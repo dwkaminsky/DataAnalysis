@@ -518,6 +518,8 @@ def get_nba_rosters_and_ESPN_links(year):
             team = 'NO'
         elif team == 'CHO':
             team = 'CHA'
+        elif team == 'BRK':
+            team = 'BKN'
         link_list.append([team, 'https://www.espn.com/nba/team/schedule?name=' + team +
                           '&season=' + str(year)])
     return rosters, link_list
@@ -601,14 +603,18 @@ def get_all_games_for_season(year):
                                                    str(year) + '/' + str(team) + '_game' +
                                                        str(idx_game) + '.csv')
             total_time = time.time() - start_time
-            print('Game ' + str(idx_game) + ' for team ' + team + ' took ' + str(total_time) +
+            print('Game ' + str(idx_game + 1) + ' for team ' + team + ' took ' + str(total_time) +
                   ' seconds')
-            print('Games Remaining: ' + str(len(link_list) - idx_game - 1))
+            print('Games Remaining: ' + str(len(link_list) - idx_game - 1) + ' of ' +
+                  str(len(link_list)))
             time_list.append(total_time)
-            print('Time Remaining: ' + str(np.mean(time_list)) + ' seconds')
+            time_remaining = np.mean(time_list)*(len(link_list) - idx_game - 1)
+            print('Time Remaining: ' + str(np.floor(time_remaining/60)) + ' minutes '
+                  + str(np.floor(time_remaining % 60))
+                  + ' seconds')
 
 
-get_all_games_for_season(2019)
+#get_all_games_for_season(2019)
 
 # # line = [
 # #     '11:65 Shannon Goad Jr. makes 6-foot three point pullup jump shot (Shannon Goad assists) 27 - 25',
