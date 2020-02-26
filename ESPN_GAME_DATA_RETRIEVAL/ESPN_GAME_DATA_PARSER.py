@@ -241,27 +241,14 @@ def getQuarterFieldGoalDF(quarter, url, browser):
 def get_detailed_df_from_line_list(line_list, home_img, away_img, quarter, home_team, away_team):
     df = pd.DataFrame(columns=play_attributes)
     for idx_line, line in enumerate(line_list):
-        home = 0
-        team = home_team
-        opponent = away_team
-        try:
-            if home_img == line[1]:
-                home = 1
-                team = home_team
-                opponent = away_team
-            else:
-                home = 0
-                team = away_team
-                opponent = away_team
-        except:
-            if away_img == line[1]:
-                home = 0
-                team = away_team
-                opponent = away_team
-        else:
+        if str(home_img) == str(line[1]):
             home = 1
             team = home_team
             opponent = away_team
+        else:
+            home = 0
+            team = away_team
+            opponent = home_team
         line = line[0].replace(' Jr. ', ' ')
         split_line = line.split()
         name = split_line[1] + ' ' + split_line[2]
@@ -300,6 +287,9 @@ def get_detailed_df_from_line_list(line_list, home_img, away_img, quarter, home_
                 play_type = play_FG_MISS
         elif 'block' in line:
             play_type = play_FG_MISS
+            opponent_ = opponent
+            opponent = team
+            team = opponent_
         elif 'rebound' in line:
             if 'offensive' in line:
                 play_type = play_OFFENSIVE_REBOUND
@@ -335,9 +325,23 @@ def get_detailed_df_from_line_list(line_list, home_img, away_img, quarter, home_
             else:
                 points = 'N/A'
             shot_type = 'N/A'
+        secondary_player = 'None'
+        if play_type in secondary_player_play_types:
+            if play_type == play_FG_MISS and 'block' in line:
+                secondary_player = name
+                name = split_line[4] + ' ' + split_line[5]
+            elif play_type == play_SUBSTITUTION:
+                secondary_player = split_line[-4] + ' ' + split_line[-5]
+            elif play_type == play_FG_ASSISTED:
+                secondary_player = split_line[-6][1:] + ' ' + split_line[-5]
+            elif 'steal' in line:
+                secondary_player = split_line[-6][1:] + ' ' + split_line[-5]
+        if team in name:
+            name = 'Team'
         df = df.append({
             PLAYER: name,
             CLOCK: time,
+            PLAYER_2: secondary_player,
             HOME: home,
             QUARTER: quarter,
             PLAY_TYPE: play_type,
@@ -351,8 +355,16 @@ def get_detailed_df_from_line_list(line_list, home_img, away_img, quarter, home_
     return df
 
 
+def fix_ESPN_link(url):
+    if 'playbyplay' in url:
+        return url
+    else:
+        return url[:-21] + 'playbyplay' + url[-17:]
+
+
 def get_game_DF_detailed(url):
     browser = webdriver.Chrome()
+    url = fix_ESPN_link(url)
     browser.get(url)
     quarter_2 = browser.find_element_by_css_selector(
         '#gamepackage-qtrs-wrap > ul > li:nth-child(2) > div.accordion-header > a')
@@ -565,124 +577,137 @@ def main():
     saveFGDF(link_list, 'C:/Users/DannyDell/Documents/NBADataProject/data/2018-19_mavs_shot_data'
                         '.csv')
 
-line = ['11:65 Devin Booker Jr. 6-foot three point pullup jump shot 27 - 25',' ']
-home_team = 'Mavericks'
-away_team = 'Suns'
-home_img = ' '
-away_img = 'false'
-home = 0
-team = home_team
-opponent = away_team
-df = pd.DataFrame(columns=play_attributes)
-idx_line = 0
-try:
-    if home_img == line[1]:
-        home = 1
-        team = home_team
-        opponent = away_team
-    else:
-        home = 0
-        team = away_team
-        opponent = away_team
-except:
-    if away_img == line[1]:
-        home = 0
-        team = away_team
-        opponent = away_team
-    else:
-        home = 1
-        team = home_team
-        opponent = away_team
-line = line[0].replace(' Jr. ', ' ')
-line_list = []
-quarter = 1
-split_line = line.split()
-name = split_line[1] + ' ' + split_line[2]
-time = split_line[0]
-score = split_line[-3] + ' - ' + split_line[-1]
-play_type = 'Unknown'
-if 'foul' in line:
-    if 'technical' in line:
-        play_type = play_FOUL_TECHNICAL
-    elif 'flagrant foul type 1' in line:
-        play_type = play_FOUL_FLAGRANT_1
-    elif 'flagrant foul type 2' in line:
-        play_type = play_FOUL_FLAGRANT_2
-    elif 'defensive 3-seconds' in line:
-        play_type = play_DEF_3_SECONDS
-    elif 'free throw' in line_list[idx_line + 1]:
-        play_type = play_FOUL_SHOOTING
-    else:
-        play_type = play_FOUL_ON_FLOOR
-elif 'enters the game' in line:
-    play_type = play_SUBSTITUTION
-elif 'vs.' in line:
-    play_type = play_JUMP_BALL
-elif 'makes' in line:
-    if 'free throw' in line:
-        play_type = play_FT
-    else:
-        if 'assist' in line:
-            play_type = play_FG_ASSISTED
-        else:
-            play_type = play_FG_UNASSISTED
-elif 'miss' in line:
-    if 'free throw' in line:
-        play_type = play_FT_MISS
-    else:
-        play_type = play_FG_MISS
-elif 'block' in line:
-    play_type = play_FG_MISS
-elif 'rebound' in line:
-    if 'offensive' in line:
-        play_type = play_OFFENSIVE_REBOUND
-    else:
-        play_type = play_DEFENSIVE_REBOUND
-if play_type in fg_play_types:
-    distance = '0'
-    points = '2'
-    if 'layup' in line:
-        shot_type = SHOT_TYPE_LAYUP
-    elif 'dunk' in line:
-        shot_type = SHOT_TYPE_DUNK
-    else:
-        shot_type = SHOT_TYPE_JUMPER
-        if line[line.find('foot') - 3:line.find('foot') - 1].isnumeric():
-            distance = line[line.find('foot') - 3:line.find('foot') - 1]
-        else:
-            distance = line[line.find('foot') - 2]
-        if line[line.find(' point ') - 3:line.find(' point ') - 1] != 'two':
-            points = '3'
-else:
-    distance = 'N/A'
-    if play_type in [play_FT, play_FT_MISS]:
-        points = '1'
-    else:
-        points = 'N/A'
-    shot_type = 'N/A'
-secondary_player = 'N/A'
-if play_type in secondary_player_play_types:
-    secondary_player = 'None'
-    # play_FG_ASSISTED, play_SUBSTITUTION, play_TURNOVER, play_FG_MISS
-    if play_type == play_FG_MISS and 'block' in line:
-        secondary_player = name
-        name = split_line[4] + ' ' + split_line[5]
 
-df = df.append({
-            PLAYER: name,
-            CLOCK: time,
-            PLAYER_2: secondary_player,
-            HOME: home,
-            QUARTER: quarter,
-            PLAY_TYPE: play_type,
-            TEAM: team,
-            OPPONENT: opponent,
-            SCORE: score,
-            DISTANCE: distance,
-            POINTS: points,
-            SHOT_TYPE: shot_type
-        }, ignore_index=True)
-print(df.iloc[0])
+# line = [
+#     '11:65 Shannon Goad Jr. makes 6-foot three point pullup jump shot (Shannon Goad assists) 27 - 25',
+#     ' ']
+# home_team = 'Mavericks'
+# away_team = 'Suns'
+# home_img = ' '
+# away_img = 'false'
+# home = 0
+# team = home_team
+# opponent = away_team
+# df = pd.DataFrame(columns=play_attributes)
+# idx_line = 0
+# try:
+#     if home_img == line[1]:
+#         home = 1
+#         team = home_team
+#         opponent = away_team
+#     else:
+#         home = 0
+#         team = away_team
+#         opponent = away_team
+# except:
+#     if away_img == line[1]:
+#         home = 0
+#         team = away_team
+#         opponent = away_team
+#     else:
+#         home = 1
+#         team = home_team
+#         opponent = away_team
+# line = line[0].replace(' Jr. ', ' ')
+# line_list = []
+# quarter = 1
+# split_line = line.split()
+# name = split_line[1] + ' ' + split_line[2]
+# time_ = split_line[0]
+# score = split_line[-3] + ' - ' + split_line[-1]
+# play_type = 'Unknown'
+# if 'foul' in line:
+#     if 'technical' in line:
+#         play_type = play_FOUL_TECHNICAL
+#     elif 'flagrant foul type 1' in line:
+#         play_type = play_FOUL_FLAGRANT_1
+#     elif 'flagrant foul type 2' in line:
+#         play_type = play_FOUL_FLAGRANT_2
+#     elif 'defensive 3-seconds' in line:
+#         play_type = play_DEF_3_SECONDS
+#     elif 'free throw' in line_list[idx_line + 1]:
+#         play_type = play_FOUL_SHOOTING
+#     else:
+#         play_type = play_FOUL_ON_FLOOR
+# elif 'enters the game' in line:
+#     play_type = play_SUBSTITUTION
+# elif 'vs.' in line:
+#     play_type = play_JUMP_BALL
+# elif 'makes' in line:
+#     if 'free throw' in line:
+#         play_type = play_FT
+#     else:
+#         if 'assist' in line:
+#             play_type = play_FG_ASSISTED
+#         else:
+#             play_type = play_FG_UNASSISTED
+# elif 'miss' in line:
+#     if 'free throw' in line:
+#         play_type = play_FT_MISS
+#     else:
+#         play_type = play_FG_MISS
+# elif 'block' in line:
+#     play_type = play_FG_MISS
+#     opponent_ = opponent
+#     opponent = team
+#     team = opponent_
+# elif 'rebound' in line:
+#     if 'offensive' in line:
+#         play_type = play_OFFENSIVE_REBOUND
+#     else:
+#         play_type = play_DEFENSIVE_REBOUND
+# if play_type in fg_play_types:
+#     distance = '0'
+#     points = '2'
+#     if 'layup' in line:
+#         shot_type = SHOT_TYPE_LAYUP
+#     elif 'dunk' in line:
+#         shot_type = SHOT_TYPE_DUNK
+#     else:
+#         shot_type = SHOT_TYPE_JUMPER
+#         if line[line.find('foot') - 3:line.find('foot') - 1].isnumeric():
+#             distance = line[line.find('foot') - 3:line.find('foot') - 1]
+#         else:
+#             distance = line[line.find('foot') - 2]
+#         if line[line.find(' point ') - 3:line.find(' point ') - 1] != 'two':
+#             points = '3'
+# else:
+#     distance = 'N/A'
+#     if play_type in [play_FT, play_FT_MISS]:
+#         points = '1'
+#     else:
+#         points = 'N/A'
+#     shot_type = 'N/A'
+# secondary_player = 'N/A'
+# if play_type in secondary_player_play_types:
+#     secondary_player = 'None'
+#     if play_type == play_FG_MISS and 'block' in line:
+#         secondary_player = name
+#         name = split_line[4] + ' ' + split_line[5]
+#     elif play_type == play_SUBSTITUTION:
+#         secondary_player = split_line[-4] + ' ' + split_line[-5]
+#     elif play_type == play_FG_ASSISTED:
+#         secondary_player = split_line[-6][1:] + ' ' + split_line[-5]
+#     elif 'steal' in line:
+#         secondary_player = split_line[-6][1:] + ' ' + split_line[-5]
+#
+# df = df.append({
+#     PLAYER: name,
+#     CLOCK: time_,
+#     PLAYER_2: secondary_player,
+#     HOME: home,
+#     QUARTER: quarter,
+#     PLAY_TYPE: play_type,
+#     TEAM: team,
+#     OPPONENT: opponent,
+#     SCORE: score,
+#     DISTANCE: distance,
+#     POINTS: points,
+#     SHOT_TYPE: shot_type
+# }, ignore_index=True)
+get_game_DF_detailed('https://www.espn.com/nba/playbyplay?gameId=401161155'). \
+    to_csv('C:/Users/DannyDell/Documents/NBADataProject/data/test_game_'
+           + str(0) + '_detailed_plays.csv')
 # link_list = get_link_list_from_ESPN_link('https://www.espn.com/nba/team/schedule'
 #                                          '?name=DAL&season=2019')
 # for idx, link in enumerate(link_list):
@@ -694,7 +719,7 @@ print(df.iloc[0])
 #     except:
 #         do_nothing = 0
 
-#get_game_DF_detailed('https://www.espn.com/nba/playbyplay?gameId=401161489')
+# get_game_DF_detailed('https://www.espn.com/nba/playbyplay?gameId=401161489')
 
 #
 # main()
