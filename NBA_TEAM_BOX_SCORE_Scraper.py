@@ -3,10 +3,12 @@ import time
 from selenium import webdriver
 from selenium.webdriver.support.ui import Select
 import pandas as pd
+from config import base_path
 import numpy as np
 import matplotlib.pyplot as plt
 from sqlalchemy import *
 
+base_path = base_path()
 # Render Page
 browser = webdriver.Chrome()
 url = 'https://stats.nba.com/teams/boxscores/'

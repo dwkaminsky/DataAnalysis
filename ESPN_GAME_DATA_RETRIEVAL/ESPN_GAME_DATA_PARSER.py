@@ -7,7 +7,9 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 from sqlalchemy import *
+from config import base_path
 
+base_path = base_path()
 mavs_roster_19_20 = ['Dorian Finney-Smith', 'Luka Doncic', 'Tim Hardaway', 'Maxi Kleber',
                      'Kristaps Porzingis', 'Seth Curry', 'Delon Wright', 'Dwight Powell',
                      'Jalen Brunson',
@@ -503,7 +505,7 @@ def saveFGDF(link_list, path, roster):
 
 
 def get_nba_rosters_and_ESPN_links(year):
-    df = pd.read_csv('C:/Users/DannyDell/Documents/NBADataProject/data/2018-19nba_rosters.csv')
+    df = pd.read_csv(base_path + '/data/2018-19nba_rosters.csv')
     team_list = list(set(df['Team']))
     rosters = dict()
     link_list = []
@@ -512,6 +514,10 @@ def get_nba_rosters_and_ESPN_links(year):
     for team in rosters.keys():
         rosters[team] = rosters[team]['First'] + ' ' + rosters[team]['Last']
         rosters[team] = list(rosters[team])
+        if team == 'NOP':
+            team = 'NO'
+        elif team == 'CHO':
+            team = 'CHA'
         link_list.append([team, 'https://www.espn.com/nba/team/schedule?name=' + team +
                           '&season=' + str(year)])
     return rosters, link_list
@@ -578,154 +584,180 @@ def main():
                         '.csv')
 
 
-# line = [
-#     '11:65 Shannon Goad Jr. makes 6-foot three point pullup jump shot (Shannon Goad assists) 27 - 25',
-#     ' ']
-# home_team = 'Mavericks'
-# away_team = 'Suns'
-# home_img = ' '
-# away_img = 'false'
-# home = 0
-# team = home_team
-# opponent = away_team
-# df = pd.DataFrame(columns=play_attributes)
-# idx_line = 0
-# try:
-#     if home_img == line[1]:
-#         home = 1
-#         team = home_team
-#         opponent = away_team
-#     else:
-#         home = 0
-#         team = away_team
-#         opponent = away_team
-# except:
-#     if away_img == line[1]:
-#         home = 0
-#         team = away_team
-#         opponent = away_team
-#     else:
-#         home = 1
-#         team = home_team
-#         opponent = away_team
-# line = line[0].replace(' Jr. ', ' ')
-# line_list = []
-# quarter = 1
-# split_line = line.split()
-# name = split_line[1] + ' ' + split_line[2]
-# time_ = split_line[0]
-# score = split_line[-3] + ' - ' + split_line[-1]
-# play_type = 'Unknown'
-# if 'foul' in line:
-#     if 'technical' in line:
-#         play_type = play_FOUL_TECHNICAL
-#     elif 'flagrant foul type 1' in line:
-#         play_type = play_FOUL_FLAGRANT_1
-#     elif 'flagrant foul type 2' in line:
-#         play_type = play_FOUL_FLAGRANT_2
-#     elif 'defensive 3-seconds' in line:
-#         play_type = play_DEF_3_SECONDS
-#     elif 'free throw' in line_list[idx_line + 1]:
-#         play_type = play_FOUL_SHOOTING
-#     else:
-#         play_type = play_FOUL_ON_FLOOR
-# elif 'enters the game' in line:
-#     play_type = play_SUBSTITUTION
-# elif 'vs.' in line:
-#     play_type = play_JUMP_BALL
-# elif 'makes' in line:
-#     if 'free throw' in line:
-#         play_type = play_FT
-#     else:
-#         if 'assist' in line:
-#             play_type = play_FG_ASSISTED
-#         else:
-#             play_type = play_FG_UNASSISTED
-# elif 'miss' in line:
-#     if 'free throw' in line:
-#         play_type = play_FT_MISS
-#     else:
-#         play_type = play_FG_MISS
-# elif 'block' in line:
-#     play_type = play_FG_MISS
-#     opponent_ = opponent
-#     opponent = team
-#     team = opponent_
-# elif 'rebound' in line:
-#     if 'offensive' in line:
-#         play_type = play_OFFENSIVE_REBOUND
-#     else:
-#         play_type = play_DEFENSIVE_REBOUND
-# if play_type in fg_play_types:
-#     distance = '0'
-#     points = '2'
-#     if 'layup' in line:
-#         shot_type = SHOT_TYPE_LAYUP
-#     elif 'dunk' in line:
-#         shot_type = SHOT_TYPE_DUNK
-#     else:
-#         shot_type = SHOT_TYPE_JUMPER
-#         if line[line.find('foot') - 3:line.find('foot') - 1].isnumeric():
-#             distance = line[line.find('foot') - 3:line.find('foot') - 1]
-#         else:
-#             distance = line[line.find('foot') - 2]
-#         if line[line.find(' point ') - 3:line.find(' point ') - 1] != 'two':
-#             points = '3'
-# else:
-#     distance = 'N/A'
-#     if play_type in [play_FT, play_FT_MISS]:
-#         points = '1'
-#     else:
-#         points = 'N/A'
-#     shot_type = 'N/A'
-# secondary_player = 'N/A'
-# if play_type in secondary_player_play_types:
-#     secondary_player = 'None'
-#     if play_type == play_FG_MISS and 'block' in line:
-#         secondary_player = name
-#         name = split_line[4] + ' ' + split_line[5]
-#     elif play_type == play_SUBSTITUTION:
-#         secondary_player = split_line[-4] + ' ' + split_line[-5]
-#     elif play_type == play_FG_ASSISTED:
-#         secondary_player = split_line[-6][1:] + ' ' + split_line[-5]
-#     elif 'steal' in line:
-#         secondary_player = split_line[-6][1:] + ' ' + split_line[-5]
-#
-# df = df.append({
-#     PLAYER: name,
-#     CLOCK: time_,
-#     PLAYER_2: secondary_player,
-#     HOME: home,
-#     QUARTER: quarter,
-#     PLAY_TYPE: play_type,
-#     TEAM: team,
-#     OPPONENT: opponent,
-#     SCORE: score,
-#     DISTANCE: distance,
-#     POINTS: points,
-#     SHOT_TYPE: shot_type
-# }, ignore_index=True)
-get_game_DF_detailed('https://www.espn.com/nba/playbyplay?gameId=401161155'). \
-    to_csv('C:/Users/DannyDell/Documents/NBADataProject/data/test_game_'
-           + str(0) + '_detailed_plays.csv')
-# link_list = get_link_list_from_ESPN_link('https://www.espn.com/nba/team/schedule'
-#                                          '?name=DAL&season=2019')
-# for idx, link in enumerate(link_list):
-#     link = link[:-21] + 'playbyplay' + link[-17:]
-#     try:
-#         df = get_game_DF_detailed(link)
-#         df.to_csv('C:/Users/DannyDell/Documents/NBADataProject/data/test_game_'
-#                   + str(idx) + '_detailed_plays.csv')
-#     except:
-#         do_nothing = 0
-
-# get_game_DF_detailed('https://www.espn.com/nba/playbyplay?gameId=401161489')
-
-#
-# main()
-# # getFGDFFromGameLinks(mavs_game_links_2020).to_csv(
-# #     'C:/Users/DannyDell/Documents/NBADataProject/data/2019-20_mavs_shot_data-quarters.csv')
+def get_all_games_for_season(year):
+    complete_link_list = []
+    _, ESPN_links = get_nba_rosters_and_ESPN_links(year)
+    for team_link in ESPN_links:
+        team = team_link[0]
+        schedule_link = team_link[1]
+        link_list = get_link_list_from_ESPN_link(schedule_link)
+        for link in link_list:
+            if link in complete_link_list:
+                link_list.remove(link)
+        time_list = []
+        for idx_game, game_link in enumerate(link_list):
+            start_time = time.time()
+            get_game_DF_detailed(game_link).to_csv(base_path + '/data/detailed_game_data/' +
+                                                   str(year) + '/' + str(team) + '_game' +
+                                                       str(idx_game) + '.csv')
+            total_time = time.time() - start_time
+            print('Game ' + str(idx_game) + ' for team ' + team + ' took ' + str(total_time) +
+                  ' seconds')
+            print('Games Remaining: ' + str(len(link_list) - idx_game - 1))
+            time_list.append(total_time)
+            print('Time Remaining: ' + str(np.mean(time_list)) + ' seconds')
 
 
-# add_quarters_and_location( 'C:/Users/DannyDell/Documents/NBADataProject/data/2019
-# -20_mavs_shot_data.csv', mavs_roster, 8938)
+get_all_games_for_season(2019)
+
+# # line = [
+# #     '11:65 Shannon Goad Jr. makes 6-foot three point pullup jump shot (Shannon Goad assists) 27 - 25',
+# #     ' ']
+# # home_team = 'Mavericks'
+# # away_team = 'Suns'
+# # home_img = ' '
+# # away_img = 'false'
+# # home = 0
+# # team = home_team
+# # opponent = away_team
+# # df = pd.DataFrame(columns=play_attributes)
+# # idx_line = 0
+# # try:
+# #     if home_img == line[1]:
+# #         home = 1
+# #         team = home_team
+# #         opponent = away_team
+# #     else:
+# #         home = 0
+# #         team = away_team
+# #         opponent = away_team
+# # except:
+# #     if away_img == line[1]:
+# #         home = 0
+# #         team = away_team
+# #         opponent = away_team
+# #     else:
+# #         home = 1
+# #         team = home_team
+# #         opponent = away_team
+# # line = line[0].replace(' Jr. ', ' ')
+# # line_list = []
+# # quarter = 1
+# # split_line = line.split()
+# # name = split_line[1] + ' ' + split_line[2]
+# # time_ = split_line[0]
+# # score = split_line[-3] + ' - ' + split_line[-1]
+# # play_type = 'Unknown'
+# # if 'foul' in line:
+# #     if 'technical' in line:
+# #         play_type = play_FOUL_TECHNICAL
+# #     elif 'flagrant foul type 1' in line:
+# #         play_type = play_FOUL_FLAGRANT_1
+# #     elif 'flagrant foul type 2' in line:
+# #         play_type = play_FOUL_FLAGRANT_2
+# #     elif 'defensive 3-seconds' in line:
+# #         play_type = play_DEF_3_SECONDS
+# #     elif 'free throw' in line_list[idx_line + 1]:
+# #         play_type = play_FOUL_SHOOTING
+# #     else:
+# #         play_type = play_FOUL_ON_FLOOR
+# # elif 'enters the game' in line:
+# #     play_type = play_SUBSTITUTION
+# # elif 'vs.' in line:
+# #     play_type = play_JUMP_BALL
+# # elif 'makes' in line:
+# #     if 'free throw' in line:
+# #         play_type = play_FT
+# #     else:
+# #         if 'assist' in line:
+# #             play_type = play_FG_ASSISTED
+# #         else:
+# #             play_type = play_FG_UNASSISTED
+# # elif 'miss' in line:
+# #     if 'free throw' in line:
+# #         play_type = play_FT_MISS
+# #     else:
+# #         play_type = play_FG_MISS
+# # elif 'block' in line:
+# #     play_type = play_FG_MISS
+# #     opponent_ = opponent
+# #     opponent = team
+# #     team = opponent_
+# # elif 'rebound' in line:
+# #     if 'offensive' in line:
+# #         play_type = play_OFFENSIVE_REBOUND
+# #     else:
+# #         play_type = play_DEFENSIVE_REBOUND
+# # if play_type in fg_play_types:
+# #     distance = '0'
+# #     points = '2'
+# #     if 'layup' in line:
+# #         shot_type = SHOT_TYPE_LAYUP
+# #     elif 'dunk' in line:
+# #         shot_type = SHOT_TYPE_DUNK
+# #     else:
+# #         shot_type = SHOT_TYPE_JUMPER
+# #         if line[line.find('foot') - 3:line.find('foot') - 1].isnumeric():
+# #             distance = line[line.find('foot') - 3:line.find('foot') - 1]
+# #         else:
+# #             distance = line[line.find('foot') - 2]
+# #         if line[line.find(' point ') - 3:line.find(' point ') - 1] != 'two':
+# #             points = '3'
+# # else:
+# #     distance = 'N/A'
+# #     if play_type in [play_FT, play_FT_MISS]:
+# #         points = '1'
+# #     else:
+# #         points = 'N/A'
+# #     shot_type = 'N/A'
+# # secondary_player = 'N/A'
+# # if play_type in secondary_player_play_types:
+# #     secondary_player = 'None'
+# #     if play_type == play_FG_MISS and 'block' in line:
+# #         secondary_player = name
+# #         name = split_line[4] + ' ' + split_line[5]
+# #     elif play_type == play_SUBSTITUTION:
+# #         secondary_player = split_line[-4] + ' ' + split_line[-5]
+# #     elif play_type == play_FG_ASSISTED:
+# #         secondary_player = split_line[-6][1:] + ' ' + split_line[-5]
+# #     elif 'steal' in line:
+# #         secondary_player = split_line[-6][1:] + ' ' + split_line[-5]
+# #
+# # df = df.append({
+# #     PLAYER: name,
+# #     CLOCK: time_,
+# #     PLAYER_2: secondary_player,
+# #     HOME: home,
+# #     QUARTER: quarter,
+# #     PLAY_TYPE: play_type,
+# #     TEAM: team,
+# #     OPPONENT: opponent,
+# #     SCORE: score,
+# #     DISTANCE: distance,
+# #     POINTS: points,
+# #     SHOT_TYPE: shot_type
+# # }, ignore_index=True)
+# get_game_DF_detailed('https://www.espn.com/nba/playbyplay?gameId=401161155'). \
+#     to_csv(base_path+'/data/test_game_'
+# #            + str(0) + '_detailed_plays.csv')
+# # # link_list = get_link_list_from_ESPN_link('https://www.espn.com/nba/team/schedule'
+# # #                                          '?name=DAL&season=2019')
+# # # for idx, link in enumerate(link_list):
+# # #     link = link[:-21] + 'playbyplay' + link[-17:]
+# # #     try:
+# # #         df = get_game_DF_detailed(link)
+# # #         df.to_csv('C:/Users/DannyDell/Documents/NBADataProject/data/test_game_'
+# # #                   + str(idx) + '_detailed_plays.csv')
+# # #     except:
+# # #         do_nothing = 0
+# #
+# # # get_game_DF_detailed('https://www.espn.com/nba/playbyplay?gameId=401161489')
+# #
+# # #
+# # # main()
+# # # # getFGDFFromGameLinks(mavs_game_links_2020).to_csv(
+# # # #     'C:/Users/DannyDell/Documents/NBADataProject/data/2019-20_mavs_shot_data-quarters.csv')
+# #
+# #
+# # # add_quarters_and_location( 'C:/Users/DannyDell/Documents/NBADataProject/data/2019
+# # # -20_mavs_shot_data.csv', mavs_roster, 8938)
