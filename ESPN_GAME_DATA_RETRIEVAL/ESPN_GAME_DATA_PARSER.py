@@ -102,11 +102,11 @@ play_SUBSTITUTION = 'SUBSTITUTION'
 play_JUMP_BALL = 'JUMP_BALL'
 play_TIMEOUT = 'TIMEOUT'
 
-play_types = {play_FG_UNASSISTED, play_FG_ASSISTED, play_FG_MISS, play_FT, play_FT_MISS,
+play_types = [play_FG_UNASSISTED, play_FG_ASSISTED, play_FG_MISS, play_FT, play_FT_MISS,
               play_TURNOVER, play_FOUL_ON_FLOOR, play_FOUL_SHOOTING, play_FOUL_TECHNICAL,
               play_FOUL_FLAGRANT_1, play_FOUL_FLAGRANT_2, play_DEF_3_SECONDS,
               play_OFFENSIVE_REBOUND, play_DEFENSIVE_REBOUND, play_SUBSTITUTION, play_JUMP_BALL,
-              play_TIMEOUT}
+              play_TIMEOUT]
 
 fg_play_types = {play_FG_UNASSISTED, play_FG_ASSISTED, play_FG_MISS}
 
@@ -526,7 +526,7 @@ def get_nba_rosters_and_ESPN_links(year):
 
 
 def get_link_list_from_ESPN_link(espn_link):
-    driver = webdriver.Chrome()
+    driver = webdriver.Chrome(executable_path=base_path+'/chromedriver.exe')
     driver.get(espn_link)
     select_season = Select(driver.find_element_by_xpath('//*[@id="fittPageContainer"]/div[2]/div[5]'
                                                         '/div[1]/div/section/div/section/div[2]/div[2]'
