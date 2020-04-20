@@ -1,0 +1,467 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Ivica Zubac,JUMP_BALL,None,12:00,1,Clippers,Lakers,0 - 0,0,N/A,N/A,N/A
+1,Patrick Beverley,FG_UNASSISTED,None,11:54,1,Clippers,Lakers,2 - 0,0,0,2,Layup
+2,JaVale McGee,FG_ASSISTED,Rajon Rondo,11:35,1,Lakers,Clippers,2 - 2,1,0,2,Dunk
+3,JaVale McGee,FOUL_ON_FLOOR,None,11:13,1,Lakers,Clippers,2 - 2,1,N/A,N/A,N/A
+4,Rajon Rondo,FOUL_ON_FLOOR,None,11:07,1,Lakers,Clippers,2 - 2,1,N/A,N/A,N/A
+5,Landry Shamet,FT,None,11:07,1,Clippers,Lakers,3 - 2,0,N/A,1,N/A
+6,Landry Shamet,FT,None,11:07,1,Clippers,Lakers,4 - 2,0,N/A,1,N/A
+7,Landry Shamet,FT,None,11:07,1,Clippers,Lakers,5 - 2,0,N/A,1,N/A
+8,JaVale McGee,FG_ASSISTED,LeBron James,10:52,1,Lakers,Clippers,5 - 4,1,0,2,Layup
+9,Shai Gilgeous-Alexander,FG_MISS,None,10:42,1,Clippers,Lakers,5 - 4,0,18,2,Jumper
+10,Reggie Bullock,DEFENSIVE_REBOUND,None,10:40,1,Lakers,Clippers,5 - 4,1,N/A,N/A,N/A
+11,Kyle Kuzma,FG_ASSISTED,Rajon Rondo,10:36,1,Lakers,Clippers,5 - 6,1,0,2,Dunk
+12,Patrick Beverley,TURNOVER,Rajon Rondo,10:22,1,Clippers,Lakers,5 - 6,0,N/A,N/A,N/A
+13,Rajon Rondo,FG_UNASSISTED,None,10:17,1,Lakers,Clippers,5 - 9,1,28,3,Jumper
+14,JaVale McGee,FOUL_ON_FLOOR,None,10:04,1,Lakers,Clippers,5 - 9,1,N/A,N/A,N/A
+15,Ivica Zubac,FT_MISS,None,10:04,1,Clippers,Lakers,5 - 9,0,N/A,1,N/A
+16,Team,OFFENSIVE_REBOUND,None,10:04,1,Clippers,Lakers,5 - 9,0,N/A,N/A,N/A
+17,Ivica Zubac,FT,None,10:04,1,Clippers,Lakers,6 - 9,0,N/A,1,N/A
+18,JaVale McGee,FG_MISS,None,9:49,1,Lakers,Clippers,6 - 9,1,0,2,Layup
+19,Team,OFFENSIVE_REBOUND,None,9:49,1,Lakers,Clippers,6 - 9,1,N/A,N/A,N/A
+20,Patrick Beverley,FOUL_ON_FLOOR,None,9:49,1,Clippers,Lakers,6 - 9,0,N/A,N/A,N/A
+21,Rajon Rondo,TURNOVER,Patrick Beverley,9:43,1,Lakers,Clippers,6 - 9,1,N/A,N/A,N/A
+22,Ivica Zubac,FG_ASSISTED,Danilo Gallinari,9:29,1,Clippers,Lakers,8 - 9,0,0,2,Layup
+23,Kyle Kuzma,FG_MISS,None,9:20,1,Lakers,Clippers,8 - 9,1,20,2,Jumper
+24,Danilo Gallinari,DEFENSIVE_REBOUND,None,9:17,1,Clippers,Lakers,8 - 9,0,N/A,N/A,N/A
+25,Danilo Gallinari,FG_MISS,None,9:09,1,Clippers,Lakers,8 - 9,0,7,2,Jumper
+26,LeBron James,DEFENSIVE_REBOUND,None,9:06,1,Lakers,Clippers,8 - 9,1,N/A,N/A,N/A
+27,Kyle Kuzma,FG_MISS,None,8:59,1,Lakers,Clippers,8 - 9,1,25,2,Jumper
+28,JaVale McGee,OFFENSIVE_REBOUND,None,8:56,1,Lakers,Clippers,8 - 9,1,N/A,N/A,N/A
+29,Danilo Gallinari,FOUL_ON_FLOOR,None,8:55,1,Clippers,Lakers,8 - 9,0,N/A,N/A,N/A
+30,LeBron James,FT,None,8:55,1,Lakers,Clippers,8 - 10,1,N/A,1,N/A
+31,Mike Muscala,SUBSTITUTION,McGee JaVale,8:55,1,Lakers,Clippers,8 - 10,1,N/A,N/A,N/A
+32,LeBron James,FT,None,8:55,1,Lakers,Clippers,8 - 11,1,N/A,1,N/A
+33,Ivica Zubac,FG_MISS,None,8:42,1,Clippers,Lakers,8 - 11,0,4,2,Jumper
+34,Kyle Kuzma,DEFENSIVE_REBOUND,None,8:39,1,Lakers,Clippers,8 - 11,1,N/A,N/A,N/A
+35,Kyle Kuzma,FG_MISS,Danilo Gallinari,8:36,1,Clippers,Lakers,8 - 11,1,3,2,Jumper
+36,Patrick Beverley,DEFENSIVE_REBOUND,None,8:33,1,Clippers,Lakers,8 - 11,0,N/A,N/A,N/A
+37,Kyle Kuzma,FOUL_ON_FLOOR,None,8:28,1,Lakers,Clippers,8 - 11,1,N/A,N/A,N/A
+38,Danilo Gallinari,FG_ASSISTED,Ivica Zubac,8:22,1,Clippers,Lakers,10 - 11,0,16,2,Jumper
+39,Mike Muscala,FG_MISS,None,8:04,1,Lakers,Clippers,10 - 11,1, ,2,Jumper
+40,Ivica Zubac,DEFENSIVE_REBOUND,None,8:02,1,Clippers,Lakers,10 - 11,0,N/A,N/A,N/A
+41,Patrick Beverley,FG_ASSISTED,Landry Shamet,7:52,1,Clippers,Lakers,13 - 11,0,24,2,Jumper
+42,Ivica Zubac,FOUL_TECHNICAL,None,7:36,1,Clippers,Lakers,13 - 11,0,N/A,N/A,N/A
+43,Reggie Bullock,FT,None,7:36,1,Lakers,Clippers,13 - 12,1,N/A,1,N/A
+44,Ivica Zubac,FOUL_ON_FLOOR,None,7:30,1,Clippers,Lakers,13 - 12,0,N/A,N/A,N/A
+45,Mike Muscala,FT,None,7:30,1,Lakers,Clippers,13 - 13,1,N/A,1,N/A
+46,Mike Muscala,FT,None,7:30,1,Lakers,Clippers,13 - 14,1,N/A,1,N/A
+47,Danilo Gallinari,FG_MISS,None,7:18,1,Clippers,Lakers,13 - 14,0,27,3,Jumper
+48,Rajon Rondo,DEFENSIVE_REBOUND,None,7:16,1,Lakers,Clippers,13 - 14,1,N/A,N/A,N/A
+49,Danilo Gallinari,FOUL_ON_FLOOR,None,7:11,1,Clippers,Lakers,13 - 14,0,N/A,N/A,N/A
+50,JaMychal Green,SUBSTITUTION,Gallinari Danilo,7:11,1,Clippers,Lakers,13 - 14,0,N/A,N/A,N/A
+51,Rajon Rondo,TURNOVER,Patrick Beverley,6:51,1,Lakers,Clippers,13 - 14,1,N/A,N/A,N/A
+52,Patrick Beverley,TURNOVER,None,6:46,1,Clippers,Lakers,13 - 14,0,N/A,N/A,N/A
+53,Team,Unknown,None,6:46,1,Lakers,Clippers,13 - 14,1,N/A,N/A,N/A
+54,Reggie Bullock,FG_MISS,None,6:31,1,Lakers,Clippers,13 - 14,1,27,3,Jumper
+55,Kyle Kuzma,OFFENSIVE_REBOUND,None,6:26,1,Lakers,Clippers,13 - 14,1,N/A,N/A,N/A
+56,Kyle Kuzma,FG_MISS,None,6:26,1,Lakers,Clippers,13 - 14,1, ,2,Jumper
+57,Patrick Beverley,DEFENSIVE_REBOUND,None,6:25,1,Clippers,Lakers,13 - 14,0,N/A,N/A,N/A
+58,Shai Gilgeous-Alexander,FG_UNASSISTED,None,6:13,1,Clippers,Lakers,15 - 14,0,19,2,Jumper
+59,Rajon Rondo,FG_UNASSISTED,None,6:02,1,Lakers,Clippers,15 - 17,1,29,3,Jumper
+60,Landry Shamet,FG_MISS,None,5:47,1,Clippers,Lakers,15 - 17,0,24,3,Jumper
+61,Rajon Rondo,DEFENSIVE_REBOUND,None,5:44,1,Lakers,Clippers,15 - 17,1,N/A,N/A,N/A
+62,LeBron James,FG_UNASSISTED,None,5:39,1,Lakers,Clippers,15 - 19,1, ,2,Jumper
+63,Landry Shamet,FG_MISS,None,5:17,1,Clippers,Lakers,15 - 19,0,20,2,Jumper
+64,Reggie Bullock,DEFENSIVE_REBOUND,None,5:13,1,Lakers,Clippers,15 - 19,1,N/A,N/A,N/A
+65,Reggie Bullock,FG_MISS,None,5:08,1,Lakers,Clippers,15 - 19,1,23,3,Jumper
+66,JaMychal Green,DEFENSIVE_REBOUND,None,5:05,1,Clippers,Lakers,15 - 19,0,N/A,N/A,N/A
+67,Landry Shamet,FG_MISS,None,5:01,1,Clippers,Lakers,15 - 19,0,22,3,Jumper
+68,Kyle Kuzma,DEFENSIVE_REBOUND,None,4:58,1,Lakers,Clippers,15 - 19,1,N/A,N/A,N/A
+69,LeBron James,FG_MISS,Shai Gilgeous-Alexander,4:50,1,Clippers,Lakers,15 - 19,1,0,2,Layup
+70,Team,OFFENSIVE_REBOUND,None,4:50,1,Lakers,Clippers,15 - 19,1,N/A,N/A,N/A
+71,Montrezl Harrell,SUBSTITUTION,Shamet Landry,4:50,1,Clippers,Lakers,15 - 19,0,N/A,N/A,N/A
+72,Lou Williams,SUBSTITUTION,Zubac Ivica,4:50,1,Clippers,Lakers,15 - 19,0,N/A,N/A,N/A
+73,Reggie Bullock,FG_ASSISTED,Rajon Rondo,4:47,1,Lakers,Clippers,15 - 21,1,19,2,Jumper
+74,Patrick Beverley,FG_ASSISTED,Montrezl Harrell,4:35,1,Clippers,Lakers,18 - 21,0,27,3,Jumper
+75,Rajon Rondo,FG_MISS,None,4:17,1,Lakers,Clippers,18 - 21,1, ,2,Jumper
+76,Montrezl Harrell,DEFENSIVE_REBOUND,None,4:15,1,Clippers,Lakers,18 - 21,0,N/A,N/A,N/A
+77,Shai Gilgeous-Alexander,FG_MISS,None,4:03,1,Clippers,Lakers,18 - 21,0,23,3,Jumper
+78,Rajon Rondo,DEFENSIVE_REBOUND,None,4:00,1,Lakers,Clippers,18 - 21,1,N/A,N/A,N/A
+79,Mike Muscala,FG_MISS,None,3:56,1,Lakers,Clippers,18 - 21,1,28,3,Jumper
+80,JaMychal Green,DEFENSIVE_REBOUND,None,3:53,1,Clippers,Lakers,18 - 21,0,N/A,N/A,N/A
+81,Lou Williams,TURNOVER,None,3:50,1,Clippers,Lakers,18 - 21,0,N/A,N/A,N/A
+82,Josh Hart,SUBSTITUTION,James LeBron,3:50,1,Lakers,Clippers,18 - 21,1,N/A,N/A,N/A
+83,Kyle Kuzma,FG_ASSISTED,Reggie Bullock,3:36,1,Lakers,Clippers,18 - 23,1,5,2,Jumper
+84,Team,Unknown,None,3:30,1,Clippers,Lakers,18 - 23,0,N/A,N/A,N/A
+85,Kentavious Caldwell-Pope,SUBSTITUTION,Bullock Reggie,3:30,1,Lakers,Clippers,18 - 23,1,N/A,N/A,N/A
+86,Garrett Temple,SUBSTITUTION,Beverley Patrick,3:30,1,Clippers,Lakers,18 - 23,0,N/A,N/A,N/A
+87,Mike Muscala,FOUL_ON_FLOOR,None,3:23,1,Lakers,Clippers,18 - 23,1,N/A,N/A,N/A
+88,Lou Williams,FT,None,3:23,1,Clippers,Lakers,19 - 23,0,N/A,1,N/A
+89,Lou Williams,FT,None,3:23,1,Clippers,Lakers,20 - 23,0,N/A,1,N/A
+90,Kyle Kuzma,FG_ASSISTED,Rajon Rondo,3:11,1,Lakers,Clippers,20 - 25,1,14,2,Jumper
+91,JaMychal Green,FG_MISS,None,2:52,1,Clippers,Lakers,20 - 25,0,12,2,Jumper
+92,Josh Hart,DEFENSIVE_REBOUND,None,2:49,1,Lakers,Clippers,20 - 25,1,N/A,N/A,N/A
+93,Josh Hart,FG_MISS,Shai Gilgeous-Alexander,2:45,1,Clippers,Lakers,20 - 25,1,3,2,Jumper
+94,Team,OFFENSIVE_REBOUND,None,2:45,1,Lakers,Clippers,20 - 25,1,N/A,N/A,N/A
+95,Tyrone Wallace,SUBSTITUTION,Gilgeous-Alexander Shai,2:45,1,Clippers,Lakers,20 - 25,0,N/A,N/A,N/A
+96,Mike Muscala,FG_MISS,None,2:39,1,Lakers,Clippers,20 - 25,1,3,2,Jumper
+97,Garrett Temple,DEFENSIVE_REBOUND,None,2:36,1,Clippers,Lakers,20 - 25,0,N/A,N/A,N/A
+98,Lou Williams,FG_ASSISTED,Garrett Temple,2:29,1,Clippers,Lakers,22 - 25,0,0,2,Dunk
+99,Kyle Kuzma,FG_ASSISTED,Rajon Rondo,2:17,1,Lakers,Clippers,22 - 28,1,26,3,Jumper
+100,Garrett Temple,FG_MISS,None,2:05,1,Clippers,Lakers,22 - 28,0,26,3,Jumper
+101,Mike Muscala,DEFENSIVE_REBOUND,None,2:02,1,Lakers,Clippers,22 - 28,1,N/A,N/A,N/A
+102,JaMychal Green,FOUL_ON_FLOOR,None,1:51,1,Clippers,Lakers,22 - 28,0,N/A,N/A,N/A
+103,Kyle Kuzma,FT,None,1:51,1,Lakers,Clippers,22 - 29,1,N/A,1,N/A
+104,Moritz Wagner,SUBSTITUTION,Muscala Mike,1:51,1,Lakers,Clippers,22 - 29,1,N/A,N/A,N/A
+105,Kyle Kuzma,FT,None,1:51,1,Lakers,Clippers,22 - 30,1,N/A,1,N/A
+106,Rajon Rondo,FOUL_ON_FLOOR,None,1:40,1,Lakers,Clippers,22 - 30,1,N/A,N/A,N/A
+107,Garrett Temple,FT,None,1:40,1,Clippers,Lakers,23 - 30,0,N/A,1,N/A
+108,LeBron James,SUBSTITUTION,Rondo Rajon,1:40,1,Lakers,Clippers,23 - 30,1,N/A,N/A,N/A
+109,Garrett Temple,FT,None,1:40,1,Clippers,Lakers,24 - 30,0,N/A,1,N/A
+110,LeBron James,FG_MISS,None,1:30,1,Lakers,Clippers,24 - 30,1, ,2,Jumper
+111,JaMychal Green,DEFENSIVE_REBOUND,None,1:26,1,Clippers,Lakers,24 - 30,0,N/A,N/A,N/A
+112,Tyrone Wallace,FG_MISS,None,1:23,1,Clippers,Lakers,24 - 30,0, ,2,Jumper
+113,Josh Hart,DEFENSIVE_REBOUND,None,1:20,1,Lakers,Clippers,24 - 30,1,N/A,N/A,N/A
+114,Tyrone Wallace,FOUL_ON_FLOOR,None,1:04,1,Clippers,Lakers,24 - 30,0,N/A,N/A,N/A
+115,LeBron James,FT,None,1:04,1,Lakers,Clippers,24 - 31,1,N/A,1,N/A
+116,LeBron James,FT_MISS,None,1:04,1,Lakers,Clippers,24 - 31,1,N/A,1,N/A
+117,Montrezl Harrell,DEFENSIVE_REBOUND,None,1:01,1,Clippers,Lakers,24 - 31,0,N/A,N/A,N/A
+118,Lou Williams,TURNOVER,None,52.0,1,Clippers,Lakers,24 - 31,0,N/A,N/A,N/A
+119,Garrett Temple,FOUL_ON_FLOOR,None,42.3,1,Clippers,Lakers,24 - 31,0,N/A,N/A,N/A
+120,Garrett Temple,FOUL_TECHNICAL,None,42.3,1,Clippers,Lakers,24 - 31,0,N/A,N/A,N/A
+121,Kentavious Caldwell-Pope,FT,None,42.3,1,Lakers,Clippers,24 - 32,1,N/A,1,N/A
+122,LeBron James,FT,None,42.3,1,Lakers,Clippers,24 - 33,1,N/A,1,N/A
+123,LeBron James,FT,None,42.3,1,Lakers,Clippers,24 - 34,1,N/A,1,N/A
+124,Lou Williams,FG_UNASSISTED,None,35.2,1,Clippers,Lakers,26 - 34,0,19,2,Jumper
+125,LeBron James,FG_MISS,None,23.7,1,Lakers,Clippers,26 - 34,1, ,2,Jumper
+126,Tyrone Wallace,DEFENSIVE_REBOUND,None,20.8,1,Clippers,Lakers,26 - 34,0,N/A,N/A,N/A
+127,JaMychal Green,JUMP_BALL,None,11.7,1,Lakers,Clippers,26 - 34,1,N/A,N/A,N/A
+128,Tyrone Wallace,TURNOVER,None,11.7,1,Clippers,Lakers,26 - 34,0,N/A,N/A,N/A
+129,Josh Hart,FG_MISS,None,0.8,1,Lakers,Clippers,26 - 34,1,23,3,Jumper
+130,Team,OFFENSIVE_REBOUND,None,0.1,1,Lakers,Clippers,26 - 34,1,N/A,N/A,N/A
+131,End of,Unknown,None,0.0,1,Lakers,Clippers,26 - 34,1,N/A,N/A,N/A
+0,Kentavious Caldwell-Pope,FG_MISS,None,11:48,2,Lakers,Clippers,26 - 34,1,15,2,Jumper
+1,Team,OFFENSIVE_REBOUND,None,11:48,2,Lakers,Clippers,26 - 34,1,N/A,N/A,N/A
+2,Garrett Temple,FOUL_ON_FLOOR,None,11:48,2,Clippers,Lakers,26 - 34,0,N/A,N/A,N/A
+3,Reggie Bullock,SUBSTITUTION,Kuzma Kyle,11:48,2,Lakers,Clippers,26 - 34,1,N/A,N/A,N/A
+4,Josh Hart,FG_ASSISTED,LeBron James,11:41,2,Lakers,Clippers,26 - 36,1,0,2,Layup
+5,Lou Williams,TURNOVER,LeBron James,11:29,2,Clippers,Lakers,26 - 36,0,N/A,N/A,N/A
+6,Kentavious Caldwell-Pope,FG_MISS,None,11:23,2,Lakers,Clippers,26 - 36,1,26,3,Jumper
+7,Tyrone Wallace,DEFENSIVE_REBOUND,None,11:18,2,Clippers,Lakers,26 - 36,0,N/A,N/A,N/A
+8,JaMychal Green,TURNOVER,None,11:12,2,Clippers,Lakers,26 - 36,0,N/A,N/A,N/A
+9,Kentavious Caldwell-Pope,FG_MISS,None,11:00,2,Lakers,Clippers,26 - 36,1,0,2,Layup
+10,Tyrone Wallace,DEFENSIVE_REBOUND,None,10:58,2,Clippers,Lakers,26 - 36,0,N/A,N/A,N/A
+11,JaMychal Green,FG_ASSISTED,Lou Williams,10:54,2,Clippers,Lakers,29 - 36,0,24,2,Jumper
+12,LeBron James,FG_MISS,None,10:43,2,Lakers,Clippers,29 - 36,1,30,3,Jumper
+13,Moritz Wagner,OFFENSIVE_REBOUND,None,10:41,2,Lakers,Clippers,29 - 36,1,N/A,N/A,N/A
+14,Moritz Wagner,FG_MISS,None,10:41,2,Lakers,Clippers,29 - 36,1, ,2,Jumper
+15,Moritz Wagner,OFFENSIVE_REBOUND,None,10:40,2,Lakers,Clippers,29 - 36,1,N/A,N/A,N/A
+16,Reggie Bullock,TURNOVER,JaMychal Green,10:38,2,Lakers,Clippers,29 - 36,1,N/A,N/A,N/A
+17,Reggie Bullock,FOUL_ON_FLOOR,None,10:36,2,Lakers,Clippers,29 - 36,1,N/A,N/A,N/A
+18,Tyrone Wallace,FT,None,10:36,2,Clippers,Lakers,30 - 36,0,N/A,1,N/A
+19,Tyrone Wallace,FT,None,10:36,2,Clippers,Lakers,31 - 36,0,N/A,1,N/A
+20,Moritz Wagner,FG_MISS,None,10:19,2,Lakers,Clippers,31 - 36,1,27,3,Jumper
+21,Montrezl Harrell,DEFENSIVE_REBOUND,None,10:18,2,Clippers,Lakers,31 - 36,0,N/A,N/A,N/A
+22,LeBron James,FOUL_ON_FLOOR,None,10:14,2,Lakers,Clippers,31 - 36,1,N/A,N/A,N/A
+23,Lou Williams,FT,None,10:14,2,Clippers,Lakers,32 - 36,0,N/A,1,N/A
+24,Rajon Rondo,SUBSTITUTION,Caldwell-Pope Kentavious,10:14,2,Lakers,Clippers,32 - 36,1,N/A,N/A,N/A
+25,Lou Williams,FT,None,10:14,2,Clippers,Lakers,33 - 36,0,N/A,1,N/A
+26,Josh Hart,FG_MISS,None,9:54,2,Lakers,Clippers,33 - 36,1,0,2,Layup
+27,Garrett Temple,DEFENSIVE_REBOUND,None,9:52,2,Clippers,Lakers,33 - 36,0,N/A,N/A,N/A
+28,Tyrone Wallace,FG_UNASSISTED,None,9:37,2,Clippers,Lakers,35 - 36,0,0,2,Layup
+29,Team,Unknown,None,9:37,2,Lakers,Clippers,35 - 36,1,N/A,N/A,N/A
+30,Kyle Kuzma,SUBSTITUTION,Hart Josh,9:37,2,Lakers,Clippers,35 - 36,1,N/A,N/A,N/A
+31,JaVale McGee,SUBSTITUTION,Wagner Moritz,9:37,2,Lakers,Clippers,35 - 36,1,N/A,N/A,N/A
+32,JaVale McGee,FG_MISS,None,9:18,2,Lakers,Clippers,35 - 36,1,9,2,Jumper
+33,JaMychal Green,DEFENSIVE_REBOUND,None,9:17,2,Clippers,Lakers,35 - 36,0,N/A,N/A,N/A
+34,JaMychal Green,FG_MISS,None,9:10,2,Clippers,Lakers,35 - 36,0,27,3,Jumper
+35,Montrezl Harrell,OFFENSIVE_REBOUND,None,9:07,2,Clippers,Lakers,35 - 36,0,N/A,N/A,N/A
+36,Montrezl Harrell's,FG_MISS,JaVale McGee,9:06,2,Lakers,Clippers,35 - 36,0, ,2,Jumper
+37,Tyrone Wallace,OFFENSIVE_REBOUND,None,9:02,2,Clippers,Lakers,35 - 36,0,N/A,N/A,N/A
+38,Tyrone Wallace's,FG_MISS,JaVale McGee,8:56,2,Lakers,Clippers,35 - 36,0,0,2,Layup
+39,JaMychal Green,OFFENSIVE_REBOUND,None,8:53,2,Clippers,Lakers,35 - 36,0,N/A,N/A,N/A
+40,JaMychal Green,FG_MISS,None,8:52,2,Clippers,Lakers,35 - 36,0,24,3,Jumper
+41,shot clock,TURNOVER,None,8:52,2,Clippers,Lakers,35 - 36,0,N/A,N/A,N/A
+42,Team,OFFENSIVE_REBOUND,None,8:52,2,Clippers,Lakers,35 - 36,0,N/A,N/A,N/A
+43,LeBron James,FG_ASSISTED,Rajon Rondo,8:42,2,Lakers,Clippers,35 - 38,1,0,2,Dunk
+44,Kyle Kuzma,FOUL_TECHNICAL,None,8:27,2,Lakers,Clippers,35 - 38,1,N/A,N/A,N/A
+45,Lou Williams,FT,None,8:27,2,Clippers,Lakers,36 - 38,0,N/A,1,N/A
+46,Landry Shamet,SUBSTITUTION,Wallace Tyrone,8:27,2,Clippers,Lakers,36 - 38,0,N/A,N/A,N/A
+47,Patrick Beverley,SUBSTITUTION,Temple Garrett,8:27,2,Clippers,Lakers,36 - 38,0,N/A,N/A,N/A
+48,Montrezl Harrell,FG_UNASSISTED,None,8:21,2,Clippers,Lakers,38 - 38,0,0,2,Layup
+49,Rajon Rondo,FG_UNASSISTED,None,8:10,2,Lakers,Clippers,38 - 41,1,28,2,Jumper
+50,Montrezl Harrell,FG_ASSISTED,Lou Williams,7:55,2,Clippers,Lakers,40 - 41,0,0,2,Layup
+51,Kyle Kuzma,FG_MISS,None,7:38,2,Lakers,Clippers,40 - 41,1,9,2,Jumper
+52,JaMychal Green,DEFENSIVE_REBOUND,None,7:35,2,Clippers,Lakers,40 - 41,0,N/A,N/A,N/A
+53,Patrick Beverley,FG_MISS,None,7:21,2,Clippers,Lakers,40 - 41,0,26,3,Jumper
+54,LeBron James,DEFENSIVE_REBOUND,None,7:19,2,Lakers,Clippers,40 - 41,1,N/A,N/A,N/A
+55,Rajon Rondo,TURNOVER,Patrick Beverley,7:12,2,Lakers,Clippers,40 - 41,1,N/A,N/A,N/A
+56,Lou Williams,FG_MISS,None,6:55,2,Clippers,Lakers,40 - 41,0,23,3,Jumper
+57,Patrick Beverley,OFFENSIVE_REBOUND,None,6:52,2,Clippers,Lakers,40 - 41,0,N/A,N/A,N/A
+58,Montrezl Harrell,FG_ASSISTED,Patrick Beverley,6:49,2,Clippers,Lakers,42 - 41,0,0,2,Dunk
+59,Team,Unknown,None,6:48,2,Lakers,Clippers,42 - 41,1,N/A,N/A,N/A
+60,Josh Hart,SUBSTITUTION,James LeBron,6:48,2,Lakers,Clippers,42 - 41,1,N/A,N/A,N/A
+61,Danilo Gallinari,SUBSTITUTION,Green JaMychal,6:48,2,Clippers,Lakers,42 - 41,0,N/A,N/A,N/A
+62,JaVale McGee,FG_MISS,None,6:31,2,Lakers,Clippers,42 - 41,1,9,2,Jumper
+63,Danilo Gallinari,DEFENSIVE_REBOUND,None,6:29,2,Clippers,Lakers,42 - 41,0,N/A,N/A,N/A
+64,Landry Shamet,FG_MISS,None,6:18,2,Clippers,Lakers,42 - 41,0,28,3,Jumper
+65,Rajon Rondo,DEFENSIVE_REBOUND,None,6:13,2,Lakers,Clippers,42 - 41,1,N/A,N/A,N/A
+66,Rajon Rondo,FG_UNASSISTED,None,6:07,2,Lakers,Clippers,42 - 43,1,6,2,Jumper
+67,Montrezl Harrell,FG_MISS,Reggie Bullock,5:51,2,Lakers,Clippers,42 - 43,0,0,2,Layup
+68,Team,OFFENSIVE_REBOUND,None,5:51,2,Clippers,Lakers,42 - 43,0,N/A,N/A,N/A
+69,Montrezl Harrell,FG_MISS,None,5:47,2,Clippers,Lakers,42 - 43,0,16,2,Jumper
+70,Rajon Rondo,DEFENSIVE_REBOUND,None,5:43,2,Lakers,Clippers,42 - 43,1,N/A,N/A,N/A
+71,Kyle Kuzma,TURNOVER,None,5:38,2,Lakers,Clippers,42 - 43,1,N/A,N/A,N/A
+72,Shai Gilgeous-Alexander,SUBSTITUTION,Williams Lou,5:38,2,Clippers,Lakers,42 - 43,0,N/A,N/A,N/A
+73,Danilo Gallinari,FG_ASSISTED,Landry Shamet,5:23,2,Clippers,Lakers,45 - 43,0,25,3,Jumper
+74,Kyle Kuzma,TURNOVER,Patrick Beverley,4:59,2,Lakers,Clippers,45 - 43,1,N/A,N/A,N/A
+75,Rajon Rondo,FOUL_ON_FLOOR,None,4:58,2,Lakers,Clippers,45 - 43,1,N/A,N/A,N/A
+76,Patrick Beverley,FT,None,4:58,2,Clippers,Lakers,46 - 43,0,N/A,1,N/A
+77,LeBron James,SUBSTITUTION,McGee JaVale,4:58,2,Lakers,Clippers,46 - 43,1,N/A,N/A,N/A
+78,Patrick Beverley,FT,None,4:58,2,Clippers,Lakers,47 - 43,0,N/A,1,N/A
+79,Reggie Bullock,FG_MISS,None,4:48,2,Lakers,Clippers,47 - 43,1,26,3,Jumper
+80,Danilo Gallinari,DEFENSIVE_REBOUND,None,4:46,2,Clippers,Lakers,47 - 43,0,N/A,N/A,N/A
+81,Shai Gilgeous-Alexander,FG_ASSISTED,Montrezl Harrell,4:33,2,Clippers,Lakers,49 - 43,0, ,2,Jumper
+82,Rajon Rondo,FG_MISS,None,4:20,2,Lakers,Clippers,49 - 43,1,28,2,Jumper
+83,Landry Shamet,DEFENSIVE_REBOUND,None,4:18,2,Clippers,Lakers,49 - 43,0,N/A,N/A,N/A
+84,Montrezl Harrell,FG_MISS,None,4:03,2,Clippers,Lakers,49 - 43,0,2,2,Jumper
+85,LeBron James,DEFENSIVE_REBOUND,None,4:01,2,Lakers,Clippers,49 - 43,1,N/A,N/A,N/A
+86,LeBron James,FG_UNASSISTED,None,3:59,2,Lakers,Clippers,49 - 45,1, ,2,Jumper
+87,Montrezl Harrell,FOUL_ON_FLOOR,None,3:59,2,Clippers,Lakers,49 - 45,0,N/A,N/A,N/A
+88,LeBron James,FT,None,3:59,2,Lakers,Clippers,49 - 46,1,N/A,1,N/A
+89,Landry Shamet,FG_ASSISTED,Shai Gilgeous-Alexander,3:51,2,Clippers,Lakers,52 - 46,0,27,3,Jumper
+90,Rajon Rondo,FG_MISS,None,3:26,2,Lakers,Clippers,52 - 46,1,26,3,Jumper
+91,Montrezl Harrell,DEFENSIVE_REBOUND,None,3:24,2,Clippers,Lakers,52 - 46,0,N/A,N/A,N/A
+92,Landry Shamet,FG_MISS,None,3:15,2,Clippers,Lakers,52 - 46,0,23,3,Jumper
+93,Rajon Rondo,DEFENSIVE_REBOUND,None,3:13,2,Lakers,Clippers,52 - 46,1,N/A,N/A,N/A
+94,Josh Hart,FG_ASSISTED,Kyle Kuzma,3:08,2,Lakers,Clippers,52 - 49,1,23,3,Jumper
+95,Team,Unknown,None,3:05,2,Clippers,Lakers,52 - 49,0,N/A,N/A,N/A
+96,Kentavious Caldwell-Pope,SUBSTITUTION,Rondo Rajon,3:05,2,Lakers,Clippers,52 - 49,1,N/A,N/A,N/A
+97,Alex Caruso,SUBSTITUTION,Bullock Reggie,3:05,2,Lakers,Clippers,52 - 49,1,N/A,N/A,N/A
+98,Montrezl Harrell,TURNOVER,None,2:52,2,Clippers,Lakers,52 - 49,0,N/A,N/A,N/A
+99,Kyle Kuzma,TURNOVER,Patrick Beverley,2:39,2,Lakers,Clippers,52 - 49,1,N/A,N/A,N/A
+100,Danilo Gallinari,FG_MISS,None,2:25,2,Clippers,Lakers,52 - 49,0,19,2,Jumper
+101,LeBron James,DEFENSIVE_REBOUND,None,2:22,2,Lakers,Clippers,52 - 49,1,N/A,N/A,N/A
+102,Josh Hart,FG_ASSISTED,LeBron James,2:13,2,Lakers,Clippers,52 - 52,1,27,2,Jumper
+103,Danilo Gallinari,FG_ASSISTED,Montrezl Harrell,2:03,2,Clippers,Lakers,54 - 52,0,0,2,Layup
+104,Kyle Kuzma,FOUL_ON_FLOOR,None,2:03,2,Lakers,Clippers,54 - 52,1,N/A,N/A,N/A
+105,Lou Williams,SUBSTITUTION,Gilgeous-Alexander Shai,2:03,2,Clippers,Lakers,54 - 52,0,N/A,N/A,N/A
+106,Danilo Gallinari,FT_MISS,None,2:03,2,Clippers,Lakers,54 - 52,0,N/A,1,N/A
+107,Kyle Kuzma,DEFENSIVE_REBOUND,None,2:00,2,Lakers,Clippers,54 - 52,1,N/A,N/A,N/A
+108,LeBron James,FG_UNASSISTED,None,1:49,2,Lakers,Clippers,54 - 55,1,27,3,Jumper
+109,Danilo Gallinari,FG_ASSISTED,Lou Williams,1:29,2,Clippers,Lakers,57 - 55,0,26,3,Jumper
+110,LeBron James,FG_MISS,None,1:02,2,Lakers,Clippers,57 - 55,1,23,3,Jumper
+111,Montrezl Harrell,DEFENSIVE_REBOUND,None,59.2,2,Clippers,Lakers,57 - 55,0,N/A,N/A,N/A
+112,Montrezl Harrell,TURNOVER,None,50.5,2,Clippers,Lakers,57 - 55,0,N/A,N/A,N/A
+113,LeBron James,FG_ASSISTED,Alex Caruso,45.2,2,Lakers,Clippers,57 - 57,1,0,2,Layup
+114,Danilo Gallinari,FG_ASSISTED,Montrezl Harrell,31.2,2,Clippers,Lakers,59 - 57,0,0,2,Layup
+115,LeBron James,FG_MISS,None,28.0,2,Lakers,Clippers,59 - 57,1,28,3,Jumper
+116,Team,DEFENSIVE_REBOUND,None,27.2,2,Clippers,Lakers,59 - 57,0,N/A,N/A,N/A
+117,Alex Caruso,FOUL_ON_FLOOR,None,27.2,2,Lakers,Clippers,59 - 57,1,N/A,N/A,N/A
+118,Danilo Gallinari,FT,None,27.2,2,Clippers,Lakers,60 - 57,0,N/A,1,N/A
+119,Sindarius Thornwell,SUBSTITUTION,Williams Lou,27.2,2,Clippers,Lakers,60 - 57,0,N/A,N/A,N/A
+120,Danilo Gallinari,FT,None,27.2,2,Clippers,Lakers,61 - 57,0,N/A,1,N/A
+121,LeBron James,FOUL_ON_FLOOR,None,6.2,2,Lakers,Clippers,61 - 57,1,N/A,N/A,N/A
+122,LeBron James,TURNOVER,None,6.2,2,Lakers,Clippers,61 - 57,1,N/A,N/A,N/A
+123,Lou Williams,SUBSTITUTION,Thornwell Sindarius,6.2,2,Clippers,Lakers,61 - 57,0,N/A,N/A,N/A
+124,Lou Williams,FG_MISS,None,0.1,2,Clippers,Lakers,61 - 57,0,27,3,Jumper
+125,Team,OFFENSIVE_REBOUND,None,0.1,2,Clippers,Lakers,61 - 57,0,N/A,N/A,N/A
+126,End of,Unknown,None,0.0,2,Lakers,Clippers,61 - 57,1,N/A,N/A,N/A
+0,JaVale McGee,SUBSTITUTION,Caldwell-Pope Kentavious,12:00,3,Lakers,Clippers,61 - 57,1,N/A,N/A,N/A
+1,Reggie Bullock,SUBSTITUTION,Hart Josh,12:00,3,Lakers,Clippers,61 - 57,1,N/A,N/A,N/A
+2,Rajon Rondo,SUBSTITUTION,Caruso Alex,12:00,3,Lakers,Clippers,61 - 57,1,N/A,N/A,N/A
+3,Shai Gilgeous-Alexander,SUBSTITUTION,Harrell Montrezl,12:00,3,Clippers,Lakers,61 - 57,0,N/A,N/A,N/A
+4,Ivica Zubac,SUBSTITUTION,Williams Lou,12:00,3,Clippers,Lakers,61 - 57,0,N/A,N/A,N/A
+5,Shai Gilgeous-Alexander,Unknown,None,11:47,3,Clippers,Lakers,61 - 57,0,N/A,N/A,N/A
+6,Kyle Kuzma,FG_MISS,None,11:37,3,Lakers,Clippers,61 - 57,1,25,3,Jumper
+7,JaVale McGee,OFFENSIVE_REBOUND,None,11:33,3,Lakers,Clippers,61 - 57,1,N/A,N/A,N/A
+8,Kyle Kuzma,FG_MISS,None,11:31,3,Lakers,Clippers,61 - 57,1,0,2,Layup
+9,JaVale McGee,OFFENSIVE_REBOUND,None,11:29,3,Lakers,Clippers,61 - 57,1,N/A,N/A,N/A
+10,JaVale McGee,FG_MISS,None,11:29,3,Lakers,Clippers,61 - 57,1, ,2,Jumper
+11,Ivica Zubac,DEFENSIVE_REBOUND,None,11:29,3,Clippers,Lakers,61 - 57,0,N/A,N/A,N/A
+12,LeBron James,FOUL_ON_FLOOR,None,11:29,3,Lakers,Clippers,61 - 57,1,N/A,N/A,N/A
+13,Kyle Kuzma,FOUL_ON_FLOOR,None,11:17,3,Lakers,Clippers,61 - 57,1,N/A,N/A,N/A
+14,Patrick Beverley,FG_MISS,None,11:05,3,Clippers,Lakers,61 - 57,0,27,3,Jumper
+15,Reggie Bullock,DEFENSIVE_REBOUND,None,11:02,3,Lakers,Clippers,61 - 57,1,N/A,N/A,N/A
+16,JaVale McGee,FG_MISS,None,10:45,3,Lakers,Clippers,61 - 57,1,6,2,Jumper
+17,Patrick Beverley,DEFENSIVE_REBOUND,None,10:43,3,Clippers,Lakers,61 - 57,0,N/A,N/A,N/A
+18,Danilo Gallinari,FG_ASSISTED,Patrick Beverley,10:35,3,Clippers,Lakers,63 - 57,0,17,2,Jumper
+19,LeBron James,FG_UNASSISTED,None,10:12,3,Lakers,Clippers,63 - 59,1,4,2,Jumper
+20,Ivica Zubac,FOUL_ON_FLOOR,None,10:12,3,Clippers,Lakers,63 - 59,0,N/A,N/A,N/A
+21,LeBron James,FT,None,10:12,3,Lakers,Clippers,63 - 60,1,N/A,1,N/A
+22,Ivica Zubac,FG_ASSISTED,Shai Gilgeous-Alexander,9:51,3,Clippers,Lakers,65 - 60,0,0,2,Dunk
+23,JaVale McGee,FG_ASSISTED,LeBron James,9:32,3,Lakers,Clippers,65 - 62,1,0,2,Layup
+24,Landry Shamet,FOUL_ON_FLOOR,None,9:32,3,Clippers,Lakers,65 - 62,0,N/A,N/A,N/A
+25,JaVale McGee,FT,None,9:32,3,Lakers,Clippers,65 - 63,1,N/A,1,N/A
+26,Shai Gilgeous-Alexander,FG_UNASSISTED,None,9:16,3,Clippers,Lakers,68 - 63,0,28,3,Jumper
+27,Rajon Rondo,FG_UNASSISTED,None,9:08,3,Lakers,Clippers,68 - 66,1,28,3,Jumper
+28,Danilo Gallinari,FG_UNASSISTED,None,8:44,3,Clippers,Lakers,70 - 66,0,11,2,Jumper
+29,Kyle Kuzma,FG_ASSISTED,Rajon Rondo,8:22,3,Lakers,Clippers,70 - 68,1, ,2,Jumper
+30,shot clock,TURNOVER,None,7:56,3,Clippers,Lakers,70 - 68,0,N/A,N/A,N/A
+31,Rajon Rondo,FG_UNASSISTED,None,7:35,3,Lakers,Clippers,70 - 70,1,0,2,Layup
+32,Shai Gilgeous-Alexander,FG_MISS,None,7:27,3,Clippers,Lakers,73 - 70,0, ,2,Jumper
+33,Ivica Zubac,OFFENSIVE_REBOUND,None,7:25,3,Clippers,Lakers,73 - 70,0,N/A,N/A,N/A
+34,Ivica Zubac,FG_UNASSISTED,None,7:23,3,Clippers,Lakers,75 - 70,0, ,2,Jumper
+35,Patrick Beverley,FOUL_ON_FLOOR,None,7:10,3,Clippers,Lakers,75 - 70,0,N/A,N/A,N/A
+36,Reggie Bullock,FG_UNASSISTED,None,6:55,3,Lakers,Clippers,75 - 72,1,10,2,Jumper
+37,Shai Gilgeous-Alexander,FG_UNASSISTED,None,6:42,3,Clippers,Lakers,74 - 72,0,14,2,Jumper
+38,JaVale McGee,TURNOVER,None,6:34,3,Lakers,Clippers,77 - 72,1,N/A,N/A,N/A
+39,Team,Unknown,None,6:34,3,Lakers,Clippers,77 - 72,1,N/A,N/A,N/A
+40,Mike Muscala,SUBSTITUTION,McGee JaVale,6:34,3,Lakers,Clippers,74 - 72,1,N/A,N/A,N/A
+41,Danilo Gallinari,FG_MISS,None,6:08,3,Clippers,Lakers,74 - 72,0,26,3,Jumper
+42,LeBron James,DEFENSIVE_REBOUND,None,6:06,3,Lakers,Clippers,74 - 72,1,N/A,N/A,N/A
+43,Rajon Rondo,FG_MISS,None,5:46,3,Lakers,Clippers,74 - 72,1,27,3,Jumper
+44,Ivica Zubac,DEFENSIVE_REBOUND,None,5:43,3,Clippers,Lakers,74 - 72,0,N/A,N/A,N/A
+45,Patrick Beverley,FG_ASSISTED,Shai Gilgeous-Alexander,5:32,3,Clippers,Lakers,77 - 72,0,22,3,Jumper
+46,Rajon Rondo,TURNOVER,None,5:22,3,Lakers,Clippers,77 - 72,1,N/A,N/A,N/A
+47,Montrezl Harrell,SUBSTITUTION,Zubac Ivica,5:22,3,Clippers,Lakers,77 - 72,0,N/A,N/A,N/A
+48,Montrezl Harrell,TURNOVER,None,5:09,3,Clippers,Lakers,77 - 72,0,N/A,N/A,N/A
+49,Josh Hart,SUBSTITUTION,James LeBron,5:09,3,Lakers,Clippers,77 - 72,1,N/A,N/A,N/A
+50,Shai Gilgeous-Alexander,FOUL_ON_FLOOR,None,4:57,3,Clippers,Lakers,77 - 72,0,N/A,N/A,N/A
+51,Lou Williams,SUBSTITUTION,Beverley Patrick,4:57,3,Clippers,Lakers,77 - 72,0,N/A,N/A,N/A
+52,Mike Muscala,FG_ASSISTED,Rajon Rondo,4:49,3,Lakers,Clippers,77 - 75,1,26,3,Jumper
+53,Team,Unknown,None,4:49,3,Clippers,Lakers,77 - 75,0,N/A,N/A,N/A
+54,Danilo Gallinari,FG_UNASSISTED,None,4:29,3,Clippers,Lakers,79 - 75,0,0,2,Layup
+55,Kyle Kuzma,FG_MISS,None,4:11,3,Lakers,Clippers,79 - 75,1,29,3,Jumper
+56,Shai Gilgeous-Alexander,DEFENSIVE_REBOUND,None,4:08,3,Clippers,Lakers,79 - 75,0,N/A,N/A,N/A
+57,Danilo Gallinari,FG_MISS,None,4:00,3,Clippers,Lakers,79 - 75,0,0,2,Layup
+58,Rajon Rondo,DEFENSIVE_REBOUND,None,3:58,3,Lakers,Clippers,79 - 75,1,N/A,N/A,N/A
+59,Rajon Rondo,FG_UNASSISTED,None,3:49,3,Lakers,Clippers,79 - 77,1,0,2,Layup
+60,Danilo Gallinari,TURNOVER,None,3:33,3,Clippers,Lakers,79 - 77,0,N/A,N/A,N/A
+61,LeBron James,SUBSTITUTION,Kuzma Kyle,3:33,3,Lakers,Clippers,79 - 77,1,N/A,N/A,N/A
+62,Rajon Rondo,FG_UNASSISTED,None,3:16,3,Lakers,Clippers,79 - 79,1,0,2,Layup
+63,Mike Muscala,FOUL_ON_FLOOR,None,3:06,3,Lakers,Clippers,79 - 79,1,N/A,N/A,N/A
+64,JaMychal Green,SUBSTITUTION,Gallinari Danilo,3:06,3,Clippers,Lakers,79 - 79,0,N/A,N/A,N/A
+65,Montrezl Harrell,FG_MISS,None,3:00,3,Clippers,Lakers,79 - 79,0,0,2,Dunk
+66,Rajon Rondo,DEFENSIVE_REBOUND,None,2:58,3,Lakers,Clippers,79 - 79,1,N/A,N/A,N/A
+67,Josh Hart,FG_ASSISTED,Rajon Rondo,2:55,3,Lakers,Clippers,79 - 81,1,0,2,Layup
+68,Landry Shamet,FOUL_ON_FLOOR,None,2:55,3,Clippers,Lakers,79 - 81,0,N/A,N/A,N/A
+69,Josh Hart,FT,None,2:55,3,Lakers,Clippers,79 - 82,1,N/A,1,N/A
+70,Landry Shamet,FG_ASSISTED,Shai Gilgeous-Alexander,2:43,3,Clippers,Lakers,82 - 82,0,26,3,Jumper
+71,Rajon Rondo,FG_MISS,None,2:27,3,Lakers,Clippers,82 - 82,1,27,3,Jumper
+72,JaMychal Green,DEFENSIVE_REBOUND,None,2:24,3,Clippers,Lakers,82 - 82,0,N/A,N/A,N/A
+73,Montrezl Harrell,TURNOVER,None,2:19,3,Clippers,Lakers,82 - 82,0,N/A,N/A,N/A
+74,Montrezl Harrell,TURNOVER,None,2:19,3,Clippers,Lakers,82 - 82,0,N/A,N/A,N/A
+75,Rajon Rondo,FG_MISS,None,2:07,3,Lakers,Clippers,82 - 82,1,0,2,Layup
+76,Montrezl Harrell,DEFENSIVE_REBOUND,None,2:05,3,Clippers,Lakers,82 - 82,0,N/A,N/A,N/A
+77,Shai Gilgeous-Alexander,FG_ASSISTED,JaMychal Green,1:55,3,Clippers,Lakers,84 - 82,0,5,2,Jumper
+78,Rajon Rondo,FOUL_ON_FLOOR,None,1:55,3,Lakers,Clippers,84 - 82,1,N/A,N/A,N/A
+79,Alex Caruso,SUBSTITUTION,Rondo Rajon,1:55,3,Lakers,Clippers,84 - 82,1,N/A,N/A,N/A
+80,Shai Gilgeous-Alexander,FT,None,1:55,3,Clippers,Lakers,85 - 82,0,N/A,1,N/A
+81,LeBron James,FG_MISS,None,1:47,3,Lakers,Clippers,85 - 82,1,26,3,Jumper
+82,Landry Shamet,DEFENSIVE_REBOUND,None,1:44,3,Clippers,Lakers,85 - 82,0,N/A,N/A,N/A
+83,Reggie Bullock,FOUL_ON_FLOOR,None,1:40,3,Lakers,Clippers,85 - 82,1,N/A,N/A,N/A
+84,Shai Gilgeous-Alexander,FT,None,1:40,3,Clippers,Lakers,86 - 82,0,N/A,1,N/A
+85,Shai Gilgeous-Alexander,FT,None,1:40,3,Clippers,Lakers,87 - 82,0,N/A,1,N/A
+86,Reggie Bullock,FG_MISS,None,1:21,3,Lakers,Clippers,87 - 82,1,27,3,Jumper
+87,JaMychal Green,DEFENSIVE_REBOUND,None,1:16,3,Clippers,Lakers,87 - 82,0,N/A,N/A,N/A
+88,Shai Gilgeous-Alexander,FG_MISS,None,55.6,3,Clippers,Lakers,87 - 82,0,11,2,Jumper
+89,Reggie Bullock,DEFENSIVE_REBOUND,None,52.8,3,Lakers,Clippers,87 - 82,1,N/A,N/A,N/A
+90,Reggie Bullock,FG_MISS,None,45.9,3,Lakers,Clippers,87 - 82,1,23,3,Jumper
+91,Team,DEFENSIVE_REBOUND,None,44.6,3,Clippers,Lakers,87 - 82,0,N/A,N/A,N/A
+92,Garrett Temple,SUBSTITUTION,Gilgeous-Alexander Shai,44.6,3,Clippers,Lakers,87 - 82,0,N/A,N/A,N/A
+93,Lou Williams,FG_UNASSISTED,None,40.6,3,Clippers,Lakers,89 - 82,0, ,2,Jumper
+94,Montrezl Harrell,FOUL_ON_FLOOR,None,30.2,3,Clippers,Lakers,89 - 82,0,N/A,N/A,N/A
+95,Mike Muscala,FT_MISS,None,30.2,3,Lakers,Clippers,89 - 82,1,N/A,1,N/A
+96,Team,OFFENSIVE_REBOUND,None,30.2,3,Lakers,Clippers,89 - 82,1,N/A,N/A,N/A
+97,Mike Muscala,FT,None,30.2,3,Lakers,Clippers,89 - 83,1,N/A,1,N/A
+98,Lou Williams,FG_UNASSISTED,None,8.6,3,Clippers,Lakers,91 - 83,0,3,2,Jumper
+99,Reggie Bullock,FG_ASSISTED,LeBron James,0.3,3,Lakers,Clippers,91 - 85,1,19,2,Jumper
+100,End of,Unknown,None,0.0,3,Lakers,Clippers,91 - 85,1,N/A,N/A,N/A
+0,Kyle Kuzma,SUBSTITUTION,Caruso Alex,12:00,4,Lakers,Clippers,91 - 85,1,N/A,N/A,N/A
+1,Kentavious Caldwell-Pope,SUBSTITUTION,Bullock Reggie,12:00,4,Lakers,Clippers,91 - 85,1,N/A,N/A,N/A
+2,Patrick Beverley,SUBSTITUTION,Shamet Landry,12:00,4,Clippers,Lakers,91 - 85,0,N/A,N/A,N/A
+3,Lou Williams,FG_UNASSISTED,None,11:48,4,Clippers,Lakers,93 - 85,0,11,2,Jumper
+4,LeBron James,FG_MISS,None,11:28,4,Lakers,Clippers,93 - 85,1,28,3,Jumper
+5,Montrezl Harrell,DEFENSIVE_REBOUND,None,11:28,4,Clippers,Lakers,93 - 85,0,N/A,N/A,N/A
+6,Montrezl Harrell,FG_ASSISTED,Lou Williams,11:15,4,Clippers,Lakers,95 - 85,0, ,2,Jumper
+7,JaMychal Green,FOUL_ON_FLOOR,None,11:09,4,Clippers,Lakers,95 - 85,0,N/A,N/A,N/A
+8,Josh Hart,FG_ASSISTED,LeBron James,11:03,4,Lakers,Clippers,95 - 87,1,12,2,Jumper
+9,Mike Muscala,FOUL_ON_FLOOR,None,10:45,4,Lakers,Clippers,95 - 87,1,N/A,N/A,N/A
+10,Rajon Rondo,SUBSTITUTION,Muscala Mike,10:45,4,Lakers,Clippers,95 - 87,1,N/A,N/A,N/A
+11,Montrezl Harrell,FG_ASSISTED,Lou Williams,10:36,4,Clippers,Lakers,97 - 87,0,0,2,Dunk
+12,LeBron James,TURNOVER,Lou Williams,10:22,4,Lakers,Clippers,97 - 87,1,N/A,N/A,N/A
+13,Lou Williams,FG_MISS,Josh Hart,10:20,4,Lakers,Clippers,97 - 87,0,2,2,Jumper
+14,Lou Williams,OFFENSIVE_REBOUND,None,10:17,4,Clippers,Lakers,97 - 87,0,N/A,N/A,N/A
+15,Lou Williams,FG_UNASSISTED,None,10:17,4,Clippers,Lakers,99 - 87,0, ,2,Jumper
+16,Team,Unknown,None,10:17,4,Lakers,Clippers,99 - 87,1,N/A,N/A,N/A
+17,Double technical,FOUL_TECHNICAL,None,10:17,4,Lakers,Clippers,99 - 87,1,N/A,N/A,N/A
+18,JaMychal Green,FOUL_ON_FLOOR,None,10:07,4,Clippers,Lakers,99 - 87,0,N/A,N/A,N/A
+19,LeBron James,FG_ASSISTED,Rajon Rondo,10:02,4,Lakers,Clippers,99 - 89,1,0,2,Layup
+20,Montrezl Harrell,FOUL_ON_FLOOR,None,10:02,4,Clippers,Lakers,99 - 89,0,N/A,N/A,N/A
+21,LeBron James,FT_MISS,None,10:02,4,Lakers,Clippers,99 - 89,1,N/A,1,N/A
+22,Kyle Kuzma,OFFENSIVE_REBOUND,None,9:58,4,Lakers,Clippers,99 - 89,1,N/A,N/A,N/A
+23,Kentavious Caldwell-Pope,FG_MISS,None,9:56,4,Lakers,Clippers,99 - 89,1,26,3,Jumper
+24,Montrezl Harrell,DEFENSIVE_REBOUND,None,9:54,4,Clippers,Lakers,99 - 89,0,N/A,N/A,N/A
+25,Montrezl Harrell,FG_MISS,None,9:32,4,Clippers,Lakers,99 - 89,0, ,2,Jumper
+26,Kyle Kuzma,DEFENSIVE_REBOUND,None,9:31,4,Lakers,Clippers,99 - 89,1,N/A,N/A,N/A
+27,Rajon Rondo,FG_ASSISTED,Kentavious Caldwell-Pope,9:20,4,Lakers,Clippers,99 - 91,1,0,2,Layup
+28,Patrick Beverley,FG_MISS,None,8:59,4,Clippers,Lakers,99 - 91,0, ,2,Jumper
+29,Kentavious Caldwell-Pope,DEFENSIVE_REBOUND,None,8:59,4,Lakers,Clippers,99 - 91,1,N/A,N/A,N/A
+30,Rajon Rondo,TURNOVER,None,8:52,4,Lakers,Clippers,99 - 91,1,N/A,N/A,N/A
+31,Lou Williams,FG_MISS,None,8:35,4,Clippers,Lakers,99 - 91,0,27,3,Jumper
+32,LeBron James,DEFENSIVE_REBOUND,None,8:32,4,Lakers,Clippers,99 - 91,1,N/A,N/A,N/A
+33,Rajon Rondo,FG_UNASSISTED,None,8:27,4,Lakers,Clippers,99 - 93,1, ,2,Jumper
+34,Team,Unknown,None,8:27,4,Clippers,Lakers,99 - 93,0,N/A,N/A,N/A
+35,Landry Shamet,SUBSTITUTION,Temple Garrett,8:27,4,Clippers,Lakers,99 - 93,0,N/A,N/A,N/A
+36,JaMychal Green,FG_MISS,None,8:05,4,Clippers,Lakers,99 - 93,0,28,3,Jumper
+37,LeBron James,DEFENSIVE_REBOUND,None,8:02,4,Lakers,Clippers,99 - 93,1,N/A,N/A,N/A
+38,JaMychal Green,FOUL_ON_FLOOR,None,7:57,4,Clippers,Lakers,99 - 93,0,N/A,N/A,N/A
+39,LeBron James,FT_MISS,None,7:57,4,Lakers,Clippers,99 - 93,1,N/A,1,N/A
+40,Team,OFFENSIVE_REBOUND,None,7:57,4,Lakers,Clippers,99 - 93,1,N/A,N/A,N/A
+41,Danilo Gallinari,SUBSTITUTION,Green JaMychal,7:57,4,Clippers,Lakers,99 - 93,0,N/A,N/A,N/A
+42,LeBron James,FT,None,7:57,4,Lakers,Clippers,99 - 94,1,N/A,1,N/A
+43,Danilo Gallinari,FG_ASSISTED,Montrezl Harrell,7:38,4,Clippers,Lakers,102 - 94,0,28,3,Jumper
+44,Kyle Kuzma,FG_MISS,None,7:16,4,Lakers,Clippers,102 - 94,1,27,3,Jumper
+45,Danilo Gallinari,DEFENSIVE_REBOUND,None,7:14,4,Clippers,Lakers,102 - 94,0,N/A,N/A,N/A
+46,Kyle Kuzma,FOUL_ON_FLOOR,None,7:05,4,Lakers,Clippers,102 - 94,1,N/A,N/A,N/A
+47,Danilo Gallinari,FG_MISS,None,6:48,4,Clippers,Lakers,102 - 94,0,11,2,Jumper
+48,Rajon Rondo,DEFENSIVE_REBOUND,None,6:46,4,Lakers,Clippers,102 - 94,1,N/A,N/A,N/A
+49,Rajon Rondo,FG_MISS,None,6:38,4,Lakers,Clippers,102 - 94,1,26,3,Jumper
+50,Danilo Gallinari,DEFENSIVE_REBOUND,None,6:36,4,Clippers,Lakers,102 - 94,0,N/A,N/A,N/A
+51,Josh Hart,FOUL_ON_FLOOR,None,6:21,4,Lakers,Clippers,102 - 94,1,N/A,N/A,N/A
+52,Montrezl Harrell,FT_MISS,None,6:21,4,Clippers,Lakers,102 - 94,0,N/A,1,N/A
+53,Team,OFFENSIVE_REBOUND,None,6:21,4,Clippers,Lakers,102 - 94,0,N/A,N/A,N/A
+54,Reggie Bullock,SUBSTITUTION,Caldwell-Pope Kentavious,6:21,4,Lakers,Clippers,102 - 94,1,N/A,N/A,N/A
+55,Montrezl Harrell,FT_MISS,None,6:21,4,Clippers,Lakers,102 - 94,0,N/A,1,N/A
+56,LeBron James,DEFENSIVE_REBOUND,None,6:16,4,Lakers,Clippers,102 - 94,1,N/A,N/A,N/A
+57,Kyle Kuzma,FG_MISS,None,6:06,4,Lakers,Clippers,102 - 94,1,0,2,Layup
+58,Lou Williams,DEFENSIVE_REBOUND,None,6:04,4,Clippers,Lakers,102 - 94,0,N/A,N/A,N/A
+59,Rajon Rondo,FOUL_ON_FLOOR,None,6:04,4,Lakers,Clippers,102 - 94,1,N/A,N/A,N/A
+60,Team,Unknown,None,6:04,4,Lakers,Clippers,102 - 94,1,N/A,N/A,N/A
+61,Kentavious Caldwell-Pope,SUBSTITUTION,Kuzma Kyle,6:04,4,Lakers,Clippers,102 - 94,1,N/A,N/A,N/A
+62,Montrezl Harrell,FG_ASSISTED,Landry Shamet,5:47,4,Clippers,Lakers,104 - 94,0,0,2,Layup
+63,Reggie Bullock,FG_MISS,None,5:27,4,Lakers,Clippers,104 - 94,1,26,3,Jumper
+64,Patrick Beverley,DEFENSIVE_REBOUND,None,5:24,4,Clippers,Lakers,104 - 94,0,N/A,N/A,N/A
+65,Lou Williams,FG_MISS,LeBron James,5:14,4,Lakers,Clippers,104 - 94,0,0,2,Layup
+66,Josh Hart,DEFENSIVE_REBOUND,None,5:10,4,Lakers,Clippers,104 - 94,1,N/A,N/A,N/A
+67,Reggie Bullock,FG_MISS,None,5:06,4,Lakers,Clippers,104 - 94,1,24,3,Jumper
+68,Danilo Gallinari,DEFENSIVE_REBOUND,None,5:02,4,Clippers,Lakers,104 - 94,0,N/A,N/A,N/A
+69,Montrezl Harrell,FG_MISS,None,4:42,4,Clippers,Lakers,104 - 94,0,17,2,Jumper
+70,Reggie Bullock,DEFENSIVE_REBOUND,None,4:38,4,Lakers,Clippers,104 - 94,1,N/A,N/A,N/A
+71,LeBron James,FG_MISS,None,4:27,4,Lakers,Clippers,104 - 94,1,0,2,Layup
+72,Patrick Beverley,DEFENSIVE_REBOUND,None,4:26,4,Clippers,Lakers,104 - 94,0,N/A,N/A,N/A
+73,Landry Shamet,FG_ASSISTED,Patrick Beverley,4:06,4,Clippers,Lakers,107 - 94,0,27,3,Jumper
+74,Team,Unknown,None,4:05,4,Lakers,Clippers,104 - 94,1,N/A,N/A,N/A
+75,LeBron James,FG_ASSISTED,Rajon Rondo,3:55,4,Lakers,Clippers,107 - 96,1,0,2,Layup
+76,Montrezl Harrell,FG_ASSISTED,Patrick Beverley,3:30,4,Clippers,Lakers,109 - 96,0,0,2,Dunk
+77,Rajon Rondo,FG_MISS,None,3:14,4,Lakers,Clippers,109 - 96,1,27,3,Jumper
+78,Montrezl Harrell,DEFENSIVE_REBOUND,None,3:10,4,Clippers,Lakers,109 - 96,0,N/A,N/A,N/A
+79,Patrick Beverley,FG_MISS,None,2:49,4,Clippers,Lakers,109 - 96,0,27,3,Jumper
+80,Rajon Rondo,DEFENSIVE_REBOUND,None,2:46,4,Lakers,Clippers,109 - 96,1,N/A,N/A,N/A
+81,Josh Hart,FG_MISS,None,2:42,4,Lakers,Clippers,109 - 96,1, ,2,Jumper
+82,Patrick Beverley,DEFENSIVE_REBOUND,None,2:40,4,Clippers,Lakers,109 - 96,0,N/A,N/A,N/A
+83,shot clock,TURNOVER,None,2:18,4,Clippers,Lakers,109 - 96,0,N/A,N/A,N/A
+84,LeBron James,FG_UNASSISTED,None,2:12,4,Lakers,Clippers,109 - 98,1,0,2,Layup
+85,Montrezl Harrell,FOUL_ON_FLOOR,None,2:12,4,Clippers,Lakers,109 - 98,0,N/A,N/A,N/A
+86,LeBron James,FT_MISS,None,2:12,4,Lakers,Clippers,109 - 98,1,N/A,1,N/A
+87,Montrezl Harrell,DEFENSIVE_REBOUND,None,2:10,4,Clippers,Lakers,109 - 98,0,N/A,N/A,N/A
+88,Lou Williams,FG_UNASSISTED,None,1:54,4,Clippers,Lakers,111 - 98,0, ,2,Jumper
+89,Landry Shamet,FOUL_ON_FLOOR,None,1:50,4,Clippers,Lakers,111 - 98,0,N/A,N/A,N/A
+90,Josh Hart,FT,None,1:50,4,Lakers,Clippers,111 - 99,1,N/A,1,N/A
+91,Josh Hart,FT,None,1:50,4,Lakers,Clippers,111 - 100,1,N/A,1,N/A
+92,Montrezl Harrell,FG_MISS,None,1:25,4,Clippers,Lakers,111 - 100,0,15,2,Jumper
+93,Patrick Beverley,OFFENSIVE_REBOUND,None,1:23,4,Clippers,Lakers,111 - 100,0,N/A,N/A,N/A
+94,Lou Williams's,FG_MISS,Kentavious Caldwell-Pope,1:11,4,Lakers,Clippers,111 - 100,0,0,2,Layup
+95,Lou Williams,OFFENSIVE_REBOUND,None,1:11,4,Clippers,Lakers,111 - 100,0,N/A,N/A,N/A
+96,Lou Williams,FG_UNASSISTED,None,1:11,4,Clippers,Lakers,113 - 100,0,1,2,Jumper
+97,LeBron James,FG_MISS,None,55.0,4,Lakers,Clippers,113 - 100,1,3,2,Jumper
+98,Patrick Beverley,DEFENSIVE_REBOUND,None,52.1,4,Clippers,Lakers,113 - 100,0,N/A,N/A,N/A
+99,Lou Williams,FG_MISS,None,35.0,4,Clippers,Lakers,113 - 100,0,27,3,Jumper
+100,Josh Hart,DEFENSIVE_REBOUND,None,32.6,4,Lakers,Clippers,113 - 100,1,N/A,N/A,N/A
+101,Kentavious Caldwell-Pope,FG_ASSISTED,Rajon Rondo,27.6,4,Lakers,Clippers,113 - 103,1,26,2,Jumper
+102,shot clock,TURNOVER,None,3.3,4,Clippers,Lakers,113 - 103,0,N/A,N/A,N/A
+103,Josh Hart,FG_UNASSISTED,None,0.1,4,Lakers,Clippers,113 - 105,1,0,2,Layup
+104,End of,Unknown,None,0.0,4,Lakers,Clippers,113 - 105,1,N/A,N/A,N/A
+105,End of,Unknown,None,0.0,4,Lakers,Clippers,113 - 105,1,N/A,N/A,N/A

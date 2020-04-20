@@ -1,0 +1,505 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Steven Adams,JUMP_BALL,None,12:00,1,Thunder,Rockets,0 - 0,0,N/A,N/A,N/A
+1,Paul George,FG_ASSISTED,Steven Adams,11:44,1,Thunder,Rockets,2 - 0,0,8,3,Jumper
+2,Clint Capela,FG_MISS,None,11:22,1,Rockets,Thunder,2 - 0,1,0,2,Layup
+3,Team,OFFENSIVE_REBOUND,None,11:21,1,Rockets,Thunder,2 - 0,1,N/A,N/A,N/A
+4,James Harden,FG_MISS,None,11:14,1,Rockets,Thunder,2 - 0,1,23,3,Jumper
+5,Jerami Grant,DEFENSIVE_REBOUND,None,11:12,1,Thunder,Rockets,2 - 0,0,N/A,N/A,N/A
+6,Terrance Ferguson,FG_MISS,None,10:56,1,Thunder,Rockets,2 - 0,0,13,3,Jumper
+7,Clint Capela,DEFENSIVE_REBOUND,None,10:52,1,Rockets,Thunder,2 - 0,1,N/A,N/A,N/A
+8,James Harden,FG_UNASSISTED,None,10:45,1,Rockets,Thunder,2 - 2,1,0,2,Layup
+9,Paul George,FG_MISS,Danuel House,10:35,1,Rockets,Thunder,2 - 2,0,0,2,Layup
+10,Jerami Grant,OFFENSIVE_REBOUND,None,10:33,1,Thunder,Rockets,2 - 2,0,N/A,N/A,N/A
+11,Jerami Grant,FG_UNASSISTED,None,10:32,1,Thunder,Rockets,4 - 2,0,0,2,Layup
+12,Terrance Ferguson,FOUL_ON_FLOOR,None,10:22,1,Thunder,Rockets,4 - 2,0,N/A,N/A,N/A
+13,Eric Gordon,FG_MISS,None,10:13,1,Rockets,Thunder,4 - 2,1,30,3,Jumper
+14,Team,DEFENSIVE_REBOUND,None,10:10,1,Thunder,Rockets,4 - 2,0,N/A,N/A,N/A
+15,Jerami Grant,FG_ASSISTED,Russell Westbrook,10:00,1,Thunder,Rockets,6 - 2,0,0,2,Layup
+16,Eric Gordon,TURNOVER,Jerami Grant,9:50,1,Rockets,Thunder,6 - 2,1,N/A,N/A,N/A
+17,Paul George,FG_MISS,None,9:43,1,Thunder,Rockets,6 - 2,0,22,3,Jumper
+18,James Harden,DEFENSIVE_REBOUND,None,9:40,1,Rockets,Thunder,6 - 2,1,N/A,N/A,N/A
+19,James Harden,FG_MISS,None,9:35,1,Rockets,Thunder,6 - 2,1,0,2,Layup
+20,Clint Capela,OFFENSIVE_REBOUND,None,9:33,1,Rockets,Thunder,6 - 2,1,N/A,N/A,N/A
+21,Clint Capela,FG_UNASSISTED,None,9:33,1,Rockets,Thunder,6 - 4,1,0,2,Dunk
+22,Russell Westbrook,FG_MISS,None,9:15,1,Thunder,Rockets,6 - 4,0,20,3,Jumper
+23,Eric Gordon,DEFENSIVE_REBOUND,None,9:12,1,Rockets,Thunder,6 - 4,1,N/A,N/A,N/A
+24,Eric Gordon,FG_UNASSISTED,None,9:08,1,Rockets,Thunder,6 - 7,1,27,3,Jumper
+25,PJ Tucker,FOUL_ON_FLOOR,None,8:56,1,Rockets,Thunder,6 - 7,1,N/A,N/A,N/A
+26,Terrance Ferguson,FG_MISS,None,8:50,1,Thunder,Rockets,6 - 7,0,-,3,Jumper
+27,Clint Capela,DEFENSIVE_REBOUND,None,8:46,1,Rockets,Thunder,6 - 7,1,N/A,N/A,N/A
+28,James Harden,FOUL_ON_FLOOR,None,8:41,1,Rockets,Thunder,6 - 7,1,N/A,N/A,N/A
+29,James Harden,TURNOVER,None,8:41,1,Rockets,Thunder,6 - 7,1,N/A,N/A,N/A
+30,Terrance Ferguson,FG_MISS,James Harden,8:36,1,Rockets,Thunder,6 - 7,0,0,2,Layup
+31,PJ Tucker,DEFENSIVE_REBOUND,None,8:33,1,Rockets,Thunder,6 - 7,1,N/A,N/A,N/A
+32,PJ Tucker,TURNOVER,None,8:31,1,Rockets,Thunder,6 - 7,1,N/A,N/A,N/A
+33,Russell Westbrook,FG_UNASSISTED,None,8:26,1,Thunder,Rockets,9 - 7,0,25,3,Jumper
+34,Eric Gordon,TURNOVER,Jerami Grant,8:15,1,Rockets,Thunder,9 - 7,1,N/A,N/A,N/A
+35,Steven Adams,FG_ASSISTED,Russell Westbrook,8:09,1,Thunder,Rockets,11 - 7,0,7,3,Jumper
+36,Paul George,Unknown,None,7:57,1,Thunder,Rockets,11 - 7,0,N/A,N/A,N/A
+37,James Harden,FG_MISS,Jerami Grant,7:45,1,Thunder,Rockets,11 - 7,1,7,3,Jumper
+38,Clint Capela,OFFENSIVE_REBOUND,None,7:42,1,Rockets,Thunder,11 - 7,1,N/A,N/A,N/A
+39,Clint Capela,FG_UNASSISTED,None,7:40,1,Rockets,Thunder,11 - 9,1,-,3,Jumper
+40,Russell Westbrook,TURNOVER,None,7:36,1,Thunder,Rockets,11 - 9,0,N/A,N/A,N/A
+41,Clint Capela,FOUL_ON_FLOOR,None,7:31,1,Rockets,Thunder,11 - 9,1,N/A,N/A,N/A
+42,Clint Capela,TURNOVER,None,7:31,1,Rockets,Thunder,11 - 9,1,N/A,N/A,N/A
+43,Jerami Grant,FG_MISS,None,7:20,1,Thunder,Rockets,11 - 9,0,-,3,Jumper
+44,Clint Capela,DEFENSIVE_REBOUND,None,7:18,1,Rockets,Thunder,11 - 9,1,N/A,N/A,N/A
+45,James Harden,FG_MISS,Terrance Ferguson,7:05,1,Thunder,Rockets,11 - 9,1,0,2,Layup
+46,Team,OFFENSIVE_REBOUND,None,7:05,1,Rockets,Thunder,11 - 9,1,N/A,N/A,N/A
+47,Terrance Ferguson,FOUL_ON_FLOOR,None,7:02,1,Thunder,Rockets,11 - 9,0,N/A,N/A,N/A
+48,PJ Tucker's,FG_MISS,Jerami Grant,6:48,1,Thunder,Rockets,11 - 9,1,0,2,Layup
+49,Team,OFFENSIVE_REBOUND,None,6:48,1,Rockets,Thunder,11 - 9,1,N/A,N/A,N/A
+50,shot clock,TURNOVER,None,6:48,1,Rockets,Thunder,11 - 9,1,N/A,N/A,N/A
+51,Team,Unknown,None,6:48,1,Rockets,Thunder,11 - 9,1,N/A,N/A,N/A
+52,Gerald Green,SUBSTITUTION,House Danuel,6:48,1,Rockets,Thunder,11 - 9,1,N/A,N/A,N/A
+53,Terrance Ferguson,FG_ASSISTED,Steven Adams,6:42,1,Thunder,Rockets,14 - 9,0,23,3,Jumper
+54,Clint Capela,FG_MISS,None,6:25,1,Rockets,Thunder,14 - 9,1,0,2,Layup
+55,Clint Capela,OFFENSIVE_REBOUND,None,6:23,1,Rockets,Thunder,14 - 9,1,N/A,N/A,N/A
+56,Clint Capela,FG_MISS,None,6:22,1,Rockets,Thunder,14 - 9,1,-,3,Jumper
+57,Jerami Grant,DEFENSIVE_REBOUND,None,6:22,1,Thunder,Rockets,14 - 9,0,N/A,N/A,N/A
+58,Steven Adams,FG_ASSISTED,Russell Westbrook,6:14,1,Thunder,Rockets,16 - 9,0,0,2,Layup
+59,Clint Capela,FG_ASSISTED,James Harden,6:00,1,Rockets,Thunder,16 - 11,1,0,2,Layup
+60,Paul George,FOUL_ON_FLOOR,None,6:00,1,Thunder,Rockets,16 - 11,0,N/A,N/A,N/A
+61,Dennis Schroder,SUBSTITUTION,Ferguson Terrance,6:00,1,Thunder,Rockets,16 - 11,0,N/A,N/A,N/A
+62,Clint Capela,FT_MISS,None,6:00,1,Rockets,Thunder,16 - 11,1,N/A,1,N/A
+63,Jerami Grant,DEFENSIVE_REBOUND,None,6:00,1,Thunder,Rockets,16 - 11,0,N/A,N/A,N/A
+64,Paul George,FG_MISS,None,5:50,1,Thunder,Rockets,16 - 11,0,7,3,Jumper
+65,Paul George,OFFENSIVE_REBOUND,None,5:45,1,Thunder,Rockets,16 - 11,0,N/A,N/A,N/A
+66,Paul George,FG_MISS,None,5:45,1,Thunder,Rockets,16 - 11,0, ,3,Jumper
+67,Paul George,OFFENSIVE_REBOUND,None,5:44,1,Thunder,Rockets,16 - 11,0,N/A,N/A,N/A
+68,Paul George,FG_MISS,None,5:44,1,Thunder,Rockets,16 - 11,0, ,3,Jumper
+69,Paul George,OFFENSIVE_REBOUND,None,5:43,1,Thunder,Rockets,16 - 11,0,N/A,N/A,N/A
+70,Paul George,TURNOVER,None,5:41,1,Thunder,Rockets,16 - 11,0,N/A,N/A,N/A
+71,Nene Hilario,SUBSTITUTION,Capela Clint,5:41,1,Rockets,Thunder,16 - 11,1,N/A,N/A,N/A
+72,Gerald Green,FG_MISS,None,5:33,1,Rockets,Thunder,16 - 11,1,25,3,Jumper
+73,Paul George,DEFENSIVE_REBOUND,None,5:30,1,Thunder,Rockets,16 - 11,0,N/A,N/A,N/A
+74,Steven Adams,FG_MISS,None,5:17,1,Thunder,Rockets,16 - 11,0,12,3,Jumper
+75,Nene Hilario,DEFENSIVE_REBOUND,None,5:15,1,Rockets,Thunder,16 - 11,1,N/A,N/A,N/A
+76,James Harden,FG_MISS,None,5:02,1,Rockets,Thunder,16 - 11,1,0,2,Layup
+77,Steven Adams,DEFENSIVE_REBOUND,None,4:58,1,Thunder,Rockets,16 - 11,0,N/A,N/A,N/A
+78,Gerald Green,FOUL_ON_FLOOR,None,4:58,1,Rockets,Thunder,16 - 11,1,N/A,N/A,N/A
+79,Austin Rivers,SUBSTITUTION,Gordon Eric,4:58,1,Rockets,Thunder,16 - 11,1,N/A,N/A,N/A
+80,Austin Rivers,FOUL_ON_FLOOR,None,4:50,1,Rockets,Thunder,16 - 11,1,N/A,N/A,N/A
+81,Russell Westbrook,FG_MISS,None,4:45,1,Thunder,Rockets,16 - 11,0, ,3,Jumper
+82,Nene Hilario,DEFENSIVE_REBOUND,None,4:42,1,Rockets,Thunder,16 - 11,1,N/A,N/A,N/A
+83,James Harden,FG_UNASSISTED,None,4:34,1,Rockets,Thunder,16 - 13,1, ,3,Jumper
+84,Paul George,FG_MISS,None,4:19,1,Thunder,Rockets,16 - 13,0,0,2,Layup
+85,James Harden,DEFENSIVE_REBOUND,None,4:18,1,Rockets,Thunder,16 - 13,1,N/A,N/A,N/A
+86,James Harden,FG_MISS,None,4:11,1,Rockets,Thunder,16 - 13,1,26,3,Jumper
+87,Dennis Schroder,DEFENSIVE_REBOUND,None,4:08,1,Thunder,Rockets,16 - 13,0,N/A,N/A,N/A
+88,Steven Adams,TURNOVER,James Harden,3:52,1,Thunder,Rockets,16 - 13,0,N/A,N/A,N/A
+89,Jerami Grant,FOUL_ON_FLOOR,None,3:44,1,Thunder,Rockets,16 - 13,0,N/A,N/A,N/A
+90,James Harden,FG_UNASSISTED,None,3:37,1,Rockets,Thunder,16 - 15,1,0,2,Layup
+91,Russell Westbrook,FG_MISS,None,3:24,1,Thunder,Rockets,16 - 15,0,9,3,Jumper
+92,Dennis Schroder,OFFENSIVE_REBOUND,None,3:21,1,Thunder,Rockets,16 - 15,0,N/A,N/A,N/A
+93,Dennis Schroder,FG_MISS,None,3:19,1,Thunder,Rockets,16 - 15,0,22,3,Jumper
+94,Russell Westbrook,OFFENSIVE_REBOUND,None,3:18,1,Thunder,Rockets,16 - 15,0,N/A,N/A,N/A
+95,Russell Westbrook,FG_MISS,None,3:18,1,Thunder,Rockets,16 - 15,0, ,3,Jumper
+96,Steven Adams,OFFENSIVE_REBOUND,None,3:16,1,Thunder,Rockets,16 - 15,0,N/A,N/A,N/A
+97,Jerami Grant,FOUL_ON_FLOOR,None,3:03,1,Thunder,Rockets,16 - 15,0,N/A,N/A,N/A
+98,Jerami Grant,TURNOVER,None,3:03,1,Thunder,Rockets,16 - 15,0,N/A,N/A,N/A
+99,James Harden,FG_MISS,Russell Westbrook,2:47,1,Thunder,Rockets,16 - 15,1,0,2,Layup
+100,Dennis Schroder,DEFENSIVE_REBOUND,None,2:45,1,Thunder,Rockets,16 - 15,0,N/A,N/A,N/A
+101,Steven Adams,FG_UNASSISTED,None,2:30,1,Thunder,Rockets,18 - 15,0,11,3,Jumper
+102,Austin Rivers,FG_MISS,None,2:14,1,Rockets,Thunder,18 - 15,1,26,3,Jumper
+103,Russell Westbrook,DEFENSIVE_REBOUND,None,2:09,1,Thunder,Rockets,18 - 15,0,N/A,N/A,N/A
+104,Steven Adams,FG_ASSISTED,Paul George,2:00,1,Thunder,Rockets,20 - 15,0,13,3,Jumper
+105,Team,Unknown,None,1:59,1,Rockets,Thunder,20 - 15,1,N/A,N/A,N/A
+106,Terrance Ferguson,SUBSTITUTION,Westbrook Russell,1:59,1,Thunder,Rockets,20 - 15,0,N/A,N/A,N/A
+107,Patrick Patterson,SUBSTITUTION,Grant Jerami,1:59,1,Thunder,Rockets,20 - 15,0,N/A,N/A,N/A
+108,PJ Tucker,FG_MISS,None,1:47,1,Rockets,Thunder,20 - 15,1,23,3,Jumper
+109,Steven Adams,DEFENSIVE_REBOUND,None,1:44,1,Thunder,Rockets,20 - 15,0,N/A,N/A,N/A
+110,Paul George,FG_MISS,None,1:35,1,Thunder,Rockets,20 - 15,0,26,3,Jumper
+111,Gerald Green,DEFENSIVE_REBOUND,None,1:32,1,Rockets,Thunder,20 - 15,1,N/A,N/A,N/A
+112,James Harden,FG_UNASSISTED,None,1:24,1,Rockets,Thunder,20 - 17,1,0,2,Layup
+113,Paul George,TURNOVER,PJ Tucker,1:10,1,Thunder,Rockets,20 - 17,0,N/A,N/A,N/A
+114,Austin Rivers,FG_UNASSISTED,None,56.2,1,Rockets,Thunder,20 - 19,1,0,2,Layup
+115,Dennis Schroder,TURNOVER,Gerald Green,39.1,1,Thunder,Rockets,20 - 19,0,N/A,N/A,N/A
+116,PJ Tucker,FG_MISS,None,32.5,1,Rockets,Thunder,20 - 19,1,23,3,Jumper
+117,Terrance Ferguson,DEFENSIVE_REBOUND,None,29.4,1,Thunder,Rockets,20 - 19,0,N/A,N/A,N/A
+118,Terrance Ferguson,FG_MISS,None,23.4,1,Thunder,Rockets,20 - 19,0,23,3,Jumper
+119,Patrick Patterson,OFFENSIVE_REBOUND,None,22.1,1,Thunder,Rockets,20 - 19,0,N/A,N/A,N/A
+120,Gerald Green,FOUL_ON_FLOOR,None,21.1,1,Rockets,Thunder,20 - 19,1,N/A,N/A,N/A
+121,Patrick Patterson,FT,None,21.1,1,Thunder,Rockets,21 - 19,0,N/A,1,N/A
+122,Eric Gordon,SUBSTITUTION,Tucker PJ,21.1,1,Rockets,Thunder,21 - 19,1,N/A,N/A,N/A
+123,Patrick Patterson,FT,None,21.1,1,Thunder,Rockets,22 - 19,0,N/A,1,N/A
+124,James Harden,FG_UNASSISTED,None,3.3,1,Rockets,Thunder,22 - 22,1,27,3,Jumper
+125,Dennis Schroder,FG_MISS,None,0.0,1,Thunder,Rockets,22 - 22,0,52,3,Jumper
+126,Team,OFFENSIVE_REBOUND,None,0.0,1,Thunder,Rockets,22 - 22,0,N/A,N/A,N/A
+127,End of,Unknown,None,0.0,1,Rockets,Thunder,22 - 22,1,N/A,N/A,N/A
+0,Clint Capela,SUBSTITUTION,Harden James,12:00,2,Rockets,Thunder,22 - 22,1,N/A,N/A,N/A
+1,Danuel House,SUBSTITUTION,Hilario Nene,12:00,2,Rockets,Thunder,22 - 22,1,N/A,N/A,N/A
+2,Nerlens Noel,SUBSTITUTION,Adams Steven,12:00,2,Thunder,Rockets,22 - 22,0,N/A,N/A,N/A
+3,Hamidou Diallo,SUBSTITUTION,George Paul,12:00,2,Thunder,Rockets,22 - 22,0,N/A,N/A,N/A
+4,Austin Rivers,FG_MISS,Nerlens Noel,11:47,2,Thunder,Rockets,22 - 22,1,0,2,Layup
+5,Clint Capela,OFFENSIVE_REBOUND,None,11:43,2,Rockets,Thunder,22 - 22,1,N/A,N/A,N/A
+6,Clint Capela,FG_UNASSISTED,None,11:43,2,Rockets,Thunder,22 - 24,1, ,3,Jumper
+7,Patrick Patterson,FG_MISS,None,11:21,2,Thunder,Rockets,22 - 24,0,13,3,Jumper
+8,Hamidou Diallo,OFFENSIVE_REBOUND,None,11:19,2,Thunder,Rockets,22 - 24,0,N/A,N/A,N/A
+9,Hamidou Diallo,FG_UNASSISTED,None,11:19,2,Thunder,Rockets,24 - 24,0,0,2,Dunk
+10,Eric Gordon,FOUL_ON_FLOOR,None,11:05,2,Rockets,Thunder,24 - 24,1,N/A,N/A,N/A
+11,Eric Gordon,TURNOVER,None,11:05,2,Rockets,Thunder,24 - 24,1,N/A,N/A,N/A
+12,Dennis Schroder,FG_UNASSISTED,None,10:54,2,Thunder,Rockets,26 - 24,0,0,2,Layup
+13,Danuel House,FG_MISS,None,10:42,2,Rockets,Thunder,26 - 24,1,23,3,Jumper
+14,Clint Capela,OFFENSIVE_REBOUND,None,10:40,2,Rockets,Thunder,26 - 24,1,N/A,N/A,N/A
+15,Gerald Green,FG_ASSISTED,Clint Capela,10:39,2,Rockets,Thunder,26 - 27,1,23,3,Jumper
+16,Hamidou Diallo,FOUL_ON_FLOOR,None,10:39,2,Thunder,Rockets,26 - 27,0,N/A,N/A,N/A
+17,Gerald Green,FT,None,10:39,2,Rockets,Thunder,26 - 28,1,N/A,1,N/A
+18,Patrick Patterson,FG_MISS,None,10:31,2,Thunder,Rockets,26 - 28,0,26,3,Jumper
+19,Eric Gordon,DEFENSIVE_REBOUND,None,10:27,2,Rockets,Thunder,26 - 28,1,N/A,N/A,N/A
+20,Gerald Green,FG_MISS,None,10:14,2,Rockets,Thunder,26 - 28,1,25,3,Jumper
+21,Hamidou Diallo,DEFENSIVE_REBOUND,None,10:12,2,Thunder,Rockets,26 - 28,0,N/A,N/A,N/A
+22,Dennis Schroder,FG_UNASSISTED,None,10:05,2,Thunder,Rockets,28 - 28,0, ,3,Jumper
+23,Eric Gordon,FG_UNASSISTED,None,9:53,2,Rockets,Thunder,28 - 31,1,25,3,Jumper
+24,Hamidou Diallo,FG_ASSISTED,Nerlens Noel,9:36,2,Thunder,Rockets,30 - 31,0,0,2,Layup
+25,Eric Gordon,FG_UNASSISTED,None,9:20,2,Rockets,Thunder,30 - 33,1,2,3,Jumper
+26,Terrance Ferguson,FG_UNASSISTED,None,9:05,2,Thunder,Rockets,32 - 33,0,7,3,Jumper
+27,Gerald Green,TURNOVER,None,8:55,2,Rockets,Thunder,32 - 33,1,N/A,N/A,N/A
+28,Abdel Nader,SUBSTITUTION,Patterson Patrick,8:55,2,Thunder,Rockets,32 - 33,0,N/A,N/A,N/A
+29,Russell Westbrook,SUBSTITUTION,Ferguson Terrance,8:55,2,Thunder,Rockets,32 - 33,0,N/A,N/A,N/A
+30,Dennis Schroder,FG_MISS,None,8:47,2,Thunder,Rockets,32 - 33,0,26,3,Jumper
+31,Clint Capela,DEFENSIVE_REBOUND,None,8:43,2,Rockets,Thunder,32 - 33,1,N/A,N/A,N/A
+32,Eric Gordon,FG_MISS,None,8:39,2,Rockets,Thunder,32 - 33,1,26,3,Jumper
+33,Danuel House,OFFENSIVE_REBOUND,None,8:35,2,Rockets,Thunder,32 - 33,1,N/A,N/A,N/A
+34,Eric Gordon's,FG_MISS,Nerlens Noel,8:27,2,Thunder,Rockets,32 - 33,1,0,2,Layup
+35,Nerlens Noel,DEFENSIVE_REBOUND,None,8:25,2,Thunder,Rockets,32 - 33,0,N/A,N/A,N/A
+36,Russell Westbrook,FG_MISS,None,8:22,2,Thunder,Rockets,32 - 33,0, ,3,Jumper
+37,Austin Rivers,DEFENSIVE_REBOUND,None,8:17,2,Rockets,Thunder,32 - 33,1,N/A,N/A,N/A
+38,Gerald Green,FG_MISS,None,8:15,2,Rockets,Thunder,32 - 33,1,26,3,Jumper
+39,Clint Capela,OFFENSIVE_REBOUND,None,8:13,2,Rockets,Thunder,32 - 33,1,N/A,N/A,N/A
+40,Clint Capela,FG_MISS,None,8:13,2,Rockets,Thunder,32 - 33,1,6,3,Jumper
+41,Clint Capela,OFFENSIVE_REBOUND,None,8:11,2,Rockets,Thunder,32 - 33,1,N/A,N/A,N/A
+42,Eric Gordon,FG_MISS,None,8:09,2,Rockets,Thunder,32 - 33,1,29,3,Jumper
+43,Nerlens Noel,DEFENSIVE_REBOUND,None,8:09,2,Thunder,Rockets,32 - 33,0,N/A,N/A,N/A
+44,Russell Westbrook,FG_ASSISTED,Hamidou Diallo,8:01,2,Thunder,Rockets,35 - 33,0,26,3,Jumper
+45,Austin Rivers,FG_MISS,Nerlens Noel,7:38,2,Thunder,Rockets,35 - 33,1,8,3,Jumper
+46,Russell Westbrook,DEFENSIVE_REBOUND,None,7:33,2,Thunder,Rockets,35 - 33,0,N/A,N/A,N/A
+47,Russell Westbrook,FG_MISS,None,7:29,2,Thunder,Rockets,35 - 33,0,26,3,Jumper
+48,Clint Capela,DEFENSIVE_REBOUND,None,7:26,2,Rockets,Thunder,35 - 33,1,N/A,N/A,N/A
+49,Russell Westbrook,FOUL_ON_FLOOR,None,7:26,2,Thunder,Rockets,35 - 33,0,N/A,N/A,N/A
+50,Russell Westbrook,FOUL_TECHNICAL,None,7:26,2,Thunder,Rockets,35 - 33,0,N/A,N/A,N/A
+51,Gerald Green,FT,None,7:26,2,Rockets,Thunder,35 - 34,1,N/A,1,N/A
+52,Gerald Green,FG_MISS,None,7:09,2,Rockets,Thunder,35 - 34,1,26,3,Jumper
+53,Russell Westbrook,DEFENSIVE_REBOUND,None,7:07,2,Thunder,Rockets,35 - 34,0,N/A,N/A,N/A
+54,Nerlens Noel,FG_ASSISTED,Dennis Schroder,6:53,2,Thunder,Rockets,37 - 34,0,0,2,Layup
+55,Gerald Green,FOUL_ON_FLOOR,None,6:53,2,Rockets,Thunder,37 - 34,1,N/A,N/A,N/A
+56,Team,Unknown,None,6:53,2,Rockets,Thunder,37 - 34,1,N/A,N/A,N/A
+57,James Harden,SUBSTITUTION,Green Gerald,6:53,2,Rockets,Thunder,37 - 34,1,N/A,N/A,N/A
+58,PJ Tucker,SUBSTITUTION,Rivers Austin,6:53,2,Rockets,Thunder,37 - 34,1,N/A,N/A,N/A
+59,Nerlens Noel,FT_MISS,None,6:53,2,Thunder,Rockets,37 - 34,0,N/A,1,N/A
+60,Clint Capela,DEFENSIVE_REBOUND,None,6:53,2,Rockets,Thunder,37 - 34,1,N/A,N/A,N/A
+61,Paul George,SUBSTITUTION,Schroder Dennis,6:53,2,Thunder,Rockets,37 - 34,0,N/A,N/A,N/A
+62,Nerlens Noel,FOUL_ON_FLOOR,None,6:34,2,Thunder,Rockets,37 - 34,0,N/A,N/A,N/A
+63,PJ Tucker,TURNOVER,Russell Westbrook,6:33,2,Rockets,Thunder,37 - 34,1,N/A,N/A,N/A
+64,Russell Westbrook,FG_UNASSISTED,None,6:30,2,Thunder,Rockets,39 - 34,0,0,2,Layup
+65,Hamidou Diallo,FOUL_ON_FLOOR,None,6:16,2,Thunder,Rockets,39 - 34,0,N/A,N/A,N/A
+66,Steven Adams,SUBSTITUTION,Noel Nerlens,6:16,2,Thunder,Rockets,39 - 34,0,N/A,N/A,N/A
+67,Eric Gordon,FG_MISS,None,6:05,2,Rockets,Thunder,39 - 34,1,25,3,Jumper
+68,PJ Tucker,OFFENSIVE_REBOUND,None,6:05,2,Rockets,Thunder,39 - 34,1,N/A,N/A,N/A
+69,PJ Tucker,TURNOVER,Russell Westbrook,6:05,2,Rockets,Thunder,39 - 34,1,N/A,N/A,N/A
+70,Hamidou Diallo,TURNOVER,None,5:55,2,Thunder,Rockets,39 - 34,0,N/A,N/A,N/A
+71,James Harden,FG_MISS,Hamidou Diallo,5:44,2,Thunder,Rockets,39 - 34,1,0,2,Layup
+72,James Harden,OFFENSIVE_REBOUND,None,5:41,2,Rockets,Thunder,39 - 34,1,N/A,N/A,N/A
+73,Danuel House,FG_MISS,None,5:39,2,Rockets,Thunder,39 - 34,1,23,3,Jumper
+74,Clint Capela,OFFENSIVE_REBOUND,None,5:38,2,Rockets,Thunder,39 - 34,1,N/A,N/A,N/A
+75,Clint Capela,FG_ASSISTED,Eric Gordon,5:30,2,Rockets,Thunder,39 - 36,1,0,2,Dunk
+76,Russell Westbrook,FG_UNASSISTED,None,5:18,2,Thunder,Rockets,41 - 36,0,0,2,Layup
+77,Eric Gordon,FOUL_ON_FLOOR,None,5:18,2,Rockets,Thunder,41 - 36,1,N/A,N/A,N/A
+78,Dennis Schroder,SUBSTITUTION,Diallo Hamidou,5:18,2,Thunder,Rockets,41 - 36,0,N/A,N/A,N/A
+79,Jerami Grant,SUBSTITUTION,Nader Abdel,5:18,2,Thunder,Rockets,41 - 36,0,N/A,N/A,N/A
+80,Russell Westbrook,FT,None,5:18,2,Thunder,Rockets,42 - 36,0,N/A,1,N/A
+81,James Harden,TURNOVER,Dennis Schroder,5:01,2,Rockets,Thunder,42 - 36,1,N/A,N/A,N/A
+82,Paul George,FG_ASSISTED,Dennis Schroder,4:57,2,Thunder,Rockets,44 - 36,0,0,2,Dunk
+83,Clint Capela,FG_ASSISTED,Danuel House,4:38,2,Rockets,Thunder,44 - 38,1,0,2,Dunk
+84,Paul George,FG_ASSISTED,Russell Westbrook,4:22,2,Thunder,Rockets,46 - 38,0,11,3,Jumper
+85,Eric Gordon's,FG_MISS,Dennis Schroder,4:13,2,Thunder,Rockets,46 - 38,1,0,2,Layup
+86,Steven Adams,DEFENSIVE_REBOUND,None,4:10,2,Thunder,Rockets,46 - 38,0,N/A,N/A,N/A
+87,Steven Adams,FG_ASSISTED,Dennis Schroder,3:55,2,Thunder,Rockets,48 - 38,0,0,2,Dunk
+88,Eric Gordon,FG_MISS,None,3:43,2,Rockets,Thunder,48 - 38,1,25,3,Jumper
+89,Russell Westbrook,DEFENSIVE_REBOUND,None,3:41,2,Thunder,Rockets,48 - 38,0,N/A,N/A,N/A
+90,Russell Westbrook,TURNOVER,James Harden,3:37,2,Thunder,Rockets,48 - 38,0,N/A,N/A,N/A
+91,Jerami Grant,FOUL_ON_FLOOR,None,3:35,2,Thunder,Rockets,48 - 38,0,N/A,N/A,N/A
+92,James Harden,FT,None,3:35,2,Rockets,Thunder,48 - 39,1,N/A,1,N/A
+93,Austin Rivers,SUBSTITUTION,House Danuel,3:35,2,Rockets,Thunder,48 - 39,1,N/A,N/A,N/A
+94,Nene Hilario,SUBSTITUTION,Capela Clint,3:35,2,Rockets,Thunder,48 - 39,1,N/A,N/A,N/A
+95,James Harden,FT,None,3:35,2,Rockets,Thunder,48 - 40,1,N/A,1,N/A
+96,Steven Adams,FG_MISS,None,3:24,2,Thunder,Rockets,48 - 40,0, ,3,Jumper
+97,PJ Tucker,DEFENSIVE_REBOUND,None,3:21,2,Rockets,Thunder,48 - 40,1,N/A,N/A,N/A
+98,James Harden,FG_UNASSISTED,None,3:03,2,Rockets,Thunder,48 - 42,1,18,3,Jumper
+99,Team,Unknown,None,2:57,2,Thunder,Rockets,48 - 42,0,N/A,N/A,N/A
+100,Terrance Ferguson,SUBSTITUTION,Grant Jerami,2:57,2,Thunder,Rockets,48 - 42,0,N/A,N/A,N/A
+101,Steven Adams,FG_ASSISTED,Russell Westbrook,2:43,2,Thunder,Rockets,50 - 42,0,11,3,Jumper
+102,James Harden,FG_ASSISTED,Nene Hilario,2:27,2,Rockets,Thunder,50 - 45,1,26,3,Jumper
+103,Dennis Schroder,FG_UNASSISTED,None,2:08,2,Thunder,Rockets,52 - 45,0,0,2,Layup
+104,Eric Gordon,TURNOVER,Russell Westbrook,1:52,2,Rockets,Thunder,52 - 45,1,N/A,N/A,N/A
+105,Nene Hilario,FOUL_ON_FLOOR,None,1:50,2,Rockets,Thunder,52 - 45,1,N/A,N/A,N/A
+106,Eric Gordon,FOUL_ON_FLOOR,None,1:47,2,Rockets,Thunder,52 - 45,1,N/A,N/A,N/A
+107,Russell Westbrook,FT,None,1:47,2,Thunder,Rockets,53 - 45,0,N/A,1,N/A
+108,Russell Westbrook,FT_MISS,None,1:47,2,Thunder,Rockets,53 - 45,0,N/A,1,N/A
+109,PJ Tucker,DEFENSIVE_REBOUND,None,1:47,2,Rockets,Thunder,53 - 45,1,N/A,N/A,N/A
+110,Paul George,FOUL_ON_FLOOR,None,1:46,2,Thunder,Rockets,53 - 45,0,N/A,N/A,N/A
+111,PJ Tucker,FT_MISS,None,1:46,2,Rockets,Thunder,53 - 45,1,N/A,1,N/A
+112,Team,OFFENSIVE_REBOUND,None,1:46,2,Rockets,Thunder,53 - 45,1,N/A,N/A,N/A
+113,PJ Tucker,FT_MISS,None,1:46,2,Rockets,Thunder,53 - 45,1,N/A,1,N/A
+114,Paul George,DEFENSIVE_REBOUND,None,1:46,2,Thunder,Rockets,53 - 45,0,N/A,N/A,N/A
+115,Paul George,FG_UNASSISTED,None,1:37,2,Thunder,Rockets,56 - 45,0,28,3,Jumper
+116,James Harden,FG_MISS,None,1:17,2,Rockets,Thunder,56 - 45,1,26,3,Jumper
+117,PJ Tucker,OFFENSIVE_REBOUND,None,1:14,2,Rockets,Thunder,56 - 45,1,N/A,N/A,N/A
+118,PJ Tucker,FG_UNASSISTED,None,1:13,2,Rockets,Thunder,56 - 47,1, ,3,Jumper
+119,Austin Rivers,FOUL_ON_FLOOR,None,1:02,2,Rockets,Thunder,56 - 47,1,N/A,N/A,N/A
+120,Russell Westbrook,FT,None,1:02,2,Thunder,Rockets,57 - 47,0,N/A,1,N/A
+121,Russell Westbrook,FT,None,1:02,2,Thunder,Rockets,58 - 47,0,N/A,1,N/A
+122,James Harden,FG_UNASSISTED,None,41.7,2,Rockets,Thunder,58 - 49,1,5,3,Jumper
+123,Terrance Ferguson,FG_MISS,None,36.5,2,Thunder,Rockets,58 - 49,0,23,3,Jumper
+124,Steven Adams,OFFENSIVE_REBOUND,None,33.4,2,Thunder,Rockets,58 - 49,0,N/A,N/A,N/A
+125,Dennis Schroder,FG_MISS,None,32.2,2,Thunder,Rockets,58 - 49,0,26,3,Jumper
+126,PJ Tucker,DEFENSIVE_REBOUND,None,29.9,2,Rockets,Thunder,58 - 49,1,N/A,N/A,N/A
+127,James Harden,FG_UNASSISTED,None,8.0,2,Rockets,Thunder,58 - 52,1, ,3,Jumper
+128,Steven Adams,FG_ASSISTED,Russell Westbrook,2.9,2,Thunder,Rockets,60 - 52,0,0,2,Layup
+129,Nene Hilario,TURNOVER,Russell Westbrook,2.9,2,Rockets,Thunder,60 - 52,1,N/A,N/A,N/A
+130,End of,Unknown,None,0.0,2,Rockets,Thunder,60 - 52,1,N/A,N/A,N/A
+0,Clint Capela,SUBSTITUTION,Hilario Nene,12:00,3,Rockets,Thunder,60 - 52,1,N/A,N/A,N/A
+1,Danuel House,SUBSTITUTION,Rivers Austin,12:00,3,Rockets,Thunder,60 - 52,1,N/A,N/A,N/A
+2,Jerami Grant,SUBSTITUTION,Schroder Dennis,12:00,3,Thunder,Rockets,60 - 52,0,N/A,N/A,N/A
+3,Eric Gordon,FG_MISS,None,11:50,3,Rockets,Thunder,60 - 52,1,28,3,Jumper
+4,Jerami Grant,DEFENSIVE_REBOUND,None,11:48,3,Thunder,Rockets,60 - 52,0,N/A,N/A,N/A
+5,Russell Westbrook,FG_MISS,None,11:31,3,Thunder,Rockets,60 - 52,0,21,3,Jumper
+6,Steven Adams,OFFENSIVE_REBOUND,None,11:29,3,Thunder,Rockets,60 - 52,0,N/A,N/A,N/A
+7,Russell Westbrook,FG_MISS,None,11:26,3,Thunder,Rockets,60 - 52,0,28,3,Jumper
+8,Danuel House,DEFENSIVE_REBOUND,None,11:23,3,Rockets,Thunder,60 - 52,1,N/A,N/A,N/A
+9,James Harden,TURNOVER,Steven Adams,11:15,3,Rockets,Thunder,60 - 52,1,N/A,N/A,N/A
+10,Paul George,FG_MISS,Eric Gordon,11:10,3,Rockets,Thunder,60 - 52,0,0,2,Layup
+11,Steven Adams,JUMP_BALL,None,11:07,3,Rockets,Thunder,60 - 52,1,N/A,N/A,N/A
+12,Team,DEFENSIVE_REBOUND,None,11:07,3,Rockets,Thunder,60 - 52,1,N/A,N/A,N/A
+13,Clint Capela,FOUL_ON_FLOOR,None,11:02,3,Rockets,Thunder,60 - 52,1,N/A,N/A,N/A
+14,Clint Capela,TURNOVER,None,11:02,3,Rockets,Thunder,60 - 52,1,N/A,N/A,N/A
+15,James Harden,FOUL_ON_FLOOR,None,10:53,3,Rockets,Thunder,60 - 52,1,N/A,N/A,N/A
+16,Russell Westbrook,TURNOVER,None,10:47,3,Thunder,Rockets,60 - 52,0,N/A,N/A,N/A
+17,Danuel House,FG_ASSISTED,Clint Capela,10:25,3,Rockets,Thunder,60 - 55,1,25,3,Jumper
+18,Paul George,FG_MISS,None,10:11,3,Thunder,Rockets,60 - 55,0,12,3,Jumper
+19,Jerami Grant,OFFENSIVE_REBOUND,None,10:08,3,Thunder,Rockets,60 - 55,0,N/A,N/A,N/A
+20,Jerami Grant,FG_MISS,None,10:07,3,Thunder,Rockets,60 - 55,0,2,3,Jumper
+21,Jerami Grant,OFFENSIVE_REBOUND,None,10:06,3,Thunder,Rockets,60 - 55,0,N/A,N/A,N/A
+22,Jerami Grant's,FG_MISS,Clint Capela,10:04,3,Rockets,Thunder,60 - 55,0,0,2,Layup
+23,Clint Capela,DEFENSIVE_REBOUND,None,10:02,3,Rockets,Thunder,60 - 55,1,N/A,N/A,N/A
+24,James Harden,FG_MISS,None,9:49,3,Rockets,Thunder,60 - 55,1,27,3,Jumper
+25,Danuel House,OFFENSIVE_REBOUND,None,9:45,3,Rockets,Thunder,60 - 55,1,N/A,N/A,N/A
+26,PJ Tucker,FG_ASSISTED,Danuel House,9:45,3,Rockets,Thunder,60 - 58,1,24,3,Jumper
+27,Team,Unknown,None,9:42,3,Thunder,Rockets,60 - 58,0,N/A,N/A,N/A
+28,Russell Westbrook,FG_MISS,None,9:31,3,Thunder,Rockets,60 - 58,0,27,3,Jumper
+29,Team,OFFENSIVE_REBOUND,None,9:30,3,Thunder,Rockets,60 - 58,0,N/A,N/A,N/A
+30,Clint Capela,FOUL_ON_FLOOR,None,9:30,3,Rockets,Thunder,60 - 58,1,N/A,N/A,N/A
+31,Russell Westbrook,TURNOVER,PJ Tucker,9:22,3,Thunder,Rockets,60 - 58,0,N/A,N/A,N/A
+32,Paul George,FOUL_ON_FLOOR,None,9:22,3,Thunder,Rockets,60 - 58,0,N/A,N/A,N/A
+33,James Harden,FG_UNASSISTED,None,8:58,3,Rockets,Thunder,60 - 60,1,0,2,Layup
+34,Jerami Grant,FG_UNASSISTED,None,8:41,3,Thunder,Rockets,62 - 60,0, ,3,Jumper
+35,Eric Gordon,FG_UNASSISTED,None,8:34,3,Rockets,Thunder,62 - 63,1,25,3,Jumper
+36,Steven Adams,FG_UNASSISTED,None,8:17,3,Thunder,Rockets,64 - 63,0,0,2,Layup
+37,Eric Gordon,FG_MISS,None,8:07,3,Rockets,Thunder,64 - 63,1,27,3,Jumper
+38,Paul George,DEFENSIVE_REBOUND,None,8:04,3,Thunder,Rockets,64 - 63,0,N/A,N/A,N/A
+39,Paul George,FG_UNASSISTED,None,7:57,3,Thunder,Rockets,66 - 63,0, ,3,Jumper
+40,Danuel House,FG_ASSISTED,James Harden,7:52,3,Rockets,Thunder,66 - 65,1,0,2,Layup
+41,Russell Westbrook,FOUL_ON_FLOOR,None,7:52,3,Thunder,Rockets,66 - 65,0,N/A,N/A,N/A
+42,Danuel House,FT,None,7:52,3,Rockets,Thunder,66 - 66,1,N/A,1,N/A
+43,Jerami Grant,FG_MISS,None,7:42,3,Thunder,Rockets,66 - 66,0,23,3,Jumper
+44,Danuel House,DEFENSIVE_REBOUND,None,7:37,3,Rockets,Thunder,66 - 66,1,N/A,N/A,N/A
+45,James Harden,FG_MISS,None,7:35,3,Rockets,Thunder,66 - 66,1,26,3,Jumper
+46,James Harden,OFFENSIVE_REBOUND,None,7:33,3,Rockets,Thunder,66 - 66,1,N/A,N/A,N/A
+47,Danuel House,FG_MISS,None,7:25,3,Rockets,Thunder,66 - 66,1,0,2,Layup
+48,Paul George,DEFENSIVE_REBOUND,None,7:23,3,Thunder,Rockets,66 - 66,0,N/A,N/A,N/A
+49,Jerami Grant,FG_ASSISTED,Paul George,7:18,3,Thunder,Rockets,68 - 66,0,0,2,Layup
+50,Terrance Ferguson,FOUL_ON_FLOOR,None,7:03,3,Thunder,Rockets,68 - 66,0,N/A,N/A,N/A
+51,James Harden,FT,None,7:03,3,Rockets,Thunder,68 - 67,1,N/A,1,N/A
+52,Dennis Schroder,SUBSTITUTION,Ferguson Terrance,7:03,3,Thunder,Rockets,68 - 67,0,N/A,N/A,N/A
+53,James Harden,FT,None,7:03,3,Rockets,Thunder,68 - 68,1,N/A,1,N/A
+54,Russell Westbrook,FG_UNASSISTED,None,6:53,3,Thunder,Rockets,70 - 68,0,0,2,Layup
+55,Clint Capela's,FG_MISS,Jerami Grant,6:37,3,Thunder,Rockets,70 - 68,1,0,2,Dunk
+56,Paul George,DEFENSIVE_REBOUND,None,6:34,3,Thunder,Rockets,70 - 68,0,N/A,N/A,N/A
+57,Paul George,TURNOVER,Danuel House,6:24,3,Thunder,Rockets,70 - 68,0,N/A,N/A,N/A
+58,PJ Tucker,FG_ASSISTED,James Harden,6:20,3,Rockets,Thunder,70 - 70,1,0,2,Layup
+59,Steven Adams,FG_MISS,None,6:08,3,Thunder,Rockets,70 - 70,0,0,2,Layup
+60,Clint Capela,DEFENSIVE_REBOUND,None,6:05,3,Rockets,Thunder,70 - 70,1,N/A,N/A,N/A
+61,James Harden,FG_UNASSISTED,None,6:00,3,Rockets,Thunder,70 - 73,1,26,3,Jumper
+62,Russell Westbrook,FG_MISS,None,5:41,3,Thunder,Rockets,70 - 73,0,13,3,Jumper
+63,Clint Capela,DEFENSIVE_REBOUND,None,5:38,3,Rockets,Thunder,70 - 73,1,N/A,N/A,N/A
+64,James Harden,TURNOVER,Paul George,5:29,3,Rockets,Thunder,70 - 73,1,N/A,N/A,N/A
+65,Paul George,FG_ASSISTED,Dennis Schroder,5:24,3,Thunder,Rockets,73 - 73,0,29,3,Jumper
+66,Team,Unknown,None,5:22,3,Rockets,Thunder,73 - 73,1,N/A,N/A,N/A
+67,Austin Rivers,SUBSTITUTION,House Danuel,5:22,3,Rockets,Thunder,73 - 73,1,N/A,N/A,N/A
+68,Nene Hilario,SUBSTITUTION,Gordon Eric,5:22,3,Rockets,Thunder,73 - 73,1,N/A,N/A,N/A
+69,Gerald Green,SUBSTITUTION,Capela Clint,5:22,3,Rockets,Thunder,73 - 73,1,N/A,N/A,N/A
+70,James Harden,FG_MISS,None,5:04,3,Rockets,Thunder,73 - 73,1,14,3,Jumper
+71,Paul George,DEFENSIVE_REBOUND,None,5:03,3,Thunder,Rockets,73 - 73,0,N/A,N/A,N/A
+72,Russell Westbrook,FG_UNASSISTED,None,5:00,3,Thunder,Rockets,75 - 73,0,0,2,Layup
+73,Gerald Green,FOUL_ON_FLOOR,None,5:00,3,Rockets,Thunder,75 - 73,1,N/A,N/A,N/A
+74,Russell Westbrook,FT_MISS,None,5:00,3,Thunder,Rockets,75 - 73,0,N/A,1,N/A
+75,James Harden,DEFENSIVE_REBOUND,None,5:00,3,Rockets,Thunder,75 - 73,1,N/A,N/A,N/A
+76,James Harden,FG_MISS,None,4:37,3,Rockets,Thunder,75 - 73,1,19,3,Jumper
+77,Jerami Grant,DEFENSIVE_REBOUND,None,4:34,3,Thunder,Rockets,75 - 73,0,N/A,N/A,N/A
+78,Paul George,FG_ASSISTED,Russell Westbrook,4:31,3,Thunder,Rockets,77 - 73,0,0,2,Layup
+79,Nene Hilario,FG_ASSISTED,James Harden,4:08,3,Rockets,Thunder,77 - 75,1,0,2,Layup
+80,Paul George,FG_UNASSISTED,None,3:55,3,Thunder,Rockets,80 - 75,0,25,3,Jumper
+81,James Harden,FG_MISS,None,3:35,3,Rockets,Thunder,80 - 75,1,26,3,Jumper
+82,Paul George,DEFENSIVE_REBOUND,None,3:31,3,Thunder,Rockets,80 - 75,0,N/A,N/A,N/A
+83,Jerami Grant,FG_MISS,None,3:25,3,Thunder,Rockets,80 - 75,0,0,2,Layup
+84,Nene Hilario,DEFENSIVE_REBOUND,None,3:23,3,Rockets,Thunder,80 - 75,1,N/A,N/A,N/A
+85,Steven Adams,FOUL_ON_FLOOR,None,3:12,3,Thunder,Rockets,80 - 75,0,N/A,N/A,N/A
+86,James Harden,FG_UNASSISTED,None,3:03,3,Rockets,Thunder,80 - 77,1,19,3,Jumper
+87,Dennis Schroder,FOUL_ON_FLOOR,None,3:03,3,Thunder,Rockets,80 - 77,0,N/A,N/A,N/A
+88,James Harden,FT,None,3:03,3,Rockets,Thunder,80 - 78,1,N/A,1,N/A
+89,Austin Rivers,FOUL_ON_FLOOR,None,2:53,3,Rockets,Thunder,80 - 78,1,N/A,N/A,N/A
+90,Russell Westbrook,FT,None,2:53,3,Thunder,Rockets,81 - 78,0,N/A,1,N/A
+91,Russell Westbrook,FT,None,2:53,3,Thunder,Rockets,82 - 78,0,N/A,1,N/A
+92,Gerald Green,FG_MISS,None,2:37,3,Rockets,Thunder,82 - 78,1, ,3,Jumper
+93,Paul George,DEFENSIVE_REBOUND,None,2:34,3,Thunder,Rockets,82 - 78,0,N/A,N/A,N/A
+94,Paul George,FG_MISS,None,2:26,3,Thunder,Rockets,82 - 78,0,0,2,Layup
+95,Nene Hilario,DEFENSIVE_REBOUND,None,2:24,3,Rockets,Thunder,82 - 78,1,N/A,N/A,N/A
+96,Terrance Ferguson,SUBSTITUTION,Westbrook Russell,2:19,3,Thunder,Rockets,82 - 78,0,N/A,N/A,N/A
+97,PJ Tucker,FG_ASSISTED,James Harden,2:08,3,Rockets,Thunder,82 - 80,1,9,3,Jumper
+98,PJ Tucker,FOUL_ON_FLOOR,None,1:57,3,Rockets,Thunder,82 - 80,1,N/A,N/A,N/A
+99,Paul George,FT,None,1:57,3,Thunder,Rockets,83 - 80,0,N/A,1,N/A
+100,Abdel Nader,SUBSTITUTION,Grant Jerami,1:57,3,Thunder,Rockets,83 - 80,0,N/A,N/A,N/A
+101,Paul George,FT,None,1:57,3,Thunder,Rockets,84 - 80,0,N/A,1,N/A
+102,PJ Tucker,FG_ASSISTED,Austin Rivers,1:43,3,Rockets,Thunder,84 - 82,1,9,3,Jumper
+103,Dennis Schroder,FG_MISS,None,1:31,3,Thunder,Rockets,84 - 82,0,14,3,Jumper
+104,James Harden,DEFENSIVE_REBOUND,None,1:28,3,Rockets,Thunder,84 - 82,1,N/A,N/A,N/A
+105,Dennis Schroder,FOUL_ON_FLOOR,None,1:22,3,Thunder,Rockets,84 - 82,0,N/A,N/A,N/A
+106,James Harden,FT,None,1:22,3,Rockets,Thunder,84 - 83,1,N/A,1,N/A
+107,Eric Gordon,SUBSTITUTION,Green Gerald,1:22,3,Rockets,Thunder,84 - 83,1,N/A,N/A,N/A
+108,James Harden,FT_MISS,None,1:22,3,Rockets,Thunder,84 - 83,1,N/A,1,N/A
+109,Abdel Nader,DEFENSIVE_REBOUND,None,1:22,3,Thunder,Rockets,84 - 83,0,N/A,N/A,N/A
+110,Abdel Nader,FG_MISS,None,1:03,3,Thunder,Rockets,84 - 83,0,25,3,Jumper
+111,Austin Rivers,DEFENSIVE_REBOUND,None,1:00,3,Rockets,Thunder,84 - 83,1,N/A,N/A,N/A
+112,James Harden,FG_UNASSISTED,None,52.1,3,Rockets,Thunder,84 - 86,1,26,3,Jumper
+113,Dennis Schroder,FG_UNASSISTED,None,45.3,3,Thunder,Rockets,86 - 86,0, ,3,Jumper
+114,James Harden,FG_MISS,None,30.8,3,Rockets,Thunder,86 - 86,1,26,3,Jumper
+115,Steven Adams,DEFENSIVE_REBOUND,None,27.8,3,Thunder,Rockets,86 - 86,0,N/A,N/A,N/A
+116,Paul George,FG_MISS,None,7.0,3,Thunder,Rockets,86 - 86,0,25,3,Jumper
+117,Paul George,OFFENSIVE_REBOUND,None,2.8,3,Thunder,Rockets,86 - 86,0,N/A,N/A,N/A
+118,Paul George,FG_UNASSISTED,None,2.8,3,Thunder,Rockets,88 - 86,0,0,2,Layup
+119,James Harden,FG_MISS,None,0.0,3,Rockets,Thunder,88 - 86,1,49,3,Jumper
+120,Team,OFFENSIVE_REBOUND,None,0.0,3,Rockets,Thunder,88 - 86,1,N/A,N/A,N/A
+121,End of,Unknown,None,0.0,3,Rockets,Thunder,88 - 86,1,N/A,N/A,N/A
+0,Danuel House,SUBSTITUTION,Harden James,12:00,4,Rockets,Thunder,88 - 86,1,N/A,N/A,N/A
+1,Clint Capela,SUBSTITUTION,Tucker PJ,12:00,4,Rockets,Thunder,88 - 86,1,N/A,N/A,N/A
+2,Gerald Green,SUBSTITUTION,Hilario Nene,12:00,4,Rockets,Thunder,88 - 86,1,N/A,N/A,N/A
+3,Hamidou Diallo,SUBSTITUTION,Adams Steven,12:00,4,Thunder,Rockets,88 - 86,0,N/A,N/A,N/A
+4,Nerlens Noel,SUBSTITUTION,George Paul,12:00,4,Thunder,Rockets,88 - 86,0,N/A,N/A,N/A
+5,Terrance Ferguson,FG_MISS,None,11:54,4,Thunder,Rockets,88 - 86,0,24,3,Jumper
+6,Clint Capela,DEFENSIVE_REBOUND,None,11:50,4,Rockets,Thunder,88 - 86,1,N/A,N/A,N/A
+7,Clint Capela,FG_MISS,None,11:32,4,Rockets,Thunder,88 - 86,1,10,3,Jumper
+8,Hamidou Diallo,DEFENSIVE_REBOUND,None,11:30,4,Thunder,Rockets,88 - 86,0,N/A,N/A,N/A
+9,Dennis Schroder,FG_MISS,None,11:16,4,Thunder,Rockets,88 - 86,0,18,3,Jumper
+10,Clint Capela,DEFENSIVE_REBOUND,None,11:12,4,Rockets,Thunder,88 - 86,1,N/A,N/A,N/A
+11,Terrance Ferguson,FOUL_ON_FLOOR,None,11:05,4,Thunder,Rockets,88 - 86,0,N/A,N/A,N/A
+12,Austin Rivers,FT_MISS,None,11:05,4,Rockets,Thunder,88 - 86,1,N/A,1,N/A
+13,Team,OFFENSIVE_REBOUND,None,11:05,4,Rockets,Thunder,88 - 86,1,N/A,N/A,N/A
+14,Austin Rivers,FT,None,11:05,4,Rockets,Thunder,88 - 87,1,N/A,1,N/A
+15,Abdel Nader,FG_MISS,None,10:54,4,Thunder,Rockets,88 - 87,0, ,3,Jumper
+16,Team,DEFENSIVE_REBOUND,None,10:51,4,Rockets,Thunder,88 - 87,1,N/A,N/A,N/A
+17,Eric Gordon,FG_MISS,None,10:38,4,Rockets,Thunder,88 - 87,1, ,3,Jumper
+18,Clint Capela,OFFENSIVE_REBOUND,None,10:35,4,Rockets,Thunder,88 - 87,1,N/A,N/A,N/A
+19,Clint Capela,FG_MISS,None,10:33,4,Rockets,Thunder,88 - 87,1,7,3,Jumper
+20,Dennis Schroder,DEFENSIVE_REBOUND,None,10:31,4,Thunder,Rockets,88 - 87,0,N/A,N/A,N/A
+21,Nerlens Noel,TURNOVER,Clint Capela,10:21,4,Thunder,Rockets,88 - 87,0,N/A,N/A,N/A
+22,Eric Gordon,FG_UNASSISTED,None,10:11,4,Rockets,Thunder,88 - 89,1,0,2,Layup
+23,Terrance Ferguson,FG_ASSISTED,Abdel Nader,9:56,4,Thunder,Rockets,91 - 89,0,25,3,Jumper
+24,Gerald Green,FG_ASSISTED,Eric Gordon,9:41,4,Rockets,Thunder,91 - 91,1,0,2,Layup
+25,Dennis Schroder,FG_UNASSISTED,None,9:29,4,Thunder,Rockets,93 - 91,0,0,2,Layup
+26,Eric Gordon,FG_UNASSISTED,None,9:18,4,Rockets,Thunder,93 - 93,1, ,3,Jumper
+27,Team,Unknown,None,9:18,4,Thunder,Rockets,93 - 93,0,N/A,N/A,N/A
+28,Russell Westbrook,SUBSTITUTION,Ferguson Terrance,9:18,4,Thunder,Rockets,93 - 93,0,N/A,N/A,N/A
+29,Russell Westbrook,FG_MISS,None,9:18,4,Thunder,Rockets,93 - 93,0,22,3,Jumper
+30,Clint Capela,DEFENSIVE_REBOUND,None,9:17,4,Rockets,Thunder,93 - 93,1,N/A,N/A,N/A
+31,Gerald Green,FG_MISS,None,9:00,4,Rockets,Thunder,93 - 93,1,25,3,Jumper
+32,Clint Capela,OFFENSIVE_REBOUND,None,8:57,4,Rockets,Thunder,93 - 93,1,N/A,N/A,N/A
+33,Danuel House,FG_ASSISTED,Clint Capela,8:53,4,Rockets,Thunder,93 - 96,1,23,3,Jumper
+34,Abdel Nader,FG_MISS,None,8:30,4,Thunder,Rockets,93 - 96,0,26,3,Jumper
+35,Eric Gordon,DEFENSIVE_REBOUND,None,8:28,4,Rockets,Thunder,93 - 96,1,N/A,N/A,N/A
+36,Eric Gordon,FG_MISS,Nerlens Noel,8:24,4,Thunder,Rockets,93 - 96,1,30,3,Jumper
+37,Russell Westbrook,DEFENSIVE_REBOUND,None,8:22,4,Thunder,Rockets,93 - 96,0,N/A,N/A,N/A
+38,Hamidou Diallo,FG_ASSISTED,Russell Westbrook,8:15,4,Thunder,Rockets,95 - 96,0,0,2,Layup
+39,Danuel House,TURNOVER,Nerlens Noel,7:57,4,Rockets,Thunder,95 - 96,1,N/A,N/A,N/A
+40,Danuel House,FOUL_ON_FLOOR,None,7:55,4,Rockets,Thunder,95 - 96,1,N/A,N/A,N/A
+41,Hamidou Diallo,FT_MISS,None,7:55,4,Thunder,Rockets,95 - 96,0,N/A,1,N/A
+42,Team,OFFENSIVE_REBOUND,None,7:55,4,Thunder,Rockets,95 - 96,0,N/A,N/A,N/A
+43,James Harden,SUBSTITUTION,Green Gerald,7:55,4,Rockets,Thunder,95 - 96,1,N/A,N/A,N/A
+44,Jerami Grant,SUBSTITUTION,Nader Abdel,7:55,4,Thunder,Rockets,95 - 96,0,N/A,N/A,N/A
+45,Hamidou Diallo,FT_MISS,None,7:55,4,Thunder,Rockets,95 - 96,0,N/A,1,N/A
+46,Eric Gordon,DEFENSIVE_REBOUND,None,7:55,4,Rockets,Thunder,95 - 96,1,N/A,N/A,N/A
+47,Clint Capela,FG_ASSISTED,James Harden,7:30,4,Rockets,Thunder,95 - 98,1,0,2,Dunk
+48,Russell Westbrook,FG_MISS,None,7:10,4,Thunder,Rockets,95 - 98,0,26,3,Jumper
+49,Eric Gordon,DEFENSIVE_REBOUND,None,7:06,4,Rockets,Thunder,95 - 98,1,N/A,N/A,N/A
+50,Clint Capela,FG_ASSISTED,James Harden,6:58,4,Rockets,Thunder,95 - 100,1,0,2,Dunk
+51,Eric Gordon,FOUL_ON_FLOOR,None,6:47,4,Rockets,Thunder,95 - 100,1,N/A,N/A,N/A
+52,Nene Hilario,SUBSTITUTION,House Danuel,6:47,4,Rockets,Thunder,95 - 100,1,N/A,N/A,N/A
+53,PJ Tucker,SUBSTITUTION,Capela Clint,6:47,4,Rockets,Thunder,95 - 100,1,N/A,N/A,N/A
+54,Steven Adams,SUBSTITUTION,Noel Nerlens,6:47,4,Thunder,Rockets,95 - 100,0,N/A,N/A,N/A
+55,Paul George,SUBSTITUTION,Schroder Dennis,6:47,4,Thunder,Rockets,95 - 100,0,N/A,N/A,N/A
+56,Jerami Grant,FG_MISS,None,6:36,4,Thunder,Rockets,95 - 100,0,1,3,Jumper
+57,Paul George,OFFENSIVE_REBOUND,None,6:30,4,Thunder,Rockets,95 - 100,0,N/A,N/A,N/A
+58,Paul George,FG_MISS,None,6:26,4,Thunder,Rockets,95 - 100,0,21,3,Jumper
+59,Nene Hilario,DEFENSIVE_REBOUND,None,6:21,4,Rockets,Thunder,95 - 100,1,N/A,N/A,N/A
+60,Eric Gordon,FG_UNASSISTED,None,6:11,4,Rockets,Thunder,95 - 102,1,1,3,Jumper
+61,Team,Unknown,None,6:11,4,Thunder,Rockets,95 - 102,0,N/A,N/A,N/A
+62,Russell Westbrook,TURNOVER,Nene Hilario,5:54,4,Thunder,Rockets,95 - 102,0,N/A,N/A,N/A
+63,James Harden,TURNOVER,Paul George,5:49,4,Rockets,Thunder,95 - 102,1,N/A,N/A,N/A
+64,PJ Tucker,FOUL_ON_FLOOR,None,5:44,4,Rockets,Thunder,95 - 102,1,N/A,N/A,N/A
+65,Dennis Schroder,SUBSTITUTION,Diallo Hamidou,5:44,4,Thunder,Rockets,95 - 102,0,N/A,N/A,N/A
+66,Russell Westbrook,TURNOVER,Eric Gordon,5:36,4,Thunder,Rockets,95 - 102,0,N/A,N/A,N/A
+67,Russell Westbrook,FOUL_ON_FLOOR,None,5:29,4,Thunder,Rockets,95 - 102,0,N/A,N/A,N/A
+68,James Harden,FG_UNASSISTED,None,5:14,4,Rockets,Thunder,95 - 104,1,12,3,Jumper
+69,Jerami Grant,FG_ASSISTED,Dennis Schroder,4:59,4,Thunder,Rockets,97 - 104,0,0,2,Layup
+70,Eric Gordon,TURNOVER,None,4:39,4,Rockets,Thunder,97 - 104,1,N/A,N/A,N/A
+71,Paul George,FG_MISS,None,4:30,4,Thunder,Rockets,97 - 104,0,26,3,Jumper
+72,Russell Westbrook,OFFENSIVE_REBOUND,None,4:27,4,Thunder,Rockets,97 - 104,0,N/A,N/A,N/A
+73,PJ Tucker,FOUL_ON_FLOOR,None,4:27,4,Rockets,Thunder,97 - 104,1,N/A,N/A,N/A
+74,Austin Rivers,FOUL_ON_FLOOR,None,4:16,4,Rockets,Thunder,97 - 104,1,N/A,N/A,N/A
+75,Steven Adams,FT_MISS,None,4:16,4,Thunder,Rockets,97 - 104,0,N/A,1,N/A
+76,Team,OFFENSIVE_REBOUND,None,4:16,4,Thunder,Rockets,97 - 104,0,N/A,N/A,N/A
+77,Clint Capela,SUBSTITUTION,Hilario Nene,4:16,4,Rockets,Thunder,97 - 104,1,N/A,N/A,N/A
+78,Steven Adams,FT,None,4:16,4,Thunder,Rockets,98 - 104,0,N/A,1,N/A
+79,James Harden,FG_MISS,None,3:58,4,Rockets,Thunder,98 - 104,1,25,3,Jumper
+80,Eric Gordon,OFFENSIVE_REBOUND,None,3:54,4,Rockets,Thunder,98 - 104,1,N/A,N/A,N/A
+81,Austin Rivers,FG_ASSISTED,Eric Gordon,3:52,4,Rockets,Thunder,98 - 107,1,26,3,Jumper
+82,Jerami Grant,FG_ASSISTED,Dennis Schroder,3:39,4,Thunder,Rockets,101 - 107,0,1,3,Jumper
+83,James Harden,FG_MISS,None,3:13,4,Rockets,Thunder,101 - 107,1,20,3,Jumper
+84,Paul George,DEFENSIVE_REBOUND,None,3:10,4,Thunder,Rockets,101 - 107,0,N/A,N/A,N/A
+85,Jerami Grant,FG_ASSISTED,Steven Adams,2:57,4,Thunder,Rockets,103 - 107,0,0,2,Dunk
+86,Austin Rivers,FG_ASSISTED,Eric Gordon,2:31,4,Rockets,Thunder,103 - 110,1,24,3,Jumper
+87,Paul George,TURNOVER,None,2:14,4,Thunder,Rockets,103 - 110,0,N/A,N/A,N/A
+88,Paul George,TURNOVER,None,2:14,4,Thunder,Rockets,103 - 110,0,N/A,N/A,N/A
+89,James Harden,FG_MISS,None,1:53,4,Rockets,Thunder,103 - 110,1,26,3,Jumper
+90,Russell Westbrook,DEFENSIVE_REBOUND,None,1:51,4,Thunder,Rockets,103 - 110,0,N/A,N/A,N/A
+91,Paul George,FG_ASSISTED,Russell Westbrook,1:47,4,Thunder,Rockets,106 - 110,0,25,3,Jumper
+92,Team,Unknown,None,1:40,4,Rockets,Thunder,106 - 110,1,N/A,N/A,N/A
+93,James Harden,FG_MISS,None,1:26,4,Rockets,Thunder,106 - 110,1,1,3,Jumper
+94,Dennis Schroder,DEFENSIVE_REBOUND,None,1:21,4,Thunder,Rockets,106 - 110,0,N/A,N/A,N/A
+95,Russell Westbrook,FG_MISS,None,1:08,4,Thunder,Rockets,106 - 110,0,14,3,Jumper
+96,Clint Capela,DEFENSIVE_REBOUND,None,1:03,4,Rockets,Thunder,106 - 110,1,N/A,N/A,N/A
+97,James Harden,TURNOVER,Paul George,46.9,4,Rockets,Thunder,106 - 110,1,N/A,N/A,N/A
+98,James Harden,FOUL_ON_FLOOR,None,43.6,4,Rockets,Thunder,106 - 110,1,N/A,N/A,N/A
+99,Paul George,FT,None,43.6,4,Thunder,Rockets,107 - 110,0,N/A,1,N/A
+100,Paul George,FT,None,43.6,4,Thunder,Rockets,108 - 110,0,N/A,1,N/A
+101,Dennis Schroder,FOUL_ON_FLOOR,None,37.8,4,Thunder,Rockets,108 - 110,0,N/A,N/A,N/A
+102,James Harden,FG_UNASSISTED,None,20.4,4,Rockets,Thunder,108 - 112,1,7,3,Jumper
+103,Team,Unknown,None,20.4,4,Thunder,Rockets,108 - 112,0,N/A,N/A,N/A
+104,Austin Rivers,FOUL_ON_FLOOR,None,15.0,4,Rockets,Thunder,108 - 112,1,N/A,N/A,N/A
+105,Russell Westbrook,FT,None,15.0,4,Thunder,Rockets,109 - 112,0,N/A,1,N/A
+106,Nene Hilario,SUBSTITUTION,Capela Clint,15.0,4,Rockets,Thunder,109 - 112,1,N/A,N/A,N/A
+107,Russell Westbrook,FT_MISS,None,15.0,4,Thunder,Rockets,109 - 112,0,N/A,1,N/A
+108,PJ Tucker,DEFENSIVE_REBOUND,None,15.0,4,Rockets,Thunder,109 - 112,1,N/A,N/A,N/A
+109,Steven Adams,FOUL_ON_FLOOR,None,7.4,4,Thunder,Rockets,109 - 112,0,N/A,N/A,N/A
+110,Austin Rivers,FT_MISS,None,7.4,4,Rockets,Thunder,109 - 112,1,N/A,1,N/A
+111,Team,OFFENSIVE_REBOUND,None,7.4,4,Rockets,Thunder,109 - 112,1,N/A,N/A,N/A
+112,Clint Capela,SUBSTITUTION,Hilario Nene,7.4,4,Rockets,Thunder,109 - 112,1,N/A,N/A,N/A
+113,Austin Rivers,FT,None,7.4,4,Rockets,Thunder,109 - 113,1,N/A,1,N/A
+114,Team,Unknown,None,7.4,4,Thunder,Rockets,109 - 113,0,N/A,N/A,N/A
+115,Paul George,FG_MISS,None,6.1,4,Thunder,Rockets,109 - 113,0,25,3,Jumper
+116,Jerami Grant,OFFENSIVE_REBOUND,None,2.0,4,Thunder,Rockets,109 - 113,0,N/A,N/A,N/A
+117,Paul George,FG_MISS,None,0.5,4,Thunder,Rockets,109 - 113,0,26,3,Jumper
+118,Russell Westbrook,OFFENSIVE_REBOUND,None,0.4,4,Thunder,Rockets,109 - 113,0,N/A,N/A,N/A
+119,Russell Westbrook,FG_MISS,None,0.0,4,Thunder,Rockets,109 - 113,0,1,3,Jumper
+120,Team,OFFENSIVE_REBOUND,None,0.0,4,Thunder,Rockets,109 - 113,0,N/A,N/A,N/A
+121,End of,Unknown,None,0.0,4,Rockets,Thunder,109 - 113,1,N/A,N/A,N/A
+122,End of,Unknown,None,0.0,4,Rockets,Thunder,109 - 113,1,N/A,N/A,N/A

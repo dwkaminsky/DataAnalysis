@@ -1,0 +1,493 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Joel Embiid,JUMP_BALL,None,12:00,1,76ers,Wizards,0 - 0,0,N/A,N/A,N/A
+1,Wilson Chandler,FG_ASSISTED,Joel Embiid,11:47,1,76ers,Wizards,2 - 0,0,0,2,Layup
+2,Trevor Ariza,FG_MISS,None,11:30,1,Wizards,76ers,2 - 0,1,-,2,Jumper
+3,Trevor Ariza,OFFENSIVE_REBOUND,None,11:27,1,Wizards,76ers,2 - 0,1,N/A,N/A,N/A
+4,Trevor Ariza,FG_UNASSISTED,None,11:27,1,Wizards,76ers,2 - 2,1,-,2,Jumper
+5,Joel Embiid,FG_ASSISTED,Furkan Korkmaz,11:19,1,76ers,Wizards,4 - 2,0,2,2,Jumper
+6,Bradley Beal,FG_UNASSISTED,None,11:05,1,Wizards,76ers,4 - 5,1,26,2,Jumper
+7,Ben Simmons,FG_MISS,None,10:49,1,76ers,Wizards,4 - 5,0,16,2,Jumper
+8,Trevor Ariza,DEFENSIVE_REBOUND,None,10:45,1,Wizards,76ers,4 - 5,1,N/A,N/A,N/A
+9,Tomas Satoransky,FG_MISS,None,10:33,1,Wizards,76ers,4 - 5,1,13,2,Jumper
+10,Joel Embiid,DEFENSIVE_REBOUND,None,10:29,1,76ers,Wizards,4 - 5,0,N/A,N/A,N/A
+11,Furkan Korkmaz,FG_MISS,None,10:18,1,76ers,Wizards,4 - 5,0,27,3,Jumper
+12,Jeff Green,DEFENSIVE_REBOUND,None,10:15,1,Wizards,76ers,4 - 5,1,N/A,N/A,N/A
+13,Bradley Beal,TURNOVER,Furkan Korkmaz,10:10,1,Wizards,76ers,4 - 5,1,N/A,N/A,N/A
+14,Ben Simmons,TURNOVER,None,10:03,1,76ers,Wizards,4 - 5,0,N/A,N/A,N/A
+15,Tomas Satoransky,TURNOVER,None,9:50,1,Wizards,76ers,4 - 5,1,N/A,N/A,N/A
+16,Thomas Bryant,FOUL_ON_FLOOR,None,9:38,1,Wizards,76ers,4 - 5,1,N/A,N/A,N/A
+17,Trevor Ariza,FOUL_ON_FLOOR,None,9:25,1,Wizards,76ers,4 - 5,1,N/A,N/A,N/A
+18,Joel Embiid,FT,None,9:25,1,76ers,Wizards,5 - 5,0,N/A,1,N/A
+19,Joel Embiid,FT,None,9:25,1,76ers,Wizards,6 - 5,0,N/A,1,N/A
+20,Bradley Beal,FG_ASSISTED,Trevor Ariza,9:09,1,Wizards,76ers,6 - 8,1,25,3,Jumper
+21,Joel Embiid,FG_ASSISTED,Ben Simmons,8:52,1,76ers,Wizards,8 - 8,0,0,2,Layup
+22,Thomas Bryant,FG_MISS,None,8:41,1,Wizards,76ers,8 - 8,1,16,2,Jumper
+23,Ben Simmons,DEFENSIVE_REBOUND,None,8:37,1,76ers,Wizards,8 - 8,0,N/A,N/A,N/A
+24,Ben Simmons,TURNOVER,Thomas Bryant,8:33,1,76ers,Wizards,8 - 8,0,N/A,N/A,N/A
+25,Trevor Ariza,TURNOVER,Furkan Korkmaz,8:29,1,Wizards,76ers,8 - 8,1,N/A,N/A,N/A
+26,Furkan Korkmaz,TURNOVER,Trevor Ariza,8:25,1,76ers,Wizards,8 - 8,0,N/A,N/A,N/A
+27,Trevor Ariza,FG_UNASSISTED,None,8:20,1,Wizards,76ers,8 - 10,1,0,2,Dunk
+28,Jimmy Butler,FG_MISS,None,8:03,1,76ers,Wizards,8 - 10,0,16,2,Jumper
+29,Tomas Satoransky,DEFENSIVE_REBOUND,None,8:00,1,Wizards,76ers,8 - 10,1,N/A,N/A,N/A
+30,Bradley Beal,FG_ASSISTED,Tomas Satoransky,7:55,1,Wizards,76ers,8 - 13,1,23,3,Jumper
+31,Thomas Bryant,FOUL_ON_FLOOR,None,7:35,1,Wizards,76ers,8 - 13,1,N/A,N/A,N/A
+32,Ian Mahinmi,SUBSTITUTION,Bryant Thomas,7:35,1,Wizards,76ers,8 - 13,1,N/A,N/A,N/A
+33,Joel Embiid,FG_MISS,None,7:29,1,76ers,Wizards,8 - 13,0,18,2,Jumper
+34,Jeff Green,DEFENSIVE_REBOUND,None,7:27,1,Wizards,76ers,8 - 13,1,N/A,N/A,N/A
+35,Trevor Ariza,FG_ASSISTED,Tomas Satoransky,7:24,1,Wizards,76ers,8 - 15,1,0,2,Layup
+36,Team,Unknown,None,7:24,1,76ers,Wizards,8 - 15,0,N/A,N/A,N/A
+37,Team,Unknown,None,7:24,1,76ers,Wizards,8 - 15,0,N/A,N/A,N/A
+38,Ben Simmons,TURNOVER,Ian Mahinmi,7:13,1,76ers,Wizards,8 - 15,0,N/A,N/A,N/A
+39,Tomas Satoransky,FG_MISS,None,6:58,1,Wizards,76ers,8 - 15,1, ,2,Jumper
+40,Joel Embiid,DEFENSIVE_REBOUND,None,6:56,1,76ers,Wizards,8 - 15,0,N/A,N/A,N/A
+41,Wilson Chandler,FG_MISS,None,6:56,1,76ers,Wizards,8 - 15,0,24,3,Jumper
+42,Ben Simmons,OFFENSIVE_REBOUND,None,6:43,1,76ers,Wizards,8 - 15,0,N/A,N/A,N/A
+43,Furkan Korkmaz,FG_MISS,None,6:41,1,76ers,Wizards,8 - 15,0,26,3,Jumper
+44,Jeff Green,DEFENSIVE_REBOUND,None,6:38,1,Wizards,76ers,8 - 15,1,N/A,N/A,N/A
+45,Joel Embiid,FOUL_ON_FLOOR,None,6:25,1,76ers,Wizards,8 - 15,0,N/A,N/A,N/A
+46,Trevor Ariza,FT,None,6:25,1,Wizards,76ers,8 - 16,1,N/A,1,N/A
+47,Mike Muscala,SUBSTITUTION,Embiid Joel,6:25,1,76ers,Wizards,8 - 16,0,N/A,N/A,N/A
+48,Landry Shamet,SUBSTITUTION,Chandler Wilson,6:25,1,76ers,Wizards,8 - 16,0,N/A,N/A,N/A
+49,T.J. McConnell,SUBSTITUTION,Korkmaz Furkan,6:25,1,76ers,Wizards,8 - 16,0,N/A,N/A,N/A
+50,Trevor Ariza,FT,None,6:25,1,Wizards,76ers,8 - 17,1,N/A,1,N/A
+51,T.J. McConnell,FOUL_ON_FLOOR,None,6:17,1,76ers,Wizards,8 - 17,0,N/A,N/A,N/A
+52,T.J. McConnell,TURNOVER,None,6:17,1,76ers,Wizards,8 - 17,0,N/A,N/A,N/A
+53,Ian Mahinmi,TURNOVER,None,6:10,1,Wizards,76ers,8 - 17,1,N/A,N/A,N/A
+54,Jimmy Butler,FG_MISS,None,5:54,1,76ers,Wizards,8 - 17,0,20,2,Jumper
+55,Team,DEFENSIVE_REBOUND,None,5:53,1,Wizards,76ers,8 - 17,1,N/A,N/A,N/A
+56,Trevor Ariza,TURNOVER,None,5:39,1,Wizards,76ers,8 - 17,1,N/A,N/A,N/A
+57,Ben Simmons,FG_MISS,None,5:26,1,76ers,Wizards,8 - 17,0, ,2,Jumper
+58,Team,OFFENSIVE_REBOUND,None,5:25,1,76ers,Wizards,8 - 17,0,N/A,N/A,N/A
+59,Otto Porter,SUBSTITUTION,Green Jeff,5:25,1,Wizards,76ers,8 - 17,1,N/A,N/A,N/A
+60,Otto Porter,FOUL_ON_FLOOR,None,5:19,1,Wizards,76ers,8 - 17,1,N/A,N/A,N/A
+61,Landry Shamet,FG_MISS,None,5:03,1,76ers,Wizards,8 - 17,0,20,2,Jumper
+62,Otto Porter,DEFENSIVE_REBOUND,None,5:01,1,Wizards,76ers,8 - 17,1,N/A,N/A,N/A
+63,Otto Porter,TURNOVER,None,5:00,1,Wizards,76ers,8 - 17,1,N/A,N/A,N/A
+64,Mike Muscala,FG_MISS,None,4:49,1,76ers,Wizards,8 - 17,0,27,3,Jumper
+65,Trevor Ariza,DEFENSIVE_REBOUND,None,4:47,1,Wizards,76ers,8 - 17,1,N/A,N/A,N/A
+66,Trevor Ariza,FG_MISS,None,4:43,1,Wizards,76ers,8 - 17,1,26,3,Jumper
+67,Landry Shamet,DEFENSIVE_REBOUND,None,4:40,1,76ers,Wizards,8 - 17,0,N/A,N/A,N/A
+68,Jimmy Butler,FG_ASSISTED,Ben Simmons,4:26,1,76ers,Wizards,10 - 17,0,0,2,Layup
+69,Team,Unknown,None,4:24,1,Wizards,76ers,10 - 17,1,N/A,N/A,N/A
+70,Chasson Randle,SUBSTITUTION,Satoransky Tomas,4:24,1,Wizards,76ers,10 - 17,1,N/A,N/A,N/A
+71,Bradley Beal,FG_MISS,None,4:05,1,Wizards,76ers,10 - 17,1,26,3,Jumper
+72,Team,DEFENSIVE_REBOUND,None,4:05,1,76ers,Wizards,10 - 17,0,N/A,N/A,N/A
+73,Ben Simmons,FG_MISS,None,3:47,1,76ers,Wizards,10 - 17,0,0,2,Layup
+74,Ben Simmons,OFFENSIVE_REBOUND,None,3:45,1,76ers,Wizards,10 - 17,0,N/A,N/A,N/A
+75,Mike Muscala,FG_ASSISTED,Ben Simmons,3:42,1,76ers,Wizards,13 - 17,0,26,3,Jumper
+76,Bradley Beal,FG_UNASSISTED,None,3:15,1,Wizards,76ers,13 - 19,1,9,2,Jumper
+77,Landry Shamet,TURNOVER,Bradley Beal,3:03,1,76ers,Wizards,13 - 19,0,N/A,N/A,N/A
+78,Trevor Ariza,FG_MISS,None,2:55,1,Wizards,76ers,13 - 19,1,0,2,Dunk
+79,Jimmy Butler,DEFENSIVE_REBOUND,None,2:51,1,76ers,Wizards,13 - 19,0,N/A,N/A,N/A
+80,Chasson Randle,FOUL_ON_FLOOR,None,2:47,1,Wizards,76ers,13 - 19,1,N/A,N/A,N/A
+81,Ben Simmons,FT_MISS,None,2:47,1,76ers,Wizards,13 - 19,0,N/A,1,N/A
+82,Team,OFFENSIVE_REBOUND,None,2:47,1,76ers,Wizards,13 - 19,0,N/A,N/A,N/A
+83,Sam Dekker,SUBSTITUTION,Ariza Trevor,2:47,1,Wizards,76ers,13 - 19,1,N/A,N/A,N/A
+84,Joel Embiid,SUBSTITUTION,Shamet Landry,2:47,1,76ers,Wizards,13 - 19,0,N/A,N/A,N/A
+85,Furkan Korkmaz,SUBSTITUTION,Butler Jimmy,2:47,1,76ers,Wizards,13 - 19,0,N/A,N/A,N/A
+86,Shake Milton,SUBSTITUTION,Muscala Mike,2:47,1,76ers,Wizards,13 - 19,0,N/A,N/A,N/A
+87,Ben Simmons,FT,None,2:47,1,76ers,Wizards,14 - 19,0,N/A,1,N/A
+88,Otto Porter,FG_MISS,None,2:29,1,Wizards,76ers,14 - 19,1,15,2,Jumper
+89,Joel Embiid,DEFENSIVE_REBOUND,None,2:24,1,76ers,Wizards,14 - 19,0,N/A,N/A,N/A
+90,Ben Simmons,FG_MISS,None,2:04,1,76ers,Wizards,14 - 19,0,17,2,Jumper
+91,Ben Simmons,OFFENSIVE_REBOUND,None,2:02,1,76ers,Wizards,14 - 19,0,N/A,N/A,N/A
+92,Joel Embiid,FG_ASSISTED,Ben Simmons,1:59,1,76ers,Wizards,16 - 19,0,0,2,Dunk
+93,Otto Porter,FG_ASSISTED,Ian Mahinmi,1:37,1,Wizards,76ers,16 - 21,1,2,2,Jumper
+94,Shake Milton,FG_MISS,None,1:23,1,76ers,Wizards,16 - 21,0,26,3,Jumper
+95,Otto Porter,DEFENSIVE_REBOUND,None,1:19,1,Wizards,76ers,16 - 21,1,N/A,N/A,N/A
+96,T.J. McConnell,FOUL_ON_FLOOR,None,1:12,1,76ers,Wizards,16 - 21,0,N/A,N/A,N/A
+97,Jonah Bolden,SUBSTITUTION,Simmons Ben,1:12,1,76ers,Wizards,16 - 21,0,N/A,N/A,N/A
+98,Otto Porter,FG_UNASSISTED,None,1:00,1,Wizards,76ers,16 - 23,1,15,2,Jumper
+99,Shake Milton,FG_MISS,None,40.6,1,76ers,Wizards,16 - 23,0,17,2,Jumper
+100,T.J. McConnell,OFFENSIVE_REBOUND,None,37.0,1,76ers,Wizards,16 - 23,0,N/A,N/A,N/A
+101,Chasson Randle,FOUL_ON_FLOOR,None,36.3,1,Wizards,76ers,16 - 23,1,N/A,N/A,N/A
+102,Furkan Korkmaz,FT_MISS,None,36.3,1,76ers,Wizards,16 - 23,0,N/A,1,N/A
+103,Team,OFFENSIVE_REBOUND,None,36.3,1,76ers,Wizards,16 - 23,0,N/A,N/A,N/A
+104,Furkan Korkmaz,FT,None,36.3,1,76ers,Wizards,17 - 23,0,N/A,1,N/A
+105,Furkan Korkmaz,FT,None,36.3,1,76ers,Wizards,18 - 23,0,N/A,1,N/A
+106,Bradley Beal,FG_MISS,None,31.4,1,Wizards,76ers,18 - 23,1,25,3,Jumper
+107,Bradley Beal,OFFENSIVE_REBOUND,None,28.5,1,Wizards,76ers,18 - 23,1,N/A,N/A,N/A
+108,Bradley Beal,TURNOVER,Jonah Bolden,19.4,1,Wizards,76ers,18 - 23,1,N/A,N/A,N/A
+109,Furkan Korkmaz,FG_UNASSISTED,None,14.6,1,76ers,Wizards,20 - 23,0, ,2,Jumper
+110,Bradley Beal's,FG_MISS,Joel Embiid,3.3,1,76ers,Wizards,20 - 23,1,0,2,Dunk
+111,Ian Mahinmi,OFFENSIVE_REBOUND,None,1.8,1,Wizards,76ers,20 - 23,1,N/A,N/A,N/A
+112,Ian Mahinmi,FG_UNASSISTED,None,1.8,1,Wizards,76ers,20 - 25,1, ,2,Jumper
+113,End of,Unknown,None,0.0,1,Wizards,76ers,20 - 25,1,N/A,N/A,N/A
+0,Jeff Green,SUBSTITUTION,Beal Bradley,12:00,2,Wizards,76ers,20 - 25,1,N/A,N/A,N/A
+1,Landry Shamet,SUBSTITUTION,Milton Shake,12:00,2,76ers,Wizards,20 - 25,0,N/A,N/A,N/A
+2,Jimmy Butler,SUBSTITUTION,Korkmaz Furkan,12:00,2,76ers,Wizards,20 - 25,0,N/A,N/A,N/A
+3,Jeff Green,FG_MISS,None,11:51,2,Wizards,76ers,20 - 25,1,23,3,Jumper
+4,Ian Mahinmi,OFFENSIVE_REBOUND,None,11:47,2,Wizards,76ers,20 - 25,1,N/A,N/A,N/A
+5,T.J. McConnell,FOUL_ON_FLOOR,None,11:41,2,76ers,Wizards,20 - 25,0,N/A,N/A,N/A
+6,Chasson Randle,FG_UNASSISTED,None,11:27,2,Wizards,76ers,20 - 28,1,26,2,Jumper
+7,T.J. McConnell,FG_MISS,None,11:08,2,76ers,Wizards,20 - 28,0,10,2,Jumper
+8,Sam Dekker,DEFENSIVE_REBOUND,None,11:03,2,Wizards,76ers,20 - 28,1,N/A,N/A,N/A
+9,Sam Dekker,FG_MISS,None,10:59,2,Wizards,76ers,20 - 28,1, ,2,Jumper
+10,Jimmy Butler,DEFENSIVE_REBOUND,None,10:57,2,76ers,Wizards,20 - 28,0,N/A,N/A,N/A
+11,Jimmy Butler,FG_MISS,None,10:54,2,76ers,Wizards,20 - 28,0,27,3,Jumper
+12,Jeff Green,DEFENSIVE_REBOUND,None,10:50,2,Wizards,76ers,20 - 28,1,N/A,N/A,N/A
+13,Jeff Green,FG_UNASSISTED,None,10:43,2,Wizards,76ers,20 - 30,1,0,2,Layup
+14,Joel Embiid,FG_MISS,None,10:27,2,76ers,Wizards,20 - 30,0,27,3,Jumper
+15,Ian Mahinmi,DEFENSIVE_REBOUND,None,10:24,2,Wizards,76ers,20 - 30,1,N/A,N/A,N/A
+16,Otto Porter,FG_UNASSISTED,None,10:18,2,Wizards,76ers,20 - 33,1,26,3,Jumper
+17,Team,Unknown,None,10:17,2,76ers,Wizards,20 - 33,0,N/A,N/A,N/A
+18,Ben Simmons,SUBSTITUTION,McConnell T.J.,10:17,2,76ers,Wizards,20 - 33,0,N/A,N/A,N/A
+19,Jonah Bolden,TURNOVER,Ian Mahinmi,10:04,2,76ers,Wizards,20 - 33,0,N/A,N/A,N/A
+20,Chasson Randle,FG_UNASSISTED,None,9:57,2,Wizards,76ers,20 - 35,1,0,2,Layup
+21,Joel Embiid,TURNOVER,Ian Mahinmi,9:36,2,76ers,Wizards,20 - 35,0,N/A,N/A,N/A
+22,Landry Shamet,FOUL_ON_FLOOR,None,9:27,2,76ers,Wizards,20 - 35,0,N/A,N/A,N/A
+23,Brett Brown,FOUL_TECHNICAL,None,9:27,2,76ers,Wizards,20 - 35,0,N/A,N/A,N/A
+24,Otto Porter,FT,None,9:27,2,Wizards,76ers,20 - 36,1,N/A,1,N/A
+25,Sam Dekker,FT_MISS,None,9:27,2,Wizards,76ers,20 - 36,1,N/A,1,N/A
+26,Team,OFFENSIVE_REBOUND,None,9:27,2,Wizards,76ers,20 - 36,1,N/A,N/A,N/A
+27,Sam Dekker,FT,None,9:27,2,Wizards,76ers,20 - 37,1,N/A,1,N/A
+28,Jeff Green,FOUL_ON_FLOOR,None,9:18,2,Wizards,76ers,20 - 37,1,N/A,N/A,N/A
+29,Jimmy Butler,FT,None,9:18,2,76ers,Wizards,21 - 37,0,N/A,1,N/A
+30,Jimmy Butler,FT,None,9:18,2,76ers,Wizards,22 - 37,0,N/A,1,N/A
+31,Otto Porter,FG_ASSISTED,Jeff Green,9:05,2,Wizards,76ers,22 - 39,1,20,2,Jumper
+32,Ben Simmons,TURNOVER,Sam Dekker,8:58,2,76ers,Wizards,22 - 39,0,N/A,N/A,N/A
+33,Sam Dekker,FG_UNASSISTED,None,8:55,2,Wizards,76ers,22 - 41,1,0,2,Dunk
+34,Chasson Randle,FOUL_ON_FLOOR,None,8:47,2,Wizards,76ers,22 - 41,1,N/A,N/A,N/A
+35,Joel Embiid,FOUL_ON_FLOOR,None,8:43,2,76ers,Wizards,22 - 41,0,N/A,N/A,N/A
+36,Joel Embiid,TURNOVER,None,8:43,2,76ers,Wizards,22 - 41,0,N/A,N/A,N/A
+37,Tomas Satoransky,SUBSTITUTION,Randle Chasson,8:43,2,Wizards,76ers,22 - 41,1,N/A,N/A,N/A
+38,Otto Porter,FG_MISS,None,8:32,2,Wizards,76ers,22 - 41,1,12,2,Jumper
+39,Joel Embiid,DEFENSIVE_REBOUND,None,8:30,2,76ers,Wizards,22 - 41,0,N/A,N/A,N/A
+40,Joel Embiid,FG_MISS,None,8:23,2,76ers,Wizards,22 - 41,0,27,3,Jumper
+41,Joel Embiid,OFFENSIVE_REBOUND,None,8:21,2,76ers,Wizards,22 - 41,0,N/A,N/A,N/A
+42,Otto Porter,FOUL_ON_FLOOR,None,8:19,2,Wizards,76ers,22 - 41,1,N/A,N/A,N/A
+43,Joel Embiid,FT,None,8:19,2,76ers,Wizards,23 - 41,0,N/A,1,N/A
+44,Wilson Chandler,SUBSTITUTION,Bolden Jonah,8:19,2,76ers,Wizards,23 - 41,0,N/A,N/A,N/A
+45,Joel Embiid,FT_MISS,None,8:19,2,76ers,Wizards,23 - 41,0,N/A,1,N/A
+46,Ian Mahinmi,DEFENSIVE_REBOUND,None,8:16,2,Wizards,76ers,23 - 41,1,N/A,N/A,N/A
+47,Sam Dekker,FG_ASSISTED,Jeff Green,8:04,2,Wizards,76ers,23 - 43,1,23,2,Jumper
+48,Jimmy Butler,FG_MISS,None,7:51,2,76ers,Wizards,23 - 43,0,27,3,Jumper
+49,Tomas Satoransky,DEFENSIVE_REBOUND,None,7:46,2,Wizards,76ers,23 - 43,1,N/A,N/A,N/A
+50,Tomas Satoransky,TURNOVER,Jimmy Butler,7:44,2,Wizards,76ers,23 - 43,1,N/A,N/A,N/A
+51,Ben Simmons,FG_MISS,None,7:39,2,76ers,Wizards,23 - 43,0,0,2,Dunk
+52,Team,OFFENSIVE_REBOUND,None,7:39,2,76ers,Wizards,23 - 43,0,N/A,N/A,N/A
+53,Bradley Beal,SUBSTITUTION,Porter Otto,7:39,2,Wizards,76ers,23 - 43,1,N/A,N/A,N/A
+54,Trevor Ariza,SUBSTITUTION,Mahinmi Ian,7:39,2,Wizards,76ers,23 - 43,1,N/A,N/A,N/A
+55,Mike Muscala,SUBSTITUTION,Embiid Joel,7:39,2,76ers,Wizards,23 - 43,0,N/A,N/A,N/A
+56,Landry Shamet,FG_ASSISTED,Ben Simmons,7:31,2,76ers,Wizards,26 - 43,0,28,3,Jumper
+57,Trevor Ariza,FG_MISS,None,7:17,2,Wizards,76ers,26 - 43,1,0,2,Layup
+58,Trevor Ariza,OFFENSIVE_REBOUND,None,7:16,2,Wizards,76ers,26 - 43,1,N/A,N/A,N/A
+59,Jeff Green,FG_MISS,None,7:14,2,Wizards,76ers,26 - 43,1,25,3,Jumper
+60,Ben Simmons,DEFENSIVE_REBOUND,None,7:14,2,76ers,Wizards,26 - 43,0,N/A,N/A,N/A
+61,Ben Simmons,TURNOVER,Tomas Satoransky,7:08,2,76ers,Wizards,26 - 43,0,N/A,N/A,N/A
+62,Jeff Green,TURNOVER,Mike Muscala,6:57,2,Wizards,76ers,26 - 43,1,N/A,N/A,N/A
+63,Landry Shamet,FG_ASSISTED,Ben Simmons,6:53,2,76ers,Wizards,28 - 43,0,0,2,Dunk
+64,Team,Unknown,None,6:53,2,Wizards,76ers,28 - 43,1,N/A,N/A,N/A
+65,Landry Shamet,FOUL_ON_FLOOR,None,6:39,2,76ers,Wizards,28 - 43,0,N/A,N/A,N/A
+66,Bradley Beal,FT,None,6:39,2,Wizards,76ers,28 - 44,1,N/A,1,N/A
+67,Bradley Beal,FT,None,6:39,2,Wizards,76ers,28 - 45,1,N/A,1,N/A
+68,Jimmy Butler,FG_UNASSISTED,None,6:22,2,76ers,Wizards,30 - 45,0,0,2,Layup
+69,Sam Dekker,FG_ASSISTED,Bradley Beal,6:07,2,Wizards,76ers,30 - 48,1,25,3,Jumper
+70,Landry Shamet,FG_MISS,None,5:55,2,76ers,Wizards,30 - 48,0,26,3,Jumper
+71,Sam Dekker,DEFENSIVE_REBOUND,None,5:51,2,Wizards,76ers,30 - 48,1,N/A,N/A,N/A
+72,Jeff Green,FG_MISS,None,5:46,2,Wizards,76ers,30 - 48,1,26,3,Jumper
+73,Wilson Chandler,DEFENSIVE_REBOUND,None,5:43,2,76ers,Wizards,30 - 48,0,N/A,N/A,N/A
+74,Ben Simmons,FG_MISS,None,5:36,2,76ers,Wizards,30 - 48,0, ,2,Jumper
+75,Jimmy Butler,OFFENSIVE_REBOUND,None,5:32,2,76ers,Wizards,30 - 48,0,N/A,N/A,N/A
+76,Jimmy Butler,FG_UNASSISTED,None,5:32,2,76ers,Wizards,32 - 48,0, ,2,Jumper
+77,Sam Dekker,FG_MISS,None,5:13,2,Wizards,76ers,32 - 48,1,9,2,Jumper
+78,Ben Simmons,DEFENSIVE_REBOUND,None,5:11,2,76ers,Wizards,32 - 48,0,N/A,N/A,N/A
+79,Wilson Chandler,FG_MISS,None,5:07,2,76ers,Wizards,32 - 48,0,24,3,Jumper
+80,Jimmy Butler,OFFENSIVE_REBOUND,None,5:02,2,76ers,Wizards,32 - 48,0,N/A,N/A,N/A
+81,Ben Simmons,FG_ASSISTED,Wilson Chandler,4:57,2,76ers,Wizards,34 - 48,0,0,2,Dunk
+82,Team,Unknown,None,4:56,2,Wizards,76ers,34 - 48,1,N/A,N/A,N/A
+83,Otto Porter,SUBSTITUTION,Dekker Sam,4:56,2,Wizards,76ers,34 - 48,1,N/A,N/A,N/A
+84,Trevor Ariza,FG_MISS,None,4:32,2,Wizards,76ers,34 - 48,1, ,2,Jumper
+85,Otto Porter,OFFENSIVE_REBOUND,None,4:28,2,Wizards,76ers,34 - 48,1,N/A,N/A,N/A
+86,Otto Porter,FG_UNASSISTED,None,4:28,2,Wizards,76ers,34 - 50,1, ,2,Jumper
+87,Ben Simmons,TURNOVER,Otto Porter,4:19,2,76ers,Wizards,34 - 50,0,N/A,N/A,N/A
+88,Otto Porter,FG_MISS,None,4:15,2,Wizards,76ers,34 - 50,1,26,3,Jumper
+89,Ben Simmons,DEFENSIVE_REBOUND,None,4:11,2,76ers,Wizards,34 - 50,0,N/A,N/A,N/A
+90,Ben Simmons,FG_UNASSISTED,None,4:06,2,76ers,Wizards,36 - 50,0, ,2,Jumper
+91,Bradley Beal,FG_MISS,None,3:49,2,Wizards,76ers,36 - 50,1,26,3,Jumper
+92,Ben Simmons,DEFENSIVE_REBOUND,None,3:45,2,76ers,Wizards,36 - 50,0,N/A,N/A,N/A
+93,Ben Simmons,TURNOVER,None,3:34,2,76ers,Wizards,36 - 50,0,N/A,N/A,N/A
+94,Furkan Korkmaz,SUBSTITUTION,Shamet Landry,3:34,2,76ers,Wizards,36 - 50,0,N/A,N/A,N/A
+95,Joel Embiid,SUBSTITUTION,Butler Jimmy,3:34,2,76ers,Wizards,36 - 50,0,N/A,N/A,N/A
+96,Shake Milton,SUBSTITUTION,Muscala Mike,3:34,2,76ers,Wizards,36 - 50,0,N/A,N/A,N/A
+97,Tomas Satoransky,FG_MISS,None,3:26,2,Wizards,76ers,36 - 50,1,0,2,Layup
+98,Shake Milton,DEFENSIVE_REBOUND,None,3:23,2,76ers,Wizards,36 - 50,0,N/A,N/A,N/A
+99,Ben Simmons,FG_ASSISTED,Shake Milton,3:20,2,76ers,Wizards,38 - 50,0, ,2,Jumper
+100,Jeff Green,FG_ASSISTED,Bradley Beal,3:02,2,Wizards,76ers,38 - 53,1,26,3,Jumper
+101,Joel Embiid,FG_MISS,None,2:47,2,76ers,Wizards,38 - 53,0,0,2,Layup
+102,Furkan Korkmaz,OFFENSIVE_REBOUND,None,2:46,2,76ers,Wizards,38 - 53,0,N/A,N/A,N/A
+103,Furkan Korkmaz,FG_MISS,None,2:44,2,76ers,Wizards,38 - 53,0,26,3,Jumper
+104,Jeff Green,DEFENSIVE_REBOUND,None,2:41,2,Wizards,76ers,38 - 53,1,N/A,N/A,N/A
+105,Bradley Beal,TURNOVER,Ben Simmons,2:36,2,Wizards,76ers,38 - 53,1,N/A,N/A,N/A
+106,Ben Simmons,FG_MISS,Jeff Green,2:32,2,Wizards,76ers,38 - 53,0,0,2,Layup
+107,Furkan Korkmaz,OFFENSIVE_REBOUND,None,2:31,2,76ers,Wizards,38 - 53,0,N/A,N/A,N/A
+108,Shake Milton,FG_MISS,None,2:23,2,76ers,Wizards,38 - 53,0,28,3,Jumper
+109,Furkan Korkmaz,OFFENSIVE_REBOUND,None,2:20,2,76ers,Wizards,38 - 53,0,N/A,N/A,N/A
+110,Furkan Korkmaz,TURNOVER,Trevor Ariza,2:19,2,76ers,Wizards,38 - 53,0,N/A,N/A,N/A
+111,Otto Porter,FG_ASSISTED,Bradley Beal,2:17,2,Wizards,76ers,38 - 55,1, ,2,Jumper
+112,Wilson Chandler,FOUL_ON_FLOOR,None,2:17,2,76ers,Wizards,38 - 55,0,N/A,N/A,N/A
+113,Otto Porter,FT,None,2:17,2,Wizards,76ers,38 - 56,1,N/A,1,N/A
+114,Jeff Green,FOUL_ON_FLOOR,None,2:07,2,Wizards,76ers,38 - 56,1,N/A,N/A,N/A
+115,Joel Embiid,FT,None,2:07,2,76ers,Wizards,39 - 56,0,N/A,1,N/A
+116,Joel Embiid,FT,None,2:07,2,76ers,Wizards,40 - 56,0,N/A,1,N/A
+117,Bradley Beal,FG_ASSISTED,Tomas Satoransky,1:56,2,Wizards,76ers,40 - 59,1,27,3,Jumper
+118,Jeff Green,FOUL_ON_FLOOR,None,1:36,2,Wizards,76ers,40 - 59,1,N/A,N/A,N/A
+119,Joel Embiid,FT,None,1:36,2,76ers,Wizards,41 - 59,0,N/A,1,N/A
+120,Ian Mahinmi,SUBSTITUTION,Green Jeff,1:36,2,Wizards,76ers,41 - 59,1,N/A,N/A,N/A
+121,Joel Embiid,FT,None,1:36,2,76ers,Wizards,42 - 59,0,N/A,1,N/A
+122,Bradley Beal,FG_ASSISTED,Tomas Satoransky,1:26,2,Wizards,76ers,42 - 61,1,0,2,Dunk
+123,Bradley Beal,FOUL_ON_FLOOR,None,1:18,2,Wizards,76ers,42 - 61,1,N/A,N/A,N/A
+124,Ben Simmons,FT_MISS,None,1:18,2,76ers,Wizards,42 - 61,0,N/A,1,N/A
+125,Team,OFFENSIVE_REBOUND,None,1:18,2,76ers,Wizards,42 - 61,0,N/A,N/A,N/A
+126,Ben Simmons,FT_MISS,None,1:18,2,76ers,Wizards,42 - 61,0,N/A,1,N/A
+127,Trevor Ariza,DEFENSIVE_REBOUND,None,1:15,2,Wizards,76ers,42 - 61,1,N/A,N/A,N/A
+128,Trevor Ariza,FG_MISS,None,1:06,2,Wizards,76ers,42 - 61,1,24,3,Jumper
+129,Shake Milton,DEFENSIVE_REBOUND,None,1:02,2,76ers,Wizards,42 - 61,0,N/A,N/A,N/A
+130,Trevor Ariza,FOUL_ON_FLOOR,None,59.3,2,Wizards,76ers,42 - 61,1,N/A,N/A,N/A
+131,Joel Embiid,FT,None,59.3,2,76ers,Wizards,43 - 61,0,N/A,1,N/A
+132,Sam Dekker,SUBSTITUTION,Porter Otto,59.3,2,Wizards,76ers,43 - 61,1,N/A,N/A,N/A
+133,Joel Embiid,FT,None,59.3,2,76ers,Wizards,44 - 61,0,N/A,1,N/A
+134,Wilson Chandler,FOUL_ON_FLOOR,None,38.1,2,76ers,Wizards,44 - 61,0,N/A,N/A,N/A
+135,Tomas Satoransky,FT,None,38.1,2,Wizards,76ers,44 - 62,1,N/A,1,N/A
+136,Tomas Satoransky,FT,None,38.1,2,Wizards,76ers,44 - 63,1,N/A,1,N/A
+137,Ben Simmons,FG_UNASSISTED,None,29.1,2,76ers,Wizards,46 - 63,0,4,2,Jumper
+138,Wilson Chandler,FOUL_ON_FLOOR,None,10.1,2,76ers,Wizards,46 - 63,0,N/A,N/A,N/A
+139,Ian Mahinmi,FT_MISS,None,10.1,2,Wizards,76ers,46 - 63,1,N/A,1,N/A
+140,Team,OFFENSIVE_REBOUND,None,10.1,2,Wizards,76ers,46 - 63,1,N/A,N/A,N/A
+141,Ian Mahinmi,FT_MISS,None,10.1,2,Wizards,76ers,46 - 63,1,N/A,1,N/A
+142,Furkan Korkmaz,DEFENSIVE_REBOUND,None,7.7,2,76ers,Wizards,46 - 63,0,N/A,N/A,N/A
+143,Wilson Chandler,FG_MISS,None,1.1,2,76ers,Wizards,46 - 63,0,21,2,Jumper
+144,Joel Embiid,OFFENSIVE_REBOUND,None,1.1,2,76ers,Wizards,46 - 63,0,N/A,N/A,N/A
+145,Joel Embiid,FG_UNASSISTED,None,1.0,2,76ers,Wizards,48 - 63,0, ,2,Jumper
+146,End of,Unknown,None,0.0,2,Wizards,76ers,48 - 63,1,N/A,N/A,N/A
+0,Jeff Green,SUBSTITUTION,Mahinmi Ian,12:00,3,Wizards,76ers,48 - 63,1,N/A,N/A,N/A
+1,Thomas Bryant,SUBSTITUTION,Dekker Sam,12:00,3,Wizards,76ers,48 - 63,1,N/A,N/A,N/A
+2,Jimmy Butler,SUBSTITUTION,Milton Shake,12:00,3,76ers,Wizards,48 - 63,0,N/A,N/A,N/A
+3,Jeff Green,TURNOVER,Ben Simmons,11:40,3,Wizards,76ers,48 - 63,1,N/A,N/A,N/A
+4,Ben Simmons,FG_UNASSISTED,None,11:36,3,76ers,Wizards,50 - 63,0,0,2,Dunk
+5,Jeff Green,FG_ASSISTED,Bradley Beal,11:10,3,Wizards,76ers,50 - 66,1,29,3,Jumper
+6,Jimmy Butler,FG_UNASSISTED,None,10:46,3,76ers,Wizards,52 - 66,0,0,2,Layup
+7,Thomas Bryant,FG_ASSISTED,Bradley Beal,10:40,3,Wizards,76ers,52 - 68,1,0,2,Dunk
+8,Thomas Bryant,FOUL_TECHNICAL,None,10:40,3,Wizards,76ers,52 - 68,1,N/A,N/A,N/A
+9,Jimmy Butler,FT,None,10:40,3,76ers,Wizards,53 - 68,0,N/A,1,N/A
+10,Jimmy Butler,FG_MISS,Bradley Beal,10:24,3,Wizards,76ers,53 - 68,0,2,2,Jumper
+11,Bradley Beal,DEFENSIVE_REBOUND,None,10:24,3,Wizards,76ers,53 - 68,1,N/A,N/A,N/A
+12,Thomas Bryant,FG_MISS,None,10:19,3,Wizards,76ers,53 - 68,1,0,2,Dunk
+13,Ben Simmons,DEFENSIVE_REBOUND,None,10:17,3,76ers,Wizards,53 - 68,0,N/A,N/A,N/A
+14,Joel Embiid,FG_ASSISTED,Wilson Chandler,10:08,3,76ers,Wizards,55 - 68,0,10,2,Jumper
+15,Jeff Green,FOUL_ON_FLOOR,None,10:08,3,Wizards,76ers,55 - 68,1,N/A,N/A,N/A
+16,Jeff Green,FOUL_TECHNICAL,None,10:08,3,Wizards,76ers,55 - 68,1,N/A,N/A,N/A
+17,Jimmy Butler,FT_MISS,None,10:08,3,76ers,Wizards,55 - 68,0,N/A,1,N/A
+18,Team,OFFENSIVE_REBOUND,None,10:08,3,76ers,Wizards,55 - 68,0,N/A,N/A,N/A
+19,Otto Porter,SUBSTITUTION,Green Jeff,10:08,3,Wizards,76ers,55 - 68,1,N/A,N/A,N/A
+20,Joel Embiid,FT_MISS,None,10:08,3,76ers,Wizards,55 - 68,0,N/A,1,N/A
+21,Tomas Satoransky,DEFENSIVE_REBOUND,None,10:06,3,Wizards,76ers,55 - 68,1,N/A,N/A,N/A
+22,Bradley Beal,FG_MISS,None,10:03,3,Wizards,76ers,55 - 68,1,26,3,Jumper
+23,Thomas Bryant,OFFENSIVE_REBOUND,None,10:00,3,Wizards,76ers,55 - 68,1,N/A,N/A,N/A
+24,Thomas Bryant,FG_UNASSISTED,None,10:00,3,Wizards,76ers,55 - 70,1,0,2,Dunk
+25,Team,Unknown,None,10:00,3,76ers,Wizards,55 - 70,0,N/A,N/A,N/A
+26,Ben Simmons,FG_UNASSISTED,None,9:48,3,76ers,Wizards,57 - 70,0,0,2,Layup
+27,Trevor Ariza,FG_MISS,None,9:27,3,Wizards,76ers,57 - 70,1, ,2,Jumper
+28,Thomas Bryant,OFFENSIVE_REBOUND,None,9:24,3,Wizards,76ers,57 - 70,1,N/A,N/A,N/A
+29,Thomas Bryant,FG_UNASSISTED,None,9:24,3,Wizards,76ers,57 - 72,1, ,2,Jumper
+30,Joel Embiid,TURNOVER,Tomas Satoransky,9:16,3,76ers,Wizards,57 - 72,0,N/A,N/A,N/A
+31,Tomas Satoransky,FG_UNASSISTED,None,9:12,3,Wizards,76ers,57 - 74,1,0,2,Dunk
+32,Trevor Ariza,FOUL_ON_FLOOR,None,8:55,3,Wizards,76ers,57 - 74,1,N/A,N/A,N/A
+33,Wilson Chandler,FG_MISS,None,8:41,3,76ers,Wizards,57 - 74,0,27,2,Jumper
+34,Team,DEFENSIVE_REBOUND,None,8:39,3,Wizards,76ers,57 - 74,1,N/A,N/A,N/A
+35,Ben Simmons,FOUL_ON_FLOOR,None,8:39,3,76ers,Wizards,57 - 74,0,N/A,N/A,N/A
+36,Tomas Satoransky,FG_MISS,None,8:24,3,Wizards,76ers,57 - 74,1,0,2,Layup
+37,Joel Embiid,DEFENSIVE_REBOUND,None,8:21,3,76ers,Wizards,57 - 74,0,N/A,N/A,N/A
+38,Joel Embiid,FG_ASSISTED,Ben Simmons,8:17,3,76ers,Wizards,60 - 74,0,26,3,Jumper
+39,Bradley Beal,FG_MISS,None,8:00,3,Wizards,76ers,60 - 74,1,24,3,Jumper
+40,Furkan Korkmaz,DEFENSIVE_REBOUND,None,7:57,3,76ers,Wizards,60 - 74,0,N/A,N/A,N/A
+41,Joel Embiid,TURNOVER,None,7:52,3,76ers,Wizards,60 - 74,0,N/A,N/A,N/A
+42,Thomas Bryant,FG_ASSISTED,Tomas Satoransky,7:37,3,Wizards,76ers,60 - 77,1,25,3,Jumper
+43,Bradley Beal,FOUL_ON_FLOOR,None,7:23,3,Wizards,76ers,60 - 77,1,N/A,N/A,N/A
+44,Jimmy Butler,FT,None,7:23,3,76ers,Wizards,61 - 77,0,N/A,1,N/A
+45,T.J. McConnell,SUBSTITUTION,Chandler Wilson,7:23,3,76ers,Wizards,61 - 77,0,N/A,N/A,N/A
+46,Jimmy Butler,FT,None,7:23,3,76ers,Wizards,62 - 77,0,N/A,1,N/A
+47,Trevor Ariza,FG_UNASSISTED,None,7:10,3,Wizards,76ers,62 - 79,1,21,2,Jumper
+48,Joel Embiid,FG_MISS,None,6:57,3,76ers,Wizards,62 - 79,0,0,2,Layup
+49,Thomas Bryant,DEFENSIVE_REBOUND,None,6:57,3,Wizards,76ers,62 - 79,1,N/A,N/A,N/A
+50,Trevor Ariza,FG_ASSISTED,Thomas Bryant,6:49,3,Wizards,76ers,62 - 81,1,0,2,Layup
+51,Furkan Korkmaz,FOUL_ON_FLOOR,None,6:49,3,76ers,Wizards,62 - 81,0,N/A,N/A,N/A
+52,Jonah Bolden,SUBSTITUTION,Embiid Joel,6:49,3,76ers,Wizards,62 - 81,0,N/A,N/A,N/A
+53,Landry Shamet,SUBSTITUTION,for game,6:49,3,76ers,Wizards,62 - 81,0,N/A,N/A,N/A
+54,Trevor Ariza,FT,None,6:49,3,Wizards,76ers,62 - 82,1,N/A,1,N/A
+55,enters the,SUBSTITUTION,Simmons Ben,6:49,3,76ers,Wizards,62 - 82,0,N/A,N/A,N/A
+56,Mike Muscala,SUBSTITUTION,Korkmaz Furkan,6:49,3,76ers,Wizards,62 - 82,0,N/A,N/A,N/A
+57,Jimmy Butler,FG_MISS,None,6:38,3,76ers,Wizards,62 - 82,0,8,2,Jumper
+58,Jimmy Butler,OFFENSIVE_REBOUND,None,6:33,3,76ers,Wizards,62 - 82,0,N/A,N/A,N/A
+59,Jimmy Butler,FG_MISS,None,6:32,3,76ers,Wizards,62 - 82,0,0,2,Layup
+60,Tomas Satoransky,DEFENSIVE_REBOUND,None,6:28,3,Wizards,76ers,62 - 82,1,N/A,N/A,N/A
+61,Trevor Ariza,FG_ASSISTED,Tomas Satoransky,6:18,3,Wizards,76ers,62 - 84,1,18,2,Jumper
+62,Jimmy Butler,FG_MISS,None,6:00,3,76ers,Wizards,62 - 84,0,7,2,Jumper
+63,Thomas Bryant,DEFENSIVE_REBOUND,None,5:58,3,Wizards,76ers,62 - 84,1,N/A,N/A,N/A
+64,Jonah Bolden,FOUL_ON_FLOOR,None,5:51,3,76ers,Wizards,62 - 84,0,N/A,N/A,N/A
+65,Trevor Ariza,FG_MISS,None,5:43,3,Wizards,76ers,62 - 84,1,19,2,Jumper
+66,Mike Muscala,DEFENSIVE_REBOUND,None,5:40,3,76ers,Wizards,62 - 84,0,N/A,N/A,N/A
+67,T.J. McConnell,FG_MISS,None,5:29,3,76ers,Wizards,62 - 84,0,14,2,Jumper
+68,Team,DEFENSIVE_REBOUND,None,5:28,3,Wizards,76ers,62 - 84,1,N/A,N/A,N/A
+69,Trevor Ariza,TURNOVER,None,5:10,3,Wizards,76ers,62 - 84,1,N/A,N/A,N/A
+70,Jonah Bolden,FG_MISS,None,4:56,3,76ers,Wizards,62 - 84,0,24,3,Jumper
+71,Otto Porter,DEFENSIVE_REBOUND,None,4:53,3,Wizards,76ers,62 - 84,1,N/A,N/A,N/A
+72,Jonah Bolden,FOUL_ON_FLOOR,None,4:51,3,76ers,Wizards,62 - 84,0,N/A,N/A,N/A
+73,Trevor Ariza,TURNOVER,Jimmy Butler,4:45,3,Wizards,76ers,62 - 84,1,N/A,N/A,N/A
+74,Otto Porter,FOUL_ON_FLOOR,None,4:44,3,Wizards,76ers,62 - 84,1,N/A,N/A,N/A
+75,Chasson Randle,SUBSTITUTION,Satoransky Tomas,4:44,3,Wizards,76ers,62 - 84,1,N/A,N/A,N/A
+76,Jimmy Butler,FG_MISS,None,4:27,3,76ers,Wizards,62 - 84,0,18,2,Jumper
+77,Otto Porter,DEFENSIVE_REBOUND,None,4:23,3,Wizards,76ers,62 - 84,1,N/A,N/A,N/A
+78,Landry Shamet,FOUL_ON_FLOOR,None,4:21,3,76ers,Wizards,62 - 84,0,N/A,N/A,N/A
+79,Otto Porter,FT,None,4:21,3,Wizards,76ers,62 - 85,1,N/A,1,N/A
+80,Otto Porter,FT,None,4:21,3,Wizards,76ers,62 - 86,1,N/A,1,N/A
+81,T.J. McConnell,FG_MISS,None,4:09,3,76ers,Wizards,62 - 86,0,15,2,Jumper
+82,Thomas Bryant,DEFENSIVE_REBOUND,None,4:06,3,Wizards,76ers,62 - 86,1,N/A,N/A,N/A
+83,Trevor Ariza,FG_MISS,None,3:56,3,Wizards,76ers,62 - 86,1,23,3,Jumper
+84,Thomas Bryant,OFFENSIVE_REBOUND,None,3:54,3,Wizards,76ers,62 - 86,1,N/A,N/A,N/A
+85,Trevor Ariza,FG_ASSISTED,Thomas Bryant,3:53,3,Wizards,76ers,62 - 88,1,0,2,Layup
+86,Team,Unknown,None,3:50,3,76ers,Wizards,62 - 88,0,N/A,N/A,N/A
+87,Wilson Chandler,SUBSTITUTION,Muscala Mike,3:50,3,76ers,Wizards,62 - 88,0,N/A,N/A,N/A
+88,Joel Embiid,SUBSTITUTION,Bolden Jonah,3:50,3,76ers,Wizards,62 - 88,0,N/A,N/A,N/A
+89,Landry Shamet,FG_MISS,None,3:29,3,76ers,Wizards,62 - 88,0,20,2,Jumper
+90,Team,OFFENSIVE_REBOUND,None,3:29,3,76ers,Wizards,62 - 88,0,N/A,N/A,N/A
+91,Joel Embiid,FG_ASSISTED,Wilson Chandler,3:22,3,76ers,Wizards,64 - 88,0,0,2,Layup
+92,Otto Porter,FOUL_ON_FLOOR,None,3:22,3,Wizards,76ers,64 - 88,1,N/A,N/A,N/A
+93,Joel Embiid,FT,None,3:22,3,76ers,Wizards,65 - 88,0,N/A,1,N/A
+94,Bradley Beal,FG_UNASSISTED,None,3:04,3,Wizards,76ers,65 - 90,1,17,2,Jumper
+95,Landry Shamet,FG_MISS,None,2:56,3,76ers,Wizards,65 - 90,0,25,3,Jumper
+96,Otto Porter,DEFENSIVE_REBOUND,None,2:53,3,Wizards,76ers,65 - 90,1,N/A,N/A,N/A
+97,Trevor Ariza,FG_MISS,None,2:48,3,Wizards,76ers,65 - 90,1,26,3,Jumper
+98,Joel Embiid,DEFENSIVE_REBOUND,None,2:46,3,76ers,Wizards,65 - 90,0,N/A,N/A,N/A
+99,T.J. McConnell,FG_MISS,None,2:37,3,76ers,Wizards,65 - 90,0,13,2,Jumper
+100,Joel Embiid,OFFENSIVE_REBOUND,None,2:33,3,76ers,Wizards,65 - 90,0,N/A,N/A,N/A
+101,Joel Embiid,FG_UNASSISTED,None,2:32,3,76ers,Wizards,67 - 90,0, ,2,Jumper
+102,Chasson Randle,TURNOVER,None,2:16,3,Wizards,76ers,67 - 90,1,N/A,N/A,N/A
+103,Ian Mahinmi,SUBSTITUTION,Bryant Thomas,2:16,3,Wizards,76ers,67 - 90,1,N/A,N/A,N/A
+104,Joel Embiid,FG_ASSISTED,Jimmy Butler,1:57,3,76ers,Wizards,69 - 90,0,17,2,Jumper
+105,Wilson Chandler,FOUL_ON_FLOOR,None,1:37,3,76ers,Wizards,69 - 90,0,N/A,N/A,N/A
+106,Ian Mahinmi,FT,None,1:37,3,Wizards,76ers,69 - 91,1,N/A,1,N/A
+107,Sam Dekker,SUBSTITUTION,Ariza Trevor,1:37,3,Wizards,76ers,69 - 91,1,N/A,N/A,N/A
+108,Ian Mahinmi,FT,None,1:37,3,Wizards,76ers,69 - 92,1,N/A,1,N/A
+109,Ian Mahinmi,FOUL_ON_FLOOR,None,1:28,3,Wizards,76ers,69 - 92,1,N/A,N/A,N/A
+110,Joel Embiid,FT,None,1:28,3,76ers,Wizards,70 - 92,0,N/A,1,N/A
+111,Joel Embiid,FT,None,1:28,3,76ers,Wizards,71 - 92,0,N/A,1,N/A
+112,Bradley Beal,FG_MISS,None,1:16,3,Wizards,76ers,71 - 92,1,19,2,Jumper
+113,Ian Mahinmi,OFFENSIVE_REBOUND,None,1:13,3,Wizards,76ers,71 - 92,1,N/A,N/A,N/A
+114,Bradley Beal,TURNOVER,Wilson Chandler,1:06,3,Wizards,76ers,71 - 92,1,N/A,N/A,N/A
+115,Jimmy Butler,FG_UNASSISTED,None,1:02,3,76ers,Wizards,73 - 92,0,0,2,Dunk
+116,Landry Shamet,FOUL_ON_FLOOR,None,44.7,3,76ers,Wizards,73 - 92,0,N/A,N/A,N/A
+117,Sam Dekker,FT_MISS,None,44.7,3,Wizards,76ers,73 - 92,1,N/A,1,N/A
+118,Team,OFFENSIVE_REBOUND,None,44.7,3,Wizards,76ers,73 - 92,1,N/A,N/A,N/A
+119,Sam Dekker,FT_MISS,None,44.7,3,Wizards,76ers,73 - 92,1,N/A,1,N/A
+120,Joel Embiid,DEFENSIVE_REBOUND,None,42.7,3,76ers,Wizards,73 - 92,0,N/A,N/A,N/A
+121,Jimmy Butler,FG_UNASSISTED,None,30.2,3,76ers,Wizards,75 - 92,0,0,2,Layup
+122,Otto Porter,FG_MISS,None,11.9,3,Wizards,76ers,75 - 92,1,26,3,Jumper
+123,Landry Shamet,DEFENSIVE_REBOUND,None,8.4,3,76ers,Wizards,75 - 92,0,N/A,N/A,N/A
+124,Joel Embiid,FG_MISS,None,1.3,3,76ers,Wizards,75 - 92,0,29,3,Jumper
+125,Team,OFFENSIVE_REBOUND,None,1.2,3,76ers,Wizards,75 - 92,0,N/A,N/A,N/A
+126,End of,Unknown,None,0.0,3,Wizards,76ers,75 - 92,1,N/A,N/A,N/A
+0,Jeff Green,SUBSTITUTION,Beal Bradley,12:00,4,Wizards,76ers,75 - 92,1,N/A,N/A,N/A
+1,Ben Simmons,SUBSTITUTION,Chandler Wilson,12:00,4,76ers,Wizards,75 - 92,0,N/A,N/A,N/A
+2,Furkan Korkmaz,SUBSTITUTION,Butler Jimmy,12:00,4,76ers,Wizards,75 - 92,0,N/A,N/A,N/A
+3,T.J. McConnell,FG_ASSISTED,Furkan Korkmaz,11:44,4,76ers,Wizards,77 - 92,0,14,2,Jumper
+4,Landry Shamet,FOUL_ON_FLOOR,None,11:28,4,76ers,Wizards,77 - 92,0,N/A,N/A,N/A
+5,Otto Porter,FT,None,11:28,4,Wizards,76ers,77 - 93,1,N/A,1,N/A
+6,Otto Porter,FT,None,11:28,4,Wizards,76ers,77 - 94,1,N/A,1,N/A
+7,Ben Simmons,FG_MISS,None,11:14,4,76ers,Wizards,77 - 94,0, ,2,Jumper
+8,Joel Embiid,OFFENSIVE_REBOUND,None,11:12,4,76ers,Wizards,77 - 94,0,N/A,N/A,N/A
+9,Joel Embiid,FG_UNASSISTED,None,11:11,4,76ers,Wizards,79 - 94,0,0,2,Layup
+10,Chasson Randle,FG_ASSISTED,Sam Dekker,10:52,4,Wizards,76ers,79 - 96,1,11,2,Jumper
+11,Joel Embiid,FG_ASSISTED,T.J. McConnell,10:40,4,76ers,Wizards,81 - 96,0,0,2,Layup
+12,Jeff Green,FG_MISS,None,10:12,4,Wizards,76ers,81 - 96,1,22,2,Jumper
+13,Joel Embiid,DEFENSIVE_REBOUND,None,10:10,4,76ers,Wizards,81 - 96,0,N/A,N/A,N/A
+14,Furkan Korkmaz,FG_MISS,None,10:04,4,76ers,Wizards,81 - 96,0,26,3,Jumper
+15,Ian Mahinmi,DEFENSIVE_REBOUND,None,10:01,4,Wizards,76ers,81 - 96,1,N/A,N/A,N/A
+16,Otto Porter,FG_MISS,Joel Embiid,9:55,4,76ers,Wizards,81 - 96,1,3,2,Jumper
+17,Team,OFFENSIVE_REBOUND,None,9:55,4,Wizards,76ers,81 - 96,1,N/A,N/A,N/A
+18,Jimmy Butler,SUBSTITUTION,Shamet Landry,9:55,4,76ers,Wizards,81 - 96,0,N/A,N/A,N/A
+19,Otto Porter,FG_ASSISTED,Jeff Green,9:52,4,Wizards,76ers,81 - 98,1,21,2,Jumper
+20,Jimmy Butler,TURNOVER,Otto Porter,9:41,4,76ers,Wizards,81 - 98,0,N/A,N/A,N/A
+21,Otto Porter,FG_UNASSISTED,None,9:31,4,Wizards,76ers,81 - 100,1,6,2,Jumper
+22,Team,Unknown,None,9:30,4,76ers,Wizards,81 - 100,0,N/A,N/A,N/A
+23,Joel Embiid,TURNOVER,Ian Mahinmi,9:18,4,76ers,Wizards,81 - 100,0,N/A,N/A,N/A
+24,Jeff Green,TURNOVER,Joel Embiid,9:01,4,Wizards,76ers,81 - 100,1,N/A,N/A,N/A
+25,Furkan Korkmaz,FG_ASSISTED,Jimmy Butler,8:56,4,76ers,Wizards,84 - 100,0,23,3,Jumper
+26,Jeff Green,FG_MISS,None,8:31,4,Wizards,76ers,84 - 100,1,16,2,Jumper
+27,Joel Embiid,DEFENSIVE_REBOUND,None,8:31,4,76ers,Wizards,84 - 100,0,N/A,N/A,N/A
+28,Jimmy Butler,FG_MISS,None,8:21,4,76ers,Wizards,84 - 100,0,4,2,Jumper
+29,Jimmy Butler,OFFENSIVE_REBOUND,None,8:20,4,76ers,Wizards,84 - 100,0,N/A,N/A,N/A
+30,Ben Simmons,FG_ASSISTED,Joel Embiid,8:17,4,76ers,Wizards,86 - 100,0,0,2,Layup
+31,Team,Unknown,None,8:17,4,Wizards,76ers,86 - 100,1,N/A,N/A,N/A
+32,Tomas Satoransky,SUBSTITUTION,Dekker Sam,8:17,4,Wizards,76ers,86 - 100,1,N/A,N/A,N/A
+33,Bradley Beal,SUBSTITUTION,Randle Chasson,8:17,4,Wizards,76ers,86 - 100,1,N/A,N/A,N/A
+34,Furkan Korkmaz,FOUL_ON_FLOOR,None,8:05,4,76ers,Wizards,86 - 100,0,N/A,N/A,N/A
+35,Otto Porter,FG_MISS,Joel Embiid,8:00,4,76ers,Wizards,86 - 100,1,0,2,Layup
+36,Ian Mahinmi,OFFENSIVE_REBOUND,None,7:56,4,Wizards,76ers,86 - 100,1,N/A,N/A,N/A
+37,Ian Mahinmi,FG_UNASSISTED,None,7:56,4,Wizards,76ers,86 - 102,1,0,2,Layup
+38,Jimmy Butler,FG_UNASSISTED,None,7:43,4,76ers,Wizards,88 - 102,0,1,2,Jumper
+39,Tomas Satoransky,FG_MISS,None,7:19,4,Wizards,76ers,88 - 102,1,13,2,Jumper
+40,Jimmy Butler,DEFENSIVE_REBOUND,None,7:16,4,76ers,Wizards,88 - 102,0,N/A,N/A,N/A
+41,Furkan Korkmaz,FG_MISS,None,7:11,4,76ers,Wizards,88 - 102,0,16,2,Jumper
+42,Jimmy Butler,OFFENSIVE_REBOUND,None,7:06,4,76ers,Wizards,88 - 102,0,N/A,N/A,N/A
+43,Jimmy Butler,FG_MISS,None,7:06,4,76ers,Wizards,88 - 102,0,1,2,Jumper
+44,Jimmy Butler,OFFENSIVE_REBOUND,None,7:05,4,76ers,Wizards,88 - 102,0,N/A,N/A,N/A
+45,Joel Embiid,TURNOVER,None,7:04,4,76ers,Wizards,88 - 102,0,N/A,N/A,N/A
+46,Joel Embiid,TURNOVER,None,7:04,4,76ers,Wizards,88 - 102,0,N/A,N/A,N/A
+47,Bradley Beal,FG_MISS,None,6:50,4,Wizards,76ers,88 - 102,1,18,2,Jumper
+48,Joel Embiid,DEFENSIVE_REBOUND,None,6:47,4,76ers,Wizards,88 - 102,0,N/A,N/A,N/A
+49,Bradley Beal,FOUL_ON_FLOOR,None,6:42,4,Wizards,76ers,88 - 102,1,N/A,N/A,N/A
+50,Jimmy Butler,FT,None,6:42,4,76ers,Wizards,89 - 102,0,N/A,1,N/A
+51,Landry Shamet,SUBSTITUTION,McConnell T.J.,6:42,4,76ers,Wizards,89 - 102,0,N/A,N/A,N/A
+52,Wilson Chandler,SUBSTITUTION,Korkmaz Furkan,6:42,4,76ers,Wizards,89 - 102,0,N/A,N/A,N/A
+53,Jimmy Butler,FT,None,6:42,4,76ers,Wizards,90 - 102,0,N/A,1,N/A
+54,Bradley Beal,FG_UNASSISTED,None,6:29,4,Wizards,76ers,90 - 104,1,0,2,Layup
+55,Landry Shamet,FG_MISS,None,6:24,4,76ers,Wizards,90 - 104,0,23,3,Jumper
+56,Ian Mahinmi,DEFENSIVE_REBOUND,None,6:20,4,Wizards,76ers,90 - 104,1,N/A,N/A,N/A
+57,Bradley Beal,FG_ASSISTED,Tomas Satoransky,6:19,4,Wizards,76ers,90 - 106,1,0,2,Dunk
+58,Team,Unknown,None,6:17,4,76ers,Wizards,90 - 106,0,N/A,N/A,N/A
+59,Trevor Ariza,SUBSTITUTION,Green Jeff,6:17,4,Wizards,76ers,90 - 106,1,N/A,N/A,N/A
+60,Landry Shamet,TURNOVER,Ian Mahinmi,6:01,4,76ers,Wizards,90 - 106,0,N/A,N/A,N/A
+61,Bradley Beal,FG_ASSISTED,Tomas Satoransky,5:56,4,Wizards,76ers,90 - 108,1,0,2,Layup
+62,Tomas Satoransky,FOUL_ON_FLOOR,None,5:48,4,Wizards,76ers,90 - 108,1,N/A,N/A,N/A
+63,Jimmy Butler,FT,None,5:48,4,76ers,Wizards,91 - 108,0,N/A,1,N/A
+64,Jimmy Butler,FT,None,5:48,4,76ers,Wizards,92 - 108,0,N/A,1,N/A
+65,Bradley Beal,FG_ASSISTED,Tomas Satoransky,5:28,4,Wizards,76ers,92 - 111,1,26,3,Jumper
+66,Joel Embiid,TURNOVER,Otto Porter,5:10,4,76ers,Wizards,92 - 111,0,N/A,N/A,N/A
+67,Otto Porter,FG_MISS,None,4:45,4,Wizards,76ers,92 - 111,1,0,2,Layup
+68,Ben Simmons,DEFENSIVE_REBOUND,None,4:42,4,76ers,Wizards,92 - 111,0,N/A,N/A,N/A
+69,Wilson Chandler,FG_ASSISTED,Ben Simmons,4:38,4,76ers,Wizards,95 - 111,0,25,3,Jumper
+70,Team,Unknown,None,4:36,4,Wizards,76ers,95 - 111,1,N/A,N/A,N/A
+71,Bradley Beal,FG_ASSISTED,Tomas Satoransky,4:22,4,Wizards,76ers,95 - 113,1,17,2,Jumper
+72,Wilson Chandler,FG_MISS,None,3:58,4,76ers,Wizards,95 - 113,0,1,2,Jumper
+73,Tomas Satoransky,DEFENSIVE_REBOUND,None,3:55,4,Wizards,76ers,95 - 113,1,N/A,N/A,N/A
+74,Bradley Beal,FG_ASSISTED,Tomas Satoransky,3:37,4,Wizards,76ers,95 - 116,1,27,2,Jumper
+75,Team,Unknown,None,3:29,4,76ers,Wizards,95 - 116,0,N/A,N/A,N/A
+76,Mike Muscala,SUBSTITUTION,Embiid Joel,3:29,4,76ers,Wizards,95 - 116,0,N/A,N/A,N/A
+77,Shake Milton,SUBSTITUTION,Butler Jimmy,3:29,4,76ers,Wizards,95 - 116,0,N/A,N/A,N/A
+78,Furkan Korkmaz,SUBSTITUTION,Simmons Ben,3:29,4,76ers,Wizards,95 - 116,0,N/A,N/A,N/A
+79,Jonah Bolden,SUBSTITUTION,Shamet Landry,3:29,4,76ers,Wizards,95 - 116,0,N/A,N/A,N/A
+80,T.J. McConnell,SUBSTITUTION,Chandler Wilson,3:29,4,76ers,Wizards,95 - 116,0,N/A,N/A,N/A
+81,Mike Muscala,TURNOVER,Tomas Satoransky,3:14,4,76ers,Wizards,95 - 116,0,N/A,N/A,N/A
+82,Otto Porter,TURNOVER,Jonah Bolden,2:56,4,Wizards,76ers,95 - 116,1,N/A,N/A,N/A
+83,Shake Milton,TURNOVER,None,2:35,4,76ers,Wizards,95 - 116,0,N/A,N/A,N/A
+84,Team,Unknown,None,2:35,4,Wizards,76ers,95 - 116,1,N/A,N/A,N/A
+85,Troy Brown,SUBSTITUTION,Ariza Trevor,2:35,4,Wizards,76ers,95 - 116,1,N/A,N/A,N/A
+86,Chasson Randle,SUBSTITUTION,Beal Bradley,2:35,4,Wizards,76ers,95 - 116,1,N/A,N/A,N/A
+87,Jordan McRae,SUBSTITUTION,Porter Otto,2:35,4,Wizards,76ers,95 - 116,1,N/A,N/A,N/A
+88,Devin Robinson,SUBSTITUTION,Mahinmi Ian,2:35,4,Wizards,76ers,95 - 116,1,N/A,N/A,N/A
+89,Sam Dekker,SUBSTITUTION,Satoransky Tomas,2:35,4,Wizards,76ers,95 - 116,1,N/A,N/A,N/A
+90,Devin Robinson,FG_MISS,None,2:21,4,Wizards,76ers,95 - 116,1,21,2,Jumper
+91,Jonah Bolden,DEFENSIVE_REBOUND,None,2:19,4,76ers,Wizards,95 - 116,0,N/A,N/A,N/A
+92,Shake Milton,FG_ASSISTED,T.J. McConnell,2:11,4,76ers,Wizards,97 - 116,0,13,2,Jumper
+93,Troy Brown,FG_UNASSISTED,None,1:52,4,Wizards,76ers,97 - 118,1,21,2,Jumper
+94,Furkan Korkmaz,FG_ASSISTED,T.J. McConnell,1:31,4,76ers,Wizards,100 - 118,0,26,3,Jumper
+95,Sam Dekker,FG_ASSISTED,Devin Robinson,1:20,4,Wizards,76ers,100 - 121,1,26,2,Jumper
+96,Furkan Korkmaz,FG_ASSISTED,T.J. McConnell,1:08,4,76ers,Wizards,103 - 121,0,27,3,Jumper
+97,Devin Robinson,FG_ASSISTED,Troy Brown,54.2,4,Wizards,76ers,103 - 123,1,0,2,Dunk
+98,Furkan Korkmaz,FG_ASSISTED,T.J. McConnell,41.5,4,76ers,Wizards,106 - 123,0,25,3,Jumper
+99,Troy Brown,TURNOVER,T.J. McConnell,31.8,4,Wizards,76ers,106 - 123,1,N/A,N/A,N/A
+100,Jonah Bolden,TURNOVER,None,26.2,4,76ers,Wizards,106 - 123,0,N/A,N/A,N/A
+101,shot clock,TURNOVER,None,2.2,4,Wizards,76ers,106 - 123,1,N/A,N/A,N/A
+102,End of,Unknown,None,0.0,4,Wizards,76ers,106 - 123,1,N/A,N/A,N/A
+103,End of,Unknown,None,0.0,4,Wizards,76ers,106 - 123,1,N/A,N/A,N/A

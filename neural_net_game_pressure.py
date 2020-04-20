@@ -93,11 +93,11 @@ def run_SVC():
 
 def main():
     df_19_20_unprocessed = pd.read_csv(
-        'C:/Users/DannyDell/Documents/NBADataProject/data/2019-20_mavs_shot_data.csv')
+        'C:/Users/DannyDell/Documents/DataAnalysis/data/2019-20_mavs_shot_data.csv')
     df_18_19 = pd.read_csv(
-        'C:/Users/DannyDell/Documents/NBADataProject/data/2018-19_mavs_shot_data-nn.csv')
+        'C:/Users/DannyDell/Documents/DataAnalysis/data/2018-19_mavs_shot_data-nn.csv')
     df_19_20 = pd.read_csv(
-        'C:/Users/DannyDell/Documents/NBADataProject/data/2019-20_mavs_shot_data-nn.csv')
+        'C:/Users/DannyDell/Documents/DataAnalysis/data/2019-20_mavs_shot_data-nn.csv')
     X_TRAIN0, X_TEST0, Y_TRAIN0, Y_TEST0 = get_nn_data_from_processed_df(df_18_19)
     X_TRAIN, X_TEST, Y_TRAIN, Y_TEST = get_nn_data_from_processed_df(df_19_20)
     X_TEST = X_TRAIN + X_TEST
@@ -130,5 +130,5 @@ def main():
     plt.show()
 
 
-run_SVC()
+main()
 

@@ -1,0 +1,448 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Ante Zizic,JUMP_BALL,None,12:00,1,Jazz,Cavaliers,0 - 0,1,N/A,N/A,N/A
+1,Derrick Favors,FG_MISS,None,11:48,1,Jazz,Cavaliers,0 - 0,1,-,3,Jumper
+2,Rodney Hood,DEFENSIVE_REBOUND,None,11:45,1,Cavaliers,Jazz,0 - 0,0,N/A,N/A,N/A
+3,Rodney Hood,FG_MISS,None,11:30,1,Cavaliers,Jazz,0 - 0,0,27,3,Jumper
+4,Rudy Gobert,DEFENSIVE_REBOUND,None,11:27,1,Jazz,Cavaliers,0 - 0,1,N/A,N/A,N/A
+5,Derrick Favors,FG_ASSISTED,Joe Ingles,11:17,1,Jazz,Cavaliers,0 - 2,1,2,2,Jumper
+6,Alec Burks,FG_UNASSISTED,None,10:56,1,Cavaliers,Jazz,2 - 2,0,16,2,Jumper
+7,Rudy Gobert,FG_ASSISTED,Joe Ingles,10:40,1,Jazz,Cavaliers,2 - 4,1,0,2,Layup
+8,Rodney Hood,FOUL_ON_FLOOR,None,10:22,1,Cavaliers,Jazz,2 - 4,0,N/A,N/A,N/A
+9,Rodney Hood,TURNOVER,None,10:22,1,Cavaliers,Jazz,2 - 4,0,N/A,N/A,N/A
+10,Royce O'Neale,FG_MISS,None,9:59,1,Jazz,Cavaliers,2 - 4,1,12,2,Jumper
+11,Derrick Favors,OFFENSIVE_REBOUND,None,9:55,1,Jazz,Cavaliers,2 - 4,1,N/A,N/A,N/A
+12,Derrick Favors,FG_MISS,None,9:55,1,Jazz,Cavaliers,2 - 4,1,-,2,Jumper
+13,Ante Zizic,DEFENSIVE_REBOUND,None,9:55,1,Cavaliers,Jazz,2 - 4,0,N/A,N/A,N/A
+14,Collin Sexton,FG_MISS,None,9:51,1,Cavaliers,Jazz,2 - 4,0,17,2,Jumper
+15,Derrick Favors,DEFENSIVE_REBOUND,None,9:47,1,Jazz,Cavaliers,2 - 4,1,N/A,N/A,N/A
+16,Joe Ingles,TURNOVER,None,9:39,1,Jazz,Cavaliers,2 - 4,1,N/A,N/A,N/A
+17,Rodney Hood,TURNOVER,None,9:27,1,Cavaliers,Jazz,2 - 4,0,N/A,N/A,N/A
+18,Derrick Favors,TURNOVER,None,9:09,1,Jazz,Cavaliers,2 - 4,1,N/A,N/A,N/A
+19,Derrick Favors,TURNOVER,None,9:09,1,Jazz,Cavaliers,2 - 4,1,N/A,N/A,N/A
+20,Alec Burks,FG_UNASSISTED,None,8:55,1,Cavaliers,Jazz,4 - 4,0,-,2,Jumper
+21,Donovan Mitchell,FG_MISS,None,8:43,1,Jazz,Cavaliers,4 - 4,1,25,3,Jumper
+22,Cedi Osman,DEFENSIVE_REBOUND,None,8:40,1,Cavaliers,Jazz,4 - 4,0,N/A,N/A,N/A
+23,Cedi Osman,FG_MISS,None,8:32,1,Cavaliers,Jazz,4 - 4,0,25,2,Jumper
+24,Rudy Gobert,DEFENSIVE_REBOUND,None,8:30,1,Jazz,Cavaliers,4 - 4,1,N/A,N/A,N/A
+25,Joe Ingles,FG_ASSISTED,Rudy Gobert,8:18,1,Jazz,Cavaliers,4 - 6,1,0,2,Layup
+26,Collin Sexton,TURNOVER,Donovan Mitchell,8:05,1,Cavaliers,Jazz,4 - 6,0,N/A,N/A,N/A
+27,Cedi Osman,FOUL_ON_FLOOR,None,8:04,1,Cavaliers,Jazz,4 - 6,0,N/A,N/A,N/A
+28,Derrick Favors,FG_MISS,None,7:51,1,Jazz,Cavaliers,4 - 6,1,-,3,Jumper
+29,Alec Burks,DEFENSIVE_REBOUND,None,7:46,1,Cavaliers,Jazz,4 - 6,0,N/A,N/A,N/A
+30,Rodney Hood,FG_MISS,None,7:39,1,Cavaliers,Jazz,4 - 6,0,24,3,Jumper
+31,Royce O'Neale,DEFENSIVE_REBOUND,None,7:36,1,Jazz,Cavaliers,4 - 6,1,N/A,N/A,N/A
+32,Royce O'Neale,TURNOVER,Alec Burks,7:34,1,Jazz,Cavaliers,4 - 6,1,N/A,N/A,N/A
+33,Donovan Mitchell,FOUL_ON_FLOOR,None,7:31,1,Jazz,Cavaliers,4 - 6,1,N/A,N/A,N/A
+34,Ante Zizic,FT_MISS,None,7:31,1,Cavaliers,Jazz,4 - 6,0,N/A,1,N/A
+35,Team,OFFENSIVE_REBOUND,None,7:31,1,Cavaliers,Jazz,4 - 6,0,N/A,N/A,N/A
+36,Jae Crowder,SUBSTITUTION,Favors Derrick,7:31,1,Jazz,Cavaliers,4 - 6,1,N/A,N/A,N/A
+37,Ante Zizic,FT,None,7:31,1,Cavaliers,Jazz,5 - 6,0,N/A,1,N/A
+38,Jae Crowder,FG_MISS,None,7:19,1,Jazz,Cavaliers,5 - 6,1,25,3,Jumper
+39,Rudy Gobert,OFFENSIVE_REBOUND,None,7:16,1,Jazz,Cavaliers,5 - 6,1,N/A,N/A,N/A
+40,Jae Crowder,TURNOVER,Cedi Osman,7:09,1,Jazz,Cavaliers,5 - 6,1,N/A,N/A,N/A
+41,Collin Sexton,FG_ASSISTED,Cedi Osman,7:05,1,Cavaliers,Jazz,7 - 6,0,0,2,Layup
+42,Donovan Mitchell,FG_MISS,None,6:53,1,Jazz,Cavaliers,7 - 6,1,13,2,Jumper
+43,Collin Sexton,DEFENSIVE_REBOUND,None,6:50,1,Cavaliers,Jazz,7 - 6,0,N/A,N/A,N/A
+44,Collin Sexton,FG_MISS,Royce O'Neale,6:47,1,Jazz,Cavaliers,7 - 6,0,0,2,Layup
+45,Jae Crowder,DEFENSIVE_REBOUND,None,6:45,1,Jazz,Cavaliers,7 - 6,1,N/A,N/A,N/A
+46,Donovan Mitchell,FG_ASSISTED,Royce O'Neale,6:41,1,Jazz,Cavaliers,7 - 9,1,25,3,Jumper
+47,Collin Sexton,FG_UNASSISTED,None,6:22,1,Cavaliers,Jazz,9 - 9,0,20,2,Jumper
+48,Team,Unknown,None,6:20,1,Jazz,Cavaliers,9 - 9,1,N/A,N/A,N/A
+49,Kyle Korver,SUBSTITUTION,Ingles Joe,6:20,1,Jazz,Cavaliers,9 - 9,1,N/A,N/A,N/A
+50,Royce O'Neale,FG_ASSISTED,Rudy Gobert,6:04,1,Jazz,Cavaliers,9 - 12,1,23,3,Jumper
+51,Cedi Osman,FG_ASSISTED,Collin Sexton,5:44,1,Cavaliers,Jazz,11 - 12,0,0,2,Layup
+52,Donovan Mitchell,FG_MISS,None,5:33,1,Jazz,Cavaliers,11 - 12,1, ,2,Jumper
+53,Collin Sexton,DEFENSIVE_REBOUND,None,5:31,1,Cavaliers,Jazz,11 - 12,0,N/A,N/A,N/A
+54,Cedi Osman,FG_MISS,None,5:19,1,Cavaliers,Jazz,11 - 12,0,13,2,Jumper
+55,Team,OFFENSIVE_REBOUND,None,5:18,1,Cavaliers,Jazz,11 - 12,0,N/A,N/A,N/A
+56,Jordan Clarkson,SUBSTITUTION,Hood Rodney,5:18,1,Cavaliers,Jazz,11 - 12,0,N/A,N/A,N/A
+57,Collin Sexton,FOUL_ON_FLOOR,None,5:01,1,Cavaliers,Jazz,11 - 12,0,N/A,N/A,N/A
+58,Collin Sexton,TURNOVER,None,5:01,1,Cavaliers,Jazz,11 - 12,0,N/A,N/A,N/A
+59,Channing Frye,SUBSTITUTION,Zizic Ante,5:01,1,Cavaliers,Jazz,11 - 12,0,N/A,N/A,N/A
+60,Donovan Mitchell,FG_UNASSISTED,None,4:54,1,Jazz,Cavaliers,11 - 14,1, ,2,Jumper
+61,Collin Sexton,FG_MISS,None,4:39,1,Cavaliers,Jazz,11 - 14,0,12,2,Jumper
+62,Rudy Gobert,DEFENSIVE_REBOUND,None,4:36,1,Jazz,Cavaliers,11 - 14,1,N/A,N/A,N/A
+63,Kyle Korver,FG_ASSISTED,Royce O'Neale,4:25,1,Jazz,Cavaliers,11 - 16,1,0,2,Layup
+64,Team,Unknown,None,4:25,1,Cavaliers,Jazz,11 - 16,0,N/A,N/A,N/A
+65,Matthew Dellavedova,SUBSTITUTION,Sexton Collin,4:25,1,Cavaliers,Jazz,11 - 16,0,N/A,N/A,N/A
+66,Jordan Clarkson,FG_MISS,Rudy Gobert,4:09,1,Jazz,Cavaliers,11 - 16,0,3,2,Jumper
+67,Rudy Gobert,DEFENSIVE_REBOUND,None,4:04,1,Jazz,Cavaliers,11 - 16,1,N/A,N/A,N/A
+68,Jordan Clarkson,FOUL_ON_FLOOR,None,4:04,1,Cavaliers,Jazz,11 - 16,0,N/A,N/A,N/A
+69,Jae Crowder,FG_MISS,None,4:01,1,Jazz,Cavaliers,11 - 16,1,25,3,Jumper
+70,Alec Burks,DEFENSIVE_REBOUND,None,3:57,1,Cavaliers,Jazz,11 - 16,0,N/A,N/A,N/A
+71,Channing Frye,FG_MISS,None,3:44,1,Cavaliers,Jazz,11 - 16,0,26,3,Jumper
+72,Rudy Gobert,DEFENSIVE_REBOUND,None,3:41,1,Jazz,Cavaliers,11 - 16,1,N/A,N/A,N/A
+73,Rudy Gobert,FG_ASSISTED,Donovan Mitchell,3:34,1,Jazz,Cavaliers,11 - 18,1,0,2,Dunk
+74,Alec Burks,FG_MISS,Jae Crowder,3:11,1,Jazz,Cavaliers,11 - 18,0,0,2,Layup
+75,Channing Frye,OFFENSIVE_REBOUND,None,3:06,1,Cavaliers,Jazz,11 - 18,0,N/A,N/A,N/A
+76,Jordan Clarkson,FG_MISS,None,3:06,1,Cavaliers,Jazz,11 - 18,0,25,3,Jumper
+77,Royce O'Neale,DEFENSIVE_REBOUND,None,3:03,1,Jazz,Cavaliers,11 - 18,1,N/A,N/A,N/A
+78,Donovan Mitchell,FG_MISS,None,2:59,1,Jazz,Cavaliers,11 - 18,1,25,3,Jumper
+79,Alec Burks,DEFENSIVE_REBOUND,None,2:57,1,Cavaliers,Jazz,11 - 18,0,N/A,N/A,N/A
+80,Matthew Dellavedova,FG_UNASSISTED,None,2:42,1,Cavaliers,Jazz,13 - 18,0,7,2,Jumper
+81,Rudy Gobert,FOUL_ON_FLOOR,None,2:42,1,Jazz,Cavaliers,13 - 18,1,N/A,N/A,N/A
+82,Grayson Allen,SUBSTITUTION,O'Neale Royce,2:42,1,Jazz,Cavaliers,13 - 18,1,N/A,N/A,N/A
+83,Joe Ingles,SUBSTITUTION,Gobert Rudy,2:42,1,Jazz,Cavaliers,13 - 18,1,N/A,N/A,N/A
+84,Derrick Favors,SUBSTITUTION,Mitchell Donovan,2:42,1,Jazz,Cavaliers,13 - 18,1,N/A,N/A,N/A
+85,Cameron Payne,SUBSTITUTION,Burks Alec,2:42,1,Cavaliers,Jazz,13 - 18,0,N/A,N/A,N/A
+86,Jaron Blossomgame,SUBSTITUTION,Osman Cedi,2:42,1,Cavaliers,Jazz,13 - 18,0,N/A,N/A,N/A
+87,Matthew Dellavedova,FT,None,2:42,1,Cavaliers,Jazz,14 - 18,0,N/A,1,N/A
+88,Derrick Favors,FG_MISS,None,2:30,1,Jazz,Cavaliers,14 - 18,1,0,2,Layup
+89,Jaron Blossomgame,DEFENSIVE_REBOUND,None,2:28,1,Cavaliers,Jazz,14 - 18,0,N/A,N/A,N/A
+90,Matthew Dellavedova,FG_MISS,None,2:23,1,Cavaliers,Jazz,14 - 18,0,26,3,Jumper
+91,Jaron Blossomgame,OFFENSIVE_REBOUND,None,2:19,1,Cavaliers,Jazz,14 - 18,0,N/A,N/A,N/A
+92,Jaron Blossomgame,FG_UNASSISTED,None,2:18,1,Cavaliers,Jazz,16 - 18,0, ,2,Jumper
+93,Derrick Favors,FG_ASSISTED,Jae Crowder,2:08,1,Jazz,Cavaliers,16 - 20,1,0,2,Dunk
+94,Cameron Payne,FG_MISS,None,1:49,1,Cavaliers,Jazz,16 - 20,0,23,3,Jumper
+95,Jae Crowder,DEFENSIVE_REBOUND,None,1:46,1,Jazz,Cavaliers,16 - 20,1,N/A,N/A,N/A
+96,Kyle Korver,FG_MISS,None,1:34,1,Jazz,Cavaliers,16 - 20,1,25,3,Jumper
+97,Cameron Payne,DEFENSIVE_REBOUND,None,1:29,1,Cavaliers,Jazz,16 - 20,0,N/A,N/A,N/A
+98,Grayson Allen,FOUL_ON_FLOOR,None,1:22,1,Jazz,Cavaliers,16 - 20,1,N/A,N/A,N/A
+99,Cameron Payne,FT,None,1:22,1,Cavaliers,Jazz,17 - 20,0,N/A,1,N/A
+100,Cameron Payne,FT,None,1:22,1,Cavaliers,Jazz,18 - 20,0,N/A,1,N/A
+101,Joe Ingles,FG_ASSISTED,Jae Crowder,1:12,1,Jazz,Cavaliers,18 - 23,1,26,3,Jumper
+102,Jordan Clarkson,FG_MISS,None,54.9,1,Cavaliers,Jazz,18 - 23,0,0,2,Layup
+103,Jordan Clarkson,OFFENSIVE_REBOUND,None,51.1,1,Cavaliers,Jazz,18 - 23,0,N/A,N/A,N/A
+104,Jordan Clarkson,FG_MISS,None,51.1,1,Cavaliers,Jazz,18 - 23,0, ,2,Jumper
+105,Kyle Korver,DEFENSIVE_REBOUND,None,50.0,1,Jazz,Cavaliers,18 - 23,1,N/A,N/A,N/A
+106,Jae Crowder,FG_ASSISTED,Joe Ingles,36.3,1,Jazz,Cavaliers,18 - 26,1,25,3,Jumper
+107,Jordan Clarkson,FG_ASSISTED,Matthew Dellavedova,20.9,1,Cavaliers,Jazz,20 - 26,0,17,2,Jumper
+108,Jaron Blossomgame,FOUL_ON_FLOOR,None,5.7,1,Cavaliers,Jazz,20 - 26,0,N/A,N/A,N/A
+109,Kyle Korver,FG_ASSISTED,Grayson Allen,4.6,1,Jazz,Cavaliers,20 - 29,1,26,3,Jumper
+110,Jordan Clarkson,FG_MISS,None,0.0,1,Cavaliers,Jazz,20 - 29,0,26,3,Jumper
+111,Team,OFFENSIVE_REBOUND,None,0.0,1,Cavaliers,Jazz,20 - 29,0,N/A,N/A,N/A
+112,End of,Unknown,None,0.0,1,Jazz,Cavaliers,20 - 29,1,N/A,N/A,N/A
+0,Cameron Payne,FG_MISS,None,11:47,2,Cavaliers,Jazz,20 - 29,0, ,2,Jumper
+1,Jae Crowder,DEFENSIVE_REBOUND,None,11:43,2,Jazz,Cavaliers,20 - 29,1,N/A,N/A,N/A
+2,Matthew Dellavedova,FOUL_ON_FLOOR,None,11:35,2,Cavaliers,Jazz,20 - 29,0,N/A,N/A,N/A
+3,Grayson Allen,FG_ASSISTED,Kyle Korver,11:30,2,Jazz,Cavaliers,20 - 32,1,23,3,Jumper
+4,Matthew Dellavedova,FG_UNASSISTED,None,11:10,2,Cavaliers,Jazz,22 - 32,0,0,2,Layup
+5,Jae Crowder,FG_MISS,None,11:00,2,Jazz,Cavaliers,22 - 32,1,25,3,Jumper
+6,Derrick Favors,OFFENSIVE_REBOUND,None,10:55,2,Jazz,Cavaliers,22 - 32,1,N/A,N/A,N/A
+7,Channing Frye,FOUL_ON_FLOOR,None,10:55,2,Cavaliers,Jazz,22 - 32,0,N/A,N/A,N/A
+8,Derrick Favors,FT,None,10:55,2,Jazz,Cavaliers,22 - 33,1,N/A,1,N/A
+9,Derrick Favors,FT,None,10:55,2,Jazz,Cavaliers,22 - 34,1,N/A,1,N/A
+10,Matthew Dellavedova,FG_ASSISTED,Channing Frye,10:40,2,Cavaliers,Jazz,24 - 34,0,0,2,Layup
+11,Matthew Dellavedova,FOUL_ON_FLOOR,None,10:33,2,Cavaliers,Jazz,24 - 34,0,N/A,N/A,N/A
+12,Joe Ingles,FOUL_ON_FLOOR,None,10:25,2,Jazz,Cavaliers,24 - 34,1,N/A,N/A,N/A
+13,Joe Ingles,TURNOVER,None,10:25,2,Jazz,Cavaliers,24 - 34,1,N/A,N/A,N/A
+14,Jordan Clarkson,FG_MISS,None,10:10,2,Cavaliers,Jazz,24 - 34,0,0,2,Layup
+15,Derrick Favors,DEFENSIVE_REBOUND,None,10:09,2,Jazz,Cavaliers,24 - 34,1,N/A,N/A,N/A
+16,Grayson Allen,FG_MISS,Cameron Payne,10:02,2,Cavaliers,Jazz,24 - 34,1,0,2,Layup
+17,Cameron Payne,DEFENSIVE_REBOUND,None,9:59,2,Cavaliers,Jazz,24 - 34,0,N/A,N/A,N/A
+18,Joe Ingles,FOUL_FLAGRANT_1,None,9:59,2,Jazz,Cavaliers,24 - 34,1,N/A,N/A,N/A
+19,Cameron Payne,FT,None,9:59,2,Cavaliers,Jazz,25 - 34,0,N/A,1,N/A
+20,Cameron Payne,FT,None,9:59,2,Cavaliers,Jazz,26 - 34,0,N/A,1,N/A
+21,Donovan Mitchell,SUBSTITUTION,Crowder Jae,9:59,2,Jazz,Cavaliers,26 - 34,1,N/A,N/A,N/A
+22,Georges Niang,SUBSTITUTION,Ingles Joe,9:59,2,Jazz,Cavaliers,26 - 34,1,N/A,N/A,N/A
+23,Rodney Hood,SUBSTITUTION,Clarkson Jordan,9:59,2,Cavaliers,Jazz,26 - 34,0,N/A,N/A,N/A
+24,Matthew Dellavedova,FG_MISS,None,9:56,2,Cavaliers,Jazz,26 - 34,0,25,3,Jumper
+25,Team,OFFENSIVE_REBOUND,None,9:53,2,Cavaliers,Jazz,26 - 34,0,N/A,N/A,N/A
+26,Rodney Hood,FG_MISS,None,9:52,2,Cavaliers,Jazz,26 - 34,0,18,2,Jumper
+27,Donovan Mitchell,DEFENSIVE_REBOUND,None,9:49,2,Jazz,Cavaliers,26 - 34,1,N/A,N/A,N/A
+28,Donovan Mitchell,FG_ASSISTED,Grayson Allen,9:42,2,Jazz,Cavaliers,26 - 36,1,0,2,Dunk
+29,Matthew Dellavedova,TURNOVER,None,9:29,2,Cavaliers,Jazz,26 - 36,0,N/A,N/A,N/A
+30,Royce O'Neale,SUBSTITUTION,Korver Kyle,9:29,2,Jazz,Cavaliers,26 - 36,1,N/A,N/A,N/A
+31,Ante Zizic,SUBSTITUTION,Frye Channing,9:29,2,Cavaliers,Jazz,26 - 36,0,N/A,N/A,N/A
+32,Collin Sexton,SUBSTITUTION,Dellavedova Matthew,9:29,2,Cavaliers,Jazz,26 - 36,0,N/A,N/A,N/A
+33,Derrick Favors,FG_ASSISTED,Donovan Mitchell,9:19,2,Jazz,Cavaliers,26 - 38,1,0,2,Dunk
+34,Team,Unknown,None,9:17,2,Cavaliers,Jazz,26 - 38,0,N/A,N/A,N/A
+35,Cameron Payne,FG_MISS,None,8:58,2,Cavaliers,Jazz,26 - 38,0,27,3,Jumper
+36,Derrick Favors,DEFENSIVE_REBOUND,None,8:54,2,Jazz,Cavaliers,26 - 38,1,N/A,N/A,N/A
+37,Grayson Allen,FG_MISS,None,8:46,2,Jazz,Cavaliers,26 - 38,1,25,3,Jumper
+38,Collin Sexton,DEFENSIVE_REBOUND,None,8:41,2,Cavaliers,Jazz,26 - 38,0,N/A,N/A,N/A
+39,Donovan Mitchell,FOUL_ON_FLOOR,None,8:34,2,Jazz,Cavaliers,26 - 38,1,N/A,N/A,N/A
+40,Rudy Gobert,SUBSTITUTION,Favors Derrick,8:34,2,Jazz,Cavaliers,26 - 38,1,N/A,N/A,N/A
+41,Cedi Osman,SUBSTITUTION,Payne Cameron,8:34,2,Cavaliers,Jazz,26 - 38,0,N/A,N/A,N/A
+42,Alec Burks,SUBSTITUTION,Blossomgame Jaron,8:34,2,Cavaliers,Jazz,26 - 38,0,N/A,N/A,N/A
+43,Collin Sexton,FG_MISS,None,8:29,2,Cavaliers,Jazz,26 - 38,0,9,2,Jumper
+44,Rudy Gobert,DEFENSIVE_REBOUND,None,8:27,2,Jazz,Cavaliers,26 - 38,1,N/A,N/A,N/A
+45,Grayson Allen,FG_MISS,None,8:18,2,Jazz,Cavaliers,26 - 38,1,25,3,Jumper
+46,Ante Zizic,DEFENSIVE_REBOUND,None,8:13,2,Cavaliers,Jazz,26 - 38,0,N/A,N/A,N/A
+47,Royce O'Neale,FOUL_ON_FLOOR,None,8:06,2,Jazz,Cavaliers,26 - 38,1,N/A,N/A,N/A
+48,Rodney Hood,FT,None,8:06,2,Cavaliers,Jazz,27 - 38,0,N/A,1,N/A
+49,Rodney Hood,FT,None,8:06,2,Cavaliers,Jazz,28 - 38,0,N/A,1,N/A
+50,Donovan Mitchell,FG_UNASSISTED,None,7:54,2,Jazz,Cavaliers,28 - 40,1,8,2,Jumper
+51,Alec Burks,FG_MISS,None,7:32,2,Cavaliers,Jazz,28 - 40,0,25,3,Jumper
+52,Royce O'Neale,DEFENSIVE_REBOUND,None,7:30,2,Jazz,Cavaliers,28 - 40,1,N/A,N/A,N/A
+53,Georges Niang,FG_UNASSISTED,None,7:17,2,Jazz,Cavaliers,28 - 42,1,9,2,Jumper
+54,Rodney Hood,FG_UNASSISTED,None,7:02,2,Cavaliers,Jazz,30 - 42,0,19,2,Jumper
+55,Ante Zizic,FOUL_ON_FLOOR,None,6:54,2,Cavaliers,Jazz,30 - 42,0,N/A,N/A,N/A
+56,Donovan Mitchell,FT,None,6:54,2,Jazz,Cavaliers,30 - 43,1,N/A,1,N/A
+57,Kyle Korver,SUBSTITUTION,Allen Grayson,6:54,2,Jazz,Cavaliers,30 - 43,1,N/A,N/A,N/A
+58,Donovan Mitchell,FT,None,6:54,2,Jazz,Cavaliers,30 - 44,1,N/A,1,N/A
+59,Cedi Osman,TURNOVER,Rudy Gobert,6:40,2,Cavaliers,Jazz,30 - 44,0,N/A,N/A,N/A
+60,Kyle Korver,FG_ASSISTED,Royce O'Neale,6:34,2,Jazz,Cavaliers,30 - 46,1,0,2,Layup
+61,Team,Unknown,None,6:33,2,Cavaliers,Jazz,30 - 46,0,N/A,N/A,N/A
+62,Collin Sexton,TURNOVER,Royce O'Neale,6:16,2,Cavaliers,Jazz,30 - 46,0,N/A,N/A,N/A
+63,Alec Burks,FOUL_ON_FLOOR,None,6:01,2,Cavaliers,Jazz,30 - 46,0,N/A,N/A,N/A
+64,Donovan Mitchell,FT,None,6:01,2,Jazz,Cavaliers,30 - 47,1,N/A,1,N/A
+65,Donovan Mitchell,FT_MISS,None,6:01,2,Jazz,Cavaliers,30 - 47,1,N/A,1,N/A
+66,Alec Burks,DEFENSIVE_REBOUND,None,6:00,2,Cavaliers,Jazz,30 - 47,0,N/A,N/A,N/A
+67,Collin Sexton,FG_MISS,None,5:55,2,Cavaliers,Jazz,30 - 47,0,0,2,Layup
+68,Team,OFFENSIVE_REBOUND,None,5:54,2,Cavaliers,Jazz,30 - 47,0,N/A,N/A,N/A
+69,Royce O'Neale,FOUL_ON_FLOOR,None,5:49,2,Jazz,Cavaliers,30 - 47,1,N/A,N/A,N/A
+70,Rodney Hood,FG_MISS,None,5:36,2,Cavaliers,Jazz,30 - 47,0,21,2,Jumper
+71,Ante Zizic,OFFENSIVE_REBOUND,None,5:32,2,Cavaliers,Jazz,30 - 47,0,N/A,N/A,N/A
+72,Ante Zizic,FG_MISS,Rudy Gobert,5:31,2,Jazz,Cavaliers,30 - 47,0,2,2,Jumper
+73,Georges Niang,DEFENSIVE_REBOUND,None,5:31,2,Jazz,Cavaliers,30 - 47,1,N/A,N/A,N/A
+74,Ante Zizic,FG_MISS,None,5:31,2,Cavaliers,Jazz,30 - 47,0, ,2,Jumper
+75,Ante Zizic,OFFENSIVE_REBOUND,None,5:31,2,Cavaliers,Jazz,30 - 47,0,N/A,N/A,N/A
+76,Donovan Mitchell,FG_ASSISTED,Rudy Gobert,5:19,2,Jazz,Cavaliers,30 - 49,1,17,2,Jumper
+77,Alec Burks,FG_MISS,None,4:59,2,Cavaliers,Jazz,30 - 49,0,26,3,Jumper
+78,Royce O'Neale,DEFENSIVE_REBOUND,None,4:57,2,Jazz,Cavaliers,30 - 49,1,N/A,N/A,N/A
+79,Donovan Mitchell,FG_ASSISTED,Royce O'Neale,4:50,2,Jazz,Cavaliers,30 - 52,1,25,2,Jumper
+80,Georges Niang,FOUL_ON_FLOOR,None,4:43,2,Jazz,Cavaliers,30 - 52,1,N/A,N/A,N/A
+81,Collin Sexton,FT,None,4:43,2,Cavaliers,Jazz,31 - 52,0,N/A,1,N/A
+82,Jae Crowder,SUBSTITUTION,Niang Georges,4:43,2,Jazz,Cavaliers,31 - 52,1,N/A,N/A,N/A
+83,Jordan Clarkson,SUBSTITUTION,Hood Rodney,4:43,2,Cavaliers,Jazz,31 - 52,0,N/A,N/A,N/A
+84,Collin Sexton,FT,None,4:43,2,Cavaliers,Jazz,32 - 52,0,N/A,1,N/A
+85,Rudy Gobert,FOUL_ON_FLOOR,None,4:31,2,Jazz,Cavaliers,32 - 52,1,N/A,N/A,N/A
+86,Rudy Gobert,TURNOVER,None,4:31,2,Jazz,Cavaliers,32 - 52,1,N/A,N/A,N/A
+87,Jordan Clarkson,FG_MISS,None,4:13,2,Cavaliers,Jazz,32 - 52,0,11,2,Jumper
+88,Rudy Gobert,DEFENSIVE_REBOUND,None,4:10,2,Jazz,Cavaliers,32 - 52,1,N/A,N/A,N/A
+89,Jae Crowder,FG_ASSISTED,Donovan Mitchell,4:01,2,Jazz,Cavaliers,32 - 54,1,0,2,Layup
+90,Alec Burks,FG_MISS,None,3:36,2,Cavaliers,Jazz,32 - 54,0,0,2,Layup
+91,Alec Burks,OFFENSIVE_REBOUND,None,3:35,2,Cavaliers,Jazz,32 - 54,0,N/A,N/A,N/A
+92,Alec Burks,FG_MISS,None,3:33,2,Cavaliers,Jazz,32 - 54,0,0,2,Layup
+93,Rudy Gobert,DEFENSIVE_REBOUND,None,3:32,2,Jazz,Cavaliers,32 - 54,1,N/A,N/A,N/A
+94,Jae Crowder,TURNOVER,Jordan Clarkson,3:26,2,Jazz,Cavaliers,32 - 54,1,N/A,N/A,N/A
+95,Cedi Osman,FG_UNASSISTED,None,3:22,2,Cavaliers,Jazz,34 - 54,0,0,2,Layup
+96,Donovan Mitchell,Unknown,None,3:22,2,Jazz,Cavaliers,34 - 54,1,N/A,N/A,N/A
+97,Royce O'Neale,TURNOVER,None,3:02,2,Jazz,Cavaliers,34 - 54,1,N/A,N/A,N/A
+98,Joe Ingles,SUBSTITUTION,Korver Kyle,3:02,2,Jazz,Cavaliers,34 - 54,1,N/A,N/A,N/A
+99,Collin Sexton,TURNOVER,None,2:54,2,Cavaliers,Jazz,34 - 54,0,N/A,N/A,N/A
+100,Rudy Gobert,TURNOVER,None,2:44,2,Jazz,Cavaliers,34 - 54,1,N/A,N/A,N/A
+101,Jordan Clarkson,FG_MISS,None,2:36,2,Cavaliers,Jazz,34 - 54,0,16,2,Jumper
+102,Rudy Gobert,DEFENSIVE_REBOUND,None,2:32,2,Jazz,Cavaliers,34 - 54,1,N/A,N/A,N/A
+103,Donovan Mitchell,FG_UNASSISTED,None,2:14,2,Jazz,Cavaliers,34 - 56,1,14,2,Jumper
+104,Ante Zizic,FG_MISS,None,2:03,2,Cavaliers,Jazz,34 - 56,0, ,2,Jumper
+105,Rudy Gobert,DEFENSIVE_REBOUND,None,2:00,2,Jazz,Cavaliers,34 - 56,1,N/A,N/A,N/A
+106,Rudy Gobert's,FG_MISS,Alec Burks,1:48,2,Cavaliers,Jazz,34 - 56,1,0,2,Dunk
+107,Team,OFFENSIVE_REBOUND,None,1:48,2,Jazz,Cavaliers,34 - 56,1,N/A,N/A,N/A
+108,Joe Ingles,FG_MISS,None,1:46,2,Jazz,Cavaliers,34 - 56,1, ,3,Jumper
+109,Alec Burks,DEFENSIVE_REBOUND,None,1:42,2,Cavaliers,Jazz,34 - 56,0,N/A,N/A,N/A
+110,Jordan Clarkson,FG_ASSISTED,Alec Burks,1:34,2,Cavaliers,Jazz,37 - 56,0,26,3,Jumper
+111,Donovan Mitchell,FG_MISS,None,1:12,2,Jazz,Cavaliers,37 - 56,1,25,3,Jumper
+112,Cedi Osman,DEFENSIVE_REBOUND,None,1:08,2,Cavaliers,Jazz,37 - 56,0,N/A,N/A,N/A
+113,Alec Burks,FG_MISS,None,51.0,2,Cavaliers,Jazz,37 - 56,0,12,2,Jumper
+114,Royce O'Neale,DEFENSIVE_REBOUND,None,47.1,2,Jazz,Cavaliers,37 - 56,1,N/A,N/A,N/A
+115,Jae Crowder,FG_MISS,None,40.2,2,Jazz,Cavaliers,37 - 56,1,26,3,Jumper
+116,Collin Sexton,DEFENSIVE_REBOUND,None,38.3,2,Cavaliers,Jazz,37 - 56,0,N/A,N/A,N/A
+117,Collin Sexton,TURNOVER,Donovan Mitchell,34.4,2,Cavaliers,Jazz,37 - 56,0,N/A,N/A,N/A
+118,Rudy Gobert,FG_ASSISTED,Jae Crowder,30.8,2,Jazz,Cavaliers,37 - 58,1,0,2,Dunk
+119,Collin Sexton,FG_MISS,None,20.9,2,Cavaliers,Jazz,37 - 58,0,18,2,Jumper
+120,Rudy Gobert,DEFENSIVE_REBOUND,None,18.3,2,Jazz,Cavaliers,37 - 58,1,N/A,N/A,N/A
+121,Alec Burks,Unknown,None,4.5,2,Cavaliers,Jazz,37 - 58,0,N/A,N/A,N/A
+122,Royce O'Neale,FG_ASSISTED,Donovan Mitchell,1.4,2,Jazz,Cavaliers,37 - 61,1,25,3,Jumper
+123,End of,Unknown,None,0.0,2,Jazz,Cavaliers,37 - 61,1,N/A,N/A,N/A
+0,Derrick Favors,SUBSTITUTION,Crowder Jae,12:00,3,Jazz,Cavaliers,37 - 61,1,N/A,N/A,N/A
+1,Rodney Hood,SUBSTITUTION,Clarkson Jordan,12:00,3,Cavaliers,Jazz,37 - 61,0,N/A,N/A,N/A
+2,Donovan Mitchell,FOUL_ON_FLOOR,None,11:52,3,Jazz,Cavaliers,37 - 61,1,N/A,N/A,N/A
+3,Rodney Hood,FG_MISS,None,11:45,3,Cavaliers,Jazz,37 - 61,0,3,2,Jumper
+4,Royce O'Neale,DEFENSIVE_REBOUND,None,11:43,3,Jazz,Cavaliers,37 - 61,1,N/A,N/A,N/A
+5,Rudy Gobert,FG_ASSISTED,Joe Ingles,11:27,3,Jazz,Cavaliers,37 - 63,1,0,2,Layup
+6,Alec Burks,FG_MISS,None,11:08,3,Cavaliers,Jazz,37 - 63,0, ,2,Jumper
+7,Royce O'Neale,DEFENSIVE_REBOUND,None,11:05,3,Jazz,Cavaliers,37 - 63,1,N/A,N/A,N/A
+8,Donovan Mitchell,TURNOVER,None,10:56,3,Jazz,Cavaliers,37 - 63,1,N/A,N/A,N/A
+9,Royce O'Neale,FOUL_ON_FLOOR,None,10:44,3,Jazz,Cavaliers,37 - 63,1,N/A,N/A,N/A
+10,Alec Burks,TURNOVER,Rudy Gobert,10:41,3,Cavaliers,Jazz,37 - 63,0,N/A,N/A,N/A
+11,Rudy Gobert,TURNOVER,Cedi Osman,10:37,3,Jazz,Cavaliers,37 - 63,1,N/A,N/A,N/A
+12,Cedi Osman,FG_ASSISTED,Rodney Hood,10:29,3,Cavaliers,Jazz,40 - 63,0,25,3,Jumper
+13,Donovan Mitchell,TURNOVER,None,10:12,3,Jazz,Cavaliers,40 - 63,1,N/A,N/A,N/A
+14,Cedi Osman,FG_MISS,None,9:56,3,Cavaliers,Jazz,40 - 63,0, ,2,Jumper
+15,Derrick Favors,DEFENSIVE_REBOUND,None,9:54,3,Jazz,Cavaliers,40 - 63,1,N/A,N/A,N/A
+16,Royce O'Neale,FG_MISS,None,9:38,3,Jazz,Cavaliers,40 - 63,1,22,3,Jumper
+17,Team,OFFENSIVE_REBOUND,None,9:35,3,Jazz,Cavaliers,40 - 63,1,N/A,N/A,N/A
+18,Donovan Mitchell,FG_ASSISTED,Joe Ingles,9:33,3,Jazz,Cavaliers,40 - 65,1,5,2,Jumper
+19,Alec Burks,FOUL_ON_FLOOR,None,9:33,3,Cavaliers,Jazz,40 - 65,0,N/A,N/A,N/A
+20,Donovan Mitchell,FT,None,9:33,3,Jazz,Cavaliers,40 - 66,1,N/A,1,N/A
+21,Donovan Mitchell,FOUL_ON_FLOOR,None,9:16,3,Jazz,Cavaliers,40 - 66,1,N/A,N/A,N/A
+22,Collin Sexton,FT,None,9:16,3,Cavaliers,Jazz,41 - 66,0,N/A,1,N/A
+23,Kyle Korver,SUBSTITUTION,Mitchell Donovan,9:16,3,Jazz,Cavaliers,41 - 66,1,N/A,N/A,N/A
+24,Collin Sexton,FT,None,9:16,3,Cavaliers,Jazz,42 - 66,0,N/A,1,N/A
+25,Rudy Gobert,FG_MISS,None,9:09,3,Jazz,Cavaliers,42 - 66,1,0,2,Dunk
+26,Joe Ingles,OFFENSIVE_REBOUND,None,9:07,3,Jazz,Cavaliers,42 - 66,1,N/A,N/A,N/A
+27,Joe Ingles,TURNOVER,Rodney Hood,9:05,3,Jazz,Cavaliers,42 - 66,1,N/A,N/A,N/A
+28,Cedi Osman,FG_MISS,None,8:55,3,Cavaliers,Jazz,42 - 66,0,26,3,Jumper
+29,Royce O'Neale,DEFENSIVE_REBOUND,None,8:51,3,Jazz,Cavaliers,42 - 66,1,N/A,N/A,N/A
+30,Kyle Korver,FG_MISS,None,8:44,3,Jazz,Cavaliers,42 - 66,1,26,3,Jumper
+31,Rudy Gobert,OFFENSIVE_REBOUND,None,8:41,3,Jazz,Cavaliers,42 - 66,1,N/A,N/A,N/A
+32,Royce O'Neale,FG_ASSISTED,Rudy Gobert,8:31,3,Jazz,Cavaliers,42 - 68,1,10,2,Jumper
+33,Alec Burks,FG_UNASSISTED,None,8:13,3,Cavaliers,Jazz,44 - 68,0,6,2,Jumper
+34,Rudy Gobert,FOUL_ON_FLOOR,None,8:13,3,Jazz,Cavaliers,44 - 68,1,N/A,N/A,N/A
+35,Alec Burks,FT_MISS,None,8:13,3,Cavaliers,Jazz,44 - 68,0,N/A,1,N/A
+36,Rudy Gobert,DEFENSIVE_REBOUND,None,8:12,3,Jazz,Cavaliers,44 - 68,1,N/A,N/A,N/A
+37,Royce O'Neale,FG_ASSISTED,Joe Ingles,7:52,3,Jazz,Cavaliers,44 - 70,1,0,2,Dunk
+38,Ante Zizic,FG_MISS,Derrick Favors,7:36,3,Jazz,Cavaliers,44 - 70,0,0,2,Layup
+39,Team,OFFENSIVE_REBOUND,None,7:35,3,Cavaliers,Jazz,44 - 70,0,N/A,N/A,N/A
+40,Jae Crowder,SUBSTITUTION,Favors Derrick,7:35,3,Jazz,Cavaliers,44 - 70,1,N/A,N/A,N/A
+41,Ante Zizic,FG_ASSISTED,Alec Burks,7:26,3,Cavaliers,Jazz,46 - 70,0,6,2,Jumper
+42,Collin Sexton,FOUL_ON_FLOOR,None,7:17,3,Cavaliers,Jazz,46 - 70,0,N/A,N/A,N/A
+43,Jordan Clarkson,SUBSTITUTION,Hood Rodney,7:17,3,Cavaliers,Jazz,46 - 70,0,N/A,N/A,N/A
+44,Ante Zizic,FOUL_ON_FLOOR,None,7:09,3,Cavaliers,Jazz,46 - 70,0,N/A,N/A,N/A
+45,Rudy Gobert,FT,None,7:09,3,Jazz,Cavaliers,46 - 71,1,N/A,1,N/A
+46,Rudy Gobert,FT,None,7:09,3,Jazz,Cavaliers,46 - 72,1,N/A,1,N/A
+47,Collin Sexton,FG_MISS,None,6:59,3,Cavaliers,Jazz,46 - 72,0, ,2,Jumper
+48,Royce O'Neale,DEFENSIVE_REBOUND,None,6:57,3,Jazz,Cavaliers,46 - 72,1,N/A,N/A,N/A
+49,Rudy Gobert,FG_ASSISTED,Jae Crowder,6:46,3,Jazz,Cavaliers,46 - 74,1, ,2,Jumper
+50,Ante Zizic,FOUL_ON_FLOOR,None,6:46,3,Cavaliers,Jazz,46 - 74,0,N/A,N/A,N/A
+51,Rudy Gobert,FT,None,6:46,3,Jazz,Cavaliers,46 - 75,1,N/A,1,N/A
+52,Alec Burks,FG_MISS,None,6:24,3,Cavaliers,Jazz,46 - 75,0,10,2,Jumper
+53,Royce O'Neale,DEFENSIVE_REBOUND,None,6:22,3,Jazz,Cavaliers,46 - 75,1,N/A,N/A,N/A
+54,Rudy Gobert,FG_ASSISTED,Joe Ingles,6:04,3,Jazz,Cavaliers,46 - 77,1,0,2,Dunk
+55,Team,Unknown,None,6:04,3,Cavaliers,Jazz,46 - 77,0,N/A,N/A,N/A
+56,Matthew Dellavedova,SUBSTITUTION,Sexton Collin,6:04,3,Cavaliers,Jazz,46 - 77,0,N/A,N/A,N/A
+57,Jaron Blossomgame,SUBSTITUTION,Burks Alec,6:04,3,Cavaliers,Jazz,46 - 77,0,N/A,N/A,N/A
+58,Channing Frye,SUBSTITUTION,Osman Cedi,6:04,3,Cavaliers,Jazz,46 - 77,0,N/A,N/A,N/A
+59,Cameron Payne,SUBSTITUTION,Zizic Ante,6:04,3,Cavaliers,Jazz,46 - 77,0,N/A,N/A,N/A
+60,Channing Frye,FG_MISS,None,5:49,3,Cavaliers,Jazz,46 - 77,0,24,3,Jumper
+61,Royce O'Neale,DEFENSIVE_REBOUND,None,5:46,3,Jazz,Cavaliers,46 - 77,1,N/A,N/A,N/A
+62,Jae Crowder,FG_ASSISTED,Royce O'Neale,5:33,3,Jazz,Cavaliers,46 - 79,1,0,2,Layup
+63,Jaron Blossomgame,FOUL_ON_FLOOR,None,5:33,3,Cavaliers,Jazz,46 - 79,0,N/A,N/A,N/A
+64,Jae Crowder,FT,None,5:33,3,Jazz,Cavaliers,46 - 80,1,N/A,1,N/A
+65,Jae Crowder,FOUL_ON_FLOOR,None,5:26,3,Jazz,Cavaliers,46 - 80,1,N/A,N/A,N/A
+66,Jaron Blossomgame,FT_MISS,None,5:26,3,Cavaliers,Jazz,46 - 80,0,N/A,1,N/A
+67,Team,OFFENSIVE_REBOUND,None,5:26,3,Cavaliers,Jazz,46 - 80,0,N/A,N/A,N/A
+68,Jaron Blossomgame,FT,None,5:26,3,Cavaliers,Jazz,47 - 80,0,N/A,1,N/A
+69,Jae Crowder,FG_MISS,None,5:18,3,Jazz,Cavaliers,47 - 80,1,25,3,Jumper
+70,Rudy Gobert,OFFENSIVE_REBOUND,None,5:15,3,Jazz,Cavaliers,47 - 80,1,N/A,N/A,N/A
+71,Rudy Gobert,FG_UNASSISTED,None,5:14,3,Jazz,Cavaliers,47 - 82,1, ,2,Jumper
+72,Jordan Clarkson,FG_MISS,None,4:53,3,Cavaliers,Jazz,47 - 82,0,25,2,Jumper
+73,Jae Crowder,DEFENSIVE_REBOUND,None,4:50,3,Jazz,Cavaliers,47 - 82,1,N/A,N/A,N/A
+74,Rudy Gobert,FG_ASSISTED,Joe Ingles,4:43,3,Jazz,Cavaliers,47 - 84,1,0,2,Layup
+75,Matthew Dellavedova,FG_MISS,None,4:28,3,Cavaliers,Jazz,47 - 84,0,0,2,Layup
+76,Jae Crowder,DEFENSIVE_REBOUND,None,4:26,3,Jazz,Cavaliers,47 - 84,1,N/A,N/A,N/A
+77,Joe Ingles,TURNOVER,Channing Frye,4:18,3,Jazz,Cavaliers,47 - 84,1,N/A,N/A,N/A
+78,Cameron Payne,FG_UNASSISTED,None,4:12,3,Cavaliers,Jazz,49 - 84,0,0,2,Layup
+79,Team,Unknown,None,4:12,3,Jazz,Cavaliers,49 - 84,1,N/A,N/A,N/A
+80,Donovan Mitchell,SUBSTITUTION,Ingles Joe,4:12,3,Jazz,Cavaliers,49 - 84,1,N/A,N/A,N/A
+81,Grayson Allen,SUBSTITUTION,O'Neale Royce,4:12,3,Jazz,Cavaliers,49 - 84,1,N/A,N/A,N/A
+82,Jae Crowder,FG_ASSISTED,Rudy Gobert,3:59,3,Jazz,Cavaliers,49 - 87,1,26,3,Jumper
+83,Grayson Allen,FOUL_ON_FLOOR,None,3:42,3,Jazz,Cavaliers,49 - 87,1,N/A,N/A,N/A
+84,Channing Frye,FT,None,3:42,3,Cavaliers,Jazz,50 - 87,0,N/A,1,N/A
+85,Channing Frye,FT,None,3:42,3,Cavaliers,Jazz,51 - 87,0,N/A,1,N/A
+86,Jae Crowder,FG_MISS,None,3:32,3,Jazz,Cavaliers,51 - 87,1,26,3,Jumper
+87,Jordan Clarkson,DEFENSIVE_REBOUND,None,3:29,3,Cavaliers,Jazz,51 - 87,0,N/A,N/A,N/A
+88,Channing Frye,FG_UNASSISTED,None,3:14,3,Cavaliers,Jazz,53 - 87,0,6,2,Jumper
+89,Jae Crowder,FOUL_ON_FLOOR,None,3:14,3,Jazz,Cavaliers,53 - 87,1,N/A,N/A,N/A
+90,Derrick Favors,SUBSTITUTION,Gobert Rudy,3:14,3,Jazz,Cavaliers,53 - 87,1,N/A,N/A,N/A
+91,Channing Frye,FT_MISS,None,3:14,3,Cavaliers,Jazz,53 - 87,0,N/A,1,N/A
+92,Derrick Favors,DEFENSIVE_REBOUND,None,3:11,3,Jazz,Cavaliers,53 - 87,1,N/A,N/A,N/A
+93,Grayson Allen,FG_MISS,None,2:48,3,Jazz,Cavaliers,53 - 87,1,10,2,Jumper
+94,Jaron Blossomgame,DEFENSIVE_REBOUND,None,2:47,3,Cavaliers,Jazz,53 - 87,0,N/A,N/A,N/A
+95,Jordan Clarkson,TURNOVER,Derrick Favors,2:37,3,Cavaliers,Jazz,53 - 87,0,N/A,N/A,N/A
+96,Grayson Allen,FG_UNASSISTED,None,2:33,3,Jazz,Cavaliers,53 - 89,1,0,2,Dunk
+97,Channing Frye,TURNOVER,None,2:27,3,Cavaliers,Jazz,53 - 89,0,N/A,N/A,N/A
+98,Grayson Allen,FG_MISS,None,2:13,3,Jazz,Cavaliers,53 - 89,1,26,3,Jumper
+99,Matthew Dellavedova,DEFENSIVE_REBOUND,None,2:09,3,Cavaliers,Jazz,53 - 89,0,N/A,N/A,N/A
+100,Channing Frye,FG_MISS,None,2:02,3,Cavaliers,Jazz,53 - 89,0,25,3,Jumper
+101,Kyle Korver,DEFENSIVE_REBOUND,None,1:58,3,Jazz,Cavaliers,53 - 89,1,N/A,N/A,N/A
+102,Donovan Mitchell,FG_UNASSISTED,None,1:49,3,Jazz,Cavaliers,53 - 91,1,10,2,Jumper
+103,Jaron Blossomgame,FG_ASSISTED,Channing Frye,1:29,3,Cavaliers,Jazz,55 - 91,0,0,2,Dunk
+104,Derrick Favors,FG_MISS,None,1:09,3,Jazz,Cavaliers,55 - 91,1,3,2,Jumper
+105,Matthew Dellavedova,DEFENSIVE_REBOUND,None,1:06,3,Cavaliers,Jazz,55 - 91,0,N/A,N/A,N/A
+106,Matthew Dellavedova,FG_UNASSISTED,None,1:04,3,Cavaliers,Jazz,58 - 91,0,26,3,Jumper
+107,Donovan Mitchell,FG_MISS,None,44.8,3,Jazz,Cavaliers,58 - 91,1,18,2,Jumper
+108,Jaron Blossomgame,DEFENSIVE_REBOUND,None,40.7,3,Cavaliers,Jazz,58 - 91,0,N/A,N/A,N/A
+109,Channing Frye,FG_MISS,None,32.7,3,Cavaliers,Jazz,58 - 91,0,28,3,Jumper
+110,Donovan Mitchell,DEFENSIVE_REBOUND,None,29.7,3,Jazz,Cavaliers,58 - 91,1,N/A,N/A,N/A
+111,Jae Crowder,FG_MISS,None,8.6,3,Jazz,Cavaliers,58 - 91,1,0,2,Layup
+112,Derrick Favors,OFFENSIVE_REBOUND,None,8.1,3,Jazz,Cavaliers,58 - 91,1,N/A,N/A,N/A
+113,Derrick Favors,FG_UNASSISTED,None,8.1,3,Jazz,Cavaliers,58 - 93,1,0,2,Dunk
+114,Cameron Payne,FG_UNASSISTED,None,0.0,3,Cavaliers,Jazz,60 - 93,0,15,2,Jumper
+115,End of,Unknown,None,0.0,3,Jazz,Cavaliers,60 - 93,1,N/A,N/A,N/A
+0,Joe Ingles,SUBSTITUTION,Korver Kyle,12:00,4,Jazz,Cavaliers,60 - 93,1,N/A,N/A,N/A
+1,Georges Niang,SUBSTITUTION,Mitchell Donovan,12:00,4,Jazz,Cavaliers,60 - 93,1,N/A,N/A,N/A
+2,Royce O'Neale,SUBSTITUTION,Crowder Jae,12:00,4,Jazz,Cavaliers,60 - 93,1,N/A,N/A,N/A
+3,Ante Zizic,SUBSTITUTION,Frye Channing,12:00,4,Cavaliers,Jazz,60 - 93,0,N/A,N/A,N/A
+4,Cameron Payne,FOUL_ON_FLOOR,None,11:51,4,Cavaliers,Jazz,60 - 93,0,N/A,N/A,N/A
+5,Grayson Allen,FT,None,11:51,4,Jazz,Cavaliers,60 - 94,1,N/A,1,N/A
+6,Grayson Allen,FT,None,11:51,4,Jazz,Cavaliers,60 - 95,1,N/A,1,N/A
+7,Jaron Blossomgame,FG_ASSISTED,Matthew Dellavedova,11:33,4,Cavaliers,Jazz,62 - 95,0,0,2,Dunk
+8,Jaron Blossomgame,FOUL_ON_FLOOR,None,11:20,4,Cavaliers,Jazz,62 - 95,0,N/A,N/A,N/A
+9,Derrick Favors,FT,None,11:20,4,Jazz,Cavaliers,62 - 96,1,N/A,1,N/A
+10,Derrick Favors,FT,None,11:20,4,Jazz,Cavaliers,62 - 97,1,N/A,1,N/A
+11,Cameron Payne,FG_UNASSISTED,None,11:08,4,Cavaliers,Jazz,64 - 97,0,17,2,Jumper
+12,Royce O'Neale,TURNOVER,Ante Zizic,10:52,4,Jazz,Cavaliers,64 - 97,1,N/A,N/A,N/A
+13,Grayson Allen,FOUL_ON_FLOOR,None,10:49,4,Jazz,Cavaliers,64 - 97,1,N/A,N/A,N/A
+14,Jaron Blossomgame,FT,None,10:49,4,Cavaliers,Jazz,65 - 97,0,N/A,1,N/A
+15,Jaron Blossomgame,FT,None,10:49,4,Cavaliers,Jazz,66 - 97,0,N/A,1,N/A
+16,Georges Niang,FG_MISS,None,10:38,4,Jazz,Cavaliers,66 - 97,1, ,3,Jumper
+17,Team,DEFENSIVE_REBOUND,None,10:36,4,Cavaliers,Jazz,66 - 97,0,N/A,N/A,N/A
+18,Ante Zizic,FG_MISS,None,10:27,4,Cavaliers,Jazz,66 - 97,0,18,2,Jumper
+19,Derrick Favors,DEFENSIVE_REBOUND,None,10:23,4,Jazz,Cavaliers,66 - 97,1,N/A,N/A,N/A
+20,Derrick Favors,FG_MISS,Ante Zizic,10:18,4,Cavaliers,Jazz,66 - 97,1,0,2,Layup
+21,Ante Zizic,DEFENSIVE_REBOUND,None,10:18,4,Cavaliers,Jazz,66 - 97,0,N/A,N/A,N/A
+22,Jordan Clarkson,FG_ASSISTED,Matthew Dellavedova,10:11,4,Cavaliers,Jazz,69 - 97,0,23,3,Jumper
+23,Joe Ingles,FG_MISS,None,9:43,4,Jazz,Cavaliers,69 - 97,1,26,3,Jumper
+24,Jaron Blossomgame,DEFENSIVE_REBOUND,None,9:40,4,Cavaliers,Jazz,69 - 97,0,N/A,N/A,N/A
+25,Joe Ingles,FOUL_TECHNICAL,None,9:40,4,Jazz,Cavaliers,69 - 97,1,N/A,N/A,N/A
+26,Jordan Clarkson,FT,None,9:40,4,Cavaliers,Jazz,70 - 97,0,N/A,1,N/A
+27,Matthew Dellavedova,TURNOVER,None,9:35,4,Cavaliers,Jazz,70 - 97,0,N/A,N/A,N/A
+28,Joe Ingles,FG_UNASSISTED,None,9:24,4,Jazz,Cavaliers,70 - 99,1,5,2,Jumper
+29,Cameron Payne,FG_UNASSISTED,None,9:07,4,Cavaliers,Jazz,72 - 99,0,0,2,Layup
+30,Joe Ingles,FG_UNASSISTED,None,8:55,4,Jazz,Cavaliers,72 - 101,1,0,2,Layup
+31,Ante Zizic,FG_UNASSISTED,None,8:35,4,Cavaliers,Jazz,74 - 101,0,5,2,Jumper
+32,Jaron Blossomgame,FOUL_ON_FLOOR,None,8:17,4,Cavaliers,Jazz,74 - 101,0,N/A,N/A,N/A
+33,Naz Mitrou-Long,SUBSTITUTION,Ingles Joe,8:17,4,Jazz,Cavaliers,74 - 101,1,N/A,N/A,N/A
+34,Grayson Allen,FG_MISS,None,8:11,4,Jazz,Cavaliers,74 - 101,1,25,3,Jumper
+35,Ante Zizic,DEFENSIVE_REBOUND,None,8:09,4,Cavaliers,Jazz,74 - 101,0,N/A,N/A,N/A
+36,Ante Zizic,FG_ASSISTED,Jordan Clarkson,8:00,4,Cavaliers,Jazz,76 - 101,0,0,2,Layup
+37,Derrick Favors,FG_MISS,None,7:48,4,Jazz,Cavaliers,76 - 101,1,19,2,Jumper
+38,Ante Zizic,DEFENSIVE_REBOUND,None,7:45,4,Cavaliers,Jazz,76 - 101,0,N/A,N/A,N/A
+39,Matthew Dellavedova,FG_MISS,None,7:38,4,Cavaliers,Jazz,76 - 101,0,0,2,Layup
+40,Derrick Favors,DEFENSIVE_REBOUND,None,7:35,4,Jazz,Cavaliers,76 - 101,1,N/A,N/A,N/A
+41,Grayson Allen,TURNOVER,None,7:32,4,Jazz,Cavaliers,76 - 101,1,N/A,N/A,N/A
+42,Grayson Allen,TURNOVER,None,7:32,4,Jazz,Cavaliers,76 - 101,1,N/A,N/A,N/A
+43,Team,Unknown,None,7:32,4,Cavaliers,Jazz,76 - 101,0,N/A,N/A,N/A
+44,Ekpe Udoh,SUBSTITUTION,Favors Derrick,7:32,4,Jazz,Cavaliers,76 - 101,1,N/A,N/A,N/A
+45,Royce O'Neale,FOUL_ON_FLOOR,None,7:09,4,Jazz,Cavaliers,76 - 101,1,N/A,N/A,N/A
+46,Jordan Clarkson,FT_MISS,None,7:09,4,Cavaliers,Jazz,76 - 101,0,N/A,1,N/A
+47,Team,OFFENSIVE_REBOUND,None,7:09,4,Cavaliers,Jazz,76 - 101,0,N/A,N/A,N/A
+48,Collin Sexton,SUBSTITUTION,Dellavedova Matthew,7:09,4,Cavaliers,Jazz,76 - 101,0,N/A,N/A,N/A
+49,Jordan Clarkson,FT,None,7:09,4,Cavaliers,Jazz,77 - 101,0,N/A,1,N/A
+50,Cameron Payne,FOUL_ON_FLOOR,None,6:57,4,Cavaliers,Jazz,77 - 101,0,N/A,N/A,N/A
+51,Georges Niang,TURNOVER,Cameron Payne,6:48,4,Jazz,Cavaliers,77 - 101,1,N/A,N/A,N/A
+52,Collin Sexton,FG_MISS,None,6:40,4,Cavaliers,Jazz,77 - 101,0,1,2,Jumper
+53,Team,OFFENSIVE_REBOUND,None,6:40,4,Cavaliers,Jazz,77 - 101,0,N/A,N/A,N/A
+54,5 second,Unknown,None,6:40,4,Cavaliers,Jazz,77 - 101,0,N/A,N/A,N/A
+55,Ekpe Udoh,TURNOVER,None,6:26,4,Jazz,Cavaliers,77 - 101,1,N/A,N/A,N/A
+56,Ante Zizic,FG_ASSISTED,Cameron Payne,6:14,4,Cavaliers,Jazz,79 - 101,0,0,2,Layup
+57,Georges Niang,TURNOVER,Collin Sexton,6:00,4,Jazz,Cavaliers,79 - 101,1,N/A,N/A,N/A
+58,Ante Zizic,FG_ASSISTED,Cameron Payne,5:52,4,Cavaliers,Jazz,81 - 101,0,2,2,Jumper
+59,Royce O'Neale,FG_ASSISTED,Grayson Allen,5:36,4,Jazz,Cavaliers,81 - 104,1,23,3,Jumper
+60,Grayson Allen,FOUL_ON_FLOOR,None,5:13,4,Jazz,Cavaliers,81 - 104,1,N/A,N/A,N/A
+61,Collin Sexton,FT_MISS,None,5:13,4,Cavaliers,Jazz,81 - 104,0,N/A,1,N/A
+62,Team,OFFENSIVE_REBOUND,None,5:13,4,Cavaliers,Jazz,81 - 104,0,N/A,N/A,N/A
+63,Collin Sexton,FT,None,5:13,4,Cavaliers,Jazz,82 - 104,0,N/A,1,N/A
+64,Royce O'Neale,FG_ASSISTED,Georges Niang,4:50,4,Jazz,Cavaliers,82 - 107,1,29,3,Jumper
+65,Cameron Payne,FG_UNASSISTED,None,4:35,4,Cavaliers,Jazz,84 - 107,0,11,2,Jumper
+66,Team,Unknown,None,4:16,4,Jazz,Cavaliers,84 - 107,1,N/A,N/A,N/A
+67,Georges Niang,FG_MISS,None,4:15,4,Jazz,Cavaliers,84 - 107,1,25,3,Jumper
+68,Ante Zizic,DEFENSIVE_REBOUND,None,4:10,4,Cavaliers,Jazz,84 - 107,0,N/A,N/A,N/A
+69,Ante Zizic,FG_UNASSISTED,None,3:51,4,Cavaliers,Jazz,86 - 107,0,4,2,Jumper
+70,Georges Niang,FG_ASSISTED,Naz Mitrou-Long,3:34,4,Jazz,Cavaliers,86 - 110,1,24,3,Jumper
+71,Ante Zizic,FG_ASSISTED,Jordan Clarkson,3:09,4,Cavaliers,Jazz,88 - 110,0,0,2,Layup
+72,Grayson Allen,FG_MISS,None,2:56,4,Jazz,Cavaliers,88 - 110,1,27,2,Jumper
+73,Cameron Payne,DEFENSIVE_REBOUND,None,2:52,4,Cavaliers,Jazz,88 - 110,0,N/A,N/A,N/A
+74,Cameron Payne,FG_MISS,None,2:44,4,Cavaliers,Jazz,88 - 110,0,19,2,Jumper
+75,Team,DEFENSIVE_REBOUND,None,2:40,4,Jazz,Cavaliers,88 - 110,1,N/A,N/A,N/A
+76,Tyler Cavanaugh,SUBSTITUTION,O'Neale Royce,2:40,4,Jazz,Cavaliers,88 - 110,1,N/A,N/A,N/A
+77,Tyler Cavanaugh,FG_ASSISTED,Naz Mitrou-Long,2:16,4,Jazz,Cavaliers,88 - 112,1,0,2,Layup
+78,Collin Sexton,TURNOVER,None,2:09,4,Cavaliers,Jazz,88 - 112,0,N/A,N/A,N/A
+79,Ekpe Udoh,FG_MISS,None,1:51,4,Jazz,Cavaliers,88 - 112,1,0,2,Layup
+80,Ante Zizic,DEFENSIVE_REBOUND,None,1:50,4,Cavaliers,Jazz,88 - 112,0,N/A,N/A,N/A
+81,Collin Sexton,FG_UNASSISTED,None,1:42,4,Cavaliers,Jazz,91 - 112,0,26,3,Jumper
+82,Tyler Cavanaugh,FG_MISS,None,1:25,4,Jazz,Cavaliers,91 - 112,1,23,3,Jumper
+83,Cameron Payne,DEFENSIVE_REBOUND,None,1:20,4,Cavaliers,Jazz,91 - 112,0,N/A,N/A,N/A
+84,Jordan Clarkson,FG_ASSISTED,Cameron Payne,1:17,4,Cavaliers,Jazz,94 - 112,0,25,3,Jumper
+85,Tyler Cavanaugh,FG_MISS,None,1:00,4,Jazz,Cavaliers,94 - 112,1,0,2,Layup
+86,Ekpe Udoh,OFFENSIVE_REBOUND,None,57.5,4,Jazz,Cavaliers,94 - 112,1,N/A,N/A,N/A
+87,Ekpe Udoh,FG_MISS,None,57.5,4,Jazz,Cavaliers,94 - 112,1,1,2,Jumper
+88,Ante Zizic,DEFENSIVE_REBOUND,None,57.0,4,Cavaliers,Jazz,94 - 112,0,N/A,N/A,N/A
+89,Jaron Blossomgame,FG_ASSISTED,Collin Sexton,36.2,4,Cavaliers,Jazz,96 - 112,0,4,2,Jumper
+90,Georges Niang,FG_UNASSISTED,None,19.4,4,Jazz,Cavaliers,96 - 115,1,25,3,Jumper
+91,Collin Sexton,FG_UNASSISTED,None,3.6,4,Cavaliers,Jazz,99 - 115,0,25,3,Jumper
+92,End of,Unknown,None,0.0,4,Jazz,Cavaliers,99 - 115,1,N/A,N/A,N/A
+93,End of,Unknown,None,0.0,4,Jazz,Cavaliers,99 - 115,1,N/A,N/A,N/A

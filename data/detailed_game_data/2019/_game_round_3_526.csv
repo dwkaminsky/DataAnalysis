@@ -1,0 +1,422 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Rudy Gobert,JUMP_BALL,None,12:00,1,Hornets,Jazz,0 - 0,1,N/A,N/A,N/A
+1,Kemba Walker,TURNOVER,Joe Ingles,11:43,1,Hornets,Jazz,0 - 0,1,N/A,N/A,N/A
+2,Donovan Mitchell,FG_MISS,None,11:38,1,Jazz,Hornets,0 - 0,0,-,2,Jumper
+3,Rudy Gobert,OFFENSIVE_REBOUND,None,11:34,1,Jazz,Hornets,0 - 0,0,N/A,N/A,N/A
+4,Rudy Gobert,FG_UNASSISTED,None,11:33,1,Jazz,Hornets,2 - 0,0,6,2,Jumper
+5,Marvin Williams,FG_MISS,None,11:21,1,Hornets,Jazz,2 - 0,1,28,3,Jumper
+6,Team,OFFENSIVE_REBOUND,None,11:21,1,Hornets,Jazz,2 - 0,1,N/A,N/A,N/A
+7,Joe Ingles,FOUL_ON_FLOOR,None,11:20,1,Jazz,Hornets,2 - 0,0,N/A,N/A,N/A
+8,Kemba Walker,FG_MISS,None,11:04,1,Hornets,Jazz,2 - 0,1,19,2,Jumper
+9,Rudy Gobert,DEFENSIVE_REBOUND,None,11:01,1,Jazz,Hornets,2 - 0,0,N/A,N/A,N/A
+10,Derrick Favors,FG_ASSISTED,Ricky Rubio,10:57,1,Jazz,Hornets,4 - 0,0,0,2,Layup
+11,Jeremy Lamb,FOUL_ON_FLOOR,None,10:57,1,Hornets,Jazz,4 - 0,1,N/A,N/A,N/A
+12,Derrick Favors,FT,None,10:57,1,Jazz,Hornets,5 - 0,0,N/A,1,N/A
+13,Kemba Walker,FG_UNASSISTED,None,10:46,1,Hornets,Jazz,5 - 2,1,0,2,Layup
+14,Ricky Rubio,FG_ASSISTED,Donovan Mitchell,10:27,1,Jazz,Hornets,7 - 2,0,0,2,Layup
+15,Marvin Williams,FG_MISS,None,10:14,1,Hornets,Jazz,7 - 2,1,23,3,Jumper
+16,Rudy Gobert,DEFENSIVE_REBOUND,None,10:12,1,Jazz,Hornets,7 - 2,0,N/A,N/A,N/A
+17,Donovan Mitchell,FG_UNASSISTED,None,9:58,1,Jazz,Hornets,9 - 2,0,19,2,Jumper
+18,Cody Zeller,FG_MISS,None,9:40,1,Hornets,Jazz,9 - 2,1,0,2,Layup
+19,Derrick Favors,DEFENSIVE_REBOUND,None,9:40,1,Jazz,Hornets,9 - 2,0,N/A,N/A,N/A
+20,Donovan Mitchell,FG_ASSISTED,Ricky Rubio,9:36,1,Jazz,Hornets,11 - 2,0,0,2,Dunk
+21,Team,Unknown,None,9:36,1,Hornets,Jazz,11 - 2,1,N/A,N/A,N/A
+22,Jeremy Lamb,FG_MISS,None,9:26,1,Hornets,Jazz,11 - 2,1,15,2,Jumper
+23,Donovan Mitchell,DEFENSIVE_REBOUND,None,9:24,1,Jazz,Hornets,11 - 2,0,N/A,N/A,N/A
+24,Joe Ingles,FG_MISS,None,9:14,1,Jazz,Hornets,11 - 2,0,23,2,Jumper
+25,Nicolas Batum,DEFENSIVE_REBOUND,None,9:11,1,Hornets,Jazz,11 - 2,1,N/A,N/A,N/A
+26,Cody Zeller,FG_MISS,Rudy Gobert,8:58,1,Jazz,Hornets,11 - 2,1,0,2,Layup
+27,Team,OFFENSIVE_REBOUND,None,8:58,1,Hornets,Jazz,11 - 2,1,N/A,N/A,N/A
+28,Jeremy Lamb,FG_ASSISTED,Kemba Walker,8:51,1,Hornets,Jazz,11 - 5,1,30,3,Jumper
+29,Kemba Walker,FOUL_ON_FLOOR,None,8:33,1,Hornets,Jazz,11 - 5,1,N/A,N/A,N/A
+30,Donovan Mitchell,FT,None,8:33,1,Jazz,Hornets,12 - 5,0,N/A,1,N/A
+31,Donovan Mitchell,FT,None,8:33,1,Jazz,Hornets,13 - 5,0,N/A,1,N/A
+32,Donovan Mitchell,FT,None,8:33,1,Jazz,Hornets,14 - 5,0,N/A,1,N/A
+33,Kemba Walker,FG_UNASSISTED,None,8:20,1,Hornets,Jazz,14 - 7,1,-,2,Jumper
+34,Donovan Mitchell,FG_MISS,Cody Zeller,8:06,1,Hornets,Jazz,14 - 7,0,12,2,Jumper
+35,Kemba Walker,DEFENSIVE_REBOUND,None,8:03,1,Hornets,Jazz,14 - 7,1,N/A,N/A,N/A
+36,Joe Ingles,FOUL_ON_FLOOR,None,8:00,1,Jazz,Hornets,14 - 7,0,N/A,N/A,N/A
+37,Kemba Walker,FT_MISS,None,8:00,1,Hornets,Jazz,14 - 7,1,N/A,1,N/A
+38,Team,OFFENSIVE_REBOUND,None,8:00,1,Hornets,Jazz,14 - 7,1,N/A,N/A,N/A
+39,Kemba Walker,FT_MISS,None,8:00,1,Hornets,Jazz,14 - 7,1,N/A,1,N/A
+40,Team,OFFENSIVE_REBOUND,None,8:00,1,Hornets,Jazz,14 - 7,1,N/A,N/A,N/A
+41,Royce O'Neale,SUBSTITUTION,Ingles Joe,8:00,1,Jazz,Hornets,14 - 7,0,N/A,N/A,N/A
+42,Kemba Walker,FT_MISS,None,8:00,1,Hornets,Jazz,14 - 7,1,N/A,1,N/A
+43,Rudy Gobert,DEFENSIVE_REBOUND,None,7:55,1,Jazz,Hornets,14 - 7,0,N/A,N/A,N/A
+44,Ricky Rubio,TURNOVER,None,7:49,1,Jazz,Hornets,14 - 7,0,N/A,N/A,N/A
+45,Kemba Walker,FG_MISS,None,7:41,1,Hornets,Jazz,14 - 7,1,26,3,Jumper
+46,Donovan Mitchell,DEFENSIVE_REBOUND,None,7:38,1,Jazz,Hornets,14 - 7,0,N/A,N/A,N/A
+47,Ricky Rubio,TURNOVER,None,7:32,1,Jazz,Hornets,14 - 7,0,N/A,N/A,N/A
+48,Nicolas Batum,FG_UNASSISTED,None,7:16,1,Hornets,Jazz,14 - 9,1,15,2,Jumper
+49,Donovan Mitchell,FG_ASSISTED,Derrick Favors,6:57,1,Jazz,Hornets,17 - 9,0,27,3,Jumper
+50,Nicolas Batum,FG_MISS,None,6:40,1,Hornets,Jazz,17 - 9,1,15,2,Jumper
+51,Donovan Mitchell,DEFENSIVE_REBOUND,None,6:38,1,Jazz,Hornets,17 - 9,0,N/A,N/A,N/A
+52,Ricky Rubio,FG_MISS,None,6:33,1,Jazz,Hornets,17 - 9,0,25,3,Jumper
+53,Marvin Williams,DEFENSIVE_REBOUND,None,6:31,1,Hornets,Jazz,17 - 9,1,N/A,N/A,N/A
+54,Cody Zeller,FOUL_ON_FLOOR,None,6:24,1,Hornets,Jazz,17 - 9,1,N/A,N/A,N/A
+55,Cody Zeller,TURNOVER,None,6:24,1,Hornets,Jazz,17 - 9,1,N/A,N/A,N/A
+56,Tony Parker,SUBSTITUTION,Williams Marvin,6:24,1,Hornets,Jazz,17 - 9,1,N/A,N/A,N/A
+57,Michael Kidd-Gilchrist,SUBSTITUTION,Batum Nicolas,6:24,1,Hornets,Jazz,17 - 9,1,N/A,N/A,N/A
+58,Jae Crowder,SUBSTITUTION,Favors Derrick,6:24,1,Jazz,Hornets,17 - 9,0,N/A,N/A,N/A
+59,Rudy Gobert,FG_ASSISTED,Jae Crowder,6:10,1,Jazz,Hornets,19 - 9,0,0,2,Dunk
+60,Jeremy Lamb,FG_MISS,None,5:50,1,Hornets,Jazz,19 - 9,1,0,2,Layup
+61,Cody Zeller,OFFENSIVE_REBOUND,None,5:48,1,Hornets,Jazz,19 - 9,1,N/A,N/A,N/A
+62,Tony Parker,FG_MISS,None,5:40,1,Hornets,Jazz,19 - 9,1,13,2,Jumper
+63,Royce O'Neale,DEFENSIVE_REBOUND,None,5:36,1,Jazz,Hornets,19 - 9,0,N/A,N/A,N/A
+64,Ricky Rubio,FG_MISS,None,5:24,1,Jazz,Hornets,19 - 9,0,24,3,Jumper
+65,Cody Zeller,DEFENSIVE_REBOUND,None,5:21,1,Hornets,Jazz,19 - 9,1,N/A,N/A,N/A
+66,Jeremy Lamb,FG_UNASSISTED,None,5:16,1,Hornets,Jazz,19 - 11,1, ,2,Jumper
+67,Jae Crowder,FG_MISS,None,5:02,1,Jazz,Hornets,19 - 11,0,25,3,Jumper
+68,Kemba Walker,DEFENSIVE_REBOUND,None,4:59,1,Hornets,Jazz,19 - 11,1,N/A,N/A,N/A
+69,Tony Parker,FG_UNASSISTED,None,4:54,1,Hornets,Jazz,19 - 13,1, ,2,Jumper
+70,Team,Unknown,None,4:54,1,Jazz,Hornets,19 - 13,0,N/A,N/A,N/A
+71,Frank Kaminsky,SUBSTITUTION,Zeller Cody,4:54,1,Hornets,Jazz,19 - 13,1,N/A,N/A,N/A
+72,Kyle Korver,SUBSTITUTION,Mitchell Donovan,4:54,1,Jazz,Hornets,19 - 13,0,N/A,N/A,N/A
+73,Kyle Korver,FG_ASSISTED,Rudy Gobert,4:42,1,Jazz,Hornets,22 - 13,0,26,3,Jumper
+74,Frank Kaminsky,FG_MISS,None,4:23,1,Hornets,Jazz,22 - 13,1,17,2,Jumper
+75,Jae Crowder,DEFENSIVE_REBOUND,None,4:20,1,Jazz,Hornets,22 - 13,0,N/A,N/A,N/A
+76,Rudy Gobert,FG_MISS,None,4:14,1,Jazz,Hornets,22 - 13,0,3,2,Jumper
+77,Frank Kaminsky,DEFENSIVE_REBOUND,None,4:12,1,Hornets,Jazz,22 - 13,1,N/A,N/A,N/A
+78,Tony Parker,FG_MISS,None,4:04,1,Hornets,Jazz,22 - 13,1, ,2,Jumper
+79,Ricky Rubio,DEFENSIVE_REBOUND,None,4:02,1,Jazz,Hornets,22 - 13,0,N/A,N/A,N/A
+80,Ricky Rubio,FG_MISS,None,3:56,1,Jazz,Hornets,22 - 13,0,21,2,Jumper
+81,Kemba Walker,DEFENSIVE_REBOUND,None,3:51,1,Hornets,Jazz,22 - 13,1,N/A,N/A,N/A
+82,Ricky Rubio,FOUL_ON_FLOOR,None,3:50,1,Jazz,Hornets,22 - 13,0,N/A,N/A,N/A
+83,Malik Monk,SUBSTITUTION,Lamb Jeremy,3:50,1,Hornets,Jazz,22 - 13,1,N/A,N/A,N/A
+84,Raul Neto,SUBSTITUTION,Rubio Ricky,3:50,1,Jazz,Hornets,22 - 13,0,N/A,N/A,N/A
+85,Frank Kaminsky,FG_MISS,None,3:39,1,Hornets,Jazz,22 - 13,1,25,3,Jumper
+86,Rudy Gobert,DEFENSIVE_REBOUND,None,3:36,1,Jazz,Hornets,22 - 13,0,N/A,N/A,N/A
+87,Raul Neto,FG_ASSISTED,Jae Crowder,3:17,1,Jazz,Hornets,25 - 13,0,26,3,Jumper
+88,Kemba Walker,FG_UNASSISTED,None,2:59,1,Hornets,Jazz,25 - 15,1, ,2,Jumper
+89,Raul Neto,TURNOVER,Kemba Walker,2:46,1,Jazz,Hornets,25 - 15,0,N/A,N/A,N/A
+90,Michael Kidd-Gilchrist,FG_UNASSISTED,None,2:42,1,Hornets,Jazz,25 - 17,1,0,2,Layup
+91,Jae Crowder,FG_MISS,None,2:24,1,Jazz,Hornets,25 - 17,0,26,3,Jumper
+92,Frank Kaminsky,DEFENSIVE_REBOUND,None,2:21,1,Hornets,Jazz,25 - 17,1,N/A,N/A,N/A
+93,Michael Kidd-Gilchrist,FG_MISS,None,2:13,1,Hornets,Jazz,25 - 17,1, ,2,Jumper
+94,Royce O'Neale,DEFENSIVE_REBOUND,None,2:09,1,Jazz,Hornets,25 - 17,0,N/A,N/A,N/A
+95,Jae Crowder,FG_ASSISTED,Raul Neto,2:02,1,Jazz,Hornets,27 - 17,0,0,2,Layup
+96,Malik Monk,FG_UNASSISTED,None,1:37,1,Hornets,Jazz,27 - 19,1,10,2,Jumper
+97,Jae Crowder,TURNOVER,Frank Kaminsky,1:19,1,Jazz,Hornets,27 - 19,0,N/A,N/A,N/A
+98,Malik Monk,FG_MISS,None,1:06,1,Hornets,Jazz,27 - 19,1,23,3,Jumper
+99,Rudy Gobert,DEFENSIVE_REBOUND,None,1:04,1,Jazz,Hornets,27 - 19,0,N/A,N/A,N/A
+100,Malik Monk,FOUL_ON_FLOOR,None,59.3,1,Hornets,Jazz,27 - 19,1,N/A,N/A,N/A
+101,Nicolas Batum,SUBSTITUTION,Walker Kemba,59.3,1,Hornets,Jazz,27 - 19,1,N/A,N/A,N/A
+102,Donovan Mitchell,SUBSTITUTION,O'Neale Royce,59.3,1,Jazz,Hornets,27 - 19,0,N/A,N/A,N/A
+103,Derrick Favors,SUBSTITUTION,Gobert Rudy,59.3,1,Jazz,Hornets,27 - 19,0,N/A,N/A,N/A
+104,Jae Crowder,FG_ASSISTED,Donovan Mitchell,51.4,1,Jazz,Hornets,30 - 19,0,25,3,Jumper
+105,Malik Monk,FG_MISS,None,40.4,1,Hornets,Jazz,30 - 19,1,0,2,Layup
+106,Team,DEFENSIVE_REBOUND,None,40.4,1,Jazz,Hornets,30 - 19,0,N/A,N/A,N/A
+107,Jae Crowder,FG_ASSISTED,Raul Neto,28.9,1,Jazz,Hornets,33 - 19,0,27,2,Jumper
+108,Malik Monk,FG_MISS,None,9.7,1,Hornets,Jazz,33 - 19,1,26,3,Jumper
+109,Derrick Favors,DEFENSIVE_REBOUND,None,6.0,1,Jazz,Hornets,33 - 19,0,N/A,N/A,N/A
+110,Kyle Korver,FG_MISS,None,0.9,1,Jazz,Hornets,33 - 19,0,32,3,Jumper
+111,Team,OFFENSIVE_REBOUND,None,0.9,1,Jazz,Hornets,33 - 19,0,N/A,N/A,N/A
+112,End of,Unknown,None,0.0,1,Hornets,Jazz,33 - 19,1,N/A,N/A,N/A
+0,Miles Bridges,SUBSTITUTION,Kidd-Gilchrist Michael,12:00,2,Hornets,Jazz,33 - 19,1,N/A,N/A,N/A
+1,Marvin Williams,SUBSTITUTION,Kaminsky Frank,12:00,2,Hornets,Jazz,33 - 19,1,N/A,N/A,N/A
+2,Donovan Mitchell,FG_MISS,None,11:47,2,Jazz,Hornets,33 - 19,0,0,2,Layup
+3,Derrick Favors,OFFENSIVE_REBOUND,None,11:47,2,Jazz,Hornets,33 - 19,0,N/A,N/A,N/A
+4,Derrick Favors,FG_MISS,None,11:46,2,Jazz,Hornets,33 - 19,0,0,2,Layup
+5,Derrick Favors,OFFENSIVE_REBOUND,None,11:46,2,Jazz,Hornets,33 - 19,0,N/A,N/A,N/A
+6,Derrick Favors,FG_UNASSISTED,None,11:45,2,Jazz,Hornets,35 - 19,0, ,2,Jumper
+7,Nicolas Batum,FG_UNASSISTED,None,11:26,2,Hornets,Jazz,35 - 21,1, ,2,Jumper
+8,Donovan Mitchell,FG_MISS,None,11:15,2,Jazz,Hornets,35 - 21,0,29,3,Jumper
+9,Marvin Williams,DEFENSIVE_REBOUND,None,11:15,2,Hornets,Jazz,35 - 21,1,N/A,N/A,N/A
+10,Malik Monk,FOUL_ON_FLOOR,None,11:03,2,Hornets,Jazz,35 - 21,1,N/A,N/A,N/A
+11,Malik Monk,TURNOVER,None,11:03,2,Hornets,Jazz,35 - 21,1,N/A,N/A,N/A
+12,Donovan Mitchell,FG_MISS,None,10:45,2,Jazz,Hornets,35 - 21,0,26,3,Jumper
+13,Miles Bridges,DEFENSIVE_REBOUND,None,10:40,2,Hornets,Jazz,35 - 21,1,N/A,N/A,N/A
+14,Marvin Williams,FG_ASSISTED,Miles Bridges,10:26,2,Hornets,Jazz,35 - 23,1,11,2,Jumper
+15,Jae Crowder,FG_MISS,None,10:11,2,Jazz,Hornets,35 - 23,0,15,2,Jumper
+16,Marvin Williams,DEFENSIVE_REBOUND,None,10:09,2,Hornets,Jazz,35 - 23,1,N/A,N/A,N/A
+17,Raul Neto,FOUL_ON_FLOOR,None,10:06,2,Jazz,Hornets,35 - 23,0,N/A,N/A,N/A
+18,Tony Parker,FT,None,10:06,2,Hornets,Jazz,35 - 24,1,N/A,1,N/A
+19,Jeremy Lamb,SUBSTITUTION,Monk Malik,10:06,2,Hornets,Jazz,35 - 24,1,N/A,N/A,N/A
+20,Thabo Sefolosha,SUBSTITUTION,Neto Raul,10:06,2,Jazz,Hornets,35 - 24,0,N/A,N/A,N/A
+21,Joe Ingles,SUBSTITUTION,Crowder Jae,10:06,2,Jazz,Hornets,35 - 24,0,N/A,N/A,N/A
+22,Tony Parker,FT,None,10:06,2,Hornets,Jazz,35 - 25,1,N/A,1,N/A
+23,Donovan Mitchell,FG_MISS,None,9:42,2,Jazz,Hornets,35 - 25,0, ,2,Jumper
+24,Marvin Williams,DEFENSIVE_REBOUND,None,9:39,2,Hornets,Jazz,35 - 25,1,N/A,N/A,N/A
+25,Jeremy Lamb,FG_UNASSISTED,None,9:18,2,Hornets,Jazz,35 - 27,1,0,2,Layup
+26,Thabo Sefolosha,TURNOVER,Jeremy Lamb,8:55,2,Jazz,Hornets,35 - 27,0,N/A,N/A,N/A
+27,Joe Ingles,FOUL_ON_FLOOR,None,8:53,2,Jazz,Hornets,35 - 27,0,N/A,N/A,N/A
+28,Royce O'Neale,SUBSTITUTION,Ingles Joe,8:53,2,Jazz,Hornets,35 - 27,0,N/A,N/A,N/A
+29,Miles Bridges,FG_ASSISTED,Tony Parker,8:44,2,Hornets,Jazz,35 - 30,1,26,3,Jumper
+30,Donovan Mitchell,FG_UNASSISTED,None,8:23,2,Jazz,Hornets,37 - 30,0,12,2,Jumper
+31,Marvin Williams,FG_ASSISTED,Tony Parker,8:10,2,Hornets,Jazz,37 - 33,1,25,3,Jumper
+32,Team,Unknown,None,8:00,2,Jazz,Hornets,37 - 33,0,N/A,N/A,N/A
+33,Rudy Gobert,SUBSTITUTION,Favors Derrick,8:00,2,Jazz,Hornets,37 - 33,0,N/A,N/A,N/A
+34,Ricky Rubio,SUBSTITUTION,Mitchell Donovan,8:00,2,Jazz,Hornets,37 - 33,0,N/A,N/A,N/A
+35,Kyle Korver,FG_ASSISTED,Ricky Rubio,7:45,2,Jazz,Hornets,40 - 33,0,25,3,Jumper
+36,Marvin Williams,FG_MISS,None,7:32,2,Hornets,Jazz,40 - 33,1,26,3,Jumper
+37,Kyle Korver,DEFENSIVE_REBOUND,None,7:30,2,Jazz,Hornets,40 - 33,0,N/A,N/A,N/A
+38,Ricky Rubio,FG_MISS,None,7:12,2,Jazz,Hornets,40 - 33,0,16,2,Jumper
+39,Tony Parker,DEFENSIVE_REBOUND,None,7:05,2,Hornets,Jazz,40 - 33,1,N/A,N/A,N/A
+40,Tony Parker,FG_MISS,Kyle Korver,7:03,2,Jazz,Hornets,40 - 33,1,0,2,Layup
+41,Team,OFFENSIVE_REBOUND,None,7:03,2,Hornets,Jazz,40 - 33,1,N/A,N/A,N/A
+42,Kemba Walker,SUBSTITUTION,Parker Tony,7:03,2,Hornets,Jazz,40 - 33,1,N/A,N/A,N/A
+43,Jae Crowder,SUBSTITUTION,Sefolosha Thabo,7:03,2,Jazz,Hornets,40 - 33,0,N/A,N/A,N/A
+44,Marvin Williams's,FG_MISS,Rudy Gobert,6:55,2,Jazz,Hornets,40 - 33,1,0,2,Layup
+45,Marvin Williams,OFFENSIVE_REBOUND,None,6:51,2,Hornets,Jazz,40 - 33,1,N/A,N/A,N/A
+46,Miles Bridges,FG_ASSISTED,Marvin Williams,6:49,2,Hornets,Jazz,40 - 35,1,0,2,Dunk
+47,Rudy Gobert,FG_UNASSISTED,None,6:38,2,Jazz,Hornets,42 - 35,0,0,2,Dunk
+48,Marvin Williams,FG_ASSISTED,Kemba Walker,6:29,2,Hornets,Jazz,42 - 38,1,25,3,Jumper
+49,Kyle Korver,TURNOVER,None,6:07,2,Jazz,Hornets,42 - 38,0,N/A,N/A,N/A
+50,Jeremy Lamb,FG_MISS,None,5:55,2,Hornets,Jazz,42 - 38,1,25,3,Jumper
+51,Royce O'Neale,DEFENSIVE_REBOUND,None,5:51,2,Jazz,Hornets,42 - 38,0,N/A,N/A,N/A
+52,Royce O'Neale,FG_MISS,None,5:47,2,Jazz,Hornets,42 - 38,0,0,2,Layup
+53,Rudy Gobert,OFFENSIVE_REBOUND,None,5:38,2,Jazz,Hornets,42 - 38,0,N/A,N/A,N/A
+54,Rudy Gobert,FG_UNASSISTED,None,5:38,2,Jazz,Hornets,44 - 38,0, ,2,Jumper
+55,Miles Bridges,FG_MISS,Rudy Gobert,5:29,2,Jazz,Hornets,44 - 38,1,0,2,Layup
+56,Miles Bridges,OFFENSIVE_REBOUND,None,5:20,2,Hornets,Jazz,44 - 38,1,N/A,N/A,N/A
+57,Miles Bridges,FG_UNASSISTED,None,5:20,2,Hornets,Jazz,44 - 40,1, ,2,Jumper
+58,Royce O'Neale,FG_ASSISTED,Jae Crowder,5:15,2,Jazz,Hornets,47 - 40,0,25,3,Jumper
+59,Miles Bridges,FG_MISS,None,4:54,2,Hornets,Jazz,47 - 40,1, ,3,Jumper
+60,Rudy Gobert,DEFENSIVE_REBOUND,None,4:51,2,Jazz,Hornets,47 - 40,0,N/A,N/A,N/A
+61,Ricky Rubio,FG_UNASSISTED,None,4:45,2,Jazz,Hornets,49 - 40,0, ,2,Jumper
+62,Team,Unknown,None,4:45,2,Hornets,Jazz,49 - 40,1,N/A,N/A,N/A
+63,Frank Kaminsky,SUBSTITUTION,Bridges Miles,4:45,2,Hornets,Jazz,49 - 40,1,N/A,N/A,N/A
+64,Michael Kidd-Gilchrist,SUBSTITUTION,Williams Marvin,4:45,2,Hornets,Jazz,49 - 40,1,N/A,N/A,N/A
+65,Tony Parker,SUBSTITUTION,Batum Nicolas,4:45,2,Hornets,Jazz,49 - 40,1,N/A,N/A,N/A
+66,Donovan Mitchell,SUBSTITUTION,Korver Kyle,4:45,2,Jazz,Hornets,49 - 40,0,N/A,N/A,N/A
+67,Kemba Walker,FG_ASSISTED,Tony Parker,4:29,2,Hornets,Jazz,49 - 42,1,12,2,Jumper
+68,Rudy Gobert,TURNOVER,None,4:06,2,Jazz,Hornets,49 - 42,0,N/A,N/A,N/A
+69,Tony Parker,FG_UNASSISTED,None,3:52,2,Hornets,Jazz,49 - 44,1,0,2,Layup
+70,Rudy Gobert,FG_ASSISTED,Ricky Rubio,3:40,2,Jazz,Hornets,51 - 44,0,0,2,Dunk
+71,Tony Parker,FG_UNASSISTED,None,3:21,2,Hornets,Jazz,51 - 46,1,0,2,Layup
+72,Royce O'Neale,FG_MISS,None,2:55,2,Jazz,Hornets,51 - 46,0,24,3,Jumper
+73,Jeremy Lamb,DEFENSIVE_REBOUND,None,2:50,2,Hornets,Jazz,51 - 46,1,N/A,N/A,N/A
+74,Kemba Walker,FG_UNASSISTED,None,2:45,2,Hornets,Jazz,51 - 48,1,0,2,Layup
+75,Ricky Rubio,FG_ASSISTED,Donovan Mitchell,2:24,2,Jazz,Hornets,54 - 48,0,25,3,Jumper
+76,Tony Parker,FG_MISS,None,2:00,2,Hornets,Jazz,54 - 48,1,8,2,Jumper
+77,Rudy Gobert,DEFENSIVE_REBOUND,None,1:58,2,Jazz,Hornets,54 - 48,0,N/A,N/A,N/A
+78,Ricky Rubio,FG_ASSISTED,Jae Crowder,1:55,2,Jazz,Hornets,57 - 48,0,26,3,Jumper
+79,Kemba Walker,FG_MISS,None,1:35,2,Hornets,Jazz,57 - 48,1,23,2,Jumper
+80,Frank Kaminsky,OFFENSIVE_REBOUND,None,1:31,2,Hornets,Jazz,57 - 48,1,N/A,N/A,N/A
+81,Kemba Walker,FG_ASSISTED,Frank Kaminsky,1:25,2,Hornets,Jazz,57 - 50,1, ,2,Jumper
+82,Jae Crowder,FG_MISS,None,1:09,2,Jazz,Hornets,57 - 50,0,23,3,Jumper
+83,Jeremy Lamb,DEFENSIVE_REBOUND,None,1:07,2,Hornets,Jazz,57 - 50,1,N/A,N/A,N/A
+84,Tony Parker,FG_MISS,None,58.5,2,Hornets,Jazz,57 - 50,1,0,2,Layup
+85,Rudy Gobert,DEFENSIVE_REBOUND,None,56.1,2,Jazz,Hornets,57 - 50,0,N/A,N/A,N/A
+86,Ricky Rubio,FG_MISS,None,50.9,2,Jazz,Hornets,57 - 50,0,27,3,Jumper
+87,Team,DEFENSIVE_REBOUND,None,49.2,2,Hornets,Jazz,57 - 50,1,N/A,N/A,N/A
+88,Rudy Gobert,FOUL_ON_FLOOR,None,49.2,2,Jazz,Hornets,57 - 50,0,N/A,N/A,N/A
+89,Marvin Williams,SUBSTITUTION,Kaminsky Frank,49.2,2,Hornets,Jazz,57 - 50,1,N/A,N/A,N/A
+90,Kemba Walker,FG_UNASSISTED,None,40.6,2,Hornets,Jazz,57 - 53,1,26,3,Jumper
+91,Royce O'Neale,FG_MISS,None,30.3,2,Jazz,Hornets,57 - 53,0,26,3,Jumper
+92,Kemba Walker,DEFENSIVE_REBOUND,None,26.6,2,Hornets,Jazz,57 - 53,1,N/A,N/A,N/A
+93,Tony Parker,FG_MISS,None,7.3,2,Hornets,Jazz,57 - 53,1,25,3,Jumper
+94,Marvin Williams,OFFENSIVE_REBOUND,None,3.7,2,Hornets,Jazz,57 - 53,1,N/A,N/A,N/A
+95,Marvin Williams,FG_MISS,None,2.8,2,Hornets,Jazz,57 - 53,1,0,2,Layup
+96,Rudy Gobert,DEFENSIVE_REBOUND,None,0.2,2,Jazz,Hornets,57 - 53,0,N/A,N/A,N/A
+97,Royce O'Neale,FG_MISS,None,0.0,2,Jazz,Hornets,57 - 53,0,30,3,Jumper
+98,Team,OFFENSIVE_REBOUND,None,0.0,2,Jazz,Hornets,57 - 53,0,N/A,N/A,N/A
+99,End of,Unknown,None,0.0,2,Hornets,Jazz,57 - 53,1,N/A,N/A,N/A
+0,Frank Kaminsky,SUBSTITUTION,Parker Tony,12:00,3,Hornets,Jazz,57 - 53,1,N/A,N/A,N/A
+1,Nicolas Batum,SUBSTITUTION,Kidd-Gilchrist Michael,12:00,3,Hornets,Jazz,57 - 53,1,N/A,N/A,N/A
+2,Derrick Favors,SUBSTITUTION,O'Neale Royce,12:00,3,Jazz,Hornets,57 - 53,0,N/A,N/A,N/A
+3,Joe Ingles,SUBSTITUTION,Crowder Jae,12:00,3,Jazz,Hornets,57 - 53,0,N/A,N/A,N/A
+4,Donovan Mitchell,TURNOVER,Jeremy Lamb,11:46,3,Jazz,Hornets,57 - 53,0,N/A,N/A,N/A
+5,Nicolas Batum,FG_ASSISTED,Kemba Walker,11:43,3,Hornets,Jazz,57 - 55,1, ,2,Jumper
+6,Donovan Mitchell,FG_ASSISTED,Joe Ingles,11:23,3,Jazz,Hornets,59 - 55,0,14,2,Jumper
+7,Kemba Walker,FG_MISS,None,11:10,3,Hornets,Jazz,59 - 55,1,26,3,Jumper
+8,Donovan Mitchell,DEFENSIVE_REBOUND,None,11:06,3,Jazz,Hornets,59 - 55,0,N/A,N/A,N/A
+9,Rudy Gobert,FG_MISS,None,10:51,3,Jazz,Hornets,59 - 55,0,7,2,Jumper
+10,Marvin Williams,DEFENSIVE_REBOUND,None,10:48,3,Hornets,Jazz,59 - 55,1,N/A,N/A,N/A
+11,Jeremy Lamb,FG_UNASSISTED,None,10:42,3,Hornets,Jazz,59 - 57,1,0,2,Dunk
+12,Donovan Mitchell,FG_MISS,Jeremy Lamb,10:21,3,Hornets,Jazz,59 - 57,0,0,2,Layup
+13,Nicolas Batum,DEFENSIVE_REBOUND,None,10:18,3,Hornets,Jazz,59 - 57,1,N/A,N/A,N/A
+14,Frank Kaminsky,FG_MISS,None,10:14,3,Hornets,Jazz,59 - 57,1,26,3,Jumper
+15,Jeremy Lamb,OFFENSIVE_REBOUND,None,10:09,3,Hornets,Jazz,59 - 57,1,N/A,N/A,N/A
+16,Marvin Williams,TURNOVER,None,10:00,3,Hornets,Jazz,59 - 57,1,N/A,N/A,N/A
+17,Donovan Mitchell,FG_ASSISTED,Joe Ingles,9:44,3,Jazz,Hornets,61 - 57,0,12,2,Jumper
+18,Jeremy Lamb,FG_MISS,None,9:31,3,Hornets,Jazz,61 - 57,1,4,2,Jumper
+19,Rudy Gobert,DEFENSIVE_REBOUND,None,9:29,3,Jazz,Hornets,61 - 57,0,N/A,N/A,N/A
+20,Joe Ingles,FG_ASSISTED,Rudy Gobert,9:26,3,Jazz,Hornets,64 - 57,0,25,3,Jumper
+21,Rudy Gobert,FOUL_ON_FLOOR,None,9:13,3,Jazz,Hornets,64 - 57,0,N/A,N/A,N/A
+22,Kemba Walker,FT,None,9:13,3,Hornets,Jazz,64 - 58,1,N/A,1,N/A
+23,Kemba Walker,FT,None,9:13,3,Hornets,Jazz,64 - 59,1,N/A,1,N/A
+24,Ricky Rubio,FG_MISS,None,8:59,3,Jazz,Hornets,64 - 59,0,25,3,Jumper
+25,Marvin Williams,DEFENSIVE_REBOUND,None,8:56,3,Hornets,Jazz,64 - 59,1,N/A,N/A,N/A
+26,Jeremy Lamb,FG_UNASSISTED,None,8:48,3,Hornets,Jazz,64 - 61,1,6,2,Jumper
+27,Joe Ingles,FG_MISS,None,8:30,3,Jazz,Hornets,64 - 61,0,25,3,Jumper
+28,Kemba Walker,DEFENSIVE_REBOUND,None,8:27,3,Hornets,Jazz,64 - 61,1,N/A,N/A,N/A
+29,Ricky Rubio,FOUL_ON_FLOOR,None,8:26,3,Jazz,Hornets,64 - 61,0,N/A,N/A,N/A
+30,Jeremy Lamb,FG_UNASSISTED,None,8:14,3,Hornets,Jazz,64 - 63,1,7,2,Jumper
+31,Ricky Rubio,FOUL_ON_FLOOR,None,8:14,3,Jazz,Hornets,64 - 63,0,N/A,N/A,N/A
+32,Jae Crowder,SUBSTITUTION,Favors Derrick,8:14,3,Jazz,Hornets,64 - 63,0,N/A,N/A,N/A
+33,Jeremy Lamb,FT,None,8:14,3,Hornets,Jazz,64 - 64,1,N/A,1,N/A
+34,Marvin Williams,FOUL_ON_FLOOR,None,8:01,3,Hornets,Jazz,64 - 64,1,N/A,N/A,N/A
+35,Jae Crowder,FT,None,8:01,3,Jazz,Hornets,65 - 64,0,N/A,1,N/A
+36,Michael Kidd-Gilchrist,SUBSTITUTION,Williams Marvin,8:01,3,Hornets,Jazz,65 - 64,1,N/A,N/A,N/A
+37,Jae Crowder,FT,None,8:01,3,Jazz,Hornets,66 - 64,0,N/A,1,N/A
+38,Kemba Walker,FG_MISS,None,7:45,3,Hornets,Jazz,66 - 64,1,0,2,Layup
+39,Team,DEFENSIVE_REBOUND,None,7:45,3,Jazz,Hornets,66 - 64,0,N/A,N/A,N/A
+40,Kemba Walker,FOUL_ON_FLOOR,None,7:33,3,Hornets,Jazz,66 - 64,1,N/A,N/A,N/A
+41,Jeremy Lamb,FOUL_ON_FLOOR,None,7:32,3,Hornets,Jazz,66 - 64,1,N/A,N/A,N/A
+42,Donovan Mitchell,FG_MISS,None,7:24,3,Jazz,Hornets,66 - 64,0,26,3,Jumper
+43,Kemba Walker,DEFENSIVE_REBOUND,None,7:19,3,Hornets,Jazz,66 - 64,1,N/A,N/A,N/A
+44,Kemba Walker,FG_MISS,None,7:12,3,Hornets,Jazz,66 - 64,1,26,3,Jumper
+45,Rudy Gobert,DEFENSIVE_REBOUND,None,7:09,3,Jazz,Hornets,66 - 64,0,N/A,N/A,N/A
+46,Jae Crowder,FG_ASSISTED,Joe Ingles,6:52,3,Jazz,Hornets,68 - 64,0,0,2,Layup
+47,Team,Unknown,None,6:50,3,Hornets,Jazz,68 - 64,1,N/A,N/A,N/A
+48,Tony Parker,SUBSTITUTION,Batum Nicolas,6:50,3,Hornets,Jazz,68 - 64,1,N/A,N/A,N/A
+49,Kemba Walker,FG_MISS,None,6:36,3,Hornets,Jazz,68 - 64,1,23,3,Jumper
+50,Rudy Gobert,DEFENSIVE_REBOUND,None,6:34,3,Jazz,Hornets,68 - 64,0,N/A,N/A,N/A
+51,Rudy Gobert,FG_ASSISTED,Jae Crowder,6:27,3,Jazz,Hornets,70 - 64,0,0,2,Layup
+52,Kemba Walker,TURNOVER,Donovan Mitchell,6:08,3,Hornets,Jazz,70 - 64,1,N/A,N/A,N/A
+53,Joe Ingles,FG_ASSISTED,Donovan Mitchell,5:59,3,Jazz,Hornets,73 - 64,0,24,3,Jumper
+54,Michael Kidd-Gilchrist,FG_ASSISTED,Tony Parker,5:35,3,Hornets,Jazz,73 - 66,1,14,2,Jumper
+55,Rudy Gobert,FG_MISS,None,5:20,3,Jazz,Hornets,73 - 66,0,5,2,Jumper
+56,Michael Kidd-Gilchrist,DEFENSIVE_REBOUND,None,5:18,3,Hornets,Jazz,73 - 66,1,N/A,N/A,N/A
+57,Frank Kaminsky,FG_MISS,None,5:14,3,Hornets,Jazz,73 - 66,1,0,2,Layup
+58,Team,DEFENSIVE_REBOUND,None,5:13,3,Jazz,Hornets,73 - 66,0,N/A,N/A,N/A
+59,Marvin Williams,SUBSTITUTION,Kaminsky Frank,5:13,3,Hornets,Jazz,73 - 66,1,N/A,N/A,N/A
+60,Donovan Mitchell,FG_ASSISTED,Jae Crowder,4:56,3,Jazz,Hornets,76 - 66,0,26,3,Jumper
+61,Jeremy Lamb,FG_MISS,None,4:32,3,Hornets,Jazz,76 - 66,1,23,2,Jumper
+62,Ricky Rubio,DEFENSIVE_REBOUND,None,4:29,3,Jazz,Hornets,76 - 66,0,N/A,N/A,N/A
+63,Jae Crowder,FG_ASSISTED,Ricky Rubio,4:27,3,Jazz,Hornets,79 - 66,0,25,3,Jumper
+64,Team,Unknown,None,4:27,3,Hornets,Jazz,79 - 66,1,N/A,N/A,N/A
+65,Miles Bridges,SUBSTITUTION,Walker Kemba,4:27,3,Hornets,Jazz,79 - 66,1,N/A,N/A,N/A
+66,Royce O'Neale,SUBSTITUTION,Mitchell Donovan,4:27,3,Jazz,Hornets,79 - 66,0,N/A,N/A,N/A
+67,Miles Bridges,FG_ASSISTED,Jeremy Lamb,4:04,3,Hornets,Jazz,79 - 69,1,23,3,Jumper
+68,Rudy Gobert,FG_ASSISTED,Jae Crowder,3:45,3,Jazz,Hornets,81 - 69,0,0,2,Dunk
+69,Miles Bridges,FG_MISS,None,3:21,3,Hornets,Jazz,81 - 69,1,19,2,Jumper
+70,Ricky Rubio,DEFENSIVE_REBOUND,None,3:18,3,Jazz,Hornets,81 - 69,0,N/A,N/A,N/A
+71,Joe Ingles,FG_MISS,None,3:12,3,Jazz,Hornets,81 - 69,0,23,3,Jumper
+72,Miles Bridges,DEFENSIVE_REBOUND,None,3:09,3,Hornets,Jazz,81 - 69,1,N/A,N/A,N/A
+73,Jeremy Lamb,FG_ASSISTED,Marvin Williams,3:04,3,Hornets,Jazz,81 - 72,1,28,3,Jumper
+74,Michael Kidd-Gilchrist,FOUL_ON_FLOOR,None,2:48,3,Hornets,Jazz,81 - 72,1,N/A,N/A,N/A
+75,Rudy Gobert,FT,None,2:48,3,Jazz,Hornets,82 - 72,0,N/A,1,N/A
+76,Raul Neto,SUBSTITUTION,Ingles Joe,2:48,3,Jazz,Hornets,82 - 72,0,N/A,N/A,N/A
+77,Kyle Korver,SUBSTITUTION,Rubio Ricky,2:48,3,Jazz,Hornets,82 - 72,0,N/A,N/A,N/A
+78,Rudy Gobert,FT,None,2:48,3,Jazz,Hornets,83 - 72,0,N/A,1,N/A
+79,Michael Kidd-Gilchrist,FG_ASSISTED,Tony Parker,2:32,3,Hornets,Jazz,83 - 75,1,24,3,Jumper
+80,Jae Crowder,FG_ASSISTED,Royce O'Neale,2:14,3,Jazz,Hornets,86 - 75,0,25,3,Jumper
+81,Tony Parker,FG_MISS,None,1:58,3,Hornets,Jazz,86 - 75,1, ,2,Jumper
+82,Miles Bridges,OFFENSIVE_REBOUND,None,1:58,3,Hornets,Jazz,86 - 75,1,N/A,N/A,N/A
+83,Miles Bridges,FG_UNASSISTED,None,1:58,3,Hornets,Jazz,86 - 77,1,0,2,Dunk
+84,Rudy Gobert,FG_ASSISTED,Kyle Korver,1:35,3,Jazz,Hornets,88 - 77,0,0,2,Layup
+85,Tony Parker,FG_ASSISTED,Miles Bridges,1:17,3,Hornets,Jazz,88 - 79,1,12,2,Jumper
+86,Kyle Korver,FG_ASSISTED,Raul Neto,1:04,3,Jazz,Hornets,91 - 79,0,23,3,Jumper
+87,Tony Parker,FG_UNASSISTED,None,52.4,3,Hornets,Jazz,91 - 81,1,0,2,Layup
+88,Rudy Gobert,FG_MISS,None,41.1,3,Jazz,Hornets,91 - 81,0,0,2,Dunk
+89,Jeremy Lamb,DEFENSIVE_REBOUND,None,38.8,3,Hornets,Jazz,91 - 81,1,N/A,N/A,N/A
+90,Jeremy Lamb,FG_MISS,Rudy Gobert,33.1,3,Jazz,Hornets,91 - 81,1,0,2,Layup
+91,Team,OFFENSIVE_REBOUND,None,33.1,3,Hornets,Jazz,91 - 81,1,N/A,N/A,N/A
+92,Derrick Favors,SUBSTITUTION,Gobert Rudy,33.1,3,Jazz,Hornets,91 - 81,0,N/A,N/A,N/A
+93,Michael Kidd-Gilchrist,FG_ASSISTED,Tony Parker,19.1,3,Hornets,Jazz,91 - 83,1,0,2,Layup
+94,Raul Neto,TURNOVER,Miles Bridges,5.0,3,Jazz,Hornets,91 - 83,0,N/A,N/A,N/A
+95,Miles Bridges,FG_MISS,None,0.0,3,Hornets,Jazz,91 - 83,1,51,3,Jumper
+96,Team,OFFENSIVE_REBOUND,None,0.0,3,Hornets,Jazz,91 - 83,1,N/A,N/A,N/A
+97,End of,Unknown,None,0.0,3,Hornets,Jazz,91 - 83,1,N/A,N/A,N/A
+0,Kemba Walker,SUBSTITUTION,Williams Marvin,12:00,4,Hornets,Jazz,91 - 83,1,N/A,N/A,N/A
+1,Nicolas Batum,SUBSTITUTION,Lamb Jeremy,12:00,4,Hornets,Jazz,91 - 83,1,N/A,N/A,N/A
+2,Donovan Mitchell,SUBSTITUTION,Neto Raul,12:00,4,Jazz,Hornets,91 - 83,0,N/A,N/A,N/A
+3,Nicolas Batum,FG_MISS,None,11:43,4,Hornets,Jazz,91 - 83,1,0,2,Layup
+4,Derrick Favors,DEFENSIVE_REBOUND,None,11:39,4,Jazz,Hornets,91 - 83,0,N/A,N/A,N/A
+5,Nicolas Batum,FOUL_ON_FLOOR,None,11:39,4,Hornets,Jazz,91 - 83,1,N/A,N/A,N/A
+6,Nicolas Batum,FOUL_ON_FLOOR,None,11:32,4,Hornets,Jazz,91 - 83,1,N/A,N/A,N/A
+7,Donovan Mitchell,FG_MISS,None,11:22,4,Jazz,Hornets,91 - 83,0,25,3,Jumper
+8,Jae Crowder,OFFENSIVE_REBOUND,None,11:19,4,Jazz,Hornets,91 - 83,0,N/A,N/A,N/A
+9,Jae Crowder,FG_UNASSISTED,None,11:17,4,Jazz,Hornets,94 - 83,0,24,3,Jumper
+10,Tony Parker,FG_UNASSISTED,None,11:00,4,Hornets,Jazz,94 - 85,1,0,2,Layup
+11,Donovan Mitchell,FG_ASSISTED,Derrick Favors,10:43,4,Jazz,Hornets,96 - 85,0,0,2,Layup
+12,Tony Parker,FG_UNASSISTED,None,10:32,4,Hornets,Jazz,96 - 87,1,0,2,Layup
+13,Jae Crowder,FG_MISS,None,10:11,4,Jazz,Hornets,96 - 87,0,23,3,Jumper
+14,Michael Kidd-Gilchrist,DEFENSIVE_REBOUND,None,10:09,4,Hornets,Jazz,96 - 87,1,N/A,N/A,N/A
+15,Michael Kidd-Gilchrist,FG_ASSISTED,Kemba Walker,10:01,4,Hornets,Jazz,96 - 89,1,5,2,Jumper
+16,Michael Kidd-Gilchrist,FOUL_ON_FLOOR,None,9:47,4,Hornets,Jazz,96 - 89,1,N/A,N/A,N/A
+17,Derrick Favors,FT_MISS,None,9:47,4,Jazz,Hornets,96 - 89,0,N/A,1,N/A
+18,Team,OFFENSIVE_REBOUND,None,9:47,4,Jazz,Hornets,96 - 89,0,N/A,N/A,N/A
+19,Marvin Williams,SUBSTITUTION,Kidd-Gilchrist Michael,9:47,4,Hornets,Jazz,96 - 89,1,N/A,N/A,N/A
+20,Joe Ingles,SUBSTITUTION,O'Neale Royce,9:47,4,Jazz,Hornets,96 - 89,0,N/A,N/A,N/A
+21,Derrick Favors,FT,None,9:47,4,Jazz,Hornets,97 - 89,0,N/A,1,N/A
+22,Marvin Williams,FG_ASSISTED,Tony Parker,9:31,4,Hornets,Jazz,97 - 91,1,7,2,Jumper
+23,Donovan Mitchell,FG_UNASSISTED,None,9:10,4,Jazz,Hornets,99 - 91,0, ,2,Jumper
+24,Tony Parker,FG_UNASSISTED,None,9:01,4,Hornets,Jazz,99 - 93,1,0,2,Layup
+25,Jae Crowder,FOUL_ON_FLOOR,None,9:01,4,Jazz,Hornets,99 - 93,0,N/A,N/A,N/A
+26,Tony Parker,FT_MISS,None,9:01,4,Hornets,Jazz,99 - 93,1,N/A,1,N/A
+27,Derrick Favors,DEFENSIVE_REBOUND,None,9:01,4,Jazz,Hornets,99 - 93,0,N/A,N/A,N/A
+28,Miles Bridges,FOUL_ON_FLOOR,None,8:45,4,Hornets,Jazz,99 - 93,1,N/A,N/A,N/A
+29,Jae Crowder,FG_ASSISTED,Donovan Mitchell,8:34,4,Jazz,Hornets,102 - 93,0,25,3,Jumper
+30,Tony Parker,FG_MISS,None,8:10,4,Hornets,Jazz,102 - 93,1, ,3,Jumper
+31,Kyle Korver,DEFENSIVE_REBOUND,None,8:06,4,Jazz,Hornets,102 - 93,0,N/A,N/A,N/A
+32,Kyle Korver,FG_ASSISTED,Donovan Mitchell,7:48,4,Jazz,Hornets,104 - 93,0,0,2,Layup
+33,Team,Unknown,None,7:48,4,Hornets,Jazz,104 - 93,1,N/A,N/A,N/A
+34,Michael Kidd-Gilchrist,SUBSTITUTION,Bridges Miles,7:48,4,Hornets,Jazz,104 - 93,1,N/A,N/A,N/A
+35,Jeremy Lamb,SUBSTITUTION,Parker Tony,7:48,4,Hornets,Jazz,104 - 93,1,N/A,N/A,N/A
+36,Ricky Rubio,SUBSTITUTION,Favors Derrick,7:48,4,Jazz,Hornets,104 - 93,0,N/A,N/A,N/A
+37,Rudy Gobert,SUBSTITUTION,Mitchell Donovan,7:48,4,Jazz,Hornets,104 - 93,0,N/A,N/A,N/A
+38,Royce O'Neale,SUBSTITUTION,Crowder Jae,7:48,4,Jazz,Hornets,104 - 93,0,N/A,N/A,N/A
+39,Kemba Walker,FG_UNASSISTED,None,7:24,4,Hornets,Jazz,104 - 95,1,0,2,Layup
+40,Joe Ingles,FG_MISS,None,7:11,4,Jazz,Hornets,104 - 95,0,25,3,Jumper
+41,Marvin Williams,DEFENSIVE_REBOUND,None,7:08,4,Hornets,Jazz,104 - 95,1,N/A,N/A,N/A
+42,Kemba Walker,FG_MISS,None,7:01,4,Hornets,Jazz,104 - 95,1,26,3,Jumper
+43,Rudy Gobert,DEFENSIVE_REBOUND,None,6:58,4,Jazz,Hornets,104 - 95,0,N/A,N/A,N/A
+44,Michael Kidd-Gilchrist,FOUL_ON_FLOOR,None,6:47,4,Hornets,Jazz,104 - 95,1,N/A,N/A,N/A
+45,Rudy Gobert,FT,None,6:47,4,Jazz,Hornets,105 - 95,0,N/A,1,N/A
+46,Rudy Gobert,FT_MISS,None,6:47,4,Jazz,Hornets,105 - 95,0,N/A,1,N/A
+47,Nicolas Batum,DEFENSIVE_REBOUND,None,6:43,4,Hornets,Jazz,105 - 95,1,N/A,N/A,N/A
+48,Marvin Williams,FG_MISS,None,6:34,4,Hornets,Jazz,105 - 95,1,25,3,Jumper
+49,Rudy Gobert,DEFENSIVE_REBOUND,None,6:30,4,Jazz,Hornets,105 - 95,0,N/A,N/A,N/A
+50,Kyle Korver,FG_ASSISTED,Ricky Rubio,6:16,4,Jazz,Hornets,108 - 95,0,25,3,Jumper
+51,Kemba Walker,FG_UNASSISTED,None,6:01,4,Hornets,Jazz,108 - 97,1, ,2,Jumper
+52,Kyle Korver,FG_MISS,Nicolas Batum,5:39,4,Hornets,Jazz,108 - 97,0,27,3,Jumper
+53,Jeremy Lamb,DEFENSIVE_REBOUND,None,5:37,4,Hornets,Jazz,108 - 97,1,N/A,N/A,N/A
+54,Jeremy Lamb,FG_MISS,None,5:28,4,Hornets,Jazz,108 - 97,1,7,2,Jumper
+55,Joe Ingles,DEFENSIVE_REBOUND,None,5:25,4,Jazz,Hornets,108 - 97,0,N/A,N/A,N/A
+56,Joe Ingles,TURNOVER,None,5:23,4,Jazz,Hornets,108 - 97,0,N/A,N/A,N/A
+57,Tony Parker,SUBSTITUTION,Kidd-Gilchrist Michael,5:23,4,Hornets,Jazz,108 - 97,1,N/A,N/A,N/A
+58,Donovan Mitchell,SUBSTITUTION,Korver Kyle,5:23,4,Jazz,Hornets,108 - 97,0,N/A,N/A,N/A
+59,Jae Crowder,SUBSTITUTION,O'Neale Royce,5:23,4,Jazz,Hornets,108 - 97,0,N/A,N/A,N/A
+60,Marvin Williams,FG_MISS,None,5:04,4,Hornets,Jazz,108 - 97,1,6,2,Jumper
+61,Ricky Rubio,DEFENSIVE_REBOUND,None,5:02,4,Jazz,Hornets,108 - 97,0,N/A,N/A,N/A
+62,Joe Ingles,FG_MISS,None,4:52,4,Jazz,Hornets,108 - 97,0, ,2,Jumper
+63,Donovan Mitchell,OFFENSIVE_REBOUND,None,4:49,4,Jazz,Hornets,108 - 97,0,N/A,N/A,N/A
+64,Donovan Mitchell,FG_UNASSISTED,None,4:40,4,Jazz,Hornets,110 - 97,0,15,2,Jumper
+65,Marvin Williams,FG_MISS,None,4:24,4,Hornets,Jazz,110 - 97,1,26,3,Jumper
+66,Donovan Mitchell,DEFENSIVE_REBOUND,None,4:21,4,Jazz,Hornets,110 - 97,0,N/A,N/A,N/A
+67,Team,Unknown,None,4:17,4,Jazz,Hornets,110 - 97,0,N/A,N/A,N/A
+68,Donovan Mitchell,FG_UNASSISTED,None,4:08,4,Jazz,Hornets,112 - 97,0,0,2,Layup
+69,Kemba Walker,TURNOVER,Ricky Rubio,3:55,4,Hornets,Jazz,112 - 97,1,N/A,N/A,N/A
+70,Donovan Mitchell,FG_MISS,None,3:40,4,Jazz,Hornets,112 - 97,0,27,3,Jumper
+71,Marvin Williams,DEFENSIVE_REBOUND,None,3:37,4,Hornets,Jazz,112 - 97,1,N/A,N/A,N/A
+72,Jeremy Lamb,FG_UNASSISTED,None,3:31,4,Hornets,Jazz,112 - 99,1,21,2,Jumper
+73,Jeremy Lamb,FOUL_ON_FLOOR,None,3:15,4,Hornets,Jazz,112 - 99,1,N/A,N/A,N/A
+74,Donovan Mitchell,FT,None,3:15,4,Jazz,Hornets,113 - 99,0,N/A,1,N/A
+75,Donovan Mitchell,FT_MISS,None,3:15,4,Jazz,Hornets,113 - 99,0,N/A,1,N/A
+76,Kemba Walker,DEFENSIVE_REBOUND,None,3:12,4,Hornets,Jazz,113 - 99,1,N/A,N/A,N/A
+77,Rudy Gobert,FOUL_ON_FLOOR,None,3:05,4,Jazz,Hornets,113 - 99,0,N/A,N/A,N/A
+78,Marvin Williams,FT,None,3:05,4,Hornets,Jazz,113 - 100,1,N/A,1,N/A
+79,Marvin Williams,FT,None,3:05,4,Hornets,Jazz,113 - 101,1,N/A,1,N/A
+80,Donovan Mitchell,TURNOVER,Nicolas Batum,2:47,4,Jazz,Hornets,113 - 101,0,N/A,N/A,N/A
+81,Jeremy Lamb,FG_UNASSISTED,None,2:40,4,Hornets,Jazz,113 - 103,1,8,2,Jumper
+82,Tony Parker,FOUL_ON_FLOOR,None,2:27,4,Hornets,Jazz,113 - 103,1,N/A,N/A,N/A
+83,Ricky Rubio,FT_MISS,None,2:27,4,Jazz,Hornets,113 - 103,0,N/A,1,N/A
+84,Team,OFFENSIVE_REBOUND,None,2:27,4,Jazz,Hornets,113 - 103,0,N/A,N/A,N/A
+85,Ricky Rubio,FT,None,2:27,4,Jazz,Hornets,114 - 103,0,N/A,1,N/A
+86,Tony Parker,FG_UNASSISTED,None,2:18,4,Hornets,Jazz,114 - 105,1,1,2,Jumper
+87,Donovan Mitchell,FG_UNASSISTED,None,2:00,4,Jazz,Hornets,116 - 105,0,14,2,Jumper
+88,Jeremy Lamb,FG_ASSISTED,Tony Parker,1:50,4,Hornets,Jazz,116 - 107,1,8,2,Jumper
+89,Rudy Gobert,FOUL_ON_FLOOR,None,1:35,4,Jazz,Hornets,116 - 107,0,N/A,N/A,N/A
+90,Rudy Gobert,TURNOVER,None,1:35,4,Jazz,Hornets,116 - 107,0,N/A,N/A,N/A
+91,Rudy Gobert,FOUL_ON_FLOOR,None,1:22,4,Jazz,Hornets,116 - 107,0,N/A,N/A,N/A
+92,Jeremy Lamb,FT_MISS,None,1:22,4,Hornets,Jazz,116 - 107,1,N/A,1,N/A
+93,Team,OFFENSIVE_REBOUND,None,1:22,4,Hornets,Jazz,116 - 107,1,N/A,N/A,N/A
+94,Jeremy Lamb,FT,None,1:22,4,Hornets,Jazz,116 - 108,1,N/A,1,N/A
+95,Donovan Mitchell,TURNOVER,Tony Parker,1:10,4,Jazz,Hornets,116 - 108,0,N/A,N/A,N/A
+96,Tony Parker,TURNOVER,Joe Ingles,1:05,4,Hornets,Jazz,116 - 108,1,N/A,N/A,N/A
+97,Ricky Rubio,FG_ASSISTED,Joe Ingles,1:01,4,Jazz,Hornets,118 - 108,0,0,2,Layup
+98,Jeremy Lamb,FG_MISS,None,52.2,4,Hornets,Jazz,118 - 108,1,0,2,Layup
+99,Rudy Gobert,DEFENSIVE_REBOUND,None,51.8,4,Jazz,Hornets,118 - 108,0,N/A,N/A,N/A
+100,Jeremy Lamb,FOUL_ON_FLOOR,None,51.8,4,Hornets,Jazz,118 - 108,1,N/A,N/A,N/A
+101,Rudy Gobert,FT,None,51.8,4,Jazz,Hornets,119 - 108,0,N/A,1,N/A
+102,Devonte' Graham,SUBSTITUTION,Walker Kemba,51.8,4,Hornets,Jazz,119 - 108,1,N/A,N/A,N/A
+103,Rudy Gobert,FT_MISS,None,51.8,4,Jazz,Hornets,119 - 108,0,N/A,1,N/A
+104,Marvin Williams,DEFENSIVE_REBOUND,None,47.6,4,Hornets,Jazz,119 - 108,1,N/A,N/A,N/A
+105,Jeremy Lamb,TURNOVER,Joe Ingles,43.4,4,Hornets,Jazz,119 - 108,1,N/A,N/A,N/A
+106,Jae Crowder,TURNOVER,Marvin Williams,24.4,4,Jazz,Hornets,119 - 108,0,N/A,N/A,N/A
+107,Marvin Williams,FG_ASSISTED,Tony Parker,17.1,4,Hornets,Jazz,119 - 111,1,27,3,Jumper
+108,End of,Unknown,None,0.0,4,Hornets,Jazz,119 - 111,1,N/A,N/A,N/A
+109,End of,Unknown,None,0.0,4,Hornets,Jazz,119 - 111,1,N/A,N/A,N/A

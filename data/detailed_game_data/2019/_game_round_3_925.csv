@@ -1,0 +1,480 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Rudy Gobert,JUMP_BALL,None,12:00,1,Jazz,Pelicans,0 - 0,0,N/A,N/A,N/A
+1,Rudy Gobert,TURNOVER,None,11:44,1,Jazz,Pelicans,0 - 0,0,N/A,N/A,N/A
+2,Julius Randle,FG_MISS,None,11:29,1,Pelicans,Jazz,0 - 0,1,10,2,Jumper
+3,Rudy Gobert,DEFENSIVE_REBOUND,None,11:26,1,Jazz,Pelicans,0 - 0,0,N/A,N/A,N/A
+4,Donovan Mitchell,FG_UNASSISTED,None,11:16,1,Jazz,Pelicans,2 - 0,0,0,2,Layup
+5,Jrue Holiday,FG_UNASSISTED,None,11:04,1,Pelicans,Jazz,2 - 2,1,11,2,Jumper
+6,Derrick Favors,FG_ASSISTED,Ricky Rubio,10:48,1,Jazz,Pelicans,5 - 2,0,23,3,Jumper
+7,Julius Randle,FG_UNASSISTED,None,10:35,1,Pelicans,Jazz,5 - 4,1,0,2,Layup
+8,Donovan Mitchell,FG_MISS,None,10:22,1,Jazz,Pelicans,5 - 4,0,0,2,Layup
+9,Anthony Davis,DEFENSIVE_REBOUND,None,10:22,1,Pelicans,Jazz,5 - 4,1,N/A,N/A,N/A
+10,Rudy Gobert,FOUL_ON_FLOOR,None,10:10,1,Jazz,Pelicans,5 - 4,0,N/A,N/A,N/A
+11,Anthony Davis,FT,None,10:10,1,Pelicans,Jazz,5 - 5,1,N/A,1,N/A
+12,Anthony Davis,FT,None,10:10,1,Pelicans,Jazz,5 - 6,1,N/A,1,N/A
+13,Ricky Rubio,FG_MISS,None,9:56,1,Jazz,Pelicans,5 - 6,0,25,2,Jumper
+14,Kenrich Williams,DEFENSIVE_REBOUND,None,9:52,1,Pelicans,Jazz,5 - 6,1,N/A,N/A,N/A
+15,Julius Randle,FG_MISS,None,9:43,1,Pelicans,Jazz,5 - 6,1,13,2,Jumper
+16,Derrick Favors,DEFENSIVE_REBOUND,None,9:41,1,Jazz,Pelicans,5 - 6,0,N/A,N/A,N/A
+17,Joe Ingles,FG_MISS,None,9:33,1,Jazz,Pelicans,5 - 6,0,25,3,Jumper
+18,Elfrid Payton,DEFENSIVE_REBOUND,None,9:30,1,Pelicans,Jazz,5 - 6,1,N/A,N/A,N/A
+19,Elfrid Payton,FG_MISS,None,9:20,1,Pelicans,Jazz,5 - 6,1,3,2,Jumper
+20,Elfrid Payton,OFFENSIVE_REBOUND,None,9:16,1,Pelicans,Jazz,5 - 6,1,N/A,N/A,N/A
+21,Elfrid Payton,FG_UNASSISTED,None,9:15,1,Pelicans,Jazz,5 - 8,1,-,2,Jumper
+22,Donovan Mitchell,FG_MISS,None,8:56,1,Jazz,Pelicans,5 - 8,0,25,3,Jumper
+23,Elfrid Payton,DEFENSIVE_REBOUND,None,8:53,1,Pelicans,Jazz,5 - 8,1,N/A,N/A,N/A
+24,Elfrid Payton,FG_MISS,None,8:44,1,Pelicans,Jazz,5 - 8,1,0,2,Layup
+25,Rudy Gobert,DEFENSIVE_REBOUND,None,8:44,1,Jazz,Pelicans,5 - 8,0,N/A,N/A,N/A
+26,Ricky Rubio,FG_UNASSISTED,None,8:39,1,Jazz,Pelicans,7 - 8,0,0,2,Layup
+27,Jrue Holiday,FG_ASSISTED,Anthony Davis,8:24,1,Pelicans,Jazz,7 - 10,1,0,2,Dunk
+28,Rudy Gobert,TURNOVER,Anthony Davis,7:58,1,Jazz,Pelicans,7 - 10,0,N/A,N/A,N/A
+29,Donovan Mitchell,FOUL_ON_FLOOR,None,7:57,1,Jazz,Pelicans,7 - 10,0,N/A,N/A,N/A
+30,Jrue Holiday,TURNOVER,Donovan Mitchell,7:43,1,Pelicans,Jazz,7 - 10,1,N/A,N/A,N/A
+31,Donovan Mitchell,FG_UNASSISTED,None,7:39,1,Jazz,Pelicans,9 - 10,0,0,2,Dunk
+32,Derrick Favors,FOUL_ON_FLOOR,None,7:34,1,Jazz,Pelicans,9 - 10,0,N/A,N/A,N/A
+33,Anthony Davis,FG_MISS,None,7:27,1,Pelicans,Jazz,9 - 10,1,25,3,Jumper
+34,Donovan Mitchell,DEFENSIVE_REBOUND,None,7:24,1,Jazz,Pelicans,9 - 10,0,N/A,N/A,N/A
+35,Derrick Favors,FG_ASSISTED,Ricky Rubio,7:06,1,Jazz,Pelicans,11 - 10,0,0,2,Dunk
+36,Elfrid Payton,FG_MISS,Rudy Gobert,6:51,1,Jazz,Pelicans,11 - 10,1,0,2,Layup
+37,Elfrid Payton,OFFENSIVE_REBOUND,None,6:49,1,Pelicans,Jazz,11 - 10,1,N/A,N/A,N/A
+38,Julius Randle,TURNOVER,None,6:49,1,Pelicans,Jazz,11 - 10,1,N/A,N/A,N/A
+39,Julius Randle,TURNOVER,None,6:49,1,Pelicans,Jazz,11 - 10,1,N/A,N/A,N/A
+40,Team,Unknown,None,6:49,1,Pelicans,Jazz,11 - 10,1,N/A,N/A,N/A
+41,Jae Crowder,SUBSTITUTION,Ingles Joe,6:49,1,Jazz,Pelicans,11 - 10,0,N/A,N/A,N/A
+42,Kyle Korver,SUBSTITUTION,Favors Derrick,6:49,1,Jazz,Pelicans,11 - 10,0,N/A,N/A,N/A
+43,Kyle Korver,FG_ASSISTED,Jae Crowder,6:33,1,Jazz,Pelicans,14 - 10,0,26,3,Jumper
+44,Donovan Mitchell,FOUL_ON_FLOOR,None,6:26,1,Jazz,Pelicans,14 - 10,0,N/A,N/A,N/A
+45,Royce O'Neale,SUBSTITUTION,Mitchell Donovan,6:26,1,Jazz,Pelicans,14 - 10,0,N/A,N/A,N/A
+46,Anthony Davis,FG_MISS,None,6:14,1,Pelicans,Jazz,14 - 10,1, ,2,Jumper
+47,Rudy Gobert,DEFENSIVE_REBOUND,None,6:11,1,Jazz,Pelicans,14 - 10,0,N/A,N/A,N/A
+48,Jae Crowder,FG_MISS,None,6:05,1,Jazz,Pelicans,14 - 10,0,25,3,Jumper
+49,Jrue Holiday,DEFENSIVE_REBOUND,None,6:01,1,Pelicans,Jazz,14 - 10,1,N/A,N/A,N/A
+50,Kenrich Williams,FG_MISS,None,5:44,1,Pelicans,Jazz,14 - 10,1,26,3,Jumper
+51,Elfrid Payton,OFFENSIVE_REBOUND,None,5:41,1,Pelicans,Jazz,14 - 10,1,N/A,N/A,N/A
+52,Julius Randle,FG_MISS,None,5:36,1,Pelicans,Jazz,14 - 10,1,26,3,Jumper
+53,Team,OFFENSIVE_REBOUND,None,5:36,1,Pelicans,Jazz,14 - 10,1,N/A,N/A,N/A
+54,E'Twaun Moore,SUBSTITUTION,Holiday Jrue,5:34,1,Pelicans,Jazz,14 - 10,1,N/A,N/A,N/A
+55,Cheick Diallo,SUBSTITUTION,Randle Julius,5:34,1,Pelicans,Jazz,14 - 10,1,N/A,N/A,N/A
+56,5 second,Unknown,None,5:34,1,Pelicans,Jazz,14 - 10,1,N/A,N/A,N/A
+57,Kyle Korver,FG_ASSISTED,Ricky Rubio,5:23,1,Jazz,Pelicans,17 - 10,0,26,3,Jumper
+58,Anthony Davis's,FG_MISS,Rudy Gobert,5:10,1,Jazz,Pelicans,17 - 10,1, ,2,Jumper
+59,Anthony Davis,OFFENSIVE_REBOUND,None,5:10,1,Pelicans,Jazz,17 - 10,1,N/A,N/A,N/A
+60,Anthony Davis,FG_UNASSISTED,None,5:06,1,Pelicans,Jazz,17 - 12,1,11,2,Jumper
+61,Rudy Gobert,FG_ASSISTED,Ricky Rubio,4:55,1,Jazz,Pelicans,19 - 12,0,2,2,Jumper
+62,Cheick Diallo,FG_MISS,None,4:42,1,Pelicans,Jazz,19 - 12,1,16,2,Jumper
+63,Rudy Gobert,DEFENSIVE_REBOUND,None,4:42,1,Jazz,Pelicans,19 - 12,0,N/A,N/A,N/A
+64,Ricky Rubio,FG_MISS,None,4:31,1,Jazz,Pelicans,19 - 12,0,18,2,Jumper
+65,Elfrid Payton,DEFENSIVE_REBOUND,None,4:27,1,Pelicans,Jazz,19 - 12,1,N/A,N/A,N/A
+66,Elfrid Payton,FG_UNASSISTED,None,4:20,1,Pelicans,Jazz,19 - 14,1,0,2,Layup
+67,Ricky Rubio,FG_MISS,None,4:02,1,Jazz,Pelicans,19 - 14,0,21,2,Jumper
+68,Team,DEFENSIVE_REBOUND,None,4:02,1,Pelicans,Jazz,19 - 14,1,N/A,N/A,N/A
+69,Joe Ingles,SUBSTITUTION,Rubio Ricky,4:02,1,Jazz,Pelicans,19 - 14,0,N/A,N/A,N/A
+70,Joe Ingles,FOUL_ON_FLOOR,None,3:50,1,Jazz,Pelicans,19 - 14,0,N/A,N/A,N/A
+71,Anthony Davis,FT,None,3:50,1,Pelicans,Jazz,19 - 15,1,N/A,1,N/A
+72,Darius Miller,SUBSTITUTION,Williams Kenrich,3:50,1,Pelicans,Jazz,19 - 15,1,N/A,N/A,N/A
+73,Anthony Davis,FT_MISS,None,3:50,1,Pelicans,Jazz,19 - 15,1,N/A,1,N/A
+74,Kyle Korver,DEFENSIVE_REBOUND,None,3:46,1,Jazz,Pelicans,19 - 15,0,N/A,N/A,N/A
+75,Royce O'Neale,TURNOVER,None,3:38,1,Jazz,Pelicans,19 - 15,0,N/A,N/A,N/A
+76,Anthony Davis,FG_ASSISTED,Darius Miller,3:30,1,Pelicans,Jazz,19 - 17,1,0,2,Dunk
+77,Team,Unknown,None,3:30,1,Jazz,Pelicans,19 - 17,0,N/A,N/A,N/A
+78,Julius Randle,SUBSTITUTION,Davis Anthony,3:30,1,Pelicans,Jazz,19 - 17,1,N/A,N/A,N/A
+79,Derrick Favors,SUBSTITUTION,Gobert Rudy,3:30,1,Jazz,Pelicans,19 - 17,0,N/A,N/A,N/A
+80,Joe Ingles,TURNOVER,None,3:16,1,Jazz,Pelicans,19 - 17,0,N/A,N/A,N/A
+81,Julius Randle,FG_ASSISTED,Elfrid Payton,2:59,1,Pelicans,Jazz,19 - 19,1,0,2,Layup
+82,Joe Ingles,FG_MISS,None,2:46,1,Jazz,Pelicans,19 - 19,0, ,2,Jumper
+83,Derrick Favors,OFFENSIVE_REBOUND,None,2:41,1,Jazz,Pelicans,19 - 19,0,N/A,N/A,N/A
+84,Kyle Korver,FG_ASSISTED,Derrick Favors,2:34,1,Jazz,Pelicans,21 - 19,0,20,2,Jumper
+85,E'Twaun Moore,FG_ASSISTED,Julius Randle,2:24,1,Pelicans,Jazz,21 - 22,1,26,3,Jumper
+86,Jae Crowder,FG_MISS,None,2:12,1,Jazz,Pelicans,21 - 22,0,25,3,Jumper
+87,Julius Randle,DEFENSIVE_REBOUND,None,2:09,1,Pelicans,Jazz,21 - 22,1,N/A,N/A,N/A
+88,E'Twaun Moore,FG_MISS,None,1:57,1,Pelicans,Jazz,21 - 22,1,23,2,Jumper
+89,Cheick Diallo,OFFENSIVE_REBOUND,None,1:55,1,Pelicans,Jazz,21 - 22,1,N/A,N/A,N/A
+90,Elfrid Payton,TURNOVER,Derrick Favors,1:50,1,Pelicans,Jazz,21 - 22,1,N/A,N/A,N/A
+91,Darius Miller,FOUL_ON_FLOOR,None,1:47,1,Pelicans,Jazz,21 - 22,1,N/A,N/A,N/A
+92,Jae Crowder,FT_MISS,None,1:47,1,Jazz,Pelicans,21 - 22,0,N/A,1,N/A
+93,Team,OFFENSIVE_REBOUND,None,1:47,1,Jazz,Pelicans,21 - 22,0,N/A,N/A,N/A
+94,Frank Jackson,SUBSTITUTION,Payton Elfrid,1:47,1,Pelicans,Jazz,21 - 22,1,N/A,N/A,N/A
+95,Jae Crowder,FT_MISS,None,1:47,1,Jazz,Pelicans,21 - 22,0,N/A,1,N/A
+96,Cheick Diallo,DEFENSIVE_REBOUND,None,1:44,1,Pelicans,Jazz,21 - 22,1,N/A,N/A,N/A
+97,Julius Randle,FG_MISS,None,1:29,1,Pelicans,Jazz,21 - 22,1,19,2,Jumper
+98,Joe Ingles,DEFENSIVE_REBOUND,None,1:26,1,Jazz,Pelicans,21 - 22,0,N/A,N/A,N/A
+99,Julius Randle,FOUL_ON_FLOOR,None,1:23,1,Pelicans,Jazz,21 - 22,1,N/A,N/A,N/A
+100,Derrick Favors,FT,None,1:23,1,Jazz,Pelicans,22 - 22,0,N/A,1,N/A
+101,Kenrich Williams,SUBSTITUTION,Randle Julius,1:23,1,Pelicans,Jazz,22 - 22,1,N/A,N/A,N/A
+102,Derrick Favors,FT,None,1:23,1,Jazz,Pelicans,23 - 22,0,N/A,1,N/A
+103,Kyle Korver,FOUL_ON_FLOOR,None,1:13,1,Jazz,Pelicans,23 - 22,0,N/A,N/A,N/A
+104,Darius Miller,FT_MISS,None,1:13,1,Pelicans,Jazz,23 - 22,1,N/A,1,N/A
+105,Team,OFFENSIVE_REBOUND,None,1:13,1,Pelicans,Jazz,23 - 22,1,N/A,N/A,N/A
+106,Darius Miller,FT,None,1:13,1,Pelicans,Jazz,23 - 23,1,N/A,1,N/A
+107,Royce O'Neale,FG_MISS,None,59.2,1,Jazz,Pelicans,23 - 23,0,10,2,Jumper
+108,Cheick Diallo,DEFENSIVE_REBOUND,None,57.7,1,Pelicans,Jazz,23 - 23,1,N/A,N/A,N/A
+109,Darius Miller,FG_MISS,None,51.8,1,Pelicans,Jazz,23 - 23,1,16,2,Jumper
+110,Joe Ingles,DEFENSIVE_REBOUND,None,48.2,1,Jazz,Pelicans,23 - 23,0,N/A,N/A,N/A
+111,Derrick Favors,FG_MISS,None,37.2,1,Jazz,Pelicans,23 - 23,0,17,2,Jumper
+112,Cheick Diallo,DEFENSIVE_REBOUND,None,33.9,1,Pelicans,Jazz,23 - 23,1,N/A,N/A,N/A
+113,Cheick Diallo,FG_MISS,None,23.3,1,Pelicans,Jazz,23 - 23,1,11,2,Jumper
+114,Jae Crowder,DEFENSIVE_REBOUND,None,21.1,1,Jazz,Pelicans,23 - 23,0,N/A,N/A,N/A
+115,Jae Crowder,FG_ASSISTED,Joe Ingles,2.7,1,Jazz,Pelicans,25 - 23,0,22,2,Jumper
+116,Kenrich Williams,FG_MISS,None,0.1,1,Pelicans,Jazz,25 - 23,1,54,3,Jumper
+117,Team,OFFENSIVE_REBOUND,None,0.1,1,Pelicans,Jazz,25 - 23,1,N/A,N/A,N/A
+118,End of,Unknown,None,0.0,1,Pelicans,Jazz,25 - 23,1,N/A,N/A,N/A
+0,Jahlil Okafor,SUBSTITUTION,Diallo Cheick,12:00,2,Pelicans,Jazz,25 - 23,1,N/A,N/A,N/A
+1,Jrue Holiday,SUBSTITUTION,Moore E'Twaun,12:00,2,Pelicans,Jazz,25 - 23,1,N/A,N/A,N/A
+2,Donovan Mitchell,SUBSTITUTION,Ingles Joe,12:00,2,Jazz,Pelicans,25 - 23,0,N/A,N/A,N/A
+3,Jrue Holiday,FG_UNASSISTED,None,11:47,2,Pelicans,Jazz,25 - 25,1,0,2,Layup
+4,Jae Crowder,FG_ASSISTED,Kyle Korver,11:33,2,Jazz,Pelicans,28 - 25,0,27,3,Jumper
+5,Kenrich Williams,FG_UNASSISTED,None,11:12,2,Pelicans,Jazz,28 - 27,1,0,2,Layup
+6,Jae Crowder,FG_MISS,None,10:50,2,Jazz,Pelicans,28 - 27,0,25,3,Jumper
+7,Team,OFFENSIVE_REBOUND,None,10:50,2,Jazz,Pelicans,28 - 27,0,N/A,N/A,N/A
+8,Kenrich Williams,FOUL_ON_FLOOR,None,10:48,2,Pelicans,Jazz,28 - 27,1,N/A,N/A,N/A
+9,Royce O'Neale's,FG_MISS,Jahlil Okafor,10:41,2,Pelicans,Jazz,28 - 27,0,0,2,Layup
+10,Jahlil Okafor,DEFENSIVE_REBOUND,None,10:38,2,Pelicans,Jazz,28 - 27,1,N/A,N/A,N/A
+11,Royce O'Neale,FOUL_ON_FLOOR,None,10:28,2,Jazz,Pelicans,28 - 27,0,N/A,N/A,N/A
+12,Jahlil Okafor,FT_MISS,None,10:28,2,Pelicans,Jazz,28 - 27,1,N/A,1,N/A
+13,Team,OFFENSIVE_REBOUND,None,10:28,2,Pelicans,Jazz,28 - 27,1,N/A,N/A,N/A
+14,Jahlil Okafor,FT,None,10:28,2,Pelicans,Jazz,28 - 28,1,N/A,1,N/A
+15,Derrick Favors,FG_ASSISTED,Kyle Korver,10:20,2,Jazz,Pelicans,30 - 28,0,0,2,Layup
+16,Kenrich Williams,FOUL_ON_FLOOR,None,10:20,2,Pelicans,Jazz,30 - 28,1,N/A,N/A,N/A
+17,Derrick Favors,FT,None,10:20,2,Jazz,Pelicans,31 - 28,0,N/A,1,N/A
+18,Frank Jackson,FG_ASSISTED,Jahlil Okafor,10:11,2,Pelicans,Jazz,31 - 31,1,24,3,Jumper
+19,Donovan Mitchell,FG_ASSISTED,Royce O'Neale,9:58,2,Jazz,Pelicans,34 - 31,0,27,3,Jumper
+20,Jahlil Okafor,FG_MISS,Derrick Favors,9:42,2,Jazz,Pelicans,34 - 31,1,8,2,Jumper
+21,Derrick Favors,DEFENSIVE_REBOUND,None,9:39,2,Jazz,Pelicans,34 - 31,0,N/A,N/A,N/A
+22,Donovan Mitchell,FG_MISS,None,9:36,2,Jazz,Pelicans,34 - 31,0,27,3,Jumper
+23,Frank Jackson,DEFENSIVE_REBOUND,None,9:31,2,Pelicans,Jazz,34 - 31,1,N/A,N/A,N/A
+24,Jrue Holiday,FG_UNASSISTED,None,9:25,2,Pelicans,Jazz,34 - 33,1,0,2,Layup
+25,Derrick Favors,TURNOVER,Jahlil Okafor,9:07,2,Jazz,Pelicans,34 - 33,0,N/A,N/A,N/A
+26,Jahlil Okafor,FG_MISS,None,8:56,2,Pelicans,Jazz,34 - 33,1,3,2,Jumper
+27,Jae Crowder,DEFENSIVE_REBOUND,None,8:54,2,Jazz,Pelicans,34 - 33,0,N/A,N/A,N/A
+28,Kyle Korver,FG_MISS,None,8:49,2,Jazz,Pelicans,34 - 33,0,18,2,Jumper
+29,Jahlil Okafor,DEFENSIVE_REBOUND,None,8:45,2,Pelicans,Jazz,34 - 33,1,N/A,N/A,N/A
+30,Frank Jackson,FG_MISS,None,8:35,2,Pelicans,Jazz,34 - 33,1,0,2,Layup
+31,Jahlil Okafor,OFFENSIVE_REBOUND,None,8:33,2,Pelicans,Jazz,34 - 33,1,N/A,N/A,N/A
+32,Jahlil Okafor,FG_UNASSISTED,None,8:33,2,Pelicans,Jazz,34 - 35,1, ,2,Jumper
+33,Team,Unknown,None,8:33,2,Jazz,Pelicans,34 - 35,0,N/A,N/A,N/A
+34,Rudy Gobert,SUBSTITUTION,Favors Derrick,8:33,2,Jazz,Pelicans,34 - 35,0,N/A,N/A,N/A
+35,Joe Ingles,SUBSTITUTION,Korver Kyle,8:33,2,Jazz,Pelicans,34 - 35,0,N/A,N/A,N/A
+36,Thabo Sefolosha,SUBSTITUTION,Crowder Jae,8:33,2,Jazz,Pelicans,34 - 35,0,N/A,N/A,N/A
+37,Rudy Gobert,FG_ASSISTED,Joe Ingles,8:23,2,Jazz,Pelicans,36 - 35,0,0,2,Dunk
+38,Darius Miller,FOUL_ON_FLOOR,None,8:15,2,Pelicans,Jazz,36 - 35,1,N/A,N/A,N/A
+39,Darius Miller,TURNOVER,None,8:15,2,Pelicans,Jazz,36 - 35,1,N/A,N/A,N/A
+40,Jahlil Okafor,FOUL_ON_FLOOR,None,8:04,2,Pelicans,Jazz,36 - 35,1,N/A,N/A,N/A
+41,Rudy Gobert,FT_MISS,None,8:04,2,Jazz,Pelicans,36 - 35,0,N/A,1,N/A
+42,Team,OFFENSIVE_REBOUND,None,8:04,2,Jazz,Pelicans,36 - 35,0,N/A,N/A,N/A
+43,Rudy Gobert,FT,None,8:04,2,Jazz,Pelicans,37 - 35,0,N/A,1,N/A
+44,Jrue Holiday,FG_UNASSISTED,None,7:51,2,Pelicans,Jazz,37 - 37,1,16,2,Jumper
+45,Donovan Mitchell,TURNOVER,Jrue Holiday,7:38,2,Jazz,Pelicans,37 - 37,0,N/A,N/A,N/A
+46,Darius Miller,FG_MISS,None,7:27,2,Pelicans,Jazz,37 - 37,1,24,3,Jumper
+47,Royce O'Neale,DEFENSIVE_REBOUND,None,7:24,2,Jazz,Pelicans,37 - 37,0,N/A,N/A,N/A
+48,Rudy Gobert,FG_UNASSISTED,None,7:14,2,Jazz,Pelicans,39 - 37,0,0,2,Dunk
+49,Jrue Holiday,FG_UNASSISTED,None,7:03,2,Pelicans,Jazz,39 - 39,1, ,2,Jumper
+50,Royce O'Neale,Unknown,None,7:03,2,Jazz,Pelicans,39 - 39,0,N/A,N/A,N/A
+51,Joe Ingles,TURNOVER,None,6:47,2,Jazz,Pelicans,39 - 39,0,N/A,N/A,N/A
+52,Julius Randle,SUBSTITUTION,Okafor Jahlil,6:47,2,Pelicans,Jazz,39 - 39,1,N/A,N/A,N/A
+53,Anthony Davis,SUBSTITUTION,Miller Darius,6:47,2,Pelicans,Jazz,39 - 39,1,N/A,N/A,N/A
+54,E'Twaun Moore,SUBSTITUTION,Williams Kenrich,6:47,2,Pelicans,Jazz,39 - 39,1,N/A,N/A,N/A
+55,Ricky Rubio,SUBSTITUTION,O'Neale Royce,6:47,2,Jazz,Pelicans,39 - 39,0,N/A,N/A,N/A
+56,Frank Jackson,FG_MISS,None,6:31,2,Pelicans,Jazz,39 - 39,1,27,3,Jumper
+57,Thabo Sefolosha,DEFENSIVE_REBOUND,None,6:29,2,Jazz,Pelicans,39 - 39,0,N/A,N/A,N/A
+58,Ricky Rubio,FG_MISS,Anthony Davis,6:13,2,Pelicans,Jazz,39 - 39,0,0,2,Layup
+59,Frank Jackson,DEFENSIVE_REBOUND,None,6:10,2,Pelicans,Jazz,39 - 39,1,N/A,N/A,N/A
+60,Anthony Davis,FG_MISS,None,5:54,2,Pelicans,Jazz,39 - 39,1,10,2,Jumper
+61,Joe Ingles,DEFENSIVE_REBOUND,None,5:50,2,Jazz,Pelicans,39 - 39,0,N/A,N/A,N/A
+62,Thabo Sefolosha,FG_MISS,None,5:44,2,Jazz,Pelicans,39 - 39,0,26,3,Jumper
+63,Julius Randle,DEFENSIVE_REBOUND,None,5:41,2,Pelicans,Jazz,39 - 39,1,N/A,N/A,N/A
+64,Jrue Holiday,FG_MISS,Rudy Gobert,5:31,2,Jazz,Pelicans,39 - 39,1,0,2,Layup
+65,Donovan Mitchell,DEFENSIVE_REBOUND,None,5:28,2,Jazz,Pelicans,39 - 39,0,N/A,N/A,N/A
+66,Rudy Gobert,FG_ASSISTED,Joe Ingles,5:27,2,Jazz,Pelicans,41 - 39,0,0,2,Layup
+67,Jrue Holiday,FOUL_ON_FLOOR,None,5:27,2,Pelicans,Jazz,41 - 39,1,N/A,N/A,N/A
+68,Elfrid Payton,SUBSTITUTION,Holiday Jrue,5:27,2,Pelicans,Jazz,41 - 39,1,N/A,N/A,N/A
+69,Rudy Gobert,FT_MISS,None,5:27,2,Jazz,Pelicans,41 - 39,0,N/A,1,N/A
+70,Anthony Davis,DEFENSIVE_REBOUND,None,5:24,2,Pelicans,Jazz,41 - 39,1,N/A,N/A,N/A
+71,Julius Randle,FG_MISS,None,5:11,2,Pelicans,Jazz,41 - 39,1,22,3,Jumper
+72,Rudy Gobert,DEFENSIVE_REBOUND,None,5:08,2,Jazz,Pelicans,41 - 39,0,N/A,N/A,N/A
+73,Ricky Rubio,FG_MISS,None,4:59,2,Jazz,Pelicans,41 - 39,0,14,2,Jumper
+74,Frank Jackson,DEFENSIVE_REBOUND,None,4:55,2,Pelicans,Jazz,41 - 39,1,N/A,N/A,N/A
+75,Frank Jackson,FG_MISS,None,4:45,2,Pelicans,Jazz,41 - 39,1, ,2,Jumper
+76,Rudy Gobert,DEFENSIVE_REBOUND,None,4:42,2,Jazz,Pelicans,41 - 39,0,N/A,N/A,N/A
+77,Joe Ingles,FG_UNASSISTED,None,4:34,2,Jazz,Pelicans,43 - 39,0, ,2,Jumper
+78,Elfrid Payton,TURNOVER,Donovan Mitchell,4:17,2,Pelicans,Jazz,43 - 39,1,N/A,N/A,N/A
+79,Ricky Rubio,FG_ASSISTED,Donovan Mitchell,4:12,2,Jazz,Pelicans,45 - 39,0,0,2,Layup
+80,Donovan Mitchell,FOUL_TECHNICAL,None,4:00,2,Jazz,Pelicans,45 - 39,0,N/A,N/A,N/A
+81,E'Twaun Moore,FT_MISS,None,4:00,2,Pelicans,Jazz,45 - 39,1,N/A,1,N/A
+82,Team,OFFENSIVE_REBOUND,None,4:00,2,Pelicans,Jazz,45 - 39,1,N/A,N/A,N/A
+83,Jrue Holiday,SUBSTITUTION,Jackson Frank,4:00,2,Pelicans,Jazz,45 - 39,1,N/A,N/A,N/A
+84,Kyle Korver,SUBSTITUTION,Mitchell Donovan,4:00,2,Jazz,Pelicans,45 - 39,0,N/A,N/A,N/A
+85,Elfrid Payton,TURNOVER,None,3:52,2,Pelicans,Jazz,45 - 39,1,N/A,N/A,N/A
+86,Joe Ingles,FG_MISS,None,3:45,2,Jazz,Pelicans,45 - 39,0,27,3,Jumper
+87,Anthony Davis,DEFENSIVE_REBOUND,None,3:42,2,Pelicans,Jazz,45 - 39,1,N/A,N/A,N/A
+88,Julius Randle,TURNOVER,Ricky Rubio,3:28,2,Pelicans,Jazz,45 - 39,1,N/A,N/A,N/A
+89,Thabo Sefolosha,FG_ASSISTED,Ricky Rubio,3:22,2,Jazz,Pelicans,48 - 39,0,26,3,Jumper
+90,Anthony Davis,FG_ASSISTED,Elfrid Payton,3:10,2,Pelicans,Jazz,48 - 41,1,20,2,Jumper
+91,Team,Unknown,None,2:58,2,Pelicans,Jazz,48 - 41,1,N/A,N/A,N/A
+92,Jae Crowder,SUBSTITUTION,Sefolosha Thabo,2:58,2,Jazz,Pelicans,48 - 41,0,N/A,N/A,N/A
+93,Donovan Mitchell,SUBSTITUTION,Korver Kyle,2:58,2,Jazz,Pelicans,48 - 41,0,N/A,N/A,N/A
+94,Ricky Rubio,TURNOVER,None,2:49,2,Jazz,Pelicans,48 - 41,0,N/A,N/A,N/A
+95,Anthony Davis,FOUL_ON_FLOOR,None,2:41,2,Pelicans,Jazz,48 - 41,1,N/A,N/A,N/A
+96,Anthony Davis,TURNOVER,None,2:41,2,Pelicans,Jazz,48 - 41,1,N/A,N/A,N/A
+97,Donovan Mitchell,FG_ASSISTED,Ricky Rubio,2:30,2,Jazz,Pelicans,50 - 41,0,0,2,Layup
+98,Anthony Davis,FG_UNASSISTED,None,2:19,2,Pelicans,Jazz,50 - 43,1,0,2,Dunk
+99,Donovan Mitchell,FG_UNASSISTED,None,1:59,2,Jazz,Pelicans,52 - 43,0,16,2,Jumper
+100,Jrue Holiday,TURNOVER,Joe Ingles,1:45,2,Pelicans,Jazz,52 - 43,1,N/A,N/A,N/A
+101,Rudy Gobert,FG_ASSISTED,Ricky Rubio,1:38,2,Jazz,Pelicans,54 - 43,0,0,2,Dunk
+102,Jrue Holiday,FG_MISS,None,1:26,2,Pelicans,Jazz,54 - 43,1,0,2,Layup
+103,Joe Ingles,DEFENSIVE_REBOUND,None,1:26,2,Jazz,Pelicans,54 - 43,0,N/A,N/A,N/A
+104,Joe Ingles,FG_MISS,None,1:20,2,Jazz,Pelicans,54 - 43,0,23,3,Jumper
+105,Donovan Mitchell,OFFENSIVE_REBOUND,None,1:13,2,Jazz,Pelicans,54 - 43,0,N/A,N/A,N/A
+106,Joe Ingles,FG_MISS,None,1:10,2,Jazz,Pelicans,54 - 43,0,22,3,Jumper
+107,Jrue Holiday,DEFENSIVE_REBOUND,None,1:05,2,Pelicans,Jazz,54 - 43,1,N/A,N/A,N/A
+108,Julius Randle,TURNOVER,None,1:03,2,Pelicans,Jazz,54 - 43,1,N/A,N/A,N/A
+109,Ricky Rubio,FG_ASSISTED,Joe Ingles,54.8,2,Jazz,Pelicans,56 - 43,0,1,2,Jumper
+110,Ricky Rubio,FOUL_ON_FLOOR,None,44.2,2,Jazz,Pelicans,56 - 43,0,N/A,N/A,N/A
+111,E'Twaun Moore,FG_UNASSISTED,None,40.5,2,Pelicans,Jazz,56 - 46,1,25,3,Jumper
+112,E'Twaun Moore,FOUL_ON_FLOOR,None,35.9,2,Pelicans,Jazz,56 - 46,1,N/A,N/A,N/A
+113,Ricky Rubio,FT,None,35.9,2,Jazz,Pelicans,57 - 46,0,N/A,1,N/A
+114,Royce O'Neale,SUBSTITUTION,Mitchell Donovan,35.9,2,Jazz,Pelicans,57 - 46,0,N/A,N/A,N/A
+115,Ricky Rubio,FT,None,35.9,2,Jazz,Pelicans,58 - 46,0,N/A,1,N/A
+116,Ricky Rubio,FOUL_ON_FLOOR,None,26.8,2,Jazz,Pelicans,58 - 46,0,N/A,N/A,N/A
+117,Elfrid Payton,FT_MISS,None,26.8,2,Pelicans,Jazz,58 - 46,1,N/A,1,N/A
+118,Team,OFFENSIVE_REBOUND,None,26.8,2,Pelicans,Jazz,58 - 46,1,N/A,N/A,N/A
+119,Donovan Mitchell,SUBSTITUTION,O'Neale Royce,26.8,2,Jazz,Pelicans,58 - 46,0,N/A,N/A,N/A
+120,Elfrid Payton,FT,None,26.8,2,Pelicans,Jazz,58 - 47,1,N/A,1,N/A
+121,Ricky Rubio,FG_MISS,None,4.1,2,Jazz,Pelicans,58 - 47,0,27,3,Jumper
+122,Elfrid Payton,DEFENSIVE_REBOUND,None,0.9,2,Pelicans,Jazz,58 - 47,1,N/A,N/A,N/A
+123,End of,Unknown,None,0.0,2,Pelicans,Jazz,58 - 47,1,N/A,N/A,N/A
+0,Kenrich Williams,SUBSTITUTION,Moore E'Twaun,12:00,3,Pelicans,Jazz,58 - 47,1,N/A,N/A,N/A
+1,Derrick Favors,SUBSTITUTION,Crowder Jae,12:00,3,Jazz,Pelicans,58 - 47,0,N/A,N/A,N/A
+2,Anthony Davis,FG_MISS,None,11:51,3,Pelicans,Jazz,58 - 47,1,19,2,Jumper
+3,Donovan Mitchell,DEFENSIVE_REBOUND,None,11:47,3,Jazz,Pelicans,58 - 47,0,N/A,N/A,N/A
+4,Donovan Mitchell,TURNOVER,None,11:34,3,Jazz,Pelicans,58 - 47,0,N/A,N/A,N/A
+5,Jrue Holiday,FG_MISS,None,11:30,3,Pelicans,Jazz,58 - 47,1,0,2,Layup
+6,Rudy Gobert,DEFENSIVE_REBOUND,None,11:28,3,Jazz,Pelicans,58 - 47,0,N/A,N/A,N/A
+7,Donovan Mitchell,FG_UNASSISTED,None,11:19,3,Jazz,Pelicans,60 - 47,0,0,2,Layup
+8,Elfrid Payton,TURNOVER,Ricky Rubio,11:03,3,Pelicans,Jazz,60 - 47,1,N/A,N/A,N/A
+9,Ricky Rubio,FG_MISS,None,10:58,3,Jazz,Pelicans,60 - 47,0, ,2,Jumper
+10,Donovan Mitchell,OFFENSIVE_REBOUND,None,10:52,3,Jazz,Pelicans,60 - 47,0,N/A,N/A,N/A
+11,Donovan Mitchell,FG_UNASSISTED,None,10:52,3,Jazz,Pelicans,62 - 47,0, ,2,Jumper
+12,Team,Unknown,None,10:52,3,Pelicans,Jazz,62 - 47,1,N/A,N/A,N/A
+13,Julius Randle,FG_ASSISTED,Anthony Davis,10:33,3,Pelicans,Jazz,62 - 49,1,6,2,Jumper
+14,Rudy Gobert,FG_ASSISTED,Joe Ingles,10:20,3,Jazz,Pelicans,64 - 49,0,0,2,Layup
+15,Anthony Davis,FG_MISS,None,10:04,3,Pelicans,Jazz,64 - 49,1,8,2,Jumper
+16,Rudy Gobert,DEFENSIVE_REBOUND,None,10:02,3,Jazz,Pelicans,64 - 49,0,N/A,N/A,N/A
+17,Donovan Mitchell,TURNOVER,None,9:47,3,Jazz,Pelicans,64 - 49,0,N/A,N/A,N/A
+18,Kenrich Williams,FG_MISS,Donovan Mitchell,9:36,3,Jazz,Pelicans,64 - 49,1,0,2,Layup
+19,Team,DEFENSIVE_REBOUND,None,9:34,3,Jazz,Pelicans,64 - 49,0,N/A,N/A,N/A
+20,Donovan Mitchell,FG_MISS,None,9:18,3,Jazz,Pelicans,64 - 49,0,18,2,Jumper
+21,Rudy Gobert,OFFENSIVE_REBOUND,None,9:16,3,Jazz,Pelicans,64 - 49,0,N/A,N/A,N/A
+22,Rudy Gobert,FG_MISS,Anthony Davis,9:06,3,Pelicans,Jazz,64 - 49,0,0,2,Layup
+23,Elfrid Payton,DEFENSIVE_REBOUND,None,9:03,3,Pelicans,Jazz,64 - 49,1,N/A,N/A,N/A
+24,Elfrid Payton,FG_UNASSISTED,None,8:59,3,Pelicans,Jazz,64 - 51,1,3,2,Jumper
+25,Anthony Davis,FOUL_ON_FLOOR,None,8:45,3,Pelicans,Jazz,64 - 51,1,N/A,N/A,N/A
+26,Derrick Favors,FG_MISS,Julius Randle,8:38,3,Pelicans,Jazz,64 - 51,0,0,2,Dunk
+27,Julius Randle,DEFENSIVE_REBOUND,None,8:34,3,Pelicans,Jazz,64 - 51,1,N/A,N/A,N/A
+28,Julius Randle,FG_MISS,None,8:33,3,Pelicans,Jazz,64 - 51,1,0,2,Layup
+29,Ricky Rubio,DEFENSIVE_REBOUND,None,8:31,3,Jazz,Pelicans,64 - 51,0,N/A,N/A,N/A
+30,Rudy Gobert,FG_ASSISTED,Ricky Rubio,8:26,3,Jazz,Pelicans,66 - 51,0,0,2,Layup
+31,Anthony Davis,FOUL_ON_FLOOR,None,8:26,3,Pelicans,Jazz,66 - 51,1,N/A,N/A,N/A
+32,Rudy Gobert,FT_MISS,None,8:26,3,Jazz,Pelicans,66 - 51,0,N/A,1,N/A
+33,Joe Ingles,OFFENSIVE_REBOUND,None,8:22,3,Jazz,Pelicans,66 - 51,0,N/A,N/A,N/A
+34,Donovan Mitchell,FG_ASSISTED,Joe Ingles,8:17,3,Jazz,Pelicans,69 - 51,0,24,3,Jumper
+35,Jrue Holiday,FG_MISS,None,8:00,3,Pelicans,Jazz,69 - 51,1,0,2,Layup
+36,Anthony Davis,OFFENSIVE_REBOUND,None,8:00,3,Pelicans,Jazz,69 - 51,1,N/A,N/A,N/A
+37,Anthony Davis,FG_UNASSISTED,None,8:00,3,Pelicans,Jazz,69 - 53,1, ,2,Jumper
+38,Ricky Rubio,FOUL_ON_FLOOR,None,8:00,3,Jazz,Pelicans,69 - 53,0,N/A,N/A,N/A
+39,Anthony Davis,FT,None,8:00,3,Pelicans,Jazz,69 - 54,1,N/A,1,N/A
+40,Joe Ingles,FG_ASSISTED,Ricky Rubio,7:48,3,Jazz,Pelicans,72 - 54,0,25,2,Jumper
+41,Kenrich Williams,FG_ASSISTED,Anthony Davis,7:32,3,Pelicans,Jazz,72 - 56,1,0,2,Layup
+42,Joe Ingles,FG_MISS,None,7:16,3,Jazz,Pelicans,72 - 56,0,22,2,Jumper
+43,Rudy Gobert,OFFENSIVE_REBOUND,None,7:10,3,Jazz,Pelicans,72 - 56,0,N/A,N/A,N/A
+44,Rudy Gobert,FG_UNASSISTED,None,7:10,3,Jazz,Pelicans,74 - 56,0,0,2,Dunk
+45,Elfrid Payton,TURNOVER,None,7:07,3,Pelicans,Jazz,74 - 56,1,N/A,N/A,N/A
+46,Donovan Mitchell,TURNOVER,None,6:56,3,Jazz,Pelicans,74 - 56,0,N/A,N/A,N/A
+47,Kyle Korver,SUBSTITUTION,Ingles Joe,6:56,3,Jazz,Pelicans,74 - 56,0,N/A,N/A,N/A
+48,Jae Crowder,SUBSTITUTION,Favors Derrick,6:56,3,Jazz,Pelicans,74 - 56,0,N/A,N/A,N/A
+49,Anthony Davis,FG_UNASSISTED,None,6:40,3,Pelicans,Jazz,74 - 58,1,14,2,Jumper
+50,Rudy Gobert,FG_ASSISTED,Ricky Rubio,6:29,3,Jazz,Pelicans,76 - 58,0,0,2,Dunk
+51,Julius Randle,FG_ASSISTED,Jrue Holiday,6:23,3,Pelicans,Jazz,76 - 60,1,0,2,Layup
+52,Jae Crowder,FOUL_ON_FLOOR,None,6:23,3,Jazz,Pelicans,76 - 60,0,N/A,N/A,N/A
+53,Darius Miller,SUBSTITUTION,Payton Elfrid,6:23,3,Pelicans,Jazz,76 - 60,1,N/A,N/A,N/A
+54,Frank Jackson,SUBSTITUTION,Davis Anthony,6:23,3,Pelicans,Jazz,76 - 60,1,N/A,N/A,N/A
+55,Julius Randle,FT_MISS,None,6:23,3,Pelicans,Jazz,76 - 60,1,N/A,1,N/A
+56,Team,DEFENSIVE_REBOUND,None,6:23,3,Jazz,Pelicans,76 - 60,0,N/A,N/A,N/A
+57,Rudy Gobert,TURNOVER,None,6:09,3,Jazz,Pelicans,76 - 60,0,N/A,N/A,N/A
+58,Kenrich Williams,FG_MISS,None,6:00,3,Pelicans,Jazz,76 - 60,1,26,3,Jumper
+59,Jae Crowder,DEFENSIVE_REBOUND,None,5:56,3,Jazz,Pelicans,76 - 60,0,N/A,N/A,N/A
+60,Ricky Rubio,FG_MISS,None,5:46,3,Jazz,Pelicans,76 - 60,0, ,3,Jumper
+61,Kenrich Williams,DEFENSIVE_REBOUND,None,5:43,3,Pelicans,Jazz,76 - 60,1,N/A,N/A,N/A
+62,Kenrich Williams,FG_ASSISTED,Jrue Holiday,5:38,3,Pelicans,Jazz,76 - 62,1,0,2,Layup
+63,Team,Unknown,None,5:38,3,Jazz,Pelicans,76 - 60,0,N/A,N/A,N/A
+64,Jae Crowder,FG_MISS,None,5:28,3,Jazz,Pelicans,76 - 62,0,24,3,Jumper
+65,Julius Randle,DEFENSIVE_REBOUND,None,5:24,3,Pelicans,Jazz,76 - 62,1,N/A,N/A,N/A
+66,Jrue Holiday,FG_MISS,None,5:10,3,Pelicans,Jazz,76 - 62,1,0,2,Layup
+67,Rudy Gobert,DEFENSIVE_REBOUND,None,5:10,3,Jazz,Pelicans,76 - 62,0,N/A,N/A,N/A
+68,Donovan Mitchell,TURNOVER,None,5:07,3,Jazz,Pelicans,76 - 62,0,N/A,N/A,N/A
+69,Donovan Mitchell,TURNOVER,None,5:07,3,Jazz,Pelicans,76 - 62,0,N/A,N/A,N/A
+70,Julius Randle,FG_UNASSISTED,None,4:48,3,Pelicans,Jazz,76 - 64,1, ,2,Jumper
+71,Ricky Rubio,TURNOVER,Jrue Holiday,4:33,3,Jazz,Pelicans,76 - 64,0,N/A,N/A,N/A
+72,Jrue Holiday,FG_UNASSISTED,None,4:29,3,Pelicans,Jazz,76 - 66,1,0,2,Layup
+73,Rudy Gobert,FG_MISS,None,4:12,3,Jazz,Pelicans,76 - 66,0,7,2,Jumper
+74,Kenrich Williams,DEFENSIVE_REBOUND,None,4:08,3,Pelicans,Jazz,76 - 66,1,N/A,N/A,N/A
+75,Julius Randle,FG_MISS,None,3:56,3,Pelicans,Jazz,76 - 66,1,0,2,Layup
+76,Rudy Gobert,DEFENSIVE_REBOUND,None,3:54,3,Jazz,Pelicans,76 - 66,0,N/A,N/A,N/A
+77,Donovan Mitchell,TURNOVER,None,3:52,3,Jazz,Pelicans,76 - 66,0,N/A,N/A,N/A
+78,Royce O'Neale,SUBSTITUTION,Rubio Ricky,3:52,3,Jazz,Pelicans,76 - 66,0,N/A,N/A,N/A
+79,Jrue Holiday,FG_MISS,None,3:40,3,Pelicans,Jazz,76 - 66,1,26,3,Jumper
+80,Rudy Gobert,DEFENSIVE_REBOUND,None,3:37,3,Jazz,Pelicans,76 - 66,0,N/A,N/A,N/A
+81,Donovan Mitchell,FOUL_ON_FLOOR,None,3:28,3,Jazz,Pelicans,76 - 66,0,N/A,N/A,N/A
+82,Donovan Mitchell,TURNOVER,None,3:28,3,Jazz,Pelicans,76 - 66,0,N/A,N/A,N/A
+83,E'Twaun Moore,SUBSTITUTION,Holiday Jrue,3:28,3,Pelicans,Jazz,76 - 66,1,N/A,N/A,N/A
+84,Joe Ingles,SUBSTITUTION,Gobert Rudy,3:28,3,Jazz,Pelicans,76 - 66,0,N/A,N/A,N/A
+85,Derrick Favors,SUBSTITUTION,Mitchell Donovan,3:28,3,Jazz,Pelicans,76 - 66,0,N/A,N/A,N/A
+86,Julius Randle,FG_UNASSISTED,None,3:10,3,Pelicans,Jazz,76 - 68,1,0,2,Layup
+87,Derrick Favors,FG_ASSISTED,Joe Ingles,2:55,3,Jazz,Pelicans,78 - 68,0,0,2,Dunk
+88,Frank Jackson,FG_UNASSISTED,None,2:40,3,Pelicans,Jazz,78 - 70,1,0,2,Layup
+89,Darius Miller,FOUL_ON_FLOOR,None,2:31,3,Pelicans,Jazz,78 - 70,1,N/A,N/A,N/A
+90,Frank Jackson,FOUL_ON_FLOOR,None,2:23,3,Pelicans,Jazz,78 - 70,1,N/A,N/A,N/A
+91,Kyle Korver,FT,None,2:23,3,Jazz,Pelicans,79 - 70,0,N/A,1,N/A
+92,Kyle Korver,FT,None,2:23,3,Jazz,Pelicans,80 - 70,0,N/A,1,N/A
+93,Darius Miller,FG_UNASSISTED,None,2:09,3,Pelicans,Jazz,80 - 72,1,13,2,Jumper
+94,Derrick Favors,TURNOVER,None,1:55,3,Jazz,Pelicans,80 - 72,0,N/A,N/A,N/A
+95,Kyle Korver,FOUL_ON_FLOOR,None,1:45,3,Jazz,Pelicans,80 - 72,0,N/A,N/A,N/A
+96,Kyle Korver,FOUL_ON_FLOOR,None,1:40,3,Jazz,Pelicans,80 - 72,0,N/A,N/A,N/A
+97,Darius Miller,FT,None,1:40,3,Pelicans,Jazz,80 - 73,1,N/A,1,N/A
+98,Darius Miller,FT,None,1:40,3,Pelicans,Jazz,80 - 74,1,N/A,1,N/A
+99,Joe Ingles,FG_MISS,None,1:25,3,Jazz,Pelicans,80 - 74,0,24,3,Jumper
+100,E'Twaun Moore,DEFENSIVE_REBOUND,None,1:20,3,Pelicans,Jazz,80 - 74,1,N/A,N/A,N/A
+101,Royce O'Neale,FOUL_ON_FLOOR,None,1:14,3,Jazz,Pelicans,80 - 74,0,N/A,N/A,N/A
+102,Julius Randle,FT,None,1:14,3,Pelicans,Jazz,80 - 75,1,N/A,1,N/A
+103,Julius Randle,FT,None,1:14,3,Pelicans,Jazz,80 - 76,1,N/A,1,N/A
+104,Kenrich Williams,FOUL_ON_FLOOR,None,1:11,3,Pelicans,Jazz,80 - 76,1,N/A,N/A,N/A
+105,Joe Ingles,FT,None,1:11,3,Jazz,Pelicans,81 - 76,0,N/A,1,N/A
+106,Cheick Diallo,SUBSTITUTION,Randle Julius,1:11,3,Pelicans,Jazz,81 - 76,1,N/A,N/A,N/A
+107,Elfrid Payton,SUBSTITUTION,Williams Kenrich,1:11,3,Pelicans,Jazz,81 - 76,1,N/A,N/A,N/A
+108,Joe Ingles,FT_MISS,None,1:11,3,Jazz,Pelicans,81 - 76,0,N/A,1,N/A
+109,Cheick Diallo,DEFENSIVE_REBOUND,None,1:08,3,Pelicans,Jazz,81 - 76,1,N/A,N/A,N/A
+110,E'Twaun Moore,FG_MISS,None,51.8,3,Pelicans,Jazz,81 - 76,1,25,3,Jumper
+111,Jae Crowder,DEFENSIVE_REBOUND,None,48.2,3,Jazz,Pelicans,81 - 76,0,N/A,N/A,N/A
+112,Derrick Favors,FG_ASSISTED,Joe Ingles,38.8,3,Jazz,Pelicans,83 - 76,0,0,2,Layup
+113,Frank Jackson,FG_MISS,Derrick Favors,29.8,3,Jazz,Pelicans,83 - 76,1,9,2,Jumper
+114,Joe Ingles,DEFENSIVE_REBOUND,None,29.8,3,Jazz,Pelicans,83 - 76,0,N/A,N/A,N/A
+115,Frank Jackson,FOUL_ON_FLOOR,None,20.6,3,Pelicans,Jazz,83 - 76,1,N/A,N/A,N/A
+116,Derrick Favors,FT,None,20.6,3,Jazz,Pelicans,84 - 76,0,N/A,1,N/A
+117,Derrick Favors,FT,None,20.6,3,Jazz,Pelicans,85 - 76,0,N/A,1,N/A
+118,E'Twaun Moore,FG_MISS,None,0.0,3,Pelicans,Jazz,85 - 76,1,17,2,Jumper
+119,Team,OFFENSIVE_REBOUND,None,0.0,3,Pelicans,Jazz,85 - 76,1,N/A,N/A,N/A
+120,End of,Unknown,None,0.0,3,Pelicans,Jazz,85 - 76,1,N/A,N/A,N/A
+0,Kyle Korver,FG_MISS,None,11:47,4,Jazz,Pelicans,85 - 76,0,26,3,Jumper
+1,Derrick Favors,OFFENSIVE_REBOUND,None,11:44,4,Jazz,Pelicans,85 - 76,0,N/A,N/A,N/A
+2,Derrick Favors,FG_UNASSISTED,None,11:42,4,Jazz,Pelicans,87 - 76,0,0,2,Dunk
+3,Cheick Diallo,FOUL_ON_FLOOR,None,11:33,4,Pelicans,Jazz,87 - 76,1,N/A,N/A,N/A
+4,Cheick Diallo,TURNOVER,None,11:33,4,Pelicans,Jazz,87 - 76,1,N/A,N/A,N/A
+5,Jae Crowder,FG_ASSISTED,Royce O'Neale,11:20,4,Jazz,Pelicans,89 - 76,0,0,2,Layup
+6,Frank Jackson,FG_UNASSISTED,None,11:01,4,Pelicans,Jazz,89 - 78,1,0,2,Layup
+7,Kyle Korver,FG_ASSISTED,Royce O'Neale,10:46,4,Jazz,Pelicans,91 - 78,0, ,2,Jumper
+8,Darius Miller,FG_MISS,None,10:32,4,Pelicans,Jazz,91 - 78,1,12,2,Jumper
+9,Jae Crowder,DEFENSIVE_REBOUND,None,10:30,4,Jazz,Pelicans,91 - 78,0,N/A,N/A,N/A
+10,Derrick Favors,FG_ASSISTED,Jae Crowder,10:24,4,Jazz,Pelicans,93 - 78,0,0,2,Layup
+11,Team,Unknown,None,10:20,4,Pelicans,Jazz,93 - 78,1,N/A,N/A,N/A
+12,Royce O'Neale,FOUL_ON_FLOOR,None,10:09,4,Jazz,Pelicans,93 - 78,0,N/A,N/A,N/A
+13,Julius Randle,SUBSTITUTION,Moore E'Twaun,10:09,4,Pelicans,Jazz,93 - 78,1,N/A,N/A,N/A
+14,Jrue Holiday,SUBSTITUTION,Diallo Cheick,10:09,4,Pelicans,Jazz,93 - 78,1,N/A,N/A,N/A
+15,Julius Randle,FG_ASSISTED,Elfrid Payton,9:57,4,Pelicans,Jazz,93 - 80,1, ,2,Jumper
+16,Royce O'Neale,FG_MISS,None,9:41,4,Jazz,Pelicans,93 - 80,0,25,3,Jumper
+17,Julius Randle,DEFENSIVE_REBOUND,None,9:37,4,Pelicans,Jazz,93 - 80,1,N/A,N/A,N/A
+18,Julius Randle,FG_UNASSISTED,None,9:32,4,Pelicans,Jazz,93 - 82,1,0,2,Layup
+19,Derrick Favors,FOUL_ON_FLOOR,None,9:32,4,Jazz,Pelicans,93 - 82,0,N/A,N/A,N/A
+20,Julius Randle,FT,None,9:32,4,Pelicans,Jazz,93 - 83,1,N/A,1,N/A
+21,Derrick Favors,FG_ASSISTED,Joe Ingles,9:15,4,Jazz,Pelicans,95 - 83,0,0,2,Dunk
+22,Elfrid Payton,FG_MISS,Royce O'Neale,9:03,4,Jazz,Pelicans,95 - 83,1,0,2,Layup
+23,Derrick Favors,DEFENSIVE_REBOUND,None,9:00,4,Jazz,Pelicans,95 - 83,0,N/A,N/A,N/A
+24,Derrick Favors,FG_ASSISTED,Kyle Korver,8:58,4,Jazz,Pelicans,97 - 83,0,0,2,Layup
+25,Frank Jackson,FOUL_ON_FLOOR,None,8:58,4,Pelicans,Jazz,97 - 83,1,N/A,N/A,N/A
+26,Kenrich Williams,SUBSTITUTION,Miller Darius,8:58,4,Pelicans,Jazz,97 - 83,1,N/A,N/A,N/A
+27,Derrick Favors,FT,None,8:58,4,Jazz,Pelicans,98 - 83,0,N/A,1,N/A
+28,Jrue Holiday,FG_UNASSISTED,None,8:42,4,Pelicans,Jazz,98 - 85,1,0,2,Layup
+29,Joe Ingles,FG_UNASSISTED,None,8:28,4,Jazz,Pelicans,100 - 85,0, ,2,Jumper
+30,Elfrid Payton,TURNOVER,Jae Crowder,8:12,4,Pelicans,Jazz,100 - 85,1,N/A,N/A,N/A
+31,Jae Crowder,FG_UNASSISTED,None,8:08,4,Jazz,Pelicans,102 - 85,0,0,2,Dunk
+32,Frank Jackson,FG_ASSISTED,Jrue Holiday,7:52,4,Pelicans,Jazz,102 - 88,1,23,3,Jumper
+33,Team,Unknown,None,7:50,4,Jazz,Pelicans,102 - 88,0,N/A,N/A,N/A
+34,Darius Miller,SUBSTITUTION,Payton Elfrid,7:50,4,Pelicans,Jazz,102 - 88,1,N/A,N/A,N/A
+35,Rudy Gobert,SUBSTITUTION,Favors Derrick,7:50,4,Jazz,Pelicans,102 - 88,0,N/A,N/A,N/A
+36,Donovan Mitchell,SUBSTITUTION,O'Neale Royce,7:50,4,Jazz,Pelicans,102 - 88,0,N/A,N/A,N/A
+37,Thabo Sefolosha,SUBSTITUTION,for game,7:50,4,Jazz,Pelicans,102 - 88,0,N/A,N/A,N/A
+38,enters the,SUBSTITUTION,Crowder Jae,7:50,4,Jazz,Pelicans,102 - 88,0,N/A,N/A,N/A
+39,Donovan Mitchell,TURNOVER,None,7:38,4,Jazz,Pelicans,102 - 88,0,N/A,N/A,N/A
+40,Jrue Holiday,FG_MISS,None,7:20,4,Pelicans,Jazz,102 - 88,1,27,3,Jumper
+41,Joe Ingles,DEFENSIVE_REBOUND,None,7:18,4,Jazz,Pelicans,102 - 88,0,N/A,N/A,N/A
+42,Julius Randle,FOUL_ON_FLOOR,None,7:18,4,Pelicans,Jazz,102 - 88,1,N/A,N/A,N/A
+43,Rudy Gobert,TURNOVER,Frank Jackson,7:04,4,Jazz,Pelicans,102 - 88,0,N/A,N/A,N/A
+44,Kenrich Williams,FG_MISS,None,7:00,4,Pelicans,Jazz,102 - 88,1,26,3,Jumper
+45,Team,DEFENSIVE_REBOUND,None,6:59,4,Jazz,Pelicans,102 - 88,0,N/A,N/A,N/A
+46,Donovan Mitchell,FG_MISS,None,6:47,4,Jazz,Pelicans,102 - 88,0,14,2,Jumper
+47,Kenrich Williams,DEFENSIVE_REBOUND,None,6:43,4,Pelicans,Jazz,102 - 88,1,N/A,N/A,N/A
+48,Kenrich Williams,FG_ASSISTED,Julius Randle,6:38,4,Pelicans,Jazz,102 - 91,1,25,3,Jumper
+49,Kyle Korver,FG_MISS,None,6:17,4,Jazz,Pelicans,102 - 91,0,23,3,Jumper
+50,Kenrich Williams,DEFENSIVE_REBOUND,None,6:10,4,Pelicans,Jazz,102 - 91,1,N/A,N/A,N/A
+51,Rudy Gobert,FOUL_ON_FLOOR,None,5:55,4,Jazz,Pelicans,102 - 91,0,N/A,N/A,N/A
+52,Julius Randle,FT_MISS,None,5:55,4,Pelicans,Jazz,102 - 91,1,N/A,1,N/A
+53,Team,OFFENSIVE_REBOUND,None,5:55,4,Pelicans,Jazz,102 - 91,1,N/A,N/A,N/A
+54,Elfrid Payton,SUBSTITUTION,Holiday Jrue,5:55,4,Pelicans,Jazz,102 - 91,1,N/A,N/A,N/A
+55,Julius Randle,FT,None,5:55,4,Pelicans,Jazz,102 - 92,1,N/A,1,N/A
+56,Donovan Mitchell,FG_UNASSISTED,None,5:42,4,Jazz,Pelicans,104 - 92,0,6,2,Jumper
+57,Julius Randle,TURNOVER,Kyle Korver,5:27,4,Pelicans,Jazz,104 - 92,1,N/A,N/A,N/A
+58,Thabo Sefolosha,FG_MISS,None,5:10,4,Jazz,Pelicans,104 - 92,0,22,3,Jumper
+59,Donovan Mitchell,OFFENSIVE_REBOUND,None,5:07,4,Jazz,Pelicans,104 - 92,0,N/A,N/A,N/A
+60,Joe Ingles,TURNOVER,Kenrich Williams,5:05,4,Jazz,Pelicans,104 - 92,0,N/A,N/A,N/A
+61,Darius Miller,FG_ASSISTED,Kenrich Williams,5:00,4,Pelicans,Jazz,104 - 95,1,27,3,Jumper
+62,Team,Unknown,None,4:59,4,Jazz,Pelicans,104 - 95,0,N/A,N/A,N/A
+63,Jae Crowder,SUBSTITUTION,Sefolosha Thabo,4:59,4,Jazz,Pelicans,104 - 95,0,N/A,N/A,N/A
+64,Ricky Rubio,SUBSTITUTION,Korver Kyle,4:59,4,Jazz,Pelicans,104 - 95,0,N/A,N/A,N/A
+65,Donovan Mitchell,FG_MISS,None,4:43,4,Jazz,Pelicans,104 - 95,0,13,2,Jumper
+66,Frank Jackson,DEFENSIVE_REBOUND,None,4:39,4,Pelicans,Jazz,104 - 95,1,N/A,N/A,N/A
+67,Kenrich Williams,FG_ASSISTED,Julius Randle,4:20,4,Pelicans,Jazz,104 - 98,1, ,3,Jumper
+68,Frank Jackson,FOUL_ON_FLOOR,None,4:07,4,Pelicans,Jazz,104 - 98,1,N/A,N/A,N/A
+69,Ricky Rubio,FT_MISS,None,4:07,4,Jazz,Pelicans,104 - 98,0,N/A,1,N/A
+70,Team,OFFENSIVE_REBOUND,None,4:07,4,Jazz,Pelicans,104 - 98,0,N/A,N/A,N/A
+71,Ricky Rubio,FT,None,4:07,4,Jazz,Pelicans,105 - 98,0,N/A,1,N/A
+72,Ricky Rubio,FOUL_ON_FLOOR,None,4:00,4,Jazz,Pelicans,105 - 98,0,N/A,N/A,N/A
+73,Julius Randle's,FG_MISS,Rudy Gobert,3:51,4,Jazz,Pelicans,105 - 98,1,0,2,Layup
+74,Joe Ingles,DEFENSIVE_REBOUND,None,3:49,4,Jazz,Pelicans,105 - 98,0,N/A,N/A,N/A
+75,Rudy Gobert,FG_ASSISTED,Joe Ingles,3:41,4,Jazz,Pelicans,107 - 98,0,0,2,Dunk
+76,Team,Unknown,None,3:35,4,Pelicans,Jazz,107 - 98,1,N/A,N/A,N/A
+77,Jrue Holiday,SUBSTITUTION,Payton Elfrid,3:35,4,Pelicans,Jazz,107 - 98,1,N/A,N/A,N/A
+78,Julius Randle,FG_MISS,None,3:22,4,Pelicans,Jazz,107 - 98,1,0,2,Layup
+79,Jae Crowder,DEFENSIVE_REBOUND,None,3:20,4,Jazz,Pelicans,107 - 98,0,N/A,N/A,N/A
+80,Julius Randle,FOUL_ON_FLOOR,None,3:16,4,Pelicans,Jazz,107 - 98,1,N/A,N/A,N/A
+81,Donovan Mitchell,FG_MISS,None,3:06,4,Jazz,Pelicans,107 - 98,0,6,2,Jumper
+82,Donovan Mitchell,OFFENSIVE_REBOUND,None,3:02,4,Jazz,Pelicans,107 - 98,0,N/A,N/A,N/A
+83,Donovan Mitchell,FG_MISS,None,3:01,4,Jazz,Pelicans,107 - 98,0,2,2,Jumper
+84,Kenrich Williams,DEFENSIVE_REBOUND,None,2:59,4,Pelicans,Jazz,107 - 98,1,N/A,N/A,N/A
+85,Julius Randle,FOUL_ON_FLOOR,None,2:51,4,Pelicans,Jazz,107 - 98,1,N/A,N/A,N/A
+86,Julius Randle,TURNOVER,None,2:51,4,Pelicans,Jazz,107 - 98,1,N/A,N/A,N/A
+87,Joe Ingles,FG_MISS,None,2:35,4,Jazz,Pelicans,107 - 98,0,24,3,Jumper
+88,Jrue Holiday,DEFENSIVE_REBOUND,None,2:32,4,Pelicans,Jazz,107 - 98,1,N/A,N/A,N/A
+89,Jrue Holiday,FG_MISS,None,2:22,4,Pelicans,Jazz,107 - 98,1,25,3,Jumper
+90,Ricky Rubio,DEFENSIVE_REBOUND,None,2:18,4,Jazz,Pelicans,107 - 98,0,N/A,N/A,N/A
+91,Ricky Rubio,FG_MISS,None,2:02,4,Jazz,Pelicans,107 - 98,0,25,3,Jumper
+92,Team,OFFENSIVE_REBOUND,None,2:01,4,Jazz,Pelicans,107 - 98,0,N/A,N/A,N/A
+93,Jrue Holiday,FOUL_ON_FLOOR,None,2:01,4,Pelicans,Jazz,107 - 98,1,N/A,N/A,N/A
+94,Rudy Gobert,FT_MISS,None,2:01,4,Jazz,Pelicans,107 - 98,0,N/A,1,N/A
+95,Team,OFFENSIVE_REBOUND,None,2:01,4,Jazz,Pelicans,107 - 98,0,N/A,N/A,N/A
+96,Rudy Gobert,FT,None,2:01,4,Jazz,Pelicans,108 - 98,0,N/A,1,N/A
+97,Jrue Holiday,TURNOVER,Jae Crowder,1:46,4,Pelicans,Jazz,108 - 98,1,N/A,N/A,N/A
+98,Jae Crowder,FG_UNASSISTED,None,1:44,4,Jazz,Pelicans,110 - 98,0,0,2,Dunk
+99,Team,Unknown,None,1:43,4,Pelicans,Jazz,110 - 98,1,N/A,N/A,N/A
+100,Jrue Holiday,FG_MISS,None,1:38,4,Pelicans,Jazz,110 - 98,1,26,3,Jumper
+101,Team,DEFENSIVE_REBOUND,None,1:36,4,Jazz,Pelicans,110 - 98,0,N/A,N/A,N/A
+102,Joe Ingles,FG_ASSISTED,Rudy Gobert,1:24,4,Jazz,Pelicans,112 - 98,0,7,2,Jumper
+103,Julius Randle,FG_ASSISTED,Kenrich Williams,1:16,4,Pelicans,Jazz,112 - 101,1,26,3,Jumper
+104,Jae Crowder,FG_MISS,None,58.3,4,Jazz,Pelicans,112 - 101,0,26,3,Jumper
+105,Julius Randle,DEFENSIVE_REBOUND,None,56.5,4,Pelicans,Jazz,112 - 101,1,N/A,N/A,N/A
+106,Team,Unknown,None,56.5,4,Pelicans,Jazz,112 - 101,1,N/A,N/A,N/A
+107,Cheick Diallo,SUBSTITUTION,Randle Julius,56.5,4,Pelicans,Jazz,112 - 101,1,N/A,N/A,N/A
+108,Elfrid Payton,SUBSTITUTION,Holiday Jrue,56.5,4,Pelicans,Jazz,112 - 101,1,N/A,N/A,N/A
+109,Kenrich Williams,FG_MISS,None,41.0,4,Pelicans,Jazz,112 - 101,1,28,3,Jumper
+110,Ricky Rubio,DEFENSIVE_REBOUND,None,37.2,4,Jazz,Pelicans,112 - 101,0,N/A,N/A,N/A
+111,Donovan Mitchell,FG_UNASSISTED,None,21.2,4,Jazz,Pelicans,114 - 101,0,7,2,Jumper
+112,Frank Jackson,FG_ASSISTED,Cheick Diallo,12.2,4,Pelicans,Jazz,114 - 104,1,26,3,Jumper
+113,End of,Unknown,None,0.0,4,Pelicans,Jazz,114 - 104,1,N/A,N/A,N/A
+114,End of,Unknown,None,0.0,4,Pelicans,Jazz,114 - 104,1,N/A,N/A,N/A

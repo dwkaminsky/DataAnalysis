@@ -1,0 +1,490 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Willie Cauley-Stein,JUMP_BALL,None,12:00,1,Clippers,Kings,0 - 0,1,N/A,N/A,N/A
+1,Shai Gilgeous-Alexander,FG_ASSISTED,Avery Bradley,11:44,1,Clippers,Kings,0 - 2,1,0,2,Layup
+2,Willie Cauley-Stein,FG_ASSISTED,Nemanja Bjelica,11:28,1,Kings,Clippers,2 - 2,0,0,2,Dunk
+3,Boban Marjanovic,FG_ASSISTED,Danilo Gallinari,11:04,1,Clippers,Kings,2 - 4,1,-,3,Jumper
+4,Iman Shumpert,FG_MISS,None,10:46,1,Kings,Clippers,2 - 4,0,19,3,Jumper
+5,Avery Bradley,DEFENSIVE_REBOUND,None,10:43,1,Clippers,Kings,2 - 4,1,N/A,N/A,N/A
+6,Shai Gilgeous-Alexander,FG_UNASSISTED,None,10:28,1,Clippers,Kings,2 - 6,1,12,3,Jumper
+7,Danilo Gallinari,FOUL_ON_FLOOR,None,10:20,1,Clippers,Kings,2 - 6,1,N/A,N/A,N/A
+8,De'Aaron Fox,FT_MISS,None,10:20,1,Kings,Clippers,2 - 6,0,N/A,1,N/A
+9,Team,OFFENSIVE_REBOUND,None,10:20,1,Kings,Clippers,2 - 6,0,N/A,N/A,N/A
+10,De'Aaron Fox,FT,None,10:20,1,Kings,Clippers,3 - 6,0,N/A,1,N/A
+11,Shai Gilgeous-Alexander,FG_UNASSISTED,None,10:10,1,Clippers,Kings,3 - 9,1,25,3,Jumper
+12,Buddy Hield,FG_MISS,None,9:56,1,Kings,Clippers,3 - 9,0,0,2,Layup
+13,Boban Marjanovic,DEFENSIVE_REBOUND,None,9:54,1,Clippers,Kings,3 - 9,1,N/A,N/A,N/A
+14,De'Aaron Fox,Unknown,None,9:54,1,Kings,Clippers,3 - 9,0,N/A,N/A,N/A
+15,Danilo Gallinari,FG_UNASSISTED,None,9:40,1,Clippers,Kings,3 - 12,1,26,3,Jumper
+16,Iman Shumpert,FG_ASSISTED,Willie Cauley-Stein,9:25,1,Kings,Clippers,5 - 12,0,0,2,Layup
+17,Shai Gilgeous-Alexander,FG_UNASSISTED,None,9:15,1,Clippers,Kings,5 - 14,1, ,3,Jumper
+18,Buddy Hield,FG_ASSISTED,De'Aaron Fox,9:11,1,Kings,Clippers,7 - 14,0, ,3,Jumper
+19,Tobias Harris,FOUL_ON_FLOOR,None,9:11,1,Clippers,Kings,7 - 14,1,N/A,N/A,N/A
+20,Buddy Hield,FT,None,9:11,1,Kings,Clippers,8 - 14,0,N/A,1,N/A
+21,Tobias Harris,FG_MISS,None,8:59,1,Clippers,Kings,8 - 14,1,25,3,Jumper
+22,Nemanja Bjelica,DEFENSIVE_REBOUND,None,8:57,1,Kings,Clippers,8 - 14,0,N/A,N/A,N/A
+23,Boban Marjanovic,FOUL_ON_FLOOR,None,8:57,1,Clippers,Kings,8 - 14,1,N/A,N/A,N/A
+24,Willie Cauley-Stein,FG_MISS,None,8:45,1,Kings,Clippers,8 - 14,0,9,3,Jumper
+25,Avery Bradley,DEFENSIVE_REBOUND,None,8:39,1,Clippers,Kings,8 - 14,1,N/A,N/A,N/A
+26,Buddy Hield,FOUL_ON_FLOOR,None,8:37,1,Kings,Clippers,8 - 14,0,N/A,N/A,N/A
+27,Danilo Gallinari,FT,None,8:37,1,Clippers,Kings,8 - 15,1,N/A,1,N/A
+28,Danilo Gallinari,FT,None,8:37,1,Clippers,Kings,8 - 16,1,N/A,1,N/A
+29,De'Aaron Fox,FG_UNASSISTED,None,8:27,1,Kings,Clippers,10 - 16,0,0,2,Layup
+30,Avery Bradley,FG_MISS,None,8:10,1,Clippers,Kings,10 - 16,1,0,2,Layup
+31,Avery Bradley,OFFENSIVE_REBOUND,None,8:03,1,Clippers,Kings,10 - 16,1,N/A,N/A,N/A
+32,Avery Bradley,FG_UNASSISTED,None,8:03,1,Clippers,Kings,10 - 18,1, ,3,Jumper
+33,Iman Shumpert,FG_MISS,None,8:03,1,Kings,Clippers,10 - 18,0,26,3,Jumper
+34,Team,DEFENSIVE_REBOUND,None,8:03,1,Clippers,Kings,10 - 18,1,N/A,N/A,N/A
+35,Danilo Gallinari,FG_MISS,None,7:50,1,Clippers,Kings,10 - 18,1,24,3,Jumper
+36,Willie Cauley-Stein,DEFENSIVE_REBOUND,None,7:47,1,Kings,Clippers,10 - 18,0,N/A,N/A,N/A
+37,Buddy Hield,FG_MISS,None,7:42,1,Kings,Clippers,10 - 18,0, ,3,Jumper
+38,Boban Marjanovic,DEFENSIVE_REBOUND,None,7:40,1,Clippers,Kings,10 - 18,1,N/A,N/A,N/A
+39,Danilo Gallinari,FG_MISS,None,7:25,1,Clippers,Kings,10 - 18,1,23,3,Jumper
+40,Buddy Hield,DEFENSIVE_REBOUND,None,7:21,1,Kings,Clippers,10 - 18,0,N/A,N/A,N/A
+41,Buddy Hield,FG_MISS,None,7:16,1,Kings,Clippers,10 - 18,0,12,3,Jumper
+42,Team,OFFENSIVE_REBOUND,None,7:15,1,Kings,Clippers,10 - 18,0,N/A,N/A,N/A
+43,Shai Gilgeous-Alexander,FOUL_ON_FLOOR,None,7:15,1,Clippers,Kings,10 - 18,1,N/A,N/A,N/A
+44,Bogdan Bogdanovic,SUBSTITUTION,Hield Buddy,7:15,1,Kings,Clippers,10 - 18,0,N/A,N/A,N/A
+45,Iman Shumpert,FG_UNASSISTED,None,7:06,1,Kings,Clippers,12 - 18,0,20,3,Jumper
+46,Boban Marjanovic,FG_MISS,None,6:42,1,Clippers,Kings,12 - 18,1,11,3,Jumper
+47,De'Aaron Fox,DEFENSIVE_REBOUND,None,6:39,1,Kings,Clippers,12 - 18,0,N/A,N/A,N/A
+48,Bogdan Bogdanovic,FG_MISS,None,6:35,1,Kings,Clippers,12 - 18,0,21,3,Jumper
+49,Shai Gilgeous-Alexander,DEFENSIVE_REBOUND,None,6:29,1,Clippers,Kings,12 - 18,1,N/A,N/A,N/A
+50,Danilo Gallinari,TURNOVER,None,6:28,1,Clippers,Kings,12 - 18,1,N/A,N/A,N/A
+51,Danilo Gallinari,TURNOVER,None,6:28,1,Clippers,Kings,12 - 18,1,N/A,N/A,N/A
+52,Team,Unknown,None,6:28,1,Clippers,Kings,12 - 18,1,N/A,N/A,N/A
+53,Patrick Beverley,SUBSTITUTION,Gallinari Danilo,6:28,1,Clippers,Kings,12 - 18,1,N/A,N/A,N/A
+54,Bogdan Bogdanovic,FG_UNASSISTED,None,6:04,1,Kings,Clippers,14 - 18,0,4,3,Jumper
+55,Tobias Harris,FG_ASSISTED,Shai Gilgeous-Alexander,5:50,1,Clippers,Kings,14 - 21,1,26,3,Jumper
+56,Iman Shumpert,FG_MISS,None,5:34,1,Kings,Clippers,14 - 21,0,14,3,Jumper
+57,Nemanja Bjelica,OFFENSIVE_REBOUND,None,5:30,1,Kings,Clippers,14 - 21,0,N/A,N/A,N/A
+58,Iman Shumpert,FG_MISS,None,5:24,1,Kings,Clippers,14 - 21,0,23,3,Jumper
+59,Tobias Harris,DEFENSIVE_REBOUND,None,5:23,1,Clippers,Kings,14 - 21,1,N/A,N/A,N/A
+60,Avery Bradley,FG_MISS,None,5:21,1,Clippers,Kings,14 - 21,1,25,3,Jumper
+61,Shai Gilgeous-Alexander,OFFENSIVE_REBOUND,None,5:18,1,Clippers,Kings,14 - 21,1,N/A,N/A,N/A
+62,Bogdan Bogdanovic,FOUL_ON_FLOOR,None,5:08,1,Kings,Clippers,14 - 21,0,N/A,N/A,N/A
+63,Avery Bradley,FT_MISS,None,5:08,1,Clippers,Kings,14 - 21,1,N/A,1,N/A
+64,Team,OFFENSIVE_REBOUND,None,5:08,1,Clippers,Kings,14 - 21,1,N/A,N/A,N/A
+65,Yogi Ferrell,SUBSTITUTION,Fox De'Aaron,5:08,1,Kings,Clippers,14 - 21,0,N/A,N/A,N/A
+66,Justin Jackson,SUBSTITUTION,Bjelica Nemanja,5:08,1,Kings,Clippers,14 - 21,0,N/A,N/A,N/A
+67,Avery Bradley,FT,None,5:08,1,Clippers,Kings,14 - 22,1,N/A,1,N/A
+68,Boban Marjanovic,FOUL_ON_FLOOR,None,4:57,1,Clippers,Kings,14 - 22,1,N/A,N/A,N/A
+69,Willie Cauley-Stein,FT,None,4:57,1,Kings,Clippers,15 - 22,0,N/A,1,N/A
+70,Montrezl Harrell,SUBSTITUTION,Marjanovic Boban,4:57,1,Clippers,Kings,15 - 22,1,N/A,N/A,N/A
+71,Buddy Hield,SUBSTITUTION,Shumpert Iman,4:57,1,Kings,Clippers,15 - 22,0,N/A,N/A,N/A
+72,Patrick Beverley,Unknown,None,4:57,1,Clippers,Kings,15 - 22,1,N/A,N/A,N/A
+73,Willie Cauley-Stein,FT_MISS,None,4:57,1,Kings,Clippers,15 - 22,0,N/A,1,N/A
+74,Tobias Harris,DEFENSIVE_REBOUND,None,4:54,1,Clippers,Kings,15 - 22,1,N/A,N/A,N/A
+75,Tobias Harris,FG_ASSISTED,Montrezl Harrell,4:40,1,Clippers,Kings,15 - 24,1,8,3,Jumper
+76,Willie Cauley-Stein,FG_UNASSISTED,None,4:23,1,Kings,Clippers,17 - 24,0,3,3,Jumper
+77,Shai Gilgeous-Alexander,FG_ASSISTED,Avery Bradley,4:09,1,Clippers,Kings,17 - 26,1,0,2,Layup
+78,Willie Cauley-Stein,FG_MISS,None,3:58,1,Kings,Clippers,17 - 26,0,7,3,Jumper
+79,Tobias Harris,DEFENSIVE_REBOUND,None,3:54,1,Clippers,Kings,17 - 26,1,N/A,N/A,N/A
+80,Tobias Harris,FG_MISS,None,3:48,1,Clippers,Kings,17 - 26,1,0,2,Layup
+81,Justin Jackson,DEFENSIVE_REBOUND,None,3:46,1,Kings,Clippers,17 - 26,0,N/A,N/A,N/A
+82,Yogi Ferrell,FG_MISS,None,3:42,1,Kings,Clippers,17 - 26,0, ,3,Jumper
+83,Justin Jackson,OFFENSIVE_REBOUND,None,3:38,1,Kings,Clippers,17 - 26,0,N/A,N/A,N/A
+84,Justin Jackson,FG_MISS,None,3:37,1,Kings,Clippers,17 - 26,0,27,3,Jumper
+85,Buddy Hield,OFFENSIVE_REBOUND,None,3:37,1,Kings,Clippers,17 - 26,0,N/A,N/A,N/A
+86,Shai Gilgeous-Alexander,FOUL_ON_FLOOR,None,3:37,1,Clippers,Kings,17 - 26,1,N/A,N/A,N/A
+87,Buddy Hield,FT,None,3:37,1,Kings,Clippers,18 - 26,0,N/A,1,N/A
+88,Lou Williams,SUBSTITUTION,Gilgeous-Alexander Shai,3:37,1,Clippers,Kings,18 - 26,1,N/A,N/A,N/A
+89,Kosta Koufos,SUBSTITUTION,Cauley-Stein Willie,3:37,1,Kings,Clippers,18 - 26,0,N/A,N/A,N/A
+90,Buddy Hield,FT,None,3:37,1,Kings,Clippers,19 - 26,0,N/A,1,N/A
+91,Lou Williams,FG_MISS,None,3:30,1,Clippers,Kings,19 - 26,1,17,3,Jumper
+92,Avery Bradley,OFFENSIVE_REBOUND,None,3:24,1,Clippers,Kings,19 - 26,1,N/A,N/A,N/A
+93,Avery Bradley,FG_UNASSISTED,None,3:24,1,Clippers,Kings,19 - 28,1, ,3,Jumper
+94,Yogi Ferrell,FG_MISS,Montrezl Harrell,3:14,1,Clippers,Kings,19 - 28,0,0,2,Layup
+95,Patrick Beverley,DEFENSIVE_REBOUND,None,3:10,1,Clippers,Kings,19 - 28,1,N/A,N/A,N/A
+96,Patrick Beverley,FG_MISS,None,3:02,1,Clippers,Kings,19 - 28,1,26,3,Jumper
+97,Buddy Hield,DEFENSIVE_REBOUND,None,2:58,1,Kings,Clippers,19 - 28,0,N/A,N/A,N/A
+98,Buddy Hield,FG_MISS,None,2:51,1,Kings,Clippers,19 - 28,0,26,3,Jumper
+99,Patrick Beverley,DEFENSIVE_REBOUND,None,2:48,1,Clippers,Kings,19 - 28,1,N/A,N/A,N/A
+100,Tobias Harris,FG_ASSISTED,Lou Williams,2:35,1,Clippers,Kings,19 - 31,1,26,3,Jumper
+101,Team,Unknown,None,2:26,1,Kings,Clippers,19 - 31,0,N/A,N/A,N/A
+102,Kosta Koufos,FG_ASSISTED,Yogi Ferrell,2:21,1,Kings,Clippers,21 - 31,0,10,3,Jumper
+103,Montrezl Harrell,FG_UNASSISTED,None,1:58,1,Clippers,Kings,21 - 33,1,6,3,Jumper
+104,Buddy Hield,FG_MISS,None,1:49,1,Kings,Clippers,21 - 33,0,26,3,Jumper
+105,Justin Jackson,OFFENSIVE_REBOUND,None,1:44,1,Kings,Clippers,21 - 33,0,N/A,N/A,N/A
+106,Justin Jackson,FG_UNASSISTED,None,1:42,1,Kings,Clippers,23 - 33,0,9,3,Jumper
+107,Tobias Harris,FG_UNASSISTED,None,1:33,1,Clippers,Kings,23 - 35,1,16,3,Jumper
+108,Kosta Koufos,TURNOVER,Montrezl Harrell,1:30,1,Kings,Clippers,23 - 35,0,N/A,N/A,N/A
+109,Kosta Koufos,FOUL_ON_FLOOR,None,1:30,1,Kings,Clippers,23 - 35,0,N/A,N/A,N/A
+110,Montrezl Harrell,FT,None,1:30,1,Clippers,Kings,23 - 36,1,N/A,1,N/A
+111,Mike Scott,SUBSTITUTION,Bradley Avery,1:30,1,Clippers,Kings,23 - 36,1,N/A,N/A,N/A
+112,Tyrone Wallace,SUBSTITUTION,Harris Tobias,1:30,1,Clippers,Kings,23 - 36,1,N/A,N/A,N/A
+113,Montrezl Harrell,FT,None,1:30,1,Clippers,Kings,23 - 37,1,N/A,1,N/A
+114,Kosta Koufos,FG_ASSISTED,Bogdan Bogdanovic,1:12,1,Kings,Clippers,25 - 37,0,0,2,Layup
+115,Tyrone Wallace,FG_MISS,Yogi Ferrell,50.2,1,Kings,Clippers,25 - 37,1,0,2,Layup
+116,Tyrone Wallace,OFFENSIVE_REBOUND,None,46.1,1,Clippers,Kings,25 - 37,1,N/A,N/A,N/A
+117,Montrezl Harrell,FG_UNASSISTED,None,46.1,1,Clippers,Kings,25 - 39,1,0,2,Layup
+118,Yogi Ferrell's,FG_MISS,Montrezl Harrell,43.2,1,Clippers,Kings,25 - 39,0, ,3,Jumper
+119,Buddy Hield,OFFENSIVE_REBOUND,None,43.2,1,Kings,Clippers,25 - 39,0,N/A,N/A,N/A
+120,Buddy Hield,FG_UNASSISTED,None,41.2,1,Kings,Clippers,27 - 39,0, ,3,Jumper
+121,Lou Williams,FG_MISS,None,35.7,1,Clippers,Kings,27 - 39,1,11,3,Jumper
+122,Bogdan Bogdanovic,DEFENSIVE_REBOUND,None,35.7,1,Kings,Clippers,27 - 39,0,N/A,N/A,N/A
+123,Yogi Ferrell,FG_MISS,None,28.7,1,Kings,Clippers,27 - 39,0,25,3,Jumper
+124,Mike Scott,DEFENSIVE_REBOUND,None,23.6,1,Clippers,Kings,27 - 39,1,N/A,N/A,N/A
+125,Lou Williams,FG_MISS,None,7.9,1,Clippers,Kings,27 - 39,1,26,3,Jumper
+126,Lou Williams,OFFENSIVE_REBOUND,None,3.3,1,Clippers,Kings,27 - 39,1,N/A,N/A,N/A
+127,Lou Williams,TURNOVER,Kosta Koufos,0.9,1,Clippers,Kings,27 - 39,1,N/A,N/A,N/A
+128,Bogdan Bogdanovic,FG_MISS,None,0.1,1,Kings,Clippers,27 - 39,0,44,3,Jumper
+129,Team,OFFENSIVE_REBOUND,None,0.1,1,Kings,Clippers,27 - 39,0,N/A,N/A,N/A
+130,End of,Unknown,None,0.0,1,Clippers,Kings,27 - 39,1,N/A,N/A,N/A
+0,De'Aaron Fox,SUBSTITUTION,Ferrell Yogi,12:00,2,Kings,Clippers,27 - 39,0,N/A,N/A,N/A
+1,De'Aaron Fox,FG_MISS,None,11:46,2,Kings,Clippers,27 - 39,0,25,3,Jumper
+2,Bogdan Bogdanovic,OFFENSIVE_REBOUND,None,11:40,2,Kings,Clippers,27 - 39,0,N/A,N/A,N/A
+3,Buddy Hield,TURNOVER,Tyrone Wallace,11:32,2,Kings,Clippers,27 - 39,0,N/A,N/A,N/A
+4,Tyrone Wallace,FG_ASSISTED,Lou Williams,11:29,2,Clippers,Kings,27 - 41,1, ,3,Jumper
+5,Kosta Koufos,FG_ASSISTED,Bogdan Bogdanovic,11:21,2,Kings,Clippers,29 - 41,0,0,2,Layup
+6,Mike Scott,FG_MISS,None,11:06,2,Clippers,Kings,29 - 41,1,8,3,Jumper
+7,Justin Jackson,DEFENSIVE_REBOUND,None,11:03,2,Kings,Clippers,29 - 41,0,N/A,N/A,N/A
+8,Mike Scott,FOUL_ON_FLOOR,None,10:57,2,Clippers,Kings,29 - 41,1,N/A,N/A,N/A
+9,Iman Shumpert,SUBSTITUTION,Hield Buddy,10:57,2,Kings,Clippers,29 - 41,0,N/A,N/A,N/A
+10,Kosta Koufos,FG_MISS,None,10:49,2,Kings,Clippers,29 - 41,0,9,3,Jumper
+11,Lou Williams,DEFENSIVE_REBOUND,None,10:45,2,Clippers,Kings,29 - 41,1,N/A,N/A,N/A
+12,Montrezl Harrell,FG_UNASSISTED,None,10:36,2,Clippers,Kings,29 - 43,1,0,2,Layup
+13,Iman Shumpert,FOUL_ON_FLOOR,None,10:31,2,Kings,Clippers,29 - 43,0,N/A,N/A,N/A
+14,Iman Shumpert,TURNOVER,None,10:31,2,Kings,Clippers,29 - 43,0,N/A,N/A,N/A
+15,Lou Williams,FG_UNASSISTED,None,10:25,2,Clippers,Kings,29 - 45,1,9,3,Jumper
+16,De'Aaron Fox,FOUL_ON_FLOOR,None,10:25,2,Kings,Clippers,29 - 45,0,N/A,N/A,N/A
+17,Willie Cauley-Stein,SUBSTITUTION,Koufos Kosta,10:25,2,Kings,Clippers,29 - 45,0,N/A,N/A,N/A
+18,Lou Williams,FT,None,10:25,2,Clippers,Kings,29 - 46,1,N/A,1,N/A
+19,Iman Shumpert,FG_MISS,Lou Williams,10:13,2,Clippers,Kings,29 - 46,0,0,2,Layup
+20,Lou Williams,DEFENSIVE_REBOUND,None,10:11,2,Clippers,Kings,29 - 46,1,N/A,N/A,N/A
+21,Tyrone Wallace,FG_ASSISTED,Patrick Beverley,10:07,2,Clippers,Kings,29 - 48,1, ,3,Jumper
+22,Team,Unknown,None,10:04,2,Kings,Clippers,29 - 48,0,N/A,N/A,N/A
+23,Bogdan Bogdanovic,FG_MISS,None,9:54,2,Kings,Clippers,29 - 48,0,0,2,Layup
+24,Montrezl Harrell,DEFENSIVE_REBOUND,None,9:51,2,Clippers,Kings,29 - 48,1,N/A,N/A,N/A
+25,Montrezl Harrell,FG_ASSISTED,Lou Williams,9:44,2,Clippers,Kings,29 - 50,1,0,2,Layup
+26,Bogdan Bogdanovic,FG_ASSISTED,De'Aaron Fox,9:31,2,Kings,Clippers,32 - 50,0,26,3,Jumper
+27,Lou Williams,TURNOVER,De'Aaron Fox,9:17,2,Clippers,Kings,32 - 50,1,N/A,N/A,N/A
+28,Patrick Beverley,FOUL_ON_FLOOR,None,9:17,2,Clippers,Kings,32 - 50,1,N/A,N/A,N/A
+29,Willie Cauley-Stein,TURNOVER,Patrick Beverley,9:06,2,Kings,Clippers,32 - 50,0,N/A,N/A,N/A
+30,Montrezl Harrell,FG_UNASSISTED,None,8:57,2,Clippers,Kings,32 - 52,1,0,2,Dunk
+31,De'Aaron Fox,FG_MISS,None,8:41,2,Kings,Clippers,32 - 52,0,14,3,Jumper
+32,Tyrone Wallace,DEFENSIVE_REBOUND,None,8:38,2,Clippers,Kings,32 - 52,1,N/A,N/A,N/A
+33,Lou Williams,FG_MISS,None,8:32,2,Clippers,Kings,32 - 52,1,19,3,Jumper
+34,Willie Cauley-Stein,DEFENSIVE_REBOUND,None,8:30,2,Kings,Clippers,32 - 52,0,N/A,N/A,N/A
+35,Bogdan Bogdanovic,TURNOVER,Montrezl Harrell,8:20,2,Kings,Clippers,32 - 52,0,N/A,N/A,N/A
+36,Patrick Beverley,FG_MISS,Willie Cauley-Stein,8:07,2,Kings,Clippers,32 - 52,1,0,2,Layup
+37,Iman Shumpert,DEFENSIVE_REBOUND,None,8:04,2,Kings,Clippers,32 - 52,0,N/A,N/A,N/A
+38,Bogdan Bogdanovic,FG_ASSISTED,Justin Jackson,8:02,2,Kings,Clippers,34 - 52,0,0,2,Layup
+39,Bogdan Bogdanovic,FOUL_ON_FLOOR,None,7:54,2,Kings,Clippers,34 - 52,0,N/A,N/A,N/A
+40,Nemanja Bjelica,SUBSTITUTION,Bogdanovic Bogdan,7:54,2,Kings,Clippers,34 - 52,0,N/A,N/A,N/A
+41,Patrick Beverley,FG_ASSISTED,Lou Williams,7:46,2,Clippers,Kings,34 - 55,1,24,3,Jumper
+42,Tyrone Wallace,FOUL_ON_FLOOR,None,7:33,2,Clippers,Kings,34 - 55,1,N/A,N/A,N/A
+43,De'Aaron Fox,FT,None,7:33,2,Kings,Clippers,35 - 55,0,N/A,1,N/A
+44,De'Aaron Fox,FT,None,7:33,2,Kings,Clippers,36 - 55,0,N/A,1,N/A
+45,Tyrone Wallace,FG_MISS,None,7:22,2,Clippers,Kings,36 - 55,1,8,3,Jumper
+46,Tyrone Wallace,OFFENSIVE_REBOUND,None,7:20,2,Clippers,Kings,36 - 55,1,N/A,N/A,N/A
+47,Tyrone Wallace,FG_MISS,Nemanja Bjelica,7:19,2,Kings,Clippers,36 - 55,1,4,3,Jumper
+48,De'Aaron Fox,DEFENSIVE_REBOUND,None,7:19,2,Kings,Clippers,36 - 55,0,N/A,N/A,N/A
+49,Montrezl Harrell,FOUL_ON_FLOOR,None,7:19,2,Clippers,Kings,36 - 55,1,N/A,N/A,N/A
+50,Danilo Gallinari,SUBSTITUTION,Wallace Tyrone,7:19,2,Clippers,Kings,36 - 55,1,N/A,N/A,N/A
+51,Shai Gilgeous-Alexander,SUBSTITUTION,Scott Mike,7:19,2,Clippers,Kings,36 - 55,1,N/A,N/A,N/A
+52,Buddy Hield,SUBSTITUTION,Jackson Justin,7:19,2,Kings,Clippers,36 - 55,0,N/A,N/A,N/A
+53,De'Aaron Fox,FG_UNASSISTED,None,7:09,2,Kings,Clippers,38 - 55,0,0,2,Layup
+54,Nemanja Bjelica,FOUL_ON_FLOOR,None,7:05,2,Kings,Clippers,38 - 55,0,N/A,N/A,N/A
+55,Lou Williams,FG_UNASSISTED,None,6:56,2,Clippers,Kings,38 - 57,1,21,3,Jumper
+56,De'Aaron Fox,FG_UNASSISTED,None,6:45,2,Kings,Clippers,40 - 57,0,12,3,Jumper
+57,Shai Gilgeous-Alexander,FG_MISS,None,6:32,2,Clippers,Kings,40 - 57,1, ,3,Jumper
+58,Montrezl Harrell,OFFENSIVE_REBOUND,None,6:32,2,Clippers,Kings,40 - 57,1,N/A,N/A,N/A
+59,Montrezl Harrell,FG_UNASSISTED,None,6:32,2,Clippers,Kings,40 - 59,1,0,2,Dunk
+60,Willie Cauley-Stein,FOUL_ON_FLOOR,None,6:32,2,Kings,Clippers,40 - 59,0,N/A,N/A,N/A
+61,Montrezl Harrell,FT,None,6:32,2,Clippers,Kings,40 - 60,1,N/A,1,N/A
+62,Buddy Hield,FG_MISS,None,6:12,2,Kings,Clippers,40 - 60,0,24,3,Jumper
+63,Shai Gilgeous-Alexander,DEFENSIVE_REBOUND,None,6:09,2,Clippers,Kings,40 - 60,1,N/A,N/A,N/A
+64,Shai Gilgeous-Alexander,FG_MISS,Willie Cauley-Stein,6:05,2,Kings,Clippers,40 - 60,1,4,3,Jumper
+65,Montrezl Harrell,OFFENSIVE_REBOUND,None,6:03,2,Clippers,Kings,40 - 60,1,N/A,N/A,N/A
+66,Tobias Harris,SUBSTITUTION,Beverley Patrick,6:03,2,Clippers,Kings,40 - 60,1,N/A,N/A,N/A
+67,shot clock,TURNOVER,None,5:48,2,Clippers,Kings,40 - 60,1,N/A,N/A,N/A
+68,De'Aaron Fox,FG_UNASSISTED,None,5:39,2,Kings,Clippers,42 - 60,0,0,2,Layup
+69,Danilo Gallinari,FG_MISS,None,5:25,2,Clippers,Kings,42 - 60,1,0,2,Layup
+70,Willie Cauley-Stein,DEFENSIVE_REBOUND,None,5:25,2,Kings,Clippers,42 - 60,0,N/A,N/A,N/A
+71,Avery Bradley,SUBSTITUTION,Williams Lou,5:25,2,Clippers,Kings,42 - 60,1,N/A,N/A,N/A
+72,Willie Cauley-Stein,FG_ASSISTED,De'Aaron Fox,5:15,2,Kings,Clippers,44 - 60,0,0,2,Dunk
+73,Team,Unknown,None,5:15,2,Clippers,Kings,44 - 60,1,N/A,N/A,N/A
+74,Danilo Gallinari,FG_UNASSISTED,None,4:51,2,Clippers,Kings,44 - 62,1,7,3,Jumper
+75,Buddy Hield,FG_ASSISTED,Nemanja Bjelica,4:37,2,Kings,Clippers,46 - 62,0,21,3,Jumper
+76,Avery Bradley,FG_MISS,Buddy Hield,4:23,2,Kings,Clippers,46 - 62,1,26,3,Jumper
+77,De'Aaron Fox,DEFENSIVE_REBOUND,None,4:20,2,Kings,Clippers,46 - 62,0,N/A,N/A,N/A
+78,Buddy Hield,FG_MISS,None,4:10,2,Kings,Clippers,46 - 62,0,14,3,Jumper
+79,Montrezl Harrell,DEFENSIVE_REBOUND,None,4:10,2,Clippers,Kings,46 - 62,1,N/A,N/A,N/A
+80,Shai Gilgeous-Alexander,FG_MISS,None,4:01,2,Clippers,Kings,46 - 62,1,23,3,Jumper
+81,Iman Shumpert,DEFENSIVE_REBOUND,None,3:57,2,Kings,Clippers,46 - 62,0,N/A,N/A,N/A
+82,De'Aaron Fox,FG_MISS,None,3:54,2,Kings,Clippers,46 - 62,0, ,3,Jumper
+83,Team,DEFENSIVE_REBOUND,None,3:54,2,Clippers,Kings,46 - 62,1,N/A,N/A,N/A
+84,Boban Marjanovic,SUBSTITUTION,Harrell Montrezl,3:54,2,Clippers,Kings,46 - 62,1,N/A,N/A,N/A
+85,Bogdan Bogdanovic,SUBSTITUTION,Hield Buddy,3:54,2,Kings,Clippers,46 - 62,0,N/A,N/A,N/A
+86,Avery Bradley,TURNOVER,De'Aaron Fox,3:43,2,Clippers,Kings,46 - 62,1,N/A,N/A,N/A
+87,Nemanja Bjelica,FG_MISS,None,3:37,2,Kings,Clippers,46 - 62,0,25,3,Jumper
+88,Avery Bradley,DEFENSIVE_REBOUND,None,3:33,2,Clippers,Kings,46 - 62,1,N/A,N/A,N/A
+89,Willie Cauley-Stein,FOUL_ON_FLOOR,None,3:27,2,Kings,Clippers,46 - 62,0,N/A,N/A,N/A
+90,Boban Marjanovic,FT_MISS,None,3:27,2,Clippers,Kings,46 - 62,1,N/A,1,N/A
+91,Team,OFFENSIVE_REBOUND,None,3:27,2,Clippers,Kings,46 - 62,1,N/A,N/A,N/A
+92,Boban Marjanovic,FT,None,3:27,2,Clippers,Kings,46 - 63,1,N/A,1,N/A
+93,De'Aaron Fox,FG_UNASSISTED,None,3:18,2,Kings,Clippers,48 - 63,0,0,2,Layup
+94,Boban Marjanovic,FG_ASSISTED,Danilo Gallinari,2:59,2,Clippers,Kings,48 - 65,1,5,3,Jumper
+95,Nemanja Bjelica,TURNOVER,None,2:50,2,Kings,Clippers,48 - 65,0,N/A,N/A,N/A
+96,Nemanja Bjelica,TURNOVER,None,2:50,2,Kings,Clippers,48 - 65,0,N/A,N/A,N/A
+97,Willie Cauley-Stein,FOUL_ON_FLOOR,None,2:44,2,Kings,Clippers,48 - 65,0,N/A,N/A,N/A
+98,Boban Marjanovic,FT,None,2:44,2,Clippers,Kings,48 - 66,1,N/A,1,N/A
+99,Kosta Koufos,SUBSTITUTION,Cauley-Stein Willie,2:44,2,Kings,Clippers,48 - 66,0,N/A,N/A,N/A
+100,Boban Marjanovic,FT,None,2:44,2,Clippers,Kings,48 - 67,1,N/A,1,N/A
+101,De'Aaron Fox,FG_MISS,None,2:35,2,Kings,Clippers,48 - 67,0,23,3,Jumper
+102,Tobias Harris,DEFENSIVE_REBOUND,None,2:33,2,Clippers,Kings,48 - 67,1,N/A,N/A,N/A
+103,Tobias Harris,TURNOVER,None,2:19,2,Clippers,Kings,48 - 67,1,N/A,N/A,N/A
+104,Avery Bradley,FOUL_ON_FLOOR,None,2:14,2,Clippers,Kings,48 - 67,1,N/A,N/A,N/A
+105,Bogdan Bogdanovic,FT_MISS,None,2:14,2,Kings,Clippers,48 - 67,0,N/A,1,N/A
+106,Team,OFFENSIVE_REBOUND,None,2:14,2,Kings,Clippers,48 - 67,0,N/A,N/A,N/A
+107,Bogdan Bogdanovic,FT,None,2:14,2,Kings,Clippers,49 - 67,0,N/A,1,N/A
+108,Avery Bradley,FG_ASSISTED,Boban Marjanovic,1:58,2,Clippers,Kings,49 - 69,1,2,3,Jumper
+109,Iman Shumpert,FG_UNASSISTED,None,1:49,2,Kings,Clippers,51 - 69,0,0,2,Layup
+110,Danilo Gallinari,FG_ASSISTED,Avery Bradley,1:33,2,Clippers,Kings,51 - 71,1,22,3,Jumper
+111,De'Aaron Fox,FG_ASSISTED,Bogdan Bogdanovic,1:22,2,Kings,Clippers,53 - 71,0,3,3,Jumper
+112,Danilo Gallinari,FG_MISS,None,1:07,2,Clippers,Kings,53 - 71,1,25,3,Jumper
+113,De'Aaron Fox,DEFENSIVE_REBOUND,None,1:04,2,Kings,Clippers,53 - 71,0,N/A,N/A,N/A
+114,De'Aaron Fox,TURNOVER,None,1:01,2,Kings,Clippers,53 - 71,0,N/A,N/A,N/A
+115,Buddy Hield,SUBSTITUTION,Fox De'Aaron,1:01,2,Kings,Clippers,53 - 71,0,N/A,N/A,N/A
+116,Avery Bradley,FG_MISS,None,51.3,2,Clippers,Kings,53 - 71,1,19,3,Jumper
+117,Kosta Koufos,DEFENSIVE_REBOUND,None,47.8,2,Kings,Clippers,53 - 71,0,N/A,N/A,N/A
+118,Avery Bradley,FOUL_ON_FLOOR,None,39.4,2,Clippers,Kings,53 - 71,1,N/A,N/A,N/A
+119,Bogdan Bogdanovic,FT_MISS,None,39.4,2,Kings,Clippers,53 - 71,0,N/A,1,N/A
+120,Team,OFFENSIVE_REBOUND,None,39.4,2,Kings,Clippers,53 - 71,0,N/A,N/A,N/A
+121,Patrick Beverley,SUBSTITUTION,Gallinari Danilo,39.4,2,Clippers,Kings,53 - 71,1,N/A,N/A,N/A
+122,Bogdan Bogdanovic,FT,None,39.4,2,Kings,Clippers,54 - 71,0,N/A,1,N/A
+123,Tobias Harris,TURNOVER,Nemanja Bjelica,26.2,2,Clippers,Kings,54 - 71,1,N/A,N/A,N/A
+124,Bogdan Bogdanovic,FG_UNASSISTED,None,10.6,2,Kings,Clippers,56 - 71,0,0,2,Layup
+125,Patrick Beverley,FG_MISS,None,2.6,2,Clippers,Kings,56 - 71,1,25,3,Jumper
+126,Buddy Hield,DEFENSIVE_REBOUND,None,2.1,2,Kings,Clippers,56 - 71,0,N/A,N/A,N/A
+127,Buddy Hield,FG_MISS,None,0.2,2,Kings,Clippers,56 - 71,0,79,3,Jumper
+128,Team,OFFENSIVE_REBOUND,None,0.2,2,Kings,Clippers,56 - 71,0,N/A,N/A,N/A
+129,End of,Unknown,None,0.0,2,Clippers,Kings,56 - 71,1,N/A,N/A,N/A
+0,Danilo Gallinari,SUBSTITUTION,Beverley Patrick,12:00,3,Clippers,Kings,56 - 71,1,N/A,N/A,N/A
+1,Willie Cauley-Stein,SUBSTITUTION,Koufos Kosta,12:00,3,Kings,Clippers,56 - 71,0,N/A,N/A,N/A
+2,De'Aaron Fox,SUBSTITUTION,Bogdanovic Bogdan,12:00,3,Kings,Clippers,56 - 71,0,N/A,N/A,N/A
+3,De'Aaron Fox,FG_UNASSISTED,None,11:44,3,Kings,Clippers,58 - 71,0,18,3,Jumper
+4,shot clock,TURNOVER,None,11:22,3,Clippers,Kings,58 - 71,1,N/A,N/A,N/A
+5,Iman Shumpert,FG_MISS,None,11:09,3,Kings,Clippers,58 - 71,0,15,3,Jumper
+6,Danilo Gallinari,DEFENSIVE_REBOUND,None,11:05,3,Clippers,Kings,58 - 71,1,N/A,N/A,N/A
+7,Avery Bradley,FG_ASSISTED,Tobias Harris,10:52,3,Clippers,Kings,58 - 74,1,23,3,Jumper
+8,Nemanja Bjelica,FG_ASSISTED,De'Aaron Fox,10:42,3,Kings,Clippers,61 - 74,0,28,3,Jumper
+9,Tobias Harris,FG_ASSISTED,Boban Marjanovic,10:27,3,Clippers,Kings,61 - 77,1,25,3,Jumper
+10,De'Aaron Fox,TURNOVER,Danilo Gallinari,10:13,3,Kings,Clippers,61 - 77,0,N/A,N/A,N/A
+11,Danilo Gallinari,FG_MISS,None,10:04,3,Clippers,Kings,61 - 77,1,26,3,Jumper
+12,Boban Marjanovic,OFFENSIVE_REBOUND,None,9:59,3,Clippers,Kings,61 - 77,1,N/A,N/A,N/A
+13,Boban Marjanovic,FG_UNASSISTED,None,9:58,3,Clippers,Kings,61 - 79,1,4,3,Jumper
+14,Buddy Hield,TURNOVER,Tobias Harris,9:45,3,Kings,Clippers,61 - 79,0,N/A,N/A,N/A
+15,Avery Bradley,FG_MISS,None,9:39,3,Clippers,Kings,61 - 79,1,23,3,Jumper
+16,Boban Marjanovic,OFFENSIVE_REBOUND,None,9:38,3,Clippers,Kings,61 - 79,1,N/A,N/A,N/A
+17,Boban Marjanovic,FG_UNASSISTED,None,9:38,3,Clippers,Kings,61 - 81,1,0,2,Dunk
+18,Team,Unknown,None,9:38,3,Kings,Clippers,61 - 81,0,N/A,N/A,N/A
+19,Willie Cauley-Stein,FG_MISS,None,9:22,3,Kings,Clippers,61 - 81,0,15,3,Jumper
+20,Shai Gilgeous-Alexander,DEFENSIVE_REBOUND,None,9:19,3,Clippers,Kings,61 - 81,1,N/A,N/A,N/A
+21,Tobias Harris,FG_MISS,None,9:08,3,Clippers,Kings,61 - 81,1,0,2,Layup
+22,Willie Cauley-Stein,DEFENSIVE_REBOUND,None,9:06,3,Kings,Clippers,61 - 81,0,N/A,N/A,N/A
+23,Buddy Hield,FG_MISS,None,9:02,3,Kings,Clippers,61 - 81,0,26,3,Jumper
+24,Nemanja Bjelica,OFFENSIVE_REBOUND,None,8:58,3,Kings,Clippers,61 - 81,0,N/A,N/A,N/A
+25,Iman Shumpert,FG_ASSISTED,Nemanja Bjelica,8:57,3,Kings,Clippers,64 - 81,0,26,3,Jumper
+26,Shai Gilgeous-Alexander's,FG_MISS,Nemanja Bjelica,8:44,3,Kings,Clippers,64 - 81,1,0,2,Layup
+27,De'Aaron Fox,DEFENSIVE_REBOUND,None,8:41,3,Kings,Clippers,64 - 81,0,N/A,N/A,N/A
+28,Buddy Hield,FG_MISS,None,8:33,3,Kings,Clippers,64 - 81,0,5,3,Jumper
+29,Danilo Gallinari,DEFENSIVE_REBOUND,None,8:31,3,Clippers,Kings,64 - 81,1,N/A,N/A,N/A
+30,Buddy Hield,Unknown,None,8:16,3,Kings,Clippers,64 - 81,0,N/A,N/A,N/A
+31,Tobias Harris,FG_UNASSISTED,None,8:01,3,Clippers,Kings,64 - 83,1,6,3,Jumper
+32,Buddy Hield,FG_ASSISTED,De'Aaron Fox,7:57,3,Kings,Clippers,66 - 83,0,0,2,Layup
+33,Danilo Gallinari,FG_MISS,None,7:44,3,Clippers,Kings,66 - 83,1,25,3,Jumper
+34,Willie Cauley-Stein,DEFENSIVE_REBOUND,None,7:40,3,Kings,Clippers,66 - 83,0,N/A,N/A,N/A
+35,Nemanja Bjelica,FG_MISS,None,7:35,3,Kings,Clippers,66 - 83,0,23,3,Jumper
+36,Boban Marjanovic,DEFENSIVE_REBOUND,None,7:32,3,Clippers,Kings,66 - 83,1,N/A,N/A,N/A
+37,Tobias Harris,FG_MISS,Nemanja Bjelica,7:24,3,Kings,Clippers,66 - 83,1,0,2,Layup
+38,Team,DEFENSIVE_REBOUND,None,7:19,3,Kings,Clippers,66 - 83,0,N/A,N/A,N/A
+39,De'Aaron Fox,FG_MISS,None,7:15,3,Kings,Clippers,66 - 83,0,25,3,Jumper
+40,Danilo Gallinari,DEFENSIVE_REBOUND,None,7:13,3,Clippers,Kings,66 - 83,1,N/A,N/A,N/A
+41,Avery Bradley,FG_ASSISTED,Tobias Harris,7:04,3,Clippers,Kings,66 - 86,1,22,3,Jumper
+42,Nemanja Bjelica,FG_ASSISTED,Buddy Hield,6:50,3,Kings,Clippers,69 - 86,0,27,3,Jumper
+43,Danilo Gallinari,FG_ASSISTED,Boban Marjanovic,6:34,3,Clippers,Kings,69 - 88,1,0,2,Layup
+44,Willie Cauley-Stein,FG_UNASSISTED,None,6:19,3,Kings,Clippers,71 - 88,0,4,3,Jumper
+45,Shai Gilgeous-Alexander,FG_ASSISTED,Avery Bradley,5:54,3,Clippers,Kings,71 - 90,1,0,2,Dunk
+46,Willie Cauley-Stein,FG_ASSISTED,De'Aaron Fox,5:39,3,Kings,Clippers,73 - 90,0,10,3,Jumper
+47,Patrick Beverley,SUBSTITUTION,Gilgeous-Alexander Shai,5:27,3,Clippers,Kings,73 - 90,1,N/A,N/A,N/A
+48,Bogdan Bogdanovic,SUBSTITUTION,Hield Buddy,5:27,3,Kings,Clippers,73 - 90,0,N/A,N/A,N/A
+49,Danilo Gallinari,FG_MISS,None,5:11,3,Clippers,Kings,73 - 90,1,19,3,Jumper
+50,shot clock,TURNOVER,None,5:10,3,Clippers,Kings,73 - 90,1,N/A,N/A,N/A
+51,Team,OFFENSIVE_REBOUND,None,5:10,3,Clippers,Kings,73 - 90,1,N/A,N/A,N/A
+52,Montrezl Harrell,SUBSTITUTION,Marjanovic Boban,5:10,3,Clippers,Kings,73 - 90,1,N/A,N/A,N/A
+53,Kosta Koufos,SUBSTITUTION,Cauley-Stein Willie,5:10,3,Kings,Clippers,73 - 90,0,N/A,N/A,N/A
+54,Iman Shumpert,FG_ASSISTED,De'Aaron Fox,4:59,3,Kings,Clippers,76 - 90,0,26,3,Jumper
+55,Kosta Koufos,FOUL_ON_FLOOR,None,4:34,3,Kings,Clippers,76 - 90,0,N/A,N/A,N/A
+56,Montrezl Harrell,FT_MISS,None,4:34,3,Clippers,Kings,76 - 90,1,N/A,1,N/A
+57,Team,OFFENSIVE_REBOUND,None,4:34,3,Clippers,Kings,76 - 90,1,N/A,N/A,N/A
+58,Lou Williams,SUBSTITUTION,Gallinari Danilo,4:34,3,Clippers,Kings,76 - 90,1,N/A,N/A,N/A
+59,Montrezl Harrell,FT,None,4:34,3,Clippers,Kings,76 - 91,1,N/A,1,N/A
+60,Nemanja Bjelica,FG_ASSISTED,De'Aaron Fox,4:20,3,Kings,Clippers,79 - 91,0,27,3,Jumper
+61,Tobias Harris,FG_MISS,Nemanja Bjelica,4:10,3,Kings,Clippers,79 - 91,1,13,3,Jumper
+62,Nemanja Bjelica,DEFENSIVE_REBOUND,None,4:08,3,Kings,Clippers,79 - 91,0,N/A,N/A,N/A
+63,Nemanja Bjelica,FG_MISS,None,4:04,3,Kings,Clippers,79 - 91,0, ,3,Jumper
+64,Nemanja Bjelica,OFFENSIVE_REBOUND,None,4:04,3,Kings,Clippers,79 - 91,0,N/A,N/A,N/A
+65,Nemanja Bjelica,FG_MISS,None,4:00,3,Kings,Clippers,79 - 91,0, ,3,Jumper
+66,Kosta Koufos,OFFENSIVE_REBOUND,None,3:59,3,Kings,Clippers,79 - 91,0,N/A,N/A,N/A
+67,Bogdan Bogdanovic,FG_MISS,None,3:54,3,Kings,Clippers,79 - 91,0,17,3,Jumper
+68,Patrick Beverley,DEFENSIVE_REBOUND,None,3:50,3,Clippers,Kings,79 - 91,1,N/A,N/A,N/A
+69,Montrezl Harrell,TURNOVER,Nemanja Bjelica,3:48,3,Clippers,Kings,79 - 91,1,N/A,N/A,N/A
+70,Nemanja Bjelica,FG_MISS,None,3:39,3,Kings,Clippers,79 - 91,0,27,3,Jumper
+71,Kosta Koufos,OFFENSIVE_REBOUND,None,3:36,3,Kings,Clippers,79 - 91,0,N/A,N/A,N/A
+72,De'Aaron Fox,FG_UNASSISTED,None,3:27,3,Kings,Clippers,81 - 91,0,0,2,Layup
+73,Team,Unknown,None,3:27,3,Clippers,Kings,81 - 91,1,N/A,N/A,N/A
+74,Justin Jackson,SUBSTITUTION,Shumpert Iman,3:27,3,Kings,Clippers,81 - 91,0,N/A,N/A,N/A
+75,Patrick Beverley,FG_ASSISTED,Lou Williams,3:09,3,Clippers,Kings,81 - 93,1,4,3,Jumper
+76,Nemanja Bjelica,FG_ASSISTED,De'Aaron Fox,2:45,3,Kings,Clippers,83 - 93,0,0,2,Layup
+77,Avery Bradley,FG_ASSISTED,Lou Williams,2:25,3,Clippers,Kings,83 - 95,1,2,3,Jumper
+78,Kosta Koufos,FG_MISS,None,2:06,3,Kings,Clippers,83 - 95,0, ,3,Jumper
+79,Patrick Beverley,DEFENSIVE_REBOUND,None,2:03,3,Clippers,Kings,83 - 95,1,N/A,N/A,N/A
+80,Tobias Harris,FG_MISS,None,1:59,3,Clippers,Kings,83 - 95,1, ,3,Jumper
+81,Montrezl Harrell,OFFENSIVE_REBOUND,None,1:53,3,Clippers,Kings,83 - 95,1,N/A,N/A,N/A
+82,Montrezl Harrell,FG_UNASSISTED,None,1:51,3,Clippers,Kings,83 - 97,1,0,2,Layup
+83,De'Aaron Fox,FG_MISS,None,1:42,3,Kings,Clippers,83 - 97,0,10,3,Jumper
+84,Tobias Harris,DEFENSIVE_REBOUND,None,1:39,3,Clippers,Kings,83 - 97,1,N/A,N/A,N/A
+85,Lou Williams,FG_ASSISTED,Tobias Harris,1:36,3,Clippers,Kings,83 - 100,1,26,3,Jumper
+86,Team,Unknown,None,1:33,3,Kings,Clippers,83 - 100,0,N/A,N/A,N/A
+87,Mike Scott,SUBSTITUTION,Harris Tobias,1:33,3,Clippers,Kings,83 - 100,1,N/A,N/A,N/A
+88,Buddy Hield,SUBSTITUTION,Bjelica Nemanja,1:33,3,Kings,Clippers,83 - 100,0,N/A,N/A,N/A
+89,Bogdan Bogdanovic,FG_MISS,None,1:16,3,Kings,Clippers,83 - 100,0,4,3,Jumper
+90,Bogdan Bogdanovic,OFFENSIVE_REBOUND,None,1:10,3,Kings,Clippers,83 - 100,0,N/A,N/A,N/A
+91,Bogdan Bogdanovic,FG_UNASSISTED,None,1:09,3,Kings,Clippers,85 - 100,0,1,3,Jumper
+92,Montrezl Harrell,FG_MISS,None,1:01,3,Clippers,Kings,85 - 100,1,0,2,Layup
+93,Montrezl Harrell,OFFENSIVE_REBOUND,None,57.1,3,Clippers,Kings,85 - 100,1,N/A,N/A,N/A
+94,Montrezl Harrell,FG_MISS,Kosta Koufos,57.0,3,Kings,Clippers,85 - 100,1,4,3,Jumper
+95,Montrezl Harrell,OFFENSIVE_REBOUND,None,57.0,3,Clippers,Kings,85 - 100,1,N/A,N/A,N/A
+96,Justin Jackson,FOUL_ON_FLOOR,None,57.0,3,Kings,Clippers,85 - 100,0,N/A,N/A,N/A
+97,Montrezl Harrell,FT,None,57.0,3,Clippers,Kings,85 - 101,1,N/A,1,N/A
+98,Tyrone Wallace,SUBSTITUTION,Bradley Avery,57.0,3,Clippers,Kings,85 - 101,1,N/A,N/A,N/A
+99,Montrezl Harrell,FT,None,57.0,3,Clippers,Kings,85 - 102,1,N/A,1,N/A
+100,Bogdan Bogdanovic,FG_MISS,Montrezl Harrell,43.6,3,Clippers,Kings,85 - 102,0,0,2,Layup
+101,Patrick Beverley,DEFENSIVE_REBOUND,None,40.9,3,Clippers,Kings,85 - 102,1,N/A,N/A,N/A
+102,Tyrone Wallace,FG_MISS,Justin Jackson,36.2,3,Kings,Clippers,85 - 102,1,2,3,Jumper
+103,De'Aaron Fox,DEFENSIVE_REBOUND,None,31.9,3,Kings,Clippers,85 - 102,0,N/A,N/A,N/A
+104,Patrick Beverley,FOUL_ON_FLOOR,None,31.6,3,Clippers,Kings,85 - 102,1,N/A,N/A,N/A
+105,De'Aaron Fox,FG_MISS,None,17.4,3,Kings,Clippers,85 - 102,0,0,2,Layup
+106,Mike Scott,DEFENSIVE_REBOUND,None,15.2,3,Clippers,Kings,85 - 102,1,N/A,N/A,N/A
+107,End of,Unknown,None,0.0,3,Clippers,Kings,85 - 102,1,N/A,N/A,N/A
+0,Yogi Ferrell,SUBSTITUTION,Fox De'Aaron,12:00,4,Kings,Clippers,85 - 102,0,N/A,N/A,N/A
+1,Lou Williams,FG_UNASSISTED,None,11:47,4,Clippers,Kings,85 - 105,1,26,3,Jumper
+2,Bogdan Bogdanovic,FG_MISS,Montrezl Harrell,11:32,4,Clippers,Kings,85 - 105,0,0,2,Layup
+3,Team,OFFENSIVE_REBOUND,None,11:32,4,Kings,Clippers,85 - 105,0,N/A,N/A,N/A
+4,Buddy Hield,FG_MISS,None,11:30,4,Kings,Clippers,85 - 105,0,15,3,Jumper
+5,Team,OFFENSIVE_REBOUND,None,11:29,4,Kings,Clippers,85 - 105,0,N/A,N/A,N/A
+6,Buddy Hield,FG_MISS,None,11:24,4,Kings,Clippers,85 - 105,0,16,3,Jumper
+7,Team,OFFENSIVE_REBOUND,None,11:23,4,Kings,Clippers,85 - 105,0,N/A,N/A,N/A
+8,Mike Scott,FOUL_ON_FLOOR,None,11:23,4,Clippers,Kings,85 - 105,1,N/A,N/A,N/A
+9,Kosta Koufos,FG_ASSISTED,Bogdan Bogdanovic,11:09,4,Kings,Clippers,87 - 105,0,1,3,Jumper
+10,Lou Williams,TURNOVER,Kosta Koufos,10:49,4,Clippers,Kings,87 - 105,1,N/A,N/A,N/A
+11,Buddy Hield,FG_MISS,None,10:43,4,Kings,Clippers,87 - 105,0,16,3,Jumper
+12,Mike Scott,DEFENSIVE_REBOUND,None,10:39,4,Clippers,Kings,87 - 105,1,N/A,N/A,N/A
+13,Lou Williams,FG_UNASSISTED,None,10:33,4,Clippers,Kings,87 - 107,1,1,3,Jumper
+14,Team,Unknown,None,10:33,4,Kings,Clippers,87 - 107,0,N/A,N/A,N/A
+15,Harry Giles,SUBSTITUTION,Koufos Kosta,10:33,4,Kings,Clippers,87 - 107,0,N/A,N/A,N/A
+16,Bogdan Bogdanovic,TURNOVER,Lou Williams,10:18,4,Kings,Clippers,87 - 107,0,N/A,N/A,N/A
+17,Buddy Hield,FOUL_ON_FLOOR,None,10:18,4,Kings,Clippers,87 - 107,0,N/A,N/A,N/A
+18,Lou Williams,FG_UNASSISTED,None,10:04,4,Clippers,Kings,87 - 109,1,6,3,Jumper
+19,Harry Giles,FOUL_ON_FLOOR,None,10:04,4,Kings,Clippers,87 - 109,0,N/A,N/A,N/A
+20,Lou Williams,FT,None,10:04,4,Clippers,Kings,87 - 110,1,N/A,1,N/A
+21,Patrick Beverley,FOUL_ON_FLOOR,None,9:53,4,Clippers,Kings,87 - 110,1,N/A,N/A,N/A
+22,Buddy Hield,FG_MISS,None,9:49,4,Kings,Clippers,87 - 110,0,23,3,Jumper
+23,Montrezl Harrell,DEFENSIVE_REBOUND,None,9:44,4,Clippers,Kings,87 - 110,1,N/A,N/A,N/A
+24,Lou Williams,FG_UNASSISTED,None,9:33,4,Clippers,Kings,87 - 113,1,28,3,Jumper
+25,Harry Giles,FG_ASSISTED,Yogi Ferrell,9:21,4,Kings,Clippers,89 - 113,0,12,3,Jumper
+26,Patrick Beverley,FG_MISS,None,8:58,4,Clippers,Kings,89 - 113,1,1,3,Jumper
+27,Buddy Hield,DEFENSIVE_REBOUND,None,8:56,4,Kings,Clippers,89 - 113,0,N/A,N/A,N/A
+28,Buddy Hield,TURNOVER,None,8:54,4,Kings,Clippers,89 - 113,0,N/A,N/A,N/A
+29,Ben McLemore,SUBSTITUTION,Bogdanovic Bogdan,8:54,4,Kings,Clippers,89 - 113,0,N/A,N/A,N/A
+30,Skal Labissiere,SUBSTITUTION,Hield Buddy,8:54,4,Kings,Clippers,89 - 113,0,N/A,N/A,N/A
+31,Montrezl Harrell,FG_MISS,None,8:38,4,Clippers,Kings,89 - 113,1,0,2,Layup
+32,Mike Scott,OFFENSIVE_REBOUND,None,8:34,4,Clippers,Kings,89 - 113,1,N/A,N/A,N/A
+33,Mike Scott,FG_UNASSISTED,None,8:34,4,Clippers,Kings,89 - 115,1,1,3,Jumper
+34,Ben McLemore,FG_ASSISTED,Yogi Ferrell,8:25,4,Kings,Clippers,91 - 115,0,19,3,Jumper
+35,Lou Williams,FG_ASSISTED,Patrick Beverley,8:14,4,Clippers,Kings,91 - 118,1,27,3,Jumper
+36,Yogi Ferrell,FG_UNASSISTED,None,8:00,4,Kings,Clippers,93 - 118,0,15,3,Jumper
+37,Lou Williams,FG_MISS,None,7:52,4,Clippers,Kings,93 - 118,1,22,3,Jumper
+38,Justin Jackson,DEFENSIVE_REBOUND,None,7:47,4,Kings,Clippers,93 - 118,0,N/A,N/A,N/A
+39,Harry Giles,FG_MISS,None,7:40,4,Kings,Clippers,93 - 118,0,1,3,Jumper
+40,Skal Labissiere,OFFENSIVE_REBOUND,None,7:37,4,Kings,Clippers,93 - 118,0,N/A,N/A,N/A
+41,Skal Labissiere,FG_UNASSISTED,None,7:37,4,Kings,Clippers,95 - 118,0,1,3,Jumper
+42,Mike Scott,FG_MISS,None,7:23,4,Clippers,Kings,95 - 118,1,16,3,Jumper
+43,Yogi Ferrell,DEFENSIVE_REBOUND,None,7:18,4,Kings,Clippers,95 - 118,0,N/A,N/A,N/A
+44,Tyrone Wallace,FOUL_ON_FLOOR,None,7:16,4,Clippers,Kings,95 - 118,1,N/A,N/A,N/A
+45,Shai Gilgeous-Alexander,SUBSTITUTION,Williams Lou,7:16,4,Clippers,Kings,95 - 118,1,N/A,N/A,N/A
+46,Yogi Ferrell,FG_MISS,None,7:11,4,Kings,Clippers,95 - 118,0,27,3,Jumper
+47,Montrezl Harrell,DEFENSIVE_REBOUND,None,7:06,4,Clippers,Kings,95 - 118,1,N/A,N/A,N/A
+48,Shai Gilgeous-Alexander,FG_MISS,None,7:00,4,Clippers,Kings,95 - 118,1,19,3,Jumper
+49,Harry Giles,DEFENSIVE_REBOUND,None,6:56,4,Kings,Clippers,95 - 118,0,N/A,N/A,N/A
+50,Harry Giles,TURNOVER,None,6:55,4,Kings,Clippers,95 - 118,0,N/A,N/A,N/A
+51,Patrick Beverley,FG_MISS,None,6:44,4,Clippers,Kings,95 - 118,1,26,3,Jumper
+52,Skal Labissiere,DEFENSIVE_REBOUND,None,6:41,4,Kings,Clippers,95 - 118,0,N/A,N/A,N/A
+53,Tyrone Wallace,FOUL_ON_FLOOR,None,6:32,4,Clippers,Kings,95 - 118,1,N/A,N/A,N/A
+54,Ben McLemore,FG_MISS,None,6:25,4,Kings,Clippers,95 - 118,0,1,3,Jumper
+55,Mike Scott,DEFENSIVE_REBOUND,None,6:22,4,Clippers,Kings,95 - 118,1,N/A,N/A,N/A
+56,Harry Giles,FOUL_ON_FLOOR,None,6:17,4,Kings,Clippers,95 - 118,0,N/A,N/A,N/A
+57,Team,Unknown,None,6:17,4,Clippers,Kings,95 - 118,1,N/A,N/A,N/A
+58,Frank Mason,SUBSTITUTION,Jackson Justin,6:17,4,Kings,Clippers,95 - 118,0,N/A,N/A,N/A
+59,Ben McLemore,FOUL_ON_FLOOR,None,6:06,4,Kings,Clippers,95 - 118,0,N/A,N/A,N/A
+60,Boban Marjanovic,SUBSTITUTION,Harrell Montrezl,6:06,4,Clippers,Kings,95 - 118,1,N/A,N/A,N/A
+61,Sindarius Thornwell,SUBSTITUTION,Beverley Patrick,6:06,4,Clippers,Kings,95 - 118,1,N/A,N/A,N/A
+62,Mike Scott,FG_MISS,None,5:56,4,Clippers,Kings,95 - 118,1,23,3,Jumper
+63,Ben McLemore,DEFENSIVE_REBOUND,None,5:52,4,Kings,Clippers,95 - 118,0,N/A,N/A,N/A
+64,Ben McLemore,FG_ASSISTED,Yogi Ferrell,5:42,4,Kings,Clippers,98 - 118,0,26,3,Jumper
+65,Sindarius Thornwell,TURNOVER,None,5:25,4,Clippers,Kings,98 - 118,1,N/A,N/A,N/A
+66,Yogi Ferrell,FG_UNASSISTED,None,5:15,4,Kings,Clippers,100 - 118,0,9,3,Jumper
+67,Sindarius Thornwell,FG_MISS,None,4:51,4,Clippers,Kings,100 - 118,1,0,2,Layup
+68,Yogi Ferrell,DEFENSIVE_REBOUND,None,4:49,4,Kings,Clippers,100 - 118,0,N/A,N/A,N/A
+69,Mike Scott,FOUL_ON_FLOOR,None,4:48,4,Clippers,Kings,100 - 118,1,N/A,N/A,N/A
+70,Frank Mason,FT_MISS,None,4:48,4,Kings,Clippers,100 - 118,0,N/A,1,N/A
+71,Team,OFFENSIVE_REBOUND,None,4:48,4,Kings,Clippers,100 - 118,0,N/A,N/A,N/A
+72,Frank Mason,FT,None,4:48,4,Kings,Clippers,101 - 118,0,N/A,1,N/A
+73,Boban Marjanovic,FOUL_ON_FLOOR,None,4:39,4,Clippers,Kings,101 - 118,1,N/A,N/A,N/A
+74,Boban Marjanovic,TURNOVER,None,4:39,4,Clippers,Kings,101 - 118,1,N/A,N/A,N/A
+75,Harry Giles,FG_UNASSISTED,None,4:25,4,Kings,Clippers,103 - 118,0,0,2,Layup
+76,Boban Marjanovic,TURNOVER,Harry Giles,4:11,4,Clippers,Kings,103 - 118,1,N/A,N/A,N/A
+77,Harry Giles,FG_UNASSISTED,None,4:08,4,Kings,Clippers,105 - 118,0,0,2,Dunk
+78,Team,Unknown,None,4:08,4,Clippers,Kings,105 - 118,1,N/A,N/A,N/A
+79,Mike Scott,FG_MISS,None,3:53,4,Clippers,Kings,105 - 118,1,28,3,Jumper
+80,Yogi Ferrell,DEFENSIVE_REBOUND,None,3:49,4,Kings,Clippers,105 - 118,0,N/A,N/A,N/A
+81,Ben McLemore,FG_ASSISTED,ason III,3:40,4,Kings,Clippers,108 - 118,0,25,3,Jumper
+82,Sindarius Thornwell,TURNOVER,Ben McLemore,3:26,4,Clippers,Kings,108 - 118,1,N/A,N/A,N/A
+83,Frank Mason,FG_ASSISTED,Yogi Ferrell,3:22,4,Kings,Clippers,110 - 118,0,1,3,Jumper
+84,Team,Unknown,None,3:22,4,Clippers,Kings,110 - 118,1,N/A,N/A,N/A
+85,Lou Williams,SUBSTITUTION,Gilgeous-Alexander Shai,3:22,4,Clippers,Kings,110 - 118,1,N/A,N/A,N/A
+86,Montrezl Harrell,SUBSTITUTION,Wallace Tyrone,3:22,4,Clippers,Kings,110 - 118,1,N/A,N/A,N/A
+87,Avery Bradley,SUBSTITUTION,Scott Mike,3:22,4,Clippers,Kings,110 - 118,1,N/A,N/A,N/A
+88,Tobias Harris,SUBSTITUTION,Marjanovic Boban,3:22,4,Clippers,Kings,110 - 118,1,N/A,N/A,N/A
+89,Danilo Gallinari,SUBSTITUTION,Thornwell Sindarius,3:22,4,Clippers,Kings,110 - 118,1,N/A,N/A,N/A
+90,Harry Giles,FOUL_ON_FLOOR,None,3:04,4,Kings,Clippers,110 - 118,0,N/A,N/A,N/A
+91,Danilo Gallinari,FT_MISS,None,3:04,4,Clippers,Kings,110 - 118,1,N/A,1,N/A
+92,Team,OFFENSIVE_REBOUND,None,3:04,4,Clippers,Kings,110 - 118,1,N/A,N/A,N/A
+93,Danilo Gallinari,FT,None,3:04,4,Clippers,Kings,110 - 119,1,N/A,1,N/A
+94,Ben McLemore,FG_ASSISTED,Harry Giles,2:51,4,Kings,Clippers,113 - 119,0,25,3,Jumper
+95,Lou Williams,FG_MISS,None,2:26,4,Clippers,Kings,113 - 119,1,19,3,Jumper
+96,Harry Giles,DEFENSIVE_REBOUND,None,2:23,4,Kings,Clippers,113 - 119,0,N/A,N/A,N/A
+97,Yogi Ferrell,FG_UNASSISTED,None,2:16,4,Kings,Clippers,115 - 119,0,17,3,Jumper
+98,Montrezl Harrell,FG_ASSISTED,Danilo Gallinari,1:58,4,Clippers,Kings,115 - 121,1,0,2,Layup
+99,Harry Giles,FOUL_ON_FLOOR,None,1:43,4,Kings,Clippers,115 - 121,0,N/A,N/A,N/A
+100,Harry Giles,TURNOVER,None,1:43,4,Kings,Clippers,115 - 121,0,N/A,N/A,N/A
+101,Montrezl Harrell,FG_MISS,None,1:28,4,Clippers,Kings,115 - 121,1,0,2,Layup
+102,Team,DEFENSIVE_REBOUND,None,1:26,4,Kings,Clippers,115 - 121,0,N/A,N/A,N/A
+103,Frank Mason,FG_UNASSISTED,None,1:12,4,Kings,Clippers,118 - 121,0,27,3,Jumper
+104,Lou Williams,FG_UNASSISTED,None,52.4,4,Clippers,Kings,118 - 123,1,6,3,Jumper
+105,Frank Mason,FG_MISS,Montrezl Harrell,45.8,4,Clippers,Kings,118 - 123,0,2,3,Jumper
+106,Danilo Gallinari,DEFENSIVE_REBOUND,None,40.0,4,Clippers,Kings,118 - 123,1,N/A,N/A,N/A
+107,Harry Giles,FOUL_ON_FLOOR,None,26.4,4,Kings,Clippers,118 - 123,0,N/A,N/A,N/A
+108,Danilo Gallinari,FT,None,26.4,4,Clippers,Kings,118 - 124,1,N/A,1,N/A
+109,Patrick Beverley,SUBSTITUTION,Williams Lou,26.4,4,Clippers,Kings,118 - 124,1,N/A,N/A,N/A
+110,Danilo Gallinari,FT,None,26.4,4,Clippers,Kings,118 - 125,1,N/A,1,N/A
+111,Ben McLemore,FG_MISS,None,19.1,4,Kings,Clippers,118 - 125,0,23,3,Jumper
+112,Tobias Harris,DEFENSIVE_REBOUND,None,13.1,4,Clippers,Kings,118 - 125,1,N/A,N/A,N/A
+113,Frank Mason,FOUL_ON_FLOOR,None,13.1,4,Kings,Clippers,118 - 125,0,N/A,N/A,N/A
+114,Tobias Harris,FT,None,13.1,4,Clippers,Kings,118 - 126,1,N/A,1,N/A
+115,Tobias Harris,FT,None,13.1,4,Clippers,Kings,118 - 127,1,N/A,1,N/A
+116,Frank Mason,FG_MISS,None,6.3,4,Kings,Clippers,118 - 127,0,27,3,Jumper
+117,Danilo Gallinari,DEFENSIVE_REBOUND,None,2.5,4,Clippers,Kings,118 - 127,1,N/A,N/A,N/A
+118,End of,Unknown,None,0.0,4,Clippers,Kings,118 - 127,1,N/A,N/A,N/A
+119,End of,Unknown,None,0.0,4,Clippers,Kings,118 - 127,1,N/A,N/A,N/A

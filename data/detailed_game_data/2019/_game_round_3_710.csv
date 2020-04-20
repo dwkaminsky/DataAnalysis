@@ -1,0 +1,489 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Clint Capela,JUMP_BALL,None,12:00,1,Rockets,Jazz,0 - 0,0,N/A,N/A,N/A
+1,Rudy Gobert,FOUL_ON_FLOOR,None,11:59,1,Jazz,Rockets,0 - 0,1,N/A,N/A,N/A
+2,Chris Paul,FG_UNASSISTED,None,11:39,1,Rockets,Jazz,2 - 0,0,14,2,Jumper
+3,PJ Tucker,FOUL_ON_FLOOR,None,11:26,1,Rockets,Jazz,2 - 0,0,N/A,N/A,N/A
+4,Joe Ingles,FG_ASSISTED,Rudy Gobert,11:11,1,Jazz,Rockets,2 - 2,1,0,2,Layup
+5,Clint Capela,FG_MISS,None,10:45,1,Rockets,Jazz,2 - 2,0,0,2,Layup
+6,Ricky Rubio,DEFENSIVE_REBOUND,None,10:43,1,Jazz,Rockets,2 - 2,1,N/A,N/A,N/A
+7,Ricky Rubio,TURNOVER,Clint Capela,10:39,1,Jazz,Rockets,2 - 2,1,N/A,N/A,N/A
+8,Clint Capela,FG_MISS,None,10:32,1,Rockets,Jazz,2 - 2,0,0,2,Layup
+9,Team,OFFENSIVE_REBOUND,None,10:32,1,Rockets,Jazz,2 - 2,0,N/A,N/A,N/A
+10,Clint Capela,TURNOVER,None,10:32,1,Rockets,Jazz,2 - 2,0,N/A,N/A,N/A
+11,Donovan Mitchell,FG_MISS,None,10:18,1,Jazz,Rockets,2 - 2,1,-,2,Jumper
+12,Rudy Gobert,OFFENSIVE_REBOUND,None,10:16,1,Jazz,Rockets,2 - 2,1,N/A,N/A,N/A
+13,Rudy Gobert,FG_UNASSISTED,None,10:15,1,Jazz,Rockets,2 - 4,1,0,2,Dunk
+14,Clint Capela,FG_ASSISTED,Chris Paul,10:05,1,Rockets,Jazz,4 - 4,0,9,2,Jumper
+15,Donovan Mitchell,FG_MISS,None,9:52,1,Jazz,Rockets,4 - 4,1,26,3,Jumper
+16,PJ Tucker,DEFENSIVE_REBOUND,None,9:46,1,Rockets,Jazz,4 - 4,0,N/A,N/A,N/A
+17,PJ Tucker,FG_MISS,None,9:45,1,Rockets,Jazz,4 - 4,0,23,3,Jumper
+18,Clint Capela,OFFENSIVE_REBOUND,None,9:42,1,Rockets,Jazz,4 - 4,0,N/A,N/A,N/A
+19,Chris Paul,FG_UNASSISTED,None,9:32,1,Rockets,Jazz,6 - 4,0,12,2,Jumper
+20,Rudy Gobert,FOUL_ON_FLOOR,None,9:13,1,Jazz,Rockets,6 - 4,1,N/A,N/A,N/A
+21,Rudy Gobert,TURNOVER,None,9:13,1,Jazz,Rockets,6 - 4,1,N/A,N/A,N/A
+22,Derrick Favors,SUBSTITUTION,Gobert Rudy,9:13,1,Jazz,Rockets,6 - 4,1,N/A,N/A,N/A
+23,Rudy Gobert,FOUL_TECHNICAL,None,9:13,1,Jazz,Rockets,6 - 4,1,N/A,N/A,N/A
+24,James Harden,FT,None,9:13,1,Rockets,Jazz,7 - 4,0,N/A,1,N/A
+25,Rudy Gobert,Unknown,None,9:13,1,Jazz,Rockets,7 - 4,1,N/A,N/A,N/A
+26,Clint Capela,FG_ASSISTED,Chris Paul,8:58,1,Rockets,Jazz,9 - 4,0,0,2,Dunk
+27,Jae Crowder,FG_MISS,None,8:39,1,Jazz,Rockets,9 - 4,1,26,3,Jumper
+28,Joe Ingles,OFFENSIVE_REBOUND,None,8:36,1,Jazz,Rockets,9 - 4,1,N/A,N/A,N/A
+29,Donovan Mitchell,TURNOVER,None,8:32,1,Jazz,Rockets,9 - 4,1,N/A,N/A,N/A
+30,Clint Capela,FG_MISS,None,8:22,1,Rockets,Jazz,9 - 4,0,0,2,Layup
+31,Clint Capela,OFFENSIVE_REBOUND,None,8:18,1,Rockets,Jazz,9 - 4,0,N/A,N/A,N/A
+32,Clint Capela,FG_MISS,None,8:18,1,Rockets,Jazz,9 - 4,0,-,2,Jumper
+33,Jae Crowder,DEFENSIVE_REBOUND,None,8:17,1,Jazz,Rockets,9 - 4,1,N/A,N/A,N/A
+34,Joe Ingles,FG_ASSISTED,Ricky Rubio,8:14,1,Jazz,Rockets,9 - 7,1,24,3,Jumper
+35,James Harden,TURNOVER,None,7:52,1,Rockets,Jazz,9 - 7,0,N/A,N/A,N/A
+36,PJ Tucker,FOUL_ON_FLOOR,None,7:48,1,Rockets,Jazz,9 - 7,0,N/A,N/A,N/A
+37,Ricky Rubio,FT,None,7:48,1,Jazz,Rockets,9 - 8,1,N/A,1,N/A
+38,Eric Gordon,SUBSTITUTION,Tucker PJ,7:48,1,Rockets,Jazz,9 - 8,0,N/A,N/A,N/A
+39,Ricky Rubio,FT,None,7:48,1,Jazz,Rockets,9 - 9,1,N/A,1,N/A
+40,Ricky Rubio,FOUL_ON_FLOOR,None,7:37,1,Jazz,Rockets,9 - 9,1,N/A,N/A,N/A
+41,Chris Paul,FT,None,7:37,1,Rockets,Jazz,10 - 9,0,N/A,1,N/A
+42,Chris Paul,FT,None,7:37,1,Rockets,Jazz,11 - 9,0,N/A,1,N/A
+43,Chris Paul,FOUL_ON_FLOOR,None,7:28,1,Rockets,Jazz,11 - 9,0,N/A,N/A,N/A
+44,Derrick Favors,FT,None,7:28,1,Jazz,Rockets,11 - 10,1,N/A,1,N/A
+45,Derrick Favors,FT,None,7:28,1,Jazz,Rockets,11 - 11,1,N/A,1,N/A
+46,Clint Capela,FG_MISS,None,7:14,1,Rockets,Jazz,11 - 11,0,4,2,Jumper
+47,Clint Capela,OFFENSIVE_REBOUND,None,7:12,1,Rockets,Jazz,11 - 11,0,N/A,N/A,N/A
+48,Clint Capela,FG_MISS,None,7:10,1,Rockets,Jazz,11 - 11,0,0,2,Layup
+49,Clint Capela,OFFENSIVE_REBOUND,None,7:10,1,Rockets,Jazz,11 - 11,0,N/A,N/A,N/A
+50,Jae Crowder,FOUL_ON_FLOOR,None,7:03,1,Jazz,Rockets,11 - 11,1,N/A,N/A,N/A
+51,Joe Ingles,FOUL_ON_FLOOR,None,7:00,1,Jazz,Rockets,11 - 11,1,N/A,N/A,N/A
+52,Chris Paul,FG_UNASSISTED,None,6:52,1,Rockets,Jazz,13 - 11,0,12,2,Jumper
+53,Team,Unknown,None,6:50,1,Jazz,Rockets,13 - 11,1,N/A,N/A,N/A
+54,Danuel House,SUBSTITUTION,Paul Chris,6:50,1,Rockets,Jazz,13 - 11,0,N/A,N/A,N/A
+55,Jae Crowder,FG_MISS,None,6:35,1,Jazz,Rockets,13 - 11,1,27,3,Jumper
+56,James Ennis,DEFENSIVE_REBOUND,None,6:29,1,Rockets,Jazz,13 - 11,0,N/A,N/A,N/A
+57,James Harden,TURNOVER,Derrick Favors,6:26,1,Rockets,Jazz,13 - 11,0,N/A,N/A,N/A
+58,Danuel House,FOUL_ON_FLOOR,None,6:25,1,Rockets,Jazz,13 - 11,0,N/A,N/A,N/A
+59,Ricky Rubio,FG_MISS,None,6:15,1,Jazz,Rockets,13 - 11,1,12,2,Jumper
+60,James Harden,DEFENSIVE_REBOUND,None,6:12,1,Rockets,Jazz,13 - 11,0,N/A,N/A,N/A
+61,James Ennis,FG_MISS,None,6:07,1,Rockets,Jazz,13 - 11,0,22,3,Jumper
+62,Clint Capela,OFFENSIVE_REBOUND,None,6:03,1,Rockets,Jazz,13 - 11,0,N/A,N/A,N/A
+63,James Harden,FG_MISS,None,5:54,1,Rockets,Jazz,13 - 11,0,0,2,Layup
+64,Clint Capela,OFFENSIVE_REBOUND,None,5:51,1,Rockets,Jazz,13 - 11,0,N/A,N/A,N/A
+65,Clint Capela,FG_MISS,None,5:51,1,Rockets,Jazz,13 - 11,0, ,2,Jumper
+66,Clint Capela,OFFENSIVE_REBOUND,None,5:49,1,Rockets,Jazz,13 - 11,0,N/A,N/A,N/A
+67,Clint Capela,FG_MISS,None,5:49,1,Rockets,Jazz,13 - 11,0, ,2,Jumper
+68,Joe Ingles,DEFENSIVE_REBOUND,None,5:47,1,Jazz,Rockets,13 - 11,1,N/A,N/A,N/A
+69,Joe Ingles,FG_ASSISTED,Donovan Mitchell,5:41,1,Jazz,Rockets,13 - 14,1,26,3,Jumper
+70,Clint Capela,TURNOVER,Jae Crowder,5:15,1,Rockets,Jazz,13 - 14,0,N/A,N/A,N/A
+71,Ricky Rubio,FG_UNASSISTED,None,5:10,1,Jazz,Rockets,13 - 16,1,0,2,Layup
+72,Ricky Rubio,FOUL_ON_FLOOR,None,4:47,1,Jazz,Rockets,13 - 16,1,N/A,N/A,N/A
+73,James Harden,FT,None,4:47,1,Rockets,Jazz,14 - 16,0,N/A,1,N/A
+74,Royce O'Neale,SUBSTITUTION,Mitchell Donovan,4:47,1,Jazz,Rockets,14 - 16,1,N/A,N/A,N/A
+75,James Harden,FT,None,4:47,1,Rockets,Jazz,15 - 16,0,N/A,1,N/A
+76,Gerald Green,SUBSTITUTION,III Ennis,4:47,1,Rockets,Jazz,15 - 16,0,N/A,N/A,N/A
+77,Nene Hilario,SUBSTITUTION,Capela Clint,4:47,1,Rockets,Jazz,15 - 16,0,N/A,N/A,N/A
+78,Ricky Rubio,FG_MISS,None,4:27,1,Jazz,Rockets,15 - 16,1,14,2,Jumper
+79,Nene Hilario,DEFENSIVE_REBOUND,None,4:23,1,Rockets,Jazz,15 - 16,0,N/A,N/A,N/A
+80,James Harden,FG_MISS,Jae Crowder,4:17,1,Jazz,Rockets,15 - 16,0,0,2,Layup
+81,Nene Hilario,OFFENSIVE_REBOUND,None,4:14,1,Rockets,Jazz,15 - 16,0,N/A,N/A,N/A
+82,Royce O'Neale,FOUL_ON_FLOOR,None,4:14,1,Jazz,Rockets,15 - 16,1,N/A,N/A,N/A
+83,Kyle Korver,SUBSTITUTION,Ingles Joe,4:14,1,Jazz,Rockets,15 - 16,1,N/A,N/A,N/A
+84,Danuel House,FT,None,4:14,1,Rockets,Jazz,16 - 16,0,N/A,1,N/A
+85,Danuel House,FT_MISS,None,4:14,1,Rockets,Jazz,16 - 16,0,N/A,1,N/A
+86,Jae Crowder,DEFENSIVE_REBOUND,None,4:11,1,Jazz,Rockets,16 - 16,1,N/A,N/A,N/A
+87,Derrick Favors,FG_ASSISTED,Ricky Rubio,4:00,1,Jazz,Rockets,16 - 18,1,0,2,Dunk
+88,Eric Gordon,FG_MISS,None,3:40,1,Rockets,Jazz,16 - 18,0,25,3,Jumper
+89,Kyle Korver,DEFENSIVE_REBOUND,None,3:36,1,Jazz,Rockets,16 - 18,1,N/A,N/A,N/A
+90,Ricky Rubio,FG_MISS,Danuel House,3:27,1,Rockets,Jazz,16 - 18,1,12,2,Jumper
+91,Team,OFFENSIVE_REBOUND,None,3:27,1,Jazz,Rockets,16 - 18,1,N/A,N/A,N/A
+92,Dante Exum,SUBSTITUTION,Rubio Ricky,3:27,1,Jazz,Rockets,16 - 18,1,N/A,N/A,N/A
+93,Derrick Favors,FG_ASSISTED,Royce O'Neale,3:25,1,Jazz,Rockets,16 - 20,1,0,2,Dunk
+94,James Harden,FG_MISS,None,2:57,1,Rockets,Jazz,16 - 20,0,0,2,Layup
+95,Royce O'Neale,DEFENSIVE_REBOUND,None,2:53,1,Jazz,Rockets,16 - 20,1,N/A,N/A,N/A
+96,Danuel House,FOUL_ON_FLOOR,None,2:51,1,Rockets,Jazz,16 - 20,0,N/A,N/A,N/A
+97,Team,Unknown,None,2:51,1,Rockets,Jazz,16 - 20,0,N/A,N/A,N/A
+98,Ekpe Udoh,SUBSTITUTION,Favors Derrick,2:51,1,Jazz,Rockets,16 - 20,1,N/A,N/A,N/A
+99,Thabo Sefolosha,SUBSTITUTION,O'Neale Royce,2:51,1,Jazz,Rockets,16 - 20,1,N/A,N/A,N/A
+100,Donovan Mitchell,SUBSTITUTION,Crowder Jae,2:51,1,Jazz,Rockets,16 - 20,1,N/A,N/A,N/A
+101,PJ Tucker,SUBSTITUTION,Harden James,2:51,1,Rockets,Jazz,16 - 20,0,N/A,N/A,N/A
+102,PJ Tucker,SUBSTITUTION,for game,2:51,1,Rockets,Jazz,16 - 20,0,N/A,N/A,N/A
+103,Dante Exum,FT,None,2:51,1,Jazz,Rockets,16 - 21,1,N/A,1,N/A
+104,Dante Exum,FT_MISS,None,2:51,1,Jazz,Rockets,16 - 21,1,N/A,1,N/A
+105,Chris Paul,SUBSTITUTION,House Danuel,2:51,1,Rockets,Jazz,16 - 21,0,N/A,N/A,N/A
+106,PJ Tucker,DEFENSIVE_REBOUND,None,2:48,1,Rockets,Jazz,16 - 21,0,N/A,N/A,N/A
+107,Chris Paul,FG_MISS,None,2:33,1,Rockets,Jazz,16 - 21,0,14,2,Jumper
+108,Kyle Korver,DEFENSIVE_REBOUND,None,2:29,1,Jazz,Rockets,16 - 21,1,N/A,N/A,N/A
+109,Kyle Korver,FG_MISS,None,2:13,1,Jazz,Rockets,16 - 21,1,23,2,Jumper
+110,PJ Tucker,DEFENSIVE_REBOUND,None,2:10,1,Rockets,Jazz,16 - 21,0,N/A,N/A,N/A
+111,Eric Gordon,FG_MISS,None,2:01,1,Rockets,Jazz,16 - 21,0,0,2,Layup
+112,Kyle Korver,DEFENSIVE_REBOUND,None,1:59,1,Jazz,Rockets,16 - 21,1,N/A,N/A,N/A
+113,Donovan Mitchell,FG_UNASSISTED,None,1:51,1,Jazz,Rockets,16 - 23,1,0,2,Layup
+114,Eric Gordon,TURNOVER,Thabo Sefolosha,1:41,1,Rockets,Jazz,16 - 23,0,N/A,N/A,N/A
+115,Dante Exum,FG_ASSISTED,Thabo Sefolosha,1:36,1,Jazz,Rockets,16 - 25,1,0,2,Dunk
+116,Chris Paul,TURNOVER,Donovan Mitchell,1:21,1,Rockets,Jazz,16 - 25,0,N/A,N/A,N/A
+117,Dante Exum,FG_ASSISTED,Donovan Mitchell,1:06,1,Jazz,Rockets,16 - 27,1,0,2,Layup
+118,Nene Hilario,FG_MISS,None,47.7,1,Rockets,Jazz,16 - 27,0,0,2,Layup
+119,Dante Exum,DEFENSIVE_REBOUND,None,46.0,1,Jazz,Rockets,16 - 27,1,N/A,N/A,N/A
+120,Dante Exum,FG_MISS,None,40.5,1,Jazz,Rockets,16 - 27,1,25,3,Jumper
+121,PJ Tucker,DEFENSIVE_REBOUND,None,37.2,1,Rockets,Jazz,16 - 27,0,N/A,N/A,N/A
+122,Eric Gordon,FG_UNASSISTED,None,22.8,1,Rockets,Jazz,18 - 27,0, ,2,Jumper
+123,Donovan Mitchell,FG_MISS,Eric Gordon,0.0,1,Rockets,Jazz,18 - 27,1,25,3,Jumper
+124,Eric Gordon,DEFENSIVE_REBOUND,None,0.0,1,Rockets,Jazz,18 - 27,0,N/A,N/A,N/A
+125,End of,Unknown,None,0.0,1,Jazz,Rockets,18 - 27,1,N/A,N/A,N/A
+0,Clint Capela,SUBSTITUTION,Hilario Nene,12:00,2,Rockets,Jazz,18 - 27,0,N/A,N/A,N/A
+1,PJ Tucker,FOUL_ON_FLOOR,None,11:49,2,Rockets,Jazz,18 - 27,0,N/A,N/A,N/A
+2,Thabo Sefolosha,FT_MISS,None,11:49,2,Jazz,Rockets,18 - 27,1,N/A,1,N/A
+3,Team,OFFENSIVE_REBOUND,None,11:49,2,Jazz,Rockets,18 - 27,1,N/A,N/A,N/A
+4,James Ennis,SUBSTITUTION,Tucker PJ,11:49,2,Rockets,Jazz,18 - 27,0,N/A,N/A,N/A
+5,Thabo Sefolosha,FT_MISS,None,11:49,2,Jazz,Rockets,18 - 27,1,N/A,1,N/A
+6,James Ennis,DEFENSIVE_REBOUND,None,11:44,2,Rockets,Jazz,18 - 27,0,N/A,N/A,N/A
+7,James Ennis,FG_MISS,None,11:36,2,Rockets,Jazz,18 - 27,0, ,3,Jumper
+8,Ekpe Udoh,DEFENSIVE_REBOUND,None,11:33,2,Jazz,Rockets,18 - 27,1,N/A,N/A,N/A
+9,Kyle Korver,TURNOVER,Gerald Green,11:12,2,Jazz,Rockets,18 - 27,1,N/A,N/A,N/A
+10,Gerald Green,FG_MISS,None,11:03,2,Rockets,Jazz,18 - 27,0,25,3,Jumper
+11,James Ennis,OFFENSIVE_REBOUND,None,11:00,2,Rockets,Jazz,18 - 27,0,N/A,N/A,N/A
+12,Eric Gordon,FG_ASSISTED,nnis III,10:58,2,Rockets,Jazz,21 - 27,0,24,3,Jumper
+13,Donovan Mitchell,FG_UNASSISTED,None,10:44,2,Jazz,Rockets,21 - 29,1,19,2,Jumper
+14,Gerald Green,FG_MISS,Kyle Korver,10:27,2,Jazz,Rockets,21 - 29,0,26,3,Jumper
+15,Dante Exum,DEFENSIVE_REBOUND,None,10:23,2,Jazz,Rockets,21 - 29,1,N/A,N/A,N/A
+16,Donovan Mitchell,FG_UNASSISTED,None,10:19,2,Jazz,Rockets,21 - 31,1,2,2,Jumper
+17,Gerald Green,FG_ASSISTED,Chris Paul,9:56,2,Rockets,Jazz,24 - 31,0,25,3,Jumper
+18,Ekpe Udoh,FG_ASSISTED,Dante Exum,9:41,2,Jazz,Rockets,24 - 33,1,7,2,Jumper
+19,Chris Paul,FG_MISS,Ekpe Udoh,9:15,2,Jazz,Rockets,24 - 33,0,16,2,Jumper
+20,Thabo Sefolosha,DEFENSIVE_REBOUND,None,9:13,2,Jazz,Rockets,24 - 33,1,N/A,N/A,N/A
+21,Donovan Mitchell,FG_MISS,Clint Capela,9:07,2,Rockets,Jazz,24 - 33,1,0,2,Layup
+22,Team,OFFENSIVE_REBOUND,None,9:07,2,Jazz,Rockets,24 - 33,1,N/A,N/A,N/A
+23,Joe Ingles,SUBSTITUTION,Exum Dante,9:07,2,Jazz,Rockets,24 - 33,1,N/A,N/A,N/A
+24,Royce O'Neale,SUBSTITUTION,Korver Kyle,9:07,2,Jazz,Rockets,24 - 33,1,N/A,N/A,N/A
+25,James Harden,SUBSTITUTION,Gordon Eric,9:07,2,Rockets,Jazz,24 - 33,0,N/A,N/A,N/A
+26,Thabo Sefolosha,FG_MISS,None,8:52,2,Jazz,Rockets,24 - 33,1,23,3,Jumper
+27,Ekpe Udoh,OFFENSIVE_REBOUND,None,8:48,2,Jazz,Rockets,24 - 33,1,N/A,N/A,N/A
+28,James Harden,FOUL_ON_FLOOR,None,8:44,2,Rockets,Jazz,24 - 33,0,N/A,N/A,N/A
+29,Ricky Rubio,SUBSTITUTION,Mitchell Donovan,8:44,2,Jazz,Rockets,24 - 33,1,N/A,N/A,N/A
+30,Royce O'Neale,FG_MISS,None,8:31,2,Jazz,Rockets,24 - 33,1,22,3,Jumper
+31,Gerald Green,DEFENSIVE_REBOUND,None,8:28,2,Rockets,Jazz,24 - 33,0,N/A,N/A,N/A
+32,Chris Paul,FOUL_ON_FLOOR,None,8:14,2,Rockets,Jazz,24 - 33,0,N/A,N/A,N/A
+33,Chris Paul,TURNOVER,None,8:14,2,Rockets,Jazz,24 - 33,0,N/A,N/A,N/A
+34,Derrick Favors,SUBSTITUTION,Udoh Ekpe,8:14,2,Jazz,Rockets,24 - 33,1,N/A,N/A,N/A
+35,Danuel House,SUBSTITUTION,Green Gerald,8:14,2,Rockets,Jazz,24 - 33,0,N/A,N/A,N/A
+36,Ricky Rubio,FG_ASSISTED,Royce O'Neale,7:59,2,Jazz,Rockets,24 - 36,1,24,3,Jumper
+37,Danuel House,TURNOVER,None,7:43,2,Rockets,Jazz,24 - 36,0,N/A,N/A,N/A
+38,Jae Crowder,SUBSTITUTION,Sefolosha Thabo,7:43,2,Jazz,Rockets,24 - 36,1,N/A,N/A,N/A
+39,Clint Capela,FOUL_ON_FLOOR,None,7:37,2,Rockets,Jazz,24 - 36,0,N/A,N/A,N/A
+40,Team,Unknown,None,7:37,2,Jazz,Rockets,24 - 36,1,N/A,N/A,N/A
+41,Derrick Favors,FG_MISS,None,7:26,2,Jazz,Rockets,24 - 36,1,7,2,Jumper
+42,Clint Capela,DEFENSIVE_REBOUND,None,7:23,2,Rockets,Jazz,24 - 36,0,N/A,N/A,N/A
+43,Chris Paul,TURNOVER,Royce O'Neale,7:18,2,Rockets,Jazz,24 - 36,0,N/A,N/A,N/A
+44,Royce O'Neale,FG_UNASSISTED,None,7:12,2,Jazz,Rockets,24 - 38,1, ,2,Jumper
+45,Clint Capela,FG_ASSISTED,James Harden,6:47,2,Rockets,Jazz,26 - 38,0,0,2,Dunk
+46,Joe Ingles,FG_MISS,None,6:38,2,Jazz,Rockets,26 - 38,1,0,2,Layup
+47,James Ennis,DEFENSIVE_REBOUND,None,6:34,2,Rockets,Jazz,26 - 38,0,N/A,N/A,N/A
+48,James Ennis,FG_UNASSISTED,None,6:32,2,Rockets,Jazz,28 - 38,0,7,2,Jumper
+49,Ricky Rubio,FG_UNASSISTED,None,6:21,2,Jazz,Rockets,28 - 40,1,17,2,Jumper
+50,James Harden,FG_UNASSISTED,None,6:07,2,Rockets,Jazz,30 - 40,0,0,2,Layup
+51,James Harden,FOUL_ON_FLOOR,None,5:57,2,Rockets,Jazz,30 - 40,0,N/A,N/A,N/A
+52,Eric Gordon,SUBSTITUTION,Paul Chris,5:57,2,Rockets,Jazz,30 - 40,0,N/A,N/A,N/A
+53,Joe Ingles,FG_ASSISTED,Ricky Rubio,5:44,2,Jazz,Rockets,30 - 43,1,26,2,Jumper
+54,James Harden,FG_MISS,None,5:29,2,Rockets,Jazz,30 - 43,0,26,3,Jumper
+55,Ricky Rubio,DEFENSIVE_REBOUND,None,5:26,2,Jazz,Rockets,30 - 43,1,N/A,N/A,N/A
+56,Ricky Rubio,FG_MISS,None,5:15,2,Jazz,Rockets,30 - 43,1,26,3,Jumper
+57,Danuel House,DEFENSIVE_REBOUND,None,5:14,2,Rockets,Jazz,30 - 43,0,N/A,N/A,N/A
+58,Derrick Favors,FOUL_ON_FLOOR,None,5:09,2,Jazz,Rockets,30 - 43,1,N/A,N/A,N/A
+59,Clint Capela,FT,None,5:09,2,Rockets,Jazz,31 - 43,0,N/A,1,N/A
+60,Donovan Mitchell,SUBSTITUTION,O'Neale Royce,5:09,2,Jazz,Rockets,31 - 43,1,N/A,N/A,N/A
+61,Clint Capela,FT,None,5:09,2,Rockets,Jazz,32 - 43,0,N/A,1,N/A
+62,Ricky Rubio,FG_MISS,None,4:46,2,Jazz,Rockets,32 - 43,1,11,2,Jumper
+63,Team,OFFENSIVE_REBOUND,None,4:46,2,Jazz,Rockets,32 - 43,1,N/A,N/A,N/A
+64,Eric Gordon,FOUL_ON_FLOOR,None,4:46,2,Rockets,Jazz,32 - 43,0,N/A,N/A,N/A
+65,Derrick Favors,FT,None,4:46,2,Jazz,Rockets,32 - 44,1,N/A,1,N/A
+66,Derrick Favors,FT,None,4:46,2,Jazz,Rockets,32 - 45,1,N/A,1,N/A
+67,James Harden,FG_MISS,None,4:32,2,Rockets,Jazz,32 - 45,0,23,3,Jumper
+68,Joe Ingles,DEFENSIVE_REBOUND,None,4:29,2,Jazz,Rockets,32 - 45,1,N/A,N/A,N/A
+69,Joe Ingles,FG_MISS,None,4:25,2,Jazz,Rockets,32 - 45,1,27,3,Jumper
+70,James Harden,DEFENSIVE_REBOUND,None,4:23,2,Rockets,Jazz,32 - 45,0,N/A,N/A,N/A
+71,James Harden,FG_MISS,None,4:17,2,Rockets,Jazz,32 - 45,0,25,3,Jumper
+72,Joe Ingles,DEFENSIVE_REBOUND,None,4:15,2,Jazz,Rockets,32 - 45,1,N/A,N/A,N/A
+73,James Harden,FOUL_ON_FLOOR,None,4:11,2,Rockets,Jazz,32 - 45,0,N/A,N/A,N/A
+74,Joe Ingles,FT,None,4:11,2,Jazz,Rockets,32 - 46,1,N/A,1,N/A
+75,Joe Ingles,FT,None,4:11,2,Jazz,Rockets,32 - 47,1,N/A,1,N/A
+76,James Harden,FG_UNASSISTED,None,3:52,2,Rockets,Jazz,34 - 47,0,0,2,Layup
+77,Eric Gordon,FOUL_ON_FLOOR,None,3:46,2,Rockets,Jazz,34 - 47,0,N/A,N/A,N/A
+78,Jae Crowder,FT,None,3:46,2,Jazz,Rockets,34 - 48,1,N/A,1,N/A
+79,PJ Tucker,SUBSTITUTION,Capela Clint,3:46,2,Rockets,Jazz,34 - 48,0,N/A,N/A,N/A
+80,Jae Crowder,FT,None,3:46,2,Jazz,Rockets,34 - 49,1,N/A,1,N/A
+81,James Harden,FG_UNASSISTED,None,3:32,2,Rockets,Jazz,37 - 49,0,27,3,Jumper
+82,Ricky Rubio,FG_MISS,None,3:13,2,Jazz,Rockets,37 - 49,1,14,2,Jumper
+83,James Harden,DEFENSIVE_REBOUND,None,3:10,2,Rockets,Jazz,37 - 49,0,N/A,N/A,N/A
+84,James Harden,TURNOVER,Jae Crowder,3:05,2,Rockets,Jazz,37 - 49,0,N/A,N/A,N/A
+85,Jae Crowder,FG_MISS,None,2:48,2,Jazz,Rockets,37 - 49,1, ,2,Jumper
+86,Danuel House,DEFENSIVE_REBOUND,None,2:43,2,Rockets,Jazz,37 - 49,0,N/A,N/A,N/A
+87,Joe Ingles,FOUL_ON_FLOOR,None,2:43,2,Jazz,Rockets,37 - 49,1,N/A,N/A,N/A
+88,Team,Unknown,None,2:43,2,Rockets,Jazz,37 - 49,0,N/A,N/A,N/A
+89,Chris Paul,SUBSTITUTION,III Ennis,2:43,2,Rockets,Jazz,37 - 49,0,N/A,N/A,N/A
+90,Gerald Green,SUBSTITUTION,House Danuel,2:43,2,Rockets,Jazz,37 - 49,0,N/A,N/A,N/A
+91,James Harden,FG_UNASSISTED,None,2:31,2,Rockets,Jazz,40 - 49,0,25,2,Jumper
+92,Donovan Mitchell,FG_MISS,None,2:06,2,Jazz,Rockets,40 - 49,1,25,3,Jumper
+93,Gerald Green,DEFENSIVE_REBOUND,None,2:02,2,Rockets,Jazz,40 - 49,0,N/A,N/A,N/A
+94,James Harden,FG_MISS,None,1:57,2,Rockets,Jazz,40 - 49,0,26,3,Jumper
+95,Team,OFFENSIVE_REBOUND,None,1:55,2,Rockets,Jazz,40 - 49,0,N/A,N/A,N/A
+96,Donovan Mitchell,FOUL_ON_FLOOR,None,1:55,2,Jazz,Rockets,40 - 49,1,N/A,N/A,N/A
+97,PJ Tucker,FG_MISS,None,1:48,2,Rockets,Jazz,40 - 49,0,23,3,Jumper
+98,Ricky Rubio,DEFENSIVE_REBOUND,None,1:46,2,Jazz,Rockets,40 - 49,1,N/A,N/A,N/A
+99,Derrick Favors,FG_ASSISTED,Joe Ingles,1:34,2,Jazz,Rockets,40 - 51,1,0,2,Dunk
+100,Derrick Favors,Unknown,None,1:18,2,Jazz,Rockets,40 - 51,1,N/A,N/A,N/A
+101,Clint Capela,SUBSTITUTION,Tucker PJ,1:18,2,Rockets,Jazz,40 - 51,0,N/A,N/A,N/A
+102,Chris Paul,FG_UNASSISTED,None,1:08,2,Rockets,Jazz,42 - 51,0,11,2,Jumper
+103,Ricky Rubio,FG_MISS,None,46.7,2,Jazz,Rockets,42 - 51,1,26,3,Jumper
+104,Derrick Favors,OFFENSIVE_REBOUND,None,44.8,2,Jazz,Rockets,42 - 51,1,N/A,N/A,N/A
+105,Derrick Favors,FG_MISS,None,44.8,2,Jazz,Rockets,42 - 51,1, ,2,Jumper
+106,Derrick Favors,OFFENSIVE_REBOUND,None,43.8,2,Jazz,Rockets,42 - 51,1,N/A,N/A,N/A
+107,Derrick Favors,FG_UNASSISTED,None,43.8,2,Jazz,Rockets,42 - 53,1, ,2,Jumper
+108,Chris Paul,FG_MISS,None,40.4,2,Rockets,Jazz,42 - 53,0,28,3,Jumper
+109,Joe Ingles,DEFENSIVE_REBOUND,None,36.0,2,Jazz,Rockets,42 - 53,1,N/A,N/A,N/A
+110,Donovan Mitchell,FG_MISS,None,24.4,2,Jazz,Rockets,42 - 53,1, ,2,Jumper
+111,Chris Paul,DEFENSIVE_REBOUND,None,21.0,2,Rockets,Jazz,42 - 53,0,N/A,N/A,N/A
+112,Gerald Green,FG_ASSISTED,Chris Paul,2.2,2,Rockets,Jazz,45 - 53,0,23,3,Jumper
+113,Derrick Favors,TURNOVER,None,1.3,2,Jazz,Rockets,45 - 53,1,N/A,N/A,N/A
+114,Chris Paul,TURNOVER,None,0.6,2,Rockets,Jazz,45 - 53,0,N/A,N/A,N/A
+115,End of,Unknown,None,0.0,2,Jazz,Rockets,45 - 53,1,N/A,N/A,N/A
+0,James Ennis,SUBSTITUTION,Gordon Eric,12:00,3,Rockets,Jazz,45 - 53,0,N/A,N/A,N/A
+1,PJ Tucker,SUBSTITUTION,Green Gerald,12:00,3,Rockets,Jazz,45 - 53,0,N/A,N/A,N/A
+2,Joe Ingles,FG_ASSISTED,Ricky Rubio,11:48,3,Jazz,Rockets,45 - 56,1,25,3,Jumper
+3,Clint Capela,TURNOVER,None,11:28,3,Rockets,Jazz,45 - 56,0,N/A,N/A,N/A
+4,Jae Crowder,FG_ASSISTED,Ricky Rubio,11:05,3,Jazz,Rockets,45 - 59,1,24,3,Jumper
+5,James Harden,TURNOVER,Ricky Rubio,10:49,3,Rockets,Jazz,45 - 59,0,N/A,N/A,N/A
+6,Jae Crowder,FG_UNASSISTED,None,10:46,3,Jazz,Rockets,45 - 61,1, ,2,Jumper
+7,Chris Paul,FOUL_ON_FLOOR,None,10:46,3,Rockets,Jazz,45 - 61,0,N/A,N/A,N/A
+8,Jae Crowder,FT,None,10:46,3,Jazz,Rockets,45 - 62,1,N/A,1,N/A
+9,Clint Capela,FG_ASSISTED,James Harden,10:30,3,Rockets,Jazz,47 - 62,0,0,2,Dunk
+10,Joe Ingles,FG_UNASSISTED,None,10:14,3,Jazz,Rockets,47 - 64,1,0,2,Layup
+11,Chris Paul,FG_MISS,None,9:58,3,Rockets,Jazz,47 - 64,0,26,2,Jumper
+12,Jae Crowder,DEFENSIVE_REBOUND,None,9:56,3,Jazz,Rockets,47 - 64,1,N/A,N/A,N/A
+13,Donovan Mitchell,FOUL_ON_FLOOR,None,9:47,3,Jazz,Rockets,47 - 64,1,N/A,N/A,N/A
+14,Donovan Mitchell,TURNOVER,None,9:47,3,Jazz,Rockets,47 - 64,1,N/A,N/A,N/A
+15,James Harden,FG_MISS,None,9:26,3,Rockets,Jazz,47 - 64,0,26,3,Jumper
+16,Team,DEFENSIVE_REBOUND,None,9:25,3,Jazz,Rockets,47 - 64,1,N/A,N/A,N/A
+17,Clint Capela,FOUL_ON_FLOOR,None,9:25,3,Rockets,Jazz,47 - 64,0,N/A,N/A,N/A
+18,Derrick Favors,FG_ASSISTED,Ricky Rubio,9:09,3,Jazz,Rockets,47 - 66,1,0,2,Layup
+19,Chris Paul,FG_MISS,None,8:44,3,Rockets,Jazz,47 - 66,0, ,2,Jumper
+20,Jae Crowder,DEFENSIVE_REBOUND,None,8:43,3,Jazz,Rockets,47 - 66,1,N/A,N/A,N/A
+21,Jae Crowder,FG_MISS,None,8:30,3,Jazz,Rockets,47 - 66,1,25,3,Jumper
+22,PJ Tucker,DEFENSIVE_REBOUND,None,8:26,3,Rockets,Jazz,47 - 66,0,N/A,N/A,N/A
+23,Ricky Rubio,FOUL_ON_FLOOR,None,8:24,3,Jazz,Rockets,47 - 66,1,N/A,N/A,N/A
+24,James Harden,TURNOVER,Donovan Mitchell,8:11,3,Rockets,Jazz,47 - 66,0,N/A,N/A,N/A
+25,Ricky Rubio,FG_MISS,None,7:55,3,Jazz,Rockets,47 - 66,1,25,3,Jumper
+26,James Ennis,DEFENSIVE_REBOUND,None,7:52,3,Rockets,Jazz,47 - 66,0,N/A,N/A,N/A
+27,James Harden,TURNOVER,Joe Ingles,7:37,3,Rockets,Jazz,47 - 66,0,N/A,N/A,N/A
+28,Joe Ingles,FG_MISS,None,7:25,3,Jazz,Rockets,47 - 66,1,25,3,Jumper
+29,Derrick Favors,OFFENSIVE_REBOUND,None,7:22,3,Jazz,Rockets,47 - 66,1,N/A,N/A,N/A
+30,Derrick Favors,FG_MISS,None,7:20,3,Jazz,Rockets,47 - 66,1,0,2,Layup
+31,Derrick Favors,OFFENSIVE_REBOUND,None,7:20,3,Jazz,Rockets,47 - 66,1,N/A,N/A,N/A
+32,Derrick Favors,FG_UNASSISTED,None,7:20,3,Jazz,Rockets,47 - 68,1, ,2,Jumper
+33,Team,Unknown,None,7:20,3,Rockets,Jazz,47 - 68,0,N/A,N/A,N/A
+34,Eric Gordon,SUBSTITUTION,III Ennis,7:20,3,Rockets,Jazz,47 - 68,0,N/A,N/A,N/A
+35,James Harden,FG_ASSISTED,Chris Paul,6:55,3,Rockets,Jazz,49 - 68,0,10,2,Jumper
+36,Ricky Rubio,FG_ASSISTED,Joe Ingles,6:36,3,Jazz,Rockets,49 - 70,1,0,2,Layup
+37,James Harden,FG_MISS,None,6:21,3,Rockets,Jazz,49 - 70,0, ,2,Jumper
+38,Clint Capela,OFFENSIVE_REBOUND,None,6:18,3,Rockets,Jazz,49 - 70,0,N/A,N/A,N/A
+39,Clint Capela,FG_UNASSISTED,None,6:18,3,Rockets,Jazz,51 - 70,0, ,2,Jumper
+40,Ricky Rubio,FG_ASSISTED,Joe Ingles,6:01,3,Jazz,Rockets,51 - 72,1,0,2,Layup
+41,Eric Gordon,FG_UNASSISTED,None,5:51,3,Rockets,Jazz,53 - 72,0,19,2,Jumper
+42,Donovan Mitchell,FOUL_ON_FLOOR,None,5:51,3,Jazz,Rockets,53 - 72,1,N/A,N/A,N/A
+43,Royce O'Neale,SUBSTITUTION,Mitchell Donovan,5:51,3,Jazz,Rockets,53 - 72,1,N/A,N/A,N/A
+44,Gerald Green,SUBSTITUTION,Paul Chris,5:51,3,Rockets,Jazz,53 - 72,0,N/A,N/A,N/A
+45,Danuel House,SUBSTITUTION,Capela Clint,5:51,3,Rockets,Jazz,53 - 72,0,N/A,N/A,N/A
+46,Eric Gordon,FT,None,5:51,3,Rockets,Jazz,54 - 72,0,N/A,1,N/A
+47,Jae Crowder,FG_MISS,None,5:42,3,Jazz,Rockets,54 - 72,1,25,3,Jumper
+48,James Harden,DEFENSIVE_REBOUND,None,5:39,3,Rockets,Jazz,54 - 72,0,N/A,N/A,N/A
+49,Eric Gordon,FG_MISS,None,5:31,3,Rockets,Jazz,54 - 72,0,27,3,Jumper
+50,Joe Ingles,DEFENSIVE_REBOUND,None,5:29,3,Jazz,Rockets,54 - 72,1,N/A,N/A,N/A
+51,Jae Crowder,FG_MISS,None,5:17,3,Jazz,Rockets,54 - 72,1,10,2,Jumper
+52,Jae Crowder,OFFENSIVE_REBOUND,None,5:13,3,Jazz,Rockets,54 - 72,1,N/A,N/A,N/A
+53,Jae Crowder,FG_MISS,None,5:13,3,Jazz,Rockets,54 - 72,1, ,2,Jumper
+54,Derrick Favors,OFFENSIVE_REBOUND,None,5:11,3,Jazz,Rockets,54 - 72,1,N/A,N/A,N/A
+55,Derrick Favors,FG_UNASSISTED,None,5:11,3,Jazz,Rockets,54 - 74,1, ,2,Jumper
+56,PJ Tucker,FOUL_ON_FLOOR,None,5:00,3,Rockets,Jazz,54 - 74,0,N/A,N/A,N/A
+57,PJ Tucker,TURNOVER,None,5:00,3,Rockets,Jazz,54 - 74,0,N/A,N/A,N/A
+58,Dante Exum,SUBSTITUTION,Rubio Ricky,5:00,3,Jazz,Rockets,54 - 74,1,N/A,N/A,N/A
+59,Ekpe Udoh,SUBSTITUTION,Favors Derrick,5:00,3,Jazz,Rockets,54 - 74,1,N/A,N/A,N/A
+60,Royce O'Neale,FG_MISS,None,4:47,3,Jazz,Rockets,54 - 74,1,25,3,Jumper
+61,James Harden,DEFENSIVE_REBOUND,None,4:43,3,Rockets,Jazz,54 - 74,0,N/A,N/A,N/A
+62,Eric Gordon,TURNOVER,Joe Ingles,4:39,3,Rockets,Jazz,54 - 74,0,N/A,N/A,N/A
+63,Royce O'Neale,FG_ASSISTED,Ekpe Udoh,4:20,3,Jazz,Rockets,54 - 77,1,27,3,Jumper
+64,James Harden,TURNOVER,Dante Exum,3:56,3,Rockets,Jazz,54 - 77,0,N/A,N/A,N/A
+65,Jae Crowder,FG_ASSISTED,Dante Exum,3:53,3,Jazz,Rockets,54 - 79,1, ,2,Jumper
+66,Team,Unknown,None,3:53,3,Rockets,Jazz,54 - 79,0,N/A,N/A,N/A
+67,Danuel House,FG_MISS,None,3:29,3,Rockets,Jazz,54 - 79,0,0,2,Layup
+68,Ekpe Udoh,DEFENSIVE_REBOUND,None,3:27,3,Jazz,Rockets,54 - 79,1,N/A,N/A,N/A
+69,Danuel House,FOUL_ON_FLOOR,None,3:23,3,Rockets,Jazz,54 - 79,0,N/A,N/A,N/A
+70,Jae Crowder,FT,None,3:23,3,Jazz,Rockets,54 - 80,1,N/A,1,N/A
+71,Kyle Korver,SUBSTITUTION,Ingles Joe,3:23,3,Jazz,Rockets,54 - 80,1,N/A,N/A,N/A
+72,Donovan Mitchell,SUBSTITUTION,O'Neale Royce,3:23,3,Jazz,Rockets,54 - 80,1,N/A,N/A,N/A
+73,Clint Capela,SUBSTITUTION,Tucker PJ,3:23,3,Rockets,Jazz,54 - 80,0,N/A,N/A,N/A
+74,Gary Clark,SUBSTITUTION,House Danuel,3:23,3,Rockets,Jazz,54 - 80,0,N/A,N/A,N/A
+75,Jae Crowder,FT,None,3:23,3,Jazz,Rockets,54 - 81,1,N/A,1,N/A
+76,Gary Clark,FG_MISS,None,3:10,3,Rockets,Jazz,54 - 81,0,23,3,Jumper
+77,Clint Capela,OFFENSIVE_REBOUND,None,3:06,3,Rockets,Jazz,54 - 81,0,N/A,N/A,N/A
+78,Donovan Mitchell,FOUL_ON_FLOOR,None,3:04,3,Jazz,Rockets,54 - 81,1,N/A,N/A,N/A
+79,Thabo Sefolosha,SUBSTITUTION,Crowder Jae,3:04,3,Jazz,Rockets,54 - 81,1,N/A,N/A,N/A
+80,James Harden,FG_MISS,None,2:57,3,Rockets,Jazz,54 - 81,0,23,3,Jumper
+81,Donovan Mitchell,DEFENSIVE_REBOUND,None,2:53,3,Jazz,Rockets,54 - 81,1,N/A,N/A,N/A
+82,Thabo Sefolosha,FG_ASSISTED,Dante Exum,2:46,3,Jazz,Rockets,54 - 84,1,24,3,Jumper
+83,Clint Capela,FG_MISS,None,2:28,3,Rockets,Jazz,54 - 84,0,0,2,Layup
+84,James Harden,OFFENSIVE_REBOUND,None,2:25,3,Rockets,Jazz,54 - 84,0,N/A,N/A,N/A
+85,James Harden,FG_MISS,None,2:24,3,Rockets,Jazz,54 - 84,0,0,2,Layup
+86,Ekpe Udoh,DEFENSIVE_REBOUND,None,2:24,3,Jazz,Rockets,54 - 84,1,N/A,N/A,N/A
+87,Eric Gordon,FOUL_ON_FLOOR,None,2:18,3,Rockets,Jazz,54 - 84,0,N/A,N/A,N/A
+88,Dante Exum,FT,None,2:18,3,Jazz,Rockets,54 - 85,1,N/A,1,N/A
+89,Royce O'Neale,SUBSTITUTION,Udoh Ekpe,2:18,3,Jazz,Rockets,54 - 85,1,N/A,N/A,N/A
+90,Derrick Favors,SUBSTITUTION,Mitchell Donovan,2:18,3,Jazz,Rockets,54 - 85,1,N/A,N/A,N/A
+91,Chris Paul,SUBSTITUTION,Harden James,2:18,3,Rockets,Jazz,54 - 85,0,N/A,N/A,N/A
+92,Dante Exum,FT_MISS,None,2:18,3,Jazz,Rockets,54 - 85,1,N/A,1,N/A
+93,Gary Clark,DEFENSIVE_REBOUND,None,2:14,3,Rockets,Jazz,54 - 85,0,N/A,N/A,N/A
+94,Eric Gordon,FG_MISS,Derrick Favors,2:01,3,Jazz,Rockets,54 - 85,0,0,2,Layup
+95,Derrick Favors,DEFENSIVE_REBOUND,None,1:59,3,Jazz,Rockets,54 - 85,1,N/A,N/A,N/A
+96,Thabo Sefolosha,TURNOVER,Eric Gordon,1:48,3,Jazz,Rockets,54 - 85,1,N/A,N/A,N/A
+97,Royce O'Neale,FOUL_ON_FLOOR,None,1:47,3,Jazz,Rockets,54 - 85,1,N/A,N/A,N/A
+98,Chris Paul,FG_MISS,None,1:32,3,Rockets,Jazz,54 - 85,0,12,2,Jumper
+99,Derrick Favors,DEFENSIVE_REBOUND,None,1:28,3,Jazz,Rockets,54 - 85,1,N/A,N/A,N/A
+100,Derrick Favors,FG_ASSISTED,Dante Exum,1:20,3,Jazz,Rockets,54 - 87,1,0,2,Dunk
+101,Chris Paul,TURNOVER,Royce O'Neale,1:07,3,Rockets,Jazz,54 - 87,0,N/A,N/A,N/A
+102,Royce O'Neale,FG_UNASSISTED,None,1:01,3,Jazz,Rockets,54 - 89,1, ,2,Jumper
+103,Eric Gordon,FG_MISS,None,51.5,3,Rockets,Jazz,54 - 89,0,27,3,Jumper
+104,Derrick Favors,DEFENSIVE_REBOUND,None,48.8,3,Jazz,Rockets,54 - 89,1,N/A,N/A,N/A
+105,Derrick Favors,FG_ASSISTED,Kyle Korver,34.3,3,Jazz,Rockets,54 - 91,1, ,2,Jumper
+106,Chris Paul,FG_UNASSISTED,None,31.2,3,Rockets,Jazz,56 - 91,0,0,2,Layup
+107,Derrick Favors,FOUL_ON_FLOOR,None,31.2,3,Jazz,Rockets,56 - 91,1,N/A,N/A,N/A
+108,Chris Paul,FT_MISS,None,31.2,3,Rockets,Jazz,56 - 91,0,N/A,1,N/A
+109,Derrick Favors,DEFENSIVE_REBOUND,None,29.4,3,Jazz,Rockets,56 - 91,1,N/A,N/A,N/A
+110,Dante Exum,FG_MISS,Clint Capela,12.8,3,Rockets,Jazz,56 - 91,1,0,2,Layup
+111,Gerald Green,DEFENSIVE_REBOUND,None,9.4,3,Rockets,Jazz,56 - 91,0,N/A,N/A,N/A
+112,Gerald Green,FG_MISS,None,3.9,3,Rockets,Jazz,56 - 91,0,25,3,Jumper
+113,Royce O'Neale,DEFENSIVE_REBOUND,None,0.9,3,Jazz,Rockets,56 - 91,1,N/A,N/A,N/A
+114,Royce O'Neale,FG_MISS,None,0.0,3,Jazz,Rockets,56 - 91,1,51,3,Jumper
+115,Team,OFFENSIVE_REBOUND,None,0.0,3,Jazz,Rockets,56 - 91,1,N/A,N/A,N/A
+116,End of,Unknown,None,0.0,3,Jazz,Rockets,56 - 91,1,N/A,N/A,N/A
+0,Nene Hilario,SUBSTITUTION,Gordon Eric,12:00,4,Rockets,Jazz,56 - 91,0,N/A,N/A,N/A
+1,James Ennis,SUBSTITUTION,Green Gerald,12:00,4,Rockets,Jazz,56 - 91,0,N/A,N/A,N/A
+2,Michael Carter-Williams,SUBSTITUTION,Capela Clint,12:00,4,Rockets,Jazz,56 - 91,0,N/A,N/A,N/A
+3,Danuel House,SUBSTITUTION,Paul Chris,12:00,4,Rockets,Jazz,56 - 91,0,N/A,N/A,N/A
+4,Gary Clark,FG_MISS,None,11:42,4,Rockets,Jazz,56 - 91,0,27,3,Jumper
+5,Nene Hilario,OFFENSIVE_REBOUND,None,11:38,4,Rockets,Jazz,56 - 91,0,N/A,N/A,N/A
+6,Gary Clark,FG_ASSISTED,Nene Hilario,11:26,4,Rockets,Jazz,59 - 91,0,23,3,Jumper
+7,Dante Exum,FG_UNASSISTED,None,11:09,4,Jazz,Rockets,59 - 93,1,0,2,Layup
+8,Gary Clark,TURNOVER,Royce O'Neale,10:55,4,Rockets,Jazz,59 - 93,0,N/A,N/A,N/A
+9,Royce O'Neale,FG_MISS,None,10:49,4,Jazz,Rockets,59 - 93,1,2,2,Jumper
+10,Derrick Favors,OFFENSIVE_REBOUND,None,10:41,4,Jazz,Rockets,59 - 93,1,N/A,N/A,N/A
+11,Derrick Favors,FG_UNASSISTED,None,10:41,4,Jazz,Rockets,59 - 95,1,0,2,Dunk
+12,Nene Hilario,FG_ASSISTED,Michael Carter-Williams,10:37,4,Rockets,Jazz,61 - 95,0,0,2,Layup
+13,Dante Exum,FOUL_ON_FLOOR,None,10:37,4,Jazz,Rockets,61 - 95,1,N/A,N/A,N/A
+14,Nene Hilario,FT,None,10:37,4,Rockets,Jazz,62 - 95,0,N/A,1,N/A
+15,Dante Exum,FG_UNASSISTED,None,10:25,4,Jazz,Rockets,62 - 97,1,0,2,Layup
+16,Nene Hilario,FG_MISS,None,10:09,4,Rockets,Jazz,62 - 97,0,21,2,Jumper
+17,Team,DEFENSIVE_REBOUND,None,10:07,4,Jazz,Rockets,62 - 97,1,N/A,N/A,N/A
+18,James Ennis,FOUL_ON_FLOOR,None,10:07,4,Rockets,Jazz,62 - 97,0,N/A,N/A,N/A
+19,James Ennis,FOUL_ON_FLOOR,None,9:55,4,Rockets,Jazz,62 - 97,0,N/A,N/A,N/A
+20,Ekpe Udoh,SUBSTITUTION,Favors Derrick,9:55,4,Jazz,Rockets,62 - 97,1,N/A,N/A,N/A
+21,Royce O'Neale,TURNOVER,Danuel House,9:50,4,Jazz,Rockets,62 - 97,1,N/A,N/A,N/A
+22,Michael Carter-Williams,FG_MISS,None,9:45,4,Rockets,Jazz,62 - 97,0,23,3,Jumper
+23,Royce O'Neale,DEFENSIVE_REBOUND,None,9:40,4,Jazz,Rockets,62 - 97,1,N/A,N/A,N/A
+24,Thabo Sefolosha,FG_ASSISTED,Royce O'Neale,9:37,4,Jazz,Rockets,62 - 99,1,0,2,Layup
+25,Michael Carter-Williams,FG_MISS,None,9:23,4,Rockets,Jazz,62 - 99,0,0,2,Layup
+26,Ekpe Udoh,DEFENSIVE_REBOUND,None,9:21,4,Jazz,Rockets,62 - 99,1,N/A,N/A,N/A
+27,Dante Exum,TURNOVER,None,9:16,4,Jazz,Rockets,62 - 99,1,N/A,N/A,N/A
+28,Raul Neto,SUBSTITUTION,Exum Dante,9:16,4,Jazz,Rockets,62 - 99,1,N/A,N/A,N/A
+29,Nene Hilario,FG_UNASSISTED,None,9:06,4,Rockets,Jazz,64 - 99,0,0,2,Layup
+30,Ekpe Udoh,FOUL_ON_FLOOR,None,9:06,4,Jazz,Rockets,64 - 99,1,N/A,N/A,N/A
+31,Nene Hilario,FT,None,9:06,4,Rockets,Jazz,65 - 99,0,N/A,1,N/A
+32,Nene Hilario,FOUL_ON_FLOOR,None,9:00,4,Rockets,Jazz,65 - 99,0,N/A,N/A,N/A
+33,blocks Kyle,FG_MISS,James Ennis,8:49,4,Rockets,Jazz,65 - 99,1,25,3,Jumper
+34,Nene Hilario,DEFENSIVE_REBOUND,None,8:44,4,Rockets,Jazz,65 - 99,0,N/A,N/A,N/A
+35,Nene Hilario,FG_UNASSISTED,None,8:37,4,Rockets,Jazz,67 - 99,0,7,2,Jumper
+36,Ekpe Udoh,FOUL_ON_FLOOR,None,8:37,4,Jazz,Rockets,67 - 99,1,N/A,N/A,N/A
+37,Nene Hilario,FT,None,8:37,4,Rockets,Jazz,68 - 99,0,N/A,1,N/A
+38,Raul Neto,FG_MISS,None,8:27,4,Jazz,Rockets,68 - 99,1,26,3,Jumper
+39,Team,DEFENSIVE_REBOUND,None,8:27,4,Rockets,Jazz,68 - 99,0,N/A,N/A,N/A
+40,foul 68,FOUL_ON_FLOOR,None,8:27,4,Jazz,Rockets,68 - 99,1,N/A,N/A,N/A
+41,Ekpe Udoh,FOUL_ON_FLOOR,None,8:27,4,Jazz,Rockets,68 - 99,1,N/A,N/A,N/A
+42,Grayson Allen,SUBSTITUTION,Korver Kyle,8:27,4,Jazz,Rockets,68 - 99,1,N/A,N/A,N/A
+43,Gerald Green,SUBSTITUTION,III Ennis,8:27,4,Rockets,Jazz,68 - 99,0,N/A,N/A,N/A
+44,Michael Carter-Williams,FG_UNASSISTED,None,8:16,4,Rockets,Jazz,70 - 99,0,0,2,Layup
+45,Thabo Sefolosha,FG_MISS,None,7:58,4,Jazz,Rockets,70 - 99,1,20,2,Jumper
+46,Gerald Green,DEFENSIVE_REBOUND,None,7:58,4,Rockets,Jazz,70 - 99,0,N/A,N/A,N/A
+47,Gerald Green,FG_MISS,None,7:46,4,Rockets,Jazz,70 - 99,0,25,3,Jumper
+48,Gerald Green,OFFENSIVE_REBOUND,None,7:44,4,Rockets,Jazz,70 - 99,0,N/A,N/A,N/A
+49,Gerald Green,FG_UNASSISTED,None,7:43,4,Rockets,Jazz,72 - 99,0,8,2,Jumper
+50,Team,Unknown,None,7:42,4,Jazz,Rockets,72 - 99,1,N/A,N/A,N/A
+51,Dante Exum,SUBSTITUTION,Sefolosha Thabo,7:42,4,Jazz,Rockets,72 - 99,1,N/A,N/A,N/A
+52,Dante Exum,FG_UNASSISTED,None,7:34,4,Jazz,Rockets,72 - 101,1,0,2,Layup
+53,Danuel House,FG_ASSISTED,Michael Carter-Williams,7:26,4,Rockets,Jazz,74 - 101,0,1,2,Jumper
+54,Ekpe Udoh,FG_ASSISTED,Dante Exum,7:03,4,Jazz,Rockets,74 - 103,1,0,2,Dunk
+55,Nene Hilario,FG_ASSISTED,Danuel House,6:48,4,Rockets,Jazz,76 - 103,0,0,2,Layup
+56,Grayson Allen,FG_MISS,None,6:33,4,Jazz,Rockets,76 - 103,1,23,2,Jumper
+57,Gary Clark,DEFENSIVE_REBOUND,None,6:30,4,Rockets,Jazz,76 - 103,0,N/A,N/A,N/A
+58,Michael Carter-Williams,FG_MISS,None,6:22,4,Rockets,Jazz,76 - 103,0,0,2,Layup
+59,Grayson Allen,DEFENSIVE_REBOUND,None,6:20,4,Jazz,Rockets,76 - 103,1,N/A,N/A,N/A
+60,Nene Hilario,FOUL_ON_FLOOR,None,6:05,4,Rockets,Jazz,76 - 103,0,N/A,N/A,N/A
+61,James Ennis,SUBSTITUTION,Hilario Nene,6:05,4,Rockets,Jazz,76 - 103,0,N/A,N/A,N/A
+62,James Ennis,FOUL_ON_FLOOR,None,6:02,4,Rockets,Jazz,76 - 103,0,N/A,N/A,N/A
+63,Grayson Allen,FT,None,6:02,4,Jazz,Rockets,76 - 104,1,N/A,1,N/A
+64,Grayson Allen,FT,None,6:02,4,Jazz,Rockets,76 - 105,1,N/A,1,N/A
+65,Danuel House,FG_MISS,None,5:45,4,Rockets,Jazz,76 - 105,0,25,2,Jumper
+66,Team,OFFENSIVE_REBOUND,None,5:42,4,Rockets,Jazz,76 - 105,0,N/A,N/A,N/A
+67,Danuel House,TURNOVER,Dante Exum,5:37,4,Rockets,Jazz,76 - 105,0,N/A,N/A,N/A
+68,Dante Exum,FG_MISS,None,5:27,4,Jazz,Rockets,76 - 105,1,0,2,Layup
+69,Ekpe Udoh,OFFENSIVE_REBOUND,None,5:25,4,Jazz,Rockets,76 - 105,1,N/A,N/A,N/A
+70,Ekpe Udoh,FG_MISS,None,5:25,4,Jazz,Rockets,76 - 105,1,1,2,Jumper
+71,Gary Clark,DEFENSIVE_REBOUND,None,5:23,4,Rockets,Jazz,76 - 105,0,N/A,N/A,N/A
+72,Michael Carter-Williams,FG_UNASSISTED,None,5:15,4,Rockets,Jazz,78 - 105,0,0,2,Layup
+73,Raul Neto,FOUL_ON_FLOOR,None,5:15,4,Jazz,Rockets,78 - 105,1,N/A,N/A,N/A
+74,Michael Carter-Williams,FT,None,5:15,4,Rockets,Jazz,79 - 105,0,N/A,1,N/A
+75,Dante Exum,TURNOVER,Michael Carter-Williams,5:05,4,Jazz,Rockets,79 - 105,1,N/A,N/A,N/A
+76,James Ennis,FG_MISS,None,5:01,4,Rockets,Jazz,79 - 105,0,25,3,Jumper
+77,Team,DEFENSIVE_REBOUND,None,4:59,4,Jazz,Rockets,79 - 105,1,N/A,N/A,N/A
+78,Raul Neto,FG_MISS,None,4:51,4,Jazz,Rockets,79 - 105,1,25,3,Jumper
+79,Danuel House,DEFENSIVE_REBOUND,None,4:49,4,Rockets,Jazz,79 - 105,0,N/A,N/A,N/A
+80,Gary Clark,FG_MISS,None,4:43,4,Rockets,Jazz,79 - 105,0,27,3,Jumper
+81,Royce O'Neale,DEFENSIVE_REBOUND,None,4:38,4,Jazz,Rockets,79 - 105,1,N/A,N/A,N/A
+82,Dante Exum,FG_MISS,None,4:31,4,Jazz,Rockets,79 - 105,1,26,3,Jumper
+83,Raul Neto,OFFENSIVE_REBOUND,None,4:28,4,Jazz,Rockets,79 - 105,1,N/A,N/A,N/A
+84,Ekpe Udoh,FG_ASSISTED,Royce O'Neale,4:21,4,Jazz,Rockets,79 - 107,1,0,2,Layup
+85,Gary Clark,FG_MISS,None,4:03,4,Rockets,Jazz,79 - 107,0,23,3,Jumper
+86,Team,OFFENSIVE_REBOUND,None,4:03,4,Rockets,Jazz,79 - 107,0,N/A,N/A,N/A
+87,Grayson Allen,FOUL_ON_FLOOR,None,4:03,4,Jazz,Rockets,79 - 107,1,N/A,N/A,N/A
+88,Danuel House,FT,None,4:03,4,Rockets,Jazz,80 - 107,0,N/A,1,N/A
+89,Danuel House,FT,None,4:03,4,Rockets,Jazz,81 - 107,0,N/A,1,N/A
+90,Ekpe Udoh,FOUL_ON_FLOOR,None,3:46,4,Jazz,Rockets,81 - 107,1,N/A,N/A,N/A
+91,Ekpe Udoh,TURNOVER,None,3:46,4,Jazz,Rockets,81 - 107,1,N/A,N/A,N/A
+92,Danuel House,FG_UNASSISTED,None,3:33,4,Rockets,Jazz,83 - 107,0,0,2,Layup
+93,Raul Neto,FG_UNASSISTED,None,3:10,4,Jazz,Rockets,83 - 109,1,8,2,Jumper
+94,Michael Carter-Williams,FG_UNASSISTED,None,2:59,4,Rockets,Jazz,86 - 109,0,24,3,Jumper
+95,Grayson Allen,FG_MISS,None,2:47,4,Jazz,Rockets,86 - 109,1,25,3,Jumper
+96,Team,OFFENSIVE_REBOUND,None,2:47,4,Jazz,Rockets,86 - 109,1,N/A,N/A,N/A
+97,Team,Unknown,None,2:47,4,Rockets,Jazz,86 - 109,0,N/A,N/A,N/A
+98,Nene Hilario,SUBSTITUTION,III Ennis,2:47,4,Rockets,Jazz,86 - 109,0,N/A,N/A,N/A
+99,Danuel House,JUMP_BALL,None,2:42,4,Jazz,Rockets,86 - 109,1,N/A,N/A,N/A
+100,Dante Exum,FG_ASSISTED,Raul Neto,2:40,4,Jazz,Rockets,86 - 111,1,0,2,Layup
+101,Michael Carter-Williams,FG_ASSISTED,Nene Hilario,2:26,4,Rockets,Jazz,89 - 111,0,26,2,Jumper
+102,Gerald Green,FOUL_ON_FLOOR,None,2:15,4,Rockets,Jazz,89 - 111,0,N/A,N/A,N/A
+103,Ekpe Udoh,FT_MISS,None,2:15,4,Jazz,Rockets,89 - 111,1,N/A,1,N/A
+104,Team,OFFENSIVE_REBOUND,None,2:15,4,Jazz,Rockets,89 - 111,1,N/A,N/A,N/A
+105,Ekpe Udoh,FT,None,2:15,4,Jazz,Rockets,89 - 112,1,N/A,1,N/A
+106,Gerald Green,TURNOVER,Ekpe Udoh,2:01,4,Rockets,Jazz,89 - 112,0,N/A,N/A,N/A
+107,Gerald Green,FOUL_ON_FLOOR,None,2:01,4,Rockets,Jazz,89 - 112,0,N/A,N/A,N/A
+108,Raul Neto,FT_MISS,None,2:01,4,Jazz,Rockets,89 - 112,1,N/A,1,N/A
+109,Team,OFFENSIVE_REBOUND,None,2:01,4,Jazz,Rockets,89 - 112,1,N/A,N/A,N/A
+110,Raul Neto,FT,None,2:01,4,Jazz,Rockets,89 - 113,1,N/A,1,N/A
+111,Michael Carter-Williams,FG_UNASSISTED,None,1:50,4,Rockets,Jazz,91 - 113,0,5,2,Jumper
+112,Dante Exum,TURNOVER,None,1:42,4,Jazz,Rockets,91 - 113,1,N/A,N/A,N/A
+113,Dante Exum,TURNOVER,None,1:42,4,Jazz,Rockets,91 - 113,1,N/A,N/A,N/A
+114,Gerald Green,FG_MISS,None,1:33,4,Rockets,Jazz,91 - 113,0,1,3,Jumper
+115,Grayson Allen,DEFENSIVE_REBOUND,None,1:29,4,Jazz,Rockets,91 - 113,1,N/A,N/A,N/A
+116,Ekpe Udoh,FG_ASSISTED,Royce O'Neale,1:20,4,Jazz,Rockets,91 - 115,1,1,2,Jumper
+117,Nene Hilario,FG_MISS,None,1:12,4,Rockets,Jazz,91 - 115,0,22,2,Jumper
+118,Royce O'Neale,DEFENSIVE_REBOUND,None,1:09,4,Jazz,Rockets,91 - 115,1,N/A,N/A,N/A
+119,Raul Neto,FG_UNASSISTED,None,52.3,4,Jazz,Rockets,91 - 117,1,10,2,Jumper
+120,Gary Clark,FG_MISS,None,39.5,4,Rockets,Jazz,91 - 117,0,25,3,Jumper
+121,Ekpe Udoh,DEFENSIVE_REBOUND,None,33.6,4,Jazz,Rockets,91 - 117,1,N/A,N/A,N/A
+122,Michael Carter-Williams,FOUL_ON_FLOOR,None,29.2,4,Rockets,Jazz,91 - 117,0,N/A,N/A,N/A
+123,Dante Exum,FT_MISS,None,29.2,4,Jazz,Rockets,91 - 117,1,N/A,1,N/A
+124,Team,OFFENSIVE_REBOUND,None,29.2,4,Jazz,Rockets,91 - 117,1,N/A,N/A,N/A
+125,Dante Exum,FT,None,29.2,4,Jazz,Rockets,91 - 118,1,N/A,1,N/A
+126,Gerald Green,TURNOVER,Raul Neto,12.9,4,Rockets,Jazz,91 - 118,0,N/A,N/A,N/A
+127,End of,Unknown,None,0.0,4,Jazz,Rockets,91 - 118,1,N/A,N/A,N/A
+128,End of,Unknown,None,0.0,4,Jazz,Rockets,91 - 118,1,N/A,N/A,N/A

@@ -1,0 +1,450 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Bam Adebayo,JUMP_BALL,None,12:00,1,Timberwolves,Heat,0 - 0,1,N/A,N/A,N/A
+1,Tyus Jones,FG_MISS,None,11:40,1,Timberwolves,Heat,0 - 0,1,17,3,Jumper
+2,Kelly Olynyk,DEFENSIVE_REBOUND,None,11:37,1,Heat,Timberwolves,0 - 0,0,N/A,N/A,N/A
+3,Justise Winslow,TURNOVER,Tyus Jones,11:31,1,Heat,Timberwolves,0 - 0,0,N/A,N/A,N/A
+4,Tyus Jones,FG_UNASSISTED,None,11:27,1,Timberwolves,Heat,0 - 2,1,-,3,Jumper
+5,Justise Winslow,FG_MISS,None,11:07,1,Heat,Timberwolves,0 - 2,0,23,3,Jumper
+6,Tyus Jones,DEFENSIVE_REBOUND,None,11:05,1,Timberwolves,Heat,0 - 2,1,N/A,N/A,N/A
+7,Andrew Wiggins,FG_MISS,None,10:55,1,Timberwolves,Heat,0 - 2,1,26,3,Jumper
+8,Kelly Olynyk,DEFENSIVE_REBOUND,None,10:53,1,Heat,Timberwolves,0 - 2,0,N/A,N/A,N/A
+9,Dion Waiters,FG_ASSISTED,Justise Winslow,10:47,1,Heat,Timberwolves,3 - 2,0,26,3,Jumper
+10,Andrew Wiggins,FG_ASSISTED,Dario Saric,10:27,1,Timberwolves,Heat,3 - 5,1,23,3,Jumper
+11,Dion Waiters,FG_ASSISTED,Justise Winslow,10:08,1,Heat,Timberwolves,6 - 5,0,26,3,Jumper
+12,Andrew Wiggins,FG_ASSISTED,Karl-Anthony Towns,9:56,1,Timberwolves,Heat,6 - 7,1,0,2,Layup
+13,Dion Waiters,FOUL_ON_FLOOR,None,9:56,1,Heat,Timberwolves,6 - 7,0,N/A,N/A,N/A
+14,Andrew Wiggins,FT,None,9:56,1,Timberwolves,Heat,6 - 8,1,N/A,1,N/A
+15,Bam Adebayo,FG_ASSISTED,Goran Dragic,9:49,1,Heat,Timberwolves,8 - 8,0,0,2,Dunk
+16,Dion Waiters,FOUL_ON_FLOOR,None,9:44,1,Heat,Timberwolves,8 - 8,0,N/A,N/A,N/A
+17,Josh Okogie,FT,None,9:44,1,Timberwolves,Heat,8 - 9,1,N/A,1,N/A
+18,Josh Okogie,FT,None,9:44,1,Timberwolves,Heat,8 - 10,1,N/A,1,N/A
+19,Goran Dragic,FG_UNASSISTED,None,9:36,1,Heat,Timberwolves,10 - 10,0, ,3,Jumper
+20,Karl-Anthony Towns,TURNOVER,Justise Winslow,9:18,1,Timberwolves,Heat,10 - 10,1,N/A,N/A,N/A
+21,Justise Winslow,FG_MISS,None,9:14,1,Heat,Timberwolves,10 - 10,0,10,3,Jumper
+22,Dario Saric,DEFENSIVE_REBOUND,None,9:14,1,Timberwolves,Heat,10 - 10,1,N/A,N/A,N/A
+23,Josh Okogie,FG_MISS,None,9:07,1,Timberwolves,Heat,10 - 10,1,0,2,Layup
+24,Karl-Anthony Towns,OFFENSIVE_REBOUND,None,9:07,1,Timberwolves,Heat,10 - 10,1,N/A,N/A,N/A
+25,Tyus Jones,FG_MISS,None,9:02,1,Timberwolves,Heat,10 - 10,1,26,3,Jumper
+26,Dario Saric,OFFENSIVE_REBOUND,None,9:02,1,Timberwolves,Heat,10 - 10,1,N/A,N/A,N/A
+27,Karl-Anthony Towns,FG_ASSISTED,Dario Saric,8:57,1,Timberwolves,Heat,10 - 12,1,0,2,Dunk
+28,Goran Dragic,FG_UNASSISTED,None,8:44,1,Heat,Timberwolves,12 - 12,0,13,3,Jumper
+29,Karl-Anthony Towns,TURNOVER,Bam Adebayo,8:32,1,Timberwolves,Heat,12 - 12,1,N/A,N/A,N/A
+30,Kelly Olynyk,TURNOVER,None,8:28,1,Heat,Timberwolves,12 - 12,0,N/A,N/A,N/A
+31,Dario Saric,FG_ASSISTED,Tyus Jones,8:13,1,Timberwolves,Heat,12 - 15,1,26,3,Jumper
+32,Dion Waiters,FG_MISS,None,7:57,1,Heat,Timberwolves,12 - 15,0,26,3,Jumper
+33,Goran Dragic,OFFENSIVE_REBOUND,None,7:54,1,Heat,Timberwolves,12 - 15,0,N/A,N/A,N/A
+34,Bam Adebayo,FG_ASSISTED,Goran Dragic,7:42,1,Heat,Timberwolves,14 - 15,0,0,2,Dunk
+35,Karl-Anthony Towns,FG_MISS,None,7:25,1,Timberwolves,Heat,14 - 15,1,14,3,Jumper
+36,Justise Winslow,DEFENSIVE_REBOUND,None,7:22,1,Heat,Timberwolves,14 - 15,0,N/A,N/A,N/A
+37,Bam Adebayo,FG_ASSISTED,Justise Winslow,7:18,1,Heat,Timberwolves,16 - 15,0,0,2,Layup
+38,Karl-Anthony Towns,FOUL_ON_FLOOR,None,7:11,1,Timberwolves,Heat,16 - 15,1,N/A,N/A,N/A
+39,Karl-Anthony Towns,TURNOVER,None,7:11,1,Timberwolves,Heat,16 - 15,1,N/A,N/A,N/A
+40,Justise Winslow,FG_MISS,None,6:54,1,Heat,Timberwolves,16 - 15,0,25,3,Jumper
+41,Karl-Anthony Towns,DEFENSIVE_REBOUND,None,6:52,1,Timberwolves,Heat,16 - 15,1,N/A,N/A,N/A
+42,Kelly Olynyk,FOUL_ON_FLOOR,None,6:43,1,Heat,Timberwolves,16 - 15,0,N/A,N/A,N/A
+43,Team,Unknown,None,6:43,1,Timberwolves,Heat,16 - 15,1,N/A,N/A,N/A
+44,Dario Saric,FT,None,6:43,1,Timberwolves,Heat,16 - 16,1,N/A,1,N/A
+45,Dario Saric,FT,None,6:43,1,Timberwolves,Heat,16 - 17,1,N/A,1,N/A
+46,Bam Adebayo,FG_MISS,None,6:30,1,Heat,Timberwolves,16 - 17,0,0,2,Layup
+47,Karl-Anthony Towns,DEFENSIVE_REBOUND,None,6:28,1,Timberwolves,Heat,16 - 17,1,N/A,N/A,N/A
+48,Karl-Anthony Towns,TURNOVER,None,6:25,1,Timberwolves,Heat,16 - 17,1,N/A,N/A,N/A
+49,Karl-Anthony Towns,TURNOVER,None,6:25,1,Timberwolves,Heat,16 - 17,1,N/A,N/A,N/A
+50,Gorgui Dieng,SUBSTITUTION,Towns Karl-Anthony,6:25,1,Timberwolves,Heat,16 - 17,1,N/A,N/A,N/A
+51,Justise Winslow,FG_ASSISTED,Goran Dragic,6:15,1,Heat,Timberwolves,18 - 17,0,0,2,Layup
+52,Dario Saric's,FG_MISS,Kelly Olynyk,5:55,1,Heat,Timberwolves,18 - 17,1,0,2,Layup
+53,Bam Adebayo,DEFENSIVE_REBOUND,None,5:51,1,Heat,Timberwolves,18 - 17,0,N/A,N/A,N/A
+54,Justise Winslow,TURNOVER,Josh Okogie,5:48,1,Heat,Timberwolves,18 - 17,0,N/A,N/A,N/A
+55,Dario Saric,FG_ASSISTED,Josh Okogie,5:44,1,Timberwolves,Heat,18 - 19,1,0,2,Layup
+56,Justise Winslow,FOUL_ON_FLOOR,None,5:44,1,Heat,Timberwolves,18 - 19,0,N/A,N/A,N/A
+57,Dwyane Wade,SUBSTITUTION,Waiters Dion,5:44,1,Heat,Timberwolves,18 - 19,0,N/A,N/A,N/A
+58,Dario Saric,FT,None,5:44,1,Timberwolves,Heat,18 - 20,1,N/A,1,N/A
+59,Goran Dragic,TURNOVER,Josh Okogie,5:31,1,Heat,Timberwolves,18 - 20,0,N/A,N/A,N/A
+60,Gorgui Dieng,FG_ASSISTED,Dario Saric,5:26,1,Timberwolves,Heat,18 - 22,1,0,2,Dunk
+61,Team,Unknown,None,5:24,1,Heat,Timberwolves,18 - 22,0,N/A,N/A,N/A
+62,Justise Winslow,FG_MISS,Gorgui Dieng,5:08,1,Timberwolves,Heat,18 - 22,0,7,3,Jumper
+63,Goran Dragic,OFFENSIVE_REBOUND,None,5:06,1,Heat,Timberwolves,18 - 22,0,N/A,N/A,N/A
+64,Andrew Wiggins,FOUL_ON_FLOOR,None,5:06,1,Timberwolves,Heat,18 - 22,1,N/A,N/A,N/A
+65,Dwyane Wade,FT,None,5:06,1,Heat,Timberwolves,19 - 22,0,N/A,1,N/A
+66,Dwyane Wade,FT,None,5:06,1,Heat,Timberwolves,20 - 22,0,N/A,1,N/A
+67,Gorgui Dieng,FG_UNASSISTED,None,4:42,1,Timberwolves,Heat,20 - 24,1,18,3,Jumper
+68,Goran Dragic,TURNOVER,Josh Okogie,4:24,1,Heat,Timberwolves,20 - 24,0,N/A,N/A,N/A
+69,Dario Saric,FG_MISS,None,4:13,1,Timberwolves,Heat,20 - 24,1,23,3,Jumper
+70,Kelly Olynyk,DEFENSIVE_REBOUND,None,4:10,1,Heat,Timberwolves,20 - 24,0,N/A,N/A,N/A
+71,Justise Winslow,FG_ASSISTED,Kelly Olynyk,3:58,1,Heat,Timberwolves,23 - 24,0,25,3,Jumper
+72,Gorgui Dieng,FG_MISS,None,3:39,1,Timberwolves,Heat,23 - 24,1,13,3,Jumper
+73,Kelly Olynyk,DEFENSIVE_REBOUND,None,3:37,1,Heat,Timberwolves,23 - 24,0,N/A,N/A,N/A
+74,Gorgui Dieng,FOUL_ON_FLOOR,None,3:30,1,Timberwolves,Heat,23 - 24,1,N/A,N/A,N/A
+75,Keita Bates-Diop,SUBSTITUTION,Okogie Josh,3:30,1,Timberwolves,Heat,23 - 24,1,N/A,N/A,N/A
+76,Anthony Tolliver,SUBSTITUTION,Saric Dario,3:30,1,Timberwolves,Heat,23 - 24,1,N/A,N/A,N/A
+77,James Johnson,SUBSTITUTION,Dragic Goran,3:30,1,Heat,Timberwolves,23 - 24,0,N/A,N/A,N/A
+78,Rodney McGruder,SUBSTITUTION,Olynyk Kelly,3:30,1,Heat,Timberwolves,23 - 24,0,N/A,N/A,N/A
+79,Hassan Whiteside,SUBSTITUTION,Adebayo Bam,3:30,1,Heat,Timberwolves,23 - 24,0,N/A,N/A,N/A
+80,Rodney McGruder,FG_ASSISTED,James Johnson,3:17,1,Heat,Timberwolves,25 - 24,0,0,2,Dunk
+81,Tyus Jones,FG_UNASSISTED,None,3:04,1,Timberwolves,Heat,25 - 26,1,9,3,Jumper
+82,Dwyane Wade,FG_UNASSISTED,None,2:51,1,Heat,Timberwolves,27 - 26,0, ,3,Jumper
+83,Gorgui Dieng,FG_MISS,Hassan Whiteside,2:35,1,Heat,Timberwolves,27 - 26,1,1,3,Jumper
+84,Dwyane Wade,DEFENSIVE_REBOUND,None,2:33,1,Heat,Timberwolves,27 - 26,0,N/A,N/A,N/A
+85,Rodney McGruder,FG_MISS,None,2:29,1,Heat,Timberwolves,27 - 26,0,24,3,Jumper
+86,Gorgui Dieng,DEFENSIVE_REBOUND,None,2:26,1,Timberwolves,Heat,27 - 26,1,N/A,N/A,N/A
+87,Andrew Wiggins,FG_MISS,None,2:24,1,Timberwolves,Heat,27 - 26,1,0,2,Layup
+88,Anthony Tolliver,OFFENSIVE_REBOUND,None,2:24,1,Timberwolves,Heat,27 - 26,1,N/A,N/A,N/A
+89,Anthony Tolliver,FG_UNASSISTED,None,2:21,1,Timberwolves,Heat,27 - 28,1, ,3,Jumper
+90,Keita Bates-Diop,FOUL_ON_FLOOR,None,2:12,1,Timberwolves,Heat,27 - 28,1,N/A,N/A,N/A
+91,Jerryd Bayless,SUBSTITUTION,Jones Tyus,2:12,1,Timberwolves,Heat,27 - 28,1,N/A,N/A,N/A
+92,Hassan Whiteside,FG_ASSISTED,Rodney McGruder,2:06,1,Heat,Timberwolves,29 - 28,0,0,2,Dunk
+93,James Johnson,FOUL_ON_FLOOR,None,1:52,1,Heat,Timberwolves,29 - 28,0,N/A,N/A,N/A
+94,Gorgui Dieng,FT,None,1:52,1,Timberwolves,Heat,29 - 29,1,N/A,1,N/A
+95,Gorgui Dieng,FT,None,1:52,1,Timberwolves,Heat,29 - 30,1,N/A,1,N/A
+96,Rodney McGruder,FG_MISS,None,1:39,1,Heat,Timberwolves,29 - 30,0,23,3,Jumper
+97,Jerryd Bayless,DEFENSIVE_REBOUND,None,1:36,1,Timberwolves,Heat,29 - 30,1,N/A,N/A,N/A
+98,Gorgui Dieng,FG_ASSISTED,Jerryd Bayless,1:27,1,Timberwolves,Heat,29 - 32,1,13,3,Jumper
+99,Dwyane Wade,FG_UNASSISTED,None,1:10,1,Heat,Timberwolves,31 - 32,0, ,3,Jumper
+100,Gorgui Dieng,FG_UNASSISTED,None,1:00,1,Timberwolves,Heat,31 - 34,1,19,3,Jumper
+101,Dwyane Wade,TURNOVER,Gorgui Dieng,49.2,1,Heat,Timberwolves,31 - 34,0,N/A,N/A,N/A
+102,Keita Bates-Diop,FG_MISS,None,42.5,1,Timberwolves,Heat,31 - 34,1,27,3,Jumper
+103,Justise Winslow,DEFENSIVE_REBOUND,None,38.6,1,Heat,Timberwolves,31 - 34,0,N/A,N/A,N/A
+104,James Johnson,FG_ASSISTED,Justise Winslow,31.0,1,Heat,Timberwolves,33 - 34,0,0,2,Dunk
+105,Keita Bates-Diop,FG_ASSISTED,Jerryd Bayless,24.7,1,Timberwolves,Heat,33 - 36,1,0,2,Layup
+106,Dwyane Wade,FG_UNASSISTED,None,4.2,1,Heat,Timberwolves,35 - 36,0,18,3,Jumper
+107,Andrew Wiggins,FG_MISS,None,0.0,1,Timberwolves,Heat,35 - 36,1,32,3,Jumper
+108,Team,OFFENSIVE_REBOUND,None,0.0,1,Timberwolves,Heat,35 - 36,1,N/A,N/A,N/A
+109,End of,Unknown,None,0.0,1,Timberwolves,Heat,35 - 36,1,N/A,N/A,N/A
+0,Cameron Reynolds,SUBSTITUTION,Wiggins Andrew,12:00,2,Timberwolves,Heat,35 - 36,1,N/A,N/A,N/A
+1,Goran Dragic,SUBSTITUTION,Winslow Justise,12:00,2,Heat,Timberwolves,35 - 36,0,N/A,N/A,N/A
+2,Hassan Whiteside,FOUL_ON_FLOOR,None,11:51,2,Heat,Timberwolves,35 - 36,0,N/A,N/A,N/A
+3,Hassan Whiteside,TURNOVER,None,11:51,2,Heat,Timberwolves,35 - 36,0,N/A,N/A,N/A
+4,Jerryd Bayless,FG_MISS,None,11:36,2,Timberwolves,Heat,35 - 36,1,21,3,Jumper
+5,Team,DEFENSIVE_REBOUND,None,11:33,2,Heat,Timberwolves,35 - 36,0,N/A,N/A,N/A
+6,Dwyane Wade,FG_UNASSISTED,None,11:23,2,Heat,Timberwolves,37 - 36,0,0,2,Layup
+7,Gorgui Dieng,FG_MISS,None,11:10,2,Timberwolves,Heat,37 - 36,1,23,3,Jumper
+8,Goran Dragic,DEFENSIVE_REBOUND,None,11:08,2,Heat,Timberwolves,37 - 36,0,N/A,N/A,N/A
+9,Dwyane Wade,FG_UNASSISTED,None,11:00,2,Heat,Timberwolves,39 - 36,0,0,2,Layup
+10,Jerryd Bayless,FG_MISS,None,10:52,2,Timberwolves,Heat,39 - 36,1,13,3,Jumper
+11,Hassan Whiteside,DEFENSIVE_REBOUND,None,10:50,2,Heat,Timberwolves,39 - 36,0,N/A,N/A,N/A
+12,Hassan Whiteside,TURNOVER,None,10:48,2,Heat,Timberwolves,39 - 36,0,N/A,N/A,N/A
+13,Team,Unknown,None,10:48,2,Heat,Timberwolves,39 - 36,0,N/A,N/A,N/A
+14,Gorgui Dieng,FG_ASSISTED,Jerryd Bayless,10:40,2,Timberwolves,Heat,39 - 38,1,16,3,Jumper
+15,James Johnson,FG_ASSISTED,Goran Dragic,10:29,2,Heat,Timberwolves,42 - 38,0,27,3,Jumper
+16,Rodney McGruder,FOUL_ON_FLOOR,None,10:16,2,Heat,Timberwolves,42 - 38,0,N/A,N/A,N/A
+17,Gorgui Dieng,FT,None,10:16,2,Timberwolves,Heat,42 - 39,1,N/A,1,N/A
+18,Gorgui Dieng,FT_MISS,None,10:16,2,Timberwolves,Heat,42 - 39,1,N/A,1,N/A
+19,Hassan Whiteside,DEFENSIVE_REBOUND,None,10:14,2,Heat,Timberwolves,42 - 39,0,N/A,N/A,N/A
+20,James Johnson,TURNOVER,None,10:09,2,Heat,Timberwolves,42 - 39,0,N/A,N/A,N/A
+21,James Johnson,TURNOVER,None,10:09,2,Heat,Timberwolves,42 - 39,0,N/A,N/A,N/A
+22,Anthony Tolliver,FG_MISS,None,9:59,2,Timberwolves,Heat,42 - 39,1,29,3,Jumper
+23,Keita Bates-Diop,OFFENSIVE_REBOUND,None,9:56,2,Timberwolves,Heat,42 - 39,1,N/A,N/A,N/A
+24,Keita Bates-Diop,FG_MISS,Rodney McGruder,9:54,2,Heat,Timberwolves,42 - 39,1,0,2,Layup
+25,Rodney McGruder,DEFENSIVE_REBOUND,None,9:54,2,Heat,Timberwolves,42 - 39,0,N/A,N/A,N/A
+26,Goran Dragic,FG_ASSISTED,Rodney McGruder,9:51,2,Heat,Timberwolves,44 - 39,0,0,2,Layup
+27,Jerryd Bayless,FOUL_ON_FLOOR,None,9:51,2,Timberwolves,Heat,44 - 39,1,N/A,N/A,N/A
+28,Goran Dragic,FT,None,9:51,2,Heat,Timberwolves,45 - 39,0,N/A,1,N/A
+29,Jerryd Bayless,TURNOVER,Goran Dragic,9:27,2,Timberwolves,Heat,45 - 39,1,N/A,N/A,N/A
+30,James Johnson,FG_MISS,None,9:22,2,Heat,Timberwolves,45 - 39,0,22,3,Jumper
+31,Anthony Tolliver,DEFENSIVE_REBOUND,None,9:20,2,Timberwolves,Heat,45 - 39,1,N/A,N/A,N/A
+32,Dwyane Wade,FOUL_ON_FLOOR,None,9:15,2,Heat,Timberwolves,45 - 39,0,N/A,N/A,N/A
+33,Anthony Tolliver,FT,None,9:15,2,Timberwolves,Heat,45 - 40,1,N/A,1,N/A
+34,Anthony Tolliver,FT,None,9:15,2,Timberwolves,Heat,45 - 41,1,N/A,1,N/A
+35,Anthony Tolliver,FT_MISS,None,9:15,2,Timberwolves,Heat,45 - 41,1,N/A,1,N/A
+36,Hassan Whiteside,DEFENSIVE_REBOUND,None,9:13,2,Heat,Timberwolves,45 - 41,0,N/A,N/A,N/A
+37,Goran Dragic,FG_ASSISTED,Dwyane Wade,8:59,2,Heat,Timberwolves,48 - 41,0,26,3,Jumper
+38,Team,Unknown,None,8:57,2,Timberwolves,Heat,48 - 41,1,N/A,N/A,N/A
+39,Gorgui Dieng,FG_ASSISTED,Anthony Tolliver,8:36,2,Timberwolves,Heat,48 - 43,1,19,3,Jumper
+40,Jerryd Bayless,FOUL_ON_FLOOR,None,8:17,2,Timberwolves,Heat,48 - 43,1,N/A,N/A,N/A
+41,Dwyane Wade,FT,None,8:17,2,Heat,Timberwolves,49 - 43,0,N/A,1,N/A
+42,Dwyane Wade,FT,None,8:17,2,Heat,Timberwolves,50 - 43,0,N/A,1,N/A
+43,Cameron Reynolds,FG_ASSISTED,Jerryd Bayless,8:03,2,Timberwolves,Heat,50 - 46,1,26,3,Jumper
+44,Hassan Whiteside,FG_ASSISTED,James Johnson,7:41,2,Heat,Timberwolves,52 - 46,0,0,2,Dunk
+45,Gorgui Dieng,FG_MISS,None,7:27,2,Timberwolves,Heat,52 - 46,1,13,3,Jumper
+46,Hassan Whiteside,DEFENSIVE_REBOUND,None,7:27,2,Heat,Timberwolves,52 - 46,0,N/A,N/A,N/A
+47,Hassan Whiteside,FG_MISS,Gorgui Dieng,7:19,2,Timberwolves,Heat,52 - 46,0,0,2,Layup
+48,Rodney McGruder,OFFENSIVE_REBOUND,None,7:16,2,Heat,Timberwolves,52 - 46,0,N/A,N/A,N/A
+49,Dwyane Wade,FG_ASSISTED,James Johnson,7:12,2,Heat,Timberwolves,55 - 46,0,26,3,Jumper
+50,Jerryd Bayless,FG_UNASSISTED,None,7:00,2,Timberwolves,Heat,55 - 48,1,13,3,Jumper
+51,Goran Dragic,FG_MISS,None,6:47,2,Heat,Timberwolves,55 - 48,0,24,3,Jumper
+52,Anthony Tolliver,DEFENSIVE_REBOUND,None,6:44,2,Timberwolves,Heat,55 - 48,1,N/A,N/A,N/A
+53,Gorgui Dieng,FG_MISS,None,6:23,2,Timberwolves,Heat,55 - 48,1,0,2,Layup
+54,Rodney McGruder,DEFENSIVE_REBOUND,None,6:20,2,Heat,Timberwolves,55 - 48,0,N/A,N/A,N/A
+55,Dwyane Wade,FG_MISS,None,6:11,2,Heat,Timberwolves,55 - 48,0,26,3,Jumper
+56,Rodney McGruder,OFFENSIVE_REBOUND,None,6:07,2,Heat,Timberwolves,55 - 48,0,N/A,N/A,N/A
+57,Rodney McGruder,FG_UNASSISTED,None,6:06,2,Heat,Timberwolves,57 - 48,0,0,2,Layup
+58,Jerryd Bayless,FG_MISS,None,5:56,2,Timberwolves,Heat,57 - 48,1,0,2,Layup
+59,Goran Dragic,DEFENSIVE_REBOUND,None,5:55,2,Heat,Timberwolves,57 - 48,0,N/A,N/A,N/A
+60,Gorgui Dieng,FOUL_ON_FLOOR,None,5:54,2,Timberwolves,Heat,57 - 48,1,N/A,N/A,N/A
+61,Tyus Jones,SUBSTITUTION,Dieng Gorgui,5:54,2,Timberwolves,Heat,57 - 48,1,N/A,N/A,N/A
+62,Andrew Wiggins,SUBSTITUTION,Bayless Jerryd,5:54,2,Timberwolves,Heat,57 - 48,1,N/A,N/A,N/A
+63,Karl-Anthony Towns,SUBSTITUTION,Bates-Diop Keita,5:54,2,Timberwolves,Heat,57 - 48,1,N/A,N/A,N/A
+64,Dario Saric,SUBSTITUTION,Tolliver Anthony,5:54,2,Timberwolves,Heat,57 - 48,1,N/A,N/A,N/A
+65,Dion Waiters,SUBSTITUTION,Wade Dwyane,5:54,2,Heat,Timberwolves,57 - 48,0,N/A,N/A,N/A
+66,Bam Adebayo,SUBSTITUTION,McGruder Rodney,5:54,2,Heat,Timberwolves,57 - 48,0,N/A,N/A,N/A
+67,Justise Winslow,SUBSTITUTION,Whiteside Hassan,5:54,2,Heat,Timberwolves,57 - 48,0,N/A,N/A,N/A
+68,Justise Winslow,FG_MISS,None,5:43,2,Heat,Timberwolves,57 - 48,0,24,3,Jumper
+69,Andrew Wiggins,DEFENSIVE_REBOUND,None,5:41,2,Timberwolves,Heat,57 - 48,1,N/A,N/A,N/A
+70,Andrew Wiggins,TURNOVER,Goran Dragic,5:31,2,Timberwolves,Heat,57 - 48,1,N/A,N/A,N/A
+71,Dion Waiters,FG_MISS,None,5:17,2,Heat,Timberwolves,57 - 48,0, ,3,Jumper
+72,Karl-Anthony Towns,DEFENSIVE_REBOUND,None,5:15,2,Timberwolves,Heat,57 - 48,1,N/A,N/A,N/A
+73,Andrew Wiggins,FG_ASSISTED,Karl-Anthony Towns,5:12,2,Timberwolves,Heat,57 - 50,1,2,3,Jumper
+74,Tyus Jones,FOUL_ON_FLOOR,None,5:00,2,Timberwolves,Heat,57 - 50,1,N/A,N/A,N/A
+75,Josh Okogie,SUBSTITUTION,Reynolds Cameron,5:00,2,Timberwolves,Heat,57 - 50,1,N/A,N/A,N/A
+76,Dion Waiters,FG_MISS,None,4:45,2,Heat,Timberwolves,57 - 50,0,0,2,Layup
+77,Dario Saric,DEFENSIVE_REBOUND,None,4:44,2,Timberwolves,Heat,57 - 50,1,N/A,N/A,N/A
+78,James Johnson,FOUL_ON_FLOOR,None,4:30,2,Heat,Timberwolves,57 - 50,0,N/A,N/A,N/A
+79,Karl-Anthony Towns,FG_MISS,None,4:19,2,Timberwolves,Heat,57 - 50,1,10,3,Jumper
+80,Bam Adebayo,DEFENSIVE_REBOUND,None,4:17,2,Heat,Timberwolves,57 - 50,0,N/A,N/A,N/A
+81,James Johnson,FG_MISS,None,3:59,2,Heat,Timberwolves,57 - 50,0,26,3,Jumper
+82,Andrew Wiggins,DEFENSIVE_REBOUND,None,3:55,2,Timberwolves,Heat,57 - 50,1,N/A,N/A,N/A
+83,Josh Okogie,FG_MISS,None,3:46,2,Timberwolves,Heat,57 - 50,1,11,3,Jumper
+84,James Johnson,DEFENSIVE_REBOUND,None,3:44,2,Heat,Timberwolves,57 - 50,0,N/A,N/A,N/A
+85,Josh Okogie,FOUL_ON_FLOOR,None,3:34,2,Timberwolves,Heat,57 - 50,1,N/A,N/A,N/A
+86,Dion Waiters,FT_MISS,None,3:34,2,Heat,Timberwolves,57 - 50,0,N/A,1,N/A
+87,Team,OFFENSIVE_REBOUND,None,3:34,2,Heat,Timberwolves,57 - 50,0,N/A,N/A,N/A
+88,Kelly Olynyk,SUBSTITUTION,Johnson James,3:34,2,Heat,Timberwolves,57 - 50,0,N/A,N/A,N/A
+89,Dion Waiters,FT_MISS,None,3:34,2,Heat,Timberwolves,57 - 50,0,N/A,1,N/A
+90,Tyus Jones,DEFENSIVE_REBOUND,None,3:31,2,Timberwolves,Heat,57 - 50,1,N/A,N/A,N/A
+91,Josh Okogie,FG_MISS,None,3:12,2,Timberwolves,Heat,57 - 50,1,25,3,Jumper
+92,Justise Winslow,DEFENSIVE_REBOUND,None,3:11,2,Heat,Timberwolves,57 - 50,0,N/A,N/A,N/A
+93,Justise Winslow,FG_UNASSISTED,None,3:04,2,Heat,Timberwolves,59 - 50,0,0,2,Layup
+94,Dario Saric,FG_ASSISTED,Tyus Jones,2:46,2,Timberwolves,Heat,59 - 52,1,19,3,Jumper
+95,Goran Dragic,FG_UNASSISTED,None,2:36,2,Heat,Timberwolves,61 - 52,0,0,2,Layup
+96,Josh Okogie,FG_UNASSISTED,None,2:20,2,Timberwolves,Heat,61 - 54,1,12,3,Jumper
+97,Justise Winslow,FG_UNASSISTED,None,2:05,2,Heat,Timberwolves,63 - 54,0, ,3,Jumper
+98,Karl-Anthony Towns,FG_ASSISTED,Tyus Jones,1:51,2,Timberwolves,Heat,63 - 57,1,26,3,Jumper
+99,Team,Unknown,None,1:49,2,Heat,Timberwolves,63 - 57,0,N/A,N/A,N/A
+100,Dwyane Wade,SUBSTITUTION,Waiters Dion,1:49,2,Heat,Timberwolves,63 - 57,0,N/A,N/A,N/A
+101,Josh Okogie,FOUL_ON_FLOOR,None,1:41,2,Timberwolves,Heat,63 - 57,1,N/A,N/A,N/A
+102,Dwyane Wade,FT,None,1:41,2,Heat,Timberwolves,64 - 57,0,N/A,1,N/A
+103,Dwyane Wade,FT,None,1:41,2,Heat,Timberwolves,65 - 57,0,N/A,1,N/A
+104,Karl-Anthony Towns,TURNOVER,Bam Adebayo,1:29,2,Timberwolves,Heat,65 - 57,1,N/A,N/A,N/A
+105,Justise Winslow,TURNOVER,Tyus Jones,1:24,2,Heat,Timberwolves,65 - 57,0,N/A,N/A,N/A
+106,Andrew Wiggins,FG_UNASSISTED,None,1:19,2,Timberwolves,Heat,65 - 59,1,0,2,Layup
+107,Dwyane Wade,FG_ASSISTED,Goran Dragic,1:13,2,Heat,Timberwolves,67 - 59,0,6,3,Jumper
+108,Josh Okogie,FG_ASSISTED,Andrew Wiggins,57.8,2,Timberwolves,Heat,67 - 61,1,0,2,Dunk
+109,Dwyane Wade,FG_MISS,None,41.1,2,Heat,Timberwolves,67 - 61,0,15,3,Jumper
+110,Tyus Jones,DEFENSIVE_REBOUND,None,38.3,2,Timberwolves,Heat,67 - 61,1,N/A,N/A,N/A
+111,Tyus Jones,FG_MISS,None,31.3,2,Timberwolves,Heat,67 - 61,1,25,3,Jumper
+112,Goran Dragic,DEFENSIVE_REBOUND,None,29.4,2,Heat,Timberwolves,67 - 61,0,N/A,N/A,N/A
+113,Goran Dragic,FG_UNASSISTED,None,10.5,2,Heat,Timberwolves,69 - 61,0,14,3,Jumper
+114,Goran Dragic,FOUL_ON_FLOOR,None,4.9,2,Heat,Timberwolves,69 - 61,0,N/A,N/A,N/A
+115,Rodney McGruder,SUBSTITUTION,Dragic Goran,4.9,2,Heat,Timberwolves,69 - 61,0,N/A,N/A,N/A
+116,Andrew Wiggins,FG_MISS,None,1.6,2,Timberwolves,Heat,69 - 61,1,33,3,Jumper
+117,Team,OFFENSIVE_REBOUND,None,1.6,2,Timberwolves,Heat,69 - 61,1,N/A,N/A,N/A
+118,End of,Unknown,None,0.0,2,Timberwolves,Heat,69 - 61,1,N/A,N/A,N/A
+0,Goran Dragic,SUBSTITUTION,Wade Dwyane,12:00,3,Heat,Timberwolves,69 - 61,0,N/A,N/A,N/A
+1,Dion Waiters,SUBSTITUTION,McGruder Rodney,12:00,3,Heat,Timberwolves,69 - 61,0,N/A,N/A,N/A
+2,Kelly Olynyk,TURNOVER,Josh Okogie,11:40,3,Heat,Timberwolves,69 - 61,0,N/A,N/A,N/A
+3,Tyus Jones,FG_MISS,None,11:19,3,Timberwolves,Heat,69 - 61,1,19,3,Jumper
+4,Team,OFFENSIVE_REBOUND,None,11:18,3,Timberwolves,Heat,69 - 61,1,N/A,N/A,N/A
+5,Bam Adebayo,FOUL_ON_FLOOR,None,11:18,3,Heat,Timberwolves,69 - 61,0,N/A,N/A,N/A
+6,Bam Adebayo,FOUL_ON_FLOOR,None,11:12,3,Heat,Timberwolves,69 - 61,0,N/A,N/A,N/A
+7,Karl-Anthony Towns,FG_UNASSISTED,None,11:07,3,Timberwolves,Heat,69 - 63,1,20,3,Jumper
+8,Goran Dragic,FG_MISS,None,10:54,3,Heat,Timberwolves,69 - 63,0, ,3,Jumper
+9,Goran Dragic,OFFENSIVE_REBOUND,None,10:52,3,Heat,Timberwolves,69 - 63,0,N/A,N/A,N/A
+10,Justise Winslow,FG_MISS,None,10:44,3,Heat,Timberwolves,69 - 63,0,7,3,Jumper
+11,Dario Saric,DEFENSIVE_REBOUND,None,10:41,3,Timberwolves,Heat,69 - 63,1,N/A,N/A,N/A
+12,Josh Okogie,FG_MISS,None,10:35,3,Timberwolves,Heat,69 - 63,1, ,3,Jumper
+13,Justise Winslow,DEFENSIVE_REBOUND,None,10:32,3,Heat,Timberwolves,69 - 63,0,N/A,N/A,N/A
+14,Dion Waiters,FG_ASSISTED,Goran Dragic,10:27,3,Heat,Timberwolves,72 - 63,0, ,3,Jumper
+15,Dario Saric,FG_UNASSISTED,None,10:18,3,Timberwolves,Heat,72 - 66,1,26,3,Jumper
+16,Goran Dragic,FG_MISS,None,10:05,3,Heat,Timberwolves,72 - 66,0,6,3,Jumper
+17,Karl-Anthony Towns,DEFENSIVE_REBOUND,None,10:03,3,Timberwolves,Heat,72 - 66,1,N/A,N/A,N/A
+18,Karl-Anthony Towns,TURNOVER,None,9:56,3,Timberwolves,Heat,72 - 66,1,N/A,N/A,N/A
+19,Kelly Olynyk,FG_MISS,None,9:41,3,Heat,Timberwolves,72 - 66,0,23,3,Jumper
+20,Karl-Anthony Towns,DEFENSIVE_REBOUND,None,9:38,3,Timberwolves,Heat,72 - 66,1,N/A,N/A,N/A
+21,Tyus Jones,FG_MISS,Kelly Olynyk,9:32,3,Heat,Timberwolves,72 - 66,1,0,2,Layup
+22,Team,DEFENSIVE_REBOUND,None,9:32,3,Heat,Timberwolves,72 - 66,0,N/A,N/A,N/A
+23,Justise Winslow,FG_MISS,None,9:19,3,Heat,Timberwolves,72 - 66,0, ,3,Jumper
+24,Karl-Anthony Towns,DEFENSIVE_REBOUND,None,9:16,3,Timberwolves,Heat,72 - 66,1,N/A,N/A,N/A
+25,Dario Saric,FG_ASSISTED,Josh Okogie,9:06,3,Timberwolves,Heat,72 - 68,1,8,3,Jumper
+26,Goran Dragic,FG_MISS,None,8:49,3,Heat,Timberwolves,72 - 68,0,18,3,Jumper
+27,Dario Saric,DEFENSIVE_REBOUND,None,8:46,3,Timberwolves,Heat,72 - 68,1,N/A,N/A,N/A
+28,Goran Dragic,FOUL_ON_FLOOR,None,8:42,3,Heat,Timberwolves,72 - 68,0,N/A,N/A,N/A
+29,Tyus Jones,FG_UNASSISTED,None,8:35,3,Timberwolves,Heat,72 - 70,1,0,2,Layup
+30,Dion Waiters,FG_ASSISTED,Goran Dragic,8:19,3,Heat,Timberwolves,75 - 70,0,24,3,Jumper
+31,Dario Saric,FG_ASSISTED,Karl-Anthony Towns,8:05,3,Timberwolves,Heat,75 - 72,1,2,3,Jumper
+32,violation 75,Unknown,None,7:59,3,Timberwolves,Heat,75 - 72,1,N/A,N/A,N/A
+33,Karl-Anthony Towns,Unknown,None,7:59,3,Timberwolves,Heat,75 - 72,1,N/A,N/A,N/A
+34,Karl-Anthony Towns,Unknown,None,7:49,3,Timberwolves,Heat,75 - 72,1,N/A,N/A,N/A
+35,Bam Adebayo,TURNOVER,Josh Okogie,7:42,3,Heat,Timberwolves,75 - 72,0,N/A,N/A,N/A
+36,Dario Saric,FG_MISS,None,7:24,3,Timberwolves,Heat,75 - 72,1, ,3,Jumper
+37,Justise Winslow,DEFENSIVE_REBOUND,None,7:22,3,Heat,Timberwolves,75 - 72,0,N/A,N/A,N/A
+38,Justise Winslow,FG_MISS,None,7:15,3,Heat,Timberwolves,75 - 72,0, ,3,Jumper
+39,Tyus Jones,DEFENSIVE_REBOUND,None,7:13,3,Timberwolves,Heat,75 - 72,1,N/A,N/A,N/A
+40,Andrew Wiggins,FG_ASSISTED,Tyus Jones,7:02,3,Timberwolves,Heat,75 - 75,1,27,3,Jumper
+41,Dion Waiters,FOUL_ON_FLOOR,None,6:49,3,Heat,Timberwolves,75 - 75,0,N/A,N/A,N/A
+42,Dion Waiters,TURNOVER,None,6:49,3,Heat,Timberwolves,75 - 75,0,N/A,N/A,N/A
+43,James Johnson,SUBSTITUTION,Olynyk Kelly,6:49,3,Heat,Timberwolves,75 - 75,0,N/A,N/A,N/A
+44,Team,Unknown,None,6:49,3,Timberwolves,Heat,75 - 75,1,N/A,N/A,N/A
+45,Karl-Anthony Towns,FG_ASSISTED,Dario Saric,6:33,3,Timberwolves,Heat,75 - 77,1,7,3,Jumper
+46,Dwyane Wade,SUBSTITUTION,Dragic Goran,6:15,3,Heat,Timberwolves,75 - 77,0,N/A,N/A,N/A
+47,Justise Winslow,TURNOVER,Andrew Wiggins,6:07,3,Heat,Timberwolves,75 - 77,0,N/A,N/A,N/A
+48,Tyus Jones,FG_UNASSISTED,None,5:54,3,Timberwolves,Heat,75 - 79,1,8,3,Jumper
+49,Dion Waiters,FG_ASSISTED,James Johnson,5:35,3,Heat,Timberwolves,78 - 79,0,26,3,Jumper
+50,Tyus Jones,FG_UNASSISTED,None,5:20,3,Timberwolves,Heat,78 - 81,1,0,2,Layup
+51,James Johnson,FG_UNASSISTED,None,5:01,3,Heat,Timberwolves,80 - 81,0,0,2,Layup
+52,Josh Okogie,FG_MISS,None,4:48,3,Timberwolves,Heat,80 - 81,1, ,3,Jumper
+53,Team,OFFENSIVE_REBOUND,None,4:46,3,Timberwolves,Heat,80 - 81,1,N/A,N/A,N/A
+54,Cameron Reynolds,SUBSTITUTION,Wiggins Andrew,4:46,3,Timberwolves,Heat,80 - 81,1,N/A,N/A,N/A
+55,Gorgui Dieng,SUBSTITUTION,Saric Dario,4:46,3,Timberwolves,Heat,80 - 81,1,N/A,N/A,N/A
+56,Karl-Anthony Towns,FG_MISS,None,4:38,3,Timberwolves,Heat,80 - 81,1,11,3,Jumper
+57,Justise Winslow,DEFENSIVE_REBOUND,None,4:37,3,Heat,Timberwolves,80 - 81,0,N/A,N/A,N/A
+58,Justise Winslow,FG_UNASSISTED,None,4:33,3,Heat,Timberwolves,82 - 81,0,0,2,Layup
+59,Gorgui Dieng,FG_MISS,None,4:13,3,Timberwolves,Heat,82 - 81,1,16,3,Jumper
+60,Dwyane Wade,DEFENSIVE_REBOUND,None,4:11,3,Heat,Timberwolves,82 - 81,0,N/A,N/A,N/A
+61,Gorgui Dieng,FOUL_TECHNICAL,None,4:11,3,Timberwolves,Heat,82 - 81,1,N/A,N/A,N/A
+62,Dwyane Wade,FT,None,4:11,3,Heat,Timberwolves,83 - 81,0,N/A,1,N/A
+63,Dion Waiters,FG_MISS,None,4:02,3,Heat,Timberwolves,83 - 81,0,26,3,Jumper
+64,Karl-Anthony Towns,DEFENSIVE_REBOUND,None,3:56,3,Timberwolves,Heat,83 - 81,1,N/A,N/A,N/A
+65,Tyus Jones,FG_UNASSISTED,None,3:43,3,Timberwolves,Heat,83 - 83,1,5,3,Jumper
+66,Justise Winslow,FG_UNASSISTED,None,3:27,3,Heat,Timberwolves,85 - 83,0,10,3,Jumper
+67,Justise Winslow,FOUL_ON_FLOOR,None,3:17,3,Heat,Timberwolves,85 - 83,0,N/A,N/A,N/A
+68,Keita Bates-Diop,SUBSTITUTION,Okogie Josh,3:17,3,Timberwolves,Heat,85 - 83,1,N/A,N/A,N/A
+69,Karl-Anthony Towns,TURNOVER,James Johnson,3:08,3,Timberwolves,Heat,85 - 83,1,N/A,N/A,N/A
+70,Dion Waiters,FG_ASSISTED,James Johnson,3:03,3,Heat,Timberwolves,87 - 83,0, ,3,Jumper
+71,Justise Winslow,FOUL_FLAGRANT_1,None,2:42,3,Heat,Timberwolves,87 - 83,0,N/A,N/A,N/A
+72,Team,Unknown,None,2:42,3,Heat,Timberwolves,87 - 83,0,N/A,N/A,N/A
+73,Jerryd Bayless,SUBSTITUTION,Jones Tyus,2:42,3,Timberwolves,Heat,87 - 83,1,N/A,N/A,N/A
+74,Karl-Anthony Towns,FT,None,2:42,3,Timberwolves,Heat,87 - 84,1,N/A,1,N/A
+75,Karl-Anthony Towns,FT,None,2:42,3,Timberwolves,Heat,87 - 85,1,N/A,1,N/A
+76,Karl-Anthony Towns,FG_MISS,None,2:30,3,Timberwolves,Heat,87 - 85,1,13,3,Jumper
+77,James Johnson,DEFENSIVE_REBOUND,None,2:26,3,Heat,Timberwolves,87 - 85,0,N/A,N/A,N/A
+78,Dion Waiters,FG_MISS,None,2:18,3,Heat,Timberwolves,87 - 85,0,25,3,Jumper
+79,Gorgui Dieng,DEFENSIVE_REBOUND,None,2:14,3,Timberwolves,Heat,87 - 85,1,N/A,N/A,N/A
+80,Karl-Anthony Towns,FOUL_ON_FLOOR,None,1:59,3,Timberwolves,Heat,87 - 85,1,N/A,N/A,N/A
+81,Karl-Anthony Towns,TURNOVER,None,1:59,3,Timberwolves,Heat,87 - 85,1,N/A,N/A,N/A
+82,Anthony Tolliver,SUBSTITUTION,Towns Karl-Anthony,1:59,3,Timberwolves,Heat,87 - 85,1,N/A,N/A,N/A
+83,Keita Bates-Diop,FOUL_ON_FLOOR,None,1:52,3,Timberwolves,Heat,87 - 85,1,N/A,N/A,N/A
+84,Andrew Wiggins,SUBSTITUTION,Reynolds Cameron,1:52,3,Timberwolves,Heat,87 - 85,1,N/A,N/A,N/A
+85,Dwyane Wade,FG_MISS,None,1:38,3,Heat,Timberwolves,87 - 85,0,28,3,Jumper
+86,Keita Bates-Diop,DEFENSIVE_REBOUND,None,1:35,3,Timberwolves,Heat,87 - 85,1,N/A,N/A,N/A
+87,Dwyane Wade,FOUL_ON_FLOOR,None,1:31,3,Heat,Timberwolves,87 - 85,0,N/A,N/A,N/A
+88,Andrew Wiggins,FT,None,1:31,3,Timberwolves,Heat,87 - 86,1,N/A,1,N/A
+89,Hassan Whiteside,SUBSTITUTION,Adebayo Bam,1:31,3,Heat,Timberwolves,87 - 86,0,N/A,N/A,N/A
+90,Andrew Wiggins,FT_MISS,None,1:31,3,Timberwolves,Heat,87 - 86,1,N/A,1,N/A
+91,Hassan Whiteside,DEFENSIVE_REBOUND,None,1:28,3,Heat,Timberwolves,87 - 86,0,N/A,N/A,N/A
+92,Dwyane Wade,TURNOVER,None,1:17,3,Heat,Timberwolves,87 - 86,0,N/A,N/A,N/A
+93,Andrew Wiggins,FG_ASSISTED,Gorgui Dieng,1:05,3,Timberwolves,Heat,87 - 88,1,0,2,Dunk
+94,Dwyane Wade,FG_MISS,None,50.7,3,Heat,Timberwolves,87 - 88,0,10,3,Jumper
+95,Hassan Whiteside,OFFENSIVE_REBOUND,None,48.8,3,Heat,Timberwolves,87 - 88,0,N/A,N/A,N/A
+96,Hassan Whiteside,FG_UNASSISTED,None,48.8,3,Heat,Timberwolves,89 - 88,0, ,3,Jumper
+97,Gorgui Dieng,FG_ASSISTED,Keita Bates-Diop,29.1,3,Timberwolves,Heat,89 - 90,1,14,3,Jumper
+98,Dion Waiters,FG_UNASSISTED,None,4.9,3,Heat,Timberwolves,91 - 90,0,0,2,Layup
+99,Karl-Anthony Towns,SUBSTITUTION,Dieng Gorgui,0.6,3,Timberwolves,Heat,91 - 90,1,N/A,N/A,N/A
+100,Bam Adebayo,SUBSTITUTION,Waiters Dion,0.6,3,Heat,Timberwolves,91 - 90,0,N/A,N/A,N/A
+101,End of,Unknown,None,0.0,3,Timberwolves,Heat,91 - 90,1,N/A,N/A,N/A
+0,Gorgui Dieng,SUBSTITUTION,Towns Karl-Anthony,12:00,4,Timberwolves,Heat,91 - 90,1,N/A,N/A,N/A
+1,Dion Waiters,SUBSTITUTION,Winslow Justise,12:00,4,Heat,Timberwolves,91 - 90,0,N/A,N/A,N/A
+2,Goran Dragic,SUBSTITUTION,Adebayo Bam,12:00,4,Heat,Timberwolves,91 - 90,0,N/A,N/A,N/A
+3,Andrew Wiggins,FG_UNASSISTED,None,11:43,4,Timberwolves,Heat,91 - 92,1,0,2,Layup
+4,Dwyane Wade,FG_MISS,None,11:23,4,Heat,Timberwolves,91 - 92,0,23,3,Jumper
+5,Anthony Tolliver,DEFENSIVE_REBOUND,None,11:21,4,Timberwolves,Heat,91 - 92,1,N/A,N/A,N/A
+6,Anthony Tolliver,FG_MISS,Hassan Whiteside,11:15,4,Heat,Timberwolves,91 - 92,1,0,2,Layup
+7,Dwyane Wade,DEFENSIVE_REBOUND,None,11:12,4,Heat,Timberwolves,91 - 92,0,N/A,N/A,N/A
+8,James Johnson,TURNOVER,None,10:57,4,Heat,Timberwolves,91 - 92,0,N/A,N/A,N/A
+9,Anthony Tolliver,FG_MISS,None,10:40,4,Timberwolves,Heat,91 - 92,1,13,3,Jumper
+10,Team,DEFENSIVE_REBOUND,None,10:38,4,Heat,Timberwolves,91 - 92,0,N/A,N/A,N/A
+11,Gorgui Dieng,FOUL_ON_FLOOR,None,10:38,4,Timberwolves,Heat,91 - 92,1,N/A,N/A,N/A
+12,James Johnson,FG_ASSISTED,Goran Dragic,10:28,4,Heat,Timberwolves,93 - 92,0,0,2,Layup
+13,Anthony Tolliver,FG_ASSISTED,Jerryd Bayless,10:14,4,Timberwolves,Heat,93 - 95,1,23,3,Jumper
+14,Jerryd Bayless,FOUL_ON_FLOOR,None,10:00,4,Timberwolves,Heat,93 - 95,1,N/A,N/A,N/A
+15,Goran Dragic,FT_MISS,None,10:00,4,Heat,Timberwolves,93 - 95,0,N/A,1,N/A
+16,Team,OFFENSIVE_REBOUND,None,10:00,4,Heat,Timberwolves,93 - 95,0,N/A,N/A,N/A
+17,Goran Dragic,FT,None,10:00,4,Heat,Timberwolves,94 - 95,0,N/A,1,N/A
+18,Andrew Wiggins,TURNOVER,Goran Dragic,9:40,4,Timberwolves,Heat,94 - 95,1,N/A,N/A,N/A
+19,Dion Waiters,FG_MISS,None,9:35,4,Heat,Timberwolves,94 - 95,0,23,3,Jumper
+20,Goran Dragic,OFFENSIVE_REBOUND,None,9:33,4,Heat,Timberwolves,94 - 95,0,N/A,N/A,N/A
+21,Dwyane Wade,FG_MISS,None,9:19,4,Heat,Timberwolves,94 - 95,0,19,3,Jumper
+22,Anthony Tolliver,DEFENSIVE_REBOUND,None,9:15,4,Timberwolves,Heat,94 - 95,1,N/A,N/A,N/A
+23,Jerryd Bayless,FG_ASSISTED,Anthony Tolliver,8:56,4,Timberwolves,Heat,94 - 98,1,25,3,Jumper
+24,Gorgui Dieng,Unknown,None,8:37,4,Timberwolves,Heat,94 - 98,1,N/A,N/A,N/A
+25,Cameron Reynolds,SUBSTITUTION,Wiggins Andrew,8:37,4,Timberwolves,Heat,94 - 98,1,N/A,N/A,N/A
+26,James Johnson,FG_ASSISTED,Dwyane Wade,8:31,4,Heat,Timberwolves,96 - 98,0,0,2,Dunk
+27,Keita Bates-Diop,FG_MISS,None,8:08,4,Timberwolves,Heat,96 - 98,1,0,2,Layup
+28,Gorgui Dieng,OFFENSIVE_REBOUND,None,8:03,4,Timberwolves,Heat,96 - 98,1,N/A,N/A,N/A
+29,Gorgui Dieng,FG_UNASSISTED,None,8:03,4,Timberwolves,Heat,96 - 100,1,1,3,Jumper
+30,Goran Dragic,FG_MISS,None,7:38,4,Heat,Timberwolves,96 - 100,0,24,3,Jumper
+31,Hassan Whiteside,OFFENSIVE_REBOUND,None,7:33,4,Heat,Timberwolves,96 - 100,0,N/A,N/A,N/A
+32,Hassan Whiteside,FG_UNASSISTED,None,7:33,4,Heat,Timberwolves,98 - 100,0,0,2,Dunk
+33,Cameron Reynolds,FG_MISS,None,7:22,4,Timberwolves,Heat,98 - 100,1,26,3,Jumper
+34,Gorgui Dieng,OFFENSIVE_REBOUND,None,7:19,4,Timberwolves,Heat,98 - 100,1,N/A,N/A,N/A
+35,Gorgui Dieng,FG_MISS,None,7:16,4,Timberwolves,Heat,98 - 100,1,1,3,Jumper
+36,Keita Bates-Diop,OFFENSIVE_REBOUND,None,7:16,4,Timberwolves,Heat,98 - 100,1,N/A,N/A,N/A
+37,Keita Bates-Diop,FG_UNASSISTED,None,7:14,4,Timberwolves,Heat,98 - 102,1,1,3,Jumper
+38,Team,Unknown,None,7:14,4,Heat,Timberwolves,98 - 102,0,N/A,N/A,N/A
+39,Karl-Anthony Towns,SUBSTITUTION,Dieng Gorgui,7:14,4,Timberwolves,Heat,98 - 102,1,N/A,N/A,N/A
+40,Dario Saric,SUBSTITUTION,Tolliver Anthony,7:14,4,Timberwolves,Heat,98 - 102,1,N/A,N/A,N/A
+41,Bam Adebayo,SUBSTITUTION,Waiters Dion,7:14,4,Heat,Timberwolves,98 - 102,0,N/A,N/A,N/A
+42,Justise Winslow,SUBSTITUTION,Whiteside Hassan,7:14,4,Heat,Timberwolves,98 - 102,0,N/A,N/A,N/A
+43,James Johnson,FG_ASSISTED,Goran Dragic,7:02,4,Heat,Timberwolves,100 - 102,0,0,2,Dunk
+44,Keita Bates-Diop,FG_ASSISTED,Karl-Anthony Towns,6:48,4,Timberwolves,Heat,100 - 104,1,1,3,Jumper
+45,Justise Winslow,FG_MISS,None,6:36,4,Heat,Timberwolves,100 - 104,0,23,3,Jumper
+46,Jerryd Bayless,DEFENSIVE_REBOUND,None,6:33,4,Timberwolves,Heat,100 - 104,1,N/A,N/A,N/A
+47,Jerryd Bayless,TURNOVER,Goran Dragic,6:24,4,Timberwolves,Heat,100 - 104,1,N/A,N/A,N/A
+48,Dwyane Wade,FG_MISS,None,6:14,4,Heat,Timberwolves,100 - 104,0,16,3,Jumper
+49,Karl-Anthony Towns,DEFENSIVE_REBOUND,None,6:12,4,Timberwolves,Heat,100 - 104,1,N/A,N/A,N/A
+50,Karl-Anthony Towns,TURNOVER,None,5:55,4,Timberwolves,Heat,100 - 104,1,N/A,N/A,N/A
+51,Tyus Jones,SUBSTITUTION,Bayless Jerryd,5:55,4,Timberwolves,Heat,100 - 104,1,N/A,N/A,N/A
+52,Andrew Wiggins,SUBSTITUTION,Reynolds Cameron,5:55,4,Timberwolves,Heat,100 - 104,1,N/A,N/A,N/A
+53,Dion Waiters,SUBSTITUTION,Wade Dwyane,5:55,4,Heat,Timberwolves,100 - 104,0,N/A,N/A,N/A
+54,James Johnson,FG_MISS,None,5:33,4,Heat,Timberwolves,100 - 104,0,7,3,Jumper
+55,Keita Bates-Diop,DEFENSIVE_REBOUND,None,5:29,4,Timberwolves,Heat,100 - 104,1,N/A,N/A,N/A
+56,Karl-Anthony Towns,FG_MISS,None,5:22,4,Timberwolves,Heat,100 - 104,1,27,3,Jumper
+57,Bam Adebayo,DEFENSIVE_REBOUND,None,5:19,4,Heat,Timberwolves,100 - 104,0,N/A,N/A,N/A
+58,James Johnson,FG_MISS,None,5:04,4,Heat,Timberwolves,100 - 104,0,23,3,Jumper
+59,Tyus Jones,DEFENSIVE_REBOUND,None,5:03,4,Timberwolves,Heat,100 - 104,1,N/A,N/A,N/A
+60,James Johnson,FOUL_ON_FLOOR,None,5:02,4,Heat,Timberwolves,100 - 104,0,N/A,N/A,N/A
+61,Justise Winslow,FOUL_ON_FLOOR,None,4:45,4,Heat,Timberwolves,100 - 104,0,N/A,N/A,N/A
+62,Dario Saric,FT,None,4:45,4,Timberwolves,Heat,100 - 105,1,N/A,1,N/A
+63,Dario Saric,FT,None,4:45,4,Timberwolves,Heat,100 - 106,1,N/A,1,N/A
+64,James Johnson,FG_UNASSISTED,None,4:32,4,Heat,Timberwolves,102 - 106,0,7,3,Jumper
+65,Andrew Wiggins,TURNOVER,None,4:14,4,Timberwolves,Heat,102 - 106,1,N/A,N/A,N/A
+66,Andrew Wiggins,TURNOVER,None,4:14,4,Timberwolves,Heat,102 - 106,1,N/A,N/A,N/A
+67,Dion Waiters,FG_MISS,None,4:01,4,Heat,Timberwolves,102 - 106,0,25,3,Jumper
+68,Dario Saric,DEFENSIVE_REBOUND,None,3:59,4,Timberwolves,Heat,102 - 106,1,N/A,N/A,N/A
+69,Bam Adebayo,FOUL_ON_FLOOR,None,3:54,4,Heat,Timberwolves,102 - 106,0,N/A,N/A,N/A
+70,Keita Bates-Diop,FG_MISS,None,3:44,4,Timberwolves,Heat,102 - 106,1,23,3,Jumper
+71,Karl-Anthony Towns,OFFENSIVE_REBOUND,None,3:42,4,Timberwolves,Heat,102 - 106,1,N/A,N/A,N/A
+72,Karl-Anthony Towns,FG_UNASSISTED,None,3:42,4,Timberwolves,Heat,102 - 108,1,1,3,Jumper
+73,Team,Unknown,None,3:41,4,Heat,Timberwolves,102 - 108,0,N/A,N/A,N/A
+74,Bam Adebayo,FG_MISS,None,3:32,4,Heat,Timberwolves,102 - 108,0,0,2,Layup
+75,Bam Adebayo,OFFENSIVE_REBOUND,None,3:25,4,Heat,Timberwolves,102 - 108,0,N/A,N/A,N/A
+76,Bam Adebayo,FG_UNASSISTED,None,3:25,4,Heat,Timberwolves,104 - 108,0,1,3,Jumper
+77,Keita Bates-Diop,TURNOVER,Bam Adebayo,3:12,4,Timberwolves,Heat,104 - 108,1,N/A,N/A,N/A
+78,Goran Dragic,FG_MISS,None,3:04,4,Heat,Timberwolves,104 - 108,0,26,3,Jumper
+79,Tyus Jones,DEFENSIVE_REBOUND,None,3:01,4,Timberwolves,Heat,104 - 108,1,N/A,N/A,N/A
+80,Dario Saric,TURNOVER,None,2:40,4,Timberwolves,Heat,104 - 108,1,N/A,N/A,N/A
+81,Dario Saric,TURNOVER,None,2:40,4,Timberwolves,Heat,104 - 108,1,N/A,N/A,N/A
+82,Dwyane Wade,SUBSTITUTION,Johnson James,2:40,4,Heat,Timberwolves,104 - 108,0,N/A,N/A,N/A
+83,Dwyane Wade,TURNOVER,Karl-Anthony Towns,2:27,4,Heat,Timberwolves,104 - 108,0,N/A,N/A,N/A
+84,Keita Bates-Diop,FG_ASSISTED,Dario Saric,2:23,4,Timberwolves,Heat,104 - 110,1,0,2,Dunk
+85,Dion Waiters,FG_ASSISTED,Dwyane Wade,2:11,4,Heat,Timberwolves,107 - 110,0,23,3,Jumper
+86,Andrew Wiggins,FG_MISS,None,1:44,4,Timberwolves,Heat,107 - 110,1,13,3,Jumper
+87,Justise Winslow,DEFENSIVE_REBOUND,None,1:41,4,Heat,Timberwolves,107 - 110,0,N/A,N/A,N/A
+88,Dion Waiters,FG_MISS,None,1:33,4,Heat,Timberwolves,107 - 110,0,0,2,Layup
+89,Dario Saric,DEFENSIVE_REBOUND,None,1:32,4,Timberwolves,Heat,107 - 110,1,N/A,N/A,N/A
+90,Karl-Anthony Towns,FOUL_ON_FLOOR,None,1:17,4,Timberwolves,Heat,107 - 110,1,N/A,N/A,N/A
+91,Karl-Anthony Towns,TURNOVER,None,1:17,4,Timberwolves,Heat,107 - 110,1,N/A,N/A,N/A
+92,Goran Dragic,FG_MISS,None,1:06,4,Heat,Timberwolves,107 - 110,0,0,2,Layup
+93,Karl-Anthony Towns,DEFENSIVE_REBOUND,None,1:03,4,Timberwolves,Heat,107 - 110,1,N/A,N/A,N/A
+94,Dario Saric,FG_MISS,None,46.5,4,Timberwolves,Heat,107 - 110,1,26,3,Jumper
+95,Keita Bates-Diop,OFFENSIVE_REBOUND,None,43.8,4,Timberwolves,Heat,107 - 110,1,N/A,N/A,N/A
+96,Keita Bates-Diop,FG_MISS,Justise Winslow,43.2,4,Heat,Timberwolves,107 - 110,1,0,2,Layup
+97,Team,OFFENSIVE_REBOUND,None,42.2,4,Timberwolves,Heat,107 - 110,1,N/A,N/A,N/A
+98,shot clock,TURNOVER,None,42.0,4,Timberwolves,Heat,107 - 110,1,N/A,N/A,N/A
+99,Dion Waiters,FG_MISS,None,34.6,4,Heat,Timberwolves,107 - 110,0,27,3,Jumper
+100,Karl-Anthony Towns,DEFENSIVE_REBOUND,None,32.2,4,Timberwolves,Heat,107 - 110,1,N/A,N/A,N/A
+101,Karl-Anthony Towns,TURNOVER,Dwyane Wade,12.5,4,Timberwolves,Heat,107 - 110,1,N/A,N/A,N/A
+102,Dwyane Wade,FG_UNASSISTED,None,10.0,4,Heat,Timberwolves,109 - 110,0,0,2,Layup
+103,Team,Unknown,None,10.0,4,Timberwolves,Heat,109 - 110,1,N/A,N/A,N/A
+104,James Johnson,SUBSTITUTION,Dragic Goran,10.0,4,Heat,Timberwolves,109 - 110,0,N/A,N/A,N/A
+105,Justise Winslow,FOUL_ON_FLOOR,None,5.4,4,Heat,Timberwolves,109 - 110,0,N/A,N/A,N/A
+106,Dion Waiters,FOUL_ON_FLOOR,None,4.7,4,Heat,Timberwolves,109 - 110,0,N/A,N/A,N/A
+107,Keita Bates-Diop,FT_MISS,None,4.7,4,Timberwolves,Heat,109 - 110,1,N/A,1,N/A
+108,Team,OFFENSIVE_REBOUND,None,4.7,4,Timberwolves,Heat,109 - 110,1,N/A,N/A,N/A
+109,Keita Bates-Diop,FT,None,4.7,4,Timberwolves,Heat,109 - 111,1,N/A,1,N/A
+110,Team,Unknown,None,4.7,4,Heat,Timberwolves,109 - 111,0,N/A,N/A,N/A
+111,Josh Okogie,SUBSTITUTION,Towns Karl-Anthony,4.7,4,Timberwolves,Heat,109 - 111,1,N/A,N/A,N/A
+112,Gorgui Dieng,SUBSTITUTION,Saric Dario,4.7,4,Timberwolves,Heat,109 - 111,1,N/A,N/A,N/A
+113,Goran Dragic,SUBSTITUTION,Johnson James,4.7,4,Heat,Timberwolves,109 - 111,0,N/A,N/A,N/A
+114,Dwyane Wade,FG_MISS,None,0.0,4,Heat,Timberwolves,109 - 111,0,25,3,Jumper
+115,Team,OFFENSIVE_REBOUND,None,0.0,4,Heat,Timberwolves,109 - 111,0,N/A,N/A,N/A
+116,End of,Unknown,None,0.0,4,Timberwolves,Heat,109 - 111,1,N/A,N/A,N/A
+117,End of,Unknown,None,0.0,4,Timberwolves,Heat,109 - 111,1,N/A,N/A,N/A

@@ -1,0 +1,542 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Steven Adams,JUMP_BALL,None,12:00,1,Thunder,Lakers,0 - 0,0,N/A,N/A,N/A
+1,JaVale McGee,FOUL_ON_FLOOR,None,11:41,1,Lakers,Thunder,0 - 0,1,N/A,N/A,N/A
+2,Steven Adams,FT,None,11:41,1,Thunder,Lakers,1 - 0,0,N/A,1,N/A
+3,Steven Adams,FT,None,11:41,1,Thunder,Lakers,2 - 0,0,N/A,1,N/A
+4,JaVale McGee's,FG_MISS,Steven Adams,11:26,1,Thunder,Lakers,2 - 0,1,0,2,Layup
+5,Team,OFFENSIVE_REBOUND,None,11:26,1,Lakers,Thunder,2 - 0,1,N/A,N/A,N/A
+6,Brandon Ingram,TURNOVER,None,11:20,1,Lakers,Thunder,2 - 0,1,N/A,N/A,N/A
+7,Jerami Grant,FG_MISS,JaVale McGee,11:06,1,Lakers,Thunder,2 - 0,0,0,2,Dunk
+8,Josh Hart,DEFENSIVE_REBOUND,None,11:03,1,Lakers,Thunder,2 - 0,1,N/A,N/A,N/A
+9,Josh Hart,FG_MISS,None,11:01,1,Lakers,Thunder,2 - 0,1,-,3,Jumper
+10,Terrance Ferguson,DEFENSIVE_REBOUND,None,10:56,1,Thunder,Lakers,2 - 0,0,N/A,N/A,N/A
+11,Paul George,TURNOVER,Kyle Kuzma,10:49,1,Thunder,Lakers,2 - 0,0,N/A,N/A,N/A
+12,JaVale McGee,FG_MISS,None,10:39,1,Lakers,Thunder,2 - 0,1,6,3,Jumper
+13,Team,DEFENSIVE_REBOUND,None,10:39,1,Thunder,Lakers,2 - 0,0,N/A,N/A,N/A
+14,Lonzo Ball,FOUL_ON_FLOOR,None,10:32,1,Lakers,Thunder,2 - 0,1,N/A,N/A,N/A
+15,Russell Westbrook,FT,None,10:32,1,Thunder,Lakers,3 - 0,0,N/A,1,N/A
+16,Russell Westbrook,FT,None,10:32,1,Thunder,Lakers,4 - 0,0,N/A,1,N/A
+17,Russell Westbrook,FOUL_ON_FLOOR,None,10:21,1,Thunder,Lakers,4 - 0,0,N/A,N/A,N/A
+18,Brandon Ingram,FT,None,10:21,1,Lakers,Thunder,4 - 1,1,N/A,1,N/A
+19,Brandon Ingram,FT_MISS,None,10:21,1,Lakers,Thunder,4 - 1,1,N/A,1,N/A
+20,Russell Westbrook,DEFENSIVE_REBOUND,None,10:18,1,Thunder,Lakers,4 - 1,0,N/A,N/A,N/A
+21,Paul George,FG_MISS,None,10:11,1,Thunder,Lakers,4 - 1,0,26,3,Jumper
+22,JaVale McGee,DEFENSIVE_REBOUND,None,10:08,1,Lakers,Thunder,4 - 1,1,N/A,N/A,N/A
+23,Kyle Kuzma,FG_MISS,None,9:56,1,Lakers,Thunder,4 - 1,1,14,3,Jumper
+24,Jerami Grant,DEFENSIVE_REBOUND,None,9:52,1,Thunder,Lakers,4 - 1,0,N/A,N/A,N/A
+25,Terrance Ferguson,FG_ASSISTED,Steven Adams,9:43,1,Thunder,Lakers,6 - 1,0,0,2,Dunk
+26,JaVale McGee,FG_ASSISTED,Brandon Ingram,9:32,1,Lakers,Thunder,6 - 3,1,0,2,Layup
+27,Russell Westbrook,TURNOVER,Kyle Kuzma,9:26,1,Thunder,Lakers,6 - 3,0,N/A,N/A,N/A
+28,Steven Adams,FOUL_ON_FLOOR,None,9:18,1,Thunder,Lakers,6 - 3,0,N/A,N/A,N/A
+29,Kyle Kuzma,FT,None,9:18,1,Lakers,Thunder,6 - 4,1,N/A,1,N/A
+30,Kyle Kuzma,FT,None,9:18,1,Lakers,Thunder,6 - 5,1,N/A,1,N/A
+31,Russell Westbrook,FG_MISS,JaVale McGee,9:04,1,Lakers,Thunder,6 - 5,0,4,3,Jumper
+32,Josh Hart,DEFENSIVE_REBOUND,None,9:01,1,Lakers,Thunder,6 - 5,1,N/A,N/A,N/A
+33,Lonzo Ball,FG_MISS,None,8:59,1,Lakers,Thunder,6 - 5,1,-,3,Jumper
+34,Jerami Grant,DEFENSIVE_REBOUND,None,8:55,1,Thunder,Lakers,6 - 5,0,N/A,N/A,N/A
+35,Paul George,FG_UNASSISTED,None,8:46,1,Thunder,Lakers,8 - 5,0,-,3,Jumper
+36,Brandon Ingram,FG_MISS,None,8:38,1,Lakers,Thunder,8 - 5,1,-,3,Jumper
+37,Steven Adams,DEFENSIVE_REBOUND,None,8:36,1,Thunder,Lakers,8 - 5,0,N/A,N/A,N/A
+38,Russell Westbrook,FG_MISS,None,8:33,1,Thunder,Lakers,8 - 5,0,-,3,Jumper
+39,Kyle Kuzma,DEFENSIVE_REBOUND,None,8:28,1,Lakers,Thunder,8 - 5,1,N/A,N/A,N/A
+40,Lonzo Ball,FG_UNASSISTED,None,8:26,1,Lakers,Thunder,8 - 7,1,-,3,Jumper
+41,Jerami Grant,FOUL_ON_FLOOR,None,8:26,1,Thunder,Lakers,8 - 7,0,N/A,N/A,N/A
+42,Team,Unknown,None,8:26,1,Thunder,Lakers,8 - 7,0,N/A,N/A,N/A
+43,Lonzo Ball,FT_MISS,None,8:26,1,Lakers,Thunder,8 - 7,1,N/A,1,N/A
+44,Russell Westbrook,DEFENSIVE_REBOUND,None,8:22,1,Thunder,Lakers,8 - 7,0,N/A,N/A,N/A
+45,Steven Adams,FG_ASSISTED,Russell Westbrook,8:16,1,Thunder,Lakers,10 - 7,0,10,3,Jumper
+46,Josh Hart,FG_MISS,None,7:53,1,Lakers,Thunder,10 - 7,1,-,3,Jumper
+47,Russell Westbrook,DEFENSIVE_REBOUND,None,7:51,1,Thunder,Lakers,10 - 7,0,N/A,N/A,N/A
+48,Paul George,FG_MISS,None,7:49,1,Thunder,Lakers,10 - 7,0,-,3,Jumper
+49,JaVale McGee,DEFENSIVE_REBOUND,None,7:49,1,Lakers,Thunder,10 - 7,1,N/A,N/A,N/A
+50,Kyle Kuzma,TURNOVER,None,7:43,1,Lakers,Thunder,10 - 7,1,N/A,N/A,N/A
+51,Kyle Kuzma,TURNOVER,None,7:43,1,Lakers,Thunder,10 - 7,1,N/A,N/A,N/A
+52,Tyson Chandler,SUBSTITUTION,McGee JaVale,7:43,1,Lakers,Thunder,10 - 7,1,N/A,N/A,N/A
+53,Terrance Ferguson,FG_MISS,None,7:32,1,Thunder,Lakers,10 - 7,0,23,3,Jumper
+54,Lonzo Ball,DEFENSIVE_REBOUND,None,7:28,1,Lakers,Thunder,10 - 7,1,N/A,N/A,N/A
+55,Brandon Ingram,FG_MISS,None,7:16,1,Lakers,Thunder,10 - 7,1,12,3,Jumper
+56,Russell Westbrook,DEFENSIVE_REBOUND,None,7:12,1,Thunder,Lakers,10 - 7,0,N/A,N/A,N/A
+57,Russell Westbrook,FG_MISS,None,7:05,1,Thunder,Lakers,10 - 7,0,24,3,Jumper
+58,Brandon Ingram,DEFENSIVE_REBOUND,None,7:03,1,Lakers,Thunder,10 - 7,1,N/A,N/A,N/A
+59,Josh Hart,FG_MISS,None,6:56,1,Lakers,Thunder,10 - 7,1,26,3,Jumper
+60,Jerami Grant,DEFENSIVE_REBOUND,None,6:53,1,Thunder,Lakers,10 - 7,0,N/A,N/A,N/A
+61,Paul George,FG_MISS,None,6:46,1,Thunder,Lakers,10 - 7,0,0,2,Layup
+62,Josh Hart,DEFENSIVE_REBOUND,None,6:43,1,Lakers,Thunder,10 - 7,1,N/A,N/A,N/A
+63,Brandon Ingram,FG_ASSISTED,Kyle Kuzma,6:36,1,Lakers,Thunder,10 - 9,1,-,3,Jumper
+64,Jerami Grant,FG_ASSISTED,Russell Westbrook,6:23,1,Thunder,Lakers,12 - 9,0,-,3,Jumper
+65,Kyle Kuzma,FG_MISS,None,6:01,1,Lakers,Thunder,12 - 9,1,-,3,Jumper
+66,Lonzo Ball,OFFENSIVE_REBOUND,None,5:57,1,Lakers,Thunder,12 - 9,1,N/A,N/A,N/A
+67,Brandon Ingram,FG_MISS,None,5:56,1,Lakers,Thunder,12 - 9,1,26,3,Jumper
+68,Russell Westbrook,DEFENSIVE_REBOUND,None,5:53,1,Thunder,Lakers,12 - 9,0,N/A,N/A,N/A
+69,Paul George,FG_ASSISTED,Russell Westbrook,5:49,1,Thunder,Lakers,14 - 9,0,-,3,Jumper
+70,Josh Hart,TURNOVER,Russell Westbrook,5:36,1,Lakers,Thunder,14 - 9,1,N/A,N/A,N/A
+71,Brandon Ingram,FOUL_ON_FLOOR,None,5:36,1,Lakers,Thunder,14 - 9,1,N/A,N/A,N/A
+72,Terrance Ferguson,FG_MISS,None,5:26,1,Thunder,Lakers,14 - 9,0,11,3,Jumper
+73,Josh Hart,DEFENSIVE_REBOUND,None,5:24,1,Lakers,Thunder,14 - 9,1,N/A,N/A,N/A
+74,Steven Adams,Unknown,None,5:20,1,Thunder,Lakers,14 - 9,0,N/A,N/A,N/A
+75,Paul George,FOUL_ON_FLOOR,None,5:09,1,Thunder,Lakers,14 - 9,0,N/A,N/A,N/A
+76,Dennis Schroder,SUBSTITUTION,Ferguson Terrance,5:09,1,Thunder,Lakers,14 - 9,0,N/A,N/A,N/A
+77,Tyson Chandler,FG_ASSISTED,Brandon Ingram,4:59,1,Lakers,Thunder,14 - 11,1,0,2,Dunk
+78,Russell Westbrook,FG_MISS,None,4:50,1,Thunder,Lakers,14 - 11,0,20,3,Jumper
+79,Steven Adams,OFFENSIVE_REBOUND,None,4:46,1,Thunder,Lakers,14 - 11,0,N/A,N/A,N/A
+80,Russell Westbrook,FG_MISS,None,4:44,1,Thunder,Lakers,14 - 11,0,0,2,Layup
+81,Tyson Chandler,DEFENSIVE_REBOUND,None,4:42,1,Lakers,Thunder,14 - 11,1,N/A,N/A,N/A
+82,Paul George,FOUL_ON_FLOOR,None,4:39,1,Thunder,Lakers,14 - 11,0,N/A,N/A,N/A
+83,Josh Hart,FT,None,4:39,1,Lakers,Thunder,14 - 12,1,N/A,1,N/A
+84,Kentavious Caldwell-Pope,SUBSTITUTION,Ball Lonzo,4:39,1,Lakers,Thunder,14 - 12,1,N/A,N/A,N/A
+85,Josh Hart,FT_MISS,None,4:39,1,Lakers,Thunder,14 - 12,1,N/A,1,N/A
+86,Russell Westbrook,DEFENSIVE_REBOUND,None,4:37,1,Thunder,Lakers,14 - 12,0,N/A,N/A,N/A
+87,Paul George,FG_MISS,None,4:31,1,Thunder,Lakers,14 - 12,0,25,3,Jumper
+88,Team,DEFENSIVE_REBOUND,None,4:28,1,Lakers,Thunder,14 - 12,1,N/A,N/A,N/A
+89,Josh Hart,FG_MISS,None,4:12,1,Lakers,Thunder,14 - 12,1,28,3,Jumper
+90,Jerami Grant,DEFENSIVE_REBOUND,None,4:09,1,Thunder,Lakers,14 - 12,0,N/A,N/A,N/A
+91,Tyson Chandler,FOUL_ON_FLOOR,None,4:05,1,Lakers,Thunder,14 - 12,1,N/A,N/A,N/A
+92,Steven Adams,FT,None,4:05,1,Thunder,Lakers,15 - 12,0,N/A,1,N/A
+93,Steven Adams,FT_MISS,None,4:05,1,Thunder,Lakers,15 - 12,0,N/A,1,N/A
+94,Tyson Chandler,DEFENSIVE_REBOUND,None,4:03,1,Lakers,Thunder,15 - 12,1,N/A,N/A,N/A
+95,Brandon Ingram,FG_ASSISTED,Kentavious Caldwell-Pope,3:47,1,Lakers,Thunder,15 - 14,1,8,3,Jumper
+96,Josh Hart,FOUL_ON_FLOOR,None,3:38,1,Lakers,Thunder,15 - 14,1,N/A,N/A,N/A
+97,Russell Westbrook,FT_MISS,None,3:38,1,Thunder,Lakers,15 - 14,0,N/A,1,N/A
+98,Team,OFFENSIVE_REBOUND,None,3:38,1,Thunder,Lakers,15 - 14,0,N/A,N/A,N/A
+99,Russell Westbrook,FT,None,3:38,1,Thunder,Lakers,16 - 14,0,N/A,1,N/A
+100,Kyle Kuzma,TURNOVER,None,3:25,1,Lakers,Thunder,16 - 14,1,N/A,N/A,N/A
+101,Russell Westbrook,FG_MISS,None,3:16,1,Thunder,Lakers,16 - 14,0,0,2,Layup
+102,Brandon Ingram,DEFENSIVE_REBOUND,None,3:14,1,Lakers,Thunder,16 - 14,1,N/A,N/A,N/A
+103,Paul George,FOUL_ON_FLOOR,None,3:12,1,Thunder,Lakers,16 - 14,0,N/A,N/A,N/A
+104,Kentavious Caldwell-Pope,FT,None,3:12,1,Lakers,Thunder,16 - 15,1,N/A,1,N/A
+105,Abdel Nader,SUBSTITUTION,George Paul,3:12,1,Thunder,Lakers,16 - 15,0,N/A,N/A,N/A
+106,Kentavious Caldwell-Pope,FT,None,3:12,1,Lakers,Thunder,16 - 16,1,N/A,1,N/A
+107,Jerami Grant,FG_ASSISTED,Dennis Schroder,3:04,1,Thunder,Lakers,18 - 16,0,0,2,Dunk
+108,Team,Unknown,None,3:04,1,Lakers,Thunder,18 - 16,1,N/A,N/A,N/A
+109,Lance Stephenson,SUBSTITUTION,Kuzma Kyle,3:04,1,Lakers,Thunder,18 - 16,1,N/A,N/A,N/A
+110,Terrance Ferguson,SUBSTITUTION,Westbrook Russell,3:04,1,Thunder,Lakers,18 - 16,0,N/A,N/A,N/A
+111,Kentavious Caldwell-Pope,FG_MISS,None,2:53,1,Lakers,Thunder,18 - 16,1,25,3,Jumper
+112,Dennis Schroder,DEFENSIVE_REBOUND,None,2:48,1,Thunder,Lakers,18 - 16,0,N/A,N/A,N/A
+113,Dennis Schroder,FG_ASSISTED,Steven Adams,2:35,1,Thunder,Lakers,20 - 16,0,2,3,Jumper
+114,Terrance Ferguson,FOUL_ON_FLOOR,None,2:20,1,Thunder,Lakers,20 - 16,0,N/A,N/A,N/A
+115,Tyson Chandler,FT,None,2:20,1,Lakers,Thunder,20 - 17,1,N/A,1,N/A
+116,Tyson Chandler,FT,None,2:20,1,Lakers,Thunder,20 - 18,1,N/A,1,N/A
+117,Steven Adams,FG_UNASSISTED,None,2:02,1,Thunder,Lakers,22 - 18,0,0,2,Layup
+118,Kentavious Caldwell-Pope,FG_ASSISTED,Lance Stephenson,1:50,1,Lakers,Thunder,22 - 21,1, ,3,Jumper
+119,Terrance Ferguson,FG_MISS,None,1:35,1,Thunder,Lakers,22 - 21,0,15,3,Jumper
+120,Josh Hart,DEFENSIVE_REBOUND,None,1:29,1,Lakers,Thunder,22 - 21,1,N/A,N/A,N/A
+121,Josh Hart,FG_MISS,None,1:07,1,Lakers,Thunder,22 - 21,1,21,3,Jumper
+122,Steven Adams,DEFENSIVE_REBOUND,None,1:04,1,Thunder,Lakers,22 - 21,0,N/A,N/A,N/A
+123,Steven Adams,TURNOVER,None,1:03,1,Thunder,Lakers,22 - 21,0,N/A,N/A,N/A
+124,Abdel Nader,FOUL_ON_FLOOR,None,48.0,1,Thunder,Lakers,22 - 21,0,N/A,N/A,N/A
+125,Kentavious Caldwell-Pope,FT,None,48.0,1,Lakers,Thunder,22 - 22,1,N/A,1,N/A
+126,Kentavious Caldwell-Pope,FT,None,48.0,1,Lakers,Thunder,22 - 23,1,N/A,1,N/A
+127,Dennis Schroder,FG_MISS,None,32.9,1,Thunder,Lakers,22 - 23,0,26,3,Jumper
+128,Brandon Ingram,DEFENSIVE_REBOUND,None,28.8,1,Lakers,Thunder,22 - 23,1,N/A,N/A,N/A
+129,Kentavious Caldwell-Pope,FG_MISS,None,24.9,1,Lakers,Thunder,22 - 23,1, ,3,Jumper
+130,Josh Hart,OFFENSIVE_REBOUND,None,20.9,1,Lakers,Thunder,22 - 23,1,N/A,N/A,N/A
+131,Kentavious Caldwell-Pope,FG_MISS,None,10.5,1,Lakers,Thunder,22 - 23,1,25,3,Jumper
+132,Steven Adams,DEFENSIVE_REBOUND,None,6.7,1,Thunder,Lakers,22 - 23,0,N/A,N/A,N/A
+133,Jerami Grant,FG_ASSISTED,Dennis Schroder,2.9,1,Thunder,Lakers,25 - 23,0,26,3,Jumper
+134,Dennis Schroder,FOUL_ON_FLOOR,None,0.7,1,Thunder,Lakers,25 - 23,0,N/A,N/A,N/A
+135,Kentavious Caldwell-Pope,FT,None,0.7,1,Lakers,Thunder,25 - 24,1,N/A,1,N/A
+136,Kentavious Caldwell-Pope,FT,None,0.7,1,Lakers,Thunder,25 - 25,1,N/A,1,N/A
+137,Abdel Nader,FG_MISS,None,0.1,1,Thunder,Lakers,25 - 25,0,54,3,Jumper
+138,Team,OFFENSIVE_REBOUND,None,0.1,1,Thunder,Lakers,25 - 25,0,N/A,N/A,N/A
+139,End of,Unknown,None,0.0,1,Lakers,Thunder,25 - 25,1,N/A,N/A,N/A
+0,JaVale McGee,SUBSTITUTION,Hart Josh,12:00,2,Lakers,Thunder,25 - 25,1,N/A,N/A,N/A
+1,Lonzo Ball,SUBSTITUTION,Chandler Tyson,12:00,2,Lakers,Thunder,25 - 25,1,N/A,N/A,N/A
+2,Kyle Kuzma,SUBSTITUTION,Ingram Brandon,12:00,2,Lakers,Thunder,25 - 25,1,N/A,N/A,N/A
+3,Hamidou Diallo,SUBSTITUTION,Grant Jerami,12:00,2,Thunder,Lakers,25 - 25,0,N/A,N/A,N/A
+4,Patrick Patterson,SUBSTITUTION,Adams Steven,12:00,2,Thunder,Lakers,25 - 25,0,N/A,N/A,N/A
+5,Nerlens Noel,SUBSTITUTION,Ferguson Terrance,12:00,2,Thunder,Lakers,25 - 25,0,N/A,N/A,N/A
+6,Kyle Kuzma,TURNOVER,None,11:42,2,Lakers,Thunder,25 - 25,1,N/A,N/A,N/A
+7,Kyle Kuzma,TURNOVER,None,11:42,2,Lakers,Thunder,25 - 25,1,N/A,N/A,N/A
+8,Abdel Nader,FG_MISS,None,11:27,2,Thunder,Lakers,25 - 25,0,0,2,Layup
+9,Team,OFFENSIVE_REBOUND,None,11:27,2,Thunder,Lakers,25 - 25,0,N/A,N/A,N/A
+10,Lance Stephenson,FOUL_ON_FLOOR,None,11:27,2,Lakers,Thunder,25 - 25,1,N/A,N/A,N/A
+11,Abdel Nader,FG_ASSISTED,Dennis Schroder,11:19,2,Thunder,Lakers,28 - 25,0,25,3,Jumper
+12,JaVale McGee,FG_ASSISTED,Lonzo Ball,11:01,2,Lakers,Thunder,28 - 27,1,4,3,Jumper
+13,Abdel Nader,FG_ASSISTED,Dennis Schroder,10:48,2,Thunder,Lakers,30 - 27,0,0,2,Layup
+14,JaVale McGee,FG_MISS,None,10:32,2,Lakers,Thunder,30 - 27,1,10,3,Jumper
+15,Abdel Nader,DEFENSIVE_REBOUND,None,10:30,2,Thunder,Lakers,30 - 27,0,N/A,N/A,N/A
+16,Dennis Schroder,FG_MISS,None,10:11,2,Thunder,Lakers,30 - 27,0,19,3,Jumper
+17,Lance Stephenson,DEFENSIVE_REBOUND,None,10:08,2,Lakers,Thunder,30 - 27,1,N/A,N/A,N/A
+18,Hamidou Diallo,FOUL_ON_FLOOR,None,10:03,2,Thunder,Lakers,30 - 27,0,N/A,N/A,N/A
+19,JaVale McGee,FT_MISS,None,10:03,2,Lakers,Thunder,30 - 27,1,N/A,1,N/A
+20,Team,OFFENSIVE_REBOUND,None,10:03,2,Lakers,Thunder,30 - 27,1,N/A,N/A,N/A
+21,JaVale McGee,FT_MISS,None,10:03,2,Lakers,Thunder,30 - 27,1,N/A,1,N/A
+22,Patrick Patterson,DEFENSIVE_REBOUND,None,10:00,2,Thunder,Lakers,30 - 27,0,N/A,N/A,N/A
+23,Dennis Schroder,TURNOVER,Kyle Kuzma,9:40,2,Thunder,Lakers,30 - 27,0,N/A,N/A,N/A
+24,Kyle Kuzma,FG_ASSISTED,Lonzo Ball,9:35,2,Lakers,Thunder,30 - 29,1, ,3,Jumper
+25,Dennis Schroder,FG_MISS,None,9:23,2,Thunder,Lakers,30 - 29,0,9,3,Jumper
+26,JaVale McGee,DEFENSIVE_REBOUND,None,9:21,2,Lakers,Thunder,30 - 29,1,N/A,N/A,N/A
+27,JaVale McGee,FG_ASSISTED,Lonzo Ball,9:13,2,Lakers,Thunder,30 - 31,1,0,2,Dunk
+28,Abdel Nader,FOUL_ON_FLOOR,None,9:13,2,Thunder,Lakers,30 - 31,0,N/A,N/A,N/A
+29,Russell Westbrook,SUBSTITUTION,Schroder Dennis,9:13,2,Thunder,Lakers,30 - 31,0,N/A,N/A,N/A
+30,JaVale McGee,FT,None,9:13,2,Lakers,Thunder,30 - 32,1,N/A,1,N/A
+31,Patrick Patterson,FG_ASSISTED,Russell Westbrook,8:55,2,Thunder,Lakers,32 - 32,0,12,3,Jumper
+32,Lance Stephenson,TURNOVER,Patrick Patterson,8:36,2,Lakers,Thunder,32 - 32,1,N/A,N/A,N/A
+33,Hamidou Diallo,FG_MISS,Lonzo Ball,8:33,2,Lakers,Thunder,32 - 32,0,2,3,Jumper
+34,Lance Stephenson,DEFENSIVE_REBOUND,None,8:29,2,Lakers,Thunder,32 - 32,1,N/A,N/A,N/A
+35,Kentavious Caldwell-Pope,FG_ASSISTED,Lance Stephenson,8:28,2,Lakers,Thunder,32 - 35,1,25,3,Jumper
+36,Kentavious Caldwell-Pope,FOUL_ON_FLOOR,None,8:20,2,Lakers,Thunder,32 - 35,1,N/A,N/A,N/A
+37,Paul George,SUBSTITUTION,Nader Abdel,8:20,2,Thunder,Lakers,32 - 35,0,N/A,N/A,N/A
+38,Russell Westbrook,FG_MISS,Lonzo Ball,8:20,2,Lakers,Thunder,32 - 35,0,0,2,Layup
+39,Team,OFFENSIVE_REBOUND,None,8:20,2,Thunder,Lakers,32 - 35,0,N/A,N/A,N/A
+40,Russell Westbrook,TURNOVER,Kentavious Caldwell-Pope,8:11,2,Thunder,Lakers,32 - 35,0,N/A,N/A,N/A
+41,Kentavious Caldwell-Pope,FG_UNASSISTED,None,8:09,2,Lakers,Thunder,32 - 37,1,0,2,Dunk
+42,Paul George,FG_UNASSISTED,None,7:56,2,Thunder,Lakers,34 - 37,0,10,3,Jumper
+43,Team,Unknown,None,7:56,2,Lakers,Thunder,34 - 37,1,N/A,N/A,N/A
+44,Lonzo Ball,FG_MISS,None,7:41,2,Lakers,Thunder,34 - 37,1,0,2,Layup
+45,JaVale McGee,OFFENSIVE_REBOUND,None,7:35,2,Lakers,Thunder,34 - 37,1,N/A,N/A,N/A
+46,JaVale McGee,FG_UNASSISTED,None,7:35,2,Lakers,Thunder,34 - 39,1, ,3,Jumper
+47,Russell Westbrook,FG_UNASSISTED,None,7:27,2,Thunder,Lakers,36 - 39,0,0,2,Layup
+48,Kentavious Caldwell-Pope,FG_ASSISTED,Lonzo Ball,7:15,2,Lakers,Thunder,36 - 42,1,25,3,Jumper
+49,Steven Adams,SUBSTITUTION,Noel Nerlens,7:07,2,Thunder,Lakers,36 - 42,0,N/A,N/A,N/A
+50,Brandon Ingram,SUBSTITUTION,Stephenson Lance,7:07,2,Lakers,Thunder,36 - 42,1,N/A,N/A,N/A
+51,Paul George,FG_MISS,None,6:59,2,Thunder,Lakers,36 - 42,0,0,2,Layup
+52,Steven Adams,OFFENSIVE_REBOUND,None,6:57,2,Thunder,Lakers,36 - 42,0,N/A,N/A,N/A
+53,Steven Adams,FG_UNASSISTED,None,6:55,2,Thunder,Lakers,38 - 42,0, ,3,Jumper
+54,Kentavious Caldwell-Pope,TURNOVER,Paul George,6:45,2,Lakers,Thunder,38 - 42,1,N/A,N/A,N/A
+55,JaVale McGee,FOUL_ON_FLOOR,None,6:45,2,Lakers,Thunder,38 - 42,1,N/A,N/A,N/A
+56,Jerami Grant,SUBSTITUTION,Patterson Patrick,6:45,2,Thunder,Lakers,38 - 42,0,N/A,N/A,N/A
+57,Russell Westbrook,FG_MISS,None,6:37,2,Thunder,Lakers,38 - 42,0,0,2,Dunk
+58,Steven Adams,OFFENSIVE_REBOUND,None,6:37,2,Thunder,Lakers,38 - 42,0,N/A,N/A,N/A
+59,Team,Unknown,None,6:33,2,Thunder,Lakers,38 - 42,0,N/A,N/A,N/A
+60,Billy Donovan,FOUL_TECHNICAL,None,6:33,2,Thunder,Lakers,38 - 42,0,N/A,N/A,N/A
+61,Kentavious Caldwell-Pope,FT_MISS,None,6:33,2,Lakers,Thunder,38 - 42,1,N/A,1,N/A
+62,Team,DEFENSIVE_REBOUND,None,6:33,2,Thunder,Lakers,38 - 42,0,N/A,N/A,N/A
+63,Russell Westbrook,FG_ASSISTED,Steven Adams,6:27,2,Thunder,Lakers,41 - 42,0,26,3,Jumper
+64,JaVale McGee,TURNOVER,None,6:10,2,Lakers,Thunder,41 - 42,1,N/A,N/A,N/A
+65,Dennis Schroder,SUBSTITUTION,Diallo Hamidou,6:10,2,Thunder,Lakers,41 - 42,0,N/A,N/A,N/A
+66,Paul George,FG_MISS,None,5:52,2,Thunder,Lakers,41 - 42,0,26,3,Jumper
+67,Steven Adams,OFFENSIVE_REBOUND,None,5:50,2,Thunder,Lakers,41 - 42,0,N/A,N/A,N/A
+68,Steven Adams,FG_MISS,None,5:44,2,Thunder,Lakers,41 - 42,0, ,3,Jumper
+69,JaVale McGee,DEFENSIVE_REBOUND,None,5:41,2,Lakers,Thunder,41 - 42,1,N/A,N/A,N/A
+70,Kyle Kuzma,FG_MISS,None,5:36,2,Lakers,Thunder,41 - 42,1,26,3,Jumper
+71,Russell Westbrook,DEFENSIVE_REBOUND,None,5:32,2,Thunder,Lakers,41 - 42,0,N/A,N/A,N/A
+72,Russell Westbrook,FG_MISS,None,5:20,2,Thunder,Lakers,41 - 42,0,26,3,Jumper
+73,Kentavious Caldwell-Pope,DEFENSIVE_REBOUND,None,5:17,2,Lakers,Thunder,41 - 42,1,N/A,N/A,N/A
+74,JaVale McGee,FG_MISS,None,5:07,2,Lakers,Thunder,41 - 42,1,0,2,Layup
+75,JaVale McGee,OFFENSIVE_REBOUND,None,5:02,2,Lakers,Thunder,41 - 42,1,N/A,N/A,N/A
+76,JaVale McGee,FG_UNASSISTED,None,5:02,2,Lakers,Thunder,41 - 44,1, ,3,Jumper
+77,Paul George,FG_UNASSISTED,None,4:54,2,Thunder,Lakers,43 - 44,0,2,3,Jumper
+78,Team,Unknown,None,4:54,2,Lakers,Thunder,43 - 44,1,N/A,N/A,N/A
+79,Tyson Chandler,SUBSTITUTION,Kuzma Kyle,4:54,2,Lakers,Thunder,43 - 44,1,N/A,N/A,N/A
+80,Josh Hart,SUBSTITUTION,McGee JaVale,4:54,2,Lakers,Thunder,43 - 44,1,N/A,N/A,N/A
+81,Brandon Ingram,FG_MISS,None,4:36,2,Lakers,Thunder,43 - 44,1,17,3,Jumper
+82,Russell Westbrook,DEFENSIVE_REBOUND,None,4:32,2,Thunder,Lakers,43 - 44,0,N/A,N/A,N/A
+83,Steven Adams,FG_ASSISTED,Russell Westbrook,4:29,2,Thunder,Lakers,45 - 44,0,0,2,Dunk
+84,Josh Hart,FG_MISS,None,4:12,2,Lakers,Thunder,45 - 44,1,25,3,Jumper
+85,Steven Adams,DEFENSIVE_REBOUND,None,4:12,2,Thunder,Lakers,45 - 44,0,N/A,N/A,N/A
+86,Paul George,FG_MISS,None,4:04,2,Thunder,Lakers,45 - 44,0,26,3,Jumper
+87,Brandon Ingram,DEFENSIVE_REBOUND,None,4:02,2,Lakers,Thunder,45 - 44,1,N/A,N/A,N/A
+88,Brandon Ingram,TURNOVER,Russell Westbrook,3:57,2,Lakers,Thunder,45 - 44,1,N/A,N/A,N/A
+89,Paul George,FG_ASSISTED,Russell Westbrook,3:55,2,Thunder,Lakers,47 - 44,0,0,2,Dunk
+90,Paul George,FOUL_ON_FLOOR,None,3:52,2,Thunder,Lakers,47 - 44,0,N/A,N/A,N/A
+91,Kentavious Caldwell-Pope,FT,None,3:52,2,Lakers,Thunder,47 - 45,1,N/A,1,N/A
+92,Lance Stephenson,SUBSTITUTION,Caldwell-Pope Kentavious,3:52,2,Lakers,Thunder,47 - 45,1,N/A,N/A,N/A
+93,Lance Stephenson,FG_MISS,None,3:31,2,Lakers,Thunder,47 - 45,1,23,3,Jumper
+94,Russell Westbrook,DEFENSIVE_REBOUND,None,3:26,2,Thunder,Lakers,47 - 45,0,N/A,N/A,N/A
+95,Paul George,FG_ASSISTED,Russell Westbrook,3:25,2,Thunder,Lakers,49 - 45,0, ,3,Jumper
+96,Lance Stephenson,FG_UNASSISTED,None,3:07,2,Lakers,Thunder,49 - 48,1,26,3,Jumper
+97,Paul George,FG_ASSISTED,Russell Westbrook,2:53,2,Thunder,Lakers,52 - 48,0,26,3,Jumper
+98,Brandon Ingram,FG_ASSISTED,Lonzo Ball,2:40,2,Lakers,Thunder,52 - 50,1,0,2,Dunk
+99,Steven Adams,FG_MISS,None,2:24,2,Thunder,Lakers,52 - 50,0,6,3,Jumper
+100,Brandon Ingram,DEFENSIVE_REBOUND,None,2:24,2,Lakers,Thunder,52 - 50,1,N/A,N/A,N/A
+101,Tyson Chandler,FG_ASSISTED,Lance Stephenson,2:07,2,Lakers,Thunder,52 - 52,1,0,2,Dunk
+102,Jerami Grant,FG_MISS,None,1:57,2,Thunder,Lakers,52 - 52,0,23,3,Jumper
+103,Lance Stephenson,DEFENSIVE_REBOUND,None,1:52,2,Lakers,Thunder,52 - 52,1,N/A,N/A,N/A
+104,Josh Hart,FG_ASSISTED,Lonzo Ball,1:51,2,Lakers,Thunder,52 - 54,1, ,3,Jumper
+105,Russell Westbrook,FG_MISS,None,1:41,2,Thunder,Lakers,52 - 54,0,26,3,Jumper
+106,Tyson Chandler,DEFENSIVE_REBOUND,None,1:41,2,Lakers,Thunder,52 - 54,1,N/A,N/A,N/A
+107,Brandon Ingram,FG_UNASSISTED,None,1:32,2,Lakers,Thunder,52 - 56,1, ,3,Jumper
+108,Dennis Schroder,FG_ASSISTED,Russell Westbrook,1:15,2,Thunder,Lakers,54 - 56,0,23,3,Jumper
+109,Steven Adams,FOUL_ON_FLOOR,None,1:08,2,Thunder,Lakers,54 - 56,0,N/A,N/A,N/A
+110,Tyson Chandler,FT_MISS,None,1:08,2,Lakers,Thunder,54 - 56,1,N/A,1,N/A
+111,Team,OFFENSIVE_REBOUND,None,1:08,2,Lakers,Thunder,54 - 56,1,N/A,N/A,N/A
+112,Kentavious Caldwell-Pope,SUBSTITUTION,Ball Lonzo,1:08,2,Lakers,Thunder,54 - 56,1,N/A,N/A,N/A
+113,Tyson Chandler,FT,None,1:08,2,Lakers,Thunder,54 - 57,1,N/A,1,N/A
+114,Dennis Schroder,FG_UNASSISTED,None,52.7,2,Thunder,Lakers,57 - 57,0,26,3,Jumper
+115,Lance Stephenson,TURNOVER,Paul George,37.8,2,Lakers,Thunder,57 - 57,1,N/A,N/A,N/A
+116,Paul George,FG_UNASSISTED,None,29.8,2,Thunder,Lakers,59 - 57,0,19,3,Jumper
+117,Lance Stephenson,FOUL_ON_FLOOR,None,29.8,2,Lakers,Thunder,59 - 57,1,N/A,N/A,N/A
+118,JaVale McGee,SUBSTITUTION,Chandler Tyson,29.8,2,Lakers,Thunder,59 - 57,1,N/A,N/A,N/A
+119,Paul George,FT_MISS,None,29.8,2,Thunder,Lakers,59 - 57,0,N/A,1,N/A
+120,Steven Adams,OFFENSIVE_REBOUND,None,27.0,2,Thunder,Lakers,59 - 57,0,N/A,N/A,N/A
+121,Steven Adams's,FG_MISS,JaVale McGee,26.4,2,Lakers,Thunder,59 - 57,0,0,2,Layup
+122,Lance Stephenson,DEFENSIVE_REBOUND,None,23.1,2,Lakers,Thunder,59 - 57,1,N/A,N/A,N/A
+123,Lance Stephenson,FG_MISS,None,2.5,2,Lakers,Thunder,59 - 57,1, ,3,Jumper
+124,Kentavious Caldwell-Pope,OFFENSIVE_REBOUND,None,0.3,2,Lakers,Thunder,59 - 57,1,N/A,N/A,N/A
+125,End of,Unknown,None,0.0,2,Lakers,Thunder,59 - 57,1,N/A,N/A,N/A
+0,Lonzo Ball,SUBSTITUTION,Stephenson Lance,12:00,3,Lakers,Thunder,59 - 57,1,N/A,N/A,N/A
+1,Terrance Ferguson,SUBSTITUTION,Schroder Dennis,12:00,3,Thunder,Lakers,59 - 57,0,N/A,N/A,N/A
+2,Josh Hart,FG_ASSISTED,JaVale McGee,11:42,3,Lakers,Thunder,59 - 59,1,0,2,Layup
+3,Jerami Grant,FG_MISS,None,11:30,3,Thunder,Lakers,59 - 59,0, ,3,Jumper
+4,Lonzo Ball,DEFENSIVE_REBOUND,None,11:27,3,Lakers,Thunder,59 - 59,1,N/A,N/A,N/A
+5,JaVale McGee,FG_ASSISTED,Brandon Ingram,11:16,3,Lakers,Thunder,59 - 61,1,0,2,Layup
+6,Russell Westbrook,FG_MISS,None,11:04,3,Thunder,Lakers,59 - 61,0,16,3,Jumper
+7,Brandon Ingram,DEFENSIVE_REBOUND,None,11:01,3,Lakers,Thunder,59 - 61,1,N/A,N/A,N/A
+8,JaVale McGee,FG_MISS,None,10:52,3,Lakers,Thunder,59 - 61,1,0,2,Layup
+9,Steven Adams,DEFENSIVE_REBOUND,None,10:50,3,Thunder,Lakers,59 - 61,0,N/A,N/A,N/A
+10,Paul George,FG_MISS,None,10:45,3,Thunder,Lakers,59 - 61,0,26,3,Jumper
+11,Josh Hart,DEFENSIVE_REBOUND,None,10:42,3,Lakers,Thunder,59 - 61,1,N/A,N/A,N/A
+12,Brandon Ingram,FG_MISS,None,10:29,3,Lakers,Thunder,59 - 61,1,25,3,Jumper
+13,Russell Westbrook,DEFENSIVE_REBOUND,None,10:26,3,Thunder,Lakers,59 - 61,0,N/A,N/A,N/A
+14,Paul George,FG_MISS,JaVale McGee,10:21,3,Lakers,Thunder,59 - 61,0,2,3,Jumper
+15,Josh Hart,DEFENSIVE_REBOUND,None,10:18,3,Lakers,Thunder,59 - 61,1,N/A,N/A,N/A
+16,Brandon Ingram,FG_MISS,None,10:10,3,Lakers,Thunder,59 - 61,1,0,2,Layup
+17,Brandon Ingram,OFFENSIVE_REBOUND,None,10:07,3,Lakers,Thunder,59 - 61,1,N/A,N/A,N/A
+18,Kentavious Caldwell-Pope,FG_MISS,None,10:05,3,Lakers,Thunder,59 - 61,1,12,3,Jumper
+19,Team,OFFENSIVE_REBOUND,None,10:04,3,Lakers,Thunder,59 - 61,1,N/A,N/A,N/A
+20,Steven Adams,FOUL_ON_FLOOR,None,10:04,3,Thunder,Lakers,59 - 61,0,N/A,N/A,N/A
+21,JaVale McGee,FOUL_ON_FLOOR,None,9:58,3,Lakers,Thunder,59 - 61,1,N/A,N/A,N/A
+22,JaVale McGee,TURNOVER,None,9:58,3,Lakers,Thunder,59 - 61,1,N/A,N/A,N/A
+23,Russell Westbrook,FG_MISS,None,9:43,3,Thunder,Lakers,59 - 61,0,25,3,Jumper
+24,Josh Hart,DEFENSIVE_REBOUND,None,9:39,3,Lakers,Thunder,59 - 61,1,N/A,N/A,N/A
+25,Lonzo Ball,FG_MISS,None,9:27,3,Lakers,Thunder,59 - 61,1,0,2,Layup
+26,JaVale McGee,OFFENSIVE_REBOUND,None,9:22,3,Lakers,Thunder,59 - 61,1,N/A,N/A,N/A
+27,JaVale McGee,FG_MISS,None,9:22,3,Lakers,Thunder,59 - 61,1, ,3,Jumper
+28,Russell Westbrook,DEFENSIVE_REBOUND,None,9:21,3,Thunder,Lakers,59 - 61,0,N/A,N/A,N/A
+29,Lonzo Ball,FOUL_ON_FLOOR,None,9:21,3,Lakers,Thunder,59 - 61,1,N/A,N/A,N/A
+30,Russell Westbrook,FT_MISS,None,9:21,3,Thunder,Lakers,59 - 61,0,N/A,1,N/A
+31,Team,OFFENSIVE_REBOUND,None,9:21,3,Thunder,Lakers,59 - 61,0,N/A,N/A,N/A
+32,Russell Westbrook,FT,None,9:21,3,Thunder,Lakers,60 - 61,0,N/A,1,N/A
+33,Brandon Ingram,FG_UNASSISTED,None,9:08,3,Lakers,Thunder,60 - 63,1,17,3,Jumper
+34,Paul George,FG_UNASSISTED,None,8:52,3,Thunder,Lakers,62 - 63,0, ,3,Jumper
+35,JaVale McGee,FG_UNASSISTED,None,8:23,3,Lakers,Thunder,62 - 65,1,2,3,Jumper
+36,Paul George,FG_UNASSISTED,None,8:18,3,Thunder,Lakers,65 - 65,0,28,3,Jumper
+37,Jerami Grant,FOUL_ON_FLOOR,None,7:54,3,Thunder,Lakers,65 - 65,0,N/A,N/A,N/A
+38,JaVale McGee,FG_MISS,None,7:40,3,Lakers,Thunder,65 - 65,1,5,3,Jumper
+39,Russell Westbrook,DEFENSIVE_REBOUND,None,7:38,3,Thunder,Lakers,65 - 65,0,N/A,N/A,N/A
+40,Russell Westbrook,TURNOVER,Kentavious Caldwell-Pope,7:28,3,Thunder,Lakers,65 - 65,0,N/A,N/A,N/A
+41,Josh Hart,FG_MISS,None,7:23,3,Lakers,Thunder,65 - 65,1,25,3,Jumper
+42,Jerami Grant,DEFENSIVE_REBOUND,None,7:19,3,Thunder,Lakers,65 - 65,0,N/A,N/A,N/A
+43,Paul George,FG_MISS,None,7:12,3,Thunder,Lakers,65 - 65,0,25,3,Jumper
+44,Team,OFFENSIVE_REBOUND,None,7:10,3,Thunder,Lakers,65 - 65,0,N/A,N/A,N/A
+45,Ivica Zubac,SUBSTITUTION,McGee JaVale,7:10,3,Lakers,Thunder,65 - 65,1,N/A,N/A,N/A
+46,Team,Unknown,None,7:10,3,Thunder,Lakers,65 - 65,0,N/A,N/A,N/A
+47,Ivica Zubac,FOUL_ON_FLOOR,None,7:09,3,Lakers,Thunder,65 - 65,1,N/A,N/A,N/A
+48,Terrance Ferguson,FG_MISS,None,7:00,3,Thunder,Lakers,65 - 65,0,0,2,Layup
+49,Brandon Ingram,DEFENSIVE_REBOUND,None,6:58,3,Lakers,Thunder,65 - 65,1,N/A,N/A,N/A
+50,Ivica Zubac,FG_ASSISTED,Brandon Ingram,6:55,3,Lakers,Thunder,65 - 67,1,0,2,Dunk
+51,Paul George,FG_MISS,Ivica Zubac,6:40,3,Lakers,Thunder,65 - 67,0,0,2,Layup
+52,Paul George,OFFENSIVE_REBOUND,None,6:35,3,Thunder,Lakers,65 - 67,0,N/A,N/A,N/A
+53,Paul George,FG_UNASSISTED,None,6:35,3,Thunder,Lakers,67 - 67,0, ,3,Jumper
+54,Brandon Ingram,FG_ASSISTED,Josh Hart,6:23,3,Lakers,Thunder,67 - 69,1, ,3,Jumper
+55,Josh Hart,FOUL_ON_FLOOR,None,6:14,3,Lakers,Thunder,67 - 69,1,N/A,N/A,N/A
+56,Paul George,FT,None,6:14,3,Thunder,Lakers,68 - 69,0,N/A,1,N/A
+57,Dennis Schroder,SUBSTITUTION,Ferguson Terrance,6:14,3,Thunder,Lakers,68 - 69,0,N/A,N/A,N/A
+58,Paul George,FT,None,6:14,3,Thunder,Lakers,69 - 69,0,N/A,1,N/A
+59,Brandon Ingram,FG_UNASSISTED,None,6:01,3,Lakers,Thunder,69 - 71,1,14,3,Jumper
+60,Russell Westbrook,FG_MISS,None,5:51,3,Thunder,Lakers,69 - 71,0,17,3,Jumper
+61,Brandon Ingram,DEFENSIVE_REBOUND,None,5:45,3,Lakers,Thunder,69 - 71,1,N/A,N/A,N/A
+62,Kentavious Caldwell-Pope,FG_ASSISTED,Josh Hart,5:40,3,Lakers,Thunder,69 - 74,1,26,3,Jumper
+63,Paul George,FG_UNASSISTED,None,5:26,3,Thunder,Lakers,71 - 74,0,0,2,Layup
+64,Kentavious Caldwell-Pope,FG_MISS,None,5:02,3,Lakers,Thunder,71 - 74,1,0,2,Layup
+65,Paul George,DEFENSIVE_REBOUND,None,4:59,3,Thunder,Lakers,71 - 74,0,N/A,N/A,N/A
+66,Russell Westbrook,FG_MISS,None,4:48,3,Thunder,Lakers,71 - 74,0,22,3,Jumper
+67,Steven Adams,OFFENSIVE_REBOUND,None,4:46,3,Thunder,Lakers,71 - 74,0,N/A,N/A,N/A
+68,Brandon Ingram,FOUL_ON_FLOOR,None,4:46,3,Lakers,Thunder,71 - 74,1,N/A,N/A,N/A
+69,Steven Adams,TURNOVER,Lonzo Ball,4:43,3,Thunder,Lakers,71 - 74,0,N/A,N/A,N/A
+70,Russell Westbrook,FOUL_ON_FLOOR,None,4:43,3,Thunder,Lakers,71 - 74,0,N/A,N/A,N/A
+71,Ivica Zubac,FG_ASSISTED,Kentavious Caldwell-Pope,4:32,3,Lakers,Thunder,71 - 76,1,0,2,Dunk
+72,Jerami Grant,FG_ASSISTED,Dennis Schroder,4:09,3,Thunder,Lakers,73 - 76,0, ,3,Jumper
+73,Kentavious Caldwell-Pope,FG_MISS,None,3:52,3,Lakers,Thunder,73 - 76,1,25,3,Jumper
+74,Dennis Schroder,DEFENSIVE_REBOUND,None,3:51,3,Thunder,Lakers,73 - 76,0,N/A,N/A,N/A
+75,Lonzo Ball,FOUL_ON_FLOOR,None,3:47,3,Lakers,Thunder,73 - 76,1,N/A,N/A,N/A
+76,Dennis Schroder,FT_MISS,None,3:47,3,Thunder,Lakers,73 - 76,0,N/A,1,N/A
+77,Team,OFFENSIVE_REBOUND,None,3:47,3,Thunder,Lakers,73 - 76,0,N/A,N/A,N/A
+78,Sviatoslav Mykhailiuk,SUBSTITUTION,Caldwell-Pope Kentavious,3:47,3,Lakers,Thunder,73 - 76,1,N/A,N/A,N/A
+79,Dennis Schroder,FT_MISS,None,3:47,3,Thunder,Lakers,73 - 76,0,N/A,1,N/A
+80,Dennis Schroder,OFFENSIVE_REBOUND,None,3:42,3,Thunder,Lakers,73 - 76,0,N/A,N/A,N/A
+81,Russell Westbrook,FG_MISS,None,3:36,3,Thunder,Lakers,73 - 76,0,17,3,Jumper
+82,Josh Hart,DEFENSIVE_REBOUND,None,3:33,3,Lakers,Thunder,73 - 76,1,N/A,N/A,N/A
+83,Lonzo Ball,TURNOVER,Paul George,3:26,3,Lakers,Thunder,73 - 76,1,N/A,N/A,N/A
+84,Russell Westbrook's,FG_MISS,Josh Hart,3:22,3,Lakers,Thunder,73 - 76,0, ,3,Jumper
+85,Sviatoslav Mykhailiuk,DEFENSIVE_REBOUND,None,3:19,3,Lakers,Thunder,73 - 76,1,N/A,N/A,N/A
+86,Brandon Ingram,FG_MISS,None,3:15,3,Lakers,Thunder,73 - 76,1,15,3,Jumper
+87,Dennis Schroder,DEFENSIVE_REBOUND,None,3:10,3,Thunder,Lakers,73 - 76,0,N/A,N/A,N/A
+88,Dennis Schroder,FG_MISS,None,2:58,3,Thunder,Lakers,73 - 76,0,0,2,Layup
+89,Paul George,OFFENSIVE_REBOUND,None,2:54,3,Thunder,Lakers,73 - 76,0,N/A,N/A,N/A
+90,Paul George,FG_MISS,None,2:44,3,Thunder,Lakers,73 - 76,0,10,3,Jumper
+91,Lonzo Ball,DEFENSIVE_REBOUND,None,2:42,3,Lakers,Thunder,73 - 76,1,N/A,N/A,N/A
+92,Josh Hart,FG_MISS,Steven Adams,2:25,3,Thunder,Lakers,73 - 76,1,2,3,Jumper
+93,Steven Adams,DEFENSIVE_REBOUND,None,2:24,3,Thunder,Lakers,73 - 76,0,N/A,N/A,N/A
+94,Ivica Zubac,FOUL_ON_FLOOR,None,2:24,3,Lakers,Thunder,73 - 76,1,N/A,N/A,N/A
+95,Team,Unknown,None,2:24,3,Lakers,Thunder,73 - 76,1,N/A,N/A,N/A
+96,Lance Stephenson,SUBSTITUTION,Ingram Brandon,2:24,3,Lakers,Thunder,73 - 76,1,N/A,N/A,N/A
+97,Steven Adams,FT,None,2:24,3,Thunder,Lakers,74 - 76,0,N/A,1,N/A
+98,Steven Adams,FT_MISS,None,2:24,3,Thunder,Lakers,74 - 76,0,N/A,1,N/A
+99,Ivica Zubac,DEFENSIVE_REBOUND,None,2:23,3,Lakers,Thunder,74 - 76,1,N/A,N/A,N/A
+100,Ivica Zubac,TURNOVER,Paul George,2:23,3,Lakers,Thunder,74 - 76,1,N/A,N/A,N/A
+101,Josh Hart,FOUL_ON_FLOOR,None,2:21,3,Lakers,Thunder,74 - 76,1,N/A,N/A,N/A
+102,Jerami Grant,FT,None,2:21,3,Thunder,Lakers,75 - 76,0,N/A,1,N/A
+103,Jerami Grant,FT,None,2:21,3,Thunder,Lakers,76 - 76,0,N/A,1,N/A
+104,Sviatoslav Mykhailiuk,FG_ASSISTED,Ivica Zubac,2:09,3,Lakers,Thunder,76 - 78,1,18,3,Jumper
+105,Jerami Grant,FG_MISS,None,1:57,3,Thunder,Lakers,76 - 78,0,24,3,Jumper
+106,Steven Adams,OFFENSIVE_REBOUND,None,1:55,3,Thunder,Lakers,76 - 78,0,N/A,N/A,N/A
+107,Steven Adams,FG_MISS,None,1:53,3,Thunder,Lakers,76 - 78,0,3,3,Jumper
+108,Josh Hart,DEFENSIVE_REBOUND,None,1:53,3,Lakers,Thunder,76 - 78,1,N/A,N/A,N/A
+109,Sviatoslav Mykhailiuk,FG_ASSISTED,Lance Stephenson,1:37,3,Lakers,Thunder,76 - 80,1,3,3,Jumper
+110,Lance Stephenson,FOUL_ON_FLOOR,None,1:33,3,Lakers,Thunder,76 - 80,1,N/A,N/A,N/A
+111,Russell Westbrook,FT,None,1:33,3,Thunder,Lakers,77 - 80,0,N/A,1,N/A
+112,Russell Westbrook,FT,None,1:33,3,Thunder,Lakers,78 - 80,0,N/A,1,N/A
+113,Ivica Zubac,FG_ASSISTED,Lonzo Ball,1:14,3,Lakers,Thunder,78 - 82,1,0,2,Layup
+114,Steven Adams,FG_MISS,None,58.4,3,Thunder,Lakers,78 - 82,0,7,3,Jumper
+115,Josh Hart,DEFENSIVE_REBOUND,None,57.1,3,Lakers,Thunder,78 - 82,1,N/A,N/A,N/A
+116,Jerami Grant,FOUL_ON_FLOOR,None,41.8,3,Thunder,Lakers,78 - 82,0,N/A,N/A,N/A
+117,Abdel Nader,SUBSTITUTION,Westbrook Russell,41.8,3,Thunder,Lakers,78 - 82,0,N/A,N/A,N/A
+118,Sviatoslav Mykhailiuk,FG_MISS,None,34.2,3,Lakers,Thunder,78 - 82,1,14,3,Jumper
+119,Dennis Schroder,DEFENSIVE_REBOUND,None,31.6,3,Thunder,Lakers,78 - 82,0,N/A,N/A,N/A
+120,Paul George,FG_MISS,None,28.2,3,Thunder,Lakers,78 - 82,0,28,3,Jumper
+121,Josh Hart,DEFENSIVE_REBOUND,None,24.1,3,Lakers,Thunder,78 - 82,1,N/A,N/A,N/A
+122,Lonzo Ball,TURNOVER,None,5.3,3,Lakers,Thunder,78 - 82,1,N/A,N/A,N/A
+123,Dennis Schroder,TURNOVER,Josh Hart,0.9,3,Thunder,Lakers,78 - 82,0,N/A,N/A,N/A
+124,End of,Unknown,None,0.0,3,Lakers,Thunder,78 - 82,1,N/A,N/A,N/A
+0,Kentavious Caldwell-Pope,SUBSTITUTION,Ball Lonzo,12:00,4,Lakers,Thunder,78 - 82,1,N/A,N/A,N/A
+1,Brandon Ingram,SUBSTITUTION,Hart Josh,12:00,4,Lakers,Thunder,78 - 82,1,N/A,N/A,N/A
+2,Hamidou Diallo,SUBSTITUTION,Grant Jerami,12:00,4,Thunder,Lakers,78 - 82,0,N/A,N/A,N/A
+3,Nerlens Noel,SUBSTITUTION,Adams Steven,12:00,4,Thunder,Lakers,78 - 82,0,N/A,N/A,N/A
+4,Patrick Patterson,SUBSTITUTION,George Paul,12:00,4,Thunder,Lakers,78 - 82,0,N/A,N/A,N/A
+5,Nerlens Noel,FG_ASSISTED,Abdel Nader,11:49,4,Thunder,Lakers,80 - 82,0,0,2,Layup
+6,Lance Stephenson,FG_MISS,None,11:33,4,Lakers,Thunder,80 - 82,1,0,2,Layup
+7,Ivica Zubac,OFFENSIVE_REBOUND,None,11:29,4,Lakers,Thunder,80 - 82,1,N/A,N/A,N/A
+8,Ivica Zubac,FG_UNASSISTED,None,11:29,4,Lakers,Thunder,80 - 84,1, ,3,Jumper
+9,Dennis Schroder,FG_MISS,Brandon Ingram,11:22,4,Lakers,Thunder,80 - 84,0,14,3,Jumper
+10,Lance Stephenson,DEFENSIVE_REBOUND,None,11:19,4,Lakers,Thunder,80 - 84,1,N/A,N/A,N/A
+11,Abdel Nader,FOUL_ON_FLOOR,None,11:19,4,Thunder,Lakers,80 - 84,0,N/A,N/A,N/A
+12,Sviatoslav Mykhailiuk,FT,None,11:19,4,Lakers,Thunder,80 - 85,1,N/A,1,N/A
+13,Sviatoslav Mykhailiuk,FT_MISS,None,11:19,4,Lakers,Thunder,80 - 85,1,N/A,1,N/A
+14,Nerlens Noel,DEFENSIVE_REBOUND,None,11:16,4,Thunder,Lakers,80 - 85,0,N/A,N/A,N/A
+15,Brandon Ingram,FOUL_ON_FLOOR,None,11:04,4,Lakers,Thunder,80 - 85,1,N/A,N/A,N/A
+16,Nerlens Noel,FT_MISS,None,11:04,4,Thunder,Lakers,80 - 85,0,N/A,1,N/A
+17,Team,OFFENSIVE_REBOUND,None,11:04,4,Thunder,Lakers,80 - 85,0,N/A,N/A,N/A
+18,Nerlens Noel,FT,None,11:04,4,Thunder,Lakers,81 - 85,0,N/A,1,N/A
+19,Brandon Ingram,TURNOVER,None,10:49,4,Lakers,Thunder,81 - 85,1,N/A,N/A,N/A
+20,Dennis Schroder,FG_MISS,None,10:39,4,Thunder,Lakers,81 - 85,0,0,2,Layup
+21,Nerlens Noel,OFFENSIVE_REBOUND,None,10:35,4,Thunder,Lakers,81 - 85,0,N/A,N/A,N/A
+22,Nerlens Noel,FG_MISS,None,10:35,4,Thunder,Lakers,81 - 85,0, ,3,Jumper
+23,Brandon Ingram,DEFENSIVE_REBOUND,None,10:34,4,Lakers,Thunder,81 - 85,1,N/A,N/A,N/A
+24,Kentavious Caldwell-Pope,FG_MISS,None,10:32,4,Lakers,Thunder,81 - 85,1,25,3,Jumper
+25,Abdel Nader,DEFENSIVE_REBOUND,None,10:30,4,Thunder,Lakers,81 - 85,0,N/A,N/A,N/A
+26,Abdel Nader,FG_UNASSISTED,None,10:25,4,Thunder,Lakers,83 - 85,0, ,3,Jumper
+27,Lance Stephenson,FG_MISS,None,10:12,4,Lakers,Thunder,83 - 85,1,25,3,Jumper
+28,Abdel Nader,DEFENSIVE_REBOUND,None,10:08,4,Thunder,Lakers,83 - 85,0,N/A,N/A,N/A
+29,Hamidou Diallo,FOUL_ON_FLOOR,None,10:02,4,Thunder,Lakers,83 - 85,0,N/A,N/A,N/A
+30,Hamidou Diallo,TURNOVER,None,10:02,4,Thunder,Lakers,83 - 85,0,N/A,N/A,N/A
+31,Sviatoslav Mykhailiuk,TURNOVER,None,9:44,4,Lakers,Thunder,83 - 85,1,N/A,N/A,N/A
+32,Abdel Nader,FG_ASSISTED,Dennis Schroder,9:35,4,Thunder,Lakers,86 - 85,0,27,3,Jumper
+33,Brandon Ingram,FG_MISS,None,9:12,4,Lakers,Thunder,86 - 85,1,18,3,Jumper
+34,Dennis Schroder,DEFENSIVE_REBOUND,None,9:10,4,Thunder,Lakers,86 - 85,0,N/A,N/A,N/A
+35,Dennis Schroder,FG_MISS,None,8:55,4,Thunder,Lakers,86 - 85,0,17,3,Jumper
+36,Nerlens Noel,OFFENSIVE_REBOUND,None,8:51,4,Thunder,Lakers,86 - 85,0,N/A,N/A,N/A
+37,Nerlens Noel,FG_UNASSISTED,None,8:49,4,Thunder,Lakers,88 - 85,0,9,3,Jumper
+38,Team,Unknown,None,8:49,4,Lakers,Thunder,88 - 85,1,N/A,N/A,N/A
+39,JaVale McGee,SUBSTITUTION,Stephenson Lance,8:49,4,Lakers,Thunder,88 - 85,1,N/A,N/A,N/A
+40,Josh Hart,SUBSTITUTION,Mykhailiuk Sviatoslav,8:49,4,Lakers,Thunder,88 - 85,1,N/A,N/A,N/A
+41,Lonzo Ball,SUBSTITUTION,Zubac Ivica,8:49,4,Lakers,Thunder,88 - 85,1,N/A,N/A,N/A
+42,Abdel Nader,FOUL_ON_FLOOR,None,8:41,4,Thunder,Lakers,88 - 85,0,N/A,N/A,N/A
+43,Lonzo Ball,FT_MISS,None,8:41,4,Lakers,Thunder,88 - 85,1,N/A,1,N/A
+44,Team,OFFENSIVE_REBOUND,None,8:41,4,Lakers,Thunder,88 - 85,1,N/A,N/A,N/A
+45,Lonzo Ball,FT_MISS,None,8:41,4,Lakers,Thunder,88 - 85,1,N/A,1,N/A
+46,Patrick Patterson,DEFENSIVE_REBOUND,None,8:39,4,Thunder,Lakers,88 - 85,0,N/A,N/A,N/A
+47,Dennis Schroder,FG_UNASSISTED,None,8:28,4,Thunder,Lakers,90 - 85,0, ,3,Jumper
+48,JaVale McGee,FG_MISS,None,8:04,4,Lakers,Thunder,90 - 85,1,8,3,Jumper
+49,Hamidou Diallo,DEFENSIVE_REBOUND,None,8:02,4,Thunder,Lakers,90 - 85,0,N/A,N/A,N/A
+50,Dennis Schroder,TURNOVER,None,8:01,4,Thunder,Lakers,90 - 85,0,N/A,N/A,N/A
+51,Brandon Ingram,FG_MISS,None,7:44,4,Lakers,Thunder,90 - 85,1,16,3,Jumper
+52,Abdel Nader,DEFENSIVE_REBOUND,None,7:42,4,Thunder,Lakers,90 - 85,0,N/A,N/A,N/A
+53,Hamidou Diallo,FG_MISS,None,7:26,4,Thunder,Lakers,90 - 85,0,0,2,Layup
+54,Hamidou Diallo,OFFENSIVE_REBOUND,None,7:23,4,Thunder,Lakers,90 - 85,0,N/A,N/A,N/A
+55,Hamidou Diallo,FG_MISS,None,7:23,4,Thunder,Lakers,90 - 85,0, ,3,Jumper
+56,Patrick Patterson,OFFENSIVE_REBOUND,None,7:22,4,Thunder,Lakers,90 - 85,0,N/A,N/A,N/A
+57,Patrick Patterson,FG_MISS,None,7:17,4,Thunder,Lakers,90 - 85,0, ,3,Jumper
+58,Patrick Patterson,OFFENSIVE_REBOUND,None,7:15,4,Thunder,Lakers,90 - 85,0,N/A,N/A,N/A
+59,Patrick Patterson,FG_MISS,None,7:14,4,Thunder,Lakers,90 - 85,0, ,3,Jumper
+60,Brandon Ingram,DEFENSIVE_REBOUND,None,7:14,4,Lakers,Thunder,90 - 85,1,N/A,N/A,N/A
+61,Hamidou Diallo,FOUL_ON_FLOOR,None,7:14,4,Thunder,Lakers,90 - 85,0,N/A,N/A,N/A
+62,Patrick Patterson,FOUL_ON_FLOOR,None,7:06,4,Thunder,Lakers,90 - 85,0,N/A,N/A,N/A
+63,Josh Hart,FG_MISS,None,6:59,4,Lakers,Thunder,90 - 85,1,26,3,Jumper
+64,Dennis Schroder,DEFENSIVE_REBOUND,None,6:55,4,Thunder,Lakers,90 - 85,0,N/A,N/A,N/A
+65,Dennis Schroder,FG_MISS,None,6:48,4,Thunder,Lakers,90 - 85,0, ,3,Jumper
+66,Team,DEFENSIVE_REBOUND,None,6:48,4,Lakers,Thunder,90 - 85,1,N/A,N/A,N/A
+67,Brandon Ingram,TURNOVER,Nerlens Noel,6:33,4,Lakers,Thunder,90 - 85,1,N/A,N/A,N/A
+68,Lonzo Ball,FOUL_ON_FLOOR,None,6:31,4,Lakers,Thunder,90 - 85,1,N/A,N/A,N/A
+69,Dennis Schroder,FT_MISS,None,6:31,4,Thunder,Lakers,90 - 85,0,N/A,1,N/A
+70,Team,OFFENSIVE_REBOUND,None,6:31,4,Thunder,Lakers,90 - 85,0,N/A,N/A,N/A
+71,Russell Westbrook,SUBSTITUTION,Diallo Hamidou,6:31,4,Thunder,Lakers,90 - 85,0,N/A,N/A,N/A
+72,Dennis Schroder,FT,None,6:31,4,Thunder,Lakers,91 - 85,0,N/A,1,N/A
+73,Russell Westbrook,FOUL_ON_FLOOR,None,6:12,4,Thunder,Lakers,91 - 85,0,N/A,N/A,N/A
+74,Lonzo Ball,FT_MISS,None,6:12,4,Lakers,Thunder,91 - 85,1,N/A,1,N/A
+75,Team,OFFENSIVE_REBOUND,None,6:12,4,Lakers,Thunder,91 - 85,1,N/A,N/A,N/A
+76,Lonzo Ball,FT,None,6:12,4,Lakers,Thunder,91 - 86,1,N/A,1,N/A
+77,Patrick Patterson,FG_MISS,None,5:57,4,Thunder,Lakers,91 - 86,0,25,3,Jumper
+78,JaVale McGee,DEFENSIVE_REBOUND,None,5:54,4,Lakers,Thunder,91 - 86,1,N/A,N/A,N/A
+79,JaVale McGee,FG_MISS,Nerlens Noel,5:34,4,Thunder,Lakers,91 - 86,1,4,3,Jumper
+80,Nerlens Noel,DEFENSIVE_REBOUND,None,5:31,4,Thunder,Lakers,91 - 86,0,N/A,N/A,N/A
+81,Dennis Schroder,FG_MISS,None,5:21,4,Thunder,Lakers,91 - 86,0,16,3,Jumper
+82,Josh Hart,DEFENSIVE_REBOUND,None,5:18,4,Lakers,Thunder,91 - 86,1,N/A,N/A,N/A
+83,Josh Hart,FG_UNASSISTED,None,5:13,4,Lakers,Thunder,91 - 88,1, ,3,Jumper
+84,Team,Unknown,None,5:13,4,Thunder,Lakers,91 - 88,0,N/A,N/A,N/A
+85,Tyson Chandler,SUBSTITUTION,McGee JaVale,5:13,4,Lakers,Thunder,91 - 88,1,N/A,N/A,N/A
+86,Steven Adams,SUBSTITUTION,Noel Nerlens,5:13,4,Thunder,Lakers,91 - 88,0,N/A,N/A,N/A
+87,Jerami Grant,SUBSTITUTION,Nader Abdel,5:13,4,Thunder,Lakers,91 - 88,0,N/A,N/A,N/A
+88,Paul George,SUBSTITUTION,Schroder Dennis,5:13,4,Thunder,Lakers,91 - 88,0,N/A,N/A,N/A
+89,Terrance Ferguson,SUBSTITUTION,Patterson Patrick,5:13,4,Thunder,Lakers,91 - 88,0,N/A,N/A,N/A
+90,Jerami Grant,FG_MISS,None,5:02,4,Thunder,Lakers,91 - 88,0,4,3,Jumper
+91,Steven Adams,OFFENSIVE_REBOUND,None,4:56,4,Thunder,Lakers,91 - 88,0,N/A,N/A,N/A
+92,Terrance Ferguson,FG_MISS,None,4:53,4,Thunder,Lakers,91 - 88,0,25,3,Jumper
+93,Russell Westbrook,OFFENSIVE_REBOUND,None,4:51,4,Thunder,Lakers,91 - 88,0,N/A,N/A,N/A
+94,Josh Hart,FOUL_ON_FLOOR,None,4:51,4,Lakers,Thunder,91 - 88,1,N/A,N/A,N/A
+95,Terrance Ferguson,FG_MISS,None,4:43,4,Thunder,Lakers,91 - 88,0,25,3,Jumper
+96,Josh Hart,DEFENSIVE_REBOUND,None,4:39,4,Lakers,Thunder,91 - 88,1,N/A,N/A,N/A
+97,Terrance Ferguson,FOUL_ON_FLOOR,None,4:36,4,Thunder,Lakers,91 - 88,0,N/A,N/A,N/A
+98,Josh Hart,FT,None,4:36,4,Lakers,Thunder,91 - 89,1,N/A,1,N/A
+99,Josh Hart,FT_MISS,None,4:36,4,Lakers,Thunder,91 - 89,1,N/A,1,N/A
+100,Russell Westbrook,DEFENSIVE_REBOUND,None,4:33,4,Thunder,Lakers,91 - 89,0,N/A,N/A,N/A
+101,Paul George,FG_UNASSISTED,None,4:21,4,Thunder,Lakers,93 - 89,0,20,3,Jumper
+102,Brandon Ingram,FG_MISS,None,3:58,4,Lakers,Thunder,93 - 89,1,23,3,Jumper
+103,Jerami Grant,DEFENSIVE_REBOUND,None,3:54,4,Thunder,Lakers,93 - 89,0,N/A,N/A,N/A
+104,Paul George,FG_UNASSISTED,None,3:47,4,Thunder,Lakers,95 - 89,0,0,2,Layup
+105,Team,Unknown,None,3:46,4,Lakers,Thunder,95 - 89,1,N/A,N/A,N/A
+106,Lance Stephenson,SUBSTITUTION,Ball Lonzo,3:46,4,Lakers,Thunder,95 - 89,1,N/A,N/A,N/A
+107,Josh Hart,FG_ASSISTED,Tyson Chandler,3:36,4,Lakers,Thunder,95 - 92,1,26,3,Jumper
+108,Josh Hart,FOUL_ON_FLOOR,None,3:23,4,Lakers,Thunder,95 - 92,1,N/A,N/A,N/A
+109,Paul George,FT_MISS,None,3:23,4,Thunder,Lakers,95 - 92,0,N/A,1,N/A
+110,Team,OFFENSIVE_REBOUND,None,3:23,4,Thunder,Lakers,95 - 92,0,N/A,N/A,N/A
+111,Paul George,FT,None,3:23,4,Thunder,Lakers,96 - 92,0,N/A,1,N/A
+112,Brandon Ingram,FG_MISS,None,3:08,4,Lakers,Thunder,96 - 92,1,8,3,Jumper
+113,Russell Westbrook,DEFENSIVE_REBOUND,None,3:06,4,Thunder,Lakers,96 - 92,0,N/A,N/A,N/A
+114,Kentavious Caldwell-Pope,FOUL_ON_FLOOR,None,3:05,4,Lakers,Thunder,96 - 92,1,N/A,N/A,N/A
+115,Russell Westbrook,FT_MISS,None,3:05,4,Thunder,Lakers,96 - 92,0,N/A,1,N/A
+116,Team,OFFENSIVE_REBOUND,None,3:05,4,Thunder,Lakers,96 - 92,0,N/A,N/A,N/A
+117,Russell Westbrook,FT,None,3:05,4,Thunder,Lakers,97 - 92,0,N/A,1,N/A
+118,Kentavious Caldwell-Pope,FG_MISS,None,2:58,4,Lakers,Thunder,97 - 92,1,26,3,Jumper
+119,Paul George,DEFENSIVE_REBOUND,None,2:56,4,Thunder,Lakers,97 - 92,0,N/A,N/A,N/A
+120,Steven Adams,FG_ASSISTED,Paul George,2:47,4,Thunder,Lakers,99 - 92,0,0,2,Dunk
+121,Brandon Ingram,FG_MISS,None,2:22,4,Lakers,Thunder,99 - 92,1,8,3,Jumper
+122,Steven Adams,DEFENSIVE_REBOUND,None,2:21,4,Thunder,Lakers,99 - 92,0,N/A,N/A,N/A
+123,Tyson Chandler,FOUL_FLAGRANT_1,None,2:17,4,Lakers,Thunder,99 - 92,1,N/A,N/A,N/A
+124,Paul George,FT,None,2:17,4,Thunder,Lakers,100 - 92,0,N/A,1,N/A
+125,Paul George,FT,None,2:17,4,Thunder,Lakers,101 - 92,0,N/A,1,N/A
+126,Dennis Schroder,SUBSTITUTION,Ferguson Terrance,2:17,4,Thunder,Lakers,101 - 92,0,N/A,N/A,N/A
+127,Paul George,FG_ASSISTED,Russell Westbrook,2:11,4,Thunder,Lakers,103 - 92,0,0,2,Dunk
+128,Brandon Ingram,FG_MISS,Russell Westbrook,1:57,4,Thunder,Lakers,103 - 92,1,0,2,Layup
+129,Jerami Grant,DEFENSIVE_REBOUND,None,1:55,4,Thunder,Lakers,103 - 92,0,N/A,N/A,N/A
+130,Paul George,FG_MISS,None,1:50,4,Thunder,Lakers,103 - 92,0, ,3,Jumper
+131,Kentavious Caldwell-Pope,DEFENSIVE_REBOUND,None,1:48,4,Lakers,Thunder,103 - 92,1,N/A,N/A,N/A
+132,Russell Westbrook,FOUL_ON_FLOOR,None,1:43,4,Thunder,Lakers,103 - 92,0,N/A,N/A,N/A
+133,Kentavious Caldwell-Pope,FT_MISS,None,1:43,4,Lakers,Thunder,103 - 92,1,N/A,1,N/A
+134,Team,OFFENSIVE_REBOUND,None,1:43,4,Lakers,Thunder,103 - 92,1,N/A,N/A,N/A
+135,Kentavious Caldwell-Pope,FT,None,1:43,4,Lakers,Thunder,103 - 93,1,N/A,1,N/A
+136,Russell Westbrook,TURNOVER,Lance Stephenson,1:29,4,Thunder,Lakers,103 - 93,0,N/A,N/A,N/A
+137,Josh Hart,FG_MISS,Russell Westbrook,1:27,4,Thunder,Lakers,103 - 93,1,1,3,Jumper
+138,Team,OFFENSIVE_REBOUND,None,1:27,4,Lakers,Thunder,103 - 93,1,N/A,N/A,N/A
+139,Josh Hart,FG_MISS,None,1:23,4,Lakers,Thunder,103 - 93,1, ,3,Jumper
+140,Russell Westbrook,DEFENSIVE_REBOUND,None,1:20,4,Thunder,Lakers,103 - 93,0,N/A,N/A,N/A
+141,Russell Westbrook,FG_UNASSISTED,None,1:03,4,Thunder,Lakers,105 - 93,0, ,3,Jumper
+142,Brandon Ingram,FG_UNASSISTED,None,46.9,4,Lakers,Thunder,105 - 95,1,18,3,Jumper
+143,Russell Westbrook,FG_MISS,None,32.6,4,Thunder,Lakers,105 - 95,0,27,3,Jumper
+144,Lance Stephenson,DEFENSIVE_REBOUND,None,29.6,4,Lakers,Thunder,105 - 95,1,N/A,N/A,N/A
+145,Kentavious Caldwell-Pope,FG_ASSISTED,Brandon Ingram,24.8,4,Lakers,Thunder,105 - 98,1,23,3,Jumper
+146,Jerami Grant,FG_ASSISTED,Paul George,16.5,4,Thunder,Lakers,107 - 98,0,0,2,Dunk
+147,Josh Hart,FG_UNASSISTED,None,2.4,4,Lakers,Thunder,107 - 100,1,9,3,Jumper
+148,End of,Unknown,None,0.0,4,Lakers,Thunder,107 - 100,1,N/A,N/A,N/A
+149,End of,Unknown,None,0.0,4,Lakers,Thunder,107 - 100,1,N/A,N/A,N/A

@@ -1,0 +1,520 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Anthony Davis,JUMP_BALL,None,12:00,1,Pelicans,Knicks,0 - 0,0,N/A,N/A,N/A
+1,Anthony Davis,FG_MISS,None,11:44,1,Pelicans,Knicks,0 - 0,0,10,2,Jumper
+2,Noah Vonleh,DEFENSIVE_REBOUND,None,11:38,1,Knicks,Pelicans,0 - 0,1,N/A,N/A,N/A
+3,Enes Kanter,FG_ASSISTED,Tim Hardaway,11:23,1,Knicks,Pelicans,0 - 2,1,-,2,Jumper
+4,Jrue Holiday,FG_UNASSISTED,None,11:14,1,Pelicans,Knicks,2 - 2,0,-,2,Jumper
+5,Noah Vonleh,FG_MISS,None,10:51,1,Knicks,Pelicans,2 - 2,1,-,2,Jumper
+6,Anthony Davis,DEFENSIVE_REBOUND,None,10:48,1,Pelicans,Knicks,2 - 2,0,N/A,N/A,N/A
+7,Jrue Holiday,FG_ASSISTED,Nikola Mirotic,10:38,1,Pelicans,Knicks,4 - 2,0,0,2,Dunk
+8,Tim Hardaway,FG_MISS,None,10:25,1,Knicks,Pelicans,4 - 2,1,23,2,Jumper
+9,Anthony Davis,DEFENSIVE_REBOUND,None,10:22,1,Pelicans,Knicks,4 - 2,0,N/A,N/A,N/A
+10,E'Twaun Moore,TURNOVER,Noah Vonleh,10:18,1,Pelicans,Knicks,4 - 2,0,N/A,N/A,N/A
+11,Mario Hezonja,FG_ASSISTED,Emmanuel Mudiay,10:13,1,Knicks,Pelicans,4 - 4,1,0,2,Layup
+12,Nikola Mirotic,FG_ASSISTED,Anthony Davis,10:00,1,Pelicans,Knicks,7 - 4,0,28,3,Jumper
+13,Noah Vonleh,FG_ASSISTED,Tim Hardaway,9:47,1,Knicks,Pelicans,7 - 7,1,-,3,Jumper
+14,Jrue Holiday,FG_ASSISTED,E'Twaun Moore,9:36,1,Pelicans,Knicks,9 - 7,0,-,2,Jumper
+15,Enes Kanter,FG_MISS,Nikola Mirotic,9:17,1,Pelicans,Knicks,9 - 7,1,6,2,Jumper
+16,Wesley Johnson,DEFENSIVE_REBOUND,None,9:13,1,Pelicans,Knicks,9 - 7,0,N/A,N/A,N/A
+17,Anthony Davis,FG_ASSISTED,Jrue Holiday,9:09,1,Pelicans,Knicks,11 - 7,0,0,2,Layup
+18,Tim Hardaway,FG_MISS,None,8:57,1,Knicks,Pelicans,11 - 7,1,-,2,Jumper
+19,Enes Kanter,OFFENSIVE_REBOUND,None,8:53,1,Knicks,Pelicans,11 - 7,1,N/A,N/A,N/A
+20,Enes Kanter,FG_UNASSISTED,None,8:53,1,Knicks,Pelicans,11 - 9,1,0,2,Dunk
+21,E'Twaun Moore,TURNOVER,None,8:47,1,Pelicans,Knicks,11 - 9,0,N/A,N/A,N/A
+22,Enes Kanter,TURNOVER,Jrue Holiday,8:27,1,Knicks,Pelicans,11 - 9,1,N/A,N/A,N/A
+23,Wesley Johnson,FG_MISS,None,8:21,1,Pelicans,Knicks,11 - 9,0,23,3,Jumper
+24,Jrue Holiday,OFFENSIVE_REBOUND,None,8:17,1,Pelicans,Knicks,11 - 9,0,N/A,N/A,N/A
+25,Jrue Holiday,FG_UNASSISTED,None,8:16,1,Pelicans,Knicks,13 - 9,0,0,2,Layup
+26,Noah Vonleh,FG_ASSISTED,Enes Kanter,8:02,1,Knicks,Pelicans,13 - 12,1, ,3,Jumper
+27,Jrue Holiday,TURNOVER,Emmanuel Mudiay,7:49,1,Pelicans,Knicks,13 - 12,0,N/A,N/A,N/A
+28,Emmanuel Mudiay,TURNOVER,None,7:46,1,Knicks,Pelicans,13 - 12,1,N/A,N/A,N/A
+29,Anthony Davis's,FG_MISS,Noah Vonleh,7:33,1,Knicks,Pelicans,13 - 12,0,0,2,Layup
+30,Emmanuel Mudiay,DEFENSIVE_REBOUND,None,7:31,1,Knicks,Pelicans,13 - 12,1,N/A,N/A,N/A
+31,Tim Hardaway,FG_MISS,Wesley Johnson,7:25,1,Pelicans,Knicks,13 - 12,1,27,3,Jumper
+32,Anthony Davis,DEFENSIVE_REBOUND,None,7:21,1,Pelicans,Knicks,13 - 12,0,N/A,N/A,N/A
+33,Anthony Davis,FG_ASSISTED,Jrue Holiday,7:18,1,Pelicans,Knicks,15 - 12,0,0,2,Layup
+34,Emmanuel Mudiay,FG_MISS,None,6:58,1,Knicks,Pelicans,15 - 12,1,26,3,Jumper
+35,Nikola Mirotic,DEFENSIVE_REBOUND,None,6:56,1,Pelicans,Knicks,15 - 12,0,N/A,N/A,N/A
+36,Jrue Holiday,FG_ASSISTED,Nikola Mirotic,6:47,1,Pelicans,Knicks,17 - 12,0,0,2,Layup
+37,Team,Unknown,None,6:41,1,Knicks,Pelicans,17 - 12,1,N/A,N/A,N/A
+38,Trey Burke,SUBSTITUTION,Hezonja Mario,6:41,1,Knicks,Pelicans,17 - 12,1,N/A,N/A,N/A
+39,Frank Ntilikina,SUBSTITUTION,Mudiay Emmanuel,6:41,1,Knicks,Pelicans,17 - 12,1,N/A,N/A,N/A
+40,Julius Randle,SUBSTITUTION,Mirotic Nikola,6:41,1,Pelicans,Knicks,17 - 12,0,N/A,N/A,N/A
+41,Noah Vonleh,FG_ASSISTED,Tim Hardaway,6:32,1,Knicks,Pelicans,17 - 15,1,23,3,Jumper
+42,Julius Randle,FG_MISS,None,6:23,1,Pelicans,Knicks,17 - 15,0, ,2,Jumper
+43,Enes Kanter,DEFENSIVE_REBOUND,None,6:23,1,Knicks,Pelicans,17 - 15,1,N/A,N/A,N/A
+44,Tim Hardaway,FG_MISS,None,6:04,1,Knicks,Pelicans,17 - 15,1,13,2,Jumper
+45,Anthony Davis,DEFENSIVE_REBOUND,None,6:01,1,Pelicans,Knicks,17 - 15,0,N/A,N/A,N/A
+46,Jrue Holiday,FG_MISS,None,5:43,1,Pelicans,Knicks,17 - 15,0,0,2,Layup
+47,Team,OFFENSIVE_REBOUND,None,5:41,1,Pelicans,Knicks,17 - 15,0,N/A,N/A,N/A
+48,Anthony Davis,FG_ASSISTED,Julius Randle,5:33,1,Pelicans,Knicks,20 - 15,0, ,2,Jumper
+49,Trey Burke,FG_MISS,None,5:21,1,Knicks,Pelicans,20 - 15,1,17,2,Jumper
+50,E'Twaun Moore,DEFENSIVE_REBOUND,None,5:18,1,Pelicans,Knicks,20 - 15,0,N/A,N/A,N/A
+51,Julius Randle,FOUL_ON_FLOOR,None,5:12,1,Pelicans,Knicks,20 - 15,0,N/A,N/A,N/A
+52,Julius Randle,TURNOVER,None,5:12,1,Pelicans,Knicks,20 - 15,0,N/A,N/A,N/A
+53,Mitchell Robinson,SUBSTITUTION,Kanter Enes,5:12,1,Knicks,Pelicans,20 - 15,1,N/A,N/A,N/A
+54,Ian Clark,SUBSTITUTION,Holiday Jrue,5:12,1,Pelicans,Knicks,20 - 15,0,N/A,N/A,N/A
+55,Tim Hardaway,FG_MISS,None,4:59,1,Knicks,Pelicans,20 - 15,1,19,2,Jumper
+56,E'Twaun Moore,DEFENSIVE_REBOUND,None,4:55,1,Pelicans,Knicks,20 - 15,0,N/A,N/A,N/A
+57,Mitchell Robinson,FOUL_ON_FLOOR,None,4:53,1,Knicks,Pelicans,20 - 15,1,N/A,N/A,N/A
+58,Anthony Davis,FG_ASSISTED,Julius Randle,4:44,1,Pelicans,Knicks,22 - 15,0,0,2,Layup
+59,Trey Burke,FG_UNASSISTED,None,4:32,1,Knicks,Pelicans,22 - 18,1,26,3,Jumper
+60,Trey Burke,FOUL_ON_FLOOR,None,4:23,1,Knicks,Pelicans,22 - 18,1,N/A,N/A,N/A
+61,Ian Clark,FT,None,4:23,1,Pelicans,Knicks,23 - 18,0,N/A,1,N/A
+62,Allonzo Trier,SUBSTITUTION,Hardaway Tim,4:23,1,Knicks,Pelicans,23 - 18,1,N/A,N/A,N/A
+63,Ian Clark,FT,None,4:23,1,Pelicans,Knicks,24 - 18,0,N/A,1,N/A
+64,Frank Ntilikina,FG_MISS,None,4:08,1,Knicks,Pelicans,24 - 18,1, ,2,Jumper
+65,Julius Randle,DEFENSIVE_REBOUND,None,4:05,1,Pelicans,Knicks,24 - 18,0,N/A,N/A,N/A
+66,Ian Clark,FG_ASSISTED,Anthony Davis,3:58,1,Pelicans,Knicks,27 - 18,0,25,3,Jumper
+67,Allonzo Trier,FG_UNASSISTED,None,3:32,1,Knicks,Pelicans,27 - 21,1,27,3,Jumper
+68,E'Twaun Moore,FG_MISS,Frank Ntilikina,3:24,1,Knicks,Pelicans,27 - 21,0,0,2,Layup
+69,E'Twaun Moore,OFFENSIVE_REBOUND,None,3:22,1,Pelicans,Knicks,27 - 21,0,N/A,N/A,N/A
+70,Anthony Davis,FG_MISS,Mitchell Robinson,3:17,1,Knicks,Pelicans,27 - 21,0,0,2,Layup
+71,Allonzo Trier,DEFENSIVE_REBOUND,None,3:14,1,Knicks,Pelicans,27 - 21,1,N/A,N/A,N/A
+72,Allonzo Trier,FG_MISS,None,3:12,1,Knicks,Pelicans,27 - 21,1,0,2,Layup
+73,Trey Burke,OFFENSIVE_REBOUND,None,3:08,1,Knicks,Pelicans,27 - 21,1,N/A,N/A,N/A
+74,Frank Ntilikina,FG_UNASSISTED,None,3:03,1,Knicks,Pelicans,27 - 24,1,26,3,Jumper
+75,Julius Randle,FG_MISS,None,2:47,1,Pelicans,Knicks,27 - 24,0,25,3,Jumper
+76,Noah Vonleh,DEFENSIVE_REBOUND,None,2:44,1,Knicks,Pelicans,27 - 24,1,N/A,N/A,N/A
+77,Mitchell Robinson,FG_ASSISTED,Trey Burke,2:37,1,Knicks,Pelicans,27 - 26,1,0,2,Dunk
+78,Team,Unknown,None,2:29,1,Pelicans,Knicks,27 - 26,0,N/A,N/A,N/A
+79,Darius Miller,SUBSTITUTION,Johnson Wesley,2:29,1,Pelicans,Knicks,27 - 26,0,N/A,N/A,N/A
+80,Nikola Mirotic,SUBSTITUTION,Davis Anthony,2:29,1,Pelicans,Knicks,27 - 26,0,N/A,N/A,N/A
+81,Frank Jackson,SUBSTITUTION,Moore E'Twaun,2:29,1,Pelicans,Knicks,27 - 26,0,N/A,N/A,N/A
+82,Nikola Mirotic,TURNOVER,None,2:20,1,Pelicans,Knicks,27 - 26,0,N/A,N/A,N/A
+83,Frank Ntilikina,TURNOVER,Ian Clark,2:11,1,Knicks,Pelicans,27 - 26,1,N/A,N/A,N/A
+84,Frank Ntilikina,FOUL_ON_FLOOR,None,2:10,1,Knicks,Pelicans,27 - 26,1,N/A,N/A,N/A
+85,Kevin Knox,SUBSTITUTION,Vonleh Noah,2:10,1,Knicks,Pelicans,27 - 26,1,N/A,N/A,N/A
+86,Julius Randle's,FG_MISS,Kevin Knox,1:49,1,Knicks,Pelicans,27 - 26,0,0,2,Layup
+87,Ian Clark,OFFENSIVE_REBOUND,None,1:46,1,Pelicans,Knicks,27 - 26,0,N/A,N/A,N/A
+88,Ian Clark,FG_UNASSISTED,None,1:44,1,Pelicans,Knicks,29 - 26,0, ,2,Jumper
+89,Frank Jackson,FOUL_ON_FLOOR,None,1:37,1,Pelicans,Knicks,29 - 26,0,N/A,N/A,N/A
+90,Trey Burke,FT_MISS,None,1:37,1,Knicks,Pelicans,29 - 26,1,N/A,1,N/A
+91,Team,OFFENSIVE_REBOUND,None,1:37,1,Knicks,Pelicans,29 - 26,1,N/A,N/A,N/A
+92,Trey Burke,FT,None,1:37,1,Knicks,Pelicans,29 - 27,1,N/A,1,N/A
+93,Ian Clark,FG_MISS,None,1:26,1,Pelicans,Knicks,29 - 27,0,18,2,Jumper
+94,Nikola Mirotic,OFFENSIVE_REBOUND,None,1:22,1,Pelicans,Knicks,29 - 27,0,N/A,N/A,N/A
+95,Nikola Mirotic,FG_MISS,None,1:21,1,Pelicans,Knicks,29 - 27,0,0,2,Layup
+96,Nikola Mirotic,OFFENSIVE_REBOUND,None,1:21,1,Pelicans,Knicks,29 - 27,0,N/A,N/A,N/A
+97,Nikola Mirotic,FG_MISS,None,1:20,1,Pelicans,Knicks,29 - 27,0, ,2,Jumper
+98,Nikola Mirotic,OFFENSIVE_REBOUND,None,1:20,1,Pelicans,Knicks,29 - 27,0,N/A,N/A,N/A
+99,Mitchell Robinson,FOUL_ON_FLOOR,None,1:20,1,Knicks,Pelicans,29 - 27,1,N/A,N/A,N/A
+100,Nikola Mirotic,FT,None,1:20,1,Pelicans,Knicks,30 - 27,0,N/A,1,N/A
+101,Nikola Mirotic,FT,None,1:20,1,Pelicans,Knicks,31 - 27,0,N/A,1,N/A
+102,Frank Jackson,FOUL_ON_FLOOR,None,1:11,1,Pelicans,Knicks,31 - 27,0,N/A,N/A,N/A
+103,Mitchell Robinson,FT_MISS,None,1:11,1,Knicks,Pelicans,31 - 27,1,N/A,1,N/A
+104,Team,OFFENSIVE_REBOUND,None,1:11,1,Knicks,Pelicans,31 - 27,1,N/A,N/A,N/A
+105,Mitchell Robinson,FT,None,1:11,1,Knicks,Pelicans,31 - 28,1,N/A,1,N/A
+106,Mitchell Robinson,FOUL_ON_FLOOR,None,1:04,1,Knicks,Pelicans,31 - 28,1,N/A,N/A,N/A
+107,Julius Randle,FT_MISS,None,1:04,1,Pelicans,Knicks,31 - 28,0,N/A,1,N/A
+108,Team,OFFENSIVE_REBOUND,None,1:04,1,Pelicans,Knicks,31 - 28,0,N/A,N/A,N/A
+109,Noah Vonleh,SUBSTITUTION,Robinson Mitchell,1:04,1,Knicks,Pelicans,31 - 28,1,N/A,N/A,N/A
+110,Julius Randle,FT,None,1:04,1,Pelicans,Knicks,32 - 28,0,N/A,1,N/A
+111,Trey Burke,FG_MISS,None,40.6,1,Knicks,Pelicans,32 - 28,1,30,3,Jumper
+112,Ian Clark,DEFENSIVE_REBOUND,None,36.9,1,Pelicans,Knicks,32 - 28,0,N/A,N/A,N/A
+113,Kevin Knox,FOUL_ON_FLOOR,None,29.7,1,Knicks,Pelicans,32 - 28,1,N/A,N/A,N/A
+114,Nikola Mirotic,FT,None,29.7,1,Pelicans,Knicks,33 - 28,0,N/A,1,N/A
+115,Nikola Mirotic,FT,None,29.7,1,Pelicans,Knicks,34 - 28,0,N/A,1,N/A
+116,Trey Burke,FG_MISS,None,7.9,1,Knicks,Pelicans,34 - 28,1,13,2,Jumper
+117,Noah Vonleh,OFFENSIVE_REBOUND,None,4.7,1,Knicks,Pelicans,34 - 28,1,N/A,N/A,N/A
+118,Noah Vonleh,FG_MISS,None,4.2,1,Knicks,Pelicans,34 - 28,1,0,2,Layup
+119,Julius Randle,DEFENSIVE_REBOUND,None,2.0,1,Pelicans,Knicks,34 - 28,0,N/A,N/A,N/A
+120,Frank Jackson,FG_MISS,None,0.0,1,Pelicans,Knicks,34 - 28,0,26,3,Jumper
+121,Team,OFFENSIVE_REBOUND,None,0.0,1,Pelicans,Knicks,34 - 28,0,N/A,N/A,N/A
+122,End of,Unknown,None,0.0,1,Knicks,Pelicans,34 - 28,1,N/A,N/A,N/A
+0,Jrue Holiday,SUBSTITUTION,Clark Ian,12:00,2,Pelicans,Knicks,34 - 28,0,N/A,N/A,N/A
+1,Kevin Knox,FG_MISS,None,11:44,2,Knicks,Pelicans,34 - 28,1,26,3,Jumper
+2,Jrue Holiday,DEFENSIVE_REBOUND,None,11:42,2,Pelicans,Knicks,34 - 28,0,N/A,N/A,N/A
+3,Kevin Knox,FOUL_ON_FLOOR,None,11:42,2,Knicks,Pelicans,34 - 28,1,N/A,N/A,N/A
+4,Jrue Holiday,FG_MISS,None,11:37,2,Pelicans,Knicks,34 - 28,0, ,2,Jumper
+5,Julius Randle,OFFENSIVE_REBOUND,None,11:34,2,Pelicans,Knicks,34 - 28,0,N/A,N/A,N/A
+6,Julius Randle's,FG_MISS,Frank Ntilikina,11:33,2,Knicks,Pelicans,34 - 28,0,0,2,Layup
+7,Allonzo Trier,DEFENSIVE_REBOUND,None,11:33,2,Knicks,Pelicans,34 - 28,1,N/A,N/A,N/A
+8,Noah Vonleh,FG_ASSISTED,Frank Ntilikina,11:22,2,Knicks,Pelicans,34 - 30,1,16,2,Jumper
+9,Kevin Knox,FOUL_ON_FLOOR,None,11:07,2,Knicks,Pelicans,34 - 30,1,N/A,N/A,N/A
+10,Mario Hezonja,SUBSTITUTION,Knox Kevin,11:07,2,Knicks,Pelicans,34 - 30,1,N/A,N/A,N/A
+11,Frank Jackson,FG_MISS,None,11:00,2,Pelicans,Knicks,34 - 30,0,0,2,Layup
+12,Noah Vonleh,DEFENSIVE_REBOUND,None,10:58,2,Knicks,Pelicans,34 - 30,1,N/A,N/A,N/A
+13,Noah Vonleh,FOUL_ON_FLOOR,None,10:43,2,Knicks,Pelicans,34 - 30,1,N/A,N/A,N/A
+14,Noah Vonleh,TURNOVER,None,10:43,2,Knicks,Pelicans,34 - 30,1,N/A,N/A,N/A
+15,Nikola Mirotic,FG_MISS,None,10:21,2,Pelicans,Knicks,34 - 30,0,29,3,Jumper
+16,Team,DEFENSIVE_REBOUND,None,10:21,2,Knicks,Pelicans,34 - 30,1,N/A,N/A,N/A
+17,Allonzo Trier,FG_ASSISTED,Noah Vonleh,10:01,2,Knicks,Pelicans,34 - 33,1,27,3,Jumper
+18,Nikola Mirotic,FG_MISS,None,9:50,2,Pelicans,Knicks,34 - 33,0,26,3,Jumper
+19,Noah Vonleh,DEFENSIVE_REBOUND,None,9:46,2,Knicks,Pelicans,34 - 33,1,N/A,N/A,N/A
+20,Allonzo Trier,FG_UNASSISTED,None,9:37,2,Knicks,Pelicans,34 - 35,1,0,2,Layup
+21,Jrue Holiday,FG_UNASSISTED,None,9:28,2,Pelicans,Knicks,36 - 35,0,0,2,Layup
+22,Darius Miller,FOUL_ON_FLOOR,None,9:05,2,Pelicans,Knicks,36 - 35,0,N/A,N/A,N/A
+23,Frank Ntilikina,FT,None,9:05,2,Knicks,Pelicans,36 - 36,1,N/A,1,N/A
+24,Anthony Davis,SUBSTITUTION,Jackson Frank,9:05,2,Pelicans,Knicks,36 - 36,0,N/A,N/A,N/A
+25,E'Twaun Moore,SUBSTITUTION,Randle Julius,9:05,2,Pelicans,Knicks,36 - 36,0,N/A,N/A,N/A
+26,Frank Ntilikina,FT,None,9:05,2,Knicks,Pelicans,36 - 37,1,N/A,1,N/A
+27,Jrue Holiday,FG_MISS,None,8:49,2,Pelicans,Knicks,36 - 37,0,25,3,Jumper
+28,Noah Vonleh,DEFENSIVE_REBOUND,None,8:45,2,Knicks,Pelicans,36 - 37,1,N/A,N/A,N/A
+29,Noah Vonleh,FG_MISS,None,8:34,2,Knicks,Pelicans,36 - 37,1,26,3,Jumper
+30,Nikola Mirotic,DEFENSIVE_REBOUND,None,8:30,2,Pelicans,Knicks,36 - 37,0,N/A,N/A,N/A
+31,Jrue Holiday,TURNOVER,Noah Vonleh,8:24,2,Pelicans,Knicks,36 - 37,0,N/A,N/A,N/A
+32,Jrue Holiday,FOUL_ON_FLOOR,None,8:08,2,Pelicans,Knicks,36 - 37,0,N/A,N/A,N/A
+33,Tim Hardaway,SUBSTITUTION,Ntilikina Frank,8:08,2,Knicks,Pelicans,36 - 37,1,N/A,N/A,N/A
+34,Emmanuel Mudiay,SUBSTITUTION,Burke Trey,8:08,2,Knicks,Pelicans,36 - 37,1,N/A,N/A,N/A
+35,Noah Vonleh,FG_ASSISTED,Allonzo Trier,8:00,2,Knicks,Pelicans,36 - 40,1,27,3,Jumper
+36,Jrue Holiday,FG_MISS,None,7:38,2,Pelicans,Knicks,36 - 40,0,0,2,Layup
+37,Emmanuel Mudiay,DEFENSIVE_REBOUND,None,7:36,2,Knicks,Pelicans,36 - 40,1,N/A,N/A,N/A
+38,Emmanuel Mudiay,FG_UNASSISTED,None,7:31,2,Knicks,Pelicans,36 - 42,1,0,2,Layup
+39,Nikola Mirotic,FG_MISS,None,7:18,2,Pelicans,Knicks,36 - 42,0,25,3,Jumper
+40,Darius Miller,OFFENSIVE_REBOUND,None,7:15,2,Pelicans,Knicks,36 - 42,0,N/A,N/A,N/A
+41,Nikola Mirotic,FG_ASSISTED,Jrue Holiday,7:14,2,Pelicans,Knicks,38 - 42,0,0,2,Layup
+42,Mario Hezonja,Unknown,None,7:14,2,Knicks,Pelicans,38 - 42,1,N/A,N/A,N/A
+43,Mario Hezonja,FG_MISS,None,7:02,2,Knicks,Pelicans,38 - 42,1,26,3,Jumper
+44,Anthony Davis,DEFENSIVE_REBOUND,None,7:00,2,Pelicans,Knicks,38 - 42,0,N/A,N/A,N/A
+45,Nikola Mirotic,TURNOVER,Mario Hezonja,6:49,2,Pelicans,Knicks,38 - 42,0,N/A,N/A,N/A
+46,Nikola Mirotic,FOUL_ON_FLOOR,None,6:49,2,Pelicans,Knicks,38 - 42,0,N/A,N/A,N/A
+47,Team,Unknown,None,6:49,2,Knicks,Pelicans,38 - 42,1,N/A,N/A,N/A
+48,Enes Kanter,SUBSTITUTION,Vonleh Noah,6:49,2,Knicks,Pelicans,38 - 42,1,N/A,N/A,N/A
+49,Julius Randle,SUBSTITUTION,Mirotic Nikola,6:49,2,Pelicans,Knicks,38 - 42,0,N/A,N/A,N/A
+50,Emmanuel Mudiay,FG_MISS,None,6:33,2,Knicks,Pelicans,38 - 42,1,9,2,Jumper
+51,Anthony Davis,DEFENSIVE_REBOUND,None,6:31,2,Pelicans,Knicks,38 - 42,0,N/A,N/A,N/A
+52,Jrue Holiday,FG_MISS,None,6:15,2,Pelicans,Knicks,38 - 42,0,17,2,Jumper
+53,Emmanuel Mudiay,DEFENSIVE_REBOUND,None,6:12,2,Knicks,Pelicans,38 - 42,1,N/A,N/A,N/A
+54,Allonzo Trier,FG_ASSISTED,Emmanuel Mudiay,6:09,2,Knicks,Pelicans,38 - 44,1,0,2,Dunk
+55,Darius Miller,FG_UNASSISTED,None,5:58,2,Pelicans,Knicks,40 - 44,0,16,2,Jumper
+56,Enes Kanter,FG_ASSISTED,Mario Hezonja,5:40,2,Knicks,Pelicans,40 - 46,1,0,2,Dunk
+57,Team,Unknown,None,5:35,2,Pelicans,Knicks,40 - 46,0,N/A,N/A,N/A
+58,enters the,SUBSTITUTION,Holiday Jrue,5:35,2,Pelicans,Knicks,40 - 46,0,N/A,N/A,N/A
+59,Mario Hezonja,FOUL_ON_FLOOR,None,5:31,2,Knicks,Pelicans,40 - 46,1,N/A,N/A,N/A
+60,E'Twaun Moore,FG_MISS,None,5:24,2,Pelicans,Knicks,40 - 46,0,9,2,Jumper
+61,Anthony Davis,OFFENSIVE_REBOUND,None,5:23,2,Pelicans,Knicks,40 - 46,0,N/A,N/A,N/A
+62,Anthony Davis,FG_UNASSISTED,None,5:23,2,Pelicans,Knicks,42 - 46,0, ,2,Jumper
+63,Emmanuel Mudiay,FOUL_ON_FLOOR,None,5:23,2,Knicks,Pelicans,42 - 46,1,N/A,N/A,N/A
+64,Anthony Davis,FT,None,5:23,2,Pelicans,Knicks,43 - 46,0,N/A,1,N/A
+65,Tim Hardaway,FG_MISS,None,5:07,2,Knicks,Pelicans,43 - 46,1,0,2,Layup
+66,Wesley Johnson,DEFENSIVE_REBOUND,None,5:04,2,Pelicans,Knicks,43 - 46,0,N/A,N/A,N/A
+67,Julius Randle,FG_ASSISTED,E'Twaun Moore,4:49,2,Pelicans,Knicks,45 - 46,0,0,2,Layup
+68,Enes Kanter,FG_ASSISTED,Allonzo Trier,4:36,2,Knicks,Pelicans,45 - 48,1,0,2,Layup
+69,Anthony Davis,FG_MISS,None,4:25,2,Pelicans,Knicks,45 - 48,0,21,2,Jumper
+70,Julius Randle,OFFENSIVE_REBOUND,None,4:22,2,Pelicans,Knicks,45 - 48,0,N/A,N/A,N/A
+71,E'Twaun Moore,TURNOVER,None,4:17,2,Pelicans,Knicks,45 - 48,0,N/A,N/A,N/A
+72,Noah Vonleh,SUBSTITUTION,Hezonja Mario,4:17,2,Knicks,Pelicans,45 - 48,1,N/A,N/A,N/A
+73,Allonzo Trier,FG_UNASSISTED,None,3:57,2,Knicks,Pelicans,45 - 50,1,18,2,Jumper
+74,Wesley Johnson,FG_MISS,None,3:44,2,Pelicans,Knicks,45 - 50,0,9,2,Jumper
+75,Julius Randle,OFFENSIVE_REBOUND,None,3:40,2,Pelicans,Knicks,45 - 50,0,N/A,N/A,N/A
+76,Julius Randle's,FG_MISS,Enes Kanter,3:39,2,Knicks,Pelicans,45 - 50,0,0,2,Layup
+77,Wesley Johnson,OFFENSIVE_REBOUND,None,3:37,2,Pelicans,Knicks,45 - 50,0,N/A,N/A,N/A
+78,Julius Randle,FG_MISS,None,3:29,2,Pelicans,Knicks,45 - 50,0,4,2,Jumper
+79,Julius Randle,OFFENSIVE_REBOUND,None,3:29,2,Pelicans,Knicks,45 - 50,0,N/A,N/A,N/A
+80,Julius Randle,FG_MISS,None,3:25,2,Pelicans,Knicks,45 - 50,0, ,2,Jumper
+81,Anthony Davis,OFFENSIVE_REBOUND,None,3:23,2,Pelicans,Knicks,45 - 50,0,N/A,N/A,N/A
+82,Anthony Davis,TURNOVER,Emmanuel Mudiay,3:19,2,Pelicans,Knicks,45 - 50,0,N/A,N/A,N/A
+83,Emmanuel Mudiay,FG_UNASSISTED,None,3:15,2,Knicks,Pelicans,45 - 52,1,0,2,Layup
+84,Anthony Davis,FG_MISS,None,2:57,2,Pelicans,Knicks,45 - 52,0,16,2,Jumper
+85,Emmanuel Mudiay,DEFENSIVE_REBOUND,None,2:54,2,Knicks,Pelicans,45 - 52,1,N/A,N/A,N/A
+86,Emmanuel Mudiay,FG_MISS,None,2:48,2,Knicks,Pelicans,45 - 52,1,0,2,Layup
+87,Enes Kanter,OFFENSIVE_REBOUND,None,2:45,2,Knicks,Pelicans,45 - 52,1,N/A,N/A,N/A
+88,Enes Kanter,FG_MISS,None,2:45,2,Knicks,Pelicans,45 - 52,1, ,2,Jumper
+89,Noah Vonleh,OFFENSIVE_REBOUND,None,2:44,2,Knicks,Pelicans,45 - 52,1,N/A,N/A,N/A
+90,Tim Hardaway,FG_MISS,None,2:42,2,Knicks,Pelicans,45 - 52,1,26,3,Jumper
+91,E'Twaun Moore,DEFENSIVE_REBOUND,None,2:41,2,Pelicans,Knicks,45 - 52,0,N/A,N/A,N/A
+92,Wesley Johnson,FG_ASSISTED,E'Twaun Moore,2:37,2,Pelicans,Knicks,48 - 52,0,25,3,Jumper
+93,Tim Hardaway,FG_MISS,None,2:19,2,Knicks,Pelicans,48 - 52,1,18,2,Jumper
+94,Julius Randle,DEFENSIVE_REBOUND,None,2:17,2,Pelicans,Knicks,48 - 52,0,N/A,N/A,N/A
+95,Noah Vonleh,FOUL_ON_FLOOR,None,2:13,2,Knicks,Pelicans,48 - 52,1,N/A,N/A,N/A
+96,Anthony Davis,FT,None,2:13,2,Pelicans,Knicks,49 - 52,0,N/A,1,N/A
+97,Jrue Holiday,SUBSTITUTION,Miller Darius,2:13,2,Pelicans,Knicks,49 - 52,0,N/A,N/A,N/A
+98,Anthony Davis,FT_MISS,None,2:13,2,Pelicans,Knicks,49 - 52,0,N/A,1,N/A
+99,Team,OFFENSIVE_REBOUND,None,2:13,2,Pelicans,Knicks,49 - 52,0,N/A,N/A,N/A
+100,Anthony Davis,FG_ASSISTED,Jrue Holiday,2:09,2,Pelicans,Knicks,51 - 52,0, ,2,Jumper
+101,Anthony Davis,FOUL_ON_FLOOR,None,1:52,2,Pelicans,Knicks,51 - 52,0,N/A,N/A,N/A
+102,Enes Kanter,FT_MISS,None,1:52,2,Knicks,Pelicans,51 - 52,1,N/A,1,N/A
+103,Team,OFFENSIVE_REBOUND,None,1:52,2,Knicks,Pelicans,51 - 52,1,N/A,N/A,N/A
+104,Enes Kanter,FT,None,1:52,2,Knicks,Pelicans,51 - 53,1,N/A,1,N/A
+105,Enes Kanter,FOUL_ON_FLOOR,None,1:43,2,Knicks,Pelicans,51 - 53,1,N/A,N/A,N/A
+106,Anthony Davis,FT,None,1:43,2,Pelicans,Knicks,52 - 53,0,N/A,1,N/A
+107,Anthony Davis,FT,None,1:43,2,Pelicans,Knicks,53 - 53,0,N/A,1,N/A
+108,Enes Kanter,FG_ASSISTED,Noah Vonleh,1:23,2,Knicks,Pelicans,53 - 55,1, ,2,Jumper
+109,E'Twaun Moore,FG_MISS,None,1:09,2,Pelicans,Knicks,53 - 55,0,15,2,Jumper
+110,Anthony Davis,OFFENSIVE_REBOUND,None,1:09,2,Pelicans,Knicks,53 - 55,0,N/A,N/A,N/A
+111,Tim Hardaway,FOUL_ON_FLOOR,None,1:09,2,Knicks,Pelicans,53 - 55,1,N/A,N/A,N/A
+112,Anthony Davis,FT,None,1:09,2,Pelicans,Knicks,54 - 55,0,N/A,1,N/A
+113,Anthony Davis,FT,None,1:09,2,Pelicans,Knicks,55 - 55,0,N/A,1,N/A
+114,Allonzo Trier,FG_ASSISTED,Tim Hardaway,54.5,2,Knicks,Pelicans,55 - 57,1,0,2,Layup
+115,Julius Randle,FG_MISS,Enes Kanter,47.0,2,Knicks,Pelicans,55 - 57,0,0,2,Layup
+116,Julius Randle,JUMP_BALL,None,44.2,2,Pelicans,Knicks,55 - 57,0,N/A,N/A,N/A
+117,Team,OFFENSIVE_REBOUND,None,44.2,2,Pelicans,Knicks,55 - 57,0,N/A,N/A,N/A
+118,Anthony Davis,FG_MISS,None,33.3,2,Pelicans,Knicks,55 - 57,0, ,2,Jumper
+119,Anthony Davis,OFFENSIVE_REBOUND,None,32.0,2,Pelicans,Knicks,55 - 57,0,N/A,N/A,N/A
+120,Anthony Davis,FG_UNASSISTED,None,32.0,2,Pelicans,Knicks,57 - 57,0, ,2,Jumper
+121,Anthony Davis,FOUL_ON_FLOOR,None,21.6,2,Pelicans,Knicks,57 - 57,0,N/A,N/A,N/A
+122,Enes Kanter,FT,None,21.6,2,Knicks,Pelicans,57 - 58,1,N/A,1,N/A
+123,Mario Hezonja,SUBSTITUTION,Vonleh Noah,21.6,2,Knicks,Pelicans,57 - 58,1,N/A,N/A,N/A
+124,Darius Miller,SUBSTITUTION,Johnson Wesley,21.6,2,Pelicans,Knicks,57 - 58,0,N/A,N/A,N/A
+125,Enes Kanter,FT,None,21.6,2,Knicks,Pelicans,57 - 59,1,N/A,1,N/A
+126,Anthony Davis,FG_ASSISTED,Darius Miller,3.6,2,Pelicans,Knicks,59 - 59,0,16,2,Jumper
+127,Enes Kanter,FOUL_ON_FLOOR,None,3.6,2,Knicks,Pelicans,59 - 59,1,N/A,N/A,N/A
+128,Anthony Davis,FT,None,3.6,2,Pelicans,Knicks,60 - 59,0,N/A,1,N/A
+129,Wesley Johnson,SUBSTITUTION,Miller Darius,3.6,2,Pelicans,Knicks,60 - 59,0,N/A,N/A,N/A
+130,Emmanuel Mudiay,FG_MISS,None,0.4,2,Knicks,Pelicans,60 - 59,1, ,2,Jumper
+131,Team,OFFENSIVE_REBOUND,None,0.1,2,Knicks,Pelicans,60 - 59,1,N/A,N/A,N/A
+132,End of,Unknown,None,0.0,2,Knicks,Pelicans,60 - 59,1,N/A,N/A,N/A
+0,Noah Vonleh,SUBSTITUTION,Trier Allonzo,12:00,3,Knicks,Pelicans,60 - 59,1,N/A,N/A,N/A
+1,Nikola Mirotic,SUBSTITUTION,Randle Julius,12:00,3,Pelicans,Knicks,60 - 59,0,N/A,N/A,N/A
+2,Emmanuel Mudiay,FG_MISS,None,11:46,3,Knicks,Pelicans,60 - 59,1,25,3,Jumper
+3,Anthony Davis,DEFENSIVE_REBOUND,None,11:42,3,Pelicans,Knicks,60 - 59,0,N/A,N/A,N/A
+4,E'Twaun Moore,FG_MISS,None,11:23,3,Pelicans,Knicks,60 - 59,0,24,3,Jumper
+5,Enes Kanter,DEFENSIVE_REBOUND,None,11:20,3,Knicks,Pelicans,60 - 59,1,N/A,N/A,N/A
+6,Noah Vonleh,FG_MISS,None,11:12,3,Knicks,Pelicans,60 - 59,1,27,3,Jumper
+7,Emmanuel Mudiay,OFFENSIVE_REBOUND,None,11:09,3,Knicks,Pelicans,60 - 59,1,N/A,N/A,N/A
+8,Emmanuel Mudiay,FG_UNASSISTED,None,11:08,3,Knicks,Pelicans,60 - 61,1,0,2,Layup
+9,Nikola Mirotic,FG_ASSISTED,Jrue Holiday,11:01,3,Pelicans,Knicks,63 - 61,0,24,3,Jumper
+10,Emmanuel Mudiay,FG_ASSISTED,Noah Vonleh,10:45,3,Knicks,Pelicans,63 - 63,1,16,2,Jumper
+11,Anthony Davis,FG_UNASSISTED,None,10:25,3,Pelicans,Knicks,65 - 63,0,15,2,Jumper
+12,Mario Hezonja,FG_MISS,None,10:06,3,Knicks,Pelicans,65 - 63,1,26,3,Jumper
+13,Wesley Johnson,DEFENSIVE_REBOUND,None,10:03,3,Pelicans,Knicks,65 - 63,0,N/A,N/A,N/A
+14,Noah Vonleh,FOUL_ON_FLOOR,None,9:54,3,Knicks,Pelicans,65 - 63,1,N/A,N/A,N/A
+15,Jrue Holiday,FT_MISS,None,9:54,3,Pelicans,Knicks,65 - 63,0,N/A,1,N/A
+16,Team,OFFENSIVE_REBOUND,None,9:54,3,Pelicans,Knicks,65 - 63,0,N/A,N/A,N/A
+17,Jrue Holiday,FT,None,9:54,3,Pelicans,Knicks,66 - 63,0,N/A,1,N/A
+18,Jrue Holiday,FOUL_ON_FLOOR,None,9:42,3,Pelicans,Knicks,66 - 63,0,N/A,N/A,N/A
+19,Tim Hardaway,FG_MISS,None,9:35,3,Knicks,Pelicans,66 - 63,1,26,3,Jumper
+20,Anthony Davis,DEFENSIVE_REBOUND,None,9:32,3,Pelicans,Knicks,66 - 63,0,N/A,N/A,N/A
+21,Jrue Holiday,FG_ASSISTED,Anthony Davis,9:23,3,Pelicans,Knicks,68 - 63,0,0,2,Layup
+22,Tim Hardaway,FG_MISS,None,8:57,3,Knicks,Pelicans,68 - 63,1,29,3,Jumper
+23,Wesley Johnson,DEFENSIVE_REBOUND,None,8:52,3,Pelicans,Knicks,68 - 63,0,N/A,N/A,N/A
+24,Jrue Holiday,FG_MISS,None,8:51,3,Pelicans,Knicks,68 - 63,0,26,3,Jumper
+25,Mario Hezonja,DEFENSIVE_REBOUND,None,8:49,3,Knicks,Pelicans,68 - 63,1,N/A,N/A,N/A
+26,Tim Hardaway,FG_MISS,None,8:29,3,Knicks,Pelicans,68 - 63,1,25,3,Jumper
+27,Nikola Mirotic,DEFENSIVE_REBOUND,None,8:27,3,Pelicans,Knicks,68 - 63,0,N/A,N/A,N/A
+28,Jrue Holiday,FG_ASSISTED,E'Twaun Moore,8:16,3,Pelicans,Knicks,70 - 63,0,0,2,Layup
+29,Team,Unknown,None,8:16,3,Knicks,Pelicans,70 - 63,1,N/A,N/A,N/A
+30,Enes Kanter,FG_ASSISTED,Noah Vonleh,8:03,3,Knicks,Pelicans,70 - 65,1,5,2,Jumper
+31,Jrue Holiday,FG_UNASSISTED,None,7:45,3,Pelicans,Knicks,72 - 65,0,0,2,Layup
+32,Emmanuel Mudiay,FG_MISS,None,7:25,3,Knicks,Pelicans,72 - 65,1,26,3,Jumper
+33,Mario Hezonja,OFFENSIVE_REBOUND,None,7:21,3,Knicks,Pelicans,72 - 65,1,N/A,N/A,N/A
+34,Mario Hezonja,FG_MISS,None,7:21,3,Knicks,Pelicans,72 - 65,1, ,2,Jumper
+35,Mario Hezonja,OFFENSIVE_REBOUND,None,7:20,3,Knicks,Pelicans,72 - 65,1,N/A,N/A,N/A
+36,Tim Hardaway,FG_UNASSISTED,None,7:10,3,Knicks,Pelicans,72 - 68,1,28,3,Jumper
+37,Tim Hardaway,FOUL_ON_FLOOR,None,7:04,3,Knicks,Pelicans,72 - 68,1,N/A,N/A,N/A
+38,Jrue Holiday,TURNOVER,Mario Hezonja,6:52,3,Pelicans,Knicks,72 - 68,0,N/A,N/A,N/A
+39,Mario Hezonja,TURNOVER,Jrue Holiday,6:40,3,Knicks,Pelicans,72 - 68,1,N/A,N/A,N/A
+40,E'Twaun Moore,FG_MISS,None,6:31,3,Pelicans,Knicks,72 - 68,0,26,3,Jumper
+41,Emmanuel Mudiay,DEFENSIVE_REBOUND,None,6:28,3,Knicks,Pelicans,72 - 68,1,N/A,N/A,N/A
+42,Emmanuel Mudiay,FG_UNASSISTED,None,6:24,3,Knicks,Pelicans,72 - 70,1,0,2,Layup
+43,Jrue Holiday,FG_MISS,Noah Vonleh,6:12,3,Knicks,Pelicans,72 - 70,0,0,2,Layup
+44,Team,OFFENSIVE_REBOUND,None,6:10,3,Pelicans,Knicks,72 - 70,0,N/A,N/A,N/A
+45,Nikola Mirotic,FG_MISS,None,6:07,3,Pelicans,Knicks,72 - 70,0,29,3,Jumper
+46,Enes Kanter,DEFENSIVE_REBOUND,None,6:04,3,Knicks,Pelicans,72 - 70,1,N/A,N/A,N/A
+47,Noah Vonleh,TURNOVER,Nikola Mirotic,5:51,3,Knicks,Pelicans,72 - 70,1,N/A,N/A,N/A
+48,Mario Hezonja,FOUL_ON_FLOOR,None,5:50,3,Knicks,Pelicans,72 - 70,1,N/A,N/A,N/A
+49,Anthony Davis,FT,None,5:50,3,Pelicans,Knicks,73 - 70,0,N/A,1,N/A
+50,Allonzo Trier,SUBSTITUTION,Hezonja Mario,5:50,3,Knicks,Pelicans,73 - 70,1,N/A,N/A,N/A
+51,Frank Jackson,SUBSTITUTION,Moore E'Twaun,5:50,3,Pelicans,Knicks,73 - 70,0,N/A,N/A,N/A
+52,Anthony Davis,FT_MISS,None,5:50,3,Pelicans,Knicks,73 - 70,0,N/A,1,N/A
+53,Julius Randle,SUBSTITUTION,Mirotic Nikola,5:50,3,Pelicans,Knicks,73 - 70,0,N/A,N/A,N/A
+54,Emmanuel Mudiay,DEFENSIVE_REBOUND,None,5:44,3,Knicks,Pelicans,73 - 70,1,N/A,N/A,N/A
+55,Emmanuel Mudiay,FG_UNASSISTED,None,5:43,3,Knicks,Pelicans,73 - 72,1,0,2,Dunk
+56,Wesley Johnson,FG_MISS,None,5:18,3,Pelicans,Knicks,73 - 72,0,25,3,Jumper
+57,Tim Hardaway,DEFENSIVE_REBOUND,None,5:16,3,Knicks,Pelicans,73 - 72,1,N/A,N/A,N/A
+58,Enes Kanter,FG_MISS,None,5:07,3,Knicks,Pelicans,73 - 72,1,0,2,Layup
+59,Wesley Johnson,DEFENSIVE_REBOUND,None,5:03,3,Pelicans,Knicks,73 - 72,0,N/A,N/A,N/A
+60,Jrue Holiday,TURNOVER,Enes Kanter,4:49,3,Pelicans,Knicks,73 - 72,0,N/A,N/A,N/A
+61,Allonzo Trier,FG_ASSISTED,Enes Kanter,4:43,3,Knicks,Pelicans,73 - 75,1,22,3,Jumper
+62,Anthony Davis,FG_UNASSISTED,None,4:19,3,Pelicans,Knicks,75 - 75,0,21,2,Jumper
+63,Tim Hardaway,FG_MISS,None,4:08,3,Knicks,Pelicans,75 - 75,1,27,3,Jumper
+64,Team,DEFENSIVE_REBOUND,None,4:07,3,Pelicans,Knicks,75 - 75,0,N/A,N/A,N/A
+65,Trey Burke,SUBSTITUTION,Mudiay Emmanuel,4:07,3,Knicks,Pelicans,75 - 75,1,N/A,N/A,N/A
+66,Darius Miller,SUBSTITUTION,Johnson Wesley,4:07,3,Pelicans,Knicks,75 - 75,0,N/A,N/A,N/A
+67,Julius Randle,FG_ASSISTED,Jrue Holiday,3:52,3,Pelicans,Knicks,77 - 75,0,0,2,Dunk
+68,Enes Kanter,FG_UNASSISTED,None,3:28,3,Knicks,Pelicans,77 - 77,1, ,2,Jumper
+69,Darius Miller,FG_ASSISTED,Anthony Davis,3:10,3,Pelicans,Knicks,79 - 77,0,16,2,Jumper
+70,Tim Hardaway,FG_UNASSISTED,None,2:59,3,Knicks,Pelicans,79 - 79,1,0,2,Layup
+71,Anthony Davis,FG_MISS,Enes Kanter,2:51,3,Knicks,Pelicans,79 - 79,0,10,2,Jumper
+72,Team,Unknown,None,2:50,3,Pelicans,Knicks,79 - 79,0,N/A,N/A,N/A
+73,Mitchell Robinson,SUBSTITUTION,Vonleh Noah,2:50,3,Knicks,Pelicans,79 - 79,1,N/A,N/A,N/A
+74,Ian Clark,SUBSTITUTION,Holiday Jrue,2:50,3,Pelicans,Knicks,79 - 79,0,N/A,N/A,N/A
+75,Team,OFFENSIVE_REBOUND,None,2:50,3,Pelicans,Knicks,79 - 79,0,N/A,N/A,N/A
+76,Anthony Davis,JUMP_BALL,None,2:49,3,Pelicans,Knicks,79 - 79,0,N/A,N/A,N/A
+77,Allonzo Trier,FOUL_ON_FLOOR,None,2:49,3,Knicks,Pelicans,79 - 79,1,N/A,N/A,N/A
+78,Anthony Davis,FG_ASSISTED,Darius Miller,2:40,3,Pelicans,Knicks,81 - 79,0,22,2,Jumper
+79,Trey Burke,FG_ASSISTED,Mitchell Robinson,2:19,3,Knicks,Pelicans,81 - 81,1, ,2,Jumper
+80,Julius Randle,FG_MISS,None,1:57,3,Pelicans,Knicks,81 - 81,0,23,2,Jumper
+81,Enes Kanter,DEFENSIVE_REBOUND,None,1:53,3,Knicks,Pelicans,81 - 81,1,N/A,N/A,N/A
+82,Darius Miller,FOUL_ON_FLOOR,None,1:53,3,Pelicans,Knicks,81 - 81,0,N/A,N/A,N/A
+83,Kevin Knox,SUBSTITUTION,Kanter Enes,1:53,3,Knicks,Pelicans,81 - 81,1,N/A,N/A,N/A
+84,Nikola Mirotic,SUBSTITUTION,Davis Anthony,1:53,3,Pelicans,Knicks,81 - 81,0,N/A,N/A,N/A
+85,Allonzo Trier,FG_MISS,None,1:38,3,Knicks,Pelicans,81 - 81,1,9,2,Jumper
+86,Kevin Knox,OFFENSIVE_REBOUND,None,1:34,3,Knicks,Pelicans,81 - 81,1,N/A,N/A,N/A
+87,Kevin Knox,FG_MISS,None,1:34,3,Knicks,Pelicans,81 - 81,1, ,2,Jumper
+88,Nikola Mirotic,DEFENSIVE_REBOUND,None,1:34,3,Pelicans,Knicks,81 - 81,0,N/A,N/A,N/A
+89,Frank Jackson,FG_UNASSISTED,None,1:31,3,Pelicans,Knicks,83 - 81,0,0,2,Layup
+90,Allonzo Trier,Unknown,None,1:31,3,Knicks,Pelicans,83 - 81,1,N/A,N/A,N/A
+91,Trey Burke,FG_MISS,None,1:20,3,Knicks,Pelicans,83 - 81,1,0,2,Layup
+92,Nikola Mirotic,DEFENSIVE_REBOUND,None,1:18,3,Pelicans,Knicks,83 - 81,0,N/A,N/A,N/A
+93,Mitchell Robinson,FOUL_ON_FLOOR,None,1:18,3,Knicks,Pelicans,83 - 81,1,N/A,N/A,N/A
+94,Nikola Mirotic,FT,None,1:18,3,Pelicans,Knicks,84 - 81,0,N/A,1,N/A
+95,Frank Ntilikina,SUBSTITUTION,Hardaway Tim,1:18,3,Knicks,Pelicans,84 - 81,1,N/A,N/A,N/A
+96,Nikola Mirotic,FT_MISS,None,1:18,3,Pelicans,Knicks,84 - 81,0,N/A,1,N/A
+97,Frank Ntilikina,DEFENSIVE_REBOUND,None,1:15,3,Knicks,Pelicans,84 - 81,1,N/A,N/A,N/A
+98,Kevin Knox,FG_ASSISTED,Frank Ntilikina,1:08,3,Knicks,Pelicans,84 - 84,1,25,3,Jumper
+99,Nikola Mirotic,FG_UNASSISTED,None,1:00,3,Pelicans,Knicks,87 - 84,0,30,3,Jumper
+100,Mitchell Robinson,FOUL_FLAGRANT_1,None,1:00,3,Knicks,Pelicans,87 - 84,1,N/A,N/A,N/A
+101,Nikola Mirotic,FT,None,1:00,3,Pelicans,Knicks,88 - 84,0,N/A,1,N/A
+102,Nikola Mirotic,FG_MISS,None,46.5,3,Pelicans,Knicks,88 - 84,0,19,2,Jumper
+103,Frank Ntilikina,DEFENSIVE_REBOUND,None,43.7,3,Knicks,Pelicans,88 - 84,1,N/A,N/A,N/A
+104,Mitchell Robinson,FG_ASSISTED,Allonzo Trier,32.8,3,Knicks,Pelicans,88 - 86,1,0,2,Dunk
+105,Julius Randle,FG_ASSISTED,Darius Miller,17.7,3,Pelicans,Knicks,90 - 86,0,0,2,Layup
+106,Frank Jackson,FOUL_ON_FLOOR,None,3.5,3,Pelicans,Knicks,90 - 86,0,N/A,N/A,N/A
+107,Trey Burke,FT_MISS,None,3.5,3,Knicks,Pelicans,90 - 86,1,N/A,1,N/A
+108,Team,OFFENSIVE_REBOUND,None,3.5,3,Knicks,Pelicans,90 - 86,1,N/A,N/A,N/A
+109,Trey Burke,FT,None,3.5,3,Knicks,Pelicans,90 - 87,1,N/A,1,N/A
+110,Frank Jackson,FG_MISS,Mitchell Robinson,0.2,3,Knicks,Pelicans,90 - 87,0,0,2,Layup
+111,Team,OFFENSIVE_REBOUND,None,0.1,3,Pelicans,Knicks,90 - 87,0,N/A,N/A,N/A
+112,End of,Unknown,None,0.0,3,Knicks,Pelicans,90 - 87,1,N/A,N/A,N/A
+0,Jrue Holiday,SUBSTITUTION,Jackson Frank,12:00,4,Pelicans,Knicks,90 - 87,0,N/A,N/A,N/A
+1,Jrue Holiday,FG_MISS,None,11:45,4,Pelicans,Knicks,90 - 87,0,7,2,Jumper
+2,Allonzo Trier,DEFENSIVE_REBOUND,None,11:43,4,Knicks,Pelicans,90 - 87,1,N/A,N/A,N/A
+3,Frank Ntilikina,FG_MISS,None,11:32,4,Knicks,Pelicans,90 - 87,1,8,2,Jumper
+4,Jrue Holiday,DEFENSIVE_REBOUND,None,11:29,4,Pelicans,Knicks,90 - 87,0,N/A,N/A,N/A
+5,Darius Miller,FG_MISS,None,11:24,4,Pelicans,Knicks,90 - 87,0,24,3,Jumper
+6,Nikola Mirotic,OFFENSIVE_REBOUND,None,11:20,4,Pelicans,Knicks,90 - 87,0,N/A,N/A,N/A
+7,Jrue Holiday,FG_MISS,None,11:09,4,Pelicans,Knicks,90 - 87,0, ,3,Jumper
+8,Trey Burke,DEFENSIVE_REBOUND,None,11:05,4,Knicks,Pelicans,90 - 87,1,N/A,N/A,N/A
+9,Kevin Knox,FG_MISS,None,10:53,4,Knicks,Pelicans,90 - 87,1,25,3,Jumper
+10,Julius Randle,DEFENSIVE_REBOUND,None,10:51,4,Pelicans,Knicks,90 - 87,0,N/A,N/A,N/A
+11,Julius Randle,FG_ASSISTED,Darius Miller,10:41,4,Pelicans,Knicks,92 - 87,0,0,2,Dunk
+12,Trey Burke,FG_MISS,None,10:30,4,Knicks,Pelicans,92 - 87,1,13,2,Jumper
+13,Jrue Holiday,DEFENSIVE_REBOUND,None,10:27,4,Pelicans,Knicks,92 - 87,0,N/A,N/A,N/A
+14,Ian Clark,FG_MISS,None,10:12,4,Pelicans,Knicks,92 - 87,0,24,3,Jumper
+15,Mitchell Robinson,DEFENSIVE_REBOUND,None,10:09,4,Knicks,Pelicans,92 - 87,1,N/A,N/A,N/A
+16,Allonzo Trier,FG_UNASSISTED,None,10:03,4,Knicks,Pelicans,92 - 89,1,0,2,Layup
+17,Mitchell Robinson,FOUL_ON_FLOOR,None,9:42,4,Knicks,Pelicans,92 - 89,1,N/A,N/A,N/A
+18,Enes Kanter,SUBSTITUTION,Robinson Mitchell,9:42,4,Knicks,Pelicans,92 - 89,1,N/A,N/A,N/A
+19,Darius Miller,FT_MISS,None,9:42,4,Pelicans,Knicks,92 - 89,0,N/A,1,N/A
+20,Team,OFFENSIVE_REBOUND,None,9:42,4,Pelicans,Knicks,92 - 89,0,N/A,N/A,N/A
+21,Tim Hardaway,SUBSTITUTION,Ntilikina Frank,9:42,4,Knicks,Pelicans,92 - 89,1,N/A,N/A,N/A
+22,Cheick Diallo,SUBSTITUTION,Randle Julius,9:42,4,Pelicans,Knicks,92 - 89,0,N/A,N/A,N/A
+23,Darius Miller,FT,None,9:42,4,Pelicans,Knicks,93 - 89,0,N/A,1,N/A
+24,Kevin Knox,FG_UNASSISTED,None,9:28,4,Knicks,Pelicans,93 - 91,1,3,2,Jumper
+25,Allonzo Trier,FOUL_ON_FLOOR,None,9:19,4,Knicks,Pelicans,93 - 91,1,N/A,N/A,N/A
+26,Jrue Holiday,FG_MISS,None,9:15,4,Pelicans,Knicks,93 - 91,0, ,2,Jumper
+27,Cheick Diallo,OFFENSIVE_REBOUND,None,9:14,4,Pelicans,Knicks,93 - 91,0,N/A,N/A,N/A
+28,Cheick Diallo,FG_UNASSISTED,None,9:13,4,Pelicans,Knicks,95 - 91,0, ,2,Jumper
+29,Tim Hardaway,TURNOVER,Jrue Holiday,8:59,4,Knicks,Pelicans,95 - 91,1,N/A,N/A,N/A
+30,Nikola Mirotic,FG_ASSISTED,Ian Clark,8:54,4,Pelicans,Knicks,97 - 91,0,0,2,Dunk
+31,Team,Unknown,None,8:53,4,Knicks,Pelicans,97 - 91,1,N/A,N/A,N/A
+32,Allonzo Trier's,FG_MISS,Cheick Diallo,8:42,4,Pelicans,Knicks,97 - 91,1,0,2,Layup
+33,Darius Miller,DEFENSIVE_REBOUND,None,8:39,4,Pelicans,Knicks,97 - 91,0,N/A,N/A,N/A
+34,Darius Miller,FG_MISS,None,8:34,4,Pelicans,Knicks,97 - 91,0,26,3,Jumper
+35,Allonzo Trier,DEFENSIVE_REBOUND,None,8:30,4,Knicks,Pelicans,97 - 91,1,N/A,N/A,N/A
+36,Enes Kanter,FG_MISS,Cheick Diallo,8:15,4,Pelicans,Knicks,97 - 91,1,0,2,Layup
+37,Cheick Diallo,DEFENSIVE_REBOUND,None,8:13,4,Pelicans,Knicks,97 - 91,0,N/A,N/A,N/A
+38,Jrue Holiday,FG_MISS,None,7:57,4,Pelicans,Knicks,97 - 91,0,17,2,Jumper
+39,Cheick Diallo,OFFENSIVE_REBOUND,None,7:52,4,Pelicans,Knicks,97 - 91,0,N/A,N/A,N/A
+40,Nikola Mirotic,FG_MISS,None,7:50,4,Pelicans,Knicks,97 - 91,0,26,3,Jumper
+41,Enes Kanter,DEFENSIVE_REBOUND,None,7:48,4,Knicks,Pelicans,97 - 91,1,N/A,N/A,N/A
+42,Kevin Knox,FG_MISS,None,7:38,4,Knicks,Pelicans,97 - 91,1,25,3,Jumper
+43,Team,DEFENSIVE_REBOUND,None,7:37,4,Pelicans,Knicks,97 - 91,0,N/A,N/A,N/A
+44,Allonzo Trier,FOUL_ON_FLOOR,None,7:37,4,Knicks,Pelicans,97 - 91,1,N/A,N/A,N/A
+45,Noah Vonleh,SUBSTITUTION,Knox Kevin,7:37,4,Knicks,Pelicans,97 - 91,1,N/A,N/A,N/A
+46,Julius Randle,SUBSTITUTION,Mirotic Nikola,7:37,4,Pelicans,Knicks,97 - 91,0,N/A,N/A,N/A
+47,Cheick Diallo,FG_MISS,None,7:22,4,Pelicans,Knicks,97 - 91,0,0,2,Layup
+48,Noah Vonleh,DEFENSIVE_REBOUND,None,7:20,4,Knicks,Pelicans,97 - 91,1,N/A,N/A,N/A
+49,Trey Burke,FG_MISS,None,7:15,4,Knicks,Pelicans,97 - 91,1,26,2,Jumper
+50,Noah Vonleh,OFFENSIVE_REBOUND,None,7:11,4,Knicks,Pelicans,97 - 91,1,N/A,N/A,N/A
+51,Cheick Diallo,FOUL_ON_FLOOR,None,7:10,4,Pelicans,Knicks,97 - 91,0,N/A,N/A,N/A
+52,Emmanuel Mudiay,SUBSTITUTION,Burke Trey,7:10,4,Knicks,Pelicans,97 - 91,1,N/A,N/A,N/A
+53,Cheick Diallo,FOUL_ON_FLOOR,None,7:05,4,Pelicans,Knicks,97 - 91,0,N/A,N/A,N/A
+54,Allonzo Trier,FT_MISS,None,7:05,4,Knicks,Pelicans,97 - 91,1,N/A,1,N/A
+55,Team,OFFENSIVE_REBOUND,None,7:05,4,Knicks,Pelicans,97 - 91,1,N/A,N/A,N/A
+56,Allonzo Trier,FT,None,7:05,4,Knicks,Pelicans,97 - 92,1,N/A,1,N/A
+57,Darius Miller,FG_MISS,None,6:55,4,Pelicans,Knicks,97 - 92,0,0,2,Layup
+58,Enes Kanter,DEFENSIVE_REBOUND,None,6:51,4,Knicks,Pelicans,97 - 92,1,N/A,N/A,N/A
+59,Noah Vonleh,FG_MISS,None,6:44,4,Knicks,Pelicans,97 - 92,1,25,3,Jumper
+60,Cheick Diallo,DEFENSIVE_REBOUND,None,6:41,4,Pelicans,Knicks,97 - 92,0,N/A,N/A,N/A
+61,Jrue Holiday,FG_UNASSISTED,None,6:30,4,Pelicans,Knicks,99 - 92,0,15,2,Jumper
+62,Emmanuel Mudiay,TURNOVER,None,6:17,4,Knicks,Pelicans,99 - 92,1,N/A,N/A,N/A
+63,E'Twaun Moore,SUBSTITUTION,Miller Darius,6:17,4,Pelicans,Knicks,99 - 92,0,N/A,N/A,N/A
+64,Julius Randle,FG_ASSISTED,Jrue Holiday,6:00,4,Pelicans,Knicks,101 - 92,0,0,2,Layup
+65,Team,Unknown,None,6:00,4,Knicks,Pelicans,99 - 92,1,N/A,N/A,N/A
+66,Emmanuel Mudiay,FG_ASSISTED,Noah Vonleh,5:44,4,Knicks,Pelicans,101 - 94,1,19,2,Jumper
+67,E'Twaun Moore,TURNOVER,Emmanuel Mudiay,5:21,4,Pelicans,Knicks,101 - 94,0,N/A,N/A,N/A
+68,Tim Hardaway,FG_MISS,Cheick Diallo,5:17,4,Pelicans,Knicks,101 - 94,1,0,2,Layup
+69,Ian Clark,DEFENSIVE_REBOUND,None,5:14,4,Pelicans,Knicks,101 - 94,0,N/A,N/A,N/A
+70,Cheick Diallo,FG_MISS,None,5:07,4,Pelicans,Knicks,101 - 94,0,0,2,Layup
+71,Team,DEFENSIVE_REBOUND,None,5:06,4,Knicks,Pelicans,101 - 94,1,N/A,N/A,N/A
+72,Emmanuel Mudiay,FG_UNASSISTED,None,4:57,4,Knicks,Pelicans,101 - 96,1,0,2,Layup
+73,Jrue Holiday,FG_MISS,None,4:45,4,Pelicans,Knicks,101 - 96,0,10,2,Jumper
+74,Noah Vonleh,DEFENSIVE_REBOUND,None,4:43,4,Knicks,Pelicans,101 - 96,1,N/A,N/A,N/A
+75,Emmanuel Mudiay,FG_MISS,None,4:35,4,Knicks,Pelicans,101 - 96,1,15,2,Jumper
+76,Team,OFFENSIVE_REBOUND,None,4:34,4,Knicks,Pelicans,101 - 96,1,N/A,N/A,N/A
+77,Cheick Diallo,FOUL_ON_FLOOR,None,4:34,4,Pelicans,Knicks,101 - 96,0,N/A,N/A,N/A
+78,Nikola Mirotic,SUBSTITUTION,Diallo Cheick,4:34,4,Pelicans,Knicks,101 - 96,0,N/A,N/A,N/A
+79,Nikola Mirotic,Unknown,None,4:29,4,Pelicans,Knicks,101 - 96,0,N/A,N/A,N/A
+80,Ian Clark,FOUL_ON_FLOOR,None,4:26,4,Pelicans,Knicks,101 - 96,0,N/A,N/A,N/A
+81,Emmanuel Mudiay,FG_MISS,None,4:16,4,Knicks,Pelicans,101 - 96,1,13,2,Jumper
+82,Enes Kanter,OFFENSIVE_REBOUND,None,4:10,4,Knicks,Pelicans,101 - 96,1,N/A,N/A,N/A
+83,Enes Kanter,FG_MISS,None,4:10,4,Knicks,Pelicans,101 - 96,1, ,2,Jumper
+84,Julius Randle,DEFENSIVE_REBOUND,None,4:09,4,Pelicans,Knicks,101 - 96,0,N/A,N/A,N/A
+85,Julius Randle,FG_MISS,None,3:58,4,Pelicans,Knicks,101 - 96,0,2,2,Jumper
+86,Julius Randle,OFFENSIVE_REBOUND,None,3:58,4,Pelicans,Knicks,101 - 96,0,N/A,N/A,N/A
+87,Emmanuel Mudiay,FOUL_ON_FLOOR,None,3:58,4,Knicks,Pelicans,101 - 96,1,N/A,N/A,N/A
+88,Julius Randle,FT,None,3:58,4,Pelicans,Knicks,102 - 96,0,N/A,1,N/A
+89,Julius Randle,FT,None,3:58,4,Pelicans,Knicks,103 - 96,0,N/A,1,N/A
+90,Emmanuel Mudiay,FG_ASSISTED,Allonzo Trier,3:46,4,Knicks,Pelicans,103 - 99,1,26,3,Jumper
+91,Ian Clark,FG_MISS,None,3:27,4,Pelicans,Knicks,103 - 99,0,24,3,Jumper
+92,Enes Kanter,DEFENSIVE_REBOUND,None,3:25,4,Knicks,Pelicans,103 - 99,1,N/A,N/A,N/A
+93,Ian Clark,FOUL_ON_FLOOR,None,3:18,4,Pelicans,Knicks,103 - 99,0,N/A,N/A,N/A
+94,Team,Unknown,None,3:18,4,Pelicans,Knicks,103 - 99,0,N/A,N/A,N/A
+95,Wesley Johnson,SUBSTITUTION,Clark Ian,3:18,4,Pelicans,Knicks,103 - 99,0,N/A,N/A,N/A
+96,Anthony Davis,SUBSTITUTION,Randle Julius,3:18,4,Pelicans,Knicks,103 - 99,0,N/A,N/A,N/A
+97,Emmanuel Mudiay,FT,None,3:18,4,Knicks,Pelicans,103 - 100,1,N/A,1,N/A
+98,Emmanuel Mudiay,FT_MISS,None,3:18,4,Knicks,Pelicans,103 - 100,1,N/A,1,N/A
+99,Enes Kanter,OFFENSIVE_REBOUND,None,3:15,4,Knicks,Pelicans,103 - 100,1,N/A,N/A,N/A
+100,Emmanuel Mudiay,FG_MISS,None,3:13,4,Knicks,Pelicans,103 - 100,1,24,3,Jumper
+101,Jrue Holiday,DEFENSIVE_REBOUND,None,3:10,4,Pelicans,Knicks,103 - 100,0,N/A,N/A,N/A
+102,Jrue Holiday,FG_MISS,None,2:53,4,Pelicans,Knicks,103 - 100,0,13,2,Jumper
+103,Allonzo Trier,DEFENSIVE_REBOUND,None,2:51,4,Knicks,Pelicans,103 - 100,1,N/A,N/A,N/A
+104,Allonzo Trier,FG_UNASSISTED,None,2:34,4,Knicks,Pelicans,103 - 102,1,1,2,Jumper
+105,E'Twaun Moore,FG_MISS,None,2:14,4,Pelicans,Knicks,103 - 102,0,26,2,Jumper
+106,Allonzo Trier,DEFENSIVE_REBOUND,None,2:12,4,Knicks,Pelicans,103 - 102,1,N/A,N/A,N/A
+107,Jrue Holiday,FOUL_ON_FLOOR,None,2:07,4,Pelicans,Knicks,103 - 102,0,N/A,N/A,N/A
+108,Allonzo Trier,FT,None,2:07,4,Knicks,Pelicans,103 - 103,1,N/A,1,N/A
+109,Darius Miller,SUBSTITUTION,Johnson Wesley,2:07,4,Pelicans,Knicks,103 - 103,0,N/A,N/A,N/A
+110,Allonzo Trier,FT,None,2:07,4,Knicks,Pelicans,103 - 104,1,N/A,1,N/A
+111,Jrue Holiday,FG_MISS,None,1:53,4,Pelicans,Knicks,103 - 104,0,1,2,Jumper
+112,Noah Vonleh,DEFENSIVE_REBOUND,None,1:50,4,Knicks,Pelicans,103 - 104,1,N/A,N/A,N/A
+113,Emmanuel Mudiay,FG_MISS,None,1:31,4,Knicks,Pelicans,103 - 104,1,1,2,Jumper
+114,Enes Kanter,OFFENSIVE_REBOUND,None,1:30,4,Knicks,Pelicans,103 - 104,1,N/A,N/A,N/A
+115,shot clock,TURNOVER,None,1:29,4,Knicks,Pelicans,103 - 104,1,N/A,N/A,N/A
+116,Team,Unknown,None,1:29,4,Pelicans,Knicks,103 - 104,0,N/A,N/A,N/A
+117,Jrue Holiday,TURNOVER,Emmanuel Mudiay,1:09,4,Pelicans,Knicks,103 - 104,0,N/A,N/A,N/A
+118,Darius Miller,FOUL_ON_FLOOR,None,1:09,4,Pelicans,Knicks,103 - 104,0,N/A,N/A,N/A
+119,Emmanuel Mudiay,FT,None,1:09,4,Knicks,Pelicans,103 - 105,1,N/A,1,N/A
+120,Emmanuel Mudiay,FT,None,1:09,4,Knicks,Pelicans,103 - 106,1,N/A,1,N/A
+121,Nikola Mirotic,FG_MISS,None,54.3,4,Pelicans,Knicks,103 - 106,0,30,3,Jumper
+122,Allonzo Trier,DEFENSIVE_REBOUND,None,51.3,4,Knicks,Pelicans,103 - 106,1,N/A,N/A,N/A
+123,Emmanuel Mudiay,FG_UNASSISTED,None,34.1,4,Knicks,Pelicans,103 - 108,1,1,2,Jumper
+124,E'Twaun Moore,FG_ASSISTED,Jrue Holiday,23.7,4,Pelicans,Knicks,106 - 108,0,26,3,Jumper
+125,Anthony Davis,FOUL_ON_FLOOR,None,16.0,4,Pelicans,Knicks,106 - 108,0,N/A,N/A,N/A
+126,Emmanuel Mudiay,FT,None,16.0,4,Knicks,Pelicans,106 - 109,1,N/A,1,N/A
+127,Emmanuel Mudiay,FT,None,16.0,4,Knicks,Pelicans,106 - 110,1,N/A,1,N/A
+128,Allonzo Trier,FOUL_ON_FLOOR,None,11.0,4,Knicks,Pelicans,106 - 110,1,N/A,N/A,N/A
+129,Jrue Holiday,FT,None,11.0,4,Pelicans,Knicks,107 - 110,0,N/A,1,N/A
+130,Jrue Holiday,FT_MISS,None,11.0,4,Pelicans,Knicks,107 - 110,0,N/A,1,N/A
+131,Allonzo Trier,DEFENSIVE_REBOUND,None,10.2,4,Knicks,Pelicans,107 - 110,1,N/A,N/A,N/A
+132,E'Twaun Moore,FOUL_ON_FLOOR,None,10.2,4,Pelicans,Knicks,107 - 110,0,N/A,N/A,N/A
+133,Allonzo Trier,FT_MISS,None,10.2,4,Knicks,Pelicans,107 - 110,1,N/A,1,N/A
+134,Team,OFFENSIVE_REBOUND,None,10.2,4,Knicks,Pelicans,107 - 110,1,N/A,N/A,N/A
+135,Frank Ntilikina,SUBSTITUTION,Kanter Enes,10.2,4,Knicks,Pelicans,107 - 110,1,N/A,N/A,N/A
+136,Allonzo Trier,FT,None,10.2,4,Knicks,Pelicans,107 - 111,1,N/A,1,N/A
+137,Team,Unknown,None,10.2,4,Pelicans,Knicks,107 - 111,0,N/A,N/A,N/A
+138,Anthony Davis,FG_ASSISTED,Darius Miller,8.2,4,Pelicans,Knicks,109 - 111,0,0,2,Dunk
+139,Team,Unknown,None,8.2,4,Knicks,Pelicans,109 - 111,1,N/A,N/A,N/A
+140,Wesley Johnson,SUBSTITUTION,Mirotic Nikola,8.2,4,Pelicans,Knicks,109 - 111,0,N/A,N/A,N/A
+141,E'Twaun Moore,FOUL_ON_FLOOR,None,8.2,4,Pelicans,Knicks,109 - 111,0,N/A,N/A,N/A
+142,Emmanuel Mudiay,FT,None,8.2,4,Knicks,Pelicans,109 - 112,1,N/A,1,N/A
+143,E'Twaun Moore,FOUL_ON_FLOOR,None,7.4,4,Pelicans,Knicks,109 - 112,0,N/A,N/A,N/A
+144,Tim Hardaway,FT,None,7.4,4,Knicks,Pelicans,109 - 113,1,N/A,1,N/A
+145,Tim Hardaway,FT,None,7.4,4,Knicks,Pelicans,109 - 114,1,N/A,1,N/A
+146,Jrue Holiday,FG_MISS,None,0.9,4,Pelicans,Knicks,109 - 114,0,33,3,Jumper
+147,Team,OFFENSIVE_REBOUND,None,0.1,4,Pelicans,Knicks,109 - 114,0,N/A,N/A,N/A
+148,End of,Unknown,None,0.0,4,Knicks,Pelicans,109 - 114,1,N/A,N/A,N/A
+149,End of,Unknown,None,0.0,4,Knicks,Pelicans,109 - 114,1,N/A,N/A,N/A

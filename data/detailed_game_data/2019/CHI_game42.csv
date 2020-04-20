@@ -1,0 +1,486 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Wendell Carter,JUMP_BALL,None,12:00,1,Jazz,Bulls,0 - 0,1,N/A,N/A,N/A
+1,Derrick Favors,FG_ASSISTED,Joe Ingles,11:47,1,Jazz,Bulls,0 - 2,1,20,3,Jumper
+2,Zach LaVine,FG_MISS,None,11:24,1,Bulls,Jazz,0 - 2,0,21,3,Jumper
+3,Derrick Favors,DEFENSIVE_REBOUND,None,11:22,1,Jazz,Bulls,0 - 2,1,N/A,N/A,N/A
+4,Rudy Gobert,TURNOVER,Chandler Hutchison,11:10,1,Jazz,Bulls,0 - 2,1,N/A,N/A,N/A
+5,Zach LaVine,FG_ASSISTED,Chandler Hutchison,11:06,1,Bulls,Jazz,2 - 2,0,-,3,Jumper
+6,Zach LaVine,FOUL_ON_FLOOR,None,10:47,1,Bulls,Jazz,2 - 2,0,N/A,N/A,N/A
+7,Rudy Gobert,FT,None,10:47,1,Jazz,Bulls,2 - 3,1,N/A,1,N/A
+8,Rudy Gobert,FT_MISS,None,10:47,1,Jazz,Bulls,2 - 3,1,N/A,1,N/A
+9,Chandler Hutchison,DEFENSIVE_REBOUND,None,10:45,1,Bulls,Jazz,2 - 3,0,N/A,N/A,N/A
+10,Chandler Hutchison,FG_MISS,None,10:34,1,Bulls,Jazz,2 - 3,0,25,3,Jumper
+11,Royce O'Neale,DEFENSIVE_REBOUND,None,10:30,1,Jazz,Bulls,2 - 3,1,N/A,N/A,N/A
+12,Joe Ingles,FG_ASSISTED,Rudy Gobert,10:23,1,Jazz,Bulls,2 - 6,1,-,3,Jumper
+13,Lauri Markkanen,FG_ASSISTED,Kris Dunn,10:05,1,Bulls,Jazz,4 - 6,0,-,3,Jumper
+14,Derrick Favors,FG_MISS,Zach LaVine,9:48,1,Bulls,Jazz,4 - 6,1,0,2,Layup
+15,Derrick Favors,OFFENSIVE_REBOUND,None,9:46,1,Jazz,Bulls,4 - 6,1,N/A,N/A,N/A
+16,Royce O'Neale,FG_MISS,None,9:43,1,Jazz,Bulls,4 - 6,1,24,3,Jumper
+17,Zach LaVine,DEFENSIVE_REBOUND,None,9:41,1,Bulls,Jazz,4 - 6,0,N/A,N/A,N/A
+18,Chandler Hutchison,FG_MISS,Donovan Mitchell,9:22,1,Jazz,Bulls,4 - 6,0,9,3,Jumper
+19,Chandler Hutchison,OFFENSIVE_REBOUND,None,9:22,1,Bulls,Jazz,4 - 6,0,N/A,N/A,N/A
+20,shot clock,TURNOVER,None,9:22,1,Bulls,Jazz,4 - 6,0,N/A,N/A,N/A
+21,Joe Ingles,FG_ASSISTED,Rudy Gobert,9:11,1,Jazz,Bulls,4 - 9,1,25,3,Jumper
+22,Kris Dunn,FG_UNASSISTED,None,8:57,1,Bulls,Jazz,6 - 9,0,10,3,Jumper
+23,Donovan Mitchell,FG_MISS,None,8:45,1,Jazz,Bulls,6 - 9,1,25,3,Jumper
+24,Lauri Markkanen,DEFENSIVE_REBOUND,None,8:42,1,Bulls,Jazz,6 - 9,0,N/A,N/A,N/A
+25,Lauri Markkanen,FG_MISS,None,8:38,1,Bulls,Jazz,6 - 9,0,27,3,Jumper
+26,Derrick Favors,DEFENSIVE_REBOUND,None,8:35,1,Jazz,Bulls,6 - 9,1,N/A,N/A,N/A
+27,Zach LaVine,FOUL_ON_FLOOR,None,8:21,1,Bulls,Jazz,6 - 9,0,N/A,N/A,N/A
+28,Donovan Mitchell,TURNOVER,Zach LaVine,8:14,1,Jazz,Bulls,6 - 9,1,N/A,N/A,N/A
+29,Zach LaVine,FG_MISS,None,8:06,1,Bulls,Jazz,6 - 9,0,0,2,Layup
+30,Rudy Gobert,DEFENSIVE_REBOUND,None,8:04,1,Jazz,Bulls,6 - 9,1,N/A,N/A,N/A
+31,Rudy Gobert,TURNOVER,Kris Dunn,7:50,1,Jazz,Bulls,6 - 9,1,N/A,N/A,N/A
+32,Royce O'Neale,FOUL_ON_FLOOR,None,7:50,1,Jazz,Bulls,6 - 9,1,N/A,N/A,N/A
+33,Chandler Hutchison,FG_ASSISTED,Wendell Carter,7:30,1,Bulls,Jazz,8 - 9,0,0,2,Dunk
+34,Joe Ingles,FG_ASSISTED,Royce O'Neale,7:10,1,Jazz,Bulls,8 - 12,1,25,3,Jumper
+35,Zach LaVine,TURNOVER,Royce O'Neale,6:54,1,Bulls,Jazz,8 - 12,0,N/A,N/A,N/A
+36,Derrick Favors,FG_MISS,None,6:49,1,Jazz,Bulls,8 - 12,1,0,2,Layup
+37,Rudy Gobert,OFFENSIVE_REBOUND,None,6:49,1,Jazz,Bulls,8 - 12,1,N/A,N/A,N/A
+38,Rudy Gobert,FG_UNASSISTED,None,6:49,1,Jazz,Bulls,8 - 14,1,0,2,Dunk
+39,Team,Unknown,None,6:49,1,Bulls,Jazz,8 - 14,0,N/A,N/A,N/A
+40,Jae Crowder,SUBSTITUTION,Ingles Joe,6:49,1,Jazz,Bulls,8 - 14,1,N/A,N/A,N/A
+41,Kyle Korver,SUBSTITUTION,Favors Derrick,6:49,1,Jazz,Bulls,8 - 14,1,N/A,N/A,N/A
+42,Ryan Arcidiacono,SUBSTITUTION,LaVine Zach,6:49,1,Bulls,Jazz,8 - 14,0,N/A,N/A,N/A
+43,Lauri Markkanen,FG_ASSISTED,Chandler Hutchison,6:39,1,Bulls,Jazz,10 - 14,0,8,3,Jumper
+44,Kyle Korver,FG_MISS,None,6:24,1,Jazz,Bulls,10 - 14,1,23,3,Jumper
+45,Chandler Hutchison,DEFENSIVE_REBOUND,None,6:20,1,Bulls,Jazz,10 - 14,0,N/A,N/A,N/A
+46,Kris Dunn,FG_MISS,None,6:12,1,Bulls,Jazz,10 - 14,0,25,3,Jumper
+47,Royce O'Neale,DEFENSIVE_REBOUND,None,6:08,1,Jazz,Bulls,10 - 14,1,N/A,N/A,N/A
+48,Donovan Mitchell,FG_MISS,Kris Dunn,5:57,1,Bulls,Jazz,10 - 14,1,8,3,Jumper
+49,Wendell Carter,DEFENSIVE_REBOUND,None,5:52,1,Bulls,Jazz,10 - 14,0,N/A,N/A,N/A
+50,Kris Dunn,FG_MISS,None,5:50,1,Bulls,Jazz,10 - 14,0,11,3,Jumper
+51,Royce O'Neale,DEFENSIVE_REBOUND,None,5:50,1,Jazz,Bulls,10 - 14,1,N/A,N/A,N/A
+52,Jae Crowder's,FG_MISS,Lauri Markkanen,5:39,1,Bulls,Jazz,10 - 14,1,0,2,Layup
+53,Team,OFFENSIVE_REBOUND,None,5:39,1,Jazz,Bulls,10 - 14,1,N/A,N/A,N/A
+54,Donovan Mitchell,FG_MISS,None,5:28,1,Jazz,Bulls,10 - 14,1,25,3,Jumper
+55,Chandler Hutchison,DEFENSIVE_REBOUND,None,5:23,1,Bulls,Jazz,10 - 14,0,N/A,N/A,N/A
+56,Wendell Carter,FG_ASSISTED,Kris Dunn,5:19,1,Bulls,Jazz,12 - 14,0,15,3,Jumper
+57,Kris Dunn,FOUL_ON_FLOOR,None,5:05,1,Bulls,Jazz,12 - 14,0,N/A,N/A,N/A
+58,Jae Crowder,FG_MISS,None,4:55,1,Jazz,Bulls,12 - 14,1,25,3,Jumper
+59,Lauri Markkanen,DEFENSIVE_REBOUND,None,4:51,1,Bulls,Jazz,12 - 14,0,N/A,N/A,N/A
+60,Ryan Arcidiacono,FG_MISS,None,4:44,1,Bulls,Jazz,12 - 14,0,26,3,Jumper
+61,Royce O'Neale,DEFENSIVE_REBOUND,None,4:41,1,Jazz,Bulls,12 - 14,1,N/A,N/A,N/A
+62,Royce O'Neale,FG_MISS,None,4:36,1,Jazz,Bulls,12 - 14,1,0,2,Dunk
+63,Kris Dunn,DEFENSIVE_REBOUND,None,4:31,1,Bulls,Jazz,12 - 14,0,N/A,N/A,N/A
+64,Lauri Markkanen,FG_MISS,None,4:21,1,Bulls,Jazz,12 - 14,0,0,2,Layup
+65,Rudy Gobert,DEFENSIVE_REBOUND,None,4:17,1,Jazz,Bulls,12 - 14,1,N/A,N/A,N/A
+66,Jae Crowder,FG_ASSISTED,Donovan Mitchell,4:13,1,Jazz,Bulls,12 - 17,1,25,3,Jumper
+67,Team,Unknown,None,4:13,1,Bulls,Jazz,12 - 17,0,N/A,N/A,N/A
+68,Jabari Parker,SUBSTITUTION,Hutchison Chandler,4:13,1,Bulls,Jazz,12 - 17,0,N/A,N/A,N/A
+69,Wayne Selden,SUBSTITUTION,Markkanen Lauri,4:13,1,Bulls,Jazz,12 - 17,0,N/A,N/A,N/A
+70,Rudy Gobert,FOUL_ON_FLOOR,None,4:05,1,Jazz,Bulls,12 - 17,1,N/A,N/A,N/A
+71,Wendell Carter,FT,None,4:05,1,Bulls,Jazz,13 - 17,0,N/A,1,N/A
+72,Wendell Carter,FT_MISS,None,4:05,1,Bulls,Jazz,13 - 17,0,N/A,1,N/A
+73,Kyle Korver,DEFENSIVE_REBOUND,None,4:03,1,Jazz,Bulls,13 - 17,1,N/A,N/A,N/A
+74,Jae Crowder,FG_MISS,None,3:46,1,Jazz,Bulls,13 - 17,1,26,3,Jumper
+75,Ryan Arcidiacono,DEFENSIVE_REBOUND,None,3:44,1,Bulls,Jazz,13 - 17,0,N/A,N/A,N/A
+76,Kris Dunn,FG_MISS,None,3:39,1,Bulls,Jazz,13 - 17,0,0,2,Layup
+77,Rudy Gobert,DEFENSIVE_REBOUND,None,3:37,1,Jazz,Bulls,13 - 17,1,N/A,N/A,N/A
+78,Donovan Mitchell,FG_ASSISTED,Royce O'Neale,3:24,1,Jazz,Bulls,13 - 19,1,0,2,Layup
+79,Ryan Arcidiacono,FG_MISS,Royce O'Neale,3:06,1,Jazz,Bulls,13 - 19,0,7,3,Jumper
+80,Team,OFFENSIVE_REBOUND,None,3:06,1,Bulls,Jazz,13 - 19,0,N/A,N/A,N/A
+81,Shaquille Harrison,SUBSTITUTION,Dunn Kris,3:06,1,Bulls,Jazz,13 - 19,0,N/A,N/A,N/A
+82,Wendell Carter,FG_MISS,Rudy Gobert,2:57,1,Jazz,Bulls,13 - 19,0,6,3,Jumper
+83,Wendell Carter,OFFENSIVE_REBOUND,None,2:57,1,Bulls,Jazz,13 - 19,0,N/A,N/A,N/A
+84,shot clock,TURNOVER,None,2:57,1,Bulls,Jazz,13 - 19,0,N/A,N/A,N/A
+85,Donovan Mitchell,FG_ASSISTED,Rudy Gobert,2:45,1,Jazz,Bulls,13 - 22,1,27,3,Jumper
+86,Ryan Arcidiacono,FG_UNASSISTED,None,2:33,1,Bulls,Jazz,15 - 22,0,14,3,Jumper
+87,Royce O'Neale,FG_ASSISTED,Donovan Mitchell,2:19,1,Jazz,Bulls,15 - 25,1,23,3,Jumper
+88,Shaquille Harrison,FG_MISS,Kyle Korver,1:59,1,Jazz,Bulls,15 - 25,0,0,2,Layup
+89,Team,OFFENSIVE_REBOUND,None,1:59,1,Bulls,Jazz,15 - 25,0,N/A,N/A,N/A
+90,Joe Ingles,SUBSTITUTION,O'Neale Royce,1:59,1,Jazz,Bulls,15 - 25,1,N/A,N/A,N/A
+91,Grayson Allen,SUBSTITUTION,Gobert Rudy,1:59,1,Jazz,Bulls,15 - 25,1,N/A,N/A,N/A
+92,Derrick Favors,SUBSTITUTION,Mitchell Donovan,1:59,1,Jazz,Bulls,15 - 25,1,N/A,N/A,N/A
+93,Wayne Selden,FG_UNASSISTED,None,1:53,1,Bulls,Jazz,17 - 25,0,9,3,Jumper
+94,Joe Ingles,FG_MISS,None,1:39,1,Jazz,Bulls,17 - 25,1,25,3,Jumper
+95,Wendell Carter,DEFENSIVE_REBOUND,None,1:36,1,Bulls,Jazz,17 - 25,0,N/A,N/A,N/A
+96,Jabari Parker,FG_MISS,None,1:20,1,Bulls,Jazz,17 - 25,0,22,3,Jumper
+97,Team,DEFENSIVE_REBOUND,None,1:18,1,Jazz,Bulls,17 - 25,1,N/A,N/A,N/A
+98,Robin Lopez,SUBSTITUTION,Carter Wendell,1:18,1,Bulls,Jazz,17 - 25,0,N/A,N/A,N/A
+99,Team,Unknown,None,1:18,1,Jazz,Bulls,17 - 25,1,N/A,N/A,N/A
+100,Derrick Favors,FG_ASSISTED,Joe Ingles,1:04,1,Jazz,Bulls,17 - 27,1,13,3,Jumper
+101,Jabari Parker,FG_MISS,None,49.5,1,Bulls,Jazz,17 - 27,0,10,3,Jumper
+102,Derrick Favors,DEFENSIVE_REBOUND,None,46.7,1,Jazz,Bulls,17 - 27,1,N/A,N/A,N/A
+103,Jae Crowder,FG_MISS,None,37.9,1,Jazz,Bulls,17 - 27,1,0,2,Layup
+104,Robin Lopez,DEFENSIVE_REBOUND,None,35.9,1,Bulls,Jazz,17 - 27,0,N/A,N/A,N/A
+105,Wayne Selden,TURNOVER,Derrick Favors,23.3,1,Bulls,Jazz,17 - 27,0,N/A,N/A,N/A
+106,Jae Crowder,FG_MISS,None,17.6,1,Jazz,Bulls,17 - 27,1, ,3,Jumper
+107,Derrick Favors,OFFENSIVE_REBOUND,None,14.1,1,Jazz,Bulls,17 - 27,1,N/A,N/A,N/A
+108,Derrick Favors,FG_UNASSISTED,None,14.1,1,Jazz,Bulls,17 - 29,1,0,2,Dunk
+109,Kyle Korver,FOUL_ON_FLOOR,None,1.9,1,Jazz,Bulls,17 - 29,1,N/A,N/A,N/A
+110,Ryan Arcidiacono,FT,None,1.9,1,Bulls,Jazz,18 - 29,0,N/A,1,N/A
+111,Ryan Arcidiacono,FT,None,1.9,1,Bulls,Jazz,19 - 29,0,N/A,1,N/A
+112,Joe Ingles,FG_MISS,None,0.0,1,Jazz,Bulls,19 - 29,1, ,3,Jumper
+113,Team,OFFENSIVE_REBOUND,None,0.0,1,Jazz,Bulls,19 - 29,1,N/A,N/A,N/A
+114,End of,Unknown,None,0.0,1,Jazz,Bulls,19 - 29,1,N/A,N/A,N/A
+0,Zach LaVine,SUBSTITUTION,Arcidiacono Ryan,12:00,2,Bulls,Jazz,19 - 29,0,N/A,N/A,N/A
+1,Zach LaVine,FG_MISS,None,11:44,2,Bulls,Jazz,19 - 29,0,0,2,Layup
+2,Kyle Korver,DEFENSIVE_REBOUND,None,11:42,2,Jazz,Bulls,19 - 29,1,N/A,N/A,N/A
+3,Joe Ingles,FG_UNASSISTED,None,11:35,2,Jazz,Bulls,19 - 31,1,0,2,Layup
+4,Jabari Parker,FG_ASSISTED,Shaquille Harrison,11:26,2,Bulls,Jazz,21 - 31,0,17,3,Jumper
+5,Derrick Favors,FG_MISS,None,11:09,2,Jazz,Bulls,21 - 31,1,0,2,Layup
+6,Jabari Parker,DEFENSIVE_REBOUND,None,11:07,2,Bulls,Jazz,21 - 31,0,N/A,N/A,N/A
+7,Grayson Allen,Unknown,None,11:00,2,Jazz,Bulls,21 - 31,1,N/A,N/A,N/A
+8,Jabari Parker,FG_UNASSISTED,None,10:45,2,Bulls,Jazz,23 - 31,0,0,2,Layup
+9,Jae Crowder,FG_MISS,None,10:37,2,Jazz,Bulls,23 - 31,1,24,3,Jumper
+10,Jabari Parker,DEFENSIVE_REBOUND,None,10:35,2,Bulls,Jazz,23 - 31,0,N/A,N/A,N/A
+11,Wayne Selden,FG_ASSISTED,Jabari Parker,10:29,2,Bulls,Jazz,25 - 31,0, ,3,Jumper
+12,Shaquille Harrison,FOUL_ON_FLOOR,None,10:16,2,Bulls,Jazz,25 - 31,0,N/A,N/A,N/A
+13,Georges Niang,SUBSTITUTION,Crowder Jae,10:16,2,Jazz,Bulls,25 - 31,1,N/A,N/A,N/A
+14,Royce O'Neale,SUBSTITUTION,Korver Kyle,10:16,2,Jazz,Bulls,25 - 31,1,N/A,N/A,N/A
+15,Royce O'Neale,FG_MISS,None,10:09,2,Jazz,Bulls,25 - 31,1,23,3,Jumper
+16,Jabari Parker,DEFENSIVE_REBOUND,None,10:06,2,Bulls,Jazz,25 - 31,0,N/A,N/A,N/A
+17,Shaquille Harrison,FG_MISS,Grayson Allen,10:00,2,Jazz,Bulls,25 - 31,0,0,2,Layup
+18,Team,OFFENSIVE_REBOUND,None,9:59,2,Bulls,Jazz,25 - 31,0,N/A,N/A,N/A
+19,Zach LaVine,FG_ASSISTED,Shaquille Harrison,9:57,2,Bulls,Jazz,28 - 31,0,25,3,Jumper
+20,Shaquille Harrison,FOUL_ON_FLOOR,None,9:38,2,Bulls,Jazz,28 - 31,0,N/A,N/A,N/A
+21,Grayson Allen,FT,None,9:38,2,Jazz,Bulls,28 - 32,1,N/A,1,N/A
+22,Kris Dunn,SUBSTITUTION,Harrison Shaquille,9:38,2,Bulls,Jazz,28 - 32,0,N/A,N/A,N/A
+23,Grayson Allen,FT,None,9:38,2,Jazz,Bulls,28 - 33,1,N/A,1,N/A
+24,Jabari Parker,FG_ASSISTED,Kris Dunn,9:21,2,Bulls,Jazz,31 - 33,0,26,3,Jumper
+25,Derrick Favors,FG_MISS,Kris Dunn,9:04,2,Bulls,Jazz,31 - 33,1,0,2,Dunk
+26,Team,OFFENSIVE_REBOUND,None,9:04,2,Jazz,Bulls,31 - 33,1,N/A,N/A,N/A
+27,Rudy Gobert,SUBSTITUTION,Favors Derrick,9:04,2,Jazz,Bulls,31 - 33,1,N/A,N/A,N/A
+28,Donovan Mitchell,SUBSTITUTION,Ingles Joe,9:04,2,Jazz,Bulls,31 - 33,1,N/A,N/A,N/A
+29,Georges Niang,TURNOVER,Kris Dunn,8:54,2,Jazz,Bulls,31 - 33,1,N/A,N/A,N/A
+30,Kris Dunn,FG_MISS,None,8:50,2,Bulls,Jazz,31 - 33,0, ,3,Jumper
+31,Wayne Selden,OFFENSIVE_REBOUND,None,8:45,2,Bulls,Jazz,31 - 33,0,N/A,N/A,N/A
+32,Wayne Selden,FG_UNASSISTED,None,8:45,2,Bulls,Jazz,33 - 33,0, ,3,Jumper
+33,Team,Unknown,None,8:45,2,Jazz,Bulls,33 - 33,1,N/A,N/A,N/A
+34,Rudy Gobert,TURNOVER,Kris Dunn,8:29,2,Jazz,Bulls,33 - 33,1,N/A,N/A,N/A
+35,Robin Lopez,FG_ASSISTED,Kris Dunn,8:17,2,Bulls,Jazz,35 - 33,0,0,2,Layup
+36,Royce O'Neale,FG_MISS,None,7:53,2,Jazz,Bulls,35 - 33,1,15,3,Jumper
+37,Jabari Parker,DEFENSIVE_REBOUND,None,7:50,2,Bulls,Jazz,35 - 33,0,N/A,N/A,N/A
+38,Wayne Selden,TURNOVER,None,7:43,2,Bulls,Jazz,35 - 33,0,N/A,N/A,N/A
+39,Kyle Korver,SUBSTITUTION,Allen Grayson,7:43,2,Jazz,Bulls,35 - 33,1,N/A,N/A,N/A
+40,Jae Crowder,SUBSTITUTION,Niang Georges,7:43,2,Jazz,Bulls,35 - 33,1,N/A,N/A,N/A
+41,Donovan Mitchell,FG_UNASSISTED,None,7:33,2,Jazz,Bulls,35 - 36,1,25,3,Jumper
+42,Robin Lopez,FG_MISS,Jae Crowder,7:08,2,Jazz,Bulls,35 - 36,0,0,2,Layup
+43,Jae Crowder,DEFENSIVE_REBOUND,None,7:06,2,Jazz,Bulls,35 - 36,1,N/A,N/A,N/A
+44,Jae Crowder,TURNOVER,Zach LaVine,7:06,2,Jazz,Bulls,35 - 36,1,N/A,N/A,N/A
+45,Donovan Mitchell,FOUL_ON_FLOOR,None,7:06,2,Jazz,Bulls,35 - 36,1,N/A,N/A,N/A
+46,Wendell Carter,SUBSTITUTION,Parker Jabari,7:06,2,Bulls,Jazz,35 - 36,0,N/A,N/A,N/A
+47,Lauri Markkanen,SUBSTITUTION,Lopez Robin,7:06,2,Bulls,Jazz,35 - 36,0,N/A,N/A,N/A
+48,Lauri Markkanen,FG_MISS,None,6:55,2,Bulls,Jazz,35 - 36,0,10,3,Jumper
+49,Rudy Gobert,DEFENSIVE_REBOUND,None,6:52,2,Jazz,Bulls,35 - 36,1,N/A,N/A,N/A
+50,Donovan Mitchell,FG_MISS,None,6:42,2,Jazz,Bulls,35 - 36,1,28,3,Jumper
+51,Wendell Carter,DEFENSIVE_REBOUND,None,6:39,2,Bulls,Jazz,35 - 36,0,N/A,N/A,N/A
+52,Zach LaVine,FG_MISS,None,6:19,2,Bulls,Jazz,35 - 36,0,31,3,Jumper
+53,Donovan Mitchell,DEFENSIVE_REBOUND,None,6:14,2,Jazz,Bulls,35 - 36,1,N/A,N/A,N/A
+54,Kyle Korver,FG_MISS,None,6:10,2,Jazz,Bulls,35 - 36,1,27,3,Jumper
+55,Team,DEFENSIVE_REBOUND,None,6:06,2,Bulls,Jazz,35 - 36,0,N/A,N/A,N/A
+56,Team,Unknown,None,6:06,2,Bulls,Jazz,35 - 36,0,N/A,N/A,N/A
+57,Chandler Hutchison,SUBSTITUTION,Selden Wayne,6:06,2,Bulls,Jazz,35 - 36,0,N/A,N/A,N/A
+58,Wendell Carter,FG_ASSISTED,Kris Dunn,5:56,2,Bulls,Jazz,37 - 36,0,0,2,Layup
+59,Lauri Markkanen,FOUL_ON_FLOOR,None,5:45,2,Bulls,Jazz,37 - 36,0,N/A,N/A,N/A
+60,Jae Crowder,FT,None,5:45,2,Jazz,Bulls,37 - 37,1,N/A,1,N/A
+61,Jae Crowder,FT,None,5:45,2,Jazz,Bulls,37 - 38,1,N/A,1,N/A
+62,Kris Dunn,FOUL_ON_FLOOR,None,5:44,2,Bulls,Jazz,37 - 38,0,N/A,N/A,N/A
+63,Kris Dunn,TURNOVER,None,5:44,2,Bulls,Jazz,37 - 38,0,N/A,N/A,N/A
+64,Joe Ingles,SUBSTITUTION,Korver Kyle,5:44,2,Jazz,Bulls,37 - 38,1,N/A,N/A,N/A
+65,Jae Crowder,FG_MISS,None,5:34,2,Jazz,Bulls,37 - 38,1,24,3,Jumper
+66,Kris Dunn,DEFENSIVE_REBOUND,None,5:31,2,Bulls,Jazz,37 - 38,0,N/A,N/A,N/A
+67,Kris Dunn,FG_UNASSISTED,None,5:23,2,Bulls,Jazz,39 - 38,0,9,3,Jumper
+68,Royce O'Neale,FG_MISS,Wendell Carter,5:03,2,Bulls,Jazz,39 - 38,1,0,2,Dunk
+69,Jae Crowder,OFFENSIVE_REBOUND,None,4:58,2,Jazz,Bulls,39 - 38,1,N/A,N/A,N/A
+70,Donovan Mitchell,FG_MISS,None,4:57,2,Jazz,Bulls,39 - 38,1,25,3,Jumper
+71,Kris Dunn,DEFENSIVE_REBOUND,None,4:55,2,Bulls,Jazz,39 - 38,0,N/A,N/A,N/A
+72,Lauri Markkanen,FG_ASSISTED,Kris Dunn,4:51,2,Bulls,Jazz,41 - 38,0,0,2,Layup
+73,Jae Crowder,FOUL_ON_FLOOR,None,4:51,2,Jazz,Bulls,41 - 38,1,N/A,N/A,N/A
+74,Kyle Korver,SUBSTITUTION,O'Neale Royce,4:51,2,Jazz,Bulls,41 - 38,1,N/A,N/A,N/A
+75,Lauri Markkanen,FT,None,4:51,2,Bulls,Jazz,42 - 38,0,N/A,1,N/A
+76,Kyle Korver,FG_ASSISTED,Donovan Mitchell,4:43,2,Jazz,Bulls,42 - 41,1,26,3,Jumper
+77,Kris Dunn,FG_MISS,Jae Crowder,4:27,2,Jazz,Bulls,42 - 41,0,16,3,Jumper
+78,Kyle Korver,DEFENSIVE_REBOUND,None,4:24,2,Jazz,Bulls,42 - 41,1,N/A,N/A,N/A
+79,Kris Dunn,FOUL_ON_FLOOR,None,4:22,2,Bulls,Jazz,42 - 41,0,N/A,N/A,N/A
+80,Donovan Mitchell,FT_MISS,None,4:22,2,Jazz,Bulls,42 - 41,1,N/A,1,N/A
+81,Team,OFFENSIVE_REBOUND,None,4:22,2,Jazz,Bulls,42 - 41,1,N/A,N/A,N/A
+82,Ryan Arcidiacono,SUBSTITUTION,Dunn Kris,4:22,2,Bulls,Jazz,42 - 41,0,N/A,N/A,N/A
+83,Donovan Mitchell,FT,None,4:22,2,Jazz,Bulls,42 - 42,1,N/A,1,N/A
+84,Zach LaVine,FG_MISS,Rudy Gobert,4:09,2,Jazz,Bulls,42 - 42,0,0,2,Layup
+85,Rudy Gobert,DEFENSIVE_REBOUND,None,4:06,2,Jazz,Bulls,42 - 42,1,N/A,N/A,N/A
+86,Kyle Korver,FG_ASSISTED,Donovan Mitchell,4:02,2,Jazz,Bulls,42 - 45,1,24,3,Jumper
+87,Zach LaVine,FG_ASSISTED,Wendell Carter,3:44,2,Bulls,Jazz,45 - 45,0,27,3,Jumper
+88,Wendell Carter,FOUL_ON_FLOOR,None,3:28,2,Bulls,Jazz,45 - 45,0,N/A,N/A,N/A
+89,Rudy Gobert,FT,None,3:28,2,Jazz,Bulls,45 - 46,1,N/A,1,N/A
+90,Wayne Selden,SUBSTITUTION,LaVine Zach,3:28,2,Bulls,Jazz,45 - 46,0,N/A,N/A,N/A
+91,Rudy Gobert,FT,None,3:28,2,Jazz,Bulls,45 - 47,1,N/A,1,N/A
+92,Ryan Arcidiacono,TURNOVER,Jae Crowder,3:04,2,Bulls,Jazz,45 - 47,0,N/A,N/A,N/A
+93,Rudy Gobert,TURNOVER,None,2:52,2,Jazz,Bulls,45 - 47,1,N/A,N/A,N/A
+94,Wayne Selden,FG_ASSISTED,Ryan Arcidiacono,2:34,2,Bulls,Jazz,47 - 47,0,17,3,Jumper
+95,Wendell Carter,FOUL_ON_FLOOR,None,2:19,2,Bulls,Jazz,47 - 47,0,N/A,N/A,N/A
+96,Rudy Gobert,FT_MISS,None,2:19,2,Jazz,Bulls,47 - 47,1,N/A,1,N/A
+97,Team,OFFENSIVE_REBOUND,None,2:19,2,Jazz,Bulls,47 - 47,1,N/A,N/A,N/A
+98,Robin Lopez,SUBSTITUTION,Carter Wendell,2:19,2,Bulls,Jazz,47 - 47,0,N/A,N/A,N/A
+99,Rudy Gobert,FT_MISS,None,2:19,2,Jazz,Bulls,47 - 47,1,N/A,1,N/A
+100,Lauri Markkanen,DEFENSIVE_REBOUND,None,2:17,2,Bulls,Jazz,47 - 47,0,N/A,N/A,N/A
+101,Wayne Selden,FG_ASSISTED,Robin Lopez,2:08,2,Bulls,Jazz,50 - 47,0,25,3,Jumper
+102,Joe Ingles,FG_MISS,None,1:51,2,Jazz,Bulls,50 - 47,1,25,3,Jumper
+103,Rudy Gobert,OFFENSIVE_REBOUND,None,1:48,2,Jazz,Bulls,50 - 47,1,N/A,N/A,N/A
+104,Kyle Korver,FG_MISS,None,1:44,2,Jazz,Bulls,50 - 47,1,24,3,Jumper
+105,Lauri Markkanen,DEFENSIVE_REBOUND,None,1:41,2,Bulls,Jazz,50 - 47,0,N/A,N/A,N/A
+106,Jae Crowder,FOUL_ON_FLOOR,None,1:41,2,Jazz,Bulls,50 - 47,1,N/A,N/A,N/A
+107,Ryan Arcidiacono,TURNOVER,Jae Crowder,1:27,2,Bulls,Jazz,50 - 47,0,N/A,N/A,N/A
+108,Jae Crowder,FG_MISS,None,1:24,2,Jazz,Bulls,50 - 47,1, ,3,Jumper
+109,Rudy Gobert,OFFENSIVE_REBOUND,None,1:22,2,Jazz,Bulls,50 - 47,1,N/A,N/A,N/A
+110,Rudy Gobert,FG_UNASSISTED,None,1:21,2,Jazz,Bulls,50 - 49,1,0,2,Layup
+111,Chandler Hutchison,FG_MISS,None,59.2,2,Bulls,Jazz,50 - 49,0,0,2,Layup
+112,Robin Lopez,OFFENSIVE_REBOUND,None,56.2,2,Bulls,Jazz,50 - 49,0,N/A,N/A,N/A
+113,Robin Lopez,FG_MISS,None,56.0,2,Bulls,Jazz,50 - 49,0,2,3,Jumper
+114,Robin Lopez,OFFENSIVE_REBOUND,None,56.0,2,Bulls,Jazz,50 - 49,0,N/A,N/A,N/A
+115,Chandler Hutchison,FG_ASSISTED,Robin Lopez,54.6,2,Bulls,Jazz,53 - 49,0,24,3,Jumper
+116,Ryan Arcidiacono,FOUL_ON_FLOOR,None,34.1,2,Bulls,Jazz,53 - 49,0,N/A,N/A,N/A
+117,Donovan Mitchell,FT,None,34.1,2,Jazz,Bulls,53 - 50,1,N/A,1,N/A
+118,Donovan Mitchell,FT,None,34.1,2,Jazz,Bulls,53 - 51,1,N/A,1,N/A
+119,Ryan Arcidiacono,FG_MISS,None,15.4,2,Bulls,Jazz,53 - 51,0,27,3,Jumper
+120,Rudy Gobert,DEFENSIVE_REBOUND,None,12.8,2,Jazz,Bulls,53 - 51,1,N/A,N/A,N/A
+121,Donovan Mitchell,FG_MISS,None,1.3,2,Jazz,Bulls,53 - 51,1,11,3,Jumper
+122,Team,OFFENSIVE_REBOUND,None,1.3,2,Jazz,Bulls,53 - 51,1,N/A,N/A,N/A
+123,End of,Unknown,None,0.0,2,Jazz,Bulls,53 - 51,1,N/A,N/A,N/A
+0,Derrick Favors,SUBSTITUTION,Korver Kyle,12:00,3,Jazz,Bulls,53 - 51,1,N/A,N/A,N/A
+1,Royce O'Neale,SUBSTITUTION,Crowder Jae,12:00,3,Jazz,Bulls,53 - 51,1,N/A,N/A,N/A
+2,Kris Dunn,SUBSTITUTION,Selden Wayne,12:00,3,Bulls,Jazz,53 - 51,0,N/A,N/A,N/A
+3,Wendell Carter,SUBSTITUTION,Arcidiacono Ryan,12:00,3,Bulls,Jazz,53 - 51,0,N/A,N/A,N/A
+4,Zach LaVine,SUBSTITUTION,Lopez Robin,12:00,3,Bulls,Jazz,53 - 51,0,N/A,N/A,N/A
+5,Zach LaVine,FG_MISS,None,11:50,3,Bulls,Jazz,53 - 51,0,0,2,Dunk
+6,Kris Dunn,OFFENSIVE_REBOUND,None,11:47,3,Bulls,Jazz,53 - 51,0,N/A,N/A,N/A
+7,Lauri Markkanen,FG_MISS,None,11:40,3,Bulls,Jazz,53 - 51,0,25,3,Jumper
+8,Rudy Gobert,DEFENSIVE_REBOUND,None,11:37,3,Jazz,Bulls,53 - 51,1,N/A,N/A,N/A
+9,Donovan Mitchell,FG_ASSISTED,Royce O'Neale,11:24,3,Jazz,Bulls,53 - 53,1,18,3,Jumper
+10,Lauri Markkanen,FG_ASSISTED,Zach LaVine,11:02,3,Bulls,Jazz,56 - 53,0,26,3,Jumper
+11,Donovan Mitchell,FG_ASSISTED,Royce O'Neale,10:44,3,Jazz,Bulls,56 - 55,1,12,3,Jumper
+12,Zach LaVine,FG_UNASSISTED,None,10:25,3,Bulls,Jazz,58 - 55,0,0,2,Layup
+13,Donovan Mitchell,FG_UNASSISTED,None,10:05,3,Jazz,Bulls,58 - 57,1,20,3,Jumper
+14,Lauri Markkanen,FG_MISS,None,9:45,3,Bulls,Jazz,58 - 57,0,27,3,Jumper
+15,Wendell Carter,OFFENSIVE_REBOUND,None,9:43,3,Bulls,Jazz,58 - 57,0,N/A,N/A,N/A
+16,Wendell Carter,FG_MISS,None,9:41,3,Bulls,Jazz,58 - 57,0,24,3,Jumper
+17,Derrick Favors,DEFENSIVE_REBOUND,None,9:37,3,Jazz,Bulls,58 - 57,1,N/A,N/A,N/A
+18,Joe Ingles,FG_MISS,None,9:30,3,Jazz,Bulls,58 - 57,1,26,3,Jumper
+19,Chandler Hutchison,DEFENSIVE_REBOUND,None,9:26,3,Bulls,Jazz,58 - 57,0,N/A,N/A,N/A
+20,Kris Dunn,FG_UNASSISTED,None,9:17,3,Bulls,Jazz,60 - 57,0,15,3,Jumper
+21,Joe Ingles,FG_ASSISTED,Rudy Gobert,9:01,3,Jazz,Bulls,60 - 59,1,0,2,Layup
+22,Kris Dunn,TURNOVER,Derrick Favors,8:50,3,Bulls,Jazz,60 - 59,0,N/A,N/A,N/A
+23,Royce O'Neale,FG_ASSISTED,Donovan Mitchell,8:45,3,Jazz,Bulls,60 - 61,1,0,2,Dunk
+24,Team,Unknown,None,8:45,3,Bulls,Jazz,60 - 61,0,N/A,N/A,N/A
+25,Kris Dunn,FG_MISS,Derrick Favors,8:28,3,Jazz,Bulls,60 - 61,0,0,2,Layup
+26,Team,OFFENSIVE_REBOUND,None,8:28,3,Bulls,Jazz,60 - 61,0,N/A,N/A,N/A
+27,Zach LaVine,FG_MISS,None,8:28,3,Bulls,Jazz,60 - 61,0,25,3,Jumper
+28,Joe Ingles,DEFENSIVE_REBOUND,None,8:21,3,Jazz,Bulls,60 - 61,1,N/A,N/A,N/A
+29,Rudy Gobert,FG_ASSISTED,Joe Ingles,8:11,3,Jazz,Bulls,60 - 63,1,0,2,Dunk
+30,Chandler Hutchison,FG_ASSISTED,Lauri Markkanen,7:53,3,Bulls,Jazz,63 - 63,0,22,3,Jumper
+31,Donovan Mitchell,FG_ASSISTED,Rudy Gobert,7:31,3,Jazz,Bulls,63 - 66,1,25,3,Jumper
+32,Wendell Carter,FG_ASSISTED,Kris Dunn,7:12,3,Bulls,Jazz,65 - 66,0,0,2,Layup
+33,Donovan Mitchell,FG_UNASSISTED,None,6:59,3,Jazz,Bulls,65 - 69,1,26,3,Jumper
+34,Zach LaVine,FG_MISS,None,6:42,3,Bulls,Jazz,65 - 69,0,0,2,Layup
+35,Rudy Gobert,DEFENSIVE_REBOUND,None,6:40,3,Jazz,Bulls,65 - 69,1,N/A,N/A,N/A
+36,Rudy Gobert,TURNOVER,Zach LaVine,6:39,3,Jazz,Bulls,65 - 69,1,N/A,N/A,N/A
+37,Rudy Gobert,FOUL_ON_FLOOR,None,6:39,3,Jazz,Bulls,65 - 69,1,N/A,N/A,N/A
+38,Zach LaVine,FT,None,6:39,3,Bulls,Jazz,66 - 69,0,N/A,1,N/A
+39,Jae Crowder,SUBSTITUTION,Ingles Joe,6:39,3,Jazz,Bulls,66 - 69,1,N/A,N/A,N/A
+40,Kyle Korver,SUBSTITUTION,Favors Derrick,6:39,3,Jazz,Bulls,66 - 69,1,N/A,N/A,N/A
+41,Zach LaVine,FT,None,6:39,3,Bulls,Jazz,67 - 69,0,N/A,1,N/A
+42,Jae Crowder,FG_MISS,None,6:20,3,Jazz,Bulls,67 - 69,1,27,3,Jumper
+43,Zach LaVine,DEFENSIVE_REBOUND,None,6:18,3,Bulls,Jazz,67 - 69,0,N/A,N/A,N/A
+44,Zach LaVine,FG_MISS,Royce O'Neale,6:06,3,Jazz,Bulls,67 - 69,0,4,3,Jumper
+45,Donovan Mitchell,DEFENSIVE_REBOUND,None,6:03,3,Jazz,Bulls,67 - 69,1,N/A,N/A,N/A
+46,Donovan Mitchell,FG_MISS,Lauri Markkanen,6:01,3,Bulls,Jazz,67 - 69,1,7,3,Jumper
+47,Kyle Korver,OFFENSIVE_REBOUND,None,5:58,3,Jazz,Bulls,67 - 69,1,N/A,N/A,N/A
+48,Kyle Korver,FG_UNASSISTED,None,5:57,3,Jazz,Bulls,67 - 72,1,27,3,Jumper
+49,Lauri Markkanen,FG_MISS,None,5:30,3,Bulls,Jazz,67 - 72,0,13,3,Jumper
+50,Donovan Mitchell,DEFENSIVE_REBOUND,None,5:28,3,Jazz,Bulls,67 - 72,1,N/A,N/A,N/A
+51,Wendell Carter,FOUL_ON_FLOOR,None,5:19,3,Bulls,Jazz,67 - 72,0,N/A,N/A,N/A
+52,Jae Crowder,FT_MISS,None,5:19,3,Jazz,Bulls,67 - 72,1,N/A,1,N/A
+53,Team,OFFENSIVE_REBOUND,None,5:19,3,Jazz,Bulls,67 - 72,1,N/A,N/A,N/A
+54,Jae Crowder,FT,None,5:19,3,Jazz,Bulls,67 - 73,1,N/A,1,N/A
+55,Kris Dunn,FG_MISS,None,5:04,3,Bulls,Jazz,67 - 73,0, ,3,Jumper
+56,Royce O'Neale,DEFENSIVE_REBOUND,None,5:02,3,Jazz,Bulls,67 - 73,1,N/A,N/A,N/A
+57,Donovan Mitchell,FG_MISS,None,4:48,3,Jazz,Bulls,67 - 73,1,24,3,Jumper
+58,Chandler Hutchison,DEFENSIVE_REBOUND,None,4:45,3,Bulls,Jazz,67 - 73,0,N/A,N/A,N/A
+59,Chandler Hutchison,FG_UNASSISTED,None,4:42,3,Bulls,Jazz,69 - 73,0, ,3,Jumper
+60,Kyle Korver,FOUL_ON_FLOOR,None,4:42,3,Jazz,Bulls,69 - 73,1,N/A,N/A,N/A
+61,Jabari Parker,SUBSTITUTION,Carter Wendell,4:42,3,Bulls,Jazz,69 - 73,0,N/A,N/A,N/A
+62,Chandler Hutchison,FT,None,4:42,3,Bulls,Jazz,70 - 73,0,N/A,1,N/A
+63,Jae Crowder,FOUL_ON_FLOOR,None,4:35,3,Jazz,Bulls,70 - 73,1,N/A,N/A,N/A
+64,Jae Crowder,TURNOVER,None,4:35,3,Jazz,Bulls,70 - 73,1,N/A,N/A,N/A
+65,Chandler Hutchison,TURNOVER,Rudy Gobert,4:18,3,Bulls,Jazz,70 - 73,0,N/A,N/A,N/A
+66,Kyle Korver,FG_ASSISTED,Donovan Mitchell,4:12,3,Jazz,Bulls,70 - 76,1,30,3,Jumper
+67,Kris Dunn,FG_UNASSISTED,None,3:54,3,Bulls,Jazz,72 - 76,0,0,2,Dunk
+68,Kyle Korver,FG_MISS,None,3:37,3,Jazz,Bulls,72 - 76,1,26,3,Jumper
+69,Jabari Parker,DEFENSIVE_REBOUND,None,3:35,3,Bulls,Jazz,72 - 76,0,N/A,N/A,N/A
+70,Jabari Parker,FG_UNASSISTED,None,3:28,3,Bulls,Jazz,74 - 76,0,0,2,Layup
+71,Team,Unknown,None,3:26,3,Jazz,Bulls,74 - 76,1,N/A,N/A,N/A
+72,Derrick Favors,SUBSTITUTION,Gobert Rudy,3:26,3,Jazz,Bulls,74 - 76,1,N/A,N/A,N/A
+73,Joe Ingles,SUBSTITUTION,for game,3:26,3,Jazz,Bulls,74 - 76,1,N/A,N/A,N/A
+74,Shaquille Harrison,SUBSTITUTION,LaVine Zach,3:26,3,Bulls,Jazz,74 - 76,0,N/A,N/A,N/A
+75,Wayne Selden,SUBSTITUTION,Hutchison Chandler,3:26,3,Bulls,Jazz,74 - 76,0,N/A,N/A,N/A
+76,enters the,SUBSTITUTION,Mitchell Donovan,3:26,3,Jazz,Bulls,74 - 76,1,N/A,N/A,N/A
+77,Kyle Korver,FG_MISS,None,3:09,3,Jazz,Bulls,74 - 76,1,25,3,Jumper
+78,Jae Crowder,OFFENSIVE_REBOUND,None,3:04,3,Jazz,Bulls,74 - 76,1,N/A,N/A,N/A
+79,Jae Crowder,FG_MISS,None,3:03,3,Jazz,Bulls,74 - 76,1,25,3,Jumper
+80,Kris Dunn,DEFENSIVE_REBOUND,None,3:03,3,Bulls,Jazz,74 - 76,0,N/A,N/A,N/A
+81,Jabari Parker,FG_MISS,None,2:46,3,Bulls,Jazz,74 - 76,0, ,3,Jumper
+82,Derrick Favors,DEFENSIVE_REBOUND,None,2:43,3,Jazz,Bulls,74 - 76,1,N/A,N/A,N/A
+83,Joe Ingles,FG_MISS,None,2:34,3,Jazz,Bulls,74 - 76,1,27,3,Jumper
+84,Shaquille Harrison,DEFENSIVE_REBOUND,None,2:30,3,Bulls,Jazz,74 - 76,0,N/A,N/A,N/A
+85,Grayson Allen,SUBSTITUTION,O'Neale Royce,2:28,3,Jazz,Bulls,74 - 76,1,N/A,N/A,N/A
+86,Ryan Arcidiacono,SUBSTITUTION,Dunn Kris,2:28,3,Bulls,Jazz,74 - 76,0,N/A,N/A,N/A
+87,Lauri Markkanen,FG_MISS,None,2:14,3,Bulls,Jazz,74 - 76,0,23,3,Jumper
+88,Joe Ingles,DEFENSIVE_REBOUND,None,2:12,3,Jazz,Bulls,74 - 76,1,N/A,N/A,N/A
+89,Kyle Korver,FG_ASSISTED,Jae Crowder,2:01,3,Jazz,Bulls,74 - 78,1,23,3,Jumper
+90,Jabari Parker,FG_UNASSISTED,None,1:48,3,Bulls,Jazz,76 - 78,0,0,2,Layup
+91,Jae Crowder,FG_MISS,None,1:37,3,Jazz,Bulls,76 - 78,1,0,2,Layup
+92,Jabari Parker,DEFENSIVE_REBOUND,None,1:35,3,Bulls,Jazz,76 - 78,0,N/A,N/A,N/A
+93,Lauri Markkanen,FG_ASSISTED,Wayne Selden,1:24,3,Bulls,Jazz,78 - 78,0,17,3,Jumper
+94,Joe Ingles,FG_MISS,None,1:07,3,Jazz,Bulls,78 - 78,1,0,2,Layup
+95,Shaquille Harrison,DEFENSIVE_REBOUND,None,1:02,3,Bulls,Jazz,78 - 78,0,N/A,N/A,N/A
+96,Joe Ingles,FOUL_ON_FLOOR,None,55.5,3,Jazz,Bulls,78 - 78,1,N/A,N/A,N/A
+97,Robin Lopez,SUBSTITUTION,Markkanen Lauri,55.5,3,Bulls,Jazz,78 - 78,0,N/A,N/A,N/A
+98,Shaquille Harrison,FG_ASSISTED,Wayne Selden,45.2,3,Bulls,Jazz,80 - 78,0,2,3,Jumper
+99,Grayson Allen,FG_ASSISTED,Joe Ingles,28.7,3,Jazz,Bulls,80 - 81,1,23,3,Jumper
+100,Derrick Favors,FOUL_ON_FLOOR,None,3.6,3,Jazz,Bulls,80 - 81,1,N/A,N/A,N/A
+101,Ryan Arcidiacono,FT,None,3.6,3,Bulls,Jazz,81 - 81,0,N/A,1,N/A
+102,Ryan Arcidiacono,FT,None,3.6,3,Bulls,Jazz,82 - 81,0,N/A,1,N/A
+103,Joe Ingles,FG_MISS,None,0.0,3,Jazz,Bulls,82 - 81,1, ,3,Jumper
+104,Team,OFFENSIVE_REBOUND,None,0.0,3,Jazz,Bulls,82 - 81,1,N/A,N/A,N/A
+105,End of,Unknown,None,0.0,3,Jazz,Bulls,82 - 81,1,N/A,N/A,N/A
+0,Rudy Gobert,SUBSTITUTION,Favors Derrick,12:00,4,Jazz,Bulls,82 - 81,1,N/A,N/A,N/A
+1,Grayson Allen,TURNOVER,None,11:45,4,Jazz,Bulls,82 - 81,1,N/A,N/A,N/A
+2,Ryan Arcidiacono,TURNOVER,None,11:37,4,Bulls,Jazz,82 - 81,0,N/A,N/A,N/A
+3,Royce O'Neale,SUBSTITUTION,for game,11:37,4,Jazz,Bulls,82 - 81,1,N/A,N/A,N/A
+4,enters the,SUBSTITUTION,Korver Kyle,11:37,4,Jazz,Bulls,82 - 81,1,N/A,N/A,N/A
+5,Jae Crowder,FG_MISS,Robin Lopez,11:27,4,Bulls,Jazz,82 - 81,1,0,2,Layup
+6,Shaquille Harrison,DEFENSIVE_REBOUND,None,11:24,4,Bulls,Jazz,82 - 81,0,N/A,N/A,N/A
+7,Shaquille Harrison,FG_MISS,None,11:15,4,Bulls,Jazz,82 - 81,0,0,2,Layup
+8,Royce O'Neale,DEFENSIVE_REBOUND,None,11:13,4,Jazz,Bulls,82 - 81,1,N/A,N/A,N/A
+9,Grayson Allen,FG_MISS,None,11:09,4,Jazz,Bulls,82 - 81,1,25,3,Jumper
+10,Jabari Parker,DEFENSIVE_REBOUND,None,11:06,4,Bulls,Jazz,82 - 81,0,N/A,N/A,N/A
+11,Joe Ingles,FOUL_ON_FLOOR,None,10:55,4,Jazz,Bulls,82 - 81,1,N/A,N/A,N/A
+12,Wayne Selden,FG_MISS,None,10:50,4,Bulls,Jazz,82 - 81,0,25,3,Jumper
+13,Royce O'Neale,DEFENSIVE_REBOUND,None,10:47,4,Jazz,Bulls,82 - 81,1,N/A,N/A,N/A
+14,Joe Ingles,FG_MISS,None,10:33,4,Jazz,Bulls,82 - 81,1,26,3,Jumper
+15,Ryan Arcidiacono,DEFENSIVE_REBOUND,None,10:31,4,Bulls,Jazz,82 - 81,0,N/A,N/A,N/A
+16,Ryan Arcidiacono,FG_MISS,None,10:22,4,Bulls,Jazz,82 - 81,0, ,3,Jumper
+17,Grayson Allen,DEFENSIVE_REBOUND,None,10:19,4,Jazz,Bulls,82 - 81,1,N/A,N/A,N/A
+18,Grayson Allen,FG_UNASSISTED,None,10:13,4,Jazz,Bulls,82 - 83,1, ,3,Jumper
+19,Shaquille Harrison,FG_ASSISTED,Jabari Parker,9:56,4,Bulls,Jazz,84 - 83,0,0,2,Layup
+20,Royce O'Neale,FOUL_ON_FLOOR,None,9:56,4,Jazz,Bulls,84 - 83,1,N/A,N/A,N/A
+21,Derrick Favors,SUBSTITUTION,Ingles Joe,9:56,4,Jazz,Bulls,84 - 83,1,N/A,N/A,N/A
+22,Donovan Mitchell,SUBSTITUTION,Crowder Jae,9:56,4,Jazz,Bulls,84 - 83,1,N/A,N/A,N/A
+23,Shaquille Harrison,FT,None,9:56,4,Bulls,Jazz,85 - 83,0,N/A,1,N/A
+24,Donovan Mitchell,FG_UNASSISTED,None,9:35,4,Jazz,Bulls,85 - 85,1,14,3,Jumper
+25,Jabari Parker,FG_MISS,None,9:10,4,Bulls,Jazz,85 - 85,0,12,3,Jumper
+26,Team,DEFENSIVE_REBOUND,None,9:09,4,Jazz,Bulls,85 - 85,1,N/A,N/A,N/A
+27,Robin Lopez,FOUL_ON_FLOOR,None,9:09,4,Bulls,Jazz,85 - 85,0,N/A,N/A,N/A
+28,Donovan Mitchell,FG_MISS,None,8:56,4,Jazz,Bulls,85 - 85,1,0,2,Layup
+29,Rudy Gobert,OFFENSIVE_REBOUND,None,8:56,4,Jazz,Bulls,85 - 85,1,N/A,N/A,N/A
+30,Rudy Gobert,FG_UNASSISTED,None,8:56,4,Jazz,Bulls,85 - 87,1, ,3,Jumper
+31,Jabari Parker,FOUL_ON_FLOOR,None,8:56,4,Bulls,Jazz,85 - 87,0,N/A,N/A,N/A
+32,Rudy Gobert,FT,None,8:56,4,Jazz,Bulls,85 - 88,1,N/A,1,N/A
+33,Wayne Selden,FG_MISS,None,8:40,4,Bulls,Jazz,85 - 88,0,11,3,Jumper
+34,Robin Lopez,OFFENSIVE_REBOUND,None,8:31,4,Bulls,Jazz,85 - 88,0,N/A,N/A,N/A
+35,Robin Lopez,FG_UNASSISTED,None,8:31,4,Bulls,Jazz,87 - 88,0,0,2,Dunk
+36,Donovan Mitchell,FG_MISS,None,8:23,4,Jazz,Bulls,87 - 88,1,28,3,Jumper
+37,Wayne Selden,DEFENSIVE_REBOUND,None,8:19,4,Bulls,Jazz,87 - 88,0,N/A,N/A,N/A
+38,Shaquille Harrison,FG_MISS,Donovan Mitchell,8:02,4,Jazz,Bulls,87 - 88,0,0,2,Layup
+39,Team,OFFENSIVE_REBOUND,None,8:02,4,Bulls,Jazz,87 - 88,0,N/A,N/A,N/A
+40,Lauri Markkanen,SUBSTITUTION,Lopez Robin,8:02,4,Bulls,Jazz,87 - 88,0,N/A,N/A,N/A
+41,Lauri Markkanen,FG_ASSISTED,Ryan Arcidiacono,7:56,4,Bulls,Jazz,89 - 88,0,15,3,Jumper
+42,Grayson Allen,FG_MISS,None,7:36,4,Jazz,Bulls,89 - 88,1,27,3,Jumper
+43,Rudy Gobert,OFFENSIVE_REBOUND,None,7:34,4,Jazz,Bulls,89 - 88,1,N/A,N/A,N/A
+44,Rudy Gobert,FG_UNASSISTED,None,7:33,4,Jazz,Bulls,89 - 90,1,0,2,Layup
+45,Jabari Parker,FG_MISS,None,7:15,4,Bulls,Jazz,89 - 90,0,26,3,Jumper
+46,Royce O'Neale,DEFENSIVE_REBOUND,None,7:13,4,Jazz,Bulls,89 - 90,1,N/A,N/A,N/A
+47,Donovan Mitchell,FG_UNASSISTED,None,7:04,4,Jazz,Bulls,89 - 92,1,9,3,Jumper
+48,Team,Unknown,None,7:03,4,Bulls,Jazz,89 - 92,0,N/A,N/A,N/A
+49,Robin Lopez,FOUL_TECHNICAL,None,7:03,4,Bulls,Jazz,89 - 92,0,N/A,N/A,N/A
+50,Zach LaVine,SUBSTITUTION,Parker Jabari,7:03,4,Bulls,Jazz,89 - 92,0,N/A,N/A,N/A
+51,Kris Dunn,SUBSTITUTION,Harrison Shaquille,7:03,4,Bulls,Jazz,89 - 92,0,N/A,N/A,N/A
+52,Wendell Carter,SUBSTITUTION,Selden Wayne,7:03,4,Bulls,Jazz,89 - 92,0,N/A,N/A,N/A
+53,Chandler Hutchison,SUBSTITUTION,Arcidiacono Ryan,7:03,4,Bulls,Jazz,89 - 92,0,N/A,N/A,N/A
+54,Kyle Korver,SUBSTITUTION,Allen Grayson,7:03,4,Jazz,Bulls,89 - 92,1,N/A,N/A,N/A
+55,Donovan Mitchell,FT,None,7:03,4,Jazz,Bulls,89 - 93,1,N/A,1,N/A
+56,Zach LaVine,FG_MISS,None,6:46,4,Bulls,Jazz,89 - 93,0,16,3,Jumper
+57,Donovan Mitchell,DEFENSIVE_REBOUND,None,6:42,4,Jazz,Bulls,89 - 93,1,N/A,N/A,N/A
+58,Kyle Korver,FG_ASSISTED,Rudy Gobert,6:29,4,Jazz,Bulls,89 - 95,1,19,3,Jumper
+59,Zach LaVine,FG_MISS,None,6:08,4,Bulls,Jazz,89 - 95,0,25,3,Jumper
+60,Royce O'Neale,DEFENSIVE_REBOUND,None,6:05,4,Jazz,Bulls,89 - 95,1,N/A,N/A,N/A
+61,Rudy Gobert,FG_MISS,None,5:53,4,Jazz,Bulls,89 - 95,1, ,3,Jumper
+62,Chandler Hutchison,DEFENSIVE_REBOUND,None,5:50,4,Bulls,Jazz,89 - 95,0,N/A,N/A,N/A
+63,Lauri Markkanen,FG_MISS,None,5:42,4,Bulls,Jazz,89 - 95,0,12,3,Jumper
+64,Derrick Favors,DEFENSIVE_REBOUND,None,5:38,4,Jazz,Bulls,89 - 95,1,N/A,N/A,N/A
+65,Donovan Mitchell,FG_UNASSISTED,None,5:24,4,Jazz,Bulls,89 - 97,1,0,2,Layup
+66,Wendell Carter,FG_MISS,None,5:04,4,Bulls,Jazz,89 - 97,0,9,3,Jumper
+67,Donovan Mitchell,DEFENSIVE_REBOUND,None,5:01,4,Jazz,Bulls,89 - 97,1,N/A,N/A,N/A
+68,Donovan Mitchell,FG_MISS,None,4:56,4,Jazz,Bulls,89 - 97,1,28,3,Jumper
+69,Wendell Carter,DEFENSIVE_REBOUND,None,4:54,4,Bulls,Jazz,89 - 97,0,N/A,N/A,N/A
+70,Lauri Markkanen,FG_MISS,None,4:45,4,Bulls,Jazz,89 - 97,0,27,3,Jumper
+71,Kyle Korver,DEFENSIVE_REBOUND,None,4:43,4,Jazz,Bulls,89 - 97,1,N/A,N/A,N/A
+72,Team,Unknown,None,4:37,4,Jazz,Bulls,89 - 97,1,N/A,N/A,N/A
+73,Donovan Mitchell,FG_MISS,None,4:23,4,Jazz,Bulls,89 - 97,1,30,3,Jumper
+74,Team,DEFENSIVE_REBOUND,None,4:21,4,Bulls,Jazz,89 - 97,0,N/A,N/A,N/A
+75,Rudy Gobert,FOUL_ON_FLOOR,None,4:21,4,Jazz,Bulls,89 - 97,1,N/A,N/A,N/A
+76,Wayne Selden,SUBSTITUTION,Hutchison Chandler,4:21,4,Bulls,Jazz,89 - 97,0,N/A,N/A,N/A
+77,Zach LaVine,FG_ASSISTED,Kris Dunn,4:12,4,Bulls,Jazz,91 - 97,0,0,2,Layup
+78,Rudy Gobert,FOUL_ON_FLOOR,None,4:12,4,Jazz,Bulls,91 - 97,1,N/A,N/A,N/A
+79,Joe Ingles,SUBSTITUTION,Korver Kyle,4:12,4,Jazz,Bulls,91 - 97,1,N/A,N/A,N/A
+80,Zach LaVine,FT,None,4:12,4,Bulls,Jazz,92 - 97,0,N/A,1,N/A
+81,Derrick Favors,FG_ASSISTED,Rudy Gobert,4:00,4,Jazz,Bulls,92 - 99,1,0,2,Dunk
+82,Wendell Carter,FG_MISS,None,3:32,4,Bulls,Jazz,92 - 99,0,0,2,Layup
+83,Wendell Carter,OFFENSIVE_REBOUND,None,3:32,4,Bulls,Jazz,92 - 99,0,N/A,N/A,N/A
+84,Wendell Carter,FG_MISS,None,3:28,4,Bulls,Jazz,92 - 99,0,0,2,Layup
+85,Royce O'Neale,DEFENSIVE_REBOUND,None,3:28,4,Jazz,Bulls,92 - 99,1,N/A,N/A,N/A
+86,Kris Dunn,FOUL_ON_FLOOR,None,3:11,4,Bulls,Jazz,92 - 99,0,N/A,N/A,N/A
+87,Team,Unknown,None,3:11,4,Jazz,Bulls,92 - 99,1,N/A,N/A,N/A
+88,Royce O'Neale,FG_ASSISTED,Rudy Gobert,2:57,4,Jazz,Bulls,92 - 102,1,25,3,Jumper
+89,Lauri Markkanen,FG_MISS,None,2:41,4,Bulls,Jazz,92 - 102,0,16,3,Jumper
+90,Royce O'Neale,DEFENSIVE_REBOUND,None,2:37,4,Jazz,Bulls,92 - 102,1,N/A,N/A,N/A
+91,Joe Ingles,FG_UNASSISTED,None,2:23,4,Jazz,Bulls,92 - 105,1,27,3,Jumper
+92,Team,Unknown,None,2:22,4,Bulls,Jazz,92 - 105,0,N/A,N/A,N/A
+93,Donovan Mitchell,FOUL_ON_FLOOR,None,2:17,4,Jazz,Bulls,92 - 105,1,N/A,N/A,N/A
+94,Kris Dunn,FT,None,2:17,4,Bulls,Jazz,93 - 105,0,N/A,1,N/A
+95,Kris Dunn,FT,None,2:17,4,Bulls,Jazz,94 - 105,0,N/A,1,N/A
+96,Donovan Mitchell,TURNOVER,None,2:13,4,Jazz,Bulls,94 - 105,1,N/A,N/A,N/A
+97,Wendell Carter,FG_MISS,None,2:11,4,Bulls,Jazz,94 - 105,0,14,3,Jumper
+98,Lauri Markkanen,OFFENSIVE_REBOUND,None,2:05,4,Bulls,Jazz,94 - 105,0,N/A,N/A,N/A
+99,Lauri Markkanen,FG_UNASSISTED,None,2:05,4,Bulls,Jazz,96 - 105,0,1,3,Jumper
+100,Joe Ingles,TURNOVER,Wendell Carter,1:54,4,Jazz,Bulls,96 - 105,1,N/A,N/A,N/A
+101,Zach LaVine,FG_MISS,None,1:44,4,Bulls,Jazz,96 - 105,0,0,2,Layup
+102,Rudy Gobert,DEFENSIVE_REBOUND,None,1:41,4,Jazz,Bulls,96 - 105,1,N/A,N/A,N/A
+103,Zach LaVine,JUMP_BALL,None,1:37,4,Jazz,Bulls,96 - 105,1,N/A,N/A,N/A
+104,Kris Dunn,FOUL_ON_FLOOR,None,1:26,4,Bulls,Jazz,96 - 105,0,N/A,N/A,N/A
+105,Derrick Favors,TURNOVER,None,1:19,4,Jazz,Bulls,96 - 105,1,N/A,N/A,N/A
+106,Zach LaVine,FG_MISS,None,1:12,4,Bulls,Jazz,96 - 105,0,25,3,Jumper
+107,Donovan Mitchell,DEFENSIVE_REBOUND,None,1:11,4,Jazz,Bulls,96 - 105,1,N/A,N/A,N/A
+108,Zach LaVine,FOUL_ON_FLOOR,None,1:11,4,Bulls,Jazz,96 - 105,0,N/A,N/A,N/A
+109,Donovan Mitchell,FT,None,1:11,4,Jazz,Bulls,96 - 106,1,N/A,1,N/A
+110,Donovan Mitchell,FT_MISS,None,1:11,4,Jazz,Bulls,96 - 106,1,N/A,1,N/A
+111,Wendell Carter,DEFENSIVE_REBOUND,None,1:10,4,Bulls,Jazz,96 - 106,0,N/A,N/A,N/A
+112,Team,Unknown,None,1:10,4,Bulls,Jazz,96 - 106,0,N/A,N/A,N/A
+113,Royce O'Neale,FOUL_ON_FLOOR,None,1:05,4,Jazz,Bulls,96 - 106,1,N/A,N/A,N/A
+114,Zach LaVine,FT,None,1:05,4,Bulls,Jazz,97 - 106,0,N/A,1,N/A
+115,Zach LaVine,FT,None,1:05,4,Bulls,Jazz,98 - 106,0,N/A,1,N/A
+116,Team,Unknown,None,1:05,4,Jazz,Bulls,98 - 106,1,N/A,N/A,N/A
+117,Wendell Carter,FOUL_TECHNICAL,None,1:05,4,Bulls,Jazz,98 - 106,0,N/A,N/A,N/A
+118,Donovan Mitchell,FT,None,1:05,4,Jazz,Bulls,98 - 107,1,N/A,1,N/A
+119,Kyle Korver,SUBSTITUTION,Favors Derrick,1:05,4,Jazz,Bulls,98 - 107,1,N/A,N/A,N/A
+120,Donovan Mitchell,FG_MISS,None,45.0,4,Jazz,Bulls,98 - 107,1,1,3,Jumper
+121,Zach LaVine,DEFENSIVE_REBOUND,None,41.7,4,Bulls,Jazz,98 - 107,0,N/A,N/A,N/A
+122,Zach LaVine,FG_UNASSISTED,None,33.4,4,Bulls,Jazz,100 - 107,0,0,2,Layup
+123,Rudy Gobert,FOUL_ON_FLOOR,None,33.4,4,Jazz,Bulls,100 - 107,1,N/A,N/A,N/A
+124,Zach LaVine,FT_MISS,None,33.4,4,Bulls,Jazz,100 - 107,0,N/A,1,N/A
+125,Rudy Gobert,DEFENSIVE_REBOUND,None,32.7,4,Jazz,Bulls,100 - 107,1,N/A,N/A,N/A
+126,Wendell Carter,FOUL_ON_FLOOR,None,32.6,4,Bulls,Jazz,100 - 107,0,N/A,N/A,N/A
+127,Rudy Gobert,FT,None,32.6,4,Jazz,Bulls,100 - 108,1,N/A,1,N/A
+128,Derrick Favors,SUBSTITUTION,Korver Kyle,32.6,4,Jazz,Bulls,100 - 108,1,N/A,N/A,N/A
+129,Rudy Gobert,FT_MISS,None,32.6,4,Jazz,Bulls,100 - 108,1,N/A,1,N/A
+130,Wendell Carter,DEFENSIVE_REBOUND,None,31.4,4,Bulls,Jazz,100 - 108,0,N/A,N/A,N/A
+131,Zach LaVine,FG_UNASSISTED,None,24.6,4,Bulls,Jazz,102 - 108,0,0,2,Dunk
+132,Kris Dunn,FOUL_ON_FLOOR,None,23.7,4,Bulls,Jazz,102 - 108,0,N/A,N/A,N/A
+133,Shaquille Harrison,SUBSTITUTION,Dunn Kris,23.7,4,Bulls,Jazz,102 - 108,0,N/A,N/A,N/A
+134,Donovan Mitchell,FT,None,23.7,4,Jazz,Bulls,102 - 109,1,N/A,1,N/A
+135,Donovan Mitchell,FT,None,23.7,4,Jazz,Bulls,102 - 110,1,N/A,1,N/A
+136,Zach LaVine,FG_MISS,None,20.1,4,Bulls,Jazz,102 - 110,0,26,3,Jumper
+137,Rudy Gobert,DEFENSIVE_REBOUND,None,16.7,4,Jazz,Bulls,102 - 110,1,N/A,N/A,N/A
+138,End of,Unknown,None,0.0,4,Jazz,Bulls,102 - 110,1,N/A,N/A,N/A
+139,End of,Unknown,None,0.0,4,Jazz,Bulls,102 - 110,1,N/A,N/A,N/A

@@ -1,0 +1,414 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,LaMarcus Aldridge,JUMP_BALL,None,12:00,1,Spurs,Magic,0 - 0,0,N/A,N/A,N/A
+1,Bryn Forbes,FOUL_ON_FLOOR,None,11:48,1,Spurs,Magic,0 - 0,0,N/A,N/A,N/A
+2,Bryn Forbes,TURNOVER,None,11:48,1,Spurs,Magic,0 - 0,0,N/A,N/A,N/A
+3,Evan Fournier,FG_UNASSISTED,None,11:23,1,Magic,Spurs,0 - 3,1,27,2,Jumper
+4,LaMarcus Aldridge,FG_MISS,None,11:08,1,Spurs,Magic,0 - 3,0,22,2,Jumper
+5,Aaron Gordon,DEFENSIVE_REBOUND,None,11:06,1,Magic,Spurs,0 - 3,1,N/A,N/A,N/A
+6,D.J. Augustin,FG_MISS,None,10:57,1,Magic,Spurs,0 - 3,1,25,3,Jumper
+7,Derrick White,DEFENSIVE_REBOUND,None,10:53,1,Spurs,Magic,0 - 3,0,N/A,N/A,N/A
+8,Rudy Gay,FG_MISS,None,10:38,1,Spurs,Magic,0 - 3,0,26,3,Jumper
+9,Mo Bamba,DEFENSIVE_REBOUND,None,10:35,1,Magic,Spurs,0 - 3,1,N/A,N/A,N/A
+10,Aaron Gordon,TURNOVER,LaMarcus Aldridge,10:30,1,Magic,Spurs,0 - 3,1,N/A,N/A,N/A
+11,Bryn Forbes,FG_UNASSISTED,None,10:24,1,Spurs,Magic,3 - 3,0,26,3,Jumper
+12,DeMar DeRozan,FOUL_ON_FLOOR,None,10:01,1,Spurs,Magic,3 - 3,0,N/A,N/A,N/A
+13,Evan Fournier,FG_MISS,None,9:49,1,Magic,Spurs,3 - 3,1,-,2,Jumper
+14,LaMarcus Aldridge,DEFENSIVE_REBOUND,None,9:47,1,Spurs,Magic,3 - 3,0,N/A,N/A,N/A
+15,Derrick White,FG_UNASSISTED,None,9:43,1,Spurs,Magic,5 - 3,0,-,2,Jumper
+16,Aaron Gordon,FG_MISS,None,9:18,1,Magic,Spurs,5 - 3,1,14,2,Jumper
+17,DeMar DeRozan,DEFENSIVE_REBOUND,None,9:14,1,Spurs,Magic,5 - 3,0,N/A,N/A,N/A
+18,Rudy Gay,FG_ASSISTED,LaMarcus Aldridge,8:54,1,Spurs,Magic,7 - 3,0,-,2,Jumper
+19,D.J. Augustin,FG_ASSISTED,Mo Bamba,8:35,1,Magic,Spurs,7 - 5,1,0,2,Layup
+20,Bryn Forbes,FG_UNASSISTED,None,8:18,1,Spurs,Magic,9 - 5,0,22,2,Jumper
+21,Evan Fournier,TURNOVER,DeMar DeRozan,7:54,1,Magic,Spurs,9 - 5,1,N/A,N/A,N/A
+22,Rudy Gay's,FG_MISS,Mo Bamba,7:45,1,Magic,Spurs,9 - 5,0,-,2,Jumper
+23,Aaron Gordon,DEFENSIVE_REBOUND,None,7:41,1,Magic,Spurs,9 - 5,1,N/A,N/A,N/A
+24,D.J. Augustin,FG_ASSISTED,Aaron Gordon,7:39,1,Magic,Spurs,9 - 8,1,28,3,Jumper
+25,Rudy Gay,FG_ASSISTED,Derrick White,7:23,1,Spurs,Magic,11 - 8,0,0,2,Dunk
+26,Evan Fournier,FG_ASSISTED,Mo Bamba,7:02,1,Magic,Spurs,11 - 10,1,0,2,Layup
+27,Aaron Gordon,FOUL_ON_FLOOR,None,6:49,1,Magic,Spurs,11 - 10,1,N/A,N/A,N/A
+28,Team,Unknown,None,6:49,1,Magic,Spurs,11 - 10,1,N/A,N/A,N/A
+29,DeMar DeRozan,FG_UNASSISTED,None,6:36,1,Spurs,Magic,13 - 10,0,16,2,Jumper
+30,Mo Bamba,FG_MISS,None,6:13,1,Magic,Spurs,13 - 10,1, ,2,Jumper
+31,Rudy Gay,DEFENSIVE_REBOUND,None,6:10,1,Spurs,Magic,13 - 10,0,N/A,N/A,N/A
+32,Bryn Forbes,FG_ASSISTED,Rudy Gay,6:08,1,Spurs,Magic,16 - 10,0,27,3,Jumper
+33,shot clock,TURNOVER,None,5:39,1,Magic,Spurs,16 - 10,1,N/A,N/A,N/A
+34,Jonathon Simmons,SUBSTITUTION,Gordon Aaron,5:39,1,Magic,Spurs,16 - 10,1,N/A,N/A,N/A
+35,Patty Mills,SUBSTITUTION,White Derrick,5:39,1,Spurs,Magic,16 - 10,0,N/A,N/A,N/A
+36,DeMar DeRozan,TURNOVER,Evan Fournier,5:16,1,Spurs,Magic,16 - 10,0,N/A,N/A,N/A
+37,D.J. Augustin,FG_UNASSISTED,None,5:04,1,Magic,Spurs,16 - 12,1,11,2,Jumper
+38,DeMar DeRozan,FG_MISS,Mo Bamba,4:52,1,Magic,Spurs,16 - 12,0,7,2,Jumper
+39,Jonathan Isaac,DEFENSIVE_REBOUND,None,4:49,1,Magic,Spurs,16 - 12,1,N/A,N/A,N/A
+40,Evan Fournier,FG_MISS,None,4:46,1,Magic,Spurs,16 - 12,1,27,3,Jumper
+41,Bryn Forbes,DEFENSIVE_REBOUND,None,4:41,1,Spurs,Magic,16 - 12,0,N/A,N/A,N/A
+42,LaMarcus Aldridge,FG_MISS,None,4:35,1,Spurs,Magic,16 - 12,0,27,3,Jumper
+43,Jonathon Simmons,DEFENSIVE_REBOUND,None,4:32,1,Magic,Spurs,16 - 12,1,N/A,N/A,N/A
+44,Evan Fournier,FG_MISS,Rudy Gay,4:24,1,Spurs,Magic,16 - 12,1,5,2,Jumper
+45,DeMar DeRozan,DEFENSIVE_REBOUND,None,4:20,1,Spurs,Magic,16 - 12,0,N/A,N/A,N/A
+46,Bryn Forbes,FG_UNASSISTED,None,4:16,1,Spurs,Magic,18 - 12,0,0,2,Layup
+47,Mo Bamba,FG_MISS,None,3:58,1,Magic,Spurs,18 - 12,1,27,3,Jumper
+48,DeMar DeRozan,DEFENSIVE_REBOUND,None,3:58,1,Spurs,Magic,18 - 12,0,N/A,N/A,N/A
+49,Evan Fournier,FOUL_ON_FLOOR,None,3:52,1,Magic,Spurs,18 - 12,1,N/A,N/A,N/A
+50,Jerian Grant,SUBSTITUTION,Bamba Mo,3:52,1,Magic,Spurs,18 - 12,1,N/A,N/A,N/A
+51,Khem Birch,SUBSTITUTION,Augustin D.J.,3:52,1,Magic,Spurs,18 - 12,1,N/A,N/A,N/A
+52,Marco Belinelli,SUBSTITUTION,DeRozan DeMar,3:52,1,Spurs,Magic,18 - 12,0,N/A,N/A,N/A
+53,Davis Bertans,SUBSTITUTION,Gay Rudy,3:52,1,Spurs,Magic,18 - 12,0,N/A,N/A,N/A
+54,LaMarcus Aldridge,FT,None,3:52,1,Spurs,Magic,19 - 12,0,N/A,1,N/A
+55,LaMarcus Aldridge,FT,None,3:52,1,Spurs,Magic,20 - 12,0,N/A,1,N/A
+56,Evan Fournier,FG_UNASSISTED,None,3:40,1,Magic,Spurs,20 - 14,1,18,2,Jumper
+57,Bryn Forbes,FG_ASSISTED,LaMarcus Aldridge,3:17,1,Spurs,Magic,23 - 14,0,27,3,Jumper
+58,Jonathon Simmons,FG_UNASSISTED,None,3:05,1,Magic,Spurs,23 - 16,1, ,2,Jumper
+59,Team,Unknown,None,3:05,1,Spurs,Magic,23 - 16,0,N/A,N/A,N/A
+60,Terrence Ross,SUBSTITUTION,Isaac Jonathan,3:05,1,Magic,Spurs,23 - 16,1,N/A,N/A,N/A
+61,Aaron Gordon,SUBSTITUTION,Fournier Evan,3:05,1,Magic,Spurs,23 - 16,1,N/A,N/A,N/A
+62,Marco Belinelli,TURNOVER,None,2:56,1,Spurs,Magic,23 - 16,0,N/A,N/A,N/A
+63,Jakob Poeltl,SUBSTITUTION,Aldridge LaMarcus,2:56,1,Spurs,Magic,23 - 16,0,N/A,N/A,N/A
+64,Terrence Ross,FG_ASSISTED,Jerian Grant,2:42,1,Magic,Spurs,23 - 18,1,21,2,Jumper
+65,Patty Mills,FG_UNASSISTED,None,2:21,1,Spurs,Magic,26 - 18,0,27,3,Jumper
+66,Davis Bertans,FOUL_ON_FLOOR,None,2:05,1,Spurs,Magic,26 - 18,0,N/A,N/A,N/A
+67,Khem Birch,FT,None,2:05,1,Magic,Spurs,26 - 19,1,N/A,1,N/A
+68,DeMar DeRozan,SUBSTITUTION,Forbes Bryn,2:05,1,Spurs,Magic,26 - 19,0,N/A,N/A,N/A
+69,Khem Birch,FT,None,2:05,1,Magic,Spurs,26 - 20,1,N/A,1,N/A
+70,Davis Bertans,FG_ASSISTED,Marco Belinelli,1:47,1,Spurs,Magic,29 - 20,0,27,3,Jumper
+71,Terrence Ross,FG_ASSISTED,Jerian Grant,1:33,1,Magic,Spurs,29 - 22,1,23,2,Jumper
+72,Patty Mills,FG_MISS,None,1:19,1,Spurs,Magic,29 - 22,0,21,2,Jumper
+73,Aaron Gordon,DEFENSIVE_REBOUND,None,1:16,1,Magic,Spurs,29 - 22,1,N/A,N/A,N/A
+74,Terrence Ross,FG_MISS,None,1:06,1,Magic,Spurs,29 - 22,1,22,2,Jumper
+75,Marco Belinelli,DEFENSIVE_REBOUND,None,1:03,1,Spurs,Magic,29 - 22,0,N/A,N/A,N/A
+76,Marco Belinelli,FG_UNASSISTED,None,58.1,1,Spurs,Magic,31 - 22,0,21,2,Jumper
+77,Jonathon Simmons,FG_MISS,None,46.2,1,Magic,Spurs,31 - 22,1,26,3,Jumper
+78,Patty Mills,DEFENSIVE_REBOUND,None,42.5,1,Spurs,Magic,31 - 22,0,N/A,N/A,N/A
+79,Davis Bertans,TURNOVER,None,38.5,1,Spurs,Magic,31 - 22,0,N/A,N/A,N/A
+80,Jerian Grant,FG_UNASSISTED,None,33.1,1,Magic,Spurs,31 - 24,1,18,2,Jumper
+81,Jakob Poeltl,FG_MISS,None,21.6,1,Spurs,Magic,31 - 24,0,0,2,Dunk
+82,Aaron Gordon,DEFENSIVE_REBOUND,None,19.3,1,Magic,Spurs,31 - 24,1,N/A,N/A,N/A
+83,Patty Mills,FOUL_ON_FLOOR,None,2.7,1,Spurs,Magic,31 - 24,0,N/A,N/A,N/A
+84,Jerian Grant,FG_MISS,None,0.0,1,Magic,Spurs,31 - 24,1,26,3,Jumper
+85,Team,OFFENSIVE_REBOUND,None,0.0,1,Magic,Spurs,31 - 24,1,N/A,N/A,N/A
+86,End of,Unknown,None,0.0,1,Magic,Spurs,31 - 24,1,N/A,N/A,N/A
+0,D.J. Augustin,SUBSTITUTION,Grant Jerian,12:00,2,Magic,Spurs,31 - 24,1,N/A,N/A,N/A
+1,D.J. Augustin,FG_MISS,None,11:43,2,Magic,Spurs,31 - 24,1,16,2,Jumper
+2,Team,OFFENSIVE_REBOUND,None,11:43,2,Magic,Spurs,31 - 24,1,N/A,N/A,N/A
+3,Derrick White,SUBSTITUTION,DeRozan DeMar,11:43,2,Spurs,Magic,31 - 24,0,N/A,N/A,N/A
+4,Jonathon Simmons,FG_MISS,None,11:36,2,Magic,Spurs,31 - 24,1, ,2,Jumper
+5,Team,OFFENSIVE_REBOUND,None,11:36,2,Magic,Spurs,31 - 24,1,N/A,N/A,N/A
+6,Marco Belinelli,FOUL_ON_FLOOR,None,11:36,2,Spurs,Magic,31 - 24,0,N/A,N/A,N/A
+7,Jonathon Simmons,TURNOVER,None,11:31,2,Magic,Spurs,31 - 24,1,N/A,N/A,N/A
+8,Marco Belinelli,FG_ASSISTED,Davis Bertans,11:18,2,Spurs,Magic,33 - 24,0,22,2,Jumper
+9,Aaron Gordon,FG_MISS,None,10:56,2,Magic,Spurs,33 - 24,1, ,2,Jumper
+10,Jakob Poeltl,DEFENSIVE_REBOUND,None,10:52,2,Spurs,Magic,33 - 24,0,N/A,N/A,N/A
+11,Marco Belinelli,FG_UNASSISTED,None,10:47,2,Spurs,Magic,36 - 24,0,27,3,Jumper
+12,Aaron Gordon,FG_MISS,None,10:31,2,Magic,Spurs,36 - 24,1, ,3,Jumper
+13,Jakob Poeltl,DEFENSIVE_REBOUND,None,10:26,2,Spurs,Magic,36 - 24,0,N/A,N/A,N/A
+14,Marco Belinelli,FG_ASSISTED,Jakob Poeltl,10:15,2,Spurs,Magic,39 - 24,0,26,3,Jumper
+15,Team,Unknown,None,10:10,2,Magic,Spurs,39 - 24,1,N/A,N/A,N/A
+16,5 second,Unknown,None,10:10,2,Magic,Spurs,39 - 24,1,N/A,N/A,N/A
+17,Derrick White,FG_ASSISTED,Jakob Poeltl,9:51,2,Spurs,Magic,41 - 24,0,7,2,Jumper
+18,Terrence Ross,FG_UNASSISTED,None,9:33,2,Magic,Spurs,41 - 27,1,25,3,Jumper
+19,Davis Bertans,FG_ASSISTED,Marco Belinelli,9:15,2,Spurs,Magic,44 - 27,0,27,3,Jumper
+20,Terrence Ross,FG_MISS,None,8:51,2,Magic,Spurs,44 - 27,1, ,2,Jumper
+21,Team,OFFENSIVE_REBOUND,None,8:51,2,Magic,Spurs,44 - 27,1,N/A,N/A,N/A
+22,Bryn Forbes,SUBSTITUTION,Mills Patty,8:51,2,Spurs,Magic,44 - 27,0,N/A,N/A,N/A
+23,Terrence Ross,FG_MISS,None,8:47,2,Magic,Spurs,44 - 27,1,21,2,Jumper
+24,Bryn Forbes,DEFENSIVE_REBOUND,None,8:43,2,Spurs,Magic,44 - 27,0,N/A,N/A,N/A
+25,Davis Bertans,FG_ASSISTED,Marco Belinelli,8:41,2,Spurs,Magic,47 - 27,0, ,3,Jumper
+26,Jonathon Simmons,FG_ASSISTED,Aaron Gordon,8:14,2,Magic,Spurs,47 - 29,1,20,2,Jumper
+27,Marco Belinelli,FG_MISS,None,8:00,2,Spurs,Magic,47 - 29,0,28,3,Jumper
+28,Aaron Gordon,DEFENSIVE_REBOUND,None,7:57,2,Magic,Spurs,47 - 29,1,N/A,N/A,N/A
+29,Aaron Gordon,FOUL_ON_FLOOR,None,7:51,2,Magic,Spurs,47 - 29,1,N/A,N/A,N/A
+30,Aaron Gordon,TURNOVER,None,7:51,2,Magic,Spurs,47 - 29,1,N/A,N/A,N/A
+31,Evan Fournier,SUBSTITUTION,Simmons Jonathon,7:51,2,Magic,Spurs,47 - 29,1,N/A,N/A,N/A
+32,DeMar DeRozan,SUBSTITUTION,Belinelli Marco,7:51,2,Spurs,Magic,47 - 29,0,N/A,N/A,N/A
+33,Derrick White,FG_MISS,None,7:27,2,Spurs,Magic,47 - 29,0,27,3,Jumper
+34,Aaron Gordon,DEFENSIVE_REBOUND,None,7:24,2,Magic,Spurs,47 - 29,1,N/A,N/A,N/A
+35,D.J. Augustin,FG_UNASSISTED,None,7:18,2,Magic,Spurs,47 - 31,1,0,2,Layup
+36,Team,Unknown,None,7:18,2,Spurs,Magic,47 - 31,0,N/A,N/A,N/A
+37,Rudy Gay,SUBSTITUTION,Poeltl Jakob,7:18,2,Spurs,Magic,47 - 31,0,N/A,N/A,N/A
+38,LaMarcus Aldridge,SUBSTITUTION,Bertans Davis,7:18,2,Spurs,Magic,47 - 31,0,N/A,N/A,N/A
+39,Rudy Gay,FG_MISS,None,7:04,2,Spurs,Magic,47 - 31,0,20,2,Jumper
+40,Team,DEFENSIVE_REBOUND,None,7:04,2,Magic,Spurs,47 - 31,1,N/A,N/A,N/A
+41,D.J. Augustin's,FG_MISS,Derrick White,6:41,2,Spurs,Magic,47 - 31,1, ,2,Jumper
+42,Evan Fournier,OFFENSIVE_REBOUND,None,6:36,2,Magic,Spurs,47 - 31,1,N/A,N/A,N/A
+43,Evan Fournier,FG_MISS,None,6:34,2,Magic,Spurs,47 - 31,1,17,2,Jumper
+44,Rudy Gay,DEFENSIVE_REBOUND,None,6:29,2,Spurs,Magic,47 - 31,0,N/A,N/A,N/A
+45,DeMar DeRozan,FG_ASSISTED,LaMarcus Aldridge,6:25,2,Spurs,Magic,49 - 31,0,22,2,Jumper
+46,Bryn Forbes,FOUL_ON_FLOOR,None,6:12,2,Spurs,Magic,49 - 31,0,N/A,N/A,N/A
+47,D.J. Augustin,FT,None,6:12,2,Magic,Spurs,49 - 32,1,N/A,1,N/A
+48,D.J. Augustin,FT,None,6:12,2,Magic,Spurs,49 - 33,1,N/A,1,N/A
+49,Khem Birch,FOUL_ON_FLOOR,None,6:01,2,Magic,Spurs,49 - 33,1,N/A,N/A,N/A
+50,Jonathan Isaac,SUBSTITUTION,Gordon Aaron,6:01,2,Magic,Spurs,49 - 33,1,N/A,N/A,N/A
+51,Mo Bamba,SUBSTITUTION,Augustin D.J.,6:01,2,Magic,Spurs,49 - 33,1,N/A,N/A,N/A
+52,Jerian Grant,SUBSTITUTION,Birch Khem,6:01,2,Magic,Spurs,49 - 33,1,N/A,N/A,N/A
+53,Rudy Gay,FG_ASSISTED,DeMar DeRozan,5:48,2,Spurs,Magic,51 - 33,0, ,2,Jumper
+54,Mo Bamba,FG_ASSISTED,Jerian Grant,5:36,2,Magic,Spurs,51 - 35,1,20,2,Jumper
+55,LaMarcus Aldridge,FG_UNASSISTED,None,5:17,2,Spurs,Magic,53 - 35,0,9,2,Jumper
+56,Terrence Ross,FG_MISS,None,5:02,2,Magic,Spurs,53 - 35,1,21,2,Jumper
+57,Jonathan Isaac,OFFENSIVE_REBOUND,None,4:59,2,Magic,Spurs,53 - 35,1,N/A,N/A,N/A
+58,Jonathan Isaac,FG_MISS,None,4:58,2,Magic,Spurs,53 - 35,1, ,2,Jumper
+59,DeMar DeRozan,DEFENSIVE_REBOUND,None,4:53,2,Spurs,Magic,53 - 35,0,N/A,N/A,N/A
+60,Derrick White,FG_ASSISTED,DeMar DeRozan,4:50,2,Spurs,Magic,56 - 35,0,24,3,Jumper
+61,Jerian Grant,FG_MISS,None,4:31,2,Magic,Spurs,56 - 35,1,25,3,Jumper
+62,Mo Bamba,OFFENSIVE_REBOUND,None,4:29,2,Magic,Spurs,56 - 35,1,N/A,N/A,N/A
+63,Evan Fournier,FG_MISS,None,4:21,2,Magic,Spurs,56 - 35,1,16,2,Jumper
+64,Rudy Gay,DEFENSIVE_REBOUND,None,4:17,2,Spurs,Magic,56 - 35,0,N/A,N/A,N/A
+65,LaMarcus Aldridge,TURNOVER,None,4:11,2,Spurs,Magic,56 - 35,0,N/A,N/A,N/A
+66,Mo Bamba,FOUL_ON_FLOOR,None,4:05,2,Magic,Spurs,56 - 35,1,N/A,N/A,N/A
+67,Mo Bamba,TURNOVER,None,4:05,2,Magic,Spurs,56 - 35,1,N/A,N/A,N/A
+68,LaMarcus Aldridge,FG_MISS,None,3:46,2,Spurs,Magic,56 - 35,0,11,2,Jumper
+69,Evan Fournier,DEFENSIVE_REBOUND,None,3:41,2,Magic,Spurs,56 - 35,1,N/A,N/A,N/A
+70,Evan Fournier,FG_MISS,None,3:33,2,Magic,Spurs,56 - 35,1,10,2,Jumper
+71,LaMarcus Aldridge,DEFENSIVE_REBOUND,None,3:31,2,Spurs,Magic,56 - 35,0,N/A,N/A,N/A
+72,Bryn Forbes,FG_MISS,None,3:24,2,Spurs,Magic,56 - 35,0,29,3,Jumper
+73,Bryn Forbes,OFFENSIVE_REBOUND,None,3:20,2,Spurs,Magic,56 - 35,0,N/A,N/A,N/A
+74,LaMarcus Aldridge,FG_ASSISTED,Rudy Gay,3:17,2,Spurs,Magic,58 - 35,0,0,2,Layup
+75,Mo Bamba,FOUL_ON_FLOOR,None,3:17,2,Magic,Spurs,58 - 35,1,N/A,N/A,N/A
+76,Aaron Gordon,SUBSTITUTION,Ross Terrence,3:17,2,Magic,Spurs,58 - 35,1,N/A,N/A,N/A
+77,D.J. Augustin,SUBSTITUTION,Grant Jerian,3:17,2,Magic,Spurs,58 - 35,1,N/A,N/A,N/A
+78,LaMarcus Aldridge,FT_MISS,None,3:17,2,Spurs,Magic,58 - 35,0,N/A,1,N/A
+79,D.J. Augustin,DEFENSIVE_REBOUND,None,3:15,2,Magic,Spurs,58 - 35,1,N/A,N/A,N/A
+80,Evan Fournier,FG_MISS,None,3:01,2,Magic,Spurs,58 - 35,1,25,3,Jumper
+81,DeMar DeRozan,DEFENSIVE_REBOUND,None,2:57,2,Spurs,Magic,58 - 35,0,N/A,N/A,N/A
+82,Rudy Gay,FG_ASSISTED,DeMar DeRozan,2:55,2,Spurs,Magic,60 - 35,0,0,2,Dunk
+83,Jonathan Isaac,FG_ASSISTED,D.J. Augustin,2:42,2,Magic,Spurs,60 - 38,1,24,3,Jumper
+84,LaMarcus Aldridge,FG_UNASSISTED,None,2:18,2,Spurs,Magic,62 - 38,0,16,2,Jumper
+85,Team,Unknown,None,2:18,2,Magic,Spurs,62 - 38,1,N/A,N/A,N/A
+86,Khem Birch,SUBSTITUTION,Bamba Mo,2:18,2,Magic,Spurs,62 - 38,1,N/A,N/A,N/A
+87,Wesley Iwundu,SUBSTITUTION,Gordon Aaron,2:18,2,Magic,Spurs,62 - 38,1,N/A,N/A,N/A
+88,Evan Fournier,TURNOVER,None,2:05,2,Magic,Spurs,62 - 38,1,N/A,N/A,N/A
+89,DeMar DeRozan,FG_MISS,None,1:56,2,Spurs,Magic,62 - 38,0,17,2,Jumper
+90,Jonathan Isaac,DEFENSIVE_REBOUND,None,1:53,2,Magic,Spurs,62 - 38,1,N/A,N/A,N/A
+91,D.J. Augustin,FG_UNASSISTED,None,1:48,2,Magic,Spurs,62 - 41,1,26,3,Jumper
+92,LaMarcus Aldridge,FOUL_ON_FLOOR,None,1:30,2,Spurs,Magic,62 - 41,0,N/A,N/A,N/A
+93,LaMarcus Aldridge,TURNOVER,None,1:30,2,Spurs,Magic,62 - 41,0,N/A,N/A,N/A
+94,Jonathan Isaac,FG_ASSISTED,Evan Fournier,1:14,2,Magic,Spurs,62 - 44,1,26,3,Jumper
+95,Bryn Forbes,FG_ASSISTED,DeMar DeRozan,48.7,2,Spurs,Magic,64 - 44,0,18,2,Jumper
+96,Wesley Iwundu,FG_MISS,None,32.0,2,Magic,Spurs,64 - 44,1,15,2,Jumper
+97,Bryn Forbes,DEFENSIVE_REBOUND,None,28.3,2,Spurs,Magic,64 - 44,0,N/A,N/A,N/A
+98,LaMarcus Aldridge,FG_ASSISTED,Derrick White,9.7,2,Spurs,Magic,66 - 44,0,0,2,Layup
+99,Jonathan Isaac,FG_MISS,None,0.9,2,Magic,Spurs,66 - 44,1,25,3,Jumper
+100,Team,OFFENSIVE_REBOUND,None,0.9,2,Magic,Spurs,66 - 44,1,N/A,N/A,N/A
+101,End of,Unknown,None,0.0,2,Magic,Spurs,66 - 44,1,N/A,N/A,N/A
+0,Mo Bamba,SUBSTITUTION,Birch Khem,12:00,3,Magic,Spurs,66 - 44,1,N/A,N/A,N/A
+1,Aaron Gordon,SUBSTITUTION,Iwundu Wesley,12:00,3,Magic,Spurs,66 - 44,1,N/A,N/A,N/A
+2,Jonathan Isaac,FG_ASSISTED,Aaron Gordon,11:42,3,Magic,Spurs,66 - 46,1,13,2,Jumper
+3,DeMar DeRozan,FG_MISS,None,11:24,3,Spurs,Magic,66 - 46,0,17,2,Jumper
+4,Mo Bamba,DEFENSIVE_REBOUND,None,11:21,3,Magic,Spurs,66 - 46,1,N/A,N/A,N/A
+5,Aaron Gordon,TURNOVER,None,11:12,3,Magic,Spurs,66 - 46,1,N/A,N/A,N/A
+6,Aaron Gordon,TURNOVER,None,11:12,3,Magic,Spurs,66 - 46,1,N/A,N/A,N/A
+7,Rudy Gay,FG_UNASSISTED,None,10:51,3,Spurs,Magic,68 - 46,0,20,2,Jumper
+8,Evan Fournier,FG_MISS,None,10:30,3,Magic,Spurs,68 - 46,1,31,3,Jumper
+9,Jonathan Isaac,OFFENSIVE_REBOUND,None,10:26,3,Magic,Spurs,68 - 46,1,N/A,N/A,N/A
+10,D.J. Augustin,FG_ASSISTED,Jonathan Isaac,10:24,3,Magic,Spurs,68 - 49,1,25,3,Jumper
+11,Bryn Forbes,TURNOVER,Mo Bamba,10:09,3,Spurs,Magic,68 - 49,0,N/A,N/A,N/A
+12,Bryn Forbes,FOUL_ON_FLOOR,None,10:09,3,Spurs,Magic,68 - 49,0,N/A,N/A,N/A
+13,Evan Fournier,FG_ASSISTED,Aaron Gordon,9:50,3,Magic,Spurs,68 - 52,1,25,3,Jumper
+14,DeMar DeRozan,FG_UNASSISTED,None,9:33,3,Spurs,Magic,70 - 52,0,9,2,Jumper
+15,Derrick White,FOUL_ON_FLOOR,None,9:19,3,Spurs,Magic,70 - 52,0,N/A,N/A,N/A
+16,Mo Bamba,FT,None,9:19,3,Magic,Spurs,70 - 53,1,N/A,1,N/A
+17,Mo Bamba,FT_MISS,None,9:19,3,Magic,Spurs,70 - 53,1,N/A,1,N/A
+18,Rudy Gay,DEFENSIVE_REBOUND,None,9:16,3,Spurs,Magic,70 - 53,0,N/A,N/A,N/A
+19,Aaron Gordon,FOUL_ON_FLOOR,None,9:06,3,Magic,Spurs,70 - 53,1,N/A,N/A,N/A
+20,DeMar DeRozan,FT,None,9:06,3,Spurs,Magic,71 - 53,0,N/A,1,N/A
+21,DeMar DeRozan,FT,None,9:06,3,Spurs,Magic,72 - 53,0,N/A,1,N/A
+22,Evan Fournier,FG_MISS,None,8:49,3,Magic,Spurs,72 - 53,1,0,2,Layup
+23,Mo Bamba,OFFENSIVE_REBOUND,None,8:42,3,Magic,Spurs,72 - 53,1,N/A,N/A,N/A
+24,Mo Bamba,FG_UNASSISTED,None,8:42,3,Magic,Spurs,72 - 55,1, ,2,Jumper
+25,Bryn Forbes,FG_ASSISTED,LaMarcus Aldridge,8:37,3,Spurs,Magic,74 - 55,0,18,2,Jumper
+26,D.J. Augustin,FG_MISS,None,8:21,3,Magic,Spurs,74 - 55,1,27,3,Jumper
+27,LaMarcus Aldridge,DEFENSIVE_REBOUND,None,8:17,3,Spurs,Magic,74 - 55,0,N/A,N/A,N/A
+28,Mo Bamba,FOUL_ON_FLOOR,None,8:07,3,Magic,Spurs,74 - 55,1,N/A,N/A,N/A
+29,Rudy Gay,FT,None,8:07,3,Spurs,Magic,75 - 55,0,N/A,1,N/A
+30,Jonathon Simmons,SUBSTITUTION,Gordon Aaron,8:07,3,Magic,Spurs,75 - 55,1,N/A,N/A,N/A
+31,Rudy Gay,FT,None,8:07,3,Spurs,Magic,76 - 55,0,N/A,1,N/A
+32,Evan Fournier,FG_UNASSISTED,None,7:50,3,Magic,Spurs,76 - 57,1, ,2,Jumper
+33,Rudy Gay,FG_UNASSISTED,None,7:29,3,Spurs,Magic,78 - 57,0,23,2,Jumper
+34,Evan Fournier,TURNOVER,LaMarcus Aldridge,7:15,3,Magic,Spurs,78 - 57,1,N/A,N/A,N/A
+35,DeMar DeRozan,FG_ASSISTED,Rudy Gay,7:01,3,Spurs,Magic,80 - 57,0,7,2,Jumper
+36,Jonathan Isaac,FG_MISS,None,6:42,3,Magic,Spurs,80 - 57,1, ,2,Jumper
+37,DeMar DeRozan,DEFENSIVE_REBOUND,None,6:38,3,Spurs,Magic,80 - 57,0,N/A,N/A,N/A
+38,LaMarcus Aldridge,FG_ASSISTED,DeMar DeRozan,6:35,3,Spurs,Magic,82 - 57,0,0,2,Layup
+39,Jonathan Isaac,FOUL_ON_FLOOR,None,6:35,3,Magic,Spurs,82 - 57,1,N/A,N/A,N/A
+40,Team,Unknown,None,6:35,3,Magic,Spurs,82 - 57,1,N/A,N/A,N/A
+41,Khem Birch,SUBSTITUTION,Bamba Mo,6:35,3,Magic,Spurs,82 - 57,1,N/A,N/A,N/A
+42,LaMarcus Aldridge,FT,None,6:35,3,Spurs,Magic,83 - 57,0,N/A,1,N/A
+43,Jonathon Simmons,FG_UNASSISTED,None,6:19,3,Magic,Spurs,83 - 59,1,17,2,Jumper
+44,Khem Birch,FOUL_ON_FLOOR,None,6:09,3,Magic,Spurs,83 - 59,1,N/A,N/A,N/A
+45,DeMar DeRozan,FG_MISS,None,6:05,3,Spurs,Magic,83 - 59,0,0,2,Layup
+46,Jonathan Isaac,DEFENSIVE_REBOUND,None,6:01,3,Magic,Spurs,83 - 59,1,N/A,N/A,N/A
+47,Jonathan Isaac,FG_ASSISTED,D.J. Augustin,5:54,3,Magic,Spurs,83 - 61,1,14,2,Jumper
+48,Khem Birch,FOUL_ON_FLOOR,None,5:38,3,Magic,Spurs,83 - 61,1,N/A,N/A,N/A
+49,LaMarcus Aldridge,FT,None,5:38,3,Spurs,Magic,84 - 61,0,N/A,1,N/A
+50,Patty Mills,SUBSTITUTION,White Derrick,5:38,3,Spurs,Magic,84 - 61,0,N/A,N/A,N/A
+51,LaMarcus Aldridge,FT,None,5:38,3,Spurs,Magic,85 - 61,0,N/A,1,N/A
+52,Evan Fournier,FG_MISS,None,5:25,3,Magic,Spurs,85 - 61,1,26,3,Jumper
+53,Rudy Gay,DEFENSIVE_REBOUND,None,5:22,3,Spurs,Magic,85 - 61,0,N/A,N/A,N/A
+54,Khem Birch,FOUL_ON_FLOOR,None,5:17,3,Magic,Spurs,85 - 61,1,N/A,N/A,N/A
+55,LaMarcus Aldridge,FT,None,5:17,3,Spurs,Magic,86 - 61,0,N/A,1,N/A
+56,Jerian Grant,SUBSTITUTION,Augustin D.J.,5:17,3,Magic,Spurs,86 - 61,1,N/A,N/A,N/A
+57,Aaron Gordon,SUBSTITUTION,Birch Khem,5:17,3,Magic,Spurs,86 - 61,1,N/A,N/A,N/A
+58,Marco Belinelli,SUBSTITUTION,Forbes Bryn,5:17,3,Spurs,Magic,86 - 61,0,N/A,N/A,N/A
+59,LaMarcus Aldridge,FT,None,5:17,3,Spurs,Magic,87 - 61,0,N/A,1,N/A
+60,Marco Belinelli,FOUL_ON_FLOOR,None,5:05,3,Spurs,Magic,87 - 61,0,N/A,N/A,N/A
+61,Aaron Gordon,FT,None,5:05,3,Magic,Spurs,87 - 62,1,N/A,1,N/A
+62,Aaron Gordon,FT_MISS,None,5:05,3,Magic,Spurs,87 - 62,1,N/A,1,N/A
+63,Rudy Gay,DEFENSIVE_REBOUND,None,5:01,3,Spurs,Magic,87 - 62,0,N/A,N/A,N/A
+64,Patty Mills,FG_MISS,None,4:46,3,Spurs,Magic,87 - 62,0,5,2,Jumper
+65,Aaron Gordon,DEFENSIVE_REBOUND,None,4:43,3,Magic,Spurs,87 - 62,1,N/A,N/A,N/A
+66,Rudy Gay,FOUL_ON_FLOOR,None,4:40,3,Spurs,Magic,87 - 62,0,N/A,N/A,N/A
+67,Aaron Gordon,FT_MISS,None,4:40,3,Magic,Spurs,87 - 62,1,N/A,1,N/A
+68,Team,OFFENSIVE_REBOUND,None,4:40,3,Magic,Spurs,87 - 62,1,N/A,N/A,N/A
+69,Aaron Gordon,FT,None,4:40,3,Magic,Spurs,87 - 63,1,N/A,1,N/A
+70,DeMar DeRozan,FG_UNASSISTED,None,4:19,3,Spurs,Magic,89 - 63,0, ,2,Jumper
+71,Jonathan Isaac,FG_MISS,None,4:08,3,Magic,Spurs,89 - 63,1,26,3,Jumper
+72,Team,DEFENSIVE_REBOUND,None,4:06,3,Spurs,Magic,89 - 63,0,N/A,N/A,N/A
+73,Terrence Ross,SUBSTITUTION,Fournier Evan,4:06,3,Magic,Spurs,89 - 63,1,N/A,N/A,N/A
+74,Davis Bertans,SUBSTITUTION,Gay Rudy,4:06,3,Spurs,Magic,89 - 63,0,N/A,N/A,N/A
+75,Marco Belinelli,FG_UNASSISTED,None,3:45,3,Spurs,Magic,92 - 63,0,27,3,Jumper
+76,Jonathon Simmons,FG_ASSISTED,Terrence Ross,3:25,3,Magic,Spurs,92 - 65,1,3,2,Jumper
+77,LaMarcus Aldridge,FG_ASSISTED,DeMar DeRozan,3:18,3,Spurs,Magic,94 - 65,0,0,2,Layup
+78,Jerian Grant,FOUL_ON_FLOOR,None,3:18,3,Magic,Spurs,94 - 65,1,N/A,N/A,N/A
+79,LaMarcus Aldridge,FT,None,3:18,3,Spurs,Magic,95 - 65,0,N/A,1,N/A
+80,Terrence Ross,FG_MISS,None,3:04,3,Magic,Spurs,95 - 65,1, ,2,Jumper
+81,Terrence Ross,OFFENSIVE_REBOUND,None,3:02,3,Magic,Spurs,95 - 65,1,N/A,N/A,N/A
+82,Terrence Ross,FG_MISS,None,3:01,3,Magic,Spurs,95 - 65,1,4,2,Jumper
+83,Terrence Ross,OFFENSIVE_REBOUND,None,3:01,3,Magic,Spurs,95 - 65,1,N/A,N/A,N/A
+84,Aaron Gordon,FG_UNASSISTED,None,2:56,3,Magic,Spurs,95 - 67,1,3,2,Jumper
+85,DeMar DeRozan,FG_UNASSISTED,None,2:32,3,Spurs,Magic,97 - 67,0,21,2,Jumper
+86,Jerian Grant,FG_ASSISTED,Aaron Gordon,2:14,3,Magic,Spurs,97 - 70,1,25,3,Jumper
+87,Team,Unknown,None,2:10,3,Spurs,Magic,97 - 70,0,N/A,N/A,N/A
+88,Mo Bamba,SUBSTITUTION,Isaac Jonathan,2:10,3,Magic,Spurs,97 - 70,1,N/A,N/A,N/A
+89,Wesley Iwundu,SUBSTITUTION,Simmons Jonathon,2:10,3,Magic,Spurs,97 - 70,1,N/A,N/A,N/A
+90,Jakob Poeltl,SUBSTITUTION,Aldridge LaMarcus,2:10,3,Spurs,Magic,97 - 70,0,N/A,N/A,N/A
+91,DeMar DeRozan,FG_MISS,None,1:55,3,Spurs,Magic,97 - 70,0,8,2,Jumper
+92,Jakob Poeltl,OFFENSIVE_REBOUND,None,1:50,3,Spurs,Magic,97 - 70,0,N/A,N/A,N/A
+93,Jakob Poeltl,FG_UNASSISTED,None,1:50,3,Spurs,Magic,99 - 70,0, ,2,Jumper
+94,Aaron Gordon,FG_MISS,None,1:38,3,Magic,Spurs,99 - 70,1, ,2,Jumper
+95,Patty Mills,DEFENSIVE_REBOUND,None,1:36,3,Spurs,Magic,99 - 70,0,N/A,N/A,N/A
+96,Patty Mills,FG_MISS,None,1:31,3,Spurs,Magic,99 - 70,0,2,2,Jumper
+97,Mo Bamba,DEFENSIVE_REBOUND,None,1:28,3,Magic,Spurs,99 - 70,1,N/A,N/A,N/A
+98,Mo Bamba,FG_MISS,None,1:24,3,Magic,Spurs,99 - 70,1,25,3,Jumper
+99,Davis Bertans,DEFENSIVE_REBOUND,None,1:20,3,Spurs,Magic,99 - 70,0,N/A,N/A,N/A
+100,Marco Belinelli,FG_UNASSISTED,None,1:10,3,Spurs,Magic,101 - 70,0,19,2,Jumper
+101,Terrence Ross,FG_MISS,None,55.9,3,Magic,Spurs,101 - 70,1, ,2,Jumper
+102,Wesley Iwundu,OFFENSIVE_REBOUND,None,55.3,3,Magic,Spurs,101 - 70,1,N/A,N/A,N/A
+103,Wesley Iwundu,FG_UNASSISTED,None,55.3,3,Magic,Spurs,101 - 72,1, ,2,Jumper
+104,DeMar DeRozan,FG_UNASSISTED,None,36.7,3,Spurs,Magic,103 - 72,0,12,2,Jumper
+105,Jerian Grant,FG_ASSISTED,Aaron Gordon,27.1,3,Magic,Spurs,103 - 74,1,7,2,Jumper
+106,Davis Bertans,FOUL_ON_FLOOR,None,27.1,3,Spurs,Magic,103 - 74,0,N/A,N/A,N/A
+107,Jerian Grant,FT_MISS,None,27.1,3,Magic,Spurs,103 - 74,1,N/A,1,N/A
+108,DeMar DeRozan,DEFENSIVE_REBOUND,None,23.1,3,Spurs,Magic,103 - 74,0,N/A,N/A,N/A
+109,Wesley Iwundu,FOUL_ON_FLOOR,None,11.8,3,Magic,Spurs,103 - 74,1,N/A,N/A,N/A
+110,DeMar DeRozan,FT_MISS,None,11.8,3,Spurs,Magic,103 - 74,0,N/A,1,N/A
+111,Team,OFFENSIVE_REBOUND,None,11.8,3,Spurs,Magic,103 - 74,0,N/A,N/A,N/A
+112,DeMar DeRozan,FT,None,11.8,3,Spurs,Magic,104 - 74,0,N/A,1,N/A
+113,Aaron Gordon,FG_ASSISTED,Jerian Grant,3.1,3,Magic,Spurs,104 - 77,1,26,3,Jumper
+114,End of,Unknown,None,0.0,3,Magic,Spurs,104 - 77,1,N/A,N/A,N/A
+0,Dante Cunningham,SUBSTITUTION,DeRozan DeMar,12:00,4,Spurs,Magic,104 - 77,0,N/A,N/A,N/A
+1,Patty Mills,FG_MISS,None,11:43,4,Spurs,Magic,104 - 77,0,14,2,Jumper
+2,Jakob Poeltl,OFFENSIVE_REBOUND,None,11:39,4,Spurs,Magic,104 - 77,0,N/A,N/A,N/A
+3,Jakob Poeltl,FG_UNASSISTED,None,11:37,4,Spurs,Magic,106 - 77,0, ,2,Jumper
+4,Terrence Ross,FG_MISS,None,11:18,4,Magic,Spurs,106 - 77,1,19,2,Jumper
+5,Dante Cunningham,DEFENSIVE_REBOUND,None,11:14,4,Spurs,Magic,106 - 77,0,N/A,N/A,N/A
+6,Jakob Poeltl,FG_MISS,None,11:06,4,Spurs,Magic,106 - 77,0,7,2,Jumper
+7,Mo Bamba,DEFENSIVE_REBOUND,None,11:03,4,Magic,Spurs,106 - 77,1,N/A,N/A,N/A
+8,Jerian Grant,FG_MISS,None,10:45,4,Magic,Spurs,106 - 77,1,23,3,Jumper
+9,Team,OFFENSIVE_REBOUND,None,10:44,4,Magic,Spurs,106 - 77,1,N/A,N/A,N/A
+10,Mo Bamba,FG_MISS,None,10:36,4,Magic,Spurs,106 - 77,1,27,3,Jumper
+11,Marco Belinelli,DEFENSIVE_REBOUND,None,10:33,4,Spurs,Magic,106 - 77,0,N/A,N/A,N/A
+12,Patty Mills,FG_ASSISTED,Jakob Poeltl,10:23,4,Spurs,Magic,108 - 77,0,19,2,Jumper
+13,Aaron Gordon,FG_MISS,None,10:04,4,Magic,Spurs,108 - 77,1, ,2,Jumper
+14,Davis Bertans,DEFENSIVE_REBOUND,None,10:01,4,Spurs,Magic,108 - 77,0,N/A,N/A,N/A
+15,Marco Belinelli,FG_ASSISTED,Davis Bertans,9:56,4,Spurs,Magic,111 - 77,0,26,3,Jumper
+16,Patty Mills,FOUL_ON_FLOOR,None,9:36,4,Spurs,Magic,111 - 77,0,N/A,N/A,N/A
+17,Mo Bamba,FT,None,9:36,4,Magic,Spurs,111 - 78,1,N/A,1,N/A
+18,Drew Eubanks,SUBSTITUTION,Mills Patty,9:36,4,Spurs,Magic,111 - 78,0,N/A,N/A,N/A
+19,Derrick White,SUBSTITUTION,Bertans Davis,9:36,4,Spurs,Magic,111 - 78,0,N/A,N/A,N/A
+20,Mo Bamba,FT_MISS,None,9:36,4,Magic,Spurs,111 - 78,1,N/A,1,N/A
+21,Drew Eubanks,DEFENSIVE_REBOUND,None,9:33,4,Spurs,Magic,111 - 78,0,N/A,N/A,N/A
+22,Marco Belinelli,TURNOVER,Terrence Ross,9:25,4,Spurs,Magic,111 - 78,0,N/A,N/A,N/A
+23,Wesley Iwundu,FG_MISS,None,9:18,4,Magic,Spurs,111 - 78,1,23,3,Jumper
+24,Drew Eubanks,DEFENSIVE_REBOUND,None,9:14,4,Spurs,Magic,111 - 78,0,N/A,N/A,N/A
+25,Marco Belinelli,FG_MISS,None,9:11,4,Spurs,Magic,111 - 78,0,23,3,Jumper
+26,Jerian Grant,DEFENSIVE_REBOUND,None,9:07,4,Magic,Spurs,111 - 78,1,N/A,N/A,N/A
+27,Aaron Gordon,FG_MISS,None,9:02,4,Magic,Spurs,111 - 78,1,0,2,Layup
+28,Aaron Gordon,OFFENSIVE_REBOUND,None,8:57,4,Magic,Spurs,111 - 78,1,N/A,N/A,N/A
+29,Aaron Gordon,FG_UNASSISTED,None,8:57,4,Magic,Spurs,111 - 80,1, ,2,Jumper
+30,Jakob Poeltl,FG_MISS,None,8:46,4,Spurs,Magic,111 - 80,0,7,2,Jumper
+31,Aaron Gordon,DEFENSIVE_REBOUND,None,8:42,4,Magic,Spurs,111 - 80,1,N/A,N/A,N/A
+32,Aaron Gordon,FG_UNASSISTED,None,8:39,4,Magic,Spurs,111 - 83,1,27,3,Jumper
+33,Drew Eubanks,FG_ASSISTED,Derrick White,8:20,4,Spurs,Magic,113 - 83,0,9,2,Jumper
+34,Jerian Grant,TURNOVER,None,8:03,4,Magic,Spurs,113 - 83,1,N/A,N/A,N/A
+35,Quincy Pondexter,SUBSTITUTION,Belinelli Marco,8:03,4,Spurs,Magic,113 - 83,0,N/A,N/A,N/A
+36,Dante Cunningham,FG_ASSISTED,Derrick White,7:44,4,Spurs,Magic,115 - 83,0,0,2,Layup
+37,Wesley Iwundu,FG_MISS,None,7:29,4,Magic,Spurs,115 - 83,1,23,2,Jumper
+38,Dante Cunningham,DEFENSIVE_REBOUND,None,7:27,4,Spurs,Magic,115 - 83,0,N/A,N/A,N/A
+39,Quincy Pondexter,FG_UNASSISTED,None,7:07,4,Spurs,Magic,117 - 83,0,22,2,Jumper
+40,Wesley Iwundu,FG_ASSISTED,Aaron Gordon,6:50,4,Magic,Spurs,118 - 86,1,26,3,Jumper
+41,Derrick White,TURNOVER,Mo Bamba,6:29,4,Spurs,Magic,118 - 86,0,N/A,N/A,N/A
+42,Drew Eubanks,FOUL_ON_FLOOR,None,6:16,4,Spurs,Magic,118 - 86,0,N/A,N/A,N/A
+43,Team,Unknown,None,6:16,4,Magic,Spurs,118 - 86,1,N/A,N/A,N/A
+44,Isaiah Briscoe,SUBSTITUTION,Gordon Aaron,6:16,4,Magic,Spurs,117 - 86,1,N/A,N/A,N/A
+45,Jarell Martin,SUBSTITUTION,Ross Terrence,6:16,4,Magic,Spurs,117 - 86,1,N/A,N/A,N/A
+46,Mo Bamba,FT,None,6:16,4,Magic,Spurs,117 - 87,1,N/A,1,N/A
+47,Mo Bamba,FT_MISS,None,6:16,4,Magic,Spurs,117 - 87,1,N/A,1,N/A
+48,Drew Eubanks,DEFENSIVE_REBOUND,None,6:13,4,Spurs,Magic,117 - 87,0,N/A,N/A,N/A
+49,Jakob Poeltl,FG_MISS,None,6:01,4,Spurs,Magic,117 - 87,0, ,2,Jumper
+50,Mo Bamba,DEFENSIVE_REBOUND,None,5:59,4,Magic,Spurs,117 - 87,1,N/A,N/A,N/A
+51,Isaiah Briscoe,FG_MISS,None,5:47,4,Magic,Spurs,117 - 87,1, ,2,Jumper
+52,Mo Bamba,OFFENSIVE_REBOUND,None,5:46,4,Magic,Spurs,117 - 87,1,N/A,N/A,N/A
+53,Khem Birch,SUBSTITUTION,Bamba Mo,5:46,4,Magic,Spurs,117 - 87,1,N/A,N/A,N/A
+54,Mo Bamba,FG_MISS,None,5:46,4,Magic,Spurs,117 - 87,1,4,2,Jumper
+55,Team,OFFENSIVE_REBOUND,None,5:46,4,Magic,Spurs,117 - 87,1,N/A,N/A,N/A
+56,Jerian Grant,FG_ASSISTED,Jarell Martin,5:42,4,Magic,Spurs,117 - 89,1,20,2,Jumper
+57,Dante Cunningham,FG_ASSISTED,Derrick White,5:26,4,Spurs,Magic,119 - 89,0,0,2,Layup
+58,Khem Birch,FG_MISS,None,5:03,4,Magic,Spurs,119 - 89,1, ,2,Jumper
+59,Drew Eubanks,DEFENSIVE_REBOUND,None,4:59,4,Spurs,Magic,119 - 89,0,N/A,N/A,N/A
+60,Quincy Pondexter,FG_MISS,None,4:43,4,Spurs,Magic,119 - 89,0,23,3,Jumper
+61,Jarell Martin,DEFENSIVE_REBOUND,None,4:40,4,Magic,Spurs,119 - 89,1,N/A,N/A,N/A
+62,Wesley Iwundu,FG_MISS,None,4:33,4,Magic,Spurs,119 - 89,1,21,2,Jumper
+63,Drew Eubanks,DEFENSIVE_REBOUND,None,4:30,4,Spurs,Magic,119 - 89,0,N/A,N/A,N/A
+64,Jarell Martin,FOUL_ON_FLOOR,None,4:18,4,Magic,Spurs,119 - 89,1,N/A,N/A,N/A
+65,Drew Eubanks,FT_MISS,None,4:18,4,Spurs,Magic,119 - 89,0,N/A,1,N/A
+66,Team,OFFENSIVE_REBOUND,None,4:18,4,Spurs,Magic,119 - 89,0,N/A,N/A,N/A
+67,Drew Eubanks,FT,None,4:18,4,Spurs,Magic,120 - 89,0,N/A,1,N/A
+68,Wesley Iwundu,TURNOVER,Quincy Pondexter,4:02,4,Magic,Spurs,120 - 89,1,N/A,N/A,N/A
+69,Derrick White,TURNOVER,Wesley Iwundu,3:54,4,Spurs,Magic,120 - 89,0,N/A,N/A,N/A
+70,Isaiah Briscoe,FG_MISS,None,3:49,4,Magic,Spurs,120 - 89,1, ,2,Jumper
+71,Jarell Martin,OFFENSIVE_REBOUND,None,3:49,4,Magic,Spurs,120 - 89,1,N/A,N/A,N/A
+72,Jakob Poeltl,FOUL_ON_FLOOR,None,3:49,4,Spurs,Magic,120 - 89,0,N/A,N/A,N/A
+73,Jarell Martin,FT_MISS,None,3:49,4,Magic,Spurs,120 - 89,1,N/A,1,N/A
+74,Team,OFFENSIVE_REBOUND,None,3:49,4,Magic,Spurs,120 - 89,1,N/A,N/A,N/A
+75,Jarell Martin,FT,None,3:49,4,Magic,Spurs,120 - 90,1,N/A,1,N/A
+76,Jarell Martin,FOUL_ON_FLOOR,None,3:30,4,Magic,Spurs,120 - 90,1,N/A,N/A,N/A
+77,Quincy Pondexter,FT_MISS,None,3:30,4,Spurs,Magic,120 - 90,0,N/A,1,N/A
+78,Team,OFFENSIVE_REBOUND,None,3:30,4,Spurs,Magic,120 - 90,0,N/A,N/A,N/A
+79,Quincy Pondexter,FT,None,3:30,4,Spurs,Magic,121 - 90,0,N/A,1,N/A
+80,Jarell Martin,FG_MISS,None,3:21,4,Magic,Spurs,121 - 90,1,27,3,Jumper
+81,Dante Cunningham,DEFENSIVE_REBOUND,None,3:16,4,Spurs,Magic,121 - 90,0,N/A,N/A,N/A
+82,Derrick White,FG_ASSISTED,Quincy Pondexter,3:04,4,Spurs,Magic,123 - 90,0,18,2,Jumper
+83,Isaiah Briscoe,FG_MISS,Quincy Pondexter,2:52,4,Spurs,Magic,123 - 90,1,17,2,Jumper
+84,Quincy Pondexter,DEFENSIVE_REBOUND,None,2:49,4,Spurs,Magic,123 - 90,0,N/A,N/A,N/A
+85,Jarell Martin,FOUL_ON_FLOOR,None,2:49,4,Magic,Spurs,123 - 90,1,N/A,N/A,N/A
+86,Team,Unknown,None,2:49,4,Spurs,Magic,123 - 90,0,N/A,N/A,N/A
+87,Quincy Pondexter,FT,None,2:49,4,Spurs,Magic,124 - 90,0,N/A,1,N/A
+88,Quincy Pondexter,FT,None,2:49,4,Spurs,Magic,125 - 90,0,N/A,1,N/A
+89,Jerian Grant,FG_MISS,None,2:37,4,Magic,Spurs,125 - 90,1,22,2,Jumper
+90,Dante Cunningham,DEFENSIVE_REBOUND,None,2:34,4,Spurs,Magic,125 - 90,0,N/A,N/A,N/A
+91,Quincy Pondexter,FG_MISS,None,2:22,4,Spurs,Magic,125 - 90,0,0,2,Layup
+92,Quincy Pondexter,OFFENSIVE_REBOUND,None,2:19,4,Spurs,Magic,125 - 90,0,N/A,N/A,N/A
+93,Quincy Pondexter's,FG_MISS,Jarell Martin,2:19,4,Magic,Spurs,125 - 90,0, ,2,Jumper
+94,Team,OFFENSIVE_REBOUND,None,2:19,4,Spurs,Magic,125 - 90,0,N/A,N/A,N/A
+95,Derrick White,FG_MISS,None,2:13,4,Spurs,Magic,125 - 90,0,18,2,Jumper
+96,Jarell Martin,DEFENSIVE_REBOUND,None,2:08,4,Magic,Spurs,125 - 90,1,N/A,N/A,N/A
+97,Wesley Iwundu,TURNOVER,Drew Eubanks,1:52,4,Magic,Spurs,125 - 90,1,N/A,N/A,N/A
+98,Drew Eubanks,FG_ASSISTED,Dante Cunningham,1:39,4,Spurs,Magic,127 - 90,0,9,2,Jumper
+99,Isaiah Briscoe,FG_MISS,None,1:24,4,Magic,Spurs,127 - 90,1,26,3,Jumper
+100,Dante Cunningham,DEFENSIVE_REBOUND,None,1:20,4,Spurs,Magic,127 - 90,0,N/A,N/A,N/A
+101,Drew Eubanks,FG_ASSISTED,Derrick White,1:01,4,Spurs,Magic,129 - 90,0,0,2,Layup
+102,Jarell Martin,FG_MISS,None,46.2,4,Magic,Spurs,129 - 90,1,23,2,Jumper
+103,Dante Cunningham,DEFENSIVE_REBOUND,None,42.4,4,Spurs,Magic,129 - 90,0,N/A,N/A,N/A
+104,Derrick White,TURNOVER,None,22.7,4,Spurs,Magic,129 - 90,0,N/A,N/A,N/A
+105,Isaiah Briscoe's,FG_MISS,Jakob Poeltl,15.7,4,Spurs,Magic,129 - 90,1, ,2,Jumper
+106,Dante Cunningham,DEFENSIVE_REBOUND,None,10.4,4,Spurs,Magic,129 - 90,0,N/A,N/A,N/A
+107,End of,Unknown,None,0.0,4,Magic,Spurs,129 - 90,1,N/A,N/A,N/A
+108,End of,Unknown,None,0.0,4,Magic,Spurs,129 - 90,1,N/A,N/A,N/A

@@ -1,0 +1,513 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,JaVale McGee,JUMP_BALL,None,12:00,1,Lakers,Kings,0 - 0,0,N/A,N/A,N/A
+1,Lonzo Ball,FG_MISS,None,11:50,1,Lakers,Kings,0 - 0,0,24,3,Jumper
+2,Team,OFFENSIVE_REBOUND,None,11:49,1,Lakers,Kings,0 - 0,0,N/A,N/A,N/A
+3,LeBron James,FG_ASSISTED,Brandon Ingram,11:44,1,Lakers,Kings,2 - 0,0,0,2,Layup
+4,Iman Shumpert,FG_MISS,None,11:26,1,Kings,Lakers,2 - 0,1,-,2,Jumper
+5,LeBron James,DEFENSIVE_REBOUND,None,11:23,1,Lakers,Kings,2 - 0,0,N/A,N/A,N/A
+6,Kyle Kuzma,FG_MISS,None,11:11,1,Lakers,Kings,2 - 0,0,25,3,Jumper
+7,Willie Cauley-Stein,DEFENSIVE_REBOUND,None,11:08,1,Kings,Lakers,2 - 0,1,N/A,N/A,N/A
+8,De'Aaron Fox,FG_UNASSISTED,None,11:02,1,Kings,Lakers,2 - 2,1,0,2,Layup
+9,Kyle Kuzma,FOUL_ON_FLOOR,None,11:02,1,Lakers,Kings,2 - 2,0,N/A,N/A,N/A
+10,De'Aaron Fox,FT,None,11:02,1,Kings,Lakers,2 - 3,1,N/A,1,N/A
+11,Brandon Ingram,FG_UNASSISTED,None,10:48,1,Lakers,Kings,4 - 3,0,0,2,Layup
+12,Iman Shumpert,FG_MISS,None,10:40,1,Kings,Lakers,4 - 3,1,23,3,Jumper
+13,Buddy Hield,OFFENSIVE_REBOUND,None,10:37,1,Kings,Lakers,4 - 3,1,N/A,N/A,N/A
+14,Iman Shumpert,FG_MISS,None,10:35,1,Kings,Lakers,4 - 3,1,23,3,Jumper
+15,Kyle Kuzma,DEFENSIVE_REBOUND,None,10:32,1,Lakers,Kings,4 - 3,0,N/A,N/A,N/A
+16,JaVale McGee,FG_MISS,None,10:24,1,Lakers,Kings,4 - 3,0,0,2,Layup
+17,Willie Cauley-Stein,DEFENSIVE_REBOUND,None,10:21,1,Kings,Lakers,4 - 3,1,N/A,N/A,N/A
+18,Lonzo Ball,FOUL_ON_FLOOR,None,10:10,1,Lakers,Kings,4 - 3,0,N/A,N/A,N/A
+19,Buddy Hield,FT,None,10:10,1,Kings,Lakers,4 - 4,1,N/A,1,N/A
+20,Buddy Hield,FT,None,10:10,1,Kings,Lakers,4 - 5,1,N/A,1,N/A
+21,Kyle Kuzma,FG_MISS,None,9:53,1,Lakers,Kings,4 - 5,0,0,2,Layup
+22,Team,OFFENSIVE_REBOUND,None,9:53,1,Lakers,Kings,4 - 5,0,N/A,N/A,N/A
+23,Lonzo Ball,FG_UNASSISTED,None,9:46,1,Lakers,Kings,6 - 5,0,-,2,Jumper
+24,Buddy Hield,FG_MISS,None,9:30,1,Kings,Lakers,6 - 5,1,-,2,Jumper
+25,LeBron James,DEFENSIVE_REBOUND,None,9:28,1,Lakers,Kings,6 - 5,0,N/A,N/A,N/A
+26,LeBron James,TURNOVER,De'Aaron Fox,9:24,1,Lakers,Kings,6 - 5,0,N/A,N/A,N/A
+27,Buddy Hield,FG_ASSISTED,Nemanja Bjelica,9:19,1,Kings,Lakers,6 - 7,1,16,2,Jumper
+28,Brandon Ingram,FG_UNASSISTED,None,9:06,1,Lakers,Kings,8 - 7,0,0,2,Layup
+29,Willie Cauley-Stein,FG_MISS,JaVale McGee,8:47,1,Lakers,Kings,8 - 7,1,0,2,Layup
+30,Brandon Ingram,DEFENSIVE_REBOUND,None,8:46,1,Lakers,Kings,8 - 7,0,N/A,N/A,N/A
+31,Nemanja Bjelica,FOUL_ON_FLOOR,None,8:46,1,Kings,Lakers,8 - 7,1,N/A,N/A,N/A
+32,JaVale McGee,FG_ASSISTED,Lonzo Ball,8:35,1,Lakers,Kings,10 - 7,0,0,2,Dunk
+33,Buddy Hield,FG_MISS,None,8:24,1,Kings,Lakers,10 - 7,1,25,3,Jumper
+34,Lonzo Ball,DEFENSIVE_REBOUND,None,8:22,1,Lakers,Kings,10 - 7,0,N/A,N/A,N/A
+35,JaVale McGee,FG_ASSISTED,Kyle Kuzma,8:15,1,Lakers,Kings,12 - 7,0,0,2,Dunk
+36,Team,Unknown,None,8:09,1,Kings,Lakers,12 - 7,1,N/A,N/A,N/A
+37,Tyson Chandler,SUBSTITUTION,McGee JaVale,8:09,1,Lakers,Kings,12 - 7,0,N/A,N/A,N/A
+38,Willie Cauley-Stein,FG_MISS,None,8:02,1,Kings,Lakers,12 - 7,1,11,2,Jumper
+39,Tyson Chandler,DEFENSIVE_REBOUND,None,7:59,1,Lakers,Kings,12 - 7,0,N/A,N/A,N/A
+40,Kyle Kuzma,FG_MISS,None,7:45,1,Lakers,Kings,12 - 7,0,25,3,Jumper
+41,Tyson Chandler,OFFENSIVE_REBOUND,None,7:41,1,Lakers,Kings,12 - 7,0,N/A,N/A,N/A
+42,Lonzo Ball,FG_MISS,None,7:34,1,Lakers,Kings,12 - 7,0,26,3,Jumper
+43,Buddy Hield,DEFENSIVE_REBOUND,None,7:31,1,Kings,Lakers,12 - 7,1,N/A,N/A,N/A
+44,Willie Cauley-Stein,FG_MISS,Tyson Chandler,7:19,1,Lakers,Kings,12 - 7,1,0,2,Dunk
+45,Team,DEFENSIVE_REBOUND,None,7:19,1,Lakers,Kings,12 - 7,0,N/A,N/A,N/A
+46,LeBron James,FG_UNASSISTED,None,7:12,1,Lakers,Kings,14 - 7,0,0,2,Layup
+47,De'Aaron Fox,FG_UNASSISTED,None,7:07,1,Kings,Lakers,14 - 9,1,15,2,Jumper
+48,Brandon Ingram,FOUL_ON_FLOOR,None,7:07,1,Lakers,Kings,14 - 9,0,N/A,N/A,N/A
+49,De'Aaron Fox,FT,None,7:07,1,Kings,Lakers,14 - 10,1,N/A,1,N/A
+50,Buddy Hield,FOUL_ON_FLOOR,None,6:53,1,Kings,Lakers,14 - 10,1,N/A,N/A,N/A
+51,Bogdan Bogdanovic,SUBSTITUTION,Hield Buddy,6:53,1,Kings,Lakers,14 - 10,1,N/A,N/A,N/A
+52,Brandon Ingram,FG_MISS,None,6:42,1,Lakers,Kings,14 - 10,0,19,2,Jumper
+53,De'Aaron Fox,DEFENSIVE_REBOUND,None,6:38,1,Kings,Lakers,14 - 10,1,N/A,N/A,N/A
+54,Nemanja Bjelica,FG_MISS,None,6:33,1,Kings,Lakers,14 - 10,1,0,2,Layup
+55,Tyson Chandler,DEFENSIVE_REBOUND,None,6:30,1,Lakers,Kings,14 - 10,0,N/A,N/A,N/A
+56,LeBron James,FG_UNASSISTED,None,6:13,1,Lakers,Kings,17 - 10,0,27,2,Jumper
+57,Willie Cauley-Stein,FG_MISS,None,5:57,1,Kings,Lakers,17 - 10,1,16,2,Jumper
+58,Tyson Chandler,DEFENSIVE_REBOUND,None,5:55,1,Lakers,Kings,17 - 10,0,N/A,N/A,N/A
+59,Tyson Chandler,FOUL_ON_FLOOR,None,5:46,1,Lakers,Kings,17 - 10,0,N/A,N/A,N/A
+60,Tyson Chandler,TURNOVER,None,5:46,1,Lakers,Kings,17 - 10,0,N/A,N/A,N/A
+61,Marvin Bagley,SUBSTITUTION,Bjelica Nemanja,5:46,1,Kings,Lakers,17 - 10,1,N/A,N/A,N/A
+62,De'Aaron Fox,TURNOVER,Kyle Kuzma,5:37,1,Kings,Lakers,17 - 10,1,N/A,N/A,N/A
+63,Kyle Kuzma,FG_UNASSISTED,None,5:35,1,Lakers,Kings,19 - 10,0,0,2,Dunk
+64,Bogdan Bogdanovic,FG_MISS,None,5:20,1,Kings,Lakers,19 - 10,1,27,3,Jumper
+65,Willie Cauley-Stein,OFFENSIVE_REBOUND,None,5:16,1,Kings,Lakers,19 - 10,1,N/A,N/A,N/A
+66,Bogdan Bogdanovic,FG_MISS,None,5:13,1,Kings,Lakers,19 - 10,1,23,2,Jumper
+67,Brandon Ingram,DEFENSIVE_REBOUND,None,5:11,1,Lakers,Kings,19 - 10,0,N/A,N/A,N/A
+68,Brandon Ingram,FG_MISS,Willie Cauley-Stein,5:07,1,Kings,Lakers,19 - 10,0,2,2,Jumper
+69,Tyson Chandler,OFFENSIVE_REBOUND,None,5:07,1,Lakers,Kings,19 - 10,0,N/A,N/A,N/A
+70,Lonzo Ball,FG_MISS,None,5:02,1,Lakers,Kings,19 - 10,0,26,3,Jumper
+71,Bogdan Bogdanovic,DEFENSIVE_REBOUND,None,5:02,1,Kings,Lakers,19 - 10,1,N/A,N/A,N/A
+72,Lonzo Ball,FOUL_ON_FLOOR,None,4:59,1,Lakers,Kings,19 - 10,0,N/A,N/A,N/A
+73,Rajon Rondo,SUBSTITUTION,Ball Lonzo,4:59,1,Lakers,Kings,19 - 10,0,N/A,N/A,N/A
+74,Iman Shumpert,FG_MISS,None,4:44,1,Kings,Lakers,19 - 10,1,18,2,Jumper
+75,Tyson Chandler,DEFENSIVE_REBOUND,None,4:40,1,Lakers,Kings,19 - 10,0,N/A,N/A,N/A
+76,Tyson Chandler,TURNOVER,None,4:29,1,Lakers,Kings,19 - 10,0,N/A,N/A,N/A
+77,Willie Cauley-Stein,FG_MISS,None,4:18,1,Kings,Lakers,19 - 10,1,15,2,Jumper
+78,LeBron James,DEFENSIVE_REBOUND,None,4:13,1,Lakers,Kings,19 - 10,0,N/A,N/A,N/A
+79,LeBron James,FG_MISS,None,4:08,1,Lakers,Kings,19 - 10,0,29,2,Jumper
+80,Bogdan Bogdanovic,DEFENSIVE_REBOUND,None,4:05,1,Kings,Lakers,19 - 10,1,N/A,N/A,N/A
+81,Willie Cauley-Stein,FG_ASSISTED,Bogdan Bogdanovic,3:56,1,Kings,Lakers,19 - 12,1,0,2,Layup
+82,Team,Unknown,None,3:50,1,Lakers,Kings,19 - 12,0,N/A,N/A,N/A
+83,Buddy Hield,SUBSTITUTION,Cauley-Stein Willie,3:50,1,Kings,Lakers,19 - 12,1,N/A,N/A,N/A
+84,Justin Jackson,SUBSTITUTION,Fox De'Aaron,3:50,1,Kings,Lakers,19 - 12,1,N/A,N/A,N/A
+85,Kosta Koufos,SUBSTITUTION,Shumpert Iman,3:50,1,Kings,Lakers,19 - 12,1,N/A,N/A,N/A
+86,Kentavious Caldwell-Pope,SUBSTITUTION,Kuzma Kyle,3:50,1,Lakers,Kings,19 - 12,0,N/A,N/A,N/A
+87,Josh Hart,SUBSTITUTION,James LeBron,3:50,1,Lakers,Kings,19 - 12,0,N/A,N/A,N/A
+88,Brandon Ingram,FG_MISS,None,3:33,1,Lakers,Kings,19 - 12,0,25,3,Jumper
+89,Kosta Koufos,DEFENSIVE_REBOUND,None,3:31,1,Kings,Lakers,19 - 12,1,N/A,N/A,N/A
+90,Buddy Hield,FG_MISS,None,3:21,1,Kings,Lakers,19 - 12,1,19,2,Jumper
+91,Brandon Ingram,DEFENSIVE_REBOUND,None,3:16,1,Lakers,Kings,19 - 12,0,N/A,N/A,N/A
+92,Kentavious Caldwell-Pope,FG_ASSISTED,Josh Hart,3:12,1,Lakers,Kings,22 - 12,0,24,3,Jumper
+93,Marvin Bagley,TURNOVER,Josh Hart,2:56,1,Kings,Lakers,22 - 12,1,N/A,N/A,N/A
+94,Rajon Rondo,FG_MISS,None,2:42,1,Lakers,Kings,22 - 12,0,25,2,Jumper
+95,Team,DEFENSIVE_REBOUND,None,2:41,1,Kings,Lakers,22 - 12,1,N/A,N/A,N/A
+96,Tyson Chandler,FOUL_ON_FLOOR,None,2:41,1,Lakers,Kings,22 - 12,0,N/A,N/A,N/A
+97,Marvin Bagley,FT,None,2:41,1,Kings,Lakers,22 - 13,1,N/A,1,N/A
+98,JaVale McGee,SUBSTITUTION,Chandler Tyson,2:41,1,Lakers,Kings,22 - 13,0,N/A,N/A,N/A
+99,Marvin Bagley,FT_MISS,None,2:41,1,Kings,Lakers,22 - 13,1,N/A,1,N/A
+100,Kosta Koufos,OFFENSIVE_REBOUND,None,2:38,1,Kings,Lakers,22 - 13,1,N/A,N/A,N/A
+101,Buddy Hield,FG_ASSISTED,Kosta Koufos,2:35,1,Kings,Lakers,22 - 16,1,25,3,Jumper
+102,Brandon Ingram,FG_ASSISTED,Josh Hart,2:17,1,Lakers,Kings,24 - 16,0,19,2,Jumper
+103,Marvin Bagley,FG_UNASSISTED,None,2:04,1,Kings,Lakers,24 - 18,1,8,2,Jumper
+104,Josh Hart,FG_MISS,None,1:49,1,Lakers,Kings,24 - 18,0, ,2,Jumper
+105,Bogdan Bogdanovic,DEFENSIVE_REBOUND,None,1:44,1,Kings,Lakers,24 - 18,1,N/A,N/A,N/A
+106,Marvin Bagley,FG_ASSISTED,Buddy Hield,1:42,1,Kings,Lakers,24 - 20,1, ,2,Jumper
+107,Brandon Ingram,FG_MISS,None,1:15,1,Lakers,Kings,24 - 20,0,19,2,Jumper
+108,JaVale McGee,OFFENSIVE_REBOUND,None,1:12,1,Lakers,Kings,24 - 20,0,N/A,N/A,N/A
+109,JaVale McGee,FG_UNASSISTED,None,1:10,1,Lakers,Kings,26 - 20,0,0,2,Dunk
+110,Buddy Hield,FG_MISS,None,52.7,1,Kings,Lakers,26 - 20,1,20,2,Jumper
+111,Josh Hart,DEFENSIVE_REBOUND,None,49.6,1,Lakers,Kings,26 - 20,0,N/A,N/A,N/A
+112,JaVale McGee,TURNOVER,None,39.1,1,Lakers,Kings,26 - 20,0,N/A,N/A,N/A
+113,Lance Stephenson,SUBSTITUTION,Ingram Brandon,39.1,1,Lakers,Kings,26 - 20,0,N/A,N/A,N/A
+114,Buddy Hield,FG_MISS,None,29.3,1,Kings,Lakers,26 - 20,1,20,2,Jumper
+115,Team,OFFENSIVE_REBOUND,None,27.4,1,Kings,Lakers,26 - 20,1,N/A,N/A,N/A
+116,Kosta Koufos,FOUL_ON_FLOOR,None,26.0,1,Kings,Lakers,26 - 20,1,N/A,N/A,N/A
+117,Kosta Koufos,TURNOVER,None,26.0,1,Kings,Lakers,26 - 20,1,N/A,N/A,N/A
+118,De'Aaron Fox,SUBSTITUTION,Jackson Justin,2.0,1,Kings,Lakers,26 - 20,1,N/A,N/A,N/A
+119,shot clock,TURNOVER,None,2.0,1,Lakers,Kings,26 - 20,0,N/A,N/A,N/A
+120,Bogdan Bogdanovic,FG_MISS,None,0.0,1,Kings,Lakers,26 - 20,1,31,3,Jumper
+121,Team,OFFENSIVE_REBOUND,None,0.0,1,Kings,Lakers,26 - 20,1,N/A,N/A,N/A
+122,End of,Unknown,None,0.0,1,Kings,Lakers,26 - 20,1,N/A,N/A,N/A
+0,Justin Jackson,SUBSTITUTION,Bogdanovic Bogdan,12:00,2,Kings,Lakers,26 - 20,1,N/A,N/A,N/A
+1,Josh Hart,FOUL_ON_FLOOR,None,11:53,2,Lakers,Kings,26 - 20,0,N/A,N/A,N/A
+2,Marvin Bagley,FG_MISS,None,11:42,2,Kings,Lakers,26 - 20,1,6,2,Jumper
+3,JaVale McGee,DEFENSIVE_REBOUND,None,11:39,2,Lakers,Kings,26 - 20,0,N/A,N/A,N/A
+4,Rajon Rondo,FG_MISS,None,11:23,2,Lakers,Kings,26 - 20,0,20,2,Jumper
+5,Kosta Koufos,DEFENSIVE_REBOUND,None,11:20,2,Kings,Lakers,26 - 20,1,N/A,N/A,N/A
+6,Marvin Bagley,TURNOVER,None,11:16,2,Kings,Lakers,26 - 20,1,N/A,N/A,N/A
+7,JaVale McGee,FG_ASSISTED,Lance Stephenson,11:03,2,Lakers,Kings,28 - 20,0,0,2,Layup
+8,Buddy Hield,FG_MISS,None,10:56,2,Kings,Lakers,28 - 20,1,0,2,Layup
+9,Rajon Rondo,DEFENSIVE_REBOUND,None,10:53,2,Lakers,Kings,28 - 20,0,N/A,N/A,N/A
+10,Lance Stephenson,TURNOVER,De'Aaron Fox,10:50,2,Lakers,Kings,28 - 20,0,N/A,N/A,N/A
+11,Buddy Hield,TURNOVER,Lance Stephenson,10:43,2,Kings,Lakers,28 - 20,1,N/A,N/A,N/A
+12,Rajon Rondo,FG_MISS,None,10:28,2,Lakers,Kings,28 - 20,0, ,2,Jumper
+13,Rajon Rondo,OFFENSIVE_REBOUND,None,10:26,2,Lakers,Kings,28 - 20,0,N/A,N/A,N/A
+14,Kosta Koufos,FOUL_ON_FLOOR,None,10:25,2,Kings,Lakers,28 - 20,1,N/A,N/A,N/A
+15,Willie Cauley-Stein,SUBSTITUTION,Hield Buddy,10:25,2,Kings,Lakers,28 - 20,1,N/A,N/A,N/A
+16,Troy Williams,SUBSTITUTION,Koufos Kosta,10:25,2,Kings,Lakers,28 - 20,1,N/A,N/A,N/A
+17,Tyson Chandler,SUBSTITUTION,McGee JaVale,10:25,2,Lakers,Kings,28 - 20,0,N/A,N/A,N/A
+18,Kentavious Caldwell-Pope,FG_MISS,None,10:21,2,Lakers,Kings,28 - 20,0,25,3,Jumper
+19,De'Aaron Fox,DEFENSIVE_REBOUND,None,10:17,2,Kings,Lakers,28 - 20,1,N/A,N/A,N/A
+20,Willie Cauley-Stein,FG_ASSISTED,De'Aaron Fox,10:13,2,Kings,Lakers,28 - 22,1,0,2,Layup
+21,Kentavious Caldwell-Pope,FG_MISS,None,9:59,2,Lakers,Kings,28 - 22,0,0,2,Layup
+22,Team,DEFENSIVE_REBOUND,None,9:59,2,Kings,Lakers,28 - 22,1,N/A,N/A,N/A
+23,Marvin Bagley,TURNOVER,Tyson Chandler,9:45,2,Kings,Lakers,28 - 22,1,N/A,N/A,N/A
+24,Josh Hart,FG_ASSISTED,Rajon Rondo,9:41,2,Lakers,Kings,30 - 22,0, ,2,Jumper
+25,De'Aaron Fox,FG_MISS,None,9:29,2,Kings,Lakers,30 - 22,1, ,2,Jumper
+26,Josh Hart,DEFENSIVE_REBOUND,None,9:26,2,Lakers,Kings,30 - 22,0,N/A,N/A,N/A
+27,Troy Williams,FOUL_ON_FLOOR,None,9:20,2,Kings,Lakers,30 - 22,1,N/A,N/A,N/A
+28,Kentavious Caldwell-Pope,FG_ASSISTED,Rajon Rondo,9:12,2,Lakers,Kings,33 - 22,0,26,3,Jumper
+29,Team,Unknown,None,9:10,2,Kings,Lakers,33 - 22,1,N/A,N/A,N/A
+30,Nemanja Bjelica,SUBSTITUTION,III Bagley,9:10,2,Kings,Lakers,33 - 22,1,N/A,N/A,N/A
+31,Nemanja Bjelica,TURNOVER,Rajon Rondo,8:57,2,Kings,Lakers,33 - 22,1,N/A,N/A,N/A
+32,Josh Hart,FG_MISS,None,8:52,2,Lakers,Kings,33 - 22,0,25,3,Jumper
+33,De'Aaron Fox,DEFENSIVE_REBOUND,None,8:49,2,Kings,Lakers,33 - 22,1,N/A,N/A,N/A
+34,Troy Williams,FG_MISS,None,8:43,2,Kings,Lakers,33 - 22,1,23,3,Jumper
+35,Willie Cauley-Stein,OFFENSIVE_REBOUND,None,8:40,2,Kings,Lakers,33 - 22,1,N/A,N/A,N/A
+36,Troy Williams,TURNOVER,None,8:39,2,Kings,Lakers,33 - 22,1,N/A,N/A,N/A
+37,Kentavious Caldwell-Pope,FG_MISS,None,8:21,2,Lakers,Kings,33 - 22,0,23,3,Jumper
+38,Justin Jackson,DEFENSIVE_REBOUND,None,8:19,2,Kings,Lakers,33 - 22,1,N/A,N/A,N/A
+39,Willie Cauley-Stein,TURNOVER,None,8:01,2,Kings,Lakers,33 - 22,1,N/A,N/A,N/A
+40,Willie Cauley-Stein,TURNOVER,None,8:01,2,Kings,Lakers,33 - 22,1,N/A,N/A,N/A
+41,Bogdan Bogdanovic,SUBSTITUTION,Jackson Justin,8:01,2,Kings,Lakers,33 - 22,1,N/A,N/A,N/A
+42,Lance Stephenson,FG_UNASSISTED,None,7:47,2,Lakers,Kings,35 - 22,0,20,2,Jumper
+43,Troy Williams,TURNOVER,None,7:37,2,Kings,Lakers,35 - 22,1,N/A,N/A,N/A
+44,Rajon Rondo,FOUL_ON_FLOOR,None,7:24,2,Lakers,Kings,35 - 22,0,N/A,N/A,N/A
+45,Rajon Rondo,TURNOVER,None,7:24,2,Lakers,Kings,35 - 22,0,N/A,N/A,N/A
+46,Frank Mason,SUBSTITUTION,Williams Troy,7:24,2,Kings,Lakers,35 - 22,1,N/A,N/A,N/A
+47,LeBron James,SUBSTITUTION,Caldwell-Pope Kentavious,7:24,2,Lakers,Kings,35 - 22,0,N/A,N/A,N/A
+48,Willie Cauley-Stein,FG_MISS,None,7:09,2,Kings,Lakers,35 - 22,1,9,2,Jumper
+49,Lance Stephenson,DEFENSIVE_REBOUND,None,7:05,2,Lakers,Kings,35 - 22,0,N/A,N/A,N/A
+50,Josh Hart,FG_MISS,None,6:58,2,Lakers,Kings,35 - 22,0,25,3,Jumper
+51,Willie Cauley-Stein,DEFENSIVE_REBOUND,None,6:55,2,Kings,Lakers,35 - 22,1,N/A,N/A,N/A
+52,Willie Cauley-Stein,FG_MISS,None,6:43,2,Kings,Lakers,35 - 22,1,6,2,Jumper
+53,Nemanja Bjelica,OFFENSIVE_REBOUND,None,6:42,2,Kings,Lakers,35 - 22,1,N/A,N/A,N/A
+54,Nemanja Bjelica,FG_MISS,None,6:40,2,Kings,Lakers,35 - 22,1, ,2,Jumper
+55,Josh Hart,DEFENSIVE_REBOUND,None,6:37,2,Lakers,Kings,35 - 22,0,N/A,N/A,N/A
+56,Josh Hart,FG_ASSISTED,Rajon Rondo,6:31,2,Lakers,Kings,38 - 22,0,26,3,Jumper
+57,Willie Cauley-Stein,TURNOVER,None,6:19,2,Kings,Lakers,38 - 22,1,N/A,N/A,N/A
+58,Kyle Kuzma,SUBSTITUTION,Hart Josh,6:19,2,Lakers,Kings,38 - 22,0,N/A,N/A,N/A
+59,Lonzo Ball,SUBSTITUTION,Rondo Rajon,6:19,2,Lakers,Kings,38 - 22,0,N/A,N/A,N/A
+60,Lance Stephenson,TURNOVER,Bogdan Bogdanovic,6:04,2,Lakers,Kings,38 - 22,0,N/A,N/A,N/A
+61,Bogdan Bogdanovic,FG_UNASSISTED,None,6:00,2,Kings,Lakers,38 - 24,1,0,2,Dunk
+62,Tyson Chandler,TURNOVER,Willie Cauley-Stein,5:54,2,Lakers,Kings,38 - 24,0,N/A,N/A,N/A
+63,Willie Cauley-Stein,FG_UNASSISTED,None,5:53,2,Kings,Lakers,38 - 26,1,0,2,Dunk
+64,Team,Unknown,None,5:53,2,Lakers,Kings,38 - 26,0,N/A,N/A,N/A
+65,Brandon Ingram,SUBSTITUTION,Stephenson Lance,5:53,2,Lakers,Kings,38 - 26,0,N/A,N/A,N/A
+66,Brandon Ingram,FG_MISS,None,5:30,2,Lakers,Kings,38 - 26,0,13,2,Jumper
+67,Team,OFFENSIVE_REBOUND,None,5:28,2,Lakers,Kings,38 - 26,0,N/A,N/A,N/A
+68,LeBron James,FG_MISS,None,5:25,2,Lakers,Kings,38 - 26,0, ,2,Jumper
+69,Bogdan Bogdanovic,DEFENSIVE_REBOUND,None,5:23,2,Kings,Lakers,38 - 26,1,N/A,N/A,N/A
+70,Willie Cauley-Stein,FG_ASSISTED,Bogdan Bogdanovic,5:19,2,Kings,Lakers,38 - 28,1,0,2,Dunk
+71,Brandon Ingram,FG_MISS,None,5:08,2,Lakers,Kings,38 - 28,0,13,2,Jumper
+72,Willie Cauley-Stein,DEFENSIVE_REBOUND,None,5:05,2,Kings,Lakers,38 - 28,1,N/A,N/A,N/A
+73,Brandon Ingram,FOUL_ON_FLOOR,None,4:56,2,Lakers,Kings,38 - 28,0,N/A,N/A,N/A
+74,Bogdan Bogdanovic,FT,None,4:56,2,Kings,Lakers,38 - 29,1,N/A,1,N/A
+75,JaVale McGee,SUBSTITUTION,Chandler Tyson,4:56,2,Lakers,Kings,38 - 29,0,N/A,N/A,N/A
+76,Bogdan Bogdanovic,FT_MISS,None,4:56,2,Kings,Lakers,38 - 29,1,N/A,1,N/A
+77,JaVale McGee,DEFENSIVE_REBOUND,None,4:53,2,Lakers,Kings,38 - 29,0,N/A,N/A,N/A
+78,Lonzo Ball,FG_MISS,None,4:35,2,Lakers,Kings,38 - 29,0,0,2,Layup
+79,Willie Cauley-Stein,DEFENSIVE_REBOUND,None,4:29,2,Kings,Lakers,38 - 29,1,N/A,N/A,N/A
+80,De'Aaron Fox,FG_UNASSISTED,None,4:27,2,Kings,Lakers,38 - 32,1,25,3,Jumper
+81,Kyle Kuzma,FG_MISS,None,4:07,2,Lakers,Kings,38 - 32,0,11,2,Jumper
+82,Team,DEFENSIVE_REBOUND,None,4:07,2,Kings,Lakers,38 - 32,1,N/A,N/A,N/A
+83,De'Aaron Fox,FG_UNASSISTED,None,3:58,2,Kings,Lakers,38 - 35,1,26,2,Jumper
+84,LeBron James,FG_UNASSISTED,None,3:46,2,Lakers,Kings,40 - 35,0,0,2,Layup
+85,Nemanja Bjelica,FOUL_ON_FLOOR,None,3:46,2,Kings,Lakers,40 - 35,1,N/A,N/A,N/A
+86,LeBron James,FT,None,3:46,2,Lakers,Kings,41 - 35,0,N/A,1,N/A
+87,Nemanja Bjelica,FG_MISS,None,3:31,2,Kings,Lakers,41 - 35,1, ,3,Jumper
+88,JaVale McGee,DEFENSIVE_REBOUND,None,3:30,2,Lakers,Kings,41 - 35,0,N/A,N/A,N/A
+89,LeBron James,TURNOVER,None,3:24,2,Lakers,Kings,41 - 35,0,N/A,N/A,N/A
+90,De'Aaron Fox,FG_UNASSISTED,None,3:04,2,Kings,Lakers,41 - 37,1,18,2,Jumper
+91,JaVale McGee,FG_ASSISTED,Lonzo Ball,2:49,2,Lakers,Kings,43 - 37,0,0,2,Dunk
+92,De'Aaron Fox,FG_MISS,None,2:40,2,Kings,Lakers,43 - 37,1,0,2,Layup
+93,Willie Cauley-Stein,OFFENSIVE_REBOUND,None,2:40,2,Kings,Lakers,43 - 39,1,N/A,N/A,N/A
+94,Willie Cauley-Stein,FG_UNASSISTED,None,2:39,2,Kings,Lakers,43 - 39,1,0,2,Dunk
+95,LeBron James,FG_MISS,None,2:26,2,Lakers,Kings,43 - 39,0,0,2,Layup
+96,LeBron James,OFFENSIVE_REBOUND,None,2:22,2,Lakers,Kings,43 - 39,0,N/A,N/A,N/A
+97,LeBron James,FG_UNASSISTED,None,2:22,2,Lakers,Kings,45 - 39,0, ,2,Jumper
+98,Frank Mason,FG_UNASSISTED,None,2:14,2,Kings,Lakers,45 - 41,1,12,2,Jumper
+99,Lonzo Ball,FG_MISS,None,1:54,2,Lakers,Kings,45 - 41,0,17,2,Jumper
+100,Willie Cauley-Stein,DEFENSIVE_REBOUND,None,1:51,2,Kings,Lakers,45 - 41,1,N/A,N/A,N/A
+101,Frank Mason,FG_MISS,None,1:42,2,Kings,Lakers,45 - 41,1,23,3,Jumper
+102,JaVale McGee,DEFENSIVE_REBOUND,None,1:38,2,Lakers,Kings,45 - 41,0,N/A,N/A,N/A
+103,Lonzo Ball,FG_MISS,None,1:23,2,Lakers,Kings,45 - 41,0,23,3,Jumper
+104,Nemanja Bjelica,DEFENSIVE_REBOUND,None,1:20,2,Kings,Lakers,45 - 41,1,N/A,N/A,N/A
+105,Willie Cauley-Stein,FG_MISS,None,1:01,2,Kings,Lakers,45 - 41,1,0,2,Dunk
+106,Lonzo Ball,DEFENSIVE_REBOUND,None,57.9,2,Lakers,Kings,45 - 41,0,N/A,N/A,N/A
+107,Lonzo Ball,FG_ASSISTED,Kyle Kuzma,55.7,2,Lakers,Kings,47 - 41,0,0,2,Layup
+108,De'Aaron Fox,FG_UNASSISTED,None,34.7,2,Kings,Lakers,47 - 44,1,25,3,Jumper
+109,LeBron James,FG_UNASSISTED,None,16.0,2,Lakers,Kings,50 - 44,0,29,3,Jumper
+110,De'Aaron Fox,FG_MISS,None,0.0,2,Kings,Lakers,50 - 44,1,25,3,Jumper
+111,Team,OFFENSIVE_REBOUND,None,0.0,2,Kings,Lakers,50 - 44,1,N/A,N/A,N/A
+112,End of,Unknown,None,0.0,2,Kings,Lakers,50 - 44,1,N/A,N/A,N/A
+0,Iman Shumpert,SUBSTITUTION,Bogdanovic Bogdan,12:00,3,Kings,Lakers,50 - 44,1,N/A,N/A,N/A
+1,Buddy Hield,SUBSTITUTION,III Mason,12:00,3,Kings,Lakers,50 - 44,1,N/A,N/A,N/A
+2,Buddy Hield,TURNOVER,JaVale McGee,11:38,3,Kings,Lakers,50 - 44,1,N/A,N/A,N/A
+3,Kyle Kuzma,FG_ASSISTED,Brandon Ingram,11:32,3,Lakers,Kings,53 - 44,0,24,3,Jumper
+4,De'Aaron Fox,FG_MISS,None,11:17,3,Kings,Lakers,53 - 44,1, ,2,Jumper
+5,Team,DEFENSIVE_REBOUND,None,11:17,3,Lakers,Kings,53 - 44,0,N/A,N/A,N/A
+6,Willie Cauley-Stein,FOUL_ON_FLOOR,None,11:17,3,Kings,Lakers,53 - 44,1,N/A,N/A,N/A
+7,Lonzo Ball,FG_MISS,None,11:03,3,Lakers,Kings,53 - 44,0,25,3,Jumper
+8,JaVale McGee,OFFENSIVE_REBOUND,None,10:59,3,Lakers,Kings,53 - 44,0,N/A,N/A,N/A
+9,Kyle Kuzma,FG_MISS,None,10:56,3,Lakers,Kings,53 - 44,0,25,3,Jumper
+10,Lonzo Ball,OFFENSIVE_REBOUND,None,10:53,3,Lakers,Kings,53 - 44,0,N/A,N/A,N/A
+11,Brandon Ingram,FG_MISS,None,10:41,3,Lakers,Kings,53 - 44,0,23,3,Jumper
+12,Willie Cauley-Stein,DEFENSIVE_REBOUND,None,10:37,3,Kings,Lakers,53 - 44,1,N/A,N/A,N/A
+13,Iman Shumpert,FG_UNASSISTED,None,10:28,3,Kings,Lakers,53 - 47,1,26,2,Jumper
+14,Kyle Kuzma,TURNOVER,Nemanja Bjelica,10:14,3,Lakers,Kings,53 - 47,0,N/A,N/A,N/A
+15,Buddy Hield,FG_MISS,None,10:08,3,Kings,Lakers,53 - 47,1,22,3,Jumper
+16,Nemanja Bjelica,OFFENSIVE_REBOUND,None,10:04,3,Kings,Lakers,53 - 47,1,N/A,N/A,N/A
+17,Nemanja Bjelica,FG_UNASSISTED,None,10:04,3,Kings,Lakers,53 - 49,1, ,2,Jumper
+18,Brandon Ingram,FG_MISS,None,9:48,3,Lakers,Kings,53 - 49,0,0,2,Layup
+19,Brandon Ingram,OFFENSIVE_REBOUND,None,9:45,3,Lakers,Kings,53 - 49,0,N/A,N/A,N/A
+20,Brandon Ingram,FG_MISS,None,9:45,3,Lakers,Kings,53 - 49,0,2,2,Jumper
+21,Brandon Ingram,OFFENSIVE_REBOUND,None,9:45,3,Lakers,Kings,53 - 49,0,N/A,N/A,N/A
+22,Brandon Ingram,FG_MISS,None,9:44,3,Lakers,Kings,53 - 49,0,0,2,Layup
+23,De'Aaron Fox,DEFENSIVE_REBOUND,None,9:42,3,Kings,Lakers,53 - 49,1,N/A,N/A,N/A
+24,Buddy Hield,FG_MISS,None,9:37,3,Kings,Lakers,53 - 49,1,23,3,Jumper
+25,Team,DEFENSIVE_REBOUND,None,9:36,3,Lakers,Kings,53 - 49,0,N/A,N/A,N/A
+26,Willie Cauley-Stein,FOUL_ON_FLOOR,None,9:36,3,Kings,Lakers,53 - 49,1,N/A,N/A,N/A
+27,Kentavious Caldwell-Pope,SUBSTITUTION,Ingram Brandon,9:36,3,Lakers,Kings,53 - 49,0,N/A,N/A,N/A
+28,LeBron James,FG_MISS,None,9:19,3,Lakers,Kings,53 - 49,0,25,3,Jumper
+29,JaVale McGee,OFFENSIVE_REBOUND,None,9:15,3,Lakers,Kings,53 - 49,0,N/A,N/A,N/A
+30,JaVale McGee,TURNOVER,None,9:06,3,Lakers,Kings,53 - 49,0,N/A,N/A,N/A
+31,Buddy Hield,FG_UNASSISTED,None,8:52,3,Kings,Lakers,53 - 51,1,18,2,Jumper
+32,Kentavious Caldwell-Pope,FG_MISS,None,8:35,3,Lakers,Kings,53 - 51,0,26,3,Jumper
+33,Nemanja Bjelica,DEFENSIVE_REBOUND,None,8:30,3,Kings,Lakers,53 - 51,1,N/A,N/A,N/A
+34,Nemanja Bjelica,FG_MISS,None,8:22,3,Kings,Lakers,53 - 51,1, ,2,Jumper
+35,Nemanja Bjelica,OFFENSIVE_REBOUND,None,8:19,3,Kings,Lakers,53 - 51,1,N/A,N/A,N/A
+36,Nemanja Bjelica's,FG_MISS,JaVale McGee,8:18,3,Lakers,Kings,53 - 51,1, ,2,Jumper
+37,LeBron James,DEFENSIVE_REBOUND,None,8:18,3,Lakers,Kings,53 - 51,0,N/A,N/A,N/A
+38,Kentavious Caldwell-Pope,FG_ASSISTED,LeBron James,8:12,3,Lakers,Kings,55 - 51,0, ,2,Jumper
+39,De'Aaron Fox,TURNOVER,LeBron James,8:09,3,Kings,Lakers,55 - 51,1,N/A,N/A,N/A
+40,Lonzo Ball,FG_MISS,None,7:48,3,Lakers,Kings,55 - 51,0,29,3,Jumper
+41,Willie Cauley-Stein,DEFENSIVE_REBOUND,None,7:44,3,Kings,Lakers,55 - 51,1,N/A,N/A,N/A
+42,Kentavious Caldwell-Pope,FOUL_ON_FLOOR,None,7:41,3,Lakers,Kings,55 - 51,0,N/A,N/A,N/A
+43,Tyson Chandler,SUBSTITUTION,McGee JaVale,7:41,3,Lakers,Kings,55 - 51,0,N/A,N/A,N/A
+44,LeBron James,FOUL_ON_FLOOR,None,7:41,3,Lakers,Kings,55 - 51,0,N/A,N/A,N/A
+45,Buddy Hield,FT,None,7:41,3,Kings,Lakers,55 - 52,1,N/A,1,N/A
+46,Willie Cauley-Stein,FG_ASSISTED,Iman Shumpert,7:25,3,Kings,Lakers,55 - 54,1,17,2,Jumper
+47,Kyle Kuzma,FG_MISS,None,7:06,3,Lakers,Kings,55 - 54,0,8,2,Jumper
+48,Nemanja Bjelica,DEFENSIVE_REBOUND,None,7:02,3,Kings,Lakers,55 - 54,1,N/A,N/A,N/A
+49,De'Aaron Fox,TURNOVER,Lonzo Ball,6:50,3,Kings,Lakers,55 - 54,1,N/A,N/A,N/A
+50,Tyson Chandler,FG_ASSISTED,Kyle Kuzma,6:36,3,Lakers,Kings,57 - 54,0,0,2,Layup
+51,De'Aaron Fox,FG_UNASSISTED,None,6:27,3,Kings,Lakers,57 - 56,1,8,2,Jumper
+52,Kyle Kuzma,FG_ASSISTED,Lonzo Ball,6:07,3,Lakers,Kings,59 - 56,0,0,2,Layup
+53,Iman Shumpert,FG_MISS,None,5:52,3,Kings,Lakers,59 - 56,1,23,3,Jumper
+54,Kentavious Caldwell-Pope,DEFENSIVE_REBOUND,None,5:48,3,Lakers,Kings,59 - 56,0,N/A,N/A,N/A
+55,LeBron James,FG_ASSISTED,Lonzo Ball,5:45,3,Lakers,Kings,61 - 56,0,0,2,Dunk
+56,Team,Unknown,None,5:44,3,Kings,Lakers,61 - 56,1,N/A,N/A,N/A
+57,Rajon Rondo,SUBSTITUTION,Caldwell-Pope Kentavious,5:44,3,Lakers,Kings,61 - 56,0,N/A,N/A,N/A
+58,Brandon Ingram,SUBSTITUTION,Ball Lonzo,5:44,3,Lakers,Kings,61 - 56,0,N/A,N/A,N/A
+59,Buddy Hield,FG_MISS,None,5:35,3,Kings,Lakers,61 - 56,1,26,3,Jumper
+60,Willie Cauley-Stein,OFFENSIVE_REBOUND,None,5:31,3,Kings,Lakers,61 - 56,1,N/A,N/A,N/A
+61,Rajon Rondo,Unknown,None,5:20,3,Lakers,Kings,61 - 56,0,N/A,N/A,N/A
+62,Willie Cauley-Stein,FOUL_ON_FLOOR,None,5:16,3,Kings,Lakers,61 - 56,1,N/A,N/A,N/A
+63,Willie Cauley-Stein,TURNOVER,None,5:16,3,Kings,Lakers,61 - 56,1,N/A,N/A,N/A
+64,LeBron James,FG_UNASSISTED,None,4:56,3,Lakers,Kings,64 - 56,0,26,2,Jumper
+65,Buddy Hield,FG_MISS,None,4:39,3,Kings,Lakers,64 - 56,1,0,2,Layup
+66,Team,OFFENSIVE_REBOUND,None,4:39,3,Kings,Lakers,64 - 56,1,N/A,N/A,N/A
+67,Willie Cauley-Stein,FOUL_ON_FLOOR,None,4:39,3,Kings,Lakers,64 - 56,1,N/A,N/A,N/A
+68,Willie Cauley-Stein,TURNOVER,None,4:39,3,Kings,Lakers,64 - 56,1,N/A,N/A,N/A
+69,Bogdan Bogdanovic,SUBSTITUTION,Hield Buddy,4:39,3,Kings,Lakers,64 - 56,1,N/A,N/A,N/A
+70,Kosta Koufos,SUBSTITUTION,Cauley-Stein Willie,4:39,3,Kings,Lakers,64 - 56,1,N/A,N/A,N/A
+71,Tyson Chandler,FOUL_ON_FLOOR,None,4:26,3,Lakers,Kings,64 - 56,0,N/A,N/A,N/A
+72,Tyson Chandler,TURNOVER,None,4:26,3,Lakers,Kings,64 - 56,0,N/A,N/A,N/A
+73,Brandon Ingram,FOUL_ON_FLOOR,None,4:17,3,Lakers,Kings,64 - 56,0,N/A,N/A,N/A
+74,De'Aaron Fox,FG_MISS,None,4:07,3,Kings,Lakers,64 - 56,1,25,3,Jumper
+75,Brandon Ingram,DEFENSIVE_REBOUND,None,4:03,3,Lakers,Kings,64 - 56,0,N/A,N/A,N/A
+76,Kyle Kuzma,FG_MISS,None,3:56,3,Lakers,Kings,64 - 56,0,23,3,Jumper
+77,Tyson Chandler,OFFENSIVE_REBOUND,None,3:54,3,Lakers,Kings,64 - 56,0,N/A,N/A,N/A
+78,Rajon Rondo,FG_UNASSISTED,None,3:50,3,Lakers,Kings,67 - 56,0,26,3,Jumper
+79,Iman Shumpert,FG_ASSISTED,Nemanja Bjelica,3:38,3,Kings,Lakers,67 - 58,1,0,2,Layup
+80,Nemanja Bjelica,FOUL_ON_FLOOR,None,3:29,3,Kings,Lakers,67 - 58,1,N/A,N/A,N/A
+81,Tyson Chandler,FG_MISS,None,3:19,3,Lakers,Kings,67 - 58,0,0,2,Layup
+82,Tyson Chandler,OFFENSIVE_REBOUND,None,3:18,3,Lakers,Kings,67 - 58,0,N/A,N/A,N/A
+83,De'Aaron Fox,FOUL_ON_FLOOR,None,3:18,3,Kings,Lakers,67 - 58,1,N/A,N/A,N/A
+84,Tyson Chandler,FT,None,3:18,3,Lakers,Kings,68 - 58,0,N/A,1,N/A
+85,Team,Unknown,None,3:18,3,Lakers,Kings,68 - 58,0,N/A,N/A,N/A
+86,Tyson Chandler,FT_MISS,None,3:18,3,Lakers,Kings,68 - 58,0,N/A,1,N/A
+87,Kosta Koufos,DEFENSIVE_REBOUND,None,3:14,3,Kings,Lakers,68 - 58,1,N/A,N/A,N/A
+88,Kosta Koufos,FG_MISS,None,3:03,3,Kings,Lakers,68 - 58,1,11,2,Jumper
+89,Tyson Chandler,DEFENSIVE_REBOUND,None,2:59,3,Lakers,Kings,68 - 58,0,N/A,N/A,N/A
+90,LeBron James,FG_MISS,None,2:45,3,Lakers,Kings,68 - 58,0,28,2,Jumper
+91,De'Aaron Fox,DEFENSIVE_REBOUND,None,2:41,3,Kings,Lakers,68 - 58,1,N/A,N/A,N/A
+92,Nemanja Bjelica,TURNOVER,Kyle Kuzma,2:34,3,Kings,Lakers,68 - 58,1,N/A,N/A,N/A
+93,Kyle Kuzma,FG_ASSISTED,Rajon Rondo,2:30,3,Lakers,Kings,70 - 58,0,0,2,Dunk
+94,Bogdan Bogdanovic,FG_MISS,None,2:20,3,Kings,Lakers,70 - 58,1,26,3,Jumper
+95,Tyson Chandler,DEFENSIVE_REBOUND,None,2:12,3,Lakers,Kings,70 - 58,0,N/A,N/A,N/A
+96,LeBron James,FG_MISS,None,2:08,3,Lakers,Kings,70 - 58,0,10,2,Jumper
+97,Nemanja Bjelica,DEFENSIVE_REBOUND,None,2:06,3,Kings,Lakers,70 - 58,1,N/A,N/A,N/A
+98,De'Aaron Fox,FG_UNASSISTED,None,1:59,3,Kings,Lakers,70 - 60,1,8,2,Jumper
+99,Rajon Rondo,FG_MISS,None,1:33,3,Lakers,Kings,70 - 60,0,27,3,Jumper
+100,Kosta Koufos,DEFENSIVE_REBOUND,None,1:29,3,Kings,Lakers,70 - 60,1,N/A,N/A,N/A
+101,Bogdan Bogdanovic,FG_MISS,None,1:22,3,Kings,Lakers,70 - 60,1, ,2,Jumper
+102,Brandon Ingram,DEFENSIVE_REBOUND,None,1:19,3,Lakers,Kings,70 - 60,0,N/A,N/A,N/A
+103,Brandon Ingram,FG_MISS,Kosta Koufos,1:16,3,Kings,Lakers,70 - 60,0,0,2,Layup
+104,Team,OFFENSIVE_REBOUND,None,1:16,3,Lakers,Kings,70 - 60,0,N/A,N/A,N/A
+105,Team,Unknown,None,1:16,3,Lakers,Kings,70 - 60,0,N/A,N/A,N/A
+106,Frank Mason,SUBSTITUTION,Fox De'Aaron,1:16,3,Kings,Lakers,70 - 60,1,N/A,N/A,N/A
+107,Troy Williams,SUBSTITUTION,Shumpert Iman,1:16,3,Kings,Lakers,70 - 60,1,N/A,N/A,N/A
+108,Marvin Bagley,SUBSTITUTION,Bjelica Nemanja,1:16,3,Kings,Lakers,70 - 60,1,N/A,N/A,N/A
+109,Josh Hart,SUBSTITUTION,Chandler Tyson,1:16,3,Lakers,Kings,70 - 60,0,N/A,N/A,N/A
+110,JaVale McGee,SUBSTITUTION,James LeBron,1:16,3,Lakers,Kings,70 - 60,0,N/A,N/A,N/A
+111,Troy Williams,FOUL_ON_FLOOR,None,1:05,3,Kings,Lakers,70 - 60,1,N/A,N/A,N/A
+112,Brandon Ingram,FT,None,1:05,3,Lakers,Kings,71 - 60,0,N/A,1,N/A
+113,Brandon Ingram,FT,None,1:05,3,Lakers,Kings,72 - 60,0,N/A,1,N/A
+114,Josh Hart,FOUL_ON_FLOOR,None,55.1,3,Lakers,Kings,72 - 60,0,N/A,N/A,N/A
+115,Bogdan Bogdanovic,FT,None,55.1,3,Kings,Lakers,72 - 61,1,N/A,1,N/A
+116,Bogdan Bogdanovic,FT,None,55.1,3,Kings,Lakers,72 - 62,1,N/A,1,N/A
+117,Bogdan Bogdanovic,FT,None,55.1,3,Kings,Lakers,72 - 63,1,N/A,1,N/A
+118,Brandon Ingram,FG_MISS,None,44.3,3,Lakers,Kings,72 - 63,0,9,2,Jumper
+119,Kosta Koufos,DEFENSIVE_REBOUND,None,40.8,3,Kings,Lakers,72 - 63,1,N/A,N/A,N/A
+120,Troy Williams,FG_ASSISTED,ason III,38.9,3,Kings,Lakers,72 - 65,1,0,2,Dunk
+121,Team,Unknown,None,38.9,3,Kings,Lakers,72 - 63,1,N/A,N/A,N/A
+122,Rajon Rondo,FG_UNASSISTED,None,29.8,3,Lakers,Kings,74 - 65,0,10,2,Jumper
+123,Marvin Bagley,FG_MISS,None,15.2,3,Kings,Lakers,74 - 65,1,10,2,Jumper
+124,JaVale McGee,DEFENSIVE_REBOUND,None,15.2,3,Lakers,Kings,76 - 65,0,N/A,N/A,N/A
+125,Brandon Ingram,FG_UNASSISTED,None,0.7,3,Lakers,Kings,76 - 65,0,5,2,Jumper
+126,End of,Unknown,None,0.0,3,Kings,Lakers,76 - 65,1,N/A,N/A,N/A
+0,Kentavious Caldwell-Pope,SUBSTITUTION,Kuzma Kyle,12:00,4,Lakers,Kings,76 - 65,0,N/A,N/A,N/A
+1,Lance Stephenson,SUBSTITUTION,Ingram Brandon,12:00,4,Lakers,Kings,76 - 65,0,N/A,N/A,N/A
+2,Lance Stephenson,FG_ASSISTED,Rajon Rondo,11:39,4,Lakers,Kings,79 - 65,0,23,3,Jumper
+3,Marvin Bagley,FG_MISS,None,11:24,4,Kings,Lakers,79 - 65,1,0,2,Layup
+4,Marvin Bagley,OFFENSIVE_REBOUND,None,11:24,4,Kings,Lakers,79 - 65,1,N/A,N/A,N/A
+5,Lance Stephenson,FOUL_ON_FLOOR,None,11:24,4,Lakers,Kings,79 - 65,0,N/A,N/A,N/A
+6,Marvin Bagley,FT_MISS,None,11:24,4,Kings,Lakers,79 - 65,1,N/A,1,N/A
+7,Team,OFFENSIVE_REBOUND,None,11:24,4,Kings,Lakers,79 - 65,1,N/A,N/A,N/A
+8,Marvin Bagley,FT_MISS,None,11:24,4,Kings,Lakers,79 - 65,1,N/A,1,N/A
+9,Marvin Bagley,FG_MISS,None,11:24,4,Kings,Lakers,79 - 65,1,3,2,Jumper
+10,Marvin Bagley,OFFENSIVE_REBOUND,None,11:24,4,Kings,Lakers,79 - 65,1,N/A,N/A,N/A
+11,Josh Hart,DEFENSIVE_REBOUND,None,11:21,4,Lakers,Kings,79 - 65,0,N/A,N/A,N/A
+12,Rajon Rondo,FG_MISS,None,11:12,4,Lakers,Kings,79 - 65,0,12,2,Jumper
+13,Team,DEFENSIVE_REBOUND,None,11:12,4,Kings,Lakers,79 - 65,1,N/A,N/A,N/A
+14,Buddy Hield,SUBSTITUTION,Bogdanovic Bogdan,11:12,4,Kings,Lakers,79 - 65,1,N/A,N/A,N/A
+15,Rajon Rondo,FOUL_TECHNICAL,None,11:12,4,Lakers,Kings,79 - 65,0,N/A,N/A,N/A
+16,Buddy Hield,FT,None,11:12,4,Kings,Lakers,79 - 66,1,N/A,1,N/A
+17,Buddy Hield,FG_MISS,None,11:01,4,Kings,Lakers,79 - 66,1,19,2,Jumper
+18,Buddy Hield,OFFENSIVE_REBOUND,None,10:58,4,Kings,Lakers,79 - 66,1,N/A,N/A,N/A
+19,Frank Mason,TURNOVER,Josh Hart,10:53,4,Kings,Lakers,79 - 66,1,N/A,N/A,N/A
+20,Kentavious Caldwell-Pope,FG_MISS,None,10:46,4,Lakers,Kings,79 - 66,0,25,3,Jumper
+21,Kosta Koufos,DEFENSIVE_REBOUND,None,10:42,4,Kings,Lakers,79 - 66,1,N/A,N/A,N/A
+22,Frank Mason,FG_UNASSISTED,None,10:32,4,Kings,Lakers,79 - 68,1,17,2,Jumper
+23,Troy Williams,FOUL_ON_FLOOR,None,10:19,4,Kings,Lakers,79 - 68,1,N/A,N/A,N/A
+24,Kentavious Caldwell-Pope,FT_MISS,None,10:19,4,Lakers,Kings,79 - 68,0,N/A,1,N/A
+25,Team,OFFENSIVE_REBOUND,None,10:19,4,Lakers,Kings,79 - 68,0,N/A,N/A,N/A
+26,De'Aaron Fox,SUBSTITUTION,Williams Troy,10:19,4,Kings,Lakers,79 - 68,1,N/A,N/A,N/A
+27,Kentavious Caldwell-Pope,FT,None,10:19,4,Lakers,Kings,80 - 68,0,N/A,1,N/A
+28,De'Aaron Fox,FG_MISS,None,10:10,4,Kings,Lakers,80 - 68,1, ,2,Jumper
+29,Lance Stephenson,DEFENSIVE_REBOUND,None,10:07,4,Lakers,Kings,80 - 68,0,N/A,N/A,N/A
+30,Josh Hart,FG_MISS,None,10:04,4,Lakers,Kings,80 - 68,0,25,3,Jumper
+31,Josh Hart,OFFENSIVE_REBOUND,None,10:01,4,Lakers,Kings,80 - 68,0,N/A,N/A,N/A
+32,Lance Stephenson,FG_ASSISTED,Rajon Rondo,9:57,4,Lakers,Kings,83 - 68,0, ,3,Jumper
+33,Team,Unknown,None,9:56,4,Kings,Lakers,83 - 68,1,N/A,N/A,N/A
+34,Iman Shumpert,SUBSTITUTION,Koufos Kosta,9:56,4,Kings,Lakers,83 - 68,1,N/A,N/A,N/A
+35,De'Aaron Fox,FG_MISS,None,9:31,4,Kings,Lakers,83 - 68,1,20,2,Jumper
+36,Lance Stephenson,DEFENSIVE_REBOUND,None,9:27,4,Lakers,Kings,83 - 68,0,N/A,N/A,N/A
+37,Kentavious Caldwell-Pope,FG_MISS,None,9:19,4,Lakers,Kings,83 - 68,0,25,3,Jumper
+38,De'Aaron Fox,DEFENSIVE_REBOUND,None,9:17,4,Kings,Lakers,83 - 68,1,N/A,N/A,N/A
+39,De'Aaron Fox,TURNOVER,Rajon Rondo,9:14,4,Kings,Lakers,83 - 68,1,N/A,N/A,N/A
+40,Kentavious Caldwell-Pope,FG_ASSISTED,Rajon Rondo,9:08,4,Lakers,Kings,85 - 68,0, ,2,Jumper
+41,Buddy Hield,FG_MISS,None,8:51,4,Kings,Lakers,85 - 68,1,21,2,Jumper
+42,Lance Stephenson,DEFENSIVE_REBOUND,None,8:46,4,Lakers,Kings,85 - 68,0,N/A,N/A,N/A
+43,Rajon Rondo,TURNOVER,Iman Shumpert,8:33,4,Lakers,Kings,85 - 68,0,N/A,N/A,N/A
+44,Marvin Bagley,FG_MISS,None,8:20,4,Kings,Lakers,85 - 68,1,11,2,Jumper
+45,Rajon Rondo,DEFENSIVE_REBOUND,None,8:15,4,Lakers,Kings,85 - 68,0,N/A,N/A,N/A
+46,Josh Hart,FG_ASSISTED,Kentavious Caldwell-Pope,8:01,4,Lakers,Kings,88 - 68,0,25,3,Jumper
+47,Lance Stephenson,FOUL_ON_FLOOR,None,7:44,4,Lakers,Kings,88 - 68,0,N/A,N/A,N/A
+48,Justin Jackson,SUBSTITUTION,III Mason,7:44,4,Kings,Lakers,88 - 68,1,N/A,N/A,N/A
+49,Tyson Chandler,SUBSTITUTION,McGee JaVale,7:44,4,Lakers,Kings,88 - 68,0,N/A,N/A,N/A
+50,Marvin Bagley,FG_MISS,None,7:33,4,Kings,Lakers,88 - 68,1,16,2,Jumper
+51,Kentavious Caldwell-Pope,DEFENSIVE_REBOUND,None,7:30,4,Lakers,Kings,88 - 68,0,N/A,N/A,N/A
+52,blocks Rajon,FG_MISS,Marvin Bagley,7:10,4,Kings,Lakers,88 - 68,0,0,2,Layup
+53,Tyson Chandler,OFFENSIVE_REBOUND,None,7:10,4,Lakers,Kings,88 - 68,0,N/A,N/A,N/A
+54,Iman Shumpert,FOUL_ON_FLOOR,None,7:10,4,Kings,Lakers,88 - 68,1,N/A,N/A,N/A
+55,Tyson Chandler,FT_MISS,None,7:10,4,Lakers,Kings,88 - 68,0,N/A,1,N/A
+56,Team,OFFENSIVE_REBOUND,None,7:10,4,Lakers,Kings,88 - 68,0,N/A,N/A,N/A
+57,Tyson Chandler,FT_MISS,None,7:10,4,Lakers,Kings,88 - 68,0,N/A,1,N/A
+58,Iman Shumpert,DEFENSIVE_REBOUND,None,7:05,4,Kings,Lakers,88 - 68,1,N/A,N/A,N/A
+59,Buddy Hield,FG_MISS,None,6:52,4,Kings,Lakers,88 - 68,1,0,2,Layup
+60,Tyson Chandler,DEFENSIVE_REBOUND,None,6:48,4,Lakers,Kings,88 - 68,0,N/A,N/A,N/A
+61,Josh Hart,FG_MISS,None,6:46,4,Lakers,Kings,88 - 68,0,23,3,Jumper
+62,Marvin Bagley,DEFENSIVE_REBOUND,None,6:42,4,Kings,Lakers,88 - 68,1,N/A,N/A,N/A
+63,Marvin Bagley,FG_UNASSISTED,None,6:38,4,Kings,Lakers,88 - 70,1, ,2,Jumper
+64,Team,Unknown,None,6:38,4,Lakers,Kings,88 - 70,0,N/A,N/A,N/A
+65,LeBron James,SUBSTITUTION,Caldwell-Pope Kentavious,6:38,4,Lakers,Kings,88 - 70,0,N/A,N/A,N/A
+66,Kyle Kuzma,SUBSTITUTION,Hart Josh,6:38,4,Lakers,Kings,88 - 70,0,N/A,N/A,N/A
+67,Brandon Ingram,SUBSTITUTION,Stephenson Lance,6:38,4,Lakers,Kings,88 - 70,0,N/A,N/A,N/A
+68,LeBron James,FG_MISS,None,6:15,4,Lakers,Kings,88 - 70,0,15,2,Jumper
+69,Kyle Kuzma,OFFENSIVE_REBOUND,None,6:14,4,Lakers,Kings,88 - 70,0,N/A,N/A,N/A
+70,shot clock,TURNOVER,None,6:14,4,Lakers,Kings,88 - 70,0,N/A,N/A,N/A
+71,Kyle Kuzma,FG_MISS,De'Aaron Fox,6:14,4,Kings,Lakers,88 - 70,0,3,2,Jumper
+72,Team,OFFENSIVE_REBOUND,None,6:14,4,Lakers,Kings,88 - 70,0,N/A,N/A,N/A
+73,Marvin Bagley,FG_UNASSISTED,None,6:03,4,Kings,Lakers,88 - 72,1,6,2,Jumper
+74,Iman Shumpert,Unknown,None,5:43,4,Kings,Lakers,88 - 72,1,N/A,N/A,N/A
+75,Buddy Hield,FOUL_ON_FLOOR,None,5:36,4,Kings,Lakers,88 - 72,1,N/A,N/A,N/A
+76,Team,Unknown,None,5:36,4,Lakers,Kings,88 - 72,0,N/A,N/A,N/A
+77,delay techfoul,FOUL_ON_FLOOR,None,5:36,4,Lakers,Kings,88 - 72,0,N/A,N/A,N/A
+78,Buddy Hield,FT,None,5:36,4,Kings,Lakers,88 - 73,1,N/A,1,N/A
+79,Rajon Rondo,FT_MISS,None,5:36,4,Lakers,Kings,88 - 73,0,N/A,1,N/A
+80,Team,OFFENSIVE_REBOUND,None,5:36,4,Lakers,Kings,88 - 73,0,N/A,N/A,N/A
+81,Rajon Rondo,FT_MISS,None,5:36,4,Lakers,Kings,88 - 73,0,N/A,1,N/A
+82,Buddy Hield,DEFENSIVE_REBOUND,None,5:33,4,Kings,Lakers,88 - 73,1,N/A,N/A,N/A
+83,LeBron James,FOUL_ON_FLOOR,None,5:30,4,Lakers,Kings,88 - 73,0,N/A,N/A,N/A
+84,Justin Jackson,FG_ASSISTED,De'Aaron Fox,5:21,4,Kings,Lakers,88 - 76,1,26,3,Jumper
+85,Team,Unknown,None,5:21,4,Lakers,Kings,88 - 76,0,N/A,N/A,N/A
+86,LeBron James,FG_MISS,None,4:58,4,Lakers,Kings,88 - 76,0,15,2,Jumper
+87,Rajon Rondo,OFFENSIVE_REBOUND,None,4:55,4,Lakers,Kings,88 - 76,0,N/A,N/A,N/A
+88,blocks Rajon,FG_MISS,Marvin Bagley,4:50,4,Kings,Lakers,88 - 76,0,0,2,Layup
+89,De'Aaron Fox,DEFENSIVE_REBOUND,None,4:47,4,Kings,Lakers,88 - 76,1,N/A,N/A,N/A
+90,Marvin Bagley,FG_ASSISTED,Buddy Hield,4:45,4,Kings,Lakers,88 - 78,1,0,2,Dunk
+91,Brandon Ingram,FG_UNASSISTED,None,4:24,4,Lakers,Kings,90 - 78,0,0,2,Layup
+92,Brandon Ingram,FOUL_ON_FLOOR,None,4:06,4,Lakers,Kings,90 - 78,0,N/A,N/A,N/A
+93,De'Aaron Fox,FG_MISS,None,3:58,4,Kings,Lakers,90 - 78,1, ,2,Jumper
+94,Brandon Ingram,DEFENSIVE_REBOUND,None,3:56,4,Lakers,Kings,90 - 78,0,N/A,N/A,N/A
+95,Iman Shumpert,FOUL_ON_FLOOR,None,3:53,4,Kings,Lakers,90 - 78,1,N/A,N/A,N/A
+96,LeBron James,FT,None,3:53,4,Lakers,Kings,91 - 78,0,N/A,1,N/A
+97,LeBron James,FT_MISS,None,3:53,4,Lakers,Kings,91 - 78,0,N/A,1,N/A
+98,Iman Shumpert,DEFENSIVE_REBOUND,None,3:50,4,Kings,Lakers,91 - 78,1,N/A,N/A,N/A
+99,Tyson Chandler,FOUL_ON_FLOOR,None,3:36,4,Lakers,Kings,91 - 78,0,N/A,N/A,N/A
+100,Marvin Bagley,FT,None,3:36,4,Kings,Lakers,91 - 79,1,N/A,1,N/A
+101,Marvin Bagley,FT,None,3:36,4,Kings,Lakers,91 - 80,1,N/A,1,N/A
+102,Kyle Kuzma,FG_ASSISTED,LeBron James,3:25,4,Lakers,Kings,93 - 80,0,0,2,Dunk
+103,Buddy Hield,FG_MISS,None,3:18,4,Kings,Lakers,93 - 80,1,29,3,Jumper
+104,LeBron James,DEFENSIVE_REBOUND,None,3:14,4,Lakers,Kings,93 - 80,0,N/A,N/A,N/A
+105,LeBron James,FG_UNASSISTED,None,3:08,4,Lakers,Kings,95 - 80,0,0,2,Layup
+106,Team,Unknown,None,3:08,4,Kings,Lakers,95 - 80,1,N/A,N/A,N/A
+107,Frank Mason,SUBSTITUTION,Hield Buddy,3:08,4,Kings,Lakers,95 - 80,1,N/A,N/A,N/A
+108,De'Aaron Fox,FG_MISS,None,2:53,4,Kings,Lakers,95 - 80,1,25,3,Jumper
+109,LeBron James,DEFENSIVE_REBOUND,None,2:49,4,Lakers,Kings,95 - 80,0,N/A,N/A,N/A
+110,LeBron James,TURNOVER,Iman Shumpert,2:38,4,Lakers,Kings,95 - 80,0,N/A,N/A,N/A
+111,Iman Shumpert,FG_UNASSISTED,None,2:33,4,Kings,Lakers,95 - 82,1, ,2,Jumper
+112,Iman Shumpert,FOUL_ON_FLOOR,None,2:21,4,Kings,Lakers,95 - 82,1,N/A,N/A,N/A
+113,Rajon Rondo,FT_MISS,None,2:21,4,Lakers,Kings,95 - 82,0,N/A,1,N/A
+114,Team,OFFENSIVE_REBOUND,None,2:21,4,Lakers,Kings,95 - 82,0,N/A,N/A,N/A
+115,Troy Williams,SUBSTITUTION,Fox De'Aaron,2:21,4,Kings,Lakers,95 - 82,1,N/A,N/A,N/A
+116,Harry Giles,SUBSTITUTION,Shumpert Iman,2:21,4,Kings,Lakers,95 - 82,1,N/A,N/A,N/A
+117,Rajon Rondo,FT,None,2:21,4,Lakers,Kings,96 - 82,0,N/A,1,N/A
+118,Justin Jackson,FG_MISS,None,2:15,4,Kings,Lakers,96 - 82,1,27,3,Jumper
+119,Kyle Kuzma,DEFENSIVE_REBOUND,None,2:10,4,Lakers,Kings,96 - 82,0,N/A,N/A,N/A
+120,LeBron James,FG_UNASSISTED,None,1:51,4,Lakers,Kings,98 - 82,0,0,2,Layup
+121,Justin Jackson,FG_MISS,None,1:40,4,Kings,Lakers,98 - 82,1, ,2,Jumper
+122,Team,OFFENSIVE_REBOUND,None,1:39,4,Kings,Lakers,98 - 82,1,N/A,N/A,N/A
+123,Josh Hart,SUBSTITUTION,Kuzma Kyle,1:39,4,Lakers,Kings,98 - 82,0,N/A,N/A,N/A
+124,Lance Stephenson,SUBSTITUTION,Chandler Tyson,1:39,4,Lakers,Kings,98 - 82,0,N/A,N/A,N/A
+125,Sviatoslav Mykhailiuk,SUBSTITUTION,Ingram Brandon,1:39,4,Lakers,Kings,98 - 82,0,N/A,N/A,N/A
+126,Ivica Zubac,SUBSTITUTION,James LeBron,1:39,4,Lakers,Kings,98 - 82,0,N/A,N/A,N/A
+127,Marvin Bagley,FG_MISS,None,1:31,4,Kings,Lakers,98 - 82,1,20,2,Jumper
+128,Lance Stephenson,DEFENSIVE_REBOUND,None,1:27,4,Lakers,Kings,98 - 82,0,N/A,N/A,N/A
+129,Josh Hart,FG_ASSISTED,Lance Stephenson,1:19,4,Lakers,Kings,101 - 82,0,26,3,Jumper
+130,Justin Jackson,FG_MISS,None,1:05,4,Kings,Lakers,101 - 82,1,23,3,Jumper
+131,Ivica Zubac,DEFENSIVE_REBOUND,None,1:02,4,Lakers,Kings,101 - 82,0,N/A,N/A,N/A
+132,Ivica Zubac,FG_MISS,None,53.5,4,Lakers,Kings,101 - 82,0,0,2,Layup
+133,Ivica Zubac,OFFENSIVE_REBOUND,None,50.6,4,Lakers,Kings,101 - 82,0,N/A,N/A,N/A
+134,Ivica Zubac,FG_MISS,None,48.6,4,Lakers,Kings,101 - 82,0,4,2,Jumper
+135,Harry Giles,DEFENSIVE_REBOUND,None,48.6,4,Kings,Lakers,101 - 82,1,N/A,N/A,N/A
+136,Sviatoslav Mykhailiuk,FOUL_ON_FLOOR,None,44.9,4,Lakers,Kings,101 - 82,0,N/A,N/A,N/A
+137,Frank Mason,FT,None,44.9,4,Kings,Lakers,101 - 83,1,N/A,1,N/A
+138,Frank Mason,FT,None,44.9,4,Kings,Lakers,101 - 84,1,N/A,1,N/A
+139,Justin Jackson,FOUL_ON_FLOOR,None,36.3,4,Kings,Lakers,101 - 84,1,N/A,N/A,N/A
+140,Sviatoslav Mykhailiuk,FT_MISS,None,36.3,4,Lakers,Kings,101 - 84,0,N/A,1,N/A
+141,Team,OFFENSIVE_REBOUND,None,36.3,4,Lakers,Kings,101 - 84,0,N/A,N/A,N/A
+142,Sviatoslav Mykhailiuk,FT_MISS,None,36.3,4,Lakers,Kings,101 - 84,0,N/A,1,N/A
+143,Troy Williams,DEFENSIVE_REBOUND,None,34.0,4,Kings,Lakers,101 - 84,1,N/A,N/A,N/A
+144,Justin Jackson,FG_MISS,None,20.8,4,Kings,Lakers,101 - 84,1,0,2,Layup
+145,Harry Giles,OFFENSIVE_REBOUND,None,19.0,4,Kings,Lakers,101 - 84,1,N/A,N/A,N/A
+146,Harry Giles,FG_UNASSISTED,None,18.4,4,Kings,Lakers,101 - 86,1,9,2,Jumper
+147,End of,Unknown,None,0.0,4,Kings,Lakers,101 - 86,1,N/A,N/A,N/A
+148,End of,Unknown,None,0.0,4,Kings,Lakers,101 - 86,1,N/A,N/A,N/A

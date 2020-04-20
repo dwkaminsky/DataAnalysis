@@ -1,0 +1,470 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Wendell Carter,JUMP_BALL,None,12:00,1,Bulls,Mavericks,0 - 0,0,N/A,N/A,N/A
+1,Wendell Carter,FG_ASSISTED,Kris Dunn,11:47,1,Bulls,Mavericks,2 - 0,0,-,3,Jumper
+2,DeAndre Jordan,FG_ASSISTED,Luka Doncic,11:29,1,Mavericks,Bulls,2 - 2,1,0,2,Dunk
+3,Zach LaVine,FG_ASSISTED,Kris Dunn,11:07,1,Bulls,Mavericks,5 - 2,0,23,3,Jumper
+4,Dennis Smith,FG_MISS,Wendell Carter,10:45,1,Bulls,Mavericks,5 - 2,1,0,2,Layup
+5,Team,OFFENSIVE_REBOUND,None,10:44,1,Mavericks,Bulls,5 - 2,1,N/A,N/A,N/A
+6,Dorian Finney-Smith,FG_MISS,Bobby Portis,10:41,1,Bulls,Mavericks,5 - 2,1,23,3,Jumper
+7,Kris Dunn,DEFENSIVE_REBOUND,None,10:38,1,Bulls,Mavericks,5 - 2,0,N/A,N/A,N/A
+8,Bobby Portis,FG_UNASSISTED,None,10:33,1,Bulls,Mavericks,7 - 2,0,4,3,Jumper
+9,Kris Dunn,FOUL_ON_FLOOR,None,10:25,1,Bulls,Mavericks,7 - 2,0,N/A,N/A,N/A
+10,Luka Doncic,FG_MISS,None,10:19,1,Mavericks,Bulls,7 - 2,1,27,3,Jumper
+11,Kris Dunn,DEFENSIVE_REBOUND,None,10:17,1,Bulls,Mavericks,7 - 2,0,N/A,N/A,N/A
+12,Kris Dunn,FG_MISS,None,10:09,1,Bulls,Mavericks,7 - 2,0,12,3,Jumper
+13,DeAndre Jordan,DEFENSIVE_REBOUND,None,10:07,1,Mavericks,Bulls,7 - 2,1,N/A,N/A,N/A
+14,Wesley Matthews,FG_ASSISTED,Luka Doncic,9:59,1,Mavericks,Bulls,7 - 5,1,26,3,Jumper
+15,Kris Dunn,FG_MISS,None,9:42,1,Bulls,Mavericks,7 - 5,0,19,3,Jumper
+16,Team,DEFENSIVE_REBOUND,None,9:41,1,Mavericks,Bulls,7 - 5,1,N/A,N/A,N/A
+17,Dennis Smith,FG_UNASSISTED,None,9:32,1,Mavericks,Bulls,7 - 7,1,16,3,Jumper
+18,Dorian Finney-Smith,FOUL_ON_FLOOR,None,9:15,1,Mavericks,Bulls,7 - 7,1,N/A,N/A,N/A
+19,Bobby Portis,FT,None,9:15,1,Bulls,Mavericks,8 - 7,0,N/A,1,N/A
+20,Bobby Portis,FT,None,9:15,1,Bulls,Mavericks,9 - 7,0,N/A,1,N/A
+21,Zach LaVine,FOUL_ON_FLOOR,None,9:03,1,Bulls,Mavericks,9 - 7,0,N/A,N/A,N/A
+22,Dennis Smith,FG_MISS,None,8:57,1,Mavericks,Bulls,9 - 7,1,26,3,Jumper
+23,Bobby Portis,DEFENSIVE_REBOUND,None,8:53,1,Bulls,Mavericks,9 - 7,0,N/A,N/A,N/A
+24,Justin Holiday,FG_MISS,None,8:50,1,Bulls,Mavericks,9 - 7,0,23,3,Jumper
+25,DeAndre Jordan,DEFENSIVE_REBOUND,None,8:50,1,Mavericks,Bulls,9 - 7,1,N/A,N/A,N/A
+26,Luka Doncic,FG_UNASSISTED,None,8:40,1,Mavericks,Bulls,9 - 9,1,-,3,Jumper
+27,Bobby Portis,TURNOVER,Wesley Matthews,8:31,1,Bulls,Mavericks,9 - 9,0,N/A,N/A,N/A
+28,Luka Doncic,FG_UNASSISTED,None,8:27,1,Mavericks,Bulls,9 - 12,1,27,3,Jumper
+29,Kris Dunn,FG_ASSISTED,Wendell Carter,8:06,1,Bulls,Mavericks,11 - 12,0, ,3,Jumper
+30,Team,Unknown,None,8:04,1,Mavericks,Bulls,11 - 12,1,N/A,N/A,N/A
+31,DeAndre Jordan,FG_MISS,None,7:46,1,Mavericks,Bulls,11 - 12,1,0,2,Layup
+32,Wendell Carter,DEFENSIVE_REBOUND,None,7:42,1,Bulls,Mavericks,11 - 12,0,N/A,N/A,N/A
+33,Wendell Carter,FG_MISS,DeAndre Jordan,7:33,1,Mavericks,Bulls,11 - 12,0,2,3,Jumper
+34,Bobby Portis,OFFENSIVE_REBOUND,None,7:30,1,Bulls,Mavericks,11 - 12,0,N/A,N/A,N/A
+35,Zach LaVine,FG_ASSISTED,Kris Dunn,7:23,1,Bulls,Mavericks,14 - 12,0,27,3,Jumper
+36,Wesley Matthews,FG_MISS,None,6:56,1,Mavericks,Bulls,14 - 12,1,28,3,Jumper
+37,Bobby Portis,DEFENSIVE_REBOUND,None,6:53,1,Bulls,Mavericks,14 - 12,0,N/A,N/A,N/A
+38,Zach LaVine,TURNOVER,None,6:49,1,Bulls,Mavericks,14 - 12,0,N/A,N/A,N/A
+39,Dorian Finney-Smith,FG_ASSISTED,Wesley Matthews,6:37,1,Mavericks,Bulls,14 - 15,1,26,3,Jumper
+40,Justin Holiday,FG_MISS,None,6:11,1,Bulls,Mavericks,14 - 15,0,0,2,Layup
+41,Wendell Carter,OFFENSIVE_REBOUND,None,6:09,1,Bulls,Mavericks,14 - 15,0,N/A,N/A,N/A
+42,Kris Dunn,FG_MISS,None,6:07,1,Bulls,Mavericks,14 - 15,0,24,3,Jumper
+43,Team,DEFENSIVE_REBOUND,None,6:07,1,Mavericks,Bulls,14 - 15,1,N/A,N/A,N/A
+44,Robin Lopez,SUBSTITUTION,Carter Wendell,6:05,1,Bulls,Mavericks,14 - 15,0,N/A,N/A,N/A
+45,Dennis Smith,FG_MISS,None,5:40,1,Mavericks,Bulls,14 - 15,1, ,3,Jumper
+46,DeAndre Jordan,OFFENSIVE_REBOUND,None,5:36,1,Mavericks,Bulls,14 - 15,1,N/A,N/A,N/A
+47,DeAndre Jordan,FG_UNASSISTED,None,5:36,1,Mavericks,Bulls,14 - 17,1,0,2,Dunk
+48,Robin Lopez,FG_UNASSISTED,None,5:17,1,Bulls,Mavericks,16 - 17,0, ,3,Jumper
+49,Dennis Smith,TURNOVER,None,5:10,1,Mavericks,Bulls,16 - 17,1,N/A,N/A,N/A
+50,Bobby Portis,FG_MISS,None,4:52,1,Bulls,Mavericks,16 - 17,0,7,3,Jumper
+51,DeAndre Jordan,DEFENSIVE_REBOUND,None,4:49,1,Mavericks,Bulls,16 - 17,1,N/A,N/A,N/A
+52,DeAndre Jordan,FG_ASSISTED,Luka Doncic,4:40,1,Mavericks,Bulls,16 - 19,1,5,3,Jumper
+53,Zach LaVine,FG_UNASSISTED,None,4:27,1,Bulls,Mavericks,18 - 19,0,15,3,Jumper
+54,Zach LaVine,FOUL_ON_FLOOR,None,4:20,1,Bulls,Mavericks,18 - 19,0,N/A,N/A,N/A
+55,J.J. Barea,SUBSTITUTION,Smith Dennis,4:20,1,Mavericks,Bulls,18 - 19,1,N/A,N/A,N/A
+56,Maximilian Kleber,SUBSTITUTION,Finney-Smith Dorian,4:20,1,Mavericks,Bulls,18 - 19,1,N/A,N/A,N/A
+57,Jabari Parker,SUBSTITUTION,Portis Bobby,4:20,1,Bulls,Mavericks,18 - 19,0,N/A,N/A,N/A
+58,Chandler Hutchison,SUBSTITUTION,LaVine Zach,4:20,1,Bulls,Mavericks,18 - 19,0,N/A,N/A,N/A
+59,DeAndre Jordan,FOUL_ON_FLOOR,None,4:12,1,Mavericks,Bulls,18 - 19,1,N/A,N/A,N/A
+60,DeAndre Jordan,TURNOVER,None,4:12,1,Mavericks,Bulls,18 - 19,1,N/A,N/A,N/A
+61,Kris Dunn,FG_UNASSISTED,None,3:57,1,Bulls,Mavericks,20 - 19,0,15,3,Jumper
+62,J.J. Barea,FG_MISS,None,3:46,1,Mavericks,Bulls,20 - 19,1,27,3,Jumper
+63,Chandler Hutchison,DEFENSIVE_REBOUND,None,3:43,1,Bulls,Mavericks,20 - 19,0,N/A,N/A,N/A
+64,Kris Dunn,TURNOVER,None,3:37,1,Bulls,Mavericks,20 - 19,0,N/A,N/A,N/A
+65,Kris Dunn,TURNOVER,None,3:37,1,Bulls,Mavericks,20 - 19,0,N/A,N/A,N/A
+66,Cameron Payne,SUBSTITUTION,Dunn Kris,3:37,1,Bulls,Mavericks,20 - 19,0,N/A,N/A,N/A
+67,Wesley Matthews,FG_ASSISTED,J.J. Barea,3:26,1,Mavericks,Bulls,20 - 22,1,26,3,Jumper
+68,Jabari Parker,FG_MISS,None,3:09,1,Bulls,Mavericks,20 - 22,0,6,3,Jumper
+69,Chandler Hutchison,OFFENSIVE_REBOUND,None,3:07,1,Bulls,Mavericks,20 - 22,0,N/A,N/A,N/A
+70,Team,Unknown,None,3:04,1,Bulls,Mavericks,20 - 22,0,N/A,N/A,N/A
+71,Dwight Powell,SUBSTITUTION,Jordan DeAndre,3:04,1,Mavericks,Bulls,20 - 22,1,N/A,N/A,N/A
+72,Jabari Parker,FG_UNASSISTED,None,2:59,1,Bulls,Mavericks,22 - 22,0,19,3,Jumper
+73,Maximilian Kleber,FG_ASSISTED,Dwight Powell,2:37,1,Mavericks,Bulls,22 - 24,1,0,2,Layup
+74,Justin Holiday,TURNOVER,Dwight Powell,2:29,1,Bulls,Mavericks,22 - 24,0,N/A,N/A,N/A
+75,Wesley Matthews,FG_ASSISTED,J.J. Barea,2:24,1,Mavericks,Bulls,22 - 27,1,25,3,Jumper
+76,Jabari Parker,FG_MISS,None,2:03,1,Bulls,Mavericks,22 - 27,0,0,2,Layup
+77,Jabari Parker,OFFENSIVE_REBOUND,None,2:00,1,Bulls,Mavericks,22 - 27,0,N/A,N/A,N/A
+78,Jabari Parker,FG_UNASSISTED,None,1:59,1,Bulls,Mavericks,24 - 27,0, ,3,Jumper
+79,J.J. Barea,FG_UNASSISTED,None,1:46,1,Mavericks,Bulls,24 - 29,1,0,2,Layup
+80,Jabari Parker,FG_ASSISTED,Robin Lopez,1:35,1,Bulls,Mavericks,26 - 29,0,20,3,Jumper
+81,J.J. Barea,FG_MISS,None,1:19,1,Mavericks,Bulls,26 - 29,1,17,3,Jumper
+82,Team,OFFENSIVE_REBOUND,None,1:19,1,Mavericks,Bulls,26 - 29,1,N/A,N/A,N/A
+83,Robin Lopez,FOUL_ON_FLOOR,None,1:19,1,Bulls,Mavericks,26 - 29,0,N/A,N/A,N/A
+84,Jalen Brunson,SUBSTITUTION,Doncic Luka,1:19,1,Mavericks,Bulls,26 - 29,1,N/A,N/A,N/A
+85,Antonio Blakeney,SUBSTITUTION,Holiday Justin,1:19,1,Bulls,Mavericks,26 - 29,0,N/A,N/A,N/A
+86,Wesley Matthews,FG_MISS,None,1:11,1,Mavericks,Bulls,26 - 29,1,26,3,Jumper
+87,Cameron Payne,DEFENSIVE_REBOUND,None,1:08,1,Bulls,Mavericks,26 - 29,0,N/A,N/A,N/A
+88,Jabari Parker,FG_ASSISTED,Cameron Payne,56.7,1,Bulls,Mavericks,28 - 29,0,16,3,Jumper
+89,Robin Lopez,FOUL_ON_FLOOR,None,41.1,1,Bulls,Mavericks,28 - 29,0,N/A,N/A,N/A
+90,Robin Lopez,FOUL_TECHNICAL,None,41.1,1,Bulls,Mavericks,28 - 29,0,N/A,N/A,N/A
+91,J.J. Barea,FT_MISS,None,41.1,1,Mavericks,Bulls,28 - 29,1,N/A,1,N/A
+92,Team,OFFENSIVE_REBOUND,None,41.1,1,Mavericks,Bulls,28 - 29,1,N/A,N/A,N/A
+93,Dwight Powell,FT,None,41.1,1,Mavericks,Bulls,28 - 30,1,N/A,1,N/A
+94,Dorian Finney-Smith,SUBSTITUTION,Matthews Wesley,41.1,1,Mavericks,Bulls,28 - 30,1,N/A,N/A,N/A
+95,Wendell Carter,SUBSTITUTION,Lopez Robin,41.1,1,Bulls,Mavericks,28 - 30,0,N/A,N/A,N/A
+96,Dwight Powell,FT,None,41.1,1,Mavericks,Bulls,28 - 31,1,N/A,1,N/A
+97,Jabari Parker's,FG_MISS,Maximilian Kleber,29.1,1,Mavericks,Bulls,28 - 31,0,0,2,Layup
+98,Team,OFFENSIVE_REBOUND,None,29.1,1,Bulls,Mavericks,28 - 31,0,N/A,N/A,N/A
+99,Antonio Blakeney,FG_MISS,None,27.4,1,Bulls,Mavericks,28 - 31,0,19,3,Jumper
+100,Dwight Powell,DEFENSIVE_REBOUND,None,24.8,1,Mavericks,Bulls,28 - 31,1,N/A,N/A,N/A
+101,J.J. Barea,FG_MISS,None,1.4,1,Mavericks,Bulls,28 - 31,1,13,3,Jumper
+102,Wendell Carter,DEFENSIVE_REBOUND,None,0.4,1,Bulls,Mavericks,28 - 31,0,N/A,N/A,N/A
+103,End of,Unknown,None,0.0,1,Mavericks,Bulls,28 - 31,1,N/A,N/A,N/A
+0,Jalen Brunson,FG_MISS,None,11:44,2,Mavericks,Bulls,28 - 31,1,26,3,Jumper
+1,Chandler Hutchison,DEFENSIVE_REBOUND,None,11:39,2,Bulls,Mavericks,28 - 31,0,N/A,N/A,N/A
+2,Cameron Payne,FG_ASSISTED,Wendell Carter,11:25,2,Bulls,Mavericks,30 - 31,0,0,2,Layup
+3,J.J. Barea,FG_MISS,None,11:13,2,Mavericks,Bulls,30 - 31,1,26,3,Jumper
+4,Team,DEFENSIVE_REBOUND,None,11:11,2,Bulls,Mavericks,30 - 31,0,N/A,N/A,N/A
+5,Wendell Carter,FG_MISS,None,10:57,2,Bulls,Mavericks,30 - 31,0,20,3,Jumper
+6,Maximilian Kleber,DEFENSIVE_REBOUND,None,10:54,2,Mavericks,Bulls,30 - 31,1,N/A,N/A,N/A
+7,Jalen Brunson,FG_ASSISTED,Maximilian Kleber,10:41,2,Mavericks,Bulls,30 - 34,1,26,3,Jumper
+8,Jabari Parker,FG_UNASSISTED,None,10:29,2,Bulls,Mavericks,33 - 34,0,25,3,Jumper
+9,J.J. Barea,FG_UNASSISTED,None,10:15,2,Mavericks,Bulls,33 - 36,1, ,3,Jumper
+10,Cameron Payne,FOUL_ON_FLOOR,None,10:15,2,Bulls,Mavericks,33 - 36,0,N/A,N/A,N/A
+11,Zach LaVine,SUBSTITUTION,Blakeney Antonio,10:15,2,Bulls,Mavericks,33 - 36,0,N/A,N/A,N/A
+12,Ryan Broekhoff,SUBSTITUTION,Finney-Smith Dorian,10:15,2,Mavericks,Bulls,33 - 36,1,N/A,N/A,N/A
+13,J.J. Barea,FT,None,10:15,2,Mavericks,Bulls,33 - 37,1,N/A,1,N/A
+14,Jabari Parker,FG_UNASSISTED,None,10:05,2,Bulls,Mavericks,35 - 37,0,5,3,Jumper
+15,Maximilian Kleber,FOUL_ON_FLOOR,None,10:05,2,Mavericks,Bulls,35 - 37,1,N/A,N/A,N/A
+16,Dorian Finney-Smith,SUBSTITUTION,Kleber Maximilian,10:05,2,Mavericks,Bulls,35 - 37,1,N/A,N/A,N/A
+17,Jabari Parker,FT,None,10:05,2,Bulls,Mavericks,36 - 37,0,N/A,1,N/A
+18,Ryan Broekhoff,FG_MISS,None,9:49,2,Mavericks,Bulls,36 - 37,1,26,3,Jumper
+19,J.J. Barea,OFFENSIVE_REBOUND,None,9:46,2,Mavericks,Bulls,36 - 37,1,N/A,N/A,N/A
+20,J.J. Barea,TURNOVER,Chandler Hutchison,9:39,2,Mavericks,Bulls,36 - 37,1,N/A,N/A,N/A
+21,Jalen Brunson,FOUL_TECHNICAL,None,9:28,2,Mavericks,Bulls,36 - 37,1,N/A,N/A,N/A
+22,Zach LaVine,FT,None,9:28,2,Bulls,Mavericks,37 - 37,0,N/A,1,N/A
+23,Jabari Parker,FG_MISS,None,9:16,2,Bulls,Mavericks,37 - 37,0,25,3,Jumper
+24,Dorian Finney-Smith,DEFENSIVE_REBOUND,None,9:14,2,Mavericks,Bulls,37 - 37,1,N/A,N/A,N/A
+25,Chandler Hutchison,FOUL_ON_FLOOR,None,9:05,2,Bulls,Mavericks,37 - 37,0,N/A,N/A,N/A
+26,Jalen Brunson,FG_MISS,None,8:58,2,Mavericks,Bulls,37 - 37,1, ,3,Jumper
+27,Team,DEFENSIVE_REBOUND,None,8:58,2,Bulls,Mavericks,37 - 37,0,N/A,N/A,N/A
+28,Zach LaVine,FG_UNASSISTED,None,8:42,2,Bulls,Mavericks,39 - 37,0,14,3,Jumper
+29,J.J. Barea,FG_MISS,None,8:31,2,Mavericks,Bulls,39 - 37,1,25,3,Jumper
+30,Dorian Finney-Smith,OFFENSIVE_REBOUND,None,8:28,2,Mavericks,Bulls,39 - 37,1,N/A,N/A,N/A
+31,Dorian Finney-Smith,FG_MISS,None,8:23,2,Mavericks,Bulls,39 - 37,1,25,3,Jumper
+32,Wendell Carter,DEFENSIVE_REBOUND,None,8:21,2,Bulls,Mavericks,39 - 37,0,N/A,N/A,N/A
+33,Jabari Parker,TURNOVER,None,8:16,2,Bulls,Mavericks,39 - 37,0,N/A,N/A,N/A
+34,Jabari Parker,TURNOVER,None,8:16,2,Bulls,Mavericks,39 - 37,0,N/A,N/A,N/A
+35,Team,Unknown,None,8:16,2,Mavericks,Bulls,39 - 37,1,N/A,N/A,N/A
+36,Dennis Smith,SUBSTITUTION,Barea J.J.,8:16,2,Mavericks,Bulls,39 - 37,1,N/A,N/A,N/A
+37,Jalen Brunson,FG_MISS,None,8:02,2,Mavericks,Bulls,39 - 37,1, ,3,Jumper
+38,Cameron Payne,DEFENSIVE_REBOUND,None,7:58,2,Bulls,Mavericks,39 - 37,0,N/A,N/A,N/A
+39,Cameron Payne,FG_MISS,None,7:54,2,Bulls,Mavericks,39 - 37,0,23,3,Jumper
+40,Zach LaVine,OFFENSIVE_REBOUND,None,7:52,2,Bulls,Mavericks,39 - 37,0,N/A,N/A,N/A
+41,Wendell Carter,FG_MISS,None,7:43,2,Bulls,Mavericks,39 - 37,0,7,3,Jumper
+42,Jalen Brunson,DEFENSIVE_REBOUND,None,7:42,2,Mavericks,Bulls,39 - 37,1,N/A,N/A,N/A
+43,Wendell Carter,FOUL_ON_FLOOR,None,7:42,2,Bulls,Mavericks,39 - 37,0,N/A,N/A,N/A
+44,DeAndre Jordan,SUBSTITUTION,Powell Dwight,7:42,2,Mavericks,Bulls,39 - 37,1,N/A,N/A,N/A
+45,Luka Doncic,SUBSTITUTION,Broekhoff Ryan,7:42,2,Mavericks,Bulls,39 - 37,1,N/A,N/A,N/A
+46,Kris Dunn,SUBSTITUTION,Payne Cameron,7:42,2,Bulls,Mavericks,39 - 37,0,N/A,N/A,N/A
+47,Jalen Brunson,FG_ASSISTED,Dennis Smith,7:26,2,Mavericks,Bulls,39 - 40,1,25,3,Jumper
+48,Kris Dunn,FG_ASSISTED,Jabari Parker,7:09,2,Bulls,Mavericks,42 - 40,0,24,3,Jumper
+49,Luka Doncic,FG_UNASSISTED,None,6:58,2,Mavericks,Bulls,42 - 43,1,26,3,Jumper
+50,Kris Dunn,FG_UNASSISTED,None,6:49,2,Bulls,Mavericks,44 - 43,0,5,3,Jumper
+51,Luka Doncic,FG_MISS,None,6:38,2,Mavericks,Bulls,44 - 43,1, ,3,Jumper
+52,Zach LaVine,DEFENSIVE_REBOUND,None,6:35,2,Bulls,Mavericks,44 - 43,0,N/A,N/A,N/A
+53,Wendell Carter,TURNOVER,Jalen Brunson,6:31,2,Bulls,Mavericks,44 - 43,0,N/A,N/A,N/A
+54,Dorian Finney-Smith,FG_MISS,None,6:14,2,Mavericks,Bulls,44 - 43,1,23,3,Jumper
+55,DeAndre Jordan,OFFENSIVE_REBOUND,None,6:12,2,Mavericks,Bulls,44 - 43,1,N/A,N/A,N/A
+56,Luka Doncic,FG_UNASSISTED,None,6:02,2,Mavericks,Bulls,44 - 45,1,10,3,Jumper
+57,Zach LaVine,FG_UNASSISTED,None,5:41,2,Bulls,Mavericks,47 - 45,0,25,3,Jumper
+58,Chandler Hutchison,FOUL_ON_FLOOR,None,5:26,2,Bulls,Mavericks,47 - 45,0,N/A,N/A,N/A
+59,Wesley Matthews,SUBSTITUTION,Brunson Jalen,5:26,2,Mavericks,Bulls,47 - 45,1,N/A,N/A,N/A
+60,Justin Holiday,SUBSTITUTION,Hutchison Chandler,5:26,2,Bulls,Mavericks,47 - 45,0,N/A,N/A,N/A
+61,DeAndre Jordan,FG_ASSISTED,Luka Doncic,5:18,2,Mavericks,Bulls,47 - 47,1,0,2,Dunk
+62,Luka Doncic,FOUL_ON_FLOOR,None,5:02,2,Mavericks,Bulls,47 - 47,1,N/A,N/A,N/A
+63,Justin Holiday,FT,None,5:02,2,Bulls,Mavericks,48 - 47,0,N/A,1,N/A
+64,Justin Holiday,FT,None,5:02,2,Bulls,Mavericks,49 - 47,0,N/A,1,N/A
+65,Dennis Smith,TURNOVER,Zach LaVine,4:44,2,Mavericks,Bulls,49 - 47,1,N/A,N/A,N/A
+66,Kris Dunn,FG_MISS,None,4:39,2,Bulls,Mavericks,49 - 47,0, ,3,Jumper
+67,Jabari Parker,OFFENSIVE_REBOUND,None,4:37,2,Bulls,Mavericks,49 - 47,0,N/A,N/A,N/A
+68,Jabari Parker,FG_UNASSISTED,None,4:35,2,Bulls,Mavericks,51 - 47,0,0,2,Dunk
+69,Luka Doncic,FG_UNASSISTED,None,4:19,2,Mavericks,Bulls,51 - 50,1,26,3,Jumper
+70,Dorian Finney-Smith,FOUL_ON_FLOOR,None,3:59,2,Mavericks,Bulls,51 - 50,1,N/A,N/A,N/A
+71,Zach LaVine,FT,None,3:59,2,Bulls,Mavericks,52 - 50,0,N/A,1,N/A
+72,Bobby Portis,SUBSTITUTION,Parker Jabari,3:59,2,Bulls,Mavericks,52 - 50,0,N/A,N/A,N/A
+73,Zach LaVine,FT,None,3:59,2,Bulls,Mavericks,53 - 50,0,N/A,1,N/A
+74,Dennis Smith,FG_ASSISTED,Wesley Matthews,3:41,2,Mavericks,Bulls,53 - 53,1,26,3,Jumper
+75,Zach LaVine,FG_UNASSISTED,None,3:20,2,Bulls,Mavericks,55 - 53,0,16,3,Jumper
+76,DeAndre Jordan,FG_ASSISTED,Wesley Matthews,3:00,2,Mavericks,Bulls,55 - 55,1,0,2,Dunk
+77,Justin Holiday,FG_UNASSISTED,None,2:51,2,Bulls,Mavericks,57 - 55,0,16,3,Jumper
+78,Luka Doncic,FG_MISS,None,2:26,2,Mavericks,Bulls,57 - 55,1, ,3,Jumper
+79,Wendell Carter,DEFENSIVE_REBOUND,None,2:24,2,Bulls,Mavericks,57 - 55,0,N/A,N/A,N/A
+80,Bobby Portis,FG_ASSISTED,Kris Dunn,2:21,2,Bulls,Mavericks,59 - 55,0, ,3,Jumper
+81,Dennis Smith,FOUL_ON_FLOOR,None,2:21,2,Mavericks,Bulls,59 - 55,1,N/A,N/A,N/A
+82,Team,Unknown,None,2:21,2,Bulls,Mavericks,59 - 55,0,N/A,N/A,N/A
+83,Bobby Portis,FT_MISS,None,2:21,2,Bulls,Mavericks,59 - 55,0,N/A,1,N/A
+84,DeAndre Jordan,DEFENSIVE_REBOUND,None,2:21,2,Mavericks,Bulls,59 - 55,1,N/A,N/A,N/A
+85,Dorian Finney-Smith,TURNOVER,Justin Holiday,2:07,2,Mavericks,Bulls,59 - 55,1,N/A,N/A,N/A
+86,Dennis Smith,FOUL_TECHNICAL,None,1:56,2,Mavericks,Bulls,59 - 55,1,N/A,N/A,N/A
+87,Zach LaVine,FT_MISS,None,1:56,2,Bulls,Mavericks,59 - 55,0,N/A,1,N/A
+88,Team,OFFENSIVE_REBOUND,None,1:56,2,Bulls,Mavericks,59 - 55,0,N/A,N/A,N/A
+89,Cameron Payne,SUBSTITUTION,Dunn Kris,1:56,2,Bulls,Mavericks,59 - 55,0,N/A,N/A,N/A
+90,Zach LaVine,TURNOVER,None,1:53,2,Bulls,Mavericks,59 - 55,0,N/A,N/A,N/A
+91,Dorian Finney-Smith,FG_ASSISTED,Wesley Matthews,1:38,2,Mavericks,Bulls,59 - 57,1,13,3,Jumper
+92,Bobby Portis,FG_MISS,None,1:21,2,Bulls,Mavericks,59 - 57,0,16,3,Jumper
+93,DeAndre Jordan,DEFENSIVE_REBOUND,None,1:18,2,Mavericks,Bulls,59 - 57,1,N/A,N/A,N/A
+94,Luka Doncic,TURNOVER,None,1:08,2,Mavericks,Bulls,59 - 57,1,N/A,N/A,N/A
+95,Chandler Hutchison,SUBSTITUTION,LaVine Zach,1:08,2,Bulls,Mavericks,59 - 57,0,N/A,N/A,N/A
+96,Justin Holiday,FG_MISS,None,53.4,2,Bulls,Mavericks,59 - 57,0,17,3,Jumper
+97,Dorian Finney-Smith,DEFENSIVE_REBOUND,None,51.1,2,Mavericks,Bulls,59 - 57,1,N/A,N/A,N/A
+98,Cameron Payne,FOUL_ON_FLOOR,None,46.6,2,Bulls,Mavericks,59 - 57,0,N/A,N/A,N/A
+99,Dennis Smith,FT,None,46.6,2,Mavericks,Bulls,59 - 58,1,N/A,1,N/A
+100,Dennis Smith,FT,None,46.6,2,Mavericks,Bulls,59 - 59,1,N/A,1,N/A
+101,Cameron Payne,FG_UNASSISTED,None,37.0,2,Bulls,Mavericks,61 - 59,0,13,3,Jumper
+102,Dennis Smith,FG_MISS,None,21.6,2,Mavericks,Bulls,61 - 59,1,26,3,Jumper
+103,Bobby Portis,DEFENSIVE_REBOUND,None,18.6,2,Bulls,Mavericks,61 - 59,0,N/A,N/A,N/A
+104,Cameron Payne,FG_MISS,None,3.6,2,Bulls,Mavericks,61 - 59,0,0,2,Layup
+105,Wesley Matthews,DEFENSIVE_REBOUND,None,1.4,2,Mavericks,Bulls,61 - 59,1,N/A,N/A,N/A
+106,End of,Unknown,None,0.0,2,Mavericks,Bulls,61 - 59,1,N/A,N/A,N/A
+0,Kris Dunn,SUBSTITUTION,Payne Cameron,12:00,3,Bulls,Mavericks,61 - 59,0,N/A,N/A,N/A
+1,Zach LaVine,SUBSTITUTION,Hutchison Chandler,12:00,3,Bulls,Mavericks,61 - 59,0,N/A,N/A,N/A
+2,Dorian Finney-Smith,TURNOVER,None,11:38,3,Mavericks,Bulls,61 - 59,1,N/A,N/A,N/A
+3,Wendell Carter,FG_MISS,None,11:19,3,Bulls,Mavericks,61 - 59,0,18,3,Jumper
+4,Dennis Smith,DEFENSIVE_REBOUND,None,11:17,3,Mavericks,Bulls,61 - 59,1,N/A,N/A,N/A
+5,DeAndre Jordan,FG_ASSISTED,Luka Doncic,11:03,3,Mavericks,Bulls,61 - 61,1,6,3,Jumper
+6,Bobby Portis,FG_MISS,None,10:45,3,Bulls,Mavericks,61 - 61,0,17,3,Jumper
+7,Luka Doncic,DEFENSIVE_REBOUND,None,10:43,3,Mavericks,Bulls,61 - 61,1,N/A,N/A,N/A
+8,Wesley Matthews,FG_MISS,None,10:35,3,Mavericks,Bulls,61 - 61,1,13,3,Jumper
+9,Wendell Carter,DEFENSIVE_REBOUND,None,10:30,3,Bulls,Mavericks,61 - 61,0,N/A,N/A,N/A
+10,Kris Dunn,TURNOVER,Dorian Finney-Smith,10:26,3,Bulls,Mavericks,61 - 61,0,N/A,N/A,N/A
+11,Dennis Smith,FG_MISS,None,10:20,3,Mavericks,Bulls,61 - 61,1,21,3,Jumper
+12,Wendell Carter,DEFENSIVE_REBOUND,None,10:16,3,Bulls,Mavericks,61 - 61,0,N/A,N/A,N/A
+13,Dennis Smith,FOUL_ON_FLOOR,None,10:10,3,Mavericks,Bulls,61 - 61,1,N/A,N/A,N/A
+14,Zach LaVine,FG_UNASSISTED,None,9:59,3,Bulls,Mavericks,64 - 61,0,25,3,Jumper
+15,Wesley Matthews,FG_MISS,None,9:35,3,Mavericks,Bulls,64 - 61,1,25,3,Jumper
+16,Zach LaVine,DEFENSIVE_REBOUND,None,9:32,3,Bulls,Mavericks,64 - 61,0,N/A,N/A,N/A
+17,Zach LaVine,FG_MISS,None,9:26,3,Bulls,Mavericks,64 - 61,0,26,3,Jumper
+18,DeAndre Jordan,DEFENSIVE_REBOUND,None,9:23,3,Mavericks,Bulls,64 - 61,1,N/A,N/A,N/A
+19,Dennis Smith,FG_MISS,None,9:14,3,Mavericks,Bulls,64 - 61,1,18,3,Jumper
+20,Bobby Portis,DEFENSIVE_REBOUND,None,9:10,3,Bulls,Mavericks,64 - 61,0,N/A,N/A,N/A
+21,Wendell Carter,FOUL_ON_FLOOR,None,9:06,3,Bulls,Mavericks,64 - 61,0,N/A,N/A,N/A
+22,Wendell Carter,TURNOVER,None,9:06,3,Bulls,Mavericks,64 - 61,0,N/A,N/A,N/A
+23,DeAndre Jordan,FG_MISS,None,8:50,3,Mavericks,Bulls,64 - 61,1,0,2,Dunk
+24,Kris Dunn,DEFENSIVE_REBOUND,None,8:48,3,Bulls,Mavericks,64 - 61,0,N/A,N/A,N/A
+25,Bobby Portis,FG_ASSISTED,Kris Dunn,8:47,3,Bulls,Mavericks,66 - 61,0,0,2,Dunk
+26,Team,Unknown,None,8:46,3,Mavericks,Bulls,66 - 61,1,N/A,N/A,N/A
+27,Kris Dunn,FOUL_ON_FLOOR,None,8:35,3,Bulls,Mavericks,66 - 61,0,N/A,N/A,N/A
+28,DeAndre Jordan,FG_ASSISTED,Luka Doncic,8:30,3,Mavericks,Bulls,66 - 63,1,3,3,Jumper
+29,Bobby Portis,FG_UNASSISTED,None,8:13,3,Bulls,Mavericks,68 - 63,0,6,3,Jumper
+30,Dorian Finney-Smith,FG_ASSISTED,Dennis Smith,8:01,3,Mavericks,Bulls,68 - 66,1,24,3,Jumper
+31,Kris Dunn,FG_MISS,None,7:38,3,Bulls,Mavericks,68 - 66,0,27,3,Jumper
+32,DeAndre Jordan,DEFENSIVE_REBOUND,None,7:35,3,Mavericks,Bulls,68 - 66,1,N/A,N/A,N/A
+33,Dennis Smith,TURNOVER,Zach LaVine,7:27,3,Mavericks,Bulls,68 - 66,1,N/A,N/A,N/A
+34,Zach LaVine,FG_UNASSISTED,None,7:24,3,Bulls,Mavericks,70 - 66,0,0,2,Dunk
+35,Bobby Portis,FOUL_ON_FLOOR,None,7:03,3,Bulls,Mavericks,70 - 66,0,N/A,N/A,N/A
+36,Wesley Matthews,FT,None,7:03,3,Mavericks,Bulls,70 - 67,1,N/A,1,N/A
+37,Wesley Matthews,FT,None,7:03,3,Mavericks,Bulls,70 - 68,1,N/A,1,N/A
+38,Dorian Finney-Smith,FOUL_ON_FLOOR,None,6:47,3,Mavericks,Bulls,70 - 68,1,N/A,N/A,N/A
+39,Justin Holiday,FG_MISS,None,6:33,3,Bulls,Mavericks,70 - 68,0,24,3,Jumper
+40,Dorian Finney-Smith,DEFENSIVE_REBOUND,None,6:30,3,Mavericks,Bulls,70 - 68,1,N/A,N/A,N/A
+41,Wesley Matthews,TURNOVER,None,6:23,3,Mavericks,Bulls,70 - 68,1,N/A,N/A,N/A
+42,Wendell Carter,FG_ASSISTED,Zach LaVine,5:59,3,Bulls,Mavericks,72 - 68,0,0,2,Dunk
+43,Dorian Finney-Smith,FG_MISS,None,5:32,3,Mavericks,Bulls,72 - 68,1, ,3,Jumper
+44,Dorian Finney-Smith,OFFENSIVE_REBOUND,None,5:27,3,Mavericks,Bulls,72 - 68,1,N/A,N/A,N/A
+45,Dorian Finney-Smith,FG_UNASSISTED,None,5:27,3,Mavericks,Bulls,72 - 70,1, ,3,Jumper
+46,Kris Dunn,FG_MISS,None,5:18,3,Bulls,Mavericks,72 - 70,0,14,3,Jumper
+47,Wendell Carter,OFFENSIVE_REBOUND,None,5:15,3,Bulls,Mavericks,72 - 70,0,N/A,N/A,N/A
+48,Justin Holiday,FG_ASSISTED,Wendell Carter,5:15,3,Bulls,Mavericks,75 - 70,0,23,3,Jumper
+49,Jabari Parker,SUBSTITUTION,Portis Bobby,5:06,3,Bulls,Mavericks,75 - 70,0,N/A,N/A,N/A
+50,DeAndre Jordan,TURNOVER,None,5:03,3,Mavericks,Bulls,75 - 70,1,N/A,N/A,N/A
+51,Wendell Carter,FG_MISS,None,4:57,3,Bulls,Mavericks,75 - 70,0, ,3,Jumper
+52,Luka Doncic,DEFENSIVE_REBOUND,None,4:54,3,Mavericks,Bulls,75 - 70,1,N/A,N/A,N/A
+53,Wendell Carter,FOUL_ON_FLOOR,None,4:50,3,Bulls,Mavericks,75 - 70,0,N/A,N/A,N/A
+54,Wesley Matthews,FG_MISS,None,4:39,3,Mavericks,Bulls,75 - 70,1,15,3,Jumper
+55,DeAndre Jordan,OFFENSIVE_REBOUND,None,4:35,3,Mavericks,Bulls,75 - 70,1,N/A,N/A,N/A
+56,DeAndre Jordan,FG_MISS,None,4:35,3,Mavericks,Bulls,75 - 70,1, ,3,Jumper
+57,DeAndre Jordan,OFFENSIVE_REBOUND,None,4:34,3,Mavericks,Bulls,75 - 70,1,N/A,N/A,N/A
+58,DeAndre Jordan,FG_UNASSISTED,None,4:33,3,Mavericks,Bulls,75 - 72,1,3,3,Jumper
+59,Kris Dunn,TURNOVER,None,4:24,3,Bulls,Mavericks,75 - 72,0,N/A,N/A,N/A
+60,Dennis Smith,FG_MISS,None,4:15,3,Mavericks,Bulls,75 - 72,1, ,3,Jumper
+61,Team,OFFENSIVE_REBOUND,None,4:15,3,Mavericks,Bulls,75 - 72,1,N/A,N/A,N/A
+62,J.J. Barea,SUBSTITUTION,Smith Dennis,4:15,3,Mavericks,Bulls,75 - 72,1,N/A,N/A,N/A
+63,Cameron Payne,SUBSTITUTION,Dunn Kris,4:15,3,Bulls,Mavericks,75 - 72,0,N/A,N/A,N/A
+64,Justin Holiday,FOUL_ON_FLOOR,None,4:11,3,Bulls,Mavericks,75 - 72,0,N/A,N/A,N/A
+65,Robin Lopez,SUBSTITUTION,Carter Wendell,4:11,3,Bulls,Mavericks,75 - 72,0,N/A,N/A,N/A
+66,Zach LaVine,FOUL_ON_FLOOR,None,4:09,3,Bulls,Mavericks,75 - 72,0,N/A,N/A,N/A
+67,Wesley Matthews,FT,None,4:09,3,Mavericks,Bulls,75 - 73,1,N/A,1,N/A
+68,Wesley Matthews,FT,None,4:09,3,Mavericks,Bulls,75 - 74,1,N/A,1,N/A
+69,Robin Lopez,FG_MISS,None,3:56,3,Bulls,Mavericks,75 - 74,0, ,3,Jumper
+70,DeAndre Jordan,DEFENSIVE_REBOUND,None,3:53,3,Mavericks,Bulls,75 - 74,1,N/A,N/A,N/A
+71,Luka Doncic,FG_MISS,None,3:47,3,Mavericks,Bulls,75 - 74,1,24,3,Jumper
+72,Team,OFFENSIVE_REBOUND,None,3:47,3,Mavericks,Bulls,75 - 74,1,N/A,N/A,N/A
+73,Robin Lopez,FOUL_ON_FLOOR,None,3:47,3,Bulls,Mavericks,75 - 74,0,N/A,N/A,N/A
+74,DeAndre Jordan,FT,None,3:47,3,Mavericks,Bulls,75 - 75,1,N/A,1,N/A
+75,DeAndre Jordan,FT,None,3:47,3,Mavericks,Bulls,75 - 76,1,N/A,1,N/A
+76,Zach LaVine,FG_MISS,None,3:31,3,Bulls,Mavericks,75 - 76,0,13,3,Jumper
+77,Team,DEFENSIVE_REBOUND,None,3:29,3,Mavericks,Bulls,75 - 76,1,N/A,N/A,N/A
+78,Luka Doncic,TURNOVER,None,3:24,3,Mavericks,Bulls,75 - 76,1,N/A,N/A,N/A
+79,DeAndre Jordan,FOUL_ON_FLOOR,None,3:13,3,Mavericks,Bulls,75 - 76,1,N/A,N/A,N/A
+80,Zach LaVine,FT,None,3:13,3,Bulls,Mavericks,76 - 76,0,N/A,1,N/A
+81,Chandler Hutchison,SUBSTITUTION,Holiday Justin,3:13,3,Bulls,Mavericks,76 - 76,0,N/A,N/A,N/A
+82,Zach LaVine,FT,None,3:13,3,Bulls,Mavericks,77 - 76,0,N/A,1,N/A
+83,DeAndre Jordan,TURNOVER,Jabari Parker,3:02,3,Mavericks,Bulls,77 - 76,1,N/A,N/A,N/A
+84,DeAndre Jordan,FOUL_ON_FLOOR,None,3:01,3,Mavericks,Bulls,77 - 76,1,N/A,N/A,N/A
+85,Zach LaVine,FG_MISS,None,2:51,3,Bulls,Mavericks,77 - 76,0,20,3,Jumper
+86,DeAndre Jordan,DEFENSIVE_REBOUND,None,2:48,3,Mavericks,Bulls,77 - 76,1,N/A,N/A,N/A
+87,Wesley Matthews,FG_UNASSISTED,None,2:41,3,Mavericks,Bulls,77 - 78,1, ,3,Jumper
+88,Cameron Payne,TURNOVER,Dorian Finney-Smith,2:29,3,Bulls,Mavericks,77 - 78,0,N/A,N/A,N/A
+89,Wesley Matthews,FG_MISS,None,2:25,3,Mavericks,Bulls,77 - 78,1,24,3,Jumper
+90,Robin Lopez,DEFENSIVE_REBOUND,None,2:23,3,Bulls,Mavericks,77 - 78,0,N/A,N/A,N/A
+91,Team,Unknown,None,2:17,3,Bulls,Mavericks,77 - 78,0,N/A,N/A,N/A
+92,Dwight Powell,SUBSTITUTION,Jordan DeAndre,2:17,3,Mavericks,Bulls,77 - 78,1,N/A,N/A,N/A
+93,Maximilian Kleber,SUBSTITUTION,Finney-Smith Dorian,2:17,3,Mavericks,Bulls,77 - 78,1,N/A,N/A,N/A
+94,Jabari Parker,FG_MISS,None,2:12,3,Bulls,Mavericks,77 - 78,0,19,3,Jumper
+95,Luka Doncic,DEFENSIVE_REBOUND,None,2:10,3,Mavericks,Bulls,77 - 78,1,N/A,N/A,N/A
+96,Robin Lopez,FOUL_ON_FLOOR,None,2:06,3,Bulls,Mavericks,77 - 78,0,N/A,N/A,N/A
+97,Dwight Powell,FT,None,2:06,3,Mavericks,Bulls,77 - 79,1,N/A,1,N/A
+98,Dwight Powell,FT,None,2:06,3,Mavericks,Bulls,77 - 80,1,N/A,1,N/A
+99,Chandler Hutchison,FG_ASSISTED,Zach LaVine,1:50,3,Bulls,Mavericks,79 - 80,0, ,3,Jumper
+100,J.J. Barea,FG_MISS,None,1:34,3,Mavericks,Bulls,79 - 80,1,25,3,Jumper
+101,Team,DEFENSIVE_REBOUND,None,1:32,3,Bulls,Mavericks,79 - 80,0,N/A,N/A,N/A
+102,Dwight Powell,FOUL_ON_FLOOR,None,1:22,3,Mavericks,Bulls,79 - 80,1,N/A,N/A,N/A
+103,Zach LaVine,FT,None,1:22,3,Bulls,Mavericks,80 - 80,0,N/A,1,N/A
+104,Dorian Finney-Smith,SUBSTITUTION,Matthews Wesley,1:22,3,Mavericks,Bulls,80 - 80,1,N/A,N/A,N/A
+105,Zach LaVine,FT,None,1:22,3,Bulls,Mavericks,81 - 80,0,N/A,1,N/A
+106,Dwight Powell,FG_MISS,None,1:13,3,Mavericks,Bulls,81 - 80,1,25,3,Jumper
+107,Team,DEFENSIVE_REBOUND,None,1:12,3,Bulls,Mavericks,81 - 80,0,N/A,N/A,N/A
+108,Luka Doncic,FOUL_ON_FLOOR,None,1:12,3,Mavericks,Bulls,81 - 80,1,N/A,N/A,N/A
+109,Chandler Hutchison,FT,None,1:12,3,Bulls,Mavericks,82 - 80,0,N/A,1,N/A
+110,Chandler Hutchison,FT_MISS,None,1:12,3,Bulls,Mavericks,82 - 80,0,N/A,1,N/A
+111,Team,DEFENSIVE_REBOUND,None,1:10,3,Mavericks,Bulls,82 - 80,1,N/A,N/A,N/A
+112,Dwight Powell,FG_MISS,None,1:01,3,Mavericks,Bulls,82 - 80,1,24,3,Jumper
+113,Maximilian Kleber,OFFENSIVE_REBOUND,None,58.6,3,Mavericks,Bulls,82 - 80,1,N/A,N/A,N/A
+114,Maximilian Kleber,FG_MISS,Zach LaVine,58.0,3,Bulls,Mavericks,82 - 80,1,0,2,Layup
+115,Team,OFFENSIVE_REBOUND,None,58.0,3,Mavericks,Bulls,82 - 80,1,N/A,N/A,N/A
+116,Dwight Powell,FG_ASSISTED,J.J. Barea,55.6,3,Mavericks,Bulls,82 - 82,1,0,2,Layup
+117,Zach LaVine,FG_UNASSISTED,None,44.1,3,Bulls,Mavericks,84 - 82,0,0,2,Dunk
+118,Maximilian Kleber,FG_MISS,None,34.5,3,Mavericks,Bulls,84 - 82,1, ,3,Jumper
+119,Dwight Powell,OFFENSIVE_REBOUND,None,32.0,3,Mavericks,Bulls,84 - 82,1,N/A,N/A,N/A
+120,Luka Doncic,FG_MISS,None,23.1,3,Mavericks,Bulls,84 - 82,1,26,3,Jumper
+121,Maximilian Kleber,OFFENSIVE_REBOUND,None,18.8,3,Mavericks,Bulls,84 - 82,1,N/A,N/A,N/A
+122,Dwight Powell,FG_ASSISTED,J.J. Barea,10.8,3,Mavericks,Bulls,84 - 84,1,0,2,Layup
+123,Jabari Parker,FOUL_ON_FLOOR,None,10.8,3,Bulls,Mavericks,84 - 84,0,N/A,N/A,N/A
+124,Dwight Powell,FT,None,10.8,3,Mavericks,Bulls,84 - 85,1,N/A,1,N/A
+125,Robin Lopez,FOUL_ON_FLOOR,None,5.1,3,Bulls,Mavericks,84 - 85,0,N/A,N/A,N/A
+126,Robin Lopez,TURNOVER,None,5.1,3,Bulls,Mavericks,84 - 85,0,N/A,N/A,N/A
+127,Wesley Matthews,SUBSTITUTION,Kleber Maximilian,5.1,3,Mavericks,Bulls,84 - 85,1,N/A,N/A,N/A
+128,Jalen Brunson,SUBSTITUTION,Finney-Smith Dorian,5.1,3,Mavericks,Bulls,84 - 85,1,N/A,N/A,N/A
+129,Wendell Carter,SUBSTITUTION,Lopez Robin,5.1,3,Bulls,Mavericks,84 - 85,0,N/A,N/A,N/A
+130,Justin Holiday,SUBSTITUTION,LaVine Zach,5.1,3,Bulls,Mavericks,84 - 85,0,N/A,N/A,N/A
+131,J.J. Barea,FG_ASSISTED,Dwight Powell,1.5,3,Mavericks,Bulls,84 - 88,1,29,3,Jumper
+132,Chandler Hutchison,FG_MISS,None,0.4,3,Bulls,Mavericks,84 - 88,0,69,3,Jumper
+133,Team,OFFENSIVE_REBOUND,None,0.1,3,Bulls,Mavericks,84 - 88,0,N/A,N/A,N/A
+134,End of,Unknown,None,0.0,3,Mavericks,Bulls,84 - 88,1,N/A,N/A,N/A
+0,Dorian Finney-Smith,SUBSTITUTION,Doncic Luka,12:00,4,Mavericks,Bulls,84 - 88,1,N/A,N/A,N/A
+1,Maximilian Kleber,SUBSTITUTION,Matthews Wesley,12:00,4,Mavericks,Bulls,84 - 88,1,N/A,N/A,N/A
+2,Bobby Portis,SUBSTITUTION,Carter Wendell,12:00,4,Bulls,Mavericks,84 - 88,0,N/A,N/A,N/A
+3,Cameron Payne,TURNOVER,None,11:52,4,Bulls,Mavericks,84 - 88,0,N/A,N/A,N/A
+4,Dwight Powell's,FG_MISS,Bobby Portis,11:42,4,Bulls,Mavericks,84 - 88,1,0,2,Layup
+5,Team,OFFENSIVE_REBOUND,None,11:42,4,Mavericks,Bulls,84 - 88,1,N/A,N/A,N/A
+6,Maximilian Kleber,FG_MISS,None,11:37,4,Mavericks,Bulls,84 - 88,1, ,3,Jumper
+7,Chandler Hutchison,DEFENSIVE_REBOUND,None,11:35,4,Bulls,Mavericks,84 - 88,0,N/A,N/A,N/A
+8,Cameron Payne,FG_MISS,None,11:18,4,Bulls,Mavericks,84 - 88,0, ,3,Jumper
+9,Dwight Powell,DEFENSIVE_REBOUND,None,11:14,4,Mavericks,Bulls,84 - 88,1,N/A,N/A,N/A
+10,Maximilian Kleber,FG_ASSISTED,Dorian Finney-Smith,11:04,4,Mavericks,Bulls,84 - 91,1,25,3,Jumper
+11,J.J. Barea,FOUL_ON_FLOOR,None,10:50,4,Mavericks,Bulls,84 - 91,1,N/A,N/A,N/A
+12,Bobby Portis,FG_ASSISTED,Cameron Payne,10:43,4,Bulls,Mavericks,86 - 91,0,0,2,Layup
+13,J.J. Barea,FG_MISS,None,10:24,4,Mavericks,Bulls,86 - 91,1,25,3,Jumper
+14,Team,DEFENSIVE_REBOUND,None,10:24,4,Bulls,Mavericks,86 - 91,0,N/A,N/A,N/A
+15,Cameron Payne,FG_MISS,None,10:14,4,Bulls,Mavericks,86 - 91,0, ,3,Jumper
+16,J.J. Barea,DEFENSIVE_REBOUND,None,10:12,4,Mavericks,Bulls,86 - 91,1,N/A,N/A,N/A
+17,Cameron Payne,FOUL_ON_FLOOR,None,10:12,4,Bulls,Mavericks,86 - 91,0,N/A,N/A,N/A
+18,Maximilian Kleber,FG_ASSISTED,Dwight Powell,9:53,4,Mavericks,Bulls,86 - 93,1,10,3,Jumper
+19,Team,Unknown,None,9:52,4,Bulls,Mavericks,86 - 93,0,N/A,N/A,N/A
+20,Bobby Portis,FOUL_TECHNICAL,None,9:52,4,Bulls,Mavericks,86 - 93,0,N/A,N/A,N/A
+21,Kris Dunn,SUBSTITUTION,Hutchison Chandler,9:52,4,Bulls,Mavericks,86 - 93,0,N/A,N/A,N/A
+22,Zach LaVine,SUBSTITUTION,Payne Cameron,9:52,4,Bulls,Mavericks,86 - 93,0,N/A,N/A,N/A
+23,J.J. Barea,FT,None,9:52,4,Mavericks,Bulls,86 - 94,1,N/A,1,N/A
+24,Kris Dunn,FG_MISS,None,9:35,4,Bulls,Mavericks,86 - 94,0,14,3,Jumper
+25,Dwight Powell,DEFENSIVE_REBOUND,None,9:33,4,Mavericks,Bulls,86 - 94,1,N/A,N/A,N/A
+26,Jalen Brunson,FG_MISS,None,9:16,4,Mavericks,Bulls,86 - 94,1,27,3,Jumper
+27,Bobby Portis,DEFENSIVE_REBOUND,None,9:12,4,Bulls,Mavericks,86 - 94,0,N/A,N/A,N/A
+28,Zach LaVine,TURNOVER,Dwight Powell,9:05,4,Bulls,Mavericks,86 - 94,0,N/A,N/A,N/A
+29,Maximilian Kleber,FG_ASSISTED,Dwight Powell,8:53,4,Mavericks,Bulls,86 - 96,1,0,2,Dunk
+30,Jabari Parker,FG_ASSISTED,Kris Dunn,8:39,4,Bulls,Mavericks,89 - 96,0,28,3,Jumper
+31,Dwight Powell,FG_ASSISTED,Jalen Brunson,8:20,4,Mavericks,Bulls,89 - 98,1,7,3,Jumper
+32,Kris Dunn,FOUL_ON_FLOOR,None,8:20,4,Bulls,Mavericks,89 - 98,0,N/A,N/A,N/A
+33,Wesley Matthews,SUBSTITUTION,Finney-Smith Dorian,8:20,4,Mavericks,Bulls,89 - 98,1,N/A,N/A,N/A
+34,Dwight Powell,FT,None,8:20,4,Mavericks,Bulls,89 - 99,1,N/A,1,N/A
+35,Jabari Parker,FG_MISS,None,8:01,4,Bulls,Mavericks,89 - 99,0,19,3,Jumper
+36,J.J. Barea,DEFENSIVE_REBOUND,None,7:58,4,Mavericks,Bulls,89 - 99,1,N/A,N/A,N/A
+37,Wesley Matthews,FG_MISS,None,7:40,4,Mavericks,Bulls,89 - 99,1,26,3,Jumper
+38,Maximilian Kleber,OFFENSIVE_REBOUND,None,7:37,4,Mavericks,Bulls,89 - 99,1,N/A,N/A,N/A
+39,Wesley Matthews,FG_MISS,None,7:36,4,Mavericks,Bulls,89 - 99,1,25,3,Jumper
+40,Kris Dunn,DEFENSIVE_REBOUND,None,7:32,4,Bulls,Mavericks,89 - 99,0,N/A,N/A,N/A
+41,Kris Dunn,FG_MISS,None,7:26,4,Bulls,Mavericks,89 - 99,0,27,3,Jumper
+42,J.J. Barea,DEFENSIVE_REBOUND,None,7:24,4,Mavericks,Bulls,89 - 99,1,N/A,N/A,N/A
+43,J.J. Barea,FG_MISS,None,7:13,4,Mavericks,Bulls,89 - 99,1,25,3,Jumper
+44,Bobby Portis,DEFENSIVE_REBOUND,None,7:10,4,Bulls,Mavericks,89 - 99,0,N/A,N/A,N/A
+45,Justin Holiday,FG_ASSISTED,Kris Dunn,7:01,4,Bulls,Mavericks,92 - 99,0,23,3,Jumper
+46,Team,Unknown,None,6:59,4,Mavericks,Bulls,92 - 99,1,N/A,N/A,N/A
+47,Dennis Smith,SUBSTITUTION,Barea J.J.,6:59,4,Mavericks,Bulls,92 - 99,1,N/A,N/A,N/A
+48,Wesley Matthews,FG_ASSISTED,Jalen Brunson,6:44,4,Mavericks,Bulls,92 - 102,1,25,3,Jumper
+49,Bobby Portis,FOUL_ON_FLOOR,None,6:29,4,Bulls,Mavericks,92 - 102,0,N/A,N/A,N/A
+50,Bobby Portis,TURNOVER,None,6:29,4,Bulls,Mavericks,92 - 102,0,N/A,N/A,N/A
+51,Jalen Brunson,FG_MISS,None,6:09,4,Mavericks,Bulls,92 - 102,1,0,2,Layup
+52,Jabari Parker,DEFENSIVE_REBOUND,None,6:08,4,Bulls,Mavericks,92 - 102,0,N/A,N/A,N/A
+53,Dwight Powell,FOUL_ON_FLOOR,None,6:04,4,Mavericks,Bulls,92 - 102,1,N/A,N/A,N/A
+54,Jabari Parker,FT_MISS,None,6:04,4,Bulls,Mavericks,92 - 102,0,N/A,1,N/A
+55,Team,OFFENSIVE_REBOUND,None,6:04,4,Bulls,Mavericks,92 - 102,0,N/A,N/A,N/A
+56,DeAndre Jordan,SUBSTITUTION,Powell Dwight,6:04,4,Mavericks,Bulls,92 - 102,1,N/A,N/A,N/A
+57,Jabari Parker,FT,None,6:04,4,Bulls,Mavericks,93 - 102,0,N/A,1,N/A
+58,Maximilian Kleber,FG_ASSISTED,Dennis Smith,5:48,4,Mavericks,Bulls,93 - 105,1,24,3,Jumper
+59,Zach LaVine,FG_UNASSISTED,None,5:33,4,Bulls,Mavericks,95 - 105,0,2,3,Jumper
+60,Bobby Portis,FOUL_ON_FLOOR,None,5:25,4,Bulls,Mavericks,95 - 105,0,N/A,N/A,N/A
+61,Luka Doncic,SUBSTITUTION,Brunson Jalen,5:25,4,Mavericks,Bulls,95 - 105,1,N/A,N/A,N/A
+62,Wendell Carter,SUBSTITUTION,Parker Jabari,5:25,4,Bulls,Mavericks,95 - 105,0,N/A,N/A,N/A
+63,Wesley Matthews,FG_UNASSISTED,None,5:12,4,Mavericks,Bulls,95 - 107,1,13,3,Jumper
+64,Kris Dunn,TURNOVER,Wesley Matthews,5:04,4,Bulls,Mavericks,95 - 107,0,N/A,N/A,N/A
+65,Luka Doncic,FG_UNASSISTED,None,4:57,4,Mavericks,Bulls,95 - 109,1,6,3,Jumper
+66,Team,Unknown,None,4:57,4,Bulls,Mavericks,95 - 109,0,N/A,N/A,N/A
+67,Dorian Finney-Smith,SUBSTITUTION,Matthews Wesley,4:57,4,Mavericks,Bulls,95 - 109,1,N/A,N/A,N/A
+68,Zach LaVine,TURNOVER,None,4:46,4,Bulls,Mavericks,95 - 109,0,N/A,N/A,N/A
+69,Kris Dunn,FOUL_ON_FLOOR,None,4:28,4,Bulls,Mavericks,95 - 109,0,N/A,N/A,N/A
+70,Luka Doncic,TURNOVER,None,4:16,4,Mavericks,Bulls,95 - 109,1,N/A,N/A,N/A
+71,Zach LaVine,TURNOVER,None,4:01,4,Bulls,Mavericks,95 - 109,0,N/A,N/A,N/A
+72,Luka Doncic,FG_MISS,None,3:38,4,Mavericks,Bulls,95 - 109,1,25,3,Jumper
+73,DeAndre Jordan,OFFENSIVE_REBOUND,None,3:35,4,Mavericks,Bulls,95 - 109,1,N/A,N/A,N/A
+74,Maximilian Kleber,FG_MISS,None,3:24,4,Mavericks,Bulls,95 - 109,1,25,3,Jumper
+75,Team,OFFENSIVE_REBOUND,None,3:23,4,Mavericks,Bulls,95 - 109,1,N/A,N/A,N/A
+76,shot clock,TURNOVER,None,3:23,4,Mavericks,Bulls,95 - 109,1,N/A,N/A,N/A
+77,Zach LaVine,FG_UNASSISTED,None,3:12,4,Bulls,Mavericks,98 - 109,0,27,3,Jumper
+78,Dennis Smith,FG_MISS,None,2:51,4,Mavericks,Bulls,98 - 109,1,25,3,Jumper
+79,Team,DEFENSIVE_REBOUND,None,2:49,4,Bulls,Mavericks,98 - 109,0,N/A,N/A,N/A
+80,Bobby Portis,FG_MISS,None,2:32,4,Bulls,Mavericks,98 - 109,0,1,3,Jumper
+81,Team,OFFENSIVE_REBOUND,None,2:30,4,Bulls,Mavericks,98 - 109,0,N/A,N/A,N/A
+82,Zach LaVine,FG_MISS,None,2:19,4,Bulls,Mavericks,98 - 109,0,26,3,Jumper
+83,Maximilian Kleber,DEFENSIVE_REBOUND,None,2:17,4,Mavericks,Bulls,98 - 109,1,N/A,N/A,N/A
+84,Dennis Smith,FG_MISS,None,2:05,4,Mavericks,Bulls,98 - 109,1,25,3,Jumper
+85,DeAndre Jordan,OFFENSIVE_REBOUND,None,2:03,4,Mavericks,Bulls,98 - 109,1,N/A,N/A,N/A
+86,Luka Doncic,FG_MISS,None,1:51,4,Mavericks,Bulls,98 - 109,1,1,3,Jumper
+87,Bobby Portis,DEFENSIVE_REBOUND,None,1:48,4,Bulls,Mavericks,98 - 109,0,N/A,N/A,N/A
+88,Kris Dunn,FG_MISS,None,1:40,4,Bulls,Mavericks,98 - 109,0,1,3,Jumper
+89,DeAndre Jordan,DEFENSIVE_REBOUND,None,1:39,4,Mavericks,Bulls,98 - 109,1,N/A,N/A,N/A
+90,Kris Dunn,FOUL_ON_FLOOR,None,1:28,4,Bulls,Mavericks,98 - 109,0,N/A,N/A,N/A
+91,Cameron Payne,SUBSTITUTION,Dunn Kris,1:28,4,Bulls,Mavericks,98 - 109,0,N/A,N/A,N/A
+92,Luka Doncic,FT,None,1:28,4,Mavericks,Bulls,98 - 110,1,N/A,1,N/A
+93,Antonio Blakeney,SUBSTITUTION,LaVine Zach,1:28,4,Bulls,Mavericks,98 - 110,0,N/A,N/A,N/A
+94,Luka Doncic,FT,None,1:28,4,Mavericks,Bulls,98 - 111,1,N/A,1,N/A
+95,Justin Holiday,FG_ASSISTED,Wendell Carter,1:18,4,Bulls,Mavericks,101 - 111,0,26,3,Jumper
+96,Dennis Smith,TURNOVER,None,1:01,4,Mavericks,Bulls,101 - 111,1,N/A,N/A,N/A
+97,Cameron Payne,FG_UNASSISTED,None,57.8,4,Bulls,Mavericks,103 - 111,0,6,3,Jumper
+98,Team,Unknown,None,57.8,4,Mavericks,Bulls,103 - 111,1,N/A,N/A,N/A
+99,Dorian Finney-Smith,TURNOVER,Justin Holiday,50.2,4,Mavericks,Bulls,103 - 111,1,N/A,N/A,N/A
+100,Dwight Powell,SUBSTITUTION,Jordan DeAndre,49.2,4,Mavericks,Bulls,103 - 111,1,N/A,N/A,N/A
+101,Wesley Matthews,SUBSTITUTION,Kleber Maximilian,49.2,4,Mavericks,Bulls,103 - 111,1,N/A,N/A,N/A
+102,Antonio Blakeney,FG_ASSISTED,Justin Holiday,46.1,4,Bulls,Mavericks,106 - 111,0,23,3,Jumper
+103,Wesley Matthews,FG_MISS,None,25.9,4,Mavericks,Bulls,106 - 111,1,27,3,Jumper
+104,Wendell Carter,DEFENSIVE_REBOUND,None,22.2,4,Bulls,Mavericks,106 - 111,0,N/A,N/A,N/A
+105,Wendell Carter,TURNOVER,Luka Doncic,20.7,4,Bulls,Mavericks,106 - 111,0,N/A,N/A,N/A
+106,Luka Doncic,FG_UNASSISTED,None,19.6,4,Mavericks,Bulls,106 - 113,1,0,2,Layup
+107,Team,Unknown,None,19.6,4,Bulls,Mavericks,106 - 113,0,N/A,N/A,N/A
+108,Luka Doncic,FOUL_ON_FLOOR,None,14.2,4,Mavericks,Bulls,106 - 113,1,N/A,N/A,N/A
+109,Antonio Blakeney,FT_MISS,None,14.2,4,Bulls,Mavericks,106 - 113,0,N/A,1,N/A
+110,Team,OFFENSIVE_REBOUND,None,14.2,4,Bulls,Mavericks,106 - 113,0,N/A,N/A,N/A
+111,Chandler Hutchison,SUBSTITUTION,Carter Wendell,14.2,4,Bulls,Mavericks,106 - 113,0,N/A,N/A,N/A
+112,Antonio Blakeney,FT_MISS,None,14.2,4,Bulls,Mavericks,106 - 113,0,N/A,1,N/A
+113,Team,DEFENSIVE_REBOUND,None,14.2,4,Mavericks,Bulls,106 - 113,1,N/A,N/A,N/A
+114,Bobby Portis,FOUL_ON_FLOOR,None,13.9,4,Bulls,Mavericks,106 - 113,0,N/A,N/A,N/A
+115,Dorian Finney-Smith,FT,None,13.9,4,Mavericks,Bulls,106 - 114,1,N/A,1,N/A
+116,Dorian Finney-Smith,FT,None,13.9,4,Mavericks,Bulls,106 - 115,1,N/A,1,N/A
+117,Justin Holiday,FG_UNASSISTED,None,4.3,4,Bulls,Mavericks,109 - 115,0,26,3,Jumper
+118,Dennis Smith,FOUL_ON_FLOOR,None,4.3,4,Mavericks,Bulls,109 - 115,1,N/A,N/A,N/A
+119,Justin Holiday,FT_MISS,None,4.3,4,Bulls,Mavericks,109 - 115,0,N/A,1,N/A
+120,Wesley Matthews,DEFENSIVE_REBOUND,None,0.6,4,Mavericks,Bulls,109 - 115,1,N/A,N/A,N/A
+121,End of,Unknown,None,0.0,4,Mavericks,Bulls,109 - 115,1,N/A,N/A,N/A
+122,End of,Unknown,None,0.0,4,Mavericks,Bulls,109 - 115,1,N/A,N/A,N/A

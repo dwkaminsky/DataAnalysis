@@ -1,0 +1,508 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Nikola Jokic,JUMP_BALL,None,12:00,1,Nuggets,Hawks,0 - 0,0,N/A,N/A,N/A
+1,Nikola Jokic,FG_ASSISTED,Jamal Murray,11:43,1,Nuggets,Hawks,2 - 0,0,13,2,Jumper
+2,John Collins,FG_ASSISTED,Dewayne Dedmon,11:20,1,Hawks,Nuggets,2 - 3,1,25,3,Jumper
+3,Jamal Murray,FG_MISS,None,11:02,1,Nuggets,Hawks,2 - 3,0,-,2,Jumper
+4,Nikola Jokic,OFFENSIVE_REBOUND,None,10:57,1,Nuggets,Hawks,2 - 3,0,N/A,N/A,N/A
+5,Dewayne Dedmon,FOUL_ON_FLOOR,None,10:48,1,Hawks,Nuggets,2 - 3,1,N/A,N/A,N/A
+6,Trey Lyles,FT,None,10:48,1,Nuggets,Hawks,3 - 3,0,N/A,1,N/A
+7,Trey Lyles,FT,None,10:48,1,Nuggets,Hawks,4 - 3,0,N/A,1,N/A
+8,Kent Bazemore,FG_MISS,None,10:28,1,Hawks,Nuggets,4 - 3,1,26,3,Jumper
+9,Trey Lyles,DEFENSIVE_REBOUND,None,10:26,1,Nuggets,Hawks,4 - 3,0,N/A,N/A,N/A
+10,Trey Lyles,FG_ASSISTED,Nikola Jokic,10:16,1,Nuggets,Hawks,6 - 3,0,9,2,Jumper
+11,John Collins,FG_MISS,None,10:03,1,Hawks,Nuggets,6 - 3,1,26,3,Jumper
+12,Juan Hernangomez,DEFENSIVE_REBOUND,None,10:00,1,Nuggets,Hawks,6 - 3,0,N/A,N/A,N/A
+13,Nikola Jokic,FG_ASSISTED,Torrey Craig,9:54,1,Nuggets,Hawks,8 - 3,0,0,2,Layup
+14,Trae Young,TURNOVER,Nikola Jokic,9:42,1,Hawks,Nuggets,8 - 3,1,N/A,N/A,N/A
+15,Torrey Craig,FG_MISS,Trae Young,9:39,1,Hawks,Nuggets,8 - 3,0,0,2,Layup
+16,Team,OFFENSIVE_REBOUND,None,9:39,1,Nuggets,Hawks,8 - 3,0,N/A,N/A,N/A
+17,Jamal Murray,TURNOVER,Kevin Huerter,9:32,1,Nuggets,Hawks,8 - 3,0,N/A,N/A,N/A
+18,Trae Young's,FG_MISS,Juan Hernangomez,9:29,1,Nuggets,Hawks,8 - 3,1,-,2,Jumper
+19,Team,OFFENSIVE_REBOUND,None,9:29,1,Hawks,Nuggets,8 - 3,1,N/A,N/A,N/A
+20,Dewayne Dedmon,FG_ASSISTED,Kent Bazemore,9:10,1,Hawks,Nuggets,8 - 5,1,0,2,Layup
+21,Juan Hernangomez,FG_ASSISTED,Torrey Craig,8:54,1,Nuggets,Hawks,11 - 5,0,25,3,Jumper
+22,John Collins,FG_MISS,None,8:42,1,Hawks,Nuggets,11 - 5,1,0,2,Dunk
+23,Juan Hernangomez,DEFENSIVE_REBOUND,None,8:40,1,Nuggets,Hawks,11 - 5,0,N/A,N/A,N/A
+24,Jamal Murray,TURNOVER,Kent Bazemore,8:27,1,Nuggets,Hawks,11 - 5,0,N/A,N/A,N/A
+25,John Collins,FG_ASSISTED,Kent Bazemore,8:22,1,Hawks,Nuggets,11 - 7,1,0,2,Dunk
+26,Kent Bazemore,FOUL_ON_FLOOR,None,8:14,1,Hawks,Nuggets,11 - 7,1,N/A,N/A,N/A
+27,Nikola Jokic,FG_UNASSISTED,None,8:03,1,Nuggets,Hawks,13 - 7,0,0,2,Layup
+28,Trae Young's,FG_MISS,Torrey Craig,7:54,1,Nuggets,Hawks,13 - 7,1,0,2,Layup
+29,John Collins,OFFENSIVE_REBOUND,None,7:49,1,Hawks,Nuggets,13 - 7,1,N/A,N/A,N/A
+30,Kent Bazemore,TURNOVER,Nikola Jokic,7:45,1,Hawks,Nuggets,13 - 7,1,N/A,N/A,N/A
+31,Juan Hernangomez's,FG_MISS,Kent Bazemore,7:39,1,Hawks,Nuggets,13 - 7,0,0,2,Dunk
+32,Team,OFFENSIVE_REBOUND,None,7:36,1,Nuggets,Hawks,13 - 7,0,N/A,N/A,N/A
+33,Torrey Craig,FG_ASSISTED,Nikola Jokic,7:31,1,Nuggets,Hawks,15 - 7,0,0,2,Layup
+34,Trae Young,FOUL_ON_FLOOR,None,7:31,1,Hawks,Nuggets,15 - 7,1,N/A,N/A,N/A
+35,Alex Len,SUBSTITUTION,Dedmon Dewayne,7:31,1,Hawks,Nuggets,15 - 7,1,N/A,N/A,N/A
+36,DeAndre' Bembry,SUBSTITUTION,Bazemore Kent,7:31,1,Hawks,Nuggets,15 - 7,1,N/A,N/A,N/A
+37,Torrey Craig,FT_MISS,None,7:31,1,Nuggets,Hawks,15 - 7,0,N/A,1,N/A
+38,John Collins,DEFENSIVE_REBOUND,None,7:31,1,Hawks,Nuggets,15 - 7,1,N/A,N/A,N/A
+39,Trae Young,FG_MISS,Torrey Craig,7:21,1,Nuggets,Hawks,15 - 7,1,3,2,Jumper
+40,Trey Lyles,DEFENSIVE_REBOUND,None,7:18,1,Nuggets,Hawks,15 - 7,0,N/A,N/A,N/A
+41,Trey Lyles,FG_MISS,None,7:15,1,Nuggets,Hawks,15 - 7,0,25,3,Jumper
+42,Kevin Huerter,DEFENSIVE_REBOUND,None,7:11,1,Hawks,Nuggets,15 - 7,1,N/A,N/A,N/A
+43,Team,Unknown,None,7:06,1,Hawks,Nuggets,15 - 7,1,N/A,N/A,N/A
+44,Jaylen Adams,SUBSTITUTION,Young Trae,7:06,1,Hawks,Nuggets,15 - 7,1,N/A,N/A,N/A
+45,John Collins,FG_ASSISTED,DeAndre' Bembry,6:57,1,Hawks,Nuggets,15 - 9,1,0,2,Dunk
+46,Nikola Jokic,FG_ASSISTED,Trey Lyles,6:43,1,Nuggets,Hawks,17 - 9,0,7,2,Jumper
+47,Kevin Huerter,FG_MISS,None,6:33,1,Hawks,Nuggets,17 - 9,1,26,3,Jumper
+48,Nikola Jokic,DEFENSIVE_REBOUND,None,6:29,1,Nuggets,Hawks,17 - 9,0,N/A,N/A,N/A
+49,Nikola Jokic,FG_MISS,None,6:24,1,Nuggets,Hawks,17 - 9,0,27,3,Jumper
+50,Jaylen Adams,DEFENSIVE_REBOUND,None,6:20,1,Hawks,Nuggets,17 - 9,1,N/A,N/A,N/A
+51,Alex Len,FG_MISS,None,6:07,1,Hawks,Nuggets,17 - 9,1,5,2,Jumper
+52,Jamal Murray,DEFENSIVE_REBOUND,None,6:04,1,Nuggets,Hawks,17 - 9,0,N/A,N/A,N/A
+53,Trey Lyles,FG_ASSISTED,Torrey Craig,5:59,1,Nuggets,Hawks,20 - 9,0,22,3,Jumper
+54,Alex Len,FG_MISS,None,5:46,1,Hawks,Nuggets,20 - 9,1,25,3,Jumper
+55,Jamal Murray,DEFENSIVE_REBOUND,None,5:44,1,Nuggets,Hawks,20 - 9,0,N/A,N/A,N/A
+56,Nikola Jokic,FG_MISS,None,5:32,1,Nuggets,Hawks,20 - 9,0,14,2,Jumper
+57,Kevin Huerter,DEFENSIVE_REBOUND,None,5:29,1,Hawks,Nuggets,20 - 9,1,N/A,N/A,N/A
+58,Alex Len,FG_ASSISTED,DeAndre' Bembry,5:24,1,Hawks,Nuggets,20 - 11,1,0,2,Dunk
+59,Nikola Jokic,FG_MISS,None,5:03,1,Nuggets,Hawks,20 - 11,0,0,2,Layup
+60,DeAndre' Bembry,DEFENSIVE_REBOUND,None,5:01,1,Hawks,Nuggets,20 - 11,1,N/A,N/A,N/A
+61,Juan Hernangomez,FOUL_ON_FLOOR,None,4:57,1,Nuggets,Hawks,20 - 11,0,N/A,N/A,N/A
+62,DeAndre' Bembry,FT,None,4:57,1,Hawks,Nuggets,20 - 12,1,N/A,1,N/A
+63,Tyler Dorsey,SUBSTITUTION,Huerter Kevin,4:57,1,Hawks,Nuggets,20 - 12,1,N/A,N/A,N/A
+64,Vince Carter,SUBSTITUTION,Collins John,4:57,1,Hawks,Nuggets,20 - 12,1,N/A,N/A,N/A
+65,Monte Morris,SUBSTITUTION,Lyles Trey,4:57,1,Nuggets,Hawks,20 - 12,0,N/A,N/A,N/A
+66,Mason Plumlee,SUBSTITUTION,Murray Jamal,4:57,1,Nuggets,Hawks,20 - 12,0,N/A,N/A,N/A
+67,DeAndre' Bembry,FT,None,4:57,1,Hawks,Nuggets,20 - 13,1,N/A,1,N/A
+68,Mason Plumlee,FG_MISS,DeAndre' Bembry,4:41,1,Hawks,Nuggets,20 - 13,0,0,2,Layup
+69,Team,OFFENSIVE_REBOUND,None,4:41,1,Nuggets,Hawks,20 - 13,0,N/A,N/A,N/A
+70,Nikola Jokic,FG_UNASSISTED,None,4:32,1,Nuggets,Hawks,22 - 13,0,14,2,Jumper
+71,Alex Len,FG_MISS,None,4:22,1,Hawks,Nuggets,22 - 13,1,23,3,Jumper
+72,Torrey Craig,DEFENSIVE_REBOUND,None,4:16,1,Nuggets,Hawks,22 - 13,0,N/A,N/A,N/A
+73,Nikola Jokic,FG_ASSISTED,Monte Morris,4:09,1,Nuggets,Hawks,24 - 13,0,0,2,Layup
+74,Vince Carter,FOUL_ON_FLOOR,None,4:09,1,Hawks,Nuggets,24 - 13,1,N/A,N/A,N/A
+75,Dewayne Dedmon,SUBSTITUTION,Len Alex,4:09,1,Hawks,Nuggets,24 - 13,1,N/A,N/A,N/A
+76,Nikola Jokic,FT,None,4:09,1,Nuggets,Hawks,25 - 13,0,N/A,1,N/A
+77,DeAndre' Bembry,FG_ASSISTED,Jaylen Adams,3:49,1,Hawks,Nuggets,25 - 16,1,25,3,Jumper
+78,Torrey Craig,FG_MISS,None,3:34,1,Nuggets,Hawks,25 - 16,0,26,3,Jumper
+79,Team,OFFENSIVE_REBOUND,None,3:33,1,Nuggets,Hawks,25 - 16,0,N/A,N/A,N/A
+80,DeAndre' Bembry,FOUL_ON_FLOOR,None,3:33,1,Hawks,Nuggets,25 - 16,1,N/A,N/A,N/A
+81,Nikola Jokic,FT,None,3:33,1,Nuggets,Hawks,26 - 16,0,N/A,1,N/A
+82,Malik Beasley,SUBSTITUTION,Hernangomez Juan,3:33,1,Nuggets,Hawks,26 - 16,0,N/A,N/A,N/A
+83,Nikola Jokic,FT,None,3:33,1,Nuggets,Hawks,27 - 16,0,N/A,1,N/A
+84,DeAndre' Bembry,FG_UNASSISTED,None,3:10,1,Hawks,Nuggets,27 - 18,1,11,2,Jumper
+85,Monte Morris,FG_ASSISTED,Mason Plumlee,2:55,1,Nuggets,Hawks,30 - 18,0,25,3,Jumper
+86,Vince Carter,FG_MISS,None,2:39,1,Hawks,Nuggets,30 - 18,1,25,3,Jumper
+87,Nikola Jokic,DEFENSIVE_REBOUND,None,2:36,1,Nuggets,Hawks,30 - 18,0,N/A,N/A,N/A
+88,DeAndre' Bembry,FOUL_ON_FLOOR,None,2:28,1,Hawks,Nuggets,30 - 18,1,N/A,N/A,N/A
+89,Team,Unknown,None,2:28,1,Nuggets,Hawks,30 - 18,0,N/A,N/A,N/A
+90,Trae Young,SUBSTITUTION,Adams Jaylen,2:28,1,Hawks,Nuggets,30 - 18,1,N/A,N/A,N/A
+91,Kent Bazemore,SUBSTITUTION,Bembry DeAndre',2:28,1,Hawks,Nuggets,30 - 18,1,N/A,N/A,N/A
+92,Trey Lyles,SUBSTITUTION,Jokic Nikola,2:28,1,Nuggets,Hawks,30 - 18,0,N/A,N/A,N/A
+93,Torrey Craig,FT_MISS,None,2:28,1,Nuggets,Hawks,30 - 18,0,N/A,1,N/A
+94,Team,OFFENSIVE_REBOUND,None,2:28,1,Nuggets,Hawks,30 - 18,0,N/A,N/A,N/A
+95,Torrey Craig,FT,None,2:28,1,Nuggets,Hawks,31 - 18,0,N/A,1,N/A
+96,Vince Carter,FG_MISS,None,2:11,1,Hawks,Nuggets,31 - 18,1,10,2,Jumper
+97,Team,DEFENSIVE_REBOUND,None,2:08,1,Nuggets,Hawks,31 - 18,0,N/A,N/A,N/A
+98,Mason Plumlee,FG_ASSISTED,Monte Morris,1:54,1,Nuggets,Hawks,33 - 18,0,21,2,Jumper
+99,Tyler Dorsey,FG_ASSISTED,Dewayne Dedmon,1:39,1,Hawks,Nuggets,33 - 21,1,26,3,Jumper
+100,Torrey Craig,FG_MISS,None,1:08,1,Nuggets,Hawks,33 - 21,0, ,2,Jumper
+101,Vince Carter,DEFENSIVE_REBOUND,None,1:05,1,Hawks,Nuggets,33 - 21,1,N/A,N/A,N/A
+102,Mason Plumlee,FOUL_ON_FLOOR,None,57.4,1,Nuggets,Hawks,33 - 21,0,N/A,N/A,N/A
+103,Tyler Dorsey,FG_ASSISTED,Dewayne Dedmon,52.5,1,Hawks,Nuggets,33 - 23,1,0,2,Dunk
+104,Torrey Craig,FG_ASSISTED,Monte Morris,39.5,1,Nuggets,Hawks,35 - 23,0,0,2,Layup
+105,Tyler Dorsey,FG_ASSISTED,Dewayne Dedmon,26.1,1,Hawks,Nuggets,35 - 25,1,22,2,Jumper
+106,Mason Plumlee,TURNOVER,None,6.3,1,Nuggets,Hawks,35 - 25,0,N/A,N/A,N/A
+107,Mason Plumlee,TURNOVER,None,6.3,1,Nuggets,Hawks,35 - 25,0,N/A,N/A,N/A
+108,Nikola Jokic,SUBSTITUTION,Plumlee Mason,6.3,1,Nuggets,Hawks,35 - 25,0,N/A,N/A,N/A
+109,Kent Bazemore,FG_MISS,None,1.6,1,Hawks,Nuggets,35 - 25,1,27,3,Jumper
+110,Team,OFFENSIVE_REBOUND,None,1.6,1,Hawks,Nuggets,35 - 25,1,N/A,N/A,N/A
+111,End of,Unknown,None,0.0,1,Hawks,Nuggets,35 - 25,1,N/A,N/A,N/A
+0,John Collins,SUBSTITUTION,Carter Vince,12:00,2,Hawks,Nuggets,35 - 25,1,N/A,N/A,N/A
+1,enters the,SUBSTITUTION,Craig Torrey,12:00,2,Nuggets,Hawks,35 - 25,0,N/A,N/A,N/A
+2,Juan Hernangomez,SUBSTITUTION,Lyles Trey,12:00,2,Nuggets,Hawks,35 - 25,0,N/A,N/A,N/A
+3,Juan Hernangomez,SUBSTITUTION,for game,12:00,2,Nuggets,Hawks,35 - 25,0,N/A,N/A,N/A
+4,John Collins,FG_MISS,None,11:47,2,Hawks,Nuggets,35 - 25,1,0,2,Layup
+5,Juan Hernangomez,DEFENSIVE_REBOUND,None,11:44,2,Nuggets,Hawks,35 - 25,0,N/A,N/A,N/A
+6,Malik Beasley,FG_ASSISTED,Juan Hernangomez,11:39,2,Nuggets,Hawks,38 - 25,0,26,3,Jumper
+7,Trae Young,FG_ASSISTED,John Collins,11:11,2,Hawks,Nuggets,38 - 27,1,0,2,Layup
+8,Dewayne Dedmon,FOUL_ON_FLOOR,None,11:04,2,Hawks,Nuggets,38 - 27,1,N/A,N/A,N/A
+9,Malik Beasley,FG_MISS,None,10:56,2,Nuggets,Hawks,38 - 27,0,25,3,Jumper
+10,John Collins,DEFENSIVE_REBOUND,None,10:53,2,Hawks,Nuggets,38 - 27,1,N/A,N/A,N/A
+11,Dewayne Dedmon,FG_ASSISTED,John Collins,10:46,2,Hawks,Nuggets,38 - 29,1, ,2,Jumper
+12,Jamal Murray,FG_UNASSISTED,None,10:33,2,Nuggets,Hawks,40 - 29,0,11,2,Jumper
+13,Tyler Dorsey,FG_MISS,None,10:19,2,Hawks,Nuggets,40 - 29,1, ,3,Jumper
+14,Team,OFFENSIVE_REBOUND,None,10:17,2,Hawks,Nuggets,40 - 29,1,N/A,N/A,N/A
+15,John Collins,FG_MISS,None,10:09,2,Hawks,Nuggets,40 - 29,1,24,3,Jumper
+16,Jamal Murray,DEFENSIVE_REBOUND,None,10:06,2,Nuggets,Hawks,40 - 29,0,N/A,N/A,N/A
+17,Nikola Jokic,FG_MISS,None,9:53,2,Nuggets,Hawks,40 - 29,0,3,2,Jumper
+18,Dewayne Dedmon,DEFENSIVE_REBOUND,None,9:49,2,Hawks,Nuggets,40 - 29,1,N/A,N/A,N/A
+19,John Collins,FG_ASSISTED,Kent Bazemore,9:40,2,Hawks,Nuggets,40 - 31,1,0,2,Dunk
+20,Alex Len,SUBSTITUTION,Dedmon Dewayne,9:26,2,Hawks,Nuggets,40 - 31,1,N/A,N/A,N/A
+21,Nikola Jokic,FG_MISS,None,9:17,2,Nuggets,Hawks,40 - 31,0,0,2,Layup
+22,Nikola Jokic,OFFENSIVE_REBOUND,None,9:15,2,Nuggets,Hawks,40 - 31,0,N/A,N/A,N/A
+23,Tyler Dorsey,FOUL_ON_FLOOR,None,9:14,2,Hawks,Nuggets,40 - 31,1,N/A,N/A,N/A
+24,Juan Hernangomez,FT,None,9:14,2,Nuggets,Hawks,41 - 31,0,N/A,1,N/A
+25,Juan Hernangomez,FT,None,9:14,2,Nuggets,Hawks,42 - 31,0,N/A,1,N/A
+26,Tyler Dorsey,FG_MISS,None,8:58,2,Hawks,Nuggets,42 - 31,1,23,3,Jumper
+27,Nikola Jokic,DEFENSIVE_REBOUND,None,8:53,2,Nuggets,Hawks,42 - 31,0,N/A,N/A,N/A
+28,Jamal Murray,FG_MISS,None,8:47,2,Nuggets,Hawks,42 - 31,0,25,3,Jumper
+29,Team,OFFENSIVE_REBOUND,None,8:46,2,Nuggets,Hawks,42 - 31,0,N/A,N/A,N/A
+30,Kevin Huerter,SUBSTITUTION,Dorsey Tyler,8:46,2,Hawks,Nuggets,42 - 31,1,N/A,N/A,N/A
+31,Juan Hernangomez,FG_MISS,None,8:44,2,Nuggets,Hawks,42 - 31,0,25,3,Jumper
+32,Kent Bazemore,DEFENSIVE_REBOUND,None,8:40,2,Hawks,Nuggets,42 - 31,1,N/A,N/A,N/A
+33,John Collins,FG_ASSISTED,Kent Bazemore,8:37,2,Hawks,Nuggets,42 - 33,1,0,2,Dunk
+34,Nikola Jokic,FG_MISS,John Collins,8:16,2,Hawks,Nuggets,42 - 33,0,0,2,Layup
+35,Juan Hernangomez,OFFENSIVE_REBOUND,None,8:13,2,Nuggets,Hawks,42 - 33,0,N/A,N/A,N/A
+36,Juan Hernangomez,FG_MISS,None,8:12,2,Nuggets,Hawks,42 - 33,0, ,2,Jumper
+37,Alex Len,DEFENSIVE_REBOUND,None,8:10,2,Hawks,Nuggets,42 - 33,1,N/A,N/A,N/A
+38,Kent Bazemore,FG_ASSISTED,Kevin Huerter,8:09,2,Hawks,Nuggets,42 - 36,1,27,3,Jumper
+39,Team,Unknown,None,8:08,2,Nuggets,Hawks,42 - 36,0,N/A,N/A,N/A
+40,Trey Lyles,SUBSTITUTION,Jokic Nikola,8:08,2,Nuggets,Hawks,42 - 36,0,N/A,N/A,N/A
+41,Mason Plumlee,SUBSTITUTION,Murray Jamal,8:08,2,Nuggets,Hawks,42 - 36,0,N/A,N/A,N/A
+42,Monte Morris,FG_ASSISTED,Mason Plumlee,7:53,2,Nuggets,Hawks,44 - 36,0,14,2,Jumper
+43,Kevin Huerter,FG_MISS,None,7:35,2,Hawks,Nuggets,44 - 36,1,16,2,Jumper
+44,Trey Lyles,DEFENSIVE_REBOUND,None,7:33,2,Nuggets,Hawks,44 - 36,0,N/A,N/A,N/A
+45,Malik Beasley,FG_MISS,None,7:24,2,Nuggets,Hawks,44 - 36,0,26,3,Jumper
+46,John Collins,DEFENSIVE_REBOUND,None,7:20,2,Hawks,Nuggets,44 - 36,1,N/A,N/A,N/A
+47,Trae Young,FG_MISS,None,7:16,2,Hawks,Nuggets,44 - 36,1,31,3,Jumper
+48,Team,DEFENSIVE_REBOUND,None,7:15,2,Nuggets,Hawks,44 - 36,0,N/A,N/A,N/A
+49,Mason Plumlee,FG_ASSISTED,Monte Morris,6:55,2,Nuggets,Hawks,46 - 36,0,0,2,Layup
+50,Alex Len,FG_MISS,None,6:35,2,Hawks,Nuggets,46 - 36,1,23,3,Jumper
+51,Juan Hernangomez,DEFENSIVE_REBOUND,None,6:32,2,Nuggets,Hawks,46 - 36,0,N/A,N/A,N/A
+52,Malik Beasley,FG_MISS,None,6:28,2,Nuggets,Hawks,46 - 36,0,25,3,Jumper
+53,Alex Len,DEFENSIVE_REBOUND,None,6:24,2,Hawks,Nuggets,46 - 36,1,N/A,N/A,N/A
+54,Kevin Huerter,FG_ASSISTED,Trae Young,6:20,2,Hawks,Nuggets,46 - 39,1,23,3,Jumper
+55,Monte Morris,FG_MISS,None,5:59,2,Nuggets,Hawks,46 - 39,0,23,3,Jumper
+56,Team,DEFENSIVE_REBOUND,None,5:58,2,Hawks,Nuggets,46 - 39,1,N/A,N/A,N/A
+57,Trey Lyles,FOUL_ON_FLOOR,None,5:58,2,Nuggets,Hawks,46 - 39,0,N/A,N/A,N/A
+58,Jamal Murray,SUBSTITUTION,Morris Monte,5:58,2,Nuggets,Hawks,46 - 39,0,N/A,N/A,N/A
+59,Torrey Craig,SUBSTITUTION,Beasley Malik,5:58,2,Nuggets,Hawks,46 - 39,0,N/A,N/A,N/A
+60,Kent Bazemore,FG_MISS,None,5:46,2,Hawks,Nuggets,46 - 39,1,26,3,Jumper
+61,Jamal Murray,DEFENSIVE_REBOUND,None,5:42,2,Nuggets,Hawks,46 - 39,0,N/A,N/A,N/A
+62,Mason Plumlee,TURNOVER,None,5:30,2,Nuggets,Hawks,46 - 39,0,N/A,N/A,N/A
+63,Trae Young's,FG_MISS,Trey Lyles,5:23,2,Nuggets,Hawks,46 - 39,1, ,2,Jumper
+64,Team,OFFENSIVE_REBOUND,None,5:23,2,Hawks,Nuggets,46 - 39,1,N/A,N/A,N/A
+65,DeAndre' Bembry,SUBSTITUTION,Young Trae,5:23,2,Hawks,Nuggets,46 - 39,1,N/A,N/A,N/A
+66,Nikola Jokic,SUBSTITUTION,Plumlee Mason,5:23,2,Nuggets,Hawks,46 - 39,0,N/A,N/A,N/A
+67,John Collins,FG_ASSISTED,DeAndre' Bembry,5:12,2,Hawks,Nuggets,46 - 41,1,0,2,Dunk
+68,Torrey Craig,FG_ASSISTED,Nikola Jokic,4:55,2,Nuggets,Hawks,48 - 41,0,0,2,Layup
+69,Alex Len,FG_MISS,None,4:32,2,Hawks,Nuggets,48 - 41,1,7,2,Jumper
+70,John Collins,OFFENSIVE_REBOUND,None,4:31,2,Hawks,Nuggets,48 - 41,1,N/A,N/A,N/A
+71,John Collins,FG_MISS,None,4:31,2,Hawks,Nuggets,48 - 41,1,2,2,Jumper
+72,Team,OFFENSIVE_REBOUND,None,4:30,2,Hawks,Nuggets,48 - 41,1,N/A,N/A,N/A
+73,Kent Bazemore,FG_MISS,None,4:24,2,Hawks,Nuggets,48 - 41,1,13,2,Jumper
+74,Torrey Craig,DEFENSIVE_REBOUND,None,4:22,2,Nuggets,Hawks,48 - 41,0,N/A,N/A,N/A
+75,Trey Lyles,FG_MISS,None,4:04,2,Nuggets,Hawks,48 - 41,0,23,3,Jumper
+76,DeAndre' Bembry,DEFENSIVE_REBOUND,None,4:01,2,Hawks,Nuggets,48 - 41,1,N/A,N/A,N/A
+77,Kent Bazemore,FG_ASSISTED,John Collins,3:49,2,Hawks,Nuggets,48 - 44,1,23,3,Jumper
+78,Jamal Murray,FG_UNASSISTED,None,3:35,2,Nuggets,Hawks,50 - 44,0,20,2,Jumper
+79,John Collins,FG_MISS,None,3:19,2,Hawks,Nuggets,50 - 44,1,24,3,Jumper
+80,Juan Hernangomez,DEFENSIVE_REBOUND,None,3:16,2,Nuggets,Hawks,50 - 44,0,N/A,N/A,N/A
+81,DeAndre' Bembry,FOUL_ON_FLOOR,None,3:05,2,Hawks,Nuggets,50 - 44,1,N/A,N/A,N/A
+82,Trey Lyles,FT,None,3:05,2,Nuggets,Hawks,51 - 44,0,N/A,1,N/A
+83,Justin Anderson,SUBSTITUTION,Bazemore Kent,3:05,2,Hawks,Nuggets,51 - 44,1,N/A,N/A,N/A
+84,Trae Young,SUBSTITUTION,Len Alex,3:05,2,Hawks,Nuggets,51 - 44,1,N/A,N/A,N/A
+85,Dewayne Dedmon,SUBSTITUTION,Bembry DeAndre',3:05,2,Hawks,Nuggets,51 - 44,1,N/A,N/A,N/A
+86,Trey Lyles,FT,None,3:05,2,Nuggets,Hawks,52 - 44,0,N/A,1,N/A
+87,Justin Anderson,FG_MISS,None,2:53,2,Hawks,Nuggets,52 - 44,1,26,3,Jumper
+88,Torrey Craig,DEFENSIVE_REBOUND,None,2:50,2,Nuggets,Hawks,52 - 44,0,N/A,N/A,N/A
+89,Trey Lyles,FG_MISS,None,2:42,2,Nuggets,Hawks,52 - 44,0,25,3,Jumper
+90,Justin Anderson,DEFENSIVE_REBOUND,None,2:39,2,Hawks,Nuggets,52 - 44,1,N/A,N/A,N/A
+91,John Collins,FG_ASSISTED,Trae Young,2:32,2,Hawks,Nuggets,52 - 46,1,13,2,Jumper
+92,Trey Lyles,FOUL_ON_FLOOR,None,2:32,2,Nuggets,Hawks,52 - 46,0,N/A,N/A,N/A
+93,Team,Unknown,None,2:32,2,Hawks,Nuggets,52 - 46,1,N/A,N/A,N/A
+94,John Collins,FT,None,2:32,2,Hawks,Nuggets,52 - 47,1,N/A,1,N/A
+95,Justin Anderson,FOUL_ON_FLOOR,None,2:23,2,Hawks,Nuggets,52 - 47,1,N/A,N/A,N/A
+96,Torrey Craig,FG_ASSISTED,Nikola Jokic,2:10,2,Nuggets,Hawks,54 - 47,0,0,2,Dunk
+97,Kevin Huerter,FG_ASSISTED,John Collins,1:56,2,Hawks,Nuggets,54 - 49,1,0,2,Layup
+98,Torrey Craig,FOUL_ON_FLOOR,None,1:46,2,Nuggets,Hawks,54 - 49,0,N/A,N/A,N/A
+99,Torrey Craig,TURNOVER,None,1:46,2,Nuggets,Hawks,54 - 49,0,N/A,N/A,N/A
+100,Dewayne Dedmon,FG_MISS,None,1:33,2,Hawks,Nuggets,54 - 49,1,0,2,Layup
+101,Trae Young,OFFENSIVE_REBOUND,None,1:29,2,Hawks,Nuggets,54 - 49,1,N/A,N/A,N/A
+102,Kevin Huerter,FG_MISS,None,1:27,2,Hawks,Nuggets,54 - 49,1,23,3,Jumper
+103,Jamal Murray,DEFENSIVE_REBOUND,None,1:24,2,Nuggets,Hawks,54 - 49,0,N/A,N/A,N/A
+104,Trey Lyles,FG_MISS,Dewayne Dedmon,1:15,2,Hawks,Nuggets,54 - 49,0,0,2,Layup
+105,Dewayne Dedmon,DEFENSIVE_REBOUND,None,1:12,2,Hawks,Nuggets,54 - 49,1,N/A,N/A,N/A
+106,John Collins,FG_MISS,None,1:04,2,Hawks,Nuggets,54 - 49,1,0,2,Layup
+107,Justin Anderson,OFFENSIVE_REBOUND,None,1:01,2,Hawks,Nuggets,54 - 49,1,N/A,N/A,N/A
+108,Justin Anderson,FG_UNASSISTED,None,1:01,2,Hawks,Nuggets,54 - 51,1, ,2,Jumper
+109,Jamal Murray,FG_MISS,None,43.0,2,Nuggets,Hawks,54 - 51,0,16,2,Jumper
+110,Jamal Murray,OFFENSIVE_REBOUND,None,40.6,2,Nuggets,Hawks,54 - 51,0,N/A,N/A,N/A
+111,Nikola Jokic,FG_ASSISTED,Jamal Murray,38.6,2,Nuggets,Hawks,56 - 51,0,0,2,Layup
+112,Jamal Murray,FOUL_ON_FLOOR,None,37.2,2,Nuggets,Hawks,56 - 51,0,N/A,N/A,N/A
+113,Monte Morris,SUBSTITUTION,Murray Jamal,37.2,2,Nuggets,Hawks,56 - 51,0,N/A,N/A,N/A
+114,Trae Young,FT_MISS,None,37.2,2,Hawks,Nuggets,56 - 51,1,N/A,1,N/A
+115,Team,OFFENSIVE_REBOUND,None,37.2,2,Hawks,Nuggets,56 - 51,1,N/A,N/A,N/A
+116,Vince Carter,SUBSTITUTION,Collins John,37.2,2,Hawks,Nuggets,56 - 51,1,N/A,N/A,N/A
+117,Trae Young,FG_MISS,None,29.4,2,Hawks,Nuggets,56 - 51,1,0,2,Layup
+118,Nikola Jokic,DEFENSIVE_REBOUND,None,26.3,2,Nuggets,Hawks,56 - 51,0,N/A,N/A,N/A
+119,Juan Hernangomez,FG_MISS,None,21.2,2,Nuggets,Hawks,56 - 51,0,26,3,Jumper
+120,Dewayne Dedmon,DEFENSIVE_REBOUND,None,18.2,2,Hawks,Nuggets,56 - 51,1,N/A,N/A,N/A
+121,Dewayne Dedmon,FG_MISS,None,4.7,2,Hawks,Nuggets,56 - 51,1, ,3,Jumper
+122,Nikola Jokic,DEFENSIVE_REBOUND,None,1.6,2,Nuggets,Hawks,56 - 51,0,N/A,N/A,N/A
+123,End of,Unknown,None,0.0,2,Hawks,Nuggets,56 - 51,1,N/A,N/A,N/A
+0,Kent Bazemore,SUBSTITUTION,Anderson Justin,12:00,3,Hawks,Nuggets,56 - 51,1,N/A,N/A,N/A
+1,John Collins,SUBSTITUTION,Carter Vince,12:00,3,Hawks,Nuggets,56 - 51,1,N/A,N/A,N/A
+2,Jamal Murray,SUBSTITUTION,Morris Monte,12:00,3,Nuggets,Hawks,56 - 51,0,N/A,N/A,N/A
+3,Kent Bazemore,FG_MISS,None,11:47,3,Hawks,Nuggets,56 - 51,1,0,2,Layup
+4,John Collins,OFFENSIVE_REBOUND,None,11:45,3,Hawks,Nuggets,56 - 51,1,N/A,N/A,N/A
+5,Trae Young,TURNOVER,None,11:37,3,Hawks,Nuggets,56 - 51,1,N/A,N/A,N/A
+6,Torrey Craig,FG_MISS,None,11:16,3,Nuggets,Hawks,56 - 51,0,0,2,Layup
+7,Dewayne Dedmon,DEFENSIVE_REBOUND,None,11:13,3,Hawks,Nuggets,56 - 51,1,N/A,N/A,N/A
+8,John Collins,FG_MISS,None,11:04,3,Hawks,Nuggets,56 - 51,1,0,2,Dunk
+9,Juan Hernangomez,DEFENSIVE_REBOUND,None,11:01,3,Nuggets,Hawks,56 - 51,0,N/A,N/A,N/A
+10,Trey Lyles,FG_MISS,None,10:57,3,Nuggets,Hawks,56 - 51,0,0,2,Layup
+11,Trey Lyles,OFFENSIVE_REBOUND,None,10:53,3,Nuggets,Hawks,56 - 51,0,N/A,N/A,N/A
+12,Trey Lyles,FG_MISS,None,10:53,3,Nuggets,Hawks,56 - 51,0, ,2,Jumper
+13,Kent Bazemore,DEFENSIVE_REBOUND,None,10:52,3,Hawks,Nuggets,56 - 51,1,N/A,N/A,N/A
+14,Trae Young,FG_ASSISTED,Kevin Huerter,10:48,3,Hawks,Nuggets,56 - 54,1,26,3,Jumper
+15,Jamal Murray,FG_MISS,None,10:23,3,Nuggets,Hawks,56 - 54,0,13,2,Jumper
+16,Nikola Jokic,OFFENSIVE_REBOUND,None,10:20,3,Nuggets,Hawks,56 - 54,0,N/A,N/A,N/A
+17,Dewayne Dedmon,Unknown,None,10:16,3,Hawks,Nuggets,56 - 54,1,N/A,N/A,N/A
+18,Nikola Jokic,FG_ASSISTED,Trey Lyles,10:08,3,Nuggets,Hawks,58 - 54,0,7,2,Jumper
+19,Torrey Craig,FOUL_ON_FLOOR,None,10:01,3,Nuggets,Hawks,58 - 54,0,N/A,N/A,N/A
+20,Monte Morris,SUBSTITUTION,Murray Jamal,10:01,3,Nuggets,Hawks,58 - 54,0,N/A,N/A,N/A
+21,Kevin Huerter,FG_ASSISTED,John Collins,9:52,3,Hawks,Nuggets,58 - 57,1,26,3,Jumper
+22,Juan Hernangomez,FG_ASSISTED,Nikola Jokic,9:36,3,Nuggets,Hawks,60 - 57,0,0,2,Layup
+23,John Collins,FG_ASSISTED,Trae Young,9:26,3,Hawks,Nuggets,60 - 59,1,0,2,Dunk
+24,Team,Unknown,None,9:26,3,Nuggets,Hawks,60 - 59,0,N/A,N/A,N/A
+25,Torrey Craig,TURNOVER,None,9:15,3,Nuggets,Hawks,60 - 59,0,N/A,N/A,N/A
+26,Kent Bazemore,TURNOVER,Monte Morris,8:59,3,Hawks,Nuggets,60 - 59,1,N/A,N/A,N/A
+27,Monte Morris,FG_MISS,None,8:54,3,Nuggets,Hawks,60 - 59,0,0,2,Layup
+28,John Collins,DEFENSIVE_REBOUND,None,8:50,3,Hawks,Nuggets,60 - 59,1,N/A,N/A,N/A
+29,Kevin Huerter,TURNOVER,Trey Lyles,8:46,3,Hawks,Nuggets,60 - 59,1,N/A,N/A,N/A
+30,Torrey Craig,FG_MISS,None,8:39,3,Nuggets,Hawks,60 - 59,0,24,3,Jumper
+31,John Collins,DEFENSIVE_REBOUND,None,8:36,3,Hawks,Nuggets,60 - 59,1,N/A,N/A,N/A
+32,Trae Young,FG_UNASSISTED,None,8:28,3,Hawks,Nuggets,60 - 61,1,0,2,Layup
+33,Trae Young,FOUL_ON_FLOOR,None,8:18,3,Hawks,Nuggets,60 - 61,1,N/A,N/A,N/A
+34,Monte Morris,FG_MISS,None,8:12,3,Nuggets,Hawks,60 - 61,0,26,3,Jumper
+35,Dewayne Dedmon,DEFENSIVE_REBOUND,None,8:10,3,Hawks,Nuggets,60 - 61,1,N/A,N/A,N/A
+36,Monte Morris,FOUL_ON_FLOOR,None,8:02,3,Nuggets,Hawks,60 - 61,0,N/A,N/A,N/A
+37,Kent Bazemore,FT_MISS,None,8:02,3,Hawks,Nuggets,60 - 61,1,N/A,1,N/A
+38,Team,OFFENSIVE_REBOUND,None,8:02,3,Hawks,Nuggets,60 - 61,1,N/A,N/A,N/A
+39,Kent Bazemore,FT,None,8:02,3,Hawks,Nuggets,60 - 62,1,N/A,1,N/A
+40,Trey Lyles,FG_MISS,None,7:53,3,Nuggets,Hawks,60 - 62,0,16,2,Jumper
+41,John Collins,DEFENSIVE_REBOUND,None,7:50,3,Hawks,Nuggets,60 - 62,1,N/A,N/A,N/A
+42,Kent Bazemore,FG_MISS,None,7:45,3,Hawks,Nuggets,60 - 62,1,23,3,Jumper
+43,Trey Lyles,DEFENSIVE_REBOUND,None,7:41,3,Nuggets,Hawks,60 - 62,0,N/A,N/A,N/A
+44,Trey Lyles,FG_MISS,None,7:35,3,Nuggets,Hawks,60 - 62,0,26,3,Jumper
+45,Dewayne Dedmon,DEFENSIVE_REBOUND,None,7:31,3,Hawks,Nuggets,60 - 62,1,N/A,N/A,N/A
+46,Trae Young,TURNOVER,Monte Morris,7:25,3,Hawks,Nuggets,60 - 62,1,N/A,N/A,N/A
+47,Nikola Jokic,FG_UNASSISTED,None,7:07,3,Nuggets,Hawks,62 - 62,0,0,2,Layup
+48,John Collins,FG_ASSISTED,Trae Young,6:49,3,Hawks,Nuggets,62 - 65,1,23,3,Jumper
+49,Juan Hernangomez,FG_ASSISTED,Nikola Jokic,6:37,3,Nuggets,Hawks,64 - 65,0,0,2,Layup
+50,Trae Young,FG_MISS,None,6:15,3,Hawks,Nuggets,64 - 65,1,20,2,Jumper
+51,Trey Lyles,DEFENSIVE_REBOUND,None,6:12,3,Nuggets,Hawks,64 - 65,0,N/A,N/A,N/A
+52,John Collins,FOUL_ON_FLOOR,None,5:58,3,Hawks,Nuggets,64 - 65,1,N/A,N/A,N/A
+53,Vince Carter,SUBSTITUTION,Huerter Kevin,5:58,3,Hawks,Nuggets,64 - 65,1,N/A,N/A,N/A
+54,Alex Len,SUBSTITUTION,Dedmon Dewayne,5:58,3,Hawks,Nuggets,64 - 65,1,N/A,N/A,N/A
+55,DeAndre' Bembry,SUBSTITUTION,Collins John,5:58,3,Hawks,Nuggets,64 - 65,1,N/A,N/A,N/A
+56,Mason Plumlee,SUBSTITUTION,Lyles Trey,5:58,3,Nuggets,Hawks,64 - 65,0,N/A,N/A,N/A
+57,Malik Beasley,SUBSTITUTION,Hernangomez Juan,5:58,3,Nuggets,Hawks,64 - 65,0,N/A,N/A,N/A
+58,Torrey Craig,TURNOVER,Kent Bazemore,5:54,3,Nuggets,Hawks,64 - 65,0,N/A,N/A,N/A
+59,DeAndre' Bembry,FG_ASSISTED,Kent Bazemore,5:48,3,Hawks,Nuggets,64 - 68,1,26,3,Jumper
+60,Malik Beasley,FG_ASSISTED,Nikola Jokic,5:32,3,Nuggets,Hawks,66 - 68,0,6,2,Jumper
+61,Vince Carter,FG_MISS,None,5:23,3,Hawks,Nuggets,66 - 68,1,25,3,Jumper
+62,Torrey Craig,DEFENSIVE_REBOUND,None,5:19,3,Nuggets,Hawks,66 - 68,0,N/A,N/A,N/A
+63,Vince Carter,FOUL_ON_FLOOR,None,5:16,3,Hawks,Nuggets,66 - 68,1,N/A,N/A,N/A
+64,Monte Morris,FG_ASSISTED,Mason Plumlee,5:03,3,Nuggets,Hawks,69 - 68,0,26,3,Jumper
+65,Team,Unknown,None,5:01,3,Hawks,Nuggets,69 - 68,1,N/A,N/A,N/A
+66,Tyler Dorsey,SUBSTITUTION,Young Trae,5:01,3,Hawks,Nuggets,69 - 68,1,N/A,N/A,N/A
+67,Vince Carter,FG_ASSISTED,DeAndre' Bembry,4:47,3,Hawks,Nuggets,69 - 71,1,26,3,Jumper
+68,Kent Bazemore,FOUL_ON_FLOOR,None,4:32,3,Hawks,Nuggets,69 - 71,1,N/A,N/A,N/A
+69,Kevin Huerter,SUBSTITUTION,Bazemore Kent,4:32,3,Hawks,Nuggets,69 - 71,1,N/A,N/A,N/A
+70,Malik Beasley,FG_MISS,None,4:27,3,Nuggets,Hawks,69 - 71,0,26,3,Jumper
+71,Tyler Dorsey,DEFENSIVE_REBOUND,None,4:23,3,Hawks,Nuggets,69 - 71,1,N/A,N/A,N/A
+72,Vince Carter,FG_ASSISTED,DeAndre' Bembry,4:16,3,Hawks,Nuggets,69 - 74,1,23,3,Jumper
+73,Team,Unknown,None,4:13,3,Nuggets,Hawks,69 - 74,0,N/A,N/A,N/A
+74,Jamal Murray,SUBSTITUTION,Craig Torrey,4:13,3,Nuggets,Hawks,69 - 74,0,N/A,N/A,N/A
+75,Mason Plumlee,TURNOVER,None,3:52,3,Nuggets,Hawks,69 - 74,0,N/A,N/A,N/A
+76,Tyler Dorsey,TURNOVER,None,3:39,3,Hawks,Nuggets,69 - 74,1,N/A,N/A,N/A
+77,Alex Len,FOUL_ON_FLOOR,None,3:22,3,Hawks,Nuggets,69 - 74,1,N/A,N/A,N/A
+78,Nikola Jokic,FT,None,3:22,3,Nuggets,Hawks,70 - 74,0,N/A,1,N/A
+79,Nikola Jokic,FT,None,3:22,3,Nuggets,Hawks,71 - 74,0,N/A,1,N/A
+80,Alex Len,FG_ASSISTED,Vince Carter,3:11,3,Hawks,Nuggets,71 - 76,1, ,2,Jumper
+81,Monte Morris,FG_MISS,None,3:00,3,Nuggets,Hawks,71 - 76,0,0,2,Layup
+82,Monte Morris,OFFENSIVE_REBOUND,None,2:57,3,Nuggets,Hawks,71 - 76,0,N/A,N/A,N/A
+83,Monte Morris,FG_MISS,None,2:56,3,Nuggets,Hawks,71 - 76,0,9,2,Jumper
+84,Team,OFFENSIVE_REBOUND,None,2:56,3,Nuggets,Hawks,71 - 76,0,N/A,N/A,N/A
+85,Alex Len,FOUL_ON_FLOOR,None,2:56,3,Hawks,Nuggets,71 - 76,1,N/A,N/A,N/A
+86,Nikola Jokic,FT,None,2:56,3,Nuggets,Hawks,72 - 76,0,N/A,1,N/A
+87,Nikola Jokic,FT_MISS,None,2:56,3,Nuggets,Hawks,72 - 76,0,N/A,1,N/A
+88,Alex Len,DEFENSIVE_REBOUND,None,2:55,3,Hawks,Nuggets,72 - 76,1,N/A,N/A,N/A
+89,Alex Len,FOUL_ON_FLOOR,None,2:47,3,Hawks,Nuggets,72 - 76,1,N/A,N/A,N/A
+90,Alex Len,TURNOVER,None,2:47,3,Hawks,Nuggets,72 - 76,1,N/A,N/A,N/A
+91,Trey Lyles,SUBSTITUTION,Jokic Nikola,2:47,3,Nuggets,Hawks,72 - 76,0,N/A,N/A,N/A
+92,Monte Morris,FOUL_ON_FLOOR,None,2:38,3,Nuggets,Hawks,72 - 76,0,N/A,N/A,N/A
+93,Monte Morris,TURNOVER,None,2:38,3,Nuggets,Hawks,72 - 76,0,N/A,N/A,N/A
+94,Tyler Dorsey,FG_MISS,None,2:24,3,Hawks,Nuggets,72 - 76,1,0,2,Layup
+95,Tyler Dorsey,OFFENSIVE_REBOUND,None,2:21,3,Hawks,Nuggets,72 - 76,1,N/A,N/A,N/A
+96,DeAndre' Bembry,FG_ASSISTED,Kevin Huerter,2:19,3,Hawks,Nuggets,72 - 79,1,26,3,Jumper
+97,Mason Plumlee's,FG_MISS,DeAndre' Bembry,2:00,3,Hawks,Nuggets,72 - 79,0,0,2,Layup
+98,Vince Carter,DEFENSIVE_REBOUND,None,1:57,3,Hawks,Nuggets,72 - 79,1,N/A,N/A,N/A
+99,Vince Carter,FG_ASSISTED,Tyler Dorsey,1:53,3,Hawks,Nuggets,72 - 82,1,25,3,Jumper
+100,Jamal Murray,FG_MISS,DeAndre' Bembry,1:39,3,Hawks,Nuggets,72 - 82,0,15,2,Jumper
+101,John Collins,SUBSTITUTION,Len Alex,1:39,3,Hawks,Nuggets,72 - 82,1,N/A,N/A,N/A
+102,Torrey Craig,SUBSTITUTION,Plumlee Mason,1:39,3,Nuggets,Hawks,72 - 82,0,N/A,N/A,N/A
+103,Juan Hernangomez,SUBSTITUTION,Murray Jamal,1:39,3,Nuggets,Hawks,72 - 82,0,N/A,N/A,N/A
+104,Team,OFFENSIVE_REBOUND,None,1:39,3,Nuggets,Hawks,72 - 82,0,N/A,N/A,N/A
+105,Malik Beasley,FG_MISS,None,1:29,3,Nuggets,Hawks,72 - 82,0, ,2,Jumper
+106,Tyler Dorsey,DEFENSIVE_REBOUND,None,1:29,3,Hawks,Nuggets,72 - 82,1,N/A,N/A,N/A
+107,Tyler Dorsey,FOUL_ON_FLOOR,None,1:29,3,Hawks,Nuggets,72 - 82,1,N/A,N/A,N/A
+108,Tyler Dorsey,TURNOVER,None,1:29,3,Hawks,Nuggets,72 - 82,1,N/A,N/A,N/A
+109,Trey Lyles,FG_MISS,None,1:20,3,Nuggets,Hawks,72 - 82,0,0,2,Layup
+110,Juan Hernangomez,JUMP_BALL,None,1:16,3,Hawks,Nuggets,72 - 82,1,N/A,N/A,N/A
+111,Team,DEFENSIVE_REBOUND,None,1:16,3,Hawks,Nuggets,72 - 82,1,N/A,N/A,N/A
+112,DeAndre' Bembry,FG_UNASSISTED,None,58.7,3,Hawks,Nuggets,72 - 84,1,0,2,Layup
+113,Torrey Craig,FOUL_ON_FLOOR,None,58.7,3,Nuggets,Hawks,72 - 84,0,N/A,N/A,N/A
+114,DeAndre' Bembry,FT_MISS,None,58.7,3,Hawks,Nuggets,72 - 84,1,N/A,1,N/A
+115,Trey Lyles,DEFENSIVE_REBOUND,None,58.7,3,Nuggets,Hawks,72 - 84,0,N/A,N/A,N/A
+116,Malik Beasley,FG_ASSISTED,Monte Morris,49.2,3,Nuggets,Hawks,75 - 84,0,23,3,Jumper
+117,Tyler Dorsey,FG_MISS,None,38.5,3,Hawks,Nuggets,75 - 84,1,25,3,Jumper
+118,Monte Morris,DEFENSIVE_REBOUND,None,35.7,3,Nuggets,Hawks,75 - 84,0,N/A,N/A,N/A
+119,Monte Morris,FG_UNASSISTED,None,30.6,3,Nuggets,Hawks,77 - 84,0,0,2,Layup
+120,Vince Carter,FG_MISS,None,10.0,3,Hawks,Nuggets,77 - 84,1,24,3,Jumper
+121,Trey Lyles,DEFENSIVE_REBOUND,None,5.9,3,Nuggets,Hawks,77 - 84,0,N/A,N/A,N/A
+122,Trey Lyles,TURNOVER,Tyler Dorsey,4.4,3,Nuggets,Hawks,77 - 84,0,N/A,N/A,N/A
+123,Tyler Dorsey,FG_MISS,None,3.1,3,Hawks,Nuggets,77 - 84,1,0,2,Layup
+124,Vince Carter,OFFENSIVE_REBOUND,None,3.1,3,Hawks,Nuggets,77 - 84,1,N/A,N/A,N/A
+125,Vince Carter,FG_UNASSISTED,None,3.1,3,Hawks,Nuggets,77 - 86,1,0,2,Dunk
+126,Monte Morris,FG_MISS,None,0.3,3,Nuggets,Hawks,77 - 86,0,42,3,Jumper
+127,Team,OFFENSIVE_REBOUND,None,0.3,3,Nuggets,Hawks,77 - 86,0,N/A,N/A,N/A
+128,End of,Unknown,None,0.0,3,Hawks,Nuggets,77 - 86,1,N/A,N/A,N/A
+0,Trae Young,SUBSTITUTION,Dorsey Tyler,12:00,4,Hawks,Nuggets,77 - 86,1,N/A,N/A,N/A
+1,Dewayne Dedmon,SUBSTITUTION,Carter Vince,12:00,4,Hawks,Nuggets,77 - 86,1,N/A,N/A,N/A
+2,Kent Bazemore,SUBSTITUTION,Bembry DeAndre',12:00,4,Hawks,Nuggets,77 - 86,1,N/A,N/A,N/A
+3,Nikola Jokic,SUBSTITUTION,Craig Torrey,12:00,4,Nuggets,Hawks,77 - 86,0,N/A,N/A,N/A
+4,Dewayne Dedmon,FOUL_ON_FLOOR,None,11:48,4,Hawks,Nuggets,77 - 86,1,N/A,N/A,N/A
+5,Nikola Jokic,FG_MISS,None,11:36,4,Nuggets,Hawks,77 - 86,0,14,2,Jumper
+6,John Collins,DEFENSIVE_REBOUND,None,11:32,4,Hawks,Nuggets,77 - 86,1,N/A,N/A,N/A
+7,John Collins,FG_ASSISTED,Kent Bazemore,11:21,4,Hawks,Nuggets,77 - 88,1,0,2,Dunk
+8,Malik Beasley's,FG_MISS,Dewayne Dedmon,11:09,4,Hawks,Nuggets,77 - 88,0,0,2,Layup
+9,Dewayne Dedmon,DEFENSIVE_REBOUND,None,11:06,4,Hawks,Nuggets,77 - 88,1,N/A,N/A,N/A
+10,Kent Bazemore,FG_MISS,None,10:58,4,Hawks,Nuggets,77 - 88,1,24,3,Jumper
+11,Malik Beasley,DEFENSIVE_REBOUND,None,10:55,4,Nuggets,Hawks,77 - 88,0,N/A,N/A,N/A
+12,Dewayne Dedmon,FOUL_ON_FLOOR,None,10:46,4,Hawks,Nuggets,77 - 88,1,N/A,N/A,N/A
+13,Monte Morris,FG_MISS,None,10:34,4,Nuggets,Hawks,77 - 88,0,26,2,Jumper
+14,John Collins,DEFENSIVE_REBOUND,None,10:32,4,Hawks,Nuggets,77 - 88,1,N/A,N/A,N/A
+15,Trey Lyles,FOUL_ON_FLOOR,None,10:17,4,Nuggets,Hawks,77 - 88,0,N/A,N/A,N/A
+16,John Collins,FT,None,10:17,4,Hawks,Nuggets,77 - 89,1,N/A,1,N/A
+17,John Collins,FT,None,10:17,4,Hawks,Nuggets,77 - 90,1,N/A,1,N/A
+18,Juan Hernangomez,FG_MISS,None,10:04,4,Nuggets,Hawks,77 - 90,0,23,3,Jumper
+19,Kent Bazemore,DEFENSIVE_REBOUND,None,10:02,4,Hawks,Nuggets,77 - 90,1,N/A,N/A,N/A
+20,John Collins,FG_ASSISTED,Kent Bazemore,9:55,4,Hawks,Nuggets,77 - 92,1,0,2,Layup
+21,Juan Hernangomez,FOUL_ON_FLOOR,None,9:55,4,Nuggets,Hawks,77 - 92,0,N/A,N/A,N/A
+22,Torrey Craig,SUBSTITUTION,Beasley Malik,9:55,4,Nuggets,Hawks,77 - 92,0,N/A,N/A,N/A
+23,John Collins,FT_MISS,None,9:55,4,Hawks,Nuggets,77 - 92,1,N/A,1,N/A
+24,Nikola Jokic,DEFENSIVE_REBOUND,None,9:55,4,Nuggets,Hawks,77 - 92,0,N/A,N/A,N/A
+25,Torrey Craig,FG_MISS,None,9:44,4,Nuggets,Hawks,77 - 92,0,23,3,Jumper
+26,Dewayne Dedmon,DEFENSIVE_REBOUND,None,9:41,4,Hawks,Nuggets,77 - 92,1,N/A,N/A,N/A
+27,Nikola Jokic,FOUL_ON_FLOOR,None,9:36,4,Nuggets,Hawks,77 - 92,0,N/A,N/A,N/A
+28,Trae Young,FT,None,9:36,4,Hawks,Nuggets,77 - 93,1,N/A,1,N/A
+29,Vince Carter,SUBSTITUTION,Collins John,9:36,4,Hawks,Nuggets,77 - 93,1,N/A,N/A,N/A
+30,Trae Young,FT,None,9:36,4,Hawks,Nuggets,77 - 94,1,N/A,1,N/A
+31,Nikola Jokic,FG_MISS,None,9:24,4,Nuggets,Hawks,77 - 94,0,27,3,Jumper
+32,Kent Bazemore,DEFENSIVE_REBOUND,None,9:22,4,Hawks,Nuggets,77 - 94,1,N/A,N/A,N/A
+33,Vince Carter,FG_MISS,None,9:06,4,Hawks,Nuggets,77 - 94,1,23,3,Jumper
+34,Nikola Jokic,DEFENSIVE_REBOUND,None,9:03,4,Nuggets,Hawks,77 - 94,0,N/A,N/A,N/A
+35,Monte Morris,TURNOVER,Kevin Huerter,8:50,4,Nuggets,Hawks,77 - 94,0,N/A,N/A,N/A
+36,Kevin Huerter,FG_MISS,None,8:47,4,Hawks,Nuggets,77 - 94,1,24,3,Jumper
+37,Torrey Craig,DEFENSIVE_REBOUND,None,8:44,4,Nuggets,Hawks,77 - 94,0,N/A,N/A,N/A
+38,Juan Hernangomez,FG_ASSISTED,Monte Morris,8:38,4,Nuggets,Hawks,80 - 94,0,27,3,Jumper
+39,Trae Young,FOUL_ON_FLOOR,None,8:38,4,Hawks,Nuggets,80 - 94,1,N/A,N/A,N/A
+40,DeAndre' Bembry,SUBSTITUTION,Young Trae,8:38,4,Hawks,Nuggets,80 - 94,1,N/A,N/A,N/A
+41,Jamal Murray,SUBSTITUTION,Morris Monte,8:38,4,Nuggets,Hawks,80 - 94,0,N/A,N/A,N/A
+42,Juan Hernangomez,FT,None,8:38,4,Nuggets,Hawks,81 - 94,0,N/A,1,N/A
+43,DeAndre' Bembry,FG_ASSISTED,Kent Bazemore,8:20,4,Hawks,Nuggets,81 - 96,1,2,2,Jumper
+44,Juan Hernangomez,FG_ASSISTED,Jamal Murray,8:09,4,Nuggets,Hawks,84 - 96,0,31,3,Jumper
+45,Kent Bazemore,FG_MISS,None,7:50,4,Hawks,Nuggets,84 - 96,1,26,3,Jumper
+46,Trey Lyles,DEFENSIVE_REBOUND,None,7:48,4,Nuggets,Hawks,84 - 96,0,N/A,N/A,N/A
+47,Jamal Murray,FG_MISS,None,7:39,4,Nuggets,Hawks,84 - 96,0,18,2,Jumper
+48,Nikola Jokic,OFFENSIVE_REBOUND,None,7:36,4,Nuggets,Hawks,84 - 96,0,N/A,N/A,N/A
+49,Nikola Jokic,TURNOVER,Dewayne Dedmon,7:33,4,Nuggets,Hawks,84 - 96,0,N/A,N/A,N/A
+50,Torrey Craig,FOUL_ON_FLOOR,None,7:28,4,Nuggets,Hawks,84 - 96,0,N/A,N/A,N/A
+51,DeAndre' Bembry,FT_MISS,None,7:28,4,Hawks,Nuggets,84 - 96,1,N/A,1,N/A
+52,Team,OFFENSIVE_REBOUND,None,7:28,4,Hawks,Nuggets,84 - 96,1,N/A,N/A,N/A
+53,Tyler Dorsey,SUBSTITUTION,Dedmon Dewayne,7:28,4,Hawks,Nuggets,84 - 96,1,N/A,N/A,N/A
+54,Alex Len,SUBSTITUTION,Bazemore Kent,7:28,4,Hawks,Nuggets,84 - 96,1,N/A,N/A,N/A
+55,Mason Plumlee,SUBSTITUTION,Jokic Nikola,7:28,4,Nuggets,Hawks,84 - 96,0,N/A,N/A,N/A
+56,DeAndre' Bembry,FT,None,7:28,4,Hawks,Nuggets,84 - 97,1,N/A,1,N/A
+57,Juan Hernangomez,FG_MISS,None,7:22,4,Nuggets,Hawks,84 - 97,0,25,3,Jumper
+58,Tyler Dorsey,DEFENSIVE_REBOUND,None,7:19,4,Hawks,Nuggets,84 - 97,1,N/A,N/A,N/A
+59,DeAndre' Bembry,FG_MISS,None,7:13,4,Hawks,Nuggets,84 - 97,1,6,2,Jumper
+60,Alex Len,OFFENSIVE_REBOUND,None,7:09,4,Hawks,Nuggets,84 - 97,1,N/A,N/A,N/A
+61,Alex Len,FG_MISS,None,7:09,4,Hawks,Nuggets,84 - 97,1, ,2,Jumper
+62,Juan Hernangomez,DEFENSIVE_REBOUND,None,7:08,4,Nuggets,Hawks,84 - 97,0,N/A,N/A,N/A
+63,Jamal Murray,FG_MISS,Kevin Huerter,6:49,4,Hawks,Nuggets,84 - 97,0,16,2,Jumper
+64,DeAndre' Bembry,DEFENSIVE_REBOUND,None,6:47,4,Hawks,Nuggets,84 - 97,1,N/A,N/A,N/A
+65,Vince Carter,FG_UNASSISTED,None,6:34,4,Hawks,Nuggets,84 - 99,1, ,2,Jumper
+66,Team,Unknown,None,6:32,4,Nuggets,Hawks,84 - 99,0,N/A,N/A,N/A
+67,Torrey Craig,FG_MISS,Alex Len,6:14,4,Hawks,Nuggets,84 - 99,0,0,2,Layup
+68,Tyler Dorsey,DEFENSIVE_REBOUND,None,6:11,4,Hawks,Nuggets,84 - 99,1,N/A,N/A,N/A
+69,Alex Len,FG_UNASSISTED,None,5:50,4,Hawks,Nuggets,84 - 101,1,0,2,Layup
+70,Juan Hernangomez,FG_MISS,None,5:27,4,Nuggets,Hawks,84 - 101,0,0,2,Layup
+71,Juan Hernangomez,OFFENSIVE_REBOUND,None,5:27,4,Nuggets,Hawks,84 - 101,0,N/A,N/A,N/A
+72,Alex Len,FOUL_ON_FLOOR,None,5:27,4,Hawks,Nuggets,84 - 101,1,N/A,N/A,N/A
+73,Juan Hernangomez,FT_MISS,None,5:27,4,Nuggets,Hawks,84 - 101,0,N/A,1,N/A
+74,Team,OFFENSIVE_REBOUND,None,5:27,4,Nuggets,Hawks,84 - 101,0,N/A,N/A,N/A
+75,Monte Morris,SUBSTITUTION,Craig Torrey,5:27,4,Nuggets,Hawks,84 - 101,0,N/A,N/A,N/A
+76,Malik Beasley,SUBSTITUTION,Murray Jamal,5:27,4,Nuggets,Hawks,84 - 101,0,N/A,N/A,N/A
+77,Juan Hernangomez,FT,None,5:27,4,Nuggets,Hawks,85 - 101,0,N/A,1,N/A
+78,DeAndre' Bembry,FG_MISS,None,5:09,4,Hawks,Nuggets,85 - 101,1,1,2,Jumper
+79,Juan Hernangomez,DEFENSIVE_REBOUND,None,5:06,4,Nuggets,Hawks,85 - 101,0,N/A,N/A,N/A
+80,Mason Plumlee,TURNOVER,DeAndre' Bembry,5:01,4,Nuggets,Hawks,85 - 101,0,N/A,N/A,N/A
+81,Vince Carter,TURNOVER,Malik Beasley,4:50,4,Hawks,Nuggets,85 - 101,1,N/A,N/A,N/A
+82,Malik Beasley,FG_UNASSISTED,None,4:45,4,Nuggets,Hawks,87 - 101,0,1,2,Jumper
+83,Team,Unknown,None,4:45,4,Hawks,Nuggets,87 - 101,1,N/A,N/A,N/A
+84,Trae Young,SUBSTITUTION,Dorsey Tyler,4:45,4,Hawks,Nuggets,87 - 101,1,N/A,N/A,N/A
+85,John Collins,SUBSTITUTION,Huerter Kevin,4:45,4,Hawks,Nuggets,87 - 101,1,N/A,N/A,N/A
+86,Kent Bazemore,SUBSTITUTION,Carter Vince,4:45,4,Hawks,Nuggets,87 - 101,1,N/A,N/A,N/A
+87,Dewayne Dedmon,SUBSTITUTION,Len Alex,4:45,4,Hawks,Nuggets,87 - 101,1,N/A,N/A,N/A
+88,DeAndre' Bembry,TURNOVER,None,4:34,4,Hawks,Nuggets,87 - 101,1,N/A,N/A,N/A
+89,Malik Beasley,FG_MISS,None,4:22,4,Nuggets,Hawks,87 - 101,0,26,3,Jumper
+90,Trae Young,DEFENSIVE_REBOUND,None,4:19,4,Hawks,Nuggets,87 - 101,1,N/A,N/A,N/A
+91,Dewayne Dedmon,TURNOVER,Monte Morris,4:04,4,Hawks,Nuggets,87 - 101,1,N/A,N/A,N/A
+92,Malik Beasley,FG_ASSISTED,Monte Morris,4:01,4,Nuggets,Hawks,89 - 101,0,0,2,Dunk
+93,John Collins,TURNOVER,Mason Plumlee,3:45,4,Hawks,Nuggets,89 - 101,1,N/A,N/A,N/A
+94,Mason Plumlee,FG_UNASSISTED,None,3:43,4,Nuggets,Hawks,91 - 101,0,0,2,Dunk
+95,Team,Unknown,None,3:43,4,Hawks,Nuggets,91 - 101,1,N/A,N/A,N/A
+96,DeAndre' Bembry,FG_MISS,None,3:33,4,Hawks,Nuggets,91 - 101,1,26,3,Jumper
+97,Team,DEFENSIVE_REBOUND,None,3:32,4,Nuggets,Hawks,91 - 101,0,N/A,N/A,N/A
+98,Monte Morris,FG_MISS,None,3:25,4,Nuggets,Hawks,91 - 101,0,17,2,Jumper
+99,John Collins,DEFENSIVE_REBOUND,None,3:21,4,Hawks,Nuggets,91 - 101,1,N/A,N/A,N/A
+100,Trae Young,FG_MISS,None,3:11,4,Hawks,Nuggets,91 - 101,1,1,2,Jumper
+101,Dewayne Dedmon,OFFENSIVE_REBOUND,None,3:08,4,Hawks,Nuggets,91 - 101,1,N/A,N/A,N/A
+102,Dewayne Dedmon,FG_MISS,None,3:08,4,Hawks,Nuggets,91 - 101,1,1,2,Jumper
+103,Team,OFFENSIVE_REBOUND,None,3:08,4,Hawks,Nuggets,91 - 101,1,N/A,N/A,N/A
+104,Kent Bazemore,TURNOVER,Monte Morris,2:55,4,Hawks,Nuggets,91 - 101,1,N/A,N/A,N/A
+105,Monte Morris,TURNOVER,Kent Bazemore,2:42,4,Nuggets,Hawks,91 - 101,0,N/A,N/A,N/A
+106,Monte Morris,FOUL_ON_FLOOR,None,2:41,4,Nuggets,Hawks,91 - 101,0,N/A,N/A,N/A
+107,Dewayne Dedmon,FT,None,2:41,4,Hawks,Nuggets,91 - 102,1,N/A,1,N/A
+108,Kevin Huerter,SUBSTITUTION,Bembry DeAndre',2:41,4,Hawks,Nuggets,91 - 102,1,N/A,N/A,N/A
+109,Dewayne Dedmon,FT,None,2:41,4,Hawks,Nuggets,91 - 103,1,N/A,1,N/A
+110,Trey Lyles,FG_MISS,None,2:33,4,Nuggets,Hawks,91 - 103,0,23,3,Jumper
+111,Kent Bazemore,DEFENSIVE_REBOUND,None,2:29,4,Hawks,Nuggets,91 - 103,1,N/A,N/A,N/A
+112,Kent Bazemore,TURNOVER,Monte Morris,2:18,4,Hawks,Nuggets,91 - 103,1,N/A,N/A,N/A
+113,Trey Lyles,FG_MISS,None,2:11,4,Nuggets,Hawks,91 - 103,0,25,3,Jumper
+114,Dewayne Dedmon,DEFENSIVE_REBOUND,None,2:07,4,Hawks,Nuggets,91 - 103,1,N/A,N/A,N/A
+115,John Collins,FG_ASSISTED,Kevin Huerter,1:49,4,Hawks,Nuggets,91 - 106,1,23,3,Jumper
+116,Team,Unknown,None,1:48,4,Nuggets,Hawks,91 - 106,0,N/A,N/A,N/A
+117,Malik Beasley,FG_MISS,None,1:43,4,Nuggets,Hawks,91 - 106,0,18,2,Jumper
+118,Mason Plumlee,OFFENSIVE_REBOUND,None,1:40,4,Nuggets,Hawks,91 - 106,0,N/A,N/A,N/A
+119,Monte Morris,FG_MISS,None,1:38,4,Nuggets,Hawks,91 - 106,0,24,3,Jumper
+120,Dewayne Dedmon,DEFENSIVE_REBOUND,None,1:35,4,Hawks,Nuggets,91 - 106,1,N/A,N/A,N/A
+121,Dewayne Dedmon,TURNOVER,None,1:35,4,Hawks,Nuggets,91 - 106,1,N/A,N/A,N/A
+122,Mason Plumlee,TURNOVER,Dewayne Dedmon,1:29,4,Nuggets,Hawks,91 - 106,0,N/A,N/A,N/A
+123,Trae Young,FG_MISS,None,1:11,4,Hawks,Nuggets,91 - 106,1,1,2,Jumper
+124,Trey Lyles,DEFENSIVE_REBOUND,None,1:09,4,Nuggets,Hawks,91 - 106,0,N/A,N/A,N/A
+125,Malik Beasley,FG_ASSISTED,Mason Plumlee,1:01,4,Nuggets,Hawks,93 - 106,0,0,2,Dunk
+126,Kevin Huerter,FG_MISS,None,38.9,4,Hawks,Nuggets,93 - 106,1,25,3,Jumper
+127,Mason Plumlee,DEFENSIVE_REBOUND,None,36.4,4,Nuggets,Hawks,93 - 106,0,N/A,N/A,N/A
+128,Monte Morris's,FG_MISS,Kent Bazemore,31.7,4,Hawks,Nuggets,93 - 106,0,0,2,Layup
+129,Mason Plumlee,OFFENSIVE_REBOUND,None,27.5,4,Nuggets,Hawks,93 - 106,0,N/A,N/A,N/A
+130,Malik Beasley,FG_ASSISTED,Mason Plumlee,25.1,4,Nuggets,Hawks,96 - 106,0,26,2,Jumper
+131,Trae Young,TURNOVER,None,15.7,4,Hawks,Nuggets,96 - 106,1,N/A,N/A,N/A
+132,Malik Beasley,FG_MISS,None,10.4,4,Nuggets,Hawks,96 - 106,0,27,3,Jumper
+133,Kent Bazemore,DEFENSIVE_REBOUND,None,7.5,4,Hawks,Nuggets,96 - 106,1,N/A,N/A,N/A
+134,Kent Bazemore,TURNOVER,Malik Beasley,4.0,4,Hawks,Nuggets,96 - 106,1,N/A,N/A,N/A
+135,John Collins,FOUL_FLAGRANT_2,None,2.6,4,Hawks,Nuggets,96 - 106,1,N/A,N/A,N/A
+136,John Collins,Unknown,None,2.6,4,Hawks,Nuggets,96 - 106,1,N/A,N/A,N/A
+137,Vince Carter,SUBSTITUTION,Collins John,2.6,4,Hawks,Nuggets,96 - 106,1,N/A,N/A,N/A
+138,Malik Beasley,FT,None,2.6,4,Nuggets,Hawks,97 - 106,0,N/A,1,N/A
+139,Malik Beasley,FT,None,2.6,4,Nuggets,Hawks,98 - 106,0,N/A,1,N/A
+140,End of,Unknown,None,0.0,4,Hawks,Nuggets,98 - 106,1,N/A,N/A,N/A
+141,End of,Unknown,None,0.0,4,Hawks,Nuggets,98 - 106,1,N/A,N/A,N/A

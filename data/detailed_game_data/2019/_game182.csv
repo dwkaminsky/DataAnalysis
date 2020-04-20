@@ -1,0 +1,487 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Myles Turner,JUMP_BALL,None,12:00,1,Pacers,Lakers,0 - 0,0,N/A,N/A,N/A
+1,Darren Collison,FG_MISS,None,11:41,1,Pacers,Lakers,0 - 0,0,18,2,Jumper
+2,Kyle Kuzma,DEFENSIVE_REBOUND,None,11:37,1,Lakers,Pacers,0 - 0,1,N/A,N/A,N/A
+3,Brandon Ingram,FG_ASSISTED,LeBron James,11:26,1,Lakers,Pacers,0 - 2,1,0,2,Dunk
+4,Myles Turner,FG_MISS,JaVale McGee,11:08,1,Lakers,Pacers,0 - 2,0,0,2,Layup
+5,Kyle Kuzma,DEFENSIVE_REBOUND,None,11:06,1,Lakers,Pacers,0 - 2,1,N/A,N/A,N/A
+6,Kyle Kuzma,FG_UNASSISTED,None,11:03,1,Lakers,Pacers,0 - 4,1,-,2,Jumper
+7,Tyreke Evans,FG_MISS,None,10:41,1,Pacers,Lakers,0 - 4,0,0,2,Layup
+8,Lonzo Ball,DEFENSIVE_REBOUND,None,10:39,1,Lakers,Pacers,0 - 4,1,N/A,N/A,N/A
+9,Myles Turner,FOUL_ON_FLOOR,None,10:37,1,Pacers,Lakers,0 - 4,0,N/A,N/A,N/A
+10,LeBron James,FT_MISS,None,10:37,1,Lakers,Pacers,0 - 4,1,N/A,1,N/A
+11,Team,OFFENSIVE_REBOUND,None,10:37,1,Lakers,Pacers,0 - 4,1,N/A,N/A,N/A
+12,LeBron James,FT_MISS,None,10:37,1,Lakers,Pacers,0 - 4,1,N/A,1,N/A
+13,Bojan Bogdanovic,DEFENSIVE_REBOUND,None,10:35,1,Pacers,Lakers,0 - 4,0,N/A,N/A,N/A
+14,Thaddeus Young,FG_MISS,None,10:13,1,Pacers,Lakers,0 - 4,0,2,2,Jumper
+15,Brandon Ingram,DEFENSIVE_REBOUND,None,10:11,1,Lakers,Pacers,0 - 4,1,N/A,N/A,N/A
+16,LeBron James,FG_UNASSISTED,None,9:57,1,Lakers,Pacers,0 - 6,1,-,2,Jumper
+17,Kyle Kuzma,FOUL_ON_FLOOR,None,9:42,1,Lakers,Pacers,0 - 6,1,N/A,N/A,N/A
+18,Darren Collison,FG_MISS,None,9:31,1,Pacers,Lakers,0 - 6,0,-,2,Jumper
+19,LeBron James,DEFENSIVE_REBOUND,None,9:28,1,Lakers,Pacers,0 - 6,1,N/A,N/A,N/A
+20,JaVale McGee,FG_ASSISTED,LeBron James,9:25,1,Lakers,Pacers,0 - 8,1,0,2,Dunk
+21,Team,Unknown,None,9:20,1,Pacers,Lakers,0 - 8,0,N/A,N/A,N/A
+22,Thaddeus Young,TURNOVER,None,9:09,1,Pacers,Lakers,0 - 8,0,N/A,N/A,N/A
+23,LeBron James,FG_ASSISTED,Brandon Ingram,8:54,1,Lakers,Pacers,0 - 10,1,0,2,Layup
+24,Myles Turner,FG_MISS,None,8:39,1,Pacers,Lakers,0 - 10,0,18,2,Jumper
+25,Lonzo Ball,DEFENSIVE_REBOUND,None,8:36,1,Lakers,Pacers,0 - 10,1,N/A,N/A,N/A
+26,Kyle Kuzma,FG_ASSISTED,JaVale McGee,8:29,1,Lakers,Pacers,0 - 13,1, ,3,Jumper
+27,Bojan Bogdanovic,FG_MISS,None,8:13,1,Pacers,Lakers,0 - 13,0, ,2,Jumper
+28,Lonzo Ball,DEFENSIVE_REBOUND,None,8:09,1,Lakers,Pacers,0 - 13,1,N/A,N/A,N/A
+29,LeBron James,FG_MISS,None,8:06,1,Lakers,Pacers,0 - 13,1,25,3,Jumper
+30,Myles Turner,DEFENSIVE_REBOUND,None,8:02,1,Pacers,Lakers,0 - 13,0,N/A,N/A,N/A
+31,Darren Collison's,FG_MISS,Lonzo Ball,7:58,1,Lakers,Pacers,0 - 13,0,0,2,Layup
+32,Team,OFFENSIVE_REBOUND,None,7:58,1,Pacers,Lakers,0 - 13,0,N/A,N/A,N/A
+33,Tyreke Evans,FG_MISS,None,7:51,1,Pacers,Lakers,0 - 13,0,26,3,Jumper
+34,Kyle Kuzma,DEFENSIVE_REBOUND,None,7:48,1,Lakers,Pacers,0 - 13,1,N/A,N/A,N/A
+35,Kyle Kuzma,TURNOVER,Thaddeus Young,7:44,1,Lakers,Pacers,0 - 13,1,N/A,N/A,N/A
+36,Thaddeus Young's,FG_MISS,JaVale McGee,7:40,1,Lakers,Pacers,0 - 13,0, ,2,Jumper
+37,Myles Turner,OFFENSIVE_REBOUND,None,7:37,1,Pacers,Lakers,0 - 13,0,N/A,N/A,N/A
+38,Myles Turner's,FG_MISS,Brandon Ingram,7:36,1,Lakers,Pacers,0 - 13,0, ,2,Jumper
+39,JaVale McGee,DEFENSIVE_REBOUND,None,7:34,1,Lakers,Pacers,0 - 13,1,N/A,N/A,N/A
+40,JaVale McGee,TURNOVER,Tyreke Evans,7:31,1,Lakers,Pacers,0 - 13,1,N/A,N/A,N/A
+41,Thaddeus Young,FG_ASSISTED,Tyreke Evans,7:26,1,Pacers,Lakers,2 - 13,0, ,2,Jumper
+42,Kyle Kuzma,FG_MISS,None,7:13,1,Lakers,Pacers,2 - 13,1,26,3,Jumper
+43,Darren Collison,DEFENSIVE_REBOUND,None,7:08,1,Pacers,Lakers,2 - 13,0,N/A,N/A,N/A
+44,Thaddeus Young,FG_MISS,None,6:57,1,Pacers,Lakers,2 - 13,0,0,2,Layup
+45,Thaddeus Young,OFFENSIVE_REBOUND,None,6:51,1,Pacers,Lakers,2 - 13,0,N/A,N/A,N/A
+46,Thaddeus Young,FG_MISS,None,6:51,1,Pacers,Lakers,2 - 13,0, ,2,Jumper
+47,JaVale McGee,DEFENSIVE_REBOUND,None,6:51,1,Lakers,Pacers,2 - 13,1,N/A,N/A,N/A
+48,Tyreke Evans,FOUL_ON_FLOOR,None,6:47,1,Pacers,Lakers,2 - 13,0,N/A,N/A,N/A
+49,enters the,SUBSTITUTION,McGee JaVale,6:47,1,Lakers,Pacers,2 - 13,1,N/A,N/A,N/A
+50,LeBron James,FG_ASSISTED,Lonzo Ball,6:39,1,Lakers,Pacers,2 - 15,1,4,2,Jumper
+51,Bojan Bogdanovic,FG_ASSISTED,Myles Turner,6:24,1,Pacers,Lakers,4 - 15,0,2,2,Jumper
+52,Tyson Chandler,FOUL_ON_FLOOR,None,6:24,1,Lakers,Pacers,4 - 15,1,N/A,N/A,N/A
+53,Bojan Bogdanovic,FT,None,6:24,1,Pacers,Lakers,5 - 15,0,N/A,1,N/A
+54,Brandon Ingram,FG_ASSISTED,LeBron James,6:15,1,Lakers,Pacers,5 - 17,1,0,2,Dunk
+55,Darren Collison,FG_MISS,None,5:58,1,Pacers,Lakers,5 - 17,0,26,3,Jumper
+56,LeBron James,DEFENSIVE_REBOUND,None,5:55,1,Lakers,Pacers,5 - 17,1,N/A,N/A,N/A
+57,LeBron James,TURNOVER,Darren Collison,5:49,1,Lakers,Pacers,5 - 17,1,N/A,N/A,N/A
+58,Darren Collison's,FG_MISS,Lonzo Ball,5:45,1,Lakers,Pacers,5 - 17,0, ,2,Jumper
+59,Tyreke Evans,OFFENSIVE_REBOUND,None,5:43,1,Pacers,Lakers,5 - 17,0,N/A,N/A,N/A
+60,Tyreke Evans's,FG_MISS,Brandon Ingram,5:42,1,Lakers,Pacers,5 - 17,0, ,2,Jumper
+61,Team,OFFENSIVE_REBOUND,None,5:42,1,Pacers,Lakers,5 - 17,0,N/A,N/A,N/A
+62,Tyreke Evans,FG_MISS,Tyson Chandler,5:31,1,Lakers,Pacers,5 - 17,0,0,2,Layup
+63,Team,OFFENSIVE_REBOUND,None,5:31,1,Pacers,Lakers,5 - 17,0,N/A,N/A,N/A
+64,Myles Turner,FG_MISS,None,5:26,1,Pacers,Lakers,5 - 17,0,11,2,Jumper
+65,Tyson Chandler,DEFENSIVE_REBOUND,None,5:24,1,Lakers,Pacers,5 - 17,1,N/A,N/A,N/A
+66,LeBron James,FG_ASSISTED,Lonzo Ball,5:16,1,Lakers,Pacers,5 - 19,1,0,2,Layup
+67,Myles Turner,Unknown,None,5:16,1,Pacers,Lakers,5 - 19,0,N/A,N/A,N/A
+68,Kyle Kuzma,FOUL_ON_FLOOR,None,5:09,1,Lakers,Pacers,5 - 19,1,N/A,N/A,N/A
+69,Josh Hart,SUBSTITUTION,Kuzma Kyle,5:09,1,Lakers,Pacers,5 - 19,1,N/A,N/A,N/A
+70,Tyreke Evans,TURNOVER,Josh Hart,5:03,1,Pacers,Lakers,5 - 19,0,N/A,N/A,N/A
+71,Josh Hart,FG_ASSISTED,Brandon Ingram,4:58,1,Lakers,Pacers,5 - 21,1, ,2,Jumper
+72,Tyreke Evans,TURNOVER,None,4:50,1,Pacers,Lakers,5 - 21,0,N/A,N/A,N/A
+73,Domantas Sabonis,SUBSTITUTION,Evans Tyreke,4:50,1,Pacers,Lakers,5 - 21,0,N/A,N/A,N/A
+74,Cory Joseph,SUBSTITUTION,Young Thaddeus,4:50,1,Pacers,Lakers,5 - 21,0,N/A,N/A,N/A
+75,Brandon Ingram,FG_MISS,None,4:43,1,Lakers,Pacers,5 - 21,1,0,2,Layup
+76,Lonzo Ball,OFFENSIVE_REBOUND,None,4:40,1,Lakers,Pacers,5 - 21,1,N/A,N/A,N/A
+77,Lonzo Ball,FG_UNASSISTED,None,4:37,1,Lakers,Pacers,5 - 23,1, ,2,Jumper
+78,Team,Unknown,None,4:34,1,Pacers,Lakers,5 - 23,0,N/A,N/A,N/A
+79,Lance Stephenson,SUBSTITUTION,Ingram Brandon,4:34,1,Lakers,Pacers,5 - 23,1,N/A,N/A,N/A
+80,Doug McDermott,SUBSTITUTION,Collison Darren,4:34,1,Pacers,Lakers,5 - 23,0,N/A,N/A,N/A
+81,Josh Hart,FOUL_ON_FLOOR,None,4:28,1,Lakers,Pacers,5 - 23,1,N/A,N/A,N/A
+82,Lonzo Ball,FOUL_ON_FLOOR,None,4:19,1,Lakers,Pacers,5 - 23,1,N/A,N/A,N/A
+83,Cory Joseph,FT_MISS,None,4:19,1,Pacers,Lakers,5 - 23,0,N/A,1,N/A
+84,Team,OFFENSIVE_REBOUND,None,4:19,1,Pacers,Lakers,5 - 23,0,N/A,N/A,N/A
+85,Cory Joseph,FT,None,4:19,1,Pacers,Lakers,6 - 23,0,N/A,1,N/A
+86,LeBron James,FG_UNASSISTED,None,4:01,1,Lakers,Pacers,6 - 25,1,19,2,Jumper
+87,Doug McDermott,FG_ASSISTED,Domantas Sabonis,3:50,1,Pacers,Lakers,8 - 25,0,11,2,Jumper
+88,Lonzo Ball,FG_MISS,None,3:33,1,Lakers,Pacers,8 - 25,1, ,2,Jumper
+89,Domantas Sabonis,DEFENSIVE_REBOUND,None,3:31,1,Pacers,Lakers,8 - 25,0,N/A,N/A,N/A
+90,Myles Turner,FOUL_ON_FLOOR,None,3:25,1,Pacers,Lakers,8 - 25,0,N/A,N/A,N/A
+91,Myles Turner,TURNOVER,None,3:25,1,Pacers,Lakers,8 - 25,0,N/A,N/A,N/A
+92,Kentavious Caldwell-Pope,SUBSTITUTION,Ball Lonzo,3:25,1,Lakers,Pacers,8 - 25,1,N/A,N/A,N/A
+93,Aaron Holiday,SUBSTITUTION,Turner Myles,3:25,1,Pacers,Lakers,8 - 25,0,N/A,N/A,N/A
+94,Domantas Sabonis,FOUL_ON_FLOOR,None,3:17,1,Pacers,Lakers,8 - 25,0,N/A,N/A,N/A
+95,Tyson Chandler,FT,None,3:17,1,Lakers,Pacers,8 - 26,1,N/A,1,N/A
+96,Tyson Chandler,FT_MISS,None,3:17,1,Lakers,Pacers,8 - 26,1,N/A,1,N/A
+97,Bojan Bogdanovic,DEFENSIVE_REBOUND,None,3:15,1,Pacers,Lakers,8 - 26,0,N/A,N/A,N/A
+98,Aaron Holiday,FG_MISS,None,3:06,1,Pacers,Lakers,8 - 26,0,14,2,Jumper
+99,Tyson Chandler,DEFENSIVE_REBOUND,None,3:02,1,Lakers,Pacers,8 - 26,1,N/A,N/A,N/A
+100,LeBron James,TURNOVER,None,2:57,1,Lakers,Pacers,8 - 26,1,N/A,N/A,N/A
+101,Cory Joseph,FG_UNASSISTED,None,2:40,1,Pacers,Lakers,10 - 26,0,14,2,Jumper
+102,Kentavious Caldwell-Pope,FG_ASSISTED,Josh Hart,2:27,1,Lakers,Pacers,10 - 29,1,23,3,Jumper
+103,LeBron James,FOUL_ON_FLOOR,None,2:12,1,Lakers,Pacers,10 - 29,1,N/A,N/A,N/A
+104,Bojan Bogdanovic,FT_MISS,None,2:12,1,Pacers,Lakers,10 - 29,0,N/A,1,N/A
+105,Team,OFFENSIVE_REBOUND,None,2:12,1,Pacers,Lakers,10 - 29,0,N/A,N/A,N/A
+106,Bojan Bogdanovic,FT,None,2:12,1,Pacers,Lakers,11 - 29,0,N/A,1,N/A
+107,LeBron James,FG_UNASSISTED,None,2:00,1,Lakers,Pacers,11 - 31,1,12,2,Jumper
+108,Aaron Holiday,TURNOVER,Lance Stephenson,1:48,1,Pacers,Lakers,11 - 31,0,N/A,N/A,N/A
+109,Doug McDermott,FOUL_ON_FLOOR,None,1:46,1,Pacers,Lakers,11 - 31,0,N/A,N/A,N/A
+110,Lance Stephenson,FG_MISS,Doug McDermott,1:38,1,Pacers,Lakers,11 - 31,1,0,2,Layup
+111,Team,OFFENSIVE_REBOUND,None,1:38,1,Lakers,Pacers,11 - 31,1,N/A,N/A,N/A
+112,LeBron James,FG_MISS,None,1:30,1,Lakers,Pacers,11 - 31,1,17,2,Jumper
+113,Cory Joseph,DEFENSIVE_REBOUND,None,1:28,1,Pacers,Lakers,11 - 31,0,N/A,N/A,N/A
+114,Domantas Sabonis,TURNOVER,Josh Hart,1:19,1,Pacers,Lakers,11 - 31,0,N/A,N/A,N/A
+115,Kentavious Caldwell-Pope,FG_ASSISTED,Josh Hart,1:16,1,Lakers,Pacers,11 - 33,1,0,2,Dunk
+116,Cory Joseph,FG_ASSISTED,Domantas Sabonis,1:02,1,Pacers,Lakers,13 - 33,0, ,2,Jumper
+117,Lance Stephenson,FG_MISS,None,41.1,1,Lakers,Pacers,13 - 33,1,21,2,Jumper
+118,Domantas Sabonis,DEFENSIVE_REBOUND,None,38.4,1,Pacers,Lakers,13 - 33,0,N/A,N/A,N/A
+119,Domantas Sabonis,FG_MISS,None,32.2,1,Pacers,Lakers,13 - 33,0,18,2,Jumper
+120,Lance Stephenson,DEFENSIVE_REBOUND,None,29.7,1,Lakers,Pacers,13 - 33,1,N/A,N/A,N/A
+121,Kentavious Caldwell-Pope,FG_ASSISTED,LeBron James,10.8,1,Lakers,Pacers,13 - 36,1,24,3,Jumper
+122,Josh Hart,FOUL_ON_FLOOR,None,4.5,1,Lakers,Pacers,13 - 36,1,N/A,N/A,N/A
+123,Domantas Sabonis,FT,None,4.5,1,Pacers,Lakers,14 - 36,0,N/A,1,N/A
+124,Domantas Sabonis,FT,None,4.5,1,Pacers,Lakers,15 - 36,0,N/A,1,N/A
+125,Doug McDermott,FOUL_ON_FLOOR,None,0.6,1,Pacers,Lakers,15 - 36,0,N/A,N/A,N/A
+126,LeBron James,FT,None,0.6,1,Lakers,Pacers,15 - 37,1,N/A,1,N/A
+127,LeBron James,FT,None,0.6,1,Lakers,Pacers,15 - 38,1,N/A,1,N/A
+128,End of,Unknown,None,0.0,1,Lakers,Pacers,15 - 38,1,N/A,N/A,N/A
+0,JaVale McGee,SUBSTITUTION,Chandler Tyson,12:00,2,Lakers,Pacers,15 - 38,1,N/A,N/A,N/A
+1,Michael Beasley,SUBSTITUTION,Stephenson Lance,12:00,2,Lakers,Pacers,15 - 38,1,N/A,N/A,N/A
+2,Brandon Ingram,SUBSTITUTION,James LeBron,12:00,2,Lakers,Pacers,15 - 38,1,N/A,N/A,N/A
+3,Thaddeus Young,SUBSTITUTION,Bogdanovic Bojan,12:00,2,Pacers,Lakers,15 - 38,0,N/A,N/A,N/A
+4,Michael Beasley,FG_MISS,None,11:43,2,Lakers,Pacers,15 - 38,1,10,2,Jumper
+5,JaVale McGee,OFFENSIVE_REBOUND,None,11:40,2,Lakers,Pacers,15 - 38,1,N/A,N/A,N/A
+6,Brandon Ingram,FG_MISS,None,11:36,2,Lakers,Pacers,15 - 38,1,17,2,Jumper
+7,Cory Joseph,DEFENSIVE_REBOUND,None,11:32,2,Pacers,Lakers,15 - 38,0,N/A,N/A,N/A
+8,Aaron Holiday,FG_ASSISTED,Cory Joseph,11:27,2,Pacers,Lakers,18 - 38,0,27,3,Jumper
+9,Josh Hart,FG_MISS,None,11:08,2,Lakers,Pacers,18 - 38,1,24,3,Jumper
+10,Doug McDermott,DEFENSIVE_REBOUND,None,11:06,2,Pacers,Lakers,18 - 38,0,N/A,N/A,N/A
+11,Aaron Holiday,FG_MISS,None,11:02,2,Pacers,Lakers,18 - 38,0, ,2,Jumper
+12,Michael Beasley,DEFENSIVE_REBOUND,None,10:59,2,Lakers,Pacers,18 - 38,1,N/A,N/A,N/A
+13,Brandon Ingram,FG_MISS,None,10:52,2,Lakers,Pacers,18 - 38,1,12,2,Jumper
+14,JaVale McGee,OFFENSIVE_REBOUND,None,10:50,2,Lakers,Pacers,18 - 38,1,N/A,N/A,N/A
+15,Michael Beasley,FG_ASSISTED,JaVale McGee,10:47,2,Lakers,Pacers,18 - 40,1,0,2,Layup
+16,Cory Joseph,TURNOVER,Josh Hart,10:34,2,Pacers,Lakers,18 - 40,0,N/A,N/A,N/A
+17,Josh Hart,FG_UNASSISTED,None,10:29,2,Lakers,Pacers,18 - 42,1,0,2,Dunk
+18,Doug McDermott,FG_ASSISTED,Cory Joseph,10:19,2,Pacers,Lakers,21 - 42,0,24,3,Jumper
+19,Kentavious Caldwell-Pope,FG_MISS,None,9:53,2,Lakers,Pacers,21 - 42,1,25,3,Jumper
+20,Cory Joseph,DEFENSIVE_REBOUND,None,9:50,2,Pacers,Lakers,21 - 42,0,N/A,N/A,N/A
+21,Michael Beasley,FOUL_ON_FLOOR,None,9:44,2,Lakers,Pacers,21 - 42,1,N/A,N/A,N/A
+22,Aaron Holiday,FT,None,9:44,2,Pacers,Lakers,22 - 42,0,N/A,1,N/A
+23,Aaron Holiday,FT,None,9:44,2,Pacers,Lakers,23 - 42,0,N/A,1,N/A
+24,Michael Beasley,TURNOVER,Thaddeus Young,9:25,2,Lakers,Pacers,23 - 42,1,N/A,N/A,N/A
+25,Michael Beasley,FOUL_ON_FLOOR,None,9:23,2,Lakers,Pacers,23 - 42,1,N/A,N/A,N/A
+26,Thaddeus Young,FT_MISS,None,9:23,2,Pacers,Lakers,23 - 42,0,N/A,1,N/A
+27,Team,OFFENSIVE_REBOUND,None,9:23,2,Pacers,Lakers,23 - 42,0,N/A,N/A,N/A
+28,Thaddeus Young,FT,None,9:23,2,Pacers,Lakers,24 - 42,0,N/A,1,N/A
+29,Michael Beasley,FG_ASSISTED,Kentavious Caldwell-Pope,9:08,2,Lakers,Pacers,24 - 44,1, ,2,Jumper
+30,Domantas Sabonis,FG_MISS,None,8:53,2,Pacers,Lakers,24 - 44,0,4,2,Jumper
+31,Domantas Sabonis,OFFENSIVE_REBOUND,None,8:53,2,Pacers,Lakers,24 - 44,0,N/A,N/A,N/A
+32,Domantas Sabonis,FG_UNASSISTED,None,8:53,2,Pacers,Lakers,26 - 44,0,3,2,Jumper
+33,JaVale McGee,Unknown,None,8:53,2,Lakers,Pacers,26 - 44,1,N/A,N/A,N/A
+34,Brandon Ingram,FG_UNASSISTED,None,8:36,2,Lakers,Pacers,26 - 46,1,4,2,Jumper
+35,Cory Joseph,FG_MISS,None,8:26,2,Pacers,Lakers,26 - 46,0,13,2,Jumper
+36,Domantas Sabonis,OFFENSIVE_REBOUND,None,8:24,2,Pacers,Lakers,26 - 46,0,N/A,N/A,N/A
+37,Michael Beasley,FOUL_ON_FLOOR,None,8:24,2,Lakers,Pacers,26 - 46,1,N/A,N/A,N/A
+38,Domantas Sabonis,FT,None,8:24,2,Pacers,Lakers,27 - 46,0,N/A,1,N/A
+39,Domantas Sabonis,FT_MISS,None,8:24,2,Pacers,Lakers,27 - 46,0,N/A,1,N/A
+40,JaVale McGee,DEFENSIVE_REBOUND,None,8:21,2,Lakers,Pacers,27 - 46,1,N/A,N/A,N/A
+41,Michael Beasley,TURNOVER,Aaron Holiday,8:03,2,Lakers,Pacers,27 - 46,1,N/A,N/A,N/A
+42,Cory Joseph,TURNOVER,Michael Beasley,7:53,2,Pacers,Lakers,27 - 46,0,N/A,N/A,N/A
+43,Josh Hart,FG_ASSISTED,Michael Beasley,7:48,2,Lakers,Pacers,27 - 48,1, ,2,Jumper
+44,Cory Joseph,FG_ASSISTED,Aaron Holiday,7:41,2,Pacers,Lakers,30 - 48,0,29,2,Jumper
+45,Team,Unknown,None,7:40,2,Lakers,Pacers,30 - 48,1,N/A,N/A,N/A
+46,Kyle Kuzma,SUBSTITUTION,Hart Josh,7:40,2,Lakers,Pacers,30 - 48,1,N/A,N/A,N/A
+47,Lonzo Ball,SUBSTITUTION,Beasley Michael,7:40,2,Lakers,Pacers,30 - 48,1,N/A,N/A,N/A
+48,Lonzo Ball,TURNOVER,Domantas Sabonis,7:26,2,Lakers,Pacers,30 - 48,1,N/A,N/A,N/A
+49,Aaron Holiday,FG_MISS,None,7:17,2,Pacers,Lakers,30 - 48,0,27,3,Jumper
+50,Kyle Kuzma,DEFENSIVE_REBOUND,None,7:14,2,Lakers,Pacers,30 - 48,1,N/A,N/A,N/A
+51,Kentavious Caldwell-Pope,FG_MISS,None,6:53,2,Lakers,Pacers,30 - 48,1,27,3,Jumper
+52,Thaddeus Young,DEFENSIVE_REBOUND,None,6:48,2,Pacers,Lakers,30 - 48,0,N/A,N/A,N/A
+53,JaVale McGee,FOUL_ON_FLOOR,None,6:41,2,Lakers,Pacers,30 - 48,1,N/A,N/A,N/A
+54,Domantas Sabonis,FT,None,6:41,2,Pacers,Lakers,31 - 48,0,N/A,1,N/A
+55,LeBron James,SUBSTITUTION,Caldwell-Pope Kentavious,6:41,2,Lakers,Pacers,31 - 48,1,N/A,N/A,N/A
+56,Tyson Chandler,SUBSTITUTION,McGee JaVale,6:41,2,Lakers,Pacers,31 - 48,1,N/A,N/A,N/A
+57,Bojan Bogdanovic,SUBSTITUTION,McDermott Doug,6:41,2,Pacers,Lakers,31 - 48,0,N/A,N/A,N/A
+58,Tyreke Evans,SUBSTITUTION,Holiday Aaron,6:41,2,Pacers,Lakers,31 - 48,0,N/A,N/A,N/A
+59,Domantas Sabonis,FT,None,6:41,2,Pacers,Lakers,32 - 48,0,N/A,1,N/A
+60,LeBron James,FG_ASSISTED,Lonzo Ball,6:38,2,Lakers,Pacers,32 - 50,1,0,2,Layup
+61,Bojan Bogdanovic,FOUL_ON_FLOOR,None,6:38,2,Pacers,Lakers,32 - 50,0,N/A,N/A,N/A
+62,LeBron James,FT,None,6:38,2,Lakers,Pacers,32 - 51,1,N/A,1,N/A
+63,Domantas Sabonis,FG_ASSISTED,Tyreke Evans,6:18,2,Pacers,Lakers,34 - 51,0, ,2,Jumper
+64,Thaddeus Young,FOUL_ON_FLOOR,None,6:02,2,Pacers,Lakers,34 - 51,0,N/A,N/A,N/A
+65,Brandon Ingram,FT_MISS,None,6:02,2,Lakers,Pacers,34 - 51,1,N/A,1,N/A
+66,Team,OFFENSIVE_REBOUND,None,6:02,2,Lakers,Pacers,34 - 51,1,N/A,N/A,N/A
+67,Brandon Ingram,FT,None,6:02,2,Lakers,Pacers,34 - 52,1,N/A,1,N/A
+68,Brandon Ingram,FOUL_ON_FLOOR,None,5:57,2,Lakers,Pacers,34 - 52,1,N/A,N/A,N/A
+69,Tyreke Evans,FT_MISS,None,5:57,2,Pacers,Lakers,34 - 52,0,N/A,1,N/A
+70,Team,OFFENSIVE_REBOUND,None,5:57,2,Pacers,Lakers,34 - 52,0,N/A,N/A,N/A
+71,Myles Turner,SUBSTITUTION,Young Thaddeus,5:57,2,Pacers,Lakers,34 - 52,0,N/A,N/A,N/A
+72,Tyreke Evans,FT,None,5:57,2,Pacers,Lakers,35 - 52,0,N/A,1,N/A
+73,Brandon Ingram,FG_MISS,None,5:41,2,Lakers,Pacers,35 - 52,1,0,2,Layup
+74,Tyreke Evans,DEFENSIVE_REBOUND,None,5:37,2,Pacers,Lakers,35 - 52,0,N/A,N/A,N/A
+75,Tyreke Evans,FG_MISS,None,5:33,2,Pacers,Lakers,35 - 52,0, ,2,Jumper
+76,Domantas Sabonis,OFFENSIVE_REBOUND,None,5:28,2,Pacers,Lakers,35 - 52,0,N/A,N/A,N/A
+77,Domantas Sabonis,FG_UNASSISTED,None,5:28,2,Pacers,Lakers,37 - 52,0, ,2,Jumper
+78,Tyson Chandler,FG_MISS,None,5:13,2,Lakers,Pacers,37 - 52,1,2,2,Jumper
+79,Domantas Sabonis,DEFENSIVE_REBOUND,None,5:11,2,Pacers,Lakers,37 - 52,0,N/A,N/A,N/A
+80,Domantas Sabonis,FG_ASSISTED,Cory Joseph,5:02,2,Pacers,Lakers,40 - 52,0,25,3,Jumper
+81,Team,Unknown,None,5:00,2,Lakers,Pacers,40 - 52,1,N/A,N/A,N/A
+82,Darren Collison,SUBSTITUTION,Joseph Cory,5:00,2,Pacers,Lakers,40 - 52,0,N/A,N/A,N/A
+83,Kyle Kuzma,FG_UNASSISTED,None,4:43,2,Lakers,Pacers,40 - 54,1,0,2,Layup
+84,Myles Turner,FG_MISS,None,4:20,2,Pacers,Lakers,40 - 54,0,11,2,Jumper
+85,Tyson Chandler,DEFENSIVE_REBOUND,None,4:17,2,Lakers,Pacers,40 - 54,1,N/A,N/A,N/A
+86,Kyle Kuzma,FG_MISS,None,4:10,2,Lakers,Pacers,40 - 54,1,25,3,Jumper
+87,Myles Turner,DEFENSIVE_REBOUND,None,4:07,2,Pacers,Lakers,40 - 54,0,N/A,N/A,N/A
+88,Domantas Sabonis,FG_MISS,None,3:57,2,Pacers,Lakers,40 - 54,0,18,2,Jumper
+89,Kyle Kuzma,DEFENSIVE_REBOUND,None,3:53,2,Lakers,Pacers,40 - 54,1,N/A,N/A,N/A
+90,Lonzo Ball,FG_MISS,None,3:49,2,Lakers,Pacers,40 - 54,1, ,2,Jumper
+91,Team,OFFENSIVE_REBOUND,None,3:49,2,Lakers,Pacers,40 - 54,1,N/A,N/A,N/A
+92,Tyson Chandler,FOUL_ON_FLOOR,None,3:49,2,Lakers,Pacers,40 - 54,1,N/A,N/A,N/A
+93,Tyson Chandler,TURNOVER,None,3:49,2,Lakers,Pacers,40 - 54,1,N/A,N/A,N/A
+94,Tyreke Evans,TURNOVER,LeBron James,3:33,2,Pacers,Lakers,40 - 54,0,N/A,N/A,N/A
+95,Kyle Kuzma,FG_ASSISTED,LeBron James,3:29,2,Lakers,Pacers,40 - 56,1,0,2,Dunk
+96,Tyreke Evans,FG_MISS,None,3:01,2,Pacers,Lakers,40 - 56,0,29,3,Jumper
+97,Lonzo Ball,DEFENSIVE_REBOUND,None,2:58,2,Lakers,Pacers,40 - 56,1,N/A,N/A,N/A
+98,LeBron James,FG_MISS,None,2:42,2,Lakers,Pacers,40 - 56,1,9,2,Jumper
+99,Lonzo Ball,OFFENSIVE_REBOUND,None,2:38,2,Lakers,Pacers,40 - 56,1,N/A,N/A,N/A
+100,Lonzo Ball,TURNOVER,Tyreke Evans,2:37,2,Lakers,Pacers,40 - 56,1,N/A,N/A,N/A
+101,Bojan Bogdanovic,FG_ASSISTED,Tyreke Evans,2:33,2,Pacers,Lakers,43 - 56,0,25,3,Jumper
+102,Kyle Kuzma,FG_MISS,None,2:12,2,Lakers,Pacers,43 - 56,1,23,3,Jumper
+103,Domantas Sabonis,DEFENSIVE_REBOUND,None,2:09,2,Pacers,Lakers,43 - 56,0,N/A,N/A,N/A
+104,Darren Collison,FG_MISS,None,1:59,2,Pacers,Lakers,43 - 56,0,17,2,Jumper
+105,LeBron James,DEFENSIVE_REBOUND,None,1:55,2,Lakers,Pacers,43 - 56,1,N/A,N/A,N/A
+106,Darren Collison,FOUL_ON_FLOOR,None,1:54,2,Pacers,Lakers,43 - 56,0,N/A,N/A,N/A
+107,JaVale McGee,SUBSTITUTION,Chandler Tyson,1:54,2,Lakers,Pacers,43 - 56,1,N/A,N/A,N/A
+108,Brandon Ingram,FG_MISS,None,1:46,2,Lakers,Pacers,43 - 56,1,0,2,Layup
+109,Darren Collison,DEFENSIVE_REBOUND,None,1:45,2,Pacers,Lakers,43 - 56,0,N/A,N/A,N/A
+110,Domantas Sabonis,FG_ASSISTED,Tyreke Evans,1:39,2,Pacers,Lakers,45 - 56,0,0,2,Layup
+111,Lonzo Ball,TURNOVER,Darren Collison,1:26,2,Lakers,Pacers,45 - 56,1,N/A,N/A,N/A
+112,Darren Collison,FG_ASSISTED,Bojan Bogdanovic,1:20,2,Pacers,Lakers,48 - 56,0,23,3,Jumper
+113,Team,Unknown,None,1:18,2,Lakers,Pacers,48 - 56,1,N/A,N/A,N/A
+114,Kyle Kuzma,FG_MISS,None,1:02,2,Lakers,Pacers,48 - 56,1, ,2,Jumper
+115,Domantas Sabonis,DEFENSIVE_REBOUND,None,1:00,2,Pacers,Lakers,48 - 56,0,N/A,N/A,N/A
+116,Lonzo Ball,FOUL_ON_FLOOR,None,58.5,2,Lakers,Pacers,48 - 56,1,N/A,N/A,N/A
+117,Tyreke Evans,FT,None,58.5,2,Pacers,Lakers,49 - 56,0,N/A,1,N/A
+118,Josh Hart,SUBSTITUTION,Kuzma Kyle,58.5,2,Lakers,Pacers,49 - 56,1,N/A,N/A,N/A
+119,Tyreke Evans,FT,None,58.5,2,Pacers,Lakers,50 - 56,0,N/A,1,N/A
+120,JaVale McGee,FG_MISS,None,43.1,2,Lakers,Pacers,50 - 56,1,3,2,Jumper
+121,Domantas Sabonis,DEFENSIVE_REBOUND,None,40.8,2,Pacers,Lakers,50 - 56,0,N/A,N/A,N/A
+122,Bojan Bogdanovic,FG_MISS,None,30.0,2,Pacers,Lakers,50 - 56,0,24,3,Jumper
+123,Bojan Bogdanovic,OFFENSIVE_REBOUND,None,26.8,2,Pacers,Lakers,50 - 56,0,N/A,N/A,N/A
+124,Bojan Bogdanovic,TURNOVER,None,26.1,2,Pacers,Lakers,50 - 56,0,N/A,N/A,N/A
+125,LeBron James,FG_MISS,None,3.8,2,Lakers,Pacers,50 - 56,1,26,3,Jumper
+126,Domantas Sabonis,DEFENSIVE_REBOUND,None,1.3,2,Pacers,Lakers,50 - 56,0,N/A,N/A,N/A
+127,Darren Collison,FG_MISS,None,0.1,2,Pacers,Lakers,50 - 56,0, ,2,Jumper
+128,Team,OFFENSIVE_REBOUND,None,0.1,2,Pacers,Lakers,50 - 56,0,N/A,N/A,N/A
+129,End of,Unknown,None,0.0,2,Lakers,Pacers,50 - 56,1,N/A,N/A,N/A
+0,Kyle Kuzma,SUBSTITUTION,Hart Josh,12:00,3,Lakers,Pacers,50 - 56,1,N/A,N/A,N/A
+1,Thaddeus Young,SUBSTITUTION,Sabonis Domantas,12:00,3,Pacers,Lakers,50 - 56,0,N/A,N/A,N/A
+2,Brandon Ingram,FG_UNASSISTED,None,11:39,3,Lakers,Pacers,50 - 58,1,9,2,Jumper
+3,Kyle Kuzma,FOUL_ON_FLOOR,None,11:23,3,Lakers,Pacers,50 - 58,1,N/A,N/A,N/A
+4,Bojan Bogdanovic,FT,None,11:23,3,Pacers,Lakers,51 - 58,0,N/A,1,N/A
+5,Bojan Bogdanovic,FT,None,11:23,3,Pacers,Lakers,52 - 58,0,N/A,1,N/A
+6,Brandon Ingram,FG_MISS,None,11:05,3,Lakers,Pacers,52 - 58,1,26,3,Jumper
+7,JaVale McGee,OFFENSIVE_REBOUND,None,11:00,3,Lakers,Pacers,52 - 58,1,N/A,N/A,N/A
+8,JaVale McGee,FG_MISS,None,10:58,3,Lakers,Pacers,52 - 58,1, ,2,Jumper
+9,Myles Turner,DEFENSIVE_REBOUND,None,10:56,3,Pacers,Lakers,52 - 58,0,N/A,N/A,N/A
+10,Myles Turner,FG_ASSISTED,Darren Collison,10:54,3,Pacers,Lakers,54 - 58,0,0,2,Layup
+11,JaVale McGee,TURNOVER,Thaddeus Young,10:48,3,Lakers,Pacers,54 - 58,1,N/A,N/A,N/A
+12,Thaddeus Young,FG_MISS,None,10:33,3,Pacers,Lakers,54 - 58,0,0,2,Layup
+13,LeBron James,DEFENSIVE_REBOUND,None,10:30,3,Lakers,Pacers,54 - 58,1,N/A,N/A,N/A
+14,JaVale McGee,FG_ASSISTED,LeBron James,10:24,3,Lakers,Pacers,54 - 60,1,2,2,Jumper
+15,Tyreke Evans,TURNOVER,None,10:10,3,Pacers,Lakers,54 - 60,0,N/A,N/A,N/A
+16,Brandon Ingram,FG_ASSISTED,JaVale McGee,9:52,3,Lakers,Pacers,54 - 62,1, ,2,Jumper
+17,Tyreke Evans,FOUL_ON_FLOOR,None,9:52,3,Pacers,Lakers,54 - 62,0,N/A,N/A,N/A
+18,Brandon Ingram,FT,None,9:52,3,Lakers,Pacers,54 - 63,1,N/A,1,N/A
+19,Myles Turner,FG_ASSISTED,Darren Collison,9:41,3,Pacers,Lakers,56 - 63,0,13,2,Jumper
+20,Brandon Ingram,FG_MISS,None,9:16,3,Lakers,Pacers,56 - 63,1,29,3,Jumper
+21,Myles Turner,DEFENSIVE_REBOUND,None,9:12,3,Pacers,Lakers,56 - 63,0,N/A,N/A,N/A
+22,Darren Collison,FG_UNASSISTED,None,9:06,3,Pacers,Lakers,58 - 63,0,20,2,Jumper
+23,LeBron James,FG_MISS,None,8:53,3,Lakers,Pacers,58 - 63,1,24,3,Jumper
+24,Lonzo Ball,OFFENSIVE_REBOUND,None,8:48,3,Lakers,Pacers,58 - 63,1,N/A,N/A,N/A
+25,Myles Turner,FOUL_ON_FLOOR,None,8:45,3,Pacers,Lakers,58 - 63,0,N/A,N/A,N/A
+26,Kyle Kuzma,FT,None,8:45,3,Lakers,Pacers,58 - 64,1,N/A,1,N/A
+27,JaVale McGee,TURNOVER,None,8:45,3,Lakers,Pacers,58 - 64,1,N/A,N/A,N/A
+28,Tyreke Evans,FG_ASSISTED,Bojan Bogdanovic,8:30,3,Pacers,Lakers,61 - 64,0,26,3,Jumper
+29,JaVale McGee,FG_ASSISTED,Lonzo Ball,8:13,3,Lakers,Pacers,61 - 66,1, ,2,Jumper
+30,Tyreke Evans,TURNOVER,None,8:07,3,Pacers,Lakers,61 - 66,0,N/A,N/A,N/A
+31,Tyreke Evans,FOUL_ON_FLOOR,None,7:50,3,Pacers,Lakers,61 - 66,0,N/A,N/A,N/A
+32,LeBron James,FG_MISS,None,7:44,3,Lakers,Pacers,61 - 66,1,7,2,Jumper
+33,Lonzo Ball,OFFENSIVE_REBOUND,None,7:40,3,Lakers,Pacers,61 - 66,1,N/A,N/A,N/A
+34,Lonzo Ball,TURNOVER,Darren Collison,7:39,3,Lakers,Pacers,61 - 66,1,N/A,N/A,N/A
+35,Tyreke Evans,TURNOVER,None,7:39,3,Pacers,Lakers,61 - 66,0,N/A,N/A,N/A
+36,Team,Unknown,None,7:39,3,Pacers,Lakers,61 - 66,0,N/A,N/A,N/A
+37,JaVale McGee,TURNOVER,Tyreke Evans,7:25,3,Lakers,Pacers,61 - 66,1,N/A,N/A,N/A
+38,Tyreke Evans,FG_MISS,JaVale McGee,7:21,3,Lakers,Pacers,61 - 66,0,4,2,Jumper
+39,Myles Turner,OFFENSIVE_REBOUND,None,7:16,3,Pacers,Lakers,61 - 66,0,N/A,N/A,N/A
+40,Myles Turner,TURNOVER,LeBron James,7:04,3,Pacers,Lakers,61 - 66,0,N/A,N/A,N/A
+41,LeBron James,TURNOVER,Darren Collison,7:02,3,Lakers,Pacers,61 - 66,1,N/A,N/A,N/A
+42,Brandon Ingram,FOUL_ON_FLOOR,None,7:02,3,Lakers,Pacers,61 - 66,1,N/A,N/A,N/A
+43,Lonzo Ball,FOUL_ON_FLOOR,None,6:51,3,Lakers,Pacers,61 - 66,1,N/A,N/A,N/A
+44,Team,Unknown,None,6:51,3,Lakers,Pacers,61 - 66,1,N/A,N/A,N/A
+45,Tyson Chandler,SUBSTITUTION,McGee JaVale,6:51,3,Lakers,Pacers,61 - 66,1,N/A,N/A,N/A
+46,Thaddeus Young,FG_ASSISTED,Darren Collison,6:40,3,Pacers,Lakers,63 - 66,0,0,2,Layup
+47,Brandon Ingram,FG_MISS,None,6:24,3,Lakers,Pacers,63 - 66,1,17,2,Jumper
+48,Thaddeus Young,DEFENSIVE_REBOUND,None,6:21,3,Pacers,Lakers,63 - 66,0,N/A,N/A,N/A
+49,Darren Collison,FG_MISS,None,6:11,3,Pacers,Lakers,63 - 66,0,26,2,Jumper
+50,Tyson Chandler,DEFENSIVE_REBOUND,None,6:08,3,Lakers,Pacers,63 - 66,1,N/A,N/A,N/A
+51,Tyson Chandler,FG_MISS,None,5:51,3,Lakers,Pacers,63 - 66,1,2,2,Jumper
+52,Tyson Chandler,OFFENSIVE_REBOUND,None,5:51,3,Lakers,Pacers,63 - 66,1,N/A,N/A,N/A
+53,Tyson Chandler,FG_MISS,None,5:51,3,Lakers,Pacers,63 - 66,1, ,2,Jumper
+54,Team,OFFENSIVE_REBOUND,None,5:51,3,Lakers,Pacers,63 - 66,1,N/A,N/A,N/A
+55,Lonzo Ball,FG_MISS,None,5:43,3,Lakers,Pacers,63 - 66,1,23,3,Jumper
+56,Tyreke Evans,DEFENSIVE_REBOUND,None,5:40,3,Pacers,Lakers,63 - 66,0,N/A,N/A,N/A
+57,Bojan Bogdanovic,FG_ASSISTED,Tyreke Evans,5:34,3,Pacers,Lakers,66 - 66,0, ,3,Jumper
+58,LeBron James,FG_MISS,None,5:05,3,Lakers,Pacers,66 - 66,1,11,2,Jumper
+59,Tyreke Evans,DEFENSIVE_REBOUND,None,5:01,3,Pacers,Lakers,66 - 66,0,N/A,N/A,N/A
+60,Tyreke Evans,FG_UNASSISTED,None,4:45,3,Pacers,Lakers,69 - 66,0,28,3,Jumper
+61,Team,Unknown,None,4:44,3,Lakers,Pacers,69 - 66,1,N/A,N/A,N/A
+62,Josh Hart,SUBSTITUTION,Ingram Brandon,4:44,3,Lakers,Pacers,69 - 66,1,N/A,N/A,N/A
+63,LeBron James,FG_UNASSISTED,None,4:28,3,Lakers,Pacers,69 - 68,1,4,2,Jumper
+64,Myles Turner,FG_MISS,None,4:11,3,Pacers,Lakers,69 - 68,0,20,2,Jumper
+65,Kyle Kuzma,DEFENSIVE_REBOUND,None,4:08,3,Lakers,Pacers,69 - 68,1,N/A,N/A,N/A
+66,LeBron James,FG_UNASSISTED,None,4:02,3,Lakers,Pacers,69 - 71,1,25,2,Jumper
+67,Bojan Bogdanovic,FG_MISS,None,3:41,3,Pacers,Lakers,69 - 71,0,0,2,Layup
+68,LeBron James,DEFENSIVE_REBOUND,None,3:39,3,Lakers,Pacers,69 - 71,1,N/A,N/A,N/A
+69,Tyreke Evans,FOUL_ON_FLOOR,None,3:39,3,Pacers,Lakers,69 - 71,0,N/A,N/A,N/A
+70,Kyle Kuzma,FT_MISS,None,3:39,3,Lakers,Pacers,69 - 71,1,N/A,1,N/A
+71,Team,OFFENSIVE_REBOUND,None,3:39,3,Lakers,Pacers,69 - 71,1,N/A,N/A,N/A
+72,Cory Joseph,SUBSTITUTION,Evans Tyreke,3:39,3,Pacers,Lakers,69 - 71,0,N/A,N/A,N/A
+73,Domantas Sabonis,SUBSTITUTION,Young Thaddeus,3:39,3,Pacers,Lakers,69 - 71,0,N/A,N/A,N/A
+74,Kyle Kuzma,FT,None,3:39,3,Lakers,Pacers,69 - 72,1,N/A,1,N/A
+75,Tyson Chandler,FOUL_ON_FLOOR,None,3:24,3,Lakers,Pacers,69 - 72,1,N/A,N/A,N/A
+76,Myles Turner,FG_ASSISTED,Domantas Sabonis,3:08,3,Pacers,Lakers,71 - 72,0,0,2,Layup
+77,Bojan Bogdanovic,FOUL_ON_FLOOR,None,3:01,3,Pacers,Lakers,71 - 72,0,N/A,N/A,N/A
+78,Tyson Chandler,FT,None,3:01,3,Lakers,Pacers,71 - 73,1,N/A,1,N/A
+79,Tyson Chandler,FT,None,3:01,3,Lakers,Pacers,71 - 74,1,N/A,1,N/A
+80,Darren Collison,FG_MISS,None,2:46,3,Pacers,Lakers,71 - 74,0,25,3,Jumper
+81,Tyson Chandler,DEFENSIVE_REBOUND,None,2:42,3,Lakers,Pacers,71 - 74,1,N/A,N/A,N/A
+82,Josh Hart,FG_ASSISTED,Kyle Kuzma,2:31,3,Lakers,Pacers,71 - 77,1,25,3,Jumper
+83,Bojan Bogdanovic,FG_UNASSISTED,None,2:17,3,Pacers,Lakers,73 - 77,0,0,2,Layup
+84,Josh Hart,FG_ASSISTED,Kyle Kuzma,2:03,3,Lakers,Pacers,73 - 79,1,0,2,Layup
+85,Domantas Sabonis,FOUL_ON_FLOOR,None,2:03,3,Pacers,Lakers,73 - 79,0,N/A,N/A,N/A
+86,Kentavious Caldwell-Pope,SUBSTITUTION,Ball Lonzo,2:03,3,Lakers,Pacers,73 - 79,1,N/A,N/A,N/A
+87,Josh Hart,FT_MISS,None,2:03,3,Lakers,Pacers,73 - 79,1,N/A,1,N/A
+88,Domantas Sabonis,DEFENSIVE_REBOUND,None,2:03,3,Pacers,Lakers,73 - 79,0,N/A,N/A,N/A
+89,Domantas Sabonis,FG_MISS,None,1:50,3,Pacers,Lakers,73 - 79,0,21,2,Jumper
+90,Tyson Chandler,DEFENSIVE_REBOUND,None,1:46,3,Lakers,Pacers,73 - 79,1,N/A,N/A,N/A
+91,LeBron James,FG_MISS,None,1:40,3,Lakers,Pacers,73 - 79,1,27,3,Jumper
+92,Darren Collison,DEFENSIVE_REBOUND,None,1:36,3,Pacers,Lakers,73 - 79,0,N/A,N/A,N/A
+93,Cory Joseph,FG_MISS,None,1:21,3,Pacers,Lakers,73 - 79,0,8,2,Jumper
+94,Tyson Chandler,DEFENSIVE_REBOUND,None,1:18,3,Lakers,Pacers,73 - 79,1,N/A,N/A,N/A
+95,LeBron James,FG_ASSISTED,Tyson Chandler,1:09,3,Lakers,Pacers,73 - 81,1,0,2,Layup
+96,Team,Unknown,None,1:09,3,Pacers,Lakers,73 - 81,0,N/A,N/A,N/A
+97,Doug McDermott,SUBSTITUTION,Collison Darren,1:09,3,Pacers,Lakers,73 - 81,0,N/A,N/A,N/A
+98,Thaddeus Young,SUBSTITUTION,Turner Myles,1:09,3,Pacers,Lakers,73 - 81,0,N/A,N/A,N/A
+99,Tyson Chandler,FOUL_FLAGRANT_1,None,58.0,3,Lakers,Pacers,73 - 81,1,N/A,N/A,N/A
+100,Domantas Sabonis,FT,None,58.0,3,Pacers,Lakers,74 - 81,0,N/A,1,N/A
+101,Domantas Sabonis,FT,None,58.0,3,Pacers,Lakers,75 - 81,0,N/A,1,N/A
+102,Bojan Bogdanovic,FG_MISS,None,48.3,3,Pacers,Lakers,75 - 81,0, ,2,Jumper
+103,Kyle Kuzma,DEFENSIVE_REBOUND,None,44.9,3,Lakers,Pacers,75 - 81,1,N/A,N/A,N/A
+104,LeBron James,FG_UNASSISTED,None,35.3,3,Lakers,Pacers,75 - 83,1,0,2,Layup
+105,Domantas Sabonis,FG_MISS,None,25.6,3,Pacers,Lakers,75 - 83,0,0,2,Layup
+106,Kyle Kuzma,DEFENSIVE_REBOUND,None,22.4,3,Lakers,Pacers,75 - 83,1,N/A,N/A,N/A
+107,Kyle Kuzma,FG_MISS,None,3.2,3,Lakers,Pacers,75 - 83,1,26,3,Jumper
+108,LeBron James,OFFENSIVE_REBOUND,None,0.5,3,Lakers,Pacers,75 - 83,1,N/A,N/A,N/A
+109,End of,Unknown,None,0.0,3,Lakers,Pacers,75 - 83,1,N/A,N/A,N/A
+0,JaVale McGee,SUBSTITUTION,Kuzma Kyle,12:00,4,Lakers,Pacers,75 - 83,1,N/A,N/A,N/A
+1,Michael Beasley,SUBSTITUTION,Chandler Tyson,12:00,4,Lakers,Pacers,75 - 83,1,N/A,N/A,N/A
+2,Brandon Ingram,SUBSTITUTION,James LeBron,12:00,4,Lakers,Pacers,75 - 83,1,N/A,N/A,N/A
+3,Aaron Holiday,SUBSTITUTION,Bogdanovic Bojan,12:00,4,Pacers,Lakers,75 - 83,0,N/A,N/A,N/A
+4,Thaddeus Young,FG_MISS,JaVale McGee,11:44,4,Lakers,Pacers,75 - 83,0,0,2,Layup
+5,Michael Beasley,DEFENSIVE_REBOUND,None,11:42,4,Lakers,Pacers,75 - 83,1,N/A,N/A,N/A
+6,Josh Hart,TURNOVER,Thaddeus Young,11:28,4,Lakers,Pacers,75 - 83,1,N/A,N/A,N/A
+7,Thaddeus Young,TURNOVER,Brandon Ingram,11:23,4,Pacers,Lakers,75 - 83,0,N/A,N/A,N/A
+8,Brandon Ingram,TURNOVER,Thaddeus Young,11:13,4,Lakers,Pacers,75 - 83,1,N/A,N/A,N/A
+9,Michael Beasley,FOUL_ON_FLOOR,None,11:12,4,Lakers,Pacers,75 - 83,1,N/A,N/A,N/A
+10,Thaddeus Young,FG_MISS,None,10:53,4,Pacers,Lakers,75 - 83,0,23,3,Jumper
+11,JaVale McGee,DEFENSIVE_REBOUND,None,10:50,4,Lakers,Pacers,75 - 83,1,N/A,N/A,N/A
+12,Doug McDermott,FOUL_ON_FLOOR,None,10:48,4,Pacers,Lakers,75 - 83,0,N/A,N/A,N/A
+13,Michael Beasley,FG_ASSISTED,Brandon Ingram,10:37,4,Lakers,Pacers,75 - 85,1,5,2,Jumper
+14,Domantas Sabonis,FG_MISS,Brandon Ingram,10:19,4,Lakers,Pacers,75 - 85,0,3,2,Jumper
+15,Team,OFFENSIVE_REBOUND,None,10:18,4,Pacers,Lakers,75 - 85,0,N/A,N/A,N/A
+16,JaVale McGee,FOUL_ON_FLOOR,None,10:08,4,Lakers,Pacers,75 - 85,1,N/A,N/A,N/A
+17,Doug McDermott,FT,None,10:08,4,Pacers,Lakers,76 - 85,0,N/A,1,N/A
+18,Doug McDermott,FT,None,10:08,4,Pacers,Lakers,77 - 85,0,N/A,1,N/A
+19,Kentavious Caldwell-Pope,FG_MISS,None,9:50,4,Lakers,Pacers,77 - 85,1,20,2,Jumper
+20,JaVale McGee,OFFENSIVE_REBOUND,None,9:48,4,Lakers,Pacers,77 - 85,1,N/A,N/A,N/A
+21,Cory Joseph,FOUL_ON_FLOOR,None,9:38,4,Pacers,Lakers,77 - 85,0,N/A,N/A,N/A
+22,Brandon Ingram,FT_MISS,None,9:38,4,Lakers,Pacers,77 - 85,1,N/A,1,N/A
+23,Team,OFFENSIVE_REBOUND,None,9:38,4,Lakers,Pacers,77 - 85,1,N/A,N/A,N/A
+24,Brandon Ingram,FT_MISS,None,9:38,4,Lakers,Pacers,77 - 85,1,N/A,1,N/A
+25,Doug McDermott,DEFENSIVE_REBOUND,None,9:35,4,Pacers,Lakers,77 - 85,0,N/A,N/A,N/A
+26,Thaddeus Young,FG_ASSISTED,Cory Joseph,9:17,4,Pacers,Lakers,79 - 85,0,3,2,Jumper
+27,Brandon Ingram,FG_UNASSISTED,None,9:00,4,Lakers,Pacers,79 - 87,1, ,2,Jumper
+28,Domantas Sabonis,FG_MISS,None,8:42,4,Pacers,Lakers,79 - 87,0,0,2,Layup
+29,Thaddeus Young,OFFENSIVE_REBOUND,None,8:32,4,Pacers,Lakers,79 - 87,0,N/A,N/A,N/A
+30,Thaddeus Young,FG_UNASSISTED,None,8:32,4,Pacers,Lakers,81 - 87,0, ,2,Jumper
+31,JaVale McGee,FG_MISS,None,8:20,4,Lakers,Pacers,81 - 87,1,6,2,Jumper
+32,Cory Joseph,DEFENSIVE_REBOUND,None,8:18,4,Pacers,Lakers,81 - 87,0,N/A,N/A,N/A
+33,Doug McDermott,FG_MISS,None,8:14,4,Pacers,Lakers,81 - 87,0,27,3,Jumper
+34,Kentavious Caldwell-Pope,DEFENSIVE_REBOUND,None,8:10,4,Lakers,Pacers,81 - 87,1,N/A,N/A,N/A
+35,Brandon Ingram,FG_MISS,None,7:48,4,Lakers,Pacers,81 - 87,1,22,2,Jumper
+36,Domantas Sabonis,DEFENSIVE_REBOUND,None,7:46,4,Pacers,Lakers,81 - 87,0,N/A,N/A,N/A
+37,Aaron Holiday,FG_ASSISTED,Cory Joseph,7:30,4,Pacers,Lakers,83 - 87,0,0,2,Layup
+38,Team,Unknown,None,7:28,4,Lakers,Pacers,83 - 87,1,N/A,N/A,N/A
+39,LeBron James,SUBSTITUTION,Caldwell-Pope Kentavious,7:28,4,Lakers,Pacers,83 - 87,1,N/A,N/A,N/A
+40,Kyle Kuzma,SUBSTITUTION,McGee JaVale,7:28,4,Lakers,Pacers,83 - 87,1,N/A,N/A,N/A
+41,Tyson Chandler,SUBSTITUTION,Beasley Michael,7:28,4,Lakers,Pacers,83 - 87,1,N/A,N/A,N/A
+42,Lonzo Ball,SUBSTITUTION,Ingram Brandon,7:28,4,Lakers,Pacers,83 - 87,1,N/A,N/A,N/A
+43,Bojan Bogdanovic,SUBSTITUTION,Holiday Aaron,7:28,4,Pacers,Lakers,83 - 87,0,N/A,N/A,N/A
+44,LeBron James,FG_MISS,Cory Joseph,7:12,4,Pacers,Lakers,83 - 87,1,13,2,Jumper
+45,Josh Hart,OFFENSIVE_REBOUND,None,7:09,4,Lakers,Pacers,83 - 87,1,N/A,N/A,N/A
+46,Josh Hart,FG_UNASSISTED,None,7:06,4,Lakers,Pacers,83 - 89,1,0,2,Layup
+47,Doug McDermott,FG_MISS,Tyson Chandler,6:48,4,Lakers,Pacers,83 - 89,0,0,2,Layup
+48,LeBron James,DEFENSIVE_REBOUND,None,6:46,4,Lakers,Pacers,83 - 89,1,N/A,N/A,N/A
+49,LeBron James,TURNOVER,None,6:44,4,Lakers,Pacers,83 - 89,1,N/A,N/A,N/A
+50,LeBron James,TURNOVER,None,6:44,4,Lakers,Pacers,83 - 89,1,N/A,N/A,N/A
+51,Bojan Bogdanovic,FG_MISS,None,6:31,4,Pacers,Lakers,83 - 89,0,27,3,Jumper
+52,LeBron James,DEFENSIVE_REBOUND,None,6:29,4,Lakers,Pacers,83 - 89,1,N/A,N/A,N/A
+53,LeBron James,FG_MISS,None,6:13,4,Lakers,Pacers,83 - 89,1,27,3,Jumper
+54,Domantas Sabonis,DEFENSIVE_REBOUND,None,6:10,4,Pacers,Lakers,83 - 89,0,N/A,N/A,N/A
+55,Doug McDermott,FG_ASSISTED,Cory Joseph,6:01,4,Pacers,Lakers,86 - 89,0,23,3,Jumper
+56,Lonzo Ball,FG_MISS,None,5:40,4,Lakers,Pacers,86 - 89,1,24,3,Jumper
+57,Domantas Sabonis,DEFENSIVE_REBOUND,None,5:37,4,Pacers,Lakers,86 - 89,0,N/A,N/A,N/A
+58,Domantas Sabonis,TURNOVER,None,5:28,4,Pacers,Lakers,86 - 89,0,N/A,N/A,N/A
+59,Domantas Sabonis,TURNOVER,None,5:28,4,Pacers,Lakers,86 - 89,0,N/A,N/A,N/A
+60,Tyreke Evans,SUBSTITUTION,McDermott Doug,5:28,4,Pacers,Lakers,86 - 89,0,N/A,N/A,N/A
+61,Kentavious Caldwell-Pope,SUBSTITUTION,Hart Josh,5:28,4,Lakers,Pacers,86 - 89,1,N/A,N/A,N/A
+62,LeBron James's,FG_MISS,Domantas Sabonis,5:14,4,Pacers,Lakers,86 - 89,1,0,2,Layup
+63,Cory Joseph,DEFENSIVE_REBOUND,None,5:11,4,Pacers,Lakers,86 - 89,0,N/A,N/A,N/A
+64,Bojan Bogdanovic,FG_MISS,None,5:02,4,Pacers,Lakers,86 - 89,0,6,2,Jumper
+65,Thaddeus Young,OFFENSIVE_REBOUND,None,5:02,4,Pacers,Lakers,86 - 89,0,N/A,N/A,N/A
+66,Domantas Sabonis,FG_ASSISTED,Thaddeus Young,4:56,4,Pacers,Lakers,88 - 89,0,15,2,Jumper
+67,LeBron James,FG_ASSISTED,Tyson Chandler,4:36,4,Lakers,Pacers,88 - 92,1,26,3,Jumper
+68,Team,Unknown,None,4:35,4,Pacers,Lakers,88 - 92,0,N/A,N/A,N/A
+69,Myles Turner,SUBSTITUTION,Young Thaddeus,4:35,4,Pacers,Lakers,88 - 92,0,N/A,N/A,N/A
+70,Cory Joseph,FG_MISS,None,4:21,4,Pacers,Lakers,88 - 92,0,19,2,Jumper
+71,LeBron James,DEFENSIVE_REBOUND,None,4:18,4,Lakers,Pacers,88 - 92,1,N/A,N/A,N/A
+72,LeBron James,FG_UNASSISTED,None,4:11,4,Lakers,Pacers,88 - 94,1,0,2,Layup
+73,Myles Turner,FOUL_ON_FLOOR,None,4:11,4,Pacers,Lakers,88 - 94,0,N/A,N/A,N/A
+74,LeBron James,FT,None,4:11,4,Lakers,Pacers,88 - 95,1,N/A,1,N/A
+75,Cory Joseph,FG_MISS,None,3:54,4,Pacers,Lakers,88 - 95,0,23,3,Jumper
+76,Kentavious Caldwell-Pope,DEFENSIVE_REBOUND,None,3:51,4,Lakers,Pacers,88 - 95,1,N/A,N/A,N/A
+77,Lonzo Ball,FG_MISS,None,3:43,4,Lakers,Pacers,88 - 95,1,23,3,Jumper
+78,Domantas Sabonis,DEFENSIVE_REBOUND,None,3:39,4,Pacers,Lakers,88 - 95,0,N/A,N/A,N/A
+79,Tyreke Evans,FG_MISS,None,3:31,4,Pacers,Lakers,88 - 95,0,0,2,Layup
+80,Tyson Chandler,DEFENSIVE_REBOUND,None,3:28,4,Lakers,Pacers,88 - 95,1,N/A,N/A,N/A
+81,Kentavious Caldwell-Pope,FG_ASSISTED,LeBron James,3:24,4,Lakers,Pacers,88 - 98,1,27,3,Jumper
+82,Team,Unknown,None,3:22,4,Pacers,Lakers,88 - 98,0,N/A,N/A,N/A
+83,Josh Hart,SUBSTITUTION,Caldwell-Pope Kentavious,3:22,4,Lakers,Pacers,88 - 98,1,N/A,N/A,N/A
+84,Darren Collison,SUBSTITUTION,Sabonis Domantas,3:22,4,Pacers,Lakers,88 - 98,0,N/A,N/A,N/A
+85,Thaddeus Young,SUBSTITUTION,Evans Tyreke,3:22,4,Pacers,Lakers,88 - 98,0,N/A,N/A,N/A
+86,Thaddeus Young,FG_MISS,None,3:05,4,Pacers,Lakers,88 - 98,0,6,2,Jumper
+87,Kyle Kuzma,DEFENSIVE_REBOUND,None,3:04,4,Lakers,Pacers,88 - 98,1,N/A,N/A,N/A
+88,Thaddeus Young,FOUL_ON_FLOOR,None,2:52,4,Pacers,Lakers,88 - 98,0,N/A,N/A,N/A
+89,LeBron James,FT_MISS,None,2:52,4,Lakers,Pacers,88 - 98,1,N/A,1,N/A
+90,Team,OFFENSIVE_REBOUND,None,2:52,4,Lakers,Pacers,88 - 98,1,N/A,N/A,N/A
+91,LeBron James,FT,None,2:52,4,Lakers,Pacers,88 - 99,1,N/A,1,N/A
+92,Cory Joseph,FG_UNASSISTED,None,2:42,4,Pacers,Lakers,90 - 99,0,7,2,Jumper
+93,LeBron James,FG_UNASSISTED,None,2:21,4,Lakers,Pacers,90 - 101,1,22,2,Jumper
+94,Bojan Bogdanovic,TURNOVER,None,2:00,4,Pacers,Lakers,90 - 101,0,N/A,N/A,N/A
+95,Bojan Bogdanovic,TURNOVER,None,2:00,4,Pacers,Lakers,90 - 101,0,N/A,N/A,N/A
+96,LeBron James,FG_UNASSISTED,None,1:38,4,Lakers,Pacers,90 - 103,1,18,2,Jumper
+97,Thaddeus Young,FG_ASSISTED,Darren Collison,1:24,4,Pacers,Lakers,92 - 103,0,0,2,Layup
+98,LeBron James,FG_MISS,Myles Turner,1:04,4,Pacers,Lakers,92 - 103,1,0,2,Layup
+99,Cory Joseph,DEFENSIVE_REBOUND,None,1:01,4,Pacers,Lakers,92 - 103,0,N/A,N/A,N/A
+100,Bojan Bogdanovic,FG_MISS,None,52.7,4,Pacers,Lakers,92 - 103,0,23,3,Jumper
+101,Team,OFFENSIVE_REBOUND,None,51.8,4,Pacers,Lakers,92 - 103,0,N/A,N/A,N/A
+102,Team,Unknown,None,51.8,4,Pacers,Lakers,92 - 103,0,N/A,N/A,N/A
+103,Doug McDermott,SUBSTITUTION,Young Thaddeus,51.8,4,Pacers,Lakers,92 - 103,0,N/A,N/A,N/A
+104,Lonzo Ball,FOUL_ON_FLOOR,None,42.5,4,Lakers,Pacers,92 - 103,1,N/A,N/A,N/A
+105,Darren Collison,FT,None,42.5,4,Pacers,Lakers,93 - 103,0,N/A,1,N/A
+106,Darren Collison,FT,None,42.5,4,Pacers,Lakers,94 - 103,0,N/A,1,N/A
+107,Cory Joseph,FOUL_ON_FLOOR,None,22.4,4,Pacers,Lakers,94 - 103,0,N/A,N/A,N/A
+108,LeBron James,FT_MISS,None,22.4,4,Lakers,Pacers,94 - 103,1,N/A,1,N/A
+109,Team,OFFENSIVE_REBOUND,None,22.4,4,Lakers,Pacers,94 - 103,1,N/A,N/A,N/A
+110,LeBron James,FT,None,22.4,4,Lakers,Pacers,94 - 104,1,N/A,1,N/A
+111,Team,Unknown,None,22.4,4,Pacers,Lakers,94 - 104,0,N/A,N/A,N/A
+112,Kentavious Caldwell-Pope,SUBSTITUTION,Chandler Tyson,22.4,4,Lakers,Pacers,94 - 104,1,N/A,N/A,N/A
+113,Tyreke Evans,SUBSTITUTION,Joseph Cory,22.4,4,Pacers,Lakers,94 - 104,0,N/A,N/A,N/A
+114,Darren Collison,FG_UNASSISTED,None,13.0,4,Pacers,Lakers,96 - 104,0,0,2,Layup
+115,End of,Unknown,None,0.0,4,Lakers,Pacers,96 - 104,1,N/A,N/A,N/A
+116,End of,Unknown,None,0.0,4,Lakers,Pacers,96 - 104,1,N/A,N/A,N/A

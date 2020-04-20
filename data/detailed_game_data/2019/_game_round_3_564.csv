@@ -1,0 +1,505 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Amir Johnson,JUMP_BALL,None,12:00,1,76ers,Hornets,0 - 0,0,N/A,N/A,N/A
+1,JJ Redick,FG_ASSISTED,Amir Johnson,11:36,1,76ers,Hornets,3 - 0,0,25,3,Jumper
+2,Miles Bridges,FG_UNASSISTED,None,11:07,1,Hornets,76ers,3 - 2,1,-,2,Jumper
+3,Kemba Walker,FOUL_ON_FLOOR,None,10:51,1,Hornets,76ers,3 - 2,1,N/A,N/A,N/A
+4,Ben Simmons,FT,None,10:51,1,76ers,Hornets,4 - 2,0,N/A,1,N/A
+5,Ben Simmons,FT_MISS,None,10:51,1,76ers,Hornets,4 - 2,0,N/A,1,N/A
+6,Miles Bridges,DEFENSIVE_REBOUND,None,10:48,1,Hornets,76ers,4 - 2,1,N/A,N/A,N/A
+7,Miles Bridges,FG_ASSISTED,Kemba Walker,10:44,1,Hornets,76ers,4 - 4,1,-,2,Jumper
+8,Kemba Walker,FOUL_ON_FLOOR,None,10:33,1,Hornets,76ers,4 - 4,1,N/A,N/A,N/A
+9,Jimmy Butler,FG_MISS,None,10:18,1,76ers,Hornets,4 - 4,0,17,2,Jumper
+10,Nicolas Batum,DEFENSIVE_REBOUND,None,10:14,1,Hornets,76ers,4 - 4,1,N/A,N/A,N/A
+11,Marvin Williams,FG_ASSISTED,Nicolas Batum,10:10,1,Hornets,76ers,4 - 7,1,27,3,Jumper
+12,JJ Redick,FG_ASSISTED,Jimmy Butler,9:52,1,76ers,Hornets,7 - 7,0,25,3,Jumper
+13,Miles Bridges,FG_MISS,None,9:33,1,Hornets,76ers,7 - 7,1,26,3,Jumper
+14,JJ Redick,DEFENSIVE_REBOUND,None,9:31,1,76ers,Hornets,7 - 7,0,N/A,N/A,N/A
+15,Jimmy Butler,TURNOVER,Kemba Walker,9:17,1,76ers,Hornets,7 - 7,0,N/A,N/A,N/A
+16,Tobias Harris,FOUL_ON_FLOOR,None,9:14,1,76ers,Hornets,7 - 7,0,N/A,N/A,N/A
+17,Marvin Williams,FT,None,9:14,1,Hornets,76ers,7 - 8,1,N/A,1,N/A
+18,Marvin Williams,FT,None,9:14,1,Hornets,76ers,7 - 9,1,N/A,1,N/A
+19,Miles Bridges,FOUL_ON_FLOOR,None,9:01,1,Hornets,76ers,7 - 9,1,N/A,N/A,N/A
+20,Jimmy Butler,FT,None,9:01,1,76ers,Hornets,8 - 9,0,N/A,1,N/A
+21,Jimmy Butler,FT,None,9:01,1,76ers,Hornets,9 - 9,0,N/A,1,N/A
+22,Nicolas Batum,TURNOVER,Jimmy Butler,8:49,1,Hornets,76ers,9 - 9,1,N/A,N/A,N/A
+23,Bismack Biyombo,FOUL_ON_FLOOR,None,8:47,1,Hornets,76ers,9 - 9,1,N/A,N/A,N/A
+24,Amir Johnson,FG_ASSISTED,JJ Redick,8:37,1,76ers,Hornets,11 - 9,0,0,2,Layup
+25,Kemba Walker,FG_MISS,None,8:25,1,Hornets,76ers,11 - 9,1,26,3,Jumper
+26,Tobias Harris,DEFENSIVE_REBOUND,None,8:23,1,76ers,Hornets,11 - 9,0,N/A,N/A,N/A
+27,Tobias Harris,FG_UNASSISTED,None,8:17,1,76ers,Hornets,13 - 9,0,0,2,Dunk
+28,Kemba Walker,FG_ASSISTED,Marvin Williams,8:08,1,Hornets,76ers,13 - 11,1,15,2,Jumper
+29,Ben Simmons,FG_UNASSISTED,None,7:58,1,76ers,Hornets,15 - 11,0,0,2,Dunk
+30,Team,Unknown,None,7:58,1,Hornets,76ers,15 - 11,1,N/A,N/A,N/A
+31,Marvin Williams,FG_MISS,Ben Simmons,7:45,1,76ers,Hornets,15 - 11,1,24,3,Jumper
+32,Amir Johnson,DEFENSIVE_REBOUND,None,7:41,1,76ers,Hornets,15 - 11,0,N/A,N/A,N/A
+33,Ben Simmons,FG_ASSISTED,Tobias Harris,7:24,1,76ers,Hornets,17 - 11,0, ,2,Jumper
+34,Marvin Williams,FG_MISS,None,7:13,1,Hornets,76ers,17 - 11,1,23,3,Jumper
+35,Ben Simmons,DEFENSIVE_REBOUND,None,7:13,1,76ers,Hornets,17 - 11,0,N/A,N/A,N/A
+36,Tobias Harris,FG_MISS,None,6:59,1,76ers,Hornets,17 - 11,0,25,3,Jumper
+37,Miles Bridges,DEFENSIVE_REBOUND,None,6:55,1,Hornets,76ers,17 - 11,1,N/A,N/A,N/A
+38,Bismack Biyombo,FG_ASSISTED,Miles Bridges,6:49,1,Hornets,76ers,17 - 13,1,0,2,Dunk
+39,JJ Redick,FG_ASSISTED,Jimmy Butler,6:29,1,76ers,Hornets,19 - 13,0, ,2,Jumper
+40,Kemba Walker,FG_UNASSISTED,None,6:16,1,Hornets,76ers,19 - 15,1,18,2,Jumper
+41,JJ Redick,FG_MISS,None,6:07,1,76ers,Hornets,19 - 15,0,24,3,Jumper
+42,JJ Redick,OFFENSIVE_REBOUND,None,6:06,1,76ers,Hornets,19 - 15,0,N/A,N/A,N/A
+43,Kemba Walker,FOUL_ON_FLOOR,None,6:06,1,Hornets,76ers,19 - 15,1,N/A,N/A,N/A
+44,JJ Redick,FT,None,6:06,1,76ers,Hornets,20 - 15,0,N/A,1,N/A
+45,Jeremy Lamb,SUBSTITUTION,Williams Marvin,6:06,1,Hornets,76ers,20 - 15,1,N/A,N/A,N/A
+46,Devonte' Graham,SUBSTITUTION,Walker Kemba,6:06,1,Hornets,76ers,20 - 15,1,N/A,N/A,N/A
+47,JJ Redick,FT,None,6:06,1,76ers,Hornets,21 - 15,0,N/A,1,N/A
+48,Nicolas Batum,FG_ASSISTED,Miles Bridges,5:56,1,Hornets,76ers,21 - 17,1,20,2,Jumper
+49,Ben Simmons,FG_MISS,None,5:44,1,76ers,Hornets,21 - 17,0,0,2,Dunk
+50,Team,DEFENSIVE_REBOUND,None,5:44,1,Hornets,76ers,21 - 17,1,N/A,N/A,N/A
+51,Mike Scott,SUBSTITUTION,Johnson Amir,5:44,1,76ers,Hornets,21 - 17,0,N/A,N/A,N/A
+52,Boban Marjanovic,SUBSTITUTION,Redick JJ,5:44,1,76ers,Hornets,21 - 17,0,N/A,N/A,N/A
+53,T.J. McConnell,SUBSTITUTION,Simmons Ben,5:44,1,76ers,Hornets,21 - 17,0,N/A,N/A,N/A
+54,Boban Marjanovic,FOUL_TECHNICAL,None,5:32,1,76ers,Hornets,21 - 17,0,N/A,N/A,N/A
+55,Nicolas Batum,FT,None,5:32,1,Hornets,76ers,21 - 18,1,N/A,1,N/A
+56,Miles Bridges,FG_MISS,None,5:19,1,Hornets,76ers,21 - 18,1,30,3,Jumper
+57,Team,OFFENSIVE_REBOUND,None,5:17,1,Hornets,76ers,21 - 18,1,N/A,N/A,N/A
+58,Boban Marjanovic,FOUL_ON_FLOOR,None,5:17,1,76ers,Hornets,21 - 18,0,N/A,N/A,N/A
+59,Nicolas Batum,FG_MISS,None,5:12,1,Hornets,76ers,21 - 18,1,26,3,Jumper
+60,Jimmy Butler,DEFENSIVE_REBOUND,None,5:09,1,76ers,Hornets,21 - 18,0,N/A,N/A,N/A
+61,Jimmy Butler,FG_MISS,Nicolas Batum,4:59,1,Hornets,76ers,21 - 18,0,7,2,Jumper
+62,Jimmy Butler,OFFENSIVE_REBOUND,None,4:57,1,76ers,Hornets,21 - 18,0,N/A,N/A,N/A
+63,Jimmy Butler,FG_UNASSISTED,None,4:57,1,76ers,Hornets,23 - 18,0, ,2,Jumper
+64,Devonte' Graham,FG_ASSISTED,Jeremy Lamb,4:46,1,Hornets,76ers,23 - 20,1,17,2,Jumper
+65,Jimmy Butler,FG_ASSISTED,Boban Marjanovic,4:23,1,76ers,Hornets,25 - 20,0,16,2,Jumper
+66,Bismack Biyombo,FG_MISS,None,4:09,1,Hornets,76ers,25 - 20,1,0,2,Layup
+67,Tobias Harris,DEFENSIVE_REBOUND,None,4:07,1,76ers,Hornets,25 - 20,0,N/A,N/A,N/A
+68,Tobias Harris,TURNOVER,None,4:04,1,76ers,Hornets,25 - 20,0,N/A,N/A,N/A
+69,Frank Kaminsky,SUBSTITUTION,Biyombo Bismack,4:04,1,Hornets,76ers,25 - 20,1,N/A,N/A,N/A
+70,T.J. McConnell,FOUL_ON_FLOOR,None,4:00,1,76ers,Hornets,25 - 20,0,N/A,N/A,N/A
+71,Michael Kidd-Gilchrist,SUBSTITUTION,Bridges Miles,4:00,1,Hornets,76ers,25 - 20,1,N/A,N/A,N/A
+72,Frank Kaminsky,FG_MISS,None,3:41,1,Hornets,76ers,25 - 20,1,11,2,Jumper
+73,Boban Marjanovic,DEFENSIVE_REBOUND,None,3:37,1,76ers,Hornets,25 - 20,0,N/A,N/A,N/A
+74,Tobias Harris,FG_MISS,None,3:24,1,76ers,Hornets,25 - 20,0,25,3,Jumper
+75,Team,DEFENSIVE_REBOUND,None,3:23,1,Hornets,76ers,25 - 20,1,N/A,N/A,N/A
+76,Tobias Harris,FOUL_ON_FLOOR,None,3:08,1,76ers,Hornets,25 - 20,0,N/A,N/A,N/A
+77,Jeremy Lamb,FG_UNASSISTED,None,2:58,1,Hornets,76ers,25 - 23,1,27,3,Jumper
+78,Team,Unknown,None,2:56,1,76ers,Hornets,25 - 23,0,N/A,N/A,N/A
+79,Dwayne Bacon,SUBSTITUTION,Batum Nicolas,2:56,1,Hornets,76ers,25 - 23,1,N/A,N/A,N/A
+80,James Ennis,SUBSTITUTION,McConnell T.J.,2:56,1,76ers,Hornets,25 - 23,0,N/A,N/A,N/A
+81,JJ Redick,SUBSTITUTION,Butler Jimmy,2:56,1,76ers,Hornets,25 - 23,0,N/A,N/A,N/A
+82,Ben Simmons,SUBSTITUTION,Harris Tobias,2:56,1,76ers,Hornets,25 - 23,0,N/A,N/A,N/A
+83,JJ Redick,FG_MISS,None,2:38,1,76ers,Hornets,25 - 23,0,26,3,Jumper
+84,Michael Kidd-Gilchrist,DEFENSIVE_REBOUND,None,2:36,1,Hornets,76ers,25 - 23,1,N/A,N/A,N/A
+85,Boban Marjanovic,FOUL_ON_FLOOR,None,2:33,1,76ers,Hornets,25 - 23,0,N/A,N/A,N/A
+86,Michael Kidd-Gilchrist,FT_MISS,None,2:33,1,Hornets,76ers,25 - 23,1,N/A,1,N/A
+87,Team,OFFENSIVE_REBOUND,None,2:33,1,Hornets,76ers,25 - 23,1,N/A,N/A,N/A
+88,Michael Kidd-Gilchrist,FT,None,2:33,1,Hornets,76ers,25 - 24,1,N/A,1,N/A
+89,Ben Simmons,FG_ASSISTED,JJ Redick,2:13,1,76ers,Hornets,27 - 24,0,0,2,Dunk
+90,Dwayne Bacon,FG_MISS,None,1:53,1,Hornets,76ers,27 - 24,1,23,3,Jumper
+91,Boban Marjanovic,DEFENSIVE_REBOUND,None,1:50,1,76ers,Hornets,27 - 24,0,N/A,N/A,N/A
+92,Ben Simmons,TURNOVER,None,1:41,1,76ers,Hornets,27 - 24,0,N/A,N/A,N/A
+93,Michael Kidd-Gilchrist,FG_ASSISTED,Devonte' Graham,1:29,1,Hornets,76ers,27 - 26,1,6,2,Jumper
+94,JJ Redick,FG_MISS,None,1:12,1,76ers,Hornets,27 - 26,0, ,2,Jumper
+95,Frank Kaminsky,DEFENSIVE_REBOUND,None,1:12,1,Hornets,76ers,27 - 26,1,N/A,N/A,N/A
+96,Michael Kidd-Gilchrist,TURNOVER,None,1:07,1,Hornets,76ers,27 - 26,1,N/A,N/A,N/A
+97,James Ennis,FG_MISS,None,57.4,1,76ers,Hornets,27 - 26,0,27,3,Jumper
+98,Michael Kidd-Gilchrist,DEFENSIVE_REBOUND,None,54.0,1,Hornets,76ers,27 - 26,1,N/A,N/A,N/A
+99,Ben Simmons,FOUL_ON_FLOOR,None,46.0,1,76ers,Hornets,27 - 26,0,N/A,N/A,N/A
+100,Jeremy Lamb,FT,None,46.0,1,Hornets,76ers,27 - 27,1,N/A,1,N/A
+101,Jeremy Lamb,FT,None,46.0,1,Hornets,76ers,27 - 28,1,N/A,1,N/A
+102,Ben Simmons,FG_ASSISTED,JJ Redick,34.0,1,76ers,Hornets,29 - 28,0,9,2,Jumper
+103,Frank Kaminsky,FG_ASSISTED,Michael Kidd-Gilchrist,23.4,1,Hornets,76ers,29 - 30,1,0,2,Dunk
+104,Michael Kidd-Gilchrist,FOUL_ON_FLOOR,None,1.9,1,Hornets,76ers,29 - 30,1,N/A,N/A,N/A
+105,JJ Redick,FT,None,1.9,1,76ers,Hornets,30 - 30,0,N/A,1,N/A
+106,JJ Redick,FT,None,1.9,1,76ers,Hornets,31 - 30,0,N/A,1,N/A
+107,T.J. McConnell,SUBSTITUTION,Marjanovic Boban,1.9,1,76ers,Hornets,31 - 30,0,N/A,N/A,N/A
+108,JJ Redick,FT_MISS,None,1.9,1,76ers,Hornets,31 - 30,0,N/A,1,N/A
+109,Team,DEFENSIVE_REBOUND,None,1.4,1,Hornets,76ers,31 - 30,1,N/A,N/A,N/A
+110,Devonte' Graham,FG_MISS,None,0.0,1,Hornets,76ers,31 - 30,1,57,3,Jumper
+111,Team,OFFENSIVE_REBOUND,None,0.0,1,Hornets,76ers,31 - 30,1,N/A,N/A,N/A
+112,End of,Unknown,None,0.0,1,Hornets,76ers,31 - 30,1,N/A,N/A,N/A
+0,Tobias Harris,SUBSTITUTION,Scott Mike,12:00,2,76ers,Hornets,31 - 30,0,N/A,N/A,N/A
+1,Amir Johnson,SUBSTITUTION,McConnell T.J.,12:00,2,76ers,Hornets,31 - 30,0,N/A,N/A,N/A
+2,Amir Johnson,FOUL_TECHNICAL,None,11:45,2,76ers,Hornets,31 - 30,0,N/A,N/A,N/A
+3,Jeremy Lamb,FT,None,11:45,2,Hornets,76ers,31 - 31,1,N/A,1,N/A
+4,Devonte' Graham,FG_MISS,None,11:33,2,Hornets,76ers,31 - 31,1,30,3,Jumper
+5,James Ennis,DEFENSIVE_REBOUND,None,11:29,2,76ers,Hornets,31 - 31,0,N/A,N/A,N/A
+6,Tobias Harris,FG_MISS,None,11:09,2,76ers,Hornets,31 - 31,0,18,2,Jumper
+7,James Ennis,OFFENSIVE_REBOUND,None,11:01,2,76ers,Hornets,31 - 31,0,N/A,N/A,N/A
+8,James Ennis,FG_UNASSISTED,None,11:01,2,76ers,Hornets,33 - 31,0, ,2,Jumper
+9,Amir Johnson,FOUL_ON_FLOOR,None,11:00,2,76ers,Hornets,33 - 31,0,N/A,N/A,N/A
+10,Dwayne Bacon,FT_MISS,None,11:00,2,Hornets,76ers,33 - 31,1,N/A,1,N/A
+11,Team,OFFENSIVE_REBOUND,None,11:00,2,Hornets,76ers,33 - 31,1,N/A,N/A,N/A
+12,Dwayne Bacon,FT,None,11:00,2,Hornets,76ers,33 - 32,1,N/A,1,N/A
+13,JJ Redick,FG_ASSISTED,Amir Johnson,10:48,2,76ers,Hornets,36 - 32,0,24,3,Jumper
+14,Dwayne Bacon,FG_UNASSISTED,None,10:30,2,Hornets,76ers,36 - 34,1, ,2,Jumper
+15,Amir Johnson,FG_MISS,None,10:23,2,76ers,Hornets,36 - 34,0, ,3,Jumper
+16,Dwayne Bacon,DEFENSIVE_REBOUND,None,10:20,2,Hornets,76ers,36 - 34,1,N/A,N/A,N/A
+17,Michael Kidd-Gilchrist,FG_ASSISTED,Frank Kaminsky,10:10,2,Hornets,76ers,36 - 37,1,24,3,Jumper
+18,Tobias Harris,FG_MISS,None,9:57,2,76ers,Hornets,36 - 37,0,19,2,Jumper
+19,Michael Kidd-Gilchrist,DEFENSIVE_REBOUND,None,9:54,2,Hornets,76ers,36 - 37,1,N/A,N/A,N/A
+20,Dwayne Bacon,FG_MISS,None,9:44,2,Hornets,76ers,36 - 37,1,18,2,Jumper
+21,JJ Redick,DEFENSIVE_REBOUND,None,9:40,2,76ers,Hornets,36 - 37,0,N/A,N/A,N/A
+22,JJ Redick,FG_MISS,None,9:34,2,76ers,Hornets,36 - 37,0,22,2,Jumper
+23,Michael Kidd-Gilchrist,DEFENSIVE_REBOUND,None,9:31,2,Hornets,76ers,36 - 37,1,N/A,N/A,N/A
+24,Dwayne Bacon,FG_MISS,None,9:23,2,Hornets,76ers,36 - 37,1, ,2,Jumper
+25,Michael Kidd-Gilchrist,OFFENSIVE_REBOUND,None,9:21,2,Hornets,76ers,36 - 37,1,N/A,N/A,N/A
+26,Dwayne Bacon,FG_MISS,None,9:19,2,Hornets,76ers,36 - 37,1,23,3,Jumper
+27,Tobias Harris,DEFENSIVE_REBOUND,None,9:16,2,76ers,Hornets,36 - 37,0,N/A,N/A,N/A
+28,Tobias Harris,FG_UNASSISTED,None,9:08,2,76ers,Hornets,38 - 37,0,14,2,Jumper
+29,Frank Kaminsky,FG_UNASSISTED,None,8:47,2,Hornets,76ers,38 - 39,1,2,2,Jumper
+30,Ben Simmons,FG_ASSISTED,JJ Redick,8:34,2,76ers,Hornets,40 - 39,0,0,2,Dunk
+31,Devonte' Graham,FG_MISS,None,8:23,2,Hornets,76ers,40 - 39,1,27,3,Jumper
+32,JJ Redick,DEFENSIVE_REBOUND,None,8:19,2,76ers,Hornets,40 - 39,0,N/A,N/A,N/A
+33,JJ Redick,FG_ASSISTED,Tobias Harris,8:12,2,76ers,Hornets,43 - 39,0,27,3,Jumper
+34,Team,Unknown,None,8:11,2,Hornets,76ers,43 - 39,1,N/A,N/A,N/A
+35,Miles Bridges,SUBSTITUTION,Lamb Jeremy,8:11,2,Hornets,76ers,43 - 39,1,N/A,N/A,N/A
+36,Shelvin Mack,SUBSTITUTION,Graham Devonte',8:11,2,Hornets,76ers,43 - 39,1,N/A,N/A,N/A
+37,Marvin Williams,SUBSTITUTION,Bacon Dwayne,8:11,2,Hornets,76ers,43 - 39,1,N/A,N/A,N/A
+38,Nicolas Batum,SUBSTITUTION,Kidd-Gilchrist Michael,8:11,2,Hornets,76ers,43 - 39,1,N/A,N/A,N/A
+39,Boban Marjanovic,SUBSTITUTION,Simmons Ben,8:11,2,76ers,Hornets,43 - 39,0,N/A,N/A,N/A
+40,Jimmy Butler,SUBSTITUTION,Johnson Amir,8:11,2,76ers,Hornets,43 - 39,0,N/A,N/A,N/A
+41,Frank Kaminsky,TURNOVER,None,7:59,2,Hornets,76ers,43 - 39,1,N/A,N/A,N/A
+42,James Ennis,FG_MISS,None,7:36,2,76ers,Hornets,43 - 39,0,14,2,Jumper
+43,Miles Bridges,DEFENSIVE_REBOUND,None,7:31,2,Hornets,76ers,43 - 39,1,N/A,N/A,N/A
+44,Frank Kaminsky,FG_MISS,None,7:28,2,Hornets,76ers,43 - 39,1,26,3,Jumper
+45,James Ennis,DEFENSIVE_REBOUND,None,7:25,2,76ers,Hornets,43 - 39,0,N/A,N/A,N/A
+46,JJ Redick,FG_ASSISTED,Jimmy Butler,7:16,2,76ers,Hornets,46 - 39,0, ,3,Jumper
+47,Jimmy Butler,FOUL_ON_FLOOR,None,6:59,2,76ers,Hornets,46 - 39,0,N/A,N/A,N/A
+48,Frank Kaminsky,FT,None,6:59,2,Hornets,76ers,46 - 40,1,N/A,1,N/A
+49,Frank Kaminsky,FT,None,6:59,2,Hornets,76ers,46 - 41,1,N/A,1,N/A
+50,Jimmy Butler,FG_UNASSISTED,None,6:40,2,76ers,Hornets,48 - 41,0,12,2,Jumper
+51,Shelvin Mack,FG_MISS,None,6:25,2,Hornets,76ers,48 - 41,1,27,3,Jumper
+52,Team,DEFENSIVE_REBOUND,None,6:23,2,76ers,Hornets,48 - 41,0,N/A,N/A,N/A
+53,T.J. McConnell,SUBSTITUTION,Redick JJ,6:23,2,76ers,Hornets,48 - 41,0,N/A,N/A,N/A
+54,Frank Kaminsky,FOUL_ON_FLOOR,None,6:10,2,Hornets,76ers,48 - 41,1,N/A,N/A,N/A
+55,Jimmy Butler,FT,None,6:10,2,76ers,Hornets,49 - 41,0,N/A,1,N/A
+56,Jimmy Butler,FT,None,6:10,2,76ers,Hornets,50 - 41,0,N/A,1,N/A
+57,Frank Kaminsky,FG_MISS,None,5:52,2,Hornets,76ers,50 - 41,1,26,3,Jumper
+58,Miles Bridges,OFFENSIVE_REBOUND,None,5:46,2,Hornets,76ers,50 - 41,1,N/A,N/A,N/A
+59,Jimmy Butler,FOUL_ON_FLOOR,None,5:45,2,76ers,Hornets,50 - 41,0,N/A,N/A,N/A
+60,Marvin Williams,FT,None,5:45,2,Hornets,76ers,50 - 42,1,N/A,1,N/A
+61,Marvin Williams,FT,None,5:45,2,Hornets,76ers,50 - 43,1,N/A,1,N/A
+62,Tobias Harris,FG_ASSISTED,Boban Marjanovic,5:28,2,76ers,Hornets,52 - 43,0,5,2,Jumper
+63,Nicolas Batum,FG_ASSISTED,Frank Kaminsky,5:17,2,Hornets,76ers,52 - 46,1,23,3,Jumper
+64,James Ennis,FG_MISS,None,4:50,2,76ers,Hornets,52 - 46,0,23,3,Jumper
+65,Team,OFFENSIVE_REBOUND,None,4:50,2,76ers,Hornets,52 - 46,0,N/A,N/A,N/A
+66,Marvin Williams,FOUL_ON_FLOOR,None,4:50,2,Hornets,76ers,52 - 46,1,N/A,N/A,N/A
+67,enters the,SUBSTITUTION,Kaminsky Frank,4:50,2,Hornets,76ers,52 - 46,1,N/A,N/A,N/A
+68,Boban Marjanovic,TURNOVER,Miles Bridges,4:40,2,76ers,Hornets,52 - 46,0,N/A,N/A,N/A
+69,Marvin Williams,FG_MISS,None,4:30,2,Hornets,76ers,52 - 46,1,27,3,Jumper
+70,Bismack Biyombo,OFFENSIVE_REBOUND,None,4:23,2,Hornets,76ers,52 - 46,1,N/A,N/A,N/A
+71,Bismack Biyombo,FG_UNASSISTED,None,4:23,2,Hornets,76ers,52 - 48,1, ,2,Jumper
+72,Tobias Harris,FG_MISS,None,4:00,2,76ers,Hornets,52 - 48,0,18,2,Jumper
+73,Miles Bridges,DEFENSIVE_REBOUND,None,3:57,2,Hornets,76ers,52 - 48,1,N/A,N/A,N/A
+74,Shelvin Mack,TURNOVER,Tobias Harris,3:47,2,Hornets,76ers,52 - 48,1,N/A,N/A,N/A
+75,James Ennis,FG_ASSISTED,Jimmy Butler,3:41,2,76ers,Hornets,54 - 48,0,0,2,Dunk
+76,Nicolas Batum,TURNOVER,Jimmy Butler,3:26,2,Hornets,76ers,54 - 48,1,N/A,N/A,N/A
+77,Nicolas Batum,FOUL_ON_FLOOR,None,3:24,2,Hornets,76ers,54 - 48,1,N/A,N/A,N/A
+78,Tobias Harris,FT,None,3:24,2,76ers,Hornets,55 - 48,0,N/A,1,N/A
+79,Jeremy Lamb,SUBSTITUTION,Batum Nicolas,3:24,2,Hornets,76ers,55 - 48,1,N/A,N/A,N/A
+80,Amir Johnson,SUBSTITUTION,Marjanovic Boban,3:24,2,76ers,Hornets,55 - 48,0,N/A,N/A,N/A
+81,Ben Simmons,SUBSTITUTION,McConnell T.J.,3:24,2,76ers,Hornets,55 - 48,0,N/A,N/A,N/A
+82,Tobias Harris,FT,None,3:24,2,76ers,Hornets,56 - 48,0,N/A,1,N/A
+83,Jeremy Lamb,FG_UNASSISTED,None,3:10,2,Hornets,76ers,56 - 51,1,27,3,Jumper
+84,Team,Unknown,None,3:07,2,76ers,Hornets,56 - 51,0,N/A,N/A,N/A
+85,Dwayne Bacon,SUBSTITUTION,Williams Marvin,3:07,2,Hornets,76ers,56 - 51,1,N/A,N/A,N/A
+86,JJ Redick,SUBSTITUTION,III Ennis,3:07,2,76ers,Hornets,56 - 51,0,N/A,N/A,N/A
+87,Mike Scott,SUBSTITUTION,Harris Tobias,3:07,2,76ers,Hornets,56 - 51,0,N/A,N/A,N/A
+88,JJ Redick,TURNOVER,None,3:00,2,76ers,Hornets,56 - 51,0,N/A,N/A,N/A
+89,Miles Bridges,FG_ASSISTED,Jeremy Lamb,2:43,2,Hornets,76ers,56 - 53,1,0,2,Dunk
+90,Amir Johnson,FG_MISS,None,2:26,2,76ers,Hornets,56 - 53,0,0,2,Layup
+91,Amir Johnson,OFFENSIVE_REBOUND,None,2:22,2,76ers,Hornets,56 - 53,0,N/A,N/A,N/A
+92,Amir Johnson,FG_UNASSISTED,None,2:22,2,76ers,Hornets,58 - 53,0, ,2,Jumper
+93,Mike Scott,FOUL_ON_FLOOR,None,2:09,2,76ers,Hornets,58 - 53,0,N/A,N/A,N/A
+94,Dwayne Bacon,FT,None,2:09,2,Hornets,76ers,58 - 54,1,N/A,1,N/A
+95,Dwayne Bacon,FT_MISS,None,2:09,2,Hornets,76ers,58 - 54,1,N/A,1,N/A
+96,Ben Simmons,DEFENSIVE_REBOUND,None,2:07,2,76ers,Hornets,58 - 54,0,N/A,N/A,N/A
+97,Mike Scott,FG_MISS,None,1:59,2,76ers,Hornets,58 - 54,0,24,3,Jumper
+98,Jeremy Lamb,DEFENSIVE_REBOUND,None,1:56,2,Hornets,76ers,58 - 54,1,N/A,N/A,N/A
+99,Shelvin Mack,FG_MISS,None,1:51,2,Hornets,76ers,58 - 54,1,26,3,Jumper
+100,Mike Scott,DEFENSIVE_REBOUND,None,1:47,2,76ers,Hornets,58 - 54,0,N/A,N/A,N/A
+101,Ben Simmons,FG_UNASSISTED,None,1:41,2,76ers,Hornets,60 - 54,0, ,2,Jumper
+102,Jeremy Lamb,FG_UNASSISTED,None,1:23,2,Hornets,76ers,60 - 56,1,0,2,Layup
+103,Ben Simmons,FG_UNASSISTED,None,1:13,2,76ers,Hornets,62 - 56,0,0,2,Layup
+104,Shelvin Mack,FG_MISS,None,55.2,2,Hornets,76ers,62 - 56,1, ,2,Jumper
+105,Bismack Biyombo,OFFENSIVE_REBOUND,None,52.6,2,Hornets,76ers,62 - 56,1,N/A,N/A,N/A
+106,Mike Scott,FOUL_ON_FLOOR,None,52.6,2,76ers,Hornets,62 - 56,0,N/A,N/A,N/A
+107,Bismack Biyombo,FT_MISS,None,52.6,2,Hornets,76ers,62 - 56,1,N/A,1,N/A
+108,Team,OFFENSIVE_REBOUND,None,52.6,2,Hornets,76ers,62 - 56,1,N/A,N/A,N/A
+109,Bismack Biyombo,FT,None,52.6,2,Hornets,76ers,62 - 57,1,N/A,1,N/A
+110,JJ Redick,FG_MISS,None,32.0,2,76ers,Hornets,62 - 57,0,26,3,Jumper
+111,Miles Bridges,DEFENSIVE_REBOUND,None,29.5,2,Hornets,76ers,62 - 57,1,N/A,N/A,N/A
+112,Mike Scott,FOUL_ON_FLOOR,None,10.9,2,76ers,Hornets,62 - 57,0,N/A,N/A,N/A
+113,Dwayne Bacon,FT,None,10.9,2,Hornets,76ers,62 - 58,1,N/A,1,N/A
+114,Michael Kidd-Gilchrist,SUBSTITUTION,Mack Shelvin,10.9,2,Hornets,76ers,62 - 58,1,N/A,N/A,N/A
+115,Nicolas Batum,SUBSTITUTION,Biyombo Bismack,10.9,2,Hornets,76ers,62 - 58,1,N/A,N/A,N/A
+116,Tobias Harris,SUBSTITUTION,Johnson Amir,10.9,2,76ers,Hornets,62 - 58,0,N/A,N/A,N/A
+117,Dwayne Bacon,FT,None,10.9,2,Hornets,76ers,62 - 59,1,N/A,1,N/A
+118,Miles Bridges,FOUL_ON_FLOOR,None,4.4,2,Hornets,76ers,62 - 59,1,N/A,N/A,N/A
+119,Marvin Williams,SUBSTITUTION,Lamb Jeremy,4.4,2,Hornets,76ers,62 - 59,1,N/A,N/A,N/A
+120,Jimmy Butler,TURNOVER,Miles Bridges,2.5,2,76ers,Hornets,62 - 59,0,N/A,N/A,N/A
+121,Miles Bridges,FG_MISS,None,0.0,2,Hornets,76ers,62 - 59,1,46,3,Jumper
+122,Team,OFFENSIVE_REBOUND,None,0.0,2,Hornets,76ers,62 - 59,1,N/A,N/A,N/A
+123,End of,Unknown,None,0.0,2,Hornets,76ers,62 - 59,1,N/A,N/A,N/A
+0,Kemba Walker,SUBSTITUTION,Bacon Dwayne,12:00,3,Hornets,76ers,62 - 59,1,N/A,N/A,N/A
+1,Bismack Biyombo,SUBSTITUTION,Kidd-Gilchrist Michael,12:00,3,Hornets,76ers,62 - 59,1,N/A,N/A,N/A
+2,Amir Johnson,SUBSTITUTION,Scott Mike,12:00,3,76ers,Hornets,62 - 59,0,N/A,N/A,N/A
+3,Kemba Walker,FG_MISS,None,11:47,3,Hornets,76ers,62 - 59,1,26,2,Jumper
+4,Tobias Harris,DEFENSIVE_REBOUND,None,11:43,3,76ers,Hornets,62 - 59,0,N/A,N/A,N/A
+5,Jimmy Butler,FG_MISS,None,11:32,3,76ers,Hornets,62 - 59,0,18,2,Jumper
+6,Miles Bridges,DEFENSIVE_REBOUND,None,11:26,3,Hornets,76ers,62 - 59,1,N/A,N/A,N/A
+7,Kemba Walker,FG_UNASSISTED,None,11:16,3,Hornets,76ers,62 - 61,1,11,2,Jumper
+8,Jimmy Butler,FG_MISS,None,10:50,3,76ers,Hornets,62 - 61,0,27,3,Jumper
+9,Marvin Williams,DEFENSIVE_REBOUND,None,10:44,3,Hornets,76ers,62 - 61,1,N/A,N/A,N/A
+10,Nicolas Batum's,FG_MISS,Jimmy Butler,10:33,3,76ers,Hornets,62 - 61,1,0,2,Layup
+11,JJ Redick,DEFENSIVE_REBOUND,None,10:29,3,76ers,Hornets,62 - 61,0,N/A,N/A,N/A
+12,Bismack Biyombo,FOUL_ON_FLOOR,None,10:17,3,Hornets,76ers,62 - 61,1,N/A,N/A,N/A
+13,Ben Simmons,FT,None,10:17,3,76ers,Hornets,63 - 61,0,N/A,1,N/A
+14,Ben Simmons,FT_MISS,None,10:17,3,76ers,Hornets,63 - 61,0,N/A,1,N/A
+15,Marvin Williams,DEFENSIVE_REBOUND,None,10:15,3,Hornets,76ers,63 - 61,1,N/A,N/A,N/A
+16,Miles Bridges,FG_MISS,None,9:54,3,Hornets,76ers,63 - 61,1,22,2,Jumper
+17,JJ Redick,DEFENSIVE_REBOUND,None,9:51,3,76ers,Hornets,63 - 61,0,N/A,N/A,N/A
+18,JJ Redick,FG_MISS,None,9:40,3,76ers,Hornets,63 - 61,0,26,3,Jumper
+19,Kemba Walker,DEFENSIVE_REBOUND,None,9:37,3,Hornets,76ers,63 - 61,1,N/A,N/A,N/A
+20,Kemba Walker,FG_UNASSISTED,None,9:32,3,Hornets,76ers,63 - 64,1,25,3,Jumper
+21,Team,Unknown,None,9:24,3,76ers,Hornets,63 - 64,0,N/A,N/A,N/A
+22,Tobias Harris,FG_ASSISTED,Jimmy Butler,9:15,3,76ers,Hornets,66 - 64,0,26,3,Jumper
+23,JJ Redick,FOUL_ON_FLOOR,None,9:05,3,76ers,Hornets,66 - 64,0,N/A,N/A,N/A
+24,Kemba Walker,FT,None,9:05,3,Hornets,76ers,66 - 65,1,N/A,1,N/A
+25,Kemba Walker,FT,None,9:05,3,Hornets,76ers,66 - 66,1,N/A,1,N/A
+26,Ben Simmons,FG_ASSISTED,JJ Redick,8:41,3,76ers,Hornets,68 - 66,0,11,2,Jumper
+27,Nicolas Batum,FG_ASSISTED,Bismack Biyombo,8:26,3,Hornets,76ers,68 - 69,1,26,3,Jumper
+28,Marvin Williams,FOUL_ON_FLOOR,None,8:11,3,Hornets,76ers,68 - 69,1,N/A,N/A,N/A
+29,Jimmy Butler,FT,None,8:11,3,76ers,Hornets,69 - 69,0,N/A,1,N/A
+30,Jonah Bolden,SUBSTITUTION,Johnson Amir,8:11,3,76ers,Hornets,69 - 69,0,N/A,N/A,N/A
+31,Jimmy Butler,FT,None,8:11,3,76ers,Hornets,70 - 69,0,N/A,1,N/A
+32,Jonah Bolden,FOUL_ON_FLOOR,None,8:01,3,76ers,Hornets,70 - 69,0,N/A,N/A,N/A
+33,Bismack Biyombo,FT,None,8:01,3,Hornets,76ers,70 - 70,1,N/A,1,N/A
+34,Bismack Biyombo,FT_MISS,None,8:01,3,Hornets,76ers,70 - 70,1,N/A,1,N/A
+35,Ben Simmons,DEFENSIVE_REBOUND,None,7:59,3,76ers,Hornets,70 - 70,0,N/A,N/A,N/A
+36,Jonah Bolden,FG_MISS,None,7:41,3,76ers,Hornets,70 - 70,0,24,3,Jumper
+37,Nicolas Batum,DEFENSIVE_REBOUND,None,7:38,3,Hornets,76ers,70 - 70,1,N/A,N/A,N/A
+38,Nicolas Batum,TURNOVER,Ben Simmons,7:35,3,Hornets,76ers,70 - 70,1,N/A,N/A,N/A
+39,Ben Simmons,FG_UNASSISTED,None,7:31,3,76ers,Hornets,72 - 70,0,2,2,Jumper
+40,Kemba Walker,FG_UNASSISTED,None,7:18,3,Hornets,76ers,72 - 73,1,25,3,Jumper
+41,Jimmy Butler,FG_UNASSISTED,None,6:50,3,76ers,Hornets,74 - 73,0,12,2,Jumper
+42,Bismack Biyombo,FG_ASSISTED,Kemba Walker,6:32,3,Hornets,76ers,74 - 75,1,0,2,Dunk
+43,Ben Simmons,FG_ASSISTED,JJ Redick,6:20,3,76ers,Hornets,76 - 75,0,0,2,Layup
+44,Kemba Walker,FG_MISS,None,6:06,3,Hornets,76ers,76 - 75,1,23,2,Jumper
+45,JJ Redick,DEFENSIVE_REBOUND,None,6:06,3,76ers,Hornets,76 - 75,0,N/A,N/A,N/A
+46,Tobias Harris,FG_ASSISTED,Ben Simmons,6:01,3,76ers,Hornets,78 - 75,0,0,2,Dunk
+47,Team,Unknown,None,6:01,3,Hornets,76ers,78 - 75,1,N/A,N/A,N/A
+48,Dwayne Bacon,SUBSTITUTION,Williams Marvin,6:01,3,Hornets,76ers,78 - 75,1,N/A,N/A,N/A
+49,Jeremy Lamb,SUBSTITUTION,Batum Nicolas,6:01,3,Hornets,76ers,78 - 75,1,N/A,N/A,N/A
+50,Dwayne Bacon,FG_MISS,Ben Simmons,5:37,3,76ers,Hornets,78 - 75,1,0,2,Layup
+51,Ben Simmons,DEFENSIVE_REBOUND,None,5:34,3,76ers,Hornets,78 - 75,0,N/A,N/A,N/A
+52,Tobias Harris,FG_MISS,None,5:32,3,76ers,Hornets,78 - 75,0,26,3,Jumper
+53,Team,DEFENSIVE_REBOUND,None,5:32,3,Hornets,76ers,78 - 75,1,N/A,N/A,N/A
+54,Mike Scott,SUBSTITUTION,Redick JJ,5:31,3,76ers,Hornets,78 - 75,0,N/A,N/A,N/A
+55,Kemba Walker,FG_MISS,None,5:18,3,Hornets,76ers,78 - 75,1,18,2,Jumper
+56,Tobias Harris,DEFENSIVE_REBOUND,None,5:15,3,76ers,Hornets,78 - 75,0,N/A,N/A,N/A
+57,Tobias Harris,FG_ASSISTED,Ben Simmons,5:08,3,76ers,Hornets,80 - 75,0,0,2,Layup
+58,Mike Scott,FOUL_ON_FLOOR,None,4:53,3,76ers,Hornets,80 - 75,0,N/A,N/A,N/A
+59,Jeremy Lamb,FT_MISS,None,4:53,3,Hornets,76ers,80 - 75,1,N/A,1,N/A
+60,Team,OFFENSIVE_REBOUND,None,4:53,3,Hornets,76ers,80 - 75,1,N/A,N/A,N/A
+61,Frank Kaminsky,SUBSTITUTION,Biyombo Bismack,4:53,3,Hornets,76ers,80 - 75,1,N/A,N/A,N/A
+62,T.J. McConnell,SUBSTITUTION,Simmons Ben,4:53,3,76ers,Hornets,80 - 75,0,N/A,N/A,N/A
+63,Jeremy Lamb,FT,None,4:53,3,Hornets,76ers,80 - 76,1,N/A,1,N/A
+64,Jimmy Butler,FG_UNASSISTED,None,4:34,3,76ers,Hornets,82 - 76,0,12,2,Jumper
+65,Frank Kaminsky,FG_MISS,None,4:18,3,Hornets,76ers,82 - 76,1,26,3,Jumper
+66,Miles Bridges,OFFENSIVE_REBOUND,None,4:13,3,Hornets,76ers,82 - 76,1,N/A,N/A,N/A
+67,Jeremy Lamb,FG_MISS,None,4:12,3,Hornets,76ers,82 - 76,1,23,3,Jumper
+68,Miles Bridges,OFFENSIVE_REBOUND,None,4:08,3,Hornets,76ers,82 - 76,1,N/A,N/A,N/A
+69,Miles Bridges,FG_UNASSISTED,None,4:03,3,Hornets,76ers,82 - 78,1,10,2,Jumper
+70,Jimmy Butler,FG_MISS,None,3:38,3,76ers,Hornets,82 - 78,0,10,2,Jumper
+71,Jeremy Lamb,DEFENSIVE_REBOUND,None,3:35,3,Hornets,76ers,82 - 78,1,N/A,N/A,N/A
+72,Jonah Bolden,FOUL_ON_FLOOR,None,3:31,3,76ers,Hornets,82 - 78,0,N/A,N/A,N/A
+73,Jeremy Lamb,FT,None,3:31,3,Hornets,76ers,82 - 79,1,N/A,1,N/A
+74,Jeremy Lamb,FT,None,3:31,3,Hornets,76ers,82 - 80,1,N/A,1,N/A
+75,Kemba Walker,FOUL_ON_FLOOR,None,3:17,3,Hornets,76ers,82 - 80,1,N/A,N/A,N/A
+76,Devonte' Graham,SUBSTITUTION,Walker Kemba,3:17,3,Hornets,76ers,82 - 80,1,N/A,N/A,N/A
+77,JJ Redick,SUBSTITUTION,Butler Jimmy,3:17,3,76ers,Hornets,82 - 80,0,N/A,N/A,N/A
+78,James Ennis,SUBSTITUTION,Harris Tobias,3:17,3,76ers,Hornets,82 - 80,0,N/A,N/A,N/A
+79,JJ Redick,FG_MISS,None,3:09,3,76ers,Hornets,82 - 80,0,19,2,Jumper
+80,Jeremy Lamb,DEFENSIVE_REBOUND,None,3:05,3,Hornets,76ers,82 - 80,1,N/A,N/A,N/A
+81,Jonah Bolden,FOUL_ON_FLOOR,None,2:57,3,76ers,Hornets,82 - 80,0,N/A,N/A,N/A
+82,Dwayne Bacon,FT,None,2:57,3,Hornets,76ers,82 - 81,1,N/A,1,N/A
+83,Ben Simmons,SUBSTITUTION,Bolden Jonah,2:57,3,76ers,Hornets,82 - 81,0,N/A,N/A,N/A
+84,Michael Kidd-Gilchrist,SUBSTITUTION,Bridges Miles,2:57,3,Hornets,76ers,82 - 81,1,N/A,N/A,N/A
+85,Dwayne Bacon,FT,None,2:57,3,Hornets,76ers,82 - 82,1,N/A,1,N/A
+86,Mike Scott,FG_MISS,None,2:45,3,76ers,Hornets,82 - 82,0,23,3,Jumper
+87,Jeremy Lamb,DEFENSIVE_REBOUND,None,2:40,3,Hornets,76ers,82 - 82,1,N/A,N/A,N/A
+88,Jeremy Lamb,FG_MISS,None,2:32,3,Hornets,76ers,82 - 82,1,0,2,Layup
+89,Ben Simmons,DEFENSIVE_REBOUND,None,2:29,3,76ers,Hornets,82 - 82,0,N/A,N/A,N/A
+90,Mike Scott,FG_MISS,None,2:14,3,76ers,Hornets,82 - 82,0,0,2,Layup
+91,Jeremy Lamb,DEFENSIVE_REBOUND,None,2:11,3,Hornets,76ers,82 - 82,1,N/A,N/A,N/A
+92,Dwayne Bacon,FG_MISS,None,2:05,3,Hornets,76ers,82 - 82,1,8,2,Jumper
+93,Frank Kaminsky,OFFENSIVE_REBOUND,None,2:03,3,Hornets,76ers,82 - 82,1,N/A,N/A,N/A
+94,Frank Kaminsky,FG_UNASSISTED,None,2:03,3,Hornets,76ers,82 - 84,1, ,2,Jumper
+95,Mike Scott,FOUL_ON_FLOOR,None,2:03,3,76ers,Hornets,82 - 84,0,N/A,N/A,N/A
+96,Amir Johnson,SUBSTITUTION,Scott Mike,2:03,3,76ers,Hornets,82 - 84,0,N/A,N/A,N/A
+97,Frank Kaminsky,FT_MISS,None,2:03,3,Hornets,76ers,82 - 84,1,N/A,1,N/A
+98,James Ennis,DEFENSIVE_REBOUND,None,1:59,3,76ers,Hornets,82 - 84,0,N/A,N/A,N/A
+99,JJ Redick,FG_MISS,None,1:48,3,76ers,Hornets,82 - 84,0,26,3,Jumper
+100,Michael Kidd-Gilchrist,DEFENSIVE_REBOUND,None,1:46,3,Hornets,76ers,82 - 84,1,N/A,N/A,N/A
+101,Ben Simmons,FOUL_ON_FLOOR,None,1:46,3,76ers,Hornets,82 - 84,0,N/A,N/A,N/A
+102,Kemba Walker,SUBSTITUTION,Kidd-Gilchrist Michael,1:46,3,Hornets,76ers,82 - 84,1,N/A,N/A,N/A
+103,Kemba Walker,FT,None,1:46,3,Hornets,76ers,82 - 85,1,N/A,1,N/A
+104,Jonah Bolden,SUBSTITUTION,Johnson Amir,1:46,3,76ers,Hornets,82 - 85,0,N/A,N/A,N/A
+105,Kemba Walker,FT_MISS,None,1:46,3,Hornets,76ers,82 - 85,1,N/A,1,N/A
+106,Jonah Bolden,DEFENSIVE_REBOUND,None,1:43,3,76ers,Hornets,82 - 85,0,N/A,N/A,N/A
+107,Jonah Bolden,FG_MISS,None,1:27,3,76ers,Hornets,82 - 85,0,26,3,Jumper
+108,Kemba Walker,DEFENSIVE_REBOUND,None,1:24,3,Hornets,76ers,82 - 85,1,N/A,N/A,N/A
+109,Kemba Walker,FG_UNASSISTED,None,1:14,3,Hornets,76ers,82 - 87,1, ,2,Jumper
+110,T.J. McConnell,FG_MISS,None,58.4,3,76ers,Hornets,82 - 87,0,19,2,Jumper
+111,Jeremy Lamb,DEFENSIVE_REBOUND,None,55.8,3,Hornets,76ers,82 - 87,1,N/A,N/A,N/A
+112,Frank Kaminsky,FG_MISS,None,47.7,3,Hornets,76ers,82 - 87,1,27,3,Jumper
+113,Jonah Bolden,DEFENSIVE_REBOUND,None,43.7,3,76ers,Hornets,82 - 87,0,N/A,N/A,N/A
+114,James Ennis,FG_ASSISTED,JJ Redick,28.5,3,76ers,Hornets,84 - 87,0,0,2,Layup
+115,Dwayne Bacon,FOUL_ON_FLOOR,None,28.5,3,Hornets,76ers,84 - 87,1,N/A,N/A,N/A
+116,James Ennis,FT_MISS,None,28.5,3,76ers,Hornets,84 - 87,0,N/A,1,N/A
+117,Devonte' Graham,DEFENSIVE_REBOUND,None,26.4,3,Hornets,76ers,84 - 87,1,N/A,N/A,N/A
+118,Devonte' Graham,FG_MISS,None,9.9,3,Hornets,76ers,84 - 87,1,0,2,Layup
+119,Jeremy Lamb,OFFENSIVE_REBOUND,None,9.9,3,Hornets,76ers,84 - 87,1,N/A,N/A,N/A
+120,Jeremy Lamb,FG_UNASSISTED,None,9.9,3,Hornets,76ers,84 - 89,1, ,2,Jumper
+121,Devonte' Graham,FOUL_ON_FLOOR,None,4.4,3,Hornets,76ers,84 - 89,1,N/A,N/A,N/A
+122,Ben Simmons,FT,None,4.4,3,76ers,Hornets,85 - 89,0,N/A,1,N/A
+123,Ben Simmons,FT_MISS,None,4.4,3,76ers,Hornets,85 - 89,0,N/A,1,N/A
+124,Frank Kaminsky,DEFENSIVE_REBOUND,None,2.6,3,Hornets,76ers,85 - 89,1,N/A,N/A,N/A
+125,Kemba Walker,FG_MISS,None,0.0,3,Hornets,76ers,85 - 89,1,48,3,Jumper
+126,Team,OFFENSIVE_REBOUND,None,0.0,3,Hornets,76ers,85 - 89,1,N/A,N/A,N/A
+127,End of,Unknown,None,0.0,3,Hornets,76ers,85 - 89,1,N/A,N/A,N/A
+0,Marvin Williams,SUBSTITUTION,Graham Devonte',12:00,4,Hornets,76ers,85 - 89,1,N/A,N/A,N/A
+1,Tobias Harris,SUBSTITUTION,III Ennis,12:00,4,76ers,Hornets,85 - 89,0,N/A,N/A,N/A
+2,Jimmy Butler,SUBSTITUTION,McConnell T.J.,12:00,4,76ers,Hornets,85 - 89,0,N/A,N/A,N/A
+3,Jimmy Butler,FG_MISS,None,11:35,4,76ers,Hornets,85 - 89,0, ,2,Jumper
+4,Jeremy Lamb,DEFENSIVE_REBOUND,None,11:32,4,Hornets,76ers,85 - 89,1,N/A,N/A,N/A
+5,Jeremy Lamb,FG_MISS,None,11:27,4,Hornets,76ers,85 - 89,1,27,3,Jumper
+6,JJ Redick,DEFENSIVE_REBOUND,None,11:27,4,76ers,Hornets,85 - 89,0,N/A,N/A,N/A
+7,Tobias Harris,FG_ASSISTED,JJ Redick,11:05,4,76ers,Hornets,87 - 89,0,15,2,Jumper
+8,Frank Kaminsky,FG_ASSISTED,Kemba Walker,10:49,4,Hornets,76ers,87 - 91,1, ,2,Jumper
+9,Jonah Bolden,FOUL_ON_FLOOR,None,10:49,4,76ers,Hornets,87 - 91,0,N/A,N/A,N/A
+10,Frank Kaminsky,FT,None,10:49,4,Hornets,76ers,87 - 92,1,N/A,1,N/A
+11,JJ Redick,FG_ASSISTED,Ben Simmons,10:40,4,76ers,Hornets,90 - 92,0,26,3,Jumper
+12,Kemba Walker,FG_MISS,None,10:23,4,Hornets,76ers,90 - 92,1,21,2,Jumper
+13,Ben Simmons,DEFENSIVE_REBOUND,None,10:19,4,76ers,Hornets,90 - 92,0,N/A,N/A,N/A
+14,Jimmy Butler,FG_ASSISTED,Ben Simmons,10:12,4,76ers,Hornets,92 - 92,0,1,2,Jumper
+15,Jeremy Lamb,FG_UNASSISTED,None,9:55,4,Hornets,76ers,92 - 94,1,0,2,Layup
+16,Dwayne Bacon,FOUL_ON_FLOOR,None,9:47,4,Hornets,76ers,92 - 94,1,N/A,N/A,N/A
+17,Ben Simmons,FT_MISS,None,9:47,4,76ers,Hornets,92 - 94,0,N/A,1,N/A
+18,Team,OFFENSIVE_REBOUND,None,9:47,4,76ers,Hornets,92 - 94,0,N/A,N/A,N/A
+19,Ben Simmons,FT,None,9:47,4,76ers,Hornets,93 - 94,0,N/A,1,N/A
+20,Kemba Walker,FG_MISS,None,9:35,4,Hornets,76ers,93 - 94,1,21,2,Jumper
+21,Tobias Harris,DEFENSIVE_REBOUND,None,9:32,4,76ers,Hornets,93 - 94,0,N/A,N/A,N/A
+22,Tobias Harris,FOUL_ON_FLOOR,None,9:25,4,76ers,Hornets,93 - 94,0,N/A,N/A,N/A
+23,Tobias Harris,TURNOVER,None,9:25,4,76ers,Hornets,93 - 94,0,N/A,N/A,N/A
+24,Jeremy Lamb,FG_MISS,None,9:09,4,Hornets,76ers,93 - 94,1,0,2,Layup
+25,Tobias Harris,DEFENSIVE_REBOUND,None,9:07,4,76ers,Hornets,93 - 94,0,N/A,N/A,N/A
+26,JJ Redick,FG_MISS,None,8:57,4,76ers,Hornets,93 - 94,0,23,3,Jumper
+27,Jimmy Butler,OFFENSIVE_REBOUND,None,8:55,4,76ers,Hornets,93 - 94,0,N/A,N/A,N/A
+28,Frank Kaminsky,FOUL_ON_FLOOR,None,8:49,4,Hornets,76ers,93 - 94,1,N/A,N/A,N/A
+29,Ben Simmons,FT,None,8:49,4,76ers,Hornets,94 - 94,0,N/A,1,N/A
+30,Ben Simmons,FT,None,8:49,4,76ers,Hornets,95 - 94,0,N/A,1,N/A
+31,Frank Kaminsky,FG_UNASSISTED,None,8:26,4,Hornets,76ers,95 - 96,1,7,2,Jumper
+32,Tobias Harris,FG_MISS,None,8:07,4,76ers,Hornets,95 - 96,0,0,2,Layup
+33,Jeremy Lamb,DEFENSIVE_REBOUND,None,8:05,4,Hornets,76ers,95 - 96,1,N/A,N/A,N/A
+34,Jeremy Lamb,TURNOVER,Jonah Bolden,7:58,4,Hornets,76ers,95 - 96,1,N/A,N/A,N/A
+35,Jimmy Butler,FG_MISS,None,7:53,4,76ers,Hornets,95 - 96,0,23,3,Jumper
+36,Kemba Walker,DEFENSIVE_REBOUND,None,7:50,4,Hornets,76ers,95 - 96,1,N/A,N/A,N/A
+37,Kemba Walker,FG_UNASSISTED,None,7:48,4,Hornets,76ers,95 - 98,1, ,2,Jumper
+38,Team,Unknown,None,7:48,4,76ers,Hornets,95 - 98,0,N/A,N/A,N/A
+39,Miles Bridges,SUBSTITUTION,Lamb Jeremy,7:48,4,Hornets,76ers,95 - 98,1,N/A,N/A,N/A
+40,Nicolas Batum,SUBSTITUTION,Kaminsky Frank,7:48,4,Hornets,76ers,95 - 98,1,N/A,N/A,N/A
+41,Jimmy Butler,FG_MISS,None,7:25,4,76ers,Hornets,95 - 98,0,18,2,Jumper
+42,Kemba Walker,DEFENSIVE_REBOUND,None,7:22,4,Hornets,76ers,95 - 98,1,N/A,N/A,N/A
+43,Marvin Williams,TURNOVER,None,7:21,4,Hornets,76ers,95 - 98,1,N/A,N/A,N/A
+44,Mike Scott,SUBSTITUTION,Redick JJ,7:21,4,76ers,Hornets,95 - 98,0,N/A,N/A,N/A
+45,James Ennis,SUBSTITUTION,Bolden Jonah,7:21,4,76ers,Hornets,95 - 98,0,N/A,N/A,N/A
+46,James Ennis,FG_ASSISTED,Tobias Harris,7:04,4,76ers,Hornets,97 - 98,0, ,2,Jumper
+47,Miles Bridges,FG_MISS,None,6:44,4,Hornets,76ers,97 - 98,1,2,2,Jumper
+48,Jimmy Butler,DEFENSIVE_REBOUND,None,6:41,4,76ers,Hornets,97 - 98,0,N/A,N/A,N/A
+49,Tobias Harris,FG_MISS,None,6:31,4,76ers,Hornets,97 - 98,0,11,2,Jumper
+50,Miles Bridges,DEFENSIVE_REBOUND,None,6:28,4,Hornets,76ers,97 - 98,1,N/A,N/A,N/A
+51,Kemba Walker,FG_UNASSISTED,None,6:17,4,Hornets,76ers,97 - 100,1,16,2,Jumper
+52,James Ennis,FG_ASSISTED,Jimmy Butler,5:48,4,76ers,Hornets,100 - 100,0,26,3,Jumper
+53,Team,Unknown,None,5:46,4,Hornets,76ers,100 - 100,1,N/A,N/A,N/A
+54,Frank Kaminsky,SUBSTITUTION,Batum Nicolas,5:46,4,Hornets,76ers,100 - 100,1,N/A,N/A,N/A
+55,Jeremy Lamb,SUBSTITUTION,for game,5:46,4,Hornets,76ers,100 - 100,1,N/A,N/A,N/A
+56,enters the,SUBSTITUTION,Williams Marvin,5:46,4,Hornets,76ers,100 - 100,1,N/A,N/A,N/A
+57,Dwayne Bacon,FG_UNASSISTED,None,5:32,4,Hornets,76ers,100 - 102,1,0,2,Layup
+58,James Ennis,FOUL_ON_FLOOR,None,5:32,4,76ers,Hornets,100 - 102,0,N/A,N/A,N/A
+59,Dwayne Bacon,FT_MISS,None,5:32,4,Hornets,76ers,100 - 102,1,N/A,1,N/A
+60,Tobias Harris,DEFENSIVE_REBOUND,None,5:23,4,76ers,Hornets,100 - 102,0,N/A,N/A,N/A
+61,Tobias Harris,FG_ASSISTED,Jimmy Butler,5:20,4,76ers,Hornets,102 - 102,0,0,2,Dunk
+62,Mike Scott,FOUL_ON_FLOOR,None,5:04,4,76ers,Hornets,102 - 102,0,N/A,N/A,N/A
+63,JJ Redick,SUBSTITUTION,Scott Mike,5:04,4,76ers,Hornets,102 - 102,0,N/A,N/A,N/A
+64,Dwayne Bacon,FT,None,5:04,4,Hornets,76ers,102 - 103,1,N/A,1,N/A
+65,Dwayne Bacon,FT_MISS,None,5:04,4,Hornets,76ers,102 - 103,1,N/A,1,N/A
+66,JJ Redick,DEFENSIVE_REBOUND,None,4:59,4,76ers,Hornets,102 - 103,0,N/A,N/A,N/A
+67,JJ Redick,FG_ASSISTED,Ben Simmons,4:54,4,76ers,Hornets,105 - 103,0,26,3,Jumper
+68,Team,Unknown,None,4:52,4,Hornets,76ers,105 - 103,1,N/A,N/A,N/A
+69,Nicolas Batum,SUBSTITUTION,Bridges Miles,4:38,4,Hornets,76ers,105 - 103,1,N/A,N/A,N/A
+70,blocks Kemba,FG_MISS,James Ennis,4:29,4,76ers,Hornets,105 - 103,1,15,2,Jumper
+71,Tobias Harris,DEFENSIVE_REBOUND,None,4:25,4,76ers,Hornets,105 - 103,0,N/A,N/A,N/A
+72,Jimmy Butler,FG_MISS,None,4:10,4,76ers,Hornets,105 - 103,0,19,2,Jumper
+73,Dwayne Bacon,DEFENSIVE_REBOUND,None,4:07,4,Hornets,76ers,105 - 103,1,N/A,N/A,N/A
+74,Frank Kaminsky,TURNOVER,None,4:00,4,Hornets,76ers,105 - 103,1,N/A,N/A,N/A
+75,Frank Kaminsky,TURNOVER,None,4:00,4,Hornets,76ers,105 - 103,1,N/A,N/A,N/A
+76,Jimmy Butler,FG_UNASSISTED,None,3:49,4,76ers,Hornets,107 - 103,0,0,2,Layup
+77,James Ennis,FOUL_ON_FLOOR,None,3:38,4,76ers,Hornets,107 - 103,0,N/A,N/A,N/A
+78,Jimmy Butler,FOUL_ON_FLOOR,None,3:25,4,76ers,Hornets,107 - 103,0,N/A,N/A,N/A
+79,Frank Kaminsky,FT,None,3:25,4,Hornets,76ers,107 - 104,1,N/A,1,N/A
+80,Team,Unknown,None,3:25,4,76ers,Hornets,107 - 104,0,N/A,N/A,N/A
+81,Frank Kaminsky,FT_MISS,None,3:25,4,Hornets,76ers,107 - 104,1,N/A,1,N/A
+82,Ben Simmons,DEFENSIVE_REBOUND,None,3:22,4,76ers,Hornets,107 - 104,0,N/A,N/A,N/A
+83,Jimmy Butler,FG_MISS,Frank Kaminsky,3:06,4,Hornets,76ers,107 - 104,0,0,2,Layup
+84,Team,OFFENSIVE_REBOUND,None,3:06,4,76ers,Hornets,107 - 104,0,N/A,N/A,N/A
+85,Frank Kaminsky,FOUL_ON_FLOOR,None,3:05,4,Hornets,76ers,107 - 104,1,N/A,N/A,N/A
+86,Tobias Harris,FG_MISS,None,2:58,4,76ers,Hornets,107 - 104,0,29,3,Jumper
+87,Jeremy Lamb,DEFENSIVE_REBOUND,None,2:54,4,Hornets,76ers,107 - 104,1,N/A,N/A,N/A
+88,Dwayne Bacon,FG_ASSISTED,Jeremy Lamb,2:46,4,Hornets,76ers,107 - 106,1,0,2,Layup
+89,JJ Redick,FG_MISS,None,2:33,4,76ers,Hornets,107 - 106,0,26,3,Jumper
+90,Jeremy Lamb,DEFENSIVE_REBOUND,None,2:30,4,Hornets,76ers,107 - 106,1,N/A,N/A,N/A
+91,Dwayne Bacon,FG_MISS,None,2:25,4,Hornets,76ers,107 - 106,1,1,2,Jumper
+92,Nicolas Batum,OFFENSIVE_REBOUND,None,2:22,4,Hornets,76ers,107 - 106,1,N/A,N/A,N/A
+93,Kemba Walker,FG_MISS,None,2:19,4,Hornets,76ers,107 - 106,1,25,3,Jumper
+94,JJ Redick,DEFENSIVE_REBOUND,None,2:17,4,76ers,Hornets,107 - 106,0,N/A,N/A,N/A
+95,Ben Simmons,FG_ASSISTED,Jimmy Butler,2:01,4,76ers,Hornets,109 - 106,0,0,2,Dunk
+96,Jeremy Lamb,FG_ASSISTED,Kemba Walker,1:45,4,Hornets,76ers,109 - 109,1,24,3,Jumper
+97,Jimmy Butler,FG_UNASSISTED,None,1:26,4,76ers,Hornets,112 - 109,0,27,3,Jumper
+98,James Ennis,FOUL_ON_FLOOR,None,1:11,4,76ers,Hornets,112 - 109,0,N/A,N/A,N/A
+99,Jeremy Lamb,FT,None,1:11,4,Hornets,76ers,112 - 110,1,N/A,1,N/A
+100,Miles Bridges,SUBSTITUTION,Kaminsky Frank,1:11,4,Hornets,76ers,112 - 110,1,N/A,N/A,N/A
+101,Jeremy Lamb,FT,None,1:11,4,Hornets,76ers,112 - 111,1,N/A,1,N/A
+102,JJ Redick,FG_MISS,None,1:00,4,76ers,Hornets,112 - 111,0,17,2,Jumper
+103,Dwayne Bacon,DEFENSIVE_REBOUND,None,58.4,4,Hornets,76ers,112 - 111,1,N/A,N/A,N/A
+104,Miles Bridges,FG_MISS,None,50.4,4,Hornets,76ers,112 - 111,1,23,3,Jumper
+105,Ben Simmons,DEFENSIVE_REBOUND,None,47.7,4,76ers,Hornets,112 - 111,0,N/A,N/A,N/A
+106,Jimmy Butler,FG_MISS,None,33.4,4,76ers,Hornets,112 - 111,0,26,3,Jumper
+107,Tobias Harris,OFFENSIVE_REBOUND,None,28.1,4,76ers,Hornets,112 - 111,0,N/A,N/A,N/A
+108,James Ennis,FG_ASSISTED,Jimmy Butler,18.6,4,76ers,Hornets,115 - 111,0,24,3,Jumper
+109,Team,Unknown,None,18.4,4,Hornets,76ers,115 - 111,1,N/A,N/A,N/A
+110,Frank Kaminsky,SUBSTITUTION,Bridges Miles,18.4,4,Hornets,76ers,115 - 111,1,N/A,N/A,N/A
+111,T.J. McConnell,SUBSTITUTION,Redick JJ,18.4,4,76ers,Hornets,115 - 111,0,N/A,N/A,N/A
+112,James Ennis,FOUL_ON_FLOOR,None,12.1,4,76ers,Hornets,115 - 111,0,N/A,N/A,N/A
+113,Jeremy Lamb,FT,None,12.1,4,Hornets,76ers,115 - 112,1,N/A,1,N/A
+114,Jeremy Lamb,FT,None,12.1,4,Hornets,76ers,115 - 113,1,N/A,1,N/A
+115,Bismack Biyombo,SUBSTITUTION,Kaminsky Frank,12.1,4,Hornets,76ers,115 - 113,1,N/A,N/A,N/A
+116,JJ Redick,SUBSTITUTION,McConnell T.J.,12.1,4,76ers,Hornets,115 - 113,0,N/A,N/A,N/A
+117,Jeremy Lamb,FT,None,12.1,4,Hornets,76ers,115 - 114,1,N/A,1,N/A
+118,Team,Unknown,None,12.1,4,76ers,Hornets,115 - 114,0,N/A,N/A,N/A
+119,Nicolas Batum,FOUL_ON_FLOOR,None,10.6,4,Hornets,76ers,115 - 114,1,N/A,N/A,N/A
+120,Bismack Biyombo,FOUL_ON_FLOOR,None,8.2,4,Hornets,76ers,115 - 114,1,N/A,N/A,N/A
+121,Tobias Harris,FT_MISS,None,8.2,4,76ers,Hornets,115 - 114,0,N/A,1,N/A
+122,Team,OFFENSIVE_REBOUND,None,8.2,4,76ers,Hornets,115 - 114,0,N/A,N/A,N/A
+123,Frank Kaminsky,SUBSTITUTION,Bacon Dwayne,8.2,4,Hornets,76ers,115 - 114,1,N/A,N/A,N/A
+124,Tobias Harris,FT,None,8.2,4,76ers,Hornets,116 - 114,0,N/A,1,N/A
+125,Team,Unknown,None,8.2,4,Hornets,76ers,116 - 114,1,N/A,N/A,N/A
+126,Dwayne Bacon,SUBSTITUTION,Biyombo Bismack,8.2,4,Hornets,76ers,116 - 114,1,N/A,N/A,N/A
+127,T.J. McConnell,SUBSTITUTION,Redick JJ,8.2,4,76ers,Hornets,116 - 114,0,N/A,N/A,N/A
+128,Jeremy Lamb,FG_MISS,None,2.0,4,Hornets,76ers,116 - 114,1,0,2,Layup
+129,Nicolas Batum,OFFENSIVE_REBOUND,None,0.8,4,Hornets,76ers,116 - 114,1,N/A,N/A,N/A
+130,Nicolas Batum,FG_MISS,None,0.8,4,Hornets,76ers,116 - 114,1,1,2,Jumper
+131,Tobias Harris,DEFENSIVE_REBOUND,None,0.8,4,76ers,Hornets,116 - 114,0,N/A,N/A,N/A
+132,Frank Kaminsky,FOUL_ON_FLOOR,None,0.8,4,Hornets,76ers,116 - 114,1,N/A,N/A,N/A
+133,Tobias Harris,FT,None,0.8,4,76ers,Hornets,117 - 114,0,N/A,1,N/A
+134,Tobias Harris,FT,None,0.8,4,76ers,Hornets,118 - 114,0,N/A,1,N/A
+135,Kemba Walker,FG_MISS,None,0.0,4,Hornets,76ers,118 - 114,1,1,2,Jumper
+136,Team,OFFENSIVE_REBOUND,None,0.0,4,Hornets,76ers,118 - 114,1,N/A,N/A,N/A
+137,End of,Unknown,None,0.0,4,Hornets,76ers,118 - 114,1,N/A,N/A,N/A
+138,End of,Unknown,None,0.0,4,Hornets,76ers,118 - 114,1,N/A,N/A,N/A

@@ -1,0 +1,419 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Nikola Vucevic,JUMP_BALL,None,12:00,1,Pistons,Magic,0 - 0,1,N/A,N/A,N/A
+1,Reggie Bullock,FG_MISS,None,11:36,1,Pistons,Magic,0 - 0,1,26,3,Jumper
+2,Andre Drummond,OFFENSIVE_REBOUND,None,11:35,1,Pistons,Magic,0 - 0,1,N/A,N/A,N/A
+3,shot clock,TURNOVER,None,11:34,1,Pistons,Magic,0 - 0,1,N/A,N/A,N/A
+4,Aaron Gordon,FG_MISS,None,11:09,1,Magic,Pistons,0 - 0,0,28,3,Jumper
+5,Team,OFFENSIVE_REBOUND,None,11:08,1,Magic,Pistons,0 - 0,0,N/A,N/A,N/A
+6,shot clock,TURNOVER,None,11:08,1,Magic,Pistons,0 - 0,0,N/A,N/A,N/A
+7,Andre Drummond,FG_MISS,None,10:52,1,Pistons,Magic,0 - 0,1,7,2,Jumper
+8,Nikola Vucevic,DEFENSIVE_REBOUND,None,10:51,1,Magic,Pistons,0 - 0,0,N/A,N/A,N/A
+9,Nikola Vucevic,FG_ASSISTED,Evan Fournier,10:43,1,Magic,Pistons,2 - 0,0,15,2,Jumper
+10,Reggie Bullock,TURNOVER,Nikola Vucevic,10:31,1,Pistons,Magic,2 - 0,1,N/A,N/A,N/A
+11,Evan Fournier,TURNOVER,None,10:31,1,Magic,Pistons,2 - 0,0,N/A,N/A,N/A
+12,Bruce Brown,FG_MISS,None,10:14,1,Pistons,Magic,2 - 0,1,10,2,Jumper
+13,Aaron Gordon,DEFENSIVE_REBOUND,None,10:11,1,Magic,Pistons,2 - 0,0,N/A,N/A,N/A
+14,D.J. Augustin,FG_UNASSISTED,None,10:03,1,Magic,Pistons,4 - 0,0,15,2,Jumper
+15,Reggie Jackson,FG_ASSISTED,Reggie Bullock,9:41,1,Pistons,Magic,4 - 3,1,22,3,Jumper
+16,Jonathan Isaac,FG_UNASSISTED,None,9:28,1,Magic,Pistons,6 - 3,0,0,2,Layup
+17,Andre Drummond,FG_MISS,None,9:18,1,Pistons,Magic,6 - 3,1,0,2,Layup
+18,D.J. Augustin,DEFENSIVE_REBOUND,None,9:16,1,Magic,Pistons,6 - 3,0,N/A,N/A,N/A
+19,Evan Fournier,FG_ASSISTED,D.J. Augustin,9:11,1,Magic,Pistons,9 - 3,0,26,3,Jumper
+20,Reggie Jackson,FG_MISS,None,8:48,1,Pistons,Magic,9 - 3,1,9,2,Jumper
+21,Andre Drummond,OFFENSIVE_REBOUND,None,8:47,1,Pistons,Magic,9 - 3,1,N/A,N/A,N/A
+22,Andre Drummond,FG_UNASSISTED,None,8:46,1,Pistons,Magic,9 - 5,1,3,2,Jumper
+23,Nikola Vucevic,FG_MISS,None,8:36,1,Magic,Pistons,9 - 5,0,24,3,Jumper
+24,Blake Griffin,DEFENSIVE_REBOUND,None,8:33,1,Pistons,Magic,9 - 5,1,N/A,N/A,N/A
+25,Blake Griffin,TURNOVER,Evan Fournier,8:27,1,Pistons,Magic,9 - 5,1,N/A,N/A,N/A
+26,Evan Fournier,FG_MISS,None,8:18,1,Magic,Pistons,9 - 5,0,25,3,Jumper
+27,Aaron Gordon,OFFENSIVE_REBOUND,None,8:15,1,Magic,Pistons,9 - 5,0,N/A,N/A,N/A
+28,D.J. Augustin,FG_MISS,Bruce Brown,8:03,1,Pistons,Magic,9 - 5,0,0,2,Layup
+29,Andre Drummond,DEFENSIVE_REBOUND,None,8:01,1,Pistons,Magic,9 - 5,1,N/A,N/A,N/A
+30,Reggie Bullock,FG_ASSISTED,Blake Griffin,7:54,1,Pistons,Magic,9 - 8,1,26,3,Jumper
+31,D.J. Augustin,FG_UNASSISTED,None,7:38,1,Magic,Pistons,11 - 8,0,9,2,Jumper
+32,Blake Griffin,FG_UNASSISTED,None,7:19,1,Pistons,Magic,11 - 10,1,0,2,Layup
+33,Evan Fournier,FG_UNASSISTED,None,7:00,1,Magic,Pistons,13 - 10,0,14,2,Jumper
+34,Evan Fournier,FOUL_ON_FLOOR,None,6:45,1,Magic,Pistons,13 - 10,0,N/A,N/A,N/A
+35,Team,Unknown,None,6:45,1,Pistons,Magic,13 - 10,1,N/A,N/A,N/A
+36,shot clock,TURNOVER,None,6:30,1,Pistons,Magic,13 - 10,1,N/A,N/A,N/A
+37,Aaron Gordon,FG_ASSISTED,D.J. Augustin,6:19,1,Magic,Pistons,15 - 10,0,0,2,Dunk
+38,Reggie Bullock,FG_ASSISTED,Blake Griffin,6:01,1,Pistons,Magic,15 - 12,1, ,2,Jumper
+39,Aaron Gordon,FG_MISS,None,5:45,1,Magic,Pistons,15 - 12,0,26,3,Jumper
+40,Andre Drummond,DEFENSIVE_REBOUND,None,5:42,1,Pistons,Magic,15 - 12,1,N/A,N/A,N/A
+41,Wesley Iwundu,SUBSTITUTION,Isaac Jonathan,5:35,1,Magic,Pistons,15 - 12,0,N/A,N/A,N/A
+42,Reggie Jackson,TURNOVER,Wesley Iwundu,5:21,1,Pistons,Magic,15 - 12,1,N/A,N/A,N/A
+43,Wesley Iwundu,FG_UNASSISTED,None,5:19,1,Magic,Pistons,17 - 12,0,0,2,Dunk
+44,Reggie Jackson,FG_ASSISTED,Reggie Bullock,4:53,1,Pistons,Magic,17 - 14,1,7,2,Jumper
+45,Nikola Vucevic,FOUL_ON_FLOOR,None,4:53,1,Magic,Pistons,17 - 14,0,N/A,N/A,N/A
+46,Langston Galloway,SUBSTITUTION,Brown Bruce,4:53,1,Pistons,Magic,17 - 14,1,N/A,N/A,N/A
+47,Isaiah Briscoe,SUBSTITUTION,Augustin D.J.,4:53,1,Magic,Pistons,17 - 14,0,N/A,N/A,N/A
+48,Reggie Jackson,FT,None,4:53,1,Pistons,Magic,17 - 15,1,N/A,1,N/A
+49,Evan Fournier,FG_UNASSISTED,None,4:35,1,Magic,Pistons,19 - 15,0, ,2,Jumper
+50,Blake Griffin,FG_MISS,None,4:23,1,Pistons,Magic,19 - 15,1,10,2,Jumper
+51,Andre Drummond,OFFENSIVE_REBOUND,None,4:22,1,Pistons,Magic,19 - 15,1,N/A,N/A,N/A
+52,Andre Drummond,FG_UNASSISTED,None,4:22,1,Pistons,Magic,19 - 17,1, ,2,Jumper
+53,Aaron Gordon,TURNOVER,None,4:04,1,Magic,Pistons,19 - 17,0,N/A,N/A,N/A
+54,Aaron Gordon,TURNOVER,None,4:04,1,Magic,Pistons,19 - 17,0,N/A,N/A,N/A
+55,Ish Smith,SUBSTITUTION,Jackson Reggie,4:04,1,Pistons,Magic,19 - 17,1,N/A,N/A,N/A
+56,Terrence Ross,SUBSTITUTION,Fournier Evan,4:04,1,Magic,Pistons,19 - 17,0,N/A,N/A,N/A
+57,Blake Griffin,TURNOVER,None,3:55,1,Pistons,Magic,19 - 17,1,N/A,N/A,N/A
+58,Andre Drummond,FOUL_ON_FLOOR,None,3:44,1,Pistons,Magic,19 - 17,1,N/A,N/A,N/A
+59,Nikola Vucevic,FG_ASSISTED,Isaiah Briscoe,3:38,1,Magic,Pistons,22 - 17,0,25,3,Jumper
+60,Andre Drummond,FG_ASSISTED,Reggie Bullock,3:25,1,Pistons,Magic,22 - 19,1,4,2,Jumper
+61,Isaiah Briscoe,TURNOVER,None,3:10,1,Magic,Pistons,22 - 19,0,N/A,N/A,N/A
+62,Langston Galloway,FG_MISS,None,2:55,1,Pistons,Magic,22 - 19,1,23,3,Jumper
+63,Langston Galloway,OFFENSIVE_REBOUND,None,2:52,1,Pistons,Magic,22 - 19,1,N/A,N/A,N/A
+64,Blake Griffin,FG_UNASSISTED,None,2:43,1,Pistons,Magic,22 - 21,1, ,2,Jumper
+65,Wesley Iwundu,FG_ASSISTED,Nikola Vucevic,2:22,1,Magic,Pistons,24 - 21,0,0,2,Layup
+66,Blake Griffin,FG_UNASSISTED,None,2:06,1,Pistons,Magic,24 - 23,1,0,2,Layup
+67,Isaiah Briscoe,FG_UNASSISTED,None,1:56,1,Magic,Pistons,26 - 23,0,0,2,Layup
+68,Ish Smith,FG_MISS,None,1:45,1,Pistons,Magic,26 - 23,1, ,2,Jumper
+69,Andre Drummond,OFFENSIVE_REBOUND,None,1:44,1,Pistons,Magic,26 - 23,1,N/A,N/A,N/A
+70,Andre Drummond,FG_MISS,None,1:42,1,Pistons,Magic,26 - 23,1,3,2,Jumper
+71,Wesley Iwundu,DEFENSIVE_REBOUND,None,1:42,1,Magic,Pistons,26 - 23,0,N/A,N/A,N/A
+72,Andre Drummond,FG_MISS,None,1:42,1,Pistons,Magic,26 - 23,1,0,2,Layup
+73,Andre Drummond,OFFENSIVE_REBOUND,None,1:42,1,Pistons,Magic,26 - 23,1,N/A,N/A,N/A
+74,Terrence Ross,FG_ASSISTED,Isaiah Briscoe,1:34,1,Magic,Pistons,29 - 23,0,25,3,Jumper
+75,Reggie Bullock,FG_ASSISTED,Langston Galloway,1:18,1,Pistons,Magic,29 - 26,1,26,3,Jumper
+76,Terrence Ross,FG_ASSISTED,Isaiah Briscoe,1:05,1,Magic,Pistons,32 - 26,0,26,3,Jumper
+77,Reggie Bullock,FG_MISS,None,47.9,1,Pistons,Magic,32 - 26,1,25,3,Jumper
+78,Isaiah Briscoe,DEFENSIVE_REBOUND,None,45.2,1,Magic,Pistons,32 - 26,0,N/A,N/A,N/A
+79,Aaron Gordon,TURNOVER,None,41.9,1,Magic,Pistons,32 - 26,0,N/A,N/A,N/A
+80,Team,Unknown,None,41.9,1,Magic,Pistons,32 - 26,0,N/A,N/A,N/A
+81,Luke Kennard,SUBSTITUTION,Bullock Reggie,41.9,1,Pistons,Magic,32 - 26,1,N/A,N/A,N/A
+82,Khem Birch,SUBSTITUTION,Gordon Aaron,41.9,1,Magic,Pistons,32 - 26,0,N/A,N/A,N/A
+83,Jonathan Isaac,SUBSTITUTION,Vucevic Nikola,41.9,1,Magic,Pistons,32 - 26,0,N/A,N/A,N/A
+84,Ish Smith,FG_MISS,None,20.1,1,Pistons,Magic,32 - 26,1, ,2,Jumper
+85,Isaiah Briscoe,DEFENSIVE_REBOUND,None,17.9,1,Magic,Pistons,32 - 26,0,N/A,N/A,N/A
+86,Ish Smith,FOUL_ON_FLOOR,None,7.2,1,Pistons,Magic,32 - 26,1,N/A,N/A,N/A
+87,Khem Birch,FG_ASSISTED,Isaiah Briscoe,2.2,1,Magic,Pistons,34 - 26,0,0,2,Layup
+88,Langston Galloway,FG_MISS,None,0.1,1,Pistons,Magic,34 - 26,1,44,3,Jumper
+89,Team,OFFENSIVE_REBOUND,None,0.1,1,Pistons,Magic,34 - 26,1,N/A,N/A,N/A
+90,End of,Unknown,None,0.0,1,Pistons,Magic,34 - 26,1,N/A,N/A,N/A
+0,Zaza Pachulia,SUBSTITUTION,Drummond Andre,12:00,2,Pistons,Magic,34 - 26,1,N/A,N/A,N/A
+1,Stanley Johnson,SUBSTITUTION,Griffin Blake,12:00,2,Pistons,Magic,34 - 26,1,N/A,N/A,N/A
+2,Evan Fournier,SUBSTITUTION,Iwundu Wesley,12:00,2,Magic,Pistons,34 - 26,0,N/A,N/A,N/A
+3,Terrence Ross,FG_MISS,None,11:42,2,Magic,Pistons,34 - 26,0,27,3,Jumper
+4,Luke Kennard,DEFENSIVE_REBOUND,None,11:37,2,Pistons,Magic,34 - 26,1,N/A,N/A,N/A
+5,Stanley Johnson,FG_MISS,None,11:15,2,Pistons,Magic,34 - 26,1,14,2,Jumper
+6,Team,OFFENSIVE_REBOUND,None,11:15,2,Pistons,Magic,34 - 26,1,N/A,N/A,N/A
+7,Evan Fournier,FOUL_ON_FLOOR,None,11:15,2,Magic,Pistons,34 - 26,0,N/A,N/A,N/A
+8,Langston Galloway,FG_ASSISTED,Zaza Pachulia,11:06,2,Pistons,Magic,34 - 28,1,16,2,Jumper
+9,Terrence Ross,FG_UNASSISTED,None,10:52,2,Magic,Pistons,37 - 28,0,27,3,Jumper
+10,Ish Smith,TURNOVER,None,10:45,2,Pistons,Magic,37 - 28,1,N/A,N/A,N/A
+11,Terrence Ross,FG_ASSISTED,Khem Birch,10:30,2,Magic,Pistons,39 - 28,0,18,2,Jumper
+12,Luke Kennard,FG_ASSISTED,Zaza Pachulia,10:13,2,Pistons,Magic,39 - 30,1,19,2,Jumper
+13,Luke Kennard,FOUL_TECHNICAL,None,9:54,2,Pistons,Magic,39 - 30,1,N/A,N/A,N/A
+14,Terrence Ross,FT,None,9:54,2,Magic,Pistons,40 - 30,0,N/A,1,N/A
+15,Jonathan Isaac,TURNOVER,Stanley Johnson,9:47,2,Magic,Pistons,40 - 30,0,N/A,N/A,N/A
+16,Isaiah Briscoe,FOUL_ON_FLOOR,None,9:41,2,Magic,Pistons,40 - 30,0,N/A,N/A,N/A
+17,Ish Smith,FT_MISS,None,9:41,2,Pistons,Magic,40 - 30,1,N/A,1,N/A
+18,Team,OFFENSIVE_REBOUND,None,9:41,2,Pistons,Magic,40 - 30,1,N/A,N/A,N/A
+19,Ish Smith,FT,None,9:41,2,Pistons,Magic,40 - 31,1,N/A,1,N/A
+20,Evan Fournier,FG_MISS,None,9:26,2,Magic,Pistons,40 - 31,0,14,2,Jumper
+21,Langston Galloway,DEFENSIVE_REBOUND,None,9:23,2,Pistons,Magic,40 - 31,1,N/A,N/A,N/A
+22,Zaza Pachulia,FG_ASSISTED,Ish Smith,9:18,2,Pistons,Magic,40 - 33,1,16,2,Jumper
+23,Terrence Ross,TURNOVER,None,9:04,2,Magic,Pistons,40 - 33,0,N/A,N/A,N/A
+24,Langston Galloway,FG_ASSISTED,Zaza Pachulia,8:46,2,Pistons,Magic,40 - 35,1,16,2,Jumper
+25,Evan Fournier,FG_UNASSISTED,None,8:26,2,Magic,Pistons,42 - 35,0,0,2,Layup
+26,Luke Kennard,FG_ASSISTED,Ish Smith,8:21,2,Pistons,Magic,42 - 38,1,25,3,Jumper
+27,Team,Unknown,None,8:21,2,Magic,Pistons,42 - 38,0,N/A,N/A,N/A
+28,Reggie Jackson,SUBSTITUTION,Smith Ish,8:21,2,Pistons,Magic,42 - 38,1,N/A,N/A,N/A
+29,Evan Fournier,TURNOVER,Langston Galloway,8:10,2,Magic,Pistons,42 - 38,0,N/A,N/A,N/A
+30,Luke Kennard,FG_MISS,None,8:05,2,Pistons,Magic,42 - 38,1,26,3,Jumper
+31,Jonathan Isaac,DEFENSIVE_REBOUND,None,7:58,2,Magic,Pistons,42 - 38,0,N/A,N/A,N/A
+32,Terrence Ross,FG_MISS,None,7:54,2,Magic,Pistons,42 - 38,0,27,3,Jumper
+33,Stanley Johnson,DEFENSIVE_REBOUND,None,7:51,2,Pistons,Magic,42 - 38,1,N/A,N/A,N/A
+34,Jonathan Isaac,FOUL_ON_FLOOR,None,7:47,2,Magic,Pistons,42 - 38,0,N/A,N/A,N/A
+35,Stanley Johnson,FT,None,7:47,2,Pistons,Magic,42 - 39,1,N/A,1,N/A
+36,Wesley Iwundu,SUBSTITUTION,Fournier Evan,7:47,2,Magic,Pistons,42 - 39,0,N/A,N/A,N/A
+37,Stanley Johnson,FT,None,7:47,2,Pistons,Magic,42 - 40,1,N/A,1,N/A
+38,Terrence Ross,FG_ASSISTED,Isaiah Briscoe,7:30,2,Magic,Pistons,45 - 40,0,24,3,Jumper
+39,Langston Galloway,FG_MISS,None,7:15,2,Pistons,Magic,45 - 40,1,0,2,Layup
+40,Isaiah Briscoe,DEFENSIVE_REBOUND,None,7:15,2,Magic,Pistons,45 - 40,0,N/A,N/A,N/A
+41,Zaza Pachulia,FOUL_ON_FLOOR,None,7:15,2,Pistons,Magic,45 - 40,1,N/A,N/A,N/A
+42,Wesley Iwundu,FG_MISS,None,7:06,2,Magic,Pistons,45 - 40,0,24,3,Jumper
+43,Stanley Johnson,DEFENSIVE_REBOUND,None,7:02,2,Pistons,Magic,45 - 40,1,N/A,N/A,N/A
+44,Luke Kennard,FG_MISS,None,6:48,2,Pistons,Magic,45 - 40,1,27,3,Jumper
+45,Jonathan Isaac,DEFENSIVE_REBOUND,None,6:45,2,Magic,Pistons,45 - 40,0,N/A,N/A,N/A
+46,Isaiah Briscoe,FG_MISS,None,6:39,2,Magic,Pistons,45 - 40,0,13,2,Jumper
+47,Team,OFFENSIVE_REBOUND,None,6:38,2,Magic,Pistons,45 - 40,0,N/A,N/A,N/A
+48,Luke Kennard,FOUL_ON_FLOOR,None,6:38,2,Pistons,Magic,45 - 40,1,N/A,N/A,N/A
+49,D.J. Augustin,SUBSTITUTION,Briscoe Isaiah,6:38,2,Magic,Pistons,45 - 40,0,N/A,N/A,N/A
+50,D.J. Augustin,FG_MISS,None,6:23,2,Magic,Pistons,45 - 40,0,0,2,Layup
+51,Zaza Pachulia,DEFENSIVE_REBOUND,None,6:22,2,Pistons,Magic,45 - 40,1,N/A,N/A,N/A
+52,Terrence Ross,FOUL_ON_FLOOR,None,6:14,2,Magic,Pistons,45 - 40,0,N/A,N/A,N/A
+53,Langston Galloway,FT,None,6:14,2,Pistons,Magic,45 - 41,1,N/A,1,N/A
+54,Langston Galloway,FT,None,6:14,2,Pistons,Magic,45 - 42,1,N/A,1,N/A
+55,Blake Griffin,SUBSTITUTION,Johnson Stanley,6:14,2,Pistons,Magic,45 - 42,1,N/A,N/A,N/A
+56,Aaron Gordon,SUBSTITUTION,Birch Khem,6:14,2,Magic,Pistons,45 - 42,0,N/A,N/A,N/A
+57,Nikola Vucevic,SUBSTITUTION,Iwundu Wesley,6:14,2,Magic,Pistons,45 - 42,0,N/A,N/A,N/A
+58,Langston Galloway,FT,None,6:14,2,Pistons,Magic,45 - 43,1,N/A,1,N/A
+59,Blake Griffin,FOUL_ON_FLOOR,None,6:03,2,Pistons,Magic,45 - 43,1,N/A,N/A,N/A
+60,Aaron Gordon,FT,None,6:03,2,Magic,Pistons,46 - 43,0,N/A,1,N/A
+61,Reggie Bullock,SUBSTITUTION,Galloway Langston,6:03,2,Pistons,Magic,46 - 43,1,N/A,N/A,N/A
+62,Aaron Gordon,FT,None,6:03,2,Magic,Pistons,47 - 43,0,N/A,1,N/A
+63,Luke Kennard,FG_MISS,None,5:46,2,Pistons,Magic,47 - 43,1,0,2,Layup
+64,Terrence Ross,DEFENSIVE_REBOUND,None,5:44,2,Magic,Pistons,47 - 43,0,N/A,N/A,N/A
+65,Nikola Vucevic,TURNOVER,Luke Kennard,5:25,2,Magic,Pistons,47 - 43,0,N/A,N/A,N/A
+66,Reggie Jackson,FG_ASSISTED,Luke Kennard,5:19,2,Pistons,Magic,47 - 46,1,26,3,Jumper
+67,Nikola Vucevic,FG_ASSISTED,Terrence Ross,4:55,2,Magic,Pistons,49 - 46,0,0,2,Layup
+68,Reggie Bullock,FG_ASSISTED,Blake Griffin,4:43,2,Pistons,Magic,49 - 49,1,28,3,Jumper
+69,Reggie Jackson,FOUL_ON_FLOOR,None,4:22,2,Pistons,Magic,49 - 49,1,N/A,N/A,N/A
+70,Andre Drummond,SUBSTITUTION,Pachulia Zaza,4:22,2,Pistons,Magic,49 - 49,1,N/A,N/A,N/A
+71,Evan Fournier,SUBSTITUTION,Isaac Jonathan,4:22,2,Magic,Pistons,49 - 49,0,N/A,N/A,N/A
+72,Nikola Vucevic,FG_ASSISTED,D.J. Augustin,4:16,2,Magic,Pistons,51 - 49,0,18,2,Jumper
+73,Blake Griffin,FG_UNASSISTED,None,3:57,2,Pistons,Magic,51 - 51,1,0,2,Layup
+74,D.J. Augustin,FG_ASSISTED,Nikola Vucevic,3:35,2,Magic,Pistons,53 - 51,0,0,2,Layup
+75,Team,Unknown,None,3:29,2,Pistons,Magic,53 - 51,1,N/A,N/A,N/A
+76,Langston Galloway,SUBSTITUTION,Jackson Reggie,3:29,2,Pistons,Magic,53 - 51,1,N/A,N/A,N/A
+77,Ish Smith,SUBSTITUTION,Kennard Luke,3:29,2,Pistons,Magic,53 - 51,1,N/A,N/A,N/A
+78,Wesley Iwundu,SUBSTITUTION,Ross Terrence,3:29,2,Magic,Pistons,53 - 51,0,N/A,N/A,N/A
+79,Aaron Gordon,FOUL_ON_FLOOR,None,3:27,2,Magic,Pistons,53 - 51,0,N/A,N/A,N/A
+80,Blake Griffin,FT_MISS,None,3:27,2,Pistons,Magic,53 - 51,1,N/A,1,N/A
+81,Team,OFFENSIVE_REBOUND,None,3:27,2,Pistons,Magic,53 - 51,1,N/A,N/A,N/A
+82,Blake Griffin,FT,None,3:27,2,Pistons,Magic,53 - 52,1,N/A,1,N/A
+83,Nikola Vucevic,FG_ASSISTED,Evan Fournier,3:15,2,Magic,Pistons,55 - 52,0,16,2,Jumper
+84,Langston Galloway,FG_ASSISTED,Blake Griffin,2:57,2,Pistons,Magic,55 - 55,1,25,3,Jumper
+85,Nikola Vucevic,FG_ASSISTED,Evan Fournier,2:31,2,Magic,Pistons,57 - 55,0,0,2,Layup
+86,D.J. Augustin,Unknown,None,2:16,2,Magic,Pistons,57 - 55,0,N/A,N/A,N/A
+87,Jonathan Isaac,SUBSTITUTION,Gordon Aaron,2:16,2,Magic,Pistons,57 - 55,0,N/A,N/A,N/A
+88,Terrence Ross,SUBSTITUTION,Fournier Evan,2:16,2,Magic,Pistons,57 - 55,0,N/A,N/A,N/A
+89,Ish Smith,FG_MISS,None,2:09,2,Pistons,Magic,57 - 55,1,26,3,Jumper
+90,Jonathan Isaac,DEFENSIVE_REBOUND,None,2:06,2,Magic,Pistons,57 - 55,0,N/A,N/A,N/A
+91,Nikola Vucevic,FG_ASSISTED,D.J. Augustin,1:55,2,Magic,Pistons,59 - 55,0,0,2,Layup
+92,Blake Griffin,FOUL_ON_FLOOR,None,1:55,2,Pistons,Magic,59 - 55,1,N/A,N/A,N/A
+93,Nikola Vucevic,FT_MISS,None,1:55,2,Magic,Pistons,59 - 55,0,N/A,1,N/A
+94,Langston Galloway,DEFENSIVE_REBOUND,None,1:52,2,Pistons,Magic,59 - 55,1,N/A,N/A,N/A
+95,Blake Griffin,FG_UNASSISTED,None,1:35,2,Pistons,Magic,59 - 57,1,0,2,Layup
+96,Jonathan Isaac,FG_ASSISTED,Nikola Vucevic,1:20,2,Magic,Pistons,61 - 57,0,0,2,Layup
+97,Jonathan Isaac,FOUL_ON_FLOOR,None,1:10,2,Magic,Pistons,61 - 57,0,N/A,N/A,N/A
+98,Blake Griffin,FT,None,1:10,2,Pistons,Magic,61 - 58,1,N/A,1,N/A
+99,Blake Griffin,FT_MISS,None,1:10,2,Pistons,Magic,61 - 58,1,N/A,1,N/A
+100,Nikola Vucevic,DEFENSIVE_REBOUND,None,1:08,2,Magic,Pistons,61 - 58,0,N/A,N/A,N/A
+101,Nikola Vucevic,FG_MISS,None,55.4,2,Magic,Pistons,61 - 58,0,25,3,Jumper
+102,Team,DEFENSIVE_REBOUND,None,53.5,2,Pistons,Magic,61 - 58,1,N/A,N/A,N/A
+103,Langston Galloway,FG_MISS,None,44.3,2,Pistons,Magic,61 - 58,1,27,3,Jumper
+104,Nikola Vucevic,DEFENSIVE_REBOUND,None,41.2,2,Magic,Pistons,61 - 58,0,N/A,N/A,N/A
+105,D.J. Augustin,FG_UNASSISTED,None,34.4,2,Magic,Pistons,63 - 58,0,0,2,Layup
+106,Ish Smith,FG_MISS,None,16.9,2,Pistons,Magic,63 - 58,1,0,2,Layup
+107,Nikola Vucevic,DEFENSIVE_REBOUND,None,15.2,2,Magic,Pistons,63 - 58,0,N/A,N/A,N/A
+108,Terrence Ross,FG_MISS,None,0.5,2,Magic,Pistons,63 - 58,0,25,3,Jumper
+109,Team,OFFENSIVE_REBOUND,None,0.1,2,Magic,Pistons,63 - 58,0,N/A,N/A,N/A
+110,End of,Unknown,None,0.0,2,Pistons,Magic,63 - 58,1,N/A,N/A,N/A
+0,Bruce Brown,SUBSTITUTION,Galloway Langston,12:00,3,Pistons,Magic,63 - 58,1,N/A,N/A,N/A
+1,Reggie Jackson,SUBSTITUTION,Smith Ish,12:00,3,Pistons,Magic,63 - 58,1,N/A,N/A,N/A
+2,Evan Fournier,SUBSTITUTION,Iwundu Wesley,12:00,3,Magic,Pistons,63 - 58,0,N/A,N/A,N/A
+3,Aaron Gordon,SUBSTITUTION,Ross Terrence,12:00,3,Magic,Pistons,63 - 58,0,N/A,N/A,N/A
+4,D.J. Augustin,FG_ASSISTED,Aaron Gordon,11:37,3,Magic,Pistons,66 - 58,0,24,3,Jumper
+5,Blake Griffin,FG_ASSISTED,Reggie Bullock,11:15,3,Pistons,Magic,66 - 60,1,0,2,Layup
+6,Nikola Vucevic's,FG_MISS,Blake Griffin,10:58,3,Pistons,Magic,66 - 60,0,0,2,Dunk
+7,Andre Drummond,DEFENSIVE_REBOUND,None,10:55,3,Pistons,Magic,66 - 60,1,N/A,N/A,N/A
+8,Blake Griffin,FG_MISS,None,10:44,3,Pistons,Magic,66 - 60,1,9,2,Jumper
+9,Andre Drummond,OFFENSIVE_REBOUND,None,10:43,3,Pistons,Magic,66 - 60,1,N/A,N/A,N/A
+10,Andre Drummond,FG_MISS,None,10:42,3,Pistons,Magic,66 - 60,1,0,2,Layup
+11,Evan Fournier,DEFENSIVE_REBOUND,None,10:42,3,Magic,Pistons,66 - 60,0,N/A,N/A,N/A
+12,Evan Fournier,FG_MISS,None,10:36,3,Magic,Pistons,66 - 60,0,0,2,Layup
+13,Bruce Brown,DEFENSIVE_REBOUND,None,10:33,3,Pistons,Magic,66 - 60,1,N/A,N/A,N/A
+14,Andre Drummond,FG_ASSISTED,Bruce Brown,10:29,3,Pistons,Magic,66 - 62,1,0,2,Layup
+15,Aaron Gordon,FG_UNASSISTED,None,10:11,3,Magic,Pistons,68 - 62,0,0,2,Layup
+16,Andre Drummond,FG_ASSISTED,Reggie Jackson,9:51,3,Pistons,Magic,68 - 64,1,0,2,Dunk
+17,Bruce Brown,FOUL_ON_FLOOR,None,9:45,3,Pistons,Magic,68 - 64,1,N/A,N/A,N/A
+18,Jonathan Isaac,FG_MISS,None,9:29,3,Magic,Pistons,68 - 64,0,23,3,Jumper
+19,Andre Drummond,DEFENSIVE_REBOUND,None,9:27,3,Pistons,Magic,68 - 64,1,N/A,N/A,N/A
+20,Reggie Bullock,FG_MISS,None,9:16,3,Pistons,Magic,68 - 64,1,26,3,Jumper
+21,Aaron Gordon,DEFENSIVE_REBOUND,None,9:13,3,Magic,Pistons,68 - 64,0,N/A,N/A,N/A
+22,Aaron Gordon,FG_MISS,None,9:04,3,Magic,Pistons,68 - 64,0,24,3,Jumper
+23,D.J. Augustin,OFFENSIVE_REBOUND,None,8:59,3,Magic,Pistons,68 - 64,0,N/A,N/A,N/A
+24,Evan Fournier,FG_ASSISTED,Jonathan Isaac,8:53,3,Magic,Pistons,71 - 64,0, ,3,Jumper
+25,Bruce Brown,FG_ASSISTED,Reggie Jackson,8:35,3,Pistons,Magic,71 - 67,1,22,3,Jumper
+26,Jonathan Isaac,FG_MISS,None,8:17,3,Magic,Pistons,71 - 67,0, ,3,Jumper
+27,Nikola Vucevic,OFFENSIVE_REBOUND,None,8:12,3,Magic,Pistons,71 - 67,0,N/A,N/A,N/A
+28,Nikola Vucevic,FG_MISS,None,8:12,3,Magic,Pistons,71 - 67,0, ,2,Jumper
+29,Andre Drummond,DEFENSIVE_REBOUND,None,8:11,3,Pistons,Magic,71 - 67,1,N/A,N/A,N/A
+30,D.J. Augustin,FOUL_ON_FLOOR,None,7:59,3,Magic,Pistons,71 - 67,0,N/A,N/A,N/A
+31,Reggie Jackson,FG_ASSISTED,Blake Griffin,7:49,3,Pistons,Magic,71 - 69,1,0,2,Layup
+32,Nikola Vucevic,FG_MISS,None,7:37,3,Magic,Pistons,71 - 69,0,9,2,Jumper
+33,Blake Griffin,DEFENSIVE_REBOUND,None,7:37,3,Pistons,Magic,71 - 69,1,N/A,N/A,N/A
+34,Andre Drummond,FG_MISS,None,7:25,3,Pistons,Magic,71 - 69,1,0,2,Layup
+35,Aaron Gordon,DEFENSIVE_REBOUND,None,7:21,3,Magic,Pistons,71 - 69,0,N/A,N/A,N/A
+36,D.J. Augustin,FG_MISS,None,7:16,3,Magic,Pistons,71 - 69,0,27,3,Jumper
+37,Andre Drummond,DEFENSIVE_REBOUND,None,7:13,3,Pistons,Magic,71 - 69,1,N/A,N/A,N/A
+38,Andre Drummond,TURNOVER,Aaron Gordon,7:08,3,Pistons,Magic,71 - 69,1,N/A,N/A,N/A
+39,Jonathan Isaac,TURNOVER,None,7:05,3,Magic,Pistons,71 - 69,0,N/A,N/A,N/A
+40,Jonathan Isaac,TURNOVER,None,7:05,3,Magic,Pistons,71 - 69,0,N/A,N/A,N/A
+41,Zaza Pachulia,SUBSTITUTION,Drummond Andre,7:05,3,Pistons,Magic,71 - 69,1,N/A,N/A,N/A
+42,Reggie Jackson,FG_MISS,None,6:44,3,Pistons,Magic,71 - 69,1,27,3,Jumper
+43,Nikola Vucevic,DEFENSIVE_REBOUND,None,6:40,3,Magic,Pistons,71 - 69,0,N/A,N/A,N/A
+44,Aaron Gordon,FG_MISS,None,6:28,3,Magic,Pistons,71 - 69,0,18,2,Jumper
+45,Bruce Brown,DEFENSIVE_REBOUND,None,6:25,3,Pistons,Magic,71 - 69,1,N/A,N/A,N/A
+46,Reggie Jackson,FG_MISS,None,6:03,3,Pistons,Magic,71 - 69,1,17,2,Jumper
+47,Nikola Vucevic,DEFENSIVE_REBOUND,None,5:58,3,Magic,Pistons,71 - 69,0,N/A,N/A,N/A
+48,Aaron Gordon,FG_UNASSISTED,None,5:50,3,Magic,Pistons,73 - 69,0,0,2,Layup
+49,Team,Unknown,None,5:45,3,Pistons,Magic,73 - 69,1,N/A,N/A,N/A
+50,Ish Smith,SUBSTITUTION,Jackson Reggie,5:45,3,Pistons,Magic,73 - 69,1,N/A,N/A,N/A
+51,Wesley Iwundu,SUBSTITUTION,Isaac Jonathan,5:45,3,Magic,Pistons,73 - 69,0,N/A,N/A,N/A
+52,Reggie Bullock,FG_MISS,None,5:33,3,Pistons,Magic,73 - 69,1,26,3,Jumper
+53,Nikola Vucevic,DEFENSIVE_REBOUND,None,5:30,3,Magic,Pistons,73 - 69,0,N/A,N/A,N/A
+54,D.J. Augustin,FG_MISS,None,5:15,3,Magic,Pistons,73 - 69,0,27,3,Jumper
+55,Bruce Brown,DEFENSIVE_REBOUND,None,5:13,3,Pistons,Magic,73 - 69,1,N/A,N/A,N/A
+56,Bruce Brown,FG_UNASSISTED,None,5:06,3,Pistons,Magic,73 - 71,1,10,2,Jumper
+57,Nikola Vucevic,TURNOVER,None,4:44,3,Magic,Pistons,73 - 71,0,N/A,N/A,N/A
+58,Isaiah Briscoe,SUBSTITUTION,Augustin D.J.,4:44,3,Magic,Pistons,73 - 71,0,N/A,N/A,N/A
+59,Wesley Iwundu,FOUL_ON_FLOOR,None,4:38,3,Magic,Pistons,73 - 71,0,N/A,N/A,N/A
+60,Ish Smith,FG_ASSISTED,Reggie Bullock,4:22,3,Pistons,Magic,73 - 74,1,26,3,Jumper
+61,Aaron Gordon,FG_MISS,None,4:05,3,Magic,Pistons,73 - 74,0,0,2,Layup
+62,Aaron Gordon,OFFENSIVE_REBOUND,None,4:01,3,Magic,Pistons,73 - 74,0,N/A,N/A,N/A
+63,Aaron Gordon,FG_UNASSISTED,None,4:00,3,Magic,Pistons,75 - 74,0, ,2,Jumper
+64,Bruce Brown,FG_ASSISTED,Ish Smith,3:42,3,Pistons,Magic,75 - 77,1,23,3,Jumper
+65,Ish Smith,FOUL_ON_FLOOR,None,3:26,3,Pistons,Magic,75 - 77,1,N/A,N/A,N/A
+66,Wesley Iwundu,FT_MISS,None,3:26,3,Magic,Pistons,75 - 77,0,N/A,1,N/A
+67,Team,OFFENSIVE_REBOUND,None,3:26,3,Magic,Pistons,75 - 77,0,N/A,N/A,N/A
+68,Terrence Ross,SUBSTITUTION,Fournier Evan,3:26,3,Magic,Pistons,75 - 77,0,N/A,N/A,N/A
+69,Wesley Iwundu,FT,None,3:26,3,Magic,Pistons,76 - 77,0,N/A,1,N/A
+70,Blake Griffin,FG_ASSISTED,Reggie Bullock,3:15,3,Pistons,Magic,76 - 79,1,0,2,Dunk
+71,Nikola Vucevic,FG_ASSISTED,Wesley Iwundu,2:53,3,Magic,Pistons,78 - 79,0, ,2,Jumper
+72,Blake Griffin,FG_UNASSISTED,None,2:42,3,Pistons,Magic,78 - 82,1,24,3,Jumper
+73,Isaiah Briscoe,FG_MISS,None,2:28,3,Magic,Pistons,78 - 82,0,18,2,Jumper
+74,Team,OFFENSIVE_REBOUND,None,2:28,3,Magic,Pistons,78 - 82,0,N/A,N/A,N/A
+75,Reggie Bullock,FOUL_ON_FLOOR,None,2:28,3,Pistons,Magic,78 - 82,1,N/A,N/A,N/A
+76,Team,Unknown,None,2:28,3,Magic,Pistons,78 - 82,0,N/A,N/A,N/A
+77,Khem Birch,SUBSTITUTION,Vucevic Nikola,2:28,3,Magic,Pistons,78 - 82,0,N/A,N/A,N/A
+78,Khem Birch,FG_MISS,None,2:20,3,Magic,Pistons,78 - 82,0,6,2,Jumper
+79,Blake Griffin,DEFENSIVE_REBOUND,None,2:17,3,Pistons,Magic,78 - 82,1,N/A,N/A,N/A
+80,Blake Griffin,FG_UNASSISTED,None,2:01,3,Pistons,Magic,78 - 84,1,0,2,Layup
+81,Bruce Brown,FOUL_ON_FLOOR,None,1:49,3,Pistons,Magic,78 - 84,1,N/A,N/A,N/A
+82,Terrence Ross,FT_MISS,None,1:49,3,Magic,Pistons,78 - 84,0,N/A,1,N/A
+83,Team,OFFENSIVE_REBOUND,None,1:49,3,Magic,Pistons,78 - 84,0,N/A,N/A,N/A
+84,Luke Kennard,SUBSTITUTION,Bullock Reggie,1:49,3,Pistons,Magic,78 - 84,1,N/A,N/A,N/A
+85,Terrence Ross,FT,None,1:49,3,Magic,Pistons,79 - 84,0,N/A,1,N/A
+86,Zaza Pachulia,TURNOVER,Isaiah Briscoe,1:29,3,Pistons,Magic,79 - 84,1,N/A,N/A,N/A
+87,Isaiah Briscoe,FG_UNASSISTED,None,1:25,3,Magic,Pistons,81 - 84,0,0,2,Layup
+88,Blake Griffin,FG_MISS,None,1:10,3,Pistons,Magic,81 - 84,1,0,2,Layup
+89,Zaza Pachulia,OFFENSIVE_REBOUND,None,1:09,3,Pistons,Magic,81 - 84,1,N/A,N/A,N/A
+90,Zaza Pachulia,FG_UNASSISTED,None,1:09,3,Pistons,Magic,81 - 86,1, ,2,Jumper
+91,Aaron Gordon,FG_UNASSISTED,None,1:00,3,Magic,Pistons,83 - 86,0,0,2,Dunk
+92,Isaiah Briscoe,FOUL_ON_FLOOR,None,47.2,3,Magic,Pistons,83 - 86,0,N/A,N/A,N/A
+93,Ish Smith,FT,None,47.2,3,Pistons,Magic,83 - 87,1,N/A,1,N/A
+94,Stanley Johnson,SUBSTITUTION,Griffin Blake,47.2,3,Pistons,Magic,83 - 87,1,N/A,N/A,N/A
+95,Ish Smith,FT,None,47.2,3,Pistons,Magic,83 - 88,1,N/A,1,N/A
+96,Terrence Ross,FG_MISS,None,31.4,3,Magic,Pistons,83 - 88,0,29,3,Jumper
+97,Stanley Johnson,DEFENSIVE_REBOUND,None,26.4,3,Pistons,Magic,83 - 88,1,N/A,N/A,N/A
+98,Terrence Ross,FOUL_ON_FLOOR,None,10.3,3,Magic,Pistons,83 - 88,0,N/A,N/A,N/A
+99,Zaza Pachulia,FT,None,10.3,3,Pistons,Magic,83 - 89,1,N/A,1,N/A
+100,Zaza Pachulia,FT,None,10.3,3,Pistons,Magic,83 - 90,1,N/A,1,N/A
+101,Isaiah Briscoe,FG_MISS,None,2.3,3,Magic,Pistons,83 - 90,0, ,2,Jumper
+102,Team,OFFENSIVE_REBOUND,None,1.8,3,Magic,Pistons,83 - 90,0,N/A,N/A,N/A
+103,Zaza Pachulia,FOUL_ON_FLOOR,None,1.8,3,Pistons,Magic,83 - 90,1,N/A,N/A,N/A
+104,Khem Birch,FT,None,1.8,3,Magic,Pistons,84 - 90,0,N/A,1,N/A
+105,Khem Birch,FT_MISS,None,1.8,3,Magic,Pistons,84 - 90,0,N/A,1,N/A
+106,Zaza Pachulia,DEFENSIVE_REBOUND,None,1.8,3,Pistons,Magic,84 - 90,1,N/A,N/A,N/A
+107,Zaza Pachulia,FG_MISS,None,0.5,3,Pistons,Magic,84 - 90,1,72,3,Jumper
+108,Team,OFFENSIVE_REBOUND,None,0.1,3,Pistons,Magic,84 - 90,1,N/A,N/A,N/A
+109,End of,Unknown,None,0.0,3,Pistons,Magic,84 - 90,1,N/A,N/A,N/A
+0,Andre Drummond,SUBSTITUTION,Brown Bruce,12:00,4,Pistons,Magic,84 - 90,1,N/A,N/A,N/A
+1,Langston Galloway,SUBSTITUTION,Pachulia Zaza,12:00,4,Pistons,Magic,84 - 90,1,N/A,N/A,N/A
+2,Jonathan Isaac,SUBSTITUTION,Gordon Aaron,12:00,4,Magic,Pistons,84 - 90,0,N/A,N/A,N/A
+3,Evan Fournier,SUBSTITUTION,Iwundu Wesley,12:00,4,Magic,Pistons,84 - 90,0,N/A,N/A,N/A
+4,Luke Kennard,FG_UNASSISTED,None,11:44,4,Pistons,Magic,84 - 92,1,12,2,Jumper
+5,Terrence Ross,FG_ASSISTED,Khem Birch,11:25,4,Magic,Pistons,86 - 92,0,18,2,Jumper
+6,Langston Galloway,FG_ASSISTED,Luke Kennard,10:59,4,Pistons,Magic,86 - 95,1,25,3,Jumper
+7,Isaiah Briscoe,TURNOVER,Stanley Johnson,10:45,4,Magic,Pistons,86 - 95,0,N/A,N/A,N/A
+8,Langston Galloway,FG_MISS,None,10:35,4,Pistons,Magic,86 - 95,1,27,3,Jumper
+9,Andre Drummond,OFFENSIVE_REBOUND,None,10:30,4,Pistons,Magic,86 - 95,1,N/A,N/A,N/A
+10,shot clock,TURNOVER,None,10:19,4,Pistons,Magic,86 - 95,1,N/A,N/A,N/A
+11,Isaiah Briscoe,FG_MISS,None,10:05,4,Magic,Pistons,86 - 95,0,26,3,Jumper
+12,Khem Birch,OFFENSIVE_REBOUND,None,10:02,4,Magic,Pistons,86 - 95,0,N/A,N/A,N/A
+13,Khem Birch,FG_MISS,None,10:01,4,Magic,Pistons,86 - 95,0, ,2,Jumper
+14,Andre Drummond,DEFENSIVE_REBOUND,None,10:01,4,Pistons,Magic,86 - 95,1,N/A,N/A,N/A
+15,Luke Kennard,FG_UNASSISTED,None,9:46,4,Pistons,Magic,86 - 97,1,17,2,Jumper
+16,Team,Unknown,None,9:45,4,Magic,Pistons,86 - 97,0,N/A,N/A,N/A
+17,Evan Fournier,FG_ASSISTED,Khem Birch,9:27,4,Magic,Pistons,89 - 97,0,27,3,Jumper
+18,Andre Drummond,TURNOVER,None,9:06,4,Pistons,Magic,89 - 97,1,N/A,N/A,N/A
+19,Evan Fournier,FG_MISS,None,8:51,4,Magic,Pistons,89 - 97,0,26,3,Jumper
+20,Team,DEFENSIVE_REBOUND,None,8:47,4,Pistons,Magic,89 - 97,1,N/A,N/A,N/A
+21,Luke Kennard,FG_MISS,None,8:30,4,Pistons,Magic,89 - 97,1,0,2,Layup
+22,Andre Drummond,OFFENSIVE_REBOUND,None,8:28,4,Pistons,Magic,89 - 97,1,N/A,N/A,N/A
+23,Andre Drummond,FG_MISS,None,8:28,4,Pistons,Magic,89 - 97,1, ,2,Jumper
+24,Team,OFFENSIVE_REBOUND,None,8:28,4,Pistons,Magic,89 - 97,1,N/A,N/A,N/A
+25,Ish Smith,FG_MISS,None,8:16,4,Pistons,Magic,89 - 97,1,16,2,Jumper
+26,Team,DEFENSIVE_REBOUND,None,8:14,4,Magic,Pistons,89 - 97,0,N/A,N/A,N/A
+27,Jonathan Isaac,FG_ASSISTED,Evan Fournier,7:59,4,Magic,Pistons,92 - 97,0,23,3,Jumper
+28,Terrence Ross,FOUL_ON_FLOOR,None,7:40,4,Magic,Pistons,92 - 97,0,N/A,N/A,N/A
+29,Stanley Johnson,FT_MISS,None,7:40,4,Pistons,Magic,92 - 97,1,N/A,1,N/A
+30,Team,OFFENSIVE_REBOUND,None,7:40,4,Pistons,Magic,92 - 97,1,N/A,N/A,N/A
+31,Wesley Iwundu,SUBSTITUTION,Fournier Evan,7:40,4,Magic,Pistons,92 - 97,0,N/A,N/A,N/A
+32,Stanley Johnson,FT,None,7:40,4,Pistons,Magic,92 - 98,1,N/A,1,N/A
+33,Isaiah Briscoe,FG_UNASSISTED,None,7:23,4,Magic,Pistons,94 - 98,0,7,2,Jumper
+34,Ish Smith,FOUL_ON_FLOOR,None,7:23,4,Pistons,Magic,94 - 98,1,N/A,N/A,N/A
+35,Evan Fournier,SUBSTITUTION,Iwundu Wesley,7:23,4,Magic,Pistons,94 - 98,0,N/A,N/A,N/A
+36,Isaiah Briscoe,FT_MISS,None,7:23,4,Magic,Pistons,94 - 98,0,N/A,1,N/A
+37,Ish Smith,DEFENSIVE_REBOUND,None,7:21,4,Pistons,Magic,94 - 98,1,N/A,N/A,N/A
+38,Ish Smith,FG_MISS,None,7:07,4,Pistons,Magic,94 - 98,1,19,2,Jumper
+39,Isaiah Briscoe,DEFENSIVE_REBOUND,None,7:03,4,Magic,Pistons,94 - 98,0,N/A,N/A,N/A
+40,Terrence Ross,FG_MISS,None,6:58,4,Magic,Pistons,94 - 98,0,25,3,Jumper
+41,Ish Smith,DEFENSIVE_REBOUND,None,6:53,4,Pistons,Magic,94 - 98,1,N/A,N/A,N/A
+42,Luke Kennard,FG_UNASSISTED,None,6:42,4,Pistons,Magic,94 - 100,1,0,2,Layup
+43,Terrence Ross,FOUL_ON_FLOOR,None,6:42,4,Magic,Pistons,94 - 100,0,N/A,N/A,N/A
+44,Reggie Jackson,SUBSTITUTION,Smith Ish,6:42,4,Pistons,Magic,94 - 100,1,N/A,N/A,N/A
+45,D.J. Augustin,SUBSTITUTION,Briscoe Isaiah,6:42,4,Magic,Pistons,94 - 100,0,N/A,N/A,N/A
+46,Luke Kennard,FT,None,6:42,4,Pistons,Magic,94 - 101,1,N/A,1,N/A
+47,Jonathan Isaac,FG_MISS,None,6:25,4,Magic,Pistons,94 - 101,0,27,3,Jumper
+48,Reggie Jackson,DEFENSIVE_REBOUND,None,6:20,4,Pistons,Magic,94 - 101,1,N/A,N/A,N/A
+49,Reggie Jackson,FG_MISS,Khem Birch,6:11,4,Magic,Pistons,94 - 101,1,7,2,Jumper
+50,Reggie Jackson,OFFENSIVE_REBOUND,None,6:10,4,Pistons,Magic,94 - 101,1,N/A,N/A,N/A
+51,Stanley Johnson,FG_MISS,None,6:07,4,Pistons,Magic,94 - 101,1,1,3,Jumper
+52,D.J. Augustin,DEFENSIVE_REBOUND,None,6:07,4,Magic,Pistons,94 - 101,0,N/A,N/A,N/A
+53,Jonathan Isaac,FG_ASSISTED,Evan Fournier,5:49,4,Magic,Pistons,97 - 101,0,1,3,Jumper
+54,Team,Unknown,None,5:48,4,Pistons,Magic,97 - 101,1,N/A,N/A,N/A
+55,Blake Griffin,SUBSTITUTION,Johnson Stanley,5:48,4,Pistons,Magic,97 - 101,1,N/A,N/A,N/A
+56,Reggie Bullock,SUBSTITUTION,Galloway Langston,5:48,4,Pistons,Magic,97 - 101,1,N/A,N/A,N/A
+57,Nikola Vucevic,SUBSTITUTION,Birch Khem,5:48,4,Magic,Pistons,97 - 101,0,N/A,N/A,N/A
+58,Luke Kennard,FG_UNASSISTED,None,5:30,4,Pistons,Magic,97 - 103,1,6,2,Jumper
+59,Nikola Vucevic's,FG_MISS,Andre Drummond,5:05,4,Pistons,Magic,97 - 103,0,0,2,Dunk
+60,Luke Kennard,DEFENSIVE_REBOUND,None,5:02,4,Pistons,Magic,97 - 103,1,N/A,N/A,N/A
+61,Aaron Gordon,SUBSTITUTION,Ross Terrence,4:51,4,Magic,Pistons,97 - 103,0,N/A,N/A,N/A
+62,Reggie Bullock,FG_ASSISTED,Andre Drummond,4:40,4,Pistons,Magic,97 - 105,1,0,2,Layup
+63,Evan Fournier,FG_UNASSISTED,None,4:20,4,Magic,Pistons,99 - 105,0,0,2,Layup
+64,Andre Drummond,FOUL_ON_FLOOR,None,4:11,4,Pistons,Magic,99 - 105,1,N/A,N/A,N/A
+65,Andre Drummond,TURNOVER,None,4:11,4,Pistons,Magic,99 - 105,1,N/A,N/A,N/A
+66,Nikola Vucevic,FG_ASSISTED,D.J. Augustin,4:02,4,Magic,Pistons,102 - 105,0,25,3,Jumper
+67,Blake Griffin,FG_MISS,None,3:33,4,Pistons,Magic,102 - 105,1,12,2,Jumper
+68,Aaron Gordon,DEFENSIVE_REBOUND,None,3:32,4,Magic,Pistons,102 - 105,0,N/A,N/A,N/A
+69,Evan Fournier,FG_MISS,None,3:28,4,Magic,Pistons,102 - 105,0,27,3,Jumper
+70,Nikola Vucevic,OFFENSIVE_REBOUND,None,3:25,4,Magic,Pistons,102 - 105,0,N/A,N/A,N/A
+71,Nikola Vucevic,FG_ASSISTED,Jonathan Isaac,3:23,4,Magic,Pistons,104 - 105,0,0,2,Layup
+72,Aaron Gordon,FOUL_ON_FLOOR,None,3:06,4,Magic,Pistons,104 - 105,0,N/A,N/A,N/A
+73,Aaron Gordon,FOUL_ON_FLOOR,None,3:01,4,Magic,Pistons,104 - 105,0,N/A,N/A,N/A
+74,Blake Griffin,FT,None,3:01,4,Pistons,Magic,104 - 106,1,N/A,1,N/A
+75,Blake Griffin,FT,None,3:01,4,Pistons,Magic,104 - 107,1,N/A,1,N/A
+76,Team,Unknown,None,3:01,4,Magic,Pistons,104 - 107,0,N/A,N/A,N/A
+77,Terrence Ross,SUBSTITUTION,Isaac Jonathan,3:01,4,Magic,Pistons,104 - 107,0,N/A,N/A,N/A
+78,Luke Kennard,FOUL_ON_FLOOR,None,2:44,4,Pistons,Magic,104 - 107,1,N/A,N/A,N/A
+79,Evan Fournier,FT_MISS,None,2:44,4,Magic,Pistons,104 - 107,0,N/A,1,N/A
+80,Team,OFFENSIVE_REBOUND,None,2:44,4,Magic,Pistons,104 - 107,0,N/A,N/A,N/A
+81,Evan Fournier,FT,None,2:44,4,Magic,Pistons,105 - 107,0,N/A,1,N/A
+82,Reggie Bullock,FG_MISS,None,2:33,4,Pistons,Magic,105 - 107,1,25,3,Jumper
+83,Aaron Gordon,DEFENSIVE_REBOUND,None,2:30,4,Magic,Pistons,105 - 107,0,N/A,N/A,N/A
+84,Nikola Vucevic,FG_ASSISTED,D.J. Augustin,2:14,4,Magic,Pistons,107 - 107,0,0,2,Dunk
+85,Blake Griffin,FG_MISS,None,2:01,4,Pistons,Magic,107 - 107,1,25,3,Jumper
+86,Terrence Ross,DEFENSIVE_REBOUND,None,1:57,4,Magic,Pistons,107 - 107,0,N/A,N/A,N/A
+87,D.J. Augustin,FG_UNASSISTED,None,1:51,4,Magic,Pistons,109 - 107,0,0,2,Layup
+88,Reggie Bullock,TURNOVER,Terrence Ross,1:34,4,Pistons,Magic,109 - 107,1,N/A,N/A,N/A
+89,D.J. Augustin,FG_MISS,None,1:12,4,Magic,Pistons,109 - 107,0,27,3,Jumper
+90,Luke Kennard,DEFENSIVE_REBOUND,None,1:09,4,Pistons,Magic,109 - 107,1,N/A,N/A,N/A
+91,Reggie Bullock,FG_MISS,None,50.4,4,Pistons,Magic,109 - 107,1,30,3,Jumper
+92,Andre Drummond,OFFENSIVE_REBOUND,None,47.6,4,Pistons,Magic,109 - 107,1,N/A,N/A,N/A
+93,Reggie Jackson,FG_MISS,None,36.0,4,Pistons,Magic,109 - 107,1,0,2,Layup
+94,Andre Drummond,OFFENSIVE_REBOUND,None,35.2,4,Pistons,Magic,109 - 107,1,N/A,N/A,N/A
+95,Andre Drummond,FG_MISS,None,35.0,4,Pistons,Magic,109 - 107,1,1,2,Jumper
+96,Andre Drummond,OFFENSIVE_REBOUND,None,34.4,4,Pistons,Magic,109 - 107,1,N/A,N/A,N/A
+97,Andre Drummond,FG_UNASSISTED,None,32.9,4,Pistons,Magic,109 - 109,1,0,2,Layup
+98,Nikola Vucevic,FG_MISS,None,22.6,4,Magic,Pistons,109 - 109,0,19,2,Jumper
+99,Reggie Jackson,DEFENSIVE_REBOUND,None,20.4,4,Pistons,Magic,109 - 109,1,N/A,N/A,N/A
+100,Team,Unknown,None,20.4,4,Pistons,Magic,109 - 109,1,N/A,N/A,N/A
+101,Jonathan Isaac,SUBSTITUTION,Augustin D.J.,20.4,4,Magic,Pistons,109 - 109,0,N/A,N/A,N/A
+102,Wesley Iwundu,SUBSTITUTION,Ross Terrence,20.4,4,Magic,Pistons,109 - 109,0,N/A,N/A,N/A
+103,Blake Griffin,FG_MISS,None,0.0,4,Pistons,Magic,109 - 109,1,20,2,Jumper
+104,Team,OFFENSIVE_REBOUND,None,0.0,4,Pistons,Magic,109 - 109,1,N/A,N/A,N/A
+105,End of,Unknown,None,0.0,4,Pistons,Magic,109 - 109,1,N/A,N/A,N/A

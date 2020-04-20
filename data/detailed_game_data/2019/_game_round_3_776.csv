@@ -1,0 +1,439 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,LaMarcus Aldridge,JUMP_BALL,None,12:00,1,76ers,Spurs,0 - 0,1,N/A,N/A,N/A
+1,Wilson Chandler,FG_MISS,None,11:47,1,76ers,Spurs,0 - 0,1,17,2,Jumper
+2,Ben Simmons,OFFENSIVE_REBOUND,None,11:43,1,76ers,Spurs,0 - 0,1,N/A,N/A,N/A
+3,Ben Simmons's,FG_MISS,LaMarcus Aldridge,11:41,1,Spurs,76ers,0 - 0,1,-,2,Jumper
+4,Ben Simmons,OFFENSIVE_REBOUND,None,11:38,1,76ers,Spurs,0 - 0,1,N/A,N/A,N/A
+5,Ben Simmons,FG_MISS,None,11:35,1,76ers,Spurs,0 - 0,1,6,2,Jumper
+6,Joel Embiid,OFFENSIVE_REBOUND,None,11:30,1,76ers,Spurs,0 - 0,1,N/A,N/A,N/A
+7,Joel Embiid,FG_UNASSISTED,None,11:30,1,76ers,Spurs,0 - 2,1,-,2,Jumper
+8,DeMar DeRozan,FG_MISS,None,11:20,1,Spurs,76ers,0 - 2,0,15,2,Jumper
+9,Joel Embiid,DEFENSIVE_REBOUND,None,11:17,1,76ers,Spurs,0 - 2,1,N/A,N/A,N/A
+10,Joel Embiid,FG_ASSISTED,Ben Simmons,11:12,1,76ers,Spurs,0 - 5,1,26,3,Jumper
+11,Bryn Forbes,FG_ASSISTED,Rudy Gay,11:00,1,Spurs,76ers,3 - 5,0,26,3,Jumper
+12,JJ Redick,FG_ASSISTED,Ben Simmons,10:50,1,76ers,Spurs,3 - 8,1,25,3,Jumper
+13,DeMar DeRozan,TURNOVER,Wilson Chandler,10:32,1,Spurs,76ers,3 - 8,0,N/A,N/A,N/A
+14,Joel Embiid,FG_ASSISTED,Ben Simmons,10:27,1,76ers,Spurs,3 - 10,1,0,2,Dunk
+15,LaMarcus Aldridge,FG_MISS,None,10:08,1,Spurs,76ers,3 - 10,0,18,2,Jumper
+16,Joel Embiid,DEFENSIVE_REBOUND,None,10:06,1,76ers,Spurs,3 - 10,1,N/A,N/A,N/A
+17,Bryn Forbes,FOUL_ON_FLOOR,None,9:57,1,Spurs,76ers,3 - 10,0,N/A,N/A,N/A
+18,Joel Embiid,FG_MISS,None,9:42,1,76ers,Spurs,3 - 10,1,0,2,Layup
+19,Rudy Gay,DEFENSIVE_REBOUND,None,9:38,1,Spurs,76ers,3 - 10,0,N/A,N/A,N/A
+20,Bryn Forbes,FG_MISS,None,9:30,1,Spurs,76ers,3 - 10,0, ,2,Jumper
+21,Joel Embiid,DEFENSIVE_REBOUND,None,9:28,1,76ers,Spurs,3 - 10,1,N/A,N/A,N/A
+22,Joel Embiid,FG_MISS,None,9:22,1,76ers,Spurs,3 - 10,1,0,2,Layup
+23,DeMar DeRozan,DEFENSIVE_REBOUND,None,9:20,1,Spurs,76ers,3 - 10,0,N/A,N/A,N/A
+24,Rudy Gay,FG_MISS,None,9:14,1,Spurs,76ers,3 - 10,0, ,2,Jumper
+25,Ben Simmons,DEFENSIVE_REBOUND,None,9:11,1,76ers,Spurs,3 - 10,1,N/A,N/A,N/A
+26,Rudy Gay,FOUL_ON_FLOOR,None,8:58,1,Spurs,76ers,3 - 10,0,N/A,N/A,N/A
+27,Ben Simmons,FT_MISS,None,8:58,1,76ers,Spurs,3 - 10,1,N/A,1,N/A
+28,Team,OFFENSIVE_REBOUND,None,8:58,1,76ers,Spurs,3 - 10,1,N/A,N/A,N/A
+29,Ben Simmons,FT,None,8:58,1,76ers,Spurs,3 - 11,1,N/A,1,N/A
+30,Rudy Gay,FG_MISS,None,8:34,1,Spurs,76ers,3 - 11,0,22,3,Jumper
+31,Joel Embiid,DEFENSIVE_REBOUND,None,8:30,1,76ers,Spurs,3 - 11,1,N/A,N/A,N/A
+32,Joel Embiid,FG_MISS,None,8:14,1,76ers,Spurs,3 - 11,1,3,2,Jumper
+33,Derrick White,DEFENSIVE_REBOUND,None,8:11,1,Spurs,76ers,3 - 11,0,N/A,N/A,N/A
+34,Rudy Gay,TURNOVER,None,8:08,1,Spurs,76ers,3 - 11,0,N/A,N/A,N/A
+35,Rudy Gay,FOUL_ON_FLOOR,None,8:08,1,Spurs,76ers,3 - 11,0,N/A,N/A,N/A
+36,Dante Cunningham,SUBSTITUTION,Gay Rudy,8:08,1,Spurs,76ers,3 - 11,0,N/A,N/A,N/A
+37,JJ Redick,FG_MISS,None,7:54,1,76ers,Spurs,3 - 11,1,22,2,Jumper
+38,Joel Embiid,OFFENSIVE_REBOUND,None,7:53,1,76ers,Spurs,3 - 11,1,N/A,N/A,N/A
+39,Joel Embiid's,FG_MISS,DeMar DeRozan,7:53,1,Spurs,76ers,3 - 11,1,0,2,Layup
+40,Joel Embiid,OFFENSIVE_REBOUND,None,7:53,1,76ers,Spurs,3 - 11,1,N/A,N/A,N/A
+41,Dante Cunningham,FOUL_ON_FLOOR,None,7:53,1,Spurs,76ers,3 - 11,0,N/A,N/A,N/A
+42,Joel Embiid,FT,None,7:53,1,76ers,Spurs,3 - 12,1,N/A,1,N/A
+43,Joel Embiid,FT,None,7:53,1,76ers,Spurs,3 - 13,1,N/A,1,N/A
+44,DeMar DeRozan,FG_UNASSISTED,None,7:42,1,Spurs,76ers,5 - 13,0,13,2,Jumper
+45,Joel Embiid,FG_MISS,LaMarcus Aldridge,7:30,1,Spurs,76ers,5 - 13,1,6,2,Jumper
+46,DeMar DeRozan,DEFENSIVE_REBOUND,None,7:25,1,Spurs,76ers,5 - 13,0,N/A,N/A,N/A
+47,Dante Cunningham,FG_MISS,None,7:19,1,Spurs,76ers,5 - 13,0,24,3,Jumper
+48,Joel Embiid,DEFENSIVE_REBOUND,None,7:15,1,76ers,Spurs,5 - 13,1,N/A,N/A,N/A
+49,Ben Simmons,FG_MISS,None,7:04,1,76ers,Spurs,5 - 13,1, ,2,Jumper
+50,DeMar DeRozan,DEFENSIVE_REBOUND,None,7:02,1,Spurs,76ers,5 - 13,0,N/A,N/A,N/A
+51,DeMar DeRozan,FG_UNASSISTED,None,6:57,1,Spurs,76ers,7 - 13,0,13,2,Jumper
+52,JJ Redick,FG_MISS,None,6:42,1,76ers,Spurs,7 - 13,1,0,2,Layup
+53,Bryn Forbes,DEFENSIVE_REBOUND,None,6:39,1,Spurs,76ers,7 - 13,0,N/A,N/A,N/A
+54,Derrick White,FG_UNASSISTED,None,6:35,1,Spurs,76ers,9 - 13,0,5,2,Jumper
+55,Team,Unknown,None,6:34,1,76ers,Spurs,9 - 13,1,N/A,N/A,N/A
+56,Landry Shamet,SUBSTITUTION,Brewer Corey,6:34,1,76ers,Spurs,9 - 13,1,N/A,N/A,N/A
+57,T.J. McConnell,SUBSTITUTION,Redick JJ,6:34,1,76ers,Spurs,9 - 13,1,N/A,N/A,N/A
+58,Jonah Bolden,SUBSTITUTION,Embiid Joel,6:34,1,76ers,Spurs,9 - 13,1,N/A,N/A,N/A
+59,Ben Simmons,FG_ASSISTED,Landry Shamet,6:15,1,76ers,Spurs,9 - 15,1,7,2,Jumper
+60,Derrick White,FG_ASSISTED,Dante Cunningham,5:54,1,Spurs,76ers,11 - 15,0,19,2,Jumper
+61,Landry Shamet,FG_ASSISTED,T.J. McConnell,5:34,1,76ers,Spurs,11 - 17,1, ,2,Jumper
+62,Landry Shamet,FOUL_ON_FLOOR,None,5:18,1,76ers,Spurs,11 - 17,1,N/A,N/A,N/A
+63,Patty Mills,SUBSTITUTION,White Derrick,5:18,1,Spurs,76ers,11 - 17,0,N/A,N/A,N/A
+64,Jakob Poeltl,SUBSTITUTION,Aldridge LaMarcus,5:18,1,Spurs,76ers,11 - 17,0,N/A,N/A,N/A
+65,Landry Shamet,FOUL_ON_FLOOR,None,5:15,1,76ers,Spurs,11 - 17,1,N/A,N/A,N/A
+66,DeMar DeRozan,FG_ASSISTED,Bryn Forbes,5:11,1,Spurs,76ers,13 - 17,0, ,2,Jumper
+67,Jonah Bolden,FG_MISS,None,4:58,1,76ers,Spurs,13 - 17,1,27,3,Jumper
+68,Dante Cunningham,DEFENSIVE_REBOUND,None,4:55,1,Spurs,76ers,13 - 17,0,N/A,N/A,N/A
+69,Patty Mills,FG_ASSISTED,Dante Cunningham,4:43,1,Spurs,76ers,16 - 17,0,27,3,Jumper
+70,Jonah Bolden,FG_ASSISTED,Ben Simmons,4:29,1,76ers,Spurs,16 - 20,1, ,3,Jumper
+71,Bryn Forbes,FG_ASSISTED,DeMar DeRozan,4:17,1,Spurs,76ers,19 - 20,0,26,3,Jumper
+72,Marco Belinelli,SUBSTITUTION,Forbes Bryn,4:02,1,Spurs,76ers,19 - 20,0,N/A,N/A,N/A
+73,Ben Simmons,FG_UNASSISTED,None,3:53,1,76ers,Spurs,19 - 22,1, ,2,Jumper
+74,Team,Unknown,None,3:53,1,Spurs,76ers,19 - 22,0,N/A,N/A,N/A
+75,Jakob Poeltl,FG_ASSISTED,DeMar DeRozan,3:31,1,Spurs,76ers,21 - 22,0,4,2,Jumper
+76,Jonah Bolden,FG_ASSISTED,T.J. McConnell,3:14,1,76ers,Spurs,21 - 24,1, ,2,Jumper
+77,DeMar DeRozan,FG_MISS,None,3:02,1,Spurs,76ers,21 - 24,0,9,2,Jumper
+78,Ben Simmons,DEFENSIVE_REBOUND,None,2:59,1,76ers,Spurs,21 - 24,1,N/A,N/A,N/A
+79,T.J. McConnell,FG_ASSISTED,Ben Simmons,2:52,1,76ers,Spurs,21 - 26,1,6,2,Jumper
+80,Patty Mills,FG_UNASSISTED,None,2:40,1,Spurs,76ers,23 - 26,0,18,2,Jumper
+81,Wilson Chandler,FG_ASSISTED,Ben Simmons,2:31,1,76ers,Spurs,23 - 29,1,26,3,Jumper
+82,Patty Mills,FG_UNASSISTED,None,2:24,1,Spurs,76ers,25 - 29,0,3,2,Jumper
+83,T.J. McConnell,FOUL_ON_FLOOR,None,2:24,1,76ers,Spurs,25 - 29,1,N/A,N/A,N/A
+84,JJ Redick,SUBSTITUTION,Shamet Landry,2:24,1,76ers,Spurs,25 - 29,1,N/A,N/A,N/A
+85,Mike Muscala,SUBSTITUTION,Chandler Wilson,2:24,1,76ers,Spurs,25 - 29,1,N/A,N/A,N/A
+86,Corey Brewer,SUBSTITUTION,Simmons Ben,2:24,1,76ers,Spurs,25 - 29,1,N/A,N/A,N/A
+87,Joel Embiid,SUBSTITUTION,Bolden Jonah,2:24,1,76ers,Spurs,25 - 29,1,N/A,N/A,N/A
+88,LaMarcus Aldridge,SUBSTITUTION,DeRozan DeMar,2:24,1,Spurs,76ers,25 - 29,0,N/A,N/A,N/A
+89,Bryn Forbes,SUBSTITUTION,Poeltl Jakob,2:24,1,Spurs,76ers,25 - 29,0,N/A,N/A,N/A
+90,Patty Mills,FT,None,2:24,1,Spurs,76ers,26 - 29,0,N/A,1,N/A
+91,Joel Embiid,FG_MISS,None,2:05,1,76ers,Spurs,26 - 29,1,0,2,Layup
+92,Marco Belinelli,DEFENSIVE_REBOUND,None,2:04,1,Spurs,76ers,26 - 29,0,N/A,N/A,N/A
+93,Marco Belinelli,FG_ASSISTED,LaMarcus Aldridge,1:51,1,Spurs,76ers,29 - 29,0,26,3,Jumper
+94,Joel Embiid,FG_MISS,None,1:35,1,76ers,Spurs,29 - 29,1,17,2,Jumper
+95,Patty Mills,DEFENSIVE_REBOUND,None,1:32,1,Spurs,76ers,29 - 29,0,N/A,N/A,N/A
+96,Patty Mills,FG_UNASSISTED,None,1:29,1,Spurs,76ers,32 - 29,0,26,3,Jumper
+97,T.J. McConnell,FG_ASSISTED,JJ Redick,1:09,1,76ers,Spurs,32 - 31,1,8,2,Jumper
+98,LaMarcus Aldridge,FG_ASSISTED,Dante Cunningham,59.4,1,Spurs,76ers,35 - 31,0,26,3,Jumper
+99,JJ Redick,FG_MISS,None,50.8,1,76ers,Spurs,35 - 31,1,25,3,Jumper
+100,T.J. McConnell,OFFENSIVE_REBOUND,None,47.7,1,76ers,Spurs,35 - 31,1,N/A,N/A,N/A
+101,JJ Redick,FG_ASSISTED,T.J. McConnell,46.2,1,76ers,Spurs,35 - 34,1, ,3,Jumper
+102,Marco Belinelli,FG_MISS,None,29.9,1,Spurs,76ers,35 - 34,0,25,3,Jumper
+103,T.J. McConnell,DEFENSIVE_REBOUND,None,25.7,1,76ers,Spurs,35 - 34,1,N/A,N/A,N/A
+104,T.J. McConnell,FG_MISS,None,6.3,1,76ers,Spurs,35 - 34,1,23,3,Jumper
+105,LaMarcus Aldridge,DEFENSIVE_REBOUND,None,3.7,1,Spurs,76ers,35 - 34,0,N/A,N/A,N/A
+106,Marco Belinelli,FG_MISS,None,0.3,1,Spurs,76ers,35 - 34,0,29,3,Jumper
+107,Team,OFFENSIVE_REBOUND,None,0.1,1,Spurs,76ers,35 - 34,0,N/A,N/A,N/A
+108,End of,Unknown,None,0.0,1,76ers,Spurs,35 - 34,1,N/A,N/A,N/A
+0,Wilson Chandler,SUBSTITUTION,Brewer Corey,12:00,2,76ers,Spurs,35 - 34,1,N/A,N/A,N/A
+1,Rudy Gay,SUBSTITUTION,Cunningham Dante,12:00,2,Spurs,76ers,35 - 34,0,N/A,N/A,N/A
+2,Marco Belinelli,FG_ASSISTED,LaMarcus Aldridge,11:48,2,Spurs,76ers,37 - 34,0,19,2,Jumper
+3,JJ Redick,FG_MISS,None,11:31,2,76ers,Spurs,37 - 34,1,24,3,Jumper
+4,Mike Muscala,OFFENSIVE_REBOUND,None,11:30,2,76ers,Spurs,37 - 34,1,N/A,N/A,N/A
+5,Marco Belinelli,FOUL_ON_FLOOR,None,11:30,2,Spurs,76ers,37 - 34,0,N/A,N/A,N/A
+6,JJ Redick,FG_UNASSISTED,None,11:15,2,76ers,Spurs,37 - 37,1,25,3,Jumper
+7,Patty Mills,TURNOVER,None,11:03,2,Spurs,76ers,37 - 37,0,N/A,N/A,N/A
+8,Patty Mills,TURNOVER,None,11:03,2,Spurs,76ers,37 - 37,0,N/A,N/A,N/A
+9,Derrick White,SUBSTITUTION,Forbes Bryn,11:03,2,Spurs,76ers,37 - 37,0,N/A,N/A,N/A
+10,Joel Embiid,FG_MISS,None,10:50,2,76ers,Spurs,37 - 37,1,14,2,Jumper
+11,JJ Redick,OFFENSIVE_REBOUND,None,10:45,2,76ers,Spurs,37 - 37,1,N/A,N/A,N/A
+12,T.J. McConnell,FG_ASSISTED,Wilson Chandler,10:32,2,76ers,Spurs,37 - 39,1,13,2,Jumper
+13,LaMarcus Aldridge,FG_MISS,None,10:13,2,Spurs,76ers,37 - 39,0,15,2,Jumper
+14,Mike Muscala,DEFENSIVE_REBOUND,None,10:10,2,76ers,Spurs,37 - 39,1,N/A,N/A,N/A
+15,T.J. McConnell,FG_UNASSISTED,None,10:06,2,76ers,Spurs,37 - 41,1,9,2,Jumper
+16,Derrick White,FG_UNASSISTED,None,9:53,2,Spurs,76ers,39 - 41,0,0,2,Layup
+17,JJ Redick,FG_MISS,None,9:35,2,76ers,Spurs,39 - 41,1,26,3,Jumper
+18,Joel Embiid,OFFENSIVE_REBOUND,None,9:32,2,76ers,Spurs,39 - 41,1,N/A,N/A,N/A
+19,Joel Embiid,FG_UNASSISTED,None,9:31,2,76ers,Spurs,39 - 43,1,12,2,Jumper
+20,Wilson Chandler,FOUL_ON_FLOOR,None,9:18,2,76ers,Spurs,39 - 43,1,N/A,N/A,N/A
+21,Rudy Gay,FT,None,9:18,2,Spurs,76ers,40 - 43,0,N/A,1,N/A
+22,Landry Shamet,SUBSTITUTION,Redick JJ,9:18,2,76ers,Spurs,40 - 43,1,N/A,N/A,N/A
+23,Rudy Gay,FT,None,9:18,2,Spurs,76ers,41 - 43,0,N/A,1,N/A
+24,T.J. McConnell,FG_ASSISTED,Joel Embiid,9:07,2,76ers,Spurs,41 - 45,1,15,2,Jumper
+25,Team,Unknown,None,9:06,2,Spurs,76ers,41 - 45,0,N/A,N/A,N/A
+26,DeMar DeRozan,SUBSTITUTION,Mills Patty,9:06,2,Spurs,76ers,41 - 45,0,N/A,N/A,N/A
+27,LaMarcus Aldridge,FG_UNASSISTED,None,8:46,2,Spurs,76ers,43 - 45,0,5,2,Jumper
+28,LaMarcus Aldridge,FOUL_ON_FLOOR,None,8:29,2,Spurs,76ers,43 - 45,0,N/A,N/A,N/A
+29,Landry Shamet,FG_MISS,None,8:17,2,76ers,Spurs,43 - 45,1,26,3,Jumper
+30,Marco Belinelli,DEFENSIVE_REBOUND,None,8:14,2,Spurs,76ers,43 - 45,0,N/A,N/A,N/A
+31,Marco Belinelli,TURNOVER,None,8:10,2,Spurs,76ers,43 - 45,0,N/A,N/A,N/A
+32,Ben Simmons,SUBSTITUTION,McConnell T.J.,8:10,2,76ers,Spurs,43 - 45,1,N/A,N/A,N/A
+33,Jonah Bolden,SUBSTITUTION,Embiid Joel,8:10,2,76ers,Spurs,43 - 45,1,N/A,N/A,N/A
+34,Corey Brewer,SUBSTITUTION,Muscala Mike,8:10,2,76ers,Spurs,43 - 45,1,N/A,N/A,N/A
+35,Corey Brewer,FG_ASSISTED,Jonah Bolden,7:55,2,76ers,Spurs,43 - 48,1,26,3,Jumper
+36,Marco Belinelli,FG_MISS,None,7:44,2,Spurs,76ers,43 - 48,0,18,2,Jumper
+37,Ben Simmons,DEFENSIVE_REBOUND,None,7:42,2,76ers,Spurs,43 - 48,1,N/A,N/A,N/A
+38,Corey Brewer,FG_MISS,LaMarcus Aldridge,7:34,2,Spurs,76ers,43 - 48,1,4,2,Jumper
+39,Team,DEFENSIVE_REBOUND,None,7:34,2,Spurs,76ers,43 - 48,0,N/A,N/A,N/A
+40,Corey Brewer,FOUL_ON_FLOOR,None,7:34,2,76ers,Spurs,43 - 48,1,N/A,N/A,N/A
+41,LaMarcus Aldridge,TURNOVER,Corey Brewer,7:23,2,Spurs,76ers,43 - 48,0,N/A,N/A,N/A
+42,Wilson Chandler,TURNOVER,LaMarcus Aldridge,7:02,2,76ers,Spurs,43 - 48,1,N/A,N/A,N/A
+43,DeMar DeRozan,FG_UNASSISTED,None,6:51,2,Spurs,76ers,45 - 48,0, ,2,Jumper
+44,Ben Simmons,FOUL_ON_FLOOR,None,6:51,2,76ers,Spurs,45 - 48,1,N/A,N/A,N/A
+45,Bryn Forbes,SUBSTITUTION,Belinelli Marco,6:51,2,Spurs,76ers,45 - 48,0,N/A,N/A,N/A
+46,DeMar DeRozan,FT_MISS,None,6:51,2,Spurs,76ers,45 - 48,0,N/A,1,N/A
+47,Ben Simmons,DEFENSIVE_REBOUND,None,6:48,2,76ers,Spurs,45 - 48,1,N/A,N/A,N/A
+48,Ben Simmons,TURNOVER,None,6:39,2,76ers,Spurs,45 - 48,1,N/A,N/A,N/A
+49,DeMar DeRozan,TURNOVER,None,6:30,2,Spurs,76ers,45 - 48,0,N/A,N/A,N/A
+50,JJ Redick,SUBSTITUTION,Shamet Landry,6:30,2,76ers,Spurs,45 - 48,1,N/A,N/A,N/A
+51,Ben Simmons,TURNOVER,Rudy Gay,6:19,2,76ers,Spurs,45 - 48,1,N/A,N/A,N/A
+52,Bryn Forbes,FG_ASSISTED,LaMarcus Aldridge,6:09,2,Spurs,76ers,48 - 48,0,27,3,Jumper
+53,Corey Brewer,FG_ASSISTED,Ben Simmons,5:49,2,76ers,Spurs,48 - 51,1,26,3,Jumper
+54,LaMarcus Aldridge,FG_MISS,Jonah Bolden,5:37,2,76ers,Spurs,48 - 51,0,6,2,Jumper
+55,LaMarcus Aldridge,OFFENSIVE_REBOUND,None,5:33,2,Spurs,76ers,48 - 51,0,N/A,N/A,N/A
+56,LaMarcus Aldridge,FG_MISS,Jonah Bolden,5:33,2,76ers,Spurs,48 - 51,0,0,2,Dunk
+57,LaMarcus Aldridge,OFFENSIVE_REBOUND,None,5:33,2,Spurs,76ers,48 - 51,0,N/A,N/A,N/A
+58,LaMarcus Aldridge,TURNOVER,Ben Simmons,5:28,2,Spurs,76ers,48 - 51,0,N/A,N/A,N/A
+59,Jonah Bolden,FG_ASSISTED,Ben Simmons,5:27,2,76ers,Spurs,48 - 53,1,0,2,Dunk
+60,Team,Unknown,None,5:27,2,Spurs,76ers,48 - 53,0,N/A,N/A,N/A
+61,Jakob Poeltl,SUBSTITUTION,Aldridge LaMarcus,5:27,2,Spurs,76ers,48 - 53,0,N/A,N/A,N/A
+62,Rudy Gay,FG_MISS,None,5:12,2,Spurs,76ers,48 - 53,0,25,3,Jumper
+63,Jakob Poeltl,OFFENSIVE_REBOUND,None,5:05,2,Spurs,76ers,48 - 53,0,N/A,N/A,N/A
+64,Jakob Poeltl,FG_MISS,None,5:05,2,Spurs,76ers,48 - 53,0, ,2,Jumper
+65,Jonah Bolden,DEFENSIVE_REBOUND,None,5:03,2,76ers,Spurs,48 - 53,1,N/A,N/A,N/A
+66,JJ Redick,FG_ASSISTED,Corey Brewer,4:51,2,76ers,Spurs,48 - 56,1,25,3,Jumper
+67,Rudy Gay,FG_UNASSISTED,None,4:34,2,Spurs,76ers,50 - 56,0,0,2,Layup
+68,Jonah Bolden,FG_MISS,None,4:21,2,76ers,Spurs,50 - 56,1,25,3,Jumper
+69,Derrick White,DEFENSIVE_REBOUND,None,4:17,2,Spurs,76ers,50 - 56,0,N/A,N/A,N/A
+70,Bryn Forbes,FG_UNASSISTED,None,4:04,2,Spurs,76ers,53 - 56,0,26,3,Jumper
+71,Team,Unknown,None,4:04,2,76ers,Spurs,53 - 56,1,N/A,N/A,N/A
+72,Patty Mills,SUBSTITUTION,Gay Rudy,4:04,2,Spurs,76ers,53 - 56,0,N/A,N/A,N/A
+73,Joel Embiid,SUBSTITUTION,Chandler Wilson,4:04,2,76ers,Spurs,53 - 56,1,N/A,N/A,N/A
+74,Mike Muscala,SUBSTITUTION,Bolden Jonah,4:04,2,76ers,Spurs,53 - 56,1,N/A,N/A,N/A
+75,Joel Embiid,FG_MISS,None,3:46,2,76ers,Spurs,53 - 56,1,2,2,Jumper
+76,Bryn Forbes,DEFENSIVE_REBOUND,None,3:44,2,Spurs,76ers,53 - 56,0,N/A,N/A,N/A
+77,Bryn Forbes,FG_MISS,None,3:40,2,Spurs,76ers,53 - 56,0,25,3,Jumper
+78,Joel Embiid,DEFENSIVE_REBOUND,None,3:37,2,76ers,Spurs,53 - 56,1,N/A,N/A,N/A
+79,Corey Brewer,FG_MISS,None,3:21,2,76ers,Spurs,53 - 56,1,11,2,Jumper
+80,DeMar DeRozan,DEFENSIVE_REBOUND,None,3:17,2,Spurs,76ers,53 - 56,0,N/A,N/A,N/A
+81,DeMar DeRozan,TURNOVER,Corey Brewer,3:06,2,Spurs,76ers,53 - 56,0,N/A,N/A,N/A
+82,Mike Muscala,FG_ASSISTED,Ben Simmons,2:59,2,76ers,Spurs,53 - 59,1,26,3,Jumper
+83,DeMar DeRozan,FG_MISS,None,2:42,2,Spurs,76ers,53 - 59,0,15,2,Jumper
+84,Mike Muscala,DEFENSIVE_REBOUND,None,2:39,2,76ers,Spurs,53 - 59,1,N/A,N/A,N/A
+85,Joel Embiid,FG_ASSISTED,JJ Redick,2:28,2,76ers,Spurs,53 - 61,1,0,2,Dunk
+86,DeMar DeRozan,FOUL_ON_FLOOR,None,2:11,2,Spurs,76ers,53 - 61,0,N/A,N/A,N/A
+87,DeMar DeRozan,TURNOVER,None,2:11,2,Spurs,76ers,53 - 61,0,N/A,N/A,N/A
+88,LaMarcus Aldridge,SUBSTITUTION,Poeltl Jakob,2:11,2,Spurs,76ers,53 - 61,0,N/A,N/A,N/A
+89,Corey Brewer,TURNOVER,Derrick White,1:58,2,76ers,Spurs,53 - 61,1,N/A,N/A,N/A
+90,Corey Brewer,FOUL_ON_FLOOR,None,1:56,2,76ers,Spurs,53 - 61,1,N/A,N/A,N/A
+91,Derrick White,FT,None,1:56,2,Spurs,76ers,54 - 61,0,N/A,1,N/A
+92,Marco Belinelli,SUBSTITUTION,Forbes Bryn,1:56,2,Spurs,76ers,54 - 61,0,N/A,N/A,N/A
+93,Derrick White,FT,None,1:56,2,Spurs,76ers,55 - 61,0,N/A,1,N/A
+94,Joel Embiid,TURNOVER,None,1:47,2,76ers,Spurs,55 - 61,1,N/A,N/A,N/A
+95,DeMar DeRozan,FG_ASSISTED,LaMarcus Aldridge,1:35,2,Spurs,76ers,57 - 61,0,0,2,Layup
+96,Derrick White,FOUL_ON_FLOOR,None,1:25,2,Spurs,76ers,57 - 61,0,N/A,N/A,N/A
+97,Ben Simmons,FT,None,1:25,2,76ers,Spurs,57 - 62,1,N/A,1,N/A
+98,Ben Simmons,FT,None,1:25,2,76ers,Spurs,57 - 63,1,N/A,1,N/A
+99,DeMar DeRozan,FG_UNASSISTED,None,1:12,2,Spurs,76ers,59 - 63,0,17,2,Jumper
+100,Ben Simmons,FG_UNASSISTED,None,1:03,2,76ers,Spurs,59 - 65,1,0,2,Layup
+101,Marco Belinelli,FG_ASSISTED,Derrick White,54.3,2,Spurs,76ers,62 - 65,0,25,3,Jumper
+102,Joel Embiid,TURNOVER,Patty Mills,34.7,2,76ers,Spurs,62 - 65,1,N/A,N/A,N/A
+103,Patty Mills,FG_MISS,None,31.1,2,Spurs,76ers,62 - 65,0, ,2,Jumper
+104,Corey Brewer,DEFENSIVE_REBOUND,None,27.8,2,76ers,Spurs,62 - 65,1,N/A,N/A,N/A
+105,Corey Brewer,FG_ASSISTED,Ben Simmons,7.9,2,76ers,Spurs,62 - 67,1, ,2,Jumper
+106,Joel Embiid,FOUL_ON_FLOOR,None,1.2,2,76ers,Spurs,62 - 67,1,N/A,N/A,N/A
+107,DeMar DeRozan,FT,None,1.2,2,Spurs,76ers,63 - 67,0,N/A,1,N/A
+108,Landry Shamet,SUBSTITUTION,Brewer Corey,1.2,2,76ers,Spurs,63 - 67,1,N/A,N/A,N/A
+109,Bryn Forbes,SUBSTITUTION,Aldridge LaMarcus,1.2,2,Spurs,76ers,63 - 67,0,N/A,N/A,N/A
+110,DeMar DeRozan,FT,None,1.2,2,Spurs,76ers,64 - 67,0,N/A,1,N/A
+111,Mike Muscala,FG_MISS,Marco Belinelli,0.3,2,Spurs,76ers,64 - 67,1,36,3,Jumper
+112,Team,OFFENSIVE_REBOUND,None,0.1,2,76ers,Spurs,64 - 67,1,N/A,N/A,N/A
+113,End of,Unknown,None,0.0,2,76ers,Spurs,64 - 67,1,N/A,N/A,N/A
+0,Corey Brewer,SUBSTITUTION,Shamet Landry,12:00,3,76ers,Spurs,64 - 67,1,N/A,N/A,N/A
+1,Wilson Chandler,SUBSTITUTION,Muscala Mike,12:00,3,76ers,Spurs,64 - 67,1,N/A,N/A,N/A
+2,Rudy Gay,SUBSTITUTION,Mills Patty,12:00,3,Spurs,76ers,64 - 67,0,N/A,N/A,N/A
+3,LaMarcus Aldridge,SUBSTITUTION,Belinelli Marco,12:00,3,Spurs,76ers,64 - 67,0,N/A,N/A,N/A
+4,DeMar DeRozan,FG_UNASSISTED,None,11:37,3,Spurs,76ers,66 - 67,0,7,2,Jumper
+5,Ben Simmons,FG_ASSISTED,Joel Embiid,11:21,3,76ers,Spurs,66 - 69,1,0,2,Layup
+6,Derrick White,FG_MISS,None,11:06,3,Spurs,76ers,66 - 69,0,22,2,Jumper
+7,DeMar DeRozan,OFFENSIVE_REBOUND,None,11:02,3,Spurs,76ers,66 - 69,0,N/A,N/A,N/A
+8,Rudy Gay,FG_ASSISTED,DeMar DeRozan,10:55,3,Spurs,76ers,68 - 69,0,0,2,Layup
+9,Joel Embiid,FG_ASSISTED,Ben Simmons,10:35,3,76ers,Spurs,68 - 71,1,17,2,Jumper
+10,Derrick White,FG_UNASSISTED,None,10:23,3,Spurs,76ers,71 - 71,0,27,3,Jumper
+11,Joel Embiid,FG_MISS,None,10:05,3,76ers,Spurs,71 - 71,1,19,2,Jumper
+12,Rudy Gay,DEFENSIVE_REBOUND,None,10:03,3,Spurs,76ers,71 - 71,0,N/A,N/A,N/A
+13,LaMarcus Aldridge,FG_MISS,None,9:53,3,Spurs,76ers,71 - 71,0,17,2,Jumper
+14,JJ Redick,DEFENSIVE_REBOUND,None,9:50,3,76ers,Spurs,71 - 71,1,N/A,N/A,N/A
+15,Ben Simmons,FG_UNASSISTED,None,9:44,3,76ers,Spurs,71 - 73,1,14,2,Jumper
+16,LaMarcus Aldridge,FG_ASSISTED,Derrick White,9:29,3,Spurs,76ers,73 - 73,0,6,2,Jumper
+17,JJ Redick,FG_MISS,None,9:21,3,76ers,Spurs,73 - 73,1,28,3,Jumper
+18,Derrick White,DEFENSIVE_REBOUND,None,9:17,3,Spurs,76ers,73 - 73,0,N/A,N/A,N/A
+19,Joel Embiid,FOUL_ON_FLOOR,None,9:04,3,76ers,Spurs,73 - 73,1,N/A,N/A,N/A
+20,LaMarcus Aldridge,FT,None,9:04,3,Spurs,76ers,74 - 73,0,N/A,1,N/A
+21,LaMarcus Aldridge,FT,None,9:04,3,Spurs,76ers,75 - 73,0,N/A,1,N/A
+22,Wilson Chandler,FG_MISS,None,8:50,3,76ers,Spurs,75 - 73,1,24,3,Jumper
+23,Rudy Gay,DEFENSIVE_REBOUND,None,8:46,3,Spurs,76ers,75 - 73,0,N/A,N/A,N/A
+24,Rudy Gay,FG_UNASSISTED,None,8:39,3,Spurs,76ers,77 - 73,0,0,2,Layup
+25,Team,Unknown,None,8:39,3,76ers,Spurs,75 - 73,1,N/A,N/A,N/A
+26,Wilson Chandler,TURNOVER,DeMar DeRozan,8:20,3,76ers,Spurs,77 - 73,1,N/A,N/A,N/A
+27,Rudy Gay,TURNOVER,Wilson Chandler,8:16,3,Spurs,76ers,77 - 73,0,N/A,N/A,N/A
+28,Ben Simmons,FG_ASSISTED,Corey Brewer,8:12,3,76ers,Spurs,77 - 75,1,0,2,Dunk
+29,DeMar DeRozan,FG_UNASSISTED,None,7:57,3,Spurs,76ers,79 - 75,0,23,2,Jumper
+30,Corey Brewer,TURNOVER,None,7:51,3,76ers,Spurs,79 - 75,1,N/A,N/A,N/A
+31,DeMar DeRozan,FG_MISS,None,7:38,3,Spurs,76ers,79 - 75,0,22,2,Jumper
+32,Wilson Chandler,DEFENSIVE_REBOUND,None,7:34,3,76ers,Spurs,79 - 75,1,N/A,N/A,N/A
+33,Wilson Chandler,FG_ASSISTED,Ben Simmons,7:29,3,76ers,Spurs,79 - 78,1,25,3,Jumper
+34,LaMarcus Aldridge,FG_MISS,None,7:15,3,Spurs,76ers,79 - 78,0,11,2,Jumper
+35,Joel Embiid,DEFENSIVE_REBOUND,None,7:13,3,76ers,Spurs,79 - 78,1,N/A,N/A,N/A
+36,Ben Simmons,FG_UNASSISTED,None,6:58,3,76ers,Spurs,79 - 80,1, ,2,Jumper
+37,Team,Unknown,None,6:58,3,Spurs,76ers,79 - 80,0,N/A,N/A,N/A
+38,Landry Shamet,SUBSTITUTION,Brewer Corey,6:58,3,76ers,Spurs,79 - 80,1,N/A,N/A,N/A
+39,Rudy Gay,FG_MISS,None,6:39,3,Spurs,76ers,79 - 80,0,18,2,Jumper
+40,Joel Embiid,DEFENSIVE_REBOUND,None,6:36,3,76ers,Spurs,79 - 80,1,N/A,N/A,N/A
+41,Joel Embiid,FG_UNASSISTED,None,6:22,3,76ers,Spurs,79 - 82,1,9,2,Jumper
+42,Derrick White,FG_UNASSISTED,None,6:00,3,Spurs,76ers,81 - 82,0,19,2,Jumper
+43,JJ Redick,FG_MISS,None,5:42,3,76ers,Spurs,81 - 82,1,27,3,Jumper
+44,Derrick White,DEFENSIVE_REBOUND,None,5:39,3,Spurs,76ers,81 - 82,0,N/A,N/A,N/A
+45,Rudy Gay,FG_ASSISTED,Derrick White,5:33,3,Spurs,76ers,83 - 82,0,12,2,Jumper
+46,Landry Shamet,FG_ASSISTED,JJ Redick,5:18,3,76ers,Spurs,83 - 85,1,23,3,Jumper
+47,LaMarcus Aldridge,FG_ASSISTED,Derrick White,5:00,3,Spurs,76ers,85 - 85,0,0,2,Dunk
+48,Joel Embiid,FG_MISS,None,4:40,3,76ers,Spurs,85 - 85,1,24,3,Jumper
+49,DeMar DeRozan,DEFENSIVE_REBOUND,None,4:37,3,Spurs,76ers,85 - 85,0,N/A,N/A,N/A
+50,LaMarcus Aldridge,FG_ASSISTED,Rudy Gay,4:19,3,Spurs,76ers,87 - 85,0,0,2,Dunk
+51,JJ Redick,FG_MISS,None,4:06,3,76ers,Spurs,87 - 85,1,25,3,Jumper
+52,Bryn Forbes,DEFENSIVE_REBOUND,None,4:03,3,Spurs,76ers,87 - 85,0,N/A,N/A,N/A
+53,Ben Simmons,FOUL_ON_FLOOR,None,3:58,3,76ers,Spurs,87 - 85,1,N/A,N/A,N/A
+54,T.J. McConnell,SUBSTITUTION,Redick JJ,3:58,3,76ers,Spurs,87 - 85,1,N/A,N/A,N/A
+55,Jonah Bolden,SUBSTITUTION,Embiid Joel,3:58,3,76ers,Spurs,87 - 85,1,N/A,N/A,N/A
+56,Marco Belinelli,SUBSTITUTION,White Derrick,3:58,3,Spurs,76ers,87 - 85,0,N/A,N/A,N/A
+57,Patty Mills,SUBSTITUTION,Forbes Bryn,3:58,3,Spurs,76ers,87 - 85,0,N/A,N/A,N/A
+58,Jakob Poeltl,SUBSTITUTION,Aldridge LaMarcus,3:58,3,Spurs,76ers,87 - 85,0,N/A,N/A,N/A
+59,DeMar DeRozan,FG_ASSISTED,Marco Belinelli,3:54,3,Spurs,76ers,89 - 85,0, ,2,Jumper
+60,T.J. McConnell,TURNOVER,Rudy Gay,3:44,3,76ers,Spurs,89 - 85,1,N/A,N/A,N/A
+61,Rudy Gay,FG_ASSISTED,Patty Mills,3:30,3,Spurs,76ers,91 - 85,0, ,2,Jumper
+62,Jonah Bolden,FOUL_ON_FLOOR,None,3:30,3,76ers,Spurs,91 - 85,1,N/A,N/A,N/A
+63,Rudy Gay,FT,None,3:30,3,Spurs,76ers,92 - 85,0,N/A,1,N/A
+64,Ben Simmons,FG_UNASSISTED,None,3:06,3,76ers,Spurs,92 - 87,1,12,2,Jumper
+65,Patty Mills,FG_UNASSISTED,None,2:47,3,Spurs,76ers,94 - 87,0, ,2,Jumper
+66,Team,Unknown,None,2:47,3,76ers,Spurs,94 - 87,1,N/A,N/A,N/A
+67,Mike Muscala,SUBSTITUTION,Chandler Wilson,2:47,3,76ers,Spurs,94 - 87,1,N/A,N/A,N/A
+68,Joel Embiid,SUBSTITUTION,Simmons Ben,2:47,3,76ers,Spurs,94 - 87,1,N/A,N/A,N/A
+69,Corey Brewer,SUBSTITUTION,Bolden Jonah,2:47,3,76ers,Spurs,94 - 87,1,N/A,N/A,N/A
+70,Dante Cunningham,SUBSTITUTION,Gay Rudy,2:47,3,Spurs,76ers,94 - 87,0,N/A,N/A,N/A
+71,Corey Brewer,FG_MISS,None,2:21,3,76ers,Spurs,94 - 87,1, ,2,Jumper
+72,Jakob Poeltl,DEFENSIVE_REBOUND,None,2:16,3,Spurs,76ers,94 - 87,0,N/A,N/A,N/A
+73,DeMar DeRozan,TURNOVER,Landry Shamet,2:13,3,Spurs,76ers,94 - 87,0,N/A,N/A,N/A
+74,Landry Shamet,FG_ASSISTED,T.J. McConnell,2:08,3,76ers,Spurs,94 - 89,1,0,2,Layup
+75,Patty Mills,FG_MISS,None,2:00,3,Spurs,76ers,94 - 89,0,27,3,Jumper
+76,Joel Embiid,DEFENSIVE_REBOUND,None,2:00,3,76ers,Spurs,94 - 89,1,N/A,N/A,N/A
+77,Joel Embiid,TURNOVER,DeMar DeRozan,1:46,3,76ers,Spurs,94 - 89,1,N/A,N/A,N/A
+78,Marco Belinelli,FG_MISS,None,1:41,3,Spurs,76ers,94 - 89,0, ,3,Jumper
+79,Joel Embiid,DEFENSIVE_REBOUND,None,1:37,3,76ers,Spurs,94 - 89,1,N/A,N/A,N/A
+80,Joel Embiid,FG_ASSISTED,T.J. McConnell,1:22,3,76ers,Spurs,94 - 91,1, ,2,Jumper
+81,Corey Brewer,FOUL_ON_FLOOR,None,1:01,3,76ers,Spurs,94 - 91,1,N/A,N/A,N/A
+82,DeMar DeRozan,FG_UNASSISTED,None,51.3,3,Spurs,76ers,96 - 91,0,3,2,Jumper
+83,Joel Embiid,FG_ASSISTED,T.J. McConnell,45.1,3,76ers,Spurs,96 - 94,1,26,3,Jumper
+84,DeMar DeRozan,TURNOVER,Landry Shamet,30.4,3,Spurs,76ers,96 - 94,0,N/A,N/A,N/A
+85,Corey Brewer,FG_MISS,None,26.1,3,76ers,Spurs,96 - 94,1,26,3,Jumper
+86,Joel Embiid,OFFENSIVE_REBOUND,None,23.3,3,76ers,Spurs,96 - 94,1,N/A,N/A,N/A
+87,Dante Cunningham,FOUL_ON_FLOOR,None,23.3,3,Spurs,76ers,96 - 94,0,N/A,N/A,N/A
+88,Joel Embiid,FT,None,23.3,3,76ers,Spurs,96 - 95,1,N/A,1,N/A
+89,Ben Simmons,SUBSTITUTION,Muscala Mike,23.3,3,76ers,Spurs,96 - 95,1,N/A,N/A,N/A
+90,Wilson Chandler,SUBSTITUTION,Brewer Corey,23.3,3,76ers,Spurs,96 - 95,1,N/A,N/A,N/A
+91,Joel Embiid,FT,None,23.3,3,76ers,Spurs,96 - 96,1,N/A,1,N/A
+92,Patty Mills,FG_MISS,None,0.2,3,Spurs,76ers,96 - 96,0,27,3,Jumper
+93,Team,OFFENSIVE_REBOUND,None,0.2,3,Spurs,76ers,96 - 96,0,N/A,N/A,N/A
+94,End of,Unknown,None,0.0,3,76ers,Spurs,96 - 96,1,N/A,N/A,N/A
+0,JJ Redick,SUBSTITUTION,Shamet Landry,12:00,4,76ers,Spurs,96 - 96,1,N/A,N/A,N/A
+1,Corey Brewer,SUBSTITUTION,Chandler Wilson,12:00,4,76ers,Spurs,96 - 96,1,N/A,N/A,N/A
+2,Bryn Forbes,SUBSTITUTION,DeRozan DeMar,12:00,4,Spurs,76ers,96 - 96,0,N/A,N/A,N/A
+3,Derrick White,SUBSTITUTION,Cunningham Dante,12:00,4,Spurs,76ers,96 - 96,0,N/A,N/A,N/A
+4,Joel Embiid,FG_ASSISTED,Ben Simmons,11:43,4,76ers,Spurs,96 - 98,1,0,2,Layup
+5,Bryn Forbes,FG_MISS,None,11:30,4,Spurs,76ers,96 - 98,0,26,3,Jumper
+6,Joel Embiid,DEFENSIVE_REBOUND,None,11:28,4,76ers,Spurs,96 - 98,1,N/A,N/A,N/A
+7,Joel Embiid,FG_MISS,None,11:23,4,76ers,Spurs,96 - 98,1,26,3,Jumper
+8,Jakob Poeltl,DEFENSIVE_REBOUND,None,11:17,4,Spurs,76ers,96 - 98,0,N/A,N/A,N/A
+9,Joel Embiid,FOUL_ON_FLOOR,None,11:06,4,76ers,Spurs,96 - 98,1,N/A,N/A,N/A
+10,Marco Belinelli,FT,None,11:06,4,Spurs,76ers,97 - 98,0,N/A,1,N/A
+11,Landry Shamet,SUBSTITUTION,Brewer Corey,11:06,4,76ers,Spurs,97 - 98,1,N/A,N/A,N/A
+12,Marco Belinelli,FT,None,11:06,4,Spurs,76ers,98 - 98,0,N/A,1,N/A
+13,Ben Simmons,TURNOVER,Derrick White,10:50,4,76ers,Spurs,98 - 98,1,N/A,N/A,N/A
+14,Derrick White,FG_UNASSISTED,None,10:41,4,Spurs,76ers,100 - 98,0, ,2,Jumper
+15,Derrick White,FOUL_ON_FLOOR,None,10:27,4,Spurs,76ers,100 - 98,0,N/A,N/A,N/A
+16,Marco Belinelli,FOUL_ON_FLOOR,None,10:16,4,Spurs,76ers,100 - 98,0,N/A,N/A,N/A
+17,Joel Embiid,FT_MISS,None,10:16,4,76ers,Spurs,100 - 98,1,N/A,1,N/A
+18,Team,OFFENSIVE_REBOUND,None,10:16,4,76ers,Spurs,100 - 98,1,N/A,N/A,N/A
+19,Joel Embiid,FT,None,10:16,4,76ers,Spurs,100 - 99,1,N/A,1,N/A
+20,Patty Mills,FG_MISS,None,10:03,4,Spurs,76ers,100 - 99,0,26,3,Jumper
+21,Ben Simmons,DEFENSIVE_REBOUND,None,9:59,4,76ers,Spurs,100 - 99,1,N/A,N/A,N/A
+22,Ben Simmons,FG_MISS,None,9:50,4,76ers,Spurs,100 - 99,1,0,2,Layup
+23,Jakob Poeltl,DEFENSIVE_REBOUND,None,9:47,4,Spurs,76ers,100 - 99,0,N/A,N/A,N/A
+24,JJ Redick,FOUL_ON_FLOOR,None,9:44,4,76ers,Spurs,100 - 99,1,N/A,N/A,N/A
+25,Patty Mills,FT_MISS,None,9:44,4,Spurs,76ers,100 - 99,0,N/A,1,N/A
+26,Team,OFFENSIVE_REBOUND,None,9:44,4,Spurs,76ers,100 - 99,0,N/A,N/A,N/A
+27,Rudy Gay,SUBSTITUTION,Belinelli Marco,9:44,4,Spurs,76ers,100 - 99,0,N/A,N/A,N/A
+28,Patty Mills,FT,None,9:44,4,Spurs,76ers,101 - 99,0,N/A,1,N/A
+29,Ben Simmons,FG_MISS,None,9:29,4,76ers,Spurs,101 - 99,1,4,2,Jumper
+30,Joel Embiid,OFFENSIVE_REBOUND,None,9:25,4,76ers,Spurs,101 - 99,1,N/A,N/A,N/A
+31,Joel Embiid,FG_UNASSISTED,None,9:25,4,76ers,Spurs,101 - 101,1,1,2,Jumper
+32,Bryn Forbes,FG_UNASSISTED,None,9:09,4,Spurs,76ers,103 - 101,0,14,2,Jumper
+33,Joel Embiid,FG_ASSISTED,T.J. McConnell,8:58,4,76ers,Spurs,103 - 103,1,1,2,Jumper
+34,Team,Unknown,None,8:53,4,Spurs,76ers,103 - 103,0,N/A,N/A,N/A
+35,Wilson Chandler,SUBSTITUTION,Simmons Ben,8:53,4,76ers,Spurs,103 - 103,1,N/A,N/A,N/A
+36,LaMarcus Aldridge,SUBSTITUTION,Poeltl Jakob,8:53,4,Spurs,76ers,103 - 103,0,N/A,N/A,N/A
+37,Rudy Gay,FG_ASSISTED,LaMarcus Aldridge,8:41,4,Spurs,76ers,105 - 103,0,0,2,Layup
+38,Joel Embiid,FG_MISS,None,8:16,4,76ers,Spurs,105 - 103,1,1,2,Jumper
+39,LaMarcus Aldridge,DEFENSIVE_REBOUND,None,8:14,4,Spurs,76ers,105 - 103,0,N/A,N/A,N/A
+40,Bryn Forbes,FG_MISS,JJ Redick,7:54,4,76ers,Spurs,105 - 103,0,0,2,Layup
+41,Bryn Forbes,OFFENSIVE_REBOUND,None,7:51,4,Spurs,76ers,105 - 103,0,N/A,N/A,N/A
+42,Bryn Forbes,TURNOVER,Landry Shamet,7:50,4,Spurs,76ers,105 - 103,0,N/A,N/A,N/A
+43,Landry Shamet,FG_MISS,None,7:46,4,76ers,Spurs,105 - 103,1,1,2,Jumper
+44,Rudy Gay,DEFENSIVE_REBOUND,None,7:44,4,Spurs,76ers,105 - 103,0,N/A,N/A,N/A
+45,Patty Mills,FG_ASSISTED,Rudy Gay,7:40,4,Spurs,76ers,108 - 103,0,26,3,Jumper
+46,T.J. McConnell,FG_MISS,None,7:18,4,76ers,Spurs,108 - 103,1,1,2,Jumper
+47,Bryn Forbes,DEFENSIVE_REBOUND,None,7:16,4,Spurs,76ers,108 - 103,0,N/A,N/A,N/A
+48,Derrick White,TURNOVER,T.J. McConnell,7:08,4,Spurs,76ers,108 - 103,0,N/A,N/A,N/A
+49,Joel Embiid,FG_UNASSISTED,None,6:54,4,76ers,Spurs,108 - 105,1,19,2,Jumper
+50,Rudy Gay,FG_UNASSISTED,None,6:37,4,Spurs,76ers,110 - 105,0,15,2,Jumper
+51,Landry Shamet,FG_ASSISTED,T.J. McConnell,6:25,4,76ers,Spurs,110 - 108,1,23,3,Jumper
+52,Rudy Gay,FOUL_ON_FLOOR,None,6:25,4,Spurs,76ers,110 - 108,0,N/A,N/A,N/A
+53,Jonah Bolden,SUBSTITUTION,Embiid Joel,6:25,4,76ers,Spurs,110 - 108,1,N/A,N/A,N/A
+54,DeMar DeRozan,SUBSTITUTION,White Derrick,6:25,4,Spurs,76ers,110 - 108,0,N/A,N/A,N/A
+55,Landry Shamet,FT,None,6:25,4,76ers,Spurs,110 - 109,1,N/A,1,N/A
+56,DeMar DeRozan,FG_ASSISTED,LaMarcus Aldridge,6:07,4,Spurs,76ers,112 - 109,0,2,2,Jumper
+57,Wilson Chandler,FG_MISS,None,5:43,4,76ers,Spurs,112 - 109,1,25,3,Jumper
+58,DeMar DeRozan,DEFENSIVE_REBOUND,None,5:38,4,Spurs,76ers,112 - 109,0,N/A,N/A,N/A
+59,Corey Brewer,SUBSTITUTION,Redick JJ,5:32,4,76ers,Spurs,112 - 109,1,N/A,N/A,N/A
+60,Marco Belinelli,SUBSTITUTION,Mills Patty,5:32,4,Spurs,76ers,112 - 109,0,N/A,N/A,N/A
+61,LaMarcus Aldridge,FG_MISS,None,5:22,4,Spurs,76ers,112 - 109,0,0,2,Layup
+62,Jonah Bolden,DEFENSIVE_REBOUND,None,5:20,4,76ers,Spurs,112 - 109,1,N/A,N/A,N/A
+63,Jonah Bolden,FG_MISS,None,5:02,4,76ers,Spurs,112 - 109,1,18,2,Jumper
+64,Bryn Forbes,DEFENSIVE_REBOUND,None,5:00,4,Spurs,76ers,112 - 109,0,N/A,N/A,N/A
+65,Marco Belinelli,FG_ASSISTED,Bryn Forbes,4:55,4,Spurs,76ers,115 - 109,0,23,3,Jumper
+66,Team,Unknown,None,4:54,4,76ers,Spurs,115 - 109,1,N/A,N/A,N/A
+67,JJ Redick,SUBSTITUTION,Shamet Landry,4:54,4,76ers,Spurs,115 - 109,1,N/A,N/A,N/A
+68,Joel Embiid,SUBSTITUTION,McConnell T.J.,4:54,4,76ers,Spurs,115 - 109,1,N/A,N/A,N/A
+69,Ben Simmons,SUBSTITUTION,Bolden Jonah,4:54,4,76ers,Spurs,115 - 109,1,N/A,N/A,N/A
+70,Derrick White,SUBSTITUTION,Forbes Bryn,4:54,4,Spurs,76ers,115 - 109,0,N/A,N/A,N/A
+71,JJ Redick,FG_ASSISTED,Joel Embiid,4:33,4,76ers,Spurs,115 - 112,1,27,3,Jumper
+72,Derrick White,FG_MISS,None,4:12,4,Spurs,76ers,115 - 111,0,26,3,Jumper
+73,JJ Redick,DEFENSIVE_REBOUND,None,4:07,4,76ers,Spurs,115 - 111,1,N/A,N/A,N/A
+74,JJ Redick,FG_MISS,None,3:55,4,76ers,Spurs,115 - 112,1,26,3,Jumper
+75,LaMarcus Aldridge,DEFENSIVE_REBOUND,None,3:53,4,Spurs,76ers,115 - 112,0,N/A,N/A,N/A
+76,DeMar DeRozan,FG_UNASSISTED,None,3:46,4,Spurs,76ers,117 - 112,0,21,2,Jumper
+77,JJ Redick,FG_MISS,None,3:26,4,76ers,Spurs,117 - 112,1,21,2,Jumper
+78,Joel Embiid,OFFENSIVE_REBOUND,None,3:23,4,76ers,Spurs,117 - 112,1,N/A,N/A,N/A
+79,Joel Embiid,FG_MISS,None,3:10,4,76ers,Spurs,117 - 112,1,13,2,Jumper
+80,DeMar DeRozan,DEFENSIVE_REBOUND,None,3:06,4,Spurs,76ers,117 - 112,0,N/A,N/A,N/A
+81,Marco Belinelli,FG_ASSISTED,Derrick White,2:48,4,Spurs,76ers,120 - 112,0,24,3,Jumper
+82,Team,Unknown,None,2:46,4,76ers,Spurs,120 - 112,1,N/A,N/A,N/A
+83,Landry Shamet,SUBSTITUTION,Brewer Corey,2:46,4,76ers,Spurs,120 - 112,1,N/A,N/A,N/A
+84,Wilson Chandler,FG_MISS,None,2:37,4,76ers,Spurs,120 - 112,1,27,3,Jumper
+85,DeMar DeRozan,DEFENSIVE_REBOUND,None,2:35,4,Spurs,76ers,120 - 112,0,N/A,N/A,N/A
+86,DeMar DeRozan,FG_MISS,None,2:23,4,Spurs,76ers,120 - 112,0,19,2,Jumper
+87,Joel Embiid,DEFENSIVE_REBOUND,None,2:19,4,76ers,Spurs,120 - 112,1,N/A,N/A,N/A
+88,Ben Simmons,FG_ASSISTED,Landry Shamet,2:15,4,76ers,Spurs,120 - 114,1,1,2,Jumper
+89,DeMar DeRozan,FG_MISS,Joel Embiid,1:50,4,76ers,Spurs,120 - 114,0,6,2,Jumper
+90,Ben Simmons,DEFENSIVE_REBOUND,None,1:46,4,76ers,Spurs,120 - 114,1,N/A,N/A,N/A
+91,Landry Shamet,FG_ASSISTED,Ben Simmons,1:44,4,76ers,Spurs,120 - 117,1,24,3,Jumper
+92,Derrick White,FG_MISS,None,1:21,4,Spurs,76ers,120 - 117,0,28,3,Jumper
+93,Ben Simmons,DEFENSIVE_REBOUND,None,1:16,4,76ers,Spurs,120 - 117,1,N/A,N/A,N/A
+94,JJ Redick,FG_ASSISTED,Ben Simmons,1:00,4,76ers,Spurs,120 - 120,1,28,3,Jumper
+95,Rudy Gay,FOUL_ON_FLOOR,None,1:00,4,Spurs,76ers,120 - 120,0,N/A,N/A,N/A
+96,Corey Brewer,SUBSTITUTION,Shamet Landry,1:00,4,76ers,Spurs,120 - 120,1,N/A,N/A,N/A
+97,JJ Redick,FT,None,1:00,4,76ers,Spurs,120 - 121,1,N/A,1,N/A
+98,Marco Belinelli,TURNOVER,None,45.1,4,Spurs,76ers,120 - 121,0,N/A,N/A,N/A
+99,Landry Shamet,SUBSTITUTION,Brewer Corey,45.1,4,76ers,Spurs,120 - 121,1,N/A,N/A,N/A
+100,Joel Embiid's,FG_MISS,Derrick White,22.7,4,Spurs,76ers,120 - 121,1,0,2,Layup
+101,Wilson Chandler,OFFENSIVE_REBOUND,None,21.2,4,76ers,Spurs,120 - 121,1,N/A,N/A,N/A
+102,Corey Brewer,SUBSTITUTION,Shamet Landry,21.1,4,76ers,Spurs,120 - 121,1,N/A,N/A,N/A
+103,Patty Mills,SUBSTITUTION,for game,21.1,4,Spurs,76ers,120 - 121,0,N/A,N/A,N/A
+104,Patty Mills,SUBSTITUTION,Gay Rudy,21.1,4,Spurs,76ers,120 - 121,0,N/A,N/A,N/A
+105,shot clock,TURNOVER,None,21.0,4,76ers,Spurs,120 - 121,1,N/A,N/A,N/A
+106,DeMar DeRozan's,FG_MISS,Wilson Chandler,7.6,4,76ers,Spurs,120 - 121,0,0,2,Layup
+107,Ben Simmons,DEFENSIVE_REBOUND,None,4.3,4,76ers,Spurs,120 - 121,1,N/A,N/A,N/A
+108,DeMar DeRozan,FOUL_ON_FLOOR,None,1.1,4,Spurs,76ers,120 - 121,0,N/A,N/A,N/A
+109,Corey Brewer,FT_MISS,None,1.1,4,76ers,Spurs,120 - 121,1,N/A,1,N/A
+110,Team,OFFENSIVE_REBOUND,None,1.1,4,76ers,Spurs,120 - 121,1,N/A,N/A,N/A
+111,Corey Brewer,FT,None,1.1,4,76ers,Spurs,120 - 122,1,N/A,1,N/A
+112,Team,Unknown,None,1.1,4,Spurs,76ers,120 - 122,0,N/A,N/A,N/A
+113,Team,Unknown,None,1.1,4,Spurs,76ers,120 - 122,0,N/A,N/A,N/A
+114,Mike Muscala,SUBSTITUTION,Redick JJ,1.1,4,76ers,Spurs,120 - 122,1,N/A,N/A,N/A
+115,Bryn Forbes,SUBSTITUTION,White Derrick,1.1,4,Spurs,76ers,120 - 122,0,N/A,N/A,N/A
+116,Rudy Gay,SUBSTITUTION,for game,1.1,4,Spurs,76ers,120 - 122,0,N/A,N/A,N/A
+117,enters the,SUBSTITUTION,DeRozan DeMar,1.1,4,Spurs,76ers,120 - 122,0,N/A,N/A,N/A
+118,End of,Unknown,None,0.0,4,76ers,Spurs,120 - 122,1,N/A,N/A,N/A
+119,End of,Unknown,None,0.0,4,76ers,Spurs,120 - 122,1,N/A,N/A,N/A

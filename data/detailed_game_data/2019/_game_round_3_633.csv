@@ -1,0 +1,337 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,JaVale McGee,JUMP_BALL,None,12:00,1,Lakers,Pelicans,0 - 0,0,N/A,N/A,N/A
+1,Rajon Rondo,FG_ASSISTED,Lance Stephenson,11:46,1,Lakers,Pelicans,2 - 0,0,0,2,Layup
+2,Julius Randle,TURNOVER,Rajon Rondo,11:23,1,Pelicans,Lakers,2 - 0,1,N/A,N/A,N/A
+3,Lance Stephenson,FG_MISS,None,11:15,1,Lakers,Pelicans,2 - 0,0,25,3,Jumper
+4,Julius Randle,DEFENSIVE_REBOUND,None,11:12,1,Pelicans,Lakers,2 - 0,1,N/A,N/A,N/A
+5,Ian Clark,FG_ASSISTED,Julius Randle,11:07,1,Pelicans,Lakers,2 - 3,1,29,3,Jumper
+6,JaVale McGee,FG_MISS,None,10:44,1,Lakers,Pelicans,2 - 3,0,10,2,Jumper
+7,Ian Clark,DEFENSIVE_REBOUND,None,10:42,1,Pelicans,Lakers,2 - 3,1,N/A,N/A,N/A
+8,Moritz Wagner,FOUL_ON_FLOOR,None,10:37,1,Lakers,Pelicans,2 - 3,0,N/A,N/A,N/A
+9,Ian Clark,FG_MISS,None,10:31,1,Pelicans,Lakers,2 - 3,1,-,3,Jumper
+10,JaVale McGee,DEFENSIVE_REBOUND,None,10:27,1,Lakers,Pelicans,2 - 3,0,N/A,N/A,N/A
+11,Moritz Wagner,FG_MISS,None,10:19,1,Lakers,Pelicans,2 - 3,0,7,2,Jumper
+12,Jahlil Okafor,DEFENSIVE_REBOUND,None,10:16,1,Pelicans,Lakers,2 - 3,1,N/A,N/A,N/A
+13,Ian Clark,FG_ASSISTED,Elfrid Payton,10:11,1,Pelicans,Lakers,2 - 5,1,0,2,Layup
+14,JaVale McGee,Unknown,None,10:11,1,Lakers,Pelicans,2 - 5,0,N/A,N/A,N/A
+15,Kentavious Caldwell-Pope,FG_MISS,None,10:00,1,Lakers,Pelicans,2 - 5,0,26,3,Jumper
+16,Kenrich Williams,DEFENSIVE_REBOUND,None,9:57,1,Pelicans,Lakers,2 - 5,1,N/A,N/A,N/A
+17,Ian Clark,TURNOVER,Kentavious Caldwell-Pope,9:49,1,Pelicans,Lakers,2 - 5,1,N/A,N/A,N/A
+18,Rajon Rondo,FG_MISS,None,9:43,1,Lakers,Pelicans,2 - 5,0,20,2,Jumper
+19,Kenrich Williams,DEFENSIVE_REBOUND,None,9:39,1,Pelicans,Lakers,2 - 5,1,N/A,N/A,N/A
+20,Jahlil Okafor,FG_ASSISTED,Elfrid Payton,9:23,1,Pelicans,Lakers,2 - 7,1,0,2,Layup
+21,Kentavious Caldwell-Pope,FG_UNASSISTED,None,9:11,1,Lakers,Pelicans,4 - 7,0,0,2,Layup
+22,Elfrid Payton,FG_UNASSISTED,None,9:03,1,Pelicans,Lakers,4 - 9,1,0,2,Layup
+23,Moritz Wagner,TURNOVER,Kenrich Williams,8:46,1,Lakers,Pelicans,4 - 9,0,N/A,N/A,N/A
+24,Moritz Wagner,Unknown,None,8:41,1,Lakers,Pelicans,4 - 9,0,N/A,N/A,N/A
+25,Elfrid Payton,TURNOVER,JaVale McGee,8:32,1,Pelicans,Lakers,4 - 9,1,N/A,N/A,N/A
+26,JaVale McGee,FG_ASSISTED,Rajon Rondo,8:25,1,Lakers,Pelicans,6 - 9,0,8,2,Jumper
+27,Kenrich Williams,FG_MISS,None,8:14,1,Pelicans,Lakers,6 - 9,1,27,3,Jumper
+28,Rajon Rondo,DEFENSIVE_REBOUND,None,8:11,1,Lakers,Pelicans,6 - 9,0,N/A,N/A,N/A
+29,Moritz Wagner,FG_MISS,None,8:06,1,Lakers,Pelicans,6 - 9,0,30,3,Jumper
+30,Team,DEFENSIVE_REBOUND,None,8:04,1,Pelicans,Lakers,6 - 9,1,N/A,N/A,N/A
+31,Elfrid Payton,FG_MISS,Moritz Wagner,7:50,1,Lakers,Pelicans,6 - 9,1,0,2,Layup
+32,Jahlil Okafor,OFFENSIVE_REBOUND,None,7:48,1,Pelicans,Lakers,6 - 9,1,N/A,N/A,N/A
+33,Julius Randle,FG_ASSISTED,Jahlil Okafor,7:44,1,Pelicans,Lakers,6 - 12,1,23,3,Jumper
+34,Lance Stephenson,FG_MISS,None,7:21,1,Lakers,Pelicans,6 - 12,0,27,3,Jumper
+35,Julius Randle,DEFENSIVE_REBOUND,None,7:18,1,Pelicans,Lakers,6 - 12,1,N/A,N/A,N/A
+36,Ian Clark,FG_MISS,None,7:07,1,Pelicans,Lakers,6 - 12,1,23,3,Jumper
+37,Lance Stephenson,DEFENSIVE_REBOUND,None,7:05,1,Lakers,Pelicans,6 - 12,0,N/A,N/A,N/A
+38,Jahlil Okafor,FOUL_ON_FLOOR,None,7:01,1,Pelicans,Lakers,6 - 12,1,N/A,N/A,N/A
+39,Team,Unknown,None,7:01,1,Lakers,Pelicans,6 - 12,0,N/A,N/A,N/A
+40,Kentavious Caldwell-Pope,FT,None,7:01,1,Lakers,Pelicans,7 - 12,0,N/A,1,N/A
+41,Johnathan Williams,SUBSTITUTION,McGee JaVale,7:01,1,Lakers,Pelicans,7 - 12,0,N/A,N/A,N/A
+42,Kentavious Caldwell-Pope,FT,None,7:01,1,Lakers,Pelicans,8 - 12,0,N/A,1,N/A
+43,Johnathan Williams,FOUL_ON_FLOOR,None,6:50,1,Lakers,Pelicans,8 - 12,0,N/A,N/A,N/A
+44,Team,Unknown,None,6:50,1,Pelicans,Lakers,8 - 12,1,N/A,N/A,N/A
+45,Julius Randle,FG_MISS,None,6:42,1,Pelicans,Lakers,8 - 12,1,26,3,Jumper
+46,Team,DEFENSIVE_REBOUND,None,6:41,1,Lakers,Pelicans,8 - 12,0,N/A,N/A,N/A
+47,Moritz Wagner,FG_MISS,None,6:30,1,Lakers,Pelicans,8 - 12,0,25,3,Jumper
+48,Elfrid Payton,DEFENSIVE_REBOUND,None,6:27,1,Pelicans,Lakers,8 - 12,1,N/A,N/A,N/A
+49,Julius Randle,TURNOVER,None,6:20,1,Pelicans,Lakers,8 - 12,1,N/A,N/A,N/A
+50,Kentavious Caldwell-Pope,FG_ASSISTED,Rajon Rondo,6:10,1,Lakers,Pelicans,10 - 12,0,0,2,Layup
+51,Ian Clark,FG_MISS,None,5:52,1,Pelicans,Lakers,10 - 12,1,10,2,Jumper
+52,Lance Stephenson,DEFENSIVE_REBOUND,None,5:50,1,Lakers,Pelicans,10 - 12,0,N/A,N/A,N/A
+53,Kentavious Caldwell-Pope,FG_MISS,None,5:36,1,Lakers,Pelicans,10 - 12,0,0,2,Layup
+54,Johnathan Williams,OFFENSIVE_REBOUND,None,5:31,1,Lakers,Pelicans,10 - 12,0,N/A,N/A,N/A
+55,Johnathan Williams,FG_MISS,None,5:31,1,Lakers,Pelicans,10 - 12,0, ,2,Jumper
+56,Julius Randle,DEFENSIVE_REBOUND,None,5:31,1,Pelicans,Lakers,10 - 12,1,N/A,N/A,N/A
+57,Ian Clark,FG_MISS,None,5:25,1,Pelicans,Lakers,12 - 12,1,26,3,Jumper
+58,Team,OFFENSIVE_REBOUND,None,5:25,1,Pelicans,Lakers,12 - 12,1,N/A,N/A,N/A
+59,Cheick Diallo,SUBSTITUTION,Okafor Jahlil,5:25,1,Pelicans,Lakers,12 - 12,1,N/A,N/A,N/A
+60,Ian Clark,FG_ASSISTED,Julius Randle,5:14,1,Pelicans,Lakers,10 - 14,1,17,2,Jumper
+61,Kentavious Caldwell-Pope,TURNOVER,None,5:00,1,Lakers,Pelicans,10 - 14,0,N/A,N/A,N/A
+62,Mike Muscala,SUBSTITUTION,Wagner Moritz,5:00,1,Lakers,Pelicans,10 - 14,0,N/A,N/A,N/A
+63,JaVale McGee,SUBSTITUTION,Williams Johnathan,5:00,1,Lakers,Pelicans,10 - 14,0,N/A,N/A,N/A
+64,Elfrid Payton,FG_ASSISTED,Ian Clark,4:43,1,Pelicans,Lakers,10 - 16,1,0,2,Layup
+65,Kentavious Caldwell-Pope,FG_MISS,None,4:34,1,Lakers,Pelicans,10 - 16,0,25,3,Jumper
+66,Team,DEFENSIVE_REBOUND,None,4:33,1,Pelicans,Lakers,10 - 16,1,N/A,N/A,N/A
+67,Christian Wood,SUBSTITUTION,Randle Julius,4:22,1,Pelicans,Lakers,10 - 16,1,N/A,N/A,N/A
+68,Alex Caruso,SUBSTITUTION,Stephenson Lance,4:22,1,Lakers,Pelicans,10 - 16,0,N/A,N/A,N/A
+69,Elfrid Payton,TURNOVER,Alex Caruso,4:10,1,Pelicans,Lakers,10 - 16,1,N/A,N/A,N/A
+70,Kentavious Caldwell-Pope,FG_ASSISTED,Mike Muscala,4:02,1,Lakers,Pelicans,12 - 16,0,0,2,Layup
+71,Ian Clark,FOUL_ON_FLOOR,None,4:02,1,Pelicans,Lakers,12 - 16,1,N/A,N/A,N/A
+72,Stanley Johnson,SUBSTITUTION,Payton Elfrid,4:02,1,Pelicans,Lakers,12 - 16,1,N/A,N/A,N/A
+73,Kentavious Caldwell-Pope,FT,None,4:02,1,Lakers,Pelicans,13 - 16,0,N/A,1,N/A
+74,Ian Clark,TURNOVER,Rajon Rondo,3:50,1,Pelicans,Lakers,13 - 16,1,N/A,N/A,N/A
+75,JaVale McGee,FG_ASSISTED,Rajon Rondo,3:47,1,Lakers,Pelicans,15 - 16,0,0,2,Dunk
+76,Cheick Diallo,FOUL_ON_FLOOR,None,3:47,1,Pelicans,Lakers,15 - 16,1,N/A,N/A,N/A
+77,JaVale McGee,FT_MISS,None,3:47,1,Lakers,Pelicans,15 - 16,0,N/A,1,N/A
+78,Stanley Johnson,DEFENSIVE_REBOUND,None,3:43,1,Pelicans,Lakers,15 - 16,1,N/A,N/A,N/A
+79,Ian Clark,FG_ASSISTED,Cheick Diallo,3:35,1,Pelicans,Lakers,15 - 18,1,0,2,Layup
+80,Kentavious Caldwell-Pope,FG_ASSISTED,Rajon Rondo,3:21,1,Lakers,Pelicans,17 - 18,0,16,2,Jumper
+81,Stanley Johnson,FG_UNASSISTED,None,3:11,1,Pelicans,Lakers,17 - 20,1,0,2,Layup
+82,Kentavious Caldwell-Pope,FG_MISS,None,3:01,1,Lakers,Pelicans,17 - 20,0,0,2,Layup
+83,Christian Wood,DEFENSIVE_REBOUND,None,2:58,1,Pelicans,Lakers,17 - 20,1,N/A,N/A,N/A
+84,Kenrich Williams,FG_MISS,None,2:53,1,Pelicans,Lakers,17 - 20,1,25,3,Jumper
+85,JaVale McGee,DEFENSIVE_REBOUND,None,2:49,1,Lakers,Pelicans,17 - 20,0,N/A,N/A,N/A
+86,Rajon Rondo,FG_ASSISTED,JaVale McGee,2:44,1,Lakers,Pelicans,19 - 20,0,0,2,Layup
+87,Cheick Diallo,FG_ASSISTED,Kenrich Williams,2:30,1,Pelicans,Lakers,19 - 22,1,0,2,Layup
+88,Team,Unknown,None,2:30,1,Lakers,Pelicans,19 - 22,0,N/A,N/A,N/A
+89,Mike Muscala,FG_MISS,None,2:17,1,Lakers,Pelicans,19 - 22,0,23,3,Jumper
+90,Christian Wood,DEFENSIVE_REBOUND,None,2:13,1,Pelicans,Lakers,19 - 22,1,N/A,N/A,N/A
+91,Christian Wood,FG_MISS,None,1:56,1,Pelicans,Lakers,19 - 22,1,17,2,Jumper
+92,JaVale McGee,DEFENSIVE_REBOUND,None,1:53,1,Lakers,Pelicans,19 - 22,0,N/A,N/A,N/A
+93,JaVale McGee,FG_UNASSISTED,None,1:37,1,Lakers,Pelicans,21 - 22,0, ,2,Jumper
+94,Stanley Johnson,FG_MISS,None,1:20,1,Pelicans,Lakers,21 - 22,1,11,2,Jumper
+95,Kentavious Caldwell-Pope,DEFENSIVE_REBOUND,None,1:17,1,Lakers,Pelicans,21 - 22,0,N/A,N/A,N/A
+96,Mike Muscala,FG_MISS,None,1:11,1,Lakers,Pelicans,21 - 22,0,25,3,Jumper
+97,Stanley Johnson,DEFENSIVE_REBOUND,None,1:07,1,Pelicans,Lakers,21 - 22,1,N/A,N/A,N/A
+98,Christian Wood,FG_MISS,None,55.1,1,Pelicans,Lakers,21 - 22,1,0,2,Layup
+99,Team,OFFENSIVE_REBOUND,None,53.0,1,Pelicans,Lakers,21 - 22,1,N/A,N/A,N/A
+100,Solomon Hill,SUBSTITUTION,Williams Kenrich,53.0,1,Pelicans,Lakers,21 - 22,1,N/A,N/A,N/A
+101,Reggie Bullock,SUBSTITUTION,Caldwell-Pope Kentavious,53.0,1,Lakers,Pelicans,21 - 22,0,N/A,N/A,N/A
+102,Stanley Johnson,FG_MISS,None,44.2,1,Pelicans,Lakers,21 - 22,1,0,2,Layup
+103,Cheick Diallo,OFFENSIVE_REBOUND,None,40.6,1,Pelicans,Lakers,21 - 22,1,N/A,N/A,N/A
+104,Cheick Diallo,FG_UNASSISTED,None,40.6,1,Pelicans,Lakers,21 - 24,1, ,2,Jumper
+105,Rajon Rondo,FG_ASSISTED,Reggie Bullock,32.3,1,Lakers,Pelicans,24 - 24,0,25,3,Jumper
+106,Ian Clark,TURNOVER,Rajon Rondo,17.8,1,Pelicans,Lakers,24 - 24,1,N/A,N/A,N/A
+107,Solomon Hill,FOUL_ON_FLOOR,None,14.7,1,Pelicans,Lakers,24 - 24,1,N/A,N/A,N/A
+108,Rajon Rondo,FT,None,14.7,1,Lakers,Pelicans,25 - 24,0,N/A,1,N/A
+109,Rajon Rondo,FT,None,14.7,1,Lakers,Pelicans,26 - 24,0,N/A,1,N/A
+110,Reggie Bullock,FOUL_ON_FLOOR,None,6.5,1,Lakers,Pelicans,26 - 24,0,N/A,N/A,N/A
+111,Christian Wood,FG_UNASSISTED,None,0.5,1,Pelicans,Lakers,26 - 26,1,22,2,Jumper
+112,End of,Unknown,None,0.0,1,Pelicans,Lakers,26 - 26,1,N/A,N/A,N/A
+0,Julius Randle,SUBSTITUTION,Wood Christian,12:00,3,Pelicans,Lakers,61 - 62,1,N/A,N/A,N/A
+1,JaVale McGee,SUBSTITUTION,Caruso Alex,12:00,3,Lakers,Pelicans,61 - 62,0,N/A,N/A,N/A
+2,Lance Stephenson,SUBSTITUTION,Williams Johnathan,12:00,3,Lakers,Pelicans,61 - 62,0,N/A,N/A,N/A
+3,Julius Randle,FG_UNASSISTED,None,11:42,3,Pelicans,Lakers,61 - 64,1,12,2,Jumper
+4,Rajon Rondo,FG_ASSISTED,JaVale McGee,11:21,3,Lakers,Pelicans,64 - 64,0,22,3,Jumper
+5,Kentavious Caldwell-Pope,FOUL_ON_FLOOR,None,11:13,3,Lakers,Pelicans,64 - 64,0,N/A,N/A,N/A
+6,Elfrid Payton,FT,None,11:13,3,Pelicans,Lakers,64 - 65,1,N/A,1,N/A
+7,Elfrid Payton,FT,None,11:13,3,Pelicans,Lakers,64 - 66,1,N/A,1,N/A
+8,Rajon Rondo,FG_MISS,None,10:58,3,Lakers,Pelicans,64 - 66,0,26,3,Jumper
+9,Julius Randle,DEFENSIVE_REBOUND,None,10:51,3,Pelicans,Lakers,64 - 66,1,N/A,N/A,N/A
+10,Elfrid Payton,FG_MISS,None,10:48,3,Pelicans,Lakers,64 - 66,1,26,3,Jumper
+11,Rajon Rondo,DEFENSIVE_REBOUND,None,10:44,3,Lakers,Pelicans,64 - 66,0,N/A,N/A,N/A
+12,Kenrich Williams,FOUL_ON_FLOOR,None,10:36,3,Pelicans,Lakers,64 - 66,1,N/A,N/A,N/A
+13,JaVale McGee,FT,None,10:36,3,Lakers,Pelicans,65 - 66,0,N/A,1,N/A
+14,JaVale McGee,FT,None,10:36,3,Lakers,Pelicans,66 - 66,0,N/A,1,N/A
+15,Ian Clark,FG_MISS,None,10:23,3,Pelicans,Lakers,66 - 66,1,23,3,Jumper
+16,JaVale McGee,DEFENSIVE_REBOUND,None,10:18,3,Lakers,Pelicans,66 - 66,0,N/A,N/A,N/A
+17,Rajon Rondo,FG_UNASSISTED,None,10:12,3,Lakers,Pelicans,68 - 66,0, ,2,Jumper
+18,Julius Randle,FG_MISS,None,10:06,3,Pelicans,Lakers,68 - 66,1,25,3,Jumper
+19,Moritz Wagner,DEFENSIVE_REBOUND,None,10:01,3,Lakers,Pelicans,68 - 66,0,N/A,N/A,N/A
+20,Lance Stephenson,FG_MISS,None,9:51,3,Lakers,Pelicans,68 - 66,0,26,3,Jumper
+21,Julius Randle,DEFENSIVE_REBOUND,None,9:49,3,Pelicans,Lakers,68 - 66,1,N/A,N/A,N/A
+22,Julius Randle,FG_MISS,None,9:42,3,Pelicans,Lakers,68 - 66,1,0,2,Layup
+23,Rajon Rondo,DEFENSIVE_REBOUND,None,9:40,3,Lakers,Pelicans,68 - 66,0,N/A,N/A,N/A
+24,JaVale McGee,FG_ASSISTED,Rajon Rondo,9:35,3,Lakers,Pelicans,70 - 66,0,0,2,Layup
+25,Jahlil Okafor,FG_UNASSISTED,None,9:17,3,Pelicans,Lakers,70 - 68,1,0,2,Layup
+26,Rajon Rondo,FG_UNASSISTED,None,8:49,3,Lakers,Pelicans,72 - 68,0, ,2,Jumper
+27,Ian Clark,FG_ASSISTED,Julius Randle,8:29,3,Pelicans,Lakers,72 - 70,1,0,2,Layup
+28,Team,Unknown,None,8:27,3,Lakers,Pelicans,72 - 70,0,N/A,N/A,N/A
+29,Alex Caruso,SUBSTITUTION,Rondo Rajon,8:27,3,Lakers,Pelicans,72 - 70,0,N/A,N/A,N/A
+30,Reggie Bullock,SUBSTITUTION,Stephenson Lance,8:27,3,Lakers,Pelicans,72 - 70,0,N/A,N/A,N/A
+31,Reggie Bullock,FG_ASSISTED,Alex Caruso,8:12,3,Lakers,Pelicans,74 - 70,0,17,2,Jumper
+32,Jahlil Okafor,FG_ASSISTED,Ian Clark,7:56,3,Pelicans,Lakers,74 - 72,1,0,2,Dunk
+33,JaVale McGee,FG_ASSISTED,Alex Caruso,7:47,3,Lakers,Pelicans,76 - 72,0,0,2,Dunk
+34,Kenrich Williams,FOUL_ON_FLOOR,None,7:47,3,Pelicans,Lakers,76 - 72,1,N/A,N/A,N/A
+35,JaVale McGee,FT,None,7:47,3,Lakers,Pelicans,77 - 72,0,N/A,1,N/A
+36,JaVale McGee,FOUL_ON_FLOOR,None,7:34,3,Lakers,Pelicans,77 - 72,0,N/A,N/A,N/A
+37,Jahlil Okafor,FT,None,7:34,3,Pelicans,Lakers,77 - 73,1,N/A,1,N/A
+38,Jahlil Okafor,FT_MISS,None,7:34,3,Pelicans,Lakers,77 - 73,1,N/A,1,N/A
+39,JaVale McGee,DEFENSIVE_REBOUND,None,7:31,3,Lakers,Pelicans,77 - 73,0,N/A,N/A,N/A
+40,JaVale McGee,FG_MISS,None,7:18,3,Lakers,Pelicans,77 - 73,0,0,2,Layup
+41,Elfrid Payton,DEFENSIVE_REBOUND,None,7:16,3,Pelicans,Lakers,77 - 73,1,N/A,N/A,N/A
+42,Jahlil Okafor,FG_MISS,None,7:03,3,Pelicans,Lakers,77 - 73,1, ,2,Jumper
+43,Team,DEFENSIVE_REBOUND,None,7:03,3,Lakers,Pelicans,77 - 73,0,N/A,N/A,N/A
+44,Alex Caruso,FG_UNASSISTED,None,6:47,3,Lakers,Pelicans,79 - 73,0,0,2,Layup
+45,Ian Clark,TURNOVER,Alex Caruso,6:19,3,Pelicans,Lakers,79 - 73,1,N/A,N/A,N/A
+46,JaVale McGee,FG_UNASSISTED,None,6:12,3,Lakers,Pelicans,81 - 73,0, ,2,Jumper
+47,Team,Unknown,None,6:12,3,Pelicans,Lakers,81 - 73,1,N/A,N/A,N/A
+48,Stanley Johnson,SUBSTITUTION,Payton Elfrid,6:12,3,Pelicans,Lakers,81 - 73,1,N/A,N/A,N/A
+49,Cheick Diallo,SUBSTITUTION,Okafor Jahlil,6:12,3,Pelicans,Lakers,81 - 73,1,N/A,N/A,N/A
+50,Julius Randle,FG_UNASSISTED,None,5:59,3,Pelicans,Lakers,81 - 75,1,17,2,Jumper
+51,Alex Caruso,FG_MISS,None,5:39,3,Lakers,Pelicans,81 - 75,0,0,2,Layup
+52,Team,OFFENSIVE_REBOUND,None,5:39,3,Lakers,Pelicans,81 - 75,0,N/A,N/A,N/A
+53,Julius Randle,FOUL_ON_FLOOR,None,5:39,3,Pelicans,Lakers,81 - 75,1,N/A,N/A,N/A
+54,Reggie Bullock,FG_ASSISTED,Moritz Wagner,5:33,3,Lakers,Pelicans,83 - 75,0,11,2,Jumper
+55,Moritz Wagner,FOUL_ON_FLOOR,None,5:15,3,Lakers,Pelicans,83 - 75,0,N/A,N/A,N/A
+56,Julius Randle,FT,None,5:15,3,Pelicans,Lakers,83 - 76,1,N/A,1,N/A
+57,Julius Randle,FT_MISS,None,5:15,3,Pelicans,Lakers,83 - 76,1,N/A,1,N/A
+58,JaVale McGee,DEFENSIVE_REBOUND,None,5:13,3,Lakers,Pelicans,83 - 76,0,N/A,N/A,N/A
+59,Alex Caruso,FG_MISS,None,4:50,3,Lakers,Pelicans,83 - 76,0,0,2,Layup
+60,JaVale McGee,OFFENSIVE_REBOUND,None,4:44,3,Lakers,Pelicans,83 - 76,0,N/A,N/A,N/A
+61,JaVale McGee,FG_UNASSISTED,None,4:44,3,Lakers,Pelicans,85 - 76,0,0,2,Dunk
+62,Julius Randle,TURNOVER,None,4:37,3,Pelicans,Lakers,85 - 76,1,N/A,N/A,N/A
+63,Moritz Wagner,FG_ASSISTED,Alex Caruso,4:24,3,Lakers,Pelicans,87 - 76,0,8,2,Jumper
+64,Kenrich Williams,FG_MISS,None,4:03,3,Pelicans,Lakers,87 - 76,1,26,3,Jumper
+65,JaVale McGee,DEFENSIVE_REBOUND,None,3:59,3,Lakers,Pelicans,87 - 76,0,N/A,N/A,N/A
+66,Kentavious Caldwell-Pope,FG_MISS,None,3:48,3,Lakers,Pelicans,87 - 76,0,18,2,Jumper
+67,Kenrich Williams,DEFENSIVE_REBOUND,None,3:45,3,Pelicans,Lakers,87 - 76,1,N/A,N/A,N/A
+68,Cheick Diallo,FG_UNASSISTED,None,3:32,3,Pelicans,Lakers,87 - 78,1,20,2,Jumper
+69,Alex Caruso,TURNOVER,Julius Randle,3:20,3,Lakers,Pelicans,87 - 78,0,N/A,N/A,N/A
+70,Kentavious Caldwell-Pope,FOUL_ON_FLOOR,None,3:18,3,Lakers,Pelicans,87 - 78,0,N/A,N/A,N/A
+71,Christian Wood,SUBSTITUTION,Randle Julius,3:18,3,Pelicans,Lakers,87 - 78,1,N/A,N/A,N/A
+72,Johnathan Williams,SUBSTITUTION,McGee JaVale,3:18,3,Lakers,Pelicans,87 - 78,0,N/A,N/A,N/A
+73,Mike Muscala,SUBSTITUTION,Wagner Moritz,3:18,3,Lakers,Pelicans,87 - 78,0,N/A,N/A,N/A
+74,Christian Wood,FG_MISS,None,3:03,3,Pelicans,Lakers,87 - 78,1,5,2,Jumper
+75,Cheick Diallo,OFFENSIVE_REBOUND,None,2:57,3,Pelicans,Lakers,87 - 78,1,N/A,N/A,N/A
+76,Cheick Diallo,FG_UNASSISTED,None,2:57,3,Pelicans,Lakers,87 - 80,1, ,2,Jumper
+77,Kentavious Caldwell-Pope,FG_MISS,None,2:49,3,Lakers,Pelicans,87 - 80,0, ,2,Jumper
+78,Alex Caruso,OFFENSIVE_REBOUND,None,2:48,3,Lakers,Pelicans,87 - 80,0,N/A,N/A,N/A
+79,Stanley Johnson,FOUL_ON_FLOOR,None,2:48,3,Pelicans,Lakers,87 - 80,1,N/A,N/A,N/A
+80,Alex Caruso,FT,None,2:48,3,Lakers,Pelicans,88 - 80,0,N/A,1,N/A
+81,Solomon Hill,SUBSTITUTION,Williams Kenrich,2:48,3,Pelicans,Lakers,88 - 80,1,N/A,N/A,N/A
+82,Isaac Bonga,SUBSTITUTION,Caldwell-Pope Kentavious,2:48,3,Lakers,Pelicans,88 - 80,0,N/A,N/A,N/A
+83,Alex Caruso,FT,None,2:48,3,Lakers,Pelicans,89 - 80,0,N/A,1,N/A
+84,Ian Clark,FG_MISS,None,2:40,3,Pelicans,Lakers,89 - 80,1,20,2,Jumper
+85,Mike Muscala,DEFENSIVE_REBOUND,None,2:38,3,Lakers,Pelicans,89 - 80,0,N/A,N/A,N/A
+86,Reggie Bullock,FG_MISS,None,2:30,3,Lakers,Pelicans,89 - 80,0,19,2,Jumper
+87,Team,DEFENSIVE_REBOUND,None,2:28,3,Pelicans,Lakers,89 - 80,1,N/A,N/A,N/A
+88,Cheick Diallo,TURNOVER,Isaac Bonga,2:14,3,Pelicans,Lakers,89 - 80,1,N/A,N/A,N/A
+89,Alex Caruso,FG_UNASSISTED,None,2:09,3,Lakers,Pelicans,92 - 80,0,27,3,Jumper
+90,Stanley Johnson,TURNOVER,Alex Caruso,1:57,3,Pelicans,Lakers,92 - 80,1,N/A,N/A,N/A
+91,Alex Caruso,FG_UNASSISTED,None,1:50,3,Lakers,Pelicans,94 - 80,0,0,2,Dunk
+92,Solomon Hill,FG_ASSISTED,Stanley Johnson,1:35,3,Pelicans,Lakers,94 - 83,1,27,3,Jumper
+93,Mike Muscala,FG_ASSISTED,Alex Caruso,1:33,3,Lakers,Pelicans,97 - 83,0,27,3,Jumper
+94,Ian Clark,FG_MISS,None,1:04,3,Pelicans,Lakers,97 - 83,1,8,2,Jumper
+95,Christian Wood,OFFENSIVE_REBOUND,None,1:00,3,Pelicans,Lakers,97 - 83,1,N/A,N/A,N/A
+96,Christian Wood,FG_MISS,None,1:00,3,Pelicans,Lakers,97 - 83,1, ,2,Jumper
+97,Cheick Diallo,OFFENSIVE_REBOUND,None,1:00,3,Pelicans,Lakers,97 - 83,1,N/A,N/A,N/A
+98,Cheick Diallo,TURNOVER,None,1:00,3,Pelicans,Lakers,97 - 83,1,N/A,N/A,N/A
+99,Dairis Bertans,SUBSTITUTION,Clark Ian,1:00,3,Pelicans,Lakers,97 - 83,1,N/A,N/A,N/A
+100,Dairis Bertans,FOUL_ON_FLOOR,None,53.2,3,Pelicans,Lakers,97 - 83,1,N/A,N/A,N/A
+101,Reggie Bullock,FT,None,53.2,3,Lakers,Pelicans,98 - 83,0,N/A,1,N/A
+102,Reggie Bullock,FT,None,53.2,3,Lakers,Pelicans,99 - 83,0,N/A,1,N/A
+103,Christian Wood,TURNOVER,Mike Muscala,41.0,3,Pelicans,Lakers,99 - 83,1,N/A,N/A,N/A
+104,Alex Caruso,FG_UNASSISTED,None,34.0,3,Lakers,Pelicans,102 - 83,0,26,3,Jumper
+105,Alex Caruso,FOUL_ON_FLOOR,None,22.0,3,Lakers,Pelicans,102 - 83,0,N/A,N/A,N/A
+106,Solomon Hill,FT,None,22.0,3,Pelicans,Lakers,102 - 84,1,N/A,1,N/A
+107,Solomon Hill,FT_MISS,None,22.0,3,Pelicans,Lakers,102 - 84,1,N/A,1,N/A
+108,Mike Muscala,DEFENSIVE_REBOUND,None,19.9,3,Lakers,Pelicans,102 - 84,0,N/A,N/A,N/A
+109,Reggie Bullock,FG_ASSISTED,Alex Caruso,3.0,3,Lakers,Pelicans,105 - 84,0,25,3,Jumper
+110,Stanley Johnson,FG_MISS,None,0.0,3,Pelicans,Lakers,105 - 84,1,26,3,Jumper
+111,Team,OFFENSIVE_REBOUND,None,0.0,3,Pelicans,Lakers,105 - 84,1,N/A,N/A,N/A
+112,End of,Unknown,None,0.0,3,Pelicans,Lakers,105 - 84,1,N/A,N/A,N/A
+0,Alex Caruso,FG_MISS,None,11:47,4,Lakers,Pelicans,105 - 84,0,0,2,Layup
+1,Isaac Bonga,OFFENSIVE_REBOUND,None,11:46,4,Lakers,Pelicans,105 - 84,0,N/A,N/A,N/A
+2,Isaac Bonga,FG_UNASSISTED,None,11:46,4,Lakers,Pelicans,107 - 84,0, ,2,Jumper
+3,Alex Caruso,FOUL_ON_FLOOR,None,11:27,4,Lakers,Pelicans,107 - 84,0,N/A,N/A,N/A
+4,Stanley Johnson,TURNOVER,None,11:18,4,Pelicans,Lakers,107 - 84,1,N/A,N/A,N/A
+5,Reggie Bullock,FG_MISS,None,11:06,4,Lakers,Pelicans,107 - 84,0,26,3,Jumper
+6,Cheick Diallo,DEFENSIVE_REBOUND,None,11:03,4,Pelicans,Lakers,107 - 84,1,N/A,N/A,N/A
+7,Reggie Bullock,FOUL_ON_FLOOR,None,10:57,4,Lakers,Pelicans,107 - 84,0,N/A,N/A,N/A
+8,Rajon Rondo,SUBSTITUTION,Caruso Alex,10:57,4,Lakers,Pelicans,107 - 84,0,N/A,N/A,N/A
+9,Cheick Diallo,FG_ASSISTED,Solomon Hill,10:45,4,Pelicans,Lakers,107 - 86,1,13,2,Jumper
+10,Mike Muscala,FG_ASSISTED,Reggie Bullock,10:29,4,Lakers,Pelicans,109 - 86,0, ,2,Jumper
+11,Christian Wood,FG_MISS,None,10:15,4,Pelicans,Lakers,109 - 86,1,0,2,Layup
+12,Mike Muscala,DEFENSIVE_REBOUND,None,10:13,4,Lakers,Pelicans,109 - 86,0,N/A,N/A,N/A
+13,Mike Muscala,FG_ASSISTED,Isaac Bonga,10:08,4,Lakers,Pelicans,112 - 86,0,25,3,Jumper
+14,Cheick Diallo,TURNOVER,Reggie Bullock,9:50,4,Pelicans,Lakers,112 - 86,1,N/A,N/A,N/A
+15,Isaac Bonga,FG_MISS,None,9:42,4,Lakers,Pelicans,112 - 86,0,3,2,Jumper
+16,Cheick Diallo,DEFENSIVE_REBOUND,None,9:41,4,Pelicans,Lakers,112 - 86,1,N/A,N/A,N/A
+17,Stanley Johnson,FG_ASSISTED,Solomon Hill,9:39,4,Pelicans,Lakers,112 - 88,1,0,2,Dunk
+18,Rajon Rondo,FG_MISS,None,9:19,4,Lakers,Pelicans,112 - 88,0,27,3,Jumper
+19,Stanley Johnson,DEFENSIVE_REBOUND,None,9:14,4,Pelicans,Lakers,112 - 88,1,N/A,N/A,N/A
+20,Johnathan Williams,FOUL_ON_FLOOR,None,9:07,4,Lakers,Pelicans,112 - 88,0,N/A,N/A,N/A
+21,Cheick Diallo,FT,None,9:07,4,Pelicans,Lakers,112 - 89,1,N/A,1,N/A
+22,Cheick Diallo,FT,None,9:07,4,Pelicans,Lakers,112 - 90,1,N/A,1,N/A
+23,Isaac Bonga,FG_MISS,Christian Wood,8:51,4,Pelicans,Lakers,112 - 90,0,0,2,Layup
+24,Cheick Diallo,DEFENSIVE_REBOUND,None,8:46,4,Pelicans,Lakers,112 - 90,1,N/A,N/A,N/A
+25,Christian Wood,FG_MISS,None,8:41,4,Pelicans,Lakers,112 - 90,1,25,3,Jumper
+26,Rajon Rondo,DEFENSIVE_REBOUND,None,8:38,4,Lakers,Pelicans,112 - 90,0,N/A,N/A,N/A
+27,Mike Muscala,FG_MISS,None,8:34,4,Lakers,Pelicans,112 - 90,0,27,3,Jumper
+28,Cheick Diallo,DEFENSIVE_REBOUND,None,8:29,4,Pelicans,Lakers,112 - 90,1,N/A,N/A,N/A
+29,Stanley Johnson,FG_MISS,None,8:23,4,Pelicans,Lakers,112 - 90,1,21,2,Jumper
+30,Reggie Bullock,DEFENSIVE_REBOUND,None,8:19,4,Lakers,Pelicans,112 - 90,0,N/A,N/A,N/A
+31,Reggie Bullock,FG_MISS,None,8:05,4,Lakers,Pelicans,112 - 90,0,23,3,Jumper
+32,Christian Wood,DEFENSIVE_REBOUND,None,8:01,4,Pelicans,Lakers,112 - 90,1,N/A,N/A,N/A
+33,Solomon Hill,FG_MISS,None,7:51,4,Pelicans,Lakers,112 - 90,1,26,3,Jumper
+34,Johnathan Williams,DEFENSIVE_REBOUND,None,7:51,4,Lakers,Pelicans,112 - 90,0,N/A,N/A,N/A
+35,Reggie Bullock,FG_ASSISTED,Mike Muscala,7:38,4,Lakers,Pelicans,115 - 90,0,24,3,Jumper
+36,Cheick Diallo,FG_MISS,None,7:22,4,Pelicans,Lakers,115 - 90,1, ,2,Jumper
+37,Isaac Bonga,DEFENSIVE_REBOUND,None,7:20,4,Lakers,Pelicans,115 - 90,0,N/A,N/A,N/A
+38,Isaac Bonga,FG_MISS,None,7:15,4,Lakers,Pelicans,115 - 90,0,0,2,Layup
+39,Christian Wood,DEFENSIVE_REBOUND,None,7:13,4,Pelicans,Lakers,115 - 90,1,N/A,N/A,N/A
+40,Solomon Hill,TURNOVER,None,7:04,4,Pelicans,Lakers,115 - 90,1,N/A,N/A,N/A
+41,Kentavious Caldwell-Pope,SUBSTITUTION,Bonga Isaac,7:04,4,Lakers,Pelicans,115 - 90,0,N/A,N/A,N/A
+42,JaVale McGee,SUBSTITUTION,Williams Johnathan,7:04,4,Lakers,Pelicans,115 - 90,0,N/A,N/A,N/A
+43,Rajon Rondo,TURNOVER,Dairis Bertans,6:54,4,Lakers,Pelicans,115 - 90,0,N/A,N/A,N/A
+44,Kentavious Caldwell-Pope,FOUL_ON_FLOOR,None,6:52,4,Lakers,Pelicans,115 - 90,0,N/A,N/A,N/A
+45,Team,Unknown,None,6:52,4,Pelicans,Lakers,115 - 90,1,N/A,N/A,N/A
+46,Solomon Hill,FG_MISS,Mike Muscala,6:32,4,Lakers,Pelicans,115 - 90,1,4,2,Jumper
+47,Reggie Bullock,DEFENSIVE_REBOUND,None,6:29,4,Lakers,Pelicans,115 - 90,0,N/A,N/A,N/A
+48,Mike Muscala,FG_ASSISTED,Reggie Bullock,6:16,4,Lakers,Pelicans,117 - 90,0,0,2,Layup
+49,Stanley Johnson's,FG_MISS,Mike Muscala,5:53,4,Lakers,Pelicans,117 - 90,1,0,2,Layup
+50,Rajon Rondo,DEFENSIVE_REBOUND,None,5:50,4,Lakers,Pelicans,117 - 90,0,N/A,N/A,N/A
+51,Reggie Bullock,FG_ASSISTED,Rajon Rondo,5:41,4,Lakers,Pelicans,120 - 90,0,23,3,Jumper
+52,Ian Clark,SUBSTITUTION,Johnson Stanley,5:26,4,Pelicans,Lakers,120 - 90,1,N/A,N/A,N/A
+53,Jahlil Okafor,SUBSTITUTION,Diallo Cheick,5:26,4,Pelicans,Lakers,120 - 90,1,N/A,N/A,N/A
+54,Jemerrio Jones,SUBSTITUTION,Caldwell-Pope Kentavious,5:26,4,Lakers,Pelicans,120 - 90,0,N/A,N/A,N/A
+55,Solomon Hill,FG_ASSISTED,Ian Clark,5:21,4,Pelicans,Lakers,120 - 93,1,27,3,Jumper
+56,Rajon Rondo,FG_MISS,None,5:01,4,Lakers,Pelicans,120 - 93,0,28,3,Jumper
+57,Jemerrio Jones,OFFENSIVE_REBOUND,None,4:58,4,Lakers,Pelicans,120 - 93,0,N/A,N/A,N/A
+58,Mike Muscala,FG_MISS,None,4:55,4,Lakers,Pelicans,120 - 93,0,14,2,Jumper
+59,Christian Wood,DEFENSIVE_REBOUND,None,4:53,4,Pelicans,Lakers,120 - 93,1,N/A,N/A,N/A
+60,Dairis Bertans,FG_MISS,None,4:44,4,Pelicans,Lakers,120 - 93,1,24,3,Jumper
+61,JaVale McGee,DEFENSIVE_REBOUND,None,4:38,4,Lakers,Pelicans,120 - 93,0,N/A,N/A,N/A
+62,Mike Muscala,TURNOVER,Christian Wood,4:29,4,Lakers,Pelicans,120 - 93,0,N/A,N/A,N/A
+63,Christian Wood,FG_UNASSISTED,None,4:26,4,Pelicans,Lakers,120 - 95,1, ,2,Jumper
+64,JaVale McGee,FOUL_ON_FLOOR,None,4:26,4,Lakers,Pelicans,120 - 95,0,N/A,N/A,N/A
+65,Christian Wood,FT,None,4:26,4,Pelicans,Lakers,120 - 96,1,N/A,1,N/A
+66,JaVale McGee,FG_MISS,None,4:18,4,Lakers,Pelicans,120 - 96,0,18,2,Jumper
+67,Christian Wood,DEFENSIVE_REBOUND,None,4:14,4,Pelicans,Lakers,120 - 96,1,N/A,N/A,N/A
+68,Christian Wood,FG_MISS,None,4:07,4,Pelicans,Lakers,120 - 96,1,6,2,Jumper
+69,JaVale McGee,DEFENSIVE_REBOUND,None,4:04,4,Lakers,Pelicans,120 - 96,0,N/A,N/A,N/A
+70,Reggie Bullock,FG_ASSISTED,Mike Muscala,3:55,4,Lakers,Pelicans,123 - 96,0,26,3,Jumper
+71,Christian Wood,FG_UNASSISTED,None,3:37,4,Pelicans,Lakers,123 - 98,1,0,2,Dunk
+72,Rajon Rondo,FG_UNASSISTED,None,3:19,4,Lakers,Pelicans,126 - 98,0,29,3,Jumper
+73,Ian Clark,TURNOVER,Jemerrio Jones,3:05,4,Pelicans,Lakers,126 - 98,1,N/A,N/A,N/A
+74,Jemerrio Jones,FG_ASSISTED,Rajon Rondo,3:01,4,Lakers,Pelicans,128 - 98,0,0,2,Layup
+75,Ian Clark,TURNOVER,None,2:58,4,Pelicans,Lakers,128 - 98,1,N/A,N/A,N/A
+76,Team,Unknown,None,2:58,4,Lakers,Pelicans,128 - 98,0,N/A,N/A,N/A
+77,Johnathan Williams,SUBSTITUTION,McGee JaVale,2:58,4,Lakers,Pelicans,128 - 98,0,N/A,N/A,N/A
+78,Moritz Wagner,SUBSTITUTION,Rondo Rajon,2:58,4,Lakers,Pelicans,128 - 98,0,N/A,N/A,N/A
+79,Alex Caruso,SUBSTITUTION,Muscala Mike,2:58,4,Lakers,Pelicans,128 - 98,0,N/A,N/A,N/A
+80,Isaac Bonga,SUBSTITUTION,Bullock Reggie,2:58,4,Lakers,Pelicans,128 - 98,0,N/A,N/A,N/A
+81,Moritz Wagner,TURNOVER,None,2:51,4,Lakers,Pelicans,128 - 98,0,N/A,N/A,N/A
+82,Isaac Bonga,FOUL_ON_FLOOR,None,2:40,4,Lakers,Pelicans,128 - 98,0,N/A,N/A,N/A
+83,Solomon Hill,FT,None,2:40,4,Pelicans,Lakers,128 - 99,1,N/A,1,N/A
+84,Solomon Hill,FT,None,2:40,4,Pelicans,Lakers,128 - 100,1,N/A,1,N/A
+85,Moritz Wagner,FG_MISS,None,2:24,4,Lakers,Pelicans,128 - 100,0,26,3,Jumper
+86,Jahlil Okafor,DEFENSIVE_REBOUND,None,2:21,4,Pelicans,Lakers,128 - 100,1,N/A,N/A,N/A
+87,Ian Clark's,FG_MISS,Moritz Wagner,2:10,4,Lakers,Pelicans,128 - 100,1,0,2,Layup
+88,Team,OFFENSIVE_REBOUND,None,2:10,4,Pelicans,Lakers,128 - 100,1,N/A,N/A,N/A
+89,Jahlil Okafor,FG_UNASSISTED,None,2:02,4,Pelicans,Lakers,128 - 102,1,1,2,Jumper
+90,Jemerrio Jones,FG_MISS,None,1:47,4,Lakers,Pelicans,128 - 102,0,25,3,Jumper
+91,Ian Clark,DEFENSIVE_REBOUND,None,1:44,4,Pelicans,Lakers,128 - 102,1,N/A,N/A,N/A
+92,Ian Clark,TURNOVER,Isaac Bonga,1:41,4,Pelicans,Lakers,128 - 102,1,N/A,N/A,N/A
+93,Isaac Bonga,FG_MISS,None,1:37,4,Lakers,Pelicans,128 - 102,0,27,3,Jumper
+94,Jahlil Okafor,DEFENSIVE_REBOUND,None,1:34,4,Pelicans,Lakers,128 - 102,1,N/A,N/A,N/A
+95,Dairis Bertans,FG_MISS,None,1:26,4,Pelicans,Lakers,128 - 102,1,26,3,Jumper
+96,Moritz Wagner,DEFENSIVE_REBOUND,None,1:23,4,Lakers,Pelicans,128 - 102,0,N/A,N/A,N/A
+97,Alex Caruso,TURNOVER,None,1:18,4,Lakers,Pelicans,128 - 102,0,N/A,N/A,N/A
+98,Solomon Hill,FG_MISS,None,1:04,4,Pelicans,Lakers,128 - 102,1,23,3,Jumper
+99,Moritz Wagner,DEFENSIVE_REBOUND,None,1:00,4,Lakers,Pelicans,128 - 102,0,N/A,N/A,N/A
+100,Isaac Bonga,FG_MISS,None,50.7,4,Lakers,Pelicans,128 - 102,0,27,2,Jumper
+101,Solomon Hill,DEFENSIVE_REBOUND,None,47.9,4,Pelicans,Lakers,128 - 102,1,N/A,N/A,N/A
+102,Ian Clark,FG_MISS,None,42.1,4,Pelicans,Lakers,128 - 102,1,0,2,Layup
+103,Alex Caruso,DEFENSIVE_REBOUND,None,38.8,4,Lakers,Pelicans,128 - 102,0,N/A,N/A,N/A
+104,Johnathan Williams,FG_ASSISTED,Alex Caruso,34.5,4,Lakers,Pelicans,130 - 102,0,0,2,Dunk
+105,Ian Clark,FG_MISS,None,26.0,4,Pelicans,Lakers,130 - 102,1,28,3,Jumper
+106,Isaac Bonga,DEFENSIVE_REBOUND,None,22.4,4,Lakers,Pelicans,130 - 102,0,N/A,N/A,N/A
+107,shot clock,TURNOVER,None,0.2,4,Lakers,Pelicans,130 - 102,0,N/A,N/A,N/A
+108,End of,Unknown,None,0.0,4,Pelicans,Lakers,130 - 102,1,N/A,N/A,N/A
+109,End of,Unknown,None,0.0,4,Pelicans,Lakers,130 - 102,1,N/A,N/A,N/A

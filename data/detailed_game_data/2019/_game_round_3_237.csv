@@ -1,0 +1,467 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Enes Kanter,JUMP_BALL,None,12:00,1,Lakers,Trail Blazers,0 - 0,1,N/A,N/A,N/A
+1,Mike Muscala,FG_ASSISTED,Alex Caruso,11:41,1,Lakers,Trail Blazers,0 - 3,1,23,3,Jumper
+2,Enes Kanter,FG_MISS,None,11:19,1,Trail Blazers,Lakers,0 - 3,0,-,2,Jumper
+3,Team,OFFENSIVE_REBOUND,None,11:18,1,Trail Blazers,Lakers,0 - 3,0,N/A,N/A,N/A
+4,Maurice Harkless,FG_MISS,Jemerrio Jones,11:14,1,Lakers,Trail Blazers,0 - 3,0,3,2,Jumper
+5,Team,DEFENSIVE_REBOUND,None,11:13,1,Lakers,Trail Blazers,0 - 3,1,N/A,N/A,N/A
+6,JaVale McGee,FG_MISS,None,10:56,1,Lakers,Trail Blazers,0 - 3,1,8,2,Jumper
+7,Maurice Harkless,DEFENSIVE_REBOUND,None,10:53,1,Trail Blazers,Lakers,0 - 3,0,N/A,N/A,N/A
+8,Damian Lillard,TURNOVER,None,10:48,1,Trail Blazers,Lakers,0 - 3,0,N/A,N/A,N/A
+9,Kentavious Caldwell-Pope,FG_ASSISTED,Alex Caruso,10:34,1,Lakers,Trail Blazers,0 - 5,1,19,2,Jumper
+10,CJ McCollum,FG_MISS,None,10:19,1,Trail Blazers,Lakers,0 - 5,0,4,2,Jumper
+11,Maurice Harkless,OFFENSIVE_REBOUND,None,10:14,1,Trail Blazers,Lakers,0 - 5,0,N/A,N/A,N/A
+12,Maurice Harkless,FG_UNASSISTED,None,10:14,1,Trail Blazers,Lakers,2 - 5,0,-,2,Jumper
+13,Kentavious Caldwell-Pope,FG_MISS,Maurice Harkless,10:01,1,Trail Blazers,Lakers,2 - 5,1,0,2,Layup
+14,Al-Farouq Aminu,DEFENSIVE_REBOUND,None,9:57,1,Trail Blazers,Lakers,2 - 5,0,N/A,N/A,N/A
+15,Al-Farouq Aminu,FG_MISS,None,9:55,1,Trail Blazers,Lakers,2 - 5,0,-,2,Jumper
+16,Enes Kanter,OFFENSIVE_REBOUND,None,9:54,1,Trail Blazers,Lakers,2 - 5,0,N/A,N/A,N/A
+17,Enes Kanter,FG_UNASSISTED,None,9:54,1,Trail Blazers,Lakers,4 - 5,0,-,2,Jumper
+18,Maurice Harkless,FOUL_ON_FLOOR,None,9:42,1,Trail Blazers,Lakers,4 - 5,0,N/A,N/A,N/A
+19,JaVale McGee,FT_MISS,None,9:42,1,Lakers,Trail Blazers,4 - 5,1,N/A,1,N/A
+20,Team,OFFENSIVE_REBOUND,None,9:42,1,Lakers,Trail Blazers,4 - 5,1,N/A,N/A,N/A
+21,JaVale McGee,FT_MISS,None,9:42,1,Lakers,Trail Blazers,4 - 5,1,N/A,1,N/A
+22,Al-Farouq Aminu,DEFENSIVE_REBOUND,None,9:40,1,Trail Blazers,Lakers,4 - 5,0,N/A,N/A,N/A
+23,Damian Lillard,FG_UNASSISTED,None,9:33,1,Trail Blazers,Lakers,7 - 5,0,26,2,Jumper
+24,Kentavious Caldwell-Pope,FG_UNASSISTED,None,9:21,1,Lakers,Trail Blazers,7 - 7,1,10,2,Jumper
+25,Damian Lillard,FG_MISS,None,9:06,1,Trail Blazers,Lakers,7 - 7,0,27,3,Jumper
+26,Jemerrio Jones,DEFENSIVE_REBOUND,None,9:03,1,Lakers,Trail Blazers,7 - 7,1,N/A,N/A,N/A
+27,Mike Muscala,TURNOVER,Damian Lillard,8:53,1,Lakers,Trail Blazers,7 - 7,1,N/A,N/A,N/A
+28,CJ McCollum,FG_UNASSISTED,None,8:48,1,Trail Blazers,Lakers,9 - 7,0,-,2,Jumper
+29,Jemerrio Jones,FOUL_ON_FLOOR,None,8:48,1,Lakers,Trail Blazers,9 - 7,1,N/A,N/A,N/A
+30,CJ McCollum,FT_MISS,None,8:48,1,Trail Blazers,Lakers,9 - 7,0,N/A,1,N/A
+31,JaVale McGee,DEFENSIVE_REBOUND,None,8:44,1,Lakers,Trail Blazers,9 - 7,1,N/A,N/A,N/A
+32,Kentavious Caldwell-Pope,FG_MISS,None,8:35,1,Lakers,Trail Blazers,9 - 7,1,19,2,Jumper
+33,Maurice Harkless,DEFENSIVE_REBOUND,None,8:31,1,Trail Blazers,Lakers,9 - 7,0,N/A,N/A,N/A
+34,Al-Farouq Aminu,FG_MISS,None,8:17,1,Trail Blazers,Lakers,9 - 7,0,25,3,Jumper
+35,Alex Caruso,DEFENSIVE_REBOUND,None,8:14,1,Lakers,Trail Blazers,9 - 7,1,N/A,N/A,N/A
+36,Kentavious Caldwell-Pope,FG_ASSISTED,Alex Caruso,8:09,1,Lakers,Trail Blazers,9 - 9,1,18,2,Jumper
+37,Maurice Harkless,FG_MISS,None,7:50,1,Trail Blazers,Lakers,9 - 9,0,11,2,Jumper
+38,JaVale McGee,DEFENSIVE_REBOUND,None,7:47,1,Lakers,Trail Blazers,9 - 9,1,N/A,N/A,N/A
+39,JaVale McGee,FG_ASSISTED,Kentavious Caldwell-Pope,7:38,1,Lakers,Trail Blazers,9 - 11,1,0,2,Layup
+40,Al-Farouq Aminu,FG_MISS,None,7:22,1,Trail Blazers,Lakers,9 - 11,0,25,3,Jumper
+41,Mike Muscala,DEFENSIVE_REBOUND,None,7:19,1,Lakers,Trail Blazers,9 - 11,1,N/A,N/A,N/A
+42,Kentavious Caldwell-Pope,FG_MISS,None,7:08,1,Lakers,Trail Blazers,9 - 11,1,0,2,Layup
+43,Al-Farouq Aminu,DEFENSIVE_REBOUND,None,7:06,1,Trail Blazers,Lakers,9 - 11,0,N/A,N/A,N/A
+44,Enes Kanter,FG_UNASSISTED,None,6:54,1,Trail Blazers,Lakers,11 - 11,0,0,2,Layup
+45,Mike Muscala,FG_ASSISTED,Alex Caruso,6:39,1,Lakers,Trail Blazers,11 - 14,1,27,3,Jumper
+46,Al-Farouq Aminu,FG_MISS,None,6:22,1,Trail Blazers,Lakers,11 - 14,0,27,3,Jumper
+47,JaVale McGee,DEFENSIVE_REBOUND,None,6:19,1,Lakers,Trail Blazers,11 - 14,1,N/A,N/A,N/A
+48,JaVale McGee,TURNOVER,Al-Farouq Aminu,6:18,1,Lakers,Trail Blazers,11 - 14,1,N/A,N/A,N/A
+49,Maurice Harkless,FG_UNASSISTED,None,6:09,1,Trail Blazers,Lakers,13 - 14,0,9,2,Jumper
+50,Team,Unknown,None,6:08,1,Lakers,Trail Blazers,13 - 14,1,N/A,N/A,N/A
+51,Alex Caruso,TURNOVER,Damian Lillard,5:53,1,Lakers,Trail Blazers,13 - 14,1,N/A,N/A,N/A
+52,Enes Kanter,FG_ASSISTED,Damian Lillard,5:50,1,Trail Blazers,Lakers,15 - 14,0,0,2,Dunk
+53,Jemerrio Jones,FG_MISS,None,5:34,1,Lakers,Trail Blazers,15 - 14,1,28,3,Jumper
+54,CJ McCollum,DEFENSIVE_REBOUND,None,5:33,1,Trail Blazers,Lakers,15 - 14,0,N/A,N/A,N/A
+55,JaVale McGee,FOUL_ON_FLOOR,None,5:33,1,Lakers,Trail Blazers,15 - 14,1,N/A,N/A,N/A
+56,Johnathan Williams,SUBSTITUTION,McGee JaVale,5:33,1,Lakers,Trail Blazers,15 - 14,1,N/A,N/A,N/A
+57,Enes Kanter,FG_ASSISTED,Damian Lillard,5:07,1,Trail Blazers,Lakers,18 - 14,0,27,3,Jumper
+58,Kentavious Caldwell-Pope,FG_ASSISTED,Mike Muscala,4:54,1,Lakers,Trail Blazers,18 - 17,1,26,3,Jumper
+59,Enes Kanter,FG_ASSISTED,Damian Lillard,4:36,1,Trail Blazers,Lakers,20 - 17,0,0,2,Layup
+60,Alex Caruso,FG_ASSISTED,Kentavious Caldwell-Pope,4:21,1,Lakers,Trail Blazers,20 - 19,1, ,2,Jumper
+61,Johnathan Williams,FOUL_ON_FLOOR,None,4:07,1,Lakers,Trail Blazers,20 - 19,1,N/A,N/A,N/A
+62,Enes Kanter,FT,None,4:07,1,Trail Blazers,Lakers,21 - 19,0,N/A,1,N/A
+63,Isaac Bonga,SUBSTITUTION,Jones Jemerrio,4:07,1,Lakers,Trail Blazers,21 - 19,1,N/A,N/A,N/A
+64,Rodney Hood,SUBSTITUTION,McCollum CJ,4:07,1,Trail Blazers,Lakers,21 - 19,0,N/A,N/A,N/A
+65,Seth Curry,SUBSTITUTION,Harkless Maurice,4:07,1,Trail Blazers,Lakers,21 - 19,0,N/A,N/A,N/A
+66,Evan Turner,SUBSTITUTION,Aminu Al-Farouq,4:07,1,Trail Blazers,Lakers,21 - 19,0,N/A,N/A,N/A
+67,Enes Kanter,FT,None,4:07,1,Trail Blazers,Lakers,22 - 19,0,N/A,1,N/A
+68,Johnathan Williams,FG_ASSISTED,Alex Caruso,3:49,1,Lakers,Trail Blazers,22 - 21,1,0,2,Dunk
+69,Enes Kanter,FG_MISS,Mike Muscala,3:32,1,Lakers,Trail Blazers,22 - 21,0,0,2,Layup
+70,Johnathan Williams,DEFENSIVE_REBOUND,None,3:29,1,Lakers,Trail Blazers,22 - 21,1,N/A,N/A,N/A
+71,Kentavious Caldwell-Pope,FG_MISS,None,3:28,1,Lakers,Trail Blazers,22 - 21,1, ,2,Jumper
+72,Seth Curry,DEFENSIVE_REBOUND,None,3:27,1,Trail Blazers,Lakers,22 - 21,0,N/A,N/A,N/A
+73,Seth Curry,FG_MISS,None,3:17,1,Trail Blazers,Lakers,22 - 21,0, ,2,Jumper
+74,Alex Caruso,DEFENSIVE_REBOUND,None,3:12,1,Lakers,Trail Blazers,22 - 21,1,N/A,N/A,N/A
+75,Alex Caruso,FG_MISS,None,3:07,1,Lakers,Trail Blazers,22 - 21,1,14,2,Jumper
+76,Enes Kanter,DEFENSIVE_REBOUND,None,3:02,1,Trail Blazers,Lakers,22 - 21,0,N/A,N/A,N/A
+77,Evan Turner,FG_MISS,None,2:56,1,Trail Blazers,Lakers,22 - 21,0,16,2,Jumper
+78,Enes Kanter,OFFENSIVE_REBOUND,None,2:52,1,Trail Blazers,Lakers,22 - 21,0,N/A,N/A,N/A
+79,Enes Kanter,FG_UNASSISTED,None,2:50,1,Trail Blazers,Lakers,24 - 21,0, ,2,Jumper
+80,Johnathan Williams,TURNOVER,None,2:36,1,Lakers,Trail Blazers,24 - 21,1,N/A,N/A,N/A
+81,Team,Unknown,None,2:36,1,Trail Blazers,Lakers,24 - 21,0,N/A,N/A,N/A
+82,Moritz Wagner,SUBSTITUTION,Caruso Alex,2:36,1,Lakers,Trail Blazers,24 - 21,1,N/A,N/A,N/A
+83,Jemerrio Jones,SUBSTITUTION,Muscala Mike,2:36,1,Lakers,Trail Blazers,24 - 21,1,N/A,N/A,N/A
+84,Zach Collins,SUBSTITUTION,Kanter Enes,2:36,1,Trail Blazers,Lakers,24 - 21,0,N/A,N/A,N/A
+85,Rodney Hood,FG_MISS,None,2:16,1,Trail Blazers,Lakers,24 - 21,0,20,2,Jumper
+86,Moritz Wagner,DEFENSIVE_REBOUND,None,2:14,1,Lakers,Trail Blazers,24 - 21,1,N/A,N/A,N/A
+87,Moritz Wagner,FG_MISS,None,1:56,1,Lakers,Trail Blazers,24 - 21,1,27,3,Jumper
+88,Damian Lillard,DEFENSIVE_REBOUND,None,1:53,1,Trail Blazers,Lakers,24 - 21,0,N/A,N/A,N/A
+89,Damian Lillard,FG_MISS,None,1:47,1,Trail Blazers,Lakers,24 - 21,0,19,2,Jumper
+90,Moritz Wagner,DEFENSIVE_REBOUND,None,1:42,1,Lakers,Trail Blazers,24 - 21,1,N/A,N/A,N/A
+91,Kentavious Caldwell-Pope,FG_MISS,None,1:39,1,Lakers,Trail Blazers,24 - 21,1,27,3,Jumper
+92,Jemerrio Jones,OFFENSIVE_REBOUND,None,1:36,1,Lakers,Trail Blazers,24 - 21,1,N/A,N/A,N/A
+93,Jemerrio Jones,FG_MISS,Zach Collins,1:35,1,Trail Blazers,Lakers,24 - 21,1,0,2,Layup
+94,Damian Lillard,DEFENSIVE_REBOUND,None,1:30,1,Trail Blazers,Lakers,24 - 21,0,N/A,N/A,N/A
+95,Damian Lillard,FG_UNASSISTED,None,1:28,1,Trail Blazers,Lakers,26 - 21,0, ,2,Jumper
+96,Kentavious Caldwell-Pope,FG_ASSISTED,Johnathan Williams,1:14,1,Lakers,Trail Blazers,26 - 23,1,0,2,Dunk
+97,Damian Lillard,TURNOVER,Jemerrio Jones,51.4,1,Trail Blazers,Lakers,26 - 23,0,N/A,N/A,N/A
+98,Moritz Wagner,FG_ASSISTED,Jemerrio Jones,45.9,1,Lakers,Trail Blazers,26 - 25,1,0,2,Layup
+99,Evan Turner,FG_MISS,None,37.6,1,Trail Blazers,Lakers,26 - 25,0,12,2,Jumper
+100,Johnathan Williams,DEFENSIVE_REBOUND,None,34.3,1,Lakers,Trail Blazers,26 - 25,1,N/A,N/A,N/A
+101,Kentavious Caldwell-Pope,FG_MISS,None,29.7,1,Lakers,Trail Blazers,26 - 25,1, ,2,Jumper
+102,Rodney Hood,DEFENSIVE_REBOUND,None,24.2,1,Trail Blazers,Lakers,26 - 25,0,N/A,N/A,N/A
+103,Seth Curry,FG_MISS,None,5.2,1,Trail Blazers,Lakers,26 - 25,0, ,2,Jumper
+104,Kentavious Caldwell-Pope,DEFENSIVE_REBOUND,None,2.7,1,Lakers,Trail Blazers,26 - 25,1,N/A,N/A,N/A
+105,Moritz Wagner,FG_MISS,None,0.0,1,Lakers,Trail Blazers,26 - 25,1,0,2,Layup
+106,Team,OFFENSIVE_REBOUND,None,0.0,1,Lakers,Trail Blazers,26 - 25,1,N/A,N/A,N/A
+107,End of,Unknown,None,0.0,1,Lakers,Trail Blazers,26 - 25,1,N/A,N/A,N/A
+0,Alex Caruso,SUBSTITUTION,Caldwell-Pope Kentavious,12:00,2,Lakers,Trail Blazers,26 - 25,1,N/A,N/A,N/A
+1,Mike Muscala,SUBSTITUTION,Bonga Isaac,12:00,2,Lakers,Trail Blazers,26 - 25,1,N/A,N/A,N/A
+2,Jake Layman,SUBSTITUTION,Lillard Damian,12:00,2,Trail Blazers,Lakers,26 - 25,0,N/A,N/A,N/A
+3,Seth Curry,FG_MISS,None,11:46,2,Trail Blazers,Lakers,26 - 25,0,28,3,Jumper
+4,Jemerrio Jones,DEFENSIVE_REBOUND,None,11:43,2,Lakers,Trail Blazers,26 - 25,1,N/A,N/A,N/A
+5,Alex Caruso,FG_MISS,None,11:28,2,Lakers,Trail Blazers,26 - 25,1,0,2,Layup
+6,Johnathan Williams,OFFENSIVE_REBOUND,None,11:27,2,Lakers,Trail Blazers,26 - 25,1,N/A,N/A,N/A
+7,Johnathan Williams,FG_MISS,None,11:27,2,Lakers,Trail Blazers,26 - 25,1,0,2,Dunk
+8,Jemerrio Jones,OFFENSIVE_REBOUND,None,11:25,2,Lakers,Trail Blazers,26 - 25,1,N/A,N/A,N/A
+9,Jemerrio Jones,TURNOVER,None,11:19,2,Lakers,Trail Blazers,26 - 25,1,N/A,N/A,N/A
+10,Rodney Hood,FG_MISS,None,11:03,2,Trail Blazers,Lakers,26 - 25,0,8,2,Jumper
+11,Team,DEFENSIVE_REBOUND,None,10:59,2,Lakers,Trail Blazers,26 - 25,1,N/A,N/A,N/A
+12,Jake Layman,FOUL_ON_FLOOR,None,10:53,2,Trail Blazers,Lakers,26 - 25,0,N/A,N/A,N/A
+13,Moritz Wagner,FT,None,10:53,2,Lakers,Trail Blazers,26 - 26,1,N/A,1,N/A
+14,Moritz Wagner,FT_MISS,None,10:53,2,Lakers,Trail Blazers,26 - 26,1,N/A,1,N/A
+15,Zach Collins,DEFENSIVE_REBOUND,None,10:49,2,Trail Blazers,Lakers,26 - 26,0,N/A,N/A,N/A
+16,Evan Turner,FG_ASSISTED,Rodney Hood,10:40,2,Trail Blazers,Lakers,28 - 26,0,0,2,Layup
+17,Alex Caruso,TURNOVER,None,10:32,2,Lakers,Trail Blazers,28 - 26,1,N/A,N/A,N/A
+18,Zach Collins,TURNOVER,Johnathan Williams,10:22,2,Trail Blazers,Lakers,28 - 26,0,N/A,N/A,N/A
+19,Jemerrio Jones,FG_ASSISTED,Alex Caruso,10:17,2,Lakers,Trail Blazers,28 - 28,1, ,2,Jumper
+20,Jake Layman,FG_MISS,None,10:01,2,Trail Blazers,Lakers,28 - 28,0,27,3,Jumper
+21,Jemerrio Jones,DEFENSIVE_REBOUND,None,9:58,2,Lakers,Trail Blazers,28 - 28,1,N/A,N/A,N/A
+22,Mike Muscala,FG_ASSISTED,Jemerrio Jones,9:52,2,Lakers,Trail Blazers,28 - 31,1,26,3,Jumper
+23,Moritz Wagner,FOUL_ON_FLOOR,None,9:35,2,Lakers,Trail Blazers,28 - 31,1,N/A,N/A,N/A
+24,Evan Turner,FT,None,9:35,2,Trail Blazers,Lakers,29 - 31,0,N/A,1,N/A
+25,Evan Turner,FT,None,9:35,2,Trail Blazers,Lakers,30 - 31,0,N/A,1,N/A
+26,Mike Muscala,FG_MISS,None,9:20,2,Lakers,Trail Blazers,30 - 31,1,28,3,Jumper
+27,Jake Layman,DEFENSIVE_REBOUND,None,9:16,2,Trail Blazers,Lakers,30 - 31,0,N/A,N/A,N/A
+28,Seth Curry,FG_ASSISTED,Evan Turner,9:08,2,Trail Blazers,Lakers,33 - 31,0,27,3,Jumper
+29,Alex Caruso,FG_MISS,Rodney Hood,8:58,2,Trail Blazers,Lakers,33 - 31,1,14,2,Jumper
+30,Rodney Hood,DEFENSIVE_REBOUND,None,8:55,2,Trail Blazers,Lakers,33 - 31,0,N/A,N/A,N/A
+31,Rodney Hood,FG_MISS,None,8:53,2,Trail Blazers,Lakers,33 - 31,0, ,2,Jumper
+32,Zach Collins,OFFENSIVE_REBOUND,None,8:50,2,Trail Blazers,Lakers,33 - 31,0,N/A,N/A,N/A
+33,Jake Layman,FG_MISS,None,8:50,2,Trail Blazers,Lakers,33 - 31,0,0,2,Layup
+34,Johnathan Williams,DEFENSIVE_REBOUND,None,8:50,2,Lakers,Trail Blazers,33 - 31,1,N/A,N/A,N/A
+35,Mike Muscala,FG_ASSISTED,Johnathan Williams,8:43,2,Lakers,Trail Blazers,33 - 33,1,0,2,Layup
+36,Evan Turner,TURNOVER,Alex Caruso,8:28,2,Trail Blazers,Lakers,33 - 33,0,N/A,N/A,N/A
+37,Alex Caruso,FG_MISS,None,8:21,2,Lakers,Trail Blazers,33 - 33,1,27,3,Jumper
+38,Jake Layman,DEFENSIVE_REBOUND,None,8:17,2,Trail Blazers,Lakers,33 - 33,0,N/A,N/A,N/A
+39,Rodney Hood,FG_MISS,None,8:10,2,Trail Blazers,Lakers,33 - 33,0,26,3,Jumper
+40,Mike Muscala,DEFENSIVE_REBOUND,None,8:07,2,Lakers,Trail Blazers,33 - 33,1,N/A,N/A,N/A
+41,Moritz Wagner,FG_MISS,None,7:59,2,Lakers,Trail Blazers,33 - 33,1,27,3,Jumper
+42,Team,OFFENSIVE_REBOUND,None,7:57,2,Lakers,Trail Blazers,33 - 33,1,N/A,N/A,N/A
+43,Team,Unknown,None,7:57,2,Lakers,Trail Blazers,33 - 33,1,N/A,N/A,N/A
+44,JaVale McGee,SUBSTITUTION,Wagner Moritz,7:57,2,Lakers,Trail Blazers,33 - 33,1,N/A,N/A,N/A
+45,Kentavious Caldwell-Pope,SUBSTITUTION,Williams Johnathan,7:57,2,Lakers,Trail Blazers,33 - 33,1,N/A,N/A,N/A
+46,JaVale McGee,FG_ASSISTED,Kentavious Caldwell-Pope,7:44,2,Lakers,Trail Blazers,33 - 35,1,0,2,Layup
+47,Seth Curry,FG_ASSISTED,Evan Turner,7:25,2,Trail Blazers,Lakers,36 - 35,0,27,3,Jumper
+48,JaVale McGee,FOUL_ON_FLOOR,None,7:10,2,Lakers,Trail Blazers,36 - 35,1,N/A,N/A,N/A
+49,JaVale McGee,TURNOVER,None,7:10,2,Lakers,Trail Blazers,36 - 35,1,N/A,N/A,N/A
+50,Isaac Bonga,SUBSTITUTION,Caruso Alex,7:10,2,Lakers,Trail Blazers,36 - 35,1,N/A,N/A,N/A
+51,CJ McCollum,SUBSTITUTION,Turner Evan,7:10,2,Trail Blazers,Lakers,36 - 35,0,N/A,N/A,N/A
+52,Maurice Harkless,SUBSTITUTION,Hood Rodney,7:10,2,Trail Blazers,Lakers,36 - 35,0,N/A,N/A,N/A
+53,Enes Kanter,SUBSTITUTION,Collins Zach,7:10,2,Trail Blazers,Lakers,36 - 35,0,N/A,N/A,N/A
+54,Seth Curry,FG_UNASSISTED,None,6:59,2,Trail Blazers,Lakers,39 - 35,0,26,3,Jumper
+55,CJ McCollum,FOUL_ON_FLOOR,None,6:50,2,Trail Blazers,Lakers,39 - 35,0,N/A,N/A,N/A
+56,Kentavious Caldwell-Pope,FT,None,6:50,2,Lakers,Trail Blazers,39 - 36,1,N/A,1,N/A
+57,Kentavious Caldwell-Pope,FT,None,6:50,2,Lakers,Trail Blazers,39 - 37,1,N/A,1,N/A
+58,Seth Curry,FG_UNASSISTED,None,6:38,2,Trail Blazers,Lakers,41 - 37,0, ,2,Jumper
+59,Enes Kanter,FOUL_ON_FLOOR,None,6:21,2,Trail Blazers,Lakers,41 - 37,0,N/A,N/A,N/A
+60,JaVale McGee,FT_MISS,None,6:21,2,Lakers,Trail Blazers,41 - 37,1,N/A,1,N/A
+61,Team,OFFENSIVE_REBOUND,None,6:21,2,Lakers,Trail Blazers,41 - 37,1,N/A,N/A,N/A
+62,Alex Caruso,SUBSTITUTION,Bonga Isaac,6:21,2,Lakers,Trail Blazers,41 - 37,1,N/A,N/A,N/A
+63,JaVale McGee,FT,None,6:21,2,Lakers,Trail Blazers,41 - 38,1,N/A,1,N/A
+64,Seth Curry,TURNOVER,None,6:01,2,Trail Blazers,Lakers,41 - 38,0,N/A,N/A,N/A
+65,Kentavious Caldwell-Pope,FG_MISS,None,5:52,2,Lakers,Trail Blazers,41 - 38,1,12,2,Jumper
+66,CJ McCollum,FOUL_ON_FLOOR,None,5:51,2,Trail Blazers,Lakers,41 - 38,0,N/A,N/A,N/A
+67,Team,OFFENSIVE_REBOUND,None,5:51,2,Lakers,Trail Blazers,41 - 38,1,N/A,N/A,N/A
+68,JaVale McGee,TURNOVER,None,5:46,2,Lakers,Trail Blazers,41 - 38,1,N/A,N/A,N/A
+69,JaVale McGee,TURNOVER,None,5:46,2,Lakers,Trail Blazers,41 - 38,1,N/A,N/A,N/A
+70,enters the,SUBSTITUTION,McGee JaVale,5:46,2,Lakers,Trail Blazers,41 - 38,1,N/A,N/A,N/A
+71,CJ McCollum,FG_MISS,None,5:28,2,Trail Blazers,Lakers,41 - 38,0,22,2,Jumper
+72,Mike Muscala,DEFENSIVE_REBOUND,None,5:27,2,Lakers,Trail Blazers,41 - 38,1,N/A,N/A,N/A
+73,Jake Layman,FOUL_ON_FLOOR,None,5:27,2,Trail Blazers,Lakers,41 - 38,0,N/A,N/A,N/A
+74,Kentavious Caldwell-Pope,FT_MISS,None,5:27,2,Lakers,Trail Blazers,41 - 38,1,N/A,1,N/A
+75,Team,OFFENSIVE_REBOUND,None,5:27,2,Lakers,Trail Blazers,41 - 38,1,N/A,N/A,N/A
+76,Damian Lillard,SUBSTITUTION,Layman Jake,5:27,2,Trail Blazers,Lakers,41 - 38,0,N/A,N/A,N/A
+77,Kentavious Caldwell-Pope,FT,None,5:27,2,Lakers,Trail Blazers,41 - 39,1,N/A,1,N/A
+78,Maurice Harkless,FG_MISS,None,5:16,2,Trail Blazers,Lakers,41 - 39,0,27,3,Jumper
+79,Team,OFFENSIVE_REBOUND,None,5:16,2,Trail Blazers,Lakers,41 - 39,0,N/A,N/A,N/A
+80,Damian Lillard,FG_ASSISTED,Seth Curry,5:07,2,Trail Blazers,Lakers,43 - 39,0,19,2,Jumper
+81,Kentavious Caldwell-Pope,FG_MISS,None,4:59,2,Lakers,Trail Blazers,43 - 39,1, ,2,Jumper
+82,Maurice Harkless,DEFENSIVE_REBOUND,None,4:55,2,Trail Blazers,Lakers,43 - 39,0,N/A,N/A,N/A
+83,CJ McCollum's,FG_MISS,Alex Caruso,4:53,2,Lakers,Trail Blazers,43 - 39,0, ,2,Jumper
+84,Team,DEFENSIVE_REBOUND,None,4:53,2,Lakers,Trail Blazers,43 - 39,1,N/A,N/A,N/A
+85,Mike Muscala,FG_MISS,None,4:31,2,Lakers,Trail Blazers,43 - 39,1,24,3,Jumper
+86,Seth Curry,DEFENSIVE_REBOUND,None,4:28,2,Trail Blazers,Lakers,43 - 39,0,N/A,N/A,N/A
+87,CJ McCollum,FG_ASSISTED,Enes Kanter,4:17,2,Trail Blazers,Lakers,46 - 39,0,26,3,Jumper
+88,Alex Caruso,TURNOVER,Damian Lillard,3:54,2,Lakers,Trail Blazers,46 - 39,1,N/A,N/A,N/A
+89,Seth Curry's,FG_MISS,Jemerrio Jones,3:49,2,Lakers,Trail Blazers,46 - 39,0, ,2,Jumper
+90,Enes Kanter,OFFENSIVE_REBOUND,None,3:49,2,Trail Blazers,Lakers,46 - 39,0,N/A,N/A,N/A
+91,Johnathan Williams,FOUL_ON_FLOOR,None,3:49,2,Lakers,Trail Blazers,46 - 39,1,N/A,N/A,N/A
+92,Enes Kanter,FT,None,3:49,2,Trail Blazers,Lakers,47 - 39,0,N/A,1,N/A
+93,Al-Farouq Aminu,SUBSTITUTION,Curry Seth,3:49,2,Trail Blazers,Lakers,47 - 39,0,N/A,N/A,N/A
+94,Enes Kanter,FT,None,3:49,2,Trail Blazers,Lakers,48 - 39,0,N/A,1,N/A
+95,Kentavious Caldwell-Pope,TURNOVER,None,3:32,2,Lakers,Trail Blazers,48 - 39,1,N/A,N/A,N/A
+96,CJ McCollum,FG_MISS,None,3:12,2,Trail Blazers,Lakers,48 - 39,0,26,3,Jumper
+97,Damian Lillard,OFFENSIVE_REBOUND,None,3:07,2,Trail Blazers,Lakers,48 - 39,0,N/A,N/A,N/A
+98,Enes Kanter,FG_ASSISTED,Damian Lillard,3:05,2,Trail Blazers,Lakers,50 - 39,0, ,2,Jumper
+99,Johnathan Williams,FG_ASSISTED,Kentavious Caldwell-Pope,2:56,2,Lakers,Trail Blazers,50 - 41,1,0,2,Layup
+100,Damian Lillard,TURNOVER,Jemerrio Jones,2:40,2,Trail Blazers,Lakers,50 - 41,0,N/A,N/A,N/A
+101,Kentavious Caldwell-Pope,FG_MISS,None,2:27,2,Lakers,Trail Blazers,50 - 41,1,16,2,Jumper
+102,Jemerrio Jones,OFFENSIVE_REBOUND,None,2:24,2,Lakers,Trail Blazers,50 - 41,1,N/A,N/A,N/A
+103,Jemerrio Jones,FG_MISS,Maurice Harkless,2:23,2,Trail Blazers,Lakers,50 - 41,1,3,2,Jumper
+104,Johnathan Williams,OFFENSIVE_REBOUND,None,2:23,2,Lakers,Trail Blazers,50 - 41,1,N/A,N/A,N/A
+105,Johnathan Williams's,FG_MISS,CJ McCollum,2:23,2,Trail Blazers,Lakers,50 - 41,1, ,2,Jumper
+106,Team,OFFENSIVE_REBOUND,None,2:23,2,Lakers,Trail Blazers,50 - 41,1,N/A,N/A,N/A
+107,Team,Unknown,None,2:23,2,Trail Blazers,Lakers,50 - 41,0,N/A,N/A,N/A
+108,Mike Muscala,FG_MISS,None,2:15,2,Lakers,Trail Blazers,50 - 41,1,6,2,Jumper
+109,Jemerrio Jones,OFFENSIVE_REBOUND,None,2:11,2,Lakers,Trail Blazers,50 - 41,1,N/A,N/A,N/A
+110,Jemerrio Jones,FG_UNASSISTED,None,2:11,2,Lakers,Trail Blazers,50 - 43,1, ,2,Jumper
+111,Damian Lillard,FG_UNASSISTED,None,1:51,2,Trail Blazers,Lakers,53 - 43,0,25,2,Jumper
+112,Alex Caruso,FG_MISS,Maurice Harkless,1:43,2,Trail Blazers,Lakers,53 - 43,1,3,2,Jumper
+113,Al-Farouq Aminu,DEFENSIVE_REBOUND,None,1:40,2,Trail Blazers,Lakers,53 - 43,0,N/A,N/A,N/A
+114,CJ McCollum,TURNOVER,None,1:39,2,Trail Blazers,Lakers,53 - 43,0,N/A,N/A,N/A
+115,Kentavious Caldwell-Pope,FG_ASSISTED,Johnathan Williams,1:27,2,Lakers,Trail Blazers,53 - 46,1,26,3,Jumper
+116,shot clock,TURNOVER,None,1:01,2,Trail Blazers,Lakers,53 - 46,0,N/A,N/A,N/A
+117,Kentavious Caldwell-Pope,FG_MISS,None,42.0,2,Lakers,Trail Blazers,53 - 46,1,16,2,Jumper
+118,Damian Lillard,DEFENSIVE_REBOUND,None,39.3,2,Trail Blazers,Lakers,53 - 46,0,N/A,N/A,N/A
+119,Damian Lillard,FG_MISS,None,33.9,2,Trail Blazers,Lakers,53 - 46,0,29,3,Jumper
+120,Team,DEFENSIVE_REBOUND,None,33.9,2,Lakers,Trail Blazers,53 - 46,1,N/A,N/A,N/A
+121,Jemerrio Jones,FG_ASSISTED,Alex Caruso,21.2,2,Lakers,Trail Blazers,53 - 48,1,0,2,Layup
+122,Kentavious Caldwell-Pope,FOUL_ON_FLOOR,None,7.8,2,Lakers,Trail Blazers,53 - 48,1,N/A,N/A,N/A
+123,Isaac Bonga,SUBSTITUTION,Muscala Mike,7.8,2,Lakers,Trail Blazers,53 - 48,1,N/A,N/A,N/A
+124,Seth Curry,SUBSTITUTION,Kanter Enes,7.8,2,Trail Blazers,Lakers,53 - 48,0,N/A,N/A,N/A
+125,Jake Layman,SUBSTITUTION,Aminu Al-Farouq,7.8,2,Trail Blazers,Lakers,53 - 48,0,N/A,N/A,N/A
+126,Jake Layman,FG_MISS,None,0.7,2,Trail Blazers,Lakers,53 - 48,0,4,2,Jumper
+127,Team,OFFENSIVE_REBOUND,None,0.1,2,Trail Blazers,Lakers,53 - 48,0,N/A,N/A,N/A
+128,End of,Unknown,None,0.0,2,Lakers,Trail Blazers,53 - 48,1,N/A,N/A,N/A
+0,Mike Muscala,SUBSTITUTION,Williams Johnathan,12:00,3,Lakers,Trail Blazers,53 - 48,1,N/A,N/A,N/A
+1,JaVale McGee,SUBSTITUTION,Bonga Isaac,12:00,3,Lakers,Trail Blazers,53 - 48,1,N/A,N/A,N/A
+2,Enes Kanter,SUBSTITUTION,Curry Seth,12:00,3,Trail Blazers,Lakers,53 - 48,0,N/A,N/A,N/A
+3,Al-Farouq Aminu,SUBSTITUTION,Layman Jake,12:00,3,Trail Blazers,Lakers,53 - 48,0,N/A,N/A,N/A
+4,Enes Kanter,FG_MISS,None,11:45,3,Trail Blazers,Lakers,53 - 48,0,16,2,Jumper
+5,Jemerrio Jones,DEFENSIVE_REBOUND,None,11:40,3,Lakers,Trail Blazers,53 - 48,1,N/A,N/A,N/A
+6,Alex Caruso,FG_MISS,None,11:26,3,Lakers,Trail Blazers,53 - 48,1,22,2,Jumper
+7,Maurice Harkless,DEFENSIVE_REBOUND,None,11:24,3,Trail Blazers,Lakers,53 - 48,0,N/A,N/A,N/A
+8,Damian Lillard,FG_MISS,None,11:21,3,Trail Blazers,Lakers,53 - 48,0,28,3,Jumper
+9,Enes Kanter,OFFENSIVE_REBOUND,None,11:16,3,Trail Blazers,Lakers,53 - 48,0,N/A,N/A,N/A
+10,CJ McCollum,FG_MISS,None,11:14,3,Trail Blazers,Lakers,53 - 48,0,26,3,Jumper
+11,Kentavious Caldwell-Pope,DEFENSIVE_REBOUND,None,11:09,3,Lakers,Trail Blazers,53 - 48,1,N/A,N/A,N/A
+12,Mike Muscala,FG_ASSISTED,Kentavious Caldwell-Pope,11:04,3,Lakers,Trail Blazers,53 - 51,1,27,3,Jumper
+13,CJ McCollum,FG_MISS,None,10:43,3,Trail Blazers,Lakers,53 - 51,0,28,3,Jumper
+14,Enes Kanter,OFFENSIVE_REBOUND,None,10:38,3,Trail Blazers,Lakers,53 - 51,0,N/A,N/A,N/A
+15,Enes Kanter,FG_UNASSISTED,None,10:37,3,Trail Blazers,Lakers,55 - 51,0, ,2,Jumper
+16,Maurice Harkless,FOUL_ON_FLOOR,None,10:30,3,Trail Blazers,Lakers,55 - 51,0,N/A,N/A,N/A
+17,Kentavious Caldwell-Pope,FT_MISS,None,10:30,3,Lakers,Trail Blazers,55 - 51,1,N/A,1,N/A
+18,Team,OFFENSIVE_REBOUND,None,10:30,3,Lakers,Trail Blazers,55 - 51,1,N/A,N/A,N/A
+19,Kentavious Caldwell-Pope,FT,None,10:30,3,Lakers,Trail Blazers,55 - 52,1,N/A,1,N/A
+20,Kentavious Caldwell-Pope,FT,None,10:30,3,Lakers,Trail Blazers,55 - 53,1,N/A,1,N/A
+21,Damian Lillard,FG_MISS,None,10:16,3,Trail Blazers,Lakers,55 - 53,0,30,2,Jumper
+22,Alex Caruso,DEFENSIVE_REBOUND,None,10:12,3,Lakers,Trail Blazers,55 - 53,1,N/A,N/A,N/A
+23,Alex Caruso,TURNOVER,None,10:00,3,Lakers,Trail Blazers,55 - 53,1,N/A,N/A,N/A
+24,Jemerrio Jones,FOUL_ON_FLOOR,None,9:52,3,Lakers,Trail Blazers,55 - 53,1,N/A,N/A,N/A
+25,Damian Lillard,FT,None,9:52,3,Trail Blazers,Lakers,56 - 53,0,N/A,1,N/A
+26,Damian Lillard,FT,None,9:52,3,Trail Blazers,Lakers,57 - 53,0,N/A,1,N/A
+27,Mike Muscala,FG_MISS,None,9:38,3,Lakers,Trail Blazers,57 - 53,1,26,3,Jumper
+28,Enes Kanter,DEFENSIVE_REBOUND,None,9:34,3,Trail Blazers,Lakers,57 - 53,0,N/A,N/A,N/A
+29,Alex Caruso,FOUL_ON_FLOOR,None,9:19,3,Lakers,Trail Blazers,57 - 53,1,N/A,N/A,N/A
+30,Maurice Harkless,FT_MISS,None,9:19,3,Trail Blazers,Lakers,57 - 53,0,N/A,1,N/A
+31,Team,OFFENSIVE_REBOUND,None,9:19,3,Trail Blazers,Lakers,57 - 53,0,N/A,N/A,N/A
+32,Maurice Harkless,FT,None,9:19,3,Trail Blazers,Lakers,58 - 53,0,N/A,1,N/A
+33,Kentavious Caldwell-Pope,FG_ASSISTED,Alex Caruso,9:06,3,Lakers,Trail Blazers,58 - 55,1,16,2,Jumper
+34,Maurice Harkless,FG_MISS,None,8:46,3,Trail Blazers,Lakers,58 - 55,0,27,3,Jumper
+35,Kentavious Caldwell-Pope,DEFENSIVE_REBOUND,None,8:44,3,Lakers,Trail Blazers,58 - 55,1,N/A,N/A,N/A
+36,Kentavious Caldwell-Pope,FG_MISS,None,8:39,3,Lakers,Trail Blazers,58 - 55,1,19,2,Jumper
+37,Maurice Harkless,DEFENSIVE_REBOUND,None,8:37,3,Trail Blazers,Lakers,58 - 55,0,N/A,N/A,N/A
+38,Damian Lillard,FG_MISS,None,8:27,3,Trail Blazers,Lakers,58 - 55,0,25,3,Jumper
+39,Maurice Harkless,OFFENSIVE_REBOUND,None,8:19,3,Trail Blazers,Lakers,58 - 55,0,N/A,N/A,N/A
+40,Maurice Harkless,FG_UNASSISTED,None,8:19,3,Trail Blazers,Lakers,60 - 55,0,0,2,Dunk
+41,Enes Kanter,FOUL_ON_FLOOR,None,8:11,3,Trail Blazers,Lakers,60 - 55,0,N/A,N/A,N/A
+42,Isaac Bonga,SUBSTITUTION,Caruso Alex,8:11,3,Lakers,Trail Blazers,60 - 55,1,N/A,N/A,N/A
+43,JaVale McGee,FG_ASSISTED,Kentavious Caldwell-Pope,7:59,3,Lakers,Trail Blazers,60 - 57,1,0,2,Dunk
+44,JaVale McGee,FOUL_ON_FLOOR,None,7:33,3,Lakers,Trail Blazers,60 - 57,1,N/A,N/A,N/A
+45,Enes Kanter,FT_MISS,None,7:33,3,Trail Blazers,Lakers,60 - 57,0,N/A,1,N/A
+46,Team,OFFENSIVE_REBOUND,None,7:33,3,Trail Blazers,Lakers,60 - 57,0,N/A,N/A,N/A
+47,Enes Kanter,FT,None,7:33,3,Trail Blazers,Lakers,61 - 57,0,N/A,1,N/A
+48,Team,Unknown,None,7:33,3,Lakers,Trail Blazers,61 - 57,1,N/A,N/A,N/A
+49,Kentavious Caldwell-Pope,FG_MISS,None,7:18,3,Lakers,Trail Blazers,61 - 57,1,18,2,Jumper
+50,Enes Kanter,DEFENSIVE_REBOUND,None,7:15,3,Trail Blazers,Lakers,61 - 57,0,N/A,N/A,N/A
+51,CJ McCollum,FG_UNASSISTED,None,7:09,3,Trail Blazers,Lakers,63 - 57,0,16,2,Jumper
+52,Jemerrio Jones,FG_MISS,None,6:45,3,Lakers,Trail Blazers,63 - 57,1,16,2,Jumper
+53,Enes Kanter,DEFENSIVE_REBOUND,None,6:43,3,Trail Blazers,Lakers,63 - 57,0,N/A,N/A,N/A
+54,Kentavious Caldwell-Pope,FOUL_TECHNICAL,None,6:40,3,Lakers,Trail Blazers,63 - 57,1,N/A,N/A,N/A
+55,Damian Lillard,FT,None,6:40,3,Trail Blazers,Lakers,64 - 57,0,N/A,1,N/A
+56,Johnathan Williams,SUBSTITUTION,McGee JaVale,6:40,3,Lakers,Trail Blazers,64 - 57,1,N/A,N/A,N/A
+57,Maurice Harkless,FG_ASSISTED,Enes Kanter,6:29,3,Trail Blazers,Lakers,66 - 57,0,0,2,Layup
+58,Kentavious Caldwell-Pope,FG_MISS,None,6:16,3,Lakers,Trail Blazers,66 - 57,1,0,2,Layup
+59,Johnathan Williams,OFFENSIVE_REBOUND,None,6:14,3,Lakers,Trail Blazers,66 - 57,1,N/A,N/A,N/A
+60,Johnathan Williams,FG_UNASSISTED,None,6:14,3,Lakers,Trail Blazers,66 - 59,1, ,2,Jumper
+61,Enes Kanter,TURNOVER,Johnathan Williams,5:56,3,Trail Blazers,Lakers,66 - 59,0,N/A,N/A,N/A
+62,Johnathan Williams,FG_UNASSISTED,None,5:52,3,Lakers,Trail Blazers,66 - 61,1,0,2,Dunk
+63,Damian Lillard's,FG_MISS,Isaac Bonga,5:32,3,Lakers,Trail Blazers,66 - 61,0,0,2,Dunk
+64,Jemerrio Jones,DEFENSIVE_REBOUND,None,5:29,3,Lakers,Trail Blazers,66 - 61,1,N/A,N/A,N/A
+65,Kentavious Caldwell-Pope,FG_MISS,None,5:21,3,Lakers,Trail Blazers,66 - 61,1,26,2,Jumper
+66,Isaac Bonga,OFFENSIVE_REBOUND,None,5:16,3,Lakers,Trail Blazers,66 - 61,1,N/A,N/A,N/A
+67,Isaac Bonga,FG_MISS,None,5:08,3,Lakers,Trail Blazers,66 - 61,1,0,2,Layup
+68,Enes Kanter,DEFENSIVE_REBOUND,None,5:06,3,Trail Blazers,Lakers,66 - 61,0,N/A,N/A,N/A
+69,Maurice Harkless,FG_ASSISTED,Damian Lillard,4:53,3,Trail Blazers,Lakers,68 - 61,0,0,2,Dunk
+70,Johnathan Williams,FG_MISS,None,4:26,3,Lakers,Trail Blazers,68 - 61,1,1,2,Jumper
+71,Al-Farouq Aminu,DEFENSIVE_REBOUND,None,4:23,3,Trail Blazers,Lakers,68 - 61,0,N/A,N/A,N/A
+72,Maurice Harkless,FG_ASSISTED,CJ McCollum,4:10,3,Trail Blazers,Lakers,70 - 61,0,0,2,Dunk
+73,Mike Muscala,FOUL_ON_FLOOR,None,4:10,3,Lakers,Trail Blazers,70 - 61,1,N/A,N/A,N/A
+74,Team,Unknown,None,4:10,3,Lakers,Trail Blazers,70 - 61,1,N/A,N/A,N/A
+75,Alex Caruso,SUBSTITUTION,Bonga Isaac,4:10,3,Lakers,Trail Blazers,70 - 61,1,N/A,N/A,N/A
+76,Seth Curry,SUBSTITUTION,McCollum CJ,4:10,3,Trail Blazers,Lakers,70 - 61,0,N/A,N/A,N/A
+77,Rodney Hood,SUBSTITUTION,Aminu Al-Farouq,4:10,3,Trail Blazers,Lakers,70 - 61,0,N/A,N/A,N/A
+78,Maurice Harkless,FT,None,4:10,3,Trail Blazers,Lakers,71 - 61,0,N/A,1,N/A
+79,Alex Caruso,TURNOVER,Rodney Hood,3:56,3,Lakers,Trail Blazers,71 - 61,1,N/A,N/A,N/A
+80,Maurice Harkless,FG_MISS,None,3:39,3,Trail Blazers,Lakers,71 - 61,0,26,3,Jumper
+81,Johnathan Williams,DEFENSIVE_REBOUND,None,3:36,3,Lakers,Trail Blazers,71 - 61,1,N/A,N/A,N/A
+82,Jemerrio Jones,FG_ASSISTED,Alex Caruso,3:30,3,Lakers,Trail Blazers,71 - 64,1,25,3,Jumper
+83,Rodney Hood,FG_MISS,None,3:11,3,Trail Blazers,Lakers,71 - 64,0,25,3,Jumper
+84,Jemerrio Jones,DEFENSIVE_REBOUND,None,3:08,3,Lakers,Trail Blazers,71 - 64,1,N/A,N/A,N/A
+85,Alex Caruso,FG_MISS,None,2:48,3,Lakers,Trail Blazers,71 - 64,1,0,2,Layup
+86,Enes Kanter,DEFENSIVE_REBOUND,None,2:45,3,Trail Blazers,Lakers,71 - 64,0,N/A,N/A,N/A
+87,Damian Lillard,FG_MISS,None,2:37,3,Trail Blazers,Lakers,71 - 64,0,0,2,Layup
+88,Jemerrio Jones,DEFENSIVE_REBOUND,None,2:34,3,Lakers,Trail Blazers,71 - 64,1,N/A,N/A,N/A
+89,Kentavious Caldwell-Pope,FG_ASSISTED,Alex Caruso,2:30,3,Lakers,Trail Blazers,71 - 67,1,25,3,Jumper
+90,Enes Kanter,TURNOVER,Kentavious Caldwell-Pope,2:03,3,Trail Blazers,Lakers,71 - 67,0,N/A,N/A,N/A
+91,Kentavious Caldwell-Pope,FG_MISS,None,1:51,3,Lakers,Trail Blazers,71 - 67,1,28,2,Jumper
+92,Enes Kanter,DEFENSIVE_REBOUND,None,1:48,3,Trail Blazers,Lakers,71 - 67,0,N/A,N/A,N/A
+93,Alex Caruso,FOUL_ON_FLOOR,None,1:36,3,Lakers,Trail Blazers,71 - 67,1,N/A,N/A,N/A
+94,Damian Lillard,FT,None,1:36,3,Trail Blazers,Lakers,72 - 67,0,N/A,1,N/A
+95,Moritz Wagner,SUBSTITUTION,Muscala Mike,1:36,3,Lakers,Trail Blazers,72 - 67,1,N/A,N/A,N/A
+96,Zach Collins,SUBSTITUTION,Kanter Enes,1:36,3,Trail Blazers,Lakers,72 - 67,0,N/A,N/A,N/A
+97,Evan Turner,SUBSTITUTION,Harkless Maurice,1:36,3,Trail Blazers,Lakers,72 - 67,0,N/A,N/A,N/A
+98,Damian Lillard,FT,None,1:36,3,Trail Blazers,Lakers,73 - 67,0,N/A,1,N/A
+99,Alex Caruso,FG_UNASSISTED,None,1:28,3,Lakers,Trail Blazers,73 - 69,1,2,2,Jumper
+100,Zach Collins,FG_MISS,None,1:11,3,Trail Blazers,Lakers,73 - 69,0,26,3,Jumper
+101,Alex Caruso,DEFENSIVE_REBOUND,None,1:09,3,Lakers,Trail Blazers,73 - 69,1,N/A,N/A,N/A
+102,Alex Caruso,FG_MISS,Zach Collins,1:07,3,Trail Blazers,Lakers,73 - 69,1,2,2,Jumper
+103,Evan Turner,DEFENSIVE_REBOUND,None,1:04,3,Trail Blazers,Lakers,73 - 69,0,N/A,N/A,N/A
+104,Seth Curry,FG_MISS,None,1:00,3,Trail Blazers,Lakers,73 - 69,0,27,3,Jumper
+105,Moritz Wagner,DEFENSIVE_REBOUND,None,55.4,3,Lakers,Trail Blazers,73 - 69,1,N/A,N/A,N/A
+106,Moritz Wagner,FG_ASSISTED,Kentavious Caldwell-Pope,51.5,3,Lakers,Trail Blazers,73 - 71,1,0,2,Dunk
+107,Team,Unknown,None,51.5,3,Trail Blazers,Lakers,73 - 71,0,N/A,N/A,N/A
+108,Damian Lillard,FG_MISS,None,34.3,3,Trail Blazers,Lakers,73 - 71,0,27,3,Jumper
+109,Jemerrio Jones,DEFENSIVE_REBOUND,None,31.2,3,Lakers,Trail Blazers,73 - 71,1,N/A,N/A,N/A
+110,Kentavious Caldwell-Pope,FG_MISS,None,22.3,3,Lakers,Trail Blazers,73 - 71,1,25,3,Jumper
+111,Jemerrio Jones,OFFENSIVE_REBOUND,None,17.7,3,Lakers,Trail Blazers,73 - 71,1,N/A,N/A,N/A
+112,Kentavious Caldwell-Pope,FG_ASSISTED,Jemerrio Jones,16.8,3,Lakers,Trail Blazers,73 - 74,1,28,2,Jumper
+113,End of,Unknown,None,0.0,3,Lakers,Trail Blazers,73 - 74,1,N/A,N/A,N/A
+0,Jake Layman,SUBSTITUTION,Lillard Damian,12:00,4,Trail Blazers,Lakers,73 - 74,0,N/A,N/A,N/A
+1,Kentavious Caldwell-Pope,FG_MISS,None,11:46,4,Lakers,Trail Blazers,73 - 74,1,26,3,Jumper
+2,Johnathan Williams,OFFENSIVE_REBOUND,None,11:42,4,Lakers,Trail Blazers,73 - 74,1,N/A,N/A,N/A
+3,Alex Caruso,FG_MISS,None,11:37,4,Lakers,Trail Blazers,73 - 74,1,27,3,Jumper
+4,Evan Turner,DEFENSIVE_REBOUND,None,11:34,4,Trail Blazers,Lakers,73 - 74,0,N/A,N/A,N/A
+5,Evan Turner,FG_MISS,None,11:26,4,Trail Blazers,Lakers,73 - 74,0, ,2,Jumper
+6,Alex Caruso,DEFENSIVE_REBOUND,None,11:24,4,Lakers,Trail Blazers,73 - 74,1,N/A,N/A,N/A
+7,Jemerrio Jones,FG_ASSISTED,Kentavious Caldwell-Pope,11:17,4,Lakers,Trail Blazers,73 - 76,1,2,2,Jumper
+8,Seth Curry,FG_UNASSISTED,None,10:54,4,Trail Blazers,Lakers,76 - 76,0,26,3,Jumper
+9,Seth Curry,FOUL_ON_FLOOR,None,10:48,4,Trail Blazers,Lakers,76 - 76,0,N/A,N/A,N/A
+10,Jemerrio Jones,FG_MISS,None,10:35,4,Lakers,Trail Blazers,76 - 76,1,15,2,Jumper
+11,Johnathan Williams,OFFENSIVE_REBOUND,None,10:30,4,Lakers,Trail Blazers,76 - 76,1,N/A,N/A,N/A
+12,Johnathan Williams,FG_UNASSISTED,None,10:30,4,Lakers,Trail Blazers,76 - 78,1,0,2,Dunk
+13,Jake Layman,FG_MISS,None,10:15,4,Trail Blazers,Lakers,76 - 78,0,25,3,Jumper
+14,Kentavious Caldwell-Pope,DEFENSIVE_REBOUND,None,10:12,4,Lakers,Trail Blazers,76 - 78,1,N/A,N/A,N/A
+15,Rodney Hood,FOUL_ON_FLOOR,None,10:07,4,Trail Blazers,Lakers,76 - 78,0,N/A,N/A,N/A
+16,Johnathan Williams,FT,None,10:07,4,Lakers,Trail Blazers,76 - 79,1,N/A,1,N/A
+17,Johnathan Williams,FT,None,10:07,4,Lakers,Trail Blazers,76 - 80,1,N/A,1,N/A
+18,Rodney Hood,FG_MISS,None,9:50,4,Trail Blazers,Lakers,76 - 80,0,0,2,Layup
+19,Team,OFFENSIVE_REBOUND,None,9:50,4,Trail Blazers,Lakers,76 - 80,0,N/A,N/A,N/A
+20,Johnathan Williams,FOUL_ON_FLOOR,None,9:50,4,Lakers,Trail Blazers,76 - 80,1,N/A,N/A,N/A
+21,Enes Kanter,SUBSTITUTION,Layman Jake,9:50,4,Trail Blazers,Lakers,76 - 80,0,N/A,N/A,N/A
+22,Seth Curry,FG_ASSISTED,Evan Turner,9:47,4,Trail Blazers,Lakers,78 - 80,0,0,2,Layup
+23,Team,Unknown,None,9:38,4,Lakers,Trail Blazers,78 - 80,1,N/A,N/A,N/A
+24,Johnathan Williams,FG_MISS,None,9:16,4,Lakers,Trail Blazers,78 - 80,1, ,2,Jumper
+25,Enes Kanter,DEFENSIVE_REBOUND,None,9:11,4,Trail Blazers,Lakers,78 - 80,0,N/A,N/A,N/A
+26,Moritz Wagner,Unknown,None,9:05,4,Lakers,Trail Blazers,78 - 80,1,N/A,N/A,N/A
+27,Zach Collins,FG_MISS,None,8:57,4,Trail Blazers,Lakers,78 - 80,0,4,2,Jumper
+28,Jemerrio Jones,DEFENSIVE_REBOUND,None,8:54,4,Lakers,Trail Blazers,78 - 80,1,N/A,N/A,N/A
+29,Kentavious Caldwell-Pope,TURNOVER,None,8:49,4,Lakers,Trail Blazers,78 - 80,1,N/A,N/A,N/A
+30,Zach Collins,FOUL_ON_FLOOR,None,8:32,4,Trail Blazers,Lakers,78 - 80,0,N/A,N/A,N/A
+31,Zach Collins,TURNOVER,None,8:32,4,Trail Blazers,Lakers,78 - 80,0,N/A,N/A,N/A
+32,Maurice Harkless,SUBSTITUTION,Collins Zach,8:32,4,Trail Blazers,Lakers,78 - 80,0,N/A,N/A,N/A
+33,Alex Caruso,TURNOVER,Seth Curry,8:24,4,Lakers,Trail Blazers,78 - 80,1,N/A,N/A,N/A
+34,Seth Curry,FG_MISS,None,8:20,4,Trail Blazers,Lakers,78 - 80,0, ,2,Jumper
+35,Enes Kanter,OFFENSIVE_REBOUND,None,8:18,4,Trail Blazers,Lakers,78 - 80,0,N/A,N/A,N/A
+36,Enes Kanter,FG_MISS,None,8:17,4,Trail Blazers,Lakers,78 - 80,0, ,2,Jumper
+37,Johnathan Williams,DEFENSIVE_REBOUND,None,8:15,4,Lakers,Trail Blazers,78 - 80,1,N/A,N/A,N/A
+38,Johnathan Williams,TURNOVER,Seth Curry,8:07,4,Lakers,Trail Blazers,78 - 80,1,N/A,N/A,N/A
+39,Evan Turner,FG_UNASSISTED,None,7:49,4,Trail Blazers,Lakers,80 - 80,0,9,2,Jumper
+40,Alex Caruso,FG_UNASSISTED,None,7:33,4,Lakers,Trail Blazers,80 - 82,1,12,2,Jumper
+41,JaVale McGee,SUBSTITUTION,Williams Johnathan,7:05,4,Lakers,Trail Blazers,80 - 82,1,N/A,N/A,N/A
+42,Enes Kanter's,FG_MISS,JaVale McGee,7:02,4,Lakers,Trail Blazers,80 - 82,0, ,2,Jumper
+43,shot clock,TURNOVER,None,7:01,4,Trail Blazers,Lakers,80 - 82,0,N/A,N/A,N/A
+44,Team,OFFENSIVE_REBOUND,None,7:01,4,Trail Blazers,Lakers,80 - 82,0,N/A,N/A,N/A
+45,Alex Caruso,FG_MISS,None,6:49,4,Lakers,Trail Blazers,80 - 82,1,15,2,Jumper
+46,Alex Caruso,OFFENSIVE_REBOUND,None,6:43,4,Lakers,Trail Blazers,80 - 82,1,N/A,N/A,N/A
+47,Alex Caruso's,FG_MISS,Evan Turner,6:41,4,Trail Blazers,Lakers,80 - 82,1, ,2,Jumper
+48,Alex Caruso,OFFENSIVE_REBOUND,None,6:35,4,Lakers,Trail Blazers,80 - 82,1,N/A,N/A,N/A
+49,Moritz Wagner,FG_MISS,None,6:34,4,Lakers,Trail Blazers,80 - 82,1, ,3,Jumper
+50,Evan Turner,DEFENSIVE_REBOUND,None,6:32,4,Trail Blazers,Lakers,80 - 82,0,N/A,N/A,N/A
+51,Enes Kanter,TURNOVER,None,6:30,4,Trail Blazers,Lakers,80 - 82,0,N/A,N/A,N/A
+52,Enes Kanter,TURNOVER,None,6:30,4,Trail Blazers,Lakers,80 - 82,0,N/A,N/A,N/A
+53,Damian Lillard,SUBSTITUTION,Turner Evan,6:30,4,Trail Blazers,Lakers,80 - 82,0,N/A,N/A,N/A
+54,CJ McCollum,SUBSTITUTION,Curry Seth,6:30,4,Trail Blazers,Lakers,80 - 82,0,N/A,N/A,N/A
+55,Kentavious Caldwell-Pope,FG_ASSISTED,Alex Caruso,6:14,4,Lakers,Trail Blazers,80 - 85,1,26,3,Jumper
+56,CJ McCollum,FG_ASSISTED,Damian Lillard,5:58,4,Trail Blazers,Lakers,82 - 85,0,0,2,Layup
+57,Moritz Wagner,TURNOVER,None,5:40,4,Lakers,Trail Blazers,82 - 85,1,N/A,N/A,N/A
+58,Damian Lillard,FG_UNASSISTED,None,5:26,4,Trail Blazers,Lakers,85 - 85,0,28,3,Jumper
+59,JaVale McGee,FG_ASSISTED,Alex Caruso,5:15,4,Lakers,Trail Blazers,85 - 87,1,0,2,Dunk
+60,CJ McCollum,FG_UNASSISTED,None,5:05,4,Trail Blazers,Lakers,87 - 87,0,21,2,Jumper
+61,Jemerrio Jones's,FG_MISS,Damian Lillard,4:51,4,Trail Blazers,Lakers,87 - 87,1,0,2,Layup
+62,Team,OFFENSIVE_REBOUND,None,4:51,4,Lakers,Trail Blazers,87 - 87,1,N/A,N/A,N/A
+63,Seth Curry,SUBSTITUTION,Hood Rodney,4:51,4,Trail Blazers,Lakers,87 - 87,0,N/A,N/A,N/A
+64,Jemerrio Jones,FG_MISS,None,4:43,4,Lakers,Trail Blazers,87 - 87,1,0,2,Layup
+65,Moritz Wagner,OFFENSIVE_REBOUND,None,4:42,4,Lakers,Trail Blazers,87 - 87,1,N/A,N/A,N/A
+66,Moritz Wagner,FG_UNASSISTED,None,4:42,4,Lakers,Trail Blazers,87 - 89,1, ,2,Jumper
+67,Alex Caruso,FOUL_ON_FLOOR,None,4:37,4,Lakers,Trail Blazers,87 - 89,1,N/A,N/A,N/A
+68,CJ McCollum,FOUL_ON_FLOOR,None,4:30,4,Trail Blazers,Lakers,87 - 89,0,N/A,N/A,N/A
+69,CJ McCollum,TURNOVER,None,4:30,4,Trail Blazers,Lakers,87 - 89,0,N/A,N/A,N/A
+70,Moritz Wagner,FG_MISS,Maurice Harkless,4:15,4,Trail Blazers,Lakers,87 - 89,1,0,2,Layup
+71,Enes Kanter,DEFENSIVE_REBOUND,None,4:12,4,Trail Blazers,Lakers,87 - 89,0,N/A,N/A,N/A
+72,Damian Lillard,FG_UNASSISTED,None,3:55,4,Trail Blazers,Lakers,89 - 89,0,20,2,Jumper
+73,Kentavious Caldwell-Pope,FG_ASSISTED,JaVale McGee,3:44,4,Lakers,Trail Blazers,89 - 91,1,0,2,Layup
+74,Team,Unknown,None,3:44,4,Trail Blazers,Lakers,89 - 89,0,N/A,N/A,N/A
+75,Mike Muscala,SUBSTITUTION,Wagner Moritz,3:44,4,Lakers,Trail Blazers,89 - 91,1,N/A,N/A,N/A
+76,Mike Muscala,FOUL_ON_FLOOR,None,3:36,4,Lakers,Trail Blazers,89 - 91,1,N/A,N/A,N/A
+77,Seth Curry,FG_ASSISTED,Damian Lillard,3:26,4,Trail Blazers,Lakers,92 - 91,0, ,3,Jumper
+78,Alex Caruso,FG_UNASSISTED,None,3:07,4,Lakers,Trail Blazers,92 - 93,1,0,2,Layup
+79,JaVale McGee,FOUL_ON_FLOOR,None,2:51,4,Lakers,Trail Blazers,92 - 93,1,N/A,N/A,N/A
+80,Maurice Harkless,FT,None,2:51,4,Trail Blazers,Lakers,93 - 93,0,N/A,1,N/A
+81,Maurice Harkless,FT,None,2:51,4,Trail Blazers,Lakers,94 - 93,0,N/A,1,N/A
+82,JaVale McGee,FG_ASSISTED,Alex Caruso,2:33,4,Lakers,Trail Blazers,94 - 95,1,0,2,Dunk
+83,Damian Lillard,FG_MISS,None,2:05,4,Trail Blazers,Lakers,94 - 95,0,26,2,Jumper
+84,Maurice Harkless,OFFENSIVE_REBOUND,None,2:00,4,Trail Blazers,Lakers,94 - 95,0,N/A,N/A,N/A
+85,CJ McCollum,FG_MISS,None,1:59,4,Trail Blazers,Lakers,94 - 95,0,27,3,Jumper
+86,Mike Muscala,DEFENSIVE_REBOUND,None,1:59,4,Lakers,Trail Blazers,94 - 95,1,N/A,N/A,N/A
+87,Kentavious Caldwell-Pope,FG_MISS,None,1:55,4,Lakers,Trail Blazers,94 - 95,1, ,2,Jumper
+88,JaVale McGee,OFFENSIVE_REBOUND,None,1:54,4,Lakers,Trail Blazers,94 - 95,1,N/A,N/A,N/A
+89,Kentavious Caldwell-Pope,FG_MISS,None,1:50,4,Lakers,Trail Blazers,94 - 95,1,26,3,Jumper
+90,Jemerrio Jones,OFFENSIVE_REBOUND,None,1:49,4,Lakers,Trail Blazers,94 - 95,1,N/A,N/A,N/A
+91,Jemerrio Jones,FG_MISS,None,1:49,4,Lakers,Trail Blazers,94 - 95,1, ,2,Jumper
+92,Mike Muscala,OFFENSIVE_REBOUND,None,1:48,4,Lakers,Trail Blazers,94 - 95,1,N/A,N/A,N/A
+93,Mike Muscala,FG_UNASSISTED,None,1:48,4,Lakers,Trail Blazers,94 - 97,1, ,2,Jumper
+94,Maurice Harkless,FG_ASSISTED,CJ McCollum,1:38,4,Trail Blazers,Lakers,96 - 97,0,2,2,Jumper
+95,JaVale McGee,FOUL_ON_FLOOR,None,1:38,4,Lakers,Trail Blazers,96 - 97,1,N/A,N/A,N/A
+96,Johnathan Williams,SUBSTITUTION,McGee JaVale,1:38,4,Lakers,Trail Blazers,96 - 97,1,N/A,N/A,N/A
+97,Maurice Harkless,FT,None,1:38,4,Trail Blazers,Lakers,97 - 97,0,N/A,1,N/A
+98,Kentavious Caldwell-Pope,FG_MISS,None,1:25,4,Lakers,Trail Blazers,97 - 97,1,17,2,Jumper
+99,Enes Kanter,DEFENSIVE_REBOUND,None,1:24,4,Trail Blazers,Lakers,97 - 97,0,N/A,N/A,N/A
+100,Kentavious Caldwell-Pope,FOUL_ON_FLOOR,None,1:21,4,Lakers,Trail Blazers,97 - 97,1,N/A,N/A,N/A
+101,Maurice Harkless,FT,None,1:21,4,Trail Blazers,Lakers,98 - 97,0,N/A,1,N/A
+102,Maurice Harkless,FT,None,1:21,4,Trail Blazers,Lakers,99 - 97,0,N/A,1,N/A
+103,Enes Kanter,FOUL_ON_FLOOR,None,1:07,4,Trail Blazers,Lakers,99 - 97,0,N/A,N/A,N/A
+104,Alex Caruso,FT,None,1:07,4,Lakers,Trail Blazers,99 - 98,1,N/A,1,N/A
+105,Alex Caruso,FT,None,1:07,4,Lakers,Trail Blazers,99 - 99,1,N/A,1,N/A
+106,CJ McCollum,FG_MISS,None,51.9,4,Trail Blazers,Lakers,99 - 99,0,26,3,Jumper
+107,Kentavious Caldwell-Pope,DEFENSIVE_REBOUND,None,49.3,4,Lakers,Trail Blazers,99 - 99,1,N/A,N/A,N/A
+108,Alex Caruso,FG_UNASSISTED,None,43.9,4,Lakers,Trail Blazers,99 - 101,1,20,2,Jumper
+109,Team,Unknown,None,43.9,4,Trail Blazers,Lakers,99 - 101,0,N/A,N/A,N/A
+110,Maurice Harkless,FG_ASSISTED,Damian Lillard,33.3,4,Trail Blazers,Lakers,101 - 101,0,0,2,Layup
+111,Alex Caruso,TURNOVER,Seth Curry,18.2,4,Lakers,Trail Blazers,101 - 101,1,N/A,N/A,N/A
+112,Maurice Harkless,FG_ASSISTED,CJ McCollum,1.4,4,Trail Blazers,Lakers,104 - 101,0,24,3,Jumper
+113,End of,Unknown,None,0.0,4,Lakers,Trail Blazers,104 - 101,1,N/A,N/A,N/A
+114,End of,Unknown,None,0.0,4,Lakers,Trail Blazers,104 - 101,1,N/A,N/A,N/A

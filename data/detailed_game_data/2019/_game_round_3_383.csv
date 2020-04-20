@@ -1,0 +1,476 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Lonzo Ball,JUMP_BALL,None,12:00,1,Lakers,Suns,0 - 0,0,N/A,N/A,N/A
+1,JaVale McGee,FG_ASSISTED,Lonzo Ball,11:51,1,Lakers,Suns,2 - 0,0,0,2,Dunk
+2,Devin Booker,FG_UNASSISTED,None,11:35,1,Suns,Lakers,2 - 2,1,7,2,Jumper
+3,Lonzo Ball,FG_MISS,None,11:17,1,Lakers,Suns,2 - 2,0,23,3,Jumper
+4,Deandre Ayton,DEFENSIVE_REBOUND,None,11:14,1,Suns,Lakers,2 - 2,1,N/A,N/A,N/A
+5,Devin Booker,FG_UNASSISTED,None,11:08,1,Suns,Lakers,2 - 4,1,0,2,Layup
+6,Lonzo Ball,TURNOVER,None,10:59,1,Lakers,Suns,2 - 4,0,N/A,N/A,N/A
+7,Lonzo Ball,TURNOVER,None,10:59,1,Lakers,Suns,2 - 4,0,N/A,N/A,N/A
+8,JaVale McGee,FOUL_ON_FLOOR,None,10:48,1,Lakers,Suns,2 - 4,0,N/A,N/A,N/A
+9,Isaiah Canaan,FG_UNASSISTED,None,10:38,1,Suns,Lakers,2 - 6,1,0,2,Layup
+10,Lonzo Ball,FG_MISS,None,10:31,1,Lakers,Suns,2 - 6,0,-,2,Jumper
+11,Devin Booker,DEFENSIVE_REBOUND,None,10:29,1,Suns,Lakers,2 - 6,1,N/A,N/A,N/A
+12,Trevor Ariza,FG_MISS,None,10:26,1,Suns,Lakers,2 - 6,1,25,3,Jumper
+13,Lonzo Ball,DEFENSIVE_REBOUND,None,10:22,1,Lakers,Suns,2 - 6,0,N/A,N/A,N/A
+14,Lonzo Ball,TURNOVER,None,10:20,1,Lakers,Suns,2 - 6,0,N/A,N/A,N/A
+15,Devin Booker,FG_UNASSISTED,None,10:05,1,Suns,Lakers,2 - 8,1,0,2,Layup
+16,LeBron James,FG_ASSISTED,Lonzo Ball,9:51,1,Lakers,Suns,5 - 8,0,25,3,Jumper
+17,Devin Booker,FG_MISS,None,9:38,1,Suns,Lakers,5 - 8,1,26,3,Jumper
+18,LeBron James,DEFENSIVE_REBOUND,None,9:36,1,Lakers,Suns,5 - 8,0,N/A,N/A,N/A
+19,Trevor Ariza,FOUL_ON_FLOOR,None,9:32,1,Suns,Lakers,5 - 8,1,N/A,N/A,N/A
+20,LeBron James,FT,None,9:32,1,Lakers,Suns,6 - 8,0,N/A,1,N/A
+21,LeBron James,FT,None,9:32,1,Lakers,Suns,7 - 8,0,N/A,1,N/A
+22,Deandre Ayton,FG_MISS,None,9:14,1,Suns,Lakers,7 - 8,1,-,2,Jumper
+23,Ryan Anderson,OFFENSIVE_REBOUND,None,9:12,1,Suns,Lakers,7 - 8,1,N/A,N/A,N/A
+24,Ryan Anderson,FG_MISS,None,9:10,1,Suns,Lakers,7 - 8,1,25,3,Jumper
+25,LeBron James,DEFENSIVE_REBOUND,None,9:05,1,Lakers,Suns,7 - 8,0,N/A,N/A,N/A
+26,Deandre Ayton,FOUL_ON_FLOOR,None,9:01,1,Suns,Lakers,7 - 8,1,N/A,N/A,N/A
+27,Kyle Kuzma,FG_MISS,None,8:48,1,Lakers,Suns,7 - 8,0,21,2,Jumper
+28,Trevor Ariza,DEFENSIVE_REBOUND,None,8:46,1,Suns,Lakers,7 - 8,1,N/A,N/A,N/A
+29,Ryan Anderson,FG_MISS,None,8:34,1,Suns,Lakers,7 - 8,1,26,3,Jumper
+30,Lonzo Ball,DEFENSIVE_REBOUND,None,8:31,1,Lakers,Suns,7 - 8,0,N/A,N/A,N/A
+31,Kyle Kuzma,FG_ASSISTED,LeBron James,8:23,1,Lakers,Suns,9 - 8,0,0,2,Dunk
+32,Devin Booker's,FG_MISS,JaVale McGee,8:12,1,Lakers,Suns,9 - 8,1,0,2,Layup
+33,LeBron James,DEFENSIVE_REBOUND,None,8:10,1,Lakers,Suns,9 - 8,0,N/A,N/A,N/A
+34,LeBron James,FG_MISS,None,8:05,1,Lakers,Suns,9 - 8,0,-,2,Jumper
+35,Deandre Ayton,DEFENSIVE_REBOUND,None,8:02,1,Suns,Lakers,9 - 8,1,N/A,N/A,N/A
+36,Trevor Ariza's,FG_MISS,JaVale McGee,7:59,1,Lakers,Suns,9 - 8,1,0,2,Layup
+37,Lonzo Ball,DEFENSIVE_REBOUND,None,7:56,1,Lakers,Suns,9 - 8,0,N/A,N/A,N/A
+38,JaVale McGee,FG_MISS,None,7:51,1,Lakers,Suns,9 - 8,0,0,2,Dunk
+39,Devin Booker,DEFENSIVE_REBOUND,None,7:49,1,Suns,Lakers,9 - 8,1,N/A,N/A,N/A
+40,Lonzo Ball,FOUL_ON_FLOOR,None,7:42,1,Lakers,Suns,9 - 8,0,N/A,N/A,N/A
+41,Trevor Ariza,FT,None,7:42,1,Suns,Lakers,9 - 9,1,N/A,1,N/A
+42,Trevor Ariza,FT_MISS,None,7:42,1,Suns,Lakers,9 - 9,1,N/A,1,N/A
+43,Team,OFFENSIVE_REBOUND,None,7:42,1,Suns,Lakers,9 - 9,1,N/A,N/A,N/A
+44,Trevor Ariza,FT,None,7:42,1,Suns,Lakers,9 - 10,1,N/A,1,N/A
+45,Johnathan Williams,SUBSTITUTION,McGee JaVale,7:41,1,Lakers,Suns,9 - 9,0,N/A,N/A,N/A
+46,Lance Stephenson,SUBSTITUTION,Ball Lonzo,7:41,1,Lakers,Suns,9 - 9,0,N/A,N/A,N/A
+47,Josh Hart,FG_MISS,None,7:31,1,Lakers,Suns,9 - 10,0,25,3,Jumper
+48,Devin Booker,DEFENSIVE_REBOUND,None,7:27,1,Suns,Lakers,9 - 10,1,N/A,N/A,N/A
+49,Deandre Ayton,FG_ASSISTED,Trevor Ariza,7:13,1,Suns,Lakers,9 - 12,1,0,2,Dunk
+50,Kyle Kuzma,FG_MISS,None,7:01,1,Lakers,Suns,9 - 12,0,23,3,Jumper
+51,Lance Stephenson,OFFENSIVE_REBOUND,None,6:59,1,Lakers,Suns,9 - 12,0,N/A,N/A,N/A
+52,Lance Stephenson,FG_UNASSISTED,None,6:57,1,Lakers,Suns,11 - 12,0, ,2,Jumper
+53,Ryan Anderson,FOUL_ON_FLOOR,None,6:47,1,Suns,Lakers,11 - 12,1,N/A,N/A,N/A
+54,Ryan Anderson,TURNOVER,None,6:47,1,Suns,Lakers,11 - 12,1,N/A,N/A,N/A
+55,Team,Unknown,None,6:47,1,Suns,Lakers,11 - 12,1,N/A,N/A,N/A
+56,LeBron James,FG_ASSISTED,Lance Stephenson,6:34,1,Lakers,Suns,13 - 12,0,0,2,Layup
+57,Devin Booker,FG_ASSISTED,Ryan Anderson,6:17,1,Suns,Lakers,13 - 15,1,25,3,Jumper
+58,Ryan Anderson,FOUL_ON_FLOOR,None,6:06,1,Suns,Lakers,13 - 15,1,N/A,N/A,N/A
+59,Kyle Kuzma,FT,None,6:06,1,Lakers,Suns,14 - 15,0,N/A,1,N/A
+60,TJ Warren,SUBSTITUTION,Anderson Ryan,6:06,1,Suns,Lakers,14 - 15,1,N/A,N/A,N/A
+61,Josh Jackson,SUBSTITUTION,Booker Devin,6:06,1,Suns,Lakers,14 - 15,1,N/A,N/A,N/A
+62,Kyle Kuzma,FT,None,6:06,1,Lakers,Suns,15 - 15,0,N/A,1,N/A
+63,Deandre Ayton,FG_ASSISTED,Josh Jackson,5:50,1,Suns,Lakers,15 - 17,1,0,2,Dunk
+64,Josh Hart,FG_ASSISTED,Lance Stephenson,5:39,1,Lakers,Suns,18 - 17,0,25,3,Jumper
+65,Josh Jackson,FG_MISS,None,5:20,1,Suns,Lakers,18 - 17,1,26,3,Jumper
+66,LeBron James,DEFENSIVE_REBOUND,None,5:17,1,Lakers,Suns,18 - 17,0,N/A,N/A,N/A
+67,LeBron James,FG_MISS,None,5:10,1,Lakers,Suns,18 - 17,0, ,2,Jumper
+68,Isaiah Canaan,DEFENSIVE_REBOUND,None,5:07,1,Suns,Lakers,18 - 17,1,N/A,N/A,N/A
+69,Isaiah Canaan,FG_MISS,None,4:59,1,Suns,Lakers,18 - 17,1,24,3,Jumper
+70,Josh Hart,DEFENSIVE_REBOUND,None,4:56,1,Lakers,Suns,18 - 17,0,N/A,N/A,N/A
+71,LeBron James,FG_MISS,None,4:38,1,Lakers,Suns,18 - 17,0,24,2,Jumper
+72,Josh Jackson,DEFENSIVE_REBOUND,None,4:34,1,Suns,Lakers,18 - 17,1,N/A,N/A,N/A
+73,Trevor Ariza,FG_ASSISTED,Deandre Ayton,4:26,1,Suns,Lakers,18 - 20,1,23,3,Jumper
+74,Team,Unknown,None,4:24,1,Lakers,Suns,18 - 20,0,N/A,N/A,N/A
+75,Tyson Chandler,SUBSTITUTION,Ayton Deandre,4:24,1,Suns,Lakers,18 - 20,1,N/A,N/A,N/A
+76,JaVale McGee,SUBSTITUTION,Hart Josh,4:24,1,Lakers,Suns,18 - 20,0,N/A,N/A,N/A
+77,Sviatoslav Mykhailiuk,SUBSTITUTION,Williams Johnathan,4:24,1,Lakers,Suns,18 - 20,0,N/A,N/A,N/A
+78,Kentavious Caldwell-Pope,SUBSTITUTION,James LeBron,4:24,1,Lakers,Suns,18 - 20,0,N/A,N/A,N/A
+79,Kyle Kuzma,FG_MISS,None,4:09,1,Lakers,Suns,18 - 20,0,0,2,Layup
+80,Team,OFFENSIVE_REBOUND,None,4:09,1,Lakers,Suns,18 - 20,0,N/A,N/A,N/A
+81,Josh Jackson,FOUL_ON_FLOOR,None,4:09,1,Suns,Lakers,18 - 20,1,N/A,N/A,N/A
+82,JaVale McGee,FG_ASSISTED,Sviatoslav Mykhailiuk,4:00,1,Lakers,Suns,20 - 20,0,0,2,Dunk
+83,Josh Jackson's,FG_MISS,JaVale McGee,3:48,1,Lakers,Suns,20 - 20,1,0,2,Dunk
+84,Kentavious Caldwell-Pope,DEFENSIVE_REBOUND,None,3:46,1,Lakers,Suns,20 - 20,0,N/A,N/A,N/A
+85,Kentavious Caldwell-Pope,FG_MISS,None,3:43,1,Lakers,Suns,20 - 20,0, ,2,Jumper
+86,Tyson Chandler,DEFENSIVE_REBOUND,None,3:40,1,Suns,Lakers,20 - 20,1,N/A,N/A,N/A
+87,Isaiah Canaan,FG_MISS,None,3:29,1,Suns,Lakers,20 - 20,1,0,2,Layup
+88,Lance Stephenson,DEFENSIVE_REBOUND,None,3:28,1,Lakers,Suns,20 - 20,0,N/A,N/A,N/A
+89,JaVale McGee,FG_MISS,None,3:21,1,Lakers,Suns,20 - 20,0,12,2,Jumper
+90,Tyson Chandler,DEFENSIVE_REBOUND,None,3:18,1,Suns,Lakers,20 - 20,1,N/A,N/A,N/A
+91,Trevor Ariza,FG_MISS,None,3:11,1,Suns,Lakers,20 - 20,1,0,2,Layup
+92,Tyson Chandler,OFFENSIVE_REBOUND,None,3:05,1,Suns,Lakers,20 - 20,1,N/A,N/A,N/A
+93,Tyson Chandler,FG_UNASSISTED,None,3:05,1,Suns,Lakers,20 - 22,1,0,2,Dunk
+94,TJ Warren,Unknown,None,2:57,1,Suns,Lakers,20 - 22,1,N/A,N/A,N/A
+95,Jamal Crawford,SUBSTITUTION,Canaan Isaiah,2:57,1,Suns,Lakers,20 - 22,1,N/A,N/A,N/A
+96,Devin Booker,SUBSTITUTION,Ariza Trevor,2:57,1,Suns,Lakers,20 - 22,1,N/A,N/A,N/A
+97,JaVale McGee,FG_ASSISTED,Lance Stephenson,2:46,1,Lakers,Suns,22 - 22,0,20,2,Jumper
+98,TJ Warren,FG_MISS,None,2:30,1,Suns,Lakers,22 - 22,1, ,2,Jumper
+99,JaVale McGee,DEFENSIVE_REBOUND,None,2:29,1,Lakers,Suns,22 - 22,0,N/A,N/A,N/A
+100,JaVale McGee,FG_ASSISTED,Lance Stephenson,2:16,1,Lakers,Suns,25 - 22,0,25,3,Jumper
+101,Tyson Chandler,FG_ASSISTED,Devin Booker,1:53,1,Suns,Lakers,25 - 24,1,0,2,Dunk
+102,Lance Stephenson,FG_MISS,None,1:39,1,Lakers,Suns,25 - 24,0,22,2,Jumper
+103,Tyson Chandler,DEFENSIVE_REBOUND,None,1:38,1,Suns,Lakers,25 - 24,1,N/A,N/A,N/A
+104,TJ Warren,TURNOVER,Sviatoslav Mykhailiuk,1:29,1,Suns,Lakers,25 - 24,1,N/A,N/A,N/A
+105,Jamal Crawford,FOUL_ON_FLOOR,None,1:28,1,Suns,Lakers,25 - 24,1,N/A,N/A,N/A
+106,Sviatoslav Mykhailiuk,FT,None,1:28,1,Lakers,Suns,26 - 24,0,N/A,1,N/A
+107,Sviatoslav Mykhailiuk,FT_MISS,None,1:28,1,Lakers,Suns,26 - 24,0,N/A,1,N/A
+108,TJ Warren,DEFENSIVE_REBOUND,None,1:25,1,Suns,Lakers,26 - 24,1,N/A,N/A,N/A
+109,Josh Jackson,FG_MISS,JaVale McGee,1:13,1,Lakers,Suns,26 - 24,1,1,2,Jumper
+110,Tyson Chandler,OFFENSIVE_REBOUND,None,1:12,1,Suns,Lakers,26 - 24,1,N/A,N/A,N/A
+111,Tyson Chandler,FG_MISS,None,1:11,1,Suns,Lakers,26 - 24,1, ,2,Jumper
+112,Tyson Chandler,OFFENSIVE_REBOUND,None,1:11,1,Suns,Lakers,26 - 24,1,N/A,N/A,N/A
+113,JaVale McGee,FOUL_ON_FLOOR,None,1:11,1,Lakers,Suns,26 - 24,0,N/A,N/A,N/A
+114,Tyson Chandler,FT,None,1:11,1,Suns,Lakers,26 - 25,1,N/A,1,N/A
+115,Josh Hart,SUBSTITUTION,Kuzma Kyle,1:11,1,Lakers,Suns,26 - 25,0,N/A,N/A,N/A
+116,Johnathan Williams,SUBSTITUTION,McGee JaVale,1:11,1,Lakers,Suns,26 - 25,0,N/A,N/A,N/A
+117,Tyson Chandler,FT,None,1:11,1,Suns,Lakers,26 - 26,1,N/A,1,N/A
+118,Tyson Chandler,FG_MISS,None,1:11,1,Suns,Lakers,26 - 26,1,3,2,Jumper
+119,Tyson Chandler,OFFENSIVE_REBOUND,None,1:11,1,Suns,Lakers,26 - 26,1,N/A,N/A,N/A
+120,Lance Stephenson,FG_UNASSISTED,None,55.7,1,Lakers,Suns,28 - 26,0,15,2,Jumper
+121,Devin Booker,FG_MISS,None,38.3,1,Suns,Lakers,28 - 26,1,8,2,Jumper
+122,Lance Stephenson,DEFENSIVE_REBOUND,None,36.6,1,Lakers,Suns,28 - 26,0,N/A,N/A,N/A
+123,Kentavious Caldwell-Pope,FG_ASSISTED,Lance Stephenson,30.0,1,Lakers,Suns,31 - 26,0,24,3,Jumper
+124,Devin Booker,FOUL_TECHNICAL,None,19.4,1,Suns,Lakers,31 - 26,1,N/A,N/A,N/A
+125,Kentavious Caldwell-Pope,FT,None,19.4,1,Lakers,Suns,32 - 26,0,N/A,1,N/A
+126,Jamal Crawford,FG_UNASSISTED,None,9.2,1,Suns,Lakers,32 - 29,1, ,3,Jumper
+127,Johnathan Williams,FOUL_ON_FLOOR,None,8.4,1,Lakers,Suns,32 - 29,0,N/A,N/A,N/A
+128,Isaiah Canaan,SUBSTITUTION,Crawford Jamal,8.4,1,Suns,Lakers,32 - 29,1,N/A,N/A,N/A
+129,Trevor Ariza,SUBSTITUTION,Warren TJ,8.4,1,Suns,Lakers,32 - 29,1,N/A,N/A,N/A
+130,LeBron James,SUBSTITUTION,Hart Josh,8.4,1,Lakers,Suns,32 - 29,0,N/A,N/A,N/A
+131,Tyson Chandler,FT,None,8.4,1,Suns,Lakers,32 - 30,1,N/A,1,N/A
+132,Kentavious Caldwell-Pope,FG_MISS,None,1.3,1,Lakers,Suns,32 - 30,0,25,3,Jumper
+133,Team,OFFENSIVE_REBOUND,None,0.1,1,Lakers,Suns,32 - 30,0,N/A,N/A,N/A
+134,End of,Unknown,None,0.0,1,Suns,Lakers,32 - 30,1,N/A,N/A,N/A
+0,TJ Warren,SUBSTITUTION,Canaan Isaiah,12:00,2,Suns,Lakers,32 - 30,1,N/A,N/A,N/A
+1,Jamal Crawford,SUBSTITUTION,Ariza Trevor,12:00,2,Suns,Lakers,32 - 30,1,N/A,N/A,N/A
+2,Johnathan Williams,FOUL_ON_FLOOR,None,11:48,2,Lakers,Suns,32 - 30,0,N/A,N/A,N/A
+3,Jamal Crawford,FG_UNASSISTED,None,11:41,2,Suns,Lakers,32 - 32,1,20,2,Jumper
+4,Lance Stephenson,FG_UNASSISTED,None,11:26,2,Lakers,Suns,34 - 32,0,0,2,Layup
+5,Devin Booker,FOUL_ON_FLOOR,None,11:17,2,Suns,Lakers,34 - 32,1,N/A,N/A,N/A
+6,Devin Booker,TURNOVER,None,11:17,2,Suns,Lakers,34 - 32,1,N/A,N/A,N/A
+7,JaVale McGee,SUBSTITUTION,Williams Johnathan,11:17,2,Lakers,Suns,34 - 32,0,N/A,N/A,N/A
+8,Lance Stephenson,FG_UNASSISTED,None,10:59,2,Lakers,Suns,36 - 32,0, ,2,Jumper
+9,Jamal Crawford,TURNOVER,Lance Stephenson,10:37,2,Suns,Lakers,36 - 32,1,N/A,N/A,N/A
+10,Lance Stephenson,FG_UNASSISTED,None,10:33,2,Lakers,Suns,38 - 32,0, ,2,Jumper
+11,Team,Unknown,None,10:32,2,Suns,Lakers,38 - 32,1,N/A,N/A,N/A
+12,Trevor Ariza,SUBSTITUTION,Chandler Tyson,10:32,2,Suns,Lakers,38 - 32,1,N/A,N/A,N/A
+13,Ryan Anderson,SUBSTITUTION,Warren TJ,10:32,2,Suns,Lakers,38 - 32,1,N/A,N/A,N/A
+14,Deandre Ayton,SUBSTITUTION,Jackson Josh,10:32,2,Suns,Lakers,38 - 32,1,N/A,N/A,N/A
+15,Trevor Ariza,TURNOVER,JaVale McGee,10:15,2,Suns,Lakers,38 - 32,1,N/A,N/A,N/A
+16,LeBron James,FG_ASSISTED,Lance Stephenson,9:57,2,Lakers,Suns,40 - 32,0,14,2,Jumper
+17,Devin Booker,FG_MISS,None,9:40,2,Suns,Lakers,40 - 32,1,26,3,Jumper
+18,LeBron James,DEFENSIVE_REBOUND,None,9:37,2,Lakers,Suns,40 - 32,0,N/A,N/A,N/A
+19,Sviatoslav Mykhailiuk,FG_MISS,None,9:32,2,Lakers,Suns,40 - 32,0, ,2,Jumper
+20,Lance Stephenson,OFFENSIVE_REBOUND,None,9:31,2,Lakers,Suns,40 - 32,0,N/A,N/A,N/A
+21,Lance Stephenson,FG_UNASSISTED,None,9:30,2,Lakers,Suns,42 - 32,0, ,2,Jumper
+22,Deandre Ayton,FG_ASSISTED,Jamal Crawford,9:15,2,Suns,Lakers,42 - 34,1,0,2,Layup
+23,LeBron James,FG_MISS,None,8:52,2,Lakers,Suns,42 - 34,0, ,2,Jumper
+24,Deandre Ayton,DEFENSIVE_REBOUND,None,8:50,2,Suns,Lakers,42 - 34,1,N/A,N/A,N/A
+25,Ryan Anderson,FG_ASSISTED,Devin Booker,8:45,2,Suns,Lakers,42 - 37,1,26,3,Jumper
+26,Team,Unknown,None,8:43,2,Lakers,Suns,42 - 37,0,N/A,N/A,N/A
+27,Lonzo Ball,SUBSTITUTION,Stephenson Lance,8:43,2,Lakers,Suns,42 - 37,0,N/A,N/A,N/A
+28,Kyle Kuzma,SUBSTITUTION,Mykhailiuk Sviatoslav,8:43,2,Lakers,Suns,42 - 37,0,N/A,N/A,N/A
+29,Kentavious Caldwell-Pope,FG_MISS,None,8:26,2,Lakers,Suns,42 - 37,0,0,2,Layup
+30,Deandre Ayton,DEFENSIVE_REBOUND,None,8:25,2,Suns,Lakers,42 - 37,1,N/A,N/A,N/A
+31,Devin Booker,TURNOVER,LeBron James,8:10,2,Suns,Lakers,42 - 37,1,N/A,N/A,N/A
+32,Kentavious Caldwell-Pope,FG_MISS,None,8:06,2,Lakers,Suns,42 - 37,0, ,2,Jumper
+33,Kyle Kuzma,OFFENSIVE_REBOUND,None,8:02,2,Lakers,Suns,42 - 37,0,N/A,N/A,N/A
+34,Kyle Kuzma,FG_UNASSISTED,None,8:02,2,Lakers,Suns,44 - 37,0, ,2,Jumper
+35,Deandre Ayton,FG_ASSISTED,Jamal Crawford,7:53,2,Suns,Lakers,44 - 39,1, ,2,Jumper
+36,Devin Booker,FOUL_ON_FLOOR,None,7:43,2,Suns,Lakers,44 - 39,1,N/A,N/A,N/A
+37,Josh Hart,SUBSTITUTION,Caldwell-Pope Kentavious,7:43,2,Lakers,Suns,44 - 39,0,N/A,N/A,N/A
+38,Jamal Crawford,FOUL_ON_FLOOR,None,7:41,2,Suns,Lakers,44 - 39,1,N/A,N/A,N/A
+39,Isaiah Canaan,SUBSTITUTION,Booker Devin,7:41,2,Suns,Lakers,44 - 39,1,N/A,N/A,N/A
+40,Deandre Ayton,FOUL_ON_FLOOR,None,7:32,2,Suns,Lakers,44 - 39,1,N/A,N/A,N/A
+41,JaVale McGee,FT,None,7:32,2,Lakers,Suns,45 - 39,0,N/A,1,N/A
+42,JaVale McGee,FT,None,7:32,2,Lakers,Suns,46 - 39,0,N/A,1,N/A
+43,Isaiah Canaan,FG_UNASSISTED,None,7:09,2,Suns,Lakers,46 - 41,1,0,2,Layup
+44,JaVale McGee,FG_ASSISTED,Lonzo Ball,6:56,2,Lakers,Suns,48 - 41,0,0,2,Dunk
+45,Jamal Crawford,FG_MISS,None,6:35,2,Suns,Lakers,48 - 41,1,27,3,Jumper
+46,LeBron James,DEFENSIVE_REBOUND,None,6:32,2,Lakers,Suns,48 - 41,0,N/A,N/A,N/A
+47,Lonzo Ball,FG_ASSISTED,LeBron James,6:27,2,Lakers,Suns,51 - 41,0,26,3,Jumper
+48,Isaiah Canaan,FG_MISS,None,5:59,2,Suns,Lakers,51 - 41,1,23,3,Jumper
+49,Kyle Kuzma,DEFENSIVE_REBOUND,None,5:56,2,Lakers,Suns,51 - 41,0,N/A,N/A,N/A
+50,Kyle Kuzma,FG_MISS,None,5:52,2,Lakers,Suns,51 - 41,0, ,2,Jumper
+51,Isaiah Canaan,DEFENSIVE_REBOUND,None,5:51,2,Suns,Lakers,51 - 41,1,N/A,N/A,N/A
+52,Deandre Ayton,FG_ASSISTED,Ryan Anderson,5:45,2,Suns,Lakers,51 - 43,1,0,2,Layup
+53,Lonzo Ball,FG_ASSISTED,LeBron James,5:36,2,Lakers,Suns,53 - 43,0,0,2,Layup
+54,Isaiah Canaan,FOUL_ON_FLOOR,None,5:36,2,Suns,Lakers,53 - 43,1,N/A,N/A,N/A
+55,Tyson Chandler,SUBSTITUTION,Crawford Jamal,5:36,2,Suns,Lakers,53 - 43,1,N/A,N/A,N/A
+56,Devin Booker,SUBSTITUTION,Ayton Deandre,5:36,2,Suns,Lakers,53 - 43,1,N/A,N/A,N/A
+57,Lonzo Ball,FT,None,5:36,2,Lakers,Suns,54 - 43,0,N/A,1,N/A
+58,Isaiah Canaan,TURNOVER,Lonzo Ball,5:27,2,Suns,Lakers,54 - 43,1,N/A,N/A,N/A
+59,Lonzo Ball,FG_UNASSISTED,None,5:25,2,Lakers,Suns,56 - 43,0,0,2,Dunk
+60,Team,Unknown,None,5:25,2,Suns,Lakers,56 - 43,1,N/A,N/A,N/A
+61,Team,Unknown,None,5:25,2,Suns,Lakers,56 - 43,1,N/A,N/A,N/A
+62,Josh Hart,FOUL_ON_FLOOR,None,5:05,2,Lakers,Suns,56 - 43,0,N/A,N/A,N/A
+63,shot clock,TURNOVER,None,4:51,2,Suns,Lakers,56 - 43,1,N/A,N/A,N/A
+64,Josh Hart,FG_ASSISTED,LeBron James,4:41,2,Lakers,Suns,59 - 43,0,25,3,Jumper
+65,Devin Booker,FG_MISS,Kyle Kuzma,4:19,2,Lakers,Suns,59 - 43,1,7,2,Jumper
+66,JaVale McGee,DEFENSIVE_REBOUND,None,4:17,2,Lakers,Suns,59 - 43,0,N/A,N/A,N/A
+67,LeBron James,FG_ASSISTED,Lonzo Ball,4:11,2,Lakers,Suns,61 - 43,0, ,2,Jumper
+68,LeBron James,FOUL_ON_FLOOR,None,3:58,2,Lakers,Suns,61 - 43,0,N/A,N/A,N/A
+69,Josh Jackson,SUBSTITUTION,Canaan Isaiah,3:58,2,Suns,Lakers,61 - 43,1,N/A,N/A,N/A
+70,TJ Warren,SUBSTITUTION,Anderson Ryan,3:58,2,Suns,Lakers,61 - 43,1,N/A,N/A,N/A
+71,Kentavious Caldwell-Pope,SUBSTITUTION,James LeBron,3:58,2,Lakers,Suns,61 - 43,0,N/A,N/A,N/A
+72,TJ Warren,TURNOVER,Josh Hart,3:54,2,Suns,Lakers,61 - 43,1,N/A,N/A,N/A
+73,Josh Hart,FG_UNASSISTED,None,3:51,2,Lakers,Suns,63 - 43,0,0,2,Dunk
+74,Josh Jackson,TURNOVER,None,3:32,2,Suns,Lakers,63 - 43,1,N/A,N/A,N/A
+75,Josh Jackson,TURNOVER,None,3:32,2,Suns,Lakers,63 - 43,1,N/A,N/A,N/A
+76,Kyle Kuzma,FG_MISS,None,3:15,2,Lakers,Suns,63 - 43,0, ,2,Jumper
+77,Tyson Chandler,DEFENSIVE_REBOUND,None,3:13,2,Suns,Lakers,63 - 43,1,N/A,N/A,N/A
+78,Devin Booker,FG_ASSISTED,Trevor Ariza,3:09,2,Suns,Lakers,63 - 45,1, ,2,Jumper
+79,Josh Hart,FOUL_ON_FLOOR,None,3:09,2,Lakers,Suns,63 - 45,0,N/A,N/A,N/A
+80,Johnathan Williams,SUBSTITUTION,McGee JaVale,3:09,2,Lakers,Suns,63 - 43,0,N/A,N/A,N/A
+81,Devin Booker,FT,None,3:09,2,Suns,Lakers,63 - 44,1,N/A,1,N/A
+82,Devin Booker,FOUL_ON_FLOOR,None,2:58,2,Suns,Lakers,63 - 46,1,N/A,N/A,N/A
+83,Josh Hart,FT,None,2:58,2,Lakers,Suns,64 - 46,0,N/A,1,N/A
+84,Josh Hart,FT_MISS,None,2:58,2,Lakers,Suns,64 - 46,0,N/A,1,N/A
+85,Johnathan Williams,OFFENSIVE_REBOUND,None,2:54,2,Lakers,Suns,64 - 46,0,N/A,N/A,N/A
+86,Josh Hart,FG_MISS,None,2:52,2,Lakers,Suns,64 - 46,0,28,3,Jumper
+87,Josh Jackson,DEFENSIVE_REBOUND,None,2:50,2,Suns,Lakers,64 - 46,1,N/A,N/A,N/A
+88,Johnathan Williams,FOUL_ON_FLOOR,None,2:42,2,Lakers,Suns,64 - 46,0,N/A,N/A,N/A
+89,Devin Booker,FT,None,2:42,2,Suns,Lakers,64 - 47,1,N/A,1,N/A
+90,Deandre Ayton,SUBSTITUTION,Chandler Tyson,2:42,2,Suns,Lakers,64 - 47,1,N/A,N/A,N/A
+91,LeBron James,SUBSTITUTION,Hart Josh,2:42,2,Lakers,Suns,64 - 47,0,N/A,N/A,N/A
+92,Devin Booker,FT,None,2:42,2,Suns,Lakers,64 - 48,1,N/A,1,N/A
+93,Kentavious Caldwell-Pope,FG_ASSISTED,LeBron James,2:26,2,Lakers,Suns,66 - 48,0, ,2,Jumper
+94,Kentavious Caldwell-Pope,FOUL_ON_FLOOR,None,2:18,2,Lakers,Suns,66 - 48,0,N/A,N/A,N/A
+95,Devin Booker,FT_MISS,None,2:18,2,Suns,Lakers,66 - 48,1,N/A,1,N/A
+96,Team,OFFENSIVE_REBOUND,None,2:18,2,Suns,Lakers,66 - 48,1,N/A,N/A,N/A
+97,JaVale McGee,SUBSTITUTION,Williams Johnathan,2:18,2,Lakers,Suns,66 - 48,0,N/A,N/A,N/A
+98,Devin Booker,FT,None,2:18,2,Suns,Lakers,66 - 49,1,N/A,1,N/A
+99,LeBron James,FG_UNASSISTED,None,2:02,2,Lakers,Suns,68 - 49,0,0,2,Layup
+100,Josh Jackson,FG_ASSISTED,Devin Booker,1:51,2,Suns,Lakers,68 - 51,1,0,2,Layup
+101,Lonzo Ball,FG_MISS,None,1:33,2,Lakers,Suns,68 - 51,0,23,3,Jumper
+102,Team,OFFENSIVE_REBOUND,None,1:32,2,Lakers,Suns,68 - 51,0,N/A,N/A,N/A
+103,Trevor Ariza,FOUL_ON_FLOOR,None,1:32,2,Suns,Lakers,68 - 51,1,N/A,N/A,N/A
+104,LeBron James,FT,None,1:32,2,Lakers,Suns,69 - 51,0,N/A,1,N/A
+105,Josh Hart,SUBSTITUTION,Ball Lonzo,1:32,2,Lakers,Suns,69 - 51,0,N/A,N/A,N/A
+106,LeBron James,FT,None,1:32,2,Lakers,Suns,70 - 51,0,N/A,1,N/A
+107,Trevor Ariza,FG_ASSISTED,Devin Booker,1:21,2,Suns,Lakers,70 - 54,1,24,3,Jumper
+108,Kyle Kuzma,FG_ASSISTED,LeBron James,1:07,2,Lakers,Suns,72 - 54,0,0,2,Layup
+109,Devin Booker,FG_MISS,None,53.3,2,Suns,Lakers,72 - 54,1, ,2,Jumper
+110,Deandre Ayton,OFFENSIVE_REBOUND,None,51.4,2,Suns,Lakers,72 - 54,1,N/A,N/A,N/A
+111,Josh Jackson,FG_MISS,None,44.5,2,Suns,Lakers,72 - 54,1,23,3,Jumper
+112,Kyle Kuzma,DEFENSIVE_REBOUND,None,41.1,2,Lakers,Suns,72 - 54,0,N/A,N/A,N/A
+113,JaVale McGee,FG_ASSISTED,LeBron James,36.3,2,Lakers,Suns,74 - 54,0,0,2,Dunk
+114,Deandre Ayton,FG_MISS,None,15.1,2,Suns,Lakers,74 - 54,1,13,2,Jumper
+115,Kyle Kuzma,DEFENSIVE_REBOUND,None,12.5,2,Lakers,Suns,74 - 54,0,N/A,N/A,N/A
+116,LeBron James,FG_UNASSISTED,None,2.4,2,Lakers,Suns,76 - 54,0,0,2,Layup
+117,Josh Jackson,TURNOVER,LeBron James,1.9,2,Suns,Lakers,76 - 54,1,N/A,N/A,N/A
+118,LeBron James,FG_MISS,None,0.9,2,Lakers,Suns,76 - 54,0,33,3,Jumper
+119,Team,OFFENSIVE_REBOUND,None,0.9,2,Lakers,Suns,76 - 54,0,N/A,N/A,N/A
+120,End of,Unknown,None,0.0,2,Suns,Lakers,76 - 54,1,N/A,N/A,N/A
+0,Ryan Anderson,SUBSTITUTION,Warren TJ,12:00,3,Suns,Lakers,76 - 54,1,N/A,N/A,N/A
+1,Isaiah Canaan,SUBSTITUTION,Jackson Josh,12:00,3,Suns,Lakers,76 - 54,1,N/A,N/A,N/A
+2,Lonzo Ball,SUBSTITUTION,Caldwell-Pope Kentavious,12:00,3,Lakers,Suns,76 - 54,0,N/A,N/A,N/A
+3,foul 76,FOUL_ON_FLOOR,None,11:45,3,Suns,Lakers,76 - 54,1,N/A,N/A,N/A
+4,Josh Hart,FOUL_ON_FLOOR,None,11:45,3,Lakers,Suns,76 - 54,0,N/A,N/A,N/A
+5,Deandre Ayton,FG_MISS,None,11:33,3,Suns,Lakers,76 - 54,1,5,2,Jumper
+6,Lonzo Ball,DEFENSIVE_REBOUND,None,11:30,3,Lakers,Suns,76 - 54,0,N/A,N/A,N/A
+7,Kyle Kuzma,FG_ASSISTED,JaVale McGee,11:14,3,Lakers,Suns,78 - 54,0,0,2,Layup
+8,Devin Booker,FG_MISS,None,11:03,3,Suns,Lakers,78 - 54,1,26,3,Jumper
+9,JaVale McGee,DEFENSIVE_REBOUND,None,11:01,3,Lakers,Suns,78 - 54,0,N/A,N/A,N/A
+10,LeBron James,FG_MISS,None,10:51,3,Lakers,Suns,78 - 54,0,26,3,Jumper
+11,Devin Booker,DEFENSIVE_REBOUND,None,10:49,3,Suns,Lakers,78 - 54,1,N/A,N/A,N/A
+12,Devin Booker,FG_ASSISTED,Trevor Ariza,10:42,3,Suns,Lakers,78 - 56,1, ,2,Jumper
+13,Josh Hart,FG_MISS,None,10:34,3,Lakers,Suns,78 - 56,0, ,2,Jumper
+14,JaVale McGee,OFFENSIVE_REBOUND,None,10:31,3,Lakers,Suns,78 - 56,0,N/A,N/A,N/A
+15,Kyle Kuzma,FG_MISS,None,10:21,3,Lakers,Suns,78 - 56,0,9,2,Jumper
+16,Deandre Ayton,DEFENSIVE_REBOUND,None,10:19,3,Suns,Lakers,78 - 56,1,N/A,N/A,N/A
+17,Devin Booker,TURNOVER,LeBron James,10:07,3,Suns,Lakers,78 - 56,1,N/A,N/A,N/A
+18,Kyle Kuzma,FG_ASSISTED,Lonzo Ball,10:03,3,Lakers,Suns,80 - 56,0,0,2,Dunk
+19,Isaiah Canaan,FG_MISS,None,9:40,3,Suns,Lakers,80 - 56,1, ,2,Jumper
+20,JaVale McGee,DEFENSIVE_REBOUND,None,9:38,3,Lakers,Suns,80 - 56,0,N/A,N/A,N/A
+21,JaVale McGee,FG_MISS,None,9:26,3,Lakers,Suns,80 - 56,0,26,3,Jumper
+22,Ryan Anderson,DEFENSIVE_REBOUND,None,9:24,3,Suns,Lakers,80 - 56,1,N/A,N/A,N/A
+23,Ryan Anderson,FG_UNASSISTED,None,9:14,3,Suns,Lakers,80 - 58,1,20,2,Jumper
+24,JaVale McGee,FG_ASSISTED,Kyle Kuzma,8:55,3,Lakers,Suns,82 - 58,0, ,2,Jumper
+25,Devin Booker,FG_UNASSISTED,None,8:48,3,Suns,Lakers,82 - 60,1, ,2,Jumper
+26,Kyle Kuzma,FG_MISS,None,8:40,3,Lakers,Suns,82 - 60,0,25,3,Jumper
+27,Ryan Anderson,DEFENSIVE_REBOUND,None,8:37,3,Suns,Lakers,82 - 60,1,N/A,N/A,N/A
+28,Josh Hart,FOUL_ON_FLOOR,None,8:32,3,Lakers,Suns,82 - 60,0,N/A,N/A,N/A
+29,Devin Booker,FT_MISS,None,8:32,3,Suns,Lakers,82 - 60,1,N/A,1,N/A
+30,Team,OFFENSIVE_REBOUND,None,8:32,3,Suns,Lakers,82 - 60,1,N/A,N/A,N/A
+31,Johnathan Williams,SUBSTITUTION,McGee JaVale,8:32,3,Lakers,Suns,82 - 60,0,N/A,N/A,N/A
+32,Devin Booker,FT,None,8:32,3,Suns,Lakers,82 - 61,1,N/A,1,N/A
+33,Josh Hart,FG_ASSISTED,Johnathan Williams,8:22,3,Lakers,Suns,85 - 61,0,26,3,Jumper
+34,Devin Booker,TURNOVER,Lonzo Ball,8:05,3,Suns,Lakers,85 - 61,1,N/A,N/A,N/A
+35,Isaiah Canaan,FOUL_ON_FLOOR,None,8:04,3,Suns,Lakers,85 - 61,1,N/A,N/A,N/A
+36,Kentavious Caldwell-Pope,SUBSTITUTION,Hart Josh,8:04,3,Lakers,Suns,85 - 61,0,N/A,N/A,N/A
+37,LeBron James,FG_MISS,None,7:48,3,Lakers,Suns,85 - 61,0,0,2,Layup
+38,Deandre Ayton,DEFENSIVE_REBOUND,None,7:46,3,Suns,Lakers,85 - 61,1,N/A,N/A,N/A
+39,Ryan Anderson,FG_UNASSISTED,None,7:39,3,Suns,Lakers,85 - 63,1,21,2,Jumper
+40,Kyle Kuzma's,FG_MISS,Deandre Ayton,7:28,3,Suns,Lakers,85 - 63,0,0,2,Layup
+41,Team,OFFENSIVE_REBOUND,None,7:28,3,Lakers,Suns,85 - 63,0,N/A,N/A,N/A
+42,Johnathan Williams's,FG_MISS,Deandre Ayton,7:18,3,Suns,Lakers,85 - 63,0,0,2,Layup
+43,Devin Booker,DEFENSIVE_REBOUND,None,7:15,3,Suns,Lakers,85 - 63,1,N/A,N/A,N/A
+44,Ryan Anderson,FG_UNASSISTED,None,7:02,3,Suns,Lakers,85 - 65,1,0,2,Dunk
+45,Team,Unknown,None,7:02,3,Lakers,Suns,85 - 65,0,N/A,N/A,N/A
+46,Kentavious Caldwell-Pope,FG_ASSISTED,LeBron James,6:41,3,Lakers,Suns,87 - 65,0,0,2,Layup
+47,Deandre Ayton,FG_ASSISTED,Devin Booker,6:20,3,Suns,Lakers,87 - 67,1,3,2,Jumper
+48,LeBron James,FG_MISS,None,6:07,3,Lakers,Suns,87 - 67,0,16,2,Jumper
+49,Johnathan Williams,OFFENSIVE_REBOUND,None,6:04,3,Lakers,Suns,87 - 67,0,N/A,N/A,N/A
+50,Johnathan Williams,FG_UNASSISTED,None,6:04,3,Lakers,Suns,89 - 67,0, ,2,Jumper
+51,Isaiah Canaan,FG_MISS,None,5:45,3,Suns,Lakers,89 - 67,1, ,3,Jumper
+52,Lonzo Ball,DEFENSIVE_REBOUND,None,5:41,3,Lakers,Suns,89 - 67,0,N/A,N/A,N/A
+53,Kentavious Caldwell-Pope,FG_ASSISTED,Lonzo Ball,5:38,3,Lakers,Suns,91 - 67,0,0,2,Dunk
+54,Team,Unknown,None,5:38,3,Suns,Lakers,89 - 67,1,N/A,N/A,N/A
+55,Josh Jackson,SUBSTITUTION,Canaan Isaiah,5:38,3,Suns,Lakers,91 - 67,1,N/A,N/A,N/A
+56,Devin Booker,FG_ASSISTED,Deandre Ayton,5:23,3,Suns,Lakers,91 - 70,1,25,3,Jumper
+57,Deandre Ayton,FOUL_ON_FLOOR,None,5:08,3,Suns,Lakers,91 - 70,1,N/A,N/A,N/A
+58,Johnathan Williams,FT_MISS,None,5:08,3,Lakers,Suns,91 - 70,0,N/A,1,N/A
+59,TJ Warren,SUBSTITUTION,Anderson Ryan,5:08,3,Suns,Lakers,91 - 70,1,N/A,N/A,N/A
+60,Team,OFFENSIVE_REBOUND,None,5:08,3,Lakers,Suns,91 - 70,0,N/A,N/A,N/A
+61,Johnathan Williams,FT,None,5:08,3,Lakers,Suns,92 - 70,0,N/A,1,N/A
+62,TJ Warren,FG_ASSISTED,Deandre Ayton,4:50,3,Suns,Lakers,92 - 72,1,0,2,Layup
+63,LeBron James,FG_MISS,None,4:25,3,Lakers,Suns,92 - 72,0,26,2,Jumper
+64,Devin Booker,DEFENSIVE_REBOUND,None,4:22,3,Suns,Lakers,92 - 72,1,N/A,N/A,N/A
+65,Trevor Ariza,FG_MISS,None,4:17,3,Suns,Lakers,92 - 72,1,25,3,Jumper
+66,TJ Warren,OFFENSIVE_REBOUND,None,4:14,3,Suns,Lakers,92 - 72,1,N/A,N/A,N/A
+67,TJ Warren,FG_MISS,None,4:13,3,Suns,Lakers,92 - 72,1,4,2,Jumper
+68,LeBron James,DEFENSIVE_REBOUND,None,4:11,3,Lakers,Suns,92 - 72,0,N/A,N/A,N/A
+69,Kyle Kuzma,FG_ASSISTED,LeBron James,4:04,3,Lakers,Suns,94 - 72,0,9,2,Jumper
+70,TJ Warren,FG_ASSISTED,Devin Booker,3:45,3,Suns,Lakers,94 - 75,1,24,3,Jumper
+71,Lonzo Ball,FG_MISS,None,3:31,3,Lakers,Suns,94 - 75,0,20,2,Jumper
+72,Devin Booker,DEFENSIVE_REBOUND,None,3:29,3,Suns,Lakers,94 - 75,1,N/A,N/A,N/A
+73,Trevor Ariza,FG_ASSISTED,Devin Booker,3:22,3,Suns,Lakers,94 - 78,1,25,3,Jumper
+74,LeBron James,FG_UNASSISTED,None,2:58,3,Lakers,Suns,96 - 78,0,17,2,Jumper
+75,Devin Booker,FG_MISS,None,2:35,3,Suns,Lakers,96 - 78,1,25,3,Jumper
+76,Lonzo Ball,DEFENSIVE_REBOUND,None,2:31,3,Lakers,Suns,96 - 78,0,N/A,N/A,N/A
+77,Kyle Kuzma,FG_ASSISTED,LeBron James,2:24,3,Lakers,Suns,98 - 78,0,0,2,Layup
+78,Deandre Ayton,FOUL_ON_FLOOR,None,2:24,3,Suns,Lakers,98 - 78,1,N/A,N/A,N/A
+79,Tyson Chandler,SUBSTITUTION,Ayton Deandre,2:24,3,Suns,Lakers,98 - 78,1,N/A,N/A,N/A
+80,JaVale McGee,SUBSTITUTION,Williams Johnathan,2:24,3,Lakers,Suns,98 - 78,0,N/A,N/A,N/A
+81,Sviatoslav Mykhailiuk,SUBSTITUTION,James LeBron,2:24,3,Lakers,Suns,98 - 78,0,N/A,N/A,N/A
+82,Kyle Kuzma,FT,None,2:24,3,Lakers,Suns,99 - 78,0,N/A,1,N/A
+83,TJ Warren,FG_MISS,None,2:07,3,Suns,Lakers,99 - 78,1,4,2,Jumper
+84,Trevor Ariza,OFFENSIVE_REBOUND,None,2:05,3,Suns,Lakers,99 - 78,1,N/A,N/A,N/A
+85,Trevor Ariza,FG_UNASSISTED,None,2:04,3,Suns,Lakers,99 - 80,1,0,2,Layup
+86,Kyle Kuzma,FOUL_ON_FLOOR,None,2:04,3,Lakers,Suns,99 - 80,0,N/A,N/A,N/A
+87,Lance Stephenson,SUBSTITUTION,Kuzma Kyle,2:04,3,Lakers,Suns,99 - 80,0,N/A,N/A,N/A
+88,Kentavious Caldwell-Pope,Unknown,None,2:04,3,Lakers,Suns,99 - 80,0,N/A,N/A,N/A
+89,Trevor Ariza,FT,None,2:04,3,Suns,Lakers,99 - 81,1,N/A,1,N/A
+90,Tyson Chandler,FOUL_ON_FLOOR,None,1:56,3,Suns,Lakers,99 - 81,1,N/A,N/A,N/A
+91,JaVale McGee,FT_MISS,None,1:56,3,Lakers,Suns,99 - 81,0,N/A,1,N/A
+92,Team,OFFENSIVE_REBOUND,None,1:56,3,Lakers,Suns,99 - 81,0,N/A,N/A,N/A
+93,Mikal Bridges,SUBSTITUTION,Ariza Trevor,1:56,3,Suns,Lakers,99 - 81,1,N/A,N/A,N/A
+94,JaVale McGee,FT_MISS,None,1:56,3,Lakers,Suns,99 - 81,0,N/A,1,N/A
+95,Tyson Chandler,DEFENSIVE_REBOUND,None,1:53,3,Suns,Lakers,99 - 81,1,N/A,N/A,N/A
+96,Tyson Chandler,FOUL_ON_FLOOR,None,1:41,3,Suns,Lakers,99 - 81,1,N/A,N/A,N/A
+97,Tyson Chandler,TURNOVER,None,1:41,3,Suns,Lakers,99 - 81,1,N/A,N/A,N/A
+98,Jamal Crawford,SUBSTITUTION,Booker Devin,1:41,3,Suns,Lakers,99 - 81,1,N/A,N/A,N/A
+99,Lonzo Ball,FG_UNASSISTED,None,1:29,3,Lakers,Suns,101 - 81,0,0,2,Layup
+100,Josh Jackson,FG_ASSISTED,TJ Warren,1:12,3,Suns,Lakers,101 - 84,1,26,3,Jumper
+101,Lance Stephenson,FG_MISS,Tyson Chandler,58.9,3,Suns,Lakers,101 - 84,0,4,2,Jumper
+102,Team,OFFENSIVE_REBOUND,None,58.5,3,Lakers,Suns,101 - 84,0,N/A,N/A,N/A
+103,Josh Jackson,FOUL_ON_FLOOR,None,58.5,3,Suns,Lakers,101 - 84,1,N/A,N/A,N/A
+104,JaVale McGee,FT,None,58.5,3,Lakers,Suns,102 - 84,0,N/A,1,N/A
+105,JaVale McGee,FT_MISS,None,58.5,3,Lakers,Suns,102 - 84,0,N/A,1,N/A
+106,Tyson Chandler,DEFENSIVE_REBOUND,None,56.7,3,Suns,Lakers,102 - 84,1,N/A,N/A,N/A
+107,TJ Warren,FG_MISS,None,46.4,3,Suns,Lakers,102 - 84,1,19,2,Jumper
+108,Lance Stephenson,DEFENSIVE_REBOUND,None,43.9,3,Lakers,Suns,102 - 84,0,N/A,N/A,N/A
+109,TJ Warren,FOUL_ON_FLOOR,None,37.8,3,Suns,Lakers,102 - 84,1,N/A,N/A,N/A
+110,Lance Stephenson,FT,None,37.8,3,Lakers,Suns,103 - 84,0,N/A,1,N/A
+111,Lance Stephenson,FT,None,37.8,3,Lakers,Suns,104 - 84,0,N/A,1,N/A
+112,Tyson Chandler,FG_ASSISTED,Mikal Bridges,30.3,3,Suns,Lakers,104 - 86,1,0,2,Dunk
+113,JaVale McGee,FG_MISS,None,5.8,3,Lakers,Suns,104 - 86,0, ,2,Jumper
+114,JaVale McGee,OFFENSIVE_REBOUND,None,4.2,3,Lakers,Suns,104 - 86,0,N/A,N/A,N/A
+115,JaVale McGee,FG_UNASSISTED,None,3.8,3,Lakers,Suns,106 - 86,0, ,2,Jumper
+116,Jamal Crawford,FG_MISS,None,0.3,3,Suns,Lakers,106 - 86,1, ,2,Jumper
+117,Team,OFFENSIVE_REBOUND,None,0.1,3,Suns,Lakers,106 - 86,1,N/A,N/A,N/A
+118,End of,Unknown,None,0.0,3,Suns,Lakers,106 - 86,1,N/A,N/A,N/A
+0,Josh Hart,SUBSTITUTION,Ball Lonzo,12:00,4,Lakers,Suns,106 - 86,0,N/A,N/A,N/A
+1,Sviatoslav Mykhailiuk,FG_ASSISTED,JaVale McGee,11:49,4,Lakers,Suns,109 - 86,0,25,3,Jumper
+2,Josh Jackson,FG_MISS,None,11:19,4,Suns,Lakers,109 - 86,1,28,2,Jumper
+3,Lance Stephenson,DEFENSIVE_REBOUND,None,11:16,4,Lakers,Suns,109 - 86,0,N/A,N/A,N/A
+4,JaVale McGee,FG_MISS,None,11:10,4,Lakers,Suns,109 - 86,0,0,2,Layup
+5,Tyson Chandler,DEFENSIVE_REBOUND,None,11:06,4,Suns,Lakers,109 - 86,1,N/A,N/A,N/A
+6,Tyson Chandler,FG_ASSISTED,Jamal Crawford,10:57,4,Suns,Lakers,109 - 88,1,0,2,Layup
+7,Lance Stephenson,FG_UNASSISTED,None,10:35,4,Lakers,Suns,111 - 88,0, ,2,Jumper
+8,Lance Stephenson,FOUL_ON_FLOOR,None,10:17,4,Lakers,Suns,111 - 88,0,N/A,N/A,N/A
+9,Tyson Chandler,FT_MISS,None,10:17,4,Suns,Lakers,111 - 88,1,N/A,1,N/A
+10,Team,OFFENSIVE_REBOUND,None,10:17,4,Suns,Lakers,111 - 88,1,N/A,N/A,N/A
+11,Johnathan Williams,SUBSTITUTION,McGee JaVale,10:17,4,Lakers,Suns,111 - 88,0,N/A,N/A,N/A
+12,Tyson Chandler,FT,None,10:17,4,Suns,Lakers,111 - 89,1,N/A,1,N/A
+13,Josh Jackson,FOUL_ON_FLOOR,None,10:11,4,Suns,Lakers,111 - 89,1,N/A,N/A,N/A
+14,Lance Stephenson,TURNOVER,Josh Jackson,10:07,4,Lakers,Suns,111 - 89,0,N/A,N/A,N/A
+15,Josh Jackson,TURNOVER,Sviatoslav Mykhailiuk,10:05,4,Suns,Lakers,111 - 89,1,N/A,N/A,N/A
+16,Lance Stephenson,FG_ASSISTED,Sviatoslav Mykhailiuk,10:01,4,Lakers,Suns,113 - 89,0,0,2,Dunk
+17,Tyson Chandler,FG_ASSISTED,Josh Jackson,9:45,4,Suns,Lakers,113 - 91,1,0,2,Dunk
+18,Josh Jackson,FOUL_ON_FLOOR,None,9:36,4,Suns,Lakers,113 - 91,1,N/A,N/A,N/A
+19,Johnathan Williams,FG_ASSISTED,Lance Stephenson,9:21,4,Lakers,Suns,115 - 91,0,15,2,Jumper
+20,Josh Jackson,FG_MISS,None,9:01,4,Suns,Lakers,115 - 91,1, ,3,Jumper
+21,Johnathan Williams,DEFENSIVE_REBOUND,None,8:59,4,Lakers,Suns,115 - 91,0,N/A,N/A,N/A
+22,Kentavious Caldwell-Pope,FG_MISS,None,8:54,4,Lakers,Suns,115 - 91,0,25,3,Jumper
+23,Josh Hart,OFFENSIVE_REBOUND,None,8:50,4,Lakers,Suns,115 - 91,0,N/A,N/A,N/A
+24,Lance Stephenson,FG_ASSISTED,Josh Hart,8:46,4,Lakers,Suns,117 - 91,0,0,2,Layup
+25,Team,Unknown,None,8:46,4,Suns,Lakers,117 - 91,1,N/A,N/A,N/A
+26,Trevor Ariza,SUBSTITUTION,Chandler Tyson,8:46,4,Suns,Lakers,117 - 91,1,N/A,N/A,N/A
+27,Isaiah Canaan,SUBSTITUTION,Crawford Jamal,8:46,4,Suns,Lakers,117 - 91,1,N/A,N/A,N/A
+28,Deandre Ayton,SUBSTITUTION,Jackson Josh,8:46,4,Suns,Lakers,117 - 91,1,N/A,N/A,N/A
+29,TJ Warren,FG_MISS,None,8:33,4,Suns,Lakers,117 - 91,1,25,3,Jumper
+30,Kentavious Caldwell-Pope,DEFENSIVE_REBOUND,None,8:31,4,Lakers,Suns,117 - 91,0,N/A,N/A,N/A
+31,Lance Stephenson,FOUL_ON_FLOOR,None,8:16,4,Lakers,Suns,117 - 91,0,N/A,N/A,N/A
+32,Lance Stephenson,TURNOVER,None,8:16,4,Lakers,Suns,117 - 91,0,N/A,N/A,N/A
+33,Deandre Ayton,FG_ASSISTED,Trevor Ariza,7:57,4,Suns,Lakers,117 - 93,1,0,2,Dunk
+34,Lance Stephenson,TURNOVER,None,7:44,4,Lakers,Suns,117 - 93,0,N/A,N/A,N/A
+35,Trevor Ariza,TURNOVER,None,7:34,4,Suns,Lakers,117 - 93,1,N/A,N/A,N/A
+36,Kentavious Caldwell-Pope,FG_MISS,None,7:29,4,Lakers,Suns,117 - 93,0,26,3,Jumper
+37,Isaiah Canaan,DEFENSIVE_REBOUND,None,7:26,4,Suns,Lakers,117 - 93,1,N/A,N/A,N/A
+38,TJ Warren,TURNOVER,Lance Stephenson,7:21,4,Suns,Lakers,117 - 93,1,N/A,N/A,N/A
+39,Team,Unknown,None,7:18,4,Lakers,Suns,117 - 93,0,N/A,N/A,N/A
+40,Kentavious Caldwell-Pope,FG_MISS,None,7:09,4,Lakers,Suns,117 - 93,0,9,2,Jumper
+41,Deandre Ayton,DEFENSIVE_REBOUND,None,7:07,4,Suns,Lakers,117 - 93,1,N/A,N/A,N/A
+42,Isaiah Canaan,FG_MISS,None,6:46,4,Suns,Lakers,117 - 93,1,25,3,Jumper
+43,Deandre Ayton,OFFENSIVE_REBOUND,None,6:41,4,Suns,Lakers,117 - 93,1,N/A,N/A,N/A
+44,Deandre Ayton,FG_UNASSISTED,None,6:41,4,Suns,Lakers,117 - 95,1, ,2,Jumper
+45,Sviatoslav Mykhailiuk,FG_MISS,None,6:22,4,Lakers,Suns,117 - 95,0,22,2,Jumper
+46,Johnathan Williams,OFFENSIVE_REBOUND,None,6:17,4,Lakers,Suns,117 - 95,0,N/A,N/A,N/A
+47,Sviatoslav Mykhailiuk,FG_MISS,None,6:14,4,Lakers,Suns,117 - 95,0,6,2,Jumper
+48,Deandre Ayton,DEFENSIVE_REBOUND,None,6:14,4,Suns,Lakers,117 - 95,1,N/A,N/A,N/A
+49,Isaiah Canaan,TURNOVER,Josh Hart,5:56,4,Suns,Lakers,117 - 95,1,N/A,N/A,N/A
+50,Kentavious Caldwell-Pope,FG_ASSISTED,Josh Hart,5:52,4,Lakers,Suns,119 - 95,0,0,2,Dunk
+51,Mikal Bridges,FG_MISS,None,5:31,4,Suns,Lakers,119 - 95,1, ,3,Jumper
+52,Lance Stephenson,DEFENSIVE_REBOUND,None,5:28,4,Lakers,Suns,119 - 95,0,N/A,N/A,N/A
+53,Josh Hart,FG_UNASSISTED,None,5:20,4,Lakers,Suns,122 - 95,0, ,3,Jumper
+54,Trevor Ariza,FG_MISS,None,5:09,4,Suns,Lakers,122 - 95,1,25,3,Jumper
+55,Lance Stephenson,DEFENSIVE_REBOUND,None,5:07,4,Lakers,Suns,122 - 95,0,N/A,N/A,N/A
+56,Josh Hart,TURNOVER,Mikal Bridges,4:59,4,Lakers,Suns,122 - 95,0,N/A,N/A,N/A
+57,Deandre Ayton,FG_UNASSISTED,None,4:46,4,Suns,Lakers,122 - 97,1, ,2,Jumper
+58,Johnathan Williams,FOUL_ON_FLOOR,None,4:46,4,Lakers,Suns,122 - 97,0,N/A,N/A,N/A
+59,Josh Jackson,SUBSTITUTION,Ariza Trevor,4:46,4,Suns,Lakers,122 - 97,1,N/A,N/A,N/A
+60,Lonzo Ball,SUBSTITUTION,Hart Josh,4:46,4,Lakers,Suns,122 - 97,0,N/A,N/A,N/A
+61,Deandre Ayton,FT_MISS,None,4:46,4,Suns,Lakers,122 - 97,1,N/A,1,N/A
+62,Johnathan Williams,DEFENSIVE_REBOUND,None,4:46,4,Lakers,Suns,122 - 97,0,N/A,N/A,N/A
+63,Sviatoslav Mykhailiuk,FG_MISS,Deandre Ayton,4:32,4,Suns,Lakers,122 - 97,0,4,2,Jumper
+64,Deandre Ayton,DEFENSIVE_REBOUND,None,4:29,4,Suns,Lakers,122 - 97,1,N/A,N/A,N/A
+65,TJ Warren,FG_ASSISTED,Isaiah Canaan,4:27,4,Suns,Lakers,122 - 99,1,0,2,Dunk
+66,Johnathan Williams,FG_ASSISTED,Kentavious Caldwell-Pope,4:11,4,Lakers,Suns,124 - 99,0, ,2,Jumper
+67,Deandre Ayton,FG_ASSISTED,Josh Jackson,3:51,4,Suns,Lakers,124 - 101,1,1,2,Jumper
+68,Kentavious Caldwell-Pope,FG_MISS,None,3:24,4,Lakers,Suns,124 - 101,0,26,3,Jumper
+69,TJ Warren,DEFENSIVE_REBOUND,None,3:21,4,Suns,Lakers,124 - 101,1,N/A,N/A,N/A
+70,Deandre Ayton,FG_ASSISTED,Josh Jackson,3:11,4,Suns,Lakers,124 - 103,1,7,2,Jumper
+71,Lance Stephenson,FG_MISS,None,2:59,4,Lakers,Suns,124 - 103,0,25,2,Jumper
+72,Lonzo Ball,OFFENSIVE_REBOUND,None,2:56,4,Lakers,Suns,124 - 103,0,N/A,N/A,N/A
+73,Lance Stephenson,FG_UNASSISTED,None,2:49,4,Lakers,Suns,127 - 103,0,24,3,Jumper
+74,Johnathan Williams,FOUL_ON_FLOOR,None,2:20,4,Lakers,Suns,127 - 103,0,N/A,N/A,N/A
+75,TJ Warren,FT,None,2:20,4,Suns,Lakers,127 - 104,1,N/A,1,N/A
+76,Richaun Holmes,SUBSTITUTION,Ayton Deandre,2:20,4,Suns,Lakers,127 - 104,1,N/A,N/A,N/A
+77,Ivica Zubac,SUBSTITUTION,Williams Johnathan,2:20,4,Lakers,Suns,127 - 104,0,N/A,N/A,N/A
+78,TJ Warren,FT,None,2:20,4,Suns,Lakers,127 - 105,1,N/A,1,N/A
+79,Sviatoslav Mykhailiuk,FG_MISS,None,2:07,4,Lakers,Suns,127 - 105,0,26,3,Jumper
+80,Isaiah Canaan,DEFENSIVE_REBOUND,None,2:04,4,Suns,Lakers,127 - 105,1,N/A,N/A,N/A
+81,Isaiah Canaan,TURNOVER,Kentavious Caldwell-Pope,1:59,4,Suns,Lakers,127 - 105,1,N/A,N/A,N/A
+82,Lonzo Ball,FG_ASSISTED,Lance Stephenson,1:55,4,Lakers,Suns,129 - 105,0,0,2,Dunk
+83,Josh Jackson,TURNOVER,None,1:42,4,Suns,Lakers,129 - 105,1,N/A,N/A,N/A
+84,Kentavious Caldwell-Pope,TURNOVER,Mikal Bridges,1:29,4,Lakers,Suns,129 - 105,0,N/A,N/A,N/A
+85,Mikal Bridges,FG_UNASSISTED,None,1:28,4,Suns,Lakers,129 - 107,1,0,2,Dunk
+86,Sviatoslav Mykhailiuk,TURNOVER,Richaun Holmes,1:11,4,Lakers,Suns,129 - 107,0,N/A,N/A,N/A
+87,Kentavious Caldwell-Pope,FOUL_ON_FLOOR,None,1:08,4,Lakers,Suns,129 - 107,0,N/A,N/A,N/A
+88,TJ Warren,FT,None,1:08,4,Suns,Lakers,129 - 108,1,N/A,1,N/A
+89,TJ Warren,FT_MISS,None,1:08,4,Suns,Lakers,129 - 108,1,N/A,1,N/A
+90,Ivica Zubac,DEFENSIVE_REBOUND,None,1:06,4,Lakers,Suns,129 - 108,0,N/A,N/A,N/A
+91,Lance Stephenson,FG_MISS,None,44.6,4,Lakers,Suns,129 - 108,0,14,2,Jumper
+92,Ivica Zubac,OFFENSIVE_REBOUND,None,42.3,4,Lakers,Suns,129 - 108,0,N/A,N/A,N/A
+93,Ivica Zubac's,FG_MISS,Richaun Holmes,40.8,4,Suns,Lakers,129 - 108,0,1,2,Jumper
+94,Isaiah Canaan,DEFENSIVE_REBOUND,None,40.8,4,Suns,Lakers,129 - 108,1,N/A,N/A,N/A
+95,Josh Jackson,FG_ASSISTED,Isaiah Canaan,34.4,4,Suns,Lakers,129 - 110,1,0,2,Dunk
+96,Kentavious Caldwell-Pope,FG_ASSISTED,Ivica Zubac,17.4,4,Lakers,Suns,131 - 110,0,0,2,Layup
+97,Josh Jackson,FG_UNASSISTED,None,8.2,4,Suns,Lakers,131 - 113,1,25,3,Jumper
+98,End of,Unknown,None,0.0,4,Suns,Lakers,131 - 113,1,N/A,N/A,N/A
+99,End of,Unknown,None,0.0,4,Suns,Lakers,131 - 113,1,N/A,N/A,N/A

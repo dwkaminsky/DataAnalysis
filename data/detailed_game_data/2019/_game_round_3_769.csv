@@ -1,0 +1,456 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Serge Ibaka,JUMP_BALL,None,12:00,1,Raptors,Spurs,0 - 0,0,N/A,N/A,N/A
+1,Kawhi Leonard,FG_UNASSISTED,None,11:47,1,Raptors,Spurs,2 - 0,0,0,2,Layup
+2,Derrick White,FOUL_ON_FLOOR,None,11:47,1,Spurs,Raptors,2 - 0,1,N/A,N/A,N/A
+3,Kawhi Leonard,FT_MISS,None,11:47,1,Raptors,Spurs,2 - 0,0,N/A,1,N/A
+4,DeMar DeRozan,DEFENSIVE_REBOUND,None,11:45,1,Spurs,Raptors,2 - 0,1,N/A,N/A,N/A
+5,DeMar DeRozan,FG_MISS,None,11:29,1,Spurs,Raptors,2 - 0,1,-,2,Jumper
+6,Pascal Siakam,DEFENSIVE_REBOUND,None,11:25,1,Raptors,Spurs,2 - 0,0,N/A,N/A,N/A
+7,Pascal Siakam,FG_MISS,None,11:21,1,Raptors,Spurs,2 - 0,0,-,2,Jumper
+8,DeMar DeRozan,DEFENSIVE_REBOUND,None,11:19,1,Spurs,Raptors,2 - 0,1,N/A,N/A,N/A
+9,DeMar DeRozan's,FG_MISS,Danny Green,11:12,1,Raptors,Spurs,2 - 0,1,0,2,Layup
+10,DeMar DeRozan,OFFENSIVE_REBOUND,None,11:10,1,Spurs,Raptors,2 - 0,1,N/A,N/A,N/A
+11,Bryn Forbes,FG_ASSISTED,Derrick White,11:05,1,Spurs,Raptors,2 - 3,1,25,3,Jumper
+12,Serge Ibaka,FG_MISS,None,10:48,1,Raptors,Spurs,2 - 3,0,25,3,Jumper
+13,LaMarcus Aldridge,DEFENSIVE_REBOUND,None,10:45,1,Spurs,Raptors,2 - 3,1,N/A,N/A,N/A
+14,Serge Ibaka,FOUL_ON_FLOOR,None,10:35,1,Raptors,Spurs,2 - 3,0,N/A,N/A,N/A
+15,DeMar DeRozan,FT,None,10:35,1,Spurs,Raptors,2 - 4,1,N/A,1,N/A
+16,DeMar DeRozan,FT,None,10:35,1,Spurs,Raptors,2 - 5,1,N/A,1,N/A
+17,Fred VanVleet,FG_MISS,None,10:24,1,Raptors,Spurs,2 - 5,0,26,3,Jumper
+18,DeMar DeRozan,DEFENSIVE_REBOUND,None,10:20,1,Spurs,Raptors,2 - 5,1,N/A,N/A,N/A
+19,LaMarcus Aldridge,FG_ASSISTED,DeMar DeRozan,10:12,1,Spurs,Raptors,2 - 7,1,11,2,Jumper
+20,Kawhi Leonard,FG_UNASSISTED,None,9:59,1,Raptors,Spurs,4 - 7,0,21,2,Jumper
+21,Rudy Gay,FG_ASSISTED,DeMar DeRozan,9:39,1,Spurs,Raptors,4 - 9,1,15,2,Jumper
+22,Danny Green,FG_MISS,None,9:25,1,Raptors,Spurs,4 - 9,0,27,3,Jumper
+23,Serge Ibaka,OFFENSIVE_REBOUND,None,9:22,1,Raptors,Spurs,4 - 9,0,N/A,N/A,N/A
+24,DeMar DeRozan,FOUL_ON_FLOOR,None,9:22,1,Spurs,Raptors,4 - 9,1,N/A,N/A,N/A
+25,Serge Ibaka,FT,None,9:22,1,Raptors,Spurs,5 - 9,0,N/A,1,N/A
+26,Serge Ibaka,FT_MISS,None,9:22,1,Raptors,Spurs,5 - 9,0,N/A,1,N/A
+27,DeMar DeRozan,DEFENSIVE_REBOUND,None,9:19,1,Spurs,Raptors,5 - 9,1,N/A,N/A,N/A
+28,DeMar DeRozan,FG_ASSISTED,LaMarcus Aldridge,8:55,1,Spurs,Raptors,5 - 11,1,12,2,Jumper
+29,Kawhi Leonard,FG_MISS,None,8:43,1,Raptors,Spurs,5 - 11,0,26,3,Jumper
+30,Bryn Forbes,DEFENSIVE_REBOUND,None,8:39,1,Spurs,Raptors,5 - 11,1,N/A,N/A,N/A
+31,LaMarcus Aldridge,FG_UNASSISTED,None,8:25,1,Spurs,Raptors,5 - 13,1, ,2,Jumper
+32,Serge Ibaka,FG_MISS,None,8:03,1,Raptors,Spurs,5 - 13,0,7,2,Jumper
+33,Rudy Gay,DEFENSIVE_REBOUND,None,8:00,1,Spurs,Raptors,5 - 13,1,N/A,N/A,N/A
+34,Pascal Siakam,FOUL_ON_FLOOR,None,7:54,1,Raptors,Spurs,5 - 13,0,N/A,N/A,N/A
+35,DeMar DeRozan,FG_ASSISTED,Derrick White,7:51,1,Spurs,Raptors,5 - 15,1,0,2,Dunk
+36,Team,Unknown,None,7:51,1,Raptors,Spurs,5 - 15,0,N/A,N/A,N/A
+37,Pascal Siakam,FG_ASSISTED,Danny Green,7:27,1,Raptors,Spurs,7 - 15,0,0,2,Layup
+38,Fred VanVleet,FOUL_ON_FLOOR,None,7:21,1,Raptors,Spurs,7 - 15,0,N/A,N/A,N/A
+39,Fred VanVleet,FOUL_ON_FLOOR,None,7:10,1,Raptors,Spurs,7 - 15,0,N/A,N/A,N/A
+40,Derrick White,FG_MISS,None,7:01,1,Spurs,Raptors,7 - 15,1,13,2,Jumper
+41,Pascal Siakam,DEFENSIVE_REBOUND,None,6:59,1,Raptors,Spurs,7 - 15,0,N/A,N/A,N/A
+42,Serge Ibaka,FG_ASSISTED,Pascal Siakam,6:49,1,Raptors,Spurs,9 - 15,0, ,2,Jumper
+43,Rudy Gay,FG_ASSISTED,LaMarcus Aldridge,6:35,1,Spurs,Raptors,9 - 17,1,0,2,Layup
+44,Kawhi Leonard,FG_MISS,None,6:26,1,Raptors,Spurs,9 - 17,0, ,2,Jumper
+45,DeMar DeRozan,DEFENSIVE_REBOUND,None,6:23,1,Spurs,Raptors,9 - 17,1,N/A,N/A,N/A
+46,Rudy Gay,FG_ASSISTED,Derrick White,6:18,1,Spurs,Raptors,9 - 19,1,0,2,Dunk
+47,Danny Green,FG_MISS,None,6:01,1,Raptors,Spurs,9 - 19,0,23,3,Jumper
+48,Team,DEFENSIVE_REBOUND,None,5:59,1,Spurs,Raptors,9 - 19,1,N/A,N/A,N/A
+49,Derrick White,FG_ASSISTED,LaMarcus Aldridge,5:37,1,Spurs,Raptors,9 - 21,1,0,2,Layup
+50,Fred VanVleet,FG_MISS,None,5:28,1,Raptors,Spurs,9 - 21,0, ,2,Jumper
+51,DeMar DeRozan,DEFENSIVE_REBOUND,None,5:26,1,Spurs,Raptors,9 - 21,1,N/A,N/A,N/A
+52,Rudy Gay,FG_MISS,None,5:19,1,Spurs,Raptors,9 - 21,1,27,3,Jumper
+53,Serge Ibaka,DEFENSIVE_REBOUND,None,5:15,1,Raptors,Spurs,9 - 21,0,N/A,N/A,N/A
+54,Pascal Siakam,FG_ASSISTED,Kawhi Leonard,5:05,1,Raptors,Spurs,11 - 21,0,0,2,Dunk
+55,Team,Unknown,None,5:05,1,Spurs,Raptors,11 - 21,1,N/A,N/A,N/A
+56,Davis Bertans,SUBSTITUTION,Gay Rudy,5:05,1,Spurs,Raptors,11 - 21,1,N/A,N/A,N/A
+57,Delon Wright,SUBSTITUTION,VanVleet Fred,5:05,1,Raptors,Spurs,11 - 21,0,N/A,N/A,N/A
+58,Derrick White,FG_ASSISTED,DeMar DeRozan,4:41,1,Spurs,Raptors,11 - 23,1,18,2,Jumper
+59,Pascal Siakam,TURNOVER,Davis Bertans,4:28,1,Raptors,Spurs,11 - 23,0,N/A,N/A,N/A
+60,Davis Bertans,FG_MISS,None,4:22,1,Spurs,Raptors,11 - 23,1, ,3,Jumper
+61,Serge Ibaka,DEFENSIVE_REBOUND,None,4:19,1,Raptors,Spurs,11 - 23,0,N/A,N/A,N/A
+62,Kawhi Leonard,TURNOVER,Derrick White,4:06,1,Raptors,Spurs,11 - 23,0,N/A,N/A,N/A
+63,Derrick White,FG_ASSISTED,Bryn Forbes,4:02,1,Spurs,Raptors,11 - 25,1,0,2,Dunk
+64,Pascal Siakam,TURNOVER,Bryn Forbes,3:57,1,Raptors,Spurs,11 - 25,0,N/A,N/A,N/A
+65,DeMar DeRozan,FG_UNASSISTED,None,3:38,1,Spurs,Raptors,11 - 27,1, ,2,Jumper
+66,Serge Ibaka,FOUL_ON_FLOOR,None,3:38,1,Raptors,Spurs,11 - 27,0,N/A,N/A,N/A
+67,Patty Mills,SUBSTITUTION,Forbes Bryn,3:38,1,Spurs,Raptors,11 - 27,1,N/A,N/A,N/A
+68,Norman Powell,SUBSTITUTION,Green Danny,3:38,1,Raptors,Spurs,11 - 27,0,N/A,N/A,N/A
+69,DeMar DeRozan,FT,None,3:38,1,Spurs,Raptors,11 - 28,1,N/A,1,N/A
+70,Delon Wright,FG_MISS,None,3:25,1,Raptors,Spurs,11 - 28,0,25,3,Jumper
+71,DeMar DeRozan,DEFENSIVE_REBOUND,None,3:21,1,Spurs,Raptors,11 - 28,1,N/A,N/A,N/A
+72,Davis Bertans,FG_ASSISTED,DeMar DeRozan,3:14,1,Spurs,Raptors,11 - 30,1,20,2,Jumper
+73,Kawhi Leonard,TURNOVER,None,3:00,1,Raptors,Spurs,11 - 30,0,N/A,N/A,N/A
+74,Greg Monroe,SUBSTITUTION,Ibaka Serge,3:00,1,Raptors,Spurs,11 - 30,0,N/A,N/A,N/A
+75,LaMarcus Aldridge,FG_MISS,None,2:46,1,Spurs,Raptors,11 - 30,1,10,2,Jumper
+76,Delon Wright,DEFENSIVE_REBOUND,None,2:44,1,Raptors,Spurs,11 - 30,0,N/A,N/A,N/A
+77,Jakob Poeltl,SUBSTITUTION,White Derrick,2:35,1,Spurs,Raptors,11 - 30,1,N/A,N/A,N/A
+78,Marco Belinelli,SUBSTITUTION,Aldridge LaMarcus,2:35,1,Spurs,Raptors,11 - 30,1,N/A,N/A,N/A
+79,OG Anunoby,SUBSTITUTION,Leonard Kawhi,2:35,1,Raptors,Spurs,11 - 30,0,N/A,N/A,N/A
+80,Rudy Gay,SUBSTITUTION,DeRozan DeMar,2:35,1,Spurs,Raptors,11 - 30,1,N/A,N/A,N/A
+81,Team,Unknown,None,2:31,1,Spurs,Raptors,11 - 30,1,N/A,N/A,N/A
+82,Delon Wright,FG_MISS,None,2:25,1,Raptors,Spurs,11 - 30,0,0,2,Layup
+83,Greg Monroe,OFFENSIVE_REBOUND,None,2:23,1,Raptors,Spurs,11 - 30,0,N/A,N/A,N/A
+84,OG Anunoby,FG_MISS,None,2:21,1,Raptors,Spurs,11 - 30,0,22,2,Jumper
+85,Rudy Gay,DEFENSIVE_REBOUND,None,2:16,1,Spurs,Raptors,11 - 30,1,N/A,N/A,N/A
+86,Norman Powell,FOUL_ON_FLOOR,None,2:14,1,Raptors,Spurs,11 - 30,0,N/A,N/A,N/A
+87,Patty Mills,FT,None,2:14,1,Spurs,Raptors,11 - 31,1,N/A,1,N/A
+88,Patty Mills,FT,None,2:14,1,Spurs,Raptors,11 - 32,1,N/A,1,N/A
+89,OG Anunoby,TURNOVER,Patty Mills,1:56,1,Raptors,Spurs,11 - 32,0,N/A,N/A,N/A
+90,Rudy Gay,FG_ASSISTED,Patty Mills,1:53,1,Spurs,Raptors,11 - 34,1,0,2,Dunk
+91,Team,Unknown,None,1:48,1,Raptors,Spurs,11 - 34,0,N/A,N/A,N/A
+92,Greg Monroe,FG_UNASSISTED,None,1:34,1,Raptors,Spurs,13 - 34,0,0,2,Layup
+93,Patty Mills,FG_MISS,None,1:24,1,Spurs,Raptors,13 - 34,1,24,3,Jumper
+94,Pascal Siakam,DEFENSIVE_REBOUND,None,1:24,1,Raptors,Spurs,13 - 34,0,N/A,N/A,N/A
+95,Norman Powell,FG_UNASSISTED,None,1:06,1,Raptors,Spurs,15 - 34,0,11,2,Jumper
+96,Rudy Gay,FG_MISS,None,43.9,1,Spurs,Raptors,15 - 34,1,12,2,Jumper
+97,Greg Monroe,DEFENSIVE_REBOUND,None,41.9,1,Raptors,Spurs,15 - 34,0,N/A,N/A,N/A
+98,Greg Monroe,FG_ASSISTED,Pascal Siakam,37.8,1,Raptors,Spurs,17 - 34,0,0,2,Layup
+99,Jakob Poeltl,FOUL_ON_FLOOR,None,37.8,1,Spurs,Raptors,17 - 34,1,N/A,N/A,N/A
+100,Danny Green,SUBSTITUTION,Siakam Pascal,37.8,1,Raptors,Spurs,17 - 34,0,N/A,N/A,N/A
+101,Greg Monroe,FT_MISS,None,37.8,1,Raptors,Spurs,17 - 34,0,N/A,1,N/A
+102,Rudy Gay,DEFENSIVE_REBOUND,None,34.0,1,Spurs,Raptors,17 - 34,1,N/A,N/A,N/A
+103,Jakob Poeltl,FG_ASSISTED,Rudy Gay,30.4,1,Spurs,Raptors,17 - 36,1,0,2,Layup
+104,Marco Belinelli,FOUL_ON_FLOOR,None,22.7,1,Spurs,Raptors,17 - 36,1,N/A,N/A,N/A
+105,Norman Powell,FT,None,22.7,1,Raptors,Spurs,18 - 36,0,N/A,1,N/A
+106,Norman Powell,FT,None,22.7,1,Raptors,Spurs,19 - 36,0,N/A,1,N/A
+107,Delon Wright,FOUL_ON_FLOOR,None,3.4,1,Raptors,Spurs,19 - 36,0,N/A,N/A,N/A
+108,Patty Mills,FT,None,3.4,1,Spurs,Raptors,19 - 37,1,N/A,1,N/A
+109,Bryn Forbes,SUBSTITUTION,Gay Rudy,3.4,1,Spurs,Raptors,19 - 37,1,N/A,N/A,N/A
+110,Derrick White,SUBSTITUTION,Bertans Davis,3.4,1,Spurs,Raptors,19 - 37,1,N/A,N/A,N/A
+111,Patty Mills,FT,None,3.4,1,Spurs,Raptors,19 - 38,1,N/A,1,N/A
+112,Norman Powell,FG_MISS,None,0.0,1,Raptors,Spurs,19 - 38,0, ,2,Jumper
+113,Team,OFFENSIVE_REBOUND,None,0.0,1,Raptors,Spurs,19 - 38,0,N/A,N/A,N/A
+114,End of,Unknown,None,0.0,1,Spurs,Raptors,19 - 38,1,N/A,N/A,N/A
+0,Davis Bertans,SUBSTITUTION,White Derrick,12:00,2,Spurs,Raptors,19 - 38,1,N/A,N/A,N/A
+1,Danny Green,FOUL_ON_FLOOR,None,11:44,2,Raptors,Spurs,19 - 38,0,N/A,N/A,N/A
+2,Marco Belinelli,FT,None,11:44,2,Spurs,Raptors,19 - 39,1,N/A,1,N/A
+3,Marco Belinelli,FT,None,11:44,2,Spurs,Raptors,19 - 40,1,N/A,1,N/A
+4,Danny Green,FG_MISS,None,11:30,2,Raptors,Spurs,19 - 40,0,23,3,Jumper
+5,Patty Mills,DEFENSIVE_REBOUND,None,11:25,2,Spurs,Raptors,19 - 40,1,N/A,N/A,N/A
+6,Patty Mills,FG_UNASSISTED,None,11:21,2,Spurs,Raptors,19 - 42,1, ,2,Jumper
+7,Norman Powell,FG_MISS,None,11:12,2,Raptors,Spurs,19 - 42,0,0,2,Layup
+8,Marco Belinelli,DEFENSIVE_REBOUND,None,11:11,2,Spurs,Raptors,19 - 42,1,N/A,N/A,N/A
+9,Patty Mills,FG_MISS,None,11:09,2,Spurs,Raptors,19 - 42,1, ,3,Jumper
+10,Jakob Poeltl,OFFENSIVE_REBOUND,None,11:03,2,Spurs,Raptors,19 - 42,1,N/A,N/A,N/A
+11,Bryn Forbes,FG_ASSISTED,Marco Belinelli,10:57,2,Spurs,Raptors,19 - 45,1,23,3,Jumper
+12,Greg Monroe,FG_UNASSISTED,None,10:33,2,Raptors,Spurs,21 - 45,0,8,2,Jumper
+13,Bryn Forbes,FG_MISS,Delon Wright,10:15,2,Raptors,Spurs,21 - 45,1,17,2,Jumper
+14,Danny Green,DEFENSIVE_REBOUND,None,10:14,2,Raptors,Spurs,21 - 45,0,N/A,N/A,N/A
+15,Danny Green,FG_MISS,None,10:11,2,Raptors,Spurs,21 - 45,0,30,3,Jumper
+16,Bryn Forbes,DEFENSIVE_REBOUND,None,10:08,2,Spurs,Raptors,21 - 45,1,N/A,N/A,N/A
+17,foul 21,FOUL_ON_FLOOR,None,10:08,2,Spurs,Raptors,21 - 45,1,N/A,N/A,N/A
+18,Greg Monroe,FOUL_ON_FLOOR,None,10:08,2,Raptors,Spurs,21 - 45,0,N/A,N/A,N/A
+19,Marco Belinelli,FG_MISS,None,9:56,2,Spurs,Raptors,21 - 45,1,26,3,Jumper
+20,Jakob Poeltl,OFFENSIVE_REBOUND,None,9:52,2,Spurs,Raptors,21 - 45,1,N/A,N/A,N/A
+21,Marco Belinelli,FG_MISS,None,9:40,2,Spurs,Raptors,21 - 45,1,29,3,Jumper
+22,Greg Monroe,DEFENSIVE_REBOUND,None,9:38,2,Raptors,Spurs,21 - 45,0,N/A,N/A,N/A
+23,Norman Powell,FG_UNASSISTED,None,9:26,2,Raptors,Spurs,23 - 45,0, ,2,Jumper
+24,Team,Unknown,None,9:25,2,Spurs,Raptors,23 - 45,1,N/A,N/A,N/A
+25,DeMar DeRozan,SUBSTITUTION,Mills Patty,9:25,2,Spurs,Raptors,23 - 45,1,N/A,N/A,N/A
+26,Derrick White,SUBSTITUTION,Forbes Bryn,9:25,2,Spurs,Raptors,23 - 45,1,N/A,N/A,N/A
+27,LaMarcus Aldridge,SUBSTITUTION,Poeltl Jakob,9:25,2,Spurs,Raptors,23 - 45,1,N/A,N/A,N/A
+28,Kawhi Leonard,SUBSTITUTION,Green Danny,9:25,2,Raptors,Spurs,23 - 45,0,N/A,N/A,N/A
+29,LaMarcus Aldridge,FG_UNASSISTED,None,9:05,2,Spurs,Raptors,23 - 47,1,10,2,Jumper
+30,Kawhi Leonard,FG_UNASSISTED,None,8:47,2,Raptors,Spurs,25 - 47,0,0,2,Layup
+31,Derrick White,FG_ASSISTED,LaMarcus Aldridge,8:19,2,Spurs,Raptors,25 - 50,1,27,3,Jumper
+32,Greg Monroe,FG_MISS,None,8:04,2,Raptors,Spurs,25 - 50,0,0,2,Layup
+33,Davis Bertans,DEFENSIVE_REBOUND,None,8:02,2,Spurs,Raptors,25 - 50,1,N/A,N/A,N/A
+34,LaMarcus Aldridge,TURNOVER,Greg Monroe,7:42,2,Spurs,Raptors,25 - 50,1,N/A,N/A,N/A
+35,Norman Powell,FG_ASSISTED,Kawhi Leonard,7:35,2,Raptors,Spurs,27 - 50,0,0,2,Dunk
+36,DeMar DeRozan,FG_UNASSISTED,None,7:18,2,Spurs,Raptors,27 - 52,1,8,2,Jumper
+37,Kawhi Leonard,FG_MISS,None,6:57,2,Raptors,Spurs,27 - 52,0,17,2,Jumper
+38,Davis Bertans,DEFENSIVE_REBOUND,None,6:55,2,Spurs,Raptors,27 - 52,1,N/A,N/A,N/A
+39,Greg Monroe,FOUL_ON_FLOOR,None,6:50,2,Raptors,Spurs,27 - 52,0,N/A,N/A,N/A
+40,Serge Ibaka,SUBSTITUTION,Anunoby OG,6:50,2,Raptors,Spurs,27 - 52,0,N/A,N/A,N/A
+41,Fred VanVleet,SUBSTITUTION,Monroe Greg,6:50,2,Raptors,Spurs,27 - 52,0,N/A,N/A,N/A
+42,Pascal Siakam,SUBSTITUTION,Powell Norman,6:50,2,Raptors,Spurs,27 - 52,0,N/A,N/A,N/A
+43,DeMar DeRozan,FG_MISS,None,6:39,2,Spurs,Raptors,27 - 52,1,18,2,Jumper
+44,Fred VanVleet,DEFENSIVE_REBOUND,None,6:37,2,Raptors,Spurs,27 - 52,0,N/A,N/A,N/A
+45,Fred VanVleet,FG_UNASSISTED,None,6:30,2,Raptors,Spurs,29 - 52,0,19,2,Jumper
+46,LaMarcus Aldridge,FG_MISS,None,6:21,2,Spurs,Raptors,29 - 52,1,0,2,Layup
+47,Fred VanVleet,DEFENSIVE_REBOUND,None,6:18,2,Raptors,Spurs,29 - 52,0,N/A,N/A,N/A
+48,Kawhi Leonard,FG_ASSISTED,Pascal Siakam,6:12,2,Raptors,Spurs,31 - 52,0, ,2,Jumper
+49,DeMar DeRozan,TURNOVER,Serge Ibaka,5:59,2,Spurs,Raptors,31 - 52,1,N/A,N/A,N/A
+50,Delon Wright,FG_ASSISTED,Pascal Siakam,5:53,2,Raptors,Spurs,34 - 52,0,23,3,Jumper
+51,Team,Unknown,None,5:53,2,Spurs,Raptors,34 - 52,1,N/A,N/A,N/A
+52,Bryn Forbes,SUBSTITUTION,Belinelli Marco,5:53,2,Spurs,Raptors,34 - 52,1,N/A,N/A,N/A
+53,Rudy Gay,SUBSTITUTION,Bertans Davis,5:53,2,Spurs,Raptors,34 - 52,1,N/A,N/A,N/A
+54,Derrick White,FG_MISS,None,5:35,2,Spurs,Raptors,34 - 52,1, ,3,Jumper
+55,Delon Wright,DEFENSIVE_REBOUND,None,5:32,2,Raptors,Spurs,34 - 52,0,N/A,N/A,N/A
+56,Fred VanVleet,TURNOVER,None,5:22,2,Raptors,Spurs,34 - 52,0,N/A,N/A,N/A
+57,Pascal Siakam,FOUL_ON_FLOOR,None,5:14,2,Raptors,Spurs,34 - 52,0,N/A,N/A,N/A
+58,DeMar DeRozan,FG_UNASSISTED,None,4:57,2,Spurs,Raptors,34 - 54,1,21,2,Jumper
+59,Serge Ibaka,FG_MISS,None,4:40,2,Raptors,Spurs,34 - 54,0,21,2,Jumper
+60,Team,OFFENSIVE_REBOUND,None,4:38,2,Raptors,Spurs,34 - 54,0,N/A,N/A,N/A
+61,Derrick White,FOUL_ON_FLOOR,None,4:38,2,Spurs,Raptors,34 - 54,1,N/A,N/A,N/A
+62,Kawhi Leonard,FG_UNASSISTED,None,4:31,2,Raptors,Spurs,36 - 54,0,19,2,Jumper
+63,DeMar DeRozan,FG_UNASSISTED,None,4:23,2,Spurs,Raptors,36 - 56,1,1,2,Jumper
+64,Pascal Siakam,FOUL_ON_FLOOR,None,4:23,2,Raptors,Spurs,36 - 56,0,N/A,N/A,N/A
+65,Danny Green,SUBSTITUTION,Wright Delon,4:23,2,Raptors,Spurs,36 - 56,0,N/A,N/A,N/A
+66,DeMar DeRozan,FT,None,4:23,2,Spurs,Raptors,36 - 57,1,N/A,1,N/A
+67,Serge Ibaka,FG_ASSISTED,Pascal Siakam,4:06,2,Raptors,Spurs,38 - 57,0,11,2,Jumper
+68,Bryn Forbes,FG_MISS,None,3:44,2,Spurs,Raptors,38 - 57,1,26,3,Jumper
+69,Danny Green,DEFENSIVE_REBOUND,None,3:42,2,Raptors,Spurs,38 - 57,0,N/A,N/A,N/A
+70,Bryn Forbes,FOUL_ON_FLOOR,None,3:37,2,Spurs,Raptors,38 - 57,1,N/A,N/A,N/A
+71,Kawhi Leonard,FT,None,3:37,2,Raptors,Spurs,39 - 57,0,N/A,1,N/A
+72,Norman Powell,SUBSTITUTION,Siakam Pascal,3:37,2,Raptors,Spurs,39 - 57,0,N/A,N/A,N/A
+73,Kawhi Leonard,FT_MISS,None,3:37,2,Raptors,Spurs,39 - 57,0,N/A,1,N/A
+74,DeMar DeRozan,DEFENSIVE_REBOUND,None,3:35,2,Spurs,Raptors,39 - 57,1,N/A,N/A,N/A
+75,LaMarcus Aldridge,TURNOVER,None,3:19,2,Spurs,Raptors,39 - 57,1,N/A,N/A,N/A
+76,Serge Ibaka,FG_MISS,None,3:05,2,Raptors,Spurs,39 - 57,0,25,3,Jumper
+77,DeMar DeRozan,DEFENSIVE_REBOUND,None,3:02,2,Spurs,Raptors,39 - 57,1,N/A,N/A,N/A
+78,LaMarcus Aldridge,FG_ASSISTED,DeMar DeRozan,2:55,2,Spurs,Raptors,39 - 59,1,0,2,Layup
+79,Kawhi Leonard,FOUL_ON_FLOOR,None,2:55,2,Raptors,Spurs,39 - 59,0,N/A,N/A,N/A
+80,LaMarcus Aldridge,FT,None,2:55,2,Spurs,Raptors,39 - 60,1,N/A,1,N/A
+81,Danny Green,FG_MISS,None,2:35,2,Raptors,Spurs,39 - 60,0, ,2,Jumper
+82,Serge Ibaka,OFFENSIVE_REBOUND,None,2:34,2,Raptors,Spurs,39 - 60,0,N/A,N/A,N/A
+83,Rudy Gay,FOUL_ON_FLOOR,None,2:34,2,Spurs,Raptors,39 - 60,1,N/A,N/A,N/A
+84,Fred VanVleet,FG_UNASSISTED,None,2:24,2,Raptors,Spurs,41 - 60,0,0,2,Layup
+85,Derrick White,FG_UNASSISTED,None,2:11,2,Spurs,Raptors,41 - 62,1, ,2,Jumper
+86,Norman Powell,FG_ASSISTED,Fred VanVleet,2:02,2,Raptors,Spurs,44 - 62,0,23,3,Jumper
+87,Rudy Gay's,FG_MISS,Norman Powell,1:36,2,Raptors,Spurs,44 - 62,1, ,2,Jumper
+88,Fred VanVleet,DEFENSIVE_REBOUND,None,1:34,2,Raptors,Spurs,44 - 62,0,N/A,N/A,N/A
+89,Fred VanVleet,FG_UNASSISTED,None,1:33,2,Raptors,Spurs,46 - 62,0, ,2,Jumper
+90,Bryn Forbes,FOUL_ON_FLOOR,None,1:33,2,Spurs,Raptors,46 - 62,1,N/A,N/A,N/A
+91,Fred VanVleet,FT,None,1:33,2,Raptors,Spurs,47 - 62,0,N/A,1,N/A
+92,LaMarcus Aldridge,FG_UNASSISTED,None,1:13,2,Spurs,Raptors,47 - 64,1,13,2,Jumper
+93,Serge Ibaka,FG_ASSISTED,Kawhi Leonard,1:01,2,Raptors,Spurs,49 - 64,0,19,2,Jumper
+94,DeMar DeRozan,FG_UNASSISTED,None,50.3,2,Spurs,Raptors,49 - 66,1,0,2,Layup
+95,Danny Green,FOUL_ON_FLOOR,None,50.3,2,Raptors,Spurs,49 - 66,0,N/A,N/A,N/A
+96,DeMar DeRozan,FT,None,50.3,2,Spurs,Raptors,49 - 67,1,N/A,1,N/A
+97,Serge Ibaka,FG_ASSISTED,Fred VanVleet,32.3,2,Raptors,Spurs,51 - 67,0,19,2,Jumper
+98,DeMar DeRozan,FG_MISS,None,11.1,2,Spurs,Raptors,51 - 67,1,12,2,Jumper
+99,Kawhi Leonard,DEFENSIVE_REBOUND,None,9.1,2,Raptors,Spurs,51 - 67,0,N/A,N/A,N/A
+100,Norman Powell,FG_MISS,None,0.0,2,Raptors,Spurs,51 - 67,0,16,2,Jumper
+101,Team,OFFENSIVE_REBOUND,None,0.0,2,Raptors,Spurs,51 - 67,0,N/A,N/A,N/A
+102,End of,Unknown,None,0.0,2,Spurs,Raptors,51 - 67,1,N/A,N/A,N/A
+0,Pascal Siakam,SUBSTITUTION,Powell Norman,12:00,3,Raptors,Spurs,51 - 67,0,N/A,N/A,N/A
+1,LaMarcus Aldridge,FG_MISS,None,11:36,3,Spurs,Raptors,51 - 67,1,12,2,Jumper
+2,Danny Green,DEFENSIVE_REBOUND,None,11:33,3,Raptors,Spurs,51 - 67,0,N/A,N/A,N/A
+3,Pascal Siakam,JUMP_BALL,None,11:14,3,Spurs,Raptors,51 - 67,1,N/A,N/A,N/A
+4,Pascal Siakam,TURNOVER,Rudy Gay,11:14,3,Raptors,Spurs,51 - 67,0,N/A,N/A,N/A
+5,LaMarcus Aldridge,FG_ASSISTED,DeMar DeRozan,11:05,3,Spurs,Raptors,51 - 69,1,20,2,Jumper
+6,Danny Green,FG_MISS,None,10:45,3,Raptors,Spurs,51 - 69,0,26,3,Jumper
+7,Rudy Gay,DEFENSIVE_REBOUND,None,10:43,3,Spurs,Raptors,51 - 69,1,N/A,N/A,N/A
+8,LaMarcus Aldridge,FG_ASSISTED,Rudy Gay,10:37,3,Spurs,Raptors,51 - 71,1,0,2,Dunk
+9,Serge Ibaka,FG_MISS,None,10:27,3,Raptors,Spurs,51 - 71,0,20,2,Jumper
+10,Rudy Gay,DEFENSIVE_REBOUND,None,10:24,3,Spurs,Raptors,51 - 71,1,N/A,N/A,N/A
+11,Rudy Gay,FG_UNASSISTED,None,10:19,3,Spurs,Raptors,51 - 73,1, ,2,Jumper
+12,Pascal Siakam,FG_MISS,None,9:55,3,Raptors,Spurs,51 - 73,0,23,3,Jumper
+13,DeMar DeRozan,DEFENSIVE_REBOUND,None,9:51,3,Spurs,Raptors,51 - 73,1,N/A,N/A,N/A
+14,DeMar DeRozan,FG_MISS,None,9:43,3,Spurs,Raptors,51 - 73,1, ,2,Jumper
+15,Rudy Gay,OFFENSIVE_REBOUND,None,9:42,3,Spurs,Raptors,51 - 73,1,N/A,N/A,N/A
+16,foul 51,FOUL_ON_FLOOR,None,9:41,3,Spurs,Raptors,51 - 73,1,N/A,N/A,N/A
+17,Rudy Gay,TURNOVER,None,9:41,3,Spurs,Raptors,51 - 73,1,N/A,N/A,N/A
+18,Rudy Gay,TURNOVER,None,9:41,3,Spurs,Raptors,51 - 73,1,N/A,N/A,N/A
+19,Pascal Siakam,FG_MISS,None,9:26,3,Raptors,Spurs,51 - 73,0,23,3,Jumper
+20,Fred VanVleet,OFFENSIVE_REBOUND,None,9:23,3,Raptors,Spurs,51 - 73,0,N/A,N/A,N/A
+21,Fred VanVleet,FG_MISS,None,9:21,3,Raptors,Spurs,51 - 73,0,24,3,Jumper
+22,DeMar DeRozan,DEFENSIVE_REBOUND,None,9:17,3,Spurs,Raptors,51 - 73,1,N/A,N/A,N/A
+23,Bryn Forbes,FG_ASSISTED,DeMar DeRozan,9:14,3,Spurs,Raptors,51 - 76,1,26,3,Jumper
+24,Team,Unknown,None,9:12,3,Raptors,Spurs,51 - 76,0,N/A,N/A,N/A
+25,Kawhi Leonard,FG_MISS,None,8:59,3,Raptors,Spurs,51 - 76,0,17,2,Jumper
+26,LaMarcus Aldridge,DEFENSIVE_REBOUND,None,8:57,3,Spurs,Raptors,51 - 76,1,N/A,N/A,N/A
+27,LaMarcus Aldridge,FG_MISS,None,8:42,3,Spurs,Raptors,51 - 76,1,17,2,Jumper
+28,Danny Green,DEFENSIVE_REBOUND,None,8:40,3,Raptors,Spurs,51 - 76,0,N/A,N/A,N/A
+29,Serge Ibaka,TURNOVER,DeMar DeRozan,8:25,3,Raptors,Spurs,51 - 76,0,N/A,N/A,N/A
+30,Bryn Forbes,FG_ASSISTED,DeMar DeRozan,8:20,3,Spurs,Raptors,51 - 79,1,25,3,Jumper
+31,Kawhi Leonard,FG_ASSISTED,Serge Ibaka,7:59,3,Raptors,Spurs,53 - 79,0,0,2,Dunk
+32,Bryn Forbes,FG_MISS,Pascal Siakam,7:53,3,Raptors,Spurs,53 - 79,1,2,2,Jumper
+33,Serge Ibaka,DEFENSIVE_REBOUND,None,7:49,3,Raptors,Spurs,53 - 79,0,N/A,N/A,N/A
+34,Danny Green,FG_MISS,None,7:39,3,Raptors,Spurs,53 - 79,0,25,3,Jumper
+35,Team,DEFENSIVE_REBOUND,None,7:36,3,Spurs,Raptors,53 - 79,1,N/A,N/A,N/A
+36,shot clock,TURNOVER,None,7:12,3,Spurs,Raptors,53 - 79,1,N/A,N/A,N/A
+37,Rudy Gay,FOUL_ON_FLOOR,None,7:04,3,Spurs,Raptors,53 - 79,1,N/A,N/A,N/A
+38,Pascal Siakam,FT,None,7:04,3,Raptors,Spurs,54 - 79,0,N/A,1,N/A
+39,Pascal Siakam,FT,None,7:04,3,Raptors,Spurs,55 - 79,0,N/A,1,N/A
+40,Derrick White,FG_ASSISTED,Rudy Gay,6:48,3,Spurs,Raptors,55 - 82,1,25,3,Jumper
+41,Rudy Gay,FOUL_ON_FLOOR,None,6:32,3,Spurs,Raptors,55 - 82,1,N/A,N/A,N/A
+42,Serge Ibaka,FT,None,6:32,3,Raptors,Spurs,56 - 82,0,N/A,1,N/A
+43,Davis Bertans,SUBSTITUTION,Gay Rudy,6:32,3,Spurs,Raptors,56 - 82,1,N/A,N/A,N/A
+44,Serge Ibaka,FT,None,6:32,3,Raptors,Spurs,57 - 82,0,N/A,1,N/A
+45,Derrick White,FG_ASSISTED,DeMar DeRozan,6:16,3,Spurs,Raptors,57 - 84,1,2,2,Jumper
+46,Pascal Siakam,FG_UNASSISTED,None,6:01,3,Raptors,Spurs,59 - 84,0, ,2,Jumper
+47,LaMarcus Aldridge,FG_ASSISTED,Derrick White,5:41,3,Spurs,Raptors,59 - 86,1,0,2,Dunk
+48,Fred VanVleet,FG_ASSISTED,Pascal Siakam,5:23,3,Raptors,Spurs,62 - 86,0,26,3,Jumper
+49,Serge Ibaka,FOUL_ON_FLOOR,None,5:17,3,Raptors,Spurs,62 - 86,0,N/A,N/A,N/A
+50,Patty Mills,SUBSTITUTION,Forbes Bryn,5:17,3,Spurs,Raptors,62 - 86,1,N/A,N/A,N/A
+51,Jakob Poeltl,SUBSTITUTION,Aldridge LaMarcus,5:17,3,Spurs,Raptors,62 - 86,1,N/A,N/A,N/A
+52,Norman Powell,SUBSTITUTION,Ibaka Serge,5:17,3,Raptors,Spurs,62 - 86,0,N/A,N/A,N/A
+53,Greg Monroe,SUBSTITUTION,Green Danny,5:17,3,Raptors,Spurs,62 - 86,0,N/A,N/A,N/A
+54,Kawhi Leonard,JUMP_BALL,None,5:07,3,Raptors,Spurs,62 - 86,0,N/A,N/A,N/A
+55,DeMar DeRozan,TURNOVER,Kawhi Leonard,5:07,3,Spurs,Raptors,62 - 86,1,N/A,N/A,N/A
+56,Pascal Siakam,TURNOVER,DeMar DeRozan,5:01,3,Raptors,Spurs,62 - 86,0,N/A,N/A,N/A
+57,Jakob Poeltl's,FG_MISS,Greg Monroe,4:43,3,Raptors,Spurs,62 - 86,1,0,2,Layup
+58,Pascal Siakam,DEFENSIVE_REBOUND,None,4:41,3,Raptors,Spurs,62 - 86,0,N/A,N/A,N/A
+59,Pascal Siakam,FG_MISS,None,4:35,3,Raptors,Spurs,62 - 86,0,0,2,Layup
+60,Team,DEFENSIVE_REBOUND,None,4:35,3,Spurs,Raptors,62 - 86,1,N/A,N/A,N/A
+61,DeMar DeRozan,FG_MISS,None,4:25,3,Spurs,Raptors,62 - 86,1,20,2,Jumper
+62,Fred VanVleet,DEFENSIVE_REBOUND,None,4:22,3,Raptors,Spurs,62 - 86,0,N/A,N/A,N/A
+63,Greg Monroe,FG_MISS,None,4:12,3,Raptors,Spurs,62 - 86,0,5,2,Jumper
+64,Greg Monroe,OFFENSIVE_REBOUND,None,4:10,3,Raptors,Spurs,62 - 86,0,N/A,N/A,N/A
+65,Greg Monroe,FG_MISS,None,4:09,3,Raptors,Spurs,62 - 86,0,5,2,Jumper
+66,Jakob Poeltl,DEFENSIVE_REBOUND,None,4:07,3,Spurs,Raptors,62 - 86,1,N/A,N/A,N/A
+67,Patty Mills,FG_MISS,None,3:58,3,Spurs,Raptors,62 - 86,1,16,2,Jumper
+68,Pascal Siakam,DEFENSIVE_REBOUND,None,3:55,3,Raptors,Spurs,62 - 86,0,N/A,N/A,N/A
+69,Fred VanVleet,FG_MISS,None,3:48,3,Raptors,Spurs,62 - 86,0,25,3,Jumper
+70,Davis Bertans,DEFENSIVE_REBOUND,None,3:46,3,Spurs,Raptors,62 - 86,1,N/A,N/A,N/A
+71,Patty Mills,FG_ASSISTED,Davis Bertans,3:41,3,Spurs,Raptors,62 - 88,1,0,2,Layup
+72,Team,Unknown,None,3:40,3,Raptors,Spurs,62 - 88,0,N/A,N/A,N/A
+73,Kawhi Leonard,FG_UNASSISTED,None,3:26,3,Raptors,Spurs,64 - 88,0,13,2,Jumper
+74,Patty Mills,TURNOVER,Pascal Siakam,3:11,3,Spurs,Raptors,64 - 88,1,N/A,N/A,N/A
+75,Kawhi Leonard,FG_ASSISTED,Pascal Siakam,3:08,3,Raptors,Spurs,66 - 88,0,0,2,Dunk
+76,DeMar DeRozan,FG_MISS,None,2:57,3,Spurs,Raptors,66 - 88,1, ,2,Jumper
+77,Jakob Poeltl,OFFENSIVE_REBOUND,None,2:52,3,Spurs,Raptors,66 - 88,1,N/A,N/A,N/A
+78,Jakob Poeltl,TURNOVER,Norman Powell,2:52,3,Spurs,Raptors,66 - 88,1,N/A,N/A,N/A
+79,Fred VanVleet,FG_ASSISTED,Norman Powell,2:49,3,Raptors,Spurs,68 - 88,0, ,2,Jumper
+80,Norman Powell,FOUL_ON_FLOOR,None,2:45,3,Raptors,Spurs,68 - 88,0,N/A,N/A,N/A
+81,DeMar DeRozan,TURNOVER,Norman Powell,2:37,3,Spurs,Raptors,68 - 88,1,N/A,N/A,N/A
+82,Fred VanVleet,FG_MISS,None,2:33,3,Raptors,Spurs,68 - 88,0,26,3,Jumper
+83,Jakob Poeltl,DEFENSIVE_REBOUND,None,2:28,3,Spurs,Raptors,68 - 88,1,N/A,N/A,N/A
+84,Derrick White,FG_UNASSISTED,None,2:14,3,Spurs,Raptors,68 - 90,1,15,2,Jumper
+85,Pascal Siakam,FG_ASSISTED,Kawhi Leonard,1:52,3,Raptors,Spurs,70 - 90,0,0,2,Layup
+86,Kawhi Leonard,FOUL_ON_FLOOR,None,1:36,3,Raptors,Spurs,70 - 90,0,N/A,N/A,N/A
+87,Marco Belinelli,SUBSTITUTION,DeRozan DeMar,1:36,3,Spurs,Raptors,70 - 90,1,N/A,N/A,N/A
+88,Delon Wright,SUBSTITUTION,Leonard Kawhi,1:36,3,Raptors,Spurs,70 - 90,0,N/A,N/A,N/A
+89,CJ Miles,SUBSTITUTION,VanVleet Fred,1:36,3,Raptors,Spurs,70 - 90,0,N/A,N/A,N/A
+90,OG Anunoby,SUBSTITUTION,Siakam Pascal,1:36,3,Raptors,Spurs,70 - 90,0,N/A,N/A,N/A
+91,Patty Mills,FG_MISS,None,1:36,3,Spurs,Raptors,70 - 90,1,26,3,Jumper
+92,Norman Powell,DEFENSIVE_REBOUND,None,1:36,3,Raptors,Spurs,70 - 90,0,N/A,N/A,N/A
+93,Norman Powell,FG_MISS,None,1:19,3,Raptors,Spurs,70 - 90,0, ,2,Jumper
+94,Greg Monroe,OFFENSIVE_REBOUND,None,1:18,3,Raptors,Spurs,70 - 90,0,N/A,N/A,N/A
+95,Jakob Poeltl,FOUL_ON_FLOOR,None,1:18,3,Spurs,Raptors,70 - 90,1,N/A,N/A,N/A
+96,Greg Monroe,FT_MISS,None,1:18,3,Raptors,Spurs,70 - 90,0,N/A,1,N/A
+97,Team,OFFENSIVE_REBOUND,None,1:18,3,Raptors,Spurs,70 - 90,0,N/A,N/A,N/A
+98,Bryn Forbes,SUBSTITUTION,White Derrick,1:18,3,Spurs,Raptors,70 - 90,1,N/A,N/A,N/A
+99,Greg Monroe,FT,None,1:18,3,Raptors,Spurs,71 - 90,0,N/A,1,N/A
+100,Patty Mills,FG_UNASSISTED,None,1:02,3,Spurs,Raptors,71 - 93,1,27,3,Jumper
+101,Patty Mills,FOUL_ON_FLOOR,None,48.6,3,Spurs,Raptors,71 - 93,1,N/A,N/A,N/A
+102,Delon Wright,FT,None,48.6,3,Raptors,Spurs,72 - 93,0,N/A,1,N/A
+103,Delon Wright,FT,None,48.6,3,Raptors,Spurs,73 - 93,0,N/A,1,N/A
+104,Davis Bertans,FG_ASSISTED,Bryn Forbes,34.9,3,Spurs,Raptors,73 - 96,1, ,3,Jumper
+105,Patty Mills,FOUL_ON_FLOOR,None,11.7,3,Spurs,Raptors,73 - 96,1,N/A,N/A,N/A
+106,Delon Wright,FT,None,11.7,3,Raptors,Spurs,74 - 96,0,N/A,1,N/A
+107,Delon Wright,FT,None,11.7,3,Raptors,Spurs,75 - 96,0,N/A,1,N/A
+108,Patty Mills,TURNOVER,None,3.5,3,Spurs,Raptors,75 - 96,1,N/A,N/A,N/A
+109,Norman Powell,FG_MISS,None,0.0,3,Raptors,Spurs,75 - 96,0,30,3,Jumper
+110,Team,OFFENSIVE_REBOUND,None,0.0,3,Raptors,Spurs,75 - 96,0,N/A,N/A,N/A
+111,End of,Unknown,None,0.0,3,Spurs,Raptors,75 - 96,1,N/A,N/A,N/A
+0,Greg Monroe,FG_MISS,None,11:41,4,Raptors,Spurs,75 - 96,0,20,2,Jumper
+1,Jakob Poeltl,DEFENSIVE_REBOUND,None,11:37,4,Spurs,Raptors,75 - 96,1,N/A,N/A,N/A
+2,CJ Miles,FOUL_ON_FLOOR,None,11:26,4,Raptors,Spurs,75 - 96,0,N/A,N/A,N/A
+3,Patty Mills,FT_MISS,None,11:26,4,Spurs,Raptors,75 - 96,1,N/A,1,N/A
+4,Team,OFFENSIVE_REBOUND,None,11:26,4,Spurs,Raptors,75 - 96,1,N/A,N/A,N/A
+5,Patty Mills,FT,None,11:26,4,Spurs,Raptors,75 - 97,1,N/A,1,N/A
+6,OG Anunoby,FG_MISS,None,11:12,4,Raptors,Spurs,75 - 97,0,23,3,Jumper
+7,Delon Wright,OFFENSIVE_REBOUND,None,11:10,4,Raptors,Spurs,75 - 97,0,N/A,N/A,N/A
+8,Delon Wright,FG_UNASSISTED,None,11:07,4,Raptors,Spurs,77 - 97,0,8,2,Jumper
+9,Bryn Forbes,FG_ASSISTED,Jakob Poeltl,10:57,4,Spurs,Raptors,77 - 100,1,26,3,Jumper
+10,CJ Miles,FG_ASSISTED,Delon Wright,10:41,4,Raptors,Spurs,80 - 100,0,27,3,Jumper
+11,Marco Belinelli,FG_ASSISTED,Bryn Forbes,10:26,4,Spurs,Raptors,80 - 102,1,21,2,Jumper
+12,Jakob Poeltl,FOUL_ON_FLOOR,None,10:07,4,Spurs,Raptors,80 - 102,1,N/A,N/A,N/A
+13,Greg Monroe,FT,None,10:07,4,Raptors,Spurs,81 - 102,0,N/A,1,N/A
+14,Greg Monroe,FT,None,10:07,4,Raptors,Spurs,82 - 102,0,N/A,1,N/A
+15,Marco Belinelli,FG_MISS,None,9:56,4,Spurs,Raptors,82 - 102,1,24,3,Jumper
+16,Jakob Poeltl,OFFENSIVE_REBOUND,None,9:54,4,Spurs,Raptors,82 - 102,1,N/A,N/A,N/A
+17,Bryn Forbes,FG_ASSISTED,Patty Mills,9:50,4,Spurs,Raptors,82 - 105,1,1,3,Jumper
+18,Delon Wright,FG_MISS,None,9:37,4,Raptors,Spurs,82 - 105,0,1,2,Jumper
+19,Bryn Forbes,DEFENSIVE_REBOUND,None,9:35,4,Spurs,Raptors,82 - 105,1,N/A,N/A,N/A
+20,Bryn Forbes,FG_UNASSISTED,None,9:31,4,Spurs,Raptors,82 - 107,1,1,2,Jumper
+21,Norman Powell,FG_MISS,None,9:17,4,Raptors,Spurs,82 - 107,0,1,2,Jumper
+22,Greg Monroe,OFFENSIVE_REBOUND,None,9:16,4,Raptors,Spurs,82 - 107,0,N/A,N/A,N/A
+23,Davis Bertans,FOUL_ON_FLOOR,None,9:16,4,Spurs,Raptors,82 - 107,1,N/A,N/A,N/A
+24,Greg Monroe,FT_MISS,None,9:16,4,Raptors,Spurs,82 - 107,0,N/A,1,N/A
+25,Team,OFFENSIVE_REBOUND,None,9:16,4,Raptors,Spurs,82 - 107,0,N/A,N/A,N/A
+26,Rudy Gay,SUBSTITUTION,Poeltl Jakob,9:16,4,Spurs,Raptors,82 - 107,1,N/A,N/A,N/A
+27,LaMarcus Aldridge,SUBSTITUTION,Bertans Davis,9:16,4,Spurs,Raptors,82 - 107,1,N/A,N/A,N/A
+28,Danny Green,SUBSTITUTION,Powell Norman,9:16,4,Raptors,Spurs,82 - 107,0,N/A,N/A,N/A
+29,Greg Monroe,FT,None,9:16,4,Raptors,Spurs,83 - 107,0,N/A,1,N/A
+30,Patty Mills,FG_MISS,None,9:02,4,Spurs,Raptors,83 - 107,1,26,3,Jumper
+31,OG Anunoby,DEFENSIVE_REBOUND,None,8:58,4,Raptors,Spurs,83 - 107,0,N/A,N/A,N/A
+32,Greg Monroe,FG_ASSISTED,OG Anunoby,8:54,4,Raptors,Spurs,85 - 107,0,0,2,Layup
+33,Rudy Gay,FG_MISS,None,8:31,4,Spurs,Raptors,85 - 107,1,1,2,Jumper
+34,OG Anunoby,DEFENSIVE_REBOUND,None,8:29,4,Raptors,Spurs,85 - 107,0,N/A,N/A,N/A
+35,OG Anunoby,FG_MISS,None,8:22,4,Raptors,Spurs,85 - 107,0,10,2,Jumper
+36,Rudy Gay,DEFENSIVE_REBOUND,None,8:20,4,Spurs,Raptors,85 - 107,1,N/A,N/A,N/A
+37,Team,Unknown,None,8:16,4,Spurs,Raptors,85 - 107,1,N/A,N/A,N/A
+38,Derrick White,SUBSTITUTION,Mills Patty,8:16,4,Spurs,Raptors,85 - 107,1,N/A,N/A,N/A
+39,DeMar DeRozan,SUBSTITUTION,Forbes Bryn,8:16,4,Spurs,Raptors,85 - 107,1,N/A,N/A,N/A
+40,Serge Ibaka,SUBSTITUTION,Anunoby OG,8:16,4,Raptors,Spurs,85 - 107,0,N/A,N/A,N/A
+41,Kawhi Leonard,SUBSTITUTION,Monroe Greg,8:16,4,Raptors,Spurs,85 - 107,0,N/A,N/A,N/A
+42,Fred VanVleet,SUBSTITUTION,Wright Delon,8:16,4,Raptors,Spurs,85 - 107,0,N/A,N/A,N/A
+43,LaMarcus Aldridge,TURNOVER,Kawhi Leonard,8:03,4,Spurs,Raptors,85 - 107,1,N/A,N/A,N/A
+44,Kawhi Leonard,TURNOVER,None,7:59,4,Raptors,Spurs,85 - 107,0,N/A,N/A,N/A
+45,Rudy Gay,FG_ASSISTED,LaMarcus Aldridge,7:40,4,Spurs,Raptors,85 - 110,1,24,3,Jumper
+46,DeMar DeRozan,FOUL_ON_FLOOR,None,7:23,4,Spurs,Raptors,85 - 110,1,N/A,N/A,N/A
+47,Kawhi Leonard,FT,None,7:23,4,Raptors,Spurs,86 - 110,0,N/A,1,N/A
+48,Kawhi Leonard,FT,None,7:23,4,Raptors,Spurs,87 - 110,0,N/A,1,N/A
+49,LaMarcus Aldridge,FG_ASSISTED,DeMar DeRozan,7:09,4,Spurs,Raptors,87 - 112,1,18,2,Jumper
+50,Rudy Gay,FOUL_ON_FLOOR,None,6:53,4,Spurs,Raptors,87 - 112,1,N/A,N/A,N/A
+51,Kawhi Leonard,FT,None,6:53,4,Raptors,Spurs,88 - 112,0,N/A,1,N/A
+52,Kawhi Leonard,FT,None,6:53,4,Raptors,Spurs,89 - 112,0,N/A,1,N/A
+53,Danny Green,FOUL_ON_FLOOR,None,6:48,4,Raptors,Spurs,89 - 112,0,N/A,N/A,N/A
+54,Davis Bertans,SUBSTITUTION,Gay Rudy,6:48,4,Spurs,Raptors,89 - 112,1,N/A,N/A,N/A
+55,Pascal Siakam,SUBSTITUTION,Miles CJ,6:48,4,Raptors,Spurs,89 - 112,0,N/A,N/A,N/A
+56,Serge Ibaka,FOUL_ON_FLOOR,None,6:39,4,Raptors,Spurs,89 - 112,0,N/A,N/A,N/A
+57,Derrick White,FG_MISS,None,6:33,4,Spurs,Raptors,89 - 112,1,0,2,Layup
+58,Pascal Siakam,DEFENSIVE_REBOUND,None,6:31,4,Raptors,Spurs,89 - 112,0,N/A,N/A,N/A
+59,Fred VanVleet,FG_MISS,None,6:13,4,Raptors,Spurs,89 - 112,0,27,3,Jumper
+60,Davis Bertans,DEFENSIVE_REBOUND,None,6:08,4,Spurs,Raptors,89 - 112,1,N/A,N/A,N/A
+61,Serge Ibaka,FOUL_ON_FLOOR,None,5:58,4,Raptors,Spurs,89 - 112,0,N/A,N/A,N/A
+62,LaMarcus Aldridge,FT,None,5:58,4,Spurs,Raptors,89 - 113,1,N/A,1,N/A
+63,Delon Wright,SUBSTITUTION,Green Danny,5:58,4,Raptors,Spurs,89 - 113,0,N/A,N/A,N/A
+64,LaMarcus Aldridge,FT,None,5:58,4,Spurs,Raptors,89 - 114,1,N/A,1,N/A
+65,Serge Ibaka,FG_MISS,None,5:45,4,Raptors,Spurs,89 - 114,0,26,3,Jumper
+66,DeMar DeRozan,DEFENSIVE_REBOUND,None,5:43,4,Spurs,Raptors,89 - 114,1,N/A,N/A,N/A
+67,Pascal Siakam,FOUL_ON_FLOOR,None,5:36,4,Raptors,Spurs,89 - 114,0,N/A,N/A,N/A
+68,Derrick White,FT,None,5:36,4,Spurs,Raptors,89 - 115,1,N/A,1,N/A
+69,Derrick White,FT_MISS,None,5:36,4,Spurs,Raptors,89 - 115,1,N/A,1,N/A
+70,Serge Ibaka,DEFENSIVE_REBOUND,None,5:34,4,Raptors,Spurs,89 - 115,0,N/A,N/A,N/A
+71,Serge Ibaka,FG_ASSISTED,Kawhi Leonard,5:27,4,Raptors,Spurs,92 - 115,0,25,3,Jumper
+72,LaMarcus Aldridge,FG_ASSISTED,DeMar DeRozan,5:11,4,Spurs,Raptors,92 - 117,1,0,2,Layup
+73,Kawhi Leonard,FG_MISS,None,4:54,4,Raptors,Spurs,92 - 117,0,27,3,Jumper
+74,DeMar DeRozan,DEFENSIVE_REBOUND,None,4:52,4,Spurs,Raptors,92 - 117,1,N/A,N/A,N/A
+75,Fred VanVleet,FOUL_ON_FLOOR,None,4:43,4,Raptors,Spurs,92 - 117,0,N/A,N/A,N/A
+76,Team,Unknown,None,4:43,4,Raptors,Spurs,92 - 117,0,N/A,N/A,N/A
+77,OG Anunoby,SUBSTITUTION,Leonard Kawhi,4:43,4,Raptors,Spurs,92 - 117,0,N/A,N/A,N/A
+78,Lorenzo Brown,SUBSTITUTION,Ibaka Serge,4:43,4,Raptors,Spurs,92 - 117,0,N/A,N/A,N/A
+79,Norman Powell,SUBSTITUTION,VanVleet Fred,4:43,4,Raptors,Spurs,92 - 117,0,N/A,N/A,N/A
+80,Chris Boucher,SUBSTITUTION,Siakam Pascal,4:43,4,Raptors,Spurs,92 - 117,0,N/A,N/A,N/A
+81,DeMar DeRozan,FT,None,4:43,4,Spurs,Raptors,92 - 118,1,N/A,1,N/A
+82,Dante Cunningham,SUBSTITUTION,White Derrick,4:43,4,Spurs,Raptors,92 - 118,1,N/A,N/A,N/A
+83,Lonnie Walker,SUBSTITUTION,Aldridge LaMarcus,4:43,4,Spurs,Raptors,92 - 118,1,N/A,N/A,N/A
+84,delay techfoul,FOUL_ON_FLOOR,None,4:43,4,Spurs,Raptors,92 - 118,1,N/A,N/A,N/A
+85,Norman Powell,FT,None,4:43,4,Raptors,Spurs,93 - 118,0,N/A,1,N/A
+86,DeMar DeRozan,FT,None,4:43,4,Spurs,Raptors,93 - 119,1,N/A,1,N/A
+87,Norman Powell,FG_UNASSISTED,None,4:32,4,Raptors,Spurs,95 - 119,0,0,2,Dunk
+88,DeMar DeRozan,FG_MISS,None,4:16,4,Spurs,Raptors,95 - 119,1,1,2,Jumper
+89,Norman Powell,DEFENSIVE_REBOUND,None,4:16,4,Raptors,Spurs,95 - 119,0,N/A,N/A,N/A
+90,Chris Boucher,FG_ASSISTED,Norman Powell,4:11,4,Raptors,Spurs,98 - 119,0,26,3,Jumper
+91,Team,Unknown,None,4:06,4,Spurs,Raptors,98 - 119,1,N/A,N/A,N/A
+92,Quincy Pondexter,SUBSTITUTION,DeRozan DeMar,4:06,4,Spurs,Raptors,98 - 119,1,N/A,N/A,N/A
+93,Lonnie Walker,FG_MISS,None,3:46,4,Spurs,Raptors,98 - 119,1,0,2,Layup
+94,Chris Boucher,DEFENSIVE_REBOUND,None,3:43,4,Raptors,Spurs,98 - 119,0,N/A,N/A,N/A
+95,Delon Wright,FG_UNASSISTED,None,3:34,4,Raptors,Spurs,100 - 119,0,6,2,Jumper
+96,Marco Belinelli,FG_MISS,None,3:13,4,Spurs,Raptors,100 - 119,1,27,3,Jumper
+97,Marco Belinelli,OFFENSIVE_REBOUND,None,3:10,4,Spurs,Raptors,100 - 119,1,N/A,N/A,N/A
+98,Marco Belinelli's,FG_MISS,Chris Boucher,3:09,4,Raptors,Spurs,100 - 119,1,0,2,Layup
+99,Team,OFFENSIVE_REBOUND,None,3:09,4,Spurs,Raptors,100 - 119,1,N/A,N/A,N/A
+100,Marco Belinelli,FG_MISS,None,3:06,4,Spurs,Raptors,100 - 119,1,16,2,Jumper
+101,Delon Wright,DEFENSIVE_REBOUND,None,3:03,4,Raptors,Spurs,100 - 119,0,N/A,N/A,N/A
+102,Delon Wright,FG_UNASSISTED,None,2:56,4,Raptors,Spurs,102 - 119,0,1,2,Jumper
+103,Lonnie Walker,FG_ASSISTED,Marco Belinelli,2:37,4,Spurs,Raptors,102 - 122,1,27,3,Jumper
+104,Chris Boucher,FG_MISS,None,2:18,4,Raptors,Spurs,102 - 122,0,25,3,Jumper
+105,Dante Cunningham,DEFENSIVE_REBOUND,None,2:14,4,Spurs,Raptors,102 - 122,1,N/A,N/A,N/A
+106,Davis Bertans,FG_MISS,None,1:58,4,Spurs,Raptors,102 - 122,1,25,3,Jumper
+107,Quincy Pondexter,OFFENSIVE_REBOUND,None,1:56,4,Spurs,Raptors,102 - 122,1,N/A,N/A,N/A
+108,Dante Cunningham,TURNOVER,Lorenzo Brown,1:45,4,Spurs,Raptors,102 - 122,1,N/A,N/A,N/A
+109,Lorenzo Brown,FG_UNASSISTED,None,1:43,4,Raptors,Spurs,104 - 122,0,1,2,Jumper
+110,Davis Bertans,FOUL_ON_FLOOR,None,1:43,4,Spurs,Raptors,104 - 122,1,N/A,N/A,N/A
+111,Lorenzo Brown,FT,None,1:43,4,Raptors,Spurs,105 - 122,0,N/A,1,N/A
+112,Quincy Pondexter,TURNOVER,Delon Wright,1:33,4,Spurs,Raptors,105 - 122,1,N/A,N/A,N/A
+113,Delon Wright,FG_MISS,None,1:30,4,Raptors,Spurs,105 - 122,0,25,3,Jumper
+114,Dante Cunningham,DEFENSIVE_REBOUND,None,1:27,4,Spurs,Raptors,105 - 122,1,N/A,N/A,N/A
+115,Marco Belinelli,FG_UNASSISTED,None,1:09,4,Spurs,Raptors,105 - 125,1,25,2,Jumper
+116,Lorenzo Brown,FG_MISS,None,54.2,4,Raptors,Spurs,105 - 125,0,1,2,Jumper
+117,Chris Boucher,OFFENSIVE_REBOUND,None,52.5,4,Raptors,Spurs,105 - 125,0,N/A,N/A,N/A
+118,Chris Boucher,FG_MISS,None,51.1,4,Raptors,Spurs,105 - 125,0,1,2,Jumper
+119,Lonnie Walker,DEFENSIVE_REBOUND,None,47.6,4,Spurs,Raptors,105 - 125,1,N/A,N/A,N/A
+120,Marco Belinelli,FG_MISS,None,32.0,4,Spurs,Raptors,105 - 125,1,25,3,Jumper
+121,Norman Powell,DEFENSIVE_REBOUND,None,27.7,4,Raptors,Spurs,105 - 125,0,N/A,N/A,N/A
+122,Delon Wright,FG_ASSISTED,Lorenzo Brown,23.5,4,Raptors,Spurs,107 - 125,0,1,2,Jumper
+123,End of,Unknown,None,0.0,4,Spurs,Raptors,107 - 125,1,N/A,N/A,N/A
+124,End of,Unknown,None,0.0,4,Spurs,Raptors,107 - 125,1,N/A,N/A,N/A

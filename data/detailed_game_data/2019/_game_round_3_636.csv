@@ -1,0 +1,462 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Rudy Gobert,JUMP_BALL,None,12:00,1,Jazz,Lakers,0 - 0,0,N/A,N/A,N/A
+1,Thabo Sefolosha,FG_ASSISTED,Joe Ingles,11:45,1,Jazz,Lakers,2 - 0,0,2,2,Jumper
+2,JaVale McGee,FG_UNASSISTED,None,11:21,1,Lakers,Jazz,2 - 2,1,0,2,Dunk
+3,Joe Ingles,FG_MISS,None,11:07,1,Jazz,Lakers,2 - 2,0,25,3,Jumper
+4,Jemerrio Jones,DEFENSIVE_REBOUND,None,11:05,1,Lakers,Jazz,2 - 2,1,N/A,N/A,N/A
+5,JaVale McGee,TURNOVER,Donovan Mitchell,10:52,1,Lakers,Jazz,2 - 2,1,N/A,N/A,N/A
+6,Donovan Mitchell,FG_UNASSISTED,None,10:47,1,Jazz,Lakers,4 - 2,0,-,2,Jumper
+7,Kentavious Caldwell-Pope,FG_MISS,None,10:27,1,Lakers,Jazz,4 - 2,1,26,3,Jumper
+8,Mike Muscala,OFFENSIVE_REBOUND,None,10:24,1,Lakers,Jazz,4 - 2,1,N/A,N/A,N/A
+9,Mike Muscala,TURNOVER,Thabo Sefolosha,10:22,1,Lakers,Jazz,4 - 2,1,N/A,N/A,N/A
+10,Joe Ingles,FG_MISS,None,10:13,1,Jazz,Lakers,4 - 2,0,26,3,Jumper
+11,Kentavious Caldwell-Pope,DEFENSIVE_REBOUND,None,10:09,1,Lakers,Jazz,4 - 2,1,N/A,N/A,N/A
+12,Alex Caruso,FG_MISS,None,9:52,1,Lakers,Jazz,4 - 2,1,0,2,Dunk
+13,Joe Ingles,DEFENSIVE_REBOUND,None,9:48,1,Jazz,Lakers,4 - 2,0,N/A,N/A,N/A
+14,Rudy Gobert,FG_ASSISTED,Joe Ingles,9:42,1,Jazz,Lakers,6 - 2,0,0,2,Dunk
+15,JaVale McGee,FG_ASSISTED,Alex Caruso,9:30,1,Lakers,Jazz,6 - 4,1,0,2,Dunk
+16,Donovan Mitchell,FG_MISS,None,9:16,1,Jazz,Lakers,6 - 4,0,3,2,Jumper
+17,Jemerrio Jones,DEFENSIVE_REBOUND,None,9:13,1,Lakers,Jazz,6 - 4,1,N/A,N/A,N/A
+18,Mike Muscala,FG_ASSISTED,Jemerrio Jones,9:10,1,Lakers,Jazz,6 - 6,1,18,2,Jumper
+19,Jemerrio Jones,FOUL_ON_FLOOR,None,9:00,1,Lakers,Jazz,6 - 6,1,N/A,N/A,N/A
+20,Joe Ingles,FG_MISS,None,8:45,1,Jazz,Lakers,6 - 6,0,28,3,Jumper
+21,Jemerrio Jones,DEFENSIVE_REBOUND,None,8:41,1,Lakers,Jazz,6 - 6,1,N/A,N/A,N/A
+22,Donovan Mitchell,FOUL_ON_FLOOR,None,8:29,1,Jazz,Lakers,6 - 6,0,N/A,N/A,N/A
+23,JaVale McGee,FT,None,8:29,1,Lakers,Jazz,6 - 7,1,N/A,1,N/A
+24,JaVale McGee,FT,None,8:29,1,Lakers,Jazz,6 - 8,1,N/A,1,N/A
+25,Donovan Mitchell,FG_MISS,None,8:14,1,Jazz,Lakers,6 - 8,0,27,3,Jumper
+26,Mike Muscala,DEFENSIVE_REBOUND,None,8:09,1,Lakers,Jazz,6 - 8,1,N/A,N/A,N/A
+27,JaVale McGee,FG_UNASSISTED,None,8:01,1,Lakers,Jazz,6 - 10,1,0,2,Dunk
+28,Jemerrio Jones,FOUL_ON_FLOOR,None,7:48,1,Lakers,Jazz,6 - 10,1,N/A,N/A,N/A
+29,Joe Ingles,FT_MISS,None,7:48,1,Jazz,Lakers,6 - 10,0,N/A,1,N/A
+30,Team,OFFENSIVE_REBOUND,None,7:48,1,Jazz,Lakers,6 - 10,0,N/A,N/A,N/A
+31,Joe Ingles,FT,None,7:48,1,Jazz,Lakers,7 - 10,0,N/A,1,N/A
+32,Alex Caruso,FG_MISS,None,7:33,1,Lakers,Jazz,7 - 10,1,0,2,Layup
+33,Rudy Gobert,DEFENSIVE_REBOUND,None,7:31,1,Jazz,Lakers,7 - 10,0,N/A,N/A,N/A
+34,Isaac Bonga,SUBSTITUTION,Jones Jemerrio,7:23,1,Lakers,Jazz,7 - 10,1,N/A,N/A,N/A
+35,Jae Crowder,SUBSTITUTION,Sefolosha Thabo,7:23,1,Jazz,Lakers,7 - 10,0,N/A,N/A,N/A
+36,Team,Unknown,None,7:23,1,Jazz,Lakers,7 - 10,0,N/A,N/A,N/A
+37,Royce O'Neale,FG_ASSISTED,Jae Crowder,7:16,1,Jazz,Lakers,10 - 10,0,23,3,Jumper
+38,Royce O'Neale,FOUL_ON_FLOOR,None,7:09,1,Jazz,Lakers,10 - 10,0,N/A,N/A,N/A
+39,Mike Muscala,FG_ASSISTED,Alex Caruso,7:00,1,Lakers,Jazz,10 - 13,1,27,3,Jumper
+40,Rudy Gobert,FG_ASSISTED,Joe Ingles,6:47,1,Jazz,Lakers,12 - 13,0,0,2,Dunk
+41,Alex Caruso,FG_ASSISTED,JaVale McGee,6:31,1,Lakers,Jazz,12 - 15,1,14,2,Jumper
+42,Jae Crowder,FG_MISS,None,6:11,1,Jazz,Lakers,12 - 15,0,26,3,Jumper
+43,JaVale McGee,DEFENSIVE_REBOUND,None,6:08,1,Lakers,Jazz,12 - 15,1,N/A,N/A,N/A
+44,JaVale McGee,FG_MISS,None,6:01,1,Lakers,Jazz,12 - 15,1,0,2,Dunk
+45,Kentavious Caldwell-Pope,OFFENSIVE_REBOUND,None,5:58,1,Lakers,Jazz,12 - 15,1,N/A,N/A,N/A
+46,JaVale McGee,FG_ASSISTED,Alex Caruso,5:50,1,Lakers,Jazz,12 - 17,1,4,2,Jumper
+47,Donovan Mitchell,FG_UNASSISTED,None,5:37,1,Jazz,Lakers,14 - 17,0,0,2,Layup
+48,Kentavious Caldwell-Pope,FG_ASSISTED,Mike Muscala,5:28,1,Lakers,Jazz,14 - 19,1,0,2,Layup
+49,Joe Ingles,TURNOVER,JaVale McGee,5:13,1,Jazz,Lakers,14 - 19,0,N/A,N/A,N/A
+50,Alex Caruso,FG_UNASSISTED,None,5:08,1,Lakers,Jazz,14 - 21,1,17,2,Jumper
+51,Jae Crowder,TURNOVER,Alex Caruso,4:51,1,Jazz,Lakers,14 - 21,0,N/A,N/A,N/A
+52,Kentavious Caldwell-Pope,FG_MISS,None,4:38,1,Lakers,Jazz,14 - 21,1, ,2,Jumper
+53,Rudy Gobert,DEFENSIVE_REBOUND,None,4:34,1,Jazz,Lakers,14 - 21,0,N/A,N/A,N/A
+54,Jae Crowder,FG_MISS,None,4:24,1,Jazz,Lakers,14 - 21,0, ,3,Jumper
+55,JaVale McGee,DEFENSIVE_REBOUND,None,4:20,1,Lakers,Jazz,14 - 21,1,N/A,N/A,N/A
+56,Team,Unknown,None,4:14,1,Lakers,Jazz,14 - 21,1,N/A,N/A,N/A
+57,Johnathan Williams,SUBSTITUTION,McGee JaVale,4:14,1,Lakers,Jazz,14 - 21,1,N/A,N/A,N/A
+58,Grayson Allen,SUBSTITUTION,Ingles Joe,4:14,1,Jazz,Lakers,14 - 21,0,N/A,N/A,N/A
+59,Alex Caruso,FG_UNASSISTED,None,4:07,1,Lakers,Jazz,14 - 23,1, ,2,Jumper
+60,Jae Crowder,FG_ASSISTED,Royce O'Neale,3:44,1,Jazz,Lakers,16 - 23,0,0,2,Layup
+61,Johnathan Williams,FG_ASSISTED,Isaac Bonga,3:29,1,Lakers,Jazz,16 - 25,1,7,2,Jumper
+62,Rudy Gobert,TURNOVER,None,3:11,1,Jazz,Lakers,16 - 25,0,N/A,N/A,N/A
+63,Moritz Wagner,SUBSTITUTION,Muscala Mike,3:11,1,Lakers,Jazz,16 - 25,1,N/A,N/A,N/A
+64,Kentavious Caldwell-Pope,FG_MISS,None,2:59,1,Lakers,Jazz,16 - 25,1,25,3,Jumper
+65,Rudy Gobert,DEFENSIVE_REBOUND,None,2:55,1,Jazz,Lakers,16 - 25,0,N/A,N/A,N/A
+66,Moritz Wagner,FOUL_ON_FLOOR,None,2:51,1,Lakers,Jazz,16 - 25,1,N/A,N/A,N/A
+67,Jae Crowder,FT,None,2:51,1,Jazz,Lakers,17 - 25,0,N/A,1,N/A
+68,Georges Niang,SUBSTITUTION,O'Neale Royce,2:51,1,Jazz,Lakers,17 - 25,0,N/A,N/A,N/A
+69,Ekpe Udoh,SUBSTITUTION,Gobert Rudy,2:51,1,Jazz,Lakers,17 - 25,0,N/A,N/A,N/A
+70,Jae Crowder,FT,None,2:51,1,Jazz,Lakers,18 - 25,0,N/A,1,N/A
+71,Moritz Wagner,FG_ASSISTED,Alex Caruso,2:35,1,Lakers,Jazz,18 - 27,1,0,2,Layup
+72,Grayson Allen,FG_ASSISTED,Ekpe Udoh,2:24,1,Jazz,Lakers,20 - 27,0,0,2,Layup
+73,Alex Caruso,FG_UNASSISTED,None,2:14,1,Lakers,Jazz,20 - 29,1,0,2,Layup
+74,Isaac Bonga,FOUL_ON_FLOOR,None,2:01,1,Lakers,Jazz,20 - 29,1,N/A,N/A,N/A
+75,Grayson Allen,FT_MISS,None,2:01,1,Jazz,Lakers,20 - 29,0,N/A,1,N/A
+76,Team,OFFENSIVE_REBOUND,None,2:01,1,Jazz,Lakers,20 - 29,0,N/A,N/A,N/A
+77,Joe Ingles,SUBSTITUTION,Mitchell Donovan,2:01,1,Jazz,Lakers,20 - 29,0,N/A,N/A,N/A
+78,Grayson Allen,FT,None,2:01,1,Jazz,Lakers,21 - 29,0,N/A,1,N/A
+79,Grayson Allen,FOUL_ON_FLOOR,None,1:56,1,Jazz,Lakers,21 - 29,0,N/A,N/A,N/A
+80,Isaac Bonga,TURNOVER,Joe Ingles,1:48,1,Lakers,Jazz,21 - 29,1,N/A,N/A,N/A
+81,Grayson Allen,FG_ASSISTED,Joe Ingles,1:44,1,Jazz,Lakers,23 - 29,0,0,2,Dunk
+82,Alex Caruso,FG_MISS,None,1:34,1,Lakers,Jazz,23 - 29,1,11,2,Jumper
+83,Johnathan Williams,OFFENSIVE_REBOUND,None,1:32,1,Lakers,Jazz,23 - 29,1,N/A,N/A,N/A
+84,Johnathan Williams,FG_UNASSISTED,None,1:32,1,Lakers,Jazz,23 - 31,1,0,2,Dunk
+85,Georges Niang,FG_ASSISTED,Joe Ingles,1:23,1,Jazz,Lakers,25 - 31,0,6,2,Jumper
+86,Moritz Wagner,FOUL_ON_FLOOR,None,1:23,1,Lakers,Jazz,25 - 31,1,N/A,N/A,N/A
+87,Mike Muscala,SUBSTITUTION,Wagner Moritz,1:23,1,Lakers,Jazz,25 - 31,1,N/A,N/A,N/A
+88,Georges Niang,FT,None,1:23,1,Jazz,Lakers,26 - 31,0,N/A,1,N/A
+89,Ekpe Udoh,FOUL_ON_FLOOR,None,1:12,1,Jazz,Lakers,26 - 31,0,N/A,N/A,N/A
+90,Johnathan Williams,FT_MISS,None,1:12,1,Lakers,Jazz,26 - 31,1,N/A,1,N/A
+91,Team,OFFENSIVE_REBOUND,None,1:12,1,Lakers,Jazz,26 - 31,1,N/A,N/A,N/A
+92,Johnathan Williams,FT,None,1:12,1,Lakers,Jazz,26 - 32,1,N/A,1,N/A
+93,Isaac Bonga,FOUL_ON_FLOOR,None,58.0,1,Lakers,Jazz,26 - 32,1,N/A,N/A,N/A
+94,Ekpe Udoh,FT_MISS,None,58.0,1,Jazz,Lakers,26 - 32,0,N/A,1,N/A
+95,Team,OFFENSIVE_REBOUND,None,58.0,1,Jazz,Lakers,26 - 32,0,N/A,N/A,N/A
+96,Ekpe Udoh,FT,None,58.0,1,Jazz,Lakers,27 - 32,0,N/A,1,N/A
+97,Kentavious Caldwell-Pope,FG_ASSISTED,Alex Caruso,39.4,1,Lakers,Jazz,27 - 34,1,0,2,Dunk
+98,Jae Crowder,FG_MISS,None,30.7,1,Jazz,Lakers,27 - 34,0,26,3,Jumper
+99,Ekpe Udoh,OFFENSIVE_REBOUND,None,26.2,1,Jazz,Lakers,27 - 34,0,N/A,N/A,N/A
+100,Grayson Allen,FG_MISS,None,14.9,1,Jazz,Lakers,27 - 34,0,23,3,Jumper
+101,Mike Muscala,DEFENSIVE_REBOUND,None,11.8,1,Lakers,Jazz,27 - 34,1,N/A,N/A,N/A
+102,Kentavious Caldwell-Pope,FG_MISS,None,0.2,1,Lakers,Jazz,27 - 34,1,27,3,Jumper
+103,Team,OFFENSIVE_REBOUND,None,0.1,1,Lakers,Jazz,27 - 34,1,N/A,N/A,N/A
+104,End of,Unknown,None,0.0,1,Lakers,Jazz,27 - 34,1,N/A,N/A,N/A
+0,Jemerrio Jones,SUBSTITUTION,Bonga Isaac,12:00,2,Lakers,Jazz,27 - 34,1,N/A,N/A,N/A
+1,Kentavious Caldwell-Pope,FG_MISS,None,11:46,2,Lakers,Jazz,27 - 34,1,25,3,Jumper
+2,Jae Crowder,DEFENSIVE_REBOUND,None,11:41,2,Jazz,Lakers,27 - 34,0,N/A,N/A,N/A
+3,Georges Niang,FG_ASSISTED,Jae Crowder,11:30,2,Jazz,Lakers,29 - 34,0,3,2,Jumper
+4,Mike Muscala,FG_MISS,None,11:21,2,Lakers,Jazz,29 - 34,1,27,3,Jumper
+5,Joe Ingles,DEFENSIVE_REBOUND,None,11:17,2,Jazz,Lakers,29 - 34,0,N/A,N/A,N/A
+6,Georges Niang,TURNOVER,None,11:10,2,Jazz,Lakers,29 - 34,0,N/A,N/A,N/A
+7,Isaac Bonga,SUBSTITUTION,Caldwell-Pope Kentavious,11:10,2,Lakers,Jazz,29 - 34,1,N/A,N/A,N/A
+8,Mike Muscala,FG_MISS,None,10:55,2,Lakers,Jazz,29 - 34,1,4,2,Jumper
+9,Johnathan Williams,OFFENSIVE_REBOUND,None,10:52,2,Lakers,Jazz,29 - 34,1,N/A,N/A,N/A
+10,Johnathan Williams,FG_MISS,None,10:51,2,Lakers,Jazz,29 - 34,1, ,2,Jumper
+11,Mike Muscala,OFFENSIVE_REBOUND,None,10:51,2,Lakers,Jazz,29 - 34,1,N/A,N/A,N/A
+12,Mike Muscala,FG_MISS,None,10:46,2,Lakers,Jazz,29 - 34,1, ,2,Jumper
+13,Mike Muscala,OFFENSIVE_REBOUND,None,10:46,2,Lakers,Jazz,29 - 34,1,N/A,N/A,N/A
+14,Mike Muscala,FG_UNASSISTED,None,10:42,2,Lakers,Jazz,29 - 36,1, ,2,Jumper
+15,Ekpe Udoh,FG_ASSISTED,Georges Niang,10:32,2,Jazz,Lakers,31 - 36,0,0,2,Layup
+16,Alex Caruso,FOUL_ON_FLOOR,None,10:32,2,Lakers,Jazz,31 - 36,1,N/A,N/A,N/A
+17,Thabo Sefolosha,SUBSTITUTION,Crowder Jae,10:32,2,Jazz,Lakers,31 - 36,0,N/A,N/A,N/A
+18,Ekpe Udoh,FT_MISS,None,10:32,2,Jazz,Lakers,31 - 36,0,N/A,1,N/A
+19,Johnathan Williams,DEFENSIVE_REBOUND,None,10:29,2,Lakers,Jazz,31 - 36,1,N/A,N/A,N/A
+20,Alex Caruso,FG_MISS,None,10:21,2,Lakers,Jazz,31 - 36,1,26,3,Jumper
+21,Thabo Sefolosha,DEFENSIVE_REBOUND,None,10:17,2,Jazz,Lakers,31 - 36,0,N/A,N/A,N/A
+22,Georges Niang,FG_MISS,None,10:09,2,Jazz,Lakers,31 - 36,0, ,3,Jumper
+23,Isaac Bonga,DEFENSIVE_REBOUND,None,10:05,2,Lakers,Jazz,31 - 36,1,N/A,N/A,N/A
+24,Alex Caruso,FG_ASSISTED,Isaac Bonga,9:56,2,Lakers,Jazz,31 - 38,1,0,2,Layup
+25,Georges Niang,FG_ASSISTED,Thabo Sefolosha,9:33,2,Jazz,Lakers,34 - 38,0,28,3,Jumper
+26,Isaac Bonga,FG_MISS,Ekpe Udoh,9:13,2,Jazz,Lakers,34 - 38,1,0,2,Layup
+27,Jemerrio Jones,OFFENSIVE_REBOUND,None,9:10,2,Lakers,Jazz,34 - 38,1,N/A,N/A,N/A
+28,Jemerrio Jones,FG_MISS,None,9:08,2,Lakers,Jazz,34 - 38,1,0,2,Layup
+29,Isaac Bonga,OFFENSIVE_REBOUND,None,9:04,2,Lakers,Jazz,34 - 38,1,N/A,N/A,N/A
+30,Isaac Bonga's,FG_MISS,Georges Niang,9:04,2,Jazz,Lakers,34 - 38,1, ,2,Jumper
+31,Georges Niang,DEFENSIVE_REBOUND,None,9:00,2,Jazz,Lakers,34 - 38,0,N/A,N/A,N/A
+32,Georges Niang,FG_MISS,None,9:00,2,Jazz,Lakers,34 - 38,0,26,3,Jumper
+33,Team,DEFENSIVE_REBOUND,None,9:00,2,Lakers,Jazz,34 - 38,1,N/A,N/A,N/A
+34,Moritz Wagner,SUBSTITUTION,Caruso Alex,9:00,2,Lakers,Jazz,34 - 38,1,N/A,N/A,N/A
+35,Kentavious Caldwell-Pope,SUBSTITUTION,Muscala Mike,9:00,2,Lakers,Jazz,34 - 38,1,N/A,N/A,N/A
+36,Kentavious Caldwell-Pope,TURNOVER,Thabo Sefolosha,8:50,2,Lakers,Jazz,34 - 38,1,N/A,N/A,N/A
+37,Joe Ingles,FG_MISS,None,8:41,2,Jazz,Lakers,34 - 38,0,23,3,Jumper
+38,Kentavious Caldwell-Pope,DEFENSIVE_REBOUND,None,8:39,2,Lakers,Jazz,34 - 38,1,N/A,N/A,N/A
+39,Isaac Bonga,FG_MISS,None,8:19,2,Lakers,Jazz,34 - 38,1,21,2,Jumper
+40,Thabo Sefolosha,DEFENSIVE_REBOUND,None,8:16,2,Jazz,Lakers,34 - 38,0,N/A,N/A,N/A
+41,Grayson Allen,FG_MISS,Jemerrio Jones,7:56,2,Lakers,Jazz,34 - 38,0,0,2,Layup
+42,Jemerrio Jones,DEFENSIVE_REBOUND,None,7:54,2,Lakers,Jazz,34 - 38,1,N/A,N/A,N/A
+43,Kentavious Caldwell-Pope,FG_ASSISTED,Jemerrio Jones,7:52,2,Lakers,Jazz,34 - 41,1,26,3,Jumper
+44,Team,Unknown,None,7:49,2,Jazz,Lakers,34 - 41,0,N/A,N/A,N/A
+45,JaVale McGee,SUBSTITUTION,Williams Johnathan,7:49,2,Lakers,Jazz,34 - 41,1,N/A,N/A,N/A
+46,Donovan Mitchell,SUBSTITUTION,Ingles Joe,7:49,2,Jazz,Lakers,34 - 41,0,N/A,N/A,N/A
+47,Royce O'Neale,SUBSTITUTION,Allen Grayson,7:49,2,Jazz,Lakers,34 - 41,0,N/A,N/A,N/A
+48,Rudy Gobert,SUBSTITUTION,Udoh Ekpe,7:49,2,Jazz,Lakers,34 - 41,0,N/A,N/A,N/A
+49,Thabo Sefolosha,FG_MISS,None,7:29,2,Jazz,Lakers,34 - 41,0,25,2,Jumper
+50,Rudy Gobert,OFFENSIVE_REBOUND,None,7:22,2,Jazz,Lakers,34 - 41,0,N/A,N/A,N/A
+51,Rudy Gobert,FG_UNASSISTED,None,7:22,2,Jazz,Lakers,36 - 41,0, ,2,Jumper
+52,JaVale McGee,FG_MISS,None,7:10,2,Lakers,Jazz,36 - 41,1,26,3,Jumper
+53,Royce O'Neale,DEFENSIVE_REBOUND,None,7:07,2,Jazz,Lakers,36 - 41,0,N/A,N/A,N/A
+54,Thabo Sefolosha,TURNOVER,Isaac Bonga,6:52,2,Jazz,Lakers,36 - 41,0,N/A,N/A,N/A
+55,Isaac Bonga,TURNOVER,None,6:49,2,Lakers,Jazz,36 - 41,1,N/A,N/A,N/A
+56,Donovan Mitchell,FG_UNASSISTED,None,6:38,2,Jazz,Lakers,38 - 41,0,0,2,Layup
+57,Kentavious Caldwell-Pope,FG_MISS,None,6:26,2,Lakers,Jazz,38 - 41,1, ,2,Jumper
+58,JaVale McGee,OFFENSIVE_REBOUND,None,6:24,2,Lakers,Jazz,38 - 41,1,N/A,N/A,N/A
+59,JaVale McGee,FG_MISS,None,6:23,2,Lakers,Jazz,38 - 41,1, ,2,Jumper
+60,Team,OFFENSIVE_REBOUND,None,6:22,2,Lakers,Jazz,38 - 41,1,N/A,N/A,N/A
+61,Alex Caruso,SUBSTITUTION,Bonga Isaac,6:22,2,Lakers,Jazz,38 - 41,1,N/A,N/A,N/A
+62,Alex Caruso,FG_MISS,Rudy Gobert,6:09,2,Jazz,Lakers,38 - 41,1,0,2,Layup
+63,Team,OFFENSIVE_REBOUND,None,6:08,2,Lakers,Jazz,38 - 41,1,N/A,N/A,N/A
+64,shot clock,TURNOVER,None,6:08,2,Lakers,Jazz,38 - 41,1,N/A,N/A,N/A
+65,Thabo Sefolosha,FG_ASSISTED,Donovan Mitchell,5:51,2,Jazz,Lakers,41 - 41,0,28,3,Jumper
+66,Alex Caruso,TURNOVER,None,5:42,2,Lakers,Jazz,41 - 41,1,N/A,N/A,N/A
+67,JaVale McGee,FOUL_ON_FLOOR,None,5:34,2,Lakers,Jazz,41 - 41,1,N/A,N/A,N/A
+68,Rudy Gobert,FT_MISS,None,5:34,2,Jazz,Lakers,41 - 41,0,N/A,1,N/A
+69,Team,Unknown,None,5:34,2,Lakers,Jazz,41 - 41,1,N/A,N/A,N/A
+70,Mike Muscala,SUBSTITUTION,Caldwell-Pope Kentavious,5:34,2,Lakers,Jazz,41 - 41,1,N/A,N/A,N/A
+71,Isaac Bonga,SUBSTITUTION,Wagner Moritz,5:34,2,Lakers,Jazz,41 - 41,1,N/A,N/A,N/A
+72,Team,OFFENSIVE_REBOUND,None,5:34,2,Jazz,Lakers,41 - 41,0,N/A,N/A,N/A
+73,Rudy Gobert,FT,None,5:34,2,Jazz,Lakers,42 - 41,0,N/A,1,N/A
+74,Royce O'Neale,FOUL_ON_FLOOR,None,5:23,2,Jazz,Lakers,42 - 41,0,N/A,N/A,N/A
+75,Alex Caruso,FT_MISS,None,5:23,2,Lakers,Jazz,42 - 41,1,N/A,1,N/A
+76,Team,OFFENSIVE_REBOUND,None,5:23,2,Lakers,Jazz,42 - 41,1,N/A,N/A,N/A
+77,Alex Caruso,FT,None,5:23,2,Lakers,Jazz,42 - 42,1,N/A,1,N/A
+78,Thabo Sefolosha,FG_ASSISTED,Royce O'Neale,5:10,2,Jazz,Lakers,45 - 42,0,23,3,Jumper
+79,Alex Caruso,FG_UNASSISTED,None,4:54,2,Lakers,Jazz,45 - 44,1,5,2,Jumper
+80,Georges Niang,FG_MISS,None,4:40,2,Jazz,Lakers,45 - 44,0,23,3,Jumper
+81,JaVale McGee,DEFENSIVE_REBOUND,None,4:36,2,Lakers,Jazz,45 - 44,1,N/A,N/A,N/A
+82,Mike Muscala,FG_ASSISTED,Jemerrio Jones,4:23,2,Lakers,Jazz,45 - 47,1,26,3,Jumper
+83,Royce O'Neale,FG_MISS,None,4:06,2,Jazz,Lakers,45 - 47,0,24,3,Jumper
+84,JaVale McGee,DEFENSIVE_REBOUND,None,4:03,2,Lakers,Jazz,45 - 47,1,N/A,N/A,N/A
+85,Alex Caruso,FG_MISS,None,3:48,2,Lakers,Jazz,45 - 47,1,28,3,Jumper
+86,Royce O'Neale,DEFENSIVE_REBOUND,None,3:44,2,Jazz,Lakers,45 - 47,0,N/A,N/A,N/A
+87,Donovan Mitchell,FG_UNASSISTED,None,3:33,2,Jazz,Lakers,48 - 47,0,29,3,Jumper
+88,JaVale McGee,FG_MISS,None,3:08,2,Lakers,Jazz,48 - 47,1,26,3,Jumper
+89,Royce O'Neale,DEFENSIVE_REBOUND,None,3:03,2,Jazz,Lakers,48 - 47,0,N/A,N/A,N/A
+90,Jemerrio Jones,FOUL_ON_FLOOR,None,3:00,2,Lakers,Jazz,48 - 47,1,N/A,N/A,N/A
+91,Donovan Mitchell,FT,None,3:00,2,Jazz,Lakers,49 - 47,0,N/A,1,N/A
+92,Johnathan Williams,SUBSTITUTION,McGee JaVale,3:00,2,Lakers,Jazz,49 - 47,1,N/A,N/A,N/A
+93,Kentavious Caldwell-Pope,SUBSTITUTION,Jones Jemerrio,3:00,2,Lakers,Jazz,49 - 47,1,N/A,N/A,N/A
+94,Joe Ingles,SUBSTITUTION,Sefolosha Thabo,3:00,2,Jazz,Lakers,49 - 47,0,N/A,N/A,N/A
+95,Jae Crowder,SUBSTITUTION,Niang Georges,3:00,2,Jazz,Lakers,49 - 47,0,N/A,N/A,N/A
+96,Donovan Mitchell,FT,None,3:00,2,Jazz,Lakers,50 - 47,0,N/A,1,N/A
+97,Johnathan Williams,FG_ASSISTED,Kentavious Caldwell-Pope,2:49,2,Lakers,Jazz,50 - 49,1,0,2,Dunk
+98,Joe Ingles,FG_ASSISTED,Rudy Gobert,2:33,2,Jazz,Lakers,53 - 49,0,23,3,Jumper
+99,Mike Muscala,FG_ASSISTED,Alex Caruso,2:16,2,Lakers,Jazz,53 - 52,1,27,3,Jumper
+100,Kentavious Caldwell-Pope,FOUL_ON_FLOOR,None,1:59,2,Lakers,Jazz,53 - 52,1,N/A,N/A,N/A
+101,Joe Ingles,FG_ASSISTED,Rudy Gobert,1:49,2,Jazz,Lakers,56 - 52,0,26,3,Jumper
+102,Kentavious Caldwell-Pope,FG_UNASSISTED,None,1:39,2,Lakers,Jazz,56 - 54,1,17,2,Jumper
+103,Rudy Gobert,FG_MISS,None,1:25,2,Jazz,Lakers,56 - 54,0,10,2,Jumper
+104,Mike Muscala,DEFENSIVE_REBOUND,None,1:21,2,Lakers,Jazz,56 - 54,1,N/A,N/A,N/A
+105,Isaac Bonga,FG_MISS,None,1:10,2,Lakers,Jazz,56 - 54,1,25,3,Jumper
+106,Jae Crowder,DEFENSIVE_REBOUND,None,1:05,2,Jazz,Lakers,56 - 54,0,N/A,N/A,N/A
+107,Donovan Mitchell,TURNOVER,None,52.9,2,Jazz,Lakers,56 - 54,0,N/A,N/A,N/A
+108,Alex Caruso,FG_MISS,None,39.8,2,Lakers,Jazz,56 - 54,1, ,2,Jumper
+109,Royce O'Neale,DEFENSIVE_REBOUND,None,37.2,2,Jazz,Lakers,56 - 54,0,N/A,N/A,N/A
+110,Joe Ingles,FG_MISS,None,28.6,2,Jazz,Lakers,56 - 54,0,29,3,Jumper
+111,Rudy Gobert,OFFENSIVE_REBOUND,None,24.3,2,Jazz,Lakers,56 - 54,0,N/A,N/A,N/A
+112,Donovan Mitchell,FG_UNASSISTED,None,16.0,2,Jazz,Lakers,59 - 54,0,26,3,Jumper
+113,End of,Unknown,None,0.0,2,Lakers,Jazz,59 - 54,1,N/A,N/A,N/A
+0,Jemerrio Jones,SUBSTITUTION,Bonga Isaac,12:00,3,Lakers,Jazz,59 - 54,1,N/A,N/A,N/A
+1,JaVale McGee,SUBSTITUTION,Williams Johnathan,12:00,3,Lakers,Jazz,59 - 54,1,N/A,N/A,N/A
+2,Thabo Sefolosha,SUBSTITUTION,Crowder Jae,12:00,3,Jazz,Lakers,59 - 54,0,N/A,N/A,N/A
+3,Kentavious Caldwell-Pope,TURNOVER,Thabo Sefolosha,11:46,3,Lakers,Jazz,59 - 54,1,N/A,N/A,N/A
+4,Mike Muscala,FOUL_ON_FLOOR,None,11:39,3,Lakers,Jazz,59 - 54,1,N/A,N/A,N/A
+5,Donovan Mitchell,FT,None,11:39,3,Jazz,Lakers,60 - 54,0,N/A,1,N/A
+6,Donovan Mitchell,FT,None,11:39,3,Jazz,Lakers,61 - 54,0,N/A,1,N/A
+7,Rudy Gobert,FOUL_TECHNICAL,None,11:25,3,Jazz,Lakers,61 - 54,0,N/A,N/A,N/A
+8,Kentavious Caldwell-Pope,FT,None,11:25,3,Lakers,Jazz,61 - 55,1,N/A,1,N/A
+9,Alex Caruso,FG_MISS,None,11:15,3,Lakers,Jazz,61 - 55,1, ,2,Jumper
+10,JaVale McGee,OFFENSIVE_REBOUND,None,11:12,3,Lakers,Jazz,61 - 55,1,N/A,N/A,N/A
+11,JaVale McGee,FG_MISS,None,11:12,3,Lakers,Jazz,61 - 55,1, ,2,Jumper
+12,Jemerrio Jones,OFFENSIVE_REBOUND,None,11:12,3,Lakers,Jazz,61 - 55,1,N/A,N/A,N/A
+13,Jemerrio Jones,FG_UNASSISTED,None,11:10,3,Lakers,Jazz,61 - 57,1, ,2,Jumper
+14,Rudy Gobert,TURNOVER,Kentavious Caldwell-Pope,11:08,3,Jazz,Lakers,61 - 57,0,N/A,N/A,N/A
+15,JaVale McGee,FG_ASSISTED,Kentavious Caldwell-Pope,11:06,3,Lakers,Jazz,61 - 59,1,0,2,Dunk
+16,Rudy Gobert,FG_MISS,None,10:47,3,Jazz,Lakers,61 - 59,0,17,2,Jumper
+17,Jemerrio Jones,DEFENSIVE_REBOUND,None,10:43,3,Lakers,Jazz,61 - 59,1,N/A,N/A,N/A
+18,Alex Caruso,TURNOVER,Donovan Mitchell,10:38,3,Lakers,Jazz,61 - 59,1,N/A,N/A,N/A
+19,Thabo Sefolosha,FG_MISS,None,10:28,3,Jazz,Lakers,61 - 59,0,0,2,Layup
+20,Rudy Gobert,OFFENSIVE_REBOUND,None,10:24,3,Jazz,Lakers,61 - 59,0,N/A,N/A,N/A
+21,Rudy Gobert,FG_UNASSISTED,None,10:24,3,Jazz,Lakers,63 - 59,0, ,2,Jumper
+22,JaVale McGee,FG_UNASSISTED,None,10:16,3,Lakers,Jazz,63 - 61,1,12,2,Jumper
+23,Donovan Mitchell,FG_MISS,JaVale McGee,9:55,3,Lakers,Jazz,63 - 61,0,0,2,Layup
+24,Jemerrio Jones,DEFENSIVE_REBOUND,None,9:53,3,Lakers,Jazz,63 - 61,1,N/A,N/A,N/A
+25,Kentavious Caldwell-Pope,FG_MISS,None,9:46,3,Lakers,Jazz,63 - 61,1,27,3,Jumper
+26,Jemerrio Jones,OFFENSIVE_REBOUND,None,9:43,3,Lakers,Jazz,63 - 61,1,N/A,N/A,N/A
+27,Kentavious Caldwell-Pope,FG_UNASSISTED,None,9:36,3,Lakers,Jazz,63 - 63,1,0,2,Layup
+28,Alex Caruso,FOUL_ON_FLOOR,None,9:16,3,Lakers,Jazz,63 - 63,1,N/A,N/A,N/A
+29,Rudy Gobert,FT_MISS,None,9:16,3,Jazz,Lakers,63 - 63,0,N/A,1,N/A
+30,Team,OFFENSIVE_REBOUND,None,9:16,3,Jazz,Lakers,63 - 63,0,N/A,N/A,N/A
+31,Rudy Gobert,FT,None,9:16,3,Jazz,Lakers,64 - 63,0,N/A,1,N/A
+32,Alex Caruso,TURNOVER,Thabo Sefolosha,9:01,3,Lakers,Jazz,64 - 63,1,N/A,N/A,N/A
+33,Rudy Gobert,FG_ASSISTED,Joe Ingles,8:52,3,Jazz,Lakers,66 - 63,0,0,2,Dunk
+34,Team,Unknown,None,8:48,3,Lakers,Jazz,66 - 63,1,N/A,N/A,N/A
+35,Donovan Mitchell,FOUL_ON_FLOOR,None,8:37,3,Jazz,Lakers,66 - 63,0,N/A,N/A,N/A
+36,Alex Caruso,FG_UNASSISTED,None,8:29,3,Lakers,Jazz,66 - 65,1,9,2,Jumper
+37,Rudy Gobert,FG_ASSISTED,Donovan Mitchell,8:07,3,Jazz,Lakers,68 - 65,0,4,2,Jumper
+38,Alex Caruso,FG_MISS,None,7:49,3,Lakers,Jazz,68 - 65,1,0,2,Layup
+39,Donovan Mitchell,DEFENSIVE_REBOUND,None,7:46,3,Jazz,Lakers,68 - 65,0,N/A,N/A,N/A
+40,Thabo Sefolosha,FG_ASSISTED,Joe Ingles,7:42,3,Jazz,Lakers,71 - 65,0,23,3,Jumper
+41,JaVale McGee,FG_MISS,Rudy Gobert,7:30,3,Jazz,Lakers,71 - 65,1,0,2,Dunk
+42,Thabo Sefolosha,DEFENSIVE_REBOUND,None,7:26,3,Jazz,Lakers,71 - 65,0,N/A,N/A,N/A
+43,Rudy Gobert,FG_ASSISTED,Thabo Sefolosha,7:12,3,Jazz,Lakers,73 - 65,0,0,2,Dunk
+44,Team,Unknown,None,7:09,3,Lakers,Jazz,73 - 65,1,N/A,N/A,N/A
+45,Johnathan Williams,SUBSTITUTION,McGee JaVale,7:09,3,Lakers,Jazz,73 - 65,1,N/A,N/A,N/A
+46,Georges Niang,SUBSTITUTION,Ingles Joe,7:09,3,Jazz,Lakers,73 - 65,0,N/A,N/A,N/A
+47,Alex Caruso,FG_MISS,None,6:55,3,Lakers,Jazz,73 - 65,1,12,2,Jumper
+48,Johnathan Williams,OFFENSIVE_REBOUND,None,6:51,3,Lakers,Jazz,73 - 65,1,N/A,N/A,N/A
+49,Jemerrio Jones,FG_ASSISTED,Alex Caruso,6:49,3,Lakers,Jazz,73 - 68,1,25,3,Jumper
+50,Royce O'Neale,FG_MISS,None,6:31,3,Jazz,Lakers,73 - 68,0,28,3,Jumper
+51,Jemerrio Jones,DEFENSIVE_REBOUND,None,6:31,3,Lakers,Jazz,73 - 68,1,N/A,N/A,N/A
+52,Johnathan Williams,FOUL_ON_FLOOR,None,6:24,3,Lakers,Jazz,73 - 68,1,N/A,N/A,N/A
+53,Johnathan Williams,TURNOVER,None,6:24,3,Lakers,Jazz,73 - 68,1,N/A,N/A,N/A
+54,Thabo Sefolosha,FG_MISS,None,6:08,3,Jazz,Lakers,73 - 68,0,24,3,Jumper
+55,Mike Muscala,DEFENSIVE_REBOUND,None,6:04,3,Lakers,Jazz,73 - 68,1,N/A,N/A,N/A
+56,Alex Caruso,FG_MISS,None,5:50,3,Lakers,Jazz,73 - 68,1,0,2,Layup
+57,Johnathan Williams,OFFENSIVE_REBOUND,None,5:48,3,Lakers,Jazz,73 - 68,1,N/A,N/A,N/A
+58,Kentavious Caldwell-Pope,TURNOVER,Georges Niang,5:40,3,Lakers,Jazz,73 - 68,1,N/A,N/A,N/A
+59,Donovan Mitchell,FG_MISS,None,5:31,3,Jazz,Lakers,73 - 68,0, ,2,Jumper
+60,Thabo Sefolosha,OFFENSIVE_REBOUND,None,5:27,3,Jazz,Lakers,73 - 68,0,N/A,N/A,N/A
+61,Thabo Sefolosha,FG_UNASSISTED,None,5:27,3,Jazz,Lakers,75 - 68,0, ,2,Jumper
+62,Jemerrio Jones,FG_MISS,None,5:06,3,Lakers,Jazz,75 - 68,1,26,3,Jumper
+63,Donovan Mitchell,DEFENSIVE_REBOUND,None,5:03,3,Jazz,Lakers,75 - 68,0,N/A,N/A,N/A
+64,Royce O'Neale,FG_ASSISTED,Donovan Mitchell,4:51,3,Jazz,Lakers,78 - 68,0,27,3,Jumper
+65,Kentavious Caldwell-Pope,FG_MISS,None,4:26,3,Lakers,Jazz,78 - 68,1,10,2,Jumper
+66,Kentavious Caldwell-Pope,OFFENSIVE_REBOUND,None,4:25,3,Lakers,Jazz,78 - 68,1,N/A,N/A,N/A
+67,Alex Caruso,FG_UNASSISTED,None,4:16,3,Lakers,Jazz,78 - 70,1,0,2,Layup
+68,Team,Unknown,None,4:15,3,Jazz,Lakers,78 - 70,0,N/A,N/A,N/A
+69,Moritz Wagner,SUBSTITUTION,Muscala Mike,4:15,3,Lakers,Jazz,78 - 70,1,N/A,N/A,N/A
+70,Jae Crowder,SUBSTITUTION,Sefolosha Thabo,4:15,3,Jazz,Lakers,78 - 70,0,N/A,N/A,N/A
+71,Donovan Mitchell,FG_MISS,None,3:53,3,Jazz,Lakers,78 - 70,0,18,2,Jumper
+72,Jemerrio Jones,DEFENSIVE_REBOUND,None,3:49,3,Lakers,Jazz,78 - 70,1,N/A,N/A,N/A
+73,Kentavious Caldwell-Pope,FG_UNASSISTED,None,3:36,3,Lakers,Jazz,78 - 72,1,14,2,Jumper
+74,Royce O'Neale,FG_MISS,Moritz Wagner,3:20,3,Lakers,Jazz,78 - 72,0,0,2,Layup
+75,Kentavious Caldwell-Pope,DEFENSIVE_REBOUND,None,3:18,3,Lakers,Jazz,78 - 72,1,N/A,N/A,N/A
+76,Rudy Gobert,FOUL_ON_FLOOR,None,3:16,3,Jazz,Lakers,78 - 72,0,N/A,N/A,N/A
+77,Johnathan Williams,FT,None,3:16,3,Lakers,Jazz,78 - 73,1,N/A,1,N/A
+78,Ekpe Udoh,SUBSTITUTION,Gobert Rudy,3:16,3,Jazz,Lakers,78 - 73,0,N/A,N/A,N/A
+79,Grayson Allen,SUBSTITUTION,Mitchell Donovan,3:16,3,Jazz,Lakers,78 - 73,0,N/A,N/A,N/A
+80,Joe Ingles,SUBSTITUTION,O'Neale Royce,3:16,3,Jazz,Lakers,78 - 73,0,N/A,N/A,N/A
+81,Johnathan Williams,FT,None,3:16,3,Lakers,Jazz,78 - 74,1,N/A,1,N/A
+82,Georges Niang,FG_MISS,None,2:57,3,Jazz,Lakers,78 - 74,0,23,3,Jumper
+83,Jemerrio Jones,DEFENSIVE_REBOUND,None,2:54,3,Lakers,Jazz,78 - 74,1,N/A,N/A,N/A
+84,Georges Niang,FOUL_ON_FLOOR,None,2:49,3,Jazz,Lakers,78 - 74,0,N/A,N/A,N/A
+85,Johnathan Williams,FT,None,2:49,3,Lakers,Jazz,78 - 75,1,N/A,1,N/A
+86,Johnathan Williams,FT,None,2:49,3,Lakers,Jazz,78 - 76,1,N/A,1,N/A
+87,Grayson Allen,FG_MISS,None,2:28,3,Jazz,Lakers,78 - 76,0,16,2,Jumper
+88,Johnathan Williams,DEFENSIVE_REBOUND,None,2:24,3,Lakers,Jazz,78 - 76,1,N/A,N/A,N/A
+89,Johnathan Williams,FG_ASSISTED,Alex Caruso,2:15,3,Lakers,Jazz,78 - 78,1, ,2,Jumper
+90,Grayson Allen,FOUL_ON_FLOOR,None,2:15,3,Jazz,Lakers,78 - 78,0,N/A,N/A,N/A
+91,Johnathan Williams,FT_MISS,None,2:15,3,Lakers,Jazz,78 - 78,1,N/A,1,N/A
+92,Jae Crowder,DEFENSIVE_REBOUND,None,2:12,3,Jazz,Lakers,78 - 78,0,N/A,N/A,N/A
+93,Jae Crowder,FG_ASSISTED,Joe Ingles,1:59,3,Jazz,Lakers,81 - 78,0,26,3,Jumper
+94,Jae Crowder,FOUL_ON_FLOOR,None,1:38,3,Jazz,Lakers,81 - 78,0,N/A,N/A,N/A
+95,Johnathan Williams,FT_MISS,None,1:38,3,Lakers,Jazz,81 - 78,1,N/A,1,N/A
+96,Team,OFFENSIVE_REBOUND,None,1:38,3,Lakers,Jazz,81 - 78,1,N/A,N/A,N/A
+97,Isaac Bonga,SUBSTITUTION,Caldwell-Pope Kentavious,1:38,3,Lakers,Jazz,81 - 78,1,N/A,N/A,N/A
+98,Johnathan Williams,FT,None,1:38,3,Lakers,Jazz,81 - 79,1,N/A,1,N/A
+99,Jae Crowder,FG_MISS,None,1:28,3,Jazz,Lakers,81 - 79,0,0,2,Layup
+100,Johnathan Williams,DEFENSIVE_REBOUND,None,1:25,3,Lakers,Jazz,81 - 79,1,N/A,N/A,N/A
+101,Moritz Wagner,FG_MISS,None,1:22,3,Lakers,Jazz,81 - 79,1,27,3,Jumper
+102,Grayson Allen,DEFENSIVE_REBOUND,None,1:18,3,Jazz,Lakers,81 - 79,0,N/A,N/A,N/A
+103,Georges Niang,FG_UNASSISTED,None,1:09,3,Jazz,Lakers,83 - 79,0,4,2,Jumper
+104,Moritz Wagner,FG_UNASSISTED,None,57.4,3,Lakers,Jazz,83 - 81,1,0,2,Dunk
+105,Georges Niang,TURNOVER,None,46.6,3,Jazz,Lakers,83 - 81,0,N/A,N/A,N/A
+106,Georges Niang,TURNOVER,None,46.6,3,Jazz,Lakers,83 - 81,0,N/A,N/A,N/A
+107,Alex Caruso,TURNOVER,Ekpe Udoh,31.6,3,Lakers,Jazz,83 - 81,1,N/A,N/A,N/A
+108,Jae Crowder,FG_MISS,None,27.0,3,Jazz,Lakers,83 - 81,0, ,2,Jumper
+109,Moritz Wagner,DEFENSIVE_REBOUND,None,20.5,3,Lakers,Jazz,83 - 81,1,N/A,N/A,N/A
+110,Jemerrio Jones,FG_MISS,None,4.8,3,Lakers,Jazz,83 - 81,1,26,3,Jumper
+111,Joe Ingles,DEFENSIVE_REBOUND,None,0.7,3,Jazz,Lakers,83 - 81,0,N/A,N/A,N/A
+112,End of,Unknown,None,0.0,3,Lakers,Jazz,83 - 81,1,N/A,N/A,N/A
+0,Mike Muscala,SUBSTITUTION,Caruso Alex,12:00,4,Lakers,Jazz,83 - 81,1,N/A,N/A,N/A
+1,Kentavious Caldwell-Pope,SUBSTITUTION,Bonga Isaac,12:00,4,Lakers,Jazz,83 - 81,1,N/A,N/A,N/A
+2,Moritz Wagner,FOUL_ON_FLOOR,None,11:52,4,Lakers,Jazz,83 - 81,1,N/A,N/A,N/A
+3,Georges Niang,FT,None,11:52,4,Jazz,Lakers,84 - 81,0,N/A,1,N/A
+4,Georges Niang,FT,None,11:52,4,Jazz,Lakers,85 - 81,0,N/A,1,N/A
+5,Moritz Wagner,FG_ASSISTED,Jemerrio Jones,11:35,4,Lakers,Jazz,85 - 83,1,6,2,Jumper
+6,Georges Niang,TURNOVER,None,11:27,4,Jazz,Lakers,85 - 83,0,N/A,N/A,N/A
+7,Moritz Wagner,FG_MISS,None,11:14,4,Lakers,Jazz,85 - 83,1,13,2,Jumper
+8,Georges Niang,DEFENSIVE_REBOUND,None,11:10,4,Jazz,Lakers,85 - 83,0,N/A,N/A,N/A
+9,Jae Crowder,FG_MISS,Mike Muscala,11:05,4,Lakers,Jazz,85 - 83,0,3,2,Jumper
+10,Jemerrio Jones,DEFENSIVE_REBOUND,None,11:01,4,Lakers,Jazz,85 - 83,1,N/A,N/A,N/A
+11,Mike Muscala,FG_ASSISTED,Kentavious Caldwell-Pope,10:59,4,Lakers,Jazz,85 - 86,1,25,3,Jumper
+12,Jae Crowder,FG_MISS,None,10:31,4,Jazz,Lakers,85 - 86,0,23,2,Jumper
+13,Johnathan Williams,DEFENSIVE_REBOUND,None,10:26,4,Lakers,Jazz,85 - 86,1,N/A,N/A,N/A
+14,Kentavious Caldwell-Pope,FG_ASSISTED,Jemerrio Jones,10:25,4,Lakers,Jazz,85 - 89,1,27,3,Jumper
+15,Team,Unknown,None,10:24,4,Jazz,Lakers,85 - 89,0,N/A,N/A,N/A
+16,Donovan Mitchell,SUBSTITUTION,Niang Georges,10:24,4,Jazz,Lakers,85 - 89,0,N/A,N/A,N/A
+17,Rudy Gobert,SUBSTITUTION,Udoh Ekpe,10:24,4,Jazz,Lakers,85 - 89,0,N/A,N/A,N/A
+18,Jae Crowder,FG_ASSISTED,Grayson Allen,10:05,4,Jazz,Lakers,87 - 89,0,22,2,Jumper
+19,Moritz Wagner,FG_MISS,None,9:45,4,Lakers,Jazz,87 - 89,1,22,3,Jumper
+20,Jae Crowder,DEFENSIVE_REBOUND,None,9:41,4,Jazz,Lakers,87 - 89,0,N/A,N/A,N/A
+21,Moritz Wagner,FOUL_ON_FLOOR,None,9:36,4,Lakers,Jazz,87 - 89,1,N/A,N/A,N/A
+22,Alex Caruso,SUBSTITUTION,Wagner Moritz,9:36,4,Lakers,Jazz,87 - 89,1,N/A,N/A,N/A
+23,Joe Ingles,TURNOVER,Jemerrio Jones,9:25,4,Jazz,Lakers,87 - 89,0,N/A,N/A,N/A
+24,Alex Caruso,FG_MISS,None,9:07,4,Lakers,Jazz,87 - 89,1,26,2,Jumper
+25,Jae Crowder,DEFENSIVE_REBOUND,None,9:05,4,Jazz,Lakers,87 - 89,0,N/A,N/A,N/A
+26,Jae Crowder,FG_MISS,None,8:57,4,Jazz,Lakers,87 - 89,0,26,3,Jumper
+27,Team,DEFENSIVE_REBOUND,None,8:55,4,Lakers,Jazz,87 - 89,1,N/A,N/A,N/A
+28,Rudy Gobert,FOUL_ON_FLOOR,None,8:55,4,Jazz,Lakers,87 - 89,0,N/A,N/A,N/A
+29,Rudy Gobert,FOUL_TECHNICAL,None,8:55,4,Jazz,Lakers,87 - 89,0,N/A,N/A,N/A
+30,Kentavious Caldwell-Pope,FT,None,8:55,4,Lakers,Jazz,87 - 90,1,N/A,1,N/A
+31,Royce O'Neale,SUBSTITUTION,Ingles Joe,8:55,4,Jazz,Lakers,87 - 90,0,N/A,N/A,N/A
+32,Thabo Sefolosha,SUBSTITUTION,Crowder Jae,8:55,4,Jazz,Lakers,87 - 90,0,N/A,N/A,N/A
+33,Johnathan Williams,FG_MISS,None,8:41,4,Lakers,Jazz,87 - 90,1,11,2,Jumper
+34,Rudy Gobert,DEFENSIVE_REBOUND,None,8:38,4,Jazz,Lakers,87 - 90,0,N/A,N/A,N/A
+35,Johnathan Williams,FOUL_ON_FLOOR,None,8:31,4,Lakers,Jazz,87 - 90,1,N/A,N/A,N/A
+36,Georges Niang,SUBSTITUTION,Allen Grayson,8:31,4,Jazz,Lakers,87 - 90,0,N/A,N/A,N/A
+37,JaVale McGee,SUBSTITUTION,Williams Johnathan,8:31,4,Lakers,Jazz,87 - 90,1,N/A,N/A,N/A
+38,Rudy Gobert,FG_MISS,JaVale McGee,8:16,4,Lakers,Jazz,87 - 90,0,0,2,Dunk
+39,Jemerrio Jones,DEFENSIVE_REBOUND,None,8:13,4,Lakers,Jazz,87 - 90,1,N/A,N/A,N/A
+40,Mike Muscala,TURNOVER,Thabo Sefolosha,8:06,4,Lakers,Jazz,87 - 90,1,N/A,N/A,N/A
+41,Alex Caruso,FOUL_ON_FLOOR,None,7:59,4,Lakers,Jazz,87 - 90,1,N/A,N/A,N/A
+42,Donovan Mitchell,FT_MISS,None,7:59,4,Jazz,Lakers,87 - 90,0,N/A,1,N/A
+43,Team,OFFENSIVE_REBOUND,None,7:59,4,Jazz,Lakers,87 - 90,0,N/A,N/A,N/A
+44,Donovan Mitchell,FT,None,7:59,4,Jazz,Lakers,88 - 90,0,N/A,1,N/A
+45,Kentavious Caldwell-Pope,FG_ASSISTED,JaVale McGee,7:42,4,Lakers,Jazz,88 - 92,1,15,2,Jumper
+46,Donovan Mitchell,FG_MISS,None,7:28,4,Jazz,Lakers,88 - 92,0,3,2,Jumper
+47,Rudy Gobert,OFFENSIVE_REBOUND,None,7:25,4,Jazz,Lakers,88 - 92,0,N/A,N/A,N/A
+48,Alex Caruso,FOUL_ON_FLOOR,None,7:25,4,Lakers,Jazz,88 - 92,1,N/A,N/A,N/A
+49,Rudy Gobert,FT,None,7:25,4,Jazz,Lakers,89 - 92,0,N/A,1,N/A
+50,Rudy Gobert,FT_MISS,None,7:25,4,Jazz,Lakers,89 - 92,0,N/A,1,N/A
+51,Rudy Gobert,OFFENSIVE_REBOUND,None,7:20,4,Jazz,Lakers,89 - 92,0,N/A,N/A,N/A
+52,Royce O'Neale,FG_MISS,None,7:09,4,Jazz,Lakers,89 - 92,0,28,2,Jumper
+53,Jemerrio Jones,DEFENSIVE_REBOUND,None,7:05,4,Lakers,Jazz,89 - 92,1,N/A,N/A,N/A
+54,Mike Muscala,FG_MISS,None,6:54,4,Lakers,Jazz,89 - 92,1,27,3,Jumper
+55,JaVale McGee,OFFENSIVE_REBOUND,None,6:49,4,Lakers,Jazz,89 - 92,1,N/A,N/A,N/A
+56,Rudy Gobert,FOUL_ON_FLOOR,None,6:46,4,Jazz,Lakers,89 - 92,0,N/A,N/A,N/A
+57,Alex Caruso,FT_MISS,None,6:46,4,Lakers,Jazz,89 - 92,1,N/A,1,N/A
+58,Team,OFFENSIVE_REBOUND,None,6:46,4,Lakers,Jazz,89 - 92,1,N/A,N/A,N/A
+59,Alex Caruso,FT,None,6:46,4,Lakers,Jazz,89 - 93,1,N/A,1,N/A
+60,Georges Niang,FG_UNASSISTED,None,6:29,4,Jazz,Lakers,91 - 93,0, ,2,Jumper
+61,JaVale McGee,FOUL_ON_FLOOR,None,6:22,4,Lakers,Jazz,91 - 93,1,N/A,N/A,N/A
+62,JaVale McGee,TURNOVER,None,6:22,4,Lakers,Jazz,91 - 93,1,N/A,N/A,N/A
+63,Joe Ingles,SUBSTITUTION,O'Neale Royce,6:22,4,Jazz,Lakers,91 - 93,0,N/A,N/A,N/A
+64,Joe Ingles,FG_MISS,None,6:08,4,Jazz,Lakers,91 - 93,0,23,3,Jumper
+65,Team,OFFENSIVE_REBOUND,None,6:08,4,Jazz,Lakers,91 - 93,0,N/A,N/A,N/A
+66,Donovan Mitchell,FG_MISS,None,6:06,4,Jazz,Lakers,91 - 93,0,24,3,Jumper
+67,Joe Ingles,OFFENSIVE_REBOUND,None,6:01,4,Jazz,Lakers,91 - 93,0,N/A,N/A,N/A
+68,Donovan Mitchell,FG_MISS,None,5:50,4,Jazz,Lakers,91 - 93,0,27,3,Jumper
+69,Kentavious Caldwell-Pope,DEFENSIVE_REBOUND,None,5:46,4,Lakers,Jazz,91 - 93,1,N/A,N/A,N/A
+70,Kentavious Caldwell-Pope,FG_MISS,None,5:35,4,Lakers,Jazz,91 - 93,1,28,3,Jumper
+71,Team,OFFENSIVE_REBOUND,None,5:34,4,Lakers,Jazz,91 - 93,1,N/A,N/A,N/A
+72,Donovan Mitchell,FOUL_ON_FLOOR,None,5:34,4,Jazz,Lakers,91 - 93,0,N/A,N/A,N/A
+73,Team,Unknown,None,5:34,4,Lakers,Jazz,91 - 93,1,N/A,N/A,N/A
+74,Jemerrio Jones,TURNOVER,None,5:24,4,Lakers,Jazz,91 - 93,1,N/A,N/A,N/A
+75,Joe Ingles,TURNOVER,None,5:13,4,Jazz,Lakers,91 - 93,0,N/A,N/A,N/A
+76,JaVale McGee,FG_ASSISTED,Kentavious Caldwell-Pope,4:56,4,Lakers,Jazz,91 - 95,1,0,2,Layup
+77,Donovan Mitchell,FG_MISS,Jemerrio Jones,4:41,4,Lakers,Jazz,91 - 95,0,0,2,Layup
+78,Team,OFFENSIVE_REBOUND,None,4:41,4,Jazz,Lakers,91 - 95,0,N/A,N/A,N/A
+79,Thabo Sefolosha,FG_MISS,None,4:34,4,Jazz,Lakers,91 - 95,0,23,3,Jumper
+80,Jemerrio Jones,DEFENSIVE_REBOUND,None,4:30,4,Lakers,Jazz,91 - 95,1,N/A,N/A,N/A
+81,Joe Ingles,FOUL_ON_FLOOR,None,4:27,4,Jazz,Lakers,91 - 95,0,N/A,N/A,N/A
+82,Kentavious Caldwell-Pope,FG_UNASSISTED,None,4:19,4,Lakers,Jazz,91 - 97,1,5,2,Jumper
+83,Georges Niang,FG_UNASSISTED,None,3:59,4,Jazz,Lakers,93 - 97,0,6,2,Jumper
+84,JaVale McGee,FG_ASSISTED,Alex Caruso,3:46,4,Lakers,Jazz,93 - 99,1,6,2,Jumper
+85,Alex Caruso,FOUL_ON_FLOOR,None,3:34,4,Lakers,Jazz,93 - 99,1,N/A,N/A,N/A
+86,Rudy Gobert,FT,None,3:34,4,Jazz,Lakers,94 - 99,0,N/A,1,N/A
+87,Jae Crowder,SUBSTITUTION,Sefolosha Thabo,3:34,4,Jazz,Lakers,94 - 99,0,N/A,N/A,N/A
+88,Rudy Gobert,FT,None,3:34,4,Jazz,Lakers,95 - 99,0,N/A,1,N/A
+89,Kentavious Caldwell-Pope,FG_ASSISTED,JaVale McGee,3:22,4,Lakers,Jazz,95 - 101,1,18,2,Jumper
+90,Joe Ingles,FG_MISS,None,2:56,4,Jazz,Lakers,95 - 101,0,27,3,Jumper
+91,JaVale McGee,DEFENSIVE_REBOUND,None,2:50,4,Lakers,Jazz,95 - 101,1,N/A,N/A,N/A
+92,Donovan Mitchell,FOUL_ON_FLOOR,None,2:43,4,Jazz,Lakers,95 - 101,0,N/A,N/A,N/A
+93,Kentavious Caldwell-Pope,FT_MISS,None,2:43,4,Lakers,Jazz,95 - 101,1,N/A,1,N/A
+94,Team,OFFENSIVE_REBOUND,None,2:43,4,Lakers,Jazz,95 - 101,1,N/A,N/A,N/A
+95,Kentavious Caldwell-Pope,FT,None,2:43,4,Lakers,Jazz,95 - 102,1,N/A,1,N/A
+96,Donovan Mitchell,FG_MISS,None,2:31,4,Jazz,Lakers,95 - 102,0,18,2,Jumper
+97,Mike Muscala,DEFENSIVE_REBOUND,None,2:27,4,Lakers,Jazz,95 - 102,1,N/A,N/A,N/A
+98,Kentavious Caldwell-Pope,FG_ASSISTED,Alex Caruso,2:20,4,Lakers,Jazz,95 - 104,1,13,2,Jumper
+99,Joe Ingles,FG_UNASSISTED,None,2:09,4,Jazz,Lakers,97 - 104,0,1,2,Jumper
+100,Kentavious Caldwell-Pope,FG_UNASSISTED,None,1:57,4,Lakers,Jazz,97 - 106,1,5,2,Jumper
+101,Team,Unknown,None,1:57,4,Jazz,Lakers,97 - 106,0,N/A,N/A,N/A
+102,Royce O'Neale,SUBSTITUTION,Niang Georges,1:57,4,Jazz,Lakers,97 - 106,0,N/A,N/A,N/A
+103,Donovan Mitchell,FG_MISS,None,1:50,4,Jazz,Lakers,97 - 106,0,26,3,Jumper
+104,Royce O'Neale,OFFENSIVE_REBOUND,None,1:45,4,Jazz,Lakers,97 - 106,0,N/A,N/A,N/A
+105,Joe Ingles,FG_ASSISTED,Donovan Mitchell,1:42,4,Jazz,Lakers,100 - 106,0,24,3,Jumper
+106,Alex Caruso,TURNOVER,Royce O'Neale,1:29,4,Lakers,Jazz,100 - 106,1,N/A,N/A,N/A
+107,Jae Crowder,FG_ASSISTED,Royce O'Neale,1:27,4,Jazz,Lakers,102 - 106,0,0,2,Dunk
+108,JaVale McGee,FG_ASSISTED,Kentavious Caldwell-Pope,1:13,4,Lakers,Jazz,102 - 108,1,0,2,Layup
+109,JaVale McGee,FOUL_ON_FLOOR,None,1:03,4,Lakers,Jazz,102 - 108,1,N/A,N/A,N/A
+110,Donovan Mitchell,FT,None,1:03,4,Jazz,Lakers,103 - 108,0,N/A,1,N/A
+111,Team,Unknown,None,1:03,4,Lakers,Jazz,103 - 108,1,N/A,N/A,N/A
+112,Donovan Mitchell,FT,None,1:03,4,Jazz,Lakers,104 - 108,0,N/A,1,N/A
+113,Kentavious Caldwell-Pope,FG_ASSISTED,Alex Caruso,50.4,4,Lakers,Jazz,104 - 110,1,1,2,Jumper
+114,Royce O'Neale,FG_ASSISTED,Donovan Mitchell,39.0,4,Jazz,Lakers,107 - 110,0,23,3,Jumper
+115,JaVale McGee,FG_ASSISTED,Kentavious Caldwell-Pope,15.6,4,Lakers,Jazz,107 - 112,1,0,2,Dunk
+116,Team,Unknown,None,15.6,4,Jazz,Lakers,107 - 112,0,N/A,N/A,N/A
+117,Johnathan Williams,SUBSTITUTION,Muscala Mike,15.6,4,Lakers,Jazz,107 - 112,1,N/A,N/A,N/A
+118,Royce O'Neale,FG_MISS,None,13.6,4,Jazz,Lakers,107 - 112,0,26,3,Jumper
+119,Rudy Gobert,OFFENSIVE_REBOUND,None,11.3,4,Jazz,Lakers,107 - 112,0,N/A,N/A,N/A
+120,Rudy Gobert,FG_UNASSISTED,None,10.7,4,Jazz,Lakers,109 - 112,0,0,2,Dunk
+121,Royce O'Neale,FOUL_ON_FLOOR,None,5.6,4,Jazz,Lakers,109 - 112,0,N/A,N/A,N/A
+122,Kentavious Caldwell-Pope,FT,None,5.6,4,Lakers,Jazz,109 - 113,1,N/A,1,N/A
+123,Kentavious Caldwell-Pope,FT_MISS,None,5.6,4,Lakers,Jazz,109 - 113,1,N/A,1,N/A
+124,Jae Crowder,DEFENSIVE_REBOUND,None,3.8,4,Jazz,Lakers,109 - 113,0,N/A,N/A,N/A
+125,Donovan Mitchell,FG_MISS,None,1.8,4,Jazz,Lakers,109 - 113,0,36,3,Jumper
+126,Team,OFFENSIVE_REBOUND,None,0.1,4,Jazz,Lakers,109 - 113,0,N/A,N/A,N/A
+127,End of,Unknown,None,0.0,4,Lakers,Jazz,109 - 113,1,N/A,N/A,N/A
+128,End of,Unknown,None,0.0,4,Lakers,Jazz,109 - 113,1,N/A,N/A,N/A

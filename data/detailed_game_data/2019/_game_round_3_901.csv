@@ -1,0 +1,492 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Rudy Gobert,JUMP_BALL,None,12:00,1,Jazz,Celtics,0 - 0,0,N/A,N/A,N/A
+1,Donovan Mitchell,FG_MISS,None,11:46,1,Jazz,Celtics,0 - 0,0,-,2,Jumper
+2,Al Horford,DEFENSIVE_REBOUND,None,11:43,1,Celtics,Jazz,0 - 0,1,N/A,N/A,N/A
+3,Jayson Tatum,FG_MISS,None,11:31,1,Celtics,Jazz,0 - 0,1,28,3,Jumper
+4,Donovan Mitchell,DEFENSIVE_REBOUND,None,11:29,1,Jazz,Celtics,0 - 0,0,N/A,N/A,N/A
+5,Donovan Mitchell,TURNOVER,Kyrie Irving,11:13,1,Jazz,Celtics,0 - 0,0,N/A,N/A,N/A
+6,Kyrie Irving,FG_MISS,None,11:10,1,Celtics,Jazz,0 - 0,1,-,2,Jumper
+7,Joe Ingles,DEFENSIVE_REBOUND,None,11:08,1,Jazz,Celtics,0 - 0,0,N/A,N/A,N/A
+8,Ricky Rubio,FG_MISS,None,10:48,1,Jazz,Celtics,0 - 0,0,26,3,Jumper
+9,Jaylen Brown,DEFENSIVE_REBOUND,None,10:46,1,Celtics,Jazz,0 - 0,1,N/A,N/A,N/A
+10,Al Horford,TURNOVER,Ricky Rubio,10:32,1,Celtics,Jazz,0 - 0,1,N/A,N/A,N/A
+11,Ricky Rubio,FG_MISS,None,10:28,1,Jazz,Celtics,0 - 0,0,0,2,Layup
+12,Rudy Gobert,OFFENSIVE_REBOUND,None,10:26,1,Jazz,Celtics,0 - 0,0,N/A,N/A,N/A
+13,Rudy Gobert,FG_UNASSISTED,None,10:25,1,Jazz,Celtics,2 - 0,0,0,2,Dunk
+14,Gordon Hayward,TURNOVER,Ricky Rubio,10:12,1,Celtics,Jazz,2 - 0,1,N/A,N/A,N/A
+15,Jaylen Brown,FOUL_ON_FLOOR,None,10:07,1,Celtics,Jazz,2 - 0,1,N/A,N/A,N/A
+16,Derrick Favors,FT_MISS,None,10:07,1,Jazz,Celtics,2 - 0,0,N/A,1,N/A
+17,Team,OFFENSIVE_REBOUND,None,10:07,1,Jazz,Celtics,2 - 0,0,N/A,N/A,N/A
+18,Derrick Favors,FT_MISS,None,10:07,1,Jazz,Celtics,2 - 0,0,N/A,1,N/A
+19,Derrick Favors,OFFENSIVE_REBOUND,None,10:07,1,Jazz,Celtics,2 - 0,0,N/A,N/A,N/A
+20,Ricky Rubio,FG_MISS,None,10:01,1,Jazz,Celtics,2 - 0,0,-,2,Jumper
+21,Al Horford,DEFENSIVE_REBOUND,None,9:58,1,Celtics,Jazz,2 - 0,1,N/A,N/A,N/A
+22,Kyrie Irving,FG_UNASSISTED,None,9:55,1,Celtics,Jazz,2 - 2,1,3,2,Jumper
+23,Joe Ingles,FOUL_ON_FLOOR,None,9:55,1,Jazz,Celtics,2 - 2,0,N/A,N/A,N/A
+24,Kyrie Irving,FT,None,9:55,1,Celtics,Jazz,2 - 3,1,N/A,1,N/A
+25,Kyrie Irving,FOUL_ON_FLOOR,None,9:44,1,Celtics,Jazz,2 - 3,1,N/A,N/A,N/A
+26,Joe Ingles,FG_MISS,None,9:40,1,Jazz,Celtics,2 - 3,0,26,3,Jumper
+27,Kyrie Irving,DEFENSIVE_REBOUND,None,9:37,1,Celtics,Jazz,2 - 3,1,N/A,N/A,N/A
+28,Kyrie Irving,FG_ASSISTED,Al Horford,9:29,1,Celtics,Jazz,2 - 5,1,21,2,Jumper
+29,Donovan Mitchell,FG_MISS,None,9:06,1,Jazz,Celtics,2 - 5,0,29,3,Jumper
+30,Gordon Hayward,DEFENSIVE_REBOUND,None,9:01,1,Celtics,Jazz,2 - 5,1,N/A,N/A,N/A
+31,Jaylen Brown,FG_MISS,None,8:48,1,Celtics,Jazz,2 - 5,1,27,3,Jumper
+32,Joe Ingles,DEFENSIVE_REBOUND,None,8:46,1,Jazz,Celtics,2 - 5,0,N/A,N/A,N/A
+33,Joe Ingles,TURNOVER,Gordon Hayward,8:38,1,Jazz,Celtics,2 - 5,0,N/A,N/A,N/A
+34,Jayson Tatum,FG_ASSISTED,Gordon Hayward,8:31,1,Celtics,Jazz,2 - 7,1,0,2,Dunk
+35,Team,Unknown,None,8:29,1,Jazz,Celtics,2 - 7,0,N/A,N/A,N/A
+36,Jae Crowder,SUBSTITUTION,Favors Derrick,8:29,1,Jazz,Celtics,2 - 7,0,N/A,N/A,N/A
+37,Jae Crowder,FG_ASSISTED,Rudy Gobert,8:10,1,Jazz,Celtics,5 - 7,0,27,3,Jumper
+38,Jayson Tatum,TURNOVER,None,7:54,1,Celtics,Jazz,5 - 7,1,N/A,N/A,N/A
+39,Rudy Gobert,FG_ASSISTED,Joe Ingles,7:42,1,Jazz,Celtics,7 - 7,0,0,2,Dunk
+40,Jayson Tatum,FG_UNASSISTED,None,7:26,1,Celtics,Jazz,7 - 9,1,0,2,Layup
+41,Jaylen Brown,FOUL_ON_FLOOR,None,7:18,1,Celtics,Jazz,7 - 9,1,N/A,N/A,N/A
+42,Jae Crowder,FG_MISS,None,7:05,1,Jazz,Celtics,7 - 9,0,25,3,Jumper
+43,Jayson Tatum,DEFENSIVE_REBOUND,None,7:01,1,Celtics,Jazz,7 - 9,1,N/A,N/A,N/A
+44,Al Horford,TURNOVER,Ricky Rubio,6:53,1,Celtics,Jazz,7 - 9,1,N/A,N/A,N/A
+45,Donovan Mitchell,FG_ASSISTED,Joe Ingles,6:48,1,Jazz,Celtics,9 - 9,0,6,2,Jumper
+46,Marcus Smart,SUBSTITUTION,Hayward Gordon,6:35,1,Celtics,Jazz,9 - 9,1,N/A,N/A,N/A
+47,Rudy Gobert,Unknown,None,6:32,1,Jazz,Celtics,9 - 9,0,N/A,N/A,N/A
+48,Al Horford,FG_ASSISTED,Marcus Smart,6:26,1,Celtics,Jazz,9 - 11,1,22,2,Jumper
+49,Joe Ingles,FG_UNASSISTED,None,6:03,1,Jazz,Celtics,11 - 11,0,4,2,Jumper
+50,Jaylen Brown,FG_MISS,None,5:47,1,Celtics,Jazz,11 - 11,1,26,3,Jumper
+51,Donovan Mitchell,DEFENSIVE_REBOUND,None,5:44,1,Jazz,Celtics,11 - 11,0,N/A,N/A,N/A
+52,Jae Crowder,FG_ASSISTED,Donovan Mitchell,5:42,1,Jazz,Celtics,13 - 11,0, ,2,Jumper
+53,Kyrie Irving,FG_MISS,None,5:26,1,Celtics,Jazz,13 - 11,1,20,2,Jumper
+54,Kyrie Irving,OFFENSIVE_REBOUND,None,5:24,1,Celtics,Jazz,13 - 11,1,N/A,N/A,N/A
+55,Kyrie Irving,FG_MISS,None,5:23,1,Celtics,Jazz,13 - 11,1,14,2,Jumper
+56,Rudy Gobert,DEFENSIVE_REBOUND,None,5:22,1,Jazz,Celtics,13 - 11,0,N/A,N/A,N/A
+57,Donovan Mitchell,FG_UNASSISTED,None,5:07,1,Jazz,Celtics,15 - 11,0,17,2,Jumper
+58,Jaylen Brown,FG_UNASSISTED,None,4:41,1,Celtics,Jazz,15 - 14,1,26,3,Jumper
+59,Ricky Rubio,FG_UNASSISTED,None,4:30,1,Jazz,Celtics,17 - 14,0, ,2,Jumper
+60,Jaylen Brown,FG_MISS,None,4:14,1,Celtics,Jazz,17 - 14,1,23,3,Jumper
+61,Jae Crowder,DEFENSIVE_REBOUND,None,4:13,1,Jazz,Celtics,17 - 14,0,N/A,N/A,N/A
+62,Marcus Smart,FOUL_ON_FLOOR,None,4:08,1,Celtics,Jazz,17 - 14,1,N/A,N/A,N/A
+63,Daniel Theis,SUBSTITUTION,Brown Jaylen,4:08,1,Celtics,Jazz,17 - 14,1,N/A,N/A,N/A
+64,Marcus Morris,SUBSTITUTION,Horford Al,4:08,1,Celtics,Jazz,17 - 14,1,N/A,N/A,N/A
+65,Alec Burks,SUBSTITUTION,Rubio Ricky,4:08,1,Jazz,Celtics,17 - 14,0,N/A,N/A,N/A
+66,Dante Exum,SUBSTITUTION,Mitchell Donovan,4:08,1,Jazz,Celtics,17 - 14,0,N/A,N/A,N/A
+67,Dante Exum,FG_MISS,Marcus Smart,3:57,1,Celtics,Jazz,17 - 14,0,0,2,Layup
+68,Marcus Smart,DEFENSIVE_REBOUND,None,3:52,1,Celtics,Jazz,17 - 14,1,N/A,N/A,N/A
+69,Marcus Morris,TURNOVER,Jae Crowder,3:48,1,Celtics,Jazz,17 - 14,1,N/A,N/A,N/A
+70,Dante Exum,FG_ASSISTED,Jae Crowder,3:44,1,Jazz,Celtics,19 - 14,0, ,2,Jumper
+71,Jayson Tatum,FG_MISS,None,3:29,1,Celtics,Jazz,19 - 14,1,27,3,Jumper
+72,Jae Crowder,DEFENSIVE_REBOUND,None,3:27,1,Jazz,Celtics,19 - 14,0,N/A,N/A,N/A
+73,Jae Crowder,FG_MISS,None,3:21,1,Jazz,Celtics,19 - 14,0,26,3,Jumper
+74,Team,DEFENSIVE_REBOUND,None,3:20,1,Celtics,Jazz,19 - 14,1,N/A,N/A,N/A
+75,foul 19,FOUL_ON_FLOOR,None,3:20,1,Celtics,Jazz,19 - 14,1,N/A,N/A,N/A
+76,Rudy Gobert,FOUL_ON_FLOOR,None,3:20,1,Jazz,Celtics,19 - 14,0,N/A,N/A,N/A
+77,Team,Unknown,None,3:20,1,Celtics,Jazz,19 - 14,1,N/A,N/A,N/A
+78,Terry Rozier,SUBSTITUTION,Irving Kyrie,3:20,1,Celtics,Jazz,19 - 14,1,N/A,N/A,N/A
+79,Derrick Favors,SUBSTITUTION,Gobert Rudy,3:20,1,Jazz,Celtics,19 - 14,0,N/A,N/A,N/A
+80,Marcus Smart,FG_ASSISTED,Marcus Morris,3:09,1,Celtics,Jazz,19 - 16,1,0,2,Layup
+81,Alec Burks,FOUL_ON_FLOOR,None,3:09,1,Jazz,Celtics,19 - 16,0,N/A,N/A,N/A
+82,Marcus Smart,FT,None,3:09,1,Celtics,Jazz,19 - 17,1,N/A,1,N/A
+83,Dante Exum,TURNOVER,None,2:55,1,Jazz,Celtics,19 - 17,0,N/A,N/A,N/A
+84,Joe Ingles,FOUL_ON_FLOOR,None,2:46,1,Jazz,Celtics,19 - 17,0,N/A,N/A,N/A
+85,Royce O'Neale,SUBSTITUTION,Ingles Joe,2:46,1,Jazz,Celtics,19 - 17,0,N/A,N/A,N/A
+86,Derrick Favors,Unknown,None,2:41,1,Jazz,Celtics,19 - 17,0,N/A,N/A,N/A
+87,Jae Crowder,FOUL_ON_FLOOR,None,2:35,1,Jazz,Celtics,19 - 17,0,N/A,N/A,N/A
+88,Marcus Morris,FT_MISS,None,2:35,1,Celtics,Jazz,19 - 17,1,N/A,1,N/A
+89,Team,OFFENSIVE_REBOUND,None,2:35,1,Celtics,Jazz,19 - 17,1,N/A,N/A,N/A
+90,Marcus Morris,FT,None,2:35,1,Celtics,Jazz,19 - 18,1,N/A,1,N/A
+91,Dante Exum,FG_UNASSISTED,None,2:27,1,Jazz,Celtics,21 - 18,0,0,2,Layup
+92,Terry Rozier,FG_MISS,None,2:12,1,Celtics,Jazz,21 - 18,1,29,3,Jumper
+93,Daniel Theis,OFFENSIVE_REBOUND,None,2:10,1,Celtics,Jazz,21 - 18,1,N/A,N/A,N/A
+94,Marcus Morris,FG_MISS,None,2:07,1,Celtics,Jazz,21 - 18,1,27,3,Jumper
+95,Derrick Favors,DEFENSIVE_REBOUND,None,2:05,1,Jazz,Celtics,21 - 18,0,N/A,N/A,N/A
+96,Royce O'Neale,TURNOVER,None,1:57,1,Jazz,Celtics,21 - 18,0,N/A,N/A,N/A
+97,Alec Burks,FOUL_ON_FLOOR,None,1:41,1,Jazz,Celtics,21 - 18,0,N/A,N/A,N/A
+98,Daniel Theis,FT_MISS,None,1:41,1,Celtics,Jazz,21 - 18,1,N/A,1,N/A
+99,Team,OFFENSIVE_REBOUND,None,1:41,1,Celtics,Jazz,21 - 18,1,N/A,N/A,N/A
+100,Gordon Hayward,SUBSTITUTION,Tatum Jayson,1:41,1,Celtics,Jazz,21 - 18,1,N/A,N/A,N/A
+101,Daniel Theis,FT_MISS,None,1:41,1,Celtics,Jazz,21 - 18,1,N/A,1,N/A
+102,Derrick Favors,DEFENSIVE_REBOUND,None,1:41,1,Jazz,Celtics,21 - 18,0,N/A,N/A,N/A
+103,Dante Exum,FG_UNASSISTED,None,1:21,1,Jazz,Celtics,23 - 18,0,5,2,Jumper
+104,Daniel Theis,FG_MISS,None,1:03,1,Celtics,Jazz,23 - 18,1,14,2,Jumper
+105,Derrick Favors,DEFENSIVE_REBOUND,None,1:01,1,Jazz,Celtics,23 - 18,0,N/A,N/A,N/A
+106,Jae Crowder,FG_MISS,None,50.0,1,Jazz,Celtics,23 - 18,0,25,3,Jumper
+107,Terry Rozier,DEFENSIVE_REBOUND,None,47.6,1,Celtics,Jazz,23 - 18,1,N/A,N/A,N/A
+108,Terry Rozier,FG_UNASSISTED,None,42.6,1,Celtics,Jazz,23 - 20,1,3,2,Jumper
+109,Jae Crowder,FOUL_ON_FLOOR,None,42.6,1,Jazz,Celtics,23 - 20,0,N/A,N/A,N/A
+110,Aron Baynes,SUBSTITUTION,Theis Daniel,42.6,1,Celtics,Jazz,23 - 20,1,N/A,N/A,N/A
+111,Donovan Mitchell,SUBSTITUTION,Crowder Jae,42.6,1,Jazz,Celtics,23 - 20,0,N/A,N/A,N/A
+112,Terry Rozier,FT_MISS,None,42.6,1,Celtics,Jazz,23 - 20,1,N/A,1,N/A
+113,Derrick Favors,DEFENSIVE_REBOUND,None,42.6,1,Jazz,Celtics,23 - 20,0,N/A,N/A,N/A
+114,Donovan Mitchell,FG_ASSISTED,Dante Exum,30.6,1,Jazz,Celtics,26 - 20,0,25,3,Jumper
+115,Terry Rozier,FG_MISS,None,11.8,1,Celtics,Jazz,26 - 20,1,27,3,Jumper
+116,Marcus Morris,OFFENSIVE_REBOUND,None,9.1,1,Celtics,Jazz,26 - 20,1,N/A,N/A,N/A
+117,Marcus Morris,FG_MISS,Derrick Favors,8.9,1,Jazz,Celtics,26 - 20,1,3,2,Jumper
+118,Dante Exum,DEFENSIVE_REBOUND,None,8.9,1,Jazz,Celtics,26 - 20,0,N/A,N/A,N/A
+119,Royce O'Neale,FG_ASSISTED,Dante Exum,0.4,1,Jazz,Celtics,29 - 20,0,24,3,Jumper
+120,End of,Unknown,None,0.0,1,Celtics,Jazz,29 - 20,1,N/A,N/A,N/A
+0,Jaylen Brown,SUBSTITUTION,Smart Marcus,12:00,2,Celtics,Jazz,29 - 20,1,N/A,N/A,N/A
+1,Gordon Hayward,FG_ASSISTED,Terry Rozier,11:46,2,Celtics,Jazz,29 - 22,1,11,2,Jumper
+2,Derrick Favors,FG_MISS,None,11:28,2,Jazz,Celtics,29 - 22,0,0,2,Layup
+3,Aron Baynes,DEFENSIVE_REBOUND,None,11:26,2,Celtics,Jazz,29 - 22,1,N/A,N/A,N/A
+4,Marcus Morris,FG_MISS,Royce O'Neale,11:18,2,Jazz,Celtics,29 - 22,1,10,2,Jumper
+5,Royce O'Neale,DEFENSIVE_REBOUND,None,11:16,2,Jazz,Celtics,29 - 22,0,N/A,N/A,N/A
+6,Dante Exum,FG_MISS,Aron Baynes,11:01,2,Celtics,Jazz,29 - 22,0,0,2,Layup
+7,Aron Baynes,DEFENSIVE_REBOUND,None,10:58,2,Celtics,Jazz,29 - 22,1,N/A,N/A,N/A
+8,Jaylen Brown,FG_MISS,None,10:54,2,Celtics,Jazz,29 - 22,1,28,3,Jumper
+9,Jaylen Brown,OFFENSIVE_REBOUND,None,10:52,2,Celtics,Jazz,29 - 22,1,N/A,N/A,N/A
+10,Jaylen Brown,FG_MISS,None,10:43,2,Celtics,Jazz,29 - 22,1,4,2,Jumper
+11,Jaylen Brown,OFFENSIVE_REBOUND,None,10:39,2,Celtics,Jazz,29 - 22,1,N/A,N/A,N/A
+12,Terry Rozier,FG_MISS,None,10:37,2,Celtics,Jazz,29 - 22,1,23,3,Jumper
+13,Royce O'Neale,DEFENSIVE_REBOUND,None,10:35,2,Jazz,Celtics,29 - 22,0,N/A,N/A,N/A
+14,Alec Burks,FG_UNASSISTED,None,10:28,2,Jazz,Celtics,31 - 22,0, ,2,Jumper
+15,Terry Rozier,TURNOVER,Donovan Mitchell,10:16,2,Celtics,Jazz,31 - 22,1,N/A,N/A,N/A
+16,Marcus Morris,FOUL_ON_FLOOR,None,10:12,2,Celtics,Jazz,31 - 22,1,N/A,N/A,N/A
+17,Derrick Favors,FT_MISS,None,10:12,2,Jazz,Celtics,31 - 22,0,N/A,1,N/A
+18,Team,OFFENSIVE_REBOUND,None,10:12,2,Jazz,Celtics,31 - 22,0,N/A,N/A,N/A
+19,Derrick Favors,FT_MISS,None,10:12,2,Jazz,Celtics,31 - 22,0,N/A,1,N/A
+20,Gordon Hayward,DEFENSIVE_REBOUND,None,10:12,2,Celtics,Jazz,31 - 22,1,N/A,N/A,N/A
+21,Aron Baynes,FG_MISS,None,9:53,2,Celtics,Jazz,31 - 22,1,3,2,Jumper
+22,Derrick Favors,DEFENSIVE_REBOUND,None,9:51,2,Jazz,Celtics,31 - 22,0,N/A,N/A,N/A
+23,Donovan Mitchell,FG_ASSISTED,Derrick Favors,9:38,2,Jazz,Celtics,34 - 22,0,25,3,Jumper
+24,Marcus Morris,FG_ASSISTED,Terry Rozier,9:20,2,Celtics,Jazz,34 - 24,1,9,2,Jumper
+25,Donovan Mitchell,FG_UNASSISTED,None,8:58,2,Jazz,Celtics,36 - 24,0,15,2,Jumper
+26,Aron Baynes,FG_ASSISTED,Jaylen Brown,8:40,2,Celtics,Jazz,36 - 26,1,9,2,Jumper
+27,Alec Burks,TURNOVER,None,8:22,2,Jazz,Celtics,36 - 26,0,N/A,N/A,N/A
+28,Alec Burks,TURNOVER,None,8:22,2,Jazz,Celtics,36 - 26,0,N/A,N/A,N/A
+29,Kyrie Irving,SUBSTITUTION,Morris Marcus,8:22,2,Celtics,Jazz,36 - 26,1,N/A,N/A,N/A
+30,Georges Niang,SUBSTITUTION,Burks Alec,8:22,2,Jazz,Celtics,36 - 26,0,N/A,N/A,N/A
+31,Royce O'Neale,FOUL_ON_FLOOR,None,8:08,2,Jazz,Celtics,36 - 26,0,N/A,N/A,N/A
+32,Kyrie Irving,FT_MISS,None,8:08,2,Celtics,Jazz,36 - 26,1,N/A,1,N/A
+33,Team,OFFENSIVE_REBOUND,None,8:08,2,Celtics,Jazz,36 - 26,1,N/A,N/A,N/A
+34,Kyrie Irving,FT_MISS,None,8:08,2,Celtics,Jazz,36 - 26,1,N/A,1,N/A
+35,Derrick Favors,DEFENSIVE_REBOUND,None,8:08,2,Jazz,Celtics,36 - 26,0,N/A,N/A,N/A
+36,Georges Niang,FG_MISS,None,7:52,2,Jazz,Celtics,36 - 26,0,0,2,Layup
+37,Kyrie Irving,DEFENSIVE_REBOUND,None,7:50,2,Celtics,Jazz,36 - 26,1,N/A,N/A,N/A
+38,Kyrie Irving,FG_UNASSISTED,None,7:42,2,Celtics,Jazz,36 - 28,1,0,2,Layup
+39,Team,Unknown,None,7:42,2,Jazz,Celtics,36 - 28,0,N/A,N/A,N/A
+40,Joe Ingles,SUBSTITUTION,Favors Derrick,7:42,2,Jazz,Celtics,36 - 28,0,N/A,N/A,N/A
+41,Rudy Gobert,SUBSTITUTION,Mitchell Donovan,7:42,2,Jazz,Celtics,36 - 28,0,N/A,N/A,N/A
+42,Rudy Gobert,TURNOVER,Gordon Hayward,7:30,2,Jazz,Celtics,36 - 28,0,N/A,N/A,N/A
+43,Aron Baynes,FG_ASSISTED,Gordon Hayward,7:19,2,Celtics,Jazz,36 - 31,1,26,3,Jumper
+44,Royce O'Neale,FG_MISS,None,6:51,2,Jazz,Celtics,36 - 31,0,30,3,Jumper
+45,Terry Rozier,DEFENSIVE_REBOUND,None,6:50,2,Celtics,Jazz,36 - 31,1,N/A,N/A,N/A
+46,Kyrie Irving,FG_ASSISTED,Aron Baynes,6:36,2,Celtics,Jazz,36 - 33,1,22,2,Jumper
+47,Royce O'Neale,FG_MISS,None,6:23,2,Jazz,Celtics,36 - 33,0,0,2,Layup
+48,Royce O'Neale,OFFENSIVE_REBOUND,None,6:20,2,Jazz,Celtics,36 - 33,0,N/A,N/A,N/A
+49,Georges Niang,FG_MISS,None,6:17,2,Jazz,Celtics,36 - 33,0,26,3,Jumper
+50,Kyrie Irving,DEFENSIVE_REBOUND,None,6:15,2,Celtics,Jazz,36 - 33,1,N/A,N/A,N/A
+51,Kyrie Irving,TURNOVER,Rudy Gobert,6:10,2,Celtics,Jazz,36 - 33,1,N/A,N/A,N/A
+52,Kyrie Irving,FOUL_ON_FLOOR,None,6:10,2,Celtics,Jazz,36 - 33,1,N/A,N/A,N/A
+53,Georges Niang,FT_MISS,None,6:10,2,Jazz,Celtics,36 - 33,0,N/A,1,N/A
+54,Team,OFFENSIVE_REBOUND,None,6:10,2,Jazz,Celtics,36 - 33,0,N/A,N/A,N/A
+55,Georges Niang,FT,None,6:10,2,Jazz,Celtics,37 - 33,0,N/A,1,N/A
+56,Jae Crowder,SUBSTITUTION,Niang Georges,6:10,2,Jazz,Celtics,37 - 33,0,N/A,N/A,N/A
+57,Ricky Rubio,SUBSTITUTION,Exum Dante,6:10,2,Jazz,Celtics,37 - 33,0,N/A,N/A,N/A
+58,Donovan Mitchell,SUBSTITUTION,O'Neale Royce,6:10,2,Jazz,Celtics,37 - 33,0,N/A,N/A,N/A
+59,Donovan Mitchell,FG_MISS,None,5:49,2,Jazz,Celtics,37 - 33,0,26,3,Jumper
+60,Terry Rozier,DEFENSIVE_REBOUND,None,5:42,2,Celtics,Jazz,37 - 33,1,N/A,N/A,N/A
+61,Terry Rozier,FG_UNASSISTED,None,5:29,2,Celtics,Jazz,37 - 35,1,10,2,Jumper
+62,Aron Baynes,FOUL_ON_FLOOR,None,5:12,2,Celtics,Jazz,37 - 35,1,N/A,N/A,N/A
+63,Rudy Gobert,FT,None,5:12,2,Jazz,Celtics,38 - 35,0,N/A,1,N/A
+64,Jayson Tatum,SUBSTITUTION,Brown Jaylen,5:12,2,Celtics,Jazz,38 - 35,1,N/A,N/A,N/A
+65,Marcus Smart,SUBSTITUTION,Rozier Terry,5:12,2,Celtics,Jazz,38 - 35,1,N/A,N/A,N/A
+66,Al Horford,SUBSTITUTION,Hayward Gordon,5:12,2,Celtics,Jazz,38 - 35,1,N/A,N/A,N/A
+67,Marcus Morris,SUBSTITUTION,Baynes Aron,5:12,2,Celtics,Jazz,38 - 35,1,N/A,N/A,N/A
+68,Rudy Gobert,FT,None,5:12,2,Jazz,Celtics,39 - 35,0,N/A,1,N/A
+69,Al Horford,FG_ASSISTED,Marcus Smart,4:56,2,Celtics,Jazz,39 - 38,1,27,3,Jumper
+70,Joe Ingles,TURNOVER,Kyrie Irving,4:43,2,Jazz,Celtics,39 - 38,0,N/A,N/A,N/A
+71,Kyrie Irving,FG_MISS,None,4:38,2,Celtics,Jazz,39 - 38,1, ,2,Jumper
+72,Al Horford,OFFENSIVE_REBOUND,None,4:36,2,Celtics,Jazz,39 - 38,1,N/A,N/A,N/A
+73,Marcus Smart,FG_MISS,None,4:30,2,Celtics,Jazz,39 - 38,1,27,3,Jumper
+74,Team,DEFENSIVE_REBOUND,None,4:28,2,Jazz,Celtics,39 - 38,0,N/A,N/A,N/A
+75,Marcus Morris,FOUL_ON_FLOOR,None,4:19,2,Celtics,Jazz,39 - 38,1,N/A,N/A,N/A
+76,Joe Ingles,FG_ASSISTED,Donovan Mitchell,4:10,2,Jazz,Celtics,41 - 38,0,0,2,Layup
+77,Jayson Tatum,FG_UNASSISTED,None,3:52,2,Celtics,Jazz,41 - 40,1,17,2,Jumper
+78,Rudy Gobert,FG_MISS,None,3:31,2,Jazz,Celtics,41 - 40,0,5,2,Jumper
+79,Jayson Tatum,DEFENSIVE_REBOUND,None,3:29,2,Celtics,Jazz,41 - 40,1,N/A,N/A,N/A
+80,Jayson Tatum,FG_MISS,None,3:21,2,Celtics,Jazz,41 - 40,1,10,2,Jumper
+81,Jae Crowder,DEFENSIVE_REBOUND,None,3:19,2,Jazz,Celtics,41 - 40,0,N/A,N/A,N/A
+82,Donovan Mitchell,FG_UNASSISTED,None,2:59,2,Jazz,Celtics,43 - 40,0,0,2,Layup
+83,Kyrie Irving,FOUL_ON_FLOOR,None,2:59,2,Celtics,Jazz,43 - 40,1,N/A,N/A,N/A
+84,Team,Unknown,None,2:59,2,Celtics,Jazz,43 - 40,1,N/A,N/A,N/A
+85,Donovan Mitchell,FT_MISS,None,2:59,2,Jazz,Celtics,43 - 40,0,N/A,1,N/A
+86,Jayson Tatum,DEFENSIVE_REBOUND,None,2:59,2,Celtics,Jazz,43 - 40,1,N/A,N/A,N/A
+87,Ricky Rubio,FOUL_ON_FLOOR,None,2:44,2,Jazz,Celtics,43 - 40,0,N/A,N/A,N/A
+88,Marcus Smart,TURNOVER,Donovan Mitchell,2:36,2,Celtics,Jazz,43 - 40,1,N/A,N/A,N/A
+89,Donovan Mitchell,FG_MISS,None,2:32,2,Jazz,Celtics,43 - 40,0, ,2,Jumper
+90,Jayson Tatum,DEFENSIVE_REBOUND,None,2:30,2,Celtics,Jazz,43 - 40,1,N/A,N/A,N/A
+91,Jayson Tatum,FG_MISS,None,2:26,2,Celtics,Jazz,43 - 40,1,0,2,Layup
+92,Al Horford,OFFENSIVE_REBOUND,None,2:23,2,Celtics,Jazz,43 - 40,1,N/A,N/A,N/A
+93,Al Horford,FG_UNASSISTED,None,2:22,2,Celtics,Jazz,43 - 42,1,0,2,Dunk
+94,Donovan Mitchell,FG_MISS,None,1:58,2,Jazz,Celtics,43 - 42,0,25,3,Jumper
+95,Rudy Gobert,OFFENSIVE_REBOUND,None,1:58,2,Jazz,Celtics,43 - 42,0,N/A,N/A,N/A
+96,Ricky Rubio,FG_ASSISTED,Rudy Gobert,1:52,2,Jazz,Celtics,46 - 42,0,24,3,Jumper
+97,Al Horford,FG_MISS,None,1:34,2,Celtics,Jazz,46 - 42,1,27,3,Jumper
+98,Joe Ingles,DEFENSIVE_REBOUND,None,1:32,2,Jazz,Celtics,46 - 42,0,N/A,N/A,N/A
+99,Joe Ingles,FG_ASSISTED,Ricky Rubio,1:16,2,Jazz,Celtics,49 - 42,0,23,3,Jumper
+100,Jayson Tatum,TURNOVER,Donovan Mitchell,46.4,2,Celtics,Jazz,49 - 42,1,N/A,N/A,N/A
+101,Joe Ingles,FG_MISS,None,41.9,2,Jazz,Celtics,49 - 42,0,26,3,Jumper
+102,Marcus Smart,DEFENSIVE_REBOUND,None,39.6,2,Celtics,Jazz,49 - 42,1,N/A,N/A,N/A
+103,Kyrie Irving,FG_UNASSISTED,None,32.9,2,Celtics,Jazz,49 - 45,1,28,3,Jumper
+104,Double technical,FOUL_TECHNICAL,None,32.3,2,Celtics,Jazz,49 - 45,1,N/A,N/A,N/A
+105,Al Horford,FOUL_ON_FLOOR,None,17.1,2,Celtics,Jazz,49 - 45,1,N/A,N/A,N/A
+106,Rudy Gobert,FT,None,17.1,2,Jazz,Celtics,50 - 45,0,N/A,1,N/A
+107,Dante Exum,SUBSTITUTION,Ingles Joe,17.1,2,Jazz,Celtics,50 - 45,0,N/A,N/A,N/A
+108,Royce O'Neale,SUBSTITUTION,Crowder Jae,17.1,2,Jazz,Celtics,50 - 45,0,N/A,N/A,N/A
+109,Rudy Gobert,FT_MISS,None,17.1,2,Jazz,Celtics,50 - 45,0,N/A,1,N/A
+110,Jayson Tatum,DEFENSIVE_REBOUND,None,17.1,2,Celtics,Jazz,50 - 45,1,N/A,N/A,N/A
+111,Terry Rozier,SUBSTITUTION,Irving Kyrie,17.1,2,Celtics,Jazz,50 - 45,1,N/A,N/A,N/A
+112,Kyrie Irving,SUBSTITUTION,Smart Marcus,8.4,2,Celtics,Jazz,50 - 45,1,N/A,N/A,N/A
+113,Kyrie Irving,FG_MISS,None,2.3,2,Celtics,Jazz,50 - 45,1,0,2,Layup
+114,Royce O'Neale,DEFENSIVE_REBOUND,None,2.3,2,Jazz,Celtics,50 - 45,0,N/A,N/A,N/A
+115,Royce O'Neale,FG_MISS,None,1.0,2,Jazz,Celtics,50 - 45,0,51,3,Jumper
+116,Team,OFFENSIVE_REBOUND,None,1.0,2,Jazz,Celtics,50 - 45,0,N/A,N/A,N/A
+117,End of,Unknown,None,0.0,2,Celtics,Jazz,50 - 45,1,N/A,N/A,N/A
+0,Gordon Hayward,SUBSTITUTION,Morris Marcus,12:00,3,Celtics,Jazz,50 - 45,1,N/A,N/A,N/A
+1,Jaylen Brown,SUBSTITUTION,Rozier Terry,12:00,3,Celtics,Jazz,50 - 45,1,N/A,N/A,N/A
+2,Joe Ingles,SUBSTITUTION,Exum Dante,12:00,3,Jazz,Celtics,50 - 45,0,N/A,N/A,N/A
+3,Derrick Favors,SUBSTITUTION,O'Neale Royce,12:00,3,Jazz,Celtics,50 - 45,0,N/A,N/A,N/A
+4,Kyrie Irving,FG_ASSISTED,Al Horford,11:41,3,Celtics,Jazz,50 - 47,1,4,2,Jumper
+5,Donovan Mitchell,FG_MISS,Al Horford,11:23,3,Celtics,Jazz,50 - 47,0,0,2,Layup
+6,Team,OFFENSIVE_REBOUND,None,11:23,3,Jazz,Celtics,50 - 47,0,N/A,N/A,N/A
+7,Rudy Gobert,FG_ASSISTED,Ricky Rubio,11:18,3,Jazz,Celtics,52 - 47,0,0,2,Dunk
+8,Gordon Hayward,FG_MISS,None,11:00,3,Celtics,Jazz,52 - 47,1,25,3,Jumper
+9,Rudy Gobert,DEFENSIVE_REBOUND,None,10:57,3,Jazz,Celtics,52 - 47,0,N/A,N/A,N/A
+10,Ricky Rubio,FG_MISS,None,10:39,3,Jazz,Celtics,52 - 47,0,20,2,Jumper
+11,Al Horford,DEFENSIVE_REBOUND,None,10:37,3,Celtics,Jazz,52 - 47,1,N/A,N/A,N/A
+12,Al Horford,TURNOVER,None,10:37,3,Celtics,Jazz,52 - 47,1,N/A,N/A,N/A
+13,Derrick Favors,FG_MISS,None,10:26,3,Jazz,Celtics,52 - 47,0,23,3,Jumper
+14,Rudy Gobert,OFFENSIVE_REBOUND,None,10:23,3,Jazz,Celtics,52 - 47,0,N/A,N/A,N/A
+15,Al Horford,FOUL_ON_FLOOR,None,10:23,3,Celtics,Jazz,52 - 47,1,N/A,N/A,N/A
+16,Rudy Gobert,FT,None,10:23,3,Jazz,Celtics,53 - 47,0,N/A,1,N/A
+17,Rudy Gobert,FT_MISS,None,10:23,3,Jazz,Celtics,53 - 47,0,N/A,1,N/A
+18,Kyrie Irving,DEFENSIVE_REBOUND,None,10:19,3,Celtics,Jazz,53 - 47,1,N/A,N/A,N/A
+19,Kyrie Irving,FG_MISS,None,10:08,3,Celtics,Jazz,53 - 47,1,21,2,Jumper
+20,Rudy Gobert,DEFENSIVE_REBOUND,None,10:06,3,Jazz,Celtics,53 - 47,0,N/A,N/A,N/A
+21,Ricky Rubio,FG_ASSISTED,Joe Ingles,9:54,3,Jazz,Celtics,55 - 47,0,0,2,Layup
+22,Jaylen Brown,FG_MISS,None,9:33,3,Celtics,Jazz,55 - 47,1,23,3,Jumper
+23,Ricky Rubio,DEFENSIVE_REBOUND,None,9:29,3,Jazz,Celtics,55 - 47,0,N/A,N/A,N/A
+24,Ricky Rubio,FG_MISS,Al Horford,9:24,3,Celtics,Jazz,55 - 47,0,4,2,Jumper
+25,Team,OFFENSIVE_REBOUND,None,9:23,3,Jazz,Celtics,55 - 47,0,N/A,N/A,N/A
+26,Joe Ingles,FG_MISS,None,9:11,3,Jazz,Celtics,55 - 47,0,25,3,Jumper
+27,Kyrie Irving,DEFENSIVE_REBOUND,None,9:09,3,Celtics,Jazz,55 - 47,1,N/A,N/A,N/A
+28,Jaylen Brown,FG_MISS,None,8:57,3,Celtics,Jazz,55 - 47,1,0,2,Dunk
+29,Gordon Hayward,OFFENSIVE_REBOUND,None,8:55,3,Celtics,Jazz,55 - 47,1,N/A,N/A,N/A
+30,Al Horford,FG_ASSISTED,Gordon Hayward,8:53,3,Celtics,Jazz,55 - 49,1,13,2,Jumper
+31,Team,Unknown,None,8:41,3,Jazz,Celtics,55 - 49,0,N/A,N/A,N/A
+32,Donovan Mitchell,FG_MISS,None,8:35,3,Jazz,Celtics,55 - 49,0, ,2,Jumper
+33,Team,DEFENSIVE_REBOUND,None,8:35,3,Celtics,Jazz,55 - 49,1,N/A,N/A,N/A
+34,Gordon Hayward,TURNOVER,Derrick Favors,8:19,3,Celtics,Jazz,55 - 49,1,N/A,N/A,N/A
+35,Derrick Favors,FG_ASSISTED,Joe Ingles,8:13,3,Jazz,Celtics,57 - 49,0,0,2,Dunk
+36,Gordon Hayward,FG_MISS,None,7:55,3,Celtics,Jazz,57 - 49,1,16,2,Jumper
+37,Ricky Rubio,DEFENSIVE_REBOUND,None,7:53,3,Jazz,Celtics,57 - 49,0,N/A,N/A,N/A
+38,Donovan Mitchell,FG_ASSISTED,Joe Ingles,7:46,3,Jazz,Celtics,60 - 49,0,28,3,Jumper
+39,Al Horford,FG_MISS,None,7:32,3,Celtics,Jazz,60 - 49,1,25,3,Jumper
+40,Jayson Tatum,OFFENSIVE_REBOUND,None,7:29,3,Celtics,Jazz,60 - 49,1,N/A,N/A,N/A
+41,Jayson Tatum,FG_UNASSISTED,None,7:25,3,Celtics,Jazz,60 - 51,1,0,2,Layup
+42,Donovan Mitchell,FG_UNASSISTED,None,7:06,3,Jazz,Celtics,63 - 51,0,25,2,Jumper
+43,Ricky Rubio,FOUL_ON_FLOOR,None,6:51,3,Jazz,Celtics,63 - 51,0,N/A,N/A,N/A
+44,Aron Baynes,SUBSTITUTION,Horford Al,6:51,3,Celtics,Jazz,63 - 51,1,N/A,N/A,N/A
+45,Marcus Morris,SUBSTITUTION,Hayward Gordon,6:51,3,Celtics,Jazz,63 - 51,1,N/A,N/A,N/A
+46,Marcus Smart,SUBSTITUTION,Brown Jaylen,6:51,3,Celtics,Jazz,63 - 51,1,N/A,N/A,N/A
+47,Jae Crowder,SUBSTITUTION,Favors Derrick,6:51,3,Jazz,Celtics,63 - 51,0,N/A,N/A,N/A
+48,Marcus Smart,FG_UNASSISTED,None,6:42,3,Celtics,Jazz,63 - 53,1,6,2,Jumper
+49,Aron Baynes,FOUL_ON_FLOOR,None,6:34,3,Celtics,Jazz,63 - 53,1,N/A,N/A,N/A
+50,Rudy Gobert,FG_ASSISTED,Donovan Mitchell,6:23,3,Jazz,Celtics,65 - 53,0,0,2,Dunk
+51,Jayson Tatum,FG_UNASSISTED,None,6:02,3,Celtics,Jazz,65 - 55,1,3,2,Jumper
+52,Kyrie Irving,FOUL_ON_FLOOR,None,5:40,3,Celtics,Jazz,65 - 55,1,N/A,N/A,N/A
+53,Donovan Mitchell,FT,None,5:40,3,Jazz,Celtics,66 - 55,0,N/A,1,N/A
+54,Donovan Mitchell,FT,None,5:40,3,Jazz,Celtics,67 - 55,0,N/A,1,N/A
+55,Donovan Mitchell,FT,None,5:40,3,Jazz,Celtics,68 - 55,0,N/A,1,N/A
+56,Jayson Tatum,FG_MISS,None,5:23,3,Celtics,Jazz,68 - 55,1,0,2,Layup
+57,Kyrie Irving,OFFENSIVE_REBOUND,None,5:21,3,Celtics,Jazz,68 - 55,1,N/A,N/A,N/A
+58,Kyrie Irving,FG_UNASSISTED,None,5:21,3,Celtics,Jazz,68 - 57,1, ,2,Jumper
+59,Kyrie Irving,FOUL_ON_FLOOR,None,5:12,3,Celtics,Jazz,68 - 57,1,N/A,N/A,N/A
+60,Terry Rozier,SUBSTITUTION,Irving Kyrie,5:12,3,Celtics,Jazz,68 - 57,1,N/A,N/A,N/A
+61,Alec Burks,SUBSTITUTION,Mitchell Donovan,5:12,3,Jazz,Celtics,68 - 57,0,N/A,N/A,N/A
+62,Ricky Rubio,FG_ASSISTED,Joe Ingles,5:02,3,Jazz,Celtics,70 - 57,0,12,2,Jumper
+63,Rudy Gobert,FOUL_ON_FLOOR,None,4:53,3,Jazz,Celtics,70 - 57,0,N/A,N/A,N/A
+64,Joe Ingles,FOUL_ON_FLOOR,None,4:51,3,Jazz,Celtics,70 - 57,0,N/A,N/A,N/A
+65,Royce O'Neale,SUBSTITUTION,Ingles Joe,4:51,3,Jazz,Celtics,70 - 57,0,N/A,N/A,N/A
+66,Jayson Tatum,FG_MISS,None,4:42,3,Celtics,Jazz,70 - 57,1,5,2,Jumper
+67,Team,OFFENSIVE_REBOUND,None,4:41,3,Celtics,Jazz,70 - 57,1,N/A,N/A,N/A
+68,Marcus Morris,FG_MISS,None,4:39,3,Celtics,Jazz,70 - 57,1,23,3,Jumper
+69,Aron Baynes,OFFENSIVE_REBOUND,None,4:37,3,Celtics,Jazz,70 - 57,1,N/A,N/A,N/A
+70,Aron Baynes,TURNOVER,Alec Burks,4:35,3,Celtics,Jazz,70 - 57,1,N/A,N/A,N/A
+71,Marcus Smart,FOUL_ON_FLOOR,None,4:33,3,Celtics,Jazz,70 - 57,1,N/A,N/A,N/A
+72,Ricky Rubio,FT,None,4:33,3,Jazz,Celtics,71 - 57,0,N/A,1,N/A
+73,Ricky Rubio,FT_MISS,None,4:33,3,Jazz,Celtics,71 - 57,0,N/A,1,N/A
+74,Team,OFFENSIVE_REBOUND,None,4:33,3,Jazz,Celtics,71 - 57,0,N/A,N/A,N/A
+75,Jae Crowder,JUMP_BALL,None,4:21,3,Celtics,Jazz,71 - 57,1,N/A,N/A,N/A
+76,Ricky Rubio,TURNOVER,Aron Baynes,4:21,3,Jazz,Celtics,71 - 57,0,N/A,N/A,N/A
+77,Marcus Smart,FG_MISS,Rudy Gobert,4:16,3,Jazz,Celtics,71 - 57,1,0,2,Layup
+78,Ricky Rubio,DEFENSIVE_REBOUND,None,4:13,3,Jazz,Celtics,71 - 57,0,N/A,N/A,N/A
+79,Ricky Rubio,FG_MISS,None,4:03,3,Jazz,Celtics,71 - 57,0,27,3,Jumper
+80,Jayson Tatum,DEFENSIVE_REBOUND,None,4:03,3,Celtics,Jazz,71 - 57,1,N/A,N/A,N/A
+81,Royce O'Neale,FOUL_ON_FLOOR,None,3:59,3,Jazz,Celtics,71 - 57,0,N/A,N/A,N/A
+82,Gordon Hayward,SUBSTITUTION,Tatum Jayson,3:59,3,Celtics,Jazz,71 - 57,1,N/A,N/A,N/A
+83,Dante Exum,SUBSTITUTION,Rubio Ricky,3:59,3,Jazz,Celtics,71 - 57,0,N/A,N/A,N/A
+84,Marcus Morris,FG_MISS,None,3:47,3,Celtics,Jazz,71 - 57,1,25,3,Jumper
+85,Team,OFFENSIVE_REBOUND,None,3:44,3,Celtics,Jazz,71 - 57,1,N/A,N/A,N/A
+86,Terry Rozier,FG_MISS,None,3:42,3,Celtics,Jazz,71 - 57,1,23,3,Jumper
+87,Jae Crowder,DEFENSIVE_REBOUND,None,3:39,3,Jazz,Celtics,71 - 57,0,N/A,N/A,N/A
+88,Jae Crowder,FG_MISS,None,3:30,3,Jazz,Celtics,71 - 57,0,26,3,Jumper
+89,Marcus Morris,DEFENSIVE_REBOUND,None,3:29,3,Celtics,Jazz,71 - 57,1,N/A,N/A,N/A
+90,Dante Exum,FOUL_ON_FLOOR,None,3:15,3,Jazz,Celtics,71 - 57,0,N/A,N/A,N/A
+91,Terry Rozier,FT_MISS,None,3:15,3,Celtics,Jazz,71 - 57,1,N/A,1,N/A
+92,Team,OFFENSIVE_REBOUND,None,3:15,3,Celtics,Jazz,71 - 57,1,N/A,N/A,N/A
+93,Derrick Favors,SUBSTITUTION,Gobert Rudy,3:15,3,Jazz,Celtics,71 - 57,0,N/A,N/A,N/A
+94,Terry Rozier,FT_MISS,None,3:15,3,Celtics,Jazz,71 - 57,1,N/A,1,N/A
+95,Dante Exum,DEFENSIVE_REBOUND,None,3:13,3,Jazz,Celtics,71 - 57,0,N/A,N/A,N/A
+96,Terry Rozier,FOUL_ON_FLOOR,None,3:13,3,Celtics,Jazz,71 - 57,1,N/A,N/A,N/A
+97,Dante Exum,FT_MISS,None,3:13,3,Jazz,Celtics,71 - 57,0,N/A,1,N/A
+98,Team,OFFENSIVE_REBOUND,None,3:13,3,Jazz,Celtics,71 - 57,0,N/A,N/A,N/A
+99,Dante Exum,FT,None,3:13,3,Jazz,Celtics,72 - 57,0,N/A,1,N/A
+100,Marcus Morris,FG_MISS,None,3:02,3,Celtics,Jazz,72 - 57,1,24,3,Jumper
+101,Aron Baynes,OFFENSIVE_REBOUND,None,2:59,3,Celtics,Jazz,72 - 57,1,N/A,N/A,N/A
+102,Aron Baynes,FG_MISS,None,2:56,3,Celtics,Jazz,72 - 57,1, ,2,Jumper
+103,Royce O'Neale,DEFENSIVE_REBOUND,None,2:54,3,Jazz,Celtics,72 - 57,0,N/A,N/A,N/A
+104,Alec Burks,FG_MISS,None,2:40,3,Jazz,Celtics,72 - 57,0,27,3,Jumper
+105,Terry Rozier,DEFENSIVE_REBOUND,None,2:38,3,Celtics,Jazz,72 - 57,1,N/A,N/A,N/A
+106,Terry Rozier,FG_MISS,None,2:25,3,Celtics,Jazz,72 - 57,1,25,3,Jumper
+107,Dante Exum,DEFENSIVE_REBOUND,None,2:23,3,Jazz,Celtics,72 - 57,0,N/A,N/A,N/A
+108,Alec Burks,TURNOVER,Marcus Smart,2:12,3,Jazz,Celtics,72 - 57,0,N/A,N/A,N/A
+109,Gordon Hayward,FG_ASSISTED,Marcus Smart,2:08,3,Celtics,Jazz,72 - 59,1,1,2,Jumper
+110,Aron Baynes,FOUL_ON_FLOOR,None,1:52,3,Celtics,Jazz,72 - 59,1,N/A,N/A,N/A
+111,Team,Unknown,None,1:52,3,Celtics,Jazz,72 - 59,1,N/A,N/A,N/A
+112,Jaylen Brown,SUBSTITUTION,Smart Marcus,1:52,3,Celtics,Jazz,72 - 59,1,N/A,N/A,N/A
+113,Donovan Mitchell,SUBSTITUTION,Burks Alec,1:52,3,Jazz,Celtics,72 - 59,0,N/A,N/A,N/A
+114,Derrick Favors,FT,None,1:52,3,Jazz,Celtics,73 - 59,0,N/A,1,N/A
+115,Derrick Favors,FT,None,1:52,3,Jazz,Celtics,74 - 59,0,N/A,1,N/A
+116,Gordon Hayward,FG_UNASSISTED,None,1:33,3,Celtics,Jazz,74 - 61,1,6,2,Jumper
+117,Jae Crowder,FOUL_ON_FLOOR,None,1:33,3,Jazz,Celtics,74 - 61,0,N/A,N/A,N/A
+118,Gordon Hayward,FT,None,1:33,3,Celtics,Jazz,74 - 62,1,N/A,1,N/A
+119,Donovan Mitchell,FG_MISS,None,1:10,3,Jazz,Celtics,74 - 62,0,30,3,Jumper
+120,Gordon Hayward,DEFENSIVE_REBOUND,None,1:04,3,Celtics,Jazz,74 - 62,1,N/A,N/A,N/A
+121,Gordon Hayward,FG_MISS,None,49.0,3,Celtics,Jazz,74 - 62,1,24,3,Jumper
+122,Donovan Mitchell,DEFENSIVE_REBOUND,None,47.3,3,Jazz,Celtics,74 - 62,0,N/A,N/A,N/A
+123,Dante Exum,FG_ASSISTED,Donovan Mitchell,26.6,3,Jazz,Celtics,77 - 62,0,23,3,Jumper
+124,Terry Rozier,FG_MISS,None,1.8,3,Celtics,Jazz,77 - 62,1,26,3,Jumper
+125,Aron Baynes,OFFENSIVE_REBOUND,None,1.0,3,Celtics,Jazz,77 - 62,1,N/A,N/A,N/A
+126,Aron Baynes,FG_MISS,None,0.4,3,Celtics,Jazz,77 - 62,1, ,2,Jumper
+127,Team,OFFENSIVE_REBOUND,None,0.1,3,Celtics,Jazz,77 - 62,1,N/A,N/A,N/A
+128,End of,Unknown,None,0.0,3,Celtics,Jazz,77 - 62,1,N/A,N/A,N/A
+0,Al Horford,SUBSTITUTION,Rozier Terry,12:00,4,Celtics,Jazz,77 - 62,1,N/A,N/A,N/A
+1,Semi Ojeleye,SUBSTITUTION,Morris Marcus,12:00,4,Celtics,Jazz,77 - 62,1,N/A,N/A,N/A
+2,Kyrie Irving,SUBSTITUTION,Baynes Aron,12:00,4,Celtics,Jazz,77 - 62,1,N/A,N/A,N/A
+3,Derrick Favors,FG_ASSISTED,Donovan Mitchell,11:49,4,Jazz,Celtics,79 - 62,0,0,2,Dunk
+4,Al Horford,FG_MISS,None,11:31,4,Celtics,Jazz,79 - 62,1,25,3,Jumper
+5,Royce O'Neale,DEFENSIVE_REBOUND,None,11:28,4,Jazz,Celtics,79 - 62,0,N/A,N/A,N/A
+6,Donovan Mitchell,FG_MISS,None,11:14,4,Jazz,Celtics,79 - 62,0,27,3,Jumper
+7,Team,DEFENSIVE_REBOUND,None,11:14,4,Celtics,Jazz,79 - 62,1,N/A,N/A,N/A
+8,Donovan Mitchell,FOUL_ON_FLOOR,None,11:02,4,Jazz,Celtics,79 - 62,0,N/A,N/A,N/A
+9,Georges Niang,SUBSTITUTION,Crowder Jae,11:02,4,Jazz,Celtics,79 - 62,0,N/A,N/A,N/A
+10,Gordon Hayward,TURNOVER,None,10:56,4,Celtics,Jazz,79 - 62,1,N/A,N/A,N/A
+11,Derrick Favors,FG_ASSISTED,Dante Exum,10:43,4,Jazz,Celtics,81 - 62,0,0,2,Dunk
+12,Team,Unknown,None,10:43,4,Celtics,Jazz,81 - 62,1,N/A,N/A,N/A
+13,Jaylen Brown,FG_MISS,None,10:31,4,Celtics,Jazz,81 - 62,1,0,2,Layup
+14,Derrick Favors,DEFENSIVE_REBOUND,None,10:29,4,Jazz,Celtics,81 - 62,0,N/A,N/A,N/A
+15,Donovan Mitchell,FG_MISS,None,10:11,4,Jazz,Celtics,81 - 62,0,26,3,Jumper
+16,Al Horford,DEFENSIVE_REBOUND,None,10:08,4,Celtics,Jazz,81 - 62,1,N/A,N/A,N/A
+17,Semi Ojeleye,FG_MISS,None,9:58,4,Celtics,Jazz,81 - 62,1,22,3,Jumper
+18,Dante Exum,DEFENSIVE_REBOUND,None,9:55,4,Jazz,Celtics,81 - 62,0,N/A,N/A,N/A
+19,Donovan Mitchell,TURNOVER,Al Horford,9:50,4,Jazz,Celtics,81 - 62,0,N/A,N/A,N/A
+20,Royce O'Neale,FOUL_ON_FLOOR,None,9:47,4,Jazz,Celtics,81 - 62,0,N/A,N/A,N/A
+21,Kyrie Irving,FG_UNASSISTED,None,9:41,4,Celtics,Jazz,81 - 64,1,3,2,Jumper
+22,Royce O'Neale,TURNOVER,Semi Ojeleye,9:19,4,Jazz,Celtics,81 - 64,0,N/A,N/A,N/A
+23,Gordon Hayward's,FG_MISS,Donovan Mitchell,9:14,4,Jazz,Celtics,81 - 64,1,0,2,Dunk
+24,Royce O'Neale,DEFENSIVE_REBOUND,None,9:12,4,Jazz,Celtics,81 - 64,0,N/A,N/A,N/A
+25,Derrick Favors,FG_ASSISTED,Georges Niang,9:07,4,Jazz,Celtics,83 - 64,0,0,2,Dunk
+26,Derrick Favors,FOUL_ON_FLOOR,None,8:58,4,Jazz,Celtics,83 - 64,0,N/A,N/A,N/A
+27,Kyrie Irving,FT,None,8:58,4,Celtics,Jazz,83 - 65,1,N/A,1,N/A
+28,Daniel Theis,SUBSTITUTION,Brown Jaylen,8:58,4,Celtics,Jazz,83 - 65,1,N/A,N/A,N/A
+29,Brad Wanamaker,SUBSTITUTION,Hayward Gordon,8:58,4,Celtics,Jazz,83 - 65,1,N/A,N/A,N/A
+30,Guerschon Yabusele,SUBSTITUTION,Horford Al,8:58,4,Celtics,Jazz,83 - 65,1,N/A,N/A,N/A
+31,Kyrie Irving,FT,None,8:58,4,Celtics,Jazz,83 - 66,1,N/A,1,N/A
+32,Dante Exum,FG_MISS,None,8:42,4,Jazz,Celtics,83 - 66,0,25,3,Jumper
+33,Brad Wanamaker,DEFENSIVE_REBOUND,None,8:40,4,Celtics,Jazz,83 - 66,1,N/A,N/A,N/A
+34,Donovan Mitchell,FOUL_ON_FLOOR,None,8:34,4,Jazz,Celtics,83 - 66,0,N/A,N/A,N/A
+35,Ricky Rubio,SUBSTITUTION,Exum Dante,8:34,4,Jazz,Celtics,83 - 66,0,N/A,N/A,N/A
+36,Joe Ingles,SUBSTITUTION,O'Neale Royce,8:34,4,Jazz,Celtics,83 - 66,0,N/A,N/A,N/A
+37,Daniel Theis,FG_ASSISTED,Kyrie Irving,8:27,4,Celtics,Jazz,83 - 68,1,0,2,Layup
+38,Donovan Mitchell,TURNOVER,Guerschon Yabusele,8:07,4,Jazz,Celtics,83 - 68,0,N/A,N/A,N/A
+39,Guerschon Yabusele,FG_MISS,None,8:04,4,Celtics,Jazz,83 - 68,1, ,2,Jumper
+40,Semi Ojeleye,OFFENSIVE_REBOUND,None,8:02,4,Celtics,Jazz,83 - 68,1,N/A,N/A,N/A
+41,Semi Ojeleye,FG_UNASSISTED,None,8:00,4,Celtics,Jazz,83 - 70,1,3,2,Jumper
+42,Team,Unknown,None,8:00,4,Jazz,Celtics,83 - 70,0,N/A,N/A,N/A
+43,Alec Burks,SUBSTITUTION,Favors Derrick,8:00,4,Jazz,Celtics,83 - 70,0,N/A,N/A,N/A
+44,Rudy Gobert,SUBSTITUTION,Niang Georges,8:00,4,Jazz,Celtics,83 - 70,0,N/A,N/A,N/A
+45,Jae Crowder,SUBSTITUTION,Mitchell Donovan,8:00,4,Jazz,Celtics,83 - 70,0,N/A,N/A,N/A
+46,Daniel Theis,FOUL_ON_FLOOR,None,7:49,4,Celtics,Jazz,83 - 70,1,N/A,N/A,N/A
+47,Guerschon Yabusele,FOUL_ON_FLOOR,None,7:42,4,Celtics,Jazz,83 - 70,1,N/A,N/A,N/A
+48,Alec Burks,FG_MISS,None,7:27,4,Jazz,Celtics,83 - 70,0,27,3,Jumper
+49,Rudy Gobert,OFFENSIVE_REBOUND,None,7:25,4,Jazz,Celtics,83 - 70,0,N/A,N/A,N/A
+50,Jae Crowder,FG_MISS,None,7:17,4,Jazz,Celtics,83 - 70,0,26,3,Jumper
+51,Kyrie Irving,DEFENSIVE_REBOUND,None,7:13,4,Celtics,Jazz,83 - 70,1,N/A,N/A,N/A
+52,Brad Wanamaker,FG_MISS,None,6:58,4,Celtics,Jazz,83 - 70,1,25,3,Jumper
+53,Rudy Gobert,DEFENSIVE_REBOUND,None,6:56,4,Jazz,Celtics,83 - 70,0,N/A,N/A,N/A
+54,Daniel Theis,FOUL_ON_FLOOR,None,6:36,4,Celtics,Jazz,83 - 70,1,N/A,N/A,N/A
+55,Ricky Rubio,FT,None,6:36,4,Jazz,Celtics,84 - 70,0,N/A,1,N/A
+56,Ricky Rubio,FT,None,6:36,4,Jazz,Celtics,85 - 70,0,N/A,1,N/A
+57,Donovan Mitchell,SUBSTITUTION,Burks Alec,6:36,4,Jazz,Celtics,85 - 70,0,N/A,N/A,N/A
+58,Ricky Rubio,FT,None,6:36,4,Jazz,Celtics,86 - 70,0,N/A,1,N/A
+59,Jae Crowder,FOUL_ON_FLOOR,None,6:25,4,Jazz,Celtics,86 - 70,0,N/A,N/A,N/A
+60,Guerschon Yabusele,FT,None,6:25,4,Celtics,Jazz,86 - 71,1,N/A,1,N/A
+61,Guerschon Yabusele,FT,None,6:25,4,Celtics,Jazz,86 - 72,1,N/A,1,N/A
+62,Donovan Mitchell,FG_UNASSISTED,None,6:04,4,Jazz,Celtics,88 - 72,0,0,2,Layup
+63,Kyrie Irving,FG_MISS,None,5:54,4,Celtics,Jazz,88 - 72,1,25,3,Jumper
+64,Rudy Gobert,DEFENSIVE_REBOUND,None,5:52,4,Jazz,Celtics,88 - 72,0,N/A,N/A,N/A
+65,Donovan Mitchell,FG_UNASSISTED,None,5:32,4,Jazz,Celtics,91 - 72,0,28,3,Jumper
+66,Kyrie Irving,FG_MISS,None,5:19,4,Celtics,Jazz,91 - 72,1,0,2,Layup
+67,Team,DEFENSIVE_REBOUND,None,5:19,4,Jazz,Celtics,91 - 72,0,N/A,N/A,N/A
+68,Daniel Theis,FOUL_ON_FLOOR,None,5:19,4,Celtics,Jazz,91 - 72,1,N/A,N/A,N/A
+69,Terry Rozier,SUBSTITUTION,Irving Kyrie,5:19,4,Celtics,Jazz,91 - 72,1,N/A,N/A,N/A
+70,Ricky Rubio,FG_ASSISTED,Rudy Gobert,5:01,4,Jazz,Celtics,94 - 72,0,28,3,Jumper
+71,Brad Wanamaker,FG_MISS,None,4:50,4,Celtics,Jazz,94 - 72,1,21,2,Jumper
+72,Ricky Rubio,DEFENSIVE_REBOUND,None,4:46,4,Jazz,Celtics,94 - 72,0,N/A,N/A,N/A
+73,Ricky Rubio,FG_MISS,None,4:38,4,Jazz,Celtics,94 - 72,0,19,2,Jumper
+74,Guerschon Yabusele,DEFENSIVE_REBOUND,None,4:36,4,Celtics,Jazz,94 - 72,1,N/A,N/A,N/A
+75,Terry Rozier,FG_MISS,None,4:29,4,Celtics,Jazz,94 - 72,1,0,2,Layup
+76,Daniel Theis,OFFENSIVE_REBOUND,None,4:28,4,Celtics,Jazz,94 - 72,1,N/A,N/A,N/A
+77,Daniel Theis,FG_UNASSISTED,None,4:28,4,Celtics,Jazz,94 - 74,1,0,2,Dunk
+78,Daniel Theis,FOUL_ON_FLOOR,None,4:12,4,Celtics,Jazz,94 - 74,1,N/A,N/A,N/A
+79,Ricky Rubio,FT,None,4:12,4,Jazz,Celtics,95 - 74,0,N/A,1,N/A
+80,Ricky Rubio,FT,None,4:12,4,Jazz,Celtics,96 - 74,0,N/A,1,N/A
+81,Brad Wanamaker,TURNOVER,Rudy Gobert,3:56,4,Celtics,Jazz,96 - 74,1,N/A,N/A,N/A
+82,Joe Ingles,TURNOVER,Brad Wanamaker,3:43,4,Jazz,Celtics,96 - 74,0,N/A,N/A,N/A
+83,Brad Wanamaker,FG_UNASSISTED,None,3:39,4,Celtics,Jazz,96 - 76,1, ,2,Jumper
+84,Team,Unknown,None,3:38,4,Jazz,Celtics,96 - 76,0,N/A,N/A,N/A
+85,Ricky Rubio,FG_ASSISTED,Donovan Mitchell,3:18,4,Jazz,Celtics,98 - 76,0,18,2,Jumper
+86,Guerschon Yabusele,FG_MISS,None,2:59,4,Celtics,Jazz,98 - 76,1,27,3,Jumper
+87,Terry Rozier,OFFENSIVE_REBOUND,None,2:56,4,Celtics,Jazz,98 - 76,1,N/A,N/A,N/A
+88,Semi Ojeleye,FG_MISS,None,2:54,4,Celtics,Jazz,98 - 76,1,23,3,Jumper
+89,Guerschon Yabusele,OFFENSIVE_REBOUND,None,2:51,4,Celtics,Jazz,98 - 76,1,N/A,N/A,N/A
+90,Guerschon Yabusele,FG_ASSISTED,Brad Wanamaker,2:42,4,Celtics,Jazz,98 - 79,1,26,3,Jumper
+91,Donovan Mitchell,FG_MISS,None,2:21,4,Jazz,Celtics,98 - 79,0,25,3,Jumper
+92,Team,DEFENSIVE_REBOUND,None,2:20,4,Celtics,Jazz,98 - 79,1,N/A,N/A,N/A
+93,Rudy Gobert,FOUL_ON_FLOOR,None,2:20,4,Jazz,Celtics,98 - 79,0,N/A,N/A,N/A
+94,Daniel Theis,FT,None,2:20,4,Celtics,Jazz,98 - 80,1,N/A,1,N/A
+95,Ekpe Udoh,SUBSTITUTION,Ingles Joe,2:20,4,Jazz,Celtics,98 - 80,0,N/A,N/A,N/A
+96,Georges Niang,SUBSTITUTION,Rubio Ricky,2:20,4,Jazz,Celtics,98 - 80,0,N/A,N/A,N/A
+97,Dante Exum,SUBSTITUTION,Gobert Rudy,2:20,4,Jazz,Celtics,98 - 80,0,N/A,N/A,N/A
+98,Royce O'Neale,SUBSTITUTION,Mitchell Donovan,2:20,4,Jazz,Celtics,98 - 80,0,N/A,N/A,N/A
+99,Grayson Allen,SUBSTITUTION,Crowder Jae,2:20,4,Jazz,Celtics,98 - 80,0,N/A,N/A,N/A
+100,Daniel Theis,FT_MISS,None,2:20,4,Celtics,Jazz,98 - 80,1,N/A,1,N/A
+101,Team,OFFENSIVE_REBOUND,None,2:19,4,Celtics,Jazz,98 - 80,1,N/A,N/A,N/A
+102,Ekpe Udoh,FOUL_ON_FLOOR,None,2:19,4,Jazz,Celtics,98 - 80,0,N/A,N/A,N/A
+103,Guerschon Yabusele,FT,None,2:19,4,Celtics,Jazz,98 - 81,1,N/A,1,N/A
+104,Guerschon Yabusele,FT,None,2:19,4,Celtics,Jazz,98 - 82,1,N/A,1,N/A
+105,Dante Exum,FG_MISS,None,2:05,4,Jazz,Celtics,98 - 82,0,0,2,Layup
+106,Dante Exum,OFFENSIVE_REBOUND,None,2:02,4,Jazz,Celtics,98 - 82,0,N/A,N/A,N/A
+107,Grayson Allen,FG_MISS,None,2:01,4,Jazz,Celtics,98 - 82,0, ,3,Jumper
+108,Semi Ojeleye,DEFENSIVE_REBOUND,None,1:57,4,Celtics,Jazz,98 - 82,1,N/A,N/A,N/A
+109,Guerschon Yabusele,FG_MISS,None,1:49,4,Celtics,Jazz,98 - 82,1,15,2,Jumper
+110,Dante Exum,DEFENSIVE_REBOUND,None,1:45,4,Jazz,Celtics,98 - 82,0,N/A,N/A,N/A
+111,Dante Exum,TURNOVER,Guerschon Yabusele,1:28,4,Jazz,Celtics,98 - 82,0,N/A,N/A,N/A
+112,Guerschon Yabusele,FG_UNASSISTED,None,1:16,4,Celtics,Jazz,98 - 84,1,0,2,Layup
+113,Georges Niang,FG_MISS,None,1:02,4,Jazz,Celtics,98 - 84,0,27,3,Jumper
+114,Terry Rozier,DEFENSIVE_REBOUND,None,59.4,4,Celtics,Jazz,98 - 84,1,N/A,N/A,N/A
+115,Brad Wanamaker,FG_MISS,None,45.3,4,Celtics,Jazz,98 - 84,1,17,2,Jumper
+116,Dante Exum,DEFENSIVE_REBOUND,None,44.5,4,Jazz,Celtics,98 - 84,0,N/A,N/A,N/A
+117,Grayson Allen,FG_MISS,None,31.5,4,Jazz,Celtics,98 - 84,0,23,3,Jumper
+118,Terry Rozier,DEFENSIVE_REBOUND,None,28.8,4,Celtics,Jazz,98 - 84,1,N/A,N/A,N/A
+119,Daniel Theis,FG_ASSISTED,Terry Rozier,25.6,4,Celtics,Jazz,98 - 86,1, ,2,Jumper
+120,shot clock,TURNOVER,None,1.4,4,Jazz,Celtics,98 - 86,0,N/A,N/A,N/A
+121,End of,Unknown,None,0.0,4,Celtics,Jazz,98 - 86,1,N/A,N/A,N/A
+122,End of,Unknown,None,0.0,4,Celtics,Jazz,98 - 86,1,N/A,N/A,N/A

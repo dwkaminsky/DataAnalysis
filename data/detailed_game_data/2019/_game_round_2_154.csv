@@ -1,0 +1,494 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Serge Ibaka,JUMP_BALL,None,12:00,1,Raptors,Magic,0 - 0,0,N/A,N/A,N/A
+1,Danny Green,FG_ASSISTED,Serge Ibaka,11:40,1,Raptors,Magic,2 - 0,0,0,2,Layup
+2,Aaron Gordon,FOUL_ON_FLOOR,None,11:26,1,Magic,Raptors,2 - 0,1,N/A,N/A,N/A
+3,Aaron Gordon,TURNOVER,None,11:26,1,Magic,Raptors,2 - 0,1,N/A,N/A,N/A
+4,Serge Ibaka,FG_ASSISTED,Fred VanVleet,11:16,1,Raptors,Magic,4 - 0,0,0,2,Layup
+5,Jonathan Isaac,FG_MISS,None,10:56,1,Magic,Raptors,4 - 0,1,16,2,Jumper
+6,Danny Green,DEFENSIVE_REBOUND,None,10:53,1,Raptors,Magic,4 - 0,0,N/A,N/A,N/A
+7,Danny Green,TURNOVER,Nikola Vucevic,10:47,1,Raptors,Magic,4 - 0,0,N/A,N/A,N/A
+8,Nikola Vucevic,FG_ASSISTED,D.J. Augustin,10:42,1,Magic,Raptors,4 - 2,1,0,2,Dunk
+9,Pascal Siakam,FG_MISS,Jonathan Isaac,10:33,1,Magic,Raptors,4 - 2,0,0,2,Layup
+10,Nikola Vucevic,DEFENSIVE_REBOUND,None,10:29,1,Magic,Raptors,4 - 2,1,N/A,N/A,N/A
+11,Danny Green,FOUL_ON_FLOOR,None,10:29,1,Raptors,Magic,4 - 2,0,N/A,N/A,N/A
+12,Nikola Vucevic,TURNOVER,None,10:21,1,Magic,Raptors,4 - 2,1,N/A,N/A,N/A
+13,Fred VanVleet,FG_MISS,None,10:07,1,Raptors,Magic,4 - 2,0,25,3,Jumper
+14,Nikola Vucevic,DEFENSIVE_REBOUND,None,10:02,1,Magic,Raptors,4 - 2,1,N/A,N/A,N/A
+15,Jonathan Isaac,FG_UNASSISTED,None,10:00,1,Magic,Raptors,4 - 4,1,-,2,Jumper
+16,Danny Green,FOUL_ON_FLOOR,None,10:00,1,Raptors,Magic,4 - 4,0,N/A,N/A,N/A
+17,Jonathan Isaac,FT,None,10:00,1,Magic,Raptors,4 - 5,1,N/A,1,N/A
+18,Serge Ibaka,FG_ASSISTED,Fred VanVleet,9:41,1,Raptors,Magic,6 - 5,0,13,2,Jumper
+19,Evan Fournier,FG_MISS,None,9:26,1,Magic,Raptors,6 - 5,1,25,3,Jumper
+20,Pascal Siakam,DEFENSIVE_REBOUND,None,9:21,1,Raptors,Magic,6 - 5,0,N/A,N/A,N/A
+21,Danny Green,FG_MISS,None,9:15,1,Raptors,Magic,6 - 5,0,25,3,Jumper
+22,Aaron Gordon,DEFENSIVE_REBOUND,None,9:11,1,Magic,Raptors,6 - 5,1,N/A,N/A,N/A
+23,Nikola Vucevic,FG_ASSISTED,Aaron Gordon,9:03,1,Magic,Raptors,6 - 7,1,0,2,Layup
+24,Fred VanVleet,FG_ASSISTED,Serge Ibaka,8:45,1,Raptors,Magic,9 - 7,0,23,3,Jumper
+25,Evan Fournier,FG_MISS,None,8:30,1,Magic,Raptors,9 - 7,1,0,2,Layup
+26,Team,DEFENSIVE_REBOUND,None,8:30,1,Raptors,Magic,9 - 7,0,N/A,N/A,N/A
+27,Kawhi Leonard,FG_UNASSISTED,None,8:15,1,Raptors,Magic,11 - 7,0,21,2,Jumper
+28,Nikola Vucevic,FG_MISS,None,7:51,1,Magic,Raptors,11 - 7,1,26,3,Jumper
+29,Danny Green,DEFENSIVE_REBOUND,None,7:48,1,Raptors,Magic,11 - 7,0,N/A,N/A,N/A
+30,Fred VanVleet,FG_ASSISTED,Danny Green,7:43,1,Raptors,Magic,13 - 7,0,-,2,Jumper
+31,Team,Unknown,None,7:43,1,Magic,Raptors,13 - 7,1,N/A,N/A,N/A
+32,D.J. Augustin,FG_UNASSISTED,None,7:24,1,Magic,Raptors,13 - 9,1,4,2,Jumper
+33,Kawhi Leonard,FG_MISS,None,7:11,1,Raptors,Magic,13 - 9,0,24,3,Jumper
+34,Jonathan Isaac,DEFENSIVE_REBOUND,None,7:08,1,Magic,Raptors,13 - 9,1,N/A,N/A,N/A
+35,D.J. Augustin,FG_MISS,Serge Ibaka,7:01,1,Raptors,Magic,13 - 9,1,5,2,Jumper
+36,Serge Ibaka,DEFENSIVE_REBOUND,None,6:58,1,Raptors,Magic,13 - 9,0,N/A,N/A,N/A
+37,Kawhi Leonard,FG_ASSISTED,Danny Green,6:56,1,Raptors,Magic,16 - 9,0,26,3,Jumper
+38,D.J. Augustin,TURNOVER,Fred VanVleet,6:40,1,Magic,Raptors,16 - 9,1,N/A,N/A,N/A
+39,Fred VanVleet,FG_ASSISTED,Pascal Siakam,6:33,1,Raptors,Magic,19 - 9,0,26,3,Jumper
+40,Aaron Gordon,FG_ASSISTED,Jonathan Isaac,6:14,1,Magic,Raptors,19 - 12,1,26,3,Jumper
+41,Kawhi Leonard,FG_UNASSISTED,None,5:58,1,Raptors,Magic,21 - 12,0,0,2,Layup
+42,Evan Fournier,FG_MISS,None,5:38,1,Magic,Raptors,21 - 12,1,20,2,Jumper
+43,Team,DEFENSIVE_REBOUND,None,5:38,1,Raptors,Magic,21 - 12,0,N/A,N/A,N/A
+44,Wesley Iwundu,SUBSTITUTION,Gordon Aaron,5:38,1,Magic,Raptors,21 - 12,1,N/A,N/A,N/A
+45,Delon Wright,SUBSTITUTION,Green Danny,5:38,1,Raptors,Magic,21 - 12,0,N/A,N/A,N/A
+46,Serge Ibaka,FG_MISS,None,5:25,1,Raptors,Magic,21 - 12,0,11,2,Jumper
+47,Nikola Vucevic,DEFENSIVE_REBOUND,None,5:23,1,Magic,Raptors,21 - 12,1,N/A,N/A,N/A
+48,Wesley Iwundu,FG_ASSISTED,Nikola Vucevic,5:07,1,Magic,Raptors,21 - 14,1,0,2,Layup
+49,D.J. Augustin,FOUL_ON_FLOOR,None,4:53,1,Magic,Raptors,21 - 14,1,N/A,N/A,N/A
+50,Fred VanVleet,FT,None,4:53,1,Raptors,Magic,22 - 14,0,N/A,1,N/A
+51,Jonathon Simmons,SUBSTITUTION,Augustin D.J.,4:53,1,Magic,Raptors,22 - 14,1,N/A,N/A,N/A
+52,Fred VanVleet,FT_MISS,None,4:53,1,Raptors,Magic,22 - 14,0,N/A,1,N/A
+53,Aaron Gordon,SUBSTITUTION,Isaac Jonathan,4:53,1,Magic,Raptors,22 - 14,1,N/A,N/A,N/A
+54,Aaron Gordon,DEFENSIVE_REBOUND,None,4:47,1,Magic,Raptors,22 - 14,1,N/A,N/A,N/A
+55,Aaron Gordon,FG_MISS,None,4:37,1,Magic,Raptors,22 - 14,1,19,2,Jumper
+56,Kawhi Leonard,DEFENSIVE_REBOUND,None,4:33,1,Raptors,Magic,22 - 14,0,N/A,N/A,N/A
+57,Kawhi Leonard,TURNOVER,Evan Fournier,4:30,1,Raptors,Magic,22 - 14,0,N/A,N/A,N/A
+58,Evan Fournier,FG_MISS,None,4:22,1,Magic,Raptors,22 - 14,1,27,3,Jumper
+59,Serge Ibaka,DEFENSIVE_REBOUND,None,4:15,1,Raptors,Magic,22 - 14,0,N/A,N/A,N/A
+60,Pascal Siakam,FG_MISS,Wesley Iwundu,4:07,1,Magic,Raptors,22 - 14,0,0,2,Layup
+61,Evan Fournier,DEFENSIVE_REBOUND,None,4:07,1,Magic,Raptors,22 - 14,1,N/A,N/A,N/A
+62,Jonathon Simmons,FG_MISS,None,4:02,1,Magic,Raptors,22 - 14,1,25,3,Jumper
+63,Nikola Vucevic,OFFENSIVE_REBOUND,None,3:57,1,Magic,Raptors,22 - 14,1,N/A,N/A,N/A
+64,Nikola Vucevic,FG_MISS,None,3:54,1,Magic,Raptors,22 - 14,1,0,2,Layup
+65,Serge Ibaka,DEFENSIVE_REBOUND,None,3:52,1,Raptors,Magic,22 - 14,0,N/A,N/A,N/A
+66,Serge Ibaka,FG_MISS,None,3:36,1,Raptors,Magic,22 - 14,0,0,2,Layup
+67,Nikola Vucevic,DEFENSIVE_REBOUND,None,3:33,1,Magic,Raptors,22 - 14,1,N/A,N/A,N/A
+68,Aaron Gordon,FG_MISS,None,3:28,1,Magic,Raptors,22 - 14,1,25,3,Jumper
+69,Serge Ibaka,DEFENSIVE_REBOUND,None,3:24,1,Raptors,Magic,22 - 14,0,N/A,N/A,N/A
+70,Team,Unknown,None,3:21,1,Raptors,Magic,22 - 14,0,N/A,N/A,N/A
+71,Terrence Ross,SUBSTITUTION,Fournier Evan,3:21,1,Magic,Raptors,22 - 14,1,N/A,N/A,N/A
+72,Jonathan Isaac,SUBSTITUTION,Gordon Aaron,3:21,1,Magic,Raptors,22 - 14,1,N/A,N/A,N/A
+73,Greg Monroe,SUBSTITUTION,Ibaka Serge,3:21,1,Raptors,Magic,22 - 14,0,N/A,N/A,N/A
+74,OG Anunoby,SUBSTITUTION,Siakam Pascal,3:21,1,Raptors,Magic,22 - 14,0,N/A,N/A,N/A
+75,Greg Monroe,FOUL_ON_FLOOR,None,3:08,1,Raptors,Magic,22 - 14,0,N/A,N/A,N/A
+76,Greg Monroe,TURNOVER,None,3:08,1,Raptors,Magic,22 - 14,0,N/A,N/A,N/A
+77,Jonathon Simmons's,FG_MISS,Kawhi Leonard,2:55,1,Raptors,Magic,22 - 14,1,0,2,Layup
+78,Kawhi Leonard,DEFENSIVE_REBOUND,None,2:53,1,Raptors,Magic,22 - 14,0,N/A,N/A,N/A
+79,Kawhi Leonard,FG_MISS,None,2:39,1,Raptors,Magic,22 - 14,0,10,2,Jumper
+80,Terrence Ross,DEFENSIVE_REBOUND,None,2:36,1,Magic,Raptors,22 - 14,1,N/A,N/A,N/A
+81,Nikola Vucevic,FG_ASSISTED,Jonathon Simmons,2:29,1,Magic,Raptors,22 - 16,1,7,2,Jumper
+82,Kawhi Leonard,FG_UNASSISTED,None,2:15,1,Raptors,Magic,25 - 16,0,26,3,Jumper
+83,Wesley Iwundu,FG_ASSISTED,Nikola Vucevic,2:01,1,Magic,Raptors,25 - 18,1,0,2,Layup
+84,Wesley Iwundu,FOUL_ON_FLOOR,None,1:41,1,Magic,Raptors,25 - 18,1,N/A,N/A,N/A
+85,OG Anunoby,FT_MISS,None,1:41,1,Raptors,Magic,25 - 18,0,N/A,1,N/A
+86,Team,OFFENSIVE_REBOUND,None,1:41,1,Raptors,Magic,25 - 18,0,N/A,N/A,N/A
+87,Mo Bamba,SUBSTITUTION,Vucevic Nikola,1:41,1,Magic,Raptors,25 - 18,1,N/A,N/A,N/A
+88,Pascal Siakam,SUBSTITUTION,Leonard Kawhi,1:41,1,Raptors,Magic,25 - 18,0,N/A,N/A,N/A
+89,CJ Miles,SUBSTITUTION,for game,1:41,1,Raptors,Magic,25 - 18,0,N/A,N/A,N/A
+90,OG Anunoby,FT,None,1:41,1,Raptors,Magic,26 - 18,0,N/A,1,N/A
+91,enters the,SUBSTITUTION,VanVleet Fred,1:41,1,Raptors,Magic,26 - 18,0,N/A,N/A,N/A
+92,Terrence Ross,FG_ASSISTED,Jonathon Simmons,1:32,1,Magic,Raptors,26 - 20,1, ,2,Jumper
+93,OG Anunoby,FG_MISS,None,1:13,1,Raptors,Magic,26 - 20,0,17,2,Jumper
+94,Greg Monroe,OFFENSIVE_REBOUND,None,1:11,1,Raptors,Magic,26 - 20,0,N/A,N/A,N/A
+95,Greg Monroe,FG_MISS,None,1:10,1,Raptors,Magic,26 - 20,0,14,2,Jumper
+96,Mo Bamba,DEFENSIVE_REBOUND,None,1:06,1,Magic,Raptors,26 - 20,1,N/A,N/A,N/A
+97,Jonathon Simmons,FG_UNASSISTED,None,1:02,1,Magic,Raptors,26 - 22,1, ,2,Jumper
+98,Delon Wright,FG_ASSISTED,Greg Monroe,38.9,1,Raptors,Magic,29 - 22,0,25,3,Jumper
+99,Jonathan Isaac,FG_ASSISTED,Jonathon Simmons,28.4,1,Magic,Raptors,29 - 25,1,26,3,Jumper
+100,Delon Wright,TURNOVER,None,4.5,1,Raptors,Magic,29 - 25,0,N/A,N/A,N/A
+101,Delon Wright,FOUL_ON_FLOOR,None,3.0,1,Raptors,Magic,29 - 25,0,N/A,N/A,N/A
+102,Jonathon Simmons,FG_MISS,None,0.0,1,Magic,Raptors,29 - 25,1, ,2,Jumper
+103,Team,OFFENSIVE_REBOUND,None,0.0,1,Magic,Raptors,29 - 25,1,N/A,N/A,N/A
+104,End of,Unknown,None,0.0,1,Magic,Raptors,29 - 25,1,N/A,N/A,N/A
+0,Aaron Gordon,SUBSTITUTION,Isaac Jonathan,12:00,2,Magic,Raptors,29 - 25,1,N/A,N/A,N/A
+1,Aaron Gordon,TURNOVER,Delon Wright,11:42,2,Magic,Raptors,29 - 25,1,N/A,N/A,N/A
+2,Pascal Siakam,FG_MISS,None,11:25,2,Raptors,Magic,29 - 25,0,24,3,Jumper
+3,Aaron Gordon,DEFENSIVE_REBOUND,None,11:22,2,Magic,Raptors,29 - 25,1,N/A,N/A,N/A
+4,Terrence Ross,FG_MISS,None,11:10,2,Magic,Raptors,29 - 25,1,24,2,Jumper
+5,CJ Miles,DEFENSIVE_REBOUND,None,11:06,2,Raptors,Magic,29 - 25,0,N/A,N/A,N/A
+6,Pascal Siakam,FG_UNASSISTED,None,11:03,2,Raptors,Magic,31 - 25,0,4,2,Jumper
+7,Mo Bamba,FOUL_ON_FLOOR,None,11:03,2,Magic,Raptors,31 - 25,1,N/A,N/A,N/A
+8,Pascal Siakam,FT,None,11:03,2,Raptors,Magic,32 - 25,0,N/A,1,N/A
+9,Mo Bamba,FG_ASSISTED,Aaron Gordon,10:52,2,Magic,Raptors,32 - 27,1,0,2,Layup
+10,Pascal Siakam,FOUL_ON_FLOOR,None,10:52,2,Raptors,Magic,32 - 27,0,N/A,N/A,N/A
+11,Mo Bamba,FT_MISS,None,10:52,2,Magic,Raptors,32 - 27,1,N/A,1,N/A
+12,Greg Monroe,DEFENSIVE_REBOUND,None,10:50,2,Raptors,Magic,32 - 27,0,N/A,N/A,N/A
+13,CJ Miles,FG_ASSISTED,Pascal Siakam,10:39,2,Raptors,Magic,34 - 27,0, ,2,Jumper
+14,Aaron Gordon,TURNOVER,None,10:24,2,Magic,Raptors,34 - 27,1,N/A,N/A,N/A
+15,Aaron Gordon,TURNOVER,None,10:24,2,Magic,Raptors,34 - 27,1,N/A,N/A,N/A
+16,Delon Wright,FG_MISS,None,10:10,2,Raptors,Magic,34 - 27,0,0,2,Layup
+17,Jonathon Simmons,DEFENSIVE_REBOUND,None,10:07,2,Magic,Raptors,34 - 27,1,N/A,N/A,N/A
+18,Wesley Iwundu,FG_MISS,None,10:03,2,Magic,Raptors,34 - 27,1,23,3,Jumper
+19,Greg Monroe,DEFENSIVE_REBOUND,None,9:58,2,Raptors,Magic,34 - 27,0,N/A,N/A,N/A
+20,Greg Monroe,FG_MISS,None,9:46,2,Raptors,Magic,34 - 27,0,0,2,Layup
+21,Wesley Iwundu,DEFENSIVE_REBOUND,None,9:42,2,Magic,Raptors,34 - 27,1,N/A,N/A,N/A
+22,OG Anunoby,FOUL_ON_FLOOR,None,9:41,2,Raptors,Magic,34 - 27,0,N/A,N/A,N/A
+23,Wesley Iwundu,FT,None,9:41,2,Magic,Raptors,34 - 28,1,N/A,1,N/A
+24,Danny Green,SUBSTITUTION,Siakam Pascal,9:41,2,Raptors,Magic,34 - 28,0,N/A,N/A,N/A
+25,Wesley Iwundu,FT,None,9:41,2,Magic,Raptors,34 - 29,1,N/A,1,N/A
+26,Terrence Ross,FOUL_ON_FLOOR,None,9:17,2,Magic,Raptors,34 - 29,1,N/A,N/A,N/A
+27,CJ Miles,FT_MISS,None,9:17,2,Raptors,Magic,34 - 29,0,N/A,1,N/A
+28,Team,OFFENSIVE_REBOUND,None,9:17,2,Raptors,Magic,34 - 29,0,N/A,N/A,N/A
+29,CJ Miles,FT,None,9:17,2,Raptors,Magic,35 - 29,0,N/A,1,N/A
+30,CJ Miles,FT,None,9:17,2,Raptors,Magic,36 - 29,0,N/A,1,N/A
+31,Jonathon Simmons,FG_MISS,None,9:06,2,Magic,Raptors,36 - 29,1, ,2,Jumper
+32,Greg Monroe,DEFENSIVE_REBOUND,None,9:02,2,Raptors,Magic,36 - 29,0,N/A,N/A,N/A
+33,CJ Miles,FG_MISS,None,8:51,2,Raptors,Magic,36 - 29,0,26,3,Jumper
+34,Mo Bamba,DEFENSIVE_REBOUND,None,8:48,2,Magic,Raptors,36 - 29,1,N/A,N/A,N/A
+35,Mo Bamba,TURNOVER,None,8:48,2,Magic,Raptors,36 - 29,1,N/A,N/A,N/A
+36,Delon Wright,FG_MISS,None,8:35,2,Raptors,Magic,36 - 29,0, ,2,Jumper
+37,Jonathon Simmons,DEFENSIVE_REBOUND,None,8:32,2,Magic,Raptors,36 - 29,1,N/A,N/A,N/A
+38,Mo Bamba,FG_ASSISTED,Aaron Gordon,8:22,2,Magic,Raptors,36 - 31,1,16,2,Jumper
+39,Greg Monroe,FOUL_ON_FLOOR,None,8:22,2,Raptors,Magic,36 - 31,0,N/A,N/A,N/A
+40,Mo Bamba,FT,None,8:22,2,Magic,Raptors,36 - 32,1,N/A,1,N/A
+41,Greg Monroe,FG_MISS,None,8:13,2,Raptors,Magic,36 - 32,0,0,2,Dunk
+42,Mo Bamba,DEFENSIVE_REBOUND,None,8:10,2,Magic,Raptors,36 - 32,1,N/A,N/A,N/A
+43,Mo Bamba,FG_MISS,None,8:05,2,Magic,Raptors,36 - 32,1, ,2,Jumper
+44,CJ Miles,DEFENSIVE_REBOUND,None,8:03,2,Raptors,Magic,36 - 32,0,N/A,N/A,N/A
+45,Delon Wright,FG_MISS,None,7:58,2,Raptors,Magic,36 - 32,0,24,3,Jumper
+46,OG Anunoby,OFFENSIVE_REBOUND,None,7:57,2,Raptors,Magic,36 - 32,0,N/A,N/A,N/A
+47,Mo Bamba,FOUL_ON_FLOOR,None,7:57,2,Magic,Raptors,36 - 32,1,N/A,N/A,N/A
+48,OG Anunoby,FT_MISS,None,7:57,2,Raptors,Magic,36 - 32,0,N/A,1,N/A
+49,Team,OFFENSIVE_REBOUND,None,7:57,2,Raptors,Magic,36 - 32,0,N/A,N/A,N/A
+50,Jonathan Isaac,SUBSTITUTION,Iwundu Wesley,7:57,2,Magic,Raptors,36 - 32,1,N/A,N/A,N/A
+51,Serge Ibaka,SUBSTITUTION,Monroe Greg,7:57,2,Raptors,Magic,36 - 32,0,N/A,N/A,N/A
+52,Fred VanVleet,SUBSTITUTION,Wright Delon,7:57,2,Raptors,Magic,36 - 32,0,N/A,N/A,N/A
+53,OG Anunoby,FT,None,7:57,2,Raptors,Magic,37 - 32,0,N/A,1,N/A
+54,Terrence Ross,FG_ASSISTED,Jonathon Simmons,7:48,2,Magic,Raptors,37 - 34,1,15,2,Jumper
+55,OG Anunoby,FG_ASSISTED,Serge Ibaka,7:22,2,Raptors,Magic,40 - 34,0,25,3,Jumper
+56,Terrence Ross,FG_MISS,None,7:10,2,Magic,Raptors,40 - 34,1, ,2,Jumper
+57,Team,DEFENSIVE_REBOUND,None,7:10,2,Raptors,Magic,40 - 34,0,N/A,N/A,N/A
+58,Mo Bamba,FOUL_ON_FLOOR,None,7:10,2,Magic,Raptors,40 - 34,1,N/A,N/A,N/A
+59,Nikola Vucevic,SUBSTITUTION,Bamba Mo,7:10,2,Magic,Raptors,40 - 34,1,N/A,N/A,N/A
+60,Kawhi Leonard,SUBSTITUTION,Anunoby OG,7:10,2,Raptors,Magic,40 - 34,0,N/A,N/A,N/A
+61,Fred VanVleet,FG_MISS,None,6:59,2,Raptors,Magic,40 - 34,0,22,2,Jumper
+62,Jonathan Isaac,DEFENSIVE_REBOUND,None,6:56,2,Magic,Raptors,40 - 34,1,N/A,N/A,N/A
+63,Jonathon Simmons,FG_MISS,None,6:51,2,Magic,Raptors,40 - 34,1,19,2,Jumper
+64,Nikola Vucevic,OFFENSIVE_REBOUND,None,6:44,2,Magic,Raptors,40 - 34,1,N/A,N/A,N/A
+65,Nikola Vucevic,FG_UNASSISTED,None,6:44,2,Magic,Raptors,40 - 36,1, ,2,Jumper
+66,Fred VanVleet,FG_MISS,None,6:39,2,Raptors,Magic,40 - 36,0, ,2,Jumper
+67,Nikola Vucevic,DEFENSIVE_REBOUND,None,6:36,2,Magic,Raptors,40 - 36,1,N/A,N/A,N/A
+68,Terrence Ross,TURNOVER,None,6:30,2,Magic,Raptors,40 - 36,1,N/A,N/A,N/A
+69,Terrence Ross,TURNOVER,None,6:30,2,Magic,Raptors,40 - 36,1,N/A,N/A,N/A
+70,Team,Unknown,None,6:30,2,Magic,Raptors,40 - 36,1,N/A,N/A,N/A
+71,Evan Fournier,SUBSTITUTION,Simmons Jonathon,6:30,2,Magic,Raptors,40 - 36,1,N/A,N/A,N/A
+72,D.J. Augustin,SUBSTITUTION,Ross Terrence,6:30,2,Magic,Raptors,40 - 36,1,N/A,N/A,N/A
+73,Lorenzo Brown,SUBSTITUTION,VanVleet Fred,6:30,2,Raptors,Magic,40 - 36,0,N/A,N/A,N/A
+74,Serge Ibaka,FG_ASSISTED,Kawhi Leonard,6:10,2,Raptors,Magic,42 - 36,0,21,2,Jumper
+75,Danny Green,FOUL_ON_FLOOR,None,5:51,2,Raptors,Magic,42 - 36,0,N/A,N/A,N/A
+76,Aaron Gordon,FT,None,5:51,2,Magic,Raptors,42 - 37,1,N/A,1,N/A
+77,Pascal Siakam,SUBSTITUTION,Green Danny,5:51,2,Raptors,Magic,42 - 37,0,N/A,N/A,N/A
+78,Aaron Gordon,FT,None,5:51,2,Magic,Raptors,42 - 38,1,N/A,1,N/A
+79,Kawhi Leonard,FG_MISS,None,5:37,2,Raptors,Magic,42 - 38,0,17,2,Jumper
+80,Nikola Vucevic,DEFENSIVE_REBOUND,None,5:34,2,Magic,Raptors,42 - 38,1,N/A,N/A,N/A
+81,Aaron Gordon,FG_UNASSISTED,None,5:22,2,Magic,Raptors,42 - 40,1,0,2,Layup
+82,Serge Ibaka,TURNOVER,None,5:11,2,Raptors,Magic,42 - 40,0,N/A,N/A,N/A
+83,Nikola Vucevic,FG_ASSISTED,Jonathan Isaac,5:01,2,Magic,Raptors,42 - 42,1,0,2,Layup
+84,Nikola Vucevic,FOUL_ON_FLOOR,None,4:50,2,Magic,Raptors,42 - 42,1,N/A,N/A,N/A
+85,Kawhi Leonard,FT,None,4:50,2,Raptors,Magic,43 - 42,0,N/A,1,N/A
+86,Kawhi Leonard,FT,None,4:50,2,Raptors,Magic,44 - 42,0,N/A,1,N/A
+87,Lorenzo Brown,FOUL_ON_FLOOR,None,4:39,2,Raptors,Magic,44 - 42,0,N/A,N/A,N/A
+88,D.J. Augustin,FT,None,4:39,2,Magic,Raptors,44 - 43,1,N/A,1,N/A
+89,Fred VanVleet,SUBSTITUTION,Brown Lorenzo,4:39,2,Raptors,Magic,44 - 43,0,N/A,N/A,N/A
+90,D.J. Augustin,FT,None,4:39,2,Magic,Raptors,44 - 44,1,N/A,1,N/A
+91,Kawhi Leonard,FG_MISS,None,4:19,2,Raptors,Magic,44 - 44,0,14,2,Jumper
+92,Evan Fournier,DEFENSIVE_REBOUND,None,4:15,2,Magic,Raptors,44 - 44,1,N/A,N/A,N/A
+93,Jonathan Isaac,FG_ASSISTED,Nikola Vucevic,3:53,2,Magic,Raptors,44 - 47,1,23,3,Jumper
+94,Team,Unknown,None,3:51,2,Raptors,Magic,44 - 47,0,N/A,N/A,N/A
+95,Delon Wright,SUBSTITUTION,Miles CJ,3:51,2,Raptors,Magic,44 - 47,0,N/A,N/A,N/A
+96,Pascal Siakam,TURNOVER,None,3:44,2,Raptors,Magic,44 - 47,0,N/A,N/A,N/A
+97,Serge Ibaka,FOUL_ON_FLOOR,None,3:23,2,Raptors,Magic,44 - 47,0,N/A,N/A,N/A
+98,Nikola Vucevic,FT_MISS,None,3:23,2,Magic,Raptors,44 - 47,1,N/A,1,N/A
+99,Team,OFFENSIVE_REBOUND,None,3:23,2,Magic,Raptors,44 - 47,1,N/A,N/A,N/A
+100,Nikola Vucevic,FT,None,3:23,2,Magic,Raptors,44 - 48,1,N/A,1,N/A
+101,Nikola Vucevic,FT,None,3:23,2,Magic,Raptors,44 - 49,1,N/A,1,N/A
+102,Kawhi Leonard,FG_MISS,None,3:12,2,Raptors,Magic,44 - 49,0,17,2,Jumper
+103,Jonathan Isaac,DEFENSIVE_REBOUND,None,3:08,2,Magic,Raptors,44 - 49,1,N/A,N/A,N/A
+104,Jonathan Isaac,FG_MISS,None,3:04,2,Magic,Raptors,44 - 49,1, ,2,Jumper
+105,Kawhi Leonard,DEFENSIVE_REBOUND,None,3:01,2,Raptors,Magic,44 - 49,0,N/A,N/A,N/A
+106,Kawhi Leonard,FG_UNASSISTED,None,2:59,2,Raptors,Magic,46 - 49,0, ,2,Jumper
+107,Nikola Vucevic,FG_ASSISTED,D.J. Augustin,2:40,2,Magic,Raptors,46 - 51,1,3,2,Jumper
+108,Fred VanVleet,FG_MISS,None,2:19,2,Raptors,Magic,46 - 51,0,26,3,Jumper
+109,Nikola Vucevic,DEFENSIVE_REBOUND,None,2:16,2,Magic,Raptors,46 - 51,1,N/A,N/A,N/A
+110,D.J. Augustin,FG_UNASSISTED,None,2:07,2,Magic,Raptors,46 - 53,1, ,2,Jumper
+111,Serge Ibaka,FG_MISS,None,1:53,2,Raptors,Magic,46 - 53,0,0,2,Layup
+112,Nikola Vucevic,DEFENSIVE_REBOUND,None,1:51,2,Magic,Raptors,46 - 53,1,N/A,N/A,N/A
+113,Nikola Vucevic,FG_ASSISTED,D.J. Augustin,1:46,2,Magic,Raptors,46 - 55,1,0,2,Dunk
+114,Fred VanVleet,FG_MISS,None,1:30,2,Raptors,Magic,46 - 55,0,20,2,Jumper
+115,Serge Ibaka,OFFENSIVE_REBOUND,None,1:26,2,Raptors,Magic,46 - 55,0,N/A,N/A,N/A
+116,Serge Ibaka,FG_MISS,Jonathan Isaac,1:25,2,Magic,Raptors,46 - 55,0,0,2,Layup
+117,Jonathan Isaac,DEFENSIVE_REBOUND,None,1:25,2,Magic,Raptors,46 - 55,1,N/A,N/A,N/A
+118,Jonathan Isaac,TURNOVER,None,1:11,2,Magic,Raptors,46 - 55,1,N/A,N/A,N/A
+119,Jonathon Simmons,SUBSTITUTION,Gordon Aaron,1:11,2,Magic,Raptors,46 - 55,1,N/A,N/A,N/A
+120,D.J. Augustin,FOUL_ON_FLOOR,None,55.9,2,Magic,Raptors,46 - 55,1,N/A,N/A,N/A
+121,Fred VanVleet,FT,None,55.9,2,Raptors,Magic,47 - 55,0,N/A,1,N/A
+122,Fred VanVleet,FT,None,55.9,2,Raptors,Magic,48 - 55,0,N/A,1,N/A
+123,Serge Ibaka,FOUL_ON_FLOOR,None,44.3,2,Raptors,Magic,48 - 55,0,N/A,N/A,N/A
+124,Nikola Vucevic,FT,None,44.3,2,Magic,Raptors,48 - 56,1,N/A,1,N/A
+125,Terrence Ross,SUBSTITUTION,Augustin D.J.,44.3,2,Magic,Raptors,48 - 56,1,N/A,N/A,N/A
+126,Nikola Vucevic,FT,None,44.3,2,Magic,Raptors,48 - 57,1,N/A,1,N/A
+127,Fred VanVleet,FG_MISS,None,36.4,2,Raptors,Magic,48 - 57,0,26,3,Jumper
+128,Pascal Siakam,OFFENSIVE_REBOUND,None,32.6,2,Raptors,Magic,48 - 57,0,N/A,N/A,N/A
+129,Kawhi Leonard,FG_MISS,None,31.1,2,Raptors,Magic,48 - 57,0,16,2,Jumper
+130,Nikola Vucevic,DEFENSIVE_REBOUND,None,29.1,2,Magic,Raptors,48 - 57,1,N/A,N/A,N/A
+131,Evan Fournier,FG_MISS,None,7.5,2,Magic,Raptors,48 - 57,1,26,3,Jumper
+132,Jonathon Simmons,OFFENSIVE_REBOUND,None,4.3,2,Magic,Raptors,48 - 57,1,N/A,N/A,N/A
+133,Jonathon Simmons,TURNOVER,None,4.3,2,Magic,Raptors,48 - 57,1,N/A,N/A,N/A
+134,CJ Miles,SUBSTITUTION,Wright Delon,4.3,2,Raptors,Magic,48 - 57,0,N/A,N/A,N/A
+135,End of,Unknown,None,0.0,2,Magic,Raptors,48 - 57,1,N/A,N/A,N/A
+0,Aaron Gordon,SUBSTITUTION,Simmons Jonathon,12:00,3,Magic,Raptors,48 - 57,1,N/A,N/A,N/A
+1,D.J. Augustin,SUBSTITUTION,Ross Terrence,12:00,3,Magic,Raptors,48 - 57,1,N/A,N/A,N/A
+2,Danny Green,SUBSTITUTION,Miles CJ,12:00,3,Raptors,Magic,48 - 57,0,N/A,N/A,N/A
+3,D.J. Augustin,FG_MISS,None,11:42,3,Magic,Raptors,48 - 57,1,26,3,Jumper
+4,Pascal Siakam,DEFENSIVE_REBOUND,None,11:38,3,Raptors,Magic,48 - 57,0,N/A,N/A,N/A
+5,Jonathan Isaac,FOUL_ON_FLOOR,None,11:33,3,Magic,Raptors,48 - 57,1,N/A,N/A,N/A
+6,Pascal Siakam,FT_MISS,None,11:33,3,Raptors,Magic,48 - 57,0,N/A,1,N/A
+7,Team,OFFENSIVE_REBOUND,None,11:33,3,Raptors,Magic,48 - 57,0,N/A,N/A,N/A
+8,Pascal Siakam,FT,None,11:33,3,Raptors,Magic,49 - 57,0,N/A,1,N/A
+9,Evan Fournier,FG_UNASSISTED,None,11:15,3,Magic,Raptors,49 - 59,1,17,2,Jumper
+10,Fred VanVleet,FG_MISS,None,10:51,3,Raptors,Magic,49 - 59,0,11,2,Jumper
+11,Jonathan Isaac,DEFENSIVE_REBOUND,None,10:48,3,Magic,Raptors,49 - 59,1,N/A,N/A,N/A
+12,Jonathan Isaac,FG_MISS,None,10:38,3,Magic,Raptors,49 - 59,1,26,3,Jumper
+13,Kawhi Leonard,DEFENSIVE_REBOUND,None,10:35,3,Raptors,Magic,49 - 59,0,N/A,N/A,N/A
+14,Serge Ibaka,TURNOVER,None,10:24,3,Raptors,Magic,49 - 59,0,N/A,N/A,N/A
+15,Evan Fournier,FG_ASSISTED,Aaron Gordon,10:06,3,Magic,Raptors,49 - 62,1,25,3,Jumper
+16,Serge Ibaka,FG_MISS,None,9:53,3,Raptors,Magic,49 - 62,0,26,3,Jumper
+17,Aaron Gordon,DEFENSIVE_REBOUND,None,9:50,3,Magic,Raptors,49 - 62,1,N/A,N/A,N/A
+18,Jonathan Isaac,FG_MISS,None,9:44,3,Magic,Raptors,49 - 62,1,18,2,Jumper
+19,Fred VanVleet,DEFENSIVE_REBOUND,None,9:41,3,Raptors,Magic,49 - 62,0,N/A,N/A,N/A
+20,Pascal Siakam,FG_MISS,None,9:37,3,Raptors,Magic,49 - 62,0, ,2,Jumper
+21,Serge Ibaka,OFFENSIVE_REBOUND,None,9:35,3,Raptors,Magic,49 - 62,0,N/A,N/A,N/A
+22,Serge Ibaka,FG_UNASSISTED,None,9:34,3,Raptors,Magic,51 - 62,0,5,2,Jumper
+23,Aaron Gordon,TURNOVER,None,9:12,3,Magic,Raptors,51 - 62,1,N/A,N/A,N/A
+24,Aaron Gordon,FOUL_TECHNICAL,None,9:09,3,Magic,Raptors,51 - 62,1,N/A,N/A,N/A
+25,Kawhi Leonard,FT,None,9:09,3,Raptors,Magic,52 - 62,0,N/A,1,N/A
+26,Danny Green,FG_MISS,None,9:01,3,Raptors,Magic,52 - 62,0, ,2,Jumper
+27,Danny Green,OFFENSIVE_REBOUND,None,8:57,3,Raptors,Magic,52 - 62,0,N/A,N/A,N/A
+28,Danny Green,FG_MISS,None,8:57,3,Raptors,Magic,52 - 62,0, ,2,Jumper
+29,Jonathan Isaac,DEFENSIVE_REBOUND,None,8:56,3,Magic,Raptors,52 - 62,1,N/A,N/A,N/A
+30,D.J. Augustin,FG_ASSISTED,Nikola Vucevic,8:42,3,Magic,Raptors,52 - 65,1,26,3,Jumper
+31,Kawhi Leonard,FG_MISS,None,8:23,3,Raptors,Magic,52 - 65,0,21,2,Jumper
+32,Nikola Vucevic,DEFENSIVE_REBOUND,None,8:20,3,Magic,Raptors,52 - 65,1,N/A,N/A,N/A
+33,Fred VanVleet,FOUL_ON_FLOOR,None,8:15,3,Raptors,Magic,52 - 65,0,N/A,N/A,N/A
+34,D.J. Augustin,FT,None,8:15,3,Magic,Raptors,52 - 66,1,N/A,1,N/A
+35,D.J. Augustin,FT,None,8:15,3,Magic,Raptors,52 - 67,1,N/A,1,N/A
+36,D.J. Augustin,FT,None,8:15,3,Magic,Raptors,52 - 68,1,N/A,1,N/A
+37,Kawhi Leonard,FG_MISS,Nikola Vucevic,7:56,3,Magic,Raptors,52 - 68,0,0,2,Layup
+38,Serge Ibaka,OFFENSIVE_REBOUND,None,7:50,3,Raptors,Magic,52 - 68,0,N/A,N/A,N/A
+39,Serge Ibaka,FG_UNASSISTED,None,7:50,3,Raptors,Magic,54 - 68,0,0,2,Dunk
+40,Evan Fournier,FG_MISS,None,7:35,3,Magic,Raptors,54 - 68,1,0,2,Layup
+41,Aaron Gordon,OFFENSIVE_REBOUND,None,7:34,3,Magic,Raptors,54 - 68,1,N/A,N/A,N/A
+42,Aaron Gordon,FG_MISS,None,7:34,3,Magic,Raptors,54 - 68,1, ,2,Jumper
+43,Team,OFFENSIVE_REBOUND,None,7:34,3,Magic,Raptors,54 - 68,1,N/A,N/A,N/A
+44,Evan Fournier,TURNOVER,None,7:33,3,Magic,Raptors,54 - 68,1,N/A,N/A,N/A
+45,Pascal Siakam,FG_MISS,None,7:26,3,Raptors,Magic,54 - 68,0,0,2,Layup
+46,Nikola Vucevic,DEFENSIVE_REBOUND,None,7:23,3,Magic,Raptors,54 - 68,1,N/A,N/A,N/A
+47,Nikola Vucevic,FG_MISS,None,7:16,3,Magic,Raptors,54 - 68,1,21,2,Jumper
+48,Jonathan Isaac,OFFENSIVE_REBOUND,None,7:12,3,Magic,Raptors,54 - 68,1,N/A,N/A,N/A
+49,Jonathan Isaac,FG_MISS,Fred VanVleet,7:11,3,Raptors,Magic,54 - 68,1,0,2,Layup
+50,Team,DEFENSIVE_REBOUND,None,7:11,3,Raptors,Magic,54 - 68,0,N/A,N/A,N/A
+51,Fred VanVleet,FG_MISS,None,6:57,3,Raptors,Magic,54 - 68,0,26,3,Jumper
+52,Jonathan Isaac,DEFENSIVE_REBOUND,None,6:54,3,Magic,Raptors,54 - 68,1,N/A,N/A,N/A
+53,Jonathan Isaac,FG_ASSISTED,D.J. Augustin,6:44,3,Magic,Raptors,54 - 71,1,27,3,Jumper
+54,Team,Unknown,None,6:42,3,Raptors,Magic,54 - 71,0,N/A,N/A,N/A
+55,OG Anunoby,SUBSTITUTION,Ibaka Serge,6:42,3,Raptors,Magic,54 - 71,0,N/A,N/A,N/A
+56,Fred VanVleet,FG_MISS,None,6:26,3,Raptors,Magic,54 - 71,0, ,2,Jumper
+57,Nikola Vucevic,DEFENSIVE_REBOUND,None,6:24,3,Magic,Raptors,54 - 71,1,N/A,N/A,N/A
+58,Jonathan Isaac,FG_MISS,None,6:17,3,Magic,Raptors,54 - 71,1,23,3,Jumper
+59,Team,OFFENSIVE_REBOUND,None,6:16,3,Magic,Raptors,54 - 71,1,N/A,N/A,N/A
+60,Pascal Siakam,FOUL_ON_FLOOR,None,6:16,3,Raptors,Magic,54 - 71,0,N/A,N/A,N/A
+61,Pascal Siakam,FOUL_ON_FLOOR,None,6:08,3,Raptors,Magic,54 - 71,0,N/A,N/A,N/A
+62,D.J. Augustin,FG_ASSISTED,Nikola Vucevic,6:04,3,Magic,Raptors,54 - 74,1,26,3,Jumper
+63,Kawhi Leonard,FG_UNASSISTED,None,5:45,3,Raptors,Magic,56 - 74,0,0,2,Dunk
+64,D.J. Augustin,FG_UNASSISTED,None,5:34,3,Magic,Raptors,56 - 76,1,0,2,Layup
+65,Pascal Siakam,FOUL_ON_FLOOR,None,5:21,3,Raptors,Magic,56 - 76,0,N/A,N/A,N/A
+66,Pascal Siakam,TURNOVER,None,5:21,3,Raptors,Magic,56 - 76,0,N/A,N/A,N/A
+67,Wesley Iwundu,SUBSTITUTION,Isaac Jonathan,5:21,3,Magic,Raptors,56 - 76,1,N/A,N/A,N/A
+68,Delon Wright,SUBSTITUTION,VanVleet Fred,5:21,3,Raptors,Magic,56 - 76,0,N/A,N/A,N/A
+69,Nikola Vucevic,FG_MISS,Danny Green,5:10,3,Raptors,Magic,56 - 76,1,0,2,Dunk
+70,Team,OFFENSIVE_REBOUND,None,5:10,3,Magic,Raptors,56 - 76,1,N/A,N/A,N/A
+71,Nikola Vucevic,FG_UNASSISTED,None,5:02,3,Magic,Raptors,56 - 78,1,11,2,Jumper
+72,Danny Green,FG_MISS,Evan Fournier,4:46,3,Magic,Raptors,56 - 78,0,0,2,Layup
+73,Danny Green,OFFENSIVE_REBOUND,None,4:43,3,Raptors,Magic,56 - 78,0,N/A,N/A,N/A
+74,Danny Green,FOUL_ON_FLOOR,None,4:40,3,Raptors,Magic,56 - 78,0,N/A,N/A,N/A
+75,Danny Green,TURNOVER,None,4:40,3,Raptors,Magic,56 - 78,0,N/A,N/A,N/A
+76,Greg Monroe,SUBSTITUTION,Siakam Pascal,4:40,3,Raptors,Magic,56 - 78,0,N/A,N/A,N/A
+77,Evan Fournier,FG_ASSISTED,Nikola Vucevic,4:22,3,Magic,Raptors,56 - 80,1, ,2,Jumper
+78,Danny Green,FG_MISS,None,4:02,3,Raptors,Magic,56 - 80,0,14,2,Jumper
+79,Nikola Vucevic,DEFENSIVE_REBOUND,None,4:00,3,Magic,Raptors,56 - 80,1,N/A,N/A,N/A
+80,Wesley Iwundu,FG_ASSISTED,Nikola Vucevic,3:50,3,Magic,Raptors,56 - 82,1,14,2,Jumper
+81,Team,Unknown,None,3:47,3,Raptors,Magic,56 - 82,0,N/A,N/A,N/A
+82,Jonathon Simmons,SUBSTITUTION,Augustin D.J.,3:47,3,Magic,Raptors,56 - 82,1,N/A,N/A,N/A
+83,CJ Miles,SUBSTITUTION,Green Danny,3:47,3,Raptors,Magic,56 - 82,0,N/A,N/A,N/A
+84,Kawhi Leonard,FG_MISS,None,3:35,3,Raptors,Magic,56 - 82,0,27,3,Jumper
+85,Greg Monroe,OFFENSIVE_REBOUND,None,3:32,3,Raptors,Magic,56 - 82,0,N/A,N/A,N/A
+86,Greg Monroe,FG_MISS,None,3:30,3,Raptors,Magic,56 - 82,0,8,2,Jumper
+87,Team,OFFENSIVE_REBOUND,None,3:30,3,Raptors,Magic,56 - 82,0,N/A,N/A,N/A
+88,Delon Wright,FG_MISS,None,3:30,3,Raptors,Magic,56 - 82,0,25,3,Jumper
+89,Nikola Vucevic,DEFENSIVE_REBOUND,None,3:15,3,Magic,Raptors,56 - 82,1,N/A,N/A,N/A
+90,Nikola Vucevic,FG_ASSISTED,Jonathon Simmons,3:06,3,Magic,Raptors,56 - 84,1,0,2,Layup
+91,Greg Monroe,FOUL_ON_FLOOR,None,3:06,3,Raptors,Magic,56 - 84,0,N/A,N/A,N/A
+92,Terrence Ross,SUBSTITUTION,Fournier Evan,3:06,3,Magic,Raptors,56 - 84,1,N/A,N/A,N/A
+93,Nikola Vucevic,FT,None,3:06,3,Magic,Raptors,56 - 85,1,N/A,1,N/A
+94,Aaron Gordon,FOUL_ON_FLOOR,None,3:00,3,Magic,Raptors,56 - 85,1,N/A,N/A,N/A
+95,Kawhi Leonard,FG_MISS,None,2:54,3,Raptors,Magic,56 - 85,0,26,3,Jumper
+96,Aaron Gordon,DEFENSIVE_REBOUND,None,2:50,3,Magic,Raptors,56 - 85,1,N/A,N/A,N/A
+97,Wesley Iwundu,FG_MISS,None,2:40,3,Magic,Raptors,56 - 85,1,0,2,Layup
+98,Team,OFFENSIVE_REBOUND,None,2:40,3,Magic,Raptors,56 - 85,1,N/A,N/A,N/A
+99,Wesley Iwundu,TURNOVER,None,2:40,3,Magic,Raptors,56 - 85,1,N/A,N/A,N/A
+100,Kawhi Leonard,FG_ASSISTED,Delon Wright,2:31,3,Raptors,Magic,58 - 85,0,0,2,Dunk
+101,Nikola Vucevic,FG_MISS,None,2:17,3,Magic,Raptors,58 - 85,1,7,2,Jumper
+102,Nikola Vucevic,OFFENSIVE_REBOUND,None,2:12,3,Magic,Raptors,58 - 85,1,N/A,N/A,N/A
+103,Nikola Vucevic,FG_UNASSISTED,None,2:12,3,Magic,Raptors,58 - 87,1, ,2,Jumper
+104,Terrence Ross,FOUL_ON_FLOOR,None,2:06,3,Magic,Raptors,58 - 87,1,N/A,N/A,N/A
+105,Wesley Iwundu,FOUL_ON_FLOOR,None,2:00,3,Magic,Raptors,58 - 87,1,N/A,N/A,N/A
+106,Serge Ibaka,SUBSTITUTION,Monroe Greg,2:00,3,Raptors,Magic,58 - 87,0,N/A,N/A,N/A
+107,Kawhi Leonard,FG_MISS,None,1:53,3,Raptors,Magic,58 - 87,0,14,2,Jumper
+108,Jonathon Simmons,DEFENSIVE_REBOUND,None,1:50,3,Magic,Raptors,58 - 87,1,N/A,N/A,N/A
+109,Jonathon Simmons,TURNOVER,None,1:46,3,Magic,Raptors,58 - 87,1,N/A,N/A,N/A
+110,Serge Ibaka,FG_MISS,None,1:25,3,Raptors,Magic,58 - 87,0,14,2,Jumper
+111,Kawhi Leonard,OFFENSIVE_REBOUND,None,1:21,3,Raptors,Magic,58 - 87,0,N/A,N/A,N/A
+112,CJ Miles,TURNOVER,Nikola Vucevic,1:15,3,Raptors,Magic,58 - 87,0,N/A,N/A,N/A
+113,Wesley Iwundu,FG_MISS,Serge Ibaka,1:11,3,Raptors,Magic,58 - 87,1,4,2,Jumper
+114,OG Anunoby,DEFENSIVE_REBOUND,None,1:07,3,Raptors,Magic,58 - 87,0,N/A,N/A,N/A
+115,CJ Miles,FG_MISS,None,1:04,3,Raptors,Magic,58 - 87,0,25,3,Jumper
+116,Kawhi Leonard,OFFENSIVE_REBOUND,None,1:03,3,Raptors,Magic,58 - 87,0,N/A,N/A,N/A
+117,Jonathon Simmons,FOUL_ON_FLOOR,None,1:03,3,Magic,Raptors,58 - 87,1,N/A,N/A,N/A
+118,Kawhi Leonard,FT,None,1:03,3,Raptors,Magic,59 - 87,0,N/A,1,N/A
+119,Kawhi Leonard,FT,None,1:03,3,Raptors,Magic,60 - 87,0,N/A,1,N/A
+120,Jonathon Simmons,FG_MISS,None,52.3,3,Magic,Raptors,60 - 87,1,25,3,Jumper
+121,Nikola Vucevic,OFFENSIVE_REBOUND,None,50.4,3,Magic,Raptors,60 - 87,1,N/A,N/A,N/A
+122,Nikola Vucevic,FG_UNASSISTED,None,50.2,3,Magic,Raptors,60 - 89,1,0,2,Dunk
+123,Kawhi Leonard,FG_MISS,None,43.9,3,Raptors,Magic,60 - 89,0,11,2,Jumper
+124,Terrence Ross,DEFENSIVE_REBOUND,None,40.6,3,Magic,Raptors,60 - 89,1,N/A,N/A,N/A
+125,Terrence Ross,FG_ASSISTED,Jonathon Simmons,31.2,3,Magic,Raptors,60 - 91,1,17,2,Jumper
+126,Delon Wright,FG_UNASSISTED,None,26.3,3,Raptors,Magic,63 - 91,0,25,2,Jumper
+127,Terrence Ross,FG_MISS,None,3.7,3,Magic,Raptors,63 - 91,1,26,3,Jumper
+128,Team,OFFENSIVE_REBOUND,None,2.3,3,Magic,Raptors,63 - 91,1,N/A,N/A,N/A
+129,Delon Wright,FOUL_ON_FLOOR,None,2.3,3,Raptors,Magic,63 - 91,0,N/A,N/A,N/A
+130,Nikola Vucevic,FT,None,2.3,3,Magic,Raptors,63 - 92,1,N/A,1,N/A
+131,Pascal Siakam,SUBSTITUTION,Leonard Kawhi,2.3,3,Raptors,Magic,63 - 92,0,N/A,N/A,N/A
+132,Nikola Vucevic,FT_MISS,None,2.3,3,Magic,Raptors,63 - 92,1,N/A,1,N/A
+133,Pascal Siakam,DEFENSIVE_REBOUND,None,0.7,3,Raptors,Magic,63 - 92,0,N/A,N/A,N/A
+134,Pascal Siakam,FG_MISS,None,0.0,3,Raptors,Magic,63 - 92,0,61,3,Jumper
+135,Team,OFFENSIVE_REBOUND,None,0.0,3,Raptors,Magic,63 - 92,0,N/A,N/A,N/A
+136,End of,Unknown,None,0.0,3,Magic,Raptors,63 - 92,1,N/A,N/A,N/A
+0,Mo Bamba,SUBSTITUTION,Vucevic Nikola,12:00,4,Magic,Raptors,63 - 92,1,N/A,N/A,N/A
+1,Evan Fournier,SUBSTITUTION,Iwundu Wesley,12:00,4,Magic,Raptors,63 - 92,1,N/A,N/A,N/A
+2,CJ Miles,FG_MISS,None,11:46,4,Raptors,Magic,63 - 92,0,26,3,Jumper
+3,Aaron Gordon,DEFENSIVE_REBOUND,None,11:42,4,Magic,Raptors,63 - 92,1,N/A,N/A,N/A
+4,Evan Fournier,FG_MISS,None,11:28,4,Magic,Raptors,63 - 92,1,26,3,Jumper
+5,CJ Miles,DEFENSIVE_REBOUND,None,11:25,4,Raptors,Magic,63 - 92,0,N/A,N/A,N/A
+6,CJ Miles,FG_MISS,Mo Bamba,11:19,4,Magic,Raptors,63 - 92,0,0,2,Layup
+7,Team,OFFENSIVE_REBOUND,None,11:19,4,Raptors,Magic,63 - 92,0,N/A,N/A,N/A
+8,CJ Miles,FG_MISS,None,11:17,4,Raptors,Magic,63 - 92,0,24,3,Jumper
+9,Aaron Gordon,DEFENSIVE_REBOUND,None,11:14,4,Magic,Raptors,63 - 92,1,N/A,N/A,N/A
+10,Jonathon Simmons,FG_MISS,CJ Miles,10:57,4,Raptors,Magic,63 - 92,1,19,2,Jumper
+11,Delon Wright,DEFENSIVE_REBOUND,None,10:53,4,Raptors,Magic,63 - 92,0,N/A,N/A,N/A
+12,Serge Ibaka,FG_MISS,None,10:50,4,Raptors,Magic,63 - 92,0,25,3,Jumper
+13,Evan Fournier,DEFENSIVE_REBOUND,None,10:45,4,Magic,Raptors,63 - 92,1,N/A,N/A,N/A
+14,Jonathon Simmons,FG_MISS,None,10:36,4,Magic,Raptors,63 - 92,1,24,3,Jumper
+15,CJ Miles,DEFENSIVE_REBOUND,None,10:32,4,Raptors,Magic,63 - 92,0,N/A,N/A,N/A
+16,OG Anunoby,FG_ASSISTED,Delon Wright,10:19,4,Raptors,Magic,66 - 92,0,23,3,Jumper
+17,Jonathon Simmons,FG_MISS,None,9:54,4,Magic,Raptors,66 - 92,1,26,3,Jumper
+18,Team,DEFENSIVE_REBOUND,None,9:52,4,Raptors,Magic,66 - 92,0,N/A,N/A,N/A
+19,Pascal Siakam,FG_MISS,None,9:28,4,Raptors,Magic,66 - 92,0,10,2,Jumper
+20,Aaron Gordon,DEFENSIVE_REBOUND,None,9:25,4,Magic,Raptors,66 - 92,1,N/A,N/A,N/A
+21,Aaron Gordon,FG_UNASSISTED,None,9:18,4,Magic,Raptors,66 - 94,1,15,2,Jumper
+22,Aaron Gordon,FOUL_ON_FLOOR,None,9:10,4,Magic,Raptors,66 - 94,1,N/A,N/A,N/A
+23,Chris Boucher,SUBSTITUTION,Siakam Pascal,9:10,4,Raptors,Magic,66 - 94,0,N/A,N/A,N/A
+24,Serge Ibaka,FG_ASSISTED,Delon Wright,9:04,4,Raptors,Magic,68 - 94,0,16,2,Jumper
+25,Mo Bamba,FG_MISS,Serge Ibaka,8:43,4,Raptors,Magic,68 - 94,1,13,2,Jumper
+26,Team,OFFENSIVE_REBOUND,None,8:43,4,Magic,Raptors,68 - 94,1,N/A,N/A,N/A
+27,Jonathon Simmons,FG_MISS,None,8:39,4,Magic,Raptors,68 - 94,1,0,2,Layup
+28,Mo Bamba,OFFENSIVE_REBOUND,None,8:37,4,Magic,Raptors,68 - 94,1,N/A,N/A,N/A
+29,Mo Bamba,FG_UNASSISTED,None,8:36,4,Magic,Raptors,68 - 96,1, ,2,Jumper
+30,Chris Boucher,FG_ASSISTED,OG Anunoby,8:13,4,Raptors,Magic,71 - 96,0,23,3,Jumper
+31,Mo Bamba,TURNOVER,Chris Boucher,7:55,4,Magic,Raptors,71 - 96,1,N/A,N/A,N/A
+32,Serge Ibaka,FG_UNASSISTED,None,7:46,4,Raptors,Magic,73 - 96,0,5,2,Jumper
+33,Delon Wright,FOUL_ON_FLOOR,None,7:41,4,Raptors,Magic,73 - 96,0,N/A,N/A,N/A
+34,Jonathan Isaac,SUBSTITUTION,Gordon Aaron,7:41,4,Magic,Raptors,73 - 96,1,N/A,N/A,N/A
+35,Evan Fournier,FG_MISS,None,7:27,4,Magic,Raptors,73 - 96,1,26,3,Jumper
+36,Chris Boucher,DEFENSIVE_REBOUND,None,7:23,4,Raptors,Magic,73 - 96,0,N/A,N/A,N/A
+37,Mo Bamba,FOUL_ON_FLOOR,None,7:18,4,Magic,Raptors,73 - 96,1,N/A,N/A,N/A
+38,Terrence Ross,FOUL_ON_FLOOR,None,7:15,4,Magic,Raptors,73 - 96,1,N/A,N/A,N/A
+39,CJ Miles,FT,None,7:15,4,Raptors,Magic,74 - 96,0,N/A,1,N/A
+40,CJ Miles,FT,None,7:15,4,Raptors,Magic,75 - 96,0,N/A,1,N/A
+41,D.J. Augustin,SUBSTITUTION,Bamba Mo,7:15,4,Magic,Raptors,75 - 96,1,N/A,N/A,N/A
+42,Nikola Vucevic,SUBSTITUTION,Simmons Jonathon,7:15,4,Magic,Raptors,75 - 96,1,N/A,N/A,N/A
+43,CJ Miles,FT,None,7:15,4,Raptors,Magic,76 - 96,0,N/A,1,N/A
+44,Jonathan Isaac,FG_MISS,Chris Boucher,6:57,4,Raptors,Magic,76 - 96,1,0,2,Layup
+45,Terrence Ross,OFFENSIVE_REBOUND,None,6:53,4,Magic,Raptors,76 - 96,1,N/A,N/A,N/A
+46,Terrence Ross,FG_ASSISTED,D.J. Augustin,6:51,4,Magic,Raptors,76 - 99,1,25,3,Jumper
+47,Serge Ibaka,FG_ASSISTED,Delon Wright,6:40,4,Raptors,Magic,79 - 99,0,27,3,Jumper
+48,Terrence Ross,FG_ASSISTED,Nikola Vucevic,6:15,4,Magic,Raptors,79 - 101,1,19,2,Jumper
+49,Chris Boucher,FG_ASSISTED,Delon Wright,6:01,4,Raptors,Magic,82 - 101,0,26,3,Jumper
+50,OG Anunoby,FOUL_ON_FLOOR,None,5:52,4,Raptors,Magic,82 - 101,0,N/A,N/A,N/A
+51,Team,Unknown,None,5:52,4,Magic,Raptors,82 - 101,1,N/A,N/A,N/A
+52,Jonathan Isaac,FG_MISS,Serge Ibaka,5:45,4,Raptors,Magic,82 - 101,1,0,2,Layup
+53,Team,OFFENSIVE_REBOUND,None,5:45,4,Magic,Raptors,82 - 101,1,N/A,N/A,N/A
+54,Nikola Vucevic,FG_ASSISTED,Evan Fournier,5:38,4,Magic,Raptors,82 - 103,1,0,2,Layup
+55,Delon Wright,TURNOVER,None,5:24,4,Raptors,Magic,82 - 103,0,N/A,N/A,N/A
+56,Terrence Ross,FG_MISS,None,5:04,4,Magic,Raptors,82 - 103,1,24,3,Jumper
+57,Serge Ibaka,DEFENSIVE_REBOUND,None,5:00,4,Raptors,Magic,82 - 103,0,N/A,N/A,N/A
+58,OG Anunoby,FG_MISS,None,4:49,4,Raptors,Magic,82 - 103,0,1,2,Jumper
+59,Nikola Vucevic,DEFENSIVE_REBOUND,None,4:46,4,Magic,Raptors,82 - 103,1,N/A,N/A,N/A
+60,Terrence Ross,FG_ASSISTED,D.J. Augustin,4:41,4,Magic,Raptors,82 - 106,1,23,3,Jumper
+61,Serge Ibaka,FG_MISS,None,4:26,4,Raptors,Magic,82 - 106,0,16,2,Jumper
+62,Terrence Ross,DEFENSIVE_REBOUND,None,4:23,4,Magic,Raptors,82 - 106,1,N/A,N/A,N/A
+63,Chris Boucher,FOUL_ON_FLOOR,None,4:03,4,Raptors,Magic,82 - 106,0,N/A,N/A,N/A
+64,Jonathan Isaac,FT,None,4:03,4,Magic,Raptors,82 - 107,1,N/A,1,N/A
+65,Malachi Richardson,SUBSTITUTION,Anunoby OG,4:03,4,Raptors,Magic,82 - 107,0,N/A,N/A,N/A
+66,Lorenzo Brown,SUBSTITUTION,Ibaka Serge,4:03,4,Raptors,Magic,82 - 107,0,N/A,N/A,N/A
+67,Jonathan Isaac,FT,None,4:03,4,Magic,Raptors,82 - 108,1,N/A,1,N/A
+68,Chris Boucher,FG_MISS,None,3:55,4,Raptors,Magic,82 - 108,0,1,2,Jumper
+69,D.J. Augustin,DEFENSIVE_REBOUND,None,3:52,4,Magic,Raptors,82 - 108,1,N/A,N/A,N/A
+70,Jonathan Isaac,FG_MISS,None,3:40,4,Magic,Raptors,82 - 108,1,8,2,Jumper
+71,Delon Wright,DEFENSIVE_REBOUND,None,3:38,4,Raptors,Magic,82 - 108,0,N/A,N/A,N/A
+72,Lorenzo Brown,FG_MISS,None,3:30,4,Raptors,Magic,82 - 108,0,24,3,Jumper
+73,Nikola Vucevic,DEFENSIVE_REBOUND,None,3:24,4,Magic,Raptors,82 - 108,1,N/A,N/A,N/A
+74,Team,Unknown,None,3:22,4,Magic,Raptors,82 - 108,1,N/A,N/A,N/A
+75,Isaiah Briscoe,SUBSTITUTION,Isaac Jonathan,3:22,4,Magic,Raptors,82 - 108,1,N/A,N/A,N/A
+76,Khem Birch,SUBSTITUTION,Vucevic Nikola,3:22,4,Magic,Raptors,82 - 108,1,N/A,N/A,N/A
+77,Wesley Iwundu,SUBSTITUTION,Fournier Evan,3:22,4,Magic,Raptors,82 - 108,1,N/A,N/A,N/A
+78,Jarell Martin,SUBSTITUTION,Augustin D.J.,3:22,4,Magic,Raptors,82 - 108,1,N/A,N/A,N/A
+79,Jerian Grant,SUBSTITUTION,Ross Terrence,3:22,4,Magic,Raptors,82 - 108,1,N/A,N/A,N/A
+80,Jerian Grant,FG_ASSISTED,Khem Birch,3:13,4,Magic,Raptors,82 - 110,1,20,2,Jumper
+81,CJ Miles,FG_MISS,Jarell Martin,2:54,4,Magic,Raptors,82 - 110,0,0,2,Layup
+82,Team,OFFENSIVE_REBOUND,None,2:54,4,Raptors,Magic,82 - 110,0,N/A,N/A,N/A
+83,Lorenzo Brown,FG_MISS,None,2:45,4,Raptors,Magic,82 - 110,0,1,2,Jumper
+84,CJ Miles,OFFENSIVE_REBOUND,None,2:40,4,Raptors,Magic,82 - 110,0,N/A,N/A,N/A
+85,CJ Miles,FG_MISS,None,2:40,4,Raptors,Magic,82 - 110,0,1,2,Jumper
+86,Jarell Martin,DEFENSIVE_REBOUND,None,2:39,4,Magic,Raptors,82 - 110,1,N/A,N/A,N/A
+87,Khem Birch,FG_MISS,None,2:33,4,Magic,Raptors,82 - 110,1,0,2,Layup
+88,Lorenzo Brown,DEFENSIVE_REBOUND,None,2:30,4,Raptors,Magic,82 - 110,0,N/A,N/A,N/A
+89,Lorenzo Brown,FG_MISS,None,2:25,4,Raptors,Magic,82 - 110,0,0,2,Layup
+90,Delon Wright,OFFENSIVE_REBOUND,None,2:22,4,Raptors,Magic,82 - 110,0,N/A,N/A,N/A
+91,Delon Wright,FG_MISS,None,2:22,4,Raptors,Magic,82 - 110,0,1,2,Jumper
+92,Jarell Martin,DEFENSIVE_REBOUND,None,2:21,4,Magic,Raptors,82 - 110,1,N/A,N/A,N/A
+93,Jarell Martin,FG_MISS,Chris Boucher,2:15,4,Raptors,Magic,82 - 110,1,17,2,Jumper
+94,Wesley Iwundu,OFFENSIVE_REBOUND,None,2:15,4,Magic,Raptors,82 - 110,1,N/A,N/A,N/A
+95,Wesley Iwundu,FG_UNASSISTED,None,2:09,4,Magic,Raptors,82 - 112,1,1,2,Jumper
+96,Malachi Richardson,FG_MISS,None,1:52,4,Raptors,Magic,82 - 112,0,25,3,Jumper
+97,Malachi Richardson,OFFENSIVE_REBOUND,None,1:49,4,Raptors,Magic,82 - 112,0,N/A,N/A,N/A
+98,Jarell Martin,FOUL_ON_FLOOR,None,1:44,4,Magic,Raptors,82 - 112,1,N/A,N/A,N/A
+99,Malachi Richardson,FT,None,1:44,4,Raptors,Magic,83 - 112,0,N/A,1,N/A
+100,Malachi Richardson,FT,None,1:44,4,Raptors,Magic,84 - 112,0,N/A,1,N/A
+101,Jerian Grant,TURNOVER,Lorenzo Brown,1:32,4,Magic,Raptors,84 - 112,1,N/A,N/A,N/A
+102,Lorenzo Brown,FG_MISS,Khem Birch,1:28,4,Magic,Raptors,84 - 112,0,3,2,Jumper
+103,Team,OFFENSIVE_REBOUND,None,1:28,4,Raptors,Magic,84 - 112,0,N/A,N/A,N/A
+104,Chris Boucher,FG_ASSISTED,Delon Wright,1:25,4,Raptors,Magic,87 - 112,0,25,3,Jumper
+105,Khem Birch,FG_UNASSISTED,None,1:06,4,Magic,Raptors,87 - 114,1,0,2,Layup
+106,Delon Wright,FG_MISS,None,52.6,4,Raptors,Magic,87 - 114,0,25,3,Jumper
+107,Jarell Martin,DEFENSIVE_REBOUND,None,49.5,4,Magic,Raptors,87 - 114,1,N/A,N/A,N/A
+108,Jerian Grant,FG_MISS,None,40.3,4,Magic,Raptors,87 - 114,1,19,2,Jumper
+109,Khem Birch,OFFENSIVE_REBOUND,None,36.5,4,Magic,Raptors,87 - 114,1,N/A,N/A,N/A
+110,Jarell Martin,FG_ASSISTED,Khem Birch,34.7,4,Magic,Raptors,87 - 116,1,0,2,Dunk
+111,CJ Miles,FG_MISS,None,24.3,4,Raptors,Magic,87 - 116,0,26,3,Jumper
+112,Wesley Iwundu,DEFENSIVE_REBOUND,None,20.0,4,Magic,Raptors,87 - 116,1,N/A,N/A,N/A
+113,End of,Unknown,None,0.0,4,Magic,Raptors,87 - 116,1,N/A,N/A,N/A
+114,End of,Unknown,None,0.0,4,Magic,Raptors,87 - 116,1,N/A,N/A,N/A

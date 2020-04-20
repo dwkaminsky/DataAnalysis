@@ -1,0 +1,515 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Rudy Gobert,JUMP_BALL,None,12:00,1,Thunder,Jazz,0 - 0,1,N/A,N/A,N/A
+1,Steven Adams,FG_MISS,None,11:45,1,Thunder,Jazz,0 - 0,1,8,3,Jumper
+2,Russell Westbrook,OFFENSIVE_REBOUND,None,11:42,1,Thunder,Jazz,0 - 0,1,N/A,N/A,N/A
+3,Russell Westbrook,FG_UNASSISTED,None,11:41,1,Thunder,Jazz,0 - 2,1,-,3,Jumper
+4,Joe Ingles,FG_MISS,None,11:23,1,Jazz,Thunder,0 - 2,0,25,3,Jumper
+5,Russell Westbrook,DEFENSIVE_REBOUND,None,11:21,1,Thunder,Jazz,0 - 2,1,N/A,N/A,N/A
+6,Steven Adams,FG_ASSISTED,Russell Westbrook,11:13,1,Thunder,Jazz,0 - 4,1,0,2,Layup
+7,Donovan Mitchell,TURNOVER,Paul George,10:56,1,Jazz,Thunder,0 - 4,0,N/A,N/A,N/A
+8,Paul George,FG_UNASSISTED,None,10:53,1,Thunder,Jazz,0 - 6,1,-,3,Jumper
+9,Team,Unknown,None,10:52,1,Jazz,Thunder,0 - 6,0,N/A,N/A,N/A
+10,Donovan Mitchell,FG_MISS,None,10:31,1,Jazz,Thunder,0 - 6,0,-,3,Jumper
+11,Rudy Gobert,OFFENSIVE_REBOUND,None,10:28,1,Jazz,Thunder,0 - 6,0,N/A,N/A,N/A
+12,Rudy Gobert,FG_MISS,None,10:26,1,Jazz,Thunder,0 - 6,0,0,2,Layup
+13,Russell Westbrook,DEFENSIVE_REBOUND,None,10:25,1,Thunder,Jazz,0 - 6,1,N/A,N/A,N/A
+14,Russell Westbrook,TURNOVER,Ricky Rubio,10:12,1,Thunder,Jazz,0 - 6,1,N/A,N/A,N/A
+15,Ricky Rubio,FG_MISS,None,10:07,1,Jazz,Thunder,0 - 6,0,-,3,Jumper
+16,Derrick Favors,OFFENSIVE_REBOUND,None,10:05,1,Jazz,Thunder,0 - 6,0,N/A,N/A,N/A
+17,Derrick Favors,FG_UNASSISTED,None,10:04,1,Jazz,Thunder,2 - 6,0,-,3,Jumper
+18,Steven Adams,FG_MISS,None,9:54,1,Thunder,Jazz,2 - 6,1,10,3,Jumper
+19,Jerami Grant,OFFENSIVE_REBOUND,None,9:52,1,Thunder,Jazz,2 - 6,1,N/A,N/A,N/A
+20,Ricky Rubio,FOUL_ON_FLOOR,None,9:47,1,Jazz,Thunder,2 - 6,0,N/A,N/A,N/A
+21,Steven Adams,TURNOVER,Joe Ingles,9:33,1,Thunder,Jazz,2 - 6,1,N/A,N/A,N/A
+22,Rudy Gobert,FG_ASSISTED,Derrick Favors,9:27,1,Jazz,Thunder,4 - 6,0,0,2,Layup
+23,Steven Adams,FG_MISS,None,9:03,1,Thunder,Jazz,4 - 6,1,4,3,Jumper
+24,Steven Adams,OFFENSIVE_REBOUND,None,9:02,1,Thunder,Jazz,4 - 6,1,N/A,N/A,N/A
+25,Steven Adams,FG_MISS,None,9:02,1,Thunder,Jazz,4 - 6,1,-,3,Jumper
+26,Steven Adams,OFFENSIVE_REBOUND,None,9:02,1,Thunder,Jazz,4 - 6,1,N/A,N/A,N/A
+27,Rudy Gobert,FOUL_ON_FLOOR,None,9:02,1,Jazz,Thunder,4 - 6,0,N/A,N/A,N/A
+28,Russell Westbrook,FG_UNASSISTED,None,8:52,1,Thunder,Jazz,4 - 8,1,0,2,Layup
+29,Ricky Rubio,FG_UNASSISTED,None,8:41,1,Jazz,Thunder,6 - 8,0,0,2,Layup
+30,Russell Westbrook,FG_MISS,None,8:31,1,Thunder,Jazz,6 - 8,1,11,3,Jumper
+31,Donovan Mitchell,DEFENSIVE_REBOUND,None,8:29,1,Jazz,Thunder,6 - 8,0,N/A,N/A,N/A
+32,Ricky Rubio,FG_MISS,None,8:20,1,Jazz,Thunder,6 - 8,0,0,2,Layup
+33,Jerami Grant,DEFENSIVE_REBOUND,None,8:18,1,Thunder,Jazz,6 - 8,1,N/A,N/A,N/A
+34,Joe Ingles,FOUL_ON_FLOOR,None,8:14,1,Jazz,Thunder,6 - 8,0,N/A,N/A,N/A
+35,Paul George,FT,None,8:14,1,Thunder,Jazz,6 - 9,1,N/A,1,N/A
+36,Paul George,FT,None,8:14,1,Thunder,Jazz,6 - 10,1,N/A,1,N/A
+37,Paul George,FOUL_ON_FLOOR,None,7:56,1,Thunder,Jazz,6 - 10,1,N/A,N/A,N/A
+38,Jerami Grant,FOUL_ON_FLOOR,None,7:51,1,Thunder,Jazz,6 - 10,1,N/A,N/A,N/A
+39,Derrick Favors,FT_MISS,None,7:51,1,Jazz,Thunder,6 - 10,0,N/A,1,N/A
+40,Team,OFFENSIVE_REBOUND,None,7:51,1,Jazz,Thunder,6 - 10,0,N/A,N/A,N/A
+41,Derrick Favors,FT_MISS,None,7:51,1,Jazz,Thunder,6 - 10,0,N/A,1,N/A
+42,Russell Westbrook,DEFENSIVE_REBOUND,None,7:49,1,Thunder,Jazz,6 - 10,1,N/A,N/A,N/A
+43,Russell Westbrook,FG_MISS,None,7:33,1,Thunder,Jazz,6 - 10,1,16,3,Jumper
+44,Rudy Gobert,DEFENSIVE_REBOUND,None,7:31,1,Jazz,Thunder,6 - 10,0,N/A,N/A,N/A
+45,Donovan Mitchell,TURNOVER,Paul George,7:24,1,Jazz,Thunder,6 - 10,0,N/A,N/A,N/A
+46,Paul George,TURNOVER,Donovan Mitchell,7:19,1,Thunder,Jazz,6 - 10,1,N/A,N/A,N/A
+47,Donovan Mitchell,TURNOVER,None,7:12,1,Jazz,Thunder,6 - 10,0,N/A,N/A,N/A
+48,Jerami Grant,FG_MISS,None,6:53,1,Thunder,Jazz,6 - 10,1, ,3,Jumper
+49,Rudy Gobert,DEFENSIVE_REBOUND,None,6:51,1,Jazz,Thunder,6 - 10,0,N/A,N/A,N/A
+50,Terrance Ferguson,FOUL_ON_FLOOR,None,6:42,1,Thunder,Jazz,6 - 10,1,N/A,N/A,N/A
+51,Ricky Rubio,FG_MISS,None,6:35,1,Jazz,Thunder,6 - 10,0,12,3,Jumper
+52,Rudy Gobert,OFFENSIVE_REBOUND,None,6:33,1,Jazz,Thunder,6 - 10,0,N/A,N/A,N/A
+53,Rudy Gobert,FG_UNASSISTED,None,6:33,1,Jazz,Thunder,8 - 10,0, ,3,Jumper
+54,Jae Crowder,SUBSTITUTION,Ingles Joe,6:22,1,Jazz,Thunder,8 - 10,0,N/A,N/A,N/A
+55,Kyle Korver,SUBSTITUTION,Favors Derrick,6:22,1,Jazz,Thunder,8 - 10,0,N/A,N/A,N/A
+56,Russell Westbrook,FG_MISS,None,6:16,1,Thunder,Jazz,8 - 10,1,6,3,Jumper
+57,Team,OFFENSIVE_REBOUND,None,6:15,1,Thunder,Jazz,8 - 10,1,N/A,N/A,N/A
+58,Rudy Gobert,FOUL_ON_FLOOR,None,6:15,1,Jazz,Thunder,8 - 10,0,N/A,N/A,N/A
+59,Derrick Favors,SUBSTITUTION,Gobert Rudy,6:15,1,Jazz,Thunder,8 - 10,0,N/A,N/A,N/A
+60,Team,Unknown,None,6:15,1,Thunder,Jazz,8 - 10,1,N/A,N/A,N/A
+61,Russell Westbrook,FG_MISS,None,6:11,1,Thunder,Jazz,8 - 10,1,16,3,Jumper
+62,Jae Crowder,DEFENSIVE_REBOUND,None,6:08,1,Jazz,Thunder,8 - 10,0,N/A,N/A,N/A
+63,Ricky Rubio,FG_MISS,None,5:49,1,Jazz,Thunder,8 - 10,0,12,3,Jumper
+64,Russell Westbrook,DEFENSIVE_REBOUND,None,5:47,1,Thunder,Jazz,8 - 10,1,N/A,N/A,N/A
+65,Paul George,FG_ASSISTED,Russell Westbrook,5:30,1,Thunder,Jazz,8 - 12,1,16,3,Jumper
+66,Donovan Mitchell,FG_MISS,None,5:19,1,Jazz,Thunder,8 - 12,0,25,3,Jumper
+67,Jerami Grant,DEFENSIVE_REBOUND,None,5:19,1,Thunder,Jazz,8 - 12,1,N/A,N/A,N/A
+68,Terrance Ferguson,FG_ASSISTED,Russell Westbrook,5:12,1,Thunder,Jazz,8 - 15,1,23,3,Jumper
+69,Terrance Ferguson,FOUL_ON_FLOOR,None,5:01,1,Thunder,Jazz,8 - 15,1,N/A,N/A,N/A
+70,Dennis Schroder,SUBSTITUTION,Ferguson Terrance,5:01,1,Thunder,Jazz,8 - 15,1,N/A,N/A,N/A
+71,Ricky Rubio,TURNOVER,None,4:53,1,Jazz,Thunder,8 - 15,0,N/A,N/A,N/A
+72,Dennis Schroder,FG_MISS,None,4:45,1,Thunder,Jazz,8 - 15,1,25,3,Jumper
+73,Russell Westbrook,OFFENSIVE_REBOUND,None,4:41,1,Thunder,Jazz,8 - 15,1,N/A,N/A,N/A
+74,Jerami Grant,FG_ASSISTED,Dennis Schroder,4:39,1,Thunder,Jazz,8 - 18,1,26,3,Jumper
+75,Kyle Korver,FG_MISS,None,4:21,1,Jazz,Thunder,8 - 18,0,25,3,Jumper
+76,Team,DEFENSIVE_REBOUND,None,4:21,1,Thunder,Jazz,8 - 18,1,N/A,N/A,N/A
+77,Jerami Grant,TURNOVER,Derrick Favors,4:11,1,Thunder,Jazz,8 - 18,1,N/A,N/A,N/A
+78,Derrick Favors,FG_ASSISTED,Ricky Rubio,4:03,1,Jazz,Thunder,10 - 18,0,0,2,Dunk
+79,Ricky Rubio,FOUL_ON_FLOOR,None,3:49,1,Jazz,Thunder,10 - 18,0,N/A,N/A,N/A
+80,Steven Adams,FT,None,3:49,1,Thunder,Jazz,10 - 19,1,N/A,1,N/A
+81,Joe Ingles,SUBSTITUTION,Rubio Ricky,3:49,1,Jazz,Thunder,10 - 19,0,N/A,N/A,N/A
+82,Steven Adams,FT,None,3:49,1,Thunder,Jazz,10 - 20,1,N/A,1,N/A
+83,Donovan Mitchell,FG_MISS,Jerami Grant,3:31,1,Thunder,Jazz,10 - 20,0,0,2,Layup
+84,Russell Westbrook,DEFENSIVE_REBOUND,None,3:28,1,Thunder,Jazz,10 - 20,1,N/A,N/A,N/A
+85,Jae Crowder,FOUL_ON_FLOOR,None,3:20,1,Jazz,Thunder,10 - 20,0,N/A,N/A,N/A
+86,Steven Adams,FT_MISS,None,3:20,1,Thunder,Jazz,10 - 20,1,N/A,1,N/A
+87,Team,OFFENSIVE_REBOUND,None,3:20,1,Thunder,Jazz,10 - 20,1,N/A,N/A,N/A
+88,Raul Neto,SUBSTITUTION,Mitchell Donovan,3:20,1,Jazz,Thunder,10 - 20,0,N/A,N/A,N/A
+89,Steven Adams,FT,None,3:20,1,Thunder,Jazz,10 - 21,1,N/A,1,N/A
+90,Kyle Korver,FG_ASSISTED,Joe Ingles,3:06,1,Jazz,Thunder,13 - 21,0,23,3,Jumper
+91,Steven Adams,FG_ASSISTED,Dennis Schroder,2:51,1,Thunder,Jazz,13 - 23,1,11,3,Jumper
+92,Jae Crowder,TURNOVER,Paul George,2:39,1,Jazz,Thunder,13 - 23,0,N/A,N/A,N/A
+93,Paul George,FG_UNASSISTED,None,2:35,1,Thunder,Jazz,13 - 25,1, ,3,Jumper
+94,Derrick Favors,FG_ASSISTED,Joe Ingles,2:17,1,Jazz,Thunder,15 - 25,0,0,2,Layup
+95,Dennis Schroder,FG_UNASSISTED,None,2:03,1,Thunder,Jazz,15 - 27,1, ,3,Jumper
+96,Jae Crowder,FG_ASSISTED,Raul Neto,1:50,1,Jazz,Thunder,17 - 27,0,0,2,Layup
+97,Steven Adams,FG_ASSISTED,Dennis Schroder,1:42,1,Thunder,Jazz,17 - 29,1,0,2,Layup
+98,Jae Crowder,FG_MISS,None,1:23,1,Jazz,Thunder,17 - 29,0,21,3,Jumper
+99,Jerami Grant,DEFENSIVE_REBOUND,None,1:21,1,Thunder,Jazz,17 - 29,1,N/A,N/A,N/A
+100,Russell Westbrook,TURNOVER,None,1:19,1,Thunder,Jazz,17 - 29,1,N/A,N/A,N/A
+101,Alex Abrines,SUBSTITUTION,Westbrook Russell,1:19,1,Thunder,Jazz,17 - 29,1,N/A,N/A,N/A
+102,Nerlens Noel,SUBSTITUTION,Adams Steven,1:19,1,Thunder,Jazz,17 - 29,1,N/A,N/A,N/A
+103,Derrick Favors,FG_MISS,None,1:06,1,Jazz,Thunder,17 - 29,0,0,2,Layup
+104,Kyle Korver,OFFENSIVE_REBOUND,None,1:02,1,Jazz,Thunder,17 - 29,0,N/A,N/A,N/A
+105,Joe Ingles,FG_MISS,None,1:01,1,Jazz,Thunder,17 - 29,0,23,3,Jumper
+106,Joe Ingles,OFFENSIVE_REBOUND,None,58.7,1,Jazz,Thunder,17 - 29,0,N/A,N/A,N/A
+107,Joe Ingles,TURNOVER,Nerlens Noel,56.2,1,Jazz,Thunder,17 - 29,0,N/A,N/A,N/A
+108,Dennis Schroder,TURNOVER,Joe Ingles,51.5,1,Thunder,Jazz,17 - 29,1,N/A,N/A,N/A
+109,Jae Crowder,FG_ASSISTED,Joe Ingles,48.3,1,Jazz,Thunder,19 - 29,0, ,3,Jumper
+110,Jerami Grant,FG_MISS,None,33.7,1,Thunder,Jazz,19 - 29,1, ,3,Jumper
+111,Derrick Favors,DEFENSIVE_REBOUND,None,29.8,1,Jazz,Thunder,19 - 29,0,N/A,N/A,N/A
+112,Raul Neto,FG_MISS,None,16.3,1,Jazz,Thunder,19 - 29,0,24,3,Jumper
+113,Paul George,DEFENSIVE_REBOUND,None,13.0,1,Thunder,Jazz,19 - 29,1,N/A,N/A,N/A
+114,Jae Crowder,FOUL_ON_FLOOR,None,3.5,1,Jazz,Thunder,19 - 29,0,N/A,N/A,N/A
+115,Paul George,FT,None,3.5,1,Thunder,Jazz,19 - 30,1,N/A,1,N/A
+116,Patrick Patterson,SUBSTITUTION,Grant Jerami,3.5,1,Thunder,Jazz,19 - 30,1,N/A,N/A,N/A
+117,Donovan Mitchell,SUBSTITUTION,Neto Raul,3.5,1,Jazz,Thunder,19 - 30,0,N/A,N/A,N/A
+118,Paul George,FT_MISS,None,3.5,1,Thunder,Jazz,19 - 30,1,N/A,1,N/A
+119,Donovan Mitchell,DEFENSIVE_REBOUND,None,2.2,1,Jazz,Thunder,19 - 30,0,N/A,N/A,N/A
+120,Donovan Mitchell,FG_UNASSISTED,None,0.0,1,Jazz,Thunder,22 - 30,0, ,3,Jumper
+121,End of,Unknown,None,0.0,1,Thunder,Jazz,22 - 30,1,N/A,N/A,N/A
+0,Hamidou Diallo,SUBSTITUTION,George Paul,12:00,2,Thunder,Jazz,22 - 30,1,N/A,N/A,N/A
+1,Rudy Gobert,SUBSTITUTION,Favors Derrick,12:00,2,Jazz,Thunder,22 - 30,0,N/A,N/A,N/A
+2,Raul Neto,SUBSTITUTION,Mitchell Donovan,12:00,2,Jazz,Thunder,22 - 30,0,N/A,N/A,N/A
+3,Joe Ingles,FG_MISS,None,11:36,2,Jazz,Thunder,22 - 30,0,0,2,Layup
+4,Patrick Patterson,DEFENSIVE_REBOUND,None,11:34,2,Thunder,Jazz,22 - 30,1,N/A,N/A,N/A
+5,Nerlens Noel,FG_MISS,None,11:24,2,Thunder,Jazz,22 - 30,1,0,2,Dunk
+6,Raul Neto,DEFENSIVE_REBOUND,None,11:21,2,Jazz,Thunder,22 - 30,0,N/A,N/A,N/A
+7,Kyle Korver,FG_MISS,None,11:19,2,Jazz,Thunder,22 - 30,0,25,3,Jumper
+8,Patrick Patterson,DEFENSIVE_REBOUND,None,11:16,2,Thunder,Jazz,22 - 30,1,N/A,N/A,N/A
+9,Dennis Schroder,FG_UNASSISTED,None,11:03,2,Thunder,Jazz,22 - 32,1,14,3,Jumper
+10,Jae Crowder,FG_ASSISTED,Joe Ingles,10:49,2,Jazz,Thunder,24 - 32,0,0,2,Layup
+11,Patrick Patterson,FOUL_ON_FLOOR,None,10:49,2,Thunder,Jazz,24 - 32,1,N/A,N/A,N/A
+12,Jae Crowder,FT,None,10:49,2,Jazz,Thunder,25 - 32,0,N/A,1,N/A
+13,Nerlens Noel,FG_ASSISTED,Hamidou Diallo,10:37,2,Thunder,Jazz,25 - 34,1,6,3,Jumper
+14,Jae Crowder,FG_MISS,None,10:10,2,Jazz,Thunder,25 - 34,0,25,3,Jumper
+15,Alex Abrines,DEFENSIVE_REBOUND,None,10:06,2,Thunder,Jazz,25 - 34,1,N/A,N/A,N/A
+16,Dennis Schroder,FG_UNASSISTED,None,10:02,2,Thunder,Jazz,25 - 37,1,26,3,Jumper
+17,Team,Unknown,None,10:01,2,Jazz,Thunder,25 - 37,0,N/A,N/A,N/A
+18,Royce O'Neale,SUBSTITUTION,Ingles Joe,10:01,2,Jazz,Thunder,25 - 37,0,N/A,N/A,N/A
+19,Thabo Sefolosha,SUBSTITUTION,Crowder Jae,10:01,2,Jazz,Thunder,25 - 37,0,N/A,N/A,N/A
+20,Donovan Mitchell,SUBSTITUTION,Neto Raul,10:01,2,Jazz,Thunder,25 - 37,0,N/A,N/A,N/A
+21,Royce O'Neale,TURNOVER,Dennis Schroder,9:40,2,Jazz,Thunder,25 - 37,0,N/A,N/A,N/A
+22,Donovan Mitchell,FOUL_ON_FLOOR,None,9:39,2,Jazz,Thunder,25 - 37,0,N/A,N/A,N/A
+23,Raul Neto,SUBSTITUTION,Korver Kyle,9:39,2,Jazz,Thunder,25 - 37,0,N/A,N/A,N/A
+24,Dennis Schroder,FG_MISS,None,9:34,2,Thunder,Jazz,25 - 37,1,25,3,Jumper
+25,Rudy Gobert,DEFENSIVE_REBOUND,None,9:30,2,Jazz,Thunder,25 - 37,0,N/A,N/A,N/A
+26,Hamidou Diallo,FOUL_ON_FLOOR,None,9:26,2,Thunder,Jazz,25 - 37,1,N/A,N/A,N/A
+27,Raul Neto,TURNOVER,Nerlens Noel,9:24,2,Jazz,Thunder,25 - 37,0,N/A,N/A,N/A
+28,Hamidou Diallo,FG_ASSISTED,Patrick Patterson,9:20,2,Thunder,Jazz,25 - 39,1,0,2,Dunk
+29,Thabo Sefolosha,TURNOVER,None,9:04,2,Jazz,Thunder,25 - 39,0,N/A,N/A,N/A
+30,Nerlens Noel,FG_ASSISTED,Dennis Schroder,8:49,2,Thunder,Jazz,25 - 41,1,11,3,Jumper
+31,Rudy Gobert,FG_MISS,None,8:29,2,Jazz,Thunder,25 - 41,0,0,2,Layup
+32,Dennis Schroder,DEFENSIVE_REBOUND,None,8:28,2,Thunder,Jazz,25 - 41,1,N/A,N/A,N/A
+33,Nerlens Noel,FG_MISS,None,8:21,2,Thunder,Jazz,25 - 41,1, ,3,Jumper
+34,Patrick Patterson,OFFENSIVE_REBOUND,None,8:18,2,Thunder,Jazz,25 - 41,1,N/A,N/A,N/A
+35,Patrick Patterson,TURNOVER,Royce O'Neale,8:17,2,Thunder,Jazz,25 - 41,1,N/A,N/A,N/A
+36,Thabo Sefolosha,FOUL_ON_FLOOR,None,8:10,2,Jazz,Thunder,25 - 41,0,N/A,N/A,N/A
+37,Thabo Sefolosha,TURNOVER,None,8:10,2,Jazz,Thunder,25 - 41,0,N/A,N/A,N/A
+38,Russell Westbrook,SUBSTITUTION,Schroder Dennis,8:10,2,Thunder,Jazz,25 - 41,1,N/A,N/A,N/A
+39,Ricky Rubio,SUBSTITUTION,O'Neale Royce,8:10,2,Jazz,Thunder,25 - 41,0,N/A,N/A,N/A
+40,Kyle Korver,SUBSTITUTION,Neto Raul,8:10,2,Jazz,Thunder,25 - 41,0,N/A,N/A,N/A
+41,Russell Westbrook,FG_MISS,None,8:00,2,Thunder,Jazz,25 - 41,1,16,3,Jumper
+42,Ricky Rubio,DEFENSIVE_REBOUND,None,7:57,2,Jazz,Thunder,25 - 41,0,N/A,N/A,N/A
+43,Russell Westbrook,FOUL_ON_FLOOR,None,7:50,2,Thunder,Jazz,25 - 41,1,N/A,N/A,N/A
+44,Rudy Gobert,FT,None,7:50,2,Jazz,Thunder,26 - 41,0,N/A,1,N/A
+45,Rudy Gobert,FT_MISS,None,7:50,2,Jazz,Thunder,26 - 41,0,N/A,1,N/A
+46,Russell Westbrook,DEFENSIVE_REBOUND,None,7:48,2,Thunder,Jazz,26 - 41,1,N/A,N/A,N/A
+47,Alex Abrines,FOUL_ON_FLOOR,None,7:42,2,Thunder,Jazz,26 - 41,1,N/A,N/A,N/A
+48,Alex Abrines,TURNOVER,None,7:42,2,Thunder,Jazz,26 - 41,1,N/A,N/A,N/A
+49,Derrick Favors,SUBSTITUTION,Gobert Rudy,7:42,2,Jazz,Thunder,26 - 41,0,N/A,N/A,N/A
+50,Ricky Rubio,FG_MISS,None,7:33,2,Jazz,Thunder,26 - 41,0,0,2,Layup
+51,Nerlens Noel,DEFENSIVE_REBOUND,None,7:31,2,Thunder,Jazz,26 - 41,1,N/A,N/A,N/A
+52,Hamidou Diallo,FG_ASSISTED,Russell Westbrook,7:25,2,Thunder,Jazz,26 - 43,1,0,2,Layup
+53,Hamidou Diallo,FOUL_ON_FLOOR,None,7:14,2,Thunder,Jazz,26 - 43,1,N/A,N/A,N/A
+54,Steven Adams,SUBSTITUTION,Noel Nerlens,7:14,2,Thunder,Jazz,26 - 43,1,N/A,N/A,N/A
+55,Hamidou Diallo,FOUL_ON_FLOOR,None,7:10,2,Thunder,Jazz,26 - 43,1,N/A,N/A,N/A
+56,Team,Unknown,None,7:10,2,Thunder,Jazz,26 - 43,1,N/A,N/A,N/A
+57,Donovan Mitchell,FT,None,7:10,2,Jazz,Thunder,27 - 43,0,N/A,1,N/A
+58,Terrance Ferguson,SUBSTITUTION,Diallo Hamidou,7:10,2,Thunder,Jazz,27 - 43,1,N/A,N/A,N/A
+59,Donovan Mitchell,FT,None,7:10,2,Jazz,Thunder,28 - 43,0,N/A,1,N/A
+60,Russell Westbrook,FG_MISS,None,7:01,2,Thunder,Jazz,28 - 43,1,27,3,Jumper
+61,Steven Adams,OFFENSIVE_REBOUND,None,6:58,2,Thunder,Jazz,28 - 43,1,N/A,N/A,N/A
+62,Russell Westbrook,FG_MISS,None,6:44,2,Thunder,Jazz,28 - 43,1,25,3,Jumper
+63,Thabo Sefolosha,DEFENSIVE_REBOUND,None,6:40,2,Jazz,Thunder,28 - 43,0,N/A,N/A,N/A
+64,Ricky Rubio,TURNOVER,None,6:35,2,Jazz,Thunder,28 - 43,0,N/A,N/A,N/A
+65,Alex Abrines,TURNOVER,Ricky Rubio,6:26,2,Thunder,Jazz,28 - 43,1,N/A,N/A,N/A
+66,Derrick Favors,FG_MISS,None,6:13,2,Jazz,Thunder,28 - 43,0,0,2,Layup
+67,Team,DEFENSIVE_REBOUND,None,6:12,2,Thunder,Jazz,28 - 43,1,N/A,N/A,N/A
+68,Paul George,SUBSTITUTION,Abrines Alex,6:12,2,Thunder,Jazz,28 - 43,1,N/A,N/A,N/A
+69,Joe Ingles,SUBSTITUTION,Korver Kyle,6:12,2,Jazz,Thunder,28 - 43,0,N/A,N/A,N/A
+70,Russell Westbrook,TURNOVER,Thabo Sefolosha,6:00,2,Thunder,Jazz,28 - 43,1,N/A,N/A,N/A
+71,Donovan Mitchell,FG_ASSISTED,Ricky Rubio,5:52,2,Jazz,Thunder,31 - 43,0,26,3,Jumper
+72,Donovan Mitchell,FOUL_ON_FLOOR,None,5:36,2,Jazz,Thunder,31 - 43,0,N/A,N/A,N/A
+73,Terrance Ferguson,FT_MISS,None,5:36,2,Thunder,Jazz,31 - 43,1,N/A,1,N/A
+74,Team,OFFENSIVE_REBOUND,None,5:36,2,Thunder,Jazz,31 - 43,1,N/A,N/A,N/A
+75,Jerami Grant,SUBSTITUTION,Patterson Patrick,5:36,2,Thunder,Jazz,31 - 43,1,N/A,N/A,N/A
+76,Royce O'Neale,SUBSTITUTION,Mitchell Donovan,5:36,2,Jazz,Thunder,31 - 43,0,N/A,N/A,N/A
+77,Terrance Ferguson,FT,None,5:36,2,Thunder,Jazz,31 - 44,1,N/A,1,N/A
+78,Thabo Sefolosha,FG_ASSISTED,Derrick Favors,5:17,2,Jazz,Thunder,34 - 44,0,23,3,Jumper
+79,Thabo Sefolosha,FOUL_ON_FLOOR,None,4:59,2,Jazz,Thunder,34 - 44,0,N/A,N/A,N/A
+80,Steven Adams,FT,None,4:59,2,Thunder,Jazz,34 - 45,1,N/A,1,N/A
+81,Dennis Schroder,SUBSTITUTION,Ferguson Terrance,4:59,2,Thunder,Jazz,34 - 45,1,N/A,N/A,N/A
+82,Steven Adams,FT,None,4:59,2,Thunder,Jazz,34 - 46,1,N/A,1,N/A
+83,Ricky Rubio,FG_ASSISTED,Royce O'Neale,4:41,2,Jazz,Thunder,36 - 46,0,0,2,Layup
+84,Steven Adams,FG_MISS,None,4:23,2,Thunder,Jazz,36 - 46,1,0,2,Layup
+85,Royce O'Neale,DEFENSIVE_REBOUND,None,4:20,2,Jazz,Thunder,36 - 46,0,N/A,N/A,N/A
+86,Joe Ingles,FG_ASSISTED,Ricky Rubio,4:04,2,Jazz,Thunder,38 - 46,0, ,3,Jumper
+87,Team,Unknown,None,4:04,2,Thunder,Jazz,38 - 46,1,N/A,N/A,N/A
+88,Rudy Gobert,SUBSTITUTION,Favors Derrick,4:04,2,Jazz,Thunder,38 - 46,0,N/A,N/A,N/A
+89,Jae Crowder,SUBSTITUTION,Sefolosha Thabo,4:04,2,Jazz,Thunder,38 - 46,0,N/A,N/A,N/A
+90,Dennis Schroder,FG_MISS,None,3:50,2,Thunder,Jazz,38 - 46,1,26,3,Jumper
+91,Jae Crowder,DEFENSIVE_REBOUND,None,3:46,2,Jazz,Thunder,38 - 46,0,N/A,N/A,N/A
+92,Jae Crowder,TURNOVER,None,3:41,2,Jazz,Thunder,38 - 46,0,N/A,N/A,N/A
+93,Paul George,FG_MISS,None,3:21,2,Thunder,Jazz,38 - 46,1,0,2,Layup
+94,Joe Ingles,DEFENSIVE_REBOUND,None,3:19,2,Jazz,Thunder,38 - 46,0,N/A,N/A,N/A
+95,Joe Ingles,FG_MISS,None,3:13,2,Jazz,Thunder,38 - 46,0, ,3,Jumper
+96,Steven Adams,DEFENSIVE_REBOUND,None,3:11,2,Thunder,Jazz,38 - 46,1,N/A,N/A,N/A
+97,Jerami Grant,FG_ASSISTED,Dennis Schroder,3:02,2,Thunder,Jazz,38 - 48,1,2,3,Jumper
+98,Ricky Rubio,FOUL_ON_FLOOR,None,3:02,2,Jazz,Thunder,38 - 48,0,N/A,N/A,N/A
+99,Donovan Mitchell,SUBSTITUTION,Rubio Ricky,3:02,2,Jazz,Thunder,38 - 48,0,N/A,N/A,N/A
+100,Raul Neto,SUBSTITUTION,O'Neale Royce,3:02,2,Jazz,Thunder,38 - 48,0,N/A,N/A,N/A
+101,Jerami Grant,FT_MISS,None,3:02,2,Thunder,Jazz,38 - 48,1,N/A,1,N/A
+102,Jae Crowder,DEFENSIVE_REBOUND,None,3:02,2,Jazz,Thunder,38 - 48,0,N/A,N/A,N/A
+103,Donovan Mitchell,FG_MISS,None,2:46,2,Jazz,Thunder,38 - 48,0,7,3,Jumper
+104,Dennis Schroder,DEFENSIVE_REBOUND,None,2:42,2,Thunder,Jazz,38 - 48,1,N/A,N/A,N/A
+105,Dennis Schroder,FG_ASSISTED,Russell Westbrook,2:36,2,Thunder,Jazz,38 - 50,1,0,2,Layup
+106,Dennis Schroder,FOUL_ON_FLOOR,None,2:24,2,Thunder,Jazz,38 - 50,1,N/A,N/A,N/A
+107,Donovan Mitchell,FT,None,2:24,2,Jazz,Thunder,39 - 50,0,N/A,1,N/A
+108,Donovan Mitchell,FT,None,2:24,2,Jazz,Thunder,40 - 50,0,N/A,1,N/A
+109,Jerami Grant,FG_ASSISTED,Russell Westbrook,2:13,2,Thunder,Jazz,40 - 52,1,0,2,Dunk
+110,Donovan Mitchell,FG_UNASSISTED,None,1:55,2,Jazz,Thunder,42 - 52,0,13,3,Jumper
+111,Paul George,FOUL_ON_FLOOR,None,1:45,2,Thunder,Jazz,42 - 52,1,N/A,N/A,N/A
+112,Paul George,TURNOVER,None,1:45,2,Thunder,Jazz,42 - 52,1,N/A,N/A,N/A
+113,Donovan Mitchell,FG_UNASSISTED,None,1:34,2,Jazz,Thunder,44 - 52,0,0,2,Layup
+114,Donovan Mitchell,FOUL_ON_FLOOR,None,1:22,2,Jazz,Thunder,44 - 52,0,N/A,N/A,N/A
+115,Paul George,FT,None,1:22,2,Thunder,Jazz,44 - 53,1,N/A,1,N/A
+116,Kyle Korver,SUBSTITUTION,Mitchell Donovan,1:22,2,Jazz,Thunder,44 - 53,0,N/A,N/A,N/A
+117,Paul George,FT,None,1:22,2,Thunder,Jazz,44 - 54,1,N/A,1,N/A
+118,Kyle Korver,FG_MISS,None,1:05,2,Jazz,Thunder,44 - 54,0,21,3,Jumper
+119,Rudy Gobert,OFFENSIVE_REBOUND,None,1:03,2,Jazz,Thunder,44 - 54,0,N/A,N/A,N/A
+120,Rudy Gobert,FG_MISS,None,1:03,2,Jazz,Thunder,44 - 54,0, ,3,Jumper
+121,Rudy Gobert,OFFENSIVE_REBOUND,None,1:02,2,Jazz,Thunder,44 - 54,0,N/A,N/A,N/A
+122,Jerami Grant,FOUL_ON_FLOOR,None,1:01,2,Thunder,Jazz,44 - 54,1,N/A,N/A,N/A
+123,Rudy Gobert,FT,None,1:01,2,Jazz,Thunder,45 - 54,0,N/A,1,N/A
+124,Rudy Gobert,FT,None,1:01,2,Jazz,Thunder,46 - 54,0,N/A,1,N/A
+125,Paul George,FG_ASSISTED,Russell Westbrook,50.4,2,Thunder,Jazz,46 - 57,1,26,3,Jumper
+126,Jae Crowder,FG_MISS,None,36.3,2,Jazz,Thunder,46 - 57,0,25,3,Jumper
+127,Russell Westbrook,DEFENSIVE_REBOUND,None,34.5,2,Thunder,Jazz,46 - 57,1,N/A,N/A,N/A
+128,Dennis Schroder,FG_MISS,None,24.7,2,Thunder,Jazz,46 - 57,1,23,3,Jumper
+129,Rudy Gobert,DEFENSIVE_REBOUND,None,21.6,2,Jazz,Thunder,46 - 57,0,N/A,N/A,N/A
+130,Kyle Korver,FG_MISS,None,0.3,2,Jazz,Thunder,46 - 57,0,27,3,Jumper
+131,Team,OFFENSIVE_REBOUND,None,0.3,2,Jazz,Thunder,46 - 57,0,N/A,N/A,N/A
+132,End of,Unknown,None,0.0,2,Thunder,Jazz,46 - 57,1,N/A,N/A,N/A
+0,Terrance Ferguson,SUBSTITUTION,Schroder Dennis,12:00,3,Thunder,Jazz,46 - 57,1,N/A,N/A,N/A
+1,Donovan Mitchell,SUBSTITUTION,Neto Raul,12:00,3,Jazz,Thunder,46 - 57,0,N/A,N/A,N/A
+2,Ricky Rubio,SUBSTITUTION,Crowder Jae,12:00,3,Jazz,Thunder,46 - 57,0,N/A,N/A,N/A
+3,Derrick Favors,SUBSTITUTION,Korver Kyle,12:00,3,Jazz,Thunder,46 - 57,0,N/A,N/A,N/A
+4,Jerami Grant,FOUL_ON_FLOOR,None,11:47,3,Thunder,Jazz,46 - 57,1,N/A,N/A,N/A
+5,Derrick Favors,FT_MISS,None,11:47,3,Jazz,Thunder,46 - 57,0,N/A,1,N/A
+6,Team,OFFENSIVE_REBOUND,None,11:47,3,Jazz,Thunder,46 - 57,0,N/A,N/A,N/A
+7,Derrick Favors,FT,None,11:47,3,Jazz,Thunder,47 - 57,0,N/A,1,N/A
+8,Paul George,FG_ASSISTED,Russell Westbrook,11:39,3,Thunder,Jazz,47 - 60,1,25,3,Jumper
+9,Ricky Rubio,TURNOVER,Terrance Ferguson,11:24,3,Jazz,Thunder,47 - 60,0,N/A,N/A,N/A
+10,Russell Westbrook,FG_ASSISTED,Terrance Ferguson,11:21,3,Thunder,Jazz,47 - 62,1,0,2,Dunk
+11,Donovan Mitchell,FG_MISS,None,10:59,3,Jazz,Thunder,47 - 62,0,26,3,Jumper
+12,Rudy Gobert,OFFENSIVE_REBOUND,None,10:58,3,Jazz,Thunder,47 - 62,0,N/A,N/A,N/A
+13,Russell Westbrook,FOUL_ON_FLOOR,None,10:58,3,Thunder,Jazz,47 - 62,1,N/A,N/A,N/A
+14,Donovan Mitchell,FG_ASSISTED,Rudy Gobert,10:50,3,Jazz,Thunder,50 - 62,0,24,3,Jumper
+15,Jerami Grant,FG_ASSISTED,Terrance Ferguson,10:32,3,Thunder,Jazz,50 - 64,1, ,3,Jumper
+16,Donovan Mitchell,TURNOVER,Steven Adams,10:22,3,Jazz,Thunder,50 - 64,0,N/A,N/A,N/A
+17,Jerami Grant,FG_ASSISTED,Paul George,10:16,3,Thunder,Jazz,50 - 66,1,0,2,Dunk
+18,Team,Unknown,None,10:16,3,Jazz,Thunder,50 - 66,0,N/A,N/A,N/A
+19,Ricky Rubio,TURNOVER,None,10:00,3,Jazz,Thunder,50 - 66,0,N/A,N/A,N/A
+20,Jerami Grant,FG_MISS,None,9:52,3,Thunder,Jazz,50 - 66,1,20,3,Jumper
+21,Joe Ingles,DEFENSIVE_REBOUND,None,9:49,3,Jazz,Thunder,50 - 66,0,N/A,N/A,N/A
+22,Derrick Favors,FG_MISS,None,9:37,3,Jazz,Thunder,50 - 66,0,24,3,Jumper
+23,Rudy Gobert,OFFENSIVE_REBOUND,None,9:34,3,Jazz,Thunder,50 - 66,0,N/A,N/A,N/A
+24,Rudy Gobert,FG_UNASSISTED,None,9:33,3,Jazz,Thunder,52 - 66,0,0,2,Dunk
+25,Steven Adams,FG_UNASSISTED,None,9:16,3,Thunder,Jazz,52 - 68,1,6,3,Jumper
+26,Donovan Mitchell,FG_MISS,None,9:00,3,Jazz,Thunder,52 - 68,0,0,2,Layup
+27,Rudy Gobert,OFFENSIVE_REBOUND,None,8:56,3,Jazz,Thunder,52 - 68,0,N/A,N/A,N/A
+28,Rudy Gobert,FG_UNASSISTED,None,8:56,3,Jazz,Thunder,54 - 68,0, ,3,Jumper
+29,Russell Westbrook,FG_MISS,None,8:51,3,Thunder,Jazz,54 - 68,1, ,3,Jumper
+30,Rudy Gobert,DEFENSIVE_REBOUND,None,8:48,3,Jazz,Thunder,54 - 68,0,N/A,N/A,N/A
+31,Joe Ingles,FG_ASSISTED,Rudy Gobert,8:38,3,Jazz,Thunder,56 - 68,0,0,2,Layup
+32,Russell Westbrook,FG_MISS,None,8:18,3,Thunder,Jazz,56 - 68,1,22,3,Jumper
+33,Steven Adams,OFFENSIVE_REBOUND,None,8:16,3,Thunder,Jazz,56 - 68,1,N/A,N/A,N/A
+34,Paul George,FG_ASSISTED,Terrance Ferguson,8:14,3,Thunder,Jazz,56 - 71,1,26,3,Jumper
+35,Joe Ingles,FG_UNASSISTED,None,7:51,3,Jazz,Thunder,58 - 71,0,0,2,Layup
+36,Russell Westbrook,FG_MISS,None,7:42,3,Thunder,Jazz,58 - 71,1,9,3,Jumper
+37,Steven Adams,OFFENSIVE_REBOUND,None,7:39,3,Thunder,Jazz,58 - 71,1,N/A,N/A,N/A
+38,Steven Adams,FG_UNASSISTED,None,7:33,3,Thunder,Jazz,58 - 73,1,4,3,Jumper
+39,Paul George,Unknown,None,7:21,3,Thunder,Jazz,58 - 73,1,N/A,N/A,N/A
+40,Jae Crowder,SUBSTITUTION,for game,7:21,3,Jazz,Thunder,58 - 73,0,N/A,N/A,N/A
+41,enters the,SUBSTITUTION,Gobert Rudy,7:21,3,Jazz,Thunder,58 - 73,0,N/A,N/A,N/A
+42,Ricky Rubio,FG_MISS,None,7:11,3,Jazz,Thunder,58 - 73,0,26,3,Jumper
+43,Terrance Ferguson,DEFENSIVE_REBOUND,None,7:09,3,Thunder,Jazz,58 - 73,1,N/A,N/A,N/A
+44,Donovan Mitchell,FOUL_ON_FLOOR,None,7:05,3,Jazz,Thunder,58 - 73,0,N/A,N/A,N/A
+45,Paul George,FT,None,7:05,3,Thunder,Jazz,58 - 74,1,N/A,1,N/A
+46,Royce O'Neale,SUBSTITUTION,Mitchell Donovan,7:05,3,Jazz,Thunder,58 - 74,0,N/A,N/A,N/A
+47,Paul George,FT_MISS,None,7:05,3,Thunder,Jazz,58 - 74,1,N/A,1,N/A
+48,Royce O'Neale,DEFENSIVE_REBOUND,None,7:03,3,Jazz,Thunder,58 - 74,0,N/A,N/A,N/A
+49,Ricky Rubio,FG_UNASSISTED,None,6:48,3,Jazz,Thunder,60 - 74,0, ,3,Jumper
+50,Jerami Grant,FG_MISS,None,6:39,3,Thunder,Jazz,60 - 74,1, ,3,Jumper
+51,Jae Crowder,DEFENSIVE_REBOUND,None,6:37,3,Jazz,Thunder,60 - 74,0,N/A,N/A,N/A
+52,Jae Crowder,FG_ASSISTED,Ricky Rubio,6:31,3,Jazz,Thunder,63 - 74,0,25,3,Jumper
+53,Steven Adams,FG_MISS,None,6:16,3,Thunder,Jazz,63 - 74,1,11,3,Jumper
+54,Jae Crowder,DEFENSIVE_REBOUND,None,6:14,3,Jazz,Thunder,63 - 74,0,N/A,N/A,N/A
+55,Ricky Rubio,FG_MISS,None,6:09,3,Jazz,Thunder,63 - 74,0,25,3,Jumper
+56,Terrance Ferguson,DEFENSIVE_REBOUND,None,6:06,3,Thunder,Jazz,63 - 74,1,N/A,N/A,N/A
+57,Paul George,FG_UNASSISTED,None,5:57,3,Thunder,Jazz,63 - 77,1,25,3,Jumper
+58,Ricky Rubio,FG_ASSISTED,Joe Ingles,5:42,3,Jazz,Thunder,65 - 77,0,0,2,Layup
+59,Team,Unknown,None,5:42,3,Thunder,Jazz,65 - 77,1,N/A,N/A,N/A
+60,Royce O'Neale,FOUL_ON_FLOOR,None,5:31,3,Jazz,Thunder,65 - 77,0,N/A,N/A,N/A
+61,Dennis Schroder,SUBSTITUTION,Ferguson Terrance,5:31,3,Thunder,Jazz,65 - 77,1,N/A,N/A,N/A
+62,Russell Westbrook,FG_MISS,None,5:21,3,Thunder,Jazz,65 - 77,1,12,3,Jumper
+63,Ricky Rubio,DEFENSIVE_REBOUND,None,5:19,3,Jazz,Thunder,65 - 77,0,N/A,N/A,N/A
+64,Paul George,FOUL_ON_FLOOR,None,5:12,3,Thunder,Jazz,65 - 77,1,N/A,N/A,N/A
+65,Royce O'Neale,FT_MISS,None,5:12,3,Jazz,Thunder,65 - 77,0,N/A,1,N/A
+66,Team,OFFENSIVE_REBOUND,None,5:12,3,Jazz,Thunder,65 - 77,0,N/A,N/A,N/A
+67,Royce O'Neale,FT_MISS,None,5:12,3,Jazz,Thunder,65 - 77,0,N/A,1,N/A
+68,Russell Westbrook,DEFENSIVE_REBOUND,None,5:10,3,Thunder,Jazz,65 - 77,1,N/A,N/A,N/A
+69,Russell Westbrook,FG_MISS,Derrick Favors,5:01,3,Jazz,Thunder,65 - 77,1,0,2,Layup
+70,Steven Adams,OFFENSIVE_REBOUND,None,4:58,3,Thunder,Jazz,65 - 77,1,N/A,N/A,N/A
+71,Paul George,FG_ASSISTED,Steven Adams,4:56,3,Thunder,Jazz,65 - 80,1,25,3,Jumper
+72,Ricky Rubio,FG_MISS,None,4:37,3,Jazz,Thunder,65 - 80,0,12,3,Jumper
+73,Paul George,DEFENSIVE_REBOUND,None,4:34,3,Thunder,Jazz,65 - 80,1,N/A,N/A,N/A
+74,Royce O'Neale,FOUL_ON_FLOOR,None,4:29,3,Jazz,Thunder,65 - 80,0,N/A,N/A,N/A
+75,Paul George,FT,None,4:29,3,Thunder,Jazz,65 - 81,1,N/A,1,N/A
+76,Paul George,FT,None,4:29,3,Thunder,Jazz,65 - 82,1,N/A,1,N/A
+77,Donovan Mitchell,SUBSTITUTION,Ingles Joe,4:29,3,Jazz,Thunder,65 - 82,0,N/A,N/A,N/A
+78,Paul George,FT,None,4:29,3,Thunder,Jazz,65 - 83,1,N/A,1,N/A
+79,Ricky Rubio,TURNOVER,Russell Westbrook,4:18,3,Jazz,Thunder,65 - 83,0,N/A,N/A,N/A
+80,Russell Westbrook's,FG_MISS,Ricky Rubio,4:13,3,Jazz,Thunder,65 - 83,1,0,2,Layup
+81,Team,OFFENSIVE_REBOUND,None,4:13,3,Thunder,Jazz,65 - 83,1,N/A,N/A,N/A
+82,Steven Adams,FG_ASSISTED,Paul George,4:09,3,Thunder,Jazz,65 - 85,1,0,2,Layup
+83,Donovan Mitchell,TURNOVER,None,3:52,3,Jazz,Thunder,65 - 85,0,N/A,N/A,N/A
+84,Dennis Schroder,FG_UNASSISTED,None,3:34,3,Thunder,Jazz,65 - 87,1,2,3,Jumper
+85,Ricky Rubio,FG_UNASSISTED,None,3:25,3,Jazz,Thunder,67 - 87,0,18,3,Jumper
+86,Dennis Schroder,FG_UNASSISTED,None,3:14,3,Thunder,Jazz,67 - 89,1,6,3,Jumper
+87,Derrick Favors,FOUL_ON_FLOOR,None,3:14,3,Jazz,Thunder,67 - 89,0,N/A,N/A,N/A
+88,Rudy Gobert,SUBSTITUTION,Favors Derrick,3:14,3,Jazz,Thunder,67 - 89,0,N/A,N/A,N/A
+89,Dennis Schroder,FT,None,3:14,3,Thunder,Jazz,67 - 88,1,N/A,1,N/A
+90,Jae Crowder,TURNOVER,Paul George,3:01,3,Jazz,Thunder,67 - 90,0,N/A,N/A,N/A
+91,Jerami Grant,FG_ASSISTED,Paul George,2:58,3,Thunder,Jazz,67 - 92,1,0,2,Dunk
+92,Steven Adams,FOUL_ON_FLOOR,None,2:43,3,Thunder,Jazz,67 - 92,1,N/A,N/A,N/A
+93,Raul Neto,SUBSTITUTION,Rubio Ricky,2:43,3,Jazz,Thunder,67 - 92,0,N/A,N/A,N/A
+94,Donovan Mitchell,FG_MISS,None,2:32,3,Jazz,Thunder,67 - 92,0,29,3,Jumper
+95,Rudy Gobert,OFFENSIVE_REBOUND,None,2:29,3,Jazz,Thunder,67 - 92,0,N/A,N/A,N/A
+96,Rudy Gobert,FG_UNASSISTED,None,2:28,3,Jazz,Thunder,69 - 92,0, ,3,Jumper
+97,Jerami Grant,FG_MISS,None,2:15,3,Thunder,Jazz,69 - 92,1,5,3,Jumper
+98,Russell Westbrook,OFFENSIVE_REBOUND,None,2:14,3,Thunder,Jazz,69 - 92,1,N/A,N/A,N/A
+99,Rudy Gobert,FOUL_ON_FLOOR,None,2:14,3,Jazz,Thunder,69 - 92,0,N/A,N/A,N/A
+100,Russell Westbrook,FT_MISS,None,2:14,3,Thunder,Jazz,69 - 92,1,N/A,1,N/A
+101,Team,OFFENSIVE_REBOUND,None,2:14,3,Thunder,Jazz,69 - 92,1,N/A,N/A,N/A
+102,Russell Westbrook,FT,None,2:14,3,Thunder,Jazz,69 - 93,1,N/A,1,N/A
+103,Donovan Mitchell,FG_ASSISTED,Royce O'Neale,2:02,3,Jazz,Thunder,71 - 93,0,10,3,Jumper
+104,Rudy Gobert,FOUL_ON_FLOOR,None,1:56,3,Jazz,Thunder,71 - 93,0,N/A,N/A,N/A
+105,Steven Adams,FT,None,1:56,3,Thunder,Jazz,71 - 94,1,N/A,1,N/A
+106,Steven Adams,FT,None,1:56,3,Thunder,Jazz,71 - 95,1,N/A,1,N/A
+107,Raul Neto,TURNOVER,Dennis Schroder,1:39,3,Jazz,Thunder,71 - 95,0,N/A,N/A,N/A
+108,Steven Adams,FG_ASSISTED,Russell Westbrook,1:34,3,Thunder,Jazz,71 - 97,1,0,2,Dunk
+109,Donovan Mitchell,FG_MISS,None,1:15,3,Jazz,Thunder,71 - 97,0,25,3,Jumper
+110,Dennis Schroder,DEFENSIVE_REBOUND,None,1:13,3,Thunder,Jazz,71 - 97,1,N/A,N/A,N/A
+111,Paul George,FG_MISS,None,1:07,3,Thunder,Jazz,71 - 97,1,22,3,Jumper
+112,Rudy Gobert,DEFENSIVE_REBOUND,None,1:03,3,Jazz,Thunder,71 - 97,0,N/A,N/A,N/A
+113,Jae Crowder,FG_ASSISTED,Raul Neto,59.6,3,Jazz,Thunder,74 - 97,0,23,3,Jumper
+114,Rudy Gobert,FOUL_ON_FLOOR,None,52.4,3,Jazz,Thunder,74 - 97,0,N/A,N/A,N/A
+115,Steven Adams,FT,None,52.4,3,Thunder,Jazz,74 - 98,1,N/A,1,N/A
+116,Derrick Favors,SUBSTITUTION,Gobert Rudy,52.4,3,Jazz,Thunder,74 - 98,0,N/A,N/A,N/A
+117,Rudy Gobert,FOUL_TECHNICAL,None,52.4,3,Jazz,Thunder,74 - 98,0,N/A,N/A,N/A
+118,Paul George,FT,None,52.4,3,Thunder,Jazz,74 - 99,1,N/A,1,N/A
+119,Steven Adams,FT_MISS,None,52.4,3,Thunder,Jazz,74 - 99,1,N/A,1,N/A
+120,Royce O'Neale,DEFENSIVE_REBOUND,None,50.8,3,Jazz,Thunder,74 - 99,0,N/A,N/A,N/A
+121,Dennis Schroder,FOUL_ON_FLOOR,None,37.5,3,Thunder,Jazz,74 - 99,1,N/A,N/A,N/A
+122,Derrick Favors,FT_MISS,None,37.5,3,Jazz,Thunder,74 - 99,0,N/A,1,N/A
+123,Team,OFFENSIVE_REBOUND,None,37.5,3,Jazz,Thunder,74 - 99,0,N/A,N/A,N/A
+124,Nerlens Noel,SUBSTITUTION,Adams Steven,37.5,3,Thunder,Jazz,74 - 99,1,N/A,N/A,N/A
+125,Derrick Favors,FT,None,37.5,3,Jazz,Thunder,75 - 99,0,N/A,1,N/A
+126,Russell Westbrook,FG_MISS,None,28.9,3,Thunder,Jazz,75 - 99,1,25,3,Jumper
+127,Jae Crowder,DEFENSIVE_REBOUND,None,25.6,3,Jazz,Thunder,75 - 99,0,N/A,N/A,N/A
+128,Jae Crowder,FG_MISS,None,2.9,3,Jazz,Thunder,75 - 99,0,22,3,Jumper
+129,Paul George,DEFENSIVE_REBOUND,None,2.9,3,Thunder,Jazz,75 - 99,1,N/A,N/A,N/A
+130,End of,Unknown,None,0.0,3,Thunder,Jazz,75 - 99,1,N/A,N/A,N/A
+0,Hamidou Diallo,SUBSTITUTION,Westbrook Russell,12:00,4,Thunder,Jazz,75 - 99,1,N/A,N/A,N/A
+1,Alex Abrines,SUBSTITUTION,Grant Jerami,12:00,4,Thunder,Jazz,75 - 99,1,N/A,N/A,N/A
+2,Patrick Patterson,SUBSTITUTION,George Paul,12:00,4,Thunder,Jazz,75 - 99,1,N/A,N/A,N/A
+3,Kyle Korver,SUBSTITUTION,O'Neale Royce,12:00,4,Jazz,Thunder,75 - 99,0,N/A,N/A,N/A
+4,Thabo Sefolosha,SUBSTITUTION,Crowder Jae,12:00,4,Jazz,Thunder,75 - 99,0,N/A,N/A,N/A
+5,Dennis Schroder,FG_UNASSISTED,None,11:49,4,Thunder,Jazz,75 - 101,1,0,2,Layup
+6,Raul Neto,FOUL_ON_FLOOR,None,11:49,4,Jazz,Thunder,75 - 101,0,N/A,N/A,N/A
+7,Dennis Schroder,FT,None,11:49,4,Thunder,Jazz,75 - 102,1,N/A,1,N/A
+8,Donovan Mitchell,FG_MISS,None,11:24,4,Jazz,Thunder,75 - 102,0,23,3,Jumper
+9,Alex Abrines,DEFENSIVE_REBOUND,None,11:15,4,Thunder,Jazz,75 - 102,1,N/A,N/A,N/A
+10,Nerlens Noel,FG_MISS,None,11:14,4,Thunder,Jazz,75 - 102,1,14,3,Jumper
+11,Donovan Mitchell,DEFENSIVE_REBOUND,None,11:10,4,Jazz,Thunder,75 - 102,0,N/A,N/A,N/A
+12,Raul Neto,FG_UNASSISTED,None,11:05,4,Jazz,Thunder,77 - 102,0,0,2,Layup
+13,Nerlens Noel,Unknown,None,11:05,4,Thunder,Jazz,77 - 102,1,N/A,N/A,N/A
+14,Dennis Schroder,FG_UNASSISTED,None,10:56,4,Thunder,Jazz,77 - 104,1,13,3,Jumper
+15,Donovan Mitchell,TURNOVER,Alex Abrines,10:46,4,Jazz,Thunder,77 - 104,0,N/A,N/A,N/A
+16,Donovan Mitchell,FOUL_ON_FLOOR,None,10:46,4,Jazz,Thunder,77 - 104,0,N/A,N/A,N/A
+17,Team,Unknown,None,10:46,4,Jazz,Thunder,77 - 104,0,N/A,N/A,N/A
+18,Dennis Schroder,FG_MISS,None,10:36,4,Thunder,Jazz,77 - 104,1,14,3,Jumper
+19,Donovan Mitchell,DEFENSIVE_REBOUND,None,10:30,4,Jazz,Thunder,77 - 104,0,N/A,N/A,N/A
+20,Kyle Korver,FG_MISS,None,10:26,4,Jazz,Thunder,77 - 104,0,23,3,Jumper
+21,Nerlens Noel,DEFENSIVE_REBOUND,None,10:23,4,Thunder,Jazz,77 - 104,1,N/A,N/A,N/A
+22,Hamidou Diallo,FG_UNASSISTED,None,10:17,4,Thunder,Jazz,77 - 106,1,1,3,Jumper
+23,Derrick Favors,FG_ASSISTED,Kyle Korver,9:59,4,Jazz,Thunder,79 - 106,0,0,2,Layup
+24,Alex Abrines,FG_MISS,None,9:42,4,Thunder,Jazz,79 - 106,1,0,2,Layup
+25,Derrick Favors,DEFENSIVE_REBOUND,None,9:42,4,Jazz,Thunder,79 - 106,0,N/A,N/A,N/A
+26,Derrick Favors,FG_ASSISTED,Raul Neto,9:36,4,Jazz,Thunder,81 - 106,0,0,2,Layup
+27,Dennis Schroder,FG_MISS,None,9:20,4,Thunder,Jazz,81 - 106,1,0,2,Layup
+28,Thabo Sefolosha,DEFENSIVE_REBOUND,None,9:18,4,Jazz,Thunder,81 - 106,0,N/A,N/A,N/A
+29,Kyle Korver,FG_MISS,None,9:16,4,Jazz,Thunder,81 - 106,0,26,3,Jumper
+30,Patrick Patterson,DEFENSIVE_REBOUND,None,9:16,4,Thunder,Jazz,81 - 106,1,N/A,N/A,N/A
+31,Team,Unknown,None,9:14,4,Thunder,Jazz,81 - 106,1,N/A,N/A,N/A
+32,Ekpe Udoh,SUBSTITUTION,Favors Derrick,9:14,4,Jazz,Thunder,81 - 106,0,N/A,N/A,N/A
+33,Dante Exum,SUBSTITUTION,Mitchell Donovan,9:14,4,Jazz,Thunder,81 - 106,0,N/A,N/A,N/A
+34,Dennis Schroder,FG_MISS,Ekpe Udoh,9:01,4,Jazz,Thunder,81 - 106,1,9,3,Jumper
+35,Raul Neto,DEFENSIVE_REBOUND,None,8:56,4,Jazz,Thunder,81 - 106,0,N/A,N/A,N/A
+36,Hamidou Diallo,FOUL_ON_FLOOR,None,8:53,4,Thunder,Jazz,81 - 106,1,N/A,N/A,N/A
+37,Kyle Korver,FG_ASSISTED,Raul Neto,8:47,4,Jazz,Thunder,83 - 106,0,20,3,Jumper
+38,Nerlens Noel,TURNOVER,Raul Neto,8:34,4,Thunder,Jazz,83 - 106,1,N/A,N/A,N/A
+39,Ekpe Udoh,FG_ASSISTED,Raul Neto,8:27,4,Jazz,Thunder,85 - 106,0,0,2,Layup
+40,Ekpe Udoh,FOUL_ON_FLOOR,None,8:18,4,Jazz,Thunder,85 - 106,0,N/A,N/A,N/A
+41,Hamidou Diallo,FT,None,8:18,4,Thunder,Jazz,85 - 107,1,N/A,1,N/A
+42,Hamidou Diallo,FT_MISS,None,8:18,4,Thunder,Jazz,85 - 107,1,N/A,1,N/A
+43,Thabo Sefolosha,DEFENSIVE_REBOUND,None,8:16,4,Jazz,Thunder,85 - 107,0,N/A,N/A,N/A
+44,Kyle Korver,FG_ASSISTED,Ekpe Udoh,8:02,4,Jazz,Thunder,87 - 107,0,13,3,Jumper
+45,Hamidou Diallo,FG_MISS,Ekpe Udoh,7:44,4,Jazz,Thunder,87 - 107,1,0,2,Layup
+46,Thabo Sefolosha,DEFENSIVE_REBOUND,None,7:40,4,Jazz,Thunder,87 - 107,0,N/A,N/A,N/A
+47,Kyle Korver,FG_MISS,None,7:35,4,Jazz,Thunder,87 - 107,0,26,3,Jumper
+48,Hamidou Diallo,DEFENSIVE_REBOUND,None,7:35,4,Thunder,Jazz,87 - 107,1,N/A,N/A,N/A
+49,Hamidou Diallo,FG_ASSISTED,Dennis Schroder,7:26,4,Thunder,Jazz,87 - 109,1,0,2,Layup
+50,Ekpe Udoh,FG_ASSISTED,Dante Exum,7:08,4,Jazz,Thunder,89 - 109,0,0,2,Dunk
+51,Alex Abrines,FG_MISS,None,6:56,4,Thunder,Jazz,89 - 109,1,25,3,Jumper
+52,Thabo Sefolosha,DEFENSIVE_REBOUND,None,6:54,4,Jazz,Thunder,89 - 109,0,N/A,N/A,N/A
+53,Ekpe Udoh,FG_ASSISTED,Dante Exum,6:45,4,Jazz,Thunder,91 - 109,0,0,2,Dunk
+54,Nerlens Noel,FOUL_ON_FLOOR,None,6:29,4,Thunder,Jazz,91 - 109,1,N/A,N/A,N/A
+55,Nerlens Noel,TURNOVER,None,6:29,4,Thunder,Jazz,91 - 109,1,N/A,N/A,N/A
+56,Russell Westbrook,SUBSTITUTION,Diallo Hamidou,6:29,4,Thunder,Jazz,91 - 109,1,N/A,N/A,N/A
+57,Georges Niang,SUBSTITUTION,Sefolosha Thabo,6:29,4,Jazz,Thunder,91 - 109,0,N/A,N/A,N/A
+58,Dennis Schroder,FOUL_TECHNICAL,None,6:21,4,Thunder,Jazz,91 - 109,1,N/A,N/A,N/A
+59,Kyle Korver,FT,None,6:21,4,Jazz,Thunder,92 - 109,0,N/A,1,N/A
+60,Dennis Schroder,FOUL_ON_FLOOR,None,6:21,4,Thunder,Jazz,92 - 109,1,N/A,N/A,N/A
+61,Dante Exum,FT,None,6:21,4,Jazz,Thunder,93 - 109,0,N/A,1,N/A
+62,Dante Exum,FT,None,6:21,4,Jazz,Thunder,94 - 109,0,N/A,1,N/A
+63,Kyle Korver,FOUL_ON_FLOOR,None,6:10,4,Jazz,Thunder,94 - 109,0,N/A,N/A,N/A
+64,Royce O'Neale,SUBSTITUTION,Korver Kyle,6:10,4,Jazz,Thunder,94 - 109,0,N/A,N/A,N/A
+65,Dante Exum,FOUL_ON_FLOOR,None,6:03,4,Jazz,Thunder,94 - 109,0,N/A,N/A,N/A
+66,Russell Westbrook,FT_MISS,None,6:03,4,Thunder,Jazz,94 - 109,1,N/A,1,N/A
+67,Team,OFFENSIVE_REBOUND,None,6:03,4,Thunder,Jazz,94 - 109,1,N/A,N/A,N/A
+68,Russell Westbrook,FT,None,6:03,4,Thunder,Jazz,94 - 110,1,N/A,1,N/A
+69,Dante Exum,FG_ASSISTED,Royce O'Neale,5:42,4,Jazz,Thunder,96 - 110,0,0,2,Dunk
+70,Dennis Schroder,FG_MISS,None,5:22,4,Thunder,Jazz,96 - 110,1,1,3,Jumper
+71,Nerlens Noel,OFFENSIVE_REBOUND,None,5:17,4,Thunder,Jazz,96 - 110,1,N/A,N/A,N/A
+72,Nerlens Noel,FG_UNASSISTED,None,5:17,4,Thunder,Jazz,96 - 112,1,0,2,Dunk
+73,Ekpe Udoh,FG_ASSISTED,Georges Niang,5:01,4,Jazz,Thunder,98 - 112,0,0,2,Layup
+74,Nerlens Noel,FG_ASSISTED,Russell Westbrook,4:48,4,Thunder,Jazz,98 - 114,1,11,3,Jumper
+75,Team,Unknown,None,4:47,4,Jazz,Thunder,98 - 114,0,N/A,N/A,N/A
+76,Thabo Sefolosha,SUBSTITUTION,Neto Raul,4:47,4,Jazz,Thunder,98 - 114,0,N/A,N/A,N/A
+77,Nerlens Noel,FOUL_ON_FLOOR,None,4:26,4,Thunder,Jazz,98 - 114,1,N/A,N/A,N/A
+78,Ekpe Udoh,FT_MISS,None,4:26,4,Jazz,Thunder,98 - 114,0,N/A,1,N/A
+79,Team,OFFENSIVE_REBOUND,None,4:26,4,Jazz,Thunder,98 - 114,0,N/A,N/A,N/A
+80,Ekpe Udoh,FT_MISS,None,4:26,4,Jazz,Thunder,98 - 114,0,N/A,1,N/A
+81,Nerlens Noel,DEFENSIVE_REBOUND,None,4:24,4,Thunder,Jazz,98 - 114,1,N/A,N/A,N/A
+82,Russell Westbrook,TURNOVER,Georges Niang,4:13,4,Thunder,Jazz,98 - 114,1,N/A,N/A,N/A
+83,Dante Exum,FG_ASSISTED,Georges Niang,4:02,4,Jazz,Thunder,100 - 114,0,0,2,Dunk
+84,Russell Westbrook,FG_UNASSISTED,None,3:46,4,Thunder,Jazz,100 - 116,1,0,2,Layup
+85,Nerlens Noel,FOUL_ON_FLOOR,None,3:34,4,Thunder,Jazz,100 - 116,1,N/A,N/A,N/A
+86,Dante Exum,FT_MISS,None,3:34,4,Jazz,Thunder,100 - 116,0,N/A,1,N/A
+87,Team,OFFENSIVE_REBOUND,None,3:34,4,Jazz,Thunder,100 - 116,0,N/A,N/A,N/A
+88,Dante Exum,FT,None,3:34,4,Jazz,Thunder,101 - 116,0,N/A,1,N/A
+89,Dennis Schroder,TURNOVER,None,3:26,4,Thunder,Jazz,101 - 116,1,N/A,N/A,N/A
+90,Ekpe Udoh,FG_ASSISTED,Dante Exum,3:16,4,Jazz,Thunder,103 - 116,0,0,2,Dunk
+91,Ekpe Udoh,FOUL_ON_FLOOR,None,3:02,4,Jazz,Thunder,103 - 116,0,N/A,N/A,N/A
+92,Dennis Schroder,FT,None,3:02,4,Thunder,Jazz,103 - 117,1,N/A,1,N/A
+93,Dennis Schroder,FT,None,3:02,4,Thunder,Jazz,103 - 118,1,N/A,1,N/A
+94,Dante Exum,FG_MISS,Nerlens Noel,2:52,4,Thunder,Jazz,103 - 118,0,0,2,Layup
+95,Dennis Schroder,DEFENSIVE_REBOUND,None,2:49,4,Thunder,Jazz,103 - 118,1,N/A,N/A,N/A
+96,Georges Niang,FOUL_ON_FLOOR,None,2:47,4,Jazz,Thunder,103 - 118,0,N/A,N/A,N/A
+97,Russell Westbrook,FT_MISS,None,2:47,4,Thunder,Jazz,103 - 118,1,N/A,1,N/A
+98,Team,OFFENSIVE_REBOUND,None,2:47,4,Thunder,Jazz,103 - 118,1,N/A,N/A,N/A
+99,Russell Westbrook,FT,None,2:47,4,Thunder,Jazz,103 - 119,1,N/A,1,N/A
+100,Georges Niang,FG_ASSISTED,Ekpe Udoh,2:33,4,Jazz,Thunder,106 - 119,0,23,3,Jumper
+101,Dennis Schroder,FG_UNASSISTED,None,2:18,4,Thunder,Jazz,106 - 121,1,1,3,Jumper
+102,Nerlens Noel,FOUL_ON_FLOOR,None,2:04,4,Thunder,Jazz,106 - 121,1,N/A,N/A,N/A
+103,Dante Exum,FT,None,2:04,4,Jazz,Thunder,107 - 121,0,N/A,1,N/A
+104,Dante Exum,FT,None,2:04,4,Jazz,Thunder,108 - 121,0,N/A,1,N/A
+105,Dennis Schroder,TURNOVER,None,1:51,4,Thunder,Jazz,108 - 121,1,N/A,N/A,N/A
+106,Georges Niang,FG_MISS,None,1:41,4,Jazz,Thunder,108 - 121,0,23,3,Jumper
+107,Alex Abrines,DEFENSIVE_REBOUND,None,1:39,4,Thunder,Jazz,108 - 121,1,N/A,N/A,N/A
+108,Royce O'Neale,FOUL_ON_FLOOR,None,1:26,4,Jazz,Thunder,108 - 121,0,N/A,N/A,N/A
+109,Russell Westbrook,FT,None,1:26,4,Thunder,Jazz,108 - 122,1,N/A,1,N/A
+110,Deonte Burton,SUBSTITUTION,Schroder Dennis,1:26,4,Thunder,Jazz,108 - 122,1,N/A,N/A,N/A
+111,Russell Westbrook,FT_MISS,None,1:26,4,Thunder,Jazz,108 - 122,1,N/A,1,N/A
+112,Thabo Sefolosha,DEFENSIVE_REBOUND,None,1:23,4,Jazz,Thunder,108 - 122,0,N/A,N/A,N/A
+113,Russell Westbrook,FOUL_ON_FLOOR,None,1:23,4,Thunder,Jazz,108 - 122,1,N/A,N/A,N/A
+114,Thabo Sefolosha,FT_MISS,None,1:23,4,Jazz,Thunder,108 - 122,0,N/A,1,N/A
+115,Team,OFFENSIVE_REBOUND,None,1:23,4,Jazz,Thunder,108 - 122,0,N/A,N/A,N/A
+116,Abdel Nader,SUBSTITUTION,Westbrook Russell,1:23,4,Thunder,Jazz,108 - 122,1,N/A,N/A,N/A
+117,Thabo Sefolosha,FT,None,1:23,4,Jazz,Thunder,109 - 122,0,N/A,1,N/A
+118,Deonte Burton,FG_MISS,None,1:03,4,Thunder,Jazz,109 - 122,1,23,3,Jumper
+119,Georges Niang,DEFENSIVE_REBOUND,None,59.3,4,Jazz,Thunder,109 - 122,0,N/A,N/A,N/A
+120,Deonte Burton,FOUL_ON_FLOOR,None,57.0,4,Thunder,Jazz,109 - 122,1,N/A,N/A,N/A
+121,Georges Niang,FT,None,57.0,4,Jazz,Thunder,110 - 122,0,N/A,1,N/A
+122,Georges Niang,FT,None,57.0,4,Jazz,Thunder,111 - 122,0,N/A,1,N/A
+123,Nerlens Noel,TURNOVER,Thabo Sefolosha,39.4,4,Thunder,Jazz,111 - 122,1,N/A,N/A,N/A
+124,Thabo Sefolosha,FG_ASSISTED,Georges Niang,35.6,4,Jazz,Thunder,113 - 122,0,0,2,Dunk
+125,shot clock,TURNOVER,None,11.6,4,Thunder,Jazz,113 - 122,1,N/A,N/A,N/A
+126,End of,Unknown,None,0.0,4,Thunder,Jazz,113 - 122,1,N/A,N/A,N/A
+127,End of,Unknown,None,0.0,4,Thunder,Jazz,113 - 122,1,N/A,N/A,N/A

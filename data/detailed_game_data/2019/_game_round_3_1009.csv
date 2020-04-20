@@ -1,0 +1,463 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Jonah Bolden,JUMP_BALL,None,12:00,1,Heat,76ers,0 - 0,1,N/A,N/A,N/A
+1,Dwyane Wade,FG_ASSISTED,Kelly Olynyk,11:45,1,Heat,76ers,0 - 2,1,0,2,Dunk
+2,Goran Dragic,FOUL_ON_FLOOR,None,11:33,1,Heat,76ers,0 - 2,1,N/A,N/A,N/A
+3,Zhaire Smith,FT,None,11:33,1,76ers,Heat,1 - 2,0,N/A,1,N/A
+4,Zhaire Smith,FT,None,11:33,1,76ers,Heat,2 - 2,0,N/A,1,N/A
+5,Dwyane Wade,FG_MISS,None,11:19,1,Heat,76ers,2 - 2,1,23,2,Jumper
+6,Ben Simmons,DEFENSIVE_REBOUND,None,11:17,1,76ers,Heat,2 - 2,0,N/A,N/A,N/A
+7,Ben Simmons,FG_UNASSISTED,None,11:10,1,76ers,Heat,4 - 2,0,-,2,Jumper
+8,Goran Dragic,FG_MISS,None,11:03,1,Heat,76ers,4 - 2,1,24,3,Jumper
+9,Tobias Harris,DEFENSIVE_REBOUND,None,11:00,1,76ers,Heat,4 - 2,0,N/A,N/A,N/A
+10,Ben Simmons,FG_ASSISTED,Jonah Bolden,10:50,1,76ers,Heat,6 - 2,0,0,2,Layup
+11,Dwyane Wade,FG_MISS,None,10:41,1,Heat,76ers,6 - 2,1,22,3,Jumper
+12,Tobias Harris,DEFENSIVE_REBOUND,None,10:38,1,76ers,Heat,6 - 2,0,N/A,N/A,N/A
+13,Kelly Olynyk,FOUL_ON_FLOOR,None,10:38,1,Heat,76ers,6 - 2,1,N/A,N/A,N/A
+14,Ben Simmons,FT,None,10:38,1,76ers,Heat,7 - 2,0,N/A,1,N/A
+15,Ben Simmons,FT,None,10:38,1,76ers,Heat,8 - 2,0,N/A,1,N/A
+16,Justise Winslow,FG_ASSISTED,Goran Dragic,10:29,1,Heat,76ers,8 - 5,1,26,3,Jumper
+17,Tobias Harris,FG_MISS,None,10:12,1,76ers,Heat,8 - 5,0,26,3,Jumper
+18,Kelly Olynyk,DEFENSIVE_REBOUND,None,10:09,1,Heat,76ers,8 - 5,1,N/A,N/A,N/A
+19,Justise Winslow,FG_ASSISTED,Goran Dragic,9:58,1,Heat,76ers,8 - 8,1,25,3,Jumper
+20,Ben Simmons,TURNOVER,Kelly Olynyk,9:42,1,76ers,Heat,8 - 8,0,N/A,N/A,N/A
+21,Bam Adebayo,FG_ASSISTED,Dwyane Wade,9:33,1,Heat,76ers,8 - 10,1,0,2,Layup
+22,Zhaire Smith,FOUL_ON_FLOOR,None,9:33,1,76ers,Heat,8 - 10,0,N/A,N/A,N/A
+23,Bam Adebayo,FT_MISS,None,9:33,1,Heat,76ers,8 - 10,1,N/A,1,N/A
+24,Tobias Harris,DEFENSIVE_REBOUND,None,9:30,1,76ers,Heat,8 - 10,0,N/A,N/A,N/A
+25,Jonah Bolden,FG_MISS,None,9:10,1,76ers,Heat,8 - 10,0,25,3,Jumper
+26,Dwyane Wade,DEFENSIVE_REBOUND,None,9:08,1,Heat,76ers,8 - 10,1,N/A,N/A,N/A
+27,Dwyane Wade,TURNOVER,None,9:05,1,Heat,76ers,8 - 10,1,N/A,N/A,N/A
+28,Jimmy Butler,TURNOVER,None,8:46,1,76ers,Heat,8 - 10,0,N/A,N/A,N/A
+29,Jimmy Butler,FOUL_ON_FLOOR,None,8:46,1,76ers,Heat,8 - 10,0,N/A,N/A,N/A
+30,Bam Adebayo,FG_UNASSISTED,None,8:28,1,Heat,76ers,8 - 12,1,0,2,Dunk
+31,Ben Simmons,FG_MISS,None,8:17,1,76ers,Heat,8 - 12,0,0,2,Layup
+32,Kelly Olynyk,DEFENSIVE_REBOUND,None,8:15,1,Heat,76ers,8 - 12,1,N/A,N/A,N/A
+33,Kelly Olynyk,FG_ASSISTED,Goran Dragic,8:06,1,Heat,76ers,8 - 15,1,26,3,Jumper
+34,Tobias Harris,FG_UNASSISTED,None,7:52,1,76ers,Heat,10 - 15,0,9,2,Jumper
+35,Bam Adebayo,FG_MISS,None,7:40,1,Heat,76ers,10 - 15,1,11,2,Jumper
+36,Jimmy Butler,DEFENSIVE_REBOUND,None,7:38,1,76ers,Heat,10 - 15,0,N/A,N/A,N/A
+37,Jimmy Butler,FG_MISS,None,7:26,1,76ers,Heat,10 - 15,0,16,2,Jumper
+38,Bam Adebayo,DEFENSIVE_REBOUND,None,7:23,1,Heat,76ers,10 - 15,1,N/A,N/A,N/A
+39,Dwyane Wade,FG_ASSISTED,Goran Dragic,7:10,1,Heat,76ers,10 - 17,1,2,2,Jumper
+40,Team,Unknown,None,7:10,1,76ers,Heat,10 - 17,0,N/A,N/A,N/A
+41,T.J. McConnell,SUBSTITUTION,Bolden Jonah,7:10,1,76ers,Heat,10 - 17,0,N/A,N/A,N/A
+42,Boban Marjanovic,SUBSTITUTION,Smith Zhaire,7:10,1,76ers,Heat,10 - 17,0,N/A,N/A,N/A
+43,Furkan Korkmaz,SUBSTITUTION,Simmons Ben,7:10,1,76ers,Heat,10 - 17,0,N/A,N/A,N/A
+44,Tobias Harris,FG_MISS,None,6:50,1,76ers,Heat,10 - 17,0,25,3,Jumper
+45,Justise Winslow,DEFENSIVE_REBOUND,None,6:48,1,Heat,76ers,10 - 17,1,N/A,N/A,N/A
+46,T.J. McConnell,FOUL_ON_FLOOR,None,6:35,1,76ers,Heat,10 - 17,0,N/A,N/A,N/A
+47,Dwyane Wade,FT,None,6:35,1,Heat,76ers,10 - 18,1,N/A,1,N/A
+48,Dwyane Wade,FT,None,6:35,1,Heat,76ers,10 - 19,1,N/A,1,N/A
+49,Furkan Korkmaz,FG_MISS,None,6:19,1,76ers,Heat,10 - 19,0,18,2,Jumper
+50,Goran Dragic,DEFENSIVE_REBOUND,None,6:15,1,Heat,76ers,10 - 19,1,N/A,N/A,N/A
+51,Goran Dragic,TURNOVER,T.J. McConnell,6:07,1,Heat,76ers,10 - 19,1,N/A,N/A,N/A
+52,Jimmy Butler,FG_MISS,None,6:03,1,76ers,Heat,10 - 19,0, ,2,Jumper
+53,Kelly Olynyk,DEFENSIVE_REBOUND,None,5:59,1,Heat,76ers,10 - 19,1,N/A,N/A,N/A
+54,Goran Dragic,FG_MISS,None,5:56,1,Heat,76ers,10 - 19,1, ,2,Jumper
+55,Tobias Harris,DEFENSIVE_REBOUND,None,5:53,1,76ers,Heat,10 - 19,0,N/A,N/A,N/A
+56,Jimmy Butler,TURNOVER,None,5:46,1,76ers,Heat,10 - 19,0,N/A,N/A,N/A
+57,Bam Adebayo,FG_MISS,None,5:36,1,Heat,76ers,10 - 19,1,5,2,Jumper
+58,Boban Marjanovic,DEFENSIVE_REBOUND,None,5:32,1,76ers,Heat,10 - 19,0,N/A,N/A,N/A
+59,T.J. McConnell,FG_MISS,None,5:26,1,76ers,Heat,10 - 19,0,9,2,Jumper
+60,Bam Adebayo,DEFENSIVE_REBOUND,None,5:23,1,Heat,76ers,10 - 19,1,N/A,N/A,N/A
+61,Justise Winslow,FG_ASSISTED,Goran Dragic,5:18,1,Heat,76ers,10 - 22,1,24,3,Jumper
+62,Team,Unknown,None,5:16,1,76ers,Heat,10 - 22,0,N/A,N/A,N/A
+63,Dion Waiters,SUBSTITUTION,Dragic Goran,5:16,1,Heat,76ers,10 - 22,1,N/A,N/A,N/A
+64,Tobias Harris,FG_MISS,None,5:04,1,76ers,Heat,10 - 22,0,0,2,Layup
+65,Tobias Harris,OFFENSIVE_REBOUND,None,5:02,1,76ers,Heat,10 - 22,0,N/A,N/A,N/A
+66,Tobias Harris,FG_MISS,None,5:02,1,76ers,Heat,10 - 22,0, ,2,Jumper
+67,Bam Adebayo,DEFENSIVE_REBOUND,None,5:01,1,Heat,76ers,10 - 22,1,N/A,N/A,N/A
+68,Justise Winslow,FG_MISS,None,4:50,1,Heat,76ers,10 - 22,1,0,2,Layup
+69,T.J. McConnell,DEFENSIVE_REBOUND,None,4:47,1,76ers,Heat,10 - 22,0,N/A,N/A,N/A
+70,Furkan Korkmaz,FG_MISS,None,4:42,1,76ers,Heat,10 - 22,0,26,3,Jumper
+71,Kelly Olynyk,DEFENSIVE_REBOUND,None,4:39,1,Heat,76ers,10 - 22,1,N/A,N/A,N/A
+72,Dwyane Wade,FG_UNASSISTED,None,4:23,1,Heat,76ers,10 - 24,1, ,2,Jumper
+73,Boban Marjanovic,FG_UNASSISTED,None,3:57,1,76ers,Heat,12 - 24,0,12,2,Jumper
+74,Kelly Olynyk,TURNOVER,Furkan Korkmaz,3:42,1,Heat,76ers,12 - 24,1,N/A,N/A,N/A
+75,Furkan Korkmaz,FG_UNASSISTED,None,3:38,1,76ers,Heat,14 - 24,0, ,2,Jumper
+76,Team,Unknown,None,3:38,1,Heat,76ers,14 - 24,1,N/A,N/A,N/A
+77,James Johnson,SUBSTITUTION,Wade Dwyane,3:38,1,Heat,76ers,14 - 24,1,N/A,N/A,N/A
+78,Goran Dragic,SUBSTITUTION,Adebayo Bam,3:38,1,Heat,76ers,14 - 24,1,N/A,N/A,N/A
+79,Ben Simmons,SUBSTITUTION,McConnell T.J.,3:38,1,76ers,Heat,14 - 24,0,N/A,N/A,N/A
+80,Jonathon Simmons,SUBSTITUTION,Butler Jimmy,3:38,1,76ers,Heat,14 - 24,0,N/A,N/A,N/A
+81,Zhaire Smith,SUBSTITUTION,Korkmaz Furkan,3:38,1,76ers,Heat,14 - 24,0,N/A,N/A,N/A
+82,Jonah Bolden,SUBSTITUTION,Harris Tobias,3:38,1,76ers,Heat,14 - 24,0,N/A,N/A,N/A
+83,Dion Waiters,FG_MISS,None,3:15,1,Heat,76ers,14 - 24,1,25,3,Jumper
+84,Zhaire Smith,DEFENSIVE_REBOUND,None,3:13,1,76ers,Heat,14 - 24,0,N/A,N/A,N/A
+85,Ben Simmons,FG_MISS,None,3:00,1,76ers,Heat,14 - 24,0,10,2,Jumper
+86,Boban Marjanovic,OFFENSIVE_REBOUND,None,2:56,1,76ers,Heat,14 - 24,0,N/A,N/A,N/A
+87,Boban Marjanovic,FG_UNASSISTED,None,2:54,1,76ers,Heat,16 - 24,0, ,2,Jumper
+88,Jonah Bolden,FOUL_ON_FLOOR,None,2:47,1,76ers,Heat,16 - 24,0,N/A,N/A,N/A
+89,Hassan Whiteside,SUBSTITUTION,Olynyk Kelly,2:47,1,Heat,76ers,16 - 24,1,N/A,N/A,N/A
+90,Goran Dragic,FG_ASSISTED,Justise Winslow,2:39,1,Heat,76ers,16 - 27,1,25,3,Jumper
+91,Ben Simmons,FG_MISS,Hassan Whiteside,2:31,1,Heat,76ers,16 - 27,0,6,2,Jumper
+92,Team,OFFENSIVE_REBOUND,None,2:31,1,76ers,Heat,16 - 27,0,N/A,N/A,N/A
+93,Boban Marjanovic,FG_MISS,Hassan Whiteside,2:23,1,Heat,76ers,16 - 27,0,7,2,Jumper
+94,Hassan Whiteside,DEFENSIVE_REBOUND,None,2:19,1,Heat,76ers,16 - 27,1,N/A,N/A,N/A
+95,Goran Dragic,FG_MISS,None,2:11,1,Heat,76ers,16 - 27,1,15,2,Jumper
+96,Zhaire Smith,DEFENSIVE_REBOUND,None,2:09,1,76ers,Heat,16 - 27,0,N/A,N/A,N/A
+97,Jonathon Simmons,FG_MISS,None,2:03,1,76ers,Heat,16 - 27,0, ,2,Jumper
+98,James Johnson,DEFENSIVE_REBOUND,None,1:59,1,Heat,76ers,16 - 27,1,N/A,N/A,N/A
+99,Dion Waiters,FG_ASSISTED,James Johnson,1:57,1,Heat,76ers,16 - 30,1,24,3,Jumper
+100,Zhaire Smith,TURNOVER,James Johnson,1:29,1,76ers,Heat,16 - 30,0,N/A,N/A,N/A
+101,James Johnson,TURNOVER,Ben Simmons,1:25,1,Heat,76ers,16 - 30,1,N/A,N/A,N/A
+102,Dion Waiters,FOUL_ON_FLOOR,None,1:17,1,Heat,76ers,16 - 30,1,N/A,N/A,N/A
+103,Derrick Jones,SUBSTITUTION,Winslow Justise,1:17,1,Heat,76ers,16 - 30,1,N/A,N/A,N/A
+104,Zhaire Smith,FG_MISS,None,1:05,1,76ers,Heat,16 - 30,0,17,2,Jumper
+105,Boban Marjanovic,OFFENSIVE_REBOUND,None,1:03,1,76ers,Heat,16 - 30,0,N/A,N/A,N/A
+106,Boban Marjanovic,FG_UNASSISTED,None,1:01,1,76ers,Heat,18 - 30,0, ,2,Jumper
+107,Hassan Whiteside,FG_ASSISTED,James Johnson,44.5,1,Heat,76ers,18 - 32,1,0,2,Dunk
+108,Jonah Bolden,FG_MISS,None,36.9,1,76ers,Heat,18 - 32,0, ,3,Jumper
+109,James Johnson,DEFENSIVE_REBOUND,None,34.3,1,Heat,76ers,18 - 32,1,N/A,N/A,N/A
+110,Hassan Whiteside,FG_ASSISTED,James Johnson,31.3,1,Heat,76ers,18 - 34,1,5,2,Jumper
+111,Ben Simmons,FG_UNASSISTED,None,24.0,1,76ers,Heat,20 - 34,0,1,2,Jumper
+112,End of,Unknown,None,0.0,1,Heat,76ers,20 - 34,1,N/A,N/A,N/A
+0,Tobias Harris,SUBSTITUTION,Marjanovic Boban,12:00,2,76ers,Heat,20 - 34,0,N/A,N/A,N/A
+1,Zhaire Smith,FG_UNASSISTED,None,11:39,2,76ers,Heat,22 - 34,0,2,2,Jumper
+2,Zhaire Smith,FOUL_ON_FLOOR,None,11:25,2,76ers,Heat,22 - 34,0,N/A,N/A,N/A
+3,Derrick Jones,FT_MISS,None,11:25,2,Heat,76ers,22 - 34,1,N/A,1,N/A
+4,Team,OFFENSIVE_REBOUND,None,11:25,2,Heat,76ers,22 - 34,1,N/A,N/A,N/A
+5,Derrick Jones,FT,None,11:25,2,Heat,76ers,22 - 35,1,N/A,1,N/A
+6,Tobias Harris's,FG_MISS,Hassan Whiteside,11:09,2,Heat,76ers,22 - 35,0, ,2,Jumper
+7,Team,OFFENSIVE_REBOUND,None,11:09,2,76ers,Heat,22 - 35,0,N/A,N/A,N/A
+8,Zhaire Smith,FG_MISS,Hassan Whiteside,11:01,2,Heat,76ers,22 - 35,0,0,2,Layup
+9,Team,OFFENSIVE_REBOUND,None,11:01,2,76ers,Heat,22 - 35,0,N/A,N/A,N/A
+10,Ben Simmons,FG_ASSISTED,Zhaire Smith,10:57,2,76ers,Heat,24 - 35,0, ,2,Jumper
+11,Dion Waiters,FG_MISS,None,10:30,2,Heat,76ers,24 - 35,1,25,3,Jumper
+12,Ben Simmons,DEFENSIVE_REBOUND,None,10:25,2,76ers,Heat,24 - 35,0,N/A,N/A,N/A
+13,Jonah Bolden,FG_MISS,None,10:08,2,76ers,Heat,24 - 35,0,24,3,Jumper
+14,Hassan Whiteside,DEFENSIVE_REBOUND,None,10:05,2,Heat,76ers,24 - 35,1,N/A,N/A,N/A
+15,Dion Waiters,FG_MISS,None,9:58,2,Heat,76ers,24 - 35,1,0,2,Layup
+16,Hassan Whiteside,OFFENSIVE_REBOUND,None,9:56,2,Heat,76ers,24 - 35,1,N/A,N/A,N/A
+17,Hassan Whiteside,FG_UNASSISTED,None,9:53,2,Heat,76ers,24 - 37,1,5,2,Jumper
+18,Ben Simmons,FG_UNASSISTED,None,9:47,2,76ers,Heat,26 - 37,0, ,2,Jumper
+19,James Johnson,TURNOVER,Jonathon Simmons,9:31,2,Heat,76ers,26 - 37,1,N/A,N/A,N/A
+20,Jonathon Simmons,FG_UNASSISTED,None,9:28,2,76ers,Heat,28 - 37,0, ,2,Jumper
+21,Goran Dragic,FG_UNASSISTED,None,9:14,2,Heat,76ers,28 - 39,1,11,2,Jumper
+22,Tobias Harris,FG_MISS,None,8:50,2,76ers,Heat,28 - 39,0, ,2,Jumper
+23,Derrick Jones,DEFENSIVE_REBOUND,None,8:47,2,Heat,76ers,28 - 39,1,N/A,N/A,N/A
+24,James Johnson,TURNOVER,None,8:34,2,Heat,76ers,28 - 39,1,N/A,N/A,N/A
+25,T.J. McConnell,SUBSTITUTION,Simmons Jonathon,8:34,2,76ers,Heat,28 - 39,0,N/A,N/A,N/A
+26,Furkan Korkmaz,SUBSTITUTION,Simmons Ben,8:34,2,76ers,Heat,28 - 39,0,N/A,N/A,N/A
+27,Tobias Harris,FG_MISS,None,8:21,2,76ers,Heat,28 - 39,0,13,2,Jumper
+28,Hassan Whiteside,DEFENSIVE_REBOUND,None,8:19,2,Heat,76ers,28 - 39,1,N/A,N/A,N/A
+29,Hassan Whiteside,FG_ASSISTED,Goran Dragic,8:06,2,Heat,76ers,28 - 41,1,0,2,Layup
+30,Tobias Harris,FG_MISS,None,7:42,2,76ers,Heat,28 - 41,0,10,2,Jumper
+31,Hassan Whiteside,DEFENSIVE_REBOUND,None,7:40,2,Heat,76ers,28 - 41,1,N/A,N/A,N/A
+32,Furkan Korkmaz,FOUL_FLAGRANT_1,None,7:36,2,76ers,Heat,28 - 41,0,N/A,N/A,N/A
+33,Hassan Whiteside,FT_MISS,None,7:36,2,Heat,76ers,28 - 41,1,N/A,1,N/A
+34,Team,OFFENSIVE_REBOUND,None,7:36,2,Heat,76ers,28 - 41,1,N/A,N/A,N/A
+35,Hassan Whiteside,FT,None,7:36,2,Heat,76ers,28 - 42,1,N/A,1,N/A
+36,Dwyane Wade,SUBSTITUTION,Dragic Goran,7:36,2,Heat,76ers,28 - 42,1,N/A,N/A,N/A
+37,Boban Marjanovic,SUBSTITUTION,Smith Zhaire,7:36,2,76ers,Heat,28 - 42,0,N/A,N/A,N/A
+38,Jimmy Butler,SUBSTITUTION,Bolden Jonah,7:36,2,76ers,Heat,28 - 42,0,N/A,N/A,N/A
+39,Dwyane Wade,FG_UNASSISTED,None,7:25,2,Heat,76ers,28 - 44,1,0,2,Layup
+40,Hassan Whiteside,FOUL_ON_FLOOR,None,7:11,2,Heat,76ers,28 - 44,1,N/A,N/A,N/A
+41,Tobias Harris,FG_UNASSISTED,None,7:04,2,76ers,Heat,30 - 44,0,14,2,Jumper
+42,Dwyane Wade,FG_MISS,None,6:46,2,Heat,76ers,30 - 44,1,11,2,Jumper
+43,Dwyane Wade,OFFENSIVE_REBOUND,None,6:44,2,Heat,76ers,30 - 44,1,N/A,N/A,N/A
+44,Dwyane Wade,FG_MISS,None,6:42,2,Heat,76ers,30 - 44,1,7,2,Jumper
+45,Tobias Harris,DEFENSIVE_REBOUND,None,6:42,2,76ers,Heat,30 - 44,0,N/A,N/A,N/A
+46,Tobias Harris,FG_MISS,None,6:34,2,76ers,Heat,30 - 44,0,14,2,Jumper
+47,Tobias Harris,OFFENSIVE_REBOUND,None,6:33,2,76ers,Heat,30 - 44,0,N/A,N/A,N/A
+48,Boban Marjanovic,FG_ASSISTED,Tobias Harris,6:29,2,76ers,Heat,32 - 44,0,0,2,Dunk
+49,Hassan Whiteside,FG_ASSISTED,Dion Waiters,6:11,2,Heat,76ers,32 - 46,1,22,2,Jumper
+50,Tobias Harris,FG_MISS,None,5:51,2,76ers,Heat,32 - 46,0,26,3,Jumper
+51,Team,DEFENSIVE_REBOUND,None,5:51,2,Heat,76ers,32 - 46,1,N/A,N/A,N/A
+52,Team,Unknown,None,5:51,2,Heat,76ers,32 - 46,1,N/A,N/A,N/A
+53,Duncan Robinson,SUBSTITUTION,Waiters Dion,5:51,2,Heat,76ers,32 - 46,1,N/A,N/A,N/A
+54,Justise Winslow,SUBSTITUTION,Johnson James,5:51,2,Heat,76ers,32 - 46,1,N/A,N/A,N/A
+55,Dwyane Wade,TURNOVER,Boban Marjanovic,5:39,2,Heat,76ers,32 - 46,1,N/A,N/A,N/A
+56,Duncan Robinson,FOUL_ON_FLOOR,None,5:28,2,Heat,76ers,32 - 46,1,N/A,N/A,N/A
+57,Boban Marjanovic,FG_ASSISTED,Jimmy Butler,5:16,2,76ers,Heat,34 - 46,0,0,2,Layup
+58,Derrick Jones,FG_ASSISTED,Dwyane Wade,4:58,2,Heat,76ers,34 - 48,1,0,2,Dunk
+59,Jimmy Butler,FG_MISS,None,4:45,2,76ers,Heat,34 - 48,0,26,3,Jumper
+60,Hassan Whiteside,DEFENSIVE_REBOUND,None,4:42,2,Heat,76ers,34 - 48,1,N/A,N/A,N/A
+61,Furkan Korkmaz,FOUL_ON_FLOOR,None,4:35,2,76ers,Heat,34 - 48,0,N/A,N/A,N/A
+62,Dwyane Wade,FT,None,4:35,2,Heat,76ers,34 - 49,1,N/A,1,N/A
+63,Bam Adebayo,SUBSTITUTION,Whiteside Hassan,4:35,2,Heat,76ers,34 - 49,1,N/A,N/A,N/A
+64,Zhaire Smith,SUBSTITUTION,McConnell T.J.,4:35,2,76ers,Heat,34 - 49,0,N/A,N/A,N/A
+65,Ben Simmons,SUBSTITUTION,Korkmaz Furkan,4:35,2,76ers,Heat,34 - 49,0,N/A,N/A,N/A
+66,Dwyane Wade,FT,None,4:35,2,Heat,76ers,34 - 50,1,N/A,1,N/A
+67,Tobias Harris,FG_MISS,None,4:16,2,76ers,Heat,34 - 50,0,26,3,Jumper
+68,Ben Simmons,OFFENSIVE_REBOUND,None,4:13,2,76ers,Heat,34 - 50,0,N/A,N/A,N/A
+69,Ben Simmons,FG_MISS,Derrick Jones,4:09,2,Heat,76ers,34 - 50,0,11,2,Jumper
+70,Bam Adebayo,DEFENSIVE_REBOUND,None,4:05,2,Heat,76ers,34 - 50,1,N/A,N/A,N/A
+71,Justise Winslow,FG_MISS,None,4:02,2,Heat,76ers,34 - 50,1,25,3,Jumper
+72,Tobias Harris,DEFENSIVE_REBOUND,None,4:00,2,76ers,Heat,34 - 50,0,N/A,N/A,N/A
+73,Jimmy Butler,FG_ASSISTED,Tobias Harris,3:50,2,76ers,Heat,36 - 50,0,16,2,Jumper
+74,Dwyane Wade,FG_MISS,None,3:29,2,Heat,76ers,36 - 50,1,25,3,Jumper
+75,Boban Marjanovic,DEFENSIVE_REBOUND,None,3:27,2,76ers,Heat,36 - 50,0,N/A,N/A,N/A
+76,Team,Unknown,None,3:25,2,76ers,Heat,36 - 50,0,N/A,N/A,N/A
+77,Ben Simmons,FG_ASSISTED,Boban Marjanovic,3:20,2,76ers,Heat,38 - 50,0,1,2,Jumper
+78,Justise Winslow,FG_ASSISTED,Derrick Jones,2:53,2,Heat,76ers,38 - 52,1,22,2,Jumper
+79,Justise Winslow,FOUL_ON_FLOOR,None,2:47,2,Heat,76ers,38 - 53,1,N/A,N/A,N/A
+80,Tobias Harris,FG_MISS,None,2:33,2,76ers,Heat,38 - 53,0,25,3,Jumper
+81,Justise Winslow,DEFENSIVE_REBOUND,None,2:30,2,Heat,76ers,38 - 53,1,N/A,N/A,N/A
+82,Justise Winslow,FG_MISS,None,2:26,2,Heat,76ers,38 - 53,1, ,2,Jumper
+83,Derrick Jones,OFFENSIVE_REBOUND,None,2:21,2,Heat,76ers,38 - 53,1,N/A,N/A,N/A
+84,Derrick Jones,TURNOVER,Ben Simmons,2:20,2,Heat,76ers,38 - 53,1,N/A,N/A,N/A
+85,Ben Simmons,TURNOVER,None,2:18,2,76ers,Heat,38 - 53,0,N/A,N/A,N/A
+86,Bam Adebayo,FG_ASSISTED,Justise Winslow,2:03,2,Heat,76ers,38 - 55,1,0,2,Dunk
+87,Goran Dragic,SUBSTITUTION,Robinson Duncan,1:53,2,Heat,76ers,38 - 55,1,N/A,N/A,N/A
+88,Boban Marjanovic,FG_MISS,None,1:49,2,76ers,Heat,38 - 55,0,12,2,Jumper
+89,Justise Winslow,DEFENSIVE_REBOUND,None,1:49,2,Heat,76ers,38 - 55,1,N/A,N/A,N/A
+90,Ben Simmons,FOUL_ON_FLOOR,None,1:49,2,76ers,Heat,38 - 55,0,N/A,N/A,N/A
+91,Dwyane Wade,FG_ASSISTED,Bam Adebayo,1:35,2,Heat,76ers,38 - 57,1,1,2,Jumper
+92,Tobias Harris,FG_ASSISTED,Zhaire Smith,1:20,2,76ers,Heat,40 - 57,0,14,2,Jumper
+93,Bam Adebayo,FG_MISS,None,1:06,2,Heat,76ers,40 - 57,1, ,2,Jumper
+94,Tobias Harris,DEFENSIVE_REBOUND,None,1:05,2,76ers,Heat,40 - 57,0,N/A,N/A,N/A
+95,Zhaire Smith,FG_MISS,None,54.5,2,76ers,Heat,40 - 57,0,25,3,Jumper
+96,Derrick Jones,DEFENSIVE_REBOUND,None,52.3,2,Heat,76ers,40 - 57,1,N/A,N/A,N/A
+97,Ben Simmons,FOUL_ON_FLOOR,None,50.9,2,76ers,Heat,40 - 57,0,N/A,N/A,N/A
+98,Bam Adebayo,FT,None,50.9,2,Heat,76ers,40 - 58,1,N/A,1,N/A
+99,Bam Adebayo,FT,None,50.9,2,Heat,76ers,40 - 59,1,N/A,1,N/A
+100,Jimmy Butler,FG_ASSISTED,Boban Marjanovic,30.9,2,76ers,Heat,42 - 59,0,11,2,Jumper
+101,Justise Winslow,FG_ASSISTED,Goran Dragic,10.1,2,Heat,76ers,42 - 62,1,26,3,Jumper
+102,Tobias Harris,FG_MISS,None,0.6,2,76ers,Heat,42 - 62,0,26,3,Jumper
+103,Team,OFFENSIVE_REBOUND,None,0.1,2,76ers,Heat,42 - 62,0,N/A,N/A,N/A
+104,End of,Unknown,None,0.0,2,Heat,76ers,42 - 62,1,N/A,N/A,N/A
+0,Kelly Olynyk,SUBSTITUTION,Jones Derrick,12:00,3,Heat,76ers,42 - 61,1,N/A,N/A,N/A
+1,Amir Johnson,SUBSTITUTION,Butler Jimmy,12:00,3,76ers,Heat,42 - 61,0,N/A,N/A,N/A
+2,Shake Milton,SUBSTITUTION,Harris Tobias,12:00,3,76ers,Heat,42 - 61,0,N/A,N/A,N/A
+3,Greg Monroe,SUBSTITUTION,Marjanovic Boban,12:00,3,76ers,Heat,42 - 61,0,N/A,N/A,N/A
+4,Greg Monroe,FG_MISS,None,11:43,3,76ers,Heat,42 - 61,0,8,2,Jumper
+5,Goran Dragic,DEFENSIVE_REBOUND,None,11:41,3,Heat,76ers,42 - 61,1,N/A,N/A,N/A
+6,Goran Dragic,FG_MISS,None,11:32,3,Heat,76ers,42 - 61,1,25,3,Jumper
+7,Shake Milton,DEFENSIVE_REBOUND,None,11:29,3,76ers,Heat,42 - 61,0,N/A,N/A,N/A
+8,Zhaire Smith,FG_UNASSISTED,None,11:20,3,76ers,Heat,44 - 61,0,0,2,Layup
+9,Bam Adebayo,FG_ASSISTED,Goran Dragic,11:02,3,Heat,76ers,44 - 63,1,0,2,Dunk
+10,Ben Simmons,FG_MISS,None,10:49,3,76ers,Heat,44 - 63,0,10,2,Jumper
+11,Bam Adebayo,DEFENSIVE_REBOUND,None,10:47,3,Heat,76ers,44 - 63,1,N/A,N/A,N/A
+12,Dwyane Wade,FG_MISS,None,10:39,3,Heat,76ers,44 - 63,1,0,2,Layup
+13,Bam Adebayo,OFFENSIVE_REBOUND,None,10:38,3,Heat,76ers,44 - 63,1,N/A,N/A,N/A
+14,Bam Adebayo,FG_UNASSISTED,None,10:35,3,Heat,76ers,44 - 65,1,0,2,Dunk
+15,Zhaire Smith,TURNOVER,Goran Dragic,10:19,3,76ers,Heat,44 - 65,0,N/A,N/A,N/A
+16,Amir Johnson,FOUL_ON_FLOOR,None,10:18,3,76ers,Heat,44 - 65,0,N/A,N/A,N/A
+17,Kelly Olynyk,FG_ASSISTED,Bam Adebayo,10:03,3,Heat,76ers,44 - 68,1,23,3,Jumper
+18,Team,Unknown,None,10:02,3,76ers,Heat,44 - 68,0,N/A,N/A,N/A
+19,Amir Johnson,FG_MISS,None,9:37,3,76ers,Heat,44 - 68,0,11,2,Jumper
+20,Bam Adebayo,DEFENSIVE_REBOUND,None,9:35,3,Heat,76ers,44 - 68,1,N/A,N/A,N/A
+21,Amir Johnson,FOUL_ON_FLOOR,None,9:26,3,76ers,Heat,44 - 68,0,N/A,N/A,N/A
+22,Kelly Olynyk,FG_MISS,None,9:16,3,Heat,76ers,44 - 68,1,25,3,Jumper
+23,Shake Milton,DEFENSIVE_REBOUND,None,9:12,3,76ers,Heat,44 - 68,0,N/A,N/A,N/A
+24,Amir Johnson,FG_MISS,None,9:08,3,76ers,Heat,44 - 68,0,24,3,Jumper
+25,Greg Monroe,OFFENSIVE_REBOUND,None,9:06,3,76ers,Heat,44 - 68,0,N/A,N/A,N/A
+26,Greg Monroe,FG_UNASSISTED,None,9:06,3,76ers,Heat,46 - 68,0, ,2,Jumper
+27,Goran Dragic,TURNOVER,Shake Milton,8:50,3,Heat,76ers,46 - 68,1,N/A,N/A,N/A
+28,Shake Milton,FG_ASSISTED,Ben Simmons,8:43,3,76ers,Heat,49 - 68,0,25,3,Jumper
+29,Bam Adebayo,FG_ASSISTED,Goran Dragic,8:30,3,Heat,76ers,49 - 70,1,4,2,Jumper
+30,Ben Simmons,TURNOVER,None,8:23,3,76ers,Heat,49 - 70,0,N/A,N/A,N/A
+31,Ben Simmons,TURNOVER,None,8:23,3,76ers,Heat,49 - 70,0,N/A,N/A,N/A
+32,Goran Dragic,FG_MISS,None,8:09,3,Heat,76ers,49 - 70,1,17,2,Jumper
+33,Shake Milton,DEFENSIVE_REBOUND,None,8:06,3,76ers,Heat,49 - 70,0,N/A,N/A,N/A
+34,Shake Milton's,FG_MISS,Bam Adebayo,7:50,3,Heat,76ers,49 - 70,0, ,2,Jumper
+35,Shake Milton,OFFENSIVE_REBOUND,None,7:49,3,76ers,Heat,49 - 70,0,N/A,N/A,N/A
+36,Shake Milton's,FG_MISS,Bam Adebayo,7:49,3,Heat,76ers,49 - 70,0,0,2,Layup
+37,Team,OFFENSIVE_REBOUND,None,7:49,3,76ers,Heat,49 - 70,0,N/A,N/A,N/A
+38,Shake Milton,FG_MISS,None,7:44,3,76ers,Heat,49 - 70,0,26,3,Jumper
+39,Ben Simmons,OFFENSIVE_REBOUND,None,7:39,3,76ers,Heat,49 - 70,0,N/A,N/A,N/A
+40,Ben Simmons,FG_UNASSISTED,None,7:38,3,76ers,Heat,51 - 70,0,3,2,Jumper
+41,Dwyane Wade,FG_MISS,None,7:30,3,Heat,76ers,51 - 70,1,19,2,Jumper
+42,Amir Johnson,DEFENSIVE_REBOUND,None,7:27,3,76ers,Heat,51 - 70,0,N/A,N/A,N/A
+43,Ben Simmons,TURNOVER,None,7:26,3,76ers,Heat,51 - 70,0,N/A,N/A,N/A
+44,T.J. McConnell,SUBSTITUTION,Simmons Ben,7:26,3,76ers,Heat,51 - 70,0,N/A,N/A,N/A
+45,Greg Monroe,FOUL_ON_FLOOR,None,7:19,3,76ers,Heat,51 - 70,0,N/A,N/A,N/A
+46,Bam Adebayo,FT,None,7:19,3,Heat,76ers,51 - 71,1,N/A,1,N/A
+47,Jonathon Simmons,SUBSTITUTION,Smith Zhaire,7:19,3,76ers,Heat,51 - 71,0,N/A,N/A,N/A
+48,Bam Adebayo,FT_MISS,None,7:19,3,Heat,76ers,51 - 71,1,N/A,1,N/A
+49,Amir Johnson,DEFENSIVE_REBOUND,None,7:16,3,76ers,Heat,51 - 71,0,N/A,N/A,N/A
+50,Shake Milton,FG_MISS,Justise Winslow,7:05,3,Heat,76ers,51 - 71,0,25,3,Jumper
+51,Bam Adebayo,DEFENSIVE_REBOUND,None,7:02,3,Heat,76ers,51 - 71,1,N/A,N/A,N/A
+52,Justise Winslow,FG_ASSISTED,Dwyane Wade,6:57,3,Heat,76ers,51 - 73,1,0,2,Layup
+53,Justise Winslow,FOUL_ON_FLOOR,None,6:36,3,Heat,76ers,51 - 73,1,N/A,N/A,N/A
+54,Amir Johnson,FT_MISS,None,6:36,3,76ers,Heat,51 - 73,0,N/A,1,N/A
+55,Team,OFFENSIVE_REBOUND,None,6:36,3,76ers,Heat,51 - 73,0,N/A,N/A,N/A
+56,Amir Johnson,FT,None,6:36,3,76ers,Heat,52 - 73,0,N/A,1,N/A
+57,Goran Dragic,FG_MISS,None,6:21,3,Heat,76ers,52 - 73,1, ,2,Jumper
+58,Goran Dragic,OFFENSIVE_REBOUND,None,6:19,3,Heat,76ers,52 - 73,1,N/A,N/A,N/A
+59,Dwyane Wade,FG_MISS,None,6:15,3,Heat,76ers,52 - 73,1,23,3,Jumper
+60,Amir Johnson,DEFENSIVE_REBOUND,None,6:12,3,76ers,Heat,52 - 73,0,N/A,N/A,N/A
+61,Amir Johnson,FG_MISS,None,6:00,3,76ers,Heat,52 - 73,0, ,2,Jumper
+62,Team,DEFENSIVE_REBOUND,None,6:00,3,Heat,76ers,52 - 73,1,N/A,N/A,N/A
+63,Goran Dragic,TURNOVER,Jonathon Simmons,5:52,3,Heat,76ers,52 - 73,1,N/A,N/A,N/A
+64,Justise Winslow,FOUL_ON_FLOOR,None,5:52,3,Heat,76ers,52 - 73,1,N/A,N/A,N/A
+65,Haywood Highsmith,SUBSTITUTION,Johnson Amir,5:52,3,76ers,Heat,52 - 73,0,N/A,N/A,N/A
+66,Jonathon Simmons,FG_ASSISTED,Greg Monroe,5:36,3,76ers,Heat,54 - 73,0,14,2,Jumper
+67,Kelly Olynyk,FG_ASSISTED,Goran Dragic,5:12,3,Heat,76ers,54 - 75,1,3,2,Jumper
+68,Justise Winslow,FOUL_ON_FLOOR,None,4:57,3,Heat,76ers,54 - 75,1,N/A,N/A,N/A
+69,Jonathon Simmons,FT,None,4:57,3,76ers,Heat,55 - 75,0,N/A,1,N/A
+70,Dion Waiters,SUBSTITUTION,Dragic Goran,4:57,3,Heat,76ers,55 - 75,1,N/A,N/A,N/A
+71,Derrick Jones,SUBSTITUTION,Winslow Justise,4:57,3,Heat,76ers,55 - 75,1,N/A,N/A,N/A
+72,Boban Marjanovic,SUBSTITUTION,Monroe Greg,4:57,3,76ers,Heat,55 - 75,0,N/A,N/A,N/A
+73,Jonathon Simmons,FT,None,4:57,3,76ers,Heat,56 - 75,0,N/A,1,N/A
+74,Shake Milton,FOUL_ON_FLOOR,None,4:43,3,76ers,Heat,56 - 75,0,N/A,N/A,N/A
+75,Dwyane Wade,FT,None,4:43,3,Heat,76ers,56 - 76,1,N/A,1,N/A
+76,Dwyane Wade,FT,None,4:43,3,Heat,76ers,56 - 77,1,N/A,1,N/A
+77,Derrick Jones,FOUL_ON_FLOOR,None,4:31,3,Heat,76ers,56 - 77,1,N/A,N/A,N/A
+78,Jonathon Simmons,FG_MISS,Kelly Olynyk,4:19,3,Heat,76ers,56 - 77,0,9,2,Jumper
+79,Team,OFFENSIVE_REBOUND,None,4:19,3,76ers,Heat,56 - 77,0,N/A,N/A,N/A
+80,Shake Milton,FG_MISS,None,4:17,3,76ers,Heat,56 - 77,0, ,3,Jumper
+81,Team,OFFENSIVE_REBOUND,None,4:17,3,76ers,Heat,56 - 77,0,N/A,N/A,N/A
+82,shot clock,TURNOVER,None,4:17,3,76ers,Heat,56 - 77,0,N/A,N/A,N/A
+83,Dion Waiters,FG_MISS,None,3:55,3,Heat,76ers,56 - 77,1,21,2,Jumper
+84,Boban Marjanovic,DEFENSIVE_REBOUND,None,3:53,3,76ers,Heat,56 - 77,0,N/A,N/A,N/A
+85,Boban Marjanovic,TURNOVER,Bam Adebayo,3:52,3,76ers,Heat,56 - 77,0,N/A,N/A,N/A
+86,Bam Adebayo,FG_UNASSISTED,None,3:48,3,Heat,76ers,56 - 79,1,0,2,Layup
+87,Boban Marjanovic,FG_MISS,None,3:28,3,76ers,Heat,56 - 79,0,8,2,Jumper
+88,Bam Adebayo,DEFENSIVE_REBOUND,None,3:26,3,Heat,76ers,56 - 79,1,N/A,N/A,N/A
+89,Bam Adebayo,FG_UNASSISTED,None,3:18,3,Heat,76ers,56 - 81,1, ,2,Jumper
+90,Team,Unknown,None,3:18,3,76ers,Heat,56 - 81,0,N/A,N/A,N/A
+91,Goran Dragic,SUBSTITUTION,Wade Dwyane,3:18,3,Heat,76ers,56 - 81,1,N/A,N/A,N/A
+92,Boban Marjanovic,FG_ASSISTED,Jonathon Simmons,3:02,3,76ers,Heat,58 - 81,0,0,2,Dunk
+93,Dion Waiters,FG_MISS,None,2:46,3,Heat,76ers,58 - 81,1,20,2,Jumper
+94,T.J. McConnell,DEFENSIVE_REBOUND,None,2:43,3,76ers,Heat,58 - 81,0,N/A,N/A,N/A
+95,T.J. McConnell,FG_UNASSISTED,None,2:38,3,76ers,Heat,60 - 81,0,7,2,Jumper
+96,Boban Marjanovic,FOUL_ON_FLOOR,None,2:29,3,76ers,Heat,60 - 81,0,N/A,N/A,N/A
+97,Goran Dragic,FT_MISS,None,2:29,3,Heat,76ers,60 - 81,1,N/A,1,N/A
+98,Hassan Whiteside,SUBSTITUTION,Olynyk Kelly,2:29,3,Heat,76ers,60 - 81,1,N/A,N/A,N/A
+99,James Johnson,SUBSTITUTION,Adebayo Bam,2:29,3,Heat,76ers,60 - 81,1,N/A,N/A,N/A
+100,Team,OFFENSIVE_REBOUND,None,2:29,3,Heat,76ers,60 - 81,1,N/A,N/A,N/A
+101,Goran Dragic,FT,None,2:29,3,Heat,76ers,60 - 82,1,N/A,1,N/A
+102,Zhaire Smith,SUBSTITUTION,Milton Shake,2:29,3,76ers,Heat,60 - 82,0,N/A,N/A,N/A
+103,Jonathon Simmons,FG_MISS,None,2:08,3,76ers,Heat,60 - 82,0,24,3,Jumper
+104,Team,DEFENSIVE_REBOUND,None,2:08,3,Heat,76ers,60 - 82,1,N/A,N/A,N/A
+105,Goran Dragic,FG_MISS,None,1:57,3,Heat,76ers,60 - 82,1,0,2,Layup
+106,Team,OFFENSIVE_REBOUND,None,1:55,3,Heat,76ers,60 - 82,1,N/A,N/A,N/A
+107,Dion Waiters,FG_ASSISTED,Goran Dragic,1:50,3,Heat,76ers,60 - 84,1,20,2,Jumper
+108,Jonathon Simmons,TURNOVER,None,1:45,3,76ers,Heat,60 - 84,0,N/A,N/A,N/A
+109,Hassan Whiteside,FG_MISS,None,1:34,3,Heat,76ers,60 - 84,1,0,2,Layup
+110,Haywood Highsmith,DEFENSIVE_REBOUND,None,1:32,3,76ers,Heat,60 - 84,0,N/A,N/A,N/A
+111,Boban Marjanovic,FG_MISS,None,1:13,3,76ers,Heat,60 - 84,0,6,2,Jumper
+112,Hassan Whiteside,DEFENSIVE_REBOUND,None,1:11,3,Heat,76ers,60 - 84,1,N/A,N/A,N/A
+113,Hassan Whiteside,TURNOVER,T.J. McConnell,1:07,3,Heat,76ers,60 - 84,1,N/A,N/A,N/A
+114,T.J. McConnell,FG_MISS,None,1:01,3,76ers,Heat,60 - 84,0, ,2,Jumper
+115,Dion Waiters,DEFENSIVE_REBOUND,None,58.1,3,Heat,76ers,60 - 84,1,N/A,N/A,N/A
+116,Hassan Whiteside,FG_ASSISTED,Goran Dragic,55.8,3,Heat,76ers,60 - 86,1,0,2,Dunk
+117,T.J. McConnell,FG_MISS,None,40.9,3,76ers,Heat,60 - 86,0, ,2,Jumper
+118,Hassan Whiteside,DEFENSIVE_REBOUND,None,38.6,3,Heat,76ers,60 - 86,1,N/A,N/A,N/A
+119,James Johnson,TURNOVER,Boban Marjanovic,31.9,3,Heat,76ers,60 - 86,1,N/A,N/A,N/A
+120,T.J. McConnell,TURNOVER,Hassan Whiteside,24.1,3,76ers,Heat,60 - 86,0,N/A,N/A,N/A
+121,Zhaire Smith,FOUL_ON_FLOOR,None,21.2,3,76ers,Heat,60 - 86,0,N/A,N/A,N/A
+122,Derrick Jones,FT,None,21.2,3,Heat,76ers,60 - 87,1,N/A,1,N/A
+123,Derrick Jones,FT,None,21.2,3,Heat,76ers,60 - 88,1,N/A,1,N/A
+124,T.J. McConnell,TURNOVER,Hassan Whiteside,4.0,3,76ers,Heat,60 - 88,0,N/A,N/A,N/A
+125,Dion Waiters,FG_UNASSISTED,None,0.0,3,Heat,76ers,60 - 91,1,25,3,Jumper
+126,End of,Unknown,None,0.0,3,Heat,76ers,60 - 91,1,N/A,N/A,N/A
+0,enters the,SUBSTITUTION,Highsmith Haywood,12:00,4,76ers,Heat,60 - 91,0,N/A,N/A,N/A
+1,Greg Monroe,SUBSTITUTION,for game,12:00,4,76ers,Heat,60 - 91,0,N/A,N/A,N/A
+2,Amir Johnson,SUBSTITUTION,Marjanovic Boban,12:00,4,76ers,Heat,60 - 91,0,N/A,N/A,N/A
+3,Hassan Whiteside,FG_ASSISTED,Dion Waiters,11:34,4,Heat,76ers,60 - 93,1,0,2,Dunk
+4,Greg Monroe,FG_MISS,None,11:19,4,76ers,Heat,60 - 93,0,5,2,Jumper
+5,Hassan Whiteside,DEFENSIVE_REBOUND,None,11:15,4,Heat,76ers,60 - 93,1,N/A,N/A,N/A
+6,James Johnson,FG_ASSISTED,Goran Dragic,11:10,4,Heat,76ers,60 - 95,1,0,2,Dunk
+7,Team,Unknown,None,11:10,4,76ers,Heat,60 - 95,0,N/A,N/A,N/A
+8,Dion Waiters,FOUL_ON_FLOOR,None,11:05,4,Heat,76ers,60 - 95,1,N/A,N/A,N/A
+9,Dwyane Wade,SUBSTITUTION,Waiters Dion,11:05,4,Heat,76ers,60 - 95,1,N/A,N/A,N/A
+10,Udonis Haslem,SUBSTITUTION,Whiteside Hassan,11:05,4,Heat,76ers,60 - 95,1,N/A,N/A,N/A
+11,Greg Monroe,FG_ASSISTED,Jonathon Simmons,10:57,4,76ers,Heat,62 - 95,0, ,2,Jumper
+12,Dwyane Wade,TURNOVER,None,10:43,4,Heat,76ers,62 - 95,1,N/A,N/A,N/A
+13,Greg Monroe,TURNOVER,None,10:32,4,76ers,Heat,62 - 95,0,N/A,N/A,N/A
+14,Udonis Haslem,FG_MISS,None,10:20,4,Heat,76ers,62 - 95,1,21,2,Jumper
+15,Amir Johnson,DEFENSIVE_REBOUND,None,10:17,4,76ers,Heat,62 - 95,0,N/A,N/A,N/A
+16,Jonathon Simmons,TURNOVER,None,10:14,4,76ers,Heat,62 - 95,0,N/A,N/A,N/A
+17,Jonathon Simmons,TURNOVER,None,10:14,4,76ers,Heat,62 - 95,0,N/A,N/A,N/A
+18,Dwyane Wade,FG_UNASSISTED,None,9:57,4,Heat,76ers,62 - 97,1,9,2,Jumper
+19,Greg Monroe,FG_ASSISTED,Jonathon Simmons,9:44,4,76ers,Heat,64 - 97,0,4,2,Jumper
+20,Goran Dragic,FG_MISS,None,9:33,4,Heat,76ers,64 - 97,1,9,2,Jumper
+21,Greg Monroe,DEFENSIVE_REBOUND,None,9:31,4,76ers,Heat,64 - 97,0,N/A,N/A,N/A
+22,Jonathon Simmons,FG_ASSISTED,Amir Johnson,9:25,4,76ers,Heat,67 - 97,0, ,3,Jumper
+23,Dwyane Wade,FG_UNASSISTED,None,9:07,4,Heat,76ers,67 - 100,1,26,3,Jumper
+24,Greg Monroe,FG_ASSISTED,Jonathon Simmons,8:57,4,76ers,Heat,69 - 100,0,0,2,Layup
+25,Udonis Haslem,FOUL_ON_FLOOR,None,8:57,4,Heat,76ers,69 - 100,1,N/A,N/A,N/A
+26,Greg Monroe,FT,None,8:57,4,76ers,Heat,70 - 100,0,N/A,1,N/A
+27,Udonis Haslem,FG_MISS,None,8:34,4,Heat,76ers,70 - 100,1,18,2,Jumper
+28,Jonathon Simmons,DEFENSIVE_REBOUND,None,8:32,4,76ers,Heat,70 - 100,0,N/A,N/A,N/A
+29,Zhaire Smith,FG_ASSISTED,Jonathon Simmons,8:26,4,76ers,Heat,72 - 100,0,0,2,Dunk
+30,Dwyane Wade,FG_UNASSISTED,None,8:17,4,Heat,76ers,72 - 103,1,26,3,Jumper
+31,Zhaire Smith,FG_MISS,Dwyane Wade,8:03,4,Heat,76ers,72 - 103,0,23,3,Jumper
+32,Udonis Haslem,DEFENSIVE_REBOUND,None,8:00,4,Heat,76ers,72 - 103,1,N/A,N/A,N/A
+33,Udonis Haslem,TURNOVER,Jonathon Simmons,7:58,4,Heat,76ers,72 - 103,1,N/A,N/A,N/A
+34,Zhaire Smith,FG_ASSISTED,Jonathon Simmons,7:52,4,76ers,Heat,75 - 103,0,25,3,Jumper
+35,Dwyane Wade,FG_UNASSISTED,None,7:32,4,Heat,76ers,75 - 106,1,23,2,Jumper
+36,Jonathon Simmons,FG_UNASSISTED,None,7:20,4,76ers,Heat,78 - 106,0,25,3,Jumper
+37,Duncan Robinson,SUBSTITUTION,Dragic Goran,6:59,4,Heat,76ers,78 - 106,1,N/A,N/A,N/A
+38,Shake Milton,SUBSTITUTION,Smith Zhaire,6:59,4,76ers,Heat,78 - 106,0,N/A,N/A,N/A
+39,Dwyane Wade,FG_MISS,None,6:55,4,Heat,76ers,78 - 106,1,1,3,Jumper
+40,Duncan Robinson,OFFENSIVE_REBOUND,None,6:52,4,Heat,76ers,78 - 106,1,N/A,N/A,N/A
+41,Duncan Robinson,FG_UNASSISTED,None,6:49,4,Heat,76ers,78 - 108,1,0,2,Layup
+42,Shake Milton,FG_ASSISTED,Amir Johnson,6:45,4,76ers,Heat,81 - 108,0,25,3,Jumper
+43,Udonis Haslem,FG_UNASSISTED,None,6:24,4,Heat,76ers,81 - 110,1,16,2,Jumper
+44,James Johnson,FOUL_ON_FLOOR,None,6:14,4,Heat,76ers,81 - 110,1,N/A,N/A,N/A
+45,James Johnson,FOUL_ON_FLOOR,None,6:11,4,Heat,76ers,81 - 110,1,N/A,N/A,N/A
+46,Amir Johnson,FG_ASSISTED,Greg Monroe,5:57,4,76ers,Heat,83 - 110,0,0,2,Layup
+47,Udonis Haslem,FG_MISS,None,5:45,4,Heat,76ers,83 - 110,1,25,3,Jumper
+48,Shake Milton,DEFENSIVE_REBOUND,None,5:41,4,76ers,Heat,83 - 110,0,N/A,N/A,N/A
+49,T.J. McConnell,FG_MISS,None,5:35,4,76ers,Heat,83 - 110,0,17,2,Jumper
+50,James Johnson,DEFENSIVE_REBOUND,None,5:32,4,Heat,76ers,83 - 110,1,N/A,N/A,N/A
+51,Udonis Haslem,FG_MISS,None,5:12,4,Heat,76ers,83 - 110,1,17,2,Jumper
+52,Greg Monroe,DEFENSIVE_REBOUND,None,5:09,4,76ers,Heat,83 - 110,0,N/A,N/A,N/A
+53,Jonathon Simmons,FG_UNASSISTED,None,5:03,4,76ers,Heat,85 - 110,0,10,2,Jumper
+54,Dwyane Wade,FG_UNASSISTED,None,4:52,4,Heat,76ers,85 - 113,1,25,3,Jumper
+55,T.J. McConnell,FG_MISS,None,4:38,4,76ers,Heat,85 - 113,0,14,2,Jumper
+56,Udonis Haslem,DEFENSIVE_REBOUND,None,4:36,4,Heat,76ers,85 - 113,1,N/A,N/A,N/A
+57,shot clock,TURNOVER,None,4:16,4,Heat,76ers,85 - 113,1,N/A,N/A,N/A
+58,Haywood Highsmith,SUBSTITUTION,McConnell T.J.,4:16,4,76ers,Heat,85 - 113,0,N/A,N/A,N/A
+59,Haywood Highsmith,FG_MISS,None,4:09,4,76ers,Heat,85 - 113,0,26,3,Jumper
+60,Udonis Haslem,DEFENSIVE_REBOUND,None,4:04,4,Heat,76ers,85 - 113,1,N/A,N/A,N/A
+61,Greg Monroe,FOUL_ON_FLOOR,None,3:56,4,76ers,Heat,85 - 113,0,N/A,N/A,N/A
+62,Udonis Haslem,FT,None,3:56,4,Heat,76ers,85 - 114,1,N/A,1,N/A
+63,Udonis Haslem,FT,None,3:56,4,Heat,76ers,85 - 115,1,N/A,1,N/A
+64,Amir Johnson,FG_MISS,None,3:46,4,76ers,Heat,85 - 115,0,1,2,Jumper
+65,Amir Johnson,OFFENSIVE_REBOUND,None,3:41,4,76ers,Heat,85 - 115,0,N/A,N/A,N/A
+66,Amir Johnson,FG_UNASSISTED,None,3:41,4,76ers,Heat,87 - 115,0,1,2,Jumper
+67,Dwyane Wade,FG_MISS,None,3:32,4,Heat,76ers,87 - 115,1,23,3,Jumper
+68,Shake Milton,DEFENSIVE_REBOUND,None,3:30,4,76ers,Heat,87 - 115,0,N/A,N/A,N/A
+69,Jonathon Simmons,FG_MISS,None,3:23,4,76ers,Heat,87 - 115,0,10,2,Jumper
+70,Udonis Haslem,FOUL_ON_FLOOR,None,3:22,4,Heat,76ers,87 - 115,1,N/A,N/A,N/A
+71,Greg Monroe,OFFENSIVE_REBOUND,None,3:22,4,76ers,Heat,87 - 115,0,N/A,N/A,N/A
+72,Greg Monroe,FT,None,3:22,4,76ers,Heat,88 - 115,0,N/A,1,N/A
+73,Greg Monroe,FT,None,3:22,4,76ers,Heat,89 - 115,0,N/A,1,N/A
+74,Udonis Haslem,FG_MISS,None,3:09,4,Heat,76ers,89 - 115,1,26,3,Jumper
+75,Shake Milton,DEFENSIVE_REBOUND,None,3:06,4,76ers,Heat,89 - 115,0,N/A,N/A,N/A
+76,Shake Milton,FG_MISS,None,2:52,4,76ers,Heat,89 - 115,0,23,3,Jumper
+77,Shake Milton,OFFENSIVE_REBOUND,None,2:50,4,76ers,Heat,89 - 115,0,N/A,N/A,N/A
+78,Haywood Highsmith,FG_ASSISTED,Jonathon Simmons,2:44,4,76ers,Heat,91 - 115,0,2,2,Jumper
+79,Dwyane Wade,FG_MISS,None,2:26,4,Heat,76ers,91 - 115,1,1,2,Jumper
+80,Greg Monroe,DEFENSIVE_REBOUND,None,2:23,4,76ers,Heat,91 - 115,0,N/A,N/A,N/A
+81,Shake Milton,FG_MISS,None,2:19,4,76ers,Heat,91 - 115,0,1,2,Jumper
+82,Dwyane Wade,DEFENSIVE_REBOUND,None,2:17,4,Heat,76ers,91 - 115,1,N/A,N/A,N/A
+83,Dwyane Wade,FG_MISS,None,2:13,4,Heat,76ers,91 - 115,1,0,2,Layup
+84,Jonathon Simmons,DEFENSIVE_REBOUND,None,2:11,4,76ers,Heat,91 - 115,0,N/A,N/A,N/A
+85,Greg Monroe,FG_ASSISTED,Shake Milton,2:09,4,76ers,Heat,93 - 115,0,1,2,Jumper
+86,James Johnson,FOUL_ON_FLOOR,None,2:09,4,Heat,76ers,93 - 115,1,N/A,N/A,N/A
+87,Team,Unknown,None,2:09,4,Heat,76ers,93 - 115,1,N/A,N/A,N/A
+88,Greg Monroe,FT,None,2:09,4,76ers,Heat,94 - 115,0,N/A,1,N/A
+89,Dwyane Wade,FG_MISS,None,1:54,4,Heat,76ers,94 - 115,1,25,2,Jumper
+90,Amir Johnson,DEFENSIVE_REBOUND,None,1:51,4,76ers,Heat,94 - 115,0,N/A,N/A,N/A
+91,Udonis Haslem,FOUL_ON_FLOOR,None,1:49,4,Heat,76ers,94 - 115,1,N/A,N/A,N/A
+92,Greg Monroe,FT,None,1:49,4,76ers,Heat,95 - 115,0,N/A,1,N/A
+93,Greg Monroe,FT,None,1:49,4,76ers,Heat,96 - 115,0,N/A,1,N/A
+94,Udonis Haslem,FG_UNASSISTED,None,1:30,4,Heat,76ers,96 - 117,1,11,2,Jumper
+95,Haywood Highsmith,FG_MISS,None,1:17,4,76ers,Heat,96 - 117,0,2,2,Jumper
+96,Udonis Haslem,DEFENSIVE_REBOUND,None,1:14,4,Heat,76ers,96 - 117,1,N/A,N/A,N/A
+97,Greg Monroe,FOUL_ON_FLOOR,None,1:06,4,76ers,Heat,96 - 117,0,N/A,N/A,N/A
+98,Udonis Haslem,FT,None,1:06,4,Heat,76ers,96 - 118,1,N/A,1,N/A
+99,Ryan Anderson,SUBSTITUTION,Johnson James,1:06,4,Heat,76ers,96 - 118,1,N/A,N/A,N/A
+100,Udonis Haslem,FT_MISS,None,1:06,4,Heat,76ers,96 - 118,1,N/A,1,N/A
+101,Amir Johnson,DEFENSIVE_REBOUND,None,1:02,4,76ers,Heat,96 - 118,0,N/A,N/A,N/A
+102,Dwyane Wade,FOUL_ON_FLOOR,None,1:02,4,Heat,76ers,96 - 118,1,N/A,N/A,N/A
+103,Shake Milton,FT_MISS,None,1:02,4,76ers,Heat,96 - 118,0,N/A,1,N/A
+104,Team,OFFENSIVE_REBOUND,None,1:02,4,76ers,Heat,96 - 118,0,N/A,N/A,N/A
+105,Yante Maten,SUBSTITUTION,Wade Dwyane,1:02,4,Heat,76ers,96 - 118,1,N/A,N/A,N/A
+106,Derrick Jones,SUBSTITUTION,Haslem Udonis,1:02,4,Heat,76ers,96 - 118,1,N/A,N/A,N/A
+107,Shake Milton,FT,None,1:02,4,76ers,Heat,97 - 118,0,N/A,1,N/A
+108,Derrick Jones,FG_ASSISTED,James Johnson,52.7,4,Heat,76ers,97 - 120,1,0,2,Dunk
+109,Greg Monroe,FG_ASSISTED,Jonathon Simmons,42.3,4,76ers,Heat,99 - 120,0,14,2,Jumper
+110,Yante Maten,FG_MISS,None,22.7,4,Heat,76ers,99 - 120,1,0,2,Layup
+111,Yante Maten,OFFENSIVE_REBOUND,None,21.2,4,Heat,76ers,99 - 120,1,N/A,N/A,N/A
+112,Yante Maten,FG_MISS,None,20.6,4,Heat,76ers,99 - 120,1,0,2,Layup
+113,Team,OFFENSIVE_REBOUND,None,20.6,4,Heat,76ers,99 - 120,1,N/A,N/A,N/A
+114,Duncan Robinson,FG_ASSISTED,James Johnson,17.7,4,Heat,76ers,99 - 122,1,16,2,Jumper
+115,End of,Unknown,None,0.0,4,Heat,76ers,99 - 122,1,N/A,N/A,N/A
+116,End of,Unknown,None,0.0,4,Heat,76ers,99 - 122,1,N/A,N/A,N/A

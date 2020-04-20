@@ -1,0 +1,476 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Al Horford,JUMP_BALL,None,12:00,1,Celtics,Warriors,0 - 0,0,N/A,N/A,N/A
+1,Kyrie Irving,FG_UNASSISTED,None,11:43,1,Celtics,Warriors,2 - 0,0,17,2,Jumper
+2,Marcus Morris,FOUL_ON_FLOOR,None,11:27,1,Celtics,Warriors,2 - 0,0,N/A,N/A,N/A
+3,Alfonzo McKinnie,FG_MISS,None,11:16,1,Warriors,Celtics,2 - 0,1,-,3,Jumper
+4,Al Horford,DEFENSIVE_REBOUND,None,11:14,1,Celtics,Warriors,2 - 0,0,N/A,N/A,N/A
+5,Stephen Curry,FOUL_ON_FLOOR,None,11:06,1,Warriors,Celtics,2 - 0,1,N/A,N/A,N/A
+6,Marcus Morris,FG_ASSISTED,Al Horford,10:55,1,Celtics,Warriors,4 - 0,0,2,2,Jumper
+7,DeMarcus Cousins,TURNOVER,Jayson Tatum,10:34,1,Warriors,Celtics,4 - 0,1,N/A,N/A,N/A
+8,Jayson Tatum,FG_MISS,Draymond Green,10:25,1,Warriors,Celtics,4 - 0,0,0,2,Layup
+9,DeMarcus Cousins,DEFENSIVE_REBOUND,None,10:24,1,Warriors,Celtics,4 - 0,1,N/A,N/A,N/A
+10,Stephen Curry,FG_MISS,None,10:17,1,Warriors,Celtics,4 - 0,1,26,3,Jumper
+11,Jayson Tatum,DEFENSIVE_REBOUND,None,10:15,1,Celtics,Warriors,4 - 0,0,N/A,N/A,N/A
+12,Marcus Smart,FG_ASSISTED,Al Horford,10:08,1,Celtics,Warriors,6 - 0,0,23,2,Jumper
+13,DeMarcus Cousins,FG_MISS,None,9:43,1,Warriors,Celtics,6 - 0,1,27,3,Jumper
+14,Jayson Tatum,DEFENSIVE_REBOUND,None,9:41,1,Celtics,Warriors,6 - 0,0,N/A,N/A,N/A
+15,Jayson Tatum,FG_ASSISTED,Al Horford,9:32,1,Celtics,Warriors,8 - 0,0,0,2,Layup
+16,DeMarcus Cousins,FOUL_ON_FLOOR,None,9:32,1,Warriors,Celtics,8 - 0,1,N/A,N/A,N/A
+17,Jayson Tatum,FT,None,9:32,1,Celtics,Warriors,9 - 0,0,N/A,1,N/A
+18,Kevin Durant,FG_MISS,None,9:15,1,Warriors,Celtics,9 - 0,1,14,2,Jumper
+19,Kyrie Irving,DEFENSIVE_REBOUND,None,9:14,1,Celtics,Warriors,9 - 0,0,N/A,N/A,N/A
+20,Kyrie Irving,FG_MISS,None,9:09,1,Celtics,Warriors,9 - 0,0,30,3,Jumper
+21,DeMarcus Cousins,DEFENSIVE_REBOUND,None,9:07,1,Warriors,Celtics,9 - 0,1,N/A,N/A,N/A
+22,Alfonzo McKinnie,TURNOVER,Kyrie Irving,8:50,1,Warriors,Celtics,9 - 0,1,N/A,N/A,N/A
+23,Marcus Morris,FG_ASSISTED,Kyrie Irving,8:44,1,Celtics,Warriors,11 - 0,0,18,2,Jumper
+24,Damion Lee,SUBSTITUTION,McKinnie Alfonzo,8:42,1,Warriors,Celtics,11 - 0,1,N/A,N/A,N/A
+25,Team,Unknown,None,8:42,1,Warriors,Celtics,11 - 0,1,N/A,N/A,N/A
+26,Stephen Curry,FG_UNASSISTED,None,8:26,1,Warriors,Celtics,11 - 2,1,20,2,Jumper
+27,Kyrie Irving,FG_MISS,None,8:07,1,Celtics,Warriors,11 - 2,0,28,3,Jumper
+28,Draymond Green,DEFENSIVE_REBOUND,None,8:05,1,Warriors,Celtics,11 - 2,1,N/A,N/A,N/A
+29,Damion Lee,FG_ASSISTED,Draymond Green,7:59,1,Warriors,Celtics,11 - 4,1,0,2,Layup
+30,Marcus Smart,FG_MISS,None,7:46,1,Celtics,Warriors,11 - 4,0,26,3,Jumper
+31,Draymond Green,DEFENSIVE_REBOUND,None,7:44,1,Warriors,Celtics,11 - 4,1,N/A,N/A,N/A
+32,Stephen Curry,FG_ASSISTED,Draymond Green,7:41,1,Warriors,Celtics,11 - 7,1,26,3,Jumper
+33,Jayson Tatum,FG_ASSISTED,Kyrie Irving,7:14,1,Celtics,Warriors,13 - 7,0,5,2,Jumper
+34,DeMarcus Cousins,FG_UNASSISTED,None,7:01,1,Warriors,Celtics,13 - 9,1,0,2,Layup
+35,Al Horford,FG_MISS,None,6:43,1,Celtics,Warriors,13 - 9,0,8,2,Jumper
+36,DeMarcus Cousins,DEFENSIVE_REBOUND,None,6:42,1,Warriors,Celtics,13 - 9,1,N/A,N/A,N/A
+37,Draymond Green,FG_ASSISTED,DeMarcus Cousins,6:23,1,Warriors,Celtics,13 - 12,1,27,3,Jumper
+38,Damion Lee,FOUL_ON_FLOOR,None,6:03,1,Warriors,Celtics,13 - 12,1,N/A,N/A,N/A
+39,Jaylen Brown,SUBSTITUTION,Tatum Jayson,6:03,1,Celtics,Warriors,13 - 12,0,N/A,N/A,N/A
+40,Aron Baynes,SUBSTITUTION,Morris Marcus,6:03,1,Celtics,Warriors,13 - 12,0,N/A,N/A,N/A
+41,Gordon Hayward,SUBSTITUTION,Horford Al,6:03,1,Celtics,Warriors,13 - 12,0,N/A,N/A,N/A
+42,Aron Baynes,FG_MISS,None,5:58,1,Celtics,Warriors,13 - 12,0,28,3,Jumper
+43,Damion Lee,DEFENSIVE_REBOUND,None,5:56,1,Warriors,Celtics,13 - 12,1,N/A,N/A,N/A
+44,Kevin Durant,FOUL_ON_FLOOR,None,5:46,1,Warriors,Celtics,13 - 12,1,N/A,N/A,N/A
+45,Kevin Durant,TURNOVER,None,5:46,1,Warriors,Celtics,13 - 12,1,N/A,N/A,N/A
+46,Gordon Hayward,FG_ASSISTED,Kyrie Irving,5:38,1,Celtics,Warriors,16 - 12,0,27,3,Jumper
+47,DeMarcus Cousins,FOUL_ON_FLOOR,None,5:24,1,Warriors,Celtics,16 - 12,1,N/A,N/A,N/A
+48,DeMarcus Cousins,TURNOVER,None,5:24,1,Warriors,Celtics,16 - 12,1,N/A,N/A,N/A
+49,Jordan Bell,SUBSTITUTION,Green Draymond,5:24,1,Warriors,Celtics,16 - 12,1,N/A,N/A,N/A
+50,Marcus Smart,FG_ASSISTED,Kyrie Irving,5:02,1,Celtics,Warriors,19 - 12,0,27,2,Jumper
+51,Stephen Curry,FG_UNASSISTED,None,4:42,1,Warriors,Celtics,19 - 14,1,18,2,Jumper
+52,Gordon Hayward,FG_MISS,None,4:27,1,Celtics,Warriors,19 - 12,0,26,3,Jumper
+53,DeMarcus Cousins,DEFENSIVE_REBOUND,None,4:25,1,Warriors,Celtics,19 - 14,1,N/A,N/A,N/A
+54,Kevin Durant,FG_MISS,None,4:19,1,Warriors,Celtics,19 - 12,1,26,3,Jumper
+55,Aron Baynes,DEFENSIVE_REBOUND,None,4:17,1,Celtics,Warriors,19 - 14,0,N/A,N/A,N/A
+56,Kyrie Irving,FG_ASSISTED,Aron Baynes,4:08,1,Celtics,Warriors,22 - 14,0,31,3,Jumper
+57,Andre Iguodala,SUBSTITUTION,Cousins DeMarcus,4:02,1,Warriors,Celtics,22 - 14,1,N/A,N/A,N/A
+58,Kevin Durant,FG_ASSISTED,Stephen Curry,3:58,1,Warriors,Celtics,22 - 16,1,13,2,Jumper
+59,Jaylen Brown,FG_ASSISTED,Kyrie Irving,3:35,1,Celtics,Warriors,24 - 16,0,4,2,Jumper
+60,Damion Lee,FG_MISS,None,3:22,1,Warriors,Celtics,24 - 16,1,27,3,Jumper
+61,Aron Baynes,DEFENSIVE_REBOUND,None,3:20,1,Celtics,Warriors,24 - 16,0,N/A,N/A,N/A
+62,Gordon Hayward,FG_ASSISTED,Aron Baynes,3:07,1,Celtics,Warriors,26 - 16,0,9,2,Jumper
+63,Damion Lee,FG_ASSISTED,Andre Iguodala,2:52,1,Warriors,Celtics,26 - 18,1, ,2,Jumper
+64,Team,Unknown,None,2:52,1,Celtics,Warriors,26 - 18,0,N/A,N/A,N/A
+65,Quinn Cook,SUBSTITUTION,Curry Stephen,2:52,1,Warriors,Celtics,26 - 18,1,N/A,N/A,N/A
+66,Al Horford,SUBSTITUTION,Baynes Aron,2:52,1,Celtics,Warriors,26 - 18,0,N/A,N/A,N/A
+67,Andre Iguodala,FOUL_ON_FLOOR,None,2:36,1,Warriors,Celtics,26 - 18,1,N/A,N/A,N/A
+68,Terry Rozier,SUBSTITUTION,Smart Marcus,2:36,1,Celtics,Warriors,26 - 18,0,N/A,N/A,N/A
+69,Kyrie Irving,FG_UNASSISTED,None,2:24,1,Celtics,Warriors,28 - 18,0,0,2,Layup
+70,Jaylen Brown,FOUL_ON_FLOOR,None,2:14,1,Celtics,Warriors,28 - 18,0,N/A,N/A,N/A
+71,Quinn Cook,FG_ASSISTED,Jordan Bell,2:07,1,Warriors,Celtics,28 - 21,1,25,3,Jumper
+72,Terry Rozier,FG_MISS,None,1:54,1,Celtics,Warriors,28 - 21,0,10,2,Jumper
+73,Jordan Bell,DEFENSIVE_REBOUND,None,1:53,1,Warriors,Celtics,28 - 21,1,N/A,N/A,N/A
+74,Al Horford,FOUL_ON_FLOOR,None,1:47,1,Celtics,Warriors,28 - 21,0,N/A,N/A,N/A
+75,Jordan Bell,FT,None,1:47,1,Warriors,Celtics,28 - 22,1,N/A,1,N/A
+76,Jordan Bell,FT_MISS,None,1:47,1,Warriors,Celtics,28 - 22,1,N/A,1,N/A
+77,Gordon Hayward,DEFENSIVE_REBOUND,None,1:46,1,Celtics,Warriors,28 - 22,0,N/A,N/A,N/A
+78,Kyrie Irving,TURNOVER,Kevin Durant,1:35,1,Celtics,Warriors,28 - 22,0,N/A,N/A,N/A
+79,Kyrie Irving,FOUL_ON_FLOOR,None,1:31,1,Celtics,Warriors,28 - 22,0,N/A,N/A,N/A
+80,Kevin Durant,FT,None,1:31,1,Warriors,Celtics,28 - 23,1,N/A,1,N/A
+81,Kevin Durant,FT,None,1:31,1,Warriors,Celtics,28 - 24,1,N/A,1,N/A
+82,Kyrie Irving,TURNOVER,None,1:22,1,Celtics,Warriors,28 - 24,0,N/A,N/A,N/A
+83,Kevin Durant,TURNOVER,None,1:10,1,Warriors,Celtics,28 - 24,1,N/A,N/A,N/A
+84,Gordon Hayward,FG_ASSISTED,Terry Rozier,54.1,1,Celtics,Warriors,30 - 24,0,14,2,Jumper
+85,Kevin Durant,FG_MISS,None,45.5,1,Warriors,Celtics,30 - 24,1,19,2,Jumper
+86,Kyrie Irving,DEFENSIVE_REBOUND,None,44.9,1,Celtics,Warriors,30 - 24,0,N/A,N/A,N/A
+87,Terry Rozier,FG_ASSISTED,Gordon Hayward,37.4,1,Celtics,Warriors,32 - 24,0,0,2,Layup
+88,Kevin Durant,FG_MISS,None,24.1,1,Warriors,Celtics,32 - 24,1,0,2,Layup
+89,Jaylen Brown,DEFENSIVE_REBOUND,None,23.5,1,Celtics,Warriors,32 - 24,0,N/A,N/A,N/A
+90,Jaylen Brown,FG_MISS,None,15.9,1,Celtics,Warriors,32 - 24,0,3,2,Jumper
+91,Andre Iguodala,DEFENSIVE_REBOUND,None,14.0,1,Warriors,Celtics,32 - 24,1,N/A,N/A,N/A
+92,Andre Iguodala,FG_MISS,None,2.2,1,Warriors,Celtics,32 - 24,1,25,3,Jumper
+93,Jaylen Brown,DEFENSIVE_REBOUND,None,0.8,1,Celtics,Warriors,32 - 24,0,N/A,N/A,N/A
+94,End of,Unknown,None,0.0,1,Warriors,Celtics,32 - 24,1,N/A,N/A,N/A
+0,Draymond Green,SUBSTITUTION,Lee Damion,12:00,2,Warriors,Celtics,32 - 24,1,N/A,N/A,N/A
+1,DeMarcus Cousins,SUBSTITUTION,Bell Jordan,12:00,2,Warriors,Celtics,32 - 24,1,N/A,N/A,N/A
+2,Jacob Evans,SUBSTITUTION,Durant Kevin,12:00,2,Warriors,Celtics,32 - 24,1,N/A,N/A,N/A
+3,Aron Baynes,SUBSTITUTION,Irving Kyrie,12:00,2,Celtics,Warriors,32 - 24,0,N/A,N/A,N/A
+4,Jayson Tatum,SUBSTITUTION,Horford Al,12:00,2,Celtics,Warriors,32 - 24,0,N/A,N/A,N/A
+5,Aron Baynes,FOUL_ON_FLOOR,None,11:42,2,Celtics,Warriors,32 - 24,0,N/A,N/A,N/A
+6,DeMarcus Cousins,FG_MISS,None,11:30,2,Warriors,Celtics,32 - 24,1,0,2,Layup
+7,Aron Baynes,DEFENSIVE_REBOUND,None,11:29,2,Celtics,Warriors,32 - 24,0,N/A,N/A,N/A
+8,Jayson Tatum,FG_ASSISTED,Terry Rozier,11:25,2,Celtics,Warriors,35 - 24,0,28,3,Jumper
+9,Quinn Cook,FG_MISS,None,11:12,2,Warriors,Celtics,35 - 24,1,15,2,Jumper
+10,Terry Rozier,DEFENSIVE_REBOUND,None,11:11,2,Celtics,Warriors,35 - 24,0,N/A,N/A,N/A
+11,Terry Rozier,FG_UNASSISTED,None,11:03,2,Celtics,Warriors,37 - 24,0, ,2,Jumper
+12,DeMarcus Cousins,FG_MISS,None,10:50,2,Warriors,Celtics,37 - 24,1,25,3,Jumper
+13,Jacob Evans,OFFENSIVE_REBOUND,None,10:48,2,Warriors,Celtics,37 - 24,1,N/A,N/A,N/A
+14,Draymond Green,FG_MISS,None,10:35,2,Warriors,Celtics,37 - 24,1,27,3,Jumper
+15,Gordon Hayward,DEFENSIVE_REBOUND,None,10:33,2,Celtics,Warriors,37 - 24,0,N/A,N/A,N/A
+16,Jacob Evans,FOUL_ON_FLOOR,None,10:16,2,Warriors,Celtics,37 - 24,1,N/A,N/A,N/A
+17,Stephen Curry,SUBSTITUTION,Cook Quinn,10:16,2,Warriors,Celtics,37 - 24,1,N/A,N/A,N/A
+18,Gordon Hayward,FG_ASSISTED,Aron Baynes,10:08,2,Celtics,Warriors,40 - 24,0,27,3,Jumper
+19,Terry Rozier,FOUL_ON_FLOOR,None,9:58,2,Celtics,Warriors,40 - 24,0,N/A,N/A,N/A
+20,Stephen Curry,FG_ASSISTED,Draymond Green,9:47,2,Warriors,Celtics,40 - 27,1,28,3,Jumper
+21,Jaylen Brown,FG_ASSISTED,Jayson Tatum,9:41,2,Celtics,Warriors,43 - 27,0,28,3,Jumper
+22,DeMarcus Cousins,FOUL_ON_FLOOR,None,9:20,2,Warriors,Celtics,43 - 27,1,N/A,N/A,N/A
+23,DeMarcus Cousins,TURNOVER,None,9:20,2,Warriors,Celtics,43 - 27,1,N/A,N/A,N/A
+24,Jonas Jerebko,SUBSTITUTION,Cousins DeMarcus,9:20,2,Warriors,Celtics,43 - 27,1,N/A,N/A,N/A
+25,Draymond Green,FOUL_ON_FLOOR,None,9:06,2,Warriors,Celtics,43 - 27,1,N/A,N/A,N/A
+26,Jayson Tatum,FG_UNASSISTED,None,8:53,2,Celtics,Warriors,45 - 27,0,20,2,Jumper
+27,Jonas Jerebko,FG_MISS,None,8:40,2,Warriors,Celtics,45 - 27,1,23,3,Jumper
+28,Jacob Evans,OFFENSIVE_REBOUND,None,8:38,2,Warriors,Celtics,45 - 27,1,N/A,N/A,N/A
+29,Stephen Curry,FG_ASSISTED,Draymond Green,8:34,2,Warriors,Celtics,45 - 30,1,26,3,Jumper
+30,Jayson Tatum,TURNOVER,Draymond Green,8:28,2,Celtics,Warriors,45 - 30,0,N/A,N/A,N/A
+31,Jonas Jerebko,FG_ASSISTED,Draymond Green,8:12,2,Warriors,Celtics,45 - 32,1, ,2,Jumper
+32,Jonas Jerebko,FOUL_ON_FLOOR,None,8:00,2,Warriors,Celtics,45 - 32,1,N/A,N/A,N/A
+33,Gordon Hayward,FT,None,8:00,2,Celtics,Warriors,46 - 32,0,N/A,1,N/A
+34,Alfonzo McKinnie,SUBSTITUTION,Iguodala Andre,8:00,2,Warriors,Celtics,46 - 32,1,N/A,N/A,N/A
+35,Al Horford,SUBSTITUTION,Baynes Aron,8:00,2,Celtics,Warriors,46 - 32,0,N/A,N/A,N/A
+36,Gordon Hayward,FT,None,8:00,2,Celtics,Warriors,47 - 32,0,N/A,1,N/A
+37,Stephen Curry,FG_MISS,None,7:47,2,Warriors,Celtics,47 - 32,1,11,2,Jumper
+38,Gordon Hayward,DEFENSIVE_REBOUND,None,7:46,2,Celtics,Warriors,47 - 32,0,N/A,N/A,N/A
+39,Jaylen Brown,FG_ASSISTED,Al Horford,7:29,2,Celtics,Warriors,49 - 32,0,0,2,Dunk
+40,Draymond Green,TURNOVER,Jayson Tatum,7:10,2,Warriors,Celtics,49 - 32,1,N/A,N/A,N/A
+41,Jaylen Brown,FOUL_ON_FLOOR,None,7:08,2,Celtics,Warriors,49 - 32,0,N/A,N/A,N/A
+42,Jaylen Brown,TURNOVER,None,7:08,2,Celtics,Warriors,49 - 32,0,N/A,N/A,N/A
+43,Kevin Durant,SUBSTITUTION,Evans Jacob,7:08,2,Warriors,Celtics,49 - 32,1,N/A,N/A,N/A
+44,Marcus Morris,SUBSTITUTION,Hayward Gordon,7:08,2,Celtics,Warriors,49 - 32,0,N/A,N/A,N/A
+45,Terry Rozier,FOUL_ON_FLOOR,None,6:59,2,Celtics,Warriors,49 - 32,0,N/A,N/A,N/A
+46,Team,Unknown,None,6:59,2,Warriors,Celtics,49 - 32,1,N/A,N/A,N/A
+47,Kevin Durant,FT,None,6:59,2,Warriors,Celtics,49 - 33,1,N/A,1,N/A
+48,Kevin Durant,FT,None,6:59,2,Warriors,Celtics,49 - 34,1,N/A,1,N/A
+49,Jaylen Brown,FG_ASSISTED,Marcus Morris,6:48,2,Celtics,Warriors,51 - 34,0,0,2,Layup
+50,Jonas Jerebko,TURNOVER,Al Horford,6:33,2,Warriors,Celtics,51 - 34,1,N/A,N/A,N/A
+51,Jayson Tatum,FG_MISS,Jonas Jerebko,6:27,2,Warriors,Celtics,51 - 34,0,0,2,Layup
+52,Team,OFFENSIVE_REBOUND,None,6:26,2,Celtics,Warriors,51 - 34,0,N/A,N/A,N/A
+53,Terry Rozier,FG_MISS,None,6:14,2,Celtics,Warriors,51 - 34,0,0,2,Layup
+54,Jonas Jerebko,DEFENSIVE_REBOUND,None,6:13,2,Warriors,Celtics,51 - 34,1,N/A,N/A,N/A
+55,Marcus Morris,FOUL_ON_FLOOR,None,6:04,2,Celtics,Warriors,51 - 34,0,N/A,N/A,N/A
+56,Damion Lee,SUBSTITUTION,McKinnie Alfonzo,6:04,2,Warriors,Celtics,51 - 34,1,N/A,N/A,N/A
+57,Kyrie Irving,SUBSTITUTION,Brown Jaylen,6:04,2,Celtics,Warriors,51 - 34,0,N/A,N/A,N/A
+58,Marcus Smart,SUBSTITUTION,Rozier Terry,6:04,2,Celtics,Warriors,51 - 34,0,N/A,N/A,N/A
+59,Stephen Curry,FG_MISS,None,5:59,2,Warriors,Celtics,51 - 34,1,27,3,Jumper
+60,Al Horford,DEFENSIVE_REBOUND,None,5:57,2,Celtics,Warriors,51 - 34,0,N/A,N/A,N/A
+61,Marcus Morris,FG_MISS,None,5:44,2,Celtics,Warriors,51 - 34,0,28,3,Jumper
+62,Team,DEFENSIVE_REBOUND,None,5:42,2,Warriors,Celtics,51 - 34,1,N/A,N/A,N/A
+63,Al Horford,FOUL_ON_FLOOR,None,5:42,2,Celtics,Warriors,51 - 34,0,N/A,N/A,N/A
+64,Jonas Jerebko,FT,None,5:42,2,Warriors,Celtics,51 - 35,1,N/A,1,N/A
+65,Jonas Jerebko,FT,None,5:42,2,Warriors,Celtics,51 - 36,1,N/A,1,N/A
+66,Al Horford,FG_ASSISTED,Kyrie Irving,5:30,2,Celtics,Warriors,53 - 36,0,8,2,Jumper
+67,Stephen Curry,FG_ASSISTED,Jonas Jerebko,5:20,2,Warriors,Celtics,53 - 39,1,25,3,Jumper
+68,Kyrie Irving,FG_MISS,None,5:08,2,Celtics,Warriors,53 - 39,0,18,2,Jumper
+69,Jonas Jerebko,DEFENSIVE_REBOUND,None,5:07,2,Warriors,Celtics,53 - 39,1,N/A,N/A,N/A
+70,Kevin Durant,FG_MISS,None,5:00,2,Warriors,Celtics,53 - 39,1,27,3,Jumper
+71,Marcus Morris,DEFENSIVE_REBOUND,None,4:58,2,Celtics,Warriors,53 - 39,0,N/A,N/A,N/A
+72,Draymond Green,FOUL_ON_FLOOR,None,4:48,2,Warriors,Celtics,53 - 39,1,N/A,N/A,N/A
+73,Jayson Tatum,FT,None,4:48,2,Celtics,Warriors,54 - 39,0,N/A,1,N/A
+74,Jordan Bell,SUBSTITUTION,Jerebko Jonas,4:48,2,Warriors,Celtics,54 - 39,1,N/A,N/A,N/A
+75,Daniel Theis,SUBSTITUTION,Horford Al,4:48,2,Celtics,Warriors,54 - 39,0,N/A,N/A,N/A
+76,Jayson Tatum,FT,None,4:48,2,Celtics,Warriors,55 - 39,0,N/A,1,N/A
+77,Daniel Theis,FOUL_ON_FLOOR,None,4:41,2,Celtics,Warriors,55 - 39,0,N/A,N/A,N/A
+78,Kevin Durant,FT_MISS,None,4:41,2,Warriors,Celtics,55 - 39,1,N/A,1,N/A
+79,Team,OFFENSIVE_REBOUND,None,4:41,2,Warriors,Celtics,55 - 39,1,N/A,N/A,N/A
+80,Kevin Durant,FT,None,4:41,2,Warriors,Celtics,55 - 40,1,N/A,1,N/A
+81,Stephen Curry,FOUL_ON_FLOOR,None,4:25,2,Warriors,Celtics,55 - 40,1,N/A,N/A,N/A
+82,Kyrie Irving,FT,None,4:25,2,Celtics,Warriors,56 - 40,0,N/A,1,N/A
+83,Kyrie Irving,FT,None,4:25,2,Celtics,Warriors,57 - 40,0,N/A,1,N/A
+84,Kevin Durant,FG_MISS,None,4:08,2,Warriors,Celtics,57 - 40,1,0,2,Layup
+85,Draymond Green,OFFENSIVE_REBOUND,None,4:07,2,Warriors,Celtics,57 - 40,1,N/A,N/A,N/A
+86,Draymond Green,FG_UNASSISTED,None,4:07,2,Warriors,Celtics,57 - 42,1, ,2,Jumper
+87,Kyrie Irving,FG_UNASSISTED,None,4:00,2,Celtics,Warriors,59 - 42,0,20,2,Jumper
+88,Kevin Durant,FG_ASSISTED,Stephen Curry,3:53,2,Warriors,Celtics,59 - 44,1,0,2,Dunk
+89,Team,Unknown,None,3:53,2,Celtics,Warriors,59 - 44,0,N/A,N/A,N/A
+90,Gordon Hayward,SUBSTITUTION,Tatum Jayson,3:53,2,Celtics,Warriors,59 - 44,0,N/A,N/A,N/A
+91,Kyrie Irving,FG_MISS,None,3:42,2,Celtics,Warriors,59 - 44,0,17,2,Jumper
+92,Draymond Green,DEFENSIVE_REBOUND,None,3:41,2,Warriors,Celtics,59 - 44,1,N/A,N/A,N/A
+93,Kevin Durant,TURNOVER,Gordon Hayward,3:34,2,Warriors,Celtics,59 - 44,1,N/A,N/A,N/A
+94,Marcus Morris,FG_MISS,None,3:28,2,Celtics,Warriors,59 - 44,0,15,2,Jumper
+95,Daniel Theis,OFFENSIVE_REBOUND,None,3:27,2,Celtics,Warriors,59 - 44,0,N/A,N/A,N/A
+96,Gordon Hayward,FG_ASSISTED,Daniel Theis,3:22,2,Celtics,Warriors,62 - 44,0,28,3,Jumper
+97,Kevin Durant,FOUL_ON_FLOOR,None,3:06,2,Warriors,Celtics,62 - 44,1,N/A,N/A,N/A
+98,Kevin Durant,TURNOVER,None,3:06,2,Warriors,Celtics,62 - 44,1,N/A,N/A,N/A
+99,Jaylen Brown,SUBSTITUTION,Morris Marcus,3:06,2,Celtics,Warriors,62 - 44,0,N/A,N/A,N/A
+100,Daniel Theis,TURNOVER,None,2:54,2,Celtics,Warriors,62 - 44,0,N/A,N/A,N/A
+101,Stephen Curry,TURNOVER,Marcus Smart,2:49,2,Warriors,Celtics,62 - 44,1,N/A,N/A,N/A
+102,Gordon Hayward,FG_ASSISTED,Marcus Smart,2:40,2,Celtics,Warriors,64 - 44,0, ,2,Jumper
+103,Jaylen Brown,FOUL_ON_FLOOR,None,2:30,2,Celtics,Warriors,64 - 44,0,N/A,N/A,N/A
+104,Stephen Curry,FT,None,2:30,2,Warriors,Celtics,64 - 45,1,N/A,1,N/A
+105,Stephen Curry,FT,None,2:30,2,Warriors,Celtics,64 - 46,1,N/A,1,N/A
+106,Marcus Morris,SUBSTITUTION,Brown Jaylen,2:30,2,Celtics,Warriors,64 - 46,0,N/A,N/A,N/A
+107,Stephen Curry,FT,None,2:30,2,Warriors,Celtics,64 - 47,1,N/A,1,N/A
+108,Kyrie Irving,FG_MISS,None,2:21,2,Celtics,Warriors,64 - 47,0,15,2,Jumper
+109,Draymond Green,DEFENSIVE_REBOUND,None,2:20,2,Warriors,Celtics,64 - 47,1,N/A,N/A,N/A
+110,Jordan Bell,FG_MISS,None,2:13,2,Warriors,Celtics,64 - 47,1,0,2,Dunk
+111,Marcus Smart,DEFENSIVE_REBOUND,None,2:12,2,Celtics,Warriors,64 - 47,0,N/A,N/A,N/A
+112,Marcus Morris,FG_ASSISTED,Gordon Hayward,2:06,2,Celtics,Warriors,67 - 47,0,23,3,Jumper
+113,Stephen Curry,FG_MISS,None,1:51,2,Warriors,Celtics,67 - 47,1,27,3,Jumper
+114,Kyrie Irving,DEFENSIVE_REBOUND,None,1:49,2,Celtics,Warriors,67 - 47,0,N/A,N/A,N/A
+115,Gordon Hayward,FG_ASSISTED,Marcus Smart,1:37,2,Celtics,Warriors,69 - 47,0, ,2,Jumper
+116,Kevin Durant,FG_MISS,None,1:21,2,Warriors,Celtics,69 - 47,1,13,2,Jumper
+117,Jordan Bell,OFFENSIVE_REBOUND,None,1:20,2,Warriors,Celtics,69 - 47,1,N/A,N/A,N/A
+118,Jordan Bell,TURNOVER,None,1:14,2,Warriors,Celtics,69 - 47,1,N/A,N/A,N/A
+119,Marcus Morris,TURNOVER,None,1:04,2,Celtics,Warriors,69 - 47,0,N/A,N/A,N/A
+120,Marcus Morris,TURNOVER,None,1:04,2,Celtics,Warriors,69 - 47,0,N/A,N/A,N/A
+121,Semi Ojeleye,SUBSTITUTION,Morris Marcus,1:04,2,Celtics,Warriors,69 - 47,0,N/A,N/A,N/A
+122,Gordon Hayward,FOUL_ON_FLOOR,None,51.6,2,Celtics,Warriors,69 - 47,0,N/A,N/A,N/A
+123,Kevin Durant,FT,None,51.6,2,Warriors,Celtics,69 - 48,1,N/A,1,N/A
+124,Kevin Durant,FT_MISS,None,51.6,2,Warriors,Celtics,69 - 48,1,N/A,1,N/A
+125,Gordon Hayward,DEFENSIVE_REBOUND,None,50.3,2,Celtics,Warriors,69 - 48,0,N/A,N/A,N/A
+126,Marcus Smart,FG_MISS,None,37.8,2,Celtics,Warriors,69 - 48,0,23,3,Jumper
+127,Daniel Theis,OFFENSIVE_REBOUND,None,34.1,2,Celtics,Warriors,69 - 48,0,N/A,N/A,N/A
+128,Kyrie Irving,FG_UNASSISTED,None,28.8,2,Celtics,Warriors,71 - 48,0, ,2,Jumper
+129,Damion Lee,FG_MISS,None,8.9,2,Warriors,Celtics,71 - 48,1,25,3,Jumper
+130,Daniel Theis,DEFENSIVE_REBOUND,None,7.3,2,Celtics,Warriors,71 - 48,0,N/A,N/A,N/A
+131,Marcus Smart,FG_ASSISTED,Daniel Theis,2.6,2,Celtics,Warriors,73 - 48,0,23,2,Jumper
+132,Stephen Curry,FG_MISS,None,0.1,2,Warriors,Celtics,73 - 48,1,54,3,Jumper
+133,Team,OFFENSIVE_REBOUND,None,0.1,2,Warriors,Celtics,73 - 48,1,N/A,N/A,N/A
+134,End of,Unknown,None,0.0,2,Warriors,Celtics,73 - 48,1,N/A,N/A,N/A
+0,DeMarcus Cousins,SUBSTITUTION,Lee Damion,12:00,3,Warriors,Celtics,73 - 48,1,N/A,N/A,N/A
+1,Alfonzo McKinnie,SUBSTITUTION,Bell Jordan,12:00,3,Warriors,Celtics,73 - 48,1,N/A,N/A,N/A
+2,Al Horford,SUBSTITUTION,Hayward Gordon,12:00,3,Celtics,Warriors,73 - 48,0,N/A,N/A,N/A
+3,Jayson Tatum,SUBSTITUTION,Theis Daniel,12:00,3,Celtics,Warriors,73 - 48,0,N/A,N/A,N/A
+4,Marcus Morris,SUBSTITUTION,Ojeleye Semi,12:00,3,Celtics,Warriors,73 - 48,0,N/A,N/A,N/A
+5,DeMarcus Cousins's,FG_MISS,Jayson Tatum,11:44,3,Celtics,Warriors,73 - 48,1, ,2,Jumper
+6,Kyrie Irving,DEFENSIVE_REBOUND,None,11:42,3,Celtics,Warriors,73 - 48,0,N/A,N/A,N/A
+7,Marcus Smart,FG_MISS,None,11:38,3,Celtics,Warriors,73 - 48,0,23,3,Jumper
+8,DeMarcus Cousins,DEFENSIVE_REBOUND,None,11:36,3,Warriors,Celtics,73 - 48,1,N/A,N/A,N/A
+9,Kevin Durant,FG_MISS,None,11:31,3,Warriors,Celtics,73 - 48,1,29,3,Jumper
+10,Alfonzo McKinnie,OFFENSIVE_REBOUND,None,11:29,3,Warriors,Celtics,73 - 48,1,N/A,N/A,N/A
+11,Stephen Curry,FG_ASSISTED,DeMarcus Cousins,11:23,3,Warriors,Celtics,73 - 50,1,0,2,Layup
+12,Jayson Tatum,FG_ASSISTED,Marcus Smart,11:12,3,Celtics,Warriors,75 - 50,0,0,2,Dunk
+13,Draymond Green,TURNOVER,None,11:00,3,Warriors,Celtics,75 - 50,1,N/A,N/A,N/A
+14,Kyrie Irving,TURNOVER,Alfonzo McKinnie,10:45,3,Celtics,Warriors,75 - 50,0,N/A,N/A,N/A
+15,Kyrie Irving,FOUL_ON_FLOOR,None,10:40,3,Celtics,Warriors,75 - 50,0,N/A,N/A,N/A
+16,Kevin Durant,FG_ASSISTED,DeMarcus Cousins,10:27,3,Warriors,Celtics,75 - 52,1,15,2,Jumper
+17,Alfonzo McKinnie,FOUL_ON_FLOOR,None,10:12,3,Warriors,Celtics,75 - 52,1,N/A,N/A,N/A
+18,Marcus Morris,FG_MISS,None,9:58,3,Celtics,Warriors,75 - 52,0,27,3,Jumper
+19,Alfonzo McKinnie,DEFENSIVE_REBOUND,None,9:56,3,Warriors,Celtics,75 - 52,1,N/A,N/A,N/A
+20,DeMarcus Cousins,FG_MISS,None,9:44,3,Warriors,Celtics,75 - 52,1,27,3,Jumper
+21,Marcus Smart,DEFENSIVE_REBOUND,None,9:40,3,Celtics,Warriors,75 - 52,0,N/A,N/A,N/A
+22,DeMarcus Cousins,FOUL_ON_FLOOR,None,9:33,3,Warriors,Celtics,75 - 52,1,N/A,N/A,N/A
+23,Kyrie Irving,FG_MISS,None,9:30,3,Celtics,Warriors,75 - 52,0,27,3,Jumper
+24,Kevin Durant,DEFENSIVE_REBOUND,None,9:28,3,Warriors,Celtics,75 - 52,1,N/A,N/A,N/A
+25,Jayson Tatum,FOUL_ON_FLOOR,None,9:25,3,Celtics,Warriors,75 - 52,0,N/A,N/A,N/A
+26,Kevin Durant,FT,None,9:25,3,Warriors,Celtics,75 - 53,1,N/A,1,N/A
+27,Kevin Durant,FT,None,9:25,3,Warriors,Celtics,75 - 54,1,N/A,1,N/A
+28,Alfonzo McKinnie,FOUL_ON_FLOOR,None,9:16,3,Warriors,Celtics,75 - 54,1,N/A,N/A,N/A
+29,Jayson Tatum,FG_MISS,None,9:05,3,Celtics,Warriors,75 - 54,0,25,3,Jumper
+30,Stephen Curry,DEFENSIVE_REBOUND,None,9:03,3,Warriors,Celtics,75 - 54,1,N/A,N/A,N/A
+31,DeMarcus Cousins,FG_ASSISTED,Alfonzo McKinnie,8:54,3,Warriors,Celtics,75 - 56,1,0,2,Layup
+32,Marcus Smart,FG_MISS,None,8:30,3,Celtics,Warriors,75 - 56,0,18,2,Jumper
+33,Kyrie Irving,OFFENSIVE_REBOUND,None,8:29,3,Celtics,Warriors,75 - 56,0,N/A,N/A,N/A
+34,Al Horford,FG_ASSISTED,Kyrie Irving,8:23,3,Celtics,Warriors,78 - 56,0,26,3,Jumper
+35,Stephen Curry,FG_MISS,None,8:14,3,Warriors,Celtics,78 - 56,1,0,2,Layup
+36,Al Horford,DEFENSIVE_REBOUND,None,8:13,3,Celtics,Warriors,78 - 56,0,N/A,N/A,N/A
+37,Jayson Tatum,FG_MISS,None,8:06,3,Celtics,Warriors,78 - 56,0, ,3,Jumper
+38,Stephen Curry,DEFENSIVE_REBOUND,None,8:04,3,Warriors,Celtics,78 - 56,1,N/A,N/A,N/A
+39,Alfonzo McKinnie,FG_ASSISTED,Stephen Curry,7:59,3,Warriors,Celtics,78 - 58,1, ,2,Jumper
+40,Marcus Smart,FOUL_ON_FLOOR,None,7:59,3,Celtics,Warriors,78 - 58,0,N/A,N/A,N/A
+41,Alfonzo McKinnie,FT,None,7:59,3,Warriors,Celtics,78 - 59,1,N/A,1,N/A
+42,Marcus Morris,FG_ASSISTED,Marcus Smart,7:42,3,Celtics,Warriors,81 - 59,0,26,3,Jumper
+43,Alfonzo McKinnie,FG_MISS,None,7:28,3,Warriors,Celtics,81 - 59,1,23,3,Jumper
+44,Jayson Tatum,DEFENSIVE_REBOUND,None,7:26,3,Celtics,Warriors,81 - 59,0,N/A,N/A,N/A
+45,Jayson Tatum,FG_UNASSISTED,None,7:20,3,Celtics,Warriors,83 - 59,0, ,2,Jumper
+46,Draymond Green,FOUL_ON_FLOOR,None,7:20,3,Warriors,Celtics,83 - 59,1,N/A,N/A,N/A
+47,Jayson Tatum,FT,None,7:20,3,Celtics,Warriors,84 - 59,0,N/A,1,N/A
+48,Team,Unknown,None,7:15,3,Warriors,Celtics,84 - 59,1,N/A,N/A,N/A
+49,DeMarcus Cousins,FG_UNASSISTED,None,6:58,3,Warriors,Celtics,84 - 61,1, ,2,Jumper
+50,Marcus Morris,FOUL_ON_FLOOR,None,6:49,3,Celtics,Warriors,84 - 61,0,N/A,N/A,N/A
+51,Marcus Morris,TURNOVER,None,6:49,3,Celtics,Warriors,84 - 61,0,N/A,N/A,N/A
+52,Stephen Curry,FG_MISS,None,6:41,3,Warriors,Celtics,84 - 61,1,32,3,Jumper
+53,Draymond Green,OFFENSIVE_REBOUND,None,6:39,3,Warriors,Celtics,84 - 61,1,N/A,N/A,N/A
+54,Stephen Curry,FG_ASSISTED,DeMarcus Cousins,6:27,3,Warriors,Celtics,84 - 63,1,24,2,Jumper
+55,Marcus Morris,FG_MISS,None,6:09,3,Celtics,Warriors,84 - 63,0,23,3,Jumper
+56,DeMarcus Cousins,DEFENSIVE_REBOUND,None,6:07,3,Warriors,Celtics,84 - 63,1,N/A,N/A,N/A
+57,Kevin Durant,FG_MISS,Jayson Tatum,6:03,3,Celtics,Warriors,84 - 63,1,0,2,Layup
+58,Jayson Tatum,DEFENSIVE_REBOUND,None,6:02,3,Celtics,Warriors,84 - 63,0,N/A,N/A,N/A
+59,Draymond Green,FOUL_ON_FLOOR,None,5:58,3,Warriors,Celtics,84 - 63,1,N/A,N/A,N/A
+60,Kyrie Irving,FT_MISS,None,5:58,3,Celtics,Warriors,84 - 63,0,N/A,1,N/A
+61,Team,OFFENSIVE_REBOUND,None,5:58,3,Celtics,Warriors,84 - 63,0,N/A,N/A,N/A
+62,Jordan Bell,SUBSTITUTION,Green Draymond,5:58,3,Warriors,Celtics,84 - 63,1,N/A,N/A,N/A
+63,Gordon Hayward,SUBSTITUTION,Horford Al,5:58,3,Celtics,Warriors,84 - 63,0,N/A,N/A,N/A
+64,Aron Baynes,SUBSTITUTION,Tatum Jayson,5:58,3,Celtics,Warriors,84 - 63,0,N/A,N/A,N/A
+65,Jaylen Brown,SUBSTITUTION,Morris Marcus,5:58,3,Celtics,Warriors,84 - 63,0,N/A,N/A,N/A
+66,Kyrie Irving,FT,None,5:58,3,Celtics,Warriors,85 - 63,0,N/A,1,N/A
+67,Kevin Durant,FG_UNASSISTED,None,5:48,3,Warriors,Celtics,85 - 65,1, ,2,Jumper
+68,Marcus Smart,FG_MISS,None,5:31,3,Celtics,Warriors,85 - 65,0,23,3,Jumper
+69,Kevin Durant,DEFENSIVE_REBOUND,None,5:29,3,Warriors,Celtics,85 - 65,1,N/A,N/A,N/A
+70,Alfonzo McKinnie,FG_ASSISTED,Kevin Durant,5:24,3,Warriors,Celtics,85 - 67,1,0,2,Dunk
+71,Kyrie Irving,FG_ASSISTED,Jaylen Brown,5:19,3,Celtics,Warriors,87 - 67,0,10,2,Jumper
+72,Stephen Curry,TURNOVER,Marcus Smart,5:10,3,Warriors,Celtics,87 - 67,1,N/A,N/A,N/A
+73,Kyrie Irving,FG_MISS,None,5:07,3,Celtics,Warriors,87 - 67,0,0,2,Layup
+74,Jaylen Brown,OFFENSIVE_REBOUND,None,5:06,3,Celtics,Warriors,87 - 67,0,N/A,N/A,N/A
+75,Jaylen Brown,FG_MISS,None,5:06,3,Celtics,Warriors,87 - 67,0, ,2,Jumper
+76,DeMarcus Cousins,DEFENSIVE_REBOUND,None,5:05,3,Warriors,Celtics,87 - 67,1,N/A,N/A,N/A
+77,Aron Baynes,FOUL_ON_FLOOR,None,5:00,3,Celtics,Warriors,87 - 67,0,N/A,N/A,N/A
+78,DeMarcus Cousins,FT_MISS,None,5:00,3,Warriors,Celtics,87 - 67,1,N/A,1,N/A
+79,Team,OFFENSIVE_REBOUND,None,5:00,3,Warriors,Celtics,87 - 67,1,N/A,N/A,N/A
+80,Andre Iguodala,SUBSTITUTION,McKinnie Alfonzo,5:00,3,Warriors,Celtics,87 - 67,1,N/A,N/A,N/A
+81,DeMarcus Cousins,FT,None,5:00,3,Warriors,Celtics,87 - 68,1,N/A,1,N/A
+82,Jaylen Brown,FG_MISS,None,4:43,3,Celtics,Warriors,87 - 68,0,16,2,Jumper
+83,DeMarcus Cousins,DEFENSIVE_REBOUND,None,4:42,3,Warriors,Celtics,87 - 68,1,N/A,N/A,N/A
+84,Jordan Bell,FG_ASSISTED,Stephen Curry,4:35,3,Warriors,Celtics,87 - 70,1,0,2,Layup
+85,Team,Unknown,None,4:33,3,Celtics,Warriors,87 - 70,0,N/A,N/A,N/A
+86,Gordon Hayward,FG_MISS,None,4:25,3,Celtics,Warriors,87 - 70,0,27,3,Jumper
+87,Stephen Curry,DEFENSIVE_REBOUND,None,4:23,3,Warriors,Celtics,87 - 70,1,N/A,N/A,N/A
+88,Kevin Durant,FG_MISS,None,4:17,3,Warriors,Celtics,87 - 70,1,27,3,Jumper
+89,Jaylen Brown,DEFENSIVE_REBOUND,None,4:08,3,Celtics,Warriors,87 - 70,0,N/A,N/A,N/A
+90,Gordon Hayward,FG_ASSISTED,Kyrie Irving,3:58,3,Celtics,Warriors,89 - 70,0,22,2,Jumper
+91,Stephen Curry,TURNOVER,Kyrie Irving,3:46,3,Warriors,Celtics,89 - 70,1,N/A,N/A,N/A
+92,Kyrie Irving,FG_MISS,None,3:42,3,Celtics,Warriors,89 - 70,0,11,2,Jumper
+93,Andre Iguodala,DEFENSIVE_REBOUND,None,3:38,3,Warriors,Celtics,89 - 70,1,N/A,N/A,N/A
+94,Kevin Durant,FG_ASSISTED,Andre Iguodala,3:37,3,Warriors,Celtics,89 - 72,1,0,2,Dunk
+95,Marcus Smart,FG_UNASSISTED,None,3:24,3,Celtics,Warriors,91 - 72,0,14,2,Jumper
+96,DeMarcus Cousins,FG_MISS,None,3:12,3,Warriors,Celtics,91 - 72,1,26,3,Jumper
+97,Jordan Bell,OFFENSIVE_REBOUND,None,3:10,3,Warriors,Celtics,91 - 72,1,N/A,N/A,N/A
+98,Jordan Bell,FG_ASSISTED,Kevin Durant,3:00,3,Warriors,Celtics,91 - 74,1, ,2,Jumper
+99,Jaylen Brown,FG_ASSISTED,Gordon Hayward,2:36,3,Celtics,Warriors,93 - 74,0,19,2,Jumper
+100,Kyrie Irving,FOUL_ON_FLOOR,None,2:22,3,Celtics,Warriors,93 - 74,0,N/A,N/A,N/A
+101,Andre Iguodala,FT,None,2:22,3,Warriors,Celtics,93 - 75,1,N/A,1,N/A
+102,Damion Lee,SUBSTITUTION,Cousins DeMarcus,2:22,3,Warriors,Celtics,93 - 75,1,N/A,N/A,N/A
+103,Terry Rozier,SUBSTITUTION,Smart Marcus,2:22,3,Celtics,Warriors,93 - 75,0,N/A,N/A,N/A
+104,Al Horford,SUBSTITUTION,Baynes Aron,2:22,3,Celtics,Warriors,93 - 75,0,N/A,N/A,N/A
+105,Andre Iguodala,FT,None,2:22,3,Warriors,Celtics,93 - 76,1,N/A,1,N/A
+106,Jaylen Brown,FG_MISS,None,2:08,3,Celtics,Warriors,93 - 76,0,8,2,Jumper
+107,Andre Iguodala,DEFENSIVE_REBOUND,None,2:07,3,Warriors,Celtics,93 - 76,1,N/A,N/A,N/A
+108,Kevin Durant,TURNOVER,Gordon Hayward,1:55,3,Warriors,Celtics,93 - 76,1,N/A,N/A,N/A
+109,Gordon Hayward,FG_UNASSISTED,None,1:52,3,Celtics,Warriors,95 - 76,0,0,2,Dunk
+110,Damion Lee,FG_MISS,None,1:46,3,Warriors,Celtics,95 - 76,1,26,3,Jumper
+111,Al Horford,DEFENSIVE_REBOUND,None,1:44,3,Celtics,Warriors,95 - 76,0,N/A,N/A,N/A
+112,Jaylen Brown,FG_ASSISTED,Kyrie Irving,1:36,3,Celtics,Warriors,97 - 76,0,0,2,Layup
+113,Jordan Bell,FG_MISS,None,1:17,3,Warriors,Celtics,97 - 76,1, ,2,Jumper
+114,Terry Rozier,DEFENSIVE_REBOUND,None,1:16,3,Celtics,Warriors,97 - 76,0,N/A,N/A,N/A
+115,Terry Rozier,TURNOVER,Stephen Curry,1:13,3,Celtics,Warriors,97 - 76,0,N/A,N/A,N/A
+116,Stephen Curry,FG_MISS,None,1:09,3,Warriors,Celtics,97 - 76,1,25,3,Jumper
+117,Gordon Hayward,DEFENSIVE_REBOUND,None,1:07,3,Celtics,Warriors,97 - 76,0,N/A,N/A,N/A
+118,Gordon Hayward,FG_ASSISTED,Kyrie Irving,59.2,3,Celtics,Warriors,99 - 76,0,12,2,Jumper
+119,Kevin Durant,FG_MISS,None,48.7,3,Warriors,Celtics,99 - 76,1,27,3,Jumper
+120,Gordon Hayward,DEFENSIVE_REBOUND,None,47.5,3,Celtics,Warriors,99 - 76,0,N/A,N/A,N/A
+121,Kyrie Irving,FG_ASSISTED,Terry Rozier,40.6,3,Celtics,Warriors,102 - 76,0,23,3,Jumper
+122,Stephen Curry,FOUL_ON_FLOOR,None,33.2,3,Warriors,Celtics,102 - 76,1,N/A,N/A,N/A
+123,Stephen Curry,TURNOVER,None,33.2,3,Warriors,Celtics,102 - 76,1,N/A,N/A,N/A
+124,Quinn Cook,SUBSTITUTION,Curry Stephen,33.2,3,Warriors,Celtics,102 - 76,1,N/A,N/A,N/A
+125,Gordon Hayward,FG_ASSISTED,Kyrie Irving,16.7,3,Celtics,Warriors,105 - 76,0,23,3,Jumper
+126,End of,Unknown,None,0.0,3,Warriors,Celtics,105 - 76,1,N/A,N/A,N/A
+0,Jonas Jerebko,SUBSTITUTION,Bell Jordan,12:00,4,Warriors,Celtics,105 - 76,1,N/A,N/A,N/A
+1,DeMarcus Cousins,SUBSTITUTION,Iguodala Andre,12:00,4,Warriors,Celtics,105 - 76,1,N/A,N/A,N/A
+2,Jacob Evans,SUBSTITUTION,Durant Kevin,12:00,4,Warriors,Celtics,105 - 76,1,N/A,N/A,N/A
+3,Jayson Tatum,SUBSTITUTION,Irving Kyrie,12:00,4,Celtics,Warriors,105 - 76,0,N/A,N/A,N/A
+4,Terry Rozier,FG_ASSISTED,Gordon Hayward,11:50,4,Celtics,Warriors,107 - 76,0,0,2,Layup
+5,Quinn Cook,FOUL_ON_FLOOR,None,11:50,4,Warriors,Celtics,107 - 76,1,N/A,N/A,N/A
+6,Terry Rozier,FT,None,11:50,4,Celtics,Warriors,108 - 76,0,N/A,1,N/A
+7,DeMarcus Cousins,FG_UNASSISTED,None,11:31,4,Warriors,Celtics,108 - 78,1,10,2,Jumper
+8,Al Horford,FOUL_ON_FLOOR,None,11:31,4,Celtics,Warriors,108 - 78,0,N/A,N/A,N/A
+9,DeMarcus Cousins,FT,None,11:31,4,Warriors,Celtics,108 - 79,1,N/A,1,N/A
+10,Jaylen Brown,FG_MISS,None,11:11,4,Celtics,Warriors,108 - 79,0,14,2,Jumper
+11,Damion Lee,DEFENSIVE_REBOUND,None,11:10,4,Warriors,Celtics,108 - 79,1,N/A,N/A,N/A
+12,Damion Lee,FG_MISS,None,10:53,4,Warriors,Celtics,108 - 79,1,16,2,Jumper
+13,Terry Rozier,DEFENSIVE_REBOUND,None,10:52,4,Celtics,Warriors,108 - 79,0,N/A,N/A,N/A
+14,Jaylen Brown,FG_MISS,None,10:46,4,Celtics,Warriors,108 - 79,0,25,3,Jumper
+15,Jacob Evans,DEFENSIVE_REBOUND,None,10:44,4,Warriors,Celtics,108 - 79,1,N/A,N/A,N/A
+16,Aron Baynes,SUBSTITUTION,Horford Al,10:39,4,Celtics,Warriors,108 - 79,0,N/A,N/A,N/A
+17,DeMarcus Cousins,FG_MISS,None,10:28,4,Warriors,Celtics,108 - 79,1,27,3,Jumper
+18,Jayson Tatum,DEFENSIVE_REBOUND,None,10:26,4,Celtics,Warriors,108 - 79,0,N/A,N/A,N/A
+19,Gordon Hayward,FG_MISS,None,10:20,4,Celtics,Warriors,108 - 79,0,0,2,Layup
+20,Damion Lee,DEFENSIVE_REBOUND,None,10:19,4,Warriors,Celtics,108 - 79,1,N/A,N/A,N/A
+21,Damion Lee,TURNOVER,Terry Rozier,10:12,4,Warriors,Celtics,108 - 79,1,N/A,N/A,N/A
+22,Gordon Hayward,FG_ASSISTED,Terry Rozier,10:10,4,Celtics,Warriors,110 - 79,0,0,2,Dunk
+23,Quinn Cook,FG_MISS,None,9:45,4,Warriors,Celtics,110 - 79,1,0,2,Layup
+24,Aron Baynes,DEFENSIVE_REBOUND,None,9:43,4,Celtics,Warriors,110 - 79,0,N/A,N/A,N/A
+25,Jayson Tatum,FG_MISS,None,9:31,4,Celtics,Warriors,110 - 79,0,20,2,Jumper
+26,Jonas Jerebko,DEFENSIVE_REBOUND,None,9:30,4,Warriors,Celtics,110 - 79,1,N/A,N/A,N/A
+27,Quinn Cook,FG_ASSISTED,Jacob Evans,9:15,4,Warriors,Celtics,110 - 82,1,26,3,Jumper
+28,Gordon Hayward,FG_MISS,None,8:58,4,Celtics,Warriors,110 - 82,0,18,2,Jumper
+29,Quinn Cook,DEFENSIVE_REBOUND,None,8:56,4,Warriors,Celtics,110 - 82,1,N/A,N/A,N/A
+30,DeMarcus Cousins,TURNOVER,None,8:44,4,Warriors,Celtics,110 - 82,1,N/A,N/A,N/A
+31,DeMarcus Cousins,TURNOVER,None,8:44,4,Warriors,Celtics,110 - 82,1,N/A,N/A,N/A
+32,Double technical,FOUL_TECHNICAL,None,8:44,4,Warriors,Celtics,110 - 82,1,N/A,N/A,N/A
+33,Terry Rozier,FG_MISS,None,8:32,4,Celtics,Warriors,110 - 82,0,30,3,Jumper
+34,Jonas Jerebko,DEFENSIVE_REBOUND,None,8:30,4,Warriors,Celtics,110 - 82,1,N/A,N/A,N/A
+35,Terry Rozier,FOUL_ON_FLOOR,None,8:29,4,Celtics,Warriors,110 - 82,0,N/A,N/A,N/A
+36,Quinn Cook,FG_ASSISTED,Jonas Jerebko,8:14,4,Warriors,Celtics,110 - 85,1,27,3,Jumper
+37,Jaylen Brown,FG_UNASSISTED,None,7:48,4,Celtics,Warriors,112 - 85,0, ,2,Jumper
+38,Quinn Cook,FG_MISS,Terry Rozier,7:36,4,Celtics,Warriors,112 - 85,1,0,2,Layup
+39,Team,OFFENSIVE_REBOUND,None,7:35,4,Warriors,Celtics,112 - 85,1,N/A,N/A,N/A
+40,DeMarcus Cousins,FG_MISS,None,7:26,4,Warriors,Celtics,112 - 85,1,0,2,Layup
+41,Aron Baynes,DEFENSIVE_REBOUND,None,7:26,4,Celtics,Warriors,112 - 85,0,N/A,N/A,N/A
+42,Jayson Tatum,FG_MISS,None,7:12,4,Celtics,Warriors,112 - 85,0, ,2,Jumper
+43,DeMarcus Cousins,DEFENSIVE_REBOUND,None,7:11,4,Warriors,Celtics,112 - 85,1,N/A,N/A,N/A
+44,Jayson Tatum,FOUL_ON_FLOOR,None,7:06,4,Celtics,Warriors,112 - 85,0,N/A,N/A,N/A
+45,Jordan Bell,SUBSTITUTION,Cousins DeMarcus,7:06,4,Warriors,Celtics,112 - 85,1,N/A,N/A,N/A
+46,Daniel Theis,SUBSTITUTION,Baynes Aron,7:06,4,Celtics,Warriors,112 - 85,0,N/A,N/A,N/A
+47,Jordan Bell,FG_MISS,None,6:47,4,Warriors,Celtics,112 - 85,1,12,2,Jumper
+48,Team,OFFENSIVE_REBOUND,None,6:47,4,Warriors,Celtics,112 - 85,1,N/A,N/A,N/A
+49,shot clock,TURNOVER,None,6:47,4,Warriors,Celtics,112 - 85,1,N/A,N/A,N/A
+50,Team,Unknown,None,6:47,4,Warriors,Celtics,112 - 85,1,N/A,N/A,N/A
+51,Terry Rozier,FG_MISS,None,6:34,4,Celtics,Warriors,112 - 85,0,27,3,Jumper
+52,Gordon Hayward,OFFENSIVE_REBOUND,None,6:30,4,Celtics,Warriors,112 - 85,0,N/A,N/A,N/A
+53,Daniel Theis,FG_MISS,None,6:27,4,Celtics,Warriors,112 - 85,0,27,3,Jumper
+54,Damion Lee,DEFENSIVE_REBOUND,None,6:24,4,Warriors,Celtics,112 - 85,1,N/A,N/A,N/A
+55,Jordan Bell,TURNOVER,Jayson Tatum,6:06,4,Warriors,Celtics,112 - 85,1,N/A,N/A,N/A
+56,Jaylen Brown,FG_MISS,None,5:52,4,Celtics,Warriors,112 - 85,0,14,2,Jumper
+57,Jordan Bell,DEFENSIVE_REBOUND,None,5:48,4,Warriors,Celtics,112 - 85,1,N/A,N/A,N/A
+58,Jacob Evans,FG_ASSISTED,Quinn Cook,5:36,4,Warriors,Celtics,112 - 87,1,14,2,Jumper
+59,Jayson Tatum,FG_MISS,None,5:20,4,Celtics,Warriors,112 - 87,0,17,2,Jumper
+60,Daniel Theis,OFFENSIVE_REBOUND,None,5:15,4,Celtics,Warriors,112 - 87,0,N/A,N/A,N/A
+61,Jaylen Brown,FG_ASSISTED,Daniel Theis,5:13,4,Celtics,Warriors,115 - 87,0,27,3,Jumper
+62,Quinn Cook,FG_MISS,None,5:01,4,Warriors,Celtics,115 - 87,1,27,3,Jumper
+63,Team,DEFENSIVE_REBOUND,None,5:00,4,Celtics,Warriors,115 - 87,0,N/A,N/A,N/A
+64,Alfonzo McKinnie,SUBSTITUTION,Lee Damion,5:00,4,Warriors,Celtics,115 - 87,1,N/A,N/A,N/A
+65,Semi Ojeleye,SUBSTITUTION,Tatum Jayson,5:00,4,Celtics,Warriors,115 - 87,0,N/A,N/A,N/A
+66,Brad Wanamaker,SUBSTITUTION,Hayward Gordon,5:00,4,Celtics,Warriors,115 - 87,0,N/A,N/A,N/A
+67,Semi Ojeleye,TURNOVER,Jonas Jerebko,4:53,4,Celtics,Warriors,115 - 87,0,N/A,N/A,N/A
+68,Jacob Evans,TURNOVER,Semi Ojeleye,4:38,4,Warriors,Celtics,115 - 87,1,N/A,N/A,N/A
+69,Brad Wanamaker,FG_MISS,None,4:29,4,Celtics,Warriors,115 - 87,0,13,2,Jumper
+70,Brad Wanamaker,OFFENSIVE_REBOUND,None,4:24,4,Celtics,Warriors,115 - 87,0,N/A,N/A,N/A
+71,Brad Wanamaker,FG_UNASSISTED,None,4:23,4,Celtics,Warriors,117 - 87,0,0,2,Layup
+72,Jordan Bell,FG_MISS,None,4:15,4,Warriors,Celtics,117 - 87,1, ,2,Jumper
+73,Alfonzo McKinnie,OFFENSIVE_REBOUND,None,4:11,4,Warriors,Celtics,117 - 87,1,N/A,N/A,N/A
+74,Jonas Jerebko,FG_MISS,None,4:04,4,Warriors,Celtics,117 - 87,1,0,2,Layup
+75,Terry Rozier,DEFENSIVE_REBOUND,None,4:01,4,Celtics,Warriors,117 - 87,0,N/A,N/A,N/A
+76,Jaylen Brown,FG_MISS,None,3:59,4,Celtics,Warriors,117 - 87,0,26,3,Jumper
+77,Quinn Cook,DEFENSIVE_REBOUND,None,3:57,4,Warriors,Celtics,117 - 87,1,N/A,N/A,N/A
+78,Jacob Evans,FG_UNASSISTED,None,3:52,4,Warriors,Celtics,117 - 89,1,21,2,Jumper
+79,Jonas Jerebko,FOUL_ON_FLOOR,None,3:30,4,Warriors,Celtics,117 - 89,1,N/A,N/A,N/A
+80,Daniel Theis,FT,None,3:30,4,Celtics,Warriors,118 - 89,0,N/A,1,N/A
+81,Guerschon Yabusele,SUBSTITUTION,Brown Jaylen,3:30,4,Celtics,Warriors,118 - 89,0,N/A,N/A,N/A
+82,Daniel Theis,FT,None,3:30,4,Celtics,Warriors,119 - 89,0,N/A,1,N/A
+83,Jonas Jerebko,FG_MISS,None,3:18,4,Warriors,Celtics,119 - 89,1,28,3,Jumper
+84,Team,DEFENSIVE_REBOUND,None,3:14,4,Celtics,Warriors,119 - 89,0,N/A,N/A,N/A
+85,Jacob Evans,FOUL_ON_FLOOR,None,2:59,4,Warriors,Celtics,119 - 89,1,N/A,N/A,N/A
+86,Team,Unknown,None,2:59,4,Celtics,Warriors,119 - 89,0,N/A,N/A,N/A
+87,Damion Lee,SUBSTITUTION,Jerebko Jonas,2:59,4,Warriors,Celtics,119 - 89,1,N/A,N/A,N/A
+88,Terry Rozier,FT,None,2:59,4,Celtics,Warriors,120 - 89,0,N/A,1,N/A
+89,Terry Rozier,FT,None,2:59,4,Celtics,Warriors,121 - 89,0,N/A,1,N/A
+90,Alfonzo McKinnie,FG_ASSISTED,Jordan Bell,2:39,4,Warriors,Celtics,121 - 91,1,0,2,Dunk
+91,Brad Wanamaker,FG_MISS,None,2:28,4,Celtics,Warriors,121 - 91,0,17,2,Jumper
+92,Guerschon Yabusele,OFFENSIVE_REBOUND,None,2:23,4,Celtics,Warriors,121 - 91,0,N/A,N/A,N/A
+93,Guerschon Yabusele,FG_MISS,None,2:23,4,Celtics,Warriors,121 - 91,0, ,2,Jumper
+94,Guerschon Yabusele,OFFENSIVE_REBOUND,None,2:23,4,Celtics,Warriors,121 - 91,0,N/A,N/A,N/A
+95,Daniel Theis,FG_MISS,None,2:21,4,Celtics,Warriors,121 - 91,0,0,2,Layup
+96,Jordan Bell,DEFENSIVE_REBOUND,None,2:18,4,Warriors,Celtics,121 - 91,1,N/A,N/A,N/A
+97,Quinn Cook,FG_MISS,Daniel Theis,2:10,4,Celtics,Warriors,121 - 91,1,12,2,Jumper
+98,Team,DEFENSIVE_REBOUND,None,2:09,4,Celtics,Warriors,121 - 91,0,N/A,N/A,N/A
+99,Guerschon Yabusele,TURNOVER,None,1:54,4,Celtics,Warriors,121 - 91,0,N/A,N/A,N/A
+100,Jacob Evans,FG_ASSISTED,Jordan Bell,1:42,4,Warriors,Celtics,121 - 93,1,22,2,Jumper
+101,Guerschon Yabusele,FG_ASSISTED,Daniel Theis,1:29,4,Celtics,Warriors,124 - 93,0, ,3,Jumper
+102,Brad Wanamaker,FOUL_ON_FLOOR,None,1:17,4,Celtics,Warriors,124 - 93,0,N/A,N/A,N/A
+103,Damion Lee,FG_MISS,None,1:06,4,Warriors,Celtics,124 - 93,1, ,3,Jumper
+104,Brad Wanamaker,DEFENSIVE_REBOUND,None,1:02,4,Celtics,Warriors,124 - 93,0,N/A,N/A,N/A
+105,Damion Lee,FOUL_ON_FLOOR,None,1:01,4,Warriors,Celtics,124 - 93,1,N/A,N/A,N/A
+106,Guerschon Yabusele,FT,None,1:01,4,Celtics,Warriors,125 - 93,0,N/A,1,N/A
+107,Guerschon Yabusele,FT,None,1:01,4,Celtics,Warriors,126 - 93,0,N/A,1,N/A
+108,Damion Lee,FG_MISS,Daniel Theis,45.2,4,Celtics,Warriors,126 - 93,1,5,2,Jumper
+109,Terry Rozier,DEFENSIVE_REBOUND,None,42.0,4,Celtics,Warriors,126 - 93,0,N/A,N/A,N/A
+110,Guerschon Yabusele,FG_ASSISTED,Terry Rozier,40.7,4,Celtics,Warriors,128 - 93,0,0,2,Dunk
+111,Quinn Cook,FG_MISS,None,29.3,4,Warriors,Celtics,128 - 93,1,0,2,Layup
+112,Quinn Cook,OFFENSIVE_REBOUND,None,28.3,4,Warriors,Celtics,128 - 93,1,N/A,N/A,N/A
+113,Quinn Cook,FG_MISS,None,26.3,4,Warriors,Celtics,128 - 93,1,0,2,Layup
+114,Team,OFFENSIVE_REBOUND,None,25.3,4,Warriors,Celtics,128 - 93,1,N/A,N/A,N/A
+115,Jordan Bell,FG_ASSISTED,Jacob Evans,20.4,4,Warriors,Celtics,128 - 95,1,0,2,Dunk
+116,End of,Unknown,None,0.0,4,Warriors,Celtics,128 - 95,1,N/A,N/A,N/A
+117,End of,Unknown,None,0.0,4,Warriors,Celtics,128 - 95,1,N/A,N/A,N/A

@@ -1,0 +1,461 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Noah Vonleh,JUMP_BALL,None,12:00,1,Jazz,Knicks,0 - 0,1,N/A,N/A,N/A
+1,Rudy Gobert,FG_ASSISTED,Dante Exum,11:48,1,Jazz,Knicks,0 - 2,1,0,2,Dunk
+2,Emmanuel Mudiay,FG_ASSISTED,Luke Kornet,11:28,1,Knicks,Jazz,2 - 2,0,19,2,Jumper
+3,Donovan Mitchell,FG_MISS,None,11:17,1,Jazz,Knicks,2 - 2,1,26,3,Jumper
+4,Luke Kornet,DEFENSIVE_REBOUND,None,11:14,1,Knicks,Jazz,2 - 2,0,N/A,N/A,N/A
+5,Tim Hardaway,TURNOVER,Derrick Favors,11:03,1,Knicks,Jazz,2 - 2,0,N/A,N/A,N/A
+6,Joe Ingles,FG_MISS,None,10:59,1,Jazz,Knicks,2 - 2,1,26,3,Jumper
+7,Donovan Mitchell,OFFENSIVE_REBOUND,None,10:55,1,Jazz,Knicks,2 - 2,1,N/A,N/A,N/A
+8,Rudy Gobert,FG_ASSISTED,Derrick Favors,10:52,1,Jazz,Knicks,2 - 4,1,0,2,Dunk
+9,Tim Hardaway,FG_ASSISTED,Luke Kornet,10:33,1,Knicks,Jazz,4 - 4,0,8,2,Jumper
+10,Derrick Favors,FG_ASSISTED,Joe Ingles,10:22,1,Jazz,Knicks,4 - 6,1,0,2,Layup
+11,Tim Hardaway,FG_MISS,None,10:02,1,Knicks,Jazz,4 - 6,0,20,2,Jumper
+12,Joe Ingles,DEFENSIVE_REBOUND,None,9:58,1,Jazz,Knicks,4 - 6,1,N/A,N/A,N/A
+13,Dante Exum,FG_ASSISTED,Derrick Favors,9:46,1,Jazz,Knicks,4 - 8,1,0,2,Layup
+14,Emmanuel Mudiay,FG_MISS,None,9:36,1,Knicks,Jazz,4 - 8,0,16,2,Jumper
+15,Team,DEFENSIVE_REBOUND,None,9:35,1,Jazz,Knicks,4 - 8,1,N/A,N/A,N/A
+16,Noah Vonleh,FOUL_ON_FLOOR,None,9:35,1,Knicks,Jazz,4 - 8,0,N/A,N/A,N/A
+17,Rudy Gobert,FG_ASSISTED,Donovan Mitchell,9:20,1,Jazz,Knicks,4 - 10,1,0,2,Dunk
+18,Noah Vonleh,FOUL_ON_FLOOR,None,9:20,1,Knicks,Jazz,4 - 10,0,N/A,N/A,N/A
+19,Rudy Gobert,FT,None,9:20,1,Jazz,Knicks,4 - 11,1,N/A,1,N/A
+20,Team,Unknown,None,9:14,1,Knicks,Jazz,4 - 11,0,N/A,N/A,N/A
+21,Lance Thomas,SUBSTITUTION,Vonleh Noah,9:14,1,Knicks,Jazz,4 - 11,0,N/A,N/A,N/A
+22,Donovan Mitchell,FOUL_ON_FLOOR,None,9:09,1,Jazz,Knicks,4 - 11,1,N/A,N/A,N/A
+23,Tim Hardaway,FG_MISS,None,8:56,1,Knicks,Jazz,4 - 11,0,28,3,Jumper
+24,Rudy Gobert,DEFENSIVE_REBOUND,None,8:53,1,Jazz,Knicks,4 - 11,1,N/A,N/A,N/A
+25,Donovan Mitchell,FG_MISS,None,8:49,1,Jazz,Knicks,4 - 11,1,26,3,Jumper
+26,Emmanuel Mudiay,DEFENSIVE_REBOUND,None,8:44,1,Knicks,Jazz,4 - 11,0,N/A,N/A,N/A
+27,Luke Kornet,FG_MISS,None,8:39,1,Knicks,Jazz,4 - 11,0,25,3,Jumper
+28,Rudy Gobert,DEFENSIVE_REBOUND,None,8:36,1,Jazz,Knicks,4 - 11,1,N/A,N/A,N/A
+29,Joe Ingles,TURNOVER,None,8:28,1,Jazz,Knicks,4 - 11,1,N/A,N/A,N/A
+30,Luke Kornet,FG_ASSISTED,Emmanuel Mudiay,8:19,1,Knicks,Jazz,7 - 11,0,27,3,Jumper
+31,Luke Kornet,FOUL_ON_FLOOR,None,8:00,1,Knicks,Jazz,7 - 11,0,N/A,N/A,N/A
+32,Joe Ingles,FT,None,8:00,1,Jazz,Knicks,7 - 12,1,N/A,1,N/A
+33,Joe Ingles,FT,None,8:00,1,Jazz,Knicks,7 - 13,1,N/A,1,N/A
+34,Emmanuel Mudiay,FG_UNASSISTED,None,7:47,1,Knicks,Jazz,9 - 13,0,8,2,Jumper
+35,Emmanuel Mudiay,FOUL_ON_FLOOR,None,7:39,1,Knicks,Jazz,9 - 13,0,N/A,N/A,N/A
+36,Derrick Favors,FG_MISS,None,7:22,1,Jazz,Knicks,9 - 13,1,23,3,Jumper
+37,Luke Kornet,DEFENSIVE_REBOUND,None,7:19,1,Knicks,Jazz,9 - 13,0,N/A,N/A,N/A
+38,Kyle Korver,SUBSTITUTION,Ingles Joe,7:07,1,Jazz,Knicks,9 - 13,1,N/A,N/A,N/A
+39,Emmanuel Mudiay,FG_MISS,None,6:57,1,Knicks,Jazz,9 - 13,0,13,2,Jumper
+40,Derrick Favors,DEFENSIVE_REBOUND,None,6:55,1,Jazz,Knicks,9 - 13,1,N/A,N/A,N/A
+41,Derrick Favors,FG_ASSISTED,Dante Exum,6:46,1,Jazz,Knicks,9 - 15,1,0,2,Dunk
+42,Kyle Korver,FOUL_ON_FLOOR,None,6:34,1,Jazz,Knicks,9 - 15,1,N/A,N/A,N/A
+43,Kevin Knox,FT_MISS,None,6:34,1,Knicks,Jazz,9 - 15,0,N/A,1,N/A
+44,Team,OFFENSIVE_REBOUND,None,6:34,1,Knicks,Jazz,9 - 15,0,N/A,N/A,N/A
+45,Kevin Knox,FT,None,6:34,1,Knicks,Jazz,10 - 15,0,N/A,1,N/A
+46,Kyle Korver,FG_ASSISTED,Dante Exum,6:17,1,Jazz,Knicks,10 - 18,1,23,3,Jumper
+47,Lance Thomas,FG_UNASSISTED,None,5:58,1,Knicks,Jazz,12 - 18,0,9,2,Jumper
+48,Rudy Gobert,FG_ASSISTED,Dante Exum,5:43,1,Jazz,Knicks,12 - 20,1,0,2,Dunk
+49,Team,Unknown,None,5:40,1,Knicks,Jazz,12 - 20,0,N/A,N/A,N/A
+50,Allonzo Trier,SUBSTITUTION,Mudiay Emmanuel,5:40,1,Knicks,Jazz,12 - 20,0,N/A,N/A,N/A
+51,Frank Ntilikina,SUBSTITUTION,Hardaway Tim,5:40,1,Knicks,Jazz,12 - 20,0,N/A,N/A,N/A
+52,Thabo Sefolosha,SUBSTITUTION,Favors Derrick,5:40,1,Jazz,Knicks,12 - 20,1,N/A,N/A,N/A
+53,Kevin Knox,FG_MISS,None,5:33,1,Knicks,Jazz,12 - 20,0, ,2,Jumper
+54,Rudy Gobert,DEFENSIVE_REBOUND,None,5:31,1,Jazz,Knicks,12 - 20,1,N/A,N/A,N/A
+55,Thabo Sefolosha,FG_MISS,None,5:20,1,Jazz,Knicks,12 - 20,1,23,3,Jumper
+56,Rudy Gobert,OFFENSIVE_REBOUND,None,5:18,1,Jazz,Knicks,12 - 20,1,N/A,N/A,N/A
+57,Rudy Gobert,FG_UNASSISTED,None,5:17,1,Jazz,Knicks,12 - 22,1, ,2,Jumper
+58,Lance Thomas,FG_MISS,None,5:07,1,Knicks,Jazz,12 - 22,0,26,3,Jumper
+59,Rudy Gobert,DEFENSIVE_REBOUND,None,5:04,1,Jazz,Knicks,12 - 22,1,N/A,N/A,N/A
+60,Donovan Mitchell,TURNOVER,Lance Thomas,4:59,1,Jazz,Knicks,12 - 22,1,N/A,N/A,N/A
+61,Dante Exum,FOUL_ON_FLOOR,None,4:56,1,Jazz,Knicks,12 - 22,1,N/A,N/A,N/A
+62,Frank Ntilikina,FG_MISS,None,4:41,1,Knicks,Jazz,12 - 22,0,0,2,Layup
+63,Rudy Gobert,DEFENSIVE_REBOUND,None,4:39,1,Jazz,Knicks,12 - 22,1,N/A,N/A,N/A
+64,Rudy Gobert,FG_ASSISTED,Dante Exum,4:34,1,Jazz,Knicks,12 - 24,1,0,2,Layup
+65,Lance Thomas,FOUL_ON_FLOOR,None,4:34,1,Knicks,Jazz,12 - 24,0,N/A,N/A,N/A
+66,Rudy Gobert,FT,None,4:34,1,Jazz,Knicks,12 - 25,1,N/A,1,N/A
+67,Frank Ntilikina,FG_UNASSISTED,None,4:23,1,Knicks,Jazz,14 - 25,0,0,2,Dunk
+68,Rudy Gobert,FG_MISS,None,4:01,1,Jazz,Knicks,14 - 25,1,0,2,Layup
+69,Team,OFFENSIVE_REBOUND,None,4:01,1,Jazz,Knicks,14 - 25,1,N/A,N/A,N/A
+70,Lance Thomas,FOUL_ON_FLOOR,None,4:01,1,Knicks,Jazz,14 - 25,0,N/A,N/A,N/A
+71,Rudy Gobert,FT,None,4:01,1,Jazz,Knicks,14 - 26,1,N/A,1,N/A
+72,Enes Kanter,SUBSTITUTION,Kornet Luke,4:01,1,Knicks,Jazz,14 - 26,0,N/A,N/A,N/A
+73,Rudy Gobert,FT,None,4:01,1,Jazz,Knicks,14 - 27,1,N/A,1,N/A
+74,Frank Ntilikina,FG_MISS,None,3:48,1,Knicks,Jazz,14 - 27,0,14,2,Jumper
+75,Donovan Mitchell,DEFENSIVE_REBOUND,None,3:46,1,Jazz,Knicks,14 - 27,1,N/A,N/A,N/A
+76,Kyle Korver,FG_ASSISTED,Donovan Mitchell,3:38,1,Jazz,Knicks,14 - 30,1,24,3,Jumper
+77,Allonzo Trier,FG_MISS,None,3:26,1,Knicks,Jazz,14 - 30,0,19,2,Jumper
+78,Thabo Sefolosha,DEFENSIVE_REBOUND,None,3:24,1,Jazz,Knicks,14 - 30,1,N/A,N/A,N/A
+79,Dante Exum,FG_MISS,None,3:11,1,Jazz,Knicks,14 - 30,1,0,2,Layup
+80,Team,DEFENSIVE_REBOUND,None,3:11,1,Knicks,Jazz,14 - 30,0,N/A,N/A,N/A
+81,Raul Neto,SUBSTITUTION,Exum Dante,3:11,1,Jazz,Knicks,14 - 30,1,N/A,N/A,N/A
+82,Kevin Knox,FG_ASSISTED,Enes Kanter,2:58,1,Knicks,Jazz,17 - 30,0,25,3,Jumper
+83,Kyle Korver,FG_MISS,None,2:37,1,Jazz,Knicks,17 - 30,1,23,3,Jumper
+84,Rudy Gobert,OFFENSIVE_REBOUND,None,2:35,1,Jazz,Knicks,17 - 30,1,N/A,N/A,N/A
+85,Thabo Sefolosha,FG_MISS,None,2:34,1,Jazz,Knicks,17 - 30,1,23,3,Jumper
+86,Kevin Knox,DEFENSIVE_REBOUND,None,2:32,1,Knicks,Jazz,17 - 30,0,N/A,N/A,N/A
+87,Enes Kanter,FG_MISS,None,2:22,1,Knicks,Jazz,17 - 30,0,0,2,Layup
+88,Thabo Sefolosha,DEFENSIVE_REBOUND,None,2:20,1,Jazz,Knicks,17 - 30,1,N/A,N/A,N/A
+89,Donovan Mitchell,FG_UNASSISTED,None,2:09,1,Jazz,Knicks,17 - 32,1,0,2,Layup
+90,Lance Thomas,FOUL_ON_FLOOR,None,2:09,1,Knicks,Jazz,17 - 32,0,N/A,N/A,N/A
+91,Derrick Favors,SUBSTITUTION,Gobert Rudy,2:09,1,Jazz,Knicks,17 - 32,1,N/A,N/A,N/A
+92,Damyean Dotson,SUBSTITUTION,Thomas Lance,2:09,1,Knicks,Jazz,17 - 32,0,N/A,N/A,N/A
+93,Donovan Mitchell,FT,None,2:09,1,Jazz,Knicks,17 - 33,1,N/A,1,N/A
+94,Kevin Knox,FG_MISS,None,1:54,1,Knicks,Jazz,17 - 33,0,9,2,Jumper
+95,Derrick Favors,DEFENSIVE_REBOUND,None,1:50,1,Jazz,Knicks,17 - 33,1,N/A,N/A,N/A
+96,Donovan Mitchell,FG_MISS,None,1:37,1,Jazz,Knicks,17 - 33,1, ,2,Jumper
+97,Derrick Favors,OFFENSIVE_REBOUND,None,1:34,1,Jazz,Knicks,17 - 33,1,N/A,N/A,N/A
+98,Derrick Favors,FG_UNASSISTED,None,1:33,1,Jazz,Knicks,17 - 35,1,0,2,Dunk
+99,Enes Kanter,TURNOVER,None,1:20,1,Knicks,Jazz,17 - 35,0,N/A,N/A,N/A
+100,Joe Ingles,SUBSTITUTION,Mitchell Donovan,1:20,1,Jazz,Knicks,17 - 35,1,N/A,N/A,N/A
+101,Kyle Korver,FG_MISS,None,1:06,1,Jazz,Knicks,17 - 35,1,27,3,Jumper
+102,Allonzo Trier,DEFENSIVE_REBOUND,None,1:03,1,Knicks,Jazz,17 - 35,0,N/A,N/A,N/A
+103,Kyle Korver,FOUL_ON_FLOOR,None,53.8,1,Jazz,Knicks,17 - 35,1,N/A,N/A,N/A
+104,Frank Ntilikina,TURNOVER,None,50.1,1,Knicks,Jazz,17 - 35,0,N/A,N/A,N/A
+105,Frank Ntilikina,TURNOVER,None,50.1,1,Knicks,Jazz,17 - 35,0,N/A,N/A,N/A
+106,Allonzo Trier,FOUL_ON_FLOOR,None,40.1,1,Knicks,Jazz,17 - 35,0,N/A,N/A,N/A
+107,Joe Ingles,FT,None,40.1,1,Jazz,Knicks,17 - 36,1,N/A,1,N/A
+108,Joe Ingles,FT,None,40.1,1,Jazz,Knicks,17 - 37,1,N/A,1,N/A
+109,Frank Ntilikina,FG_MISS,None,34.4,1,Knicks,Jazz,17 - 37,0,12,2,Jumper
+110,Thabo Sefolosha,DEFENSIVE_REBOUND,None,30.7,1,Jazz,Knicks,17 - 37,1,N/A,N/A,N/A
+111,Joe Ingles,FG_MISS,None,21.5,1,Jazz,Knicks,17 - 37,1,0,2,Layup
+112,Derrick Favors,OFFENSIVE_REBOUND,None,18.9,1,Jazz,Knicks,17 - 37,1,N/A,N/A,N/A
+113,Derrick Favors,FG_MISS,None,18.9,1,Jazz,Knicks,17 - 37,1, ,2,Jumper
+114,Frank Ntilikina,DEFENSIVE_REBOUND,None,18.3,1,Knicks,Jazz,17 - 37,0,N/A,N/A,N/A
+115,Allonzo Trier,TURNOVER,Joe Ingles,4.7,1,Knicks,Jazz,17 - 37,0,N/A,N/A,N/A
+116,Thabo Sefolosha,FG_ASSISTED,Joe Ingles,0.6,1,Jazz,Knicks,17 - 39,1,0,2,Layup
+117,Allonzo Trier,Unknown,None,0.6,1,Knicks,Jazz,17 - 39,0,N/A,N/A,N/A
+118,End of,Unknown,None,0.0,1,Jazz,Knicks,17 - 39,1,N/A,N/A,N/A
+0,Mario Hezonja,SUBSTITUTION,Knox Kevin,12:00,2,Knicks,Jazz,17 - 39,0,N/A,N/A,N/A
+1,Frank Ntilikina,FG_MISS,None,11:34,2,Knicks,Jazz,17 - 39,0, ,3,Jumper
+2,Enes Kanter,OFFENSIVE_REBOUND,None,11:31,2,Knicks,Jazz,17 - 39,0,N/A,N/A,N/A
+3,Enes Kanter,FG_MISS,None,11:30,2,Knicks,Jazz,17 - 39,0,0,2,Layup
+4,Derrick Favors,DEFENSIVE_REBOUND,None,11:27,2,Jazz,Knicks,17 - 39,1,N/A,N/A,N/A
+5,Joe Ingles,FG_UNASSISTED,None,11:17,2,Jazz,Knicks,17 - 41,1,0,2,Layup
+6,Joe Ingles,FOUL_TECHNICAL,None,11:16,2,Jazz,Knicks,17 - 41,1,N/A,N/A,N/A
+7,Damyean Dotson,FT,None,11:16,2,Knicks,Jazz,18 - 41,0,N/A,1,N/A
+8,Mario Hezonja,TURNOVER,Thabo Sefolosha,10:57,2,Knicks,Jazz,18 - 41,0,N/A,N/A,N/A
+9,Frank Ntilikina,FOUL_ON_FLOOR,None,10:46,2,Knicks,Jazz,18 - 41,0,N/A,N/A,N/A
+10,Thabo Sefolosha,FT_MISS,None,10:46,2,Jazz,Knicks,18 - 41,1,N/A,1,N/A
+11,Team,OFFENSIVE_REBOUND,None,10:46,2,Jazz,Knicks,18 - 41,1,N/A,N/A,N/A
+12,Thabo Sefolosha,FT_MISS,None,10:46,2,Jazz,Knicks,18 - 41,1,N/A,1,N/A
+13,Mario Hezonja,DEFENSIVE_REBOUND,None,10:44,2,Knicks,Jazz,18 - 41,0,N/A,N/A,N/A
+14,Mario Hezonja,TURNOVER,None,10:38,2,Knicks,Jazz,18 - 41,0,N/A,N/A,N/A
+15,Raul Neto,FG_ASSISTED,Kyle Korver,10:18,2,Jazz,Knicks,18 - 43,1,0,2,Layup
+16,Derrick Favors,FOUL_ON_FLOOR,None,10:04,2,Jazz,Knicks,18 - 43,1,N/A,N/A,N/A
+17,Allonzo Trier,FG_MISS,None,9:54,2,Knicks,Jazz,18 - 43,0,25,3,Jumper
+18,Raul Neto,DEFENSIVE_REBOUND,None,9:52,2,Jazz,Knicks,18 - 43,1,N/A,N/A,N/A
+19,Joe Ingles,TURNOVER,Enes Kanter,9:48,2,Jazz,Knicks,18 - 43,1,N/A,N/A,N/A
+20,Raul Neto,FOUL_ON_FLOOR,None,9:46,2,Jazz,Knicks,18 - 43,1,N/A,N/A,N/A
+21,Royce O'Neale,SUBSTITUTION,Korver Kyle,9:46,2,Jazz,Knicks,18 - 43,1,N/A,N/A,N/A
+22,Damyean Dotson,FG_MISS,None,9:41,2,Knicks,Jazz,18 - 43,0,26,3,Jumper
+23,Thabo Sefolosha,DEFENSIVE_REBOUND,None,9:37,2,Jazz,Knicks,18 - 43,1,N/A,N/A,N/A
+24,Thabo Sefolosha,TURNOVER,None,9:29,2,Jazz,Knicks,18 - 43,1,N/A,N/A,N/A
+25,Thabo Sefolosha,FOUL_ON_FLOOR,None,9:17,2,Jazz,Knicks,18 - 43,1,N/A,N/A,N/A
+26,Emmanuel Mudiay,SUBSTITUTION,Ntilikina Frank,9:17,2,Knicks,Jazz,18 - 43,0,N/A,N/A,N/A
+27,Allonzo Trier,FG_MISS,None,9:10,2,Knicks,Jazz,18 - 43,0,19,2,Jumper
+28,Damyean Dotson,OFFENSIVE_REBOUND,None,9:05,2,Knicks,Jazz,18 - 43,0,N/A,N/A,N/A
+29,Emmanuel Mudiay,FG_MISS,None,8:54,2,Knicks,Jazz,18 - 43,0,10,2,Jumper
+30,Royce O'Neale,DEFENSIVE_REBOUND,None,8:51,2,Jazz,Knicks,18 - 43,1,N/A,N/A,N/A
+31,Joe Ingles,FOUL_ON_FLOOR,None,8:46,2,Jazz,Knicks,18 - 43,1,N/A,N/A,N/A
+32,Joe Ingles,TURNOVER,None,8:46,2,Jazz,Knicks,18 - 43,1,N/A,N/A,N/A
+33,Damyean Dotson,FG_MISS,None,8:28,2,Knicks,Jazz,18 - 43,0,22,2,Jumper
+34,Derrick Favors,DEFENSIVE_REBOUND,None,8:24,2,Jazz,Knicks,18 - 43,1,N/A,N/A,N/A
+35,Raul Neto,FG_MISS,None,8:13,2,Jazz,Knicks,18 - 43,1,25,3,Jumper
+36,Enes Kanter,DEFENSIVE_REBOUND,None,8:10,2,Knicks,Jazz,18 - 43,0,N/A,N/A,N/A
+37,Allonzo Trier,FOUL_ON_FLOOR,None,7:56,2,Knicks,Jazz,18 - 43,0,N/A,N/A,N/A
+38,Allonzo Trier,TURNOVER,None,7:56,2,Knicks,Jazz,18 - 43,0,N/A,N/A,N/A
+39,Rudy Gobert,SUBSTITUTION,Favors Derrick,7:56,2,Jazz,Knicks,18 - 43,1,N/A,N/A,N/A
+40,Dante Exum,SUBSTITUTION,Neto Raul,7:56,2,Jazz,Knicks,18 - 43,1,N/A,N/A,N/A
+41,Noah Vonleh,SUBSTITUTION,Kanter Enes,7:56,2,Knicks,Jazz,18 - 43,0,N/A,N/A,N/A
+42,Tim Hardaway,SUBSTITUTION,Trier Allonzo,7:56,2,Knicks,Jazz,18 - 43,0,N/A,N/A,N/A
+43,Dante Exum,FG_MISS,None,7:39,2,Jazz,Knicks,18 - 43,1,27,3,Jumper
+44,Damyean Dotson,DEFENSIVE_REBOUND,None,7:37,2,Knicks,Jazz,18 - 43,0,N/A,N/A,N/A
+45,Damyean Dotson,FG_UNASSISTED,None,7:32,2,Knicks,Jazz,21 - 43,0,25,3,Jumper
+46,Team,Unknown,None,7:24,2,Jazz,Knicks,21 - 43,1,N/A,N/A,N/A
+47,Kyle Korver,SUBSTITUTION,Ingles Joe,7:24,2,Jazz,Knicks,21 - 43,1,N/A,N/A,N/A
+48,Kevin Knox,SUBSTITUTION,Hezonja Mario,7:24,2,Knicks,Jazz,21 - 43,0,N/A,N/A,N/A
+49,Donovan Mitchell,SUBSTITUTION,Sefolosha Thabo,7:24,2,Jazz,Knicks,21 - 43,1,N/A,N/A,N/A
+50,Kyle Korver,FG_MISS,None,7:09,2,Jazz,Knicks,21 - 43,1, ,2,Jumper
+51,Noah Vonleh,DEFENSIVE_REBOUND,None,7:06,2,Knicks,Jazz,21 - 43,0,N/A,N/A,N/A
+52,Kevin Knox,FG_MISS,None,6:55,2,Knicks,Jazz,21 - 43,0,16,2,Jumper
+53,Donovan Mitchell,DEFENSIVE_REBOUND,None,6:51,2,Jazz,Knicks,21 - 43,1,N/A,N/A,N/A
+54,Damyean Dotson,FOUL_ON_FLOOR,None,6:42,2,Knicks,Jazz,21 - 43,0,N/A,N/A,N/A
+55,Kyle Korver,FG_ASSISTED,Dante Exum,6:36,2,Jazz,Knicks,21 - 46,1,25,3,Jumper
+56,Damyean Dotson,FG_ASSISTED,Emmanuel Mudiay,6:18,2,Knicks,Jazz,24 - 46,0,22,2,Jumper
+57,Rudy Gobert,FG_ASSISTED,Dante Exum,6:03,2,Jazz,Knicks,24 - 48,1,0,2,Dunk
+58,Noah Vonleh,FOUL_ON_FLOOR,None,5:46,2,Knicks,Jazz,24 - 48,0,N/A,N/A,N/A
+59,Noah Vonleh,TURNOVER,None,5:46,2,Knicks,Jazz,24 - 48,0,N/A,N/A,N/A
+60,Luke Kornet,SUBSTITUTION,Vonleh Noah,5:46,2,Knicks,Jazz,24 - 48,0,N/A,N/A,N/A
+61,Dante Exum,FG_UNASSISTED,None,5:35,2,Jazz,Knicks,24 - 50,1,0,2,Layup
+62,Tim Hardaway,TURNOVER,None,5:26,2,Knicks,Jazz,24 - 50,0,N/A,N/A,N/A
+63,Dante Exum,TURNOVER,Tim Hardaway,5:10,2,Jazz,Knicks,24 - 50,1,N/A,N/A,N/A
+64,Tim Hardaway,TURNOVER,Donovan Mitchell,5:07,2,Knicks,Jazz,24 - 50,0,N/A,N/A,N/A
+65,Royce O'Neale,FG_MISS,None,5:04,2,Jazz,Knicks,24 - 50,1,24,3,Jumper
+66,Damyean Dotson,DEFENSIVE_REBOUND,None,5:02,2,Knicks,Jazz,24 - 50,0,N/A,N/A,N/A
+67,Tim Hardaway,FG_MISS,None,4:52,2,Knicks,Jazz,24 - 50,0,23,3,Jumper
+68,Rudy Gobert,DEFENSIVE_REBOUND,None,4:49,2,Jazz,Knicks,24 - 50,1,N/A,N/A,N/A
+69,Donovan Mitchell,FG_UNASSISTED,None,4:32,2,Jazz,Knicks,24 - 53,1,26,3,Jumper
+70,Team,Unknown,None,4:24,2,Knicks,Jazz,24 - 53,0,N/A,N/A,N/A
+71,Damyean Dotson,FG_MISS,None,4:15,2,Knicks,Jazz,24 - 53,0,25,3,Jumper
+72,Royce O'Neale,DEFENSIVE_REBOUND,None,4:12,2,Jazz,Knicks,24 - 53,1,N/A,N/A,N/A
+73,Rudy Gobert,FG_ASSISTED,Dante Exum,3:59,2,Jazz,Knicks,24 - 55,1,0,2,Dunk
+74,Luke Kornet,FG_MISS,None,3:40,2,Knicks,Jazz,24 - 55,0,13,2,Jumper
+75,Royce O'Neale,DEFENSIVE_REBOUND,None,3:37,2,Jazz,Knicks,24 - 55,1,N/A,N/A,N/A
+76,Royce O'Neale,TURNOVER,None,3:31,2,Jazz,Knicks,24 - 55,1,N/A,N/A,N/A
+77,Dante Exum,FOUL_ON_FLOOR,None,3:20,2,Jazz,Knicks,24 - 55,1,N/A,N/A,N/A
+78,Tim Hardaway,FG_MISS,None,3:15,2,Knicks,Jazz,24 - 55,0,25,3,Jumper
+79,Rudy Gobert,DEFENSIVE_REBOUND,None,3:12,2,Jazz,Knicks,24 - 55,1,N/A,N/A,N/A
+80,Tim Hardaway,FOUL_ON_FLOOR,None,3:05,2,Knicks,Jazz,24 - 55,0,N/A,N/A,N/A
+81,Rudy Gobert,FG_ASSISTED,Dante Exum,2:58,2,Jazz,Knicks,24 - 57,1,0,2,Dunk
+82,Tim Hardaway,FG_MISS,Royce O'Neale,2:39,2,Jazz,Knicks,24 - 57,0,0,2,Layup
+83,Tim Hardaway,OFFENSIVE_REBOUND,None,2:36,2,Knicks,Jazz,24 - 57,0,N/A,N/A,N/A
+84,Tim Hardaway,FG_UNASSISTED,None,2:35,2,Knicks,Jazz,26 - 57,0, ,2,Jumper
+85,Donovan Mitchell,FG_ASSISTED,Dante Exum,2:26,2,Jazz,Knicks,26 - 60,1,26,3,Jumper
+86,Royce O'Neale,FOUL_ON_FLOOR,None,2:16,2,Jazz,Knicks,26 - 60,1,N/A,N/A,N/A
+87,Tim Hardaway,FT,None,2:16,2,Knicks,Jazz,27 - 60,0,N/A,1,N/A
+88,Tim Hardaway,FT,None,2:16,2,Knicks,Jazz,28 - 60,0,N/A,1,N/A
+89,Kyle Korver,FG_ASSISTED,Dante Exum,2:08,2,Jazz,Knicks,28 - 63,1,25,3,Jumper
+90,Luke Kornet,FG_MISS,None,1:57,2,Knicks,Jazz,28 - 63,0,0,2,Layup
+91,Rudy Gobert,DEFENSIVE_REBOUND,None,1:56,2,Jazz,Knicks,28 - 63,1,N/A,N/A,N/A
+92,Dante Exum,FG_MISS,None,1:50,2,Jazz,Knicks,28 - 63,1,25,3,Jumper
+93,Kevin Knox,DEFENSIVE_REBOUND,None,1:47,2,Knicks,Jazz,28 - 63,0,N/A,N/A,N/A
+94,Kevin Knox,FG_MISS,None,1:40,2,Knicks,Jazz,28 - 63,0,25,3,Jumper
+95,Rudy Gobert,DEFENSIVE_REBOUND,None,1:37,2,Jazz,Knicks,28 - 63,1,N/A,N/A,N/A
+96,Donovan Mitchell,FG_ASSISTED,Dante Exum,1:28,2,Jazz,Knicks,28 - 65,1,12,2,Jumper
+97,Tim Hardaway,FG_MISS,None,1:16,2,Knicks,Jazz,28 - 65,0,18,2,Jumper
+98,Royce O'Neale,DEFENSIVE_REBOUND,None,1:14,2,Jazz,Knicks,28 - 65,1,N/A,N/A,N/A
+99,Dante Exum,FG_UNASSISTED,None,1:04,2,Jazz,Knicks,28 - 67,1,3,2,Jumper
+100,Rudy Gobert,FOUL_ON_FLOOR,None,45.4,2,Jazz,Knicks,28 - 67,1,N/A,N/A,N/A
+101,Joe Ingles,SUBSTITUTION,Korver Kyle,45.4,2,Jazz,Knicks,28 - 67,1,N/A,N/A,N/A
+102,Damyean Dotson,FT,None,45.4,2,Knicks,Jazz,29 - 67,0,N/A,1,N/A
+103,Damyean Dotson,FT,None,45.4,2,Knicks,Jazz,30 - 67,0,N/A,1,N/A
+104,Royce O'Neale,FOUL_ON_FLOOR,None,45.4,2,Jazz,Knicks,30 - 67,1,N/A,N/A,N/A
+105,Tim Hardaway,FT,None,45.4,2,Knicks,Jazz,31 - 67,0,N/A,1,N/A
+106,Dante Exum,FG_MISS,None,36.9,2,Jazz,Knicks,31 - 67,1,0,2,Layup
+107,Rudy Gobert,OFFENSIVE_REBOUND,None,34.8,2,Jazz,Knicks,31 - 67,1,N/A,N/A,N/A
+108,Rudy Gobert,FG_UNASSISTED,None,34.8,2,Jazz,Knicks,31 - 69,1,0,2,Dunk
+109,Emmanuel Mudiay,FG_MISS,None,25.4,2,Knicks,Jazz,31 - 69,0, ,2,Jumper
+110,Rudy Gobert,DEFENSIVE_REBOUND,None,23.4,2,Jazz,Knicks,31 - 69,1,N/A,N/A,N/A
+111,Donovan Mitchell,FG_UNASSISTED,None,4.6,2,Jazz,Knicks,31 - 71,1,3,2,Jumper
+112,Tim Hardaway,FG_UNASSISTED,None,1.1,2,Knicks,Jazz,34 - 71,0,37,3,Jumper
+113,End of,Unknown,None,0.0,2,Jazz,Knicks,34 - 71,1,N/A,N/A,N/A
+0,Derrick Favors,SUBSTITUTION,O'Neale Royce,12:00,3,Jazz,Knicks,34 - 71,1,N/A,N/A,N/A
+1,Noah Vonleh,SUBSTITUTION,Dotson Damyean,12:00,3,Knicks,Jazz,34 - 71,0,N/A,N/A,N/A
+2,Noah Vonleh,FG_ASSISTED,Emmanuel Mudiay,11:40,3,Knicks,Jazz,37 - 71,0,26,3,Jumper
+3,Dante Exum,FG_MISS,None,11:14,3,Jazz,Knicks,37 - 71,1, ,2,Jumper
+4,Noah Vonleh,DEFENSIVE_REBOUND,None,11:12,3,Knicks,Jazz,37 - 71,0,N/A,N/A,N/A
+5,Tim Hardaway,FG_UNASSISTED,None,11:06,3,Knicks,Jazz,39 - 71,0,19,2,Jumper
+6,Donovan Mitchell,FOUL_ON_FLOOR,None,11:05,3,Jazz,Knicks,39 - 71,1,N/A,N/A,N/A
+7,Noah Vonleh,FT_MISS,None,11:05,3,Knicks,Jazz,39 - 71,0,N/A,1,N/A
+8,Rudy Gobert,DEFENSIVE_REBOUND,None,11:05,3,Jazz,Knicks,39 - 71,1,N/A,N/A,N/A
+9,Kevin Knox,FOUL_ON_FLOOR,None,10:50,3,Knicks,Jazz,40 - 71,0,N/A,N/A,N/A
+10,Rudy Gobert,FT,None,10:50,3,Jazz,Knicks,40 - 72,1,N/A,1,N/A
+11,Rudy Gobert,FT_MISS,None,10:50,3,Jazz,Knicks,40 - 72,1,N/A,1,N/A
+12,Luke Kornet,DEFENSIVE_REBOUND,None,10:48,3,Knicks,Jazz,40 - 72,0,N/A,N/A,N/A
+13,Luke Kornet,TURNOVER,None,10:44,3,Knicks,Jazz,40 - 72,0,N/A,N/A,N/A
+14,Donovan Mitchell,FG_MISS,None,10:26,3,Jazz,Knicks,39 - 72,1,26,3,Jumper
+15,Noah Vonleh,DEFENSIVE_REBOUND,None,10:23,3,Knicks,Jazz,39 - 72,0,N/A,N/A,N/A
+16,Emmanuel Mudiay,FG_UNASSISTED,None,10:11,3,Knicks,Jazz,41 - 72,0,11,2,Jumper
+17,Donovan Mitchell,FG_MISS,None,9:54,3,Jazz,Knicks,41 - 72,1,19,2,Jumper
+18,Noah Vonleh,DEFENSIVE_REBOUND,None,9:51,3,Knicks,Jazz,41 - 72,0,N/A,N/A,N/A
+19,Tim Hardaway,FG_MISS,None,9:44,3,Knicks,Jazz,41 - 72,0,26,2,Jumper
+20,Derrick Favors,DEFENSIVE_REBOUND,None,9:40,3,Jazz,Knicks,41 - 72,1,N/A,N/A,N/A
+21,Joe Ingles,FG_MISS,None,9:27,3,Jazz,Knicks,41 - 72,1, ,3,Jumper
+22,Derrick Favors,OFFENSIVE_REBOUND,None,9:23,3,Jazz,Knicks,41 - 72,1,N/A,N/A,N/A
+23,Donovan Mitchell,FG_MISS,None,9:12,3,Jazz,Knicks,41 - 72,1,26,3,Jumper
+24,Rudy Gobert,OFFENSIVE_REBOUND,None,9:09,3,Jazz,Knicks,41 - 72,1,N/A,N/A,N/A
+25,Dante Exum,FG_UNASSISTED,None,9:02,3,Jazz,Knicks,41 - 74,1,0,2,Layup
+26,Emmanuel Mudiay,FOUL_ON_FLOOR,None,9:02,3,Knicks,Jazz,41 - 74,0,N/A,N/A,N/A
+27,Dante Exum,FT,None,9:02,3,Jazz,Knicks,41 - 75,1,N/A,1,N/A
+28,Emmanuel Mudiay,Unknown,None,9:02,3,Knicks,Jazz,41 - 75,0,N/A,N/A,N/A
+29,Noah Vonleh,FG_ASSISTED,Emmanuel Mudiay,8:45,3,Knicks,Jazz,43 - 75,0, ,2,Jumper
+30,Rudy Gobert,FOUL_ON_FLOOR,None,8:45,3,Jazz,Knicks,43 - 75,1,N/A,N/A,N/A
+31,Noah Vonleh,FT,None,8:45,3,Knicks,Jazz,44 - 75,0,N/A,1,N/A
+32,Rudy Gobert,TURNOVER,Noah Vonleh,8:32,3,Jazz,Knicks,44 - 75,1,N/A,N/A,N/A
+33,Joe Ingles,FOUL_ON_FLOOR,None,8:30,3,Jazz,Knicks,44 - 75,1,N/A,N/A,N/A
+34,Emmanuel Mudiay,FG_UNASSISTED,None,8:24,3,Knicks,Jazz,46 - 75,0,0,2,Layup
+35,Team,Unknown,None,8:23,3,Jazz,Knicks,44 - 75,1,N/A,N/A,N/A
+36,Joe Ingles,TURNOVER,Luke Kornet,8:07,3,Jazz,Knicks,46 - 75,1,N/A,N/A,N/A
+37,Emmanuel Mudiay,FG_UNASSISTED,None,8:03,3,Knicks,Jazz,48 - 75,0,0,2,Layup
+38,Tim Hardaway,FOUL_ON_FLOOR,None,7:46,3,Knicks,Jazz,48 - 75,0,N/A,N/A,N/A
+39,Kyle Korver,SUBSTITUTION,Ingles Joe,7:46,3,Jazz,Knicks,48 - 75,1,N/A,N/A,N/A
+40,Thabo Sefolosha,SUBSTITUTION,Favors Derrick,7:46,3,Jazz,Knicks,48 - 75,1,N/A,N/A,N/A
+41,Kyle Korver,FG_MISS,None,7:41,3,Jazz,Knicks,48 - 75,1,25,3,Jumper
+42,Noah Vonleh,DEFENSIVE_REBOUND,None,7:38,3,Knicks,Jazz,48 - 75,0,N/A,N/A,N/A
+43,Noah Vonleh,FG_ASSISTED,Emmanuel Mudiay,7:26,3,Knicks,Jazz,51 - 75,0,26,3,Jumper
+44,Kyle Korver,FG_ASSISTED,Dante Exum,7:07,3,Jazz,Knicks,51 - 78,1,23,3,Jumper
+45,Kevin Knox,TURNOVER,Kyle Korver,6:43,3,Knicks,Jazz,51 - 78,0,N/A,N/A,N/A
+46,Donovan Mitchell,TURNOVER,Noah Vonleh,6:37,3,Jazz,Knicks,51 - 78,1,N/A,N/A,N/A
+47,Kevin Knox,FG_ASSISTED,Luke Kornet,6:28,3,Knicks,Jazz,54 - 78,0,25,3,Jumper
+48,Dante Exum,FG_UNASSISTED,None,6:12,3,Jazz,Knicks,54 - 80,1,11,2,Jumper
+49,Noah Vonleh,FG_MISS,Rudy Gobert,5:57,3,Jazz,Knicks,54 - 80,0,0,2,Layup
+50,Thabo Sefolosha,DEFENSIVE_REBOUND,None,5:55,3,Jazz,Knicks,54 - 80,1,N/A,N/A,N/A
+51,Kyle Korver,FG_MISS,None,5:46,3,Jazz,Knicks,54 - 80,1,16,2,Jumper
+52,Luke Kornet,DEFENSIVE_REBOUND,None,5:43,3,Knicks,Jazz,54 - 80,0,N/A,N/A,N/A
+53,Emmanuel Mudiay,FG_ASSISTED,Luke Kornet,5:24,3,Knicks,Jazz,57 - 80,0,29,3,Jumper
+54,Donovan Mitchell,FG_MISS,None,5:02,3,Jazz,Knicks,57 - 80,1,12,2,Jumper
+55,Rudy Gobert,OFFENSIVE_REBOUND,None,4:59,3,Jazz,Knicks,57 - 80,1,N/A,N/A,N/A
+56,Rudy Gobert,FG_MISS,None,4:56,3,Jazz,Knicks,57 - 80,1,0,2,Layup
+57,Noah Vonleh,DEFENSIVE_REBOUND,None,4:54,3,Knicks,Jazz,57 - 80,0,N/A,N/A,N/A
+58,Derrick Favors,SUBSTITUTION,Gobert Rudy,4:49,3,Jazz,Knicks,57 - 80,1,N/A,N/A,N/A
+59,Damyean Dotson,SUBSTITUTION,Knox Kevin,4:49,3,Knicks,Jazz,57 - 80,0,N/A,N/A,N/A
+60,Tim Hardaway,TURNOVER,Thabo Sefolosha,4:47,3,Knicks,Jazz,57 - 80,0,N/A,N/A,N/A
+61,Thabo Sefolosha,FG_UNASSISTED,None,4:44,3,Jazz,Knicks,57 - 82,1,0,2,Dunk
+62,Team,Unknown,None,4:43,3,Knicks,Jazz,57 - 82,0,N/A,N/A,N/A
+63,Enes Kanter,SUBSTITUTION,Kornet Luke,4:43,3,Knicks,Jazz,57 - 82,0,N/A,N/A,N/A
+64,Tim Hardaway,FG_ASSISTED,Enes Kanter,4:30,3,Knicks,Jazz,60 - 82,0,26,3,Jumper
+65,Donovan Mitchell,FG_MISS,None,4:14,3,Jazz,Knicks,60 - 82,1,0,2,Layup
+66,Donovan Mitchell,OFFENSIVE_REBOUND,None,4:13,3,Jazz,Knicks,60 - 82,1,N/A,N/A,N/A
+67,Donovan Mitchell,FG_UNASSISTED,None,4:12,3,Jazz,Knicks,60 - 84,1,0,2,Layup
+68,Tim Hardaway,TURNOVER,Thabo Sefolosha,3:53,3,Knicks,Jazz,60 - 84,0,N/A,N/A,N/A
+69,Kyle Korver,TURNOVER,Noah Vonleh,3:48,3,Jazz,Knicks,60 - 84,1,N/A,N/A,N/A
+70,Emmanuel Mudiay,FG_MISS,None,3:43,3,Knicks,Jazz,60 - 84,0,25,3,Jumper
+71,Donovan Mitchell,DEFENSIVE_REBOUND,None,3:42,3,Jazz,Knicks,60 - 84,1,N/A,N/A,N/A
+72,Emmanuel Mudiay,FOUL_ON_FLOOR,None,3:42,3,Knicks,Jazz,60 - 84,0,N/A,N/A,N/A
+73,Raul Neto,SUBSTITUTION,Exum Dante,3:42,3,Jazz,Knicks,60 - 84,1,N/A,N/A,N/A
+74,Frank Ntilikina,SUBSTITUTION,Mudiay Emmanuel,3:42,3,Knicks,Jazz,60 - 84,0,N/A,N/A,N/A
+75,Thabo Sefolosha,FG_ASSISTED,Donovan Mitchell,3:28,3,Jazz,Knicks,60 - 87,1,25,3,Jumper
+76,Noah Vonleh,FG_MISS,None,3:07,3,Knicks,Jazz,60 - 87,0, ,2,Jumper
+77,Enes Kanter,OFFENSIVE_REBOUND,None,3:04,3,Knicks,Jazz,60 - 87,0,N/A,N/A,N/A
+78,Enes Kanter,FG_MISS,None,3:04,3,Knicks,Jazz,60 - 87,0, ,2,Jumper
+79,Enes Kanter,OFFENSIVE_REBOUND,None,3:03,3,Knicks,Jazz,60 - 87,0,N/A,N/A,N/A
+80,Enes Kanter,FG_MISS,None,3:03,3,Knicks,Jazz,60 - 87,0, ,2,Jumper
+81,Thabo Sefolosha,DEFENSIVE_REBOUND,None,3:02,3,Jazz,Knicks,60 - 87,1,N/A,N/A,N/A
+82,Derrick Favors,FG_MISS,None,2:46,3,Jazz,Knicks,60 - 87,1,0,2,Layup
+83,Tim Hardaway,DEFENSIVE_REBOUND,None,2:43,3,Knicks,Jazz,60 - 87,0,N/A,N/A,N/A
+84,Kyle Korver,FOUL_ON_FLOOR,None,2:41,3,Jazz,Knicks,60 - 87,1,N/A,N/A,N/A
+85,Tim Hardaway,FT,None,2:41,3,Knicks,Jazz,61 - 87,0,N/A,1,N/A
+86,Joe Ingles,SUBSTITUTION,Mitchell Donovan,2:41,3,Jazz,Knicks,61 - 87,1,N/A,N/A,N/A
+87,Kevin Knox,SUBSTITUTION,Vonleh Noah,2:41,3,Knicks,Jazz,61 - 87,0,N/A,N/A,N/A
+88,Tim Hardaway,FT_MISS,None,2:41,3,Knicks,Jazz,61 - 87,0,N/A,1,N/A
+89,Thabo Sefolosha,DEFENSIVE_REBOUND,None,2:39,3,Jazz,Knicks,61 - 87,1,N/A,N/A,N/A
+90,Raul Neto,FG_UNASSISTED,None,2:17,3,Jazz,Knicks,61 - 89,1,0,2,Layup
+91,Kyle Korver,FOUL_ON_FLOOR,None,2:11,3,Jazz,Knicks,61 - 89,1,N/A,N/A,N/A
+92,Tim Hardaway,FT,None,2:11,3,Knicks,Jazz,62 - 89,0,N/A,1,N/A
+93,Royce O'Neale,SUBSTITUTION,Korver Kyle,2:11,3,Jazz,Knicks,62 - 89,1,N/A,N/A,N/A
+94,Tim Hardaway,FT,None,2:11,3,Knicks,Jazz,63 - 89,0,N/A,1,N/A
+95,Royce O'Neale,FG_ASSISTED,Joe Ingles,1:59,3,Jazz,Knicks,63 - 92,1,25,3,Jumper
+96,Enes Kanter,FG_MISS,None,1:32,3,Knicks,Jazz,63 - 92,0, ,2,Jumper
+97,Derrick Favors,DEFENSIVE_REBOUND,None,1:31,3,Jazz,Knicks,63 - 92,1,N/A,N/A,N/A
+98,Raul Neto,TURNOVER,Damyean Dotson,1:24,3,Jazz,Knicks,63 - 92,1,N/A,N/A,N/A
+99,Frank Ntilikina,FG_MISS,None,1:18,3,Knicks,Jazz,63 - 92,0,26,3,Jumper
+100,Raul Neto,DEFENSIVE_REBOUND,None,1:14,3,Jazz,Knicks,63 - 92,1,N/A,N/A,N/A
+101,Raul Neto,FG_ASSISTED,Royce O'Neale,54.3,3,Jazz,Knicks,63 - 95,1,24,3,Jumper
+102,Tim Hardaway,FG_MISS,Royce O'Neale,36.3,3,Jazz,Knicks,63 - 95,0,25,3,Jumper
+103,Raul Neto,DEFENSIVE_REBOUND,None,33.1,3,Jazz,Knicks,63 - 95,1,N/A,N/A,N/A
+104,Royce O'Neale,FG_ASSISTED,Raul Neto,33.1,3,Jazz,Knicks,63 - 97,1,0,2,Layup
+105,Kevin Knox,FG_ASSISTED,Enes Kanter,15.3,3,Knicks,Jazz,66 - 97,0,26,3,Jumper
+106,End of,Unknown,None,0.0,3,Jazz,Knicks,66 - 97,1,N/A,N/A,N/A
+0,Allonzo Trier,SUBSTITUTION,Hardaway Tim,12:00,4,Knicks,Jazz,66 - 97,0,N/A,N/A,N/A
+1,Derrick Favors,FG_ASSISTED,Raul Neto,11:43,4,Jazz,Knicks,66 - 100,1,24,3,Jumper
+2,Allonzo Trier,FG_MISS,None,11:24,4,Knicks,Jazz,66 - 100,0,1,2,Jumper
+3,Thabo Sefolosha,DEFENSIVE_REBOUND,None,11:20,4,Jazz,Knicks,66 - 100,1,N/A,N/A,N/A
+4,Thabo Sefolosha,TURNOVER,Damyean Dotson,11:16,4,Jazz,Knicks,66 - 100,1,N/A,N/A,N/A
+5,Damyean Dotson,FG_MISS,None,11:13,4,Knicks,Jazz,66 - 100,0,0,2,Dunk
+6,Kevin Knox,OFFENSIVE_REBOUND,None,11:12,4,Knicks,Jazz,66 - 100,0,N/A,N/A,N/A
+7,Allonzo Trier,FG_ASSISTED,Kevin Knox,11:11,4,Knicks,Jazz,68 - 100,0,0,2,Layup
+8,Thabo Sefolosha,FOUL_ON_FLOOR,None,11:11,4,Jazz,Knicks,68 - 100,1,N/A,N/A,N/A
+9,Allonzo Trier,FT_MISS,None,11:11,4,Knicks,Jazz,68 - 100,0,N/A,1,N/A
+10,Frank Ntilikina,OFFENSIVE_REBOUND,None,11:06,4,Knicks,Jazz,68 - 100,0,N/A,N/A,N/A
+11,Frank Ntilikina,FG_MISS,None,10:59,4,Knicks,Jazz,68 - 100,0,12,2,Jumper
+12,Thabo Sefolosha,DEFENSIVE_REBOUND,None,10:53,4,Jazz,Knicks,68 - 100,1,N/A,N/A,N/A
+13,Joe Ingles,FG_MISS,None,10:50,4,Jazz,Knicks,68 - 100,1,24,3,Jumper
+14,Damyean Dotson,DEFENSIVE_REBOUND,None,10:46,4,Knicks,Jazz,68 - 100,0,N/A,N/A,N/A
+15,Enes Kanter,FG_MISS,None,10:42,4,Knicks,Jazz,68 - 100,0,26,3,Jumper
+16,Thabo Sefolosha,DEFENSIVE_REBOUND,None,10:35,4,Jazz,Knicks,68 - 100,1,N/A,N/A,N/A
+17,Derrick Favors,FG_ASSISTED,Raul Neto,10:27,4,Jazz,Knicks,68 - 103,1,25,3,Jumper
+18,Kevin Knox,FG_MISS,Derrick Favors,10:06,4,Jazz,Knicks,68 - 103,0,0,2,Layup
+19,Derrick Favors,DEFENSIVE_REBOUND,None,10:02,4,Jazz,Knicks,68 - 103,1,N/A,N/A,N/A
+20,Thabo Sefolosha,FG_ASSISTED,Derrick Favors,9:42,4,Jazz,Knicks,68 - 106,1,23,3,Jumper
+21,Team,Unknown,None,9:40,4,Knicks,Jazz,68 - 106,0,N/A,N/A,N/A
+22,Georges Niang,SUBSTITUTION,Ingles Joe,9:40,4,Jazz,Knicks,68 - 106,1,N/A,N/A,N/A
+23,Dante Exum,SUBSTITUTION,Sefolosha Thabo,9:40,4,Jazz,Knicks,68 - 106,1,N/A,N/A,N/A
+24,Noah Vonleh,SUBSTITUTION,Dotson Damyean,9:40,4,Knicks,Jazz,68 - 106,0,N/A,N/A,N/A
+25,Kevin Knox,FG_MISS,None,9:28,4,Knicks,Jazz,68 - 106,0,11,2,Jumper
+26,Royce O'Neale,DEFENSIVE_REBOUND,None,9:23,4,Jazz,Knicks,68 - 106,1,N/A,N/A,N/A
+27,Raul Neto,FG_UNASSISTED,None,9:18,4,Jazz,Knicks,68 - 108,1,0,2,Layup
+28,Frank Ntilikina,Unknown,None,9:18,4,Knicks,Jazz,68 - 108,0,N/A,N/A,N/A
+29,Derrick Favors,FOUL_ON_FLOOR,None,9:01,4,Jazz,Knicks,68 - 108,1,N/A,N/A,N/A
+30,Ekpe Udoh,SUBSTITUTION,Favors Derrick,9:01,4,Jazz,Knicks,68 - 108,1,N/A,N/A,N/A
+31,Allonzo Trier,FG_MISS,None,8:53,4,Knicks,Jazz,68 - 108,0,0,2,Layup
+32,Georges Niang,DEFENSIVE_REBOUND,None,8:51,4,Jazz,Knicks,68 - 108,1,N/A,N/A,N/A
+33,Dante Exum,FG_UNASSISTED,None,8:41,4,Jazz,Knicks,68 - 110,1,0,2,Layup
+34,Noah Vonleh,Unknown,None,8:41,4,Knicks,Jazz,68 - 110,0,N/A,N/A,N/A
+35,Georges Niang,FOUL_ON_FLOOR,None,8:36,4,Jazz,Knicks,68 - 110,1,N/A,N/A,N/A
+36,Tony Bradley,SUBSTITUTION,Exum Dante,8:36,4,Jazz,Knicks,68 - 110,1,N/A,N/A,N/A
+37,Naz Mitrou-Long,SUBSTITUTION,O'Neale Royce,8:36,4,Jazz,Knicks,68 - 110,1,N/A,N/A,N/A
+38,Georges Niang,FOUL_ON_FLOOR,None,8:22,4,Jazz,Knicks,68 - 110,1,N/A,N/A,N/A
+39,Allonzo Trier,FG_MISS,None,8:15,4,Knicks,Jazz,68 - 110,0,16,2,Jumper
+40,Raul Neto,DEFENSIVE_REBOUND,None,8:12,4,Jazz,Knicks,68 - 110,1,N/A,N/A,N/A
+41,Georges Niang,FG_ASSISTED,Ekpe Udoh,8:00,4,Jazz,Knicks,68 - 113,1,24,3,Jumper
+42,Naz Mitrou-Long,FOUL_ON_FLOOR,None,7:36,4,Jazz,Knicks,68 - 113,1,N/A,N/A,N/A
+43,Noah Vonleh,FT,None,7:36,4,Knicks,Jazz,69 - 113,0,N/A,1,N/A
+44,Trey Burke,SUBSTITUTION,Kanter Enes,7:36,4,Knicks,Jazz,69 - 113,0,N/A,N/A,N/A
+45,Luke Kornet,SUBSTITUTION,Ntilikina Frank,7:36,4,Knicks,Jazz,69 - 113,0,N/A,N/A,N/A
+46,Noah Vonleh,FT,None,7:36,4,Knicks,Jazz,70 - 113,0,N/A,1,N/A
+47,Royce O'Neale,SUBSTITUTION,Neto Raul,7:36,4,Jazz,Knicks,70 - 113,1,N/A,N/A,N/A
+48,Georges Niang,FG_MISS,Kevin Knox,7:19,4,Knicks,Jazz,70 - 113,1,9,2,Jumper
+49,Luke Kornet,DEFENSIVE_REBOUND,None,7:15,4,Knicks,Jazz,70 - 113,0,N/A,N/A,N/A
+50,Allonzo Trier,FG_MISS,Royce O'Neale,7:03,4,Jazz,Knicks,70 - 113,0,0,2,Layup
+51,Team,OFFENSIVE_REBOUND,None,7:03,4,Knicks,Jazz,70 - 113,0,N/A,N/A,N/A
+52,Luke Kornet,FG_UNASSISTED,None,6:55,4,Knicks,Jazz,72 - 113,0,23,2,Jumper
+53,Royce O'Neale,FG_ASSISTED,Ekpe Udoh,6:40,4,Jazz,Knicks,72 - 116,1,26,3,Jumper
+54,Kevin Knox,FG_MISS,None,6:25,4,Knicks,Jazz,72 - 116,0,3,2,Jumper
+55,Tony Bradley,DEFENSIVE_REBOUND,None,6:23,4,Jazz,Knicks,72 - 116,1,N/A,N/A,N/A
+56,Georges Niang,FG_UNASSISTED,None,6:16,4,Jazz,Knicks,72 - 118,1,11,2,Jumper
+57,Ekpe Udoh,FOUL_ON_FLOOR,None,6:10,4,Jazz,Knicks,72 - 118,1,N/A,N/A,N/A
+58,Trey Burke,FT,None,6:10,4,Knicks,Jazz,73 - 118,0,N/A,1,N/A
+59,Trey Burke,FT,None,6:10,4,Knicks,Jazz,74 - 118,0,N/A,1,N/A
+60,Naz Mitrou-Long,TURNOVER,Allonzo Trier,5:51,4,Jazz,Knicks,74 - 118,1,N/A,N/A,N/A
+61,Luke Kornet,FG_ASSISTED,Allonzo Trier,5:43,4,Knicks,Jazz,77 - 118,0,25,3,Jumper
+62,Ekpe Udoh,FG_MISS,None,5:21,4,Jazz,Knicks,77 - 118,1,10,2,Jumper
+63,Noah Vonleh,DEFENSIVE_REBOUND,None,5:17,4,Knicks,Jazz,77 - 118,0,N/A,N/A,N/A
+64,Luke Kornet,TURNOVER,Royce O'Neale,5:12,4,Knicks,Jazz,77 - 118,0,N/A,N/A,N/A
+65,Ekpe Udoh,FG_ASSISTED,Naz Mitrou-Long,5:07,4,Jazz,Knicks,77 - 120,1,0,2,Dunk
+66,Luke Kornet,FG_MISS,None,4:41,4,Knicks,Jazz,77 - 120,0,23,2,Jumper
+67,Luke Kornet,OFFENSIVE_REBOUND,None,4:38,4,Knicks,Jazz,77 - 120,0,N/A,N/A,N/A
+68,Tony Bradley,FOUL_ON_FLOOR,None,4:31,4,Jazz,Knicks,77 - 120,1,N/A,N/A,N/A
+69,Noah Vonleh,FT,None,4:31,4,Knicks,Jazz,78 - 120,0,N/A,1,N/A
+70,Raul Neto,SUBSTITUTION,O'Neale Royce,4:31,4,Jazz,Knicks,78 - 120,1,N/A,N/A,N/A
+71,Noah Vonleh,FT,None,4:31,4,Knicks,Jazz,79 - 120,0,N/A,1,N/A
+72,Naz Mitrou-Long,FG_UNASSISTED,None,4:19,4,Jazz,Knicks,79 - 123,1,28,3,Jumper
+73,Trey Burke,FG_UNASSISTED,None,4:07,4,Knicks,Jazz,81 - 123,0,19,2,Jumper
+74,Naz Mitrou-Long,FOUL_ON_FLOOR,None,3:54,4,Jazz,Knicks,81 - 123,1,N/A,N/A,N/A
+75,Naz Mitrou-Long,TURNOVER,None,3:54,4,Jazz,Knicks,81 - 123,1,N/A,N/A,N/A
+76,Trey Burke,FG_UNASSISTED,None,3:46,4,Knicks,Jazz,83 - 123,0,0,2,Layup
+77,Raul Neto,FOUL_ON_FLOOR,None,3:46,4,Jazz,Knicks,83 - 123,1,N/A,N/A,N/A
+78,Trey Burke,FT,None,3:46,4,Knicks,Jazz,84 - 123,0,N/A,1,N/A
+79,Raul Neto,FG_MISS,None,3:38,4,Jazz,Knicks,84 - 123,1,1,2,Jumper
+80,Ekpe Udoh,OFFENSIVE_REBOUND,None,3:33,4,Jazz,Knicks,84 - 123,1,N/A,N/A,N/A
+81,Ekpe Udoh,FG_UNASSISTED,None,3:33,4,Jazz,Knicks,84 - 125,1,1,2,Jumper
+82,Kevin Knox,FG_UNASSISTED,None,3:28,4,Knicks,Jazz,86 - 125,0,8,2,Jumper
+83,Team,Unknown,None,3:27,4,Jazz,Knicks,86 - 125,1,N/A,N/A,N/A
+84,Tony Bradley,TURNOVER,None,3:27,4,Jazz,Knicks,86 - 125,1,N/A,N/A,N/A
+85,Luke Kornet,FG_MISS,None,3:13,4,Knicks,Jazz,86 - 125,0,9,2,Jumper
+86,Team,DEFENSIVE_REBOUND,None,3:12,4,Jazz,Knicks,86 - 125,1,N/A,N/A,N/A
+87,Noah Vonleh,FOUL_ON_FLOOR,None,3:12,4,Knicks,Jazz,86 - 125,0,N/A,N/A,N/A
+88,Georges Niang,FG_MISS,None,2:55,4,Jazz,Knicks,86 - 125,1,20,2,Jumper
+89,Noah Vonleh,DEFENSIVE_REBOUND,None,2:53,4,Knicks,Jazz,86 - 125,0,N/A,N/A,N/A
+90,Trey Burke,FG_UNASSISTED,None,2:45,4,Knicks,Jazz,88 - 125,0,0,2,Layup
+91,Tony Bradley,FG_MISS,None,2:24,4,Jazz,Knicks,88 - 125,1,0,2,Layup
+92,Tony Bradley,OFFENSIVE_REBOUND,None,2:21,4,Jazz,Knicks,88 - 125,1,N/A,N/A,N/A
+93,Tony Bradley,FG_MISS,None,2:21,4,Jazz,Knicks,88 - 125,1,1,2,Jumper
+94,Tony Bradley,OFFENSIVE_REBOUND,None,2:20,4,Jazz,Knicks,88 - 125,1,N/A,N/A,N/A
+95,Tony Bradley,FG_MISS,None,2:20,4,Jazz,Knicks,88 - 125,1,1,2,Jumper
+96,Ekpe Udoh,OFFENSIVE_REBOUND,None,2:20,4,Jazz,Knicks,88 - 125,1,N/A,N/A,N/A
+97,Ekpe Udoh,FG_UNASSISTED,None,2:19,4,Jazz,Knicks,88 - 127,1,1,2,Jumper
+98,Luke Kornet,FG_UNASSISTED,None,2:10,4,Knicks,Jazz,91 - 127,0,25,2,Jumper
+99,Naz Mitrou-Long,FG_MISS,None,1:48,4,Jazz,Knicks,91 - 127,1,26,3,Jumper
+100,Kevin Knox,DEFENSIVE_REBOUND,None,1:45,4,Knicks,Jazz,91 - 127,0,N/A,N/A,N/A
+101,Luke Kornet,FG_MISS,None,1:33,4,Knicks,Jazz,91 - 127,0,26,3,Jumper
+102,Ekpe Udoh,DEFENSIVE_REBOUND,None,1:30,4,Jazz,Knicks,91 - 127,1,N/A,N/A,N/A
+103,Georges Niang,FG_MISS,None,1:23,4,Jazz,Knicks,91 - 127,1,23,3,Jumper
+104,Kevin Knox,DEFENSIVE_REBOUND,None,1:21,4,Knicks,Jazz,91 - 127,0,N/A,N/A,N/A
+105,Kevin Knox,FG_MISS,Ekpe Udoh,1:12,4,Jazz,Knicks,91 - 127,0,7,2,Jumper
+106,Raul Neto,DEFENSIVE_REBOUND,None,1:09,4,Jazz,Knicks,91 - 127,1,N/A,N/A,N/A
+107,Raul Neto,FG_MISS,None,1:05,4,Jazz,Knicks,91 - 127,1,12,2,Jumper
+108,Ekpe Udoh,OFFENSIVE_REBOUND,None,1:04,4,Jazz,Knicks,91 - 127,1,N/A,N/A,N/A
+109,Ekpe Udoh,FG_UNASSISTED,None,1:04,4,Jazz,Knicks,91 - 129,1,1,2,Jumper
+110,Luke Kornet,FG_ASSISTED,Allonzo Trier,52.2,4,Knicks,Jazz,94 - 129,0,26,3,Jumper
+111,Raul Neto,FOUL_ON_FLOOR,None,37.4,4,Jazz,Knicks,94 - 129,1,N/A,N/A,N/A
+112,Raul Neto,TURNOVER,None,37.4,4,Jazz,Knicks,94 - 129,1,N/A,N/A,N/A
+113,Trey Burke,FG_ASSISTED,Luke Kornet,29.1,4,Knicks,Jazz,97 - 129,0,25,3,Jumper
+114,Georges Niang,FG_MISS,None,10.9,4,Jazz,Knicks,97 - 129,1,23,3,Jumper
+115,Noah Vonleh,DEFENSIVE_REBOUND,None,6.8,4,Knicks,Jazz,97 - 129,0,N/A,N/A,N/A
+116,Trey Burke,FG_MISS,None,0.0,4,Knicks,Jazz,97 - 129,0,26,3,Jumper
+117,Team,OFFENSIVE_REBOUND,None,0.0,4,Knicks,Jazz,97 - 129,0,N/A,N/A,N/A
+118,End of,Unknown,None,0.0,4,Jazz,Knicks,97 - 129,1,N/A,N/A,N/A
+119,End of,Unknown,None,0.0,4,Jazz,Knicks,97 - 129,1,N/A,N/A,N/A

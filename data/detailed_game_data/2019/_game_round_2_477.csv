@@ -1,0 +1,466 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Mason Plumlee,JUMP_BALL,None,12:00,1,Nuggets,Kings,0 - 0,0,N/A,N/A,N/A
+1,Nikola Jokic,TURNOVER,None,11:47,1,Nuggets,Kings,0 - 0,0,N/A,N/A,N/A
+2,Iman Shumpert,FG_MISS,None,11:33,1,Kings,Nuggets,0 - 0,1,23,3,Jumper
+3,Mason Plumlee,DEFENSIVE_REBOUND,None,11:30,1,Nuggets,Kings,0 - 0,0,N/A,N/A,N/A
+4,Torrey Craig,TURNOVER,None,11:20,1,Nuggets,Kings,0 - 0,0,N/A,N/A,N/A
+5,Nemanja Bjelica,FG_MISS,Mason Plumlee,11:13,1,Nuggets,Kings,0 - 0,1,25,3,Jumper
+6,Nikola Jokic,DEFENSIVE_REBOUND,None,11:09,1,Nuggets,Kings,0 - 0,0,N/A,N/A,N/A
+7,Nikola Jokic,FG_ASSISTED,Juan Hernangomez,11:00,1,Nuggets,Kings,2 - 0,0,0,2,Layup
+8,Buddy Hield,FG_ASSISTED,De'Aaron Fox,10:54,1,Kings,Nuggets,2 - 2,1,-,2,Jumper
+9,Torrey Craig,FG_MISS,None,10:30,1,Nuggets,Kings,2 - 2,0,24,3,Jumper
+10,Mason Plumlee,OFFENSIVE_REBOUND,None,10:27,1,Nuggets,Kings,2 - 2,0,N/A,N/A,N/A
+11,Nikola Jokic,FG_ASSISTED,Jamal Murray,10:21,1,Nuggets,Kings,4 - 2,0,6,2,Jumper
+12,Buddy Hield,FG_ASSISTED,De'Aaron Fox,10:14,1,Kings,Nuggets,4 - 5,1,23,3,Jumper
+13,Jamal Murray,FG_MISS,None,9:57,1,Nuggets,Kings,4 - 5,0,-,2,Jumper
+14,Jamal Murray,OFFENSIVE_REBOUND,None,9:54,1,Nuggets,Kings,4 - 5,0,N/A,N/A,N/A
+15,Jamal Murray,FG_MISS,None,9:45,1,Nuggets,Kings,4 - 5,0,25,2,Jumper
+16,Team,OFFENSIVE_REBOUND,None,9:44,1,Nuggets,Kings,4 - 5,0,N/A,N/A,N/A
+17,De'Aaron Fox,FOUL_ON_FLOOR,None,9:43,1,Kings,Nuggets,4 - 5,1,N/A,N/A,N/A
+18,Nikola Jokic,FG_MISS,None,9:37,1,Nuggets,Kings,4 - 5,0,26,3,Jumper
+19,Buddy Hield,DEFENSIVE_REBOUND,None,9:34,1,Kings,Nuggets,4 - 5,1,N/A,N/A,N/A
+20,Jamal Murray,FOUL_ON_FLOOR,None,9:34,1,Nuggets,Kings,4 - 5,0,N/A,N/A,N/A
+21,Willie Cauley-Stein,FG_ASSISTED,Nemanja Bjelica,9:22,1,Kings,Nuggets,4 - 7,1,0,2,Dunk
+22,Nikola Jokic,FG_MISS,None,9:09,1,Nuggets,Kings,4 - 7,0,-,3,Jumper
+23,Team,DEFENSIVE_REBOUND,None,9:09,1,Kings,Nuggets,4 - 7,1,N/A,N/A,N/A
+24,Mason Plumlee,FOUL_ON_FLOOR,None,9:09,1,Nuggets,Kings,4 - 7,0,N/A,N/A,N/A
+25,Nemanja Bjelica,FG_ASSISTED,Willie Cauley-Stein,8:50,1,Kings,Nuggets,4 - 9,1,0,2,Layup
+26,Nikola Jokic,FG_MISS,None,8:32,1,Nuggets,Kings,4 - 9,0,26,3,Jumper
+27,Mason Plumlee,OFFENSIVE_REBOUND,None,8:32,1,Nuggets,Kings,4 - 9,0,N/A,N/A,N/A
+28,Nemanja Bjelica,FOUL_ON_FLOOR,None,8:21,1,Kings,Nuggets,4 - 9,1,N/A,N/A,N/A
+29,Mason Plumlee,FT,None,8:21,1,Nuggets,Kings,5 - 9,0,N/A,1,N/A
+30,Mason Plumlee,FT_MISS,None,8:21,1,Nuggets,Kings,5 - 9,0,N/A,1,N/A
+31,Nemanja Bjelica,DEFENSIVE_REBOUND,None,8:21,1,Kings,Nuggets,5 - 9,1,N/A,N/A,N/A
+32,De'Aaron Fox,Unknown,None,8:21,1,Kings,Nuggets,5 - 9,1,N/A,N/A,N/A
+33,De'Aaron Fox,FG_MISS,None,8:05,1,Kings,Nuggets,5 - 9,1,11,2,Jumper
+34,Juan Hernangomez,DEFENSIVE_REBOUND,None,8:03,1,Nuggets,Kings,5 - 9,0,N/A,N/A,N/A
+35,Juan Hernangomez,FG_ASSISTED,Mason Plumlee,8:00,1,Nuggets,Kings,7 - 9,0,0,2,Layup
+36,Iman Shumpert,FOUL_ON_FLOOR,None,8:00,1,Kings,Nuggets,7 - 9,1,N/A,N/A,N/A
+37,Juan Hernangomez,FT,None,8:00,1,Nuggets,Kings,8 - 9,0,N/A,1,N/A
+38,Nemanja Bjelica,FG_ASSISTED,Iman Shumpert,7:42,1,Kings,Nuggets,8 - 12,1,23,3,Jumper
+39,Nikola Jokic,FG_ASSISTED,Mason Plumlee,7:27,1,Nuggets,Kings,10 - 12,0, ,2,Jumper
+40,Nemanja Bjelica,FG_MISS,None,7:20,1,Kings,Nuggets,10 - 12,1,29,3,Jumper
+41,Nikola Jokic,DEFENSIVE_REBOUND,None,7:20,1,Nuggets,Kings,10 - 12,0,N/A,N/A,N/A
+42,Mason Plumlee,FG_ASSISTED,Torrey Craig,7:14,1,Nuggets,Kings,12 - 12,0,0,2,Dunk
+43,Willie Cauley-Stein,TURNOVER,None,7:02,1,Kings,Nuggets,12 - 12,1,N/A,N/A,N/A
+44,Torrey Craig,FG_MISS,None,6:57,1,Nuggets,Kings,12 - 12,0, ,2,Jumper
+45,Mason Plumlee,OFFENSIVE_REBOUND,None,6:53,1,Nuggets,Kings,12 - 12,0,N/A,N/A,N/A
+46,Mason Plumlee,FG_UNASSISTED,None,6:53,1,Nuggets,Kings,14 - 12,0, ,2,Jumper
+47,Team,Unknown,None,6:51,1,Kings,Nuggets,14 - 12,1,N/A,N/A,N/A
+48,Iman Shumpert,FG_MISS,None,6:35,1,Kings,Nuggets,14 - 12,1,25,3,Jumper
+49,Nemanja Bjelica,OFFENSIVE_REBOUND,None,6:31,1,Kings,Nuggets,14 - 12,1,N/A,N/A,N/A
+50,Iman Shumpert,FG_MISS,None,6:30,1,Kings,Nuggets,14 - 12,1,15,2,Jumper
+51,Nemanja Bjelica,OFFENSIVE_REBOUND,None,6:26,1,Kings,Nuggets,14 - 12,1,N/A,N/A,N/A
+52,Nemanja Bjelica,FG_UNASSISTED,None,6:26,1,Kings,Nuggets,14 - 14,1, ,2,Jumper
+53,Mason Plumlee,FG_MISS,None,6:10,1,Nuggets,Kings,14 - 14,0,6,2,Jumper
+54,Willie Cauley-Stein,DEFENSIVE_REBOUND,None,6:06,1,Kings,Nuggets,14 - 14,1,N/A,N/A,N/A
+55,Nemanja Bjelica,FG_ASSISTED,Buddy Hield,5:59,1,Kings,Nuggets,14 - 17,1,23,3,Jumper
+56,Willie Cauley-Stein,FOUL_ON_FLOOR,None,5:42,1,Kings,Nuggets,14 - 17,1,N/A,N/A,N/A
+57,Nikola Jokic,FT,None,5:42,1,Nuggets,Kings,15 - 17,0,N/A,1,N/A
+58,Gary Harris,SUBSTITUTION,Hernangomez Juan,5:42,1,Nuggets,Kings,15 - 17,0,N/A,N/A,N/A
+59,Paul Millsap,SUBSTITUTION,Plumlee Mason,5:42,1,Nuggets,Kings,15 - 17,0,N/A,N/A,N/A
+60,Nikola Jokic,FT,None,5:42,1,Nuggets,Kings,16 - 17,0,N/A,1,N/A
+61,Buddy Hield,FG_ASSISTED,Nemanja Bjelica,5:30,1,Kings,Nuggets,16 - 19,1,16,2,Jumper
+62,Paul Millsap,FG_MISS,None,5:14,1,Nuggets,Kings,16 - 19,0,26,3,Jumper
+63,Torrey Craig,OFFENSIVE_REBOUND,None,5:12,1,Nuggets,Kings,16 - 19,0,N/A,N/A,N/A
+64,Gary Harris,FG_ASSISTED,Torrey Craig,5:09,1,Nuggets,Kings,19 - 19,0,25,3,Jumper
+65,De'Aaron Fox,FG_UNASSISTED,None,5:01,1,Kings,Nuggets,19 - 21,1,7,2,Jumper
+66,Torrey Craig,FOUL_ON_FLOOR,None,5:01,1,Nuggets,Kings,19 - 21,0,N/A,N/A,N/A
+67,De'Aaron Fox,FT_MISS,None,5:01,1,Kings,Nuggets,19 - 21,1,N/A,1,N/A
+68,Nikola Jokic,DEFENSIVE_REBOUND,None,4:58,1,Nuggets,Kings,19 - 21,0,N/A,N/A,N/A
+69,Gary Harris,FG_ASSISTED,Paul Millsap,4:38,1,Nuggets,Kings,22 - 21,0,27,3,Jumper
+70,Buddy Hield,FG_MISS,None,4:20,1,Kings,Nuggets,22 - 21,1,21,2,Jumper
+71,Nemanja Bjelica,OFFENSIVE_REBOUND,None,4:16,1,Kings,Nuggets,22 - 21,1,N/A,N/A,N/A
+72,Nemanja Bjelica,FG_UNASSISTED,None,4:16,1,Kings,Nuggets,22 - 23,1, ,2,Jumper
+73,Jamal Murray,TURNOVER,None,4:08,1,Nuggets,Kings,22 - 23,0,N/A,N/A,N/A
+74,Bogdan Bogdanovic,SUBSTITUTION,Shumpert Iman,4:08,1,Kings,Nuggets,22 - 23,1,N/A,N/A,N/A
+75,Harry Giles,SUBSTITUTION,Bjelica Nemanja,4:08,1,Kings,Nuggets,22 - 23,1,N/A,N/A,N/A
+76,Buddy Hield,TURNOVER,Nikola Jokic,3:51,1,Kings,Nuggets,22 - 23,1,N/A,N/A,N/A
+77,Nikola Jokic,FG_UNASSISTED,None,3:48,1,Nuggets,Kings,24 - 23,0,0,2,Dunk
+78,Nikola Jokic,FOUL_ON_FLOOR,None,3:37,1,Nuggets,Kings,24 - 23,0,N/A,N/A,N/A
+79,Monte Morris,SUBSTITUTION,Murray Jamal,3:37,1,Nuggets,Kings,24 - 23,0,N/A,N/A,N/A
+80,De'Aaron Fox,FG_ASSISTED,Harry Giles,3:23,1,Kings,Nuggets,24 - 26,1,25,2,Jumper
+81,Torrey Craig,FG_MISS,None,3:06,1,Nuggets,Kings,24 - 26,0,25,3,Jumper
+82,De'Aaron Fox,DEFENSIVE_REBOUND,None,3:04,1,Kings,Nuggets,24 - 26,1,N/A,N/A,N/A
+83,De'Aaron Fox,TURNOVER,None,3:04,1,Kings,Nuggets,24 - 26,1,N/A,N/A,N/A
+84,Buddy Hield,FOUL_ON_FLOOR,None,2:51,1,Kings,Nuggets,24 - 26,1,N/A,N/A,N/A
+85,Team,Unknown,None,2:51,1,Nuggets,Kings,24 - 26,0,N/A,N/A,N/A
+86,Trey Lyles,SUBSTITUTION,Jokic Nikola,2:51,1,Nuggets,Kings,24 - 26,0,N/A,N/A,N/A
+87,Paul Millsap,FT_MISS,None,2:51,1,Nuggets,Kings,24 - 26,0,N/A,1,N/A
+88,Team,OFFENSIVE_REBOUND,None,2:51,1,Nuggets,Kings,24 - 26,0,N/A,N/A,N/A
+89,Paul Millsap,FT,None,2:51,1,Nuggets,Kings,25 - 26,0,N/A,1,N/A
+90,Justin Jackson,SUBSTITUTION,Cauley-Stein Willie,2:36,1,Kings,Nuggets,25 - 26,1,N/A,N/A,N/A
+91,Harry Giles,FG_MISS,None,2:29,1,Kings,Nuggets,25 - 26,1,11,2,Jumper
+92,Trey Lyles,DEFENSIVE_REBOUND,None,2:26,1,Nuggets,Kings,25 - 26,0,N/A,N/A,N/A
+93,Trey Lyles,FG_MISS,None,2:13,1,Nuggets,Kings,25 - 26,0,24,3,Jumper
+94,Team,DEFENSIVE_REBOUND,None,2:13,1,Kings,Nuggets,25 - 26,1,N/A,N/A,N/A
+95,Harry Giles,FG_ASSISTED,Buddy Hield,2:00,1,Kings,Nuggets,25 - 28,1,0,2,Layup
+96,Yogi Ferrell,SUBSTITUTION,Fox De'Aaron,1:42,1,Kings,Nuggets,25 - 28,1,N/A,N/A,N/A
+97,Malik Beasley,SUBSTITUTION,Craig Torrey,1:42,1,Nuggets,Kings,25 - 28,0,N/A,N/A,N/A
+98,Monte Morris,TURNOVER,None,1:33,1,Nuggets,Kings,25 - 28,0,N/A,N/A,N/A
+99,Harry Giles,FG_UNASSISTED,None,1:15,1,Kings,Nuggets,25 - 30,1, ,2,Jumper
+100,Gary Harris,FG_UNASSISTED,None,55.1,1,Nuggets,Kings,27 - 30,0,0,2,Layup
+101,Justin Jackson,FOUL_ON_FLOOR,None,55.1,1,Kings,Nuggets,27 - 30,1,N/A,N/A,N/A
+102,Gary Harris,FT,None,55.1,1,Nuggets,Kings,28 - 30,0,N/A,1,N/A
+103,Justin Jackson,FG_MISS,None,44.1,1,Kings,Nuggets,28 - 30,1,19,2,Jumper
+104,Malik Beasley,DEFENSIVE_REBOUND,None,40.6,1,Nuggets,Kings,28 - 30,0,N/A,N/A,N/A
+105,Bogdan Bogdanovic,FOUL_ON_FLOOR,None,24.5,1,Kings,Nuggets,28 - 30,1,N/A,N/A,N/A
+106,Trey Lyles,FT,None,24.5,1,Nuggets,Kings,29 - 30,0,N/A,1,N/A
+107,Trey Lyles,FT,None,24.5,1,Nuggets,Kings,30 - 30,0,N/A,1,N/A
+108,Buddy Hield,FG_MISS,None,1.5,1,Kings,Nuggets,30 - 30,1,13,2,Jumper
+109,Monte Morris,DEFENSIVE_REBOUND,None,1.5,1,Nuggets,Kings,30 - 30,0,N/A,N/A,N/A
+110,End of,Unknown,None,0.0,1,Kings,Nuggets,30 - 30,1,N/A,N/A,N/A
+0,Nemanja Bjelica,SUBSTITUTION,Hield Buddy,12:00,2,Kings,Nuggets,30 - 30,1,N/A,N/A,N/A
+1,Paul Millsap,FOUL_ON_FLOOR,None,11:47,2,Nuggets,Kings,30 - 30,0,N/A,N/A,N/A
+2,Bogdan Bogdanovic,FT,None,11:47,2,Kings,Nuggets,30 - 31,1,N/A,1,N/A
+3,Bogdan Bogdanovic,FT,None,11:47,2,Kings,Nuggets,30 - 32,1,N/A,1,N/A
+4,Gary Harris,FG_MISS,None,11:30,2,Nuggets,Kings,30 - 32,0,26,3,Jumper
+5,Harry Giles,DEFENSIVE_REBOUND,None,11:25,2,Kings,Nuggets,30 - 32,1,N/A,N/A,N/A
+6,Yogi Ferrell,FG_MISS,Malik Beasley,11:22,2,Nuggets,Kings,30 - 32,1,3,2,Jumper
+7,Trey Lyles,DEFENSIVE_REBOUND,None,11:18,2,Nuggets,Kings,30 - 32,0,N/A,N/A,N/A
+8,Malik Beasley,FG_MISS,Nemanja Bjelica,11:17,2,Kings,Nuggets,30 - 32,0,7,2,Jumper
+9,Team,DEFENSIVE_REBOUND,None,11:17,2,Kings,Nuggets,30 - 32,1,N/A,N/A,N/A
+10,Bogdan Bogdanovic,FG_ASSISTED,Harry Giles,11:02,2,Kings,Nuggets,30 - 34,1, ,2,Jumper
+11,Trey Lyles,FG_MISS,None,10:50,2,Nuggets,Kings,30 - 34,0,26,3,Jumper
+12,Harry Giles,DEFENSIVE_REBOUND,None,10:46,2,Kings,Nuggets,30 - 34,1,N/A,N/A,N/A
+13,Bogdan Bogdanovic,FG_UNASSISTED,None,10:39,2,Kings,Nuggets,30 - 36,1,0,2,Layup
+14,Team,Unknown,None,10:39,2,Nuggets,Kings,30 - 36,0,N/A,N/A,N/A
+15,Harry Giles,FOUL_ON_FLOOR,None,10:26,2,Kings,Nuggets,30 - 36,1,N/A,N/A,N/A
+16,Paul Millsap,FT,None,10:26,2,Nuggets,Kings,31 - 36,0,N/A,1,N/A
+17,Paul Millsap,FT,None,10:26,2,Nuggets,Kings,32 - 36,0,N/A,1,N/A
+18,Nemanja Bjelica,TURNOVER,None,10:11,2,Kings,Nuggets,32 - 36,1,N/A,N/A,N/A
+19,Nemanja Bjelica,TURNOVER,None,10:11,2,Kings,Nuggets,32 - 36,1,N/A,N/A,N/A
+20,Paul Millsap,FG_UNASSISTED,None,9:57,2,Nuggets,Kings,34 - 36,0,13,2,Jumper
+21,Harry Giles,FG_MISS,None,9:46,2,Kings,Nuggets,34 - 36,1,0,2,Layup
+22,Harry Giles,OFFENSIVE_REBOUND,None,9:46,2,Kings,Nuggets,34 - 36,1,N/A,N/A,N/A
+23,Harry Giles,FG_UNASSISTED,None,9:46,2,Kings,Nuggets,34 - 38,1, ,2,Jumper
+24,Paul Millsap,FOUL_ON_FLOOR,None,9:46,2,Nuggets,Kings,34 - 38,0,N/A,N/A,N/A
+25,Harry Giles,FT_MISS,None,9:46,2,Kings,Nuggets,34 - 38,1,N/A,1,N/A
+26,Paul Millsap,DEFENSIVE_REBOUND,None,9:43,2,Nuggets,Kings,34 - 38,0,N/A,N/A,N/A
+27,Gary Harris,TURNOVER,Yogi Ferrell,9:35,2,Nuggets,Kings,34 - 38,0,N/A,N/A,N/A
+28,Yogi Ferrell,FG_UNASSISTED,None,9:30,2,Kings,Nuggets,34 - 41,1,25,3,Jumper
+29,Monte Morris,FG_MISS,None,9:17,2,Nuggets,Kings,34 - 41,0,20,2,Jumper
+30,Bogdan Bogdanovic,DEFENSIVE_REBOUND,None,9:17,2,Kings,Nuggets,34 - 41,1,N/A,N/A,N/A
+31,Bogdan Bogdanovic,FG_MISS,None,9:06,2,Kings,Nuggets,34 - 41,1,0,2,Layup
+32,Paul Millsap,DEFENSIVE_REBOUND,None,9:01,2,Nuggets,Kings,34 - 41,0,N/A,N/A,N/A
+33,Malik Beasley,FG_MISS,None,8:55,2,Nuggets,Kings,34 - 41,0,26,3,Jumper
+34,Bogdan Bogdanovic,DEFENSIVE_REBOUND,None,8:53,2,Kings,Nuggets,34 - 41,1,N/A,N/A,N/A
+35,Nemanja Bjelica,TURNOVER,None,8:46,2,Kings,Nuggets,34 - 41,1,N/A,N/A,N/A
+36,Nemanja Bjelica,TURNOVER,None,8:46,2,Kings,Nuggets,34 - 41,1,N/A,N/A,N/A
+37,Kosta Koufos,SUBSTITUTION,Giles Harry,8:46,2,Kings,Nuggets,34 - 41,1,N/A,N/A,N/A
+38,Mason Plumlee,SUBSTITUTION,for game,8:46,2,Nuggets,Kings,34 - 41,0,N/A,N/A,N/A
+39,enters the,SUBSTITUTION,Millsap Paul,8:46,2,Nuggets,Kings,34 - 41,0,N/A,N/A,N/A
+40,Mason Plumlee,TURNOVER,None,8:40,2,Nuggets,Kings,34 - 41,0,N/A,N/A,N/A
+41,Mason Plumlee,TURNOVER,None,8:40,2,Nuggets,Kings,34 - 41,0,N/A,N/A,N/A
+42,Malik Beasley,FOUL_ON_FLOOR,None,8:30,2,Nuggets,Kings,34 - 41,0,N/A,N/A,N/A
+43,Bogdan Bogdanovic,FG_UNASSISTED,None,8:19,2,Kings,Nuggets,34 - 43,1,19,2,Jumper
+44,Gary Harris,FG_MISS,None,8:04,2,Nuggets,Kings,34 - 43,0,10,2,Jumper
+45,Nemanja Bjelica,DEFENSIVE_REBOUND,None,8:01,2,Kings,Nuggets,34 - 43,1,N/A,N/A,N/A
+46,Nemanja Bjelica,FG_MISS,None,7:59,2,Kings,Nuggets,34 - 43,1,26,3,Jumper
+47,Mason Plumlee,DEFENSIVE_REBOUND,None,7:55,2,Nuggets,Kings,34 - 43,0,N/A,N/A,N/A
+48,Malik Beasley,FG_UNASSISTED,None,7:44,2,Nuggets,Kings,37 - 43,0,25,3,Jumper
+49,Kosta Koufos,FG_MISS,None,7:22,2,Kings,Nuggets,37 - 43,1,11,2,Jumper
+50,Gary Harris,DEFENSIVE_REBOUND,None,7:20,2,Nuggets,Kings,37 - 43,0,N/A,N/A,N/A
+51,Kosta Koufos,FOUL_ON_FLOOR,None,7:20,2,Kings,Nuggets,37 - 43,1,N/A,N/A,N/A
+52,Gary Harris,FT_MISS,None,7:20,2,Nuggets,Kings,37 - 43,0,N/A,1,N/A
+53,Team,OFFENSIVE_REBOUND,None,7:20,2,Nuggets,Kings,37 - 43,0,N/A,N/A,N/A
+54,Iman Shumpert,SUBSTITUTION,Bjelica Nemanja,7:20,2,Kings,Nuggets,37 - 43,1,N/A,N/A,N/A
+55,Jamal Murray,SUBSTITUTION,Morris Monte,7:20,2,Nuggets,Kings,37 - 43,0,N/A,N/A,N/A
+56,Gary Harris,FT,None,7:20,2,Nuggets,Kings,38 - 43,0,N/A,1,N/A
+57,Justin Jackson,FG_ASSISTED,Bogdan Bogdanovic,7:01,2,Kings,Nuggets,38 - 46,1,24,3,Jumper
+58,Gary Harris,FG_MISS,None,6:38,2,Nuggets,Kings,38 - 46,0,25,2,Jumper
+59,Bogdan Bogdanovic,DEFENSIVE_REBOUND,None,6:35,2,Kings,Nuggets,38 - 46,1,N/A,N/A,N/A
+60,Malik Beasley,FOUL_ON_FLOOR,None,6:30,2,Nuggets,Kings,38 - 46,0,N/A,N/A,N/A
+61,Kosta Koufos,FT,None,6:30,2,Kings,Nuggets,38 - 47,1,N/A,1,N/A
+62,Nikola Jokic,SUBSTITUTION,Lyles Trey,6:30,2,Nuggets,Kings,38 - 47,0,N/A,N/A,N/A
+63,Torrey Craig,SUBSTITUTION,Harris Gary,6:30,2,Nuggets,Kings,38 - 47,0,N/A,N/A,N/A
+64,Kosta Koufos,FT,None,6:30,2,Kings,Nuggets,38 - 48,1,N/A,1,N/A
+65,Nikola Jokic,FG_UNASSISTED,None,6:15,2,Nuggets,Kings,41 - 48,0,25,3,Jumper
+66,Justin Jackson,FG_MISS,None,6:01,2,Kings,Nuggets,41 - 48,1,10,2,Jumper
+67,Mason Plumlee,DEFENSIVE_REBOUND,None,5:58,2,Nuggets,Kings,41 - 48,0,N/A,N/A,N/A
+68,Malik Beasley,FG_MISS,None,5:45,2,Nuggets,Kings,41 - 48,0,16,2,Jumper
+69,Kosta Koufos,DEFENSIVE_REBOUND,None,5:44,2,Kings,Nuggets,41 - 48,1,N/A,N/A,N/A
+70,Bogdan Bogdanovic,FG_ASSISTED,Iman Shumpert,5:37,2,Kings,Nuggets,41 - 51,1,25,2,Jumper
+71,Team,Unknown,None,5:30,2,Nuggets,Kings,41 - 51,0,N/A,N/A,N/A
+72,Jamal Murray,FG_MISS,None,5:22,2,Nuggets,Kings,41 - 51,0,0,2,Layup
+73,Justin Jackson,DEFENSIVE_REBOUND,None,5:19,2,Kings,Nuggets,41 - 51,1,N/A,N/A,N/A
+74,Kosta Koufos,FG_ASSISTED,Justin Jackson,5:10,2,Kings,Nuggets,41 - 53,1, ,2,Jumper
+75,Nikola Jokic,FG_UNASSISTED,None,5:00,2,Nuggets,Kings,43 - 53,0,5,2,Jumper
+76,Yogi Ferrell,FG_UNASSISTED,None,4:39,2,Kings,Nuggets,43 - 55,1,15,2,Jumper
+77,Nikola Jokic,FG_MISS,None,4:26,2,Nuggets,Kings,43 - 55,0, ,3,Jumper
+78,Mason Plumlee,OFFENSIVE_REBOUND,None,4:20,2,Nuggets,Kings,43 - 55,0,N/A,N/A,N/A
+79,Mason Plumlee,FG_UNASSISTED,None,4:20,2,Nuggets,Kings,45 - 55,0,0,2,Dunk
+80,Yogi Ferrell,FG_UNASSISTED,None,4:01,2,Kings,Nuggets,45 - 57,1,12,2,Jumper
+81,Nikola Jokic,FG_ASSISTED,Jamal Murray,3:50,2,Nuggets,Kings,48 - 57,0, ,3,Jumper
+82,Iman Shumpert,FG_MISS,None,3:34,2,Kings,Nuggets,48 - 57,1,23,3,Jumper
+83,Nikola Jokic,DEFENSIVE_REBOUND,None,3:30,2,Nuggets,Kings,48 - 57,0,N/A,N/A,N/A
+84,Malik Beasley,FG_ASSISTED,Jamal Murray,3:28,2,Nuggets,Kings,50 - 57,0,0,2,Dunk
+85,Team,Unknown,None,3:27,2,Kings,Nuggets,50 - 57,1,N/A,N/A,N/A
+86,Willie Cauley-Stein,SUBSTITUTION,Ferrell Yogi,3:27,2,Kings,Nuggets,50 - 57,1,N/A,N/A,N/A
+87,De'Aaron Fox,SUBSTITUTION,Bogdanovic Bogdan,3:27,2,Kings,Nuggets,50 - 57,1,N/A,N/A,N/A
+88,Buddy Hield,SUBSTITUTION,Koufos Kosta,3:27,2,Kings,Nuggets,50 - 57,1,N/A,N/A,N/A
+89,Juan Hernangomez,SUBSTITUTION,Plumlee Mason,3:27,2,Nuggets,Kings,50 - 57,0,N/A,N/A,N/A
+90,Gary Harris,SUBSTITUTION,Beasley Malik,3:27,2,Nuggets,Kings,50 - 57,0,N/A,N/A,N/A
+91,De'Aaron Fox,FG_UNASSISTED,None,3:17,2,Kings,Nuggets,50 - 59,1,0,2,Layup
+92,Gary Harris,FOUL_ON_FLOOR,None,3:08,2,Nuggets,Kings,50 - 59,0,N/A,N/A,N/A
+93,Gary Harris,TURNOVER,None,3:08,2,Nuggets,Kings,50 - 59,0,N/A,N/A,N/A
+94,Buddy Hield,FG_UNASSISTED,None,2:49,2,Kings,Nuggets,50 - 62,1,26,3,Jumper
+95,Gary Harris,FG_MISS,None,2:24,2,Nuggets,Kings,50 - 62,0,0,2,Dunk
+96,De'Aaron Fox,DEFENSIVE_REBOUND,None,2:24,2,Kings,Nuggets,50 - 62,1,N/A,N/A,N/A
+97,De'Aaron Fox,FG_ASSISTED,Willie Cauley-Stein,2:16,2,Kings,Nuggets,50 - 64,1,0,2,Layup
+98,Nikola Jokic,TURNOVER,Justin Jackson,1:58,2,Nuggets,Kings,50 - 64,0,N/A,N/A,N/A
+99,Buddy Hield,FG_MISS,None,1:53,2,Kings,Nuggets,50 - 64,1, ,3,Jumper
+100,Juan Hernangomez,DEFENSIVE_REBOUND,None,1:49,2,Nuggets,Kings,50 - 64,0,N/A,N/A,N/A
+101,Justin Jackson,FOUL_ON_FLOOR,None,1:46,2,Kings,Nuggets,50 - 64,1,N/A,N/A,N/A
+102,De'Aaron Fox,FOUL_TECHNICAL,None,1:46,2,Kings,Nuggets,50 - 64,1,N/A,N/A,N/A
+103,Jamal Murray,FT_MISS,None,1:46,2,Nuggets,Kings,50 - 64,0,N/A,1,N/A
+104,Team,OFFENSIVE_REBOUND,None,1:46,2,Nuggets,Kings,50 - 64,0,N/A,N/A,N/A
+105,Nikola Jokic,FT_MISS,None,1:46,2,Nuggets,Kings,50 - 64,0,N/A,1,N/A
+106,Team,OFFENSIVE_REBOUND,None,1:46,2,Nuggets,Kings,50 - 64,0,N/A,N/A,N/A
+107,Nikola Jokic,FT,None,1:46,2,Nuggets,Kings,51 - 64,0,N/A,1,N/A
+108,Malik Beasley,SUBSTITUTION,Hernangomez Juan,1:46,2,Nuggets,Kings,51 - 64,0,N/A,N/A,N/A
+109,Buddy Hield,FG_ASSISTED,Willie Cauley-Stein,1:20,2,Kings,Nuggets,51 - 66,1,0,2,Layup
+110,Malik Beasley,FG_MISS,None,56.3,2,Nuggets,Kings,51 - 66,0,26,3,Jumper
+111,Willie Cauley-Stein,DEFENSIVE_REBOUND,None,50.0,2,Kings,Nuggets,51 - 66,1,N/A,N/A,N/A
+112,Iman Shumpert,FG_MISS,None,46.6,2,Kings,Nuggets,51 - 66,1,26,3,Jumper
+113,Buddy Hield,OFFENSIVE_REBOUND,None,42.2,2,Kings,Nuggets,51 - 66,1,N/A,N/A,N/A
+114,Justin Jackson,FG_MISS,None,42.0,2,Kings,Nuggets,51 - 66,1,26,3,Jumper
+115,Team,DEFENSIVE_REBOUND,None,42.0,2,Nuggets,Kings,51 - 66,0,N/A,N/A,N/A
+116,De'Aaron Fox,FOUL_ON_FLOOR,None,35.6,2,Kings,Nuggets,51 - 66,1,N/A,N/A,N/A
+117,Jamal Murray,FT,None,35.6,2,Nuggets,Kings,52 - 66,0,N/A,1,N/A
+118,Mason Plumlee,SUBSTITUTION,Jokic Nikola,35.6,2,Nuggets,Kings,52 - 66,0,N/A,N/A,N/A
+119,Jamal Murray,FT,None,35.6,2,Nuggets,Kings,53 - 66,0,N/A,1,N/A
+120,Buddy Hield,FG_MISS,None,23.0,2,Kings,Nuggets,53 - 66,1,25,3,Jumper
+121,Mason Plumlee,DEFENSIVE_REBOUND,None,17.4,2,Nuggets,Kings,53 - 66,0,N/A,N/A,N/A
+122,Jamal Murray,FG_MISS,None,0.0,2,Nuggets,Kings,53 - 66,0,26,2,Jumper
+123,Team,OFFENSIVE_REBOUND,None,0.0,2,Nuggets,Kings,53 - 66,0,N/A,N/A,N/A
+124,End of,Unknown,None,0.0,2,Kings,Nuggets,53 - 66,1,N/A,N/A,N/A
+0,Nemanja Bjelica,SUBSTITUTION,Jackson Justin,12:00,3,Kings,Nuggets,53 - 66,1,N/A,N/A,N/A
+1,Nikola Jokic,SUBSTITUTION,Harris Gary,12:00,3,Nuggets,Kings,53 - 66,0,N/A,N/A,N/A
+2,Juan Hernangomez,SUBSTITUTION,Beasley Malik,12:00,3,Nuggets,Kings,53 - 66,0,N/A,N/A,N/A
+3,De'Aaron Fox,FG_MISS,None,11:46,3,Kings,Nuggets,53 - 66,1,14,2,Jumper
+4,Mason Plumlee,DEFENSIVE_REBOUND,None,11:43,3,Nuggets,Kings,53 - 66,0,N/A,N/A,N/A
+5,Buddy Hield,Unknown,None,11:40,3,Kings,Nuggets,53 - 66,1,N/A,N/A,N/A
+6,Mason Plumlee,FG_ASSISTED,Nikola Jokic,11:28,3,Nuggets,Kings,55 - 66,0,0,2,Dunk
+7,Willie Cauley-Stein,FG_ASSISTED,Nemanja Bjelica,11:17,3,Kings,Nuggets,55 - 68,1,0,2,Dunk
+8,Jamal Murray,FG_MISS,None,11:03,3,Nuggets,Kings,55 - 68,0,0,2,Layup
+9,Willie Cauley-Stein,DEFENSIVE_REBOUND,None,10:59,3,Kings,Nuggets,55 - 68,1,N/A,N/A,N/A
+10,Buddy Hield,FG_ASSISTED,Iman Shumpert,10:55,3,Kings,Nuggets,55 - 70,1,16,2,Jumper
+11,Jamal Murray,FG_ASSISTED,Mason Plumlee,10:27,3,Nuggets,Kings,58 - 70,0,25,3,Jumper
+12,Mason Plumlee,FOUL_ON_FLOOR,None,10:16,3,Nuggets,Kings,58 - 70,0,N/A,N/A,N/A
+13,Iman Shumpert,FG_MISS,None,10:03,3,Kings,Nuggets,58 - 70,1,19,2,Jumper
+14,Jamal Murray,DEFENSIVE_REBOUND,None,10:01,3,Nuggets,Kings,58 - 70,0,N/A,N/A,N/A
+15,Jamal Murray,FG_ASSISTED,Nikola Jokic,9:54,3,Nuggets,Kings,61 - 70,0, ,3,Jumper
+16,Nemanja Bjelica,FG_MISS,None,9:43,3,Kings,Nuggets,61 - 70,1,28,3,Jumper
+17,Nikola Jokic,DEFENSIVE_REBOUND,None,9:40,3,Nuggets,Kings,61 - 70,0,N/A,N/A,N/A
+18,De'Aaron Fox,FOUL_ON_FLOOR,None,9:35,3,Kings,Nuggets,61 - 70,1,N/A,N/A,N/A
+19,Jamal Murray,FT,None,9:35,3,Nuggets,Kings,62 - 70,0,N/A,1,N/A
+20,Jamal Murray,FT,None,9:35,3,Nuggets,Kings,63 - 70,0,N/A,1,N/A
+21,Nemanja Bjelica,FG_MISS,None,9:11,3,Kings,Nuggets,63 - 70,1,0,2,Layup
+22,Jamal Murray,DEFENSIVE_REBOUND,None,9:09,3,Nuggets,Kings,63 - 70,0,N/A,N/A,N/A
+23,Iman Shumpert,FOUL_ON_FLOOR,None,9:07,3,Kings,Nuggets,63 - 70,1,N/A,N/A,N/A
+24,Nikola Jokic,FG_ASSISTED,Juan Hernangomez,8:59,3,Nuggets,Kings,66 - 70,0,26,3,Jumper
+25,Team,Unknown,None,8:58,3,Kings,Nuggets,66 - 70,1,N/A,N/A,N/A
+26,De'Aaron Fox,TURNOVER,Mason Plumlee,8:44,3,Kings,Nuggets,66 - 70,1,N/A,N/A,N/A
+27,Nikola Jokic,FG_MISS,None,8:33,3,Nuggets,Kings,66 - 70,0,25,3,Jumper
+28,Iman Shumpert,DEFENSIVE_REBOUND,None,8:28,3,Kings,Nuggets,66 - 70,1,N/A,N/A,N/A
+29,Iman Shumpert,FG_MISS,None,8:15,3,Kings,Nuggets,66 - 70,1,25,3,Jumper
+30,Nikola Jokic,DEFENSIVE_REBOUND,None,8:11,3,Nuggets,Kings,66 - 70,0,N/A,N/A,N/A
+31,Jamal Murray,FG_MISS,None,7:55,3,Nuggets,Kings,66 - 70,0,25,3,Jumper
+32,Juan Hernangomez,OFFENSIVE_REBOUND,None,7:51,3,Nuggets,Kings,66 - 70,0,N/A,N/A,N/A
+33,Jamal Murray,FG_ASSISTED,Nikola Jokic,7:43,3,Nuggets,Kings,68 - 70,0,20,2,Jumper
+34,Buddy Hield,FG_ASSISTED,De'Aaron Fox,7:30,3,Kings,Nuggets,68 - 72,1,15,2,Jumper
+35,Harry Giles,SUBSTITUTION,Bjelica Nemanja,7:11,3,Kings,Nuggets,68 - 72,1,N/A,N/A,N/A
+36,Jamal Murray,FG_MISS,None,7:02,3,Nuggets,Kings,68 - 72,0,30,3,Jumper
+37,Nikola Jokic,OFFENSIVE_REBOUND,None,6:59,3,Nuggets,Kings,68 - 72,0,N/A,N/A,N/A
+38,Jamal Murray,TURNOVER,De'Aaron Fox,6:54,3,Nuggets,Kings,68 - 72,0,N/A,N/A,N/A
+39,Willie Cauley-Stein,FG_ASSISTED,De'Aaron Fox,6:50,3,Kings,Nuggets,68 - 74,1,0,2,Dunk
+40,Harry Giles,FOUL_ON_FLOOR,None,6:43,3,Kings,Nuggets,68 - 74,1,N/A,N/A,N/A
+41,Nikola Jokic,FG_MISS,None,6:38,3,Nuggets,Kings,68 - 74,0, ,2,Jumper
+42,Harry Giles,DEFENSIVE_REBOUND,None,6:36,3,Kings,Nuggets,68 - 74,1,N/A,N/A,N/A
+43,Buddy Hield,FG_MISS,None,6:29,3,Kings,Nuggets,68 - 74,1,26,3,Jumper
+44,Nikola Jokic,DEFENSIVE_REBOUND,None,6:24,3,Nuggets,Kings,68 - 74,0,N/A,N/A,N/A
+45,Juan Hernangomez,FG_ASSISTED,Mason Plumlee,6:14,3,Nuggets,Kings,70 - 74,0,0,2,Dunk
+46,Willie Cauley-Stein,FG_MISS,None,5:54,3,Kings,Nuggets,70 - 74,1,0,2,Layup
+47,Juan Hernangomez,DEFENSIVE_REBOUND,None,5:50,3,Nuggets,Kings,70 - 74,0,N/A,N/A,N/A
+48,Willie Cauley-Stein,FOUL_ON_FLOOR,None,5:42,3,Kings,Nuggets,70 - 74,1,N/A,N/A,N/A
+49,Jamal Murray,FT_MISS,None,5:42,3,Nuggets,Kings,70 - 74,0,N/A,1,N/A
+50,Team,OFFENSIVE_REBOUND,None,5:42,3,Nuggets,Kings,70 - 74,0,N/A,N/A,N/A
+51,Bogdan Bogdanovic,SUBSTITUTION,Shumpert Iman,5:42,3,Kings,Nuggets,70 - 74,1,N/A,N/A,N/A
+52,Paul Millsap,SUBSTITUTION,Plumlee Mason,5:42,3,Nuggets,Kings,70 - 74,0,N/A,N/A,N/A
+53,Jamal Murray,FT,None,5:42,3,Nuggets,Kings,71 - 74,0,N/A,1,N/A
+54,Harry Giles,FG_MISS,None,5:30,3,Kings,Nuggets,71 - 74,1,23,3,Jumper
+55,Juan Hernangomez,DEFENSIVE_REBOUND,None,5:26,3,Nuggets,Kings,71 - 74,0,N/A,N/A,N/A
+56,Jamal Murray,FG_ASSISTED,Nikola Jokic,5:18,3,Nuggets,Kings,73 - 74,0,0,2,Dunk
+57,Willie Cauley-Stein,FG_ASSISTED,De'Aaron Fox,5:00,3,Kings,Nuggets,73 - 76,1,0,2,Dunk
+58,Jamal Murray,FG_UNASSISTED,None,4:45,3,Nuggets,Kings,75 - 76,0,18,2,Jumper
+59,Paul Millsap,FOUL_ON_FLOOR,None,4:28,3,Nuggets,Kings,75 - 76,0,N/A,N/A,N/A
+60,Willie Cauley-Stein,FT,None,4:28,3,Kings,Nuggets,75 - 77,1,N/A,1,N/A
+61,Yogi Ferrell,SUBSTITUTION,Fox De'Aaron,4:28,3,Kings,Nuggets,75 - 77,1,N/A,N/A,N/A
+62,Gary Harris,SUBSTITUTION,Hernangomez Juan,4:28,3,Nuggets,Kings,75 - 77,0,N/A,N/A,N/A
+63,Willie Cauley-Stein,FT,None,4:28,3,Kings,Nuggets,75 - 78,1,N/A,1,N/A
+64,Torrey Craig,FG_ASSISTED,Jamal Murray,4:07,3,Nuggets,Kings,77 - 78,0,7,2,Jumper
+65,Willie Cauley-Stein,FG_MISS,None,3:56,3,Kings,Nuggets,77 - 78,1,16,2,Jumper
+66,Gary Harris,DEFENSIVE_REBOUND,None,3:54,3,Nuggets,Kings,77 - 78,0,N/A,N/A,N/A
+67,Jamal Murray,FG_MISS,None,3:43,3,Nuggets,Kings,77 - 78,0,5,2,Jumper
+68,Team,OFFENSIVE_REBOUND,None,3:43,3,Nuggets,Kings,77 - 78,0,N/A,N/A,N/A
+69,Jamal Murray,TURNOVER,None,3:43,3,Nuggets,Kings,77 - 78,0,N/A,N/A,N/A
+70,Willie Cauley-Stein,FG_MISS,None,3:31,3,Kings,Nuggets,77 - 78,1,8,2,Jumper
+71,Nikola Jokic,DEFENSIVE_REBOUND,None,3:29,3,Nuggets,Kings,77 - 78,0,N/A,N/A,N/A
+72,Torrey Craig,FG_MISS,None,3:17,3,Nuggets,Kings,77 - 78,0,25,3,Jumper
+73,Willie Cauley-Stein,DEFENSIVE_REBOUND,None,3:15,3,Kings,Nuggets,77 - 78,1,N/A,N/A,N/A
+74,Willie Cauley-Stein,FG_MISS,None,3:06,3,Kings,Nuggets,77 - 78,1,0,2,Layup
+75,Torrey Craig,DEFENSIVE_REBOUND,None,3:03,3,Nuggets,Kings,77 - 78,0,N/A,N/A,N/A
+76,Jamal Murray,TURNOVER,None,3:00,3,Nuggets,Kings,77 - 78,0,N/A,N/A,N/A
+77,Buddy Hield,FG_MISS,None,2:39,3,Kings,Nuggets,77 - 78,1,16,2,Jumper
+78,Paul Millsap,DEFENSIVE_REBOUND,None,2:37,3,Nuggets,Kings,77 - 78,0,N/A,N/A,N/A
+79,Jamal Murray,FG_MISS,None,2:27,3,Nuggets,Kings,77 - 78,0,0,2,Layup
+80,Jamal Murray,OFFENSIVE_REBOUND,None,2:23,3,Nuggets,Kings,77 - 78,0,N/A,N/A,N/A
+81,Jamal Murray,FG_UNASSISTED,None,2:23,3,Nuggets,Kings,79 - 78,0, ,2,Jumper
+82,Jamal Murray,FOUL_ON_FLOOR,None,2:18,3,Nuggets,Kings,79 - 78,0,N/A,N/A,N/A
+83,Team,Unknown,None,2:18,3,Nuggets,Kings,79 - 78,0,N/A,N/A,N/A
+84,Nemanja Bjelica,SUBSTITUTION,Cauley-Stein Willie,2:18,3,Kings,Nuggets,79 - 78,1,N/A,N/A,N/A
+85,Mason Plumlee,SUBSTITUTION,Jokic Nikola,2:18,3,Nuggets,Kings,79 - 78,0,N/A,N/A,N/A
+86,Monte Morris,SUBSTITUTION,Murray Jamal,2:18,3,Nuggets,Kings,79 - 78,0,N/A,N/A,N/A
+87,Yogi Ferrell,FT_MISS,None,2:18,3,Kings,Nuggets,79 - 78,1,N/A,1,N/A
+88,Team,OFFENSIVE_REBOUND,None,2:18,3,Kings,Nuggets,79 - 78,1,N/A,N/A,N/A
+89,Yogi Ferrell,FT,None,2:18,3,Kings,Nuggets,79 - 79,1,N/A,1,N/A
+90,Monte Morris,FG_MISS,None,2:05,3,Nuggets,Kings,79 - 79,0,16,2,Jumper
+91,Mason Plumlee,OFFENSIVE_REBOUND,None,2:02,3,Nuggets,Kings,79 - 79,0,N/A,N/A,N/A
+92,Monte Morris,FG_MISS,None,1:59,3,Nuggets,Kings,79 - 79,0,26,3,Jumper
+93,Torrey Craig,OFFENSIVE_REBOUND,None,1:53,3,Nuggets,Kings,79 - 79,0,N/A,N/A,N/A
+94,Paul Millsap,FG_ASSISTED,Torrey Craig,1:52,3,Nuggets,Kings,81 - 79,0,0,2,Layup
+95,Nemanja Bjelica,FG_ASSISTED,Harry Giles,1:39,3,Kings,Nuggets,81 - 81,1,0,2,Dunk
+96,Gary Harris,FG_MISS,None,1:17,3,Nuggets,Kings,81 - 81,0,18,2,Jumper
+97,Torrey Craig,OFFENSIVE_REBOUND,None,1:15,3,Nuggets,Kings,81 - 81,0,N/A,N/A,N/A
+98,Monte Morris,FG_ASSISTED,Torrey Craig,1:13,3,Nuggets,Kings,84 - 81,0,26,3,Jumper
+99,Torrey Craig,FOUL_ON_FLOOR,None,1:01,3,Nuggets,Kings,84 - 81,0,N/A,N/A,N/A
+100,Justin Jackson,SUBSTITUTION,Bogdanovic Bogdan,1:01,3,Kings,Nuggets,84 - 81,1,N/A,N/A,N/A
+101,Malik Beasley,SUBSTITUTION,Craig Torrey,1:01,3,Nuggets,Kings,84 - 81,0,N/A,N/A,N/A
+102,Monte Morris,FOUL_ON_FLOOR,None,52.0,3,Nuggets,Kings,84 - 81,0,N/A,N/A,N/A
+103,Yogi Ferrell,FT,None,52.0,3,Kings,Nuggets,84 - 82,1,N/A,1,N/A
+104,Yogi Ferrell,FT_MISS,None,52.0,3,Kings,Nuggets,84 - 82,1,N/A,1,N/A
+105,Malik Beasley,DEFENSIVE_REBOUND,None,49.9,3,Nuggets,Kings,84 - 82,0,N/A,N/A,N/A
+106,Monte Morris,FG_MISS,None,30.3,3,Nuggets,Kings,84 - 82,0,25,3,Jumper
+107,Harry Giles,DEFENSIVE_REBOUND,None,27.1,3,Kings,Nuggets,84 - 82,1,N/A,N/A,N/A
+108,Buddy Hield,FG_UNASSISTED,None,11.5,3,Kings,Nuggets,84 - 84,1, ,2,Jumper
+109,Monte Morris,FG_MISS,Justin Jackson,4.1,3,Kings,Nuggets,84 - 84,0,14,2,Jumper
+110,Justin Jackson,DEFENSIVE_REBOUND,None,0.9,3,Kings,Nuggets,84 - 84,1,N/A,N/A,N/A
+111,End of,Unknown,None,0.0,3,Kings,Nuggets,84 - 84,1,N/A,N/A,N/A
+0,Bogdan Bogdanovic,SUBSTITUTION,Hield Buddy,12:00,4,Kings,Nuggets,84 - 84,1,N/A,N/A,N/A
+1,Jamal Murray,SUBSTITUTION,Morris Monte,12:00,4,Nuggets,Kings,84 - 84,0,N/A,N/A,N/A
+2,Gary Harris,FG_MISS,None,11:49,4,Nuggets,Kings,84 - 84,0,25,3,Jumper
+3,Paul Millsap,OFFENSIVE_REBOUND,None,11:46,4,Nuggets,Kings,84 - 84,0,N/A,N/A,N/A
+4,Paul Millsap's,FG_MISS,Justin Jackson,11:40,4,Kings,Nuggets,84 - 84,0, ,2,Jumper
+5,Justin Jackson,DEFENSIVE_REBOUND,None,11:37,4,Kings,Nuggets,84 - 84,1,N/A,N/A,N/A
+6,Mason Plumlee,FOUL_ON_FLOOR,None,11:31,4,Nuggets,Kings,84 - 84,0,N/A,N/A,N/A
+7,Harry Giles,FG_MISS,None,11:22,4,Kings,Nuggets,84 - 84,1,14,2,Jumper
+8,Paul Millsap,DEFENSIVE_REBOUND,None,11:19,4,Nuggets,Kings,84 - 84,0,N/A,N/A,N/A
+9,Jamal Murray,FG_UNASSISTED,None,11:00,4,Nuggets,Kings,87 - 84,0,26,3,Jumper
+10,Nemanja Bjelica,FG_MISS,None,10:42,4,Kings,Nuggets,87 - 84,1,26,3,Jumper
+11,Malik Beasley,DEFENSIVE_REBOUND,None,10:39,4,Nuggets,Kings,87 - 84,0,N/A,N/A,N/A
+12,Malik Beasley,FG_ASSISTED,Jamal Murray,10:29,4,Nuggets,Kings,89 - 84,0,13,2,Jumper
+13,Yogi Ferrell,FG_UNASSISTED,None,10:08,4,Kings,Nuggets,89 - 86,1,0,2,Layup
+14,Malik Beasley,FG_MISS,None,9:54,4,Nuggets,Kings,89 - 86,0,26,3,Jumper
+15,Justin Jackson,DEFENSIVE_REBOUND,None,9:51,4,Kings,Nuggets,89 - 86,1,N/A,N/A,N/A
+16,Yogi Ferrell,FG_MISS,None,9:42,4,Kings,Nuggets,89 - 86,1,0,2,Layup
+17,Justin Jackson,OFFENSIVE_REBOUND,None,9:39,4,Kings,Nuggets,89 - 86,1,N/A,N/A,N/A
+18,Justin Jackson,FG_MISS,None,9:39,4,Kings,Nuggets,89 - 86,1, ,2,Jumper
+19,Jamal Murray,DEFENSIVE_REBOUND,None,9:39,4,Nuggets,Kings,89 - 86,0,N/A,N/A,N/A
+20,Mason Plumlee,FG_MISS,None,9:28,4,Nuggets,Kings,89 - 86,0,0,2,Layup
+21,Bogdan Bogdanovic,DEFENSIVE_REBOUND,None,9:24,4,Kings,Nuggets,89 - 86,1,N/A,N/A,N/A
+22,Bogdan Bogdanovic,TURNOVER,None,9:23,4,Kings,Nuggets,89 - 86,1,N/A,N/A,N/A
+23,Harry Giles,FOUL_FLAGRANT_1,None,9:04,4,Kings,Nuggets,89 - 86,1,N/A,N/A,N/A
+24,Mason Plumlee,FT,None,9:04,4,Nuggets,Kings,90 - 86,0,N/A,1,N/A
+25,Mason Plumlee,FT_MISS,None,9:04,4,Nuggets,Kings,90 - 86,0,N/A,1,N/A
+26,Team,OFFENSIVE_REBOUND,None,9:04,4,Nuggets,Kings,90 - 86,0,N/A,N/A,N/A
+27,Paul Millsap,FG_MISS,None,8:54,4,Nuggets,Kings,90 - 86,0,12,2,Jumper
+28,Team,DEFENSIVE_REBOUND,None,8:52,4,Kings,Nuggets,90 - 86,1,N/A,N/A,N/A
+29,Paul Millsap,JUMP_BALL,None,8:52,4,Kings,Nuggets,90 - 86,1,N/A,N/A,N/A
+30,Harry Giles,FG_MISS,None,8:27,4,Kings,Nuggets,90 - 86,1,11,2,Jumper
+31,Nemanja Bjelica,OFFENSIVE_REBOUND,None,8:27,4,Kings,Nuggets,90 - 86,1,N/A,N/A,N/A
+32,Nemanja Bjelica,FG_MISS,None,8:26,4,Kings,Nuggets,90 - 86,1, ,2,Jumper
+33,Jamal Murray,DEFENSIVE_REBOUND,None,8:26,4,Nuggets,Kings,90 - 86,0,N/A,N/A,N/A
+34,Malik Beasley,FG_MISS,None,8:12,4,Nuggets,Kings,90 - 86,0, ,2,Jumper
+35,Bogdan Bogdanovic,DEFENSIVE_REBOUND,None,8:08,4,Kings,Nuggets,90 - 86,1,N/A,N/A,N/A
+36,Nemanja Bjelica,FG_ASSISTED,Bogdan Bogdanovic,8:04,4,Kings,Nuggets,90 - 89,1,29,3,Jumper
+37,Paul Millsap,FG_ASSISTED,Jamal Murray,7:45,4,Nuggets,Kings,93 - 89,0,26,3,Jumper
+38,Bogdan Bogdanovic,FG_MISS,None,7:24,4,Kings,Nuggets,93 - 89,1, ,2,Jumper
+39,Team,DEFENSIVE_REBOUND,None,7:24,4,Nuggets,Kings,93 - 89,0,N/A,N/A,N/A
+40,Nemanja Bjelica,FOUL_ON_FLOOR,None,7:24,4,Kings,Nuggets,93 - 89,1,N/A,N/A,N/A
+41,Willie Cauley-Stein,SUBSTITUTION,Ferrell Yogi,7:24,4,Kings,Nuggets,93 - 89,1,N/A,N/A,N/A
+42,De'Aaron Fox,SUBSTITUTION,Giles Harry,7:24,4,Kings,Nuggets,93 - 89,1,N/A,N/A,N/A
+43,Nikola Jokic,SUBSTITUTION,Plumlee Mason,7:24,4,Nuggets,Kings,93 - 89,0,N/A,N/A,N/A
+44,Jamal Murray,FG_ASSISTED,Nikola Jokic,7:12,4,Nuggets,Kings,95 - 89,0,0,2,Layup
+45,Jamal Murray,FOUL_ON_FLOOR,None,7:06,4,Nuggets,Kings,95 - 89,0,N/A,N/A,N/A
+46,Team,Unknown,None,7:06,4,Kings,Nuggets,95 - 89,1,N/A,N/A,N/A
+47,Buddy Hield,SUBSTITUTION,Jackson Justin,7:06,4,Kings,Nuggets,95 - 89,1,N/A,N/A,N/A
+48,De'Aaron Fox,FG_MISS,None,6:57,4,Kings,Nuggets,95 - 89,1,23,3,Jumper
+49,Paul Millsap,DEFENSIVE_REBOUND,None,6:52,4,Nuggets,Kings,95 - 89,0,N/A,N/A,N/A
+50,Jamal Murray,FG_ASSISTED,Paul Millsap,6:38,4,Nuggets,Kings,98 - 89,0,25,3,Jumper
+51,Malik Beasley,FOUL_ON_FLOOR,None,6:27,4,Nuggets,Kings,98 - 89,0,N/A,N/A,N/A
+52,Willie Cauley-Stein,FT,None,6:27,4,Kings,Nuggets,98 - 90,1,N/A,1,N/A
+53,Willie Cauley-Stein,FT_MISS,None,6:27,4,Kings,Nuggets,98 - 90,1,N/A,1,N/A
+54,Nikola Jokic,DEFENSIVE_REBOUND,None,6:24,4,Nuggets,Kings,98 - 90,0,N/A,N/A,N/A
+55,Jamal Murray,FG_MISS,None,6:05,4,Nuggets,Kings,98 - 90,0,26,3,Jumper
+56,Nikola Jokic,OFFENSIVE_REBOUND,None,5:59,4,Nuggets,Kings,98 - 90,0,N/A,N/A,N/A
+57,Nikola Jokic,FG_MISS,None,5:59,4,Nuggets,Kings,98 - 90,0, ,2,Jumper
+58,Nikola Jokic,OFFENSIVE_REBOUND,None,5:59,4,Nuggets,Kings,98 - 90,0,N/A,N/A,N/A
+59,Nikola Jokic,FG_UNASSISTED,None,5:56,4,Nuggets,Kings,100 - 90,0, ,2,Jumper
+60,Gary Harris,Unknown,None,5:46,4,Nuggets,Kings,100 - 90,0,N/A,N/A,N/A
+61,Bogdan Bogdanovic,FG_MISS,None,5:37,4,Kings,Nuggets,100 - 90,1,23,2,Jumper
+62,Team,DEFENSIVE_REBOUND,None,5:37,4,Nuggets,Kings,100 - 90,0,N/A,N/A,N/A
+63,Nikola Jokic,TURNOVER,None,5:22,4,Nuggets,Kings,100 - 90,0,N/A,N/A,N/A
+64,Willie Cauley-Stein,FG_ASSISTED,De'Aaron Fox,5:13,4,Kings,Nuggets,100 - 92,1,0,2,Dunk
+65,Jamal Murray,FG_MISS,None,4:46,4,Nuggets,Kings,100 - 92,0,25,2,Jumper
+66,Team,DEFENSIVE_REBOUND,None,4:46,4,Kings,Nuggets,100 - 92,1,N/A,N/A,N/A
+67,Paul Millsap,FOUL_ON_FLOOR,None,4:45,4,Nuggets,Kings,100 - 92,0,N/A,N/A,N/A
+68,Willie Cauley-Stein,FG_MISS,Nikola Jokic,4:31,4,Nuggets,Kings,100 - 92,1,0,2,Layup
+69,Nikola Jokic,DEFENSIVE_REBOUND,None,4:25,4,Nuggets,Kings,100 - 92,0,N/A,N/A,N/A
+70,Nikola Jokic,TURNOVER,Buddy Hield,4:25,4,Nuggets,Kings,100 - 92,0,N/A,N/A,N/A
+71,Buddy Hield,FG_UNASSISTED,None,4:25,4,Kings,Nuggets,100 - 95,1,27,3,Jumper
+72,Team,Unknown,None,4:25,4,Nuggets,Kings,100 - 95,0,N/A,N/A,N/A
+73,Mason Plumlee,SUBSTITUTION,Millsap Paul,4:25,4,Nuggets,Kings,100 - 95,0,N/A,N/A,N/A
+74,Nikola Jokic,FG_MISS,None,4:09,4,Nuggets,Kings,100 - 95,0,6,2,Jumper
+75,Willie Cauley-Stein,DEFENSIVE_REBOUND,None,4:07,4,Kings,Nuggets,100 - 95,1,N/A,N/A,N/A
+76,De'Aaron Fox,TURNOVER,Jamal Murray,3:55,4,Kings,Nuggets,100 - 95,1,N/A,N/A,N/A
+77,Gary Harris,FG_UNASSISTED,None,3:51,4,Nuggets,Kings,102 - 95,0,0,2,Dunk
+78,Buddy Hield,FG_ASSISTED,De'Aaron Fox,3:40,4,Kings,Nuggets,102 - 98,1, ,3,Jumper
+79,Jamal Murray,FG_MISS,None,3:17,4,Nuggets,Kings,102 - 98,0,8,2,Jumper
+80,Jamal Murray,OFFENSIVE_REBOUND,None,3:15,4,Nuggets,Kings,102 - 98,0,N/A,N/A,N/A
+81,Jamal Murray,FG_UNASSISTED,None,3:13,4,Nuggets,Kings,104 - 98,0, ,2,Jumper
+82,Buddy Hield,FG_UNASSISTED,None,2:54,4,Kings,Nuggets,104 - 101,1,26,3,Jumper
+83,Nikola Jokic,TURNOVER,Bogdan Bogdanovic,2:35,4,Nuggets,Kings,104 - 101,0,N/A,N/A,N/A
+84,Buddy Hield,FG_MISS,None,2:22,4,Kings,Nuggets,104 - 101,1,1,3,Jumper
+85,Team,DEFENSIVE_REBOUND,None,2:21,4,Nuggets,Kings,104 - 101,0,N/A,N/A,N/A
+86,Nikola Jokic,FG_UNASSISTED,None,2:05,4,Nuggets,Kings,106 - 101,0,5,2,Jumper
+87,De'Aaron Fox,FG_UNASSISTED,None,1:50,4,Kings,Nuggets,106 - 103,1,9,2,Jumper
+88,Willie Cauley-Stein,FOUL_ON_FLOOR,None,1:39,4,Kings,Nuggets,106 - 103,1,N/A,N/A,N/A
+89,Mason Plumlee,FG_ASSISTED,Nikola Jokic,1:30,4,Nuggets,Kings,108 - 103,0,0,2,Dunk
+90,De'Aaron Fox,FG_UNASSISTED,None,1:24,4,Kings,Nuggets,108 - 105,1,0,2,Layup
+91,Mason Plumlee,FOUL_ON_FLOOR,None,1:24,4,Nuggets,Kings,108 - 105,0,N/A,N/A,N/A
+92,De'Aaron Fox,FT,None,1:24,4,Kings,Nuggets,108 - 106,1,N/A,1,N/A
+93,Jamal Murray,FG_UNASSISTED,None,1:01,4,Nuggets,Kings,111 - 106,0,26,2,Jumper
+94,De'Aaron Fox,FG_UNASSISTED,None,55.1,4,Kings,Nuggets,111 - 108,1,0,2,Layup
+95,Jamal Murray,FG_UNASSISTED,None,36.3,4,Nuggets,Kings,114 - 108,0,1,3,Jumper
+96,Willie Cauley-Stein,FOUL_ON_FLOOR,None,36.3,4,Kings,Nuggets,114 - 108,1,N/A,N/A,N/A
+97,Torrey Craig,SUBSTITUTION,Jokic Nikola,36.3,4,Nuggets,Kings,114 - 108,0,N/A,N/A,N/A
+98,Jamal Murray,FT_MISS,None,36.3,4,Nuggets,Kings,114 - 108,0,N/A,1,N/A
+99,Willie Cauley-Stein,DEFENSIVE_REBOUND,None,35.1,4,Kings,Nuggets,114 - 108,1,N/A,N/A,N/A
+100,Team,Unknown,None,35.1,4,Kings,Nuggets,114 - 108,1,N/A,N/A,N/A
+101,Bogdan Bogdanovic,FG_ASSISTED,De'Aaron Fox,25.6,4,Kings,Nuggets,114 - 111,1,1,3,Jumper
+102,Team,Unknown,None,25.0,4,Nuggets,Kings,114 - 111,0,N/A,N/A,N/A
+103,Nikola Jokic,SUBSTITUTION,Craig Torrey,25.0,4,Nuggets,Kings,114 - 111,0,N/A,N/A,N/A
+104,Buddy Hield,FOUL_ON_FLOOR,None,24.2,4,Kings,Nuggets,114 - 111,1,N/A,N/A,N/A
+105,Jamal Murray,FT_MISS,None,24.2,4,Nuggets,Kings,114 - 111,0,N/A,1,N/A
+106,Team,OFFENSIVE_REBOUND,None,24.2,4,Nuggets,Kings,114 - 111,0,N/A,N/A,N/A
+107,Torrey Craig,SUBSTITUTION,Jokic Nikola,24.2,4,Nuggets,Kings,114 - 111,0,N/A,N/A,N/A
+108,Jamal Murray,FT,None,24.2,4,Nuggets,Kings,115 - 111,0,N/A,1,N/A
+109,Bogdan Bogdanovic,FG_MISS,None,18.5,4,Kings,Nuggets,115 - 111,1,26,3,Jumper
+110,Gary Harris,DEFENSIVE_REBOUND,None,14.6,4,Nuggets,Kings,115 - 111,0,N/A,N/A,N/A
+111,Buddy Hield,FOUL_ON_FLOOR,None,14.6,4,Kings,Nuggets,115 - 111,1,N/A,N/A,N/A
+112,Gary Harris,FT,None,14.6,4,Nuggets,Kings,116 - 111,0,N/A,1,N/A
+113,Gary Harris,FT,None,14.6,4,Nuggets,Kings,117 - 111,0,N/A,1,N/A
+114,Buddy Hield,FG_UNASSISTED,None,3.9,4,Kings,Nuggets,117 - 113,1,0,2,Layup
+115,End of,Unknown,None,0.0,4,Kings,Nuggets,117 - 113,1,N/A,N/A,N/A
+116,End of,Unknown,None,0.0,4,Kings,Nuggets,117 - 113,1,N/A,N/A,N/A

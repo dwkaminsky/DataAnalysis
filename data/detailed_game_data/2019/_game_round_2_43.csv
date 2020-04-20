@@ -1,0 +1,447 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Myles Turner,JUMP_BALL,None,12:00,1,Trail Blazers,Pacers,0 - 0,1,N/A,N/A,N/A
+1,Jake Layman,FG_MISS,None,11:37,1,Trail Blazers,Pacers,0 - 0,1,7,2,Jumper
+2,Jusuf Nurkic,OFFENSIVE_REBOUND,None,11:33,1,Trail Blazers,Pacers,0 - 0,1,N/A,N/A,N/A
+3,Myles Turner,FOUL_ON_FLOOR,None,11:27,1,Pacers,Trail Blazers,0 - 0,0,N/A,N/A,N/A
+4,Jusuf Nurkic,FT,None,11:27,1,Trail Blazers,Pacers,0 - 1,1,N/A,1,N/A
+5,Jusuf Nurkic,FT,None,11:27,1,Trail Blazers,Pacers,0 - 2,1,N/A,1,N/A
+6,Bojan Bogdanovic,FG_MISS,None,11:05,1,Pacers,Trail Blazers,0 - 2,0,11,2,Jumper
+7,Jusuf Nurkic,DEFENSIVE_REBOUND,None,11:03,1,Trail Blazers,Pacers,0 - 2,1,N/A,N/A,N/A
+8,Damian Lillard,FG_MISS,None,10:50,1,Trail Blazers,Pacers,0 - 2,1,20,2,Jumper
+9,Thaddeus Young,DEFENSIVE_REBOUND,None,10:46,1,Pacers,Trail Blazers,0 - 2,0,N/A,N/A,N/A
+10,Darren Collison,FG_MISS,None,10:39,1,Pacers,Trail Blazers,0 - 2,0,20,2,Jumper
+11,Jake Layman,DEFENSIVE_REBOUND,None,10:36,1,Trail Blazers,Pacers,0 - 2,1,N/A,N/A,N/A
+12,Maurice Harkless,FG_MISS,None,10:23,1,Trail Blazers,Pacers,0 - 2,1,26,3,Jumper
+13,Bojan Bogdanovic,DEFENSIVE_REBOUND,None,10:20,1,Pacers,Trail Blazers,0 - 2,0,N/A,N/A,N/A
+14,Wesley Matthews,FG_ASSISTED,Thaddeus Young,10:14,1,Pacers,Trail Blazers,3 - 2,0,25,2,Jumper
+15,Jusuf Nurkic,FG_UNASSISTED,None,9:50,1,Trail Blazers,Pacers,3 - 4,1,4,2,Jumper
+16,Bojan Bogdanovic,FG_MISS,None,9:39,1,Pacers,Trail Blazers,3 - 4,0,0,2,Layup
+17,Myles Turner,OFFENSIVE_REBOUND,None,9:32,1,Pacers,Trail Blazers,3 - 4,0,N/A,N/A,N/A
+18,Myles Turner,FG_UNASSISTED,None,9:32,1,Pacers,Trail Blazers,5 - 4,0,0,2,Dunk
+19,Maurice Harkless,FG_ASSISTED,Jusuf Nurkic,9:23,1,Trail Blazers,Pacers,5 - 6,1,0,2,Dunk
+20,Myles Turner,TURNOVER,Maurice Harkless,9:04,1,Pacers,Trail Blazers,5 - 6,0,N/A,N/A,N/A
+21,Jusuf Nurkic,FG_ASSISTED,Damian Lillard,8:56,1,Trail Blazers,Pacers,5 - 8,1,0,2,Dunk
+22,Myles Turner,FG_ASSISTED,Darren Collison,8:39,1,Pacers,Trail Blazers,7 - 8,0,19,2,Jumper
+23,Damian Lillard,FG_ASSISTED,Jusuf Nurkic,8:22,1,Trail Blazers,Pacers,7 - 10,1,0,2,Layup
+24,Myles Turner,FG_ASSISTED,Darren Collison,8:07,1,Pacers,Trail Blazers,9 - 10,0,19,2,Jumper
+25,Jusuf Nurkic,FG_MISS,None,7:43,1,Trail Blazers,Pacers,9 - 10,1,15,2,Jumper
+26,Wesley Matthews,DEFENSIVE_REBOUND,None,7:40,1,Pacers,Trail Blazers,9 - 10,0,N/A,N/A,N/A
+27,Myles Turner,FG_MISS,None,7:31,1,Pacers,Trail Blazers,9 - 10,0,27,3,Jumper
+28,Wesley Matthews,OFFENSIVE_REBOUND,None,7:27,1,Pacers,Trail Blazers,9 - 10,0,N/A,N/A,N/A
+29,Thaddeus Young,FG_MISS,Maurice Harkless,7:24,1,Trail Blazers,Pacers,9 - 10,0,3,2,Jumper
+30,Myles Turner,OFFENSIVE_REBOUND,None,7:19,1,Pacers,Trail Blazers,9 - 10,0,N/A,N/A,N/A
+31,Myles Turner,FG_UNASSISTED,None,7:17,1,Pacers,Trail Blazers,11 - 10,0, ,2,Jumper
+32,Jusuf Nurkic,FG_ASSISTED,Damian Lillard,7:05,1,Trail Blazers,Pacers,11 - 12,1,15,2,Jumper
+33,Myles Turner,FG_ASSISTED,Darren Collison,6:51,1,Pacers,Trail Blazers,14 - 12,0,28,3,Jumper
+34,Jake Layman,FG_MISS,None,6:38,1,Trail Blazers,Pacers,14 - 12,1,26,3,Jumper
+35,Myles Turner,DEFENSIVE_REBOUND,None,6:38,1,Pacers,Trail Blazers,14 - 12,0,N/A,N/A,N/A
+36,Wesley Matthews,FG_ASSISTED,Myles Turner,6:18,1,Pacers,Trail Blazers,17 - 12,0,28,3,Jumper
+37,Damian Lillard,TURNOVER,Darren Collison,6:00,1,Trail Blazers,Pacers,17 - 12,1,N/A,N/A,N/A
+38,Bojan Bogdanovic,FG_ASSISTED,Darren Collison,5:56,1,Pacers,Trail Blazers,19 - 12,0,0,2,Dunk
+39,Team,Unknown,None,5:54,1,Trail Blazers,Pacers,19 - 12,1,N/A,N/A,N/A
+40,Jake Layman,FG_MISS,None,5:40,1,Trail Blazers,Pacers,19 - 12,1,25,3,Jumper
+41,Myles Turner,DEFENSIVE_REBOUND,None,5:36,1,Pacers,Trail Blazers,19 - 12,0,N/A,N/A,N/A
+42,Darren Collison,FG_UNASSISTED,None,5:14,1,Pacers,Trail Blazers,21 - 12,0,21,2,Jumper
+43,Jusuf Nurkic,TURNOVER,None,4:56,1,Trail Blazers,Pacers,21 - 12,1,N/A,N/A,N/A
+44,Jusuf Nurkic,TURNOVER,None,4:56,1,Trail Blazers,Pacers,21 - 12,1,N/A,N/A,N/A
+45,Rodney Hood,SUBSTITUTION,Aminu Al-Farouq,4:56,1,Trail Blazers,Pacers,21 - 12,1,N/A,N/A,N/A
+46,Seth Curry,SUBSTITUTION,Layman Jake,4:56,1,Trail Blazers,Pacers,21 - 12,1,N/A,N/A,N/A
+47,Bojan Bogdanovic,FG_UNASSISTED,None,4:34,1,Pacers,Trail Blazers,23 - 12,0,0,2,Layup
+48,Jusuf Nurkic,FG_ASSISTED,Damian Lillard,4:23,1,Trail Blazers,Pacers,23 - 14,1,0,2,Layup
+49,Wesley Matthews,FG_MISS,Damian Lillard,4:04,1,Trail Blazers,Pacers,23 - 14,0,7,2,Jumper
+50,Thaddeus Young,OFFENSIVE_REBOUND,None,4:02,1,Pacers,Trail Blazers,23 - 14,0,N/A,N/A,N/A
+51,Domantas Sabonis,SUBSTITUTION,Young Thaddeus,4:02,1,Pacers,Trail Blazers,23 - 14,0,N/A,N/A,N/A
+52,Bojan Bogdanovic,TURNOVER,Rodney Hood,3:53,1,Pacers,Trail Blazers,23 - 14,0,N/A,N/A,N/A
+53,Rodney Hood,FG_UNASSISTED,None,3:45,1,Trail Blazers,Pacers,23 - 16,1,14,2,Jumper
+54,Seth Curry,FOUL_ON_FLOOR,None,3:32,1,Trail Blazers,Pacers,23 - 16,1,N/A,N/A,N/A
+55,Darren Collison,FT,None,3:32,1,Pacers,Trail Blazers,24 - 16,0,N/A,1,N/A
+56,Zach Collins,SUBSTITUTION,Harkless Maurice,3:32,1,Trail Blazers,Pacers,24 - 16,1,N/A,N/A,N/A
+57,Enes Kanter,SUBSTITUTION,Nurkic Jusuf,3:32,1,Trail Blazers,Pacers,24 - 16,1,N/A,N/A,N/A
+58,Cory Joseph,SUBSTITUTION,Bogdanovic Bojan,3:32,1,Pacers,Trail Blazers,24 - 16,0,N/A,N/A,N/A
+59,Darren Collison,FT,None,3:32,1,Pacers,Trail Blazers,25 - 16,0,N/A,1,N/A
+60,Enes Kanter,FG_ASSISTED,Damian Lillard,3:17,1,Trail Blazers,Pacers,25 - 18,1, ,2,Jumper
+61,Darren Collison,FG_MISS,None,3:02,1,Pacers,Trail Blazers,25 - 18,0,23,2,Jumper
+62,Myles Turner,OFFENSIVE_REBOUND,None,3:00,1,Pacers,Trail Blazers,25 - 18,0,N/A,N/A,N/A
+63,Zach Collins,FOUL_ON_FLOOR,None,3:00,1,Trail Blazers,Pacers,25 - 18,1,N/A,N/A,N/A
+64,Myles Turner,FT,None,3:00,1,Pacers,Trail Blazers,26 - 18,0,N/A,1,N/A
+65,Tyreke Evans,SUBSTITUTION,for game,3:00,1,Pacers,Trail Blazers,26 - 18,0,N/A,N/A,N/A
+66,enters the,SUBSTITUTION,Collison Darren,3:00,1,Pacers,Trail Blazers,26 - 18,0,N/A,N/A,N/A
+67,Myles Turner,FT,None,3:00,1,Pacers,Trail Blazers,27 - 18,0,N/A,1,N/A
+68,Rodney Hood,FG_MISS,None,2:48,1,Trail Blazers,Pacers,27 - 18,1,23,3,Jumper
+69,Team,OFFENSIVE_REBOUND,None,2:46,1,Trail Blazers,Pacers,27 - 18,1,N/A,N/A,N/A
+70,Wesley Matthews,FOUL_ON_FLOOR,None,2:46,1,Pacers,Trail Blazers,27 - 18,0,N/A,N/A,N/A
+71,Team,Unknown,None,2:46,1,Pacers,Trail Blazers,27 - 18,0,N/A,N/A,N/A
+72,Jake Layman,SUBSTITUTION,Hood Rodney,2:46,1,Trail Blazers,Pacers,27 - 18,1,N/A,N/A,N/A
+73,T.J. Leaf,SUBSTITUTION,Turner Myles,2:46,1,Pacers,Trail Blazers,27 - 18,0,N/A,N/A,N/A
+74,Enes Kanter,FOUL_ON_FLOOR,None,2:41,1,Trail Blazers,Pacers,27 - 18,1,N/A,N/A,N/A
+75,Enes Kanter,TURNOVER,None,2:41,1,Trail Blazers,Pacers,27 - 18,1,N/A,N/A,N/A
+76,Domantas Sabonis,FG_UNASSISTED,None,2:29,1,Pacers,Trail Blazers,29 - 18,0,3,2,Jumper
+77,Damian Lillard,FG_UNASSISTED,None,2:13,1,Trail Blazers,Pacers,29 - 20,1,0,2,Layup
+78,Seth Curry,FOUL_ON_FLOOR,None,1:56,1,Trail Blazers,Pacers,29 - 20,1,N/A,N/A,N/A
+79,Doug McDermott,SUBSTITUTION,Matthews Wesley,1:56,1,Pacers,Trail Blazers,29 - 20,0,N/A,N/A,N/A
+80,Cory Joseph,FG_MISS,None,1:51,1,Pacers,Trail Blazers,29 - 20,0,14,2,Jumper
+81,Zach Collins,DEFENSIVE_REBOUND,None,1:47,1,Trail Blazers,Pacers,29 - 20,1,N/A,N/A,N/A
+82,Zach Collins,FG_UNASSISTED,None,1:37,1,Trail Blazers,Pacers,29 - 22,1,5,2,Jumper
+83,T.J. Leaf,FOUL_ON_FLOOR,None,1:37,1,Pacers,Trail Blazers,29 - 22,0,N/A,N/A,N/A
+84,Zach Collins,FT_MISS,None,1:37,1,Trail Blazers,Pacers,29 - 22,1,N/A,1,N/A
+85,Domantas Sabonis,DEFENSIVE_REBOUND,None,1:35,1,Pacers,Trail Blazers,29 - 22,0,N/A,N/A,N/A
+86,Domantas Sabonis,FG_MISS,None,1:26,1,Pacers,Trail Blazers,29 - 22,0,11,2,Jumper
+87,Team,DEFENSIVE_REBOUND,None,1:25,1,Trail Blazers,Pacers,29 - 22,1,N/A,N/A,N/A
+88,Domantas Sabonis,FOUL_ON_FLOOR,None,1:25,1,Pacers,Trail Blazers,29 - 22,0,N/A,N/A,N/A
+89,Enes Kanter,FT,None,1:25,1,Trail Blazers,Pacers,29 - 23,1,N/A,1,N/A
+90,Rodney Hood,SUBSTITUTION,Layman Jake,1:25,1,Trail Blazers,Pacers,29 - 23,1,N/A,N/A,N/A
+91,Enes Kanter,FT,None,1:25,1,Trail Blazers,Pacers,29 - 24,1,N/A,1,N/A
+92,Doug McDermott,FG_MISS,None,1:15,1,Pacers,Trail Blazers,29 - 24,0,20,2,Jumper
+93,Damian Lillard,DEFENSIVE_REBOUND,None,1:13,1,Trail Blazers,Pacers,29 - 24,1,N/A,N/A,N/A
+94,Seth Curry,FG_MISS,None,1:06,1,Trail Blazers,Pacers,29 - 24,1, ,3,Jumper
+95,Doug McDermott,DEFENSIVE_REBOUND,None,1:02,1,Pacers,Trail Blazers,29 - 24,0,N/A,N/A,N/A
+96,Doug McDermott,FG_MISS,Zach Collins,47.0,1,Trail Blazers,Pacers,29 - 24,0,0,2,Layup
+97,Enes Kanter,DEFENSIVE_REBOUND,None,41.9,1,Trail Blazers,Pacers,29 - 24,1,N/A,N/A,N/A
+98,Rodney Hood,FG_ASSISTED,Damian Lillard,39.2,1,Trail Blazers,Pacers,29 - 26,1,1,2,Jumper
+99,Domantas Sabonis,FG_ASSISTED,Cory Joseph,34.4,1,Pacers,Trail Blazers,31 - 26,0,0,2,Layup
+100,Damian Lillard,FG_UNASSISTED,None,29.9,1,Trail Blazers,Pacers,31 - 28,1,0,2,Layup
+101,Tyreke Evans,FG_MISS,None,10.4,1,Pacers,Trail Blazers,31 - 28,0,0,2,Layup
+102,Enes Kanter,DEFENSIVE_REBOUND,None,7.4,1,Trail Blazers,Pacers,31 - 28,1,N/A,N/A,N/A
+103,Rodney Hood,FG_MISS,None,1.5,1,Trail Blazers,Pacers,31 - 28,1,26,3,Jumper
+104,Team,OFFENSIVE_REBOUND,None,1.5,1,Trail Blazers,Pacers,31 - 28,1,N/A,N/A,N/A
+105,End of,Unknown,None,0.0,1,Trail Blazers,Pacers,31 - 28,1,N/A,N/A,N/A
+0,Evan Turner,SUBSTITUTION,Lillard Damian,12:00,2,Trail Blazers,Pacers,31 - 28,1,N/A,N/A,N/A
+1,Thaddeus Young,SUBSTITUTION,Leaf T.J.,12:00,2,Pacers,Trail Blazers,31 - 28,0,N/A,N/A,N/A
+2,Domantas Sabonis,FG_ASSISTED,Tyreke Evans,11:49,2,Pacers,Trail Blazers,33 - 28,0,14,2,Jumper
+3,Cory Joseph,FOUL_ON_FLOOR,None,11:26,2,Pacers,Trail Blazers,33 - 28,0,N/A,N/A,N/A
+4,Evan Turner,FG_MISS,None,11:17,2,Trail Blazers,Pacers,33 - 28,1,13,2,Jumper
+5,Thaddeus Young,DEFENSIVE_REBOUND,None,11:13,2,Pacers,Trail Blazers,33 - 28,0,N/A,N/A,N/A
+6,Thaddeus Young,FG_MISS,None,10:52,2,Pacers,Trail Blazers,33 - 28,0,16,2,Jumper
+7,Enes Kanter,DEFENSIVE_REBOUND,None,10:48,2,Trail Blazers,Pacers,33 - 28,1,N/A,N/A,N/A
+8,Rodney Hood,FG_MISS,None,10:43,2,Trail Blazers,Pacers,33 - 28,1,24,3,Jumper
+9,Team,OFFENSIVE_REBOUND,None,10:41,2,Trail Blazers,Pacers,33 - 28,1,N/A,N/A,N/A
+10,Zach Collins,FG_MISS,None,10:33,2,Trail Blazers,Pacers,33 - 28,1,25,3,Jumper
+11,Domantas Sabonis,DEFENSIVE_REBOUND,None,10:30,2,Pacers,Trail Blazers,33 - 28,0,N/A,N/A,N/A
+12,Doug McDermott,FG_ASSISTED,Thaddeus Young,10:17,2,Pacers,Trail Blazers,36 - 28,0,24,3,Jumper
+13,Enes Kanter,FG_ASSISTED,Zach Collins,9:50,2,Trail Blazers,Pacers,36 - 30,1,3,2,Jumper
+14,Rodney Hood,FOUL_ON_FLOOR,None,9:42,2,Trail Blazers,Pacers,36 - 30,1,N/A,N/A,N/A
+15,Doug McDermott,FG_ASSISTED,Thaddeus Young,9:36,2,Pacers,Trail Blazers,38 - 30,0,9,2,Jumper
+16,Seth Curry,FG_MISS,None,9:22,2,Trail Blazers,Pacers,38 - 30,1,26,3,Jumper
+17,Cory Joseph,DEFENSIVE_REBOUND,None,9:19,2,Pacers,Trail Blazers,38 - 30,0,N/A,N/A,N/A
+18,Doug McDermott,FG_ASSISTED,Tyreke Evans,9:13,2,Pacers,Trail Blazers,41 - 30,0,23,3,Jumper
+19,Team,Unknown,None,9:12,2,Trail Blazers,Pacers,41 - 30,1,N/A,N/A,N/A
+20,shot clock,TURNOVER,None,8:47,2,Trail Blazers,Pacers,41 - 30,1,N/A,N/A,N/A
+21,Thaddeus Young,FG_MISS,None,8:36,2,Pacers,Trail Blazers,41 - 30,0,0,2,Layup
+22,Seth Curry,DEFENSIVE_REBOUND,None,8:34,2,Trail Blazers,Pacers,41 - 30,1,N/A,N/A,N/A
+23,Thaddeus Young,FOUL_ON_FLOOR,None,8:34,2,Pacers,Trail Blazers,41 - 30,0,N/A,N/A,N/A
+24,Cory Joseph,FOUL_ON_FLOOR,None,8:24,2,Pacers,Trail Blazers,41 - 30,0,N/A,N/A,N/A
+25,Seth Curry,FT,None,8:24,2,Trail Blazers,Pacers,41 - 31,1,N/A,1,N/A
+26,Seth Curry,FT,None,8:24,2,Trail Blazers,Pacers,41 - 32,1,N/A,1,N/A
+27,Seth Curry,FOUL_ON_FLOOR,None,8:12,2,Trail Blazers,Pacers,41 - 32,1,N/A,N/A,N/A
+28,Damian Lillard,SUBSTITUTION,Curry Seth,8:12,2,Trail Blazers,Pacers,41 - 32,1,N/A,N/A,N/A
+29,Domantas Sabonis,FG_MISS,None,8:06,2,Pacers,Trail Blazers,41 - 32,0,19,2,Jumper
+30,Evan Turner,DEFENSIVE_REBOUND,None,8:03,2,Trail Blazers,Pacers,41 - 32,1,N/A,N/A,N/A
+31,Damian Lillard,FG_ASSISTED,Rodney Hood,7:53,2,Trail Blazers,Pacers,41 - 34,1,22,2,Jumper
+32,Thaddeus Young,FG_MISS,None,7:46,2,Pacers,Trail Blazers,41 - 34,0,5,2,Jumper
+33,Team,DEFENSIVE_REBOUND,None,7:45,2,Trail Blazers,Pacers,41 - 34,1,N/A,N/A,N/A
+34,Domantas Sabonis,FOUL_ON_FLOOR,None,7:32,2,Pacers,Trail Blazers,41 - 34,0,N/A,N/A,N/A
+35,Damian Lillard,FT,None,7:32,2,Trail Blazers,Pacers,41 - 35,1,N/A,1,N/A
+36,Damian Lillard,FT,None,7:32,2,Trail Blazers,Pacers,41 - 36,1,N/A,1,N/A
+37,Tyreke Evans,FG_MISS,None,7:17,2,Pacers,Trail Blazers,41 - 36,0,27,3,Jumper
+38,Domantas Sabonis,OFFENSIVE_REBOUND,None,7:14,2,Pacers,Trail Blazers,41 - 36,0,N/A,N/A,N/A
+39,Domantas Sabonis,TURNOVER,Rodney Hood,7:11,2,Pacers,Trail Blazers,41 - 36,0,N/A,N/A,N/A
+40,Rodney Hood,TURNOVER,Cory Joseph,7:07,2,Trail Blazers,Pacers,41 - 36,1,N/A,N/A,N/A
+41,Doug McDermott,TURNOVER,Damian Lillard,7:03,2,Pacers,Trail Blazers,41 - 36,0,N/A,N/A,N/A
+42,Enes Kanter,TURNOVER,Cory Joseph,6:53,2,Trail Blazers,Pacers,41 - 36,1,N/A,N/A,N/A
+43,Tyreke Evans,FG_MISS,Zach Collins,6:48,2,Trail Blazers,Pacers,41 - 36,0,0,2,Layup
+44,Enes Kanter,DEFENSIVE_REBOUND,None,6:40,2,Trail Blazers,Pacers,41 - 36,1,N/A,N/A,N/A
+45,Rodney Hood,FG_ASSISTED,Damian Lillard,6:40,2,Trail Blazers,Pacers,41 - 38,1,0,2,Layup
+46,Team,Unknown,None,6:38,2,Pacers,Trail Blazers,41 - 38,0,N/A,N/A,N/A
+47,Jusuf Nurkic,SUBSTITUTION,Kanter Enes,6:38,2,Trail Blazers,Pacers,41 - 38,1,N/A,N/A,N/A
+48,Bojan Bogdanovic,SUBSTITUTION,Evans Tyreke,6:38,2,Pacers,Trail Blazers,41 - 38,0,N/A,N/A,N/A
+49,Wesley Matthews,SUBSTITUTION,McDermott Doug,6:38,2,Pacers,Trail Blazers,41 - 38,0,N/A,N/A,N/A
+50,Myles Turner,SUBSTITUTION,Young Thaddeus,6:38,2,Pacers,Trail Blazers,41 - 38,0,N/A,N/A,N/A
+51,Domantas Sabonis,TURNOVER,Damian Lillard,6:28,2,Pacers,Trail Blazers,41 - 38,0,N/A,N/A,N/A
+52,Damian Lillard,FG_MISS,None,6:11,2,Trail Blazers,Pacers,41 - 38,1,27,3,Jumper
+53,Domantas Sabonis,DEFENSIVE_REBOUND,None,6:08,2,Pacers,Trail Blazers,41 - 38,0,N/A,N/A,N/A
+54,Myles Turner,FG_ASSISTED,Bojan Bogdanovic,5:54,2,Pacers,Trail Blazers,43 - 38,0,22,2,Jumper
+55,Rodney Hood,FG_MISS,None,5:33,2,Trail Blazers,Pacers,43 - 38,1, ,2,Jumper
+56,Jusuf Nurkic,OFFENSIVE_REBOUND,None,5:30,2,Trail Blazers,Pacers,43 - 38,1,N/A,N/A,N/A
+57,Zach Collins,FG_MISS,None,5:24,2,Trail Blazers,Pacers,43 - 38,1,0,2,Layup
+58,Jusuf Nurkic,OFFENSIVE_REBOUND,None,5:14,2,Trail Blazers,Pacers,43 - 38,1,N/A,N/A,N/A
+59,Jusuf Nurkic,FG_UNASSISTED,None,5:14,2,Trail Blazers,Pacers,43 - 40,1,0,2,Dunk
+60,Myles Turner,FG_MISS,None,5:11,2,Pacers,Trail Blazers,43 - 40,0,0,2,Layup
+61,Damian Lillard,DEFENSIVE_REBOUND,None,5:08,2,Trail Blazers,Pacers,43 - 40,1,N/A,N/A,N/A
+62,Myles Turner,FOUL_ON_FLOOR,None,4:55,2,Pacers,Trail Blazers,43 - 40,0,N/A,N/A,N/A
+63,Damian Lillard,FT,None,4:55,2,Trail Blazers,Pacers,43 - 41,1,N/A,1,N/A
+64,Maurice Harkless,SUBSTITUTION,Hood Rodney,4:55,2,Trail Blazers,Pacers,43 - 41,1,N/A,N/A,N/A
+65,Darren Collison,SUBSTITUTION,Joseph Cory,4:55,2,Pacers,Trail Blazers,43 - 41,0,N/A,N/A,N/A
+66,Damian Lillard,FT,None,4:55,2,Trail Blazers,Pacers,43 - 42,1,N/A,1,N/A
+67,Evan Turner,FOUL_ON_FLOOR,None,4:45,2,Trail Blazers,Pacers,43 - 42,1,N/A,N/A,N/A
+68,Wesley Matthews,FG_MISS,None,4:32,2,Pacers,Trail Blazers,43 - 42,0, ,2,Jumper
+69,Team,DEFENSIVE_REBOUND,None,4:29,2,Trail Blazers,Pacers,43 - 42,1,N/A,N/A,N/A
+70,Jusuf Nurkic,FG_MISS,None,4:17,2,Trail Blazers,Pacers,43 - 42,1,5,2,Jumper
+71,Maurice Harkless,OFFENSIVE_REBOUND,None,4:16,2,Trail Blazers,Pacers,43 - 42,1,N/A,N/A,N/A
+72,Maurice Harkless,FG_MISS,None,4:16,2,Trail Blazers,Pacers,43 - 42,1,2,2,Jumper
+73,Jusuf Nurkic,OFFENSIVE_REBOUND,None,4:15,2,Trail Blazers,Pacers,43 - 42,1,N/A,N/A,N/A
+74,Jusuf Nurkic's,FG_MISS,Domantas Sabonis,4:14,2,Pacers,Trail Blazers,43 - 42,1, ,2,Jumper
+75,Jusuf Nurkic,OFFENSIVE_REBOUND,None,4:14,2,Trail Blazers,Pacers,43 - 42,1,N/A,N/A,N/A
+76,Jusuf Nurkic,FG_UNASSISTED,None,4:09,2,Trail Blazers,Pacers,43 - 44,1,0,2,Layup
+77,Wesley Matthews,FG_MISS,None,3:54,2,Pacers,Trail Blazers,43 - 44,0,26,3,Jumper
+78,Evan Turner,DEFENSIVE_REBOUND,None,3:51,2,Trail Blazers,Pacers,43 - 44,1,N/A,N/A,N/A
+79,Zach Collins,FG_ASSISTED,Damian Lillard,3:39,2,Trail Blazers,Pacers,43 - 46,1,0,2,Dunk
+80,Jusuf Nurkic,FOUL_ON_FLOOR,None,3:22,2,Trail Blazers,Pacers,43 - 46,1,N/A,N/A,N/A
+81,Myles Turner,FT_MISS,None,3:22,2,Pacers,Trail Blazers,43 - 46,0,N/A,1,N/A
+82,Team,OFFENSIVE_REBOUND,None,3:22,2,Pacers,Trail Blazers,43 - 46,0,N/A,N/A,N/A
+83,Rodney Hood,SUBSTITUTION,Turner Evan,3:22,2,Trail Blazers,Pacers,43 - 46,1,N/A,N/A,N/A
+84,Thaddeus Young,SUBSTITUTION,Sabonis Domantas,3:22,2,Pacers,Trail Blazers,43 - 46,0,N/A,N/A,N/A
+85,Myles Turner,FT,None,3:22,2,Pacers,Trail Blazers,44 - 46,0,N/A,1,N/A
+86,Jusuf Nurkic,FG_MISS,None,3:06,2,Trail Blazers,Pacers,44 - 46,1,12,2,Jumper
+87,Thaddeus Young,DEFENSIVE_REBOUND,None,3:04,2,Pacers,Trail Blazers,44 - 46,0,N/A,N/A,N/A
+88,Bojan Bogdanovic,FG_MISS,None,2:55,2,Pacers,Trail Blazers,44 - 46,0,26,3,Jumper
+89,Myles Turner,OFFENSIVE_REBOUND,None,2:52,2,Pacers,Trail Blazers,44 - 46,0,N/A,N/A,N/A
+90,Myles Turner,FG_MISS,None,2:48,2,Pacers,Trail Blazers,44 - 46,0,26,3,Jumper
+91,Zach Collins,DEFENSIVE_REBOUND,None,2:45,2,Trail Blazers,Pacers,44 - 46,1,N/A,N/A,N/A
+92,Jusuf Nurkic,TURNOVER,Bojan Bogdanovic,2:35,2,Trail Blazers,Pacers,44 - 46,1,N/A,N/A,N/A
+93,Jusuf Nurkic,FOUL_ON_FLOOR,None,2:33,2,Trail Blazers,Pacers,44 - 46,1,N/A,N/A,N/A
+94,Myles Turner,FT,None,2:33,2,Pacers,Trail Blazers,45 - 46,0,N/A,1,N/A
+95,Enes Kanter,SUBSTITUTION,Nurkic Jusuf,2:33,2,Trail Blazers,Pacers,45 - 46,1,N/A,N/A,N/A
+96,Myles Turner,FT,None,2:33,2,Pacers,Trail Blazers,46 - 46,0,N/A,1,N/A
+97,Damian Lillard,TURNOVER,Thaddeus Young,2:14,2,Trail Blazers,Pacers,46 - 46,1,N/A,N/A,N/A
+98,Darren Collison,FG_ASSISTED,Thaddeus Young,2:10,2,Pacers,Trail Blazers,48 - 46,0,0,2,Layup
+99,Damian Lillard,FG_UNASSISTED,None,1:48,2,Trail Blazers,Pacers,48 - 49,1,26,3,Jumper
+100,Bojan Bogdanovic,FG_MISS,Maurice Harkless,1:29,2,Trail Blazers,Pacers,48 - 49,0,0,2,Layup
+101,Maurice Harkless,DEFENSIVE_REBOUND,None,1:29,2,Trail Blazers,Pacers,48 - 49,1,N/A,N/A,N/A
+102,Rodney Hood,FG_ASSISTED,Damian Lillard,1:10,2,Trail Blazers,Pacers,48 - 52,1,23,3,Jumper
+103,Darren Collison,FG_MISS,None,54.2,2,Pacers,Trail Blazers,48 - 52,0,19,2,Jumper
+104,Zach Collins,DEFENSIVE_REBOUND,None,51.1,2,Trail Blazers,Pacers,48 - 52,1,N/A,N/A,N/A
+105,Damian Lillard,FG_UNASSISTED,None,33.5,2,Trail Blazers,Pacers,48 - 55,1, ,2,Jumper
+106,Darren Collison,TURNOVER,Maurice Harkless,28.8,2,Pacers,Trail Blazers,48 - 55,0,N/A,N/A,N/A
+107,Enes Kanter,FG_MISS,None,8.8,2,Trail Blazers,Pacers,48 - 55,1,1,2,Jumper
+108,Thaddeus Young,DEFENSIVE_REBOUND,None,6.5,2,Pacers,Trail Blazers,48 - 55,0,N/A,N/A,N/A
+109,Darren Collison,FG_MISS,None,4.9,2,Pacers,Trail Blazers,48 - 55,0,27,3,Jumper
+110,Maurice Harkless,DEFENSIVE_REBOUND,None,4.9,2,Trail Blazers,Pacers,48 - 55,1,N/A,N/A,N/A
+111,Maurice Harkless,FG_MISS,None,0.4,2,Trail Blazers,Pacers,48 - 55,1,48,3,Jumper
+112,Team,OFFENSIVE_REBOUND,None,0.0,2,Trail Blazers,Pacers,48 - 55,1,N/A,N/A,N/A
+113,End of,Unknown,None,0.0,2,Trail Blazers,Pacers,48 - 55,1,N/A,N/A,N/A
+0,Jusuf Nurkic,SUBSTITUTION,Collins Zach,12:00,3,Trail Blazers,Pacers,48 - 55,1,N/A,N/A,N/A
+1,Al-Farouq Aminu,SUBSTITUTION,Kanter Enes,12:00,3,Trail Blazers,Pacers,48 - 55,1,N/A,N/A,N/A
+2,Bojan Bogdanovic's,FG_MISS,Rodney Hood,11:49,3,Trail Blazers,Pacers,48 - 55,0, ,2,Jumper
+3,Team,DEFENSIVE_REBOUND,None,11:45,3,Trail Blazers,Pacers,48 - 55,1,N/A,N/A,N/A
+4,Rodney Hood,FG_MISS,None,11:31,3,Trail Blazers,Pacers,48 - 55,1,20,2,Jumper
+5,Myles Turner,DEFENSIVE_REBOUND,None,11:27,3,Pacers,Trail Blazers,48 - 55,0,N/A,N/A,N/A
+6,Myles Turner,FG_ASSISTED,Darren Collison,11:16,3,Pacers,Trail Blazers,51 - 55,0,25,3,Jumper
+7,Maurice Harkless,FG_UNASSISTED,None,11:00,3,Trail Blazers,Pacers,51 - 57,1, ,2,Jumper
+8,Myles Turner,FOUL_ON_FLOOR,None,11:00,3,Pacers,Trail Blazers,51 - 57,0,N/A,N/A,N/A
+9,Maurice Harkless,FT,None,11:00,3,Trail Blazers,Pacers,51 - 58,1,N/A,1,N/A
+10,Damian Lillard,FOUL_ON_FLOOR,None,10:39,3,Trail Blazers,Pacers,51 - 58,1,N/A,N/A,N/A
+11,Wesley Matthews,FT,None,10:39,3,Pacers,Trail Blazers,52 - 58,0,N/A,1,N/A
+12,Wesley Matthews,FT,None,10:39,3,Pacers,Trail Blazers,53 - 58,0,N/A,1,N/A
+13,Damian Lillard,TURNOVER,Myles Turner,10:25,3,Trail Blazers,Pacers,53 - 58,1,N/A,N/A,N/A
+14,Darren Collison,FG_MISS,None,10:22,3,Pacers,Trail Blazers,53 - 58,0, ,2,Jumper
+15,Jusuf Nurkic,DEFENSIVE_REBOUND,None,10:19,3,Trail Blazers,Pacers,53 - 58,1,N/A,N/A,N/A
+16,Al-Farouq Aminu,FG_ASSISTED,Damian Lillard,10:14,3,Trail Blazers,Pacers,53 - 61,1,26,3,Jumper
+17,Bojan Bogdanovic,FG_ASSISTED,Darren Collison,9:55,3,Pacers,Trail Blazers,55 - 61,0, ,2,Jumper
+18,Al-Farouq Aminu,FG_UNASSISTED,None,9:41,3,Trail Blazers,Pacers,55 - 63,1,3,2,Jumper
+19,Thaddeus Young,FG_UNASSISTED,None,9:23,3,Pacers,Trail Blazers,57 - 63,0,0,2,Layup
+20,Darren Collison,FOUL_ON_FLOOR,None,9:15,3,Pacers,Trail Blazers,57 - 63,0,N/A,N/A,N/A
+21,Damian Lillard,FG_MISS,None,9:08,3,Trail Blazers,Pacers,57 - 63,1,27,2,Jumper
+22,Thaddeus Young,DEFENSIVE_REBOUND,None,9:03,3,Pacers,Trail Blazers,57 - 63,0,N/A,N/A,N/A
+23,Darren Collison,TURNOVER,None,9:01,3,Pacers,Trail Blazers,57 - 63,0,N/A,N/A,N/A
+24,Darren Collison,TURNOVER,None,9:01,3,Pacers,Trail Blazers,57 - 63,0,N/A,N/A,N/A
+25,Maurice Harkless,FG_ASSISTED,Rodney Hood,8:40,3,Trail Blazers,Pacers,57 - 66,1,27,3,Jumper
+26,Bojan Bogdanovic,FG_MISS,None,8:19,3,Pacers,Trail Blazers,57 - 66,0,26,3,Jumper
+27,Maurice Harkless,DEFENSIVE_REBOUND,None,8:16,3,Trail Blazers,Pacers,57 - 66,1,N/A,N/A,N/A
+28,Damian Lillard,FG_ASSISTED,Maurice Harkless,8:10,3,Trail Blazers,Pacers,57 - 69,1,26,3,Jumper
+29,Team,Unknown,None,8:09,3,Pacers,Trail Blazers,57 - 69,0,N/A,N/A,N/A
+30,Thaddeus Young,TURNOVER,Damian Lillard,7:58,3,Pacers,Trail Blazers,57 - 69,0,N/A,N/A,N/A
+31,Al-Farouq Aminu,FG_MISS,None,7:44,3,Trail Blazers,Pacers,57 - 69,1, ,2,Jumper
+32,Darren Collison,DEFENSIVE_REBOUND,None,7:42,3,Pacers,Trail Blazers,57 - 69,0,N/A,N/A,N/A
+33,Wesley Matthews,FG_ASSISTED,Darren Collison,7:39,3,Pacers,Trail Blazers,60 - 69,0,23,3,Jumper
+34,Bojan Bogdanovic,FOUL_ON_FLOOR,None,7:21,3,Pacers,Trail Blazers,60 - 69,0,N/A,N/A,N/A
+35,Maurice Harkless,FT,None,7:21,3,Trail Blazers,Pacers,60 - 70,1,N/A,1,N/A
+36,Maurice Harkless,FT,None,7:21,3,Trail Blazers,Pacers,60 - 71,1,N/A,1,N/A
+37,Myles Turner,FG_MISS,None,7:08,3,Pacers,Trail Blazers,60 - 71,0,19,2,Jumper
+38,Maurice Harkless,DEFENSIVE_REBOUND,None,7:05,3,Trail Blazers,Pacers,60 - 71,1,N/A,N/A,N/A
+39,Al-Farouq Aminu,FG_ASSISTED,Damian Lillard,6:56,3,Trail Blazers,Pacers,60 - 74,1,27,3,Jumper
+40,Myles Turner,TURNOVER,None,6:34,3,Pacers,Trail Blazers,60 - 74,0,N/A,N/A,N/A
+41,Damian Lillard,FG_UNASSISTED,None,6:22,3,Trail Blazers,Pacers,60 - 77,1,29,3,Jumper
+42,Bojan Bogdanovic,FG_UNASSISTED,None,6:08,3,Pacers,Trail Blazers,62 - 77,0,0,2,Layup
+43,Jusuf Nurkic,Unknown,None,6:08,3,Trail Blazers,Pacers,62 - 77,1,N/A,N/A,N/A
+44,Damian Lillard,FG_MISS,None,5:56,3,Trail Blazers,Pacers,62 - 77,1,31,3,Jumper
+45,Wesley Matthews,DEFENSIVE_REBOUND,None,5:56,3,Pacers,Trail Blazers,62 - 77,0,N/A,N/A,N/A
+46,Bojan Bogdanovic,FG_ASSISTED,Wesley Matthews,5:47,3,Pacers,Trail Blazers,64 - 77,0, ,2,Jumper
+47,Maurice Harkless,FOUL_ON_FLOOR,None,5:47,3,Trail Blazers,Pacers,64 - 77,1,N/A,N/A,N/A
+48,Jake Layman,SUBSTITUTION,Hood Rodney,5:47,3,Trail Blazers,Pacers,64 - 77,1,N/A,N/A,N/A
+49,Bojan Bogdanovic,FT,None,5:47,3,Pacers,Trail Blazers,65 - 77,0,N/A,1,N/A
+50,Jake Layman,FG_MISS,Wesley Matthews,5:26,3,Pacers,Trail Blazers,65 - 77,1,13,2,Jumper
+51,Myles Turner,DEFENSIVE_REBOUND,None,5:20,3,Pacers,Trail Blazers,65 - 77,0,N/A,N/A,N/A
+52,Thaddeus Young,FG_MISS,None,5:13,3,Pacers,Trail Blazers,65 - 77,0, ,3,Jumper
+53,Jake Layman,DEFENSIVE_REBOUND,None,5:11,3,Trail Blazers,Pacers,65 - 77,1,N/A,N/A,N/A
+54,Al-Farouq Aminu,TURNOVER,Darren Collison,4:57,3,Trail Blazers,Pacers,65 - 77,1,N/A,N/A,N/A
+55,Bojan Bogdanovic,TURNOVER,None,4:52,3,Pacers,Trail Blazers,65 - 77,0,N/A,N/A,N/A
+56,Domantas Sabonis,SUBSTITUTION,Young Thaddeus,4:52,3,Pacers,Trail Blazers,65 - 77,0,N/A,N/A,N/A
+57,Al-Farouq Aminu,FG_ASSISTED,Damian Lillard,4:39,3,Trail Blazers,Pacers,65 - 80,1,26,3,Jumper
+58,Al-Farouq Aminu,FOUL_ON_FLOOR,None,4:17,3,Trail Blazers,Pacers,65 - 80,1,N/A,N/A,N/A
+59,Cory Joseph,SUBSTITUTION,Bogdanovic Bojan,4:17,3,Pacers,Trail Blazers,65 - 80,0,N/A,N/A,N/A
+60,Seth Curry,SUBSTITUTION,Harkless Maurice,4:17,3,Trail Blazers,Pacers,65 - 80,1,N/A,N/A,N/A
+61,Myles Turner,FG_ASSISTED,Cory Joseph,4:07,3,Pacers,Trail Blazers,67 - 80,0,20,2,Jumper
+62,Jusuf Nurkic,FG_ASSISTED,Damian Lillard,3:48,3,Trail Blazers,Pacers,67 - 82,1,3,2,Jumper
+63,Domantas Sabonis,TURNOVER,None,3:33,3,Pacers,Trail Blazers,67 - 82,0,N/A,N/A,N/A
+64,Seth Curry,FG_MISS,None,3:20,3,Trail Blazers,Pacers,67 - 82,1,20,2,Jumper
+65,Al-Farouq Aminu,OFFENSIVE_REBOUND,None,3:17,3,Trail Blazers,Pacers,67 - 82,1,N/A,N/A,N/A
+66,Al-Farouq Aminu,FG_MISS,None,3:17,3,Trail Blazers,Pacers,67 - 82,1,7,2,Jumper
+67,Team,DEFENSIVE_REBOUND,None,3:16,3,Pacers,Trail Blazers,67 - 82,0,N/A,N/A,N/A
+68,Darren Collison,FG_ASSISTED,Cory Joseph,3:03,3,Pacers,Trail Blazers,70 - 82,0,25,3,Jumper
+69,Al-Farouq Aminu,FG_ASSISTED,Damian Lillard,2:46,3,Trail Blazers,Pacers,70 - 85,1,27,3,Jumper
+70,Myles Turner,FG_ASSISTED,Domantas Sabonis,2:24,3,Pacers,Trail Blazers,72 - 85,0,0,2,Layup
+71,Team,Unknown,None,2:23,3,Trail Blazers,Pacers,72 - 85,1,N/A,N/A,N/A
+72,Doug McDermott,SUBSTITUTION,Collison Darren,2:23,3,Pacers,Trail Blazers,72 - 85,0,N/A,N/A,N/A
+73,Thaddeus Young,SUBSTITUTION,Turner Myles,2:23,3,Pacers,Trail Blazers,72 - 85,0,N/A,N/A,N/A
+74,Seth Curry,FG_ASSISTED,Damian Lillard,2:04,3,Trail Blazers,Pacers,72 - 88,1,26,2,Jumper
+75,Damian Lillard,FOUL_ON_FLOOR,None,1:53,3,Trail Blazers,Pacers,72 - 88,1,N/A,N/A,N/A
+76,Tyreke Evans,SUBSTITUTION,Matthews Wesley,1:53,3,Pacers,Trail Blazers,72 - 88,0,N/A,N/A,N/A
+77,Thaddeus Young,TURNOVER,None,1:41,3,Pacers,Trail Blazers,72 - 88,0,N/A,N/A,N/A
+78,Jake Layman,FG_MISS,None,1:21,3,Trail Blazers,Pacers,72 - 88,1,24,3,Jumper
+79,Thaddeus Young,DEFENSIVE_REBOUND,None,1:18,3,Pacers,Trail Blazers,72 - 88,0,N/A,N/A,N/A
+80,Domantas Sabonis,FG_MISS,None,59.6,3,Pacers,Trail Blazers,72 - 88,0, ,2,Jumper
+81,Jake Layman,DEFENSIVE_REBOUND,None,57.2,3,Trail Blazers,Pacers,72 - 88,1,N/A,N/A,N/A
+82,Jusuf Nurkic's,FG_MISS,Thaddeus Young,50.7,3,Pacers,Trail Blazers,72 - 88,1,0,2,Layup
+83,Team,OFFENSIVE_REBOUND,None,50.4,3,Trail Blazers,Pacers,72 - 88,1,N/A,N/A,N/A
+84,Al-Farouq Aminu,TURNOVER,Tyreke Evans,44.8,3,Trail Blazers,Pacers,72 - 88,1,N/A,N/A,N/A
+85,Tyreke Evans,TURNOVER,Seth Curry,41.5,3,Pacers,Trail Blazers,72 - 88,0,N/A,N/A,N/A
+86,Damian Lillard,FG_MISS,None,30.8,3,Trail Blazers,Pacers,72 - 88,1,34,3,Jumper
+87,Domantas Sabonis,DEFENSIVE_REBOUND,None,27.8,3,Pacers,Trail Blazers,72 - 88,0,N/A,N/A,N/A
+88,shot clock,TURNOVER,None,5.1,3,Pacers,Trail Blazers,72 - 88,0,N/A,N/A,N/A
+89,Rodney Hood,SUBSTITUTION,Nurkic Jusuf,5.1,3,Trail Blazers,Pacers,72 - 88,1,N/A,N/A,N/A
+90,Tyreke Evans,FOUL_ON_FLOOR,None,2.3,3,Pacers,Trail Blazers,72 - 88,0,N/A,N/A,N/A
+91,Evan Turner,SUBSTITUTION,Layman Jake,2.3,3,Trail Blazers,Pacers,72 - 88,1,N/A,N/A,N/A
+92,Damian Lillard,FG_MISS,None,0.5,3,Trail Blazers,Pacers,72 - 88,1,35,3,Jumper
+93,Team,OFFENSIVE_REBOUND,None,0.5,3,Trail Blazers,Pacers,72 - 88,1,N/A,N/A,N/A
+94,End of,Unknown,None,0.0,3,Trail Blazers,Pacers,72 - 88,1,N/A,N/A,N/A
+0,Enes Kanter,SUBSTITUTION,Lillard Damian,12:00,4,Trail Blazers,Pacers,72 - 88,1,N/A,N/A,N/A
+1,Zach Collins,SUBSTITUTION,Aminu Al-Farouq,12:00,4,Trail Blazers,Pacers,72 - 88,1,N/A,N/A,N/A
+2,Seth Curry,FG_ASSISTED,Evan Turner,11:44,4,Trail Blazers,Pacers,72 - 91,1, ,3,Jumper
+3,Domantas Sabonis,FG_MISS,None,11:18,4,Pacers,Trail Blazers,72 - 91,0, ,2,Jumper
+4,Evan Turner,DEFENSIVE_REBOUND,None,11:16,4,Trail Blazers,Pacers,72 - 91,1,N/A,N/A,N/A
+5,Rodney Hood,FG_ASSISTED,Seth Curry,11:03,4,Trail Blazers,Pacers,72 - 93,1,16,2,Jumper
+6,Rodney Hood,FOUL_ON_FLOOR,None,10:48,4,Trail Blazers,Pacers,72 - 93,1,N/A,N/A,N/A
+7,Cory Joseph,FG_MISS,None,10:32,4,Pacers,Trail Blazers,72 - 93,0, ,2,Jumper
+8,Thaddeus Young,OFFENSIVE_REBOUND,None,10:26,4,Pacers,Trail Blazers,72 - 93,0,N/A,N/A,N/A
+9,Thaddeus Young,FG_MISS,None,10:26,4,Pacers,Trail Blazers,72 - 93,0, ,2,Jumper
+10,Rodney Hood,DEFENSIVE_REBOUND,None,10:26,4,Trail Blazers,Pacers,72 - 93,1,N/A,N/A,N/A
+11,Evan Turner,TURNOVER,Cory Joseph,10:14,4,Trail Blazers,Pacers,72 - 93,1,N/A,N/A,N/A
+12,Tyreke Evans,FG_ASSISTED,Cory Joseph,10:10,4,Pacers,Trail Blazers,74 - 93,0,0,2,Layup
+13,Seth Curry,FG_MISS,None,9:45,4,Trail Blazers,Pacers,74 - 93,1,0,2,Layup
+14,Domantas Sabonis,DEFENSIVE_REBOUND,None,9:43,4,Pacers,Trail Blazers,74 - 93,0,N/A,N/A,N/A
+15,Doug McDermott,FG_MISS,None,9:35,4,Pacers,Trail Blazers,74 - 93,0, ,3,Jumper
+16,Cory Joseph,OFFENSIVE_REBOUND,None,9:32,4,Pacers,Trail Blazers,74 - 93,0,N/A,N/A,N/A
+17,Doug McDermott,FG_MISS,None,9:23,4,Pacers,Trail Blazers,74 - 93,0,2,2,Jumper
+18,Team,OFFENSIVE_REBOUND,None,9:22,4,Pacers,Trail Blazers,74 - 93,0,N/A,N/A,N/A
+19,Doug McDermott,FG_ASSISTED,Tyreke Evans,9:20,4,Pacers,Trail Blazers,77 - 93,0, ,3,Jumper
+20,Zach Collins,FG_MISS,None,8:55,4,Trail Blazers,Pacers,77 - 93,1,10,2,Jumper
+21,Domantas Sabonis,DEFENSIVE_REBOUND,None,8:51,4,Pacers,Trail Blazers,77 - 93,0,N/A,N/A,N/A
+22,Doug McDermott,FG_ASSISTED,Cory Joseph,8:47,4,Pacers,Trail Blazers,80 - 93,0,26,3,Jumper
+23,Team,Unknown,None,8:47,4,Trail Blazers,Pacers,80 - 93,1,N/A,N/A,N/A
+24,Enes Kanter,FG_MISS,None,8:31,4,Trail Blazers,Pacers,80 - 93,1,26,3,Jumper
+25,Thaddeus Young,DEFENSIVE_REBOUND,None,8:27,4,Pacers,Trail Blazers,80 - 93,0,N/A,N/A,N/A
+26,Doug McDermott,FG_MISS,Evan Turner,8:12,4,Trail Blazers,Pacers,80 - 93,0,1,2,Jumper
+27,Evan Turner,DEFENSIVE_REBOUND,None,8:09,4,Trail Blazers,Pacers,80 - 93,1,N/A,N/A,N/A
+28,Domantas Sabonis,FOUL_ON_FLOOR,None,7:58,4,Pacers,Trail Blazers,80 - 93,0,N/A,N/A,N/A
+29,Damian Lillard,SUBSTITUTION,Hood Rodney,7:58,4,Trail Blazers,Pacers,80 - 93,1,N/A,N/A,N/A
+30,Seth Curry,FG_ASSISTED,Damian Lillard,7:50,4,Trail Blazers,Pacers,80 - 96,1,25,3,Jumper
+31,Tyreke Evans,FG_UNASSISTED,None,7:36,4,Pacers,Trail Blazers,82 - 96,0,20,2,Jumper
+32,Tyreke Evans,FOUL_ON_FLOOR,None,7:23,4,Pacers,Trail Blazers,82 - 96,0,N/A,N/A,N/A
+33,Damian Lillard,FG_MISS,None,7:14,4,Trail Blazers,Pacers,82 - 96,1,0,2,Layup
+34,Cory Joseph,DEFENSIVE_REBOUND,None,7:12,4,Pacers,Trail Blazers,82 - 96,0,N/A,N/A,N/A
+35,Zach Collins,FOUL_ON_FLOOR,None,7:04,4,Trail Blazers,Pacers,82 - 96,1,N/A,N/A,N/A
+36,Domantas Sabonis,FT_MISS,None,7:04,4,Pacers,Trail Blazers,82 - 96,0,N/A,1,N/A
+37,Team,OFFENSIVE_REBOUND,None,7:04,4,Pacers,Trail Blazers,82 - 96,0,N/A,N/A,N/A
+38,Jusuf Nurkic,SUBSTITUTION,Kanter Enes,7:04,4,Trail Blazers,Pacers,82 - 96,1,N/A,N/A,N/A
+39,Al-Farouq Aminu,SUBSTITUTION,Collins Zach,7:04,4,Trail Blazers,Pacers,82 - 96,1,N/A,N/A,N/A
+40,Domantas Sabonis,FT,None,7:04,4,Pacers,Trail Blazers,83 - 96,0,N/A,1,N/A
+41,Damian Lillard,FG_UNASSISTED,None,6:41,4,Trail Blazers,Pacers,83 - 98,1, ,2,Jumper
+42,Tyreke Evans,FG_UNASSISTED,None,6:26,4,Pacers,Trail Blazers,85 - 98,0,19,2,Jumper
+43,Al-Farouq Aminu,FG_MISS,None,6:00,4,Trail Blazers,Pacers,85 - 98,1,25,3,Jumper
+44,Thaddeus Young,DEFENSIVE_REBOUND,None,5:57,4,Pacers,Trail Blazers,85 - 98,0,N/A,N/A,N/A
+45,Tyreke Evans,FG_UNASSISTED,None,5:55,4,Pacers,Trail Blazers,87 - 98,0, ,2,Jumper
+46,Evan Turner,FOUL_ON_FLOOR,None,5:55,4,Trail Blazers,Pacers,87 - 98,1,N/A,N/A,N/A
+47,Maurice Harkless,SUBSTITUTION,Turner Evan,5:55,4,Trail Blazers,Pacers,87 - 98,1,N/A,N/A,N/A
+48,Myles Turner,SUBSTITUTION,Young Thaddeus,5:55,4,Pacers,Trail Blazers,87 - 98,0,N/A,N/A,N/A
+49,Tyreke Evans,FT,None,5:55,4,Pacers,Trail Blazers,88 - 98,0,N/A,1,N/A
+50,Jusuf Nurkic,FG_ASSISTED,Maurice Harkless,5:31,4,Trail Blazers,Pacers,88 - 100,1,6,2,Jumper
+51,Team,Unknown,None,5:30,4,Pacers,Trail Blazers,88 - 100,0,N/A,N/A,N/A
+52,Myles Turner,FG_MISS,None,5:11,4,Pacers,Trail Blazers,88 - 100,0,8,2,Jumper
+53,Jusuf Nurkic,DEFENSIVE_REBOUND,None,5:09,4,Trail Blazers,Pacers,88 - 100,1,N/A,N/A,N/A
+54,Maurice Harkless,FG_MISS,None,4:59,4,Trail Blazers,Pacers,88 - 100,1,1,2,Jumper
+55,Cory Joseph,DEFENSIVE_REBOUND,None,4:56,4,Pacers,Trail Blazers,88 - 100,0,N/A,N/A,N/A
+56,Tyreke Evans,FG_MISS,Seth Curry,4:44,4,Trail Blazers,Pacers,88 - 100,0,17,2,Jumper
+57,Team,OFFENSIVE_REBOUND,None,4:44,4,Pacers,Trail Blazers,88 - 100,0,N/A,N/A,N/A
+58,Bojan Bogdanovic,SUBSTITUTION,McDermott Doug,4:44,4,Pacers,Trail Blazers,88 - 100,0,N/A,N/A,N/A
+59,Tyreke Evans,JUMP_BALL,None,4:40,4,Pacers,Trail Blazers,88 - 100,0,N/A,N/A,N/A
+60,Al-Farouq Aminu,FOUL_ON_FLOOR,None,4:34,4,Trail Blazers,Pacers,88 - 100,1,N/A,N/A,N/A
+61,Myles Turner,FT,None,4:34,4,Pacers,Trail Blazers,89 - 100,0,N/A,1,N/A
+62,Myles Turner,FT_MISS,None,4:34,4,Pacers,Trail Blazers,89 - 100,0,N/A,1,N/A
+63,Al-Farouq Aminu,DEFENSIVE_REBOUND,None,4:31,4,Trail Blazers,Pacers,89 - 100,1,N/A,N/A,N/A
+64,Damian Lillard,FOUL_ON_FLOOR,None,4:26,4,Trail Blazers,Pacers,89 - 100,1,N/A,N/A,N/A
+65,Damian Lillard,TURNOVER,None,4:26,4,Trail Blazers,Pacers,89 - 100,1,N/A,N/A,N/A
+66,Domantas Sabonis,TURNOVER,Al-Farouq Aminu,4:15,4,Pacers,Trail Blazers,89 - 100,0,N/A,N/A,N/A
+67,Jusuf Nurkic,TURNOVER,Bojan Bogdanovic,4:02,4,Trail Blazers,Pacers,89 - 100,1,N/A,N/A,N/A
+68,Myles Turner,FG_MISS,None,3:41,4,Pacers,Trail Blazers,89 - 100,0,26,3,Jumper
+69,Team,DEFENSIVE_REBOUND,None,3:39,4,Trail Blazers,Pacers,89 - 100,1,N/A,N/A,N/A
+70,Domantas Sabonis,FOUL_ON_FLOOR,None,3:39,4,Pacers,Trail Blazers,89 - 100,0,N/A,N/A,N/A
+71,Team,Unknown,None,3:39,4,Trail Blazers,Pacers,89 - 100,1,N/A,N/A,N/A
+72,Wesley Matthews,SUBSTITUTION,Joseph Cory,3:39,4,Pacers,Trail Blazers,89 - 100,0,N/A,N/A,N/A
+73,Thaddeus Young,SUBSTITUTION,Sabonis Domantas,3:39,4,Pacers,Trail Blazers,89 - 100,0,N/A,N/A,N/A
+74,Darren Collison,SUBSTITUTION,Evans Tyreke,3:39,4,Pacers,Trail Blazers,89 - 100,0,N/A,N/A,N/A
+75,Seth Curry,FG_MISS,None,3:23,4,Trail Blazers,Pacers,89 - 100,1,23,3,Jumper
+76,Jusuf Nurkic,OFFENSIVE_REBOUND,None,3:22,4,Trail Blazers,Pacers,89 - 100,1,N/A,N/A,N/A
+77,Jusuf Nurkic,FG_MISS,None,3:12,4,Trail Blazers,Pacers,89 - 100,1,8,2,Jumper
+78,Team,DEFENSIVE_REBOUND,None,3:10,4,Pacers,Trail Blazers,89 - 100,0,N/A,N/A,N/A
+79,Bojan Bogdanovic,FG_ASSISTED,Wesley Matthews,2:57,4,Pacers,Trail Blazers,91 - 100,0,0,2,Layup
+80,Jusuf Nurkic,FG_MISS,None,2:41,4,Trail Blazers,Pacers,91 - 100,1,9,2,Jumper
+81,Myles Turner,DEFENSIVE_REBOUND,None,2:36,4,Pacers,Trail Blazers,91 - 100,0,N/A,N/A,N/A
+82,Thaddeus Young,FG_MISS,None,2:26,4,Pacers,Trail Blazers,91 - 100,0,1,3,Jumper
+83,Jusuf Nurkic,DEFENSIVE_REBOUND,None,2:24,4,Trail Blazers,Pacers,91 - 100,1,N/A,N/A,N/A
+84,Damian Lillard,TURNOVER,None,2:06,4,Trail Blazers,Pacers,91 - 100,1,N/A,N/A,N/A
+85,Wesley Matthews,FG_MISS,None,1:56,4,Pacers,Trail Blazers,91 - 100,0,27,3,Jumper
+86,Jusuf Nurkic,DEFENSIVE_REBOUND,None,1:55,4,Trail Blazers,Pacers,91 - 100,1,N/A,N/A,N/A
+87,Thaddeus Young,FOUL_ON_FLOOR,None,1:55,4,Pacers,Trail Blazers,91 - 100,0,N/A,N/A,N/A
+88,Damian Lillard,TURNOVER,Bojan Bogdanovic,1:35,4,Trail Blazers,Pacers,91 - 100,1,N/A,N/A,N/A
+89,Jusuf Nurkic,FOUL_ON_FLOOR,None,1:30,4,Trail Blazers,Pacers,91 - 100,1,N/A,N/A,N/A
+90,Myles Turner,FT,None,1:30,4,Pacers,Trail Blazers,92 - 100,0,N/A,1,N/A
+91,Myles Turner,FT,None,1:30,4,Pacers,Trail Blazers,93 - 100,0,N/A,1,N/A
+92,Myles Turner,FOUL_ON_FLOOR,None,1:08,4,Pacers,Trail Blazers,93 - 100,0,N/A,N/A,N/A
+93,Damian Lillard,FT_MISS,None,1:08,4,Trail Blazers,Pacers,93 - 100,1,N/A,1,N/A
+94,Team,OFFENSIVE_REBOUND,None,1:08,4,Trail Blazers,Pacers,93 - 100,1,N/A,N/A,N/A
+95,Damian Lillard,FT,None,1:08,4,Trail Blazers,Pacers,93 - 101,1,N/A,1,N/A
+96,Damian Lillard,FT,None,1:08,4,Trail Blazers,Pacers,93 - 102,1,N/A,1,N/A
+97,Jusuf Nurkic,FOUL_ON_FLOOR,None,1:00,4,Trail Blazers,Pacers,93 - 102,1,N/A,N/A,N/A
+98,Bojan Bogdanovic,FT,None,1:00,4,Pacers,Trail Blazers,94 - 102,0,N/A,1,N/A
+99,Bojan Bogdanovic,FT,None,1:00,4,Pacers,Trail Blazers,95 - 102,0,N/A,1,N/A
+100,Jusuf Nurkic,FOUL_ON_FLOOR,None,54.0,4,Trail Blazers,Pacers,95 - 102,1,N/A,N/A,N/A
+101,Jusuf Nurkic,TURNOVER,None,54.0,4,Trail Blazers,Pacers,95 - 102,1,N/A,N/A,N/A
+102,Zach Collins,SUBSTITUTION,Nurkic Jusuf,54.0,4,Trail Blazers,Pacers,95 - 102,1,N/A,N/A,N/A
+103,Myles Turner,FG_MISS,None,44.5,4,Pacers,Trail Blazers,95 - 102,0,26,3,Jumper
+104,Al-Farouq Aminu,DEFENSIVE_REBOUND,None,41.6,4,Trail Blazers,Pacers,95 - 102,1,N/A,N/A,N/A
+105,Team,Unknown,None,31.4,4,Trail Blazers,Pacers,95 - 102,1,N/A,N/A,N/A
+106,Evan Turner,SUBSTITUTION,Harkless Maurice,31.4,4,Trail Blazers,Pacers,95 - 102,1,N/A,N/A,N/A
+107,Evan Turner,TURNOVER,Myles Turner,29.3,4,Trail Blazers,Pacers,95 - 102,1,N/A,N/A,N/A
+108,Wesley Matthews,FG_ASSISTED,Bojan Bogdanovic,26.5,4,Pacers,Trail Blazers,97 - 102,0,0,2,Layup
+109,Bojan Bogdanovic,FOUL_ON_FLOOR,None,24.0,4,Pacers,Trail Blazers,97 - 102,0,N/A,N/A,N/A
+110,Al-Farouq Aminu,FT,None,24.0,4,Trail Blazers,Pacers,97 - 103,1,N/A,1,N/A
+111,Al-Farouq Aminu,FT,None,24.0,4,Trail Blazers,Pacers,97 - 104,1,N/A,1,N/A
+112,Team,Unknown,None,24.0,4,Pacers,Trail Blazers,97 - 104,0,N/A,N/A,N/A
+113,Maurice Harkless,SUBSTITUTION,Collins Zach,24.0,4,Trail Blazers,Pacers,97 - 104,1,N/A,N/A,N/A
+114,Evan Turner,FOUL_ON_FLOOR,None,16.3,4,Trail Blazers,Pacers,97 - 104,1,N/A,N/A,N/A
+115,Wesley Matthews,FT_MISS,None,16.3,4,Pacers,Trail Blazers,97 - 104,0,N/A,1,N/A
+116,Team,OFFENSIVE_REBOUND,None,16.3,4,Pacers,Trail Blazers,97 - 104,0,N/A,N/A,N/A
+117,Wesley Matthews,FT,None,16.3,4,Pacers,Trail Blazers,98 - 104,0,N/A,1,N/A
+118,Darren Collison,FOUL_ON_FLOOR,None,15.2,4,Pacers,Trail Blazers,98 - 104,0,N/A,N/A,N/A
+119,Damian Lillard,FT,None,15.2,4,Trail Blazers,Pacers,98 - 105,1,N/A,1,N/A
+120,Damian Lillard,FT,None,15.2,4,Trail Blazers,Pacers,98 - 106,1,N/A,1,N/A
+121,Team,Unknown,None,15.2,4,Pacers,Trail Blazers,98 - 106,0,N/A,N/A,N/A
+122,Tyreke Evans,SUBSTITUTION,Young Thaddeus,15.2,4,Pacers,Trail Blazers,98 - 106,0,N/A,N/A,N/A
+123,Tyreke Evans,FG_MISS,None,7.0,4,Pacers,Trail Blazers,98 - 106,0,25,3,Jumper
+124,Myles Turner,OFFENSIVE_REBOUND,None,3.4,4,Pacers,Trail Blazers,98 - 106,0,N/A,N/A,N/A
+125,Myles Turner,FG_MISS,None,2.6,4,Pacers,Trail Blazers,98 - 106,0,9,2,Jumper
+126,Bojan Bogdanovic,OFFENSIVE_REBOUND,None,2.6,4,Pacers,Trail Blazers,98 - 106,0,N/A,N/A,N/A
+127,Bojan Bogdanovic,FG_MISS,None,0.0,4,Pacers,Trail Blazers,98 - 106,0,1,2,Jumper
+128,Wesley Matthews,OFFENSIVE_REBOUND,None,0.0,4,Pacers,Trail Blazers,98 - 106,0,N/A,N/A,N/A
+129,End of,Unknown,None,0.0,4,Trail Blazers,Pacers,98 - 106,1,N/A,N/A,N/A
+130,End of,Unknown,None,0.0,4,Trail Blazers,Pacers,98 - 106,1,N/A,N/A,N/A

@@ -1,0 +1,466 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Tristan Thompson,JUMP_BALL,None,12:00,1,Cavaliers,Pistons,0 - 0,0,N/A,N/A,N/A
+1,Tristan Thompson,TURNOVER,Reggie Jackson,11:38,1,Cavaliers,Pistons,0 - 0,0,N/A,N/A,N/A
+2,Reggie Jackson,TURNOVER,Larry Nance,11:30,1,Pistons,Cavaliers,0 - 0,1,N/A,N/A,N/A
+3,Cedi Osman,FG_MISS,None,11:27,1,Cavaliers,Pistons,0 - 0,0,0,2,Layup
+4,Reggie Jackson,DEFENSIVE_REBOUND,None,11:25,1,Pistons,Cavaliers,0 - 0,1,N/A,N/A,N/A
+5,Andre Drummond,FG_ASSISTED,Reggie Bullock,11:21,1,Pistons,Cavaliers,0 - 2,1,0,2,Dunk
+6,Glenn Robinson,Unknown,None,11:03,1,Pistons,Cavaliers,0 - 2,1,N/A,N/A,N/A
+7,Collin Sexton,FG_ASSISTED,Rodney Hood,10:54,1,Cavaliers,Pistons,2 - 2,0,0,2,Layup
+8,Reggie Bullock,FG_ASSISTED,obinson III,10:41,1,Pistons,Cavaliers,2 - 5,1,24,3,Jumper
+9,Rodney Hood,FG_MISS,None,10:27,1,Cavaliers,Pistons,2 - 5,0,7,3,Jumper
+10,Rodney Hood,OFFENSIVE_REBOUND,None,10:25,1,Cavaliers,Pistons,2 - 5,0,N/A,N/A,N/A
+11,Collin Sexton,FG_UNASSISTED,None,10:21,1,Cavaliers,Pistons,4 - 5,0,18,3,Jumper
+12,Andre Drummond,FG_UNASSISTED,None,10:10,1,Pistons,Cavaliers,4 - 7,1,-,3,Jumper
+13,Larry Nance,FG_MISS,None,9:45,1,Cavaliers,Pistons,4 - 7,0,14,3,Jumper
+14,Andre Drummond,DEFENSIVE_REBOUND,None,9:42,1,Pistons,Cavaliers,4 - 7,1,N/A,N/A,N/A
+15,Reggie Jackson,FG_MISS,None,9:21,1,Pistons,Cavaliers,4 - 7,1,27,3,Jumper
+16,Larry Nance,DEFENSIVE_REBOUND,None,9:17,1,Cavaliers,Pistons,4 - 7,0,N/A,N/A,N/A
+17,Rodney Hood,FG_MISS,None,9:12,1,Cavaliers,Pistons,4 - 7,0,0,2,Layup
+18,Larry Nance,OFFENSIVE_REBOUND,None,9:09,1,Cavaliers,Pistons,4 - 7,0,N/A,N/A,N/A
+19,Rodney Hood,FG_UNASSISTED,None,9:00,1,Cavaliers,Pistons,7 - 7,0,24,3,Jumper
+20,Andre Drummond,FG_ASSISTED,Reggie Bullock,8:49,1,Pistons,Cavaliers,7 - 9,1,0,2,Layup
+21,Collin Sexton,FG_UNASSISTED,None,8:26,1,Cavaliers,Pistons,9 - 9,0,19,3,Jumper
+22,Glenn Robinson,FG_MISS,None,8:15,1,Pistons,Cavaliers,9 - 9,1,15,3,Jumper
+23,Team,OFFENSIVE_REBOUND,None,8:13,1,Pistons,Cavaliers,9 - 9,1,N/A,N/A,N/A
+24,Reggie Jackson,FG_ASSISTED,Blake Griffin,8:02,1,Pistons,Cavaliers,9 - 12,1,30,3,Jumper
+25,Andre Drummond,FOUL_ON_FLOOR,None,7:44,1,Pistons,Cavaliers,9 - 12,1,N/A,N/A,N/A
+26,Tristan Thompson,FG_MISS,None,7:36,1,Cavaliers,Pistons,9 - 12,0,7,3,Jumper
+27,Blake Griffin,DEFENSIVE_REBOUND,None,7:33,1,Pistons,Cavaliers,9 - 12,1,N/A,N/A,N/A
+28,Reggie Jackson,TURNOVER,Tristan Thompson,7:24,1,Pistons,Cavaliers,9 - 12,1,N/A,N/A,N/A
+29,Reggie Jackson,FOUL_ON_FLOOR,None,7:16,1,Pistons,Cavaliers,9 - 12,1,N/A,N/A,N/A
+30,Larry Nance,FG_ASSISTED,Collin Sexton,7:09,1,Cavaliers,Pistons,11 - 12,0,13,3,Jumper
+31,Blake Griffin,FG_UNASSISTED,None,6:55,1,Pistons,Cavaliers,11 - 14,1,0,2,Dunk
+32,Collin Sexton,FG_MISS,None,6:30,1,Cavaliers,Pistons,11 - 14,0,21,3,Jumper
+33,Tristan Thompson,OFFENSIVE_REBOUND,None,6:26,1,Cavaliers,Pistons,11 - 14,0,N/A,N/A,N/A
+34,Larry Nance,FG_ASSISTED,Tristan Thompson,6:25,1,Cavaliers,Pistons,13 - 14,0,0,2,Layup
+35,Team,Unknown,None,6:21,1,Pistons,Cavaliers,13 - 14,1,N/A,N/A,N/A
+36,Reggie Jackson,FG_ASSISTED,Andre Drummond,6:08,1,Pistons,Cavaliers,13 - 16,1,0,2,Layup
+37,Cedi Osman,FG_MISS,None,5:54,1,Cavaliers,Pistons,13 - 16,0,18,3,Jumper
+38,Andre Drummond,DEFENSIVE_REBOUND,None,5:50,1,Pistons,Cavaliers,13 - 16,1,N/A,N/A,N/A
+39,Blake Griffin,FG_UNASSISTED,None,5:44,1,Pistons,Cavaliers,13 - 18,1,0,2,Layup
+40,Larry Nance,FOUL_ON_FLOOR,None,5:44,1,Cavaliers,Pistons,13 - 18,0,N/A,N/A,N/A
+41,Ish Smith,SUBSTITUTION,Jackson Reggie,5:44,1,Pistons,Cavaliers,13 - 18,1,N/A,N/A,N/A
+42,Blake Griffin,FT,None,5:44,1,Pistons,Cavaliers,13 - 19,1,N/A,1,N/A
+43,Cedi Osman,FG_MISS,None,5:26,1,Cavaliers,Pistons,13 - 19,0, ,3,Jumper
+44,Blake Griffin,DEFENSIVE_REBOUND,None,5:22,1,Pistons,Cavaliers,13 - 19,1,N/A,N/A,N/A
+45,Collin Sexton,FOUL_ON_FLOOR,None,5:20,1,Cavaliers,Pistons,13 - 19,0,N/A,N/A,N/A
+46,Andre Drummond,FT,None,5:20,1,Pistons,Cavaliers,13 - 20,1,N/A,1,N/A
+47,Jordan Clarkson,SUBSTITUTION,Osman Cedi,5:20,1,Cavaliers,Pistons,13 - 20,0,N/A,N/A,N/A
+48,Andre Drummond,FT,None,5:20,1,Pistons,Cavaliers,13 - 21,1,N/A,1,N/A
+49,Blake Griffin,FG_MISS,None,5:00,1,Pistons,Cavaliers,13 - 21,1,10,3,Jumper
+50,Larry Nance,DEFENSIVE_REBOUND,None,4:53,1,Cavaliers,Pistons,13 - 21,0,N/A,N/A,N/A
+51,Rodney Hood,FG_UNASSISTED,None,4:46,1,Cavaliers,Pistons,15 - 21,0,15,3,Jumper
+52,Jordan Clarkson,FOUL_ON_FLOOR,None,4:30,1,Cavaliers,Pistons,15 - 21,0,N/A,N/A,N/A
+53,Reggie Bullock,FT_MISS,None,4:30,1,Pistons,Cavaliers,15 - 21,1,N/A,1,N/A
+54,Team,OFFENSIVE_REBOUND,None,4:30,1,Pistons,Cavaliers,15 - 21,1,N/A,N/A,N/A
+55,Reggie Bullock,FT,None,4:30,1,Pistons,Cavaliers,15 - 22,1,N/A,1,N/A
+56,Langston Galloway,SUBSTITUTION,III Robinson,4:30,1,Pistons,Cavaliers,15 - 22,1,N/A,N/A,N/A
+57,Reggie Bullock,FT,None,4:30,1,Pistons,Cavaliers,15 - 23,1,N/A,1,N/A
+58,Collin Sexton,FG_MISS,None,4:16,1,Cavaliers,Pistons,15 - 23,0,20,3,Jumper
+59,Andre Drummond,DEFENSIVE_REBOUND,None,4:12,1,Pistons,Cavaliers,15 - 23,1,N/A,N/A,N/A
+60,Ish Smith,FG_UNASSISTED,None,4:02,1,Pistons,Cavaliers,15 - 25,1,0,2,Layup
+61,Tristan Thompson,FG_ASSISTED,Collin Sexton,3:51,1,Cavaliers,Pistons,17 - 25,0, ,3,Jumper
+62,Andre Drummond,FG_ASSISTED,Ish Smith,3:38,1,Pistons,Cavaliers,17 - 27,1,0,2,Dunk
+63,Jordan Clarkson,TURNOVER,None,3:19,1,Cavaliers,Pistons,17 - 27,0,N/A,N/A,N/A
+64,Stanley Johnson,SUBSTITUTION,Griffin Blake,3:19,1,Pistons,Cavaliers,17 - 27,1,N/A,N/A,N/A
+65,JR Smith,SUBSTITUTION,Hood Rodney,3:19,1,Cavaliers,Pistons,17 - 27,0,N/A,N/A,N/A
+66,Ish Smith,FG_UNASSISTED,None,3:02,1,Pistons,Cavaliers,17 - 29,1, ,3,Jumper
+67,Team,Unknown,None,2:53,1,Cavaliers,Pistons,17 - 29,0,N/A,N/A,N/A
+68,Khyri Thomas,SUBSTITUTION,Bullock Reggie,2:53,1,Pistons,Cavaliers,17 - 29,1,N/A,N/A,N/A
+69,David Nwaba,SUBSTITUTION,Sexton Collin,2:53,1,Cavaliers,Pistons,17 - 29,0,N/A,N/A,N/A
+70,Andrew Harrison,SUBSTITUTION,Nance Larry,2:53,1,Cavaliers,Pistons,17 - 29,0,N/A,N/A,N/A
+71,Jordan Clarkson,FG_UNASSISTED,None,2:45,1,Cavaliers,Pistons,19 - 29,0,18,3,Jumper
+72,Langston Galloway,FOUL_ON_FLOOR,None,2:45,1,Pistons,Cavaliers,19 - 29,1,N/A,N/A,N/A
+73,Jordan Clarkson,FT_MISS,None,2:45,1,Cavaliers,Pistons,19 - 29,0,N/A,1,N/A
+74,Jordan Clarkson,OFFENSIVE_REBOUND,None,2:45,1,Cavaliers,Pistons,19 - 29,0,N/A,N/A,N/A
+75,JR Smith,FG_UNASSISTED,None,2:33,1,Cavaliers,Pistons,21 - 29,0,0,2,Layup
+76,Ish Smith,FG_ASSISTED,Stanley Johnson,2:15,1,Pistons,Cavaliers,21 - 32,1, ,3,Jumper
+77,Jordan Clarkson,FG_UNASSISTED,None,1:54,1,Cavaliers,Pistons,23 - 32,0,15,3,Jumper
+78,Langston Galloway,FG_ASSISTED,Khyri Thomas,1:35,1,Pistons,Cavaliers,23 - 35,1,23,3,Jumper
+79,Ish Smith,FOUL_ON_FLOOR,None,1:27,1,Pistons,Cavaliers,23 - 35,1,N/A,N/A,N/A
+80,Ante Zizic,SUBSTITUTION,Thompson Tristan,1:27,1,Cavaliers,Pistons,23 - 35,0,N/A,N/A,N/A
+81,Andrew Harrison,FG_MISS,None,1:20,1,Cavaliers,Pistons,23 - 35,0,16,3,Jumper
+82,Andre Drummond,DEFENSIVE_REBOUND,None,1:17,1,Pistons,Cavaliers,23 - 35,1,N/A,N/A,N/A
+83,Andre Drummond,FG_UNASSISTED,None,1:03,1,Pistons,Cavaliers,23 - 37,1,8,3,Jumper
+84,Ante Zizic,FOUL_ON_FLOOR,None,1:03,1,Cavaliers,Pistons,23 - 37,0,N/A,N/A,N/A
+85,Andre Drummond,FT,None,1:03,1,Pistons,Cavaliers,23 - 38,1,N/A,1,N/A
+86,Jordan Clarkson,FG_UNASSISTED,None,49.3,1,Cavaliers,Pistons,25 - 38,0, ,3,Jumper
+87,Langston Galloway,FG_MISS,None,39.0,1,Pistons,Cavaliers,25 - 38,1,13,3,Jumper
+88,Jordan Clarkson,DEFENSIVE_REBOUND,None,36.0,1,Cavaliers,Pistons,25 - 38,0,N/A,N/A,N/A
+89,David Nwaba,FG_ASSISTED,Jordan Clarkson,30.4,1,Cavaliers,Pistons,27 - 38,0,0,2,Layup
+90,Ish Smith,FG_MISS,None,10.1,1,Pistons,Cavaliers,27 - 38,1,24,3,Jumper
+91,Ante Zizic,DEFENSIVE_REBOUND,None,7.4,1,Cavaliers,Pistons,27 - 38,0,N/A,N/A,N/A
+92,David Nwaba,FG_MISS,None,0.3,1,Cavaliers,Pistons,27 - 38,0,0,2,Layup
+93,David Nwaba,OFFENSIVE_REBOUND,None,0.3,1,Cavaliers,Pistons,27 - 38,0,N/A,N/A,N/A
+94,End of,Unknown,None,0.0,1,Pistons,Cavaliers,27 - 38,1,N/A,N/A,N/A
+0,Zaza Pachulia,SUBSTITUTION,Drummond Andre,12:00,2,Pistons,Cavaliers,27 - 38,1,N/A,N/A,N/A
+1,Blake Griffin,SUBSTITUTION,Thomas Khyri,12:00,2,Pistons,Cavaliers,27 - 38,1,N/A,N/A,N/A
+2,Langston Galloway,FG_MISS,None,11:42,2,Pistons,Cavaliers,27 - 38,1,27,3,Jumper
+3,Team,DEFENSIVE_REBOUND,None,11:40,2,Cavaliers,Pistons,27 - 38,0,N/A,N/A,N/A
+4,JR Smith,FG_MISS,None,11:23,2,Cavaliers,Pistons,27 - 38,0,18,3,Jumper
+5,Ish Smith,DEFENSIVE_REBOUND,None,11:20,2,Pistons,Cavaliers,27 - 38,1,N/A,N/A,N/A
+6,Blake Griffin,FG_MISS,None,11:13,2,Pistons,Cavaliers,27 - 38,1,27,3,Jumper
+7,Andrew Harrison,DEFENSIVE_REBOUND,None,11:08,2,Cavaliers,Pistons,27 - 38,0,N/A,N/A,N/A
+8,JR Smith,FG_MISS,None,11:01,2,Cavaliers,Pistons,27 - 38,0,20,3,Jumper
+9,Ish Smith,DEFENSIVE_REBOUND,None,11:00,2,Pistons,Cavaliers,27 - 38,1,N/A,N/A,N/A
+10,JR Smith,FOUL_ON_FLOOR,None,10:54,2,Cavaliers,Pistons,27 - 38,0,N/A,N/A,N/A
+11,David Nwaba,FOUL_ON_FLOOR,None,10:50,2,Cavaliers,Pistons,27 - 38,0,N/A,N/A,N/A
+12,David Nwaba,FOUL_ON_FLOOR,None,10:48,2,Cavaliers,Pistons,27 - 38,0,N/A,N/A,N/A
+13,Langston Galloway,FG_MISS,None,10:37,2,Pistons,Cavaliers,27 - 38,1,27,3,Jumper
+14,Blake Griffin,OFFENSIVE_REBOUND,None,10:34,2,Pistons,Cavaliers,27 - 38,1,N/A,N/A,N/A
+15,Langston Galloway,FG_MISS,None,10:30,2,Pistons,Cavaliers,27 - 38,1,27,3,Jumper
+16,Team,DEFENSIVE_REBOUND,None,10:29,2,Cavaliers,Pistons,27 - 38,0,N/A,N/A,N/A
+17,Zaza Pachulia,FOUL_ON_FLOOR,None,10:29,2,Pistons,Cavaliers,27 - 38,1,N/A,N/A,N/A
+18,Ish Smith,FOUL_ON_FLOOR,None,10:17,2,Pistons,Cavaliers,27 - 38,1,N/A,N/A,N/A
+19,JR Smith,FG_MISS,None,10:15,2,Cavaliers,Pistons,27 - 38,0,25,3,Jumper
+20,Stanley Johnson,DEFENSIVE_REBOUND,None,10:11,2,Pistons,Cavaliers,27 - 38,1,N/A,N/A,N/A
+21,Andrew Harrison,FOUL_ON_FLOOR,None,10:06,2,Cavaliers,Pistons,27 - 38,0,N/A,N/A,N/A
+22,Zaza Pachulia,FG_MISS,None,9:50,2,Pistons,Cavaliers,27 - 38,1,8,3,Jumper
+23,Ante Zizic,DEFENSIVE_REBOUND,None,9:48,2,Cavaliers,Pistons,27 - 38,0,N/A,N/A,N/A
+24,Jordan Clarkson,TURNOVER,None,9:45,2,Cavaliers,Pistons,27 - 38,0,N/A,N/A,N/A
+25,David Nwaba,FOUL_ON_FLOOR,None,9:27,2,Cavaliers,Pistons,27 - 38,0,N/A,N/A,N/A
+26,Zaza Pachulia,FT,None,9:27,2,Pistons,Cavaliers,27 - 39,1,N/A,1,N/A
+27,Cedi Osman,SUBSTITUTION,Smith JR,9:27,2,Cavaliers,Pistons,27 - 39,0,N/A,N/A,N/A
+28,Larry Nance,SUBSTITUTION,Nwaba David,9:27,2,Cavaliers,Pistons,27 - 39,0,N/A,N/A,N/A
+29,Zaza Pachulia,FT,None,9:27,2,Pistons,Cavaliers,27 - 40,1,N/A,1,N/A
+30,Ante Zizic,FG_MISS,Blake Griffin,9:09,2,Pistons,Cavaliers,27 - 40,0,0,2,Layup
+31,Stanley Johnson,DEFENSIVE_REBOUND,None,9:08,2,Pistons,Cavaliers,27 - 40,1,N/A,N/A,N/A
+32,Stanley Johnson,FG_UNASSISTED,None,9:04,2,Pistons,Cavaliers,27 - 42,1,0,2,Layup
+33,Andrew Harrison,FG_MISS,None,8:48,2,Cavaliers,Pistons,27 - 42,0,25,3,Jumper
+34,Larry Nance,OFFENSIVE_REBOUND,None,8:43,2,Cavaliers,Pistons,27 - 42,0,N/A,N/A,N/A
+35,Jordan Clarkson,FG_MISS,None,8:41,2,Cavaliers,Pistons,27 - 42,0,17,3,Jumper
+36,Blake Griffin,DEFENSIVE_REBOUND,None,8:38,2,Pistons,Cavaliers,27 - 42,1,N/A,N/A,N/A
+37,Cedi Osman,FOUL_ON_FLOOR,None,8:35,2,Cavaliers,Pistons,27 - 42,0,N/A,N/A,N/A
+38,Stanley Johnson,FT,None,8:35,2,Pistons,Cavaliers,27 - 43,1,N/A,1,N/A
+39,Reggie Bullock,SUBSTITUTION,Galloway Langston,8:35,2,Pistons,Cavaliers,27 - 43,1,N/A,N/A,N/A
+40,Kyle Korver,SUBSTITUTION,Harrison Andrew,8:35,2,Cavaliers,Pistons,27 - 43,0,N/A,N/A,N/A
+41,Stanley Johnson,FT,None,8:35,2,Pistons,Cavaliers,27 - 44,1,N/A,1,N/A
+42,Jordan Clarkson,FG_MISS,None,8:12,2,Cavaliers,Pistons,27 - 44,0,17,3,Jumper
+43,Zaza Pachulia,DEFENSIVE_REBOUND,None,8:09,2,Pistons,Cavaliers,27 - 44,1,N/A,N/A,N/A
+44,Zaza Pachulia,FG_MISS,None,8:01,2,Pistons,Cavaliers,27 - 44,1, ,3,Jumper
+45,Cedi Osman,DEFENSIVE_REBOUND,None,7:59,2,Cavaliers,Pistons,27 - 44,0,N/A,N/A,N/A
+46,Larry Nance,FOUL_ON_FLOOR,None,7:50,2,Cavaliers,Pistons,27 - 44,0,N/A,N/A,N/A
+47,Larry Nance,TURNOVER,None,7:50,2,Cavaliers,Pistons,27 - 44,0,N/A,N/A,N/A
+48,Tristan Thompson,SUBSTITUTION,Zizic Ante,7:50,2,Cavaliers,Pistons,27 - 44,0,N/A,N/A,N/A
+49,Rodney Hood,SUBSTITUTION,Clarkson Jordan,7:50,2,Cavaliers,Pistons,27 - 44,0,N/A,N/A,N/A
+50,Blake Griffin,FG_ASSISTED,Stanley Johnson,7:34,2,Pistons,Cavaliers,27 - 46,1,0,2,Layup
+51,Kyle Korver,FG_MISS,None,7:12,2,Cavaliers,Pistons,27 - 46,0,16,3,Jumper
+52,Stanley Johnson,DEFENSIVE_REBOUND,None,7:09,2,Pistons,Cavaliers,27 - 46,1,N/A,N/A,N/A
+53,Stanley Johnson,FG_UNASSISTED,None,7:07,2,Pistons,Cavaliers,27 - 48,1, ,3,Jumper
+54,Larry Nance,FOUL_ON_FLOOR,None,7:07,2,Cavaliers,Pistons,27 - 48,0,N/A,N/A,N/A
+55,Stanley Johnson,FT,None,7:07,2,Pistons,Cavaliers,27 - 49,1,N/A,1,N/A
+56,Kyle Korver,FG_ASSISTED,Cedi Osman,6:59,2,Cavaliers,Pistons,30 - 49,0,25,3,Jumper
+57,Ish Smith,FG_ASSISTED,Blake Griffin,6:39,2,Pistons,Cavaliers,30 - 51,1,0,2,Layup
+58,Team,Unknown,None,6:31,2,Cavaliers,Pistons,30 - 51,0,N/A,N/A,N/A
+59,Andre Drummond,SUBSTITUTION,Johnson Stanley,6:31,2,Pistons,Cavaliers,30 - 51,1,N/A,N/A,N/A
+60,Glenn Robinson,SUBSTITUTION,Smith Ish,6:31,2,Pistons,Cavaliers,30 - 51,1,N/A,N/A,N/A
+61,Reggie Jackson,SUBSTITUTION,Pachulia Zaza,6:31,2,Pistons,Cavaliers,30 - 51,1,N/A,N/A,N/A
+62,Collin Sexton,SUBSTITUTION,Nance Larry,6:31,2,Cavaliers,Pistons,30 - 51,0,N/A,N/A,N/A
+63,Cedi Osman,FG_UNASSISTED,None,6:21,2,Cavaliers,Pistons,32 - 51,0,0,2,Layup
+64,Glenn Robinson,FOUL_ON_FLOOR,None,6:21,2,Pistons,Cavaliers,32 - 51,1,N/A,N/A,N/A
+65,Cedi Osman,FT,None,6:21,2,Cavaliers,Pistons,33 - 51,0,N/A,1,N/A
+66,Andre Drummond,FG_MISS,None,6:03,2,Pistons,Cavaliers,33 - 51,1,23,3,Jumper
+67,Kyle Korver,DEFENSIVE_REBOUND,None,6:00,2,Cavaliers,Pistons,33 - 51,0,N/A,N/A,N/A
+68,Rodney Hood,FG_MISS,None,5:54,2,Cavaliers,Pistons,33 - 51,0,27,3,Jumper
+69,Tristan Thompson,OFFENSIVE_REBOUND,None,5:51,2,Cavaliers,Pistons,33 - 51,0,N/A,N/A,N/A
+70,Rodney Hood,FG_ASSISTED,Collin Sexton,5:44,2,Cavaliers,Pistons,36 - 51,0,25,3,Jumper
+71,Andre Drummond,FG_MISS,None,5:17,2,Pistons,Cavaliers,36 - 51,1,0,2,Layup
+72,Kyle Korver,DEFENSIVE_REBOUND,None,5:15,2,Cavaliers,Pistons,36 - 51,0,N/A,N/A,N/A
+73,Rodney Hood,FG_MISS,None,5:10,2,Cavaliers,Pistons,36 - 51,0,0,2,Layup
+74,Blake Griffin,DEFENSIVE_REBOUND,None,5:07,2,Pistons,Cavaliers,36 - 51,1,N/A,N/A,N/A
+75,Blake Griffin,TURNOVER,Cedi Osman,5:03,2,Pistons,Cavaliers,36 - 51,1,N/A,N/A,N/A
+76,Reggie Jackson,FOUL_ON_FLOOR,None,5:01,2,Pistons,Cavaliers,36 - 51,1,N/A,N/A,N/A
+77,Cedi Osman,FT_MISS,None,5:01,2,Cavaliers,Pistons,36 - 51,0,N/A,1,N/A
+78,Team,OFFENSIVE_REBOUND,None,5:01,2,Cavaliers,Pistons,36 - 51,0,N/A,N/A,N/A
+79,Cedi Osman,FT,None,5:01,2,Cavaliers,Pistons,37 - 51,0,N/A,1,N/A
+80,Glenn Robinson,FG_UNASSISTED,None,4:50,2,Pistons,Cavaliers,37 - 53,1, ,3,Jumper
+81,Blake Griffin,FOUL_ON_FLOOR,None,4:46,2,Pistons,Cavaliers,37 - 53,1,N/A,N/A,N/A
+82,Collin Sexton,FT,None,4:46,2,Cavaliers,Pistons,38 - 53,0,N/A,1,N/A
+83,Collin Sexton,FT,None,4:46,2,Cavaliers,Pistons,39 - 53,0,N/A,1,N/A
+84,Reggie Jackson,FG_ASSISTED,Blake Griffin,4:35,2,Pistons,Cavaliers,39 - 56,1, ,3,Jumper
+85,Collin Sexton,FG_ASSISTED,Cedi Osman,4:15,2,Cavaliers,Pistons,42 - 56,0,24,3,Jumper
+86,Blake Griffin,FG_ASSISTED,obinson III,4:01,2,Pistons,Cavaliers,42 - 59,1,25,3,Jumper
+87,Kyle Korver,FG_MISS,None,3:51,2,Cavaliers,Pistons,42 - 59,0,25,3,Jumper
+88,Andre Drummond,DEFENSIVE_REBOUND,None,3:48,2,Pistons,Cavaliers,42 - 59,1,N/A,N/A,N/A
+89,Reggie Bullock,FG_MISS,None,3:36,2,Pistons,Cavaliers,42 - 59,1,23,3,Jumper
+90,Tristan Thompson,DEFENSIVE_REBOUND,None,3:33,2,Cavaliers,Pistons,42 - 59,0,N/A,N/A,N/A
+91,Rodney Hood,TURNOVER,Reggie Jackson,3:25,2,Cavaliers,Pistons,42 - 59,0,N/A,N/A,N/A
+92,Reggie Bullock,FG_ASSISTED,Reggie Jackson,3:21,2,Pistons,Cavaliers,42 - 61,1, ,3,Jumper
+93,Reggie Jackson,FOUL_ON_FLOOR,None,3:10,2,Pistons,Cavaliers,42 - 61,1,N/A,N/A,N/A
+94,Collin Sexton,FT,None,3:10,2,Cavaliers,Pistons,43 - 61,0,N/A,1,N/A
+95,Collin Sexton,FT_MISS,None,3:10,2,Cavaliers,Pistons,43 - 61,0,N/A,1,N/A
+96,Blake Griffin,DEFENSIVE_REBOUND,None,3:08,2,Pistons,Cavaliers,43 - 61,1,N/A,N/A,N/A
+97,Team,Unknown,None,3:04,2,Pistons,Cavaliers,43 - 61,1,N/A,N/A,N/A
+98,Ish Smith,SUBSTITUTION,III Robinson,3:04,2,Pistons,Cavaliers,43 - 61,1,N/A,N/A,N/A
+99,Langston Galloway,SUBSTITUTION,Jackson Reggie,3:04,2,Pistons,Cavaliers,43 - 61,1,N/A,N/A,N/A
+100,Reggie Bullock,FG_MISS,None,2:51,2,Pistons,Cavaliers,43 - 61,1,25,3,Jumper
+101,Cedi Osman,DEFENSIVE_REBOUND,None,2:48,2,Cavaliers,Pistons,43 - 61,0,N/A,N/A,N/A
+102,Ish Smith,FOUL_ON_FLOOR,None,2:38,2,Pistons,Cavaliers,43 - 61,1,N/A,N/A,N/A
+103,Cedi Osman,FT,None,2:38,2,Cavaliers,Pistons,44 - 61,0,N/A,1,N/A
+104,Cedi Osman,FT_MISS,None,2:38,2,Cavaliers,Pistons,44 - 61,0,N/A,1,N/A
+105,Langston Galloway,DEFENSIVE_REBOUND,None,2:36,2,Pistons,Cavaliers,44 - 61,1,N/A,N/A,N/A
+106,shot clock,TURNOVER,None,2:13,2,Pistons,Cavaliers,44 - 61,1,N/A,N/A,N/A
+107,Kyle Korver,FG_MISS,None,2:07,2,Cavaliers,Pistons,44 - 61,0,25,3,Jumper
+108,Blake Griffin,DEFENSIVE_REBOUND,None,2:02,2,Pistons,Cavaliers,44 - 61,1,N/A,N/A,N/A
+109,Langston Galloway,FG_MISS,None,1:45,2,Pistons,Cavaliers,44 - 61,1,25,3,Jumper
+110,Cedi Osman,DEFENSIVE_REBOUND,None,1:42,2,Cavaliers,Pistons,44 - 61,0,N/A,N/A,N/A
+111,Cedi Osman,FG_UNASSISTED,None,1:36,2,Cavaliers,Pistons,46 - 61,0,0,2,Layup
+112,Ish Smith,FG_MISS,None,1:14,2,Pistons,Cavaliers,46 - 61,1,26,3,Jumper
+113,Reggie Bullock,OFFENSIVE_REBOUND,None,1:10,2,Pistons,Cavaliers,46 - 61,1,N/A,N/A,N/A
+114,Rodney Hood,FOUL_ON_FLOOR,None,1:05,2,Cavaliers,Pistons,46 - 61,0,N/A,N/A,N/A
+115,Blake Griffin,FT,None,1:05,2,Pistons,Cavaliers,46 - 62,1,N/A,1,N/A
+116,Jose Calderon,SUBSTITUTION,Smith Ish,1:05,2,Pistons,Cavaliers,46 - 62,1,N/A,N/A,N/A
+117,Blake Griffin,FT,None,1:05,2,Pistons,Cavaliers,46 - 63,1,N/A,1,N/A
+118,Cedi Osman,FG_MISS,None,54.6,2,Cavaliers,Pistons,46 - 63,0,25,3,Jumper
+119,Andre Drummond,DEFENSIVE_REBOUND,None,52.5,2,Pistons,Cavaliers,46 - 63,1,N/A,N/A,N/A
+120,Blake Griffin,TURNOVER,Collin Sexton,30.7,2,Pistons,Cavaliers,46 - 63,1,N/A,N/A,N/A
+121,Andre Drummond,Unknown,None,29.3,2,Pistons,Cavaliers,46 - 63,1,N/A,N/A,N/A
+122,Collin Sexton,FG_MISS,None,21.3,2,Cavaliers,Pistons,46 - 63,0,20,3,Jumper
+123,Blake Griffin,DEFENSIVE_REBOUND,None,17.4,2,Pistons,Cavaliers,46 - 63,1,N/A,N/A,N/A
+124,Reggie Bullock,FG_ASSISTED,Jose Calderon,1.0,2,Pistons,Cavaliers,46 - 66,1,24,3,Jumper
+125,End of,Unknown,None,0.0,2,Pistons,Cavaliers,46 - 66,1,N/A,N/A,N/A
+0,Reggie Jackson,SUBSTITUTION,Galloway Langston,12:00,3,Pistons,Cavaliers,46 - 66,1,N/A,N/A,N/A
+1,Glenn Robinson,SUBSTITUTION,Calderon Jose,12:00,3,Pistons,Cavaliers,46 - 66,1,N/A,N/A,N/A
+2,Larry Nance,SUBSTITUTION,Korver Kyle,12:00,3,Cavaliers,Pistons,46 - 66,0,N/A,N/A,N/A
+3,Glenn Robinson,FG_ASSISTED,Reggie Jackson,11:46,3,Pistons,Cavaliers,46 - 69,1,26,3,Jumper
+4,Cedi Osman,TURNOVER,Blake Griffin,11:17,3,Cavaliers,Pistons,46 - 69,0,N/A,N/A,N/A
+5,Blake Griffin,FG_MISS,None,11:09,3,Pistons,Cavaliers,46 - 69,1,12,3,Jumper
+6,Larry Nance,DEFENSIVE_REBOUND,None,11:07,3,Cavaliers,Pistons,46 - 69,0,N/A,N/A,N/A
+7,Rodney Hood,TURNOVER,None,11:03,3,Cavaliers,Pistons,46 - 69,0,N/A,N/A,N/A
+8,Collin Sexton,FOUL_ON_FLOOR,None,10:50,3,Cavaliers,Pistons,46 - 69,0,N/A,N/A,N/A
+9,Reggie Jackson,FG_ASSISTED,Andre Drummond,10:39,3,Pistons,Cavaliers,46 - 72,1,28,3,Jumper
+10,Tristan Thompson,FG_MISS,Andre Drummond,10:20,3,Pistons,Cavaliers,46 - 72,0,0,2,Layup
+11,Blake Griffin,DEFENSIVE_REBOUND,None,10:18,3,Pistons,Cavaliers,46 - 72,1,N/A,N/A,N/A
+12,Reggie Bullock,FG_MISS,None,10:15,3,Pistons,Cavaliers,46 - 72,1,24,3,Jumper
+13,Collin Sexton,DEFENSIVE_REBOUND,None,10:09,3,Cavaliers,Pistons,46 - 72,0,N/A,N/A,N/A
+14,Reggie Jackson,FOUL_ON_FLOOR,None,10:07,3,Pistons,Cavaliers,46 - 72,1,N/A,N/A,N/A
+15,Tristan Thompson,FT,None,10:07,3,Cavaliers,Pistons,47 - 72,0,N/A,1,N/A
+16,Tristan Thompson,FT,None,10:07,3,Cavaliers,Pistons,48 - 72,0,N/A,1,N/A
+17,Blake Griffin,FOUL_ON_FLOOR,None,10:02,3,Pistons,Cavaliers,48 - 72,1,N/A,N/A,N/A
+18,Blake Griffin,TURNOVER,None,10:02,3,Pistons,Cavaliers,48 - 72,1,N/A,N/A,N/A
+19,Rodney Hood,FG_MISS,None,9:48,3,Cavaliers,Pistons,48 - 72,0,9,3,Jumper
+20,Tristan Thompson,OFFENSIVE_REBOUND,None,9:43,3,Cavaliers,Pistons,48 - 72,0,N/A,N/A,N/A
+21,Tristan Thompson,FG_UNASSISTED,None,9:43,3,Cavaliers,Pistons,50 - 72,0, ,3,Jumper
+22,Rodney Hood,FOUL_ON_FLOOR,None,9:35,3,Cavaliers,Pistons,50 - 72,0,N/A,N/A,N/A
+23,Reggie Bullock,FT,None,9:35,3,Pistons,Cavaliers,50 - 73,1,N/A,1,N/A
+24,Reggie Bullock,FT,None,9:35,3,Pistons,Cavaliers,50 - 74,1,N/A,1,N/A
+25,Collin Sexton,FG_ASSISTED,Larry Nance,9:20,3,Cavaliers,Pistons,53 - 74,0,26,3,Jumper
+26,Andre Drummond,FG_MISS,None,8:58,3,Pistons,Cavaliers,53 - 74,1,8,3,Jumper
+27,Tristan Thompson,DEFENSIVE_REBOUND,None,8:56,3,Cavaliers,Pistons,53 - 74,0,N/A,N/A,N/A
+28,Cedi Osman,FG_UNASSISTED,None,8:44,3,Cavaliers,Pistons,56 - 74,0,27,3,Jumper
+29,Collin Sexton,FOUL_ON_FLOOR,None,8:33,3,Cavaliers,Pistons,56 - 74,0,N/A,N/A,N/A
+30,Reggie Jackson,TURNOVER,Rodney Hood,8:28,3,Pistons,Cavaliers,56 - 74,1,N/A,N/A,N/A
+31,Collin Sexton,FG_MISS,None,8:22,3,Cavaliers,Pistons,56 - 74,0,27,3,Jumper
+32,Blake Griffin,DEFENSIVE_REBOUND,None,8:19,3,Pistons,Cavaliers,56 - 74,1,N/A,N/A,N/A
+33,Reggie Bullock,FG_ASSISTED,Blake Griffin,8:00,3,Pistons,Cavaliers,56 - 76,1,21,3,Jumper
+34,Larry Nance,FG_MISS,None,7:42,3,Cavaliers,Pistons,56 - 76,0,25,3,Jumper
+35,Reggie Jackson,DEFENSIVE_REBOUND,None,7:38,3,Pistons,Cavaliers,56 - 76,1,N/A,N/A,N/A
+36,Blake Griffin,FG_ASSISTED,Reggie Jackson,7:36,3,Pistons,Cavaliers,56 - 78,1, ,3,Jumper
+37,Tristan Thompson,FG_ASSISTED,Collin Sexton,7:26,3,Cavaliers,Pistons,58 - 78,0,8,3,Jumper
+38,Team,Unknown,None,7:26,3,Pistons,Cavaliers,58 - 78,1,N/A,N/A,N/A
+39,Ish Smith,SUBSTITUTION,Jackson Reggie,7:26,3,Pistons,Cavaliers,58 - 78,1,N/A,N/A,N/A
+40,Reggie Bullock,FG_ASSISTED,Blake Griffin,7:15,3,Pistons,Cavaliers,58 - 81,1,26,3,Jumper
+41,Rodney Hood,FOUL_ON_FLOOR,None,7:15,3,Cavaliers,Pistons,58 - 81,0,N/A,N/A,N/A
+42,Reggie Bullock,FT,None,7:15,3,Pistons,Cavaliers,58 - 82,1,N/A,1,N/A
+43,Tristan Thompson,FG_ASSISTED,Rodney Hood,6:57,3,Cavaliers,Pistons,60 - 82,0,4,3,Jumper
+44,Andre Drummond,FG_MISS,None,6:30,3,Pistons,Cavaliers,60 - 82,1, ,3,Jumper
+45,Tristan Thompson,DEFENSIVE_REBOUND,None,6:27,3,Cavaliers,Pistons,60 - 82,0,N/A,N/A,N/A
+46,Ish Smith,FOUL_ON_FLOOR,None,6:18,3,Pistons,Cavaliers,60 - 82,1,N/A,N/A,N/A
+47,Collin Sexton,FT_MISS,None,6:18,3,Cavaliers,Pistons,60 - 82,0,N/A,1,N/A
+48,Team,OFFENSIVE_REBOUND,None,6:18,3,Cavaliers,Pistons,60 - 82,0,N/A,N/A,N/A
+49,Collin Sexton,FT,None,6:18,3,Cavaliers,Pistons,61 - 82,0,N/A,1,N/A
+50,Ish Smith,FG_MISS,None,6:05,3,Pistons,Cavaliers,61 - 82,1,0,2,Layup
+51,Andre Drummond,OFFENSIVE_REBOUND,None,6:02,3,Pistons,Cavaliers,61 - 82,1,N/A,N/A,N/A
+52,Andre Drummond,FG_UNASSISTED,None,6:01,3,Pistons,Cavaliers,61 - 84,1, ,3,Jumper
+53,Rodney Hood,FG_MISS,None,5:50,3,Cavaliers,Pistons,61 - 84,0,26,3,Jumper
+54,Glenn Robinson,DEFENSIVE_REBOUND,None,5:50,3,Pistons,Cavaliers,61 - 84,1,N/A,N/A,N/A
+55,Reggie Bullock,FG_ASSISTED,obinson III,5:44,3,Pistons,Cavaliers,61 - 87,1,25,3,Jumper
+56,Team,Unknown,None,5:43,3,Cavaliers,Pistons,61 - 87,0,N/A,N/A,N/A
+57,Langston Galloway,SUBSTITUTION,III Robinson,5:43,3,Pistons,Cavaliers,61 - 87,1,N/A,N/A,N/A
+58,shot clock,TURNOVER,None,5:19,3,Cavaliers,Pistons,61 - 87,0,N/A,N/A,N/A
+59,Jordan Clarkson,SUBSTITUTION,Hood Rodney,5:19,3,Cavaliers,Pistons,61 - 87,0,N/A,N/A,N/A
+60,Andre Drummond,FG_UNASSISTED,None,4:57,3,Pistons,Cavaliers,61 - 89,1, ,3,Jumper
+61,Collin Sexton,FG_UNASSISTED,None,4:38,3,Cavaliers,Pistons,63 - 89,0,18,3,Jumper
+62,Ish Smith,FG_UNASSISTED,None,4:21,3,Pistons,Cavaliers,63 - 91,1,2,3,Jumper
+63,Stanley Johnson,SUBSTITUTION,Smith Ish,4:11,3,Pistons,Cavaliers,63 - 91,1,N/A,N/A,N/A
+64,Jose Calderon,SUBSTITUTION,Bullock Reggie,4:11,3,Pistons,Cavaliers,63 - 91,1,N/A,N/A,N/A
+65,David Nwaba,SUBSTITUTION,Osman Cedi,4:11,3,Cavaliers,Pistons,63 - 91,0,N/A,N/A,N/A
+66,Kyle Korver,SUBSTITUTION,Nance Larry,4:11,3,Cavaliers,Pistons,63 - 91,0,N/A,N/A,N/A
+67,Ish Smith,FOUL_ON_FLOOR,None,4:11,3,Pistons,Cavaliers,63 - 91,1,N/A,N/A,N/A
+68,Tristan Thompson's,FG_MISS,Andre Drummond,4:06,3,Pistons,Cavaliers,63 - 91,0,0,2,Layup
+69,Team,OFFENSIVE_REBOUND,None,4:06,3,Cavaliers,Pistons,63 - 91,0,N/A,N/A,N/A
+70,Jordan Clarkson,FG_MISS,None,4:02,3,Cavaliers,Pistons,63 - 91,0,12,3,Jumper
+71,Andre Drummond,DEFENSIVE_REBOUND,None,3:58,3,Pistons,Cavaliers,63 - 91,1,N/A,N/A,N/A
+72,Tristan Thompson,FOUL_ON_FLOOR,None,3:52,3,Cavaliers,Pistons,63 - 91,0,N/A,N/A,N/A
+73,Blake Griffin,FT,None,3:52,3,Pistons,Cavaliers,63 - 92,1,N/A,1,N/A
+74,Andrew Harrison,SUBSTITUTION,Sexton Collin,3:52,3,Cavaliers,Pistons,63 - 92,0,N/A,N/A,N/A
+75,Blake Griffin,FT,None,3:52,3,Pistons,Cavaliers,63 - 93,1,N/A,1,N/A
+76,Jordan Clarkson,FG_ASSISTED,Tristan Thompson,3:36,3,Cavaliers,Pistons,65 - 93,0,16,3,Jumper
+77,Blake Griffin,FOUL_ON_FLOOR,None,3:14,3,Pistons,Cavaliers,65 - 93,1,N/A,N/A,N/A
+78,Blake Griffin,TURNOVER,None,3:14,3,Pistons,Cavaliers,65 - 93,1,N/A,N/A,N/A
+79,Kyle Korver,TURNOVER,Stanley Johnson,2:54,3,Cavaliers,Pistons,65 - 93,0,N/A,N/A,N/A
+80,Stanley Johnson,TURNOVER,Andrew Harrison,2:49,3,Pistons,Cavaliers,65 - 93,1,N/A,N/A,N/A
+81,Jordan Clarkson,FG_MISS,None,2:26,3,Cavaliers,Pistons,65 - 93,0,26,3,Jumper
+82,Andre Drummond,DEFENSIVE_REBOUND,None,2:23,3,Pistons,Cavaliers,65 - 93,1,N/A,N/A,N/A
+83,Blake Griffin,TURNOVER,David Nwaba,2:17,3,Pistons,Cavaliers,65 - 93,1,N/A,N/A,N/A
+84,Stanley Johnson,FOUL_ON_FLOOR,None,2:16,3,Pistons,Cavaliers,65 - 93,1,N/A,N/A,N/A
+85,Khyri Thomas,SUBSTITUTION,Griffin Blake,2:16,3,Pistons,Cavaliers,65 - 93,1,N/A,N/A,N/A
+86,Andrew Harrison,FG_MISS,None,2:07,3,Cavaliers,Pistons,65 - 93,0,12,3,Jumper
+87,Jose Calderon,DEFENSIVE_REBOUND,None,2:03,3,Pistons,Cavaliers,65 - 93,1,N/A,N/A,N/A
+88,Andre Drummond,FG_MISS,None,1:52,3,Pistons,Cavaliers,65 - 93,1,0,2,Layup
+89,Andre Drummond,OFFENSIVE_REBOUND,None,1:49,3,Pistons,Cavaliers,65 - 93,1,N/A,N/A,N/A
+90,Stanley Johnson,FG_MISS,None,1:40,3,Pistons,Cavaliers,65 - 93,1,25,3,Jumper
+91,Tristan Thompson,DEFENSIVE_REBOUND,None,1:36,3,Cavaliers,Pistons,65 - 93,0,N/A,N/A,N/A
+92,Jose Calderon,FOUL_ON_FLOOR,None,1:34,3,Pistons,Cavaliers,65 - 93,1,N/A,N/A,N/A
+93,Andrew Harrison,FT,None,1:34,3,Cavaliers,Pistons,66 - 93,0,N/A,1,N/A
+94,Andrew Harrison,FT,None,1:34,3,Cavaliers,Pistons,67 - 93,0,N/A,1,N/A
+95,Jose Calderon,FG_MISS,None,1:10,3,Pistons,Cavaliers,67 - 93,1,25,3,Jumper
+96,Andrew Harrison,DEFENSIVE_REBOUND,None,1:07,3,Cavaliers,Pistons,67 - 93,0,N/A,N/A,N/A
+97,Andrew Harrison,FG_MISS,None,52.2,3,Cavaliers,Pistons,67 - 93,0,0,2,Layup
+98,Khyri Thomas,DEFENSIVE_REBOUND,None,49.4,3,Pistons,Cavaliers,67 - 93,1,N/A,N/A,N/A
+99,Stanley Johnson,FG_MISS,None,44.2,3,Pistons,Cavaliers,67 - 93,1,0,2,Layup
+100,David Nwaba,DEFENSIVE_REBOUND,None,42.7,3,Cavaliers,Pistons,67 - 93,0,N/A,N/A,N/A
+101,David Nwaba,FG_UNASSISTED,None,40.1,3,Cavaliers,Pistons,69 - 93,0,0,2,Layup
+102,Khyri Thomas,FOUL_ON_FLOOR,None,40.1,3,Pistons,Cavaliers,69 - 93,1,N/A,N/A,N/A
+103,David Nwaba,FT_MISS,None,40.1,3,Cavaliers,Pistons,69 - 93,0,N/A,1,N/A
+104,Langston Galloway,DEFENSIVE_REBOUND,None,40.1,3,Pistons,Cavaliers,69 - 93,1,N/A,N/A,N/A
+105,Jose Calderon,FG_MISS,None,31.6,3,Pistons,Cavaliers,69 - 93,1,25,3,Jumper
+106,Team,DEFENSIVE_REBOUND,None,28.6,3,Cavaliers,Pistons,69 - 93,0,N/A,N/A,N/A
+107,Tristan Thompson,FG_MISS,None,7.7,3,Cavaliers,Pistons,69 - 93,0,22,3,Jumper
+108,Langston Galloway,DEFENSIVE_REBOUND,None,5.1,3,Pistons,Cavaliers,69 - 93,1,N/A,N/A,N/A
+109,Khyri Thomas,FG_MISS,None,2.8,3,Pistons,Cavaliers,69 - 93,1,25,3,Jumper
+110,Andre Drummond,OFFENSIVE_REBOUND,None,2.8,3,Pistons,Cavaliers,69 - 93,1,N/A,N/A,N/A
+111,Andre Drummond,FG_MISS,None,0.0,3,Pistons,Cavaliers,69 - 93,1,20,3,Jumper
+112,Team,OFFENSIVE_REBOUND,None,0.0,3,Pistons,Cavaliers,69 - 93,1,N/A,N/A,N/A
+113,End of,Unknown,None,0.0,3,Pistons,Cavaliers,69 - 93,1,N/A,N/A,N/A
+0,Zaza Pachulia,SUBSTITUTION,Drummond Andre,12:00,4,Pistons,Cavaliers,69 - 93,1,N/A,N/A,N/A
+1,Ante Zizic,SUBSTITUTION,Thompson Tristan,12:00,4,Cavaliers,Pistons,69 - 93,0,N/A,N/A,N/A
+2,Ante Zizic,JUMP_BALL,None,11:41,4,Pistons,Cavaliers,69 - 93,1,N/A,N/A,N/A
+3,Ante Zizic,TURNOVER,Zaza Pachulia,11:41,4,Cavaliers,Pistons,69 - 93,0,N/A,N/A,N/A
+4,Stanley Johnson,FG_MISS,None,11:23,4,Pistons,Cavaliers,69 - 93,1,23,3,Jumper
+5,Jordan Clarkson,DEFENSIVE_REBOUND,None,11:20,4,Cavaliers,Pistons,69 - 93,0,N/A,N/A,N/A
+6,Stanley Johnson,FOUL_ON_FLOOR,None,11:14,4,Pistons,Cavaliers,69 - 93,1,N/A,N/A,N/A
+7,David Nwaba,FT,None,11:14,4,Cavaliers,Pistons,70 - 93,0,N/A,1,N/A
+8,David Nwaba,FT,None,11:14,4,Cavaliers,Pistons,71 - 93,0,N/A,1,N/A
+9,Stanley Johnson,FG_MISS,Kyle Korver,10:49,4,Cavaliers,Pistons,71 - 93,1,0,2,Layup
+10,Zaza Pachulia,OFFENSIVE_REBOUND,None,10:46,4,Pistons,Cavaliers,71 - 93,1,N/A,N/A,N/A
+11,Stanley Johnson,FG_MISS,None,10:46,4,Pistons,Cavaliers,71 - 93,1,4,3,Jumper
+12,Zaza Pachulia,FG_MISS,None,10:46,4,Pistons,Cavaliers,71 - 93,1,0,2,Layup
+13,Stanley Johnson,OFFENSIVE_REBOUND,None,10:46,4,Pistons,Cavaliers,71 - 93,1,N/A,N/A,N/A
+14,Stanley Johnson,OFFENSIVE_REBOUND,None,10:45,4,Pistons,Cavaliers,71 - 93,1,N/A,N/A,N/A
+15,Stanley Johnson,FG_MISS,None,10:45,4,Pistons,Cavaliers,71 - 93,1, ,3,Jumper
+16,Stanley Johnson,OFFENSIVE_REBOUND,None,10:45,4,Pistons,Cavaliers,71 - 93,1,N/A,N/A,N/A
+17,Stanley Johnson,FG_UNASSISTED,None,10:45,4,Pistons,Cavaliers,71 - 95,1, ,3,Jumper
+18,Stanley Johnson,FOUL_TECHNICAL,None,10:45,4,Pistons,Cavaliers,71 - 95,1,N/A,N/A,N/A
+19,Kyle Korver,FT_MISS,None,10:45,4,Cavaliers,Pistons,71 - 95,0,N/A,1,N/A
+20,Team,OFFENSIVE_REBOUND,None,10:45,4,Cavaliers,Pistons,71 - 95,0,N/A,N/A,N/A
+21,Glenn Robinson,SUBSTITUTION,Johnson Stanley,10:45,4,Pistons,Cavaliers,71 - 95,1,N/A,N/A,N/A
+22,David Nwaba,FG_MISS,None,10:23,4,Cavaliers,Pistons,71 - 95,0,26,3,Jumper
+23,Andrew Harrison,OFFENSIVE_REBOUND,None,10:21,4,Cavaliers,Pistons,71 - 95,0,N/A,N/A,N/A
+24,Zaza Pachulia,FOUL_ON_FLOOR,None,10:15,4,Pistons,Cavaliers,71 - 95,1,N/A,N/A,N/A
+25,Andrew Harrison,FT,None,10:15,4,Cavaliers,Pistons,72 - 95,0,N/A,1,N/A
+26,Andrew Harrison,FT,None,10:15,4,Cavaliers,Pistons,73 - 95,0,N/A,1,N/A
+27,Glenn Robinson,FG_MISS,None,9:59,4,Pistons,Cavaliers,73 - 95,1,23,3,Jumper
+28,David Nwaba,DEFENSIVE_REBOUND,None,9:52,4,Cavaliers,Pistons,73 - 95,0,N/A,N/A,N/A
+29,Zaza Pachulia,FOUL_ON_FLOOR,None,9:46,4,Pistons,Cavaliers,73 - 95,1,N/A,N/A,N/A
+30,Jose Calderon,FOUL_ON_FLOOR,None,9:41,4,Pistons,Cavaliers,73 - 95,1,N/A,N/A,N/A
+31,Jordan Clarkson,FT,None,9:41,4,Cavaliers,Pistons,74 - 95,0,N/A,1,N/A
+32,Jordan Clarkson,FT,None,9:41,4,Cavaliers,Pistons,75 - 95,0,N/A,1,N/A
+33,Ante Zizic,FOUL_ON_FLOOR,None,9:29,4,Cavaliers,Pistons,75 - 95,0,N/A,N/A,N/A
+34,Blake Griffin,SUBSTITUTION,Thomas Khyri,9:29,4,Pistons,Cavaliers,75 - 95,1,N/A,N/A,N/A
+35,Langston Galloway,FG_MISS,Kyle Korver,9:22,4,Cavaliers,Pistons,75 - 95,1,24,3,Jumper
+36,Team,OFFENSIVE_REBOUND,None,9:21,4,Pistons,Cavaliers,75 - 95,1,N/A,N/A,N/A
+37,Jose Calderon,FG_MISS,Andrew Harrison,9:15,4,Cavaliers,Pistons,75 - 95,1,0,2,Layup
+38,Jose Calderon,FOUL_TECHNICAL,None,9:14,4,Pistons,Cavaliers,75 - 95,1,N/A,N/A,N/A
+39,Team,DEFENSIVE_REBOUND,None,9:14,4,Cavaliers,Pistons,75 - 95,0,N/A,N/A,N/A
+40,Kyle Korver,FT,None,9:14,4,Cavaliers,Pistons,76 - 95,0,N/A,1,N/A
+41,Blake Griffin,FOUL_ON_FLOOR,None,9:04,4,Pistons,Cavaliers,76 - 95,1,N/A,N/A,N/A
+42,David Nwaba,FT,None,9:04,4,Cavaliers,Pistons,77 - 95,0,N/A,1,N/A
+43,David Nwaba,FT_MISS,None,9:04,4,Cavaliers,Pistons,77 - 95,0,N/A,1,N/A
+44,Glenn Robinson,DEFENSIVE_REBOUND,None,9:02,4,Pistons,Cavaliers,77 - 95,1,N/A,N/A,N/A
+45,Reggie Jackson,FOUL_TECHNICAL,None,9:02,4,Pistons,Cavaliers,77 - 95,1,N/A,N/A,N/A
+46,Kyle Korver,FT_MISS,None,9:02,4,Cavaliers,Pistons,77 - 95,0,N/A,1,N/A
+47,Team,DEFENSIVE_REBOUND,None,9:02,4,Pistons,Cavaliers,77 - 95,1,N/A,N/A,N/A
+48,Blake Griffin,FG_MISS,None,8:46,4,Pistons,Cavaliers,77 - 95,1, ,3,Jumper
+49,David Nwaba,DEFENSIVE_REBOUND,None,8:43,4,Cavaliers,Pistons,77 - 95,0,N/A,N/A,N/A
+50,Andrew Harrison,FG_MISS,None,8:38,4,Cavaliers,Pistons,77 - 95,0,27,3,Jumper
+51,Zaza Pachulia,DEFENSIVE_REBOUND,None,8:34,4,Pistons,Cavaliers,77 - 95,1,N/A,N/A,N/A
+52,Andrew Harrison,FOUL_ON_FLOOR,None,8:30,4,Cavaliers,Pistons,77 - 95,0,N/A,N/A,N/A
+53,Glenn Robinson,FG_MISS,None,8:17,4,Pistons,Cavaliers,77 - 95,1,11,3,Jumper
+54,Jordan Clarkson,DEFENSIVE_REBOUND,None,8:13,4,Cavaliers,Pistons,77 - 95,0,N/A,N/A,N/A
+55,Jordan Clarkson,FG_UNASSISTED,None,8:09,4,Cavaliers,Pistons,80 - 95,0,26,3,Jumper
+56,Langston Galloway,FOUL_ON_FLOOR,None,8:09,4,Pistons,Cavaliers,80 - 95,1,N/A,N/A,N/A
+57,Jordan Clarkson,FT,None,8:09,4,Cavaliers,Pistons,81 - 95,0,N/A,1,N/A
+58,Team,Unknown,None,8:09,4,Pistons,Cavaliers,81 - 95,1,N/A,N/A,N/A
+59,Andre Drummond,SUBSTITUTION,III Robinson,8:09,4,Pistons,Cavaliers,81 - 95,1,N/A,N/A,N/A
+60,Reggie Bullock,SUBSTITUTION,Pachulia Zaza,8:09,4,Pistons,Cavaliers,81 - 95,1,N/A,N/A,N/A
+61,Reggie Jackson,SUBSTITUTION,Calderon Jose,8:09,4,Pistons,Cavaliers,81 - 95,1,N/A,N/A,N/A
+62,Langston Galloway,FG_ASSISTED,Reggie Bullock,7:51,4,Pistons,Cavaliers,81 - 98,1,24,3,Jumper
+63,Kyle Korver,FG_MISS,None,7:32,4,Cavaliers,Pistons,81 - 98,0,20,3,Jumper
+64,Blake Griffin,DEFENSIVE_REBOUND,None,7:30,4,Pistons,Cavaliers,81 - 98,1,N/A,N/A,N/A
+65,Andre Drummond,FG_ASSISTED,Langston Galloway,7:24,4,Pistons,Cavaliers,81 - 100,1,0,2,Layup
+66,Team,Unknown,None,7:24,4,Cavaliers,Pistons,81 - 100,0,N/A,N/A,N/A
+67,Jordan Clarkson,FG_MISS,None,7:09,4,Cavaliers,Pistons,81 - 100,0,20,3,Jumper
+68,Reggie Jackson,DEFENSIVE_REBOUND,None,7:08,4,Pistons,Cavaliers,81 - 100,1,N/A,N/A,N/A
+69,David Nwaba,FOUL_ON_FLOOR,None,7:02,4,Cavaliers,Pistons,81 - 100,0,N/A,N/A,N/A
+70,Langston Galloway,FG_MISS,None,6:56,4,Pistons,Cavaliers,81 - 100,1,24,3,Jumper
+71,Team,OFFENSIVE_REBOUND,None,6:54,4,Pistons,Cavaliers,81 - 100,1,N/A,N/A,N/A
+72,shot clock,TURNOVER,None,6:40,4,Pistons,Cavaliers,81 - 100,1,N/A,N/A,N/A
+73,David Nwaba,FG_MISS,Andre Drummond,6:26,4,Pistons,Cavaliers,81 - 100,0,0,2,Layup
+74,Blake Griffin,DEFENSIVE_REBOUND,None,6:23,4,Pistons,Cavaliers,81 - 100,1,N/A,N/A,N/A
+75,Cedi Osman,SUBSTITUTION,Clarkson Jordan,6:20,4,Cavaliers,Pistons,81 - 100,0,N/A,N/A,N/A
+76,Rodney Hood,SUBSTITUTION,Korver Kyle,6:20,4,Cavaliers,Pistons,81 - 100,0,N/A,N/A,N/A
+77,Reggie Jackson,TURNOVER,Rodney Hood,6:18,4,Pistons,Cavaliers,81 - 100,1,N/A,N/A,N/A
+78,Andrew Harrison,FG_UNASSISTED,None,6:06,4,Cavaliers,Pistons,84 - 100,0,25,3,Jumper
+79,Blake Griffin,FG_ASSISTED,Langston Galloway,5:44,4,Pistons,Cavaliers,84 - 103,1,22,3,Jumper
+80,Team,Unknown,None,5:43,4,Cavaliers,Pistons,84 - 103,0,N/A,N/A,N/A
+81,Ante Zizic,FG_MISS,None,5:23,4,Cavaliers,Pistons,84 - 103,0,0,2,Layup
+82,Andre Drummond,DEFENSIVE_REBOUND,None,5:21,4,Pistons,Cavaliers,84 - 103,1,N/A,N/A,N/A
+83,Blake Griffin,FG_MISS,None,4:59,4,Pistons,Cavaliers,84 - 103,1,14,3,Jumper
+84,Team,DEFENSIVE_REBOUND,None,4:59,4,Cavaliers,Pistons,84 - 103,0,N/A,N/A,N/A
+85,Andre Drummond,FOUL_ON_FLOOR,None,4:59,4,Pistons,Cavaliers,84 - 103,1,N/A,N/A,N/A
+86,Andre Drummond,FOUL_TECHNICAL,None,4:59,4,Pistons,Cavaliers,84 - 103,1,N/A,N/A,N/A
+87,Rodney Hood,FT_MISS,None,4:59,4,Cavaliers,Pistons,84 - 103,0,N/A,1,N/A
+88,Team,OFFENSIVE_REBOUND,None,4:59,4,Cavaliers,Pistons,84 - 103,0,N/A,N/A,N/A
+89,Ante Zizic,FT,None,4:59,4,Cavaliers,Pistons,85 - 103,0,N/A,1,N/A
+90,Jordan Clarkson,SUBSTITUTION,Harrison Andrew,4:59,4,Cavaliers,Pistons,85 - 103,0,N/A,N/A,N/A
+91,Ante Zizic,FT,None,4:59,4,Cavaliers,Pistons,86 - 103,0,N/A,1,N/A
+92,Andre Drummond,FG_ASSISTED,Reggie Bullock,4:44,4,Pistons,Cavaliers,86 - 105,1,0,2,Layup
+93,Cedi Osman,FG_MISS,None,4:18,4,Cavaliers,Pistons,86 - 105,0,0,2,Layup
+94,Ante Zizic,OFFENSIVE_REBOUND,None,4:16,4,Cavaliers,Pistons,86 - 105,0,N/A,N/A,N/A
+95,Ante Zizic,FG_UNASSISTED,None,4:16,4,Cavaliers,Pistons,88 - 105,0,1,3,Jumper
+96,Blake Griffin,FG_UNASSISTED,None,3:56,4,Pistons,Cavaliers,88 - 107,1,0,2,Layup
+97,Ante Zizic,FG_ASSISTED,Rodney Hood,3:36,4,Cavaliers,Pistons,90 - 107,0,1,3,Jumper
+98,Langston Galloway,FG_MISS,None,3:21,4,Pistons,Cavaliers,90 - 107,1,25,3,Jumper
+99,Ante Zizic,DEFENSIVE_REBOUND,None,3:19,4,Cavaliers,Pistons,90 - 107,0,N/A,N/A,N/A
+100,David Nwaba,FG_MISS,None,3:12,4,Cavaliers,Pistons,90 - 107,0,0,2,Layup
+101,Ante Zizic,OFFENSIVE_REBOUND,None,3:08,4,Cavaliers,Pistons,90 - 107,0,N/A,N/A,N/A
+102,Ante Zizic,FG_UNASSISTED,None,3:08,4,Cavaliers,Pistons,92 - 107,0,0,2,Dunk
+103,Langston Galloway,FG_MISS,None,2:58,4,Pistons,Cavaliers,92 - 107,1,1,3,Jumper
+104,Andre Drummond,OFFENSIVE_REBOUND,None,2:54,4,Pistons,Cavaliers,92 - 107,1,N/A,N/A,N/A
+105,Andre Drummond,FG_MISS,None,2:54,4,Pistons,Cavaliers,92 - 107,1,1,3,Jumper
+106,Andre Drummond,OFFENSIVE_REBOUND,None,2:52,4,Pistons,Cavaliers,92 - 107,1,N/A,N/A,N/A
+107,Andre Drummond,FG_MISS,None,2:52,4,Pistons,Cavaliers,92 - 107,1,3,3,Jumper
+108,Andre Drummond,FG_MISS,None,2:52,4,Pistons,Cavaliers,92 - 107,1,0,2,Layup
+109,Andre Drummond,OFFENSIVE_REBOUND,None,2:52,4,Pistons,Cavaliers,92 - 107,1,N/A,N/A,N/A
+110,Ante Zizic,DEFENSIVE_REBOUND,None,2:46,4,Cavaliers,Pistons,92 - 107,0,N/A,N/A,N/A
+111,Andre Drummond,FOUL_ON_FLOOR,None,2:41,4,Pistons,Cavaliers,92 - 107,1,N/A,N/A,N/A
+112,Rodney Hood,FT,None,2:41,4,Cavaliers,Pistons,93 - 107,0,N/A,1,N/A
+113,Jon Leuer,SUBSTITUTION,Griffin Blake,2:41,4,Pistons,Cavaliers,93 - 107,1,N/A,N/A,N/A
+114,Rodney Hood,FT,None,2:41,4,Cavaliers,Pistons,94 - 107,0,N/A,1,N/A
+115,Reggie Jackson,FG_MISS,None,2:27,4,Pistons,Cavaliers,94 - 107,1,28,3,Jumper
+116,Team,DEFENSIVE_REBOUND,None,2:26,4,Cavaliers,Pistons,94 - 107,0,N/A,N/A,N/A
+117,Jose Calderon,SUBSTITUTION,Bullock Reggie,2:26,4,Pistons,Cavaliers,94 - 107,1,N/A,N/A,N/A
+118,Ante Zizic,FG_ASSISTED,Jordan Clarkson,2:13,4,Cavaliers,Pistons,96 - 107,0,0,2,Layup
+119,Cedi Osman,FOUL_ON_FLOOR,None,1:57,4,Cavaliers,Pistons,96 - 107,0,N/A,N/A,N/A
+120,Jon Leuer,FG_ASSISTED,Reggie Jackson,1:45,4,Pistons,Cavaliers,96 - 109,1,1,3,Jumper
+121,Jordan Clarkson,FG_UNASSISTED,None,1:35,4,Cavaliers,Pistons,98 - 109,0,1,3,Jumper
+122,Reggie Jackson,FG_ASSISTED,Andre Drummond,1:16,4,Pistons,Cavaliers,98 - 111,1,0,2,Layup
+123,Ante Zizic,FG_ASSISTED,Jordan Clarkson,1:01,4,Cavaliers,Pistons,100 - 111,0,0,2,Layup
+124,Reggie Jackson,FG_MISS,None,40.8,4,Pistons,Cavaliers,100 - 111,1,25,3,Jumper
+125,Andre Drummond,OFFENSIVE_REBOUND,None,39.8,4,Pistons,Cavaliers,100 - 111,1,N/A,N/A,N/A
+126,Andre Drummond,FG_UNASSISTED,None,39.8,4,Pistons,Cavaliers,100 - 113,1,0,2,Dunk
+127,Rodney Hood,FG_ASSISTED,Jordan Clarkson,22.0,4,Cavaliers,Pistons,102 - 113,0,0,2,Layup
+128,End of,Unknown,None,0.0,4,Pistons,Cavaliers,102 - 113,1,N/A,N/A,N/A
+129,End of,Unknown,None,0.0,4,Pistons,Cavaliers,102 - 113,1,N/A,N/A,N/A

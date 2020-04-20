@@ -1,0 +1,422 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Wendell Carter,JUMP_BALL,None,12:00,1,Bulls,Celtics,0 - 0,0,N/A,N/A,N/A
+1,Justin Holiday,FG_MISS,None,11:43,1,Bulls,Celtics,0 - 0,0,-,2,Jumper
+2,Al Horford,DEFENSIVE_REBOUND,None,11:40,1,Celtics,Bulls,0 - 0,1,N/A,N/A,N/A
+3,Gordon Hayward,TURNOVER,None,11:32,1,Celtics,Bulls,0 - 0,1,N/A,N/A,N/A
+4,Justin Holiday,FG_ASSISTED,Ryan Arcidiacono,11:19,1,Bulls,Celtics,3 - 0,0,27,3,Jumper
+5,Jaylen Brown,TURNOVER,None,11:06,1,Celtics,Bulls,3 - 0,1,N/A,N/A,N/A
+6,Jabari Parker,FG_ASSISTED,Ryan Arcidiacono,10:52,1,Bulls,Celtics,5 - 0,0,13,2,Jumper
+7,Kyrie Irving,FG_MISS,None,10:35,1,Celtics,Bulls,5 - 0,1,19,2,Jumper
+8,Jabari Parker,DEFENSIVE_REBOUND,None,10:32,1,Bulls,Celtics,5 - 0,0,N/A,N/A,N/A
+9,Wendell Carter,FG_MISS,None,10:22,1,Bulls,Celtics,5 - 0,0,18,2,Jumper
+10,Kyrie Irving,DEFENSIVE_REBOUND,None,10:21,1,Celtics,Bulls,5 - 0,1,N/A,N/A,N/A
+11,Kyrie Irving,FG_UNASSISTED,None,10:14,1,Celtics,Bulls,5 - 2,1,14,2,Jumper
+12,Wendell Carter,FG_ASSISTED,Zach LaVine,9:53,1,Bulls,Celtics,7 - 2,0,0,2,Dunk
+13,Al Horford,FG_MISS,None,9:35,1,Celtics,Bulls,7 - 2,1,13,2,Jumper
+14,Jayson Tatum,OFFENSIVE_REBOUND,None,9:34,1,Celtics,Bulls,7 - 2,1,N/A,N/A,N/A
+15,Jayson Tatum,FG_UNASSISTED,None,9:33,1,Celtics,Bulls,7 - 4,1,0,2,Dunk
+16,Jabari Parker,FG_UNASSISTED,None,9:14,1,Bulls,Celtics,9 - 4,0,7,2,Jumper
+17,Jaylen Brown,FG_MISS,None,8:58,1,Celtics,Bulls,9 - 4,1,12,2,Jumper
+18,Zach LaVine,DEFENSIVE_REBOUND,None,8:57,1,Bulls,Celtics,9 - 4,0,N/A,N/A,N/A
+19,Justin Holiday,TURNOVER,Al Horford,8:48,1,Bulls,Celtics,9 - 4,0,N/A,N/A,N/A
+20,Gordon Hayward,FG_MISS,None,8:43,1,Celtics,Bulls,9 - 4,1,-,2,Jumper
+21,Wendell Carter,DEFENSIVE_REBOUND,None,8:40,1,Bulls,Celtics,9 - 4,0,N/A,N/A,N/A
+22,Jabari Parker,FG_ASSISTED,Zach LaVine,8:35,1,Bulls,Celtics,12 - 4,0,24,3,Jumper
+23,Jayson Tatum,FG_MISS,None,8:18,1,Celtics,Bulls,12 - 4,1,-,2,Jumper
+24,Wendell Carter,DEFENSIVE_REBOUND,None,8:16,1,Bulls,Celtics,12 - 4,0,N/A,N/A,N/A
+25,Justin Holiday,FG_MISS,None,8:03,1,Bulls,Celtics,12 - 4,0,25,3,Jumper
+26,Kyrie Irving,DEFENSIVE_REBOUND,None,8:01,1,Celtics,Bulls,12 - 4,1,N/A,N/A,N/A
+27,Kyrie Irving,FG_UNASSISTED,None,7:56,1,Celtics,Bulls,12 - 7,1,27,3,Jumper
+28,Wendell Carter,FG_MISS,None,7:34,1,Bulls,Celtics,12 - 7,0,13,2,Jumper
+29,Jaylen Brown,DEFENSIVE_REBOUND,None,7:33,1,Celtics,Bulls,12 - 7,1,N/A,N/A,N/A
+30,Jaylen Brown,FG_UNASSISTED,None,7:21,1,Celtics,Bulls,12 - 9,1,-,2,Jumper
+31,Jabari Parker,TURNOVER,Jaylen Brown,7:05,1,Bulls,Celtics,12 - 9,0,N/A,N/A,N/A
+32,Jaylen Brown,FG_ASSISTED,Kyrie Irving,7:02,1,Celtics,Bulls,12 - 11,1,0,2,Dunk
+33,Team,Unknown,None,7:02,1,Bulls,Celtics,12 - 11,0,N/A,N/A,N/A
+34,Jabari Parker,FG_MISS,None,6:50,1,Bulls,Celtics,12 - 11,0,15,2,Jumper
+35,Al Horford,DEFENSIVE_REBOUND,None,6:48,1,Celtics,Bulls,12 - 11,1,N/A,N/A,N/A
+36,Jaylen Brown,FG_ASSISTED,Al Horford,6:37,1,Celtics,Bulls,12 - 13,1,9,2,Jumper
+37,Justin Holiday,FG_UNASSISTED,None,6:12,1,Bulls,Celtics,15 - 13,0,26,3,Jumper
+38,Jayson Tatum,FG_MISS,None,5:53,1,Celtics,Bulls,15 - 13,1,0,2,Layup
+39,Wendell Carter,DEFENSIVE_REBOUND,None,5:52,1,Bulls,Celtics,15 - 13,0,N/A,N/A,N/A
+40,Zach LaVine,FG_MISS,None,5:39,1,Bulls,Celtics,15 - 13,0,30,3,Jumper
+41,Al Horford,DEFENSIVE_REBOUND,None,5:37,1,Celtics,Bulls,15 - 13,1,N/A,N/A,N/A
+42,Jaylen Brown,FG_MISS,Wendell Carter,5:19,1,Bulls,Celtics,15 - 13,1,0,2,Layup
+43,Ryan Arcidiacono,DEFENSIVE_REBOUND,None,5:18,1,Bulls,Celtics,15 - 13,0,N/A,N/A,N/A
+44,Justin Holiday,FG_MISS,None,5:12,1,Bulls,Celtics,15 - 13,0,0,2,Layup
+45,Zach LaVine,OFFENSIVE_REBOUND,None,5:11,1,Bulls,Celtics,15 - 13,0,N/A,N/A,N/A
+46,Zach LaVine,FG_UNASSISTED,None,5:10,1,Bulls,Celtics,17 - 13,0, ,2,Jumper
+47,Ryan Arcidiacono,FOUL_ON_FLOOR,None,4:47,1,Bulls,Celtics,17 - 13,0,N/A,N/A,N/A
+48,Terry Rozier,SUBSTITUTION,Hayward Gordon,4:47,1,Celtics,Bulls,17 - 13,1,N/A,N/A,N/A
+49,Marcus Smart,SUBSTITUTION,Brown Jaylen,4:47,1,Celtics,Bulls,17 - 13,1,N/A,N/A,N/A
+50,Kyrie Irving,FG_ASSISTED,Al Horford,4:40,1,Celtics,Bulls,17 - 15,1,19,2,Jumper
+51,Marcus Smart,FOUL_ON_FLOOR,None,4:29,1,Celtics,Bulls,17 - 15,1,N/A,N/A,N/A
+52,Antonio Blakeney,SUBSTITUTION,LaVine Zach,4:29,1,Bulls,Celtics,17 - 15,0,N/A,N/A,N/A
+53,Jabari Parker,FG_ASSISTED,Antonio Blakeney,4:16,1,Bulls,Celtics,19 - 15,0,3,2,Jumper
+54,Jayson Tatum,FG_MISS,None,4:01,1,Celtics,Bulls,19 - 15,1,25,3,Jumper
+55,Ryan Arcidiacono,DEFENSIVE_REBOUND,None,3:59,1,Bulls,Celtics,19 - 15,0,N/A,N/A,N/A
+56,Wendell Carter,FG_MISS,Al Horford,3:52,1,Celtics,Bulls,19 - 15,0,0,2,Layup
+57,Kyrie Irving,DEFENSIVE_REBOUND,None,3:51,1,Celtics,Bulls,19 - 15,1,N/A,N/A,N/A
+58,Kyrie Irving,FG_UNASSISTED,None,3:43,1,Celtics,Bulls,19 - 17,1,7,2,Jumper
+59,Kyrie Irving,FOUL_ON_FLOOR,None,3:26,1,Celtics,Bulls,19 - 17,1,N/A,N/A,N/A
+60,Jabari Parker,FG_MISS,None,3:15,1,Bulls,Celtics,19 - 17,0,19,2,Jumper
+61,Jayson Tatum,DEFENSIVE_REBOUND,None,3:14,1,Celtics,Bulls,19 - 17,1,N/A,N/A,N/A
+62,Kyrie Irving,FG_MISS,None,3:04,1,Celtics,Bulls,19 - 17,1,9,2,Jumper
+63,Jabari Parker,DEFENSIVE_REBOUND,None,3:03,1,Bulls,Celtics,19 - 17,0,N/A,N/A,N/A
+64,Jabari Parker,FG_MISS,None,2:54,1,Bulls,Celtics,19 - 17,0,0,2,Layup
+65,Kyrie Irving,DEFENSIVE_REBOUND,None,2:53,1,Celtics,Bulls,19 - 17,1,N/A,N/A,N/A
+66,Team,Unknown,None,2:52,1,Celtics,Bulls,19 - 17,1,N/A,N/A,N/A
+67,Aron Baynes,SUBSTITUTION,Horford Al,2:52,1,Celtics,Bulls,19 - 17,1,N/A,N/A,N/A
+68,Robin Lopez,SUBSTITUTION,Carter Wendell,2:52,1,Bulls,Celtics,19 - 17,0,N/A,N/A,N/A
+69,Terry Rozier,FG_MISS,None,2:37,1,Celtics,Bulls,19 - 17,1,10,2,Jumper
+70,Aron Baynes,OFFENSIVE_REBOUND,None,2:36,1,Celtics,Bulls,19 - 17,1,N/A,N/A,N/A
+71,Aron Baynes,FG_MISS,None,2:36,1,Celtics,Bulls,19 - 17,1, ,2,Jumper
+72,Jabari Parker,DEFENSIVE_REBOUND,None,2:35,1,Bulls,Celtics,19 - 17,0,N/A,N/A,N/A
+73,Jabari Parker,TURNOVER,Marcus Smart,2:19,1,Bulls,Celtics,19 - 17,0,N/A,N/A,N/A
+74,Jayson Tatum,FG_MISS,None,2:12,1,Celtics,Bulls,19 - 17,1, ,2,Jumper
+75,Ryan Arcidiacono,DEFENSIVE_REBOUND,None,2:11,1,Bulls,Celtics,19 - 17,0,N/A,N/A,N/A
+76,Jabari Parker,FG_UNASSISTED,None,1:51,1,Bulls,Celtics,21 - 17,0,7,2,Jumper
+77,Marcus Smart,FG_UNASSISTED,None,1:30,1,Celtics,Bulls,21 - 19,1, ,2,Jumper
+78,Justin Holiday,FG_MISS,None,1:09,1,Bulls,Celtics,21 - 19,0,17,2,Jumper
+79,Aron Baynes,DEFENSIVE_REBOUND,None,1:08,1,Celtics,Bulls,21 - 19,1,N/A,N/A,N/A
+80,Terry Rozier,FG_MISS,None,52.8,1,Celtics,Bulls,21 - 19,1,22,3,Jumper
+81,Antonio Blakeney,DEFENSIVE_REBOUND,None,50.7,1,Bulls,Celtics,21 - 19,0,N/A,N/A,N/A
+82,Antonio Blakeney,FG_MISS,None,42.6,1,Bulls,Celtics,21 - 19,0,11,2,Jumper
+83,Jayson Tatum,DEFENSIVE_REBOUND,None,39.0,1,Celtics,Bulls,21 - 19,1,N/A,N/A,N/A
+84,Aron Baynes,FG_MISS,None,29.5,1,Celtics,Bulls,21 - 19,1,27,3,Jumper
+85,Ryan Arcidiacono,DEFENSIVE_REBOUND,None,28.5,1,Bulls,Celtics,21 - 19,0,N/A,N/A,N/A
+86,Robin Lopez,FG_MISS,None,6.3,1,Bulls,Celtics,21 - 19,0,19,2,Jumper
+87,Justin Holiday,OFFENSIVE_REBOUND,None,5.5,1,Bulls,Celtics,21 - 19,0,N/A,N/A,N/A
+88,Jabari Parker,FG_ASSISTED,Justin Holiday,1.1,1,Bulls,Celtics,24 - 19,0,26,3,Jumper
+89,End of,Unknown,None,0.0,1,Celtics,Bulls,24 - 19,1,N/A,N/A,N/A
+0,Jaylen Brown,SUBSTITUTION,Tatum Jayson,12:00,2,Celtics,Bulls,24 - 19,1,N/A,N/A,N/A
+1,Gordon Hayward,SUBSTITUTION,Irving Kyrie,12:00,2,Celtics,Bulls,24 - 19,1,N/A,N/A,N/A
+2,Semi Ojeleye,SUBSTITUTION,Smart Marcus,12:00,2,Celtics,Bulls,24 - 19,1,N/A,N/A,N/A
+3,Shaquille Harrison,SUBSTITUTION,Parker Jabari,12:00,2,Bulls,Celtics,24 - 19,0,N/A,N/A,N/A
+4,Zach LaVine,SUBSTITUTION,Holiday Justin,12:00,2,Bulls,Celtics,24 - 19,0,N/A,N/A,N/A
+5,Chandler Hutchison,SUBSTITUTION,Arcidiacono Ryan,12:00,2,Bulls,Celtics,24 - 19,0,N/A,N/A,N/A
+6,Gordon Hayward,FG_MISS,None,11:46,2,Celtics,Bulls,24 - 19,1,20,2,Jumper
+7,Shaquille Harrison,DEFENSIVE_REBOUND,None,11:45,2,Bulls,Celtics,24 - 19,0,N/A,N/A,N/A
+8,Robin Lopez,FG_MISS,None,11:34,2,Bulls,Celtics,24 - 19,0,7,2,Jumper
+9,Aron Baynes,DEFENSIVE_REBOUND,None,11:33,2,Celtics,Bulls,24 - 19,1,N/A,N/A,N/A
+10,Jaylen Brown,FG_ASSISTED,Aron Baynes,11:24,2,Celtics,Bulls,24 - 22,1,27,3,Jumper
+11,Zach LaVine,FG_MISS,None,11:08,2,Bulls,Celtics,24 - 22,0,14,2,Jumper
+12,Terry Rozier,DEFENSIVE_REBOUND,None,11:07,2,Celtics,Bulls,24 - 22,1,N/A,N/A,N/A
+13,Terry Rozier,FG_UNASSISTED,None,11:01,2,Celtics,Bulls,24 - 24,1, ,2,Jumper
+14,Zach LaVine,FG_UNASSISTED,None,10:36,2,Bulls,Celtics,26 - 24,0,0,2,Layup
+15,Terry Rozier,FG_MISS,None,10:18,2,Celtics,Bulls,26 - 24,1,26,3,Jumper
+16,Chandler Hutchison,DEFENSIVE_REBOUND,None,10:16,2,Bulls,Celtics,26 - 24,0,N/A,N/A,N/A
+17,Zach LaVine,FG_MISS,None,10:05,2,Bulls,Celtics,26 - 24,0,12,2,Jumper
+18,Aron Baynes,DEFENSIVE_REBOUND,None,10:04,2,Celtics,Bulls,26 - 24,1,N/A,N/A,N/A
+19,Jaylen Brown,FG_MISS,None,9:58,2,Celtics,Bulls,26 - 24,1,27,3,Jumper
+20,Zach LaVine,DEFENSIVE_REBOUND,None,9:56,2,Bulls,Celtics,26 - 24,0,N/A,N/A,N/A
+21,Antonio Blakeney,FG_MISS,None,9:47,2,Bulls,Celtics,26 - 24,0,15,2,Jumper
+22,Aron Baynes,DEFENSIVE_REBOUND,None,9:45,2,Celtics,Bulls,26 - 24,1,N/A,N/A,N/A
+23,Aron Baynes,FG_ASSISTED,Jaylen Brown,9:31,2,Celtics,Bulls,26 - 27,1,27,3,Jumper
+24,Robin Lopez,TURNOVER,Aron Baynes,9:12,2,Bulls,Celtics,26 - 27,0,N/A,N/A,N/A
+25,Aron Baynes,FG_MISS,None,9:06,2,Celtics,Bulls,26 - 27,1,8,2,Jumper
+26,Zach LaVine,DEFENSIVE_REBOUND,None,9:04,2,Bulls,Celtics,26 - 27,0,N/A,N/A,N/A
+27,Zach LaVine,TURNOVER,None,9:01,2,Bulls,Celtics,26 - 27,0,N/A,N/A,N/A
+28,Antonio Blakeney,FOUL_ON_FLOOR,None,8:52,2,Bulls,Celtics,26 - 27,0,N/A,N/A,N/A
+29,Gordon Hayward,FT_MISS,None,8:52,2,Celtics,Bulls,26 - 27,1,N/A,1,N/A
+30,Team,OFFENSIVE_REBOUND,None,8:52,2,Celtics,Bulls,26 - 27,1,N/A,N/A,N/A
+31,Gordon Hayward,FT,None,8:52,2,Celtics,Bulls,26 - 28,1,N/A,1,N/A
+32,Antonio Blakeney,FG_UNASSISTED,None,8:36,2,Bulls,Celtics,28 - 28,0,8,2,Jumper
+33,Antonio Blakeney,FOUL_ON_FLOOR,None,8:23,2,Bulls,Celtics,28 - 28,0,N/A,N/A,N/A
+34,Aron Baynes,FG_MISS,None,8:15,2,Celtics,Bulls,28 - 28,1,28,3,Jumper
+35,Zach LaVine,DEFENSIVE_REBOUND,None,8:13,2,Bulls,Celtics,28 - 28,0,N/A,N/A,N/A
+36,Zach LaVine,FG_MISS,None,8:05,2,Bulls,Celtics,28 - 28,0,0,2,Layup
+37,Jaylen Brown,DEFENSIVE_REBOUND,None,8:03,2,Celtics,Bulls,28 - 28,1,N/A,N/A,N/A
+38,Zach LaVine,FOUL_TECHNICAL,None,8:03,2,Bulls,Celtics,28 - 28,0,N/A,N/A,N/A
+39,Terry Rozier,FT,None,8:03,2,Celtics,Bulls,28 - 29,1,N/A,1,N/A
+40,Jaylen Brown,FG_MISS,None,7:51,2,Celtics,Bulls,28 - 29,1, ,2,Jumper
+41,Aron Baynes,OFFENSIVE_REBOUND,None,7:49,2,Celtics,Bulls,28 - 29,1,N/A,N/A,N/A
+42,Gordon Hayward,FG_MISS,None,7:38,2,Celtics,Bulls,28 - 29,1,23,3,Jumper
+43,Chandler Hutchison,DEFENSIVE_REBOUND,None,7:35,2,Bulls,Celtics,28 - 29,0,N/A,N/A,N/A
+44,Zach LaVine's,FG_MISS,Aron Baynes,7:23,2,Celtics,Bulls,28 - 29,0, ,2,Jumper
+45,Jaylen Brown,DEFENSIVE_REBOUND,None,7:20,2,Celtics,Bulls,28 - 29,1,N/A,N/A,N/A
+46,Jaylen Brown,TURNOVER,Shaquille Harrison,7:20,2,Celtics,Bulls,28 - 29,1,N/A,N/A,N/A
+47,Chandler Hutchison,FG_MISS,None,7:14,2,Bulls,Celtics,28 - 29,0, ,2,Jumper
+48,Jaylen Brown,DEFENSIVE_REBOUND,None,7:12,2,Celtics,Bulls,28 - 29,1,N/A,N/A,N/A
+49,Gordon Hayward,FG_MISS,None,7:06,2,Celtics,Bulls,28 - 29,1, ,2,Jumper
+50,Semi Ojeleye,OFFENSIVE_REBOUND,None,7:05,2,Celtics,Bulls,28 - 29,1,N/A,N/A,N/A
+51,Semi Ojeleye,FG_UNASSISTED,None,7:05,2,Celtics,Bulls,28 - 31,1, ,2,Jumper
+52,Team,Unknown,None,7:05,2,Celtics,Bulls,28 - 31,1,N/A,N/A,N/A
+53,Marcus Smart,SUBSTITUTION,Rozier Terry,7:05,2,Celtics,Bulls,28 - 31,1,N/A,N/A,N/A
+54,Justin Holiday,SUBSTITUTION,Blakeney Antonio,7:05,2,Bulls,Celtics,28 - 31,0,N/A,N/A,N/A
+55,Wendell Carter,SUBSTITUTION,Lopez Robin,7:05,2,Bulls,Celtics,28 - 31,0,N/A,N/A,N/A
+56,Jabari Parker,SUBSTITUTION,Hutchison Chandler,7:05,2,Bulls,Celtics,28 - 31,0,N/A,N/A,N/A
+57,Wendell Carter,FG_MISS,None,6:53,2,Bulls,Celtics,28 - 31,0,18,2,Jumper
+58,Jaylen Brown,DEFENSIVE_REBOUND,None,6:51,2,Celtics,Bulls,28 - 31,1,N/A,N/A,N/A
+59,Marcus Smart,FG_ASSISTED,Aron Baynes,6:35,2,Celtics,Bulls,28 - 34,1,27,3,Jumper
+60,Justin Holiday,FG_MISS,None,6:21,2,Bulls,Celtics,28 - 34,0,23,3,Jumper
+61,Aron Baynes,DEFENSIVE_REBOUND,None,6:19,2,Celtics,Bulls,28 - 34,1,N/A,N/A,N/A
+62,Aron Baynes,FG_MISS,None,6:10,2,Celtics,Bulls,28 - 34,1,15,2,Jumper
+63,Jabari Parker,DEFENSIVE_REBOUND,None,6:08,2,Bulls,Celtics,28 - 34,0,N/A,N/A,N/A
+64,Jabari Parker,FG_MISS,None,5:55,2,Bulls,Celtics,28 - 34,0,26,3,Jumper
+65,Gordon Hayward,DEFENSIVE_REBOUND,None,5:52,2,Celtics,Bulls,28 - 34,1,N/A,N/A,N/A
+66,Jaylen Brown,TURNOVER,Shaquille Harrison,5:45,2,Celtics,Bulls,28 - 34,1,N/A,N/A,N/A
+67,Shaquille Harrison,FG_UNASSISTED,None,5:41,2,Bulls,Celtics,30 - 34,0, ,2,Jumper
+68,Jaylen Brown,FG_ASSISTED,Marcus Smart,5:23,2,Celtics,Bulls,30 - 37,1,25,3,Jumper
+69,Jabari Parker,TURNOVER,None,5:07,2,Bulls,Celtics,30 - 37,0,N/A,N/A,N/A
+70,Jabari Parker,TURNOVER,None,5:07,2,Bulls,Celtics,30 - 37,0,N/A,N/A,N/A
+71,Kyrie Irving,SUBSTITUTION,Hayward Gordon,5:07,2,Celtics,Bulls,30 - 37,1,N/A,N/A,N/A
+72,Jayson Tatum,SUBSTITUTION,Ojeleye Semi,5:07,2,Celtics,Bulls,30 - 37,1,N/A,N/A,N/A
+73,Al Horford,SUBSTITUTION,Baynes Aron,5:07,2,Celtics,Bulls,30 - 37,1,N/A,N/A,N/A
+74,Ryan Arcidiacono,SUBSTITUTION,Harrison Shaquille,5:07,2,Bulls,Celtics,30 - 37,0,N/A,N/A,N/A
+75,Jayson Tatum,FG_ASSISTED,Kyrie Irving,4:52,2,Celtics,Bulls,30 - 40,1,27,3,Jumper
+76,Wendell Carter,FG_MISS,None,4:36,2,Bulls,Celtics,30 - 40,0,20,2,Jumper
+77,Marcus Smart,DEFENSIVE_REBOUND,None,4:34,2,Celtics,Bulls,30 - 40,1,N/A,N/A,N/A
+78,Al Horford,FG_UNASSISTED,None,4:20,2,Celtics,Bulls,30 - 42,1,10,2,Jumper
+79,Team,Unknown,None,4:19,2,Bulls,Celtics,30 - 42,0,N/A,N/A,N/A
+80,Zach LaVine,FG_MISS,None,4:11,2,Bulls,Celtics,30 - 42,0,29,3,Jumper
+81,Jayson Tatum,DEFENSIVE_REBOUND,None,4:09,2,Celtics,Bulls,30 - 42,1,N/A,N/A,N/A
+82,Jaylen Brown,FG_MISS,None,3:50,2,Celtics,Bulls,30 - 42,1,23,3,Jumper
+83,Jabari Parker,DEFENSIVE_REBOUND,None,3:48,2,Bulls,Celtics,30 - 42,0,N/A,N/A,N/A
+84,Jabari Parker,TURNOVER,None,3:42,2,Bulls,Celtics,30 - 42,0,N/A,N/A,N/A
+85,Jayson Tatum,FG_MISS,None,3:33,2,Celtics,Bulls,30 - 42,1,27,3,Jumper
+86,Zach LaVine,DEFENSIVE_REBOUND,None,3:31,2,Bulls,Celtics,30 - 42,0,N/A,N/A,N/A
+87,Wendell Carter,FG_ASSISTED,Zach LaVine,3:22,2,Bulls,Celtics,32 - 42,0,8,2,Jumper
+88,Jayson Tatum,FOUL_ON_FLOOR,None,3:22,2,Celtics,Bulls,32 - 42,1,N/A,N/A,N/A
+89,Terry Rozier,SUBSTITUTION,Brown Jaylen,3:22,2,Celtics,Bulls,32 - 42,1,N/A,N/A,N/A
+90,Wendell Carter,FT,None,3:22,2,Bulls,Celtics,33 - 42,0,N/A,1,N/A
+91,Ryan Arcidiacono,FOUL_ON_FLOOR,None,3:11,2,Bulls,Celtics,33 - 42,0,N/A,N/A,N/A
+92,Kyrie Irving,FT,None,3:11,2,Celtics,Bulls,33 - 43,1,N/A,1,N/A
+93,Kyrie Irving,FT,None,3:11,2,Celtics,Bulls,33 - 44,1,N/A,1,N/A
+94,Ryan Arcidiacono,TURNOVER,Kyrie Irving,3:03,2,Bulls,Celtics,33 - 44,0,N/A,N/A,N/A
+95,Kyrie Irving,TURNOVER,Justin Holiday,3:02,2,Celtics,Bulls,33 - 44,1,N/A,N/A,N/A
+96,Zach LaVine,TURNOVER,None,2:47,2,Bulls,Celtics,33 - 44,0,N/A,N/A,N/A
+97,Al Horford,FG_ASSISTED,Kyrie Irving,2:31,2,Celtics,Bulls,33 - 46,1,14,2,Jumper
+98,Justin Holiday,FG_MISS,None,2:15,2,Bulls,Celtics,33 - 46,0,27,3,Jumper
+99,Al Horford,DEFENSIVE_REBOUND,None,2:13,2,Celtics,Bulls,33 - 46,1,N/A,N/A,N/A
+100,Al Horford,FG_MISS,None,1:59,2,Celtics,Bulls,33 - 46,1,6,2,Jumper
+101,Wendell Carter,DEFENSIVE_REBOUND,None,1:58,2,Bulls,Celtics,33 - 46,0,N/A,N/A,N/A
+102,Zach LaVine,TURNOVER,None,1:39,2,Bulls,Celtics,33 - 46,0,N/A,N/A,N/A
+103,Wendell Carter,FOUL_ON_FLOOR,None,1:23,2,Bulls,Celtics,33 - 46,0,N/A,N/A,N/A
+104,Jayson Tatum,FG_UNASSISTED,None,1:12,2,Celtics,Bulls,33 - 49,1,27,3,Jumper
+105,Wendell Carter,FG_MISS,None,52.1,2,Bulls,Celtics,33 - 49,0, ,2,Jumper
+106,Wendell Carter,OFFENSIVE_REBOUND,None,50.8,2,Bulls,Celtics,33 - 49,0,N/A,N/A,N/A
+107,Wendell Carter,FG_MISS,None,50.8,2,Bulls,Celtics,33 - 49,0, ,2,Jumper
+108,Al Horford,DEFENSIVE_REBOUND,None,49.2,2,Celtics,Bulls,33 - 49,1,N/A,N/A,N/A
+109,Jayson Tatum,FG_MISS,None,39.4,2,Celtics,Bulls,33 - 49,1,15,2,Jumper
+110,Wendell Carter,DEFENSIVE_REBOUND,None,36.8,2,Bulls,Celtics,33 - 49,0,N/A,N/A,N/A
+111,Ryan Arcidiacono,FG_ASSISTED,Jabari Parker,33.8,2,Bulls,Celtics,35 - 49,0, ,2,Jumper
+112,Kyrie Irving,Unknown,None,33.8,2,Celtics,Bulls,35 - 49,1,N/A,N/A,N/A
+113,Marcus Smart,FG_MISS,None,20.4,2,Celtics,Bulls,35 - 49,1,26,3,Jumper
+114,Kyrie Irving,OFFENSIVE_REBOUND,None,18.3,2,Celtics,Bulls,35 - 49,1,N/A,N/A,N/A
+115,Terry Rozier,FG_UNASSISTED,None,6.9,2,Celtics,Bulls,35 - 51,1,13,2,Jumper
+116,Zach LaVine,FG_MISS,None,1.0,2,Bulls,Celtics,35 - 51,0, ,2,Jumper
+117,Team,OFFENSIVE_REBOUND,None,1.0,2,Bulls,Celtics,35 - 51,0,N/A,N/A,N/A
+118,End of,Unknown,None,0.0,2,Celtics,Bulls,35 - 51,1,N/A,N/A,N/A
+0,Jaylen Brown,SUBSTITUTION,Smart Marcus,12:00,3,Celtics,Bulls,35 - 51,1,N/A,N/A,N/A
+1,Gordon Hayward,SUBSTITUTION,Rozier Terry,12:00,3,Celtics,Bulls,35 - 51,1,N/A,N/A,N/A
+2,Jayson Tatum,FG_MISS,None,11:49,3,Celtics,Bulls,35 - 51,1,0,2,Layup
+3,Jayson Tatum,OFFENSIVE_REBOUND,None,11:46,3,Celtics,Bulls,35 - 51,1,N/A,N/A,N/A
+4,Jayson Tatum,TURNOVER,Ryan Arcidiacono,11:33,3,Celtics,Bulls,35 - 51,1,N/A,N/A,N/A
+5,Zach LaVine,FG_UNASSISTED,None,11:29,3,Bulls,Celtics,37 - 51,0,0,2,Dunk
+6,Al Horford,FG_ASSISTED,Jaylen Brown,11:14,3,Celtics,Bulls,37 - 54,1,26,3,Jumper
+7,Jabari Parker,FG_MISS,None,10:46,3,Bulls,Celtics,37 - 54,0,0,2,Layup
+8,Al Horford,DEFENSIVE_REBOUND,None,10:44,3,Celtics,Bulls,37 - 54,1,N/A,N/A,N/A
+9,Jaylen Brown,FG_ASSISTED,Al Horford,10:39,3,Celtics,Bulls,37 - 56,1,0,2,Dunk
+10,Jabari Parker,FG_MISS,None,10:20,3,Bulls,Celtics,37 - 56,0, ,3,Jumper
+11,Kyrie Irving,DEFENSIVE_REBOUND,None,10:18,3,Celtics,Bulls,37 - 56,1,N/A,N/A,N/A
+12,Ryan Arcidiacono,FOUL_ON_FLOOR,None,10:14,3,Bulls,Celtics,37 - 56,0,N/A,N/A,N/A
+13,Al Horford,FG_ASSISTED,Gordon Hayward,10:07,3,Celtics,Bulls,37 - 59,1,26,3,Jumper
+14,Team,Unknown,None,10:06,3,Bulls,Celtics,37 - 59,0,N/A,N/A,N/A
+15,Jayson Tatum,FOUL_ON_FLOOR,None,9:54,3,Celtics,Bulls,37 - 59,1,N/A,N/A,N/A
+16,Ryan Arcidiacono,FG_MISS,None,9:46,3,Bulls,Celtics,37 - 59,0,28,3,Jumper
+17,Jaylen Brown,DEFENSIVE_REBOUND,None,9:44,3,Celtics,Bulls,37 - 59,1,N/A,N/A,N/A
+18,Jayson Tatum,FG_ASSISTED,Kyrie Irving,9:27,3,Celtics,Bulls,37 - 62,1,24,3,Jumper
+19,Gordon Hayward,FOUL_ON_FLOOR,None,9:09,3,Celtics,Bulls,37 - 62,1,N/A,N/A,N/A
+20,Wendell Carter,TURNOVER,Jayson Tatum,8:55,3,Bulls,Celtics,37 - 62,0,N/A,N/A,N/A
+21,Gordon Hayward,FG_MISS,None,8:50,3,Celtics,Bulls,37 - 62,1,26,3,Jumper
+22,Wendell Carter,DEFENSIVE_REBOUND,None,8:47,3,Bulls,Celtics,37 - 62,0,N/A,N/A,N/A
+23,Wendell Carter,FG_ASSISTED,Ryan Arcidiacono,8:40,3,Bulls,Celtics,39 - 62,0,0,2,Layup
+24,Gordon Hayward,FG_MISS,None,8:22,3,Celtics,Bulls,39 - 62,1, ,3,Jumper
+25,Ryan Arcidiacono,DEFENSIVE_REBOUND,None,8:19,3,Bulls,Celtics,39 - 62,0,N/A,N/A,N/A
+26,Jabari Parker,FG_MISS,Al Horford,8:08,3,Celtics,Bulls,39 - 62,0,0,2,Layup
+27,Al Horford,DEFENSIVE_REBOUND,None,8:07,3,Celtics,Bulls,39 - 62,1,N/A,N/A,N/A
+28,Jayson Tatum,FG_MISS,None,8:02,3,Celtics,Bulls,39 - 62,1,26,3,Jumper
+29,Gordon Hayward,OFFENSIVE_REBOUND,None,8:01,3,Celtics,Bulls,39 - 62,1,N/A,N/A,N/A
+30,Gordon Hayward,FG_MISS,None,8:01,3,Celtics,Bulls,39 - 62,1, ,2,Jumper
+31,Ryan Arcidiacono,DEFENSIVE_REBOUND,None,7:59,3,Bulls,Celtics,39 - 62,0,N/A,N/A,N/A
+32,Wendell Carter,FG_ASSISTED,Justin Holiday,7:52,3,Bulls,Celtics,41 - 62,0, ,2,Jumper
+33,Jaylen Brown,FG_MISS,Jabari Parker,7:32,3,Bulls,Celtics,41 - 62,1,3,2,Jumper
+34,Justin Holiday,DEFENSIVE_REBOUND,None,7:30,3,Bulls,Celtics,41 - 62,0,N/A,N/A,N/A
+35,Justin Holiday,FG_MISS,None,7:18,3,Bulls,Celtics,41 - 62,0,26,3,Jumper
+36,Al Horford,DEFENSIVE_REBOUND,None,7:16,3,Celtics,Bulls,41 - 62,1,N/A,N/A,N/A
+37,Jaylen Brown,FG_ASSISTED,Kyrie Irving,7:08,3,Celtics,Bulls,41 - 64,1,0,2,Layup
+38,Ryan Arcidiacono,FG_ASSISTED,Justin Holiday,6:46,3,Bulls,Celtics,44 - 64,0,26,3,Jumper
+39,Gordon Hayward,FG_ASSISTED,Kyrie Irving,6:25,3,Celtics,Bulls,44 - 66,1,14,2,Jumper
+40,Wendell Carter,TURNOVER,None,6:12,3,Bulls,Celtics,44 - 66,0,N/A,N/A,N/A
+41,Marcus Smart,SUBSTITUTION,Horford Al,6:12,3,Celtics,Bulls,44 - 66,1,N/A,N/A,N/A
+42,Daniel Theis,SUBSTITUTION,Hayward Gordon,6:12,3,Celtics,Bulls,44 - 66,1,N/A,N/A,N/A
+43,Daniel Theis,TURNOVER,None,6:00,3,Celtics,Bulls,44 - 66,1,N/A,N/A,N/A
+44,Ryan Arcidiacono,FG_ASSISTED,Jabari Parker,5:49,3,Bulls,Celtics,47 - 66,0,27,3,Jumper
+45,Team,Unknown,None,5:48,3,Celtics,Bulls,47 - 66,1,N/A,N/A,N/A
+46,Marcus Smart,FG_MISS,None,5:34,3,Celtics,Bulls,47 - 66,1,11,2,Jumper
+47,Ryan Arcidiacono,DEFENSIVE_REBOUND,None,5:28,3,Bulls,Celtics,47 - 66,0,N/A,N/A,N/A
+48,Jabari Parker,TURNOVER,None,5:15,3,Bulls,Celtics,47 - 66,0,N/A,N/A,N/A
+49,Jaylen Brown,FG_ASSISTED,Marcus Smart,5:07,3,Celtics,Bulls,47 - 68,1,0,2,Layup
+50,Wendell Carter,FG_MISS,None,4:52,3,Bulls,Celtics,47 - 68,0,23,3,Jumper
+51,Jayson Tatum,DEFENSIVE_REBOUND,None,4:50,3,Celtics,Bulls,47 - 68,1,N/A,N/A,N/A
+52,Jayson Tatum,FG_ASSISTED,Jaylen Brown,4:35,3,Celtics,Bulls,47 - 71,1,24,3,Jumper
+53,Team,Unknown,None,4:33,3,Bulls,Celtics,47 - 71,0,N/A,N/A,N/A
+54,Terry Rozier,SUBSTITUTION,Irving Kyrie,4:33,3,Celtics,Bulls,47 - 71,1,N/A,N/A,N/A
+55,Chandler Hutchison,SUBSTITUTION,Parker Jabari,4:33,3,Bulls,Celtics,47 - 71,0,N/A,N/A,N/A
+56,Marcus Smart,FOUL_ON_FLOOR,None,4:14,3,Celtics,Bulls,47 - 71,1,N/A,N/A,N/A
+57,Zach LaVine,FT,None,4:14,3,Bulls,Celtics,48 - 71,0,N/A,1,N/A
+58,Zach LaVine,FT,None,4:14,3,Bulls,Celtics,49 - 71,0,N/A,1,N/A
+59,Ryan Arcidiacono,FOUL_ON_FLOOR,None,4:01,3,Bulls,Celtics,49 - 71,0,N/A,N/A,N/A
+60,Shaquille Harrison,SUBSTITUTION,Arcidiacono Ryan,4:01,3,Bulls,Celtics,49 - 71,0,N/A,N/A,N/A
+61,Jayson Tatum,FG_MISS,None,3:54,3,Celtics,Bulls,49 - 71,1,24,3,Jumper
+62,Zach LaVine,DEFENSIVE_REBOUND,None,3:52,3,Bulls,Celtics,49 - 71,0,N/A,N/A,N/A
+63,Jaylen Brown,FOUL_ON_FLOOR,None,3:38,3,Celtics,Bulls,49 - 71,1,N/A,N/A,N/A
+64,Wendell Carter,FG_ASSISTED,Justin Holiday,3:25,3,Bulls,Celtics,51 - 71,0,0,2,Dunk
+65,Jayson Tatum,TURNOVER,Zach LaVine,3:04,3,Celtics,Bulls,51 - 71,1,N/A,N/A,N/A
+66,Zach LaVine,TURNOVER,Daniel Theis,2:59,3,Bulls,Celtics,51 - 71,0,N/A,N/A,N/A
+67,Justin Holiday,FOUL_ON_FLOOR,None,2:43,3,Bulls,Celtics,51 - 71,0,N/A,N/A,N/A
+68,Robin Lopez,SUBSTITUTION,Holiday Justin,2:43,3,Bulls,Celtics,51 - 71,0,N/A,N/A,N/A
+69,Antonio Blakeney,SUBSTITUTION,Carter Wendell,2:43,3,Bulls,Celtics,51 - 71,0,N/A,N/A,N/A
+70,Terry Rozier,FG_MISS,None,2:37,3,Celtics,Bulls,51 - 71,1,26,3,Jumper
+71,Zach LaVine,DEFENSIVE_REBOUND,None,2:35,3,Bulls,Celtics,51 - 71,0,N/A,N/A,N/A
+72,Daniel Theis,FOUL_ON_FLOOR,None,2:28,3,Celtics,Bulls,51 - 71,1,N/A,N/A,N/A
+73,Zach LaVine,FT,None,2:28,3,Bulls,Celtics,52 - 71,0,N/A,1,N/A
+74,Gordon Hayward,SUBSTITUTION,Tatum Jayson,2:28,3,Celtics,Bulls,52 - 71,1,N/A,N/A,N/A
+75,Semi Ojeleye,SUBSTITUTION,Brown Jaylen,2:28,3,Celtics,Bulls,52 - 71,1,N/A,N/A,N/A
+76,Aron Baynes,SUBSTITUTION,Theis Daniel,2:28,3,Celtics,Bulls,52 - 71,1,N/A,N/A,N/A
+77,Zach LaVine,FT,None,2:28,3,Bulls,Celtics,53 - 71,0,N/A,1,N/A
+78,Marcus Smart,FG_MISS,None,2:04,3,Celtics,Bulls,53 - 71,1,23,3,Jumper
+79,Zach LaVine,DEFENSIVE_REBOUND,None,2:02,3,Bulls,Celtics,53 - 71,0,N/A,N/A,N/A
+80,Marcus Smart,FOUL_ON_FLOOR,None,1:53,3,Celtics,Bulls,53 - 71,1,N/A,N/A,N/A
+81,Shaquille Harrison,FT,None,1:53,3,Bulls,Celtics,54 - 71,0,N/A,1,N/A
+82,Shaquille Harrison,FT,None,1:53,3,Bulls,Celtics,55 - 71,0,N/A,1,N/A
+83,Marcus Smart,FG_ASSISTED,Terry Rozier,1:30,3,Celtics,Bulls,55 - 74,1,27,3,Jumper
+84,Robin Lopez,FG_ASSISTED,Zach LaVine,1:10,3,Bulls,Celtics,57 - 74,0,5,2,Jumper
+85,Marcus Smart,TURNOVER,Shaquille Harrison,1:02,3,Celtics,Bulls,57 - 74,1,N/A,N/A,N/A
+86,Shaquille Harrison,FG_UNASSISTED,None,1:00,3,Bulls,Celtics,59 - 74,0, ,2,Jumper
+87,Robin Lopez,FOUL_ON_FLOOR,None,50.0,3,Bulls,Celtics,59 - 74,0,N/A,N/A,N/A
+88,Gordon Hayward,FG_UNASSISTED,None,45.3,3,Celtics,Bulls,59 - 77,1,27,3,Jumper
+89,Antonio Blakeney,FG_MISS,None,30.6,3,Bulls,Celtics,59 - 77,0,27,3,Jumper
+90,Terry Rozier,DEFENSIVE_REBOUND,None,28.8,3,Celtics,Bulls,59 - 77,1,N/A,N/A,N/A
+91,Marcus Smart,TURNOVER,None,10.0,3,Celtics,Bulls,59 - 77,1,N/A,N/A,N/A
+92,Zach LaVine,FG_MISS,None,3.0,3,Bulls,Celtics,59 - 77,0,0,2,Layup
+93,Aron Baynes,DEFENSIVE_REBOUND,None,2.0,3,Celtics,Bulls,59 - 77,1,N/A,N/A,N/A
+94,End of,Unknown,None,0.0,3,Celtics,Bulls,59 - 77,1,N/A,N/A,N/A
+0,Kyrie Irving,SUBSTITUTION,Smart Marcus,12:00,4,Celtics,Bulls,59 - 77,1,N/A,N/A,N/A
+1,Justin Holiday,SUBSTITUTION,LaVine Zach,12:00,4,Bulls,Celtics,59 - 77,0,N/A,N/A,N/A
+2,Antonio Blakeney,FG_MISS,None,11:41,4,Bulls,Celtics,59 - 77,0, ,2,Jumper
+3,Robin Lopez,OFFENSIVE_REBOUND,None,11:41,4,Bulls,Celtics,59 - 77,0,N/A,N/A,N/A
+4,Robin Lopez,FG_MISS,None,11:40,4,Bulls,Celtics,59 - 77,0, ,2,Jumper
+5,Robin Lopez,OFFENSIVE_REBOUND,None,11:38,4,Bulls,Celtics,59 - 77,0,N/A,N/A,N/A
+6,Antonio Blakeney,FG_ASSISTED,Shaquille Harrison,11:29,4,Bulls,Celtics,62 - 77,0, ,3,Jumper
+7,Aron Baynes,FG_ASSISTED,Kyrie Irving,11:06,4,Celtics,Bulls,62 - 80,1,24,3,Jumper
+8,Shaquille Harrison,FG_UNASSISTED,None,10:54,4,Bulls,Celtics,64 - 80,0, ,2,Jumper
+9,Antonio Blakeney,FOUL_ON_FLOOR,None,10:44,4,Bulls,Celtics,64 - 80,0,N/A,N/A,N/A
+10,Kyrie Irving,FT,None,10:44,4,Celtics,Bulls,64 - 81,1,N/A,1,N/A
+11,Kyrie Irving,FT,None,10:44,4,Celtics,Bulls,64 - 82,1,N/A,1,N/A
+12,Chandler Hutchison,TURNOVER,Kyrie Irving,10:35,4,Bulls,Celtics,64 - 82,0,N/A,N/A,N/A
+13,Kyrie Irving,FG_UNASSISTED,None,10:31,4,Celtics,Bulls,64 - 84,1, ,2,Jumper
+14,Antonio Blakeney,TURNOVER,None,10:19,4,Bulls,Celtics,64 - 84,0,N/A,N/A,N/A
+15,Kyrie Irving,FG_ASSISTED,Gordon Hayward,10:06,4,Celtics,Bulls,64 - 86,1,2,2,Jumper
+16,Justin Holiday,FG_MISS,None,9:55,4,Bulls,Celtics,64 - 86,0,23,3,Jumper
+17,Gordon Hayward,DEFENSIVE_REBOUND,None,9:52,4,Celtics,Bulls,64 - 86,1,N/A,N/A,N/A
+18,Aron Baynes,FG_ASSISTED,Gordon Hayward,9:46,4,Celtics,Bulls,64 - 88,1,0,2,Layup
+19,Justin Holiday,FOUL_ON_FLOOR,None,9:46,4,Bulls,Celtics,64 - 88,0,N/A,N/A,N/A
+20,Aron Baynes,FT,None,9:46,4,Celtics,Bulls,64 - 89,1,N/A,1,N/A
+21,Robin Lopez,TURNOVER,Gordon Hayward,9:35,4,Bulls,Celtics,64 - 89,0,N/A,N/A,N/A
+22,Gordon Hayward,FG_UNASSISTED,None,9:32,4,Celtics,Bulls,64 - 91,1, ,2,Jumper
+23,Shaquille Harrison,FOUL_ON_FLOOR,None,9:32,4,Bulls,Celtics,64 - 91,0,N/A,N/A,N/A
+24,Gordon Hayward,FT,None,9:32,4,Celtics,Bulls,64 - 92,1,N/A,1,N/A
+25,Team,Unknown,None,9:29,4,Bulls,Celtics,64 - 92,0,N/A,N/A,N/A
+26,Cristiano Felicio,SUBSTITUTION,Lopez Robin,9:29,4,Bulls,Celtics,64 - 92,0,N/A,N/A,N/A
+27,Antonio Blakeney,FG_UNASSISTED,None,9:23,4,Bulls,Celtics,66 - 92,0,10,2,Jumper
+28,Terry Rozier,FG_UNASSISTED,None,9:12,4,Celtics,Bulls,66 - 94,1,3,2,Jumper
+29,Cristiano Felicio,Unknown,None,9:12,4,Bulls,Celtics,66 - 94,0,N/A,N/A,N/A
+30,Antonio Blakeney,FG_MISS,None,9:02,4,Bulls,Celtics,66 - 94,0,28,3,Jumper
+31,Cristiano Felicio,OFFENSIVE_REBOUND,None,9:00,4,Bulls,Celtics,66 - 94,0,N/A,N/A,N/A
+32,Cristiano Felicio,FG_UNASSISTED,None,8:59,4,Bulls,Celtics,68 - 94,0, ,2,Jumper
+33,Brad Wanamaker,SUBSTITUTION,Irving Kyrie,8:49,4,Celtics,Bulls,68 - 94,1,N/A,N/A,N/A
+34,Gordon Hayward,FG_ASSISTED,Aron Baynes,8:44,4,Celtics,Bulls,68 - 96,1,8,2,Jumper
+35,Antonio Blakeney,TURNOVER,Gordon Hayward,8:29,4,Bulls,Celtics,68 - 96,0,N/A,N/A,N/A
+36,Antonio Blakeney,FOUL_ON_FLOOR,None,8:27,4,Bulls,Celtics,68 - 96,0,N/A,N/A,N/A
+37,Cameron Payne,SUBSTITUTION,Holiday Justin,8:27,4,Bulls,Celtics,68 - 96,0,N/A,N/A,N/A
+38,Gordon Hayward,FG_MISS,None,8:16,4,Celtics,Bulls,68 - 96,1, ,2,Jumper
+39,Gordon Hayward,OFFENSIVE_REBOUND,None,8:14,4,Celtics,Bulls,68 - 96,1,N/A,N/A,N/A
+40,Aron Baynes,FG_MISS,None,8:11,4,Celtics,Bulls,68 - 96,1,27,3,Jumper
+41,Shaquille Harrison,DEFENSIVE_REBOUND,None,8:09,4,Bulls,Celtics,68 - 96,0,N/A,N/A,N/A
+42,Cristiano Felicio,FG_MISS,None,8:01,4,Bulls,Celtics,68 - 96,0,0,2,Layup
+43,Aron Baynes,DEFENSIVE_REBOUND,None,7:59,4,Celtics,Bulls,68 - 96,1,N/A,N/A,N/A
+44,Terry Rozier,FG_MISS,Antonio Blakeney,7:55,4,Bulls,Celtics,68 - 96,1,2,2,Jumper
+45,Shaquille Harrison,DEFENSIVE_REBOUND,None,7:54,4,Bulls,Celtics,68 - 96,0,N/A,N/A,N/A
+46,Shaquille Harrison,FG_UNASSISTED,None,7:48,4,Bulls,Celtics,70 - 96,0, ,2,Jumper
+47,Terry Rozier,FG_MISS,None,7:33,4,Celtics,Bulls,70 - 96,1,0,2,Layup
+48,Cristiano Felicio,DEFENSIVE_REBOUND,None,7:32,4,Bulls,Celtics,70 - 96,0,N/A,N/A,N/A
+49,Antonio Blakeney,FG_MISS,None,7:20,4,Bulls,Celtics,70 - 96,0,27,3,Jumper
+50,Aron Baynes,DEFENSIVE_REBOUND,None,7:18,4,Celtics,Bulls,70 - 96,1,N/A,N/A,N/A
+51,Terry Rozier,FG_MISS,None,7:00,4,Celtics,Bulls,70 - 96,1,19,2,Jumper
+52,Shaquille Harrison,DEFENSIVE_REBOUND,None,6:58,4,Bulls,Celtics,70 - 96,0,N/A,N/A,N/A
+53,Shaquille Harrison,FG_MISS,None,6:48,4,Bulls,Celtics,70 - 96,0, ,2,Jumper
+54,Aron Baynes,DEFENSIVE_REBOUND,None,6:46,4,Celtics,Bulls,70 - 96,1,N/A,N/A,N/A
+55,Brad Wanamaker,FG_MISS,None,6:40,4,Celtics,Bulls,70 - 96,1, ,2,Jumper
+56,Cameron Payne,DEFENSIVE_REBOUND,None,6:38,4,Bulls,Celtics,70 - 96,0,N/A,N/A,N/A
+57,Antonio Blakeney,TURNOVER,None,6:28,4,Bulls,Celtics,70 - 96,0,N/A,N/A,N/A
+58,Terry Rozier,FG_MISS,None,6:08,4,Celtics,Bulls,70 - 96,1,20,2,Jumper
+59,Shaquille Harrison,DEFENSIVE_REBOUND,None,6:06,4,Bulls,Celtics,70 - 96,0,N/A,N/A,N/A
+60,Antonio Blakeney,TURNOVER,Gordon Hayward,6:01,4,Bulls,Celtics,70 - 96,0,N/A,N/A,N/A
+61,Semi Ojeleye,FG_ASSISTED,Gordon Hayward,5:57,4,Celtics,Bulls,70 - 98,1,0,2,Dunk
+62,Antonio Blakeney,FG_MISS,Aron Baynes,5:48,4,Celtics,Bulls,70 - 98,0,0,2,Layup
+63,Semi Ojeleye,DEFENSIVE_REBOUND,None,5:45,4,Celtics,Bulls,70 - 98,1,N/A,N/A,N/A
+64,Semi Ojeleye,TURNOVER,Shaquille Harrison,5:40,4,Celtics,Bulls,70 - 98,1,N/A,N/A,N/A
+65,Aron Baynes,FOUL_ON_FLOOR,None,5:38,4,Celtics,Bulls,70 - 98,1,N/A,N/A,N/A
+66,Guerschon Yabusele,SUBSTITUTION,Hayward Gordon,5:38,4,Celtics,Bulls,70 - 98,1,N/A,N/A,N/A
+67,Daniel Theis,SUBSTITUTION,Baynes Aron,5:38,4,Celtics,Bulls,70 - 98,1,N/A,N/A,N/A
+68,Ryan Arcidiacono,SUBSTITUTION,Blakeney Antonio,5:38,4,Bulls,Celtics,70 - 98,0,N/A,N/A,N/A
+69,Chandler Hutchison,FG_MISS,None,5:19,4,Bulls,Celtics,70 - 98,0,27,3,Jumper
+70,Terry Rozier,DEFENSIVE_REBOUND,None,5:17,4,Celtics,Bulls,70 - 98,1,N/A,N/A,N/A
+71,Brad Wanamaker,FG_ASSISTED,Terry Rozier,5:09,4,Celtics,Bulls,70 - 101,1,26,3,Jumper
+72,Shaquille Harrison,FG_UNASSISTED,None,4:55,4,Bulls,Celtics,72 - 101,0,0,2,Layup
+73,Chandler Hutchison,FOUL_ON_FLOOR,None,4:47,4,Bulls,Celtics,72 - 101,0,N/A,N/A,N/A
+74,Chandler Hutchison,FOUL_TECHNICAL,None,4:47,4,Bulls,Celtics,72 - 101,0,N/A,N/A,N/A
+75,Terry Rozier,FT,None,4:47,4,Celtics,Bulls,72 - 102,1,N/A,1,N/A
+76,Guerschon Yabusele,FT_MISS,None,4:47,4,Celtics,Bulls,72 - 102,1,N/A,1,N/A
+77,Team,OFFENSIVE_REBOUND,None,4:47,4,Celtics,Bulls,72 - 102,1,N/A,N/A,N/A
+78,Guerschon Yabusele,FT,None,4:47,4,Celtics,Bulls,72 - 103,1,N/A,1,N/A
+79,Cameron Payne,FG_MISS,None,4:29,4,Bulls,Celtics,72 - 103,0,7,2,Jumper
+80,Terry Rozier,DEFENSIVE_REBOUND,None,4:26,4,Celtics,Bulls,72 - 103,1,N/A,N/A,N/A
+81,Semi Ojeleye,TURNOVER,None,4:23,4,Celtics,Bulls,72 - 103,1,N/A,N/A,N/A
+82,Shaquille Harrison,FG_MISS,None,4:15,4,Bulls,Celtics,72 - 103,0,0,2,Layup
+83,Guerschon Yabusele,DEFENSIVE_REBOUND,None,4:14,4,Celtics,Bulls,72 - 103,1,N/A,N/A,N/A
+84,Terry Rozier,FG_ASSISTED,Guerschon Yabusele,4:11,4,Celtics,Bulls,72 - 105,1,0,2,Dunk
+85,Terry Rozier,FOUL_ON_FLOOR,None,4:00,4,Celtics,Bulls,72 - 105,1,N/A,N/A,N/A
+86,Daniel Theis,FOUL_ON_FLOOR,None,3:48,4,Celtics,Bulls,72 - 105,1,N/A,N/A,N/A
+87,Cristiano Felicio,FT,None,3:48,4,Bulls,Celtics,73 - 105,0,N/A,1,N/A
+88,Cristiano Felicio,FT,None,3:48,4,Bulls,Celtics,74 - 105,0,N/A,1,N/A
+89,Shaquille Harrison,FOUL_ON_FLOOR,None,3:39,4,Bulls,Celtics,74 - 105,0,N/A,N/A,N/A
+90,Guerschon Yabusele,FT,None,3:39,4,Celtics,Bulls,74 - 106,1,N/A,1,N/A
+91,Guerschon Yabusele,FT,None,3:39,4,Celtics,Bulls,74 - 107,1,N/A,1,N/A
+92,Chandler Hutchison,FG_MISS,None,3:22,4,Bulls,Celtics,74 - 107,0,7,2,Jumper
+93,Cristiano Felicio,OFFENSIVE_REBOUND,None,3:20,4,Bulls,Celtics,74 - 107,0,N/A,N/A,N/A
+94,Cristiano Felicio,FG_UNASSISTED,None,3:18,4,Bulls,Celtics,76 - 107,0,1,2,Jumper
+95,Daniel Theis,FG_ASSISTED,Brad Wanamaker,3:00,4,Celtics,Bulls,76 - 109,1,0,2,Layup
+96,Ryan Arcidiacono,FG_MISS,None,2:46,4,Bulls,Celtics,76 - 109,0,22,3,Jumper
+97,Brad Wanamaker,DEFENSIVE_REBOUND,None,2:43,4,Celtics,Bulls,76 - 109,1,N/A,N/A,N/A
+98,Brad Wanamaker,TURNOVER,Chandler Hutchison,2:35,4,Celtics,Bulls,76 - 109,1,N/A,N/A,N/A
+99,Shaquille Harrison,FG_ASSISTED,Chandler Hutchison,2:32,4,Bulls,Celtics,78 - 109,0,1,2,Jumper
+100,Team,Unknown,None,2:32,4,Celtics,Bulls,78 - 109,1,N/A,N/A,N/A
+101,Terry Rozier,FG_MISS,None,2:20,4,Celtics,Bulls,78 - 109,1,26,3,Jumper
+102,Ryan Arcidiacono,DEFENSIVE_REBOUND,None,2:18,4,Bulls,Celtics,78 - 109,0,N/A,N/A,N/A
+103,Cameron Payne,FG_UNASSISTED,None,1:57,4,Bulls,Celtics,80 - 109,0,10,2,Jumper
+104,shot clock,TURNOVER,None,1:32,4,Celtics,Bulls,80 - 109,1,N/A,N/A,N/A
+105,Cameron Payne,TURNOVER,None,1:13,4,Bulls,Celtics,80 - 109,0,N/A,N/A,N/A
+106,Terry Rozier,FG_MISS,None,55.6,4,Celtics,Bulls,80 - 109,1,26,2,Jumper
+107,Shaquille Harrison,DEFENSIVE_REBOUND,None,50.8,4,Bulls,Celtics,80 - 109,0,N/A,N/A,N/A
+108,Shaquille Harrison,FG_UNASSISTED,None,43.4,4,Bulls,Celtics,82 - 109,0,1,2,Jumper
+109,Guerschon Yabusele,FG_MISS,None,31.7,4,Celtics,Bulls,82 - 109,1,3,2,Jumper
+110,Chandler Hutchison,DEFENSIVE_REBOUND,None,30.2,4,Bulls,Celtics,82 - 109,0,N/A,N/A,N/A
+111,Shaquille Harrison,FG_MISS,Daniel Theis,23.9,4,Celtics,Bulls,82 - 109,0,3,2,Jumper
+112,Daniel Theis,DEFENSIVE_REBOUND,None,22.2,4,Celtics,Bulls,82 - 109,1,N/A,N/A,N/A
+113,Terry Rozier,FG_ASSISTED,Brad Wanamaker,18.9,4,Celtics,Bulls,82 - 111,1,1,2,Jumper
+114,Chandler Hutchison,TURNOVER,Terry Rozier,10.0,4,Bulls,Celtics,82 - 111,0,N/A,N/A,N/A
+115,End of,Unknown,None,0.0,4,Celtics,Bulls,82 - 111,1,N/A,N/A,N/A
+116,End of,Unknown,None,0.0,4,Celtics,Bulls,82 - 111,1,N/A,N/A,N/A

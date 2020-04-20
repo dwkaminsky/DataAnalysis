@@ -1,0 +1,499 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Steven Adams,JUMP_BALL,None,12:00,1,Thunder,76ers,0 - 0,0,N/A,N/A,N/A
+1,Ben Simmons,FG_UNASSISTED,None,11:36,1,76ers,Thunder,0 - 2,1,0,2,Layup
+2,Ben Simmons,FT,None,11:36,1,76ers,Thunder,0 - 3,1,N/A,1,N/A
+3,Russell Westbrook,FOUL_ON_FLOOR,None,11:36,1,Thunder,76ers,0 - 3,0,N/A,N/A,N/A
+4,Steven Adams,FG_UNASSISTED,None,11:25,1,Thunder,76ers,2 - 3,0,0,2,Layup
+5,Joel Embiid,FT,None,11:06,1,76ers,Thunder,2 - 4,1,N/A,1,N/A
+6,Joel Embiid,FT_MISS,None,11:06,1,76ers,Thunder,2 - 4,1,N/A,1,N/A
+7,Russell Westbrook,DEFENSIVE_REBOUND,None,11:04,1,Thunder,76ers,2 - 4,0,N/A,N/A,N/A
+8,Terrance Ferguson,FG_ASSISTED,Russell Westbrook,10:54,1,Thunder,76ers,5 - 4,0,23,3,Jumper
+9,Ben Simmons,TURNOVER,None,10:49,1,76ers,Thunder,5 - 4,1,N/A,N/A,N/A
+10,Terrance Ferguson,FG_MISS,None,10:41,1,Thunder,76ers,5 - 4,0,5,2,Jumper
+11,Steven Adams,OFFENSIVE_REBOUND,None,10:39,1,Thunder,76ers,5 - 4,0,N/A,N/A,N/A
+12,Terrance Ferguson,FG_ASSISTED,Steven Adams,10:32,1,Thunder,76ers,7 - 4,0,4,2,Jumper
+13,Wilson Chandler,FG_MISS,None,10:15,1,76ers,Thunder,7 - 4,1,26,3,Jumper
+14,Russell Westbrook,DEFENSIVE_REBOUND,None,10:11,1,Thunder,76ers,7 - 4,0,N/A,N/A,N/A
+15,Steven Adams,FG_MISS,Wilson Chandler,10:06,1,76ers,Thunder,7 - 4,0,0,2,Layup
+16,Steven Adams,JUMP_BALL,None,10:03,1,Thunder,76ers,7 - 4,0,N/A,N/A,N/A
+17,Team,OFFENSIVE_REBOUND,None,10:03,1,Thunder,76ers,7 - 4,0,N/A,N/A,N/A
+18,Russell Westbrook,FG_MISS,None,9:56,1,Thunder,76ers,7 - 4,0,19,2,Jumper
+19,Steven Adams,OFFENSIVE_REBOUND,None,9:52,1,Thunder,76ers,7 - 4,0,N/A,N/A,N/A
+20,Wilson Chandler,FOUL_ON_FLOOR,None,9:47,1,76ers,Thunder,7 - 4,1,N/A,N/A,N/A
+21,Russell Westbrook,FG_ASSISTED,Steven Adams,9:43,1,Thunder,76ers,9 - 4,0,21,2,Jumper
+22,Jimmy Butler,FG_MISS,None,9:31,1,76ers,Thunder,9 - 4,1,26,3,Jumper
+23,Jerami Grant,DEFENSIVE_REBOUND,None,9:28,1,Thunder,76ers,9 - 4,0,N/A,N/A,N/A
+24,Russell Westbrook,TURNOVER,JJ Redick,9:22,1,Thunder,76ers,9 - 4,0,N/A,N/A,N/A
+25,Joel Embiid,TURNOVER,None,9:18,1,76ers,Thunder,9 - 4,1,N/A,N/A,N/A
+26,Joel Embiid,TURNOVER,None,9:18,1,76ers,Thunder,9 - 4,1,N/A,N/A,N/A
+27,Paul George,FG_UNASSISTED,None,9:01,1,Thunder,76ers,11 - 4,0,15,2,Jumper
+28,Terrance Ferguson,FOUL_ON_FLOOR,None,8:52,1,Thunder,76ers,11 - 4,0,N/A,N/A,N/A
+29,Joel Embiid,FG_ASSISTED,Ben Simmons,8:44,1,76ers,Thunder,11 - 6,1,0,2,Dunk
+30,Russell Westbrook,FG_UNASSISTED,None,8:36,1,Thunder,76ers,13 - 6,0,17,2,Jumper
+31,Ben Simmons,FG_UNASSISTED,None,8:28,1,76ers,Thunder,13 - 8,1,5,2,Jumper
+32,Jerami Grant,FG_UNASSISTED,None,8:06,1,Thunder,76ers,15 - 8,0,8,2,Jumper
+33,JJ Redick,FG_ASSISTED,Joel Embiid,7:52,1,76ers,Thunder,15 - 11,1,25,3,Jumper
+34,Steven Adams,FG_UNASSISTED,None,7:34,1,Thunder,76ers,17 - 11,0,8,2,Jumper
+35,JJ Redick,FG_MISS,None,7:08,1,76ers,Thunder,17 - 11,1,7,2,Jumper
+36,Paul George,DEFENSIVE_REBOUND,None,7:06,1,Thunder,76ers,17 - 11,0,N/A,N/A,N/A
+37,Steven Adams,FG_ASSISTED,Paul George,6:59,1,Thunder,76ers,19 - 11,0,0,2,Dunk
+38,Team,Unknown,None,6:59,1,76ers,Thunder,19 - 11,1,N/A,N/A,N/A
+39,Landry Shamet,SUBSTITUTION,Redick JJ,6:59,1,76ers,Thunder,19 - 11,1,N/A,N/A,N/A
+40,T.J. McConnell,SUBSTITUTION,Chandler Wilson,6:59,1,76ers,Thunder,19 - 11,1,N/A,N/A,N/A
+41,Jonah Bolden,SUBSTITUTION,Embiid Joel,6:59,1,76ers,Thunder,19 - 11,1,N/A,N/A,N/A
+42,Ben Simmons,TURNOVER,Russell Westbrook,6:50,1,76ers,Thunder,19 - 11,1,N/A,N/A,N/A
+43,Russell Westbrook,FG_UNASSISTED,None,6:47,1,Thunder,76ers,21 - 11,0,0,2,Dunk
+44,Jerami Grant,FOUL_ON_FLOOR,None,6:28,1,Thunder,76ers,21 - 11,0,N/A,N/A,N/A
+45,Jimmy Butler,FT,None,6:28,1,76ers,Thunder,21 - 12,1,N/A,1,N/A
+46,Nerlens Noel,SUBSTITUTION,Adams Steven,6:28,1,Thunder,76ers,21 - 12,0,N/A,N/A,N/A
+47,Jimmy Butler,FT,None,6:28,1,76ers,Thunder,21 - 13,1,N/A,1,N/A
+48,Jerami Grant,FG_ASSISTED,Russell Westbrook,6:05,1,Thunder,76ers,23 - 13,0,0,2,Layup
+49,Ben Simmons,FG_MISS,None,5:56,1,76ers,Thunder,23 - 13,1,0,2,Layup
+50,Terrance Ferguson,DEFENSIVE_REBOUND,None,5:52,1,Thunder,76ers,23 - 13,0,N/A,N/A,N/A
+51,Russell Westbrook,FG_MISS,None,5:45,1,Thunder,76ers,23 - 13,0,7,2,Jumper
+52,Ben Simmons,DEFENSIVE_REBOUND,None,5:42,1,76ers,Thunder,23 - 13,1,N/A,N/A,N/A
+53,T.J. McConnell,FG_MISS,Nerlens Noel,5:37,1,Thunder,76ers,23 - 13,1,3,2,Jumper
+54,Landry Shamet,OFFENSIVE_REBOUND,None,5:34,1,76ers,Thunder,23 - 13,1,N/A,N/A,N/A
+55,Ben Simmons,FG_MISS,None,5:31,1,76ers,Thunder,23 - 13,1, ,2,Jumper
+56,Terrance Ferguson,DEFENSIVE_REBOUND,None,5:31,1,Thunder,76ers,23 - 13,0,N/A,N/A,N/A
+57,Paul George,FG_MISS,None,5:23,1,Thunder,76ers,23 - 13,0,26,3,Jumper
+58,Jonah Bolden,DEFENSIVE_REBOUND,None,5:19,1,76ers,Thunder,23 - 13,1,N/A,N/A,N/A
+59,T.J. McConnell,FG_MISS,None,5:08,1,76ers,Thunder,23 - 13,1,11,2,Jumper
+60,Paul George,DEFENSIVE_REBOUND,None,5:05,1,Thunder,76ers,23 - 13,0,N/A,N/A,N/A
+61,Ben Simmons,FOUL_ON_FLOOR,None,5:02,1,76ers,Thunder,23 - 13,1,N/A,N/A,N/A
+62,Paul George,FT,None,5:02,1,Thunder,76ers,24 - 13,0,N/A,1,N/A
+63,Paul George,FT,None,5:02,1,Thunder,76ers,25 - 13,0,N/A,1,N/A
+64,Jonah Bolden,TURNOVER,None,4:48,1,76ers,Thunder,25 - 13,1,N/A,N/A,N/A
+65,Dennis Schroder,SUBSTITUTION,Ferguson Terrance,4:48,1,Thunder,76ers,25 - 13,0,N/A,N/A,N/A
+66,Russell Westbrook,FG_UNASSISTED,None,4:37,1,Thunder,76ers,27 - 13,0,3,2,Jumper
+67,Ben Simmons,FG_MISS,Jerami Grant,4:28,1,Thunder,76ers,27 - 13,1,0,2,Layup
+68,Team,DEFENSIVE_REBOUND,None,4:28,1,Thunder,76ers,27 - 13,0,N/A,N/A,N/A
+69,Russell Westbrook,FG_MISS,None,4:20,1,Thunder,76ers,27 - 13,0,16,2,Jumper
+70,Jonah Bolden,DEFENSIVE_REBOUND,None,4:17,1,76ers,Thunder,27 - 13,1,N/A,N/A,N/A
+71,Jimmy Butler,FG_ASSISTED,Jonah Bolden,3:56,1,76ers,Thunder,27 - 15,1,17,2,Jumper
+72,Joel Embiid,SUBSTITUTION,Bolden Jonah,3:43,1,76ers,Thunder,27 - 15,1,N/A,N/A,N/A
+73,Steven Adams,SUBSTITUTION,Noel Nerlens,3:43,1,Thunder,76ers,27 - 15,0,N/A,N/A,N/A
+74,Team,Unknown,None,3:43,1,Thunder,76ers,27 - 15,0,N/A,N/A,N/A
+75,Wilson Chandler,SUBSTITUTION,Shamet Landry,3:43,1,76ers,Thunder,27 - 15,1,N/A,N/A,N/A
+76,Mike Muscala,SUBSTITUTION,Butler Jimmy,3:43,1,76ers,Thunder,27 - 15,1,N/A,N/A,N/A
+77,JJ Redick,SUBSTITUTION,Simmons Ben,3:43,1,76ers,Thunder,27 - 15,1,N/A,N/A,N/A
+78,Steven Adams,TURNOVER,Mike Muscala,3:38,1,Thunder,76ers,27 - 15,0,N/A,N/A,N/A
+79,Joel Embiid,FG_MISS,None,3:32,1,76ers,Thunder,27 - 15,1,26,3,Jumper
+80,Paul George,DEFENSIVE_REBOUND,None,3:28,1,Thunder,76ers,27 - 15,0,N/A,N/A,N/A
+81,Steven Adams,FG_MISS,None,3:23,1,Thunder,76ers,27 - 15,0,7,2,Jumper
+82,Russell Westbrook,OFFENSIVE_REBOUND,None,3:19,1,Thunder,76ers,27 - 15,0,N/A,N/A,N/A
+83,Russell Westbrook,FG_MISS,None,3:19,1,Thunder,76ers,27 - 15,0,0,2,Dunk
+84,Russell Westbrook,OFFENSIVE_REBOUND,None,3:17,1,Thunder,76ers,27 - 15,0,N/A,N/A,N/A
+85,Mike Muscala,FOUL_ON_FLOOR,None,3:14,1,76ers,Thunder,27 - 15,1,N/A,N/A,N/A
+86,Jerami Grant,FT,None,3:14,1,Thunder,76ers,28 - 15,0,N/A,1,N/A
+87,Abdel Nader,SUBSTITUTION,Westbrook Russell,3:14,1,Thunder,76ers,28 - 15,0,N/A,N/A,N/A
+88,Jerami Grant,FT,None,3:14,1,Thunder,76ers,29 - 15,0,N/A,1,N/A
+89,Joel Embiid,FG_MISS,None,2:56,1,76ers,Thunder,29 - 15,1,0,2,Layup
+90,Joel Embiid,OFFENSIVE_REBOUND,None,2:55,1,76ers,Thunder,29 - 15,1,N/A,N/A,N/A
+91,Joel Embiid,FG_MISS,Jerami Grant,2:53,1,Thunder,76ers,29 - 15,1,0,2,Layup
+92,Jerami Grant,DEFENSIVE_REBOUND,None,2:50,1,Thunder,76ers,29 - 15,0,N/A,N/A,N/A
+93,Dennis Schroder,FG_UNASSISTED,None,2:46,1,Thunder,76ers,31 - 15,0,0,2,Layup
+94,Team,Unknown,None,2:45,1,76ers,Thunder,31 - 15,1,N/A,N/A,N/A
+95,Patrick Patterson,SUBSTITUTION,Grant Jerami,2:45,1,Thunder,76ers,31 - 15,0,N/A,N/A,N/A
+96,JJ Redick,FG_ASSISTED,Joel Embiid,2:29,1,76ers,Thunder,31 - 17,1,22,2,Jumper
+97,Patrick Patterson,TURNOVER,None,2:27,1,Thunder,76ers,31 - 17,0,N/A,N/A,N/A
+98,Paul George,FOUL_ON_FLOOR,None,2:26,1,Thunder,76ers,31 - 17,0,N/A,N/A,N/A
+99,Wilson Chandler,FT,None,2:26,1,76ers,Thunder,31 - 18,1,N/A,1,N/A
+100,Wilson Chandler,FT_MISS,None,2:26,1,76ers,Thunder,31 - 18,1,N/A,1,N/A
+101,Abdel Nader,DEFENSIVE_REBOUND,None,2:23,1,Thunder,76ers,31 - 18,0,N/A,N/A,N/A
+102,Dennis Schroder,FG_MISS,None,2:13,1,Thunder,76ers,31 - 18,0, ,2,Jumper
+103,Joel Embiid,DEFENSIVE_REBOUND,None,2:08,1,76ers,Thunder,31 - 18,1,N/A,N/A,N/A
+104,T.J. McConnell,TURNOVER,Paul George,2:01,1,76ers,Thunder,31 - 18,1,N/A,N/A,N/A
+105,Dennis Schroder,TURNOVER,None,1:51,1,Thunder,76ers,31 - 18,0,N/A,N/A,N/A
+106,JJ Redick,FG_ASSISTED,Mike Muscala,1:29,1,76ers,Thunder,31 - 21,1,26,3,Jumper
+107,Abdel Nader,FG_MISS,None,1:09,1,Thunder,76ers,31 - 21,0, ,2,Jumper
+108,T.J. McConnell,DEFENSIVE_REBOUND,None,1:07,1,76ers,Thunder,31 - 21,1,N/A,N/A,N/A
+109,Joel Embiid,FG_UNASSISTED,None,56.0,1,76ers,Thunder,31 - 23,1,4,2,Jumper
+110,Dennis Schroder,FG_MISS,None,37.8,1,Thunder,76ers,31 - 23,0,16,2,Jumper
+111,Wilson Chandler,DEFENSIVE_REBOUND,None,35.0,1,76ers,Thunder,31 - 23,1,N/A,N/A,N/A
+112,Abdel Nader,FOUL_ON_FLOOR,None,29.5,1,Thunder,76ers,31 - 23,0,N/A,N/A,N/A
+113,JJ Redick,FT,None,29.5,1,76ers,Thunder,31 - 24,1,N/A,1,N/A
+114,Terrance Ferguson,SUBSTITUTION,Nader Abdel,29.5,1,Thunder,76ers,31 - 24,0,N/A,N/A,N/A
+115,JJ Redick,FT,None,29.5,1,76ers,Thunder,31 - 25,1,N/A,1,N/A
+116,Steven Adams,FG_ASSISTED,Paul George,12.5,1,Thunder,76ers,33 - 25,0,0,2,Layup
+117,Joel Embiid,FG_MISS,None,0.6,1,76ers,Thunder,33 - 25,1,26,3,Jumper
+118,Patrick Patterson,DEFENSIVE_REBOUND,None,0.2,1,Thunder,76ers,33 - 25,0,N/A,N/A,N/A
+119,End of,Unknown,None,0.0,1,76ers,Thunder,33 - 25,1,N/A,N/A,N/A
+0,Landry Shamet,SUBSTITUTION,Redick JJ,12:00,2,76ers,Thunder,33 - 25,1,N/A,N/A,N/A
+1,Jimmy Butler,SUBSTITUTION,Chandler Wilson,12:00,2,76ers,Thunder,33 - 25,1,N/A,N/A,N/A
+2,Hamidou Diallo,SUBSTITUTION,George Paul,12:00,2,Thunder,76ers,33 - 25,0,N/A,N/A,N/A
+3,Mike Muscala,FG_MISS,Patrick Patterson,11:36,2,Thunder,76ers,33 - 25,1,0,2,Layup
+4,shot clock,TURNOVER,None,11:36,2,76ers,Thunder,33 - 25,1,N/A,N/A,N/A
+5,Team,OFFENSIVE_REBOUND,None,11:36,2,76ers,Thunder,33 - 25,1,N/A,N/A,N/A
+6,Steven Adams,FG_UNASSISTED,None,11:18,2,Thunder,76ers,35 - 25,0,1,2,Jumper
+7,Joel Embiid,FG_UNASSISTED,None,10:58,2,76ers,Thunder,35 - 27,1,0,2,Layup
+8,Steven Adams,FG_ASSISTED,Dennis Schroder,10:47,2,Thunder,76ers,37 - 27,0,0,2,Dunk
+9,Landry Shamet,FG_ASSISTED,T.J. McConnell,10:31,2,76ers,Thunder,37 - 30,1,25,3,Jumper
+10,Steven Adams,FG_MISS,None,10:05,2,Thunder,76ers,37 - 30,0,10,2,Jumper
+11,Joel Embiid,DEFENSIVE_REBOUND,None,10:02,2,76ers,Thunder,37 - 30,1,N/A,N/A,N/A
+12,Mike Muscala,FG_MISS,None,9:50,2,76ers,Thunder,37 - 30,1,27,3,Jumper
+13,Terrance Ferguson,DEFENSIVE_REBOUND,None,9:48,2,Thunder,76ers,37 - 30,0,N/A,N/A,N/A
+14,Terrance Ferguson,FG_MISS,None,9:43,2,Thunder,76ers,37 - 30,0,27,3,Jumper
+15,T.J. McConnell,DEFENSIVE_REBOUND,None,9:40,2,76ers,Thunder,37 - 30,1,N/A,N/A,N/A
+16,Landry Shamet,FG_ASSISTED,T.J. McConnell,9:34,2,76ers,Thunder,37 - 33,1,22,3,Jumper
+17,Hamidou Diallo,FG_MISS,None,9:16,2,Thunder,76ers,37 - 33,0,16,2,Jumper
+18,Team,DEFENSIVE_REBOUND,None,9:14,2,76ers,Thunder,37 - 33,1,N/A,N/A,N/A
+19,Ben Simmons,SUBSTITUTION,McConnell T.J.,9:14,2,76ers,Thunder,37 - 33,1,N/A,N/A,N/A
+20,Russell Westbrook,SUBSTITUTION,Ferguson Terrance,9:14,2,Thunder,76ers,37 - 33,0,N/A,N/A,N/A
+21,Jimmy Butler,FG_MISS,None,8:57,2,76ers,Thunder,37 - 33,1,11,2,Jumper
+22,Ben Simmons,OFFENSIVE_REBOUND,None,8:48,2,76ers,Thunder,37 - 33,1,N/A,N/A,N/A
+23,Ben Simmons,FG_UNASSISTED,None,8:48,2,76ers,Thunder,37 - 35,1, ,2,Jumper
+24,Dennis Schroder,FG_UNASSISTED,None,8:45,2,Thunder,76ers,40 - 35,0,26,3,Jumper
+25,Landry Shamet,FG_ASSISTED,Ben Simmons,8:36,2,76ers,Thunder,40 - 38,1,26,3,Jumper
+26,Mike Muscala,FOUL_ON_FLOOR,None,8:18,2,76ers,Thunder,40 - 38,1,N/A,N/A,N/A
+27,Dennis Schroder,FT,None,8:18,2,Thunder,76ers,41 - 38,0,N/A,1,N/A
+28,Wilson Chandler,SUBSTITUTION,Muscala Mike,8:18,2,76ers,Thunder,41 - 38,1,N/A,N/A,N/A
+29,Dennis Schroder,FT,None,8:18,2,Thunder,76ers,42 - 38,0,N/A,1,N/A
+30,Joel Embiid,FG_ASSISTED,Ben Simmons,8:13,2,76ers,Thunder,42 - 40,1,11,2,Jumper
+31,Steven Adams,FOUL_ON_FLOOR,None,8:13,2,Thunder,76ers,42 - 40,0,N/A,N/A,N/A
+32,Joel Embiid,FT,None,8:13,2,76ers,Thunder,42 - 41,1,N/A,1,N/A
+33,Dennis Schroder,FG_ASSISTED,Russell Westbrook,8:02,2,Thunder,76ers,44 - 41,0,14,2,Jumper
+34,Jimmy Butler,FG_MISS,Steven Adams,7:48,2,Thunder,76ers,44 - 41,1,9,2,Jumper
+35,Jimmy Butler,OFFENSIVE_REBOUND,None,7:45,2,76ers,Thunder,44 - 41,1,N/A,N/A,N/A
+36,Hamidou Diallo,FOUL_ON_FLOOR,None,7:40,2,Thunder,76ers,44 - 41,0,N/A,N/A,N/A
+37,Jimmy Butler,FT,None,7:40,2,76ers,Thunder,44 - 42,1,N/A,1,N/A
+38,Jimmy Butler,FT,None,7:40,2,76ers,Thunder,44 - 43,1,N/A,1,N/A
+39,JJ Redick,SUBSTITUTION,Shamet Landry,7:40,2,76ers,Thunder,44 - 43,1,N/A,N/A,N/A
+40,Terrance Ferguson,SUBSTITUTION,Diallo Hamidou,7:40,2,Thunder,76ers,44 - 43,0,N/A,N/A,N/A
+41,Jimmy Butler,FT,None,7:40,2,76ers,Thunder,44 - 44,1,N/A,1,N/A
+42,Dennis Schroder,FG_UNASSISTED,None,7:29,2,Thunder,76ers,46 - 44,0, ,2,Jumper
+43,Wilson Chandler,FOUL_ON_FLOOR,None,7:17,2,76ers,Thunder,46 - 44,1,N/A,N/A,N/A
+44,Wilson Chandler,TURNOVER,None,7:17,2,76ers,Thunder,46 - 44,1,N/A,N/A,N/A
+45,Jonah Bolden,SUBSTITUTION,Embiid Joel,7:17,2,76ers,Thunder,46 - 44,1,N/A,N/A,N/A
+46,Paul George,SUBSTITUTION,Adams Steven,7:17,2,Thunder,76ers,46 - 44,0,N/A,N/A,N/A
+47,Jerami Grant,SUBSTITUTION,Patterson Patrick,7:17,2,Thunder,76ers,46 - 44,0,N/A,N/A,N/A
+48,Nerlens Noel,SUBSTITUTION,Ferguson Terrance,7:17,2,Thunder,76ers,46 - 44,0,N/A,N/A,N/A
+49,Dennis Schroder,FG_UNASSISTED,None,7:05,2,Thunder,76ers,48 - 44,0,8,2,Jumper
+50,Team,Unknown,None,7:05,2,76ers,Thunder,48 - 44,1,N/A,N/A,N/A
+51,Jimmy Butler,FG_MISS,None,6:52,2,76ers,Thunder,48 - 44,1,25,3,Jumper
+52,Jerami Grant,DEFENSIVE_REBOUND,None,6:45,2,Thunder,76ers,48 - 44,0,N/A,N/A,N/A
+53,Russell Westbrook,FG_MISS,None,6:41,2,Thunder,76ers,48 - 44,0,15,2,Jumper
+54,Jimmy Butler,DEFENSIVE_REBOUND,None,6:37,2,76ers,Thunder,48 - 44,1,N/A,N/A,N/A
+55,Jonah Bolden,FG_MISS,None,6:33,2,76ers,Thunder,48 - 44,1,26,3,Jumper
+56,Jerami Grant,DEFENSIVE_REBOUND,None,6:29,2,Thunder,76ers,48 - 44,0,N/A,N/A,N/A
+57,Jerami Grant,FG_MISS,None,6:15,2,Thunder,76ers,48 - 44,0,24,3,Jumper
+58,Team,DEFENSIVE_REBOUND,None,6:12,2,76ers,Thunder,48 - 44,1,N/A,N/A,N/A
+59,Jonah Bolden,FG_ASSISTED,JJ Redick,5:59,2,76ers,Thunder,48 - 47,1,25,3,Jumper
+60,Dennis Schroder,FG_MISS,Jonah Bolden,5:42,2,76ers,Thunder,48 - 47,0,7,2,Jumper
+61,Team,OFFENSIVE_REBOUND,None,5:42,2,Thunder,76ers,48 - 47,0,N/A,N/A,N/A
+62,Team,Unknown,None,5:42,2,Thunder,76ers,48 - 47,0,N/A,N/A,N/A
+63,Paul George,FG_MISS,None,5:38,2,Thunder,76ers,48 - 47,0,24,3,Jumper
+64,Ben Simmons,DEFENSIVE_REBOUND,None,5:32,2,76ers,Thunder,48 - 47,1,N/A,N/A,N/A
+65,JJ Redick,TURNOVER,Nerlens Noel,5:18,2,76ers,Thunder,48 - 47,1,N/A,N/A,N/A
+66,Dennis Schroder,FG_ASSISTED,Paul George,5:05,2,Thunder,76ers,51 - 47,0,23,3,Jumper
+67,Jimmy Butler,FG_MISS,None,4:47,2,76ers,Thunder,51 - 47,1,20,2,Jumper
+68,Ben Simmons,OFFENSIVE_REBOUND,None,4:44,2,76ers,Thunder,51 - 47,1,N/A,N/A,N/A
+69,Jimmy Butler,FG_MISS,None,4:42,2,76ers,Thunder,51 - 47,1,27,3,Jumper
+70,Dennis Schroder,DEFENSIVE_REBOUND,None,4:38,2,Thunder,76ers,51 - 47,0,N/A,N/A,N/A
+71,Jerami Grant,FG_MISS,Jimmy Butler,4:28,2,76ers,Thunder,51 - 47,0,0,2,Layup
+72,Wilson Chandler,DEFENSIVE_REBOUND,None,4:23,2,76ers,Thunder,51 - 47,1,N/A,N/A,N/A
+73,JJ Redick,FG_MISS,None,4:21,2,76ers,Thunder,51 - 47,1, ,3,Jumper
+74,Ben Simmons,OFFENSIVE_REBOUND,None,4:14,2,76ers,Thunder,51 - 47,1,N/A,N/A,N/A
+75,Ben Simmons,FG_MISS,None,4:14,2,76ers,Thunder,51 - 47,1, ,2,Jumper
+76,Jonah Bolden,OFFENSIVE_REBOUND,None,4:13,2,76ers,Thunder,51 - 47,1,N/A,N/A,N/A
+77,Ben Simmons,TURNOVER,Nerlens Noel,4:09,2,76ers,Thunder,51 - 47,1,N/A,N/A,N/A
+78,Nerlens Noel,FG_ASSISTED,Dennis Schroder,3:59,2,Thunder,76ers,53 - 47,0,0,2,Dunk
+79,JJ Redick,FG_MISS,None,3:37,2,76ers,Thunder,53 - 47,1,26,3,Jumper
+80,Paul George,DEFENSIVE_REBOUND,None,3:35,2,Thunder,76ers,53 - 47,0,N/A,N/A,N/A
+81,Paul George,FG_MISS,None,3:26,2,Thunder,76ers,53 - 47,0,0,2,Layup
+82,Nerlens Noel,OFFENSIVE_REBOUND,None,3:25,2,Thunder,76ers,53 - 47,0,N/A,N/A,N/A
+83,Russell Westbrook,FG_MISS,None,3:24,2,Thunder,76ers,53 - 47,0,27,3,Jumper
+84,Ben Simmons,DEFENSIVE_REBOUND,None,3:21,2,76ers,Thunder,53 - 47,1,N/A,N/A,N/A
+85,Ben Simmons,TURNOVER,Jerami Grant,3:18,2,76ers,Thunder,53 - 47,1,N/A,N/A,N/A
+86,Paul George,FG_ASSISTED,Jerami Grant,3:13,2,Thunder,76ers,55 - 47,0,0,2,Dunk
+87,Jimmy Butler,FG_MISS,None,2:46,2,76ers,Thunder,55 - 47,1, ,2,Jumper
+88,Dennis Schroder,DEFENSIVE_REBOUND,None,2:44,2,Thunder,76ers,55 - 47,0,N/A,N/A,N/A
+89,Dennis Schroder,FG_MISS,None,2:40,2,Thunder,76ers,55 - 47,0, ,2,Jumper
+90,Wilson Chandler,DEFENSIVE_REBOUND,None,2:36,2,76ers,Thunder,55 - 47,1,N/A,N/A,N/A
+91,JJ Redick,FG_MISS,None,2:24,2,76ers,Thunder,55 - 47,1,26,3,Jumper
+92,Ben Simmons,OFFENSIVE_REBOUND,None,2:20,2,76ers,Thunder,55 - 47,1,N/A,N/A,N/A
+93,Jerami Grant,FOUL_ON_FLOOR,None,2:11,2,Thunder,76ers,55 - 47,0,N/A,N/A,N/A
+94,Jimmy Butler,FT,None,2:11,2,76ers,Thunder,55 - 48,1,N/A,1,N/A
+95,Joel Embiid,SUBSTITUTION,Bolden Jonah,2:11,2,76ers,Thunder,55 - 48,1,N/A,N/A,N/A
+96,Steven Adams,SUBSTITUTION,Schroder Dennis,2:11,2,Thunder,76ers,55 - 48,0,N/A,N/A,N/A
+97,Terrance Ferguson,SUBSTITUTION,Noel Nerlens,2:11,2,Thunder,76ers,55 - 48,0,N/A,N/A,N/A
+98,Paul George,FOUL_TECHNICAL,None,2:11,2,Thunder,76ers,55 - 48,0,N/A,N/A,N/A
+99,JJ Redick,FT_MISS,None,2:11,2,76ers,Thunder,55 - 48,1,N/A,1,N/A
+100,Team,OFFENSIVE_REBOUND,None,2:11,2,76ers,Thunder,55 - 48,1,N/A,N/A,N/A
+101,Jimmy Butler,FT_MISS,None,2:11,2,76ers,Thunder,55 - 48,1,N/A,1,N/A
+102,Russell Westbrook,DEFENSIVE_REBOUND,None,2:09,2,Thunder,76ers,55 - 48,0,N/A,N/A,N/A
+103,Jerami Grant,FG_MISS,None,1:56,2,Thunder,76ers,55 - 48,0,23,3,Jumper
+104,Joel Embiid,DEFENSIVE_REBOUND,None,1:52,2,76ers,Thunder,55 - 48,1,N/A,N/A,N/A
+105,Joel Embiid,FG_MISS,None,1:43,2,76ers,Thunder,55 - 48,1,26,3,Jumper
+106,Ben Simmons,OFFENSIVE_REBOUND,None,1:36,2,76ers,Thunder,55 - 48,1,N/A,N/A,N/A
+107,Ben Simmons,FG_UNASSISTED,None,1:36,2,76ers,Thunder,55 - 50,1,0,2,Dunk
+108,Paul George,FG_UNASSISTED,None,1:26,2,Thunder,76ers,57 - 50,0,0,2,Layup
+109,Wilson Chandler,FG_ASSISTED,Ben Simmons,1:17,2,76ers,Thunder,57 - 53,1,27,3,Jumper
+110,Joel Embiid,FOUL_ON_FLOOR,None,1:00,2,76ers,Thunder,57 - 53,1,N/A,N/A,N/A
+111,Paul George,FT,None,1:00,2,Thunder,76ers,58 - 53,0,N/A,1,N/A
+112,Mike Muscala,SUBSTITUTION,Butler Jimmy,1:00,2,76ers,Thunder,58 - 53,1,N/A,N/A,N/A
+113,Paul George,FT,None,1:00,2,Thunder,76ers,59 - 53,0,N/A,1,N/A
+114,JJ Redick,FG_MISS,None,48.2,2,76ers,Thunder,59 - 53,1,26,3,Jumper
+115,Steven Adams,DEFENSIVE_REBOUND,None,44.4,2,Thunder,76ers,59 - 53,0,N/A,N/A,N/A
+116,Russell Westbrook,TURNOVER,None,39.7,2,Thunder,76ers,59 - 53,0,N/A,N/A,N/A
+117,Mike Muscala,TURNOVER,None,35.1,2,76ers,Thunder,59 - 53,1,N/A,N/A,N/A
+118,Russell Westbrook,FG_MISS,None,31.1,2,Thunder,76ers,59 - 53,0, ,2,Jumper
+119,Joel Embiid,DEFENSIVE_REBOUND,None,27.6,2,76ers,Thunder,59 - 53,1,N/A,N/A,N/A
+120,JJ Redick,FG_ASSISTED,Joel Embiid,9.3,2,76ers,Thunder,59 - 56,1,26,3,Jumper
+121,Russell Westbrook,FG_MISS,Ben Simmons,0.2,2,76ers,Thunder,59 - 56,0,25,3,Jumper
+122,Ben Simmons,DEFENSIVE_REBOUND,None,0.2,2,76ers,Thunder,59 - 56,1,N/A,N/A,N/A
+123,End of,Unknown,None,0.0,2,76ers,Thunder,59 - 56,1,N/A,N/A,N/A
+0,Jimmy Butler,SUBSTITUTION,Muscala Mike,12:00,3,76ers,Thunder,59 - 56,1,N/A,N/A,N/A
+1,Jimmy Butler,FG_MISS,None,11:35,3,76ers,Thunder,59 - 56,1,23,2,Jumper
+2,Jerami Grant,DEFENSIVE_REBOUND,None,11:32,3,Thunder,76ers,59 - 56,0,N/A,N/A,N/A
+3,Paul George,FG_MISS,None,11:24,3,Thunder,76ers,59 - 56,0,26,3,Jumper
+4,Ben Simmons,DEFENSIVE_REBOUND,None,11:21,3,76ers,Thunder,59 - 56,1,N/A,N/A,N/A
+5,Wilson Chandler,FG_MISS,None,11:08,3,76ers,Thunder,59 - 56,1,27,3,Jumper
+6,Jerami Grant,DEFENSIVE_REBOUND,None,11:05,3,Thunder,76ers,59 - 56,0,N/A,N/A,N/A
+7,Russell Westbrook,FG_ASSISTED,Terrance Ferguson,10:56,3,Thunder,76ers,62 - 56,0,23,3,Jumper
+8,Terrance Ferguson,FOUL_ON_FLOOR,None,10:37,3,Thunder,76ers,62 - 56,0,N/A,N/A,N/A
+9,Terrance Ferguson,FOUL_TECHNICAL,None,10:37,3,Thunder,76ers,62 - 56,0,N/A,N/A,N/A
+10,JJ Redick,FT,None,10:37,3,76ers,Thunder,62 - 57,1,N/A,1,N/A
+11,Joel Embiid,FG_ASSISTED,Ben Simmons,10:27,3,76ers,Thunder,62 - 59,1,0,2,Dunk
+12,Paul George's,FG_MISS,Wilson Chandler,10:15,3,76ers,Thunder,62 - 59,0, ,2,Jumper
+13,Wilson Chandler,DEFENSIVE_REBOUND,None,10:11,3,76ers,Thunder,62 - 59,1,N/A,N/A,N/A
+14,Joel Embiid,FG_MISS,Steven Adams,9:56,3,Thunder,76ers,62 - 59,1,11,2,Jumper
+15,Joel Embiid,OFFENSIVE_REBOUND,None,9:54,3,76ers,Thunder,62 - 59,1,N/A,N/A,N/A
+16,Ben Simmons,FG_ASSISTED,Joel Embiid,9:54,3,76ers,Thunder,62 - 61,1,0,2,Layup
+17,Russell Westbrook,FOUL_ON_FLOOR,None,9:54,3,Thunder,76ers,62 - 61,0,N/A,N/A,N/A
+18,Russell Westbrook,Unknown,None,9:54,3,Thunder,76ers,62 - 61,0,N/A,N/A,N/A
+19,Ben Simmons,FT_MISS,None,9:54,3,76ers,Thunder,62 - 61,1,N/A,1,N/A
+20,Russell Westbrook,DEFENSIVE_REBOUND,None,9:53,3,Thunder,76ers,62 - 61,0,N/A,N/A,N/A
+21,Terrance Ferguson,FG_MISS,None,9:45,3,Thunder,76ers,62 - 61,0,24,3,Jumper
+22,Wilson Chandler,DEFENSIVE_REBOUND,None,9:42,3,76ers,Thunder,62 - 61,1,N/A,N/A,N/A
+23,Team,Unknown,None,9:28,3,76ers,Thunder,62 - 61,1,N/A,N/A,N/A
+24,Jimmy Butler,FG_ASSISTED,Ben Simmons,9:26,3,76ers,Thunder,62 - 63,1,0,2,Dunk
+25,Paul George,FG_MISS,None,9:10,3,Thunder,76ers,62 - 63,0,23,3,Jumper
+26,Team,DEFENSIVE_REBOUND,None,9:07,3,76ers,Thunder,62 - 63,1,N/A,N/A,N/A
+27,Ben Simmons,TURNOVER,Jerami Grant,8:49,3,76ers,Thunder,62 - 63,1,N/A,N/A,N/A
+28,Paul George's,FG_MISS,Joel Embiid,8:42,3,76ers,Thunder,62 - 63,0,0,2,Layup
+29,Steven Adams,JUMP_BALL,None,8:37,3,Thunder,76ers,62 - 63,0,N/A,N/A,N/A
+30,Team,OFFENSIVE_REBOUND,None,8:37,3,Thunder,76ers,62 - 63,0,N/A,N/A,N/A
+31,Russell Westbrook,FG_MISS,None,8:32,3,Thunder,76ers,62 - 63,0,15,2,Jumper
+32,Ben Simmons,DEFENSIVE_REBOUND,None,8:27,3,76ers,Thunder,62 - 63,1,N/A,N/A,N/A
+33,Joel Embiid,TURNOVER,Steven Adams,8:15,3,76ers,Thunder,62 - 63,1,N/A,N/A,N/A
+34,Russell Westbrook,TURNOVER,Wilson Chandler,8:04,3,Thunder,76ers,62 - 63,0,N/A,N/A,N/A
+35,Jimmy Butler,FG_MISS,None,7:46,3,76ers,Thunder,62 - 63,1,11,2,Jumper
+36,Jerami Grant,DEFENSIVE_REBOUND,None,7:44,3,Thunder,76ers,62 - 63,0,N/A,N/A,N/A
+37,Terrance Ferguson,FG_ASSISTED,Russell Westbrook,7:41,3,Thunder,76ers,65 - 63,0,23,3,Jumper
+38,Terrance Ferguson,FOUL_ON_FLOOR,None,7:25,3,Thunder,76ers,65 - 63,0,N/A,N/A,N/A
+39,Joel Embiid,FG_ASSISTED,Jimmy Butler,7:12,3,76ers,Thunder,65 - 65,1,0,2,Dunk
+40,Ben Simmons,FOUL_ON_FLOOR,None,7:04,3,76ers,Thunder,65 - 65,1,N/A,N/A,N/A
+41,Russell Westbrook,FT_MISS,None,7:04,3,Thunder,76ers,65 - 65,0,N/A,1,N/A
+42,Team,OFFENSIVE_REBOUND,None,7:04,3,Thunder,76ers,65 - 65,0,N/A,N/A,N/A
+43,Landry Shamet,SUBSTITUTION,Redick JJ,7:04,3,76ers,Thunder,65 - 65,1,N/A,N/A,N/A
+44,T.J. McConnell,SUBSTITUTION,Embiid Joel,7:04,3,76ers,Thunder,65 - 65,1,N/A,N/A,N/A
+45,Jonah Bolden,SUBSTITUTION,Chandler Wilson,7:04,3,76ers,Thunder,65 - 65,1,N/A,N/A,N/A
+46,Nerlens Noel,SUBSTITUTION,Adams Steven,7:04,3,Thunder,76ers,65 - 65,0,N/A,N/A,N/A
+47,Russell Westbrook,FT,None,7:04,3,Thunder,76ers,66 - 65,0,N/A,1,N/A
+48,T.J. McConnell,FG_ASSISTED,Ben Simmons,6:41,3,76ers,Thunder,66 - 67,1,15,2,Jumper
+49,Paul George,FG_UNASSISTED,None,6:24,3,Thunder,76ers,69 - 67,0,27,2,Jumper
+50,Landry Shamet,TURNOVER,None,6:09,3,76ers,Thunder,69 - 67,1,N/A,N/A,N/A
+51,Russell Westbrook,FG_UNASSISTED,None,5:55,3,Thunder,76ers,71 - 67,0,0,2,Layup
+52,T.J. McConnell,FG_MISS,None,5:34,3,76ers,Thunder,71 - 67,1,6,2,Jumper
+53,Paul George,DEFENSIVE_REBOUND,None,5:34,3,Thunder,76ers,71 - 67,0,N/A,N/A,N/A
+54,Russell Westbrook,FG_UNASSISTED,None,5:27,3,Thunder,76ers,73 - 67,0, ,2,Jumper
+55,T.J. McConnell,FOUL_ON_FLOOR,None,5:27,3,76ers,Thunder,73 - 67,1,N/A,N/A,N/A
+56,Dennis Schroder,SUBSTITUTION,Ferguson Terrance,5:27,3,Thunder,76ers,73 - 67,0,N/A,N/A,N/A
+57,Russell Westbrook,FT_MISS,None,5:27,3,Thunder,76ers,73 - 67,0,N/A,1,N/A
+58,Ben Simmons,DEFENSIVE_REBOUND,None,5:24,3,76ers,Thunder,73 - 67,1,N/A,N/A,N/A
+59,Jimmy Butler,FG_MISS,None,5:06,3,76ers,Thunder,73 - 67,1,4,2,Jumper
+60,Team,OFFENSIVE_REBOUND,None,5:05,3,76ers,Thunder,73 - 67,1,N/A,N/A,N/A
+61,Nerlens Noel,FOUL_ON_FLOOR,None,5:05,3,Thunder,76ers,73 - 67,0,N/A,N/A,N/A
+62,shot clock,TURNOVER,None,4:50,3,76ers,Thunder,73 - 67,1,N/A,N/A,N/A
+63,Jonah Bolden,FOUL_ON_FLOOR,None,4:40,3,76ers,Thunder,73 - 67,1,N/A,N/A,N/A
+64,Jerami Grant,FT,None,4:40,3,Thunder,76ers,74 - 67,0,N/A,1,N/A
+65,Jerami Grant,FT,None,4:40,3,Thunder,76ers,75 - 67,0,N/A,1,N/A
+66,Ben Simmons,FG_ASSISTED,Jimmy Butler,4:30,3,76ers,Thunder,75 - 69,1,0,2,Layup
+67,Paul George,FT,None,4:19,3,Thunder,76ers,76 - 69,0,N/A,1,N/A
+68,Paul George,FT,None,4:19,3,Thunder,76ers,77 - 69,0,N/A,1,N/A
+69,Jonah Bolden,FOUL_ON_FLOOR,None,4:19,3,76ers,Thunder,77 - 69,1,N/A,N/A,N/A
+70,Ben Simmons,FG_ASSISTED,T.J. McConnell,4:08,3,76ers,Thunder,77 - 71,1,0,2,Dunk
+71,Dennis Schroder,FG_MISS,None,3:50,3,Thunder,76ers,77 - 71,0, ,2,Jumper
+72,Jonah Bolden,DEFENSIVE_REBOUND,None,3:50,3,76ers,Thunder,77 - 71,1,N/A,N/A,N/A
+73,Dennis Schroder,FG_MISS,Jimmy Butler,3:23,3,76ers,Thunder,77 - 71,0,0,2,Layup
+74,Jonah Bolden,DEFENSIVE_REBOUND,None,3:15,3,76ers,Thunder,77 - 71,1,N/A,N/A,N/A
+75,Jimmy Butler,FG_MISS,None,3:14,3,76ers,Thunder,77 - 71,1,0,2,Layup
+76,Nerlens Noel,FG_ASSISTED,Paul George,3:10,3,Thunder,76ers,79 - 71,0,0,2,Layup
+77,Paul George,DEFENSIVE_REBOUND,None,2:49,3,Thunder,76ers,79 - 71,0,N/A,N/A,N/A
+78,Jimmy Butler,FG_MISS,None,2:45,3,76ers,Thunder,79 - 71,1,0,2,Layup
+79,Dennis Schroder,DEFENSIVE_REBOUND,None,2:45,3,Thunder,76ers,79 - 71,0,N/A,N/A,N/A
+80,Team,Unknown,None,2:37,3,76ers,Thunder,79 - 71,1,N/A,N/A,N/A
+81,JJ Redick,SUBSTITUTION,Shamet Landry,2:37,3,76ers,Thunder,79 - 71,1,N/A,N/A,N/A
+82,Joel Embiid,SUBSTITUTION,Butler Jimmy,2:37,3,76ers,Thunder,79 - 71,1,N/A,N/A,N/A
+83,Wilson Chandler,SUBSTITUTION,Simmons Ben,2:37,3,76ers,Thunder,79 - 71,1,N/A,N/A,N/A
+84,Mike Muscala,SUBSTITUTION,Bolden Jonah,2:37,3,76ers,Thunder,79 - 71,1,N/A,N/A,N/A
+85,Abdel Nader,SUBSTITUTION,Westbrook Russell,2:37,3,Thunder,76ers,79 - 71,0,N/A,N/A,N/A
+86,Steven Adams,SUBSTITUTION,Noel Nerlens,2:37,3,Thunder,76ers,79 - 71,0,N/A,N/A,N/A
+87,Jerami Grant,FT,None,2:37,3,Thunder,76ers,80 - 71,0,N/A,1,N/A
+88,Jerami Grant,FT,None,2:37,3,Thunder,76ers,81 - 71,0,N/A,1,N/A
+89,Landry Shamet,FOUL_ON_FLOOR,None,2:37,3,76ers,Thunder,81 - 71,1,N/A,N/A,N/A
+90,JJ Redick,FG_MISS,None,2:21,3,76ers,Thunder,81 - 71,1,26,3,Jumper
+91,Dennis Schroder,DEFENSIVE_REBOUND,None,2:16,3,Thunder,76ers,81 - 71,0,N/A,N/A,N/A
+92,Abdel Nader,FG_ASSISTED,Paul George,2:09,3,Thunder,76ers,84 - 71,0,23,3,Jumper
+93,JJ Redick,FG_MISS,None,1:55,3,76ers,Thunder,84 - 71,1,27,3,Jumper
+94,Jerami Grant,DEFENSIVE_REBOUND,None,1:50,3,Thunder,76ers,84 - 71,0,N/A,N/A,N/A
+95,Paul George,FG_MISS,None,1:43,3,Thunder,76ers,84 - 71,0, ,2,Jumper
+96,Steven Adams,OFFENSIVE_REBOUND,None,1:37,3,Thunder,76ers,84 - 71,0,N/A,N/A,N/A
+97,Steven Adams,FG_MISS,None,1:37,3,Thunder,76ers,84 - 71,0, ,2,Jumper
+98,Steven Adams,OFFENSIVE_REBOUND,None,1:37,3,Thunder,76ers,84 - 71,0,N/A,N/A,N/A
+99,Steven Adams,FG_MISS,None,1:35,3,Thunder,76ers,84 - 71,0, ,2,Jumper
+100,T.J. McConnell,DEFENSIVE_REBOUND,None,1:35,3,76ers,Thunder,84 - 71,1,N/A,N/A,N/A
+101,T.J. McConnell,FG_MISS,None,1:21,3,76ers,Thunder,84 - 71,1,13,2,Jumper
+102,T.J. McConnell,OFFENSIVE_REBOUND,None,1:21,3,76ers,Thunder,84 - 71,1,N/A,N/A,N/A
+103,Abdel Nader,FOUL_ON_FLOOR,None,1:21,3,Thunder,76ers,84 - 71,0,N/A,N/A,N/A
+104,Mike Muscala,FT,None,1:21,3,76ers,Thunder,84 - 72,1,N/A,1,N/A
+105,Patrick Patterson,SUBSTITUTION,Grant Jerami,1:21,3,Thunder,76ers,84 - 72,0,N/A,N/A,N/A
+106,Mike Muscala,FT,None,1:21,3,76ers,Thunder,84 - 73,1,N/A,1,N/A
+107,Steven Adams,FG_UNASSISTED,None,1:07,3,Thunder,76ers,86 - 73,0,0,2,Dunk
+108,Joel Embiid,FG_UNASSISTED,None,47.5,3,76ers,Thunder,86 - 75,1,10,2,Jumper
+109,Dennis Schroder,FG_MISS,None,35.3,3,Thunder,76ers,86 - 75,0, ,2,Jumper
+110,T.J. McConnell,DEFENSIVE_REBOUND,None,33.2,3,76ers,Thunder,86 - 75,1,N/A,N/A,N/A
+111,Joel Embiid,FG_ASSISTED,T.J. McConnell,28.7,3,76ers,Thunder,86 - 78,1,26,3,Jumper
+112,Wilson Chandler,FOUL_ON_FLOOR,None,10.6,3,76ers,Thunder,86 - 78,1,N/A,N/A,N/A
+113,Paul George,FT,None,10.6,3,Thunder,76ers,87 - 78,0,N/A,1,N/A
+114,Paul George,FT,None,10.6,3,Thunder,76ers,88 - 78,0,N/A,1,N/A
+115,Steven Adams,FOUL_ON_FLOOR,None,4.9,3,Thunder,76ers,88 - 78,0,N/A,N/A,N/A
+116,Joel Embiid,FT,None,4.9,3,76ers,Thunder,88 - 79,1,N/A,1,N/A
+117,Joel Embiid,FT_MISS,None,4.9,3,76ers,Thunder,88 - 79,1,N/A,1,N/A
+118,Steven Adams,DEFENSIVE_REBOUND,None,3.3,3,Thunder,76ers,88 - 79,0,N/A,N/A,N/A
+119,Steven Adams,TURNOVER,T.J. McConnell,1.0,3,Thunder,76ers,88 - 79,0,N/A,N/A,N/A
+120,End of,Unknown,None,0.0,3,76ers,Thunder,88 - 79,1,N/A,N/A,N/A
+0,Paul George,FG_MISS,None,11:45,4,Thunder,76ers,88 - 79,0,0,2,Layup
+1,Team,DEFENSIVE_REBOUND,None,11:42,4,76ers,Thunder,88 - 79,1,N/A,N/A,N/A
+2,Joel Embiid,FG_ASSISTED,T.J. McConnell,11:27,4,76ers,Thunder,88 - 81,1,0,2,Dunk
+3,Patrick Patterson,FG_MISS,None,10:55,4,Thunder,76ers,88 - 81,0,6,2,Jumper
+4,Steven Adams,OFFENSIVE_REBOUND,None,10:53,4,Thunder,76ers,88 - 81,0,N/A,N/A,N/A
+5,Steven Adams,FG_UNASSISTED,None,10:52,4,Thunder,76ers,90 - 81,0,4,2,Jumper
+6,Abdel Nader,FOUL_ON_FLOOR,None,10:38,4,Thunder,76ers,90 - 81,0,N/A,N/A,N/A
+7,Joel Embiid,FT_MISS,None,10:38,4,76ers,Thunder,90 - 81,1,N/A,1,N/A
+8,Team,OFFENSIVE_REBOUND,None,10:38,4,76ers,Thunder,90 - 81,1,N/A,N/A,N/A
+9,Joel Embiid,FT_MISS,None,10:38,4,76ers,Thunder,90 - 81,1,N/A,1,N/A
+10,Paul George,DEFENSIVE_REBOUND,None,10:37,4,Thunder,76ers,90 - 81,0,N/A,N/A,N/A
+11,Mike Muscala,FOUL_ON_FLOOR,None,10:27,4,76ers,Thunder,90 - 81,1,N/A,N/A,N/A
+12,Dennis Schroder,FG_MISS,None,10:15,4,Thunder,76ers,90 - 81,0,17,2,Jumper
+13,Mike Muscala,DEFENSIVE_REBOUND,None,10:12,4,76ers,Thunder,90 - 81,1,N/A,N/A,N/A
+14,Joel Embiid,FG_MISS,None,9:59,4,76ers,Thunder,90 - 81,1,4,2,Jumper
+15,Abdel Nader,DEFENSIVE_REBOUND,None,9:59,4,Thunder,76ers,90 - 81,0,N/A,N/A,N/A
+16,Dennis Schroder,FG_UNASSISTED,None,9:43,4,Thunder,76ers,92 - 81,0,0,2,Layup
+17,Team,Unknown,None,9:43,4,76ers,Thunder,92 - 81,1,N/A,N/A,N/A
+18,Russell Westbrook,SUBSTITUTION,George Paul,9:43,4,Thunder,76ers,92 - 81,0,N/A,N/A,N/A
+19,Russell Westbrook,FOUL_ON_FLOOR,None,9:29,4,Thunder,76ers,92 - 81,0,N/A,N/A,N/A
+20,Ben Simmons,SUBSTITUTION,McConnell T.J.,9:29,4,76ers,Thunder,92 - 81,1,N/A,N/A,N/A
+21,Jimmy Butler,SUBSTITUTION,Chandler Wilson,9:29,4,76ers,Thunder,92 - 81,1,N/A,N/A,N/A
+22,Terrance Ferguson,SUBSTITUTION,Nader Abdel,9:29,4,Thunder,76ers,92 - 81,0,N/A,N/A,N/A
+23,Mike Muscala,FG_MISS,None,9:19,4,76ers,Thunder,92 - 81,1,26,3,Jumper
+24,Ben Simmons,OFFENSIVE_REBOUND,None,9:16,4,76ers,Thunder,92 - 81,1,N/A,N/A,N/A
+25,Mike Muscala,FG_ASSISTED,Joel Embiid,9:05,4,76ers,Thunder,92 - 83,1,13,2,Jumper
+26,Dennis Schroder,FG_MISS,None,8:43,4,Thunder,76ers,92 - 83,0,18,2,Jumper
+27,Ben Simmons,DEFENSIVE_REBOUND,None,8:41,4,76ers,Thunder,92 - 83,1,N/A,N/A,N/A
+28,JJ Redick,FG_ASSISTED,Ben Simmons,8:36,4,76ers,Thunder,92 - 86,1,25,2,Jumper
+29,Dennis Schroder,FG_ASSISTED,Patrick Patterson,8:14,4,Thunder,76ers,95 - 86,0,26,3,Jumper
+30,Dennis Schroder,FOUL_ON_FLOOR,None,7:58,4,Thunder,76ers,95 - 86,0,N/A,N/A,N/A
+31,JJ Redick,FT,None,7:58,4,76ers,Thunder,95 - 87,1,N/A,1,N/A
+32,JJ Redick,FT,None,7:58,4,76ers,Thunder,95 - 88,1,N/A,1,N/A
+33,JJ Redick,FT,None,7:58,4,76ers,Thunder,95 - 89,1,N/A,1,N/A
+34,Patrick Patterson,FG_MISS,None,7:44,4,Thunder,76ers,95 - 89,0,27,3,Jumper
+35,Joel Embiid,DEFENSIVE_REBOUND,None,7:41,4,76ers,Thunder,95 - 89,1,N/A,N/A,N/A
+36,Joel Embiid,FG_ASSISTED,Jimmy Butler,7:18,4,76ers,Thunder,95 - 91,1,4,2,Jumper
+37,Dennis Schroder,FG_MISS,None,7:03,4,Thunder,76ers,95 - 91,0,26,3,Jumper
+38,JJ Redick,DEFENSIVE_REBOUND,None,7:01,4,76ers,Thunder,95 - 91,1,N/A,N/A,N/A
+39,JJ Redick,FG_ASSISTED,Joel Embiid,6:49,4,76ers,Thunder,95 - 93,1,2,2,Jumper
+40,Team,Unknown,None,6:49,4,Thunder,76ers,95 - 93,0,N/A,N/A,N/A
+41,Landry Shamet,SUBSTITUTION,Redick JJ,6:49,4,76ers,Thunder,95 - 93,1,N/A,N/A,N/A
+42,Wilson Chandler,SUBSTITUTION,Muscala Mike,6:49,4,76ers,Thunder,95 - 93,1,N/A,N/A,N/A
+43,Jerami Grant,SUBSTITUTION,Schroder Dennis,6:49,4,Thunder,76ers,95 - 93,0,N/A,N/A,N/A
+44,Paul George,SUBSTITUTION,Patterson Patrick,6:49,4,Thunder,76ers,95 - 93,0,N/A,N/A,N/A
+45,Russell Westbrook,TURNOVER,Jimmy Butler,6:39,4,Thunder,76ers,95 - 93,0,N/A,N/A,N/A
+46,Jerami Grant,FOUL_ON_FLOOR,None,6:30,4,Thunder,76ers,95 - 93,0,N/A,N/A,N/A
+47,Joel Embiid,FT,None,6:30,4,76ers,Thunder,95 - 94,1,N/A,1,N/A
+48,Joel Embiid,FT,None,6:30,4,76ers,Thunder,95 - 95,1,N/A,1,N/A
+49,Russell Westbrook,FG_MISS,None,6:18,4,Thunder,76ers,95 - 95,0,0,2,Layup
+50,Landry Shamet,DEFENSIVE_REBOUND,None,6:16,4,76ers,Thunder,95 - 95,1,N/A,N/A,N/A
+51,Joel Embiid,TURNOVER,None,6:12,4,76ers,Thunder,95 - 95,1,N/A,N/A,N/A
+52,Mike Muscala,SUBSTITUTION,Embiid Joel,6:12,4,76ers,Thunder,95 - 95,1,N/A,N/A,N/A
+53,Jerami Grant,FG_MISS,None,6:02,4,Thunder,76ers,95 - 95,0,23,3,Jumper
+54,Wilson Chandler,DEFENSIVE_REBOUND,None,5:58,4,76ers,Thunder,95 - 95,1,N/A,N/A,N/A
+55,Ben Simmons,FG_ASSISTED,Jimmy Butler,5:47,4,76ers,Thunder,95 - 97,1, ,2,Jumper
+56,Russell Westbrook,FG_UNASSISTED,None,5:38,4,Thunder,76ers,97 - 97,0,5,2,Jumper
+57,Jimmy Butler,Unknown,None,5:38,4,76ers,Thunder,97 - 97,1,N/A,N/A,N/A
+58,Mike Muscala,FG_ASSISTED,Landry Shamet,5:25,4,76ers,Thunder,97 - 99,1,14,2,Jumper
+59,Paul George,FG_ASSISTED,Steven Adams,5:08,4,Thunder,76ers,100 - 99,0,27,3,Jumper
+60,Wilson Chandler,FG_MISS,None,4:52,4,76ers,Thunder,100 - 99,1,25,3,Jumper
+61,Russell Westbrook,DEFENSIVE_REBOUND,None,4:49,4,Thunder,76ers,100 - 99,0,N/A,N/A,N/A
+62,Russell Westbrook,FG_MISS,None,4:44,4,Thunder,76ers,100 - 99,0, ,2,Jumper
+63,Steven Adams,OFFENSIVE_REBOUND,None,4:42,4,Thunder,76ers,100 - 99,0,N/A,N/A,N/A
+64,Mike Muscala,FOUL_ON_FLOOR,None,4:41,4,76ers,Thunder,100 - 99,1,N/A,N/A,N/A
+65,Joel Embiid,SUBSTITUTION,Muscala Mike,4:41,4,76ers,Thunder,100 - 99,1,N/A,N/A,N/A
+66,Terrance Ferguson,FG_MISS,None,4:28,4,Thunder,76ers,100 - 99,0,26,3,Jumper
+67,Ben Simmons,DEFENSIVE_REBOUND,None,4:25,4,76ers,Thunder,100 - 99,1,N/A,N/A,N/A
+68,Jerami Grant,FOUL_ON_FLOOR,None,4:21,4,Thunder,76ers,100 - 99,0,N/A,N/A,N/A
+69,Ben Simmons,FT_MISS,None,4:21,4,76ers,Thunder,100 - 99,1,N/A,1,N/A
+70,Team,OFFENSIVE_REBOUND,None,4:21,4,76ers,Thunder,100 - 99,1,N/A,N/A,N/A
+71,Team,Unknown,None,4:21,4,Thunder,76ers,100 - 99,0,N/A,N/A,N/A
+72,JJ Redick,SUBSTITUTION,Shamet Landry,4:21,4,76ers,Thunder,100 - 99,1,N/A,N/A,N/A
+73,Ben Simmons,FT_MISS,None,4:21,4,76ers,Thunder,100 - 99,1,N/A,1,N/A
+74,Russell Westbrook,DEFENSIVE_REBOUND,None,4:15,4,Thunder,76ers,100 - 99,0,N/A,N/A,N/A
+75,Paul George,FG_MISS,None,3:58,4,Thunder,76ers,100 - 99,0,27,2,Jumper
+76,Russell Westbrook,OFFENSIVE_REBOUND,None,3:55,4,Thunder,76ers,100 - 99,0,N/A,N/A,N/A
+77,Paul George,FG_ASSISTED,Russell Westbrook,3:53,4,Thunder,76ers,102 - 99,0,0,2,Dunk
+78,Ben Simmons,TURNOVER,Paul George,3:39,4,76ers,Thunder,102 - 99,1,N/A,N/A,N/A
+79,Paul George,FG_UNASSISTED,None,3:30,4,Thunder,76ers,105 - 99,0,27,3,Jumper
+80,Russell Westbrook,FOUL_ON_FLOOR,None,3:22,4,Thunder,76ers,105 - 99,0,N/A,N/A,N/A
+81,Ben Simmons,FT,None,3:22,4,76ers,Thunder,105 - 100,1,N/A,1,N/A
+82,Ben Simmons,FT,None,3:22,4,76ers,Thunder,105 - 101,1,N/A,1,N/A
+83,Wilson Chandler,FOUL_ON_FLOOR,None,3:13,4,76ers,Thunder,105 - 101,1,N/A,N/A,N/A
+84,Paul George,FG_MISS,None,3:03,4,Thunder,76ers,105 - 101,0,19,2,Jumper
+85,Joel Embiid,DEFENSIVE_REBOUND,None,3:00,4,76ers,Thunder,105 - 101,1,N/A,N/A,N/A
+86,Russell Westbrook,FOUL_ON_FLOOR,None,2:47,4,Thunder,76ers,105 - 101,0,N/A,N/A,N/A
+87,Ben Simmons,FT_MISS,None,2:47,4,76ers,Thunder,105 - 101,1,N/A,1,N/A
+88,Team,OFFENSIVE_REBOUND,None,2:47,4,76ers,Thunder,105 - 101,1,N/A,N/A,N/A
+89,Ben Simmons,FT,None,2:47,4,76ers,Thunder,105 - 102,1,N/A,1,N/A
+90,Ben Simmons,FOUL_ON_FLOOR,None,2:43,4,76ers,Thunder,105 - 102,1,N/A,N/A,N/A
+91,Russell Westbrook,FT_MISS,None,2:43,4,Thunder,76ers,105 - 102,0,N/A,1,N/A
+92,Team,OFFENSIVE_REBOUND,None,2:43,4,Thunder,76ers,105 - 102,0,N/A,N/A,N/A
+93,Russell Westbrook,FT,None,2:43,4,Thunder,76ers,106 - 102,0,N/A,1,N/A
+94,Joel Embiid,FG_UNASSISTED,None,2:29,4,76ers,Thunder,106 - 104,1,0,2,Dunk
+95,Paul George,TURNOVER,None,2:09,4,Thunder,76ers,106 - 104,0,N/A,N/A,N/A
+96,JJ Redick,TURNOVER,Terrance Ferguson,1:48,4,76ers,Thunder,106 - 104,1,N/A,N/A,N/A
+97,Joel Embiid,FOUL_ON_FLOOR,None,1:46,4,76ers,Thunder,106 - 104,1,N/A,N/A,N/A
+98,Team,Unknown,None,1:46,4,Thunder,76ers,106 - 104,0,N/A,N/A,N/A
+99,Russell Westbrook,FT,None,1:46,4,Thunder,76ers,107 - 104,0,N/A,1,N/A
+100,Russell Westbrook,FT,None,1:46,4,Thunder,76ers,108 - 104,0,N/A,1,N/A
+101,Joel Embiid,FG_MISS,None,1:26,4,76ers,Thunder,108 - 104,1,25,2,Jumper
+102,Russell Westbrook,DEFENSIVE_REBOUND,None,1:24,4,Thunder,76ers,108 - 104,0,N/A,N/A,N/A
+103,Russell Westbrook,FG_MISS,None,1:17,4,Thunder,76ers,108 - 104,0,26,3,Jumper
+104,Jimmy Butler,DEFENSIVE_REBOUND,None,1:14,4,76ers,Thunder,108 - 104,1,N/A,N/A,N/A
+105,Jimmy Butler,FG_UNASSISTED,None,1:08,4,76ers,Thunder,108 - 107,1,26,2,Jumper
+106,Russell Westbrook,FG_MISS,None,50.9,4,Thunder,76ers,108 - 107,0,26,3,Jumper
+107,Steven Adams,OFFENSIVE_REBOUND,None,47.9,4,Thunder,76ers,108 - 107,0,N/A,N/A,N/A
+108,Terrance Ferguson,FG_ASSISTED,Russell Westbrook,42.0,4,Thunder,76ers,111 - 107,0,27,3,Jumper
+109,Team,Unknown,None,41.3,4,76ers,Thunder,111 - 107,1,N/A,N/A,N/A
+110,Jimmy Butler,FG_ASSISTED,Ben Simmons,38.5,4,76ers,Thunder,111 - 109,1,1,2,Jumper
+111,Jerami Grant,FOUL_ON_FLOOR,None,38.5,4,Thunder,76ers,111 - 109,0,N/A,N/A,N/A
+112,Jimmy Butler,FT,None,38.5,4,76ers,Thunder,111 - 110,1,N/A,1,N/A
+113,Jimmy Butler,FOUL_ON_FLOOR,None,20.9,4,76ers,Thunder,111 - 110,1,N/A,N/A,N/A
+114,Paul George,FT,None,20.9,4,Thunder,76ers,112 - 110,0,N/A,1,N/A
+115,Paul George,FT,None,20.9,4,Thunder,76ers,113 - 110,0,N/A,1,N/A
+116,Team,Unknown,None,20.9,4,76ers,Thunder,113 - 110,1,N/A,N/A,N/A
+117,Russell Westbrook,FOUL_ON_FLOOR,None,14.9,4,Thunder,76ers,113 - 110,0,N/A,N/A,N/A
+118,Dennis Schroder,SUBSTITUTION,Westbrook Russell,14.9,4,Thunder,76ers,113 - 110,0,N/A,N/A,N/A
+119,Joel Embiid,FT,None,14.9,4,76ers,Thunder,113 - 111,1,N/A,1,N/A
+120,Joel Embiid,FT,None,14.9,4,76ers,Thunder,113 - 112,1,N/A,1,N/A
+121,Team,Unknown,None,14.9,4,Thunder,76ers,113 - 112,0,N/A,N/A,N/A
+122,Joel Embiid,FT,None,14.9,4,76ers,Thunder,113 - 113,1,N/A,1,N/A
+123,Dennis Schroder,TURNOVER,Jimmy Butler,10.0,4,Thunder,76ers,113 - 113,0,N/A,N/A,N/A
+124,Jimmy Butler,FG_UNASSISTED,None,6.9,4,76ers,Thunder,113 - 115,1,0,2,Layup
+125,Team,Unknown,None,6.9,4,Thunder,76ers,113 - 115,0,N/A,N/A,N/A
+126,Paul George,FG_ASSISTED,Terrance Ferguson,5.1,4,Thunder,76ers,116 - 115,0,26,3,Jumper
+127,Jimmy Butler,FOUL_ON_FLOOR,None,5.1,4,76ers,Thunder,116 - 115,1,N/A,N/A,N/A
+128,Paul George,FT,None,5.1,4,Thunder,76ers,117 - 115,0,N/A,1,N/A
+129,Jimmy Butler,FG_MISS,None,0.2,4,76ers,Thunder,117 - 115,1,27,3,Jumper
+130,Team,OFFENSIVE_REBOUND,None,0.2,4,76ers,Thunder,117 - 115,1,N/A,N/A,N/A
+131,End of,Unknown,None,0.0,4,76ers,Thunder,117 - 115,1,N/A,N/A,N/A
+132,End of,Unknown,None,0.0,4,76ers,Thunder,117 - 115,1,N/A,N/A,N/A

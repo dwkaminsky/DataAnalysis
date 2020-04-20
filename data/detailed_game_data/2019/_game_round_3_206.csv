@@ -1,0 +1,485 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Jusuf Nurkic,JUMP_BALL,None,12:00,1,Trail Blazers,Kings,0 - 0,0,N/A,N/A,N/A
+1,Damian Lillard,FG_UNASSISTED,None,11:47,1,Trail Blazers,Kings,3 - 0,0,25,3,Jumper
+2,Nemanja Bjelica,FG_MISS,None,11:29,1,Kings,Trail Blazers,3 - 0,1,25,3,Jumper
+3,Jake Layman,DEFENSIVE_REBOUND,None,11:26,1,Trail Blazers,Kings,3 - 0,0,N/A,N/A,N/A
+4,Damian Lillard,FG_MISS,None,11:18,1,Trail Blazers,Kings,3 - 0,0,-,2,Jumper
+5,Willie Cauley-Stein,DEFENSIVE_REBOUND,None,11:16,1,Kings,Trail Blazers,3 - 0,1,N/A,N/A,N/A
+6,Willie Cauley-Stein,TURNOVER,None,11:03,1,Kings,Trail Blazers,3 - 0,1,N/A,N/A,N/A
+7,Damian Lillard,TURNOVER,Willie Cauley-Stein,10:47,1,Trail Blazers,Kings,3 - 0,0,N/A,N/A,N/A
+8,De'Aaron Fox,FG_MISS,None,10:42,1,Kings,Trail Blazers,3 - 0,1,23,3,Jumper
+9,Nemanja Bjelica,OFFENSIVE_REBOUND,None,10:41,1,Kings,Trail Blazers,3 - 0,1,N/A,N/A,N/A
+10,Iman Shumpert,FG_MISS,None,10:37,1,Kings,Trail Blazers,3 - 0,1,-,2,Jumper
+11,Jusuf Nurkic,DEFENSIVE_REBOUND,None,10:34,1,Trail Blazers,Kings,3 - 0,0,N/A,N/A,N/A
+12,CJ McCollum,FG_MISS,None,10:27,1,Trail Blazers,Kings,3 - 0,0,25,3,Jumper
+13,Buddy Hield,DEFENSIVE_REBOUND,None,10:23,1,Kings,Trail Blazers,3 - 0,1,N/A,N/A,N/A
+14,Buddy Hield,FG_UNASSISTED,None,10:15,1,Kings,Trail Blazers,3 - 2,1,17,2,Jumper
+15,Damian Lillard,TURNOVER,None,9:54,1,Trail Blazers,Kings,3 - 2,0,N/A,N/A,N/A
+16,Willie Cauley-Stein,TURNOVER,Damian Lillard,9:42,1,Kings,Trail Blazers,3 - 2,1,N/A,N/A,N/A
+17,Al-Farouq Aminu,FOUL_ON_FLOOR,None,9:37,1,Trail Blazers,Kings,3 - 2,0,N/A,N/A,N/A
+18,Al-Farouq Aminu,TURNOVER,None,9:37,1,Trail Blazers,Kings,3 - 2,0,N/A,N/A,N/A
+19,Willie Cauley-Stein,FG_MISS,None,9:25,1,Kings,Trail Blazers,3 - 2,1,18,2,Jumper
+20,Jusuf Nurkic,DEFENSIVE_REBOUND,None,9:21,1,Trail Blazers,Kings,3 - 2,0,N/A,N/A,N/A
+21,Damian Lillard,FG_MISS,Nemanja Bjelica,9:12,1,Kings,Trail Blazers,3 - 2,0,0,2,Layup
+22,Al-Farouq Aminu,OFFENSIVE_REBOUND,None,9:12,1,Trail Blazers,Kings,3 - 2,0,N/A,N/A,N/A
+23,Al-Farouq Aminu,FG_UNASSISTED,None,9:11,1,Trail Blazers,Kings,5 - 2,0,0,2,Layup
+24,De'Aaron Fox,FOUL_ON_FLOOR,None,9:11,1,Kings,Trail Blazers,5 - 2,1,N/A,N/A,N/A
+25,Al-Farouq Aminu,FT,None,9:11,1,Trail Blazers,Kings,6 - 2,0,N/A,1,N/A
+26,Damian Lillard,FOUL_ON_FLOOR,None,9:03,1,Trail Blazers,Kings,6 - 2,0,N/A,N/A,N/A
+27,De'Aaron Fox,FT,None,9:03,1,Kings,Trail Blazers,6 - 3,1,N/A,1,N/A
+28,De'Aaron Fox,FT,None,9:03,1,Kings,Trail Blazers,6 - 4,1,N/A,1,N/A
+29,Jake Layman,FG_ASSISTED,Jusuf Nurkic,8:53,1,Trail Blazers,Kings,8 - 4,0,0,2,Dunk
+30,De'Aaron Fox,FG_MISS,None,8:47,1,Kings,Trail Blazers,8 - 4,1,15,2,Jumper
+31,Buddy Hield,OFFENSIVE_REBOUND,None,8:44,1,Kings,Trail Blazers,8 - 4,1,N/A,N/A,N/A
+32,Iman Shumpert,FG_ASSISTED,De'Aaron Fox,8:38,1,Kings,Trail Blazers,8 - 7,1,25,3,Jumper
+33,CJ McCollum,FG_UNASSISTED,None,8:23,1,Trail Blazers,Kings,10 - 7,0,0,2,Layup
+34,Nemanja Bjelica,FG_MISS,None,8:08,1,Kings,Trail Blazers,10 - 7,1,27,3,Jumper
+35,CJ McCollum,DEFENSIVE_REBOUND,None,8:04,1,Trail Blazers,Kings,10 - 7,0,N/A,N/A,N/A
+36,CJ McCollum,TURNOVER,None,7:59,1,Trail Blazers,Kings,10 - 7,0,N/A,N/A,N/A
+37,Iman Shumpert,FG_MISS,None,7:47,1,Kings,Trail Blazers,10 - 7,1,0,2,Layup
+38,Team,OFFENSIVE_REBOUND,None,7:47,1,Kings,Trail Blazers,10 - 7,1,N/A,N/A,N/A
+39,Willie Cauley-Stein,FG_MISS,Jusuf Nurkic,7:40,1,Trail Blazers,Kings,10 - 7,1,0,2,Dunk
+40,Al-Farouq Aminu,DEFENSIVE_REBOUND,None,7:37,1,Trail Blazers,Kings,10 - 7,0,N/A,N/A,N/A
+41,Jake Layman,FG_ASSISTED,Al-Farouq Aminu,7:33,1,Trail Blazers,Kings,12 - 7,0,0,2,Dunk
+42,Nemanja Bjelica,TURNOVER,Al-Farouq Aminu,7:25,1,Kings,Trail Blazers,12 - 7,1,N/A,N/A,N/A
+43,Jusuf Nurkic,FG_ASSISTED,Damian Lillard,7:16,1,Trail Blazers,Kings,14 - 7,0,0,2,Layup
+44,Team,Unknown,None,7:16,1,Kings,Trail Blazers,14 - 7,1,N/A,N/A,N/A
+45,Buddy Hield,FG_ASSISTED,De'Aaron Fox,7:01,1,Kings,Trail Blazers,14 - 10,1,23,3,Jumper
+46,CJ McCollum,FG_MISS,None,6:35,1,Trail Blazers,Kings,14 - 10,0, ,2,Jumper
+47,Jake Layman,OFFENSIVE_REBOUND,None,6:32,1,Trail Blazers,Kings,14 - 10,0,N/A,N/A,N/A
+48,Damian Lillard,TURNOVER,De'Aaron Fox,6:27,1,Trail Blazers,Kings,14 - 10,0,N/A,N/A,N/A
+49,Iman Shumpert,FG_MISS,None,6:19,1,Kings,Trail Blazers,14 - 10,1,27,3,Jumper
+50,Jusuf Nurkic,DEFENSIVE_REBOUND,None,6:16,1,Trail Blazers,Kings,14 - 10,0,N/A,N/A,N/A
+51,Damian Lillard,FG_MISS,Iman Shumpert,6:09,1,Kings,Trail Blazers,14 - 10,0,0,2,Layup
+52,Team,OFFENSIVE_REBOUND,None,6:09,1,Trail Blazers,Kings,14 - 10,0,N/A,N/A,N/A
+53,Marvin Bagley,SUBSTITUTION,Bjelica Nemanja,6:09,1,Kings,Trail Blazers,14 - 10,1,N/A,N/A,N/A
+54,Marvin Bagley,FOUL_ON_FLOOR,None,6:00,1,Kings,Trail Blazers,14 - 10,1,N/A,N/A,N/A
+55,Al-Farouq Aminu,FT,None,6:00,1,Trail Blazers,Kings,15 - 10,0,N/A,1,N/A
+56,Al-Farouq Aminu,FT,None,6:00,1,Trail Blazers,Kings,16 - 10,0,N/A,1,N/A
+57,Buddy Hield,FG_ASSISTED,Iman Shumpert,5:51,1,Kings,Trail Blazers,16 - 12,1, ,2,Jumper
+58,Damian Lillard,TURNOVER,None,5:38,1,Trail Blazers,Kings,16 - 12,0,N/A,N/A,N/A
+59,Buddy Hield,TURNOVER,CJ McCollum,5:24,1,Kings,Trail Blazers,16 - 12,1,N/A,N/A,N/A
+60,Damian Lillard,FG_ASSISTED,CJ McCollum,5:18,1,Trail Blazers,Kings,18 - 12,0,0,2,Layup
+61,Al-Farouq Aminu,FOUL_ON_FLOOR,None,5:12,1,Trail Blazers,Kings,18 - 12,0,N/A,N/A,N/A
+62,Evan Turner,SUBSTITUTION,Layman Jake,5:12,1,Trail Blazers,Kings,18 - 12,0,N/A,N/A,N/A
+63,Bogdan Bogdanovic,SUBSTITUTION,Shumpert Iman,5:12,1,Kings,Trail Blazers,18 - 12,1,N/A,N/A,N/A
+64,Zach Collins,SUBSTITUTION,Aminu Al-Farouq,5:12,1,Trail Blazers,Kings,18 - 12,0,N/A,N/A,N/A
+65,Willie Cauley-Stein,FG_MISS,None,5:03,1,Kings,Trail Blazers,18 - 12,1,9,2,Jumper
+66,Jusuf Nurkic,DEFENSIVE_REBOUND,None,5:01,1,Trail Blazers,Kings,18 - 12,0,N/A,N/A,N/A
+67,CJ McCollum,FG_MISS,None,4:53,1,Trail Blazers,Kings,18 - 12,0,8,2,Jumper
+68,Willie Cauley-Stein,DEFENSIVE_REBOUND,None,4:49,1,Kings,Trail Blazers,18 - 12,1,N/A,N/A,N/A
+69,Marvin Bagley,FG_UNASSISTED,None,4:37,1,Kings,Trail Blazers,18 - 14,1,17,2,Jumper
+70,Jusuf Nurkic,FG_MISS,None,4:13,1,Trail Blazers,Kings,18 - 14,0,22,2,Jumper
+71,De'Aaron Fox,DEFENSIVE_REBOUND,None,4:10,1,Kings,Trail Blazers,18 - 14,1,N/A,N/A,N/A
+72,Willie Cauley-Stein,FG_MISS,None,4:05,1,Kings,Trail Blazers,18 - 14,1,0,2,Layup
+73,Zach Collins,DEFENSIVE_REBOUND,None,4:02,1,Trail Blazers,Kings,18 - 14,0,N/A,N/A,N/A
+74,Damian Lillard,TURNOVER,Bogdan Bogdanovic,3:56,1,Trail Blazers,Kings,18 - 14,0,N/A,N/A,N/A
+75,Marvin Bagley,FG_ASSISTED,De'Aaron Fox,3:52,1,Kings,Trail Blazers,18 - 16,1,0,2,Dunk
+76,Team,Unknown,None,3:52,1,Trail Blazers,Kings,18 - 16,0,N/A,N/A,N/A
+77,Harry Giles,SUBSTITUTION,Cauley-Stein Willie,3:52,1,Kings,Trail Blazers,18 - 16,1,N/A,N/A,N/A
+78,Seth Curry,SUBSTITUTION,McCollum CJ,3:52,1,Trail Blazers,Kings,18 - 16,0,N/A,N/A,N/A
+79,Damian Lillard,FG_UNASSISTED,None,3:36,1,Trail Blazers,Kings,20 - 16,0,0,2,Layup
+80,Harry Giles,FG_ASSISTED,De'Aaron Fox,3:19,1,Kings,Trail Blazers,20 - 18,1, ,2,Jumper
+81,Damian Lillard,FG_MISS,None,3:04,1,Trail Blazers,Kings,20 - 18,0,26,3,Jumper
+82,Buddy Hield,DEFENSIVE_REBOUND,None,2:59,1,Kings,Trail Blazers,20 - 18,1,N/A,N/A,N/A
+83,Buddy Hield,FG_MISS,None,2:49,1,Kings,Trail Blazers,20 - 18,1,25,3,Jumper
+84,Damian Lillard,DEFENSIVE_REBOUND,None,2:46,1,Trail Blazers,Kings,20 - 18,0,N/A,N/A,N/A
+85,Buddy Hield,Unknown,None,2:40,1,Kings,Trail Blazers,20 - 18,1,N/A,N/A,N/A
+86,Yogi Ferrell,SUBSTITUTION,Fox De'Aaron,2:40,1,Kings,Trail Blazers,20 - 18,1,N/A,N/A,N/A
+87,Meyers Leonard,SUBSTITUTION,Nurkic Jusuf,2:40,1,Trail Blazers,Kings,20 - 18,0,N/A,N/A,N/A
+88,Meyers Leonard,FG_UNASSISTED,None,2:27,1,Trail Blazers,Kings,23 - 18,0,25,3,Jumper
+89,Harry Giles,FG_ASSISTED,Yogi Ferrell,2:06,1,Kings,Trail Blazers,23 - 20,1,14,2,Jumper
+90,Seth Curry,FG_ASSISTED,Damian Lillard,1:54,1,Trail Blazers,Kings,25 - 20,0,16,2,Jumper
+91,Buddy Hield,FG_ASSISTED,agley III,1:42,1,Kings,Trail Blazers,25 - 22,1,20,2,Jumper
+92,Seth Curry,FG_MISS,None,1:20,1,Trail Blazers,Kings,25 - 22,0,16,2,Jumper
+93,Meyers Leonard,OFFENSIVE_REBOUND,None,1:20,1,Trail Blazers,Kings,25 - 22,0,N/A,N/A,N/A
+94,Zach Collins,FG_MISS,None,1:14,1,Trail Blazers,Kings,25 - 22,0,26,3,Jumper
+95,Yogi Ferrell,DEFENSIVE_REBOUND,None,1:06,1,Kings,Trail Blazers,25 - 22,1,N/A,N/A,N/A
+96,Yogi Ferrell,FG_UNASSISTED,None,1:03,1,Kings,Trail Blazers,25 - 24,1,0,2,Layup
+97,Meyers Leonard,TURNOVER,None,50.8,1,Trail Blazers,Kings,25 - 24,0,N/A,N/A,N/A
+98,Justin Jackson,SUBSTITUTION,Hield Buddy,50.8,1,Kings,Trail Blazers,25 - 24,1,N/A,N/A,N/A
+99,Justin Jackson,FG_MISS,None,33.3,1,Kings,Trail Blazers,25 - 24,1,13,2,Jumper
+100,Damian Lillard,DEFENSIVE_REBOUND,None,29.5,1,Trail Blazers,Kings,25 - 24,0,N/A,N/A,N/A
+101,Damian Lillard's,FG_MISS,Harry Giles,25.0,1,Kings,Trail Blazers,25 - 24,0,0,2,Layup
+102,Yogi Ferrell,DEFENSIVE_REBOUND,None,22.2,1,Kings,Trail Blazers,25 - 24,1,N/A,N/A,N/A
+103,Yogi Ferrell,FG_MISS,Zach Collins,18.4,1,Trail Blazers,Kings,25 - 24,1,0,2,Layup
+104,Meyers Leonard,DEFENSIVE_REBOUND,None,16.2,1,Trail Blazers,Kings,25 - 24,0,N/A,N/A,N/A
+105,Evan Turner,FG_UNASSISTED,None,2.1,1,Trail Blazers,Kings,27 - 24,0,17,2,Jumper
+106,Seth Curry,FOUL_ON_FLOOR,None,0.6,1,Trail Blazers,Kings,27 - 24,0,N/A,N/A,N/A
+107,Justin Jackson,FG_MISS,None,0.0,1,Kings,Trail Blazers,27 - 24,1,50,3,Jumper
+108,Team,OFFENSIVE_REBOUND,None,0.0,1,Kings,Trail Blazers,27 - 24,1,N/A,N/A,N/A
+109,End of,Unknown,None,0.0,1,Kings,Trail Blazers,27 - 24,1,N/A,N/A,N/A
+0,Nik Stauskas,SUBSTITUTION,Lillard Damian,12:00,2,Trail Blazers,Kings,27 - 24,0,N/A,N/A,N/A
+1,Zach Collins,FOUL_ON_FLOOR,None,11:38,2,Trail Blazers,Kings,27 - 24,0,N/A,N/A,N/A
+2,Harry Giles,FG_ASSISTED,Bogdan Bogdanovic,11:32,2,Kings,Trail Blazers,27 - 26,1,0,2,Dunk
+3,Evan Turner,FG_MISS,None,11:15,2,Trail Blazers,Kings,27 - 26,0,15,2,Jumper
+4,Marvin Bagley,DEFENSIVE_REBOUND,None,11:11,2,Kings,Trail Blazers,27 - 26,1,N/A,N/A,N/A
+5,Marvin Bagley,FG_MISS,None,11:07,2,Kings,Trail Blazers,27 - 26,1,25,3,Jumper
+6,Seth Curry,DEFENSIVE_REBOUND,None,11:04,2,Trail Blazers,Kings,27 - 26,0,N/A,N/A,N/A
+7,Nik Stauskas,FG_ASSISTED,Meyers Leonard,10:55,2,Trail Blazers,Kings,29 - 26,0,0,2,Layup
+8,Harry Giles,FG_ASSISTED,Yogi Ferrell,10:44,2,Kings,Trail Blazers,29 - 28,1,16,2,Jumper
+9,Evan Turner,TURNOVER,None,10:29,2,Trail Blazers,Kings,29 - 28,0,N/A,N/A,N/A
+10,Bogdan Bogdanovic,FG_UNASSISTED,None,10:20,2,Kings,Trail Blazers,29 - 30,1,13,2,Jumper
+11,Evan Turner,FG_MISS,None,10:06,2,Trail Blazers,Kings,29 - 30,0, ,2,Jumper
+12,Zach Collins,OFFENSIVE_REBOUND,None,10:03,2,Trail Blazers,Kings,29 - 30,0,N/A,N/A,N/A
+13,Marvin Bagley,FOUL_ON_FLOOR,None,10:03,2,Kings,Trail Blazers,29 - 30,1,N/A,N/A,N/A
+14,Zach Collins,FT,None,10:03,2,Trail Blazers,Kings,30 - 30,0,N/A,1,N/A
+15,Zach Collins,FT_MISS,None,10:03,2,Trail Blazers,Kings,30 - 30,0,N/A,1,N/A
+16,Marvin Bagley,DEFENSIVE_REBOUND,None,10:01,2,Kings,Trail Blazers,30 - 30,1,N/A,N/A,N/A
+17,Justin Jackson,FG_MISS,None,9:49,2,Kings,Trail Blazers,30 - 30,1,27,3,Jumper
+18,Nik Stauskas,DEFENSIVE_REBOUND,None,9:45,2,Trail Blazers,Kings,30 - 30,0,N/A,N/A,N/A
+19,Zach Collins,FOUL_ON_FLOOR,None,9:45,2,Trail Blazers,Kings,30 - 30,0,N/A,N/A,N/A
+20,Evan Turner,FG_MISS,None,9:31,2,Trail Blazers,Kings,30 - 30,0,25,3,Jumper
+21,Harry Giles,DEFENSIVE_REBOUND,None,9:28,2,Kings,Trail Blazers,30 - 30,1,N/A,N/A,N/A
+22,Bogdan Bogdanovic,FG_ASSISTED,Harry Giles,9:25,2,Kings,Trail Blazers,30 - 33,1, ,3,Jumper
+23,Nik Stauskas,FG_MISS,None,8:58,2,Trail Blazers,Kings,30 - 33,0,25,3,Jumper
+24,Harry Giles,DEFENSIVE_REBOUND,None,8:55,2,Kings,Trail Blazers,30 - 33,1,N/A,N/A,N/A
+25,Marvin Bagley,FG_MISS,None,8:42,2,Kings,Trail Blazers,30 - 33,1, ,2,Jumper
+26,Meyers Leonard,DEFENSIVE_REBOUND,None,8:40,2,Trail Blazers,Kings,30 - 33,0,N/A,N/A,N/A
+27,Evan Turner,FG_MISS,None,8:29,2,Trail Blazers,Kings,30 - 33,0, ,2,Jumper
+28,Marvin Bagley,DEFENSIVE_REBOUND,None,8:27,2,Kings,Trail Blazers,30 - 33,1,N/A,N/A,N/A
+29,Yogi Ferrell,FG_UNASSISTED,None,8:19,2,Kings,Trail Blazers,30 - 35,1,17,2,Jumper
+30,Team,Unknown,None,8:17,2,Trail Blazers,Kings,30 - 35,0,N/A,N/A,N/A
+31,Nemanja Bjelica,SUBSTITUTION,III Bagley,8:17,2,Kings,Trail Blazers,30 - 35,1,N/A,N/A,N/A
+32,CJ McCollum,SUBSTITUTION,Turner Evan,8:17,2,Trail Blazers,Kings,30 - 35,0,N/A,N/A,N/A
+33,CJ McCollum,FG_MISS,Justin Jackson,8:01,2,Kings,Trail Blazers,30 - 35,0,13,2,Jumper
+34,Nemanja Bjelica,DEFENSIVE_REBOUND,None,7:57,2,Kings,Trail Blazers,30 - 35,1,N/A,N/A,N/A
+35,Bogdan Bogdanovic,FG_MISS,None,7:43,2,Kings,Trail Blazers,30 - 35,1,26,2,Jumper
+36,CJ McCollum,DEFENSIVE_REBOUND,None,7:40,2,Trail Blazers,Kings,30 - 35,0,N/A,N/A,N/A
+37,Nik Stauskas,FG_MISS,None,7:25,2,Trail Blazers,Kings,30 - 35,0,25,3,Jumper
+38,Justin Jackson,DEFENSIVE_REBOUND,None,7:22,2,Kings,Trail Blazers,30 - 35,1,N/A,N/A,N/A
+39,Zach Collins,FOUL_ON_FLOOR,None,7:20,2,Trail Blazers,Kings,30 - 35,0,N/A,N/A,N/A
+40,Harry Giles,FG_MISS,None,7:07,2,Kings,Trail Blazers,30 - 35,1,12,2,Jumper
+41,Meyers Leonard,DEFENSIVE_REBOUND,None,7:05,2,Trail Blazers,Kings,30 - 35,0,N/A,N/A,N/A
+42,CJ McCollum,FG_UNASSISTED,None,6:54,2,Trail Blazers,Kings,32 - 35,0, ,2,Jumper
+43,Justin Jackson,FG_ASSISTED,Bogdan Bogdanovic,6:47,2,Kings,Trail Blazers,32 - 38,1,23,3,Jumper
+44,Harry Giles,FOUL_ON_FLOOR,None,6:33,2,Kings,Trail Blazers,32 - 38,1,N/A,N/A,N/A
+45,Willie Cauley-Stein,SUBSTITUTION,Giles Harry,6:33,2,Kings,Trail Blazers,32 - 38,1,N/A,N/A,N/A
+46,Nik Stauskas,FG_MISS,None,6:28,2,Trail Blazers,Kings,32 - 38,0,25,3,Jumper
+47,Willie Cauley-Stein,DEFENSIVE_REBOUND,None,6:24,2,Kings,Trail Blazers,32 - 38,1,N/A,N/A,N/A
+48,Willie Cauley-Stein,TURNOVER,None,6:14,2,Kings,Trail Blazers,32 - 38,1,N/A,N/A,N/A
+49,Meyers Leonard,FG_ASSISTED,Seth Curry,6:00,2,Trail Blazers,Kings,35 - 38,0,25,3,Jumper
+50,Bogdan Bogdanovic,FG_ASSISTED,Nemanja Bjelica,5:43,2,Kings,Trail Blazers,35 - 40,1,9,2,Jumper
+51,CJ McCollum,FG_MISS,None,5:30,2,Trail Blazers,Kings,35 - 40,0, ,2,Jumper
+52,Justin Jackson,DEFENSIVE_REBOUND,None,5:28,2,Kings,Trail Blazers,35 - 40,1,N/A,N/A,N/A
+53,Nik Stauskas,FOUL_ON_FLOOR,None,5:25,2,Trail Blazers,Kings,35 - 40,0,N/A,N/A,N/A
+54,De'Aaron Fox,SUBSTITUTION,Ferrell Yogi,5:25,2,Kings,Trail Blazers,35 - 40,1,N/A,N/A,N/A
+55,Al-Farouq Aminu,SUBSTITUTION,Leonard Meyers,5:25,2,Trail Blazers,Kings,35 - 40,0,N/A,N/A,N/A
+56,Jusuf Nurkic,SUBSTITUTION,Collins Zach,5:25,2,Trail Blazers,Kings,35 - 40,0,N/A,N/A,N/A
+57,Bogdan Bogdanovic,FG_UNASSISTED,None,5:10,2,Kings,Trail Blazers,35 - 42,1,0,2,Layup
+58,CJ McCollum,FG_MISS,None,4:59,2,Trail Blazers,Kings,35 - 42,0,0,2,Layup
+59,De'Aaron Fox,DEFENSIVE_REBOUND,None,4:53,2,Kings,Trail Blazers,35 - 42,1,N/A,N/A,N/A
+60,Jusuf Nurkic,FOUL_ON_FLOOR,None,4:51,2,Trail Blazers,Kings,35 - 42,0,N/A,N/A,N/A
+61,Willie Cauley-Stein,FT,None,4:51,2,Kings,Trail Blazers,35 - 43,1,N/A,1,N/A
+62,Jake Layman,SUBSTITUTION,Stauskas Nik,4:51,2,Trail Blazers,Kings,35 - 43,0,N/A,N/A,N/A
+63,Damian Lillard,SUBSTITUTION,Curry Seth,4:51,2,Trail Blazers,Kings,35 - 43,0,N/A,N/A,N/A
+64,Willie Cauley-Stein,FT,None,4:51,2,Kings,Trail Blazers,35 - 44,1,N/A,1,N/A
+65,De'Aaron Fox,FOUL_ON_FLOOR,None,4:38,2,Kings,Trail Blazers,35 - 44,1,N/A,N/A,N/A
+66,Iman Shumpert,SUBSTITUTION,Jackson Justin,4:38,2,Kings,Trail Blazers,35 - 44,1,N/A,N/A,N/A
+67,CJ McCollum,TURNOVER,De'Aaron Fox,4:33,2,Trail Blazers,Kings,35 - 44,0,N/A,N/A,N/A
+68,Willie Cauley-Stein,FG_ASSISTED,De'Aaron Fox,4:27,2,Kings,Trail Blazers,35 - 46,1,0,2,Dunk
+69,Iman Shumpert,Unknown,None,4:10,2,Kings,Trail Blazers,35 - 46,1,N/A,N/A,N/A
+70,Damian Lillard,FG_ASSISTED,Jusuf Nurkic,4:07,2,Trail Blazers,Kings,38 - 46,0,27,3,Jumper
+71,Bogdan Bogdanovic,FG_MISS,None,3:44,2,Kings,Trail Blazers,38 - 46,1,0,2,Layup
+72,Willie Cauley-Stein,OFFENSIVE_REBOUND,None,3:42,2,Kings,Trail Blazers,38 - 46,1,N/A,N/A,N/A
+73,Nemanja Bjelica,FG_MISS,None,3:34,2,Kings,Trail Blazers,38 - 46,1,23,3,Jumper
+74,Willie Cauley-Stein,OFFENSIVE_REBOUND,None,3:32,2,Kings,Trail Blazers,38 - 46,1,N/A,N/A,N/A
+75,Nemanja Bjelica,FG_ASSISTED,Willie Cauley-Stein,3:30,2,Kings,Trail Blazers,38 - 48,1,0,2,Layup
+76,Damian Lillard's,FG_MISS,Bogdan Bogdanovic,3:15,2,Kings,Trail Blazers,38 - 48,0,0,2,Layup
+77,Nemanja Bjelica,DEFENSIVE_REBOUND,None,3:11,2,Kings,Trail Blazers,38 - 48,1,N/A,N/A,N/A
+78,Bogdan Bogdanovic,TURNOVER,Al-Farouq Aminu,3:08,2,Kings,Trail Blazers,38 - 48,1,N/A,N/A,N/A
+79,Nemanja Bjelica,FOUL_ON_FLOOR,None,3:06,2,Kings,Trail Blazers,38 - 48,1,N/A,N/A,N/A
+80,Al-Farouq Aminu,FT_MISS,None,3:06,2,Trail Blazers,Kings,38 - 48,0,N/A,1,N/A
+81,Team,OFFENSIVE_REBOUND,None,3:06,2,Trail Blazers,Kings,38 - 48,0,N/A,N/A,N/A
+82,Al-Farouq Aminu,FT,None,3:06,2,Trail Blazers,Kings,39 - 48,0,N/A,1,N/A
+83,Nemanja Bjelica,FG_MISS,None,2:53,2,Kings,Trail Blazers,39 - 48,1,0,2,Layup
+84,Jusuf Nurkic,DEFENSIVE_REBOUND,None,2:50,2,Trail Blazers,Kings,39 - 48,0,N/A,N/A,N/A
+85,Al-Farouq Aminu,FG_MISS,None,2:38,2,Trail Blazers,Kings,39 - 48,0,0,2,Layup
+86,Al-Farouq Aminu,OFFENSIVE_REBOUND,None,2:35,2,Trail Blazers,Kings,39 - 48,0,N/A,N/A,N/A
+87,Al-Farouq Aminu,FG_MISS,None,2:29,2,Trail Blazers,Kings,39 - 48,0,5,2,Jumper
+88,Iman Shumpert,DEFENSIVE_REBOUND,None,2:29,2,Kings,Trail Blazers,39 - 48,1,N/A,N/A,N/A
+89,Team,Unknown,None,2:29,2,Kings,Trail Blazers,39 - 48,1,N/A,N/A,N/A
+90,Buddy Hield,SUBSTITUTION,Bogdanovic Bogdan,2:29,2,Kings,Trail Blazers,39 - 48,1,N/A,N/A,N/A
+91,De'Aaron Fox,FG_MISS,None,2:12,2,Kings,Trail Blazers,39 - 48,1,23,2,Jumper
+92,Buddy Hield,OFFENSIVE_REBOUND,None,2:10,2,Kings,Trail Blazers,39 - 48,1,N/A,N/A,N/A
+93,Iman Shumpert,TURNOVER,None,2:07,2,Kings,Trail Blazers,39 - 48,1,N/A,N/A,N/A
+94,Nemanja Bjelica,FOUL_TECHNICAL,None,1:51,2,Kings,Trail Blazers,39 - 48,1,N/A,N/A,N/A
+95,Damian Lillard,FT,None,1:51,2,Trail Blazers,Kings,40 - 48,0,N/A,1,N/A
+96,Jusuf Nurkic,FG_MISS,None,1:45,2,Trail Blazers,Kings,40 - 48,0, ,2,Jumper
+97,Al-Farouq Aminu,OFFENSIVE_REBOUND,None,1:41,2,Trail Blazers,Kings,40 - 48,0,N/A,N/A,N/A
+98,CJ McCollum,TURNOVER,Willie Cauley-Stein,1:35,2,Trail Blazers,Kings,40 - 48,0,N/A,N/A,N/A
+99,CJ McCollum,FOUL_ON_FLOOR,None,1:25,2,Trail Blazers,Kings,40 - 48,0,N/A,N/A,N/A
+100,Buddy Hield,FT,None,1:25,2,Kings,Trail Blazers,40 - 49,1,N/A,1,N/A
+101,Buddy Hield,FT,None,1:25,2,Kings,Trail Blazers,40 - 50,1,N/A,1,N/A
+102,Damian Lillard,FG_UNASSISTED,None,1:11,2,Trail Blazers,Kings,42 - 50,0,0,2,Layup
+103,CJ McCollum,FOUL_ON_FLOOR,None,1:06,2,Trail Blazers,Kings,42 - 50,0,N/A,N/A,N/A
+104,De'Aaron Fox,FT,None,1:06,2,Kings,Trail Blazers,42 - 51,1,N/A,1,N/A
+105,De'Aaron Fox,FT,None,1:06,2,Kings,Trail Blazers,42 - 52,1,N/A,1,N/A
+106,Jake Layman,FG_ASSISTED,Al-Farouq Aminu,46.6,2,Trail Blazers,Kings,44 - 52,0,0,2,Layup
+107,Willie Cauley-Stein,FG_MISS,None,31.1,2,Kings,Trail Blazers,44 - 52,1,0,2,Layup
+108,Iman Shumpert,OFFENSIVE_REBOUND,None,28.1,2,Kings,Trail Blazers,44 - 52,1,N/A,N/A,N/A
+109,Nemanja Bjelica,FG_MISS,None,25.9,2,Kings,Trail Blazers,44 - 52,1,25,3,Jumper
+110,CJ McCollum,DEFENSIVE_REBOUND,None,22.8,2,Trail Blazers,Kings,44 - 52,0,N/A,N/A,N/A
+111,Al-Farouq Aminu,FG_MISS,None,14.6,2,Trail Blazers,Kings,44 - 52,0,5,2,Jumper
+112,Iman Shumpert,DEFENSIVE_REBOUND,None,12.4,2,Kings,Trail Blazers,44 - 52,1,N/A,N/A,N/A
+113,Buddy Hield,FG_UNASSISTED,None,1.4,2,Kings,Trail Blazers,44 - 54,1,21,2,Jumper
+114,End of,Unknown,None,0.0,2,Kings,Trail Blazers,44 - 54,1,N/A,N/A,N/A
+0,Iman Shumpert,FG_MISS,None,11:43,3,Kings,Trail Blazers,44 - 54,1,18,2,Jumper
+1,Al-Farouq Aminu,DEFENSIVE_REBOUND,None,11:39,3,Trail Blazers,Kings,44 - 54,0,N/A,N/A,N/A
+2,Jusuf Nurkic,FG_ASSISTED,Al-Farouq Aminu,11:23,3,Trail Blazers,Kings,46 - 54,0, ,2,Jumper
+3,Iman Shumpert,FG_MISS,None,11:16,3,Kings,Trail Blazers,46 - 54,1,26,3,Jumper
+4,Al-Farouq Aminu,DEFENSIVE_REBOUND,None,11:13,3,Trail Blazers,Kings,46 - 54,0,N/A,N/A,N/A
+5,Damian Lillard,FG_UNASSISTED,None,10:58,3,Trail Blazers,Kings,48 - 54,0,20,2,Jumper
+6,De'Aaron Fox,FG_UNASSISTED,None,10:46,3,Kings,Trail Blazers,48 - 56,1,9,2,Jumper
+7,Damian Lillard,FG_MISS,None,10:29,3,Trail Blazers,Kings,48 - 56,0,25,3,Jumper
+8,Willie Cauley-Stein,DEFENSIVE_REBOUND,None,10:26,3,Kings,Trail Blazers,48 - 56,1,N/A,N/A,N/A
+9,Jake Layman,FOUL_ON_FLOOR,None,10:23,3,Trail Blazers,Kings,48 - 56,0,N/A,N/A,N/A
+10,Iman Shumpert,FOUL_TECHNICAL,None,10:23,3,Kings,Trail Blazers,48 - 56,1,N/A,N/A,N/A
+11,Damian Lillard,FT,None,10:23,3,Trail Blazers,Kings,49 - 56,0,N/A,1,N/A
+12,Buddy Hield,FG_UNASSISTED,None,10:12,3,Kings,Trail Blazers,49 - 58,1,18,2,Jumper
+13,Buddy Hield,FOUL_ON_FLOOR,None,9:59,3,Kings,Trail Blazers,49 - 58,1,N/A,N/A,N/A
+14,CJ McCollum,FG_MISS,Nemanja Bjelica,9:53,3,Kings,Trail Blazers,49 - 58,0,8,2,Jumper
+15,Jusuf Nurkic,OFFENSIVE_REBOUND,None,9:49,3,Trail Blazers,Kings,49 - 58,0,N/A,N/A,N/A
+16,Al-Farouq Aminu,FG_ASSISTED,Jusuf Nurkic,9:47,3,Trail Blazers,Kings,52 - 58,0,26,3,Jumper
+17,Jusuf Nurkic,FOUL_ON_FLOOR,None,9:38,3,Trail Blazers,Kings,52 - 58,0,N/A,N/A,N/A
+18,De'Aaron Fox,FT,None,9:38,3,Kings,Trail Blazers,52 - 59,1,N/A,1,N/A
+19,De'Aaron Fox,FT,None,9:38,3,Kings,Trail Blazers,52 - 60,1,N/A,1,N/A
+20,Damian Lillard,FG_MISS,None,9:28,3,Trail Blazers,Kings,52 - 60,0,0,2,Layup
+21,Nemanja Bjelica,DEFENSIVE_REBOUND,None,9:26,3,Kings,Trail Blazers,52 - 60,1,N/A,N/A,N/A
+22,De'Aaron Fox,FG_MISS,None,9:13,3,Kings,Trail Blazers,52 - 60,1,23,2,Jumper
+23,Jusuf Nurkic,DEFENSIVE_REBOUND,None,9:10,3,Trail Blazers,Kings,52 - 60,0,N/A,N/A,N/A
+24,CJ McCollum,FG_MISS,None,9:02,3,Trail Blazers,Kings,52 - 60,0,22,2,Jumper
+25,Jusuf Nurkic,OFFENSIVE_REBOUND,None,8:58,3,Trail Blazers,Kings,52 - 60,0,N/A,N/A,N/A
+26,Iman Shumpert,FOUL_ON_FLOOR,None,8:47,3,Kings,Trail Blazers,52 - 60,1,N/A,N/A,N/A
+27,CJ McCollum,FG_MISS,None,8:34,3,Trail Blazers,Kings,52 - 60,0,0,2,Layup
+28,Al-Farouq Aminu,OFFENSIVE_REBOUND,None,8:34,3,Trail Blazers,Kings,52 - 60,0,N/A,N/A,N/A
+29,Willie Cauley-Stein,FOUL_ON_FLOOR,None,8:34,3,Kings,Trail Blazers,52 - 60,1,N/A,N/A,N/A
+30,Terry Stotts,FOUL_TECHNICAL,None,8:34,3,Trail Blazers,Kings,52 - 60,0,N/A,N/A,N/A
+31,Buddy Hield,FT,None,8:34,3,Kings,Trail Blazers,52 - 61,1,N/A,1,N/A
+32,Al-Farouq Aminu,FT,None,8:34,3,Trail Blazers,Kings,53 - 61,0,N/A,1,N/A
+33,Al-Farouq Aminu,FT,None,8:34,3,Trail Blazers,Kings,54 - 61,0,N/A,1,N/A
+34,Iman Shumpert,FG_MISS,None,8:15,3,Kings,Trail Blazers,54 - 61,1,25,2,Jumper
+35,Nemanja Bjelica,OFFENSIVE_REBOUND,None,8:11,3,Kings,Trail Blazers,54 - 61,1,N/A,N/A,N/A
+36,Nemanja Bjelica,FG_UNASSISTED,None,8:09,3,Kings,Trail Blazers,54 - 63,1,2,2,Jumper
+37,Damian Lillard,FG_UNASSISTED,None,8:00,3,Trail Blazers,Kings,56 - 63,0,0,2,Layup
+38,De'Aaron Fox,FG_MISS,None,7:47,3,Kings,Trail Blazers,56 - 63,1,0,2,Layup
+39,Jusuf Nurkic,DEFENSIVE_REBOUND,None,7:44,3,Trail Blazers,Kings,56 - 63,0,N/A,N/A,N/A
+40,Jusuf Nurkic,TURNOVER,Iman Shumpert,7:43,3,Trail Blazers,Kings,56 - 63,0,N/A,N/A,N/A
+41,Iman Shumpert,FG_MISS,None,7:39,3,Kings,Trail Blazers,56 - 63,1,0,2,Layup
+42,CJ McCollum,DEFENSIVE_REBOUND,None,7:36,3,Trail Blazers,Kings,56 - 63,0,N/A,N/A,N/A
+43,Jake Layman,FG_ASSISTED,Jusuf Nurkic,7:28,3,Trail Blazers,Kings,58 - 63,0,0,2,Layup
+44,De'Aaron Fox,FOUL_ON_FLOOR,None,7:28,3,Kings,Trail Blazers,58 - 63,1,N/A,N/A,N/A
+45,Jake Layman,FT,None,7:28,3,Trail Blazers,Kings,59 - 63,0,N/A,1,N/A
+46,Team,Unknown,None,7:28,3,Kings,Trail Blazers,59 - 63,1,N/A,N/A,N/A
+47,De'Aaron Fox,FG_ASSISTED,Nemanja Bjelica,7:13,3,Kings,Trail Blazers,59 - 65,1,2,2,Jumper
+48,Jake Layman,FOUL_ON_FLOOR,None,7:02,3,Trail Blazers,Kings,59 - 65,0,N/A,N/A,N/A
+49,Jake Layman,TURNOVER,None,7:02,3,Trail Blazers,Kings,59 - 65,0,N/A,N/A,N/A
+50,Jusuf Nurkic,FOUL_ON_FLOOR,None,6:50,3,Trail Blazers,Kings,59 - 65,0,N/A,N/A,N/A
+51,De'Aaron Fox,FT,None,6:50,3,Kings,Trail Blazers,59 - 66,1,N/A,1,N/A
+52,De'Aaron Fox,FT,None,6:50,3,Kings,Trail Blazers,59 - 67,1,N/A,1,N/A
+53,Damian Lillard,FG_MISS,None,6:37,3,Trail Blazers,Kings,59 - 67,0,25,3,Jumper
+54,CJ McCollum,OFFENSIVE_REBOUND,None,6:35,3,Trail Blazers,Kings,59 - 67,0,N/A,N/A,N/A
+55,CJ McCollum,FG_MISS,None,6:33,3,Trail Blazers,Kings,59 - 67,0,11,2,Jumper
+56,Buddy Hield,DEFENSIVE_REBOUND,None,6:31,3,Kings,Trail Blazers,59 - 67,1,N/A,N/A,N/A
+57,Iman Shumpert,FG_ASSISTED,Willie Cauley-Stein,6:17,3,Kings,Trail Blazers,59 - 70,1,24,3,Jumper
+58,CJ McCollum,FG_MISS,None,5:56,3,Trail Blazers,Kings,59 - 70,0,9,2,Jumper
+59,Nemanja Bjelica,DEFENSIVE_REBOUND,None,5:54,3,Kings,Trail Blazers,59 - 70,1,N/A,N/A,N/A
+60,Willie Cauley-Stein,FG_ASSISTED,De'Aaron Fox,5:48,3,Kings,Trail Blazers,59 - 72,1,0,2,Layup
+61,Team,Unknown,None,5:48,3,Trail Blazers,Kings,59 - 72,0,N/A,N/A,N/A
+62,Seth Curry,SUBSTITUTION,McCollum CJ,5:48,3,Trail Blazers,Kings,59 - 72,0,N/A,N/A,N/A
+63,Evan Turner,SUBSTITUTION,Layman Jake,5:48,3,Trail Blazers,Kings,59 - 72,0,N/A,N/A,N/A
+64,Damian Lillard,FG_UNASSISTED,None,5:35,3,Trail Blazers,Kings,62 - 72,0,27,3,Jumper
+65,Willie Cauley-Stein,FG_ASSISTED,De'Aaron Fox,5:18,3,Kings,Trail Blazers,62 - 74,1,0,2,Dunk
+66,Al-Farouq Aminu,FG_MISS,None,5:04,3,Trail Blazers,Kings,62 - 74,0,25,3,Jumper
+67,Team,DEFENSIVE_REBOUND,None,5:04,3,Kings,Trail Blazers,62 - 74,1,N/A,N/A,N/A
+68,Bogdan Bogdanovic,SUBSTITUTION,Shumpert Iman,5:04,3,Kings,Trail Blazers,62 - 74,1,N/A,N/A,N/A
+69,Marvin Bagley,SUBSTITUTION,Bjelica Nemanja,5:04,3,Kings,Trail Blazers,62 - 74,1,N/A,N/A,N/A
+70,Bogdan Bogdanovic,FG_UNASSISTED,None,4:47,3,Kings,Trail Blazers,62 - 76,1,11,2,Jumper
+71,Jusuf Nurkic,FG_MISS,None,4:30,3,Trail Blazers,Kings,62 - 76,0,22,2,Jumper
+72,Team,DEFENSIVE_REBOUND,None,4:28,3,Kings,Trail Blazers,62 - 76,1,N/A,N/A,N/A
+73,Marvin Bagley,FG_UNASSISTED,None,4:18,3,Kings,Trail Blazers,62 - 78,1, ,2,Jumper
+74,Evan Turner,FG_ASSISTED,Damian Lillard,3:59,3,Trail Blazers,Kings,64 - 78,0, ,2,Jumper
+75,Bogdan Bogdanovic,FOUL_ON_FLOOR,None,3:59,3,Kings,Trail Blazers,64 - 78,1,N/A,N/A,N/A
+76,Meyers Leonard,SUBSTITUTION,Aminu Al-Farouq,3:59,3,Trail Blazers,Kings,64 - 78,0,N/A,N/A,N/A
+77,Zach Collins,SUBSTITUTION,Nurkic Jusuf,3:59,3,Trail Blazers,Kings,64 - 78,0,N/A,N/A,N/A
+78,Evan Turner,FT,None,3:59,3,Trail Blazers,Kings,65 - 78,0,N/A,1,N/A
+79,Buddy Hield,FG_MISS,None,3:48,3,Kings,Trail Blazers,65 - 78,1,22,2,Jumper
+80,Meyers Leonard,DEFENSIVE_REBOUND,None,3:45,3,Trail Blazers,Kings,65 - 78,0,N/A,N/A,N/A
+81,Damian Lillard,FG_MISS,None,3:40,3,Trail Blazers,Kings,65 - 78,0,26,3,Jumper
+82,Marvin Bagley,DEFENSIVE_REBOUND,None,3:35,3,Kings,Trail Blazers,65 - 78,1,N/A,N/A,N/A
+83,De'Aaron Fox,FG_MISS,None,3:17,3,Kings,Trail Blazers,65 - 78,1,25,3,Jumper
+84,Evan Turner,DEFENSIVE_REBOUND,None,3:12,3,Trail Blazers,Kings,65 - 78,0,N/A,N/A,N/A
+85,Seth Curry,FG_MISS,None,3:06,3,Trail Blazers,Kings,65 - 78,0,12,2,Jumper
+86,Evan Turner,OFFENSIVE_REBOUND,None,3:01,3,Trail Blazers,Kings,65 - 78,0,N/A,N/A,N/A
+87,Seth Curry,FG_ASSISTED,Damian Lillard,2:58,3,Trail Blazers,Kings,68 - 78,0,25,3,Jumper
+88,Marvin Bagley,FOUL_ON_FLOOR,None,2:43,3,Kings,Trail Blazers,68 - 78,1,N/A,N/A,N/A
+89,Marvin Bagley,TURNOVER,None,2:43,3,Kings,Trail Blazers,68 - 78,1,N/A,N/A,N/A
+90,Yogi Ferrell,SUBSTITUTION,Cauley-Stein Willie,2:43,3,Kings,Trail Blazers,68 - 78,1,N/A,N/A,N/A
+91,Harry Giles,SUBSTITUTION,Fox De'Aaron,2:43,3,Kings,Trail Blazers,68 - 78,1,N/A,N/A,N/A
+92,Damian Lillard,FG_MISS,None,2:25,3,Trail Blazers,Kings,68 - 78,0,26,3,Jumper
+93,Marvin Bagley,DEFENSIVE_REBOUND,None,2:21,3,Kings,Trail Blazers,68 - 78,1,N/A,N/A,N/A
+94,Marvin Bagley,FG_MISS,None,2:11,3,Kings,Trail Blazers,68 - 78,1,14,2,Jumper
+95,Buddy Hield,OFFENSIVE_REBOUND,None,2:08,3,Kings,Trail Blazers,68 - 78,1,N/A,N/A,N/A
+96,Buddy Hield,FG_UNASSISTED,None,2:06,3,Kings,Trail Blazers,68 - 81,1,23,3,Jumper
+97,Damian Lillard,FG_ASSISTED,Evan Turner,1:45,3,Trail Blazers,Kings,70 - 81,0, ,2,Jumper
+98,Marvin Bagley,FG_MISS,Zach Collins,1:38,3,Trail Blazers,Kings,70 - 81,1,0,2,Layup
+99,Zach Collins,DEFENSIVE_REBOUND,None,1:38,3,Trail Blazers,Kings,70 - 81,0,N/A,N/A,N/A
+100,Meyers Leonard,FG_ASSISTED,Evan Turner,1:32,3,Trail Blazers,Kings,72 - 81,0,0,2,Dunk
+101,Bogdan Bogdanovic,TURNOVER,Evan Turner,1:15,3,Kings,Trail Blazers,72 - 81,1,N/A,N/A,N/A
+102,Yogi Ferrell,FOUL_ON_FLOOR,None,1:11,3,Kings,Trail Blazers,72 - 81,1,N/A,N/A,N/A
+103,Damian Lillard,FT,None,1:11,3,Trail Blazers,Kings,73 - 81,0,N/A,1,N/A
+104,Justin Jackson,SUBSTITUTION,Hield Buddy,1:11,3,Kings,Trail Blazers,73 - 81,1,N/A,N/A,N/A
+105,Damian Lillard,FT,None,1:11,3,Trail Blazers,Kings,74 - 81,0,N/A,1,N/A
+106,Marvin Bagley,FG_MISS,None,51.5,3,Kings,Trail Blazers,74 - 81,1,5,2,Jumper
+107,Marvin Bagley,OFFENSIVE_REBOUND,None,50.2,3,Kings,Trail Blazers,74 - 81,1,N/A,N/A,N/A
+108,Marvin Bagley,FG_UNASSISTED,None,50.2,3,Kings,Trail Blazers,74 - 83,1,0,2,Dunk
+109,Meyers Leonard,FG_MISS,None,32.6,3,Trail Blazers,Kings,74 - 83,0,25,3,Jumper
+110,Marvin Bagley,DEFENSIVE_REBOUND,None,29.4,3,Kings,Trail Blazers,74 - 83,1,N/A,N/A,N/A
+111,Yogi Ferrell,FG_MISS,None,11.7,3,Kings,Trail Blazers,74 - 83,1,14,2,Jumper
+112,Meyers Leonard,DEFENSIVE_REBOUND,None,5.2,3,Trail Blazers,Kings,74 - 83,0,N/A,N/A,N/A
+113,Harry Giles,FOUL_ON_FLOOR,None,1.7,3,Kings,Trail Blazers,74 - 83,1,N/A,N/A,N/A
+114,Zach Collins,FT,None,1.7,3,Trail Blazers,Kings,75 - 83,0,N/A,1,N/A
+115,Jake Layman,SUBSTITUTION,Lillard Damian,1.7,3,Trail Blazers,Kings,75 - 83,0,N/A,N/A,N/A
+116,Zach Collins,FT_MISS,None,1.7,3,Trail Blazers,Kings,75 - 83,0,N/A,1,N/A
+117,Harry Giles,DEFENSIVE_REBOUND,None,1.7,3,Kings,Trail Blazers,75 - 83,1,N/A,N/A,N/A
+118,End of,Unknown,None,0.0,3,Kings,Trail Blazers,75 - 83,1,N/A,N/A,N/A
+0,Seth Curry,FG_MISS,None,11:49,4,Trail Blazers,Kings,75 - 83,0,26,3,Jumper
+1,Bogdan Bogdanovic,DEFENSIVE_REBOUND,None,11:43,4,Kings,Trail Blazers,75 - 83,1,N/A,N/A,N/A
+2,Justin Jackson,FG_MISS,None,11:38,4,Kings,Trail Blazers,75 - 83,1,22,3,Jumper
+3,Team,OFFENSIVE_REBOUND,None,11:38,4,Kings,Trail Blazers,75 - 83,1,N/A,N/A,N/A
+4,Jake Layman,FOUL_ON_FLOOR,None,11:38,4,Trail Blazers,Kings,75 - 83,0,N/A,N/A,N/A
+5,Bogdan Bogdanovic,FG_ASSISTED,Harry Giles,11:25,4,Kings,Trail Blazers,75 - 86,1,23,3,Jumper
+6,Meyers Leonard,FG_ASSISTED,Seth Curry,11:05,4,Trail Blazers,Kings,78 - 86,0,26,3,Jumper
+7,Bogdan Bogdanovic,TURNOVER,Meyers Leonard,10:54,4,Kings,Trail Blazers,78 - 86,1,N/A,N/A,N/A
+8,Seth Curry,FG_MISS,None,10:48,4,Trail Blazers,Kings,78 - 86,0,25,3,Jumper
+9,Jake Layman,OFFENSIVE_REBOUND,None,10:45,4,Trail Blazers,Kings,78 - 86,0,N/A,N/A,N/A
+10,Jake Layman,FG_UNASSISTED,None,10:45,4,Trail Blazers,Kings,80 - 86,0,0,2,Layup
+11,Harry Giles,FG_UNASSISTED,None,10:22,4,Kings,Trail Blazers,80 - 88,1,0,2,Layup
+12,Bogdan Bogdanovic,FOUL_ON_FLOOR,None,10:08,4,Kings,Trail Blazers,80 - 88,1,N/A,N/A,N/A
+13,Jake Layman,FG_MISS,None,10:03,4,Trail Blazers,Kings,80 - 88,0,26,3,Jumper
+14,Marvin Bagley,DEFENSIVE_REBOUND,None,10:00,4,Kings,Trail Blazers,80 - 88,1,N/A,N/A,N/A
+15,Bogdan Bogdanovic,TURNOVER,None,9:40,4,Kings,Trail Blazers,80 - 88,1,N/A,N/A,N/A
+16,Jake Layman,FG_ASSISTED,Evan Turner,9:25,4,Trail Blazers,Kings,82 - 88,0,0,2,Layup
+17,Team,Unknown,None,9:24,4,Kings,Trail Blazers,82 - 88,1,N/A,N/A,N/A
+18,Marvin Bagley,FG_UNASSISTED,None,9:06,4,Kings,Trail Blazers,82 - 90,1,14,2,Jumper
+19,Zach Collins,FOUL_ON_FLOOR,None,9:06,4,Trail Blazers,Kings,82 - 90,0,N/A,N/A,N/A
+20,Marvin Bagley,FT_MISS,None,9:06,4,Kings,Trail Blazers,82 - 90,1,N/A,1,N/A
+21,Zach Collins,DEFENSIVE_REBOUND,None,9:03,4,Trail Blazers,Kings,82 - 90,0,N/A,N/A,N/A
+22,Jake Layman,FG_MISS,None,8:54,4,Trail Blazers,Kings,82 - 90,0,0,2,Dunk
+23,Harry Giles,DEFENSIVE_REBOUND,None,8:52,4,Kings,Trail Blazers,82 - 90,1,N/A,N/A,N/A
+24,Justin Jackson,FG_ASSISTED,Yogi Ferrell,8:47,4,Kings,Trail Blazers,82 - 93,1, ,3,Jumper
+25,Jake Layman,FG_MISS,None,8:21,4,Trail Blazers,Kings,82 - 93,0,25,3,Jumper
+26,Meyers Leonard,OFFENSIVE_REBOUND,None,8:18,4,Trail Blazers,Kings,82 - 93,0,N/A,N/A,N/A
+27,Evan Turner,FG_ASSISTED,Meyers Leonard,8:15,4,Trail Blazers,Kings,85 - 93,0,26,3,Jumper
+28,Seth Curry,FOUL_ON_FLOOR,None,8:04,4,Trail Blazers,Kings,85 - 93,0,N/A,N/A,N/A
+29,Yogi Ferrell,FT,None,8:04,4,Kings,Trail Blazers,85 - 94,1,N/A,1,N/A
+30,Damian Lillard,SUBSTITUTION,Curry Seth,8:04,4,Trail Blazers,Kings,85 - 94,0,N/A,N/A,N/A
+31,Yogi Ferrell,FT,None,8:04,4,Kings,Trail Blazers,85 - 95,1,N/A,1,N/A
+32,Damian Lillard,FG_ASSISTED,Evan Turner,7:57,4,Trail Blazers,Kings,88 - 95,0,26,3,Jumper
+33,Evan Turner,FOUL_ON_FLOOR,None,7:48,4,Trail Blazers,Kings,88 - 95,0,N/A,N/A,N/A
+34,Justin Jackson,FG_ASSISTED,Bogdan Bogdanovic,7:39,4,Kings,Trail Blazers,88 - 98,1,25,3,Jumper
+35,Team,Unknown,None,7:36,4,Trail Blazers,Kings,88 - 98,0,N/A,N/A,N/A
+36,De'Aaron Fox,SUBSTITUTION,Ferrell Yogi,7:36,4,Kings,Trail Blazers,88 - 98,1,N/A,N/A,N/A
+37,CJ McCollum,SUBSTITUTION,Layman Jake,7:36,4,Trail Blazers,Kings,88 - 98,0,N/A,N/A,N/A
+38,Evan Turner,FG_MISS,None,7:13,4,Trail Blazers,Kings,88 - 98,0,23,3,Jumper
+39,Marvin Bagley,DEFENSIVE_REBOUND,None,7:08,4,Kings,Trail Blazers,88 - 98,1,N/A,N/A,N/A
+40,Harry Giles,TURNOVER,None,6:55,4,Kings,Trail Blazers,88 - 98,1,N/A,N/A,N/A
+41,Damian Lillard,FG_MISS,None,6:36,4,Trail Blazers,Kings,88 - 98,0,26,3,Jumper
+42,Justin Jackson,DEFENSIVE_REBOUND,None,6:33,4,Kings,Trail Blazers,88 - 98,1,N/A,N/A,N/A
+43,Marvin Bagley,FG_MISS,None,6:23,4,Kings,Trail Blazers,88 - 98,1, ,2,Jumper
+44,Marvin Bagley,OFFENSIVE_REBOUND,None,6:18,4,Kings,Trail Blazers,88 - 98,1,N/A,N/A,N/A
+45,Marvin Bagley,FG_UNASSISTED,None,6:18,4,Kings,Trail Blazers,88 - 100,1,1,2,Jumper
+46,Harry Giles,FOUL_ON_FLOOR,None,6:08,4,Kings,Trail Blazers,88 - 100,1,N/A,N/A,N/A
+47,Damian Lillard,FT,None,6:08,4,Trail Blazers,Kings,89 - 100,0,N/A,1,N/A
+48,Jusuf Nurkic,SUBSTITUTION,Leonard Meyers,6:08,4,Trail Blazers,Kings,89 - 100,0,N/A,N/A,N/A
+49,Al-Farouq Aminu,SUBSTITUTION,Collins Zach,6:08,4,Trail Blazers,Kings,89 - 100,0,N/A,N/A,N/A
+50,Damian Lillard,FT,None,6:08,4,Trail Blazers,Kings,90 - 100,0,N/A,1,N/A
+51,Harry Giles,FG_ASSISTED,De'Aaron Fox,5:57,4,Kings,Trail Blazers,90 - 102,1,0,2,Layup
+52,Evan Turner,FG_ASSISTED,Jusuf Nurkic,5:40,4,Trail Blazers,Kings,92 - 102,0,2,2,Jumper
+53,Evan Turner,FOUL_ON_FLOOR,None,5:30,4,Trail Blazers,Kings,92 - 102,0,N/A,N/A,N/A
+54,Marvin Bagley,FT_MISS,None,5:30,4,Kings,Trail Blazers,92 - 102,1,N/A,1,N/A
+55,Team,OFFENSIVE_REBOUND,None,5:30,4,Kings,Trail Blazers,92 - 102,1,N/A,N/A,N/A
+56,Iman Shumpert,SUBSTITUTION,Jackson Justin,5:30,4,Kings,Trail Blazers,92 - 102,1,N/A,N/A,N/A
+57,Marvin Bagley,FT_MISS,None,5:30,4,Kings,Trail Blazers,92 - 102,1,N/A,1,N/A
+58,Jusuf Nurkic,DEFENSIVE_REBOUND,None,5:28,4,Trail Blazers,Kings,92 - 102,0,N/A,N/A,N/A
+59,De'Aaron Fox,FOUL_ON_FLOOR,None,5:23,4,Kings,Trail Blazers,92 - 102,1,N/A,N/A,N/A
+60,Damian Lillard,FT,None,5:23,4,Trail Blazers,Kings,93 - 102,0,N/A,1,N/A
+61,Damian Lillard,FT,None,5:23,4,Trail Blazers,Kings,94 - 102,0,N/A,1,N/A
+62,Damian Lillard,FT,None,5:23,4,Trail Blazers,Kings,95 - 102,0,N/A,1,N/A
+63,Team,Unknown,None,5:23,4,Kings,Trail Blazers,95 - 102,1,N/A,N/A,N/A
+64,Willie Cauley-Stein,SUBSTITUTION,Giles Harry,5:23,4,Kings,Trail Blazers,95 - 102,1,N/A,N/A,N/A
+65,Team,Unknown,None,5:23,4,Kings,Trail Blazers,95 - 102,1,N/A,N/A,N/A
+66,Bogdan Bogdanovic,FG_UNASSISTED,None,5:04,4,Kings,Trail Blazers,95 - 104,1,0,2,Layup
+67,Evan Turner,FG_MISS,None,4:46,4,Trail Blazers,Kings,95 - 104,0,0,2,Layup
+68,Marvin Bagley,DEFENSIVE_REBOUND,None,4:42,4,Kings,Trail Blazers,95 - 104,1,N/A,N/A,N/A
+69,Bogdan Bogdanovic,FOUL_ON_FLOOR,None,4:35,4,Kings,Trail Blazers,95 - 104,1,N/A,N/A,N/A
+70,Bogdan Bogdanovic,TURNOVER,None,4:35,4,Kings,Trail Blazers,95 - 104,1,N/A,N/A,N/A
+71,Damian Lillard,FG_MISS,None,4:28,4,Trail Blazers,Kings,95 - 104,0,14,2,Jumper
+72,Damian Lillard,OFFENSIVE_REBOUND,None,4:25,4,Trail Blazers,Kings,95 - 104,0,N/A,N/A,N/A
+73,Damian Lillard,FG_MISS,None,4:24,4,Trail Blazers,Kings,95 - 104,0,5,2,Jumper
+74,Willie Cauley-Stein,DEFENSIVE_REBOUND,None,4:22,4,Kings,Trail Blazers,95 - 104,1,N/A,N/A,N/A
+75,Evan Turner,FOUL_ON_FLOOR,None,4:16,4,Trail Blazers,Kings,95 - 104,0,N/A,N/A,N/A
+76,De'Aaron Fox,FT_MISS,None,4:16,4,Kings,Trail Blazers,95 - 104,1,N/A,1,N/A
+77,Team,OFFENSIVE_REBOUND,None,4:16,4,Kings,Trail Blazers,95 - 104,1,N/A,N/A,N/A
+78,De'Aaron Fox,FT,None,4:16,4,Kings,Trail Blazers,95 - 105,1,N/A,1,N/A
+79,Evan Turner,FG_UNASSISTED,None,4:05,4,Trail Blazers,Kings,97 - 105,0,0,2,Dunk
+80,Willie Cauley-Stein,FG_MISS,None,3:49,4,Kings,Trail Blazers,97 - 105,1,15,2,Jumper
+81,Al-Farouq Aminu,DEFENSIVE_REBOUND,None,3:45,4,Trail Blazers,Kings,97 - 105,0,N/A,N/A,N/A
+82,Jusuf Nurkic,FG_ASSISTED,Damian Lillard,3:41,4,Trail Blazers,Kings,99 - 105,0,1,2,Jumper
+83,Marvin Bagley,FOUL_ON_FLOOR,None,3:41,4,Kings,Trail Blazers,99 - 105,1,N/A,N/A,N/A
+84,Buddy Hield,SUBSTITUTION,III Bagley,3:41,4,Kings,Trail Blazers,99 - 105,1,N/A,N/A,N/A
+85,Jusuf Nurkic,FT_MISS,None,3:41,4,Trail Blazers,Kings,99 - 105,0,N/A,1,N/A
+86,Willie Cauley-Stein,DEFENSIVE_REBOUND,None,3:38,4,Kings,Trail Blazers,99 - 105,1,N/A,N/A,N/A
+87,De'Aaron Fox,FG_MISS,None,3:19,4,Kings,Trail Blazers,99 - 105,1,17,2,Jumper
+88,Buddy Hield,OFFENSIVE_REBOUND,None,3:14,4,Kings,Trail Blazers,99 - 105,1,N/A,N/A,N/A
+89,Buddy Hield,FG_MISS,None,3:01,4,Kings,Trail Blazers,99 - 105,1,25,3,Jumper
+90,Al-Farouq Aminu,DEFENSIVE_REBOUND,None,2:58,4,Trail Blazers,Kings,99 - 105,0,N/A,N/A,N/A
+91,Iman Shumpert,FOUL_ON_FLOOR,None,2:53,4,Kings,Trail Blazers,99 - 105,1,N/A,N/A,N/A
+92,Al-Farouq Aminu,FT_MISS,None,2:53,4,Trail Blazers,Kings,99 - 105,0,N/A,1,N/A
+93,Team,OFFENSIVE_REBOUND,None,2:53,4,Trail Blazers,Kings,99 - 105,0,N/A,N/A,N/A
+94,Al-Farouq Aminu,FT_MISS,None,2:53,4,Trail Blazers,Kings,99 - 105,0,N/A,1,N/A
+95,Bogdan Bogdanovic,DEFENSIVE_REBOUND,None,2:51,4,Kings,Trail Blazers,99 - 105,1,N/A,N/A,N/A
+96,Jusuf Nurkic,FOUL_ON_FLOOR,None,2:39,4,Trail Blazers,Kings,99 - 105,0,N/A,N/A,N/A
+97,Willie Cauley-Stein,FT,None,2:39,4,Kings,Trail Blazers,99 - 106,1,N/A,1,N/A
+98,Willie Cauley-Stein,FT,None,2:39,4,Kings,Trail Blazers,99 - 107,1,N/A,1,N/A
+99,Jusuf Nurkic,FG_MISS,None,2:22,4,Trail Blazers,Kings,99 - 107,0,6,2,Jumper
+100,Al-Farouq Aminu,OFFENSIVE_REBOUND,None,2:17,4,Trail Blazers,Kings,99 - 107,0,N/A,N/A,N/A
+101,Al-Farouq Aminu,FG_UNASSISTED,None,2:17,4,Trail Blazers,Kings,101 - 107,0,1,2,Jumper
+102,Bogdan Bogdanovic,FG_ASSISTED,Willie Cauley-Stein,1:56,4,Kings,Trail Blazers,101 - 109,1,19,2,Jumper
+103,Damian Lillard,FG_UNASSISTED,None,1:47,4,Trail Blazers,Kings,103 - 109,0,17,2,Jumper
+104,De'Aaron Fox,FG_UNASSISTED,None,1:30,4,Kings,Trail Blazers,103 - 112,1,25,3,Jumper
+105,Team,Unknown,None,1:30,4,Trail Blazers,Kings,103 - 112,0,N/A,N/A,N/A
+106,Marvin Bagley,SUBSTITUTION,Bogdanovic Bogdan,1:30,4,Kings,Trail Blazers,103 - 112,1,N/A,N/A,N/A
+107,Jake Layman,SUBSTITUTION,Aminu Al-Farouq,1:30,4,Trail Blazers,Kings,103 - 112,0,N/A,N/A,N/A
+108,Damian Lillard,FG_MISS,None,1:27,4,Trail Blazers,Kings,103 - 112,0,29,3,Jumper
+109,CJ McCollum,OFFENSIVE_REBOUND,None,1:24,4,Trail Blazers,Kings,103 - 112,0,N/A,N/A,N/A
+110,De'Aaron Fox,FOUL_ON_FLOOR,None,1:24,4,Kings,Trail Blazers,103 - 112,1,N/A,N/A,N/A
+111,CJ McCollum,FT,None,1:24,4,Trail Blazers,Kings,104 - 112,0,N/A,1,N/A
+112,Al-Farouq Aminu,SUBSTITUTION,Layman Jake,1:24,4,Trail Blazers,Kings,104 - 112,0,N/A,N/A,N/A
+113,CJ McCollum,FT,None,1:24,4,Trail Blazers,Kings,105 - 112,0,N/A,1,N/A
+114,Al-Farouq Aminu,FOUL_ON_FLOOR,None,1:14,4,Trail Blazers,Kings,105 - 112,0,N/A,N/A,N/A
+115,Marvin Bagley,FT_MISS,None,1:14,4,Kings,Trail Blazers,105 - 112,1,N/A,1,N/A
+116,Team,OFFENSIVE_REBOUND,None,1:14,4,Kings,Trail Blazers,105 - 112,1,N/A,N/A,N/A
+117,Justin Jackson,SUBSTITUTION,Fox De'Aaron,1:14,4,Kings,Trail Blazers,105 - 112,1,N/A,N/A,N/A
+118,Jake Layman,SUBSTITUTION,Aminu Al-Farouq,1:14,4,Trail Blazers,Kings,105 - 112,0,N/A,N/A,N/A
+119,Marvin Bagley,FT,None,1:14,4,Kings,Trail Blazers,105 - 113,1,N/A,1,N/A
+120,Marvin Bagley,FOUL_ON_FLOOR,None,1:09,4,Kings,Trail Blazers,105 - 113,1,N/A,N/A,N/A
+121,Nemanja Bjelica,SUBSTITUTION,III Bagley,1:09,4,Kings,Trail Blazers,105 - 113,1,N/A,N/A,N/A
+122,Evan Turner,FT,None,1:09,4,Trail Blazers,Kings,106 - 113,0,N/A,1,N/A
+123,Al-Farouq Aminu,SUBSTITUTION,Layman Jake,1:09,4,Trail Blazers,Kings,106 - 113,0,N/A,N/A,N/A
+124,Evan Turner,FT,None,1:09,4,Trail Blazers,Kings,107 - 113,0,N/A,1,N/A
+125,Team,Unknown,None,1:09,4,Kings,Trail Blazers,107 - 113,1,N/A,N/A,N/A
+126,De'Aaron Fox,SUBSTITUTION,Jackson Justin,1:09,4,Kings,Trail Blazers,107 - 113,1,N/A,N/A,N/A
+127,Bogdan Bogdanovic,SUBSTITUTION,Bjelica Nemanja,1:09,4,Kings,Trail Blazers,107 - 113,1,N/A,N/A,N/A
+128,De'Aaron Fox,FG_MISS,None,47.2,4,Kings,Trail Blazers,107 - 113,1,0,2,Layup
+129,Jusuf Nurkic,DEFENSIVE_REBOUND,None,44.0,4,Trail Blazers,Kings,107 - 113,0,N/A,N/A,N/A
+130,CJ McCollum,FG_MISS,None,41.5,4,Trail Blazers,Kings,107 - 113,0,15,2,Jumper
+131,Al-Farouq Aminu,OFFENSIVE_REBOUND,None,39.1,4,Trail Blazers,Kings,107 - 113,0,N/A,N/A,N/A
+132,Al-Farouq Aminu,FG_MISS,None,39.1,4,Trail Blazers,Kings,107 - 113,0,1,2,Jumper
+133,Team,OFFENSIVE_REBOUND,None,39.1,4,Trail Blazers,Kings,107 - 113,0,N/A,N/A,N/A
+134,Damian Lillard,TURNOVER,None,38.1,4,Trail Blazers,Kings,107 - 113,0,N/A,N/A,N/A
+135,Willie Cauley-Stein,FG_ASSISTED,De'Aaron Fox,21.9,4,Kings,Trail Blazers,107 - 115,1,0,2,Dunk
+136,Damian Lillard,FG_MISS,None,15.5,4,Trail Blazers,Kings,107 - 115,0,28,3,Jumper
+137,Team,DEFENSIVE_REBOUND,None,12.8,4,Kings,Trail Blazers,107 - 115,1,N/A,N/A,N/A
+138,End of,Unknown,None,0.0,4,Kings,Trail Blazers,107 - 115,1,N/A,N/A,N/A
+139,End of,Unknown,None,0.0,4,Kings,Trail Blazers,107 - 115,1,N/A,N/A,N/A

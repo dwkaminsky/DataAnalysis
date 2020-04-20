@@ -1,0 +1,555 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Mitchell Robinson,JUMP_BALL,None,12:00,1,Knicks,Hawks,0 - 0,0,N/A,N/A,N/A
+1,Tim Hardaway,FG_ASSISTED,Damyean Dotson,11:41,1,Knicks,Hawks,2 - 0,0,9,2,Jumper
+2,Trae Young,TURNOVER,None,11:38,1,Hawks,Knicks,2 - 0,1,N/A,N/A,N/A
+3,Mitchell Robinson,FG_ASSISTED,Tim Hardaway,11:31,1,Knicks,Hawks,4 - 0,0,0,2,Dunk
+4,Kent Bazemore,FG_MISS,None,11:14,1,Hawks,Knicks,4 - 0,1,26,3,Jumper
+5,Mitchell Robinson,DEFENSIVE_REBOUND,None,11:10,1,Knicks,Hawks,4 - 0,0,N/A,N/A,N/A
+6,Frank Ntilikina,FG_MISS,None,11:05,1,Knicks,Hawks,4 - 0,0,26,3,Jumper
+7,Alex Len,DEFENSIVE_REBOUND,None,11:02,1,Hawks,Knicks,4 - 0,1,N/A,N/A,N/A
+8,Kent Bazemore,FG_ASSISTED,Omari Spellman,10:53,1,Hawks,Knicks,4 - 3,1,26,3,Jumper
+9,Tim Hardaway,FG_MISS,None,10:41,1,Knicks,Hawks,4 - 3,0,26,3,Jumper
+10,Omari Spellman,DEFENSIVE_REBOUND,None,10:38,1,Hawks,Knicks,4 - 3,1,N/A,N/A,N/A
+11,Trae Young,FG_MISS,None,10:23,1,Hawks,Knicks,4 - 3,1,-,2,Jumper
+12,Mitchell Robinson,DEFENSIVE_REBOUND,None,10:17,1,Knicks,Hawks,4 - 3,0,N/A,N/A,N/A
+13,Damyean Dotson,FG_UNASSISTED,None,10:14,1,Knicks,Hawks,7 - 3,0,25,3,Jumper
+14,Alex Len,FG_MISS,None,9:52,1,Hawks,Knicks,7 - 3,1,23,3,Jumper
+15,Omari Spellman,OFFENSIVE_REBOUND,None,9:46,1,Hawks,Knicks,7 - 3,1,N/A,N/A,N/A
+16,Omari Spellman,FG_MISS,None,9:46,1,Hawks,Knicks,7 - 3,1,-,2,Jumper
+17,Noah Vonleh,DEFENSIVE_REBOUND,None,9:45,1,Knicks,Hawks,7 - 3,0,N/A,N/A,N/A
+18,Mitchell Robinson,TURNOVER,None,9:36,1,Knicks,Hawks,7 - 3,0,N/A,N/A,N/A
+19,Trae Young,TURNOVER,Tim Hardaway,9:24,1,Hawks,Knicks,7 - 3,1,N/A,N/A,N/A
+20,Kent Bazemore,FOUL_ON_FLOOR,None,9:20,1,Hawks,Knicks,7 - 3,1,N/A,N/A,N/A
+21,Tim Hardaway,FT_MISS,None,9:20,1,Knicks,Hawks,7 - 3,0,N/A,1,N/A
+22,Team,OFFENSIVE_REBOUND,None,9:20,1,Knicks,Hawks,7 - 3,0,N/A,N/A,N/A
+23,Tim Hardaway,FT,None,9:20,1,Knicks,Hawks,8 - 3,0,N/A,1,N/A
+24,Alex Len,TURNOVER,None,9:07,1,Hawks,Knicks,8 - 3,1,N/A,N/A,N/A
+25,Frank Ntilikina,FG_UNASSISTED,None,8:54,1,Knicks,Hawks,10 - 3,0,9,2,Jumper
+26,Noah Vonleh,FOUL_ON_FLOOR,None,8:46,1,Knicks,Hawks,10 - 3,0,N/A,N/A,N/A
+27,Frank Ntilikina,FOUL_ON_FLOOR,None,8:41,1,Knicks,Hawks,10 - 3,0,N/A,N/A,N/A
+28,DeAndre' Bembry,FG_MISS,Mitchell Robinson,8:35,1,Knicks,Hawks,10 - 3,1,15,2,Jumper
+29,Team,OFFENSIVE_REBOUND,None,8:35,1,Hawks,Knicks,10 - 3,1,N/A,N/A,N/A
+30,Alex Len,FG_MISS,None,8:32,1,Hawks,Knicks,10 - 3,1,0,2,Layup
+31,Alex Len,OFFENSIVE_REBOUND,None,8:28,1,Hawks,Knicks,10 - 3,1,N/A,N/A,N/A
+32,Alex Len,FG_UNASSISTED,None,8:28,1,Hawks,Knicks,10 - 5,1,-,2,Jumper
+33,Frank Ntilikina,FOUL_ON_FLOOR,None,8:28,1,Knicks,Hawks,10 - 5,0,N/A,N/A,N/A
+34,Emmanuel Mudiay,SUBSTITUTION,Ntilikina Frank,8:28,1,Knicks,Hawks,10 - 5,0,N/A,N/A,N/A
+35,Alex Len,FT,None,8:28,1,Hawks,Knicks,10 - 6,1,N/A,1,N/A
+36,Tim Hardaway,FG_MISS,None,8:10,1,Knicks,Hawks,10 - 6,0,26,3,Jumper
+37,Trae Young,DEFENSIVE_REBOUND,None,8:06,1,Hawks,Knicks,10 - 6,1,N/A,N/A,N/A
+38,DeAndre' Bembry,FG_MISS,None,8:00,1,Hawks,Knicks,10 - 6,1,25,3,Jumper
+39,Noah Vonleh,DEFENSIVE_REBOUND,None,7:56,1,Knicks,Hawks,10 - 6,0,N/A,N/A,N/A
+40,Noah Vonleh,FG_ASSISTED,Damyean Dotson,7:49,1,Knicks,Hawks,13 - 6,0,25,3,Jumper
+41,Alex Len,FG_ASSISTED,Trae Young,7:37,1,Hawks,Knicks,13 - 8,1,0,2,Dunk
+42,Damyean Dotson,FOUL_ON_FLOOR,None,7:37,1,Knicks,Hawks,13 - 8,0,N/A,N/A,N/A
+43,Alex Len,FT_MISS,None,7:37,1,Hawks,Knicks,13 - 8,1,N/A,1,N/A
+44,Noah Vonleh,DEFENSIVE_REBOUND,None,7:37,1,Knicks,Hawks,13 - 8,0,N/A,N/A,N/A
+45,Tim Hardaway,TURNOVER,Kent Bazemore,7:28,1,Knicks,Hawks,13 - 8,0,N/A,N/A,N/A
+46,Trae Young,FG_MISS,None,7:22,1,Hawks,Knicks,13 - 8,1,-,2,Jumper
+47,Kent Bazemore,OFFENSIVE_REBOUND,None,7:17,1,Hawks,Knicks,13 - 8,1,N/A,N/A,N/A
+48,Kent Bazemore,FG_UNASSISTED,None,7:17,1,Hawks,Knicks,13 - 10,1, ,2,Jumper
+49,Noah Vonleh,FG_UNASSISTED,None,7:00,1,Knicks,Hawks,15 - 10,0,0,2,Layup
+50,Omari Spellman,FG_MISS,None,6:45,1,Hawks,Knicks,15 - 10,1,23,3,Jumper
+51,Noah Vonleh,DEFENSIVE_REBOUND,None,6:43,1,Knicks,Hawks,15 - 10,0,N/A,N/A,N/A
+52,Emmanuel Mudiay,FG_MISS,Omari Spellman,6:39,1,Hawks,Knicks,15 - 10,0,2,2,Jumper
+53,Alex Len,DEFENSIVE_REBOUND,None,6:34,1,Hawks,Knicks,15 - 10,1,N/A,N/A,N/A
+54,Omari Spellman,FG_ASSISTED,Kent Bazemore,6:30,1,Hawks,Knicks,15 - 12,1,0,2,Dunk
+55,Team,Unknown,None,6:20,1,Knicks,Hawks,15 - 12,0,N/A,N/A,N/A
+56,Taurean Prince,SUBSTITUTION,Spellman Omari,6:20,1,Hawks,Knicks,15 - 12,1,N/A,N/A,N/A
+57,Dewayne Dedmon,SUBSTITUTION,Bembry DeAndre',6:20,1,Hawks,Knicks,15 - 12,1,N/A,N/A,N/A
+58,Enes Kanter,SUBSTITUTION,Robinson Mitchell,6:20,1,Knicks,Hawks,15 - 12,0,N/A,N/A,N/A
+59,Dewayne Dedmon,FOUL_TECHNICAL,None,6:07,1,Hawks,Knicks,15 - 12,1,N/A,N/A,N/A
+60,Tim Hardaway,FT_MISS,None,6:07,1,Knicks,Hawks,15 - 12,0,N/A,1,N/A
+61,Team,OFFENSIVE_REBOUND,None,6:07,1,Knicks,Hawks,15 - 12,0,N/A,N/A,N/A
+62,Allonzo Trier,SUBSTITUTION,Dotson Damyean,6:07,1,Knicks,Hawks,15 - 12,0,N/A,N/A,N/A
+63,Alex Len,FOUL_ON_FLOOR,None,6:05,1,Hawks,Knicks,15 - 12,1,N/A,N/A,N/A
+64,Trae Young,FOUL_ON_FLOOR,None,6:02,1,Hawks,Knicks,15 - 12,1,N/A,N/A,N/A
+65,Emmanuel Mudiay's,FG_MISS,Taurean Prince,5:59,1,Hawks,Knicks,15 - 12,0,0,2,Layup
+66,Kent Bazemore,DEFENSIVE_REBOUND,None,5:55,1,Hawks,Knicks,15 - 12,1,N/A,N/A,N/A
+67,Kent Bazemore,FG_MISS,None,5:51,1,Hawks,Knicks,15 - 12,1,0,2,Layup
+68,Noah Vonleh,DEFENSIVE_REBOUND,None,5:51,1,Knicks,Hawks,15 - 12,0,N/A,N/A,N/A
+69,Noah Vonleh,FG_UNASSISTED,None,5:42,1,Knicks,Hawks,17 - 12,0,22,2,Jumper
+70,Kent Bazemore,FG_MISS,None,5:26,1,Hawks,Knicks,17 - 12,1,19,2,Jumper
+71,Kent Bazemore,OFFENSIVE_REBOUND,None,5:26,1,Hawks,Knicks,17 - 12,1,N/A,N/A,N/A
+72,Allonzo Trier,FOUL_ON_FLOOR,None,5:26,1,Knicks,Hawks,17 - 12,0,N/A,N/A,N/A
+73,Kent Bazemore,FT,None,5:26,1,Hawks,Knicks,17 - 13,1,N/A,1,N/A
+74,Jeremy Lin,SUBSTITUTION,Young Trae,5:26,1,Hawks,Knicks,17 - 13,1,N/A,N/A,N/A
+75,Vince Carter,SUBSTITUTION,Len Alex,5:26,1,Hawks,Knicks,17 - 13,1,N/A,N/A,N/A
+76,Kent Bazemore,FT,None,5:26,1,Hawks,Knicks,17 - 14,1,N/A,1,N/A
+77,Noah Vonleh,FG_ASSISTED,Emmanuel Mudiay,5:18,1,Knicks,Hawks,20 - 14,0,25,3,Jumper
+78,Jeremy Lin,FG_MISS,None,4:56,1,Hawks,Knicks,20 - 14,1,13,2,Jumper
+79,Noah Vonleh,DEFENSIVE_REBOUND,None,4:52,1,Knicks,Hawks,20 - 14,0,N/A,N/A,N/A
+80,Tim Hardaway,FG_MISS,None,4:44,1,Knicks,Hawks,20 - 14,0, ,3,Jumper
+81,Dewayne Dedmon,DEFENSIVE_REBOUND,None,4:41,1,Hawks,Knicks,20 - 14,1,N/A,N/A,N/A
+82,Kent Bazemore,FG_MISS,None,4:35,1,Hawks,Knicks,20 - 14,1,26,3,Jumper
+83,Enes Kanter,DEFENSIVE_REBOUND,None,4:32,1,Knicks,Hawks,20 - 14,0,N/A,N/A,N/A
+84,Enes Kanter,FG_MISS,None,4:25,1,Knicks,Hawks,20 - 14,0,17,2,Jumper
+85,Noah Vonleh,OFFENSIVE_REBOUND,None,4:22,1,Knicks,Hawks,20 - 14,0,N/A,N/A,N/A
+86,Vince Carter,FOUL_ON_FLOOR,None,4:22,1,Hawks,Knicks,20 - 14,1,N/A,N/A,N/A
+87,Team,Unknown,None,4:22,1,Knicks,Hawks,20 - 14,0,N/A,N/A,N/A
+88,Noah Vonleh,FT_MISS,None,4:22,1,Knicks,Hawks,20 - 14,0,N/A,1,N/A
+89,Team,OFFENSIVE_REBOUND,None,4:22,1,Knicks,Hawks,20 - 14,0,N/A,N/A,N/A
+90,DeAndre' Bembry,SUBSTITUTION,Bazemore Kent,4:22,1,Hawks,Knicks,20 - 14,1,N/A,N/A,N/A
+91,Kevin Knox,SUBSTITUTION,Hardaway Tim,4:22,1,Knicks,Hawks,20 - 14,0,N/A,N/A,N/A
+92,Noah Vonleh,FT,None,4:22,1,Knicks,Hawks,21 - 14,0,N/A,1,N/A
+93,Emmanuel Mudiay,FOUL_ON_FLOOR,None,4:15,1,Knicks,Hawks,21 - 14,0,N/A,N/A,N/A
+94,Jeremy Lin,FT,None,4:15,1,Hawks,Knicks,21 - 15,1,N/A,1,N/A
+95,Jeremy Lin,FT,None,4:15,1,Hawks,Knicks,21 - 16,1,N/A,1,N/A
+96,Kevin Knox,FG_MISS,None,4:03,1,Knicks,Hawks,21 - 16,0,0,2,Layup
+97,Allonzo Trier,OFFENSIVE_REBOUND,None,3:59,1,Knicks,Hawks,21 - 16,0,N/A,N/A,N/A
+98,Allonzo Trier,FG_UNASSISTED,None,3:56,1,Knicks,Hawks,24 - 16,0,25,3,Jumper
+99,Vince Carter,FG_MISS,None,3:44,1,Hawks,Knicks,24 - 16,1,27,3,Jumper
+100,Noah Vonleh,DEFENSIVE_REBOUND,None,3:41,1,Knicks,Hawks,24 - 16,0,N/A,N/A,N/A
+101,Enes Kanter,TURNOVER,DeAndre' Bembry,3:30,1,Knicks,Hawks,24 - 16,0,N/A,N/A,N/A
+102,Taurean Prince,FG_MISS,None,3:26,1,Hawks,Knicks,24 - 16,1,26,3,Jumper
+103,Emmanuel Mudiay,DEFENSIVE_REBOUND,None,3:22,1,Knicks,Hawks,24 - 16,0,N/A,N/A,N/A
+104,Kevin Knox,FG_MISS,None,3:11,1,Knicks,Hawks,24 - 16,0,18,2,Jumper
+105,DeAndre' Bembry,DEFENSIVE_REBOUND,None,3:07,1,Hawks,Knicks,24 - 16,1,N/A,N/A,N/A
+106,Taurean Prince,FG_MISS,None,3:03,1,Hawks,Knicks,24 - 16,1,26,3,Jumper
+107,Emmanuel Mudiay,DEFENSIVE_REBOUND,None,3:00,1,Knicks,Hawks,24 - 16,0,N/A,N/A,N/A
+108,Allonzo Trier,TURNOVER,Vince Carter,2:52,1,Knicks,Hawks,24 - 16,0,N/A,N/A,N/A
+109,Taurean Prince,FG_ASSISTED,Jeremy Lin,2:47,1,Hawks,Knicks,24 - 18,1,0,2,Dunk
+110,Noah Vonleh,FG_MISS,None,2:32,1,Knicks,Hawks,24 - 18,0,26,3,Jumper
+111,Noah Vonleh,OFFENSIVE_REBOUND,None,2:29,1,Knicks,Hawks,24 - 18,0,N/A,N/A,N/A
+112,Vince Carter,FOUL_ON_FLOOR,None,2:27,1,Hawks,Knicks,24 - 18,1,N/A,N/A,N/A
+113,Team,Unknown,None,2:27,1,Hawks,Knicks,24 - 18,1,N/A,N/A,N/A
+114,Mario Hezonja,SUBSTITUTION,Vonleh Noah,2:27,1,Knicks,Hawks,24 - 18,0,N/A,N/A,N/A
+115,Emmanuel Mudiay,FT_MISS,None,2:27,1,Knicks,Hawks,24 - 18,0,N/A,1,N/A
+116,Team,OFFENSIVE_REBOUND,None,2:27,1,Knicks,Hawks,24 - 18,0,N/A,N/A,N/A
+117,Emmanuel Mudiay,FT_MISS,None,2:27,1,Knicks,Hawks,24 - 18,0,N/A,1,N/A
+118,Team,OFFENSIVE_REBOUND,None,2:26,1,Knicks,Hawks,24 - 18,0,N/A,N/A,N/A
+119,Mario Hezonja,FG_MISS,Dewayne Dedmon,2:14,1,Hawks,Knicks,24 - 18,0,13,2,Jumper
+120,Dewayne Dedmon,DEFENSIVE_REBOUND,None,2:14,1,Hawks,Knicks,24 - 18,1,N/A,N/A,N/A
+121,Taurean Prince,FG_ASSISTED,Dewayne Dedmon,1:58,1,Hawks,Knicks,24 - 21,1,26,3,Jumper
+122,Kevin Knox,TURNOVER,None,1:44,1,Knicks,Hawks,24 - 21,0,N/A,N/A,N/A
+123,Dewayne Dedmon,FG_MISS,None,1:30,1,Hawks,Knicks,24 - 21,1,9,2,Jumper
+124,Enes Kanter,DEFENSIVE_REBOUND,None,1:27,1,Knicks,Hawks,24 - 21,0,N/A,N/A,N/A
+125,Kevin Knox,FG_MISS,None,1:10,1,Knicks,Hawks,24 - 21,0,25,3,Jumper
+126,Vince Carter,DEFENSIVE_REBOUND,None,1:07,1,Hawks,Knicks,24 - 21,1,N/A,N/A,N/A
+127,Dewayne Dedmon,FG_ASSISTED,DeAndre' Bembry,54.8,1,Hawks,Knicks,24 - 23,1,0,2,Layup
+128,Jeremy Lin,FOUL_TECHNICAL,None,42.0,1,Hawks,Knicks,24 - 23,1,N/A,N/A,N/A
+129,Allonzo Trier,FT_MISS,None,42.0,1,Knicks,Hawks,24 - 23,0,N/A,1,N/A
+130,Team,OFFENSIVE_REBOUND,None,42.0,1,Knicks,Hawks,24 - 23,0,N/A,N/A,N/A
+131,Allonzo Trier,FG_MISS,None,33.1,1,Knicks,Hawks,24 - 23,0,0,2,Layup
+132,Enes Kanter,OFFENSIVE_REBOUND,None,31.8,1,Knicks,Hawks,24 - 23,0,N/A,N/A,N/A
+133,Enes Kanter,FG_UNASSISTED,None,31.8,1,Knicks,Hawks,26 - 23,0, ,2,Jumper
+134,Vince Carter,FG_ASSISTED,Jeremy Lin,12.3,1,Hawks,Knicks,26 - 26,1,24,3,Jumper
+135,Mario Hezonja,FG_MISS,None,1.5,1,Knicks,Hawks,26 - 26,0,23,3,Jumper
+136,Team,OFFENSIVE_REBOUND,None,1.5,1,Knicks,Hawks,26 - 26,0,N/A,N/A,N/A
+137,End of,Unknown,None,0.0,1,Hawks,Knicks,26 - 26,1,N/A,N/A,N/A
+0,Alex Poythress,SUBSTITUTION,Prince Taurean,12:00,2,Hawks,Knicks,26 - 26,1,N/A,N/A,N/A
+1,Trae Young,SUBSTITUTION,Dedmon Dewayne,12:00,2,Hawks,Knicks,26 - 26,1,N/A,N/A,N/A
+2,Kent Bazemore,SUBSTITUTION,Carter Vince,12:00,2,Hawks,Knicks,26 - 26,1,N/A,N/A,N/A
+3,Alex Len,SUBSTITUTION,Bembry DeAndre',12:00,2,Hawks,Knicks,26 - 26,1,N/A,N/A,N/A
+4,Mario Hezonja,FOUL_ON_FLOOR,None,11:50,2,Knicks,Hawks,26 - 26,0,N/A,N/A,N/A
+5,Jeremy Lin,FT,None,11:50,2,Hawks,Knicks,26 - 27,1,N/A,1,N/A
+6,Jeremy Lin,FT,None,11:50,2,Hawks,Knicks,26 - 28,1,N/A,1,N/A
+7,Enes Kanter,FG_MISS,None,11:32,2,Knicks,Hawks,26 - 28,0,11,2,Jumper
+8,Kent Bazemore,DEFENSIVE_REBOUND,None,11:27,2,Hawks,Knicks,26 - 28,1,N/A,N/A,N/A
+9,Alex Len,FG_ASSISTED,Kent Bazemore,11:21,2,Hawks,Knicks,26 - 31,1,25,3,Jumper
+10,Kevin Knox,FG_MISS,None,10:59,2,Knicks,Hawks,26 - 31,0,25,3,Jumper
+11,Jeremy Lin,DEFENSIVE_REBOUND,None,10:57,2,Hawks,Knicks,26 - 31,1,N/A,N/A,N/A
+12,Alex Len,FG_MISS,None,10:50,2,Hawks,Knicks,26 - 31,1,0,2,Layup
+13,Emmanuel Mudiay,DEFENSIVE_REBOUND,None,10:46,2,Knicks,Hawks,26 - 31,0,N/A,N/A,N/A
+14,Jeremy Lin,FOUL_ON_FLOOR,None,10:45,2,Hawks,Knicks,26 - 31,1,N/A,N/A,N/A
+15,Allonzo Trier,FT,None,10:45,2,Knicks,Hawks,27 - 31,0,N/A,1,N/A
+16,Damyean Dotson,SUBSTITUTION,Knox Kevin,10:45,2,Knicks,Hawks,27 - 31,0,N/A,N/A,N/A
+17,Allonzo Trier,FT_MISS,None,10:45,2,Knicks,Hawks,27 - 31,0,N/A,1,N/A
+18,Kent Bazemore,DEFENSIVE_REBOUND,None,10:43,2,Hawks,Knicks,27 - 31,1,N/A,N/A,N/A
+19,Alex Poythress,FG_MISS,Enes Kanter,10:29,2,Knicks,Hawks,27 - 31,1,0,2,Layup
+20,Damyean Dotson,DEFENSIVE_REBOUND,None,10:26,2,Knicks,Hawks,27 - 31,0,N/A,N/A,N/A
+21,Emmanuel Mudiay,FG_MISS,Alex Len,10:23,2,Hawks,Knicks,27 - 31,0,0,2,Layup
+22,Alex Len,DEFENSIVE_REBOUND,None,10:18,2,Hawks,Knicks,27 - 31,1,N/A,N/A,N/A
+23,Jeremy Lin,FG_ASSISTED,Trae Young,10:16,2,Hawks,Knicks,27 - 34,1,24,3,Jumper
+24,Team,Unknown,None,10:08,2,Knicks,Hawks,27 - 34,0,N/A,N/A,N/A
+25,Frank Ntilikina,SUBSTITUTION,Mudiay Emmanuel,10:08,2,Knicks,Hawks,27 - 34,0,N/A,N/A,N/A
+26,5 second,Unknown,None,10:08,2,Knicks,Hawks,27 - 34,0,N/A,N/A,N/A
+27,Kent Bazemore,FG_MISS,None,9:49,2,Hawks,Knicks,27 - 34,1,18,2,Jumper
+28,Enes Kanter,DEFENSIVE_REBOUND,None,9:45,2,Knicks,Hawks,27 - 34,0,N/A,N/A,N/A
+29,Alex Poythress,FOUL_ON_FLOOR,None,9:40,2,Hawks,Knicks,27 - 34,1,N/A,N/A,N/A
+30,Alex Len,FOUL_ON_FLOOR,None,9:28,2,Hawks,Knicks,27 - 34,1,N/A,N/A,N/A
+31,Enes Kanter,FT_MISS,None,9:28,2,Knicks,Hawks,27 - 34,0,N/A,1,N/A
+32,Team,OFFENSIVE_REBOUND,None,9:28,2,Knicks,Hawks,27 - 34,0,N/A,N/A,N/A
+33,Taurean Prince,SUBSTITUTION,Lin Jeremy,9:28,2,Hawks,Knicks,27 - 34,1,N/A,N/A,N/A
+34,Enes Kanter,FT,None,9:28,2,Knicks,Hawks,28 - 34,0,N/A,1,N/A
+35,Alex Len's,FG_MISS,Enes Kanter,9:07,2,Knicks,Hawks,28 - 34,1,0,2,Layup
+36,Alex Len,OFFENSIVE_REBOUND,None,9:03,2,Hawks,Knicks,28 - 34,1,N/A,N/A,N/A
+37,Alex Len,FG_MISS,None,9:02,2,Hawks,Knicks,28 - 34,1,0,2,Dunk
+38,Allonzo Trier,DEFENSIVE_REBOUND,None,9:02,2,Knicks,Hawks,28 - 34,0,N/A,N/A,N/A
+39,Alex Poythress,FOUL_ON_FLOOR,None,9:02,2,Hawks,Knicks,28 - 34,1,N/A,N/A,N/A
+40,Mario Hezonja,FT,None,9:02,2,Knicks,Hawks,29 - 34,0,N/A,1,N/A
+41,Dewayne Dedmon,SUBSTITUTION,Len Alex,9:02,2,Hawks,Knicks,29 - 34,1,N/A,N/A,N/A
+42,Omari Spellman,SUBSTITUTION,Poythress Alex,9:02,2,Hawks,Knicks,29 - 34,1,N/A,N/A,N/A
+43,Mario Hezonja,FT_MISS,None,9:02,2,Knicks,Hawks,29 - 34,0,N/A,1,N/A
+44,Taurean Prince,DEFENSIVE_REBOUND,None,9:00,2,Hawks,Knicks,29 - 34,1,N/A,N/A,N/A
+45,Taurean Prince,FG_ASSISTED,Trae Young,8:40,2,Hawks,Knicks,29 - 36,1,12,2,Jumper
+46,Dewayne Dedmon,FOUL_ON_FLOOR,None,8:29,2,Hawks,Knicks,29 - 36,1,N/A,N/A,N/A
+47,Enes Kanter,FT,None,8:29,2,Knicks,Hawks,30 - 36,0,N/A,1,N/A
+48,Tim Hardaway,SUBSTITUTION,Trier Allonzo,8:29,2,Knicks,Hawks,30 - 36,0,N/A,N/A,N/A
+49,Enes Kanter,FT,None,8:29,2,Knicks,Hawks,31 - 36,0,N/A,1,N/A
+50,Damyean Dotson,FOUL_ON_FLOOR,None,8:16,2,Knicks,Hawks,31 - 36,0,N/A,N/A,N/A
+51,Noah Vonleh,SUBSTITUTION,Hezonja Mario,8:16,2,Knicks,Hawks,31 - 36,0,N/A,N/A,N/A
+52,Dewayne Dedmon,FOUL_ON_FLOOR,None,8:10,2,Hawks,Knicks,31 - 36,1,N/A,N/A,N/A
+53,Dewayne Dedmon,TURNOVER,None,8:10,2,Hawks,Knicks,31 - 36,1,N/A,N/A,N/A
+54,Frank Ntilikina,FG_MISS,None,7:57,2,Knicks,Hawks,31 - 36,0,5,2,Jumper
+55,Enes Kanter,OFFENSIVE_REBOUND,None,7:55,2,Knicks,Hawks,31 - 36,0,N/A,N/A,N/A
+56,Enes Kanter,FG_UNASSISTED,None,7:53,2,Knicks,Hawks,33 - 36,0, ,2,Jumper
+57,Damyean Dotson,FOUL_ON_FLOOR,None,7:45,2,Knicks,Hawks,33 - 36,0,N/A,N/A,N/A
+58,Taurean Prince,FG_MISS,None,7:38,2,Hawks,Knicks,33 - 36,1,23,3,Jumper
+59,Enes Kanter,DEFENSIVE_REBOUND,None,7:36,2,Knicks,Hawks,33 - 36,0,N/A,N/A,N/A
+60,Enes Kanter,TURNOVER,None,7:36,2,Knicks,Hawks,33 - 36,0,N/A,N/A,N/A
+61,Allonzo Trier,SUBSTITUTION,Dotson Damyean,7:36,2,Knicks,Hawks,33 - 36,0,N/A,N/A,N/A
+62,Kent Bazemore,FG_ASSISTED,Omari Spellman,7:30,2,Hawks,Knicks,33 - 38,1,0,2,Layup
+63,Frank Ntilikina,FG_ASSISTED,Tim Hardaway,7:25,2,Knicks,Hawks,36 - 38,0,26,3,Jumper
+64,Trae Young,FG_MISS,None,7:11,2,Hawks,Knicks,36 - 38,1,0,2,Layup
+65,Noah Vonleh,DEFENSIVE_REBOUND,None,7:08,2,Knicks,Hawks,36 - 38,0,N/A,N/A,N/A
+66,Allonzo Trier,FG_ASSISTED,Frank Ntilikina,7:02,2,Knicks,Hawks,38 - 38,0,0,2,Layup
+67,Team,Unknown,None,7:02,2,Hawks,Knicks,38 - 38,1,N/A,N/A,N/A
+68,Jeremy Lin,SUBSTITUTION,Young Trae,7:02,2,Hawks,Knicks,38 - 38,1,N/A,N/A,N/A
+69,Mitchell Robinson,SUBSTITUTION,Kanter Enes,7:02,2,Knicks,Hawks,38 - 38,0,N/A,N/A,N/A
+70,Omari Spellman,FG_ASSISTED,Taurean Prince,6:45,2,Hawks,Knicks,38 - 40,1,0,2,Layup
+71,Allonzo Trier,FG_ASSISTED,Frank Ntilikina,6:28,2,Knicks,Hawks,40 - 40,0, ,2,Jumper
+72,Jeremy Lin,TURNOVER,Mitchell Robinson,6:09,2,Hawks,Knicks,40 - 40,1,N/A,N/A,N/A
+73,Tim Hardaway,FG_MISS,None,6:01,2,Knicks,Hawks,40 - 40,0,25,3,Jumper
+74,Omari Spellman,DEFENSIVE_REBOUND,None,5:57,2,Hawks,Knicks,40 - 40,1,N/A,N/A,N/A
+75,Kent Bazemore,FG_ASSISTED,Jeremy Lin,5:52,2,Hawks,Knicks,40 - 42,1,0,2,Layup
+76,Frank Ntilikina,FG_UNASSISTED,None,5:42,2,Knicks,Hawks,42 - 42,0,0,2,Layup
+77,Jeremy Lin,TURNOVER,None,5:23,2,Hawks,Knicks,42 - 42,1,N/A,N/A,N/A
+78,Tim Hardaway,FG_UNASSISTED,None,5:12,2,Knicks,Hawks,44 - 42,0,19,2,Jumper
+79,Taurean Prince,TURNOVER,Noah Vonleh,4:58,2,Hawks,Knicks,44 - 42,1,N/A,N/A,N/A
+80,Tim Hardaway,FG_MISS,None,4:50,2,Knicks,Hawks,44 - 42,0,25,3,Jumper
+81,Dewayne Dedmon,DEFENSIVE_REBOUND,None,4:47,2,Hawks,Knicks,44 - 42,1,N/A,N/A,N/A
+82,Frank Ntilikina,FOUL_TECHNICAL,None,4:41,2,Knicks,Hawks,44 - 42,0,N/A,N/A,N/A
+83,Jeremy Lin,FT,None,4:41,2,Hawks,Knicks,44 - 43,1,N/A,1,N/A
+84,Dewayne Dedmon,FG_MISS,Mitchell Robinson,4:30,2,Knicks,Hawks,44 - 43,1,23,3,Jumper
+85,Allonzo Trier,DEFENSIVE_REBOUND,None,4:26,2,Knicks,Hawks,44 - 43,0,N/A,N/A,N/A
+86,Dewayne Dedmon,FOUL_ON_FLOOR,None,4:14,2,Hawks,Knicks,44 - 43,1,N/A,N/A,N/A
+87,Allonzo Trier,FT,None,4:14,2,Knicks,Hawks,45 - 43,0,N/A,1,N/A
+88,DeAndre' Bembry,SUBSTITUTION,Prince Taurean,4:14,2,Hawks,Knicks,45 - 43,1,N/A,N/A,N/A
+89,Allonzo Trier,FT,None,4:14,2,Knicks,Hawks,46 - 43,0,N/A,1,N/A
+90,Omari Spellman,FG_ASSISTED,DeAndre' Bembry,3:59,2,Hawks,Knicks,46 - 46,1,23,3,Jumper
+91,Frank Ntilikina,FG_UNASSISTED,None,3:47,2,Knicks,Hawks,48 - 46,0,15,2,Jumper
+92,Kent Bazemore,FG_MISS,None,3:27,2,Hawks,Knicks,48 - 46,1,0,2,Layup
+93,Noah Vonleh,DEFENSIVE_REBOUND,None,3:22,2,Knicks,Hawks,48 - 46,0,N/A,N/A,N/A
+94,Frank Ntilikina,FG_MISS,None,3:14,2,Knicks,Hawks,48 - 46,0,25,3,Jumper
+95,Kent Bazemore,DEFENSIVE_REBOUND,None,3:10,2,Hawks,Knicks,48 - 46,1,N/A,N/A,N/A
+96,Kent Bazemore,FG_MISS,Noah Vonleh,3:07,2,Knicks,Hawks,48 - 46,1,0,2,Layup
+97,Mitchell Robinson,FOUL_ON_FLOOR,None,3:07,2,Knicks,Hawks,48 - 46,0,N/A,N/A,N/A
+98,Alex Poythress,SUBSTITUTION,Dedmon Dewayne,3:07,2,Hawks,Knicks,48 - 46,1,N/A,N/A,N/A
+99,Enes Kanter,SUBSTITUTION,Robinson Mitchell,3:07,2,Knicks,Hawks,48 - 46,0,N/A,N/A,N/A
+100,Omari Spellman,FT,None,3:07,2,Hawks,Knicks,48 - 47,1,N/A,1,N/A
+101,Omari Spellman,OFFENSIVE_REBOUND,None,3:07,2,Hawks,Knicks,48 - 47,1,N/A,N/A,N/A
+102,Omari Spellman,FG_UNASSISTED,None,3:07,2,Hawks,Knicks,48 - 49,1, ,2,Jumper
+103,Jeremy Lin,FOUL_ON_FLOOR,None,3:06,2,Hawks,Knicks,48 - 47,1,N/A,N/A,N/A
+104,Frank Ntilikina,FT,None,3:06,2,Knicks,Hawks,49 - 47,0,N/A,1,N/A
+105,Frank Ntilikina,FT,None,3:06,2,Knicks,Hawks,50 - 47,0,N/A,1,N/A
+106,Alex Poythress,TURNOVER,Frank Ntilikina,2:53,2,Hawks,Knicks,50 - 47,1,N/A,N/A,N/A
+107,Allonzo Trier,TURNOVER,None,2:35,2,Knicks,Hawks,50 - 47,0,N/A,N/A,N/A
+108,Allonzo Trier,TURNOVER,None,2:35,2,Knicks,Hawks,50 - 47,0,N/A,N/A,N/A
+109,Alex Poythress,FG_ASSISTED,Kent Bazemore,2:20,2,Hawks,Knicks,50 - 49,1,0,2,Layup
+110,Allonzo Trier's,FG_MISS,DeAndre' Bembry,2:05,2,Hawks,Knicks,50 - 49,0,0,2,Layup
+111,Team,OFFENSIVE_REBOUND,None,2:05,2,Knicks,Hawks,50 - 49,0,N/A,N/A,N/A
+112,Kent Bazemore,FOUL_ON_FLOOR,None,2:02,2,Hawks,Knicks,50 - 49,1,N/A,N/A,N/A
+113,Tim Hardaway,FT,None,2:02,2,Knicks,Hawks,51 - 49,0,N/A,1,N/A
+114,Tim Hardaway,FT,None,2:02,2,Knicks,Hawks,52 - 49,0,N/A,1,N/A
+115,Omari Spellman,FG_ASSISTED,Jeremy Lin,1:45,2,Hawks,Knicks,52 - 52,1,25,3,Jumper
+116,Tim Hardaway,FG_MISS,None,1:32,2,Knicks,Hawks,52 - 52,0,0,2,Layup
+117,DeAndre' Bembry,DEFENSIVE_REBOUND,None,1:28,2,Hawks,Knicks,52 - 52,1,N/A,N/A,N/A
+118,Enes Kanter,FOUL_ON_FLOOR,None,1:24,2,Knicks,Hawks,52 - 52,0,N/A,N/A,N/A
+119,Kent Bazemore,FT,None,1:24,2,Hawks,Knicks,52 - 53,1,N/A,1,N/A
+120,Kent Bazemore,FT_MISS,None,1:24,2,Hawks,Knicks,52 - 53,1,N/A,1,N/A
+121,Frank Ntilikina,DEFENSIVE_REBOUND,None,1:21,2,Knicks,Hawks,52 - 53,0,N/A,N/A,N/A
+122,Frank Ntilikina,FG_MISS,None,1:08,2,Knicks,Hawks,52 - 53,0,0,2,Layup
+123,Team,DEFENSIVE_REBOUND,None,1:06,2,Hawks,Knicks,52 - 53,1,N/A,N/A,N/A
+124,Kent Bazemore,FG_MISS,None,45.9,2,Hawks,Knicks,52 - 53,1,26,3,Jumper
+125,Enes Kanter,DEFENSIVE_REBOUND,None,43.8,2,Knicks,Hawks,52 - 53,0,N/A,N/A,N/A
+126,Allonzo Trier,FG_MISS,None,36.3,2,Knicks,Hawks,52 - 53,0,17,2,Jumper
+127,Kent Bazemore,DEFENSIVE_REBOUND,None,32.5,2,Hawks,Knicks,52 - 53,1,N/A,N/A,N/A
+128,Omari Spellman,FG_MISS,None,28.0,2,Hawks,Knicks,52 - 53,1,16,2,Jumper
+129,Allonzo Trier,DEFENSIVE_REBOUND,None,23.5,2,Knicks,Hawks,52 - 53,0,N/A,N/A,N/A
+130,Tim Hardaway,TURNOVER,None,5.3,2,Knicks,Hawks,52 - 53,0,N/A,N/A,N/A
+131,Tim Hardaway,TURNOVER,None,5.3,2,Knicks,Hawks,52 - 53,0,N/A,N/A,N/A
+132,Mitchell Robinson,SUBSTITUTION,Kanter Enes,5.3,2,Knicks,Hawks,52 - 53,0,N/A,N/A,N/A
+133,Jeremy Lin,FG_MISS,None,0.2,2,Hawks,Knicks,52 - 53,1,0,2,Layup
+134,Omari Spellman,OFFENSIVE_REBOUND,None,0.2,2,Hawks,Knicks,52 - 53,1,N/A,N/A,N/A
+135,End of,Unknown,None,0.0,2,Hawks,Knicks,52 - 53,1,N/A,N/A,N/A
+0,Trae Young,SUBSTITUTION,Lin Jeremy,12:00,3,Hawks,Knicks,52 - 53,1,N/A,N/A,N/A
+1,Taurean Prince,SUBSTITUTION,Poythress Alex,12:00,3,Hawks,Knicks,52 - 53,1,N/A,N/A,N/A
+2,Alex Len,SUBSTITUTION,Bembry DeAndre',12:00,3,Hawks,Knicks,52 - 53,1,N/A,N/A,N/A
+3,Damyean Dotson,SUBSTITUTION,Trier Allonzo,12:00,3,Knicks,Hawks,52 - 53,0,N/A,N/A,N/A
+4,Trae Young,FG_MISS,None,11:40,3,Hawks,Knicks,52 - 55,1,27,3,Jumper
+5,Tim Hardaway,DEFENSIVE_REBOUND,None,11:36,3,Knicks,Hawks,52 - 55,0,N/A,N/A,N/A
+6,Frank Ntilikina,TURNOVER,Omari Spellman,11:24,3,Knicks,Hawks,52 - 55,0,N/A,N/A,N/A
+7,Kent Bazemore,FG_MISS,Tim Hardaway,11:20,3,Knicks,Hawks,52 - 55,1,3,2,Jumper
+8,Team,DEFENSIVE_REBOUND,None,11:20,3,Knicks,Hawks,52 - 55,0,N/A,N/A,N/A
+9,Tim Hardaway,FG_ASSISTED,Frank Ntilikina,11:05,3,Knicks,Hawks,55 - 55,0,27,3,Jumper
+10,Team,Unknown,None,11:03,3,Hawks,Knicks,55 - 55,1,N/A,N/A,N/A
+11,Kent Bazemore,FG_MISS,None,10:52,3,Hawks,Knicks,55 - 55,1,23,3,Jumper
+12,Damyean Dotson,DEFENSIVE_REBOUND,None,10:49,3,Knicks,Hawks,55 - 55,0,N/A,N/A,N/A
+13,Frank Ntilikina,FG_MISS,None,10:40,3,Knicks,Hawks,55 - 55,0,0,2,Layup
+14,Taurean Prince,DEFENSIVE_REBOUND,None,10:38,3,Hawks,Knicks,55 - 55,1,N/A,N/A,N/A
+15,Kent Bazemore,FG_MISS,None,10:35,3,Hawks,Knicks,55 - 55,1, ,3,Jumper
+16,Mitchell Robinson,DEFENSIVE_REBOUND,None,10:29,3,Knicks,Hawks,55 - 55,0,N/A,N/A,N/A
+17,Noah Vonleh,FG_MISS,None,10:20,3,Knicks,Hawks,55 - 55,0, ,2,Jumper
+18,Omari Spellman,DEFENSIVE_REBOUND,None,10:17,3,Hawks,Knicks,55 - 55,1,N/A,N/A,N/A
+19,Taurean Prince,FG_MISS,None,10:12,3,Hawks,Knicks,55 - 55,1,26,3,Jumper
+20,Omari Spellman,OFFENSIVE_REBOUND,None,10:12,3,Hawks,Knicks,55 - 55,1,N/A,N/A,N/A
+21,Frank Ntilikina,FOUL_ON_FLOOR,None,10:10,3,Knicks,Hawks,55 - 55,0,N/A,N/A,N/A
+22,Omari Spellman,FT,None,10:10,3,Hawks,Knicks,55 - 56,1,N/A,1,N/A
+23,Omari Spellman,FT,None,10:10,3,Hawks,Knicks,55 - 57,1,N/A,1,N/A
+24,Tim Hardaway,FG_MISS,None,9:52,3,Knicks,Hawks,55 - 57,0,14,2,Jumper
+25,Mitchell Robinson,OFFENSIVE_REBOUND,None,9:46,3,Knicks,Hawks,55 - 57,0,N/A,N/A,N/A
+26,Mitchell Robinson,FG_ASSISTED,Noah Vonleh,9:44,3,Knicks,Hawks,57 - 57,0,13,2,Jumper
+27,Alex Len,FOUL_ON_FLOOR,None,9:29,3,Hawks,Knicks,57 - 57,1,N/A,N/A,N/A
+28,Alex Len,TURNOVER,None,9:29,3,Hawks,Knicks,57 - 57,1,N/A,N/A,N/A
+29,Tim Hardaway,FG_MISS,None,9:16,3,Knicks,Hawks,57 - 57,0,26,3,Jumper
+30,Mitchell Robinson,OFFENSIVE_REBOUND,None,9:13,3,Knicks,Hawks,57 - 57,0,N/A,N/A,N/A
+31,Taurean Prince,FOUL_ON_FLOOR,None,9:12,3,Hawks,Knicks,57 - 57,1,N/A,N/A,N/A
+32,Taurean Prince,FOUL_TECHNICAL,None,9:12,3,Hawks,Knicks,57 - 57,1,N/A,N/A,N/A
+33,Tim Hardaway,FT,None,9:12,3,Knicks,Hawks,58 - 57,0,N/A,1,N/A
+34,Mitchell Robinson,FT,None,9:12,3,Knicks,Hawks,59 - 57,0,N/A,1,N/A
+35,Mitchell Robinson,FT_MISS,None,9:12,3,Knicks,Hawks,59 - 57,0,N/A,1,N/A
+36,Trae Young,DEFENSIVE_REBOUND,None,9:09,3,Hawks,Knicks,59 - 57,1,N/A,N/A,N/A
+37,Damyean Dotson,FOUL_ON_FLOOR,None,9:01,3,Knicks,Hawks,59 - 57,0,N/A,N/A,N/A
+38,Taurean Prince,FG_MISS,None,8:54,3,Hawks,Knicks,59 - 57,1, ,3,Jumper
+39,Frank Ntilikina,DEFENSIVE_REBOUND,None,8:49,3,Knicks,Hawks,59 - 57,0,N/A,N/A,N/A
+40,Tim Hardaway,FG_MISS,None,8:43,3,Knicks,Hawks,59 - 57,0,21,2,Jumper
+41,Omari Spellman,DEFENSIVE_REBOUND,None,8:41,3,Hawks,Knicks,59 - 57,1,N/A,N/A,N/A
+42,Mitchell Robinson,FOUL_ON_FLOOR,None,8:38,3,Knicks,Hawks,59 - 57,0,N/A,N/A,N/A
+43,Alex Len,FT_MISS,None,8:38,3,Hawks,Knicks,59 - 57,1,N/A,1,N/A
+44,Team,OFFENSIVE_REBOUND,None,8:38,3,Hawks,Knicks,59 - 57,1,N/A,N/A,N/A
+45,DeAndre' Bembry,SUBSTITUTION,Bazemore Kent,8:38,3,Hawks,Knicks,59 - 57,1,N/A,N/A,N/A
+46,Allonzo Trier,SUBSTITUTION,Dotson Damyean,8:38,3,Knicks,Hawks,59 - 57,0,N/A,N/A,N/A
+47,Alex Len,FT,None,8:38,3,Hawks,Knicks,59 - 58,1,N/A,1,N/A
+48,Noah Vonleh,FG_MISS,None,8:15,3,Knicks,Hawks,59 - 58,0,25,3,Jumper
+49,Omari Spellman,DEFENSIVE_REBOUND,None,8:10,3,Hawks,Knicks,59 - 58,1,N/A,N/A,N/A
+50,Trae Young,FG_ASSISTED,Omari Spellman,8:03,3,Hawks,Knicks,59 - 60,1,0,2,Layup
+51,Allonzo Trier,FG_MISS,None,7:49,3,Knicks,Hawks,59 - 60,0,24,3,Jumper
+52,Mitchell Robinson,OFFENSIVE_REBOUND,None,7:45,3,Knicks,Hawks,59 - 60,0,N/A,N/A,N/A
+53,Tim Hardaway,FG_UNASSISTED,None,7:38,3,Knicks,Hawks,62 - 60,0,27,3,Jumper
+54,Taurean Prince,FG_ASSISTED,Trae Young,7:24,3,Hawks,Knicks,62 - 63,1,26,3,Jumper
+55,Frank Ntilikina,FOUL_ON_FLOOR,None,7:13,3,Knicks,Hawks,62 - 63,0,N/A,N/A,N/A
+56,Frank Ntilikina,TURNOVER,None,7:13,3,Knicks,Hawks,62 - 63,0,N/A,N/A,N/A
+57,Dewayne Dedmon,SUBSTITUTION,Len Alex,7:13,3,Hawks,Knicks,62 - 63,1,N/A,N/A,N/A
+58,Emmanuel Mudiay,SUBSTITUTION,Ntilikina Frank,7:13,3,Knicks,Hawks,62 - 63,0,N/A,N/A,N/A
+59,Alex Poythress,SUBSTITUTION,Spellman Omari,7:13,3,Hawks,Knicks,62 - 63,1,N/A,N/A,N/A
+60,Trae Young,FG_MISS,None,7:02,3,Hawks,Knicks,62 - 63,1,25,3,Jumper
+61,Noah Vonleh,DEFENSIVE_REBOUND,None,6:58,3,Knicks,Hawks,62 - 63,0,N/A,N/A,N/A
+62,Emmanuel Mudiay's,FG_MISS,DeAndre' Bembry,6:55,3,Hawks,Knicks,62 - 63,0, ,2,Jumper
+63,Team,OFFENSIVE_REBOUND,None,6:55,3,Knicks,Hawks,62 - 63,0,N/A,N/A,N/A
+64,Jeremy Lin,SUBSTITUTION,Young Trae,6:55,3,Hawks,Knicks,62 - 63,1,N/A,N/A,N/A
+65,Enes Kanter,SUBSTITUTION,Robinson Mitchell,6:55,3,Knicks,Hawks,62 - 63,0,N/A,N/A,N/A
+66,Emmanuel Mudiay,FG_ASSISTED,Allonzo Trier,6:36,3,Knicks,Hawks,65 - 63,0,26,3,Jumper
+67,Taurean Prince,TURNOVER,Tim Hardaway,6:20,3,Hawks,Knicks,65 - 63,1,N/A,N/A,N/A
+68,Tim Hardaway,FG_UNASSISTED,None,6:02,3,Knicks,Hawks,67 - 63,0, ,2,Jumper
+69,Kent Bazemore,SUBSTITUTION,Prince Taurean,6:01,3,Hawks,Knicks,67 - 63,1,N/A,N/A,N/A
+70,Tim Hardaway,JUMP_BALL,None,5:57,3,Knicks,Hawks,67 - 63,0,N/A,N/A,N/A
+71,Jeremy Lin,TURNOVER,Tim Hardaway,5:57,3,Hawks,Knicks,67 - 63,1,N/A,N/A,N/A
+72,Dewayne Dedmon,FOUL_ON_FLOOR,None,5:49,3,Hawks,Knicks,67 - 63,1,N/A,N/A,N/A
+73,Emmanuel Mudiay,FG_ASSISTED,Tim Hardaway,5:40,3,Knicks,Hawks,70 - 63,0,23,3,Jumper
+74,DeAndre' Bembry,TURNOVER,None,5:24,3,Hawks,Knicks,70 - 63,1,N/A,N/A,N/A
+75,Tim Hardaway,FG_UNASSISTED,None,5:06,3,Knicks,Hawks,72 - 63,0,19,2,Jumper
+76,Team,Unknown,None,5:04,3,Hawks,Knicks,72 - 63,1,N/A,N/A,N/A
+77,Vince Carter,SUBSTITUTION,Poythress Alex,5:04,3,Hawks,Knicks,72 - 63,1,N/A,N/A,N/A
+78,Vince Carter,FG_MISS,None,4:43,3,Hawks,Knicks,72 - 63,1,23,3,Jumper
+79,Enes Kanter,DEFENSIVE_REBOUND,None,4:40,3,Knicks,Hawks,72 - 63,0,N/A,N/A,N/A
+80,Enes Kanter,FG_ASSISTED,Noah Vonleh,4:21,3,Knicks,Hawks,74 - 63,0,9,2,Jumper
+81,Noah Vonleh,FOUL_ON_FLOOR,None,4:05,3,Knicks,Hawks,74 - 63,0,N/A,N/A,N/A
+82,Kent Bazemore,FT,None,4:05,3,Hawks,Knicks,74 - 64,1,N/A,1,N/A
+83,Kent Bazemore,FT,None,4:05,3,Hawks,Knicks,74 - 65,1,N/A,1,N/A
+84,Enes Kanter,FG_ASSISTED,Emmanuel Mudiay,3:44,3,Knicks,Hawks,76 - 65,0,0,2,Layup
+85,Emmanuel Mudiay,FOUL_ON_FLOOR,None,3:34,3,Knicks,Hawks,76 - 65,0,N/A,N/A,N/A
+86,Kent Bazemore,FT_MISS,None,3:34,3,Hawks,Knicks,76 - 65,1,N/A,1,N/A
+87,Team,OFFENSIVE_REBOUND,None,3:34,3,Hawks,Knicks,76 - 65,1,N/A,N/A,N/A
+88,Kent Bazemore,FT,None,3:34,3,Hawks,Knicks,76 - 66,1,N/A,1,N/A
+89,Kent Bazemore,FT,None,3:34,3,Hawks,Knicks,76 - 67,1,N/A,1,N/A
+90,Emmanuel Mudiay,TURNOVER,Jeremy Lin,3:27,3,Knicks,Hawks,76 - 67,0,N/A,N/A,N/A
+91,Noah Vonleh,FOUL_ON_FLOOR,None,3:26,3,Knicks,Hawks,76 - 67,0,N/A,N/A,N/A
+92,Jeremy Lin,FT,None,3:26,3,Hawks,Knicks,76 - 68,1,N/A,1,N/A
+93,Jeremy Lin,FT_MISS,None,3:26,3,Hawks,Knicks,76 - 68,1,N/A,1,N/A
+94,Team,OFFENSIVE_REBOUND,None,3:26,3,Hawks,Knicks,76 - 68,1,N/A,N/A,N/A
+95,Jeremy Lin,TURNOVER,None,3:20,3,Hawks,Knicks,76 - 68,1,N/A,N/A,N/A
+96,Allonzo Trier,FG_UNASSISTED,None,2:57,3,Knicks,Hawks,78 - 68,0,0,2,Layup
+97,Kent Bazemore,TURNOVER,None,2:41,3,Hawks,Knicks,78 - 68,1,N/A,N/A,N/A
+98,Alex Len,SUBSTITUTION,Dedmon Dewayne,2:41,3,Hawks,Knicks,78 - 68,1,N/A,N/A,N/A
+99,Enes Kanter,FG_UNASSISTED,None,2:19,3,Knicks,Hawks,80 - 68,0,0,2,Layup
+100,Kent Bazemore,FG_MISS,None,2:06,3,Hawks,Knicks,80 - 68,1,25,3,Jumper
+101,Team,DEFENSIVE_REBOUND,None,2:02,3,Knicks,Hawks,80 - 68,0,N/A,N/A,N/A
+102,Trae Young,SUBSTITUTION,Bembry DeAndre',2:02,3,Hawks,Knicks,80 - 68,1,N/A,N/A,N/A
+103,Alex Len,FOUL_ON_FLOOR,None,1:47,3,Hawks,Knicks,80 - 68,1,N/A,N/A,N/A
+104,Enes Kanter,FT,None,1:47,3,Knicks,Hawks,81 - 68,0,N/A,1,N/A
+105,Enes Kanter,FT_MISS,None,1:47,3,Knicks,Hawks,81 - 70,0,N/A,1,N/A
+106,Trae Young,DEFENSIVE_REBOUND,None,1:44,3,Hawks,Knicks,81 - 70,1,N/A,N/A,N/A
+107,Kent Bazemore,TURNOVER,Allonzo Trier,1:38,3,Hawks,Knicks,81 - 70,1,N/A,N/A,N/A
+108,Trae Young,FOUL_ON_FLOOR,None,1:37,3,Hawks,Knicks,81 - 68,1,N/A,N/A,N/A
+109,Tim Hardaway,FT,None,1:37,3,Knicks,Hawks,82 - 68,0,N/A,1,N/A
+110,Taurean Prince,SUBSTITUTION,Bazemore Kent,1:37,3,Hawks,Knicks,82 - 68,1,N/A,N/A,N/A
+111,Tim Hardaway,FT,None,1:37,3,Knicks,Hawks,83 - 68,0,N/A,1,N/A
+112,Trae Young,FG_ASSISTED,Jeremy Lin,1:21,3,Hawks,Knicks,83 - 71,1,28,3,Jumper
+113,Tim Hardaway,FG_UNASSISTED,None,1:06,3,Knicks,Hawks,85 - 71,0,19,2,Jumper
+114,Taurean Prince,FG_MISS,None,57.7,3,Hawks,Knicks,85 - 71,1,23,3,Jumper
+115,Team,DEFENSIVE_REBOUND,None,57.2,3,Knicks,Hawks,85 - 71,0,N/A,N/A,N/A
+116,Alex Len,FOUL_ON_FLOOR,None,57.2,3,Hawks,Knicks,85 - 71,1,N/A,N/A,N/A
+117,Enes Kanter,FT,None,57.2,3,Knicks,Hawks,86 - 71,0,N/A,1,N/A
+118,Miles Plumlee,SUBSTITUTION,Len Alex,57.2,3,Hawks,Knicks,86 - 71,1,N/A,N/A,N/A
+119,Enes Kanter,FT,None,57.2,3,Knicks,Hawks,87 - 71,0,N/A,1,N/A
+120,Trae Young,FG_MISS,None,40.9,3,Hawks,Knicks,87 - 71,1,26,3,Jumper
+121,Trae Young,OFFENSIVE_REBOUND,None,37.7,3,Hawks,Knicks,87 - 71,1,N/A,N/A,N/A
+122,Trae Young,FG_MISS,None,35.3,3,Hawks,Knicks,87 - 71,1,0,2,Layup
+123,Miles Plumlee,OFFENSIVE_REBOUND,None,29.2,3,Hawks,Knicks,87 - 71,1,N/A,N/A,N/A
+124,Miles Plumlee,FG_UNASSISTED,None,29.2,3,Hawks,Knicks,87 - 73,1,0,2,Dunk
+125,Enes Kanter,FOUL_ON_FLOOR,None,14.0,3,Knicks,Hawks,87 - 73,0,N/A,N/A,N/A
+126,Enes Kanter,TURNOVER,None,14.0,3,Knicks,Hawks,87 - 73,0,N/A,N/A,N/A
+127,Vince Carter,TURNOVER,Noah Vonleh,2.7,3,Hawks,Knicks,87 - 73,1,N/A,N/A,N/A
+128,End of,Unknown,None,0.0,3,Hawks,Knicks,87 - 73,1,N/A,N/A,N/A
+0,DeAndre' Bembry,SUBSTITUTION,Lin Jeremy,12:00,4,Hawks,Knicks,87 - 73,1,N/A,N/A,N/A
+1,Omari Spellman,SUBSTITUTION,Carter Vince,12:00,4,Hawks,Knicks,87 - 73,1,N/A,N/A,N/A
+2,Kevin Knox,SUBSTITUTION,Hardaway Tim,12:00,4,Knicks,Hawks,87 - 73,0,N/A,N/A,N/A
+3,Kevin Knox,FG_MISS,None,11:47,4,Knicks,Hawks,87 - 73,0, ,3,Jumper
+4,Miles Plumlee,DEFENSIVE_REBOUND,None,11:43,4,Hawks,Knicks,87 - 73,1,N/A,N/A,N/A
+5,Trae Young,FG_MISS,None,11:38,4,Hawks,Knicks,87 - 73,1,3,2,Jumper
+6,Emmanuel Mudiay,DEFENSIVE_REBOUND,None,11:36,4,Knicks,Hawks,87 - 73,0,N/A,N/A,N/A
+7,Enes Kanter,TURNOVER,None,11:25,4,Knicks,Hawks,87 - 73,0,N/A,N/A,N/A
+8,Omari Spellman,FG_ASSISTED,Trae Young,11:15,4,Hawks,Knicks,87 - 76,1,26,3,Jumper
+9,Kevin Knox's,FG_MISS,Omari Spellman,10:55,4,Hawks,Knicks,87 - 76,0,0,2,Layup
+10,Enes Kanter,OFFENSIVE_REBOUND,None,10:55,4,Knicks,Hawks,87 - 76,0,N/A,N/A,N/A
+11,Emmanuel Mudiay,FG_ASSISTED,Kevin Knox,10:48,4,Knicks,Hawks,90 - 76,0,26,3,Jumper
+12,Omari Spellman,FG_MISS,Emmanuel Mudiay,10:36,4,Knicks,Hawks,90 - 76,1,0,2,Layup
+13,Enes Kanter,DEFENSIVE_REBOUND,None,10:36,4,Knicks,Hawks,90 - 76,0,N/A,N/A,N/A
+14,Noah Vonleh,FG_MISS,None,10:21,4,Knicks,Hawks,90 - 76,0,27,3,Jumper
+15,Trae Young,DEFENSIVE_REBOUND,None,10:18,4,Hawks,Knicks,90 - 76,1,N/A,N/A,N/A
+16,DeAndre' Bembry,FG_ASSISTED,Trae Young,10:13,4,Hawks,Knicks,90 - 78,1, ,2,Jumper
+17,Omari Spellman,FOUL_ON_FLOOR,None,9:56,4,Hawks,Knicks,90 - 78,1,N/A,N/A,N/A
+18,Allonzo Trier,FT,None,9:56,4,Knicks,Hawks,91 - 78,0,N/A,1,N/A
+19,Frank Ntilikina,SUBSTITUTION,Mudiay Emmanuel,9:56,4,Knicks,Hawks,91 - 78,0,N/A,N/A,N/A
+20,Allonzo Trier,FT,None,9:56,4,Knicks,Hawks,92 - 78,0,N/A,1,N/A
+21,Taurean Prince,FG_MISS,None,9:40,4,Hawks,Knicks,92 - 78,1,23,3,Jumper
+22,Frank Ntilikina,DEFENSIVE_REBOUND,None,9:40,4,Knicks,Hawks,92 - 78,0,N/A,N/A,N/A
+23,Frank Ntilikina,TURNOVER,None,9:32,4,Knicks,Hawks,92 - 78,0,N/A,N/A,N/A
+24,Frank Ntilikina,FOUL_ON_FLOOR,None,9:16,4,Knicks,Hawks,92 - 78,0,N/A,N/A,N/A
+25,Taurean Prince,FG_MISS,None,9:08,4,Hawks,Knicks,92 - 78,1,14,2,Jumper
+26,Miles Plumlee,OFFENSIVE_REBOUND,None,9:03,4,Hawks,Knicks,92 - 78,1,N/A,N/A,N/A
+27,Miles Plumlee,FG_MISS,None,9:03,4,Hawks,Knicks,92 - 78,1,0,2,Dunk
+28,DeAndre' Bembry,OFFENSIVE_REBOUND,None,9:03,4,Hawks,Knicks,92 - 78,1,N/A,N/A,N/A
+29,DeAndre' Bembry,FG_ASSISTED,Omari Spellman,8:53,4,Hawks,Knicks,92 - 81,1,26,3,Jumper
+30,Team,Unknown,None,8:52,4,Knicks,Hawks,92 - 81,0,N/A,N/A,N/A
+31,Taurean Prince,FOUL_ON_FLOOR,None,8:43,4,Hawks,Knicks,92 - 81,1,N/A,N/A,N/A
+32,Noah Vonleh's,FG_MISS,Omari Spellman,8:29,4,Hawks,Knicks,92 - 81,0,0,2,Layup
+33,Noah Vonleh,OFFENSIVE_REBOUND,None,8:27,4,Knicks,Hawks,92 - 81,0,N/A,N/A,N/A
+34,Noah Vonleh,FG_MISS,None,8:27,4,Knicks,Hawks,92 - 81,0,0,2,Layup
+35,Team,DEFENSIVE_REBOUND,None,8:27,4,Hawks,Knicks,92 - 81,1,N/A,N/A,N/A
+36,Tim Hardaway,SUBSTITUTION,Knox Kevin,8:27,4,Knicks,Hawks,92 - 81,0,N/A,N/A,N/A
+37,Enes Kanter,JUMP_BALL,None,8:25,4,Hawks,Knicks,92 - 81,1,N/A,N/A,N/A
+38,Allonzo Trier,FOUL_ON_FLOOR,None,8:25,4,Knicks,Hawks,92 - 81,0,N/A,N/A,N/A
+39,Omari Spellman,FG_MISS,None,8:10,4,Hawks,Knicks,92 - 81,1,23,3,Jumper
+40,Miles Plumlee,OFFENSIVE_REBOUND,None,8:08,4,Hawks,Knicks,92 - 81,1,N/A,N/A,N/A
+41,Trae Young,FG_ASSISTED,Taurean Prince,8:02,4,Hawks,Knicks,92 - 83,1,14,2,Jumper
+42,DeAndre' Bembry,FOUL_ON_FLOOR,None,7:48,4,Hawks,Knicks,92 - 83,1,N/A,N/A,N/A
+43,shot clock,TURNOVER,None,7:33,4,Knicks,Hawks,92 - 83,0,N/A,N/A,N/A
+44,Enes Kanter,FOUL_ON_FLOOR,None,7:27,4,Knicks,Hawks,92 - 83,0,N/A,N/A,N/A
+45,Trae Young,FG_UNASSISTED,None,7:20,4,Hawks,Knicks,92 - 85,1,0,2,Layup
+46,Miles Plumlee,FOUL_ON_FLOOR,None,6:54,4,Hawks,Knicks,92 - 85,1,N/A,N/A,N/A
+47,Enes Kanter,FT_MISS,None,6:54,4,Knicks,Hawks,92 - 85,0,N/A,1,N/A
+48,Team,OFFENSIVE_REBOUND,None,6:54,4,Knicks,Hawks,92 - 85,0,N/A,N/A,N/A
+49,Enes Kanter,FT,None,6:54,4,Knicks,Hawks,93 - 85,0,N/A,1,N/A
+50,Miles Plumlee,FG_ASSISTED,Taurean Prince,6:40,4,Hawks,Knicks,93 - 87,1, ,2,Jumper
+51,Noah Vonleh,TURNOVER,None,6:22,4,Knicks,Hawks,93 - 87,0,N/A,N/A,N/A
+52,Noah Vonleh,TURNOVER,None,6:22,4,Knicks,Hawks,93 - 87,0,N/A,N/A,N/A
+53,Emmanuel Mudiay,SUBSTITUTION,Trier Allonzo,6:22,4,Knicks,Hawks,93 - 87,0,N/A,N/A,N/A
+54,Mario Hezonja,SUBSTITUTION,Vonleh Noah,6:22,4,Knicks,Hawks,93 - 87,0,N/A,N/A,N/A
+55,Taurean Prince,FG_MISS,None,6:09,4,Hawks,Knicks,93 - 87,1,23,3,Jumper
+56,Miles Plumlee,OFFENSIVE_REBOUND,None,6:01,4,Hawks,Knicks,93 - 87,1,N/A,N/A,N/A
+57,Miles Plumlee,FG_UNASSISTED,None,6:01,4,Hawks,Knicks,93 - 89,1, ,2,Jumper
+58,Tim Hardaway,FG_MISS,None,5:48,4,Knicks,Hawks,93 - 89,0,27,3,Jumper
+59,Emmanuel Mudiay,OFFENSIVE_REBOUND,None,5:45,4,Knicks,Hawks,93 - 89,0,N/A,N/A,N/A
+60,Frank Ntilikina,FG_ASSISTED,Emmanuel Mudiay,5:43,4,Knicks,Hawks,96 - 89,0,27,3,Jumper
+61,Trae Young,FG_MISS,None,5:27,4,Hawks,Knicks,96 - 89,1,29,3,Jumper
+62,Team,OFFENSIVE_REBOUND,None,5:27,4,Hawks,Knicks,96 - 89,1,N/A,N/A,N/A
+63,Frank Ntilikina,FOUL_ON_FLOOR,None,5:27,4,Knicks,Hawks,96 - 89,0,N/A,N/A,N/A
+64,Damyean Dotson,SUBSTITUTION,Ntilikina Frank,5:27,4,Knicks,Hawks,96 - 89,0,N/A,N/A,N/A
+65,Team,Unknown,None,5:27,4,Hawks,Knicks,96 - 89,1,N/A,N/A,N/A
+66,Trae Young,FG_MISS,None,5:15,4,Hawks,Knicks,96 - 89,1,21,2,Jumper
+67,Enes Kanter,DEFENSIVE_REBOUND,None,5:11,4,Knicks,Hawks,96 - 89,0,N/A,N/A,N/A
+68,DeAndre' Bembry,FOUL_ON_FLOOR,None,4:58,4,Hawks,Knicks,96 - 89,1,N/A,N/A,N/A
+69,Tim Hardaway,FT,None,4:58,4,Knicks,Hawks,97 - 89,0,N/A,1,N/A
+70,Allonzo Trier,SUBSTITUTION,Mudiay Emmanuel,4:58,4,Knicks,Hawks,97 - 89,0,N/A,N/A,N/A
+71,Tim Hardaway,FT,None,4:58,4,Knicks,Hawks,98 - 89,0,N/A,1,N/A
+72,Trae Young,FG_UNASSISTED,None,4:34,4,Hawks,Knicks,98 - 91,1,0,2,Layup
+73,Tim Hardaway,FG_MISS,None,4:17,4,Knicks,Hawks,98 - 91,0,18,2,Jumper
+74,DeAndre' Bembry,DEFENSIVE_REBOUND,None,4:14,4,Hawks,Knicks,98 - 91,1,N/A,N/A,N/A
+75,DeAndre' Bembry,FG_MISS,None,4:09,4,Hawks,Knicks,98 - 91,1, ,2,Jumper
+76,Mario Hezonja,DEFENSIVE_REBOUND,None,4:09,4,Knicks,Hawks,98 - 91,0,N/A,N/A,N/A
+77,Enes Kanter,FOUL_ON_FLOOR,None,3:56,4,Knicks,Hawks,98 - 91,0,N/A,N/A,N/A
+78,Enes Kanter,TURNOVER,None,3:56,4,Knicks,Hawks,98 - 91,0,N/A,N/A,N/A
+79,Kent Bazemore,SUBSTITUTION,Spellman Omari,3:56,4,Hawks,Knicks,98 - 91,1,N/A,N/A,N/A
+80,Taurean Prince,FG_UNASSISTED,None,3:42,4,Hawks,Knicks,98 - 93,1,0,2,Layup
+81,Mario Hezonja,FOUL_ON_FLOOR,None,3:42,4,Knicks,Hawks,98 - 93,0,N/A,N/A,N/A
+82,Taurean Prince,FT,None,3:42,4,Hawks,Knicks,98 - 94,1,N/A,1,N/A
+83,DeAndre' Bembry,FOUL_ON_FLOOR,None,3:30,4,Hawks,Knicks,98 - 94,1,N/A,N/A,N/A
+84,Tim Hardaway,FT,None,3:30,4,Knicks,Hawks,99 - 94,0,N/A,1,N/A
+85,Noah Vonleh,SUBSTITUTION,Kanter Enes,3:30,4,Knicks,Hawks,99 - 94,0,N/A,N/A,N/A
+86,Tim Hardaway,FT,None,3:30,4,Knicks,Hawks,100 - 94,0,N/A,1,N/A
+87,Trae Young,FG_MISS,None,3:18,4,Hawks,Knicks,100 - 94,1,0,2,Layup
+88,Mario Hezonja,DEFENSIVE_REBOUND,None,3:16,4,Knicks,Hawks,100 - 94,0,N/A,N/A,N/A
+89,Tim Hardaway,FG_MISS,None,3:06,4,Knicks,Hawks,100 - 94,0,26,3,Jumper
+90,DeAndre' Bembry,DEFENSIVE_REBOUND,None,3:03,4,Hawks,Knicks,100 - 94,1,N/A,N/A,N/A
+91,DeAndre' Bembry,FG_UNASSISTED,None,2:58,4,Hawks,Knicks,100 - 96,1,0,2,Layup
+92,Allonzo Trier,FG_UNASSISTED,None,2:34,4,Knicks,Hawks,102 - 96,0,20,2,Jumper
+93,Miles Plumlee,FG_ASSISTED,Trae Young,2:11,4,Hawks,Knicks,102 - 98,1,6,2,Jumper
+94,Miles Plumlee,FOUL_ON_FLOOR,None,1:49,4,Hawks,Knicks,102 - 98,1,N/A,N/A,N/A
+95,Tim Hardaway,FT,None,1:49,4,Knicks,Hawks,103 - 98,0,N/A,1,N/A
+96,Omari Spellman,SUBSTITUTION,Plumlee Miles,1:49,4,Hawks,Knicks,103 - 98,1,N/A,N/A,N/A
+97,Tim Hardaway,FT,None,1:49,4,Knicks,Hawks,104 - 98,0,N/A,1,N/A
+98,Taurean Prince,FG_ASSISTED,Trae Young,1:36,4,Hawks,Knicks,104 - 100,1,3,2,Jumper
+99,Tim Hardaway,FG_UNASSISTED,None,1:26,4,Knicks,Hawks,106 - 100,0,0,2,Layup
+100,Trae Young,FG_MISS,None,1:18,4,Hawks,Knicks,106 - 100,1,25,2,Jumper
+101,Damyean Dotson,DEFENSIVE_REBOUND,None,1:11,4,Knicks,Hawks,106 - 100,0,N/A,N/A,N/A
+102,Tim Hardaway,FG_MISS,None,1:04,4,Knicks,Hawks,106 - 100,0,25,3,Jumper
+103,Omari Spellman,DEFENSIVE_REBOUND,None,1:00,4,Hawks,Knicks,106 - 100,1,N/A,N/A,N/A
+104,Noah Vonleh,FOUL_ON_FLOOR,None,54.6,4,Knicks,Hawks,106 - 100,0,N/A,N/A,N/A
+105,Trae Young,FT,None,54.6,4,Hawks,Knicks,106 - 101,1,N/A,1,N/A
+106,Alex Poythress,SUBSTITUTION,Spellman Omari,54.6,4,Hawks,Knicks,106 - 101,1,N/A,N/A,N/A
+107,Emmanuel Mudiay,SUBSTITUTION,Hezonja Mario,54.6,4,Knicks,Hawks,106 - 101,0,N/A,N/A,N/A
+108,Trae Young,FT,None,54.6,4,Hawks,Knicks,106 - 102,1,N/A,1,N/A
+109,Tim Hardaway,FG_MISS,DeAndre' Bembry,38.7,4,Hawks,Knicks,106 - 102,0,0,2,Layup
+110,Team,OFFENSIVE_REBOUND,None,38.7,4,Knicks,Hawks,106 - 102,0,N/A,N/A,N/A
+111,Team,Unknown,None,38.7,4,Knicks,Hawks,106 - 102,0,N/A,N/A,N/A
+112,Emmanuel Mudiay,FG_UNASSISTED,None,31.9,4,Knicks,Hawks,108 - 102,0,17,2,Jumper
+113,Trae Young,FG_MISS,None,25.7,4,Hawks,Knicks,108 - 102,1,27,3,Jumper
+114,Alex Poythress,OFFENSIVE_REBOUND,None,22.8,4,Hawks,Knicks,108 - 102,1,N/A,N/A,N/A
+115,Alex Poythress,FG_UNASSISTED,None,22.8,4,Hawks,Knicks,108 - 104,1,1,2,Jumper
+116,Alex Poythress,FOUL_ON_FLOOR,None,21.4,4,Hawks,Knicks,108 - 104,1,N/A,N/A,N/A
+117,Tim Hardaway,FT_MISS,None,21.4,4,Knicks,Hawks,108 - 104,0,N/A,1,N/A
+118,Team,OFFENSIVE_REBOUND,None,21.4,4,Knicks,Hawks,108 - 104,0,N/A,N/A,N/A
+119,Omari Spellman,SUBSTITUTION,Bembry DeAndre',21.4,4,Hawks,Knicks,108 - 104,1,N/A,N/A,N/A
+120,Mario Hezonja,SUBSTITUTION,Mudiay Emmanuel,21.4,4,Knicks,Hawks,108 - 104,0,N/A,N/A,N/A
+121,Tim Hardaway,FT,None,21.4,4,Knicks,Hawks,109 - 104,0,N/A,1,N/A
+122,Team,Unknown,None,21.4,4,Hawks,Knicks,109 - 104,1,N/A,N/A,N/A
+123,Dewayne Dedmon,SUBSTITUTION,Bazemore Kent,21.4,4,Hawks,Knicks,109 - 104,1,N/A,N/A,N/A
+124,Vince Carter,SUBSTITUTION,Spellman Omari,21.4,4,Hawks,Knicks,109 - 104,1,N/A,N/A,N/A
+125,Mitchell Robinson,SUBSTITUTION,Hezonja Mario,21.4,4,Knicks,Hawks,109 - 104,0,N/A,N/A,N/A
+126,Alex Poythress,TURNOVER,None,20.4,4,Hawks,Knicks,109 - 104,1,N/A,N/A,N/A
+127,DeAndre' Bembry,SUBSTITUTION,Young Trae,20.4,4,Hawks,Knicks,109 - 104,1,N/A,N/A,N/A
+128,Kent Bazemore,SUBSTITUTION,Carter Vince,20.4,4,Hawks,Knicks,109 - 104,1,N/A,N/A,N/A
+129,Enes Kanter,SUBSTITUTION,Robinson Mitchell,20.4,4,Knicks,Hawks,109 - 104,0,N/A,N/A,N/A
+130,Team,Unknown,None,20.4,4,Knicks,Hawks,109 - 104,0,N/A,N/A,N/A
+131,DeAndre' Bembry,FOUL_ON_FLOOR,None,19.6,4,Hawks,Knicks,109 - 104,1,N/A,N/A,N/A
+132,Tim Hardaway,FT_MISS,None,19.6,4,Knicks,Hawks,109 - 104,0,N/A,1,N/A
+133,Team,OFFENSIVE_REBOUND,None,19.6,4,Knicks,Hawks,109 - 104,0,N/A,N/A,N/A
+134,Trae Young,SUBSTITUTION,Poythress Alex,19.6,4,Hawks,Knicks,109 - 104,1,N/A,N/A,N/A
+135,Mitchell Robinson,SUBSTITUTION,Kanter Enes,19.6,4,Knicks,Hawks,109 - 104,0,N/A,N/A,N/A
+136,Tim Hardaway,FT,None,19.6,4,Knicks,Hawks,110 - 104,0,N/A,1,N/A
+137,Allonzo Trier,FOUL_ON_FLOOR,None,12.8,4,Knicks,Hawks,110 - 104,0,N/A,N/A,N/A
+138,Taurean Prince,FT_MISS,None,12.8,4,Hawks,Knicks,110 - 104,1,N/A,1,N/A
+139,Team,OFFENSIVE_REBOUND,None,12.8,4,Hawks,Knicks,110 - 104,1,N/A,N/A,N/A
+140,Taurean Prince,FT_MISS,None,12.8,4,Hawks,Knicks,110 - 104,1,N/A,1,N/A
+141,Team,OFFENSIVE_REBOUND,None,12.8,4,Hawks,Knicks,110 - 104,1,N/A,N/A,N/A
+142,Taurean Prince,FT,None,12.8,4,Hawks,Knicks,110 - 105,1,N/A,1,N/A
+143,Enes Kanter,SUBSTITUTION,Robinson Mitchell,12.8,4,Knicks,Hawks,110 - 105,0,N/A,N/A,N/A
+144,DeAndre' Bembry,FOUL_ON_FLOOR,None,9.5,4,Hawks,Knicks,110 - 105,1,N/A,N/A,N/A
+145,Tim Hardaway,FT,None,9.5,4,Knicks,Hawks,111 - 105,0,N/A,1,N/A
+146,Tim Hardaway,FT,None,9.5,4,Knicks,Hawks,112 - 105,0,N/A,1,N/A
+147,DeAndre' Bembry,TURNOVER,None,9.5,4,Hawks,Knicks,112 - 105,1,N/A,N/A,N/A
+148,Trae Young,FG_UNASSISTED,None,3.0,4,Hawks,Knicks,112 - 107,1,1,2,Jumper
+149,End of,Unknown,None,0.0,4,Hawks,Knicks,112 - 107,1,N/A,N/A,N/A
+150,End of,Unknown,None,0.0,4,Hawks,Knicks,112 - 107,1,N/A,N/A,N/A

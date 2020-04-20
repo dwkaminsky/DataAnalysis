@@ -1,0 +1,466 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,JaVale McGee,JUMP_BALL,None,12:00,1,Lakers,Magic,0 - 0,0,N/A,N/A,N/A
+1,Lonzo Ball,FG_MISS,None,11:52,1,Lakers,Magic,0 - 0,0,26,3,Jumper
+2,Nikola Vucevic,DEFENSIVE_REBOUND,None,11:49,1,Magic,Lakers,0 - 0,1,N/A,N/A,N/A
+3,Nikola Vucevic,TURNOVER,None,11:40,1,Magic,Lakers,0 - 0,1,N/A,N/A,N/A
+4,JaVale McGee,FG_ASSISTED,Brandon Ingram,11:26,1,Lakers,Magic,2 - 0,0,0,2,Dunk
+5,Evan Fournier,FG_MISS,None,11:12,1,Magic,Lakers,2 - 0,1,23,3,Jumper
+6,LeBron James,DEFENSIVE_REBOUND,None,11:08,1,Lakers,Magic,2 - 0,0,N/A,N/A,N/A
+7,JaVale McGee,FG_ASSISTED,LeBron James,11:05,1,Lakers,Magic,4 - 0,0,0,2,Dunk
+8,Nikola Vucevic,TURNOVER,Lonzo Ball,10:48,1,Magic,Lakers,4 - 0,1,N/A,N/A,N/A
+9,Brandon Ingram,FG_MISS,None,10:38,1,Lakers,Magic,4 - 0,0,27,3,Jumper
+10,Aaron Gordon,DEFENSIVE_REBOUND,None,10:36,1,Magic,Lakers,4 - 0,1,N/A,N/A,N/A
+11,Evan Fournier,FG_UNASSISTED,None,10:28,1,Magic,Lakers,4 - 2,1,8,2,Jumper
+12,Kyle Kuzma,FG_MISS,None,10:11,1,Lakers,Magic,4 - 2,0,8,2,Jumper
+13,Nikola Vucevic,DEFENSIVE_REBOUND,None,10:08,1,Magic,Lakers,4 - 2,1,N/A,N/A,N/A
+14,Aaron Gordon,FG_UNASSISTED,None,10:02,1,Magic,Lakers,4 - 4,1,0,2,Layup
+15,LeBron James,TURNOVER,None,9:51,1,Lakers,Magic,4 - 4,0,N/A,N/A,N/A
+16,Nikola Vucevic,FG_MISS,None,9:30,1,Magic,Lakers,4 - 4,1,0,2,Layup
+17,Kyle Kuzma,DEFENSIVE_REBOUND,None,9:27,1,Lakers,Magic,4 - 4,0,N/A,N/A,N/A
+18,Wesley Iwundu,FOUL_ON_FLOOR,None,9:25,1,Magic,Lakers,4 - 4,1,N/A,N/A,N/A
+19,LeBron James,FT,None,9:25,1,Lakers,Magic,5 - 4,0,N/A,1,N/A
+20,LeBron James,FT,None,9:25,1,Lakers,Magic,6 - 4,0,N/A,1,N/A
+21,Nikola Vucevic,FG_ASSISTED,Evan Fournier,9:10,1,Magic,Lakers,6 - 6,1,6,2,Jumper
+22,Kyle Kuzma,FG_MISS,Wesley Iwundu,8:53,1,Magic,Lakers,6 - 6,0,0,2,Layup
+23,Team,OFFENSIVE_REBOUND,None,8:53,1,Lakers,Magic,6 - 6,0,N/A,N/A,N/A
+24,Brandon Ingram,FG_UNASSISTED,None,8:47,1,Lakers,Magic,8 - 6,0,0,2,Dunk
+25,Evan Fournier,FG_UNASSISTED,None,8:30,1,Magic,Lakers,8 - 8,1,0,2,Layup
+26,LeBron James,FG_UNASSISTED,None,8:21,1,Lakers,Magic,11 - 8,0,25,3,Jumper
+27,Wesley Iwundu,FG_MISS,None,8:01,1,Magic,Lakers,11 - 8,1,26,3,Jumper
+28,Kyle Kuzma,DEFENSIVE_REBOUND,None,7:59,1,Lakers,Magic,11 - 8,0,N/A,N/A,N/A
+29,Kyle Kuzma,FG_MISS,Wesley Iwundu,7:54,1,Magic,Lakers,11 - 8,0,0,2,Layup
+30,Team,DEFENSIVE_REBOUND,None,7:54,1,Magic,Lakers,11 - 8,1,N/A,N/A,N/A
+31,Aaron Gordon,FG_MISS,None,7:45,1,Magic,Lakers,11 - 8,1,4,2,Jumper
+32,Lonzo Ball,DEFENSIVE_REBOUND,None,7:42,1,Lakers,Magic,11 - 8,0,N/A,N/A,N/A
+33,Brandon Ingram,FG_UNASSISTED,None,7:32,1,Lakers,Magic,13 - 8,0,12,2,Jumper
+34,D.J. Augustin,TURNOVER,None,7:14,1,Magic,Lakers,13 - 8,1,N/A,N/A,N/A
+35,LeBron James,FG_MISS,None,7:07,1,Lakers,Magic,13 - 8,0,0,2,Layup
+36,Evan Fournier,DEFENSIVE_REBOUND,None,7:05,1,Magic,Lakers,13 - 8,1,N/A,N/A,N/A
+37,Evan Fournier,FG_MISS,Lonzo Ball,7:01,1,Lakers,Magic,13 - 8,1,0,2,Layup
+38,Team,OFFENSIVE_REBOUND,None,7:01,1,Magic,Lakers,13 - 8,1,N/A,N/A,N/A
+39,Evan Fournier,FG_ASSISTED,D.J. Augustin,7:01,1,Magic,Lakers,13 - 10,1,0,2,Layup
+40,Wesley Iwundu,FOUL_ON_FLOOR,None,6:41,1,Magic,Lakers,13 - 8,1,N/A,N/A,N/A
+41,Team,Unknown,None,6:41,1,Magic,Lakers,13 - 10,1,N/A,N/A,N/A
+42,Tyson Chandler,SUBSTITUTION,McGee JaVale,6:41,1,Lakers,Magic,13 - 8,0,N/A,N/A,N/A
+43,Brandon Ingram,FT,None,6:41,1,Lakers,Magic,14 - 8,0,N/A,1,N/A
+44,Brandon Ingram,FT,None,6:41,1,Lakers,Magic,15 - 8,0,N/A,1,N/A
+45,Aaron Gordon,FG_MISS,None,6:23,1,Magic,Lakers,15 - 8,1,14,2,Jumper
+46,Kyle Kuzma,DEFENSIVE_REBOUND,None,6:20,1,Lakers,Magic,15 - 8,0,N/A,N/A,N/A
+47,Lonzo Ball,FG_MISS,None,6:10,1,Lakers,Magic,15 - 8,0,26,3,Jumper
+48,Aaron Gordon,DEFENSIVE_REBOUND,None,6:07,1,Magic,Lakers,15 - 8,1,N/A,N/A,N/A
+49,Nikola Vucevic,FG_MISS,None,6:00,1,Magic,Lakers,15 - 8,1,27,3,Jumper
+50,Brandon Ingram,DEFENSIVE_REBOUND,None,6:00,1,Lakers,Magic,15 - 10,0,N/A,N/A,N/A
+51,Kyle Kuzma,TURNOVER,None,5:48,1,Lakers,Magic,15 - 10,0,N/A,N/A,N/A
+52,Kentavious Caldwell-Pope,SUBSTITUTION,Ingram Brandon,5:48,1,Lakers,Magic,15 - 10,0,N/A,N/A,N/A
+53,Nikola Vucevic,TURNOVER,Lonzo Ball,5:27,1,Magic,Lakers,15 - 10,1,N/A,N/A,N/A
+54,LeBron James,FG_ASSISTED,Lonzo Ball,5:21,1,Lakers,Magic,17 - 10,0, ,2,Jumper
+55,D.J. Augustin,FG_MISS,None,4:59,1,Magic,Lakers,17 - 10,1,0,2,Layup
+56,Nikola Vucevic,OFFENSIVE_REBOUND,None,4:56,1,Magic,Lakers,17 - 10,1,N/A,N/A,N/A
+57,Nikola Vucevic,FG_UNASSISTED,None,4:54,1,Magic,Lakers,17 - 12,1, ,2,Jumper
+58,LeBron James,FG_UNASSISTED,None,4:47,1,Lakers,Magic,19 - 12,0,0,2,Layup
+59,Lonzo Ball,FOUL_ON_FLOOR,None,4:36,1,Lakers,Magic,19 - 12,0,N/A,N/A,N/A
+60,D.J. Augustin,FT,None,4:36,1,Magic,Lakers,19 - 13,1,N/A,1,N/A
+61,Terrence Ross,SUBSTITUTION,Iwundu Wesley,4:36,1,Magic,Lakers,19 - 13,1,N/A,N/A,N/A
+62,D.J. Augustin,FT,None,4:36,1,Magic,Lakers,19 - 14,1,N/A,1,N/A
+63,Tyson Chandler,FOUL_ON_FLOOR,None,4:27,1,Lakers,Magic,19 - 14,0,N/A,N/A,N/A
+64,Tyson Chandler,TURNOVER,None,4:27,1,Lakers,Magic,19 - 14,0,N/A,N/A,N/A
+65,Jerian Grant,SUBSTITUTION,Augustin D.J.,4:27,1,Magic,Lakers,19 - 14,1,N/A,N/A,N/A
+66,Josh Hart,SUBSTITUTION,James LeBron,4:27,1,Lakers,Magic,19 - 14,0,N/A,N/A,N/A
+67,Nikola Vucevic,FG_MISS,None,4:14,1,Magic,Lakers,19 - 14,1,18,2,Jumper
+68,Kentavious Caldwell-Pope,DEFENSIVE_REBOUND,None,4:12,1,Lakers,Magic,19 - 14,0,N/A,N/A,N/A
+69,Kyle Kuzma,FG_MISS,None,4:00,1,Lakers,Magic,19 - 14,0,26,3,Jumper
+70,Team,DEFENSIVE_REBOUND,None,4:00,1,Magic,Lakers,19 - 14,1,N/A,N/A,N/A
+71,Jonathan Isaac,SUBSTITUTION,Gordon Aaron,4:00,1,Magic,Lakers,19 - 14,1,N/A,N/A,N/A
+72,Lance Stephenson,SUBSTITUTION,Kuzma Kyle,4:00,1,Lakers,Magic,19 - 14,0,N/A,N/A,N/A
+73,Tyson Chandler,JUMP_BALL,None,3:57,1,Magic,Lakers,19 - 14,1,N/A,N/A,N/A
+74,Nikola Vucevic,FG_ASSISTED,Jerian Grant,3:50,1,Magic,Lakers,19 - 17,1,26,3,Jumper
+75,Lance Stephenson,FG_ASSISTED,Lonzo Ball,3:35,1,Lakers,Magic,22 - 17,0,24,3,Jumper
+76,Jerian Grant,FG_MISS,None,3:12,1,Magic,Lakers,22 - 17,1,25,3,Jumper
+77,Nikola Vucevic,OFFENSIVE_REBOUND,None,3:09,1,Magic,Lakers,22 - 17,1,N/A,N/A,N/A
+78,Evan Fournier,FG_MISS,None,3:07,1,Magic,Lakers,22 - 17,1,26,3,Jumper
+79,Jonathan Isaac,OFFENSIVE_REBOUND,None,3:04,1,Magic,Lakers,22 - 17,1,N/A,N/A,N/A
+80,Evan Fournier,FG_UNASSISTED,None,2:56,1,Magic,Lakers,22 - 19,1,0,2,Layup
+81,Kentavious Caldwell-Pope,FOUL_ON_FLOOR,None,2:56,1,Lakers,Magic,22 - 19,0,N/A,N/A,N/A
+82,Team,Unknown,None,2:56,1,Lakers,Magic,22 - 19,0,N/A,N/A,N/A
+83,Mo Bamba,SUBSTITUTION,Vucevic Nikola,2:56,1,Magic,Lakers,22 - 19,1,N/A,N/A,N/A
+84,Brandon Ingram,SUBSTITUTION,Ball Lonzo,2:56,1,Lakers,Magic,22 - 19,0,N/A,N/A,N/A
+85,Evan Fournier,FT_MISS,None,2:56,1,Magic,Lakers,22 - 19,1,N/A,1,N/A
+86,Josh Hart,DEFENSIVE_REBOUND,None,2:56,1,Lakers,Magic,22 - 19,0,N/A,N/A,N/A
+87,Terrence Ross,FOUL_ON_FLOOR,None,2:42,1,Magic,Lakers,22 - 19,1,N/A,N/A,N/A
+88,Kentavious Caldwell-Pope,FT,None,2:42,1,Lakers,Magic,23 - 19,0,N/A,1,N/A
+89,Jonathon Simmons,SUBSTITUTION,Fournier Evan,2:42,1,Magic,Lakers,23 - 19,1,N/A,N/A,N/A
+90,Kentavious Caldwell-Pope,FT,None,2:42,1,Lakers,Magic,24 - 19,0,N/A,1,N/A
+91,Terrence Ross,FG_ASSISTED,Jerian Grant,2:28,1,Magic,Lakers,24 - 21,1,16,2,Jumper
+92,Brandon Ingram,FG_MISS,Jonathan Isaac,2:09,1,Magic,Lakers,24 - 21,0,8,2,Jumper
+93,Kentavious Caldwell-Pope,OFFENSIVE_REBOUND,None,2:04,1,Lakers,Magic,24 - 21,0,N/A,N/A,N/A
+94,Kentavious Caldwell-Pope,FG_ASSISTED,Lance Stephenson,2:02,1,Lakers,Magic,26 - 21,0,22,2,Jumper
+95,Jonathan Isaac,FG_MISS,None,1:42,1,Magic,Lakers,26 - 21,1,26,3,Jumper
+96,Brandon Ingram,DEFENSIVE_REBOUND,None,1:39,1,Lakers,Magic,26 - 21,0,N/A,N/A,N/A
+97,Brandon Ingram,FG_MISS,None,1:30,1,Lakers,Magic,26 - 21,0,10,2,Jumper
+98,Jonathon Simmons,DEFENSIVE_REBOUND,None,1:28,1,Magic,Lakers,26 - 21,1,N/A,N/A,N/A
+99,Jonathon Simmons,FG_UNASSISTED,None,1:25,1,Magic,Lakers,26 - 23,1, ,2,Jumper
+100,Josh Hart,FOUL_ON_FLOOR,None,1:25,1,Lakers,Magic,26 - 23,0,N/A,N/A,N/A
+101,Jonathon Simmons,FT_MISS,None,1:25,1,Magic,Lakers,26 - 23,1,N/A,1,N/A
+102,Tyson Chandler,DEFENSIVE_REBOUND,None,1:25,1,Lakers,Magic,26 - 23,0,N/A,N/A,N/A
+103,Josh Hart,FG_ASSISTED,Brandon Ingram,1:12,1,Lakers,Magic,29 - 23,0, ,3,Jumper
+104,Jonathon Simmons,FG_MISS,None,49.6,1,Magic,Lakers,29 - 23,1,22,3,Jumper
+105,Josh Hart,DEFENSIVE_REBOUND,None,47.5,1,Lakers,Magic,29 - 23,0,N/A,N/A,N/A
+106,Josh Hart,FG_ASSISTED,Brandon Ingram,27.2,1,Lakers,Magic,31 - 23,0, ,2,Jumper
+107,Jonathan Isaac,FG_ASSISTED,Jonathon Simmons,2.8,1,Magic,Lakers,31 - 25,1,21,2,Jumper
+108,Lance Stephenson,FG_MISS,None,0.5,1,Lakers,Magic,31 - 25,0,47,3,Jumper
+109,Team,OFFENSIVE_REBOUND,None,0.5,1,Lakers,Magic,31 - 25,0,N/A,N/A,N/A
+110,End of,Unknown,None,0.0,1,Magic,Lakers,31 - 25,1,N/A,N/A,N/A
+0,JaVale McGee,SUBSTITUTION,Chandler Tyson,12:00,2,Lakers,Magic,31 - 25,0,N/A,N/A,N/A
+1,Jonathon Simmons,FG_ASSISTED,Mo Bamba,11:40,2,Magic,Lakers,31 - 27,1,10,2,Jumper
+2,Josh Hart,FG_MISS,None,11:19,2,Lakers,Magic,31 - 27,0,26,3,Jumper
+3,Jonathan Isaac,DEFENSIVE_REBOUND,None,11:15,2,Magic,Lakers,31 - 27,1,N/A,N/A,N/A
+4,Jonathan Isaac,FG_MISS,None,10:58,2,Magic,Lakers,31 - 27,1,15,2,Jumper
+5,Lance Stephenson,DEFENSIVE_REBOUND,None,10:55,2,Lakers,Magic,31 - 27,0,N/A,N/A,N/A
+6,Lance Stephenson,TURNOVER,None,10:53,2,Lakers,Magic,31 - 27,0,N/A,N/A,N/A
+7,Mo Bamba,FG_ASSISTED,Jerian Grant,10:34,2,Magic,Lakers,31 - 29,1,0,2,Dunk
+8,JaVale McGee's,FG_MISS,Jonathan Isaac,10:16,2,Magic,Lakers,31 - 29,0,0,2,Layup
+9,JaVale McGee,JUMP_BALL,None,10:12,2,Lakers,Magic,31 - 29,0,N/A,N/A,N/A
+10,Team,OFFENSIVE_REBOUND,None,10:12,2,Lakers,Magic,31 - 29,0,N/A,N/A,N/A
+11,Mo Bamba,FOUL_ON_FLOOR,None,10:09,2,Magic,Lakers,31 - 29,1,N/A,N/A,N/A
+12,JaVale McGee,FT_MISS,None,10:09,2,Lakers,Magic,31 - 29,0,N/A,1,N/A
+13,Team,OFFENSIVE_REBOUND,None,10:09,2,Lakers,Magic,31 - 29,0,N/A,N/A,N/A
+14,JaVale McGee,FT,None,10:09,2,Lakers,Magic,32 - 29,0,N/A,1,N/A
+15,Jonathon Simmons,FG_UNASSISTED,None,9:57,2,Magic,Lakers,32 - 31,1,13,2,Jumper
+16,Kentavious Caldwell-Pope,FG_MISS,None,9:43,2,Lakers,Magic,32 - 31,0,16,2,Jumper
+17,Terrence Ross,DEFENSIVE_REBOUND,None,9:40,2,Magic,Lakers,32 - 31,1,N/A,N/A,N/A
+18,Mo Bamba,FG_MISS,None,9:33,2,Magic,Lakers,32 - 31,1,27,3,Jumper
+19,Jerian Grant,OFFENSIVE_REBOUND,None,9:29,2,Magic,Lakers,32 - 31,1,N/A,N/A,N/A
+20,Jerian Grant's,FG_MISS,Josh Hart,9:19,2,Lakers,Magic,32 - 31,1, ,2,Jumper
+21,JaVale McGee,DEFENSIVE_REBOUND,None,9:16,2,Lakers,Magic,32 - 31,0,N/A,N/A,N/A
+22,Josh Hart,FG_MISS,None,9:13,2,Lakers,Magic,32 - 31,0,0,2,Layup
+23,Jonathon Simmons,DEFENSIVE_REBOUND,None,9:09,2,Magic,Lakers,32 - 31,1,N/A,N/A,N/A
+24,Terrence Ross,FG_ASSISTED,Jonathon Simmons,9:05,2,Magic,Lakers,32 - 34,1,25,3,Jumper
+25,Team,Unknown,None,9:04,2,Lakers,Magic,32 - 34,0,N/A,N/A,N/A
+26,LeBron James,SUBSTITUTION,Stephenson Lance,9:04,2,Lakers,Magic,32 - 34,0,N/A,N/A,N/A
+27,LeBron James,FG_MISS,Jonathan Isaac,8:47,2,Magic,Lakers,32 - 34,0,27,2,Jumper
+28,Terrence Ross,DEFENSIVE_REBOUND,None,8:45,2,Magic,Lakers,32 - 34,1,N/A,N/A,N/A
+29,Brandon Ingram,FOUL_ON_FLOOR,None,8:45,2,Lakers,Magic,32 - 34,0,N/A,N/A,N/A
+30,Jonathan Isaac,FG_ASSISTED,Jonathon Simmons,8:38,2,Magic,Lakers,32 - 37,1,27,3,Jumper
+31,Josh Hart,FG_ASSISTED,Brandon Ingram,8:24,2,Lakers,Magic,35 - 37,0, ,3,Jumper
+32,Mo Bamba,FG_ASSISTED,Jonathon Simmons,8:14,2,Magic,Lakers,35 - 39,1,20,2,Jumper
+33,LeBron James,FG_MISS,Jonathan Isaac,8:00,2,Magic,Lakers,35 - 39,0,0,2,Layup
+34,Team,OFFENSIVE_REBOUND,None,8:00,2,Lakers,Magic,35 - 39,0,N/A,N/A,N/A
+35,LeBron James,FG_MISS,None,7:54,2,Lakers,Magic,35 - 39,0,0,2,Layup
+36,JaVale McGee,OFFENSIVE_REBOUND,None,7:53,2,Lakers,Magic,35 - 39,0,N/A,N/A,N/A
+37,JaVale McGee,FG_UNASSISTED,None,7:52,2,Lakers,Magic,37 - 39,0, ,2,Jumper
+38,Mo Bamba,FG_MISS,None,7:32,2,Magic,Lakers,37 - 39,1,25,3,Jumper
+39,Brandon Ingram,DEFENSIVE_REBOUND,None,7:30,2,Lakers,Magic,37 - 39,0,N/A,N/A,N/A
+40,Team,Unknown,None,7:22,2,Lakers,Magic,37 - 39,0,N/A,N/A,N/A
+41,Kyle Kuzma,SUBSTITUTION,Caldwell-Pope Kentavious,7:22,2,Lakers,Magic,37 - 39,0,N/A,N/A,N/A
+42,Lonzo Ball,SUBSTITUTION,Ingram Brandon,7:22,2,Lakers,Magic,37 - 39,0,N/A,N/A,N/A
+43,LeBron James,FG_MISS,None,7:10,2,Lakers,Magic,37 - 39,0,15,2,Jumper
+44,Jonathon Simmons,DEFENSIVE_REBOUND,None,7:06,2,Magic,Lakers,37 - 39,1,N/A,N/A,N/A
+45,Terrence Ross,FG_ASSISTED,Jonathon Simmons,7:01,2,Magic,Lakers,37 - 42,1,25,3,Jumper
+46,Josh Hart,FG_ASSISTED,LeBron James,6:46,2,Lakers,Magic,39 - 42,0,12,2,Jumper
+47,Terrence Ross,FG_MISS,None,6:23,2,Magic,Lakers,39 - 42,1,14,2,Jumper
+48,Jonathon Simmons,OFFENSIVE_REBOUND,None,6:20,2,Magic,Lakers,39 - 42,1,N/A,N/A,N/A
+49,Jonathon Simmons,FG_UNASSISTED,None,6:20,2,Magic,Lakers,39 - 44,1, ,2,Jumper
+50,Jonathan Isaac,FOUL_ON_FLOOR,None,6:07,2,Magic,Lakers,39 - 44,1,N/A,N/A,N/A
+51,LeBron James,FT_MISS,None,6:07,2,Lakers,Magic,39 - 44,0,N/A,1,N/A
+52,Team,OFFENSIVE_REBOUND,None,6:07,2,Lakers,Magic,39 - 44,0,N/A,N/A,N/A
+53,Aaron Gordon,SUBSTITUTION,Isaac Jonathan,6:07,2,Magic,Lakers,39 - 44,1,N/A,N/A,N/A
+54,Tyson Chandler,SUBSTITUTION,McGee JaVale,6:07,2,Lakers,Magic,39 - 44,0,N/A,N/A,N/A
+55,LeBron James,FT,None,6:07,2,Lakers,Magic,40 - 44,0,N/A,1,N/A
+56,Terrence Ross,FOUL_ON_FLOOR,None,5:58,2,Magic,Lakers,40 - 44,1,N/A,N/A,N/A
+57,Terrence Ross,TURNOVER,None,5:58,2,Magic,Lakers,40 - 44,1,N/A,N/A,N/A
+58,Evan Fournier,SUBSTITUTION,Bamba Mo,5:58,2,Magic,Lakers,40 - 44,1,N/A,N/A,N/A
+59,D.J. Augustin,SUBSTITUTION,Grant Jerian,5:58,2,Magic,Lakers,40 - 44,1,N/A,N/A,N/A
+60,Nikola Vucevic,SUBSTITUTION,Ross Terrence,5:58,2,Magic,Lakers,40 - 44,1,N/A,N/A,N/A
+61,Kyle Kuzma,TURNOVER,None,5:41,2,Lakers,Magic,40 - 44,0,N/A,N/A,N/A
+62,Jonathon Simmons,FG_MISS,None,5:25,2,Magic,Lakers,40 - 44,1,18,2,Jumper
+63,Tyson Chandler,DEFENSIVE_REBOUND,None,5:22,2,Lakers,Magic,40 - 44,0,N/A,N/A,N/A
+64,LeBron James,FG_ASSISTED,Lonzo Ball,5:13,2,Lakers,Magic,42 - 44,0,0,2,Dunk
+65,Aaron Gordon,FG_MISS,None,4:56,2,Magic,Lakers,42 - 44,1,26,3,Jumper
+66,Lonzo Ball,DEFENSIVE_REBOUND,None,4:52,2,Lakers,Magic,42 - 44,0,N/A,N/A,N/A
+67,Lonzo Ball,TURNOVER,Aaron Gordon,4:50,2,Lakers,Magic,42 - 44,0,N/A,N/A,N/A
+68,Aaron Gordon,TURNOVER,None,4:48,2,Magic,Lakers,42 - 44,1,N/A,N/A,N/A
+69,Aaron Gordon,TURNOVER,None,4:48,2,Magic,Lakers,42 - 44,1,N/A,N/A,N/A
+70,Kyle Kuzma,TURNOVER,None,4:34,2,Lakers,Magic,42 - 44,0,N/A,N/A,N/A
+71,Kyle Kuzma,TURNOVER,None,4:34,2,Lakers,Magic,42 - 44,0,N/A,N/A,N/A
+72,Nikola Vucevic,FG_MISS,None,4:21,2,Magic,Lakers,42 - 44,1,20,2,Jumper
+73,Tyson Chandler,DEFENSIVE_REBOUND,None,4:19,2,Lakers,Magic,42 - 44,0,N/A,N/A,N/A
+74,LeBron James,TURNOVER,None,4:16,2,Lakers,Magic,42 - 44,0,N/A,N/A,N/A
+75,D.J. Augustin,FG_UNASSISTED,None,4:07,2,Magic,Lakers,42 - 47,1,27,3,Jumper
+76,LeBron James,FG_MISS,None,3:48,2,Lakers,Magic,42 - 47,0, ,2,Jumper
+77,Evan Fournier,DEFENSIVE_REBOUND,None,3:47,2,Magic,Lakers,42 - 47,1,N/A,N/A,N/A
+78,D.J. Augustin,FG_ASSISTED,Aaron Gordon,3:41,2,Magic,Lakers,42 - 50,1,23,3,Jumper
+79,Team,Unknown,None,3:39,2,Lakers,Magic,42 - 50,0,N/A,N/A,N/A
+80,Brandon Ingram,SUBSTITUTION,Hart Josh,3:39,2,Lakers,Magic,42 - 50,0,N/A,N/A,N/A
+81,Tyson Chandler,FG_ASSISTED,LeBron James,3:23,2,Lakers,Magic,44 - 50,0,0,2,Dunk
+82,Kyle Kuzma,FOUL_ON_FLOOR,None,3:10,2,Lakers,Magic,44 - 50,0,N/A,N/A,N/A
+83,Evan Fournier,FG_MISS,None,3:05,2,Magic,Lakers,44 - 50,1,26,3,Jumper
+84,Kyle Kuzma,DEFENSIVE_REBOUND,None,3:03,2,Lakers,Magic,44 - 50,0,N/A,N/A,N/A
+85,Brandon Ingram,FG_UNASSISTED,None,2:48,2,Lakers,Magic,46 - 50,0,14,2,Jumper
+86,Evan Fournier,FG_MISS,None,2:32,2,Magic,Lakers,46 - 50,1,23,3,Jumper
+87,Kyle Kuzma,DEFENSIVE_REBOUND,None,2:29,2,Lakers,Magic,46 - 50,0,N/A,N/A,N/A
+88,Evan Fournier,FOUL_ON_FLOOR,None,2:22,2,Magic,Lakers,46 - 50,1,N/A,N/A,N/A
+89,Lonzo Ball,FG_MISS,None,2:12,2,Lakers,Magic,46 - 50,0,15,2,Jumper
+90,Nikola Vucevic,DEFENSIVE_REBOUND,None,2:09,2,Magic,Lakers,46 - 50,1,N/A,N/A,N/A
+91,D.J. Augustin,TURNOVER,None,1:59,2,Magic,Lakers,46 - 50,1,N/A,N/A,N/A
+92,Kyle Kuzma,TURNOVER,None,1:53,2,Lakers,Magic,46 - 50,0,N/A,N/A,N/A
+93,D.J. Augustin,FG_UNASSISTED,None,1:44,2,Magic,Lakers,46 - 52,1,0,2,Layup
+94,Lonzo Ball,FOUL_ON_FLOOR,None,1:44,2,Lakers,Magic,46 - 52,0,N/A,N/A,N/A
+95,D.J. Augustin,FT,None,1:44,2,Magic,Lakers,46 - 53,1,N/A,1,N/A
+96,Kyle Kuzma,FG_ASSISTED,LeBron James,1:31,2,Lakers,Magic,48 - 53,0,0,2,Dunk
+97,Aaron Gordon,FG_ASSISTED,D.J. Augustin,1:07,2,Magic,Lakers,48 - 55,1,16,2,Jumper
+98,D.J. Augustin,FOUL_ON_FLOOR,None,1:01,2,Magic,Lakers,48 - 55,1,N/A,N/A,N/A
+99,Lonzo Ball,TURNOVER,Aaron Gordon,57.1,2,Lakers,Magic,48 - 55,0,N/A,N/A,N/A
+100,Aaron Gordon,FG_ASSISTED,D.J. Augustin,54.1,2,Magic,Lakers,48 - 57,1,0,2,Dunk
+101,Kyle Kuzma,FG_ASSISTED,LeBron James,43.5,2,Lakers,Magic,50 - 57,0, ,2,Jumper
+102,Aaron Gordon,FG_MISS,None,30.3,2,Magic,Lakers,50 - 57,1,0,2,Layup
+103,Nikola Vucevic,OFFENSIVE_REBOUND,None,29.9,2,Magic,Lakers,50 - 57,1,N/A,N/A,N/A
+104,Nikola Vucevic,FG_UNASSISTED,None,29.9,2,Magic,Lakers,50 - 59,1, ,2,Jumper
+105,LeBron James,FG_UNASSISTED,None,9.2,2,Lakers,Magic,53 - 59,0,26,2,Jumper
+106,Nikola Vucevic,FG_ASSISTED,Jonathon Simmons,1.8,2,Magic,Lakers,53 - 62,1,25,3,Jumper
+107,End of,Unknown,None,0.0,2,Magic,Lakers,53 - 62,1,N/A,N/A,N/A
+0,Wesley Iwundu,SUBSTITUTION,Simmons Jonathon,12:00,3,Magic,Lakers,53 - 62,1,N/A,N/A,N/A
+1,JaVale McGee,SUBSTITUTION,Chandler Tyson,12:00,3,Lakers,Magic,53 - 62,0,N/A,N/A,N/A
+2,Nikola Vucevic,FG_MISS,None,11:45,3,Magic,Lakers,53 - 62,1,25,3,Jumper
+3,LeBron James,DEFENSIVE_REBOUND,None,11:42,3,Lakers,Magic,53 - 62,0,N/A,N/A,N/A
+4,JaVale McGee,FG_ASSISTED,LeBron James,11:37,3,Lakers,Magic,55 - 62,0,8,2,Jumper
+5,D.J. Augustin,FG_ASSISTED,Evan Fournier,11:16,3,Magic,Lakers,55 - 65,1, ,3,Jumper
+6,JaVale McGee,TURNOVER,None,11:12,3,Lakers,Magic,55 - 65,0,N/A,N/A,N/A
+7,Evan Fournier,FG_ASSISTED,Aaron Gordon,11:06,3,Magic,Lakers,55 - 68,1,26,3,Jumper
+8,LeBron James,TURNOVER,Nikola Vucevic,10:48,3,Lakers,Magic,55 - 68,0,N/A,N/A,N/A
+9,Nikola Vucevic,FG_ASSISTED,D.J. Augustin,10:40,3,Magic,Lakers,55 - 70,1,0,2,Dunk
+10,Team,Unknown,None,10:40,3,Lakers,Magic,55 - 70,0,N/A,N/A,N/A
+11,LeBron James,FG_MISS,None,10:32,3,Lakers,Magic,55 - 70,0,20,2,Jumper
+12,JaVale McGee,OFFENSIVE_REBOUND,None,10:29,3,Lakers,Magic,55 - 70,0,N/A,N/A,N/A
+13,JaVale McGee,FG_MISS,None,10:29,3,Lakers,Magic,55 - 70,0, ,2,Jumper
+14,JaVale McGee,OFFENSIVE_REBOUND,None,10:29,3,Lakers,Magic,55 - 70,0,N/A,N/A,N/A
+15,Evan Fournier,FOUL_ON_FLOOR,None,10:29,3,Magic,Lakers,55 - 70,1,N/A,N/A,N/A
+16,Brandon Ingram,FG_UNASSISTED,None,10:18,3,Lakers,Magic,57 - 70,0,10,2,Jumper
+17,JaVale McGee,FOUL_ON_FLOOR,None,10:02,3,Lakers,Magic,57 - 70,0,N/A,N/A,N/A
+18,Aaron Gordon,FG_MISS,None,9:49,3,Magic,Lakers,57 - 70,1,14,2,Jumper
+19,LeBron James,DEFENSIVE_REBOUND,None,9:47,3,Lakers,Magic,57 - 70,0,N/A,N/A,N/A
+20,JaVale McGee,FG_ASSISTED,LeBron James,9:35,3,Lakers,Magic,59 - 70,0,0,2,Layup
+21,Wesley Iwundu,FG_MISS,None,9:16,3,Magic,Lakers,59 - 70,1,26,3,Jumper
+22,Brandon Ingram,DEFENSIVE_REBOUND,None,9:14,3,Lakers,Magic,59 - 70,0,N/A,N/A,N/A
+23,Brandon Ingram,FG_UNASSISTED,None,9:06,3,Lakers,Magic,61 - 70,0,17,2,Jumper
+24,Team,Unknown,None,9:06,3,Magic,Lakers,61 - 70,1,N/A,N/A,N/A
+25,D.J. Augustin,FG_MISS,LeBron James,8:42,3,Lakers,Magic,61 - 70,1,0,2,Dunk
+26,Lonzo Ball,DEFENSIVE_REBOUND,None,8:39,3,Lakers,Magic,61 - 70,0,N/A,N/A,N/A
+27,LeBron James,FG_ASSISTED,Brandon Ingram,8:38,3,Lakers,Magic,63 - 70,0, ,2,Jumper
+28,Nikola Vucevic,FG_ASSISTED,Evan Fournier,8:23,3,Magic,Lakers,63 - 72,1,9,2,Jumper
+29,Evan Fournier,FOUL_ON_FLOOR,None,8:15,3,Magic,Lakers,63 - 72,1,N/A,N/A,N/A
+30,Brandon Ingram,FT_MISS,None,8:15,3,Lakers,Magic,63 - 72,0,N/A,1,N/A
+31,Team,OFFENSIVE_REBOUND,None,8:15,3,Lakers,Magic,63 - 72,0,N/A,N/A,N/A
+32,Brandon Ingram,FT,None,8:15,3,Lakers,Magic,64 - 72,0,N/A,1,N/A
+33,Nikola Vucevic,FG_UNASSISTED,None,7:56,3,Magic,Lakers,64 - 74,1,19,2,Jumper
+34,Brandon Ingram,FG_UNASSISTED,None,7:44,3,Lakers,Magic,66 - 74,0,0,2,Layup
+35,Nikola Vucevic,FG_ASSISTED,D.J. Augustin,7:26,3,Magic,Lakers,66 - 76,1,0,2,Layup
+36,D.J. Augustin,FOUL_ON_FLOOR,None,7:17,3,Magic,Lakers,66 - 76,1,N/A,N/A,N/A
+37,Tyson Chandler,SUBSTITUTION,McGee JaVale,7:17,3,Lakers,Magic,66 - 76,0,N/A,N/A,N/A
+38,Lonzo Ball,FG_MISS,None,7:11,3,Lakers,Magic,66 - 76,0,14,2,Jumper
+39,Evan Fournier,DEFENSIVE_REBOUND,None,7:08,3,Magic,Lakers,66 - 76,1,N/A,N/A,N/A
+40,Evan Fournier,FG_MISS,None,7:05,3,Magic,Lakers,66 - 76,1, ,2,Jumper
+41,Aaron Gordon,OFFENSIVE_REBOUND,None,6:58,3,Magic,Lakers,66 - 76,1,N/A,N/A,N/A
+42,Aaron Gordon,FG_UNASSISTED,None,6:58,3,Magic,Lakers,66 - 78,1,0,2,Dunk
+43,LeBron James,FG_MISS,None,6:37,3,Lakers,Magic,66 - 78,0,22,2,Jumper
+44,Nikola Vucevic,DEFENSIVE_REBOUND,None,6:35,3,Magic,Lakers,66 - 78,1,N/A,N/A,N/A
+45,Nikola Vucevic,FG_MISS,None,6:27,3,Magic,Lakers,66 - 78,1,26,3,Jumper
+46,Kyle Kuzma,DEFENSIVE_REBOUND,None,6:25,3,Lakers,Magic,66 - 78,0,N/A,N/A,N/A
+47,Kyle Kuzma,TURNOVER,Nikola Vucevic,6:19,3,Lakers,Magic,66 - 78,0,N/A,N/A,N/A
+48,Nikola Vucevic,FG_ASSISTED,Aaron Gordon,6:11,3,Magic,Lakers,66 - 80,1,7,2,Jumper
+49,Wesley Iwundu,FOUL_ON_FLOOR,None,5:53,3,Magic,Lakers,66 - 80,1,N/A,N/A,N/A
+50,Kentavious Caldwell-Pope,SUBSTITUTION,Kuzma Kyle,5:53,3,Lakers,Magic,66 - 80,0,N/A,N/A,N/A
+51,Josh Hart,SUBSTITUTION,Ball Lonzo,5:53,3,Lakers,Magic,66 - 80,0,N/A,N/A,N/A
+52,LeBron James,FG_MISS,None,5:46,3,Lakers,Magic,66 - 80,0,28,3,Jumper
+53,Nikola Vucevic,DEFENSIVE_REBOUND,None,5:43,3,Magic,Lakers,66 - 80,1,N/A,N/A,N/A
+54,Aaron Gordon,FG_ASSISTED,D.J. Augustin,5:33,3,Magic,Lakers,66 - 83,1,23,3,Jumper
+55,LeBron James,FG_UNASSISTED,None,5:19,3,Lakers,Magic,68 - 83,0,0,2,Layup
+56,D.J. Augustin,FG_UNASSISTED,None,5:10,3,Magic,Lakers,68 - 85,1,0,2,Layup
+57,Kentavious Caldwell-Pope,FG_MISS,None,4:55,3,Lakers,Magic,68 - 85,0,26,3,Jumper
+58,Nikola Vucevic,DEFENSIVE_REBOUND,None,4:54,3,Magic,Lakers,68 - 85,1,N/A,N/A,N/A
+59,Nikola Vucevic,FG_ASSISTED,Wesley Iwundu,4:36,3,Magic,Lakers,68 - 87,1, ,2,Jumper
+60,Brandon Ingram,FG_MISS,None,4:17,3,Lakers,Magic,68 - 87,0,7,2,Jumper
+61,Kentavious Caldwell-Pope,OFFENSIVE_REBOUND,None,4:08,3,Lakers,Magic,68 - 87,0,N/A,N/A,N/A
+62,Kentavious Caldwell-Pope,FG_UNASSISTED,None,4:08,3,Lakers,Magic,70 - 87,0, ,2,Jumper
+63,D.J. Augustin,FG_UNASSISTED,None,4:01,3,Magic,Lakers,70 - 89,1,0,2,Layup
+64,LeBron James,FG_MISS,None,3:46,3,Lakers,Magic,70 - 89,0,0,2,Layup
+65,D.J. Augustin,DEFENSIVE_REBOUND,None,3:43,3,Magic,Lakers,70 - 89,1,N/A,N/A,N/A
+66,Evan Fournier,FG_MISS,None,3:36,3,Magic,Lakers,70 - 89,1,26,3,Jumper
+67,Evan Fournier,OFFENSIVE_REBOUND,None,3:32,3,Magic,Lakers,70 - 89,1,N/A,N/A,N/A
+68,Evan Fournier,FG_MISS,None,3:30,3,Magic,Lakers,70 - 89,1, ,2,Jumper
+69,LeBron James,DEFENSIVE_REBOUND,None,3:28,3,Lakers,Magic,70 - 89,0,N/A,N/A,N/A
+70,LeBron James,FG_UNASSISTED,None,3:14,3,Lakers,Magic,73 - 89,0,24,2,Jumper
+71,D.J. Augustin,FG_UNASSISTED,None,2:58,3,Magic,Lakers,73 - 91,1,0,2,Layup
+72,LeBron James,FG_MISS,None,2:45,3,Lakers,Magic,73 - 91,0,28,3,Jumper
+73,Nikola Vucevic,DEFENSIVE_REBOUND,None,2:44,3,Magic,Lakers,73 - 91,1,N/A,N/A,N/A
+74,Team,Unknown,None,2:44,3,Magic,Lakers,73 - 91,1,N/A,N/A,N/A
+75,Terrence Ross,SUBSTITUTION,Augustin D.J.,2:44,3,Magic,Lakers,73 - 91,1,N/A,N/A,N/A
+76,Lance Stephenson,SUBSTITUTION,Chandler Tyson,2:44,3,Lakers,Magic,73 - 91,0,N/A,N/A,N/A
+77,Lonzo Ball,SUBSTITUTION,Ingram Brandon,2:44,3,Lakers,Magic,73 - 91,0,N/A,N/A,N/A
+78,Kyle Kuzma,SUBSTITUTION,James LeBron,2:44,3,Lakers,Magic,73 - 91,0,N/A,N/A,N/A
+79,Nikola Vucevic,FG_MISS,Kyle Kuzma,2:33,3,Lakers,Magic,73 - 91,1,9,2,Jumper
+80,Nikola Vucevic,OFFENSIVE_REBOUND,None,2:29,3,Magic,Lakers,73 - 91,1,N/A,N/A,N/A
+81,Nikola Vucevic,FG_UNASSISTED,None,2:27,3,Magic,Lakers,73 - 93,1, ,2,Jumper
+82,Kyle Kuzma,FG_MISS,None,2:21,3,Lakers,Magic,73 - 93,0,26,3,Jumper
+83,Kentavious Caldwell-Pope,OFFENSIVE_REBOUND,None,2:21,3,Lakers,Magic,73 - 93,0,N/A,N/A,N/A
+84,Kentavious Caldwell-Pope,FG_UNASSISTED,None,2:16,3,Lakers,Magic,75 - 93,0, ,2,Jumper
+85,Evan Fournier,FG_UNASSISTED,None,2:03,3,Magic,Lakers,75 - 95,1,0,2,Layup
+86,Lonzo Ball,FG_MISS,None,1:52,3,Lakers,Magic,75 - 95,0,26,3,Jumper
+87,Aaron Gordon,DEFENSIVE_REBOUND,None,1:49,3,Magic,Lakers,75 - 95,1,N/A,N/A,N/A
+88,Aaron Gordon,FG_MISS,Josh Hart,1:35,3,Lakers,Magic,75 - 95,1,0,2,Layup
+89,Aaron Gordon,OFFENSIVE_REBOUND,None,1:32,3,Magic,Lakers,75 - 95,1,N/A,N/A,N/A
+90,Aaron Gordon,FG_MISS,None,1:31,3,Magic,Lakers,75 - 95,1, ,2,Jumper
+91,Aaron Gordon,OFFENSIVE_REBOUND,None,1:26,3,Magic,Lakers,75 - 95,1,N/A,N/A,N/A
+92,Aaron Gordon,FG_MISS,None,1:26,3,Magic,Lakers,75 - 95,1, ,2,Jumper
+93,Lonzo Ball,DEFENSIVE_REBOUND,None,1:26,3,Lakers,Magic,75 - 95,0,N/A,N/A,N/A
+94,Kyle Kuzma,FG_ASSISTED,Josh Hart,1:19,3,Lakers,Magic,78 - 95,0,28,3,Jumper
+95,Kentavious Caldwell-Pope,FOUL_ON_FLOOR,None,1:05,3,Lakers,Magic,78 - 95,0,N/A,N/A,N/A
+96,Terrence Ross,FT,None,1:05,3,Magic,Lakers,78 - 96,1,N/A,1,N/A
+97,Terrence Ross,FT,None,1:05,3,Magic,Lakers,78 - 97,1,N/A,1,N/A
+98,Jonathan Isaac,SUBSTITUTION,Gordon Aaron,1:05,3,Magic,Lakers,78 - 97,1,N/A,N/A,N/A
+99,Jonathon Simmons,SUBSTITUTION,Fournier Evan,1:05,3,Magic,Lakers,78 - 97,1,N/A,N/A,N/A
+100,Terrence Ross,FT,None,1:05,3,Magic,Lakers,78 - 98,1,N/A,1,N/A
+101,Jerian Grant,SUBSTITUTION,Iwundu Wesley,1:05,3,Magic,Lakers,78 - 98,1,N/A,N/A,N/A
+102,Nikola Vucevic,FOUL_ON_FLOOR,None,53.2,3,Magic,Lakers,78 - 98,1,N/A,N/A,N/A
+103,Kyle Kuzma,FT,None,53.2,3,Lakers,Magic,79 - 98,0,N/A,1,N/A
+104,Kyle Kuzma,FT_MISS,None,53.2,3,Lakers,Magic,79 - 98,0,N/A,1,N/A
+105,Nikola Vucevic,DEFENSIVE_REBOUND,None,51.7,3,Magic,Lakers,79 - 98,1,N/A,N/A,N/A
+106,Nikola Vucevic,FG_UNASSISTED,None,34.9,3,Magic,Lakers,79 - 100,1,8,2,Jumper
+107,Terrence Ross,FOUL_ON_FLOOR,None,25.2,3,Magic,Lakers,79 - 100,1,N/A,N/A,N/A
+108,Kentavious Caldwell-Pope,FT,None,25.2,3,Lakers,Magic,80 - 100,0,N/A,1,N/A
+109,Kentavious Caldwell-Pope,FT,None,25.2,3,Lakers,Magic,81 - 100,0,N/A,1,N/A
+110,Jonathon Simmons,FG_MISS,Kyle Kuzma,6.8,3,Lakers,Magic,81 - 100,1,0,2,Layup
+111,Lonzo Ball,DEFENSIVE_REBOUND,None,4.0,3,Lakers,Magic,81 - 100,0,N/A,N/A,N/A
+112,Kentavious Caldwell-Pope,FG_MISS,Jonathan Isaac,2.5,3,Magic,Lakers,81 - 100,0,0,2,Dunk
+113,Team,DEFENSIVE_REBOUND,None,2.2,3,Magic,Lakers,81 - 100,1,N/A,N/A,N/A
+114,Jonathan Isaac,TURNOVER,None,0.4,3,Magic,Lakers,81 - 100,1,N/A,N/A,N/A
+115,Lance Stephenson,FG_MISS,None,0.0,3,Lakers,Magic,81 - 100,0,62,3,Jumper
+116,Team,OFFENSIVE_REBOUND,None,0.0,3,Lakers,Magic,81 - 100,0,N/A,N/A,N/A
+117,End of,Unknown,None,0.0,3,Magic,Lakers,81 - 100,1,N/A,N/A,N/A
+0,Mo Bamba,SUBSTITUTION,Vucevic Nikola,12:00,4,Magic,Lakers,81 - 100,1,N/A,N/A,N/A
+1,Kyle Kuzma,FG_MISS,None,11:41,4,Lakers,Magic,81 - 100,0,1,2,Jumper
+2,Mo Bamba,DEFENSIVE_REBOUND,None,11:39,4,Magic,Lakers,81 - 100,1,N/A,N/A,N/A
+3,Jonathan Isaac,TURNOVER,Lance Stephenson,11:30,4,Magic,Lakers,81 - 100,1,N/A,N/A,N/A
+4,Jonathon Simmons,FOUL_ON_FLOOR,None,11:30,4,Magic,Lakers,81 - 100,1,N/A,N/A,N/A
+5,Josh Hart,FG_ASSISTED,Lonzo Ball,11:27,4,Lakers,Magic,84 - 100,0,25,3,Jumper
+6,Lonzo Ball,FOUL_ON_FLOOR,None,11:10,4,Lakers,Magic,84 - 100,0,N/A,N/A,N/A
+7,Jonathon Simmons,FG_ASSISTED,Jonathan Isaac,10:59,4,Magic,Lakers,84 - 102,1,0,2,Dunk
+8,Lonzo Ball,TURNOVER,Jerian Grant,10:48,4,Lakers,Magic,84 - 102,0,N/A,N/A,N/A
+9,Josh Hart,FOUL_ON_FLOOR,None,10:45,4,Lakers,Magic,84 - 102,0,N/A,N/A,N/A
+10,Jonathon Simmons,FT,None,10:45,4,Magic,Lakers,84 - 103,1,N/A,1,N/A
+11,Jonathon Simmons,FT,None,10:45,4,Magic,Lakers,84 - 104,1,N/A,1,N/A
+12,Mo Bamba,FOUL_ON_FLOOR,None,10:38,4,Magic,Lakers,84 - 104,1,N/A,N/A,N/A
+13,Lance Stephenson,FT,None,10:38,4,Lakers,Magic,85 - 104,0,N/A,1,N/A
+14,Lance Stephenson,FT,None,10:38,4,Lakers,Magic,86 - 104,0,N/A,1,N/A
+15,Terrence Ross,FOUL_ON_FLOOR,None,10:30,4,Magic,Lakers,86 - 104,1,N/A,N/A,N/A
+16,Terrence Ross,TURNOVER,None,10:30,4,Magic,Lakers,86 - 104,1,N/A,N/A,N/A
+17,Sviatoslav Mykhailiuk,SUBSTITUTION,Hart Josh,10:30,4,Lakers,Magic,86 - 104,0,N/A,N/A,N/A
+18,Lance Stephenson,FG_UNASSISTED,None,10:11,4,Lakers,Magic,88 - 104,0,19,2,Jumper
+19,Lonzo Ball,FOUL_ON_FLOOR,None,9:52,4,Lakers,Magic,88 - 104,0,N/A,N/A,N/A
+20,Mo Bamba,FT,None,9:52,4,Magic,Lakers,88 - 105,1,N/A,1,N/A
+21,Mo Bamba,FT,None,9:52,4,Magic,Lakers,88 - 106,1,N/A,1,N/A
+22,Kyle Kuzma,FG_MISS,None,9:39,4,Lakers,Magic,88 - 106,0,25,3,Jumper
+23,Jonathan Isaac,DEFENSIVE_REBOUND,None,9:37,4,Magic,Lakers,88 - 106,1,N/A,N/A,N/A
+24,Terrence Ross,FG_UNASSISTED,None,9:16,4,Magic,Lakers,88 - 108,1,22,2,Jumper
+25,Terrence Ross,FOUL_ON_FLOOR,None,9:04,4,Magic,Lakers,88 - 109,1,N/A,N/A,N/A
+26,Lance Stephenson,FT,None,9:04,4,Lakers,Magic,89 - 109,0,N/A,1,N/A
+27,Evan Fournier,SUBSTITUTION,Ross Terrence,9:04,4,Magic,Lakers,89 - 109,1,N/A,N/A,N/A
+28,Brandon Ingram,SUBSTITUTION,Kuzma Kyle,9:04,4,Lakers,Magic,89 - 109,0,N/A,N/A,N/A
+29,Michael Beasley,SUBSTITUTION,Ball Lonzo,9:04,4,Lakers,Magic,89 - 109,0,N/A,N/A,N/A
+30,Lance Stephenson,FT,None,9:04,4,Lakers,Magic,90 - 109,0,N/A,1,N/A
+31,Mo Bamba,FG_ASSISTED,Evan Fournier,8:45,4,Magic,Lakers,90 - 111,1,7,2,Jumper
+32,Sviatoslav Mykhailiuk,FG_MISS,None,8:30,4,Lakers,Magic,90 - 111,0,1,3,Jumper
+33,Jonathan Isaac,DEFENSIVE_REBOUND,None,8:29,4,Magic,Lakers,90 - 111,1,N/A,N/A,N/A
+34,Michael Beasley,FOUL_ON_FLOOR,None,8:29,4,Lakers,Magic,90 - 111,0,N/A,N/A,N/A
+35,Jonathon Simmons,FG_MISS,None,8:16,4,Magic,Lakers,90 - 111,1,1,2,Jumper
+36,Team,DEFENSIVE_REBOUND,None,8:16,4,Lakers,Magic,90 - 111,0,N/A,N/A,N/A
+37,Mo Bamba,FOUL_ON_FLOOR,None,8:16,4,Magic,Lakers,90 - 110,1,N/A,N/A,N/A
+38,Team,Unknown,None,8:16,4,Lakers,Magic,90 - 111,0,N/A,N/A,N/A
+39,Jonathon Simmons,FOUL_ON_FLOOR,None,8:08,4,Magic,Lakers,90 - 110,1,N/A,N/A,N/A
+40,Sviatoslav Mykhailiuk,FT,None,8:08,4,Lakers,Magic,91 - 110,0,N/A,1,N/A
+41,Sviatoslav Mykhailiuk,FT,None,8:08,4,Lakers,Magic,92 - 110,0,N/A,1,N/A
+42,Mo Bamba,FG_MISS,None,7:52,4,Magic,Lakers,92 - 110,1,26,3,Jumper
+43,Lance Stephenson,DEFENSIVE_REBOUND,None,7:48,4,Lakers,Magic,92 - 110,0,N/A,N/A,N/A
+44,Kentavious Caldwell-Pope,FG_MISS,Mo Bamba,7:41,4,Magic,Lakers,92 - 110,0,4,2,Jumper
+45,Team,OFFENSIVE_REBOUND,None,7:41,4,Lakers,Magic,92 - 110,0,N/A,N/A,N/A
+46,Michael Beasley,FG_MISS,None,7:39,4,Lakers,Magic,92 - 110,0,20,2,Jumper
+47,Jonathan Isaac,DEFENSIVE_REBOUND,None,7:37,4,Magic,Lakers,92 - 110,1,N/A,N/A,N/A
+48,Jonathan Isaac,FG_UNASSISTED,None,7:24,4,Magic,Lakers,92 - 112,1,0,2,Layup
+49,Lance Stephenson,FG_ASSISTED,Brandon Ingram,7:11,4,Lakers,Magic,94 - 112,0,0,2,Dunk
+50,Kentavious Caldwell-Pope,FOUL_ON_FLOOR,None,7:01,4,Lakers,Magic,94 - 112,0,N/A,N/A,N/A
+51,Evan Fournier,FT,None,7:01,4,Magic,Lakers,94 - 113,1,N/A,1,N/A
+52,Evan Fournier,FT,None,7:01,4,Magic,Lakers,94 - 114,1,N/A,1,N/A
+53,Brandon Ingram,FG_MISS,None,6:43,4,Lakers,Magic,94 - 114,0,17,2,Jumper
+54,Lance Stephenson,OFFENSIVE_REBOUND,None,6:40,4,Lakers,Magic,94 - 114,0,N/A,N/A,N/A
+55,Lance Stephenson,FG_UNASSISTED,None,6:39,4,Lakers,Magic,96 - 114,0,1,2,Jumper
+56,Mo Bamba,TURNOVER,Lance Stephenson,6:24,4,Magic,Lakers,96 - 114,1,N/A,N/A,N/A
+57,Kentavious Caldwell-Pope,FG_MISS,None,6:19,4,Lakers,Magic,96 - 114,0,24,3,Jumper
+58,Jerian Grant,DEFENSIVE_REBOUND,None,6:15,4,Magic,Lakers,96 - 114,1,N/A,N/A,N/A
+59,Jerian Grant,TURNOVER,None,6:15,4,Magic,Lakers,96 - 114,1,N/A,N/A,N/A
+60,Sviatoslav Mykhailiuk,FG_ASSISTED,Lance Stephenson,6:05,4,Lakers,Magic,99 - 114,0,27,3,Jumper
+61,Team,Unknown,None,6:04,4,Magic,Lakers,99 - 114,1,N/A,N/A,N/A
+62,Nikola Vucevic,SUBSTITUTION,Isaac Jonathan,6:04,4,Magic,Lakers,99 - 114,1,N/A,N/A,N/A
+63,D.J. Augustin,SUBSTITUTION,Bamba Mo,6:04,4,Magic,Lakers,99 - 114,1,N/A,N/A,N/A
+64,Aaron Gordon,SUBSTITUTION,Grant Jerian,6:04,4,Magic,Lakers,99 - 114,1,N/A,N/A,N/A
+65,Jonathon Simmons,FG_MISS,None,5:49,4,Magic,Lakers,99 - 114,1,22,3,Jumper
+66,Brandon Ingram,DEFENSIVE_REBOUND,None,5:45,4,Lakers,Magic,99 - 114,0,N/A,N/A,N/A
+67,Brandon Ingram,FG_UNASSISTED,None,5:35,4,Lakers,Magic,101 - 114,0,4,2,Jumper
+68,Evan Fournier,FG_MISS,None,5:18,4,Magic,Lakers,101 - 114,1,27,3,Jumper
+69,Lance Stephenson,DEFENSIVE_REBOUND,None,5:15,4,Lakers,Magic,101 - 114,0,N/A,N/A,N/A
+70,Lance Stephenson,FG_UNASSISTED,None,5:11,4,Lakers,Magic,103 - 114,0,1,2,Jumper
+71,Team,Unknown,None,5:11,4,Magic,Lakers,101 - 114,1,N/A,N/A,N/A
+72,Lance Stephenson,FOUL_ON_FLOOR,None,4:54,4,Lakers,Magic,103 - 114,0,N/A,N/A,N/A
+73,Aaron Gordon,FT,None,4:54,4,Magic,Lakers,103 - 115,1,N/A,1,N/A
+74,Aaron Gordon,FT_MISS,None,4:54,4,Magic,Lakers,103 - 115,1,N/A,1,N/A
+75,Brandon Ingram,DEFENSIVE_REBOUND,None,4:52,4,Lakers,Magic,103 - 115,0,N/A,N/A,N/A
+76,Michael Beasley,FG_MISS,None,4:41,4,Lakers,Magic,103 - 115,0,1,2,Jumper
+77,Michael Beasley,OFFENSIVE_REBOUND,None,4:34,4,Lakers,Magic,103 - 115,0,N/A,N/A,N/A
+78,Michael Beasley,FG_UNASSISTED,None,4:34,4,Lakers,Magic,105 - 115,0,1,2,Jumper
+79,Nikola Vucevic,FG_UNASSISTED,None,4:21,4,Magic,Lakers,105 - 117,1,7,2,Jumper
+80,Michael Beasley,FOUL_ON_FLOOR,None,4:21,4,Lakers,Magic,105 - 117,0,N/A,N/A,N/A
+81,Nikola Vucevic,FT,None,4:21,4,Magic,Lakers,105 - 118,1,N/A,1,N/A
+82,Sviatoslav Mykhailiuk,FG_ASSISTED,Brandon Ingram,4:11,4,Lakers,Magic,108 - 118,0,26,3,Jumper
+83,Michael Beasley,FOUL_ON_FLOOR,None,3:52,4,Lakers,Magic,108 - 118,0,N/A,N/A,N/A
+84,Nikola Vucevic,FT,None,3:52,4,Magic,Lakers,108 - 119,1,N/A,1,N/A
+85,Nikola Vucevic,FT,None,3:52,4,Magic,Lakers,108 - 120,1,N/A,1,N/A
+86,Kentavious Caldwell-Pope,FG_MISS,None,3:43,4,Lakers,Magic,108 - 120,0,26,3,Jumper
+87,Team,DEFENSIVE_REBOUND,None,3:42,4,Magic,Lakers,108 - 120,1,N/A,N/A,N/A
+88,Nikola Vucevic,FG_MISS,None,3:28,4,Magic,Lakers,108 - 120,1,1,2,Jumper
+89,Lance Stephenson,DEFENSIVE_REBOUND,None,3:26,4,Lakers,Magic,108 - 120,0,N/A,N/A,N/A
+90,Evan Fournier,FOUL_ON_FLOOR,None,3:22,4,Magic,Lakers,108 - 120,1,N/A,N/A,N/A
+91,Lance Stephenson,FT,None,3:22,4,Lakers,Magic,109 - 120,0,N/A,1,N/A
+92,Lance Stephenson,FT,None,3:22,4,Lakers,Magic,110 - 120,0,N/A,1,N/A
+93,Michael Beasley,FOUL_ON_FLOOR,None,3:09,4,Lakers,Magic,110 - 120,0,N/A,N/A,N/A
+94,Nikola Vucevic,FT_MISS,None,3:09,4,Magic,Lakers,110 - 120,1,N/A,1,N/A
+95,Team,OFFENSIVE_REBOUND,None,3:09,4,Magic,Lakers,110 - 120,1,N/A,N/A,N/A
+96,Nikola Vucevic,FT,None,3:09,4,Magic,Lakers,110 - 121,1,N/A,1,N/A
+97,Michael Beasley,FG_MISS,None,2:59,4,Lakers,Magic,110 - 121,0,1,3,Jumper
+98,Jonathon Simmons,DEFENSIVE_REBOUND,None,2:56,4,Magic,Lakers,110 - 121,1,N/A,N/A,N/A
+99,Nikola Vucevic,FG_ASSISTED,D.J. Augustin,2:37,4,Magic,Lakers,110 - 123,1,5,2,Jumper
+100,Brandon Ingram,FG_MISS,None,2:18,4,Lakers,Magic,110 - 123,0,25,3,Jumper
+101,Evan Fournier,DEFENSIVE_REBOUND,None,2:16,4,Magic,Lakers,110 - 123,1,N/A,N/A,N/A
+102,Sviatoslav Mykhailiuk,FOUL_ON_FLOOR,None,2:06,4,Lakers,Magic,110 - 123,0,N/A,N/A,N/A
+103,D.J. Augustin,FT,None,2:06,4,Magic,Lakers,110 - 124,1,N/A,1,N/A
+104,Moritz Wagner,SUBSTITUTION,Ingram Brandon,2:06,4,Lakers,Magic,110 - 124,0,N/A,N/A,N/A
+105,D.J. Augustin,FT,None,2:06,4,Magic,Lakers,110 - 125,1,N/A,1,N/A
+106,Lance Stephenson,FG_MISS,None,1:49,4,Lakers,Magic,110 - 125,0,0,2,Layup
+107,Nikola Vucevic,DEFENSIVE_REBOUND,None,1:47,4,Magic,Lakers,110 - 125,1,N/A,N/A,N/A
+108,Team,Unknown,None,1:44,4,Magic,Lakers,110 - 125,1,N/A,N/A,N/A
+109,Jarell Martin,SUBSTITUTION,Gordon Aaron,1:44,4,Magic,Lakers,110 - 125,1,N/A,N/A,N/A
+110,Isaiah Briscoe,SUBSTITUTION,Vucevic Nikola,1:44,4,Magic,Lakers,110 - 125,1,N/A,N/A,N/A
+111,Jerian Grant,SUBSTITUTION,Fournier Evan,1:44,4,Magic,Lakers,110 - 125,1,N/A,N/A,N/A
+112,Khem Birch,SUBSTITUTION,Augustin D.J.,1:44,4,Magic,Lakers,110 - 125,1,N/A,N/A,N/A
+113,Wesley Iwundu,SUBSTITUTION,Simmons Jonathon,1:44,4,Magic,Lakers,110 - 125,1,N/A,N/A,N/A
+114,Jarell Martin,FG_ASSISTED,Isaiah Briscoe,1:36,4,Magic,Lakers,110 - 127,1,23,2,Jumper
+115,Michael Beasley,FG_UNASSISTED,None,1:22,4,Lakers,Magic,112 - 127,0,0,2,Layup
+116,Khem Birch,FOUL_ON_FLOOR,None,1:22,4,Magic,Lakers,112 - 127,1,N/A,N/A,N/A
+117,Michael Beasley,FT,None,1:22,4,Lakers,Magic,113 - 127,0,N/A,1,N/A
+118,Jerian Grant,FG_MISS,None,1:10,4,Magic,Lakers,113 - 127,1,25,3,Jumper
+119,Lance Stephenson,DEFENSIVE_REBOUND,None,1:07,4,Lakers,Magic,113 - 127,0,N/A,N/A,N/A
+120,Moritz Wagner,FG_MISS,None,59.4,4,Lakers,Magic,113 - 127,0,26,3,Jumper
+121,Jarell Martin,DEFENSIVE_REBOUND,None,56.4,4,Magic,Lakers,113 - 127,1,N/A,N/A,N/A
+122,Jerian Grant,FG_ASSISTED,Isaiah Briscoe,42.9,4,Magic,Lakers,113 - 130,1,26,3,Jumper
+123,Michael Beasley,FG_ASSISTED,Lance Stephenson,32.8,4,Lakers,Magic,115 - 130,0,22,2,Jumper
+124,Wesley Iwundu,TURNOVER,Michael Beasley,21.5,4,Magic,Lakers,115 - 130,1,N/A,N/A,N/A
+125,Lance Stephenson,FG_UNASSISTED,None,2.1,4,Lakers,Magic,117 - 130,0,0,2,Layup
+126,End of,Unknown,None,0.0,4,Magic,Lakers,117 - 130,1,N/A,N/A,N/A
+127,End of,Unknown,None,0.0,4,Magic,Lakers,117 - 130,1,N/A,N/A,N/A

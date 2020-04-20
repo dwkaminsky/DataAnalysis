@@ -1,0 +1,508 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Brook Lopez,JUMP_BALL,None,12:00,1,Kings,Bucks,0 - 0,1,N/A,N/A,N/A
+1,Buddy Hield,FG_ASSISTED,Willie Cauley-Stein,11:40,1,Kings,Bucks,0 - 2,1,14,2,Jumper
+2,Malcolm Brogdon,FG_ASSISTED,Eric Bledsoe,11:24,1,Bucks,Kings,3 - 2,0,25,3,Jumper
+3,De'Aaron Fox,FG_UNASSISTED,None,11:12,1,Kings,Bucks,3 - 4,1,11,2,Jumper
+4,Eric Bledsoe,FG_MISS,None,10:57,1,Bucks,Kings,3 - 4,0,-,3,Jumper
+5,Willie Cauley-Stein,DEFENSIVE_REBOUND,None,10:53,1,Kings,Bucks,3 - 4,1,N/A,N/A,N/A
+6,Brook Lopez,FOUL_ON_FLOOR,None,10:52,1,Bucks,Kings,3 - 4,0,N/A,N/A,N/A
+7,De'Aaron Fox,FT,None,10:52,1,Kings,Bucks,3 - 5,1,N/A,1,N/A
+8,De'Aaron Fox,FT,None,10:52,1,Kings,Bucks,3 - 6,1,N/A,1,N/A
+9,Malcolm Brogdon,FG_ASSISTED,Giannis Antetokounmpo,10:37,1,Bucks,Kings,6 - 6,0,25,3,Jumper
+10,Buddy Hield,FG_MISS,None,10:25,1,Kings,Bucks,6 - 6,1,23,3,Jumper
+11,Brook Lopez,DEFENSIVE_REBOUND,None,10:22,1,Bucks,Kings,6 - 6,0,N/A,N/A,N/A
+12,Giannis Antetokounmpo,FG_ASSISTED,Khris Middleton,10:18,1,Bucks,Kings,8 - 6,0,0,2,Dunk
+13,Harrison Barnes,FG_UNASSISTED,None,10:00,1,Kings,Bucks,8 - 8,1,11,2,Jumper
+14,Eric Bledsoe,FG_MISS,None,9:32,1,Bucks,Kings,8 - 8,0,0,2,Layup
+15,Giannis Antetokounmpo,OFFENSIVE_REBOUND,None,9:32,1,Bucks,Kings,8 - 8,0,N/A,N/A,N/A
+16,Willie Cauley-Stein,FOUL_ON_FLOOR,None,9:32,1,Kings,Bucks,8 - 8,1,N/A,N/A,N/A
+17,Khris Middleton,FG_MISS,None,9:24,1,Bucks,Kings,8 - 8,0,18,2,Jumper
+18,Eric Bledsoe,OFFENSIVE_REBOUND,None,9:16,1,Bucks,Kings,8 - 8,0,N/A,N/A,N/A
+19,Eric Bledsoe,TURNOVER,Buddy Hield,9:13,1,Bucks,Kings,8 - 8,0,N/A,N/A,N/A
+20,Bogdan Bogdanovic,FG_UNASSISTED,None,9:06,1,Kings,Bucks,8 - 10,1,15,2,Jumper
+21,Giannis Antetokounmpo,FG_MISS,None,8:54,1,Bucks,Kings,8 - 10,0,25,3,Jumper
+22,Willie Cauley-Stein,DEFENSIVE_REBOUND,None,8:51,1,Kings,Bucks,8 - 10,1,N/A,N/A,N/A
+23,Willie Cauley-Stein,FG_ASSISTED,Bogdan Bogdanovic,8:39,1,Kings,Bucks,8 - 12,1,0,2,Dunk
+24,Malcolm Brogdon,FG_ASSISTED,Eric Bledsoe,8:28,1,Bucks,Kings,10 - 12,0, ,2,Jumper
+25,Willie Cauley-Stein,FG_ASSISTED,Bogdan Bogdanovic,8:18,1,Kings,Bucks,10 - 14,1,18,2,Jumper
+26,Brook Lopez,FG_MISS,None,7:51,1,Bucks,Kings,10 - 14,0,25,3,Jumper
+27,De'Aaron Fox,DEFENSIVE_REBOUND,None,7:48,1,Kings,Bucks,10 - 14,1,N/A,N/A,N/A
+28,Harrison Barnes,FG_MISS,None,7:42,1,Kings,Bucks,10 - 14,1,27,3,Jumper
+29,Giannis Antetokounmpo,DEFENSIVE_REBOUND,None,7:37,1,Bucks,Kings,10 - 14,0,N/A,N/A,N/A
+30,Khris Middleton,FG_MISS,None,7:33,1,Bucks,Kings,10 - 14,0,25,3,Jumper
+31,Willie Cauley-Stein,DEFENSIVE_REBOUND,None,7:29,1,Kings,Bucks,10 - 14,1,N/A,N/A,N/A
+32,De'Aaron Fox,FG_MISS,None,7:17,1,Kings,Bucks,10 - 14,1,0,2,Layup
+33,Khris Middleton,DEFENSIVE_REBOUND,None,7:14,1,Bucks,Kings,10 - 14,0,N/A,N/A,N/A
+34,Khris Middleton,FG_MISS,None,7:06,1,Bucks,Kings,10 - 14,0,7,2,Jumper
+35,Harrison Barnes,DEFENSIVE_REBOUND,None,7:03,1,Kings,Bucks,10 - 14,1,N/A,N/A,N/A
+36,Harrison Barnes,FG_ASSISTED,Buddy Hield,6:48,1,Kings,Bucks,10 - 17,1,23,3,Jumper
+37,Team,Unknown,None,6:48,1,Bucks,Kings,10 - 17,0,N/A,N/A,N/A
+38,Nikola Mirotic,SUBSTITUTION,Antetokounmpo Giannis,6:48,1,Bucks,Kings,10 - 17,0,N/A,N/A,N/A
+39,Pat Connaughton,SUBSTITUTION,Brogdon Malcolm,6:48,1,Bucks,Kings,10 - 17,0,N/A,N/A,N/A
+40,Pat Connaughton,FG_ASSISTED,Eric Bledsoe,6:39,1,Bucks,Kings,12 - 17,0,0,2,Layup
+41,Buddy Hield,FG_UNASSISTED,None,6:23,1,Kings,Bucks,12 - 20,1,24,3,Jumper
+42,Brook Lopez,FG_MISS,None,6:11,1,Bucks,Kings,12 - 20,0,23,3,Jumper
+43,Buddy Hield,DEFENSIVE_REBOUND,None,6:08,1,Kings,Bucks,12 - 20,1,N/A,N/A,N/A
+44,Willie Cauley-Stein,FG_MISS,Brook Lopez,5:59,1,Bucks,Kings,12 - 20,1,0,2,Layup
+45,Eric Bledsoe,DEFENSIVE_REBOUND,None,5:55,1,Bucks,Kings,12 - 20,0,N/A,N/A,N/A
+46,Nikola Mirotic,FG_MISS,None,5:47,1,Bucks,Kings,12 - 20,0,5,2,Jumper
+47,Willie Cauley-Stein,DEFENSIVE_REBOUND,None,5:45,1,Kings,Bucks,12 - 20,1,N/A,N/A,N/A
+48,Buddy Hield,TURNOVER,None,5:40,1,Kings,Bucks,12 - 20,1,N/A,N/A,N/A
+49,Marvin Bagley,SUBSTITUTION,Bogdanovic Bogdan,5:40,1,Kings,Bucks,12 - 20,1,N/A,N/A,N/A
+50,Khris Middleton,FG_MISS,None,5:27,1,Bucks,Kings,12 - 20,0,27,3,Jumper
+51,Harrison Barnes,DEFENSIVE_REBOUND,None,5:23,1,Kings,Bucks,12 - 20,1,N/A,N/A,N/A
+52,Willie Cauley-Stein,FG_ASSISTED,De'Aaron Fox,5:18,1,Kings,Bucks,12 - 22,1, ,2,Jumper
+53,Pat Connaughton,FOUL_ON_FLOOR,None,5:18,1,Bucks,Kings,12 - 22,0,N/A,N/A,N/A
+54,Isaiah Canaan,SUBSTITUTION,Bledsoe Eric,5:18,1,Bucks,Kings,12 - 22,0,N/A,N/A,N/A
+55,Willie Cauley-Stein,FT_MISS,None,5:18,1,Kings,Bucks,12 - 22,1,N/A,1,N/A
+56,Brook Lopez,DEFENSIVE_REBOUND,None,5:12,1,Bucks,Kings,12 - 22,0,N/A,N/A,N/A
+57,Nikola Mirotic,FG_ASSISTED,Khris Middleton,5:09,1,Bucks,Kings,15 - 22,0,25,3,Jumper
+58,De'Aaron Fox,FG_MISS,None,4:44,1,Kings,Bucks,15 - 22,1,24,3,Jumper
+59,Buddy Hield,OFFENSIVE_REBOUND,None,4:40,1,Kings,Bucks,15 - 22,1,N/A,N/A,N/A
+60,Buddy Hield,FG_MISS,None,4:40,1,Kings,Bucks,15 - 22,1, ,2,Jumper
+61,Khris Middleton,DEFENSIVE_REBOUND,None,4:39,1,Bucks,Kings,15 - 22,0,N/A,N/A,N/A
+62,Brook Lopez,FG_ASSISTED,Khris Middleton,4:32,1,Bucks,Kings,17 - 22,0,2,2,Jumper
+63,Buddy Hield,FG_ASSISTED,De'Aaron Fox,4:26,1,Kings,Bucks,17 - 24,1,11,2,Jumper
+64,Brook Lopez,FG_MISS,None,4:13,1,Bucks,Kings,17 - 24,0,26,3,Jumper
+65,De'Aaron Fox,DEFENSIVE_REBOUND,None,4:10,1,Kings,Bucks,17 - 24,1,N/A,N/A,N/A
+66,Buddy Hield,FG_MISS,None,4:03,1,Kings,Bucks,17 - 24,1,19,2,Jumper
+67,Khris Middleton,DEFENSIVE_REBOUND,None,4:01,1,Bucks,Kings,17 - 24,0,N/A,N/A,N/A
+68,Khris Middleton,FG_UNASSISTED,None,3:54,1,Bucks,Kings,19 - 24,0,14,2,Jumper
+69,Buddy Hield,FG_MISS,None,3:32,1,Kings,Bucks,19 - 24,1,9,2,Jumper
+70,Marvin Bagley,OFFENSIVE_REBOUND,None,3:28,1,Kings,Bucks,19 - 24,1,N/A,N/A,N/A
+71,Marvin Bagley,FG_UNASSISTED,None,3:28,1,Kings,Bucks,19 - 26,1, ,2,Jumper
+72,Khris Middleton,FG_UNASSISTED,None,3:18,1,Bucks,Kings,21 - 26,0,7,2,Jumper
+73,Willie Cauley-Stein,FG_MISS,None,2:58,1,Kings,Bucks,21 - 26,1, ,2,Jumper
+74,Pat Connaughton,DEFENSIVE_REBOUND,None,2:54,1,Bucks,Kings,21 - 26,0,N/A,N/A,N/A
+75,Khris Middleton,FG_ASSISTED,Brook Lopez,2:47,1,Bucks,Kings,24 - 26,0,24,3,Jumper
+76,Team,Unknown,None,2:46,1,Kings,Bucks,24 - 26,1,N/A,N/A,N/A
+77,Harry Giles,SUBSTITUTION,Cauley-Stein Willie,2:46,1,Kings,Bucks,24 - 26,1,N/A,N/A,N/A
+78,Corey Brewer,SUBSTITUTION,Barnes Harrison,2:46,1,Kings,Bucks,24 - 26,1,N/A,N/A,N/A
+79,Ersan Ilyasova,SUBSTITUTION,Lopez Brook,2:46,1,Bucks,Kings,24 - 26,0,N/A,N/A,N/A
+80,Tony Snell,SUBSTITUTION,Connaughton Pat,2:46,1,Bucks,Kings,24 - 26,0,N/A,N/A,N/A
+81,Harry Giles,FG_MISS,Nikola Mirotic,2:30,1,Bucks,Kings,24 - 26,1,0,2,Layup
+82,Nikola Mirotic,DEFENSIVE_REBOUND,None,2:27,1,Bucks,Kings,24 - 26,0,N/A,N/A,N/A
+83,Corey Brewer,FOUL_ON_FLOOR,None,2:24,1,Kings,Bucks,24 - 26,1,N/A,N/A,N/A
+84,Khris Middleton,FT_MISS,None,2:24,1,Bucks,Kings,24 - 26,0,N/A,1,N/A
+85,Team,OFFENSIVE_REBOUND,None,2:24,1,Bucks,Kings,24 - 26,0,N/A,N/A,N/A
+86,Khris Middleton,FT,None,2:24,1,Bucks,Kings,25 - 26,0,N/A,1,N/A
+87,Khris Middleton,FT,None,2:24,1,Bucks,Kings,26 - 26,0,N/A,1,N/A
+88,Marvin Bagley,FG_MISS,None,2:10,1,Kings,Bucks,26 - 26,1,0,2,Layup
+89,Team,DEFENSIVE_REBOUND,None,2:10,1,Bucks,Kings,26 - 26,0,N/A,N/A,N/A
+90,Isaiah Canaan,TURNOVER,None,2:00,1,Bucks,Kings,26 - 26,0,N/A,N/A,N/A
+91,Isaiah Canaan,FOUL_ON_FLOOR,None,1:54,1,Bucks,Kings,26 - 26,0,N/A,N/A,N/A
+92,De'Aaron Fox,FT,None,1:54,1,Kings,Bucks,26 - 27,1,N/A,1,N/A
+93,Pat Connaughton,SUBSTITUTION,Canaan Isaiah,1:54,1,Bucks,Kings,26 - 27,0,N/A,N/A,N/A
+94,Malcolm Brogdon,SUBSTITUTION,Middleton Khris,1:54,1,Bucks,Kings,26 - 27,0,N/A,N/A,N/A
+95,De'Aaron Fox,FT,None,1:54,1,Kings,Bucks,26 - 28,1,N/A,1,N/A
+96,Nikola Mirotic,FG_ASSISTED,Malcolm Brogdon,1:40,1,Bucks,Kings,29 - 28,0,25,3,Jumper
+97,Buddy Hield,FG_MISS,None,1:29,1,Kings,Bucks,29 - 28,1,16,2,Jumper
+98,Ersan Ilyasova,DEFENSIVE_REBOUND,None,1:27,1,Bucks,Kings,29 - 28,0,N/A,N/A,N/A
+99,Malcolm Brogdon,FG_ASSISTED,Pat Connaughton,1:24,1,Bucks,Kings,32 - 28,0,25,3,Jumper
+100,Marvin Bagley,FG_MISS,None,1:06,1,Kings,Bucks,32 - 28,1,26,3,Jumper
+101,Malcolm Brogdon,DEFENSIVE_REBOUND,None,1:02,1,Bucks,Kings,32 - 28,0,N/A,N/A,N/A
+102,Pat Connaughton,FG_MISS,None,46.8,1,Bucks,Kings,32 - 28,0,25,3,Jumper
+103,Team,OFFENSIVE_REBOUND,None,45.4,1,Bucks,Kings,32 - 28,0,N/A,N/A,N/A
+104,Giannis Antetokounmpo,SUBSTITUTION,Mirotic Nikola,45.4,1,Bucks,Kings,32 - 28,0,N/A,N/A,N/A
+105,Malcolm Brogdon,FG_MISS,Corey Brewer,40.7,1,Kings,Bucks,32 - 28,0,25,3,Jumper
+106,Harry Giles,DEFENSIVE_REBOUND,None,38.6,1,Kings,Bucks,32 - 28,1,N/A,N/A,N/A
+107,Corey Brewer,FG_ASSISTED,Harry Giles,38.6,1,Kings,Bucks,32 - 30,1, ,2,Jumper
+108,Tony Snell,FOUL_ON_FLOOR,None,38.6,1,Bucks,Kings,32 - 30,0,N/A,N/A,N/A
+109,Corey Brewer,FT_MISS,None,38.6,1,Kings,Bucks,32 - 30,1,N/A,1,N/A
+110,Ersan Ilyasova,DEFENSIVE_REBOUND,None,34.6,1,Bucks,Kings,32 - 30,0,N/A,N/A,N/A
+111,Ersan Ilyasova,FG_MISS,None,28.6,1,Bucks,Kings,32 - 30,0, ,2,Jumper
+112,Ersan Ilyasova,OFFENSIVE_REBOUND,None,27.3,1,Bucks,Kings,32 - 30,0,N/A,N/A,N/A
+113,Harry Giles,FOUL_ON_FLOOR,None,27.3,1,Kings,Bucks,32 - 30,1,N/A,N/A,N/A
+114,Ersan Ilyasova,FT,None,27.3,1,Bucks,Kings,33 - 30,0,N/A,1,N/A
+115,Bogdan Bogdanovic,SUBSTITUTION,Giles Harry,27.3,1,Kings,Bucks,33 - 30,1,N/A,N/A,N/A
+116,Ersan Ilyasova,FT,None,27.3,1,Bucks,Kings,34 - 30,0,N/A,1,N/A
+117,Bogdan Bogdanovic,FG_ASSISTED,De'Aaron Fox,6.6,1,Kings,Bucks,34 - 33,1,26,3,Jumper
+118,Giannis Antetokounmpo,FG_MISS,None,0.0,1,Bucks,Kings,34 - 33,0, ,2,Jumper
+119,Team,OFFENSIVE_REBOUND,None,0.0,1,Bucks,Kings,34 - 33,0,N/A,N/A,N/A
+120,End of,Unknown,None,0.0,1,Kings,Bucks,34 - 33,1,N/A,N/A,N/A
+0,Yogi Ferrell,SUBSTITUTION,Fox De'Aaron,12:00,2,Kings,Bucks,34 - 33,1,N/A,N/A,N/A
+1,Harry Giles,SUBSTITUTION,Hield Buddy,12:00,2,Kings,Bucks,34 - 33,1,N/A,N/A,N/A
+2,Nikola Mirotic,SUBSTITUTION,Connaughton Pat,12:00,2,Bucks,Kings,34 - 33,0,N/A,N/A,N/A
+3,Giannis Antetokounmpo,FG_ASSISTED,Ersan Ilyasova,11:51,2,Bucks,Kings,36 - 33,0,0,2,Dunk
+4,Marvin Bagley,FG_ASSISTED,Bogdan Bogdanovic,11:38,2,Kings,Bucks,36 - 35,1, ,2,Jumper
+5,Nikola Mirotic,FG_ASSISTED,Tony Snell,11:19,2,Bucks,Kings,38 - 35,0,10,2,Jumper
+6,Harry Giles,FG_ASSISTED,Bogdan Bogdanovic,11:03,2,Kings,Bucks,38 - 37,1,19,2,Jumper
+7,Malcolm Brogdon,FG_ASSISTED,Nikola Mirotic,10:48,2,Bucks,Kings,40 - 37,0,0,2,Layup
+8,Yogi Ferrell,FG_MISS,None,10:38,2,Kings,Bucks,40 - 37,1,15,2,Jumper
+9,Team,OFFENSIVE_REBOUND,None,10:37,2,Kings,Bucks,40 - 37,1,N/A,N/A,N/A
+10,Bogdan Bogdanovic,FG_MISS,None,10:34,2,Kings,Bucks,40 - 37,1,20,2,Jumper
+11,Nikola Mirotic,DEFENSIVE_REBOUND,None,10:31,2,Bucks,Kings,40 - 37,0,N/A,N/A,N/A
+12,Nikola Mirotic,FG_MISS,None,10:25,2,Bucks,Kings,40 - 37,0,25,3,Jumper
+13,Marvin Bagley,DEFENSIVE_REBOUND,None,10:22,2,Kings,Bucks,40 - 37,1,N/A,N/A,N/A
+14,Marvin Bagley,FG_MISS,Ersan Ilyasova,10:17,2,Bucks,Kings,40 - 37,1,0,2,Layup
+15,Marvin Bagley,OFFENSIVE_REBOUND,None,10:17,2,Kings,Bucks,40 - 37,1,N/A,N/A,N/A
+16,Malcolm Brogdon,JUMP_BALL,None,10:14,2,Kings,Bucks,40 - 37,1,N/A,N/A,N/A
+17,Harry Giles,FG_MISS,None,10:08,2,Kings,Bucks,40 - 37,1,0,2,Layup
+18,Marvin Bagley,OFFENSIVE_REBOUND,None,10:03,2,Kings,Bucks,40 - 37,1,N/A,N/A,N/A
+19,Marvin Bagley,FG_UNASSISTED,None,10:02,2,Kings,Bucks,40 - 39,1,0,2,Dunk
+20,Nikola Mirotic,FG_MISS,None,9:56,2,Bucks,Kings,40 - 39,0,25,3,Jumper
+21,Harry Giles,DEFENSIVE_REBOUND,None,9:52,2,Kings,Bucks,40 - 39,1,N/A,N/A,N/A
+22,Marvin Bagley,FG_MISS,None,9:47,2,Kings,Bucks,40 - 39,1,26,3,Jumper
+23,Malcolm Brogdon,DEFENSIVE_REBOUND,None,9:43,2,Bucks,Kings,40 - 39,0,N/A,N/A,N/A
+24,Ersan Ilyasova,FG_MISS,None,9:39,2,Bucks,Kings,40 - 39,0,25,3,Jumper
+25,Marvin Bagley,DEFENSIVE_REBOUND,None,9:35,2,Kings,Bucks,40 - 39,1,N/A,N/A,N/A
+26,Bogdan Bogdanovic,FG_ASSISTED,Harry Giles,9:28,2,Kings,Bucks,40 - 42,1,25,3,Jumper
+27,Bogdan Bogdanovic,FOUL_ON_FLOOR,None,9:02,2,Kings,Bucks,40 - 42,1,N/A,N/A,N/A
+28,Giannis Antetokounmpo,FT,None,9:02,2,Bucks,Kings,41 - 42,0,N/A,1,N/A
+29,Giannis Antetokounmpo,FT_MISS,None,9:02,2,Bucks,Kings,41 - 42,0,N/A,1,N/A
+30,Harry Giles,DEFENSIVE_REBOUND,None,8:59,2,Kings,Bucks,41 - 42,1,N/A,N/A,N/A
+31,Yogi Ferrell,FG_ASSISTED,Bogdan Bogdanovic,8:45,2,Kings,Bucks,41 - 44,1,18,2,Jumper
+32,Malcolm Brogdon,FG_UNASSISTED,None,8:31,2,Bucks,Kings,43 - 44,0,0,2,Layup
+33,Corey Brewer,FG_MISS,None,8:12,2,Kings,Bucks,43 - 44,1,23,3,Jumper
+34,Nikola Mirotic,DEFENSIVE_REBOUND,None,8:09,2,Bucks,Kings,43 - 44,0,N/A,N/A,N/A
+35,Eric Bledsoe,SUBSTITUTION,Antetokounmpo Giannis,8:04,2,Bucks,Kings,43 - 44,0,N/A,N/A,N/A
+36,Pat Connaughton,SUBSTITUTION,Brogdon Malcolm,8:04,2,Bucks,Kings,43 - 44,0,N/A,N/A,N/A
+37,Ersan Ilyasova,FG_ASSISTED,Nikola Mirotic,8:00,2,Bucks,Kings,45 - 44,0,0,2,Layup
+38,Bogdan Bogdanovic,FG_MISS,None,7:53,2,Kings,Bucks,45 - 44,1,25,3,Jumper
+39,Ersan Ilyasova,DEFENSIVE_REBOUND,None,7:53,2,Bucks,Kings,45 - 44,0,N/A,N/A,N/A
+40,Eric Bledsoe,FG_MISS,None,7:44,2,Bucks,Kings,45 - 44,0,10,2,Jumper
+41,Nikola Mirotic,OFFENSIVE_REBOUND,None,7:37,2,Bucks,Kings,45 - 44,0,N/A,N/A,N/A
+42,Nikola Mirotic,FG_UNASSISTED,None,7:37,2,Bucks,Kings,47 - 44,0, ,2,Jumper
+43,Harry Giles,FG_MISS,Nikola Mirotic,7:21,2,Bucks,Kings,47 - 44,1,0,2,Layup
+44,Marvin Bagley,OFFENSIVE_REBOUND,None,7:19,2,Kings,Bucks,47 - 44,1,N/A,N/A,N/A
+45,Tony Snell,FOUL_ON_FLOOR,None,7:19,2,Bucks,Kings,47 - 44,0,N/A,N/A,N/A
+46,Marvin Bagley,FT,None,7:19,2,Kings,Bucks,47 - 45,1,N/A,1,N/A
+47,Willie Cauley-Stein,SUBSTITUTION,Giles Harry,7:19,2,Kings,Bucks,47 - 45,1,N/A,N/A,N/A
+48,Brook Lopez,SUBSTITUTION,Mirotic Nikola,7:19,2,Bucks,Kings,47 - 45,0,N/A,N/A,N/A
+49,D.J. Wilson,SUBSTITUTION,Ilyasova Ersan,7:19,2,Bucks,Kings,47 - 45,0,N/A,N/A,N/A
+50,Marvin Bagley,FT_MISS,None,7:19,2,Kings,Bucks,47 - 45,1,N/A,1,N/A
+51,Pat Connaughton,DEFENSIVE_REBOUND,None,7:19,2,Bucks,Kings,47 - 45,0,N/A,N/A,N/A
+52,Tony Snell,FG_ASSISTED,Eric Bledsoe,7:00,2,Bucks,Kings,49 - 44,0,0,2,Layup
+53,Yogi Ferrell,FG_MISS,None,6:40,2,Kings,Bucks,49 - 44,1,9,2,Jumper
+54,D.J. Wilson,DEFENSIVE_REBOUND,None,6:37,2,Bucks,Kings,49 - 44,0,N/A,N/A,N/A
+55,Brook Lopez,FG_MISS,None,6:20,2,Bucks,Kings,49 - 45,0,0,2,Layup
+56,Pat Connaughton,OFFENSIVE_REBOUND,None,6:20,2,Bucks,Kings,49 - 44,0,N/A,N/A,N/A
+57,Pat Connaughton,FG_UNASSISTED,None,6:17,2,Bucks,Kings,51 - 45,0, ,2,Jumper
+58,Team,Unknown,None,6:17,2,Kings,Bucks,51 - 44,1,N/A,N/A,N/A
+59,Harrison Barnes,SUBSTITUTION,III Bagley,6:17,2,Kings,Bucks,51 - 45,1,N/A,N/A,N/A
+60,Bogdan Bogdanovic,FG_ASSISTED,Yogi Ferrell,6:07,2,Kings,Bucks,51 - 47,1,0,2,Layup
+61,Pat Connaughton,FG_MISS,None,5:58,2,Bucks,Kings,51 - 47,0,0,2,Dunk
+62,Yogi Ferrell,DEFENSIVE_REBOUND,None,5:54,2,Kings,Bucks,51 - 47,1,N/A,N/A,N/A
+63,Yogi Ferrell,FG_ASSISTED,Corey Brewer,5:45,2,Kings,Bucks,51 - 49,1, ,2,Jumper
+64,Eric Bledsoe,FG_UNASSISTED,None,5:25,2,Bucks,Kings,53 - 49,0,0,2,Layup
+65,Bogdan Bogdanovic,FG_MISS,None,5:11,2,Kings,Bucks,53 - 49,1,9,2,Jumper
+66,Eric Bledsoe,DEFENSIVE_REBOUND,None,5:08,2,Bucks,Kings,53 - 49,0,N/A,N/A,N/A
+67,Pat Connaughton,FG_ASSISTED,Eric Bledsoe,5:02,2,Bucks,Kings,56 - 49,0,23,3,Jumper
+68,Harrison Barnes,FG_MISS,None,4:43,2,Kings,Bucks,56 - 49,1,26,3,Jumper
+69,Eric Bledsoe,DEFENSIVE_REBOUND,None,4:40,2,Bucks,Kings,56 - 49,0,N/A,N/A,N/A
+70,Yogi Ferrell,FOUL_ON_FLOOR,None,4:38,2,Kings,Bucks,56 - 49,1,N/A,N/A,N/A
+71,Eric Bledsoe,FOUL_TECHNICAL,None,4:38,2,Bucks,Kings,56 - 49,0,N/A,N/A,N/A
+72,De'Aaron Fox,SUBSTITUTION,Ferrell Yogi,4:38,2,Kings,Bucks,56 - 49,1,N/A,N/A,N/A
+73,Buddy Hield,SUBSTITUTION,Brewer Corey,4:38,2,Kings,Bucks,56 - 49,1,N/A,N/A,N/A
+74,Khris Middleton,SUBSTITUTION,Snell Tony,4:38,2,Bucks,Kings,56 - 49,0,N/A,N/A,N/A
+75,Bogdan Bogdanovic,FT,None,4:38,2,Kings,Bucks,56 - 50,1,N/A,1,N/A
+76,De'Aaron Fox,FOUL_ON_FLOOR,None,4:35,2,Kings,Bucks,56 - 49,1,N/A,N/A,N/A
+77,Eric Bledsoe,FG_MISS,None,4:20,2,Bucks,Kings,56 - 49,0,25,3,Jumper
+78,Buddy Hield,DEFENSIVE_REBOUND,None,4:16,2,Kings,Bucks,56 - 49,1,N/A,N/A,N/A
+79,Bogdan Bogdanovic,FG_MISS,None,4:09,2,Kings,Bucks,56 - 50,1,18,2,Jumper
+80,Harrison Barnes,OFFENSIVE_REBOUND,None,4:03,2,Kings,Bucks,56 - 50,1,N/A,N/A,N/A
+81,Harrison Barnes,FG_UNASSISTED,None,4:02,2,Kings,Bucks,56 - 52,1, ,2,Jumper
+82,Brook Lopez,FG_MISS,Willie Cauley-Stein,3:43,2,Kings,Bucks,56 - 52,0,7,2,Jumper
+83,Harrison Barnes,DEFENSIVE_REBOUND,None,3:39,2,Kings,Bucks,56 - 52,1,N/A,N/A,N/A
+84,Bogdan Bogdanovic,FG_MISS,None,3:36,2,Kings,Bucks,56 - 52,1,26,3,Jumper
+85,Eric Bledsoe,DEFENSIVE_REBOUND,None,3:33,2,Bucks,Kings,56 - 52,0,N/A,N/A,N/A
+86,Eric Bledsoe,FG_ASSISTED,Brook Lopez,3:21,2,Bucks,Kings,59 - 52,0,23,3,Jumper
+87,De'Aaron Fox,FG_UNASSISTED,None,3:16,2,Kings,Bucks,59 - 54,1,0,2,Layup
+88,Pat Connaughton,FOUL_ON_FLOOR,None,3:16,2,Bucks,Kings,59 - 54,0,N/A,N/A,N/A
+89,Team,Unknown,None,3:16,2,Bucks,Kings,59 - 54,0,N/A,N/A,N/A
+90,De'Aaron Fox,FT,None,3:16,2,Kings,Bucks,59 - 55,1,N/A,1,N/A
+91,Eric Bledsoe,FG_ASSISTED,Brook Lopez,3:03,2,Bucks,Kings,61 - 55,0,0,2,Layup
+92,Harrison Barnes,TURNOVER,Khris Middleton,2:36,2,Kings,Bucks,61 - 55,1,N/A,N/A,N/A
+93,Khris Middleton,TURNOVER,Buddy Hield,2:32,2,Bucks,Kings,61 - 55,0,N/A,N/A,N/A
+94,Bogdan Bogdanovic,FG_MISS,None,2:29,2,Kings,Bucks,61 - 55,1,0,2,Layup
+95,Harrison Barnes,OFFENSIVE_REBOUND,None,2:27,2,Kings,Bucks,61 - 55,1,N/A,N/A,N/A
+96,Harrison Barnes,FG_MISS,Brook Lopez,2:26,2,Bucks,Kings,61 - 55,1,0,2,Layup
+97,Brook Lopez,DEFENSIVE_REBOUND,None,2:24,2,Bucks,Kings,61 - 55,0,N/A,N/A,N/A
+98,Eric Bledsoe,FG_UNASSISTED,None,2:15,2,Bucks,Kings,64 - 55,0,25,3,Jumper
+99,Willie Cauley-Stein,FG_MISS,None,2:00,2,Kings,Bucks,64 - 55,1,0,2,Layup
+100,Eric Bledsoe,DEFENSIVE_REBOUND,None,2:00,2,Bucks,Kings,64 - 55,0,N/A,N/A,N/A
+101,Eric Bledsoe,FG_MISS,None,1:54,2,Bucks,Kings,64 - 55,0,0,2,Layup
+102,Willie Cauley-Stein,DEFENSIVE_REBOUND,None,1:50,2,Kings,Bucks,64 - 55,1,N/A,N/A,N/A
+103,Harrison Barnes,FG_ASSISTED,Bogdan Bogdanovic,1:47,2,Kings,Bucks,64 - 58,1,23,3,Jumper
+104,Khris Middleton,FG_UNASSISTED,None,1:26,2,Bucks,Kings,66 - 58,0,0,2,Layup
+105,Harrison Barnes,FG_UNASSISTED,None,1:14,2,Kings,Bucks,66 - 60,1,20,2,Jumper
+106,Brook Lopez,FG_ASSISTED,Eric Bledsoe,1:04,2,Bucks,Kings,69 - 60,0,25,3,Jumper
+107,Buddy Hield,FG_MISS,None,54.9,2,Kings,Bucks,69 - 60,1,18,2,Jumper
+108,Pat Connaughton,DEFENSIVE_REBOUND,None,52.5,2,Bucks,Kings,69 - 60,0,N/A,N/A,N/A
+109,Eric Bledsoe,TURNOVER,None,45.9,2,Bucks,Kings,69 - 60,0,N/A,N/A,N/A
+110,Marvin Bagley,SUBSTITUTION,Cauley-Stein Willie,45.9,2,Kings,Bucks,69 - 60,1,N/A,N/A,N/A
+111,Malcolm Brogdon,SUBSTITUTION,Wilson D.J.,45.9,2,Bucks,Kings,69 - 60,0,N/A,N/A,N/A
+112,Ersan Ilyasova,SUBSTITUTION,Bledsoe Eric,45.9,2,Bucks,Kings,69 - 60,0,N/A,N/A,N/A
+113,Nikola Mirotic,SUBSTITUTION,Lopez Brook,45.9,2,Bucks,Kings,69 - 60,0,N/A,N/A,N/A
+114,De'Aaron Fox,FG_UNASSISTED,None,36.0,2,Kings,Bucks,69 - 62,1, ,2,Jumper
+115,Khris Middleton,FG_UNASSISTED,None,29.0,2,Bucks,Kings,71 - 62,0,11,2,Jumper
+116,Bogdan Bogdanovic,TURNOVER,Khris Middleton,6.2,2,Kings,Bucks,71 - 62,1,N/A,N/A,N/A
+117,Pat Connaughton,FG_ASSISTED,Khris Middleton,2.7,2,Bucks,Kings,73 - 62,0,0,2,Dunk
+118,End of,Unknown,None,0.0,2,Kings,Bucks,73 - 62,1,N/A,N/A,N/A
+0,Willie Cauley-Stein,SUBSTITUTION,III Bagley,12:00,3,Kings,Bucks,73 - 62,1,N/A,N/A,N/A
+1,Eric Bledsoe,SUBSTITUTION,Connaughton Pat,12:00,3,Bucks,Kings,73 - 62,0,N/A,N/A,N/A
+2,Giannis Antetokounmpo,SUBSTITUTION,Ilyasova Ersan,12:00,3,Bucks,Kings,73 - 62,0,N/A,N/A,N/A
+3,Brook Lopez,SUBSTITUTION,Mirotic Nikola,12:00,3,Bucks,Kings,73 - 62,0,N/A,N/A,N/A
+4,Giannis Antetokounmpo,FG_MISS,None,11:42,3,Bucks,Kings,73 - 62,0,25,3,Jumper
+5,Team,DEFENSIVE_REBOUND,None,11:42,3,Kings,Bucks,73 - 62,1,N/A,N/A,N/A
+6,Willie Cauley-Stein's,FG_MISS,Giannis Antetokounmpo,11:25,3,Bucks,Kings,73 - 62,1,0,2,Layup
+7,Eric Bledsoe,DEFENSIVE_REBOUND,None,11:21,3,Bucks,Kings,73 - 62,0,N/A,N/A,N/A
+8,Giannis Antetokounmpo,FG_MISS,Harrison Barnes,11:20,3,Kings,Bucks,73 - 62,0,0,2,Layup
+9,Team,OFFENSIVE_REBOUND,None,11:20,3,Bucks,Kings,73 - 62,0,N/A,N/A,N/A
+10,Giannis Antetokounmpo,JUMP_BALL,None,11:12,3,Bucks,Kings,73 - 62,0,N/A,N/A,N/A
+11,Brook Lopez,FG_MISS,None,11:08,3,Bucks,Kings,73 - 62,0, ,2,Jumper
+12,Harrison Barnes,DEFENSIVE_REBOUND,None,11:04,3,Kings,Bucks,73 - 62,1,N/A,N/A,N/A
+13,Buddy Hield,FG_MISS,None,10:57,3,Kings,Bucks,73 - 62,1,25,3,Jumper
+14,Giannis Antetokounmpo,DEFENSIVE_REBOUND,None,10:54,3,Bucks,Kings,73 - 62,0,N/A,N/A,N/A
+15,Brook Lopez,FG_MISS,None,10:46,3,Bucks,Kings,73 - 62,0,0,2,Dunk
+16,Harrison Barnes,DEFENSIVE_REBOUND,None,10:44,3,Kings,Bucks,73 - 62,1,N/A,N/A,N/A
+17,Buddy Hield,FG_ASSISTED,De'Aaron Fox,10:42,3,Kings,Bucks,73 - 65,1,25,3,Jumper
+18,Brook Lopez,FG_MISS,None,10:27,3,Bucks,Kings,73 - 65,0,24,3,Jumper
+19,Bogdan Bogdanovic,DEFENSIVE_REBOUND,None,10:24,3,Kings,Bucks,73 - 65,1,N/A,N/A,N/A
+20,Khris Middleton,FOUL_ON_FLOOR,None,10:21,3,Bucks,Kings,73 - 65,0,N/A,N/A,N/A
+21,Buddy Hield,FT,None,10:21,3,Kings,Bucks,73 - 66,1,N/A,1,N/A
+22,Buddy Hield,FT,None,10:21,3,Kings,Bucks,73 - 67,1,N/A,1,N/A
+23,Buddy Hield,FT,None,10:21,3,Kings,Bucks,73 - 68,1,N/A,1,N/A
+24,Malcolm Brogdon,FG_ASSISTED,Giannis Antetokounmpo,10:08,3,Bucks,Kings,75 - 68,0,0,2,Layup
+25,Buddy Hield,FOUL_ON_FLOOR,None,10:08,3,Kings,Bucks,75 - 68,1,N/A,N/A,N/A
+26,Malcolm Brogdon,FT,None,10:08,3,Bucks,Kings,76 - 68,0,N/A,1,N/A
+27,Malcolm Brogdon,FOUL_ON_FLOOR,None,9:53,3,Bucks,Kings,76 - 68,0,N/A,N/A,N/A
+28,Harrison Barnes,FG_MISS,None,9:41,3,Kings,Bucks,76 - 68,1,8,2,Jumper
+29,Giannis Antetokounmpo,DEFENSIVE_REBOUND,None,9:38,3,Bucks,Kings,76 - 68,0,N/A,N/A,N/A
+30,Eric Bledsoe,TURNOVER,None,9:27,3,Bucks,Kings,76 - 68,0,N/A,N/A,N/A
+31,Brook Lopez,FOUL_ON_FLOOR,None,9:14,3,Bucks,Kings,76 - 68,0,N/A,N/A,N/A
+32,Willie Cauley-Stein,FT_MISS,None,9:14,3,Kings,Bucks,76 - 68,1,N/A,1,N/A
+33,Team,OFFENSIVE_REBOUND,None,9:14,3,Kings,Bucks,76 - 68,1,N/A,N/A,N/A
+34,Willie Cauley-Stein,FT,None,9:14,3,Kings,Bucks,76 - 69,1,N/A,1,N/A
+35,Khris Middleton,FG_MISS,None,9:02,3,Bucks,Kings,76 - 69,0,26,3,Jumper
+36,Bogdan Bogdanovic,DEFENSIVE_REBOUND,None,8:59,3,Kings,Bucks,76 - 69,1,N/A,N/A,N/A
+37,Buddy Hield,FG_MISS,None,8:55,3,Kings,Bucks,76 - 69,1,25,3,Jumper
+38,Giannis Antetokounmpo,DEFENSIVE_REBOUND,None,8:51,3,Bucks,Kings,76 - 69,0,N/A,N/A,N/A
+39,Khris Middleton,TURNOVER,None,8:45,3,Bucks,Kings,76 - 69,0,N/A,N/A,N/A
+40,De'Aaron Fox,FG_MISS,None,8:38,3,Kings,Bucks,76 - 69,1,25,3,Jumper
+41,Giannis Antetokounmpo,DEFENSIVE_REBOUND,None,8:35,3,Bucks,Kings,76 - 69,0,N/A,N/A,N/A
+42,Giannis Antetokounmpo,FG_UNASSISTED,None,8:24,3,Bucks,Kings,78 - 69,0,3,2,Jumper
+43,Buddy Hield,FG_UNASSISTED,None,8:12,3,Kings,Bucks,78 - 71,1,13,2,Jumper
+44,Khris Middleton,FG_MISS,None,7:59,3,Bucks,Kings,78 - 71,0,8,2,Jumper
+45,De'Aaron Fox,DEFENSIVE_REBOUND,None,7:57,3,Kings,Bucks,78 - 71,1,N/A,N/A,N/A
+46,Malcolm Brogdon,FOUL_ON_FLOOR,None,7:56,3,Bucks,Kings,78 - 71,0,N/A,N/A,N/A
+47,Team,Unknown,None,7:56,3,Bucks,Kings,78 - 71,0,N/A,N/A,N/A
+48,Willie Cauley-Stein,FT_MISS,None,7:56,3,Kings,Bucks,78 - 71,1,N/A,1,N/A
+49,Team,OFFENSIVE_REBOUND,None,7:56,3,Kings,Bucks,78 - 71,1,N/A,N/A,N/A
+50,Willie Cauley-Stein,FT,None,7:56,3,Kings,Bucks,78 - 72,1,N/A,1,N/A
+51,Brook Lopez,FG_ASSISTED,Eric Bledsoe,7:45,3,Bucks,Kings,80 - 72,0,0,2,Dunk
+52,Willie Cauley-Stein,FG_MISS,None,7:26,3,Kings,Bucks,80 - 72,1,12,2,Jumper
+53,Bogdan Bogdanovic,OFFENSIVE_REBOUND,None,7:22,3,Kings,Bucks,80 - 72,1,N/A,N/A,N/A
+54,Bogdan Bogdanovic,FG_MISS,None,7:22,3,Kings,Bucks,80 - 72,1, ,2,Jumper
+55,Harrison Barnes,OFFENSIVE_REBOUND,None,7:21,3,Kings,Bucks,80 - 72,1,N/A,N/A,N/A
+56,Willie Cauley-Stein,FG_MISS,None,7:19,3,Kings,Bucks,80 - 72,1,0,2,Layup
+57,Harrison Barnes,OFFENSIVE_REBOUND,None,7:16,3,Kings,Bucks,80 - 72,1,N/A,N/A,N/A
+58,Buddy Hield,FG_MISS,None,7:13,3,Kings,Bucks,80 - 72,1,16,2,Jumper
+59,Brook Lopez,DEFENSIVE_REBOUND,None,7:10,3,Bucks,Kings,80 - 72,0,N/A,N/A,N/A
+60,Khris Middleton,FG_MISS,None,7:03,3,Bucks,Kings,80 - 72,0, ,2,Jumper
+61,Willie Cauley-Stein,DEFENSIVE_REBOUND,None,6:59,3,Kings,Bucks,80 - 72,1,N/A,N/A,N/A
+62,Bogdan Bogdanovic,FG_MISS,None,6:53,3,Kings,Bucks,80 - 72,1,9,2,Jumper
+63,Willie Cauley-Stein,OFFENSIVE_REBOUND,None,6:51,3,Kings,Bucks,80 - 72,1,N/A,N/A,N/A
+64,Buddy Hield,FG_MISS,None,6:48,3,Kings,Bucks,80 - 72,1,23,3,Jumper
+65,Eric Bledsoe,DEFENSIVE_REBOUND,None,6:45,3,Bucks,Kings,80 - 72,0,N/A,N/A,N/A
+66,Eric Bledsoe,FG_UNASSISTED,None,6:41,3,Bucks,Kings,83 - 72,0, ,3,Jumper
+67,De'Aaron Fox,FG_UNASSISTED,None,6:27,3,Kings,Bucks,83 - 74,1,0,2,Layup
+68,Giannis Antetokounmpo,FG_ASSISTED,Eric Bledsoe,6:20,3,Bucks,Kings,85 - 74,0,0,2,Layup
+69,Harrison Barnes,FOUL_ON_FLOOR,None,6:20,3,Kings,Bucks,85 - 74,1,N/A,N/A,N/A
+70,Marvin Bagley,SUBSTITUTION,Cauley-Stein Willie,6:20,3,Kings,Bucks,85 - 74,1,N/A,N/A,N/A
+71,Pat Connaughton,SUBSTITUTION,Brogdon Malcolm,6:20,3,Bucks,Kings,85 - 74,0,N/A,N/A,N/A
+72,Nikola Mirotic,SUBSTITUTION,Lopez Brook,6:20,3,Bucks,Kings,85 - 74,0,N/A,N/A,N/A
+73,Giannis Antetokounmpo,FT_MISS,None,6:20,3,Bucks,Kings,85 - 74,0,N/A,1,N/A
+74,Eric Bledsoe,OFFENSIVE_REBOUND,None,6:15,3,Bucks,Kings,85 - 74,0,N/A,N/A,N/A
+75,Giannis Antetokounmpo,FG_ASSISTED,Eric Bledsoe,6:15,3,Bucks,Kings,87 - 74,0,0,2,Dunk
+76,Team,Unknown,None,6:15,3,Kings,Bucks,87 - 74,1,N/A,N/A,N/A
+77,Brook Lopez,SUBSTITUTION,Antetokounmpo Giannis,6:15,3,Bucks,Kings,87 - 74,0,N/A,N/A,N/A
+78,Marvin Bagley,FG_MISS,Brook Lopez,6:00,3,Bucks,Kings,87 - 74,1,0,2,Layup
+79,Khris Middleton,DEFENSIVE_REBOUND,None,6:00,3,Bucks,Kings,87 - 74,0,N/A,N/A,N/A
+80,Buddy Hield,FOUL_ON_FLOOR,None,5:48,3,Kings,Bucks,87 - 74,1,N/A,N/A,N/A
+81,Khris Middleton,FG_ASSISTED,Nikola Mirotic,5:40,3,Bucks,Kings,89 - 74,0,0,2,Layup
+82,Marvin Bagley,FG_MISS,None,5:23,3,Kings,Bucks,89 - 74,1,11,2,Jumper
+83,Eric Bledsoe,DEFENSIVE_REBOUND,None,5:20,3,Bucks,Kings,89 - 74,0,N/A,N/A,N/A
+84,Brook Lopez,FG_MISS,None,5:17,3,Bucks,Kings,89 - 74,0,26,3,Jumper
+85,Eric Bledsoe,OFFENSIVE_REBOUND,None,5:13,3,Bucks,Kings,89 - 74,0,N/A,N/A,N/A
+86,Brook Lopez,FG_MISS,None,5:11,3,Bucks,Kings,89 - 74,0,12,2,Jumper
+87,Bogdan Bogdanovic,DEFENSIVE_REBOUND,None,5:05,3,Kings,Bucks,89 - 74,1,N/A,N/A,N/A
+88,Harrison Barnes,TURNOVER,None,4:59,3,Kings,Bucks,89 - 74,1,N/A,N/A,N/A
+89,Isaiah Canaan,SUBSTITUTION,Bledsoe Eric,4:40,3,Bucks,Kings,89 - 74,0,N/A,N/A,N/A
+90,Corey Brewer,SUBSTITUTION,Bogdanovic Bogdan,4:40,3,Kings,Bucks,89 - 74,1,N/A,N/A,N/A
+91,Khris Middleton,JUMP_BALL,None,4:40,3,Kings,Bucks,89 - 74,1,N/A,N/A,N/A
+92,Eric Bledsoe,TURNOVER,Bogdan Bogdanovic,4:40,3,Bucks,Kings,89 - 74,0,N/A,N/A,N/A
+93,Buddy Hield,FG_ASSISTED,Corey Brewer,4:26,3,Kings,Bucks,89 - 76,1,2,2,Jumper
+94,Nikola Mirotic,FG_ASSISTED,Pat Connaughton,4:16,3,Bucks,Kings,92 - 76,0,23,3,Jumper
+95,De'Aaron Fox,FG_UNASSISTED,None,4:09,3,Kings,Bucks,92 - 78,1,9,2,Jumper
+96,Corey Brewer,FOUL_ON_FLOOR,None,4:02,3,Kings,Bucks,92 - 78,1,N/A,N/A,N/A
+97,Harry Giles,SUBSTITUTION,Barnes Harrison,4:02,3,Kings,Bucks,92 - 78,1,N/A,N/A,N/A
+98,Ersan Ilyasova,SUBSTITUTION,Lopez Brook,4:02,3,Bucks,Kings,92 - 78,0,N/A,N/A,N/A
+99,Buddy Hield,FOUL_ON_FLOOR,None,3:57,3,Kings,Bucks,92 - 78,1,N/A,N/A,N/A
+100,Khris Middleton,FT_MISS,None,3:57,3,Bucks,Kings,92 - 78,0,N/A,1,N/A
+101,Team,OFFENSIVE_REBOUND,None,3:57,3,Bucks,Kings,92 - 78,0,N/A,N/A,N/A
+102,Khris Middleton,FT,None,3:57,3,Bucks,Kings,93 - 78,0,N/A,1,N/A
+103,Khris Middleton,FOUL_ON_FLOOR,None,3:49,3,Bucks,Kings,93 - 78,0,N/A,N/A,N/A
+104,Harry Giles,FT_MISS,None,3:49,3,Kings,Bucks,93 - 78,1,N/A,1,N/A
+105,Team,OFFENSIVE_REBOUND,None,3:49,3,Kings,Bucks,93 - 78,1,N/A,N/A,N/A
+106,Harry Giles,FT_MISS,None,3:49,3,Kings,Bucks,93 - 78,1,N/A,1,N/A
+107,Isaiah Canaan,DEFENSIVE_REBOUND,None,3:45,3,Bucks,Kings,93 - 78,0,N/A,N/A,N/A
+108,Khris Middleton,FG_UNASSISTED,None,3:34,3,Bucks,Kings,95 - 78,0,8,2,Jumper
+109,Harry Giles,FG_ASSISTED,agley III,3:19,3,Kings,Bucks,95 - 80,1,0,2,Layup
+110,Corey Brewer,FOUL_ON_FLOOR,None,3:13,3,Kings,Bucks,95 - 80,1,N/A,N/A,N/A
+111,Khris Middleton,FT_MISS,None,3:13,3,Bucks,Kings,95 - 80,0,N/A,1,N/A
+112,Team,OFFENSIVE_REBOUND,None,3:13,3,Bucks,Kings,95 - 80,0,N/A,N/A,N/A
+113,Khris Middleton,FT,None,3:13,3,Bucks,Kings,96 - 80,0,N/A,1,N/A
+114,De'Aaron Fox's,FG_MISS,Isaiah Canaan,3:02,3,Bucks,Kings,96 - 80,1,0,2,Layup
+115,Khris Middleton,DEFENSIVE_REBOUND,None,3:02,3,Bucks,Kings,96 - 80,0,N/A,N/A,N/A
+116,Isaiah Canaan,FG_MISS,None,2:55,3,Bucks,Kings,96 - 80,0,25,3,Jumper
+117,Team,DEFENSIVE_REBOUND,None,2:55,3,Kings,Bucks,96 - 80,1,N/A,N/A,N/A
+118,Yogi Ferrell,SUBSTITUTION,Fox De'Aaron,2:55,3,Kings,Bucks,96 - 80,1,N/A,N/A,N/A
+119,Tony Snell,SUBSTITUTION,Middleton Khris,2:55,3,Bucks,Kings,96 - 80,0,N/A,N/A,N/A
+120,Ersan Ilyasova,JUMP_BALL,None,2:49,3,Kings,Bucks,96 - 80,1,N/A,N/A,N/A
+121,Harry Giles,FG_ASSISTED,Buddy Hield,2:46,3,Kings,Bucks,96 - 82,1,0,2,Dunk
+122,Nikola Mirotic,FG_MISS,None,2:27,3,Bucks,Kings,96 - 82,0,0,2,Layup
+123,Harry Giles,DEFENSIVE_REBOUND,None,2:24,3,Kings,Bucks,96 - 82,1,N/A,N/A,N/A
+124,Buddy Hield,FG_UNASSISTED,None,2:19,3,Kings,Bucks,96 - 85,1,25,3,Jumper
+125,Nikola Mirotic,FG_MISS,None,2:05,3,Bucks,Kings,96 - 85,0,20,2,Jumper
+126,Ersan Ilyasova,OFFENSIVE_REBOUND,None,2:05,3,Bucks,Kings,96 - 85,0,N/A,N/A,N/A
+127,Ersan Ilyasova,FG_UNASSISTED,None,1:59,3,Bucks,Kings,98 - 85,0, ,2,Jumper
+128,Ersan Ilyasova,FOUL_ON_FLOOR,None,1:57,3,Bucks,Kings,98 - 85,0,N/A,N/A,N/A
+129,Buddy Hield,FT,None,1:57,3,Kings,Bucks,98 - 86,1,N/A,1,N/A
+130,Malcolm Brogdon,SUBSTITUTION,Canaan Isaiah,1:57,3,Bucks,Kings,98 - 86,0,N/A,N/A,N/A
+131,Buddy Hield,FT,None,1:57,3,Kings,Bucks,98 - 87,1,N/A,1,N/A
+132,Yogi Ferrell,FOUL_ON_FLOOR,None,1:45,3,Kings,Bucks,98 - 87,1,N/A,N/A,N/A
+133,Ersan Ilyasova,FT,None,1:45,3,Bucks,Kings,99 - 87,0,N/A,1,N/A
+134,Ersan Ilyasova,FT,None,1:45,3,Bucks,Kings,100 - 87,0,N/A,1,N/A
+135,Buddy Hield,FG_MISS,None,1:31,3,Kings,Bucks,100 - 87,1,19,2,Jumper
+136,Marvin Bagley,OFFENSIVE_REBOUND,None,1:28,3,Kings,Bucks,100 - 87,1,N/A,N/A,N/A
+137,Nikola Mirotic,FOUL_ON_FLOOR,None,1:28,3,Bucks,Kings,100 - 87,0,N/A,N/A,N/A
+138,Marvin Bagley,FT,None,1:28,3,Kings,Bucks,100 - 88,1,N/A,1,N/A
+139,Giannis Antetokounmpo,SUBSTITUTION,Mirotic Nikola,1:28,3,Bucks,Kings,100 - 88,0,N/A,N/A,N/A
+140,Marvin Bagley,FT,None,1:28,3,Kings,Bucks,100 - 89,1,N/A,1,N/A
+141,Giannis Antetokounmpo,TURNOVER,None,1:20,3,Bucks,Kings,100 - 89,0,N/A,N/A,N/A
+142,Buddy Hield,FG_MISS,Pat Connaughton,1:06,3,Bucks,Kings,100 - 89,1,25,3,Jumper
+143,Malcolm Brogdon,DEFENSIVE_REBOUND,None,1:01,3,Bucks,Kings,100 - 89,0,N/A,N/A,N/A
+144,Giannis Antetokounmpo,FG_ASSISTED,Malcolm Brogdon,1:01,3,Bucks,Kings,102 - 89,0,0,2,Dunk
+145,Corey Brewer,FG_MISS,Pat Connaughton,46.4,3,Bucks,Kings,102 - 89,1,23,3,Jumper
+146,Team,OFFENSIVE_REBOUND,None,46.2,3,Kings,Bucks,102 - 89,1,N/A,N/A,N/A
+147,Buddy Hield,FG_MISS,None,41.9,3,Kings,Bucks,102 - 89,1,25,3,Jumper
+148,Team,OFFENSIVE_REBOUND,None,40.8,3,Kings,Bucks,102 - 89,1,N/A,N/A,N/A
+149,Harry Giles,FG_ASSISTED,Yogi Ferrell,33.6,3,Kings,Bucks,102 - 91,1,17,2,Jumper
+150,Pat Connaughton,FG_MISS,None,23.4,3,Bucks,Kings,102 - 91,0,23,3,Jumper
+151,Ersan Ilyasova,OFFENSIVE_REBOUND,None,20.7,3,Bucks,Kings,102 - 91,0,N/A,N/A,N/A
+152,Ersan Ilyasova's,FG_MISS,Harry Giles,19.4,3,Kings,Bucks,102 - 91,0, ,2,Jumper
+153,Malcolm Brogdon,OFFENSIVE_REBOUND,None,19.3,3,Bucks,Kings,102 - 91,0,N/A,N/A,N/A
+154,Malcolm Brogdon,FG_UNASSISTED,None,19.3,3,Bucks,Kings,104 - 91,0,0,2,Layup
+155,Team,Unknown,None,19.3,3,Kings,Bucks,104 - 91,1,N/A,N/A,N/A
+156,Harrison Barnes,SUBSTITUTION,III Bagley,19.3,3,Kings,Bucks,104 - 91,1,N/A,N/A,N/A
+157,D.J. Wilson,SUBSTITUTION,Antetokounmpo Giannis,19.3,3,Bucks,Kings,104 - 91,0,N/A,N/A,N/A
+158,Yogi Ferrell,FG_MISS,None,4.1,3,Kings,Bucks,104 - 91,1,21,2,Jumper
+159,Buddy Hield,OFFENSIVE_REBOUND,None,0.6,3,Kings,Bucks,104 - 91,1,N/A,N/A,N/A
+160,Harrison Barnes,FG_MISS,None,0.0,3,Kings,Bucks,104 - 91,1,29,3,Jumper
+161,Team,OFFENSIVE_REBOUND,None,0.0,3,Kings,Bucks,104 - 91,1,N/A,N/A,N/A
+162,End of,Unknown,None,0.0,3,Kings,Bucks,104 - 91,1,N/A,N/A,N/A
+0,Bogdan Bogdanovic,SUBSTITUTION,Hield Buddy,12:00,4,Kings,Bucks,104 - 91,1,N/A,N/A,N/A
+1,Giannis Antetokounmpo,SUBSTITUTION,Wilson D.J.,12:00,4,Bucks,Kings,104 - 91,0,N/A,N/A,N/A
+2,Harry Giles,TURNOVER,None,11:40,4,Kings,Bucks,104 - 91,1,N/A,N/A,N/A
+3,Pat Connaughton,FG_MISS,None,11:22,4,Bucks,Kings,104 - 91,0,26,3,Jumper
+4,Harrison Barnes,DEFENSIVE_REBOUND,None,11:20,4,Kings,Bucks,104 - 91,1,N/A,N/A,N/A
+5,Harry Giles,FG_ASSISTED,Corey Brewer,11:15,4,Kings,Bucks,104 - 93,1,9,2,Jumper
+6,Harry Giles,FOUL_ON_FLOOR,None,11:03,4,Kings,Bucks,104 - 93,1,N/A,N/A,N/A
+7,Tony Snell,FG_ASSISTED,Pat Connaughton,10:57,4,Bucks,Kings,106 - 93,0,0,2,Layup
+8,Yogi Ferrell,FG_MISS,None,10:43,4,Kings,Bucks,106 - 93,1,25,3,Jumper
+9,Pat Connaughton,DEFENSIVE_REBOUND,None,10:43,4,Bucks,Kings,106 - 93,0,N/A,N/A,N/A
+10,Pat Connaughton,TURNOVER,Bogdan Bogdanovic,10:36,4,Bucks,Kings,106 - 93,0,N/A,N/A,N/A
+11,Yogi Ferrell,FG_ASSISTED,Bogdan Bogdanovic,10:31,4,Kings,Bucks,106 - 96,1,25,3,Jumper
+12,Pat Connaughton,FG_MISS,None,10:14,4,Bucks,Kings,106 - 96,0,26,3,Jumper
+13,Harrison Barnes,DEFENSIVE_REBOUND,None,10:10,4,Kings,Bucks,106 - 96,1,N/A,N/A,N/A
+14,Harry Giles,FG_ASSISTED,Yogi Ferrell,10:06,4,Kings,Bucks,106 - 98,1, ,2,Jumper
+15,Tony Snell,FG_MISS,None,9:53,4,Bucks,Kings,106 - 98,0,8,2,Jumper
+16,Harrison Barnes,DEFENSIVE_REBOUND,None,9:49,4,Kings,Bucks,106 - 98,1,N/A,N/A,N/A
+17,Harry Giles,FG_ASSISTED,Bogdan Bogdanovic,9:44,4,Kings,Bucks,106 - 100,1,11,2,Jumper
+18,Team,Unknown,None,9:42,4,Bucks,Kings,106 - 98,0,N/A,N/A,N/A
+19,Brook Lopez,SUBSTITUTION,Brogdon Malcolm,9:42,4,Bucks,Kings,106 - 98,0,N/A,N/A,N/A
+20,Eric Bledsoe,SUBSTITUTION,Connaughton Pat,9:42,4,Bucks,Kings,106 - 98,0,N/A,N/A,N/A
+21,Nikola Mirotic,SUBSTITUTION,Ilyasova Ersan,9:42,4,Bucks,Kings,106 - 98,0,N/A,N/A,N/A
+22,Khris Middleton,SUBSTITUTION,Antetokounmpo Giannis,9:42,4,Bucks,Kings,106 - 98,0,N/A,N/A,N/A
+23,Khris Middleton,FG_MISS,None,9:29,4,Bucks,Kings,106 - 100,0,1,2,Jumper
+24,Harry Giles,DEFENSIVE_REBOUND,None,9:27,4,Kings,Bucks,106 - 100,1,N/A,N/A,N/A
+25,Bogdan Bogdanovic,FG_MISS,None,9:15,4,Kings,Bucks,106 - 100,1,0,2,Layup
+26,Nikola Mirotic,DEFENSIVE_REBOUND,None,9:12,4,Bucks,Kings,106 - 100,0,N/A,N/A,N/A
+27,Eric Bledsoe,FG_UNASSISTED,None,9:04,4,Bucks,Kings,108 - 100,0,0,2,Layup
+28,Harry Giles,FG_UNASSISTED,None,8:47,4,Kings,Bucks,108 - 102,1,0,2,Layup
+29,Tony Snell,FG_ASSISTED,Eric Bledsoe,8:35,4,Bucks,Kings,111 - 102,0,25,3,Jumper
+30,Yogi Ferrell,FG_UNASSISTED,None,8:20,4,Kings,Bucks,111 - 104,1,1,2,Jumper
+31,Eric Bledsoe,FG_ASSISTED,Khris Middleton,7:57,4,Bucks,Kings,113 - 104,0,0,2,Layup
+32,Harry Giles,FG_MISS,None,7:40,4,Kings,Bucks,113 - 104,1,16,2,Jumper
+33,Nikola Mirotic,DEFENSIVE_REBOUND,None,7:35,4,Bucks,Kings,113 - 104,0,N/A,N/A,N/A
+34,Nikola Mirotic,FG_MISS,None,7:20,4,Bucks,Kings,113 - 104,0,1,2,Jumper
+35,Harry Giles,DEFENSIVE_REBOUND,None,7:17,4,Kings,Bucks,113 - 104,1,N/A,N/A,N/A
+36,Harry Giles,TURNOVER,None,7:12,4,Kings,Bucks,113 - 104,1,N/A,N/A,N/A
+37,Nikola Mirotic,FG_ASSISTED,Khris Middleton,6:56,4,Bucks,Kings,116 - 104,0,27,3,Jumper
+38,Team,Unknown,None,6:54,4,Kings,Bucks,116 - 104,1,N/A,N/A,N/A
+39,De'Aaron Fox,SUBSTITUTION,Ferrell Yogi,6:54,4,Kings,Bucks,116 - 104,1,N/A,N/A,N/A
+40,Buddy Hield,SUBSTITUTION,Brewer Corey,6:54,4,Kings,Bucks,116 - 104,1,N/A,N/A,N/A
+41,Bogdan Bogdanovic,FG_ASSISTED,De'Aaron Fox,6:41,4,Kings,Bucks,116 - 106,1,0,2,Layup
+42,Khris Middleton,FG_ASSISTED,Eric Bledsoe,6:29,4,Bucks,Kings,118 - 106,0,0,2,Dunk
+43,Bogdan Bogdanovic,FG_MISS,None,6:22,4,Kings,Bucks,118 - 106,1,25,3,Jumper
+44,Tony Snell,DEFENSIVE_REBOUND,None,6:19,4,Bucks,Kings,118 - 106,0,N/A,N/A,N/A
+45,Eric Bledsoe,FG_UNASSISTED,None,6:14,4,Bucks,Kings,120 - 106,0,0,2,Layup
+46,Harry Giles,FG_ASSISTED,De'Aaron Fox,6:06,4,Kings,Bucks,120 - 108,1,0,2,Layup
+47,Khris Middleton,FG_MISS,None,5:44,4,Bucks,Kings,120 - 108,0,26,3,Jumper
+48,Harry Giles,DEFENSIVE_REBOUND,None,5:40,4,Kings,Bucks,120 - 108,1,N/A,N/A,N/A
+49,De'Aaron Fox,FG_MISS,None,5:37,4,Kings,Bucks,120 - 108,1,4,2,Jumper
+50,Team,DEFENSIVE_REBOUND,None,5:37,4,Bucks,Kings,120 - 108,0,N/A,N/A,N/A
+51,Willie Cauley-Stein,SUBSTITUTION,Giles Harry,5:36,4,Kings,Bucks,120 - 108,1,N/A,N/A,N/A
+52,Khris Middleton,FG_MISS,Bogdan Bogdanovic,5:14,4,Kings,Bucks,120 - 108,0,5,2,Jumper
+53,Eric Bledsoe,OFFENSIVE_REBOUND,None,5:11,4,Bucks,Kings,120 - 108,0,N/A,N/A,N/A
+54,Eric Bledsoe,FG_MISS,None,5:11,4,Bucks,Kings,120 - 108,0,1,2,Jumper
+55,Bogdan Bogdanovic,DEFENSIVE_REBOUND,None,5:09,4,Kings,Bucks,120 - 108,1,N/A,N/A,N/A
+56,Tony Snell,FOUL_ON_FLOOR,None,5:08,4,Bucks,Kings,120 - 108,0,N/A,N/A,N/A
+57,Buddy Hield,FT,None,5:08,4,Kings,Bucks,120 - 109,1,N/A,1,N/A
+58,Giannis Antetokounmpo,SUBSTITUTION,Lopez Brook,5:08,4,Bucks,Kings,120 - 109,0,N/A,N/A,N/A
+59,Buddy Hield,FT,None,5:08,4,Kings,Bucks,120 - 110,1,N/A,1,N/A
+60,Tony Snell,FG_MISS,None,4:54,4,Bucks,Kings,120 - 110,0,23,3,Jumper
+61,Buddy Hield,DEFENSIVE_REBOUND,None,4:50,4,Kings,Bucks,120 - 110,1,N/A,N/A,N/A
+62,Khris Middleton,FOUL_ON_FLOOR,None,4:50,4,Bucks,Kings,120 - 110,0,N/A,N/A,N/A
+63,Buddy Hield,FT,None,4:50,4,Kings,Bucks,120 - 111,1,N/A,1,N/A
+64,Malcolm Brogdon,SUBSTITUTION,Bledsoe Eric,4:50,4,Bucks,Kings,120 - 111,0,N/A,N/A,N/A
+65,Buddy Hield,FT,None,4:50,4,Kings,Bucks,120 - 112,1,N/A,1,N/A
+66,Khris Middleton,TURNOVER,Buddy Hield,4:29,4,Bucks,Kings,120 - 112,0,N/A,N/A,N/A
+67,Buddy Hield,FG_UNASSISTED,None,4:24,4,Kings,Bucks,120 - 114,1,1,2,Jumper
+68,Team,Unknown,None,4:24,4,Bucks,Kings,120 - 114,0,N/A,N/A,N/A
+69,Eric Bledsoe,SUBSTITUTION,Snell Tony,4:24,4,Bucks,Kings,120 - 114,0,N/A,N/A,N/A
+70,Eric Bledsoe,FG_MISS,De'Aaron Fox,4:11,4,Kings,Bucks,120 - 114,0,0,2,Layup
+71,Team,OFFENSIVE_REBOUND,None,4:11,4,Bucks,Kings,120 - 114,0,N/A,N/A,N/A
+72,Pat Connaughton,SUBSTITUTION,Mirotic Nikola,4:11,4,Bucks,Kings,120 - 114,0,N/A,N/A,N/A
+73,Eric Bledsoe,FG_MISS,None,4:01,4,Bucks,Kings,120 - 114,0,26,3,Jumper
+74,Willie Cauley-Stein,DEFENSIVE_REBOUND,None,3:55,4,Kings,Bucks,120 - 114,1,N/A,N/A,N/A
+75,Buddy Hield's,FG_MISS,Giannis Antetokounmpo,3:36,4,Bucks,Kings,120 - 114,1,0,2,Layup
+76,Malcolm Brogdon,DEFENSIVE_REBOUND,None,3:32,4,Bucks,Kings,120 - 114,0,N/A,N/A,N/A
+77,Willie Cauley-Stein,FOUL_ON_FLOOR,None,3:23,4,Kings,Bucks,120 - 114,1,N/A,N/A,N/A
+78,Giannis Antetokounmpo,FT,None,3:23,4,Bucks,Kings,121 - 114,0,N/A,1,N/A
+79,Brook Lopez,SUBSTITUTION,Connaughton Pat,3:23,4,Bucks,Kings,121 - 114,0,N/A,N/A,N/A
+80,Giannis Antetokounmpo,FT,None,3:23,4,Bucks,Kings,122 - 114,0,N/A,1,N/A
+81,De'Aaron Fox,FG_MISS,None,3:14,4,Kings,Bucks,122 - 114,1,9,2,Jumper
+82,Giannis Antetokounmpo,DEFENSIVE_REBOUND,None,3:12,4,Bucks,Kings,122 - 114,0,N/A,N/A,N/A
+83,Khris Middleton,FG_MISS,None,3:02,4,Bucks,Kings,122 - 114,0,14,2,Jumper
+84,De'Aaron Fox,DEFENSIVE_REBOUND,None,2:59,4,Kings,Bucks,122 - 114,1,N/A,N/A,N/A
+85,Bogdan Bogdanovic,FG_ASSISTED,De'Aaron Fox,2:54,4,Kings,Bucks,122 - 117,1,26,3,Jumper
+86,Khris Middleton,FG_MISS,None,2:26,4,Bucks,Kings,122 - 117,0,24,3,Jumper
+87,De'Aaron Fox,DEFENSIVE_REBOUND,None,2:24,4,Kings,Bucks,122 - 117,1,N/A,N/A,N/A
+88,De'Aaron Fox,FG_UNASSISTED,None,2:17,4,Kings,Bucks,122 - 119,1,0,2,Layup
+89,Giannis Antetokounmpo,FG_ASSISTED,Eric Bledsoe,1:53,4,Bucks,Kings,124 - 119,0,0,2,Layup
+90,Harrison Barnes,FG_ASSISTED,De'Aaron Fox,1:44,4,Kings,Bucks,124 - 122,1,23,3,Jumper
+91,Giannis Antetokounmpo,FG_MISS,None,1:22,4,Bucks,Kings,124 - 122,0,26,3,Jumper
+92,Bogdan Bogdanovic,DEFENSIVE_REBOUND,None,1:18,4,Kings,Bucks,124 - 122,1,N/A,N/A,N/A
+93,Bogdan Bogdanovic,FG_UNASSISTED,None,1:00,4,Kings,Bucks,124 - 124,1,4,2,Jumper
+94,Bogdan Bogdanovic,FOUL_ON_FLOOR,None,46.4,4,Kings,Bucks,124 - 124,1,N/A,N/A,N/A
+95,Team,Unknown,None,46.4,4,Bucks,Kings,124 - 124,0,N/A,N/A,N/A
+96,Khris Middleton,TURNOVER,Harrison Barnes,35.0,4,Bucks,Kings,124 - 124,0,N/A,N/A,N/A
+97,De'Aaron Fox,FG_MISS,Brook Lopez,29.7,4,Bucks,Kings,124 - 124,1,0,2,Layup
+98,Willie Cauley-Stein,OFFENSIVE_REBOUND,None,29.3,4,Kings,Bucks,124 - 124,1,N/A,N/A,N/A
+99,Willie Cauley-Stein,FG_UNASSISTED,None,28.7,4,Kings,Bucks,124 - 126,1,1,2,Jumper
+100,Eric Bledsoe,FG_UNASSISTED,None,11.4,4,Bucks,Kings,126 - 126,0,0,2,Layup
+101,Team,Unknown,None,11.4,4,Kings,Bucks,126 - 126,1,N/A,N/A,N/A
+102,De'Aaron Fox,TURNOVER,Eric Bledsoe,0.3,4,Kings,Bucks,126 - 126,1,N/A,N/A,N/A
+103,End of,Unknown,None,0.0,4,Kings,Bucks,126 - 126,1,N/A,N/A,N/A

@@ -1,0 +1,420 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Team,FG_MISS,None,8:32,1,,,10 - 4,0,16,2,Jumper
+1,Team,DEFENSIVE_REBOUND,None,8:28,1,,,10 - 4,1,N/A,N/A,N/A
+2,Team,FOUL_ON_FLOOR,None,8:21,1,,,10 - 4,0,N/A,N/A,N/A
+3,Team,FT_MISS,None,8:21,1,,,10 - 4,1,N/A,1,N/A
+4,Team,OFFENSIVE_REBOUND,None,8:21,1,,,10 - 4,1,N/A,N/A,N/A
+5,Team,FT,None,8:21,1,,,10 - 5,1,N/A,1,N/A
+6,Team,FOUL_ON_FLOOR,None,8:05,1,,,10 - 5,1,N/A,N/A,N/A
+7,Team,FG_MISS,None,7:58,1,,,10 - 5,0,23,3,Jumper
+8,Team,DEFENSIVE_REBOUND,None,7:55,1,,,10 - 5,1,N/A,N/A,N/A
+9,Team,FG_ASSISTED,Devin Booker,7:47,1,,,10 - 8,1,26,3,Jumper
+10,Team,TURNOVER,T.J. Warren,7:28,1,,,10 - 8,0,N/A,N/A,N/A
+11,Team,FG_MISS,None,7:19,1,,,10 - 8,1,26,3,Jumper
+12,Team,DEFENSIVE_REBOUND,None,7:15,1,,,10 - 8,0,N/A,N/A,N/A
+13,Team,FG_UNASSISTED,None,7:03,1,,,12 - 8,0,4,2,Jumper
+14,Team,FG_MISS,None,6:37,1,,,12 - 8,1,26,3,Jumper
+15,Team,DEFENSIVE_REBOUND,None,6:35,1,,,12 - 8,0,N/A,N/A,N/A
+16,Team,FG_ASSISTED,Nikola Jokic,6:29,1,,,14 - 8,0,0,2,Layup
+17,Team,Unknown,None,6:29,1,,,12 - 8,1,N/A,N/A,N/A
+18,Team,FG_MISS,None,6:16,1,,,14 - 8,1,27,3,Jumper
+19,Team,DEFENSIVE_REBOUND,None,6:14,1,,,14 - 8,0,N/A,N/A,N/A
+20,Team,FG_ASSISTED,Mason Plumlee,6:01,1,,,17 - 8,0,26,3,Jumper
+21,Team,FG_MISS,Nikola Jokic,5:42,1,,,17 - 8,1,0,2,Layup
+22,Team,DEFENSIVE_REBOUND,None,5:39,1,,,17 - 8,0,N/A,N/A,N/A
+23,Team,FG_ASSISTED,Jamal Murray,5:33,1,,,19 - 8,0,0,2,Dunk
+24,Team,TURNOVER,Juan Hernangomez,5:18,1,,,19 - 8,1,N/A,N/A,N/A
+25,Team,FG_UNASSISTED,None,5:14,1,,,21 - 8,0,-,2,Jumper
+26,Team,FG_ASSISTED,Deandre Ayton,4:57,1,,,21 - 11,1,24,3,Jumper
+27,Team,FG_ASSISTED,Jamal Murray,4:43,1,,,23 - 11,0,0,2,Layup
+28,Team,FG_MISS,None,4:29,1,,,23 - 11,1, ,2,Jumper
+29,Team,DEFENSIVE_REBOUND,None,4:27,1,,,23 - 11,0,N/A,N/A,N/A
+30,Team,FG_MISS,None,4:23,1,,,23 - 11,0,26,3,Jumper
+31,Team,DEFENSIVE_REBOUND,None,4:20,1,,,23 - 11,1,N/A,N/A,N/A
+32,Team,FG_MISS,None,4:08,1,,,23 - 11,1,25,3,Jumper
+33,Team,DEFENSIVE_REBOUND,None,4:06,1,,,23 - 11,0,N/A,N/A,N/A
+34,Team,FG_ASSISTED,Nikola Jokic,3:57,1,,,25 - 11,0,0,2,Layup
+35,Team,SUBSTITUTION,Bridges Mikal,3:44,1,,,25 - 11,1,N/A,N/A,N/A
+36,Team,SUBSTITUTION,Ayton Deandre,3:44,1,,,25 - 11,1,N/A,N/A,N/A
+37,Team,SUBSTITUTION,Jokic Nikola,3:44,1,,,25 - 11,0,N/A,N/A,N/A
+38,Team,SUBSTITUTION,Murray Jamal,3:44,1,,,25 - 11,0,N/A,N/A,N/A
+39,Team,FG_MISS,None,3:35,1,,,25 - 11,1, ,2,Jumper
+40,Team,DEFENSIVE_REBOUND,None,3:33,1,,,25 - 11,0,N/A,N/A,N/A
+41,Team,FG_MISS,None,3:24,1,,,25 - 11,0,27,3,Jumper
+42,Team,OFFENSIVE_REBOUND,None,3:20,1,,,25 - 11,0,N/A,N/A,N/A
+43,Team,FG_MISS,T.J. Warren,3:15,1,,,25 - 11,0,0,2,Layup
+44,Team,OFFENSIVE_REBOUND,None,3:12,1,,,25 - 11,0,N/A,N/A,N/A
+45,Team,TURNOVER,De'Anthony Melton,3:09,1,,,25 - 11,0,N/A,N/A,N/A
+46,Team,FOUL_ON_FLOOR,None,3:09,1,,,25 - 11,0,N/A,N/A,N/A
+47,Team,SUBSTITUTION,Plumlee Mason,3:09,1,,,25 - 11,0,N/A,N/A,N/A
+48,Team,FG_MISS,None,2:53,1,,,25 - 11,1, ,2,Jumper
+49,Team,DEFENSIVE_REBOUND,None,2:51,1,,,25 - 11,0,N/A,N/A,N/A
+50,Team,FOUL_ON_FLOOR,None,2:48,1,,,25 - 11,1,N/A,N/A,N/A
+51,Team,Unknown,None,2:48,1,,,25 - 11,0,N/A,N/A,N/A
+52,Team,SUBSTITUTION,Warren T.J.,2:48,1,,,25 - 11,1,N/A,N/A,N/A
+53,Team,SUBSTITUTION,Melton De'Anthony,2:48,1,,,25 - 11,1,N/A,N/A,N/A
+54,Team,SUBSTITUTION,Hernangomez Juan,2:48,1,,,25 - 11,0,N/A,N/A,N/A
+55,Team,FT,None,2:48,1,,,26 - 11,0,N/A,1,N/A
+56,Team,FT,None,2:48,1,,,27 - 11,0,N/A,1,N/A
+57,Team,TURNOVER,None,2:36,1,,,27 - 11,1,N/A,N/A,N/A
+58,Team,FG_ASSISTED,Monte Morris,2:24,1,,,29 - 11,0,21,2,Jumper
+59,Team,FG_ASSISTED,Jamal Crawford,2:07,1,,,29 - 13,1,0,2,Layup
+60,Team,FOUL_ON_FLOOR,None,2:07,1,,,29 - 13,0,N/A,N/A,N/A
+61,Team,FT,None,2:07,1,,,29 - 14,1,N/A,1,N/A
+62,Team,FOUL_ON_FLOOR,None,1:51,1,,,29 - 14,1,N/A,N/A,N/A
+63,Team,FG_ASSISTED,Torrey Craig,1:48,1,,,32 - 14,0,25,3,Jumper
+64,Team,FOUL_ON_FLOOR,None,1:39,1,,,32 - 14,0,N/A,N/A,N/A
+65,Team,TURNOVER,Trey Lyles,1:28,1,,,32 - 14,1,N/A,N/A,N/A
+66,Team,FG_MISS,None,1:20,1,,,32 - 14,0, ,3,Jumper
+67,Team,DEFENSIVE_REBOUND,None,1:18,1,,,32 - 14,1,N/A,N/A,N/A
+68,Team,FG_MISS,None,1:12,1,,,32 - 14,1,18,2,Jumper
+69,Team,DEFENSIVE_REBOUND,None,1:09,1,,,32 - 14,0,N/A,N/A,N/A
+70,Team,FG_ASSISTED,Paul Millsap,1:01,1,,,35 - 14,0,26,3,Jumper
+71,Team,FG_UNASSISTED,None,47.2,1,,,35 - 16,1,0,2,Layup
+72,Team,FG_MISS,None,33.6,1,,,35 - 16,0,17,2,Jumper
+73,Team,DEFENSIVE_REBOUND,None,31.5,1,,,35 - 16,1,N/A,N/A,N/A
+74,Team,TURNOVER,None,11.6,1,,,35 - 16,1,N/A,N/A,N/A
+75,Team,FOUL_ON_FLOOR,None,3.2,1,,,35 - 16,1,N/A,N/A,N/A
+76,Team,FT,None,3.2,1,,,36 - 16,0,N/A,1,N/A
+77,Team,SUBSTITUTION,Lyles Trey,3.2,1,,,36 - 16,0,N/A,N/A,N/A
+78,Team,FT_MISS,None,3.2,1,,,36 - 16,0,N/A,1,N/A
+79,Team,DEFENSIVE_REBOUND,None,1.4,1,,,36 - 16,1,N/A,N/A,N/A
+80,Team,Unknown,None,0.0,1,,,36 - 16,1,N/A,N/A,N/A
+0,Team,SUBSTITUTION,Booker Devin,12:00,2,,,36 - 16,1,N/A,N/A,N/A
+1,Team,SUBSTITUTION,Holmes Richaun,12:00,2,,,36 - 16,1,N/A,N/A,N/A
+2,Team,SUBSTITUTION,Craig Torrey,12:00,2,,,36 - 16,0,N/A,N/A,N/A
+3,Team,SUBSTITUTION,Hernangomez Juan,12:00,2,,,36 - 16,0,N/A,N/A,N/A
+4,Team,TURNOVER,Malik Beasley,11:46,2,,,36 - 16,1,N/A,N/A,N/A
+5,Team,FG_MISS,None,11:40,2,,,36 - 16,0, ,3,Jumper
+6,Team,OFFENSIVE_REBOUND,None,11:38,2,,,36 - 16,0,N/A,N/A,N/A
+7,Team,FG_MISS,None,11:36,2,,,36 - 16,0,26,3,Jumper
+8,Team,DEFENSIVE_REBOUND,None,11:32,2,,,36 - 16,1,N/A,N/A,N/A
+9,Team,FG_MISS,None,11:27,2,,,36 - 16,1,26,3,Jumper
+10,Team,DEFENSIVE_REBOUND,None,11:21,2,,,36 - 16,0,N/A,N/A,N/A
+11,Team,FG_ASSISTED,Monte Morris,11:19,2,,,39 - 16,0, ,3,Jumper
+12,Team,FG_ASSISTED,Mikal Bridges,10:57,2,,,39 - 18,1,0,2,Dunk
+13,Team,FG_MISS,None,10:38,2,,,39 - 18,0,14,2,Jumper
+14,Team,DEFENSIVE_REBOUND,None,10:38,2,,,39 - 18,1,N/A,N/A,N/A
+15,Team,FG_ASSISTED,Jamal Crawford,10:28,2,,,39 - 20,1,0,2,Layup
+16,Team,FG_MISS,Mikal Bridges,10:17,2,,,39 - 20,0,0,2,Layup
+17,Team,DEFENSIVE_REBOUND,None,10:13,2,,,39 - 20,1,N/A,N/A,N/A
+18,Team,FOUL_ON_FLOOR,None,10:13,2,,,39 - 20,0,N/A,N/A,N/A
+19,Team,FG_MISS,None,10:13,2,,,39 - 20,1,24,3,Jumper
+20,Team,OFFENSIVE_REBOUND,None,9:58,2,,,39 - 20,1,N/A,N/A,N/A
+21,Team,FG_MISS,None,9:54,2,,,39 - 20,1, ,2,Jumper
+22,Team,DEFENSIVE_REBOUND,None,9:52,2,,,39 - 20,0,N/A,N/A,N/A
+23,Team,FG_ASSISTED,Jamal Murray,9:42,2,,,42 - 20,0,26,3,Jumper
+24,Team,TURNOVER,Nikola Jokic,9:21,2,,,42 - 20,1,N/A,N/A,N/A
+25,Team,FG_ASSISTED,Malik Beasley,9:16,2,,,44 - 20,0, ,2,Jumper
+26,Team,Unknown,None,9:15,2,,,44 - 20,1,N/A,N/A,N/A
+27,Team,SUBSTITUTION,Oubre Kelly,9:15,2,,,44 - 20,1,N/A,N/A,N/A
+28,Team,SUBSTITUTION,Millsap Paul,9:15,2,,,44 - 20,0,N/A,N/A,N/A
+29,Team,TURNOVER,Juan Hernangomez,9:01,2,,,44 - 20,1,N/A,N/A,N/A
+30,Team,FG_MISS,None,8:55,2,,,44 - 20,0,26,3,Jumper
+31,Team,DEFENSIVE_REBOUND,None,8:51,2,,,44 - 20,1,N/A,N/A,N/A
+32,Team,FG_ASSISTED,Josh Jackson,8:49,2,,,44 - 22,1,0,2,Dunk
+33,Team,FG_ASSISTED,Monte Morris,8:31,2,,,47 - 22,0,25,3,Jumper
+34,Team,FG_ASSISTED,Jamal Crawford,8:15,2,,,47 - 24,1,0,2,Layup
+35,Team,FG_ASSISTED,Nikola Jokic,7:58,2,,,49 - 24,0,6,2,Jumper
+36,Team,FOUL_TECHNICAL,None,7:41,2,,,49 - 24,0,N/A,N/A,N/A
+37,Team,FT_MISS,None,7:41,2,,,49 - 24,1,N/A,1,N/A
+38,Team,OFFENSIVE_REBOUND,None,7:41,2,,,49 - 24,1,N/A,N/A,N/A
+39,Team,SUBSTITUTION,Jokic Nikola,7:41,2,,,49 - 24,0,N/A,N/A,N/A
+40,Team,FG_MISS,None,7:32,2,,,49 - 24,1,17,2,Jumper
+41,Team,OFFENSIVE_REBOUND,None,7:26,2,,,49 - 24,1,N/A,N/A,N/A
+42,Team,FG_UNASSISTED,None,7:26,2,,,49 - 26,1, ,2,Jumper
+43,Team,TURNOVER,None,7:18,2,,,49 - 26,0,N/A,N/A,N/A
+44,Team,SUBSTITUTION,Crawford Jamal,7:18,2,,,49 - 26,1,N/A,N/A,N/A
+45,Team,SUBSTITUTION,Jackson Josh,7:18,2,,,49 - 26,1,N/A,N/A,N/A
+46,Team,FG_MISS,None,7:07,2,,,49 - 26,1,0,2,Layup
+47,Team,OFFENSIVE_REBOUND,None,7:03,2,,,49 - 26,1,N/A,N/A,N/A
+48,Team,FG_UNASSISTED,None,7:03,2,,,49 - 28,1, ,2,Jumper
+49,Team,Unknown,None,7:03,2,,,49 - 28,0,N/A,N/A,N/A
+50,Team,SUBSTITUTION,Murray Jamal,7:03,2,,,49 - 28,0,N/A,N/A,N/A
+51,Team,TURNOVER,De'Anthony Melton,6:48,2,,,49 - 28,0,N/A,N/A,N/A
+52,Team,FG_MISS,None,6:44,2,,,49 - 28,1, ,2,Jumper
+53,Team,DEFENSIVE_REBOUND,None,6:40,2,,,49 - 28,0,N/A,N/A,N/A
+54,Team,TURNOVER,None,6:27,2,,,49 - 28,0,N/A,N/A,N/A
+55,Team,FG_MISS,None,6:12,2,,,49 - 28,1,26,3,Jumper
+56,Team,DEFENSIVE_REBOUND,None,6:09,2,,,49 - 28,0,N/A,N/A,N/A
+57,Team,FG_MISS,None,6:03,2,,,49 - 28,0,26,3,Jumper
+58,Team,OFFENSIVE_REBOUND,None,6:01,2,,,49 - 28,0,N/A,N/A,N/A
+59,Team,FG_ASSISTED,Mason Plumlee,5:59,2,,,52 - 28,0,26,3,Jumper
+60,Team,FOUL_ON_FLOOR,None,5:42,2,,,52 - 28,0,N/A,N/A,N/A
+61,Team,FG_UNASSISTED,None,5:31,2,,,52 - 30,1,17,2,Jumper
+62,Team,FG_MISS,None,5:13,2,,,52 - 30,0, ,2,Jumper
+63,Team,DEFENSIVE_REBOUND,None,5:10,2,,,52 - 30,1,N/A,N/A,N/A
+64,Team,FG_ASSISTED,De'Anthony Melton,5:05,2,,,52 - 32,1,0,2,Layup
+65,Team,TURNOVER,Mikal Bridges,4:46,2,,,52 - 32,0,N/A,N/A,N/A
+66,Team,FOUL_ON_FLOOR,None,4:40,2,,,52 - 32,0,N/A,N/A,N/A
+67,Team,SUBSTITUTION,Morris Monte,4:40,2,,,52 - 32,0,N/A,N/A,N/A
+68,Team,SUBSTITUTION,Beasley Malik,4:40,2,,,52 - 32,0,N/A,N/A,N/A
+69,Team,FG_MISS,None,4:29,2,,,52 - 32,1, ,2,Jumper
+70,Team,OFFENSIVE_REBOUND,None,4:26,2,,,52 - 32,1,N/A,N/A,N/A
+71,Team,FG_UNASSISTED,None,4:26,2,,,52 - 34,1, ,2,Jumper
+72,Team,Unknown,None,4:26,2,,,52 - 34,0,N/A,N/A,N/A
+73,Team,FG_UNASSISTED,None,4:14,2,,,55 - 34,0,25,3,Jumper
+74,Team,FG_ASSISTED,Mikal Bridges,3:44,2,,,55 - 37,1,26,3,Jumper
+75,Team,FG_MISS,None,3:27,2,,,55 - 37,0,25,3,Jumper
+76,Team,DEFENSIVE_REBOUND,None,3:22,2,,,55 - 37,1,N/A,N/A,N/A
+77,Team,TURNOVER,Mason Plumlee,3:06,2,,,55 - 37,1,N/A,N/A,N/A
+78,Team,TURNOVER,None,3:04,2,,,55 - 37,0,N/A,N/A,N/A
+79,Team,TURNOVER,None,3:04,2,,,55 - 37,0,N/A,N/A,N/A
+80,Team,SUBSTITUTION,Craig Torrey,3:04,2,,,55 - 37,0,N/A,N/A,N/A
+81,Team,FG_MISS,None,2:53,2,,,55 - 37,1,25,3,Jumper
+82,Team,DEFENSIVE_REBOUND,None,2:50,2,,,55 - 37,0,N/A,N/A,N/A
+83,Team,FG_ASSISTED,Jamal Murray,2:39,2,,,57 - 37,0,0,2,Dunk
+84,Team,FG_MISS,None,2:23,2,,,57 - 37,1,21,2,Jumper
+85,Team,DEFENSIVE_REBOUND,None,2:21,2,,,57 - 37,0,N/A,N/A,N/A
+86,Team,FG_MISS,None,2:16,2,,,57 - 37,0, ,2,Jumper
+87,Team,DEFENSIVE_REBOUND,None,2:14,2,,,57 - 37,1,N/A,N/A,N/A
+88,Team,FG_ASSISTED,T.J. Warren,2:08,2,,,57 - 39,1,3,2,Jumper
+89,Team,FOUL_ON_FLOOR,None,1:59,2,,,57 - 39,1,N/A,N/A,N/A
+90,Team,SUBSTITUTION,Booker Devin,1:59,2,,,57 - 39,1,N/A,N/A,N/A
+91,Team,FG_MISS,None,1:43,2,,,57 - 39,0,27,3,Jumper
+92,Team,OFFENSIVE_REBOUND,None,1:39,2,,,57 - 39,0,N/A,N/A,N/A
+93,Team,FG_MISS,Kelly Oubre,1:38,2,,,57 - 39,0,0,2,Layup
+94,Team,DEFENSIVE_REBOUND,None,1:35,2,,,57 - 39,1,N/A,N/A,N/A
+95,Team,FOUL_ON_FLOOR,None,1:34,2,,,57 - 39,0,N/A,N/A,N/A
+96,Team,FT,None,1:34,2,,,57 - 40,1,N/A,1,N/A
+97,Team,FT,None,1:34,2,,,57 - 41,1,N/A,1,N/A
+98,Team,TURNOVER,Kelly Oubre,1:19,2,,,57 - 41,0,N/A,N/A,N/A
+99,Team,FG_ASSISTED,De'Anthony Melton,1:13,2,,,57 - 43,1, ,2,Jumper
+100,Team,FOUL_ON_FLOOR,None,1:13,2,,,57 - 43,0,N/A,N/A,N/A
+101,Team,SUBSTITUTION,Plumlee Mason,1:13,2,,,57 - 43,0,N/A,N/A,N/A
+102,Team,FT_MISS,None,1:13,2,,,57 - 43,1,N/A,1,N/A
+103,Team,DEFENSIVE_REBOUND,None,1:12,2,,,57 - 43,0,N/A,N/A,N/A
+104,Team,TURNOVER,Deandre Ayton,1:07,2,,,57 - 43,0,N/A,N/A,N/A
+105,Team,FG_MISS,None,59.7,2,,,57 - 43,1,7,2,Jumper
+106,Team,OFFENSIVE_REBOUND,None,56.2,2,,,57 - 43,1,N/A,N/A,N/A
+107,Team,FG_UNASSISTED,None,56.2,2,,,57 - 45,1, ,2,Jumper
+108,Team,FOUL_ON_FLOOR,None,39.8,2,,,57 - 45,1,N/A,N/A,N/A
+109,Team,FT,None,39.8,2,,,58 - 45,0,N/A,1,N/A
+110,Team,FT,None,39.8,2,,,59 - 45,0,N/A,1,N/A
+111,Team,FG_MISS,None,30.0,2,,,59 - 45,1,6,2,Jumper
+112,Team,OFFENSIVE_REBOUND,None,29.3,2,,,59 - 45,1,N/A,N/A,N/A
+113,Team,FG_UNASSISTED,None,29.3,2,,,59 - 47,1,0,2,Dunk
+114,Team,FG_MISS,None,11.3,2,,,59 - 47,0,0,2,Layup
+115,Team,DEFENSIVE_REBOUND,None,9.3,2,,,59 - 47,1,N/A,N/A,N/A
+116,Team,FG_UNASSISTED,None,3.5,2,,,59 - 49,1,6,2,Jumper
+117,Team,FG_ASSISTED,Malik Beasley,0.4,2,,,62 - 49,0,25,3,Jumper
+118,Team,Unknown,None,0.0,2,,,62 - 49,1,N/A,N/A,N/A
+0,Team,SUBSTITUTION,Oubre Kelly,12:00,3,,,62 - 49,1,N/A,N/A,N/A
+1,Team,SUBSTITUTION,Beasley Malik,12:00,3,,,62 - 49,0,N/A,N/A,N/A
+2,Team,SUBSTITUTION,Morris Monte,12:00,3,,,62 - 49,0,N/A,N/A,N/A
+3,Team,FG_ASSISTED,Mikal Bridges,11:49,3,,,62 - 51,1,9,2,Jumper
+4,Team,FG_UNASSISTED,None,11:32,3,,,64 - 51,0,8,2,Jumper
+5,Team,FG_ASSISTED,Devin Booker,11:19,3,,,64 - 54,1,25,3,Jumper
+6,Team,FG_ASSISTED,Jamal Murray,10:59,3,,,66 - 54,0,6,2,Jumper
+7,Team,FG_ASSISTED,De'Anthony Melton,10:44,3,,,66 - 56,1,15,2,Jumper
+8,Team,FG_ASSISTED,Nikola Jokic,10:22,3,,,68 - 56,0,0,2,Layup
+9,Team,FG_MISS,None,10:13,3,,,68 - 56,1,26,3,Jumper
+10,Team,DEFENSIVE_REBOUND,None,10:10,3,,,68 - 56,0,N/A,N/A,N/A
+11,Team,FG_MISS,None,10:07,3,,,68 - 56,0,26,3,Jumper
+12,Team,OFFENSIVE_REBOUND,None,10:06,3,,,68 - 56,0,N/A,N/A,N/A
+13,Team,FOUL_ON_FLOOR,None,10:06,3,,,68 - 56,1,N/A,N/A,N/A
+14,Team,FT_MISS,None,10:06,3,,,68 - 56,0,N/A,1,N/A
+15,Team,OFFENSIVE_REBOUND,None,10:06,3,,,68 - 56,0,N/A,N/A,N/A
+16,Team,FT,None,10:06,3,,,69 - 56,0,N/A,1,N/A
+17,Team,FG_MISS,None,9:52,3,,,69 - 56,1,27,3,Jumper
+18,Team,DEFENSIVE_REBOUND,None,9:49,3,,,69 - 56,0,N/A,N/A,N/A
+19,Team,FG_UNASSISTED,None,9:34,3,,,72 - 56,0,26,2,Jumper
+20,Team,FG_ASSISTED,Devin Booker,9:13,3,,,72 - 58,1,0,2,Layup
+21,Team,FG_ASSISTED,Nikola Jokic,8:58,3,,,74 - 58,0,0,2,Layup
+22,Team,FG_MISS,None,8:51,3,,,74 - 58,1,25,3,Jumper
+23,Team,DEFENSIVE_REBOUND,None,8:48,3,,,74 - 58,0,N/A,N/A,N/A
+24,Team,TURNOVER,T.J. Warren,8:43,3,,,74 - 58,0,N/A,N/A,N/A
+25,Team,FG_MISS,None,8:32,3,,,74 - 58,1,14,2,Jumper
+26,Team,DEFENSIVE_REBOUND,None,8:30,3,,,74 - 58,0,N/A,N/A,N/A
+27,Team,FG_ASSISTED,Juan Hernangomez,8:15,3,,,77 - 58,0,23,3,Jumper
+28,Team,Unknown,None,8:15,3,,,74 - 58,1,N/A,N/A,N/A
+29,Team,SUBSTITUTION,Melton De'Anthony,8:15,3,,,77 - 58,1,N/A,N/A,N/A
+30,Team,SUBSTITUTION,Ayton Deandre,8:15,3,,,77 - 58,1,N/A,N/A,N/A
+31,Team,FG_MISS,Jamal Murray,7:56,3,,,77 - 58,1,0,2,Layup
+32,Team,DEFENSIVE_REBOUND,None,7:56,3,,,77 - 58,0,N/A,N/A,N/A
+33,Team,FOUL_ON_FLOOR,None,7:56,3,,,77 - 58,1,N/A,N/A,N/A
+34,Team,FG_ASSISTED,Mason Plumlee,7:36,3,,,79 - 58,0,0,2,Layup
+35,Team,FG_MISS,None,7:14,3,,,79 - 58,1,15,2,Jumper
+36,Team,OFFENSIVE_REBOUND,None,7:12,3,,,79 - 58,1,N/A,N/A,N/A
+37,Team,FG_UNASSISTED,None,7:12,3,,,79 - 60,1,11,2,Jumper
+38,Team,FG_MISS,None,6:42,3,,,79 - 60,0,22,2,Jumper
+39,Team,OFFENSIVE_REBOUND,None,6:40,3,,,79 - 60,0,N/A,N/A,N/A
+40,Team,FG_MISS,None,6:33,3,,,79 - 60,0,24,3,Jumper
+41,Team,OFFENSIVE_REBOUND,None,6:30,3,,,79 - 60,0,N/A,N/A,N/A
+42,Team,FG_ASSISTED,Jamal Murray,6:19,3,,,82 - 60,0,26,3,Jumper
+43,Team,FOUL_ON_FLOOR,None,5:58,3,,,82 - 60,0,N/A,N/A,N/A
+44,Team,SUBSTITUTION,Plumlee Mason,5:58,3,,,82 - 60,0,N/A,N/A,N/A
+45,Team,TURNOVER,Torrey Craig,5:56,3,,,82 - 60,1,N/A,N/A,N/A
+46,Team,FOUL_FLAGRANT_1,None,5:55,3,,,82 - 60,1,N/A,N/A,N/A
+47,Team,FT_MISS,None,5:55,3,,,82 - 60,0,N/A,1,N/A
+48,Team,OFFENSIVE_REBOUND,None,5:55,3,,,82 - 60,0,N/A,N/A,N/A
+49,Team,FT,None,5:55,3,,,83 - 60,0,N/A,1,N/A
+50,Team,FOUL_ON_FLOOR,None,5:41,3,,,83 - 60,1,N/A,N/A,N/A
+51,Team,TURNOVER,T.J. Warren,5:36,3,,,83 - 60,0,N/A,N/A,N/A
+52,Team,FG_UNASSISTED,None,5:29,3,,,83 - 62,1,4,2,Jumper
+53,Team,FOUL_ON_FLOOR,None,5:22,3,,,83 - 62,1,N/A,N/A,N/A
+54,Team,FT,None,5:22,3,,,84 - 62,0,N/A,1,N/A
+55,Team,SUBSTITUTION,Bridges Mikal,5:22,3,,,84 - 62,1,N/A,N/A,N/A
+56,Team,SUBSTITUTION,Murray Jamal,5:22,3,,,84 - 62,0,N/A,N/A,N/A
+57,Team,FT,None,5:22,3,,,85 - 62,0,N/A,1,N/A
+58,Team,FOUL_ON_FLOOR,None,5:13,3,,,85 - 62,0,N/A,N/A,N/A
+59,Team,SUBSTITUTION,Craig Torrey,5:13,3,,,85 - 62,0,N/A,N/A,N/A
+60,Team,FG_MISS,None,5:05,3,,,85 - 62,1,27,3,Jumper
+61,Team,DEFENSIVE_REBOUND,None,5:02,3,,,85 - 62,0,N/A,N/A,N/A
+62,Team,FG_MISS,None,4:41,3,,,85 - 62,0,22,3,Jumper
+63,Team,DEFENSIVE_REBOUND,None,4:39,3,,,85 - 62,1,N/A,N/A,N/A
+64,Team,FG_ASSISTED,Richaun Holmes,4:20,3,,,85 - 64,1,20,2,Jumper
+65,Team,TURNOVER,None,3:57,3,,,85 - 64,0,N/A,N/A,N/A
+66,Team,FG_MISS,None,3:44,3,,,85 - 64,1,19,2,Jumper
+67,Team,OFFENSIVE_REBOUND,None,3:42,3,,,85 - 64,1,N/A,N/A,N/A
+68,Team,FG_ASSISTED,Richaun Holmes,3:38,3,,,85 - 66,1,6,2,Jumper
+69,Team,TURNOVER,Devin Booker,3:27,3,,,85 - 66,0,N/A,N/A,N/A
+70,Team,FG_ASSISTED,Elie Okobo,3:23,3,,,85 - 68,1, ,2,Jumper
+71,Team,Unknown,None,3:23,3,,,85 - 68,0,N/A,N/A,N/A
+72,Team,SUBSTITUTION,Booker Devin,3:23,3,,,85 - 68,1,N/A,N/A,N/A
+73,Team,SUBSTITUTION,Holmes Richaun,3:23,3,,,85 - 68,1,N/A,N/A,N/A
+74,Team,SUBSTITUTION,Jokic Nikola,3:23,3,,,85 - 68,0,N/A,N/A,N/A
+75,Team,TURNOVER,T.J. Warren,3:06,3,,,85 - 68,0,N/A,N/A,N/A
+76,Team,FOUL_ON_FLOOR,None,3:04,3,,,85 - 68,0,N/A,N/A,N/A
+77,Team,FT,None,3:04,3,,,85 - 69,1,N/A,1,N/A
+78,Team,SUBSTITUTION,Hernangomez Juan,3:04,3,,,85 - 69,0,N/A,N/A,N/A
+79,Team,FT_MISS,None,3:04,3,,,85 - 69,1,N/A,1,N/A
+80,Team,DEFENSIVE_REBOUND,None,3:02,3,,,85 - 69,0,N/A,N/A,N/A
+81,Team,FG_ASSISTED,Trey Lyles,2:50,3,,,88 - 69,0,27,3,Jumper
+82,Team,TURNOVER,Malik Beasley,2:35,3,,,88 - 69,1,N/A,N/A,N/A
+83,Team,FG_MISS,None,2:24,3,,,88 - 69,0,21,2,Jumper
+84,Team,DEFENSIVE_REBOUND,None,2:22,3,,,88 - 69,1,N/A,N/A,N/A
+85,Team,FG_ASSISTED,Kelly Oubre,2:06,3,,,88 - 72,1,25,3,Jumper
+86,Team,FG_MISS,None,1:54,3,,,88 - 72,0,26,3,Jumper
+87,Team,OFFENSIVE_REBOUND,None,1:50,3,,,88 - 72,0,N/A,N/A,N/A
+88,Team,FG_MISS,None,1:43,3,,,88 - 72,0,23,3,Jumper
+89,Team,DEFENSIVE_REBOUND,None,1:41,3,,,88 - 72,1,N/A,N/A,N/A
+90,Team,FG_ASSISTED,Josh Jackson,1:36,3,,,88 - 74,1,0,2,Dunk
+91,Team,FG_UNASSISTED,None,1:17,3,,,90 - 74,0,10,2,Jumper
+92,Team,FG_ASSISTED,Elie Okobo,58.8,3,,,90 - 76,1, ,2,Jumper
+93,Team,FG_MISS,None,39.2,3,,,90 - 76,0,27,2,Jumper
+94,Team,DEFENSIVE_REBOUND,None,35.7,3,,,90 - 76,1,N/A,N/A,N/A
+95,Team,FG_UNASSISTED,None,19.4,3,,,90 - 78,1,4,2,Jumper
+96,Team,FG_MISS,None,2.8,3,,,90 - 78,0, ,2,Jumper
+97,Team,DEFENSIVE_REBOUND,None,2.8,3,,,90 - 78,1,N/A,N/A,N/A
+98,Team,Unknown,None,0.0,3,,,90 - 78,1,N/A,N/A,N/A
+0,Team,SUBSTITUTION,Warren T.J.,12:00,4,,,90 - 78,1,N/A,N/A,N/A
+1,Team,SUBSTITUTION,Lyles Trey,12:00,4,,,90 - 78,0,N/A,N/A,N/A
+2,Team,FOUL_ON_FLOOR,None,11:43,4,,,90 - 78,1,N/A,N/A,N/A
+3,Team,FG_MISS,Josh Jackson,11:38,4,,,90 - 78,0,0,2,Layup
+4,Team,DEFENSIVE_REBOUND,None,11:33,4,,,90 - 78,1,N/A,N/A,N/A
+5,Team,FG_MISS,Paul Millsap,11:30,4,,,90 - 78,1,4,2,Jumper
+6,Team,DEFENSIVE_REBOUND,None,11:28,4,,,90 - 78,0,N/A,N/A,N/A
+7,Team,FG_ASSISTED,Monte Morris,11:24,4,,,93 - 78,0,26,2,Jumper
+8,Team,FG_MISS,None,10:56,4,,,93 - 78,1,8,2,Jumper
+9,Team,DEFENSIVE_REBOUND,None,10:54,4,,,93 - 78,0,N/A,N/A,N/A
+10,Team,FG_MISS,Kelly Oubre,10:51,4,,,93 - 78,0,2,2,Jumper
+11,Team,OFFENSIVE_REBOUND,None,10:51,4,,,93 - 78,0,N/A,N/A,N/A
+12,Team,FG_ASSISTED,Nikola Jokic,10:47,4,,,95 - 78,0,0,2,Layup
+13,Team,TURNOVER,Nikola Jokic,10:26,4,,,95 - 78,1,N/A,N/A,N/A
+14,Team,FG_UNASSISTED,None,10:15,4,,,97 - 78,0,0,2,Layup
+15,Team,Unknown,None,10:15,4,,,97 - 78,1,N/A,N/A,N/A
+16,Team,SUBSTITUTION,Okobo Elie,10:15,4,,,97 - 78,1,N/A,N/A,N/A
+17,Team,SUBSTITUTION,Oubre Kelly,10:15,4,,,97 - 78,1,N/A,N/A,N/A
+18,Team,SUBSTITUTION,Jackson Josh,10:15,4,,,97 - 78,1,N/A,N/A,N/A
+19,Team,TURNOVER,None,9:57,4,,,97 - 78,1,N/A,N/A,N/A
+20,Team,FG_ASSISTED,Nikola Jokic,9:43,4,,,100 - 78,0,24,3,Jumper
+21,Team,FOUL_ON_FLOOR,None,9:30,4,,,100 - 78,0,N/A,N/A,N/A
+22,Team,FG_MISS,None,9:17,4,,,100 - 78,1,14,2,Jumper
+23,Team,DEFENSIVE_REBOUND,None,9:14,4,,,100 - 78,0,N/A,N/A,N/A
+24,Team,TURNOVER,T.J. Warren,9:09,4,,,100 - 78,0,N/A,N/A,N/A
+25,Team,FG_ASSISTED,Devin Booker,9:04,4,,,100 - 81,1,24,3,Jumper
+26,Team,TURNOVER,Deandre Ayton,8:35,4,,,100 - 81,0,N/A,N/A,N/A
+27,Team,FG_ASSISTED,Devin Booker,8:32,4,,,100 - 83,1, ,2,Jumper
+28,Team,Unknown,None,8:31,4,,,100 - 83,0,N/A,N/A,N/A
+29,Team,TURNOVER,None,8:08,4,,,100 - 83,0,N/A,N/A,N/A
+30,Team,FG_ASSISTED,T.J. Warren,7:54,4,,,100 - 86,1,25,3,Jumper
+31,Team,FOUL_ON_FLOOR,None,7:42,4,,,100 - 86,1,N/A,N/A,N/A
+32,Team,SUBSTITUTION,Millsap Paul,7:42,4,,,100 - 86,0,N/A,N/A,N/A
+33,Team,FG_UNASSISTED,None,7:31,4,,,102 - 86,0,0,2,Layup
+34,Team,FG_MISS,None,7:18,4,,,102 - 86,1, ,2,Jumper
+35,Team,OFFENSIVE_REBOUND,None,7:16,4,,,102 - 86,1,N/A,N/A,N/A
+36,Team,FG_ASSISTED,De'Anthony Melton,7:07,4,,,102 - 88,1,9,2,Jumper
+37,Team,FG_ASSISTED,Nikola Jokic,6:55,4,,,104 - 88,0,0,2,Layup
+38,Team,FOUL_ON_FLOOR,None,6:44,4,,,104 - 88,0,N/A,N/A,N/A
+39,Team,FG_UNASSISTED,None,6:37,4,,,104 - 90,1,0,2,Layup
+40,Team,FG_MISS,None,6:16,4,,,104 - 90,0,17,2,Jumper
+41,Team,DEFENSIVE_REBOUND,None,6:14,4,,,104 - 90,1,N/A,N/A,N/A
+42,Team,SUBSTITUTION,Beasley Malik,6:08,4,,,104 - 90,0,N/A,N/A,N/A
+43,Team,FOUL_ON_FLOOR,None,5:56,4,,,104 - 90,0,N/A,N/A,N/A
+44,Team,FT,None,5:56,4,,,104 - 91,1,N/A,1,N/A
+45,Team,FT,None,5:56,4,,,104 - 92,1,N/A,1,N/A
+46,Team,FG_UNASSISTED,None,5:42,4,,,106 - 92,0, ,2,Jumper
+47,Team,FOUL_ON_FLOOR,None,5:31,4,,,106 - 92,0,N/A,N/A,N/A
+48,Team,FG_UNASSISTED,None,5:25,4,,,106 - 94,1,0,2,Dunk
+49,Team,FG_UNASSISTED,None,5:12,4,,,109 - 94,0,27,3,Jumper
+50,Team,FG_ASSISTED,Devin Booker,4:50,4,,,109 - 96,1, ,2,Jumper
+51,Team,TURNOVER,Deandre Ayton,4:36,4,,,109 - 96,0,N/A,N/A,N/A
+52,Team,FG_UNASSISTED,None,4:22,4,,,109 - 98,1, ,2,Jumper
+53,Team,FOUL_ON_FLOOR,None,4:03,4,,,109 - 98,1,N/A,N/A,N/A
+54,Team,FT,None,4:03,4,,,110 - 98,0,N/A,1,N/A
+55,Team,FT,None,4:03,4,,,111 - 98,0,N/A,1,N/A
+56,Team,Unknown,None,3:59,4,,,111 - 98,1,N/A,N/A,N/A
+57,Team,FG_MISS,None,3:52,4,,,111 - 98,1,0,2,Layup
+58,Team,OFFENSIVE_REBOUND,None,3:51,4,,,111 - 98,1,N/A,N/A,N/A
+59,Team,FG_UNASSISTED,None,3:51,4,,,111 - 100,1,0,2,Dunk
+60,Team,FOUL_ON_FLOOR,None,3:40,4,,,111 - 100,1,N/A,N/A,N/A
+61,Team,FG_MISS,None,3:27,4,,,111 - 100,0,18,2,Jumper
+62,Team,DEFENSIVE_REBOUND,None,3:24,4,,,111 - 100,1,N/A,N/A,N/A
+63,Team,FOUL_ON_FLOOR,None,3:19,4,,,111 - 100,0,N/A,N/A,N/A
+64,Team,SUBSTITUTION,Craig Torrey,3:19,4,,,111 - 100,0,N/A,N/A,N/A
+65,Team,FT,None,3:19,4,,,111 - 101,1,N/A,1,N/A
+66,Team,FT,None,3:19,4,,,111 - 102,1,N/A,1,N/A
+67,Team,FOUL_ON_FLOOR,None,3:13,4,,,111 - 102,0,N/A,N/A,N/A
+68,Team,TURNOVER,None,3:13,4,,,111 - 102,0,N/A,N/A,N/A
+69,Team,FG_UNASSISTED,None,3:06,4,,,111 - 104,1,0,2,Dunk
+70,Team,Unknown,None,3:05,4,,,111 - 104,0,N/A,N/A,N/A
+71,Team,FG_UNASSISTED,None,2:44,4,,,113 - 104,0,6,2,Jumper
+72,Team,FG_UNASSISTED,None,2:25,4,,,113 - 107,1,23,3,Jumper
+73,Team,FG_MISS,None,2:00,4,,,113 - 107,0,1,3,Jumper
+74,Team,DEFENSIVE_REBOUND,None,1:57,4,,,113 - 107,1,N/A,N/A,N/A
+75,Team,FG_ASSISTED,Devin Booker,1:51,4,,,113 - 110,1,22,3,Jumper
+76,Team,FOUL_ON_FLOOR,None,1:34,4,,,113 - 110,1,N/A,N/A,N/A
+77,Team,FT,None,1:34,4,,,114 - 110,0,N/A,1,N/A
+78,Team,FT,None,1:34,4,,,115 - 110,0,N/A,1,N/A
+79,Team,FG_MISS,None,1:19,4,,,115 - 110,1,1,2,Jumper
+80,Team,DEFENSIVE_REBOUND,None,1:18,4,,,115 - 110,0,N/A,N/A,N/A
+81,Team,FG_ASSISTED,Jamal Murray,1:03,4,,,117 - 110,0,9,2,Jumper
+82,Team,FG_MISS,None,52.1,4,,,117 - 110,1,27,3,Jumper
+83,Team,DEFENSIVE_REBOUND,None,49.8,4,,,117 - 110,0,N/A,N/A,N/A
+84,Team,TURNOVER,De'Anthony Melton,36.0,4,,,117 - 110,0,N/A,N/A,N/A
+85,Team,FG_ASSISTED,Devin Booker,30.4,4,,,117 - 113,1,1,3,Jumper
+86,Team,FOUL_ON_FLOOR,None,25.6,4,,,117 - 113,1,N/A,N/A,N/A
+87,Team,FT,None,25.6,4,,,118 - 113,0,N/A,1,N/A
+88,Team,SUBSTITUTION,Melton De'Anthony,25.6,4,,,118 - 113,1,N/A,N/A,N/A
+89,Team,FT_MISS,None,25.6,4,,,118 - 113,0,N/A,1,N/A
+90,Team,OFFENSIVE_REBOUND,None,24.3,4,,,118 - 113,0,N/A,N/A,N/A
+91,Team,FOUL_ON_FLOOR,None,14.8,4,,,118 - 113,1,N/A,N/A,N/A
+92,Team,FT,None,14.8,4,,,119 - 113,0,N/A,1,N/A
+93,Team,FT,None,14.8,4,,,120 - 113,0,N/A,1,N/A
+94,Team,Unknown,None,14.8,4,,,120 - 113,1,N/A,N/A,N/A
+95,Team,SUBSTITUTION,Holmes Richaun,14.8,4,,,120 - 113,1,N/A,N/A,N/A
+96,Team,SUBSTITUTION,Jokic Nikola,14.8,4,,,120 - 113,0,N/A,N/A,N/A
+97,Team,FG_MISS,None,12.3,4,,,120 - 113,1,23,3,Jumper
+98,Team,OFFENSIVE_REBOUND,None,10.4,4,,,120 - 113,1,N/A,N/A,N/A
+99,Team,FG_UNASSISTED,None,9.5,4,,,120 - 115,1,1,2,Jumper
+100,Team,FOUL_ON_FLOOR,None,9.5,4,,,120 - 115,0,N/A,N/A,N/A
+101,Team,SUBSTITUTION,for game,9.5,4,,,120 - 115,0,N/A,N/A,N/A
+102,Team,SUBSTITUTION,Morris Monte,9.5,4,,,120 - 115,0,N/A,N/A,N/A
+103,Team,FT_MISS,None,9.5,4,,,120 - 115,1,N/A,1,N/A
+104,Team,DEFENSIVE_REBOUND,None,7.1,4,,,120 - 115,0,N/A,N/A,N/A
+105,Team,FOUL_ON_FLOOR,None,7.1,4,,,120 - 115,1,N/A,N/A,N/A
+106,Team,FT_MISS,None,7.1,4,,,120 - 115,0,N/A,1,N/A
+107,Team,OFFENSIVE_REBOUND,None,7.1,4,,,120 - 115,0,N/A,N/A,N/A
+108,Team,SUBSTITUTION,Jokic Nikola,7.1,4,,,120 - 115,0,N/A,N/A,N/A
+109,Team,FT,None,7.1,4,,,121 - 115,0,N/A,1,N/A
+110,Team,Unknown,None,7.1,4,,,121 - 115,1,N/A,N/A,N/A
+111,Team,FG_ASSISTED,T.J. Warren,1.9,4,,,121 - 118,1,26,3,Jumper
+112,Team,FOUL_ON_FLOOR,None,0.9,4,,,121 - 118,1,N/A,N/A,N/A
+113,Team,FT_MISS,None,0.9,4,,,121 - 118,0,N/A,1,N/A
+114,Team,OFFENSIVE_REBOUND,None,0.9,4,,,121 - 118,0,N/A,N/A,N/A
+115,Team,SUBSTITUTION,Beasley Malik,0.9,4,,,121 - 118,0,N/A,N/A,N/A
+116,Team,FT,None,0.9,4,,,122 - 118,0,N/A,1,N/A
+117,Team,TURNOVER,Nikola Jokic,0.2,4,,,122 - 118,1,N/A,N/A,N/A
+118,Team,Unknown,None,0.0,4,,,122 - 118,1,N/A,N/A,N/A
+119,Team,Unknown,None,0.0,4,,,122 - 118,1,N/A,N/A,N/A

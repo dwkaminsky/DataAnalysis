@@ -1,0 +1,429 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,DeAndre Jordan,JUMP_BALL,None,12:00,1,Mavericks,Knicks,0 - 0,0,N/A,N/A,N/A
+1,DeAndre Jordan,FG_ASSISTED,Luka Doncic,11:45,1,Mavericks,Knicks,2 - 0,0,4,3,Jumper
+2,Tim Hardaway,FG_ASSISTED,Kevin Knox,11:29,1,Knicks,Mavericks,2 - 3,1,25,3,Jumper
+3,Luka Doncic,FG_MISS,None,11:19,1,Mavericks,Knicks,2 - 3,0,26,3,Jumper
+4,Team,DEFENSIVE_REBOUND,None,11:18,1,Knicks,Mavericks,2 - 3,1,N/A,N/A,N/A
+5,Kevin Knox,FG_MISS,None,11:08,1,Knicks,Mavericks,2 - 3,1,21,3,Jumper
+6,Luka Doncic,DEFENSIVE_REBOUND,None,11:06,1,Mavericks,Knicks,2 - 3,0,N/A,N/A,N/A
+7,Luka Doncic,FG_UNASSISTED,None,11:00,1,Mavericks,Knicks,4 - 3,0,15,3,Jumper
+8,Trey Burke,FG_MISS,None,10:41,1,Knicks,Mavericks,4 - 3,1,-,3,Jumper
+9,Dennis Smith,DEFENSIVE_REBOUND,None,10:39,1,Mavericks,Knicks,4 - 3,0,N/A,N/A,N/A
+10,Wesley Matthews,FG_ASSISTED,Dennis Smith,10:33,1,Mavericks,Knicks,7 - 3,0,-,3,Jumper
+11,Lance Thomas,FG_MISS,None,10:20,1,Knicks,Mavericks,7 - 3,1,24,3,Jumper
+12,DeAndre Jordan,DEFENSIVE_REBOUND,None,10:18,1,Mavericks,Knicks,7 - 3,0,N/A,N/A,N/A
+13,Harrison Barnes,FG_MISS,None,10:09,1,Mavericks,Knicks,7 - 3,0,20,3,Jumper
+14,Noah Vonleh,DEFENSIVE_REBOUND,None,10:07,1,Knicks,Mavericks,7 - 3,1,N/A,N/A,N/A
+15,Noah Vonleh,FG_MISS,None,9:59,1,Knicks,Mavericks,7 - 3,1,0,2,Layup
+16,Dennis Smith,DEFENSIVE_REBOUND,None,9:57,1,Mavericks,Knicks,7 - 3,0,N/A,N/A,N/A
+17,Dennis Smith,FG_MISS,None,9:45,1,Mavericks,Knicks,7 - 3,0,27,3,Jumper
+18,Tim Hardaway,DEFENSIVE_REBOUND,None,9:43,1,Knicks,Mavericks,7 - 3,1,N/A,N/A,N/A
+19,Kevin Knox,FG_MISS,None,9:37,1,Knicks,Mavericks,7 - 3,1,26,3,Jumper
+20,Team,DEFENSIVE_REBOUND,None,9:36,1,Mavericks,Knicks,7 - 3,0,N/A,N/A,N/A
+21,Luka Doncic,FG_UNASSISTED,None,9:24,1,Mavericks,Knicks,9 - 3,0,0,2,Dunk
+22,Team,Unknown,None,9:17,1,Knicks,Mavericks,9 - 3,1,N/A,N/A,N/A
+23,Kevin Knox,FG_MISS,None,9:04,1,Knicks,Mavericks,9 - 3,1,22,3,Jumper
+24,Noah Vonleh,OFFENSIVE_REBOUND,None,9:02,1,Knicks,Mavericks,9 - 3,1,N/A,N/A,N/A
+25,Noah Vonleh,FG_UNASSISTED,None,9:00,1,Knicks,Mavericks,9 - 5,1,0,2,Dunk
+26,Luka Doncic,FG_MISS,None,8:32,1,Mavericks,Knicks,9 - 5,0,4,3,Jumper
+27,Noah Vonleh,DEFENSIVE_REBOUND,None,8:30,1,Knicks,Mavericks,9 - 5,1,N/A,N/A,N/A
+28,Kevin Knox,FG_MISS,None,8:23,1,Knicks,Mavericks,9 - 5,1,26,3,Jumper
+29,Harrison Barnes,DEFENSIVE_REBOUND,None,8:21,1,Mavericks,Knicks,9 - 5,0,N/A,N/A,N/A
+30,Harrison Barnes,TURNOVER,None,8:09,1,Mavericks,Knicks,9 - 5,0,N/A,N/A,N/A
+31,Tim Hardaway,FG_MISS,None,7:59,1,Knicks,Mavericks,9 - 5,1,26,3,Jumper
+32,DeAndre Jordan,DEFENSIVE_REBOUND,None,7:57,1,Mavericks,Knicks,9 - 5,0,N/A,N/A,N/A
+33,Dennis Smith,FG_UNASSISTED,None,7:43,1,Mavericks,Knicks,11 - 5,0,-,3,Jumper
+34,Trey Burke,FG_UNASSISTED,None,7:32,1,Knicks,Mavericks,11 - 7,1,13,3,Jumper
+35,Wesley Matthews,FG_ASSISTED,Dennis Smith,7:09,1,Mavericks,Knicks,14 - 7,0,24,3,Jumper
+36,Trey Burke,FG_UNASSISTED,None,6:59,1,Knicks,Mavericks,14 - 9,1,1,3,Jumper
+37,Dennis Smith,TURNOVER,None,6:44,1,Mavericks,Knicks,14 - 9,0,N/A,N/A,N/A
+38,Lance Thomas,FG_ASSISTED,Noah Vonleh,6:33,1,Knicks,Mavericks,14 - 11,1,0,2,Dunk
+39,Dennis Smith,TURNOVER,Tim Hardaway,6:17,1,Mavericks,Knicks,14 - 11,0,N/A,N/A,N/A
+40,Tim Hardaway,FG_MISS,None,6:11,1,Knicks,Mavericks,14 - 11,1,25,3,Jumper
+41,DeAndre Jordan,DEFENSIVE_REBOUND,None,6:09,1,Mavericks,Knicks,14 - 11,0,N/A,N/A,N/A
+42,Harrison Barnes,FG_MISS,None,5:59,1,Mavericks,Knicks,14 - 11,0,23,3,Jumper
+43,Kevin Knox,DEFENSIVE_REBOUND,None,5:57,1,Knicks,Mavericks,14 - 11,1,N/A,N/A,N/A
+44,Team,Unknown,None,5:50,1,Knicks,Mavericks,14 - 11,1,N/A,N/A,N/A
+45,Mitchell Robinson,SUBSTITUTION,Vonleh Noah,5:50,1,Knicks,Mavericks,14 - 11,1,N/A,N/A,N/A
+46,Dorian Finney-Smith,SUBSTITUTION,Doncic Luka,5:50,1,Mavericks,Knicks,14 - 11,0,N/A,N/A,N/A
+47,Tim Hardaway,TURNOVER,Dorian Finney-Smith,5:40,1,Knicks,Mavericks,14 - 11,1,N/A,N/A,N/A
+48,Wesley Matthews,FG_MISS,None,5:34,1,Mavericks,Knicks,14 - 11,0,26,3,Jumper
+49,Tim Hardaway,DEFENSIVE_REBOUND,None,5:32,1,Knicks,Mavericks,14 - 11,1,N/A,N/A,N/A
+50,Dorian Finney-Smith,FOUL_ON_FLOOR,None,5:24,1,Mavericks,Knicks,14 - 11,0,N/A,N/A,N/A
+51,Mitchell Robinson,FT_MISS,None,5:24,1,Knicks,Mavericks,14 - 11,1,N/A,1,N/A
+52,Team,OFFENSIVE_REBOUND,None,5:24,1,Knicks,Mavericks,14 - 11,1,N/A,N/A,N/A
+53,Mitchell Robinson,FT_MISS,None,5:24,1,Knicks,Mavericks,14 - 11,1,N/A,1,N/A
+54,Dorian Finney-Smith,DEFENSIVE_REBOUND,None,5:22,1,Mavericks,Knicks,14 - 11,0,N/A,N/A,N/A
+55,Harrison Barnes,FG_ASSISTED,Wesley Matthews,5:09,1,Mavericks,Knicks,17 - 11,0,26,3,Jumper
+56,Tim Hardaway,FG_MISS,None,4:51,1,Knicks,Mavericks,17 - 11,1,19,3,Jumper
+57,Wesley Matthews,DEFENSIVE_REBOUND,None,4:49,1,Mavericks,Knicks,17 - 11,0,N/A,N/A,N/A
+58,Mitchell Robinson,FOUL_ON_FLOOR,None,4:38,1,Knicks,Mavericks,17 - 11,1,N/A,N/A,N/A
+59,Harrison Barnes,FT,None,4:38,1,Mavericks,Knicks,18 - 11,0,N/A,1,N/A
+60,Damyean Dotson,SUBSTITUTION,Hardaway Tim,4:38,1,Knicks,Mavericks,18 - 11,1,N/A,N/A,N/A
+61,Allonzo Trier,SUBSTITUTION,Knox Kevin,4:38,1,Knicks,Mavericks,18 - 11,1,N/A,N/A,N/A
+62,Harrison Barnes,FT,None,4:38,1,Mavericks,Knicks,19 - 11,0,N/A,1,N/A
+63,Trey Burke,FG_UNASSISTED,None,4:18,1,Knicks,Mavericks,19 - 13,1,19,3,Jumper
+64,Wesley Matthews,FG_MISS,None,3:56,1,Mavericks,Knicks,19 - 13,0,12,3,Jumper
+65,Team,OFFENSIVE_REBOUND,None,3:54,1,Mavericks,Knicks,19 - 13,0,N/A,N/A,N/A
+66,Harrison Barnes,FG_MISS,None,3:47,1,Mavericks,Knicks,19 - 13,0,23,3,Jumper
+67,Mitchell Robinson,DEFENSIVE_REBOUND,None,3:45,1,Knicks,Mavericks,19 - 13,1,N/A,N/A,N/A
+68,Lance Thomas,FG_MISS,None,3:32,1,Knicks,Mavericks,19 - 13,1,0,2,Dunk
+69,DeAndre Jordan,DEFENSIVE_REBOUND,None,3:30,1,Mavericks,Knicks,19 - 13,0,N/A,N/A,N/A
+70,Dennis Smith,FG_UNASSISTED,None,3:19,1,Mavericks,Knicks,21 - 13,0,0,2,Layup
+71,Mitchell Robinson,Unknown,None,3:19,1,Knicks,Mavericks,21 - 13,1,N/A,N/A,N/A
+72,Lance Thomas,FG_ASSISTED,Trey Burke,3:05,1,Knicks,Mavericks,21 - 16,1,23,3,Jumper
+73,Dennis Smith,FG_MISS,None,2:39,1,Mavericks,Knicks,21 - 16,0,23,3,Jumper
+74,Mitchell Robinson,DEFENSIVE_REBOUND,None,2:37,1,Knicks,Mavericks,21 - 16,1,N/A,N/A,N/A
+75,Trey Burke,FG_UNASSISTED,None,2:33,1,Knicks,Mavericks,21 - 18,1,0,2,Layup
+76,Dennis Smith,FOUL_ON_FLOOR,None,2:33,1,Mavericks,Knicks,21 - 18,0,N/A,N/A,N/A
+77,Mario Hezonja,SUBSTITUTION,Thomas Lance,2:33,1,Knicks,Mavericks,21 - 18,1,N/A,N/A,N/A
+78,Maximilian Kleber,SUBSTITUTION,Barnes Harrison,2:33,1,Mavericks,Knicks,21 - 18,0,N/A,N/A,N/A
+79,Devin Harris,SUBSTITUTION,Matthews Wesley,2:33,1,Mavericks,Knicks,21 - 18,0,N/A,N/A,N/A
+80,Dirk Nowitzki,SUBSTITUTION,Jordan DeAndre,2:33,1,Mavericks,Knicks,21 - 18,0,N/A,N/A,N/A
+81,Luka Doncic,SUBSTITUTION,Smith Dennis,2:33,1,Mavericks,Knicks,21 - 18,0,N/A,N/A,N/A
+82,Trey Burke,FT_MISS,None,2:33,1,Knicks,Mavericks,21 - 18,1,N/A,1,N/A
+83,Maximilian Kleber,DEFENSIVE_REBOUND,None,2:31,1,Mavericks,Knicks,21 - 18,0,N/A,N/A,N/A
+84,Devin Harris,FG_MISS,None,2:14,1,Mavericks,Knicks,21 - 18,0,26,3,Jumper
+85,Trey Burke,DEFENSIVE_REBOUND,None,2:12,1,Knicks,Mavericks,21 - 18,1,N/A,N/A,N/A
+86,Allonzo Trier,FG_MISS,None,1:58,1,Knicks,Mavericks,21 - 18,1, ,3,Jumper
+87,Dorian Finney-Smith,DEFENSIVE_REBOUND,None,1:56,1,Mavericks,Knicks,21 - 18,0,N/A,N/A,N/A
+88,Damyean Dotson,FOUL_ON_FLOOR,None,1:54,1,Knicks,Mavericks,21 - 18,1,N/A,N/A,N/A
+89,Kadeem Allen,SUBSTITUTION,Burke Trey,1:54,1,Knicks,Mavericks,21 - 18,1,N/A,N/A,N/A
+90,Dorian Finney-Smith,FG_ASSISTED,Luka Doncic,1:46,1,Mavericks,Knicks,24 - 18,0,24,3,Jumper
+91,Allonzo Trier,TURNOVER,None,1:30,1,Knicks,Mavericks,24 - 18,1,N/A,N/A,N/A
+92,Luka Doncic,FG_MISS,None,1:23,1,Mavericks,Knicks,24 - 18,0,25,3,Jumper
+93,Allonzo Trier,DEFENSIVE_REBOUND,None,1:21,1,Knicks,Mavericks,24 - 18,1,N/A,N/A,N/A
+94,Luka Doncic,FOUL_ON_FLOOR,None,1:14,1,Mavericks,Knicks,24 - 18,0,N/A,N/A,N/A
+95,Mitchell Robinson,FT_MISS,None,1:14,1,Knicks,Mavericks,24 - 18,1,N/A,1,N/A
+96,Team,OFFENSIVE_REBOUND,None,1:14,1,Knicks,Mavericks,24 - 18,1,N/A,N/A,N/A
+97,Mitchell Robinson,FT_MISS,None,1:14,1,Knicks,Mavericks,24 - 18,1,N/A,1,N/A
+98,Maximilian Kleber,DEFENSIVE_REBOUND,None,1:12,1,Mavericks,Knicks,24 - 18,0,N/A,N/A,N/A
+99,Luka Doncic,FG_MISS,Mitchell Robinson,58.3,1,Knicks,Mavericks,24 - 18,0,26,3,Jumper
+100,Allonzo Trier,DEFENSIVE_REBOUND,None,56.2,1,Knicks,Mavericks,24 - 18,1,N/A,N/A,N/A
+101,Mitchell Robinson,TURNOVER,None,47.4,1,Knicks,Mavericks,24 - 18,1,N/A,N/A,N/A
+102,Luka Doncic,FG_MISS,None,27.3,1,Mavericks,Knicks,24 - 18,0,21,3,Jumper
+103,Allonzo Trier,DEFENSIVE_REBOUND,None,25.4,1,Knicks,Mavericks,24 - 18,1,N/A,N/A,N/A
+104,Dorian Finney-Smith,FOUL_ON_FLOOR,None,24.4,1,Mavericks,Knicks,24 - 18,0,N/A,N/A,N/A
+105,Allonzo Trier,FT,None,24.4,1,Knicks,Mavericks,24 - 19,1,N/A,1,N/A
+106,Dwight Powell,SUBSTITUTION,Finney-Smith Dorian,24.4,1,Mavericks,Knicks,24 - 19,0,N/A,N/A,N/A
+107,Allonzo Trier,FT,None,24.4,1,Knicks,Mavericks,24 - 20,1,N/A,1,N/A
+108,Luka Doncic,FG_MISS,None,0.2,1,Mavericks,Knicks,24 - 20,0,23,3,Jumper
+109,Team,OFFENSIVE_REBOUND,None,0.2,1,Mavericks,Knicks,24 - 20,0,N/A,N/A,N/A
+110,End of,Unknown,None,0.0,1,Knicks,Mavericks,24 - 20,1,N/A,N/A,N/A
+0,Dwight Powell,FOUL_ON_FLOOR,None,11:49,2,Mavericks,Knicks,24 - 20,0,N/A,N/A,N/A
+1,Mario Hezonja,FT,None,11:49,2,Knicks,Mavericks,24 - 21,1,N/A,1,N/A
+2,Mario Hezonja,FT,None,11:49,2,Knicks,Mavericks,24 - 22,1,N/A,1,N/A
+3,Luka Doncic,FG_MISS,None,11:32,2,Mavericks,Knicks,24 - 22,0,0,2,Layup
+4,Luka Doncic,OFFENSIVE_REBOUND,None,11:30,2,Mavericks,Knicks,24 - 22,0,N/A,N/A,N/A
+5,Luka Doncic,FG_MISS,None,11:30,2,Mavericks,Knicks,24 - 22,0, ,3,Jumper
+6,Damyean Dotson,DEFENSIVE_REBOUND,None,11:28,2,Knicks,Mavericks,24 - 22,1,N/A,N/A,N/A
+7,Allonzo Trier,FG_MISS,None,11:21,2,Knicks,Mavericks,24 - 22,1,23,3,Jumper
+8,Mitchell Robinson,OFFENSIVE_REBOUND,None,11:19,2,Knicks,Mavericks,24 - 22,1,N/A,N/A,N/A
+9,Mitchell Robinson,FG_UNASSISTED,None,11:15,2,Knicks,Mavericks,24 - 24,1,0,2,Layup
+10,Dirk Nowitzki,FG_ASSISTED,Devin Harris,11:02,2,Mavericks,Knicks,27 - 24,0,25,3,Jumper
+11,Allonzo Trier,FG_ASSISTED,Mario Hezonja,10:38,2,Knicks,Mavericks,27 - 26,1,19,3,Jumper
+12,Luka Doncic,FG_UNASSISTED,None,10:27,2,Mavericks,Knicks,29 - 26,0,0,2,Layup
+13,Dirk Nowitzki,FOUL_ON_FLOOR,None,10:18,2,Mavericks,Knicks,29 - 26,0,N/A,N/A,N/A
+14,Devin Harris,FOUL_ON_FLOOR,None,10:05,2,Mavericks,Knicks,29 - 26,0,N/A,N/A,N/A
+15,Allonzo Trier,FT,None,10:05,2,Knicks,Mavericks,29 - 27,1,N/A,1,N/A
+16,Allonzo Trier,FT,None,10:05,2,Knicks,Mavericks,29 - 28,1,N/A,1,N/A
+17,Kadeem Allen,FOUL_ON_FLOOR,None,9:54,2,Knicks,Mavericks,29 - 28,1,N/A,N/A,N/A
+18,Dirk Nowitzki,FT,None,9:54,2,Mavericks,Knicks,30 - 28,0,N/A,1,N/A
+19,Dirk Nowitzki,FT,None,9:54,2,Mavericks,Knicks,31 - 28,0,N/A,1,N/A
+20,Mario Hezonja,FG_MISS,None,9:42,2,Knicks,Mavericks,31 - 28,1,7,3,Jumper
+21,Dwight Powell,DEFENSIVE_REBOUND,None,9:40,2,Mavericks,Knicks,31 - 28,0,N/A,N/A,N/A
+22,Dirk Nowitzki,FG_UNASSISTED,None,9:23,2,Mavericks,Knicks,33 - 28,0,9,3,Jumper
+23,Damyean Dotson,FG_ASSISTED,Allonzo Trier,9:02,2,Knicks,Mavericks,33 - 30,1,0,2,Layup
+24,Damyean Dotson,FOUL_ON_FLOOR,None,8:44,2,Knicks,Mavericks,33 - 30,1,N/A,N/A,N/A
+25,Dirk Nowitzki,FG_UNASSISTED,None,8:34,2,Mavericks,Knicks,35 - 30,0,13,3,Jumper
+26,Allonzo Trier,TURNOVER,None,8:16,2,Knicks,Mavericks,35 - 30,1,N/A,N/A,N/A
+27,Dirk Nowitzki,FG_MISS,None,8:02,2,Mavericks,Knicks,35 - 30,0,23,3,Jumper
+28,Allonzo Trier,DEFENSIVE_REBOUND,None,8:00,2,Knicks,Mavericks,35 - 30,1,N/A,N/A,N/A
+29,Damyean Dotson,FG_MISS,None,7:52,2,Knicks,Mavericks,35 - 30,1,17,3,Jumper
+30,Luka Doncic,DEFENSIVE_REBOUND,None,7:50,2,Mavericks,Knicks,35 - 30,0,N/A,N/A,N/A
+31,Luka Doncic,FG_MISS,None,7:43,2,Mavericks,Knicks,35 - 30,0,26,3,Jumper
+32,Kadeem Allen,DEFENSIVE_REBOUND,None,7:41,2,Knicks,Mavericks,35 - 30,1,N/A,N/A,N/A
+33,Mario Hezonja,FG_ASSISTED,Kadeem Allen,7:35,2,Knicks,Mavericks,35 - 33,1,26,3,Jumper
+34,Team,Unknown,None,7:33,2,Mavericks,Knicks,35 - 33,0,N/A,N/A,N/A
+35,Tim Hardaway,SUBSTITUTION,Robinson Mitchell,7:33,2,Knicks,Mavericks,35 - 33,1,N/A,N/A,N/A
+36,Kevin Knox,SUBSTITUTION,Dotson Damyean,7:33,2,Knicks,Mavericks,35 - 33,1,N/A,N/A,N/A
+37,Noah Vonleh,SUBSTITUTION,Trier Allonzo,7:33,2,Knicks,Mavericks,35 - 33,1,N/A,N/A,N/A
+38,Dorian Finney-Smith,SUBSTITUTION,Kleber Maximilian,7:33,2,Mavericks,Knicks,35 - 33,0,N/A,N/A,N/A
+39,DeAndre Jordan,SUBSTITUTION,Harris Devin,7:33,2,Mavericks,Knicks,35 - 33,0,N/A,N/A,N/A
+40,Wesley Matthews,SUBSTITUTION,Nowitzki Dirk,7:33,2,Mavericks,Knicks,35 - 33,0,N/A,N/A,N/A
+41,Harrison Barnes,SUBSTITUTION,Doncic Luka,7:33,2,Mavericks,Knicks,35 - 33,0,N/A,N/A,N/A
+42,Dennis Smith,SUBSTITUTION,Powell Dwight,7:33,2,Mavericks,Knicks,35 - 33,0,N/A,N/A,N/A
+43,Harrison Barnes,TURNOVER,Mario Hezonja,7:15,2,Mavericks,Knicks,35 - 33,0,N/A,N/A,N/A
+44,Kevin Knox,FG_ASSISTED,Kadeem Allen,7:12,2,Knicks,Mavericks,35 - 35,1,0,2,Layup
+45,Wesley Matthews,FOUL_ON_FLOOR,None,7:12,2,Mavericks,Knicks,35 - 35,0,N/A,N/A,N/A
+46,Kevin Knox,FT,None,7:12,2,Knicks,Mavericks,35 - 36,1,N/A,1,N/A
+47,Kadeem Allen,FOUL_ON_FLOOR,None,6:56,2,Knicks,Mavericks,35 - 36,1,N/A,N/A,N/A
+48,Kadeem Allen,FOUL_ON_FLOOR,None,6:53,2,Knicks,Mavericks,35 - 36,1,N/A,N/A,N/A
+49,Trey Burke,SUBSTITUTION,Allen Kadeem,6:53,2,Knicks,Mavericks,35 - 36,1,N/A,N/A,N/A
+50,Harrison Barnes,FG_ASSISTED,Dennis Smith,6:43,2,Mavericks,Knicks,37 - 36,0,0,2,Layup
+51,Kevin Knox,FG_UNASSISTED,None,6:30,2,Knicks,Mavericks,37 - 38,1,13,3,Jumper
+52,DeAndre Jordan,TURNOVER,None,6:13,2,Mavericks,Knicks,37 - 38,0,N/A,N/A,N/A
+53,Noah Vonleh,FG_MISS,None,5:55,2,Knicks,Mavericks,37 - 38,1,13,3,Jumper
+54,DeAndre Jordan,DEFENSIVE_REBOUND,None,5:53,2,Mavericks,Knicks,37 - 38,0,N/A,N/A,N/A
+55,Dennis Smith,FG_MISS,None,5:37,2,Mavericks,Knicks,37 - 38,0,26,3,Jumper
+56,Tim Hardaway,DEFENSIVE_REBOUND,None,5:35,2,Knicks,Mavericks,37 - 38,1,N/A,N/A,N/A
+57,Tim Hardaway,FG_MISS,None,5:25,2,Knicks,Mavericks,37 - 38,1,15,3,Jumper
+58,Dennis Smith,DEFENSIVE_REBOUND,None,5:23,2,Mavericks,Knicks,37 - 38,0,N/A,N/A,N/A
+59,Dennis Smith,FG_UNASSISTED,None,5:18,2,Mavericks,Knicks,39 - 38,0,0,2,Dunk
+60,Kevin Knox,FG_UNASSISTED,None,4:58,2,Knicks,Mavericks,39 - 40,1,9,3,Jumper
+61,Kevin Knox,FOUL_ON_FLOOR,None,4:45,2,Knicks,Mavericks,39 - 40,1,N/A,N/A,N/A
+62,Dennis Smith,FT,None,4:45,2,Mavericks,Knicks,40 - 40,0,N/A,1,N/A
+63,Dennis Smith,FT,None,4:45,2,Mavericks,Knicks,41 - 40,0,N/A,1,N/A
+64,Kevin Knox,FG_MISS,None,4:29,2,Knicks,Mavericks,41 - 40,1,21,3,Jumper
+65,Harrison Barnes,DEFENSIVE_REBOUND,None,4:27,2,Mavericks,Knicks,41 - 40,0,N/A,N/A,N/A
+66,Dennis Smith,TURNOVER,Noah Vonleh,4:19,2,Mavericks,Knicks,41 - 40,0,N/A,N/A,N/A
+67,Mario Hezonja,FG_UNASSISTED,None,4:14,2,Knicks,Mavericks,41 - 42,1,0,2,Layup
+68,Wesley Matthews,FG_ASSISTED,Dennis Smith,3:58,2,Mavericks,Knicks,44 - 42,0,26,3,Jumper
+69,Trey Burke,FG_MISS,None,3:38,2,Knicks,Mavericks,44 - 42,1, ,3,Jumper
+70,Harrison Barnes,DEFENSIVE_REBOUND,None,3:36,2,Mavericks,Knicks,44 - 42,0,N/A,N/A,N/A
+71,Noah Vonleh,FOUL_TECHNICAL,None,3:23,2,Knicks,Mavericks,44 - 42,1,N/A,N/A,N/A
+72,Harrison Barnes,FT,None,3:23,2,Mavericks,Knicks,45 - 42,0,N/A,1,N/A
+73,Wesley Matthews,FG_MISS,None,3:11,2,Mavericks,Knicks,45 - 42,0, ,3,Jumper
+74,Noah Vonleh,DEFENSIVE_REBOUND,None,3:09,2,Knicks,Mavericks,45 - 42,1,N/A,N/A,N/A
+75,Mario Hezonja,FG_MISS,None,2:55,2,Knicks,Mavericks,45 - 42,1,26,3,Jumper
+76,Wesley Matthews,DEFENSIVE_REBOUND,None,2:53,2,Mavericks,Knicks,45 - 42,0,N/A,N/A,N/A
+77,Dennis Smith,FG_MISS,Trey Burke,2:40,2,Knicks,Mavericks,45 - 42,0,22,3,Jumper
+78,Dennis Smith,OFFENSIVE_REBOUND,None,2:40,2,Mavericks,Knicks,45 - 42,0,N/A,N/A,N/A
+79,Dorian Finney-Smith,FG_MISS,None,2:35,2,Mavericks,Knicks,45 - 42,0,26,3,Jumper
+80,Mario Hezonja,DEFENSIVE_REBOUND,None,2:33,2,Knicks,Mavericks,45 - 42,1,N/A,N/A,N/A
+81,Kevin Knox,FG_MISS,None,2:27,2,Knicks,Mavericks,45 - 42,1,12,3,Jumper
+82,DeAndre Jordan,DEFENSIVE_REBOUND,None,2:25,2,Mavericks,Knicks,45 - 42,0,N/A,N/A,N/A
+83,Wesley Matthews,FG_ASSISTED,Dennis Smith,2:17,2,Mavericks,Knicks,48 - 42,0,23,3,Jumper
+84,Team,Unknown,None,2:05,2,Knicks,Mavericks,48 - 42,1,N/A,N/A,N/A
+85,Mitchell Robinson,SUBSTITUTION,Vonleh Noah,2:05,2,Knicks,Mavericks,48 - 42,1,N/A,N/A,N/A
+86,Trey Burke,FG_ASSISTED,Tim Hardaway,1:55,2,Knicks,Mavericks,48 - 45,1,26,3,Jumper
+87,Dorian Finney-Smith,FG_ASSISTED,Dennis Smith,1:37,2,Mavericks,Knicks,50 - 45,0,0,2,Dunk
+88,Tim Hardaway,FG_MISS,None,1:20,2,Knicks,Mavericks,50 - 45,1,0,2,Layup
+89,Dennis Smith,DEFENSIVE_REBOUND,None,1:18,2,Mavericks,Knicks,50 - 45,0,N/A,N/A,N/A
+90,Dorian Finney-Smith,FG_ASSISTED,Dennis Smith,1:11,2,Mavericks,Knicks,52 - 45,0, ,3,Jumper
+91,Kevin Knox,TURNOVER,None,54.5,2,Knicks,Mavericks,52 - 45,1,N/A,N/A,N/A
+92,Dennis Smith,FG_MISS,None,35.0,2,Mavericks,Knicks,52 - 45,0, ,3,Jumper
+93,Mitchell Robinson,DEFENSIVE_REBOUND,None,33.7,2,Knicks,Mavericks,52 - 45,1,N/A,N/A,N/A
+94,Trey Burke,FG_UNASSISTED,None,9.3,2,Knicks,Mavericks,52 - 47,1, ,3,Jumper
+95,Dennis Smith,FG_MISS,Mitchell Robinson,3.6,2,Knicks,Mavericks,52 - 47,0, ,3,Jumper
+96,Team,OFFENSIVE_REBOUND,None,2.6,2,Mavericks,Knicks,52 - 47,0,N/A,N/A,N/A
+97,Wesley Matthews,FG_ASSISTED,Dennis Smith,0.5,2,Mavericks,Knicks,55 - 47,0,27,3,Jumper
+98,End of,Unknown,None,0.0,2,Knicks,Mavericks,55 - 47,1,N/A,N/A,N/A
+0,Noah Vonleh,SUBSTITUTION,Hezonja Mario,12:00,3,Knicks,Mavericks,55 - 47,1,N/A,N/A,N/A
+1,Lance Thomas,SUBSTITUTION,Robinson Mitchell,12:00,3,Knicks,Mavericks,55 - 47,1,N/A,N/A,N/A
+2,Luka Doncic,SUBSTITUTION,Finney-Smith Dorian,12:00,3,Mavericks,Knicks,55 - 47,0,N/A,N/A,N/A
+3,Tim Hardaway,FG_MISS,None,11:48,3,Knicks,Mavericks,55 - 47,1,19,3,Jumper
+4,Noah Vonleh,OFFENSIVE_REBOUND,None,11:46,3,Knicks,Mavericks,55 - 47,1,N/A,N/A,N/A
+5,Kevin Knox,FG_ASSISTED,Trey Burke,11:37,3,Knicks,Mavericks,55 - 50,1,26,3,Jumper
+6,Harrison Barnes,FG_UNASSISTED,None,11:12,3,Mavericks,Knicks,57 - 50,0,0,2,Layup
+7,Trey Burke,TURNOVER,None,11:04,3,Knicks,Mavericks,57 - 50,1,N/A,N/A,N/A
+8,Dennis Smith,FG_UNASSISTED,None,10:55,3,Mavericks,Knicks,59 - 50,0,0,2,Layup
+9,Trey Burke,FG_ASSISTED,Tim Hardaway,10:44,3,Knicks,Mavericks,59 - 52,1,17,3,Jumper
+10,Harrison Barnes,FG_ASSISTED,Dennis Smith,10:30,3,Mavericks,Knicks,61 - 52,0,1,3,Jumper
+11,Dennis Smith,FOUL_ON_FLOOR,None,10:14,3,Mavericks,Knicks,61 - 52,0,N/A,N/A,N/A
+12,Trey Burke,FT_MISS,None,10:14,3,Knicks,Mavericks,61 - 52,1,N/A,1,N/A
+13,Team,OFFENSIVE_REBOUND,None,10:14,3,Knicks,Mavericks,61 - 52,1,N/A,N/A,N/A
+14,Trey Burke,FT,None,10:14,3,Knicks,Mavericks,61 - 53,1,N/A,1,N/A
+15,Harrison Barnes,FG_MISS,None,10:01,3,Mavericks,Knicks,61 - 53,0,23,3,Jumper
+16,Kevin Knox,DEFENSIVE_REBOUND,None,9:59,3,Knicks,Mavericks,61 - 53,1,N/A,N/A,N/A
+17,Noah Vonleh,TURNOVER,None,9:51,3,Knicks,Mavericks,61 - 53,1,N/A,N/A,N/A
+18,Luka Doncic,FG_ASSISTED,Dennis Smith,9:40,3,Mavericks,Knicks,63 - 53,0, ,3,Jumper
+19,Tim Hardaway,FOUL_ON_FLOOR,None,9:40,3,Knicks,Mavericks,63 - 53,1,N/A,N/A,N/A
+20,Luka Doncic,FT_MISS,None,9:40,3,Mavericks,Knicks,63 - 53,0,N/A,1,N/A
+21,Kevin Knox,DEFENSIVE_REBOUND,None,9:38,3,Knicks,Mavericks,63 - 53,1,N/A,N/A,N/A
+22,Kevin Knox,FG_MISS,None,9:25,3,Knicks,Mavericks,63 - 53,1,26,3,Jumper
+23,Luka Doncic,DEFENSIVE_REBOUND,None,9:23,3,Mavericks,Knicks,63 - 53,0,N/A,N/A,N/A
+24,DeAndre Jordan,FG_ASSISTED,Luka Doncic,9:10,3,Mavericks,Knicks,65 - 53,0,0,2,Dunk
+25,Team,Unknown,None,9:09,3,Knicks,Mavericks,65 - 53,1,N/A,N/A,N/A
+26,Mitchell Robinson,SUBSTITUTION,Vonleh Noah,9:09,3,Knicks,Mavericks,65 - 53,1,N/A,N/A,N/A
+27,Tim Hardaway,FG_UNASSISTED,None,8:58,3,Knicks,Mavericks,65 - 55,1,1,3,Jumper
+28,Dennis Smith,FOUL_ON_FLOOR,None,8:58,3,Mavericks,Knicks,65 - 55,0,N/A,N/A,N/A
+29,Tim Hardaway,FT,None,8:58,3,Knicks,Mavericks,65 - 56,1,N/A,1,N/A
+30,Wesley Matthews,FG_MISS,None,8:41,3,Mavericks,Knicks,65 - 56,0,25,3,Jumper
+31,DeAndre Jordan,OFFENSIVE_REBOUND,None,8:39,3,Mavericks,Knicks,65 - 56,0,N/A,N/A,N/A
+32,Wesley Matthews,FG_ASSISTED,DeAndre Jordan,8:37,3,Mavericks,Knicks,67 - 56,0, ,3,Jumper
+33,Tim Hardaway,FG_MISS,None,8:22,3,Knicks,Mavericks,67 - 56,1,25,3,Jumper
+34,DeAndre Jordan,DEFENSIVE_REBOUND,None,8:20,3,Mavericks,Knicks,67 - 56,0,N/A,N/A,N/A
+35,DeAndre Jordan,FG_ASSISTED,Dennis Smith,8:10,3,Mavericks,Knicks,69 - 56,0,0,2,Dunk
+36,Tim Hardaway,FG_MISS,None,7:53,3,Knicks,Mavericks,69 - 56,1, ,3,Jumper
+37,Luka Doncic,DEFENSIVE_REBOUND,None,7:51,3,Mavericks,Knicks,69 - 56,0,N/A,N/A,N/A
+38,Luka Doncic,TURNOVER,Trey Burke,7:46,3,Mavericks,Knicks,69 - 56,0,N/A,N/A,N/A
+39,Trey Burke,FG_MISS,None,7:43,3,Knicks,Mavericks,69 - 56,1,26,3,Jumper
+40,Team,DEFENSIVE_REBOUND,None,7:42,3,Mavericks,Knicks,69 - 56,0,N/A,N/A,N/A
+41,Mario Hezonja,SUBSTITUTION,Knox Kevin,7:42,3,Knicks,Mavericks,69 - 56,1,N/A,N/A,N/A
+42,Luka Doncic,FG_ASSISTED,Dennis Smith,7:17,3,Mavericks,Knicks,72 - 56,0,27,3,Jumper
+43,Trey Burke,FG_MISS,None,6:53,3,Knicks,Mavericks,72 - 56,1,11,3,Jumper
+44,Dennis Smith,DEFENSIVE_REBOUND,None,6:51,3,Mavericks,Knicks,72 - 56,0,N/A,N/A,N/A
+45,Dennis Smith,TURNOVER,Mario Hezonja,6:40,3,Mavericks,Knicks,72 - 56,0,N/A,N/A,N/A
+46,Wesley Matthews,FOUL_ON_FLOOR,None,6:37,3,Mavericks,Knicks,72 - 56,0,N/A,N/A,N/A
+47,Mario Hezonja,FT,None,6:37,3,Knicks,Mavericks,72 - 57,1,N/A,1,N/A
+48,Mario Hezonja,FT,None,6:37,3,Knicks,Mavericks,72 - 58,1,N/A,1,N/A
+49,Damyean Dotson,SUBSTITUTION,Hardaway Tim,6:37,3,Knicks,Mavericks,72 - 58,1,N/A,N/A,N/A
+50,Dorian Finney-Smith,SUBSTITUTION,Doncic Luka,6:37,3,Mavericks,Knicks,72 - 58,0,N/A,N/A,N/A
+51,Trey Burke,FOUL_ON_FLOOR,None,6:28,3,Knicks,Mavericks,72 - 58,1,N/A,N/A,N/A
+52,Wesley Matthews,FG_MISS,None,6:14,3,Mavericks,Knicks,72 - 58,0,26,3,Jumper
+53,Lance Thomas,DEFENSIVE_REBOUND,None,6:12,3,Knicks,Mavericks,72 - 58,1,N/A,N/A,N/A
+54,Lance Thomas,TURNOVER,None,5:59,3,Knicks,Mavericks,72 - 58,1,N/A,N/A,N/A
+55,Harrison Barnes,FG_MISS,None,5:45,3,Mavericks,Knicks,72 - 58,0,26,3,Jumper
+56,Mario Hezonja,DEFENSIVE_REBOUND,None,5:43,3,Knicks,Mavericks,72 - 58,1,N/A,N/A,N/A
+57,Lance Thomas,FG_MISS,None,5:32,3,Knicks,Mavericks,72 - 58,1,23,3,Jumper
+58,DeAndre Jordan,DEFENSIVE_REBOUND,None,5:30,3,Mavericks,Knicks,72 - 58,0,N/A,N/A,N/A
+59,Harrison Barnes,FG_UNASSISTED,None,5:24,3,Mavericks,Knicks,74 - 58,0,0,2,Layup
+60,Mario Hezonja,FOUL_ON_FLOOR,None,5:24,3,Knicks,Mavericks,74 - 58,1,N/A,N/A,N/A
+61,Allonzo Trier,SUBSTITUTION,Thomas Lance,5:24,3,Knicks,Mavericks,74 - 58,1,N/A,N/A,N/A
+62,Enes Kanter,SUBSTITUTION,Robinson Mitchell,5:24,3,Knicks,Mavericks,74 - 58,1,N/A,N/A,N/A
+63,Harrison Barnes,FT,None,5:24,3,Mavericks,Knicks,75 - 58,0,N/A,1,N/A
+64,Enes Kanter,FG_MISS,None,5:10,3,Knicks,Mavericks,75 - 58,1,11,3,Jumper
+65,Dennis Smith,DEFENSIVE_REBOUND,None,5:08,3,Mavericks,Knicks,75 - 58,0,N/A,N/A,N/A
+66,Dorian Finney-Smith,FOUL_ON_FLOOR,None,4:56,3,Mavericks,Knicks,75 - 58,0,N/A,N/A,N/A
+67,Dorian Finney-Smith,TURNOVER,None,4:56,3,Mavericks,Knicks,75 - 58,0,N/A,N/A,N/A
+68,Mario Hezonja,FG_UNASSISTED,None,4:33,3,Knicks,Mavericks,75 - 60,1,11,3,Jumper
+69,Harrison Barnes,FG_MISS,None,4:09,3,Mavericks,Knicks,75 - 60,0,0,2,Layup
+70,Harrison Barnes,OFFENSIVE_REBOUND,None,4:07,3,Mavericks,Knicks,75 - 60,0,N/A,N/A,N/A
+71,Dorian Finney-Smith,TURNOVER,Allonzo Trier,4:04,3,Mavericks,Knicks,75 - 60,0,N/A,N/A,N/A
+72,Allonzo Trier,FG_UNASSISTED,None,4:02,3,Knicks,Mavericks,75 - 62,1,0,2,Dunk
+73,Team,Unknown,None,4:02,3,Mavericks,Knicks,75 - 60,0,N/A,N/A,N/A
+74,Kadeem Allen,SUBSTITUTION,Burke Trey,4:02,3,Knicks,Mavericks,75 - 62,1,N/A,N/A,N/A
+75,Harrison Barnes,FG_ASSISTED,Dennis Smith,3:51,3,Mavericks,Knicks,77 - 62,0,0,2,Layup
+76,Mario Hezonja,FOUL_ON_FLOOR,None,3:51,3,Knicks,Mavericks,77 - 62,1,N/A,N/A,N/A
+77,Harrison Barnes,FT_MISS,None,3:51,3,Mavericks,Knicks,77 - 62,0,N/A,1,N/A
+78,Dorian Finney-Smith,OFFENSIVE_REBOUND,None,3:49,3,Mavericks,Knicks,77 - 62,0,N/A,N/A,N/A
+79,Dennis Smith,FG_UNASSISTED,None,3:44,3,Mavericks,Knicks,79 - 62,0,0,2,Layup
+80,Damyean Dotson,FOUL_ON_FLOOR,None,3:44,3,Knicks,Mavericks,79 - 62,1,N/A,N/A,N/A
+81,Dennis Smith,FT,None,3:44,3,Mavericks,Knicks,80 - 62,0,N/A,1,N/A
+82,Enes Kanter,FG_ASSISTED,Allonzo Trier,3:31,3,Knicks,Mavericks,80 - 64,1,0,2,Dunk
+83,Harrison Barnes,FG_ASSISTED,Dennis Smith,3:15,3,Mavericks,Knicks,82 - 64,0,0,2,Dunk
+84,Team,Unknown,None,3:15,3,Knicks,Mavericks,82 - 64,1,N/A,N/A,N/A
+85,Kadeem Allen,FG_UNASSISTED,None,3:01,3,Knicks,Mavericks,82 - 66,1,0,2,Layup
+86,Dennis Smith,TURNOVER,None,2:42,3,Mavericks,Knicks,82 - 66,0,N/A,N/A,N/A
+87,Team,Unknown,None,2:42,3,Mavericks,Knicks,82 - 66,0,N/A,N/A,N/A
+88,Dwight Powell,SUBSTITUTION,Smith Dennis,2:42,3,Mavericks,Knicks,82 - 66,0,N/A,N/A,N/A
+89,Devin Harris,SUBSTITUTION,Jordan DeAndre,2:42,3,Mavericks,Knicks,82 - 66,0,N/A,N/A,N/A
+90,Luka Doncic,SUBSTITUTION,Matthews Wesley,2:42,3,Mavericks,Knicks,82 - 66,0,N/A,N/A,N/A
+91,Maximilian Kleber,SUBSTITUTION,Finney-Smith Dorian,2:42,3,Mavericks,Knicks,82 - 66,0,N/A,N/A,N/A
+92,Damyean Dotson,FG_MISS,None,2:31,3,Knicks,Mavericks,82 - 66,1,22,3,Jumper
+93,Devin Harris,DEFENSIVE_REBOUND,None,2:29,3,Mavericks,Knicks,82 - 66,0,N/A,N/A,N/A
+94,Maximilian Kleber,FG_MISS,None,2:18,3,Mavericks,Knicks,82 - 66,0,27,3,Jumper
+95,Enes Kanter,DEFENSIVE_REBOUND,None,2:16,3,Knicks,Mavericks,82 - 66,1,N/A,N/A,N/A
+96,Allonzo Trier,FG_ASSISTED,Damyean Dotson,1:55,3,Knicks,Mavericks,82 - 68,1,0,2,Layup
+97,Harrison Barnes,FOUL_ON_FLOOR,None,1:55,3,Mavericks,Knicks,82 - 68,0,N/A,N/A,N/A
+98,Allonzo Trier,FT,None,1:55,3,Knicks,Mavericks,82 - 69,1,N/A,1,N/A
+99,Harrison Barnes,FG_MISS,None,1:33,3,Mavericks,Knicks,82 - 69,0,14,3,Jumper
+100,Maximilian Kleber,OFFENSIVE_REBOUND,None,1:31,3,Mavericks,Knicks,82 - 69,0,N/A,N/A,N/A
+101,Dwight Powell,FG_ASSISTED,Luka Doncic,1:21,3,Mavericks,Knicks,84 - 69,0,0,2,Layup
+102,Devin Harris,FOUL_ON_FLOOR,None,1:06,3,Mavericks,Knicks,84 - 69,0,N/A,N/A,N/A
+103,Enes Kanter,FT,None,1:06,3,Knicks,Mavericks,84 - 70,1,N/A,1,N/A
+104,Enes Kanter,FT_MISS,None,1:06,3,Knicks,Mavericks,84 - 70,1,N/A,1,N/A
+105,Dwight Powell,DEFENSIVE_REBOUND,None,1:04,3,Mavericks,Knicks,84 - 70,0,N/A,N/A,N/A
+106,Devin Harris,FG_ASSISTED,Harrison Barnes,42.9,3,Mavericks,Knicks,87 - 70,0,26,3,Jumper
+107,Damyean Dotson,FG_MISS,None,33.8,3,Knicks,Mavericks,87 - 70,1,27,3,Jumper
+108,Luka Doncic,DEFENSIVE_REBOUND,None,31.7,3,Mavericks,Knicks,87 - 70,0,N/A,N/A,N/A
+109,Dwight Powell,FG_ASSISTED,Harrison Barnes,19.7,3,Mavericks,Knicks,90 - 70,0,26,3,Jumper
+110,Damyean Dotson,FG_MISS,None,0.3,3,Knicks,Mavericks,90 - 70,1,25,3,Jumper
+111,Team,OFFENSIVE_REBOUND,None,0.1,3,Knicks,Mavericks,90 - 70,1,N/A,N/A,N/A
+112,End of,Unknown,None,0.0,3,Knicks,Mavericks,90 - 70,1,N/A,N/A,N/A
+0,Dorian Finney-Smith,SUBSTITUTION,Barnes Harrison,12:00,4,Mavericks,Knicks,90 - 70,0,N/A,N/A,N/A
+1,Dorian Finney-Smith,FG_ASSISTED,Luka Doncic,11:38,4,Mavericks,Knicks,92 - 70,0,0,2,Layup
+2,Enes Kanter,TURNOVER,Devin Harris,11:14,4,Knicks,Mavericks,92 - 70,1,N/A,N/A,N/A
+3,Dorian Finney-Smith,TURNOVER,None,11:00,4,Mavericks,Knicks,92 - 70,0,N/A,N/A,N/A
+4,Dorian Finney-Smith,TURNOVER,None,11:00,4,Mavericks,Knicks,92 - 70,0,N/A,N/A,N/A
+5,Mario Hezonja,FG_MISS,None,10:47,4,Knicks,Mavericks,92 - 70,1,25,3,Jumper
+6,Dorian Finney-Smith,DEFENSIVE_REBOUND,None,10:45,4,Mavericks,Knicks,92 - 70,0,N/A,N/A,N/A
+7,Dorian Finney-Smith,FG_MISS,None,10:32,4,Mavericks,Knicks,92 - 70,0,22,3,Jumper
+8,Dwight Powell,OFFENSIVE_REBOUND,None,10:30,4,Mavericks,Knicks,92 - 70,0,N/A,N/A,N/A
+9,Devin Harris,FG_ASSISTED,Dorian Finney-Smith,10:27,4,Mavericks,Knicks,95 - 70,0,27,3,Jumper
+10,Allonzo Trier,TURNOVER,None,10:03,4,Knicks,Mavericks,95 - 70,1,N/A,N/A,N/A
+11,Jalen Brunson,SUBSTITUTION,Harris Devin,10:03,4,Mavericks,Knicks,95 - 70,0,N/A,N/A,N/A
+12,Maximilian Kleber,TURNOVER,Kadeem Allen,9:53,4,Mavericks,Knicks,95 - 70,0,N/A,N/A,N/A
+13,Maximilian Kleber,FOUL_FLAGRANT_1,None,9:53,4,Mavericks,Knicks,95 - 70,0,N/A,N/A,N/A
+14,Kadeem Allen,FT,None,9:53,4,Knicks,Mavericks,95 - 71,1,N/A,1,N/A
+15,Kadeem Allen,FT,None,9:53,4,Knicks,Mavericks,95 - 72,1,N/A,1,N/A
+16,Trey Burke,SUBSTITUTION,Trier Allonzo,9:53,4,Knicks,Mavericks,95 - 72,1,N/A,N/A,N/A
+17,Tim Hardaway,SUBSTITUTION,Dotson Damyean,9:53,4,Knicks,Mavericks,95 - 72,1,N/A,N/A,N/A
+18,Enes Kanter's,FG_MISS,Maximilian Kleber,9:42,4,Mavericks,Knicks,95 - 72,1,0,2,Layup
+19,Maximilian Kleber,JUMP_BALL,None,9:37,4,Knicks,Mavericks,95 - 72,1,N/A,N/A,N/A
+20,Team,OFFENSIVE_REBOUND,None,9:37,4,Knicks,Mavericks,95 - 72,1,N/A,N/A,N/A
+21,Mario Hezonja,FG_ASSISTED,Enes Kanter,9:36,4,Knicks,Mavericks,95 - 74,1,0,2,Layup
+22,Tim Hardaway,FOUL_ON_FLOOR,None,9:25,4,Knicks,Mavericks,95 - 74,1,N/A,N/A,N/A
+23,Dwight Powell,TURNOVER,None,9:17,4,Mavericks,Knicks,95 - 74,0,N/A,N/A,N/A
+24,Enes Kanter,FG_ASSISTED,Trey Burke,9:07,4,Knicks,Mavericks,95 - 76,1, ,3,Jumper
+25,Maximilian Kleber,FG_ASSISTED,Dwight Powell,8:55,4,Mavericks,Knicks,97 - 76,0,0,2,Dunk
+26,Mario Hezonja,FG_MISS,None,8:36,4,Knicks,Mavericks,97 - 76,1,0,2,Layup
+27,Enes Kanter,OFFENSIVE_REBOUND,None,8:34,4,Knicks,Mavericks,97 - 76,1,N/A,N/A,N/A
+28,Enes Kanter,FG_MISS,None,8:34,4,Knicks,Mavericks,97 - 76,1, ,3,Jumper
+29,Luka Doncic,DEFENSIVE_REBOUND,None,8:32,4,Mavericks,Knicks,97 - 76,0,N/A,N/A,N/A
+30,Luka Doncic,TURNOVER,Trey Burke,8:25,4,Mavericks,Knicks,97 - 76,0,N/A,N/A,N/A
+31,Kadeem Allen,FG_MISS,None,8:19,4,Knicks,Mavericks,97 - 76,1, ,3,Jumper
+32,Dwight Powell,DEFENSIVE_REBOUND,None,8:17,4,Mavericks,Knicks,97 - 76,0,N/A,N/A,N/A
+33,Kadeem Allen,FOUL_ON_FLOOR,None,8:04,4,Knicks,Mavericks,97 - 76,1,N/A,N/A,N/A
+34,Kevin Knox,SUBSTITUTION,Kanter Enes,8:04,4,Knicks,Mavericks,97 - 76,1,N/A,N/A,N/A
+35,Mitchell Robinson,SUBSTITUTION,Allen Kadeem,8:04,4,Knicks,Mavericks,97 - 76,1,N/A,N/A,N/A
+36,Luka Doncic,FG_UNASSISTED,None,7:54,4,Mavericks,Knicks,99 - 76,0,15,3,Jumper
+37,Kevin Knox,FG_ASSISTED,Tim Hardaway,7:37,4,Knicks,Mavericks,99 - 78,1,23,3,Jumper
+38,Luka Doncic,FG_UNASSISTED,None,7:25,4,Mavericks,Knicks,102 - 78,0,26,3,Jumper
+39,Tim Hardaway,FG_MISS,None,7:12,4,Knicks,Mavericks,102 - 78,1,26,3,Jumper
+40,Jalen Brunson,DEFENSIVE_REBOUND,None,7:10,4,Mavericks,Knicks,102 - 78,0,N/A,N/A,N/A
+41,Luka Doncic,FG_MISS,None,6:57,4,Mavericks,Knicks,102 - 78,0,29,3,Jumper
+42,Mitchell Robinson,DEFENSIVE_REBOUND,None,6:55,4,Knicks,Mavericks,102 - 78,1,N/A,N/A,N/A
+43,Trey Burke,FG_MISS,None,6:47,4,Knicks,Mavericks,102 - 78,1,19,3,Jumper
+44,Jalen Brunson,DEFENSIVE_REBOUND,None,6:46,4,Mavericks,Knicks,102 - 78,0,N/A,N/A,N/A
+45,Team,Unknown,None,6:46,4,Mavericks,Knicks,102 - 78,0,N/A,N/A,N/A
+46,Maximilian Kleber,FG_ASSISTED,Jalen Brunson,6:27,4,Mavericks,Knicks,104 - 78,0,0,2,Dunk
+47,Mario Hezonja,TURNOVER,Maximilian Kleber,6:04,4,Knicks,Mavericks,104 - 78,1,N/A,N/A,N/A
+48,Dorian Finney-Smith,TURNOVER,Mitchell Robinson,5:48,4,Mavericks,Knicks,104 - 78,0,N/A,N/A,N/A
+49,Kevin Knox,TURNOVER,Dwight Powell,5:35,4,Knicks,Mavericks,104 - 78,1,N/A,N/A,N/A
+50,Jalen Brunson,FG_MISS,None,5:26,4,Mavericks,Knicks,104 - 78,0,0,2,Layup
+51,Kevin Knox,DEFENSIVE_REBOUND,None,5:24,4,Knicks,Mavericks,104 - 78,1,N/A,N/A,N/A
+52,Trey Burke,FG_MISS,None,5:18,4,Knicks,Mavericks,104 - 78,1,23,3,Jumper
+53,Mitchell Robinson,OFFENSIVE_REBOUND,None,5:16,4,Knicks,Mavericks,104 - 78,1,N/A,N/A,N/A
+54,Mitchell Robinson,FG_UNASSISTED,None,5:12,4,Knicks,Mavericks,104 - 80,1,0,2,Dunk
+55,Luka Doncic,FG_MISS,None,5:00,4,Mavericks,Knicks,104 - 80,0, ,3,Jumper
+56,Kevin Knox,DEFENSIVE_REBOUND,None,4:58,4,Knicks,Mavericks,104 - 80,1,N/A,N/A,N/A
+57,Kevin Knox,FG_MISS,None,4:50,4,Knicks,Mavericks,104 - 80,1,26,3,Jumper
+58,Luka Doncic,DEFENSIVE_REBOUND,None,4:48,4,Mavericks,Knicks,104 - 80,0,N/A,N/A,N/A
+59,Luka Doncic,TURNOVER,Kevin Knox,4:40,4,Mavericks,Knicks,104 - 80,0,N/A,N/A,N/A
+60,Dwight Powell,FOUL_ON_FLOOR,None,4:35,4,Mavericks,Knicks,104 - 80,0,N/A,N/A,N/A
+61,Kevin Knox,FT,None,4:35,4,Knicks,Mavericks,104 - 81,1,N/A,1,N/A
+62,Dirk Nowitzki,SUBSTITUTION,Kleber Maximilian,4:35,4,Mavericks,Knicks,104 - 81,0,N/A,N/A,N/A
+63,Ryan Broekhoff,SUBSTITUTION,Doncic Luka,4:35,4,Mavericks,Knicks,104 - 81,0,N/A,N/A,N/A
+64,Dennis Smith,SUBSTITUTION,Finney-Smith Dorian,4:35,4,Mavericks,Knicks,104 - 81,0,N/A,N/A,N/A
+65,Kevin Knox,FT_MISS,None,4:35,4,Knicks,Mavericks,104 - 81,1,N/A,1,N/A
+66,Dennis Smith,DEFENSIVE_REBOUND,None,4:33,4,Mavericks,Knicks,104 - 81,0,N/A,N/A,N/A
+67,Dennis Smith,FG_MISS,None,4:17,4,Mavericks,Knicks,104 - 81,0,23,3,Jumper
+68,Mitchell Robinson,DEFENSIVE_REBOUND,None,4:15,4,Knicks,Mavericks,104 - 81,1,N/A,N/A,N/A
+69,Trey Burke,FG_MISS,None,4:01,4,Knicks,Mavericks,104 - 81,1,15,3,Jumper
+70,Dennis Smith,DEFENSIVE_REBOUND,None,3:59,4,Mavericks,Knicks,104 - 81,0,N/A,N/A,N/A
+71,Dwight Powell,FG_ASSISTED,Jalen Brunson,3:43,4,Mavericks,Knicks,106 - 81,0,0,2,Dunk
+72,Kevin Knox,FG_UNASSISTED,None,3:25,4,Knicks,Mavericks,106 - 83,1,11,3,Jumper
+73,Jalen Brunson,FG_ASSISTED,Ryan Broekhoff,3:04,4,Mavericks,Knicks,109 - 83,0,24,3,Jumper
+74,Kevin Knox,FG_MISS,None,2:52,4,Knicks,Mavericks,109 - 83,1,25,3,Jumper
+75,Dennis Smith,DEFENSIVE_REBOUND,None,2:50,4,Mavericks,Knicks,109 - 83,0,N/A,N/A,N/A
+76,Dirk Nowitzki,FG_ASSISTED,Dennis Smith,2:42,4,Mavericks,Knicks,112 - 83,0,26,3,Jumper
+77,Team,Unknown,None,2:40,4,Knicks,Mavericks,112 - 83,1,N/A,N/A,N/A
+78,Damyean Dotson,SUBSTITUTION,Hezonja Mario,2:40,4,Knicks,Mavericks,112 - 83,1,N/A,N/A,N/A
+79,Allonzo Trier,SUBSTITUTION,Burke Trey,2:40,4,Knicks,Mavericks,112 - 83,1,N/A,N/A,N/A
+80,Kadeem Allen,SUBSTITUTION,Hardaway Tim,2:40,4,Knicks,Mavericks,112 - 83,1,N/A,N/A,N/A
+81,Salah Mejri,SUBSTITUTION,Smith Dennis,2:40,4,Mavericks,Knicks,112 - 83,0,N/A,N/A,N/A
+82,Jalen Brunson,FOUL_ON_FLOOR,None,2:21,4,Mavericks,Knicks,112 - 83,0,N/A,N/A,N/A
+83,Kadeem Allen,FT,None,2:21,4,Knicks,Mavericks,112 - 84,1,N/A,1,N/A
+84,Kadeem Allen,FT,None,2:21,4,Knicks,Mavericks,112 - 85,1,N/A,1,N/A
+85,Salah Mejri,TURNOVER,None,2:05,4,Mavericks,Knicks,112 - 85,0,N/A,N/A,N/A
+86,Kevin Knox,FG_MISS,None,1:47,4,Knicks,Mavericks,112 - 85,1,20,3,Jumper
+87,Ryan Broekhoff,DEFENSIVE_REBOUND,None,1:45,4,Mavericks,Knicks,112 - 85,0,N/A,N/A,N/A
+88,Dirk Nowitzki,FG_ASSISTED,Jalen Brunson,1:38,4,Mavericks,Knicks,114 - 85,0,20,3,Jumper
+89,Salah Mejri,FOUL_ON_FLOOR,None,1:26,4,Mavericks,Knicks,114 - 85,0,N/A,N/A,N/A
+90,Kevin Knox,FT,None,1:26,4,Knicks,Mavericks,114 - 86,1,N/A,1,N/A
+91,Kevin Knox,FT,None,1:26,4,Knicks,Mavericks,114 - 87,1,N/A,1,N/A
+92,Dwight Powell,FG_MISS,Mitchell Robinson,1:07,4,Knicks,Mavericks,114 - 87,0,4,3,Jumper
+93,Damyean Dotson,DEFENSIVE_REBOUND,None,1:05,4,Knicks,Mavericks,114 - 87,1,N/A,N/A,N/A
+94,Damyean Dotson,FG_ASSISTED,Kadeem Allen,1:01,4,Knicks,Mavericks,114 - 90,1,25,3,Jumper
+95,Dirk Nowitzki,FG_MISS,None,50.5,4,Mavericks,Knicks,114 - 90,0,26,3,Jumper
+96,Team,OFFENSIVE_REBOUND,None,48.3,4,Mavericks,Knicks,114 - 90,0,N/A,N/A,N/A
+97,Damyean Dotson,FOUL_ON_FLOOR,None,48.3,4,Knicks,Mavericks,114 - 90,1,N/A,N/A,N/A
+98,Salah Mejri's,FG_MISS,Mitchell Robinson,42.2,4,Knicks,Mavericks,114 - 90,0,0,2,Layup
+99,Kadeem Allen,DEFENSIVE_REBOUND,None,39.8,4,Knicks,Mavericks,114 - 90,1,N/A,N/A,N/A
+100,Damyean Dotson,FG_MISS,None,36.6,4,Knicks,Mavericks,114 - 90,1,27,3,Jumper
+101,Jalen Brunson,DEFENSIVE_REBOUND,None,34.6,4,Mavericks,Knicks,114 - 90,0,N/A,N/A,N/A
+102,shot clock,TURNOVER,None,8.9,4,Mavericks,Knicks,114 - 90,0,N/A,N/A,N/A
+103,End of,Unknown,None,0.0,4,Knicks,Mavericks,114 - 90,1,N/A,N/A,N/A
+104,End of,Unknown,None,0.0,4,Knicks,Mavericks,114 - 90,1,N/A,N/A,N/A

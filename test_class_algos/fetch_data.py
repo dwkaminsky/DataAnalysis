@@ -38,24 +38,25 @@ def get_clean_game_data(file_path):
                                    float(df.loc[idx, 'Clock'].split(':')[1])
         return df
     except:
-        return pd.DataFrame(columns=play_types)
+        play_types.append('Won?')
+        return pd.DataFrame(columns = play_types)
 
 
 def get_test_df():
     df = get_year_team_df(2019, 'BOS')
-    df = add_prev_play_counts_to_df(get_clean_game_data(df))
     return df
 
 
 def get_year_team_df(year, team):
     df_list = []
-    for file in os.listdir(base_path()+'/data/2019'):
+    for idx, file in enumerate(os.listdir(base_path()+'/data/2019')):
         print(file)
-        try:
-            df_list.append(add_prev_play_counts_to_df(get_clean_game_data(base_path()+'/data/2019/'
-                                                                      + file)))
-        except:
-            print('File not found')
+        if True:
+            df = add_prev_play_counts_to_df(get_clean_game_data(base_path()+'/data/2019/'
+                                                     + file))
+            df.to_csv(base_path()+'/data/2019/test/test_'
+                                                     + str(idx) + '.csv')
+            df_list.append(df)
     df = pd.concat(df_list)
     df = df.drop(columns=['index'])
     df = df.reset_index()
@@ -82,19 +83,12 @@ def add_prev_play_counts_to_df(df):
 
 def split_into_test_train(df):
     Y = df['Won?']
-    X = df.drop(columns=['Won?'])
+    X = df.drop(columns=['Won?']).fillna(-1).drop(columns=
+                    ['index', 'Player', 'Secondary Player', 'Shot Type', 'Team', 'Opponent'])\
+        .replace('-', -1).replace(' ', -1)
     X_TEST = pd.DataFrame(columns=X.columns)
     X_TRAIN = pd.DataFrame(columns=X.columns)
-    Y_TEST = []
-    Y_TRAIN = []
-    for row_idx in range(len(df)):
-        if np.random.rand() < 0.7:
-            X_TRAIN = X_TRAIN.append(X.iloc[row_idx])
-            Y_TRAIN.append(Y.iloc[row_idx])
-        else:
-            X_TEST = X_TEST.append(X.iloc[row_idx])
-            Y_TEST.append(Y.iloc[row_idx])
-    return X_TRAIN, Y_TRAIN, X_TEST, Y_TEST
-
-
-split_into_test_train(add_prev_play_counts_to_df(get_test_df()))
+    idx = int(len(df) / 1.3)
+    Y_TEST = list(Y[idx:])
+    Y_TRAIN = list(Y[:idx])
+    return X.iloc[:idx], Y_TRAIN, X.iloc[idx:], Y_TEST

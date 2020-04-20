@@ -1,0 +1,427 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Andre Drummond,JUMP_BALL,None,12:00,1,Lakers,Pistons,0 - 0,1,N/A,N/A,N/A
+1,Brandon Ingram,FG_UNASSISTED,None,11:36,1,Lakers,Pistons,0 - 2,1,0,2,Dunk
+2,Blake Griffin,FG_MISS,None,11:14,1,Pistons,Lakers,0 - 2,0,0,2,Layup
+3,Andre Drummond,OFFENSIVE_REBOUND,None,11:14,1,Pistons,Lakers,0 - 2,0,N/A,N/A,N/A
+4,Kyle Kuzma,FOUL_ON_FLOOR,None,11:14,1,Lakers,Pistons,0 - 2,1,N/A,N/A,N/A
+5,Andre Drummond,FT,None,11:14,1,Pistons,Lakers,1 - 2,0,N/A,1,N/A
+6,Andre Drummond,FT_MISS,None,11:14,1,Pistons,Lakers,1 - 2,0,N/A,1,N/A
+7,JaVale McGee,DEFENSIVE_REBOUND,None,11:12,1,Lakers,Pistons,1 - 2,1,N/A,N/A,N/A
+8,Kyle Kuzma,FG_UNASSISTED,None,10:56,1,Lakers,Pistons,1 - 4,1,4,2,Jumper
+9,Reggie Bullock,FG_ASSISTED,Blake Griffin,10:47,1,Pistons,Lakers,4 - 4,0,27,3,Jumper
+10,Brandon Ingram,FG_MISS,None,10:33,1,Lakers,Pistons,4 - 4,1,14,2,Jumper
+11,Brandon Ingram,OFFENSIVE_REBOUND,None,10:31,1,Lakers,Pistons,4 - 4,1,N/A,N/A,N/A
+12,Josh Hart,FG_ASSISTED,Lonzo Ball,10:27,1,Lakers,Pistons,4 - 6,1,0,2,Layup
+13,Andre Drummond,FG_ASSISTED,Reggie Jackson,10:02,1,Pistons,Lakers,6 - 6,0,3,2,Jumper
+14,Brandon Ingram,TURNOVER,None,9:58,1,Lakers,Pistons,6 - 6,1,N/A,N/A,N/A
+15,Brandon Ingram,TURNOVER,None,9:58,1,Lakers,Pistons,6 - 6,1,N/A,N/A,N/A
+16,Josh Hart,FOUL_ON_FLOOR,None,9:51,1,Lakers,Pistons,6 - 6,1,N/A,N/A,N/A
+17,shot clock,TURNOVER,None,9:34,1,Pistons,Lakers,6 - 6,0,N/A,N/A,N/A
+18,Kyle Kuzma,FG_MISS,None,9:31,1,Lakers,Pistons,6 - 6,1,25,3,Jumper
+19,Team,OFFENSIVE_REBOUND,None,9:29,1,Lakers,Pistons,6 - 6,1,N/A,N/A,N/A
+20,Lonzo Ball,FG_MISS,None,9:25,1,Lakers,Pistons,6 - 6,1,24,3,Jumper
+21,Andre Drummond,DEFENSIVE_REBOUND,None,9:22,1,Pistons,Lakers,6 - 6,0,N/A,N/A,N/A
+22,Andre Drummond,FG_MISS,None,9:16,1,Pistons,Lakers,6 - 6,0,-,2,Jumper
+23,JaVale McGee,DEFENSIVE_REBOUND,None,9:13,1,Lakers,Pistons,6 - 6,1,N/A,N/A,N/A
+24,Lonzo Ball,FG_MISS,None,9:01,1,Lakers,Pistons,6 - 6,1,26,3,Jumper
+25,Reggie Bullock,DEFENSIVE_REBOUND,None,8:59,1,Pistons,Lakers,6 - 6,0,N/A,N/A,N/A
+26,Reggie Jackson,FG_MISS,None,8:47,1,Pistons,Lakers,6 - 6,0,27,3,Jumper
+27,Andre Drummond,OFFENSIVE_REBOUND,None,8:43,1,Pistons,Lakers,6 - 6,0,N/A,N/A,N/A
+28,Andre Drummond,FG_MISS,None,8:43,1,Pistons,Lakers,6 - 6,0,-,2,Jumper
+29,Lonzo Ball,DEFENSIVE_REBOUND,None,8:42,1,Lakers,Pistons,6 - 6,1,N/A,N/A,N/A
+30,Kyle Kuzma,FG_ASSISTED,Lonzo Ball,8:25,1,Lakers,Pistons,6 - 8,1,0,2,Layup
+31,Blake Griffin,FG_MISS,None,8:15,1,Pistons,Lakers,6 - 8,0,26,3,Jumper
+32,Lonzo Ball,DEFENSIVE_REBOUND,None,8:11,1,Lakers,Pistons,6 - 8,1,N/A,N/A,N/A
+33,Josh Hart,FG_MISS,None,8:05,1,Lakers,Pistons,6 - 8,1,27,3,Jumper
+34,Andre Drummond,DEFENSIVE_REBOUND,None,8:03,1,Pistons,Lakers,6 - 8,0,N/A,N/A,N/A
+35,Andre Drummond,FG_MISS,None,7:41,1,Pistons,Lakers,6 - 8,0,27,3,Jumper
+36,Brandon Ingram,DEFENSIVE_REBOUND,None,7:39,1,Lakers,Pistons,6 - 8,1,N/A,N/A,N/A
+37,Kyle Kuzma,FG_MISS,None,7:30,1,Lakers,Pistons,6 - 8,1,27,3,Jumper
+38,Andre Drummond,DEFENSIVE_REBOUND,None,7:28,1,Pistons,Lakers,6 - 8,0,N/A,N/A,N/A
+39,JaVale McGee,FOUL_TECHNICAL,None,7:18,1,Lakers,Pistons,6 - 8,1,N/A,N/A,N/A
+40,Reggie Jackson,FT,None,7:18,1,Pistons,Lakers,7 - 8,0,N/A,1,N/A
+41,Blake Griffin,FG_MISS,None,7:10,1,Pistons,Lakers,7 - 8,0,27,2,Jumper
+42,Lonzo Ball,DEFENSIVE_REBOUND,None,7:06,1,Lakers,Pistons,7 - 8,1,N/A,N/A,N/A
+43,Kyle Kuzma,FG_ASSISTED,Lonzo Ball,7:04,1,Lakers,Pistons,7 - 10,1, ,2,Jumper
+44,Blake Griffin,FG_ASSISTED,Reggie Jackson,6:53,1,Pistons,Lakers,9 - 10,0,3,2,Jumper
+45,Kyle Kuzma,FG_MISS,None,6:35,1,Lakers,Pistons,9 - 10,1,28,3,Jumper
+46,Reggie Jackson,DEFENSIVE_REBOUND,None,6:32,1,Pistons,Lakers,9 - 10,0,N/A,N/A,N/A
+47,Reggie Jackson,FG_UNASSISTED,None,6:28,1,Pistons,Lakers,12 - 10,0,26,2,Jumper
+48,Team,Unknown,None,6:27,1,Lakers,Pistons,12 - 10,1,N/A,N/A,N/A
+49,Jose Calderon,SUBSTITUTION,Jackson Reggie,6:27,1,Pistons,Lakers,12 - 10,0,N/A,N/A,N/A
+50,Lonzo Ball,TURNOVER,Andre Drummond,6:06,1,Lakers,Pistons,12 - 10,1,N/A,N/A,N/A
+51,Bruce Brown,FG_MISS,None,5:50,1,Pistons,Lakers,12 - 10,0,25,3,Jumper
+52,Josh Hart,DEFENSIVE_REBOUND,None,5:47,1,Lakers,Pistons,12 - 10,1,N/A,N/A,N/A
+53,Kyle Kuzma,FG_ASSISTED,JaVale McGee,5:42,1,Lakers,Pistons,12 - 12,1,0,2,Dunk
+54,Lonzo Ball,FOUL_TECHNICAL,None,5:21,1,Lakers,Pistons,12 - 12,1,N/A,N/A,N/A
+55,Reggie Bullock,FT_MISS,None,5:21,1,Pistons,Lakers,12 - 12,0,N/A,1,N/A
+56,Team,OFFENSIVE_REBOUND,None,5:21,1,Pistons,Lakers,12 - 12,0,N/A,N/A,N/A
+57,Ivica Zubac,SUBSTITUTION,McGee JaVale,5:21,1,Lakers,Pistons,12 - 12,1,N/A,N/A,N/A
+58,Luke Kennard,SUBSTITUTION,Bullock Reggie,5:21,1,Pistons,Lakers,12 - 12,0,N/A,N/A,N/A
+59,Ivica Zubac,FOUL_ON_FLOOR,None,5:17,1,Lakers,Pistons,12 - 12,1,N/A,N/A,N/A
+60,Jose Calderon,FG_MISS,None,5:07,1,Pistons,Lakers,12 - 12,0,27,3,Jumper
+61,Brandon Ingram,DEFENSIVE_REBOUND,None,5:04,1,Lakers,Pistons,12 - 12,1,N/A,N/A,N/A
+62,Bruce Brown,FOUL_ON_FLOOR,None,5:02,1,Pistons,Lakers,12 - 12,0,N/A,N/A,N/A
+63,Stanley Johnson,SUBSTITUTION,Brown Bruce,5:02,1,Pistons,Lakers,12 - 12,0,N/A,N/A,N/A
+64,Andre Drummond,FOUL_ON_FLOOR,None,4:46,1,Pistons,Lakers,12 - 12,0,N/A,N/A,N/A
+65,Brandon Ingram,FT,None,4:46,1,Lakers,Pistons,12 - 13,1,N/A,1,N/A
+66,Kentavious Caldwell-Pope,SUBSTITUTION,Ball Lonzo,4:46,1,Lakers,Pistons,12 - 13,1,N/A,N/A,N/A
+67,Brandon Ingram,FT,None,4:46,1,Lakers,Pistons,12 - 14,1,N/A,1,N/A
+68,Blake Griffin,FG_MISS,None,4:22,1,Pistons,Lakers,12 - 14,0,27,3,Jumper
+69,Brandon Ingram,DEFENSIVE_REBOUND,None,4:19,1,Lakers,Pistons,12 - 14,1,N/A,N/A,N/A
+70,Kyle Kuzma,FG_ASSISTED,Brandon Ingram,4:17,1,Lakers,Pistons,12 - 16,1,0,2,Dunk
+71,Team,Unknown,None,4:17,1,Pistons,Lakers,12 - 16,0,N/A,N/A,N/A
+72,Stanley Johnson,FG_UNASSISTED,None,3:57,1,Pistons,Lakers,14 - 16,0,12,2,Jumper
+73,Kyle Kuzma,FG_MISS,None,3:32,1,Lakers,Pistons,14 - 16,1,26,3,Jumper
+74,Luke Kennard,DEFENSIVE_REBOUND,None,3:30,1,Pistons,Lakers,14 - 16,0,N/A,N/A,N/A
+75,Ivica Zubac,FOUL_ON_FLOOR,None,3:25,1,Lakers,Pistons,14 - 16,1,N/A,N/A,N/A
+76,Blake Griffin,FT,None,3:25,1,Pistons,Lakers,15 - 16,0,N/A,1,N/A
+77,Blake Griffin,FT,None,3:25,1,Pistons,Lakers,16 - 16,0,N/A,1,N/A
+78,Josh Hart,TURNOVER,Stanley Johnson,3:07,1,Lakers,Pistons,16 - 16,1,N/A,N/A,N/A
+79,Blake Griffin,FG_MISS,None,3:01,1,Pistons,Lakers,16 - 16,0,27,3,Jumper
+80,Brandon Ingram,DEFENSIVE_REBOUND,None,3:00,1,Lakers,Pistons,16 - 16,1,N/A,N/A,N/A
+81,Andre Drummond,FOUL_ON_FLOOR,None,3:00,1,Pistons,Lakers,16 - 16,0,N/A,N/A,N/A
+82,Brandon Ingram,FG_MISS,None,2:47,1,Lakers,Pistons,16 - 16,1,0,2,Layup
+83,Brandon Ingram,OFFENSIVE_REBOUND,None,2:43,1,Lakers,Pistons,16 - 16,1,N/A,N/A,N/A
+84,Josh Hart,FG_MISS,None,2:41,1,Lakers,Pistons,16 - 16,1, ,2,Jumper
+85,Andre Drummond,DEFENSIVE_REBOUND,None,2:39,1,Pistons,Lakers,16 - 16,0,N/A,N/A,N/A
+86,Blake Griffin,FG_UNASSISTED,None,2:35,1,Pistons,Lakers,18 - 16,0, ,2,Jumper
+87,Jose Calderon,FOUL_ON_FLOOR,None,2:28,1,Pistons,Lakers,18 - 16,0,N/A,N/A,N/A
+88,Lance Stephenson,SUBSTITUTION,Hart Josh,2:28,1,Lakers,Pistons,18 - 16,1,N/A,N/A,N/A
+89,Glenn Robinson,SUBSTITUTION,Griffin Blake,2:28,1,Pistons,Lakers,18 - 16,0,N/A,N/A,N/A
+90,Kyle Kuzma,FG_ASSISTED,Brandon Ingram,2:22,1,Lakers,Pistons,18 - 18,1,6,2,Jumper
+91,Andre Drummond,Unknown,None,2:22,1,Pistons,Lakers,18 - 18,0,N/A,N/A,N/A
+92,Luke Kennard,FG_MISS,None,2:07,1,Pistons,Lakers,18 - 18,0,28,3,Jumper
+93,Lance Stephenson,DEFENSIVE_REBOUND,None,2:04,1,Lakers,Pistons,18 - 18,1,N/A,N/A,N/A
+94,Ivica Zubac,FG_MISS,None,1:56,1,Lakers,Pistons,18 - 18,1,8,2,Jumper
+95,Luke Kennard,DEFENSIVE_REBOUND,None,1:54,1,Pistons,Lakers,18 - 18,0,N/A,N/A,N/A
+96,Andre Drummond,FG_MISS,None,1:47,1,Pistons,Lakers,18 - 18,0, ,2,Jumper
+97,Team,OFFENSIVE_REBOUND,None,1:47,1,Pistons,Lakers,18 - 18,0,N/A,N/A,N/A
+98,Michael Beasley,SUBSTITUTION,Kuzma Kyle,1:47,1,Lakers,Pistons,18 - 18,1,N/A,N/A,N/A
+99,Jose Calderon's,FG_MISS,Michael Beasley,1:37,1,Lakers,Pistons,18 - 18,0,0,2,Layup
+100,Jose Calderon,JUMP_BALL,None,1:33,1,Pistons,Lakers,18 - 18,0,N/A,N/A,N/A
+101,Team,OFFENSIVE_REBOUND,None,1:33,1,Pistons,Lakers,18 - 18,0,N/A,N/A,N/A
+102,Stanley Johnson,FG_ASSISTED,obinson III,1:29,1,Pistons,Lakers,21 - 18,0,27,2,Jumper
+103,Ivica Zubac,FG_ASSISTED,Kentavious Caldwell-Pope,1:12,1,Lakers,Pistons,21 - 20,1,0,2,Layup
+104,Glenn Robinson,FG_MISS,None,59.7,1,Pistons,Lakers,21 - 20,0,15,2,Jumper
+105,Andre Drummond,OFFENSIVE_REBOUND,None,56.8,1,Pistons,Lakers,21 - 20,0,N/A,N/A,N/A
+106,Michael Beasley,FOUL_ON_FLOOR,None,56.8,1,Lakers,Pistons,21 - 20,1,N/A,N/A,N/A
+107,Andre Drummond,FT_MISS,None,56.8,1,Pistons,Lakers,21 - 20,0,N/A,1,N/A
+108,Team,OFFENSIVE_REBOUND,None,56.8,1,Pistons,Lakers,21 - 20,0,N/A,N/A,N/A
+109,Andre Drummond,FT,None,56.8,1,Pistons,Lakers,22 - 20,0,N/A,1,N/A
+110,Glenn Robinson,FOUL_ON_FLOOR,None,47.0,1,Pistons,Lakers,22 - 20,0,N/A,N/A,N/A
+111,Brandon Ingram,FT_MISS,None,47.0,1,Lakers,Pistons,22 - 20,1,N/A,1,N/A
+112,Team,OFFENSIVE_REBOUND,None,47.0,1,Lakers,Pistons,22 - 20,1,N/A,N/A,N/A
+113,JaVale McGee,SUBSTITUTION,Zubac Ivica,47.0,1,Lakers,Pistons,22 - 20,1,N/A,N/A,N/A
+114,Brandon Ingram,FT_MISS,None,47.0,1,Lakers,Pistons,22 - 20,1,N/A,1,N/A
+115,Andre Drummond,DEFENSIVE_REBOUND,None,44.3,1,Pistons,Lakers,22 - 20,0,N/A,N/A,N/A
+116,Jose Calderon,FG_UNASSISTED,None,26.6,1,Pistons,Lakers,24 - 20,0,19,2,Jumper
+117,Brandon Ingram,FG_MISS,None,3.7,1,Lakers,Pistons,24 - 20,1,8,2,Jumper
+118,Andre Drummond,DEFENSIVE_REBOUND,None,1.9,1,Pistons,Lakers,24 - 20,0,N/A,N/A,N/A
+119,Andre Drummond,FG_MISS,None,1.2,1,Pistons,Lakers,24 - 20,0,52,3,Jumper
+120,Team,OFFENSIVE_REBOUND,None,0.1,1,Pistons,Lakers,24 - 20,0,N/A,N/A,N/A
+121,End of,Unknown,None,0.0,1,Lakers,Pistons,24 - 20,1,N/A,N/A,N/A
+0,Lonzo Ball,SUBSTITUTION,Ingram Brandon,12:00,2,Lakers,Pistons,24 - 20,1,N/A,N/A,N/A
+1,Blake Griffin,SUBSTITUTION,Drummond Andre,12:00,2,Pistons,Lakers,24 - 20,0,N/A,N/A,N/A
+2,Reggie Bullock,SUBSTITUTION,Johnson Stanley,12:00,2,Pistons,Lakers,24 - 20,0,N/A,N/A,N/A
+3,Jon Leuer,SUBSTITUTION,III Robinson,12:00,2,Pistons,Lakers,24 - 20,0,N/A,N/A,N/A
+4,Reggie Jackson,SUBSTITUTION,Calderon Jose,12:00,2,Pistons,Lakers,24 - 20,0,N/A,N/A,N/A
+5,Reggie Bullock,FG_MISS,None,11:45,2,Pistons,Lakers,24 - 20,0,25,3,Jumper
+6,Michael Beasley,DEFENSIVE_REBOUND,None,11:43,2,Lakers,Pistons,24 - 20,1,N/A,N/A,N/A
+7,Michael Beasley,FG_ASSISTED,Lance Stephenson,11:30,2,Lakers,Pistons,24 - 22,1,0,2,Layup
+8,Luke Kennard,FG_ASSISTED,Reggie Jackson,11:10,2,Pistons,Lakers,27 - 22,0,27,3,Jumper
+9,Lonzo Ball,FG_MISS,None,10:48,2,Lakers,Pistons,27 - 22,1,25,3,Jumper
+10,Reggie Bullock,DEFENSIVE_REBOUND,None,10:46,2,Pistons,Lakers,27 - 22,0,N/A,N/A,N/A
+11,JaVale McGee,FOUL_ON_FLOOR,None,10:35,2,Lakers,Pistons,27 - 22,1,N/A,N/A,N/A
+12,Jon Leuer,FG_MISS,None,10:22,2,Pistons,Lakers,27 - 22,0,24,3,Jumper
+13,Kentavious Caldwell-Pope,DEFENSIVE_REBOUND,None,10:18,2,Lakers,Pistons,27 - 22,1,N/A,N/A,N/A
+14,Jon Leuer,FOUL_ON_FLOOR,None,10:10,2,Pistons,Lakers,27 - 22,0,N/A,N/A,N/A
+15,Kentavious Caldwell-Pope,FT,None,10:10,2,Lakers,Pistons,27 - 23,1,N/A,1,N/A
+16,Kentavious Caldwell-Pope,FT,None,10:10,2,Lakers,Pistons,27 - 24,1,N/A,1,N/A
+17,Luke Kennard,FG_MISS,None,9:56,2,Pistons,Lakers,27 - 24,0,26,3,Jumper
+18,Kentavious Caldwell-Pope,DEFENSIVE_REBOUND,None,9:51,2,Lakers,Pistons,27 - 24,1,N/A,N/A,N/A
+19,Michael Beasley,FG_ASSISTED,Kentavious Caldwell-Pope,9:35,2,Lakers,Pistons,27 - 26,1,0,2,Layup
+20,Reggie Jackson,FOUL_ON_FLOOR,None,9:25,2,Pistons,Lakers,27 - 26,0,N/A,N/A,N/A
+21,Reggie Jackson,TURNOVER,None,9:25,2,Pistons,Lakers,27 - 26,0,N/A,N/A,N/A
+22,Kentavious Caldwell-Pope,FG_ASSISTED,Michael Beasley,9:25,2,Lakers,Pistons,27 - 29,1,25,3,Jumper
+23,Reggie Bullock,FG_ASSISTED,Blake Griffin,8:59,2,Pistons,Lakers,29 - 29,0,0,2,Layup
+24,Michael Beasley,FG_MISS,None,8:37,2,Lakers,Pistons,29 - 29,1,22,2,Jumper
+25,Luke Kennard,DEFENSIVE_REBOUND,None,8:35,2,Pistons,Lakers,29 - 29,0,N/A,N/A,N/A
+26,Luke Kennard,FG_MISS,Lonzo Ball,8:31,2,Lakers,Pistons,29 - 29,0,16,2,Jumper
+27,Lonzo Ball,DEFENSIVE_REBOUND,None,8:28,2,Lakers,Pistons,29 - 29,1,N/A,N/A,N/A
+28,Kentavious Caldwell-Pope,FG_ASSISTED,Lonzo Ball,8:26,2,Lakers,Pistons,29 - 31,1, ,2,Jumper
+29,Reggie Jackson,FG_MISS,None,8:12,2,Pistons,Lakers,29 - 31,0,26,3,Jumper
+30,Lance Stephenson,DEFENSIVE_REBOUND,None,8:08,2,Lakers,Pistons,29 - 31,1,N/A,N/A,N/A
+31,Reggie Jackson,FOUL_ON_FLOOR,None,8:08,2,Pistons,Lakers,29 - 31,0,N/A,N/A,N/A
+32,Kyle Kuzma,SUBSTITUTION,Beasley Michael,8:08,2,Lakers,Pistons,29 - 31,1,N/A,N/A,N/A
+33,Bruce Brown,SUBSTITUTION,Kennard Luke,8:08,2,Pistons,Lakers,29 - 31,0,N/A,N/A,N/A
+34,Kyle Kuzma,FG_ASSISTED,Kentavious Caldwell-Pope,7:55,2,Lakers,Pistons,29 - 34,1,23,3,Jumper
+35,Reggie Bullock,FG_MISS,None,7:33,2,Pistons,Lakers,29 - 34,0,26,3,Jumper
+36,Jon Leuer,OFFENSIVE_REBOUND,None,7:29,2,Pistons,Lakers,29 - 34,0,N/A,N/A,N/A
+37,Bruce Brown,FG_MISS,None,7:19,2,Pistons,Lakers,29 - 34,0,26,3,Jumper
+38,Lonzo Ball,DEFENSIVE_REBOUND,None,7:16,2,Lakers,Pistons,29 - 34,1,N/A,N/A,N/A
+39,Jon Leuer,FOUL_FLAGRANT_1,None,7:10,2,Pistons,Lakers,29 - 34,0,N/A,N/A,N/A
+40,JaVale McGee,FT,None,7:10,2,Lakers,Pistons,29 - 35,1,N/A,1,N/A
+41,JaVale McGee,FT,None,7:10,2,Lakers,Pistons,29 - 36,1,N/A,1,N/A
+42,Kentavious Caldwell-Pope,FG_UNASSISTED,None,6:59,2,Lakers,Pistons,29 - 38,1,2,2,Jumper
+43,Reggie Bullock,FG_ASSISTED,Blake Griffin,6:38,2,Pistons,Lakers,31 - 38,0,0,2,Layup
+44,Lonzo Ball,FG_MISS,None,6:18,2,Lakers,Pistons,31 - 38,1, ,2,Jumper
+45,Jon Leuer,DEFENSIVE_REBOUND,None,6:17,2,Pistons,Lakers,31 - 38,0,N/A,N/A,N/A
+46,Lonzo Ball,FOUL_ON_FLOOR,None,6:09,2,Lakers,Pistons,31 - 38,1,N/A,N/A,N/A
+47,Team,Unknown,None,6:09,2,Lakers,Pistons,31 - 38,1,N/A,N/A,N/A
+48,Josh Hart,SUBSTITUTION,Stephenson Lance,6:09,2,Lakers,Pistons,31 - 38,1,N/A,N/A,N/A
+49,Andre Drummond,SUBSTITUTION,Leuer Jon,6:09,2,Pistons,Lakers,31 - 38,0,N/A,N/A,N/A
+50,Bruce Brown,FG_MISS,None,5:58,2,Pistons,Lakers,31 - 38,0,11,2,Jumper
+51,Team,DEFENSIVE_REBOUND,None,5:58,2,Lakers,Pistons,31 - 38,1,N/A,N/A,N/A
+52,JaVale McGee,FG_ASSISTED,Lonzo Ball,5:45,2,Lakers,Pistons,31 - 40,1,0,2,Layup
+53,Reggie Jackson,FG_MISS,None,5:33,2,Pistons,Lakers,31 - 40,0,14,2,Jumper
+54,Josh Hart,DEFENSIVE_REBOUND,None,5:30,2,Lakers,Pistons,31 - 40,1,N/A,N/A,N/A
+55,Josh Hart,TURNOVER,None,5:30,2,Lakers,Pistons,31 - 40,1,N/A,N/A,N/A
+56,Ivica Zubac,SUBSTITUTION,Caldwell-Pope Kentavious,5:30,2,Lakers,Pistons,31 - 40,1,N/A,N/A,N/A
+57,Brandon Ingram,SUBSTITUTION,McGee JaVale,5:30,2,Lakers,Pistons,31 - 40,1,N/A,N/A,N/A
+58,Reggie Jackson,FG_ASSISTED,Bruce Brown,5:12,2,Pistons,Lakers,34 - 40,0,25,3,Jumper
+59,Kyle Kuzma,FG_MISS,None,4:57,2,Lakers,Pistons,34 - 40,1,20,2,Jumper
+60,Reggie Jackson,DEFENSIVE_REBOUND,None,4:53,2,Pistons,Lakers,34 - 40,0,N/A,N/A,N/A
+61,Andre Drummond,FG_MISS,None,4:44,2,Pistons,Lakers,34 - 40,0, ,2,Jumper
+62,Josh Hart,DEFENSIVE_REBOUND,None,4:42,2,Lakers,Pistons,34 - 40,1,N/A,N/A,N/A
+63,Brandon Ingram,FG_MISS,Andre Drummond,4:36,2,Pistons,Lakers,34 - 40,1,0,2,Layup
+64,Andre Drummond,DEFENSIVE_REBOUND,None,4:36,2,Pistons,Lakers,34 - 40,0,N/A,N/A,N/A
+65,Blake Griffin,FG_ASSISTED,Reggie Jackson,4:29,2,Pistons,Lakers,36 - 40,0,0,2,Dunk
+66,Team,Unknown,None,4:27,2,Lakers,Pistons,36 - 40,1,N/A,N/A,N/A
+67,JaVale McGee,SUBSTITUTION,Zubac Ivica,4:27,2,Lakers,Pistons,36 - 40,1,N/A,N/A,N/A
+68,Bruce Brown,FOUL_ON_FLOOR,None,4:18,2,Pistons,Lakers,36 - 40,0,N/A,N/A,N/A
+69,Brandon Ingram,FG_UNASSISTED,None,4:10,2,Lakers,Pistons,36 - 42,1, ,2,Jumper
+70,Bruce Brown,FG_MISS,None,3:44,2,Pistons,Lakers,36 - 42,0,0,2,Layup
+71,Andre Drummond,OFFENSIVE_REBOUND,None,3:44,2,Pistons,Lakers,36 - 42,0,N/A,N/A,N/A
+72,Andre Drummond,TURNOVER,None,3:44,2,Pistons,Lakers,36 - 42,0,N/A,N/A,N/A
+73,Lonzo Ball,FG_UNASSISTED,None,3:25,2,Lakers,Pistons,36 - 45,1,26,3,Jumper
+74,Blake Griffin,TURNOVER,None,3:12,2,Pistons,Lakers,36 - 45,0,N/A,N/A,N/A
+75,JaVale McGee,FG_MISS,None,3:06,2,Lakers,Pistons,36 - 45,1,0,2,Layup
+76,JaVale McGee,OFFENSIVE_REBOUND,None,3:04,2,Lakers,Pistons,36 - 45,1,N/A,N/A,N/A
+77,Lonzo Ball,FG_UNASSISTED,None,2:52,2,Lakers,Pistons,36 - 47,1,0,2,Layup
+78,Team,Unknown,None,2:48,2,Pistons,Lakers,36 - 47,0,N/A,N/A,N/A
+79,Stanley Johnson,SUBSTITUTION,Brown Bruce,2:48,2,Pistons,Lakers,36 - 47,0,N/A,N/A,N/A
+80,Reggie Jackson,FG_MISS,None,2:41,2,Pistons,Lakers,36 - 47,0,26,3,Jumper
+81,Josh Hart,DEFENSIVE_REBOUND,None,2:38,2,Lakers,Pistons,36 - 47,1,N/A,N/A,N/A
+82,Kyle Kuzma,FG_ASSISTED,Lonzo Ball,2:30,2,Lakers,Pistons,36 - 49,1,16,2,Jumper
+83,Blake Griffin,FG_UNASSISTED,None,2:14,2,Pistons,Lakers,38 - 49,0,0,2,Dunk
+84,Brandon Ingram,FG_UNASSISTED,None,2:01,2,Lakers,Pistons,38 - 51,1,0,2,Layup
+85,Stanley Johnson,FG_ASSISTED,Reggie Jackson,1:35,2,Pistons,Lakers,40 - 51,0,7,2,Jumper
+86,Brandon Ingram,TURNOVER,Reggie Jackson,1:19,2,Lakers,Pistons,40 - 51,1,N/A,N/A,N/A
+87,Reggie Jackson,FG_UNASSISTED,None,1:16,2,Pistons,Lakers,42 - 51,0,0,2,Dunk
+88,JaVale McGee,FG_ASSISTED,Brandon Ingram,56.8,2,Lakers,Pistons,42 - 53,1,0,2,Dunk
+89,Blake Griffin,TURNOVER,Lonzo Ball,45.1,2,Pistons,Lakers,42 - 53,0,N/A,N/A,N/A
+90,Kyle Kuzma,FG_UNASSISTED,None,42.2,2,Lakers,Pistons,42 - 55,1, ,2,Jumper
+91,Blake Griffin,FG_ASSISTED,Stanley Johnson,36.4,2,Pistons,Lakers,45 - 55,0,27,2,Jumper
+92,Kyle Kuzma,TURNOVER,Andre Drummond,29.4,2,Lakers,Pistons,45 - 55,1,N/A,N/A,N/A
+93,Stanley Johnson,FG_MISS,None,20.9,2,Pistons,Lakers,45 - 55,0,25,3,Jumper
+94,Andre Drummond,OFFENSIVE_REBOUND,None,19.4,2,Pistons,Lakers,45 - 55,0,N/A,N/A,N/A
+95,Andre Drummond,FG_UNASSISTED,None,19.4,2,Pistons,Lakers,47 - 55,0,0,2,Dunk
+96,Brandon Ingram,TURNOVER,Stanley Johnson,0.2,2,Lakers,Pistons,47 - 55,1,N/A,N/A,N/A
+97,End of,Unknown,None,0.0,2,Lakers,Pistons,47 - 55,1,N/A,N/A,N/A
+0,Bruce Brown,SUBSTITUTION,Johnson Stanley,12:00,3,Pistons,Lakers,47 - 55,0,N/A,N/A,N/A
+1,Reggie Jackson,FG_ASSISTED,Andre Drummond,11:46,3,Pistons,Lakers,50 - 55,0,25,3,Jumper
+2,JaVale McGee,FG_ASSISTED,Brandon Ingram,11:23,3,Lakers,Pistons,50 - 57,1,0,2,Dunk
+3,Blake Griffin,FG_MISS,None,11:04,3,Pistons,Lakers,50 - 57,0,26,2,Jumper
+4,Andre Drummond,OFFENSIVE_REBOUND,None,10:59,3,Pistons,Lakers,50 - 57,0,N/A,N/A,N/A
+5,Andre Drummond,FG_MISS,JaVale McGee,10:58,3,Lakers,Pistons,50 - 57,0,0,2,Layup
+6,Josh Hart,DEFENSIVE_REBOUND,None,10:56,3,Lakers,Pistons,50 - 57,1,N/A,N/A,N/A
+7,Kyle Kuzma,FG_ASSISTED,JaVale McGee,10:56,3,Lakers,Pistons,50 - 59,1,0,2,Layup
+8,Reggie Jackson,FOUL_ON_FLOOR,None,10:56,3,Pistons,Lakers,50 - 59,0,N/A,N/A,N/A
+9,Kyle Kuzma,FT,None,10:56,3,Lakers,Pistons,50 - 60,1,N/A,1,N/A
+10,Reggie Jackson,FG_ASSISTED,Blake Griffin,10:48,3,Pistons,Lakers,52 - 60,0, ,2,Jumper
+11,JaVale McGee,FG_ASSISTED,Lonzo Ball,10:32,3,Lakers,Pistons,52 - 62,1,0,2,Dunk
+12,JaVale McGee,FOUL_TECHNICAL,None,10:21,3,Lakers,Pistons,52 - 62,1,N/A,N/A,N/A
+13,Reggie Jackson,FT,None,10:21,3,Pistons,Lakers,53 - 62,0,N/A,1,N/A
+14,Reggie Bullock,FG_UNASSISTED,None,10:08,3,Pistons,Lakers,55 - 62,0,0,2,Layup
+15,Kyle Kuzma,FG_ASSISTED,Lonzo Ball,9:54,3,Lakers,Pistons,55 - 65,1,29,3,Jumper
+16,Andre Drummond's,FG_MISS,JaVale McGee,9:31,3,Lakers,Pistons,55 - 65,0,0,2,Dunk
+17,Brandon Ingram,DEFENSIVE_REBOUND,None,9:28,3,Lakers,Pistons,55 - 65,1,N/A,N/A,N/A
+18,Kyle Kuzma,TURNOVER,None,9:25,3,Lakers,Pistons,55 - 65,1,N/A,N/A,N/A
+19,Reggie Bullock,FG_MISS,None,9:01,3,Pistons,Lakers,55 - 65,0,14,2,Jumper
+20,Brandon Ingram,DEFENSIVE_REBOUND,None,8:59,3,Lakers,Pistons,55 - 65,1,N/A,N/A,N/A
+21,Blake Griffin,FOUL_ON_FLOOR,None,8:54,3,Pistons,Lakers,55 - 65,0,N/A,N/A,N/A
+22,Kyle Kuzma,FT_MISS,None,8:54,3,Lakers,Pistons,55 - 65,1,N/A,1,N/A
+23,Team,OFFENSIVE_REBOUND,None,8:54,3,Lakers,Pistons,55 - 65,1,N/A,N/A,N/A
+24,Kyle Kuzma,FT,None,8:54,3,Lakers,Pistons,55 - 66,1,N/A,1,N/A
+25,Blake Griffin,FG_MISS,None,8:47,3,Pistons,Lakers,55 - 66,0,25,3,Jumper
+26,Josh Hart,DEFENSIVE_REBOUND,None,8:45,3,Lakers,Pistons,55 - 66,1,N/A,N/A,N/A
+27,Kyle Kuzma,FG_ASSISTED,Lonzo Ball,8:31,3,Lakers,Pistons,55 - 69,1,26,3,Jumper
+28,Team,Unknown,None,8:31,3,Pistons,Lakers,55 - 69,0,N/A,N/A,N/A
+29,Reggie Bullock,FG_MISS,None,8:04,3,Pistons,Lakers,55 - 69,0,28,3,Jumper
+30,Josh Hart,DEFENSIVE_REBOUND,None,8:02,3,Lakers,Pistons,55 - 69,1,N/A,N/A,N/A
+31,Kyle Kuzma,FG_MISS,None,7:48,3,Lakers,Pistons,55 - 69,1,11,2,Jumper
+32,JaVale McGee,OFFENSIVE_REBOUND,None,7:46,3,Lakers,Pistons,55 - 69,1,N/A,N/A,N/A
+33,JaVale McGee,FG_MISS,None,7:45,3,Lakers,Pistons,55 - 69,1, ,2,Jumper
+34,Andre Drummond,DEFENSIVE_REBOUND,None,7:43,3,Pistons,Lakers,55 - 69,0,N/A,N/A,N/A
+35,Bruce Brown,FG_UNASSISTED,None,7:25,3,Pistons,Lakers,57 - 69,0,0,2,Layup
+36,Brandon Ingram,FG_MISS,None,7:08,3,Lakers,Pistons,57 - 69,1,0,2,Layup
+37,Reggie Bullock,DEFENSIVE_REBOUND,None,7:06,3,Pistons,Lakers,57 - 69,0,N/A,N/A,N/A
+38,JaVale McGee,FOUL_ON_FLOOR,None,7:02,3,Lakers,Pistons,57 - 69,1,N/A,N/A,N/A
+39,Andre Drummond,FT_MISS,None,7:02,3,Pistons,Lakers,57 - 69,0,N/A,1,N/A
+40,Team,OFFENSIVE_REBOUND,None,7:02,3,Pistons,Lakers,57 - 69,0,N/A,N/A,N/A
+41,Andre Drummond,FT_MISS,None,7:02,3,Pistons,Lakers,57 - 69,0,N/A,1,N/A
+42,JaVale McGee,DEFENSIVE_REBOUND,None,6:59,3,Lakers,Pistons,57 - 69,1,N/A,N/A,N/A
+43,Kyle Kuzma,FG_UNASSISTED,None,6:39,3,Lakers,Pistons,57 - 72,1,28,3,Jumper
+44,Reggie Bullock,FG_ASSISTED,Bruce Brown,6:19,3,Pistons,Lakers,60 - 72,0,27,3,Jumper
+45,Josh Hart,FOUL_ON_FLOOR,None,6:19,3,Lakers,Pistons,60 - 72,1,N/A,N/A,N/A
+46,Reggie Bullock,FT,None,6:19,3,Pistons,Lakers,61 - 72,0,N/A,1,N/A
+47,Kyle Kuzma,FG_MISS,None,5:55,3,Lakers,Pistons,61 - 72,1,26,3,Jumper
+48,Andre Drummond,DEFENSIVE_REBOUND,None,5:53,3,Pistons,Lakers,61 - 72,0,N/A,N/A,N/A
+49,Blake Griffin,FG_UNASSISTED,None,5:47,3,Pistons,Lakers,64 - 72,0,26,3,Jumper
+50,Team,Unknown,None,5:47,3,Lakers,Pistons,61 - 72,1,N/A,N/A,N/A
+51,Ivica Zubac,SUBSTITUTION,Ball Lonzo,5:47,3,Lakers,Pistons,64 - 72,1,N/A,N/A,N/A
+52,Kentavious Caldwell-Pope,SUBSTITUTION,McGee JaVale,5:47,3,Lakers,Pistons,64 - 72,1,N/A,N/A,N/A
+53,Brandon Ingram,FG_UNASSISTED,None,5:29,3,Lakers,Pistons,64 - 74,1,13,2,Jumper
+54,Reggie Jackson,FG_MISS,None,5:04,3,Pistons,Lakers,64 - 74,0,24,3,Jumper
+55,Kyle Kuzma,DEFENSIVE_REBOUND,None,5:02,3,Lakers,Pistons,64 - 74,1,N/A,N/A,N/A
+56,Kentavious Caldwell-Pope,FG_MISS,None,4:56,3,Lakers,Pistons,64 - 74,1,28,3,Jumper
+57,Andre Drummond,DEFENSIVE_REBOUND,None,4:54,3,Pistons,Lakers,64 - 74,0,N/A,N/A,N/A
+58,Kyle Kuzma,FOUL_ON_FLOOR,None,4:52,3,Lakers,Pistons,64 - 74,1,N/A,N/A,N/A
+59,Blake Griffin,FG_MISS,None,4:40,3,Pistons,Lakers,64 - 74,0,4,2,Jumper
+60,Bruce Brown,OFFENSIVE_REBOUND,None,4:35,3,Pistons,Lakers,64 - 74,0,N/A,N/A,N/A
+61,Bruce Brown,FG_UNASSISTED,None,4:35,3,Pistons,Lakers,66 - 74,0, ,2,Jumper
+62,Bruce Brown,FOUL_ON_FLOOR,None,4:22,3,Pistons,Lakers,66 - 74,0,N/A,N/A,N/A
+63,Stanley Johnson,SUBSTITUTION,Brown Bruce,4:22,3,Pistons,Lakers,66 - 74,0,N/A,N/A,N/A
+64,Luke Kennard,SUBSTITUTION,Bullock Reggie,4:22,3,Pistons,Lakers,66 - 74,0,N/A,N/A,N/A
+65,Reggie Jackson,FOUL_ON_FLOOR,None,4:08,3,Pistons,Lakers,66 - 74,0,N/A,N/A,N/A
+66,Kyle Kuzma,FT,None,4:08,3,Lakers,Pistons,66 - 75,1,N/A,1,N/A
+67,Jose Calderon,SUBSTITUTION,Jackson Reggie,4:08,3,Pistons,Lakers,66 - 75,0,N/A,N/A,N/A
+68,Kyle Kuzma,FT,None,4:08,3,Lakers,Pistons,66 - 76,1,N/A,1,N/A
+69,Stanley Johnson,FG_MISS,Josh Hart,3:47,3,Lakers,Pistons,66 - 76,0,15,2,Jumper
+70,Ivica Zubac,DEFENSIVE_REBOUND,None,3:44,3,Lakers,Pistons,66 - 76,1,N/A,N/A,N/A
+71,Kyle Kuzma,FG_ASSISTED,Kentavious Caldwell-Pope,3:35,3,Lakers,Pistons,66 - 78,1,0,2,Layup
+72,Andre Drummond,Unknown,None,3:35,3,Pistons,Lakers,66 - 78,0,N/A,N/A,N/A
+73,Stanley Johnson,FG_MISS,None,3:19,3,Pistons,Lakers,66 - 78,0,26,3,Jumper
+74,Kentavious Caldwell-Pope,DEFENSIVE_REBOUND,None,3:16,3,Lakers,Pistons,66 - 78,1,N/A,N/A,N/A
+75,Kentavious Caldwell-Pope,TURNOVER,Andre Drummond,3:08,3,Lakers,Pistons,66 - 78,1,N/A,N/A,N/A
+76,Andre Drummond,TURNOVER,Ivica Zubac,3:04,3,Pistons,Lakers,66 - 78,0,N/A,N/A,N/A
+77,Kentavious Caldwell-Pope,TURNOVER,None,3:01,3,Lakers,Pistons,66 - 78,1,N/A,N/A,N/A
+78,Luke Kennard,FG_MISS,None,2:49,3,Pistons,Lakers,66 - 78,0,27,3,Jumper
+79,Ivica Zubac,DEFENSIVE_REBOUND,None,2:46,3,Lakers,Pistons,66 - 78,1,N/A,N/A,N/A
+80,Kyle Kuzma,FG_MISS,Andre Drummond,2:33,3,Pistons,Lakers,66 - 78,1,5,2,Jumper
+81,Kyle Kuzma,OFFENSIVE_REBOUND,None,2:31,3,Lakers,Pistons,66 - 78,1,N/A,N/A,N/A
+82,Kyle Kuzma,FG_UNASSISTED,None,2:31,3,Lakers,Pistons,66 - 80,1, ,2,Jumper
+83,Andre Drummond,Unknown,None,2:31,3,Pistons,Lakers,66 - 80,0,N/A,N/A,N/A
+84,Team,Unknown,None,2:31,3,Pistons,Lakers,66 - 80,0,N/A,N/A,N/A
+85,Langston Galloway,SUBSTITUTION,Griffin Blake,2:31,3,Pistons,Lakers,66 - 80,0,N/A,N/A,N/A
+86,Luke Kennard,FG_UNASSISTED,None,2:20,3,Pistons,Lakers,68 - 80,0,14,2,Jumper
+87,Kentavious Caldwell-Pope,FG_ASSISTED,Ivica Zubac,1:55,3,Lakers,Pistons,68 - 82,1,15,2,Jumper
+88,Langston Galloway,FG_ASSISTED,Jose Calderon,1:38,3,Pistons,Lakers,71 - 82,0,26,3,Jumper
+89,Kyle Kuzma,FG_ASSISTED,Brandon Ingram,1:23,3,Lakers,Pistons,71 - 85,1,27,3,Jumper
+90,Stanley Johnson,FOUL_ON_FLOOR,None,1:23,3,Pistons,Lakers,71 - 82,0,N/A,N/A,N/A
+91,Lance Stephenson,SUBSTITUTION,Hart Josh,1:23,3,Lakers,Pistons,71 - 82,1,N/A,N/A,N/A
+92,Kyle Kuzma,FT_MISS,None,1:23,3,Lakers,Pistons,71 - 82,1,N/A,1,N/A
+93,Brandon Ingram,OFFENSIVE_REBOUND,None,1:21,3,Lakers,Pistons,71 - 85,1,N/A,N/A,N/A
+94,Kentavious Caldwell-Pope,FG_ASSISTED,Brandon Ingram,1:14,3,Lakers,Pistons,71 - 87,1, ,2,Jumper
+95,Lance Stephenson,FOUL_ON_FLOOR,None,1:07,3,Lakers,Pistons,71 - 87,1,N/A,N/A,N/A
+96,Michael Beasley,SUBSTITUTION,Kuzma Kyle,1:07,3,Lakers,Pistons,71 - 87,1,N/A,N/A,N/A
+97,Langston Galloway,FG_ASSISTED,Stanley Johnson,56.6,3,Pistons,Lakers,74 - 87,0,24,3,Jumper
+98,Brandon Ingram,FG_MISS,None,44.8,3,Lakers,Pistons,74 - 87,1,12,2,Jumper
+99,Luke Kennard,DEFENSIVE_REBOUND,None,41.8,3,Pistons,Lakers,74 - 87,0,N/A,N/A,N/A
+100,Langston Galloway,FG_ASSISTED,Luke Kennard,37.3,3,Pistons,Lakers,77 - 87,0,24,3,Jumper
+101,Kentavious Caldwell-Pope,FG_MISS,None,25.7,3,Lakers,Pistons,77 - 87,1,28,3,Jumper
+102,Andre Drummond,DEFENSIVE_REBOUND,None,23.7,3,Pistons,Lakers,77 - 87,0,N/A,N/A,N/A
+103,Andre Drummond,FG_MISS,Michael Beasley,4.6,3,Lakers,Pistons,77 - 87,0,14,2,Jumper
+104,Michael Beasley,DEFENSIVE_REBOUND,None,2.2,3,Lakers,Pistons,77 - 87,1,N/A,N/A,N/A
+105,Kentavious Caldwell-Pope,FG_ASSISTED,Michael Beasley,1.9,3,Lakers,Pistons,77 - 89,1, ,2,Jumper
+106,End of,Unknown,None,0.0,3,Lakers,Pistons,77 - 89,1,N/A,N/A,N/A
+0,Lonzo Ball,SUBSTITUTION,Ingram Brandon,12:00,4,Lakers,Pistons,77 - 89,1,N/A,N/A,N/A
+1,Jon Leuer,SUBSTITUTION,Drummond Andre,12:00,4,Pistons,Lakers,77 - 89,0,N/A,N/A,N/A
+2,Luke Kennard,FOUL_ON_FLOOR,None,11:39,4,Pistons,Lakers,77 - 89,0,N/A,N/A,N/A
+3,Ivica Zubac,FT_MISS,None,11:39,4,Lakers,Pistons,77 - 89,1,N/A,1,N/A
+4,Team,OFFENSIVE_REBOUND,None,11:39,4,Lakers,Pistons,77 - 89,1,N/A,N/A,N/A
+5,Ivica Zubac,FT,None,11:39,4,Lakers,Pistons,77 - 90,1,N/A,1,N/A
+6,Langston Galloway,FG_MISS,None,11:23,4,Pistons,Lakers,77 - 90,0,0,2,Layup
+7,Ivica Zubac,DEFENSIVE_REBOUND,None,11:21,4,Lakers,Pistons,77 - 90,1,N/A,N/A,N/A
+8,Ivica Zubac,FG_MISS,None,11:14,4,Lakers,Pistons,77 - 90,1,0,2,Layup
+9,Ivica Zubac,OFFENSIVE_REBOUND,None,11:12,4,Lakers,Pistons,77 - 90,1,N/A,N/A,N/A
+10,Ivica Zubac,FG_UNASSISTED,None,11:11,4,Lakers,Pistons,77 - 92,1,3,2,Jumper
+11,Jon Leuer,TURNOVER,Lance Stephenson,10:58,4,Pistons,Lakers,77 - 92,0,N/A,N/A,N/A
+12,Ivica Zubac,FG_ASSISTED,Michael Beasley,10:43,4,Lakers,Pistons,77 - 94,1,0,2,Dunk
+13,Team,Unknown,None,10:41,4,Pistons,Lakers,77 - 94,0,N/A,N/A,N/A
+14,Reggie Bullock,SUBSTITUTION,Kennard Luke,10:41,4,Pistons,Lakers,77 - 94,0,N/A,N/A,N/A
+15,Blake Griffin,SUBSTITUTION,Johnson Stanley,10:41,4,Pistons,Lakers,77 - 94,0,N/A,N/A,N/A
+16,Reggie Jackson,SUBSTITUTION,Calderon Jose,10:41,4,Pistons,Lakers,77 - 94,0,N/A,N/A,N/A
+17,Reggie Jackson,FG_MISS,None,10:20,4,Pistons,Lakers,77 - 94,0,27,3,Jumper
+18,Kentavious Caldwell-Pope,DEFENSIVE_REBOUND,None,10:18,4,Lakers,Pistons,77 - 94,1,N/A,N/A,N/A
+19,Michael Beasley,FG_MISS,None,10:04,4,Lakers,Pistons,77 - 94,1,13,2,Jumper
+20,Jon Leuer,DEFENSIVE_REBOUND,None,10:01,4,Pistons,Lakers,77 - 94,0,N/A,N/A,N/A
+21,Jon Leuer,FG_ASSISTED,Reggie Bullock,9:45,4,Pistons,Lakers,79 - 94,0,9,2,Jumper
+22,Michael Beasley,FG_ASSISTED,Lance Stephenson,9:27,4,Lakers,Pistons,79 - 96,1,0,2,Layup
+23,Reggie Bullock,FG_MISS,None,9:11,4,Pistons,Lakers,79 - 96,0,23,3,Jumper
+24,Kentavious Caldwell-Pope,DEFENSIVE_REBOUND,None,9:08,4,Lakers,Pistons,79 - 96,1,N/A,N/A,N/A
+25,Michael Beasley,FG_UNASSISTED,None,8:46,4,Lakers,Pistons,79 - 98,1,10,2,Jumper
+26,Jon Leuer,FG_ASSISTED,Blake Griffin,8:30,4,Pistons,Lakers,81 - 98,0, ,2,Jumper
+27,Lance Stephenson,FG_MISS,None,8:15,4,Lakers,Pistons,81 - 98,1,29,3,Jumper
+28,Team,DEFENSIVE_REBOUND,None,8:14,4,Pistons,Lakers,81 - 98,0,N/A,N/A,N/A
+29,Ivica Zubac,FOUL_ON_FLOOR,None,8:14,4,Lakers,Pistons,81 - 98,1,N/A,N/A,N/A
+30,shot clock,TURNOVER,None,7:50,4,Pistons,Lakers,81 - 98,0,N/A,N/A,N/A
+31,Michael Beasley,FG_ASSISTED,Lonzo Ball,7:23,4,Lakers,Pistons,81 - 101,1,24,3,Jumper
+32,Lonzo Ball,FOUL_ON_FLOOR,None,7:07,4,Lakers,Pistons,81 - 101,1,N/A,N/A,N/A
+33,Blake Griffin,FOUL_ON_FLOOR,None,6:55,4,Pistons,Lakers,81 - 101,0,N/A,N/A,N/A
+34,Blake Griffin,TURNOVER,None,6:55,4,Pistons,Lakers,81 - 101,0,N/A,N/A,N/A
+35,Michael Beasley,TURNOVER,None,6:43,4,Lakers,Pistons,81 - 101,1,N/A,N/A,N/A
+36,Lonzo Ball,FOUL_ON_FLOOR,None,6:31,4,Lakers,Pistons,81 - 101,1,N/A,N/A,N/A
+37,Andre Drummond,SUBSTITUTION,Leuer Jon,6:31,4,Pistons,Lakers,81 - 101,0,N/A,N/A,N/A
+38,Michael Beasley,FOUL_ON_FLOOR,None,6:28,4,Lakers,Pistons,81 - 101,1,N/A,N/A,N/A
+39,Reggie Bullock,FG_MISS,None,6:16,4,Pistons,Lakers,81 - 101,0,25,3,Jumper
+40,Ivica Zubac,DEFENSIVE_REBOUND,None,6:14,4,Lakers,Pistons,81 - 101,1,N/A,N/A,N/A
+41,Lonzo Ball,TURNOVER,Reggie Jackson,5:59,4,Lakers,Pistons,81 - 101,1,N/A,N/A,N/A
+42,Langston Galloway,FG_ASSISTED,Blake Griffin,5:53,4,Pistons,Lakers,84 - 101,0,24,3,Jumper
+43,Michael Beasley,FG_ASSISTED,Lonzo Ball,5:48,4,Lakers,Pistons,84 - 103,1,0,2,Dunk
+44,Andre Drummond,FG_MISS,None,5:20,4,Pistons,Lakers,84 - 103,0,28,3,Jumper
+45,Kentavious Caldwell-Pope,DEFENSIVE_REBOUND,None,5:16,4,Lakers,Pistons,84 - 103,1,N/A,N/A,N/A
+46,Kentavious Caldwell-Pope,FG_MISS,None,5:07,4,Lakers,Pistons,84 - 103,1,27,3,Jumper
+47,Langston Galloway,DEFENSIVE_REBOUND,None,5:05,4,Pistons,Lakers,84 - 103,0,N/A,N/A,N/A
+48,Reggie Bullock,FG_MISS,None,4:59,4,Pistons,Lakers,84 - 103,0,26,3,Jumper
+49,Ivica Zubac,DEFENSIVE_REBOUND,None,4:57,4,Lakers,Pistons,84 - 103,1,N/A,N/A,N/A
+50,Michael Beasley,FG_UNASSISTED,None,4:43,4,Lakers,Pistons,84 - 105,1,19,2,Jumper
+51,Blake Griffin,TURNOVER,Lonzo Ball,4:33,4,Pistons,Lakers,84 - 105,0,N/A,N/A,N/A
+52,Blake Griffin,FOUL_ON_FLOOR,None,4:26,4,Pistons,Lakers,84 - 105,0,N/A,N/A,N/A
+53,Ivica Zubac,FT,None,4:26,4,Lakers,Pistons,84 - 106,1,N/A,1,N/A
+54,Jose Calderon,SUBSTITUTION,Jackson Reggie,4:26,4,Pistons,Lakers,84 - 106,0,N/A,N/A,N/A
+55,Ivica Zubac,FT,None,4:26,4,Lakers,Pistons,84 - 107,1,N/A,1,N/A
+56,Team,Unknown,None,4:26,4,Pistons,Lakers,84 - 107,0,N/A,N/A,N/A
+57,Luke Kennard,SUBSTITUTION,Drummond Andre,4:26,4,Pistons,Lakers,84 - 107,0,N/A,N/A,N/A
+58,Jon Leuer,SUBSTITUTION,Griffin Blake,4:26,4,Pistons,Lakers,84 - 107,0,N/A,N/A,N/A
+59,Stanley Johnson,SUBSTITUTION,Bullock Reggie,4:26,4,Pistons,Lakers,84 - 107,0,N/A,N/A,N/A
+60,Luke Kennard,FG_UNASSISTED,None,4:14,4,Pistons,Lakers,86 - 107,0,3,2,Jumper
+61,Kentavious Caldwell-Pope,FG_MISS,None,3:54,4,Lakers,Pistons,86 - 107,1,5,2,Jumper
+62,Ivica Zubac,OFFENSIVE_REBOUND,None,3:50,4,Lakers,Pistons,86 - 107,1,N/A,N/A,N/A
+63,Ivica Zubac,FG_MISS,None,3:48,4,Lakers,Pistons,86 - 107,1,1,2,Jumper
+64,Ivica Zubac,OFFENSIVE_REBOUND,None,3:48,4,Lakers,Pistons,86 - 107,1,N/A,N/A,N/A
+65,Ivica Zubac,FG_MISS,None,3:44,4,Lakers,Pistons,86 - 107,1,1,2,Jumper
+66,Luke Kennard,DEFENSIVE_REBOUND,None,3:44,4,Pistons,Lakers,86 - 107,0,N/A,N/A,N/A
+67,Kentavious Caldwell-Pope,FOUL_ON_FLOOR,None,3:44,4,Lakers,Pistons,86 - 107,1,N/A,N/A,N/A
+68,Luke Kennard,FT_MISS,None,3:44,4,Pistons,Lakers,86 - 107,0,N/A,1,N/A
+69,Team,OFFENSIVE_REBOUND,None,3:44,4,Pistons,Lakers,86 - 107,0,N/A,N/A,N/A
+70,Bruce Brown,SUBSTITUTION,Calderon Jose,3:44,4,Pistons,Lakers,86 - 107,0,N/A,N/A,N/A
+71,Luke Kennard,FT,None,3:44,4,Pistons,Lakers,87 - 107,0,N/A,1,N/A
+72,Jon Leuer,FOUL_ON_FLOOR,None,3:33,4,Pistons,Lakers,87 - 107,0,N/A,N/A,N/A
+73,Ivica Zubac,FG_ASSISTED,Michael Beasley,3:24,4,Lakers,Pistons,87 - 109,1,0,2,Dunk
+74,Luke Kennard,FG_ASSISTED,Jon Leuer,3:13,4,Pistons,Lakers,89 - 109,0,18,2,Jumper
+75,Michael Beasley,FG_UNASSISTED,None,2:51,4,Lakers,Pistons,89 - 111,1,2,2,Jumper
+76,Sviatoslav Mykhailiuk,SUBSTITUTION,Caldwell-Pope Kentavious,2:47,4,Lakers,Pistons,89 - 111,1,N/A,N/A,N/A
+77,Moritz Wagner,SUBSTITUTION,Ball Lonzo,2:47,4,Lakers,Pistons,89 - 111,1,N/A,N/A,N/A
+78,Langston Galloway,FG_ASSISTED,Luke Kennard,2:36,4,Pistons,Lakers,92 - 111,0,29,3,Jumper
+79,Michael Beasley,FG_UNASSISTED,None,2:17,4,Lakers,Pistons,92 - 113,1,4,2,Jumper
+80,Langston Galloway,FG_MISS,None,2:07,4,Pistons,Lakers,92 - 113,0,28,3,Jumper
+81,Ivica Zubac,DEFENSIVE_REBOUND,None,2:05,4,Lakers,Pistons,92 - 113,1,N/A,N/A,N/A
+82,Jon Leuer,FOUL_ON_FLOOR,None,1:56,4,Pistons,Lakers,92 - 113,0,N/A,N/A,N/A
+83,Michael Beasley,TURNOVER,Stanley Johnson,1:50,4,Lakers,Pistons,92 - 113,1,N/A,N/A,N/A
+84,Stanley Johnson,FG_UNASSISTED,None,1:50,4,Pistons,Lakers,94 - 113,0,0,2,Dunk
+85,Moritz Wagner,TURNOVER,None,1:36,4,Lakers,Pistons,94 - 113,1,N/A,N/A,N/A
+86,Bruce Brown,TURNOVER,Sviatoslav Mykhailiuk,1:22,4,Pistons,Lakers,94 - 113,0,N/A,N/A,N/A
+87,Michael Beasley,FG_MISS,None,1:10,4,Lakers,Pistons,94 - 113,1,27,3,Jumper
+88,Langston Galloway,DEFENSIVE_REBOUND,None,1:08,4,Pistons,Lakers,94 - 113,0,N/A,N/A,N/A
+89,Bruce Brown,FG_UNASSISTED,None,53.4,4,Pistons,Lakers,96 - 113,0,1,2,Jumper
+90,Moritz Wagner,FG_MISS,None,37.0,4,Lakers,Pistons,96 - 113,1,27,3,Jumper
+91,Langston Galloway,DEFENSIVE_REBOUND,None,33.0,4,Pistons,Lakers,96 - 113,0,N/A,N/A,N/A
+92,Luke Kennard,FG_ASSISTED,Langston Galloway,31.1,4,Pistons,Lakers,98 - 113,0,1,2,Jumper
+93,Michael Beasley,FG_MISS,None,7.1,4,Lakers,Pistons,98 - 113,1,1,2,Jumper
+94,shot clock,TURNOVER,None,7.1,4,Lakers,Pistons,98 - 113,1,N/A,N/A,N/A
+95,Team,OFFENSIVE_REBOUND,None,7.1,4,Lakers,Pistons,98 - 113,1,N/A,N/A,N/A
+96,Bruce Brown,FG_UNASSISTED,None,2.5,4,Pistons,Lakers,100 - 113,0,0,2,Layup
+97,End of,Unknown,None,0.0,4,Lakers,Pistons,100 - 113,1,N/A,N/A,N/A
+98,End of,Unknown,None,0.0,4,Lakers,Pistons,100 - 113,1,N/A,N/A,N/A

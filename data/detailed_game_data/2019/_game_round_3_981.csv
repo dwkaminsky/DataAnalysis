@@ -1,0 +1,436 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Tristan Thompson,JUMP_BALL,None,12:00,1,Cavaliers,76ers,0 - 0,0,N/A,N/A,N/A
+1,Rodney Hood,FG_MISS,None,11:44,1,Cavaliers,76ers,0 - 0,0,22,2,Jumper
+2,Joel Embiid,DEFENSIVE_REBOUND,None,11:41,1,76ers,Cavaliers,0 - 0,1,N/A,N/A,N/A
+3,JJ Redick,FG_MISS,None,11:26,1,76ers,Cavaliers,0 - 0,1,26,3,Jumper
+4,Cedi Osman,DEFENSIVE_REBOUND,None,11:22,1,Cavaliers,76ers,0 - 0,0,N/A,N/A,N/A
+5,Wilson Chandler,FOUL_ON_FLOOR,None,11:13,1,76ers,Cavaliers,0 - 0,1,N/A,N/A,N/A
+6,Collin Sexton,FG_UNASSISTED,None,11:08,1,Cavaliers,76ers,2 - 0,0,17,2,Jumper
+7,JJ Redick,FG_MISS,None,10:47,1,76ers,Cavaliers,2 - 0,1,0,2,Layup
+8,Cedi Osman,DEFENSIVE_REBOUND,None,10:45,1,Cavaliers,76ers,2 - 0,0,N/A,N/A,N/A
+9,Ben Simmons,Unknown,None,10:44,1,76ers,Cavaliers,2 - 0,1,N/A,N/A,N/A
+10,Collin Sexton,FG_UNASSISTED,None,10:40,1,Cavaliers,76ers,4 - 0,0,18,2,Jumper
+11,Wilson Chandler,FG_MISS,None,10:19,1,76ers,Cavaliers,4 - 0,1,26,3,Jumper
+12,Tristan Thompson,DEFENSIVE_REBOUND,None,10:15,1,Cavaliers,76ers,4 - 0,0,N/A,N/A,N/A
+13,JJ Redick,FOUL_ON_FLOOR,None,10:10,1,76ers,Cavaliers,4 - 0,1,N/A,N/A,N/A
+14,Collin Sexton,FG_MISS,None,10:04,1,Cavaliers,76ers,4 - 0,0,0,2,Layup
+15,Tristan Thompson,OFFENSIVE_REBOUND,None,10:00,1,Cavaliers,76ers,4 - 0,0,N/A,N/A,N/A
+16,Tristan Thompson,FG_MISS,None,10:00,1,Cavaliers,76ers,4 - 0,0,0,2,Dunk
+17,Tristan Thompson,OFFENSIVE_REBOUND,None,10:00,1,Cavaliers,76ers,4 - 0,0,N/A,N/A,N/A
+18,Tristan Thompson's,FG_MISS,Ben Simmons,9:57,1,76ers,Cavaliers,4 - 0,0,0,2,Layup
+19,Joel Embiid,DEFENSIVE_REBOUND,None,9:57,1,76ers,Cavaliers,4 - 0,1,N/A,N/A,N/A
+20,Jimmy Butler,FG_MISS,None,9:41,1,76ers,Cavaliers,4 - 0,1,16,2,Jumper
+21,Team,DEFENSIVE_REBOUND,None,9:41,1,Cavaliers,76ers,4 - 0,0,N/A,N/A,N/A
+22,Ben Simmons,FOUL_ON_FLOOR,None,9:41,1,76ers,Cavaliers,4 - 0,1,N/A,N/A,N/A
+23,Rodney Hood,FG_MISS,None,9:19,1,Cavaliers,76ers,4 - 0,0,12,2,Jumper
+24,Tristan Thompson,OFFENSIVE_REBOUND,None,9:16,1,Cavaliers,76ers,4 - 0,0,N/A,N/A,N/A
+25,Cedi Osman,FG_ASSISTED,David Nwaba,9:13,1,Cavaliers,76ers,7 - 0,0,26,3,Jumper
+26,Ben Simmons,FG_ASSISTED,Joel Embiid,9:01,1,76ers,Cavaliers,7 - 2,1,0,2,Layup
+27,Tristan Thompson,FG_MISS,None,8:51,1,Cavaliers,76ers,7 - 2,0,15,2,Jumper
+28,Joel Embiid,DEFENSIVE_REBOUND,None,8:48,1,76ers,Cavaliers,7 - 2,1,N/A,N/A,N/A
+29,Joel Embiid,FG_ASSISTED,Ben Simmons,8:40,1,76ers,Cavaliers,7 - 4,1,18,2,Jumper
+30,Collin Sexton,FG_UNASSISTED,None,8:18,1,Cavaliers,76ers,9 - 4,0,0,2,Layup
+31,Ben Simmons,FG_ASSISTED,Wilson Chandler,8:03,1,76ers,Cavaliers,9 - 6,1,10,2,Jumper
+32,Cedi Osman,FG_UNASSISTED,None,7:42,1,Cavaliers,76ers,11 - 6,0,15,2,Jumper
+33,Wilson Chandler,FG_MISS,None,7:25,1,76ers,Cavaliers,11 - 6,1,0,2,Layup
+34,Collin Sexton,DEFENSIVE_REBOUND,None,7:23,1,Cavaliers,76ers,11 - 6,0,N/A,N/A,N/A
+35,Cedi Osman,FG_MISS,None,7:18,1,Cavaliers,76ers,11 - 6,0,28,3,Jumper
+36,Team,DEFENSIVE_REBOUND,None,7:18,1,76ers,Cavaliers,11 - 6,1,N/A,N/A,N/A
+37,Tristan Thompson,FOUL_ON_FLOOR,None,7:18,1,Cavaliers,76ers,11 - 6,0,N/A,N/A,N/A
+38,Landry Shamet,SUBSTITUTION,Embiid Joel,7:18,1,76ers,Cavaliers,11 - 6,1,N/A,N/A,N/A
+39,Amir Johnson,SUBSTITUTION,Redick JJ,7:18,1,76ers,Cavaliers,11 - 6,1,N/A,N/A,N/A
+40,Jimmy Butler,FG_UNASSISTED,None,7:05,1,76ers,Cavaliers,11 - 8,1,11,2,Jumper
+41,Rodney Hood,FG_ASSISTED,Collin Sexton,6:47,1,Cavaliers,76ers,14 - 8,0,27,3,Jumper
+42,Jimmy Butler,FG_MISS,None,6:27,1,76ers,Cavaliers,14 - 8,1,23,3,Jumper
+43,Tristan Thompson,DEFENSIVE_REBOUND,None,6:25,1,Cavaliers,76ers,14 - 8,0,N/A,N/A,N/A
+44,David Nwaba,FG_MISS,None,6:13,1,Cavaliers,76ers,14 - 8,0,7,2,Jumper
+45,Tristan Thompson,OFFENSIVE_REBOUND,None,6:09,1,Cavaliers,76ers,14 - 8,0,N/A,N/A,N/A
+46,Tristan Thompson,FG_UNASSISTED,None,6:08,1,Cavaliers,76ers,16 - 8,0,2,2,Jumper
+47,Amir Johnson,TURNOVER,None,5:56,1,76ers,Cavaliers,16 - 8,1,N/A,N/A,N/A
+48,Team,Unknown,None,5:56,1,76ers,Cavaliers,16 - 8,1,N/A,N/A,N/A
+49,Mike Muscala,SUBSTITUTION,Chandler Wilson,5:56,1,76ers,Cavaliers,16 - 8,1,N/A,N/A,N/A
+50,Rodney Hood,FG_ASSISTED,Cedi Osman,5:40,1,Cavaliers,76ers,18 - 8,0,15,2,Jumper
+51,Ben Simmons,TURNOVER,David Nwaba,5:29,1,76ers,Cavaliers,18 - 8,1,N/A,N/A,N/A
+52,Cedi Osman,FG_MISS,None,5:22,1,Cavaliers,76ers,18 - 8,0,23,3,Jumper
+53,Tristan Thompson,OFFENSIVE_REBOUND,None,5:18,1,Cavaliers,76ers,18 - 8,0,N/A,N/A,N/A
+54,Tristan Thompson,TURNOVER,Jimmy Butler,5:17,1,Cavaliers,76ers,18 - 8,0,N/A,N/A,N/A
+55,Mike Muscala,FG_MISS,None,5:13,1,76ers,Cavaliers,18 - 8,1,27,3,Jumper
+56,David Nwaba,DEFENSIVE_REBOUND,None,5:08,1,Cavaliers,76ers,18 - 8,0,N/A,N/A,N/A
+57,Rodney Hood,FG_MISS,None,5:03,1,Cavaliers,76ers,18 - 8,0,0,2,Layup
+58,Tristan Thompson,OFFENSIVE_REBOUND,None,5:00,1,Cavaliers,76ers,18 - 8,0,N/A,N/A,N/A
+59,Tristan Thompson,FG_MISS,None,5:00,1,Cavaliers,76ers,18 - 8,0,-,2,Jumper
+60,Rodney Hood,OFFENSIVE_REBOUND,None,4:59,1,Cavaliers,76ers,18 - 8,0,N/A,N/A,N/A
+61,Tristan Thompson,FG_ASSISTED,Cedi Osman,4:56,1,Cavaliers,76ers,20 - 8,0,3,2,Jumper
+62,Landry Shamet,FG_MISS,None,4:31,1,76ers,Cavaliers,20 - 8,1,30,3,Jumper
+63,Team,DEFENSIVE_REBOUND,None,4:29,1,Cavaliers,76ers,20 - 8,0,N/A,N/A,N/A
+64,Collin Sexton,FG_UNASSISTED,None,4:11,1,Cavaliers,76ers,22 - 8,0,13,2,Jumper
+65,Jimmy Butler,FG_ASSISTED,Landry Shamet,3:57,1,76ers,Cavaliers,22 - 11,1,26,3,Jumper
+66,Collin Sexton,FOUL_ON_FLOOR,None,3:32,1,Cavaliers,76ers,22 - 11,0,N/A,N/A,N/A
+67,Collin Sexton,TURNOVER,None,3:32,1,Cavaliers,76ers,22 - 11,0,N/A,N/A,N/A
+68,JJ Redick,SUBSTITUTION,Butler Jimmy,3:32,1,76ers,Cavaliers,22 - 11,1,N/A,N/A,N/A
+69,Jordan Clarkson,SUBSTITUTION,Hood Rodney,3:32,1,Cavaliers,76ers,22 - 11,0,N/A,N/A,N/A
+70,Larry Nance,SUBSTITUTION,Thompson Tristan,3:32,1,Cavaliers,76ers,22 - 11,0,N/A,N/A,N/A
+71,Landry Shamet,FG_MISS,None,3:18,1,76ers,Cavaliers,22 - 11,1,26,3,Jumper
+72,Larry Nance,DEFENSIVE_REBOUND,None,3:14,1,Cavaliers,76ers,22 - 11,0,N/A,N/A,N/A
+73,Cedi Osman,FG_UNASSISTED,None,2:57,1,Cavaliers,76ers,24 - 11,0, ,2,Jumper
+74,JJ Redick,FG_ASSISTED,Ben Simmons,2:47,1,76ers,Cavaliers,24 - 14,1,27,3,Jumper
+75,Collin Sexton,FG_UNASSISTED,None,2:34,1,Cavaliers,76ers,26 - 14,0,21,2,Jumper
+76,Mike Muscala,FG_ASSISTED,JJ Redick,2:23,1,76ers,Cavaliers,26 - 17,1,26,3,Jumper
+77,Team,Unknown,None,2:07,1,Cavaliers,76ers,26 - 17,0,N/A,N/A,N/A
+78,T.J. McConnell,SUBSTITUTION,Johnson Amir,2:07,1,76ers,Cavaliers,26 - 17,1,N/A,N/A,N/A
+79,Joel Embiid,SUBSTITUTION,Simmons Ben,2:07,1,76ers,Cavaliers,26 - 17,1,N/A,N/A,N/A
+80,Kyle Korver,SUBSTITUTION,Nwaba David,2:07,1,Cavaliers,76ers,26 - 17,0,N/A,N/A,N/A
+81,T.J. McConnell,FOUL_ON_FLOOR,None,1:59,1,76ers,Cavaliers,26 - 17,1,N/A,N/A,N/A
+82,Cedi Osman,FT,None,1:59,1,Cavaliers,76ers,27 - 17,0,N/A,1,N/A
+83,Cedi Osman,FT,None,1:59,1,Cavaliers,76ers,28 - 17,0,N/A,1,N/A
+84,Larry Nance,FOUL_ON_FLOOR,None,1:50,1,Cavaliers,76ers,28 - 17,0,N/A,N/A,N/A
+85,Landry Shamet,FG_ASSISTED,Mike Muscala,1:42,1,76ers,Cavaliers,28 - 19,1,0,2,Layup
+86,Collin Sexton,FG_MISS,None,1:26,1,Cavaliers,76ers,28 - 19,0,17,2,Jumper
+87,Joel Embiid,DEFENSIVE_REBOUND,None,1:24,1,76ers,Cavaliers,28 - 19,1,N/A,N/A,N/A
+88,Joel Embiid,TURNOVER,Collin Sexton,1:07,1,76ers,Cavaliers,28 - 19,1,N/A,N/A,N/A
+89,Jordan Clarkson,FG_MISS,None,1:03,1,Cavaliers,76ers,28 - 19,0,23,3,Jumper
+90,Collin Sexton,OFFENSIVE_REBOUND,None,1:00,1,Cavaliers,76ers,28 - 19,0,N/A,N/A,N/A
+91,Cedi Osman,FG_MISS,None,52.2,1,Cavaliers,76ers,28 - 19,0,26,3,Jumper
+92,Joel Embiid,DEFENSIVE_REBOUND,None,49.9,1,76ers,Cavaliers,28 - 19,1,N/A,N/A,N/A
+93,Landry Shamet,FG_UNASSISTED,None,34.9,1,76ers,Cavaliers,28 - 21,1,9,2,Jumper
+94,Cedi Osman,FG_ASSISTED,Larry Nance,12.1,1,Cavaliers,76ers,31 - 21,0,27,3,Jumper
+95,JJ Redick,FG_ASSISTED,Joel Embiid,3.1,1,76ers,Cavaliers,31 - 23,1,19,2,Jumper
+96,End of,Unknown,None,0.0,1,76ers,Cavaliers,31 - 23,1,N/A,N/A,N/A
+0,Wilson Chandler,SUBSTITUTION,Shamet Landry,12:00,2,76ers,Cavaliers,31 - 23,1,N/A,N/A,N/A
+1,Rodney Hood,SUBSTITUTION,Sexton Collin,12:00,2,Cavaliers,76ers,31 - 23,0,N/A,N/A,N/A
+2,Andrew Harrison,SUBSTITUTION,Osman Cedi,12:00,2,Cavaliers,76ers,31 - 23,0,N/A,N/A,N/A
+3,Joel Embiid,TURNOVER,Larry Nance,11:43,2,76ers,Cavaliers,31 - 23,1,N/A,N/A,N/A
+4,Kyle Korver,FG_MISS,None,11:37,2,Cavaliers,76ers,31 - 23,0,27,3,Jumper
+5,Mike Muscala,DEFENSIVE_REBOUND,None,11:34,2,76ers,Cavaliers,31 - 23,1,N/A,N/A,N/A
+6,JJ Redick,FG_MISS,None,11:23,2,76ers,Cavaliers,31 - 23,1,26,3,Jumper
+7,Team,DEFENSIVE_REBOUND,None,11:23,2,Cavaliers,76ers,31 - 23,0,N/A,N/A,N/A
+8,Joel Embiid,FOUL_ON_FLOOR,None,11:23,2,76ers,Cavaliers,31 - 23,1,N/A,N/A,N/A
+9,Jordan Clarkson,FG_MISS,None,11:10,2,Cavaliers,76ers,31 - 23,0,26,3,Jumper
+10,Mike Muscala,DEFENSIVE_REBOUND,None,11:07,2,76ers,Cavaliers,31 - 23,1,N/A,N/A,N/A
+11,Andrew Harrison,FOUL_ON_FLOOR,None,11:00,2,Cavaliers,76ers,31 - 23,0,N/A,N/A,N/A
+12,Jordan Clarkson,FOUL_ON_FLOOR,None,10:53,2,Cavaliers,76ers,31 - 23,0,N/A,N/A,N/A
+13,JJ Redick,FT,None,10:53,2,76ers,Cavaliers,31 - 24,1,N/A,1,N/A
+14,JJ Redick,FT,None,10:53,2,76ers,Cavaliers,31 - 25,1,N/A,1,N/A
+15,Kyle Korver,FOUL_ON_FLOOR,None,10:41,2,Cavaliers,76ers,31 - 25,0,N/A,N/A,N/A
+16,Kyle Korver,TURNOVER,None,10:41,2,Cavaliers,76ers,31 - 25,0,N/A,N/A,N/A
+17,JJ Redick,FG_ASSISTED,T.J. McConnell,10:31,2,76ers,Cavaliers,31 - 28,1,26,3,Jumper
+18,Larry Nance,FG_MISS,None,10:20,2,Cavaliers,76ers,31 - 28,0,0,2,Layup
+19,Andrew Harrison,OFFENSIVE_REBOUND,None,10:17,2,Cavaliers,76ers,31 - 28,0,N/A,N/A,N/A
+20,Rodney Hood,FG_MISS,None,10:12,2,Cavaliers,76ers,31 - 28,0,0,2,Layup
+21,Rodney Hood,OFFENSIVE_REBOUND,None,10:09,2,Cavaliers,76ers,31 - 28,0,N/A,N/A,N/A
+22,Kyle Korver,FG_MISS,None,10:07,2,Cavaliers,76ers,31 - 28,0,28,3,Jumper
+23,Joel Embiid,DEFENSIVE_REBOUND,None,10:04,2,76ers,Cavaliers,31 - 28,1,N/A,N/A,N/A
+24,Jordan Clarkson,FOUL_ON_FLOOR,None,9:59,2,Cavaliers,76ers,31 - 28,0,N/A,N/A,N/A
+25,JJ Redick,FG_ASSISTED,Wilson Chandler,9:46,2,76ers,Cavaliers,31 - 31,1,26,3,Jumper
+26,Team,Unknown,None,9:33,2,Cavaliers,76ers,31 - 31,0,N/A,N/A,N/A
+27,Tristan Thompson,SUBSTITUTION,Clarkson Jordan,9:33,2,Cavaliers,76ers,31 - 31,0,N/A,N/A,N/A
+28,Tristan Thompson,FG_ASSISTED,Andrew Harrison,9:16,2,Cavaliers,76ers,33 - 31,0,8,2,Jumper
+29,Tristan Thompson,FOUL_ON_FLOOR,None,9:05,2,Cavaliers,76ers,33 - 31,0,N/A,N/A,N/A
+30,Joel Embiid,FT_MISS,None,9:05,2,76ers,Cavaliers,33 - 31,1,N/A,1,N/A
+31,Team,OFFENSIVE_REBOUND,None,9:05,2,76ers,Cavaliers,33 - 31,1,N/A,N/A,N/A
+32,Joel Embiid,FT,None,9:05,2,76ers,Cavaliers,33 - 32,1,N/A,1,N/A
+33,Tristan Thompson,FG_UNASSISTED,None,8:44,2,Cavaliers,76ers,35 - 32,0,5,2,Jumper
+34,Joel Embiid,FG_ASSISTED,T.J. McConnell,8:35,2,76ers,Cavaliers,35 - 35,1,27,3,Jumper
+35,Rodney Hood,FG_UNASSISTED,None,8:11,2,Cavaliers,76ers,37 - 35,0,11,2,Jumper
+36,Larry Nance,FOUL_ON_FLOOR,None,7:58,2,Cavaliers,76ers,37 - 35,0,N/A,N/A,N/A
+37,Joel Embiid,FT,None,7:58,2,76ers,Cavaliers,37 - 36,1,N/A,1,N/A
+38,Ben Simmons,SUBSTITUTION,McConnell T.J.,7:58,2,76ers,Cavaliers,37 - 36,1,N/A,N/A,N/A
+39,Jimmy Butler,SUBSTITUTION,Muscala Mike,7:58,2,76ers,Cavaliers,37 - 36,1,N/A,N/A,N/A
+40,Cedi Osman,SUBSTITUTION,Korver Kyle,7:58,2,Cavaliers,76ers,37 - 36,0,N/A,N/A,N/A
+41,Collin Sexton,SUBSTITUTION,Harrison Andrew,7:58,2,76ers,Cavaliers,37 - 36,1,N/A,N/A,N/A
+42,David Nwaba,SUBSTITUTION,Nance Larry,7:58,2,Cavaliers,76ers,37 - 36,0,N/A,N/A,N/A
+43,Joel Embiid,FT,None,7:58,2,76ers,Cavaliers,37 - 37,1,N/A,1,N/A
+44,Rodney Hood,FG_UNASSISTED,None,7:39,2,Cavaliers,76ers,39 - 37,0,10,2,Jumper
+45,JJ Redick,FG_MISS,None,7:31,2,76ers,Cavaliers,39 - 37,1,22,2,Jumper
+46,David Nwaba,DEFENSIVE_REBOUND,None,7:29,2,Cavaliers,76ers,39 - 37,0,N/A,N/A,N/A
+47,Cedi Osman,FG_UNASSISTED,None,7:12,2,Cavaliers,76ers,41 - 37,0,15,2,Jumper
+48,JJ Redick,FOUL_ON_FLOOR,None,7:12,2,76ers,Cavaliers,41 - 37,1,N/A,N/A,N/A
+49,Cedi Osman,FT_MISS,None,7:12,2,Cavaliers,76ers,41 - 37,0,N/A,1,N/A
+50,Joel Embiid,DEFENSIVE_REBOUND,None,7:12,2,76ers,Cavaliers,41 - 37,1,N/A,N/A,N/A
+51,Joel Embiid,FG_MISS,None,6:55,2,76ers,Cavaliers,41 - 37,1,10,2,Jumper
+52,Tristan Thompson,DEFENSIVE_REBOUND,None,6:53,2,Cavaliers,76ers,41 - 37,0,N/A,N/A,N/A
+53,David Nwaba,FG_ASSISTED,Collin Sexton,6:49,2,Cavaliers,76ers,43 - 37,0,0,2,Layup
+54,Joel Embiid,FG_ASSISTED,Wilson Chandler,6:24,2,76ers,Cavaliers,43 - 40,1,27,3,Jumper
+55,JJ Redick,FOUL_ON_FLOOR,None,6:03,2,76ers,Cavaliers,43 - 40,1,N/A,N/A,N/A
+56,David Nwaba,FT_MISS,None,6:03,2,Cavaliers,76ers,43 - 40,0,N/A,1,N/A
+57,Team,OFFENSIVE_REBOUND,None,6:03,2,Cavaliers,76ers,43 - 40,0,N/A,N/A,N/A
+58,Landry Shamet,SUBSTITUTION,Redick JJ,6:03,2,76ers,Cavaliers,43 - 40,1,N/A,N/A,N/A
+59,Amir Johnson,SUBSTITUTION,Embiid Joel,6:03,2,76ers,Cavaliers,43 - 40,1,N/A,N/A,N/A
+60,David Nwaba,FT,None,6:03,2,Cavaliers,76ers,44 - 40,0,N/A,1,N/A
+61,Jimmy Butler,FG_ASSISTED,Ben Simmons,5:42,2,76ers,Cavaliers,44 - 43,1,26,3,Jumper
+62,Collin Sexton,FG_UNASSISTED,None,5:17,2,Cavaliers,76ers,46 - 43,0,2,2,Jumper
+63,Wilson Chandler,FG_MISS,None,5:06,2,76ers,Cavaliers,46 - 43,1,26,3,Jumper
+64,David Nwaba,DEFENSIVE_REBOUND,None,5:04,2,Cavaliers,76ers,46 - 43,0,N/A,N/A,N/A
+65,Rodney Hood,FG_UNASSISTED,None,4:54,2,Cavaliers,76ers,48 - 43,0,6,2,Jumper
+66,Jimmy Butler,FG_ASSISTED,Amir Johnson,4:34,2,76ers,Cavaliers,48 - 45,1,17,2,Jumper
+67,Collin Sexton,FG_MISS,None,4:19,2,Cavaliers,76ers,48 - 45,0,21,2,Jumper
+68,Landry Shamet,DEFENSIVE_REBOUND,None,4:16,2,76ers,Cavaliers,48 - 45,1,N/A,N/A,N/A
+69,Landry Shamet,FG_ASSISTED,Ben Simmons,4:09,2,76ers,Cavaliers,48 - 48,1,27,3,Jumper
+70,Collin Sexton,TURNOVER,Ben Simmons,3:48,2,Cavaliers,76ers,48 - 48,0,N/A,N/A,N/A
+71,Ben Simmons,FG_UNASSISTED,None,3:45,2,76ers,Cavaliers,48 - 50,1,0,2,Layup
+72,Rodney Hood,FG_MISS,None,3:23,2,Cavaliers,76ers,48 - 50,0,7,2,Jumper
+73,Amir Johnson,DEFENSIVE_REBOUND,None,3:20,2,76ers,Cavaliers,48 - 50,1,N/A,N/A,N/A
+74,Amir Johnson,FG_MISS,None,3:14,2,76ers,Cavaliers,48 - 50,1,25,3,Jumper
+75,Cedi Osman,DEFENSIVE_REBOUND,None,3:10,2,Cavaliers,76ers,48 - 50,0,N/A,N/A,N/A
+76,David Nwaba,FG_MISS,None,2:50,2,Cavaliers,76ers,48 - 50,0,0,2,Layup
+77,Jimmy Butler,DEFENSIVE_REBOUND,None,2:48,2,76ers,Cavaliers,48 - 50,1,N/A,N/A,N/A
+78,Wilson Chandler,FG_ASSISTED,Ben Simmons,2:42,2,76ers,Cavaliers,48 - 52,1,0,2,Layup
+79,Cedi Osman,FG_MISS,None,2:17,2,Cavaliers,76ers,48 - 52,0,0,2,Layup
+80,Tristan Thompson,OFFENSIVE_REBOUND,None,2:17,2,Cavaliers,76ers,48 - 52,0,N/A,N/A,N/A
+81,Tristan Thompson,FG_UNASSISTED,None,2:16,2,Cavaliers,76ers,50 - 52,0,0,2,Dunk
+82,Team,Unknown,None,2:16,2,76ers,Cavaliers,50 - 52,1,N/A,N/A,N/A
+83,Joel Embiid,SUBSTITUTION,Chandler Wilson,2:16,2,76ers,Cavaliers,50 - 52,1,N/A,N/A,N/A
+84,Mike Muscala,SUBSTITUTION,Johnson Amir,2:16,2,76ers,Cavaliers,50 - 52,1,N/A,N/A,N/A
+85,Ben Simmons,FG_ASSISTED,Jimmy Butler,2:02,2,76ers,Cavaliers,50 - 54,1,0,2,Layup
+86,Rodney Hood,FG_UNASSISTED,None,1:38,2,Cavaliers,76ers,52 - 54,0,19,2,Jumper
+87,Landry Shamet,FG_MISS,None,1:25,2,76ers,Cavaliers,52 - 54,1,26,3,Jumper
+88,Cedi Osman,DEFENSIVE_REBOUND,None,1:23,2,Cavaliers,76ers,52 - 54,0,N/A,N/A,N/A
+89,Cedi Osman,FG_MISS,None,1:03,2,Cavaliers,76ers,52 - 54,0,9,2,Jumper
+90,Mike Muscala,DEFENSIVE_REBOUND,None,1:01,2,76ers,Cavaliers,52 - 54,1,N/A,N/A,N/A
+91,Mike Muscala,FG_MISS,None,56.8,2,76ers,Cavaliers,52 - 54,1,26,3,Jumper
+92,Tristan Thompson,DEFENSIVE_REBOUND,None,53.5,2,Cavaliers,76ers,52 - 54,0,N/A,N/A,N/A
+93,Collin Sexton,FG_MISS,None,34.1,2,Cavaliers,76ers,52 - 54,0,0,2,Layup
+94,Team,OFFENSIVE_REBOUND,None,34.1,2,Cavaliers,76ers,52 - 54,0,N/A,N/A,N/A
+95,Ante Zizic,SUBSTITUTION,Thompson Tristan,34.1,2,Cavaliers,76ers,52 - 54,0,N/A,N/A,N/A
+96,Collin Sexton,FG_ASSISTED,David Nwaba,32.9,2,Cavaliers,76ers,54 - 54,0,0,2,Layup
+97,Joel Embiid,FG_MISS,None,17.6,2,76ers,Cavaliers,54 - 54,1,14,2,Jumper
+98,Collin Sexton,DEFENSIVE_REBOUND,None,14.1,2,Cavaliers,76ers,54 - 54,0,N/A,N/A,N/A
+99,Collin Sexton,FG_MISS,None,0.4,2,Cavaliers,76ers,54 - 54,0,22,2,Jumper
+100,Team,OFFENSIVE_REBOUND,None,0.4,2,Cavaliers,76ers,54 - 54,0,N/A,N/A,N/A
+101,End of,Unknown,None,0.0,2,76ers,Cavaliers,54 - 54,1,N/A,N/A,N/A
+0,JJ Redick,SUBSTITUTION,Shamet Landry,12:00,3,76ers,Cavaliers,54 - 54,1,N/A,N/A,N/A
+1,Wilson Chandler,SUBSTITUTION,Muscala Mike,12:00,3,76ers,Cavaliers,54 - 54,1,N/A,N/A,N/A
+2,Tristan Thompson,SUBSTITUTION,Zizic Ante,12:00,3,Cavaliers,76ers,54 - 54,0,N/A,N/A,N/A
+3,Joel Embiid,FG_UNASSISTED,None,11:47,3,76ers,Cavaliers,54 - 56,1,14,2,Jumper
+4,JJ Redick,FOUL_ON_FLOOR,None,11:33,3,76ers,Cavaliers,54 - 56,1,N/A,N/A,N/A
+5,David Nwaba,FT,None,11:33,3,Cavaliers,76ers,55 - 56,0,N/A,1,N/A
+6,David Nwaba,FT_MISS,None,11:33,3,Cavaliers,76ers,55 - 56,0,N/A,1,N/A
+7,Landry Shamet,SUBSTITUTION,Redick JJ,11:33,3,76ers,Cavaliers,55 - 56,1,N/A,N/A,N/A
+8,Joel Embiid,DEFENSIVE_REBOUND,None,11:30,3,76ers,Cavaliers,55 - 56,1,N/A,N/A,N/A
+9,Ben Simmons,FG_UNASSISTED,None,11:10,3,76ers,Cavaliers,55 - 58,1,7,2,Jumper
+10,Collin Sexton,FG_UNASSISTED,None,10:57,3,Cavaliers,76ers,57 - 58,0,18,2,Jumper
+11,Ben Simmons,FG_MISS,Collin Sexton,10:45,3,Cavaliers,76ers,57 - 58,1,0,2,Layup
+12,Collin Sexton,DEFENSIVE_REBOUND,None,10:42,3,Cavaliers,76ers,57 - 58,0,N/A,N/A,N/A
+13,Tristan Thompson,FG_ASSISTED,Collin Sexton,10:37,3,Cavaliers,76ers,59 - 58,0, ,2,Jumper
+14,Cedi Osman,FOUL_ON_FLOOR,None,10:24,3,Cavaliers,76ers,59 - 58,0,N/A,N/A,N/A
+15,Joel Embiid,FG_UNASSISTED,None,10:11,3,76ers,Cavaliers,59 - 60,1,0,2,Dunk
+16,Tristan Thompson,FOUL_ON_FLOOR,None,9:53,3,Cavaliers,76ers,59 - 60,0,N/A,N/A,N/A
+17,Tristan Thompson,TURNOVER,None,9:53,3,Cavaliers,76ers,59 - 60,0,N/A,N/A,N/A
+18,Jimmy Butler,FG_MISS,None,9:42,3,76ers,Cavaliers,59 - 60,1, ,2,Jumper
+19,David Nwaba,DEFENSIVE_REBOUND,None,9:39,3,Cavaliers,76ers,59 - 60,0,N/A,N/A,N/A
+20,Rodney Hood,FG_UNASSISTED,None,9:23,3,Cavaliers,76ers,62 - 60,0,27,3,Jumper
+21,Wilson Chandler,FG_ASSISTED,Jimmy Butler,9:07,3,76ers,Cavaliers,62 - 62,1,6,2,Jumper
+22,Rodney Hood,FG_MISS,None,8:41,3,Cavaliers,76ers,62 - 62,0,18,2,Jumper
+23,Ben Simmons,DEFENSIVE_REBOUND,None,8:37,3,76ers,Cavaliers,62 - 62,1,N/A,N/A,N/A
+24,Landry Shamet,FG_ASSISTED,Ben Simmons,8:35,3,76ers,Cavaliers,62 - 65,1,26,3,Jumper
+25,Team,Unknown,None,8:33,3,Cavaliers,76ers,62 - 65,0,N/A,N/A,N/A
+26,David Nwaba,FG_ASSISTED,Rodney Hood,8:18,3,Cavaliers,76ers,65 - 65,0,27,3,Jumper
+27,Jimmy Butler,FG_MISS,None,7:58,3,76ers,Cavaliers,65 - 65,1, ,2,Jumper
+28,Cedi Osman,DEFENSIVE_REBOUND,None,7:56,3,Cavaliers,76ers,65 - 65,0,N/A,N/A,N/A
+29,Collin Sexton,FG_UNASSISTED,None,7:43,3,Cavaliers,76ers,67 - 65,0,16,2,Jumper
+30,Wilson Chandler,TURNOVER,None,7:22,3,76ers,Cavaliers,67 - 65,1,N/A,N/A,N/A
+31,Mike Muscala,SUBSTITUTION,Embiid Joel,7:11,3,76ers,Cavaliers,67 - 65,1,N/A,N/A,N/A
+32,Amir Johnson,SUBSTITUTION,Chandler Wilson,7:11,3,76ers,Cavaliers,67 - 65,1,N/A,N/A,N/A
+33,David Nwaba,TURNOVER,Jimmy Butler,7:09,3,Cavaliers,76ers,67 - 65,0,N/A,N/A,N/A
+34,Jimmy Butler,FG_UNASSISTED,None,7:06,3,76ers,Cavaliers,67 - 67,1,0,2,Dunk
+35,Collin Sexton,FG_MISS,Amir Johnson,6:42,3,76ers,Cavaliers,67 - 67,0,6,2,Jumper
+36,Team,OFFENSIVE_REBOUND,None,6:42,3,Cavaliers,76ers,67 - 67,0,N/A,N/A,N/A
+37,shot clock,TURNOVER,None,6:41,3,Cavaliers,76ers,67 - 67,0,N/A,N/A,N/A
+38,Jimmy Butler,FG_ASSISTED,Ben Simmons,6:29,3,76ers,Cavaliers,67 - 70,1,26,3,Jumper
+39,Collin Sexton,FG_MISS,None,6:11,3,Cavaliers,76ers,67 - 70,0,19,2,Jumper
+40,Amir Johnson,DEFENSIVE_REBOUND,None,6:09,3,76ers,Cavaliers,67 - 70,1,N/A,N/A,N/A
+41,Cedi Osman,FOUL_ON_FLOOR,None,5:50,3,Cavaliers,76ers,67 - 70,0,N/A,N/A,N/A
+42,Jimmy Butler,FT_MISS,None,5:50,3,76ers,Cavaliers,67 - 70,1,N/A,1,N/A
+43,Team,OFFENSIVE_REBOUND,None,5:50,3,76ers,Cavaliers,67 - 70,1,N/A,N/A,N/A
+44,Jimmy Butler,FT,None,5:50,3,76ers,Cavaliers,67 - 71,1,N/A,1,N/A
+45,Jimmy Butler,FOUL_ON_FLOOR,None,5:42,3,76ers,Cavaliers,67 - 71,1,N/A,N/A,N/A
+46,Collin Sexton,FT,None,5:42,3,Cavaliers,76ers,68 - 71,0,N/A,1,N/A
+47,Larry Nance,SUBSTITUTION,Nwaba David,5:42,3,Cavaliers,76ers,68 - 71,0,N/A,N/A,N/A
+48,Collin Sexton,FT,None,5:42,3,Cavaliers,76ers,69 - 71,0,N/A,1,N/A
+49,Jimmy Butler,FG_MISS,None,5:27,3,76ers,Cavaliers,69 - 71,1,0,2,Layup
+50,Amir Johnson,OFFENSIVE_REBOUND,None,5:23,3,76ers,Cavaliers,69 - 71,1,N/A,N/A,N/A
+51,Amir Johnson,FG_MISS,None,5:23,3,76ers,Cavaliers,69 - 71,1, ,2,Jumper
+52,Jimmy Butler,OFFENSIVE_REBOUND,None,5:21,3,76ers,Cavaliers,69 - 71,1,N/A,N/A,N/A
+53,Jimmy Butler,FG_MISS,None,5:21,3,76ers,Cavaliers,69 - 71,1, ,2,Jumper
+54,Amir Johnson,OFFENSIVE_REBOUND,None,5:21,3,76ers,Cavaliers,69 - 71,1,N/A,N/A,N/A
+55,Amir Johnson,FG_UNASSISTED,None,5:18,3,76ers,Cavaliers,69 - 73,1,2,2,Jumper
+56,Tristan Thompson,FG_MISS,None,5:05,3,Cavaliers,76ers,69 - 73,0,7,2,Jumper
+57,Ben Simmons,DEFENSIVE_REBOUND,None,5:02,3,76ers,Cavaliers,69 - 73,1,N/A,N/A,N/A
+58,Mike Muscala,FG_MISS,None,4:56,3,76ers,Cavaliers,69 - 73,1,26,3,Jumper
+59,Collin Sexton,DEFENSIVE_REBOUND,None,4:56,3,Cavaliers,76ers,69 - 73,0,N/A,N/A,N/A
+60,Collin Sexton,FG_UNASSISTED,None,4:50,3,Cavaliers,76ers,71 - 73,0,0,2,Layup
+61,Ben Simmons,FG_MISS,None,4:41,3,76ers,Cavaliers,71 - 73,1, ,2,Jumper
+62,Larry Nance,DEFENSIVE_REBOUND,None,4:39,3,Cavaliers,76ers,71 - 73,0,N/A,N/A,N/A
+63,Cedi Osman,TURNOVER,Mike Muscala,4:34,3,Cavaliers,76ers,71 - 73,0,N/A,N/A,N/A
+64,Jimmy Butler,FG_ASSISTED,Ben Simmons,4:28,3,76ers,Cavaliers,71 - 75,1, ,2,Jumper
+65,Tristan Thompson,FG_MISS,None,4:04,3,Cavaliers,76ers,71 - 75,0,9,2,Jumper
+66,Landry Shamet,DEFENSIVE_REBOUND,None,4:02,3,76ers,Cavaliers,71 - 75,1,N/A,N/A,N/A
+67,Landry Shamet,FG_MISS,None,3:57,3,76ers,Cavaliers,71 - 75,1,26,3,Jumper
+68,Larry Nance,DEFENSIVE_REBOUND,None,3:56,3,Cavaliers,76ers,71 - 75,0,N/A,N/A,N/A
+69,Team,Unknown,None,3:56,3,Cavaliers,76ers,71 - 75,0,N/A,N/A,N/A
+70,Rodney Hood,FG_UNASSISTED,None,3:35,3,Cavaliers,76ers,74 - 75,0,25,3,Jumper
+71,Jimmy Butler,FG_UNASSISTED,None,3:14,3,76ers,Cavaliers,74 - 77,1,17,2,Jumper
+72,Collin Sexton,FG_MISS,None,2:58,3,Cavaliers,76ers,74 - 77,0,0,2,Layup
+73,Mike Muscala,DEFENSIVE_REBOUND,None,2:56,3,76ers,Cavaliers,74 - 77,1,N/A,N/A,N/A
+74,Ben Simmons,FG_UNASSISTED,None,2:52,3,76ers,Cavaliers,74 - 79,1, ,2,Jumper
+75,Rodney Hood,FG_UNASSISTED,None,2:30,3,Cavaliers,76ers,77 - 79,0,26,3,Jumper
+76,Team,Unknown,None,2:28,3,76ers,Cavaliers,77 - 79,1,N/A,N/A,N/A
+77,Joel Embiid,SUBSTITUTION,Johnson Amir,2:28,3,76ers,Cavaliers,77 - 79,1,N/A,N/A,N/A
+78,Wilson Chandler,SUBSTITUTION,Butler Jimmy,2:28,3,76ers,Cavaliers,77 - 79,1,N/A,N/A,N/A
+79,T.J. McConnell,SUBSTITUTION,Simmons Ben,2:28,3,76ers,Cavaliers,77 - 79,1,N/A,N/A,N/A
+80,David Nwaba,SUBSTITUTION,Thompson Tristan,2:28,3,Cavaliers,76ers,77 - 79,0,N/A,N/A,N/A
+81,Jordan Clarkson,SUBSTITUTION,Osman Cedi,2:28,3,Cavaliers,76ers,77 - 79,0,N/A,N/A,N/A
+82,T.J. McConnell,FG_ASSISTED,Joel Embiid,2:15,3,76ers,Cavaliers,77 - 81,1,19,2,Jumper
+83,Wilson Chandler,FOUL_ON_FLOOR,None,2:06,3,76ers,Cavaliers,77 - 81,1,N/A,N/A,N/A
+84,Rodney Hood,FG_MISS,None,1:53,3,Cavaliers,76ers,77 - 81,0,18,2,Jumper
+85,Wilson Chandler,DEFENSIVE_REBOUND,None,1:50,3,76ers,Cavaliers,77 - 81,1,N/A,N/A,N/A
+86,T.J. McConnell,TURNOVER,Larry Nance,1:47,3,76ers,Cavaliers,77 - 81,1,N/A,N/A,N/A
+87,Joel Embiid,FOUL_ON_FLOOR,None,1:47,3,76ers,Cavaliers,77 - 81,1,N/A,N/A,N/A
+88,Jordan Clarkson,FG_MISS,None,1:34,3,Cavaliers,76ers,77 - 81,0,22,2,Jumper
+89,Wilson Chandler,DEFENSIVE_REBOUND,None,1:31,3,76ers,Cavaliers,77 - 81,1,N/A,N/A,N/A
+90,Larry Nance,FOUL_ON_FLOOR,None,1:23,3,Cavaliers,76ers,77 - 81,0,N/A,N/A,N/A
+91,Andrew Harrison,SUBSTITUTION,Sexton Collin,1:23,3,Cavaliers,76ers,77 - 81,0,N/A,N/A,N/A
+92,Mike Muscala,FG_MISS,None,1:10,3,76ers,Cavaliers,77 - 81,1,24,3,Jumper
+93,Rodney Hood,DEFENSIVE_REBOUND,None,1:06,3,Cavaliers,76ers,77 - 81,0,N/A,N/A,N/A
+94,Larry Nance,FG_ASSISTED,Andrew Harrison,59.0,3,Cavaliers,76ers,79 - 81,0,0,2,Dunk
+95,T.J. McConnell,TURNOVER,Larry Nance,45.1,3,76ers,Cavaliers,79 - 81,1,N/A,N/A,N/A
+96,Jordan Clarkson,FG_ASSISTED,Larry Nance,42.3,3,Cavaliers,76ers,81 - 81,0,2,2,Jumper
+97,Landry Shamet,FOUL_ON_FLOOR,None,42.3,3,76ers,Cavaliers,81 - 81,1,N/A,N/A,N/A
+98,Jordan Clarkson,FT,None,42.3,3,Cavaliers,76ers,82 - 81,0,N/A,1,N/A
+99,Andrew Harrison,FOUL_ON_FLOOR,None,28.5,3,Cavaliers,76ers,82 - 81,0,N/A,N/A,N/A
+100,Joel Embiid,FT,None,28.5,3,76ers,Cavaliers,82 - 82,1,N/A,1,N/A
+101,Joel Embiid,FT,None,28.5,3,76ers,Cavaliers,82 - 83,1,N/A,1,N/A
+102,Jordan Clarkson,FG_UNASSISTED,None,7.8,3,Cavaliers,76ers,84 - 83,0,18,2,Jumper
+103,Mike Muscala,FG_MISS,None,0.3,3,76ers,Cavaliers,84 - 83,1,29,3,Jumper
+104,Team,OFFENSIVE_REBOUND,None,0.3,3,76ers,Cavaliers,84 - 83,1,N/A,N/A,N/A
+105,End of,Unknown,None,0.0,3,76ers,Cavaliers,84 - 83,1,N/A,N/A,N/A
+0,JJ Redick,SUBSTITUTION,Chandler Wilson,12:00,4,76ers,Cavaliers,84 - 83,1,N/A,N/A,N/A
+1,Cedi Osman,SUBSTITUTION,Hood Rodney,12:00,4,Cavaliers,76ers,84 - 83,0,N/A,N/A,N/A
+2,Jordan Clarkson,FG_UNASSISTED,None,11:48,4,Cavaliers,76ers,86 - 83,0,13,2,Jumper
+3,Joel Embiid,FG_ASSISTED,JJ Redick,11:30,4,76ers,Cavaliers,86 - 85,1,0,2,Dunk
+4,Jordan Clarkson,FG_UNASSISTED,None,11:03,4,Cavaliers,76ers,88 - 85,0,16,2,Jumper
+5,Joel Embiid,FG_MISS,None,10:43,4,76ers,Cavaliers,88 - 85,1,18,2,Jumper
+6,Team,OFFENSIVE_REBOUND,None,10:43,4,76ers,Cavaliers,88 - 85,1,N/A,N/A,N/A
+7,David Nwaba,FOUL_ON_FLOOR,None,10:37,4,Cavaliers,76ers,88 - 85,0,N/A,N/A,N/A
+8,Landry Shamet,FG_MISS,None,10:28,4,76ers,Cavaliers,88 - 85,1,27,3,Jumper
+9,Cedi Osman,DEFENSIVE_REBOUND,None,10:25,4,Cavaliers,76ers,88 - 85,0,N/A,N/A,N/A
+10,Cedi Osman,FG_UNASSISTED,None,10:18,4,Cavaliers,76ers,90 - 85,0,21,2,Jumper
+11,Larry Nance,FOUL_ON_FLOOR,None,10:06,4,Cavaliers,76ers,90 - 85,0,N/A,N/A,N/A
+12,Mike Muscala,FG_MISS,None,9:56,4,76ers,Cavaliers,90 - 85,1,27,3,Jumper
+13,David Nwaba,DEFENSIVE_REBOUND,None,9:51,4,Cavaliers,76ers,90 - 85,0,N/A,N/A,N/A
+14,Cedi Osman,FG_MISS,None,9:33,4,Cavaliers,76ers,90 - 85,0,20,2,Jumper
+15,Joel Embiid,DEFENSIVE_REBOUND,None,9:31,4,76ers,Cavaliers,90 - 85,1,N/A,N/A,N/A
+16,Jordan Clarkson,FOUL_ON_FLOOR,None,9:28,4,Cavaliers,76ers,90 - 85,0,N/A,N/A,N/A
+17,JJ Redick,FT,None,9:28,4,76ers,Cavaliers,90 - 86,1,N/A,1,N/A
+18,JJ Redick,FT,None,9:28,4,76ers,Cavaliers,90 - 87,1,N/A,1,N/A
+19,Jimmy Butler,SUBSTITUTION,Shamet Landry,9:28,4,76ers,Cavaliers,90 - 87,1,N/A,N/A,N/A
+20,Ben Simmons,SUBSTITUTION,McConnell T.J.,9:28,4,76ers,Cavaliers,90 - 87,1,N/A,N/A,N/A
+21,JJ Redick,FT,None,9:28,4,76ers,Cavaliers,90 - 88,1,N/A,1,N/A
+22,Jordan Clarkson,FG_MISS,None,9:09,4,Cavaliers,76ers,90 - 88,0,2,2,Jumper
+23,Joel Embiid,DEFENSIVE_REBOUND,None,9:03,4,76ers,Cavaliers,90 - 88,1,N/A,N/A,N/A
+24,Joel Embiid,FG_ASSISTED,Ben Simmons,9:02,4,76ers,Cavaliers,90 - 90,1,2,2,Jumper
+25,Ben Simmons,FOUL_ON_FLOOR,None,8:51,4,76ers,Cavaliers,90 - 90,1,N/A,N/A,N/A
+26,Tristan Thompson,SUBSTITUTION,Nwaba David,8:51,4,Cavaliers,76ers,90 - 90,0,N/A,N/A,N/A
+27,Andrew Harrison,FG_MISS,None,8:38,4,Cavaliers,76ers,90 - 90,0,0,2,Layup
+28,Jordan Clarkson,OFFENSIVE_REBOUND,None,8:38,4,Cavaliers,76ers,90 - 90,0,N/A,N/A,N/A
+29,Jordan Clarkson,FG_MISS,None,8:28,4,Cavaliers,76ers,90 - 90,0,11,2,Jumper
+30,Team,OFFENSIVE_REBOUND,None,8:28,4,Cavaliers,76ers,90 - 90,0,N/A,N/A,N/A
+31,Joel Embiid,FOUL_ON_FLOOR,None,8:28,4,76ers,Cavaliers,90 - 90,1,N/A,N/A,N/A
+32,Cedi Osman,FG_ASSISTED,Larry Nance,8:23,4,Cavaliers,76ers,92 - 90,0,0,2,Layup
+33,Team,Unknown,None,8:23,4,76ers,Cavaliers,92 - 90,1,N/A,N/A,N/A
+34,Wilson Chandler,SUBSTITUTION,Muscala Mike,8:23,4,76ers,Cavaliers,92 - 90,1,N/A,N/A,N/A
+35,Jimmy Butler,TURNOVER,Tristan Thompson,8:08,4,76ers,Cavaliers,92 - 90,1,N/A,N/A,N/A
+36,Larry Nance,FG_ASSISTED,Andrew Harrison,7:48,4,Cavaliers,76ers,94 - 90,0,0,2,Dunk
+37,Andrew Harrison,FOUL_ON_FLOOR,None,7:33,4,Cavaliers,76ers,94 - 90,0,N/A,N/A,N/A
+38,Jimmy Butler,FT,None,7:33,4,76ers,Cavaliers,94 - 91,1,N/A,1,N/A
+39,Jimmy Butler,FT,None,7:33,4,76ers,Cavaliers,94 - 92,1,N/A,1,N/A
+40,Jordan Clarkson,FG_ASSISTED,Andrew Harrison,7:19,4,Cavaliers,76ers,97 - 92,0,26,3,Jumper
+41,Wilson Chandler,TURNOVER,None,7:06,4,76ers,Cavaliers,97 - 92,1,N/A,N/A,N/A
+42,Wilson Chandler,TURNOVER,None,7:06,4,76ers,Cavaliers,97 - 92,1,N/A,N/A,N/A
+43,Tristan Thompson,FG_ASSISTED,Andrew Harrison,6:53,4,Cavaliers,76ers,99 - 92,0,10,2,Jumper
+44,Larry Nance,FOUL_ON_FLOOR,None,6:42,4,Cavaliers,76ers,99 - 92,0,N/A,N/A,N/A
+45,Joel Embiid,FT_MISS,None,6:42,4,76ers,Cavaliers,99 - 92,1,N/A,1,N/A
+46,Team,OFFENSIVE_REBOUND,None,6:42,4,76ers,Cavaliers,99 - 92,1,N/A,N/A,N/A
+47,Rodney Hood,SUBSTITUTION,Nance Larry,6:42,4,Cavaliers,76ers,99 - 92,0,N/A,N/A,N/A
+48,Joel Embiid,FT,None,6:42,4,76ers,Cavaliers,99 - 93,1,N/A,1,N/A
+49,Andrew Harrison,FG_UNASSISTED,None,6:20,4,Cavaliers,76ers,101 - 93,0,0,2,Layup
+50,Rodney Hood,FOUL_ON_FLOOR,None,6:09,4,Cavaliers,76ers,101 - 93,0,N/A,N/A,N/A
+51,JJ Redick,FT,None,6:09,4,76ers,Cavaliers,101 - 94,1,N/A,1,N/A
+52,JJ Redick,FT,None,6:09,4,76ers,Cavaliers,101 - 95,1,N/A,1,N/A
+53,Rodney Hood,FG_MISS,None,5:47,4,Cavaliers,76ers,101 - 95,0,19,2,Jumper
+54,Tristan Thompson,OFFENSIVE_REBOUND,None,5:44,4,Cavaliers,76ers,101 - 95,0,N/A,N/A,N/A
+55,Rodney Hood,FG_MISS,None,5:42,4,Cavaliers,76ers,101 - 95,0,26,3,Jumper
+56,Joel Embiid,DEFENSIVE_REBOUND,None,5:38,4,76ers,Cavaliers,101 - 95,1,N/A,N/A,N/A
+57,JJ Redick,FG_MISS,None,5:29,4,76ers,Cavaliers,101 - 95,1,27,3,Jumper
+58,Tristan Thompson,DEFENSIVE_REBOUND,None,5:26,4,Cavaliers,76ers,101 - 95,0,N/A,N/A,N/A
+59,Andrew Harrison,FG_UNASSISTED,None,5:12,4,Cavaliers,76ers,104 - 95,0,26,3,Jumper
+60,Team,Unknown,None,5:09,4,76ers,Cavaliers,104 - 95,1,N/A,N/A,N/A
+61,Joel Embiid,FG_MISS,None,4:58,4,76ers,Cavaliers,104 - 95,1,26,3,Jumper
+62,Cedi Osman,DEFENSIVE_REBOUND,None,4:55,4,Cavaliers,76ers,104 - 95,0,N/A,N/A,N/A
+63,Tristan Thompson,FG_UNASSISTED,None,4:34,4,Cavaliers,76ers,106 - 95,0,12,2,Jumper
+64,Joel Embiid,FG_ASSISTED,JJ Redick,4:14,4,76ers,Cavaliers,106 - 97,1,5,2,Jumper
+65,Jordan Clarkson,FG_UNASSISTED,None,3:52,4,Cavaliers,76ers,109 - 97,0,27,3,Jumper
+66,Joel Embiid,FG_MISS,None,3:41,4,76ers,Cavaliers,109 - 97,1,26,3,Jumper
+67,Jordan Clarkson,DEFENSIVE_REBOUND,None,3:37,4,Cavaliers,76ers,109 - 97,0,N/A,N/A,N/A
+68,Jordan Clarkson,FG_MISS,None,3:23,4,Cavaliers,76ers,109 - 97,0,26,3,Jumper
+69,Ben Simmons,DEFENSIVE_REBOUND,None,3:21,4,76ers,Cavaliers,109 - 97,1,N/A,N/A,N/A
+70,Cedi Osman,FOUL_ON_FLOOR,None,3:20,4,Cavaliers,76ers,109 - 97,0,N/A,N/A,N/A
+71,Ben Simmons,FT_MISS,None,3:20,4,76ers,Cavaliers,109 - 97,1,N/A,1,N/A
+72,Team,OFFENSIVE_REBOUND,None,3:20,4,76ers,Cavaliers,109 - 97,1,N/A,N/A,N/A
+73,Ben Simmons,FT_MISS,None,3:20,4,76ers,Cavaliers,109 - 97,1,N/A,1,N/A
+74,Rodney Hood,DEFENSIVE_REBOUND,None,3:18,4,Cavaliers,76ers,109 - 97,0,N/A,N/A,N/A
+75,Team,Unknown,None,3:18,4,Cavaliers,76ers,109 - 97,0,N/A,N/A,N/A
+76,Rodney Hood,FG_UNASSISTED,None,2:55,4,Cavaliers,76ers,112 - 97,0,27,3,Jumper
+77,Team,Unknown,None,2:53,4,76ers,Cavaliers,112 - 97,1,N/A,N/A,N/A
+78,JJ Redick,TURNOVER,Tristan Thompson,2:43,4,76ers,Cavaliers,112 - 97,1,N/A,N/A,N/A
+79,Ben Simmons,FOUL_ON_FLOOR,None,2:39,4,76ers,Cavaliers,112 - 97,1,N/A,N/A,N/A
+80,Cedi Osman,FG_MISS,None,2:23,4,Cavaliers,76ers,112 - 97,0,23,3,Jumper
+81,Joel Embiid,DEFENSIVE_REBOUND,None,2:21,4,76ers,Cavaliers,112 - 97,1,N/A,N/A,N/A
+82,Ben Simmons,FG_UNASSISTED,None,2:13,4,76ers,Cavaliers,112 - 99,1,0,2,Layup
+83,Jordan Clarkson,FG_MISS,Jimmy Butler,1:49,4,76ers,Cavaliers,112 - 99,0,6,2,Jumper
+84,Jordan Clarkson,OFFENSIVE_REBOUND,None,1:49,4,Cavaliers,76ers,112 - 99,0,N/A,N/A,N/A
+85,Jordan Clarkson,FG_UNASSISTED,None,1:48,4,Cavaliers,76ers,114 - 99,0,0,2,Layup
+86,Rodney Hood,FOUL_ON_FLOOR,None,1:44,4,Cavaliers,76ers,114 - 99,0,N/A,N/A,N/A
+87,JJ Redick,FT,None,1:44,4,76ers,Cavaliers,114 - 100,1,N/A,1,N/A
+88,Landry Shamet,SUBSTITUTION,Butler Jimmy,1:44,4,76ers,Cavaliers,114 - 100,1,N/A,N/A,N/A
+89,JJ Redick,FT,None,1:44,4,76ers,Cavaliers,114 - 101,1,N/A,1,N/A
+90,Wilson Chandler,FOUL_ON_FLOOR,None,1:27,4,76ers,Cavaliers,114 - 101,1,N/A,N/A,N/A
+91,Mike Muscala,SUBSTITUTION,Embiid Joel,1:27,4,76ers,Cavaliers,114 - 101,1,N/A,N/A,N/A
+92,Collin Sexton,SUBSTITUTION,Thompson Tristan,1:27,4,Cavaliers,76ers,114 - 101,0,N/A,N/A,N/A
+93,Rodney Hood,FG_MISS,None,1:16,4,Cavaliers,76ers,114 - 101,0,23,3,Jumper
+94,Wilson Chandler,DEFENSIVE_REBOUND,None,1:12,4,76ers,Cavaliers,114 - 101,1,N/A,N/A,N/A
+95,Ben Simmons,FG_UNASSISTED,None,1:09,4,76ers,Cavaliers,114 - 103,1,1,2,Jumper
+96,Andrew Harrison,FOUL_ON_FLOOR,None,1:09,4,Cavaliers,76ers,114 - 103,0,N/A,N/A,N/A
+97,Tristan Thompson,SUBSTITUTION,Sexton Collin,1:09,4,Cavaliers,76ers,114 - 103,0,N/A,N/A,N/A
+98,Ben Simmons,FT_MISS,None,1:09,4,76ers,Cavaliers,114 - 103,1,N/A,1,N/A
+99,Cedi Osman,DEFENSIVE_REBOUND,None,1:09,4,Cavaliers,76ers,114 - 103,0,N/A,N/A,N/A
+100,Jordan Clarkson,FG_UNASSISTED,None,48.4,4,Cavaliers,76ers,116 - 103,0,2,2,Jumper
+101,Team,Unknown,None,48.4,4,76ers,Cavaliers,116 - 103,1,N/A,N/A,N/A
+102,Collin Sexton,SUBSTITUTION,Thompson Tristan,48.4,4,Cavaliers,76ers,116 - 103,0,N/A,N/A,N/A
+103,JJ Redick,FG_MISS,None,44.0,4,76ers,Cavaliers,116 - 103,1,27,3,Jumper
+104,Ben Simmons,OFFENSIVE_REBOUND,None,42.1,4,76ers,Cavaliers,116 - 103,1,N/A,N/A,N/A
+105,Cedi Osman,FOUL_ON_FLOOR,None,42.1,4,Cavaliers,76ers,116 - 103,0,N/A,N/A,N/A
+106,Ben Simmons,FT,None,42.1,4,76ers,Cavaliers,116 - 104,1,N/A,1,N/A
+107,T.J. McConnell,SUBSTITUTION,Muscala Mike,42.1,4,76ers,Cavaliers,116 - 104,1,N/A,N/A,N/A
+108,Tristan Thompson,SUBSTITUTION,Sexton Collin,42.1,4,Cavaliers,76ers,116 - 104,0,N/A,N/A,N/A
+109,Ben Simmons,FT,None,42.1,4,76ers,Cavaliers,116 - 105,1,N/A,1,N/A
+110,Jordan Clarkson,TURNOVER,T.J. McConnell,33.4,4,Cavaliers,76ers,116 - 105,0,N/A,N/A,N/A
+111,Ben Simmons,FG_ASSISTED,JJ Redick,31.1,4,76ers,Cavaliers,116 - 107,1,0,2,Dunk
+112,Team,Unknown,None,31.1,4,Cavaliers,76ers,116 - 107,0,N/A,N/A,N/A
+113,Collin Sexton,SUBSTITUTION,Thompson Tristan,31.1,4,Cavaliers,76ers,116 - 107,0,N/A,N/A,N/A
+114,Ben Simmons,FOUL_ON_FLOOR,None,20.3,4,76ers,Cavaliers,116 - 107,1,N/A,N/A,N/A
+115,Tristan Thompson,SUBSTITUTION,Clarkson Jordan,20.3,4,Cavaliers,76ers,116 - 107,0,N/A,N/A,N/A
+116,Collin Sexton,FT_MISS,None,20.3,4,Cavaliers,76ers,116 - 107,0,N/A,1,N/A
+117,Team,OFFENSIVE_REBOUND,None,20.3,4,Cavaliers,76ers,116 - 107,0,N/A,N/A,N/A
+118,Collin Sexton,FT,None,20.3,4,Cavaliers,76ers,117 - 107,0,N/A,1,N/A
+119,JJ Redick,FG_ASSISTED,Ben Simmons,14.1,4,76ers,Cavaliers,117 - 110,1,28,3,Jumper
+120,JJ Redick,FOUL_ON_FLOOR,None,7.8,4,76ers,Cavaliers,117 - 110,1,N/A,N/A,N/A
+121,Cedi Osman,FT,None,7.8,4,Cavaliers,76ers,118 - 110,0,N/A,1,N/A
+122,Cedi Osman,FT,None,7.8,4,Cavaliers,76ers,119 - 110,0,N/A,1,N/A
+123,Ben Simmons,FG_UNASSISTED,None,2.8,4,76ers,Cavaliers,119 - 112,1,0,2,Layup
+124,JJ Redick,FOUL_ON_FLOOR,None,2.4,4,76ers,Cavaliers,119 - 112,1,N/A,N/A,N/A
+125,Mike Muscala,SUBSTITUTION,Redick JJ,2.4,4,76ers,Cavaliers,119 - 112,1,N/A,N/A,N/A
+126,Tristan Thompson,FT,None,2.4,4,Cavaliers,76ers,120 - 112,0,N/A,1,N/A
+127,Tristan Thompson,FT,None,2.4,4,Cavaliers,76ers,121 - 112,0,N/A,1,N/A
+128,End of,Unknown,None,0.0,4,76ers,Cavaliers,121 - 112,1,N/A,N/A,N/A
+129,End of,Unknown,None,0.0,4,76ers,Cavaliers,121 - 112,1,N/A,N/A,N/A

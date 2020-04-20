@@ -1,0 +1,427 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Domantas Sabonis,JUMP_BALL,None,12:00,1,Cavaliers,Pacers,0 - 0,1,N/A,N/A,N/A
+1,Cedi Osman,FG_MISS,None,11:40,1,Cavaliers,Pacers,0 - 0,1,26,3,Jumper
+2,Thaddeus Young,DEFENSIVE_REBOUND,None,11:36,1,Pacers,Cavaliers,0 - 0,0,N/A,N/A,N/A
+3,Domantas Sabonis,FG_MISS,None,11:19,1,Pacers,Cavaliers,0 - 0,0,6,2,Jumper
+4,Alec Burks,DEFENSIVE_REBOUND,None,11:17,1,Cavaliers,Pacers,0 - 0,1,N/A,N/A,N/A
+5,Alec Burks,FG_ASSISTED,Larry Nance,11:07,1,Cavaliers,Pacers,0 - 3,1,28,3,Jumper
+6,Cedi Osman,FOUL_ON_FLOOR,None,10:53,1,Cavaliers,Pacers,0 - 3,1,N/A,N/A,N/A
+7,Bojan Bogdanovic,FT,None,10:53,1,Pacers,Cavaliers,1 - 3,0,N/A,1,N/A
+8,Bojan Bogdanovic,FT,None,10:53,1,Pacers,Cavaliers,2 - 3,0,N/A,1,N/A
+9,Cedi Osman,TURNOVER,Darren Collison,10:38,1,Cavaliers,Pacers,2 - 3,1,N/A,N/A,N/A
+10,Bojan Bogdanovic,FG_ASSISTED,Thaddeus Young,10:19,1,Pacers,Cavaliers,5 - 3,0,28,3,Jumper
+11,Thaddeus Young,Unknown,None,10:00,1,Pacers,Cavaliers,5 - 3,0,N/A,N/A,N/A
+12,Collin Sexton,FG_UNASSISTED,None,9:46,1,Cavaliers,Pacers,5 - 5,1,15,2,Jumper
+13,Bojan Bogdanovic,FG_UNASSISTED,None,9:32,1,Pacers,Cavaliers,7 - 5,0,13,2,Jumper
+14,Collin Sexton,TURNOVER,Darren Collison,9:23,1,Cavaliers,Pacers,7 - 5,1,N/A,N/A,N/A
+15,Domantas Sabonis,FG_MISS,None,9:10,1,Pacers,Cavaliers,7 - 5,0,-,2,Jumper
+16,Alec Burks,DEFENSIVE_REBOUND,None,9:03,1,Cavaliers,Pacers,7 - 5,1,N/A,N/A,N/A
+17,Collin Sexton,FG_ASSISTED,Larry Nance,8:57,1,Cavaliers,Pacers,7 - 7,1,16,2,Jumper
+18,Domantas Sabonis,FG_ASSISTED,Victor Oladipo,8:38,1,Pacers,Cavaliers,9 - 7,0,-,2,Jumper
+19,Larry Nance,FG_MISS,None,8:17,1,Cavaliers,Pacers,9 - 7,1,25,3,Jumper
+20,Domantas Sabonis,DEFENSIVE_REBOUND,None,8:12,1,Pacers,Cavaliers,9 - 7,0,N/A,N/A,N/A
+21,Victor Oladipo's,FG_MISS,Tristan Thompson,8:09,1,Cavaliers,Pacers,9 - 7,0,-,2,Jumper
+22,Alec Burks,DEFENSIVE_REBOUND,None,8:07,1,Cavaliers,Pacers,9 - 7,1,N/A,N/A,N/A
+23,Darren Collison,FOUL_ON_FLOOR,None,7:56,1,Pacers,Cavaliers,9 - 7,0,N/A,N/A,N/A
+24,Tristan Thompson,TURNOVER,Bojan Bogdanovic,7:51,1,Cavaliers,Pacers,9 - 7,1,N/A,N/A,N/A
+25,Bojan Bogdanovic,FG_UNASSISTED,None,7:49,1,Pacers,Cavaliers,11 - 7,0,0,2,Dunk
+26,Cedi Osman,FOUL_ON_FLOOR,None,7:49,1,Cavaliers,Pacers,11 - 7,1,N/A,N/A,N/A
+27,Bojan Bogdanovic,FT,None,7:49,1,Pacers,Cavaliers,12 - 7,0,N/A,1,N/A
+28,Tristan Thompson,FG_MISS,None,7:36,1,Cavaliers,Pacers,12 - 7,1,9,2,Jumper
+29,Domantas Sabonis,DEFENSIVE_REBOUND,None,7:35,1,Pacers,Cavaliers,12 - 7,0,N/A,N/A,N/A
+30,Victor Oladipo,FG_MISS,None,7:29,1,Pacers,Cavaliers,12 - 7,0,14,2,Jumper
+31,Larry Nance,DEFENSIVE_REBOUND,None,7:27,1,Cavaliers,Pacers,12 - 7,1,N/A,N/A,N/A
+32,Larry Nance,TURNOVER,Thaddeus Young,7:19,1,Cavaliers,Pacers,12 - 7,1,N/A,N/A,N/A
+33,Bojan Bogdanovic,FG_ASSISTED,Victor Oladipo,7:15,1,Pacers,Cavaliers,14 - 7,0,-,2,Jumper
+34,Team,Unknown,None,7:15,1,Cavaliers,Pacers,14 - 7,1,N/A,N/A,N/A
+35,Jordan Clarkson,SUBSTITUTION,Osman Cedi,7:15,1,Cavaliers,Pacers,14 - 7,1,N/A,N/A,N/A
+36,Thaddeus Young,FOUL_ON_FLOOR,None,6:51,1,Pacers,Cavaliers,14 - 7,0,N/A,N/A,N/A
+37,Larry Nance,FT_MISS,None,6:51,1,Cavaliers,Pacers,14 - 7,1,N/A,1,N/A
+38,Team,OFFENSIVE_REBOUND,None,6:51,1,Cavaliers,Pacers,14 - 7,1,N/A,N/A,N/A
+39,Larry Nance,FT,None,6:51,1,Cavaliers,Pacers,14 - 8,1,N/A,1,N/A
+40,Collin Sexton,FOUL_ON_FLOOR,None,6:51,1,Cavaliers,Pacers,14 - 8,1,N/A,N/A,N/A
+41,Jalen Jones,SUBSTITUTION,Nance Larry,6:51,1,Cavaliers,Pacers,14 - 8,1,N/A,N/A,N/A
+42,Darren Collison,FG_MISS,None,6:33,1,Pacers,Cavaliers,14 - 8,0,17,2,Jumper
+43,Alec Burks,DEFENSIVE_REBOUND,None,6:29,1,Cavaliers,Pacers,14 - 8,1,N/A,N/A,N/A
+44,Jalen Jones,FG_MISS,None,6:17,1,Cavaliers,Pacers,14 - 8,1,29,3,Jumper
+45,Collin Sexton,OFFENSIVE_REBOUND,None,6:17,1,Cavaliers,Pacers,14 - 8,1,N/A,N/A,N/A
+46,Collin Sexton,TURNOVER,Darren Collison,6:12,1,Cavaliers,Pacers,14 - 8,1,N/A,N/A,N/A
+47,Thaddeus Young,FG_ASSISTED,Darren Collison,6:08,1,Pacers,Cavaliers,16 - 8,0,0,2,Layup
+48,Jordan Clarkson,TURNOVER,Darren Collison,5:55,1,Cavaliers,Pacers,16 - 8,1,N/A,N/A,N/A
+49,Bojan Bogdanovic,FG_ASSISTED,Darren Collison,5:52,1,Pacers,Cavaliers,18 - 8,0,0,2,Dunk
+50,Alec Burks,FG_MISS,None,5:33,1,Cavaliers,Pacers,18 - 8,1,19,2,Jumper
+51,Domantas Sabonis,DEFENSIVE_REBOUND,None,5:33,1,Pacers,Cavaliers,18 - 8,0,N/A,N/A,N/A
+52,Thaddeus Young,FG_UNASSISTED,None,5:20,1,Pacers,Cavaliers,20 - 8,0,2,2,Jumper
+53,Jordan Clarkson,FG_MISS,None,5:01,1,Cavaliers,Pacers,20 - 8,1,-,3,Jumper
+54,Thaddeus Young,DEFENSIVE_REBOUND,None,4:58,1,Pacers,Cavaliers,20 - 8,0,N/A,N/A,N/A
+55,Domantas Sabonis,FG_ASSISTED,Darren Collison,4:50,1,Pacers,Cavaliers,22 - 8,0,19,2,Jumper
+56,Team,Unknown,None,4:49,1,Cavaliers,Pacers,22 - 8,1,N/A,N/A,N/A
+57,Ante Zizic,SUBSTITUTION,Sexton Collin,4:49,1,Cavaliers,Pacers,22 - 8,1,N/A,N/A,N/A
+58,Matthew Dellavedova,SUBSTITUTION,Thompson Tristan,4:49,1,Cavaliers,Pacers,22 - 8,1,N/A,N/A,N/A
+59,Jordan Clarkson,TURNOVER,Domantas Sabonis,4:33,1,Cavaliers,Pacers,22 - 8,1,N/A,N/A,N/A
+60,Victor Oladipo,TURNOVER,Alec Burks,4:21,1,Pacers,Cavaliers,22 - 8,0,N/A,N/A,N/A
+61,Jordan Clarkson,FG_MISS,None,4:16,1,Cavaliers,Pacers,22 - 8,1,-,2,Jumper
+62,Jalen Jones,OFFENSIVE_REBOUND,None,4:11,1,Cavaliers,Pacers,22 - 8,1,N/A,N/A,N/A
+63,Jalen Jones,FG_UNASSISTED,None,4:10,1,Cavaliers,Pacers,22 - 10,1, ,2,Jumper
+64,Thaddeus Young,FG_ASSISTED,Bojan Bogdanovic,4:03,1,Pacers,Cavaliers,24 - 10,0,0,2,Layup
+65,Jordan Clarkson,FG_MISS,None,3:43,1,Cavaliers,Pacers,24 - 10,1,16,2,Jumper
+66,Darren Collison,DEFENSIVE_REBOUND,None,3:40,1,Pacers,Cavaliers,24 - 10,0,N/A,N/A,N/A
+67,Domantas Sabonis,FG_ASSISTED,Darren Collison,3:31,1,Pacers,Cavaliers,26 - 10,0,22,2,Jumper
+68,Matthew Dellavedova,FG_MISS,None,3:10,1,Cavaliers,Pacers,26 - 10,1,26,3,Jumper
+69,Thaddeus Young,DEFENSIVE_REBOUND,None,3:07,1,Pacers,Cavaliers,26 - 10,0,N/A,N/A,N/A
+70,Domantas Sabonis,FG_MISS,None,2:51,1,Pacers,Cavaliers,26 - 10,0,27,3,Jumper
+71,Team,OFFENSIVE_REBOUND,None,2:50,1,Pacers,Cavaliers,26 - 10,0,N/A,N/A,N/A
+72,Jalen Jones,FOUL_ON_FLOOR,None,2:50,1,Cavaliers,Pacers,26 - 10,1,N/A,N/A,N/A
+73,Cameron Payne,SUBSTITUTION,Burks Alec,2:50,1,Cavaliers,Pacers,26 - 10,1,N/A,N/A,N/A
+74,Cory Joseph,SUBSTITUTION,Collison Darren,2:50,1,Pacers,Cavaliers,26 - 10,0,N/A,N/A,N/A
+75,T.J. Leaf,SUBSTITUTION,Young Thaddeus,2:50,1,Pacers,Cavaliers,26 - 10,0,N/A,N/A,N/A
+76,Doug McDermott,SUBSTITUTION,Bogdanovic Bojan,2:50,1,Pacers,Cavaliers,26 - 10,0,N/A,N/A,N/A
+77,Domantas Sabonis,FG_UNASSISTED,None,2:35,1,Pacers,Cavaliers,28 - 10,0,12,2,Jumper
+78,Jordan Clarkson,FG_ASSISTED,Matthew Dellavedova,2:24,1,Cavaliers,Pacers,28 - 12,1,0,2,Dunk
+79,Domantas Sabonis,FG_ASSISTED,Victor Oladipo,2:10,1,Pacers,Cavaliers,30 - 12,0,0,2,Layup
+80,Jordan Clarkson,FG_MISS,None,1:53,1,Cavaliers,Pacers,30 - 12,1,0,2,Layup
+81,Domantas Sabonis,DEFENSIVE_REBOUND,None,1:52,1,Pacers,Cavaliers,30 - 12,0,N/A,N/A,N/A
+82,Victor Oladipo,FG_ASSISTED,Cory Joseph,1:33,1,Pacers,Cavaliers,32 - 12,0,0,2,Layup
+83,Jordan Clarkson,FG_MISS,None,1:15,1,Cavaliers,Pacers,32 - 12,1,13,2,Jumper
+84,Domantas Sabonis,DEFENSIVE_REBOUND,None,1:13,1,Pacers,Cavaliers,32 - 12,0,N/A,N/A,N/A
+85,T.J. Leaf,FG_ASSISTED,Domantas Sabonis,1:04,1,Pacers,Cavaliers,34 - 12,0,6,2,Jumper
+86,Jordan Clarkson,TURNOVER,None,55.7,1,Cavaliers,Pacers,34 - 12,1,N/A,N/A,N/A
+87,Kyle O'Quinn,SUBSTITUTION,Oladipo Victor,55.7,1,Pacers,Cavaliers,34 - 12,0,N/A,N/A,N/A
+88,Tyreke Evans,SUBSTITUTION,Sabonis Domantas,55.7,1,Pacers,Cavaliers,34 - 12,0,N/A,N/A,N/A
+89,Jordan Clarkson,FOUL_ON_FLOOR,None,46.5,1,Cavaliers,Pacers,34 - 12,1,N/A,N/A,N/A
+90,Doug McDermott,FT,None,46.5,1,Pacers,Cavaliers,35 - 12,0,N/A,1,N/A
+91,Doug McDermott,FT,None,46.5,1,Pacers,Cavaliers,36 - 12,0,N/A,1,N/A
+92,Matthew Dellavedova,FG_MISS,None,31.3,1,Cavaliers,Pacers,36 - 12,1,10,2,Jumper
+93,Ante Zizic,OFFENSIVE_REBOUND,None,30.9,1,Cavaliers,Pacers,36 - 12,1,N/A,N/A,N/A
+94,Cory Joseph,FOUL_ON_FLOOR,None,30.9,1,Pacers,Cavaliers,36 - 12,0,N/A,N/A,N/A
+95,Ante Zizic,FT,None,30.9,1,Cavaliers,Pacers,36 - 13,1,N/A,1,N/A
+96,Ante Zizic,FT,None,30.9,1,Cavaliers,Pacers,36 - 14,1,N/A,1,N/A
+97,Doug McDermott,FG_ASSISTED,Cory Joseph,20.2,1,Pacers,Cavaliers,38 - 14,0,0,2,Dunk
+98,Jalen Jones,FG_MISS,None,0.5,1,Cavaliers,Pacers,38 - 14,1, ,3,Jumper
+99,Team,OFFENSIVE_REBOUND,None,0.5,1,Cavaliers,Pacers,38 - 14,1,N/A,N/A,N/A
+100,Doug McDermott,FOUL_ON_FLOOR,None,0.5,1,Pacers,Cavaliers,38 - 14,0,N/A,N/A,N/A
+101,Ante Zizic,FT,None,0.5,1,Cavaliers,Pacers,38 - 15,1,N/A,1,N/A
+102,Ante Zizic,FT,None,0.5,1,Cavaliers,Pacers,38 - 16,1,N/A,1,N/A
+103,End of,Unknown,None,0.0,1,Cavaliers,Pacers,38 - 16,1,N/A,N/A,N/A
+0,Doug McDermott,TURNOVER,Jordan Clarkson,11:42,2,Pacers,Cavaliers,38 - 16,0,N/A,N/A,N/A
+1,Jordan Clarkson,FG_ASSISTED,Matthew Dellavedova,11:34,2,Cavaliers,Pacers,38 - 19,1,26,3,Jumper
+2,Kyle O'Quinn,FG_MISS,None,11:17,2,Pacers,Cavaliers,38 - 19,0,5,2,Jumper
+3,T.J. Leaf,OFFENSIVE_REBOUND,None,11:15,2,Pacers,Cavaliers,38 - 19,0,N/A,N/A,N/A
+4,T.J. Leaf,FG_UNASSISTED,None,11:13,2,Pacers,Cavaliers,40 - 19,0, ,2,Jumper
+5,Cameron Payne,FG_UNASSISTED,None,10:55,2,Cavaliers,Pacers,40 - 21,1,14,2,Jumper
+6,Doug McDermott,FG_ASSISTED,Cory Joseph,10:33,2,Pacers,Cavaliers,43 - 21,0,26,3,Jumper
+7,Cameron Payne,FG_MISS,None,10:06,2,Cavaliers,Pacers,43 - 21,1,27,3,Jumper
+8,T.J. Leaf,DEFENSIVE_REBOUND,None,10:03,2,Pacers,Cavaliers,43 - 21,0,N/A,N/A,N/A
+9,Matthew Dellavedova,FOUL_ON_FLOOR,None,9:58,2,Cavaliers,Pacers,43 - 21,1,N/A,N/A,N/A
+10,Kyle O'Quinn,FG_MISS,None,9:44,2,Pacers,Cavaliers,43 - 21,0,29,3,Jumper
+11,Cameron Payne,DEFENSIVE_REBOUND,None,9:40,2,Cavaliers,Pacers,43 - 21,1,N/A,N/A,N/A
+12,Kyle O'Quinn,FOUL_ON_FLOOR,None,9:37,2,Pacers,Cavaliers,43 - 21,0,N/A,N/A,N/A
+13,Collin Sexton,SUBSTITUTION,Dellavedova Matthew,9:37,2,Cavaliers,Pacers,43 - 21,1,N/A,N/A,N/A
+14,Cedi Osman,SUBSTITUTION,Jones Jalen,9:37,2,Cavaliers,Pacers,43 - 21,1,N/A,N/A,N/A
+15,Cameron Payne,FG_MISS,None,9:26,2,Cavaliers,Pacers,43 - 21,1,19,2,Jumper
+16,T.J. Leaf,DEFENSIVE_REBOUND,None,9:23,2,Pacers,Cavaliers,43 - 21,0,N/A,N/A,N/A
+17,T.J. Leaf,FG_ASSISTED,Kyle O'Quinn,9:17,2,Pacers,Cavaliers,45 - 21,0,0,2,Dunk
+18,Collin Sexton,FG_MISS,None,8:57,2,Cavaliers,Pacers,45 - 21,1,13,2,Jumper
+19,Tyreke Evans,DEFENSIVE_REBOUND,None,8:56,2,Pacers,Cavaliers,45 - 21,0,N/A,N/A,N/A
+20,T.J. Leaf,FG_MISS,None,8:52,2,Pacers,Cavaliers,45 - 21,0,25,3,Jumper
+21,Cory Joseph,OFFENSIVE_REBOUND,None,8:50,2,Pacers,Cavaliers,45 - 21,0,N/A,N/A,N/A
+22,Doug McDermott,FG_MISS,None,8:48,2,Pacers,Cavaliers,45 - 21,0, ,3,Jumper
+23,Jordan Clarkson,DEFENSIVE_REBOUND,None,8:45,2,Cavaliers,Pacers,45 - 21,1,N/A,N/A,N/A
+24,Cedi Osman,FG_MISS,None,8:42,2,Cavaliers,Pacers,45 - 21,1,26,3,Jumper
+25,T.J. Leaf,DEFENSIVE_REBOUND,None,8:39,2,Pacers,Cavaliers,45 - 21,0,N/A,N/A,N/A
+26,Tyreke Evans,TURNOVER,Jordan Clarkson,8:35,2,Pacers,Cavaliers,45 - 21,0,N/A,N/A,N/A
+27,Cedi Osman,FG_ASSISTED,Jordan Clarkson,8:31,2,Cavaliers,Pacers,45 - 23,1, ,2,Jumper
+28,Team,Unknown,None,8:20,2,Pacers,Cavaliers,45 - 23,0,N/A,N/A,N/A
+29,Tristan Thompson,SUBSTITUTION,Zizic Ante,8:20,2,Cavaliers,Pacers,45 - 23,1,N/A,N/A,N/A
+30,Thaddeus Young,SUBSTITUTION,Leaf T.J.,8:20,2,Pacers,Cavaliers,45 - 23,0,N/A,N/A,N/A
+31,Cory Joseph,FG_ASSISTED,Doug McDermott,8:10,2,Pacers,Cavaliers,48 - 23,0,24,3,Jumper
+32,Jordan Clarkson,FG_ASSISTED,Cameron Payne,7:55,2,Cavaliers,Pacers,48 - 25,1,16,2,Jumper
+33,Tyreke Evans,FG_MISS,None,7:32,2,Pacers,Cavaliers,48 - 25,0,0,2,Layup
+34,Team,OFFENSIVE_REBOUND,None,7:32,2,Pacers,Cavaliers,48 - 25,0,N/A,N/A,N/A
+35,Alec Burks,SUBSTITUTION,Payne Cameron,7:32,2,Cavaliers,Pacers,48 - 25,1,N/A,N/A,N/A
+36,Kyle O'Quinn,FG_MISS,None,7:19,2,Pacers,Cavaliers,48 - 25,0,13,2,Jumper
+37,Tristan Thompson,DEFENSIVE_REBOUND,None,7:17,2,Cavaliers,Pacers,48 - 25,1,N/A,N/A,N/A
+38,Jordan Clarkson,FG_UNASSISTED,None,7:08,2,Cavaliers,Pacers,48 - 27,1,2,2,Jumper
+39,Tristan Thompson,FOUL_ON_FLOOR,None,6:58,2,Cavaliers,Pacers,48 - 27,1,N/A,N/A,N/A
+40,Thaddeus Young,FT_MISS,None,6:58,2,Pacers,Cavaliers,48 - 27,0,N/A,1,N/A
+41,Team,OFFENSIVE_REBOUND,None,6:58,2,Pacers,Cavaliers,48 - 27,0,N/A,N/A,N/A
+42,Bojan Bogdanovic,SUBSTITUTION,Evans Tyreke,6:58,2,Pacers,Cavaliers,48 - 27,0,N/A,N/A,N/A
+43,Victor Oladipo,SUBSTITUTION,McDermott Doug,6:58,2,Pacers,Cavaliers,48 - 27,0,N/A,N/A,N/A
+44,Thaddeus Young,FT_MISS,None,6:58,2,Pacers,Cavaliers,48 - 27,0,N/A,1,N/A
+45,Tristan Thompson,DEFENSIVE_REBOUND,None,6:55,2,Cavaliers,Pacers,48 - 27,1,N/A,N/A,N/A
+46,Tristan Thompson,FG_MISS,None,6:43,2,Cavaliers,Pacers,48 - 27,1, ,2,Jumper
+47,Thaddeus Young,DEFENSIVE_REBOUND,None,6:40,2,Pacers,Cavaliers,48 - 27,0,N/A,N/A,N/A
+48,Cory Joseph,FG_MISS,None,6:18,2,Pacers,Cavaliers,48 - 27,0, ,2,Jumper
+49,Team,OFFENSIVE_REBOUND,None,6:18,2,Pacers,Cavaliers,48 - 27,0,N/A,N/A,N/A
+50,Jordan Clarkson,FOUL_ON_FLOOR,None,6:18,2,Cavaliers,Pacers,48 - 27,1,N/A,N/A,N/A
+51,Victor Oladipo,FG_UNASSISTED,None,6:13,2,Pacers,Cavaliers,50 - 27,0,17,2,Jumper
+52,Alec Burks,FG_UNASSISTED,None,5:58,2,Cavaliers,Pacers,50 - 29,1, ,2,Jumper
+53,Thaddeus Young,FG_UNASSISTED,None,5:39,2,Pacers,Cavaliers,52 - 29,0,0,2,Dunk
+54,Alec Burks,FG_MISS,None,5:27,2,Cavaliers,Pacers,52 - 29,1,20,2,Jumper
+55,Cory Joseph,DEFENSIVE_REBOUND,None,5:25,2,Pacers,Cavaliers,52 - 29,0,N/A,N/A,N/A
+56,Victor Oladipo,FG_UNASSISTED,None,5:15,2,Pacers,Cavaliers,54 - 29,0,0,2,Layup
+57,Kyle O'Quinn,FOUL_ON_FLOOR,None,5:01,2,Pacers,Cavaliers,54 - 29,0,N/A,N/A,N/A
+58,Domantas Sabonis,SUBSTITUTION,O'Quinn Kyle,5:01,2,Pacers,Cavaliers,54 - 29,0,N/A,N/A,N/A
+59,Jordan Clarkson,FT,None,5:01,2,Cavaliers,Pacers,54 - 30,1,N/A,1,N/A
+60,Jordan Clarkson,FT,None,5:01,2,Cavaliers,Pacers,54 - 31,1,N/A,1,N/A
+61,Tristan Thompson,Unknown,None,4:47,2,Cavaliers,Pacers,54 - 31,1,N/A,N/A,N/A
+62,Cory Joseph,FG_ASSISTED,Thaddeus Young,4:34,2,Pacers,Cavaliers,57 - 31,0,29,3,Jumper
+63,Collin Sexton,TURNOVER,Domantas Sabonis,4:14,2,Cavaliers,Pacers,57 - 31,1,N/A,N/A,N/A
+64,Victor Oladipo,FG_MISS,None,4:06,2,Pacers,Cavaliers,57 - 31,0,25,3,Jumper
+65,Tristan Thompson,DEFENSIVE_REBOUND,None,4:04,2,Cavaliers,Pacers,57 - 31,1,N/A,N/A,N/A
+66,Victor Oladipo,FOUL_ON_FLOOR,None,3:55,2,Pacers,Cavaliers,57 - 31,0,N/A,N/A,N/A
+67,Cameron Payne,SUBSTITUTION,Clarkson Jordan,3:55,2,Cavaliers,Pacers,57 - 31,1,N/A,N/A,N/A
+68,Darren Collison,SUBSTITUTION,Joseph Cory,3:55,2,Pacers,Cavaliers,57 - 31,0,N/A,N/A,N/A
+69,Collin Sexton,FG_ASSISTED,Tristan Thompson,3:42,2,Cavaliers,Pacers,57 - 33,1,19,2,Jumper
+70,Victor Oladipo,FOUL_ON_FLOOR,None,3:42,2,Pacers,Cavaliers,57 - 33,0,N/A,N/A,N/A
+71,Team,Unknown,None,3:42,2,Pacers,Cavaliers,57 - 33,0,N/A,N/A,N/A
+72,Collin Sexton,FT,None,3:42,2,Cavaliers,Pacers,57 - 34,1,N/A,1,N/A
+73,Victor Oladipo,FG_MISS,None,3:20,2,Pacers,Cavaliers,57 - 34,0, ,2,Jumper
+74,Tristan Thompson,DEFENSIVE_REBOUND,None,3:19,2,Cavaliers,Pacers,57 - 34,1,N/A,N/A,N/A
+75,Collin Sexton,FG_MISS,None,3:00,2,Cavaliers,Pacers,57 - 34,1,21,2,Jumper
+76,Bojan Bogdanovic,DEFENSIVE_REBOUND,None,2:57,2,Pacers,Cavaliers,57 - 34,0,N/A,N/A,N/A
+77,Thaddeus Young,FG_MISS,Alec Burks,2:47,2,Cavaliers,Pacers,57 - 34,0,11,2,Jumper
+78,Team,OFFENSIVE_REBOUND,None,2:46,2,Pacers,Cavaliers,57 - 34,0,N/A,N/A,N/A
+79,Team,Unknown,None,2:46,2,Cavaliers,Pacers,57 - 34,1,N/A,N/A,N/A
+80,Bojan Bogdanovic,FG_ASSISTED,Thaddeus Young,2:36,2,Pacers,Cavaliers,59 - 34,0,14,2,Jumper
+81,Alec Burks,FG_ASSISTED,Collin Sexton,2:12,2,Cavaliers,Pacers,59 - 36,1,0,2,Layup
+82,Victor Oladipo,FG_ASSISTED,Domantas Sabonis,1:53,2,Pacers,Cavaliers,61 - 36,0, ,2,Jumper
+83,Cedi Osman,FG_ASSISTED,Cameron Payne,1:36,2,Cavaliers,Pacers,61 - 39,1, ,3,Jumper
+84,Victor Oladipo,FG_MISS,None,1:13,2,Pacers,Cavaliers,61 - 39,0,4,2,Jumper
+85,Tristan Thompson,DEFENSIVE_REBOUND,None,1:10,2,Cavaliers,Pacers,61 - 39,1,N/A,N/A,N/A
+86,Alec Burks,TURNOVER,Thaddeus Young,1:04,2,Cavaliers,Pacers,61 - 39,1,N/A,N/A,N/A
+87,Alec Burks,FOUL_ON_FLOOR,None,1:04,2,Cavaliers,Pacers,61 - 39,1,N/A,N/A,N/A
+88,Jalen Jones,SUBSTITUTION,Osman Cedi,1:04,2,Cavaliers,Pacers,61 - 39,1,N/A,N/A,N/A
+89,Cory Joseph,SUBSTITUTION,Oladipo Victor,1:04,2,Pacers,Cavaliers,61 - 39,0,N/A,N/A,N/A
+90,Bojan Bogdanovic,FG_MISS,Tristan Thompson,54.3,2,Cavaliers,Pacers,61 - 39,0,0,2,Layup
+91,Team,OFFENSIVE_REBOUND,None,54.3,2,Pacers,Cavaliers,61 - 39,0,N/A,N/A,N/A
+92,Bojan Bogdanovic,FG_MISS,None,51.8,2,Pacers,Cavaliers,61 - 39,0,7,2,Jumper
+93,Bojan Bogdanovic,OFFENSIVE_REBOUND,None,48.7,2,Pacers,Cavaliers,61 - 39,0,N/A,N/A,N/A
+94,Bojan Bogdanovic,FG_UNASSISTED,None,48.7,2,Pacers,Cavaliers,63 - 39,0, ,2,Jumper
+95,Tristan Thompson,FG_ASSISTED,Collin Sexton,35.2,2,Cavaliers,Pacers,63 - 41,1,5,2,Jumper
+96,Domantas Sabonis,FG_MISS,None,27.4,2,Pacers,Cavaliers,63 - 41,0,21,2,Jumper
+97,Team,DEFENSIVE_REBOUND,None,26.1,2,Cavaliers,Pacers,63 - 41,1,N/A,N/A,N/A
+98,Collin Sexton,FG_UNASSISTED,None,3.6,2,Cavaliers,Pacers,63 - 43,1,14,2,Jumper
+99,Cory Joseph,FG_MISS,None,0.0,2,Pacers,Cavaliers,63 - 43,0,33,3,Jumper
+100,Team,OFFENSIVE_REBOUND,None,0.0,2,Pacers,Cavaliers,63 - 43,0,N/A,N/A,N/A
+101,End of,Unknown,None,0.0,2,Cavaliers,Pacers,63 - 43,1,N/A,N/A,N/A
+0,Channing Frye,SUBSTITUTION,Payne Cameron,12:00,3,Cavaliers,Pacers,63 - 43,1,N/A,N/A,N/A
+1,Cedi Osman,SUBSTITUTION,Jones Jalen,12:00,3,Cavaliers,Pacers,63 - 43,1,N/A,N/A,N/A
+2,Victor Oladipo,SUBSTITUTION,Joseph Cory,12:00,3,Pacers,Cavaliers,63 - 43,0,N/A,N/A,N/A
+3,Darren Collison,FG_MISS,None,11:44,3,Pacers,Cavaliers,63 - 43,0,12,2,Jumper
+4,Domantas Sabonis,OFFENSIVE_REBOUND,None,11:42,3,Pacers,Cavaliers,63 - 43,0,N/A,N/A,N/A
+5,Domantas Sabonis,FG_ASSISTED,Victor Oladipo,11:30,3,Pacers,Cavaliers,65 - 43,0,16,2,Jumper
+6,Collin Sexton,TURNOVER,None,11:13,3,Cavaliers,Pacers,65 - 43,1,N/A,N/A,N/A
+7,Collin Sexton,TURNOVER,None,11:13,3,Cavaliers,Pacers,65 - 43,1,N/A,N/A,N/A
+8,Victor Oladipo,FG_ASSISTED,Darren Collison,11:04,3,Pacers,Cavaliers,67 - 43,0,15,2,Jumper
+9,Thaddeus Young,FOUL_ON_FLOOR,None,10:49,3,Pacers,Cavaliers,67 - 43,0,N/A,N/A,N/A
+10,Channing Frye,FT_MISS,None,10:49,3,Cavaliers,Pacers,67 - 43,1,N/A,1,N/A
+11,Team,OFFENSIVE_REBOUND,None,10:49,3,Cavaliers,Pacers,67 - 43,1,N/A,N/A,N/A
+12,Channing Frye,FT,None,10:49,3,Cavaliers,Pacers,67 - 44,1,N/A,1,N/A
+13,Bojan Bogdanovic,FG_ASSISTED,Darren Collison,10:39,3,Pacers,Cavaliers,70 - 44,0,31,3,Jumper
+14,Alec Burks,FG_ASSISTED,Tristan Thompson,10:20,3,Cavaliers,Pacers,70 - 46,1,0,2,Layup
+15,Bojan Bogdanovic,FG_MISS,None,10:06,3,Pacers,Cavaliers,70 - 46,0, ,2,Jumper
+16,Tristan Thompson,DEFENSIVE_REBOUND,None,10:04,3,Cavaliers,Pacers,70 - 46,1,N/A,N/A,N/A
+17,Darren Collison,FOUL_ON_FLOOR,None,9:58,3,Pacers,Cavaliers,70 - 46,0,N/A,N/A,N/A
+18,Collin Sexton,FT,None,9:58,3,Cavaliers,Pacers,70 - 47,1,N/A,1,N/A
+19,Collin Sexton,FT,None,9:58,3,Cavaliers,Pacers,70 - 48,1,N/A,1,N/A
+20,Thaddeus Young,FG_ASSISTED,Darren Collison,9:47,3,Pacers,Cavaliers,72 - 48,0,0,2,Layup
+21,Alec Burks,FG_ASSISTED,Tristan Thompson,9:31,3,Cavaliers,Pacers,72 - 51,1,26,3,Jumper
+22,Thaddeus Young,FG_ASSISTED,Domantas Sabonis,9:12,3,Pacers,Cavaliers,75 - 51,0,26,3,Jumper
+23,Channing Frye,FG_ASSISTED,Cedi Osman,8:57,3,Cavaliers,Pacers,75 - 54,1,29,3,Jumper
+24,Darren Collison,FG_UNASSISTED,None,8:36,3,Pacers,Cavaliers,77 - 54,0,16,2,Jumper
+25,Tristan Thompson,FG_ASSISTED,Collin Sexton,8:22,3,Cavaliers,Pacers,77 - 56,1,8,2,Jumper
+26,Alec Burks,FOUL_ON_FLOOR,None,8:11,3,Cavaliers,Pacers,77 - 56,1,N/A,N/A,N/A
+27,Victor Oladipo,FT,None,8:11,3,Pacers,Cavaliers,78 - 56,0,N/A,1,N/A
+28,Victor Oladipo,FT,None,8:11,3,Pacers,Cavaliers,79 - 56,0,N/A,1,N/A
+29,Tristan Thompson,FG_MISS,None,7:54,3,Cavaliers,Pacers,79 - 56,1,1,2,Jumper
+30,Team,OFFENSIVE_REBOUND,None,7:54,3,Cavaliers,Pacers,79 - 56,1,N/A,N/A,N/A
+31,Alec Burks,FG_ASSISTED,Channing Frye,7:41,3,Cavaliers,Pacers,79 - 59,1,23,3,Jumper
+32,Thaddeus Young,FG_ASSISTED,Darren Collison,7:23,3,Pacers,Cavaliers,82 - 59,0,25,3,Jumper
+33,Channing Frye,FG_ASSISTED,Tristan Thompson,6:53,3,Cavaliers,Pacers,82 - 62,1,29,3,Jumper
+34,Thaddeus Young,FG_ASSISTED,Darren Collison,6:36,3,Pacers,Cavaliers,85 - 62,0,25,3,Jumper
+35,Collin Sexton,FG_MISS,None,6:09,3,Cavaliers,Pacers,85 - 62,1,27,3,Jumper
+36,Victor Oladipo,DEFENSIVE_REBOUND,None,6:06,3,Pacers,Cavaliers,85 - 62,0,N/A,N/A,N/A
+37,Domantas Sabonis,FG_MISS,None,5:57,3,Pacers,Cavaliers,85 - 62,0, ,2,Jumper
+38,Tristan Thompson,DEFENSIVE_REBOUND,None,5:54,3,Cavaliers,Pacers,85 - 62,1,N/A,N/A,N/A
+39,Victor Oladipo,FOUL_ON_FLOOR,None,5:44,3,Pacers,Cavaliers,85 - 62,0,N/A,N/A,N/A
+40,Team,Unknown,None,5:44,3,Cavaliers,Pacers,85 - 62,1,N/A,N/A,N/A
+41,Tristan Thompson,FT,None,5:44,3,Cavaliers,Pacers,85 - 63,1,N/A,1,N/A
+42,Tristan Thompson,FT,None,5:44,3,Cavaliers,Pacers,85 - 64,1,N/A,1,N/A
+43,Darren Collison,FG_UNASSISTED,None,5:27,3,Pacers,Cavaliers,87 - 64,0,18,2,Jumper
+44,Cedi Osman,FG_MISS,None,5:06,3,Cavaliers,Pacers,87 - 64,1,25,3,Jumper
+45,Thaddeus Young,DEFENSIVE_REBOUND,None,5:03,3,Pacers,Cavaliers,87 - 64,0,N/A,N/A,N/A
+46,Bojan Bogdanovic,FG_MISS,None,4:56,3,Pacers,Cavaliers,87 - 64,0, ,3,Jumper
+47,Alec Burks,DEFENSIVE_REBOUND,None,4:55,3,Cavaliers,Pacers,87 - 64,1,N/A,N/A,N/A
+48,Cedi Osman,FG_MISS,None,4:50,3,Cavaliers,Pacers,87 - 64,1, ,2,Jumper
+49,Victor Oladipo,DEFENSIVE_REBOUND,None,4:49,3,Pacers,Cavaliers,87 - 64,0,N/A,N/A,N/A
+50,Jordan Clarkson,SUBSTITUTION,Frye Channing,4:49,3,Cavaliers,Pacers,87 - 64,1,N/A,N/A,N/A
+51,Matthew Dellavedova,SUBSTITUTION,Sexton Collin,4:49,3,Cavaliers,Pacers,87 - 64,1,N/A,N/A,N/A
+52,Victor Oladipo,JUMP_BALL,None,4:44,3,Pacers,Cavaliers,87 - 64,0,N/A,N/A,N/A
+53,Victor Oladipo,FG_MISS,None,4:40,3,Pacers,Cavaliers,87 - 64,0,26,3,Jumper
+54,Cedi Osman,DEFENSIVE_REBOUND,None,4:36,3,Cavaliers,Pacers,87 - 64,1,N/A,N/A,N/A
+55,Tristan Thompson,FG_UNASSISTED,None,4:25,3,Cavaliers,Pacers,87 - 66,1,10,2,Jumper
+56,Bojan Bogdanovic,FG_MISS,None,4:13,3,Pacers,Cavaliers,87 - 66,0,28,3,Jumper
+57,Tristan Thompson,DEFENSIVE_REBOUND,None,4:11,3,Cavaliers,Pacers,87 - 66,1,N/A,N/A,N/A
+58,Jordan Clarkson,FG_UNASSISTED,None,3:53,3,Cavaliers,Pacers,87 - 68,1,10,2,Jumper
+59,Team,Unknown,None,3:53,3,Pacers,Cavaliers,87 - 68,0,N/A,N/A,N/A
+60,Cameron Payne,SUBSTITUTION,Burks Alec,3:53,3,Cavaliers,Pacers,87 - 68,1,N/A,N/A,N/A
+61,Cory Joseph,SUBSTITUTION,Bogdanovic Bojan,3:53,3,Pacers,Cavaliers,87 - 68,0,N/A,N/A,N/A
+62,Thaddeus Young,FG_MISS,None,3:34,3,Pacers,Cavaliers,87 - 68,0,10,2,Jumper
+63,Tristan Thompson,DEFENSIVE_REBOUND,None,3:32,3,Cavaliers,Pacers,87 - 68,1,N/A,N/A,N/A
+64,Jordan Clarkson,FG_UNASSISTED,None,3:25,3,Cavaliers,Pacers,87 - 70,1,6,2,Jumper
+65,Darren Collison,FG_UNASSISTED,None,3:00,3,Pacers,Cavaliers,89 - 70,0,17,2,Jumper
+66,Domantas Sabonis,FOUL_ON_FLOOR,None,2:33,3,Pacers,Cavaliers,89 - 70,0,N/A,N/A,N/A
+67,Tristan Thompson,FT,None,2:33,3,Cavaliers,Pacers,89 - 71,1,N/A,1,N/A
+68,Doug McDermott,SUBSTITUTION,Young Thaddeus,2:33,3,Pacers,Cavaliers,89 - 71,0,N/A,N/A,N/A
+69,Tristan Thompson,FT_MISS,None,2:33,3,Cavaliers,Pacers,89 - 71,1,N/A,1,N/A
+70,Domantas Sabonis,DEFENSIVE_REBOUND,None,2:31,3,Pacers,Cavaliers,89 - 71,0,N/A,N/A,N/A
+71,Cory Joseph,FG_MISS,None,2:20,3,Pacers,Cavaliers,89 - 71,0,26,3,Jumper
+72,Tristan Thompson,DEFENSIVE_REBOUND,None,2:17,3,Cavaliers,Pacers,89 - 71,1,N/A,N/A,N/A
+73,Matthew Dellavedova,FG_MISS,None,2:07,3,Cavaliers,Pacers,89 - 71,1,24,3,Jumper
+74,Darren Collison,DEFENSIVE_REBOUND,None,2:04,3,Pacers,Cavaliers,89 - 71,0,N/A,N/A,N/A
+75,Victor Oladipo,TURNOVER,Jordan Clarkson,1:54,3,Pacers,Cavaliers,89 - 71,0,N/A,N/A,N/A
+76,Jordan Clarkson,FG_ASSISTED,Cedi Osman,1:50,3,Cavaliers,Pacers,89 - 73,1, ,2,Jumper
+77,Team,Unknown,None,1:50,3,Pacers,Cavaliers,89 - 73,0,N/A,N/A,N/A
+78,Jalen Jones,SUBSTITUTION,Osman Cedi,1:50,3,Cavaliers,Pacers,89 - 73,1,N/A,N/A,N/A
+79,Kyle O'Quinn,SUBSTITUTION,Collison Darren,1:50,3,Pacers,Cavaliers,89 - 73,0,N/A,N/A,N/A
+80,Tyreke Evans,SUBSTITUTION,Oladipo Victor,1:50,3,Pacers,Cavaliers,89 - 73,0,N/A,N/A,N/A
+81,T.J. Leaf,SUBSTITUTION,Sabonis Domantas,1:50,3,Pacers,Cavaliers,89 - 73,0,N/A,N/A,N/A
+82,Kyle O'Quinn,TURNOVER,None,1:38,3,Pacers,Cavaliers,89 - 73,0,N/A,N/A,N/A
+83,Tristan Thompson,FG_ASSISTED,Cameron Payne,1:19,3,Cavaliers,Pacers,89 - 75,1, ,2,Jumper
+84,Cory Joseph,FG_ASSISTED,Kyle O'Quinn,55.4,3,Pacers,Cavaliers,91 - 75,0,0,2,Layup
+85,Jordan Clarkson,FG_ASSISTED,Matthew Dellavedova,45.2,3,Cavaliers,Pacers,91 - 77,1,0,2,Layup
+86,Jordan Clarkson,FOUL_ON_FLOOR,None,37.7,3,Cavaliers,Pacers,91 - 77,1,N/A,N/A,N/A
+87,Tyreke Evans,FG_MISS,None,22.9,3,Pacers,Cavaliers,91 - 77,0,16,2,Jumper
+88,Team,OFFENSIVE_REBOUND,None,21.6,3,Pacers,Cavaliers,91 - 77,0,N/A,N/A,N/A
+89,Jalen Jones,FOUL_ON_FLOOR,None,21.6,3,Cavaliers,Pacers,91 - 77,1,N/A,N/A,N/A
+90,T.J. Leaf,FT_MISS,None,21.6,3,Pacers,Cavaliers,91 - 77,0,N/A,1,N/A
+91,Team,OFFENSIVE_REBOUND,None,21.6,3,Pacers,Cavaliers,91 - 77,0,N/A,N/A,N/A
+92,T.J. Leaf,FT,None,21.6,3,Pacers,Cavaliers,92 - 77,0,N/A,1,N/A
+93,Jordan Clarkson,FG_ASSISTED,Matthew Dellavedova,2.9,3,Cavaliers,Pacers,92 - 79,1,1,2,Jumper
+94,Cory Joseph,FG_MISS,None,0.0,3,Pacers,Cavaliers,92 - 79,0, ,2,Jumper
+95,Team,OFFENSIVE_REBOUND,None,0.0,3,Pacers,Cavaliers,92 - 79,0,N/A,N/A,N/A
+96,End of,Unknown,None,0.0,3,Cavaliers,Pacers,92 - 79,1,N/A,N/A,N/A
+0,Ante Zizic,SUBSTITUTION,Thompson Tristan,12:00,4,Cavaliers,Pacers,92 - 79,1,N/A,N/A,N/A
+1,Matthew Dellavedova,TURNOVER,None,11:50,4,Cavaliers,Pacers,92 - 79,1,N/A,N/A,N/A
+2,Tyreke Evans,FG_ASSISTED,T.J. Leaf,11:27,4,Pacers,Cavaliers,94 - 79,0, ,2,Jumper
+3,Cameron Payne,FG_MISS,None,11:11,4,Cavaliers,Pacers,94 - 79,1,0,2,Layup
+4,Ante Zizic,OFFENSIVE_REBOUND,None,11:06,4,Cavaliers,Pacers,94 - 79,1,N/A,N/A,N/A
+5,Ante Zizic,FG_MISS,None,11:06,4,Cavaliers,Pacers,94 - 79,1, ,2,Jumper
+6,Kyle O'Quinn,DEFENSIVE_REBOUND,None,11:05,4,Pacers,Cavaliers,94 - 79,0,N/A,N/A,N/A
+7,Tyreke Evans,FG_MISS,None,10:47,4,Pacers,Cavaliers,94 - 79,0,26,2,Jumper
+8,Ante Zizic,DEFENSIVE_REBOUND,None,10:42,4,Cavaliers,Pacers,94 - 79,1,N/A,N/A,N/A
+9,Cameron Payne,FG_UNASSISTED,None,10:37,4,Cavaliers,Pacers,94 - 82,1,27,3,Jumper
+10,Matthew Dellavedova,FOUL_ON_FLOOR,None,10:16,4,Cavaliers,Pacers,94 - 82,1,N/A,N/A,N/A
+11,T.J. Leaf,FG_ASSISTED,Doug McDermott,10:05,4,Pacers,Cavaliers,96 - 82,0,0,2,Layup
+12,Cameron Payne,FG_UNASSISTED,None,9:56,4,Cavaliers,Pacers,96 - 85,1,25,3,Jumper
+13,Tyreke Evans,FG_MISS,None,9:41,4,Pacers,Cavaliers,96 - 85,0, ,2,Jumper
+14,Kyle O'Quinn,OFFENSIVE_REBOUND,None,9:38,4,Pacers,Cavaliers,96 - 85,0,N/A,N/A,N/A
+15,Cameron Payne,FOUL_ON_FLOOR,None,9:38,4,Cavaliers,Pacers,96 - 85,1,N/A,N/A,N/A
+16,Kyle O'Quinn,FOUL_ON_FLOOR,None,9:31,4,Pacers,Cavaliers,96 - 85,0,N/A,N/A,N/A
+17,Kyle O'Quinn,TURNOVER,None,9:31,4,Pacers,Cavaliers,96 - 85,0,N/A,N/A,N/A
+18,Jordan Clarkson,FG_MISS,None,9:18,4,Cavaliers,Pacers,96 - 85,1, ,2,Jumper
+19,Ante Zizic,OFFENSIVE_REBOUND,None,9:18,4,Cavaliers,Pacers,96 - 85,1,N/A,N/A,N/A
+20,Kyle O'Quinn,FOUL_ON_FLOOR,None,9:18,4,Pacers,Cavaliers,96 - 85,0,N/A,N/A,N/A
+21,Ante Zizic,FT,None,9:18,4,Cavaliers,Pacers,96 - 86,1,N/A,1,N/A
+22,Ante Zizic,FT,None,9:18,4,Cavaliers,Pacers,96 - 87,1,N/A,1,N/A
+23,Kyle O'Quinn,FG_UNASSISTED,None,9:01,4,Pacers,Cavaliers,98 - 87,0,15,2,Jumper
+24,Jalen Jones,FG_MISS,None,8:44,4,Cavaliers,Pacers,98 - 87,1, ,2,Jumper
+25,Doug McDermott,DEFENSIVE_REBOUND,None,8:40,4,Pacers,Cavaliers,98 - 87,0,N/A,N/A,N/A
+26,Tyreke Evans,FG_UNASSISTED,None,8:40,4,Pacers,Cavaliers,100 - 87,0, ,2,Jumper
+27,Matthew Dellavedova,FOUL_ON_FLOOR,None,8:40,4,Cavaliers,Pacers,100 - 87,1,N/A,N/A,N/A
+28,Thaddeus Young,SUBSTITUTION,Leaf T.J.,8:40,4,Pacers,Cavaliers,100 - 87,0,N/A,N/A,N/A
+29,Cedi Osman,SUBSTITUTION,Jones Jalen,8:40,4,Cavaliers,Pacers,100 - 87,1,N/A,N/A,N/A
+30,Tyreke Evans,FT,None,8:40,4,Pacers,Cavaliers,101 - 87,0,N/A,1,N/A
+31,Cameron Payne,FG_UNASSISTED,None,8:24,4,Cavaliers,Pacers,101 - 89,1,14,2,Jumper
+32,Kyle O'Quinn,FG_MISS,None,8:13,4,Pacers,Cavaliers,101 - 89,0,27,3,Jumper
+33,Ante Zizic,DEFENSIVE_REBOUND,None,8:10,4,Cavaliers,Pacers,101 - 89,1,N/A,N/A,N/A
+34,Matthew Dellavedova,TURNOVER,None,7:51,4,Cavaliers,Pacers,101 - 89,1,N/A,N/A,N/A
+35,Domantas Sabonis,SUBSTITUTION,O'Quinn Kyle,7:51,4,Pacers,Cavaliers,101 - 89,0,N/A,N/A,N/A
+36,Victor Oladipo,SUBSTITUTION,McDermott Doug,7:51,4,Pacers,Cavaliers,101 - 89,0,N/A,N/A,N/A
+37,Tyreke Evans,FG_MISS,None,7:44,4,Pacers,Cavaliers,101 - 89,0,26,2,Jumper
+38,Cameron Payne,DEFENSIVE_REBOUND,None,7:39,4,Cavaliers,Pacers,101 - 89,1,N/A,N/A,N/A
+39,Cameron Payne,FG_MISS,None,7:33,4,Cavaliers,Pacers,101 - 89,1,26,3,Jumper
+40,Ante Zizic,OFFENSIVE_REBOUND,None,7:30,4,Cavaliers,Pacers,101 - 89,1,N/A,N/A,N/A
+41,Cedi Osman,FG_ASSISTED,Matthew Dellavedova,7:23,4,Cavaliers,Pacers,101 - 92,1,26,3,Jumper
+42,Team,Unknown,None,7:22,4,Pacers,Cavaliers,101 - 92,0,N/A,N/A,N/A
+43,Tristan Thompson,SUBSTITUTION,Zizic Ante,7:22,4,Cavaliers,Pacers,101 - 92,1,N/A,N/A,N/A
+44,Bojan Bogdanovic,SUBSTITUTION,Evans Tyreke,7:22,4,Pacers,Cavaliers,101 - 92,0,N/A,N/A,N/A
+45,Thaddeus Young,FG_MISS,None,7:07,4,Pacers,Cavaliers,101 - 92,0,7,2,Jumper
+46,Team,DEFENSIVE_REBOUND,None,7:07,4,Cavaliers,Pacers,101 - 92,1,N/A,N/A,N/A
+47,Domantas Sabonis,JUMP_BALL,None,7:05,4,Cavaliers,Pacers,101 - 92,1,N/A,N/A,N/A
+48,Thaddeus Young,FOUL_ON_FLOOR,None,7:05,4,Pacers,Cavaliers,101 - 92,0,N/A,N/A,N/A
+49,Jordan Clarkson,TURNOVER,None,6:51,4,Cavaliers,Pacers,101 - 92,1,N/A,N/A,N/A
+50,Thaddeus Young,FG_ASSISTED,Cory Joseph,6:32,4,Pacers,Cavaliers,103 - 92,0,0,2,Layup
+51,Cedi Osman,FG_MISS,None,6:13,4,Cavaliers,Pacers,103 - 92,1,26,3,Jumper
+52,Domantas Sabonis,DEFENSIVE_REBOUND,None,6:13,4,Pacers,Cavaliers,103 - 92,0,N/A,N/A,N/A
+53,Cory Joseph,FG_ASSISTED,Domantas Sabonis,6:01,4,Pacers,Cavaliers,106 - 92,0,23,3,Jumper
+54,Team,Unknown,None,6:00,4,Cavaliers,Pacers,106 - 92,1,N/A,N/A,N/A
+55,Collin Sexton,SUBSTITUTION,Dellavedova Matthew,6:00,4,Cavaliers,Pacers,106 - 92,1,N/A,N/A,N/A
+56,Cedi Osman,FG_UNASSISTED,None,5:43,4,Cavaliers,Pacers,106 - 94,1,0,2,Layup
+57,Bojan Bogdanovic,FG_ASSISTED,Cory Joseph,5:26,4,Pacers,Cavaliers,108 - 94,0,7,2,Jumper
+58,Alec Burks,SUBSTITUTION,Payne Cameron,5:03,4,Cavaliers,Pacers,108 - 94,1,N/A,N/A,N/A
+59,Jordan Clarkson,FG_MISS,None,5:00,4,Cavaliers,Pacers,108 - 94,1,11,2,Jumper
+60,Alec Burks,OFFENSIVE_REBOUND,None,4:55,4,Cavaliers,Pacers,108 - 94,1,N/A,N/A,N/A
+61,Alec Burks,FG_UNASSISTED,None,4:55,4,Cavaliers,Pacers,108 - 96,1, ,2,Jumper
+62,Domantas Sabonis,FG_ASSISTED,Victor Oladipo,4:42,4,Pacers,Cavaliers,110 - 96,0,11,2,Jumper
+63,Collin Sexton,FG_UNASSISTED,None,4:32,4,Cavaliers,Pacers,110 - 99,1,26,3,Jumper
+64,Victor Oladipo,FG_MISS,None,4:17,4,Pacers,Cavaliers,110 - 99,0,18,2,Jumper
+65,Cedi Osman,DEFENSIVE_REBOUND,None,4:12,4,Cavaliers,Pacers,110 - 99,1,N/A,N/A,N/A
+66,Jordan Clarkson,FG_MISS,None,4:03,4,Cavaliers,Pacers,110 - 99,1,24,3,Jumper
+67,Bojan Bogdanovic,DEFENSIVE_REBOUND,None,4:01,4,Pacers,Cavaliers,110 - 99,0,N/A,N/A,N/A
+68,Victor Oladipo,FG_MISS,None,3:57,4,Pacers,Cavaliers,110 - 99,0,26,3,Jumper
+69,Tristan Thompson,DEFENSIVE_REBOUND,None,3:52,4,Cavaliers,Pacers,110 - 99,1,N/A,N/A,N/A
+70,Victor Oladipo,FOUL_ON_FLOOR,None,3:48,4,Pacers,Cavaliers,110 - 99,0,N/A,N/A,N/A
+71,Cedi Osman,FG_MISS,None,3:39,4,Cavaliers,Pacers,110 - 99,1,25,3,Jumper
+72,Tristan Thompson,OFFENSIVE_REBOUND,None,3:36,4,Cavaliers,Pacers,110 - 99,1,N/A,N/A,N/A
+73,Tristan Thompson,TURNOVER,Victor Oladipo,3:30,4,Cavaliers,Pacers,110 - 99,1,N/A,N/A,N/A
+74,Bojan Bogdanovic,FG_MISS,None,3:24,4,Pacers,Cavaliers,110 - 99,0,23,3,Jumper
+75,Tristan Thompson,DEFENSIVE_REBOUND,None,3:21,4,Cavaliers,Pacers,110 - 99,1,N/A,N/A,N/A
+76,Victor Oladipo,FOUL_ON_FLOOR,None,3:20,4,Pacers,Cavaliers,110 - 99,0,N/A,N/A,N/A
+77,Cedi Osman,FT,None,3:20,4,Cavaliers,Pacers,110 - 100,1,N/A,1,N/A
+78,Cedi Osman,FT,None,3:20,4,Cavaliers,Pacers,110 - 101,1,N/A,1,N/A
+79,Team,Unknown,None,3:20,4,Pacers,Cavaliers,110 - 101,0,N/A,N/A,N/A
+80,Darren Collison,SUBSTITUTION,for game,3:20,4,Pacers,Cavaliers,110 - 101,0,N/A,N/A,N/A
+81,enters the,SUBSTITUTION,Oladipo Victor,3:20,4,Pacers,Cavaliers,110 - 101,0,N/A,N/A,N/A
+82,Domantas Sabonis,FG_MISS,None,3:04,4,Pacers,Cavaliers,110 - 101,0,0,2,Layup
+83,Jordan Clarkson,DEFENSIVE_REBOUND,None,2:58,4,Cavaliers,Pacers,110 - 101,1,N/A,N/A,N/A
+84,Jordan Clarkson,FG_UNASSISTED,None,2:54,4,Cavaliers,Pacers,110 - 103,1,1,2,Jumper
+85,Darren Collison,FG_MISS,None,2:30,4,Pacers,Cavaliers,110 - 103,0,19,2,Jumper
+86,Alec Burks,DEFENSIVE_REBOUND,None,2:26,4,Cavaliers,Pacers,110 - 103,1,N/A,N/A,N/A
+87,Tristan Thompson,FG_ASSISTED,Collin Sexton,2:17,4,Cavaliers,Pacers,110 - 105,1,0,2,Layup
+88,Thaddeus Young,FG_ASSISTED,Cory Joseph,2:02,4,Pacers,Cavaliers,112 - 105,0,0,2,Layup
+89,Cedi Osman,FOUL_ON_FLOOR,None,2:02,4,Cavaliers,Pacers,112 - 105,1,N/A,N/A,N/A
+90,Victor Oladipo,SUBSTITUTION,Joseph Cory,2:02,4,Pacers,Cavaliers,112 - 105,0,N/A,N/A,N/A
+91,Thaddeus Young,FT,None,2:02,4,Pacers,Cavaliers,113 - 105,0,N/A,1,N/A
+92,Cedi Osman,FG_ASSISTED,Tristan Thompson,1:44,4,Cavaliers,Pacers,113 - 108,1,27,3,Jumper
+93,Cedi Osman,FOUL_ON_FLOOR,None,1:34,4,Cavaliers,Pacers,113 - 108,1,N/A,N/A,N/A
+94,Victor Oladipo,FT,None,1:34,4,Pacers,Cavaliers,114 - 108,0,N/A,1,N/A
+95,Victor Oladipo,FT,None,1:34,4,Pacers,Cavaliers,115 - 108,0,N/A,1,N/A
+96,Thaddeus Young,FOUL_ON_FLOOR,None,1:24,4,Pacers,Cavaliers,115 - 108,0,N/A,N/A,N/A
+97,Alec Burks,FT,None,1:24,4,Cavaliers,Pacers,115 - 109,1,N/A,1,N/A
+98,Alec Burks,FT,None,1:24,4,Cavaliers,Pacers,115 - 110,1,N/A,1,N/A
+99,Bojan Bogdanovic,FG_MISS,None,1:11,4,Pacers,Cavaliers,115 - 110,0,24,3,Jumper
+100,Domantas Sabonis,OFFENSIVE_REBOUND,None,1:07,4,Pacers,Cavaliers,115 - 110,0,N/A,N/A,N/A
+101,Victor Oladipo,FG_ASSISTED,Bojan Bogdanovic,1:06,4,Pacers,Cavaliers,118 - 110,0,1,3,Jumper
+102,Tristan Thompson,FG_UNASSISTED,None,47.8,4,Cavaliers,Pacers,118 - 112,1,0,2,Dunk
+103,Thaddeus Young,FG_UNASSISTED,None,40.2,4,Pacers,Cavaliers,120 - 112,0,2,2,Jumper
+104,Team,Unknown,None,40.2,4,Cavaliers,Pacers,120 - 112,1,N/A,N/A,N/A
+105,Cory Joseph,SUBSTITUTION,Collison Darren,40.2,4,Pacers,Cavaliers,120 - 112,0,N/A,N/A,N/A
+106,Jordan Clarkson,FG_ASSISTED,Cedi Osman,34.0,4,Cavaliers,Pacers,120 - 115,1,33,3,Jumper
+107,Team,Unknown,None,33.5,4,Pacers,Cavaliers,120 - 115,0,N/A,N/A,N/A
+108,Darren Collison,SUBSTITUTION,Joseph Cory,33.5,4,Pacers,Cavaliers,120 - 115,0,N/A,N/A,N/A
+109,Collin Sexton,FOUL_ON_FLOOR,None,27.5,4,Cavaliers,Pacers,120 - 115,1,N/A,N/A,N/A
+110,Domantas Sabonis,FT_MISS,None,27.5,4,Pacers,Cavaliers,120 - 115,0,N/A,1,N/A
+111,Team,OFFENSIVE_REBOUND,None,27.5,4,Pacers,Cavaliers,120 - 115,0,N/A,N/A,N/A
+112,Domantas Sabonis,FT,None,27.5,4,Pacers,Cavaliers,121 - 115,0,N/A,1,N/A
+113,Jordan Clarkson,FG_MISS,None,15.6,4,Cavaliers,Pacers,121 - 115,1,28,3,Jumper
+114,Bojan Bogdanovic,DEFENSIVE_REBOUND,None,13.4,4,Pacers,Cavaliers,121 - 115,0,N/A,N/A,N/A
+115,Jordan Clarkson,FOUL_ON_FLOOR,None,7.1,4,Cavaliers,Pacers,121 - 115,1,N/A,N/A,N/A
+116,Darren Collison,FT,None,7.1,4,Pacers,Cavaliers,122 - 115,0,N/A,1,N/A
+117,Darren Collison,FT,None,7.1,4,Pacers,Cavaliers,123 - 115,0,N/A,1,N/A
+118,Team,Unknown,None,7.1,4,Cavaliers,Pacers,123 - 115,1,N/A,N/A,N/A
+119,Cory Joseph,SUBSTITUTION,Collison Darren,7.1,4,Pacers,Cavaliers,123 - 115,0,N/A,N/A,N/A
+120,Tristan Thompson,TURNOVER,Victor Oladipo,2.6,4,Cavaliers,Pacers,123 - 115,1,N/A,N/A,N/A
+121,End of,Unknown,None,0.0,4,Cavaliers,Pacers,123 - 115,1,N/A,N/A,N/A
+122,End of,Unknown,None,0.0,4,Cavaliers,Pacers,123 - 115,1,N/A,N/A,N/A

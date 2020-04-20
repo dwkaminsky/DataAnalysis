@@ -1,0 +1,370 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Al Horford,JUMP_BALL,None,12:00,1,Celtics,Raptors,0 - 0,0,N/A,N/A,N/A
+1,Gordon Hayward,TURNOVER,Kawhi Leonard,11:45,1,Celtics,Raptors,0 - 0,0,N/A,N/A,N/A
+2,Serge Ibaka,FG_MISS,None,11:31,1,Raptors,Celtics,0 - 0,1,6,3,Jumper
+3,Kyrie Irving,DEFENSIVE_REBOUND,None,11:28,1,Celtics,Raptors,0 - 0,0,N/A,N/A,N/A
+4,Al Horford,FG_ASSISTED,Kyrie Irving,11:22,1,Celtics,Raptors,3 - 0,0,26,3,Jumper
+5,Pascal Siakam,TURNOVER,None,11:08,1,Raptors,Celtics,3 - 0,1,N/A,N/A,N/A
+6,Al Horford,FOUL_ON_FLOOR,None,10:52,1,Celtics,Raptors,3 - 0,0,N/A,N/A,N/A
+7,Al Horford,TURNOVER,None,10:52,1,Celtics,Raptors,3 - 0,0,N/A,N/A,N/A
+8,Serge Ibaka,FG_ASSISTED,Kyle Lowry,10:40,1,Raptors,Celtics,3 - 2,1,14,3,Jumper
+9,Al Horford,FG_MISS,None,10:25,1,Celtics,Raptors,3 - 2,0,26,3,Jumper
+10,Al Horford,OFFENSIVE_REBOUND,None,10:21,1,Celtics,Raptors,3 - 2,0,N/A,N/A,N/A
+11,Jaylen Brown,FG_MISS,None,10:07,1,Celtics,Raptors,3 - 2,0,29,3,Jumper
+12,Team,OFFENSIVE_REBOUND,None,10:06,1,Celtics,Raptors,3 - 2,0,N/A,N/A,N/A
+13,shot clock,TURNOVER,None,10:06,1,Celtics,Raptors,3 - 2,0,N/A,N/A,N/A
+14,Jaylen Brown,FOUL_ON_FLOOR,None,9:51,1,Celtics,Raptors,3 - 2,0,N/A,N/A,N/A
+15,Kawhi Leonard,FG_MISS,None,9:47,1,Raptors,Celtics,3 - 2,1,9,3,Jumper
+16,Danny Green,OFFENSIVE_REBOUND,None,9:44,1,Raptors,Celtics,3 - 2,1,N/A,N/A,N/A
+17,Pascal Siakam,FG_MISS,None,9:39,1,Raptors,Celtics,3 - 2,1,-,3,Jumper
+18,Al Horford,DEFENSIVE_REBOUND,None,9:36,1,Celtics,Raptors,3 - 2,0,N/A,N/A,N/A
+19,Gordon Hayward,FG_ASSISTED,Kyrie Irving,9:34,1,Celtics,Raptors,5 - 2,0,15,3,Jumper
+20,Team,Unknown,None,9:32,1,Celtics,Raptors,5 - 2,0,N/A,N/A,N/A
+21,Danny Green,FG_MISS,None,9:25,1,Raptors,Celtics,5 - 2,1,25,3,Jumper
+22,Jayson Tatum,DEFENSIVE_REBOUND,None,9:22,1,Celtics,Raptors,5 - 2,0,N/A,N/A,N/A
+23,Al Horford,FOUL_ON_FLOOR,None,9:17,1,Celtics,Raptors,5 - 2,0,N/A,N/A,N/A
+24,Al Horford,TURNOVER,None,9:17,1,Celtics,Raptors,5 - 2,0,N/A,N/A,N/A
+25,Serge Ibaka,FG_ASSISTED,Kawhi Leonard,9:02,1,Raptors,Celtics,5 - 4,1,0,2,Layup
+26,Jaylen Brown,FG_MISS,None,8:50,1,Celtics,Raptors,5 - 4,0,26,3,Jumper
+27,Al Horford,OFFENSIVE_REBOUND,None,8:48,1,Celtics,Raptors,5 - 4,0,N/A,N/A,N/A
+28,Gordon Hayward,FG_MISS,None,8:43,1,Celtics,Raptors,5 - 4,0,26,3,Jumper
+29,Pascal Siakam,DEFENSIVE_REBOUND,None,8:39,1,Raptors,Celtics,5 - 4,1,N/A,N/A,N/A
+30,Kyle Lowry,FG_ASSISTED,Pascal Siakam,8:35,1,Raptors,Celtics,5 - 7,1,30,3,Jumper
+31,Gordon Hayward,FG_ASSISTED,Kyrie Irving,8:17,1,Celtics,Raptors,7 - 7,0,2,3,Jumper
+32,Kawhi Leonard,TURNOVER,None,8:10,1,Raptors,Celtics,7 - 7,1,N/A,N/A,N/A
+33,Kyrie Irving,FG_MISS,None,8:01,1,Celtics,Raptors,7 - 7,0,24,3,Jumper
+34,Pascal Siakam,DEFENSIVE_REBOUND,None,7:58,1,Raptors,Celtics,7 - 7,1,N/A,N/A,N/A
+35,Serge Ibaka,FG_ASSISTED,Danny Green,7:41,1,Raptors,Celtics,7 - 9,1,0,2,Dunk
+36,Jayson Tatum,FG_MISS,None,7:25,1,Celtics,Raptors,7 - 9,0,13,3,Jumper
+37,Kyle Lowry,DEFENSIVE_REBOUND,None,7:22,1,Raptors,Celtics,7 - 9,1,N/A,N/A,N/A
+38,Kyle Lowry,FG_MISS,None,7:19,1,Raptors,Celtics,7 - 9,1,-,3,Jumper
+39,Jaylen Brown,DEFENSIVE_REBOUND,None,7:15,1,Celtics,Raptors,7 - 9,0,N/A,N/A,N/A
+40,Jayson Tatum,FG_MISS,None,7:00,1,Celtics,Raptors,7 - 9,0,12,3,Jumper
+41,Pascal Siakam,DEFENSIVE_REBOUND,None,6:58,1,Raptors,Celtics,7 - 9,1,N/A,N/A,N/A
+42,Pascal Siakam,TURNOVER,Kyrie Irving,6:52,1,Raptors,Celtics,7 - 9,1,N/A,N/A,N/A
+43,Jayson Tatum,FG_ASSISTED,Al Horford,6:48,1,Celtics,Raptors,9 - 9,0,-,3,Jumper
+44,Team,Unknown,None,6:37,1,Raptors,Celtics,9 - 9,1,N/A,N/A,N/A
+45,Marcus Morris,SUBSTITUTION,Tatum Jayson,6:37,1,Celtics,Raptors,9 - 9,0,N/A,N/A,N/A
+46,Terry Rozier,SUBSTITUTION,Hayward Gordon,6:37,1,Celtics,Raptors,9 - 9,0,N/A,N/A,N/A
+47,Kawhi Leonard,FG_MISS,None,6:29,1,Raptors,Celtics,9 - 9,1,14,3,Jumper
+48,Terry Rozier,DEFENSIVE_REBOUND,None,6:26,1,Celtics,Raptors,9 - 9,0,N/A,N/A,N/A
+49,Kawhi Leonard,FOUL_ON_FLOOR,None,6:17,1,Raptors,Celtics,9 - 9,1,N/A,N/A,N/A
+50,Pascal Siakam,FOUL_ON_FLOOR,None,6:13,1,Raptors,Celtics,9 - 9,1,N/A,N/A,N/A
+51,Terry Rozier,FG_MISS,None,6:00,1,Celtics,Raptors,9 - 9,0,-,3,Jumper
+52,Pascal Siakam,DEFENSIVE_REBOUND,None,5:58,1,Raptors,Celtics,9 - 9,1,N/A,N/A,N/A
+53,Pascal Siakam,FG_UNASSISTED,None,5:50,1,Raptors,Celtics,9 - 11,1, ,3,Jumper
+54,Marcus Morris,FG_MISS,None,5:40,1,Celtics,Raptors,9 - 11,0,26,3,Jumper
+55,Danny Green,DEFENSIVE_REBOUND,None,5:40,1,Raptors,Celtics,9 - 11,1,N/A,N/A,N/A
+56,Pascal Siakam,FG_MISS,None,5:27,1,Raptors,Celtics,9 - 11,1, ,3,Jumper
+57,Team,DEFENSIVE_REBOUND,None,5:25,1,Celtics,Raptors,9 - 11,0,N/A,N/A,N/A
+58,Kyrie Irving,FG_UNASSISTED,None,5:10,1,Celtics,Raptors,11 - 11,0,0,2,Layup
+59,Danny Green,FG_ASSISTED,Kawhi Leonard,4:57,1,Raptors,Celtics,11 - 14,1,23,3,Jumper
+60,Jaylen Brown,TURNOVER,None,4:40,1,Celtics,Raptors,11 - 14,0,N/A,N/A,N/A
+61,Jaylen Brown,TURNOVER,None,4:40,1,Celtics,Raptors,11 - 14,0,N/A,N/A,N/A
+62,OG Anunoby,SUBSTITUTION,Green Danny,4:40,1,Raptors,Celtics,11 - 14,1,N/A,N/A,N/A
+63,Fred VanVleet,SUBSTITUTION,Siakam Pascal,4:40,1,Raptors,Celtics,11 - 14,1,N/A,N/A,N/A
+64,Kawhi Leonard,TURNOVER,None,4:24,1,Raptors,Celtics,11 - 14,1,N/A,N/A,N/A
+65,Al Horford,FG_MISS,None,4:06,1,Celtics,Raptors,11 - 14,0,0,2,Layup
+66,Kawhi Leonard,DEFENSIVE_REBOUND,None,4:05,1,Raptors,Celtics,11 - 14,1,N/A,N/A,N/A
+67,Fred VanVleet,FG_MISS,None,3:58,1,Raptors,Celtics,11 - 14,1,25,3,Jumper
+68,Jaylen Brown,DEFENSIVE_REBOUND,None,3:58,1,Celtics,Raptors,11 - 14,0,N/A,N/A,N/A
+69,Terry Rozier,FG_ASSISTED,Al Horford,3:46,1,Celtics,Raptors,14 - 14,0,23,3,Jumper
+70,Kyle Lowry,FG_MISS,None,3:33,1,Raptors,Celtics,14 - 14,1,30,3,Jumper
+71,Jaylen Brown,DEFENSIVE_REBOUND,None,3:29,1,Celtics,Raptors,14 - 14,0,N/A,N/A,N/A
+72,Jaylen Brown,FG_ASSISTED,Marcus Morris,3:17,1,Celtics,Raptors,16 - 14,0,0,2,Layup
+73,OG Anunoby,FG_ASSISTED,Serge Ibaka,3:02,1,Raptors,Celtics,16 - 17,1,26,3,Jumper
+74,Team,Unknown,None,3:02,1,Celtics,Raptors,16 - 17,0,N/A,N/A,N/A
+75,Jonas Valanciunas,SUBSTITUTION,Ibaka Serge,3:02,1,Raptors,Celtics,16 - 17,1,N/A,N/A,N/A
+76,Marcus Smart,SUBSTITUTION,Brown Jaylen,3:02,1,Celtics,Raptors,16 - 17,0,N/A,N/A,N/A
+77,Jayson Tatum,SUBSTITUTION,Irving Kyrie,3:02,1,Celtics,Raptors,16 - 17,0,N/A,N/A,N/A
+78,Al Horford,FG_ASSISTED,Marcus Smart,2:51,1,Celtics,Raptors,18 - 17,0,0,2,Dunk
+79,Kyle Lowry,FOUL_ON_FLOOR,None,2:51,1,Raptors,Celtics,18 - 17,1,N/A,N/A,N/A
+80,Al Horford,FT,None,2:51,1,Celtics,Raptors,19 - 17,0,N/A,1,N/A
+81,Jonas Valanciunas,TURNOVER,None,2:33,1,Raptors,Celtics,19 - 17,1,N/A,N/A,N/A
+82,Jonas Valanciunas,TURNOVER,None,2:33,1,Raptors,Celtics,19 - 17,1,N/A,N/A,N/A
+83,Norman Powell,SUBSTITUTION,Leonard Kawhi,2:33,1,Raptors,Celtics,19 - 17,1,N/A,N/A,N/A
+84,CJ Miles,SUBSTITUTION,Lowry Kyle,2:33,1,Raptors,Celtics,19 - 17,1,N/A,N/A,N/A
+85,Aron Baynes,SUBSTITUTION,Horford Al,2:33,1,Celtics,Raptors,19 - 17,0,N/A,N/A,N/A
+86,Marcus Morris,FG_MISS,None,2:16,1,Celtics,Raptors,19 - 17,0,18,3,Jumper
+87,Jonas Valanciunas,DEFENSIVE_REBOUND,None,2:12,1,Raptors,Celtics,19 - 17,1,N/A,N/A,N/A
+88,CJ Miles,FG_MISS,None,2:03,1,Raptors,Celtics,19 - 17,1,26,3,Jumper
+89,Jayson Tatum,DEFENSIVE_REBOUND,None,2:01,1,Celtics,Raptors,19 - 17,0,N/A,N/A,N/A
+90,Marcus Smart,FG_MISS,None,1:57,1,Celtics,Raptors,19 - 17,0,26,3,Jumper
+91,Team,DEFENSIVE_REBOUND,None,1:55,1,Raptors,Celtics,19 - 17,1,N/A,N/A,N/A
+92,Norman Powell,FG_MISS,None,1:41,1,Raptors,Celtics,19 - 17,1,0,2,Layup
+93,Marcus Smart,DEFENSIVE_REBOUND,None,1:39,1,Celtics,Raptors,19 - 17,0,N/A,N/A,N/A
+94,Aron Baynes,FG_MISS,None,1:34,1,Celtics,Raptors,19 - 17,0,24,3,Jumper
+95,Terry Rozier,OFFENSIVE_REBOUND,None,1:30,1,Celtics,Raptors,19 - 17,0,N/A,N/A,N/A
+96,Aron Baynes,FG_ASSISTED,Terry Rozier,1:29,1,Celtics,Raptors,21 - 17,0,0,2,Layup
+97,Fred VanVleet,FOUL_ON_FLOOR,None,1:29,1,Raptors,Celtics,21 - 17,1,N/A,N/A,N/A
+98,Aron Baynes,FT,None,1:29,1,Celtics,Raptors,22 - 17,0,N/A,1,N/A
+99,OG Anunoby,FG_MISS,None,1:16,1,Raptors,Celtics,22 - 17,1,25,3,Jumper
+100,Aron Baynes,DEFENSIVE_REBOUND,None,1:13,1,Celtics,Raptors,22 - 17,0,N/A,N/A,N/A
+101,Marcus Morris,FG_MISS,None,1:04,1,Celtics,Raptors,22 - 17,0,12,3,Jumper
+102,Fred VanVleet,DEFENSIVE_REBOUND,None,1:01,1,Raptors,Celtics,22 - 17,1,N/A,N/A,N/A
+103,Terry Rozier,FOUL_ON_FLOOR,None,59.1,1,Celtics,Raptors,22 - 17,0,N/A,N/A,N/A
+104,Fred VanVleet,FT,None,59.1,1,Raptors,Celtics,22 - 18,1,N/A,1,N/A
+105,Fred VanVleet,FT_MISS,None,59.1,1,Raptors,Celtics,22 - 18,1,N/A,1,N/A
+106,Jayson Tatum,DEFENSIVE_REBOUND,None,55.8,1,Celtics,Raptors,22 - 18,0,N/A,N/A,N/A
+107,Jayson Tatum,TURNOVER,Norman Powell,51.9,1,Celtics,Raptors,22 - 18,0,N/A,N/A,N/A
+108,OG Anunoby,TURNOVER,None,48.8,1,Raptors,Celtics,22 - 18,1,N/A,N/A,N/A
+109,OG Anunoby,FOUL_ON_FLOOR,None,38.9,1,Raptors,Celtics,22 - 18,1,N/A,N/A,N/A
+110,Aron Baynes,FT_MISS,None,38.9,1,Celtics,Raptors,22 - 18,0,N/A,1,N/A
+111,Team,OFFENSIVE_REBOUND,None,38.9,1,Celtics,Raptors,22 - 18,0,N/A,N/A,N/A
+112,Marcus Morris,TURNOVER,None,38.9,1,Celtics,Raptors,22 - 18,0,N/A,N/A,N/A
+113,CJ Miles,FG_MISS,None,33.0,1,Raptors,Celtics,22 - 18,1,26,3,Jumper
+114,Aron Baynes,DEFENSIVE_REBOUND,None,29.5,1,Celtics,Raptors,22 - 18,0,N/A,N/A,N/A
+115,Jayson Tatum,FG_UNASSISTED,None,12.7,1,Celtics,Raptors,25 - 18,0,27,3,Jumper
+116,CJ Miles,FG_MISS,None,0.0,1,Raptors,Celtics,25 - 18,1,28,3,Jumper
+117,Team,OFFENSIVE_REBOUND,None,0.0,1,Raptors,Celtics,25 - 18,1,N/A,N/A,N/A
+118,End of,Unknown,None,0.0,1,Raptors,Celtics,25 - 18,1,N/A,N/A,N/A
+0,Danny Green,SUBSTITUTION,VanVleet Fred,12:00,3,Raptors,Celtics,53 - 49,1,N/A,N/A,N/A
+1,Jayson Tatum,SUBSTITUTION,Rozier Terry,12:00,3,Celtics,Raptors,53 - 49,0,N/A,N/A,N/A
+2,Pascal Siakam,FG_UNASSISTED,None,11:47,3,Raptors,Celtics,53 - 51,1, ,3,Jumper
+3,Kyrie Irving,FG_UNASSISTED,None,11:32,3,Celtics,Raptors,55 - 51,0, ,3,Jumper
+4,Kawhi Leonard,FG_ASSISTED,Danny Green,11:18,3,Raptors,Celtics,55 - 53,1,0,2,Dunk
+5,Jayson Tatum,FG_ASSISTED,Al Horford,11:00,3,Celtics,Raptors,58 - 53,0,24,3,Jumper
+6,Jaylen Brown,FOUL_ON_FLOOR,None,10:50,3,Celtics,Raptors,58 - 53,0,N/A,N/A,N/A
+7,Kawhi Leonard,FG_UNASSISTED,None,10:38,3,Raptors,Celtics,58 - 55,1,16,3,Jumper
+8,Marcus Morris,FG_MISS,None,10:25,3,Celtics,Raptors,58 - 55,0,26,3,Jumper
+9,Al Horford,OFFENSIVE_REBOUND,None,10:22,3,Celtics,Raptors,58 - 55,0,N/A,N/A,N/A
+10,Jaylen Brown,FG_ASSISTED,Al Horford,10:21,3,Celtics,Raptors,60 - 55,0,17,3,Jumper
+11,Kawhi Leonard,FG_UNASSISTED,None,10:03,3,Raptors,Celtics,60 - 57,1,9,3,Jumper
+12,Jayson Tatum,FG_MISS,None,9:50,3,Celtics,Raptors,60 - 57,0,24,3,Jumper
+13,Kawhi Leonard,DEFENSIVE_REBOUND,None,9:47,3,Raptors,Celtics,60 - 57,1,N/A,N/A,N/A
+14,Kyrie Irving,FOUL_ON_FLOOR,None,9:43,3,Celtics,Raptors,60 - 57,0,N/A,N/A,N/A
+15,Marcus Smart,SUBSTITUTION,Brown Jaylen,9:43,3,Celtics,Raptors,60 - 57,0,N/A,N/A,N/A
+16,Serge Ibaka,FG_ASSISTED,Kawhi Leonard,9:31,3,Raptors,Celtics,60 - 59,1,0,2,Dunk
+17,Kyrie Irving,FG_MISS,None,9:01,3,Celtics,Raptors,60 - 59,0,0,2,Layup
+18,Kyrie Irving,OFFENSIVE_REBOUND,None,8:59,3,Celtics,Raptors,60 - 59,0,N/A,N/A,N/A
+19,Kyrie Irving,FG_MISS,None,8:59,3,Celtics,Raptors,60 - 59,0, ,3,Jumper
+20,Pascal Siakam,DEFENSIVE_REBOUND,None,8:58,3,Raptors,Celtics,60 - 59,1,N/A,N/A,N/A
+21,Kawhi Leonard,FG_MISS,None,8:53,3,Raptors,Celtics,60 - 59,1,26,3,Jumper
+22,Al Horford,DEFENSIVE_REBOUND,None,8:51,3,Celtics,Raptors,60 - 59,0,N/A,N/A,N/A
+23,Kyle Lowry,FOUL_ON_FLOOR,None,8:48,3,Raptors,Celtics,60 - 59,1,N/A,N/A,N/A
+24,Marcus Smart,FG_MISS,None,8:40,3,Celtics,Raptors,60 - 59,0,25,3,Jumper
+25,Kyrie Irving,OFFENSIVE_REBOUND,None,8:37,3,Celtics,Raptors,60 - 59,0,N/A,N/A,N/A
+26,Marcus Morris,FG_ASSISTED,Kyrie Irving,8:35,3,Celtics,Raptors,63 - 59,0,26,3,Jumper
+27,Jayson Tatum,FOUL_ON_FLOOR,None,8:15,3,Celtics,Raptors,63 - 59,0,N/A,N/A,N/A
+28,Kawhi Leonard,FT,None,8:15,3,Raptors,Celtics,63 - 60,1,N/A,1,N/A
+29,Kawhi Leonard,FT,None,8:15,3,Raptors,Celtics,63 - 61,1,N/A,1,N/A
+30,Marcus Smart,FG_UNASSISTED,None,8:00,3,Celtics,Raptors,65 - 61,0, ,3,Jumper
+31,Kawhi Leonard,FG_MISS,None,7:53,3,Raptors,Celtics,65 - 61,1,27,3,Jumper
+32,Al Horford,DEFENSIVE_REBOUND,None,7:51,3,Celtics,Raptors,65 - 61,0,N/A,N/A,N/A
+33,Al Horford,FG_MISS,None,7:43,3,Celtics,Raptors,65 - 61,0,0,2,Dunk
+34,Al Horford,FOUL_ON_FLOOR,None,7:43,3,Celtics,Raptors,65 - 61,0,N/A,N/A,N/A
+35,Team,DEFENSIVE_REBOUND,None,7:43,3,Raptors,Celtics,65 - 61,1,N/A,N/A,N/A
+36,Pascal Siakam,FG_MISS,None,7:31,3,Raptors,Celtics,65 - 61,1,0,2,Layup
+37,Al Horford,DEFENSIVE_REBOUND,None,7:29,3,Celtics,Raptors,65 - 61,0,N/A,N/A,N/A
+38,Marcus Smart,FG_MISS,None,7:20,3,Celtics,Raptors,65 - 61,0,19,3,Jumper
+39,Kawhi Leonard,DEFENSIVE_REBOUND,None,7:16,3,Raptors,Celtics,65 - 61,1,N/A,N/A,N/A
+40,Kawhi Leonard,FG_UNASSISTED,None,7:13,3,Raptors,Celtics,65 - 63,1, ,3,Jumper
+41,Kyrie Irving,FG_UNASSISTED,None,6:52,3,Celtics,Raptors,67 - 63,0,16,3,Jumper
+42,Team,Unknown,None,6:37,3,Raptors,Celtics,67 - 63,1,N/A,N/A,N/A
+43,OG Anunoby,SUBSTITUTION,Siakam Pascal,6:37,3,Raptors,Celtics,67 - 63,1,N/A,N/A,N/A
+44,Kyrie Irving,FOUL_ON_FLOOR,None,6:26,3,Celtics,Raptors,67 - 63,0,N/A,N/A,N/A
+45,Kawhi Leonard,FT,None,6:26,3,Raptors,Celtics,67 - 64,1,N/A,1,N/A
+46,Kawhi Leonard,FT,None,6:26,3,Raptors,Celtics,67 - 65,1,N/A,1,N/A
+47,Kawhi Leonard,FT,None,6:26,3,Raptors,Celtics,67 - 66,1,N/A,1,N/A
+48,Kyle Lowry,FOUL_ON_FLOOR,None,6:09,3,Raptors,Celtics,67 - 66,1,N/A,N/A,N/A
+49,Jayson Tatum,FG_ASSISTED,Al Horford,6:05,3,Celtics,Raptors,69 - 66,0,0,2,Dunk
+50,Danny Green,FG_ASSISTED,Kyle Lowry,6:00,3,Raptors,Celtics,69 - 69,1,28,3,Jumper
+51,Al Horford,FG_MISS,None,5:36,3,Celtics,Raptors,69 - 69,0,25,3,Jumper
+52,Danny Green,DEFENSIVE_REBOUND,None,5:33,3,Raptors,Celtics,69 - 69,1,N/A,N/A,N/A
+53,Kawhi Leonard,FG_ASSISTED,Kyle Lowry,5:24,3,Raptors,Celtics,69 - 71,1,0,2,Dunk
+54,Al Horford,FG_ASSISTED,Kyrie Irving,5:11,3,Celtics,Raptors,72 - 71,0,25,3,Jumper
+55,Serge Ibaka,FG_MISS,None,4:52,3,Raptors,Celtics,72 - 71,1,26,3,Jumper
+56,Jayson Tatum,DEFENSIVE_REBOUND,None,4:50,3,Celtics,Raptors,72 - 71,0,N/A,N/A,N/A
+57,Jayson Tatum,FG_MISS,None,4:38,3,Celtics,Raptors,72 - 71,0,26,3,Jumper
+58,Kawhi Leonard,DEFENSIVE_REBOUND,None,4:35,3,Raptors,Celtics,72 - 71,1,N/A,N/A,N/A
+59,Danny Green,FG_ASSISTED,Serge Ibaka,4:18,3,Raptors,Celtics,72 - 74,1,24,3,Jumper
+60,Kyrie Irving,FG_ASSISTED,Marcus Smart,4:02,3,Celtics,Raptors,74 - 74,0,17,3,Jumper
+61,Marcus Smart,FOUL_ON_FLOOR,None,3:55,3,Celtics,Raptors,74 - 74,0,N/A,N/A,N/A
+62,Kyle Lowry,FT_MISS,None,3:55,3,Raptors,Celtics,74 - 74,1,N/A,1,N/A
+63,Team,OFFENSIVE_REBOUND,None,3:55,3,Raptors,Celtics,74 - 74,1,N/A,N/A,N/A
+64,Fred VanVleet,SUBSTITUTION,Leonard Kawhi,3:55,3,Raptors,Celtics,74 - 74,1,N/A,N/A,N/A
+65,Gordon Hayward,SUBSTITUTION,Morris Marcus,3:55,3,Celtics,Raptors,74 - 74,0,N/A,N/A,N/A
+66,Terry Rozier,SUBSTITUTION,Smart Marcus,3:55,3,Celtics,Raptors,74 - 74,0,N/A,N/A,N/A
+67,Kyle Lowry,FT,None,3:55,3,Raptors,Celtics,74 - 75,1,N/A,1,N/A
+68,Al Horford,TURNOVER,None,3:41,3,Celtics,Raptors,74 - 75,0,N/A,N/A,N/A
+69,Kyrie Irving,FOUL_ON_FLOOR,None,3:30,3,Celtics,Raptors,74 - 75,0,N/A,N/A,N/A
+70,Kyle Lowry,FT_MISS,None,3:30,3,Raptors,Celtics,74 - 75,1,N/A,1,N/A
+71,Team,OFFENSIVE_REBOUND,None,3:30,3,Raptors,Celtics,74 - 75,1,N/A,N/A,N/A
+72,Jonas Valanciunas,SUBSTITUTION,Ibaka Serge,3:30,3,Raptors,Celtics,74 - 75,1,N/A,N/A,N/A
+73,Aron Baynes,SUBSTITUTION,Irving Kyrie,3:30,3,Celtics,Raptors,74 - 75,0,N/A,N/A,N/A
+74,Jaylen Brown,SUBSTITUTION,Horford Al,3:30,3,Celtics,Raptors,74 - 75,0,N/A,N/A,N/A
+75,Kyle Lowry,FT,None,3:30,3,Raptors,Celtics,74 - 76,1,N/A,1,N/A
+76,OG Anunoby,FOUL_ON_FLOOR,None,3:20,3,Raptors,Celtics,74 - 76,1,N/A,N/A,N/A
+77,Gordon Hayward,FG_MISS,None,3:15,3,Celtics,Raptors,74 - 76,0,27,3,Jumper
+78,Jonas Valanciunas,DEFENSIVE_REBOUND,None,3:11,3,Raptors,Celtics,74 - 76,1,N/A,N/A,N/A
+79,Jaylen Brown,FOUL_ON_FLOOR,None,3:05,3,Celtics,Raptors,74 - 76,0,N/A,N/A,N/A
+80,Jonas Valanciunas,FT,None,3:05,3,Raptors,Celtics,74 - 77,1,N/A,1,N/A
+81,Jonas Valanciunas,FT,None,3:05,3,Raptors,Celtics,74 - 78,1,N/A,1,N/A
+82,Jayson Tatum,FG_MISS,None,2:49,3,Celtics,Raptors,74 - 78,0, ,3,Jumper
+83,Team,OFFENSIVE_REBOUND,None,2:46,3,Celtics,Raptors,74 - 78,0,N/A,N/A,N/A
+84,Team,Unknown,None,2:46,3,Celtics,Raptors,74 - 78,0,N/A,N/A,N/A
+85,CJ Miles,SUBSTITUTION,Lowry Kyle,2:46,3,Raptors,Celtics,74 - 78,1,N/A,N/A,N/A
+86,Terry Rozier,FG_MISS,None,2:41,3,Celtics,Raptors,74 - 78,0,26,3,Jumper
+87,Danny Green,DEFENSIVE_REBOUND,None,2:38,3,Raptors,Celtics,74 - 78,1,N/A,N/A,N/A
+88,Danny Green,TURNOVER,Jayson Tatum,2:35,3,Raptors,Celtics,74 - 78,1,N/A,N/A,N/A
+89,Gordon Hayward,FG_ASSISTED,Jayson Tatum,2:29,3,Celtics,Raptors,77 - 78,0,26,3,Jumper
+90,Jonas Valanciunas,FG_ASSISTED,Fred VanVleet,2:14,3,Raptors,Celtics,77 - 80,1,5,3,Jumper
+91,Gordon Hayward,FG_MISS,None,1:55,3,Celtics,Raptors,77 - 80,0,12,3,Jumper
+92,Jonas Valanciunas,DEFENSIVE_REBOUND,None,1:55,3,Raptors,Celtics,77 - 80,1,N/A,N/A,N/A
+93,CJ Miles,FG_ASSISTED,Fred VanVleet,1:46,3,Raptors,Celtics,77 - 82,1,0,2,Layup
+94,Gordon Hayward,FG_UNASSISTED,None,1:46,3,Celtics,Raptors,79 - 82,0,17,3,Jumper
+95,Jonas Valanciunas,FG_MISS,None,1:17,3,Raptors,Celtics,79 - 82,1,3,3,Jumper
+96,Gordon Hayward,DEFENSIVE_REBOUND,None,1:15,3,Celtics,Raptors,79 - 82,0,N/A,N/A,N/A
+97,Aron Baynes,FG_MISS,None,1:06,3,Celtics,Raptors,79 - 82,0,25,3,Jumper
+98,Terry Rozier,OFFENSIVE_REBOUND,None,1:03,3,Celtics,Raptors,79 - 82,0,N/A,N/A,N/A
+99,Norman Powell,SUBSTITUTION,Green Danny,50.2,3,Raptors,Celtics,79 - 82,1,N/A,N/A,N/A
+100,Kyrie Irving,SUBSTITUTION,Tatum Jayson,50.2,3,Celtics,Raptors,79 - 82,0,N/A,N/A,N/A
+101,shot clock,TURNOVER,None,50.0,3,Celtics,Raptors,79 - 82,0,N/A,N/A,N/A
+102,Jonas Valanciunas,FOUL_ON_FLOOR,None,36.6,3,Raptors,Celtics,79 - 82,1,N/A,N/A,N/A
+103,Jonas Valanciunas,TURNOVER,None,36.6,3,Raptors,Celtics,79 - 82,1,N/A,N/A,N/A
+104,Terry Rozier,FG_MISS,None,28.3,3,Celtics,Raptors,79 - 82,0,10,3,Jumper
+105,Aron Baynes,OFFENSIVE_REBOUND,None,24.4,3,Celtics,Raptors,79 - 82,0,N/A,N/A,N/A
+106,Aron Baynes,FG_MISS,None,24.4,3,Celtics,Raptors,79 - 82,0, ,3,Jumper
+107,Aron Baynes,OFFENSIVE_REBOUND,None,23.1,3,Celtics,Raptors,79 - 82,0,N/A,N/A,N/A
+108,Aron Baynes,FG_MISS,None,23.1,3,Celtics,Raptors,79 - 82,0, ,3,Jumper
+109,Aron Baynes,OFFENSIVE_REBOUND,None,21.9,3,Celtics,Raptors,79 - 82,0,N/A,N/A,N/A
+110,Aron Baynes,FG_MISS,None,21.9,3,Celtics,Raptors,79 - 82,0, ,3,Jumper
+111,OG Anunoby,DEFENSIVE_REBOUND,None,21.9,3,Raptors,Celtics,79 - 82,1,N/A,N/A,N/A
+112,Fred VanVleet,TURNOVER,Gordon Hayward,1.7,3,Raptors,Celtics,79 - 82,1,N/A,N/A,N/A
+113,Jaylen Brown,FG_MISS,None,0.0,3,Celtics,Raptors,79 - 82,0,27,3,Jumper
+114,Team,OFFENSIVE_REBOUND,None,0.0,3,Celtics,Raptors,79 - 82,0,N/A,N/A,N/A
+115,End of,Unknown,None,0.0,3,Raptors,Celtics,79 - 82,1,N/A,N/A,N/A
+0,Norman Powell,FOUL_ON_FLOOR,None,11:57,4,Raptors,Celtics,79 - 82,1,N/A,N/A,N/A
+1,Gordon Hayward,FG_MISS,None,11:47,4,Celtics,Raptors,79 - 82,0,18,3,Jumper
+2,OG Anunoby,DEFENSIVE_REBOUND,None,11:44,4,Raptors,Celtics,79 - 82,1,N/A,N/A,N/A
+3,Fred VanVleet,FG_UNASSISTED,None,11:33,4,Raptors,Celtics,79 - 84,1,0,2,Layup
+4,Jonas Valanciunas,FOUL_ON_FLOOR,None,11:25,4,Raptors,Celtics,79 - 84,1,N/A,N/A,N/A
+5,Jaylen Brown,FT_MISS,None,11:25,4,Celtics,Raptors,79 - 84,0,N/A,1,N/A
+6,Team,OFFENSIVE_REBOUND,None,11:25,4,Celtics,Raptors,79 - 84,0,N/A,N/A,N/A
+7,Marcus Smart,SUBSTITUTION,Rozier Terry,11:25,4,Celtics,Raptors,79 - 84,0,N/A,N/A,N/A
+8,Jaylen Brown,FT_MISS,None,11:25,4,Celtics,Raptors,79 - 84,0,N/A,1,N/A
+9,Norman Powell,DEFENSIVE_REBOUND,None,11:23,4,Raptors,Celtics,79 - 84,1,N/A,N/A,N/A
+10,Fred VanVleet,FG_MISS,None,11:04,4,Raptors,Celtics,79 - 84,1,0,2,Layup
+11,Gordon Hayward,DEFENSIVE_REBOUND,None,11:01,4,Celtics,Raptors,79 - 84,0,N/A,N/A,N/A
+12,Marcus Smart,FG_MISS,None,10:55,4,Celtics,Raptors,79 - 84,0,17,3,Jumper
+13,Fred VanVleet,DEFENSIVE_REBOUND,None,10:52,4,Raptors,Celtics,79 - 84,1,N/A,N/A,N/A
+14,Fred VanVleet,FG_MISS,None,10:41,4,Raptors,Celtics,79 - 84,1,26,3,Jumper
+15,Gordon Hayward,DEFENSIVE_REBOUND,None,10:38,4,Celtics,Raptors,79 - 84,0,N/A,N/A,N/A
+16,Kyrie Irving,FG_ASSISTED,Gordon Hayward,10:30,4,Celtics,Raptors,81 - 84,0, ,3,Jumper
+17,CJ Miles,FG_MISS,Marcus Smart,10:18,4,Celtics,Raptors,81 - 84,1,17,3,Jumper
+18,Gordon Hayward,DEFENSIVE_REBOUND,None,10:16,4,Celtics,Raptors,81 - 84,0,N/A,N/A,N/A
+19,Gordon Hayward,FG_UNASSISTED,None,10:12,4,Celtics,Raptors,83 - 84,0,0,2,Layup
+20,CJ Miles,FOUL_ON_FLOOR,None,10:12,4,Raptors,Celtics,83 - 84,1,N/A,N/A,N/A
+21,Gordon Hayward,FT,None,10:12,4,Celtics,Raptors,84 - 84,0,N/A,1,N/A
+22,Norman Powell,FG_MISS,None,10:00,4,Raptors,Celtics,84 - 84,1,0,2,Layup
+23,Team,DEFENSIVE_REBOUND,None,10:00,4,Celtics,Raptors,84 - 84,0,N/A,N/A,N/A
+24,Jonas Valanciunas,FOUL_ON_FLOOR,None,10:00,4,Raptors,Celtics,84 - 84,1,N/A,N/A,N/A
+25,Terry Rozier,SUBSTITUTION,Irving Kyrie,10:00,4,Celtics,Raptors,84 - 84,0,N/A,N/A,N/A
+26,Terry Rozier,FG_MISS,None,9:47,4,Celtics,Raptors,84 - 84,0,19,3,Jumper
+27,Aron Baynes,OFFENSIVE_REBOUND,None,9:45,4,Celtics,Raptors,84 - 84,0,N/A,N/A,N/A
+28,Aron Baynes,FG_MISS,None,9:45,4,Celtics,Raptors,84 - 84,0, ,3,Jumper
+29,Team,DEFENSIVE_REBOUND,None,9:45,4,Raptors,Celtics,84 - 84,1,N/A,N/A,N/A
+30,OG Anunoby,FG_ASSISTED,Fred VanVleet,9:32,4,Raptors,Celtics,84 - 86,1, ,3,Jumper
+31,Gordon Hayward,FG_MISS,None,9:16,4,Celtics,Raptors,84 - 86,0,13,3,Jumper
+32,Fred VanVleet,DEFENSIVE_REBOUND,None,9:13,4,Raptors,Celtics,84 - 86,1,N/A,N/A,N/A
+33,CJ Miles,FG_MISS,None,9:09,4,Raptors,Celtics,84 - 86,1,27,3,Jumper
+34,Gordon Hayward,DEFENSIVE_REBOUND,None,9:07,4,Celtics,Raptors,84 - 86,0,N/A,N/A,N/A
+35,Jaylen Brown,FG_ASSISTED,Marcus Smart,9:03,4,Celtics,Raptors,87 - 86,0,25,3,Jumper
+36,Fred VanVleet,FG_UNASSISTED,None,8:52,4,Raptors,Celtics,87 - 88,1, ,3,Jumper
+37,Marcus Smart,FOUL_ON_FLOOR,None,8:52,4,Celtics,Raptors,87 - 88,0,N/A,N/A,N/A
+38,Kawhi Leonard,SUBSTITUTION,Miles CJ,8:52,4,Raptors,Celtics,87 - 88,1,N/A,N/A,N/A
+39,Marcus Morris,SUBSTITUTION,Hayward Gordon,8:52,4,Celtics,Raptors,87 - 88,0,N/A,N/A,N/A
+40,Al Horford,SUBSTITUTION,Baynes Aron,8:52,4,Celtics,Raptors,87 - 88,0,N/A,N/A,N/A
+41,Fred VanVleet,FT_MISS,None,8:52,4,Raptors,Celtics,87 - 88,1,N/A,1,N/A
+42,Fred VanVleet,OFFENSIVE_REBOUND,None,8:52,4,Raptors,Celtics,87 - 88,1,N/A,N/A,N/A
+43,Norman Powell,FG_UNASSISTED,None,8:40,4,Raptors,Celtics,87 - 90,1,16,3,Jumper
+44,Team,Unknown,None,8:38,4,Celtics,Raptors,87 - 90,0,N/A,N/A,N/A
+45,Serge Ibaka,SUBSTITUTION,Valanciunas Jonas,8:38,4,Raptors,Celtics,87 - 90,1,N/A,N/A,N/A
+46,Jaylen Brown,FG_MISS,None,8:23,4,Celtics,Raptors,87 - 90,0,0,2,Layup
+47,Jaylen Brown,OFFENSIVE_REBOUND,None,8:19,4,Celtics,Raptors,87 - 90,0,N/A,N/A,N/A
+48,Jaylen Brown,FG_MISS,None,8:19,4,Celtics,Raptors,87 - 90,0, ,3,Jumper
+49,Norman Powell,DEFENSIVE_REBOUND,None,8:18,4,Raptors,Celtics,87 - 90,1,N/A,N/A,N/A
+50,Fred VanVleet,FG_MISS,None,8:00,4,Raptors,Celtics,87 - 90,1,26,3,Jumper
+51,Marcus Morris,DEFENSIVE_REBOUND,None,7:57,4,Celtics,Raptors,87 - 90,0,N/A,N/A,N/A
+52,Al Horford,FG_MISS,None,7:46,4,Celtics,Raptors,87 - 90,0,9,3,Jumper
+53,Serge Ibaka,DEFENSIVE_REBOUND,None,7:44,4,Raptors,Celtics,87 - 90,1,N/A,N/A,N/A
+54,Kawhi Leonard,TURNOVER,None,7:28,4,Raptors,Celtics,87 - 90,1,N/A,N/A,N/A
+55,Kyle Lowry,SUBSTITUTION,Powell Norman,7:28,4,Raptors,Celtics,87 - 90,1,N/A,N/A,N/A
+56,Kyrie Irving,SUBSTITUTION,Brown Jaylen,7:28,4,Celtics,Raptors,87 - 90,0,N/A,N/A,N/A
+57,Jayson Tatum,SUBSTITUTION,Rozier Terry,7:28,4,Celtics,Raptors,87 - 90,0,N/A,N/A,N/A
+58,Kyrie Irving,FG_MISS,None,7:19,4,Celtics,Raptors,87 - 90,0, ,3,Jumper
+59,Kyle Lowry,DEFENSIVE_REBOUND,None,7:16,4,Raptors,Celtics,87 - 90,1,N/A,N/A,N/A
+60,OG Anunoby,FG_ASSISTED,Kyle Lowry,7:10,4,Raptors,Celtics,87 - 92,1,0,2,Layup
+61,Kyrie Irving,FG_MISS,Serge Ibaka,6:55,4,Raptors,Celtics,87 - 92,0,0,2,Layup
+62,Al Horford,OFFENSIVE_REBOUND,None,6:55,4,Celtics,Raptors,87 - 92,0,N/A,N/A,N/A
+63,Al Horford,FG_UNASSISTED,None,6:50,4,Celtics,Raptors,89 - 92,0, ,3,Jumper
+64,Serge Ibaka,FG_MISS,None,6:36,4,Raptors,Celtics,89 - 92,1,15,3,Jumper
+65,Al Horford,DEFENSIVE_REBOUND,None,6:33,4,Celtics,Raptors,89 - 92,0,N/A,N/A,N/A
+66,Marcus Smart,FG_MISS,None,6:25,4,Celtics,Raptors,89 - 92,0,10,3,Jumper
+67,Kawhi Leonard,DEFENSIVE_REBOUND,None,6:22,4,Raptors,Celtics,89 - 92,1,N/A,N/A,N/A
+68,Kawhi Leonard,FG_ASSISTED,Fred VanVleet,6:16,4,Raptors,Celtics,89 - 95,1,26,3,Jumper
+69,Marcus Morris,FG_ASSISTED,Al Horford,5:53,4,Celtics,Raptors,92 - 95,0,25,3,Jumper
+70,Kawhi Leonard,FG_MISS,None,5:31,4,Raptors,Celtics,92 - 95,1,13,3,Jumper
+71,Serge Ibaka,OFFENSIVE_REBOUND,None,5:30,4,Raptors,Celtics,92 - 95,1,N/A,N/A,N/A
+72,Serge Ibaka,FG_UNASSISTED,None,5:30,4,Raptors,Celtics,92 - 97,1,2,3,Jumper
+73,Marcus Morris,FOUL_ON_FLOOR,None,5:30,4,Celtics,Raptors,92 - 97,0,N/A,N/A,N/A
+74,Gordon Hayward,SUBSTITUTION,Smart Marcus,5:30,4,Celtics,Raptors,92 - 97,0,N/A,N/A,N/A
+75,Serge Ibaka,FT_MISS,None,5:30,4,Raptors,Celtics,92 - 97,1,N/A,1,N/A
+76,Jayson Tatum,DEFENSIVE_REBOUND,None,5:26,4,Celtics,Raptors,92 - 97,0,N/A,N/A,N/A
+77,OG Anunoby,FOUL_ON_FLOOR,None,5:19,4,Raptors,Celtics,92 - 97,1,N/A,N/A,N/A
+78,Jayson Tatum,FT,None,5:19,4,Celtics,Raptors,93 - 97,0,N/A,1,N/A
+79,Danny Green,SUBSTITUTION,VanVleet Fred,5:19,4,Raptors,Celtics,93 - 97,1,N/A,N/A,N/A
+80,Jayson Tatum,FT,None,5:19,4,Celtics,Raptors,94 - 97,0,N/A,1,N/A
+81,Kawhi Leonard,FG_MISS,None,5:01,4,Raptors,Celtics,94 - 97,1,27,3,Jumper
+82,Serge Ibaka,OFFENSIVE_REBOUND,None,4:59,4,Raptors,Celtics,94 - 97,1,N/A,N/A,N/A
+83,Danny Green,FG_MISS,None,4:57,4,Raptors,Celtics,94 - 97,1,27,3,Jumper
+84,Serge Ibaka,OFFENSIVE_REBOUND,None,4:52,4,Raptors,Celtics,94 - 97,1,N/A,N/A,N/A
+85,Serge Ibaka,FG_MISS,None,4:50,4,Raptors,Celtics,94 - 97,1,6,3,Jumper
+86,Jayson Tatum,DEFENSIVE_REBOUND,None,4:47,4,Celtics,Raptors,94 - 97,0,N/A,N/A,N/A
+87,Jayson Tatum,TURNOVER,None,4:35,4,Celtics,Raptors,94 - 97,0,N/A,N/A,N/A
+88,Jayson Tatum,TURNOVER,None,4:35,4,Celtics,Raptors,94 - 97,0,N/A,N/A,N/A
+89,Team,Unknown,None,4:35,4,Raptors,Celtics,94 - 97,1,N/A,N/A,N/A
+90,Serge Ibaka,FG_ASSISTED,Danny Green,4:21,4,Raptors,Celtics,94 - 99,1,17,3,Jumper
+91,Kyrie Irving,FG_ASSISTED,Al Horford,4:03,4,Celtics,Raptors,96 - 99,0,17,3,Jumper
+92,Kawhi Leonard,FG_UNASSISTED,None,3:36,4,Raptors,Celtics,96 - 101,1,8,3,Jumper
+93,Marcus Morris,FOUL_ON_FLOOR,None,3:28,4,Celtics,Raptors,96 - 101,0,N/A,N/A,N/A
+94,Marcus Morris,TURNOVER,None,3:28,4,Celtics,Raptors,96 - 101,0,N/A,N/A,N/A
+95,Terry Rozier,SUBSTITUTION,Morris Marcus,3:28,4,Celtics,Raptors,96 - 101,0,N/A,N/A,N/A
+96,Jayson Tatum,FOUL_ON_FLOOR,None,3:18,4,Celtics,Raptors,96 - 101,0,N/A,N/A,N/A
+97,Kawhi Leonard,FG_MISS,None,3:04,4,Raptors,Celtics,96 - 101,1,6,3,Jumper
+98,shot clock,TURNOVER,None,3:04,4,Raptors,Celtics,96 - 101,1,N/A,N/A,N/A
+99,OG Anunoby,OFFENSIVE_REBOUND,None,3:04,4,Raptors,Celtics,96 - 101,1,N/A,N/A,N/A
+100,Team,Unknown,None,3:04,4,Celtics,Raptors,96 - 101,0,N/A,N/A,N/A
+101,Fred VanVleet,SUBSTITUTION,Anunoby OG,3:04,4,Raptors,Celtics,96 - 101,1,N/A,N/A,N/A
+102,Al Horford,FG_ASSISTED,Kyrie Irving,2:53,4,Celtics,Raptors,99 - 101,0,26,3,Jumper
+103,Danny Green,FG_ASSISTED,Fred VanVleet,2:29,4,Raptors,Celtics,99 - 104,1,23,3,Jumper
+104,Jayson Tatum,TURNOVER,None,2:16,4,Celtics,Raptors,99 - 104,0,N/A,N/A,N/A
+105,Jayson Tatum,TURNOVER,None,2:16,4,Celtics,Raptors,99 - 104,0,N/A,N/A,N/A
+106,Kyle Lowry,FG_ASSISTED,Fred VanVleet,2:08,4,Raptors,Celtics,99 - 107,1,27,3,Jumper
+107,Kyrie Irving,FG_MISS,None,1:57,4,Celtics,Raptors,99 - 107,0,26,3,Jumper
+108,Kyle Lowry,DEFENSIVE_REBOUND,None,1:53,4,Raptors,Celtics,99 - 107,1,N/A,N/A,N/A
+109,Serge Ibaka,FOUL_ON_FLOOR,None,1:46,4,Raptors,Celtics,99 - 107,1,N/A,N/A,N/A
+110,Serge Ibaka,TURNOVER,None,1:46,4,Raptors,Celtics,99 - 107,1,N/A,N/A,N/A
+111,Terry Rozier,FG_MISS,None,1:34,4,Celtics,Raptors,99 - 107,0,1,3,Jumper
+112,Kawhi Leonard,DEFENSIVE_REBOUND,None,1:30,4,Raptors,Celtics,99 - 107,1,N/A,N/A,N/A
+113,Kawhi Leonard,FG_MISS,None,1:20,4,Raptors,Celtics,99 - 107,1,1,3,Jumper
+114,Jayson Tatum,DEFENSIVE_REBOUND,None,1:19,4,Celtics,Raptors,99 - 107,0,N/A,N/A,N/A
+115,Jayson Tatum's,FG_MISS,Danny Green,1:14,4,Raptors,Celtics,99 - 107,0,1,3,Jumper
+116,Fred VanVleet,DEFENSIVE_REBOUND,None,1:10,4,Raptors,Celtics,99 - 107,1,N/A,N/A,N/A
+117,Kyle Lowry,FG_UNASSISTED,None,52.4,4,Raptors,Celtics,99 - 109,1,16,3,Jumper
+118,Al Horford,FG_MISS,None,41.1,4,Celtics,Raptors,99 - 109,0,27,3,Jumper
+119,Kyle Lowry,DEFENSIVE_REBOUND,None,38.3,4,Raptors,Celtics,99 - 109,1,N/A,N/A,N/A
+120,Kawhi Leonard,FG_MISS,None,32.9,4,Raptors,Celtics,99 - 109,1,1,3,Jumper
+121,Serge Ibaka,OFFENSIVE_REBOUND,None,32.9,4,Raptors,Celtics,99 - 109,1,N/A,N/A,N/A
+122,Serge Ibaka,FG_UNASSISTED,None,32.9,4,Raptors,Celtics,99 - 111,1,0,2,Dunk
+123,Kyrie Irving,FG_UNASSISTED,None,27.8,4,Celtics,Raptors,101 - 111,0,0,2,Layup
+124,Team,Unknown,None,22.6,4,Raptors,Celtics,101 - 111,1,N/A,N/A,N/A
+125,Terry Rozier,FOUL_ON_FLOOR,None,20.9,4,Celtics,Raptors,101 - 111,0,N/A,N/A,N/A
+126,Aron Baynes,SUBSTITUTION,Horford Al,20.9,4,Celtics,Raptors,101 - 111,0,N/A,N/A,N/A
+127,Terry Rozier,FOUL_ON_FLOOR,None,17.1,4,Celtics,Raptors,101 - 111,0,N/A,N/A,N/A
+128,Kawhi Leonard,FT,None,17.1,4,Raptors,Celtics,101 - 112,1,N/A,1,N/A
+129,Kawhi Leonard,FT,None,17.1,4,Raptors,Celtics,101 - 113,1,N/A,1,N/A
+130,Jayson Tatum,FG_MISS,None,9.6,4,Celtics,Raptors,101 - 113,0,23,3,Jumper
+131,Kyle Lowry,DEFENSIVE_REBOUND,None,7.3,4,Raptors,Celtics,101 - 113,1,N/A,N/A,N/A
+132,End of,Unknown,None,0.0,4,Raptors,Celtics,101 - 113,1,N/A,N/A,N/A
+133,End of,Unknown,None,0.0,4,Raptors,Celtics,101 - 113,1,N/A,N/A,N/A

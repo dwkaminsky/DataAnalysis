@@ -1,0 +1,483 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,JaVale McGee,JUMP_BALL,None,12:00,1,Heat,Lakers,0 - 0,1,N/A,N/A,N/A
+1,Josh Richardson,FG_MISS,None,11:39,1,Heat,Lakers,0 - 0,1,16,2,Jumper
+2,JaVale McGee,DEFENSIVE_REBOUND,None,11:35,1,Lakers,Heat,0 - 0,0,N/A,N/A,N/A
+3,Kyle Kuzma,FG_ASSISTED,LeBron James,11:25,1,Lakers,Heat,2 - 0,0,0,2,Layup
+4,Rodney McGruder,FG_MISS,None,11:11,1,Heat,Lakers,2 - 0,1,0,2,Layup
+5,Team,OFFENSIVE_REBOUND,None,11:11,1,Heat,Lakers,2 - 0,1,N/A,N/A,N/A
+6,Wayne Ellington,TURNOVER,LeBron James,11:09,1,Heat,Lakers,2 - 0,1,N/A,N/A,N/A
+7,LeBron James,FG_ASSISTED,Lonzo Ball,11:03,1,Lakers,Heat,4 - 0,0,0,2,Dunk
+8,Wayne Ellington,FG_UNASSISTED,None,10:47,1,Heat,Lakers,4 - 2,1,2,2,Jumper
+9,Brandon Ingram,FG_ASSISTED,JaVale McGee,10:36,1,Lakers,Heat,6 - 2,0,0,2,Layup
+10,Josh Richardson,FG_UNASSISTED,None,10:21,1,Heat,Lakers,6 - 4,1,2,2,Jumper
+11,Kyle Kuzma,FG_MISS,None,10:10,1,Lakers,Heat,6 - 4,0,1,2,Jumper
+12,Lonzo Ball,OFFENSIVE_REBOUND,None,10:08,1,Lakers,Heat,6 - 4,0,N/A,N/A,N/A
+13,Wayne Ellington,FOUL_ON_FLOOR,None,10:06,1,Heat,Lakers,6 - 4,1,N/A,N/A,N/A
+14,shot clock,TURNOVER,None,9:52,1,Lakers,Heat,6 - 4,0,N/A,N/A,N/A
+15,Wayne Ellington,FG_MISS,None,9:39,1,Heat,Lakers,6 - 4,1,25,3,Jumper
+16,LeBron James,DEFENSIVE_REBOUND,None,9:36,1,Lakers,Heat,6 - 4,0,N/A,N/A,N/A
+17,LeBron James,FG_ASSISTED,Lonzo Ball,9:29,1,Lakers,Heat,8 - 4,0,14,2,Jumper
+18,Rodney McGruder,TURNOVER,JaVale McGee,9:08,1,Heat,Lakers,8 - 4,1,N/A,N/A,N/A
+19,LeBron James,FG_UNASSISTED,None,8:53,1,Lakers,Heat,11 - 4,0,24,2,Jumper
+20,Wayne Ellington,FG_ASSISTED,Rodney McGruder,8:33,1,Heat,Lakers,11 - 6,1,2,2,Jumper
+21,Kyle Kuzma,FG_MISS,None,8:22,1,Lakers,Heat,11 - 6,0,23,3,Jumper
+22,Hassan Whiteside,DEFENSIVE_REBOUND,None,8:19,1,Heat,Lakers,11 - 6,1,N/A,N/A,N/A
+23,Rodney McGruder,FG_UNASSISTED,None,8:11,1,Heat,Lakers,11 - 8,1,13,2,Jumper
+24,Brandon Ingram,FG_MISS,None,7:53,1,Lakers,Heat,11 - 8,0,14,2,Jumper
+25,JaVale McGee,OFFENSIVE_REBOUND,None,7:50,1,Lakers,Heat,11 - 8,0,N/A,N/A,N/A
+26,JaVale McGee,FG_MISS,None,7:50,1,Lakers,Heat,11 - 8,0,0,2,Dunk
+27,Josh Richardson,DEFENSIVE_REBOUND,None,7:48,1,Heat,Lakers,11 - 8,1,N/A,N/A,N/A
+28,Wayne Ellington,FG_MISS,None,7:43,1,Heat,Lakers,11 - 8,1,24,3,Jumper
+29,Justise Winslow,OFFENSIVE_REBOUND,None,7:41,1,Heat,Lakers,11 - 8,1,N/A,N/A,N/A
+30,Rodney McGruder,FG_UNASSISTED,None,7:33,1,Heat,Lakers,11 - 10,1,18,2,Jumper
+31,Brandon Ingram,FG_UNASSISTED,None,7:14,1,Lakers,Heat,13 - 10,0, ,2,Jumper
+32,Justise Winslow,FG_MISS,None,7:02,1,Heat,Lakers,13 - 10,1,24,3,Jumper
+33,Lonzo Ball,DEFENSIVE_REBOUND,None,6:58,1,Lakers,Heat,13 - 10,0,N/A,N/A,N/A
+34,Lonzo Ball,FG_MISS,None,6:47,1,Lakers,Heat,13 - 10,0,28,3,Jumper
+35,Team,OFFENSIVE_REBOUND,None,6:45,1,Lakers,Heat,13 - 10,0,N/A,N/A,N/A
+36,Team,Unknown,None,6:45,1,Heat,Lakers,13 - 10,1,N/A,N/A,N/A
+37,Tyson Chandler,SUBSTITUTION,McGee JaVale,6:45,1,Lakers,Heat,13 - 10,0,N/A,N/A,N/A
+38,LeBron James,FG_MISS,None,6:36,1,Lakers,Heat,13 - 10,0,11,2,Jumper
+39,Josh Richardson,DEFENSIVE_REBOUND,None,6:32,1,Heat,Lakers,13 - 10,1,N/A,N/A,N/A
+40,Josh Richardson,FG_UNASSISTED,None,6:27,1,Heat,Lakers,13 - 12,1,14,2,Jumper
+41,Brandon Ingram's,FG_MISS,Hassan Whiteside,6:11,1,Heat,Lakers,13 - 12,0,0,2,Layup
+42,Justise Winslow,DEFENSIVE_REBOUND,None,6:07,1,Heat,Lakers,13 - 12,1,N/A,N/A,N/A
+43,Kyle Kuzma,FOUL_ON_FLOOR,None,6:07,1,Lakers,Heat,13 - 12,0,N/A,N/A,N/A
+44,Justise Winslow,FT_MISS,None,6:07,1,Heat,Lakers,13 - 12,1,N/A,1,N/A
+45,Team,OFFENSIVE_REBOUND,None,6:07,1,Heat,Lakers,13 - 12,1,N/A,N/A,N/A
+46,Justise Winslow,FT,None,6:07,1,Heat,Lakers,13 - 13,1,N/A,1,N/A
+47,Lonzo Ball,FG_MISS,None,5:50,1,Lakers,Heat,13 - 13,0,11,2,Jumper
+48,Tyson Chandler,OFFENSIVE_REBOUND,None,5:47,1,Lakers,Heat,13 - 13,0,N/A,N/A,N/A
+49,Brandon Ingram,FG_MISS,Hassan Whiteside,5:36,1,Heat,Lakers,13 - 13,0,17,2,Jumper
+50,Justise Winslow,DEFENSIVE_REBOUND,None,5:34,1,Heat,Lakers,13 - 13,1,N/A,N/A,N/A
+51,Justise Winslow,FG_MISS,None,5:28,1,Heat,Lakers,13 - 13,1,2,2,Jumper
+52,Tyson Chandler,DEFENSIVE_REBOUND,None,5:28,1,Lakers,Heat,13 - 13,0,N/A,N/A,N/A
+53,Kyle Kuzma,FG_MISS,Josh Richardson,5:21,1,Heat,Lakers,13 - 13,0,9,2,Jumper
+54,Rodney McGruder,DEFENSIVE_REBOUND,None,5:17,1,Heat,Lakers,13 - 13,1,N/A,N/A,N/A
+55,Hassan Whiteside,FG_MISS,None,5:10,1,Heat,Lakers,13 - 13,1, ,3,Jumper
+56,Kyle Kuzma,DEFENSIVE_REBOUND,None,5:06,1,Lakers,Heat,13 - 13,0,N/A,N/A,N/A
+57,LeBron James,FG_UNASSISTED,None,4:54,1,Lakers,Heat,15 - 13,0,12,2,Jumper
+58,Hassan Whiteside,FG_MISS,None,4:35,1,Heat,Lakers,15 - 13,1,0,2,Layup
+59,Tyson Chandler,DEFENSIVE_REBOUND,None,4:33,1,Lakers,Heat,15 - 13,0,N/A,N/A,N/A
+60,Kyle Kuzma,FG_ASSISTED,Brandon Ingram,4:28,1,Lakers,Heat,18 - 13,0,23,3,Jumper
+61,Kyle Kuzma,FOUL_ON_FLOOR,None,4:14,1,Lakers,Heat,18 - 13,0,N/A,N/A,N/A
+62,Kelly Olynyk,SUBSTITUTION,Richardson Josh,4:14,1,Heat,Lakers,18 - 13,1,N/A,N/A,N/A
+63,James Johnson,SUBSTITUTION,Winslow Justise,4:14,1,Heat,Lakers,18 - 13,1,N/A,N/A,N/A
+64,Tyler Johnson,SUBSTITUTION,Whiteside Hassan,4:14,1,Heat,Lakers,18 - 13,1,N/A,N/A,N/A
+65,Kentavious Caldwell-Pope,SUBSTITUTION,Ball Lonzo,4:14,1,Lakers,Heat,18 - 13,0,N/A,N/A,N/A
+66,James Johnson,FG_MISS,None,4:00,1,Heat,Lakers,18 - 13,1, ,2,Jumper
+67,Brandon Ingram,DEFENSIVE_REBOUND,None,3:58,1,Lakers,Heat,18 - 13,0,N/A,N/A,N/A
+68,Brandon Ingram,FG_MISS,None,3:51,1,Lakers,Heat,18 - 13,0,0,2,Layup
+69,Rodney McGruder,DEFENSIVE_REBOUND,None,3:49,1,Heat,Lakers,18 - 13,1,N/A,N/A,N/A
+70,Rodney McGruder,FG_UNASSISTED,None,3:49,1,Heat,Lakers,18 - 15,1, ,2,Jumper
+71,violation 18,Unknown,None,3:49,1,Heat,Lakers,18 - 15,1,N/A,N/A,N/A
+72,LeBron James,Unknown,None,3:49,1,Lakers,Heat,18 - 15,0,N/A,N/A,N/A
+73,Team,Unknown,None,3:49,1,Lakers,Heat,18 - 15,0,N/A,N/A,N/A
+74,Josh Hart,SUBSTITUTION,Kuzma Kyle,3:49,1,Lakers,Heat,18 - 15,0,N/A,N/A,N/A
+75,LeBron James,FG_UNASSISTED,None,3:30,1,Lakers,Heat,21 - 15,0,25,2,Jumper
+76,Kelly Olynyk,FG_MISS,None,3:09,1,Heat,Lakers,21 - 15,1,25,3,Jumper
+77,Josh Hart,DEFENSIVE_REBOUND,None,3:07,1,Lakers,Heat,21 - 15,0,N/A,N/A,N/A
+78,LeBron James,FG_UNASSISTED,None,2:57,1,Lakers,Heat,24 - 15,0,25,2,Jumper
+79,James Johnson,FG_MISS,None,2:38,1,Heat,Lakers,24 - 15,1,25,3,Jumper
+80,Rodney McGruder,OFFENSIVE_REBOUND,None,2:35,1,Heat,Lakers,24 - 15,1,N/A,N/A,N/A
+81,James Johnson,FG_MISS,None,2:22,1,Heat,Lakers,24 - 15,1,11,2,Jumper
+82,Tyson Chandler,DEFENSIVE_REBOUND,None,2:19,1,Lakers,Heat,24 - 15,0,N/A,N/A,N/A
+83,LeBron James,FG_UNASSISTED,None,2:15,1,Lakers,Heat,26 - 15,0,10,2,Jumper
+84,James Johnson,FOUL_ON_FLOOR,None,2:15,1,Heat,Lakers,26 - 15,1,N/A,N/A,N/A
+85,Josh Richardson,SUBSTITUTION,Ellington Wayne,2:15,1,Heat,Lakers,26 - 15,1,N/A,N/A,N/A
+86,Lance Stephenson,SUBSTITUTION,Ingram Brandon,2:15,1,Lakers,Heat,26 - 15,0,N/A,N/A,N/A
+87,LeBron James,FT_MISS,None,2:15,1,Lakers,Heat,26 - 15,0,N/A,1,N/A
+88,Kelly Olynyk,DEFENSIVE_REBOUND,None,2:15,1,Heat,Lakers,26 - 15,1,N/A,N/A,N/A
+89,Josh Hart,FOUL_ON_FLOOR,None,2:03,1,Lakers,Heat,26 - 15,0,N/A,N/A,N/A
+90,Josh Richardson,FT,None,2:03,1,Heat,Lakers,26 - 16,1,N/A,1,N/A
+91,Josh Richardson,FT,None,2:03,1,Heat,Lakers,26 - 17,1,N/A,1,N/A
+92,Josh Richardson,FT,None,2:03,1,Heat,Lakers,26 - 18,1,N/A,1,N/A
+93,LeBron James,FG_MISS,None,1:53,1,Lakers,Heat,26 - 18,0,26,3,Jumper
+94,Kelly Olynyk,DEFENSIVE_REBOUND,None,1:50,1,Heat,Lakers,26 - 18,1,N/A,N/A,N/A
+95,Tyler Johnson,FG_MISS,None,1:43,1,Heat,Lakers,26 - 18,1,0,2,Layup
+96,Lance Stephenson,DEFENSIVE_REBOUND,None,1:39,1,Lakers,Heat,26 - 18,0,N/A,N/A,N/A
+97,LeBron James,FG_UNASSISTED,None,1:24,1,Lakers,Heat,28 - 18,0,6,2,Jumper
+98,James Johnson,FG_ASSISTED,Josh Richardson,1:05,1,Heat,Lakers,28 - 21,1,25,3,Jumper
+99,James Johnson,FOUL_ON_FLOOR,None,55.9,1,Heat,Lakers,28 - 21,1,N/A,N/A,N/A
+100,Justise Winslow,SUBSTITUTION,McGruder Rodney,55.9,1,Heat,Lakers,28 - 21,1,N/A,N/A,N/A
+101,Kentavious Caldwell-Pope,FG_UNASSISTED,None,47.1,1,Lakers,Heat,31 - 21,0,25,3,Jumper
+102,James Johnson,FG_MISS,None,27.2,1,Heat,Lakers,31 - 21,1,26,3,Jumper
+103,Lance Stephenson,DEFENSIVE_REBOUND,None,24.7,1,Lakers,Heat,31 - 21,0,N/A,N/A,N/A
+104,Kentavious Caldwell-Pope,FG_MISS,None,6.4,1,Lakers,Heat,31 - 21,0,20,2,Jumper
+105,Josh Hart,OFFENSIVE_REBOUND,None,3.5,1,Lakers,Heat,31 - 21,0,N/A,N/A,N/A
+106,Tyler Johnson,FOUL_ON_FLOOR,None,0.2,1,Heat,Lakers,31 - 21,1,N/A,N/A,N/A
+107,Kentavious Caldwell-Pope,FT,None,0.2,1,Lakers,Heat,32 - 21,0,N/A,1,N/A
+108,Kentavious Caldwell-Pope,FT,None,0.2,1,Lakers,Heat,33 - 21,0,N/A,1,N/A
+109,Lonzo Ball,SUBSTITUTION,James LeBron,0.2,1,Lakers,Heat,33 - 21,0,N/A,N/A,N/A
+110,Kentavious Caldwell-Pope,FT,None,0.2,1,Lakers,Heat,34 - 21,0,N/A,1,N/A
+111,End of,Unknown,None,0.0,1,Heat,Lakers,34 - 21,1,N/A,N/A,N/A
+0,Hassan Whiteside,SUBSTITUTION,Johnson James,12:00,2,Heat,Lakers,34 - 21,1,N/A,N/A,N/A
+1,JaVale McGee,SUBSTITUTION,Chandler Tyson,12:00,2,Lakers,Heat,34 - 21,0,N/A,N/A,N/A
+2,Lance Stephenson,FG_MISS,None,11:42,2,Lakers,Heat,34 - 21,0,25,3,Jumper
+3,Hassan Whiteside,DEFENSIVE_REBOUND,None,11:39,2,Heat,Lakers,34 - 21,1,N/A,N/A,N/A
+4,Kelly Olynyk,FG_ASSISTED,Justise Winslow,11:31,2,Heat,Lakers,34 - 24,1,23,3,Jumper
+5,JaVale McGee,FG_MISS,None,11:21,2,Lakers,Heat,34 - 24,0,7,2,Jumper
+6,Justise Winslow,DEFENSIVE_REBOUND,None,11:21,2,Heat,Lakers,34 - 24,1,N/A,N/A,N/A
+7,Hassan Whiteside,FG_MISS,None,11:11,2,Heat,Lakers,34 - 24,1, ,2,Jumper
+8,Lance Stephenson,DEFENSIVE_REBOUND,None,11:09,2,Lakers,Heat,34 - 24,0,N/A,N/A,N/A
+9,Josh Richardson,FOUL_ON_FLOOR,None,11:07,2,Heat,Lakers,34 - 24,1,N/A,N/A,N/A
+10,Lonzo Ball,FG_ASSISTED,JaVale McGee,10:58,2,Lakers,Heat,36 - 24,0,17,2,Jumper
+11,Tyler Johnson,FG_ASSISTED,Hassan Whiteside,10:43,2,Heat,Lakers,36 - 26,1,9,2,Jumper
+12,Lance Stephenson,FG_MISS,Hassan Whiteside,10:34,2,Heat,Lakers,36 - 26,0,0,2,Layup
+13,Team,OFFENSIVE_REBOUND,None,10:34,2,Lakers,Heat,36 - 26,0,N/A,N/A,N/A
+14,Kentavious Caldwell-Pope,TURNOVER,Josh Richardson,10:26,2,Lakers,Heat,36 - 26,0,N/A,N/A,N/A
+15,Tyler Johnson,FG_ASSISTED,Josh Richardson,10:16,2,Heat,Lakers,36 - 29,1,23,3,Jumper
+16,Team,Unknown,None,10:16,2,Lakers,Heat,36 - 29,0,N/A,N/A,N/A
+17,JaVale McGee,FG_ASSISTED,Lonzo Ball,10:06,2,Lakers,Heat,38 - 29,0,0,2,Dunk
+18,Justise Winslow,TURNOVER,JaVale McGee,9:56,2,Heat,Lakers,38 - 29,1,N/A,N/A,N/A
+19,Josh Hart,FG_MISS,None,9:51,2,Lakers,Heat,38 - 29,0,25,3,Jumper
+20,Josh Hart,OFFENSIVE_REBOUND,None,9:48,2,Lakers,Heat,38 - 29,0,N/A,N/A,N/A
+21,Kentavious Caldwell-Pope,FG_ASSISTED,Lonzo Ball,9:44,2,Lakers,Heat,41 - 29,0,26,3,Jumper
+22,Team,Unknown,None,9:43,2,Heat,Lakers,41 - 29,1,N/A,N/A,N/A
+23,Tyler Johnson,FG_ASSISTED,Hassan Whiteside,9:32,2,Heat,Lakers,41 - 31,1,0,2,Layup
+24,Lonzo Ball,TURNOVER,Hassan Whiteside,9:19,2,Lakers,Heat,41 - 31,0,N/A,N/A,N/A
+25,Tyler Johnson,FG_MISS,None,9:07,2,Heat,Lakers,41 - 31,1, ,2,Jumper
+26,Lonzo Ball,DEFENSIVE_REBOUND,None,9:05,2,Lakers,Heat,41 - 31,0,N/A,N/A,N/A
+27,Kentavious Caldwell-Pope,FG_ASSISTED,Lonzo Ball,9:01,2,Lakers,Heat,44 - 31,0,27,3,Jumper
+28,Tyler Johnson,FG_MISS,None,8:42,2,Heat,Lakers,44 - 31,1,18,2,Jumper
+29,Team,OFFENSIVE_REBOUND,None,8:42,2,Heat,Lakers,44 - 31,1,N/A,N/A,N/A
+30,Hassan Whiteside,FG_MISS,None,8:33,2,Heat,Lakers,44 - 31,1,4,2,Jumper
+31,Lonzo Ball,DEFENSIVE_REBOUND,None,8:32,2,Lakers,Heat,44 - 31,0,N/A,N/A,N/A
+32,Kentavious Caldwell-Pope,FT,None,8:29,2,Lakers,Heat,45 - 31,0,N/A,1,N/A
+33,Kentavious Caldwell-Pope,FT,None,8:29,2,Lakers,Heat,46 - 31,0,N/A,1,N/A
+34,James Johnson,SUBSTITUTION,Richardson Josh,8:29,2,Heat,Lakers,46 - 31,1,N/A,N/A,N/A
+35,Rodney McGruder,SUBSTITUTION,Winslow Justise,8:29,2,Heat,Lakers,46 - 31,1,N/A,N/A,N/A
+36,Kentavious Caldwell-Pope,FT,None,8:29,2,Lakers,Heat,47 - 31,0,N/A,1,N/A
+37,Josh Richardson,FOUL_ON_FLOOR,None,8:29,2,Heat,Lakers,47 - 31,1,N/A,N/A,N/A
+38,Tyler Johnson,TURNOVER,None,8:12,2,Heat,Lakers,47 - 31,1,N/A,N/A,N/A
+39,Wayne Ellington,SUBSTITUTION,Olynyk Kelly,8:12,2,Heat,Lakers,47 - 31,1,N/A,N/A,N/A
+40,Hassan Whiteside,FOUL_ON_FLOOR,None,8:04,2,Heat,Lakers,47 - 31,1,N/A,N/A,N/A
+41,JaVale McGee,FT,None,8:04,2,Lakers,Heat,48 - 31,0,N/A,1,N/A
+42,JaVale McGee,FT,None,8:04,2,Lakers,Heat,49 - 31,0,N/A,1,N/A
+43,Tyler Johnson,FG_ASSISTED,James Johnson,7:41,2,Heat,Lakers,49 - 34,1,26,3,Jumper
+44,Josh Hart,FG_ASSISTED,Lance Stephenson,7:31,2,Lakers,Heat,52 - 34,0,26,3,Jumper
+45,Lance Stephenson,FOUL_ON_FLOOR,None,7:18,2,Lakers,Heat,52 - 34,0,N/A,N/A,N/A
+46,Tyler Johnson,FT,None,7:18,2,Heat,Lakers,52 - 35,1,N/A,1,N/A
+47,LeBron James,SUBSTITUTION,Hart Josh,7:18,2,Lakers,Heat,52 - 35,0,N/A,N/A,N/A
+48,Tyler Johnson,FT,None,7:18,2,Heat,Lakers,52 - 36,1,N/A,1,N/A
+49,LeBron James,FOUL_ON_FLOOR,None,7:13,2,Lakers,Heat,52 - 36,0,N/A,N/A,N/A
+50,LeBron James,TURNOVER,None,7:13,2,Lakers,Heat,52 - 36,0,N/A,N/A,N/A
+51,Josh Richardson,SUBSTITUTION,Johnson Tyler,7:13,2,Heat,Lakers,52 - 36,1,N/A,N/A,N/A
+52,Brandon Ingram,SUBSTITUTION,Stephenson Lance,7:13,2,Lakers,Heat,52 - 36,0,N/A,N/A,N/A
+53,Hassan Whiteside,FG_ASSISTED,Rodney McGruder,6:51,2,Heat,Lakers,52 - 38,1,0,2,Dunk
+54,Kentavious Caldwell-Pope,FG_MISS,None,6:38,2,Lakers,Heat,52 - 38,0,15,2,Jumper
+55,Wayne Ellington,DEFENSIVE_REBOUND,None,6:36,2,Heat,Lakers,52 - 38,1,N/A,N/A,N/A
+56,Kentavious Caldwell-Pope,FOUL_ON_FLOOR,None,6:29,2,Lakers,Heat,52 - 38,0,N/A,N/A,N/A
+57,Kyle Kuzma,SUBSTITUTION,Ball Lonzo,6:29,2,Lakers,Heat,52 - 38,0,N/A,N/A,N/A
+58,Tyson Chandler,SUBSTITUTION,McGee JaVale,6:29,2,Lakers,Heat,52 - 38,0,N/A,N/A,N/A
+59,Brandon Ingram,FOUL_ON_FLOOR,None,6:23,2,Lakers,Heat,52 - 38,0,N/A,N/A,N/A
+60,Josh Richardson,FG_UNASSISTED,None,6:14,2,Heat,Lakers,52 - 40,1, ,2,Jumper
+61,Josh Richardson,FOUL_ON_FLOOR,None,6:10,2,Heat,Lakers,52 - 40,1,N/A,N/A,N/A
+62,Kentavious Caldwell-Pope,FG_MISS,None,6:01,2,Lakers,Heat,52 - 40,0,28,3,Jumper
+63,Hassan Whiteside,DEFENSIVE_REBOUND,None,5:58,2,Heat,Lakers,52 - 40,1,N/A,N/A,N/A
+64,Rodney McGruder,TURNOVER,Kentavious Caldwell-Pope,5:50,2,Heat,Lakers,52 - 40,1,N/A,N/A,N/A
+65,Brandon Ingram,FG_MISS,None,5:42,2,Lakers,Heat,52 - 40,0,23,3,Jumper
+66,Team,OFFENSIVE_REBOUND,None,5:38,2,Lakers,Heat,52 - 40,0,N/A,N/A,N/A
+67,Tyler Johnson,SUBSTITUTION,Richardson Josh,5:38,2,Heat,Lakers,52 - 40,1,N/A,N/A,N/A
+68,Tyson Chandler,TURNOVER,None,5:38,2,Lakers,Heat,52 - 40,0,N/A,N/A,N/A
+69,Tyler Johnson,FG_MISS,Brandon Ingram,5:31,2,Lakers,Heat,52 - 40,1,7,2,Jumper
+70,Team,OFFENSIVE_REBOUND,None,5:31,2,Heat,Lakers,52 - 40,1,N/A,N/A,N/A
+71,Sviatoslav Mykhailiuk,SUBSTITUTION,Caldwell-Pope Kentavious,5:31,2,Lakers,Heat,52 - 40,0,N/A,N/A,N/A
+72,Rodney McGruder,FG_ASSISTED,Wayne Ellington,5:20,2,Heat,Lakers,52 - 43,1,25,3,Jumper
+73,Kyle Kuzma,FG_UNASSISTED,None,5:04,2,Lakers,Heat,54 - 43,0,13,2,Jumper
+74,Wayne Ellington,FG_ASSISTED,Tyler Johnson,4:44,2,Heat,Lakers,54 - 46,1,24,3,Jumper
+75,James Johnson,FOUL_ON_FLOOR,None,4:31,2,Heat,Lakers,54 - 46,1,N/A,N/A,N/A
+76,LeBron James,FT,None,4:31,2,Lakers,Heat,55 - 46,0,N/A,1,N/A
+77,LeBron James,FT,None,4:31,2,Lakers,Heat,56 - 46,0,N/A,1,N/A
+78,Wayne Ellington,FG_ASSISTED,Tyler Johnson,4:17,2,Heat,Lakers,56 - 49,1,23,3,Jumper
+79,Kyle Kuzma,TURNOVER,Tyler Johnson,4:02,2,Lakers,Heat,56 - 49,0,N/A,N/A,N/A
+80,Wayne Ellington,FG_MISS,None,3:54,2,Heat,Lakers,56 - 49,1, ,3,Jumper
+81,LeBron James,DEFENSIVE_REBOUND,None,3:51,2,Lakers,Heat,56 - 49,0,N/A,N/A,N/A
+82,Kyle Kuzma,FG_MISS,None,3:46,2,Lakers,Heat,56 - 49,0,25,3,Jumper
+83,Hassan Whiteside,DEFENSIVE_REBOUND,None,3:43,2,Heat,Lakers,56 - 49,1,N/A,N/A,N/A
+84,Rodney McGruder,FG_MISS,None,3:33,2,Heat,Lakers,56 - 49,1,26,3,Jumper
+85,Brandon Ingram,DEFENSIVE_REBOUND,None,3:30,2,Lakers,Heat,56 - 49,0,N/A,N/A,N/A
+86,Brandon Ingram,FG_MISS,None,3:23,2,Lakers,Heat,56 - 49,0,0,2,Layup
+87,Tyson Chandler,OFFENSIVE_REBOUND,None,3:18,2,Lakers,Heat,56 - 49,0,N/A,N/A,N/A
+88,Tyson Chandler,FG_UNASSISTED,None,3:18,2,Lakers,Heat,58 - 49,0, ,2,Jumper
+89,Hassan Whiteside,TURNOVER,LeBron James,3:01,2,Heat,Lakers,58 - 49,1,N/A,N/A,N/A
+90,James Johnson,FOUL_ON_FLOOR,None,2:59,2,Heat,Lakers,58 - 49,1,N/A,N/A,N/A
+91,LeBron James,FT,None,2:59,2,Lakers,Heat,59 - 49,0,N/A,1,N/A
+92,Bam Adebayo,SUBSTITUTION,Johnson James,2:59,2,Heat,Lakers,59 - 49,1,N/A,N/A,N/A
+93,Justise Winslow,SUBSTITUTION,Whiteside Hassan,2:59,2,Heat,Lakers,59 - 49,1,N/A,N/A,N/A
+94,LeBron James,FT_MISS,None,2:59,2,Lakers,Heat,59 - 49,0,N/A,1,N/A
+95,Josh Hart,SUBSTITUTION,Mykhailiuk Sviatoslav,2:59,2,Lakers,Heat,59 - 49,0,N/A,N/A,N/A
+96,LeBron James,OFFENSIVE_REBOUND,None,2:48,2,Lakers,Heat,59 - 49,0,N/A,N/A,N/A
+97,Brandon Ingram,FG_MISS,None,2:46,2,Lakers,Heat,59 - 49,0,18,2,Jumper
+98,Rodney McGruder,DEFENSIVE_REBOUND,None,2:44,2,Heat,Lakers,59 - 49,1,N/A,N/A,N/A
+99,Tyson Chandler,FOUL_ON_FLOOR,None,2:39,2,Lakers,Heat,59 - 49,0,N/A,N/A,N/A
+100,Bam Adebayo,FG_MISS,None,2:29,2,Heat,Lakers,59 - 49,1,0,2,Layup
+101,Tyson Chandler,DEFENSIVE_REBOUND,None,2:27,2,Lakers,Heat,59 - 49,0,N/A,N/A,N/A
+102,LeBron James,FG_MISS,None,2:22,2,Lakers,Heat,59 - 49,0,27,3,Jumper
+103,Josh Hart,OFFENSIVE_REBOUND,None,2:16,2,Lakers,Heat,59 - 49,0,N/A,N/A,N/A
+104,LeBron James,FG_ASSISTED,Josh Hart,2:15,2,Lakers,Heat,61 - 49,0,0,2,Dunk
+105,Team,Unknown,None,2:11,2,Heat,Lakers,61 - 49,1,N/A,N/A,N/A
+106,Wayne Ellington,FG_MISS,None,1:58,2,Heat,Lakers,61 - 49,1,24,3,Jumper
+107,Justise Winslow,OFFENSIVE_REBOUND,None,1:55,2,Heat,Lakers,61 - 49,1,N/A,N/A,N/A
+108,Bam Adebayo,TURNOVER,None,1:52,2,Heat,Lakers,61 - 49,1,N/A,N/A,N/A
+109,Josh Hart,FG_MISS,None,1:33,2,Lakers,Heat,61 - 49,0,25,3,Jumper
+110,Team,OFFENSIVE_REBOUND,None,1:30,2,Lakers,Heat,61 - 49,0,N/A,N/A,N/A
+111,LeBron James,FG_MISS,None,1:24,2,Lakers,Heat,61 - 49,0,13,2,Jumper
+112,Bam Adebayo,DEFENSIVE_REBOUND,None,1:20,2,Heat,Lakers,61 - 49,1,N/A,N/A,N/A
+113,Bam Adebayo,TURNOVER,Kyle Kuzma,1:16,2,Heat,Lakers,61 - 49,1,N/A,N/A,N/A
+114,LeBron James,FG_ASSISTED,Kyle Kuzma,1:12,2,Lakers,Heat,63 - 49,0,0,2,Dunk
+115,Tyler Johnson,FG_MISS,None,53.7,2,Heat,Lakers,63 - 49,1, ,2,Jumper
+116,Brandon Ingram,DEFENSIVE_REBOUND,None,51.2,2,Lakers,Heat,63 - 49,0,N/A,N/A,N/A
+117,Brandon Ingram,FG_UNASSISTED,None,43.8,2,Lakers,Heat,65 - 49,0, ,2,Jumper
+118,Justise Winslow,FG_MISS,None,34.3,2,Heat,Lakers,65 - 49,1,17,2,Jumper
+119,Brandon Ingram,DEFENSIVE_REBOUND,None,31.9,2,Lakers,Heat,65 - 49,0,N/A,N/A,N/A
+120,Brandon Ingram,TURNOVER,None,27.6,2,Lakers,Heat,65 - 49,0,N/A,N/A,N/A
+121,JaVale McGee,SUBSTITUTION,Chandler Tyson,27.6,2,Lakers,Heat,65 - 49,0,N/A,N/A,N/A
+122,Kelly Olynyk,SUBSTITUTION,Adebayo Bam,27.6,2,Heat,Lakers,65 - 49,1,N/A,N/A,N/A
+123,Josh Richardson,SUBSTITUTION,Winslow Justise,27.6,2,Heat,Lakers,65 - 49,1,N/A,N/A,N/A
+124,Kentavious Caldwell-Pope,SUBSTITUTION,McGee JaVale,27.6,2,Lakers,Heat,65 - 49,0,N/A,N/A,N/A
+125,Josh Richardson,FG_UNASSISTED,None,5.9,2,Heat,Lakers,65 - 51,1,16,2,Jumper
+126,LeBron James,FG_UNASSISTED,None,1.1,2,Lakers,Heat,67 - 51,0,0,2,Layup
+127,Rodney McGruder,FOUL_ON_FLOOR,None,1.1,2,Heat,Lakers,67 - 51,1,N/A,N/A,N/A
+128,Bam Adebayo,SUBSTITUTION,Richardson Josh,1.1,2,Heat,Lakers,67 - 51,1,N/A,N/A,N/A
+129,Lonzo Ball,SUBSTITUTION,Kuzma Kyle,1.1,2,Lakers,Heat,67 - 51,0,N/A,N/A,N/A
+130,LeBron James,FT_MISS,None,1.1,2,Lakers,Heat,67 - 51,0,N/A,1,N/A
+131,Bam Adebayo,DEFENSIVE_REBOUND,None,1.1,2,Heat,Lakers,67 - 51,1,N/A,N/A,N/A
+132,Brandon Ingram,FOUL_ON_FLOOR,None,0.3,2,Lakers,Heat,67 - 51,0,N/A,N/A,N/A
+133,Bam Adebayo,FT_MISS,None,0.3,2,Heat,Lakers,67 - 51,1,N/A,1,N/A
+134,Team,OFFENSIVE_REBOUND,None,0.3,2,Heat,Lakers,67 - 51,1,N/A,N/A,N/A
+135,Tyson Chandler,SUBSTITUTION,Hart Josh,0.3,2,Lakers,Heat,67 - 51,0,N/A,N/A,N/A
+136,JaVale McGee,SUBSTITUTION,Ball Lonzo,0.3,2,Lakers,Heat,67 - 51,0,N/A,N/A,N/A
+137,Bam Adebayo,FT,None,0.3,2,Heat,Lakers,67 - 52,1,N/A,1,N/A
+138,End of,Unknown,None,0.0,2,Heat,Lakers,67 - 52,1,N/A,N/A,N/A
+0,Josh Richardson,SUBSTITUTION,Johnson Tyler,12:00,3,Heat,Lakers,67 - 52,1,N/A,N/A,N/A
+1,Justise Winslow,SUBSTITUTION,Olynyk Kelly,12:00,3,Heat,Lakers,67 - 52,1,N/A,N/A,N/A
+2,Hassan Whiteside,SUBSTITUTION,Adebayo Bam,12:00,3,Heat,Lakers,67 - 52,1,N/A,N/A,N/A
+3,Lonzo Ball,SUBSTITUTION,Caldwell-Pope Kentavious,12:00,3,Lakers,Heat,67 - 52,0,N/A,N/A,N/A
+4,Kyle Kuzma,SUBSTITUTION,Chandler Tyson,12:00,3,Lakers,Heat,67 - 52,0,N/A,N/A,N/A
+5,LeBron James,FG_MISS,None,11:49,3,Lakers,Heat,67 - 52,0,22,2,Jumper
+6,Josh Richardson,DEFENSIVE_REBOUND,None,11:45,3,Heat,Lakers,67 - 52,1,N/A,N/A,N/A
+7,Rodney McGruder,FG_MISS,None,11:29,3,Heat,Lakers,67 - 52,1, ,2,Jumper
+8,Lonzo Ball,DEFENSIVE_REBOUND,None,11:29,3,Lakers,Heat,67 - 52,0,N/A,N/A,N/A
+9,Kyle Kuzma,FG_ASSISTED,LeBron James,11:21,3,Lakers,Heat,69 - 52,0,12,2,Jumper
+10,Josh Richardson,FG_MISS,None,11:04,3,Heat,Lakers,69 - 52,1,28,3,Jumper
+11,Lonzo Ball,DEFENSIVE_REBOUND,None,11:01,3,Lakers,Heat,69 - 52,0,N/A,N/A,N/A
+12,Kyle Kuzma,FG_UNASSISTED,None,10:41,3,Lakers,Heat,71 - 52,0,14,2,Jumper
+13,Rodney McGruder,FG_MISS,None,10:31,3,Heat,Lakers,71 - 52,1,0,2,Layup
+14,Hassan Whiteside,OFFENSIVE_REBOUND,None,10:29,3,Heat,Lakers,71 - 52,1,N/A,N/A,N/A
+15,Hassan Whiteside,FG_UNASSISTED,None,10:29,3,Heat,Lakers,71 - 54,1, ,2,Jumper
+16,Lonzo Ball,FG_MISS,None,10:16,3,Lakers,Heat,71 - 54,0,26,3,Jumper
+17,Team,DEFENSIVE_REBOUND,None,10:15,3,Heat,Lakers,71 - 54,1,N/A,N/A,N/A
+18,JaVale McGee,FOUL_ON_FLOOR,None,10:14,3,Lakers,Heat,71 - 54,0,N/A,N/A,N/A
+19,Rodney McGruder,FG_UNASSISTED,None,10:04,3,Heat,Lakers,71 - 57,1,25,3,Jumper
+20,Team,Unknown,None,10:03,3,Lakers,Heat,71 - 54,0,N/A,N/A,N/A
+21,LeBron James,FG_ASSISTED,Lonzo Ball,9:41,3,Lakers,Heat,74 - 57,0,26,3,Jumper
+22,Rodney McGruder,FG_UNASSISTED,None,9:16,3,Heat,Lakers,74 - 59,1,2,2,Jumper
+23,Josh Richardson,FOUL_ON_FLOOR,None,8:59,3,Heat,Lakers,74 - 59,1,N/A,N/A,N/A
+24,Kyle Kuzma,FG_UNASSISTED,None,8:48,3,Lakers,Heat,76 - 59,0,15,2,Jumper
+25,Justise Winslow,FG_ASSISTED,Josh Richardson,8:33,3,Heat,Lakers,76 - 62,1,25,3,Jumper
+26,Kyle Kuzma,FG_MISS,None,8:20,3,Lakers,Heat,76 - 62,0,14,2,Jumper
+27,Justise Winslow,DEFENSIVE_REBOUND,None,8:18,3,Heat,Lakers,76 - 62,1,N/A,N/A,N/A
+28,LeBron James,FOUL_ON_FLOOR,None,8:16,3,Lakers,Heat,76 - 62,0,N/A,N/A,N/A
+29,Justise Winslow,FT,None,8:16,3,Heat,Lakers,76 - 63,1,N/A,1,N/A
+30,Tyler Johnson,SUBSTITUTION,Richardson Josh,8:16,3,Heat,Lakers,76 - 63,1,N/A,N/A,N/A
+31,Justise Winslow,FT,None,8:16,3,Heat,Lakers,76 - 64,1,N/A,1,N/A
+32,JaVale McGee,FG_MISS,None,7:54,3,Lakers,Heat,76 - 64,0, ,2,Jumper
+33,Rodney McGruder,DEFENSIVE_REBOUND,None,7:52,3,Heat,Lakers,76 - 64,1,N/A,N/A,N/A
+34,Hassan Whiteside,FG_MISS,None,7:43,3,Heat,Lakers,76 - 64,1,0,2,Layup
+35,Tyler Johnson,OFFENSIVE_REBOUND,None,7:39,3,Heat,Lakers,76 - 64,1,N/A,N/A,N/A
+36,Tyler Johnson,FG_MISS,None,7:31,3,Heat,Lakers,76 - 64,1,0,2,Layup
+37,Hassan Whiteside,OFFENSIVE_REBOUND,None,7:29,3,Heat,Lakers,76 - 64,1,N/A,N/A,N/A
+38,Hassan Whiteside's,FG_MISS,LeBron James,7:27,3,Lakers,Heat,76 - 64,1,0,2,Layup
+39,Tyler Johnson,OFFENSIVE_REBOUND,None,7:27,3,Heat,Lakers,76 - 64,1,N/A,N/A,N/A
+40,Hassan Whiteside,FG_MISS,None,7:20,3,Heat,Lakers,76 - 64,1,12,2,Jumper
+41,Rodney McGruder,OFFENSIVE_REBOUND,None,7:17,3,Heat,Lakers,76 - 64,1,N/A,N/A,N/A
+42,Wayne Ellington,FG_ASSISTED,Rodney McGruder,7:14,3,Heat,Lakers,76 - 67,1,25,3,Jumper
+43,LeBron James,FG_UNASSISTED,None,6:55,3,Lakers,Heat,78 - 67,0,18,2,Jumper
+44,Wayne Ellington,FG_MISS,None,6:41,3,Heat,Lakers,78 - 67,1,22,3,Jumper
+45,LeBron James,DEFENSIVE_REBOUND,None,6:37,3,Lakers,Heat,78 - 67,0,N/A,N/A,N/A
+46,LeBron James,FG_MISS,None,6:25,3,Lakers,Heat,78 - 67,0,17,2,Jumper
+47,Wayne Ellington,DEFENSIVE_REBOUND,None,6:22,3,Heat,Lakers,78 - 67,1,N/A,N/A,N/A
+48,Justise Winslow,FG_MISS,None,6:15,3,Heat,Lakers,78 - 67,1,25,3,Jumper
+49,LeBron James,DEFENSIVE_REBOUND,None,6:12,3,Lakers,Heat,78 - 67,0,N/A,N/A,N/A
+50,Kyle Kuzma,FG_ASSISTED,LeBron James,6:09,3,Lakers,Heat,80 - 67,0,2,2,Jumper
+51,Hassan Whiteside,Unknown,None,6:09,3,Heat,Lakers,80 - 67,1,N/A,N/A,N/A
+52,Tyler Johnson,FG_ASSISTED,Justise Winslow,5:50,3,Heat,Lakers,80 - 69,1,0,2,Layup
+53,JaVale McGee,Unknown,None,5:50,3,Lakers,Heat,80 - 69,0,N/A,N/A,N/A
+54,Hassan Whiteside,FOUL_TECHNICAL,None,5:33,3,Heat,Lakers,80 - 69,1,N/A,N/A,N/A
+55,Brandon Ingram,FT,None,5:33,3,Lakers,Heat,81 - 69,0,N/A,1,N/A
+56,Josh Hart,SUBSTITUTION,Kuzma Kyle,5:33,3,Lakers,Heat,81 - 69,0,N/A,N/A,N/A
+57,Tyson Chandler,SUBSTITUTION,Ball Lonzo,5:33,3,Lakers,Heat,81 - 69,0,N/A,N/A,N/A
+58,Kentavious Caldwell-Pope,SUBSTITUTION,McGee JaVale,5:33,3,Lakers,Heat,81 - 69,0,N/A,N/A,N/A
+59,Kentavious Caldwell-Pope,FG_MISS,None,5:25,3,Lakers,Heat,81 - 69,0,25,3,Jumper
+60,Hassan Whiteside,DEFENSIVE_REBOUND,None,5:23,3,Heat,Lakers,81 - 69,1,N/A,N/A,N/A
+61,Josh Hart,FOUL_ON_FLOOR,None,5:18,3,Lakers,Heat,81 - 69,0,N/A,N/A,N/A
+62,Wayne Ellington,FG_MISS,None,5:05,3,Heat,Lakers,81 - 69,1, ,2,Jumper
+63,LeBron James,DEFENSIVE_REBOUND,None,5:02,3,Lakers,Heat,81 - 69,0,N/A,N/A,N/A
+64,Hassan Whiteside,FOUL_ON_FLOOR,None,4:57,3,Heat,Lakers,81 - 69,1,N/A,N/A,N/A
+65,LeBron James,FT,None,4:57,3,Lakers,Heat,82 - 69,0,N/A,1,N/A
+66,LeBron James,FT,None,4:57,3,Lakers,Heat,83 - 69,0,N/A,1,N/A
+67,Tyson Chandler,FOUL_ON_FLOOR,None,4:52,3,Lakers,Heat,83 - 69,0,N/A,N/A,N/A
+68,Hassan Whiteside,FT,None,4:52,3,Heat,Lakers,83 - 70,1,N/A,1,N/A
+69,Hassan Whiteside,FT_MISS,None,4:52,3,Heat,Lakers,83 - 70,1,N/A,1,N/A
+70,LeBron James,DEFENSIVE_REBOUND,None,4:50,3,Lakers,Heat,83 - 70,0,N/A,N/A,N/A
+71,LeBron James,FG_MISS,None,4:30,3,Lakers,Heat,83 - 70,0, ,2,Jumper
+72,Tyson Chandler,OFFENSIVE_REBOUND,None,4:28,3,Lakers,Heat,83 - 70,0,N/A,N/A,N/A
+73,Brandon Ingram,FG_MISS,None,4:20,3,Lakers,Heat,83 - 70,0,0,2,Layup
+74,Tyson Chandler,OFFENSIVE_REBOUND,None,4:18,3,Lakers,Heat,83 - 70,0,N/A,N/A,N/A
+75,Hassan Whiteside,FOUL_ON_FLOOR,None,4:16,3,Heat,Lakers,83 - 70,1,N/A,N/A,N/A
+76,Hassan Whiteside,TURNOVER,None,4:16,3,Heat,Lakers,83 - 70,1,N/A,N/A,N/A
+77,Tyson Chandler,FG_MISS,None,4:16,3,Lakers,Heat,83 - 70,0,4,2,Jumper
+78,Tyler Johnson,DEFENSIVE_REBOUND,None,4:16,3,Heat,Lakers,83 - 70,1,N/A,N/A,N/A
+79,Brandon Ingram,FG_MISS,None,4:02,3,Lakers,Heat,83 - 70,0,15,2,Jumper
+80,Team,DEFENSIVE_REBOUND,None,4:02,3,Heat,Lakers,83 - 70,1,N/A,N/A,N/A
+81,Tyson Chandler,FOUL_ON_FLOOR,None,4:02,3,Lakers,Heat,83 - 70,0,N/A,N/A,N/A
+82,Hassan Whiteside,FT_MISS,None,4:02,3,Heat,Lakers,83 - 70,1,N/A,1,N/A
+83,Team,OFFENSIVE_REBOUND,None,4:02,3,Heat,Lakers,83 - 70,1,N/A,N/A,N/A
+84,Lance Stephenson,SUBSTITUTION,Ingram Brandon,4:02,3,Lakers,Heat,83 - 70,0,N/A,N/A,N/A
+85,Hassan Whiteside,FT,None,4:02,3,Heat,Lakers,83 - 71,1,N/A,1,N/A
+86,Tyson Chandler,FOUL_ON_FLOOR,None,3:54,3,Lakers,Heat,83 - 71,0,N/A,N/A,N/A
+87,Tyson Chandler,TURNOVER,None,3:54,3,Lakers,Heat,83 - 71,0,N/A,N/A,N/A
+88,Tyler Johnson,TURNOVER,None,3:44,3,Heat,Lakers,83 - 71,1,N/A,N/A,N/A
+89,Tyler Johnson,TURNOVER,None,3:44,3,Heat,Lakers,83 - 71,1,N/A,N/A,N/A
+90,LeBron James,FG_UNASSISTED,None,3:26,3,Lakers,Heat,85 - 71,0,15,2,Jumper
+91,Tyler Johnson,FG_MISS,None,3:11,3,Heat,Lakers,85 - 71,1, ,2,Jumper
+92,LeBron James,DEFENSIVE_REBOUND,None,3:09,3,Lakers,Heat,85 - 71,0,N/A,N/A,N/A
+93,Josh Hart,FG_UNASSISTED,None,3:07,3,Lakers,Heat,87 - 71,0, ,2,Jumper
+94,Team,Unknown,None,3:07,3,Heat,Lakers,87 - 71,1,N/A,N/A,N/A
+95,Rodney McGruder,FG_MISS,Lance Stephenson,2:57,3,Lakers,Heat,87 - 71,1,0,2,Layup
+96,Team,DEFENSIVE_REBOUND,None,2:57,3,Lakers,Heat,87 - 71,0,N/A,N/A,N/A
+97,LeBron James,FG_UNASSISTED,None,2:34,3,Lakers,Heat,89 - 71,0,12,2,Jumper
+98,shot clock,TURNOVER,None,2:07,3,Heat,Lakers,89 - 71,1,N/A,N/A,N/A
+99,James Johnson,SUBSTITUTION,Winslow Justise,2:07,3,Heat,Lakers,89 - 71,1,N/A,N/A,N/A
+100,Bam Adebayo,SUBSTITUTION,Whiteside Hassan,2:07,3,Heat,Lakers,89 - 71,1,N/A,N/A,N/A
+101,LeBron James,FOUL_ON_FLOOR,None,1:58,3,Lakers,Heat,89 - 71,0,N/A,N/A,N/A
+102,LeBron James,TURNOVER,None,1:58,3,Lakers,Heat,89 - 71,0,N/A,N/A,N/A
+103,Rodney McGruder,FG_MISS,None,1:42,3,Heat,Lakers,89 - 71,1,27,3,Jumper
+104,Josh Hart,DEFENSIVE_REBOUND,None,1:40,3,Lakers,Heat,89 - 71,0,N/A,N/A,N/A
+105,LeBron James,FG_UNASSISTED,None,1:23,3,Lakers,Heat,92 - 71,0,26,2,Jumper
+106,James Johnson,FG_MISS,None,58.7,3,Heat,Lakers,92 - 71,1,12,2,Jumper
+107,Bam Adebayo,OFFENSIVE_REBOUND,None,57.7,3,Heat,Lakers,92 - 71,1,N/A,N/A,N/A
+108,shot clock,TURNOVER,None,57.2,3,Heat,Lakers,92 - 71,1,N/A,N/A,N/A
+109,Lonzo Ball,SUBSTITUTION,James LeBron,57.2,3,Lakers,Heat,92 - 71,0,N/A,N/A,N/A
+110,Josh Hart,FG_MISS,None,46.5,3,Lakers,Heat,92 - 71,0,25,3,Jumper
+111,Bam Adebayo,DEFENSIVE_REBOUND,None,44.4,3,Heat,Lakers,92 - 71,1,N/A,N/A,N/A
+112,Lance Stephenson,FOUL_ON_FLOOR,None,33.6,3,Lakers,Heat,92 - 71,0,N/A,N/A,N/A
+113,James Johnson,FT,None,33.6,3,Heat,Lakers,92 - 72,1,N/A,1,N/A
+114,Derrick Jones,SUBSTITUTION,Ellington Wayne,33.6,3,Heat,Lakers,92 - 72,1,N/A,N/A,N/A
+115,James Johnson,FT,None,33.6,3,Heat,Lakers,92 - 73,1,N/A,1,N/A
+116,Lonzo Ball,FG_MISS,None,29.5,3,Lakers,Heat,92 - 73,0,26,3,Jumper
+117,Rodney McGruder,DEFENSIVE_REBOUND,None,26.6,3,Heat,Lakers,92 - 73,1,N/A,N/A,N/A
+118,James Johnson,FG_ASSISTED,Rodney McGruder,10.4,3,Heat,Lakers,92 - 76,1, ,3,Jumper
+119,Lonzo Ball,FG_MISS,None,1.9,3,Lakers,Heat,92 - 76,0, ,2,Jumper
+120,Bam Adebayo,DEFENSIVE_REBOUND,None,0.6,3,Heat,Lakers,92 - 76,1,N/A,N/A,N/A
+121,End of,Unknown,None,0.0,3,Heat,Lakers,92 - 76,1,N/A,N/A,N/A
+0,Josh Richardson,SUBSTITUTION,McGruder Rodney,12:00,4,Heat,Lakers,92 - 76,1,N/A,N/A,N/A
+1,JaVale McGee,SUBSTITUTION,Chandler Tyson,12:00,4,Lakers,Heat,92 - 76,0,N/A,N/A,N/A
+2,Bam Adebayo,FG_MISS,None,11:42,4,Heat,Lakers,92 - 76,1,11,2,Jumper
+3,Lance Stephenson,DEFENSIVE_REBOUND,None,11:39,4,Lakers,Heat,92 - 76,0,N/A,N/A,N/A
+4,JaVale McGee,FG_ASSISTED,Lonzo Ball,11:29,4,Lakers,Heat,94 - 76,0,0,2,Layup
+5,Tyler Johnson,FG_ASSISTED,James Johnson,11:16,4,Heat,Lakers,94 - 78,1,0,2,Layup
+6,Josh Hart,TURNOVER,None,10:57,4,Lakers,Heat,94 - 78,0,N/A,N/A,N/A
+7,Brandon Ingram,SUBSTITUTION,Ball Lonzo,10:57,4,Lakers,Heat,94 - 78,0,N/A,N/A,N/A
+8,Tyler Johnson,FG_MISS,None,10:49,4,Heat,Lakers,94 - 78,1,25,3,Jumper
+9,JaVale McGee,DEFENSIVE_REBOUND,None,10:47,4,Lakers,Heat,94 - 78,0,N/A,N/A,N/A
+10,JaVale McGee,FG_MISS,None,10:30,4,Lakers,Heat,94 - 78,0,7,2,Jumper
+11,Bam Adebayo,DEFENSIVE_REBOUND,None,10:27,4,Heat,Lakers,94 - 78,1,N/A,N/A,N/A
+12,Josh Richardson,FG_UNASSISTED,None,10:19,4,Heat,Lakers,94 - 80,1,0,2,Layup
+13,Josh Hart,FG_MISS,None,10:04,4,Lakers,Heat,94 - 80,0,11,2,Jumper
+14,Josh Richardson,DEFENSIVE_REBOUND,None,10:01,4,Heat,Lakers,94 - 80,1,N/A,N/A,N/A
+15,Derrick Jones,FG_MISS,None,9:48,4,Heat,Lakers,94 - 80,1,0,2,Layup
+16,Kentavious Caldwell-Pope,DEFENSIVE_REBOUND,None,9:46,4,Lakers,Heat,94 - 80,0,N/A,N/A,N/A
+17,Lance Stephenson,FG_MISS,None,9:30,4,Lakers,Heat,94 - 80,0,25,3,Jumper
+18,Derrick Jones,DEFENSIVE_REBOUND,None,9:28,4,Heat,Lakers,94 - 80,1,N/A,N/A,N/A
+19,James Johnson,FG_MISS,Kentavious Caldwell-Pope,9:24,4,Lakers,Heat,94 - 80,1,0,2,Layup
+20,Team,OFFENSIVE_REBOUND,None,9:24,4,Heat,Lakers,94 - 80,1,N/A,N/A,N/A
+21,Kentavious Caldwell-Pope,FOUL_ON_FLOOR,None,9:22,4,Lakers,Heat,94 - 80,0,N/A,N/A,N/A
+22,Josh Richardson,FG_UNASSISTED,None,9:10,4,Heat,Lakers,94 - 82,1,0,2,Layup
+23,Lance Stephenson,FG_MISS,Bam Adebayo,8:55,4,Heat,Lakers,94 - 82,0,8,2,Jumper
+24,Josh Richardson,DEFENSIVE_REBOUND,None,8:55,4,Heat,Lakers,94 - 80,1,N/A,N/A,N/A
+25,Derrick Jones,FG_MISS,None,8:49,4,Heat,Lakers,94 - 80,1,0,2,Dunk
+26,Brandon Ingram,DEFENSIVE_REBOUND,None,8:49,4,Lakers,Heat,94 - 80,0,N/A,N/A,N/A
+27,James Johnson,FOUL_ON_FLOOR,None,8:36,4,Heat,Lakers,94 - 80,1,N/A,N/A,N/A
+28,Wayne Ellington,SUBSTITUTION,Johnson James,8:36,4,Heat,Lakers,94 - 80,1,N/A,N/A,N/A
+29,Brandon Ingram,FG_UNASSISTED,None,8:26,4,Lakers,Heat,96 - 80,0,0,2,Layup
+30,Josh Richardson,FG_MISS,Josh Hart,8:12,4,Lakers,Heat,96 - 82,1,0,2,Layup
+31,Kentavious Caldwell-Pope,DEFENSIVE_REBOUND,None,8:09,4,Lakers,Heat,96 - 80,0,N/A,N/A,N/A
+32,Tyler Johnson,FOUL_ON_FLOOR,None,8:08,4,Heat,Lakers,96 - 80,1,N/A,N/A,N/A
+33,LeBron James,SUBSTITUTION,Stephenson Lance,8:08,4,Lakers,Heat,96 - 80,0,N/A,N/A,N/A
+34,LeBron James,FG_UNASSISTED,None,7:51,4,Lakers,Heat,98 - 80,0,20,2,Jumper
+35,Josh Richardson,FG_ASSISTED,Bam Adebayo,7:36,4,Heat,Lakers,98 - 84,1,0,2,Dunk
+36,Derrick Jones,FOUL_ON_FLOOR,None,7:21,4,Heat,Lakers,98 - 84,1,N/A,N/A,N/A
+37,LeBron James,FG_MISS,None,7:03,4,Lakers,Heat,98 - 84,0,21,2,Jumper
+38,Josh Richardson,DEFENSIVE_REBOUND,None,6:58,4,Heat,Lakers,98 - 84,1,N/A,N/A,N/A
+39,Team,Unknown,None,6:52,4,Heat,Lakers,98 - 84,1,N/A,N/A,N/A
+40,Josh Hart,JUMP_BALL,None,6:49,4,Heat,Lakers,98 - 84,1,N/A,N/A,N/A
+41,Josh Richardson,FG_MISS,None,6:40,4,Heat,Lakers,98 - 84,1,0,2,Dunk
+42,Bam Adebayo,OFFENSIVE_REBOUND,None,6:37,4,Heat,Lakers,98 - 84,1,N/A,N/A,N/A
+43,Bam Adebayo,FG_UNASSISTED,None,6:37,4,Heat,Lakers,98 - 86,1,3,2,Jumper
+44,JaVale McGee,Unknown,None,6:37,4,Lakers,Heat,98 - 86,0,N/A,N/A,N/A
+45,Josh Richardson,FOUL_ON_FLOOR,None,6:31,4,Heat,Lakers,98 - 86,1,N/A,N/A,N/A
+46,Josh Richardson,FOUL_TECHNICAL,None,6:31,4,Heat,Lakers,98 - 86,1,N/A,N/A,N/A
+47,Kentavious Caldwell-Pope,FT,None,6:31,4,Lakers,Heat,99 - 86,0,N/A,1,N/A
+48,Josh Richardson,Unknown,None,6:31,4,Heat,Lakers,99 - 86,1,N/A,N/A,N/A
+49,Rodney McGruder,SUBSTITUTION,Richardson Josh,6:31,4,Heat,Lakers,99 - 86,1,N/A,N/A,N/A
+50,Erik Spoelstra,FOUL_TECHNICAL,None,6:27,4,Heat,Lakers,99 - 86,1,N/A,N/A,N/A
+51,Kentavious Caldwell-Pope,FT,None,6:27,4,Lakers,Heat,100 - 86,0,N/A,1,N/A
+52,LeBron James,FG_MISS,None,6:15,4,Lakers,Heat,100 - 86,0,20,2,Jumper
+53,Tyler Johnson,DEFENSIVE_REBOUND,None,6:12,4,Heat,Lakers,100 - 86,1,N/A,N/A,N/A
+54,Tyler Johnson,FG_MISS,None,5:56,4,Heat,Lakers,100 - 86,1,25,3,Jumper
+55,Derrick Jones,OFFENSIVE_REBOUND,None,5:54,4,Heat,Lakers,100 - 86,1,N/A,N/A,N/A
+56,Rodney McGruder,FG_MISS,None,5:52,4,Heat,Lakers,100 - 86,1,25,3,Jumper
+57,Josh Hart,DEFENSIVE_REBOUND,None,5:48,4,Lakers,Heat,100 - 86,0,N/A,N/A,N/A
+58,Josh Hart,FG_MISS,None,5:38,4,Lakers,Heat,100 - 86,0,21,2,Jumper
+59,Bam Adebayo,DEFENSIVE_REBOUND,None,5:36,4,Heat,Lakers,100 - 86,1,N/A,N/A,N/A
+60,Wayne Ellington,FG_ASSISTED,Bam Adebayo,5:28,4,Heat,Lakers,100 - 89,1,24,3,Jumper
+61,Team,Unknown,None,5:28,4,Lakers,Heat,100 - 89,0,N/A,N/A,N/A
+62,Tyson Chandler,SUBSTITUTION,McGee JaVale,5:28,4,Lakers,Heat,100 - 89,0,N/A,N/A,N/A
+63,Brandon Ingram,FG_UNASSISTED,None,5:05,4,Lakers,Heat,102 - 89,0,11,2,Jumper
+64,Derrick Jones,FG_ASSISTED,Bam Adebayo,4:50,4,Heat,Lakers,102 - 91,1,0,2,Layup
+65,Kentavious Caldwell-Pope,FG_MISS,None,4:31,4,Lakers,Heat,102 - 91,0,0,2,Layup
+66,Kentavious Caldwell-Pope,OFFENSIVE_REBOUND,None,4:28,4,Lakers,Heat,102 - 91,0,N/A,N/A,N/A
+67,Kentavious Caldwell-Pope,FG_MISS,None,4:28,4,Lakers,Heat,102 - 91,0, ,2,Jumper
+68,Derrick Jones,DEFENSIVE_REBOUND,None,4:27,4,Heat,Lakers,102 - 91,1,N/A,N/A,N/A
+69,Wayne Ellington,FG_ASSISTED,Tyler Johnson,4:17,4,Heat,Lakers,102 - 94,1,24,3,Jumper
+70,LeBron James,FG_MISS,None,3:54,4,Lakers,Heat,102 - 94,0,0,2,Layup
+71,Tyson Chandler,FG_MISS,None,3:53,4,Lakers,Heat,102 - 94,0,0,2,Dunk
+72,Brandon Ingram,OFFENSIVE_REBOUND,None,3:51,4,Lakers,Heat,102 - 94,0,N/A,N/A,N/A
+73,Tyson Chandler,OFFENSIVE_REBOUND,None,3:50,4,Lakers,Heat,102 - 94,0,N/A,N/A,N/A
+74,Brandon Ingram,FG_UNASSISTED,None,3:46,4,Lakers,Heat,104 - 94,0,20,2,Jumper
+75,Wayne Ellington,FG_MISS,None,3:27,4,Heat,Lakers,104 - 94,1,25,3,Jumper
+76,Derrick Jones,OFFENSIVE_REBOUND,None,3:25,4,Heat,Lakers,104 - 94,1,N/A,N/A,N/A
+77,Derrick Jones,FG_UNASSISTED,None,3:25,4,Heat,Lakers,104 - 96,1,0,2,Dunk
+78,Double technical,FOUL_TECHNICAL,None,3:25,4,Heat,Lakers,104 - 96,1,N/A,N/A,N/A
+79,Kentavious Caldwell-Pope,FG_UNASSISTED,None,3:05,4,Lakers,Heat,106 - 96,0,0,2,Layup
+80,Tyler Johnson,FG_MISS,None,2:43,4,Heat,Lakers,106 - 96,1,0,2,Layup
+81,Tyson Chandler,DEFENSIVE_REBOUND,None,2:41,4,Lakers,Heat,106 - 96,0,N/A,N/A,N/A
+82,LeBron James,FG_MISS,None,2:21,4,Lakers,Heat,106 - 96,0,17,2,Jumper
+83,Kentavious Caldwell-Pope,OFFENSIVE_REBOUND,None,2:17,4,Lakers,Heat,106 - 96,0,N/A,N/A,N/A
+84,Rodney McGruder,FOUL_ON_FLOOR,None,2:11,4,Heat,Lakers,106 - 96,1,N/A,N/A,N/A
+85,LeBron James,FT,None,2:11,4,Lakers,Heat,107 - 96,0,N/A,1,N/A
+86,LeBron James,FT,None,2:11,4,Lakers,Heat,108 - 96,0,N/A,1,N/A
+87,Josh Hart,FOUL_ON_FLOOR,None,2:04,4,Lakers,Heat,108 - 96,0,N/A,N/A,N/A
+88,Tyler Johnson,FT_MISS,None,2:04,4,Heat,Lakers,108 - 96,1,N/A,1,N/A
+89,Team,OFFENSIVE_REBOUND,None,2:04,4,Heat,Lakers,108 - 96,1,N/A,N/A,N/A
+90,Tyler Johnson,FT,None,2:04,4,Heat,Lakers,108 - 97,1,N/A,1,N/A
+91,LeBron James,FG_MISS,None,1:43,4,Lakers,Heat,108 - 97,0,16,2,Jumper
+92,Tyler Johnson,DEFENSIVE_REBOUND,None,1:39,4,Heat,Lakers,108 - 97,1,N/A,N/A,N/A
+93,Derrick Jones,FOUL_ON_FLOOR,None,1:34,4,Heat,Lakers,108 - 97,1,N/A,N/A,N/A
+94,Derrick Jones,TURNOVER,None,1:34,4,Heat,Lakers,108 - 97,1,N/A,N/A,N/A
+95,Kentavious Caldwell-Pope,FG_MISS,None,1:09,4,Lakers,Heat,108 - 97,0,0,2,Layup
+96,Tyler Johnson,DEFENSIVE_REBOUND,None,1:08,4,Heat,Lakers,108 - 97,1,N/A,N/A,N/A
+97,Rodney McGruder,FG_MISS,None,1:03,4,Heat,Lakers,108 - 97,1, ,3,Jumper
+98,Brandon Ingram,DEFENSIVE_REBOUND,None,1:00,4,Lakers,Heat,108 - 97,0,N/A,N/A,N/A
+99,LeBron James,FG_UNASSISTED,None,43.2,4,Lakers,Heat,110 - 97,0,22,2,Jumper
+100,Team,Unknown,None,43.2,4,Heat,Lakers,110 - 97,1,N/A,N/A,N/A
+101,Sviatoslav Mykhailiuk,SUBSTITUTION,Caldwell-Pope Kentavious,43.2,4,Lakers,Heat,110 - 97,0,N/A,N/A,N/A
+102,Team,Unknown,None,43.2,4,Heat,Lakers,110 - 97,1,N/A,N/A,N/A
+103,Bam Adebayo,FG_MISS,None,34.5,4,Heat,Lakers,110 - 97,1,0,2,Layup
+104,Tyson Chandler,DEFENSIVE_REBOUND,None,32.9,4,Lakers,Heat,110 - 97,0,N/A,N/A,N/A
+105,LeBron James,FG_UNASSISTED,None,16.5,4,Lakers,Heat,113 - 97,0,32,3,Jumper
+106,Rodney McGruder,TURNOVER,Tyson Chandler,5.0,4,Heat,Lakers,113 - 97,1,N/A,N/A,N/A
+107,End of,Unknown,None,0.0,4,Heat,Lakers,113 - 97,1,N/A,N/A,N/A
+108,End of,Unknown,None,0.0,4,Heat,Lakers,113 - 97,1,N/A,N/A,N/A

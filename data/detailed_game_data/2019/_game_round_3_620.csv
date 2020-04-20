@@ -1,0 +1,470 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Clint Capela,JUMP_BALL,None,12:00,1,Rockets,Lakers,0 - 0,0,N/A,N/A,N/A
+1,Clint Capela,FG_MISS,None,11:32,1,Rockets,Lakers,0 - 0,0,5,2,Jumper
+2,LeBron James,DEFENSIVE_REBOUND,None,11:30,1,Lakers,Rockets,0 - 0,1,N/A,N/A,N/A
+3,LeBron James,TURNOVER,None,11:21,1,Lakers,Rockets,0 - 0,1,N/A,N/A,N/A
+4,James Harden's,FG_MISS,JaVale McGee,11:06,1,Lakers,Rockets,0 - 0,0,0,2,Layup
+5,Kyle Kuzma,DEFENSIVE_REBOUND,None,11:03,1,Lakers,Rockets,0 - 0,1,N/A,N/A,N/A
+6,Brandon Ingram,FG_MISS,None,11:00,1,Lakers,Rockets,0 - 0,1,-,2,Jumper
+7,James Harden,DEFENSIVE_REBOUND,None,10:55,1,Rockets,Lakers,0 - 0,0,N/A,N/A,N/A
+8,James Harden,TURNOVER,Kyle Kuzma,10:52,1,Rockets,Lakers,0 - 0,0,N/A,N/A,N/A
+9,Kyle Kuzma,FG_MISS,None,10:46,1,Lakers,Rockets,0 - 0,1,-,2,Jumper
+10,Chris Paul,DEFENSIVE_REBOUND,None,10:44,1,Rockets,Lakers,0 - 0,0,N/A,N/A,N/A
+11,Chris Paul,FG_UNASSISTED,None,10:31,1,Rockets,Lakers,3 - 0,0,24,2,Jumper
+12,PJ Tucker,FOUL_ON_FLOOR,None,10:11,1,Rockets,Lakers,3 - 0,0,N/A,N/A,N/A
+13,Brandon Ingram,FT_MISS,None,10:11,1,Lakers,Rockets,3 - 0,1,N/A,1,N/A
+14,Team,OFFENSIVE_REBOUND,None,10:11,1,Lakers,Rockets,3 - 0,1,N/A,N/A,N/A
+15,Brandon Ingram,FT_MISS,None,10:11,1,Lakers,Rockets,3 - 0,1,N/A,1,N/A
+16,JaVale McGee,OFFENSIVE_REBOUND,None,10:08,1,Lakers,Rockets,3 - 0,1,N/A,N/A,N/A
+17,LeBron James,FG_UNASSISTED,None,10:05,1,Lakers,Rockets,3 - 2,1,22,2,Jumper
+18,Eric Gordon,FG_MISS,None,9:50,1,Rockets,Lakers,3 - 2,0,27,2,Jumper
+19,Brandon Ingram,DEFENSIVE_REBOUND,None,9:46,1,Lakers,Rockets,3 - 2,1,N/A,N/A,N/A
+20,Reggie Bullock,FG_MISS,None,9:38,1,Lakers,Rockets,3 - 2,1,27,3,Jumper
+21,JaVale McGee,OFFENSIVE_REBOUND,None,9:33,1,Lakers,Rockets,3 - 2,1,N/A,N/A,N/A
+22,Kyle Kuzma,FG_ASSISTED,JaVale McGee,9:32,1,Lakers,Rockets,3 - 5,1,27,3,Jumper
+23,Eric Gordon,FG_ASSISTED,James Harden,9:18,1,Rockets,Lakers,6 - 5,0,27,3,Jumper
+24,Brandon Ingram,FG_UNASSISTED,None,8:51,1,Lakers,Rockets,6 - 7,1,2,2,Jumper
+25,Brandon Ingram,FOUL_ON_FLOOR,None,8:41,1,Lakers,Rockets,6 - 7,1,N/A,N/A,N/A
+26,JaVale McGee,FOUL_ON_FLOOR,None,8:36,1,Lakers,Rockets,6 - 7,1,N/A,N/A,N/A
+27,Clint Capela,FG_MISS,LeBron James,8:26,1,Lakers,Rockets,6 - 7,0,0,2,Layup
+28,Chris Paul,OFFENSIVE_REBOUND,None,8:23,1,Rockets,Lakers,6 - 7,0,N/A,N/A,N/A
+29,James Harden,FG_MISS,None,8:22,1,Rockets,Lakers,6 - 7,0,27,3,Jumper
+30,JaVale McGee,DEFENSIVE_REBOUND,None,8:19,1,Lakers,Rockets,6 - 7,1,N/A,N/A,N/A
+31,LeBron James,FG_MISS,None,8:12,1,Lakers,Rockets,6 - 7,1,20,2,Jumper
+32,James Harden,DEFENSIVE_REBOUND,None,8:09,1,Rockets,Lakers,6 - 7,0,N/A,N/A,N/A
+33,James Harden,FG_UNASSISTED,None,8:01,1,Rockets,Lakers,8 - 7,0,2,2,Jumper
+34,LeBron James,TURNOVER,Eric Gordon,7:48,1,Lakers,Rockets,8 - 7,1,N/A,N/A,N/A
+35,Clint Capela,FG_ASSISTED,Eric Gordon,7:44,1,Rockets,Lakers,10 - 7,0,0,2,Dunk
+36,Reggie Bullock,FG_MISS,None,7:30,1,Lakers,Rockets,10 - 7,1,27,3,Jumper
+37,Chris Paul,DEFENSIVE_REBOUND,None,7:26,1,Rockets,Lakers,10 - 7,0,N/A,N/A,N/A
+38,PJ Tucker,FG_MISS,None,7:20,1,Rockets,Lakers,10 - 7,0,24,3,Jumper
+39,Brandon Ingram,DEFENSIVE_REBOUND,None,7:18,1,Lakers,Rockets,10 - 7,1,N/A,N/A,N/A
+40,James Harden,FOUL_ON_FLOOR,None,7:15,1,Rockets,Lakers,10 - 7,0,N/A,N/A,N/A
+41,Brandon Ingram,FG_ASSISTED,LeBron James,7:07,1,Lakers,Rockets,10 - 9,1,0,2,Layup
+42,Chris Paul,FG_MISS,None,6:51,1,Rockets,Lakers,10 - 9,0,11,2,Jumper
+43,LeBron James,DEFENSIVE_REBOUND,None,6:49,1,Lakers,Rockets,10 - 9,1,N/A,N/A,N/A
+44,PJ Tucker,Unknown,None,6:46,1,Rockets,Lakers,10 - 9,0,N/A,N/A,N/A
+45,Team,Unknown,None,6:46,1,Lakers,Rockets,10 - 9,1,N/A,N/A,N/A
+46,Gerald Green,SUBSTITUTION,Paul Chris,6:46,1,Rockets,Lakers,10 - 9,0,N/A,N/A,N/A
+47,Kyle Kuzma,FG_MISS,None,6:38,1,Lakers,Rockets,10 - 9,1,27,3,Jumper
+48,LeBron James,OFFENSIVE_REBOUND,None,6:34,1,Lakers,Rockets,10 - 9,1,N/A,N/A,N/A
+49,Reggie Bullock,FG_ASSISTED,Kyle Kuzma,6:24,1,Lakers,Rockets,10 - 12,1,27,3,Jumper
+50,Clint Capela,FG_ASSISTED,James Harden,6:10,1,Rockets,Lakers,12 - 12,0,0,2,Dunk
+51,JaVale McGee,FG_ASSISTED,Kyle Kuzma,5:50,1,Lakers,Rockets,12 - 14,1,13,2,Jumper
+52,James Harden,FOUL_ON_FLOOR,None,5:50,1,Rockets,Lakers,12 - 14,0,N/A,N/A,N/A
+53,Kentavious Caldwell-Pope,SUBSTITUTION,Ingram Brandon,5:50,1,Lakers,Rockets,12 - 14,1,N/A,N/A,N/A
+54,Rajon Rondo,SUBSTITUTION,Bullock Reggie,5:50,1,Lakers,Rockets,12 - 14,1,N/A,N/A,N/A
+55,Austin Rivers,SUBSTITUTION,Gordon Eric,5:50,1,Rockets,Lakers,12 - 14,0,N/A,N/A,N/A
+56,JaVale McGee,FT,None,5:50,1,Lakers,Rockets,12 - 15,1,N/A,1,N/A
+57,JaVale McGee,FOUL_ON_FLOOR,None,5:41,1,Lakers,Rockets,12 - 15,1,N/A,N/A,N/A
+58,James Harden,FT,None,5:41,1,Rockets,Lakers,13 - 15,0,N/A,1,N/A
+59,Tyson Chandler,SUBSTITUTION,McGee JaVale,5:41,1,Lakers,Rockets,13 - 15,1,N/A,N/A,N/A
+60,James Harden,FT,None,5:41,1,Rockets,Lakers,14 - 15,0,N/A,1,N/A
+61,LeBron James,FG_MISS,None,5:26,1,Lakers,Rockets,14 - 15,1,0,2,Layup
+62,Clint Capela,DEFENSIVE_REBOUND,None,5:24,1,Rockets,Lakers,14 - 15,0,N/A,N/A,N/A
+63,Clint Capela,FG_ASSISTED,James Harden,5:15,1,Rockets,Lakers,16 - 15,0,2,2,Jumper
+64,Rajon Rondo,TURNOVER,None,5:04,1,Lakers,Rockets,16 - 15,1,N/A,N/A,N/A
+65,Nene Hilario,SUBSTITUTION,Capela Clint,5:04,1,Rockets,Lakers,16 - 15,0,N/A,N/A,N/A
+66,James Harden,TURNOVER,None,4:46,1,Rockets,Lakers,16 - 15,0,N/A,N/A,N/A
+67,Kyle Kuzma,FG_ASSISTED,Rajon Rondo,4:30,1,Lakers,Rockets,16 - 17,1,0,2,Dunk
+68,Kentavious Caldwell-Pope,FOUL_ON_FLOOR,None,4:07,1,Lakers,Rockets,16 - 17,1,N/A,N/A,N/A
+69,James Harden,FT,None,4:07,1,Rockets,Lakers,17 - 17,0,N/A,1,N/A
+70,James Harden,FT,None,4:07,1,Rockets,Lakers,18 - 17,0,N/A,1,N/A
+71,Rajon Rondo,TURNOVER,None,3:59,1,Lakers,Rockets,18 - 17,1,N/A,N/A,N/A
+72,James Harden,FOUL_ON_FLOOR,None,3:51,1,Rockets,Lakers,18 - 17,0,N/A,N/A,N/A
+73,James Harden,TURNOVER,None,3:51,1,Rockets,Lakers,18 - 17,0,N/A,N/A,N/A
+74,Chris Paul,SUBSTITUTION,Harden James,3:51,1,Rockets,Lakers,18 - 17,0,N/A,N/A,N/A
+75,Kentavious Caldwell-Pope,FG_MISS,None,3:42,1,Lakers,Rockets,18 - 17,1, ,2,Jumper
+76,Team,OFFENSIVE_REBOUND,None,3:41,1,Lakers,Rockets,18 - 17,1,N/A,N/A,N/A
+77,Kentavious Caldwell-Pope,FG_MISS,None,3:36,1,Lakers,Rockets,18 - 17,1,25,3,Jumper
+78,Chris Paul,DEFENSIVE_REBOUND,None,3:31,1,Rockets,Lakers,18 - 17,0,N/A,N/A,N/A
+79,Gerald Green,FG_MISS,None,3:23,1,Rockets,Lakers,18 - 17,0,26,3,Jumper
+80,Kyle Kuzma,DEFENSIVE_REBOUND,None,3:22,1,Lakers,Rockets,18 - 17,1,N/A,N/A,N/A
+81,Gerald Green,FOUL_ON_FLOOR,None,3:22,1,Rockets,Lakers,18 - 17,0,N/A,N/A,N/A
+82,LeBron James,TURNOVER,None,3:07,1,Lakers,Rockets,18 - 17,1,N/A,N/A,N/A
+83,Gerald Green,FG_ASSISTED,Chris Paul,2:54,1,Rockets,Lakers,20 - 17,0,0,2,Layup
+84,LeBron James,FG_ASSISTED,Rajon Rondo,2:47,1,Lakers,Rockets,20 - 19,1, ,2,Jumper
+85,Nene Hilario,Unknown,None,2:47,1,Rockets,Lakers,20 - 19,0,N/A,N/A,N/A
+86,Austin Rivers,FG_UNASSISTED,None,2:33,1,Rockets,Lakers,22 - 19,0, ,2,Jumper
+87,Kyle Kuzma,FG_MISS,None,2:24,1,Lakers,Rockets,22 - 19,1,20,2,Jumper
+88,Austin Rivers,DEFENSIVE_REBOUND,None,2:20,1,Rockets,Lakers,22 - 19,0,N/A,N/A,N/A
+89,Chris Paul,FG_MISS,None,2:13,1,Rockets,Lakers,22 - 19,0,14,2,Jumper
+90,Team,OFFENSIVE_REBOUND,None,2:12,1,Rockets,Lakers,22 - 19,0,N/A,N/A,N/A
+91,Kentavious Caldwell-Pope,FOUL_ON_FLOOR,None,2:12,1,Lakers,Rockets,22 - 19,1,N/A,N/A,N/A
+92,Team,Unknown,None,2:12,1,Rockets,Lakers,22 - 19,0,N/A,N/A,N/A
+93,Lance Stephenson,SUBSTITUTION,Kuzma Kyle,2:12,1,Lakers,Rockets,22 - 19,1,N/A,N/A,N/A
+94,Brandon Ingram,SUBSTITUTION,James LeBron,2:12,1,Lakers,Rockets,22 - 19,1,N/A,N/A,N/A
+95,Kenneth Faried,SUBSTITUTION,Tucker PJ,2:12,1,Rockets,Lakers,22 - 19,0,N/A,N/A,N/A
+96,Nene Hilario,FT,None,2:12,1,Rockets,Lakers,23 - 19,0,N/A,1,N/A
+97,Nene Hilario,FT,None,2:12,1,Rockets,Lakers,24 - 19,0,N/A,1,N/A
+98,Kentavious Caldwell-Pope,TURNOVER,Chris Paul,2:02,1,Lakers,Rockets,24 - 19,1,N/A,N/A,N/A
+99,Gerald Green,FG_MISS,None,1:57,1,Rockets,Lakers,24 - 19,0,25,3,Jumper
+100,Brandon Ingram,DEFENSIVE_REBOUND,None,1:53,1,Lakers,Rockets,24 - 19,1,N/A,N/A,N/A
+101,Brandon Ingram,FG_UNASSISTED,None,1:48,1,Lakers,Rockets,24 - 21,1, ,2,Jumper
+102,Kenneth Faried,FOUL_ON_FLOOR,None,1:48,1,Rockets,Lakers,24 - 21,0,N/A,N/A,N/A
+103,Brandon Ingram,FT,None,1:48,1,Lakers,Rockets,24 - 22,1,N/A,1,N/A
+104,Lance Stephenson,FOUL_ON_FLOOR,None,1:33,1,Lakers,Rockets,24 - 22,1,N/A,N/A,N/A
+105,Kenneth Faried,FT,None,1:33,1,Rockets,Lakers,25 - 22,0,N/A,1,N/A
+106,Kenneth Faried,FT,None,1:33,1,Rockets,Lakers,26 - 22,0,N/A,1,N/A
+107,Rajon Rondo,FG_MISS,None,1:15,1,Lakers,Rockets,26 - 22,1,13,2,Jumper
+108,Chris Paul,DEFENSIVE_REBOUND,None,1:12,1,Rockets,Lakers,26 - 22,0,N/A,N/A,N/A
+109,Kenneth Faried,FG_ASSISTED,Chris Paul,58.1,1,Rockets,Lakers,29 - 22,0,27,3,Jumper
+110,Tyson Chandler,TURNOVER,Austin Rivers,47.4,1,Lakers,Rockets,29 - 22,1,N/A,N/A,N/A
+111,Austin Rivers,FG_ASSISTED,Chris Paul,41.2,1,Rockets,Lakers,32 - 22,0,26,2,Jumper
+112,Kentavious Caldwell-Pope,FG_MISS,None,23.0,1,Lakers,Rockets,32 - 22,1,24,3,Jumper
+113,Chris Paul,DEFENSIVE_REBOUND,None,20.5,1,Rockets,Lakers,32 - 22,0,N/A,N/A,N/A
+114,Chris Paul,FG_MISS,None,3.0,1,Rockets,Lakers,32 - 22,0,26,3,Jumper
+115,Tyson Chandler,DEFENSIVE_REBOUND,None,1.0,1,Lakers,Rockets,32 - 22,1,N/A,N/A,N/A
+116,End of,Unknown,None,0.0,1,Lakers,Rockets,32 - 22,1,N/A,N/A,N/A
+0,LeBron James,SUBSTITUTION,Chandler Tyson,12:00,2,Lakers,Rockets,32 - 22,1,N/A,N/A,N/A
+1,Eric Gordon,SUBSTITUTION,Green Gerald,12:00,2,Rockets,Lakers,32 - 22,0,N/A,N/A,N/A
+2,Clint Capela,SUBSTITUTION,Hilario Nene,12:00,2,Rockets,Lakers,32 - 22,0,N/A,N/A,N/A
+3,Chris Paul,FOUL_ON_FLOOR,None,11:49,2,Rockets,Lakers,32 - 22,0,N/A,N/A,N/A
+4,Brandon Ingram,FG_MISS,None,11:41,2,Lakers,Rockets,32 - 22,1,0,2,Layup
+5,Clint Capela,DEFENSIVE_REBOUND,None,11:38,2,Rockets,Lakers,32 - 22,0,N/A,N/A,N/A
+6,Austin Rivers,FG_MISS,None,11:23,2,Rockets,Lakers,32 - 22,0,25,2,Jumper
+7,Rajon Rondo,DEFENSIVE_REBOUND,None,11:21,2,Lakers,Rockets,32 - 22,1,N/A,N/A,N/A
+8,LeBron James,FG_ASSISTED,Brandon Ingram,11:07,2,Lakers,Rockets,32 - 24,1, ,2,Jumper
+9,Eric Gordon,FG_ASSISTED,Chris Paul,10:47,2,Rockets,Lakers,35 - 24,0,27,3,Jumper
+10,Lance Stephenson,FG_MISS,None,10:32,2,Lakers,Rockets,35 - 24,1,25,3,Jumper
+11,Kenneth Faried,DEFENSIVE_REBOUND,None,10:28,2,Rockets,Lakers,35 - 24,0,N/A,N/A,N/A
+12,Clint Capela,TURNOVER,LeBron James,10:21,2,Rockets,Lakers,35 - 24,0,N/A,N/A,N/A
+13,Lance Stephenson's,FG_MISS,Chris Paul,10:16,2,Rockets,Lakers,35 - 24,1,0,2,Layup
+14,Team,OFFENSIVE_REBOUND,None,10:16,2,Lakers,Rockets,35 - 24,1,N/A,N/A,N/A
+15,Kentavious Caldwell-Pope,FG_ASSISTED,Rajon Rondo,10:13,2,Lakers,Rockets,35 - 27,1,23,3,Jumper
+16,Clint Capela,FG_MISS,None,9:52,2,Rockets,Lakers,35 - 27,0, ,2,Jumper
+17,Brandon Ingram,DEFENSIVE_REBOUND,None,9:49,2,Lakers,Rockets,35 - 27,1,N/A,N/A,N/A
+18,LeBron James,FG_MISS,None,9:43,2,Lakers,Rockets,35 - 27,1,9,2,Jumper
+19,Chris Paul,DEFENSIVE_REBOUND,None,9:41,2,Rockets,Lakers,35 - 27,0,N/A,N/A,N/A
+20,Eric Gordon,FG_MISS,None,9:35,2,Rockets,Lakers,35 - 27,0,26,3,Jumper
+21,Brandon Ingram,DEFENSIVE_REBOUND,None,9:31,2,Lakers,Rockets,35 - 27,1,N/A,N/A,N/A
+22,Kentavious Caldwell-Pope,FG_MISS,None,9:22,2,Lakers,Rockets,35 - 27,1,28,3,Jumper
+23,Chris Paul,DEFENSIVE_REBOUND,None,9:19,2,Rockets,Lakers,35 - 27,0,N/A,N/A,N/A
+24,Austin Rivers,TURNOVER,None,9:14,2,Rockets,Lakers,35 - 27,0,N/A,N/A,N/A
+25,James Harden,SUBSTITUTION,Rivers Austin,9:14,2,Rockets,Lakers,35 - 27,0,N/A,N/A,N/A
+26,LeBron James,FG_ASSISTED,Rajon Rondo,9:02,2,Lakers,Rockets,35 - 29,1,0,2,Layup
+27,Chris Paul,FG_UNASSISTED,None,8:52,2,Rockets,Lakers,37 - 29,0,14,2,Jumper
+28,Brandon Ingram,FG_MISS,None,8:26,2,Lakers,Rockets,37 - 29,1,27,3,Jumper
+29,Clint Capela,DEFENSIVE_REBOUND,None,8:23,2,Rockets,Lakers,37 - 29,0,N/A,N/A,N/A
+30,James Harden,FG_UNASSISTED,None,8:14,2,Rockets,Lakers,40 - 29,0,27,2,Jumper
+31,Team,Unknown,None,8:13,2,Lakers,Rockets,40 - 29,1,N/A,N/A,N/A
+32,Kyle Kuzma,SUBSTITUTION,Caldwell-Pope Kentavious,8:13,2,Lakers,Rockets,40 - 29,1,N/A,N/A,N/A
+33,JaVale McGee,SUBSTITUTION,Stephenson Lance,8:13,2,Lakers,Rockets,40 - 29,1,N/A,N/A,N/A
+34,Reggie Bullock,SUBSTITUTION,James LeBron,8:13,2,Lakers,Rockets,40 - 29,1,N/A,N/A,N/A
+35,Rajon Rondo,FG_MISS,None,8:05,2,Lakers,Rockets,40 - 29,1,26,3,Jumper
+36,Clint Capela,DEFENSIVE_REBOUND,None,8:03,2,Rockets,Lakers,40 - 29,0,N/A,N/A,N/A
+37,Chris Paul,FG_MISS,None,7:54,2,Rockets,Lakers,40 - 29,0,17,2,Jumper
+38,Reggie Bullock,DEFENSIVE_REBOUND,None,7:50,2,Lakers,Rockets,40 - 29,1,N/A,N/A,N/A
+39,JaVale McGee,FG_ASSISTED,Kyle Kuzma,7:46,2,Lakers,Rockets,40 - 31,1, ,2,Jumper
+40,Kenneth Faried,FG_MISS,None,7:40,2,Rockets,Lakers,40 - 31,0, ,2,Jumper
+41,Kyle Kuzma,DEFENSIVE_REBOUND,None,7:37,2,Lakers,Rockets,40 - 31,1,N/A,N/A,N/A
+42,Reggie Bullock,FG_MISS,None,7:32,2,Lakers,Rockets,40 - 31,1, ,2,Jumper
+43,Kenneth Faried,DEFENSIVE_REBOUND,None,7:28,2,Rockets,Lakers,40 - 31,0,N/A,N/A,N/A
+44,Clint Capela,FG_ASSISTED,Kenneth Faried,7:19,2,Rockets,Lakers,42 - 31,0,0,2,Dunk
+45,Rajon Rondo,FG_UNASSISTED,None,6:59,2,Lakers,Rockets,42 - 33,1,0,2,Layup
+46,Kenneth Faried,FG_ASSISTED,James Harden,6:52,2,Rockets,Lakers,44 - 33,0,0,2,Dunk
+47,Reggie Bullock,FG_ASSISTED,Rajon Rondo,6:36,2,Lakers,Rockets,44 - 36,1, ,3,Jumper
+48,James Harden,TURNOVER,None,6:23,2,Rockets,Lakers,44 - 36,0,N/A,N/A,N/A
+49,Gerald Green,SUBSTITUTION,Paul Chris,6:23,2,Rockets,Lakers,44 - 36,0,N/A,N/A,N/A
+50,Rajon Rondo,FG_MISS,Clint Capela,6:15,2,Rockets,Lakers,44 - 36,1,0,2,Layup
+51,JaVale McGee,OFFENSIVE_REBOUND,None,6:12,2,Lakers,Rockets,44 - 36,1,N/A,N/A,N/A
+52,JaVale McGee's,FG_MISS,Kenneth Faried,6:11,2,Rockets,Lakers,44 - 36,1,0,2,Dunk
+53,Kenneth Faried,DEFENSIVE_REBOUND,None,6:08,2,Rockets,Lakers,44 - 36,0,N/A,N/A,N/A
+54,Reggie Bullock,FOUL_ON_FLOOR,None,6:06,2,Lakers,Rockets,44 - 36,1,N/A,N/A,N/A
+55,James Harden,FT_MISS,None,6:06,2,Rockets,Lakers,44 - 36,0,N/A,1,N/A
+56,Team,OFFENSIVE_REBOUND,None,6:06,2,Rockets,Lakers,44 - 36,0,N/A,N/A,N/A
+57,James Harden,FT,None,6:06,2,Rockets,Lakers,45 - 36,0,N/A,1,N/A
+58,PJ Tucker,SUBSTITUTION,Capela Clint,6:06,2,Rockets,Lakers,45 - 36,0,N/A,N/A,N/A
+59,James Harden,FT,None,6:06,2,Rockets,Lakers,46 - 36,0,N/A,1,N/A
+60,Rajon Rondo,TURNOVER,PJ Tucker,5:55,2,Lakers,Rockets,46 - 36,1,N/A,N/A,N/A
+61,Kenneth Faried,FG_ASSISTED,James Harden,5:51,2,Rockets,Lakers,48 - 36,0,0,2,Dunk
+62,Eric Gordon,FOUL_ON_FLOOR,None,5:35,2,Rockets,Lakers,48 - 36,0,N/A,N/A,N/A
+63,Brandon Ingram,FT,None,5:35,2,Lakers,Rockets,48 - 37,1,N/A,1,N/A
+64,LeBron James,SUBSTITUTION,Rondo Rajon,5:35,2,Lakers,Rockets,48 - 37,1,N/A,N/A,N/A
+65,Brandon Ingram,FT,None,5:35,2,Lakers,Rockets,48 - 38,1,N/A,1,N/A
+66,Eric Gordon,FG_MISS,Kyle Kuzma,5:26,2,Lakers,Rockets,48 - 38,0,0,2,Layup
+67,LeBron James,DEFENSIVE_REBOUND,None,5:23,2,Lakers,Rockets,48 - 38,1,N/A,N/A,N/A
+68,LeBron James,FG_MISS,Gerald Green,5:18,2,Rockets,Lakers,48 - 38,1,0,2,Layup
+69,LeBron James,OFFENSIVE_REBOUND,None,5:17,2,Lakers,Rockets,48 - 38,1,N/A,N/A,N/A
+70,PJ Tucker,FOUL_ON_FLOOR,None,5:17,2,Rockets,Lakers,48 - 38,0,N/A,N/A,N/A
+71,LeBron James,FT,None,5:17,2,Lakers,Rockets,48 - 39,1,N/A,1,N/A
+72,LeBron James,FT_MISS,None,5:17,2,Lakers,Rockets,48 - 39,1,N/A,1,N/A
+73,Reggie Bullock,OFFENSIVE_REBOUND,None,5:14,2,Lakers,Rockets,48 - 39,1,N/A,N/A,N/A
+74,LeBron James,FG_MISS,None,5:12,2,Lakers,Rockets,48 - 39,1,26,3,Jumper
+75,Kenneth Faried,DEFENSIVE_REBOUND,None,5:08,2,Rockets,Lakers,48 - 39,0,N/A,N/A,N/A
+76,James Harden,FG_UNASSISTED,None,4:51,2,Rockets,Lakers,50 - 39,0,6,2,Jumper
+77,JaVale McGee,FG_MISS,None,4:33,2,Lakers,Rockets,50 - 39,1,6,2,Jumper
+78,Eric Gordon,DEFENSIVE_REBOUND,None,4:31,2,Rockets,Lakers,50 - 39,0,N/A,N/A,N/A
+79,James Harden,FG_ASSISTED,Eric Gordon,4:20,2,Rockets,Lakers,52 - 39,0,7,2,Jumper
+80,Team,Unknown,None,4:19,2,Lakers,Rockets,52 - 39,1,N/A,N/A,N/A
+81,Clint Capela,SUBSTITUTION,Faried Kenneth,4:19,2,Rockets,Lakers,52 - 39,0,N/A,N/A,N/A
+82,LeBron James,FG_MISS,None,4:04,2,Lakers,Rockets,52 - 39,1,0,2,Layup
+83,JaVale McGee,OFFENSIVE_REBOUND,None,4:01,2,Lakers,Rockets,52 - 39,1,N/A,N/A,N/A
+84,JaVale McGee,FG_MISS,None,4:01,2,Lakers,Rockets,52 - 39,1, ,2,Jumper
+85,LeBron James,OFFENSIVE_REBOUND,None,4:00,2,Lakers,Rockets,52 - 39,1,N/A,N/A,N/A
+86,LeBron James,FG_UNASSISTED,None,3:59,2,Lakers,Rockets,52 - 41,1, ,2,Jumper
+87,Gerald Green,FG_MISS,None,3:35,2,Rockets,Lakers,52 - 41,0,26,3,Jumper
+88,PJ Tucker,OFFENSIVE_REBOUND,None,3:32,2,Rockets,Lakers,52 - 41,0,N/A,N/A,N/A
+89,Eric Gordon,FG_MISS,None,3:31,2,Rockets,Lakers,52 - 41,0,28,3,Jumper
+90,Brandon Ingram,DEFENSIVE_REBOUND,None,3:27,2,Lakers,Rockets,52 - 41,1,N/A,N/A,N/A
+91,Brandon Ingram,FG_MISS,None,3:16,2,Lakers,Rockets,52 - 41,1,24,3,Jumper
+92,PJ Tucker,DEFENSIVE_REBOUND,None,3:13,2,Rockets,Lakers,52 - 41,0,N/A,N/A,N/A
+93,James Harden,FG_MISS,None,3:07,2,Rockets,Lakers,52 - 41,0,25,3,Jumper
+94,JaVale McGee,DEFENSIVE_REBOUND,None,3:04,2,Lakers,Rockets,52 - 41,1,N/A,N/A,N/A
+95,Brandon Ingram,FG_UNASSISTED,None,3:00,2,Lakers,Rockets,52 - 43,1, ,2,Jumper
+96,James Harden,FG_MISS,None,2:44,2,Rockets,Lakers,52 - 43,0, ,2,Jumper
+97,Reggie Bullock,DEFENSIVE_REBOUND,None,2:41,2,Lakers,Rockets,52 - 43,1,N/A,N/A,N/A
+98,Reggie Bullock,FG_ASSISTED,LeBron James,2:29,2,Lakers,Rockets,52 - 46,1,27,3,Jumper
+99,Gerald Green,FG_MISS,None,2:19,2,Rockets,Lakers,52 - 46,0,27,3,Jumper
+100,Kyle Kuzma,DEFENSIVE_REBOUND,None,2:17,2,Lakers,Rockets,52 - 46,1,N/A,N/A,N/A
+101,Eric Gordon,FOUL_ON_FLOOR,None,2:12,2,Rockets,Lakers,52 - 46,0,N/A,N/A,N/A
+102,LeBron James,FT,None,2:12,2,Lakers,Rockets,52 - 47,1,N/A,1,N/A
+103,Chris Paul,SUBSTITUTION,Green Gerald,2:12,2,Rockets,Lakers,52 - 47,0,N/A,N/A,N/A
+104,LeBron James,FT,None,2:12,2,Lakers,Rockets,52 - 48,1,N/A,1,N/A
+105,James Harden,FG_MISS,JaVale McGee,1:54,2,Lakers,Rockets,52 - 48,0,5,2,Jumper
+106,Team,OFFENSIVE_REBOUND,None,1:54,2,Rockets,Lakers,52 - 48,0,N/A,N/A,N/A
+107,James Harden,FG_MISS,None,1:49,2,Rockets,Lakers,52 - 48,0,26,3,Jumper
+108,Team,DEFENSIVE_REBOUND,None,1:48,2,Lakers,Rockets,52 - 48,1,N/A,N/A,N/A
+109,LeBron James,FG_MISS,None,1:28,2,Lakers,Rockets,52 - 48,1, ,2,Jumper
+110,Team,OFFENSIVE_REBOUND,None,1:28,2,Lakers,Rockets,52 - 48,1,N/A,N/A,N/A
+111,Chris Paul,FOUL_ON_FLOOR,None,1:28,2,Rockets,Lakers,52 - 48,0,N/A,N/A,N/A
+112,LeBron James,FT_MISS,None,1:28,2,Lakers,Rockets,52 - 48,1,N/A,1,N/A
+113,Team,OFFENSIVE_REBOUND,None,1:28,2,Lakers,Rockets,52 - 48,1,N/A,N/A,N/A
+114,LeBron James,FT_MISS,None,1:28,2,Lakers,Rockets,52 - 48,1,N/A,1,N/A
+115,Team,OFFENSIVE_REBOUND,None,1:26,2,Lakers,Rockets,52 - 48,1,N/A,N/A,N/A
+116,LeBron James,FG_MISS,None,1:18,2,Lakers,Rockets,52 - 48,1,23,3,Jumper
+117,Clint Capela,DEFENSIVE_REBOUND,None,1:15,2,Rockets,Lakers,52 - 48,0,N/A,N/A,N/A
+118,Reggie Bullock,FOUL_ON_FLOOR,None,1:15,2,Lakers,Rockets,52 - 48,1,N/A,N/A,N/A
+119,Chris Paul,FT,None,1:15,2,Rockets,Lakers,53 - 48,0,N/A,1,N/A
+120,Chris Paul,FT,None,1:15,2,Rockets,Lakers,54 - 48,0,N/A,1,N/A
+121,PJ Tucker,FOUL_ON_FLOOR,None,1:05,2,Rockets,Lakers,54 - 48,0,N/A,N/A,N/A
+122,Brandon Ingram,FT,None,1:05,2,Lakers,Rockets,54 - 49,1,N/A,1,N/A
+123,Brandon Ingram,FT,None,1:05,2,Lakers,Rockets,54 - 50,1,N/A,1,N/A
+124,Chris Paul,FG_UNASSISTED,None,49.7,2,Rockets,Lakers,56 - 50,0, ,2,Jumper
+125,Brandon Ingram,FG_UNASSISTED,None,31.7,2,Lakers,Rockets,56 - 52,1,17,2,Jumper
+126,Clint Capela,FG_ASSISTED,Chris Paul,28.0,2,Rockets,Lakers,58 - 52,0,0,2,Layup
+127,Kyle Kuzma,FG_MISS,None,17.9,2,Lakers,Rockets,58 - 52,1,5,2,Jumper
+128,Clint Capela,DEFENSIVE_REBOUND,None,15.4,2,Rockets,Lakers,58 - 52,0,N/A,N/A,N/A
+129,Chris Paul,FG_MISS,None,1.0,2,Rockets,Lakers,58 - 52,0,0,2,Layup
+130,Team,OFFENSIVE_REBOUND,None,1.0,2,Rockets,Lakers,58 - 52,0,N/A,N/A,N/A
+131,End of,Unknown,None,0.0,2,Lakers,Rockets,58 - 52,1,N/A,N/A,N/A
+0,Reggie Bullock,FG_MISS,None,11:44,3,Lakers,Rockets,58 - 52,1,27,3,Jumper
+1,Clint Capela,DEFENSIVE_REBOUND,None,11:39,3,Rockets,Lakers,58 - 52,0,N/A,N/A,N/A
+2,James Harden,FG_UNASSISTED,None,11:33,3,Rockets,Lakers,60 - 52,0,6,2,Jumper
+3,JaVale McGee,FG_ASSISTED,Kyle Kuzma,11:23,3,Lakers,Rockets,60 - 54,1, ,2,Jumper
+4,Reggie Bullock,FOUL_ON_FLOOR,None,11:13,3,Lakers,Rockets,60 - 54,1,N/A,N/A,N/A
+5,Eric Gordon,FG_ASSISTED,Chris Paul,11:08,3,Rockets,Lakers,63 - 54,0,25,3,Jumper
+6,Brandon Ingram,FG_MISS,None,10:49,3,Lakers,Rockets,63 - 54,1,16,2,Jumper
+7,Clint Capela,DEFENSIVE_REBOUND,None,10:47,3,Rockets,Lakers,63 - 54,0,N/A,N/A,N/A
+8,Eric Gordon,FG_MISS,None,10:37,3,Rockets,Lakers,63 - 54,0,0,2,Layup
+9,Brandon Ingram,DEFENSIVE_REBOUND,None,10:34,3,Lakers,Rockets,63 - 54,1,N/A,N/A,N/A
+10,Kyle Kuzma,TURNOVER,Eric Gordon,10:30,3,Lakers,Rockets,63 - 54,1,N/A,N/A,N/A
+11,Chris Paul,FG_UNASSISTED,None,10:15,3,Rockets,Lakers,65 - 54,0,13,2,Jumper
+12,Brandon Ingram,FG_MISS,None,9:59,3,Lakers,Rockets,65 - 54,1,14,2,Jumper
+13,Chris Paul,DEFENSIVE_REBOUND,None,9:57,3,Rockets,Lakers,65 - 54,0,N/A,N/A,N/A
+14,James Harden,FG_UNASSISTED,None,9:49,3,Rockets,Lakers,67 - 54,0,7,2,Jumper
+15,Team,Unknown,None,9:49,3,Lakers,Rockets,67 - 54,1,N/A,N/A,N/A
+16,Clint Capela,FOUL_ON_FLOOR,None,9:37,3,Rockets,Lakers,67 - 54,0,N/A,N/A,N/A
+17,JaVale McGee,FT,None,9:37,3,Lakers,Rockets,67 - 55,1,N/A,1,N/A
+18,JaVale McGee,FT,None,9:37,3,Lakers,Rockets,67 - 56,1,N/A,1,N/A
+19,James Harden,FG_ASSISTED,Chris Paul,9:28,3,Rockets,Lakers,69 - 56,0,0,2,Dunk
+20,JaVale McGee,FG_MISS,None,9:18,3,Lakers,Rockets,69 - 56,1,0,2,Layup
+21,Clint Capela,DEFENSIVE_REBOUND,None,9:16,3,Rockets,Lakers,69 - 56,0,N/A,N/A,N/A
+22,Kyle Kuzma,FOUL_ON_FLOOR,None,9:04,3,Lakers,Rockets,69 - 56,1,N/A,N/A,N/A
+23,shot clock,TURNOVER,None,8:50,3,Rockets,Lakers,69 - 56,0,N/A,N/A,N/A
+24,JaVale McGee,FG_ASSISTED,Reggie Bullock,8:38,3,Lakers,Rockets,69 - 58,1,11,2,Jumper
+25,Eric Gordon,FG_MISS,None,8:30,3,Rockets,Lakers,69 - 58,0,27,2,Jumper
+26,LeBron James,DEFENSIVE_REBOUND,None,8:27,3,Lakers,Rockets,69 - 58,1,N/A,N/A,N/A
+27,Brandon Ingram,TURNOVER,James Harden,8:24,3,Lakers,Rockets,69 - 58,1,N/A,N/A,N/A
+28,JaVale McGee,FOUL_ON_FLOOR,None,8:18,3,Lakers,Rockets,69 - 58,1,N/A,N/A,N/A
+29,Eric Gordon,FT,None,8:18,3,Rockets,Lakers,70 - 58,0,N/A,1,N/A
+30,Eric Gordon,FT,None,8:18,3,Rockets,Lakers,71 - 58,0,N/A,1,N/A
+31,Brandon Ingram,FG_UNASSISTED,None,8:04,3,Lakers,Rockets,71 - 60,1, ,2,Jumper
+32,Chris Paul,FG_UNASSISTED,None,7:45,3,Rockets,Lakers,73 - 60,0,2,2,Jumper
+33,JaVale McGee,Unknown,None,7:45,3,Lakers,Rockets,73 - 60,1,N/A,N/A,N/A
+34,LeBron James,TURNOVER,None,7:39,3,Lakers,Rockets,73 - 60,1,N/A,N/A,N/A
+35,PJ Tucker,FG_ASSISTED,Chris Paul,7:30,3,Rockets,Lakers,76 - 60,0, ,3,Jumper
+36,Brandon Ingram,FOUL_ON_FLOOR,None,7:14,3,Lakers,Rockets,76 - 60,1,N/A,N/A,N/A
+37,Brandon Ingram,TURNOVER,None,7:14,3,Lakers,Rockets,76 - 60,1,N/A,N/A,N/A
+38,Chris Paul,FG_UNASSISTED,None,6:57,3,Rockets,Lakers,79 - 60,0,26,2,Jumper
+39,Kyle Kuzma,FG_ASSISTED,LeBron James,6:44,3,Lakers,Rockets,79 - 62,1,0,2,Layup
+40,Eric Gordon,FOUL_ON_FLOOR,None,6:33,3,Rockets,Lakers,79 - 62,0,N/A,N/A,N/A
+41,Eric Gordon,TURNOVER,None,6:33,3,Rockets,Lakers,79 - 62,0,N/A,N/A,N/A
+42,Josh Hart,SUBSTITUTION,McGee JaVale,6:33,3,Lakers,Rockets,79 - 62,1,N/A,N/A,N/A
+43,Kenneth Faried,SUBSTITUTION,Capela Clint,6:33,3,Rockets,Lakers,79 - 62,0,N/A,N/A,N/A
+44,Austin Rivers,SUBSTITUTION,Paul Chris,6:33,3,Rockets,Lakers,79 - 62,0,N/A,N/A,N/A
+45,Brandon Ingram,FG_UNASSISTED,None,6:18,3,Lakers,Rockets,79 - 64,1,21,2,Jumper
+46,Austin Rivers,FG_MISS,None,6:05,3,Rockets,Lakers,79 - 64,0,0,2,Layup
+47,Kenneth Faried,OFFENSIVE_REBOUND,None,6:02,3,Rockets,Lakers,79 - 64,0,N/A,N/A,N/A
+48,Kenneth Faried,FG_UNASSISTED,None,6:01,3,Rockets,Lakers,81 - 64,0, ,2,Jumper
+49,LeBron James,FG_UNASSISTED,None,5:55,3,Lakers,Rockets,81 - 66,1, ,2,Jumper
+50,James Harden,FG_MISS,None,5:31,3,Rockets,Lakers,81 - 66,0,29,2,Jumper
+51,LeBron James,DEFENSIVE_REBOUND,None,5:28,3,Lakers,Rockets,81 - 66,1,N/A,N/A,N/A
+52,Kyle Kuzma,FG_MISS,None,5:24,3,Lakers,Rockets,81 - 66,1,26,3,Jumper
+53,James Harden,DEFENSIVE_REBOUND,None,5:21,3,Rockets,Lakers,81 - 66,0,N/A,N/A,N/A
+54,James Harden,FG_UNASSISTED,None,5:14,3,Rockets,Lakers,83 - 66,0,2,2,Jumper
+55,LeBron James,FG_MISS,None,4:44,3,Lakers,Rockets,83 - 66,1, ,2,Jumper
+56,Brandon Ingram,OFFENSIVE_REBOUND,None,4:44,3,Lakers,Rockets,83 - 66,1,N/A,N/A,N/A
+57,Brandon Ingram,FG_MISS,None,4:44,3,Lakers,Rockets,83 - 66,1, ,2,Jumper
+58,Brandon Ingram,OFFENSIVE_REBOUND,None,4:44,3,Lakers,Rockets,83 - 66,1,N/A,N/A,N/A
+59,Kenneth Faried,FOUL_ON_FLOOR,None,4:44,3,Rockets,Lakers,83 - 66,0,N/A,N/A,N/A
+60,Brandon Ingram,FT,None,4:44,3,Lakers,Rockets,83 - 67,1,N/A,1,N/A
+61,Gerald Green,SUBSTITUTION,Gordon Eric,4:44,3,Rockets,Lakers,83 - 67,0,N/A,N/A,N/A
+62,Brandon Ingram,FT,None,4:44,3,Lakers,Rockets,83 - 68,1,N/A,1,N/A
+63,James Harden,FG_UNASSISTED,None,4:27,3,Rockets,Lakers,86 - 68,0,28,2,Jumper
+64,Kenneth Faried,FOUL_ON_FLOOR,None,4:18,3,Rockets,Lakers,86 - 68,0,N/A,N/A,N/A
+65,Kyle Kuzma,FT,None,4:18,3,Lakers,Rockets,86 - 69,1,N/A,1,N/A
+66,Kentavious Caldwell-Pope,SUBSTITUTION,Bullock Reggie,4:18,3,Lakers,Rockets,86 - 69,1,N/A,N/A,N/A
+67,Kyle Kuzma,FT,None,4:18,3,Lakers,Rockets,86 - 70,1,N/A,1,N/A
+68,James Harden,TURNOVER,Kentavious Caldwell-Pope,4:02,3,Rockets,Lakers,86 - 70,0,N/A,N/A,N/A
+69,LeBron James,FG_ASSISTED,Kyle Kuzma,3:55,3,Lakers,Rockets,86 - 72,1,0,2,Dunk
+70,James Harden,FG_MISS,None,3:30,3,Rockets,Lakers,86 - 72,0,0,2,Layup
+71,Brandon Ingram,DEFENSIVE_REBOUND,None,3:27,3,Lakers,Rockets,86 - 72,1,N/A,N/A,N/A
+72,Kyle Kuzma,FG_MISS,None,3:18,3,Lakers,Rockets,86 - 72,1,5,2,Jumper
+73,Kyle Kuzma,OFFENSIVE_REBOUND,None,3:17,3,Lakers,Rockets,86 - 72,1,N/A,N/A,N/A
+74,Kyle Kuzma,FG_UNASSISTED,None,3:17,3,Lakers,Rockets,86 - 74,1, ,2,Jumper
+75,Team,Unknown,None,3:17,3,Rockets,Lakers,86 - 74,0,N/A,N/A,N/A
+76,Reggie Bullock,SUBSTITUTION,Ingram Brandon,3:17,3,Lakers,Rockets,86 - 74,1,N/A,N/A,N/A
+77,Chris Paul,SUBSTITUTION,Harden James,3:17,3,Rockets,Lakers,86 - 74,0,N/A,N/A,N/A
+78,Kenneth Faried,FG_UNASSISTED,None,2:58,3,Rockets,Lakers,88 - 74,0, ,2,Jumper
+79,PJ Tucker,FOUL_ON_FLOOR,None,2:39,3,Rockets,Lakers,88 - 74,0,N/A,N/A,N/A
+80,LeBron James,FT,None,2:39,3,Lakers,Rockets,88 - 75,1,N/A,1,N/A
+81,LeBron James,FT,None,2:39,3,Lakers,Rockets,88 - 76,1,N/A,1,N/A
+82,Austin Rivers,FG_MISS,None,2:21,3,Rockets,Lakers,88 - 76,0,4,2,Jumper
+83,Kenneth Faried,OFFENSIVE_REBOUND,None,2:19,3,Rockets,Lakers,88 - 76,0,N/A,N/A,N/A
+84,Gerald Green,FG_MISS,None,2:16,3,Rockets,Lakers,88 - 76,0,14,2,Jumper
+85,Kentavious Caldwell-Pope,DEFENSIVE_REBOUND,None,2:11,3,Lakers,Rockets,88 - 76,1,N/A,N/A,N/A
+86,Kyle Kuzma,FG_ASSISTED,LeBron James,2:09,3,Lakers,Rockets,88 - 78,1,0,2,Dunk
+87,PJ Tucker,FG_MISS,None,1:50,3,Rockets,Lakers,88 - 78,0,24,3,Jumper
+88,LeBron James,DEFENSIVE_REBOUND,None,1:48,3,Lakers,Rockets,88 - 78,1,N/A,N/A,N/A
+89,LeBron James,FG_UNASSISTED,None,1:42,3,Lakers,Rockets,88 - 80,1, ,2,Jumper
+90,Team,Unknown,None,1:42,3,Rockets,Lakers,88 - 80,0,N/A,N/A,N/A
+91,Clint Capela,SUBSTITUTION,Tucker PJ,1:42,3,Rockets,Lakers,88 - 80,0,N/A,N/A,N/A
+92,Eric Gordon,SUBSTITUTION,Faried Kenneth,1:42,3,Rockets,Lakers,88 - 80,0,N/A,N/A,N/A
+93,Chris Paul,FG_UNASSISTED,None,1:23,3,Rockets,Lakers,90 - 80,0,13,2,Jumper
+94,Kyle Kuzma,FOUL_ON_FLOOR,None,1:08,3,Lakers,Rockets,90 - 80,1,N/A,N/A,N/A
+95,Kyle Kuzma,TURNOVER,None,1:08,3,Lakers,Rockets,90 - 80,1,N/A,N/A,N/A
+96,Gerald Green,FG_MISS,None,56.8,3,Rockets,Lakers,90 - 80,0,26,3,Jumper
+97,LeBron James,DEFENSIVE_REBOUND,None,53.1,3,Lakers,Rockets,90 - 80,1,N/A,N/A,N/A
+98,Josh Hart,FG_MISS,None,47.8,3,Lakers,Rockets,90 - 80,1,23,3,Jumper
+99,Clint Capela,DEFENSIVE_REBOUND,None,44.2,3,Rockets,Lakers,90 - 80,0,N/A,N/A,N/A
+100,Chris Paul,FG_MISS,None,32.3,3,Rockets,Lakers,90 - 80,0,27,3,Jumper
+101,Reggie Bullock,DEFENSIVE_REBOUND,None,28.8,3,Lakers,Rockets,90 - 80,1,N/A,N/A,N/A
+102,Kentavious Caldwell-Pope,FG_MISS,None,24.5,3,Lakers,Rockets,90 - 80,1, ,3,Jumper
+103,Josh Hart,OFFENSIVE_REBOUND,None,20.8,3,Lakers,Rockets,90 - 80,1,N/A,N/A,N/A
+104,Kyle Kuzma,FG_ASSISTED,Josh Hart,19.9,3,Lakers,Rockets,90 - 83,1,27,3,Jumper
+105,Gerald Green,FG_MISS,None,3.9,3,Rockets,Lakers,90 - 83,0,24,3,Jumper
+106,Kentavious Caldwell-Pope,DEFENSIVE_REBOUND,None,0.9,3,Lakers,Rockets,90 - 83,1,N/A,N/A,N/A
+107,Kentavious Caldwell-Pope,FG_MISS,None,0.5,3,Lakers,Rockets,90 - 83,1,27,3,Jumper
+108,Team,OFFENSIVE_REBOUND,None,0.1,3,Lakers,Rockets,90 - 83,1,N/A,N/A,N/A
+109,End of,Unknown,None,0.0,3,Lakers,Rockets,90 - 83,1,N/A,N/A,N/A
+0,Rajon Rondo,SUBSTITUTION,James LeBron,12:00,4,Lakers,Rockets,90 - 83,1,N/A,N/A,N/A
+1,Brandon Ingram,SUBSTITUTION,Bullock Reggie,12:00,4,Lakers,Rockets,90 - 83,1,N/A,N/A,N/A
+2,James Harden,SUBSTITUTION,Green Gerald,12:00,4,Rockets,Lakers,90 - 83,0,N/A,N/A,N/A
+3,Eric Gordon,TURNOVER,None,11:46,4,Rockets,Lakers,90 - 83,0,N/A,N/A,N/A
+4,Kyle Kuzma,FG_MISS,None,11:27,4,Lakers,Rockets,90 - 83,1,26,3,Jumper
+5,Clint Capela,DEFENSIVE_REBOUND,None,11:23,4,Rockets,Lakers,90 - 83,0,N/A,N/A,N/A
+6,James Harden,FG_MISS,None,11:06,4,Rockets,Lakers,90 - 83,0,27,2,Jumper
+7,Kyle Kuzma,DEFENSIVE_REBOUND,None,11:03,4,Lakers,Rockets,90 - 83,1,N/A,N/A,N/A
+8,Kyle Kuzma,TURNOVER,None,10:54,4,Lakers,Rockets,90 - 83,1,N/A,N/A,N/A
+9,Eric Gordon,FG_MISS,None,10:33,4,Rockets,Lakers,90 - 83,0,24,3,Jumper
+10,Kentavious Caldwell-Pope,DEFENSIVE_REBOUND,None,10:30,4,Lakers,Rockets,90 - 83,1,N/A,N/A,N/A
+11,Josh Hart,FG_ASSISTED,Rajon Rondo,10:15,4,Lakers,Rockets,90 - 85,1,0,2,Layup
+12,Austin Rivers,FG_MISS,None,9:56,4,Rockets,Lakers,90 - 85,0,26,3,Jumper
+13,Brandon Ingram,DEFENSIVE_REBOUND,None,9:51,4,Lakers,Rockets,90 - 85,1,N/A,N/A,N/A
+14,Brandon Ingram,FG_MISS,None,9:45,4,Lakers,Rockets,90 - 85,1, ,2,Jumper
+15,Eric Gordon,DEFENSIVE_REBOUND,None,9:42,4,Rockets,Lakers,90 - 85,0,N/A,N/A,N/A
+16,Rajon Rondo,FOUL_ON_FLOOR,None,9:41,4,Lakers,Rockets,90 - 85,1,N/A,N/A,N/A
+17,Clint Capela,FG_ASSISTED,James Harden,9:29,4,Rockets,Lakers,92 - 85,0,0,2,Dunk
+18,Kentavious Caldwell-Pope,FG_ASSISTED,Rajon Rondo,9:21,4,Lakers,Rockets,92 - 88,1,26,3,Jumper
+19,Clint Capela,FOUL_ON_FLOOR,None,9:13,4,Rockets,Lakers,92 - 88,0,N/A,N/A,N/A
+20,Clint Capela,TURNOVER,None,9:13,4,Rockets,Lakers,92 - 88,0,N/A,N/A,N/A
+21,Kenneth Faried,SUBSTITUTION,Capela Clint,9:13,4,Rockets,Lakers,92 - 88,0,N/A,N/A,N/A
+22,Chris Paul,FOUL_ON_FLOOR,None,8:58,4,Rockets,Lakers,92 - 88,0,N/A,N/A,N/A
+23,LeBron James,SUBSTITUTION,Kuzma Kyle,8:58,4,Lakers,Rockets,92 - 88,1,N/A,N/A,N/A
+24,shot clock,TURNOVER,None,8:43,4,Lakers,Rockets,92 - 88,1,N/A,N/A,N/A
+25,James Harden,FG_MISS,None,8:24,4,Rockets,Lakers,92 - 88,0,26,3,Jumper
+26,Team,OFFENSIVE_REBOUND,None,8:24,4,Rockets,Lakers,92 - 91,0,N/A,N/A,N/A
+27,LeBron James,FOUL_ON_FLOOR,None,8:24,4,Lakers,Rockets,92 - 88,1,N/A,N/A,N/A
+28,James Harden,FG_MISS,None,8:12,4,Rockets,Lakers,92 - 88,0,27,2,Jumper
+29,Team,DEFENSIVE_REBOUND,None,8:11,4,Lakers,Rockets,92 - 91,1,N/A,N/A,N/A
+30,Rajon Rondo,TURNOVER,Kenneth Faried,7:56,4,Lakers,Rockets,92 - 91,1,N/A,N/A,N/A
+31,Eric Gordon,FG_ASSISTED,Chris Paul,7:49,4,Rockets,Lakers,95 - 91,0,27,3,Jumper
+32,Austin Rivers,FOUL_ON_FLOOR,None,7:38,4,Rockets,Lakers,95 - 91,0,N/A,N/A,N/A
+33,PJ Tucker,SUBSTITUTION,Paul Chris,7:38,4,Rockets,Lakers,95 - 91,0,N/A,N/A,N/A
+34,LeBron James,FG_UNASSISTED,None,7:22,4,Lakers,Rockets,95 - 90,1,21,2,Jumper
+35,Austin Rivers,FG_MISS,None,6:58,4,Rockets,Lakers,95 - 94,0,6,2,Jumper
+36,LeBron James,DEFENSIVE_REBOUND,None,6:56,4,Lakers,Rockets,95 - 94,1,N/A,N/A,N/A
+37,Josh Hart,FG_ASSISTED,LeBron James,6:52,4,Lakers,Rockets,95 - 96,1, ,2,Jumper
+38,Team,Unknown,None,6:52,4,Rockets,Lakers,95 - 96,0,N/A,N/A,N/A
+39,Gerald Green,SUBSTITUTION,Rivers Austin,6:52,4,Rockets,Lakers,95 - 92,0,N/A,N/A,N/A
+40,James Harden,FG_MISS,None,6:28,4,Rockets,Lakers,95 - 92,0,26,2,Jumper
+41,Rajon Rondo,DEFENSIVE_REBOUND,None,6:27,4,Lakers,Rockets,95 - 92,1,N/A,N/A,N/A
+42,LeBron James,FG_MISS,None,6:06,4,Lakers,Rockets,95 - 92,1,24,3,Jumper
+43,James Harden,DEFENSIVE_REBOUND,None,6:03,4,Rockets,Lakers,95 - 92,0,N/A,N/A,N/A
+44,James Harden,FOUL_ON_FLOOR,None,6:03,4,Rockets,Lakers,95 - 92,0,N/A,N/A,N/A
+45,James Harden,TURNOVER,None,6:03,4,Rockets,Lakers,95 - 92,0,N/A,N/A,N/A
+46,Clint Capela,SUBSTITUTION,Faried Kenneth,6:03,4,Rockets,Lakers,95 - 92,0,N/A,N/A,N/A
+47,Brandon Ingram,TURNOVER,James Harden,5:43,4,Lakers,Rockets,95 - 92,1,N/A,N/A,N/A
+48,James Harden,FG_UNASSISTED,None,5:37,4,Rockets,Lakers,97 - 92,0, ,2,Jumper
+49,LeBron James,FG_UNASSISTED,None,5:17,4,Lakers,Rockets,97 - 94,1,0,2,Dunk
+50,Gerald Green,FG_MISS,None,5:02,4,Rockets,Lakers,97 - 94,0,24,3,Jumper
+51,Josh Hart,DEFENSIVE_REBOUND,None,4:57,4,Lakers,Rockets,97 - 94,1,N/A,N/A,N/A
+52,Josh Hart,TURNOVER,Gerald Green,4:57,4,Lakers,Rockets,97 - 94,1,N/A,N/A,N/A
+53,Kentavious Caldwell-Pope,FOUL_ON_FLOOR,None,4:51,4,Lakers,Rockets,97 - 94,1,N/A,N/A,N/A
+54,Kyle Kuzma,SUBSTITUTION,Rondo Rajon,4:51,4,Lakers,Rockets,97 - 94,1,N/A,N/A,N/A
+55,Chris Paul,SUBSTITUTION,Gordon Eric,4:51,4,Rockets,Lakers,97 - 94,0,N/A,N/A,N/A
+56,PJ Tucker,FG_MISS,None,4:43,4,Rockets,Lakers,97 - 94,0,25,3,Jumper
+57,Brandon Ingram,DEFENSIVE_REBOUND,None,4:40,4,Lakers,Rockets,97 - 94,1,N/A,N/A,N/A
+58,Brandon Ingram,FG_UNASSISTED,None,4:36,4,Lakers,Rockets,97 - 96,1,0,2,Layup
+59,Chris Paul,FOUL_ON_FLOOR,None,4:36,4,Rockets,Lakers,97 - 96,0,N/A,N/A,N/A
+60,Reggie Bullock,SUBSTITUTION,Caldwell-Pope Kentavious,4:36,4,Lakers,Rockets,97 - 96,1,N/A,N/A,N/A
+61,Brandon Ingram,FT,None,4:36,4,Lakers,Rockets,97 - 97,1,N/A,1,N/A
+62,Gerald Green,FG_MISS,None,4:21,4,Rockets,Lakers,97 - 97,0,26,3,Jumper
+63,Reggie Bullock,DEFENSIVE_REBOUND,None,4:19,4,Lakers,Rockets,97 - 97,1,N/A,N/A,N/A
+64,Gerald Green,FOUL_ON_FLOOR,None,4:15,4,Rockets,Lakers,97 - 97,0,N/A,N/A,N/A
+65,LeBron James,FT,None,4:15,4,Lakers,Rockets,97 - 98,1,N/A,1,N/A
+66,Team,Unknown,None,4:15,4,Rockets,Lakers,97 - 98,0,N/A,N/A,N/A
+67,Eric Gordon,SUBSTITUTION,Green Gerald,4:15,4,Rockets,Lakers,97 - 98,0,N/A,N/A,N/A
+68,LeBron James,FT,None,4:15,4,Lakers,Rockets,97 - 99,1,N/A,1,N/A
+69,James Harden,FG_MISS,None,3:59,4,Rockets,Lakers,97 - 99,0, ,2,Jumper
+70,Brandon Ingram,DEFENSIVE_REBOUND,None,3:56,4,Lakers,Rockets,97 - 99,1,N/A,N/A,N/A
+71,Brandon Ingram,FOUL_ON_FLOOR,None,3:48,4,Lakers,Rockets,97 - 99,1,N/A,N/A,N/A
+72,Brandon Ingram,TURNOVER,None,3:48,4,Lakers,Rockets,97 - 99,1,N/A,N/A,N/A
+73,Chris Paul,TURNOVER,Reggie Bullock,3:30,4,Rockets,Lakers,97 - 99,0,N/A,N/A,N/A
+74,LeBron James,FG_MISS,None,3:10,4,Lakers,Rockets,97 - 99,1,28,3,Jumper
+75,PJ Tucker,DEFENSIVE_REBOUND,None,3:07,4,Rockets,Lakers,97 - 99,0,N/A,N/A,N/A
+76,Team,Unknown,None,2:55,4,Rockets,Lakers,97 - 99,0,N/A,N/A,N/A
+77,James Harden,TURNOVER,None,2:47,4,Rockets,Lakers,97 - 99,0,N/A,N/A,N/A
+78,James Harden,TURNOVER,None,2:47,4,Rockets,Lakers,97 - 99,0,N/A,N/A,N/A
+79,LeBron James,FG_UNASSISTED,None,2:22,4,Lakers,Rockets,97 - 101,1,2,2,Jumper
+80,Eric Gordon,FG_MISS,None,2:10,4,Rockets,Lakers,97 - 101,0,24,3,Jumper
+81,Team,DEFENSIVE_REBOUND,None,2:10,4,Lakers,Rockets,97 - 101,1,N/A,N/A,N/A
+82,PJ Tucker,FOUL_ON_FLOOR,None,2:10,4,Rockets,Lakers,97 - 101,0,N/A,N/A,N/A
+83,Brandon Ingram,FT,None,2:10,4,Lakers,Rockets,97 - 102,1,N/A,1,N/A
+84,Brandon Ingram,FT_MISS,None,2:10,4,Lakers,Rockets,97 - 102,1,N/A,1,N/A
+85,James Harden,DEFENSIVE_REBOUND,None,2:07,4,Rockets,Lakers,97 - 102,0,N/A,N/A,N/A
+86,James Harden,FG_UNASSISTED,None,1:54,4,Rockets,Lakers,99 - 102,0,2,2,Jumper
+87,Reggie Bullock,FG_ASSISTED,LeBron James,1:31,4,Lakers,Rockets,99 - 105,1,24,3,Jumper
+88,James Harden,TURNOVER,None,1:24,4,Rockets,Lakers,99 - 105,0,N/A,N/A,N/A
+89,James Harden,TURNOVER,None,1:24,4,Rockets,Lakers,99 - 105,0,N/A,N/A,N/A
+90,Austin Rivers,SUBSTITUTION,Harden James,1:24,4,Rockets,Lakers,99 - 105,0,N/A,N/A,N/A
+91,LeBron James,FG_MISS,None,1:00,4,Lakers,Rockets,99 - 105,1,22,2,Jumper
+92,Chris Paul,DEFENSIVE_REBOUND,None,58.6,4,Rockets,Lakers,99 - 105,0,N/A,N/A,N/A
+93,Chris Paul,FG_UNASSISTED,None,55.2,4,Rockets,Lakers,101 - 105,0,0,2,Layup
+94,Team,Unknown,None,55.2,4,Lakers,Rockets,101 - 105,1,N/A,N/A,N/A
+95,Chris Paul,FOUL_ON_FLOOR,None,33.3,4,Rockets,Lakers,101 - 105,0,N/A,N/A,N/A
+96,Chris Paul,FOUL_TECHNICAL,None,33.3,4,Rockets,Lakers,101 - 105,0,N/A,N/A,N/A
+97,Reggie Bullock,FT,None,33.3,4,Lakers,Rockets,101 - 106,1,N/A,1,N/A
+98,Mike D'Antoni,FOUL_TECHNICAL,None,33.3,4,Rockets,Lakers,101 - 106,0,N/A,N/A,N/A
+99,Reggie Bullock,FT,None,33.3,4,Lakers,Rockets,101 - 107,1,N/A,1,N/A
+100,Brandon Ingram,FT,None,33.3,4,Lakers,Rockets,101 - 108,1,N/A,1,N/A
+101,Brandon Ingram,FT,None,33.3,4,Lakers,Rockets,101 - 109,1,N/A,1,N/A
+102,Chris Paul,FG_UNASSISTED,None,22.7,4,Rockets,Lakers,104 - 109,0,26,3,Jumper
+103,Chris Paul,FOUL_ON_FLOOR,None,21.3,4,Rockets,Lakers,104 - 109,0,N/A,N/A,N/A
+104,Gerald Green,SUBSTITUTION,Paul Chris,21.3,4,Rockets,Lakers,104 - 109,0,N/A,N/A,N/A
+105,Kyle Kuzma,FT,None,21.3,4,Lakers,Rockets,104 - 110,1,N/A,1,N/A
+106,Kyle Kuzma,FT,None,21.3,4,Lakers,Rockets,104 - 111,1,N/A,1,N/A
+107,Gerald Green,FG_UNASSISTED,None,12.3,4,Rockets,Lakers,106 - 111,0,0,2,Layup
+108,End of,Unknown,None,0.0,4,Lakers,Rockets,106 - 111,1,N/A,N/A,N/A
+109,End of,Unknown,None,0.0,4,Lakers,Rockets,106 - 111,1,N/A,N/A,N/A

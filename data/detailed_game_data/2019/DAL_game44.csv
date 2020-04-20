@@ -1,0 +1,457 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,DeAndre Jordan,JUMP_BALL,None,12:00,1,Mavericks,Pacers,0 - 0,0,N/A,N/A,N/A
+1,Myles Turner,FOUL_ON_FLOOR,None,11:49,1,Pacers,Mavericks,0 - 0,1,N/A,N/A,N/A
+2,Wesley Matthews,TURNOVER,Myles Turner,11:37,1,Mavericks,Pacers,0 - 0,0,N/A,N/A,N/A
+3,DeAndre Jordan,FOUL_ON_FLOOR,None,11:30,1,Mavericks,Pacers,0 - 0,0,N/A,N/A,N/A
+4,Bojan Bogdanovic,FT,None,11:30,1,Pacers,Mavericks,0 - 1,1,N/A,1,N/A
+5,Bojan Bogdanovic,FT,None,11:30,1,Pacers,Mavericks,0 - 2,1,N/A,1,N/A
+6,Luka Doncic,FG_MISS,None,11:13,1,Mavericks,Pacers,0 - 2,0,31,3,Jumper
+7,DeAndre Jordan,OFFENSIVE_REBOUND,None,11:09,1,Mavericks,Pacers,0 - 2,0,N/A,N/A,N/A
+8,DeAndre Jordan,FG_UNASSISTED,None,11:08,1,Mavericks,Pacers,2 - 2,0,0,2,Dunk
+9,Darren Collison,FG_MISS,None,10:51,1,Pacers,Mavericks,2 - 2,1,24,3,Jumper
+10,Luka Doncic,DEFENSIVE_REBOUND,None,10:49,1,Mavericks,Pacers,2 - 2,0,N/A,N/A,N/A
+11,Luka Doncic's,FG_MISS,Darren Collison,10:41,1,Pacers,Mavericks,2 - 2,0,0,2,Layup
+12,Darren Collison,DEFENSIVE_REBOUND,None,10:38,1,Pacers,Mavericks,2 - 2,1,N/A,N/A,N/A
+13,Bojan Bogdanovic,FG_MISS,Maximilian Kleber,10:37,1,Mavericks,Pacers,2 - 2,1,0,2,Layup
+14,Maximilian Kleber,JUMP_BALL,None,10:35,1,Mavericks,Pacers,2 - 2,0,N/A,N/A,N/A
+15,Team,DEFENSIVE_REBOUND,None,10:35,1,Mavericks,Pacers,2 - 2,0,N/A,N/A,N/A
+16,Harrison Barnes,FG_ASSISTED,Wesley Matthews,10:22,1,Mavericks,Pacers,4 - 2,0,4,3,Jumper
+17,Thaddeus Young,FG_ASSISTED,Darren Collison,10:05,1,Pacers,Mavericks,4 - 4,1,0,2,Layup
+18,Luka Doncic,FG_UNASSISTED,None,9:46,1,Mavericks,Pacers,6 - 4,0,6,3,Jumper
+19,Victor Oladipo,FG_MISS,Maximilian Kleber,9:30,1,Mavericks,Pacers,6 - 4,1,0,2,Layup
+20,Victor Oladipo,OFFENSIVE_REBOUND,None,9:26,1,Pacers,Mavericks,6 - 4,1,N/A,N/A,N/A
+21,Myles Turner,FG_MISS,None,9:19,1,Pacers,Mavericks,6 - 4,1,14,3,Jumper
+22,DeAndre Jordan,DEFENSIVE_REBOUND,None,9:16,1,Mavericks,Pacers,6 - 4,0,N/A,N/A,N/A
+23,Luka Doncic,FG_MISS,None,9:09,1,Mavericks,Pacers,6 - 4,0,-,3,Jumper
+24,Darren Collison,DEFENSIVE_REBOUND,None,9:07,1,Pacers,Mavericks,6 - 4,1,N/A,N/A,N/A
+25,Darren Collison,TURNOVER,Luka Doncic,8:58,1,Pacers,Mavericks,6 - 4,1,N/A,N/A,N/A
+26,DeAndre Jordan,FG_ASSISTED,Luka Doncic,8:49,1,Mavericks,Pacers,8 - 4,0,4,3,Jumper
+27,Victor Oladipo,FG_MISS,None,8:37,1,Pacers,Mavericks,8 - 4,1,19,3,Jumper
+28,DeAndre Jordan,DEFENSIVE_REBOUND,None,8:35,1,Mavericks,Pacers,8 - 4,0,N/A,N/A,N/A
+29,Wesley Matthews,FG_UNASSISTED,None,8:23,1,Mavericks,Pacers,10 - 4,0,-,3,Jumper
+30,Darren Collison,FG_UNASSISTED,None,7:59,1,Pacers,Mavericks,10 - 6,1,16,3,Jumper
+31,Wesley Matthews,FG_ASSISTED,Luka Doncic,7:42,1,Mavericks,Pacers,13 - 6,0,28,3,Jumper
+32,Myles Turner,FG_UNASSISTED,None,7:21,1,Pacers,Mavericks,13 - 8,1,8,3,Jumper
+33,Victor Oladipo,FOUL_ON_FLOOR,None,7:01,1,Pacers,Mavericks,13 - 8,1,N/A,N/A,N/A
+34,Wesley Matthews,TURNOVER,None,6:52,1,Mavericks,Pacers,13 - 8,0,N/A,N/A,N/A
+35,Team,Unknown,None,6:52,1,Pacers,Mavericks,13 - 8,1,N/A,N/A,N/A
+36,Jalen Brunson,SUBSTITUTION,Doncic Luka,6:52,1,Mavericks,Pacers,13 - 8,0,N/A,N/A,N/A
+37,Myles Turner,FG_ASSISTED,Victor Oladipo,6:34,1,Pacers,Mavericks,13 - 10,1,0,2,Dunk
+38,Harrison Barnes,FG_MISS,None,6:15,1,Mavericks,Pacers,13 - 10,0,11,3,Jumper
+39,DeAndre Jordan,OFFENSIVE_REBOUND,None,6:14,1,Mavericks,Pacers,13 - 10,0,N/A,N/A,N/A
+40,DeAndre Jordan,FG_MISS,None,6:14,1,Mavericks,Pacers,13 - 10,0,2,3,Jumper
+41,Victor Oladipo,DEFENSIVE_REBOUND,None,6:13,1,Pacers,Mavericks,13 - 10,1,N/A,N/A,N/A
+42,Victor Oladipo,FG_MISS,None,6:07,1,Pacers,Mavericks,13 - 10,1, ,3,Jumper
+43,Thaddeus Young,OFFENSIVE_REBOUND,None,6:03,1,Pacers,Mavericks,13 - 10,1,N/A,N/A,N/A
+44,Thaddeus Young,FG_UNASSISTED,None,6:03,1,Pacers,Mavericks,13 - 12,1, ,3,Jumper
+45,Harrison Barnes,FG_ASSISTED,Jalen Brunson,5:41,1,Mavericks,Pacers,16 - 12,0,28,3,Jumper
+46,Bojan Bogdanovic,FG_MISS,None,5:23,1,Pacers,Mavericks,16 - 12,1,4,3,Jumper
+47,Jalen Brunson,DEFENSIVE_REBOUND,None,5:19,1,Mavericks,Pacers,16 - 12,0,N/A,N/A,N/A
+48,Maximilian Kleber,FG_ASSISTED,Harrison Barnes,5:05,1,Mavericks,Pacers,19 - 12,0,29,3,Jumper
+49,Thaddeus Young,FG_MISS,None,4:49,1,Pacers,Mavericks,19 - 12,1,0,2,Layup
+50,Wesley Matthews,DEFENSIVE_REBOUND,None,4:47,1,Mavericks,Pacers,19 - 12,0,N/A,N/A,N/A
+51,Wesley Matthews,TURNOVER,Darren Collison,4:41,1,Mavericks,Pacers,19 - 12,0,N/A,N/A,N/A
+52,Myles Turner,FG_MISS,None,4:25,1,Pacers,Mavericks,19 - 12,1,8,3,Jumper
+53,Victor Oladipo,OFFENSIVE_REBOUND,None,4:21,1,Pacers,Mavericks,19 - 12,1,N/A,N/A,N/A
+54,Myles Turner,FG_ASSISTED,Victor Oladipo,4:21,1,Pacers,Mavericks,19 - 14,1,0,2,Layup
+55,Maximilian Kleber,FOUL_ON_FLOOR,None,4:21,1,Mavericks,Pacers,19 - 14,0,N/A,N/A,N/A
+56,Team,Unknown,None,4:21,1,Mavericks,Pacers,19 - 14,0,N/A,N/A,N/A
+57,Domantas Sabonis,SUBSTITUTION,Young Thaddeus,4:21,1,Pacers,Mavericks,19 - 14,1,N/A,N/A,N/A
+58,Dorian Finney-Smith,SUBSTITUTION,Kleber Maximilian,4:21,1,Mavericks,Pacers,19 - 14,0,N/A,N/A,N/A
+59,Myles Turner,FT,None,4:21,1,Pacers,Mavericks,19 - 15,1,N/A,1,N/A
+60,Jalen Brunson,FG_MISS,None,4:07,1,Mavericks,Pacers,19 - 15,0,20,3,Jumper
+61,Domantas Sabonis,DEFENSIVE_REBOUND,None,4:04,1,Pacers,Mavericks,19 - 15,1,N/A,N/A,N/A
+62,Domantas Sabonis,FG_UNASSISTED,None,3:44,1,Pacers,Mavericks,19 - 17,1,8,3,Jumper
+63,Wesley Matthews,FG_UNASSISTED,None,3:28,1,Mavericks,Pacers,21 - 17,0,13,3,Jumper
+64,Bojan Bogdanovic,FG_MISS,None,3:11,1,Pacers,Mavericks,21 - 17,1,26,3,Jumper
+65,Wesley Matthews,DEFENSIVE_REBOUND,None,3:07,1,Mavericks,Pacers,21 - 17,0,N/A,N/A,N/A
+66,Dorian Finney-Smith,FG_MISS,None,3:01,1,Mavericks,Pacers,21 - 17,0,25,3,Jumper
+67,Bojan Bogdanovic,DEFENSIVE_REBOUND,None,2:58,1,Pacers,Mavericks,21 - 17,1,N/A,N/A,N/A
+68,Domantas Sabonis,FG_MISS,None,2:46,1,Pacers,Mavericks,21 - 17,1,0,2,Layup
+69,Domantas Sabonis,OFFENSIVE_REBOUND,None,2:44,1,Pacers,Mavericks,21 - 17,1,N/A,N/A,N/A
+70,Myles Turner,FG_MISS,None,2:40,1,Pacers,Mavericks,21 - 17,1,27,3,Jumper
+71,Harrison Barnes,DEFENSIVE_REBOUND,None,2:37,1,Mavericks,Pacers,21 - 17,0,N/A,N/A,N/A
+72,Jalen Brunson,TURNOVER,Darren Collison,2:30,1,Mavericks,Pacers,21 - 17,0,N/A,N/A,N/A
+73,Victor Oladipo,FG_ASSISTED,Darren Collison,2:25,1,Pacers,Mavericks,21 - 19,1,0,2,Dunk
+74,Harrison Barnes,FG_MISS,None,2:08,1,Mavericks,Pacers,21 - 19,0,25,3,Jumper
+75,Domantas Sabonis,DEFENSIVE_REBOUND,None,2:04,1,Pacers,Mavericks,21 - 19,1,N/A,N/A,N/A
+76,Darren Collison,FG_UNASSISTED,None,1:57,1,Pacers,Mavericks,21 - 21,1,18,3,Jumper
+77,Wesley Matthews,FG_UNASSISTED,None,1:36,1,Mavericks,Pacers,23 - 21,0, ,3,Jumper
+78,Jalen Brunson,FOUL_ON_FLOOR,None,1:18,1,Mavericks,Pacers,23 - 21,0,N/A,N/A,N/A
+79,Darren Collison,FT,None,1:18,1,Pacers,Mavericks,23 - 22,1,N/A,1,N/A
+80,Tyreke Evans,SUBSTITUTION,Oladipo Victor,1:18,1,Pacers,Mavericks,23 - 22,1,N/A,N/A,N/A
+81,Doug McDermott,SUBSTITUTION,Bogdanovic Bojan,1:18,1,Pacers,Mavericks,23 - 22,1,N/A,N/A,N/A
+82,Dirk Nowitzki,SUBSTITUTION,Jordan DeAndre,1:18,1,Mavericks,Pacers,23 - 22,0,N/A,N/A,N/A
+83,Dwight Powell,SUBSTITUTION,Matthews Wesley,1:18,1,Mavericks,Pacers,23 - 22,0,N/A,N/A,N/A
+84,Luka Doncic,SUBSTITUTION,Barnes Harrison,1:18,1,Mavericks,Pacers,23 - 22,0,N/A,N/A,N/A
+85,Darren Collison,FT_MISS,None,1:18,1,Pacers,Mavericks,23 - 22,1,N/A,1,N/A
+86,Dwight Powell,DEFENSIVE_REBOUND,None,1:17,1,Mavericks,Pacers,23 - 22,0,N/A,N/A,N/A
+87,Dirk Nowitzki,FG_MISS,None,1:06,1,Mavericks,Pacers,23 - 22,0,26,3,Jumper
+88,Domantas Sabonis,DEFENSIVE_REBOUND,None,1:03,1,Pacers,Mavericks,23 - 22,1,N/A,N/A,N/A
+89,Doug McDermott,FG_MISS,None,49.0,1,Pacers,Mavericks,23 - 22,1,25,3,Jumper
+90,Dirk Nowitzki,DEFENSIVE_REBOUND,None,45.1,1,Mavericks,Pacers,23 - 22,0,N/A,N/A,N/A
+91,Dwight Powell,TURNOVER,None,38.4,1,Mavericks,Pacers,23 - 22,0,N/A,N/A,N/A
+92,Dwight Powell,TURNOVER,None,38.4,1,Mavericks,Pacers,23 - 22,0,N/A,N/A,N/A
+93,Cory Joseph,SUBSTITUTION,Collison Darren,38.4,1,Pacers,Mavericks,23 - 22,1,N/A,N/A,N/A
+94,Tyreke Evans,FG_UNASSISTED,None,31.3,1,Pacers,Mavericks,23 - 24,1,1,3,Jumper
+95,Luka Doncic,FG_MISS,None,22.9,1,Mavericks,Pacers,23 - 24,0,28,3,Jumper
+96,Myles Turner,DEFENSIVE_REBOUND,None,20.2,1,Pacers,Mavericks,23 - 24,1,N/A,N/A,N/A
+97,Myles Turner,TURNOVER,None,20.2,1,Pacers,Mavericks,23 - 24,1,N/A,N/A,N/A
+98,Luka Doncic,FG_MISS,None,0.0,1,Mavericks,Pacers,23 - 24,0,16,3,Jumper
+99,Team,OFFENSIVE_REBOUND,None,0.0,1,Mavericks,Pacers,23 - 24,0,N/A,N/A,N/A
+100,End of,Unknown,None,0.0,1,Pacers,Mavericks,23 - 24,1,N/A,N/A,N/A
+0,Thaddeus Young,SUBSTITUTION,Turner Myles,12:00,2,Pacers,Mavericks,23 - 24,1,N/A,N/A,N/A
+1,Devin Harris,SUBSTITUTION,Brunson Jalen,12:00,2,Mavericks,Pacers,23 - 24,0,N/A,N/A,N/A
+2,Thaddeus Young,FG_ASSISTED,Tyreke Evans,11:45,2,Pacers,Mavericks,23 - 26,1,7,3,Jumper
+3,Devin Harris,FOUL_ON_FLOOR,None,11:24,2,Mavericks,Pacers,23 - 26,0,N/A,N/A,N/A
+4,Devin Harris,TURNOVER,None,11:24,2,Mavericks,Pacers,23 - 26,0,N/A,N/A,N/A
+5,Domantas Sabonis,TURNOVER,Luka Doncic,11:12,2,Pacers,Mavericks,23 - 26,1,N/A,N/A,N/A
+6,Luka Doncic,FG_UNASSISTED,None,11:08,2,Mavericks,Pacers,25 - 26,0, ,3,Jumper
+7,Tyreke Evans,FG_ASSISTED,Thaddeus Young,10:50,2,Pacers,Mavericks,25 - 29,1,27,3,Jumper
+8,Dwight Powell,FG_ASSISTED,Luka Doncic,10:30,2,Mavericks,Pacers,27 - 29,0,0,2,Layup
+9,Thaddeus Young,FOUL_ON_FLOOR,None,10:30,2,Pacers,Mavericks,27 - 29,1,N/A,N/A,N/A
+10,Dwight Powell,FT,None,10:30,2,Mavericks,Pacers,28 - 29,0,N/A,1,N/A
+11,Luka Doncic,Unknown,None,10:17,2,Mavericks,Pacers,28 - 29,0,N/A,N/A,N/A
+12,Cory Joseph,FG_UNASSISTED,None,10:12,2,Pacers,Mavericks,28 - 31,1,17,3,Jumper
+13,Luka Doncic,TURNOVER,None,9:49,2,Mavericks,Pacers,28 - 31,0,N/A,N/A,N/A
+14,Doug McDermott,TURNOVER,None,9:37,2,Pacers,Mavericks,28 - 31,1,N/A,N/A,N/A
+15,Dwight Powell,FG_ASSISTED,Devin Harris,9:20,2,Mavericks,Pacers,30 - 31,0,0,2,Layup
+16,Cory Joseph,FG_MISS,None,9:05,2,Pacers,Mavericks,30 - 31,1,15,3,Jumper
+17,Cory Joseph,OFFENSIVE_REBOUND,None,9:03,2,Pacers,Mavericks,30 - 31,1,N/A,N/A,N/A
+18,Domantas Sabonis,FG_ASSISTED,Cory Joseph,8:50,2,Pacers,Mavericks,30 - 34,1,24,3,Jumper
+19,Luka Doncic,FG_MISS,None,8:24,2,Mavericks,Pacers,30 - 34,0, ,3,Jumper
+20,Domantas Sabonis,DEFENSIVE_REBOUND,None,8:21,2,Pacers,Mavericks,30 - 34,1,N/A,N/A,N/A
+21,Devin Harris,FOUL_ON_FLOOR,None,8:13,2,Mavericks,Pacers,30 - 34,0,N/A,N/A,N/A
+22,Cory Joseph,FG_MISS,None,8:08,2,Pacers,Mavericks,30 - 34,1,28,3,Jumper
+23,Dorian Finney-Smith,DEFENSIVE_REBOUND,None,8:05,2,Mavericks,Pacers,30 - 34,0,N/A,N/A,N/A
+24,Luka Doncic,FG_MISS,None,7:56,2,Mavericks,Pacers,30 - 34,0,0,2,Layup
+25,Dorian Finney-Smith,OFFENSIVE_REBOUND,None,7:51,2,Mavericks,Pacers,30 - 34,0,N/A,N/A,N/A
+26,Dorian Finney-Smith,FG_MISS,None,7:51,2,Mavericks,Pacers,30 - 34,0,0,2,Dunk
+27,Domantas Sabonis,DEFENSIVE_REBOUND,None,7:50,2,Pacers,Mavericks,30 - 34,1,N/A,N/A,N/A
+28,Doug McDermott,TURNOVER,None,7:44,2,Pacers,Mavericks,30 - 34,1,N/A,N/A,N/A
+29,Doug McDermott,TURNOVER,None,7:44,2,Pacers,Mavericks,30 - 34,1,N/A,N/A,N/A
+30,Dirk Nowitzki,FG_MISS,None,7:30,2,Mavericks,Pacers,30 - 34,0,23,3,Jumper
+31,Dorian Finney-Smith,OFFENSIVE_REBOUND,None,7:27,2,Mavericks,Pacers,30 - 34,0,N/A,N/A,N/A
+32,Dorian Finney-Smith,FG_MISS,None,7:26,2,Mavericks,Pacers,30 - 34,0,0,2,Layup
+33,Thaddeus Young,DEFENSIVE_REBOUND,None,7:23,2,Pacers,Mavericks,30 - 34,1,N/A,N/A,N/A
+34,Tyreke Evans,FG_ASSISTED,Thaddeus Young,7:19,2,Pacers,Mavericks,30 - 36,1,0,2,Layup
+35,Team,Unknown,None,7:18,2,Mavericks,Pacers,30 - 36,0,N/A,N/A,N/A
+36,Bojan Bogdanovic,SUBSTITUTION,Young Thaddeus,7:18,2,Pacers,Mavericks,30 - 36,1,N/A,N/A,N/A
+37,Jalen Brunson,SUBSTITUTION,Doncic Luka,7:18,2,Mavericks,Pacers,30 - 36,0,N/A,N/A,N/A
+38,Devin Harris,FG_MISS,None,7:05,2,Mavericks,Pacers,30 - 36,0,8,3,Jumper
+39,Dwight Powell,OFFENSIVE_REBOUND,None,7:02,2,Mavericks,Pacers,30 - 36,0,N/A,N/A,N/A
+40,Dwight Powell,FG_MISS,None,7:01,2,Mavericks,Pacers,30 - 36,0, ,3,Jumper
+41,Bojan Bogdanovic,DEFENSIVE_REBOUND,None,6:59,2,Pacers,Mavericks,30 - 36,1,N/A,N/A,N/A
+42,Domantas Sabonis,FG_ASSISTED,Cory Joseph,6:48,2,Pacers,Mavericks,30 - 38,1,0,2,Layup
+43,Dwight Powell,FG_ASSISTED,Jalen Brunson,6:31,2,Mavericks,Pacers,32 - 38,0,0,2,Dunk
+44,Doug McDermott,FOUL_ON_FLOOR,None,6:31,2,Pacers,Mavericks,32 - 38,1,N/A,N/A,N/A
+45,Harrison Barnes,SUBSTITUTION,Nowitzki Dirk,6:31,2,Mavericks,Pacers,32 - 38,0,N/A,N/A,N/A
+46,Dwight Powell,FT,None,6:31,2,Mavericks,Pacers,33 - 38,0,N/A,1,N/A
+47,Tyreke Evans,FG_MISS,None,6:19,2,Pacers,Mavericks,33 - 38,1,0,2,Layup
+48,Dwight Powell,DEFENSIVE_REBOUND,None,6:16,2,Mavericks,Pacers,33 - 38,0,N/A,N/A,N/A
+49,Devin Harris,FG_MISS,None,6:12,2,Mavericks,Pacers,33 - 38,0,0,2,Layup
+50,Team,DEFENSIVE_REBOUND,None,6:11,2,Pacers,Mavericks,33 - 38,1,N/A,N/A,N/A
+51,DeAndre Jordan,SUBSTITUTION,Powell Dwight,6:11,2,Mavericks,Pacers,33 - 38,0,N/A,N/A,N/A
+52,Bojan Bogdanovic,FG_ASSISTED,Cory Joseph,5:58,2,Pacers,Mavericks,33 - 40,1,13,3,Jumper
+53,Domantas Sabonis,FOUL_ON_FLOOR,None,5:39,2,Pacers,Mavericks,33 - 40,1,N/A,N/A,N/A
+54,DeAndre Jordan,FT_MISS,None,5:39,2,Mavericks,Pacers,33 - 40,0,N/A,1,N/A
+55,Team,OFFENSIVE_REBOUND,None,5:39,2,Mavericks,Pacers,33 - 40,0,N/A,N/A,N/A
+56,Victor Oladipo,SUBSTITUTION,McDermott Doug,5:39,2,Pacers,Mavericks,33 - 40,1,N/A,N/A,N/A
+57,DeAndre Jordan,FT,None,5:39,2,Mavericks,Pacers,34 - 40,0,N/A,1,N/A
+58,Cory Joseph,FG_UNASSISTED,None,5:28,2,Pacers,Mavericks,34 - 42,1,10,3,Jumper
+59,DeAndre Jordan,FG_ASSISTED,Dorian Finney-Smith,5:07,2,Mavericks,Pacers,36 - 42,0,0,2,Layup
+60,Domantas Sabonis,FG_ASSISTED,Cory Joseph,4:51,2,Pacers,Mavericks,36 - 44,1,0,2,Dunk
+61,Jalen Brunson,FG_MISS,None,4:31,2,Mavericks,Pacers,36 - 44,0,10,3,Jumper
+62,Domantas Sabonis,DEFENSIVE_REBOUND,None,4:29,2,Pacers,Mavericks,36 - 44,1,N/A,N/A,N/A
+63,Victor Oladipo,FG_UNASSISTED,None,4:21,2,Pacers,Mavericks,36 - 46,1,19,3,Jumper
+64,Team,Unknown,None,4:21,2,Mavericks,Pacers,36 - 46,0,N/A,N/A,N/A
+65,Maximilian Kleber,SUBSTITUTION,Finney-Smith Dorian,4:21,2,Mavericks,Pacers,36 - 46,0,N/A,N/A,N/A
+66,Wesley Matthews,SUBSTITUTION,Brunson Jalen,4:21,2,Mavericks,Pacers,36 - 46,0,N/A,N/A,N/A
+67,Luka Doncic,SUBSTITUTION,Harris Devin,4:21,2,Mavericks,Pacers,36 - 46,0,N/A,N/A,N/A
+68,Domantas Sabonis,FOUL_ON_FLOOR,None,4:00,2,Pacers,Mavericks,36 - 46,1,N/A,N/A,N/A
+69,Maximilian Kleber,TURNOVER,Victor Oladipo,3:59,2,Mavericks,Pacers,36 - 46,0,N/A,N/A,N/A
+70,Victor Oladipo,FG_UNASSISTED,None,3:55,2,Pacers,Mavericks,36 - 48,1,0,2,Dunk
+71,Wesley Matthews,FG_MISS,None,3:40,2,Mavericks,Pacers,36 - 48,0,8,3,Jumper
+72,Domantas Sabonis,DEFENSIVE_REBOUND,None,3:38,2,Pacers,Mavericks,36 - 48,1,N/A,N/A,N/A
+73,Tyreke Evans,FG_MISS,None,3:23,2,Pacers,Mavericks,36 - 48,1,18,3,Jumper
+74,Domantas Sabonis,OFFENSIVE_REBOUND,None,3:20,2,Pacers,Mavericks,36 - 48,1,N/A,N/A,N/A
+75,Domantas Sabonis,FG_UNASSISTED,None,3:20,2,Pacers,Mavericks,36 - 50,1, ,3,Jumper
+76,Harrison Barnes,FOUL_ON_FLOOR,None,3:20,2,Mavericks,Pacers,36 - 50,0,N/A,N/A,N/A
+77,Domantas Sabonis,FT,None,3:20,2,Pacers,Mavericks,36 - 51,1,N/A,1,N/A
+78,DeAndre Jordan,FG_MISS,None,3:00,2,Mavericks,Pacers,36 - 51,0, ,3,Jumper
+79,DeAndre Jordan,OFFENSIVE_REBOUND,None,2:57,2,Mavericks,Pacers,36 - 51,0,N/A,N/A,N/A
+80,DeAndre Jordan,FG_UNASSISTED,None,2:56,2,Mavericks,Pacers,38 - 51,0, ,3,Jumper
+81,Cory Joseph,FG_MISS,None,2:38,2,Pacers,Mavericks,38 - 51,1, ,3,Jumper
+82,DeAndre Jordan,DEFENSIVE_REBOUND,None,2:35,2,Mavericks,Pacers,38 - 51,0,N/A,N/A,N/A
+83,Luka Doncic,TURNOVER,None,2:31,2,Mavericks,Pacers,38 - 51,0,N/A,N/A,N/A
+84,Team,Unknown,None,2:31,2,Pacers,Mavericks,38 - 51,1,N/A,N/A,N/A
+85,Myles Turner,SUBSTITUTION,Sabonis Domantas,2:31,2,Pacers,Mavericks,38 - 51,1,N/A,N/A,N/A
+86,Thaddeus Young,SUBSTITUTION,Evans Tyreke,2:31,2,Pacers,Mavericks,38 - 51,1,N/A,N/A,N/A
+87,Wesley Matthews,FOUL_ON_FLOOR,None,2:19,2,Mavericks,Pacers,38 - 51,0,N/A,N/A,N/A
+88,Victor Oladipo,FT,None,2:19,2,Pacers,Mavericks,38 - 52,1,N/A,1,N/A
+89,Darren Collison,SUBSTITUTION,Joseph Cory,2:19,2,Pacers,Mavericks,38 - 52,1,N/A,N/A,N/A
+90,Victor Oladipo,FT,None,2:19,2,Pacers,Mavericks,38 - 53,1,N/A,1,N/A
+91,Luka Doncic,FG_MISS,None,2:07,2,Mavericks,Pacers,38 - 53,0, ,3,Jumper
+92,Myles Turner,DEFENSIVE_REBOUND,None,2:04,2,Pacers,Mavericks,38 - 53,1,N/A,N/A,N/A
+93,Myles Turner,FG_ASSISTED,Victor Oladipo,1:59,2,Pacers,Mavericks,38 - 56,1,27,3,Jumper
+94,Bojan Bogdanovic,FOUL_ON_FLOOR,None,1:37,2,Pacers,Mavericks,38 - 56,1,N/A,N/A,N/A
+95,Harrison Barnes,FT,None,1:37,2,Mavericks,Pacers,39 - 56,0,N/A,1,N/A
+96,Harrison Barnes,FT,None,1:37,2,Mavericks,Pacers,40 - 56,0,N/A,1,N/A
+97,Wesley Matthews,FOUL_ON_FLOOR,None,1:20,2,Mavericks,Pacers,40 - 56,0,N/A,N/A,N/A
+98,Myles Turner,FT_MISS,None,1:20,2,Pacers,Mavericks,40 - 56,1,N/A,1,N/A
+99,Team,OFFENSIVE_REBOUND,None,1:20,2,Pacers,Mavericks,40 - 56,1,N/A,N/A,N/A
+100,Myles Turner,FT_MISS,None,1:20,2,Pacers,Mavericks,40 - 56,1,N/A,1,N/A
+101,DeAndre Jordan,DEFENSIVE_REBOUND,None,1:18,2,Mavericks,Pacers,40 - 56,0,N/A,N/A,N/A
+102,Wesley Matthews,FG_MISS,None,1:01,2,Mavericks,Pacers,40 - 56,0,27,3,Jumper
+103,Bojan Bogdanovic,DEFENSIVE_REBOUND,None,58.8,2,Pacers,Mavericks,40 - 56,1,N/A,N/A,N/A
+104,Harrison Barnes,FOUL_ON_FLOOR,None,55.0,2,Mavericks,Pacers,40 - 56,0,N/A,N/A,N/A
+105,Bojan Bogdanovic,FT,None,55.0,2,Pacers,Mavericks,40 - 57,1,N/A,1,N/A
+106,Bojan Bogdanovic,FT,None,55.0,2,Pacers,Mavericks,40 - 58,1,N/A,1,N/A
+107,Harrison Barnes,FG_MISS,None,31.4,2,Mavericks,Pacers,40 - 58,0,27,3,Jumper
+108,Luka Doncic,OFFENSIVE_REBOUND,None,28.3,2,Mavericks,Pacers,40 - 58,0,N/A,N/A,N/A
+109,Luka Doncic,FG_UNASSISTED,None,27.7,2,Mavericks,Pacers,42 - 58,0, ,3,Jumper
+110,Victor Oladipo,FG_MISS,None,4.9,2,Pacers,Mavericks,42 - 58,1,18,3,Jumper
+111,Luka Doncic,DEFENSIVE_REBOUND,None,1.0,2,Mavericks,Pacers,42 - 58,0,N/A,N/A,N/A
+112,Luka Doncic,FG_MISS,None,0.0,2,Mavericks,Pacers,42 - 58,0,59,3,Jumper
+113,Team,OFFENSIVE_REBOUND,None,0.0,2,Mavericks,Pacers,42 - 58,0,N/A,N/A,N/A
+114,End of,Unknown,None,0.0,2,Pacers,Mavericks,42 - 58,1,N/A,N/A,N/A
+0,Luka Doncic,FOUL_TECHNICAL,None,12:00,3,Mavericks,Pacers,42 - 58,0,N/A,N/A,N/A
+1,Bojan Bogdanovic,FT,None,12:00,3,Pacers,Mavericks,42 - 59,1,N/A,1,N/A
+2,Victor Oladipo,FG_MISS,None,11:45,3,Pacers,Mavericks,42 - 59,1,24,3,Jumper
+3,DeAndre Jordan,DEFENSIVE_REBOUND,None,11:42,3,Mavericks,Pacers,42 - 59,0,N/A,N/A,N/A
+4,Bojan Bogdanovic,FOUL_ON_FLOOR,None,11:34,3,Pacers,Mavericks,42 - 59,1,N/A,N/A,N/A
+5,Luka Doncic,FT,None,11:34,3,Mavericks,Pacers,43 - 59,0,N/A,1,N/A
+6,Luka Doncic,FT,None,11:34,3,Mavericks,Pacers,44 - 59,0,N/A,1,N/A
+7,Thaddeus Young,FG_MISS,None,11:22,3,Pacers,Mavericks,44 - 59,1,27,3,Jumper
+8,Wesley Matthews,DEFENSIVE_REBOUND,None,11:19,3,Mavericks,Pacers,44 - 59,0,N/A,N/A,N/A
+9,Harrison Barnes,FG_MISS,None,11:06,3,Mavericks,Pacers,44 - 59,0,0,2,Layup
+10,DeAndre Jordan,OFFENSIVE_REBOUND,None,11:01,3,Mavericks,Pacers,44 - 59,0,N/A,N/A,N/A
+11,DeAndre Jordan,FG_UNASSISTED,None,11:01,3,Mavericks,Pacers,46 - 59,0,0,2,Dunk
+12,Darren Collison,FG_MISS,None,10:54,3,Pacers,Mavericks,46 - 59,1, ,3,Jumper
+13,Thaddeus Young,OFFENSIVE_REBOUND,None,10:51,3,Pacers,Mavericks,46 - 59,1,N/A,N/A,N/A
+14,Thaddeus Young,FG_ASSISTED,Victor Oladipo,10:43,3,Pacers,Mavericks,46 - 61,1,8,3,Jumper
+15,Maximilian Kleber,FG_MISS,None,10:30,3,Mavericks,Pacers,46 - 61,0,23,3,Jumper
+16,Bojan Bogdanovic,DEFENSIVE_REBOUND,None,10:26,3,Pacers,Mavericks,46 - 61,1,N/A,N/A,N/A
+17,Bojan Bogdanovic,FG_MISS,None,10:22,3,Pacers,Mavericks,46 - 61,1,27,3,Jumper
+18,Victor Oladipo,OFFENSIVE_REBOUND,None,10:20,3,Pacers,Mavericks,46 - 61,1,N/A,N/A,N/A
+19,Victor Oladipo,FG_MISS,None,10:20,3,Pacers,Mavericks,46 - 61,1, ,3,Jumper
+20,Team,OFFENSIVE_REBOUND,None,10:20,3,Pacers,Mavericks,46 - 61,1,N/A,N/A,N/A
+21,Darren Collison,TURNOVER,Luka Doncic,10:07,3,Pacers,Mavericks,46 - 61,1,N/A,N/A,N/A
+22,Harrison Barnes,FG_MISS,Myles Turner,10:02,3,Pacers,Mavericks,46 - 61,0,0,2,Layup
+23,Team,OFFENSIVE_REBOUND,None,10:02,3,Mavericks,Pacers,46 - 61,0,N/A,N/A,N/A
+24,Wesley Matthews,FG_MISS,None,9:59,3,Mavericks,Pacers,46 - 61,0,28,3,Jumper
+25,Luka Doncic,OFFENSIVE_REBOUND,None,9:56,3,Mavericks,Pacers,46 - 61,0,N/A,N/A,N/A
+26,Luka Doncic's,FG_MISS,Myles Turner,9:54,3,Pacers,Mavericks,46 - 61,0,0,2,Layup
+27,Victor Oladipo,DEFENSIVE_REBOUND,None,9:51,3,Pacers,Mavericks,46 - 61,1,N/A,N/A,N/A
+28,Bojan Bogdanovic,FG_MISS,None,9:49,3,Pacers,Mavericks,46 - 61,1,26,3,Jumper
+29,DeAndre Jordan,DEFENSIVE_REBOUND,None,9:47,3,Mavericks,Pacers,46 - 61,0,N/A,N/A,N/A
+30,Darren Collison,FOUL_ON_FLOOR,None,9:40,3,Pacers,Mavericks,46 - 61,1,N/A,N/A,N/A
+31,Wesley Matthews,FT,None,9:40,3,Mavericks,Pacers,47 - 61,0,N/A,1,N/A
+32,Wesley Matthews,FT,None,9:40,3,Mavericks,Pacers,48 - 61,0,N/A,1,N/A
+33,Victor Oladipo,FG_MISS,None,9:29,3,Pacers,Mavericks,48 - 61,1,28,3,Jumper
+34,DeAndre Jordan,DEFENSIVE_REBOUND,None,9:27,3,Mavericks,Pacers,48 - 61,0,N/A,N/A,N/A
+35,Darren Collison,FOUL_ON_FLOOR,None,9:20,3,Pacers,Mavericks,48 - 61,1,N/A,N/A,N/A
+36,Victor Oladipo,FOUL_ON_FLOOR,None,9:13,3,Pacers,Mavericks,48 - 61,1,N/A,N/A,N/A
+37,Harrison Barnes,FG_MISS,Myles Turner,9:02,3,Pacers,Mavericks,48 - 61,0,0,2,Layup
+38,Darren Collison,DEFENSIVE_REBOUND,None,8:59,3,Pacers,Mavericks,48 - 61,1,N/A,N/A,N/A
+39,Victor Oladipo,FG_MISS,None,8:57,3,Pacers,Mavericks,48 - 61,1,24,3,Jumper
+40,Thaddeus Young,OFFENSIVE_REBOUND,None,8:54,3,Pacers,Mavericks,48 - 61,1,N/A,N/A,N/A
+41,Darren Collison,FG_ASSISTED,Thaddeus Young,8:52,3,Pacers,Mavericks,48 - 64,1,23,3,Jumper
+42,DeAndre Jordan,FG_ASSISTED,Luka Doncic,8:38,3,Mavericks,Pacers,50 - 64,0,0,2,Layup
+43,Myles Turner,FG_MISS,None,8:26,3,Pacers,Mavericks,50 - 64,1,28,3,Jumper
+44,DeAndre Jordan,DEFENSIVE_REBOUND,None,8:24,3,Mavericks,Pacers,50 - 64,0,N/A,N/A,N/A
+45,Bojan Bogdanovic,FOUL_ON_FLOOR,None,8:07,3,Pacers,Mavericks,50 - 64,1,N/A,N/A,N/A
+46,Harrison Barnes,FT,None,8:07,3,Mavericks,Pacers,51 - 64,0,N/A,1,N/A
+47,Harrison Barnes,FT,None,8:07,3,Mavericks,Pacers,52 - 64,0,N/A,1,N/A
+48,Darren Collison,FG_UNASSISTED,None,7:56,3,Pacers,Mavericks,52 - 67,1,28,3,Jumper
+49,DeAndre Jordan,FG_ASSISTED,Luka Doncic,7:42,3,Mavericks,Pacers,54 - 67,0,0,2,Layup
+50,Team,Unknown,None,7:42,3,Pacers,Mavericks,54 - 67,1,N/A,N/A,N/A
+51,Darren Collison,FG_UNASSISTED,None,7:32,3,Pacers,Mavericks,54 - 69,1,19,3,Jumper
+52,Wesley Matthews,FG_MISS,None,7:06,3,Mavericks,Pacers,54 - 69,0,28,3,Jumper
+53,Thaddeus Young,DEFENSIVE_REBOUND,None,7:04,3,Pacers,Mavericks,54 - 69,1,N/A,N/A,N/A
+54,Myles Turner,FG_ASSISTED,Victor Oladipo,6:59,3,Pacers,Mavericks,54 - 71,1,0,2,Dunk
+55,DeAndre Jordan,TURNOVER,None,6:43,3,Mavericks,Pacers,54 - 71,0,N/A,N/A,N/A
+56,Luka Doncic,FOUL_ON_FLOOR,None,6:29,3,Mavericks,Pacers,54 - 71,0,N/A,N/A,N/A
+57,Darren Collison,FT,None,6:29,3,Pacers,Mavericks,54 - 72,1,N/A,1,N/A
+58,Darren Collison,FT,None,6:29,3,Pacers,Mavericks,54 - 73,1,N/A,1,N/A
+59,Luka Doncic,FG_MISS,None,6:05,3,Mavericks,Pacers,54 - 73,0,27,3,Jumper
+60,Bojan Bogdanovic,DEFENSIVE_REBOUND,None,6:02,3,Pacers,Mavericks,54 - 73,1,N/A,N/A,N/A
+61,Darren Collison,FG_MISS,None,5:50,3,Pacers,Mavericks,54 - 73,1,18,3,Jumper
+62,Harrison Barnes,DEFENSIVE_REBOUND,None,5:48,3,Mavericks,Pacers,54 - 73,0,N/A,N/A,N/A
+63,Harrison Barnes,FG_UNASSISTED,None,5:38,3,Mavericks,Pacers,56 - 73,0,19,3,Jumper
+64,Victor Oladipo,FG_MISS,None,5:29,3,Pacers,Mavericks,56 - 73,1,18,3,Jumper
+65,Harrison Barnes,DEFENSIVE_REBOUND,None,5:26,3,Mavericks,Pacers,56 - 73,0,N/A,N/A,N/A
+66,Wesley Matthews,FG_ASSISTED,Harrison Barnes,5:19,3,Mavericks,Pacers,59 - 73,0,27,3,Jumper
+67,Bojan Bogdanovic,FG_MISS,None,4:57,3,Pacers,Mavericks,59 - 73,1,29,3,Jumper
+68,Luka Doncic,DEFENSIVE_REBOUND,None,4:56,3,Mavericks,Pacers,59 - 73,0,N/A,N/A,N/A
+69,Wesley Matthews,FG_MISS,None,4:52,3,Mavericks,Pacers,59 - 73,0,29,3,Jumper
+70,Thaddeus Young,DEFENSIVE_REBOUND,None,4:49,3,Pacers,Mavericks,59 - 73,1,N/A,N/A,N/A
+71,Thaddeus Young,FG_MISS,None,4:38,3,Pacers,Mavericks,59 - 73,1,0,2,Layup
+72,DeAndre Jordan,DEFENSIVE_REBOUND,None,4:35,3,Mavericks,Pacers,59 - 73,0,N/A,N/A,N/A
+73,Harrison Barnes,FG_ASSISTED,Luka Doncic,4:26,3,Mavericks,Pacers,62 - 73,0,25,3,Jumper
+74,Victor Oladipo,FG_MISS,None,4:08,3,Pacers,Mavericks,62 - 73,1,18,3,Jumper
+75,DeAndre Jordan,DEFENSIVE_REBOUND,None,4:05,3,Mavericks,Pacers,62 - 73,0,N/A,N/A,N/A
+76,Thaddeus Young,FOUL_ON_FLOOR,None,3:57,3,Pacers,Mavericks,62 - 73,1,N/A,N/A,N/A
+77,Thaddeus Young,FOUL_TECHNICAL,None,3:57,3,Pacers,Mavericks,62 - 73,1,N/A,N/A,N/A
+78,Harrison Barnes,FT,None,3:57,3,Mavericks,Pacers,63 - 73,0,N/A,1,N/A
+79,Luka Doncic,FT_MISS,None,3:57,3,Mavericks,Pacers,63 - 73,0,N/A,1,N/A
+80,Team,OFFENSIVE_REBOUND,None,3:57,3,Mavericks,Pacers,63 - 73,0,N/A,N/A,N/A
+81,Domantas Sabonis,SUBSTITUTION,Young Thaddeus,3:57,3,Pacers,Mavericks,63 - 73,1,N/A,N/A,N/A
+82,Tyreke Evans,SUBSTITUTION,Bogdanovic Bojan,3:57,3,Pacers,Mavericks,63 - 73,1,N/A,N/A,N/A
+83,Dorian Finney-Smith,SUBSTITUTION,Kleber Maximilian,3:57,3,Mavericks,Pacers,63 - 73,0,N/A,N/A,N/A
+84,Luka Doncic,FT_MISS,None,3:57,3,Mavericks,Pacers,63 - 73,0,N/A,1,N/A
+85,Myles Turner,DEFENSIVE_REBOUND,None,3:56,3,Pacers,Mavericks,63 - 73,1,N/A,N/A,N/A
+86,Victor Oladipo,FG_ASSISTED,Darren Collison,3:44,3,Pacers,Mavericks,63 - 76,1,29,3,Jumper
+87,Harrison Barnes,FG_ASSISTED,Wesley Matthews,3:29,3,Mavericks,Pacers,65 - 76,0, ,3,Jumper
+88,Myles Turner,FG_MISS,None,3:03,3,Pacers,Mavericks,65 - 76,1,20,3,Jumper
+89,Domantas Sabonis,OFFENSIVE_REBOUND,None,3:00,3,Pacers,Mavericks,65 - 76,1,N/A,N/A,N/A
+90,Domantas Sabonis,FG_UNASSISTED,None,3:00,3,Pacers,Mavericks,65 - 78,1, ,3,Jumper
+91,Team,Unknown,None,3:00,3,Mavericks,Pacers,65 - 78,0,N/A,N/A,N/A
+92,Luka Doncic,FOUL_TECHNICAL,None,3:00,3,Mavericks,Pacers,65 - 78,0,N/A,N/A,N/A
+93,Luka Doncic,Unknown,None,3:00,3,Mavericks,Pacers,65 - 78,0,N/A,N/A,N/A
+94,Darren Collison,FT,None,3:00,3,Pacers,Mavericks,65 - 79,1,N/A,1,N/A
+95,Jalen Brunson,SUBSTITUTION,Doncic Luka,3:00,3,Mavericks,Pacers,65 - 79,0,N/A,N/A,N/A
+96,Jalen Brunson,FG_MISS,None,2:46,3,Mavericks,Pacers,65 - 79,0,27,3,Jumper
+97,Victor Oladipo,DEFENSIVE_REBOUND,None,2:44,3,Pacers,Mavericks,65 - 79,1,N/A,N/A,N/A
+98,Darren Collison,FG_MISS,None,2:25,3,Pacers,Mavericks,65 - 79,1, ,3,Jumper
+99,DeAndre Jordan,DEFENSIVE_REBOUND,None,2:21,3,Mavericks,Pacers,65 - 79,0,N/A,N/A,N/A
+100,Harrison Barnes,FG_MISS,None,2:09,3,Mavericks,Pacers,65 - 79,0,19,3,Jumper
+101,Victor Oladipo,DEFENSIVE_REBOUND,None,2:07,3,Pacers,Mavericks,65 - 79,1,N/A,N/A,N/A
+102,Harrison Barnes,FOUL_ON_FLOOR,None,1:59,3,Mavericks,Pacers,65 - 79,0,N/A,N/A,N/A
+103,Cory Joseph,SUBSTITUTION,Collison Darren,1:59,3,Pacers,Mavericks,65 - 79,1,N/A,N/A,N/A
+104,Devin Harris,SUBSTITUTION,Jordan DeAndre,1:59,3,Mavericks,Pacers,65 - 79,0,N/A,N/A,N/A
+105,Dwight Powell,SUBSTITUTION,Matthews Wesley,1:59,3,Mavericks,Pacers,65 - 79,0,N/A,N/A,N/A
+106,Tyreke Evans,FG_MISS,None,1:46,3,Pacers,Mavericks,65 - 79,1,21,3,Jumper
+107,Jalen Brunson,DEFENSIVE_REBOUND,None,1:43,3,Mavericks,Pacers,65 - 79,0,N/A,N/A,N/A
+108,Tyreke Evans,FOUL_ON_FLOOR,None,1:38,3,Pacers,Mavericks,65 - 79,1,N/A,N/A,N/A
+109,Dwight Powell,FT_MISS,None,1:38,3,Mavericks,Pacers,65 - 79,0,N/A,1,N/A
+110,Team,OFFENSIVE_REBOUND,None,1:38,3,Mavericks,Pacers,65 - 79,0,N/A,N/A,N/A
+111,Thaddeus Young,SUBSTITUTION,Oladipo Victor,1:38,3,Pacers,Mavericks,65 - 79,1,N/A,N/A,N/A
+112,Doug McDermott,SUBSTITUTION,Turner Myles,1:38,3,Pacers,Mavericks,65 - 79,1,N/A,N/A,N/A
+113,Dwight Powell,FT,None,1:38,3,Mavericks,Pacers,66 - 79,0,N/A,1,N/A
+114,Cory Joseph,FG_UNASSISTED,None,1:26,3,Pacers,Mavericks,66 - 81,1,21,3,Jumper
+115,Harrison Barnes,FG_MISS,None,1:11,3,Mavericks,Pacers,66 - 81,0,26,3,Jumper
+116,Cory Joseph,DEFENSIVE_REBOUND,None,1:08,3,Pacers,Mavericks,66 - 81,1,N/A,N/A,N/A
+117,Dorian Finney-Smith,FOUL_ON_FLOOR,None,53.9,3,Mavericks,Pacers,66 - 81,0,N/A,N/A,N/A
+118,Tyreke Evans,FT,None,53.9,3,Pacers,Mavericks,66 - 82,1,N/A,1,N/A
+119,Ryan Broekhoff,SUBSTITUTION,Barnes Harrison,53.9,3,Mavericks,Pacers,66 - 82,0,N/A,N/A,N/A
+120,Tyreke Evans,FT_MISS,None,53.9,3,Pacers,Mavericks,66 - 82,1,N/A,1,N/A
+121,Dwight Powell,DEFENSIVE_REBOUND,None,53.9,3,Mavericks,Pacers,66 - 82,0,N/A,N/A,N/A
+122,Jalen Brunson,FG_ASSISTED,Dwight Powell,40.9,3,Mavericks,Pacers,69 - 82,0,29,3,Jumper
+123,Tyreke Evans,FG_UNASSISTED,None,32.9,3,Pacers,Mavericks,69 - 84,1, ,3,Jumper
+124,Dorian Finney-Smith,FG_MISS,None,15.5,3,Mavericks,Pacers,69 - 84,0,5,3,Jumper
+125,Devin Harris,OFFENSIVE_REBOUND,None,11.7,3,Mavericks,Pacers,69 - 84,0,N/A,N/A,N/A
+126,Jalen Brunson,FG_MISS,None,6.7,3,Mavericks,Pacers,69 - 84,0,26,3,Jumper
+127,Thaddeus Young,DEFENSIVE_REBOUND,None,4.5,3,Pacers,Mavericks,69 - 84,1,N/A,N/A,N/A
+128,Cory Joseph,FG_MISS,None,1.4,3,Pacers,Mavericks,69 - 84,1,49,3,Jumper
+129,Team,OFFENSIVE_REBOUND,None,0.1,3,Pacers,Mavericks,69 - 84,1,N/A,N/A,N/A
+130,End of,Unknown,None,0.0,3,Pacers,Mavericks,69 - 84,1,N/A,N/A,N/A
+0,Ryan Broekhoff,FG_MISS,None,11:48,4,Mavericks,Pacers,69 - 84,0,27,3,Jumper
+1,Cory Joseph,DEFENSIVE_REBOUND,None,11:44,4,Pacers,Mavericks,69 - 84,1,N/A,N/A,N/A
+2,Devin Harris,FOUL_ON_FLOOR,None,11:27,4,Mavericks,Pacers,69 - 84,0,N/A,N/A,N/A
+3,Doug McDermott,FT,None,11:27,4,Pacers,Mavericks,69 - 85,1,N/A,1,N/A
+4,Doug McDermott,FT,None,11:27,4,Pacers,Mavericks,69 - 86,1,N/A,1,N/A
+5,Dwight Powell,FG_ASSISTED,Dorian Finney-Smith,11:10,4,Mavericks,Pacers,71 - 86,0,0,2,Layup
+6,Doug McDermott,FG_ASSISTED,Domantas Sabonis,10:54,4,Pacers,Mavericks,71 - 88,1,0,2,Layup
+7,Jalen Brunson,FG_UNASSISTED,None,10:45,4,Mavericks,Pacers,73 - 88,0, ,3,Jumper
+8,Cory Joseph,FG_MISS,None,10:31,4,Pacers,Mavericks,73 - 88,1,25,3,Jumper
+9,Team,DEFENSIVE_REBOUND,None,10:29,4,Mavericks,Pacers,73 - 88,0,N/A,N/A,N/A
+10,Jalen Brunson,FG_ASSISTED,Ryan Broekhoff,10:15,4,Mavericks,Pacers,75 - 88,0,5,3,Jumper
+11,Dorian Finney-Smith,FOUL_ON_FLOOR,None,9:54,4,Mavericks,Pacers,75 - 88,0,N/A,N/A,N/A
+12,Doug McDermott,FG_ASSISTED,Thaddeus Young,9:49,4,Pacers,Mavericks,75 - 90,1,0,2,Layup
+13,Domantas Sabonis,FOUL_ON_FLOOR,None,9:40,4,Pacers,Mavericks,75 - 90,1,N/A,N/A,N/A
+14,Dorian Finney-Smith,FG_ASSISTED,Devin Harris,9:35,4,Mavericks,Pacers,78 - 90,0,30,3,Jumper
+15,Tyreke Evans,FOUL_ON_FLOOR,None,9:20,4,Pacers,Mavericks,78 - 90,1,N/A,N/A,N/A
+16,Tyreke Evans,TURNOVER,None,9:20,4,Pacers,Mavericks,78 - 90,1,N/A,N/A,N/A
+17,Jalen Brunson,FG_UNASSISTED,None,9:02,4,Mavericks,Pacers,80 - 90,0,11,3,Jumper
+18,Cory Joseph,FOUL_ON_FLOOR,None,9:02,4,Pacers,Mavericks,80 - 90,1,N/A,N/A,N/A
+19,Jalen Brunson,FT,None,9:02,4,Mavericks,Pacers,81 - 90,0,N/A,1,N/A
+20,Tyreke Evans,FG_UNASSISTED,None,8:49,4,Pacers,Mavericks,81 - 92,1,0,2,Layup
+21,Devin Harris,FG_MISS,None,8:33,4,Mavericks,Pacers,81 - 92,0, ,3,Jumper
+22,Dwight Powell,OFFENSIVE_REBOUND,None,8:30,4,Mavericks,Pacers,81 - 92,0,N/A,N/A,N/A
+23,Devin Harris,FG_ASSISTED,Dwight Powell,8:28,4,Mavericks,Pacers,83 - 92,0, ,3,Jumper
+24,Team,Unknown,None,8:28,4,Pacers,Mavericks,83 - 92,1,N/A,N/A,N/A
+25,Bojan Bogdanovic,SUBSTITUTION,Young Thaddeus,8:28,4,Pacers,Mavericks,83 - 92,1,N/A,N/A,N/A
+26,Devin Harris,FOUL_ON_FLOOR,None,8:08,4,Mavericks,Pacers,83 - 92,0,N/A,N/A,N/A
+27,Tyreke Evans,FT,None,8:08,4,Pacers,Mavericks,83 - 93,1,N/A,1,N/A
+28,Victor Oladipo,SUBSTITUTION,McDermott Doug,8:08,4,Pacers,Mavericks,83 - 93,1,N/A,N/A,N/A
+29,Tyreke Evans,FT,None,8:08,4,Pacers,Mavericks,83 - 94,1,N/A,1,N/A
+30,Ryan Broekhoff,FG_MISS,None,7:58,4,Mavericks,Pacers,83 - 94,0,28,3,Jumper
+31,Cory Joseph,DEFENSIVE_REBOUND,None,7:56,4,Pacers,Mavericks,83 - 94,1,N/A,N/A,N/A
+32,Domantas Sabonis,FOUL_ON_FLOOR,None,7:46,4,Pacers,Mavericks,83 - 94,1,N/A,N/A,N/A
+33,Domantas Sabonis,TURNOVER,None,7:46,4,Pacers,Mavericks,83 - 94,1,N/A,N/A,N/A
+34,Dwight Powell,FG_MISS,None,7:31,4,Mavericks,Pacers,83 - 94,0,0,2,Layup
+35,Dorian Finney-Smith,OFFENSIVE_REBOUND,None,7:28,4,Mavericks,Pacers,83 - 94,0,N/A,N/A,N/A
+36,Devin Harris,FG_MISS,None,7:25,4,Mavericks,Pacers,83 - 94,0,26,3,Jumper
+37,Bojan Bogdanovic,DEFENSIVE_REBOUND,None,7:22,4,Pacers,Mavericks,83 - 94,1,N/A,N/A,N/A
+38,Tyreke Evans,FG_UNASSISTED,None,7:06,4,Pacers,Mavericks,83 - 96,1,6,3,Jumper
+39,Team,Unknown,None,7:05,4,Mavericks,Pacers,83 - 96,0,N/A,N/A,N/A
+40,Wesley Matthews,SUBSTITUTION,Powell Dwight,7:05,4,Mavericks,Pacers,83 - 96,0,N/A,N/A,N/A
+41,DeAndre Jordan,SUBSTITUTION,Finney-Smith Dorian,7:05,4,Mavericks,Pacers,83 - 96,0,N/A,N/A,N/A
+42,Maximilian Kleber,SUBSTITUTION,Harris Devin,7:05,4,Mavericks,Pacers,83 - 96,0,N/A,N/A,N/A
+43,Harrison Barnes,SUBSTITUTION,Broekhoff Ryan,7:05,4,Mavericks,Pacers,83 - 96,0,N/A,N/A,N/A
+44,Wesley Matthews,FG_ASSISTED,Jalen Brunson,6:46,4,Mavericks,Pacers,86 - 96,0,26,3,Jumper
+45,Bojan Bogdanovic,FG_MISS,Maximilian Kleber,6:27,4,Mavericks,Pacers,86 - 96,1,1,3,Jumper
+46,Jalen Brunson,DEFENSIVE_REBOUND,None,6:24,4,Mavericks,Pacers,86 - 96,0,N/A,N/A,N/A
+47,Harrison Barnes,FG_MISS,None,6:20,4,Mavericks,Pacers,86 - 96,0,27,3,Jumper
+48,Domantas Sabonis,DEFENSIVE_REBOUND,None,6:18,4,Pacers,Mavericks,86 - 96,1,N/A,N/A,N/A
+49,Domantas Sabonis,FG_ASSISTED,Victor Oladipo,6:10,4,Pacers,Mavericks,86 - 98,1,0,2,Layup
+50,Jalen Brunson,FG_UNASSISTED,None,5:57,4,Mavericks,Pacers,88 - 98,0,19,3,Jumper
+51,Tyreke Evans,FG_ASSISTED,Domantas Sabonis,5:42,4,Pacers,Mavericks,88 - 101,1,26,3,Jumper
+52,Jalen Brunson,TURNOVER,Victor Oladipo,5:26,4,Mavericks,Pacers,88 - 101,0,N/A,N/A,N/A
+53,Bojan Bogdanovic,FG_ASSISTED,Tyreke Evans,5:22,4,Pacers,Mavericks,88 - 103,1,1,3,Jumper
+54,Team,Unknown,None,5:21,4,Mavericks,Pacers,88 - 103,0,N/A,N/A,N/A
+55,Harrison Barnes,TURNOVER,None,5:10,4,Mavericks,Pacers,88 - 103,0,N/A,N/A,N/A
+56,Victor Oladipo,FG_MISS,None,4:53,4,Pacers,Mavericks,88 - 103,1,20,3,Jumper
+57,DeAndre Jordan,DEFENSIVE_REBOUND,None,4:50,4,Mavericks,Pacers,88 - 103,0,N/A,N/A,N/A
+58,Wesley Matthews,TURNOVER,Victor Oladipo,4:43,4,Mavericks,Pacers,88 - 103,0,N/A,N/A,N/A
+59,Cory Joseph,FG_UNASSISTED,None,4:26,4,Pacers,Mavericks,88 - 105,1,9,3,Jumper
+60,Domantas Sabonis,FOUL_ON_FLOOR,None,4:04,4,Pacers,Mavericks,88 - 105,1,N/A,N/A,N/A
+61,Wesley Matthews,FG_MISS,None,3:53,4,Mavericks,Pacers,88 - 105,0,27,3,Jumper
+62,Bojan Bogdanovic,DEFENSIVE_REBOUND,None,3:49,4,Pacers,Mavericks,88 - 105,1,N/A,N/A,N/A
+63,Victor Oladipo,TURNOVER,None,3:39,4,Pacers,Mavericks,88 - 105,1,N/A,N/A,N/A
+64,Ryan Broekhoff,SUBSTITUTION,Kleber Maximilian,3:39,4,Mavericks,Pacers,88 - 105,0,N/A,N/A,N/A
+65,Harrison Barnes,FG_ASSISTED,Jalen Brunson,3:29,4,Mavericks,Pacers,91 - 105,0,23,3,Jumper
+66,Tyreke Evans,FG_MISS,None,3:06,4,Pacers,Mavericks,91 - 105,1,28,3,Jumper
+67,Victor Oladipo,OFFENSIVE_REBOUND,None,3:03,4,Pacers,Mavericks,91 - 105,1,N/A,N/A,N/A
+68,Wesley Matthews,FOUL_ON_FLOOR,None,2:59,4,Mavericks,Pacers,91 - 105,0,N/A,N/A,N/A
+69,Daryl Macon,SUBSTITUTION,Jordan DeAndre,2:59,4,Mavericks,Pacers,91 - 105,0,N/A,N/A,N/A
+70,Dwight Powell,SUBSTITUTION,Brunson Jalen,2:59,4,Mavericks,Pacers,91 - 105,0,N/A,N/A,N/A
+71,Dorian Finney-Smith,SUBSTITUTION,Matthews Wesley,2:59,4,Mavericks,Pacers,91 - 105,0,N/A,N/A,N/A
+72,Dirk Nowitzki,SUBSTITUTION,Barnes Harrison,2:59,4,Mavericks,Pacers,91 - 105,0,N/A,N/A,N/A
+73,Dorian Finney-Smith,FOUL_ON_FLOOR,None,2:53,4,Mavericks,Pacers,91 - 105,0,N/A,N/A,N/A
+74,Victor Oladipo,FT_MISS,None,2:53,4,Pacers,Mavericks,91 - 105,1,N/A,1,N/A
+75,Team,OFFENSIVE_REBOUND,None,2:53,4,Pacers,Mavericks,91 - 105,1,N/A,N/A,N/A
+76,Salah Mejri,SUBSTITUTION,Powell Dwight,2:53,4,Mavericks,Pacers,91 - 105,0,N/A,N/A,N/A
+77,Victor Oladipo,FT,None,2:53,4,Pacers,Mavericks,91 - 106,1,N/A,1,N/A
+78,Dirk Nowitzki,FG_MISS,None,2:43,4,Mavericks,Pacers,91 - 106,0,31,3,Jumper
+79,Dorian Finney-Smith,OFFENSIVE_REBOUND,None,2:41,4,Mavericks,Pacers,91 - 106,0,N/A,N/A,N/A
+80,Victor Oladipo,FOUL_ON_FLOOR,None,2:41,4,Pacers,Mavericks,91 - 106,1,N/A,N/A,N/A
+81,Kyle O'Quinn,SUBSTITUTION,Oladipo Victor,2:41,4,Pacers,Mavericks,91 - 106,1,N/A,N/A,N/A
+82,Doug McDermott,SUBSTITUTION,Sabonis Domantas,2:41,4,Pacers,Mavericks,91 - 106,1,N/A,N/A,N/A
+83,Kyle O'Quinn,FOUL_ON_FLOOR,None,2:32,4,Pacers,Mavericks,91 - 106,1,N/A,N/A,N/A
+84,Salah Mejri,FT,None,2:32,4,Mavericks,Pacers,92 - 106,0,N/A,1,N/A
+85,Salah Mejri,FT,None,2:32,4,Mavericks,Pacers,93 - 106,0,N/A,1,N/A
+86,Bojan Bogdanovic,FG_MISS,Dirk Nowitzki,2:21,4,Mavericks,Pacers,93 - 106,1,0,2,Layup
+87,Team,OFFENSIVE_REBOUND,None,2:21,4,Pacers,Mavericks,93 - 106,1,N/A,N/A,N/A
+88,Bojan Bogdanovic,TURNOVER,Daryl Macon,2:13,4,Pacers,Mavericks,93 - 106,1,N/A,N/A,N/A
+89,Daryl Macon,FG_UNASSISTED,None,2:08,4,Mavericks,Pacers,95 - 106,0,1,3,Jumper
+90,Doug McDermott,FG_ASSISTED,Bojan Bogdanovic,1:56,4,Pacers,Mavericks,95 - 109,1,23,3,Jumper
+91,Dirk Nowitzki,FG_MISS,None,1:34,4,Mavericks,Pacers,95 - 109,0,28,3,Jumper
+92,Cory Joseph,DEFENSIVE_REBOUND,None,1:30,4,Pacers,Mavericks,95 - 109,1,N/A,N/A,N/A
+93,Team,Unknown,None,1:30,4,Pacers,Mavericks,95 - 109,1,N/A,N/A,N/A
+94,Aaron Holiday,SUBSTITUTION,Joseph Cory,1:30,4,Pacers,Mavericks,95 - 109,1,N/A,N/A,N/A
+95,T.J. Leaf,SUBSTITUTION,Evans Tyreke,1:30,4,Pacers,Mavericks,95 - 109,1,N/A,N/A,N/A
+96,Alize Johnson,SUBSTITUTION,Bogdanovic Bojan,1:30,4,Pacers,Mavericks,95 - 109,1,N/A,N/A,N/A
+97,Aaron Holiday,FG_MISS,None,1:18,4,Pacers,Mavericks,95 - 109,1,1,3,Jumper
+98,Salah Mejri,DEFENSIVE_REBOUND,None,1:15,4,Mavericks,Pacers,95 - 109,0,N/A,N/A,N/A
+99,Dorian Finney-Smith,FG_MISS,None,1:01,4,Mavericks,Pacers,95 - 109,0,28,3,Jumper
+100,T.J. Leaf,DEFENSIVE_REBOUND,None,59.2,4,Pacers,Mavericks,95 - 109,1,N/A,N/A,N/A
+101,Kyle O'Quinn,FG_ASSISTED,T.J. Leaf,46.0,4,Pacers,Mavericks,95 - 111,1,6,3,Jumper
+102,Dirk Nowitzki,FG_MISS,None,35.9,4,Mavericks,Pacers,95 - 111,0,27,3,Jumper
+103,Dorian Finney-Smith,OFFENSIVE_REBOUND,None,32.2,4,Mavericks,Pacers,95 - 111,0,N/A,N/A,N/A
+104,Dorian Finney-Smith,FG_UNASSISTED,None,31.1,4,Mavericks,Pacers,97 - 111,0,1,3,Jumper
+105,Kyle O'Quinn,TURNOVER,Dorian Finney-Smith,17.1,4,Pacers,Mavericks,97 - 111,1,N/A,N/A,N/A
+106,Dorian Finney-Smith,FG_UNASSISTED,None,13.9,4,Mavericks,Pacers,99 - 111,0,0,2,Dunk
+107,End of,Unknown,None,0.0,4,Pacers,Mavericks,99 - 111,1,N/A,N/A,N/A
+108,End of,Unknown,None,0.0,4,Pacers,Mavericks,99 - 111,1,N/A,N/A,N/A

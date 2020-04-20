@@ -1,0 +1,541 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Al Horford,JUMP_BALL,None,12:00,1,Thunder,Celtics,0 - 0,1,N/A,N/A,N/A
+1,Paul George,FG_ASSISTED,Steven Adams,11:47,1,Thunder,Celtics,0 - 2,1,17,3,Jumper
+2,Jayson Tatum,FG_MISS,None,11:31,1,Celtics,Thunder,0 - 2,0,15,3,Jumper
+3,Steven Adams,DEFENSIVE_REBOUND,None,11:28,1,Thunder,Celtics,0 - 2,1,N/A,N/A,N/A
+4,Jerami Grant,FG_MISS,None,11:19,1,Thunder,Celtics,0 - 2,1,8,3,Jumper
+5,Al Horford,DEFENSIVE_REBOUND,None,11:17,1,Celtics,Thunder,0 - 2,0,N/A,N/A,N/A
+6,Kyrie Irving,FG_ASSISTED,Gordon Hayward,11:07,1,Celtics,Thunder,2 - 2,0,0,2,Layup
+7,Steven Adams,FG_UNASSISTED,None,10:41,1,Thunder,Celtics,2 - 4,1,6,3,Jumper
+8,Kyrie Irving,TURNOVER,Jerami Grant,10:24,1,Celtics,Thunder,2 - 4,0,N/A,N/A,N/A
+9,Al Horford,FOUL_ON_FLOOR,None,10:24,1,Celtics,Thunder,2 - 4,0,N/A,N/A,N/A
+10,Steven Adams,FG_MISS,None,10:09,1,Thunder,Celtics,2 - 4,1,0,2,Dunk
+11,Paul George,OFFENSIVE_REBOUND,None,10:07,1,Thunder,Celtics,2 - 4,1,N/A,N/A,N/A
+12,Paul George,FG_UNASSISTED,None,10:06,1,Thunder,Celtics,2 - 7,1,26,3,Jumper
+13,Al Horford,FG_MISS,None,9:48,1,Celtics,Thunder,2 - 7,0,17,3,Jumper
+14,Jerami Grant,DEFENSIVE_REBOUND,None,9:45,1,Thunder,Celtics,2 - 7,1,N/A,N/A,N/A
+15,Steven Adams,FG_ASSISTED,Russell Westbrook,9:42,1,Thunder,Celtics,2 - 9,1,0,2,Dunk
+16,Jaylen Brown,FG_MISS,None,9:29,1,Celtics,Thunder,2 - 9,0,14,3,Jumper
+17,Russell Westbrook,DEFENSIVE_REBOUND,None,9:27,1,Thunder,Celtics,2 - 9,1,N/A,N/A,N/A
+18,Jerami Grant,FG_MISS,None,9:22,1,Thunder,Celtics,2 - 9,1,0,2,Layup
+19,Jerami Grant,OFFENSIVE_REBOUND,None,9:21,1,Thunder,Celtics,2 - 9,1,N/A,N/A,N/A
+20,Jerami Grant,FG_UNASSISTED,None,9:21,1,Thunder,Celtics,2 - 11,1,0,2,Dunk
+21,Team,Unknown,None,9:21,1,Celtics,Thunder,2 - 11,0,N/A,N/A,N/A
+22,Kyrie Irving,FG_MISS,None,9:06,1,Celtics,Thunder,2 - 11,0,26,3,Jumper
+23,Jerami Grant,DEFENSIVE_REBOUND,None,9:03,1,Thunder,Celtics,2 - 11,1,N/A,N/A,N/A
+24,Russell Westbrook,FG_MISS,None,8:58,1,Thunder,Celtics,2 - 11,1, ,3,Jumper
+25,Kyrie Irving,DEFENSIVE_REBOUND,None,8:56,1,Celtics,Thunder,2 - 11,0,N/A,N/A,N/A
+26,Gordon Hayward,FG_MISS,None,8:42,1,Celtics,Thunder,2 - 11,0,25,3,Jumper
+27,Steven Adams,DEFENSIVE_REBOUND,None,8:39,1,Thunder,Celtics,2 - 11,1,N/A,N/A,N/A
+28,Jerami Grant,FG_MISS,None,8:22,1,Thunder,Celtics,2 - 11,1,0,2,Layup
+29,Al Horford,DEFENSIVE_REBOUND,None,8:21,1,Celtics,Thunder,2 - 11,0,N/A,N/A,N/A
+30,Russell Westbrook,FOUL_ON_FLOOR,None,8:06,1,Thunder,Celtics,2 - 11,1,N/A,N/A,N/A
+31,Al Horford,FG_MISS,None,8:00,1,Celtics,Thunder,2 - 11,0,20,3,Jumper
+32,Russell Westbrook,DEFENSIVE_REBOUND,None,7:57,1,Thunder,Celtics,2 - 11,1,N/A,N/A,N/A
+33,Paul George,FG_MISS,None,7:48,1,Thunder,Celtics,2 - 11,1,8,3,Jumper
+34,Terrance Ferguson,OFFENSIVE_REBOUND,None,7:45,1,Thunder,Celtics,2 - 11,1,N/A,N/A,N/A
+35,Jerami Grant,TURNOVER,None,7:41,1,Thunder,Celtics,2 - 11,1,N/A,N/A,N/A
+36,Jayson Tatum,FG_UNASSISTED,None,7:28,1,Celtics,Thunder,4 - 11,0,19,3,Jumper
+37,Jayson Tatum,FOUL_ON_FLOOR,None,7:17,1,Celtics,Thunder,4 - 11,0,N/A,N/A,N/A
+38,Paul George,FT,None,7:17,1,Thunder,Celtics,4 - 12,1,N/A,1,N/A
+39,Paul George,FT,None,7:17,1,Thunder,Celtics,4 - 13,1,N/A,1,N/A
+40,Gordon Hayward,FG_MISS,None,7:09,1,Celtics,Thunder,4 - 13,0,25,3,Jumper
+41,Paul George,DEFENSIVE_REBOUND,None,7:05,1,Thunder,Celtics,4 - 13,1,N/A,N/A,N/A
+42,Paul George,FG_MISS,None,7:02,1,Thunder,Celtics,4 - 13,1, ,3,Jumper
+43,Gordon Hayward,DEFENSIVE_REBOUND,None,6:59,1,Celtics,Thunder,4 - 13,0,N/A,N/A,N/A
+44,Paul George,FOUL_ON_FLOOR,None,6:50,1,Thunder,Celtics,4 - 13,1,N/A,N/A,N/A
+45,Marcus Morris,SUBSTITUTION,Tatum Jayson,6:50,1,Celtics,Thunder,4 - 13,0,N/A,N/A,N/A
+46,Jaylen Brown,TURNOVER,None,6:41,1,Celtics,Thunder,4 - 13,0,N/A,N/A,N/A
+47,Team,Unknown,None,6:41,1,Thunder,Celtics,4 - 13,1,N/A,N/A,N/A
+48,Paul George,FG_ASSISTED,Jerami Grant,6:30,1,Thunder,Celtics,4 - 15,1,18,3,Jumper
+49,Kyrie Irving,FG_MISS,None,6:09,1,Celtics,Thunder,4 - 15,0,24,3,Jumper
+50,Jaylen Brown,OFFENSIVE_REBOUND,None,6:06,1,Celtics,Thunder,4 - 15,0,N/A,N/A,N/A
+51,Al Horford,FG_UNASSISTED,None,5:55,1,Celtics,Thunder,6 - 15,0,7,3,Jumper
+52,Jerami Grant,FG_MISS,None,5:36,1,Thunder,Celtics,6 - 15,1,0,2,Layup
+53,Terrance Ferguson,OFFENSIVE_REBOUND,None,5:34,1,Thunder,Celtics,6 - 15,1,N/A,N/A,N/A
+54,Russell Westbrook,FG_UNASSISTED,None,5:25,1,Thunder,Celtics,6 - 17,1,20,3,Jumper
+55,Marcus Morris,FOUL_ON_FLOOR,None,5:25,1,Celtics,Thunder,6 - 17,0,N/A,N/A,N/A
+56,Patrick Patterson,SUBSTITUTION,Grant Jerami,5:25,1,Thunder,Celtics,6 - 17,1,N/A,N/A,N/A
+57,Marcus Smart,SUBSTITUTION,Brown Jaylen,5:25,1,Celtics,Thunder,6 - 17,0,N/A,N/A,N/A
+58,Terry Rozier,SUBSTITUTION,Hayward Gordon,5:25,1,Celtics,Thunder,6 - 17,0,N/A,N/A,N/A
+59,Russell Westbrook,FT_MISS,None,5:25,1,Thunder,Celtics,6 - 17,1,N/A,1,N/A
+60,Team,DEFENSIVE_REBOUND,None,5:25,1,Celtics,Thunder,6 - 17,0,N/A,N/A,N/A
+61,Marcus Morris,FG_MISS,None,5:03,1,Celtics,Thunder,6 - 17,0,18,3,Jumper
+62,Paul George,DEFENSIVE_REBOUND,None,5:00,1,Thunder,Celtics,6 - 17,1,N/A,N/A,N/A
+63,Paul George,FG_MISS,None,4:53,1,Thunder,Celtics,6 - 17,1,0,2,Layup
+64,Team,OFFENSIVE_REBOUND,None,4:53,1,Thunder,Celtics,6 - 17,1,N/A,N/A,N/A
+65,Marcus Morris,FOUL_ON_FLOOR,None,4:53,1,Celtics,Thunder,6 - 17,0,N/A,N/A,N/A
+66,Dennis Schroder,SUBSTITUTION,Ferguson Terrance,4:53,1,Thunder,Celtics,6 - 17,1,N/A,N/A,N/A
+67,Kyrie Irving,FOUL_ON_FLOOR,None,4:46,1,Celtics,Thunder,6 - 17,0,N/A,N/A,N/A
+68,Russell Westbrook,FT,None,4:46,1,Thunder,Celtics,6 - 18,1,N/A,1,N/A
+69,Russell Westbrook,FT,None,4:46,1,Thunder,Celtics,6 - 19,1,N/A,1,N/A
+70,Kyrie Irving,FG_MISS,None,4:34,1,Celtics,Thunder,6 - 19,0,0,2,Layup
+71,Patrick Patterson,DEFENSIVE_REBOUND,None,4:32,1,Thunder,Celtics,6 - 19,1,N/A,N/A,N/A
+72,Russell Westbrook,FG_MISS,None,4:22,1,Thunder,Celtics,6 - 19,1,17,3,Jumper
+73,Al Horford,DEFENSIVE_REBOUND,None,4:18,1,Celtics,Thunder,6 - 19,0,N/A,N/A,N/A
+74,Kyrie Irving,TURNOVER,None,4:16,1,Celtics,Thunder,6 - 19,0,N/A,N/A,N/A
+75,Kyrie Irving,TURNOVER,None,4:16,1,Celtics,Thunder,6 - 19,0,N/A,N/A,N/A
+76,Jayson Tatum,SUBSTITUTION,Irving Kyrie,4:16,1,Celtics,Thunder,6 - 19,0,N/A,N/A,N/A
+77,Steven Adams,FG_MISS,None,3:59,1,Thunder,Celtics,6 - 19,1,8,3,Jumper
+78,Jayson Tatum,DEFENSIVE_REBOUND,None,3:56,1,Celtics,Thunder,6 - 19,0,N/A,N/A,N/A
+79,Al Horford,FG_MISS,None,3:43,1,Celtics,Thunder,6 - 19,0,0,2,Layup
+80,Al Horford,OFFENSIVE_REBOUND,None,3:40,1,Celtics,Thunder,6 - 19,0,N/A,N/A,N/A
+81,Al Horford,FG_MISS,None,3:39,1,Celtics,Thunder,6 - 19,0, ,3,Jumper
+82,Al Horford,OFFENSIVE_REBOUND,None,3:39,1,Celtics,Thunder,6 - 19,0,N/A,N/A,N/A
+83,Al Horford,FG_UNASSISTED,None,3:36,1,Celtics,Thunder,8 - 19,0, ,3,Jumper
+84,Dennis Schroder,FG_MISS,None,3:29,1,Thunder,Celtics,8 - 19,1,25,3,Jumper
+85,Patrick Patterson,OFFENSIVE_REBOUND,None,3:26,1,Thunder,Celtics,8 - 19,1,N/A,N/A,N/A
+86,Paul George,TURNOVER,None,3:20,1,Thunder,Celtics,8 - 19,1,N/A,N/A,N/A
+87,Al Horford,FG_ASSISTED,Marcus Smart,3:07,1,Celtics,Thunder,10 - 19,0,13,3,Jumper
+88,Hamidou Diallo,SUBSTITUTION,Westbrook Russell,2:56,1,Thunder,Celtics,10 - 19,1,N/A,N/A,N/A
+89,Daniel Theis,SUBSTITUTION,Horford Al,2:56,1,Celtics,Thunder,10 - 19,0,N/A,N/A,N/A
+90,Kyrie Irving,SUBSTITUTION,Smart Marcus,2:56,1,Celtics,Thunder,10 - 19,0,N/A,N/A,N/A
+91,Patrick Patterson,FG_MISS,None,2:49,1,Thunder,Celtics,10 - 19,1,27,3,Jumper
+92,Marcus Morris,DEFENSIVE_REBOUND,None,2:45,1,Celtics,Thunder,10 - 19,0,N/A,N/A,N/A
+93,Jayson Tatum,FG_MISS,None,2:36,1,Celtics,Thunder,10 - 19,0,21,3,Jumper
+94,Team,DEFENSIVE_REBOUND,None,2:35,1,Thunder,Celtics,10 - 19,1,N/A,N/A,N/A
+95,Dennis Schroder,FG_MISS,None,2:21,1,Thunder,Celtics,10 - 19,1,26,3,Jumper
+96,Jayson Tatum,DEFENSIVE_REBOUND,None,2:17,1,Celtics,Thunder,10 - 19,0,N/A,N/A,N/A
+97,Jayson Tatum,FG_MISS,None,1:59,1,Celtics,Thunder,10 - 19,0,25,3,Jumper
+98,Patrick Patterson,DEFENSIVE_REBOUND,None,1:57,1,Thunder,Celtics,10 - 19,1,N/A,N/A,N/A
+99,Marcus Morris,FOUL_ON_FLOOR,None,1:55,1,Celtics,Thunder,10 - 19,0,N/A,N/A,N/A
+100,Paul George,FT_MISS,None,1:55,1,Thunder,Celtics,10 - 19,1,N/A,1,N/A
+101,Team,OFFENSIVE_REBOUND,None,1:55,1,Thunder,Celtics,10 - 19,1,N/A,N/A,N/A
+102,Nerlens Noel,SUBSTITUTION,Adams Steven,1:55,1,Thunder,Celtics,10 - 19,1,N/A,N/A,N/A
+103,Paul George,FT_MISS,None,1:55,1,Thunder,Celtics,10 - 19,1,N/A,1,N/A
+104,Terry Rozier,DEFENSIVE_REBOUND,None,1:51,1,Celtics,Thunder,10 - 19,0,N/A,N/A,N/A
+105,Terry Rozier,FG_ASSISTED,Marcus Morris,1:41,1,Celtics,Thunder,12 - 19,0,19,3,Jumper
+106,Hamidou Diallo,FG_MISS,None,1:23,1,Thunder,Celtics,12 - 19,1,0,2,Layup
+107,Marcus Morris,DEFENSIVE_REBOUND,None,1:22,1,Celtics,Thunder,12 - 19,0,N/A,N/A,N/A
+108,Daniel Theis,FG_ASSISTED,Kyrie Irving,1:06,1,Celtics,Thunder,14 - 19,0,10,3,Jumper
+109,Paul George,FG_MISS,None,44.8,1,Thunder,Celtics,14 - 19,1,14,3,Jumper
+110,Nerlens Noel,OFFENSIVE_REBOUND,None,41.9,1,Thunder,Celtics,14 - 19,1,N/A,N/A,N/A
+111,Nerlens Noel,FG_MISS,None,41.9,1,Thunder,Celtics,14 - 19,1, ,3,Jumper
+112,Team,OFFENSIVE_REBOUND,None,41.9,1,Thunder,Celtics,14 - 19,1,N/A,N/A,N/A
+113,Daniel Theis,FOUL_ON_FLOOR,None,41.9,1,Celtics,Thunder,14 - 19,0,N/A,N/A,N/A
+114,Nerlens Noel,FT_MISS,None,41.9,1,Thunder,Celtics,14 - 19,1,N/A,1,N/A
+115,Team,OFFENSIVE_REBOUND,None,41.9,1,Thunder,Celtics,14 - 19,1,N/A,N/A,N/A
+116,Nerlens Noel,FT,None,41.9,1,Thunder,Celtics,14 - 20,1,N/A,1,N/A
+117,Terry Rozier,FG_MISS,None,36.3,1,Celtics,Thunder,14 - 20,0,17,3,Jumper
+118,Team,OFFENSIVE_REBOUND,None,34.7,1,Celtics,Thunder,14 - 20,0,N/A,N/A,N/A
+119,Patrick Patterson,FOUL_ON_FLOOR,None,34.7,1,Thunder,Celtics,14 - 20,1,N/A,N/A,N/A
+120,Kyrie Irving,TURNOVER,None,27.5,1,Celtics,Thunder,14 - 20,0,N/A,N/A,N/A
+121,Dennis Schroder,TURNOVER,Terry Rozier,8.6,1,Thunder,Celtics,14 - 20,1,N/A,N/A,N/A
+122,Jayson Tatum,FG_ASSISTED,Terry Rozier,5.5,1,Celtics,Thunder,16 - 20,0,0,2,Dunk
+123,Dennis Schroder,FG_UNASSISTED,None,0.9,1,Thunder,Celtics,16 - 22,1,20,3,Jumper
+124,End of,Unknown,None,0.0,1,Thunder,Celtics,16 - 22,1,N/A,N/A,N/A
+125,End of,Unknown,None,0.0,1,Thunder,Celtics,16 - 22,1,N/A,N/A,N/A
+0,Alex Abrines,SUBSTITUTION,George Paul,12:00,2,Thunder,Celtics,16 - 22,1,N/A,N/A,N/A
+1,Marcus Smart,SUBSTITUTION,Irving Kyrie,12:00,2,Celtics,Thunder,16 - 22,0,N/A,N/A,N/A
+2,Marcus Morris,FG_MISS,None,11:46,2,Celtics,Thunder,16 - 22,0,15,3,Jumper
+3,Jayson Tatum,OFFENSIVE_REBOUND,None,11:44,2,Celtics,Thunder,16 - 22,0,N/A,N/A,N/A
+4,Hamidou Diallo,FOUL_ON_FLOOR,None,11:44,2,Thunder,Celtics,16 - 22,1,N/A,N/A,N/A
+5,Terry Rozier,FG_MISS,None,11:30,2,Celtics,Thunder,16 - 22,0,26,3,Jumper
+6,Nerlens Noel,DEFENSIVE_REBOUND,None,11:27,2,Thunder,Celtics,16 - 22,1,N/A,N/A,N/A
+7,Dennis Schroder,FG_MISS,None,11:19,2,Thunder,Celtics,16 - 22,1,0,2,Layup
+8,Hamidou Diallo,OFFENSIVE_REBOUND,None,11:17,2,Thunder,Celtics,16 - 22,1,N/A,N/A,N/A
+9,Hamidou Diallo,FG_MISS,None,11:16,2,Thunder,Celtics,16 - 22,1, ,3,Jumper
+10,Nerlens Noel,OFFENSIVE_REBOUND,None,11:16,2,Thunder,Celtics,16 - 22,1,N/A,N/A,N/A
+11,Nerlens Noel,FG_UNASSISTED,None,11:15,2,Thunder,Celtics,16 - 24,1, ,3,Jumper
+12,Jayson Tatum,FG_UNASSISTED,None,10:53,2,Celtics,Thunder,18 - 24,0,17,3,Jumper
+13,Dennis Schroder,FG_UNASSISTED,None,10:39,2,Thunder,Celtics,18 - 26,1, ,3,Jumper
+14,Daniel Theis's,FG_MISS,Hamidou Diallo,10:21,2,Thunder,Celtics,18 - 26,0,0,2,Layup
+15,Daniel Theis,OFFENSIVE_REBOUND,None,10:20,2,Celtics,Thunder,18 - 26,0,N/A,N/A,N/A
+16,Daniel Theis,FG_MISS,Hamidou Diallo,10:19,2,Thunder,Celtics,18 - 26,0,0,2,Layup
+17,Hamidou Diallo,DEFENSIVE_REBOUND,None,10:19,2,Thunder,Celtics,18 - 26,1,N/A,N/A,N/A
+18,Hamidou Diallo,FG_UNASSISTED,None,10:14,2,Thunder,Celtics,18 - 28,1, ,3,Jumper
+19,Daniel Theis,FG_ASSISTED,Marcus Smart,9:58,2,Celtics,Thunder,20 - 28,0,0,2,Layup
+20,Dennis Schroder,FG_UNASSISTED,None,9:49,2,Thunder,Celtics,20 - 30,1,0,2,Layup
+21,Nerlens Noel,FOUL_TECHNICAL,None,9:40,2,Thunder,Celtics,20 - 30,1,N/A,N/A,N/A
+22,Jayson Tatum,FT,None,9:40,2,Celtics,Thunder,21 - 30,0,N/A,1,N/A
+23,Patrick Patterson,FOUL_ON_FLOOR,None,9:38,2,Thunder,Celtics,21 - 30,1,N/A,N/A,N/A
+24,Marcus Morris,FG_MISS,None,9:28,2,Celtics,Thunder,21 - 30,0,11,3,Jumper
+25,Team,OFFENSIVE_REBOUND,None,9:26,2,Celtics,Thunder,21 - 30,0,N/A,N/A,N/A
+26,Nerlens Noel,FOUL_ON_FLOOR,None,9:26,2,Thunder,Celtics,21 - 30,1,N/A,N/A,N/A
+27,Marcus Smart,FG_MISS,None,9:17,2,Celtics,Thunder,21 - 30,0,26,3,Jumper
+28,Dennis Schroder,DEFENSIVE_REBOUND,None,9:15,2,Thunder,Celtics,21 - 30,1,N/A,N/A,N/A
+29,Nerlens Noel,FG_ASSISTED,Dennis Schroder,9:09,2,Thunder,Celtics,21 - 32,1,0,2,Dunk
+30,Jayson Tatum,FG_UNASSISTED,None,8:53,2,Celtics,Thunder,23 - 32,0,9,3,Jumper
+31,Dennis Schroder,FG_MISS,None,8:34,2,Thunder,Celtics,23 - 32,1,21,3,Jumper
+32,Marcus Morris,DEFENSIVE_REBOUND,None,8:32,2,Celtics,Thunder,23 - 32,0,N/A,N/A,N/A
+33,Marcus Smart,FG_MISS,None,8:27,2,Celtics,Thunder,23 - 32,0,25,3,Jumper
+34,Dennis Schroder,DEFENSIVE_REBOUND,None,8:23,2,Thunder,Celtics,23 - 32,1,N/A,N/A,N/A
+35,Hamidou Diallo,FG_MISS,None,8:13,2,Thunder,Celtics,23 - 32,1,14,3,Jumper
+36,Team,OFFENSIVE_REBOUND,None,8:13,2,Thunder,Celtics,23 - 32,1,N/A,N/A,N/A
+37,Jerami Grant,SUBSTITUTION,Patterson Patrick,8:13,2,Thunder,Celtics,23 - 32,1,N/A,N/A,N/A
+38,Russell Westbrook,SUBSTITUTION,for game,8:13,2,Thunder,Celtics,23 - 32,1,N/A,N/A,N/A
+39,Gordon Hayward,SUBSTITUTION,Morris Marcus,8:13,2,Celtics,Thunder,23 - 32,0,N/A,N/A,N/A
+40,enters the,SUBSTITUTION,Schroder Dennis,8:13,2,Thunder,Celtics,23 - 32,1,N/A,N/A,N/A
+41,Russell Westbrook,FG_UNASSISTED,None,8:07,2,Thunder,Celtics,23 - 34,1,13,3,Jumper
+42,Daniel Theis,FG_MISS,None,7:53,2,Celtics,Thunder,23 - 34,0,25,3,Jumper
+43,Russell Westbrook,DEFENSIVE_REBOUND,None,7:50,2,Thunder,Celtics,23 - 34,1,N/A,N/A,N/A
+44,Alex Abrines,FG_MISS,None,7:44,2,Thunder,Celtics,23 - 34,1,23,3,Jumper
+45,Terry Rozier,DEFENSIVE_REBOUND,None,7:41,2,Celtics,Thunder,23 - 34,0,N/A,N/A,N/A
+46,Marcus Smart,FG_UNASSISTED,None,7:31,2,Celtics,Thunder,25 - 34,0,6,3,Jumper
+47,Jerami Grant,FG_ASSISTED,Russell Westbrook,7:14,2,Thunder,Celtics,25 - 36,1,0,2,Layup
+48,Daniel Theis,FOUL_ON_FLOOR,None,7:14,2,Celtics,Thunder,25 - 36,0,N/A,N/A,N/A
+49,Jerami Grant,FT,None,7:14,2,Thunder,Celtics,25 - 37,1,N/A,1,N/A
+50,Jayson Tatum,FG_UNASSISTED,None,7:00,2,Celtics,Thunder,27 - 37,0, ,3,Jumper
+51,Marcus Smart,FOUL_ON_FLOOR,None,6:45,2,Celtics,Thunder,27 - 37,0,N/A,N/A,N/A
+52,Team,Unknown,None,6:45,2,Thunder,Celtics,27 - 37,1,N/A,N/A,N/A
+53,Steven Adams,SUBSTITUTION,Noel Nerlens,6:45,2,Thunder,Celtics,27 - 37,1,N/A,N/A,N/A
+54,Jerami Grant,FG_MISS,None,6:38,2,Thunder,Celtics,27 - 37,1,22,3,Jumper
+55,Gordon Hayward,DEFENSIVE_REBOUND,None,6:33,2,Celtics,Thunder,27 - 37,0,N/A,N/A,N/A
+56,Jayson Tatum,FG_MISS,None,6:20,2,Celtics,Thunder,27 - 37,0,16,3,Jumper
+57,Russell Westbrook,DEFENSIVE_REBOUND,None,6:18,2,Thunder,Celtics,27 - 37,1,N/A,N/A,N/A
+58,Terry Rozier,FOUL_ON_FLOOR,None,6:14,2,Celtics,Thunder,27 - 37,0,N/A,N/A,N/A
+59,Paul George,SUBSTITUTION,Diallo Hamidou,6:14,2,Thunder,Celtics,27 - 37,1,N/A,N/A,N/A
+60,Kyrie Irving,SUBSTITUTION,Tatum Jayson,6:14,2,Celtics,Thunder,27 - 37,0,N/A,N/A,N/A
+61,Jaylen Brown,SUBSTITUTION,Rozier Terry,6:14,2,Celtics,Thunder,27 - 37,0,N/A,N/A,N/A
+62,Al Horford,SUBSTITUTION,Theis Daniel,6:14,2,Celtics,Thunder,27 - 37,0,N/A,N/A,N/A
+63,Russell Westbrook,FG_MISS,None,6:07,2,Thunder,Celtics,27 - 37,1,19,3,Jumper
+64,Gordon Hayward,DEFENSIVE_REBOUND,None,6:04,2,Celtics,Thunder,27 - 37,0,N/A,N/A,N/A
+65,Alex Abrines,FOUL_ON_FLOOR,None,5:57,2,Thunder,Celtics,27 - 37,1,N/A,N/A,N/A
+66,Kyrie Irving,FT_MISS,None,5:57,2,Celtics,Thunder,27 - 37,0,N/A,1,N/A
+67,Team,OFFENSIVE_REBOUND,None,5:57,2,Celtics,Thunder,27 - 37,0,N/A,N/A,N/A
+68,Kyrie Irving,FT_MISS,None,5:57,2,Celtics,Thunder,27 - 37,0,N/A,1,N/A
+69,Russell Westbrook,DEFENSIVE_REBOUND,None,5:56,2,Thunder,Celtics,27 - 37,1,N/A,N/A,N/A
+70,Paul George,FG_UNASSISTED,None,5:47,2,Thunder,Celtics,27 - 39,1,14,3,Jumper
+71,Jaylen Brown,FG_MISS,None,5:22,2,Celtics,Thunder,27 - 39,0,25,3,Jumper
+72,Russell Westbrook,DEFENSIVE_REBOUND,None,5:19,2,Thunder,Celtics,27 - 39,1,N/A,N/A,N/A
+73,Marcus Smart,FOUL_ON_FLOOR,None,5:18,2,Celtics,Thunder,27 - 39,0,N/A,N/A,N/A
+74,Dennis Schroder,SUBSTITUTION,Abrines Alex,5:18,2,Thunder,Celtics,27 - 39,1,N/A,N/A,N/A
+75,Steven Adams,FG_ASSISTED,Russell Westbrook,5:11,2,Thunder,Celtics,27 - 41,1,0,2,Dunk
+76,Team,Unknown,None,5:09,2,Celtics,Thunder,27 - 41,0,N/A,N/A,N/A
+77,Al Horford,FG_MISS,None,4:59,2,Celtics,Thunder,27 - 41,0,23,3,Jumper
+78,Jerami Grant,DEFENSIVE_REBOUND,None,4:56,2,Thunder,Celtics,27 - 41,1,N/A,N/A,N/A
+79,Paul George,TURNOVER,Jaylen Brown,4:36,2,Thunder,Celtics,27 - 41,1,N/A,N/A,N/A
+80,Russell Westbrook,FOUL_ON_FLOOR,None,4:35,2,Thunder,Celtics,27 - 41,1,N/A,N/A,N/A
+81,Jaylen Brown,FT_MISS,None,4:35,2,Celtics,Thunder,27 - 41,0,N/A,1,N/A
+82,Team,OFFENSIVE_REBOUND,None,4:35,2,Celtics,Thunder,27 - 41,0,N/A,N/A,N/A
+83,Jaylen Brown,FT_MISS,None,4:35,2,Celtics,Thunder,27 - 41,0,N/A,1,N/A
+84,Russell Westbrook,DEFENSIVE_REBOUND,None,4:34,2,Thunder,Celtics,27 - 41,1,N/A,N/A,N/A
+85,Jerami Grant,FG_ASSISTED,Russell Westbrook,4:24,2,Thunder,Celtics,27 - 43,1,11,3,Jumper
+86,Jaylen Brown,FG_MISS,None,4:03,2,Celtics,Thunder,27 - 43,0,17,3,Jumper
+87,Russell Westbrook,DEFENSIVE_REBOUND,None,4:00,2,Thunder,Celtics,27 - 43,1,N/A,N/A,N/A
+88,Paul George,FG_MISS,None,3:53,2,Thunder,Celtics,27 - 43,1,23,3,Jumper
+89,Steven Adams,OFFENSIVE_REBOUND,None,3:50,2,Thunder,Celtics,27 - 43,1,N/A,N/A,N/A
+90,Steven Adams,TURNOVER,None,3:50,2,Thunder,Celtics,27 - 43,1,N/A,N/A,N/A
+91,Kyrie Irving,FG_UNASSISTED,None,3:40,2,Celtics,Thunder,29 - 43,0,0,2,Layup
+92,Russell Westbrook,TURNOVER,None,3:29,2,Thunder,Celtics,29 - 43,1,N/A,N/A,N/A
+93,Terry Rozier,SUBSTITUTION,Brown Jaylen,3:29,2,Celtics,Thunder,29 - 43,0,N/A,N/A,N/A
+94,Marcus Morris,SUBSTITUTION,Smart Marcus,3:29,2,Celtics,Thunder,29 - 43,0,N/A,N/A,N/A
+95,Gordon Hayward,TURNOVER,Dennis Schroder,3:09,2,Celtics,Thunder,29 - 43,0,N/A,N/A,N/A
+96,Al Horford,FOUL_ON_FLOOR,None,3:09,2,Celtics,Thunder,29 - 43,0,N/A,N/A,N/A
+97,Paul George,FT,None,3:09,2,Thunder,Celtics,29 - 44,1,N/A,1,N/A
+98,Paul George,FT,None,3:09,2,Thunder,Celtics,29 - 45,1,N/A,1,N/A
+99,Russell Westbrook,FOUL_ON_FLOOR,None,3:00,2,Thunder,Celtics,29 - 45,1,N/A,N/A,N/A
+100,Gordon Hayward,FT_MISS,None,3:00,2,Celtics,Thunder,29 - 45,0,N/A,1,N/A
+101,Team,OFFENSIVE_REBOUND,None,3:00,2,Celtics,Thunder,29 - 45,0,N/A,N/A,N/A
+102,Hamidou Diallo,SUBSTITUTION,Westbrook Russell,3:00,2,Thunder,Celtics,29 - 45,1,N/A,N/A,N/A
+103,Gordon Hayward,FT,None,3:00,2,Celtics,Thunder,30 - 45,0,N/A,1,N/A
+104,Paul George,FG_MISS,None,2:50,2,Thunder,Celtics,30 - 45,1,8,3,Jumper
+105,Paul George,OFFENSIVE_REBOUND,None,2:46,2,Thunder,Celtics,30 - 45,1,N/A,N/A,N/A
+106,Paul George,FG_MISS,None,2:40,2,Thunder,Celtics,30 - 45,1,11,3,Jumper
+107,Team,OFFENSIVE_REBOUND,None,2:38,2,Thunder,Celtics,30 - 45,1,N/A,N/A,N/A
+108,Jayson Tatum,SUBSTITUTION,Hayward Gordon,2:38,2,Celtics,Thunder,30 - 45,0,N/A,N/A,N/A
+109,Team,Unknown,None,2:38,2,Thunder,Celtics,30 - 45,1,N/A,N/A,N/A
+110,Paul George,TURNOVER,None,2:27,2,Thunder,Celtics,30 - 45,1,N/A,N/A,N/A
+111,Jayson Tatum's,FG_MISS,Hamidou Diallo,2:16,2,Thunder,Celtics,30 - 45,0,0,2,Layup
+112,Team,DEFENSIVE_REBOUND,None,2:16,2,Thunder,Celtics,30 - 45,1,N/A,N/A,N/A
+113,Team,Unknown,None,2:16,2,Celtics,Thunder,30 - 45,0,N/A,N/A,N/A
+114,Al Horford,FOUL_ON_FLOOR,None,2:03,2,Celtics,Thunder,30 - 45,0,N/A,N/A,N/A
+115,Steven Adams,FT_MISS,None,2:03,2,Thunder,Celtics,30 - 45,1,N/A,1,N/A
+116,Team,OFFENSIVE_REBOUND,None,2:03,2,Thunder,Celtics,30 - 45,1,N/A,N/A,N/A
+117,Steven Adams,FT_MISS,None,2:03,2,Thunder,Celtics,30 - 45,1,N/A,1,N/A
+118,Marcus Morris,DEFENSIVE_REBOUND,None,2:03,2,Celtics,Thunder,30 - 45,0,N/A,N/A,N/A
+119,Marcus Morris,TURNOVER,Jerami Grant,1:49,2,Celtics,Thunder,30 - 45,0,N/A,N/A,N/A
+120,Jerami Grant,TURNOVER,None,1:47,2,Thunder,Celtics,30 - 45,1,N/A,N/A,N/A
+121,Paul George,FOUL_ON_FLOOR,None,1:37,2,Thunder,Celtics,30 - 45,1,N/A,N/A,N/A
+122,Jayson Tatum,FT,None,1:37,2,Celtics,Thunder,31 - 45,0,N/A,1,N/A
+123,Jayson Tatum,FT,None,1:37,2,Celtics,Thunder,32 - 45,0,N/A,1,N/A
+124,Paul George,FG_MISS,None,1:24,2,Thunder,Celtics,32 - 45,1,26,3,Jumper
+125,Steven Adams,OFFENSIVE_REBOUND,None,1:19,2,Thunder,Celtics,32 - 45,1,N/A,N/A,N/A
+126,Steven Adams,FG_MISS,None,1:19,2,Thunder,Celtics,32 - 45,1, ,3,Jumper
+127,Hamidou Diallo,OFFENSIVE_REBOUND,None,1:19,2,Thunder,Celtics,32 - 45,1,N/A,N/A,N/A
+128,Hamidou Diallo's,FG_MISS,Al Horford,1:17,2,Celtics,Thunder,32 - 45,1, ,3,Jumper
+129,Team,DEFENSIVE_REBOUND,None,1:17,2,Celtics,Thunder,32 - 45,0,N/A,N/A,N/A
+130,Jayson Tatum,FG_MISS,None,1:04,2,Celtics,Thunder,32 - 45,0,14,3,Jumper
+131,Hamidou Diallo,DEFENSIVE_REBOUND,None,1:01,2,Thunder,Celtics,32 - 45,1,N/A,N/A,N/A
+132,Dennis Schroder,FG_ASSISTED,Paul George,53.3,2,Thunder,Celtics,32 - 48,1,24,3,Jumper
+133,Paul George,FOUL_ON_FLOOR,None,41.6,2,Thunder,Celtics,32 - 48,1,N/A,N/A,N/A
+134,Marcus Morris,FT,None,41.6,2,Celtics,Thunder,33 - 48,0,N/A,1,N/A
+135,Terrance Ferguson,SUBSTITUTION,George Paul,41.6,2,Thunder,Celtics,33 - 48,1,N/A,N/A,N/A
+136,Marcus Smart,SUBSTITUTION,Irving Kyrie,41.6,2,Celtics,Thunder,33 - 48,0,N/A,N/A,N/A
+137,Marcus Morris,FT,None,41.6,2,Celtics,Thunder,34 - 48,0,N/A,1,N/A
+138,Terrance Ferguson,FG_ASSISTED,Dennis Schroder,31.7,2,Thunder,Celtics,34 - 50,1,0,2,Layup
+139,Marcus Morris,FG_MISS,None,17.8,2,Celtics,Thunder,34 - 50,0,20,3,Jumper
+140,Dennis Schroder,DEFENSIVE_REBOUND,None,13.4,2,Thunder,Celtics,34 - 50,1,N/A,N/A,N/A
+141,Dennis Schroder,FG_MISS,None,2.0,2,Thunder,Celtics,34 - 50,1,0,2,Layup
+142,Marcus Morris,DEFENSIVE_REBOUND,None,2.0,2,Celtics,Thunder,34 - 50,0,N/A,N/A,N/A
+143,End of,Unknown,None,0.0,2,Thunder,Celtics,34 - 50,1,N/A,N/A,N/A
+0,Russell Westbrook,SUBSTITUTION,Diallo Hamidou,12:00,3,Thunder,Celtics,34 - 50,1,N/A,N/A,N/A
+1,Paul George,SUBSTITUTION,Schroder Dennis,12:00,3,Thunder,Celtics,34 - 50,1,N/A,N/A,N/A
+2,Jaylen Brown,SUBSTITUTION,Rozier Terry,12:00,3,Celtics,Thunder,34 - 50,0,N/A,N/A,N/A
+3,Kyrie Irving,SUBSTITUTION,Morris Marcus,12:00,3,Celtics,Thunder,34 - 50,0,N/A,N/A,N/A
+4,Gordon Hayward,SUBSTITUTION,Smart Marcus,12:00,3,Celtics,Thunder,34 - 50,0,N/A,N/A,N/A
+5,Gordon Hayward,FG_ASSISTED,Jayson Tatum,11:47,3,Celtics,Thunder,37 - 50,0,24,3,Jumper
+6,Jayson Tatum,FOUL_ON_FLOOR,None,11:25,3,Celtics,Thunder,37 - 50,0,N/A,N/A,N/A
+7,Steven Adams,FT,None,11:25,3,Thunder,Celtics,37 - 51,1,N/A,1,N/A
+8,Steven Adams,FT_MISS,None,11:25,3,Thunder,Celtics,37 - 51,1,N/A,1,N/A
+9,Al Horford,DEFENSIVE_REBOUND,None,11:23,3,Celtics,Thunder,37 - 51,0,N/A,N/A,N/A
+10,Jayson Tatum,FG_UNASSISTED,None,11:07,3,Celtics,Thunder,39 - 51,0,0,2,Dunk
+11,Gordon Hayward,FOUL_ON_FLOOR,None,10:56,3,Celtics,Thunder,39 - 51,0,N/A,N/A,N/A
+12,Terrance Ferguson,TURNOVER,Al Horford,10:53,3,Thunder,Celtics,39 - 51,1,N/A,N/A,N/A
+13,Jaylen Brown,FG_MISS,None,10:38,3,Celtics,Thunder,39 - 51,0,26,3,Jumper
+14,Paul George,DEFENSIVE_REBOUND,None,10:35,3,Thunder,Celtics,39 - 51,1,N/A,N/A,N/A
+15,Russell Westbrook,FG_MISS,None,10:14,3,Thunder,Celtics,39 - 51,1, ,3,Jumper
+16,Gordon Hayward,DEFENSIVE_REBOUND,None,10:11,3,Celtics,Thunder,39 - 51,0,N/A,N/A,N/A
+17,Al Horford,FG_MISS,None,9:56,3,Celtics,Thunder,39 - 51,0,3,3,Jumper
+18,Jerami Grant,DEFENSIVE_REBOUND,None,9:54,3,Thunder,Celtics,39 - 51,1,N/A,N/A,N/A
+19,Gordon Hayward,FOUL_ON_FLOOR,None,9:50,3,Celtics,Thunder,39 - 51,0,N/A,N/A,N/A
+20,Russell Westbrook,FT_MISS,None,9:50,3,Thunder,Celtics,39 - 51,1,N/A,1,N/A
+21,Team,OFFENSIVE_REBOUND,None,9:50,3,Thunder,Celtics,39 - 51,1,N/A,N/A,N/A
+22,Russell Westbrook,FT,None,9:50,3,Thunder,Celtics,39 - 52,1,N/A,1,N/A
+23,Kyrie Irving,FG_MISS,None,9:38,3,Celtics,Thunder,39 - 52,0,26,3,Jumper
+24,Russell Westbrook,DEFENSIVE_REBOUND,None,9:36,3,Thunder,Celtics,39 - 52,1,N/A,N/A,N/A
+25,Steven Adams,FG_UNASSISTED,None,9:25,3,Thunder,Celtics,39 - 54,1,4,3,Jumper
+26,Kyrie Irving,FG_ASSISTED,Al Horford,9:14,3,Celtics,Thunder,42 - 54,0,25,3,Jumper
+27,Team,Unknown,None,9:13,3,Thunder,Celtics,42 - 54,1,N/A,N/A,N/A
+28,Russell Westbrook,FG_UNASSISTED,None,8:58,3,Thunder,Celtics,42 - 56,1,21,3,Jumper
+29,Jaylen Brown,FG_ASSISTED,Kyrie Irving,8:45,3,Celtics,Thunder,44 - 56,0,21,3,Jumper
+30,Paul George,FG_UNASSISTED,None,8:24,3,Thunder,Celtics,44 - 58,1,19,3,Jumper
+31,Kyrie Irving,FG_UNASSISTED,None,8:15,3,Celtics,Thunder,47 - 58,0,25,3,Jumper
+32,Russell Westbrook,FOUL_ON_FLOOR,None,8:04,3,Thunder,Celtics,47 - 58,1,N/A,N/A,N/A
+33,Russell Westbrook,TURNOVER,None,8:04,3,Thunder,Celtics,47 - 58,1,N/A,N/A,N/A
+34,Gordon Hayward,FOUL_ON_FLOOR,None,7:50,3,Celtics,Thunder,47 - 58,0,N/A,N/A,N/A
+35,Gordon Hayward,TURNOVER,None,7:50,3,Celtics,Thunder,47 - 58,0,N/A,N/A,N/A
+36,Jaylen Brown,FOUL_ON_FLOOR,None,7:42,3,Celtics,Thunder,47 - 58,0,N/A,N/A,N/A
+37,Jerami Grant,FG_ASSISTED,Steven Adams,7:34,3,Thunder,Celtics,47 - 61,1,24,3,Jumper
+38,Al Horford,FG_ASSISTED,Jaylen Brown,7:21,3,Celtics,Thunder,49 - 61,0, ,3,Jumper
+39,Russell Westbrook,FG_MISS,None,7:13,3,Thunder,Celtics,49 - 61,1,16,3,Jumper
+40,Gordon Hayward,DEFENSIVE_REBOUND,None,7:09,3,Celtics,Thunder,49 - 61,0,N/A,N/A,N/A
+41,Terrance Ferguson,FOUL_ON_FLOOR,None,7:01,3,Thunder,Celtics,49 - 61,1,N/A,N/A,N/A
+42,Al Horford,FG_MISS,None,6:46,3,Celtics,Thunder,49 - 61,0,0,2,Layup
+43,Team,OFFENSIVE_REBOUND,None,6:46,3,Celtics,Thunder,49 - 61,0,N/A,N/A,N/A
+44,shot clock,TURNOVER,None,6:46,3,Celtics,Thunder,49 - 61,0,N/A,N/A,N/A
+45,Paul George,FG_UNASSISTED,None,6:33,3,Thunder,Celtics,49 - 63,1,20,3,Jumper
+46,Jayson Tatum,FG_ASSISTED,Kyrie Irving,6:25,3,Celtics,Thunder,52 - 63,0,26,3,Jumper
+47,Russell Westbrook,FG_MISS,None,6:09,3,Thunder,Celtics,52 - 63,1,26,3,Jumper
+48,Gordon Hayward,DEFENSIVE_REBOUND,None,6:09,3,Celtics,Thunder,52 - 63,0,N/A,N/A,N/A
+49,Jayson Tatum,FG_MISS,None,6:00,3,Celtics,Thunder,52 - 63,0,26,3,Jumper
+50,Jaylen Brown,OFFENSIVE_REBOUND,None,5:57,3,Celtics,Thunder,52 - 63,0,N/A,N/A,N/A
+51,Jerami Grant,FOUL_ON_FLOOR,None,5:57,3,Thunder,Celtics,52 - 63,1,N/A,N/A,N/A
+52,Jaylen Brown,FT,None,5:57,3,Celtics,Thunder,53 - 63,0,N/A,1,N/A
+53,Dennis Schroder,SUBSTITUTION,Ferguson Terrance,5:57,3,Thunder,Celtics,53 - 63,1,N/A,N/A,N/A
+54,Marcus Morris,SUBSTITUTION,Tatum Jayson,5:57,3,Celtics,Thunder,53 - 63,0,N/A,N/A,N/A
+55,Marcus Smart,SUBSTITUTION,Hayward Gordon,5:57,3,Celtics,Thunder,53 - 63,0,N/A,N/A,N/A
+56,Jaylen Brown,FT,None,5:57,3,Celtics,Thunder,54 - 63,0,N/A,1,N/A
+57,Russell Westbrook,FG_MISS,None,5:42,3,Thunder,Celtics,54 - 63,1,26,3,Jumper
+58,Team,DEFENSIVE_REBOUND,None,5:38,3,Celtics,Thunder,54 - 63,0,N/A,N/A,N/A
+59,Dennis Schroder,FOUL_ON_FLOOR,None,5:31,3,Thunder,Celtics,54 - 63,1,N/A,N/A,N/A
+60,Kyrie Irving,FT,None,5:31,3,Celtics,Thunder,55 - 63,0,N/A,1,N/A
+61,Kyrie Irving,FT_MISS,None,5:31,3,Celtics,Thunder,55 - 63,0,N/A,1,N/A
+62,Russell Westbrook,DEFENSIVE_REBOUND,None,5:30,3,Thunder,Celtics,55 - 63,1,N/A,N/A,N/A
+63,Paul George,FG_ASSISTED,Russell Westbrook,5:25,3,Thunder,Celtics,55 - 66,1,23,3,Jumper
+64,Jaylen Brown,FG_MISS,None,5:04,3,Celtics,Thunder,55 - 66,0,0,2,Layup
+65,Al Horford,OFFENSIVE_REBOUND,None,5:02,3,Celtics,Thunder,55 - 66,0,N/A,N/A,N/A
+66,Al Horford,FG_MISS,None,5:01,3,Celtics,Thunder,55 - 66,0, ,3,Jumper
+67,Russell Westbrook,DEFENSIVE_REBOUND,None,5:00,3,Thunder,Celtics,55 - 66,1,N/A,N/A,N/A
+68,Russell Westbrook,FG_ASSISTED,Dennis Schroder,4:54,3,Thunder,Celtics,55 - 68,1,15,3,Jumper
+69,Al Horford,FG_ASSISTED,Kyrie Irving,4:41,3,Celtics,Thunder,58 - 68,0,25,3,Jumper
+70,Steven Adams,FG_MISS,None,4:34,3,Thunder,Celtics,58 - 68,1,0,2,Layup
+71,Team,DEFENSIVE_REBOUND,None,4:34,3,Celtics,Thunder,58 - 68,0,N/A,N/A,N/A
+72,Al Horford,FG_ASSISTED,Marcus Smart,4:26,3,Celtics,Thunder,61 - 68,0,26,3,Jumper
+73,Steven Adams,FG_ASSISTED,Russell Westbrook,4:10,3,Thunder,Celtics,61 - 70,1,0,2,Layup
+74,Al Horford,FG_ASSISTED,Jaylen Brown,4:00,3,Celtics,Thunder,64 - 70,0, ,3,Jumper
+75,Paul George,FG_MISS,None,3:41,3,Thunder,Celtics,64 - 70,1,23,3,Jumper
+76,Al Horford,DEFENSIVE_REBOUND,None,3:38,3,Celtics,Thunder,64 - 70,0,N/A,N/A,N/A
+77,Team,Unknown,None,3:37,3,Celtics,Thunder,64 - 70,0,N/A,N/A,N/A
+78,Nerlens Noel,SUBSTITUTION,Adams Steven,3:37,3,Thunder,Celtics,64 - 70,1,N/A,N/A,N/A
+79,Terry Rozier,SUBSTITUTION,Brown Jaylen,3:37,3,Celtics,Thunder,64 - 70,0,N/A,N/A,N/A
+80,Jayson Tatum,SUBSTITUTION,Irving Kyrie,3:37,3,Celtics,Thunder,64 - 70,0,N/A,N/A,N/A
+81,Al Horford,FOUL_ON_FLOOR,None,3:28,3,Celtics,Thunder,64 - 70,0,N/A,N/A,N/A
+82,Al Horford,TURNOVER,None,3:28,3,Celtics,Thunder,64 - 70,0,N/A,N/A,N/A
+83,Semi Ojeleye,SUBSTITUTION,Horford Al,3:28,3,Celtics,Thunder,64 - 70,0,N/A,N/A,N/A
+84,Paul George,FG_MISS,None,3:16,3,Thunder,Celtics,64 - 70,1,23,3,Jumper
+85,Marcus Morris,DEFENSIVE_REBOUND,None,3:12,3,Celtics,Thunder,64 - 70,0,N/A,N/A,N/A
+86,Marcus Morris,FG_ASSISTED,Terry Rozier,3:08,3,Celtics,Thunder,67 - 70,0,25,3,Jumper
+87,Russell Westbrook,FG_UNASSISTED,None,2:46,3,Thunder,Celtics,67 - 72,1,0,2,Layup
+88,Marcus Smart,FG_MISS,None,2:35,3,Celtics,Thunder,67 - 72,0,26,3,Jumper
+89,Paul George,DEFENSIVE_REBOUND,None,2:33,3,Thunder,Celtics,67 - 72,1,N/A,N/A,N/A
+90,Russell Westbrook,FG_MISS,None,2:27,3,Thunder,Celtics,67 - 72,1,15,3,Jumper
+91,Marcus Morris,DEFENSIVE_REBOUND,None,2:23,3,Celtics,Thunder,67 - 72,0,N/A,N/A,N/A
+92,Marcus Morris,FG_ASSISTED,Terry Rozier,2:17,3,Celtics,Thunder,70 - 72,0,26,3,Jumper
+93,Team,Unknown,None,2:15,3,Thunder,Celtics,70 - 72,1,N/A,N/A,N/A
+94,Patrick Patterson,SUBSTITUTION,Westbrook Russell,2:15,3,Thunder,Celtics,70 - 72,1,N/A,N/A,N/A
+95,Hamidou Diallo,SUBSTITUTION,Grant Jerami,2:15,3,Thunder,Celtics,70 - 72,1,N/A,N/A,N/A
+96,Hamidou Diallo,TURNOVER,Terry Rozier,2:03,3,Thunder,Celtics,70 - 72,1,N/A,N/A,N/A
+97,Terry Rozier,FG_UNASSISTED,None,2:00,3,Celtics,Thunder,72 - 72,0, ,3,Jumper
+98,Patrick Patterson,TURNOVER,Terry Rozier,1:47,3,Thunder,Celtics,72 - 72,1,N/A,N/A,N/A
+99,Semi Ojeleye,FG_MISS,None,1:40,3,Celtics,Thunder,72 - 72,0,22,3,Jumper
+100,Semi Ojeleye,OFFENSIVE_REBOUND,None,1:36,3,Celtics,Thunder,72 - 72,0,N/A,N/A,N/A
+101,Marcus Morris,FOUL_ON_FLOOR,None,1:31,3,Celtics,Thunder,72 - 72,0,N/A,N/A,N/A
+102,Marcus Morris,TURNOVER,None,1:31,3,Celtics,Thunder,72 - 72,0,N/A,N/A,N/A
+103,Paul George,FG_MISS,None,1:22,3,Thunder,Celtics,72 - 72,1,16,3,Jumper
+104,Jayson Tatum,DEFENSIVE_REBOUND,None,1:19,3,Celtics,Thunder,72 - 72,0,N/A,N/A,N/A
+105,Jayson Tatum,FG_MISS,None,1:04,3,Celtics,Thunder,72 - 72,0,21,3,Jumper
+106,Nerlens Noel,DEFENSIVE_REBOUND,None,1:02,3,Thunder,Celtics,72 - 72,1,N/A,N/A,N/A
+107,Semi Ojeleye,FOUL_ON_FLOOR,None,50.4,3,Celtics,Thunder,72 - 72,0,N/A,N/A,N/A
+108,Dennis Schroder,FT_MISS,None,50.4,3,Thunder,Celtics,72 - 72,1,N/A,1,N/A
+109,Team,OFFENSIVE_REBOUND,None,50.4,3,Thunder,Celtics,72 - 72,1,N/A,N/A,N/A
+110,Kyrie Irving,SUBSTITUTION,Smart Marcus,50.4,3,Celtics,Thunder,72 - 72,0,N/A,N/A,N/A
+111,Dennis Schroder,FT,None,50.4,3,Thunder,Celtics,72 - 73,1,N/A,1,N/A
+112,Marcus Morris,FG_UNASSISTED,None,37.4,3,Celtics,Thunder,74 - 73,0,0,2,Layup
+113,Paul George,FG_MISS,None,30.4,3,Thunder,Celtics,74 - 73,1,26,3,Jumper
+114,Jayson Tatum,DEFENSIVE_REBOUND,None,28.7,3,Celtics,Thunder,74 - 73,0,N/A,N/A,N/A
+115,Jayson Tatum,TURNOVER,Hamidou Diallo,9.9,3,Celtics,Thunder,74 - 73,0,N/A,N/A,N/A
+116,Paul George,FG_MISS,None,4.0,3,Thunder,Celtics,74 - 73,1,23,3,Jumper
+117,Patrick Patterson,OFFENSIVE_REBOUND,None,0.8,3,Thunder,Celtics,74 - 73,1,N/A,N/A,N/A
+118,Patrick Patterson,FG_MISS,None,0.0,3,Thunder,Celtics,74 - 73,1, ,3,Jumper
+119,Team,OFFENSIVE_REBOUND,None,0.0,3,Thunder,Celtics,74 - 73,1,N/A,N/A,N/A
+120,End of,Unknown,None,0.0,3,Thunder,Celtics,74 - 73,1,N/A,N/A,N/A
+0,Alex Abrines,SUBSTITUTION,George Paul,12:00,4,Thunder,Celtics,74 - 73,1,N/A,N/A,N/A
+1,Hamidou Diallo,FG_ASSISTED,Dennis Schroder,11:48,4,Thunder,Celtics,74 - 75,1,0,2,Layup
+2,Jayson Tatum,FG_ASSISTED,Kyrie Irving,11:32,4,Celtics,Thunder,76 - 75,0,0,2,Layup
+3,Semi Ojeleye,FOUL_ON_FLOOR,None,11:21,4,Celtics,Thunder,76 - 75,0,N/A,N/A,N/A
+4,Nerlens Noel,FG_ASSISTED,Dennis Schroder,11:14,4,Thunder,Celtics,76 - 77,1,0,2,Dunk
+5,Jayson Tatum,FG_MISS,None,10:57,4,Celtics,Thunder,76 - 77,0,18,3,Jumper
+6,Patrick Patterson,DEFENSIVE_REBOUND,None,10:55,4,Thunder,Celtics,76 - 77,1,N/A,N/A,N/A
+7,Jayson Tatum,FOUL_ON_FLOOR,None,10:39,4,Celtics,Thunder,76 - 77,0,N/A,N/A,N/A
+8,Jaylen Brown,SUBSTITUTION,Tatum Jayson,10:39,4,Celtics,Thunder,76 - 77,0,N/A,N/A,N/A
+9,Gordon Hayward,SUBSTITUTION,Irving Kyrie,10:39,4,Celtics,Thunder,76 - 77,0,N/A,N/A,N/A
+10,Dennis Schroder,TURNOVER,Terry Rozier,10:26,4,Thunder,Celtics,76 - 77,1,N/A,N/A,N/A
+11,Dennis Schroder,FOUL_ON_FLOOR,None,10:19,4,Thunder,Celtics,76 - 77,1,N/A,N/A,N/A
+12,Terry Rozier,FG_MISS,None,10:13,4,Celtics,Thunder,76 - 77,0,23,3,Jumper
+13,Hamidou Diallo,DEFENSIVE_REBOUND,None,10:08,4,Thunder,Celtics,76 - 77,1,N/A,N/A,N/A
+14,Dennis Schroder,FG_MISS,None,9:50,4,Thunder,Celtics,76 - 77,1,0,2,Layup
+15,Marcus Morris,DEFENSIVE_REBOUND,None,9:48,4,Celtics,Thunder,76 - 77,0,N/A,N/A,N/A
+16,Jaylen Brown,FG_MISS,None,9:40,4,Celtics,Thunder,76 - 77,0,11,3,Jumper
+17,Team,OFFENSIVE_REBOUND,None,9:39,4,Celtics,Thunder,76 - 77,0,N/A,N/A,N/A
+18,Dennis Schroder,FOUL_ON_FLOOR,None,9:39,4,Thunder,Celtics,76 - 77,1,N/A,N/A,N/A
+19,Nerlens Noel,FOUL_ON_FLOOR,None,9:32,4,Thunder,Celtics,76 - 77,1,N/A,N/A,N/A
+20,Marcus Morris,FT,None,9:32,4,Celtics,Thunder,77 - 77,0,N/A,1,N/A
+21,Marcus Morris,FT,None,9:32,4,Celtics,Thunder,78 - 77,0,N/A,1,N/A
+22,Patrick Patterson,FG_ASSISTED,Alex Abrines,9:15,4,Thunder,Celtics,78 - 79,1,0,2,Layup
+23,Dennis Schroder,FOUL_ON_FLOOR,None,9:02,4,Thunder,Celtics,78 - 79,1,N/A,N/A,N/A
+24,Marcus Morris,FG_ASSISTED,Terry Rozier,8:52,4,Celtics,Thunder,81 - 79,0,26,3,Jumper
+25,Patrick Patterson,FG_ASSISTED,Dennis Schroder,8:35,4,Thunder,Celtics,81 - 82,1,24,3,Jumper
+26,Jaylen Brown's,FG_MISS,Nerlens Noel,8:25,4,Thunder,Celtics,81 - 82,0,0,2,Layup
+27,Jaylen Brown,OFFENSIVE_REBOUND,None,8:22,4,Celtics,Thunder,81 - 82,0,N/A,N/A,N/A
+28,Patrick Patterson,FOUL_ON_FLOOR,None,8:20,4,Thunder,Celtics,81 - 82,1,N/A,N/A,N/A
+29,Gordon Hayward,FT_MISS,None,8:20,4,Celtics,Thunder,81 - 82,0,N/A,1,N/A
+30,Team,OFFENSIVE_REBOUND,None,8:20,4,Celtics,Thunder,81 - 82,0,N/A,N/A,N/A
+31,Russell Westbrook,SUBSTITUTION,Schroder Dennis,8:20,4,Thunder,Celtics,81 - 82,1,N/A,N/A,N/A
+32,Gordon Hayward,FT,None,8:20,4,Celtics,Thunder,82 - 82,0,N/A,1,N/A
+33,Patrick Patterson,FG_UNASSISTED,None,7:57,4,Thunder,Celtics,82 - 84,1,12,3,Jumper
+34,Nerlens Noel,FOUL_ON_FLOOR,None,7:37,4,Thunder,Celtics,82 - 84,1,N/A,N/A,N/A
+35,Semi Ojeleye,FT,None,7:37,4,Celtics,Thunder,83 - 84,0,N/A,1,N/A
+36,Steven Adams,SUBSTITUTION,Noel Nerlens,7:37,4,Thunder,Celtics,83 - 84,1,N/A,N/A,N/A
+37,Al Horford,SUBSTITUTION,Morris Marcus,7:37,4,Celtics,Thunder,83 - 84,0,N/A,N/A,N/A
+38,Semi Ojeleye,FT_MISS,None,7:37,4,Celtics,Thunder,83 - 84,0,N/A,1,N/A
+39,Russell Westbrook,DEFENSIVE_REBOUND,None,7:36,4,Thunder,Celtics,83 - 84,1,N/A,N/A,N/A
+40,Russell Westbrook,FG_MISS,None,7:29,4,Thunder,Celtics,83 - 84,1, ,3,Jumper
+41,Gordon Hayward,DEFENSIVE_REBOUND,None,7:28,4,Celtics,Thunder,83 - 84,0,N/A,N/A,N/A
+42,Semi Ojeleye,FG_MISS,None,7:22,4,Celtics,Thunder,83 - 84,0,0,2,Layup
+43,Steven Adams,DEFENSIVE_REBOUND,None,7:20,4,Thunder,Celtics,83 - 84,1,N/A,N/A,N/A
+44,Russell Westbrook,TURNOVER,None,7:14,4,Thunder,Celtics,83 - 84,1,N/A,N/A,N/A
+45,Gordon Hayward,FG_MISS,Steven Adams,7:02,4,Thunder,Celtics,83 - 84,0,0,2,Layup
+46,Team,OFFENSIVE_REBOUND,None,7:01,4,Celtics,Thunder,83 - 84,0,N/A,N/A,N/A
+47,Kyrie Irving,SUBSTITUTION,Ojeleye Semi,7:01,4,Celtics,Thunder,83 - 84,0,N/A,N/A,N/A
+48,Gordon Hayward,FG_MISS,None,6:56,4,Celtics,Thunder,83 - 84,0,25,3,Jumper
+49,Patrick Patterson,DEFENSIVE_REBOUND,None,6:53,4,Thunder,Celtics,83 - 84,1,N/A,N/A,N/A
+50,Hamidou Diallo,FG_UNASSISTED,None,6:45,4,Thunder,Celtics,83 - 86,1,0,2,Layup
+51,Kyrie Irving,FG_MISS,None,6:25,4,Celtics,Thunder,83 - 86,0,10,3,Jumper
+52,Patrick Patterson,DEFENSIVE_REBOUND,None,6:23,4,Thunder,Celtics,83 - 86,1,N/A,N/A,N/A
+53,Brad Stevens,FOUL_TECHNICAL,None,6:23,4,Celtics,Thunder,83 - 86,0,N/A,N/A,N/A
+54,Team,Unknown,None,6:23,4,Thunder,Celtics,83 - 86,1,N/A,N/A,N/A
+55,Jerami Grant,SUBSTITUTION,Diallo Hamidou,6:23,4,Thunder,Celtics,83 - 86,1,N/A,N/A,N/A
+56,Paul George,SUBSTITUTION,Patterson Patrick,6:23,4,Thunder,Celtics,83 - 86,1,N/A,N/A,N/A
+57,Alex Abrines,FT_MISS,None,6:23,4,Thunder,Celtics,83 - 86,1,N/A,1,N/A
+58,Team,OFFENSIVE_REBOUND,None,6:23,4,Thunder,Celtics,83 - 86,1,N/A,N/A,N/A
+59,Russell Westbrook,FG_MISS,None,6:13,4,Thunder,Celtics,83 - 86,1,25,3,Jumper
+60,Terry Rozier,DEFENSIVE_REBOUND,None,6:10,4,Celtics,Thunder,83 - 86,0,N/A,N/A,N/A
+61,Kyrie Irving's,FG_MISS,Jerami Grant,5:46,4,Thunder,Celtics,83 - 86,0,0,2,Layup
+62,Paul George,DEFENSIVE_REBOUND,None,5:43,4,Thunder,Celtics,83 - 86,1,N/A,N/A,N/A
+63,Steven Adams,FG_MISS,None,5:38,4,Thunder,Celtics,83 - 86,1,10,3,Jumper
+64,Steven Adams,OFFENSIVE_REBOUND,None,5:35,4,Thunder,Celtics,83 - 86,1,N/A,N/A,N/A
+65,Jayson Tatum,SUBSTITUTION,Rozier Terry,5:35,4,Celtics,Thunder,83 - 86,0,N/A,N/A,N/A
+66,Al Horford,JUMP_BALL,None,5:35,4,Thunder,Celtics,83 - 86,1,N/A,N/A,N/A
+67,Al Horford,Unknown,None,5:32,4,Celtics,Thunder,83 - 86,0,N/A,N/A,N/A
+68,Alex Abrines,FG_ASSISTED,Russell Westbrook,5:26,4,Thunder,Celtics,83 - 89,1,25,3,Jumper
+69,Alex Abrines,FOUL_ON_FLOOR,None,5:11,4,Thunder,Celtics,83 - 89,1,N/A,N/A,N/A
+70,Jaylen Brown,FT,None,5:11,4,Celtics,Thunder,84 - 89,0,N/A,1,N/A
+71,Marcus Morris,SUBSTITUTION,Hayward Gordon,5:11,4,Celtics,Thunder,84 - 89,0,N/A,N/A,N/A
+72,Jaylen Brown,FT,None,5:11,4,Celtics,Thunder,85 - 89,0,N/A,1,N/A
+73,Alex Abrines,FG_ASSISTED,Russell Westbrook,4:57,4,Thunder,Celtics,85 - 92,1,23,3,Jumper
+74,Al Horford,FG_MISS,None,4:42,4,Celtics,Thunder,85 - 92,0,26,3,Jumper
+75,Paul George,DEFENSIVE_REBOUND,None,4:39,4,Thunder,Celtics,85 - 92,1,N/A,N/A,N/A
+76,Jaylen Brown,FOUL_ON_FLOOR,None,4:35,4,Celtics,Thunder,85 - 92,0,N/A,N/A,N/A
+77,Marcus Smart,SUBSTITUTION,Brown Jaylen,4:35,4,Celtics,Thunder,85 - 92,0,N/A,N/A,N/A
+78,Jayson Tatum,FOUL_ON_FLOOR,None,4:22,4,Celtics,Thunder,85 - 92,0,N/A,N/A,N/A
+79,Paul George,FT,None,4:22,4,Thunder,Celtics,85 - 93,1,N/A,1,N/A
+80,Paul George,FT,None,4:22,4,Thunder,Celtics,85 - 94,1,N/A,1,N/A
+81,Paul George,FOUL_ON_FLOOR,None,4:14,4,Thunder,Celtics,85 - 94,1,N/A,N/A,N/A
+82,Jayson Tatum,FT,None,4:14,4,Celtics,Thunder,86 - 94,0,N/A,1,N/A
+83,Jayson Tatum,FT,None,4:14,4,Celtics,Thunder,87 - 94,0,N/A,1,N/A
+84,Russell Westbrook,FG_MISS,None,4:05,4,Thunder,Celtics,87 - 94,1,19,3,Jumper
+85,Kyrie Irving,DEFENSIVE_REBOUND,None,4:02,4,Celtics,Thunder,87 - 94,0,N/A,N/A,N/A
+86,Marcus Morris,FG_MISS,None,3:58,4,Celtics,Thunder,87 - 94,0,26,3,Jumper
+87,Alex Abrines,DEFENSIVE_REBOUND,None,3:56,4,Thunder,Celtics,87 - 94,1,N/A,N/A,N/A
+88,Alex Abrines,FG_MISS,None,3:49,4,Thunder,Celtics,87 - 94,1,24,3,Jumper
+89,Jerami Grant,OFFENSIVE_REBOUND,None,3:47,4,Thunder,Celtics,87 - 94,1,N/A,N/A,N/A
+90,Jerami Grant,FG_MISS,None,3:36,4,Thunder,Celtics,87 - 94,1,24,3,Jumper
+91,Team,DEFENSIVE_REBOUND,None,3:34,4,Celtics,Thunder,87 - 94,0,N/A,N/A,N/A
+92,foul 87,FOUL_ON_FLOOR,None,3:34,4,Thunder,Celtics,87 - 94,1,N/A,N/A,N/A
+93,Jerami Grant,FOUL_ON_FLOOR,None,3:34,4,Thunder,Celtics,87 - 94,1,N/A,N/A,N/A
+94,Marcus Morris,FT,None,3:34,4,Celtics,Thunder,88 - 94,0,N/A,1,N/A
+95,Marcus Morris,FT,None,3:34,4,Celtics,Thunder,89 - 94,0,N/A,1,N/A
+96,Paul George,FG_MISS,None,3:23,4,Thunder,Celtics,89 - 94,1,26,3,Jumper
+97,Marcus Morris,DEFENSIVE_REBOUND,None,3:21,4,Celtics,Thunder,89 - 94,0,N/A,N/A,N/A
+98,Team,Unknown,None,3:21,4,Celtics,Thunder,89 - 94,0,N/A,N/A,N/A
+99,Kyrie Irving,FG_UNASSISTED,None,3:12,4,Celtics,Thunder,91 - 94,0,11,3,Jumper
+100,Russell Westbrook,TURNOVER,Jayson Tatum,2:53,4,Thunder,Celtics,91 - 94,1,N/A,N/A,N/A
+101,Russell Westbrook,FOUL_ON_FLOOR,None,2:34,4,Thunder,Celtics,91 - 94,1,N/A,N/A,N/A
+102,Jayson Tatum,FT,None,2:34,4,Celtics,Thunder,92 - 94,0,N/A,1,N/A
+103,Jayson Tatum,FT,None,2:34,4,Celtics,Thunder,93 - 94,0,N/A,1,N/A
+104,Russell Westbrook,FG_MISS,None,2:17,4,Thunder,Celtics,93 - 94,1,20,3,Jumper
+105,Kyrie Irving,DEFENSIVE_REBOUND,None,2:13,4,Celtics,Thunder,93 - 94,0,N/A,N/A,N/A
+106,Kyrie Irving,FG_MISS,None,2:02,4,Celtics,Thunder,93 - 94,0,26,3,Jumper
+107,Russell Westbrook,DEFENSIVE_REBOUND,None,2:00,4,Thunder,Celtics,93 - 94,1,N/A,N/A,N/A
+108,Russell Westbrook,FG_MISS,None,1:53,4,Thunder,Celtics,93 - 94,1,7,3,Jumper
+109,Kyrie Irving,DEFENSIVE_REBOUND,None,1:50,4,Celtics,Thunder,93 - 94,0,N/A,N/A,N/A
+110,Jayson Tatum,TURNOVER,Paul George,1:30,4,Celtics,Thunder,93 - 94,0,N/A,N/A,N/A
+111,Kyrie Irving,FOUL_ON_FLOOR,None,1:20,4,Celtics,Thunder,93 - 94,0,N/A,N/A,N/A
+112,Steven Adams,FT,None,1:20,4,Thunder,Celtics,93 - 95,1,N/A,1,N/A
+113,Steven Adams,FT_MISS,None,1:20,4,Thunder,Celtics,93 - 95,1,N/A,1,N/A
+114,Team,DEFENSIVE_REBOUND,None,1:18,4,Celtics,Thunder,93 - 95,0,N/A,N/A,N/A
+115,Jayson Tatum,FG_MISS,None,1:08,4,Celtics,Thunder,93 - 95,0,16,3,Jumper
+116,Kyrie Irving,OFFENSIVE_REBOUND,None,1:05,4,Celtics,Thunder,93 - 95,0,N/A,N/A,N/A
+117,Kyrie Irving,FG_UNASSISTED,None,56.6,4,Celtics,Thunder,95 - 95,0,0,2,Layup
+118,Russell Westbrook,FG_MISS,None,45.9,4,Thunder,Celtics,95 - 95,1,25,3,Jumper
+119,Jayson Tatum,DEFENSIVE_REBOUND,None,42.4,4,Celtics,Thunder,95 - 95,0,N/A,N/A,N/A
+120,Team,Unknown,None,34.3,4,Celtics,Thunder,95 - 95,0,N/A,N/A,N/A
+121,Dennis Schroder,SUBSTITUTION,Abrines Alex,34.3,4,Thunder,Celtics,95 - 95,1,N/A,N/A,N/A
+122,Marcus Morris,FG_ASSISTED,Al Horford,28.7,4,Celtics,Thunder,98 - 95,0,25,3,Jumper
+123,Team,Unknown,None,27.9,4,Thunder,Celtics,98 - 95,1,N/A,N/A,N/A
+124,Alex Abrines,SUBSTITUTION,Schroder Dennis,27.9,4,Thunder,Celtics,98 - 95,1,N/A,N/A,N/A
+125,Terry Rozier,SUBSTITUTION,Irving Kyrie,27.9,4,Celtics,Thunder,98 - 95,0,N/A,N/A,N/A
+126,Russell Westbrook,FG_MISS,None,26.5,4,Thunder,Celtics,98 - 95,1,28,3,Jumper
+127,Marcus Morris,DEFENSIVE_REBOUND,None,23.0,4,Celtics,Thunder,98 - 95,0,N/A,N/A,N/A
+128,Paul George,FOUL_ON_FLOOR,None,22.5,4,Thunder,Celtics,98 - 95,1,N/A,N/A,N/A
+129,Marcus Morris,FT,None,22.5,4,Celtics,Thunder,99 - 95,0,N/A,1,N/A
+130,Patrick Patterson,SUBSTITUTION,Grant Jerami,22.5,4,Thunder,Celtics,99 - 95,1,N/A,N/A,N/A
+131,Marcus Morris,FT_MISS,None,22.5,4,Celtics,Thunder,99 - 95,0,N/A,1,N/A
+132,Russell Westbrook,DEFENSIVE_REBOUND,None,20.7,4,Thunder,Celtics,99 - 95,1,N/A,N/A,N/A
+133,Paul George,FG_MISS,None,16.3,4,Thunder,Celtics,99 - 95,1,24,3,Jumper
+134,Russell Westbrook,OFFENSIVE_REBOUND,None,13.7,4,Thunder,Celtics,99 - 95,1,N/A,N/A,N/A
+135,Russell Westbrook,TURNOVER,None,12.5,4,Thunder,Celtics,99 - 95,1,N/A,N/A,N/A
+136,Jerami Grant,SUBSTITUTION,Abrines Alex,12.5,4,Thunder,Celtics,99 - 95,1,N/A,N/A,N/A
+137,Dennis Schroder,SUBSTITUTION,Patterson Patrick,12.5,4,Thunder,Celtics,99 - 95,1,N/A,N/A,N/A
+138,Team,Unknown,None,12.5,4,Celtics,Thunder,99 - 95,0,N/A,N/A,N/A
+139,Kyrie Irving,SUBSTITUTION,Rozier Terry,12.5,4,Celtics,Thunder,99 - 95,0,N/A,N/A,N/A
+140,Steven Adams,FOUL_ON_FLOOR,None,10.5,4,Thunder,Celtics,99 - 95,1,N/A,N/A,N/A
+141,Al Horford,FT,None,10.5,4,Celtics,Thunder,100 - 95,0,N/A,1,N/A
+142,Patrick Patterson,SUBSTITUTION,Grant Jerami,10.5,4,Thunder,Celtics,100 - 95,1,N/A,N/A,N/A
+143,Alex Abrines,SUBSTITUTION,Schroder Dennis,10.5,4,Thunder,Celtics,100 - 95,1,N/A,N/A,N/A
+144,Al Horford,FT,None,10.5,4,Celtics,Thunder,101 - 95,0,N/A,1,N/A
+145,Alex Abrines,FG_MISS,None,4.9,4,Thunder,Celtics,101 - 95,1,25,3,Jumper
+146,Al Horford,DEFENSIVE_REBOUND,None,1.2,4,Celtics,Thunder,101 - 95,0,N/A,N/A,N/A
+147,End of,Unknown,None,0.0,4,Thunder,Celtics,101 - 95,1,N/A,N/A,N/A
+148,End of,Unknown,None,0.0,4,Thunder,Celtics,101 - 95,1,N/A,N/A,N/A

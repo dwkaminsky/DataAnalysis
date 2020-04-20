@@ -1,0 +1,369 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,DeAndre Jordan,JUMP_BALL,None,12:00,1,Mavericks,Jazz,0 - 0,0,N/A,N/A,N/A
+1,Derrick Favors,FOUL_ON_FLOOR,None,11:48,1,Jazz,Mavericks,0 - 0,1,N/A,N/A,N/A
+2,Wesley Matthews,FG_ASSISTED,Dennis Smith,11:39,1,Mavericks,Jazz,2 - 0,0,8,3,Jumper
+3,Derrick Favors,FG_MISS,None,11:18,1,Jazz,Mavericks,2 - 0,1,18,3,Jumper
+4,DeAndre Jordan,DEFENSIVE_REBOUND,None,11:15,1,Mavericks,Jazz,2 - 0,0,N/A,N/A,N/A
+5,Harrison Barnes,FG_MISS,Derrick Favors,11:05,1,Jazz,Mavericks,2 - 0,0,0,2,Layup
+6,Team,OFFENSIVE_REBOUND,None,11:05,1,Mavericks,Jazz,2 - 0,0,N/A,N/A,N/A
+7,Harrison Barnes,TURNOVER,Ricky Rubio,11:04,1,Mavericks,Jazz,2 - 0,0,N/A,N/A,N/A
+8,Ricky Rubio,FG_UNASSISTED,None,10:57,1,Jazz,Mavericks,2 - 2,1,13,3,Jumper
+9,DeAndre Jordan,TURNOVER,Ricky Rubio,10:45,1,Mavericks,Jazz,2 - 2,0,N/A,N/A,N/A
+10,Donovan Mitchell,FG_UNASSISTED,None,10:36,1,Jazz,Mavericks,2 - 4,1,16,3,Jumper
+11,Team,Unknown,None,10:35,1,Mavericks,Jazz,2 - 4,0,N/A,N/A,N/A
+12,Harrison Barnes,FG_MISS,Rudy Gobert,10:23,1,Jazz,Mavericks,2 - 4,0,0,2,Layup
+13,Derrick Favors,DEFENSIVE_REBOUND,None,10:20,1,Jazz,Mavericks,2 - 4,1,N/A,N/A,N/A
+14,Donovan Mitchell,FG_MISS,None,10:12,1,Jazz,Mavericks,2 - 4,1,26,3,Jumper
+15,Luka Doncic,DEFENSIVE_REBOUND,None,10:10,1,Mavericks,Jazz,2 - 4,0,N/A,N/A,N/A
+16,DeAndre Jordan,FG_MISS,None,10:06,1,Mavericks,Jazz,2 - 4,0,0,2,Dunk
+17,Rudy Gobert,DEFENSIVE_REBOUND,None,10:04,1,Jazz,Mavericks,2 - 4,1,N/A,N/A,N/A
+18,Joe Ingles,FG_MISS,None,9:52,1,Jazz,Mavericks,2 - 4,1,27,3,Jumper
+19,Rudy Gobert,OFFENSIVE_REBOUND,None,9:49,1,Jazz,Mavericks,2 - 4,1,N/A,N/A,N/A
+20,Rudy Gobert,FG_MISS,DeAndre Jordan,9:46,1,Mavericks,Jazz,2 - 4,1,0,2,Layup
+21,Wesley Matthews,DEFENSIVE_REBOUND,None,9:43,1,Mavericks,Jazz,2 - 4,0,N/A,N/A,N/A
+22,Luka Doncic,FG_UNASSISTED,None,9:33,1,Mavericks,Jazz,4 - 4,0,6,3,Jumper
+23,Joe Ingles,FG_ASSISTED,Donovan Mitchell,9:14,1,Jazz,Mavericks,4 - 7,1,24,3,Jumper
+24,Donovan Mitchell,FOUL_ON_FLOOR,None,9:05,1,Jazz,Mavericks,4 - 7,1,N/A,N/A,N/A
+25,Wesley Matthews,FG_MISS,None,8:59,1,Mavericks,Jazz,4 - 7,0,-,3,Jumper
+26,Rudy Gobert,DEFENSIVE_REBOUND,None,8:57,1,Jazz,Mavericks,4 - 7,1,N/A,N/A,N/A
+27,Ricky Rubio,FG_MISS,None,8:50,1,Jazz,Mavericks,4 - 7,1,18,3,Jumper
+28,Harrison Barnes,DEFENSIVE_REBOUND,None,8:47,1,Mavericks,Jazz,4 - 7,0,N/A,N/A,N/A
+29,DeAndre Jordan,FG_MISS,Derrick Favors,8:39,1,Jazz,Mavericks,4 - 7,0,0,2,Layup
+30,Ricky Rubio,DEFENSIVE_REBOUND,None,8:34,1,Jazz,Mavericks,4 - 7,1,N/A,N/A,N/A
+31,Derrick Favors,FG_ASSISTED,Ricky Rubio,8:25,1,Jazz,Mavericks,4 - 9,1,0,2,Dunk
+32,Harrison Barnes,FG_ASSISTED,DeAndre Jordan,8:06,1,Mavericks,Jazz,6 - 9,0,-,3,Jumper
+33,Joe Ingles,FG_ASSISTED,Ricky Rubio,7:53,1,Jazz,Mavericks,6 - 12,1,23,3,Jumper
+34,Dennis Smith,FG_UNASSISTED,None,7:40,1,Mavericks,Jazz,8 - 12,0,16,3,Jumper
+35,Derrick Favors,FG_ASSISTED,Donovan Mitchell,7:14,1,Jazz,Mavericks,8 - 15,1, ,3,Jumper
+36,Luka Doncic,TURNOVER,Derrick Favors,6:58,1,Mavericks,Jazz,8 - 15,0,N/A,N/A,N/A
+37,Rudy Gobert,FG_ASSISTED,Ricky Rubio,6:51,1,Jazz,Mavericks,8 - 17,1,0,2,Layup
+38,DeAndre Jordan,FOUL_ON_FLOOR,None,6:51,1,Mavericks,Jazz,8 - 17,0,N/A,N/A,N/A
+39,Dorian Finney-Smith,SUBSTITUTION,Matthews Wesley,6:51,1,Mavericks,Jazz,8 - 17,0,N/A,N/A,N/A
+40,J.J. Barea,SUBSTITUTION,Smith Dennis,6:51,1,Mavericks,Jazz,8 - 17,0,N/A,N/A,N/A
+41,Rudy Gobert,FT,None,6:51,1,Jazz,Mavericks,8 - 18,1,N/A,1,N/A
+42,Luka Doncic,FG_UNASSISTED,None,6:37,1,Mavericks,Jazz,10 - 18,0,9,3,Jumper
+43,Ricky Rubio,FG_MISS,None,6:25,1,Jazz,Mavericks,10 - 18,1,26,3,Jumper
+44,DeAndre Jordan,DEFENSIVE_REBOUND,None,6:22,1,Mavericks,Jazz,10 - 18,0,N/A,N/A,N/A
+45,DeAndre Jordan,FG_ASSISTED,Luka Doncic,6:17,1,Mavericks,Jazz,12 - 18,0,0,2,Dunk
+46,Team,Unknown,None,6:17,1,Jazz,Mavericks,10 - 18,1,N/A,N/A,N/A
+47,Jae Crowder,SUBSTITUTION,Favors Derrick,6:17,1,Jazz,Mavericks,12 - 18,1,N/A,N/A,N/A
+48,Alec Burks,SUBSTITUTION,Mitchell Donovan,6:17,1,Jazz,Mavericks,12 - 18,1,N/A,N/A,N/A
+49,Joe Ingles,TURNOVER,DeAndre Jordan,6:04,1,Jazz,Mavericks,12 - 18,1,N/A,N/A,N/A
+50,Luka Doncic,FG_MISS,None,5:56,1,Mavericks,Jazz,12 - 18,0,9,3,Jumper
+51,Rudy Gobert,DEFENSIVE_REBOUND,None,5:54,1,Jazz,Mavericks,12 - 18,1,N/A,N/A,N/A
+52,Joe Ingles,FG_MISS,None,5:47,1,Jazz,Mavericks,12 - 18,1,26,3,Jumper
+53,Rudy Gobert,OFFENSIVE_REBOUND,None,5:41,1,Jazz,Mavericks,12 - 18,1,N/A,N/A,N/A
+54,Rudy Gobert,FG_UNASSISTED,None,5:41,1,Jazz,Mavericks,12 - 20,1,0,2,Dunk
+55,J.J. Barea,FG_UNASSISTED,None,5:27,1,Mavericks,Jazz,14 - 20,0,18,3,Jumper
+56,Alec Burks,FG_MISS,None,5:10,1,Jazz,Mavericks,14 - 20,1,15,3,Jumper
+57,Dorian Finney-Smith,DEFENSIVE_REBOUND,None,5:07,1,Mavericks,Jazz,14 - 20,0,N/A,N/A,N/A
+58,Rudy Gobert,FOUL_ON_FLOOR,None,5:03,1,Jazz,Mavericks,14 - 20,1,N/A,N/A,N/A
+59,Luka Doncic,TURNOVER,None,4:45,1,Mavericks,Jazz,14 - 20,0,N/A,N/A,N/A
+60,J.J. Barea,FOUL_ON_FLOOR,None,4:31,1,Mavericks,Jazz,14 - 20,0,N/A,N/A,N/A
+61,Ricky Rubio,FT,None,4:31,1,Jazz,Mavericks,14 - 21,1,N/A,1,N/A
+62,Ricky Rubio,FT_MISS,None,4:31,1,Jazz,Mavericks,14 - 21,1,N/A,1,N/A
+63,Harrison Barnes,DEFENSIVE_REBOUND,None,4:29,1,Mavericks,Jazz,14 - 21,0,N/A,N/A,N/A
+64,Ricky Rubio,FOUL_ON_FLOOR,None,4:19,1,Jazz,Mavericks,14 - 21,1,N/A,N/A,N/A
+65,J.J. Barea,FT,None,4:19,1,Mavericks,Jazz,15 - 21,0,N/A,1,N/A
+66,J.J. Barea,FT,None,4:19,1,Mavericks,Jazz,16 - 21,0,N/A,1,N/A
+67,Alec Burks,FG_MISS,None,3:58,1,Jazz,Mavericks,16 - 21,1,16,3,Jumper
+68,DeAndre Jordan,DEFENSIVE_REBOUND,None,3:55,1,Mavericks,Jazz,16 - 21,0,N/A,N/A,N/A
+69,Dorian Finney-Smith,FG_MISS,None,3:50,1,Mavericks,Jazz,16 - 21,0,22,3,Jumper
+70,Dorian Finney-Smith,OFFENSIVE_REBOUND,None,3:46,1,Mavericks,Jazz,16 - 21,0,N/A,N/A,N/A
+71,J.J. Barea,FG_MISS,Alec Burks,3:43,1,Jazz,Mavericks,16 - 21,0,4,3,Jumper
+72,Jae Crowder,DEFENSIVE_REBOUND,None,3:41,1,Jazz,Mavericks,16 - 21,1,N/A,N/A,N/A
+73,Jae Crowder,FG_MISS,None,3:25,1,Jazz,Mavericks,16 - 21,1,0,2,Layup
+74,DeAndre Jordan,DEFENSIVE_REBOUND,None,3:23,1,Mavericks,Jazz,16 - 21,0,N/A,N/A,N/A
+75,Harrison Barnes,TURNOVER,Rudy Gobert,3:15,1,Mavericks,Jazz,16 - 21,0,N/A,N/A,N/A
+76,Jae Crowder,FG_ASSISTED,Ricky Rubio,3:12,1,Jazz,Mavericks,16 - 23,1,0,2,Layup
+77,Luka Doncic,FOUL_ON_FLOOR,None,2:51,1,Mavericks,Jazz,16 - 23,0,N/A,N/A,N/A
+78,Luka Doncic,TURNOVER,None,2:51,1,Mavericks,Jazz,16 - 23,0,N/A,N/A,N/A
+79,Derrick Favors,SUBSTITUTION,Ingles Joe,2:51,1,Jazz,Mavericks,16 - 23,1,N/A,N/A,N/A
+80,Royce O'Neale,SUBSTITUTION,Rubio Ricky,2:51,1,Jazz,Mavericks,16 - 23,1,N/A,N/A,N/A
+81,Dante Exum,SUBSTITUTION,Gobert Rudy,2:51,1,Jazz,Mavericks,16 - 23,1,N/A,N/A,N/A
+82,Maximilian Kleber,SUBSTITUTION,Jordan DeAndre,2:51,1,Mavericks,Jazz,16 - 23,0,N/A,N/A,N/A
+83,Wesley Matthews,SUBSTITUTION,Barnes Harrison,2:51,1,Mavericks,Jazz,16 - 23,0,N/A,N/A,N/A
+84,Dwight Powell,SUBSTITUTION,Doncic Luka,2:51,1,Mavericks,Jazz,16 - 23,0,N/A,N/A,N/A
+85,Alec Burks,FG_MISS,Maximilian Kleber,2:31,1,Mavericks,Jazz,16 - 23,1,0,2,Layup
+86,Dorian Finney-Smith,DEFENSIVE_REBOUND,None,2:28,1,Mavericks,Jazz,16 - 23,0,N/A,N/A,N/A
+87,Dorian Finney-Smith,FG_MISS,None,2:14,1,Mavericks,Jazz,16 - 23,0,23,3,Jumper
+88,Derrick Favors,DEFENSIVE_REBOUND,None,2:12,1,Jazz,Mavericks,16 - 23,1,N/A,N/A,N/A
+89,Derrick Favors,FG_ASSISTED,Dante Exum,1:54,1,Jazz,Mavericks,16 - 25,1,0,2,Dunk
+90,J.J. Barea,TURNOVER,None,1:39,1,Mavericks,Jazz,16 - 25,0,N/A,N/A,N/A
+91,Donovan Mitchell,SUBSTITUTION,Burks Alec,1:39,1,Jazz,Mavericks,16 - 25,1,N/A,N/A,N/A
+92,Royce O'Neale,FG_ASSISTED,Donovan Mitchell,1:28,1,Jazz,Mavericks,16 - 27,1,0,2,Dunk
+93,Wesley Matthews,FOUL_ON_FLOOR,None,1:28,1,Mavericks,Jazz,16 - 27,0,N/A,N/A,N/A
+94,Team,Unknown,None,1:28,1,Mavericks,Jazz,16 - 27,0,N/A,N/A,N/A
+95,Royce O'Neale,FT,None,1:28,1,Jazz,Mavericks,16 - 28,1,N/A,1,N/A
+96,Wesley Matthews,FG_MISS,None,1:05,1,Mavericks,Jazz,16 - 28,0,23,3,Jumper
+97,Jae Crowder,DEFENSIVE_REBOUND,None,1:02,1,Jazz,Mavericks,16 - 28,1,N/A,N/A,N/A
+98,Jae Crowder,FG_MISS,None,58.0,1,Jazz,Mavericks,16 - 28,1,25,3,Jumper
+99,Dante Exum,OFFENSIVE_REBOUND,None,55.7,1,Jazz,Mavericks,16 - 28,1,N/A,N/A,N/A
+100,Donovan Mitchell,FG_UNASSISTED,None,44.5,1,Jazz,Mavericks,16 - 30,1,17,3,Jumper
+101,J.J. Barea,FG_MISS,None,32.8,1,Mavericks,Jazz,16 - 30,0,25,3,Jumper
+102,Team,OFFENSIVE_REBOUND,None,28.8,1,Mavericks,Jazz,16 - 30,0,N/A,N/A,N/A
+103,Dante Exum,FOUL_ON_FLOOR,None,25.3,1,Jazz,Mavericks,16 - 30,1,N/A,N/A,N/A
+104,J.J. Barea,FT,None,25.3,1,Mavericks,Jazz,17 - 30,0,N/A,1,N/A
+105,J.J. Barea,FT,None,25.3,1,Mavericks,Jazz,18 - 30,0,N/A,1,N/A
+106,Royce O'Neale,FG_MISS,None,0.0,1,Jazz,Mavericks,18 - 30,1, ,3,Jumper
+107,Team,OFFENSIVE_REBOUND,None,0.0,1,Jazz,Mavericks,18 - 30,1,N/A,N/A,N/A
+108,End of,Unknown,None,0.0,1,Jazz,Mavericks,18 - 30,1,N/A,N/A,N/A
+0,Derrick Favors,SUBSTITUTION,Crowder Jae,12:00,3,Jazz,Mavericks,45 - 68,1,N/A,N/A,N/A
+1,Dennis Smith,SUBSTITUTION,Brunson Jalen,12:00,3,Mavericks,Jazz,45 - 68,0,N/A,N/A,N/A
+2,DeAndre Jordan,SUBSTITUTION,Kleber Maximilian,12:00,3,Mavericks,Jazz,45 - 68,0,N/A,N/A,N/A
+3,Dennis Smith,FOUL_ON_FLOOR,None,11:46,3,Mavericks,Jazz,45 - 68,0,N/A,N/A,N/A
+4,Luka Doncic,FOUL_ON_FLOOR,None,11:36,3,Mavericks,Jazz,45 - 68,0,N/A,N/A,N/A
+5,Rudy Gobert,FT_MISS,None,11:36,3,Jazz,Mavericks,45 - 68,1,N/A,1,N/A
+6,Team,OFFENSIVE_REBOUND,None,11:36,3,Jazz,Mavericks,45 - 68,1,N/A,N/A,N/A
+7,Rudy Gobert,FT_MISS,None,11:36,3,Jazz,Mavericks,45 - 68,1,N/A,1,N/A
+8,DeAndre Jordan,DEFENSIVE_REBOUND,None,11:33,3,Mavericks,Jazz,45 - 68,0,N/A,N/A,N/A
+9,Luka Doncic,TURNOVER,Joe Ingles,11:15,3,Mavericks,Jazz,45 - 68,0,N/A,N/A,N/A
+10,Joe Ingles,FG_MISS,None,11:12,3,Jazz,Mavericks,45 - 68,1, ,3,Jumper
+11,Donovan Mitchell,OFFENSIVE_REBOUND,None,11:04,3,Jazz,Mavericks,45 - 68,1,N/A,N/A,N/A
+12,Donovan Mitchell,FG_UNASSISTED,None,11:04,3,Jazz,Mavericks,45 - 70,1,0,2,Dunk
+13,Luka Doncic,FG_MISS,Rudy Gobert,10:51,3,Jazz,Mavericks,45 - 70,0,11,3,Jumper
+14,Luka Doncic,OFFENSIVE_REBOUND,None,10:49,3,Mavericks,Jazz,45 - 70,0,N/A,N/A,N/A
+15,Dennis Smith,FG_ASSISTED,Luka Doncic,10:46,3,Mavericks,Jazz,48 - 70,0,28,3,Jumper
+16,Ricky Rubio,FG_MISS,None,10:25,3,Jazz,Mavericks,48 - 70,1,0,2,Layup
+17,DeAndre Jordan,DEFENSIVE_REBOUND,None,10:23,3,Mavericks,Jazz,48 - 70,0,N/A,N/A,N/A
+18,Harrison Barnes,FG_ASSISTED,Wesley Matthews,10:18,3,Mavericks,Jazz,51 - 70,0,23,3,Jumper
+19,Donovan Mitchell,FG_ASSISTED,Rudy Gobert,9:56,3,Jazz,Mavericks,51 - 73,1,27,3,Jumper
+20,Luka Doncic,FG_MISS,None,9:38,3,Mavericks,Jazz,51 - 73,0, ,3,Jumper
+21,Dennis Smith,OFFENSIVE_REBOUND,None,9:34,3,Mavericks,Jazz,51 - 73,0,N/A,N/A,N/A
+22,Wesley Matthews,FG_MISS,None,9:33,3,Mavericks,Jazz,51 - 73,0,26,3,Jumper
+23,Rudy Gobert,DEFENSIVE_REBOUND,None,9:29,3,Jazz,Mavericks,51 - 73,1,N/A,N/A,N/A
+24,Donovan Mitchell,TURNOVER,None,9:20,3,Jazz,Mavericks,51 - 73,1,N/A,N/A,N/A
+25,Harrison Barnes,FG_MISS,None,9:08,3,Mavericks,Jazz,51 - 73,0,26,3,Jumper
+26,Rudy Gobert,DEFENSIVE_REBOUND,None,9:04,3,Jazz,Mavericks,51 - 73,1,N/A,N/A,N/A
+27,Harrison Barnes,FOUL_ON_FLOOR,None,8:57,3,Mavericks,Jazz,51 - 73,0,N/A,N/A,N/A
+28,Derrick Favors,FT_MISS,None,8:57,3,Jazz,Mavericks,51 - 73,1,N/A,1,N/A
+29,Team,OFFENSIVE_REBOUND,None,8:57,3,Jazz,Mavericks,51 - 73,1,N/A,N/A,N/A
+30,Derrick Favors,FT_MISS,None,8:57,3,Jazz,Mavericks,51 - 73,1,N/A,1,N/A
+31,Harrison Barnes,DEFENSIVE_REBOUND,None,8:55,3,Mavericks,Jazz,51 - 73,0,N/A,N/A,N/A
+32,Ricky Rubio,FOUL_ON_FLOOR,None,8:39,3,Jazz,Mavericks,51 - 73,1,N/A,N/A,N/A
+33,DeAndre Jordan,FT,None,8:39,3,Mavericks,Jazz,52 - 73,0,N/A,1,N/A
+34,DeAndre Jordan,FT,None,8:39,3,Mavericks,Jazz,53 - 73,0,N/A,1,N/A
+35,Donovan Mitchell,FG_ASSISTED,Joe Ingles,8:22,3,Jazz,Mavericks,53 - 76,1,26,3,Jumper
+36,Dennis Smith,TURNOVER,None,8:10,3,Mavericks,Jazz,53 - 76,0,N/A,N/A,N/A
+37,Joe Ingles,TURNOVER,None,7:58,3,Jazz,Mavericks,53 - 76,1,N/A,N/A,N/A
+38,Wesley Matthews,FG_UNASSISTED,None,7:41,3,Mavericks,Jazz,55 - 76,0, ,3,Jumper
+39,Ricky Rubio,FG_MISS,None,7:27,3,Jazz,Mavericks,55 - 76,1,0,2,Layup
+40,DeAndre Jordan,DEFENSIVE_REBOUND,None,7:25,3,Mavericks,Jazz,55 - 76,0,N/A,N/A,N/A
+41,Luka Doncic,FG_UNASSISTED,None,7:20,3,Mavericks,Jazz,57 - 76,0,0,2,Layup
+42,Team,Unknown,None,7:20,3,Jazz,Mavericks,57 - 76,1,N/A,N/A,N/A
+43,Jae Crowder,SUBSTITUTION,Favors Derrick,7:20,3,Jazz,Mavericks,57 - 76,1,N/A,N/A,N/A
+44,Donovan Mitchell,FG_MISS,None,7:09,3,Jazz,Mavericks,57 - 76,1,7,3,Jumper
+45,Wesley Matthews,DEFENSIVE_REBOUND,None,7:06,3,Mavericks,Jazz,57 - 76,0,N/A,N/A,N/A
+46,Dennis Smith,FG_ASSISTED,Wesley Matthews,7:02,3,Mavericks,Jazz,60 - 76,0,25,3,Jumper
+47,DeAndre Jordan,FOUL_TECHNICAL,None,6:43,3,Mavericks,Jazz,60 - 76,0,N/A,N/A,N/A
+48,Ricky Rubio,FT,None,6:43,3,Jazz,Mavericks,60 - 77,1,N/A,1,N/A
+49,Rudy Gobert,FG_ASSISTED,Donovan Mitchell,6:33,3,Jazz,Mavericks,60 - 79,1,0,2,Dunk
+50,Luka Doncic,FG_ASSISTED,Wesley Matthews,6:10,3,Mavericks,Jazz,63 - 79,0,25,3,Jumper
+51,Alec Burks,SUBSTITUTION,Mitchell Donovan,5:45,3,Jazz,Mavericks,63 - 79,1,N/A,N/A,N/A
+52,Ricky Rubio,FG_MISS,None,5:43,3,Jazz,Mavericks,63 - 79,1,24,3,Jumper
+53,Luka Doncic,DEFENSIVE_REBOUND,None,5:39,3,Mavericks,Jazz,63 - 79,0,N/A,N/A,N/A
+54,Jae Crowder,FOUL_ON_FLOOR,None,5:33,3,Jazz,Mavericks,63 - 79,1,N/A,N/A,N/A
+55,Luka Doncic,FG_MISS,Rudy Gobert,5:25,3,Jazz,Mavericks,63 - 79,0,10,3,Jumper
+56,Ricky Rubio,DEFENSIVE_REBOUND,None,5:21,3,Jazz,Mavericks,63 - 79,1,N/A,N/A,N/A
+57,Jae Crowder,FG_MISS,None,5:17,3,Jazz,Mavericks,63 - 79,1,25,3,Jumper
+58,Dennis Smith,DEFENSIVE_REBOUND,None,5:14,3,Mavericks,Jazz,63 - 79,0,N/A,N/A,N/A
+59,DeAndre Jordan,FG_MISS,Rudy Gobert,4:58,3,Jazz,Mavericks,63 - 79,0,0,2,Layup
+60,Joe Ingles,DEFENSIVE_REBOUND,None,4:58,3,Jazz,Mavericks,63 - 79,1,N/A,N/A,N/A
+61,Jae Crowder,FG_ASSISTED,Joe Ingles,4:51,3,Jazz,Mavericks,63 - 81,1,0,2,Dunk
+62,Team,Unknown,None,4:51,3,Mavericks,Jazz,63 - 81,0,N/A,N/A,N/A
+63,Harrison Barnes,FG_MISS,None,4:38,3,Mavericks,Jazz,63 - 81,0,13,3,Jumper
+64,Rudy Gobert,DEFENSIVE_REBOUND,None,4:35,3,Jazz,Mavericks,63 - 81,1,N/A,N/A,N/A
+65,Alec Burks,FG_UNASSISTED,None,4:29,3,Jazz,Mavericks,63 - 84,1,25,3,Jumper
+66,Jae Crowder,FOUL_TECHNICAL,None,4:15,3,Jazz,Mavericks,63 - 84,1,N/A,N/A,N/A
+67,Dennis Smith,FT_MISS,None,4:15,3,Mavericks,Jazz,63 - 84,0,N/A,1,N/A
+68,Team,OFFENSIVE_REBOUND,None,4:15,3,Mavericks,Jazz,63 - 84,0,N/A,N/A,N/A
+69,Alec Burks,FOUL_ON_FLOOR,None,4:10,3,Jazz,Mavericks,63 - 84,1,N/A,N/A,N/A
+70,Wesley Matthews,FG_MISS,None,4:03,3,Mavericks,Jazz,63 - 84,0,5,3,Jumper
+71,DeAndre Jordan,OFFENSIVE_REBOUND,None,4:01,3,Mavericks,Jazz,63 - 84,0,N/A,N/A,N/A
+72,Rudy Gobert,FOUL_ON_FLOOR,None,4:01,3,Jazz,Mavericks,63 - 84,1,N/A,N/A,N/A
+73,DeAndre Jordan,FT,None,4:01,3,Mavericks,Jazz,64 - 84,0,N/A,1,N/A
+74,DeAndre Jordan,FT,None,4:01,3,Mavericks,Jazz,65 - 84,0,N/A,1,N/A
+75,Wesley Matthews,FOUL_ON_FLOOR,None,3:41,3,Mavericks,Jazz,65 - 84,0,N/A,N/A,N/A
+76,Dante Exum,SUBSTITUTION,Ingles Joe,3:41,3,Jazz,Mavericks,65 - 84,1,N/A,N/A,N/A
+77,Royce O'Neale,SUBSTITUTION,Rubio Ricky,3:41,3,Jazz,Mavericks,65 - 84,1,N/A,N/A,N/A
+78,Dorian Finney-Smith,SUBSTITUTION,Smith Dennis,3:41,3,Mavericks,Jazz,65 - 84,0,N/A,N/A,N/A
+79,J.J. Barea,SUBSTITUTION,Matthews Wesley,3:41,3,Mavericks,Jazz,65 - 84,0,N/A,N/A,N/A
+80,Alec Burks,FG_ASSISTED,Rudy Gobert,3:37,3,Jazz,Mavericks,65 - 87,1,26,3,Jumper
+81,Royce O'Neale,FOUL_ON_FLOOR,None,3:27,3,Jazz,Mavericks,65 - 87,1,N/A,N/A,N/A
+82,Luka Doncic,FT,None,3:27,3,Mavericks,Jazz,66 - 87,0,N/A,1,N/A
+83,Luka Doncic,FT,None,3:27,3,Mavericks,Jazz,67 - 87,0,N/A,1,N/A
+84,Dorian Finney-Smith,FOUL_ON_FLOOR,None,3:17,3,Mavericks,Jazz,67 - 87,0,N/A,N/A,N/A
+85,Jae Crowder,FT_MISS,None,3:17,3,Jazz,Mavericks,67 - 87,1,N/A,1,N/A
+86,Team,OFFENSIVE_REBOUND,None,3:17,3,Jazz,Mavericks,67 - 87,1,N/A,N/A,N/A
+87,Jae Crowder,FT,None,3:17,3,Jazz,Mavericks,67 - 88,1,N/A,1,N/A
+88,Luka Doncic,FG_ASSISTED,J.J. Barea,3:07,3,Mavericks,Jazz,70 - 88,0,30,3,Jumper
+89,Alec Burks,FG_UNASSISTED,None,2:46,3,Jazz,Mavericks,70 - 91,1,27,3,Jumper
+90,J.J. Barea,FG_MISS,None,2:36,3,Mavericks,Jazz,70 - 91,0,26,3,Jumper
+91,Jae Crowder,DEFENSIVE_REBOUND,None,2:33,3,Jazz,Mavericks,70 - 91,1,N/A,N/A,N/A
+92,Dante Exum,FG_UNASSISTED,None,2:22,3,Jazz,Mavericks,70 - 93,1,10,3,Jumper
+93,Rudy Gobert,FOUL_ON_FLOOR,None,2:08,3,Jazz,Mavericks,70 - 93,1,N/A,N/A,N/A
+94,Harrison Barnes,FT,None,2:08,3,Mavericks,Jazz,71 - 93,0,N/A,1,N/A
+95,Derrick Favors,SUBSTITUTION,Gobert Rudy,2:08,3,Jazz,Mavericks,71 - 93,1,N/A,N/A,N/A
+96,Dwight Powell,SUBSTITUTION,Jordan DeAndre,2:08,3,Mavericks,Jazz,71 - 93,0,N/A,N/A,N/A
+97,Harrison Barnes,FT,None,2:08,3,Mavericks,Jazz,72 - 93,0,N/A,1,N/A
+98,Dwight Powell,FOUL_ON_FLOOR,None,1:47,3,Mavericks,Jazz,72 - 93,0,N/A,N/A,N/A
+99,Dante Exum,FT,None,1:47,3,Jazz,Mavericks,72 - 94,1,N/A,1,N/A
+100,Maximilian Kleber,SUBSTITUTION,Barnes Harrison,1:47,3,Mavericks,Jazz,72 - 94,0,N/A,N/A,N/A
+101,Jalen Brunson,SUBSTITUTION,Doncic Luka,1:47,3,Mavericks,Jazz,72 - 94,0,N/A,N/A,N/A
+102,Dante Exum,FT,None,1:47,3,Jazz,Mavericks,72 - 95,1,N/A,1,N/A
+103,Alec Burks,FOUL_ON_FLOOR,None,1:38,3,Jazz,Mavericks,72 - 95,1,N/A,N/A,N/A
+104,Dwight Powell,FT,None,1:38,3,Mavericks,Jazz,73 - 95,0,N/A,1,N/A
+105,Dwight Powell,FT,None,1:38,3,Mavericks,Jazz,74 - 95,0,N/A,1,N/A
+106,Dorian Finney-Smith,FOUL_ON_FLOOR,None,1:31,3,Mavericks,Jazz,74 - 95,0,N/A,N/A,N/A
+107,Derrick Favors,FT,None,1:31,3,Jazz,Mavericks,74 - 96,1,N/A,1,N/A
+108,Derrick Favors,FT,None,1:31,3,Jazz,Mavericks,74 - 97,1,N/A,1,N/A
+109,Maximilian Kleber,FG_UNASSISTED,None,1:18,3,Mavericks,Jazz,76 - 97,0,10,3,Jumper
+110,Royce O'Neale,FG_MISS,None,1:04,3,Jazz,Mavericks,76 - 97,1,26,3,Jumper
+111,Team,DEFENSIVE_REBOUND,None,1:02,3,Mavericks,Jazz,76 - 97,0,N/A,N/A,N/A
+112,J.J. Barea,FG_ASSISTED,Jalen Brunson,49.7,3,Mavericks,Jazz,78 - 97,0,10,3,Jumper
+113,Jae Crowder,FOUL_ON_FLOOR,None,43.3,3,Jazz,Mavericks,78 - 97,1,N/A,N/A,N/A
+114,Jae Crowder,TURNOVER,None,43.3,3,Jazz,Mavericks,78 - 97,1,N/A,N/A,N/A
+115,J.J. Barea,FG_MISS,None,31.5,3,Mavericks,Jazz,78 - 97,0, ,3,Jumper
+116,Team,DEFENSIVE_REBOUND,None,31.5,3,Jazz,Mavericks,78 - 97,1,N/A,N/A,N/A
+117,Dwight Powell,FOUL_ON_FLOOR,None,31.5,3,Mavericks,Jazz,78 - 97,0,N/A,N/A,N/A
+118,Dante Exum,FT,None,31.5,3,Jazz,Mavericks,78 - 98,1,N/A,1,N/A
+119,Dante Exum,FT,None,31.5,3,Jazz,Mavericks,78 - 99,1,N/A,1,N/A
+120,Jalen Brunson,FG_MISS,None,17.3,3,Mavericks,Jazz,78 - 99,0,25,3,Jumper
+121,Dorian Finney-Smith,OFFENSIVE_REBOUND,None,14.2,3,Mavericks,Jazz,78 - 99,0,N/A,N/A,N/A
+122,Dorian Finney-Smith,TURNOVER,None,14.2,3,Mavericks,Jazz,78 - 99,0,N/A,N/A,N/A
+123,Derrick Favors,FOUL_FLAGRANT_1,None,6.9,3,Jazz,Mavericks,78 - 99,1,N/A,N/A,N/A
+124,Derrick Favors,FOUL_TECHNICAL,None,6.9,3,Jazz,Mavericks,78 - 99,1,N/A,N/A,N/A
+125,J.J. Barea,FT,None,6.9,3,Mavericks,Jazz,79 - 99,0,N/A,1,N/A
+126,Dwight Powell,FT,None,6.9,3,Mavericks,Jazz,80 - 99,0,N/A,1,N/A
+127,Dwight Powell,FT_MISS,None,6.9,3,Mavericks,Jazz,80 - 99,0,N/A,1,N/A
+128,Team,OFFENSIVE_REBOUND,None,2.8,3,Mavericks,Jazz,80 - 99,0,N/A,N/A,N/A
+129,Dwight Powell,FG_UNASSISTED,None,2.8,3,Mavericks,Jazz,82 - 99,0,3,3,Jumper
+130,Jae Crowder,FOUL_ON_FLOOR,None,2.8,3,Jazz,Mavericks,82 - 99,1,N/A,N/A,N/A
+131,Dwight Powell,FT,None,2.8,3,Mavericks,Jazz,83 - 99,0,N/A,1,N/A
+132,Alec Burks,FG_MISS,None,1.2,3,Jazz,Mavericks,83 - 99,1,50,3,Jumper
+133,Team,OFFENSIVE_REBOUND,None,1.2,3,Jazz,Mavericks,83 - 99,1,N/A,N/A,N/A
+134,End of,Unknown,None,0.0,3,Jazz,Mavericks,83 - 99,1,N/A,N/A,N/A
+0,Donovan Mitchell,SUBSTITUTION,Burks Alec,12:00,4,Jazz,Mavericks,83 - 99,1,N/A,N/A,N/A
+1,J.J. Barea,FG_MISS,None,11:49,4,Mavericks,Jazz,83 - 99,0,25,3,Jumper
+2,Dwight Powell,OFFENSIVE_REBOUND,None,11:44,4,Mavericks,Jazz,83 - 99,0,N/A,N/A,N/A
+3,Dorian Finney-Smith,FG_MISS,None,11:42,4,Mavericks,Jazz,83 - 99,0,26,3,Jumper
+4,Jae Crowder,DEFENSIVE_REBOUND,None,11:39,4,Jazz,Mavericks,83 - 99,1,N/A,N/A,N/A
+5,Jae Crowder,FG_MISS,None,11:16,4,Jazz,Mavericks,83 - 99,1,23,3,Jumper
+6,shot clock,TURNOVER,None,11:16,4,Jazz,Mavericks,83 - 99,1,N/A,N/A,N/A
+7,Team,OFFENSIVE_REBOUND,None,11:16,4,Jazz,Mavericks,83 - 99,1,N/A,N/A,N/A
+8,Donovan Mitchell,Unknown,None,11:08,4,Jazz,Mavericks,83 - 99,1,N/A,N/A,N/A
+9,Dante Exum,FOUL_ON_FLOOR,None,10:57,4,Jazz,Mavericks,83 - 99,1,N/A,N/A,N/A
+10,J.J. Barea,FT,None,10:57,4,Mavericks,Jazz,84 - 99,0,N/A,1,N/A
+11,J.J. Barea,FT,None,10:57,4,Mavericks,Jazz,85 - 99,0,N/A,1,N/A
+12,Derrick Favors,FG_ASSISTED,Royce O'Neale,10:33,4,Jazz,Mavericks,85 - 101,1,0,2,Dunk
+13,J.J. Barea,FOUL_ON_FLOOR,None,10:22,4,Mavericks,Jazz,85 - 101,0,N/A,N/A,N/A
+14,J.J. Barea,TURNOVER,None,10:22,4,Mavericks,Jazz,85 - 101,0,N/A,N/A,N/A
+15,Team,Unknown,None,10:22,4,Mavericks,Jazz,85 - 101,0,N/A,N/A,N/A
+16,Ricky Rubio,SUBSTITUTION,Exum Dante,10:22,4,Jazz,Mavericks,85 - 101,1,N/A,N/A,N/A
+17,Donovan Mitchell,FG_MISS,None,10:03,4,Jazz,Mavericks,85 - 101,1,26,3,Jumper
+18,Dorian Finney-Smith,DEFENSIVE_REBOUND,None,10:00,4,Mavericks,Jazz,85 - 101,0,N/A,N/A,N/A
+19,Jalen Brunson,FG_UNASSISTED,None,9:49,4,Mavericks,Jazz,87 - 101,0,0,2,Layup
+20,Derrick Favors,TURNOVER,Jalen Brunson,9:44,4,Jazz,Mavericks,87 - 101,1,N/A,N/A,N/A
+21,Jalen Brunson,FG_MISS,Derrick Favors,9:43,4,Jazz,Mavericks,87 - 101,0,0,2,Layup
+22,Jalen Brunson,OFFENSIVE_REBOUND,None,9:43,4,Mavericks,Jazz,87 - 101,0,N/A,N/A,N/A
+23,Jalen Brunson,FG_UNASSISTED,None,9:43,4,Mavericks,Jazz,89 - 101,0,1,3,Jumper
+24,Rudy Gobert,SUBSTITUTION,Favors Derrick,9:43,4,Jazz,Mavericks,89 - 101,1,N/A,N/A,N/A
+25,Joe Ingles,SUBSTITUTION,O'Neale Royce,9:43,4,Jazz,Mavericks,89 - 101,1,N/A,N/A,N/A
+26,Donovan Mitchell,FG_MISS,None,9:35,4,Jazz,Mavericks,89 - 101,1,12,3,Jumper
+27,Team,DEFENSIVE_REBOUND,None,9:35,4,Mavericks,Jazz,89 - 101,0,N/A,N/A,N/A
+28,Rudy Gobert,FOUL_ON_FLOOR,None,9:35,4,Jazz,Mavericks,89 - 101,1,N/A,N/A,N/A
+29,Georges Niang,SUBSTITUTION,Crowder Jae,9:35,4,Jazz,Mavericks,89 - 101,1,N/A,N/A,N/A
+30,Ekpe Udoh,SUBSTITUTION,Gobert Rudy,9:35,4,Jazz,Mavericks,89 - 101,1,N/A,N/A,N/A
+31,Jalen Brunson,FG_ASSISTED,Dwight Powell,9:18,4,Mavericks,Jazz,92 - 101,0,26,3,Jumper
+32,Donovan Mitchell,FG_MISS,Dwight Powell,9:02,4,Mavericks,Jazz,92 - 101,1,0,2,Layup
+33,J.J. Barea,DEFENSIVE_REBOUND,None,8:59,4,Mavericks,Jazz,92 - 101,0,N/A,N/A,N/A
+34,Jalen Brunson,TURNOVER,Ricky Rubio,8:56,4,Mavericks,Jazz,92 - 101,0,N/A,N/A,N/A
+35,Ekpe Udoh,FOUL_ON_FLOOR,None,8:46,4,Jazz,Mavericks,92 - 101,1,N/A,N/A,N/A
+36,Ekpe Udoh,TURNOVER,None,8:46,4,Jazz,Mavericks,92 - 101,1,N/A,N/A,N/A
+37,J.J. Barea,FG_MISS,Ekpe Udoh,8:39,4,Jazz,Mavericks,92 - 101,0,0,2,Layup
+38,Joe Ingles,DEFENSIVE_REBOUND,None,8:35,4,Jazz,Mavericks,92 - 101,1,N/A,N/A,N/A
+39,Joe Ingles,FG_MISS,None,8:29,4,Jazz,Mavericks,92 - 101,1,26,3,Jumper
+40,Dwight Powell,DEFENSIVE_REBOUND,None,8:25,4,Mavericks,Jazz,92 - 101,0,N/A,N/A,N/A
+41,Jalen Brunson,TURNOVER,Donovan Mitchell,8:12,4,Mavericks,Jazz,92 - 101,0,N/A,N/A,N/A
+42,Donovan Mitchell,FG_MISS,None,8:01,4,Jazz,Mavericks,92 - 101,1,28,3,Jumper
+43,Maximilian Kleber,DEFENSIVE_REBOUND,None,7:57,4,Mavericks,Jazz,92 - 101,0,N/A,N/A,N/A
+44,Dwight Powell,FG_MISS,None,7:44,4,Mavericks,Jazz,92 - 101,0,24,3,Jumper
+45,Ricky Rubio,DEFENSIVE_REBOUND,None,7:40,4,Jazz,Mavericks,92 - 101,1,N/A,N/A,N/A
+46,Maximilian Kleber,FOUL_ON_FLOOR,None,7:37,4,Mavericks,Jazz,92 - 101,0,N/A,N/A,N/A
+47,Wesley Matthews,SUBSTITUTION,Barea J.J.,7:37,4,Mavericks,Jazz,92 - 101,0,N/A,N/A,N/A
+48,DeAndre Jordan,SUBSTITUTION,Powell Dwight,7:37,4,Mavericks,Jazz,92 - 101,0,N/A,N/A,N/A
+49,Dennis Smith,SUBSTITUTION,Finney-Smith Dorian,7:37,4,Mavericks,Jazz,92 - 101,0,N/A,N/A,N/A
+50,Harrison Barnes,SUBSTITUTION,Brunson Jalen,7:37,4,Mavericks,Jazz,92 - 101,0,N/A,N/A,N/A
+51,Luka Doncic,SUBSTITUTION,Kleber Maximilian,7:37,4,Mavericks,Jazz,92 - 101,0,N/A,N/A,N/A
+52,Rudy Gobert,SUBSTITUTION,Udoh Ekpe,7:37,4,Jazz,Mavericks,92 - 101,1,N/A,N/A,N/A
+53,Ricky Rubio,TURNOVER,None,7:25,4,Jazz,Mavericks,92 - 101,1,N/A,N/A,N/A
+54,Double technical,FOUL_TECHNICAL,None,7:25,4,Jazz,Mavericks,92 - 101,1,N/A,N/A,N/A
+55,Harrison Barnes,FG_MISS,None,7:12,4,Mavericks,Jazz,92 - 101,0,11,3,Jumper
+56,Dennis Smith,OFFENSIVE_REBOUND,None,7:06,4,Mavericks,Jazz,92 - 101,0,N/A,N/A,N/A
+57,Dennis Smith,FOUL_ON_FLOOR,None,7:06,4,Mavericks,Jazz,92 - 101,0,N/A,N/A,N/A
+58,Dennis Smith,TURNOVER,None,7:06,4,Mavericks,Jazz,92 - 101,0,N/A,N/A,N/A
+59,Jae Crowder,SUBSTITUTION,Niang Georges,7:06,4,Jazz,Mavericks,92 - 101,1,N/A,N/A,N/A
+60,Donovan Mitchell,FG_ASSISTED,Ricky Rubio,6:47,4,Jazz,Mavericks,92 - 103,1,0,2,Layup
+61,DeAndre Jordan,FG_ASSISTED,Wesley Matthews,6:32,4,Mavericks,Jazz,94 - 103,0,3,3,Jumper
+62,Dennis Smith,FOUL_ON_FLOOR,None,6:17,4,Mavericks,Jazz,94 - 103,0,N/A,N/A,N/A
+63,Donovan Mitchell,FT,None,6:17,4,Jazz,Mavericks,94 - 104,1,N/A,1,N/A
+64,Donovan Mitchell,FT,None,6:17,4,Jazz,Mavericks,94 - 105,1,N/A,1,N/A
+65,Luka Doncic,FG_MISS,None,6:08,4,Mavericks,Jazz,94 - 105,0,22,3,Jumper
+66,Jae Crowder,DEFENSIVE_REBOUND,None,6:06,4,Jazz,Mavericks,94 - 105,1,N/A,N/A,N/A
+67,Jae Crowder,FG_ASSISTED,Donovan Mitchell,5:48,4,Jazz,Mavericks,94 - 107,1,1,3,Jumper
+68,Team,Unknown,None,5:46,4,Mavericks,Jazz,94 - 107,0,N/A,N/A,N/A
+69,Harrison Barnes,TURNOVER,Donovan Mitchell,5:33,4,Mavericks,Jazz,94 - 107,0,N/A,N/A,N/A
+70,Jae Crowder,FG_MISS,None,5:28,4,Jazz,Mavericks,94 - 107,1,1,3,Jumper
+71,DeAndre Jordan,DEFENSIVE_REBOUND,None,5:23,4,Mavericks,Jazz,94 - 107,0,N/A,N/A,N/A
+72,Dennis Smith,FG_MISS,None,5:12,4,Mavericks,Jazz,94 - 107,0,9,3,Jumper
+73,Team,DEFENSIVE_REBOUND,None,5:12,4,Jazz,Mavericks,94 - 107,1,N/A,N/A,N/A
+74,DeAndre Jordan,FOUL_ON_FLOOR,None,5:12,4,Mavericks,Jazz,94 - 107,0,N/A,N/A,N/A
+75,Ricky Rubio,FG_MISS,None,4:57,4,Jazz,Mavericks,94 - 107,1,11,3,Jumper
+76,DeAndre Jordan,DEFENSIVE_REBOUND,None,4:53,4,Mavericks,Jazz,94 - 107,0,N/A,N/A,N/A
+77,Ricky Rubio,FOUL_ON_FLOOR,None,4:47,4,Jazz,Mavericks,94 - 107,1,N/A,N/A,N/A
+78,Luka Doncic,FT,None,4:47,4,Mavericks,Jazz,95 - 107,0,N/A,1,N/A
+79,Luka Doncic,FT,None,4:47,4,Mavericks,Jazz,96 - 107,0,N/A,1,N/A
+80,Donovan Mitchell,FG_MISS,None,4:27,4,Jazz,Mavericks,96 - 107,1,23,3,Jumper
+81,Dennis Smith,DEFENSIVE_REBOUND,None,4:24,4,Mavericks,Jazz,96 - 107,0,N/A,N/A,N/A
+82,DeAndre Jordan,FOUL_ON_FLOOR,None,4:17,4,Mavericks,Jazz,96 - 107,0,N/A,N/A,N/A
+83,DeAndre Jordan,TURNOVER,None,4:17,4,Mavericks,Jazz,96 - 107,0,N/A,N/A,N/A
+84,Jae Crowder,FG_ASSISTED,Ricky Rubio,4:00,4,Jazz,Mavericks,96 - 109,1,1,3,Jumper
+85,Harrison Barnes,FOUL_ON_FLOOR,None,3:47,4,Mavericks,Jazz,96 - 109,0,N/A,N/A,N/A
+86,Harrison Barnes,TURNOVER,None,3:47,4,Mavericks,Jazz,96 - 109,0,N/A,N/A,N/A
+87,Rudy Gobert,FG_MISS,None,3:30,4,Jazz,Mavericks,96 - 109,1,0,2,Layup
+88,Luka Doncic,DEFENSIVE_REBOUND,None,3:27,4,Mavericks,Jazz,96 - 109,0,N/A,N/A,N/A
+89,Rudy Gobert,FOUL_ON_FLOOR,None,3:16,4,Jazz,Mavericks,96 - 109,1,N/A,N/A,N/A
+90,Team,Unknown,None,3:16,4,Jazz,Mavericks,96 - 109,1,N/A,N/A,N/A
+91,Derrick Favors,SUBSTITUTION,Gobert Rudy,3:16,4,Jazz,Mavericks,96 - 109,1,N/A,N/A,N/A
+92,DeAndre Jordan,FT,None,3:16,4,Mavericks,Jazz,97 - 109,0,N/A,1,N/A
+93,DeAndre Jordan,FT,None,3:16,4,Mavericks,Jazz,98 - 109,0,N/A,1,N/A
+94,Joe Ingles,FG_MISS,None,3:00,4,Jazz,Mavericks,98 - 109,1,26,3,Jumper
+95,Harrison Barnes,DEFENSIVE_REBOUND,None,2:56,4,Mavericks,Jazz,98 - 109,0,N/A,N/A,N/A
+96,DeAndre Jordan,TURNOVER,Jae Crowder,2:45,4,Mavericks,Jazz,98 - 109,0,N/A,N/A,N/A
+97,Ricky Rubio,FG_MISS,None,2:39,4,Jazz,Mavericks,98 - 109,1,25,3,Jumper
+98,Derrick Favors,OFFENSIVE_REBOUND,None,2:36,4,Jazz,Mavericks,98 - 109,1,N/A,N/A,N/A
+99,Jae Crowder,TURNOVER,None,2:32,4,Jazz,Mavericks,98 - 109,1,N/A,N/A,N/A
+100,Jae Crowder,TURNOVER,None,2:32,4,Jazz,Mavericks,98 - 109,1,N/A,N/A,N/A
+101,Wesley Matthews,FG_MISS,None,2:21,4,Mavericks,Jazz,98 - 109,0,25,3,Jumper
+102,Ricky Rubio,DEFENSIVE_REBOUND,None,2:18,4,Jazz,Mavericks,98 - 109,1,N/A,N/A,N/A
+103,Donovan Mitchell,FG_ASSISTED,Ricky Rubio,2:15,4,Jazz,Mavericks,98 - 112,1,25,3,Jumper
+104,Team,Unknown,None,2:13,4,Mavericks,Jazz,98 - 112,0,N/A,N/A,N/A
+105,Luka Doncic,TURNOVER,None,2:01,4,Mavericks,Jazz,98 - 112,0,N/A,N/A,N/A
+106,Jae Crowder,FG_MISS,None,1:43,4,Jazz,Mavericks,98 - 112,1,24,3,Jumper
+107,Derrick Favors,OFFENSIVE_REBOUND,None,1:40,4,Jazz,Mavericks,98 - 112,1,N/A,N/A,N/A
+108,Derrick Favors,FG_UNASSISTED,None,1:40,4,Jazz,Mavericks,98 - 114,1,0,2,Dunk
+109,Ricky Rubio,FOUL_ON_FLOOR,None,1:36,4,Jazz,Mavericks,98 - 114,1,N/A,N/A,N/A
+110,Dennis Smith,FT,None,1:36,4,Mavericks,Jazz,99 - 114,0,N/A,1,N/A
+111,Dennis Smith,FT,None,1:36,4,Mavericks,Jazz,100 - 114,0,N/A,1,N/A
+112,Ricky Rubio,FG_MISS,None,1:21,4,Jazz,Mavericks,100 - 114,1,1,3,Jumper
+113,DeAndre Jordan,DEFENSIVE_REBOUND,None,1:18,4,Mavericks,Jazz,100 - 114,0,N/A,N/A,N/A
+114,DeAndre Jordan,TURNOVER,Joe Ingles,1:18,4,Mavericks,Jazz,100 - 114,0,N/A,N/A,N/A
+115,Ricky Rubio,FG_ASSISTED,Joe Ingles,1:15,4,Jazz,Mavericks,100 - 117,1,25,3,Jumper
+116,Dennis Smith,TURNOVER,Derrick Favors,1:03,4,Mavericks,Jazz,100 - 117,0,N/A,N/A,N/A
+117,Joe Ingles,FG_MISS,None,48.2,4,Jazz,Mavericks,100 - 117,1,24,3,Jumper
+118,DeAndre Jordan,DEFENSIVE_REBOUND,None,46.4,4,Mavericks,Jazz,100 - 117,0,N/A,N/A,N/A
+119,Wesley Matthews,FG_UNASSISTED,None,39.4,4,Mavericks,Jazz,102 - 117,0,9,3,Jumper
+120,Ricky Rubio,FG_MISS,None,18.3,4,Jazz,Mavericks,102 - 117,1,27,3,Jumper
+121,Luka Doncic,DEFENSIVE_REBOUND,None,16.5,4,Mavericks,Jazz,102 - 117,0,N/A,N/A,N/A
+122,End of,Unknown,None,0.0,4,Jazz,Mavericks,102 - 117,1,N/A,N/A,N/A
+123,End of,Unknown,None,0.0,4,Jazz,Mavericks,102 - 117,1,N/A,N/A,N/A

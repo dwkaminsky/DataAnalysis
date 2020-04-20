@@ -1,0 +1,454 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Clint Capela,JUMP_BALL,None,12:00,1,Rockets,Cavaliers,0 - 0,0,N/A,N/A,N/A
+1,James Harden,TURNOVER,David Nwaba,11:47,1,Rockets,Cavaliers,0 - 0,0,N/A,N/A,N/A
+2,Collin Sexton,FG_MISS,None,11:34,1,Cavaliers,Rockets,0 - 0,1,10,2,Jumper
+3,Tristan Thompson,OFFENSIVE_REBOUND,None,11:33,1,Cavaliers,Rockets,0 - 0,1,N/A,N/A,N/A
+4,Tristan Thompson,FG_MISS,None,11:33,1,Cavaliers,Rockets,0 - 0,1,-,2,Jumper
+5,Tristan Thompson,OFFENSIVE_REBOUND,None,11:32,1,Cavaliers,Rockets,0 - 0,1,N/A,N/A,N/A
+6,Collin Sexton,FG_ASSISTED,Tristan Thompson,11:27,1,Cavaliers,Rockets,0 - 2,1,11,2,Jumper
+7,James Ennis,TURNOVER,David Nwaba,11:17,1,Rockets,Cavaliers,0 - 2,0,N/A,N/A,N/A
+8,David Nwaba,FG_UNASSISTED,None,11:07,1,Cavaliers,Rockets,0 - 4,1,0,2,Dunk
+9,James Harden,TURNOVER,None,11:00,1,Rockets,Cavaliers,0 - 4,0,N/A,N/A,N/A
+10,Rodney Hood,FG_MISS,None,10:38,1,Cavaliers,Rockets,0 - 4,1,6,2,Jumper
+11,Clint Capela,DEFENSIVE_REBOUND,None,10:36,1,Rockets,Cavaliers,0 - 4,0,N/A,N/A,N/A
+12,Rodney Hood,FOUL_ON_FLOOR,None,10:33,1,Cavaliers,Rockets,0 - 4,1,N/A,N/A,N/A
+13,James Harden,TURNOVER,Cedi Osman,10:28,1,Rockets,Cavaliers,0 - 4,0,N/A,N/A,N/A
+14,David Nwaba,TURNOVER,None,10:24,1,Cavaliers,Rockets,0 - 4,1,N/A,N/A,N/A
+15,James Harden's,FG_MISS,David Nwaba,10:13,1,Cavaliers,Rockets,0 - 4,0,-,2,Jumper
+16,Tristan Thompson,DEFENSIVE_REBOUND,None,10:06,1,Cavaliers,Rockets,0 - 4,1,N/A,N/A,N/A
+17,Cedi Osman,TURNOVER,James Harden,10:02,1,Cavaliers,Rockets,0 - 4,1,N/A,N/A,N/A
+18,James Ennis,FG_ASSISTED,Clint Capela,9:58,1,Rockets,Cavaliers,2 - 4,0,-,2,Jumper
+19,Collin Sexton,FG_UNASSISTED,None,9:37,1,Cavaliers,Rockets,2 - 6,1,18,2,Jumper
+20,Eric Gordon,TURNOVER,None,9:18,1,Rockets,Cavaliers,2 - 6,0,N/A,N/A,N/A
+21,James Ennis,FOUL_ON_FLOOR,None,8:59,1,Rockets,Cavaliers,2 - 6,0,N/A,N/A,N/A
+22,Cedi Osman,FT,None,8:59,1,Cavaliers,Rockets,2 - 7,1,N/A,1,N/A
+23,Cedi Osman,FT,None,8:59,1,Cavaliers,Rockets,2 - 8,1,N/A,1,N/A
+24,David Nwaba,FOUL_ON_FLOOR,None,8:49,1,Cavaliers,Rockets,2 - 8,1,N/A,N/A,N/A
+25,James Harden,FG_MISS,None,8:38,1,Rockets,Cavaliers,2 - 8,0,-,2,Jumper
+26,Team,OFFENSIVE_REBOUND,None,8:35,1,Rockets,Cavaliers,2 - 8,0,N/A,N/A,N/A
+27,Cedi Osman,FOUL_ON_FLOOR,None,8:28,1,Cavaliers,Rockets,2 - 8,1,N/A,N/A,N/A
+28,James Harden,FT,None,8:28,1,Rockets,Cavaliers,3 - 8,0,N/A,1,N/A
+29,James Harden,FT,None,8:28,1,Rockets,Cavaliers,4 - 8,0,N/A,1,N/A
+30,David Nwaba,FG_MISS,None,8:10,1,Cavaliers,Rockets,4 - 8,1,-,2,Jumper
+31,Clint Capela,DEFENSIVE_REBOUND,None,8:07,1,Rockets,Cavaliers,4 - 8,0,N/A,N/A,N/A
+32,James Harden,TURNOVER,Tristan Thompson,8:05,1,Rockets,Cavaliers,4 - 8,0,N/A,N/A,N/A
+33,Collin Sexton,FG_ASSISTED,Cedi Osman,7:59,1,Cavaliers,Rockets,4 - 10,1,0,2,Layup
+34,Cedi Osman,FOUL_ON_FLOOR,None,7:46,1,Cavaliers,Rockets,4 - 10,1,N/A,N/A,N/A
+35,Eric Gordon,FT,None,7:46,1,Rockets,Cavaliers,5 - 10,0,N/A,1,N/A
+36,Eric Gordon,FT,None,7:46,1,Rockets,Cavaliers,6 - 10,0,N/A,1,N/A
+37,David Nwaba,FG_MISS,None,7:34,1,Cavaliers,Rockets,6 - 10,1,25,3,Jumper
+38,James Ennis,DEFENSIVE_REBOUND,None,7:29,1,Rockets,Cavaliers,6 - 10,0,N/A,N/A,N/A
+39,James Harden,FG_MISS,None,7:22,1,Rockets,Cavaliers,6 - 10,0,0,2,Layup
+40,Tristan Thompson,DEFENSIVE_REBOUND,None,7:19,1,Cavaliers,Rockets,6 - 10,1,N/A,N/A,N/A
+41,Tristan Thompson,FG_UNASSISTED,None,7:04,1,Cavaliers,Rockets,6 - 12,1,7,2,Jumper
+42,Rodney Hood,FOUL_ON_FLOOR,None,6:51,1,Cavaliers,Rockets,6 - 12,1,N/A,N/A,N/A
+43,Team,Unknown,None,6:51,1,Cavaliers,Rockets,6 - 12,1,N/A,N/A,N/A
+44,Jordan Clarkson,SUBSTITUTION,Hood Rodney,6:51,1,Cavaliers,Rockets,6 - 12,1,N/A,N/A,N/A
+45,Gary Clark,SUBSTITUTION,III Ennis,6:51,1,Rockets,Cavaliers,6 - 12,0,N/A,N/A,N/A
+46,Eric Gordon,FT,None,6:51,1,Rockets,Cavaliers,7 - 12,0,N/A,1,N/A
+47,Eric Gordon,FT,None,6:51,1,Rockets,Cavaliers,8 - 12,0,N/A,1,N/A
+48,Collin Sexton,TURNOVER,Eric Gordon,6:34,1,Cavaliers,Rockets,8 - 12,1,N/A,N/A,N/A
+49,Eric Gordon,FG_UNASSISTED,None,6:29,1,Rockets,Cavaliers,10 - 12,0, ,2,Jumper
+50,Collin Sexton,FG_MISS,None,6:17,1,Cavaliers,Rockets,10 - 12,1,26,3,Jumper
+51,Team,OFFENSIVE_REBOUND,None,6:17,1,Cavaliers,Rockets,10 - 12,1,N/A,N/A,N/A
+52,Kyle Korver,SUBSTITUTION,Nwaba David,6:16,1,Cavaliers,Rockets,10 - 12,1,N/A,N/A,N/A
+53,Larry Nance,SUBSTITUTION,Osman Cedi,6:16,1,Cavaliers,Rockets,10 - 12,1,N/A,N/A,N/A
+54,Kyle Korver,TURNOVER,None,6:16,1,Cavaliers,Rockets,10 - 12,1,N/A,N/A,N/A
+55,Collin Sexton,FOUL_ON_FLOOR,None,6:09,1,Cavaliers,Rockets,10 - 12,1,N/A,N/A,N/A
+56,James Harden,FT_MISS,None,6:09,1,Rockets,Cavaliers,10 - 12,0,N/A,1,N/A
+57,Team,OFFENSIVE_REBOUND,None,6:09,1,Rockets,Cavaliers,10 - 12,0,N/A,N/A,N/A
+58,James Harden,FT_MISS,None,6:09,1,Rockets,Cavaliers,10 - 12,0,N/A,1,N/A
+59,Kyle Korver,DEFENSIVE_REBOUND,None,6:05,1,Cavaliers,Rockets,10 - 12,1,N/A,N/A,N/A
+60,Jordan Clarkson,FG_MISS,None,5:54,1,Cavaliers,Rockets,10 - 12,1,16,2,Jumper
+61,Clint Capela,DEFENSIVE_REBOUND,None,5:51,1,Rockets,Cavaliers,10 - 12,0,N/A,N/A,N/A
+62,James Harden,FG_MISS,None,5:46,1,Rockets,Cavaliers,10 - 12,0,28,3,Jumper
+63,Clint Capela,OFFENSIVE_REBOUND,None,5:41,1,Rockets,Cavaliers,10 - 12,0,N/A,N/A,N/A
+64,James Harden,FG_UNASSISTED,None,5:30,1,Rockets,Cavaliers,13 - 12,0,26,2,Jumper
+65,James Harden,FOUL_ON_FLOOR,None,5:21,1,Rockets,Cavaliers,13 - 12,0,N/A,N/A,N/A
+66,Gerald Green,SUBSTITUTION,Gordon Eric,5:21,1,Rockets,Cavaliers,13 - 12,0,N/A,N/A,N/A
+67,Kyle Korver,FG_MISS,None,5:09,1,Cavaliers,Rockets,13 - 12,1,22,2,Jumper
+68,Jordan Clarkson,OFFENSIVE_REBOUND,None,5:05,1,Cavaliers,Rockets,13 - 12,1,N/A,N/A,N/A
+69,Jordan Clarkson,FG_UNASSISTED,None,5:03,1,Cavaliers,Rockets,13 - 14,1,0,2,Layup
+70,Collin Sexton,FOUL_ON_FLOOR,None,4:51,1,Cavaliers,Rockets,13 - 14,1,N/A,N/A,N/A
+71,James Harden,FT,None,4:51,1,Rockets,Cavaliers,14 - 14,0,N/A,1,N/A
+72,James Harden,FT_MISS,None,4:51,1,Rockets,Cavaliers,14 - 14,0,N/A,1,N/A
+73,Tristan Thompson,DEFENSIVE_REBOUND,None,4:48,1,Cavaliers,Rockets,14 - 14,1,N/A,N/A,N/A
+74,Jordan Clarkson,FG_MISS,None,4:29,1,Cavaliers,Rockets,14 - 14,1, ,2,Jumper
+75,Tristan Thompson,OFFENSIVE_REBOUND,None,4:29,1,Cavaliers,Rockets,14 - 14,1,N/A,N/A,N/A
+76,Tristan Thompson,FG_MISS,None,4:28,1,Cavaliers,Rockets,14 - 14,1, ,2,Jumper
+77,PJ Tucker,DEFENSIVE_REBOUND,None,4:28,1,Rockets,Cavaliers,14 - 14,0,N/A,N/A,N/A
+78,James Harden,FG_UNASSISTED,None,4:16,1,Rockets,Cavaliers,16 - 14,0,0,2,Layup
+79,Larry Nance,FOUL_ON_FLOOR,None,4:07,1,Cavaliers,Rockets,16 - 14,1,N/A,N/A,N/A
+80,Larry Nance,TURNOVER,None,4:07,1,Cavaliers,Rockets,16 - 14,1,N/A,N/A,N/A
+81,Team,Unknown,None,4:07,1,Cavaliers,Rockets,16 - 14,1,N/A,N/A,N/A
+82,Andrew Harrison,SUBSTITUTION,Sexton Collin,4:07,1,Cavaliers,Rockets,16 - 14,1,N/A,N/A,N/A
+83,Isaiah Hartenstein,SUBSTITUTION,Capela Clint,4:07,1,Rockets,Cavaliers,16 - 14,0,N/A,N/A,N/A
+84,Gary Clark,FG_ASSISTED,James Harden,3:57,1,Rockets,Cavaliers,19 - 14,0,27,3,Jumper
+85,PJ Tucker,FOUL_ON_FLOOR,None,3:35,1,Rockets,Cavaliers,19 - 14,0,N/A,N/A,N/A
+86,Kyle Korver,FT,None,3:35,1,Cavaliers,Rockets,19 - 15,1,N/A,1,N/A
+87,Kyle Korver,FT,None,3:35,1,Cavaliers,Rockets,19 - 16,1,N/A,1,N/A
+88,Kyle Korver,FT,None,3:35,1,Cavaliers,Rockets,19 - 17,1,N/A,1,N/A
+89,Andrew Harrison,FOUL_ON_FLOOR,None,3:18,1,Cavaliers,Rockets,19 - 17,1,N/A,N/A,N/A
+90,Gerald Green,FT,None,3:18,1,Rockets,Cavaliers,20 - 17,0,N/A,1,N/A
+91,Gerald Green,FT_MISS,None,3:18,1,Rockets,Cavaliers,20 - 17,0,N/A,1,N/A
+92,Tristan Thompson,DEFENSIVE_REBOUND,None,3:16,1,Cavaliers,Rockets,20 - 17,1,N/A,N/A,N/A
+93,Jordan Clarkson,FG_UNASSISTED,None,2:58,1,Cavaliers,Rockets,20 - 19,1,16,2,Jumper
+94,James Harden,FG_MISS,None,2:40,1,Rockets,Cavaliers,20 - 19,0,26,2,Jumper
+95,Larry Nance,DEFENSIVE_REBOUND,None,2:37,1,Cavaliers,Rockets,20 - 19,1,N/A,N/A,N/A
+96,Tristan Thompson,FG_ASSISTED,Larry Nance,2:33,1,Cavaliers,Rockets,20 - 21,1, ,2,Jumper
+97,James Harden,FG_UNASSISTED,None,2:13,1,Rockets,Cavaliers,22 - 21,0,0,2,Layup
+98,Kyle Korver,FG_ASSISTED,Jordan Clarkson,2:02,1,Cavaliers,Rockets,22 - 24,1,23,3,Jumper
+99,Gerald Green,FG_ASSISTED,James Harden,1:44,1,Rockets,Cavaliers,25 - 24,0,24,3,Jumper
+100,Isaiah Hartenstein,FOUL_ON_FLOOR,None,1:16,1,Rockets,Cavaliers,25 - 24,0,N/A,N/A,N/A
+101,Team,Unknown,None,1:16,1,Rockets,Cavaliers,25 - 24,0,N/A,N/A,N/A
+102,James Ennis,SUBSTITUTION,Hartenstein Isaiah,1:16,1,Rockets,Cavaliers,25 - 24,0,N/A,N/A,N/A
+103,Tristan Thompson,FT,None,1:16,1,Cavaliers,Rockets,25 - 25,1,N/A,1,N/A
+104,Tristan Thompson,FT_MISS,None,1:16,1,Cavaliers,Rockets,25 - 25,1,N/A,1,N/A
+105,Gerald Green,DEFENSIVE_REBOUND,None,1:14,1,Rockets,Cavaliers,25 - 25,0,N/A,N/A,N/A
+106,James Harden,FG_UNASSISTED,None,1:00,1,Rockets,Cavaliers,27 - 25,0,0,2,Layup
+107,Jordan Clarkson,FG_UNASSISTED,None,44.5,1,Cavaliers,Rockets,27 - 27,1,4,2,Jumper
+108,James Harden,FG_UNASSISTED,None,29.8,1,Rockets,Cavaliers,30 - 27,0,27,2,Jumper
+109,Kyle Korver,FG_MISS,None,8.3,1,Cavaliers,Rockets,30 - 27,1, ,2,Jumper
+110,Team,OFFENSIVE_REBOUND,None,8.3,1,Cavaliers,Rockets,30 - 27,1,N/A,N/A,N/A
+111,PJ Tucker,FOUL_ON_FLOOR,None,8.3,1,Rockets,Cavaliers,30 - 27,0,N/A,N/A,N/A
+112,Tristan Thompson,FT,None,8.3,1,Cavaliers,Rockets,30 - 28,1,N/A,1,N/A
+113,Tristan Thompson,FT,None,8.3,1,Cavaliers,Rockets,30 - 29,1,N/A,1,N/A
+114,Gary Clark,FG_MISS,None,1.1,1,Rockets,Cavaliers,30 - 29,0,24,3,Jumper
+115,Team,OFFENSIVE_REBOUND,None,1.1,1,Rockets,Cavaliers,30 - 29,0,N/A,N/A,N/A
+116,End of,Unknown,None,0.0,1,Cavaliers,Rockets,30 - 29,1,N/A,N/A,N/A
+0,David Nwaba,SUBSTITUTION,Thompson Tristan,12:00,2,Cavaliers,Rockets,30 - 29,1,N/A,N/A,N/A
+1,Clint Capela,SUBSTITUTION,Harden James,12:00,2,Rockets,Cavaliers,30 - 29,0,N/A,N/A,N/A
+2,Eric Gordon,SUBSTITUTION,Green Gerald,12:00,2,Rockets,Cavaliers,30 - 29,0,N/A,N/A,N/A
+3,Michael Carter-Williams,SUBSTITUTION,Tucker PJ,12:00,2,Rockets,Cavaliers,30 - 29,0,N/A,N/A,N/A
+4,Jordan Clarkson,FOUL_ON_FLOOR,None,11:50,2,Cavaliers,Rockets,30 - 29,1,N/A,N/A,N/A
+5,Jordan Clarkson,TURNOVER,None,11:50,2,Cavaliers,Rockets,30 - 29,1,N/A,N/A,N/A
+6,Eric Gordon,FG_UNASSISTED,None,11:38,2,Rockets,Cavaliers,32 - 29,0,8,2,Jumper
+7,Jordan Clarkson,FG_MISS,None,11:21,2,Cavaliers,Rockets,32 - 29,1,25,3,Jumper
+8,Jordan Clarkson,OFFENSIVE_REBOUND,None,11:18,2,Cavaliers,Rockets,32 - 29,1,N/A,N/A,N/A
+9,Michael Carter-Williams,FOUL_ON_FLOOR,None,11:17,2,Rockets,Cavaliers,32 - 29,0,N/A,N/A,N/A
+10,Jordan Clarkson,TURNOVER,Eric Gordon,11:03,2,Cavaliers,Rockets,32 - 29,1,N/A,N/A,N/A
+11,James Ennis,TURNOVER,None,11:00,2,Rockets,Cavaliers,32 - 29,0,N/A,N/A,N/A
+12,Michael Carter-Williams,FOUL_ON_FLOOR,None,10:38,2,Rockets,Cavaliers,32 - 29,0,N/A,N/A,N/A
+13,Larry Nance,FT,None,10:38,2,Cavaliers,Rockets,32 - 30,1,N/A,1,N/A
+14,Larry Nance,FT,None,10:38,2,Cavaliers,Rockets,32 - 31,1,N/A,1,N/A
+15,Eric Gordon,FG_MISS,None,10:26,2,Rockets,Cavaliers,32 - 31,0,28,3,Jumper
+16,Larry Nance,DEFENSIVE_REBOUND,None,10:21,2,Cavaliers,Rockets,32 - 31,1,N/A,N/A,N/A
+17,David Nwaba,FG_MISS,None,10:09,2,Cavaliers,Rockets,32 - 31,1,0,2,Layup
+18,David Nwaba,OFFENSIVE_REBOUND,None,10:08,2,Cavaliers,Rockets,32 - 31,1,N/A,N/A,N/A
+19,James Ennis,FOUL_ON_FLOOR,None,10:08,2,Rockets,Cavaliers,32 - 31,0,N/A,N/A,N/A
+20,David Nwaba,FT,None,10:08,2,Cavaliers,Rockets,32 - 32,1,N/A,1,N/A
+21,David Nwaba,FT_MISS,None,10:08,2,Cavaliers,Rockets,32 - 32,1,N/A,1,N/A
+22,Gary Clark,DEFENSIVE_REBOUND,None,10:05,2,Rockets,Cavaliers,32 - 32,0,N/A,N/A,N/A
+23,Clint Capela,TURNOVER,Kyle Korver,9:56,2,Rockets,Cavaliers,32 - 32,0,N/A,N/A,N/A
+24,Andrew Harrison,FG_UNASSISTED,None,9:51,2,Cavaliers,Rockets,32 - 34,1, ,2,Jumper
+25,Michael Carter-Williams,FG_UNASSISTED,None,9:39,2,Rockets,Cavaliers,35 - 34,0,27,3,Jumper
+26,David Nwaba,FG_ASSISTED,Jordan Clarkson,9:20,2,Cavaliers,Rockets,35 - 36,1,0,2,Dunk
+27,Michael Carter-Williams,FG_UNASSISTED,None,9:11,2,Rockets,Cavaliers,37 - 36,0,0,2,Layup
+28,Andrew Harrison,FOUL_ON_FLOOR,None,9:11,2,Cavaliers,Rockets,37 - 36,1,N/A,N/A,N/A
+29,Michael Carter-Williams,FT_MISS,None,9:11,2,Rockets,Cavaliers,37 - 36,0,N/A,1,N/A
+30,Kyle Korver,DEFENSIVE_REBOUND,None,9:11,2,Cavaliers,Rockets,37 - 36,1,N/A,N/A,N/A
+31,Kyle Korver,FG_ASSISTED,Jordan Clarkson,8:56,2,Cavaliers,Rockets,37 - 39,1,24,3,Jumper
+32,James Ennis,FG_MISS,None,8:47,2,Rockets,Cavaliers,37 - 39,0,25,3,Jumper
+33,Larry Nance,DEFENSIVE_REBOUND,None,8:45,2,Cavaliers,Rockets,37 - 39,1,N/A,N/A,N/A
+34,Kyle Korver,FG_ASSISTED,Andrew Harrison,8:37,2,Cavaliers,Rockets,37 - 42,1,26,3,Jumper
+35,Team,Unknown,None,8:36,2,Rockets,Cavaliers,37 - 42,0,N/A,N/A,N/A
+36,Gerald Green,SUBSTITUTION,III Ennis,8:36,2,Rockets,Cavaliers,37 - 42,0,N/A,N/A,N/A
+37,Gary Clark,FG_MISS,None,8:19,2,Rockets,Cavaliers,37 - 42,0,25,3,Jumper
+38,Clint Capela,OFFENSIVE_REBOUND,None,8:14,2,Rockets,Cavaliers,37 - 42,0,N/A,N/A,N/A
+39,Gerald Green,FG_MISS,None,8:13,2,Rockets,Cavaliers,37 - 42,0,27,3,Jumper
+40,Team,DEFENSIVE_REBOUND,None,8:13,2,Cavaliers,Rockets,37 - 42,1,N/A,N/A,N/A
+41,Larry Nance,FG_ASSISTED,Jordan Clarkson,7:51,2,Cavaliers,Rockets,37 - 44,1,0,2,Dunk
+42,Kyle Korver,FOUL_ON_FLOOR,None,7:38,2,Cavaliers,Rockets,37 - 44,1,N/A,N/A,N/A
+43,Eric Gordon,FT,None,7:38,2,Rockets,Cavaliers,38 - 44,0,N/A,1,N/A
+44,James Harden,SUBSTITUTION,Carter-Williams Michael,7:38,2,Rockets,Cavaliers,38 - 44,0,N/A,N/A,N/A
+45,PJ Tucker,SUBSTITUTION,Clark Gary,7:38,2,Rockets,Cavaliers,38 - 44,0,N/A,N/A,N/A
+46,Eric Gordon,FT_MISS,None,7:38,2,Rockets,Cavaliers,38 - 44,0,N/A,1,N/A
+47,Kyle Korver,DEFENSIVE_REBOUND,None,7:35,2,Cavaliers,Rockets,38 - 44,1,N/A,N/A,N/A
+48,Kyle Korver,TURNOVER,None,7:35,2,Cavaliers,Rockets,38 - 44,1,N/A,N/A,N/A
+49,Gerald Green,FG_ASSISTED,Clint Capela,7:30,2,Rockets,Cavaliers,40 - 44,0, ,2,Jumper
+50,David Nwaba,FG_MISS,Clint Capela,7:09,2,Rockets,Cavaliers,40 - 44,1,0,2,Layup
+51,Gerald Green,DEFENSIVE_REBOUND,None,7:06,2,Rockets,Cavaliers,40 - 44,0,N/A,N/A,N/A
+52,James Harden,FG_UNASSISTED,None,7:02,2,Rockets,Cavaliers,43 - 44,0,26,2,Jumper
+53,Team,Unknown,None,6:53,2,Cavaliers,Rockets,43 - 44,1,N/A,N/A,N/A
+54,Rodney Hood,SUBSTITUTION,Clarkson Jordan,6:53,2,Cavaliers,Rockets,43 - 44,1,N/A,N/A,N/A
+55,Cedi Osman,SUBSTITUTION,Korver Kyle,6:53,2,Cavaliers,Rockets,43 - 44,1,N/A,N/A,N/A
+56,James Harden,FOUL_TECHNICAL,None,6:43,2,Rockets,Cavaliers,43 - 44,0,N/A,N/A,N/A
+57,Rodney Hood,FT,None,6:43,2,Cavaliers,Rockets,43 - 45,1,N/A,1,N/A
+58,Andrew Harrison,FG_MISS,None,6:29,2,Cavaliers,Rockets,43 - 45,1,25,3,Jumper
+59,Larry Nance,OFFENSIVE_REBOUND,None,6:27,2,Cavaliers,Rockets,43 - 45,1,N/A,N/A,N/A
+60,Rodney Hood,FG_MISS,None,6:17,2,Cavaliers,Rockets,43 - 45,1,26,3,Jumper
+61,Larry Nance,OFFENSIVE_REBOUND,None,6:13,2,Cavaliers,Rockets,43 - 45,1,N/A,N/A,N/A
+62,Cedi Osman,FG_MISS,None,6:11,2,Cavaliers,Rockets,43 - 45,1,25,3,Jumper
+63,Clint Capela,DEFENSIVE_REBOUND,None,6:07,2,Rockets,Cavaliers,43 - 45,0,N/A,N/A,N/A
+64,Eric Gordon,FG_MISS,None,5:59,2,Rockets,Cavaliers,43 - 45,0, ,2,Jumper
+65,Larry Nance,DEFENSIVE_REBOUND,None,5:55,2,Cavaliers,Rockets,43 - 45,1,N/A,N/A,N/A
+66,Larry Nance,FG_MISS,None,5:51,2,Cavaliers,Rockets,43 - 45,1, ,2,Jumper
+67,Clint Capela,DEFENSIVE_REBOUND,None,5:48,2,Rockets,Cavaliers,43 - 45,0,N/A,N/A,N/A
+68,Gerald Green,FG_MISS,None,5:43,2,Rockets,Cavaliers,43 - 45,0,25,3,Jumper
+69,Larry Nance,DEFENSIVE_REBOUND,None,5:39,2,Cavaliers,Rockets,43 - 45,1,N/A,N/A,N/A
+70,Larry Nance,FG_ASSISTED,Andrew Harrison,5:28,2,Cavaliers,Rockets,43 - 48,1,25,3,Jumper
+71,Eric Gordon,FG_MISS,None,5:17,2,Rockets,Cavaliers,43 - 48,0,26,3,Jumper
+72,Cedi Osman,DEFENSIVE_REBOUND,None,5:15,2,Cavaliers,Rockets,43 - 48,1,N/A,N/A,N/A
+73,Rodney Hood's,FG_MISS,Clint Capela,5:09,2,Rockets,Cavaliers,43 - 48,1,0,2,Layup
+74,Gerald Green,DEFENSIVE_REBOUND,None,5:02,2,Rockets,Cavaliers,43 - 48,0,N/A,N/A,N/A
+75,James Harden,FG_MISS,Larry Nance,4:55,2,Cavaliers,Rockets,43 - 48,0,0,2,Layup
+76,Clint Capela,OFFENSIVE_REBOUND,None,4:54,2,Rockets,Cavaliers,43 - 48,0,N/A,N/A,N/A
+77,Larry Nance,FOUL_ON_FLOOR,None,4:54,2,Cavaliers,Rockets,43 - 48,1,N/A,N/A,N/A
+78,Clint Capela,FT,None,4:54,2,Rockets,Cavaliers,44 - 48,0,N/A,1,N/A
+79,Collin Sexton,SUBSTITUTION,Nance Larry,4:54,2,Cavaliers,Rockets,44 - 48,1,N/A,N/A,N/A
+80,Tristan Thompson,SUBSTITUTION,Harrison Andrew,4:54,2,Cavaliers,Rockets,44 - 48,1,N/A,N/A,N/A
+81,James Ennis,SUBSTITUTION,Green Gerald,4:54,2,Rockets,Cavaliers,44 - 48,0,N/A,N/A,N/A
+82,Clint Capela,FT,None,4:54,2,Rockets,Cavaliers,45 - 48,0,N/A,1,N/A
+83,Collin Sexton,FG_UNASSISTED,None,4:31,2,Cavaliers,Rockets,45 - 50,1, ,2,Jumper
+84,Clint Capela,FG_ASSISTED,James Harden,4:13,2,Rockets,Cavaliers,47 - 50,0,0,2,Dunk
+85,Tristan Thompson,FG_MISS,None,3:46,2,Cavaliers,Rockets,47 - 50,1,6,2,Jumper
+86,David Nwaba,OFFENSIVE_REBOUND,None,3:44,2,Cavaliers,Rockets,47 - 50,1,N/A,N/A,N/A
+87,David Nwaba,FG_MISS,None,3:44,2,Cavaliers,Rockets,47 - 50,1, ,2,Jumper
+88,Tristan Thompson,OFFENSIVE_REBOUND,None,3:44,2,Cavaliers,Rockets,47 - 50,1,N/A,N/A,N/A
+89,Clint Capela,FOUL_ON_FLOOR,None,3:44,2,Rockets,Cavaliers,47 - 50,0,N/A,N/A,N/A
+90,Tristan Thompson,FT_MISS,None,3:44,2,Cavaliers,Rockets,47 - 50,1,N/A,1,N/A
+91,Team,OFFENSIVE_REBOUND,None,3:44,2,Cavaliers,Rockets,47 - 50,1,N/A,N/A,N/A
+92,Larry Nance,SUBSTITUTION,Nwaba David,3:44,2,Cavaliers,Rockets,47 - 50,1,N/A,N/A,N/A
+93,Tristan Thompson,FT,None,3:44,2,Cavaliers,Rockets,47 - 51,1,N/A,1,N/A
+94,James Ennis,FG_MISS,None,3:24,2,Rockets,Cavaliers,47 - 51,0,26,3,Jumper
+95,Tristan Thompson,DEFENSIVE_REBOUND,None,3:21,2,Cavaliers,Rockets,47 - 51,1,N/A,N/A,N/A
+96,Cedi Osman,FG_MISS,None,3:13,2,Cavaliers,Rockets,47 - 51,1,24,3,Jumper
+97,James Harden,DEFENSIVE_REBOUND,None,3:09,2,Rockets,Cavaliers,47 - 51,0,N/A,N/A,N/A
+98,James Harden,TURNOVER,Tristan Thompson,3:07,2,Rockets,Cavaliers,47 - 51,0,N/A,N/A,N/A
+99,Collin Sexton,FG_ASSISTED,Cedi Osman,3:03,2,Cavaliers,Rockets,47 - 53,1,0,2,Dunk
+100,PJ Tucker,FG_MISS,None,2:44,2,Rockets,Cavaliers,47 - 53,0,25,3,Jumper
+101,Cedi Osman,DEFENSIVE_REBOUND,None,2:41,2,Cavaliers,Rockets,47 - 53,1,N/A,N/A,N/A
+102,Rodney Hood,FG_ASSISTED,Cedi Osman,2:35,2,Cavaliers,Rockets,47 - 56,1,28,2,Jumper
+103,James Harden,FG_UNASSISTED,None,2:12,2,Rockets,Cavaliers,49 - 56,0,0,2,Layup
+104,Larry Nance,FOUL_ON_FLOOR,None,2:12,2,Cavaliers,Rockets,49 - 56,1,N/A,N/A,N/A
+105,David Nwaba,SUBSTITUTION,Nance Larry,2:12,2,Cavaliers,Rockets,49 - 56,1,N/A,N/A,N/A
+106,James Harden,FT,None,2:12,2,Rockets,Cavaliers,50 - 56,0,N/A,1,N/A
+107,Collin Sexton,FG_UNASSISTED,None,2:05,2,Cavaliers,Rockets,50 - 59,1,25,3,Jumper
+108,James Harden,FG_UNASSISTED,None,1:42,2,Rockets,Cavaliers,53 - 59,0,26,2,Jumper
+109,Rodney Hood,FG_UNASSISTED,None,1:21,2,Cavaliers,Rockets,53 - 61,1,0,2,Layup
+110,James Ennis,FG_ASSISTED,James Harden,54.6,2,Rockets,Cavaliers,56 - 61,0,24,3,Jumper
+111,Collin Sexton,FG_UNASSISTED,None,36.8,2,Cavaliers,Rockets,56 - 63,1,21,2,Jumper
+112,James Harden,FG_MISS,None,27.6,2,Rockets,Cavaliers,56 - 63,0,26,2,Jumper
+113,Tristan Thompson,DEFENSIVE_REBOUND,None,23.0,2,Cavaliers,Rockets,56 - 63,1,N/A,N/A,N/A
+114,Tristan Thompson,TURNOVER,nnis III,20.7,2,Cavaliers,Rockets,56 - 63,1,N/A,N/A,N/A
+115,Clint Capela,FG_ASSISTED,nnis III,16.8,2,Rockets,Cavaliers,58 - 63,0,0,2,Layup
+116,Collin Sexton,TURNOVER,Eric Gordon,1.0,2,Cavaliers,Rockets,58 - 63,1,N/A,N/A,N/A
+117,End of,Unknown,None,0.0,2,Cavaliers,Rockets,58 - 63,1,N/A,N/A,N/A
+0,Tristan Thompson,FG_UNASSISTED,None,11:39,3,Cavaliers,Rockets,58 - 65,1,7,2,Jumper
+1,PJ Tucker,FG_MISS,None,11:22,3,Rockets,Cavaliers,58 - 65,0,23,3,Jumper
+2,Clint Capela,OFFENSIVE_REBOUND,None,11:19,3,Rockets,Cavaliers,58 - 65,0,N/A,N/A,N/A
+3,Eric Gordon,FG_ASSISTED,Clint Capela,11:17,3,Rockets,Cavaliers,60 - 65,0,0,2,Layup
+4,Collin Sexton,FOUL_ON_FLOOR,None,11:17,3,Cavaliers,Rockets,60 - 65,1,N/A,N/A,N/A
+5,Eric Gordon,FT,None,11:17,3,Rockets,Cavaliers,61 - 65,0,N/A,1,N/A
+6,David Nwaba,FG_UNASSISTED,None,10:58,3,Cavaliers,Rockets,61 - 67,1, ,2,Jumper
+7,Eric Gordon,FG_ASSISTED,James Harden,10:51,3,Rockets,Cavaliers,64 - 67,0,26,3,Jumper
+8,Tristan Thompson,FG_UNASSISTED,None,10:31,3,Cavaliers,Rockets,64 - 69,1,0,2,Dunk
+9,James Harden,TURNOVER,Cedi Osman,10:13,3,Rockets,Cavaliers,64 - 69,0,N/A,N/A,N/A
+10,Tristan Thompson,FG_ASSISTED,Collin Sexton,10:05,3,Cavaliers,Rockets,64 - 71,1,4,2,Jumper
+11,Eric Gordon,FG_MISS,None,9:55,3,Rockets,Cavaliers,64 - 71,0,26,2,Jumper
+12,Collin Sexton,DEFENSIVE_REBOUND,None,9:52,3,Cavaliers,Rockets,64 - 71,1,N/A,N/A,N/A
+13,Collin Sexton,FG_MISS,None,9:47,3,Cavaliers,Rockets,64 - 71,1,27,3,Jumper
+14,James Harden,DEFENSIVE_REBOUND,None,9:43,3,Rockets,Cavaliers,64 - 71,0,N/A,N/A,N/A
+15,James Ennis,FG_MISS,None,9:25,3,Rockets,Cavaliers,64 - 71,0,0,2,Layup
+16,Tristan Thompson,DEFENSIVE_REBOUND,None,9:22,3,Cavaliers,Rockets,64 - 71,1,N/A,N/A,N/A
+17,Rodney Hood,TURNOVER,None,9:20,3,Cavaliers,Rockets,64 - 71,1,N/A,N/A,N/A
+18,PJ Tucker,FG_MISS,None,8:56,3,Rockets,Cavaliers,64 - 71,0,24,3,Jumper
+19,Cedi Osman,DEFENSIVE_REBOUND,None,8:52,3,Cavaliers,Rockets,64 - 71,1,N/A,N/A,N/A
+20,David Nwaba,FG_MISS,None,8:31,3,Cavaliers,Rockets,64 - 71,1,25,3,Jumper
+21,Tristan Thompson,OFFENSIVE_REBOUND,None,8:29,3,Cavaliers,Rockets,64 - 71,1,N/A,N/A,N/A
+22,David Nwaba,FG_ASSISTED,Rodney Hood,8:24,3,Cavaliers,Rockets,64 - 73,1,0,2,Dunk
+23,James Harden,FOUL_ON_FLOOR,None,7:59,3,Rockets,Cavaliers,64 - 73,0,N/A,N/A,N/A
+24,James Harden,TURNOVER,None,7:59,3,Rockets,Cavaliers,64 - 73,0,N/A,N/A,N/A
+25,shot clock,TURNOVER,None,7:35,3,Cavaliers,Rockets,64 - 73,1,N/A,N/A,N/A
+26,Cedi Osman,FOUL_ON_FLOOR,None,7:23,3,Cavaliers,Rockets,64 - 73,1,N/A,N/A,N/A
+27,Eric Gordon,FT_MISS,None,7:23,3,Rockets,Cavaliers,64 - 73,0,N/A,1,N/A
+28,Team,OFFENSIVE_REBOUND,None,7:23,3,Rockets,Cavaliers,64 - 73,0,N/A,N/A,N/A
+29,Eric Gordon,FT,None,7:23,3,Rockets,Cavaliers,65 - 73,0,N/A,1,N/A
+30,Cedi Osman,FG_MISS,None,7:06,3,Cavaliers,Rockets,65 - 73,1,7,2,Jumper
+31,PJ Tucker,DEFENSIVE_REBOUND,None,7:04,3,Rockets,Cavaliers,65 - 73,0,N/A,N/A,N/A
+32,Eric Gordon,FG_UNASSISTED,None,6:58,3,Rockets,Cavaliers,68 - 73,0,26,2,Jumper
+33,Cedi Osman,FG_ASSISTED,Collin Sexton,6:32,3,Cavaliers,Rockets,68 - 75,1,0,2,Layup
+34,Eric Gordon,FG_ASSISTED,James Harden,6:24,3,Rockets,Cavaliers,71 - 75,0,27,3,Jumper
+35,Collin Sexton,FG_UNASSISTED,None,6:03,3,Cavaliers,Rockets,71 - 77,1,22,2,Jumper
+36,James Harden,FG_MISS,None,5:50,3,Rockets,Cavaliers,71 - 77,0,0,2,Layup
+37,PJ Tucker,OFFENSIVE_REBOUND,None,5:48,3,Rockets,Cavaliers,71 - 77,0,N/A,N/A,N/A
+38,James Ennis,FG_MISS,None,5:45,3,Rockets,Cavaliers,71 - 77,0,25,3,Jumper
+39,Team,DEFENSIVE_REBOUND,None,5:45,3,Cavaliers,Rockets,71 - 77,1,N/A,N/A,N/A
+40,PJ Tucker,FOUL_ON_FLOOR,None,5:45,3,Rockets,Cavaliers,71 - 77,0,N/A,N/A,N/A
+41,Team,Unknown,None,5:45,3,Cavaliers,Rockets,71 - 77,1,N/A,N/A,N/A
+42,Gary Clark,SUBSTITUTION,Tucker PJ,5:45,3,Rockets,Cavaliers,71 - 77,0,N/A,N/A,N/A
+43,Rodney Hood,FG_MISS,None,5:25,3,Cavaliers,Rockets,71 - 77,1,27,3,Jumper
+44,Team,DEFENSIVE_REBOUND,None,5:23,3,Rockets,Cavaliers,71 - 77,0,N/A,N/A,N/A
+45,Tristan Thompson,FOUL_ON_FLOOR,None,5:07,3,Cavaliers,Rockets,71 - 77,1,N/A,N/A,N/A
+46,James Harden,Unknown,None,5:07,3,Rockets,Cavaliers,71 - 77,0,N/A,N/A,N/A
+47,James Harden,Unknown,None,5:07,3,Rockets,Cavaliers,71 - 77,0,N/A,N/A,N/A
+48,James Harden,FT_MISS,None,5:07,3,Rockets,Cavaliers,71 - 77,0,N/A,1,N/A
+49,Team,OFFENSIVE_REBOUND,None,5:07,3,Rockets,Cavaliers,71 - 77,0,N/A,N/A,N/A
+50,James Harden,FT_MISS,None,5:07,3,Rockets,Cavaliers,71 - 77,0,N/A,1,N/A
+51,Team,DEFENSIVE_REBOUND,None,5:07,3,Cavaliers,Rockets,71 - 77,1,N/A,N/A,N/A
+52,Cedi Osman,FG_MISS,None,4:47,3,Cavaliers,Rockets,71 - 77,1,0,2,Layup
+53,Tristan Thompson,OFFENSIVE_REBOUND,None,4:40,3,Cavaliers,Rockets,71 - 77,1,N/A,N/A,N/A
+54,Tristan Thompson,FG_UNASSISTED,None,4:40,3,Cavaliers,Rockets,71 - 79,1, ,2,Jumper
+55,James Harden,FG_MISS,None,4:30,3,Rockets,Cavaliers,71 - 79,0,0,2,Layup
+56,James Harden,OFFENSIVE_REBOUND,None,4:28,3,Rockets,Cavaliers,71 - 79,0,N/A,N/A,N/A
+57,James Harden,FG_MISS,None,4:26,3,Rockets,Cavaliers,71 - 79,0, ,2,Jumper
+58,Tristan Thompson,DEFENSIVE_REBOUND,None,4:24,3,Cavaliers,Rockets,71 - 79,1,N/A,N/A,N/A
+59,Collin Sexton,FG_UNASSISTED,None,4:10,3,Cavaliers,Rockets,71 - 81,1,0,2,Layup
+60,Clint Capela,Unknown,None,4:10,3,Rockets,Cavaliers,71 - 81,0,N/A,N/A,N/A
+61,Tristan Thompson,FOUL_ON_FLOOR,None,3:56,3,Cavaliers,Rockets,71 - 81,1,N/A,N/A,N/A
+62,Jordan Clarkson,SUBSTITUTION,Hood Rodney,3:56,3,Cavaliers,Rockets,71 - 81,1,N/A,N/A,N/A
+63,Gerald Green,SUBSTITUTION,Gordon Eric,3:56,3,Rockets,Cavaliers,71 - 81,0,N/A,N/A,N/A
+64,PJ Tucker,SUBSTITUTION,Capela Clint,3:56,3,Rockets,Cavaliers,71 - 81,0,N/A,N/A,N/A
+65,James Harden,FG_MISS,None,3:43,3,Rockets,Cavaliers,71 - 81,0,26,3,Jumper
+66,Collin Sexton,DEFENSIVE_REBOUND,None,3:41,3,Cavaliers,Rockets,71 - 81,1,N/A,N/A,N/A
+67,Collin Sexton,FG_UNASSISTED,None,3:34,3,Cavaliers,Rockets,71 - 83,1,23,2,Jumper
+68,James Harden,TURNOVER,Tristan Thompson,3:25,3,Rockets,Cavaliers,71 - 84,0,N/A,N/A,N/A
+69,Collin Sexton,FG_MISS,None,3:21,3,Cavaliers,Rockets,71 - 84,1,19,2,Jumper
+70,Team,OFFENSIVE_REBOUND,None,3:21,3,Cavaliers,Rockets,71 - 84,1,N/A,N/A,N/A
+71,Collin Sexton,FG_UNASSISTED,None,3:12,3,Cavaliers,Rockets,71 - 85,1,0,2,Layup
+72,PJ Tucker,FG_ASSISTED,Gary Clark,2:58,3,Rockets,Cavaliers,74 - 85,0,26,3,Jumper
+73,Collin Sexton,FG_UNASSISTED,None,2:44,3,Cavaliers,Rockets,74 - 87,1,20,2,Jumper
+74,Team,Unknown,None,2:43,3,Rockets,Cavaliers,74 - 87,0,N/A,N/A,N/A
+75,PJ Tucker,FG_ASSISTED,James Harden,2:24,3,Rockets,Cavaliers,76 - 87,0,0,2,Layup
+76,Cedi Osman,FG_MISS,None,2:00,3,Cavaliers,Rockets,76 - 87,1,27,3,Jumper
+77,Jordan Clarkson,OFFENSIVE_REBOUND,None,1:57,3,Cavaliers,Rockets,76 - 87,1,N/A,N/A,N/A
+78,Larry Nance,SUBSTITUTION,Nwaba David,1:49,3,Cavaliers,Rockets,76 - 87,1,N/A,N/A,N/A
+79,PJ Tucker,FOUL_ON_FLOOR,None,1:45,3,Rockets,Cavaliers,76 - 87,0,N/A,N/A,N/A
+80,Cedi Osman,FT,None,1:45,3,Cavaliers,Rockets,76 - 88,1,N/A,1,N/A
+81,Cedi Osman,FT,None,1:45,3,Cavaliers,Rockets,76 - 89,1,N/A,1,N/A
+82,Cedi Osman,FT,None,1:45,3,Cavaliers,Rockets,76 - 90,1,N/A,1,N/A
+83,James Harden,FG_UNASSISTED,None,1:29,3,Rockets,Cavaliers,78 - 90,0,0,2,Dunk
+84,James Ennis,FOUL_ON_FLOOR,None,1:12,3,Rockets,Cavaliers,78 - 90,0,N/A,N/A,N/A
+85,Larry Nance,FT,None,1:12,3,Cavaliers,Rockets,78 - 91,1,N/A,1,N/A
+86,Kyle Korver,SUBSTITUTION,Osman Cedi,1:12,3,Cavaliers,Rockets,78 - 91,1,N/A,N/A,N/A
+87,Larry Nance,FT_MISS,None,1:12,3,Cavaliers,Rockets,78 - 91,1,N/A,1,N/A
+88,PJ Tucker,DEFENSIVE_REBOUND,None,1:09,3,Rockets,Cavaliers,78 - 91,0,N/A,N/A,N/A
+89,James Harden,FG_UNASSISTED,None,1:04,3,Rockets,Cavaliers,80 - 91,0,0,2,Layup
+90,Larry Nance,FOUL_ON_FLOOR,None,1:04,3,Cavaliers,Rockets,80 - 91,1,N/A,N/A,N/A
+91,James Harden,FT,None,1:04,3,Rockets,Cavaliers,81 - 91,0,N/A,1,N/A
+92,Collin Sexton,FG_MISS,None,56.2,3,Cavaliers,Rockets,81 - 91,1,0,2,Layup
+93,Tristan Thompson,OFFENSIVE_REBOUND,None,55.0,3,Cavaliers,Rockets,81 - 91,1,N/A,N/A,N/A
+94,Tristan Thompson,FG_MISS,None,55.0,3,Cavaliers,Rockets,81 - 91,1,3,2,Jumper
+95,James Ennis,FOUL_ON_FLOOR,None,54.0,3,Rockets,Cavaliers,81 - 91,0,N/A,N/A,N/A
+96,Tristan Thompson,FT_MISS,None,54.0,3,Cavaliers,Rockets,81 - 91,1,N/A,1,N/A
+97,Team,OFFENSIVE_REBOUND,None,54.0,3,Cavaliers,Rockets,81 - 91,1,N/A,N/A,N/A
+98,Tristan Thompson,FT_MISS,None,54.0,3,Cavaliers,Rockets,81 - 91,1,N/A,1,N/A
+99,Team,OFFENSIVE_REBOUND,None,54.0,3,Cavaliers,Rockets,81 - 91,1,N/A,N/A,N/A
+100,Gary Clark,DEFENSIVE_REBOUND,None,51.3,3,Rockets,Cavaliers,81 - 91,0,N/A,N/A,N/A
+101,Gary Clark,FG_ASSISTED,James Harden,44.9,3,Rockets,Cavaliers,83 - 91,0,0,2,Layup
+102,Collin Sexton,TURNOVER,None,30.5,3,Cavaliers,Rockets,83 - 91,1,N/A,N/A,N/A
+103,James Harden,TURNOVER,Larry Nance,25.3,3,Rockets,Cavaliers,83 - 91,0,N/A,N/A,N/A
+104,Jordan Clarkson,FG_MISS,None,20.1,3,Cavaliers,Rockets,83 - 91,1,0,2,Layup
+105,Tristan Thompson,OFFENSIVE_REBOUND,None,13.8,3,Cavaliers,Rockets,83 - 91,1,N/A,N/A,N/A
+106,Tristan Thompson,FG_MISS,None,13.8,3,Cavaliers,Rockets,83 - 91,1, ,2,Jumper
+107,Larry Nance,OFFENSIVE_REBOUND,None,12.3,3,Cavaliers,Rockets,83 - 91,1,N/A,N/A,N/A
+108,Gerald Green,FOUL_ON_FLOOR,None,4.0,3,Rockets,Cavaliers,83 - 91,0,N/A,N/A,N/A
+109,Jordan Clarkson,FT,None,4.0,3,Cavaliers,Rockets,83 - 92,1,N/A,1,N/A
+110,David Nwaba,SUBSTITUTION,Nance Larry,4.0,3,Cavaliers,Rockets,83 - 92,1,N/A,N/A,N/A
+111,Jordan Clarkson,FT,None,4.0,3,Cavaliers,Rockets,83 - 93,1,N/A,1,N/A
+112,James Harden,FG_MISS,None,0.0,3,Rockets,Cavaliers,83 - 93,0,0,2,Layup
+113,Team,OFFENSIVE_REBOUND,None,0.0,3,Rockets,Cavaliers,83 - 93,0,N/A,N/A,N/A
+114,End of,Unknown,None,0.0,3,Cavaliers,Rockets,83 - 93,1,N/A,N/A,N/A
+0,Larry Nance,SUBSTITUTION,Thompson Tristan,12:00,4,Cavaliers,Rockets,83 - 93,1,N/A,N/A,N/A
+1,Clint Capela,SUBSTITUTION,Clark Gary,12:00,4,Rockets,Cavaliers,83 - 93,0,N/A,N/A,N/A
+2,Eric Gordon,SUBSTITUTION,III Ennis,12:00,4,Rockets,Cavaliers,83 - 93,0,N/A,N/A,N/A
+3,Collin Sexton,FOUL_ON_FLOOR,None,11:54,4,Cavaliers,Rockets,83 - 93,1,N/A,N/A,N/A
+4,Clint Capela,FG_ASSISTED,James Harden,11:46,4,Rockets,Cavaliers,85 - 93,0,0,2,Dunk
+5,Collin Sexton,FG_UNASSISTED,None,11:34,4,Cavaliers,Rockets,85 - 95,1,22,2,Jumper
+6,Eric Gordon,FG_ASSISTED,James Harden,11:16,4,Rockets,Cavaliers,88 - 95,0,24,3,Jumper
+7,David Nwaba,FG_MISS,None,10:52,4,Cavaliers,Rockets,88 - 95,1,24,3,Jumper
+8,James Harden,DEFENSIVE_REBOUND,None,10:49,4,Rockets,Cavaliers,88 - 95,0,N/A,N/A,N/A
+9,PJ Tucker,FG_MISS,None,10:39,4,Rockets,Cavaliers,88 - 95,0,6,2,Jumper
+10,Kyle Korver,DEFENSIVE_REBOUND,None,10:33,4,Cavaliers,Rockets,88 - 95,1,N/A,N/A,N/A
+11,Jordan Clarkson's,FG_MISS,Clint Capela,10:15,4,Rockets,Cavaliers,88 - 95,1,0,2,Layup
+12,Team,OFFENSIVE_REBOUND,None,10:15,4,Cavaliers,Rockets,88 - 95,1,N/A,N/A,N/A
+13,Tristan Thompson,SUBSTITUTION,Nance Larry,10:15,4,Cavaliers,Rockets,88 - 95,1,N/A,N/A,N/A
+14,Jordan Clarkson,FG_MISS,None,10:13,4,Cavaliers,Rockets,88 - 95,1,0,2,Layup
+15,Jordan Clarkson,OFFENSIVE_REBOUND,None,10:11,4,Cavaliers,Rockets,88 - 95,1,N/A,N/A,N/A
+16,Jordan Clarkson,FG_UNASSISTED,None,10:09,4,Cavaliers,Rockets,88 - 97,1, ,2,Jumper
+17,James Harden,FG_UNASSISTED,None,9:55,4,Rockets,Cavaliers,91 - 97,0,26,3,Jumper
+18,David Nwaba,FOUL_ON_FLOOR,None,9:55,4,Cavaliers,Rockets,88 - 97,1,N/A,N/A,N/A
+19,James Harden,FT,None,9:55,4,Rockets,Cavaliers,89 - 97,0,N/A,1,N/A
+20,Gerald Green,FOUL_ON_FLOOR,None,9:48,4,Rockets,Cavaliers,92 - 97,0,N/A,N/A,N/A
+21,Jordan Clarkson,FG_UNASSISTED,None,9:35,4,Cavaliers,Rockets,92 - 99,1,16,2,Jumper
+22,Eric Gordon,FG_MISS,None,9:27,4,Rockets,Cavaliers,92 - 99,0,31,3,Jumper
+23,Kyle Korver,DEFENSIVE_REBOUND,None,9:24,4,Cavaliers,Rockets,92 - 99,1,N/A,N/A,N/A
+24,Jordan Clarkson,FG_UNASSISTED,None,9:11,4,Cavaliers,Rockets,92 - 101,1,7,2,Jumper
+25,Gerald Green,FG_MISS,None,8:52,4,Rockets,Cavaliers,92 - 101,0,26,3,Jumper
+26,Tristan Thompson,DEFENSIVE_REBOUND,None,8:48,4,Cavaliers,Rockets,92 - 101,1,N/A,N/A,N/A
+27,Gerald Green,FOUL_ON_FLOOR,None,8:45,4,Rockets,Cavaliers,92 - 101,0,N/A,N/A,N/A
+28,David Nwaba,FT,None,8:45,4,Cavaliers,Rockets,92 - 102,1,N/A,1,N/A
+29,Andrew Harrison,SUBSTITUTION,Sexton Collin,8:45,4,Cavaliers,Rockets,92 - 102,1,N/A,N/A,N/A
+30,David Nwaba,FT_MISS,None,8:45,4,Cavaliers,Rockets,92 - 102,1,N/A,1,N/A
+31,PJ Tucker,DEFENSIVE_REBOUND,None,8:41,4,Rockets,Cavaliers,92 - 102,0,N/A,N/A,N/A
+32,James Harden,FG_UNASSISTED,None,8:35,4,Rockets,Cavaliers,94 - 102,0,1,2,Jumper
+33,David Nwaba,FG_MISS,None,8:12,4,Cavaliers,Rockets,94 - 102,1,24,3,Jumper
+34,Team,OFFENSIVE_REBOUND,None,8:10,4,Cavaliers,Rockets,94 - 102,1,N/A,N/A,N/A
+35,Gary Clark,SUBSTITUTION,Green Gerald,8:10,4,Rockets,Cavaliers,94 - 102,0,N/A,N/A,N/A
+36,Jordan Clarkson,FG_MISS,None,8:00,4,Cavaliers,Rockets,94 - 102,1,27,3,Jumper
+37,Eric Gordon,DEFENSIVE_REBOUND,None,7:54,4,Rockets,Cavaliers,94 - 102,0,N/A,N/A,N/A
+38,Clint Capela,TURNOVER,Jordan Clarkson,7:50,4,Rockets,Cavaliers,94 - 102,0,N/A,N/A,N/A
+39,Andrew Harrison,FG_UNASSISTED,None,7:32,4,Cavaliers,Rockets,94 - 104,1,0,2,Layup
+40,Eric Gordon,FG_MISS,None,7:15,4,Rockets,Cavaliers,94 - 104,0,0,2,Layup
+41,David Nwaba,DEFENSIVE_REBOUND,None,7:12,4,Cavaliers,Rockets,94 - 104,1,N/A,N/A,N/A
+42,David Nwaba,FG_MISS,None,7:06,4,Cavaliers,Rockets,94 - 104,1,0,2,Layup
+43,Tristan Thompson,OFFENSIVE_REBOUND,None,7:02,4,Cavaliers,Rockets,94 - 104,1,N/A,N/A,N/A
+44,Jordan Clarkson,FG_MISS,None,7:02,4,Cavaliers,Rockets,94 - 104,1,1,2,Jumper
+45,Jordan Clarkson,OFFENSIVE_REBOUND,None,7:00,4,Cavaliers,Rockets,94 - 104,1,N/A,N/A,N/A
+46,Jordan Clarkson,FG_MISS,None,7:00,4,Cavaliers,Rockets,94 - 104,1,1,2,Jumper
+47,David Nwaba,OFFENSIVE_REBOUND,None,7:00,4,Cavaliers,Rockets,94 - 104,1,N/A,N/A,N/A
+48,David Nwaba,FG_UNASSISTED,None,6:58,4,Cavaliers,Rockets,94 - 106,1,0,2,Dunk
+49,David Nwaba,FOUL_ON_FLOOR,None,6:55,4,Cavaliers,Rockets,94 - 106,1,N/A,N/A,N/A
+50,Team,Unknown,None,6:55,4,Cavaliers,Rockets,94 - 106,1,N/A,N/A,N/A
+51,James Harden,FG_MISS,None,6:42,4,Rockets,Cavaliers,94 - 106,0,20,2,Jumper
+52,Clint Capela,OFFENSIVE_REBOUND,None,6:39,4,Rockets,Cavaliers,94 - 106,0,N/A,N/A,N/A
+53,PJ Tucker,FG_ASSISTED,James Harden,6:26,4,Rockets,Cavaliers,96 - 106,0,0,2,Layup
+54,Andrew Harrison,FG_MISS,None,5:59,4,Cavaliers,Rockets,96 - 106,1,22,2,Jumper
+55,PJ Tucker,DEFENSIVE_REBOUND,None,5:57,4,Rockets,Cavaliers,96 - 106,0,N/A,N/A,N/A
+56,PJ Tucker,TURNOVER,Tristan Thompson,5:44,4,Rockets,Cavaliers,96 - 106,0,N/A,N/A,N/A
+57,Andrew Harrison,TURNOVER,None,5:43,4,Cavaliers,Rockets,96 - 106,1,N/A,N/A,N/A
+58,Eric Gordon,FG_ASSISTED,James Harden,5:38,4,Rockets,Cavaliers,99 - 106,0,30,3,Jumper
+59,Team,Unknown,None,5:37,4,Cavaliers,Rockets,99 - 106,1,N/A,N/A,N/A
+60,Rodney Hood,SUBSTITUTION,Korver Kyle,5:37,4,Cavaliers,Rockets,99 - 106,1,N/A,N/A,N/A
+61,Collin Sexton,SUBSTITUTION,Harrison Andrew,5:37,4,Cavaliers,Rockets,99 - 106,1,N/A,N/A,N/A
+62,David Nwaba,FG_MISS,None,5:16,4,Cavaliers,Rockets,99 - 106,1,0,2,Layup
+63,Team,DEFENSIVE_REBOUND,None,5:16,4,Rockets,Cavaliers,99 - 106,0,N/A,N/A,N/A
+64,Tristan Thompson,FOUL_ON_FLOOR,None,5:16,4,Cavaliers,Rockets,99 - 106,1,N/A,N/A,N/A
+65,James Harden,FG_MISS,None,4:52,4,Rockets,Cavaliers,99 - 106,0,25,2,Jumper
+66,Team,OFFENSIVE_REBOUND,None,4:52,4,Rockets,Cavaliers,99 - 106,0,N/A,N/A,N/A
+67,David Nwaba,FOUL_ON_FLOOR,None,4:52,4,Cavaliers,Rockets,99 - 106,1,N/A,N/A,N/A
+68,James Posey,FOUL_TECHNICAL,None,4:52,4,Cavaliers,Rockets,99 - 106,1,N/A,N/A,N/A
+69,James Harden,FT,None,4:52,4,Rockets,Cavaliers,100 - 106,0,N/A,1,N/A
+70,Clint Capela,FT,None,4:52,4,Rockets,Cavaliers,100 - 107,0,N/A,1,N/A
+71,Clint Capela,FT,None,4:52,4,Rockets,Cavaliers,101 - 107,0,N/A,1,N/A
+72,Jordan Clarkson,FG_UNASSISTED,None,4:37,4,Cavaliers,Rockets,102 - 108,1,17,2,Jumper
+73,James Harden,FG_MISS,None,4:18,4,Rockets,Cavaliers,102 - 108,0,26,2,Jumper
+74,Collin Sexton,DEFENSIVE_REBOUND,None,4:15,4,Cavaliers,Rockets,102 - 108,1,N/A,N/A,N/A
+75,Collin Sexton,FG_UNASSISTED,None,4:08,4,Cavaliers,Rockets,102 - 110,1,21,2,Jumper
+76,Clint Capela,FG_ASSISTED,James Harden,3:50,4,Rockets,Cavaliers,104 - 110,0,0,2,Dunk
+77,Jordan Clarkson,FG_UNASSISTED,None,3:23,4,Cavaliers,Rockets,104 - 112,1,12,2,Jumper
+78,Team,Unknown,None,3:21,4,Rockets,Cavaliers,104 - 112,0,N/A,N/A,N/A
+79,James Ennis,SUBSTITUTION,Clark Gary,3:21,4,Rockets,Cavaliers,104 - 112,0,N/A,N/A,N/A
+80,Eric Gordon,FG_MISS,None,3:10,4,Rockets,Cavaliers,104 - 112,0,29,3,Jumper
+81,Tristan Thompson,DEFENSIVE_REBOUND,None,3:07,4,Cavaliers,Rockets,104 - 112,1,N/A,N/A,N/A
+82,Rodney Hood,FG_ASSISTED,Tristan Thompson,2:47,4,Cavaliers,Rockets,104 - 115,1,25,2,Jumper
+83,James Harden,FG_UNASSISTED,None,2:23,4,Rockets,Cavaliers,106 - 115,0,1,2,Jumper
+84,David Nwaba,FG_MISS,None,2:00,4,Cavaliers,Rockets,106 - 115,1,25,3,Jumper
+85,Eric Gordon,DEFENSIVE_REBOUND,None,1:57,4,Rockets,Cavaliers,106 - 115,0,N/A,N/A,N/A
+86,PJ Tucker,FOUL_ON_FLOOR,None,1:46,4,Rockets,Cavaliers,106 - 115,0,N/A,N/A,N/A
+87,PJ Tucker,TURNOVER,None,1:46,4,Rockets,Cavaliers,106 - 115,0,N/A,N/A,N/A
+88,Collin Sexton,FG_MISS,Clint Capela,1:23,4,Rockets,Cavaliers,106 - 115,1,0,2,Layup
+89,PJ Tucker,DEFENSIVE_REBOUND,None,1:20,4,Rockets,Cavaliers,106 - 115,0,N/A,N/A,N/A
+90,Eric Gordon,FG_MISS,None,1:18,4,Rockets,Cavaliers,106 - 115,0,27,3,Jumper
+91,Tristan Thompson,DEFENSIVE_REBOUND,None,1:16,4,Cavaliers,Rockets,106 - 115,1,N/A,N/A,N/A
+92,James Harden,FOUL_ON_FLOOR,None,58.4,4,Rockets,Cavaliers,106 - 115,0,N/A,N/A,N/A
+93,James Harden,FOUL_ON_FLOOR,None,58.4,4,Rockets,Cavaliers,106 - 115,0,N/A,N/A,N/A
+94,Jordan Clarkson,FT,None,58.4,4,Cavaliers,Rockets,106 - 116,1,N/A,1,N/A
+95,Jordan Clarkson,FT,None,58.4,4,Cavaliers,Rockets,106 - 117,1,N/A,1,N/A
+96,James Harden,FG_UNASSISTED,None,50.3,4,Rockets,Cavaliers,108 - 117,0,0,2,Layup
+97,Collin Sexton,FG_MISS,None,26.6,4,Cavaliers,Rockets,108 - 117,1,21,2,Jumper
+98,PJ Tucker,DEFENSIVE_REBOUND,None,24.4,4,Rockets,Cavaliers,108 - 117,0,N/A,N/A,N/A
+99,James Harden,FG_MISS,None,19.3,4,Rockets,Cavaliers,108 - 117,0,27,3,Jumper
+100,Collin Sexton,DEFENSIVE_REBOUND,None,19.3,4,Cavaliers,Rockets,108 - 117,1,N/A,N/A,N/A
+101,End of,Unknown,None,0.0,4,Cavaliers,Rockets,108 - 117,1,N/A,N/A,N/A
+102,End of,Unknown,None,0.0,4,Cavaliers,Rockets,108 - 117,1,N/A,N/A,N/A

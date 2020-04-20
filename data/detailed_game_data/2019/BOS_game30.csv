@@ -1,0 +1,504 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Brook Lopez,JUMP_BALL,None,12:00,1,Bucks,Celtics,0 - 0,0,N/A,N/A,N/A
+1,Malcolm Brogdon,FG_MISS,None,11:38,1,Bucks,Celtics,0 - 0,0,26,3,Jumper
+2,Kyrie Irving,DEFENSIVE_REBOUND,None,11:36,1,Celtics,Bucks,0 - 0,1,N/A,N/A,N/A
+3,Semi Ojeleye,FG_ASSISTED,Kyrie Irving,11:23,1,Celtics,Bucks,0 - 2,1,0,2,Layup
+4,Khris Middleton,FG_MISS,None,11:08,1,Bucks,Celtics,0 - 2,0,27,3,Jumper
+5,Jayson Tatum,DEFENSIVE_REBOUND,None,11:06,1,Celtics,Bucks,0 - 2,1,N/A,N/A,N/A
+6,Jayson Tatum,FG_UNASSISTED,None,10:53,1,Celtics,Bucks,0 - 4,1,14,3,Jumper
+7,Marcus Smart,FOUL_ON_FLOOR,None,10:44,1,Celtics,Bucks,0 - 4,1,N/A,N/A,N/A
+8,Giannis Antetokounmpo,FT_MISS,None,10:44,1,Bucks,Celtics,0 - 4,0,N/A,1,N/A
+9,Team,OFFENSIVE_REBOUND,None,10:44,1,Bucks,Celtics,0 - 4,0,N/A,N/A,N/A
+10,Giannis Antetokounmpo,FT,None,10:44,1,Bucks,Celtics,1 - 4,0,N/A,1,N/A
+11,Semi Ojeleye,TURNOVER,Eric Bledsoe,10:30,1,Celtics,Bucks,1 - 4,1,N/A,N/A,N/A
+12,Eric Bledsoe,FOUL_ON_FLOOR,None,10:28,1,Bucks,Celtics,1 - 4,0,N/A,N/A,N/A
+13,Eric Bledsoe,TURNOVER,None,10:28,1,Bucks,Celtics,1 - 4,0,N/A,N/A,N/A
+14,Kyrie Irving,FG_MISS,None,10:10,1,Celtics,Bucks,1 - 4,1,15,3,Jumper
+15,Brook Lopez,DEFENSIVE_REBOUND,None,10:08,1,Bucks,Celtics,1 - 4,0,N/A,N/A,N/A
+16,Brook Lopez,FG_MISS,None,9:57,1,Bucks,Celtics,1 - 4,0,27,3,Jumper
+17,Giannis Antetokounmpo,OFFENSIVE_REBOUND,None,9:55,1,Bucks,Celtics,1 - 4,0,N/A,N/A,N/A
+18,Brook Lopez,TURNOVER,None,9:48,1,Bucks,Celtics,1 - 4,0,N/A,N/A,N/A
+19,Brook Lopez,TURNOVER,None,9:48,1,Bucks,Celtics,1 - 4,0,N/A,N/A,N/A
+20,Semi Ojeleye,FG_ASSISTED,Marcus Smart,9:40,1,Celtics,Bucks,1 - 7,1,26,3,Jumper
+21,Giannis Antetokounmpo,TURNOVER,None,9:22,1,Bucks,Celtics,1 - 7,0,N/A,N/A,N/A
+22,Giannis Antetokounmpo,TURNOVER,None,9:22,1,Bucks,Celtics,1 - 7,0,N/A,N/A,N/A
+23,Jayson Tatum,FG_ASSISTED,Marcus Smart,9:14,1,Celtics,Bucks,1 - 10,1,27,3,Jumper
+24,Team,Unknown,None,9:13,1,Bucks,Celtics,1 - 10,0,N/A,N/A,N/A
+25,Giannis Antetokounmpo,FG_UNASSISTED,None,9:01,1,Bucks,Celtics,3 - 10,0,0,2,Dunk
+26,Jayson Tatum,FG_MISS,None,8:43,1,Celtics,Bucks,3 - 10,1,24,3,Jumper
+27,Eric Bledsoe,DEFENSIVE_REBOUND,None,8:42,1,Bucks,Celtics,3 - 10,0,N/A,N/A,N/A
+28,Khris Middleton,FG_ASSISTED,Malcolm Brogdon,8:33,1,Bucks,Celtics,5 - 10,0, ,3,Jumper
+29,Semi Ojeleye,FG_MISS,None,8:17,1,Celtics,Bucks,5 - 10,1,27,3,Jumper
+30,Khris Middleton,DEFENSIVE_REBOUND,None,8:15,1,Bucks,Celtics,5 - 10,0,N/A,N/A,N/A
+31,Khris Middleton,FG_UNASSISTED,None,8:07,1,Bucks,Celtics,7 - 10,0, ,3,Jumper
+32,Gordon Hayward,FG_MISS,None,7:51,1,Celtics,Bucks,7 - 10,1,24,3,Jumper
+33,Brook Lopez,DEFENSIVE_REBOUND,None,7:49,1,Bucks,Celtics,7 - 10,0,N/A,N/A,N/A
+34,Semi Ojeleye,FOUL_ON_FLOOR,None,7:36,1,Celtics,Bucks,7 - 10,1,N/A,N/A,N/A
+35,Malcolm Brogdon,FT,None,7:36,1,Bucks,Celtics,8 - 10,0,N/A,1,N/A
+36,Sterling Brown,SUBSTITUTION,Bledsoe Eric,7:36,1,Bucks,Celtics,8 - 10,0,N/A,N/A,N/A
+37,Malcolm Brogdon,FT,None,7:36,1,Bucks,Celtics,9 - 10,0,N/A,1,N/A
+38,Kyrie Irving,FG_MISS,None,7:16,1,Celtics,Bucks,9 - 10,1,17,3,Jumper
+39,Giannis Antetokounmpo,DEFENSIVE_REBOUND,None,7:14,1,Bucks,Celtics,9 - 10,0,N/A,N/A,N/A
+40,Brook Lopez,FG_ASSISTED,Giannis Antetokounmpo,7:08,1,Bucks,Celtics,12 - 10,0,24,3,Jumper
+41,Marcus Smart,FG_MISS,None,6:50,1,Celtics,Bucks,12 - 10,1,22,3,Jumper
+42,Khris Middleton,DEFENSIVE_REBOUND,None,6:49,1,Bucks,Celtics,12 - 10,0,N/A,N/A,N/A
+43,Khris Middleton,FG_UNASSISTED,None,6:45,1,Bucks,Celtics,15 - 10,0,27,3,Jumper
+44,Brook Lopez,FOUL_ON_FLOOR,None,6:30,1,Bucks,Celtics,15 - 10,0,N/A,N/A,N/A
+45,Eric Bledsoe,SUBSTITUTION,Lopez Brook,6:30,1,Bucks,Celtics,15 - 10,0,N/A,N/A,N/A
+46,D.J. Wilson,SUBSTITUTION,Brogdon Malcolm,6:30,1,Bucks,Celtics,15 - 10,0,N/A,N/A,N/A
+47,Jayson Tatum,FG_MISS,None,6:23,1,Celtics,Bucks,15 - 10,1,19,3,Jumper
+48,D.J. Wilson,DEFENSIVE_REBOUND,None,6:21,1,Bucks,Celtics,15 - 10,0,N/A,N/A,N/A
+49,Jayson Tatum,FOUL_ON_FLOOR,None,6:05,1,Celtics,Bucks,15 - 10,1,N/A,N/A,N/A
+50,Giannis Antetokounmpo,FT,None,6:05,1,Bucks,Celtics,16 - 10,0,N/A,1,N/A
+51,Daniel Theis,SUBSTITUTION,Tatum Jayson,6:05,1,Celtics,Bucks,16 - 10,1,N/A,N/A,N/A
+52,Jaylen Brown,SUBSTITUTION,Ojeleye Semi,6:05,1,Celtics,Bucks,16 - 10,1,N/A,N/A,N/A
+53,Tony Snell,SUBSTITUTION,Middleton Khris,6:05,1,Bucks,Celtics,16 - 10,0,N/A,N/A,N/A
+54,Giannis Antetokounmpo,FT,None,6:05,1,Bucks,Celtics,17 - 10,0,N/A,1,N/A
+55,Giannis Antetokounmpo,FOUL_ON_FLOOR,None,5:56,1,Bucks,Celtics,17 - 10,0,N/A,N/A,N/A
+56,Khris Middleton,SUBSTITUTION,Antetokounmpo Giannis,5:56,1,Bucks,Celtics,17 - 10,0,N/A,N/A,N/A
+57,Kyrie Irving,FG_MISS,None,5:49,1,Celtics,Bucks,17 - 10,1,15,3,Jumper
+58,Sterling Brown,DEFENSIVE_REBOUND,None,5:46,1,Bucks,Celtics,17 - 10,0,N/A,N/A,N/A
+59,Eric Bledsoe,TURNOVER,Daniel Theis,5:41,1,Bucks,Celtics,17 - 10,0,N/A,N/A,N/A
+60,D.J. Wilson,FOUL_ON_FLOOR,None,5:37,1,Bucks,Celtics,17 - 10,0,N/A,N/A,N/A
+61,Jaylen Brown,FT,None,5:37,1,Celtics,Bucks,17 - 11,1,N/A,1,N/A
+62,Terry Rozier,SUBSTITUTION,Smart Marcus,5:37,1,Celtics,Bucks,17 - 11,1,N/A,N/A,N/A
+63,Jaylen Brown,FT_MISS,None,5:37,1,Celtics,Bucks,17 - 11,1,N/A,1,N/A
+64,Tony Snell,DEFENSIVE_REBOUND,None,5:36,1,Bucks,Celtics,17 - 11,0,N/A,N/A,N/A
+65,Khris Middleton,FG_UNASSISTED,None,5:20,1,Bucks,Celtics,19 - 11,0,9,3,Jumper
+66,Kyrie Irving,FG_UNASSISTED,None,5:10,1,Celtics,Bucks,19 - 14,1,27,3,Jumper
+67,Khris Middleton,FG_MISS,None,4:50,1,Bucks,Celtics,19 - 14,0,12,3,Jumper
+68,D.J. Wilson,OFFENSIVE_REBOUND,None,4:48,1,Bucks,Celtics,19 - 14,0,N/A,N/A,N/A
+69,Tony Snell,TURNOVER,None,4:42,1,Bucks,Celtics,19 - 14,0,N/A,N/A,N/A
+70,Jaylen Brown,FG_MISS,None,4:26,1,Celtics,Bucks,19 - 14,1,23,3,Jumper
+71,D.J. Wilson,DEFENSIVE_REBOUND,None,4:24,1,Bucks,Celtics,19 - 14,0,N/A,N/A,N/A
+72,Sterling Brown,FG_MISS,None,4:19,1,Bucks,Celtics,19 - 14,0,26,3,Jumper
+73,Daniel Theis,DEFENSIVE_REBOUND,None,4:18,1,Celtics,Bucks,19 - 14,1,N/A,N/A,N/A
+74,Gordon Hayward,FG_MISS,None,4:05,1,Celtics,Bucks,19 - 14,1, ,3,Jumper
+75,D.J. Wilson,DEFENSIVE_REBOUND,None,4:03,1,Bucks,Celtics,19 - 14,0,N/A,N/A,N/A
+76,D.J. Wilson,FG_MISS,None,3:48,1,Bucks,Celtics,19 - 14,0,27,3,Jumper
+77,Gordon Hayward,DEFENSIVE_REBOUND,None,3:46,1,Celtics,Bucks,19 - 14,1,N/A,N/A,N/A
+78,Gordon Hayward,FG_MISS,None,3:37,1,Celtics,Bucks,19 - 14,1,26,3,Jumper
+79,Team,DEFENSIVE_REBOUND,None,3:35,1,Bucks,Celtics,19 - 14,0,N/A,N/A,N/A
+80,foul 19,FOUL_ON_FLOOR,None,3:35,1,Celtics,Bucks,19 - 14,1,N/A,N/A,N/A
+81,Daniel Theis,FOUL_ON_FLOOR,None,3:35,1,Celtics,Bucks,19 - 14,1,N/A,N/A,N/A
+82,George Hill,SUBSTITUTION,Bledsoe Eric,3:35,1,Bucks,Celtics,19 - 14,0,N/A,N/A,N/A
+83,Tony Snell,FG_ASSISTED,Khris Middleton,3:17,1,Bucks,Celtics,21 - 14,0,0,2,Layup
+84,Team,Unknown,None,3:17,1,Celtics,Bucks,21 - 14,1,N/A,N/A,N/A
+85,Kyrie Irving,FG_UNASSISTED,None,3:03,1,Celtics,Bucks,21 - 16,1,11,3,Jumper
+86,Khris Middleton,FG_MISS,None,2:50,1,Bucks,Celtics,21 - 16,0,26,3,Jumper
+87,D.J. Wilson,OFFENSIVE_REBOUND,None,2:49,1,Bucks,Celtics,21 - 16,0,N/A,N/A,N/A
+88,Kyrie Irving,FOUL_ON_FLOOR,None,2:49,1,Celtics,Bucks,21 - 16,1,N/A,N/A,N/A
+89,D.J. Wilson,FT_MISS,None,2:49,1,Bucks,Celtics,21 - 16,0,N/A,1,N/A
+90,Team,OFFENSIVE_REBOUND,None,2:49,1,Bucks,Celtics,21 - 16,0,N/A,N/A,N/A
+91,Thon Maker,SUBSTITUTION,Middleton Khris,2:49,1,Bucks,Celtics,21 - 16,0,N/A,N/A,N/A
+92,D.J. Wilson,FT,None,2:49,1,Bucks,Celtics,22 - 16,0,N/A,1,N/A
+93,Daniel Theis,FG_ASSISTED,Jaylen Brown,2:34,1,Celtics,Bucks,22 - 18,1,0,2,Dunk
+94,Tony Snell,FG_ASSISTED,George Hill,2:15,1,Bucks,Celtics,25 - 18,0,27,3,Jumper
+95,Jaylen Brown,FG_MISS,None,2:00,1,Celtics,Bucks,25 - 18,1,26,3,Jumper
+96,Sterling Brown,DEFENSIVE_REBOUND,None,1:58,1,Bucks,Celtics,25 - 18,0,N/A,N/A,N/A
+97,Sterling Brown,FG_ASSISTED,George Hill,1:45,1,Bucks,Celtics,27 - 18,0,18,3,Jumper
+98,Kyrie Irving,FG_UNASSISTED,None,1:27,1,Celtics,Bucks,27 - 20,1, ,3,Jumper
+99,Tony Snell,FG_ASSISTED,Sterling Brown,1:11,1,Bucks,Celtics,29 - 20,0,0,2,Layup
+100,George Hill,FOUL_ON_FLOOR,None,1:04,1,Bucks,Celtics,29 - 20,0,N/A,N/A,N/A
+101,Jayson Tatum,SUBSTITUTION,Irving Kyrie,1:04,1,Celtics,Bucks,29 - 20,1,N/A,N/A,N/A
+102,Marcus Smart,SUBSTITUTION,Hayward Gordon,1:04,1,Celtics,Bucks,29 - 20,1,N/A,N/A,N/A
+103,Giannis Antetokounmpo,SUBSTITUTION,Wilson D.J.,1:04,1,Bucks,Celtics,29 - 20,0,N/A,N/A,N/A
+104,Marcus Smart,FG_UNASSISTED,None,58.7,1,Celtics,Bucks,29 - 22,1,15,3,Jumper
+105,Tony Snell,FG_ASSISTED,Giannis Antetokounmpo,42.9,1,Bucks,Celtics,32 - 22,0,25,3,Jumper
+106,Terry Rozier,FG_MISS,None,25.5,1,Celtics,Bucks,32 - 22,1,26,3,Jumper
+107,Thon Maker,DEFENSIVE_REBOUND,None,24.1,1,Bucks,Celtics,32 - 22,0,N/A,N/A,N/A
+108,Thon Maker,FG_ASSISTED,Giannis Antetokounmpo,7.2,1,Bucks,Celtics,35 - 22,0, ,3,Jumper
+109,Jayson Tatum,FG_MISS,None,0.6,1,Celtics,Bucks,35 - 22,1,19,3,Jumper
+110,Team,OFFENSIVE_REBOUND,None,0.6,1,Celtics,Bucks,35 - 22,1,N/A,N/A,N/A
+111,End of,Unknown,None,0.0,1,Celtics,Bucks,35 - 22,1,N/A,N/A,N/A
+0,Robert Williams,SUBSTITUTION,Theis Daniel,12:00,2,Celtics,Bucks,35 - 22,1,N/A,N/A,N/A
+1,Malcolm Brogdon,SUBSTITUTION,Brown Sterling,12:00,2,Bucks,Celtics,35 - 22,0,N/A,N/A,N/A
+2,Marcus Smart,FG_MISS,None,11:48,2,Celtics,Bucks,35 - 22,1,21,3,Jumper
+3,Malcolm Brogdon,DEFENSIVE_REBOUND,None,11:46,2,Bucks,Celtics,35 - 22,0,N/A,N/A,N/A
+4,George Hill,FG_ASSISTED,Malcolm Brogdon,11:37,2,Bucks,Celtics,37 - 22,0,0,2,Layup
+5,Jaylen Brown,FG_ASSISTED,Terry Rozier,11:23,2,Celtics,Bucks,37 - 25,1,27,3,Jumper
+6,George Hill,FG_MISS,None,10:55,2,Bucks,Celtics,37 - 25,0, ,3,Jumper
+7,Jayson Tatum,DEFENSIVE_REBOUND,None,10:54,2,Celtics,Bucks,37 - 25,1,N/A,N/A,N/A
+8,Tony Snell,FOUL_ON_FLOOR,None,10:50,2,Bucks,Celtics,37 - 25,0,N/A,N/A,N/A
+9,Thon Maker,FOUL_ON_FLOOR,None,10:38,2,Bucks,Celtics,37 - 25,0,N/A,N/A,N/A
+10,Robert Williams,FT,None,10:38,2,Celtics,Bucks,37 - 26,1,N/A,1,N/A
+11,Sterling Brown,SUBSTITUTION,Snell Tony,10:38,2,Bucks,Celtics,37 - 26,0,N/A,N/A,N/A
+12,Robert Williams,FT,None,10:38,2,Celtics,Bucks,37 - 27,1,N/A,1,N/A
+13,Thon Maker,FG_ASSISTED,Giannis Antetokounmpo,10:21,2,Bucks,Celtics,40 - 27,0,23,3,Jumper
+14,Terry Rozier,FG_MISS,None,10:03,2,Celtics,Bucks,40 - 27,1,14,3,Jumper
+15,Sterling Brown,DEFENSIVE_REBOUND,None,10:01,2,Bucks,Celtics,40 - 27,0,N/A,N/A,N/A
+16,Robert Williams,FOUL_ON_FLOOR,None,9:54,2,Celtics,Bucks,40 - 27,1,N/A,N/A,N/A
+17,Giannis Antetokounmpo,FT,None,9:54,2,Bucks,Celtics,41 - 27,0,N/A,1,N/A
+18,Giannis Antetokounmpo,FT,None,9:54,2,Bucks,Celtics,42 - 27,0,N/A,1,N/A
+19,Terry Rozier,FG_MISS,None,9:41,2,Celtics,Bucks,42 - 27,1,26,3,Jumper
+20,Sterling Brown,DEFENSIVE_REBOUND,None,9:39,2,Bucks,Celtics,42 - 27,0,N/A,N/A,N/A
+21,Jayson Tatum,FOUL_ON_FLOOR,None,9:29,2,Celtics,Bucks,42 - 27,1,N/A,N/A,N/A
+22,Giannis Antetokounmpo,FT_MISS,None,9:29,2,Bucks,Celtics,42 - 27,0,N/A,1,N/A
+23,Team,OFFENSIVE_REBOUND,None,9:29,2,Bucks,Celtics,42 - 27,0,N/A,N/A,N/A
+24,Giannis Antetokounmpo,FT,None,9:29,2,Bucks,Celtics,43 - 27,0,N/A,1,N/A
+25,Jayson Tatum,TURNOVER,Thon Maker,9:13,2,Celtics,Bucks,43 - 27,1,N/A,N/A,N/A
+26,Thon Maker,FG_ASSISTED,Sterling Brown,8:57,2,Bucks,Celtics,46 - 27,0,23,3,Jumper
+27,Jayson Tatum,FG_MISS,None,8:36,2,Celtics,Bucks,46 - 27,1, ,3,Jumper
+28,Team,OFFENSIVE_REBOUND,None,8:34,2,Celtics,Bucks,46 - 27,1,N/A,N/A,N/A
+29,Jayson Tatum,FOUL_TECHNICAL,None,8:31,2,Celtics,Bucks,46 - 27,1,N/A,N/A,N/A
+30,Malcolm Brogdon,FT,None,8:31,2,Bucks,Celtics,47 - 27,0,N/A,1,N/A
+31,Gordon Hayward,SUBSTITUTION,Tatum Jayson,8:31,2,Celtics,Bucks,47 - 27,1,N/A,N/A,N/A
+32,Kyrie Irving,SUBSTITUTION,Brown Jaylen,8:31,2,Celtics,Bucks,47 - 27,1,N/A,N/A,N/A
+33,Semi Ojeleye,SUBSTITUTION,Rozier Terry,8:31,2,Celtics,Bucks,47 - 27,1,N/A,N/A,N/A
+34,Gordon Hayward,FG_MISS,None,8:22,2,Celtics,Bucks,47 - 27,1, ,3,Jumper
+35,Marcus Smart,OFFENSIVE_REBOUND,None,8:18,2,Celtics,Bucks,47 - 27,1,N/A,N/A,N/A
+36,Marcus Smart,FG_MISS,None,8:18,2,Celtics,Bucks,47 - 27,1,5,3,Jumper
+37,Malcolm Brogdon,DEFENSIVE_REBOUND,None,8:16,2,Bucks,Celtics,47 - 27,0,N/A,N/A,N/A
+38,Malcolm Brogdon,FG_MISS,None,8:08,2,Bucks,Celtics,47 - 27,0,0,2,Layup
+39,Malcolm Brogdon,OFFENSIVE_REBOUND,None,8:07,2,Bucks,Celtics,47 - 27,0,N/A,N/A,N/A
+40,Thon Maker,FG_MISS,None,7:59,2,Bucks,Celtics,47 - 27,0,24,3,Jumper
+41,Malcolm Brogdon,OFFENSIVE_REBOUND,None,7:56,2,Bucks,Celtics,47 - 27,0,N/A,N/A,N/A
+42,Malcolm Brogdon,FG_MISS,Robert Williams,7:47,2,Celtics,Bucks,47 - 27,0,32,3,Jumper
+43,Malcolm Brogdon,OFFENSIVE_REBOUND,None,7:45,2,Bucks,Celtics,47 - 27,0,N/A,N/A,N/A
+44,Malcolm Brogdon,FG_MISS,None,7:43,2,Bucks,Celtics,47 - 27,0,27,3,Jumper
+45,shot clock,TURNOVER,None,7:43,2,Bucks,Celtics,47 - 27,0,N/A,N/A,N/A
+46,Team,Unknown,None,7:43,2,Celtics,Bucks,47 - 27,1,N/A,N/A,N/A
+47,Team,OFFENSIVE_REBOUND,None,7:43,2,Bucks,Celtics,47 - 27,0,N/A,N/A,N/A
+48,Guerschon Yabusele,SUBSTITUTION,Williams Robert,7:43,2,Celtics,Bucks,47 - 27,1,N/A,N/A,N/A
+49,Eric Bledsoe,SUBSTITUTION,Brogdon Malcolm,7:43,2,Bucks,Celtics,47 - 27,0,N/A,N/A,N/A
+50,Khris Middleton,SUBSTITUTION,Antetokounmpo Giannis,7:43,2,Bucks,Celtics,47 - 27,0,N/A,N/A,N/A
+51,Kyrie Irving,FG_UNASSISTED,None,7:26,2,Celtics,Bucks,47 - 29,1,17,3,Jumper
+52,Sterling Brown,FG_MISS,None,7:10,2,Bucks,Celtics,47 - 29,0, ,3,Jumper
+53,Kyrie Irving,DEFENSIVE_REBOUND,None,7:08,2,Celtics,Bucks,47 - 29,1,N/A,N/A,N/A
+54,Gordon Hayward,FG_ASSISTED,Kyrie Irving,7:02,2,Celtics,Bucks,47 - 31,1,0,2,Layup
+55,Khris Middleton,FG_MISS,None,6:48,2,Bucks,Celtics,47 - 31,0,0,2,Layup
+56,Khris Middleton,OFFENSIVE_REBOUND,None,6:47,2,Bucks,Celtics,47 - 31,0,N/A,N/A,N/A
+57,Khris Middleton,FG_UNASSISTED,None,6:47,2,Bucks,Celtics,49 - 31,0, ,3,Jumper
+58,Gordon Hayward,FG_MISS,None,6:34,2,Celtics,Bucks,49 - 31,1,20,3,Jumper
+59,Eric Bledsoe,DEFENSIVE_REBOUND,None,6:34,2,Bucks,Celtics,49 - 31,0,N/A,N/A,N/A
+60,Sterling Brown,FG_MISS,None,6:27,2,Bucks,Celtics,49 - 31,0,24,3,Jumper
+61,Gordon Hayward,DEFENSIVE_REBOUND,None,6:25,2,Celtics,Bucks,49 - 31,1,N/A,N/A,N/A
+62,Thon Maker,FOUL_ON_FLOOR,None,6:20,2,Bucks,Celtics,49 - 31,0,N/A,N/A,N/A
+63,Semi Ojeleye,FT_MISS,None,6:20,2,Celtics,Bucks,49 - 31,1,N/A,1,N/A
+64,Team,OFFENSIVE_REBOUND,None,6:20,2,Celtics,Bucks,49 - 31,1,N/A,N/A,N/A
+65,Brook Lopez,SUBSTITUTION,Maker Thon,6:20,2,Bucks,Celtics,49 - 31,0,N/A,N/A,N/A
+66,Semi Ojeleye,FT,None,6:20,2,Celtics,Bucks,49 - 32,1,N/A,1,N/A
+67,Eric Bledsoe,FG_ASSISTED,Brook Lopez,6:03,2,Bucks,Celtics,52 - 32,0,25,3,Jumper
+68,Kyrie Irving,FG_MISS,None,5:53,2,Celtics,Bucks,52 - 32,1,25,3,Jumper
+69,Brook Lopez,DEFENSIVE_REBOUND,None,5:53,2,Bucks,Celtics,52 - 32,0,N/A,N/A,N/A
+70,Eric Bledsoe,FG_UNASSISTED,None,5:45,2,Bucks,Celtics,54 - 32,0, ,3,Jumper
+71,Semi Ojeleye,FG_MISS,Brook Lopez,5:29,2,Bucks,Celtics,54 - 32,1,4,3,Jumper
+72,Team,DEFENSIVE_REBOUND,None,5:29,2,Bucks,Celtics,54 - 32,0,N/A,N/A,N/A
+73,Giannis Antetokounmpo,SUBSTITUTION,Hill George,5:29,2,Bucks,Celtics,54 - 32,0,N/A,N/A,N/A
+74,Eric Bledsoe,FG_UNASSISTED,None,5:16,2,Bucks,Celtics,56 - 32,0,0,2,Layup
+75,Kyrie Irving,TURNOVER,Khris Middleton,5:06,2,Celtics,Bucks,56 - 32,1,N/A,N/A,N/A
+76,Giannis Antetokounmpo,FG_MISS,None,4:51,2,Bucks,Celtics,56 - 32,0,0,2,Layup
+77,Giannis Antetokounmpo,OFFENSIVE_REBOUND,None,4:50,2,Bucks,Celtics,56 - 32,0,N/A,N/A,N/A
+78,Giannis Antetokounmpo,FG_UNASSISTED,None,4:50,2,Bucks,Celtics,58 - 32,0, ,3,Jumper
+79,Team,Unknown,None,4:50,2,Celtics,Bucks,58 - 32,1,N/A,N/A,N/A
+80,Jayson Tatum,SUBSTITUTION,Yabusele Guerschon,4:50,2,Celtics,Bucks,58 - 32,1,N/A,N/A,N/A
+81,Daniel Theis,SUBSTITUTION,Smart Marcus,4:50,2,Celtics,Bucks,58 - 32,1,N/A,N/A,N/A
+82,Jaylen Brown,SUBSTITUTION,Ojeleye Semi,4:50,2,Celtics,Bucks,58 - 32,1,N/A,N/A,N/A
+83,Gordon Hayward,FG_MISS,None,4:27,2,Celtics,Bucks,58 - 32,1,21,3,Jumper
+84,Daniel Theis,OFFENSIVE_REBOUND,None,4:25,2,Celtics,Bucks,58 - 32,1,N/A,N/A,N/A
+85,Jayson Tatum,FG_ASSISTED,Daniel Theis,4:22,2,Celtics,Bucks,58 - 35,1,26,3,Jumper
+86,Giannis Antetokounmpo,FG_MISS,None,3:55,2,Bucks,Celtics,58 - 35,0,4,3,Jumper
+87,Jaylen Brown,DEFENSIVE_REBOUND,None,3:53,2,Celtics,Bucks,58 - 35,1,N/A,N/A,N/A
+88,Daniel Theis,FG_ASSISTED,Kyrie Irving,3:42,2,Celtics,Bucks,58 - 38,1,26,3,Jumper
+89,Eric Bledsoe,FG_MISS,None,3:19,2,Bucks,Celtics,58 - 38,0,26,3,Jumper
+90,Jaylen Brown,DEFENSIVE_REBOUND,None,3:18,2,Celtics,Bucks,58 - 38,1,N/A,N/A,N/A
+91,Daniel Theis,FG_MISS,None,3:12,2,Celtics,Bucks,58 - 38,1,27,3,Jumper
+92,Giannis Antetokounmpo,DEFENSIVE_REBOUND,None,3:10,2,Bucks,Celtics,58 - 38,0,N/A,N/A,N/A
+93,Eric Bledsoe,FG_MISS,Jayson Tatum,2:57,2,Celtics,Bucks,58 - 38,0,0,2,Layup
+94,Daniel Theis,DEFENSIVE_REBOUND,None,2:55,2,Celtics,Bucks,58 - 38,1,N/A,N/A,N/A
+95,Jaylen Brown,FG_ASSISTED,Kyrie Irving,2:51,2,Celtics,Bucks,58 - 40,1,3,3,Jumper
+96,Khris Middleton,FOUL_ON_FLOOR,None,2:51,2,Bucks,Celtics,58 - 40,0,N/A,N/A,N/A
+97,Team,Unknown,None,2:51,2,Bucks,Celtics,58 - 40,0,N/A,N/A,N/A
+98,George Hill,SUBSTITUTION,Bledsoe Eric,2:51,2,Bucks,Celtics,58 - 40,0,N/A,N/A,N/A
+99,Malcolm Brogdon,SUBSTITUTION,Brown Sterling,2:51,2,Bucks,Celtics,58 - 40,0,N/A,N/A,N/A
+100,Jaylen Brown,FT_MISS,None,2:51,2,Celtics,Bucks,58 - 40,1,N/A,1,N/A
+101,Giannis Antetokounmpo,DEFENSIVE_REBOUND,None,2:49,2,Bucks,Celtics,58 - 40,0,N/A,N/A,N/A
+102,Khris Middleton,FG_UNASSISTED,None,2:35,2,Bucks,Celtics,61 - 40,0,26,3,Jumper
+103,Khris Middleton,FOUL_ON_FLOOR,None,2:15,2,Bucks,Celtics,61 - 40,0,N/A,N/A,N/A
+104,Gordon Hayward,FT,None,2:15,2,Celtics,Bucks,61 - 41,1,N/A,1,N/A
+105,Gordon Hayward,FT,None,2:15,2,Celtics,Bucks,61 - 42,1,N/A,1,N/A
+106,George Hill,FG_MISS,None,1:53,2,Bucks,Celtics,61 - 42,0, ,3,Jumper
+107,Jaylen Brown,DEFENSIVE_REBOUND,None,1:51,2,Celtics,Bucks,61 - 42,1,N/A,N/A,N/A
+108,Kyrie Irving,FG_UNASSISTED,None,1:42,2,Celtics,Bucks,61 - 44,1,7,3,Jumper
+109,Giannis Antetokounmpo,TURNOVER,Jaylen Brown,1:29,2,Bucks,Celtics,61 - 44,0,N/A,N/A,N/A
+110,Jaylen Brown,FG_UNASSISTED,None,1:26,2,Celtics,Bucks,61 - 46,1, ,3,Jumper
+111,Giannis Antetokounmpo,Unknown,None,1:26,2,Bucks,Celtics,61 - 46,0,N/A,N/A,N/A
+112,Khris Middleton,FG_ASSISTED,Giannis Antetokounmpo,1:11,2,Bucks,Celtics,64 - 46,0,25,3,Jumper
+113,Daniel Theis,FG_ASSISTED,Kyrie Irving,59.2,2,Celtics,Bucks,64 - 48,1,0,2,Dunk
+114,Khris Middleton,FG_MISS,None,38.5,2,Bucks,Celtics,64 - 48,0,27,3,Jumper
+115,Giannis Antetokounmpo,OFFENSIVE_REBOUND,None,35.6,2,Bucks,Celtics,64 - 48,0,N/A,N/A,N/A
+116,Daniel Theis,FOUL_ON_FLOOR,None,35.6,2,Celtics,Bucks,64 - 48,1,N/A,N/A,N/A
+117,Giannis Antetokounmpo,FT_MISS,None,35.6,2,Bucks,Celtics,64 - 48,0,N/A,1,N/A
+118,Team,OFFENSIVE_REBOUND,None,35.6,2,Bucks,Celtics,64 - 48,0,N/A,N/A,N/A
+119,Thon Maker,SUBSTITUTION,Lopez Brook,35.6,2,Bucks,Celtics,64 - 48,0,N/A,N/A,N/A
+120,Giannis Antetokounmpo,FT,None,35.6,2,Bucks,Celtics,65 - 48,0,N/A,1,N/A
+121,Jayson Tatum,FG_MISS,None,22.8,2,Celtics,Bucks,65 - 48,1, ,3,Jumper
+122,George Hill,DEFENSIVE_REBOUND,None,20.1,2,Bucks,Celtics,65 - 48,0,N/A,N/A,N/A
+123,Malcolm Brogdon,FG_MISS,None,0.4,2,Bucks,Celtics,65 - 48,0,27,3,Jumper
+124,Team,OFFENSIVE_REBOUND,None,0.4,2,Bucks,Celtics,65 - 48,0,N/A,N/A,N/A
+125,End of,Unknown,None,0.0,2,Celtics,Bucks,65 - 48,1,N/A,N/A,N/A
+0,Marcus Smart,SUBSTITUTION,Brown Jaylen,12:00,3,Celtics,Bucks,65 - 48,1,N/A,N/A,N/A
+1,Semi Ojeleye,SUBSTITUTION,Theis Daniel,12:00,3,Celtics,Bucks,65 - 48,1,N/A,N/A,N/A
+2,Brook Lopez,SUBSTITUTION,Hill George,12:00,3,Bucks,Celtics,65 - 48,0,N/A,N/A,N/A
+3,Eric Bledsoe,SUBSTITUTION,Maker Thon,12:00,3,Bucks,Celtics,65 - 48,0,N/A,N/A,N/A
+4,Kyrie Irving,FG_MISS,None,11:45,3,Celtics,Bucks,65 - 48,1,26,3,Jumper
+5,Malcolm Brogdon,DEFENSIVE_REBOUND,None,11:43,3,Bucks,Celtics,65 - 48,0,N/A,N/A,N/A
+6,Malcolm Brogdon,FG_MISS,None,11:32,3,Bucks,Celtics,65 - 48,0,28,3,Jumper
+7,Semi Ojeleye,DEFENSIVE_REBOUND,None,11:31,3,Celtics,Bucks,65 - 48,1,N/A,N/A,N/A
+8,Kyrie Irving,FG_MISS,None,11:25,3,Celtics,Bucks,65 - 48,1, ,3,Jumper
+9,Semi Ojeleye,OFFENSIVE_REBOUND,None,11:24,3,Celtics,Bucks,65 - 48,1,N/A,N/A,N/A
+10,Gordon Hayward,FG_MISS,Brook Lopez,11:20,3,Bucks,Celtics,65 - 48,1,0,2,Layup
+11,Kyrie Irving,OFFENSIVE_REBOUND,None,11:18,3,Celtics,Bucks,65 - 48,1,N/A,N/A,N/A
+12,Khris Middleton,FOUL_ON_FLOOR,None,11:17,3,Bucks,Celtics,65 - 48,0,N/A,N/A,N/A
+13,Jayson Tatum,FT_MISS,None,11:17,3,Celtics,Bucks,65 - 48,1,N/A,1,N/A
+14,Team,OFFENSIVE_REBOUND,None,11:17,3,Celtics,Bucks,65 - 48,1,N/A,N/A,N/A
+15,Jayson Tatum,FT,None,11:17,3,Celtics,Bucks,65 - 49,1,N/A,1,N/A
+16,Khris Middleton,FG_MISS,None,10:56,3,Bucks,Celtics,65 - 49,0,22,3,Jumper
+17,Marcus Smart,DEFENSIVE_REBOUND,None,10:54,3,Celtics,Bucks,65 - 49,1,N/A,N/A,N/A
+18,Gordon Hayward,FG_MISS,None,10:49,3,Celtics,Bucks,65 - 49,1,25,3,Jumper
+19,Khris Middleton,DEFENSIVE_REBOUND,None,10:47,3,Bucks,Celtics,65 - 49,0,N/A,N/A,N/A
+20,Brook Lopez,TURNOVER,Jayson Tatum,10:30,3,Bucks,Celtics,65 - 49,0,N/A,N/A,N/A
+21,Kyrie Irving,FG_MISS,Giannis Antetokounmpo,10:22,3,Bucks,Celtics,65 - 49,1,0,2,Layup
+22,Brook Lopez,DEFENSIVE_REBOUND,None,10:18,3,Bucks,Celtics,65 - 49,0,N/A,N/A,N/A
+23,Marcus Smart,FOUL_ON_FLOOR,None,10:17,3,Celtics,Bucks,65 - 49,1,N/A,N/A,N/A
+24,Giannis Antetokounmpo,FT,None,10:17,3,Bucks,Celtics,66 - 49,0,N/A,1,N/A
+25,Giannis Antetokounmpo,FT,None,10:17,3,Bucks,Celtics,67 - 49,0,N/A,1,N/A
+26,Jayson Tatum,FG_MISS,None,10:03,3,Celtics,Bucks,67 - 49,1,27,3,Jumper
+27,Khris Middleton,DEFENSIVE_REBOUND,None,10:00,3,Bucks,Celtics,67 - 49,0,N/A,N/A,N/A
+28,Eric Bledsoe,TURNOVER,Marcus Smart,9:57,3,Bucks,Celtics,67 - 49,0,N/A,N/A,N/A
+29,Marcus Smart,FG_MISS,None,9:53,3,Celtics,Bucks,67 - 49,1,24,3,Jumper
+30,Semi Ojeleye,OFFENSIVE_REBOUND,None,9:53,3,Celtics,Bucks,67 - 49,1,N/A,N/A,N/A
+31,Semi Ojeleye,FG_UNASSISTED,None,9:52,3,Celtics,Bucks,67 - 51,1, ,3,Jumper
+32,Giannis Antetokounmpo,Unknown,None,9:52,3,Bucks,Celtics,67 - 51,0,N/A,N/A,N/A
+33,Giannis Antetokounmpo,FG_ASSISTED,Malcolm Brogdon,9:37,3,Bucks,Celtics,69 - 51,0,0,2,Dunk
+34,Semi Ojeleye,FG_MISS,None,9:28,3,Celtics,Bucks,69 - 51,1,24,3,Jumper
+35,Malcolm Brogdon,DEFENSIVE_REBOUND,None,9:28,3,Bucks,Celtics,69 - 51,0,N/A,N/A,N/A
+36,Khris Middleton,FG_MISS,None,9:10,3,Bucks,Celtics,69 - 51,0, ,3,Jumper
+37,Team,DEFENSIVE_REBOUND,None,9:08,3,Celtics,Bucks,69 - 51,1,N/A,N/A,N/A
+38,Kyrie Irving,FG_UNASSISTED,None,8:58,3,Celtics,Bucks,69 - 53,1, ,3,Jumper
+39,Giannis Antetokounmpo,FG_ASSISTED,Eric Bledsoe,8:45,3,Bucks,Celtics,72 - 53,0,27,3,Jumper
+40,Jayson Tatum,FG_ASSISTED,Kyrie Irving,8:34,3,Celtics,Bucks,72 - 56,1,25,3,Jumper
+41,Giannis Antetokounmpo,FG_UNASSISTED,None,8:17,3,Bucks,Celtics,74 - 56,0, ,3,Jumper
+42,Semi Ojeleye,FOUL_ON_FLOOR,None,8:17,3,Celtics,Bucks,74 - 56,1,N/A,N/A,N/A
+43,Giannis Antetokounmpo,FT_MISS,None,8:17,3,Bucks,Celtics,74 - 56,0,N/A,1,N/A
+44,Khris Middleton,OFFENSIVE_REBOUND,None,8:16,3,Bucks,Celtics,74 - 56,0,N/A,N/A,N/A
+45,Khris Middleton,FG_MISS,None,8:05,3,Bucks,Celtics,74 - 56,0,15,3,Jumper
+46,Kyrie Irving,DEFENSIVE_REBOUND,None,8:03,3,Celtics,Bucks,74 - 56,1,N/A,N/A,N/A
+47,Gordon Hayward,FG_ASSISTED,Jayson Tatum,7:52,3,Celtics,Bucks,74 - 59,1,27,3,Jumper
+48,Jayson Tatum,FOUL_ON_FLOOR,None,7:41,3,Celtics,Bucks,74 - 59,1,N/A,N/A,N/A
+49,Giannis Antetokounmpo,FT,None,7:41,3,Bucks,Celtics,75 - 59,0,N/A,1,N/A
+50,Giannis Antetokounmpo,FT,None,7:41,3,Bucks,Celtics,76 - 59,0,N/A,1,N/A
+51,Jayson Tatum,TURNOVER,None,7:30,3,Celtics,Bucks,76 - 59,1,N/A,N/A,N/A
+52,Brook Lopez,FG_MISS,None,7:13,3,Bucks,Celtics,76 - 59,0, ,3,Jumper
+53,Jayson Tatum,DEFENSIVE_REBOUND,None,7:11,3,Celtics,Bucks,76 - 59,1,N/A,N/A,N/A
+54,Marcus Smart,FG_MISS,Giannis Antetokounmpo,7:01,3,Bucks,Celtics,76 - 59,1,0,2,Layup
+55,Eric Bledsoe,DEFENSIVE_REBOUND,None,6:59,3,Bucks,Celtics,76 - 59,0,N/A,N/A,N/A
+56,Eric Bledsoe,TURNOVER,Semi Ojeleye,6:54,3,Bucks,Celtics,76 - 59,0,N/A,N/A,N/A
+57,Malcolm Brogdon,FOUL_ON_FLOOR,None,6:51,3,Bucks,Celtics,76 - 59,0,N/A,N/A,N/A
+58,Team,Unknown,None,6:51,3,Celtics,Bucks,76 - 59,1,N/A,N/A,N/A
+59,Sterling Brown,SUBSTITUTION,Brogdon Malcolm,6:51,3,Bucks,Celtics,76 - 59,0,N/A,N/A,N/A
+60,Jayson Tatum,FT,None,6:51,3,Celtics,Bucks,76 - 60,1,N/A,1,N/A
+61,Jayson Tatum,FT,None,6:51,3,Celtics,Bucks,76 - 61,1,N/A,1,N/A
+62,Khris Middleton,FG_MISS,None,6:30,3,Bucks,Celtics,76 - 61,0,17,3,Jumper
+63,Kyrie Irving,DEFENSIVE_REBOUND,None,6:29,3,Celtics,Bucks,76 - 61,1,N/A,N/A,N/A
+64,Kyrie Irving,FG_ASSISTED,Marcus Smart,6:20,3,Celtics,Bucks,76 - 63,1,0,2,Layup
+65,Sterling Brown,FG_MISS,None,6:03,3,Bucks,Celtics,76 - 63,0,18,3,Jumper
+66,Kyrie Irving,DEFENSIVE_REBOUND,None,6:02,3,Celtics,Bucks,76 - 63,1,N/A,N/A,N/A
+67,Jayson Tatum,FG_UNASSISTED,None,5:52,3,Celtics,Bucks,76 - 65,1,17,3,Jumper
+68,Giannis Antetokounmpo,FG_ASSISTED,Sterling Brown,5:37,3,Bucks,Celtics,78 - 65,0,1,3,Jumper
+69,Semi Ojeleye,FOUL_ON_FLOOR,None,5:37,3,Celtics,Bucks,78 - 65,1,N/A,N/A,N/A
+70,D.J. Wilson,SUBSTITUTION,Lopez Brook,5:37,3,Bucks,Celtics,78 - 65,0,N/A,N/A,N/A
+71,Giannis Antetokounmpo,FT,None,5:37,3,Bucks,Celtics,79 - 65,0,N/A,1,N/A
+72,D.J. Wilson,FOUL_ON_FLOOR,None,5:20,3,Bucks,Celtics,79 - 65,0,N/A,N/A,N/A
+73,Semi Ojeleye,FT,None,5:20,3,Celtics,Bucks,79 - 66,1,N/A,1,N/A
+74,Jaylen Brown,SUBSTITUTION,Hayward Gordon,5:20,3,Celtics,Bucks,79 - 66,1,N/A,N/A,N/A
+75,George Hill,SUBSTITUTION,Antetokounmpo Giannis,5:20,3,Bucks,Celtics,79 - 66,0,N/A,N/A,N/A
+76,Semi Ojeleye,FT,None,5:20,3,Celtics,Bucks,79 - 67,1,N/A,1,N/A
+77,Khris Middleton,TURNOVER,None,4:56,3,Bucks,Celtics,79 - 67,0,N/A,N/A,N/A
+78,Daniel Theis,SUBSTITUTION,Ojeleye Semi,4:56,3,Celtics,Bucks,79 - 67,1,N/A,N/A,N/A
+79,Tony Snell,SUBSTITUTION,Bledsoe Eric,4:56,3,Bucks,Celtics,79 - 67,0,N/A,N/A,N/A
+80,George Hill,FOUL_ON_FLOOR,None,4:52,3,Bucks,Celtics,79 - 67,0,N/A,N/A,N/A
+81,Jayson Tatum,FG_MISS,None,4:41,3,Celtics,Bucks,79 - 67,1,3,3,Jumper
+82,Khris Middleton,DEFENSIVE_REBOUND,None,4:39,3,Bucks,Celtics,79 - 67,0,N/A,N/A,N/A
+83,George Hill,FG_ASSISTED,Khris Middleton,4:37,3,Bucks,Celtics,82 - 67,0,26,3,Jumper
+84,Marcus Smart,FG_UNASSISTED,None,4:20,3,Celtics,Bucks,82 - 69,1,6,3,Jumper
+85,Tony Snell,TURNOVER,Jaylen Brown,4:02,3,Bucks,Celtics,82 - 69,0,N/A,N/A,N/A
+86,Jaylen Brown,FG_ASSISTED,Jayson Tatum,3:55,3,Celtics,Bucks,82 - 71,1, ,3,Jumper
+87,Team,Unknown,None,3:51,3,Bucks,Celtics,82 - 71,0,N/A,N/A,N/A
+88,Khris Middleton,FG_ASSISTED,George Hill,3:35,3,Bucks,Celtics,85 - 71,0,27,3,Jumper
+89,Jaylen Brown's,FG_MISS,D.J. Wilson,3:13,3,Bucks,Celtics,85 - 71,1,0,2,Layup
+90,Jaylen Brown,OFFENSIVE_REBOUND,None,3:13,3,Celtics,Bucks,85 - 71,1,N/A,N/A,N/A
+91,George Hill,FOUL_ON_FLOOR,None,3:13,3,Bucks,Celtics,85 - 71,0,N/A,N/A,N/A
+92,Jaylen Brown,FT_MISS,None,3:13,3,Celtics,Bucks,85 - 71,1,N/A,1,N/A
+93,Team,OFFENSIVE_REBOUND,None,3:13,3,Celtics,Bucks,85 - 71,1,N/A,N/A,N/A
+94,Jaylen Brown,FT,None,3:13,3,Celtics,Bucks,85 - 72,1,N/A,1,N/A
+95,Khris Middleton,FG_MISS,None,3:00,3,Bucks,Celtics,85 - 72,0,19,3,Jumper
+96,Jayson Tatum,DEFENSIVE_REBOUND,None,2:58,3,Celtics,Bucks,85 - 72,1,N/A,N/A,N/A
+97,Tony Snell,FOUL_ON_FLOOR,None,2:56,3,Bucks,Celtics,85 - 72,0,N/A,N/A,N/A
+98,Marcus Smart,FT,None,2:56,3,Celtics,Bucks,85 - 73,1,N/A,1,N/A
+99,Terry Rozier,SUBSTITUTION,Irving Kyrie,2:56,3,Celtics,Bucks,85 - 73,1,N/A,N/A,N/A
+100,Malcolm Brogdon,SUBSTITUTION,Brown Sterling,2:56,3,Bucks,Celtics,85 - 73,0,N/A,N/A,N/A
+101,Marcus Smart,FT,None,2:56,3,Celtics,Bucks,85 - 74,1,N/A,1,N/A
+102,Malcolm Brogdon,TURNOVER,Jaylen Brown,2:35,3,Bucks,Celtics,85 - 74,0,N/A,N/A,N/A
+103,Jaylen Brown,FG_MISS,None,2:31,3,Celtics,Bucks,85 - 74,1, ,3,Jumper
+104,Khris Middleton,DEFENSIVE_REBOUND,None,2:29,3,Bucks,Celtics,85 - 74,0,N/A,N/A,N/A
+105,Tony Snell,FG_ASSISTED,Malcolm Brogdon,2:25,3,Bucks,Celtics,88 - 74,0,27,3,Jumper
+106,Tony Snell,FOUL_ON_FLOOR,None,2:12,3,Bucks,Celtics,88 - 74,0,N/A,N/A,N/A
+107,Jayson Tatum,FT,None,2:12,3,Celtics,Bucks,88 - 75,1,N/A,1,N/A
+108,Giannis Antetokounmpo,SUBSTITUTION,Middleton Khris,2:12,3,Bucks,Celtics,88 - 75,0,N/A,N/A,N/A
+109,Jayson Tatum,FT,None,2:12,3,Celtics,Bucks,88 - 76,1,N/A,1,N/A
+110,Giannis Antetokounmpo,FG_UNASSISTED,None,1:57,3,Bucks,Celtics,90 - 76,0,0,2,Layup
+111,Jayson Tatum,FOUL_ON_FLOOR,None,1:57,3,Celtics,Bucks,90 - 76,1,N/A,N/A,N/A
+112,Giannis Antetokounmpo,FT,None,1:57,3,Bucks,Celtics,91 - 76,0,N/A,1,N/A
+113,Marcus Smart,FG_MISS,None,1:41,3,Celtics,Bucks,91 - 76,1, ,3,Jumper
+114,Malcolm Brogdon,DEFENSIVE_REBOUND,None,1:39,3,Bucks,Celtics,91 - 76,0,N/A,N/A,N/A
+115,Giannis Antetokounmpo,FG_MISS,None,1:30,3,Bucks,Celtics,91 - 76,0, ,3,Jumper
+116,Terry Rozier,DEFENSIVE_REBOUND,None,1:29,3,Celtics,Bucks,91 - 76,1,N/A,N/A,N/A
+117,D.J. Wilson,FOUL_ON_FLOOR,None,1:25,3,Bucks,Celtics,91 - 76,0,N/A,N/A,N/A
+118,Jayson Tatum,FT,None,1:25,3,Celtics,Bucks,91 - 77,1,N/A,1,N/A
+119,Gordon Hayward,SUBSTITUTION,Smart Marcus,1:25,3,Celtics,Bucks,91 - 77,1,N/A,N/A,N/A
+120,Jayson Tatum,FT,None,1:25,3,Celtics,Bucks,91 - 78,1,N/A,1,N/A
+121,Malcolm Brogdon,TURNOVER,Jaylen Brown,1:06,3,Bucks,Celtics,91 - 78,0,N/A,N/A,N/A
+122,Jaylen Brown,FG_MISS,None,1:01,3,Celtics,Bucks,91 - 78,1, ,3,Jumper
+123,Tony Snell,DEFENSIVE_REBOUND,None,59.1,3,Bucks,Celtics,91 - 78,0,N/A,N/A,N/A
+124,Malcolm Brogdon,FG_UNASSISTED,None,42.5,3,Bucks,Celtics,93 - 78,0, ,3,Jumper
+125,Terry Rozier,FG_MISS,None,30.8,3,Celtics,Bucks,93 - 78,1,0,2,Layup
+126,Malcolm Brogdon,DEFENSIVE_REBOUND,None,27.1,3,Bucks,Celtics,93 - 78,0,N/A,N/A,N/A
+127,Malcolm Brogdon,FG_MISS,None,6.5,3,Bucks,Celtics,93 - 78,0,26,3,Jumper
+128,Daniel Theis,DEFENSIVE_REBOUND,None,3.4,3,Celtics,Bucks,93 - 78,1,N/A,N/A,N/A
+129,Jaylen Brown,FG_MISS,None,0.6,3,Celtics,Bucks,93 - 78,1,26,3,Jumper
+130,Team,OFFENSIVE_REBOUND,None,0.6,3,Celtics,Bucks,93 - 78,1,N/A,N/A,N/A
+131,End of,Unknown,None,0.0,3,Celtics,Bucks,93 - 78,1,N/A,N/A,N/A
+0,Kyrie Irving,SUBSTITUTION,Tatum Jayson,12:00,4,Celtics,Bucks,93 - 78,1,N/A,N/A,N/A
+1,Eric Bledsoe,SUBSTITUTION,Hill George,12:00,4,Bucks,Celtics,93 - 78,0,N/A,N/A,N/A
+2,Thon Maker,SUBSTITUTION,Wilson D.J.,12:00,4,Bucks,Celtics,93 - 78,0,N/A,N/A,N/A
+3,Malcolm Brogdon,TURNOVER,Daniel Theis,11:39,4,Bucks,Celtics,93 - 78,0,N/A,N/A,N/A
+4,Daniel Theis,FG_MISS,None,11:30,4,Celtics,Bucks,93 - 78,1,20,3,Jumper
+5,Jaylen Brown,OFFENSIVE_REBOUND,None,11:27,4,Celtics,Bucks,93 - 78,1,N/A,N/A,N/A
+6,Kyrie Irving,FG_MISS,None,11:21,4,Celtics,Bucks,93 - 78,1,9,3,Jumper
+7,Thon Maker,DEFENSIVE_REBOUND,None,11:20,4,Bucks,Celtics,93 - 78,0,N/A,N/A,N/A
+8,Giannis Antetokounmpo,FG_MISS,None,10:58,4,Bucks,Celtics,93 - 78,0,26,3,Jumper
+9,Jaylen Brown,DEFENSIVE_REBOUND,None,10:56,4,Celtics,Bucks,93 - 78,1,N/A,N/A,N/A
+10,Terry Rozier,FG_ASSISTED,Jaylen Brown,10:49,4,Celtics,Bucks,93 - 80,1,8,3,Jumper
+11,Malcolm Brogdon,FG_UNASSISTED,None,10:32,4,Bucks,Celtics,95 - 80,0, ,3,Jumper
+12,Gordon Hayward,FG_MISS,None,10:20,4,Celtics,Bucks,95 - 80,1,25,3,Jumper
+13,Thon Maker,DEFENSIVE_REBOUND,None,10:20,4,Bucks,Celtics,95 - 80,0,N/A,N/A,N/A
+14,Malcolm Brogdon,FG_ASSISTED,Tony Snell,9:58,4,Bucks,Celtics,97 - 80,0, ,3,Jumper
+15,Jaylen Brown,FG_ASSISTED,Terry Rozier,9:47,4,Celtics,Bucks,97 - 82,1,0,2,Dunk
+16,Jaylen Brown,FOUL_TECHNICAL,None,9:43,4,Celtics,Bucks,97 - 82,1,N/A,N/A,N/A
+17,Malcolm Brogdon,FT,None,9:43,4,Bucks,Celtics,98 - 82,0,N/A,1,N/A
+18,Sterling Brown,SUBSTITUTION,Brogdon Malcolm,9:43,4,Bucks,Celtics,98 - 82,0,N/A,N/A,N/A
+19,Tony Snell,FG_ASSISTED,Thon Maker,9:20,4,Bucks,Celtics,100 - 82,0,6,3,Jumper
+20,Jaylen Brown,FG_ASSISTED,Terry Rozier,9:10,4,Celtics,Bucks,100 - 85,1,27,3,Jumper
+21,Thon Maker,FG_ASSISTED,Eric Bledsoe,8:58,4,Bucks,Celtics,103 - 85,0,27,3,Jumper
+22,Thon Maker,FOUL_ON_FLOOR,None,8:42,4,Bucks,Celtics,103 - 85,0,N/A,N/A,N/A
+23,Daniel Theis,FT,None,8:42,4,Celtics,Bucks,103 - 86,1,N/A,1,N/A
+24,Khris Middleton,SUBSTITUTION,Antetokounmpo Giannis,8:42,4,Bucks,Celtics,103 - 86,0,N/A,N/A,N/A
+25,Daniel Theis,FT,None,8:42,4,Celtics,Bucks,103 - 87,1,N/A,1,N/A
+26,Tony Snell,TURNOVER,None,8:26,4,Bucks,Celtics,103 - 87,0,N/A,N/A,N/A
+27,Terry Rozier,FG_MISS,None,8:11,4,Celtics,Bucks,103 - 87,1,26,3,Jumper
+28,Kyrie Irving,OFFENSIVE_REBOUND,None,8:09,4,Celtics,Bucks,103 - 87,1,N/A,N/A,N/A
+29,Jaylen Brown,FG_ASSISTED,Kyrie Irving,8:06,4,Celtics,Bucks,103 - 90,1,28,3,Jumper
+30,Khris Middleton,TURNOVER,Terry Rozier,7:43,4,Bucks,Celtics,103 - 90,0,N/A,N/A,N/A
+31,Gordon Hayward,FG_ASSISTED,Terry Rozier,7:39,4,Celtics,Bucks,103 - 92,1, ,3,Jumper
+32,Tony Snell,FOUL_ON_FLOOR,None,7:39,4,Bucks,Celtics,103 - 92,0,N/A,N/A,N/A
+33,Team,Unknown,None,7:39,4,Bucks,Celtics,103 - 92,0,N/A,N/A,N/A
+34,Brook Lopez,SUBSTITUTION,Maker Thon,7:39,4,Bucks,Celtics,103 - 92,0,N/A,N/A,N/A
+35,George Hill,SUBSTITUTION,Snell Tony,7:39,4,Bucks,Celtics,103 - 92,0,N/A,N/A,N/A
+36,Gordon Hayward,FT_MISS,None,7:39,4,Celtics,Bucks,103 - 92,1,N/A,1,N/A
+37,Eric Bledsoe,DEFENSIVE_REBOUND,None,7:39,4,Bucks,Celtics,103 - 92,0,N/A,N/A,N/A
+38,Eric Bledsoe,FG_ASSISTED,Khris Middleton,7:17,4,Bucks,Celtics,105 - 92,0,3,3,Jumper
+39,Eric Bledsoe,FOUL_ON_FLOOR,None,7:01,4,Bucks,Celtics,105 - 92,0,N/A,N/A,N/A
+40,Terry Rozier,FT,None,7:01,4,Celtics,Bucks,105 - 93,1,N/A,1,N/A
+41,Terry Rozier,FT,None,7:01,4,Celtics,Bucks,105 - 94,1,N/A,1,N/A
+42,Eric Bledsoe,FG_UNASSISTED,None,6:49,4,Bucks,Celtics,107 - 94,0,5,3,Jumper
+43,Jaylen Brown,FOUL_ON_FLOOR,None,6:49,4,Celtics,Bucks,107 - 94,1,N/A,N/A,N/A
+44,Eric Bledsoe,FT,None,6:49,4,Bucks,Celtics,108 - 94,0,N/A,1,N/A
+45,Kyrie Irving,FG_MISS,None,6:34,4,Celtics,Bucks,108 - 94,1, ,3,Jumper
+46,Sterling Brown,DEFENSIVE_REBOUND,None,6:32,4,Bucks,Celtics,108 - 94,0,N/A,N/A,N/A
+47,Jaylen Brown,FOUL_ON_FLOOR,None,6:14,4,Celtics,Bucks,108 - 94,1,N/A,N/A,N/A
+48,Khris Middleton,FT,None,6:14,4,Bucks,Celtics,109 - 94,0,N/A,1,N/A
+49,Jayson Tatum,SUBSTITUTION,Brown Jaylen,6:14,4,Celtics,Bucks,109 - 94,1,N/A,N/A,N/A
+50,Khris Middleton,FT_MISS,None,6:14,4,Bucks,Celtics,109 - 94,0,N/A,1,N/A
+51,Gordon Hayward,DEFENSIVE_REBOUND,None,6:12,4,Celtics,Bucks,109 - 94,1,N/A,N/A,N/A
+52,Kyrie Irving,FG_MISS,None,6:07,4,Celtics,Bucks,109 - 94,1, ,3,Jumper
+53,Eric Bledsoe,FOUL_ON_FLOOR,None,6:06,4,Bucks,Celtics,109 - 94,0,N/A,N/A,N/A
+54,Team,OFFENSIVE_REBOUND,None,6:06,4,Celtics,Bucks,109 - 94,1,N/A,N/A,N/A
+55,Kyrie Irving,FG_MISS,None,5:57,4,Celtics,Bucks,109 - 94,1,25,3,Jumper
+56,Sterling Brown,DEFENSIVE_REBOUND,None,5:53,4,Bucks,Celtics,109 - 94,0,N/A,N/A,N/A
+57,Khris Middleton,FG_MISS,None,5:48,4,Bucks,Celtics,109 - 94,0,28,3,Jumper
+58,Daniel Theis,DEFENSIVE_REBOUND,None,5:44,4,Celtics,Bucks,109 - 94,1,N/A,N/A,N/A
+59,Khris Middleton,FOUL_ON_FLOOR,None,5:41,4,Bucks,Celtics,109 - 94,0,N/A,N/A,N/A
+60,Gordon Hayward,FT,None,5:41,4,Celtics,Bucks,109 - 95,1,N/A,1,N/A
+61,Giannis Antetokounmpo,SUBSTITUTION,Brown Sterling,5:41,4,Bucks,Celtics,109 - 95,0,N/A,N/A,N/A
+62,Gordon Hayward,FT,None,5:41,4,Celtics,Bucks,109 - 96,1,N/A,1,N/A
+63,Giannis Antetokounmpo,FG_ASSISTED,Khris Middleton,5:29,4,Bucks,Celtics,111 - 96,0,0,2,Layup
+64,Terry Rozier,FG_MISS,None,5:16,4,Celtics,Bucks,111 - 96,1,22,3,Jumper
+65,Giannis Antetokounmpo,DEFENSIVE_REBOUND,None,5:13,4,Bucks,Celtics,111 - 96,0,N/A,N/A,N/A
+66,Giannis Antetokounmpo,FOUL_ON_FLOOR,None,5:04,4,Bucks,Celtics,111 - 96,0,N/A,N/A,N/A
+67,Giannis Antetokounmpo,TURNOVER,None,5:04,4,Bucks,Celtics,111 - 96,0,N/A,N/A,N/A
+68,Jayson Tatum,FG_MISS,None,4:55,4,Celtics,Bucks,111 - 96,1,26,3,Jumper
+69,George Hill,DEFENSIVE_REBOUND,None,4:51,4,Bucks,Celtics,111 - 96,0,N/A,N/A,N/A
+70,Terry Rozier,FOUL_ON_FLOOR,None,4:36,4,Celtics,Bucks,111 - 96,1,N/A,N/A,N/A
+71,George Hill,FT,None,4:36,4,Bucks,Celtics,112 - 96,0,N/A,1,N/A
+72,Jaylen Brown,SUBSTITUTION,Rozier Terry,4:36,4,Celtics,Bucks,112 - 96,1,N/A,N/A,N/A
+73,Malcolm Brogdon,SUBSTITUTION,Bledsoe Eric,4:36,4,Bucks,Celtics,112 - 96,0,N/A,N/A,N/A
+74,George Hill,FT,None,4:36,4,Bucks,Celtics,113 - 96,0,N/A,1,N/A
+75,Gordon Hayward,FG_MISS,None,4:27,4,Celtics,Bucks,113 - 96,1,25,3,Jumper
+76,Kyrie Irving,OFFENSIVE_REBOUND,None,4:26,4,Celtics,Bucks,113 - 96,1,N/A,N/A,N/A
+77,Kyrie Irving,FG_MISS,None,4:25,4,Celtics,Bucks,113 - 96,1, ,3,Jumper
+78,George Hill,DEFENSIVE_REBOUND,None,4:25,4,Bucks,Celtics,113 - 96,0,N/A,N/A,N/A
+79,Brook Lopez,FG_MISS,None,4:02,4,Bucks,Celtics,113 - 96,0,23,3,Jumper
+80,Jayson Tatum,DEFENSIVE_REBOUND,None,4:02,4,Celtics,Bucks,113 - 96,1,N/A,N/A,N/A
+81,Jayson Tatum,FG_MISS,Giannis Antetokounmpo,3:57,4,Bucks,Celtics,113 - 96,1,1,3,Jumper
+82,Team,OFFENSIVE_REBOUND,None,3:57,4,Celtics,Bucks,113 - 96,1,N/A,N/A,N/A
+83,Marcus Smart,SUBSTITUTION,Hayward Gordon,3:57,4,Celtics,Bucks,113 - 96,1,N/A,N/A,N/A
+84,Jayson Tatum,FG_MISS,None,3:55,4,Celtics,Bucks,113 - 96,1,25,3,Jumper
+85,Brook Lopez,DEFENSIVE_REBOUND,None,3:53,4,Bucks,Celtics,113 - 96,0,N/A,N/A,N/A
+86,Team,Unknown,None,3:46,4,Bucks,Celtics,113 - 96,0,N/A,N/A,N/A
+87,Robert Williams,SUBSTITUTION,Theis Daniel,3:46,4,Celtics,Bucks,113 - 96,1,N/A,N/A,N/A
+88,Giannis Antetokounmpo,TURNOVER,Jayson Tatum,3:34,4,Bucks,Celtics,113 - 96,0,N/A,N/A,N/A
+89,Jaylen Brown,FG_ASSISTED,Marcus Smart,3:29,4,Celtics,Bucks,113 - 98,1,0,2,Dunk
+90,Giannis Antetokounmpo,FG_MISS,None,3:09,4,Bucks,Celtics,113 - 98,0,27,3,Jumper
+91,Jaylen Brown,DEFENSIVE_REBOUND,None,3:07,4,Celtics,Bucks,113 - 98,1,N/A,N/A,N/A
+92,Malcolm Brogdon,FOUL_ON_FLOOR,None,3:00,4,Bucks,Celtics,113 - 98,0,N/A,N/A,N/A
+93,Jaylen Brown,FT_MISS,None,3:00,4,Celtics,Bucks,113 - 98,1,N/A,1,N/A
+94,Team,OFFENSIVE_REBOUND,None,3:00,4,Celtics,Bucks,113 - 98,1,N/A,N/A,N/A
+95,Eric Bledsoe,SUBSTITUTION,Hill George,3:00,4,Bucks,Celtics,113 - 98,0,N/A,N/A,N/A
+96,Jaylen Brown,FT_MISS,None,3:00,4,Celtics,Bucks,113 - 98,1,N/A,1,N/A
+97,Team,DEFENSIVE_REBOUND,None,3:00,4,Bucks,Celtics,113 - 98,0,N/A,N/A,N/A
+98,Khris Middleton,FG_MISS,None,2:47,4,Bucks,Celtics,113 - 98,0,23,3,Jumper
+99,Marcus Smart,DEFENSIVE_REBOUND,None,2:43,4,Celtics,Bucks,113 - 98,1,N/A,N/A,N/A
+100,Eric Bledsoe,FOUL_ON_FLOOR,None,2:32,4,Bucks,Celtics,113 - 98,0,N/A,N/A,N/A
+101,Marcus Smart,FT,None,2:32,4,Celtics,Bucks,113 - 99,1,N/A,1,N/A
+102,Marcus Smart,FT,None,2:32,4,Celtics,Bucks,113 - 100,1,N/A,1,N/A
+103,Brook Lopez,FG_MISS,Robert Williams,2:16,4,Celtics,Bucks,113 - 100,0,24,3,Jumper
+104,Kyrie Irving,DEFENSIVE_REBOUND,None,2:14,4,Celtics,Bucks,113 - 100,1,N/A,N/A,N/A
+105,Kyrie Irving,FG_MISS,None,2:05,4,Celtics,Bucks,113 - 100,1,1,3,Jumper
+106,Giannis Antetokounmpo,DEFENSIVE_REBOUND,None,2:04,4,Bucks,Celtics,113 - 100,0,N/A,N/A,N/A
+107,Malcolm Brogdon,FG_MISS,None,1:48,4,Bucks,Celtics,113 - 100,0,1,3,Jumper
+108,Khris Middleton,OFFENSIVE_REBOUND,None,1:46,4,Bucks,Celtics,113 - 100,0,N/A,N/A,N/A
+109,Eric Bledsoe,FG_ASSISTED,Khris Middleton,1:44,4,Bucks,Celtics,115 - 100,0,0,2,Layup
+110,Team,Unknown,None,1:44,4,Celtics,Bucks,115 - 100,1,N/A,N/A,N/A
+111,Brad Wanamaker,SUBSTITUTION,Tatum Jayson,1:44,4,Celtics,Bucks,115 - 100,1,N/A,N/A,N/A
+112,Guerschon Yabusele,SUBSTITUTION,Irving Kyrie,1:44,4,Celtics,Bucks,115 - 100,1,N/A,N/A,N/A
+113,D.J. Wilson,SUBSTITUTION,Lopez Brook,1:44,4,Bucks,Celtics,115 - 100,0,N/A,N/A,N/A
+114,Tony Snell,SUBSTITUTION,Brogdon Malcolm,1:44,4,Bucks,Celtics,115 - 100,0,N/A,N/A,N/A
+115,Robert Williams,TURNOVER,None,1:38,4,Celtics,Bucks,115 - 100,1,N/A,N/A,N/A
+116,Thon Maker,SUBSTITUTION,Middleton Khris,1:38,4,Bucks,Celtics,115 - 100,0,N/A,N/A,N/A
+117,Sterling Brown,SUBSTITUTION,Antetokounmpo Giannis,1:38,4,Bucks,Celtics,115 - 100,0,N/A,N/A,N/A
+118,Eric Bledsoe,TURNOVER,Brad Wanamaker,1:23,4,Bucks,Celtics,115 - 100,0,N/A,N/A,N/A
+119,Robert Williams,FG_ASSISTED,Brad Wanamaker,1:19,4,Celtics,Bucks,115 - 102,1,0,2,Dunk
+120,D.J. Wilson,TURNOVER,Marcus Smart,1:02,4,Bucks,Celtics,115 - 102,0,N/A,N/A,N/A
+121,Guerschon Yabusele,FG_UNASSISTED,None,1:00,4,Celtics,Bucks,115 - 104,1,1,3,Jumper
+122,Tony Snell,FOUL_ON_FLOOR,None,1:00,4,Bucks,Celtics,115 - 104,0,N/A,N/A,N/A
+123,Guerschon Yabusele,FT_MISS,None,1:00,4,Celtics,Bucks,115 - 104,1,N/A,1,N/A
+124,Sterling Brown,DEFENSIVE_REBOUND,None,58.5,4,Bucks,Celtics,115 - 104,0,N/A,N/A,N/A
+125,D.J. Wilson,FG_ASSISTED,Sterling Brown,41.2,4,Bucks,Celtics,118 - 104,0,27,3,Jumper
+126,Guerschon Yabusele,FG_ASSISTED,Brad Wanamaker,31.5,4,Celtics,Bucks,118 - 106,1,0,2,Layup
+127,D.J. Wilson,FOUL_ON_FLOOR,None,31.5,4,Bucks,Celtics,118 - 106,0,N/A,N/A,N/A
+128,Guerschon Yabusele,FT,None,31.5,4,Celtics,Bucks,118 - 107,1,N/A,1,N/A
+129,Eric Bledsoe,FG_UNASSISTED,None,8.0,4,Bucks,Celtics,120 - 107,0,0,2,Layup
+130,Robert Williams,Unknown,None,8.0,4,Celtics,Bucks,120 - 107,1,N/A,N/A,N/A
+131,End of,Unknown,None,0.0,4,Celtics,Bucks,120 - 107,1,N/A,N/A,N/A
+132,End of,Unknown,None,0.0,4,Celtics,Bucks,120 - 107,1,N/A,N/A,N/A

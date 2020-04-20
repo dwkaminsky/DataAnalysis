@@ -1,0 +1,486 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Anthony Davis,JUMP_BALL,None,12:00,1,Pelicans,Grizzlies,0 - 0,0,N/A,N/A,N/A
+1,Jaren Jackson,FOUL_ON_FLOOR,None,11:36,1,Grizzlies,Pelicans,0 - 0,1,N/A,N/A,N/A
+2,Kenrich Williams,FT,None,11:36,1,Pelicans,Grizzlies,1 - 0,0,N/A,1,N/A
+3,Kenrich Williams,FT_MISS,None,11:36,1,Pelicans,Grizzlies,1 - 0,0,N/A,1,N/A
+4,Justin Holiday,DEFENSIVE_REBOUND,None,11:33,1,Grizzlies,Pelicans,1 - 0,1,N/A,N/A,N/A
+5,Avery Bradley,TURNOVER,None,11:20,1,Grizzlies,Pelicans,1 - 0,1,N/A,N/A,N/A
+6,Anthony Davis,FG_ASSISTED,Jrue Holiday,11:11,1,Pelicans,Grizzlies,3 - 0,0,0,2,Dunk
+7,Jaren Jackson,FG_MISS,None,10:56,1,Grizzlies,Pelicans,3 - 0,1,23,3,Jumper
+8,Frank Jackson,JUMP_BALL,None,10:51,1,Grizzlies,Pelicans,3 - 0,1,N/A,N/A,N/A
+9,Team,OFFENSIVE_REBOUND,None,10:51,1,Grizzlies,Pelicans,3 - 0,1,N/A,N/A,N/A
+10,Mike Conley,FG_MISS,None,10:48,1,Grizzlies,Pelicans,3 - 0,1,26,3,Jumper
+11,Anthony Davis,DEFENSIVE_REBOUND,None,10:45,1,Pelicans,Grizzlies,3 - 0,0,N/A,N/A,N/A
+12,Darius Miller,FG_ASSISTED,Anthony Davis,10:28,1,Pelicans,Grizzlies,6 - 0,0,26,3,Jumper
+13,Ivan Rabb,FG_MISS,None,9:59,1,Grizzlies,Pelicans,6 - 0,1,0,2,Layup
+14,Jrue Holiday,DEFENSIVE_REBOUND,None,9:57,1,Pelicans,Grizzlies,6 - 0,0,N/A,N/A,N/A
+15,Kenrich Williams,FG_MISS,None,9:51,1,Pelicans,Grizzlies,6 - 0,0,26,3,Jumper
+16,Justin Holiday,DEFENSIVE_REBOUND,None,9:47,1,Grizzlies,Pelicans,6 - 0,1,N/A,N/A,N/A
+17,Ivan Rabb,FG_ASSISTED,Mike Conley,9:34,1,Grizzlies,Pelicans,6 - 2,1,0,2,Layup
+18,Kenrich Williams,FOUL_ON_FLOOR,None,9:34,1,Pelicans,Grizzlies,6 - 2,0,N/A,N/A,N/A
+19,Ivan Rabb,FT_MISS,None,9:34,1,Grizzlies,Pelicans,6 - 2,1,N/A,1,N/A
+20,Kenrich Williams,DEFENSIVE_REBOUND,None,9:32,1,Pelicans,Grizzlies,6 - 2,0,N/A,N/A,N/A
+21,Avery Bradley,FOUL_ON_FLOOR,None,9:25,1,Grizzlies,Pelicans,6 - 2,1,N/A,N/A,N/A
+22,Jrue Holiday,TURNOVER,Jaren Jackson,9:18,1,Pelicans,Grizzlies,6 - 2,0,N/A,N/A,N/A
+23,Avery Bradley,FG_MISS,None,9:13,1,Grizzlies,Pelicans,6 - 2,1,22,3,Jumper
+24,Frank Jackson,DEFENSIVE_REBOUND,None,9:10,1,Pelicans,Grizzlies,6 - 2,0,N/A,N/A,N/A
+25,Jrue Holiday,FG_UNASSISTED,None,9:00,1,Pelicans,Grizzlies,8 - 2,0,-,3,Jumper
+26,Team,Unknown,None,8:59,1,Grizzlies,Pelicans,8 - 2,1,N/A,N/A,N/A
+27,Mike Conley,FG_MISS,None,8:46,1,Grizzlies,Pelicans,8 - 2,1,-,3,Jumper
+28,Kenrich Williams,DEFENSIVE_REBOUND,None,8:43,1,Pelicans,Grizzlies,8 - 2,0,N/A,N/A,N/A
+29,Jaren Jackson,FOUL_ON_FLOOR,None,8:35,1,Grizzlies,Pelicans,8 - 2,1,N/A,N/A,N/A
+30,Jrue Holiday,FT_MISS,None,8:35,1,Pelicans,Grizzlies,8 - 2,0,N/A,1,N/A
+31,Team,OFFENSIVE_REBOUND,None,8:35,1,Pelicans,Grizzlies,8 - 2,0,N/A,N/A,N/A
+32,Joakim Noah,SUBSTITUTION,Jackson Jaren,8:35,1,Grizzlies,Pelicans,8 - 2,1,N/A,N/A,N/A
+33,Jrue Holiday,FT_MISS,None,8:35,1,Pelicans,Grizzlies,8 - 2,0,N/A,1,N/A
+34,Joakim Noah,DEFENSIVE_REBOUND,None,8:33,1,Grizzlies,Pelicans,8 - 2,1,N/A,N/A,N/A
+35,Avery Bradley,TURNOVER,Jrue Holiday,8:14,1,Grizzlies,Pelicans,8 - 2,1,N/A,N/A,N/A
+36,Frank Jackson,FG_ASSISTED,Jrue Holiday,8:09,1,Pelicans,Grizzlies,10 - 2,0,-,3,Jumper
+37,Avery Bradley,FG_ASSISTED,Justin Holiday,7:49,1,Grizzlies,Pelicans,10 - 5,1,26,3,Jumper
+38,Frank Jackson,FG_MISS,None,7:40,1,Pelicans,Grizzlies,10 - 5,0,26,3,Jumper
+39,Kenrich Williams,OFFENSIVE_REBOUND,None,7:37,1,Pelicans,Grizzlies,10 - 5,0,N/A,N/A,N/A
+40,Darius Miller,FG_MISS,None,7:29,1,Pelicans,Grizzlies,10 - 5,0,23,3,Jumper
+41,Kenrich Williams,OFFENSIVE_REBOUND,None,7:26,1,Pelicans,Grizzlies,10 - 5,0,N/A,N/A,N/A
+42,Kenrich Williams,FG_UNASSISTED,None,7:25,1,Pelicans,Grizzlies,12 - 5,0,-,3,Jumper
+43,Kenrich Williams,FOUL_ON_FLOOR,None,7:09,1,Pelicans,Grizzlies,12 - 5,0,N/A,N/A,N/A
+44,Mike Conley,FT,None,7:09,1,Grizzlies,Pelicans,12 - 6,1,N/A,1,N/A
+45,Julius Randle,SUBSTITUTION,Williams Kenrich,7:09,1,Pelicans,Grizzlies,12 - 6,0,N/A,N/A,N/A
+46,Mike Conley,FT,None,7:09,1,Grizzlies,Pelicans,12 - 7,1,N/A,1,N/A
+47,Anthony Davis,FG_ASSISTED,Darius Miller,6:47,1,Pelicans,Grizzlies,14 - 7,0,0,2,Dunk
+48,Darius Miller,FOUL_ON_FLOOR,None,6:33,1,Pelicans,Grizzlies,14 - 7,0,N/A,N/A,N/A
+49,Joakim Noah,FG_MISS,Anthony Davis,6:21,1,Pelicans,Grizzlies,14 - 7,1,6,3,Jumper
+50,Team,OFFENSIVE_REBOUND,None,6:21,1,Grizzlies,Pelicans,14 - 7,1,N/A,N/A,N/A
+51,Jrue Holiday,Unknown,None,6:21,1,Pelicans,Grizzlies,14 - 7,0,N/A,N/A,N/A
+52,Tim Frazier,SUBSTITUTION,Holiday Jrue,6:21,1,Pelicans,Grizzlies,14 - 7,0,N/A,N/A,N/A
+53,Justin Holiday,FG_MISS,None,6:08,1,Grizzlies,Pelicans,14 - 7,1,21,3,Jumper
+54,Tim Frazier,DEFENSIVE_REBOUND,None,6:04,1,Pelicans,Grizzlies,14 - 7,0,N/A,N/A,N/A
+55,Joakim Noah,FOUL_ON_FLOOR,None,5:43,1,Grizzlies,Pelicans,14 - 7,1,N/A,N/A,N/A
+56,Delon Wright,SUBSTITUTION,Bradley Avery,5:43,1,Grizzlies,Pelicans,14 - 7,1,N/A,N/A,N/A
+57,E'Twaun Moore,SUBSTITUTION,Miller Darius,5:43,1,Pelicans,Grizzlies,14 - 7,0,N/A,N/A,N/A
+58,Anthony Davis,FT_MISS,None,5:43,1,Pelicans,Grizzlies,14 - 7,0,N/A,1,N/A
+59,Team,OFFENSIVE_REBOUND,None,5:43,1,Pelicans,Grizzlies,14 - 7,0,N/A,N/A,N/A
+60,Anthony Davis,FT_MISS,None,5:43,1,Pelicans,Grizzlies,14 - 7,0,N/A,1,N/A
+61,Joakim Noah,DEFENSIVE_REBOUND,None,5:41,1,Grizzlies,Pelicans,14 - 7,1,N/A,N/A,N/A
+62,Tim Frazier,FOUL_ON_FLOOR,None,5:26,1,Pelicans,Grizzlies,14 - 7,0,N/A,N/A,N/A
+63,Mike Conley,FT,None,5:26,1,Grizzlies,Pelicans,14 - 8,1,N/A,1,N/A
+64,Cheick Diallo,SUBSTITUTION,Davis Anthony,5:26,1,Pelicans,Grizzlies,14 - 8,0,N/A,N/A,N/A
+65,Mike Conley,FT,None,5:26,1,Grizzlies,Pelicans,14 - 9,1,N/A,1,N/A
+66,Julius Randle,FG_ASSISTED,Tim Frazier,5:17,1,Pelicans,Grizzlies,16 - 9,0,14,3,Jumper
+67,Delon Wright,TURNOVER,Julius Randle,4:56,1,Grizzlies,Pelicans,16 - 9,1,N/A,N/A,N/A
+68,Julius Randle,FG_ASSISTED,Tim Frazier,4:52,1,Pelicans,Grizzlies,18 - 9,0,-,3,Jumper
+69,Delon Wright,FOUL_ON_FLOOR,None,4:52,1,Grizzlies,Pelicans,18 - 9,1,N/A,N/A,N/A
+70,Bruno Caboclo,SUBSTITUTION,Rabb Ivan,4:52,1,Grizzlies,Pelicans,18 - 9,1,N/A,N/A,N/A
+71,Jevon Carter,SUBSTITUTION,Conley Mike,4:52,1,Grizzlies,Pelicans,18 - 9,1,N/A,N/A,N/A
+72,Julius Randle,FT_MISS,None,4:52,1,Pelicans,Grizzlies,18 - 9,0,N/A,1,N/A
+73,Team,OFFENSIVE_REBOUND,None,4:52,1,Pelicans,Grizzlies,18 - 9,0,N/A,N/A,N/A
+74,Bruno Caboclo,FOUL_ON_FLOOR,None,4:52,1,Grizzlies,Pelicans,18 - 9,1,N/A,N/A,N/A
+75,Tim Frazier,FT,None,4:52,1,Pelicans,Grizzlies,19 - 9,0,N/A,1,N/A
+76,Tim Frazier,FT,None,4:52,1,Pelicans,Grizzlies,20 - 9,0,N/A,1,N/A
+77,Bruno Caboclo,FG_ASSISTED,Jevon Carter,4:31,1,Grizzlies,Pelicans,20 - 11,1,0,2,Layup
+78,Cheick Diallo,FG_ASSISTED,Julius Randle,4:17,1,Pelicans,Grizzlies,22 - 11,0,0,2,Dunk
+79,Bruno Caboclo,FOUL_ON_FLOOR,None,4:17,1,Grizzlies,Pelicans,22 - 11,1,N/A,N/A,N/A
+80,CJ Miles,SUBSTITUTION,Caboclo Bruno,4:17,1,Grizzlies,Pelicans,22 - 11,1,N/A,N/A,N/A
+81,Cheick Diallo,FT_MISS,None,4:17,1,Pelicans,Grizzlies,22 - 11,0,N/A,1,N/A
+82,Justin Holiday,DEFENSIVE_REBOUND,None,4:15,1,Grizzlies,Pelicans,22 - 11,1,N/A,N/A,N/A
+83,Jevon Carter,FG_MISS,None,4:03,1,Grizzlies,Pelicans,22 - 11,1,0,2,Layup
+84,Joakim Noah,OFFENSIVE_REBOUND,None,3:59,1,Grizzlies,Pelicans,22 - 11,1,N/A,N/A,N/A
+85,Joakim Noah,FG_MISS,None,3:59,1,Grizzlies,Pelicans,22 - 11,1, ,3,Jumper
+86,Julius Randle,DEFENSIVE_REBOUND,None,3:59,1,Pelicans,Grizzlies,22 - 11,0,N/A,N/A,N/A
+87,Cheick Diallo,FG_ASSISTED,Julius Randle,3:54,1,Pelicans,Grizzlies,24 - 11,0, ,3,Jumper
+88,Team,Unknown,None,3:53,1,Grizzlies,Pelicans,24 - 11,1,N/A,N/A,N/A
+89,Justin Holiday,FG_MISS,None,3:38,1,Grizzlies,Pelicans,24 - 11,1,25,3,Jumper
+90,Joakim Noah,OFFENSIVE_REBOUND,None,3:36,1,Grizzlies,Pelicans,24 - 11,1,N/A,N/A,N/A
+91,Frank Jackson,FOUL_ON_FLOOR,None,3:26,1,Pelicans,Grizzlies,24 - 11,0,N/A,N/A,N/A
+92,Delon Wright,FT_MISS,None,3:26,1,Grizzlies,Pelicans,24 - 11,1,N/A,1,N/A
+93,Team,OFFENSIVE_REBOUND,None,3:26,1,Grizzlies,Pelicans,24 - 11,1,N/A,N/A,N/A
+94,Stanley Johnson,SUBSTITUTION,Jackson Frank,3:26,1,Pelicans,Grizzlies,24 - 11,0,N/A,N/A,N/A
+95,Delon Wright,FT,None,3:26,1,Grizzlies,Pelicans,24 - 12,1,N/A,1,N/A
+96,E'Twaun Moore,FG_ASSISTED,Tim Frazier,3:13,1,Pelicans,Grizzlies,26 - 12,0,12,3,Jumper
+97,Joakim Noah,FG_ASSISTED,Justin Holiday,3:01,1,Grizzlies,Pelicans,26 - 14,1,0,2,Dunk
+98,E'Twaun Moore,FG_MISS,None,2:48,1,Pelicans,Grizzlies,26 - 14,0,23,3,Jumper
+99,Joakim Noah,DEFENSIVE_REBOUND,None,2:46,1,Grizzlies,Pelicans,26 - 14,1,N/A,N/A,N/A
+100,Justin Holiday,TURNOVER,None,2:39,1,Grizzlies,Pelicans,26 - 14,1,N/A,N/A,N/A
+101,Ivan Rabb,SUBSTITUTION,Holiday Justin,2:39,1,Grizzlies,Pelicans,26 - 14,1,N/A,N/A,N/A
+102,Julius Randle,FG_MISS,None,2:25,1,Pelicans,Grizzlies,26 - 14,0,26,3,Jumper
+103,Ivan Rabb,DEFENSIVE_REBOUND,None,2:22,1,Grizzlies,Pelicans,26 - 14,1,N/A,N/A,N/A
+104,Ivan Rabb,FG_ASSISTED,CJ Miles,2:13,1,Grizzlies,Pelicans,26 - 16,1, ,3,Jumper
+105,Julius Randle,TURNOVER,Jevon Carter,1:50,1,Pelicans,Grizzlies,26 - 16,0,N/A,N/A,N/A
+106,CJ Miles,FG_MISS,None,1:45,1,Grizzlies,Pelicans,26 - 16,1,27,3,Jumper
+107,Joakim Noah,OFFENSIVE_REBOUND,None,1:42,1,Grizzlies,Pelicans,26 - 16,1,N/A,N/A,N/A
+108,Joakim Noah,FG_UNASSISTED,None,1:41,1,Grizzlies,Pelicans,26 - 18,1, ,3,Jumper
+109,Tim Frazier,TURNOVER,None,1:22,1,Pelicans,Grizzlies,26 - 18,0,N/A,N/A,N/A
+110,Joakim Noah,FG_MISS,Cheick Diallo,1:06,1,Pelicans,Grizzlies,26 - 18,1,0,2,Layup
+111,E'Twaun Moore,DEFENSIVE_REBOUND,None,1:02,1,Pelicans,Grizzlies,26 - 18,0,N/A,N/A,N/A
+112,CJ Miles,FOUL_ON_FLOOR,None,56.7,1,Grizzlies,Pelicans,26 - 18,1,N/A,N/A,N/A
+113,Julius Randle,FT,None,56.7,1,Pelicans,Grizzlies,27 - 18,0,N/A,1,N/A
+114,Julius Randle,FT,None,56.7,1,Pelicans,Grizzlies,28 - 18,0,N/A,1,N/A
+115,Joakim Noah,FG_ASSISTED,Ivan Rabb,40.2,1,Grizzlies,Pelicans,28 - 20,1,0,2,Dunk
+116,E'Twaun Moore,FG_MISS,None,31.1,1,Pelicans,Grizzlies,28 - 20,0,16,3,Jumper
+117,Jevon Carter,DEFENSIVE_REBOUND,None,26.9,1,Grizzlies,Pelicans,28 - 20,1,N/A,N/A,N/A
+118,Jevon Carter,FG_MISS,None,9.5,1,Grizzlies,Pelicans,28 - 20,1,19,3,Jumper
+119,Julius Randle,DEFENSIVE_REBOUND,None,6.7,1,Pelicans,Grizzlies,28 - 20,0,N/A,N/A,N/A
+120,Tim Frazier,FG_MISS,None,1.5,1,Pelicans,Grizzlies,28 - 20,0,25,3,Jumper
+121,Ivan Rabb,DEFENSIVE_REBOUND,None,1.5,1,Grizzlies,Pelicans,28 - 20,1,N/A,N/A,N/A
+122,End of,Unknown,None,0.0,1,Grizzlies,Pelicans,28 - 20,1,N/A,N/A,N/A
+0,Ivan Rabb,FG_ASSISTED,Joakim Noah,11:35,2,Grizzlies,Pelicans,28 - 22,1,0,2,Layup
+1,Julius Randle,FG_MISS,None,11:15,2,Pelicans,Grizzlies,28 - 22,0,27,3,Jumper
+2,Jevon Carter,DEFENSIVE_REBOUND,None,11:11,2,Grizzlies,Pelicans,28 - 22,1,N/A,N/A,N/A
+3,Joakim Noah,FG_ASSISTED,Jevon Carter,11:09,2,Grizzlies,Pelicans,28 - 24,1, ,3,Jumper
+4,Cheick Diallo,FOUL_ON_FLOOR,None,11:09,2,Pelicans,Grizzlies,28 - 24,0,N/A,N/A,N/A
+5,Joakim Noah,FT,None,11:09,2,Grizzlies,Pelicans,28 - 25,1,N/A,1,N/A
+6,E'Twaun Moore,FG_MISS,None,10:55,2,Pelicans,Grizzlies,28 - 25,0,24,3,Jumper
+7,CJ Miles,DEFENSIVE_REBOUND,None,10:54,2,Grizzlies,Pelicans,28 - 25,1,N/A,N/A,N/A
+8,Tim Frazier,FOUL_ON_FLOOR,None,10:46,2,Pelicans,Grizzlies,28 - 25,0,N/A,N/A,N/A
+9,CJ Miles,FG_ASSISTED,Ivan Rabb,10:41,2,Grizzlies,Pelicans,28 - 27,1,0,2,Layup
+10,Team,Unknown,None,10:34,2,Pelicans,Grizzlies,28 - 27,0,N/A,N/A,N/A
+11,Kenrich Williams,SUBSTITUTION,Diallo Cheick,10:34,2,Pelicans,Grizzlies,28 - 27,0,N/A,N/A,N/A
+12,Anthony Davis,SUBSTITUTION,Randle Julius,10:34,2,Pelicans,Grizzlies,28 - 27,0,N/A,N/A,N/A
+13,Joakim Noah,FOUL_ON_FLOOR,None,10:23,2,Grizzlies,Pelicans,28 - 27,1,N/A,N/A,N/A
+14,Stanley Johnson,FG_MISS,None,10:12,2,Pelicans,Grizzlies,28 - 27,0,23,3,Jumper
+15,Ivan Rabb,DEFENSIVE_REBOUND,None,10:10,2,Grizzlies,Pelicans,28 - 27,1,N/A,N/A,N/A
+16,Stanley Johnson,FOUL_ON_FLOOR,None,10:05,2,Pelicans,Grizzlies,28 - 27,0,N/A,N/A,N/A
+17,Delon Wright,FG_UNASSISTED,None,9:51,2,Grizzlies,Pelicans,28 - 29,1, ,3,Jumper
+18,E'Twaun Moore,TURNOVER,Jevon Carter,9:34,2,Pelicans,Grizzlies,28 - 29,0,N/A,N/A,N/A
+19,Delon Wright,FG_MISS,None,9:30,2,Grizzlies,Pelicans,28 - 29,1,26,3,Jumper
+20,Stanley Johnson,DEFENSIVE_REBOUND,None,9:25,2,Pelicans,Grizzlies,28 - 29,0,N/A,N/A,N/A
+21,E'Twaun Moore,FG_ASSISTED,Kenrich Williams,9:10,2,Pelicans,Grizzlies,31 - 29,0, ,3,Jumper
+22,CJ Miles,FG_UNASSISTED,None,8:55,2,Grizzlies,Pelicans,31 - 31,1,11,3,Jumper
+23,Stanley Johnson,FG_MISS,None,8:39,2,Pelicans,Grizzlies,31 - 31,0,26,3,Jumper
+24,Ivan Rabb,DEFENSIVE_REBOUND,None,8:37,2,Grizzlies,Pelicans,31 - 31,1,N/A,N/A,N/A
+25,Joakim Noah,TURNOVER,Stanley Johnson,8:28,2,Grizzlies,Pelicans,31 - 31,1,N/A,N/A,N/A
+26,Kenrich Williams,FG_ASSISTED,Anthony Davis,8:24,2,Pelicans,Grizzlies,33 - 31,0, ,3,Jumper
+27,Team,Unknown,None,8:24,2,Grizzlies,Pelicans,33 - 31,1,N/A,N/A,N/A
+28,Bruno Caboclo,SUBSTITUTION,Rabb Ivan,8:24,2,Grizzlies,Pelicans,33 - 31,1,N/A,N/A,N/A
+29,Jaren Jackson,SUBSTITUTION,Noah Joakim,8:24,2,Grizzlies,Pelicans,33 - 31,1,N/A,N/A,N/A
+30,Frank Jackson,SUBSTITUTION,Frazier Tim,8:24,2,Pelicans,Grizzlies,33 - 31,0,N/A,N/A,N/A
+31,Jrue Holiday,SUBSTITUTION,Moore E'Twaun,8:24,2,Pelicans,Grizzlies,33 - 31,0,N/A,N/A,N/A
+32,Jaren Jackson,FG_MISS,None,8:12,2,Grizzlies,Pelicans,33 - 31,1, ,3,Jumper
+33,Anthony Davis,DEFENSIVE_REBOUND,None,8:08,2,Pelicans,Grizzlies,33 - 31,0,N/A,N/A,N/A
+34,Frank Jackson,FG_MISS,None,8:06,2,Pelicans,Grizzlies,33 - 31,0,0,2,Layup
+35,Kenrich Williams,OFFENSIVE_REBOUND,None,8:01,2,Pelicans,Grizzlies,33 - 31,0,N/A,N/A,N/A
+36,Stanley Johnson,FG_MISS,None,7:54,2,Pelicans,Grizzlies,33 - 31,0,24,3,Jumper
+37,Team,DEFENSIVE_REBOUND,None,7:53,2,Grizzlies,Pelicans,33 - 31,1,N/A,N/A,N/A
+38,Frank Jackson,FOUL_ON_FLOOR,None,7:53,2,Pelicans,Grizzlies,33 - 31,0,N/A,N/A,N/A
+39,Julius Randle,SUBSTITUTION,Johnson Stanley,7:53,2,Pelicans,Grizzlies,33 - 31,0,N/A,N/A,N/A
+40,Delon Wright,FG_MISS,None,7:30,2,Grizzlies,Pelicans,33 - 31,1,8,3,Jumper
+41,Julius Randle,DEFENSIVE_REBOUND,None,7:27,2,Pelicans,Grizzlies,33 - 31,0,N/A,N/A,N/A
+42,Frank Jackson,FG_ASSISTED,Jrue Holiday,7:21,2,Pelicans,Grizzlies,35 - 31,0,8,3,Jumper
+43,Jaren Jackson,FG_MISS,None,7:02,2,Grizzlies,Pelicans,35 - 31,1, ,3,Jumper
+44,Anthony Davis,DEFENSIVE_REBOUND,None,7:00,2,Pelicans,Grizzlies,35 - 31,0,N/A,N/A,N/A
+45,Julius Randle,FG_MISS,None,6:47,2,Pelicans,Grizzlies,35 - 31,0,8,3,Jumper
+46,Delon Wright,DEFENSIVE_REBOUND,None,6:45,2,Grizzlies,Pelicans,35 - 31,1,N/A,N/A,N/A
+47,CJ Miles,FG_MISS,None,6:41,2,Grizzlies,Pelicans,35 - 31,1,26,3,Jumper
+48,Bruno Caboclo,OFFENSIVE_REBOUND,None,6:38,2,Grizzlies,Pelicans,35 - 31,1,N/A,N/A,N/A
+49,Jevon Carter,FG_MISS,None,6:31,2,Grizzlies,Pelicans,35 - 31,1,26,3,Jumper
+50,Kenrich Williams,DEFENSIVE_REBOUND,None,6:29,2,Pelicans,Grizzlies,35 - 31,0,N/A,N/A,N/A
+51,Bruno Caboclo,FOUL_ON_FLOOR,None,6:29,2,Grizzlies,Pelicans,35 - 31,1,N/A,N/A,N/A
+52,Avery Bradley,SUBSTITUTION,Wright Delon,6:29,2,Grizzlies,Pelicans,35 - 31,1,N/A,N/A,N/A
+53,Justin Holiday,SUBSTITUTION,Carter Jevon,6:29,2,Grizzlies,Pelicans,35 - 31,1,N/A,N/A,N/A
+54,Mike Conley,SUBSTITUTION,Miles CJ,6:29,2,Grizzlies,Pelicans,35 - 31,1,N/A,N/A,N/A
+55,Jrue Holiday,FG_UNASSISTED,None,6:12,2,Pelicans,Grizzlies,37 - 31,0,12,3,Jumper
+56,Mike Conley,FG_MISS,None,5:51,2,Grizzlies,Pelicans,37 - 31,1,0,2,Layup
+57,Mike Conley,OFFENSIVE_REBOUND,None,5:48,2,Grizzlies,Pelicans,37 - 31,1,N/A,N/A,N/A
+58,Anthony Davis,FOUL_ON_FLOOR,None,5:37,2,Pelicans,Grizzlies,37 - 31,0,N/A,N/A,N/A
+59,Jaren Jackson,FT,None,5:37,2,Grizzlies,Pelicans,37 - 32,1,N/A,1,N/A
+60,Jaren Jackson,FT,None,5:37,2,Grizzlies,Pelicans,37 - 33,1,N/A,1,N/A
+61,Julius Randle,TURNOVER,None,5:25,2,Pelicans,Grizzlies,37 - 33,0,N/A,N/A,N/A
+62,Mike Conley,FG_UNASSISTED,None,5:13,2,Grizzlies,Pelicans,37 - 35,1,0,2,Layup
+63,Kenrich Williams,FG_MISS,None,4:57,2,Pelicans,Grizzlies,37 - 35,0,26,3,Jumper
+64,Jrue Holiday,OFFENSIVE_REBOUND,None,4:54,2,Pelicans,Grizzlies,37 - 35,0,N/A,N/A,N/A
+65,Frank Jackson,FG_MISS,None,4:53,2,Pelicans,Grizzlies,37 - 35,0,8,3,Jumper
+66,Frank Jackson,OFFENSIVE_REBOUND,None,4:49,2,Pelicans,Grizzlies,37 - 35,0,N/A,N/A,N/A
+67,Frank Jackson,FG_MISS,None,4:48,2,Pelicans,Grizzlies,37 - 35,0, ,3,Jumper
+68,Anthony Davis,OFFENSIVE_REBOUND,None,4:43,2,Pelicans,Grizzlies,37 - 35,0,N/A,N/A,N/A
+69,Anthony Davis,FG_MISS,None,4:43,2,Pelicans,Grizzlies,37 - 35,0, ,3,Jumper
+70,Mike Conley,DEFENSIVE_REBOUND,None,4:43,2,Grizzlies,Pelicans,37 - 35,1,N/A,N/A,N/A
+71,Justin Holiday,FG_MISS,None,4:42,2,Grizzlies,Pelicans,37 - 35,1, ,3,Jumper
+72,Justin Holiday,OFFENSIVE_REBOUND,None,4:42,2,Grizzlies,Pelicans,37 - 35,1,N/A,N/A,N/A
+73,Justin Holiday,FG_UNASSISTED,None,4:36,2,Grizzlies,Pelicans,37 - 37,1, ,3,Jumper
+74,Jrue Holiday,FG_MISS,Bruno Caboclo,4:28,2,Grizzlies,Pelicans,37 - 37,0,2,3,Jumper
+75,Team,OFFENSIVE_REBOUND,None,4:28,2,Pelicans,Grizzlies,37 - 37,0,N/A,N/A,N/A
+76,Frank Jackson,FG_MISS,None,4:25,2,Pelicans,Grizzlies,37 - 37,0,17,3,Jumper
+77,Kenrich Williams,OFFENSIVE_REBOUND,None,4:19,2,Pelicans,Grizzlies,37 - 37,0,N/A,N/A,N/A
+78,Frank Jackson,FG_MISS,None,4:09,2,Pelicans,Grizzlies,37 - 37,0,0,2,Layup
+79,Bruno Caboclo,DEFENSIVE_REBOUND,None,4:09,2,Grizzlies,Pelicans,37 - 37,1,N/A,N/A,N/A
+80,Bruno Caboclo,TURNOVER,Anthony Davis,4:06,2,Grizzlies,Pelicans,37 - 37,1,N/A,N/A,N/A
+81,Justin Holiday,Unknown,None,4:04,2,Grizzlies,Pelicans,37 - 37,1,N/A,N/A,N/A
+82,Ivan Rabb,SUBSTITUTION,Caboclo Bruno,4:04,2,Grizzlies,Pelicans,37 - 37,1,N/A,N/A,N/A
+83,Avery Bradley,FOUL_ON_FLOOR,None,3:59,2,Grizzlies,Pelicans,37 - 37,1,N/A,N/A,N/A
+84,Jrue Holiday,FG_MISS,None,3:53,2,Pelicans,Grizzlies,37 - 37,0,28,3,Jumper
+85,Kenrich Williams,OFFENSIVE_REBOUND,None,3:50,2,Pelicans,Grizzlies,37 - 37,0,N/A,N/A,N/A
+86,Jrue Holiday,FG_ASSISTED,Kenrich Williams,3:48,2,Pelicans,Grizzlies,39 - 37,0, ,3,Jumper
+87,Avery Bradley,FG_MISS,None,3:33,2,Grizzlies,Pelicans,39 - 37,1,26,3,Jumper
+88,Anthony Davis,DEFENSIVE_REBOUND,None,3:30,2,Pelicans,Grizzlies,39 - 37,0,N/A,N/A,N/A
+89,Jrue Holiday,FG_MISS,None,3:21,2,Pelicans,Grizzlies,39 - 37,0,13,3,Jumper
+90,Julius Randle,OFFENSIVE_REBOUND,None,3:19,2,Pelicans,Grizzlies,39 - 37,0,N/A,N/A,N/A
+91,Ivan Rabb,FOUL_ON_FLOOR,None,3:19,2,Grizzlies,Pelicans,39 - 37,1,N/A,N/A,N/A
+92,Frank Jackson,FG_MISS,None,3:12,2,Pelicans,Grizzlies,39 - 37,0,26,3,Jumper
+93,Jrue Holiday,OFFENSIVE_REBOUND,None,3:07,2,Pelicans,Grizzlies,39 - 37,0,N/A,N/A,N/A
+94,Kenrich Williams,FG_ASSISTED,Jrue Holiday,3:06,2,Pelicans,Grizzlies,42 - 37,0,26,3,Jumper
+95,Julius Randle,FOUL_ON_FLOOR,None,2:45,2,Pelicans,Grizzlies,42 - 37,0,N/A,N/A,N/A
+96,Ivan Rabb,FT,None,2:45,2,Grizzlies,Pelicans,42 - 38,1,N/A,1,N/A
+97,Joakim Noah,SUBSTITUTION,Jackson Jaren,2:45,2,Grizzlies,Pelicans,42 - 38,1,N/A,N/A,N/A
+98,Ivan Rabb,FT,None,2:45,2,Grizzlies,Pelicans,42 - 39,1,N/A,1,N/A
+99,Julius Randle,FG_MISS,None,2:24,2,Pelicans,Grizzlies,42 - 39,0,11,3,Jumper
+100,Ivan Rabb,DEFENSIVE_REBOUND,None,2:21,2,Grizzlies,Pelicans,42 - 39,1,N/A,N/A,N/A
+101,Avery Bradley,FG_MISS,None,2:13,2,Grizzlies,Pelicans,42 - 39,1,8,3,Jumper
+102,Anthony Davis,DEFENSIVE_REBOUND,None,2:10,2,Pelicans,Grizzlies,42 - 39,0,N/A,N/A,N/A
+103,Frank Jackson,FG_MISS,None,2:00,2,Pelicans,Grizzlies,42 - 39,0, ,3,Jumper
+104,Ivan Rabb,DEFENSIVE_REBOUND,None,1:57,2,Grizzlies,Pelicans,42 - 39,1,N/A,N/A,N/A
+105,Mike Conley,FG_MISS,None,1:50,2,Grizzlies,Pelicans,42 - 39,1,25,3,Jumper
+106,Kenrich Williams,DEFENSIVE_REBOUND,None,1:46,2,Pelicans,Grizzlies,42 - 39,0,N/A,N/A,N/A
+107,Anthony Davis,FOUL_ON_FLOOR,None,1:39,2,Pelicans,Grizzlies,42 - 39,0,N/A,N/A,N/A
+108,Anthony Davis,TURNOVER,None,1:39,2,Pelicans,Grizzlies,42 - 39,0,N/A,N/A,N/A
+109,Ivan Rabb,FG_MISS,None,1:20,2,Grizzlies,Pelicans,42 - 39,1,20,3,Jumper
+110,Jrue Holiday,DEFENSIVE_REBOUND,None,1:15,2,Pelicans,Grizzlies,42 - 39,0,N/A,N/A,N/A
+111,Frank Jackson,FG_MISS,None,1:09,2,Pelicans,Grizzlies,42 - 39,0,23,3,Jumper
+112,Joakim Noah,DEFENSIVE_REBOUND,None,1:05,2,Grizzlies,Pelicans,42 - 39,1,N/A,N/A,N/A
+113,Justin Holiday,FG_ASSISTED,Joakim Noah,1:02,2,Grizzlies,Pelicans,42 - 41,1,0,2,Dunk
+114,Kenrich Williams,FG_MISS,None,49.8,2,Pelicans,Grizzlies,42 - 41,0,27,3,Jumper
+115,Ivan Rabb,DEFENSIVE_REBOUND,None,47.2,2,Grizzlies,Pelicans,42 - 41,1,N/A,N/A,N/A
+116,Avery Bradley,FG_MISS,None,33.2,2,Grizzlies,Pelicans,42 - 41,1,19,3,Jumper
+117,Ivan Rabb,OFFENSIVE_REBOUND,None,30.0,2,Grizzlies,Pelicans,42 - 41,1,N/A,N/A,N/A
+118,Justin Holiday,FG_MISS,None,28.4,2,Grizzlies,Pelicans,42 - 41,1,25,3,Jumper
+119,Jrue Holiday,DEFENSIVE_REBOUND,None,25.5,2,Pelicans,Grizzlies,42 - 41,0,N/A,N/A,N/A
+120,Jrue Holiday,FG_MISS,None,5.2,2,Pelicans,Grizzlies,42 - 41,0,12,3,Jumper
+121,Julius Randle,OFFENSIVE_REBOUND,None,5.2,2,Pelicans,Grizzlies,42 - 41,0,N/A,N/A,N/A
+122,Julius Randle,FG_UNASSISTED,None,0.0,2,Pelicans,Grizzlies,44 - 41,0,9,3,Jumper
+123,End of,Unknown,None,0.0,2,Grizzlies,Pelicans,44 - 41,1,N/A,N/A,N/A
+0,Jaren Jackson,SUBSTITUTION,Noah Joakim,12:00,3,Grizzlies,Pelicans,44 - 41,1,N/A,N/A,N/A
+1,Darius Miller,SUBSTITUTION,Randle Julius,12:00,3,Pelicans,Grizzlies,44 - 41,0,N/A,N/A,N/A
+2,Ivan Rabb,FG_ASSISTED,Mike Conley,11:45,3,Grizzlies,Pelicans,44 - 43,1,0,2,Dunk
+3,Jrue Holiday,TURNOVER,Avery Bradley,11:32,3,Pelicans,Grizzlies,44 - 43,0,N/A,N/A,N/A
+4,Avery Bradley,FG_UNASSISTED,None,11:30,3,Grizzlies,Pelicans,44 - 45,1, ,3,Jumper
+5,Ivan Rabb,FOUL_ON_FLOOR,None,11:18,3,Grizzlies,Pelicans,44 - 45,1,N/A,N/A,N/A
+6,Anthony Davis,TURNOVER,None,11:07,3,Pelicans,Grizzlies,44 - 45,0,N/A,N/A,N/A
+7,Avery Bradley,FG_ASSISTED,Mike Conley,10:51,3,Grizzlies,Pelicans,44 - 48,1, ,3,Jumper
+8,Jrue Holiday,FG_UNASSISTED,None,10:41,3,Pelicans,Grizzlies,46 - 48,0,0,2,Layup
+9,Avery Bradley,FG_MISS,None,10:27,3,Grizzlies,Pelicans,46 - 48,1,22,3,Jumper
+10,Anthony Davis,DEFENSIVE_REBOUND,None,10:25,3,Pelicans,Grizzlies,46 - 48,0,N/A,N/A,N/A
+11,Darius Miller,FG_MISS,None,10:18,3,Pelicans,Grizzlies,46 - 48,0,15,3,Jumper
+12,Ivan Rabb,DEFENSIVE_REBOUND,None,10:15,3,Grizzlies,Pelicans,46 - 48,1,N/A,N/A,N/A
+13,Justin Holiday,FG_ASSISTED,Avery Bradley,10:10,3,Grizzlies,Pelicans,46 - 51,1, ,3,Jumper
+14,Team,Unknown,None,10:09,3,Pelicans,Grizzlies,46 - 51,0,N/A,N/A,N/A
+15,Darius Miller,FG_ASSISTED,Anthony Davis,9:51,3,Pelicans,Grizzlies,49 - 51,0,23,3,Jumper
+16,Avery Bradley,TURNOVER,Frank Jackson,9:34,3,Grizzlies,Pelicans,49 - 51,1,N/A,N/A,N/A
+17,Frank Jackson,FG_UNASSISTED,None,9:30,3,Pelicans,Grizzlies,51 - 51,0, ,3,Jumper
+18,Justin Holiday,TURNOVER,None,9:13,3,Grizzlies,Pelicans,51 - 51,1,N/A,N/A,N/A
+19,Tim Frazier,SUBSTITUTION,Jackson Frank,9:13,3,Pelicans,Grizzlies,51 - 51,0,N/A,N/A,N/A
+20,Jrue Holiday,FG_MISS,None,9:02,3,Pelicans,Grizzlies,51 - 51,0, ,3,Jumper
+21,Jaren Jackson,DEFENSIVE_REBOUND,None,8:59,3,Grizzlies,Pelicans,51 - 51,1,N/A,N/A,N/A
+22,Justin Holiday,FG_ASSISTED,Ivan Rabb,8:44,3,Grizzlies,Pelicans,51 - 53,1,20,3,Jumper
+23,Darius Miller,FG_ASSISTED,Kenrich Williams,8:20,3,Pelicans,Grizzlies,53 - 53,0,6,3,Jumper
+24,Jaren Jackson,FG_MISS,None,8:02,3,Grizzlies,Pelicans,53 - 53,1,15,3,Jumper
+25,Kenrich Williams,DEFENSIVE_REBOUND,None,7:59,3,Pelicans,Grizzlies,53 - 53,0,N/A,N/A,N/A
+26,Darius Miller,FG_MISS,None,7:50,3,Pelicans,Grizzlies,53 - 53,0,26,3,Jumper
+27,Mike Conley,DEFENSIVE_REBOUND,None,7:48,3,Grizzlies,Pelicans,53 - 53,1,N/A,N/A,N/A
+28,Jaren Jackson,FG_ASSISTED,Mike Conley,7:40,3,Grizzlies,Pelicans,53 - 55,1,5,3,Jumper
+29,Anthony Davis,FG_MISS,None,7:30,3,Pelicans,Grizzlies,53 - 55,0,25,3,Jumper
+30,Jaren Jackson,DEFENSIVE_REBOUND,None,7:26,3,Grizzlies,Pelicans,53 - 55,1,N/A,N/A,N/A
+31,Anthony Davis,FOUL_ON_FLOOR,None,7:18,3,Pelicans,Grizzlies,53 - 55,0,N/A,N/A,N/A
+32,Jaren Jackson,FG_MISS,None,7:06,3,Grizzlies,Pelicans,53 - 55,1,0,2,Layup
+33,Anthony Davis,DEFENSIVE_REBOUND,None,7:04,3,Pelicans,Grizzlies,53 - 55,0,N/A,N/A,N/A
+34,Kenrich Williams,FG_UNASSISTED,None,6:58,3,Pelicans,Grizzlies,55 - 55,0,0,2,Layup
+35,Ivan Rabb,FG_MISS,None,6:39,3,Grizzlies,Pelicans,55 - 55,1,9,3,Jumper
+36,Anthony Davis,DEFENSIVE_REBOUND,None,6:36,3,Pelicans,Grizzlies,55 - 55,0,N/A,N/A,N/A
+37,Jrue Holiday,FG_ASSISTED,Anthony Davis,6:32,3,Pelicans,Grizzlies,57 - 55,0,0,2,Dunk
+38,Team,Unknown,None,6:32,3,Grizzlies,Pelicans,57 - 55,1,N/A,N/A,N/A
+39,Joakim Noah,SUBSTITUTION,Bradley Avery,6:32,3,Grizzlies,Pelicans,57 - 55,1,N/A,N/A,N/A
+40,Delon Wright,SUBSTITUTION,Rabb Ivan,6:32,3,Grizzlies,Pelicans,57 - 55,1,N/A,N/A,N/A
+41,E'Twaun Moore,SUBSTITUTION,Holiday Jrue,6:32,3,Pelicans,Grizzlies,57 - 55,0,N/A,N/A,N/A
+42,Jaren Jackson,FG_MISS,None,6:16,3,Grizzlies,Pelicans,57 - 55,1,7,3,Jumper
+43,Joakim Noah,OFFENSIVE_REBOUND,None,6:12,3,Grizzlies,Pelicans,57 - 55,1,N/A,N/A,N/A
+44,Joakim Noah,FG_UNASSISTED,None,6:12,3,Grizzlies,Pelicans,57 - 57,1, ,3,Jumper
+45,E'Twaun Moore,TURNOVER,None,5:53,3,Pelicans,Grizzlies,57 - 57,0,N/A,N/A,N/A
+46,Joakim Noah,FG_MISS,Kenrich Williams,5:29,3,Pelicans,Grizzlies,57 - 57,1,0,2,Layup
+47,Team,OFFENSIVE_REBOUND,None,5:29,3,Grizzlies,Pelicans,57 - 57,1,N/A,N/A,N/A
+48,shot clock,TURNOVER,None,5:29,3,Grizzlies,Pelicans,57 - 57,1,N/A,N/A,N/A
+49,Darius Miller,FG_MISS,None,5:18,3,Pelicans,Grizzlies,57 - 57,0,25,3,Jumper
+50,Joakim Noah,DEFENSIVE_REBOUND,None,5:15,3,Grizzlies,Pelicans,57 - 57,1,N/A,N/A,N/A
+51,Delon Wright,FG_MISS,None,5:06,3,Grizzlies,Pelicans,57 - 57,1,23,3,Jumper
+52,Anthony Davis,DEFENSIVE_REBOUND,None,5:03,3,Pelicans,Grizzlies,57 - 57,0,N/A,N/A,N/A
+53,Anthony Davis,FG_ASSISTED,Kenrich Williams,4:54,3,Pelicans,Grizzlies,59 - 57,0,0,2,Layup
+54,Joakim Noah,FOUL_ON_FLOOR,None,4:54,3,Grizzlies,Pelicans,59 - 57,1,N/A,N/A,N/A
+55,Julius Randle,SUBSTITUTION,Miller Darius,4:54,3,Pelicans,Grizzlies,59 - 57,0,N/A,N/A,N/A
+56,Anthony Davis,FT,None,4:54,3,Pelicans,Grizzlies,60 - 57,0,N/A,1,N/A
+57,Justin Holiday,FG_ASSISTED,Mike Conley,4:43,3,Grizzlies,Pelicans,60 - 60,1,25,3,Jumper
+58,E'Twaun Moore,FG_MISS,None,4:26,3,Pelicans,Grizzlies,60 - 60,0,9,3,Jumper
+59,Mike Conley,DEFENSIVE_REBOUND,None,4:22,3,Grizzlies,Pelicans,60 - 60,1,N/A,N/A,N/A
+60,Joakim Noah,FG_ASSISTED,Mike Conley,4:18,3,Grizzlies,Pelicans,60 - 62,1,0,2,Dunk
+61,Kenrich Williams's,FG_MISS,Jaren Jackson,3:59,3,Grizzlies,Pelicans,60 - 62,0,0,2,Layup
+62,Team,OFFENSIVE_REBOUND,None,3:59,3,Pelicans,Grizzlies,60 - 62,0,N/A,N/A,N/A
+63,Cheick Diallo,SUBSTITUTION,Davis Anthony,3:59,3,Pelicans,Grizzlies,60 - 62,0,N/A,N/A,N/A
+64,Julius Randle,FG_MISS,None,3:50,3,Pelicans,Grizzlies,60 - 62,0,24,3,Jumper
+65,Joakim Noah,DEFENSIVE_REBOUND,None,3:48,3,Grizzlies,Pelicans,60 - 62,1,N/A,N/A,N/A
+66,Mike Conley,FG_UNASSISTED,None,3:43,3,Grizzlies,Pelicans,60 - 64,1, ,3,Jumper
+67,Cheick Diallo,FOUL_ON_FLOOR,None,3:28,3,Pelicans,Grizzlies,60 - 64,0,N/A,N/A,N/A
+68,Cheick Diallo,TURNOVER,None,3:28,3,Pelicans,Grizzlies,60 - 64,0,N/A,N/A,N/A
+69,Mike Conley,FG_MISS,None,3:10,3,Grizzlies,Pelicans,60 - 64,1,27,3,Jumper
+70,Cheick Diallo,DEFENSIVE_REBOUND,None,3:06,3,Pelicans,Grizzlies,60 - 64,0,N/A,N/A,N/A
+71,E'Twaun Moore,FG_MISS,None,2:59,3,Pelicans,Grizzlies,60 - 64,0,25,3,Jumper
+72,Cheick Diallo,OFFENSIVE_REBOUND,None,2:55,3,Pelicans,Grizzlies,60 - 64,0,N/A,N/A,N/A
+73,Kenrich Williams,FG_MISS,None,2:54,3,Pelicans,Grizzlies,60 - 64,0,26,3,Jumper
+74,E'Twaun Moore,OFFENSIVE_REBOUND,None,2:51,3,Pelicans,Grizzlies,60 - 64,0,N/A,N/A,N/A
+75,E'Twaun Moore,TURNOVER,Jaren Jackson,2:48,3,Pelicans,Grizzlies,60 - 64,0,N/A,N/A,N/A
+76,Tim Frazier,FOUL_ON_FLOOR,None,2:42,3,Pelicans,Grizzlies,60 - 64,0,N/A,N/A,N/A
+77,Team,Unknown,None,2:42,3,Pelicans,Grizzlies,60 - 64,0,N/A,N/A,N/A
+78,CJ Miles,SUBSTITUTION,Holiday Justin,2:42,3,Grizzlies,Pelicans,60 - 64,1,N/A,N/A,N/A
+79,Jevon Carter,SUBSTITUTION,Conley Mike,2:42,3,Grizzlies,Pelicans,60 - 64,1,N/A,N/A,N/A
+80,Joakim Noah,FG_ASSISTED,Delon Wright,2:35,3,Grizzlies,Pelicans,60 - 66,1,0,2,Layup
+81,Darius Miller,SUBSTITUTION,Williams Kenrich,2:17,3,Pelicans,Grizzlies,60 - 66,0,N/A,N/A,N/A
+82,Julius Randle,JUMP_BALL,None,2:14,3,Grizzlies,Pelicans,60 - 66,1,N/A,N/A,N/A
+83,Julius Randle,TURNOVER,None,2:14,3,Pelicans,Grizzlies,60 - 66,0,N/A,N/A,N/A
+84,CJ Miles,FG_ASSISTED,Jaren Jackson,2:04,3,Grizzlies,Pelicans,60 - 68,1,0,2,Layup
+85,Jevon Carter,FOUL_ON_FLOOR,None,1:46,3,Grizzlies,Pelicans,60 - 68,1,N/A,N/A,N/A
+86,Darius Miller,FG_MISS,None,1:38,3,Pelicans,Grizzlies,60 - 68,0,27,3,Jumper
+87,Jaren Jackson,DEFENSIVE_REBOUND,None,1:36,3,Grizzlies,Pelicans,60 - 68,1,N/A,N/A,N/A
+88,Jaren Jackson,FG_MISS,None,1:31,3,Grizzlies,Pelicans,60 - 68,1,7,3,Jumper
+89,Cheick Diallo,DEFENSIVE_REBOUND,None,1:22,3,Pelicans,Grizzlies,60 - 68,0,N/A,N/A,N/A
+90,Tim Frazier,TURNOVER,None,1:13,3,Pelicans,Grizzlies,60 - 68,0,N/A,N/A,N/A
+91,Tim Frazier,FOUL_ON_FLOOR,None,1:12,3,Pelicans,Grizzlies,60 - 68,0,N/A,N/A,N/A
+92,CJ Miles,FG_ASSISTED,Delon Wright,1:07,3,Grizzlies,Pelicans,60 - 70,1,22,3,Jumper
+93,E'Twaun Moore,FG_MISS,None,44.1,3,Pelicans,Grizzlies,60 - 70,0,0,2,Layup
+94,Julius Randle,OFFENSIVE_REBOUND,None,44.1,3,Pelicans,Grizzlies,60 - 70,0,N/A,N/A,N/A
+95,Julius Randle,FG_UNASSISTED,None,44.1,3,Pelicans,Grizzlies,62 - 70,0, ,3,Jumper
+96,Julius Randle,FOUL_ON_FLOOR,None,32.0,3,Pelicans,Grizzlies,62 - 70,0,N/A,N/A,N/A
+97,Joakim Noah,FT,None,32.0,3,Grizzlies,Pelicans,62 - 71,1,N/A,1,N/A
+98,Bruno Caboclo,SUBSTITUTION,Jackson Jaren,32.0,3,Grizzlies,Pelicans,62 - 71,1,N/A,N/A,N/A
+99,Joakim Noah,FT,None,32.0,3,Grizzlies,Pelicans,62 - 72,1,N/A,1,N/A
+100,Julius Randle,FG_MISS,None,10.1,3,Pelicans,Grizzlies,62 - 72,0,0,2,Layup
+101,Joakim Noah,DEFENSIVE_REBOUND,None,8.0,3,Grizzlies,Pelicans,62 - 72,1,N/A,N/A,N/A
+102,Jevon Carter,FG_MISS,None,1.0,3,Grizzlies,Pelicans,62 - 72,1,23,3,Jumper
+103,Team,OFFENSIVE_REBOUND,None,1.0,3,Grizzlies,Pelicans,62 - 72,1,N/A,N/A,N/A
+104,End of,Unknown,None,0.0,3,Grizzlies,Pelicans,62 - 72,1,N/A,N/A,N/A
+0,Kenrich Williams,SUBSTITUTION,Frazier Tim,12:00,4,Pelicans,Grizzlies,62 - 72,0,N/A,N/A,N/A
+1,Ian Clark,SUBSTITUTION,Diallo Cheick,12:00,4,Pelicans,Grizzlies,62 - 72,0,N/A,N/A,N/A
+2,Jrue Holiday,SUBSTITUTION,Miller Darius,12:00,4,Pelicans,Grizzlies,62 - 72,0,N/A,N/A,N/A
+3,Anthony Davis,SUBSTITUTION,Moore E'Twaun,12:00,4,Pelicans,Grizzlies,62 - 72,0,N/A,N/A,N/A
+4,Jrue Holiday,FG_MISS,None,11:43,4,Pelicans,Grizzlies,62 - 72,0,11,3,Jumper
+5,Team,OFFENSIVE_REBOUND,None,11:42,4,Pelicans,Grizzlies,62 - 72,0,N/A,N/A,N/A
+6,Bruno Caboclo,FOUL_ON_FLOOR,None,11:42,4,Grizzlies,Pelicans,62 - 72,1,N/A,N/A,N/A
+7,Delon Wright,FOUL_ON_FLOOR,None,11:35,4,Grizzlies,Pelicans,62 - 72,1,N/A,N/A,N/A
+8,Anthony Davis,FT,None,11:35,4,Pelicans,Grizzlies,63 - 72,0,N/A,1,N/A
+9,Anthony Davis,FT,None,11:35,4,Pelicans,Grizzlies,64 - 72,0,N/A,1,N/A
+10,Delon Wright,FG_UNASSISTED,None,11:22,4,Grizzlies,Pelicans,64 - 74,1,12,3,Jumper
+11,Ian Clark,FG_MISS,None,11:08,4,Pelicans,Grizzlies,64 - 74,0,27,3,Jumper
+12,Joakim Noah,DEFENSIVE_REBOUND,None,11:05,4,Grizzlies,Pelicans,64 - 74,1,N/A,N/A,N/A
+13,Bruno Caboclo,FG_MISS,None,10:53,4,Grizzlies,Pelicans,64 - 74,1,23,3,Jumper
+14,Anthony Davis,DEFENSIVE_REBOUND,None,10:51,4,Pelicans,Grizzlies,64 - 74,0,N/A,N/A,N/A
+15,Jrue Holiday,FG_UNASSISTED,None,10:46,4,Pelicans,Grizzlies,66 - 74,0,4,3,Jumper
+16,Bruno Caboclo,FG_MISS,None,10:28,4,Grizzlies,Pelicans,66 - 74,1,26,3,Jumper
+17,Jrue Holiday,DEFENSIVE_REBOUND,None,10:26,4,Pelicans,Grizzlies,66 - 74,0,N/A,N/A,N/A
+18,Bruno Caboclo,FOUL_ON_FLOOR,None,10:21,4,Grizzlies,Pelicans,66 - 74,1,N/A,N/A,N/A
+19,Julius Randle,FT,None,10:21,4,Pelicans,Grizzlies,67 - 74,0,N/A,1,N/A
+20,Ivan Rabb,SUBSTITUTION,Caboclo Bruno,10:21,4,Grizzlies,Pelicans,67 - 74,1,N/A,N/A,N/A
+21,Julius Randle,FT_MISS,None,10:21,4,Pelicans,Grizzlies,67 - 74,0,N/A,1,N/A
+22,Anthony Davis,OFFENSIVE_REBOUND,None,10:15,4,Pelicans,Grizzlies,67 - 74,0,N/A,N/A,N/A
+23,Jrue Holiday,FG_MISS,None,10:10,4,Pelicans,Grizzlies,67 - 74,0, ,3,Jumper
+24,Jrue Holiday,OFFENSIVE_REBOUND,None,10:08,4,Pelicans,Grizzlies,67 - 74,0,N/A,N/A,N/A
+25,Anthony Davis,FG_MISS,None,10:05,4,Pelicans,Grizzlies,67 - 74,0,18,3,Jumper
+26,Team,DEFENSIVE_REBOUND,None,10:04,4,Grizzlies,Pelicans,67 - 74,1,N/A,N/A,N/A
+27,Jevon Carter,TURNOVER,None,9:50,4,Grizzlies,Pelicans,67 - 74,1,N/A,N/A,N/A
+28,Julius Randle,FG_ASSISTED,Anthony Davis,9:35,4,Pelicans,Grizzlies,69 - 74,0,0,2,Layup
+29,Team,Unknown,None,9:33,4,Grizzlies,Pelicans,69 - 74,1,N/A,N/A,N/A
+30,Mike Conley,SUBSTITUTION,Carter Jevon,9:33,4,Grizzlies,Pelicans,69 - 74,1,N/A,N/A,N/A
+31,CJ Miles,FG_ASSISTED,Mike Conley,9:16,4,Grizzlies,Pelicans,69 - 77,1,26,3,Jumper
+32,Ian Clark,FG_MISS,None,9:00,4,Pelicans,Grizzlies,69 - 77,0,24,3,Jumper
+33,CJ Miles,DEFENSIVE_REBOUND,None,8:57,4,Grizzlies,Pelicans,69 - 77,1,N/A,N/A,N/A
+34,Joakim Noah,FG_MISS,None,8:45,4,Grizzlies,Pelicans,69 - 77,1,22,3,Jumper
+35,Kenrich Williams,DEFENSIVE_REBOUND,None,8:41,4,Pelicans,Grizzlies,69 - 77,0,N/A,N/A,N/A
+36,Julius Randle,TURNOVER,None,8:37,4,Pelicans,Grizzlies,69 - 77,0,N/A,N/A,N/A
+37,Julius Randle,TURNOVER,None,8:37,4,Pelicans,Grizzlies,69 - 77,0,N/A,N/A,N/A
+38,Joakim Noah,FG_ASSISTED,CJ Miles,8:23,4,Grizzlies,Pelicans,69 - 79,1,0,2,Dunk
+39,Julius Randle,FG_ASSISTED,Anthony Davis,8:09,4,Pelicans,Grizzlies,71 - 79,0,0,2,Dunk
+40,Delon Wright,FG_MISS,None,7:49,4,Grizzlies,Pelicans,71 - 79,1,25,3,Jumper
+41,Anthony Davis,DEFENSIVE_REBOUND,None,7:46,4,Pelicans,Grizzlies,71 - 79,0,N/A,N/A,N/A
+42,Ian Clark,TURNOVER,Delon Wright,7:38,4,Pelicans,Grizzlies,71 - 79,0,N/A,N/A,N/A
+43,Delon Wright,FG_ASSISTED,Mike Conley,7:35,4,Grizzlies,Pelicans,71 - 81,1, ,3,Jumper
+44,Anthony Davis,Unknown,None,7:35,4,Pelicans,Grizzlies,71 - 81,0,N/A,N/A,N/A
+45,Ian Clark,FG_ASSISTED,Jrue Holiday,7:09,4,Pelicans,Grizzlies,73 - 81,0,9,3,Jumper
+46,CJ Miles,FG_ASSISTED,Joakim Noah,6:52,4,Grizzlies,Pelicans,73 - 83,1,20,3,Jumper
+47,Ivan Rabb,FOUL_ON_FLOOR,None,6:32,4,Grizzlies,Pelicans,73 - 83,1,N/A,N/A,N/A
+48,Jaren Jackson,SUBSTITUTION,Wright Delon,6:32,4,Grizzlies,Pelicans,73 - 83,1,N/A,N/A,N/A
+49,Avery Bradley,SUBSTITUTION,Rabb Ivan,6:32,4,Grizzlies,Pelicans,73 - 83,1,N/A,N/A,N/A
+50,Frank Jackson,SUBSTITUTION,Clark Ian,6:32,4,Pelicans,Grizzlies,73 - 83,0,N/A,N/A,N/A
+51,Darius Miller,SUBSTITUTION,Randle Julius,6:32,4,Pelicans,Grizzlies,73 - 83,0,N/A,N/A,N/A
+52,Avery Bradley,FOUL_ON_FLOOR,None,6:30,4,Grizzlies,Pelicans,73 - 83,1,N/A,N/A,N/A
+53,Anthony Davis,FT,None,6:30,4,Pelicans,Grizzlies,74 - 83,0,N/A,1,N/A
+54,Anthony Davis,FT,None,6:30,4,Pelicans,Grizzlies,75 - 83,0,N/A,1,N/A
+55,Joakim Noah,FG_MISS,Anthony Davis,6:18,4,Pelicans,Grizzlies,75 - 83,1,8,3,Jumper
+56,Team,OFFENSIVE_REBOUND,None,6:18,4,Grizzlies,Pelicans,75 - 83,1,N/A,N/A,N/A
+57,Mike Conley,FG_MISS,None,6:15,4,Grizzlies,Pelicans,75 - 83,1,26,3,Jumper
+58,Team,OFFENSIVE_REBOUND,None,6:13,4,Grizzlies,Pelicans,75 - 83,1,N/A,N/A,N/A
+59,Jrue Holiday,JUMP_BALL,None,6:10,4,Grizzlies,Pelicans,75 - 83,1,N/A,N/A,N/A
+60,Mike Conley,FG_MISS,None,6:00,4,Grizzlies,Pelicans,75 - 83,1,26,3,Jumper
+61,Anthony Davis,DEFENSIVE_REBOUND,None,5:57,4,Pelicans,Grizzlies,75 - 83,0,N/A,N/A,N/A
+62,Joakim Noah,FOUL_ON_FLOOR,None,5:55,4,Grizzlies,Pelicans,75 - 83,1,N/A,N/A,N/A
+63,Anthony Davis,FT_MISS,None,5:55,4,Pelicans,Grizzlies,75 - 83,0,N/A,1,N/A
+64,Team,OFFENSIVE_REBOUND,None,5:55,4,Pelicans,Grizzlies,75 - 83,0,N/A,N/A,N/A
+65,Justin Holiday,SUBSTITUTION,Noah Joakim,5:55,4,Grizzlies,Pelicans,75 - 83,1,N/A,N/A,N/A
+66,Anthony Davis,FT,None,5:55,4,Pelicans,Grizzlies,76 - 83,0,N/A,1,N/A
+67,Anthony Davis,FOUL_ON_FLOOR,None,5:47,4,Pelicans,Grizzlies,76 - 83,0,N/A,N/A,N/A
+68,Jaren Jackson,FT_MISS,None,5:47,4,Grizzlies,Pelicans,76 - 83,1,N/A,1,N/A
+69,Team,OFFENSIVE_REBOUND,None,5:47,4,Grizzlies,Pelicans,76 - 83,1,N/A,N/A,N/A
+70,Julius Randle,SUBSTITUTION,Davis Anthony,5:47,4,Pelicans,Grizzlies,76 - 83,0,N/A,N/A,N/A
+71,Jaren Jackson,FT,None,5:47,4,Grizzlies,Pelicans,76 - 84,1,N/A,1,N/A
+72,Jrue Holiday,FG_ASSISTED,Darius Miller,5:34,4,Pelicans,Grizzlies,79 - 84,0,25,3,Jumper
+73,Justin Holiday,FG_ASSISTED,Avery Bradley,5:16,4,Grizzlies,Pelicans,79 - 87,1,23,3,Jumper
+74,Justin Holiday,FOUL_ON_FLOOR,None,5:05,4,Grizzlies,Pelicans,79 - 87,1,N/A,N/A,N/A
+75,Julius Randle,FT,None,5:05,4,Pelicans,Grizzlies,80 - 87,0,N/A,1,N/A
+76,Julius Randle,FT,None,5:05,4,Pelicans,Grizzlies,81 - 87,0,N/A,1,N/A
+77,CJ Miles,FG_MISS,Julius Randle,4:48,4,Pelicans,Grizzlies,81 - 87,1,0,2,Layup
+78,Frank Jackson,DEFENSIVE_REBOUND,None,4:45,4,Pelicans,Grizzlies,81 - 87,0,N/A,N/A,N/A
+79,Julius Randle,FG_ASSISTED,Kenrich Williams,4:41,4,Pelicans,Grizzlies,83 - 87,0, ,3,Jumper
+80,Jaren Jackson,FG_ASSISTED,Mike Conley,4:26,4,Grizzlies,Pelicans,83 - 90,1,26,3,Jumper
+81,Julius Randle,FOUL_ON_FLOOR,None,4:26,4,Pelicans,Grizzlies,83 - 90,0,N/A,N/A,N/A
+82,Joakim Noah,SUBSTITUTION,Miles CJ,4:26,4,Grizzlies,Pelicans,83 - 90,1,N/A,N/A,N/A
+83,Jaren Jackson,FT,None,4:26,4,Grizzlies,Pelicans,83 - 91,1,N/A,1,N/A
+84,Team,Unknown,None,4:26,4,Pelicans,Grizzlies,83 - 91,0,N/A,N/A,N/A
+85,Anthony Davis,SUBSTITUTION,Miller Darius,4:26,4,Pelicans,Grizzlies,83 - 91,0,N/A,N/A,N/A
+86,Anthony Davis,FG_MISS,None,4:08,4,Pelicans,Grizzlies,83 - 91,0,12,3,Jumper
+87,Joakim Noah,DEFENSIVE_REBOUND,None,4:04,4,Grizzlies,Pelicans,83 - 91,1,N/A,N/A,N/A
+88,Avery Bradley,FG_MISS,None,3:45,4,Grizzlies,Pelicans,83 - 91,1,24,3,Jumper
+89,Mike Conley,OFFENSIVE_REBOUND,None,3:42,4,Grizzlies,Pelicans,83 - 91,1,N/A,N/A,N/A
+90,Kenrich Williams,FOUL_ON_FLOOR,None,3:42,4,Pelicans,Grizzlies,83 - 91,0,N/A,N/A,N/A
+91,Avery Bradley,FG_MISS,None,3:37,4,Grizzlies,Pelicans,83 - 91,1,17,3,Jumper
+92,Joakim Noah,OFFENSIVE_REBOUND,None,3:34,4,Grizzlies,Pelicans,83 - 91,1,N/A,N/A,N/A
+93,Mike Conley,FG_MISS,None,3:27,4,Grizzlies,Pelicans,83 - 91,1,26,3,Jumper
+94,Anthony Davis,DEFENSIVE_REBOUND,None,3:24,4,Pelicans,Grizzlies,83 - 91,0,N/A,N/A,N/A
+95,Mike Conley,FOUL_ON_FLOOR,None,3:18,4,Grizzlies,Pelicans,83 - 91,1,N/A,N/A,N/A
+96,Julius Randle,FT_MISS,None,3:18,4,Pelicans,Grizzlies,83 - 91,0,N/A,1,N/A
+97,Team,OFFENSIVE_REBOUND,None,3:18,4,Pelicans,Grizzlies,83 - 91,0,N/A,N/A,N/A
+98,Julius Randle,FT,None,3:18,4,Pelicans,Grizzlies,84 - 91,0,N/A,1,N/A
+99,Jaren Jackson,FG_MISS,None,3:01,4,Grizzlies,Pelicans,84 - 91,1, ,3,Jumper
+100,Anthony Davis,DEFENSIVE_REBOUND,None,2:55,4,Pelicans,Grizzlies,84 - 91,0,N/A,N/A,N/A
+101,Mike Conley,FOUL_ON_FLOOR,None,2:53,4,Grizzlies,Pelicans,84 - 91,1,N/A,N/A,N/A
+102,Julius Randle,FT_MISS,None,2:53,4,Pelicans,Grizzlies,84 - 91,0,N/A,1,N/A
+103,Team,OFFENSIVE_REBOUND,None,2:53,4,Pelicans,Grizzlies,84 - 91,0,N/A,N/A,N/A
+104,Ivan Rabb,SUBSTITUTION,Noah Joakim,2:53,4,Grizzlies,Pelicans,84 - 91,1,N/A,N/A,N/A
+105,Julius Randle,FT,None,2:53,4,Pelicans,Grizzlies,85 - 91,0,N/A,1,N/A
+106,Jaren Jackson,FG_ASSISTED,Justin Holiday,2:41,4,Grizzlies,Pelicans,85 - 94,1,26,3,Jumper
+107,Kenrich Williams,FG_MISS,None,2:26,4,Pelicans,Grizzlies,85 - 94,0,26,3,Jumper
+108,Avery Bradley,DEFENSIVE_REBOUND,None,2:23,4,Grizzlies,Pelicans,85 - 94,1,N/A,N/A,N/A
+109,Mike Conley,TURNOVER,Anthony Davis,2:09,4,Grizzlies,Pelicans,85 - 94,1,N/A,N/A,N/A
+110,Anthony Davis,FG_ASSISTED,Kenrich Williams,2:04,4,Pelicans,Grizzlies,87 - 94,0, ,3,Jumper
+111,Mike Conley,FG_UNASSISTED,None,1:50,4,Grizzlies,Pelicans,87 - 96,1,11,3,Jumper
+112,Jrue Holiday,FOUL_ON_FLOOR,None,1:50,4,Pelicans,Grizzlies,87 - 96,0,N/A,N/A,N/A
+113,Joakim Noah,SUBSTITUTION,Rabb Ivan,1:50,4,Grizzlies,Pelicans,87 - 96,1,N/A,N/A,N/A
+114,Cheick Diallo,SUBSTITUTION,Holiday Jrue,1:50,4,Pelicans,Grizzlies,87 - 96,0,N/A,N/A,N/A
+115,Darius Miller,SUBSTITUTION,Davis Anthony,1:50,4,Pelicans,Grizzlies,87 - 96,0,N/A,N/A,N/A
+116,Tim Frazier,SUBSTITUTION,Randle Julius,1:50,4,Pelicans,Grizzlies,87 - 96,0,N/A,N/A,N/A
+117,Mike Conley,FT,None,1:50,4,Grizzlies,Pelicans,87 - 97,1,N/A,1,N/A
+118,Darius Miller,FG_MISS,None,1:37,4,Pelicans,Grizzlies,87 - 97,0,27,3,Jumper
+119,Mike Conley,DEFENSIVE_REBOUND,None,1:35,4,Grizzlies,Pelicans,87 - 97,1,N/A,N/A,N/A
+120,Jaren Jackson,FG_UNASSISTED,None,1:18,4,Grizzlies,Pelicans,87 - 99,1,8,3,Jumper
+121,Tim Frazier,FG_ASSISTED,Kenrich Williams,1:10,4,Pelicans,Grizzlies,90 - 99,0,23,3,Jumper
+122,Jaren Jackson,FG_MISS,None,49.8,4,Grizzlies,Pelicans,90 - 99,1,4,3,Jumper
+123,Kenrich Williams,DEFENSIVE_REBOUND,None,46.7,4,Pelicans,Grizzlies,90 - 99,0,N/A,N/A,N/A
+124,Tim Frazier,FG_MISS,None,43.8,4,Pelicans,Grizzlies,90 - 99,0,26,3,Jumper
+125,Kenrich Williams,OFFENSIVE_REBOUND,None,39.8,4,Pelicans,Grizzlies,90 - 99,0,N/A,N/A,N/A
+126,Team,Unknown,None,39.8,4,Pelicans,Grizzlies,90 - 99,0,N/A,N/A,N/A
+127,CJ Miles,SUBSTITUTION,Noah Joakim,39.8,4,Grizzlies,Pelicans,90 - 99,1,N/A,N/A,N/A
+128,Darius Miller,FG_MISS,None,29.1,4,Pelicans,Grizzlies,90 - 99,0,27,3,Jumper
+129,Justin Holiday,DEFENSIVE_REBOUND,None,25.9,4,Grizzlies,Pelicans,90 - 99,1,N/A,N/A,N/A
+130,Shot Clock,Unknown,None,3.1,4,Grizzlies,Pelicans,90 - 99,1,N/A,N/A,N/A
+131,End of,Unknown,None,0.0,4,Grizzlies,Pelicans,90 - 99,1,N/A,N/A,N/A
+132,End of,Unknown,None,0.0,4,Grizzlies,Pelicans,90 - 99,1,N/A,N/A,N/A

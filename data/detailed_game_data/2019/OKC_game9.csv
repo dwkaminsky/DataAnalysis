@@ -1,0 +1,478 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Steven Adams,JUMP_BALL,None,12:00,1,Thunder,Cavaliers,0 - 0,0,N/A,N/A,N/A
+1,Rodney Hood,FOUL_ON_FLOOR,None,11:43,1,Cavaliers,Thunder,0 - 0,1,N/A,N/A,N/A
+2,Steven Adams,FT_MISS,None,11:43,1,Thunder,Cavaliers,0 - 0,0,N/A,1,N/A
+3,Team,OFFENSIVE_REBOUND,None,11:43,1,Thunder,Cavaliers,0 - 0,0,N/A,N/A,N/A
+4,Steven Adams,FT,None,11:43,1,Thunder,Cavaliers,1 - 0,0,N/A,1,N/A
+5,Rodney Hood,FG_MISS,None,11:22,1,Cavaliers,Thunder,1 - 0,1,14,3,Jumper
+6,Team,OFFENSIVE_REBOUND,None,11:22,1,Cavaliers,Thunder,1 - 0,1,N/A,N/A,N/A
+7,Jerami Grant,FOUL_ON_FLOOR,None,11:22,1,Thunder,Cavaliers,1 - 0,0,N/A,N/A,N/A
+8,Tristan Thompson's,FG_MISS,Jerami Grant,11:13,1,Thunder,Cavaliers,1 - 0,1,0,2,Layup
+9,Team,DEFENSIVE_REBOUND,None,11:13,1,Thunder,Cavaliers,1 - 0,0,N/A,N/A,N/A
+10,Dennis Schroder,FG_MISS,None,11:03,1,Thunder,Cavaliers,1 - 0,0,26,3,Jumper
+11,Cedi Osman,DEFENSIVE_REBOUND,None,10:59,1,Cavaliers,Thunder,1 - 0,1,N/A,N/A,N/A
+12,JR Smith,FG_MISS,None,10:54,1,Cavaliers,Thunder,1 - 0,1,16,3,Jumper
+13,Dennis Schroder,DEFENSIVE_REBOUND,None,10:50,1,Thunder,Cavaliers,1 - 0,0,N/A,N/A,N/A
+14,Dennis Schroder,FG_UNASSISTED,None,10:43,1,Thunder,Cavaliers,3 - 0,0,2,3,Jumper
+15,JR Smith,FG_MISS,None,10:28,1,Cavaliers,Thunder,3 - 0,1,26,3,Jumper
+16,Steven Adams,DEFENSIVE_REBOUND,None,10:25,1,Thunder,Cavaliers,3 - 0,0,N/A,N/A,N/A
+17,Steven Adams,TURNOVER,None,10:17,1,Thunder,Cavaliers,3 - 0,0,N/A,N/A,N/A
+18,Steven Adams,TURNOVER,None,10:17,1,Thunder,Cavaliers,3 - 0,0,N/A,N/A,N/A
+19,Tristan Thompson,FG_UNASSISTED,None,9:55,1,Cavaliers,Thunder,3 - 2,1,11,3,Jumper
+20,Jerami Grant,FG_MISS,None,9:43,1,Thunder,Cavaliers,3 - 2,0,0,2,Layup
+21,Steven Adams,OFFENSIVE_REBOUND,None,9:38,1,Thunder,Cavaliers,3 - 2,0,N/A,N/A,N/A
+22,Steven Adams,FG_UNASSISTED,None,9:38,1,Thunder,Cavaliers,5 - 2,0,0,2,Dunk
+23,Cedi Osman,FG_MISS,None,9:29,1,Cavaliers,Thunder,5 - 2,1,27,3,Jumper
+24,Steven Adams,DEFENSIVE_REBOUND,None,9:26,1,Thunder,Cavaliers,5 - 2,0,N/A,N/A,N/A
+25,Steven Adams,FG_MISS,None,9:07,1,Thunder,Cavaliers,5 - 2,0,2,3,Jumper
+26,Tristan Thompson,DEFENSIVE_REBOUND,None,9:07,1,Cavaliers,Thunder,5 - 2,1,N/A,N/A,N/A
+27,Collin Sexton,FG_UNASSISTED,None,8:53,1,Cavaliers,Thunder,5 - 4,1,-,3,Jumper
+28,Terrance Ferguson,FG_MISS,None,8:44,1,Thunder,Cavaliers,5 - 4,0,24,3,Jumper
+29,JR Smith,DEFENSIVE_REBOUND,None,8:44,1,Cavaliers,Thunder,5 - 4,1,N/A,N/A,N/A
+30,JR Smith,TURNOVER,Jerami Grant,8:38,1,Cavaliers,Thunder,5 - 4,1,N/A,N/A,N/A
+31,Dennis Schroder,FG_UNASSISTED,None,8:34,1,Thunder,Cavaliers,7 - 4,0,-,3,Jumper
+32,Tristan Thompson,FG_MISS,None,8:08,1,Cavaliers,Thunder,7 - 4,1,8,3,Jumper
+33,Paul George,DEFENSIVE_REBOUND,None,8:06,1,Thunder,Cavaliers,7 - 4,0,N/A,N/A,N/A
+34,Paul George,FG_MISS,None,7:57,1,Thunder,Cavaliers,7 - 4,0,21,3,Jumper
+35,Rodney Hood,DEFENSIVE_REBOUND,None,7:54,1,Cavaliers,Thunder,7 - 4,1,N/A,N/A,N/A
+36,Tristan Thompson,FG_MISS,None,7:30,1,Cavaliers,Thunder,7 - 4,1,18,3,Jumper
+37,Jerami Grant,DEFENSIVE_REBOUND,None,7:27,1,Thunder,Cavaliers,7 - 4,0,N/A,N/A,N/A
+38,Dennis Schroder,FG_MISS,None,7:20,1,Thunder,Cavaliers,7 - 4,0,28,3,Jumper
+39,Rodney Hood,DEFENSIVE_REBOUND,None,7:18,1,Cavaliers,Thunder,7 - 4,1,N/A,N/A,N/A
+40,Collin Sexton,FG_ASSISTED,Rodney Hood,7:11,1,Cavaliers,Thunder,7 - 7,1,24,3,Jumper
+41,Dennis Schroder,FG_UNASSISTED,None,6:59,1,Thunder,Cavaliers,9 - 7,0,0,2,Layup
+42,Tristan Thompson,FG_MISS,None,6:33,1,Cavaliers,Thunder,9 - 7,1,11,3,Jumper
+43,Jerami Grant,DEFENSIVE_REBOUND,None,6:31,1,Thunder,Cavaliers,9 - 7,0,N/A,N/A,N/A
+44,Jerami Grant,FG_ASSISTED,Terrance Ferguson,6:20,1,Thunder,Cavaliers,12 - 7,0,24,3,Jumper
+45,Team,Unknown,None,6:09,1,Cavaliers,Thunder,12 - 7,1,N/A,N/A,N/A
+46,Larry Nance,SUBSTITUTION,Osman Cedi,6:09,1,Cavaliers,Thunder,12 - 7,1,N/A,N/A,N/A
+47,JR Smith,FG_MISS,None,5:59,1,Cavaliers,Thunder,12 - 7,1,19,3,Jumper
+48,Terrance Ferguson,DEFENSIVE_REBOUND,None,5:55,1,Thunder,Cavaliers,12 - 7,0,N/A,N/A,N/A
+49,Dennis Schroder,FG_MISS,Collin Sexton,5:47,1,Cavaliers,Thunder,12 - 7,0,0,2,Layup
+50,Tristan Thompson,DEFENSIVE_REBOUND,None,5:45,1,Cavaliers,Thunder,12 - 7,1,N/A,N/A,N/A
+51,Larry Nance,FG_MISS,Dennis Schroder,5:37,1,Thunder,Cavaliers,12 - 7,1,0,2,Layup
+52,Dennis Schroder,DEFENSIVE_REBOUND,None,5:37,1,Thunder,Cavaliers,12 - 7,0,N/A,N/A,N/A
+53,Dennis Schroder,TURNOVER,None,5:37,1,Thunder,Cavaliers,12 - 7,0,N/A,N/A,N/A
+54,Terrance Ferguson,FOUL_ON_FLOOR,None,5:37,1,Thunder,Cavaliers,12 - 7,0,N/A,N/A,N/A
+55,Rodney Hood,FT,None,5:37,1,Cavaliers,Thunder,12 - 8,1,N/A,1,N/A
+56,Tristan Thompson,FG_ASSISTED,Rodney Hood,5:31,1,Cavaliers,Thunder,12 - 10,1, ,3,Jumper
+57,Paul George,FG_UNASSISTED,None,5:13,1,Thunder,Cavaliers,14 - 10,0,15,3,Jumper
+58,Collin Sexton,FG_UNASSISTED,None,5:03,1,Cavaliers,Thunder,14 - 12,1,0,2,Layup
+59,Jerami Grant,FG_MISS,None,4:45,1,Thunder,Cavaliers,14 - 12,0,12,3,Jumper
+60,Tristan Thompson,DEFENSIVE_REBOUND,None,4:42,1,Cavaliers,Thunder,14 - 12,1,N/A,N/A,N/A
+61,JR Smith,TURNOVER,Paul George,4:35,1,Cavaliers,Thunder,14 - 12,1,N/A,N/A,N/A
+62,Dennis Schroder,FG_UNASSISTED,None,4:31,1,Thunder,Cavaliers,16 - 12,0,14,3,Jumper
+63,Collin Sexton,FG_MISS,None,4:19,1,Cavaliers,Thunder,16 - 12,1,22,3,Jumper
+64,Jerami Grant,DEFENSIVE_REBOUND,None,4:16,1,Thunder,Cavaliers,16 - 12,0,N/A,N/A,N/A
+65,Larry Nance,FOUL_ON_FLOOR,None,4:11,1,Cavaliers,Thunder,16 - 12,1,N/A,N/A,N/A
+66,Team,Unknown,None,4:11,1,Thunder,Cavaliers,16 - 12,0,N/A,N/A,N/A
+67,Jordan Clarkson,SUBSTITUTION,Smith JR,4:11,1,Cavaliers,Thunder,16 - 12,1,N/A,N/A,N/A
+68,Patrick Patterson,SUBSTITUTION,Grant Jerami,4:11,1,Thunder,Cavaliers,16 - 12,0,N/A,N/A,N/A
+69,Alex Abrines,SUBSTITUTION,Ferguson Terrance,4:11,1,Thunder,Cavaliers,16 - 12,0,N/A,N/A,N/A
+70,Rodney Hood,FOUL_ON_FLOOR,None,4:06,1,Cavaliers,Thunder,16 - 12,1,N/A,N/A,N/A
+71,Paul George,FG_MISS,None,3:58,1,Thunder,Cavaliers,16 - 12,0,0,2,Layup
+72,Steven Adams,OFFENSIVE_REBOUND,None,3:53,1,Thunder,Cavaliers,16 - 12,0,N/A,N/A,N/A
+73,Steven Adams,FG_MISS,None,3:52,1,Thunder,Cavaliers,16 - 12,0, ,3,Jumper
+74,Rodney Hood,DEFENSIVE_REBOUND,None,3:51,1,Cavaliers,Thunder,16 - 12,1,N/A,N/A,N/A
+75,Jordan Clarkson,FG_MISS,None,3:34,1,Cavaliers,Thunder,16 - 12,1,26,3,Jumper
+76,Patrick Patterson,DEFENSIVE_REBOUND,None,3:32,1,Thunder,Cavaliers,16 - 12,0,N/A,N/A,N/A
+77,Alex Abrines,FG_MISS,None,3:23,1,Thunder,Cavaliers,16 - 12,0,23,3,Jumper
+78,Steven Adams,OFFENSIVE_REBOUND,None,3:16,1,Thunder,Cavaliers,16 - 12,0,N/A,N/A,N/A
+79,Steven Adams,FG_UNASSISTED,None,3:16,1,Thunder,Cavaliers,18 - 12,0, ,3,Jumper
+80,Jordan Clarkson,FG_UNASSISTED,None,2:57,1,Cavaliers,Thunder,18 - 15,1,25,3,Jumper
+81,Steven Adams,FG_MISS,None,2:36,1,Thunder,Cavaliers,18 - 15,0,8,3,Jumper
+82,Larry Nance,DEFENSIVE_REBOUND,None,2:34,1,Cavaliers,Thunder,18 - 15,1,N/A,N/A,N/A
+83,Larry Nance,FG_MISS,None,2:25,1,Cavaliers,Thunder,18 - 15,1,19,3,Jumper
+84,Dennis Schroder,DEFENSIVE_REBOUND,None,2:21,1,Thunder,Cavaliers,18 - 15,0,N/A,N/A,N/A
+85,Patrick Patterson,FG_MISS,None,2:14,1,Thunder,Cavaliers,18 - 15,0,25,3,Jumper
+86,Team,OFFENSIVE_REBOUND,None,2:13,1,Thunder,Cavaliers,18 - 15,0,N/A,N/A,N/A
+87,Tristan Thompson,FOUL_ON_FLOOR,None,2:13,1,Cavaliers,Thunder,18 - 15,1,N/A,N/A,N/A
+88,Kyle Korver,SUBSTITUTION,Hood Rodney,2:13,1,Cavaliers,Thunder,18 - 15,1,N/A,N/A,N/A
+89,Ante Zizic,SUBSTITUTION,Thompson Tristan,2:13,1,Cavaliers,Thunder,18 - 15,1,N/A,N/A,N/A
+90,Raymond Felton,SUBSTITUTION,Adams Steven,2:13,1,Thunder,Cavaliers,18 - 15,0,N/A,N/A,N/A
+91,Nerlens Noel,SUBSTITUTION,Schroder Dennis,2:13,1,Thunder,Cavaliers,18 - 15,0,N/A,N/A,N/A
+92,Paul George,FG_UNASSISTED,None,2:04,1,Thunder,Cavaliers,20 - 15,0, ,3,Jumper
+93,Kyle Korver,TURNOVER,Raymond Felton,1:51,1,Cavaliers,Thunder,20 - 15,1,N/A,N/A,N/A
+94,Alex Abrines,FG_MISS,None,1:44,1,Thunder,Cavaliers,20 - 15,0,22,3,Jumper
+95,Larry Nance,DEFENSIVE_REBOUND,None,1:41,1,Cavaliers,Thunder,20 - 15,1,N/A,N/A,N/A
+96,Collin Sexton,FG_UNASSISTED,None,1:26,1,Cavaliers,Thunder,20 - 17,1,0,2,Layup
+97,Paul George,FG_MISS,Larry Nance,1:01,1,Cavaliers,Thunder,20 - 17,0,0,2,Layup
+98,Team,DEFENSIVE_REBOUND,None,1:01,1,Cavaliers,Thunder,20 - 17,1,N/A,N/A,N/A
+99,Ante Zizic,TURNOVER,Nerlens Noel,42.9,1,Cavaliers,Thunder,20 - 17,1,N/A,N/A,N/A
+100,Paul George,TURNOVER,None,38.9,1,Thunder,Cavaliers,20 - 17,0,N/A,N/A,N/A
+101,Paul George,TURNOVER,None,38.9,1,Thunder,Cavaliers,20 - 17,0,N/A,N/A,N/A
+102,Paul George,FOUL_ON_FLOOR,None,33.2,1,Thunder,Cavaliers,20 - 17,0,N/A,N/A,N/A
+103,Jordan Clarkson,FG_MISS,None,28.8,1,Cavaliers,Thunder,20 - 17,1,29,3,Jumper
+104,Team,DEFENSIVE_REBOUND,None,26.3,1,Thunder,Cavaliers,20 - 17,0,N/A,N/A,N/A
+105,JR Smith,SUBSTITUTION,Sexton Collin,26.3,1,Cavaliers,Thunder,20 - 17,1,N/A,N/A,N/A
+106,Alex Abrines,FG_ASSISTED,Raymond Felton,6.8,1,Thunder,Cavaliers,23 - 17,0,31,3,Jumper
+107,JR Smith,FG_MISS,None,1.6,1,Cavaliers,Thunder,23 - 17,1,37,3,Jumper
+108,Ante Zizic,OFFENSIVE_REBOUND,None,0.7,1,Cavaliers,Thunder,23 - 17,1,N/A,N/A,N/A
+109,Nerlens Noel,FOUL_ON_FLOOR,None,0.0,1,Thunder,Cavaliers,23 - 17,0,N/A,N/A,N/A
+110,Billy Donovan,FOUL_TECHNICAL,None,0.0,1,Thunder,Cavaliers,23 - 17,0,N/A,N/A,N/A
+111,Kyle Korver,FT,None,0.0,1,Cavaliers,Thunder,23 - 18,1,N/A,1,N/A
+112,Ante Zizic,FT,None,0.0,1,Cavaliers,Thunder,23 - 19,1,N/A,1,N/A
+113,Ante Zizic,FT,None,0.0,1,Cavaliers,Thunder,23 - 20,1,N/A,1,N/A
+114,End of,Unknown,None,0.0,1,Cavaliers,Thunder,23 - 20,1,N/A,N/A,N/A
+0,Hamidou Diallo,SUBSTITUTION,George Paul,12:00,2,Thunder,Cavaliers,23 - 20,0,N/A,N/A,N/A
+1,Kyle Korver,FG_MISS,None,11:46,2,Cavaliers,Thunder,23 - 20,1,26,3,Jumper
+2,Raymond Felton,DEFENSIVE_REBOUND,None,11:44,2,Thunder,Cavaliers,23 - 20,0,N/A,N/A,N/A
+3,Raymond Felton,FG_MISS,None,11:35,2,Thunder,Cavaliers,23 - 20,0,24,3,Jumper
+4,Larry Nance,DEFENSIVE_REBOUND,None,11:32,2,Cavaliers,Thunder,23 - 20,1,N/A,N/A,N/A
+5,Ante Zizic,FG_MISS,None,11:15,2,Cavaliers,Thunder,23 - 20,1,8,3,Jumper
+6,Larry Nance,OFFENSIVE_REBOUND,None,11:14,2,Cavaliers,Thunder,23 - 20,1,N/A,N/A,N/A
+7,Larry Nance,FG_UNASSISTED,None,11:13,2,Cavaliers,Thunder,23 - 22,1, ,3,Jumper
+8,Raymond Felton,TURNOVER,None,11:04,2,Thunder,Cavaliers,23 - 22,0,N/A,N/A,N/A
+9,Patrick Patterson,FOUL_ON_FLOOR,None,10:59,2,Thunder,Cavaliers,23 - 22,0,N/A,N/A,N/A
+10,Jordan Clarkson,FG_MISS,Raymond Felton,10:51,2,Thunder,Cavaliers,23 - 22,1,0,2,Layup
+11,Team,DEFENSIVE_REBOUND,None,10:51,2,Thunder,Cavaliers,23 - 22,0,N/A,N/A,N/A
+12,Hamidou Diallo,FG_MISS,None,10:37,2,Thunder,Cavaliers,23 - 22,0, ,3,Jumper
+13,Ante Zizic,DEFENSIVE_REBOUND,None,10:34,2,Cavaliers,Thunder,23 - 22,1,N/A,N/A,N/A
+14,JR Smith,TURNOVER,Raymond Felton,10:29,2,Cavaliers,Thunder,23 - 22,1,N/A,N/A,N/A
+15,Hamidou Diallo,FG_ASSISTED,Raymond Felton,10:25,2,Thunder,Cavaliers,25 - 22,0,0,2,Dunk
+16,JR Smith,TURNOVER,Nerlens Noel,10:08,2,Cavaliers,Thunder,25 - 22,1,N/A,N/A,N/A
+17,Alex Abrines,FG_MISS,None,10:04,2,Thunder,Cavaliers,25 - 22,0,25,3,Jumper
+18,Jordan Clarkson,DEFENSIVE_REBOUND,None,10:00,2,Cavaliers,Thunder,25 - 22,1,N/A,N/A,N/A
+19,Hamidou Diallo,FOUL_ON_FLOOR,None,9:49,2,Thunder,Cavaliers,25 - 22,0,N/A,N/A,N/A
+20,Collin Sexton,SUBSTITUTION,Smith JR,9:49,2,Cavaliers,Thunder,25 - 22,1,N/A,N/A,N/A
+21,Ante Zizic,FG_ASSISTED,Jordan Clarkson,9:40,2,Cavaliers,Thunder,25 - 24,1,0,2,Layup
+22,Alex Abrines,FG_MISS,None,9:19,2,Thunder,Cavaliers,25 - 24,0,26,3,Jumper
+23,Jordan Clarkson,DEFENSIVE_REBOUND,None,9:16,2,Cavaliers,Thunder,25 - 24,1,N/A,N/A,N/A
+24,Jordan Clarkson,FG_MISS,Nerlens Noel,9:07,2,Thunder,Cavaliers,25 - 24,1,16,3,Jumper
+25,Patrick Patterson,DEFENSIVE_REBOUND,None,9:04,2,Thunder,Cavaliers,25 - 24,0,N/A,N/A,N/A
+26,Hamidou Diallo,FG_ASSISTED,Patrick Patterson,9:03,2,Thunder,Cavaliers,27 - 24,0, ,3,Jumper
+27,Larry Nance,TURNOVER,Alex Abrines,8:56,2,Cavaliers,Thunder,27 - 24,1,N/A,N/A,N/A
+28,Hamidou Diallo,TURNOVER,None,8:52,2,Thunder,Cavaliers,27 - 24,0,N/A,N/A,N/A
+29,Hamidou Diallo,TURNOVER,None,8:52,2,Thunder,Cavaliers,27 - 24,0,N/A,N/A,N/A
+30,Team,Unknown,None,8:52,2,Cavaliers,Thunder,27 - 24,1,N/A,N/A,N/A
+31,Collin Sexton,TURNOVER,Hamidou Diallo,8:42,2,Cavaliers,Thunder,27 - 24,1,N/A,N/A,N/A
+32,Jordan Clarkson,FOUL_ON_FLOOR,None,8:39,2,Cavaliers,Thunder,27 - 24,1,N/A,N/A,N/A
+33,Hamidou Diallo,FT,None,8:39,2,Thunder,Cavaliers,28 - 24,0,N/A,1,N/A
+34,Hamidou Diallo,FT,None,8:39,2,Thunder,Cavaliers,29 - 24,0,N/A,1,N/A
+35,Kyle Korver,FG_MISS,Nerlens Noel,8:28,2,Thunder,Cavaliers,29 - 24,1,0,2,Layup
+36,Team,OFFENSIVE_REBOUND,None,8:28,2,Cavaliers,Thunder,29 - 24,1,N/A,N/A,N/A
+37,Jordan Clarkson,FG_MISS,None,8:23,2,Cavaliers,Thunder,29 - 24,1, ,3,Jumper
+38,Team,OFFENSIVE_REBOUND,None,8:23,2,Cavaliers,Thunder,29 - 24,1,N/A,N/A,N/A
+39,Nerlens Noel,FOUL_ON_FLOOR,None,8:23,2,Thunder,Cavaliers,29 - 24,0,N/A,N/A,N/A
+40,Rodney Hood,SUBSTITUTION,Korver Kyle,8:23,2,Cavaliers,Thunder,29 - 24,1,N/A,N/A,N/A
+41,Larry Nance,FG_ASSISTED,Rodney Hood,8:11,2,Cavaliers,Thunder,29 - 26,1,0,2,Dunk
+42,Patrick Patterson,FG_MISS,None,7:58,2,Thunder,Cavaliers,29 - 26,0,26,3,Jumper
+43,Ante Zizic,DEFENSIVE_REBOUND,None,7:55,2,Cavaliers,Thunder,29 - 26,1,N/A,N/A,N/A
+44,Rodney Hood,FG_ASSISTED,Jordan Clarkson,7:46,2,Cavaliers,Thunder,29 - 29,1,26,3,Jumper
+45,Hamidou Diallo,FG_ASSISTED,Nerlens Noel,7:24,2,Thunder,Cavaliers,31 - 29,0, ,3,Jumper
+46,Ante Zizic,FOUL_ON_FLOOR,None,7:13,2,Cavaliers,Thunder,31 - 29,1,N/A,N/A,N/A
+47,Ante Zizic,TURNOVER,None,7:13,2,Cavaliers,Thunder,31 - 29,1,N/A,N/A,N/A
+48,Tristan Thompson,SUBSTITUTION,Zizic Ante,7:13,2,Cavaliers,Thunder,31 - 29,1,N/A,N/A,N/A
+49,Jerami Grant,SUBSTITUTION,Felton Raymond,7:13,2,Thunder,Cavaliers,31 - 29,0,N/A,N/A,N/A
+50,Steven Adams,SUBSTITUTION,Noel Nerlens,7:13,2,Thunder,Cavaliers,31 - 29,0,N/A,N/A,N/A
+51,Dennis Schroder,SUBSTITUTION,Patterson Patrick,7:13,2,Thunder,Cavaliers,31 - 29,0,N/A,N/A,N/A
+52,Hamidou Diallo,FG_MISS,None,7:05,2,Thunder,Cavaliers,31 - 29,0,16,3,Jumper
+53,Jordan Clarkson,DEFENSIVE_REBOUND,None,7:01,2,Cavaliers,Thunder,31 - 29,1,N/A,N/A,N/A
+54,Jordan Clarkson,FG_UNASSISTED,None,6:59,2,Cavaliers,Thunder,31 - 31,1,0,2,Layup
+55,Hamidou Diallo,FOUL_ON_FLOOR,None,6:59,2,Thunder,Cavaliers,31 - 31,0,N/A,N/A,N/A
+56,David Nwaba,SUBSTITUTION,Nance Larry,6:59,2,Cavaliers,Thunder,31 - 31,1,N/A,N/A,N/A
+57,Paul George,SUBSTITUTION,Diallo Hamidou,6:59,2,Thunder,Cavaliers,31 - 31,0,N/A,N/A,N/A
+58,Jordan Clarkson,FT_MISS,None,6:59,2,Cavaliers,Thunder,31 - 31,1,N/A,1,N/A
+59,Jordan Clarkson,OFFENSIVE_REBOUND,None,6:59,2,Cavaliers,Thunder,31 - 31,1,N/A,N/A,N/A
+60,Tristan Thompson,FG_MISS,None,6:52,2,Cavaliers,Thunder,31 - 31,1, ,3,Jumper
+61,Paul George,DEFENSIVE_REBOUND,None,6:50,2,Thunder,Cavaliers,31 - 31,0,N/A,N/A,N/A
+62,Paul George,FG_UNASSISTED,None,6:42,2,Thunder,Cavaliers,33 - 31,0,11,3,Jumper
+63,Rodney Hood,FG_MISS,None,6:18,2,Cavaliers,Thunder,33 - 31,1,25,3,Jumper
+64,Team,DEFENSIVE_REBOUND,None,6:16,2,Thunder,Cavaliers,33 - 31,0,N/A,N/A,N/A
+65,Terrance Ferguson,SUBSTITUTION,Abrines Alex,6:16,2,Thunder,Cavaliers,33 - 31,0,N/A,N/A,N/A
+66,Paul George,FG_MISS,None,6:05,2,Thunder,Cavaliers,33 - 31,0,26,3,Jumper
+67,Steven Adams,OFFENSIVE_REBOUND,None,5:59,2,Thunder,Cavaliers,33 - 31,0,N/A,N/A,N/A
+68,Dennis Schroder,FG_MISS,None,5:47,2,Thunder,Cavaliers,33 - 31,0,20,3,Jumper
+69,Collin Sexton,DEFENSIVE_REBOUND,None,5:44,2,Cavaliers,Thunder,33 - 31,1,N/A,N/A,N/A
+70,Collin Sexton,FG_UNASSISTED,None,5:40,2,Cavaliers,Thunder,33 - 33,1,20,3,Jumper
+71,Dennis Schroder,TURNOVER,David Nwaba,5:30,2,Thunder,Cavaliers,33 - 33,0,N/A,N/A,N/A
+72,Dennis Schroder,FOUL_ON_FLOOR,None,5:29,2,Thunder,Cavaliers,33 - 33,0,N/A,N/A,N/A
+73,David Nwaba,FT,None,5:29,2,Cavaliers,Thunder,33 - 34,1,N/A,1,N/A
+74,David Nwaba,FT_MISS,None,5:29,2,Cavaliers,Thunder,33 - 34,1,N/A,1,N/A
+75,Jerami Grant,DEFENSIVE_REBOUND,None,5:26,2,Thunder,Cavaliers,33 - 34,0,N/A,N/A,N/A
+76,Paul George,FG_MISS,None,5:18,2,Thunder,Cavaliers,33 - 34,0,16,3,Jumper
+77,Tristan Thompson,DEFENSIVE_REBOUND,None,5:11,2,Cavaliers,Thunder,33 - 34,1,N/A,N/A,N/A
+78,Tristan Thompson,TURNOVER,None,5:01,2,Cavaliers,Thunder,33 - 34,1,N/A,N/A,N/A
+79,Team,Unknown,None,5:01,2,Thunder,Cavaliers,33 - 34,0,N/A,N/A,N/A
+80,Jerami Grant,FG_UNASSISTED,None,4:46,2,Thunder,Cavaliers,35 - 34,0,6,3,Jumper
+81,Jordan Clarkson,FG_MISS,None,4:27,2,Cavaliers,Thunder,35 - 34,1,26,3,Jumper
+82,Paul George,DEFENSIVE_REBOUND,None,4:24,2,Thunder,Cavaliers,35 - 34,0,N/A,N/A,N/A
+83,Dennis Schroder,FG_UNASSISTED,None,4:11,2,Thunder,Cavaliers,37 - 34,0, ,3,Jumper
+84,Jordan Clarkson,FG_UNASSISTED,None,3:49,2,Cavaliers,Thunder,37 - 36,1, ,3,Jumper
+85,Dennis Schroder,FG_MISS,None,3:37,2,Thunder,Cavaliers,37 - 36,0,26,3,Jumper
+86,Paul George,OFFENSIVE_REBOUND,None,3:35,2,Thunder,Cavaliers,37 - 36,0,N/A,N/A,N/A
+87,Terrance Ferguson,FG_MISS,None,3:33,2,Thunder,Cavaliers,37 - 36,0,26,3,Jumper
+88,Tristan Thompson,DEFENSIVE_REBOUND,None,3:29,2,Cavaliers,Thunder,37 - 36,1,N/A,N/A,N/A
+89,Jordan Clarkson,FG_MISS,None,3:23,2,Cavaliers,Thunder,37 - 36,1, ,3,Jumper
+90,Paul George,DEFENSIVE_REBOUND,None,3:21,2,Thunder,Cavaliers,37 - 36,0,N/A,N/A,N/A
+91,Terrance Ferguson,FG_ASSISTED,Steven Adams,3:11,2,Thunder,Cavaliers,39 - 36,0,0,2,Dunk
+92,Jerami Grant,FOUL_ON_FLOOR,None,2:52,2,Thunder,Cavaliers,39 - 36,0,N/A,N/A,N/A
+93,David Nwaba,FT,None,2:52,2,Cavaliers,Thunder,39 - 37,1,N/A,1,N/A
+94,JR Smith,SUBSTITUTION,Hood Rodney,2:52,2,Cavaliers,Thunder,39 - 37,1,N/A,N/A,N/A
+95,Alex Abrines,SUBSTITUTION,Ferguson Terrance,2:52,2,Thunder,Cavaliers,39 - 37,0,N/A,N/A,N/A
+96,David Nwaba,FT,None,2:52,2,Cavaliers,Thunder,39 - 38,1,N/A,1,N/A
+97,Jerami Grant,FG_MISS,JR Smith,2:41,2,Cavaliers,Thunder,39 - 38,0,0,2,Layup
+98,Jordan Clarkson,DEFENSIVE_REBOUND,None,2:38,2,Cavaliers,Thunder,39 - 38,1,N/A,N/A,N/A
+99,JR Smith,FG_ASSISTED,Jordan Clarkson,2:33,2,Cavaliers,Thunder,39 - 40,1,12,3,Jumper
+100,Paul George,FG_UNASSISTED,None,2:18,2,Thunder,Cavaliers,41 - 40,0,0,2,Layup
+101,Collin Sexton's,FG_MISS,Steven Adams,2:03,2,Thunder,Cavaliers,41 - 40,1, ,3,Jumper
+102,Steven Adams,DEFENSIVE_REBOUND,None,2:00,2,Thunder,Cavaliers,41 - 40,0,N/A,N/A,N/A
+103,Alex Abrines,FG_MISS,None,1:54,2,Thunder,Cavaliers,41 - 40,0,0,2,Layup
+104,Tristan Thompson,DEFENSIVE_REBOUND,None,1:51,2,Cavaliers,Thunder,41 - 40,1,N/A,N/A,N/A
+105,JR Smith,FG_MISS,None,1:46,2,Cavaliers,Thunder,41 - 40,1,26,3,Jumper
+106,Paul George,DEFENSIVE_REBOUND,None,1:44,2,Thunder,Cavaliers,41 - 40,0,N/A,N/A,N/A
+107,Collin Sexton,FOUL_ON_FLOOR,None,1:29,2,Cavaliers,Thunder,41 - 40,1,N/A,N/A,N/A
+108,Paul George,FT,None,1:29,2,Thunder,Cavaliers,42 - 40,0,N/A,1,N/A
+109,Paul George,FT_MISS,None,1:29,2,Thunder,Cavaliers,42 - 40,0,N/A,1,N/A
+110,Steven Adams,OFFENSIVE_REBOUND,None,1:25,2,Thunder,Cavaliers,42 - 40,0,N/A,N/A,N/A
+111,Steven Adams,FG_UNASSISTED,None,1:22,2,Thunder,Cavaliers,44 - 40,0, ,3,Jumper
+112,JR Smith,FG_MISS,None,58.0,2,Cavaliers,Thunder,44 - 40,1, ,3,Jumper
+113,Team,DEFENSIVE_REBOUND,None,57.5,2,Thunder,Cavaliers,44 - 40,0,N/A,N/A,N/A
+114,Dennis Schroder,FG_MISS,None,44.1,2,Thunder,Cavaliers,44 - 40,0,0,2,Layup
+115,Tristan Thompson,DEFENSIVE_REBOUND,None,42.0,2,Cavaliers,Thunder,44 - 40,1,N/A,N/A,N/A
+116,Collin Sexton's,FG_MISS,Steven Adams,31.7,2,Thunder,Cavaliers,44 - 40,1,0,2,Layup
+117,Tristan Thompson,OFFENSIVE_REBOUND,None,27.9,2,Cavaliers,Thunder,44 - 40,1,N/A,N/A,N/A
+118,Tristan Thompson,FG_MISS,None,27.9,2,Cavaliers,Thunder,44 - 40,1, ,3,Jumper
+119,Tristan Thompson,OFFENSIVE_REBOUND,None,26.4,2,Cavaliers,Thunder,44 - 40,1,N/A,N/A,N/A
+120,Tristan Thompson,FG_MISS,None,24.8,2,Cavaliers,Thunder,44 - 40,1,0,2,Layup
+121,Dennis Schroder,DEFENSIVE_REBOUND,None,21.1,2,Thunder,Cavaliers,44 - 40,0,N/A,N/A,N/A
+122,Collin Sexton,FOUL_ON_FLOOR,None,8.1,2,Cavaliers,Thunder,44 - 40,1,N/A,N/A,N/A
+123,Dennis Schroder,FT_MISS,None,8.1,2,Thunder,Cavaliers,44 - 40,0,N/A,1,N/A
+124,Team,OFFENSIVE_REBOUND,None,8.1,2,Thunder,Cavaliers,44 - 40,0,N/A,N/A,N/A
+125,Terrance Ferguson,SUBSTITUTION,Abrines Alex,8.1,2,Thunder,Cavaliers,44 - 40,0,N/A,N/A,N/A
+126,Dennis Schroder,FT,None,8.1,2,Thunder,Cavaliers,45 - 40,0,N/A,1,N/A
+127,Collin Sexton,TURNOVER,None,2.7,2,Cavaliers,Thunder,45 - 40,1,N/A,N/A,N/A
+128,Collin Sexton,TURNOVER,None,2.7,2,Cavaliers,Thunder,45 - 40,1,N/A,N/A,N/A
+129,Alex Abrines,SUBSTITUTION,Ferguson Terrance,2.7,2,Thunder,Cavaliers,45 - 40,0,N/A,N/A,N/A
+130,Rodney Hood,SUBSTITUTION,Sexton Collin,2.7,2,Cavaliers,Thunder,45 - 40,1,N/A,N/A,N/A
+131,Patrick Patterson,SUBSTITUTION,Grant Jerami,2.7,2,Thunder,Cavaliers,45 - 40,0,N/A,N/A,N/A
+132,Paul George,FG_ASSISTED,Steven Adams,0.0,2,Thunder,Cavaliers,48 - 40,0,29,3,Jumper
+133,End of,Unknown,None,0.0,2,Cavaliers,Thunder,48 - 40,1,N/A,N/A,N/A
+0,Collin Sexton,SUBSTITUTION,Clarkson Jordan,12:00,3,Cavaliers,Thunder,48 - 40,1,N/A,N/A,N/A
+1,Larry Nance,SUBSTITUTION,Nwaba David,12:00,3,Cavaliers,Thunder,48 - 40,1,N/A,N/A,N/A
+2,Jerami Grant,SUBSTITUTION,Abrines Alex,12:00,3,Thunder,Cavaliers,48 - 40,0,N/A,N/A,N/A
+3,Terrance Ferguson,SUBSTITUTION,Patterson Patrick,12:00,3,Thunder,Cavaliers,48 - 40,0,N/A,N/A,N/A
+4,Rodney Hood,FG_MISS,None,11:44,3,Cavaliers,Thunder,48 - 40,1,15,3,Jumper
+5,Dennis Schroder,DEFENSIVE_REBOUND,None,11:42,3,Thunder,Cavaliers,48 - 40,0,N/A,N/A,N/A
+6,Jerami Grant,FG_ASSISTED,Terrance Ferguson,11:21,3,Thunder,Cavaliers,51 - 40,0,24,3,Jumper
+7,Larry Nance,FG_MISS,None,10:51,3,Cavaliers,Thunder,51 - 40,1,15,3,Jumper
+8,Team,OFFENSIVE_REBOUND,None,10:50,3,Cavaliers,Thunder,51 - 40,1,N/A,N/A,N/A
+9,Steven Adams,JUMP_BALL,None,10:48,3,Cavaliers,Thunder,51 - 40,1,N/A,N/A,N/A
+10,JR Smith,FG_MISS,None,10:46,3,Cavaliers,Thunder,51 - 40,1,26,3,Jumper
+11,Jerami Grant,DEFENSIVE_REBOUND,None,10:43,3,Thunder,Cavaliers,51 - 40,0,N/A,N/A,N/A
+12,Dennis Schroder,FG_UNASSISTED,None,10:40,3,Thunder,Cavaliers,53 - 40,0,0,2,Layup
+13,Collin Sexton,FOUL_ON_FLOOR,None,10:40,3,Cavaliers,Thunder,53 - 40,1,N/A,N/A,N/A
+14,Dennis Schroder,FT,None,10:40,3,Thunder,Cavaliers,54 - 40,0,N/A,1,N/A
+15,Collin Sexton,FG_MISS,None,10:28,3,Cavaliers,Thunder,54 - 40,1,28,3,Jumper
+16,Steven Adams,DEFENSIVE_REBOUND,None,10:25,3,Thunder,Cavaliers,54 - 40,0,N/A,N/A,N/A
+17,Dennis Schroder,FG_UNASSISTED,None,10:19,3,Thunder,Cavaliers,56 - 40,0,18,3,Jumper
+18,Team,Unknown,None,10:19,3,Cavaliers,Thunder,56 - 40,1,N/A,N/A,N/A
+19,Rodney Hood,FG_UNASSISTED,None,9:57,3,Cavaliers,Thunder,56 - 42,1,21,3,Jumper
+20,Paul George,FG_MISS,None,9:38,3,Thunder,Cavaliers,56 - 42,0,15,3,Jumper
+21,Larry Nance,DEFENSIVE_REBOUND,None,9:36,3,Cavaliers,Thunder,56 - 42,1,N/A,N/A,N/A
+22,Tristan Thompson,FG_ASSISTED,Rodney Hood,9:25,3,Cavaliers,Thunder,56 - 44,1,3,3,Jumper
+23,Paul George,FG_MISS,None,9:15,3,Thunder,Cavaliers,56 - 44,0,16,3,Jumper
+24,Rodney Hood,DEFENSIVE_REBOUND,None,9:11,3,Cavaliers,Thunder,56 - 44,1,N/A,N/A,N/A
+25,Terrance Ferguson,FOUL_ON_FLOOR,None,9:08,3,Thunder,Cavaliers,56 - 44,0,N/A,N/A,N/A
+26,Terrance Ferguson,FOUL_ON_FLOOR,None,9:02,3,Thunder,Cavaliers,56 - 44,0,N/A,N/A,N/A
+27,Rodney Hood,FT,None,9:02,3,Cavaliers,Thunder,56 - 45,1,N/A,1,N/A
+28,Rodney Hood,FT,None,9:02,3,Cavaliers,Thunder,56 - 46,1,N/A,1,N/A
+29,JR Smith,FOUL_ON_FLOOR,None,8:52,3,Cavaliers,Thunder,56 - 46,1,N/A,N/A,N/A
+30,Paul George,FG_UNASSISTED,None,8:42,3,Thunder,Cavaliers,58 - 46,0,0,2,Layup
+31,Larry Nance,FG_ASSISTED,JR Smith,8:18,3,Cavaliers,Thunder,58 - 48,1,0,2,Dunk
+32,Dennis Schroder,FG_UNASSISTED,None,8:10,3,Thunder,Cavaliers,60 - 48,0,0,2,Layup
+33,JR Smith,FOUL_ON_FLOOR,None,8:10,3,Cavaliers,Thunder,60 - 48,1,N/A,N/A,N/A
+34,Dennis Schroder,FT,None,8:10,3,Thunder,Cavaliers,61 - 48,0,N/A,1,N/A
+35,Rodney Hood,TURNOVER,Dennis Schroder,7:57,3,Cavaliers,Thunder,61 - 48,1,N/A,N/A,N/A
+36,Jerami Grant,FG_MISS,None,7:42,3,Thunder,Cavaliers,61 - 48,0,24,3,Jumper
+37,Rodney Hood,DEFENSIVE_REBOUND,None,7:40,3,Cavaliers,Thunder,61 - 48,1,N/A,N/A,N/A
+38,JR Smith,FG_UNASSISTED,None,7:18,3,Cavaliers,Thunder,61 - 50,1,9,3,Jumper
+39,Dennis Schroder,FG_MISS,None,6:51,3,Thunder,Cavaliers,61 - 50,0,12,3,Jumper
+40,Tristan Thompson,DEFENSIVE_REBOUND,None,6:44,3,Cavaliers,Thunder,61 - 50,1,N/A,N/A,N/A
+41,Collin Sexton,FG_UNASSISTED,None,6:33,3,Cavaliers,Thunder,61 - 52,1,0,2,Layup
+42,Rodney Hood,FOUL_ON_FLOOR,None,6:17,3,Cavaliers,Thunder,61 - 52,1,N/A,N/A,N/A
+43,Terrance Ferguson,FT,None,6:17,3,Thunder,Cavaliers,62 - 52,0,N/A,1,N/A
+44,Terrance Ferguson,FT,None,6:17,3,Thunder,Cavaliers,63 - 52,0,N/A,1,N/A
+45,Rodney Hood,FG_ASSISTED,Collin Sexton,6:06,3,Cavaliers,Thunder,63 - 55,1,26,3,Jumper
+46,Team,Unknown,None,6:02,3,Thunder,Cavaliers,63 - 55,0,N/A,N/A,N/A
+47,JR Smith,FOUL_ON_FLOOR,None,5:55,3,Cavaliers,Thunder,63 - 55,1,N/A,N/A,N/A
+48,Paul George,FT,None,5:55,3,Thunder,Cavaliers,64 - 55,0,N/A,1,N/A
+49,Paul George,FT,None,5:55,3,Thunder,Cavaliers,65 - 55,0,N/A,1,N/A
+50,Tristan Thompson,FG_ASSISTED,JR Smith,5:38,3,Cavaliers,Thunder,65 - 57,1,0,2,Layup
+51,Jerami Grant,TURNOVER,None,5:14,3,Thunder,Cavaliers,65 - 57,0,N/A,N/A,N/A
+52,Jerami Grant,TURNOVER,None,5:14,3,Thunder,Cavaliers,65 - 57,0,N/A,N/A,N/A
+53,Alex Abrines,SUBSTITUTION,Ferguson Terrance,5:14,3,Thunder,Cavaliers,65 - 57,0,N/A,N/A,N/A
+54,JR Smith,FG_MISS,None,4:59,3,Cavaliers,Thunder,65 - 57,1,18,3,Jumper
+55,Tristan Thompson,OFFENSIVE_REBOUND,None,4:57,3,Cavaliers,Thunder,65 - 57,1,N/A,N/A,N/A
+56,Rodney Hood,FG_MISS,None,4:51,3,Cavaliers,Thunder,65 - 57,1,21,3,Jumper
+57,Jerami Grant,DEFENSIVE_REBOUND,None,4:48,3,Thunder,Cavaliers,65 - 57,0,N/A,N/A,N/A
+58,Steven Adams,FOUL_ON_FLOOR,None,4:44,3,Thunder,Cavaliers,65 - 57,0,N/A,N/A,N/A
+59,Steven Adams,TURNOVER,None,4:44,3,Thunder,Cavaliers,65 - 57,0,N/A,N/A,N/A
+60,Jordan Clarkson,SUBSTITUTION,Hood Rodney,4:44,3,Cavaliers,Thunder,65 - 57,1,N/A,N/A,N/A
+61,Patrick Patterson,SUBSTITUTION,Grant Jerami,4:44,3,Thunder,Cavaliers,65 - 57,0,N/A,N/A,N/A
+62,JR Smith,FG_ASSISTED,Larry Nance,4:28,3,Cavaliers,Thunder,65 - 60,1,28,3,Jumper
+63,Dennis Schroder,FG_UNASSISTED,None,4:07,3,Thunder,Cavaliers,67 - 60,0,15,3,Jumper
+64,Dennis Schroder,FOUL_ON_FLOOR,None,3:57,3,Thunder,Cavaliers,67 - 60,0,N/A,N/A,N/A
+65,JR Smith,FG_MISS,None,3:43,3,Cavaliers,Thunder,67 - 60,1, ,3,Jumper
+66,Steven Adams,DEFENSIVE_REBOUND,None,3:41,3,Thunder,Cavaliers,67 - 60,0,N/A,N/A,N/A
+67,Patrick Patterson,FG_ASSISTED,Paul George,3:30,3,Thunder,Cavaliers,70 - 60,0,27,3,Jumper
+68,Larry Nance,FOUL_ON_FLOOR,None,3:21,3,Cavaliers,Thunder,70 - 60,1,N/A,N/A,N/A
+69,Larry Nance,TURNOVER,None,3:21,3,Cavaliers,Thunder,70 - 60,1,N/A,N/A,N/A
+70,Kyle Korver,SUBSTITUTION,Smith JR,3:21,3,Cavaliers,Thunder,70 - 60,1,N/A,N/A,N/A
+71,David Nwaba,SUBSTITUTION,Nance Larry,3:21,3,Cavaliers,Thunder,70 - 60,1,N/A,N/A,N/A
+72,Kyle Korver,FOUL_ON_FLOOR,None,3:15,3,Cavaliers,Thunder,70 - 60,1,N/A,N/A,N/A
+73,Patrick Patterson,FT_MISS,None,3:15,3,Thunder,Cavaliers,70 - 60,0,N/A,1,N/A
+74,Team,OFFENSIVE_REBOUND,None,3:15,3,Thunder,Cavaliers,70 - 60,0,N/A,N/A,N/A
+75,Patrick Patterson,FT_MISS,None,3:15,3,Thunder,Cavaliers,70 - 60,0,N/A,1,N/A
+76,David Nwaba,DEFENSIVE_REBOUND,None,3:13,3,Cavaliers,Thunder,70 - 60,1,N/A,N/A,N/A
+77,Jordan Clarkson,TURNOVER,None,2:53,3,Cavaliers,Thunder,70 - 60,1,N/A,N/A,N/A
+78,Jordan Clarkson,TURNOVER,None,2:53,3,Cavaliers,Thunder,70 - 60,1,N/A,N/A,N/A
+79,Ante Zizic,SUBSTITUTION,Thompson Tristan,2:53,3,Cavaliers,Thunder,70 - 60,1,N/A,N/A,N/A
+80,Dennis Schroder,FG_MISS,None,2:41,3,Thunder,Cavaliers,70 - 60,0, ,3,Jumper
+81,Team,OFFENSIVE_REBOUND,None,2:41,3,Thunder,Cavaliers,70 - 60,0,N/A,N/A,N/A
+82,Ante Zizic,FOUL_ON_FLOOR,None,2:41,3,Cavaliers,Thunder,70 - 60,1,N/A,N/A,N/A
+83,Steven Adams,FT_MISS,None,2:41,3,Thunder,Cavaliers,70 - 60,0,N/A,1,N/A
+84,Team,OFFENSIVE_REBOUND,None,2:41,3,Thunder,Cavaliers,70 - 60,0,N/A,N/A,N/A
+85,Raymond Felton,SUBSTITUTION,Schroder Dennis,2:41,3,Thunder,Cavaliers,70 - 60,0,N/A,N/A,N/A
+86,Steven Adams,FT,None,2:41,3,Thunder,Cavaliers,71 - 60,0,N/A,1,N/A
+87,Collin Sexton,FG_MISS,None,2:27,3,Cavaliers,Thunder,71 - 60,1,20,3,Jumper
+88,Paul George,DEFENSIVE_REBOUND,None,2:25,3,Thunder,Cavaliers,71 - 60,0,N/A,N/A,N/A
+89,Paul George,FG_MISS,None,2:16,3,Thunder,Cavaliers,71 - 60,0, ,3,Jumper
+90,Team,OFFENSIVE_REBOUND,None,2:14,3,Thunder,Cavaliers,71 - 60,0,N/A,N/A,N/A
+91,Nerlens Noel,SUBSTITUTION,Adams Steven,2:14,3,Thunder,Cavaliers,71 - 60,0,N/A,N/A,N/A
+92,Team,Unknown,None,2:14,3,Thunder,Cavaliers,71 - 60,0,N/A,N/A,N/A
+93,Alex Abrines,FG_MISS,None,2:11,3,Thunder,Cavaliers,71 - 60,0,23,3,Jumper
+94,Collin Sexton,DEFENSIVE_REBOUND,None,2:08,3,Cavaliers,Thunder,71 - 60,1,N/A,N/A,N/A
+95,Collin Sexton,FG_UNASSISTED,None,2:05,3,Cavaliers,Thunder,71 - 62,1, ,3,Jumper
+96,Raymond Felton,FG_MISS,None,1:48,3,Thunder,Cavaliers,71 - 62,0, ,3,Jumper
+97,Ante Zizic,DEFENSIVE_REBOUND,None,1:46,3,Cavaliers,Thunder,71 - 62,1,N/A,N/A,N/A
+98,David Nwaba,FG_MISS,None,1:38,3,Cavaliers,Thunder,71 - 62,1,0,2,Layup
+99,Ante Zizic,OFFENSIVE_REBOUND,None,1:36,3,Cavaliers,Thunder,71 - 62,1,N/A,N/A,N/A
+100,Ante Zizic's,FG_MISS,Nerlens Noel,1:35,3,Thunder,Cavaliers,71 - 62,1, ,3,Jumper
+101,Ante Zizic,OFFENSIVE_REBOUND,None,1:28,3,Cavaliers,Thunder,71 - 62,1,N/A,N/A,N/A
+102,Ante Zizic,FG_UNASSISTED,None,1:27,3,Cavaliers,Thunder,71 - 64,1, ,3,Jumper
+103,Paul George,TURNOVER,None,1:15,3,Thunder,Cavaliers,71 - 64,0,N/A,N/A,N/A
+104,Paul George,FOUL_ON_FLOOR,None,1:04,3,Thunder,Cavaliers,71 - 64,0,N/A,N/A,N/A
+105,Hamidou Diallo,SUBSTITUTION,George Paul,1:04,3,Thunder,Cavaliers,71 - 64,0,N/A,N/A,N/A
+106,Jordan Clarkson,FG_MISS,Nerlens Noel,52.0,3,Thunder,Cavaliers,71 - 64,1,8,3,Jumper
+107,Jordan Clarkson,OFFENSIVE_REBOUND,None,50.6,3,Cavaliers,Thunder,71 - 64,1,N/A,N/A,N/A
+108,shot clock,TURNOVER,None,50.6,3,Cavaliers,Thunder,71 - 64,1,N/A,N/A,N/A
+109,JR Smith,SUBSTITUTION,Sexton Collin,50.1,3,Cavaliers,Thunder,71 - 64,1,N/A,N/A,N/A
+110,Raymond Felton,FG_MISS,None,37.5,3,Thunder,Cavaliers,71 - 64,0,27,3,Jumper
+111,Team,DEFENSIVE_REBOUND,None,36.0,3,Cavaliers,Thunder,71 - 64,1,N/A,N/A,N/A
+112,Kyle Korver,FG_MISS,None,28.1,3,Cavaliers,Thunder,71 - 64,1,26,3,Jumper
+113,Hamidou Diallo,DEFENSIVE_REBOUND,None,25.4,3,Thunder,Cavaliers,71 - 64,0,N/A,N/A,N/A
+114,Nerlens Noel,FG_MISS,None,4.3,3,Thunder,Cavaliers,71 - 64,0,10,3,Jumper
+115,Kyle Korver,DEFENSIVE_REBOUND,None,1.7,3,Cavaliers,Thunder,71 - 64,1,N/A,N/A,N/A
+116,Kyle Korver,TURNOVER,Raymond Felton,0.0,3,Cavaliers,Thunder,71 - 64,1,N/A,N/A,N/A
+117,Patrick Patterson,FG_MISS,None,0.0,3,Thunder,Cavaliers,71 - 64,0,0,2,Layup
+118,Team,OFFENSIVE_REBOUND,None,0.0,3,Thunder,Cavaliers,71 - 64,0,N/A,N/A,N/A
+119,End of,Unknown,None,0.0,3,Cavaliers,Thunder,71 - 64,1,N/A,N/A,N/A
+0,Kyle Korver,FOUL_ON_FLOOR,None,11:46,4,Cavaliers,Thunder,71 - 64,1,N/A,N/A,N/A
+1,Alex Abrines,FG_UNASSISTED,None,11:32,4,Thunder,Cavaliers,74 - 64,0,28,3,Jumper
+2,Ante Zizic,FOUL_ON_FLOOR,None,11:17,4,Cavaliers,Thunder,74 - 64,1,N/A,N/A,N/A
+3,Ante Zizic,TURNOVER,None,11:17,4,Cavaliers,Thunder,74 - 64,1,N/A,N/A,N/A
+4,Raymond Felton,FG_UNASSISTED,None,11:08,4,Thunder,Cavaliers,76 - 64,0,19,3,Jumper
+5,JR Smith,FG_ASSISTED,Jordan Clarkson,10:45,4,Cavaliers,Thunder,76 - 67,1,25,3,Jumper
+6,Alex Abrines,FG_MISS,David Nwaba,10:33,4,Cavaliers,Thunder,76 - 67,0,3,3,Jumper
+7,Ante Zizic,DEFENSIVE_REBOUND,None,10:29,4,Cavaliers,Thunder,76 - 67,1,N/A,N/A,N/A
+8,Jordan Clarkson,FG_MISS,None,10:26,4,Cavaliers,Thunder,76 - 67,1,26,3,Jumper
+9,Patrick Patterson,DEFENSIVE_REBOUND,None,10:22,4,Thunder,Cavaliers,76 - 67,0,N/A,N/A,N/A
+10,Patrick Patterson,FG_MISS,None,10:11,4,Thunder,Cavaliers,76 - 67,0,15,3,Jumper
+11,Ante Zizic,DEFENSIVE_REBOUND,None,10:11,4,Cavaliers,Thunder,76 - 67,1,N/A,N/A,N/A
+12,Hamidou Diallo,FOUL_ON_FLOOR,None,10:11,4,Thunder,Cavaliers,76 - 67,0,N/A,N/A,N/A
+13,JR Smith,FG_MISS,None,9:45,4,Cavaliers,Thunder,76 - 67,1,29,3,Jumper
+14,Patrick Patterson,DEFENSIVE_REBOUND,None,9:43,4,Thunder,Cavaliers,76 - 67,0,N/A,N/A,N/A
+15,Kyle Korver,FOUL_ON_FLOOR,None,9:38,4,Cavaliers,Thunder,76 - 67,1,N/A,N/A,N/A
+16,Raymond Felton,FG_UNASSISTED,None,9:23,4,Thunder,Cavaliers,78 - 67,0,10,3,Jumper
+17,Nerlens Noel,FOUL_ON_FLOOR,None,9:15,4,Thunder,Cavaliers,78 - 67,0,N/A,N/A,N/A
+18,Collin Sexton,SUBSTITUTION,Nwaba David,9:15,4,Cavaliers,Thunder,78 - 67,1,N/A,N/A,N/A
+19,Ante Zizic,FG_ASSISTED,Kyle Korver,9:10,4,Cavaliers,Thunder,78 - 69,1,0,2,Dunk
+20,Nerlens Noel,TURNOVER,Jordan Clarkson,8:55,4,Thunder,Cavaliers,78 - 69,0,N/A,N/A,N/A
+21,Raymond Felton,FOUL_ON_FLOOR,None,8:51,4,Thunder,Cavaliers,78 - 69,0,N/A,N/A,N/A
+22,Ante Zizic,FT,None,8:51,4,Cavaliers,Thunder,78 - 70,1,N/A,1,N/A
+23,Paul George,SUBSTITUTION,Abrines Alex,8:51,4,Thunder,Cavaliers,78 - 70,0,N/A,N/A,N/A
+24,Terrance Ferguson,SUBSTITUTION,Patterson Patrick,8:51,4,Thunder,Cavaliers,78 - 70,0,N/A,N/A,N/A
+25,Ante Zizic,FT,None,8:51,4,Cavaliers,Thunder,78 - 71,1,N/A,1,N/A
+26,Raymond Felton,FG_MISS,None,8:35,4,Thunder,Cavaliers,78 - 71,0,15,3,Jumper
+27,Ante Zizic,DEFENSIVE_REBOUND,None,8:32,4,Cavaliers,Thunder,78 - 71,1,N/A,N/A,N/A
+28,Kyle Korver,FG_ASSISTED,Jordan Clarkson,8:13,4,Cavaliers,Thunder,78 - 74,1,23,3,Jumper
+29,Hamidou Diallo,FG_MISS,None,7:50,4,Thunder,Cavaliers,78 - 74,0,24,3,Jumper
+30,Jordan Clarkson,DEFENSIVE_REBOUND,None,7:48,4,Cavaliers,Thunder,78 - 74,1,N/A,N/A,N/A
+31,JR Smith,FG_ASSISTED,Jordan Clarkson,7:42,4,Cavaliers,Thunder,78 - 77,1,25,3,Jumper
+32,Team,Unknown,None,7:42,4,Thunder,Cavaliers,78 - 77,0,N/A,N/A,N/A
+33,Dennis Schroder,SUBSTITUTION,Felton Raymond,7:42,4,Thunder,Cavaliers,78 - 77,0,N/A,N/A,N/A
+34,Steven Adams,SUBSTITUTION,Noel Nerlens,7:42,4,Thunder,Cavaliers,78 - 77,0,N/A,N/A,N/A
+35,Terrance Ferguson,TURNOVER,JR Smith,7:25,4,Thunder,Cavaliers,78 - 77,0,N/A,N/A,N/A
+36,Jordan Clarkson,FG_MISS,None,7:08,4,Cavaliers,Thunder,78 - 77,1,26,3,Jumper
+37,Jordan Clarkson,OFFENSIVE_REBOUND,None,7:07,4,Cavaliers,Thunder,78 - 77,1,N/A,N/A,N/A
+38,Kyle Korver,FG_ASSISTED,Jordan Clarkson,7:02,4,Cavaliers,Thunder,78 - 80,1, ,3,Jumper
+39,Paul George,FG_UNASSISTED,None,6:43,4,Thunder,Cavaliers,80 - 80,0,0,2,Layup
+40,Jordan Clarkson,FG_UNASSISTED,None,6:18,4,Cavaliers,Thunder,80 - 82,1,0,2,Layup
+41,Dennis Schroder,FG_UNASSISTED,None,6:03,4,Thunder,Cavaliers,82 - 82,0,12,3,Jumper
+42,JR Smith,FG_MISS,None,5:42,4,Cavaliers,Thunder,82 - 82,1,27,3,Jumper
+43,Hamidou Diallo,DEFENSIVE_REBOUND,None,5:38,4,Thunder,Cavaliers,82 - 82,0,N/A,N/A,N/A
+44,Hamidou Diallo,FG_MISS,None,5:30,4,Thunder,Cavaliers,82 - 82,0,23,3,Jumper
+45,Kyle Korver,DEFENSIVE_REBOUND,None,5:28,4,Cavaliers,Thunder,82 - 82,1,N/A,N/A,N/A
+46,Jordan Clarkson,TURNOVER,Steven Adams,5:20,4,Cavaliers,Thunder,82 - 82,1,N/A,N/A,N/A
+47,Jordan Clarkson,FOUL_ON_FLOOR,None,5:09,4,Cavaliers,Thunder,82 - 82,1,N/A,N/A,N/A
+48,Dennis Schroder,FT,None,5:09,4,Thunder,Cavaliers,83 - 82,0,N/A,1,N/A
+49,Tristan Thompson,SUBSTITUTION,Zizic Ante,5:09,4,Cavaliers,Thunder,83 - 82,1,N/A,N/A,N/A
+50,Alex Abrines,SUBSTITUTION,Diallo Hamidou,5:09,4,Thunder,Cavaliers,83 - 82,0,N/A,N/A,N/A
+51,Jerami Grant,SUBSTITUTION,Ferguson Terrance,5:09,4,Thunder,Cavaliers,83 - 82,0,N/A,N/A,N/A
+52,Dennis Schroder,FT,None,5:09,4,Thunder,Cavaliers,84 - 82,0,N/A,1,N/A
+53,Team,Unknown,None,5:09,4,Cavaliers,Thunder,84 - 82,1,N/A,N/A,N/A
+54,Jordan Clarkson,FG_UNASSISTED,None,4:49,4,Cavaliers,Thunder,84 - 84,1,0,2,Layup
+55,Alex Abrines,FG_ASSISTED,Paul George,4:35,4,Thunder,Cavaliers,87 - 84,0,23,3,Jumper
+56,Collin Sexton,FG_MISS,None,4:20,4,Cavaliers,Thunder,87 - 84,1,0,2,Layup
+57,Steven Adams,DEFENSIVE_REBOUND,None,4:20,4,Thunder,Cavaliers,87 - 84,0,N/A,N/A,N/A
+58,foul 87,FOUL_ON_FLOOR,None,4:19,4,Cavaliers,Thunder,87 - 84,1,N/A,N/A,N/A
+59,JR Smith,FOUL_ON_FLOOR,None,4:19,4,Cavaliers,Thunder,87 - 84,1,N/A,N/A,N/A
+60,Paul George,FG_MISS,None,4:09,4,Thunder,Cavaliers,87 - 84,0,26,3,Jumper
+61,Tristan Thompson,DEFENSIVE_REBOUND,None,4:06,4,Cavaliers,Thunder,87 - 84,1,N/A,N/A,N/A
+62,JR Smith,FG_MISS,None,3:59,4,Cavaliers,Thunder,87 - 84,1,30,3,Jumper
+63,Dennis Schroder,DEFENSIVE_REBOUND,None,3:57,4,Thunder,Cavaliers,87 - 84,0,N/A,N/A,N/A
+64,Paul George,TURNOVER,None,3:52,4,Thunder,Cavaliers,87 - 84,0,N/A,N/A,N/A
+65,Kyle Korver,FG_MISS,None,3:37,4,Cavaliers,Thunder,87 - 84,1,27,3,Jumper
+66,Steven Adams,DEFENSIVE_REBOUND,None,3:35,4,Thunder,Cavaliers,87 - 84,0,N/A,N/A,N/A
+67,Jerami Grant,FG_MISS,None,3:24,4,Thunder,Cavaliers,87 - 84,0,0,2,Layup
+68,Jerami Grant,OFFENSIVE_REBOUND,None,3:17,4,Thunder,Cavaliers,87 - 84,0,N/A,N/A,N/A
+69,Jerami Grant,FG_UNASSISTED,None,3:17,4,Thunder,Cavaliers,89 - 84,0, ,3,Jumper
+70,Jordan Clarkson,FG_MISS,None,3:06,4,Cavaliers,Thunder,89 - 84,1, ,3,Jumper
+71,Tristan Thompson,OFFENSIVE_REBOUND,None,3:02,4,Cavaliers,Thunder,89 - 84,1,N/A,N/A,N/A
+72,Tristan Thompson,FG_MISS,None,3:02,4,Cavaliers,Thunder,89 - 84,1, ,3,Jumper
+73,Jordan Clarkson,OFFENSIVE_REBOUND,None,3:00,4,Cavaliers,Thunder,89 - 84,1,N/A,N/A,N/A
+74,Jordan Clarkson,TURNOVER,Paul George,2:59,4,Cavaliers,Thunder,89 - 84,1,N/A,N/A,N/A
+75,Tristan Thompson,FOUL_ON_FLOOR,None,2:52,4,Cavaliers,Thunder,89 - 84,1,N/A,N/A,N/A
+76,Steven Adams,FT_MISS,None,2:52,4,Thunder,Cavaliers,89 - 84,0,N/A,1,N/A
+77,Team,OFFENSIVE_REBOUND,None,2:52,4,Thunder,Cavaliers,89 - 84,0,N/A,N/A,N/A
+78,Steven Adams,FT,None,2:52,4,Thunder,Cavaliers,90 - 84,0,N/A,1,N/A
+79,Collin Sexton,TURNOVER,Steven Adams,2:33,4,Cavaliers,Thunder,90 - 84,1,N/A,N/A,N/A
+80,JR Smith,FOUL_ON_FLOOR,None,2:31,4,Cavaliers,Thunder,90 - 84,1,N/A,N/A,N/A
+81,Jerami Grant,FT,None,2:31,4,Thunder,Cavaliers,91 - 84,0,N/A,1,N/A
+82,Larry Nance,SUBSTITUTION,Smith JR,2:31,4,Cavaliers,Thunder,91 - 84,1,N/A,N/A,N/A
+83,Jerami Grant,FT,None,2:31,4,Thunder,Cavaliers,92 - 84,0,N/A,1,N/A
+84,Alex Abrines,FOUL_ON_FLOOR,None,2:16,4,Thunder,Cavaliers,92 - 84,0,N/A,N/A,N/A
+85,Kyle Korver,FG_MISS,None,2:05,4,Cavaliers,Thunder,92 - 84,1,26,3,Jumper
+86,Steven Adams,DEFENSIVE_REBOUND,None,2:03,4,Thunder,Cavaliers,92 - 84,0,N/A,N/A,N/A
+87,Alex Abrines,FG_MISS,None,1:49,4,Thunder,Cavaliers,92 - 84,0,24,3,Jumper
+88,Tristan Thompson,DEFENSIVE_REBOUND,None,1:46,4,Cavaliers,Thunder,92 - 84,1,N/A,N/A,N/A
+89,Tristan Thompson,FG_ASSISTED,Jordan Clarkson,1:40,4,Cavaliers,Thunder,92 - 86,1,10,3,Jumper
+90,Alex Abrines,FG_MISS,None,1:17,4,Thunder,Cavaliers,92 - 86,0,25,3,Jumper
+91,Larry Nance,DEFENSIVE_REBOUND,None,1:13,4,Cavaliers,Thunder,92 - 86,1,N/A,N/A,N/A
+92,Jordan Clarkson,FG_MISS,None,1:03,4,Cavaliers,Thunder,92 - 86,1,25,3,Jumper
+93,Dennis Schroder,DEFENSIVE_REBOUND,None,1:01,4,Thunder,Cavaliers,92 - 86,0,N/A,N/A,N/A
+94,Dennis Schroder,FG_UNASSISTED,None,43.3,4,Thunder,Cavaliers,94 - 86,0,0,2,Layup
+95,Tristan Thompson,Unknown,None,43.3,4,Cavaliers,Thunder,94 - 86,1,N/A,N/A,N/A
+96,Collin Sexton,FG_MISS,None,24.2,4,Cavaliers,Thunder,94 - 86,1,20,3,Jumper
+97,Jerami Grant,DEFENSIVE_REBOUND,None,21.8,4,Thunder,Cavaliers,94 - 86,0,N/A,N/A,N/A
+98,Larry Nance,FOUL_ON_FLOOR,None,13.5,4,Cavaliers,Thunder,94 - 86,1,N/A,N/A,N/A
+99,Dennis Schroder,FT,None,13.5,4,Thunder,Cavaliers,95 - 86,0,N/A,1,N/A
+100,Hamidou Diallo,SUBSTITUTION,George Paul,13.5,4,Thunder,Cavaliers,95 - 86,0,N/A,N/A,N/A
+101,Dennis Schroder,FT_MISS,None,13.5,4,Thunder,Cavaliers,95 - 86,0,N/A,1,N/A
+102,Tristan Thompson,DEFENSIVE_REBOUND,None,13.2,4,Cavaliers,Thunder,95 - 86,1,N/A,N/A,N/A
+103,Team,Unknown,None,13.2,4,Cavaliers,Thunder,95 - 86,1,N/A,N/A,N/A
+104,Kyle Korver,FG_MISS,None,10.0,4,Cavaliers,Thunder,95 - 86,1,23,3,Jumper
+105,Hamidou Diallo,DEFENSIVE_REBOUND,None,7.1,4,Thunder,Cavaliers,95 - 86,0,N/A,N/A,N/A
+106,End of,Unknown,None,0.0,4,Cavaliers,Thunder,95 - 86,1,N/A,N/A,N/A
+107,End of,Unknown,None,0.0,4,Cavaliers,Thunder,95 - 86,1,N/A,N/A,N/A

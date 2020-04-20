@@ -1,0 +1,492 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Kevin Durant,JUMP_BALL,None,12:00,1,Warriors,Trail Blazers,0 - 0,0,N/A,N/A,N/A
+1,Klay Thompson,FG_MISS,None,11:45,1,Warriors,Trail Blazers,0 - 0,0,25,3,Jumper
+2,Al-Farouq Aminu,DEFENSIVE_REBOUND,None,11:42,1,Trail Blazers,Warriors,0 - 0,1,N/A,N/A,N/A
+3,Al-Farouq Aminu,FG_ASSISTED,Damian Lillard,11:31,1,Trail Blazers,Warriors,0 - 2,1,0,2,Dunk
+4,Stephen Curry,FG_ASSISTED,Draymond Green,11:14,1,Warriors,Trail Blazers,2 - 2,0,22,2,Jumper
+5,Damian Lillard,FG_ASSISTED,Al-Farouq Aminu,10:58,1,Trail Blazers,Warriors,2 - 5,1,29,3,Jumper
+6,Kevon Looney,FG_MISS,None,10:46,1,Warriors,Trail Blazers,2 - 5,0,0,2,Layup
+7,Kevon Looney,OFFENSIVE_REBOUND,None,10:42,1,Warriors,Trail Blazers,2 - 5,0,N/A,N/A,N/A
+8,Kevon Looney,FG_MISS,None,10:42,1,Warriors,Trail Blazers,2 - 5,0,-,2,Jumper
+9,Kevon Looney,OFFENSIVE_REBOUND,None,10:42,1,Warriors,Trail Blazers,2 - 5,0,N/A,N/A,N/A
+10,Kevon Looney,JUMP_BALL,None,10:38,1,Warriors,Trail Blazers,2 - 5,0,N/A,N/A,N/A
+11,Stephen Curry,FG_MISS,None,10:35,1,Warriors,Trail Blazers,2 - 5,0,34,3,Jumper
+12,CJ McCollum,DEFENSIVE_REBOUND,None,10:33,1,Trail Blazers,Warriors,2 - 5,1,N/A,N/A,N/A
+13,Jusuf Nurkic,FG_MISS,None,10:20,1,Trail Blazers,Warriors,2 - 5,1,5,2,Jumper
+14,Jusuf Nurkic,OFFENSIVE_REBOUND,None,10:19,1,Trail Blazers,Warriors,2 - 5,1,N/A,N/A,N/A
+15,Jusuf Nurkic,FG_MISS,None,10:17,1,Trail Blazers,Warriors,2 - 5,1,0,2,Layup
+16,Jusuf Nurkic,OFFENSIVE_REBOUND,None,10:15,1,Trail Blazers,Warriors,2 - 5,1,N/A,N/A,N/A
+17,Al-Farouq Aminu,FG_MISS,None,10:12,1,Trail Blazers,Warriors,2 - 5,1,25,3,Jumper
+18,Team,DEFENSIVE_REBOUND,None,10:10,1,Warriors,Trail Blazers,2 - 5,0,N/A,N/A,N/A
+19,Draymond Green,FG_ASSISTED,Stephen Curry,9:55,1,Warriors,Trail Blazers,5 - 5,0,26,3,Jumper
+20,Kevin Durant,FOUL_ON_FLOOR,None,9:42,1,Warriors,Trail Blazers,5 - 5,0,N/A,N/A,N/A
+21,Al-Farouq Aminu,FT,None,9:42,1,Trail Blazers,Warriors,5 - 6,1,N/A,1,N/A
+22,Al-Farouq Aminu,FT,None,9:42,1,Trail Blazers,Warriors,5 - 7,1,N/A,1,N/A
+23,Kevin Durant,FG_MISS,None,9:30,1,Warriors,Trail Blazers,5 - 7,0,-,2,Jumper
+24,Jusuf Nurkic,DEFENSIVE_REBOUND,None,9:29,1,Trail Blazers,Warriors,5 - 7,1,N/A,N/A,N/A
+25,CJ McCollum,FG_ASSISTED,Damian Lillard,9:22,1,Trail Blazers,Warriors,5 - 10,1,25,2,Jumper
+26,Klay Thompson,FG_ASSISTED,Draymond Green,9:10,1,Warriors,Trail Blazers,8 - 10,0,25,3,Jumper
+27,Draymond Green,JUMP_BALL,None,8:58,1,Trail Blazers,Warriors,8 - 10,1,N/A,N/A,N/A
+28,Damian Lillard,FG_MISS,None,8:46,1,Trail Blazers,Warriors,8 - 10,1,25,3,Jumper
+29,Team,DEFENSIVE_REBOUND,None,8:45,1,Warriors,Trail Blazers,8 - 10,0,N/A,N/A,N/A
+30,Stephen Curry,FG_UNASSISTED,None,8:38,1,Warriors,Trail Blazers,11 - 10,0,26,3,Jumper
+31,Damian Lillard,FG_UNASSISTED,None,8:19,1,Trail Blazers,Warriors,11 - 12,1,21,2,Jumper
+32,Stephen Curry,FG_MISS,None,8:14,1,Warriors,Trail Blazers,11 - 12,0, ,2,Jumper
+33,Team,DEFENSIVE_REBOUND,None,8:12,1,Trail Blazers,Warriors,11 - 12,1,N/A,N/A,N/A
+34,CJ McCollum,FG_MISS,None,7:57,1,Trail Blazers,Warriors,11 - 12,1, ,2,Jumper
+35,Al-Farouq Aminu,OFFENSIVE_REBOUND,None,7:55,1,Trail Blazers,Warriors,11 - 12,1,N/A,N/A,N/A
+36,Maurice Harkless,FG_ASSISTED,Al-Farouq Aminu,7:51,1,Trail Blazers,Warriors,11 - 15,1,25,3,Jumper
+37,Kevin Durant,FG_ASSISTED,Draymond Green,7:34,1,Warriors,Trail Blazers,13 - 15,0,0,2,Dunk
+38,CJ McCollum,FG_MISS,Kevon Looney,7:15,1,Warriors,Trail Blazers,13 - 15,1,0,2,Layup
+39,Klay Thompson,DEFENSIVE_REBOUND,None,7:12,1,Warriors,Trail Blazers,13 - 15,0,N/A,N/A,N/A
+40,Klay Thompson,FG_MISS,None,7:05,1,Warriors,Trail Blazers,13 - 15,0,17,2,Jumper
+41,Jusuf Nurkic,DEFENSIVE_REBOUND,None,7:04,1,Trail Blazers,Warriors,13 - 15,1,N/A,N/A,N/A
+42,Kevon Looney,FOUL_ON_FLOOR,None,6:55,1,Warriors,Trail Blazers,13 - 15,0,N/A,N/A,N/A
+43,Team,Unknown,None,6:55,1,Trail Blazers,Warriors,13 - 15,1,N/A,N/A,N/A
+44,Jusuf Nurkic,FG_MISS,None,6:48,1,Trail Blazers,Warriors,13 - 15,1,3,2,Jumper
+45,Kevon Looney,DEFENSIVE_REBOUND,None,6:45,1,Warriors,Trail Blazers,13 - 15,0,N/A,N/A,N/A
+46,Kevin Durant,FG_ASSISTED,Draymond Green,6:32,1,Warriors,Trail Blazers,15 - 15,0,20,2,Jumper
+47,Stephen Curry,FOUL_ON_FLOOR,None,6:15,1,Warriors,Trail Blazers,15 - 15,0,N/A,N/A,N/A
+48,Maurice Harkless,FG_MISS,None,6:09,1,Trail Blazers,Warriors,15 - 15,1,2,2,Jumper
+49,Team,OFFENSIVE_REBOUND,None,6:09,1,Trail Blazers,Warriors,15 - 15,1,N/A,N/A,N/A
+50,Jusuf Nurkic,FG_MISS,Kevon Looney,6:02,1,Warriors,Trail Blazers,15 - 15,1,0,2,Layup
+51,Team,OFFENSIVE_REBOUND,None,6:02,1,Trail Blazers,Warriors,15 - 15,1,N/A,N/A,N/A
+52,Jusuf Nurkic,FG_ASSISTED,Al-Farouq Aminu,5:58,1,Trail Blazers,Warriors,15 - 17,1,3,2,Jumper
+53,Stephen Curry,FG_UNASSISTED,None,5:45,1,Warriors,Trail Blazers,17 - 17,0,15,2,Jumper
+54,Jusuf Nurkic,FG_MISS,None,5:34,1,Trail Blazers,Warriors,17 - 17,1,0,2,Layup
+55,Jusuf Nurkic,OFFENSIVE_REBOUND,None,5:30,1,Trail Blazers,Warriors,17 - 17,1,N/A,N/A,N/A
+56,Jusuf Nurkic,FG_MISS,Kevin Durant,5:23,1,Warriors,Trail Blazers,17 - 17,1,2,2,Jumper
+57,Jusuf Nurkic,OFFENSIVE_REBOUND,None,5:20,1,Trail Blazers,Warriors,17 - 17,1,N/A,N/A,N/A
+58,Jusuf Nurkic,FG_MISS,None,5:20,1,Trail Blazers,Warriors,17 - 17,1,8,2,Jumper
+59,Kevin Durant,DEFENSIVE_REBOUND,None,5:20,1,Warriors,Trail Blazers,17 - 17,0,N/A,N/A,N/A
+60,Stephen Curry,FG_MISS,None,5:14,1,Warriors,Trail Blazers,17 - 17,0,28,3,Jumper
+61,Al-Farouq Aminu,DEFENSIVE_REBOUND,None,5:12,1,Trail Blazers,Warriors,17 - 17,1,N/A,N/A,N/A
+62,CJ McCollum,FG_MISS,None,5:02,1,Trail Blazers,Warriors,17 - 17,1,25,3,Jumper
+63,Klay Thompson,DEFENSIVE_REBOUND,None,5:00,1,Warriors,Trail Blazers,17 - 17,0,N/A,N/A,N/A
+64,Klay Thompson,FG_MISS,None,4:47,1,Warriors,Trail Blazers,17 - 17,0,8,2,Jumper
+65,Damian Lillard,DEFENSIVE_REBOUND,None,4:45,1,Trail Blazers,Warriors,17 - 17,1,N/A,N/A,N/A
+66,Maurice Harkless,FG_MISS,None,4:35,1,Trail Blazers,Warriors,17 - 17,1,23,3,Jumper
+67,Jusuf Nurkic,OFFENSIVE_REBOUND,None,4:32,1,Trail Blazers,Warriors,17 - 17,1,N/A,N/A,N/A
+68,Jusuf Nurkic,FG_UNASSISTED,None,4:32,1,Trail Blazers,Warriors,17 - 19,1, ,2,Jumper
+69,Team,Unknown,None,4:28,1,Warriors,Trail Blazers,17 - 19,0,N/A,N/A,N/A
+70,Jake Layman,SUBSTITUTION,Harkless Maurice,4:28,1,Trail Blazers,Warriors,17 - 19,1,N/A,N/A,N/A
+71,Jonas Jerebko,SUBSTITUTION,Green Draymond,4:28,1,Warriors,Trail Blazers,17 - 19,0,N/A,N/A,N/A
+72,Kevin Durant,FG_ASSISTED,Kevon Looney,4:20,1,Warriors,Trail Blazers,19 - 19,0,0,2,Layup
+73,Damian Lillard,FG_MISS,None,4:11,1,Trail Blazers,Warriors,19 - 19,1,15,2,Jumper
+74,Kevon Looney,DEFENSIVE_REBOUND,None,4:09,1,Warriors,Trail Blazers,19 - 19,0,N/A,N/A,N/A
+75,Al-Farouq Aminu,FOUL_ON_FLOOR,None,4:02,1,Trail Blazers,Warriors,19 - 19,1,N/A,N/A,N/A
+76,Alfonzo McKinnie,SUBSTITUTION,Thompson Klay,4:02,1,Warriors,Trail Blazers,19 - 19,0,N/A,N/A,N/A
+77,Stephen Curry,FG_ASSISTED,Jonas Jerebko,3:55,1,Warriors,Trail Blazers,21 - 19,0, ,2,Jumper
+78,Jusuf Nurkic,FG_ASSISTED,CJ McCollum,3:36,1,Trail Blazers,Warriors,21 - 21,1, ,2,Jumper
+79,Jonas Jerebko,FG_MISS,None,3:23,1,Warriors,Trail Blazers,21 - 21,0,0,2,Layup
+80,Kevin Durant,OFFENSIVE_REBOUND,None,3:20,1,Warriors,Trail Blazers,21 - 21,0,N/A,N/A,N/A
+81,Kevin Durant,FG_UNASSISTED,None,3:18,1,Warriors,Trail Blazers,23 - 21,0,17,2,Jumper
+82,Alfonzo McKinnie,FOUL_ON_FLOOR,None,3:12,1,Warriors,Trail Blazers,23 - 21,0,N/A,N/A,N/A
+83,CJ McCollum,FT,None,3:12,1,Trail Blazers,Warriors,23 - 22,1,N/A,1,N/A
+84,Rodney Hood,SUBSTITUTION,Aminu Al-Farouq,3:12,1,Trail Blazers,Warriors,23 - 22,1,N/A,N/A,N/A
+85,Zach Collins,SUBSTITUTION,Nurkic Jusuf,3:12,1,Trail Blazers,Warriors,23 - 22,1,N/A,N/A,N/A
+86,Jordan Bell,SUBSTITUTION,Looney Kevon,3:12,1,Warriors,Trail Blazers,23 - 22,0,N/A,N/A,N/A
+87,CJ McCollum,FT,None,3:12,1,Trail Blazers,Warriors,23 - 23,1,N/A,1,N/A
+88,Stephen Curry,FG_MISS,None,2:53,1,Warriors,Trail Blazers,23 - 23,0,0,2,Layup
+89,Team,OFFENSIVE_REBOUND,None,2:53,1,Warriors,Trail Blazers,23 - 23,0,N/A,N/A,N/A
+90,Jake Layman,FOUL_ON_FLOOR,None,2:53,1,Trail Blazers,Warriors,23 - 23,1,N/A,N/A,N/A
+91,Evan Turner,SUBSTITUTION,McCollum CJ,2:53,1,Trail Blazers,Warriors,23 - 23,1,N/A,N/A,N/A
+92,Kevin Durant,FG_UNASSISTED,None,2:46,1,Warriors,Trail Blazers,25 - 23,0,14,2,Jumper
+93,Damian Lillard,FG_MISS,None,2:35,1,Trail Blazers,Warriors,25 - 23,1,28,3,Jumper
+94,Jonas Jerebko,DEFENSIVE_REBOUND,None,2:34,1,Warriors,Trail Blazers,25 - 23,0,N/A,N/A,N/A
+95,Kevin Durant,FG_UNASSISTED,None,2:27,1,Warriors,Trail Blazers,27 - 23,0,15,2,Jumper
+96,Rodney Hood,FG_MISS,None,2:01,1,Trail Blazers,Warriors,27 - 23,1,27,3,Jumper
+97,Stephen Curry,DEFENSIVE_REBOUND,None,1:56,1,Warriors,Trail Blazers,27 - 23,0,N/A,N/A,N/A
+98,Stephen Curry,TURNOVER,None,1:53,1,Warriors,Trail Blazers,27 - 23,0,N/A,N/A,N/A
+99,Quinn Cook,SUBSTITUTION,Curry Stephen,1:53,1,Warriors,Trail Blazers,27 - 23,0,N/A,N/A,N/A
+100,Damian Lillard,FG_ASSISTED,Evan Turner,1:39,1,Trail Blazers,Warriors,27 - 26,1,25,3,Jumper
+101,Jordan Bell,FG_ASSISTED,Kevin Durant,1:26,1,Warriors,Trail Blazers,29 - 26,0,7,2,Jumper
+102,Evan Turner,TURNOVER,None,1:18,1,Trail Blazers,Warriors,29 - 26,1,N/A,N/A,N/A
+103,Kevin Durant,FG_MISS,None,1:00,1,Warriors,Trail Blazers,29 - 26,0, ,2,Jumper
+104,Evan Turner,DEFENSIVE_REBOUND,None,58.7,1,Trail Blazers,Warriors,29 - 26,1,N/A,N/A,N/A
+105,Damian Lillard,FG_ASSISTED,Evan Turner,53.2,1,Trail Blazers,Warriors,29 - 29,1,25,3,Jumper
+106,Alfonzo McKinnie,FG_MISS,None,36.1,1,Warriors,Trail Blazers,29 - 29,0, ,2,Jumper
+107,Kevin Durant,OFFENSIVE_REBOUND,None,34.0,1,Warriors,Trail Blazers,29 - 29,0,N/A,N/A,N/A
+108,Evan Turner,FOUL_ON_FLOOR,None,34.0,1,Trail Blazers,Warriors,29 - 29,1,N/A,N/A,N/A
+109,Kevin Durant,FT_MISS,None,34.0,1,Warriors,Trail Blazers,29 - 29,0,N/A,1,N/A
+110,Team,OFFENSIVE_REBOUND,None,34.0,1,Warriors,Trail Blazers,29 - 29,0,N/A,N/A,N/A
+111,Kevin Durant,FT,None,34.0,1,Warriors,Trail Blazers,30 - 29,0,N/A,1,N/A
+112,Damian Lillard,FG_UNASSISTED,None,20.0,1,Trail Blazers,Warriors,30 - 31,1,0,2,Layup
+113,Kevin Durant,FG_UNASSISTED,None,3.3,1,Warriors,Trail Blazers,33 - 31,0,26,3,Jumper
+114,End of,Unknown,None,0.0,1,Trail Blazers,Warriors,33 - 31,1,N/A,N/A,N/A
+0,Seth Curry,SUBSTITUTION,Lillard Damian,12:00,2,Trail Blazers,Warriors,33 - 31,1,N/A,N/A,N/A
+1,Draymond Green,SUBSTITUTION,Bell Jordan,12:00,2,Warriors,Trail Blazers,33 - 31,0,N/A,N/A,N/A
+2,Klay Thompson,SUBSTITUTION,Durant Kevin,12:00,2,Warriors,Trail Blazers,33 - 31,0,N/A,N/A,N/A
+3,Zach Collins,FG_MISS,None,11:42,2,Trail Blazers,Warriors,33 - 31,1,26,3,Jumper
+4,Alfonzo McKinnie,DEFENSIVE_REBOUND,None,11:38,2,Warriors,Trail Blazers,33 - 31,0,N/A,N/A,N/A
+5,Draymond Green,FG_ASSISTED,Klay Thompson,11:26,2,Warriors,Trail Blazers,35 - 31,0,23,2,Jumper
+6,Quinn Cook,FOUL_ON_FLOOR,None,11:10,2,Warriors,Trail Blazers,35 - 31,0,N/A,N/A,N/A
+7,Evan Turner,FG_UNASSISTED,None,10:59,2,Trail Blazers,Warriors,35 - 33,1,18,2,Jumper
+8,Draymond Green,FG_ASSISTED,Klay Thompson,10:45,2,Warriors,Trail Blazers,37 - 33,0,18,2,Jumper
+9,Rodney Hood,FG_ASSISTED,Evan Turner,10:29,2,Trail Blazers,Warriors,37 - 35,1,18,2,Jumper
+10,Jonas Jerebko,FOUL_ON_FLOOR,None,10:29,2,Warriors,Trail Blazers,37 - 33,0,N/A,N/A,N/A
+11,Rodney Hood,FT,None,10:29,2,Trail Blazers,Warriors,37 - 34,1,N/A,1,N/A
+12,Klay Thompson,FG_MISS,None,10:16,2,Warriors,Trail Blazers,37 - 36,0,0,2,Layup
+13,Evan Turner,DEFENSIVE_REBOUND,None,10:14,2,Trail Blazers,Warriors,37 - 36,1,N/A,N/A,N/A
+14,Evan Turner,FG_ASSISTED,Seth Curry,9:57,2,Trail Blazers,Warriors,37 - 38,1,9,2,Jumper
+15,Klay Thompson,FG_ASSISTED,Draymond Green,9:49,2,Warriors,Trail Blazers,40 - 38,0,26,3,Jumper
+16,Jake Layman,FG_MISS,None,9:26,2,Trail Blazers,Warriors,40 - 38,1,25,3,Jumper
+17,Team,DEFENSIVE_REBOUND,None,9:26,2,Warriors,Trail Blazers,40 - 38,0,N/A,N/A,N/A
+18,Draymond Green,FG_ASSISTED,Klay Thompson,9:12,2,Warriors,Trail Blazers,42 - 38,0,16,2,Jumper
+19,Evan Turner,FG_UNASSISTED,None,8:52,2,Trail Blazers,Warriors,42 - 40,1,0,2,Layup
+20,Draymond Green,TURNOVER,Rodney Hood,8:46,2,Warriors,Trail Blazers,42 - 40,0,N/A,N/A,N/A
+21,Alfonzo McKinnie,FOUL_ON_FLOOR,None,8:45,2,Warriors,Trail Blazers,42 - 40,0,N/A,N/A,N/A
+22,Jordan Bell,SUBSTITUTION,Jerebko Jonas,8:45,2,Warriors,Trail Blazers,42 - 40,0,N/A,N/A,N/A
+23,Damion Lee,SUBSTITUTION,McKinnie Alfonzo,8:45,2,Warriors,Trail Blazers,42 - 40,0,N/A,N/A,N/A
+24,Seth Curry,FG_UNASSISTED,None,8:38,2,Trail Blazers,Warriors,42 - 42,1,5,2,Jumper
+25,Zach Collins,FOUL_TECHNICAL,None,8:25,2,Trail Blazers,Warriors,42 - 42,1,N/A,N/A,N/A
+26,Klay Thompson,FT,None,8:25,2,Warriors,Trail Blazers,43 - 42,0,N/A,1,N/A
+27,Damion Lee,FG_MISS,None,8:20,2,Warriors,Trail Blazers,43 - 42,0,26,3,Jumper
+28,Jordan Bell,OFFENSIVE_REBOUND,None,8:18,2,Warriors,Trail Blazers,43 - 42,0,N/A,N/A,N/A
+29,Quinn Cook,FG_ASSISTED,Klay Thompson,8:13,2,Warriors,Trail Blazers,46 - 42,0,23,3,Jumper
+30,Draymond Green,Unknown,None,8:03,2,Warriors,Trail Blazers,46 - 42,0,N/A,N/A,N/A
+31,Jordan Bell,FOUL_ON_FLOOR,None,7:57,2,Warriors,Trail Blazers,46 - 42,0,N/A,N/A,N/A
+32,Seth Curry,FT,None,7:57,2,Trail Blazers,Warriors,46 - 43,1,N/A,1,N/A
+33,Seth Curry,FT_MISS,None,7:57,2,Trail Blazers,Warriors,46 - 43,1,N/A,1,N/A
+34,Draymond Green,DEFENSIVE_REBOUND,None,7:55,2,Warriors,Trail Blazers,46 - 43,0,N/A,N/A,N/A
+35,Quinn Cook,FG_MISS,None,7:42,2,Warriors,Trail Blazers,46 - 43,0,19,2,Jumper
+36,Evan Turner,DEFENSIVE_REBOUND,None,7:40,2,Trail Blazers,Warriors,46 - 43,1,N/A,N/A,N/A
+37,Evan Turner,FG_UNASSISTED,None,7:31,2,Trail Blazers,Warriors,46 - 45,1, ,2,Jumper
+38,Rodney Hood,FOUL_ON_FLOOR,None,7:27,2,Trail Blazers,Warriors,46 - 45,1,N/A,N/A,N/A
+39,Damion Lee,FT_MISS,None,7:27,2,Warriors,Trail Blazers,46 - 45,0,N/A,1,N/A
+40,Team,OFFENSIVE_REBOUND,None,7:27,2,Warriors,Trail Blazers,46 - 45,0,N/A,N/A,N/A
+41,Jusuf Nurkic,SUBSTITUTION,Layman Jake,7:27,2,Trail Blazers,Warriors,46 - 45,1,N/A,N/A,N/A
+42,CJ McCollum,SUBSTITUTION,Collins Zach,7:27,2,Trail Blazers,Warriors,46 - 45,1,N/A,N/A,N/A
+43,Damion Lee,FT,None,7:27,2,Warriors,Trail Blazers,47 - 45,0,N/A,1,N/A
+44,Evan Turner,FG_MISS,None,7:20,2,Trail Blazers,Warriors,47 - 45,1,10,2,Jumper
+45,Damion Lee,DEFENSIVE_REBOUND,None,7:18,2,Warriors,Trail Blazers,47 - 45,0,N/A,N/A,N/A
+46,Klay Thompson,FG_MISS,None,7:12,2,Warriors,Trail Blazers,47 - 45,0,26,3,Jumper
+47,Jusuf Nurkic,DEFENSIVE_REBOUND,None,7:09,2,Trail Blazers,Warriors,47 - 45,1,N/A,N/A,N/A
+48,Draymond Green,FOUL_ON_FLOOR,None,6:54,2,Warriors,Trail Blazers,47 - 45,0,N/A,N/A,N/A
+49,Team,Unknown,None,6:54,2,Trail Blazers,Warriors,47 - 45,1,N/A,N/A,N/A
+50,Kevon Looney,SUBSTITUTION,Cook Quinn,6:54,2,Warriors,Trail Blazers,47 - 45,0,N/A,N/A,N/A
+51,Stephen Curry,SUBSTITUTION,Green Draymond,6:54,2,Warriors,Trail Blazers,47 - 45,0,N/A,N/A,N/A
+52,Seth Curry,FT,None,6:54,2,Trail Blazers,Warriors,47 - 46,1,N/A,1,N/A
+53,Seth Curry,FT,None,6:54,2,Trail Blazers,Warriors,47 - 47,1,N/A,1,N/A
+54,Seth Curry,FT,None,6:54,2,Trail Blazers,Warriors,47 - 48,1,N/A,1,N/A
+55,Kevon Looney,FG_MISS,None,6:41,2,Warriors,Trail Blazers,47 - 48,0,18,2,Jumper
+56,Seth Curry,DEFENSIVE_REBOUND,None,6:38,2,Trail Blazers,Warriors,47 - 48,1,N/A,N/A,N/A
+57,Jusuf Nurkic,FG_MISS,None,6:22,2,Trail Blazers,Warriors,47 - 48,1,6,2,Jumper
+58,Jordan Bell,DEFENSIVE_REBOUND,None,6:20,2,Warriors,Trail Blazers,47 - 48,0,N/A,N/A,N/A
+59,Klay Thompson,FG_MISS,None,6:11,2,Warriors,Trail Blazers,47 - 48,0,13,2,Jumper
+60,Jordan Bell,OFFENSIVE_REBOUND,None,6:08,2,Warriors,Trail Blazers,47 - 48,0,N/A,N/A,N/A
+61,Damion Lee,FG_ASSISTED,Jordan Bell,6:06,2,Warriors,Trail Blazers,50 - 48,0,22,3,Jumper
+62,Jusuf Nurkic,FG_UNASSISTED,None,5:39,2,Trail Blazers,Warriors,50 - 50,1,8,2,Jumper
+63,Damion Lee,FG_ASSISTED,Klay Thompson,5:22,2,Warriors,Trail Blazers,52 - 50,0,7,2,Jumper
+64,CJ McCollum,FG_UNASSISTED,None,5:07,2,Trail Blazers,Warriors,52 - 52,1,15,2,Jumper
+65,Damion Lee,FG_MISS,None,4:55,2,Warriors,Trail Blazers,52 - 52,0,24,3,Jumper
+66,Seth Curry,DEFENSIVE_REBOUND,None,4:52,2,Trail Blazers,Warriors,52 - 52,1,N/A,N/A,N/A
+67,Klay Thompson,FOUL_ON_FLOOR,None,4:52,2,Warriors,Trail Blazers,52 - 52,0,N/A,N/A,N/A
+68,Seth Curry,FT,None,4:52,2,Trail Blazers,Warriors,52 - 53,1,N/A,1,N/A
+69,Maurice Harkless,SUBSTITUTION,Turner Evan,4:52,2,Trail Blazers,Warriors,52 - 53,1,N/A,N/A,N/A
+70,Al-Farouq Aminu,SUBSTITUTION,Hood Rodney,4:52,2,Trail Blazers,Warriors,52 - 53,1,N/A,N/A,N/A
+71,Kevin Durant,SUBSTITUTION,Thompson Klay,4:52,2,Warriors,Trail Blazers,52 - 53,0,N/A,N/A,N/A
+72,Seth Curry,FT_MISS,None,4:52,2,Trail Blazers,Warriors,52 - 53,1,N/A,1,N/A
+73,Damion Lee,DEFENSIVE_REBOUND,None,4:50,2,Warriors,Trail Blazers,52 - 53,0,N/A,N/A,N/A
+74,Stephen Curry,FG_MISS,None,4:37,2,Warriors,Trail Blazers,52 - 53,0,27,3,Jumper
+75,Maurice Harkless,DEFENSIVE_REBOUND,None,4:33,2,Trail Blazers,Warriors,52 - 53,1,N/A,N/A,N/A
+76,CJ McCollum,FG_MISS,None,4:25,2,Trail Blazers,Warriors,52 - 53,1,26,3,Jumper
+77,Stephen Curry,DEFENSIVE_REBOUND,None,4:22,2,Warriors,Trail Blazers,52 - 53,0,N/A,N/A,N/A
+78,Kevin Durant,FG_MISS,None,4:17,2,Warriors,Trail Blazers,52 - 53,0,26,3,Jumper
+79,Al-Farouq Aminu,DEFENSIVE_REBOUND,None,4:15,2,Trail Blazers,Warriors,52 - 53,1,N/A,N/A,N/A
+80,Maurice Harkless,FG_ASSISTED,Al-Farouq Aminu,4:11,2,Trail Blazers,Warriors,52 - 55,1,0,2,Dunk
+81,Team,Unknown,None,4:11,2,Warriors,Trail Blazers,52 - 55,0,N/A,N/A,N/A
+82,Damian Lillard,SUBSTITUTION,Curry Seth,4:11,2,Trail Blazers,Warriors,52 - 55,1,N/A,N/A,N/A
+83,Draymond Green,SUBSTITUTION,Bell Jordan,4:11,2,Warriors,Trail Blazers,52 - 55,0,N/A,N/A,N/A
+84,Stephen Curry,FG_MISS,None,3:55,2,Warriors,Trail Blazers,52 - 55,0,0,2,Layup
+85,Maurice Harkless,DEFENSIVE_REBOUND,None,3:53,2,Trail Blazers,Warriors,52 - 55,1,N/A,N/A,N/A
+86,Draymond Green,FOUL_ON_FLOOR,None,3:38,2,Warriors,Trail Blazers,52 - 55,0,N/A,N/A,N/A
+87,Jusuf Nurkic,FT,None,3:38,2,Trail Blazers,Warriors,52 - 56,1,N/A,1,N/A
+88,Jusuf Nurkic,FT_MISS,None,3:38,2,Trail Blazers,Warriors,52 - 56,1,N/A,1,N/A
+89,Draymond Green,DEFENSIVE_REBOUND,None,3:37,2,Warriors,Trail Blazers,52 - 56,0,N/A,N/A,N/A
+90,Maurice Harkless,FOUL_ON_FLOOR,None,3:25,2,Trail Blazers,Warriors,52 - 56,1,N/A,N/A,N/A
+91,Kevin Durant,FT,None,3:25,2,Warriors,Trail Blazers,53 - 56,0,N/A,1,N/A
+92,Kevin Durant,FT,None,3:25,2,Warriors,Trail Blazers,54 - 56,0,N/A,1,N/A
+93,CJ McCollum,FG_ASSISTED,Damian Lillard,3:11,2,Trail Blazers,Warriors,54 - 59,1, ,3,Jumper
+94,Draymond Green,FG_MISS,None,2:49,2,Warriors,Trail Blazers,54 - 59,0,25,3,Jumper
+95,Stephen Curry,OFFENSIVE_REBOUND,None,2:45,2,Warriors,Trail Blazers,54 - 59,0,N/A,N/A,N/A
+96,Damion Lee,FG_MISS,None,2:42,2,Warriors,Trail Blazers,54 - 59,0,23,3,Jumper
+97,Maurice Harkless,DEFENSIVE_REBOUND,None,2:40,2,Trail Blazers,Warriors,54 - 59,1,N/A,N/A,N/A
+98,Kevon Looney,FOUL_ON_FLOOR,None,2:35,2,Warriors,Trail Blazers,54 - 59,0,N/A,N/A,N/A
+99,Maurice Harkless,FT_MISS,None,2:35,2,Trail Blazers,Warriors,54 - 59,1,N/A,1,N/A
+100,Team,OFFENSIVE_REBOUND,None,2:35,2,Trail Blazers,Warriors,54 - 59,1,N/A,N/A,N/A
+101,Klay Thompson,SUBSTITUTION,Lee Damion,2:35,2,Warriors,Trail Blazers,54 - 59,0,N/A,N/A,N/A
+102,Maurice Harkless,FT,None,2:35,2,Trail Blazers,Warriors,54 - 60,1,N/A,1,N/A
+103,Jusuf Nurkic,FOUL_ON_FLOOR,None,2:29,2,Trail Blazers,Warriors,54 - 60,1,N/A,N/A,N/A
+104,Stephen Curry,FG_UNASSISTED,None,2:24,2,Warriors,Trail Blazers,57 - 60,0,24,3,Jumper
+105,Al-Farouq Aminu,FG_MISS,None,2:03,2,Trail Blazers,Warriors,57 - 60,1,26,3,Jumper
+106,Team,OFFENSIVE_REBOUND,None,2:00,2,Trail Blazers,Warriors,57 - 60,1,N/A,N/A,N/A
+107,Kevin Durant,FOUL_ON_FLOOR,None,1:54,2,Warriors,Trail Blazers,57 - 60,0,N/A,N/A,N/A
+108,Al-Farouq Aminu,FT,None,1:54,2,Trail Blazers,Warriors,57 - 61,1,N/A,1,N/A
+109,Al-Farouq Aminu,FT,None,1:54,2,Trail Blazers,Warriors,57 - 62,1,N/A,1,N/A
+110,Klay Thompson,FG_MISS,None,1:42,2,Warriors,Trail Blazers,57 - 62,0, ,3,Jumper
+111,Al-Farouq Aminu,DEFENSIVE_REBOUND,None,1:38,2,Trail Blazers,Warriors,57 - 62,1,N/A,N/A,N/A
+112,Al-Farouq Aminu,FG_MISS,None,1:32,2,Trail Blazers,Warriors,57 - 62,1,0,2,Layup
+113,Kevon Looney,DEFENSIVE_REBOUND,None,1:30,2,Warriors,Trail Blazers,57 - 62,0,N/A,N/A,N/A
+114,Kevin Durant,FG_ASSISTED,Klay Thompson,1:27,2,Warriors,Trail Blazers,59 - 62,0,0,2,Dunk
+115,CJ McCollum,FG_MISS,None,1:11,2,Trail Blazers,Warriors,59 - 62,1,23,3,Jumper
+116,Damian Lillard,OFFENSIVE_REBOUND,None,1:08,2,Trail Blazers,Warriors,59 - 62,1,N/A,N/A,N/A
+117,Maurice Harkless,FG_MISS,None,1:02,2,Trail Blazers,Warriors,59 - 62,1,25,3,Jumper
+118,CJ McCollum,OFFENSIVE_REBOUND,None,1:01,2,Trail Blazers,Warriors,59 - 62,1,N/A,N/A,N/A
+119,CJ McCollum,FG_MISS,None,59.5,2,Trail Blazers,Warriors,59 - 62,1, ,2,Jumper
+120,Stephen Curry,DEFENSIVE_REBOUND,None,58.9,2,Warriors,Trail Blazers,59 - 62,0,N/A,N/A,N/A
+121,Al-Farouq Aminu,FOUL_ON_FLOOR,None,50.9,2,Trail Blazers,Warriors,59 - 62,1,N/A,N/A,N/A
+122,Stephen Curry,FG_MISS,None,46.7,2,Warriors,Trail Blazers,59 - 62,0,29,3,Jumper
+123,Al-Farouq Aminu,DEFENSIVE_REBOUND,None,43.8,2,Trail Blazers,Warriors,59 - 62,1,N/A,N/A,N/A
+124,Stephen Curry,FOUL_ON_FLOOR,None,34.4,2,Warriors,Trail Blazers,59 - 62,0,N/A,N/A,N/A
+125,Damian Lillard,FT,None,34.4,2,Trail Blazers,Warriors,59 - 63,1,N/A,1,N/A
+126,Damian Lillard,FT,None,34.4,2,Trail Blazers,Warriors,59 - 64,1,N/A,1,N/A
+127,Al-Farouq Aminu,FOUL_ON_FLOOR,None,30.1,2,Trail Blazers,Warriors,59 - 64,1,N/A,N/A,N/A
+128,Stephen Curry,FT,None,30.1,2,Warriors,Trail Blazers,60 - 64,0,N/A,1,N/A
+129,Jake Layman,SUBSTITUTION,Aminu Al-Farouq,30.1,2,Trail Blazers,Warriors,60 - 64,1,N/A,N/A,N/A
+130,Stephen Curry,FT,None,30.1,2,Warriors,Trail Blazers,61 - 64,0,N/A,1,N/A
+131,CJ McCollum,FG_MISS,None,5.7,2,Trail Blazers,Warriors,61 - 64,1,26,3,Jumper
+132,Kevon Looney,DEFENSIVE_REBOUND,None,3.1,2,Warriors,Trail Blazers,61 - 64,0,N/A,N/A,N/A
+133,Klay Thompson,FG_MISS,None,0.8,2,Warriors,Trail Blazers,61 - 64,0, ,2,Jumper
+134,Team,OFFENSIVE_REBOUND,None,0.8,2,Warriors,Trail Blazers,61 - 64,0,N/A,N/A,N/A
+135,End of,Unknown,None,0.0,2,Trail Blazers,Warriors,61 - 64,1,N/A,N/A,N/A
+0,Al-Farouq Aminu,SUBSTITUTION,Layman Jake,12:00,3,Trail Blazers,Warriors,61 - 64,1,N/A,N/A,N/A
+1,CJ McCollum,FG_ASSISTED,Damian Lillard,11:35,3,Trail Blazers,Warriors,61 - 66,1,22,2,Jumper
+2,Kevin Durant,FG_ASSISTED,Kevon Looney,11:17,3,Warriors,Trail Blazers,64 - 66,0,26,3,Jumper
+3,Jusuf Nurkic,FG_MISS,None,11:05,3,Trail Blazers,Warriors,64 - 66,1,0,2,Layup
+4,Maurice Harkless,OFFENSIVE_REBOUND,None,11:01,3,Trail Blazers,Warriors,64 - 66,1,N/A,N/A,N/A
+5,Maurice Harkless,FG_UNASSISTED,None,11:01,3,Trail Blazers,Warriors,64 - 68,1,0,2,Dunk
+6,Stephen Curry,FG_UNASSISTED,None,10:46,3,Warriors,Trail Blazers,66 - 68,0,11,2,Jumper
+7,Damian Lillard,FG_UNASSISTED,None,10:32,3,Trail Blazers,Warriors,66 - 70,1,14,2,Jumper
+8,Maurice Harkless,FOUL_ON_FLOOR,None,10:15,3,Trail Blazers,Warriors,66 - 70,1,N/A,N/A,N/A
+9,Stephen Curry,FT,None,10:15,3,Warriors,Trail Blazers,67 - 70,0,N/A,1,N/A
+10,Stephen Curry,FT,None,10:15,3,Warriors,Trail Blazers,68 - 70,0,N/A,1,N/A
+11,Stephen Curry,FT,None,10:15,3,Warriors,Trail Blazers,69 - 70,0,N/A,1,N/A
+12,Maurice Harkless,FG_ASSISTED,Jusuf Nurkic,10:05,3,Trail Blazers,Warriors,69 - 72,1,3,2,Jumper
+13,Stephen Curry,FG_ASSISTED,Klay Thompson,9:51,3,Warriors,Trail Blazers,71 - 72,0, ,2,Jumper
+14,Maurice Harkless,FG_MISS,None,9:37,3,Trail Blazers,Warriors,71 - 72,1,0,2,Layup
+15,Stephen Curry,DEFENSIVE_REBOUND,None,9:37,3,Warriors,Trail Blazers,71 - 72,0,N/A,N/A,N/A
+16,CJ McCollum,FOUL_ON_FLOOR,None,9:31,3,Trail Blazers,Warriors,71 - 72,1,N/A,N/A,N/A
+17,Kevin Durant,FT,None,9:31,3,Warriors,Trail Blazers,72 - 72,0,N/A,1,N/A
+18,Kevin Durant,FT,None,9:31,3,Warriors,Trail Blazers,73 - 72,0,N/A,1,N/A
+19,Al-Farouq Aminu,FG_ASSISTED,Damian Lillard,9:13,3,Trail Blazers,Warriors,73 - 75,1,24,3,Jumper
+20,Stephen Curry,FG_MISS,None,9:01,3,Warriors,Trail Blazers,73 - 75,0,3,2,Jumper
+21,Kevon Looney,OFFENSIVE_REBOUND,None,9:00,3,Warriors,Trail Blazers,73 - 75,0,N/A,N/A,N/A
+22,Kevon Looney,FG_UNASSISTED,None,8:59,3,Warriors,Trail Blazers,75 - 75,0, ,2,Jumper
+23,Kevon Looney,FOUL_ON_FLOOR,None,8:48,3,Warriors,Trail Blazers,75 - 75,0,N/A,N/A,N/A
+24,Jusuf Nurkic,FT_MISS,None,8:48,3,Trail Blazers,Warriors,75 - 75,1,N/A,1,N/A
+25,Team,OFFENSIVE_REBOUND,None,8:48,3,Trail Blazers,Warriors,75 - 75,1,N/A,N/A,N/A
+26,Jusuf Nurkic,FT_MISS,None,8:48,3,Trail Blazers,Warriors,75 - 75,1,N/A,1,N/A
+27,Draymond Green,DEFENSIVE_REBOUND,None,8:46,3,Warriors,Trail Blazers,75 - 75,0,N/A,N/A,N/A
+28,Draymond Green,FG_MISS,None,8:30,3,Warriors,Trail Blazers,75 - 75,0,26,3,Jumper
+29,Al-Farouq Aminu,DEFENSIVE_REBOUND,None,8:28,3,Trail Blazers,Warriors,75 - 75,1,N/A,N/A,N/A
+30,Damian Lillard,FG_MISS,None,8:21,3,Trail Blazers,Warriors,75 - 75,1,11,2,Jumper
+31,Stephen Curry,DEFENSIVE_REBOUND,None,8:18,3,Warriors,Trail Blazers,75 - 75,0,N/A,N/A,N/A
+32,Klay Thompson's,FG_MISS,Maurice Harkless,8:13,3,Trail Blazers,Warriors,75 - 75,0, ,3,Jumper
+33,Team,OFFENSIVE_REBOUND,None,8:13,3,Warriors,Trail Blazers,75 - 75,0,N/A,N/A,N/A
+34,Kevon Looney,FG_MISS,None,8:07,3,Warriors,Trail Blazers,75 - 75,0,0,2,Layup
+35,Jusuf Nurkic,DEFENSIVE_REBOUND,None,8:06,3,Trail Blazers,Warriors,75 - 75,1,N/A,N/A,N/A
+36,Jusuf Nurkic,TURNOVER,None,8:06,3,Trail Blazers,Warriors,75 - 75,1,N/A,N/A,N/A
+37,Klay Thompson,FG_MISS,None,7:56,3,Warriors,Trail Blazers,75 - 75,0,19,2,Jumper
+38,Klay Thompson,OFFENSIVE_REBOUND,None,7:54,3,Warriors,Trail Blazers,75 - 75,0,N/A,N/A,N/A
+39,Klay Thompson,FG_MISS,None,7:52,3,Warriors,Trail Blazers,75 - 75,0,0,2,Layup
+40,Maurice Harkless,DEFENSIVE_REBOUND,None,7:50,3,Trail Blazers,Warriors,75 - 75,1,N/A,N/A,N/A
+41,CJ McCollum,FG_ASSISTED,Damian Lillard,7:41,3,Trail Blazers,Warriors,75 - 78,1,26,3,Jumper
+42,Team,Unknown,None,7:41,3,Warriors,Trail Blazers,75 - 78,0,N/A,N/A,N/A
+43,Kevon Looney,FOUL_ON_FLOOR,None,7:31,3,Warriors,Trail Blazers,75 - 78,0,N/A,N/A,N/A
+44,Kevon Looney,TURNOVER,None,7:31,3,Warriors,Trail Blazers,75 - 78,0,N/A,N/A,N/A
+45,Kevin Durant,FOUL_ON_FLOOR,None,7:24,3,Warriors,Trail Blazers,75 - 78,0,N/A,N/A,N/A
+46,Jonas Jerebko,SUBSTITUTION,Looney Kevon,7:24,3,Warriors,Trail Blazers,75 - 78,0,N/A,N/A,N/A
+47,Damian Lillard,FG_UNASSISTED,None,7:15,3,Trail Blazers,Warriors,75 - 81,1,26,2,Jumper
+48,Kevin Durant,FG_ASSISTED,Jonas Jerebko,7:04,3,Warriors,Trail Blazers,78 - 81,0,26,3,Jumper
+49,Jusuf Nurkic,FOUL_ON_FLOOR,None,6:52,3,Trail Blazers,Warriors,78 - 81,1,N/A,N/A,N/A
+50,Jusuf Nurkic,TURNOVER,None,6:52,3,Trail Blazers,Warriors,78 - 81,1,N/A,N/A,N/A
+51,Draymond Green,FG_MISS,None,6:40,3,Warriors,Trail Blazers,78 - 81,0, ,3,Jumper
+52,Jusuf Nurkic,DEFENSIVE_REBOUND,None,6:37,3,Trail Blazers,Warriors,78 - 81,1,N/A,N/A,N/A
+53,Al-Farouq Aminu,FG_MISS,Draymond Green,6:30,3,Warriors,Trail Blazers,78 - 81,1,0,2,Layup
+54,CJ McCollum,OFFENSIVE_REBOUND,None,6:27,3,Trail Blazers,Warriors,78 - 81,1,N/A,N/A,N/A
+55,CJ McCollum,FG_MISS,None,6:22,3,Trail Blazers,Warriors,78 - 81,1,22,2,Jumper
+56,Jonas Jerebko,DEFENSIVE_REBOUND,None,6:20,3,Warriors,Trail Blazers,78 - 81,0,N/A,N/A,N/A
+57,Jonas Jerebko,FG_ASSISTED,Stephen Curry,6:04,3,Warriors,Trail Blazers,80 - 81,0, ,2,Jumper
+58,Maurice Harkless,FG_MISS,Draymond Green,5:40,3,Warriors,Trail Blazers,80 - 81,1,0,2,Dunk
+59,Team,DEFENSIVE_REBOUND,None,5:39,3,Warriors,Trail Blazers,80 - 81,0,N/A,N/A,N/A
+60,Jusuf Nurkic,FOUL_ON_FLOOR,None,5:31,3,Trail Blazers,Warriors,80 - 81,1,N/A,N/A,N/A
+61,Stephen Curry,FT,None,5:31,3,Warriors,Trail Blazers,81 - 81,0,N/A,1,N/A
+62,Stephen Curry,FT,None,5:31,3,Warriors,Trail Blazers,82 - 81,0,N/A,1,N/A
+63,Al-Farouq Aminu,FG_ASSISTED,CJ McCollum,5:16,3,Trail Blazers,Warriors,82 - 84,1,25,3,Jumper
+64,Stephen Curry,FG_ASSISTED,Kevin Durant,5:01,3,Warriors,Trail Blazers,85 - 84,0,24,3,Jumper
+65,CJ McCollum,TURNOVER,Jonas Jerebko,4:41,3,Trail Blazers,Warriors,85 - 84,1,N/A,N/A,N/A
+66,Kevin Durant,FG_ASSISTED,Klay Thompson,4:37,3,Warriors,Trail Blazers,87 - 84,0,0,2,Dunk
+67,Team,Unknown,None,4:37,3,Trail Blazers,Warriors,87 - 84,1,N/A,N/A,N/A
+68,Jake Layman,SUBSTITUTION,Harkless Maurice,4:37,3,Trail Blazers,Warriors,87 - 84,1,N/A,N/A,N/A
+69,Alfonzo McKinnie,SUBSTITUTION,Thompson Klay,4:37,3,Warriors,Trail Blazers,87 - 84,0,N/A,N/A,N/A
+70,Draymond Green,FOUL_TECHNICAL,None,4:26,3,Warriors,Trail Blazers,87 - 84,0,N/A,N/A,N/A
+71,Damian Lillard,FT_MISS,None,4:26,3,Trail Blazers,Warriors,87 - 84,1,N/A,1,N/A
+72,Team,OFFENSIVE_REBOUND,None,4:26,3,Trail Blazers,Warriors,87 - 84,1,N/A,N/A,N/A
+73,Jusuf Nurkic,FG_UNASSISTED,None,4:17,3,Trail Blazers,Warriors,87 - 86,1,0,2,Layup
+74,Stephen Curry,FG_ASSISTED,Jonas Jerebko,3:59,3,Warriors,Trail Blazers,90 - 86,0,27,3,Jumper
+75,Jake Layman,FG_ASSISTED,Damian Lillard,3:43,3,Trail Blazers,Warriors,90 - 88,1,3,2,Jumper
+76,Stephen Curry,FG_ASSISTED,Draymond Green,3:28,3,Warriors,Trail Blazers,93 - 88,0,27,3,Jumper
+77,Damian Lillard,FG_UNASSISTED,None,3:17,3,Trail Blazers,Warriors,93 - 91,1,30,3,Jumper
+78,Stephen Curry,FG_MISS,None,3:03,3,Warriors,Trail Blazers,93 - 91,0,22,2,Jumper
+79,Jusuf Nurkic,DEFENSIVE_REBOUND,None,2:59,3,Trail Blazers,Warriors,93 - 91,1,N/A,N/A,N/A
+80,Jonas Jerebko,FOUL_ON_FLOOR,None,2:54,3,Warriors,Trail Blazers,93 - 91,0,N/A,N/A,N/A
+81,Zach Collins,SUBSTITUTION,McCollum CJ,2:54,3,Trail Blazers,Warriors,93 - 91,1,N/A,N/A,N/A
+82,Rodney Hood,SUBSTITUTION,Nurkic Jusuf,2:54,3,Trail Blazers,Warriors,93 - 91,1,N/A,N/A,N/A
+83,Jordan Bell,SUBSTITUTION,Green Draymond,2:54,3,Warriors,Trail Blazers,93 - 91,0,N/A,N/A,N/A
+84,Jonas Jerebko,FOUL_ON_FLOOR,None,2:47,3,Warriors,Trail Blazers,93 - 91,0,N/A,N/A,N/A
+85,Evan Turner,SUBSTITUTION,Aminu Al-Farouq,2:47,3,Trail Blazers,Warriors,93 - 91,1,N/A,N/A,N/A
+86,Damian Lillard's,FG_MISS,Kevin Durant,2:36,3,Warriors,Trail Blazers,93 - 91,1,0,2,Layup
+87,Jordan Bell,DEFENSIVE_REBOUND,None,2:34,3,Warriors,Trail Blazers,93 - 91,0,N/A,N/A,N/A
+88,Stephen Curry,FG_MISS,None,2:24,3,Warriors,Trail Blazers,93 - 91,0,24,3,Jumper
+89,Rodney Hood,DEFENSIVE_REBOUND,None,2:20,3,Trail Blazers,Warriors,93 - 91,1,N/A,N/A,N/A
+90,Rodney Hood,FG_MISS,None,2:08,3,Trail Blazers,Warriors,93 - 91,1,26,3,Jumper
+91,Jonas Jerebko,DEFENSIVE_REBOUND,None,2:07,3,Warriors,Trail Blazers,93 - 91,0,N/A,N/A,N/A
+92,Kevin Durant,TURNOVER,Jake Layman,1:56,3,Warriors,Trail Blazers,93 - 91,0,N/A,N/A,N/A
+93,Evan Turner,FG_MISS,None,1:44,3,Trail Blazers,Warriors,93 - 91,1,0,2,Layup
+94,Evan Turner,OFFENSIVE_REBOUND,None,1:42,3,Trail Blazers,Warriors,93 - 91,1,N/A,N/A,N/A
+95,Jake Layman,FG_ASSISTED,Evan Turner,1:41,3,Trail Blazers,Warriors,93 - 94,1,23,3,Jumper
+96,Damian Lillard,FOUL_ON_FLOOR,None,1:30,3,Trail Blazers,Warriors,93 - 94,1,N/A,N/A,N/A
+97,Quinn Cook,SUBSTITUTION,Curry Stephen,1:30,3,Warriors,Trail Blazers,93 - 94,0,N/A,N/A,N/A
+98,Jordan Bell,FG_MISS,None,1:18,3,Warriors,Trail Blazers,93 - 94,0,0,2,Dunk
+99,Evan Turner,DEFENSIVE_REBOUND,None,1:16,3,Trail Blazers,Warriors,93 - 94,1,N/A,N/A,N/A
+100,Evan Turner,FG_MISS,None,1:11,3,Trail Blazers,Warriors,93 - 94,1, ,2,Jumper
+101,Kevin Durant,DEFENSIVE_REBOUND,None,1:08,3,Warriors,Trail Blazers,93 - 94,0,N/A,N/A,N/A
+102,Kevin Durant,FG_MISS,None,1:00,3,Warriors,Trail Blazers,93 - 94,0,3,2,Jumper
+103,Alfonzo McKinnie,OFFENSIVE_REBOUND,None,58.9,3,Warriors,Trail Blazers,93 - 94,0,N/A,N/A,N/A
+104,Quinn Cook,FG_MISS,None,56.8,3,Warriors,Trail Blazers,93 - 94,0, ,3,Jumper
+105,Team,DEFENSIVE_REBOUND,None,54.2,3,Trail Blazers,Warriors,93 - 94,1,N/A,N/A,N/A
+106,Damian Lillard,FG_MISS,Kevin Durant,34.7,3,Warriors,Trail Blazers,93 - 94,1,0,2,Dunk
+107,Quinn Cook,DEFENSIVE_REBOUND,None,32.6,3,Warriors,Trail Blazers,93 - 94,0,N/A,N/A,N/A
+108,Kevin Durant,FG_UNASSISTED,None,23.1,3,Warriors,Trail Blazers,95 - 94,0,0,2,Layup
+109,Evan Turner,FG_MISS,None,0.0,3,Trail Blazers,Warriors,95 - 94,1,22,3,Jumper
+110,Team,OFFENSIVE_REBOUND,None,0.0,3,Trail Blazers,Warriors,95 - 94,1,N/A,N/A,N/A
+111,End of,Unknown,None,0.0,3,Trail Blazers,Warriors,95 - 94,1,N/A,N/A,N/A
+0,Seth Curry,SUBSTITUTION,Lillard Damian,12:00,4,Trail Blazers,Warriors,95 - 94,1,N/A,N/A,N/A
+1,Draymond Green,SUBSTITUTION,Bell Jordan,12:00,4,Warriors,Trail Blazers,95 - 94,0,N/A,N/A,N/A
+2,Klay Thompson,SUBSTITUTION,Durant Kevin,12:00,4,Warriors,Trail Blazers,95 - 94,0,N/A,N/A,N/A
+3,Klay Thompson,FG_MISS,None,11:38,4,Warriors,Trail Blazers,95 - 94,0,19,2,Jumper
+4,Draymond Green,OFFENSIVE_REBOUND,None,11:32,4,Warriors,Trail Blazers,95 - 94,0,N/A,N/A,N/A
+5,shot clock,TURNOVER,None,11:21,4,Warriors,Trail Blazers,95 - 94,0,N/A,N/A,N/A
+6,Rodney Hood,FG_UNASSISTED,None,11:06,4,Trail Blazers,Warriors,95 - 96,1,9,2,Jumper
+7,Draymond Green,TURNOVER,None,10:47,4,Warriors,Trail Blazers,95 - 96,0,N/A,N/A,N/A
+8,Zach Collins's,FG_MISS,Draymond Green,10:33,4,Warriors,Trail Blazers,95 - 96,1,0,2,Layup
+9,Draymond Green,DEFENSIVE_REBOUND,None,10:30,4,Warriors,Trail Blazers,95 - 96,0,N/A,N/A,N/A
+10,Alfonzo McKinnie,FG_ASSISTED,Draymond Green,10:28,4,Warriors,Trail Blazers,97 - 96,0,0,2,Layup
+11,Alfonzo McKinnie,FOUL_ON_FLOOR,None,10:08,4,Warriors,Trail Blazers,97 - 96,0,N/A,N/A,N/A
+12,Evan Turner,FT,None,10:08,4,Trail Blazers,Warriors,97 - 97,1,N/A,1,N/A
+13,Evan Turner,FT,None,10:08,4,Trail Blazers,Warriors,97 - 98,1,N/A,1,N/A
+14,Klay Thompson,FG_MISS,None,9:55,4,Warriors,Trail Blazers,97 - 98,0, ,2,Jumper
+15,Jonas Jerebko,OFFENSIVE_REBOUND,None,9:51,4,Warriors,Trail Blazers,97 - 98,0,N/A,N/A,N/A
+16,Jonas Jerebko,FG_UNASSISTED,None,9:51,4,Warriors,Trail Blazers,99 - 98,0, ,2,Jumper
+17,Jake Layman,FG_ASSISTED,Evan Turner,9:33,4,Trail Blazers,Warriors,99 - 100,1,1,2,Jumper
+18,Klay Thompson,FG_MISS,Zach Collins,9:16,4,Trail Blazers,Warriors,99 - 100,0,0,2,Layup
+19,Evan Turner,DEFENSIVE_REBOUND,None,9:14,4,Trail Blazers,Warriors,99 - 100,1,N/A,N/A,N/A
+20,Jake Layman,FG_ASSISTED,Rodney Hood,9:05,4,Trail Blazers,Warriors,99 - 102,1,5,2,Jumper
+21,Team,Unknown,None,8:50,4,Warriors,Trail Blazers,99 - 102,0,N/A,N/A,N/A
+22,Damion Lee,SUBSTITUTION,for game,8:50,4,Warriors,Trail Blazers,99 - 102,0,N/A,N/A,N/A
+23,enters the,SUBSTITUTION,McKinnie Alfonzo,8:50,4,Warriors,Trail Blazers,99 - 102,0,N/A,N/A,N/A
+24,Zach Collins,FOUL_ON_FLOOR,None,8:42,4,Trail Blazers,Warriors,99 - 102,1,N/A,N/A,N/A
+25,Klay Thompson,FT,None,8:42,4,Warriors,Trail Blazers,100 - 102,0,N/A,1,N/A
+26,Klay Thompson,FT,None,8:42,4,Warriors,Trail Blazers,101 - 102,0,N/A,1,N/A
+27,Jake Layman,FG_UNASSISTED,None,8:20,4,Trail Blazers,Warriors,101 - 104,1,14,2,Jumper
+28,Quinn Cook,FG_MISS,None,7:55,4,Warriors,Trail Blazers,101 - 104,0,25,3,Jumper
+29,Evan Turner,DEFENSIVE_REBOUND,None,7:52,4,Trail Blazers,Warriors,101 - 104,1,N/A,N/A,N/A
+30,Seth Curry,FG_MISS,None,7:47,4,Trail Blazers,Warriors,101 - 104,1,26,3,Jumper
+31,Zach Collins,OFFENSIVE_REBOUND,None,7:45,4,Trail Blazers,Warriors,101 - 104,1,N/A,N/A,N/A
+32,Zach Collins,FG_MISS,Jonas Jerebko,7:41,4,Warriors,Trail Blazers,101 - 104,1,3,2,Jumper
+33,Klay Thompson,DEFENSIVE_REBOUND,None,7:38,4,Warriors,Trail Blazers,101 - 104,0,N/A,N/A,N/A
+34,Damion Lee,FG_MISS,Zach Collins,7:35,4,Trail Blazers,Warriors,101 - 104,0,0,2,Layup
+35,Team,OFFENSIVE_REBOUND,None,7:35,4,Warriors,Trail Blazers,101 - 104,0,N/A,N/A,N/A
+36,Stephen Curry,SUBSTITUTION,Cook Quinn,7:35,4,Warriors,Trail Blazers,101 - 104,0,N/A,N/A,N/A
+37,Klay Thompson,FOUL_ON_FLOOR,None,7:32,4,Warriors,Trail Blazers,101 - 104,0,N/A,N/A,N/A
+38,Klay Thompson,TURNOVER,None,7:32,4,Warriors,Trail Blazers,101 - 104,0,N/A,N/A,N/A
+39,Double technical,FOUL_TECHNICAL,None,7:32,4,Trail Blazers,Warriors,101 - 104,1,N/A,N/A,N/A
+40,Jordan Bell,SUBSTITUTION,Green Draymond,7:32,4,Warriors,Trail Blazers,101 - 104,0,N/A,N/A,N/A
+41,Seth Curry,FG_UNASSISTED,None,7:16,4,Trail Blazers,Warriors,101 - 106,1,0,2,Layup
+42,Stephen Curry,FG_MISS,None,6:55,4,Warriors,Trail Blazers,101 - 106,0,23,3,Jumper
+43,Jake Layman,DEFENSIVE_REBOUND,None,6:52,4,Trail Blazers,Warriors,101 - 106,1,N/A,N/A,N/A
+44,Evan Turner,FG_MISS,None,6:39,4,Trail Blazers,Warriors,101 - 106,1,0,2,Layup
+45,Jordan Bell,DEFENSIVE_REBOUND,None,6:38,4,Warriors,Trail Blazers,101 - 106,0,N/A,N/A,N/A
+46,Jordan Bell,TURNOVER,Jake Layman,6:38,4,Warriors,Trail Blazers,101 - 106,0,N/A,N/A,N/A
+47,Jordan Bell,FOUL_ON_FLOOR,None,6:38,4,Warriors,Trail Blazers,101 - 106,0,N/A,N/A,N/A
+48,Evan Turner,FT,None,6:38,4,Trail Blazers,Warriors,101 - 107,1,N/A,1,N/A
+49,Kevin Durant,SUBSTITUTION,Thompson Klay,6:38,4,Warriors,Trail Blazers,101 - 107,0,N/A,N/A,N/A
+50,Evan Turner,FT,None,6:38,4,Trail Blazers,Warriors,101 - 108,1,N/A,1,N/A
+51,Damion Lee,FG_MISS,None,6:24,4,Warriors,Trail Blazers,101 - 108,0,1,2,Jumper
+52,Jake Layman,DEFENSIVE_REBOUND,None,6:22,4,Trail Blazers,Warriors,101 - 108,1,N/A,N/A,N/A
+53,Seth Curry,FG_UNASSISTED,None,6:14,4,Trail Blazers,Warriors,101 - 110,1,19,2,Jumper
+54,Kevin Durant,FG_MISS,None,5:57,4,Warriors,Trail Blazers,101 - 110,0,14,2,Jumper
+55,Damion Lee,OFFENSIVE_REBOUND,None,5:54,4,Warriors,Trail Blazers,101 - 110,0,N/A,N/A,N/A
+56,Jordan Bell,FG_MISS,None,5:41,4,Warriors,Trail Blazers,101 - 110,0,1,2,Jumper
+57,Jonas Jerebko,OFFENSIVE_REBOUND,None,5:40,4,Warriors,Trail Blazers,101 - 110,0,N/A,N/A,N/A
+58,Jonas Jerebko,FG_UNASSISTED,None,5:40,4,Warriors,Trail Blazers,103 - 110,0,1,2,Jumper
+59,Seth Curry,FG_MISS,None,5:23,4,Trail Blazers,Warriors,103 - 110,1,25,2,Jumper
+60,Stephen Curry,DEFENSIVE_REBOUND,None,5:20,4,Warriors,Trail Blazers,103 - 110,0,N/A,N/A,N/A
+61,Jonas Jerebko,FG_MISS,None,5:13,4,Warriors,Trail Blazers,103 - 110,0,24,3,Jumper
+62,Jordan Bell,OFFENSIVE_REBOUND,None,5:11,4,Warriors,Trail Blazers,103 - 110,0,N/A,N/A,N/A
+63,Stephen Curry,FG_MISS,None,5:09,4,Warriors,Trail Blazers,103 - 110,0,27,3,Jumper
+64,Damion Lee,OFFENSIVE_REBOUND,None,5:07,4,Warriors,Trail Blazers,103 - 110,0,N/A,N/A,N/A
+65,Seth Curry,FOUL_ON_FLOOR,None,4:56,4,Trail Blazers,Warriors,103 - 110,1,N/A,N/A,N/A
+66,Team,Unknown,None,4:56,4,Trail Blazers,Warriors,103 - 110,1,N/A,N/A,N/A
+67,Kevon Looney,SUBSTITUTION,Jerebko Jonas,4:56,4,Warriors,Trail Blazers,103 - 110,0,N/A,N/A,N/A
+68,Jordan Bell,FG_MISS,None,4:46,4,Warriors,Trail Blazers,103 - 110,0,2,2,Jumper
+69,Zach Collins,DEFENSIVE_REBOUND,None,4:44,4,Trail Blazers,Warriors,103 - 110,1,N/A,N/A,N/A
+70,Evan Turner,FG_MISS,None,4:21,4,Trail Blazers,Warriors,103 - 110,1,7,2,Jumper
+71,Jordan Bell,DEFENSIVE_REBOUND,None,4:19,4,Warriors,Trail Blazers,103 - 110,0,N/A,N/A,N/A
+72,Rodney Hood,FOUL_ON_FLOOR,None,4:16,4,Trail Blazers,Warriors,103 - 110,1,N/A,N/A,N/A
+73,Damian Lillard,SUBSTITUTION,Turner Evan,4:16,4,Trail Blazers,Warriors,103 - 110,1,N/A,N/A,N/A
+74,Klay Thompson,SUBSTITUTION,Lee Damion,4:16,4,Warriors,Trail Blazers,103 - 110,0,N/A,N/A,N/A
+75,Draymond Green,SUBSTITUTION,Bell Jordan,4:16,4,Warriors,Trail Blazers,103 - 110,0,N/A,N/A,N/A
+76,Draymond Green,TURNOVER,None,4:08,4,Warriors,Trail Blazers,103 - 110,0,N/A,N/A,N/A
+77,Draymond Green,TURNOVER,None,4:08,4,Warriors,Trail Blazers,103 - 110,0,N/A,N/A,N/A
+78,Draymond Green,FOUL_FLAGRANT_1,None,3:54,4,Warriors,Trail Blazers,103 - 110,0,N/A,N/A,N/A
+79,Steve Kerr,FOUL_TECHNICAL,None,3:54,4,Warriors,Trail Blazers,103 - 110,0,N/A,N/A,N/A
+80,Damian Lillard,FT,None,3:54,4,Trail Blazers,Warriors,103 - 111,1,N/A,1,N/A
+81,Steve Kerr,FOUL_TECHNICAL,None,3:54,4,Warriors,Trail Blazers,103 - 111,0,N/A,N/A,N/A
+82,Damian Lillard,FT,None,3:54,4,Trail Blazers,Warriors,103 - 112,1,N/A,1,N/A
+83,Draymond Green,FOUL_TECHNICAL,None,3:54,4,Warriors,Trail Blazers,103 - 112,0,N/A,N/A,N/A
+84,Damian Lillard,FT,None,3:54,4,Trail Blazers,Warriors,103 - 113,1,N/A,1,N/A
+85,Steve Kerr,Unknown,None,3:54,4,Warriors,Trail Blazers,103 - 113,0,N/A,N/A,N/A
+86,Zach Collins,FT,None,3:54,4,Trail Blazers,Warriors,103 - 114,1,N/A,1,N/A
+87,Zach Collins,FT,None,3:54,4,Trail Blazers,Warriors,103 - 115,1,N/A,1,N/A
+88,Jonas Jerebko,SUBSTITUTION,Looney Kevon,3:54,4,Warriors,Trail Blazers,103 - 115,0,N/A,N/A,N/A
+89,Draymond Green,FOUL_ON_FLOOR,None,3:44,4,Warriors,Trail Blazers,103 - 115,0,N/A,N/A,N/A
+90,Jake Layman,FG_ASSISTED,Seth Curry,3:34,4,Trail Blazers,Warriors,103 - 118,1,23,3,Jumper
+91,Stephen Curry,FG_MISS,None,3:16,4,Warriors,Trail Blazers,103 - 118,0,27,3,Jumper
+92,Zach Collins,DEFENSIVE_REBOUND,None,3:13,4,Trail Blazers,Warriors,103 - 118,1,N/A,N/A,N/A
+93,Kevin Durant,FOUL_ON_FLOOR,None,3:01,4,Warriors,Trail Blazers,103 - 118,0,N/A,N/A,N/A
+94,Zach Collins,FT,None,3:01,4,Trail Blazers,Warriors,103 - 119,1,N/A,1,N/A
+95,Zach Collins,FT,None,3:01,4,Trail Blazers,Warriors,103 - 120,1,N/A,1,N/A
+96,Stephen Curry,FG_MISS,None,2:51,4,Warriors,Trail Blazers,103 - 120,0,19,2,Jumper
+97,Damian Lillard,DEFENSIVE_REBOUND,None,2:49,4,Trail Blazers,Warriors,103 - 120,1,N/A,N/A,N/A
+98,Jake Layman,FG_MISS,None,2:36,4,Trail Blazers,Warriors,103 - 120,1,25,3,Jumper
+99,Seth Curry,OFFENSIVE_REBOUND,None,2:34,4,Trail Blazers,Warriors,103 - 120,1,N/A,N/A,N/A
+100,Seth Curry,FG_MISS,None,2:32,4,Trail Blazers,Warriors,103 - 120,1,25,3,Jumper
+101,Zach Collins,OFFENSIVE_REBOUND,None,2:29,4,Trail Blazers,Warriors,103 - 120,1,N/A,N/A,N/A
+102,Quinn Cook,SUBSTITUTION,Thompson Klay,2:29,4,Warriors,Trail Blazers,103 - 120,0,N/A,N/A,N/A
+103,Damion Lee,SUBSTITUTION,Green Draymond,2:29,4,Warriors,Trail Blazers,103 - 120,0,N/A,N/A,N/A
+104,Alfonzo McKinnie,SUBSTITUTION,Curry Stephen,2:29,4,Warriors,Trail Blazers,103 - 120,0,N/A,N/A,N/A
+105,Jordan Bell,SUBSTITUTION,Durant Kevin,2:29,4,Warriors,Trail Blazers,103 - 120,0,N/A,N/A,N/A
+106,Kevon Looney,SUBSTITUTION,Jerebko Jonas,2:29,4,Warriors,Trail Blazers,103 - 120,0,N/A,N/A,N/A
+107,Jake Layman,FG_ASSISTED,Damian Lillard,2:21,4,Trail Blazers,Warriors,103 - 123,1,25,3,Jumper
+108,Quinn Cook,FG_MISS,Zach Collins,1:54,4,Trail Blazers,Warriors,103 - 123,0,2,2,Jumper
+109,Zach Collins,DEFENSIVE_REBOUND,None,1:52,4,Trail Blazers,Warriors,103 - 123,1,N/A,N/A,N/A
+110,Damian Lillard,FG_UNASSISTED,None,1:34,4,Trail Blazers,Warriors,103 - 126,1,33,3,Jumper
+111,Jordan Bell,FG_MISS,None,1:18,4,Warriors,Trail Blazers,103 - 126,0,13,2,Jumper
+112,Kevon Looney,OFFENSIVE_REBOUND,None,1:16,4,Warriors,Trail Blazers,103 - 126,0,N/A,N/A,N/A
+113,Damion Lee,FG_MISS,None,1:11,4,Warriors,Trail Blazers,103 - 126,0,0,2,Layup
+114,Jordan Bell,OFFENSIVE_REBOUND,None,1:11,4,Warriors,Trail Blazers,103 - 126,0,N/A,N/A,N/A
+115,Jordan Bell,FG_UNASSISTED,None,1:11,4,Warriors,Trail Blazers,105 - 126,0,0,2,Dunk
+116,Zach Collins,FG_MISS,Jordan Bell,49.1,4,Warriors,Trail Blazers,105 - 126,1,0,2,Layup
+117,Team,OFFENSIVE_REBOUND,None,49.1,4,Trail Blazers,Warriors,105 - 126,1,N/A,N/A,N/A
+118,Anfernee Simons,SUBSTITUTION,Lillard Damian,49.1,4,Trail Blazers,Warriors,105 - 126,1,N/A,N/A,N/A
+119,Skal Labissiere,SUBSTITUTION,Collins Zach,49.1,4,Trail Blazers,Warriors,105 - 126,1,N/A,N/A,N/A
+120,Rodney Hood,FG_ASSISTED,Jake Layman,46.8,4,Trail Blazers,Warriors,105 - 129,1,23,3,Jumper
+121,Quinn Cook,FG_MISS,None,41.4,4,Warriors,Trail Blazers,105 - 129,0,28,3,Jumper
+122,Skal Labissiere,DEFENSIVE_REBOUND,None,39.4,4,Trail Blazers,Warriors,105 - 129,1,N/A,N/A,N/A
+123,Anfernee Simons,FG_MISS,None,25.2,4,Trail Blazers,Warriors,105 - 129,1,26,3,Jumper
+124,Jordan Bell,DEFENSIVE_REBOUND,None,23.1,4,Warriors,Trail Blazers,105 - 129,0,N/A,N/A,N/A
+125,Jordan Bell,FG_ASSISTED,Kevon Looney,12.9,4,Warriors,Trail Blazers,107 - 129,0,17,2,Jumper
+126,End of,Unknown,None,0.0,4,Trail Blazers,Warriors,107 - 129,1,N/A,N/A,N/A
+127,End of,Unknown,None,0.0,4,Trail Blazers,Warriors,107 - 129,1,N/A,N/A,N/A

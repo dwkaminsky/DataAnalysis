@@ -1,0 +1,475 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Rudy Gobert,JUMP_BALL,None,12:00,1,Heat,Jazz,0 - 0,1,N/A,N/A,N/A
+1,Wayne Ellington,FG_MISS,None,11:44,1,Heat,Jazz,0 - 0,1,28,3,Jumper
+2,Hassan Whiteside,OFFENSIVE_REBOUND,None,11:43,1,Heat,Jazz,0 - 0,1,N/A,N/A,N/A
+3,Hassan Whiteside,FG_MISS,Rudy Gobert,11:39,1,Jazz,Heat,0 - 0,1,2,2,Jumper
+4,Team,OFFENSIVE_REBOUND,None,11:39,1,Heat,Jazz,0 - 0,1,N/A,N/A,N/A
+5,Josh Richardson,TURNOVER,None,11:39,1,Heat,Jazz,0 - 0,1,N/A,N/A,N/A
+6,Joe Ingles,FG_MISS,Hassan Whiteside,11:27,1,Heat,Jazz,0 - 0,0,11,2,Jumper
+7,Team,OFFENSIVE_REBOUND,None,11:27,1,Jazz,Heat,0 - 0,0,N/A,N/A,N/A
+8,Joe Ingles,FG_ASSISTED,Ricky Rubio,11:20,1,Jazz,Heat,3 - 0,0,26,3,Jumper
+9,James Johnson,FG_MISS,None,11:10,1,Heat,Jazz,3 - 0,1,-,2,Jumper
+10,Team,OFFENSIVE_REBOUND,None,11:10,1,Heat,Jazz,3 - 0,1,N/A,N/A,N/A
+11,Hassan Whiteside,FG_ASSISTED,Josh Richardson,11:03,1,Heat,Jazz,3 - 2,1,0,2,Dunk
+12,Jae Crowder,FG_MISS,None,10:43,1,Jazz,Heat,3 - 2,0,12,2,Jumper
+13,Jae Crowder,OFFENSIVE_REBOUND,None,10:40,1,Jazz,Heat,3 - 2,0,N/A,N/A,N/A
+14,Jae Crowder,FG_MISS,Hassan Whiteside,10:37,1,Heat,Jazz,3 - 2,0,24,3,Jumper
+15,Wayne Ellington,DEFENSIVE_REBOUND,None,10:31,1,Heat,Jazz,3 - 2,1,N/A,N/A,N/A
+16,James Johnson,TURNOVER,Rudy Gobert,10:22,1,Heat,Jazz,3 - 2,1,N/A,N/A,N/A
+17,Hassan Whiteside,FOUL_ON_FLOOR,None,10:15,1,Heat,Jazz,3 - 2,1,N/A,N/A,N/A
+18,Ricky Rubio,FG_ASSISTED,Donovan Mitchell,10:02,1,Jazz,Heat,5 - 2,0,12,2,Jumper
+19,James Johnson,TURNOVER,Joe Ingles,9:48,1,Heat,Jazz,5 - 2,1,N/A,N/A,N/A
+20,Rudy Gobert,FG_MISS,James Johnson,9:46,1,Heat,Jazz,5 - 2,0,0,2,Layup
+21,Rudy Gobert,OFFENSIVE_REBOUND,None,9:44,1,Jazz,Heat,5 - 2,0,N/A,N/A,N/A
+22,Jae Crowder,FG_ASSISTED,Rudy Gobert,9:41,1,Jazz,Heat,8 - 2,0,24,3,Jumper
+23,Josh Richardson,FG_MISS,None,9:23,1,Heat,Jazz,8 - 2,1,11,2,Jumper
+24,Ricky Rubio,DEFENSIVE_REBOUND,None,9:20,1,Jazz,Heat,8 - 2,0,N/A,N/A,N/A
+25,Joe Ingles,FG_UNASSISTED,None,9:16,1,Jazz,Heat,10 - 2,0,0,2,Layup
+26,Team,Unknown,None,9:16,1,Heat,Jazz,10 - 2,1,N/A,N/A,N/A
+27,Rodney McGruder,FG_MISS,None,9:01,1,Heat,Jazz,10 - 2,1,11,2,Jumper
+28,Hassan Whiteside,OFFENSIVE_REBOUND,None,8:57,1,Heat,Jazz,10 - 2,1,N/A,N/A,N/A
+29,Hassan Whiteside,FG_MISS,None,8:57,1,Heat,Jazz,10 - 2,1,-,2,Jumper
+30,Hassan Whiteside,OFFENSIVE_REBOUND,None,8:57,1,Heat,Jazz,10 - 2,1,N/A,N/A,N/A
+31,Jae Crowder,FOUL_ON_FLOOR,None,8:57,1,Jazz,Heat,10 - 2,0,N/A,N/A,N/A
+32,Hassan Whiteside,FT_MISS,None,8:57,1,Heat,Jazz,10 - 2,1,N/A,1,N/A
+33,Team,OFFENSIVE_REBOUND,None,8:57,1,Heat,Jazz,10 - 2,1,N/A,N/A,N/A
+34,Hassan Whiteside,FT_MISS,None,8:57,1,Heat,Jazz,10 - 2,1,N/A,1,N/A
+35,Donovan Mitchell,DEFENSIVE_REBOUND,None,8:53,1,Jazz,Heat,10 - 2,0,N/A,N/A,N/A
+36,Donovan Mitchell,FG_ASSISTED,Joe Ingles,8:41,1,Jazz,Heat,12 - 2,0,0,2,Dunk
+37,Wayne Ellington,FG_ASSISTED,Josh Richardson,8:26,1,Heat,Jazz,12 - 5,1,25,3,Jumper
+38,Ricky Rubio,FG_UNASSISTED,None,8:09,1,Jazz,Heat,14 - 5,0,2,2,Jumper
+39,James Johnson's,FG_MISS,Rudy Gobert,7:58,1,Jazz,Heat,14 - 5,1,-,2,Jumper
+40,Donovan Mitchell,DEFENSIVE_REBOUND,None,7:54,1,Jazz,Heat,14 - 5,0,N/A,N/A,N/A
+41,Rudy Gobert,FG_ASSISTED,Jae Crowder,7:49,1,Jazz,Heat,16 - 5,0,0,2,Dunk
+42,Josh Richardson,TURNOVER,Jae Crowder,7:25,1,Heat,Jazz,16 - 5,1,N/A,N/A,N/A
+43,Wayne Ellington,FOUL_ON_FLOOR,None,7:23,1,Heat,Jazz,16 - 5,1,N/A,N/A,N/A
+44,Jae Crowder,FT,None,7:23,1,Jazz,Heat,17 - 5,0,N/A,1,N/A
+45,Dwyane Wade,SUBSTITUTION,Johnson James,7:23,1,Heat,Jazz,17 - 5,1,N/A,N/A,N/A
+46,Bam Adebayo,SUBSTITUTION,Whiteside Hassan,7:23,1,Heat,Jazz,17 - 5,1,N/A,N/A,N/A
+47,Kelly Olynyk,SUBSTITUTION,Ellington Wayne,7:23,1,Heat,Jazz,17 - 5,1,N/A,N/A,N/A
+48,Justise Winslow,SUBSTITUTION,Richardson Josh,7:23,1,Heat,Jazz,17 - 5,1,N/A,N/A,N/A
+49,Jae Crowder,FT,None,7:23,1,Jazz,Heat,18 - 5,0,N/A,1,N/A
+50,Dwyane Wade,FG_MISS,None,7:05,1,Heat,Jazz,18 - 5,1,11,2,Jumper
+51,Rudy Gobert,DEFENSIVE_REBOUND,None,7:02,1,Jazz,Heat,18 - 5,0,N/A,N/A,N/A
+52,Rudy Gobert,FG_ASSISTED,Joe Ingles,6:53,1,Jazz,Heat,20 - 5,0,0,2,Dunk
+53,Rudy Gobert,FOUL_ON_FLOOR,None,6:53,1,Jazz,Heat,20 - 5,0,N/A,N/A,N/A
+54,Kelly Olynyk,FT,None,6:53,1,Heat,Jazz,20 - 6,1,N/A,1,N/A
+55,Josh Richardson,SUBSTITUTION,McGruder Rodney,6:53,1,Heat,Jazz,20 - 6,1,N/A,N/A,N/A
+56,Jae Crowder,FOUL_ON_FLOOR,None,6:40,1,Jazz,Heat,20 - 6,0,N/A,N/A,N/A
+57,Derrick Favors,SUBSTITUTION,Crowder Jae,6:40,1,Jazz,Heat,20 - 6,0,N/A,N/A,N/A
+58,Kelly Olynyk,FG_ASSISTED,Dwyane Wade,6:25,1,Heat,Jazz,20 - 9,1,25,3,Jumper
+59,Donovan Mitchell,FG_UNASSISTED,None,6:13,1,Jazz,Heat,22 - 9,0,10,2,Jumper
+60,Justise Winslow,TURNOVER,Joe Ingles,6:04,1,Heat,Jazz,22 - 9,1,N/A,N/A,N/A
+61,Donovan Mitchell,FG_MISS,None,5:46,1,Jazz,Heat,22 - 9,0,25,3,Jumper
+62,Justise Winslow,DEFENSIVE_REBOUND,None,5:44,1,Heat,Jazz,22 - 9,1,N/A,N/A,N/A
+63,Joe Ingles,Unknown,None,5:36,1,Jazz,Heat,22 - 9,0,N/A,N/A,N/A
+64,Royce O'Neale,SUBSTITUTION,Mitchell Donovan,5:36,1,Jazz,Heat,22 - 9,0,N/A,N/A,N/A
+65,Ricky Rubio,FOUL_ON_FLOOR,None,5:31,1,Jazz,Heat,22 - 9,0,N/A,N/A,N/A
+66,Josh Richardson,FT,None,5:31,1,Heat,Jazz,22 - 10,1,N/A,1,N/A
+67,Josh Richardson,FT,None,5:31,1,Heat,Jazz,22 - 11,1,N/A,1,N/A
+68,Josh Richardson,FT,None,5:31,1,Heat,Jazz,22 - 12,1,N/A,1,N/A
+69,Derrick Favors,FG_MISS,None,5:09,1,Jazz,Heat,22 - 12,0,26,3,Jumper
+70,Justise Winslow,DEFENSIVE_REBOUND,None,5:07,1,Heat,Jazz,22 - 12,1,N/A,N/A,N/A
+71,Josh Richardson,FG_UNASSISTED,None,5:01,1,Heat,Jazz,22 - 14,1, ,2,Jumper
+72,Ricky Rubio,FG_UNASSISTED,None,4:47,1,Jazz,Heat,24 - 14,0,18,2,Jumper
+73,Justise Winslow,FG_UNASSISTED,None,4:37,1,Heat,Jazz,24 - 16,1,12,2,Jumper
+74,Joe Ingles,FG_MISS,None,4:22,1,Jazz,Heat,24 - 16,0,23,3,Jumper
+75,Kelly Olynyk,DEFENSIVE_REBOUND,None,4:20,1,Heat,Jazz,24 - 16,1,N/A,N/A,N/A
+76,Dwyane Wade,FG_MISS,None,4:12,1,Heat,Jazz,24 - 16,1,9,2,Jumper
+77,Joe Ingles,DEFENSIVE_REBOUND,None,4:10,1,Jazz,Heat,24 - 16,0,N/A,N/A,N/A
+78,Ricky Rubio,FG_MISS,None,4:06,1,Jazz,Heat,24 - 16,0,12,2,Jumper
+79,Rudy Gobert,OFFENSIVE_REBOUND,None,4:04,1,Jazz,Heat,24 - 16,0,N/A,N/A,N/A
+80,Rudy Gobert,FG_UNASSISTED,None,4:03,1,Jazz,Heat,26 - 16,0,0,2,Dunk
+81,Bam Adebayo,FG_MISS,None,3:40,1,Heat,Jazz,26 - 16,1,8,2,Jumper
+82,Derrick Favors,DEFENSIVE_REBOUND,None,3:38,1,Jazz,Heat,26 - 16,0,N/A,N/A,N/A
+83,Joe Ingles,FG_UNASSISTED,None,3:30,1,Jazz,Heat,28 - 16,0,2,2,Jumper
+84,Kelly Olynyk,FG_MISS,None,3:15,1,Heat,Jazz,28 - 16,1,26,3,Jumper
+85,Rudy Gobert,DEFENSIVE_REBOUND,None,3:13,1,Jazz,Heat,28 - 16,0,N/A,N/A,N/A
+86,Team,Unknown,None,3:07,1,Jazz,Heat,28 - 16,0,N/A,N/A,N/A
+87,Raul Neto,SUBSTITUTION,Ingles Joe,3:07,1,Jazz,Heat,28 - 16,0,N/A,N/A,N/A
+88,Kyle Korver,SUBSTITUTION,Rubio Ricky,3:07,1,Jazz,Heat,28 - 16,0,N/A,N/A,N/A
+89,Royce O'Neale,FG_ASSISTED,Raul Neto,2:53,1,Jazz,Heat,31 - 16,0,26,3,Jumper
+90,Dwyane Wade's,FG_MISS,Derrick Favors,2:37,1,Jazz,Heat,31 - 16,1,0,2,Layup
+91,Team,OFFENSIVE_REBOUND,None,2:37,1,Heat,Jazz,31 - 16,1,N/A,N/A,N/A
+92,Wayne Ellington,SUBSTITUTION,Richardson Josh,2:37,1,Heat,Jazz,31 - 16,1,N/A,N/A,N/A
+93,Donovan Mitchell,SUBSTITUTION,O'Neale Royce,2:37,1,Jazz,Heat,31 - 16,0,N/A,N/A,N/A
+94,Dwyane Wade,TURNOVER,Derrick Favors,2:28,1,Heat,Jazz,31 - 16,1,N/A,N/A,N/A
+95,Donovan Mitchell,FG_UNASSISTED,None,2:21,1,Jazz,Heat,33 - 16,0, ,2,Jumper
+96,Kelly Olynyk,FG_MISS,None,2:04,1,Heat,Jazz,33 - 16,1, ,2,Jumper
+97,Kyle Korver,DEFENSIVE_REBOUND,None,2:01,1,Jazz,Heat,33 - 16,0,N/A,N/A,N/A
+98,Jae Crowder,SUBSTITUTION,Gobert Rudy,1:57,1,Jazz,Heat,33 - 16,0,N/A,N/A,N/A
+99,Raul Neto,FG_UNASSISTED,None,1:46,1,Jazz,Heat,35 - 16,0,1,2,Jumper
+100,Dwyane Wade,FG_UNASSISTED,None,1:27,1,Heat,Jazz,35 - 18,1,18,2,Jumper
+101,Donovan Mitchell,TURNOVER,None,1:16,1,Jazz,Heat,35 - 18,0,N/A,N/A,N/A
+102,Wayne Ellington,FG_ASSISTED,Bam Adebayo,1:00,1,Heat,Jazz,35 - 21,1,26,3,Jumper
+103,Donovan Mitchell's,FG_MISS,Justise Winslow,48.7,1,Heat,Jazz,35 - 21,0,0,2,Layup
+104,Dwyane Wade,DEFENSIVE_REBOUND,None,44.7,1,Heat,Jazz,35 - 21,1,N/A,N/A,N/A
+105,Kelly Olynyk,FG_ASSISTED,Dwyane Wade,40.6,1,Heat,Jazz,35 - 24,1,26,3,Jumper
+106,Donovan Mitchell,FG_MISS,None,29.9,1,Jazz,Heat,35 - 24,0,25,3,Jumper
+107,Kelly Olynyk,DEFENSIVE_REBOUND,None,28.1,1,Heat,Jazz,35 - 24,1,N/A,N/A,N/A
+108,Justise Winslow,FG_ASSISTED,Kelly Olynyk,7.2,1,Heat,Jazz,35 - 27,1,24,3,Jumper
+109,Hassan Whiteside,SUBSTITUTION,for game,0.3,1,Heat,Jazz,35 - 27,1,N/A,N/A,N/A
+110,Hassan Whiteside,SUBSTITUTION,Olynyk Kelly,0.3,1,Heat,Jazz,35 - 27,1,N/A,N/A,N/A
+111,End of,Unknown,None,0.0,1,Heat,Jazz,35 - 27,1,N/A,N/A,N/A
+0,enters the,SUBSTITUTION,Whiteside Hassan,12:00,2,Heat,Jazz,35 - 27,1,N/A,N/A,N/A
+1,Royce O'Neale,SUBSTITUTION,Neto Raul,12:00,2,Jazz,Heat,35 - 27,0,N/A,N/A,N/A
+2,Jae Crowder,FG_MISS,None,11:31,2,Jazz,Heat,35 - 27,0,21,2,Jumper
+3,Dwyane Wade,DEFENSIVE_REBOUND,None,11:27,2,Heat,Jazz,35 - 27,1,N/A,N/A,N/A
+4,Wayne Ellington,FG_MISS,None,11:18,2,Heat,Jazz,35 - 27,1,25,3,Jumper
+5,Team,DEFENSIVE_REBOUND,None,11:18,2,Jazz,Heat,35 - 27,0,N/A,N/A,N/A
+6,Hassan Whiteside,SUBSTITUTION,Adebayo Bam,11:18,2,Heat,Jazz,35 - 27,1,N/A,N/A,N/A
+7,Donovan Mitchell's,FG_MISS,Hassan Whiteside,11:06,2,Heat,Jazz,35 - 27,0,0,2,Layup
+8,Hassan Whiteside,DEFENSIVE_REBOUND,None,11:03,2,Heat,Jazz,35 - 27,1,N/A,N/A,N/A
+9,Hassan Whiteside,FG_UNASSISTED,None,10:48,2,Heat,Jazz,35 - 29,1,9,2,Jumper
+10,Jae Crowder,TURNOVER,None,10:30,2,Jazz,Heat,35 - 29,0,N/A,N/A,N/A
+11,Thabo Sefolosha,SUBSTITUTION,Crowder Jae,10:30,2,Jazz,Heat,35 - 29,0,N/A,N/A,N/A
+12,Justise Winslow,FG_ASSISTED,Dwyane Wade,10:14,2,Heat,Jazz,35 - 31,1,0,2,Dunk
+13,Donovan Mitchell,FG_MISS,None,9:47,2,Jazz,Heat,35 - 31,0,21,2,Jumper
+14,Team,OFFENSIVE_REBOUND,None,9:47,2,Jazz,Heat,35 - 31,0,N/A,N/A,N/A
+15,shot clock,TURNOVER,None,9:47,2,Jazz,Heat,35 - 31,0,N/A,N/A,N/A
+16,Dwyane Wade,FG_MISS,None,9:35,2,Heat,Jazz,35 - 31,1,26,3,Jumper
+17,Royce O'Neale,DEFENSIVE_REBOUND,None,9:33,2,Jazz,Heat,35 - 31,0,N/A,N/A,N/A
+18,Royce O'Neale,TURNOVER,Justise Winslow,9:29,2,Jazz,Heat,35 - 31,0,N/A,N/A,N/A
+19,Hassan Whiteside,FG_ASSISTED,Dwyane Wade,9:18,2,Heat,Jazz,35 - 33,1,0,2,Layup
+20,Derrick Favors,FOUL_ON_FLOOR,None,9:18,2,Jazz,Heat,35 - 33,0,N/A,N/A,N/A
+21,Joe Ingles,SUBSTITUTION,O'Neale Royce,9:18,2,Jazz,Heat,35 - 33,0,N/A,N/A,N/A
+22,Hassan Whiteside,FT,None,9:18,2,Heat,Jazz,35 - 34,1,N/A,1,N/A
+23,Kyle Korver,FG_MISS,None,9:03,2,Jazz,Heat,35 - 34,0,27,3,Jumper
+24,Derrick Favors,OFFENSIVE_REBOUND,None,9:00,2,Jazz,Heat,35 - 34,0,N/A,N/A,N/A
+25,Donovan Mitchell,FG_MISS,None,8:52,2,Jazz,Heat,35 - 34,0,20,2,Jumper
+26,Wayne Ellington,DEFENSIVE_REBOUND,None,8:48,2,Heat,Jazz,35 - 34,1,N/A,N/A,N/A
+27,Joe Ingles,FOUL_ON_FLOOR,None,8:42,2,Jazz,Heat,35 - 34,0,N/A,N/A,N/A
+28,Kelly Olynyk,FT,None,8:42,2,Heat,Jazz,35 - 35,1,N/A,1,N/A
+29,Josh Richardson,SUBSTITUTION,Winslow Justise,8:42,2,Heat,Jazz,35 - 35,1,N/A,N/A,N/A
+30,Ricky Rubio,SUBSTITUTION,Favors Derrick,8:42,2,Jazz,Heat,35 - 35,0,N/A,N/A,N/A
+31,Rudy Gobert,SUBSTITUTION,Mitchell Donovan,8:42,2,Jazz,Heat,35 - 35,0,N/A,N/A,N/A
+32,Kelly Olynyk,FT_MISS,None,8:42,2,Heat,Jazz,35 - 35,1,N/A,1,N/A
+33,Justise Winslow,SUBSTITUTION,Wade Dwyane,8:42,2,Heat,Jazz,35 - 35,1,N/A,N/A,N/A
+34,Hassan Whiteside,OFFENSIVE_REBOUND,None,8:36,2,Heat,Jazz,35 - 35,1,N/A,N/A,N/A
+35,Kelly Olynyk,FG_MISS,None,8:34,2,Heat,Jazz,35 - 35,1,23,3,Jumper
+36,Rudy Gobert,DEFENSIVE_REBOUND,None,8:32,2,Jazz,Heat,35 - 35,0,N/A,N/A,N/A
+37,Kyle Korver,FG_MISS,None,8:14,2,Jazz,Heat,35 - 35,0,24,3,Jumper
+38,Josh Richardson,DEFENSIVE_REBOUND,None,8:12,2,Heat,Jazz,35 - 35,1,N/A,N/A,N/A
+39,Justise Winslow,FG_MISS,None,7:55,2,Heat,Jazz,35 - 35,1,11,2,Jumper
+40,Team,OFFENSIVE_REBOUND,None,7:55,2,Heat,Jazz,35 - 35,1,N/A,N/A,N/A
+41,Team,Unknown,None,7:55,2,Heat,Jazz,35 - 35,1,N/A,N/A,N/A
+42,Josh Richardson,FG_MISS,None,7:52,2,Heat,Jazz,35 - 35,1,15,2,Jumper
+43,Ricky Rubio,DEFENSIVE_REBOUND,None,7:48,2,Jazz,Heat,35 - 35,0,N/A,N/A,N/A
+44,Kyle Korver,FG_MISS,Kelly Olynyk,7:36,2,Heat,Jazz,35 - 35,0,23,3,Jumper
+45,Hassan Whiteside,DEFENSIVE_REBOUND,None,7:34,2,Heat,Jazz,35 - 35,1,N/A,N/A,N/A
+46,Rudy Gobert,FOUL_TECHNICAL,None,7:27,2,Jazz,Heat,35 - 35,0,N/A,N/A,N/A
+47,Josh Richardson,FT,None,7:27,2,Heat,Jazz,35 - 36,1,N/A,1,N/A
+48,Josh Richardson,FG_MISS,None,7:19,2,Heat,Jazz,35 - 36,1,15,2,Jumper
+49,Thabo Sefolosha,DEFENSIVE_REBOUND,None,7:17,2,Jazz,Heat,35 - 36,0,N/A,N/A,N/A
+50,Joe Ingles,FG_MISS,None,7:08,2,Jazz,Heat,35 - 36,0, ,2,Jumper
+51,Rudy Gobert,OFFENSIVE_REBOUND,None,7:03,2,Jazz,Heat,35 - 36,0,N/A,N/A,N/A
+52,Rudy Gobert,FG_MISS,None,7:03,2,Jazz,Heat,35 - 36,0, ,2,Jumper
+53,Kelly Olynyk,DEFENSIVE_REBOUND,None,7:03,2,Heat,Jazz,35 - 36,1,N/A,N/A,N/A
+54,Kelly Olynyk,TURNOVER,None,6:53,2,Heat,Jazz,35 - 36,1,N/A,N/A,N/A
+55,Royce O'Neale,SUBSTITUTION,Korver Kyle,6:53,2,Jazz,Heat,35 - 36,0,N/A,N/A,N/A
+56,Joe Ingles,FG_MISS,None,6:38,2,Jazz,Heat,35 - 36,0,12,2,Jumper
+57,Hassan Whiteside,DEFENSIVE_REBOUND,None,6:36,2,Heat,Jazz,35 - 36,1,N/A,N/A,N/A
+58,Justise Winslow,TURNOVER,None,6:29,2,Heat,Jazz,35 - 36,1,N/A,N/A,N/A
+59,James Johnson,SUBSTITUTION,Olynyk Kelly,6:29,2,Heat,Jazz,35 - 36,1,N/A,N/A,N/A
+60,Rudy Gobert,FG_MISS,None,6:15,2,Jazz,Heat,35 - 36,0,0,2,Dunk
+61,Wayne Ellington,DEFENSIVE_REBOUND,None,6:13,2,Heat,Jazz,35 - 36,1,N/A,N/A,N/A
+62,Josh Richardson,FG_MISS,None,6:06,2,Heat,Jazz,35 - 36,1,25,3,Jumper
+63,Team,DEFENSIVE_REBOUND,None,6:06,2,Jazz,Heat,35 - 36,0,N/A,N/A,N/A
+64,Hassan Whiteside,FOUL_ON_FLOOR,None,6:06,2,Heat,Jazz,35 - 36,1,N/A,N/A,N/A
+65,Joe Ingles,FG_MISS,None,5:46,2,Jazz,Heat,35 - 36,0,19,2,Jumper
+66,Team,OFFENSIVE_REBOUND,None,5:46,2,Jazz,Heat,35 - 36,0,N/A,N/A,N/A
+67,Jae Crowder,SUBSTITUTION,Sefolosha Thabo,5:46,2,Jazz,Heat,35 - 36,0,N/A,N/A,N/A
+68,Joe Ingles,FG_ASSISTED,Rudy Gobert,5:39,2,Jazz,Heat,37 - 36,0,13,2,Jumper
+69,Wayne Ellington,FG_MISS,None,5:26,2,Heat,Jazz,37 - 36,1,0,2,Layup
+70,Ricky Rubio,DEFENSIVE_REBOUND,None,5:26,2,Jazz,Heat,37 - 36,0,N/A,N/A,N/A
+71,Jae Crowder,FG_ASSISTED,Joe Ingles,5:19,2,Jazz,Heat,40 - 36,0,27,3,Jumper
+72,Hassan Whiteside,FG_UNASSISTED,None,4:57,2,Heat,Jazz,40 - 38,1,0,2,Layup
+73,Joe Ingles,FOUL_ON_FLOOR,None,4:57,2,Jazz,Heat,40 - 38,0,N/A,N/A,N/A
+74,Dwyane Wade,SUBSTITUTION,Winslow Justise,4:57,2,Heat,Jazz,40 - 38,1,N/A,N/A,N/A
+75,Donovan Mitchell,SUBSTITUTION,O'Neale Royce,4:57,2,Jazz,Heat,40 - 38,0,N/A,N/A,N/A
+76,Hassan Whiteside,FT_MISS,None,4:57,2,Heat,Jazz,40 - 38,1,N/A,1,N/A
+77,Rudy Gobert,DEFENSIVE_REBOUND,None,4:57,2,Jazz,Heat,40 - 38,0,N/A,N/A,N/A
+78,Rudy Gobert,TURNOVER,James Johnson,4:40,2,Jazz,Heat,40 - 38,0,N/A,N/A,N/A
+79,Hassan Whiteside,FG_ASSISTED,James Johnson,4:33,2,Heat,Jazz,40 - 40,1,0,2,Dunk
+80,Joe Ingles,FG_MISS,None,4:18,2,Jazz,Heat,40 - 40,0,28,3,Jumper
+81,Hassan Whiteside,DEFENSIVE_REBOUND,None,4:15,2,Heat,Jazz,40 - 40,1,N/A,N/A,N/A
+82,Dwyane Wade,FG_MISS,None,4:06,2,Heat,Jazz,40 - 40,1, ,2,Jumper
+83,Jae Crowder,DEFENSIVE_REBOUND,None,4:03,2,Jazz,Heat,40 - 40,0,N/A,N/A,N/A
+84,Jae Crowder,FG_MISS,Dwyane Wade,3:48,2,Heat,Jazz,40 - 40,0,4,2,Jumper
+85,Hassan Whiteside,DEFENSIVE_REBOUND,None,3:45,2,Heat,Jazz,40 - 40,1,N/A,N/A,N/A
+86,Joe Ingles,FOUL_ON_FLOOR,None,3:42,2,Jazz,Heat,40 - 40,0,N/A,N/A,N/A
+87,Josh Richardson,FT,None,3:42,2,Heat,Jazz,40 - 41,1,N/A,1,N/A
+88,Royce O'Neale,SUBSTITUTION,Ingles Joe,3:42,2,Jazz,Heat,40 - 41,0,N/A,N/A,N/A
+89,Josh Richardson,FT,None,3:42,2,Heat,Jazz,40 - 42,1,N/A,1,N/A
+90,Ricky Rubio,FG_UNASSISTED,None,3:31,2,Jazz,Heat,42 - 42,0,18,2,Jumper
+91,Josh Richardson,FG_MISS,None,3:17,2,Heat,Jazz,42 - 42,1,25,3,Jumper
+92,Rudy Gobert,DEFENSIVE_REBOUND,None,3:15,2,Jazz,Heat,42 - 42,0,N/A,N/A,N/A
+93,Ricky Rubio,FG_MISS,None,3:12,2,Jazz,Heat,42 - 42,0, ,3,Jumper
+94,James Johnson,DEFENSIVE_REBOUND,None,3:04,2,Heat,Jazz,42 - 42,1,N/A,N/A,N/A
+95,James Johnson,FG_MISS,None,2:56,2,Heat,Jazz,42 - 42,1,10,2,Jumper
+96,Hassan Whiteside,OFFENSIVE_REBOUND,None,2:55,2,Heat,Jazz,42 - 42,1,N/A,N/A,N/A
+97,Hassan Whiteside,FG_UNASSISTED,None,2:55,2,Heat,Jazz,42 - 44,1,0,2,Dunk
+98,Team,Unknown,None,2:55,2,Jazz,Heat,42 - 44,0,N/A,N/A,N/A
+99,Jae Crowder,FG_ASSISTED,Ricky Rubio,2:42,2,Jazz,Heat,45 - 44,0,26,3,Jumper
+100,Wayne Ellington,FG_MISS,Royce O'Neale,2:17,2,Jazz,Heat,45 - 44,1,0,2,Layup
+101,Wayne Ellington,OFFENSIVE_REBOUND,None,2:13,2,Heat,Jazz,45 - 44,1,N/A,N/A,N/A
+102,Wayne Ellington,FG_MISS,None,2:12,2,Heat,Jazz,45 - 44,1,18,2,Jumper
+103,Hassan Whiteside,OFFENSIVE_REBOUND,None,2:10,2,Heat,Jazz,45 - 44,1,N/A,N/A,N/A
+104,Hassan Whiteside,FG_UNASSISTED,None,2:09,2,Heat,Jazz,45 - 46,1,0,2,Dunk
+105,James Johnson,FOUL_ON_FLOOR,None,2:00,2,Heat,Jazz,45 - 46,1,N/A,N/A,N/A
+106,Rudy Gobert,FT_MISS,None,2:00,2,Jazz,Heat,45 - 46,0,N/A,1,N/A
+107,Team,OFFENSIVE_REBOUND,None,2:00,2,Jazz,Heat,45 - 46,0,N/A,N/A,N/A
+108,Rudy Gobert,FT,None,2:00,2,Jazz,Heat,46 - 46,0,N/A,1,N/A
+109,James Johnson,FG_MISS,None,1:44,2,Heat,Jazz,46 - 46,1,0,2,Dunk
+110,Rudy Gobert,DEFENSIVE_REBOUND,None,1:42,2,Jazz,Heat,46 - 46,0,N/A,N/A,N/A
+111,Ricky Rubio,FG_UNASSISTED,None,1:33,2,Jazz,Heat,48 - 46,0,13,2,Jumper
+112,James Johnson,FG_UNASSISTED,None,1:19,2,Heat,Jazz,48 - 48,1, ,2,Jumper
+113,Royce O'Neale,FG_ASSISTED,Ricky Rubio,57.2,2,Jazz,Heat,51 - 48,0,25,3,Jumper
+114,Dwyane Wade,FG_UNASSISTED,None,49.6,2,Heat,Jazz,51 - 51,1,23,3,Jumper
+115,Ricky Rubio,FG_UNASSISTED,None,40.3,2,Jazz,Heat,53 - 51,0, ,2,Jumper
+116,Josh Richardson,FG_UNASSISTED,None,31.4,2,Heat,Jazz,53 - 53,1,0,2,Dunk
+117,Donovan Mitchell,FG_UNASSISTED,None,11.9,2,Jazz,Heat,55 - 53,0, ,2,Jumper
+118,Josh Richardson,FG_MISS,None,2.0,2,Heat,Jazz,55 - 53,1,0,2,Layup
+119,Rudy Gobert,DEFENSIVE_REBOUND,None,1.2,2,Jazz,Heat,55 - 53,0,N/A,N/A,N/A
+120,End of,Unknown,None,0.0,2,Heat,Jazz,55 - 53,1,N/A,N/A,N/A
+0,Justise Winslow,SUBSTITUTION,Wade Dwyane,12:00,3,Heat,Jazz,55 - 53,1,N/A,N/A,N/A
+1,Joe Ingles,SUBSTITUTION,O'Neale Royce,12:00,3,Jazz,Heat,55 - 53,0,N/A,N/A,N/A
+2,Rudy Gobert,TURNOVER,None,11:50,3,Jazz,Heat,55 - 53,0,N/A,N/A,N/A
+3,Hassan Whiteside,FG_ASSISTED,James Johnson,11:28,3,Heat,Jazz,55 - 55,1,0,2,Layup
+4,Ricky Rubio,FOUL_ON_FLOOR,None,11:28,3,Jazz,Heat,55 - 55,0,N/A,N/A,N/A
+5,Hassan Whiteside,FT_MISS,None,11:28,3,Heat,Jazz,55 - 55,1,N/A,1,N/A
+6,Jae Crowder,DEFENSIVE_REBOUND,None,11:28,3,Jazz,Heat,55 - 55,0,N/A,N/A,N/A
+7,Jae Crowder,FG_MISS,None,11:13,3,Jazz,Heat,55 - 55,0,11,2,Jumper
+8,Josh Richardson,DEFENSIVE_REBOUND,None,11:09,3,Heat,Jazz,55 - 55,1,N/A,N/A,N/A
+9,Hassan Whiteside,FG_ASSISTED,Justise Winslow,10:59,3,Heat,Jazz,55 - 57,1,9,2,Jumper
+10,Donovan Mitchell,FG_ASSISTED,Ricky Rubio,10:37,3,Jazz,Heat,57 - 57,0,9,2,Jumper
+11,Justise Winslow,FG_MISS,None,10:23,3,Heat,Jazz,57 - 57,1,0,2,Layup
+12,Ricky Rubio,DEFENSIVE_REBOUND,None,10:21,3,Jazz,Heat,57 - 57,0,N/A,N/A,N/A
+13,Ricky Rubio,FG_MISS,None,10:06,3,Jazz,Heat,57 - 57,0,18,2,Jumper
+14,Hassan Whiteside,DEFENSIVE_REBOUND,None,10:04,3,Heat,Jazz,57 - 57,1,N/A,N/A,N/A
+15,James Johnson,FG_ASSISTED,Hassan Whiteside,9:51,3,Heat,Jazz,57 - 60,1,26,3,Jumper
+16,Rudy Gobert,FG_ASSISTED,Donovan Mitchell,9:26,3,Jazz,Heat,59 - 60,0,0,2,Dunk
+17,Joe Ingles,FOUL_ON_FLOOR,None,9:19,3,Jazz,Heat,59 - 60,0,N/A,N/A,N/A
+18,Royce O'Neale,SUBSTITUTION,Ingles Joe,9:19,3,Jazz,Heat,59 - 60,0,N/A,N/A,N/A
+19,Team,Unknown,None,9:19,3,Heat,Jazz,59 - 60,1,N/A,N/A,N/A
+20,James Johnson,FG_UNASSISTED,None,9:09,3,Heat,Jazz,59 - 62,1,17,2,Jumper
+21,Donovan Mitchell,FG_UNASSISTED,None,8:51,3,Jazz,Heat,61 - 62,0,0,2,Layup
+22,Justise Winslow,TURNOVER,Donovan Mitchell,8:40,3,Heat,Jazz,61 - 62,1,N/A,N/A,N/A
+23,Donovan Mitchell,FG_MISS,None,8:34,3,Jazz,Heat,61 - 62,0,7,2,Jumper
+24,Wayne Ellington,DEFENSIVE_REBOUND,None,8:30,3,Heat,Jazz,61 - 62,1,N/A,N/A,N/A
+25,James Johnson,FG_MISS,None,8:25,3,Heat,Jazz,61 - 62,1,8,2,Jumper
+26,James Johnson,OFFENSIVE_REBOUND,None,8:16,3,Heat,Jazz,61 - 62,1,N/A,N/A,N/A
+27,Josh Richardson,FG_MISS,None,8:13,3,Heat,Jazz,61 - 62,1,28,3,Jumper
+28,Rudy Gobert,DEFENSIVE_REBOUND,None,8:06,3,Jazz,Heat,61 - 62,0,N/A,N/A,N/A
+29,Jae Crowder,FG_MISS,None,8:02,3,Jazz,Heat,61 - 62,0,18,2,Jumper
+30,Team,OFFENSIVE_REBOUND,None,8:02,3,Jazz,Heat,61 - 62,0,N/A,N/A,N/A
+31,James Johnson,FOUL_ON_FLOOR,None,8:02,3,Heat,Jazz,61 - 62,1,N/A,N/A,N/A
+32,Jae Crowder,TURNOVER,None,7:50,3,Jazz,Heat,61 - 62,0,N/A,N/A,N/A
+33,James Johnson,FG_MISS,None,7:39,3,Heat,Jazz,61 - 62,1,25,3,Jumper
+34,Rudy Gobert,DEFENSIVE_REBOUND,None,7:35,3,Jazz,Heat,61 - 62,0,N/A,N/A,N/A
+35,Ricky Rubio,TURNOVER,Justise Winslow,7:24,3,Jazz,Heat,61 - 62,0,N/A,N/A,N/A
+36,Jae Crowder,FOUL_ON_FLOOR,None,7:24,3,Jazz,Heat,61 - 62,0,N/A,N/A,N/A
+37,Josh Richardson,FG_MISS,None,7:12,3,Heat,Jazz,61 - 62,1,6,2,Jumper
+38,Rudy Gobert,DEFENSIVE_REBOUND,None,7:08,3,Jazz,Heat,61 - 62,0,N/A,N/A,N/A
+39,Donovan Mitchell,FG_MISS,None,7:04,3,Jazz,Heat,61 - 62,0,23,3,Jumper
+40,Hassan Whiteside,DEFENSIVE_REBOUND,None,7:02,3,Heat,Jazz,61 - 62,1,N/A,N/A,N/A
+41,Justise Winslow,FG_MISS,None,6:51,3,Heat,Jazz,61 - 62,1,12,2,Jumper
+42,Rudy Gobert,DEFENSIVE_REBOUND,None,6:49,3,Jazz,Heat,61 - 62,0,N/A,N/A,N/A
+43,Ricky Rubio,FG_ASSISTED,Donovan Mitchell,6:39,3,Jazz,Heat,64 - 62,0,23,3,Jumper
+44,James Johnson,FG_ASSISTED,Josh Richardson,6:20,3,Heat,Jazz,64 - 64,1,0,2,Dunk
+45,Jae Crowder,FG_MISS,None,6:05,3,Jazz,Heat,64 - 64,0,26,3,Jumper
+46,Hassan Whiteside,DEFENSIVE_REBOUND,None,5:57,3,Heat,Jazz,64 - 64,1,N/A,N/A,N/A
+47,Hassan Whiteside,FG_MISS,None,5:44,3,Heat,Jazz,64 - 64,1,6,2,Jumper
+48,Rudy Gobert,DEFENSIVE_REBOUND,None,5:41,3,Jazz,Heat,64 - 64,0,N/A,N/A,N/A
+49,Jae Crowder,TURNOVER,Wayne Ellington,5:35,3,Jazz,Heat,64 - 64,0,N/A,N/A,N/A
+50,Hassan Whiteside,FG_MISS,None,5:23,3,Heat,Jazz,64 - 64,1,15,2,Jumper
+51,Rudy Gobert,DEFENSIVE_REBOUND,None,5:21,3,Jazz,Heat,64 - 64,0,N/A,N/A,N/A
+52,Donovan Mitchell,FG_MISS,None,5:08,3,Jazz,Heat,64 - 64,0,20,2,Jumper
+53,Rudy Gobert,OFFENSIVE_REBOUND,None,5:06,3,Jazz,Heat,64 - 64,0,N/A,N/A,N/A
+54,Jae Crowder,FG_ASSISTED,Rudy Gobert,5:04,3,Jazz,Heat,66 - 64,0,0,2,Layup
+55,Hassan Whiteside,FG_ASSISTED,Wayne Ellington,4:45,3,Heat,Jazz,66 - 66,1,13,2,Jumper
+56,Ricky Rubio,FG_MISS,None,4:30,3,Jazz,Heat,66 - 66,0,26,3,Jumper
+57,Jae Crowder,OFFENSIVE_REBOUND,None,4:28,3,Jazz,Heat,66 - 66,0,N/A,N/A,N/A
+58,Jae Crowder,FG_UNASSISTED,None,4:26,3,Jazz,Heat,68 - 66,0, ,2,Jumper
+59,Team,Unknown,None,4:20,3,Heat,Jazz,68 - 66,1,N/A,N/A,N/A
+60,Dwyane Wade,SUBSTITUTION,Richardson Josh,4:20,3,Heat,Jazz,68 - 66,1,N/A,N/A,N/A
+61,Bam Adebayo,SUBSTITUTION,Johnson James,4:20,3,Heat,Jazz,68 - 66,1,N/A,N/A,N/A
+62,Kelly Olynyk,SUBSTITUTION,Whiteside Hassan,4:20,3,Heat,Jazz,68 - 66,1,N/A,N/A,N/A
+63,Derrick Favors,SUBSTITUTION,Mitchell Donovan,4:20,3,Jazz,Heat,68 - 66,0,N/A,N/A,N/A
+64,Kyle Korver,SUBSTITUTION,Crowder Jae,4:20,3,Jazz,Heat,68 - 66,0,N/A,N/A,N/A
+65,Justise Winslow,FG_UNASSISTED,None,4:08,3,Heat,Jazz,68 - 68,1, ,2,Jumper
+66,Rudy Gobert,FG_MISS,None,3:48,3,Jazz,Heat,68 - 68,0,0,2,Layup
+67,Justise Winslow,DEFENSIVE_REBOUND,None,3:46,3,Heat,Jazz,68 - 68,1,N/A,N/A,N/A
+68,Kelly Olynyk,FG_MISS,None,3:41,3,Heat,Jazz,68 - 68,1,26,3,Jumper
+69,Team,DEFENSIVE_REBOUND,None,3:38,3,Jazz,Heat,68 - 68,0,N/A,N/A,N/A
+70,Wayne Ellington,FOUL_ON_FLOOR,None,3:32,3,Heat,Jazz,68 - 68,1,N/A,N/A,N/A
+71,Kyle Korver,TURNOVER,Dwyane Wade,3:22,3,Jazz,Heat,68 - 68,0,N/A,N/A,N/A
+72,Royce O'Neale,FOUL_ON_FLOOR,None,3:19,3,Jazz,Heat,68 - 68,0,N/A,N/A,N/A
+73,Ricky Rubio,FOUL_ON_FLOOR,None,3:05,3,Jazz,Heat,68 - 68,0,N/A,N/A,N/A
+74,Dwyane Wade,FT,None,3:05,3,Heat,Jazz,68 - 69,1,N/A,1,N/A
+75,Dwyane Wade,FT,None,3:05,3,Heat,Jazz,68 - 70,1,N/A,1,N/A
+76,Dwyane Wade,FT,None,3:05,3,Heat,Jazz,68 - 71,1,N/A,1,N/A
+77,Kyle Korver,FG_ASSISTED,Ricky Rubio,2:52,3,Jazz,Heat,71 - 71,0,25,3,Jumper
+78,Wayne Ellington,FG_MISS,None,2:34,3,Heat,Jazz,71 - 71,1,25,3,Jumper
+79,Royce O'Neale,DEFENSIVE_REBOUND,None,2:32,3,Jazz,Heat,71 - 71,0,N/A,N/A,N/A
+80,Derrick Favors,FG_ASSISTED,Royce O'Neale,2:20,3,Jazz,Heat,74 - 71,0,23,3,Jumper
+81,Justise Winslow,FG_MISS,Derrick Favors,1:56,3,Jazz,Heat,74 - 71,1,0,2,Layup
+82,Kelly Olynyk,OFFENSIVE_REBOUND,None,1:55,3,Heat,Jazz,74 - 71,1,N/A,N/A,N/A
+83,Kelly Olynyk,FG_UNASSISTED,None,1:55,3,Heat,Jazz,74 - 73,1,10,2,Jumper
+84,Team,Unknown,None,1:55,3,Jazz,Heat,74 - 73,0,N/A,N/A,N/A
+85,Josh Richardson,SUBSTITUTION,Ellington Wayne,1:55,3,Heat,Jazz,74 - 73,1,N/A,N/A,N/A
+86,Jae Crowder,SUBSTITUTION,Rubio Ricky,1:55,3,Jazz,Heat,74 - 73,0,N/A,N/A,N/A
+87,Donovan Mitchell,SUBSTITUTION,O'Neale Royce,1:55,3,Jazz,Heat,74 - 73,0,N/A,N/A,N/A
+88,Dante Exum,SUBSTITUTION,Gobert Rudy,1:55,3,Jazz,Heat,74 - 73,0,N/A,N/A,N/A
+89,Bam Adebayo,FOUL_ON_FLOOR,None,1:38,3,Heat,Jazz,74 - 73,1,N/A,N/A,N/A
+90,Dante Exum,FT_MISS,None,1:38,3,Jazz,Heat,74 - 73,0,N/A,1,N/A
+91,Team,OFFENSIVE_REBOUND,None,1:38,3,Jazz,Heat,74 - 73,0,N/A,N/A,N/A
+92,Dante Exum,FT,None,1:38,3,Jazz,Heat,75 - 73,0,N/A,1,N/A
+93,Dante Exum,FOUL_ON_FLOOR,None,1:26,3,Jazz,Heat,75 - 73,0,N/A,N/A,N/A
+94,Kelly Olynyk,FT,None,1:26,3,Heat,Jazz,75 - 74,1,N/A,1,N/A
+95,Kelly Olynyk,FT,None,1:26,3,Heat,Jazz,75 - 75,1,N/A,1,N/A
+96,Donovan Mitchell,FG_MISS,None,1:10,3,Jazz,Heat,75 - 75,0,25,3,Jumper
+97,Kelly Olynyk,DEFENSIVE_REBOUND,None,1:08,3,Heat,Jazz,75 - 75,1,N/A,N/A,N/A
+98,Dwyane Wade,FG_MISS,None,1:05,3,Heat,Jazz,75 - 75,1,25,3,Jumper
+99,Jae Crowder,DEFENSIVE_REBOUND,None,1:01,3,Jazz,Heat,75 - 75,0,N/A,N/A,N/A
+100,Derrick Favors,FG_MISS,None,52.5,3,Jazz,Heat,75 - 75,0,5,2,Jumper
+101,Kyle Korver,OFFENSIVE_REBOUND,None,47.9,3,Jazz,Heat,75 - 75,0,N/A,N/A,N/A
+102,Kyle Korver,FG_MISS,None,47.9,3,Jazz,Heat,75 - 75,0, ,2,Jumper
+103,Bam Adebayo,DEFENSIVE_REBOUND,None,47.0,3,Heat,Jazz,75 - 75,1,N/A,N/A,N/A
+104,Josh Richardson,FG_MISS,None,41.5,3,Heat,Jazz,75 - 75,1,7,2,Jumper
+105,Bam Adebayo,OFFENSIVE_REBOUND,None,40.6,3,Heat,Jazz,75 - 75,1,N/A,N/A,N/A
+106,Bam Adebayo,FG_UNASSISTED,None,39.8,3,Heat,Jazz,75 - 77,1, ,2,Jumper
+107,Donovan Mitchell,FG_MISS,Bam Adebayo,33.6,3,Heat,Jazz,75 - 77,0,0,2,Layup
+108,Dwyane Wade,DEFENSIVE_REBOUND,None,30.1,3,Heat,Jazz,75 - 77,1,N/A,N/A,N/A
+109,Josh Richardson,FG_ASSISTED,Dwyane Wade,28.1,3,Heat,Jazz,75 - 80,1,23,3,Jumper
+110,Dante Exum,FG_MISS,None,2.4,3,Jazz,Heat,75 - 80,0,23,3,Jumper
+111,Derrick Favors,OFFENSIVE_REBOUND,None,0.4,3,Jazz,Heat,75 - 80,0,N/A,N/A,N/A
+112,Derrick Favors,FG_UNASSISTED,None,0.0,3,Jazz,Heat,77 - 80,0, ,2,Jumper
+113,End of,Unknown,None,0.0,3,Heat,Jazz,77 - 80,1,N/A,N/A,N/A
+0,Joe Ingles,SUBSTITUTION,Exum Dante,12:00,4,Jazz,Heat,77 - 80,0,N/A,N/A,N/A
+1,Josh Richardson,FG_MISS,None,11:39,4,Heat,Jazz,77 - 80,1,17,2,Jumper
+2,Joe Ingles,DEFENSIVE_REBOUND,None,11:36,4,Jazz,Heat,77 - 80,0,N/A,N/A,N/A
+3,Joe Ingles,FG_MISS,None,11:28,4,Jazz,Heat,77 - 80,0,0,2,Layup
+4,Kelly Olynyk,DEFENSIVE_REBOUND,None,11:24,4,Heat,Jazz,77 - 80,1,N/A,N/A,N/A
+5,Dwyane Wade,FG_MISS,None,11:12,4,Heat,Jazz,77 - 80,1, ,2,Jumper
+6,Derrick Favors,DEFENSIVE_REBOUND,None,11:08,4,Jazz,Heat,77 - 80,0,N/A,N/A,N/A
+7,Jae Crowder,TURNOVER,Bam Adebayo,11:06,4,Jazz,Heat,77 - 80,0,N/A,N/A,N/A
+8,Kelly Olynyk,FG_ASSISTED,Dwyane Wade,10:48,4,Heat,Jazz,77 - 83,1,26,3,Jumper
+9,Donovan Mitchell,FG_UNASSISTED,None,10:27,4,Jazz,Heat,79 - 83,0,11,2,Jumper
+10,Josh Richardson,FOUL_ON_FLOOR,None,10:27,4,Heat,Jazz,79 - 83,1,N/A,N/A,N/A
+11,Hassan Whiteside,SUBSTITUTION,Adebayo Bam,10:27,4,Heat,Jazz,79 - 83,1,N/A,N/A,N/A
+12,Donovan Mitchell,FT,None,10:27,4,Jazz,Heat,80 - 83,0,N/A,1,N/A
+13,Hassan Whiteside,FG_ASSISTED,Dwyane Wade,10:11,4,Heat,Jazz,80 - 85,1,0,2,Layup
+14,Derrick Favors,FOUL_ON_FLOOR,None,10:11,4,Jazz,Heat,80 - 85,0,N/A,N/A,N/A
+15,Hassan Whiteside,FT_MISS,None,10:11,4,Heat,Jazz,80 - 85,1,N/A,1,N/A
+16,Derrick Favors,DEFENSIVE_REBOUND,None,10:07,4,Jazz,Heat,80 - 85,0,N/A,N/A,N/A
+17,Donovan Mitchell,FG_MISS,None,9:56,4,Jazz,Heat,80 - 85,0, ,2,Jumper
+18,Hassan Whiteside,DEFENSIVE_REBOUND,None,9:54,4,Heat,Jazz,80 - 85,1,N/A,N/A,N/A
+19,Dwyane Wade,FG_MISS,None,9:46,4,Heat,Jazz,80 - 85,1,13,2,Jumper
+20,Donovan Mitchell,DEFENSIVE_REBOUND,None,9:43,4,Jazz,Heat,80 - 85,0,N/A,N/A,N/A
+21,Jae Crowder,FG_MISS,None,9:32,4,Jazz,Heat,80 - 85,0,24,3,Jumper
+22,Derrick Favors,OFFENSIVE_REBOUND,None,9:30,4,Jazz,Heat,80 - 85,0,N/A,N/A,N/A
+23,Justise Winslow,FOUL_ON_FLOOR,None,9:30,4,Heat,Jazz,80 - 85,1,N/A,N/A,N/A
+24,Jae Crowder,FT,None,9:30,4,Jazz,Heat,81 - 85,0,N/A,1,N/A
+25,Jae Crowder,FT,None,9:30,4,Jazz,Heat,82 - 85,0,N/A,1,N/A
+26,Josh Richardson,TURNOVER,Derrick Favors,9:17,4,Heat,Jazz,82 - 85,1,N/A,N/A,N/A
+27,Kyle Korver,FG_MISS,None,9:04,4,Jazz,Heat,82 - 85,0,24,3,Jumper
+28,Hassan Whiteside,DEFENSIVE_REBOUND,None,9:01,4,Heat,Jazz,82 - 85,1,N/A,N/A,N/A
+29,Josh Richardson,FG_MISS,None,8:42,4,Heat,Jazz,82 - 85,1,26,3,Jumper
+30,Derrick Favors,DEFENSIVE_REBOUND,None,8:40,4,Jazz,Heat,82 - 85,0,N/A,N/A,N/A
+31,Joe Ingles,FG_MISS,None,8:32,4,Jazz,Heat,82 - 85,0,23,3,Jumper
+32,Hassan Whiteside,DEFENSIVE_REBOUND,None,8:30,4,Heat,Jazz,82 - 85,1,N/A,N/A,N/A
+33,Donovan Mitchell,FOUL_ON_FLOOR,None,8:25,4,Jazz,Heat,82 - 85,0,N/A,N/A,N/A
+34,Wayne Ellington,SUBSTITUTION,Winslow Justise,8:25,4,Heat,Jazz,82 - 85,1,N/A,N/A,N/A
+35,Ricky Rubio,SUBSTITUTION,Favors Derrick,8:25,4,Jazz,Heat,82 - 85,0,N/A,N/A,N/A
+36,Thabo Sefolosha,SUBSTITUTION,Mitchell Donovan,8:25,4,Jazz,Heat,82 - 85,0,N/A,N/A,N/A
+37,Rudy Gobert,SUBSTITUTION,Crowder Jae,8:25,4,Jazz,Heat,82 - 85,0,N/A,N/A,N/A
+38,Wayne Ellington,FG_ASSISTED,Dwyane Wade,8:11,4,Heat,Jazz,82 - 88,1, ,3,Jumper
+39,Josh Richardson,FOUL_ON_FLOOR,None,8:03,4,Heat,Jazz,82 - 88,1,N/A,N/A,N/A
+40,Rudy Gobert,FG_ASSISTED,Joe Ingles,7:56,4,Jazz,Heat,84 - 88,0,0,2,Layup
+41,Hassan Whiteside,FOUL_ON_FLOOR,None,7:56,4,Heat,Jazz,84 - 88,1,N/A,N/A,N/A
+42,Rudy Gobert,FT,None,7:56,4,Jazz,Heat,85 - 88,0,N/A,1,N/A
+43,Josh Richardson,FG_MISS,None,7:37,4,Heat,Jazz,85 - 88,1,13,2,Jumper
+44,Hassan Whiteside,OFFENSIVE_REBOUND,None,7:34,4,Heat,Jazz,85 - 88,1,N/A,N/A,N/A
+45,Hassan Whiteside,FG_MISS,Rudy Gobert,7:33,4,Jazz,Heat,85 - 88,1,0,2,Layup
+46,Ricky Rubio,DEFENSIVE_REBOUND,None,7:33,4,Jazz,Heat,85 - 88,0,N/A,N/A,N/A
+47,Thabo Sefolosha,FG_MISS,None,7:21,4,Jazz,Heat,85 - 88,0,24,3,Jumper
+48,Wayne Ellington,DEFENSIVE_REBOUND,None,7:17,4,Heat,Jazz,85 - 88,1,N/A,N/A,N/A
+49,Donovan Mitchell,SUBSTITUTION,Korver Kyle,7:14,4,Jazz,Heat,85 - 88,0,N/A,N/A,N/A
+50,Hassan Whiteside,FG_MISS,None,7:06,4,Heat,Jazz,85 - 88,1,0,2,Dunk
+51,Rudy Gobert,DEFENSIVE_REBOUND,None,7:05,4,Jazz,Heat,85 - 88,0,N/A,N/A,N/A
+52,Joe Ingles,FG_UNASSISTED,None,6:44,4,Jazz,Heat,87 - 88,0,0,2,Layup
+53,Team,Unknown,None,6:30,4,Heat,Jazz,87 - 88,1,N/A,N/A,N/A
+54,Justise Winslow,SUBSTITUTION,Wade Dwyane,6:30,4,Heat,Jazz,87 - 88,1,N/A,N/A,N/A
+55,Jae Crowder,SUBSTITUTION,Sefolosha Thabo,6:30,4,Jazz,Heat,87 - 88,0,N/A,N/A,N/A
+56,Wayne Ellington,FG_MISS,None,6:23,4,Heat,Jazz,87 - 88,1,26,3,Jumper
+57,Kelly Olynyk,OFFENSIVE_REBOUND,None,6:21,4,Heat,Jazz,87 - 88,1,N/A,N/A,N/A
+58,Justise Winslow,FG_MISS,None,6:16,4,Heat,Jazz,87 - 88,1,23,3,Jumper
+59,Donovan Mitchell,DEFENSIVE_REBOUND,None,6:12,4,Jazz,Heat,87 - 88,0,N/A,N/A,N/A
+60,Donovan Mitchell,FG_MISS,None,6:00,4,Jazz,Heat,87 - 88,0,6,2,Jumper
+61,Team,OFFENSIVE_REBOUND,None,6:00,4,Jazz,Heat,87 - 88,0,N/A,N/A,N/A
+62,Justise Winslow,FOUL_ON_FLOOR,None,6:00,4,Heat,Jazz,87 - 88,1,N/A,N/A,N/A
+63,Rudy Gobert,FT_MISS,None,6:00,4,Jazz,Heat,87 - 88,0,N/A,1,N/A
+64,Team,OFFENSIVE_REBOUND,None,6:00,4,Jazz,Heat,87 - 88,0,N/A,N/A,N/A
+65,Rudy Gobert,FT_MISS,None,6:00,4,Jazz,Heat,87 - 88,0,N/A,1,N/A
+66,Hassan Whiteside,DEFENSIVE_REBOUND,None,5:57,4,Heat,Jazz,87 - 88,1,N/A,N/A,N/A
+67,Josh Richardson,TURNOVER,Ricky Rubio,5:45,4,Heat,Jazz,87 - 88,1,N/A,N/A,N/A
+68,Jae Crowder,FG_ASSISTED,Ricky Rubio,5:37,4,Jazz,Heat,89 - 88,0,21,2,Jumper
+69,Justise Winslow,TURNOVER,None,5:25,4,Heat,Jazz,89 - 88,1,N/A,N/A,N/A
+70,Justise Winslow,TURNOVER,None,5:25,4,Heat,Jazz,89 - 88,1,N/A,N/A,N/A
+71,Wayne Ellington,FOUL_ON_FLOOR,None,5:13,4,Heat,Jazz,89 - 88,1,N/A,N/A,N/A
+72,Ricky Rubio,FT,None,5:13,4,Jazz,Heat,90 - 88,0,N/A,1,N/A
+73,Ricky Rubio,FT,None,5:13,4,Jazz,Heat,91 - 88,0,N/A,1,N/A
+74,Wayne Ellington,FG_MISS,None,4:59,4,Heat,Jazz,91 - 88,1,20,2,Jumper
+75,Wayne Ellington,OFFENSIVE_REBOUND,None,4:58,4,Heat,Jazz,91 - 88,1,N/A,N/A,N/A
+76,Dwyane Wade,SUBSTITUTION,Winslow Justise,4:58,4,Heat,Jazz,91 - 88,1,N/A,N/A,N/A
+77,Josh Richardson,FG_UNASSISTED,None,4:49,4,Heat,Jazz,91 - 91,1,23,2,Jumper
+78,Ricky Rubio,TURNOVER,Hassan Whiteside,4:32,4,Jazz,Heat,91 - 91,0,N/A,N/A,N/A
+79,Rudy Gobert,FOUL_ON_FLOOR,None,4:23,4,Jazz,Heat,91 - 91,0,N/A,N/A,N/A
+80,Team,Unknown,None,4:23,4,Jazz,Heat,91 - 91,0,N/A,N/A,N/A
+81,Kelly Olynyk,FT,None,4:23,4,Heat,Jazz,91 - 92,1,N/A,1,N/A
+82,Kelly Olynyk,FT_MISS,None,4:23,4,Heat,Jazz,91 - 92,1,N/A,1,N/A
+83,Jae Crowder,DEFENSIVE_REBOUND,None,4:19,4,Jazz,Heat,91 - 92,0,N/A,N/A,N/A
+84,Donovan Mitchell,FG_UNASSISTED,None,4:01,4,Jazz,Heat,94 - 92,0,25,3,Jumper
+85,Dwyane Wade,FG_ASSISTED,Hassan Whiteside,3:41,4,Heat,Jazz,94 - 95,1,24,3,Jumper
+86,Ricky Rubio,FG_ASSISTED,Rudy Gobert,3:28,4,Jazz,Heat,96 - 95,0,5,2,Jumper
+87,Wayne Ellington,FOUL_ON_FLOOR,None,3:28,4,Heat,Jazz,96 - 95,1,N/A,N/A,N/A
+88,Ricky Rubio,FT,None,3:28,4,Jazz,Heat,97 - 95,0,N/A,1,N/A
+89,Dwyane Wade,FG_MISS,None,3:10,4,Heat,Jazz,97 - 95,1,7,2,Jumper
+90,Joe Ingles,DEFENSIVE_REBOUND,None,3:07,4,Jazz,Heat,97 - 95,0,N/A,N/A,N/A
+91,Team,Unknown,None,3:04,4,Jazz,Heat,97 - 95,0,N/A,N/A,N/A
+92,Ricky Rubio,TURNOVER,Kelly Olynyk,2:52,4,Jazz,Heat,97 - 95,0,N/A,N/A,N/A
+93,Dwyane Wade,FG_MISS,None,2:30,4,Heat,Jazz,97 - 95,1,25,3,Jumper
+94,Joe Ingles,DEFENSIVE_REBOUND,None,2:27,4,Jazz,Heat,97 - 95,0,N/A,N/A,N/A
+95,Donovan Mitchell,TURNOVER,None,2:24,4,Jazz,Heat,97 - 95,0,N/A,N/A,N/A
+96,Donovan Mitchell,TURNOVER,None,2:24,4,Jazz,Heat,97 - 95,0,N/A,N/A,N/A
+97,Wayne Ellington,FG_ASSISTED,Josh Richardson,2:03,4,Heat,Jazz,97 - 98,1,25,3,Jumper
+98,Donovan Mitchell,FG_MISS,None,1:45,4,Jazz,Heat,97 - 98,0,26,3,Jumper
+99,Kelly Olynyk,DEFENSIVE_REBOUND,None,1:43,4,Heat,Jazz,97 - 98,1,N/A,N/A,N/A
+100,Dwyane Wade,FG_UNASSISTED,None,1:32,4,Heat,Jazz,97 - 100,1,0,2,Layup
+101,Ricky Rubio,FG_ASSISTED,Jae Crowder,1:19,4,Jazz,Heat,100 - 100,0,26,3,Jumper
+102,Hassan Whiteside,FOUL_ON_FLOOR,None,1:08,4,Heat,Jazz,100 - 100,1,N/A,N/A,N/A
+103,Hassan Whiteside,TURNOVER,None,1:08,4,Heat,Jazz,100 - 100,1,N/A,N/A,N/A
+104,Jae Crowder,FG_MISS,None,53.9,4,Jazz,Heat,100 - 100,0,26,3,Jumper
+105,Hassan Whiteside,DEFENSIVE_REBOUND,None,52.4,4,Heat,Jazz,100 - 100,1,N/A,N/A,N/A
+106,Wayne Ellington,FG_MISS,None,46.2,4,Heat,Jazz,100 - 100,1,23,3,Jumper
+107,Josh Richardson,OFFENSIVE_REBOUND,None,43.7,4,Heat,Jazz,100 - 100,1,N/A,N/A,N/A
+108,Team,Unknown,None,42.1,4,Heat,Jazz,100 - 100,1,N/A,N/A,N/A
+109,Dwyane Wade,FG_MISS,None,33.8,4,Heat,Jazz,100 - 100,1,25,3,Jumper
+110,Donovan Mitchell,DEFENSIVE_REBOUND,None,32.0,4,Jazz,Heat,100 - 100,0,N/A,N/A,N/A
+111,Team,Unknown,None,32.0,4,Jazz,Heat,100 - 100,0,N/A,N/A,N/A
+112,Justise Winslow,SUBSTITUTION,Ellington Wayne,32.0,4,Heat,Jazz,100 - 100,1,N/A,N/A,N/A
+113,Donovan Mitchell,FG_MISS,None,20.6,4,Jazz,Heat,100 - 100,0,1,2,Jumper
+114,Justise Winslow,DEFENSIVE_REBOUND,None,18.5,4,Heat,Jazz,100 - 100,1,N/A,N/A,N/A
+115,Rudy Gobert,FOUL_ON_FLOOR,None,3.2,4,Jazz,Heat,100 - 100,0,N/A,N/A,N/A
+116,Dwyane Wade,FT,None,3.2,4,Heat,Jazz,100 - 101,1,N/A,1,N/A
+117,Derrick Favors,SUBSTITUTION,Rubio Ricky,3.2,4,Jazz,Heat,100 - 101,0,N/A,N/A,N/A
+118,Dwyane Wade,FT,None,3.2,4,Heat,Jazz,100 - 102,1,N/A,1,N/A
+119,Team,Unknown,None,3.2,4,Jazz,Heat,100 - 102,0,N/A,N/A,N/A
+120,Bam Adebayo,SUBSTITUTION,Olynyk Kelly,3.2,4,Heat,Jazz,100 - 102,1,N/A,N/A,N/A
+121,Ricky Rubio,SUBSTITUTION,Crowder Jae,3.2,4,Jazz,Heat,100 - 102,0,N/A,N/A,N/A
+122,Kyle Korver,SUBSTITUTION,Favors Derrick,3.2,4,Jazz,Heat,100 - 102,0,N/A,N/A,N/A
+123,Donovan Mitchell,FG_MISS,None,1.2,4,Jazz,Heat,100 - 102,0,24,3,Jumper
+124,Justise Winslow,DEFENSIVE_REBOUND,None,0.2,4,Heat,Jazz,100 - 102,1,N/A,N/A,N/A
+125,End of,Unknown,None,0.0,4,Heat,Jazz,100 - 102,1,N/A,N/A,N/A
+126,End of,Unknown,None,0.0,4,Heat,Jazz,100 - 102,1,N/A,N/A,N/A

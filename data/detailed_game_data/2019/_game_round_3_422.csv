@@ -1,0 +1,456 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Richaun Holmes,JUMP_BALL,None,12:00,1,Suns,Spurs,0 - 0,0,N/A,N/A,N/A
+1,Devin Booker,FG_ASSISTED,Elie Okobo,11:38,1,Suns,Spurs,3 - 0,0,25,3,Jumper
+2,Derrick White,FG_UNASSISTED,None,11:22,1,Spurs,Suns,3 - 2,1,19,2,Jumper
+3,Elie Okobo,FG_UNASSISTED,None,11:02,1,Suns,Spurs,5 - 2,0,-,2,Jumper
+4,LaMarcus Aldridge,FG_MISS,None,10:50,1,Spurs,Suns,5 - 2,1,14,2,Jumper
+5,Mikal Bridges,DEFENSIVE_REBOUND,None,10:48,1,Suns,Spurs,5 - 2,0,N/A,N/A,N/A
+6,Elie Okobo,TURNOVER,Davis Bertans,10:42,1,Suns,Spurs,5 - 2,0,N/A,N/A,N/A
+7,Derrick White,FG_MISS,None,10:37,1,Spurs,Suns,5 - 2,1,-,2,Jumper
+8,Josh Jackson,DEFENSIVE_REBOUND,None,10:35,1,Suns,Spurs,5 - 2,0,N/A,N/A,N/A
+9,Mikal Bridges,TURNOVER,Davis Bertans,10:28,1,Suns,Spurs,5 - 2,0,N/A,N/A,N/A
+10,Davis Bertans,FG_UNASSISTED,None,10:22,1,Spurs,Suns,5 - 5,1,25,3,Jumper
+11,Derrick White,FOUL_ON_FLOOR,None,10:05,1,Spurs,Suns,5 - 5,1,N/A,N/A,N/A
+12,Devin Booker,FT,None,10:05,1,Suns,Spurs,6 - 5,0,N/A,1,N/A
+13,Devin Booker,FT,None,10:05,1,Suns,Spurs,7 - 5,0,N/A,1,N/A
+14,LaMarcus Aldridge,FG_MISS,None,9:48,1,Spurs,Suns,7 - 5,1,10,2,Jumper
+15,Elie Okobo,DEFENSIVE_REBOUND,None,9:46,1,Suns,Spurs,7 - 5,0,N/A,N/A,N/A
+16,Elie Okobo,FG_MISS,None,9:31,1,Suns,Spurs,7 - 5,0,25,3,Jumper
+17,Rudy Gay,DEFENSIVE_REBOUND,None,9:28,1,Spurs,Suns,7 - 5,1,N/A,N/A,N/A
+18,Rudy Gay,FG_MISS,None,9:21,1,Spurs,Suns,7 - 5,1,18,2,Jumper
+19,Richaun Holmes,DEFENSIVE_REBOUND,None,9:18,1,Suns,Spurs,7 - 5,0,N/A,N/A,N/A
+20,Devin Booker,FG_MISS,None,9:14,1,Suns,Spurs,7 - 5,0,27,3,Jumper
+21,LaMarcus Aldridge,DEFENSIVE_REBOUND,None,9:12,1,Spurs,Suns,7 - 5,1,N/A,N/A,N/A
+22,Richaun Holmes,FOUL_ON_FLOOR,None,9:00,1,Suns,Spurs,7 - 5,0,N/A,N/A,N/A
+23,LaMarcus Aldridge,FT_MISS,None,9:00,1,Spurs,Suns,7 - 5,1,N/A,1,N/A
+24,Team,OFFENSIVE_REBOUND,None,9:00,1,Spurs,Suns,7 - 5,1,N/A,N/A,N/A
+25,LaMarcus Aldridge,FT,None,9:00,1,Spurs,Suns,7 - 6,1,N/A,1,N/A
+26,Devin Booker,FG_MISS,None,8:42,1,Suns,Spurs,7 - 6,0,27,3,Jumper
+27,Team,DEFENSIVE_REBOUND,None,8:42,1,Spurs,Suns,7 - 6,1,N/A,N/A,N/A
+28,Davis Bertans,FG_ASSISTED,Rudy Gay,8:21,1,Spurs,Suns,7 - 9,1,27,3,Jumper
+29,Devin Booker,TURNOVER,None,8:16,1,Suns,Spurs,7 - 9,0,N/A,N/A,N/A
+30,Bryn Forbes,FG_MISS,None,8:07,1,Spurs,Suns,7 - 9,1,27,3,Jumper
+31,Elie Okobo,DEFENSIVE_REBOUND,None,8:02,1,Suns,Spurs,7 - 9,0,N/A,N/A,N/A
+32,Josh Jackson,FG_MISS,None,7:54,1,Suns,Spurs,7 - 9,0,0,2,Layup
+33,Derrick White,DEFENSIVE_REBOUND,None,7:53,1,Spurs,Suns,7 - 9,1,N/A,N/A,N/A
+34,Elie Okobo,FOUL_ON_FLOOR,None,7:53,1,Suns,Spurs,7 - 9,0,N/A,N/A,N/A
+35,Rudy Gay,FG_MISS,Richaun Holmes,7:38,1,Suns,Spurs,7 - 9,1,4,2,Jumper
+36,Rudy Gay,OFFENSIVE_REBOUND,None,7:30,1,Spurs,Suns,7 - 9,1,N/A,N/A,N/A
+37,Rudy Gay,FG_MISS,None,7:30,1,Spurs,Suns,7 - 9,1,-,2,Jumper
+38,Derrick White,OFFENSIVE_REBOUND,None,7:30,1,Spurs,Suns,7 - 9,1,N/A,N/A,N/A
+39,Rudy Gay,FG_UNASSISTED,None,7:26,1,Spurs,Suns,7 - 11,1, ,2,Jumper
+40,Elie Okobo,FG_UNASSISTED,None,7:05,1,Suns,Spurs,10 - 11,0,26,2,Jumper
+41,Mikal Bridges,FOUL_TECHNICAL,None,6:50,1,Suns,Spurs,10 - 11,0,N/A,N/A,N/A
+42,Team,Unknown,None,6:50,1,Spurs,Suns,10 - 11,1,N/A,N/A,N/A
+43,Kelly Oubre,SUBSTITUTION,Bridges Mikal,6:50,1,Suns,Spurs,10 - 11,0,N/A,N/A,N/A
+44,LaMarcus Aldridge,FT,None,6:50,1,Spurs,Suns,10 - 12,1,N/A,1,N/A
+45,LaMarcus Aldridge,FG_UNASSISTED,None,6:42,1,Spurs,Suns,10 - 14,1,3,2,Jumper
+46,Devin Booker,TURNOVER,Derrick White,6:23,1,Suns,Spurs,10 - 14,0,N/A,N/A,N/A
+47,LaMarcus Aldridge,FG_ASSISTED,Bryn Forbes,6:17,1,Spurs,Suns,10 - 16,1,0,2,Layup
+48,Richaun Holmes,FG_ASSISTED,Kelly Oubre,6:00,1,Suns,Spurs,12 - 16,0,0,2,Layup
+49,Bryn Forbes,FG_MISS,None,5:47,1,Spurs,Suns,12 - 16,1, ,2,Jumper
+50,LaMarcus Aldridge,OFFENSIVE_REBOUND,None,5:41,1,Spurs,Suns,12 - 16,1,N/A,N/A,N/A
+51,LaMarcus Aldridge,FG_UNASSISTED,None,5:41,1,Spurs,Suns,12 - 18,1, ,2,Jumper
+52,Kelly Oubre,FG_ASSISTED,Devin Booker,5:31,1,Suns,Spurs,15 - 18,0,28,3,Jumper
+53,Rudy Gay,FG_MISS,None,5:10,1,Spurs,Suns,15 - 18,1,19,2,Jumper
+54,Devin Booker,DEFENSIVE_REBOUND,None,5:10,1,Suns,Spurs,15 - 18,0,N/A,N/A,N/A
+55,Kelly Oubre,FG_MISS,Rudy Gay,5:03,1,Spurs,Suns,15 - 18,0, ,2,Jumper
+56,Derrick White,DEFENSIVE_REBOUND,None,5:03,1,Spurs,Suns,15 - 18,1,N/A,N/A,N/A
+57,Davis Bertans,FG_MISS,None,4:55,1,Spurs,Suns,15 - 18,1, ,3,Jumper
+58,Team,OFFENSIVE_REBOUND,None,4:54,1,Spurs,Suns,15 - 18,1,N/A,N/A,N/A
+59,Patty Mills,SUBSTITUTION,White Derrick,4:54,1,Spurs,Suns,15 - 18,1,N/A,N/A,N/A
+60,Marco Belinelli,SUBSTITUTION,Forbes Bryn,4:54,1,Spurs,Suns,15 - 18,1,N/A,N/A,N/A
+61,Dante Cunningham,SUBSTITUTION,Gay Rudy,4:54,1,Spurs,Suns,15 - 18,1,N/A,N/A,N/A
+62,Marco Belinelli,FG_MISS,None,4:51,1,Spurs,Suns,15 - 18,1,11,2,Jumper
+63,Elie Okobo,DEFENSIVE_REBOUND,None,4:49,1,Suns,Spurs,15 - 18,0,N/A,N/A,N/A
+64,Josh Jackson,FG_ASSISTED,Elie Okobo,4:39,1,Suns,Spurs,17 - 18,0, ,2,Jumper
+65,Patty Mills,FG_ASSISTED,Davis Bertans,4:21,1,Spurs,Suns,17 - 21,1,25,3,Jumper
+66,Devin Booker,FG_UNASSISTED,None,4:03,1,Suns,Spurs,20 - 21,0,26,3,Jumper
+67,LaMarcus Aldridge,FG_ASSISTED,Davis Bertans,3:52,1,Spurs,Suns,20 - 23,1,0,2,Layup
+68,Kelly Oubre,FG_MISS,None,3:40,1,Suns,Spurs,20 - 23,0,25,3,Jumper
+69,Team,DEFENSIVE_REBOUND,None,3:40,1,Spurs,Suns,20 - 23,1,N/A,N/A,N/A
+70,LaMarcus Aldridge,FG_ASSISTED,Patty Mills,3:27,1,Spurs,Suns,20 - 25,1,21,2,Jumper
+71,Team,Unknown,None,3:25,1,Suns,Spurs,20 - 25,0,N/A,N/A,N/A
+72,Pau Gasol,SUBSTITUTION,Aldridge LaMarcus,3:25,1,Spurs,Suns,20 - 25,1,N/A,N/A,N/A
+73,Bryn Forbes,SUBSTITUTION,Bertans Davis,3:25,1,Spurs,Suns,20 - 25,1,N/A,N/A,N/A
+74,Jamal Crawford,SUBSTITUTION,Okobo Elie,3:25,1,Suns,Spurs,20 - 25,0,N/A,N/A,N/A
+75,Dragan Bender,SUBSTITUTION,Holmes Richaun,3:25,1,Suns,Spurs,20 - 25,0,N/A,N/A,N/A
+76,Josh Jackson,FG_ASSISTED,Devin Booker,3:09,1,Suns,Spurs,22 - 25,0,10,2,Jumper
+77,Bryn Forbes,FG_ASSISTED,Marco Belinelli,2:56,1,Spurs,Suns,22 - 27,1,0,2,Layup
+78,Josh Jackson,FG_ASSISTED,Devin Booker,2:36,1,Suns,Spurs,25 - 27,0,27,3,Jumper
+79,Marco Belinelli,FG_ASSISTED,Patty Mills,2:20,1,Spurs,Suns,25 - 30,1,26,2,Jumper
+80,Devin Booker,FG_ASSISTED,Jamal Crawford,2:08,1,Suns,Spurs,27 - 30,0,17,2,Jumper
+81,Marco Belinelli,FG_MISS,None,1:55,1,Spurs,Suns,27 - 30,1,27,3,Jumper
+82,Josh Jackson,DEFENSIVE_REBOUND,None,1:52,1,Suns,Spurs,27 - 30,0,N/A,N/A,N/A
+83,Josh Jackson,FG_MISS,None,1:43,1,Suns,Spurs,27 - 30,0, ,2,Jumper
+84,Kelly Oubre,OFFENSIVE_REBOUND,None,1:40,1,Suns,Spurs,27 - 30,0,N/A,N/A,N/A
+85,Kelly Oubre,FG_UNASSISTED,None,1:38,1,Suns,Spurs,29 - 30,0,0,2,Layup
+86,Bryn Forbes,FG_MISS,None,1:29,1,Spurs,Suns,29 - 30,1,16,2,Jumper
+87,Devin Booker,DEFENSIVE_REBOUND,None,1:27,1,Suns,Spurs,29 - 30,0,N/A,N/A,N/A
+88,Devin Booker,FG_UNASSISTED,None,1:13,1,Suns,Spurs,31 - 30,0,0,2,Layup
+89,Pau Gasol,FG_MISS,None,59.2,1,Spurs,Suns,31 - 30,1,16,2,Jumper
+90,Kelly Oubre,DEFENSIVE_REBOUND,None,56.9,1,Suns,Spurs,31 - 30,0,N/A,N/A,N/A
+91,Kelly Oubre,TURNOVER,Bryn Forbes,51.9,1,Suns,Spurs,31 - 30,0,N/A,N/A,N/A
+92,Jamal Crawford,FOUL_ON_FLOOR,None,50.9,1,Suns,Spurs,31 - 30,0,N/A,N/A,N/A
+93,Kelly Oubre,FOUL_ON_FLOOR,None,37.3,1,Suns,Spurs,31 - 30,0,N/A,N/A,N/A
+94,Pau Gasol,FT,None,37.3,1,Spurs,Suns,31 - 31,1,N/A,1,N/A
+95,Pau Gasol,FT_MISS,None,37.3,1,Spurs,Suns,31 - 31,1,N/A,1,N/A
+96,Kelly Oubre,DEFENSIVE_REBOUND,None,36.2,1,Suns,Spurs,31 - 31,0,N/A,N/A,N/A
+97,Josh Jackson,FG_MISS,Marco Belinelli,28.9,1,Spurs,Suns,31 - 31,0,0,2,Layup
+98,Marco Belinelli,DEFENSIVE_REBOUND,None,26.2,1,Spurs,Suns,31 - 31,1,N/A,N/A,N/A
+99,Dante Cunningham,FG_ASSISTED,Patty Mills,24.4,1,Spurs,Suns,31 - 33,1,0,2,Dunk
+100,Devin Booker,FG_UNASSISTED,None,2.4,1,Suns,Spurs,33 - 33,0,22,2,Jumper
+101,End of,Unknown,None,0.0,1,Spurs,Suns,33 - 33,1,N/A,N/A,N/A
+0,Rudy Gay,SUBSTITUTION,Cunningham Dante,12:00,2,Spurs,Suns,33 - 33,1,N/A,N/A,N/A
+1,Jakob Poeltl,SUBSTITUTION,Gasol Pau,12:00,2,Spurs,Suns,33 - 33,1,N/A,N/A,N/A
+2,Derrick White,SUBSTITUTION,Forbes Bryn,12:00,2,Spurs,Suns,33 - 33,1,N/A,N/A,N/A
+3,Troy Daniels,SUBSTITUTION,Booker Devin,12:00,2,Suns,Spurs,33 - 33,0,N/A,N/A,N/A
+4,Mikal Bridges,SUBSTITUTION,Jackson Josh,12:00,2,Suns,Spurs,33 - 33,0,N/A,N/A,N/A
+5,Emanuel Terry,SUBSTITUTION,Bender Dragan,12:00,2,Suns,Spurs,33 - 33,0,N/A,N/A,N/A
+6,Jamal Crawford,FOUL_ON_FLOOR,None,11:49,2,Suns,Spurs,33 - 33,0,N/A,N/A,N/A
+7,Derrick White,FT_MISS,None,11:49,2,Spurs,Suns,33 - 33,1,N/A,1,N/A
+8,Team,OFFENSIVE_REBOUND,None,11:49,2,Spurs,Suns,33 - 33,1,N/A,N/A,N/A
+9,Derrick White,FT,None,11:49,2,Spurs,Suns,33 - 34,1,N/A,1,N/A
+10,Jamal Crawford,FG_MISS,None,11:35,2,Suns,Spurs,33 - 34,0, ,3,Jumper
+11,Team,DEFENSIVE_REBOUND,None,11:34,2,Spurs,Suns,33 - 34,1,N/A,N/A,N/A
+12,Emanuel Terry,FOUL_ON_FLOOR,None,11:18,2,Suns,Spurs,33 - 34,0,N/A,N/A,N/A
+13,Derrick White,FT,None,11:18,2,Spurs,Suns,33 - 35,1,N/A,1,N/A
+14,Derrick White,FT,None,11:18,2,Spurs,Suns,33 - 36,1,N/A,1,N/A
+15,Emanuel Terry,FG_ASSISTED,Mikal Bridges,11:02,2,Suns,Spurs,35 - 36,0,0,2,Dunk
+16,Jakob Poeltl,FG_ASSISTED,Patty Mills,10:50,2,Spurs,Suns,35 - 38,1,0,2,Layup
+17,Mikal Bridges,FG_UNASSISTED,None,10:32,2,Suns,Spurs,38 - 38,0,26,3,Jumper
+18,Patty Mills,FG_MISS,None,10:21,2,Spurs,Suns,38 - 38,1,23,3,Jumper
+19,Troy Daniels,DEFENSIVE_REBOUND,None,10:18,2,Suns,Spurs,38 - 38,0,N/A,N/A,N/A
+20,Mikal Bridges,FG_MISS,None,10:13,2,Suns,Spurs,38 - 38,0,25,3,Jumper
+21,Marco Belinelli,DEFENSIVE_REBOUND,None,10:09,2,Spurs,Suns,38 - 38,1,N/A,N/A,N/A
+22,Marco Belinelli,FG_UNASSISTED,None,10:02,2,Spurs,Suns,38 - 40,1,9,2,Jumper
+23,Kelly Oubre,TURNOVER,Derrick White,9:46,2,Suns,Spurs,38 - 40,0,N/A,N/A,N/A
+24,Marco Belinelli,FG_MISS,None,9:39,2,Spurs,Suns,38 - 40,1,15,2,Jumper
+25,Rudy Gay,OFFENSIVE_REBOUND,None,9:35,2,Spurs,Suns,38 - 40,1,N/A,N/A,N/A
+26,Rudy Gay,FG_UNASSISTED,None,9:35,2,Spurs,Suns,38 - 42,1, ,2,Jumper
+27,Rudy Gay,Unknown,None,9:26,2,Spurs,Suns,38 - 42,1,N/A,N/A,N/A
+28,Bryn Forbes,SUBSTITUTION,Mills Patty,9:26,2,Spurs,Suns,38 - 42,1,N/A,N/A,N/A
+29,Jamal Crawford,TURNOVER,Rudy Gay,9:19,2,Suns,Spurs,38 - 42,0,N/A,N/A,N/A
+30,Troy Daniels,FOUL_ON_FLOOR,None,9:19,2,Suns,Spurs,38 - 42,0,N/A,N/A,N/A
+31,Kelly Oubre,FOUL_ON_FLOOR,None,9:08,2,Suns,Spurs,38 - 42,0,N/A,N/A,N/A
+32,Davis Bertans,SUBSTITUTION,Belinelli Marco,9:08,2,Spurs,Suns,38 - 42,1,N/A,N/A,N/A
+33,Derrick White,FG_UNASSISTED,None,9:03,2,Spurs,Suns,38 - 44,1,18,2,Jumper
+34,Kelly Oubre,FG_MISS,None,8:39,2,Suns,Spurs,38 - 44,0,0,2,Layup
+35,Team,OFFENSIVE_REBOUND,None,8:39,2,Suns,Spurs,38 - 44,0,N/A,N/A,N/A
+36,Jakob Poeltl,FOUL_ON_FLOOR,None,8:39,2,Spurs,Suns,38 - 44,1,N/A,N/A,N/A
+37,LaMarcus Aldridge,SUBSTITUTION,Poeltl Jakob,8:39,2,Spurs,Suns,38 - 44,1,N/A,N/A,N/A
+38,Kelly Oubre,FG_UNASSISTED,None,8:35,2,Suns,Spurs,40 - 44,0,7,2,Jumper
+39,Rudy Gay,FOUL_ON_FLOOR,None,8:35,2,Spurs,Suns,40 - 44,1,N/A,N/A,N/A
+40,Richaun Holmes,SUBSTITUTION,Terry Emanuel,8:35,2,Suns,Spurs,40 - 44,0,N/A,N/A,N/A
+41,Kelly Oubre,FT,None,8:35,2,Suns,Spurs,41 - 44,0,N/A,1,N/A
+42,LaMarcus Aldridge,FG_MISS,None,8:20,2,Spurs,Suns,41 - 44,1,20,2,Jumper
+43,Kelly Oubre,DEFENSIVE_REBOUND,None,8:15,2,Suns,Spurs,41 - 44,0,N/A,N/A,N/A
+44,Bryn Forbes,FOUL_ON_FLOOR,None,8:11,2,Spurs,Suns,41 - 44,1,N/A,N/A,N/A
+45,Richaun Holmes,FT,None,8:11,2,Suns,Spurs,42 - 44,0,N/A,1,N/A
+46,Richaun Holmes,FT_MISS,None,8:11,2,Suns,Spurs,42 - 44,0,N/A,1,N/A
+47,Team,DEFENSIVE_REBOUND,None,8:11,2,Spurs,Suns,42 - 44,1,N/A,N/A,N/A
+48,Derrick White,FG_UNASSISTED,None,7:51,2,Spurs,Suns,42 - 46,1,15,2,Jumper
+49,Jamal Crawford,FG_UNASSISTED,None,7:41,2,Suns,Spurs,44 - 46,0,20,2,Jumper
+50,Rudy Gay,FG_MISS,None,7:24,2,Spurs,Suns,44 - 46,1,17,2,Jumper
+51,Troy Daniels,DEFENSIVE_REBOUND,None,7:22,2,Suns,Spurs,44 - 46,0,N/A,N/A,N/A
+52,Jamal Crawford,FG_UNASSISTED,None,7:15,2,Suns,Spurs,46 - 46,0,15,2,Jumper
+53,Team,Unknown,None,7:11,2,Spurs,Suns,46 - 46,1,N/A,N/A,N/A
+54,Devin Booker,SUBSTITUTION,Oubre Kelly,7:11,2,Suns,Spurs,46 - 46,0,N/A,N/A,N/A
+55,Derrick White,FG_UNASSISTED,None,7:03,2,Spurs,Suns,46 - 48,1,4,2,Jumper
+56,Richaun Holmes,FG_ASSISTED,Jamal Crawford,6:48,2,Suns,Spurs,48 - 48,0,0,2,Dunk
+57,Davis Bertans,FG_ASSISTED,Rudy Gay,6:37,2,Spurs,Suns,48 - 51,1,23,3,Jumper
+58,Jamal Crawford,FG_ASSISTED,Richaun Holmes,6:15,2,Suns,Spurs,51 - 51,0,24,3,Jumper
+59,Derrick White,FG_ASSISTED,LaMarcus Aldridge,6:00,2,Spurs,Suns,51 - 53,1,11,2,Jumper
+60,Rudy Gay,FOUL_ON_FLOOR,None,5:47,2,Spurs,Suns,51 - 53,1,N/A,N/A,N/A
+61,Jamal Crawford,FT,None,5:47,2,Suns,Spurs,52 - 53,0,N/A,1,N/A
+62,Patty Mills,SUBSTITUTION,Forbes Bryn,5:47,2,Spurs,Suns,52 - 53,1,N/A,N/A,N/A
+63,Marco Belinelli,SUBSTITUTION,Gay Rudy,5:47,2,Spurs,Suns,52 - 53,1,N/A,N/A,N/A
+64,Jamal Crawford,FT,None,5:47,2,Suns,Spurs,53 - 53,0,N/A,1,N/A
+65,Josh Jackson,SUBSTITUTION,Daniels Troy,5:47,2,Suns,Spurs,53 - 53,0,N/A,N/A,N/A
+66,Derrick White,FG_MISS,None,5:35,2,Spurs,Suns,53 - 53,1,17,2,Jumper
+67,Jamal Crawford,DEFENSIVE_REBOUND,None,5:32,2,Suns,Spurs,53 - 53,0,N/A,N/A,N/A
+68,Marco Belinelli,FOUL_ON_FLOOR,None,5:30,2,Spurs,Suns,53 - 53,1,N/A,N/A,N/A
+69,Devin Booker,FT,None,5:30,2,Suns,Spurs,54 - 53,0,N/A,1,N/A
+70,Devin Booker,FT,None,5:30,2,Suns,Spurs,55 - 53,0,N/A,1,N/A
+71,Marco Belinelli,FG_MISS,None,5:20,2,Spurs,Suns,55 - 53,1,19,2,Jumper
+72,LaMarcus Aldridge,OFFENSIVE_REBOUND,None,5:18,2,Spurs,Suns,55 - 53,1,N/A,N/A,N/A
+73,Davis Bertans,TURNOVER,None,5:16,2,Spurs,Suns,55 - 53,1,N/A,N/A,N/A
+74,Davis Bertans,TURNOVER,None,5:16,2,Spurs,Suns,55 - 53,1,N/A,N/A,N/A
+75,Jamal Crawford,FG_MISS,None,5:04,2,Suns,Spurs,55 - 53,0,21,2,Jumper
+76,Derrick White,DEFENSIVE_REBOUND,None,5:02,2,Spurs,Suns,55 - 53,1,N/A,N/A,N/A
+77,LaMarcus Aldridge,FG_ASSISTED,Derrick White,4:52,2,Spurs,Suns,55 - 55,1,0,2,Layup
+78,Richaun Holmes,FG_ASSISTED,Josh Jackson,4:28,2,Suns,Spurs,57 - 55,0,0,2,Dunk
+79,Patty Mills,TURNOVER,Mikal Bridges,4:23,2,Spurs,Suns,57 - 55,1,N/A,N/A,N/A
+80,Jamal Crawford,FG_MISS,None,4:17,2,Suns,Spurs,57 - 55,0, ,3,Jumper
+81,Jamal Crawford,OFFENSIVE_REBOUND,None,4:14,2,Suns,Spurs,57 - 55,0,N/A,N/A,N/A
+82,Marco Belinelli,FOUL_ON_FLOOR,None,4:14,2,Spurs,Suns,57 - 55,1,N/A,N/A,N/A
+83,Richaun Holmes,FT_MISS,None,4:14,2,Suns,Spurs,57 - 55,0,N/A,1,N/A
+84,Team,OFFENSIVE_REBOUND,None,4:14,2,Suns,Spurs,57 - 55,0,N/A,N/A,N/A
+85,Richaun Holmes,FT,None,4:14,2,Suns,Spurs,58 - 55,0,N/A,1,N/A
+86,Marco Belinelli,FG_ASSISTED,Derrick White,4:04,2,Spurs,Suns,58 - 58,1,25,3,Jumper
+87,Team,Unknown,None,4:04,2,Suns,Spurs,58 - 58,0,N/A,N/A,N/A
+88,Lonnie Walker,SUBSTITUTION,White Derrick,4:04,2,Spurs,Suns,58 - 58,1,N/A,N/A,N/A
+89,Devin Booker,FG_MISS,None,3:46,2,Suns,Spurs,58 - 58,0,26,3,Jumper
+90,Patty Mills,DEFENSIVE_REBOUND,None,3:44,2,Spurs,Suns,58 - 58,1,N/A,N/A,N/A
+91,Davis Bertans,FG_ASSISTED,Marco Belinelli,3:32,2,Spurs,Suns,58 - 61,1,27,3,Jumper
+92,Devin Booker,TURNOVER,None,3:16,2,Suns,Spurs,58 - 61,0,N/A,N/A,N/A
+93,Richaun Holmes,FOUL_ON_FLOOR,None,3:04,2,Suns,Spurs,58 - 61,0,N/A,N/A,N/A
+94,LaMarcus Aldridge,FT,None,3:04,2,Spurs,Suns,58 - 62,1,N/A,1,N/A
+95,LaMarcus Aldridge,FT,None,3:04,2,Spurs,Suns,58 - 63,1,N/A,1,N/A
+96,Mikal Bridges,FG_ASSISTED,Devin Booker,2:53,2,Suns,Spurs,61 - 63,0,26,3,Jumper
+97,Patty Mills,FG_MISS,None,2:38,2,Spurs,Suns,61 - 63,1,26,2,Jumper
+98,Josh Jackson,DEFENSIVE_REBOUND,None,2:36,2,Suns,Spurs,61 - 63,0,N/A,N/A,N/A
+99,Josh Jackson,TURNOVER,Davis Bertans,2:29,2,Suns,Spurs,61 - 63,0,N/A,N/A,N/A
+100,Lonnie Walker,FG_MISS,None,2:23,2,Spurs,Suns,61 - 63,1,0,2,Layup
+101,Richaun Holmes,DEFENSIVE_REBOUND,None,2:22,2,Suns,Spurs,61 - 63,0,N/A,N/A,N/A
+102,Mikal Bridges,FG_ASSISTED,Jamal Crawford,2:17,2,Suns,Spurs,63 - 63,0,2,2,Jumper
+103,Davis Bertans,FG_MISS,None,1:56,2,Spurs,Suns,63 - 63,1,27,3,Jumper
+104,Mikal Bridges,DEFENSIVE_REBOUND,None,1:56,2,Suns,Spurs,63 - 63,0,N/A,N/A,N/A
+105,Josh Jackson,FG_MISS,None,1:46,2,Suns,Spurs,63 - 63,0,8,2,Jumper
+106,Davis Bertans,DEFENSIVE_REBOUND,None,1:43,2,Spurs,Suns,63 - 63,1,N/A,N/A,N/A
+107,Davis Bertans,FG_MISS,None,1:38,2,Spurs,Suns,63 - 63,1,25,3,Jumper
+108,Team,OFFENSIVE_REBOUND,None,1:38,2,Spurs,Suns,63 - 63,1,N/A,N/A,N/A
+109,Richaun Holmes,FOUL_ON_FLOOR,None,1:36,2,Suns,Spurs,63 - 63,0,N/A,N/A,N/A
+110,LaMarcus Aldridge,FT,None,1:36,2,Spurs,Suns,63 - 64,1,N/A,1,N/A
+111,Kelly Oubre,SUBSTITUTION,Crawford Jamal,1:36,2,Suns,Spurs,63 - 64,0,N/A,N/A,N/A
+112,Emanuel Terry,SUBSTITUTION,Holmes Richaun,1:36,2,Suns,Spurs,63 - 64,0,N/A,N/A,N/A
+113,LaMarcus Aldridge,FT,None,1:36,2,Spurs,Suns,63 - 65,1,N/A,1,N/A
+114,Josh Jackson,TURNOVER,Davis Bertans,1:21,2,Suns,Spurs,63 - 65,0,N/A,N/A,N/A
+115,Patty Mills,FG_ASSISTED,Marco Belinelli,1:16,2,Spurs,Suns,63 - 68,1,26,3,Jumper
+116,Kelly Oubre,FG_MISS,None,56.7,2,Suns,Spurs,63 - 68,0,23,3,Jumper
+117,Mikal Bridges,OFFENSIVE_REBOUND,None,55.0,2,Suns,Spurs,63 - 68,0,N/A,N/A,N/A
+118,Mikal Bridges,FG_UNASSISTED,None,55.0,2,Suns,Spurs,65 - 68,0, ,2,Jumper
+119,LaMarcus Aldridge,FOUL_ON_FLOOR,None,55.0,2,Spurs,Suns,65 - 68,1,N/A,N/A,N/A
+120,Mikal Bridges,FT_MISS,None,55.0,2,Suns,Spurs,65 - 68,0,N/A,1,N/A
+121,LaMarcus Aldridge,DEFENSIVE_REBOUND,None,53.2,2,Spurs,Suns,65 - 68,1,N/A,N/A,N/A
+122,Marco Belinelli,FG_MISS,None,38.4,2,Spurs,Suns,65 - 68,1,0,2,Layup
+123,Devin Booker,DEFENSIVE_REBOUND,None,36.5,2,Suns,Spurs,65 - 68,0,N/A,N/A,N/A
+124,Devin Booker,FG_UNASSISTED,None,32.6,2,Suns,Spurs,67 - 68,0,6,2,Jumper
+125,Emanuel Terry,FOUL_ON_FLOOR,None,18.4,2,Suns,Spurs,67 - 68,0,N/A,N/A,N/A
+126,LaMarcus Aldridge,FT,None,18.4,2,Spurs,Suns,67 - 69,1,N/A,1,N/A
+127,Jamal Crawford,SUBSTITUTION,Jackson Josh,18.4,2,Suns,Spurs,67 - 69,0,N/A,N/A,N/A
+128,Richaun Holmes,SUBSTITUTION,Terry Emanuel,18.4,2,Suns,Spurs,67 - 69,0,N/A,N/A,N/A
+129,LaMarcus Aldridge,FT,None,18.4,2,Spurs,Suns,67 - 70,1,N/A,1,N/A
+130,Richaun Holmes,FG_MISS,None,0.0,2,Suns,Spurs,67 - 70,0, ,2,Jumper
+131,Lonnie Walker,DEFENSIVE_REBOUND,None,0.0,2,Spurs,Suns,67 - 70,1,N/A,N/A,N/A
+132,End of,Unknown,None,0.0,2,Spurs,Suns,67 - 70,1,N/A,N/A,N/A
+0,Derrick White,SUBSTITUTION,IV Walker,12:00,3,Spurs,Suns,67 - 70,1,N/A,N/A,N/A
+1,Bryn Forbes,SUBSTITUTION,Mills Patty,12:00,3,Spurs,Suns,67 - 70,1,N/A,N/A,N/A
+2,Rudy Gay,SUBSTITUTION,Belinelli Marco,12:00,3,Spurs,Suns,67 - 70,1,N/A,N/A,N/A
+3,Josh Jackson,SUBSTITUTION,Oubre Kelly,12:00,3,Suns,Spurs,67 - 70,0,N/A,N/A,N/A
+4,Elie Okobo,SUBSTITUTION,Crawford Jamal,12:00,3,Suns,Spurs,67 - 70,0,N/A,N/A,N/A
+5,Rudy Gay,FG_UNASSISTED,None,11:46,3,Spurs,Suns,67 - 72,1,4,2,Jumper
+6,Mikal Bridges,FG_MISS,None,11:29,3,Suns,Spurs,67 - 72,0,26,3,Jumper
+7,LaMarcus Aldridge,DEFENSIVE_REBOUND,None,11:26,3,Spurs,Suns,67 - 72,1,N/A,N/A,N/A
+8,Derrick White,FG_MISS,None,11:17,3,Spurs,Suns,67 - 72,1,25,3,Jumper
+9,Josh Jackson,DEFENSIVE_REBOUND,None,11:13,3,Suns,Spurs,67 - 72,0,N/A,N/A,N/A
+10,Devin Booker,FG_ASSISTED,Josh Jackson,11:06,3,Suns,Spurs,69 - 72,0,13,2,Jumper
+11,LaMarcus Aldridge,FG_ASSISTED,Rudy Gay,10:53,3,Spurs,Suns,69 - 74,1,21,2,Jumper
+12,Devin Booker,FG_UNASSISTED,None,10:34,3,Suns,Spurs,71 - 74,0,15,2,Jumper
+13,Rudy Gay,FG_UNASSISTED,None,10:21,3,Spurs,Suns,71 - 76,1,15,2,Jumper
+14,Josh Jackson,FG_UNASSISTED,None,10:04,3,Suns,Spurs,73 - 76,0,12,2,Jumper
+15,Derrick White,FG_MISS,None,9:50,3,Spurs,Suns,73 - 76,1,12,2,Jumper
+16,Richaun Holmes,DEFENSIVE_REBOUND,None,9:47,3,Suns,Spurs,73 - 76,0,N/A,N/A,N/A
+17,Devin Booker,FG_ASSISTED,Mikal Bridges,9:41,3,Suns,Spurs,76 - 76,0, ,3,Jumper
+18,Team,Unknown,None,9:39,3,Spurs,Suns,76 - 76,1,N/A,N/A,N/A
+19,Davis Bertans,TURNOVER,Mikal Bridges,9:19,3,Spurs,Suns,76 - 76,1,N/A,N/A,N/A
+20,Richaun Holmes,FG_ASSISTED,Devin Booker,9:00,3,Suns,Spurs,78 - 76,0,12,2,Jumper
+21,Rudy Gay,FG_MISS,None,8:44,3,Spurs,Suns,78 - 76,1,16,2,Jumper
+22,Richaun Holmes,DEFENSIVE_REBOUND,None,8:41,3,Suns,Spurs,78 - 76,0,N/A,N/A,N/A
+23,Devin Booker,FG_MISS,None,8:33,3,Suns,Spurs,78 - 76,0, ,2,Jumper
+24,Rudy Gay,DEFENSIVE_REBOUND,None,8:31,3,Spurs,Suns,78 - 76,1,N/A,N/A,N/A
+25,Bryn Forbes,FG_MISS,None,8:22,3,Spurs,Suns,78 - 76,1,26,3,Jumper
+26,LaMarcus Aldridge,OFFENSIVE_REBOUND,None,8:17,3,Spurs,Suns,78 - 76,1,N/A,N/A,N/A
+27,LaMarcus Aldridge,FG_MISS,None,8:17,3,Spurs,Suns,78 - 76,1, ,2,Jumper
+28,LaMarcus Aldridge,OFFENSIVE_REBOUND,None,8:16,3,Spurs,Suns,78 - 76,1,N/A,N/A,N/A
+29,Davis Bertans,FG_MISS,None,8:14,3,Spurs,Suns,78 - 76,1,26,3,Jumper
+30,Josh Jackson,DEFENSIVE_REBOUND,None,8:12,3,Suns,Spurs,78 - 76,0,N/A,N/A,N/A
+31,Richaun Holmes,FG_MISS,None,7:50,3,Suns,Spurs,78 - 76,0, ,2,Jumper
+32,LaMarcus Aldridge,DEFENSIVE_REBOUND,None,7:48,3,Spurs,Suns,78 - 76,1,N/A,N/A,N/A
+33,Derrick White,FG_UNASSISTED,None,7:34,3,Spurs,Suns,78 - 78,1,0,2,Layup
+34,Josh Jackson,FG_MISS,None,7:12,3,Suns,Spurs,78 - 78,0,26,2,Jumper
+35,Bryn Forbes,DEFENSIVE_REBOUND,None,7:09,3,Spurs,Suns,78 - 78,1,N/A,N/A,N/A
+36,Bryn Forbes,FG_ASSISTED,LaMarcus Aldridge,6:55,3,Spurs,Suns,78 - 80,1,20,2,Jumper
+37,Team,Unknown,None,6:55,3,Suns,Spurs,78 - 80,0,N/A,N/A,N/A
+38,Marco Belinelli,SUBSTITUTION,Gay Rudy,6:55,3,Spurs,Suns,78 - 80,1,N/A,N/A,N/A
+39,Josh Jackson,FG_MISS,Davis Bertans,6:45,3,Spurs,Suns,78 - 80,0,0,2,Layup
+40,Team,DEFENSIVE_REBOUND,None,6:45,3,Spurs,Suns,78 - 80,1,N/A,N/A,N/A
+41,Bryn Forbes,TURNOVER,None,6:27,3,Spurs,Suns,78 - 80,1,N/A,N/A,N/A
+42,Devin Booker,TURNOVER,None,6:18,3,Suns,Spurs,78 - 80,0,N/A,N/A,N/A
+43,Derrick White,FG_MISS,Richaun Holmes,6:03,3,Suns,Spurs,78 - 80,1,0,2,Layup
+44,Mikal Bridges,DEFENSIVE_REBOUND,None,5:59,3,Suns,Spurs,78 - 80,0,N/A,N/A,N/A
+45,Bryn Forbes,FOUL_ON_FLOOR,None,5:59,3,Spurs,Suns,78 - 80,1,N/A,N/A,N/A
+46,Devin Booker,FT,None,5:59,3,Suns,Spurs,79 - 80,0,N/A,1,N/A
+47,Patty Mills,SUBSTITUTION,Forbes Bryn,5:59,3,Spurs,Suns,79 - 80,1,N/A,N/A,N/A
+48,Kelly Oubre,SUBSTITUTION,Bridges Mikal,5:59,3,Suns,Spurs,79 - 80,0,N/A,N/A,N/A
+49,Devin Booker,FT,None,5:59,3,Suns,Spurs,80 - 80,0,N/A,1,N/A
+50,Patty Mills,FG_ASSISTED,Davis Bertans,5:37,3,Spurs,Suns,80 - 83,1,25,3,Jumper
+51,Kelly Oubre,FG_MISS,None,5:23,3,Suns,Spurs,80 - 83,0,26,3,Jumper
+52,Derrick White,DEFENSIVE_REBOUND,None,5:19,3,Spurs,Suns,80 - 83,1,N/A,N/A,N/A
+53,Derrick White,FG_MISS,Josh Jackson,4:59,3,Suns,Spurs,80 - 83,1,5,2,Jumper
+54,Patty Mills,OFFENSIVE_REBOUND,None,4:57,3,Spurs,Suns,80 - 83,1,N/A,N/A,N/A
+55,Patty Mills,FG_MISS,None,4:57,3,Spurs,Suns,80 - 83,1,25,3,Jumper
+56,Team,OFFENSIVE_REBOUND,None,4:57,3,Spurs,Suns,80 - 83,1,N/A,N/A,N/A
+57,Richaun Holmes,FOUL_ON_FLOOR,None,4:57,3,Suns,Spurs,80 - 83,0,N/A,N/A,N/A
+58,Jakob Poeltl,SUBSTITUTION,Aldridge LaMarcus,4:57,3,Spurs,Suns,80 - 83,1,N/A,N/A,N/A
+59,Emanuel Terry,SUBSTITUTION,Holmes Richaun,4:57,3,Suns,Spurs,80 - 83,0,N/A,N/A,N/A
+60,Marco Belinelli,FG_MISS,None,4:50,3,Spurs,Suns,80 - 83,1,25,3,Jumper
+61,Josh Jackson,DEFENSIVE_REBOUND,None,4:46,3,Suns,Spurs,80 - 83,0,N/A,N/A,N/A
+62,Josh Jackson,FG_MISS,None,4:40,3,Suns,Spurs,80 - 83,0,26,3,Jumper
+63,Team,DEFENSIVE_REBOUND,None,4:39,3,Spurs,Suns,80 - 83,1,N/A,N/A,N/A
+64,Kelly Oubre,FOUL_ON_FLOOR,None,4:39,3,Suns,Spurs,80 - 83,0,N/A,N/A,N/A
+65,Davis Bertans,FG_ASSISTED,Marco Belinelli,4:23,3,Spurs,Suns,80 - 85,1,8,2,Jumper
+66,Josh Jackson,FOUL_ON_FLOOR,None,4:23,3,Suns,Spurs,80 - 85,0,N/A,N/A,N/A
+67,Davis Bertans,FT,None,4:23,3,Spurs,Suns,80 - 86,1,N/A,1,N/A
+68,Emanuel Terry,TURNOVER,Patty Mills,4:00,3,Suns,Spurs,80 - 86,0,N/A,N/A,N/A
+69,Devin Booker,FOUL_ON_FLOOR,None,3:57,3,Suns,Spurs,80 - 86,0,N/A,N/A,N/A
+70,Rudy Gay,SUBSTITUTION,Bertans Davis,3:57,3,Spurs,Suns,80 - 86,1,N/A,N/A,N/A
+71,Jamal Crawford,SUBSTITUTION,Okobo Elie,3:57,3,Suns,Spurs,80 - 86,0,N/A,N/A,N/A
+72,Patty Mills,FG_UNASSISTED,None,3:51,3,Spurs,Suns,80 - 89,1,26,3,Jumper
+73,Team,Unknown,None,3:51,3,Suns,Spurs,80 - 89,0,N/A,N/A,N/A
+74,Devin Booker,FG_ASSISTED,Jamal Crawford,3:33,3,Suns,Spurs,82 - 89,0,2,2,Jumper
+75,Jakob Poeltl,FG_ASSISTED,Marco Belinelli,3:16,3,Spurs,Suns,82 - 91,1,0,2,Dunk
+76,Emanuel Terry,FOUL_ON_FLOOR,None,3:07,3,Suns,Spurs,82 - 91,0,N/A,N/A,N/A
+77,Emanuel Terry,TURNOVER,None,3:07,3,Suns,Spurs,82 - 91,0,N/A,N/A,N/A
+78,Rudy Gay,FG_MISS,None,2:46,3,Spurs,Suns,82 - 91,1, ,2,Jumper
+79,Kelly Oubre,DEFENSIVE_REBOUND,None,2:44,3,Suns,Spurs,82 - 91,0,N/A,N/A,N/A
+80,Josh Jackson,FG_MISS,None,2:32,3,Suns,Spurs,82 - 91,0,19,2,Jumper
+81,Patty Mills,DEFENSIVE_REBOUND,None,2:29,3,Spurs,Suns,82 - 91,1,N/A,N/A,N/A
+82,Patty Mills,FG_MISS,None,2:24,3,Spurs,Suns,82 - 91,1,25,3,Jumper
+83,Jakob Poeltl,OFFENSIVE_REBOUND,None,2:22,3,Spurs,Suns,82 - 91,1,N/A,N/A,N/A
+84,Marco Belinelli,FG_ASSISTED,Jakob Poeltl,2:20,3,Spurs,Suns,82 - 94,1,26,3,Jumper
+85,Team,Unknown,None,2:18,3,Suns,Spurs,82 - 94,0,N/A,N/A,N/A
+86,Bryn Forbes,SUBSTITUTION,White Derrick,2:18,3,Spurs,Suns,82 - 94,1,N/A,N/A,N/A
+87,Marco Belinelli,FOUL_ON_FLOOR,None,2:03,3,Spurs,Suns,82 - 94,1,N/A,N/A,N/A
+88,Kelly Oubre,FT,None,2:03,3,Suns,Spurs,83 - 94,0,N/A,1,N/A
+89,Kelly Oubre,FT,None,2:03,3,Suns,Spurs,84 - 94,0,N/A,1,N/A
+90,Patty Mills,TURNOVER,Jamal Crawford,1:49,3,Spurs,Suns,84 - 94,1,N/A,N/A,N/A
+91,Jamal Crawford,TURNOVER,None,1:47,3,Suns,Spurs,84 - 94,0,N/A,N/A,N/A
+92,Rudy Gay,FG_UNASSISTED,None,1:28,3,Spurs,Suns,84 - 96,1,14,2,Jumper
+93,Devin Booker,FG_UNASSISTED,None,1:19,3,Suns,Spurs,86 - 96,0, ,2,Jumper
+94,Bryn Forbes,FOUL_ON_FLOOR,None,1:19,3,Spurs,Suns,86 - 96,1,N/A,N/A,N/A
+95,Devin Booker,FT,None,1:19,3,Suns,Spurs,87 - 96,0,N/A,1,N/A
+96,Rudy Gay,FG_MISS,None,1:00,3,Spurs,Suns,87 - 96,1,0,2,Layup
+97,Emanuel Terry,DEFENSIVE_REBOUND,None,58.8,3,Suns,Spurs,87 - 96,0,N/A,N/A,N/A
+98,Kelly Oubre,FG_MISS,None,52.6,3,Suns,Spurs,87 - 96,0,26,3,Jumper
+99,Rudy Gay,DEFENSIVE_REBOUND,None,48.8,3,Spurs,Suns,87 - 96,1,N/A,N/A,N/A
+100,Rudy Gay,FG_MISS,None,37.6,3,Spurs,Suns,87 - 96,1,8,2,Jumper
+101,Emanuel Terry,DEFENSIVE_REBOUND,None,35.7,3,Suns,Spurs,87 - 96,0,N/A,N/A,N/A
+102,Jamal Crawford,FG_UNASSISTED,None,30.7,3,Suns,Spurs,90 - 96,0,25,3,Jumper
+103,Patty Mills,FG_MISS,None,10.9,3,Spurs,Suns,90 - 96,1,17,2,Jumper
+104,Kelly Oubre,DEFENSIVE_REBOUND,None,9.1,3,Suns,Spurs,90 - 96,0,N/A,N/A,N/A
+105,Patty Mills,FOUL_ON_FLOOR,None,4.4,3,Spurs,Suns,90 - 96,1,N/A,N/A,N/A
+106,Jamal Crawford,FT_MISS,None,4.4,3,Suns,Spurs,90 - 96,0,N/A,1,N/A
+107,Team,OFFENSIVE_REBOUND,None,4.4,3,Suns,Spurs,90 - 96,0,N/A,N/A,N/A
+108,Mikal Bridges,SUBSTITUTION,Booker Devin,4.4,3,Suns,Spurs,90 - 96,0,N/A,N/A,N/A
+109,Jamal Crawford,FT,None,4.4,3,Suns,Spurs,91 - 96,0,N/A,1,N/A
+110,Bryn Forbes,FG_MISS,Kelly Oubre,0.0,3,Suns,Spurs,91 - 96,1,26,3,Jumper
+111,Team,OFFENSIVE_REBOUND,None,0.0,3,Spurs,Suns,91 - 96,1,N/A,N/A,N/A
+112,End of,Unknown,None,0.0,3,Spurs,Suns,91 - 96,1,N/A,N/A,N/A
+0,LaMarcus Aldridge,SUBSTITUTION,Poeltl Jakob,12:00,4,Spurs,Suns,91 - 96,1,N/A,N/A,N/A
+1,Elie Okobo,SUBSTITUTION,Jackson Josh,12:00,4,Suns,Spurs,91 - 96,0,N/A,N/A,N/A
+2,Jamal Crawford,FG_UNASSISTED,None,11:43,4,Suns,Spurs,93 - 96,0,17,2,Jumper
+3,Marco Belinelli,TURNOVER,Emanuel Terry,11:30,4,Spurs,Suns,93 - 96,1,N/A,N/A,N/A
+4,Emanuel Terry,FG_ASSISTED,Mikal Bridges,11:26,4,Suns,Spurs,95 - 96,0, ,2,Jumper
+5,Rudy Gay,Unknown,None,11:26,4,Spurs,Suns,95 - 96,1,N/A,N/A,N/A
+6,Marco Belinelli,FG_MISS,None,11:10,4,Spurs,Suns,95 - 96,1,29,3,Jumper
+7,Emanuel Terry,DEFENSIVE_REBOUND,None,11:07,4,Suns,Spurs,95 - 96,0,N/A,N/A,N/A
+8,Elie Okobo,TURNOVER,None,11:00,4,Suns,Spurs,95 - 96,0,N/A,N/A,N/A
+9,Richaun Holmes,SUBSTITUTION,Terry Emanuel,11:00,4,Suns,Spurs,95 - 96,0,N/A,N/A,N/A
+10,Marco Belinelli,FG_ASSISTED,Patty Mills,10:39,4,Spurs,Suns,95 - 99,1,26,3,Jumper
+11,Jamal Crawford,FG_UNASSISTED,None,10:25,4,Suns,Spurs,97 - 99,0,19,2,Jumper
+12,Marco Belinelli,FG_ASSISTED,LaMarcus Aldridge,10:12,4,Spurs,Suns,97 - 101,1,0,2,Layup
+13,Mikal Bridges,FOUL_ON_FLOOR,None,10:12,4,Suns,Spurs,97 - 101,0,N/A,N/A,N/A
+14,Derrick White,SUBSTITUTION,Mills Patty,10:12,4,Spurs,Suns,97 - 101,1,N/A,N/A,N/A
+15,Davis Bertans,SUBSTITUTION,Forbes Bryn,10:12,4,Spurs,Suns,97 - 101,1,N/A,N/A,N/A
+16,Marco Belinelli,FT,None,10:12,4,Spurs,Suns,97 - 102,1,N/A,1,N/A
+17,Jamal Crawford,FG_MISS,None,9:59,4,Suns,Spurs,97 - 102,0,17,2,Jumper
+18,LaMarcus Aldridge,DEFENSIVE_REBOUND,None,9:56,4,Spurs,Suns,97 - 102,1,N/A,N/A,N/A
+19,Rudy Gay,FG_ASSISTED,LaMarcus Aldridge,9:46,4,Spurs,Suns,97 - 104,1,1,2,Jumper
+20,Elie Okobo,FG_MISS,None,9:24,4,Suns,Spurs,97 - 104,0,26,3,Jumper
+21,Team,DEFENSIVE_REBOUND,None,9:22,4,Spurs,Suns,97 - 104,1,N/A,N/A,N/A
+22,Kelly Oubre,FOUL_ON_FLOOR,None,9:10,4,Suns,Spurs,97 - 104,0,N/A,N/A,N/A
+23,Devin Booker,SUBSTITUTION,Okobo Elie,9:10,4,Suns,Spurs,97 - 104,0,N/A,N/A,N/A
+24,Marco Belinelli,FG_MISS,None,9:02,4,Spurs,Suns,97 - 104,1,19,2,Jumper
+25,LaMarcus Aldridge,OFFENSIVE_REBOUND,None,9:01,4,Spurs,Suns,97 - 104,1,N/A,N/A,N/A
+26,LaMarcus Aldridge,TURNOVER,Devin Booker,8:58,4,Spurs,Suns,97 - 104,1,N/A,N/A,N/A
+27,Devin Booker,TURNOVER,None,8:58,4,Suns,Spurs,97 - 104,0,N/A,N/A,N/A
+28,Quincy Pondexter,SUBSTITUTION,Gay Rudy,8:58,4,Spurs,Suns,97 - 104,1,N/A,N/A,N/A
+29,Davis Bertans,FG_MISS,None,8:42,4,Spurs,Suns,97 - 104,1,12,2,Jumper
+30,Mikal Bridges,DEFENSIVE_REBOUND,None,8:40,4,Suns,Spurs,97 - 104,0,N/A,N/A,N/A
+31,Kelly Oubre,FG_MISS,None,8:27,4,Suns,Spurs,97 - 104,0,23,3,Jumper
+32,Derrick White,DEFENSIVE_REBOUND,None,8:25,4,Spurs,Suns,97 - 104,1,N/A,N/A,N/A
+33,Davis Bertans,FG_MISS,None,8:18,4,Spurs,Suns,97 - 104,1,25,3,Jumper
+34,LaMarcus Aldridge,OFFENSIVE_REBOUND,None,8:14,4,Spurs,Suns,97 - 104,1,N/A,N/A,N/A
+35,Davis Bertans,FG_MISS,None,8:05,4,Spurs,Suns,97 - 104,1,26,3,Jumper
+36,LaMarcus Aldridge,OFFENSIVE_REBOUND,None,8:04,4,Spurs,Suns,97 - 104,1,N/A,N/A,N/A
+37,Derrick White,FG_MISS,None,7:55,4,Spurs,Suns,97 - 104,1,0,2,Layup
+38,Derrick White,OFFENSIVE_REBOUND,None,7:51,4,Spurs,Suns,97 - 104,1,N/A,N/A,N/A
+39,Derrick White,FG_MISS,None,7:51,4,Spurs,Suns,97 - 104,1,1,2,Jumper
+40,Devin Booker,DEFENSIVE_REBOUND,None,7:50,4,Suns,Spurs,97 - 104,0,N/A,N/A,N/A
+41,Devin Booker,FG_UNASSISTED,None,7:47,4,Suns,Spurs,99 - 104,0,1,2,Jumper
+42,Team,Unknown,None,7:46,4,Spurs,Suns,99 - 104,1,N/A,N/A,N/A
+43,Bryn Forbes,SUBSTITUTION,Pondexter Quincy,7:46,4,Spurs,Suns,99 - 104,1,N/A,N/A,N/A
+44,Marco Belinelli,FOUL_ON_FLOOR,None,7:37,4,Spurs,Suns,99 - 104,1,N/A,N/A,N/A
+45,Marco Belinelli,TURNOVER,None,7:37,4,Spurs,Suns,99 - 104,1,N/A,N/A,N/A
+46,Jamal Crawford,FG_ASSISTED,Devin Booker,7:21,4,Suns,Spurs,102 - 104,0,23,3,Jumper
+47,LaMarcus Aldridge,FG_ASSISTED,Derrick White,7:01,4,Spurs,Suns,102 - 106,1,12,2,Jumper
+48,Mikal Bridges,FG_ASSISTED,Jamal Crawford,6:46,4,Suns,Spurs,105 - 106,0,25,3,Jumper
+49,Derrick White's,FG_MISS,Richaun Holmes,6:24,4,Suns,Spurs,105 - 106,1,0,2,Layup
+50,Team,OFFENSIVE_REBOUND,None,6:24,4,Spurs,Suns,105 - 106,1,N/A,N/A,N/A
+51,Patty Mills,SUBSTITUTION,White Derrick,6:24,4,Spurs,Suns,105 - 106,1,N/A,N/A,N/A
+52,Rudy Gay,SUBSTITUTION,Belinelli Marco,6:24,4,Spurs,Suns,105 - 106,1,N/A,N/A,N/A
+53,Bryn Forbes,FG_ASSISTED,Davis Bertans,6:18,4,Spurs,Suns,105 - 109,1,31,3,Jumper
+54,Kelly Oubre,FG_ASSISTED,Devin Booker,5:52,4,Suns,Spurs,107 - 109,0,0,2,Dunk
+55,LaMarcus Aldridge,FG_MISS,None,5:37,4,Spurs,Suns,107 - 109,1,0,2,Layup
+56,Mikal Bridges,DEFENSIVE_REBOUND,None,5:35,4,Suns,Spurs,107 - 109,0,N/A,N/A,N/A
+57,Devin Booker,TURNOVER,None,5:35,4,Suns,Spurs,107 - 109,0,N/A,N/A,N/A
+58,Bryn Forbes,FG_ASSISTED,Davis Bertans,5:21,4,Spurs,Suns,107 - 112,1,27,3,Jumper
+59,Richaun Holmes,FOUL_ON_FLOOR,None,5:04,4,Suns,Spurs,107 - 112,0,N/A,N/A,N/A
+60,Richaun Holmes,TURNOVER,None,5:04,4,Suns,Spurs,107 - 112,0,N/A,N/A,N/A
+61,Bryn Forbes,FG_UNASSISTED,None,4:44,4,Spurs,Suns,107 - 114,1,8,2,Jumper
+62,Team,Unknown,None,4:44,4,Suns,Spurs,107 - 114,0,N/A,N/A,N/A
+63,Devin Booker,FG_ASSISTED,Jamal Crawford,4:33,4,Suns,Spurs,109 - 114,0,12,2,Jumper
+64,Rudy Gay,FG_MISS,None,4:09,4,Spurs,Suns,109 - 114,1,4,2,Jumper
+65,Devin Booker,DEFENSIVE_REBOUND,None,4:03,4,Suns,Spurs,109 - 114,0,N/A,N/A,N/A
+66,Jamal Crawford,FG_UNASSISTED,None,3:52,4,Suns,Spurs,111 - 114,0,1,2,Jumper
+67,Richaun Holmes,FOUL_ON_FLOOR,None,3:37,4,Suns,Spurs,111 - 114,0,N/A,N/A,N/A
+68,Josh Jackson,SUBSTITUTION,Holmes Richaun,3:37,4,Suns,Spurs,111 - 114,0,N/A,N/A,N/A
+69,LaMarcus Aldridge,FG_ASSISTED,Rudy Gay,3:31,4,Spurs,Suns,111 - 116,1,0,2,Layup
+70,Jamal Crawford,FOUL_ON_FLOOR,None,3:31,4,Suns,Spurs,111 - 116,0,N/A,N/A,N/A
+71,LaMarcus Aldridge,FT,None,3:31,4,Spurs,Suns,111 - 117,1,N/A,1,N/A
+72,Kelly Oubre,FG_MISS,LaMarcus Aldridge,3:20,4,Spurs,Suns,111 - 117,0,0,2,Layup
+73,Patty Mills,DEFENSIVE_REBOUND,None,3:17,4,Spurs,Suns,111 - 117,1,N/A,N/A,N/A
+74,Bryn Forbes,FG_MISS,None,3:13,4,Spurs,Suns,111 - 117,1,25,3,Jumper
+75,Kelly Oubre,DEFENSIVE_REBOUND,None,3:10,4,Suns,Spurs,111 - 117,0,N/A,N/A,N/A
+76,Mikal Bridges,FG_ASSISTED,Josh Jackson,3:04,4,Suns,Spurs,113 - 117,0,1,2,Jumper
+77,Team,Unknown,None,3:04,4,Spurs,Suns,113 - 117,1,N/A,N/A,N/A
+78,Davis Bertans,FG_MISS,None,2:50,4,Spurs,Suns,113 - 117,1,26,3,Jumper
+79,LaMarcus Aldridge,OFFENSIVE_REBOUND,None,2:49,4,Spurs,Suns,113 - 117,1,N/A,N/A,N/A
+80,LaMarcus Aldridge,FG_UNASSISTED,None,2:49,4,Spurs,Suns,113 - 119,1,0,2,Dunk
+81,Devin Booker,FG_MISS,None,2:27,4,Suns,Spurs,113 - 119,0,0,2,Layup
+82,Team,OFFENSIVE_REBOUND,None,2:27,4,Suns,Spurs,113 - 119,0,N/A,N/A,N/A
+83,Mikal Bridges,FG_ASSISTED,Josh Jackson,2:24,4,Suns,Spurs,115 - 119,0,0,2,Dunk
+84,LaMarcus Aldridge,TURNOVER,Mikal Bridges,2:06,4,Spurs,Suns,115 - 119,1,N/A,N/A,N/A
+85,Josh Jackson,FG_ASSISTED,Jamal Crawford,1:54,4,Suns,Spurs,118 - 119,0,23,3,Jumper
+86,Rudy Gay,TURNOVER,Mikal Bridges,1:39,4,Spurs,Suns,118 - 119,1,N/A,N/A,N/A
+87,Kelly Oubre,FG_MISS,None,1:31,4,Suns,Spurs,118 - 119,0,1,2,Jumper
+88,LaMarcus Aldridge,DEFENSIVE_REBOUND,None,1:29,4,Spurs,Suns,118 - 119,1,N/A,N/A,N/A
+89,Josh Jackson,FOUL_ON_FLOOR,None,1:12,4,Suns,Spurs,118 - 119,0,N/A,N/A,N/A
+90,Rudy Gay,FT,None,1:12,4,Spurs,Suns,118 - 120,1,N/A,1,N/A
+91,Derrick White,SUBSTITUTION,Mills Patty,1:12,4,Spurs,Suns,118 - 120,1,N/A,N/A,N/A
+92,Rudy Gay,FT,None,1:12,4,Spurs,Suns,118 - 121,1,N/A,1,N/A
+93,Kelly Oubre,FG_ASSISTED,Josh Jackson,57.7,4,Suns,Spurs,120 - 121,0,0,2,Dunk
+94,Davis Bertans,FG_ASSISTED,Rudy Gay,33.3,4,Spurs,Suns,120 - 124,1,27,3,Jumper
+95,Derrick White,FOUL_ON_FLOOR,None,29.9,4,Spurs,Suns,120 - 124,1,N/A,N/A,N/A
+96,Team,Unknown,None,29.9,4,Suns,Spurs,120 - 124,0,N/A,N/A,N/A
+97,Patty Mills,SUBSTITUTION,Gay Rudy,29.9,4,Spurs,Suns,120 - 124,1,N/A,N/A,N/A
+98,Devin Booker,FG_UNASSISTED,None,24.9,4,Suns,Spurs,122 - 124,0,17,2,Jumper
+99,Team,Unknown,None,24.9,4,Spurs,Suns,122 - 124,1,N/A,N/A,N/A
+100,Marco Belinelli,SUBSTITUTION,White Derrick,24.9,4,Spurs,Suns,122 - 124,1,N/A,N/A,N/A
+101,Rudy Gay,SUBSTITUTION,Forbes Bryn,24.9,4,Spurs,Suns,122 - 124,1,N/A,N/A,N/A
+102,Marco Belinelli,TURNOVER,Devin Booker,19.6,4,Spurs,Suns,122 - 124,1,N/A,N/A,N/A
+103,Josh Jackson,FG_UNASSISTED,None,19.6,4,Suns,Spurs,124 - 124,0,0,2,Dunk
+104,Rudy Gay,FG_UNASSISTED,None,0.0,4,Spurs,Suns,124 - 126,1,21,2,Jumper
+105,End of,Unknown,None,0.0,4,Spurs,Suns,124 - 126,1,N/A,N/A,N/A
+106,End of,Unknown,None,0.0,4,Spurs,Suns,124 - 126,1,N/A,N/A,N/A

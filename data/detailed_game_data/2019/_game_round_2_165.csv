@@ -1,0 +1,472 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Nikola Vucevic,JUMP_BALL,None,12:00,1,Hawks,Magic,0 - 0,1,N/A,N/A,N/A
+1,Taurean Prince,FG_ASSISTED,DeAndre' Bembry,11:44,1,Hawks,Magic,0 - 2,1,0,2,Layup
+2,Nikola Vucevic,FG_ASSISTED,D.J. Augustin,11:24,1,Magic,Hawks,2 - 2,0,0,2,Layup
+3,Dewayne Dedmon,FOUL_ON_FLOOR,None,11:24,1,Hawks,Magic,2 - 2,1,N/A,N/A,N/A
+4,Nikola Vucevic,FT,None,11:24,1,Magic,Hawks,3 - 2,0,N/A,1,N/A
+5,Trae Young,FG_MISS,None,11:12,1,Hawks,Magic,3 - 2,1,26,3,Jumper
+6,Nikola Vucevic,DEFENSIVE_REBOUND,None,11:09,1,Magic,Hawks,3 - 2,0,N/A,N/A,N/A
+7,Nikola Vucevic,FG_UNASSISTED,None,10:54,1,Magic,Hawks,5 - 2,0,21,2,Jumper
+8,Taurean Prince,FG_MISS,None,10:38,1,Hawks,Magic,5 - 2,1,13,2,Jumper
+9,Jonathan Isaac,DEFENSIVE_REBOUND,None,10:35,1,Magic,Hawks,5 - 2,0,N/A,N/A,N/A
+10,D.J. Augustin,FOUL_ON_FLOOR,None,10:28,1,Magic,Hawks,5 - 2,0,N/A,N/A,N/A
+11,D.J. Augustin,TURNOVER,None,10:28,1,Magic,Hawks,5 - 2,0,N/A,N/A,N/A
+12,John Collins,FG_ASSISTED,DeAndre' Bembry,10:20,1,Hawks,Magic,5 - 4,1,0,2,Dunk
+13,Evan Fournier,FG_MISS,None,10:01,1,Magic,Hawks,5 - 4,0,0,2,Layup
+14,Taurean Prince,DEFENSIVE_REBOUND,None,9:59,1,Hawks,Magic,5 - 4,1,N/A,N/A,N/A
+15,Dewayne Dedmon,FG_ASSISTED,John Collins,9:51,1,Hawks,Magic,5 - 7,1,26,3,Jumper
+16,Taurean Prince,FOUL_ON_FLOOR,None,9:38,1,Hawks,Magic,5 - 7,1,N/A,N/A,N/A
+17,Jonathon Simmons,FG_MISS,None,9:24,1,Magic,Hawks,5 - 7,0,13,2,Jumper
+18,Jonathon Simmons,OFFENSIVE_REBOUND,None,9:22,1,Magic,Hawks,5 - 7,0,N/A,N/A,N/A
+19,Nikola Vucevic,FG_MISS,None,9:19,1,Magic,Hawks,5 - 7,0,11,2,Jumper
+20,Dewayne Dedmon,DEFENSIVE_REBOUND,None,9:17,1,Hawks,Magic,5 - 7,1,N/A,N/A,N/A
+21,Dewayne Dedmon,FG_ASSISTED,Trae Young,9:12,1,Hawks,Magic,5 - 10,1, ,3,Jumper
+22,Nikola Vucevic,FG_MISS,None,8:50,1,Magic,Hawks,5 - 10,0,13,2,Jumper
+23,John Collins,DEFENSIVE_REBOUND,None,8:48,1,Hawks,Magic,5 - 10,1,N/A,N/A,N/A
+24,John Collins,FG_ASSISTED,Trae Young,8:38,1,Hawks,Magic,5 - 12,1,0,2,Dunk
+25,Nikola Vucevic,FG_ASSISTED,Jonathon Simmons,8:16,1,Magic,Hawks,7 - 12,0,0,2,Layup
+26,DeAndre' Bembry,FG_ASSISTED,Dewayne Dedmon,8:03,1,Hawks,Magic,7 - 14,1,0,2,Dunk
+27,Jonathan Isaac,FG_MISS,None,7:48,1,Magic,Hawks,7 - 14,0,26,3,Jumper
+28,Team,OFFENSIVE_REBOUND,None,7:48,1,Magic,Hawks,7 - 14,0,N/A,N/A,N/A
+29,Dewayne Dedmon,FOUL_ON_FLOOR,None,7:48,1,Hawks,Magic,7 - 14,1,N/A,N/A,N/A
+30,Alex Len,SUBSTITUTION,Dedmon Dewayne,7:48,1,Hawks,Magic,7 - 14,1,N/A,N/A,N/A
+31,D.J. Augustin,TURNOVER,DeAndre' Bembry,7:42,1,Magic,Hawks,7 - 14,0,N/A,N/A,N/A
+32,Taurean Prince,FG_ASSISTED,DeAndre' Bembry,7:38,1,Hawks,Magic,7 - 16,1, ,2,Jumper
+33,Team,Unknown,None,7:38,1,Magic,Hawks,7 - 16,0,N/A,N/A,N/A
+34,John Collins,FOUL_TECHNICAL,None,7:28,1,Hawks,Magic,7 - 16,1,N/A,N/A,N/A
+35,D.J. Augustin,FT,None,7:28,1,Magic,Hawks,8 - 16,0,N/A,1,N/A
+36,Evan Fournier,FG_UNASSISTED,None,7:22,1,Magic,Hawks,10 - 16,0,0,2,Layup
+37,Taurean Prince,FOUL_ON_FLOOR,None,7:22,1,Hawks,Magic,10 - 16,1,N/A,N/A,N/A
+38,Evan Fournier,FT,None,7:22,1,Magic,Hawks,11 - 16,0,N/A,1,N/A
+39,Alex Len,FG_ASSISTED,Taurean Prince,7:06,1,Hawks,Magic,11 - 18,1,0,2,Dunk
+40,Evan Fournier,FG_UNASSISTED,None,6:51,1,Magic,Hawks,13 - 18,0,16,2,Jumper
+41,Trae Young,TURNOVER,Jonathon Simmons,6:36,1,Hawks,Magic,13 - 18,1,N/A,N/A,N/A
+42,Jonathon Simmons,FG_ASSISTED,Jonathan Isaac,6:32,1,Magic,Hawks,15 - 18,0, ,2,Jumper
+43,Nikola Vucevic,FOUL_ON_FLOOR,None,6:09,1,Magic,Hawks,15 - 18,0,N/A,N/A,N/A
+44,Trae Young,FT,None,6:09,1,Hawks,Magic,15 - 19,1,N/A,1,N/A
+45,Trae Young,FT,None,6:09,1,Hawks,Magic,15 - 20,1,N/A,1,N/A
+46,Omari Spellman,SUBSTITUTION,Prince Taurean,6:09,1,Hawks,Magic,15 - 20,1,N/A,N/A,N/A
+47,Jeremy Lin,SUBSTITUTION,Collins John,6:09,1,Hawks,Magic,15 - 20,1,N/A,N/A,N/A
+48,Trae Young,FT,None,6:09,1,Hawks,Magic,15 - 21,1,N/A,1,N/A
+49,Nikola Vucevic,FG_ASSISTED,Evan Fournier,5:48,1,Magic,Hawks,17 - 21,0,19,2,Jumper
+50,Trae Young,FG_MISS,None,5:36,1,Hawks,Magic,17 - 21,1, ,2,Jumper
+51,Nikola Vucevic,DEFENSIVE_REBOUND,None,5:31,1,Magic,Hawks,17 - 21,0,N/A,N/A,N/A
+52,Nikola Vucevic,FG_MISS,None,5:27,1,Magic,Hawks,17 - 21,0,26,3,Jumper
+53,DeAndre' Bembry,DEFENSIVE_REBOUND,None,5:24,1,Hawks,Magic,17 - 21,1,N/A,N/A,N/A
+54,DeAndre' Bembry,FG_UNASSISTED,None,5:19,1,Hawks,Magic,17 - 23,1,0,2,Layup
+55,Jonathan Isaac,FOUL_ON_FLOOR,None,5:19,1,Magic,Hawks,17 - 23,0,N/A,N/A,N/A
+56,Daniel Hamilton,SUBSTITUTION,Young Trae,5:19,1,Hawks,Magic,17 - 23,1,N/A,N/A,N/A
+57,Wesley Iwundu,SUBSTITUTION,Simmons Jonathon,5:19,1,Magic,Hawks,17 - 23,0,N/A,N/A,N/A
+58,DeAndre' Bembry,FT,None,5:19,1,Hawks,Magic,17 - 24,1,N/A,1,N/A
+59,Isaiah Briscoe,SUBSTITUTION,Augustin D.J.,5:10,1,Magic,Hawks,17 - 24,0,N/A,N/A,N/A
+60,Evan Fournier,TURNOVER,None,5:03,1,Magic,Hawks,17 - 24,0,N/A,N/A,N/A
+61,DeAndre' Bembry,FG_MISS,None,4:40,1,Hawks,Magic,17 - 24,1,0,2,Layup
+62,Nikola Vucevic,DEFENSIVE_REBOUND,None,4:38,1,Magic,Hawks,17 - 24,0,N/A,N/A,N/A
+63,Isaiah Briscoe,FG_MISS,None,4:33,1,Magic,Hawks,17 - 24,0,22,2,Jumper
+64,Omari Spellman,DEFENSIVE_REBOUND,None,4:30,1,Hawks,Magic,17 - 24,1,N/A,N/A,N/A
+65,Daniel Hamilton,FG_MISS,None,4:24,1,Hawks,Magic,17 - 24,1,0,2,Layup
+66,Nikola Vucevic,DEFENSIVE_REBOUND,None,4:20,1,Magic,Hawks,17 - 24,0,N/A,N/A,N/A
+67,Evan Fournier,FG_MISS,None,4:15,1,Magic,Hawks,17 - 24,0,0,2,Layup
+68,Daniel Hamilton,DEFENSIVE_REBOUND,None,4:13,1,Hawks,Magic,17 - 24,1,N/A,N/A,N/A
+69,DeAndre' Bembry,FG_MISS,Wesley Iwundu,4:08,1,Magic,Hawks,17 - 24,1,0,2,Layup
+70,Wesley Iwundu,DEFENSIVE_REBOUND,None,4:05,1,Magic,Hawks,17 - 24,0,N/A,N/A,N/A
+71,DeAndre' Bembry,FOUL_ON_FLOOR,None,3:53,1,Hawks,Magic,17 - 24,1,N/A,N/A,N/A
+72,Team,Unknown,None,3:53,1,Magic,Hawks,17 - 24,0,N/A,N/A,N/A
+73,Tyler Dorsey,SUBSTITUTION,Bembry DeAndre',3:53,1,Hawks,Magic,17 - 24,1,N/A,N/A,N/A
+74,Evan Fournier,FT,None,3:53,1,Magic,Hawks,18 - 24,0,N/A,1,N/A
+75,Evan Fournier,FT,None,3:53,1,Magic,Hawks,19 - 24,0,N/A,1,N/A
+76,Jeremy Lin,FG_UNASSISTED,None,3:36,1,Hawks,Magic,19 - 26,1,18,2,Jumper
+77,Isaiah Briscoe,FG_MISS,None,3:06,1,Magic,Hawks,19 - 26,0,0,2,Layup
+78,Nikola Vucevic,OFFENSIVE_REBOUND,None,3:02,1,Magic,Hawks,19 - 26,0,N/A,N/A,N/A
+79,Nikola Vucevic,FG_MISS,None,3:02,1,Magic,Hawks,19 - 26,0, ,2,Jumper
+80,Alex Len,DEFENSIVE_REBOUND,None,3:01,1,Hawks,Magic,19 - 26,1,N/A,N/A,N/A
+81,Isaiah Briscoe,FOUL_ON_FLOOR,None,3:01,1,Magic,Hawks,19 - 26,0,N/A,N/A,N/A
+82,Terrence Ross,SUBSTITUTION,Isaac Jonathan,3:01,1,Magic,Hawks,19 - 26,0,N/A,N/A,N/A
+83,Jarell Martin,SUBSTITUTION,Fournier Evan,3:01,1,Magic,Hawks,19 - 26,0,N/A,N/A,N/A
+84,Jeremy Lin,FG_MISS,None,2:50,1,Hawks,Magic,19 - 26,1,0,2,Layup
+85,Isaiah Briscoe,DEFENSIVE_REBOUND,None,2:46,1,Magic,Hawks,19 - 26,0,N/A,N/A,N/A
+86,Nikola Vucevic,FG_ASSISTED,Terrence Ross,2:39,1,Magic,Hawks,21 - 26,0,0,2,Dunk
+87,Tyler Dorsey,FG_ASSISTED,Alex Len,2:24,1,Hawks,Magic,21 - 28,1,0,2,Layup
+88,Terrence Ross,FG_MISS,None,1:59,1,Magic,Hawks,21 - 28,0,26,2,Jumper
+89,Alex Len,DEFENSIVE_REBOUND,None,1:55,1,Hawks,Magic,21 - 28,1,N/A,N/A,N/A
+90,Alex Len,FG_MISS,None,1:47,1,Hawks,Magic,21 - 28,1,21,2,Jumper
+91,Daniel Hamilton,OFFENSIVE_REBOUND,None,1:45,1,Hawks,Magic,21 - 28,1,N/A,N/A,N/A
+92,Wesley Iwundu,FOUL_ON_FLOOR,None,1:44,1,Magic,Hawks,21 - 28,0,N/A,N/A,N/A
+93,Alex Len,FT_MISS,None,1:44,1,Hawks,Magic,21 - 28,1,N/A,1,N/A
+94,Team,OFFENSIVE_REBOUND,None,1:44,1,Hawks,Magic,21 - 28,1,N/A,N/A,N/A
+95,Vince Carter,SUBSTITUTION,Spellman Omari,1:44,1,Hawks,Magic,21 - 28,1,N/A,N/A,N/A
+96,Mo Bamba,SUBSTITUTION,Vucevic Nikola,1:44,1,Magic,Hawks,21 - 28,0,N/A,N/A,N/A
+97,Alex Len,FT_MISS,None,1:44,1,Hawks,Magic,21 - 28,1,N/A,1,N/A
+98,Wesley Iwundu,DEFENSIVE_REBOUND,None,1:42,1,Magic,Hawks,21 - 28,0,N/A,N/A,N/A
+99,Terrence Ross,FG_MISS,None,1:27,1,Magic,Hawks,21 - 28,0,26,3,Jumper
+100,Vince Carter,DEFENSIVE_REBOUND,None,1:24,1,Hawks,Magic,21 - 28,1,N/A,N/A,N/A
+101,Daniel Hamilton's,FG_MISS,Jarell Martin,1:11,1,Magic,Hawks,21 - 28,1,0,2,Layup
+102,Team,OFFENSIVE_REBOUND,None,1:11,1,Hawks,Magic,21 - 28,1,N/A,N/A,N/A
+103,John Collins,SUBSTITUTION,Len Alex,1:11,1,Hawks,Magic,21 - 28,1,N/A,N/A,N/A
+104,John Collins,FOUL_ON_FLOOR,None,1:11,1,Hawks,Magic,21 - 28,1,N/A,N/A,N/A
+105,John Collins,TURNOVER,None,1:11,1,Hawks,Magic,21 - 28,1,N/A,N/A,N/A
+106,Daniel Hamilton,FOUL_ON_FLOOR,None,1:02,1,Hawks,Magic,21 - 28,1,N/A,N/A,N/A
+107,Mo Bamba,FT,None,1:02,1,Magic,Hawks,22 - 28,0,N/A,1,N/A
+108,Mo Bamba,FT,None,1:02,1,Magic,Hawks,23 - 28,0,N/A,1,N/A
+109,Isaiah Briscoe,FOUL_ON_FLOOR,None,55.6,1,Magic,Hawks,23 - 28,0,N/A,N/A,N/A
+110,Jeremy Lin,FT,None,55.6,1,Hawks,Magic,23 - 29,1,N/A,1,N/A
+111,Jeremy Lin,FT,None,55.6,1,Hawks,Magic,23 - 30,1,N/A,1,N/A
+112,Jeremy Lin,FT,None,55.6,1,Hawks,Magic,23 - 31,1,N/A,1,N/A
+113,Mo Bamba,FG_ASSISTED,Terrence Ross,40.3,1,Magic,Hawks,25 - 31,0,0,2,Layup
+114,Jeremy Lin,TURNOVER,Terrence Ross,30.7,1,Hawks,Magic,25 - 31,1,N/A,N/A,N/A
+115,Terrence Ross,FG_UNASSISTED,None,20.3,1,Magic,Hawks,27 - 31,0,10,2,Jumper
+116,Vince Carter,FOUL_ON_FLOOR,None,20.3,1,Hawks,Magic,27 - 31,1,N/A,N/A,N/A
+117,Terrence Ross,FT,None,20.3,1,Magic,Hawks,28 - 31,0,N/A,1,N/A
+118,Tyler Dorsey,FG_MISS,Mo Bamba,0.7,1,Magic,Hawks,28 - 31,1,0,2,Layup
+119,Team,OFFENSIVE_REBOUND,None,0.7,1,Hawks,Magic,28 - 31,1,N/A,N/A,N/A
+120,End of,Unknown,None,0.0,1,Hawks,Magic,28 - 31,1,N/A,N/A,N/A
+0,Trae Young,SUBSTITUTION,Dorsey Tyler,12:00,2,Hawks,Magic,28 - 31,1,N/A,N/A,N/A
+1,Taurean Prince,SUBSTITUTION,Hamilton Daniel,12:00,2,Hawks,Magic,28 - 31,1,N/A,N/A,N/A
+2,Dewayne Dedmon,SUBSTITUTION,Lin Jeremy,12:00,2,Hawks,Magic,28 - 31,1,N/A,N/A,N/A
+3,DeAndre' Bembry,SUBSTITUTION,Carter Vince,12:00,2,Hawks,Magic,28 - 31,1,N/A,N/A,N/A
+4,Evan Fournier,SUBSTITUTION,Iwundu Wesley,12:00,2,Magic,Hawks,28 - 31,0,N/A,N/A,N/A
+5,Terrence Ross,FG_ASSISTED,Evan Fournier,11:47,2,Magic,Hawks,30 - 31,0, ,2,Jumper
+6,Trae Young,FG_ASSISTED,John Collins,11:32,2,Hawks,Magic,30 - 33,1,14,2,Jumper
+7,Jarell Martin,FOUL_ON_FLOOR,None,11:32,2,Magic,Hawks,30 - 33,0,N/A,N/A,N/A
+8,Trae Young,FT,None,11:32,2,Hawks,Magic,30 - 34,1,N/A,1,N/A
+9,Terrence Ross,FG_ASSISTED,Evan Fournier,11:20,2,Magic,Hawks,32 - 34,0,16,2,Jumper
+10,Taurean Prince,FG_UNASSISTED,None,11:04,2,Hawks,Magic,32 - 36,1,8,2,Jumper
+11,Terrence Ross,FG_MISS,None,10:46,2,Magic,Hawks,32 - 36,0,20,2,Jumper
+12,Trae Young,DEFENSIVE_REBOUND,None,10:43,2,Hawks,Magic,32 - 36,1,N/A,N/A,N/A
+13,DeAndre' Bembry,FG_MISS,None,10:30,2,Hawks,Magic,32 - 36,1,26,3,Jumper
+14,Terrence Ross,DEFENSIVE_REBOUND,None,10:27,2,Magic,Hawks,32 - 36,0,N/A,N/A,N/A
+15,Jarell Martin,FG_ASSISTED,Isaiah Briscoe,10:17,2,Magic,Hawks,35 - 36,0,24,3,Jumper
+16,Team,Unknown,None,10:16,2,Hawks,Magic,35 - 36,1,N/A,N/A,N/A
+17,Dewayne Dedmon,FG_ASSISTED,Trae Young,9:56,2,Hawks,Magic,35 - 39,1,23,3,Jumper
+18,Evan Fournier,FG_MISS,None,9:39,2,Magic,Hawks,35 - 39,0, ,2,Jumper
+19,John Collins,DEFENSIVE_REBOUND,None,9:37,2,Hawks,Magic,35 - 39,1,N/A,N/A,N/A
+20,Trae Young,TURNOVER,Terrence Ross,9:32,2,Hawks,Magic,35 - 39,1,N/A,N/A,N/A
+21,Terrence Ross,FG_MISS,None,9:27,2,Magic,Hawks,35 - 39,0,26,3,Jumper
+22,Mo Bamba,OFFENSIVE_REBOUND,None,9:22,2,Magic,Hawks,35 - 39,0,N/A,N/A,N/A
+23,Mo Bamba,TURNOVER,DeAndre' Bembry,9:22,2,Magic,Hawks,35 - 39,0,N/A,N/A,N/A
+24,Taurean Prince,FG_MISS,None,9:13,2,Hawks,Magic,35 - 39,1,27,2,Jumper
+25,Jarell Martin,DEFENSIVE_REBOUND,None,9:10,2,Magic,Hawks,35 - 39,0,N/A,N/A,N/A
+26,Jarell Martin,FG_MISS,None,8:59,2,Magic,Hawks,35 - 39,0,0,2,Layup
+27,Taurean Prince,DEFENSIVE_REBOUND,None,8:56,2,Hawks,Magic,35 - 39,1,N/A,N/A,N/A
+28,Trae Young,TURNOVER,Mo Bamba,8:53,2,Hawks,Magic,35 - 39,1,N/A,N/A,N/A
+29,Evan Fournier,FG_UNASSISTED,None,8:39,2,Magic,Hawks,37 - 39,0,0,2,Layup
+30,DeAndre' Bembry,FOUL_ON_FLOOR,None,8:39,2,Hawks,Magic,37 - 39,1,N/A,N/A,N/A
+31,Jeremy Lin,SUBSTITUTION,Prince Taurean,8:39,2,Hawks,Magic,37 - 39,1,N/A,N/A,N/A
+32,Evan Fournier,FT,None,8:39,2,Magic,Hawks,38 - 39,0,N/A,1,N/A
+33,Trae Young,FG_UNASSISTED,None,8:27,2,Hawks,Magic,38 - 41,1,18,2,Jumper
+34,Evan Fournier,TURNOVER,None,8:14,2,Magic,Hawks,38 - 41,0,N/A,N/A,N/A
+35,John Collins,FG_ASSISTED,Trae Young,8:05,2,Hawks,Magic,38 - 44,1,23,3,Jumper
+36,Mo Bamba,FG_ASSISTED,Terrence Ross,7:49,2,Magic,Hawks,40 - 44,0,0,2,Layup
+37,Trae Young,TURNOVER,None,7:38,2,Hawks,Magic,40 - 44,1,N/A,N/A,N/A
+38,Jonathon Simmons,SUBSTITUTION,Fournier Evan,7:38,2,Magic,Hawks,40 - 44,0,N/A,N/A,N/A
+39,Terrence Ross,FG_UNASSISTED,None,7:25,2,Magic,Hawks,42 - 44,0,8,2,Jumper
+40,Jeremy Lin,FG_MISS,None,7:16,2,Hawks,Magic,42 - 44,1,24,3,Jumper
+41,DeAndre' Bembry,OFFENSIVE_REBOUND,None,7:15,2,Hawks,Magic,42 - 44,1,N/A,N/A,N/A
+42,DeAndre' Bembry,FG_MISS,None,7:15,2,Hawks,Magic,42 - 44,1,0,2,Dunk
+43,Dewayne Dedmon,OFFENSIVE_REBOUND,None,7:14,2,Hawks,Magic,42 - 44,1,N/A,N/A,N/A
+44,Dewayne Dedmon,FG_MISS,Jonathon Simmons,7:14,2,Magic,Hawks,42 - 44,1,16,2,Jumper
+45,Jonathon Simmons,DEFENSIVE_REBOUND,None,7:14,2,Magic,Hawks,42 - 44,0,N/A,N/A,N/A
+46,Trae Young,FOUL_ON_FLOOR,None,7:12,2,Hawks,Magic,42 - 44,1,N/A,N/A,N/A
+47,Jarell Martin,FG_ASSISTED,Isaiah Briscoe,6:55,2,Magic,Hawks,45 - 44,0,23,3,Jumper
+48,Trae Young,FG_MISS,None,6:41,2,Hawks,Magic,45 - 44,1, ,2,Jumper
+49,Mo Bamba,DEFENSIVE_REBOUND,None,6:38,2,Magic,Hawks,45 - 44,0,N/A,N/A,N/A
+50,Terrence Ross,FG_UNASSISTED,None,6:28,2,Magic,Hawks,48 - 44,0,26,2,Jumper
+51,Team,Unknown,None,6:27,2,Hawks,Magic,48 - 44,1,N/A,N/A,N/A
+52,Daniel Hamilton,SUBSTITUTION,Young Trae,6:27,2,Hawks,Magic,48 - 44,1,N/A,N/A,N/A
+53,Alex Len,SUBSTITUTION,Dedmon Dewayne,6:27,2,Hawks,Magic,48 - 44,1,N/A,N/A,N/A
+54,Taurean Prince,SUBSTITUTION,Bembry DeAndre',6:27,2,Hawks,Magic,48 - 44,1,N/A,N/A,N/A
+55,Jonathan Isaac,SUBSTITUTION,Martin Jarell,6:27,2,Magic,Hawks,48 - 44,0,N/A,N/A,N/A
+56,Nikola Vucevic,SUBSTITUTION,Bamba Mo,6:27,2,Magic,Hawks,48 - 44,0,N/A,N/A,N/A
+57,D.J. Augustin,SUBSTITUTION,Briscoe Isaiah,6:27,2,Magic,Hawks,48 - 44,0,N/A,N/A,N/A
+58,Alex Len,FG_MISS,None,6:12,2,Hawks,Magic,48 - 44,1,23,3,Jumper
+59,Terrence Ross,DEFENSIVE_REBOUND,None,6:08,2,Magic,Hawks,48 - 44,0,N/A,N/A,N/A
+60,Jonathon Simmons,FG_MISS,Alex Len,5:55,2,Hawks,Magic,48 - 44,0,23,2,Jumper
+61,Daniel Hamilton,DEFENSIVE_REBOUND,None,5:52,2,Hawks,Magic,48 - 44,1,N/A,N/A,N/A
+62,Jonathon Simmons,FOUL_ON_FLOOR,None,5:52,2,Magic,Hawks,48 - 44,0,N/A,N/A,N/A
+63,Alex Len,FG_MISS,None,5:38,2,Hawks,Magic,48 - 44,1, ,2,Jumper
+64,Terrence Ross,DEFENSIVE_REBOUND,None,5:33,2,Magic,Hawks,48 - 44,0,N/A,N/A,N/A
+65,Jonathon Simmons,FG_ASSISTED,Nikola Vucevic,5:19,2,Magic,Hawks,50 - 44,0,0,2,Dunk
+66,John Collins,FG_MISS,None,5:07,2,Hawks,Magic,50 - 44,1,26,3,Jumper
+67,Nikola Vucevic,DEFENSIVE_REBOUND,None,5:04,2,Magic,Hawks,50 - 44,0,N/A,N/A,N/A
+68,D.J. Augustin,FG_MISS,None,4:48,2,Magic,Hawks,50 - 44,0,25,3,Jumper
+69,Alex Len,DEFENSIVE_REBOUND,None,4:45,2,Hawks,Magic,50 - 44,1,N/A,N/A,N/A
+70,Jonathon Simmons,FOUL_ON_FLOOR,None,4:32,2,Magic,Hawks,50 - 44,0,N/A,N/A,N/A
+71,John Collins,FT,None,4:32,2,Hawks,Magic,50 - 45,1,N/A,1,N/A
+72,Omari Spellman,SUBSTITUTION,Len Alex,4:32,2,Hawks,Magic,50 - 45,1,N/A,N/A,N/A
+73,John Collins,FT,None,4:32,2,Hawks,Magic,50 - 46,1,N/A,1,N/A
+74,Terrence Ross,FG_MISS,None,4:16,2,Magic,Hawks,50 - 46,0,25,3,Jumper
+75,Daniel Hamilton,DEFENSIVE_REBOUND,None,4:13,2,Hawks,Magic,50 - 46,1,N/A,N/A,N/A
+76,Taurean Prince,FG_MISS,None,4:10,2,Hawks,Magic,50 - 46,1,26,3,Jumper
+77,Nikola Vucevic,DEFENSIVE_REBOUND,None,4:07,2,Magic,Hawks,50 - 46,0,N/A,N/A,N/A
+78,D.J. Augustin,FG_MISS,None,3:55,2,Magic,Hawks,50 - 46,0,26,3,Jumper
+79,Daniel Hamilton,DEFENSIVE_REBOUND,None,3:51,2,Hawks,Magic,50 - 46,1,N/A,N/A,N/A
+80,Omari Spellman,TURNOVER,Terrence Ross,3:42,2,Hawks,Magic,50 - 46,1,N/A,N/A,N/A
+81,Terrence Ross,TURNOVER,Daniel Hamilton,3:38,2,Magic,Hawks,50 - 46,0,N/A,N/A,N/A
+82,Taurean Prince,FG_MISS,None,3:34,2,Hawks,Magic,50 - 46,1,24,3,Jumper
+83,Jonathan Isaac,DEFENSIVE_REBOUND,None,3:32,2,Magic,Hawks,50 - 46,0,N/A,N/A,N/A
+84,Jonathon Simmons,FG_UNASSISTED,None,3:22,2,Magic,Hawks,52 - 46,0,7,2,Jumper
+85,Omari Spellman,Unknown,None,3:22,2,Hawks,Magic,52 - 46,1,N/A,N/A,N/A
+86,Jeremy Lin,FOUL_ON_FLOOR,None,3:22,2,Hawks,Magic,52 - 46,1,N/A,N/A,N/A
+87,Evan Fournier,SUBSTITUTION,Ross Terrence,3:22,2,Magic,Hawks,52 - 46,0,N/A,N/A,N/A
+88,Jonathon Simmons,FT,None,3:22,2,Magic,Hawks,53 - 46,0,N/A,1,N/A
+89,John Collins,FG_ASSISTED,Jeremy Lin,3:07,2,Hawks,Magic,53 - 48,1,12,2,Jumper
+90,D.J. Augustin,TURNOVER,None,2:49,2,Magic,Hawks,53 - 48,0,N/A,N/A,N/A
+91,DeAndre' Bembry,SUBSTITUTION,for game,2:49,2,Hawks,Magic,53 - 48,1,N/A,N/A,N/A
+92,enters the,SUBSTITUTION,Prince Taurean,2:49,2,Hawks,Magic,53 - 48,1,N/A,N/A,N/A
+93,Omari Spellman,FG_MISS,None,2:33,2,Hawks,Magic,53 - 48,1,26,3,Jumper
+94,John Collins,OFFENSIVE_REBOUND,None,2:30,2,Hawks,Magic,53 - 48,1,N/A,N/A,N/A
+95,Daniel Hamilton,FG_ASSISTED,Jeremy Lin,2:18,2,Hawks,Magic,53 - 50,1,0,2,Layup
+96,Evan Fournier,FG_MISS,None,1:58,2,Magic,Hawks,53 - 50,0,26,3,Jumper
+97,John Collins,DEFENSIVE_REBOUND,None,1:56,2,Hawks,Magic,53 - 50,1,N/A,N/A,N/A
+98,Jeremy Lin,FG_UNASSISTED,None,1:46,2,Hawks,Magic,53 - 52,1,14,2,Jumper
+99,Nikola Vucevic's,FG_MISS,DeAndre' Bembry,1:30,2,Hawks,Magic,53 - 52,0,0,2,Layup
+100,Nikola Vucevic,OFFENSIVE_REBOUND,None,1:24,2,Magic,Hawks,53 - 52,0,N/A,N/A,N/A
+101,Nikola Vucevic,FG_UNASSISTED,None,1:24,2,Magic,Hawks,55 - 52,0, ,2,Jumper
+102,John Collins,FG_MISS,None,1:12,2,Hawks,Magic,55 - 52,1,0,2,Layup
+103,Jonathan Isaac,DEFENSIVE_REBOUND,None,1:09,2,Magic,Hawks,55 - 52,0,N/A,N/A,N/A
+104,Nikola Vucevic,FG_MISS,None,1:00,2,Magic,Hawks,55 - 52,0,25,3,Jumper
+105,Jonathon Simmons,OFFENSIVE_REBOUND,None,57.0,2,Magic,Hawks,55 - 52,0,N/A,N/A,N/A
+106,D.J. Augustin,FG_ASSISTED,Jonathan Isaac,52.5,2,Magic,Hawks,58 - 52,0,23,3,Jumper
+107,Jeremy Lin,FG_UNASSISTED,None,37.4,2,Hawks,Magic,58 - 54,1,11,2,Jumper
+108,Jonathan Isaac,FG_ASSISTED,D.J. Augustin,25.4,2,Magic,Hawks,60 - 54,0,18,2,Jumper
+109,D.J. Augustin,FOUL_ON_FLOOR,None,8.2,2,Magic,Hawks,60 - 54,0,N/A,N/A,N/A
+110,Jeremy Lin,FG_UNASSISTED,None,4.4,2,Hawks,Magic,60 - 57,1,25,3,Jumper
+111,DeAndre' Bembry,FOUL_ON_FLOOR,None,1.8,2,Hawks,Magic,60 - 57,1,N/A,N/A,N/A
+112,End of,Unknown,None,0.0,2,Hawks,Magic,60 - 57,1,N/A,N/A,N/A
+0,Taurean Prince,SUBSTITUTION,Hamilton Daniel,12:00,3,Hawks,Magic,60 - 57,1,N/A,N/A,N/A
+1,Dewayne Dedmon,SUBSTITUTION,Spellman Omari,12:00,3,Hawks,Magic,60 - 57,1,N/A,N/A,N/A
+2,Trae Young,SUBSTITUTION,Lin Jeremy,12:00,3,Hawks,Magic,60 - 57,1,N/A,N/A,N/A
+3,Jonathan Isaac,FG_ASSISTED,Evan Fournier,11:46,3,Magic,Hawks,62 - 57,0,0,2,Layup
+4,Taurean Prince,FG_MISS,None,11:28,3,Hawks,Magic,62 - 57,1,23,3,Jumper
+5,Jonathan Isaac,DEFENSIVE_REBOUND,None,11:25,3,Magic,Hawks,62 - 57,0,N/A,N/A,N/A
+6,Jonathan Isaac,FG_ASSISTED,D.J. Augustin,11:18,3,Magic,Hawks,64 - 57,0,0,2,Layup
+7,Trae Young,FG_UNASSISTED,None,11:06,3,Hawks,Magic,64 - 59,1,18,2,Jumper
+8,Nikola Vucevic,FG_MISS,None,10:53,3,Magic,Hawks,64 - 59,0,22,2,Jumper
+9,Dewayne Dedmon,DEFENSIVE_REBOUND,None,10:50,3,Hawks,Magic,64 - 59,1,N/A,N/A,N/A
+10,Trae Young,FG_MISS,None,10:48,3,Hawks,Magic,64 - 59,1, ,2,Jumper
+11,Evan Fournier,DEFENSIVE_REBOUND,None,10:44,3,Magic,Hawks,64 - 59,0,N/A,N/A,N/A
+12,Evan Fournier,FG_UNASSISTED,None,10:38,3,Magic,Hawks,66 - 59,0,20,2,Jumper
+13,Evan Fournier,FOUL_ON_FLOOR,None,10:17,3,Magic,Hawks,66 - 59,0,N/A,N/A,N/A
+14,D.J. Augustin,FOUL_ON_FLOOR,None,10:13,3,Magic,Hawks,66 - 59,0,N/A,N/A,N/A
+15,John Collins,FG_MISS,None,10:07,3,Hawks,Magic,66 - 59,1,23,3,Jumper
+16,Dewayne Dedmon,OFFENSIVE_REBOUND,None,10:03,3,Hawks,Magic,66 - 59,1,N/A,N/A,N/A
+17,Dewayne Dedmon,FG_MISS,Nikola Vucevic,10:02,3,Magic,Hawks,66 - 59,1,2,2,Jumper
+18,Jonathon Simmons,DEFENSIVE_REBOUND,None,10:02,3,Magic,Hawks,66 - 59,0,N/A,N/A,N/A
+19,Evan Fournier,TURNOVER,DeAndre' Bembry,9:56,3,Magic,Hawks,66 - 59,0,N/A,N/A,N/A
+20,DeAndre' Bembry,FG_UNASSISTED,None,9:53,3,Hawks,Magic,66 - 61,1,0,2,Dunk
+21,Nikola Vucevic,FG_UNASSISTED,None,9:35,3,Magic,Hawks,68 - 61,0,12,2,Jumper
+22,John Collins,TURNOVER,Jonathon Simmons,9:21,3,Hawks,Magic,68 - 61,1,N/A,N/A,N/A
+23,Evan Fournier,FG_ASSISTED,Jonathon Simmons,9:14,3,Magic,Hawks,70 - 61,0,7,2,Jumper
+24,Trae Young,FOUL_ON_FLOOR,None,9:14,3,Hawks,Magic,70 - 61,1,N/A,N/A,N/A
+25,Evan Fournier,FT,None,9:14,3,Magic,Hawks,71 - 61,0,N/A,1,N/A
+26,Jonathan Isaac,FOUL_ON_FLOOR,None,8:57,3,Magic,Hawks,71 - 61,0,N/A,N/A,N/A
+27,Jeremy Lin,SUBSTITUTION,Prince Taurean,8:57,3,Hawks,Magic,71 - 61,1,N/A,N/A,N/A
+28,Trae Young,FG_ASSISTED,DeAndre' Bembry,8:54,3,Hawks,Magic,71 - 63,1,17,2,Jumper
+29,Nikola Vucevic,FG_ASSISTED,Evan Fournier,8:42,3,Magic,Hawks,73 - 63,0,0,2,Layup
+30,Jeremy Lin,FOUL_ON_FLOOR,None,8:42,3,Hawks,Magic,73 - 63,1,N/A,N/A,N/A
+31,Daniel Hamilton,SUBSTITUTION,Young Trae,8:42,3,Hawks,Magic,73 - 63,1,N/A,N/A,N/A
+32,Nikola Vucevic,FT,None,8:42,3,Magic,Hawks,74 - 63,0,N/A,1,N/A
+33,John Collins,FG_MISS,None,8:33,3,Hawks,Magic,74 - 63,1,0,2,Layup
+34,Nikola Vucevic,DEFENSIVE_REBOUND,None,8:32,3,Magic,Hawks,74 - 63,0,N/A,N/A,N/A
+35,Jeremy Lin,FOUL_ON_FLOOR,None,8:24,3,Hawks,Magic,74 - 63,1,N/A,N/A,N/A
+36,D.J. Augustin,FG_MISS,None,8:17,3,Magic,Hawks,74 - 63,0,19,2,Jumper
+37,John Collins,DEFENSIVE_REBOUND,None,8:17,3,Hawks,Magic,74 - 63,1,N/A,N/A,N/A
+38,John Collins,FG_MISS,Jonathan Isaac,8:07,3,Magic,Hawks,74 - 63,1,0,2,Layup
+39,Jonathan Isaac,JUMP_BALL,None,8:04,3,Hawks,Magic,74 - 63,1,N/A,N/A,N/A
+40,Team,OFFENSIVE_REBOUND,None,8:04,3,Hawks,Magic,74 - 63,1,N/A,N/A,N/A
+41,DeAndre' Bembry,FG_UNASSISTED,None,8:01,3,Hawks,Magic,74 - 65,1,0,2,Layup
+42,Nikola Vucevic,FG_MISS,None,7:39,3,Magic,Hawks,74 - 65,0,10,2,Jumper
+43,John Collins,DEFENSIVE_REBOUND,None,7:35,3,Hawks,Magic,74 - 65,1,N/A,N/A,N/A
+44,Dewayne Dedmon,FG_ASSISTED,DeAndre' Bembry,7:21,3,Hawks,Magic,74 - 68,1,23,3,Jumper
+45,Team,Unknown,None,7:18,3,Magic,Hawks,74 - 68,0,N/A,N/A,N/A
+46,Omari Spellman,SUBSTITUTION,Collins John,7:18,3,Hawks,Magic,74 - 68,1,N/A,N/A,N/A
+47,Taurean Prince,SUBSTITUTION,Bembry DeAndre',7:18,3,Hawks,Magic,74 - 68,1,N/A,N/A,N/A
+48,Jonathan Isaac,FG_MISS,None,6:59,3,Magic,Hawks,74 - 68,0,23,3,Jumper
+49,Daniel Hamilton,DEFENSIVE_REBOUND,None,6:57,3,Hawks,Magic,74 - 68,1,N/A,N/A,N/A
+50,Dewayne Dedmon,FG_ASSISTED,Daniel Hamilton,6:53,3,Hawks,Magic,74 - 71,1,26,3,Jumper
+51,Jonathon Simmons,FG_MISS,None,6:33,3,Magic,Hawks,74 - 71,0,25,3,Jumper
+52,Dewayne Dedmon,DEFENSIVE_REBOUND,None,6:29,3,Hawks,Magic,74 - 71,1,N/A,N/A,N/A
+53,Dewayne Dedmon,FG_MISS,None,6:23,3,Hawks,Magic,74 - 71,1, ,2,Jumper
+54,Jonathan Isaac,DEFENSIVE_REBOUND,None,6:21,3,Magic,Hawks,74 - 71,0,N/A,N/A,N/A
+55,Evan Fournier,FG_UNASSISTED,None,6:05,3,Magic,Hawks,77 - 71,0,26,2,Jumper
+56,Jeremy Lin,FG_MISS,None,5:40,3,Hawks,Magic,77 - 71,1,13,2,Jumper
+57,Team,DEFENSIVE_REBOUND,None,5:39,3,Magic,Hawks,77 - 71,0,N/A,N/A,N/A
+58,Wesley Iwundu,SUBSTITUTION,Simmons Jonathon,5:39,3,Magic,Hawks,77 - 71,0,N/A,N/A,N/A
+59,Nikola Vucevic,FG_ASSISTED,Evan Fournier,5:26,3,Magic,Hawks,80 - 71,0,26,3,Jumper
+60,Isaiah Briscoe,SUBSTITUTION,Augustin D.J.,5:05,3,Magic,Hawks,80 - 71,0,N/A,N/A,N/A
+61,Daniel Hamilton,FG_MISS,None,4:56,3,Hawks,Magic,80 - 71,1, ,2,Jumper
+62,Team,OFFENSIVE_REBOUND,None,4:56,3,Hawks,Magic,80 - 71,1,N/A,N/A,N/A
+63,shot clock,TURNOVER,None,4:56,3,Hawks,Magic,80 - 71,1,N/A,N/A,N/A
+64,Dewayne Dedmon,FOUL_ON_FLOOR,None,4:48,3,Hawks,Magic,80 - 71,1,N/A,N/A,N/A
+65,Alex Len,SUBSTITUTION,Hamilton Daniel,4:48,3,Hawks,Magic,80 - 71,1,N/A,N/A,N/A
+66,DeAndre' Bembry,SUBSTITUTION,Dedmon Dewayne,4:48,3,Hawks,Magic,80 - 71,1,N/A,N/A,N/A
+67,Evan Fournier,FG_MISS,None,4:42,3,Magic,Hawks,80 - 71,0,15,2,Jumper
+68,Jeremy Lin,DEFENSIVE_REBOUND,None,4:37,3,Hawks,Magic,80 - 71,1,N/A,N/A,N/A
+69,Taurean Prince,FG_ASSISTED,DeAndre' Bembry,4:23,3,Hawks,Magic,80 - 74,1,25,3,Jumper
+70,Evan Fournier,FG_ASSISTED,Isaiah Briscoe,3:58,3,Magic,Hawks,83 - 74,0,26,3,Jumper
+71,Jeremy Lin,FG_MISS,None,3:45,3,Hawks,Magic,83 - 74,1,25,3,Jumper
+72,Evan Fournier,DEFENSIVE_REBOUND,None,3:43,3,Magic,Hawks,83 - 74,0,N/A,N/A,N/A
+73,Nikola Vucevic,FG_ASSISTED,Evan Fournier,3:36,3,Magic,Hawks,85 - 74,0,11,2,Jumper
+74,DeAndre' Bembry,FG_UNASSISTED,None,3:22,3,Hawks,Magic,85 - 76,1, ,2,Jumper
+75,Isaiah Briscoe,FG_ASSISTED,Nikola Vucevic,3:01,3,Magic,Hawks,87 - 76,0,0,2,Layup
+76,Taurean Prince,FOUL_ON_FLOOR,None,3:01,3,Hawks,Magic,87 - 76,1,N/A,N/A,N/A
+77,Jarell Martin,SUBSTITUTION,Isaac Jonathan,3:01,3,Magic,Hawks,87 - 76,0,N/A,N/A,N/A
+78,Terrence Ross,SUBSTITUTION,Fournier Evan,3:01,3,Magic,Hawks,87 - 76,0,N/A,N/A,N/A
+79,Isaiah Briscoe,FT_MISS,None,3:01,3,Magic,Hawks,87 - 76,0,N/A,1,N/A
+80,Omari Spellman,DEFENSIVE_REBOUND,None,2:58,3,Hawks,Magic,87 - 76,1,N/A,N/A,N/A
+81,Isaiah Briscoe,FOUL_ON_FLOOR,None,2:47,3,Magic,Hawks,87 - 76,0,N/A,N/A,N/A
+82,Team,Unknown,None,2:47,3,Hawks,Magic,87 - 76,1,N/A,N/A,N/A
+83,John Collins,SUBSTITUTION,Spellman Omari,2:47,3,Hawks,Magic,87 - 76,1,N/A,N/A,N/A
+84,Jarell Martin,FOUL_ON_FLOOR,None,2:40,3,Magic,Hawks,87 - 76,0,N/A,N/A,N/A
+85,John Collins,FT_MISS,None,2:40,3,Hawks,Magic,87 - 76,1,N/A,1,N/A
+86,Team,OFFENSIVE_REBOUND,None,2:40,3,Hawks,Magic,87 - 76,1,N/A,N/A,N/A
+87,Mo Bamba,SUBSTITUTION,Vucevic Nikola,2:40,3,Magic,Hawks,87 - 76,0,N/A,N/A,N/A
+88,John Collins,FT,None,2:40,3,Hawks,Magic,87 - 77,1,N/A,1,N/A
+89,Terrence Ross,TURNOVER,DeAndre' Bembry,2:26,3,Magic,Hawks,87 - 77,0,N/A,N/A,N/A
+90,DeAndre' Bembry,TURNOVER,None,2:21,3,Hawks,Magic,87 - 77,1,N/A,N/A,N/A
+91,Isaiah Briscoe,FG_MISS,None,2:08,3,Magic,Hawks,87 - 77,0,19,2,Jumper
+92,John Collins,DEFENSIVE_REBOUND,None,2:04,3,Hawks,Magic,87 - 77,1,N/A,N/A,N/A
+93,John Collins,TURNOVER,Wesley Iwundu,1:44,3,Hawks,Magic,87 - 77,1,N/A,N/A,N/A
+94,Jarell Martin,TURNOVER,None,1:42,3,Magic,Hawks,87 - 77,0,N/A,N/A,N/A
+95,Trae Young,SUBSTITUTION,Prince Taurean,1:42,3,Hawks,Magic,87 - 77,1,N/A,N/A,N/A
+96,Vince Carter,SUBSTITUTION,Len Alex,1:42,3,Hawks,Magic,87 - 77,1,N/A,N/A,N/A
+97,Wesley Iwundu,FOUL_ON_FLOOR,None,1:31,3,Magic,Hawks,87 - 77,0,N/A,N/A,N/A
+98,Jeremy Lin,FT_MISS,None,1:31,3,Hawks,Magic,87 - 77,1,N/A,1,N/A
+99,Team,OFFENSIVE_REBOUND,None,1:31,3,Hawks,Magic,87 - 77,1,N/A,N/A,N/A
+100,Jeremy Lin,FT,None,1:31,3,Hawks,Magic,87 - 78,1,N/A,1,N/A
+101,Jarell Martin,FG_ASSISTED,Wesley Iwundu,1:08,3,Magic,Hawks,89 - 78,0,17,2,Jumper
+102,DeAndre' Bembry,FG_MISS,None,54.4,3,Hawks,Magic,89 - 78,1,25,3,Jumper
+103,Wesley Iwundu,DEFENSIVE_REBOUND,None,51.7,3,Magic,Hawks,89 - 78,0,N/A,N/A,N/A
+104,Jarell Martin's,FG_MISS,DeAndre' Bembry,45.5,3,Hawks,Magic,89 - 78,0, ,3,Jumper
+105,Team,OFFENSIVE_REBOUND,None,44.2,3,Magic,Hawks,89 - 78,0,N/A,N/A,N/A
+106,Terrence Ross,FG_UNASSISTED,None,29.4,3,Magic,Hawks,91 - 78,0,20,2,Jumper
+107,John Collins,FG_MISS,None,5.0,3,Hawks,Magic,91 - 78,1,0,2,Layup
+108,Wesley Iwundu,DEFENSIVE_REBOUND,None,2.7,3,Magic,Hawks,91 - 78,0,N/A,N/A,N/A
+109,End of,Unknown,None,0.0,3,Hawks,Magic,91 - 78,1,N/A,N/A,N/A
+0,Tyler Dorsey,SUBSTITUTION,Lin Jeremy,12:00,4,Hawks,Magic,91 - 78,1,N/A,N/A,N/A
+1,Dewayne Dedmon,SUBSTITUTION,Collins John,12:00,4,Hawks,Magic,91 - 78,1,N/A,N/A,N/A
+2,Trae Young,FG_MISS,None,11:45,4,Hawks,Magic,91 - 78,1,26,3,Jumper
+3,Vince Carter,OFFENSIVE_REBOUND,None,11:39,4,Hawks,Magic,91 - 78,1,N/A,N/A,N/A
+4,Vince Carter,FG_MISS,None,11:39,4,Hawks,Magic,91 - 78,1, ,2,Jumper
+5,Wesley Iwundu,DEFENSIVE_REBOUND,None,11:38,4,Magic,Hawks,91 - 78,0,N/A,N/A,N/A
+6,DeAndre' Bembry,FOUL_ON_FLOOR,None,11:30,4,Hawks,Magic,91 - 78,1,N/A,N/A,N/A
+7,Terrence Ross,FG_MISS,None,11:21,4,Magic,Hawks,91 - 78,0,17,2,Jumper
+8,Trae Young,DEFENSIVE_REBOUND,None,11:17,4,Hawks,Magic,91 - 78,1,N/A,N/A,N/A
+9,Trae Young,FG_ASSISTED,DeAndre' Bembry,11:07,4,Hawks,Magic,91 - 80,1,0,2,Layup
+10,Mo Bamba,FOUL_ON_FLOOR,None,10:55,4,Magic,Hawks,91 - 80,0,N/A,N/A,N/A
+11,Mo Bamba,TURNOVER,None,10:55,4,Magic,Hawks,91 - 80,0,N/A,N/A,N/A
+12,Evan Fournier,SUBSTITUTION,Iwundu Wesley,10:55,4,Magic,Hawks,91 - 80,0,N/A,N/A,N/A
+13,Vince Carter,FG_MISS,None,10:47,4,Hawks,Magic,91 - 80,1, ,3,Jumper
+14,Dewayne Dedmon,OFFENSIVE_REBOUND,None,10:46,4,Hawks,Magic,91 - 80,1,N/A,N/A,N/A
+15,Evan Fournier,FOUL_ON_FLOOR,None,10:46,4,Magic,Hawks,91 - 80,0,N/A,N/A,N/A
+16,Dewayne Dedmon,FT,None,10:46,4,Hawks,Magic,91 - 81,1,N/A,1,N/A
+17,Dewayne Dedmon,FT,None,10:46,4,Hawks,Magic,91 - 82,1,N/A,1,N/A
+18,Isaiah Briscoe,FG_MISS,None,10:28,4,Magic,Hawks,91 - 82,0,0,2,Layup
+19,Tyler Dorsey,DEFENSIVE_REBOUND,None,10:26,4,Hawks,Magic,91 - 82,1,N/A,N/A,N/A
+20,Dewayne Dedmon,TURNOVER,None,10:16,4,Hawks,Magic,91 - 82,1,N/A,N/A,N/A
+21,Mo Bamba,FG_ASSISTED,Terrence Ross,10:00,4,Magic,Hawks,93 - 82,0,14,2,Jumper
+22,Isaiah Briscoe,FOUL_ON_FLOOR,None,9:47,4,Magic,Hawks,93 - 82,0,N/A,N/A,N/A
+23,Dewayne Dedmon,FG_ASSISTED,Vince Carter,9:44,4,Hawks,Magic,93 - 84,1,0,2,Layup
+24,Evan Fournier,FOUL_ON_FLOOR,None,9:44,4,Magic,Hawks,93 - 84,0,N/A,N/A,N/A
+25,Dewayne Dedmon,FT,None,9:44,4,Hawks,Magic,93 - 85,1,N/A,1,N/A
+26,Terrence Ross,FG_MISS,None,9:27,4,Magic,Hawks,93 - 85,0,25,3,Jumper
+27,Tyler Dorsey,DEFENSIVE_REBOUND,None,9:24,4,Hawks,Magic,93 - 85,1,N/A,N/A,N/A
+28,Dewayne Dedmon,FG_MISS,None,9:18,4,Hawks,Magic,93 - 85,1,26,3,Jumper
+29,Isaiah Briscoe,DEFENSIVE_REBOUND,None,9:14,4,Magic,Hawks,93 - 85,0,N/A,N/A,N/A
+30,Evan Fournier,FG_ASSISTED,Terrence Ross,9:03,4,Magic,Hawks,96 - 85,0,23,3,Jumper
+31,Dewayne Dedmon,FG_ASSISTED,Trae Young,8:48,4,Hawks,Magic,96 - 87,1,0,2,Layup
+32,Vince Carter,FOUL_TECHNICAL,None,8:34,4,Hawks,Magic,96 - 87,1,N/A,N/A,N/A
+33,John Collins,SUBSTITUTION,Carter Vince,8:34,4,Hawks,Magic,96 - 87,1,N/A,N/A,N/A
+34,Evan Fournier,FT,None,8:34,4,Magic,Hawks,97 - 87,0,N/A,1,N/A
+35,Nikola Vucevic,SUBSTITUTION,Bamba Mo,8:29,4,Magic,Hawks,97 - 87,0,N/A,N/A,N/A
+36,Nikola Vucevic,FG_MISS,None,8:24,4,Magic,Hawks,97 - 87,0,16,2,Jumper
+37,Dewayne Dedmon,DEFENSIVE_REBOUND,None,8:20,4,Hawks,Magic,97 - 87,1,N/A,N/A,N/A
+38,Trae Young,FG_UNASSISTED,None,8:14,4,Hawks,Magic,97 - 89,1,6,2,Jumper
+39,Evan Fournier,FG_MISS,None,8:00,4,Magic,Hawks,97 - 89,0,24,3,Jumper
+40,Team,OFFENSIVE_REBOUND,None,7:59,4,Magic,Hawks,97 - 89,0,N/A,N/A,N/A
+41,DeAndre' Bembry,FOUL_ON_FLOOR,None,7:59,4,Hawks,Magic,97 - 89,1,N/A,N/A,N/A
+42,Taurean Prince,SUBSTITUTION,Bembry DeAndre',7:59,4,Hawks,Magic,97 - 89,1,N/A,N/A,N/A
+43,Evan Fournier,FG_MISS,None,7:47,4,Magic,Hawks,97 - 89,0,26,3,Jumper
+44,Trae Young,DEFENSIVE_REBOUND,None,7:43,4,Hawks,Magic,97 - 89,1,N/A,N/A,N/A
+45,Taurean Prince,FG_MISS,None,7:33,4,Hawks,Magic,97 - 89,1,0,2,Layup
+46,Terrence Ross,DEFENSIVE_REBOUND,None,7:31,4,Magic,Hawks,97 - 89,0,N/A,N/A,N/A
+47,John Collins,FOUL_ON_FLOOR,None,7:21,4,Hawks,Magic,97 - 89,1,N/A,N/A,N/A
+48,Nikola Vucevic,FT,None,7:21,4,Magic,Hawks,98 - 89,0,N/A,1,N/A
+49,Jonathan Isaac,SUBSTITUTION,Martin Jarell,7:21,4,Magic,Hawks,98 - 89,0,N/A,N/A,N/A
+50,D.J. Augustin,SUBSTITUTION,Briscoe Isaiah,7:21,4,Magic,Hawks,98 - 89,0,N/A,N/A,N/A
+51,Alex Len,SUBSTITUTION,Dedmon Dewayne,7:21,4,Hawks,Magic,98 - 89,1,N/A,N/A,N/A
+52,Nikola Vucevic,FT,None,7:21,4,Magic,Hawks,99 - 89,0,N/A,1,N/A
+53,Alex Len,FG_MISS,None,7:03,4,Hawks,Magic,99 - 89,1,23,3,Jumper
+54,John Collins,OFFENSIVE_REBOUND,None,7:01,4,Hawks,Magic,99 - 89,1,N/A,N/A,N/A
+55,John Collins,FG_UNASSISTED,None,7:00,4,Hawks,Magic,99 - 91,1, ,2,Jumper
+56,Terrence Ross,FG_ASSISTED,Jonathan Isaac,6:43,4,Magic,Hawks,101 - 91,0,19,2,Jumper
+57,Tyler Dorsey,FG_ASSISTED,John Collins,6:28,4,Hawks,Magic,101 - 94,1,26,3,Jumper
+58,Evan Fournier,FG_UNASSISTED,None,6:07,4,Magic,Hawks,103 - 94,0,0,2,Layup
+59,John Collins,FOUL_ON_FLOOR,None,6:07,4,Hawks,Magic,103 - 94,1,N/A,N/A,N/A
+60,Team,Unknown,None,6:07,4,Hawks,Magic,103 - 94,1,N/A,N/A,N/A
+61,Evan Fournier,FT_MISS,None,6:07,4,Magic,Hawks,103 - 94,0,N/A,1,N/A
+62,Alex Len,DEFENSIVE_REBOUND,None,6:04,4,Hawks,Magic,103 - 94,1,N/A,N/A,N/A
+63,Evan Fournier,FOUL_ON_FLOOR,None,5:55,4,Magic,Hawks,103 - 94,0,N/A,N/A,N/A
+64,Trae Young,FT,None,5:55,4,Hawks,Magic,103 - 95,1,N/A,1,N/A
+65,Jeremy Lin,SUBSTITUTION,Dorsey Tyler,5:55,4,Hawks,Magic,103 - 95,1,N/A,N/A,N/A
+66,Trae Young,FT_MISS,None,5:55,4,Hawks,Magic,103 - 95,1,N/A,1,N/A
+67,Jonathan Isaac,DEFENSIVE_REBOUND,None,5:52,4,Magic,Hawks,103 - 95,0,N/A,N/A,N/A
+68,Evan Fournier,FG_MISS,None,5:40,4,Magic,Hawks,103 - 95,0,20,2,Jumper
+69,John Collins,DEFENSIVE_REBOUND,None,5:38,4,Hawks,Magic,103 - 95,1,N/A,N/A,N/A
+70,Alex Len's,FG_MISS,Nikola Vucevic,5:32,4,Magic,Hawks,103 - 95,1,0,2,Dunk
+71,Nikola Vucevic,DEFENSIVE_REBOUND,None,5:32,4,Magic,Hawks,103 - 95,0,N/A,N/A,N/A
+72,D.J. Augustin,FG_ASSISTED,Terrence Ross,5:18,4,Magic,Hawks,106 - 95,0,24,3,Jumper
+73,Alex Len,FG_MISS,None,4:59,4,Hawks,Magic,106 - 95,1,23,3,Jumper
+74,John Collins,OFFENSIVE_REBOUND,None,4:58,4,Hawks,Magic,106 - 95,1,N/A,N/A,N/A
+75,Evan Fournier,FOUL_ON_FLOOR,None,4:58,4,Magic,Hawks,106 - 95,0,N/A,N/A,N/A
+76,John Collins,FT_MISS,None,4:58,4,Hawks,Magic,106 - 95,1,N/A,1,N/A
+77,Team,OFFENSIVE_REBOUND,None,4:58,4,Hawks,Magic,106 - 95,1,N/A,N/A,N/A
+78,Dewayne Dedmon,SUBSTITUTION,Len Alex,4:58,4,Hawks,Magic,106 - 95,1,N/A,N/A,N/A
+79,John Collins,FT_MISS,None,4:58,4,Hawks,Magic,106 - 95,1,N/A,1,N/A
+80,Terrence Ross,DEFENSIVE_REBOUND,None,4:55,4,Magic,Hawks,106 - 95,0,N/A,N/A,N/A
+81,Nikola Vucevic,FG_MISS,None,4:34,4,Magic,Hawks,106 - 95,0,0,2,Layup
+82,Jonathan Isaac,OFFENSIVE_REBOUND,None,4:32,4,Magic,Hawks,106 - 95,0,N/A,N/A,N/A
+83,Jonathan Isaac,FG_MISS,None,4:32,4,Magic,Hawks,106 - 95,0,0,2,Dunk
+84,Jonathan Isaac,OFFENSIVE_REBOUND,None,4:31,4,Magic,Hawks,106 - 95,0,N/A,N/A,N/A
+85,Jonathan Isaac,FG_MISS,None,4:30,4,Magic,Hawks,106 - 95,0,2,2,Jumper
+86,Dewayne Dedmon,DEFENSIVE_REBOUND,None,4:29,4,Hawks,Magic,106 - 95,1,N/A,N/A,N/A
+87,Dewayne Dedmon,FG_ASSISTED,Trae Young,4:22,4,Hawks,Magic,106 - 97,1,0,2,Layup
+88,Team,Unknown,None,4:12,4,Magic,Hawks,106 - 97,0,N/A,N/A,N/A
+89,DeAndre' Bembry,SUBSTITUTION,Prince Taurean,4:12,4,Hawks,Magic,106 - 97,1,N/A,N/A,N/A
+90,Nikola Vucevic,FG_ASSISTED,Terrence Ross,4:07,4,Magic,Hawks,108 - 97,0,16,2,Jumper
+91,John Collins,FG_MISS,None,3:44,4,Hawks,Magic,108 - 97,1,5,2,Jumper
+92,Nikola Vucevic,DEFENSIVE_REBOUND,None,3:42,4,Magic,Hawks,108 - 97,0,N/A,N/A,N/A
+93,D.J. Augustin,FG_MISS,None,3:31,4,Magic,Hawks,108 - 97,0,17,2,Jumper
+94,Nikola Vucevic,OFFENSIVE_REBOUND,None,3:26,4,Magic,Hawks,108 - 97,0,N/A,N/A,N/A
+95,Nikola Vucevic,FG_MISS,None,3:26,4,Magic,Hawks,108 - 97,0, ,2,Jumper
+96,Dewayne Dedmon,DEFENSIVE_REBOUND,None,3:25,4,Hawks,Magic,108 - 97,1,N/A,N/A,N/A
+97,Jeremy Lin,TURNOVER,Jonathan Isaac,3:16,4,Hawks,Magic,108 - 97,1,N/A,N/A,N/A
+98,John Collins,FOUL_ON_FLOOR,None,3:16,4,Hawks,Magic,108 - 97,1,N/A,N/A,N/A
+99,Evan Fournier,FT,None,3:16,4,Magic,Hawks,109 - 97,0,N/A,1,N/A
+100,Omari Spellman,SUBSTITUTION,Collins John,3:16,4,Hawks,Magic,109 - 97,1,N/A,N/A,N/A
+101,Evan Fournier,FT,None,3:16,4,Magic,Hawks,110 - 97,0,N/A,1,N/A
+102,Dewayne Dedmon,FG_MISS,Jonathan Isaac,3:04,4,Magic,Hawks,110 - 97,1,0,2,Dunk
+103,Evan Fournier,DEFENSIVE_REBOUND,None,3:02,4,Magic,Hawks,110 - 97,0,N/A,N/A,N/A
+104,Nikola Vucevic,FG_ASSISTED,D.J. Augustin,2:48,4,Magic,Hawks,112 - 97,0,12,2,Jumper
+105,Evan Fournier,Unknown,None,2:34,4,Magic,Hawks,112 - 97,0,N/A,N/A,N/A
+106,Trae Young,FG_UNASSISTED,None,2:27,4,Hawks,Magic,112 - 99,1,0,2,Layup
+107,D.J. Augustin,FG_UNASSISTED,None,2:09,4,Magic,Hawks,115 - 99,0,26,2,Jumper
+108,Omari Spellman,FOUL_ON_FLOOR,None,1:59,4,Hawks,Magic,115 - 99,1,N/A,N/A,N/A
+109,Omari Spellman,TURNOVER,None,1:59,4,Hawks,Magic,115 - 99,1,N/A,N/A,N/A
+110,Terrence Ross,FG_MISS,None,1:39,4,Magic,Hawks,115 - 99,0,22,3,Jumper
+111,Omari Spellman,DEFENSIVE_REBOUND,None,1:36,4,Hawks,Magic,115 - 99,1,N/A,N/A,N/A
+112,Jeremy Lin,FG_UNASSISTED,None,1:27,4,Hawks,Magic,115 - 101,1,21,2,Jumper
+113,Jeremy Lin,FOUL_ON_FLOOR,None,1:21,4,Hawks,Magic,115 - 101,1,N/A,N/A,N/A
+114,D.J. Augustin,FT,None,1:21,4,Magic,Hawks,116 - 101,0,N/A,1,N/A
+115,D.J. Augustin,FT,None,1:21,4,Magic,Hawks,117 - 101,0,N/A,1,N/A
+116,Dewayne Dedmon,FG_MISS,None,1:12,4,Hawks,Magic,117 - 101,1,26,3,Jumper
+117,Nikola Vucevic,DEFENSIVE_REBOUND,None,1:10,4,Magic,Hawks,117 - 101,0,N/A,N/A,N/A
+118,Evan Fournier,FG_MISS,None,55.7,4,Magic,Hawks,117 - 101,0,1,2,Jumper
+119,Jonathan Isaac,OFFENSIVE_REBOUND,None,55.7,4,Magic,Hawks,117 - 101,0,N/A,N/A,N/A
+120,Jonathan Isaac,FG_UNASSISTED,None,55.7,4,Magic,Hawks,119 - 101,0,0,2,Dunk
+121,Trae Young,FG_UNASSISTED,None,49.1,4,Hawks,Magic,119 - 103,1,14,2,Jumper
+122,D.J. Augustin,FG_UNASSISTED,None,30.2,4,Magic,Hawks,122 - 103,0,27,3,Jumper
+123,DeAndre' Bembry,FG_MISS,None,19.5,4,Hawks,Magic,122 - 103,1,23,3,Jumper
+124,Nikola Vucevic,DEFENSIVE_REBOUND,None,16.8,4,Magic,Hawks,122 - 103,0,N/A,N/A,N/A
+125,End of,Unknown,None,0.0,4,Hawks,Magic,122 - 103,1,N/A,N/A,N/A
+126,End of,Unknown,None,0.0,4,Hawks,Magic,122 - 103,1,N/A,N/A,N/A

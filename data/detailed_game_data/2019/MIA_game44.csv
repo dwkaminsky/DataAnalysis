@@ -1,0 +1,317 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Hassan Whiteside,JUMP_BALL,None,12:00,1,Heat,Celtics,0 - 0,0,N/A,N/A,N/A
+1,Josh Richardson,FG_UNASSISTED,None,11:37,1,Heat,Celtics,2 - 0,0,0,2,Layup
+2,Al Horford,Unknown,None,11:37,1,Celtics,Heat,2 - 0,1,N/A,N/A,N/A
+3,Marcus Morris,FG_ASSISTED,Marcus Smart,11:25,1,Celtics,Heat,2 - 3,1,26,3,Jumper
+4,Justise Winslow,FG_MISS,None,11:03,1,Heat,Celtics,2 - 3,0,17,3,Jumper
+5,Kyrie Irving,DEFENSIVE_REBOUND,None,11:00,1,Celtics,Heat,2 - 3,1,N/A,N/A,N/A
+6,Kyrie Irving,FG_MISS,None,10:54,1,Celtics,Heat,2 - 3,1,-,3,Jumper
+7,Al Horford,OFFENSIVE_REBOUND,None,10:52,1,Celtics,Heat,2 - 3,1,N/A,N/A,N/A
+8,Al Horford,FG_UNASSISTED,None,10:51,1,Celtics,Heat,2 - 5,1,-,3,Jumper
+9,Josh Richardson,FG_MISS,None,10:38,1,Heat,Celtics,2 - 5,0,25,3,Jumper
+10,Al Horford,DEFENSIVE_REBOUND,None,10:35,1,Celtics,Heat,2 - 5,1,N/A,N/A,N/A
+11,Josh Richardson,FOUL_ON_FLOOR,None,10:33,1,Heat,Celtics,2 - 5,0,N/A,N/A,N/A
+12,Marcus Morris,FG_UNASSISTED,None,10:16,1,Celtics,Heat,2 - 7,1,8,3,Jumper
+13,shot clock,TURNOVER,None,9:48,1,Heat,Celtics,2 - 7,0,N/A,N/A,N/A
+14,Kyrie Irving,FG_MISS,None,9:34,1,Celtics,Heat,2 - 7,1,22,3,Jumper
+15,Hassan Whiteside,DEFENSIVE_REBOUND,None,9:32,1,Heat,Celtics,2 - 7,0,N/A,N/A,N/A
+16,Rodney McGruder,FG_MISS,None,9:28,1,Heat,Celtics,2 - 7,0,26,3,Jumper
+17,Jayson Tatum,DEFENSIVE_REBOUND,None,9:24,1,Celtics,Heat,2 - 7,1,N/A,N/A,N/A
+18,Jayson Tatum,FG_MISS,None,9:12,1,Celtics,Heat,2 - 7,1,15,3,Jumper
+19,Hassan Whiteside,DEFENSIVE_REBOUND,None,9:09,1,Heat,Celtics,2 - 7,0,N/A,N/A,N/A
+20,Hassan Whiteside,TURNOVER,None,9:04,1,Heat,Celtics,2 - 7,0,N/A,N/A,N/A
+21,Kyrie Irving,FG_UNASSISTED,None,8:55,1,Celtics,Heat,2 - 9,1,18,3,Jumper
+22,Rodney McGruder,FG_MISS,None,8:39,1,Heat,Celtics,2 - 9,0,23,3,Jumper
+23,Marcus Morris,DEFENSIVE_REBOUND,None,8:37,1,Celtics,Heat,2 - 9,1,N/A,N/A,N/A
+24,Marcus Morris,FG_MISS,None,8:30,1,Celtics,Heat,2 - 9,1,25,3,Jumper
+25,Al Horford,OFFENSIVE_REBOUND,None,8:26,1,Celtics,Heat,2 - 9,1,N/A,N/A,N/A
+26,Jayson Tatum,FG_ASSISTED,Al Horford,8:25,1,Celtics,Heat,2 - 12,1,25,3,Jumper
+27,Team,Unknown,None,8:23,1,Heat,Celtics,2 - 12,0,N/A,N/A,N/A
+28,Rodney McGruder,FG_MISS,None,8:11,1,Heat,Celtics,2 - 12,0, ,3,Jumper
+29,Hassan Whiteside,OFFENSIVE_REBOUND,None,8:11,1,Heat,Celtics,2 - 12,0,N/A,N/A,N/A
+30,Hassan Whiteside,FG_UNASSISTED,None,8:10,1,Heat,Celtics,4 - 12,0,0,2,Dunk
+31,Jayson Tatum,FG_MISS,None,7:48,1,Celtics,Heat,4 - 12,1,17,3,Jumper
+32,Marcus Morris,OFFENSIVE_REBOUND,None,7:48,1,Celtics,Heat,4 - 12,1,N/A,N/A,N/A
+33,Marcus Morris,FG_UNASSISTED,None,7:47,1,Celtics,Heat,4 - 14,1, ,3,Jumper
+34,Josh Richardson,FG_ASSISTED,James Johnson,7:28,1,Heat,Celtics,7 - 14,0,26,3,Jumper
+35,Jayson Tatum,TURNOVER,None,7:17,1,Celtics,Heat,7 - 14,1,N/A,N/A,N/A
+36,James Johnson,TURNOVER,None,7:03,1,Heat,Celtics,7 - 14,0,N/A,N/A,N/A
+37,Kyrie Irving,FG_MISS,None,6:52,1,Celtics,Heat,7 - 14,1,25,3,Jumper
+38,Al Horford,OFFENSIVE_REBOUND,None,6:49,1,Celtics,Heat,7 - 14,1,N/A,N/A,N/A
+39,Jayson Tatum,FG_ASSISTED,Kyrie Irving,6:40,1,Celtics,Heat,7 - 17,1,23,3,Jumper
+40,Hassan Whiteside,FG_ASSISTED,James Johnson,6:19,1,Heat,Celtics,9 - 17,0,0,2,Layup
+41,Jayson Tatum,FOUL_ON_FLOOR,None,6:19,1,Celtics,Heat,9 - 17,1,N/A,N/A,N/A
+42,Hassan Whiteside,FT_MISS,None,6:19,1,Heat,Celtics,9 - 17,0,N/A,1,N/A
+43,Jayson Tatum,DEFENSIVE_REBOUND,None,6:19,1,Celtics,Heat,9 - 17,1,N/A,N/A,N/A
+44,Jayson Tatum,FG_UNASSISTED,None,6:04,1,Celtics,Heat,9 - 19,1,12,3,Jumper
+45,James Johnson,FG_UNASSISTED,None,5:50,1,Heat,Celtics,11 - 19,0,10,3,Jumper
+46,James Johnson,FOUL_ON_FLOOR,None,5:50,1,Heat,Celtics,9 - 19,0,N/A,N/A,N/A
+47,Gordon Hayward,SUBSTITUTION,Smart Marcus,5:50,1,Celtics,Heat,9 - 19,1,N/A,N/A,N/A
+48,Dwyane Wade,SUBSTITUTION,McGruder Rodney,5:50,1,Heat,Celtics,9 - 19,0,N/A,N/A,N/A
+49,Jayson Tatum,FOUL_ON_FLOOR,None,5:44,1,Celtics,Heat,11 - 19,1,N/A,N/A,N/A
+50,Jayson Tatum,TURNOVER,None,5:44,1,Celtics,Heat,11 - 19,1,N/A,N/A,N/A
+51,Tyler Johnson,SUBSTITUTION,Richardson Josh,5:44,1,Heat,Celtics,11 - 19,0,N/A,N/A,N/A
+52,James Johnson,FG_ASSISTED,Dwyane Wade,5:32,1,Heat,Celtics,14 - 19,0,26,3,Jumper
+53,Al Horford,FG_ASSISTED,Kyrie Irving,5:16,1,Celtics,Heat,14 - 21,1,6,3,Jumper
+54,James Johnson,TURNOVER,Kyrie Irving,4:58,1,Heat,Celtics,14 - 21,0,N/A,N/A,N/A
+55,Jayson Tatum,FG_MISS,James Johnson,4:55,1,Heat,Celtics,14 - 21,1,6,3,Jumper
+56,Team,OFFENSIVE_REBOUND,None,4:54,1,Celtics,Heat,14 - 21,1,N/A,N/A,N/A
+57,Bam Adebayo,SUBSTITUTION,Whiteside Hassan,4:54,1,Heat,Celtics,14 - 21,0,N/A,N/A,N/A
+58,Marcus Morris,FG_ASSISTED,Kyrie Irving,4:52,1,Celtics,Heat,14 - 23,1,17,3,Jumper
+59,Gordon Hayward,FOUL_ON_FLOOR,None,4:36,1,Celtics,Heat,14 - 23,1,N/A,N/A,N/A
+60,Dwyane Wade,FG_MISS,None,4:22,1,Heat,Celtics,14 - 23,0,18,3,Jumper
+61,Al Horford,DEFENSIVE_REBOUND,None,4:18,1,Celtics,Heat,14 - 23,1,N/A,N/A,N/A
+62,Gordon Hayward,FG_MISS,None,4:15,1,Celtics,Heat,14 - 23,1,25,3,Jumper
+63,Justise Winslow,DEFENSIVE_REBOUND,None,4:13,1,Heat,Celtics,14 - 23,0,N/A,N/A,N/A
+64,Tyler Johnson,FG_ASSISTED,James Johnson,4:06,1,Heat,Celtics,17 - 23,0,27,3,Jumper
+65,Al Horford,TURNOVER,Dwyane Wade,3:45,1,Celtics,Heat,17 - 23,1,N/A,N/A,N/A
+66,Marcus Morris,FOUL_ON_FLOOR,None,3:43,1,Celtics,Heat,17 - 23,1,N/A,N/A,N/A
+67,Terry Rozier,SUBSTITUTION,Tatum Jayson,3:43,1,Celtics,Heat,17 - 23,1,N/A,N/A,N/A
+68,Jaylen Brown,SUBSTITUTION,Morris Marcus,3:43,1,Celtics,Heat,17 - 23,1,N/A,N/A,N/A
+69,Tyler Johnson,TURNOVER,None,3:39,1,Heat,Celtics,17 - 23,0,N/A,N/A,N/A
+70,Dwyane Wade,FOUL_ON_FLOOR,None,3:27,1,Heat,Celtics,17 - 23,0,N/A,N/A,N/A
+71,Gordon Hayward,FT,None,3:27,1,Celtics,Heat,17 - 24,1,N/A,1,N/A
+72,Gordon Hayward,FT,None,3:27,1,Celtics,Heat,17 - 25,1,N/A,1,N/A
+73,Tyler Johnson,TURNOVER,Al Horford,3:12,1,Heat,Celtics,17 - 25,0,N/A,N/A,N/A
+74,Al Horford,FG_ASSISTED,Kyrie Irving,3:07,1,Celtics,Heat,17 - 27,1,10,3,Jumper
+75,Dwyane Wade,FG_ASSISTED,Justise Winslow,2:49,1,Heat,Celtics,19 - 27,0, ,3,Jumper
+76,Kyrie Irving,FG_ASSISTED,Al Horford,2:39,1,Celtics,Heat,19 - 30,1,25,3,Jumper
+77,Tyler Johnson,FOUL_ON_FLOOR,None,2:39,1,Heat,Celtics,19 - 30,0,N/A,N/A,N/A
+78,Team,Unknown,None,2:39,1,Celtics,Heat,19 - 27,1,N/A,N/A,N/A
+79,Aron Baynes,SUBSTITUTION,Horford Al,2:39,1,Celtics,Heat,19 - 30,1,N/A,N/A,N/A
+80,Josh Richardson,SUBSTITUTION,Johnson James,2:39,1,Heat,Celtics,19 - 30,0,N/A,N/A,N/A
+81,Derrick Jones,SUBSTITUTION,Winslow Justise,2:39,1,Heat,Celtics,19 - 30,0,N/A,N/A,N/A
+82,Kyrie Irving,FT,None,2:39,1,Celtics,Heat,19 - 31,1,N/A,1,N/A
+83,Derrick Jones,FG_ASSISTED,Dwyane Wade,2:24,1,Heat,Celtics,21 - 31,0,0,2,Dunk
+84,Kyrie Irving,FG_ASSISTED,Aron Baynes,2:12,1,Celtics,Heat,21 - 33,1,13,3,Jumper
+85,Dwyane Wade,FG_MISS,None,1:49,1,Heat,Celtics,21 - 33,0,26,3,Jumper
+86,Kyrie Irving,DEFENSIVE_REBOUND,None,1:46,1,Celtics,Heat,21 - 33,1,N/A,N/A,N/A
+87,Gordon Hayward,TURNOVER,Bam Adebayo,1:33,1,Celtics,Heat,21 - 33,1,N/A,N/A,N/A
+88,Bam Adebayo,TURNOVER,Kyrie Irving,1:31,1,Heat,Celtics,21 - 33,0,N/A,N/A,N/A
+89,Kyrie Irving,TURNOVER,Tyler Johnson,1:29,1,Celtics,Heat,21 - 33,1,N/A,N/A,N/A
+90,Tyler Johnson,FG_MISS,None,1:19,1,Heat,Celtics,21 - 33,0,27,3,Jumper
+91,Aron Baynes,DEFENSIVE_REBOUND,None,1:15,1,Celtics,Heat,21 - 33,1,N/A,N/A,N/A
+92,Terry Rozier,FG_MISS,None,1:00,1,Celtics,Heat,21 - 33,1,26,3,Jumper
+93,Dwyane Wade,DEFENSIVE_REBOUND,None,58.7,1,Heat,Celtics,21 - 33,0,N/A,N/A,N/A
+94,Marcus Smart,SUBSTITUTION,Irving Kyrie,50.5,1,Celtics,Heat,21 - 33,1,N/A,N/A,N/A
+95,Kyrie Irving,Unknown,None,50.5,1,Celtics,Heat,21 - 33,1,N/A,N/A,N/A
+96,Tyler Johnson,FG_MISS,None,38.6,1,Heat,Celtics,21 - 33,0,26,3,Jumper
+97,Jaylen Brown,DEFENSIVE_REBOUND,None,33.3,1,Celtics,Heat,21 - 33,1,N/A,N/A,N/A
+98,Gordon Hayward,FOUL_ON_FLOOR,None,30.3,1,Celtics,Heat,21 - 33,1,N/A,N/A,N/A
+99,Gordon Hayward,TURNOVER,None,30.3,1,Celtics,Heat,21 - 33,1,N/A,N/A,N/A
+100,Bam Adebayo,FG_MISS,Aron Baynes,14.0,1,Celtics,Heat,21 - 33,0,0,2,Dunk
+101,Derrick Jones,OFFENSIVE_REBOUND,None,9.8,1,Heat,Celtics,21 - 33,0,N/A,N/A,N/A
+102,Aron Baynes,FOUL_ON_FLOOR,None,9.8,1,Celtics,Heat,21 - 33,1,N/A,N/A,N/A
+103,Derrick Jones,FT,None,9.8,1,Heat,Celtics,22 - 33,0,N/A,1,N/A
+104,Derrick Jones,FT,None,9.8,1,Heat,Celtics,23 - 33,0,N/A,1,N/A
+105,Terry Rozier,FG_MISS,None,3.8,1,Celtics,Heat,23 - 33,1,26,3,Jumper
+106,Team,DEFENSIVE_REBOUND,None,0.5,1,Heat,Celtics,23 - 33,0,N/A,N/A,N/A
+107,End of,Unknown,None,0.0,1,Celtics,Heat,23 - 33,1,N/A,N/A,N/A
+0,Rodney McGruder,SUBSTITUTION,Wade Dwyane,12:00,3,Heat,Celtics,50 - 50,0,N/A,N/A,N/A
+1,Justise Winslow,SUBSTITUTION,Waiters Dion,12:00,3,Heat,Celtics,50 - 50,0,N/A,N/A,N/A
+2,James Johnson,SUBSTITUTION,Jones Derrick,12:00,3,Heat,Celtics,50 - 50,0,N/A,N/A,N/A
+3,Jayson Tatum,FG_UNASSISTED,None,11:48,3,Celtics,Heat,50 - 52,1,18,3,Jumper
+4,Josh Richardson,FG_MISS,None,11:22,3,Heat,Celtics,50 - 52,0,27,3,Jumper
+5,Marcus Smart,DEFENSIVE_REBOUND,None,11:18,3,Celtics,Heat,50 - 52,1,N/A,N/A,N/A
+6,Justise Winslow,FOUL_ON_FLOOR,None,11:16,3,Heat,Celtics,50 - 52,0,N/A,N/A,N/A
+7,Jayson Tatum,FG_ASSISTED,Marcus Morris,11:04,3,Celtics,Heat,50 - 54,1,0,2,Layup
+8,Justise Winslow,TURNOVER,None,10:50,3,Heat,Celtics,50 - 54,0,N/A,N/A,N/A
+9,Kyrie Irving,FG_UNASSISTED,None,10:27,3,Celtics,Heat,50 - 56,1,0,2,Layup
+10,Josh Richardson,TURNOVER,Kyrie Irving,10:14,3,Heat,Celtics,50 - 56,0,N/A,N/A,N/A
+11,Marcus Smart,FG_ASSISTED,Kyrie Irving,10:10,3,Celtics,Heat,50 - 59,1,23,3,Jumper
+12,Team,Unknown,None,10:08,3,Heat,Celtics,50 - 59,0,N/A,N/A,N/A
+13,Dwyane Wade,SUBSTITUTION,McGruder Rodney,10:08,3,Heat,Celtics,50 - 59,0,N/A,N/A,N/A
+14,Tyler Johnson,SUBSTITUTION,Winslow Justise,10:08,3,Heat,Celtics,50 - 59,0,N/A,N/A,N/A
+15,James Johnson,TURNOVER,Kyrie Irving,9:53,3,Heat,Celtics,50 - 59,0,N/A,N/A,N/A
+16,Kyrie Irving,TURNOVER,Josh Richardson,9:50,3,Celtics,Heat,50 - 59,1,N/A,N/A,N/A
+17,James Johnson,FG_ASSISTED,Dwyane Wade,9:40,3,Heat,Celtics,53 - 59,0,24,3,Jumper
+18,Kyrie Irving,FG_MISS,None,9:23,3,Celtics,Heat,53 - 59,1,18,3,Jumper
+19,Al Horford,OFFENSIVE_REBOUND,None,9:20,3,Celtics,Heat,53 - 59,1,N/A,N/A,N/A
+20,Marcus Smart,FG_MISS,None,9:19,3,Celtics,Heat,53 - 59,1, ,3,Jumper
+21,Hassan Whiteside,DEFENSIVE_REBOUND,None,9:17,3,Heat,Celtics,53 - 59,0,N/A,N/A,N/A
+22,Tyler Johnson,FG_MISS,None,9:00,3,Heat,Celtics,53 - 59,0,25,3,Jumper
+23,Jayson Tatum,DEFENSIVE_REBOUND,None,8:56,3,Celtics,Heat,53 - 59,1,N/A,N/A,N/A
+24,Jayson Tatum,FG_UNASSISTED,None,8:50,3,Celtics,Heat,53 - 61,1,0,2,Layup
+25,James Johnson,FG_MISS,None,8:28,3,Heat,Celtics,53 - 61,0, ,3,Jumper
+26,James Johnson,OFFENSIVE_REBOUND,None,8:24,3,Heat,Celtics,53 - 61,0,N/A,N/A,N/A
+27,James Johnson,FG_MISS,Al Horford,8:24,3,Celtics,Heat,53 - 61,0,4,3,Jumper
+28,Marcus Smart,DEFENSIVE_REBOUND,None,8:23,3,Celtics,Heat,53 - 61,1,N/A,N/A,N/A
+29,Al Horford,FG_UNASSISTED,None,8:11,3,Celtics,Heat,53 - 63,1,11,3,Jumper
+30,Tyler Johnson,FG_ASSISTED,Josh Richardson,7:51,3,Heat,Celtics,56 - 63,0,26,3,Jumper
+31,Marcus Morris,FG_MISS,None,7:34,3,Celtics,Heat,56 - 63,1,26,3,Jumper
+32,James Johnson,DEFENSIVE_REBOUND,None,7:33,3,Heat,Celtics,56 - 63,0,N/A,N/A,N/A
+33,James Johnson,TURNOVER,Marcus Morris,7:23,3,Heat,Celtics,56 - 63,0,N/A,N/A,N/A
+34,Kyrie Irving,FG_MISS,None,7:18,3,Celtics,Heat,56 - 63,1,0,2,Layup
+35,James Johnson,DEFENSIVE_REBOUND,None,7:17,3,Heat,Celtics,56 - 63,0,N/A,N/A,N/A
+36,Josh Richardson,FG_MISS,None,7:09,3,Heat,Celtics,56 - 63,0,8,3,Jumper
+37,Al Horford,DEFENSIVE_REBOUND,None,7:06,3,Celtics,Heat,56 - 63,1,N/A,N/A,N/A
+38,Al Horford,FG_ASSISTED,Kyrie Irving,6:59,3,Celtics,Heat,56 - 65,1,17,3,Jumper
+39,Josh Richardson,FG_MISS,Kyrie Irving,6:40,3,Celtics,Heat,56 - 65,0,0,2,Layup
+40,Hassan Whiteside,OFFENSIVE_REBOUND,None,6:39,3,Heat,Celtics,56 - 65,0,N/A,N/A,N/A
+41,Hassan Whiteside,TURNOVER,Marcus Smart,6:38,3,Heat,Celtics,56 - 65,0,N/A,N/A,N/A
+42,Kyrie Irving,FG_MISS,None,6:33,3,Celtics,Heat,56 - 65,1,2,3,Jumper
+43,Josh Richardson,DEFENSIVE_REBOUND,None,6:31,3,Heat,Celtics,56 - 65,0,N/A,N/A,N/A
+44,Marcus Smart,FOUL_ON_FLOOR,None,6:20,3,Celtics,Heat,56 - 65,1,N/A,N/A,N/A
+45,Bam Adebayo,SUBSTITUTION,Johnson James,6:20,3,Heat,Celtics,56 - 65,0,N/A,N/A,N/A
+46,Derrick Jones,SUBSTITUTION,Whiteside Hassan,6:20,3,Heat,Celtics,56 - 65,0,N/A,N/A,N/A
+47,Dwyane Wade,FG_MISS,None,6:12,3,Heat,Celtics,56 - 65,0,27,3,Jumper
+48,Team,DEFENSIVE_REBOUND,None,6:11,3,Celtics,Heat,56 - 65,1,N/A,N/A,N/A
+49,Jayson Tatum,FG_ASSISTED,Kyrie Irving,6:01,3,Celtics,Heat,56 - 67,1,16,3,Jumper
+50,Team,Unknown,None,6:00,3,Heat,Celtics,56 - 67,0,N/A,N/A,N/A
+51,Dwyane Wade,FG_MISS,None,5:41,3,Heat,Celtics,56 - 67,0, ,3,Jumper
+52,Team,DEFENSIVE_REBOUND,None,5:41,3,Celtics,Heat,56 - 67,1,N/A,N/A,N/A
+53,Dwyane Wade,FOUL_ON_FLOOR,None,5:41,3,Heat,Celtics,56 - 67,0,N/A,N/A,N/A
+54,Al Horford,TURNOVER,Josh Richardson,5:27,3,Celtics,Heat,56 - 67,1,N/A,N/A,N/A
+55,Tyler Johnson,FG_MISS,None,5:21,3,Heat,Celtics,56 - 67,0,26,3,Jumper
+56,Marcus Smart,DEFENSIVE_REBOUND,None,5:20,3,Celtics,Heat,56 - 67,1,N/A,N/A,N/A
+57,Marcus Morris,FG_ASSISTED,Marcus Smart,5:10,3,Celtics,Heat,56 - 69,1,0,2,Layup
+58,Tyler Johnson,FOUL_ON_FLOOR,None,5:10,3,Heat,Celtics,56 - 69,0,N/A,N/A,N/A
+59,Marcus Morris,FT,None,5:10,3,Celtics,Heat,56 - 70,1,N/A,1,N/A
+60,Kyrie Irving,FOUL_ON_FLOOR,None,4:53,3,Celtics,Heat,56 - 70,1,N/A,N/A,N/A
+61,Bam Adebayo,FG_ASSISTED,Tyler Johnson,4:45,3,Heat,Celtics,58 - 70,0,0,2,Dunk
+62,Kyrie Irving,FG_ASSISTED,Marcus Smart,4:22,3,Celtics,Heat,58 - 72,1,9,3,Jumper
+63,Dwyane Wade,FG_ASSISTED,Josh Richardson,3:59,3,Heat,Celtics,60 - 72,0,18,3,Jumper
+64,Jayson Tatum,FG_ASSISTED,Marcus Smart,3:45,3,Celtics,Heat,60 - 75,1,23,3,Jumper
+65,Derrick Jones,FG_MISS,None,3:31,3,Heat,Celtics,60 - 75,0, ,3,Jumper
+66,Derrick Jones,OFFENSIVE_REBOUND,None,3:29,3,Heat,Celtics,60 - 75,0,N/A,N/A,N/A
+67,Josh Richardson,FG_MISS,None,3:26,3,Heat,Celtics,60 - 75,0,27,3,Jumper
+68,Jayson Tatum,DEFENSIVE_REBOUND,None,3:25,3,Celtics,Heat,60 - 75,1,N/A,N/A,N/A
+69,Jayson Tatum,TURNOVER,Josh Richardson,3:19,3,Celtics,Heat,60 - 75,1,N/A,N/A,N/A
+70,Josh Richardson,FG_ASSISTED,Dwyane Wade,3:14,3,Heat,Celtics,63 - 75,0,26,3,Jumper
+71,Al Horford,FG_ASSISTED,Kyrie Irving,2:52,3,Celtics,Heat,63 - 77,1,15,3,Jumper
+72,Josh Richardson,FG_MISS,None,2:33,3,Heat,Celtics,63 - 77,0,19,3,Jumper
+73,Kyrie Irving,DEFENSIVE_REBOUND,None,2:32,3,Celtics,Heat,63 - 77,1,N/A,N/A,N/A
+74,Al Horford,FG_MISS,None,2:24,3,Celtics,Heat,63 - 77,1,8,3,Jumper
+75,Al Horford,OFFENSIVE_REBOUND,None,2:23,3,Celtics,Heat,63 - 77,1,N/A,N/A,N/A
+76,Al Horford,FG_UNASSISTED,None,2:22,3,Celtics,Heat,63 - 79,1, ,3,Jumper
+77,Bam Adebayo,TURNOVER,Kyrie Irving,1:59,3,Heat,Celtics,63 - 79,0,N/A,N/A,N/A
+78,Marcus Morris,FG_ASSISTED,Kyrie Irving,1:55,3,Celtics,Heat,63 - 82,1,25,3,Jumper
+79,Team,Unknown,None,1:53,3,Heat,Celtics,63 - 82,0,N/A,N/A,N/A
+80,Terry Rozier,SUBSTITUTION,Tatum Jayson,1:53,3,Celtics,Heat,63 - 82,1,N/A,N/A,N/A
+81,Gordon Hayward,SUBSTITUTION,Irving Kyrie,1:53,3,Celtics,Heat,63 - 82,1,N/A,N/A,N/A
+82,Jaylen Brown,SUBSTITUTION,Smart Marcus,1:53,3,Celtics,Heat,63 - 82,1,N/A,N/A,N/A
+83,Dion Waiters,SUBSTITUTION,Johnson Tyler,1:53,3,Heat,Celtics,63 - 82,0,N/A,N/A,N/A
+84,Derrick Jones,FG_MISS,Al Horford,1:38,3,Celtics,Heat,63 - 82,0,5,3,Jumper
+85,Terry Rozier,DEFENSIVE_REBOUND,None,1:37,3,Celtics,Heat,63 - 82,1,N/A,N/A,N/A
+86,Al Horford,FG_ASSISTED,Gordon Hayward,1:20,3,Celtics,Heat,63 - 84,1, ,3,Jumper
+87,Dion Waiters,FG_ASSISTED,Bam Adebayo,1:03,3,Heat,Celtics,66 - 84,0,28,3,Jumper
+88,Terry Rozier,FG_ASSISTED,Al Horford,45.8,3,Celtics,Heat,66 - 87,1, ,3,Jumper
+89,Dion Waiters,FG_UNASSISTED,None,31.4,3,Heat,Celtics,68 - 87,0,0,2,Layup
+90,Al Horford,TURNOVER,None,16.8,3,Celtics,Heat,68 - 87,1,N/A,N/A,N/A
+91,Josh Richardson,FG_MISS,None,2.3,3,Heat,Celtics,68 - 87,0,16,3,Jumper
+92,Team,OFFENSIVE_REBOUND,None,1.2,3,Heat,Celtics,68 - 87,0,N/A,N/A,N/A
+93,End of,Unknown,None,0.0,3,Celtics,Heat,68 - 87,1,N/A,N/A,N/A
+0,Aron Baynes,SUBSTITUTION,Morris Marcus,12:00,4,Celtics,Heat,68 - 87,1,N/A,N/A,N/A
+1,Semi Ojeleye,SUBSTITUTION,Horford Al,12:00,4,Celtics,Heat,68 - 87,1,N/A,N/A,N/A
+2,Tyler Johnson,SUBSTITUTION,Richardson Josh,12:00,4,Heat,Celtics,68 - 87,0,N/A,N/A,N/A
+3,Justise Winslow,SUBSTITUTION,Wade Dwyane,12:00,4,Heat,Celtics,68 - 87,0,N/A,N/A,N/A
+4,Tyler Johnson,FG_MISS,Aron Baynes,11:50,4,Celtics,Heat,68 - 87,0,9,3,Jumper
+5,Team,OFFENSIVE_REBOUND,None,11:48,4,Heat,Celtics,68 - 87,0,N/A,N/A,N/A
+6,Bam Adebayo,FG_MISS,None,11:39,4,Heat,Celtics,68 - 87,0,13,3,Jumper
+7,Jaylen Brown,DEFENSIVE_REBOUND,None,11:38,4,Celtics,Heat,68 - 87,1,N/A,N/A,N/A
+8,Gordon Hayward,FG_UNASSISTED,None,11:20,4,Celtics,Heat,68 - 90,1,27,3,Jumper
+9,Gordon Hayward,FOUL_ON_FLOOR,None,11:09,4,Celtics,Heat,68 - 90,1,N/A,N/A,N/A
+10,Justise Winslow,FT,None,11:09,4,Heat,Celtics,69 - 90,0,N/A,1,N/A
+11,Justise Winslow,FT,None,11:09,4,Heat,Celtics,70 - 90,0,N/A,1,N/A
+12,Jaylen Brown,FG_MISS,None,10:57,4,Celtics,Heat,70 - 90,1,15,3,Jumper
+13,Bam Adebayo,DEFENSIVE_REBOUND,None,10:56,4,Heat,Celtics,70 - 90,0,N/A,N/A,N/A
+14,Dion Waiters,FG_MISS,None,10:46,4,Heat,Celtics,70 - 90,0,26,3,Jumper
+15,Jaylen Brown,DEFENSIVE_REBOUND,None,10:45,4,Celtics,Heat,70 - 90,1,N/A,N/A,N/A
+16,Jaylen Brown,FG_UNASSISTED,None,10:37,4,Celtics,Heat,70 - 92,1,0,2,Layup
+17,Bam Adebayo,FG_ASSISTED,Justise Winslow,10:26,4,Heat,Celtics,72 - 92,0,6,3,Jumper
+18,Bam Adebayo,FOUL_ON_FLOOR,None,10:17,4,Heat,Celtics,72 - 92,0,N/A,N/A,N/A
+19,Gordon Hayward,FG_MISS,None,10:12,4,Celtics,Heat,72 - 92,1,28,3,Jumper
+20,Derrick Jones,DEFENSIVE_REBOUND,None,10:10,4,Heat,Celtics,72 - 92,0,N/A,N/A,N/A
+21,Justise Winslow,FG_ASSISTED,Bam Adebayo,10:06,4,Heat,Celtics,74 - 92,0,0,2,Dunk
+22,Jaylen Brown,TURNOVER,Dion Waiters,9:49,4,Celtics,Heat,74 - 92,1,N/A,N/A,N/A
+23,Derrick Jones,FG_UNASSISTED,None,9:45,4,Heat,Celtics,76 - 92,0, ,3,Jumper
+24,Terry Rozier,FG_MISS,None,9:26,4,Celtics,Heat,76 - 92,1,17,3,Jumper
+25,Derrick Jones,DEFENSIVE_REBOUND,None,9:25,4,Heat,Celtics,76 - 92,0,N/A,N/A,N/A
+26,Tyler Johnson,FG_MISS,None,9:12,4,Heat,Celtics,76 - 92,0,24,3,Jumper
+27,Team,DEFENSIVE_REBOUND,None,9:11,4,Celtics,Heat,76 - 92,1,N/A,N/A,N/A
+28,Aron Baynes,FG_MISS,None,8:57,4,Celtics,Heat,76 - 92,1,0,2,Layup
+29,Justise Winslow,DEFENSIVE_REBOUND,None,8:56,4,Heat,Celtics,76 - 92,0,N/A,N/A,N/A
+30,Aron Baynes,FOUL_ON_FLOOR,None,8:55,4,Celtics,Heat,76 - 92,1,N/A,N/A,N/A
+31,Tyler Johnson,FG_ASSISTED,Justise Winslow,8:42,4,Heat,Celtics,79 - 92,0,26,3,Jumper
+32,Team,Unknown,None,8:40,4,Celtics,Heat,79 - 92,1,N/A,N/A,N/A
+33,Jaylen Brown,FG_ASSISTED,Terry Rozier,8:26,4,Celtics,Heat,79 - 94,1,0,2,Layup
+34,Bam Adebayo,TURNOVER,Jaylen Brown,8:09,4,Heat,Celtics,79 - 94,0,N/A,N/A,N/A
+35,Justise Winslow,FOUL_ON_FLOOR,None,8:07,4,Heat,Celtics,79 - 94,0,N/A,N/A,N/A
+36,Justise Winslow,FOUL_ON_FLOOR,None,8:05,4,Heat,Celtics,79 - 94,0,N/A,N/A,N/A
+37,Terry Rozier,FG_MISS,None,7:56,4,Celtics,Heat,79 - 94,1,11,3,Jumper
+38,Tyler Johnson,DEFENSIVE_REBOUND,None,7:55,4,Heat,Celtics,79 - 94,0,N/A,N/A,N/A
+39,Derrick Jones,FG_ASSISTED,Dion Waiters,7:47,4,Heat,Celtics,81 - 94,0,0,2,Dunk
+40,Aron Baynes,FG_ASSISTED,Gordon Hayward,7:26,4,Celtics,Heat,81 - 96,1,15,3,Jumper
+41,Justise Winslow,FG_MISS,None,7:08,4,Heat,Celtics,81 - 96,0,23,3,Jumper
+42,Bam Adebayo,OFFENSIVE_REBOUND,None,7:06,4,Heat,Celtics,81 - 96,0,N/A,N/A,N/A
+43,Bam Adebayo,FG_UNASSISTED,None,7:05,4,Heat,Celtics,83 - 96,0,0,2,Dunk
+44,Semi Ojeleye,FG_ASSISTED,Terry Rozier,6:48,4,Celtics,Heat,83 - 99,1,26,3,Jumper
+45,Terry Rozier,FOUL_ON_FLOOR,None,6:41,4,Celtics,Heat,83 - 99,1,N/A,N/A,N/A
+46,Justise Winslow,FT,None,6:41,4,Heat,Celtics,84 - 99,0,N/A,1,N/A
+47,Justise Winslow,FT,None,6:41,4,Heat,Celtics,85 - 99,0,N/A,1,N/A
+48,Jaylen Brown,FG_MISS,Bam Adebayo,6:27,4,Heat,Celtics,85 - 99,1,0,2,Layup
+49,Justise Winslow,DEFENSIVE_REBOUND,None,6:25,4,Heat,Celtics,85 - 99,0,N/A,N/A,N/A
+50,Dion Waiters,FG_UNASSISTED,None,6:19,4,Heat,Celtics,87 - 99,0, ,3,Jumper
+51,Semi Ojeleye,TURNOVER,None,6:13,4,Celtics,Heat,87 - 99,1,N/A,N/A,N/A
+52,Kyrie Irving,SUBSTITUTION,Ojeleye Semi,6:13,4,Celtics,Heat,87 - 99,1,N/A,N/A,N/A
+53,Derrick Jones,FG_ASSISTED,Justise Winslow,6:02,4,Heat,Celtics,90 - 99,0,22,3,Jumper
+54,Aron Baynes,FG_MISS,None,5:45,4,Celtics,Heat,90 - 99,1,27,3,Jumper
+55,Justise Winslow,DEFENSIVE_REBOUND,None,5:44,4,Heat,Celtics,90 - 99,0,N/A,N/A,N/A
+56,Dion Waiters,FG_MISS,None,5:21,4,Heat,Celtics,90 - 99,0,26,3,Jumper
+57,Jaylen Brown,DEFENSIVE_REBOUND,None,5:19,4,Celtics,Heat,90 - 99,1,N/A,N/A,N/A
+58,Gordon Hayward,TURNOVER,Derrick Jones,5:10,4,Celtics,Heat,90 - 99,1,N/A,N/A,N/A
+59,Jaylen Brown,FOUL_ON_FLOOR,None,5:07,4,Celtics,Heat,90 - 99,1,N/A,N/A,N/A
+60,Justise Winslow,FT,None,5:07,4,Heat,Celtics,91 - 99,0,N/A,1,N/A
+61,Al Horford,SUBSTITUTION,Brown Jaylen,5:07,4,Celtics,Heat,91 - 99,1,N/A,N/A,N/A
+62,Marcus Smart,SUBSTITUTION,Rozier Terry,5:07,4,Celtics,Heat,91 - 99,1,N/A,N/A,N/A
+63,Jayson Tatum,SUBSTITUTION,Hayward Gordon,5:07,4,Celtics,Heat,91 - 99,1,N/A,N/A,N/A
+64,Marcus Morris,SUBSTITUTION,Baynes Aron,5:07,4,Celtics,Heat,91 - 99,1,N/A,N/A,N/A
+65,Justise Winslow,FT,None,5:07,4,Heat,Celtics,92 - 99,0,N/A,1,N/A
+66,Kyrie Irving,FG_MISS,None,4:51,4,Celtics,Heat,92 - 99,1,26,3,Jumper
+67,Bam Adebayo,DEFENSIVE_REBOUND,None,4:50,4,Heat,Celtics,92 - 99,0,N/A,N/A,N/A
+68,Dion Waiters,FG_UNASSISTED,None,4:32,4,Heat,Celtics,94 - 99,0,19,3,Jumper
+69,Team,Unknown,None,4:29,4,Celtics,Heat,94 - 99,1,N/A,N/A,N/A
+70,Kyrie Irving,FG_UNASSISTED,None,4:11,4,Celtics,Heat,94 - 101,1,9,3,Jumper
+71,Dion Waiters,TURNOVER,None,3:56,4,Heat,Celtics,94 - 101,0,N/A,N/A,N/A
+72,Kyrie Irving,FG_UNASSISTED,None,3:47,4,Celtics,Heat,94 - 103,1,1,3,Jumper
+73,Derrick Jones,FG_MISS,None,3:29,4,Heat,Celtics,94 - 103,0,27,3,Jumper
+74,Jayson Tatum,DEFENSIVE_REBOUND,None,3:28,4,Celtics,Heat,94 - 103,1,N/A,N/A,N/A
+75,Jayson Tatum,FG_MISS,None,3:02,4,Celtics,Heat,94 - 103,1,18,3,Jumper
+76,Team,DEFENSIVE_REBOUND,None,3:01,4,Heat,Celtics,94 - 103,0,N/A,N/A,N/A
+77,Al Horford,FOUL_ON_FLOOR,None,2:52,4,Celtics,Heat,94 - 103,1,N/A,N/A,N/A
+78,Bam Adebayo,FT,None,2:52,4,Heat,Celtics,95 - 103,0,N/A,1,N/A
+79,Bam Adebayo,FT_MISS,None,2:52,4,Heat,Celtics,95 - 103,0,N/A,1,N/A
+80,Al Horford,DEFENSIVE_REBOUND,None,2:52,4,Celtics,Heat,95 - 103,1,N/A,N/A,N/A
+81,Kyrie Irving,FG_UNASSISTED,None,2:36,4,Celtics,Heat,95 - 105,1,1,3,Jumper
+82,Justise Winslow,FG_MISS,None,2:22,4,Heat,Celtics,95 - 105,0,1,3,Jumper
+83,Team,OFFENSIVE_REBOUND,None,2:21,4,Heat,Celtics,95 - 105,0,N/A,N/A,N/A
+84,Kyrie Irving,FOUL_ON_FLOOR,None,2:21,4,Celtics,Heat,95 - 105,1,N/A,N/A,N/A
+85,Bam Adebayo,FT,None,2:21,4,Heat,Celtics,96 - 105,0,N/A,1,N/A
+86,Josh Richardson,SUBSTITUTION,Johnson Tyler,2:21,4,Heat,Celtics,96 - 105,0,N/A,N/A,N/A
+87,Bam Adebayo,FT,None,2:21,4,Heat,Celtics,97 - 105,0,N/A,1,N/A
+88,Bam Adebayo,FOUL_ON_FLOOR,None,2:02,4,Heat,Celtics,97 - 105,0,N/A,N/A,N/A
+89,Jayson Tatum,FG_MISS,None,1:48,4,Celtics,Heat,97 - 105,1,19,3,Jumper
+90,Dion Waiters,DEFENSIVE_REBOUND,None,1:47,4,Heat,Celtics,97 - 105,0,N/A,N/A,N/A
+91,Marcus Smart,FOUL_ON_FLOOR,None,1:33,4,Celtics,Heat,97 - 105,1,N/A,N/A,N/A
+92,Bam Adebayo,FT,None,1:33,4,Heat,Celtics,98 - 105,0,N/A,1,N/A
+93,Bam Adebayo,FT,None,1:33,4,Heat,Celtics,99 - 105,0,N/A,1,N/A
+94,Al Horford,TURNOVER,Justise Winslow,1:16,4,Celtics,Heat,99 - 105,1,N/A,N/A,N/A
+95,Dion Waiters,FG_MISS,None,1:09,4,Heat,Celtics,99 - 105,0,27,3,Jumper
+96,Al Horford,DEFENSIVE_REBOUND,None,1:08,4,Celtics,Heat,99 - 105,1,N/A,N/A,N/A
+97,Marcus Smart,FG_MISS,None,55.6,4,Celtics,Heat,99 - 105,1,1,3,Jumper
+98,Dion Waiters,DEFENSIVE_REBOUND,None,54.1,4,Heat,Celtics,99 - 105,0,N/A,N/A,N/A
+99,Justise Winslow,TURNOVER,Kyrie Irving,48.0,4,Heat,Celtics,99 - 105,0,N/A,N/A,N/A
+100,Derrick Jones,FOUL_ON_FLOOR,None,47.2,4,Heat,Celtics,99 - 105,0,N/A,N/A,N/A
+101,Marcus Morris,FT,None,47.2,4,Celtics,Heat,99 - 106,1,N/A,1,N/A
+102,Marcus Morris,FT,None,47.2,4,Celtics,Heat,99 - 107,1,N/A,1,N/A
+103,Team,Unknown,None,47.2,4,Heat,Celtics,99 - 107,0,N/A,N/A,N/A
+104,Jaylen Brown,SUBSTITUTION,Horford Al,47.2,4,Celtics,Heat,99 - 107,1,N/A,N/A,N/A
+105,Tyler Johnson,SUBSTITUTION,Jones Derrick,47.2,4,Heat,Celtics,99 - 107,0,N/A,N/A,N/A
+106,Dion Waiters,FG_MISS,None,41.9,4,Heat,Celtics,99 - 107,0,16,3,Jumper
+107,Marcus Morris,DEFENSIVE_REBOUND,None,40.1,4,Celtics,Heat,99 - 107,1,N/A,N/A,N/A
+108,Marcus Morris,FG_MISS,None,21.7,4,Celtics,Heat,99 - 107,1,24,3,Jumper
+109,Bam Adebayo,DEFENSIVE_REBOUND,None,19.1,4,Heat,Celtics,99 - 107,0,N/A,N/A,N/A
+110,Josh Richardson,FG_MISS,None,16.4,4,Heat,Celtics,99 - 107,0,26,3,Jumper
+111,Marcus Morris,DEFENSIVE_REBOUND,None,15.3,4,Celtics,Heat,99 - 107,1,N/A,N/A,N/A
+112,End of,Unknown,None,0.0,4,Celtics,Heat,99 - 107,1,N/A,N/A,N/A
+113,End of,Unknown,None,0.0,4,Celtics,Heat,99 - 107,1,N/A,N/A,N/A

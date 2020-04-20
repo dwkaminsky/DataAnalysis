@@ -1,0 +1,492 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,JaVale McGee,JUMP_BALL,None,12:00,1,Lakers,Spurs,0 - 0,0,N/A,N/A,N/A
+1,LeBron James,FG_UNASSISTED,None,11:44,1,Lakers,Spurs,2 - 0,0,16,2,Jumper
+2,Rudy Gay,TURNOVER,Kyle Kuzma,11:30,1,Spurs,Lakers,2 - 0,1,N/A,N/A,N/A
+3,Kyle Kuzma,FG_ASSISTED,LeBron James,11:23,1,Lakers,Spurs,5 - 0,0,23,3,Jumper
+4,LaMarcus Aldridge,FG_MISS,None,11:03,1,Spurs,Lakers,5 - 0,1,19,2,Jumper
+5,LeBron James,DEFENSIVE_REBOUND,None,11:03,1,Lakers,Spurs,5 - 0,0,N/A,N/A,N/A
+6,Josh Hart,FG_ASSISTED,LeBron James,10:57,1,Lakers,Spurs,7 - 0,0,2,2,Jumper
+7,Bryn Forbes,FG_UNASSISTED,None,10:38,1,Spurs,Lakers,7 - 2,1,19,2,Jumper
+8,Kyle Kuzma,FG_ASSISTED,Lonzo Ball,10:30,1,Lakers,Spurs,9 - 2,0,0,2,Layup
+9,Rudy Gay,FG_UNASSISTED,None,10:09,1,Spurs,Lakers,9 - 4,1,11,2,Jumper
+10,Lonzo Ball,FG_MISS,None,9:53,1,Lakers,Spurs,9 - 4,0,11,2,Jumper
+11,LaMarcus Aldridge,DEFENSIVE_REBOUND,None,9:53,1,Spurs,Lakers,9 - 4,1,N/A,N/A,N/A
+12,DeMar DeRozan,FG_UNASSISTED,None,9:44,1,Spurs,Lakers,9 - 6,1,11,2,Jumper
+13,LaMarcus Aldridge,FOUL_ON_FLOOR,None,9:28,1,Spurs,Lakers,9 - 6,1,N/A,N/A,N/A
+14,JaVale McGee,FT,None,9:28,1,Lakers,Spurs,10 - 6,0,N/A,1,N/A
+15,JaVale McGee,FT,None,9:28,1,Lakers,Spurs,11 - 6,0,N/A,1,N/A
+16,DeMar DeRozan,FG_ASSISTED,Bryn Forbes,9:17,1,Spurs,Lakers,11 - 8,1,3,2,Jumper
+17,Rudy Gay,FOUL_ON_FLOOR,None,9:12,1,Spurs,Lakers,11 - 8,1,N/A,N/A,N/A
+18,Kyle Kuzma,FT_MISS,None,9:12,1,Lakers,Spurs,11 - 8,0,N/A,1,N/A
+19,Team,OFFENSIVE_REBOUND,None,9:12,1,Lakers,Spurs,11 - 8,0,N/A,N/A,N/A
+20,Kyle Kuzma,FT,None,9:12,1,Lakers,Spurs,12 - 8,0,N/A,1,N/A
+21,DeMar DeRozan,FG_UNASSISTED,None,8:54,1,Spurs,Lakers,12 - 10,1,15,2,Jumper
+22,JaVale McGee,TURNOVER,Rudy Gay,8:48,1,Lakers,Spurs,12 - 10,0,N/A,N/A,N/A
+23,Rudy Gay,FG_MISS,None,8:44,1,Spurs,Lakers,12 - 10,1,27,3,Jumper
+24,Josh Hart,DEFENSIVE_REBOUND,None,8:40,1,Lakers,Spurs,12 - 10,0,N/A,N/A,N/A
+25,LeBron James,FG_ASSISTED,Kyle Kuzma,8:32,1,Lakers,Spurs,15 - 10,0,25,3,Jumper
+26,Dante Cunningham,FG_MISS,None,8:17,1,Spurs,Lakers,15 - 10,1,10,2,Jumper
+27,JaVale McGee,DEFENSIVE_REBOUND,None,8:17,1,Lakers,Spurs,15 - 10,0,N/A,N/A,N/A
+28,Kyle Kuzma,FG_MISS,None,8:06,1,Lakers,Spurs,15 - 10,0,0,2,Layup
+29,Dante Cunningham,DEFENSIVE_REBOUND,None,8:03,1,Spurs,Lakers,15 - 10,1,N/A,N/A,N/A
+30,LaMarcus Aldridge,FG_UNASSISTED,None,7:49,1,Spurs,Lakers,15 - 12,1,7,2,Jumper
+31,LeBron James,FG_MISS,None,7:35,1,Lakers,Spurs,15 - 12,0, ,2,Jumper
+32,Rudy Gay,DEFENSIVE_REBOUND,None,7:35,1,Spurs,Lakers,15 - 12,1,N/A,N/A,N/A
+33,Dante Cunningham,FG_ASSISTED,Bryn Forbes,7:24,1,Spurs,Lakers,15 - 15,1,24,3,Jumper
+34,LeBron James,FG_MISS,None,7:01,1,Lakers,Spurs,15 - 15,0,18,2,Jumper
+35,Dante Cunningham,DEFENSIVE_REBOUND,None,7:01,1,Spurs,Lakers,15 - 15,1,N/A,N/A,N/A
+36,DeMar DeRozan,FG_MISS,None,6:50,1,Spurs,Lakers,15 - 15,1, ,2,Jumper
+37,JaVale McGee,DEFENSIVE_REBOUND,None,6:49,1,Lakers,Spurs,15 - 15,0,N/A,N/A,N/A
+38,LeBron James,FG_MISS,None,6:44,1,Lakers,Spurs,15 - 15,0,27,3,Jumper
+39,LaMarcus Aldridge,DEFENSIVE_REBOUND,None,6:41,1,Spurs,Lakers,15 - 15,1,N/A,N/A,N/A
+40,Team,Unknown,None,6:38,1,Spurs,Lakers,15 - 15,1,N/A,N/A,N/A
+41,LaMarcus Aldridge,FG_ASSISTED,DeMar DeRozan,6:26,1,Spurs,Lakers,15 - 17,1,6,2,Jumper
+42,Lonzo Ball,FG_ASSISTED,LeBron James,6:14,1,Lakers,Spurs,17 - 17,0,0,2,Layup
+43,Bryn Forbes,FOUL_ON_FLOOR,None,6:14,1,Spurs,Lakers,17 - 17,1,N/A,N/A,N/A
+44,Patty Mills,SUBSTITUTION,Forbes Bryn,6:14,1,Spurs,Lakers,17 - 17,1,N/A,N/A,N/A
+45,Lonzo Ball,FT,None,6:14,1,Lakers,Spurs,18 - 17,0,N/A,1,N/A
+46,Dante Cunningham,FG_MISS,None,6:02,1,Spurs,Lakers,18 - 17,1,23,3,Jumper
+47,JaVale McGee,DEFENSIVE_REBOUND,None,5:58,1,Lakers,Spurs,18 - 17,0,N/A,N/A,N/A
+48,JaVale McGee,FG_ASSISTED,LeBron James,5:50,1,Lakers,Spurs,20 - 17,0,0,2,Dunk
+49,LaMarcus Aldridge,FG_MISS,None,5:37,1,Spurs,Lakers,20 - 17,1,16,2,Jumper
+50,JaVale McGee,DEFENSIVE_REBOUND,None,5:34,1,Lakers,Spurs,20 - 17,0,N/A,N/A,N/A
+51,LeBron James,FG_MISS,None,5:24,1,Lakers,Spurs,20 - 17,0, ,2,Jumper
+52,Rudy Gay,DEFENSIVE_REBOUND,None,5:22,1,Spurs,Lakers,20 - 17,1,N/A,N/A,N/A
+53,Dante Cunningham,FG_MISS,None,5:17,1,Spurs,Lakers,20 - 17,1,18,2,Jumper
+54,Rudy Gay,OFFENSIVE_REBOUND,None,5:13,1,Spurs,Lakers,20 - 17,1,N/A,N/A,N/A
+55,Patty Mills,FG_ASSISTED,Rudy Gay,5:12,1,Spurs,Lakers,20 - 20,1,23,3,Jumper
+56,Lonzo Ball,FG_MISS,None,4:52,1,Lakers,Spurs,20 - 20,0,23,3,Jumper
+57,LeBron James,OFFENSIVE_REBOUND,None,4:52,1,Lakers,Spurs,20 - 20,0,N/A,N/A,N/A
+58,LeBron James,FG_UNASSISTED,None,4:47,1,Lakers,Spurs,22 - 20,0,0,2,Layup
+59,LaMarcus Aldridge,FG_ASSISTED,Dante Cunningham,4:36,1,Spurs,Lakers,22 - 22,1,22,2,Jumper
+60,Team,Unknown,None,4:33,1,Lakers,Spurs,22 - 22,0,N/A,N/A,N/A
+61,Davis Bertans,SUBSTITUTION,Gay Rudy,4:33,1,Spurs,Lakers,22 - 22,1,N/A,N/A,N/A
+62,Marco Belinelli,SUBSTITUTION,Cunningham Dante,4:33,1,Spurs,Lakers,22 - 22,1,N/A,N/A,N/A
+63,Kentavious Caldwell-Pope,SUBSTITUTION,James LeBron,4:33,1,Lakers,Spurs,22 - 22,0,N/A,N/A,N/A
+64,Lonzo Ball,FG_MISS,None,4:22,1,Lakers,Spurs,22 - 22,0, ,2,Jumper
+65,Lonzo Ball,OFFENSIVE_REBOUND,None,4:21,1,Lakers,Spurs,22 - 22,0,N/A,N/A,N/A
+66,Lonzo Ball,FG_MISS,None,4:21,1,Lakers,Spurs,22 - 22,0, ,2,Jumper
+67,Team,DEFENSIVE_REBOUND,None,4:21,1,Spurs,Lakers,22 - 22,1,N/A,N/A,N/A
+68,Josh Hart,FOUL_ON_FLOOR,None,4:13,1,Lakers,Spurs,22 - 22,0,N/A,N/A,N/A
+69,Tyson Chandler,SUBSTITUTION,McGee JaVale,4:13,1,Lakers,Spurs,22 - 22,0,N/A,N/A,N/A
+70,LaMarcus Aldridge,FG_MISS,None,4:13,1,Spurs,Lakers,22 - 22,1,21,2,Jumper
+71,Josh Hart,DEFENSIVE_REBOUND,None,3:59,1,Lakers,Spurs,22 - 22,0,N/A,N/A,N/A
+72,Kyle Kuzma,FG_MISS,None,3:47,1,Lakers,Spurs,22 - 22,0, ,2,Jumper
+73,DeMar DeRozan,DEFENSIVE_REBOUND,None,3:44,1,Spurs,Lakers,22 - 22,1,N/A,N/A,N/A
+74,DeMar DeRozan,FG_UNASSISTED,None,3:36,1,Spurs,Lakers,22 - 24,1,13,2,Jumper
+75,Lonzo Ball,FG_MISS,None,3:24,1,Lakers,Spurs,22 - 24,0,18,2,Jumper
+76,LaMarcus Aldridge,DEFENSIVE_REBOUND,None,3:22,1,Spurs,Lakers,22 - 24,1,N/A,N/A,N/A
+77,Patty Mills,FOUL_ON_FLOOR,None,3:19,1,Spurs,Lakers,22 - 24,1,N/A,N/A,N/A
+78,Patty Mills,TURNOVER,None,3:19,1,Spurs,Lakers,22 - 24,1,N/A,N/A,N/A
+79,Jakob Poeltl,SUBSTITUTION,Aldridge LaMarcus,3:19,1,Spurs,Lakers,22 - 24,1,N/A,N/A,N/A
+80,Sviatoslav Mykhailiuk,SUBSTITUTION,Hart Josh,3:19,1,Lakers,Spurs,22 - 24,0,N/A,N/A,N/A
+81,Lonzo Ball,FG_MISS,None,3:05,1,Lakers,Spurs,22 - 24,0,25,3,Jumper
+82,Davis Bertans,DEFENSIVE_REBOUND,None,3:02,1,Spurs,Lakers,22 - 24,1,N/A,N/A,N/A
+83,Kyle Kuzma,FOUL_ON_FLOOR,None,2:56,1,Lakers,Spurs,22 - 24,0,N/A,N/A,N/A
+84,DeMar DeRozan,FT_MISS,None,2:56,1,Spurs,Lakers,22 - 24,1,N/A,1,N/A
+85,Team,OFFENSIVE_REBOUND,None,2:56,1,Spurs,Lakers,22 - 24,1,N/A,N/A,N/A
+86,DeMar DeRozan,FT,None,2:56,1,Spurs,Lakers,22 - 25,1,N/A,1,N/A
+87,Sviatoslav Mykhailiuk,FG_ASSISTED,Kyle Kuzma,2:33,1,Lakers,Spurs,25 - 25,0,26,3,Jumper
+88,Derrick White,SUBSTITUTION,DeRozan DeMar,2:20,1,Spurs,Lakers,25 - 25,1,N/A,N/A,N/A
+89,Jakob Poeltl,TURNOVER,Kyle Kuzma,2:08,1,Spurs,Lakers,25 - 25,1,N/A,N/A,N/A
+90,Marco Belinelli,FOUL_ON_FLOOR,None,2:05,1,Spurs,Lakers,25 - 25,1,N/A,N/A,N/A
+91,Kentavious Caldwell-Pope,FT,None,2:05,1,Lakers,Spurs,26 - 25,0,N/A,1,N/A
+92,Kentavious Caldwell-Pope,FT,None,2:05,1,Lakers,Spurs,27 - 25,0,N/A,1,N/A
+93,Marco Belinelli,FG_ASSISTED,Davis Bertans,1:50,1,Spurs,Lakers,27 - 28,1,26,3,Jumper
+94,Kyle Kuzma,FG_UNASSISTED,None,1:39,1,Lakers,Spurs,29 - 28,0,4,2,Jumper
+95,Jakob Poeltl,TURNOVER,None,1:21,1,Spurs,Lakers,29 - 28,1,N/A,N/A,N/A
+96,Jakob Poeltl,TURNOVER,None,1:21,1,Spurs,Lakers,29 - 28,1,N/A,N/A,N/A
+97,Kyle Kuzma,FG_ASSISTED,Lonzo Ball,1:05,1,Lakers,Spurs,32 - 28,0,27,3,Jumper
+98,Marco Belinelli,FG_ASSISTED,Jakob Poeltl,54.5,1,Spurs,Lakers,32 - 31,1,26,3,Jumper
+99,Kyle Kuzma,FG_UNASSISTED,None,44.2,1,Lakers,Spurs,34 - 31,0,13,2,Jumper
+100,Jakob Poeltl,TURNOVER,Tyson Chandler,34.2,1,Spurs,Lakers,34 - 31,1,N/A,N/A,N/A
+101,Davis Bertans,FOUL_ON_FLOOR,None,23.4,1,Spurs,Lakers,34 - 31,1,N/A,N/A,N/A
+102,Tyson Chandler,FT,None,23.4,1,Lakers,Spurs,35 - 31,0,N/A,1,N/A
+103,DeMar DeRozan,SUBSTITUTION,Poeltl Jakob,23.4,1,Spurs,Lakers,35 - 31,1,N/A,N/A,N/A
+104,Lance Stephenson,SUBSTITUTION,Kuzma Kyle,23.4,1,Lakers,Spurs,35 - 31,0,N/A,N/A,N/A
+105,Tyson Chandler,FT,None,23.4,1,Lakers,Spurs,36 - 31,0,N/A,1,N/A
+106,Sviatoslav Mykhailiuk,FOUL_ON_FLOOR,None,7.3,1,Lakers,Spurs,36 - 31,0,N/A,N/A,N/A
+107,DeMar DeRozan,FT,None,7.3,1,Spurs,Lakers,36 - 32,1,N/A,1,N/A
+108,Dante Cunningham,SUBSTITUTION,Belinelli Marco,7.3,1,Spurs,Lakers,36 - 32,1,N/A,N/A,N/A
+109,LeBron James,SUBSTITUTION,Chandler Tyson,7.3,1,Lakers,Spurs,36 - 32,0,N/A,N/A,N/A
+110,DeMar DeRozan,FT_MISS,None,7.3,1,Spurs,Lakers,36 - 32,1,N/A,1,N/A
+111,LeBron James,DEFENSIVE_REBOUND,None,4.8,1,Lakers,Spurs,36 - 32,0,N/A,N/A,N/A
+112,End of,Unknown,None,0.0,1,Spurs,Lakers,36 - 32,1,N/A,N/A,N/A
+0,Jakob Poeltl,SUBSTITUTION,DeRozan DeMar,12:00,2,Spurs,Lakers,36 - 32,1,N/A,N/A,N/A
+1,Marco Belinelli,SUBSTITUTION,Bertans Davis,12:00,2,Spurs,Lakers,36 - 32,1,N/A,N/A,N/A
+2,Tyson Chandler,SUBSTITUTION,Ball Lonzo,12:00,2,Lakers,Spurs,36 - 32,0,N/A,N/A,N/A
+3,Michael Beasley,SUBSTITUTION,Stephenson Lance,12:00,2,Lakers,Spurs,36 - 32,0,N/A,N/A,N/A
+4,Marco Belinelli,FG_ASSISTED,Patty Mills,11:42,2,Spurs,Lakers,36 - 35,1,26,3,Jumper
+5,Kentavious Caldwell-Pope,FG_ASSISTED,LeBron James,11:20,2,Lakers,Spurs,39 - 35,0,26,3,Jumper
+6,Marco Belinelli,FG_ASSISTED,Dante Cunningham,10:58,2,Spurs,Lakers,39 - 37,1,23,2,Jumper
+7,Michael Beasley,FG_UNASSISTED,None,10:43,2,Lakers,Spurs,41 - 37,0,8,2,Jumper
+8,Patty Mills,FG_MISS,None,10:32,2,Spurs,Lakers,41 - 37,1,26,3,Jumper
+9,Tyson Chandler,DEFENSIVE_REBOUND,None,10:29,2,Lakers,Spurs,41 - 37,0,N/A,N/A,N/A
+10,Sviatoslav Mykhailiuk,FG_ASSISTED,LeBron James,10:19,2,Lakers,Spurs,44 - 37,0,25,3,Jumper
+11,Marco Belinelli,FG_MISS,None,10:05,2,Spurs,Lakers,44 - 37,1,28,3,Jumper
+12,Jakob Poeltl,OFFENSIVE_REBOUND,None,10:02,2,Spurs,Lakers,44 - 37,1,N/A,N/A,N/A
+13,Marco Belinelli,FG_MISS,None,9:59,2,Spurs,Lakers,44 - 37,1,24,3,Jumper
+14,LeBron James,DEFENSIVE_REBOUND,None,9:54,2,Lakers,Spurs,44 - 37,0,N/A,N/A,N/A
+15,Kentavious Caldwell-Pope,FG_MISS,None,9:51,2,Lakers,Spurs,44 - 37,0,23,3,Jumper
+16,Team,DEFENSIVE_REBOUND,None,9:48,2,Spurs,Lakers,44 - 37,1,N/A,N/A,N/A
+17,Michael Beasley,FOUL_ON_FLOOR,None,9:48,2,Lakers,Spurs,44 - 37,0,N/A,N/A,N/A
+18,Bryn Forbes,SUBSTITUTION,White Derrick,9:48,2,Spurs,Lakers,44 - 37,1,N/A,N/A,N/A
+19,Rudy Gay,SUBSTITUTION,Mills Patty,9:48,2,Spurs,Lakers,44 - 37,1,N/A,N/A,N/A
+20,JaVale McGee,SUBSTITUTION,Chandler Tyson,9:48,2,Lakers,Spurs,44 - 37,0,N/A,N/A,N/A
+21,Rudy Gay,FG_ASSISTED,Dante Cunningham,9:33,2,Spurs,Lakers,44 - 39,1,0,2,Layup
+22,JaVale McGee,FG_ASSISTED,LeBron James,9:20,2,Lakers,Spurs,46 - 39,0,0,2,Layup
+23,Bryn Forbes,FG_UNASSISTED,None,9:08,2,Spurs,Lakers,46 - 41,1,8,2,Jumper
+24,JaVale McGee,FG_MISS,None,8:52,2,Lakers,Spurs,46 - 41,0,6,2,Jumper
+25,Jakob Poeltl,DEFENSIVE_REBOUND,None,8:52,2,Spurs,Lakers,46 - 41,1,N/A,N/A,N/A
+26,Michael Beasley,FOUL_ON_FLOOR,None,8:45,2,Lakers,Spurs,46 - 41,0,N/A,N/A,N/A
+27,LaMarcus Aldridge,SUBSTITUTION,Poeltl Jakob,8:45,2,Spurs,Lakers,46 - 41,1,N/A,N/A,N/A
+28,Dante Cunningham,FG_ASSISTED,Rudy Gay,8:38,2,Spurs,Lakers,46 - 44,1, ,3,Jumper
+29,LeBron James's,FG_MISS,LaMarcus Aldridge,8:17,2,Spurs,Lakers,46 - 44,0, ,2,Jumper
+30,LeBron James,OFFENSIVE_REBOUND,None,8:17,2,Lakers,Spurs,46 - 44,0,N/A,N/A,N/A
+31,LeBron James,FG_UNASSISTED,None,8:07,2,Lakers,Spurs,48 - 44,0, ,2,Jumper
+32,Rudy Gay,TURNOVER,LeBron James,8:03,2,Spurs,Lakers,48 - 44,1,N/A,N/A,N/A
+33,LeBron James,FG_MISS,None,7:59,2,Lakers,Spurs,48 - 44,0, ,2,Jumper
+34,Team,OFFENSIVE_REBOUND,None,7:59,2,Lakers,Spurs,48 - 44,0,N/A,N/A,N/A
+35,Team,Unknown,None,7:59,2,Lakers,Spurs,48 - 44,0,N/A,N/A,N/A
+36,Michael Beasley,FG_MISS,None,7:50,2,Lakers,Spurs,48 - 44,0,7,2,Jumper
+37,JaVale McGee,OFFENSIVE_REBOUND,None,7:42,2,Lakers,Spurs,48 - 44,0,N/A,N/A,N/A
+38,JaVale McGee,FG_UNASSISTED,None,7:42,2,Lakers,Spurs,50 - 44,0, ,2,Jumper
+39,Bryn Forbes,FG_UNASSISTED,None,7:36,2,Spurs,Lakers,50 - 46,1,1,2,Jumper
+40,LaMarcus Aldridge,FOUL_ON_FLOOR,None,7:32,2,Spurs,Lakers,50 - 46,1,N/A,N/A,N/A
+41,LeBron James,FT_MISS,None,7:32,2,Lakers,Spurs,50 - 46,0,N/A,1,N/A
+42,Team,OFFENSIVE_REBOUND,None,7:32,2,Lakers,Spurs,50 - 46,0,N/A,N/A,N/A
+43,DeMar DeRozan,SUBSTITUTION,Belinelli Marco,7:32,2,Spurs,Lakers,50 - 46,1,N/A,N/A,N/A
+44,Kyle Kuzma,SUBSTITUTION,Mykhailiuk Sviatoslav,7:32,2,Lakers,Spurs,50 - 46,0,N/A,N/A,N/A
+45,Josh Hart,SUBSTITUTION,Beasley Michael,7:32,2,Lakers,Spurs,50 - 46,0,N/A,N/A,N/A
+46,LeBron James,FT,None,7:32,2,Lakers,Spurs,51 - 46,0,N/A,1,N/A
+47,LaMarcus Aldridge,FG_MISS,None,7:16,2,Spurs,Lakers,51 - 46,1,13,2,Jumper
+48,LeBron James,DEFENSIVE_REBOUND,None,7:16,2,Lakers,Spurs,51 - 46,0,N/A,N/A,N/A
+49,Kyle Kuzma,FG_UNASSISTED,None,7:08,2,Lakers,Spurs,53 - 46,0,12,2,Jumper
+50,Josh Hart,FOUL_ON_FLOOR,None,6:58,2,Lakers,Spurs,53 - 46,0,N/A,N/A,N/A
+51,DeMar DeRozan,FT_MISS,None,6:58,2,Spurs,Lakers,53 - 46,1,N/A,1,N/A
+52,Team,OFFENSIVE_REBOUND,None,6:58,2,Spurs,Lakers,53 - 46,1,N/A,N/A,N/A
+53,Lonzo Ball,SUBSTITUTION,Caldwell-Pope Kentavious,6:58,2,Lakers,Spurs,53 - 46,0,N/A,N/A,N/A
+54,DeMar DeRozan,FT,None,6:58,2,Spurs,Lakers,53 - 47,1,N/A,1,N/A
+55,LeBron James,FG_UNASSISTED,None,6:43,2,Lakers,Spurs,55 - 47,0,3,2,Jumper
+56,Lonzo Ball,FOUL_ON_FLOOR,None,6:25,2,Lakers,Spurs,55 - 47,0,N/A,N/A,N/A
+57,Bryn Forbes,FT,None,6:25,2,Spurs,Lakers,55 - 48,1,N/A,1,N/A
+58,Bryn Forbes,FT,None,6:25,2,Spurs,Lakers,55 - 49,1,N/A,1,N/A
+59,Bryn Forbes,FT,None,6:25,2,Spurs,Lakers,55 - 50,1,N/A,1,N/A
+60,Kyle Kuzma,TURNOVER,Dante Cunningham,6:16,2,Lakers,Spurs,55 - 50,0,N/A,N/A,N/A
+61,Bryn Forbes,FG_ASSISTED,Dante Cunningham,6:13,2,Spurs,Lakers,55 - 52,1,0,2,Layup
+62,Kyle Kuzma,FG_MISS,None,6:07,2,Lakers,Spurs,55 - 52,0,26,3,Jumper
+63,Bryn Forbes,DEFENSIVE_REBOUND,None,6:07,2,Spurs,Lakers,55 - 52,1,N/A,N/A,N/A
+64,LaMarcus Aldridge,FG_MISS,None,5:50,2,Spurs,Lakers,55 - 52,1,9,2,Jumper
+65,Kyle Kuzma,DEFENSIVE_REBOUND,None,5:48,2,Lakers,Spurs,55 - 52,0,N/A,N/A,N/A
+66,LeBron James,FG_UNASSISTED,None,5:43,2,Lakers,Spurs,57 - 52,0, ,2,Jumper
+67,LaMarcus Aldridge,FOUL_ON_FLOOR,None,5:43,2,Spurs,Lakers,57 - 52,1,N/A,N/A,N/A
+68,Jakob Poeltl,SUBSTITUTION,Aldridge LaMarcus,5:43,2,Spurs,Lakers,57 - 52,1,N/A,N/A,N/A
+69,LeBron James,FT,None,5:43,2,Lakers,Spurs,58 - 52,0,N/A,1,N/A
+70,Bryn Forbes,FG_MISS,None,5:21,2,Spurs,Lakers,58 - 52,1,28,3,Jumper
+71,Bryn Forbes,OFFENSIVE_REBOUND,None,5:17,2,Spurs,Lakers,58 - 52,1,N/A,N/A,N/A
+72,Bryn Forbes,FG_MISS,None,5:15,2,Spurs,Lakers,58 - 52,1,27,3,Jumper
+73,Kyle Kuzma,DEFENSIVE_REBOUND,None,5:13,2,Lakers,Spurs,58 - 52,0,N/A,N/A,N/A
+74,LeBron James,FG_ASSISTED,Lonzo Ball,5:09,2,Lakers,Spurs,60 - 52,0,0,2,Layup
+75,Team,Unknown,None,5:09,2,Spurs,Lakers,58 - 52,1,N/A,N/A,N/A
+76,Patty Mills,SUBSTITUTION,Forbes Bryn,5:09,2,Spurs,Lakers,60 - 52,1,N/A,N/A,N/A
+77,Davis Bertans,SUBSTITUTION,Cunningham Dante,5:09,2,Spurs,Lakers,60 - 52,1,N/A,N/A,N/A
+78,JaVale McGee,FOUL_ON_FLOOR,None,4:59,2,Lakers,Spurs,60 - 52,0,N/A,N/A,N/A
+79,DeMar DeRozan,FT,None,4:59,2,Spurs,Lakers,60 - 53,1,N/A,1,N/A
+80,DeMar DeRozan,FT,None,4:59,2,Spurs,Lakers,60 - 54,1,N/A,1,N/A
+81,LeBron James,FG_MISS,None,4:46,2,Lakers,Spurs,60 - 54,0, ,2,Jumper
+82,JaVale McGee,OFFENSIVE_REBOUND,None,4:44,2,Lakers,Spurs,60 - 54,0,N/A,N/A,N/A
+83,LeBron James,FG_UNASSISTED,None,4:40,2,Lakers,Spurs,63 - 54,0,24,2,Jumper
+84,Rudy Gay,FG_MISS,JaVale McGee,4:25,2,Lakers,Spurs,63 - 54,1,0,2,Dunk
+85,Team,DEFENSIVE_REBOUND,None,4:25,2,Lakers,Spurs,63 - 54,0,N/A,N/A,N/A
+86,Lonzo Ball,FG_ASSISTED,LeBron James,4:18,2,Lakers,Spurs,66 - 54,0,24,3,Jumper
+87,Patty Mills,FG_MISS,None,4:01,2,Spurs,Lakers,66 - 54,1,26,3,Jumper
+88,LeBron James,DEFENSIVE_REBOUND,None,4:01,2,Lakers,Spurs,66 - 54,0,N/A,N/A,N/A
+89,Josh Hart,FG_MISS,None,3:54,2,Lakers,Spurs,66 - 54,0,24,3,Jumper
+90,JaVale McGee,OFFENSIVE_REBOUND,None,3:51,2,Lakers,Spurs,66 - 54,0,N/A,N/A,N/A
+91,LeBron James,FG_ASSISTED,Lonzo Ball,3:47,2,Lakers,Spurs,69 - 54,0,26,3,Jumper
+92,Rudy Gay,FG_ASSISTED,DeMar DeRozan,3:26,2,Spurs,Lakers,69 - 57,1,27,3,Jumper
+93,Team,Unknown,None,3:17,2,Lakers,Spurs,69 - 57,0,N/A,N/A,N/A
+94,Kentavious Caldwell-Pope,SUBSTITUTION,McGee JaVale,3:17,2,Lakers,Spurs,69 - 57,0,N/A,N/A,N/A
+95,Tyson Chandler,SUBSTITUTION,James LeBron,3:17,2,Lakers,Spurs,69 - 57,0,N/A,N/A,N/A
+96,Kyle Kuzma,FG_MISS,None,3:11,2,Lakers,Spurs,69 - 57,0,21,2,Jumper
+97,Rudy Gay,DEFENSIVE_REBOUND,None,3:08,2,Spurs,Lakers,69 - 57,1,N/A,N/A,N/A
+98,Davis Bertans,FG_MISS,None,2:53,2,Spurs,Lakers,69 - 57,1,24,3,Jumper
+99,Tyson Chandler,DEFENSIVE_REBOUND,None,2:50,2,Lakers,Spurs,69 - 57,0,N/A,N/A,N/A
+100,Lonzo Ball,TURNOVER,None,2:41,2,Lakers,Spurs,69 - 57,0,N/A,N/A,N/A
+101,Marco Belinelli,SUBSTITUTION,Bertans Davis,2:41,2,Spurs,Lakers,69 - 57,1,N/A,N/A,N/A
+102,Patty Mills,FG_MISS,None,2:29,2,Spurs,Lakers,69 - 57,1,22,2,Jumper
+103,Josh Hart,DEFENSIVE_REBOUND,None,2:25,2,Lakers,Spurs,69 - 57,0,N/A,N/A,N/A
+104,Kentavious Caldwell-Pope,FG_MISS,None,2:20,2,Lakers,Spurs,69 - 57,0, ,3,Jumper
+105,DeMar DeRozan,DEFENSIVE_REBOUND,None,2:16,2,Spurs,Lakers,69 - 57,1,N/A,N/A,N/A
+106,Tyson Chandler,FOUL_ON_FLOOR,None,2:12,2,Lakers,Spurs,69 - 57,0,N/A,N/A,N/A
+107,DeMar DeRozan,FT,None,2:12,2,Spurs,Lakers,69 - 58,1,N/A,1,N/A
+108,DeMar DeRozan,FT,None,2:12,2,Spurs,Lakers,69 - 59,1,N/A,1,N/A
+109,Lonzo Ball,FG_MISS,Rudy Gay,1:55,2,Spurs,Lakers,69 - 59,0,2,2,Jumper
+110,DeMar DeRozan,DEFENSIVE_REBOUND,None,1:52,2,Spurs,Lakers,69 - 59,1,N/A,N/A,N/A
+111,DeMar DeRozan,FG_MISS,None,1:50,2,Spurs,Lakers,69 - 59,1, ,2,Jumper
+112,DeMar DeRozan,OFFENSIVE_REBOUND,None,1:46,2,Spurs,Lakers,69 - 59,1,N/A,N/A,N/A
+113,Kentavious Caldwell-Pope,FOUL_ON_FLOOR,None,1:44,2,Lakers,Spurs,69 - 59,0,N/A,N/A,N/A
+114,DeMar DeRozan,FT,None,1:44,2,Spurs,Lakers,69 - 60,1,N/A,1,N/A
+115,LeBron James,SUBSTITUTION,Hart Josh,1:44,2,Lakers,Spurs,69 - 60,0,N/A,N/A,N/A
+116,DeMar DeRozan,FT,None,1:44,2,Spurs,Lakers,69 - 61,1,N/A,1,N/A
+117,Patty Mills,FOUL_ON_FLOOR,None,1:25,2,Spurs,Lakers,69 - 61,1,N/A,N/A,N/A
+118,Kentavious Caldwell-Pope,FG_MISS,None,1:18,2,Lakers,Spurs,69 - 61,0,0,2,Layup
+119,Jakob Poeltl,DEFENSIVE_REBOUND,None,1:16,2,Spurs,Lakers,69 - 61,1,N/A,N/A,N/A
+120,Marco Belinelli,FG_MISS,None,1:12,2,Spurs,Lakers,69 - 61,1,23,3,Jumper
+121,Tyson Chandler,DEFENSIVE_REBOUND,None,1:08,2,Lakers,Spurs,69 - 61,0,N/A,N/A,N/A
+122,Kentavious Caldwell-Pope's,FG_MISS,DeMar DeRozan,1:05,2,Spurs,Lakers,69 - 61,0, ,2,Jumper
+123,Jakob Poeltl,DEFENSIVE_REBOUND,None,1:01,2,Spurs,Lakers,69 - 61,1,N/A,N/A,N/A
+124,Rudy Gay,FG_ASSISTED,DeMar DeRozan,57.7,2,Spurs,Lakers,69 - 64,1,26,3,Jumper
+125,Kentavious Caldwell-Pope,FOUL_ON_FLOOR,None,57.1,2,Lakers,Spurs,69 - 64,0,N/A,N/A,N/A
+126,Jakob Poeltl,FT,None,57.1,2,Spurs,Lakers,69 - 65,1,N/A,1,N/A
+127,Kyle Kuzma,FG_UNASSISTED,None,46.1,2,Lakers,Spurs,71 - 65,0,0,2,Layup
+128,Jakob Poeltl,FG_ASSISTED,DeMar DeRozan,33.4,2,Spurs,Lakers,71 - 67,1,0,2,Layup
+129,LeBron James,FOUL_ON_FLOOR,None,33.4,2,Lakers,Spurs,71 - 67,0,N/A,N/A,N/A
+130,Jakob Poeltl,FT,None,33.4,2,Spurs,Lakers,71 - 68,1,N/A,1,N/A
+131,Jakob Poeltl,FOUL_ON_FLOOR,None,13.2,2,Spurs,Lakers,71 - 68,1,N/A,N/A,N/A
+132,LeBron James,FT,None,13.2,2,Lakers,Spurs,72 - 68,0,N/A,1,N/A
+133,LeBron James,FT_MISS,None,13.2,2,Lakers,Spurs,72 - 68,0,N/A,1,N/A
+134,Rudy Gay,DEFENSIVE_REBOUND,None,11.4,2,Spurs,Lakers,72 - 68,1,N/A,N/A,N/A
+135,DeMar DeRozan,FG_MISS,None,1.6,2,Spurs,Lakers,72 - 68,1, ,2,Jumper
+136,Kyle Kuzma,DEFENSIVE_REBOUND,None,1.6,2,Lakers,Spurs,72 - 68,0,N/A,N/A,N/A
+137,End of,Unknown,None,0.0,2,Spurs,Lakers,72 - 68,1,N/A,N/A,N/A
+0,LaMarcus Aldridge,SUBSTITUTION,Mills Patty,12:00,3,Spurs,Lakers,72 - 68,1,N/A,N/A,N/A
+1,Bryn Forbes,SUBSTITUTION,Belinelli Marco,12:00,3,Spurs,Lakers,72 - 68,1,N/A,N/A,N/A
+2,Dante Cunningham,SUBSTITUTION,Poeltl Jakob,12:00,3,Spurs,Lakers,72 - 68,1,N/A,N/A,N/A
+3,JaVale McGee,SUBSTITUTION,Caldwell-Pope Kentavious,12:00,3,Lakers,Spurs,72 - 68,0,N/A,N/A,N/A
+4,Josh Hart,SUBSTITUTION,Chandler Tyson,12:00,3,Lakers,Spurs,72 - 68,0,N/A,N/A,N/A
+5,Bryn Forbes,FG_MISS,None,11:49,3,Spurs,Lakers,72 - 68,1,27,3,Jumper
+6,Kyle Kuzma,DEFENSIVE_REBOUND,None,11:44,3,Lakers,Spurs,72 - 68,0,N/A,N/A,N/A
+7,Lonzo Ball,FG_MISS,None,11:30,3,Lakers,Spurs,72 - 68,0,27,3,Jumper
+8,Rudy Gay,DEFENSIVE_REBOUND,None,11:27,3,Spurs,Lakers,72 - 68,1,N/A,N/A,N/A
+9,Dante Cunningham,FG_MISS,None,11:11,3,Spurs,Lakers,72 - 68,1, ,3,Jumper
+10,LaMarcus Aldridge,OFFENSIVE_REBOUND,None,11:08,3,Spurs,Lakers,72 - 68,1,N/A,N/A,N/A
+11,LaMarcus Aldridge,FG_MISS,None,10:59,3,Spurs,Lakers,72 - 68,1, ,2,Jumper
+12,LaMarcus Aldridge,OFFENSIVE_REBOUND,None,10:58,3,Spurs,Lakers,72 - 68,1,N/A,N/A,N/A
+13,LaMarcus Aldridge,FG_MISS,None,10:58,3,Spurs,Lakers,72 - 68,1, ,2,Jumper
+14,Team,DEFENSIVE_REBOUND,None,10:58,3,Lakers,Spurs,72 - 68,0,N/A,N/A,N/A
+15,Kyle Kuzma,FG_UNASSISTED,None,10:46,3,Lakers,Spurs,74 - 68,0,12,2,Jumper
+16,LaMarcus Aldridge,FG_ASSISTED,DeMar DeRozan,10:26,3,Spurs,Lakers,74 - 70,1,0,2,Layup
+17,Josh Hart,FG_MISS,None,10:13,3,Lakers,Spurs,74 - 70,0,26,3,Jumper
+18,Dante Cunningham,DEFENSIVE_REBOUND,None,10:10,3,Spurs,Lakers,74 - 70,1,N/A,N/A,N/A
+19,LaMarcus Aldridge,FG_MISS,None,10:00,3,Spurs,Lakers,74 - 70,1,10,2,Jumper
+20,Josh Hart,DEFENSIVE_REBOUND,None,9:57,3,Lakers,Spurs,74 - 70,0,N/A,N/A,N/A
+21,LeBron James,FG_MISS,None,9:49,3,Lakers,Spurs,74 - 70,0,24,2,Jumper
+22,DeMar DeRozan,DEFENSIVE_REBOUND,None,9:47,3,Spurs,Lakers,74 - 70,1,N/A,N/A,N/A
+23,DeMar DeRozan,FG_MISS,None,9:42,3,Spurs,Lakers,74 - 70,1, ,2,Jumper
+24,Team,DEFENSIVE_REBOUND,None,9:39,3,Lakers,Spurs,74 - 70,0,N/A,N/A,N/A
+25,Lonzo Ball,FG_MISS,None,9:24,3,Lakers,Spurs,74 - 70,0,27,3,Jumper
+26,JaVale McGee,OFFENSIVE_REBOUND,None,9:20,3,Lakers,Spurs,74 - 70,0,N/A,N/A,N/A
+27,Kyle Kuzma,FG_MISS,None,9:18,3,Lakers,Spurs,74 - 70,0,27,3,Jumper
+28,Dante Cunningham,DEFENSIVE_REBOUND,None,9:13,3,Spurs,Lakers,74 - 70,1,N/A,N/A,N/A
+29,DeMar DeRozan,FG_MISS,None,9:01,3,Spurs,Lakers,74 - 70,1,22,2,Jumper
+30,Team,DEFENSIVE_REBOUND,None,9:01,3,Lakers,Spurs,74 - 70,0,N/A,N/A,N/A
+31,Kyle Kuzma,FG_ASSISTED,Lonzo Ball,8:51,3,Lakers,Spurs,76 - 70,0,0,2,Layup
+32,Kyle Kuzma,FOUL_ON_FLOOR,None,8:41,3,Lakers,Spurs,76 - 70,0,N/A,N/A,N/A
+33,DeMar DeRozan,FT,None,8:41,3,Spurs,Lakers,76 - 71,1,N/A,1,N/A
+34,DeMar DeRozan,FT,None,8:41,3,Spurs,Lakers,76 - 72,1,N/A,1,N/A
+35,Lonzo Ball,FG_MISS,None,8:27,3,Lakers,Spurs,76 - 72,0,17,2,Jumper
+36,Dante Cunningham,DEFENSIVE_REBOUND,None,8:23,3,Spurs,Lakers,76 - 72,1,N/A,N/A,N/A
+37,DeMar DeRozan,FG_UNASSISTED,None,8:15,3,Spurs,Lakers,76 - 74,1,2,2,Jumper
+38,Lonzo Ball,TURNOVER,None,7:55,3,Lakers,Spurs,76 - 74,0,N/A,N/A,N/A
+39,Rudy Gay,FG_MISS,None,7:44,3,Spurs,Lakers,76 - 74,1,25,3,Jumper
+40,Kyle Kuzma,DEFENSIVE_REBOUND,None,7:41,3,Lakers,Spurs,76 - 74,0,N/A,N/A,N/A
+41,Kyle Kuzma,FG_UNASSISTED,None,7:35,3,Lakers,Spurs,78 - 74,0,12,2,Jumper
+42,Bryn Forbes,FG_MISS,None,7:14,3,Spurs,Lakers,78 - 74,1,27,3,Jumper
+43,JaVale McGee,DEFENSIVE_REBOUND,None,7:11,3,Lakers,Spurs,78 - 74,0,N/A,N/A,N/A
+44,Kyle Kuzma,TURNOVER,Bryn Forbes,7:01,3,Lakers,Spurs,78 - 74,0,N/A,N/A,N/A
+45,LeBron James,FOUL_ON_FLOOR,None,6:49,3,Lakers,Spurs,78 - 74,0,N/A,N/A,N/A
+46,Team,Unknown,None,6:49,3,Spurs,Lakers,78 - 74,1,N/A,N/A,N/A
+47,LaMarcus Aldridge,FT,None,6:49,3,Spurs,Lakers,78 - 75,1,N/A,1,N/A
+48,LaMarcus Aldridge,FT,None,6:49,3,Spurs,Lakers,78 - 76,1,N/A,1,N/A
+49,LeBron James,FG_UNASSISTED,None,6:34,3,Lakers,Spurs,80 - 76,0,21,2,Jumper
+50,DeMar DeRozan,FG_MISS,None,6:20,3,Spurs,Lakers,80 - 76,1,12,2,Jumper
+51,JaVale McGee,DEFENSIVE_REBOUND,None,6:17,3,Lakers,Spurs,80 - 76,0,N/A,N/A,N/A
+52,JaVale McGee,TURNOVER,Rudy Gay,6:15,3,Lakers,Spurs,80 - 76,0,N/A,N/A,N/A
+53,Rudy Gay,TURNOVER,Lonzo Ball,6:11,3,Spurs,Lakers,80 - 76,1,N/A,N/A,N/A
+54,LeBron James,FG_ASSISTED,Lonzo Ball,6:07,3,Lakers,Spurs,82 - 76,0,0,2,Dunk
+55,Team,Unknown,None,6:06,3,Spurs,Lakers,82 - 76,1,N/A,N/A,N/A
+56,LaMarcus Aldridge,FG_ASSISTED,DeMar DeRozan,5:51,3,Spurs,Lakers,82 - 78,1,21,2,Jumper
+57,Kyle Kuzma,FG_MISS,None,5:35,3,Lakers,Spurs,82 - 78,0,29,3,Jumper
+58,Dante Cunningham,DEFENSIVE_REBOUND,None,5:32,3,Spurs,Lakers,82 - 78,1,N/A,N/A,N/A
+59,LaMarcus Aldridge,FG_ASSISTED,DeMar DeRozan,5:23,3,Spurs,Lakers,82 - 80,1,12,2,Jumper
+60,LeBron James,FG_MISS,None,5:03,3,Lakers,Spurs,82 - 80,0,29,3,Jumper
+61,LaMarcus Aldridge,DEFENSIVE_REBOUND,None,5:00,3,Spurs,Lakers,82 - 80,1,N/A,N/A,N/A
+62,DeMar DeRozan,TURNOVER,LeBron James,4:53,3,Spurs,Lakers,82 - 80,1,N/A,N/A,N/A
+63,LeBron James,FG_UNASSISTED,None,4:49,3,Lakers,Spurs,84 - 80,0,0,2,Layup
+64,DeMar DeRozan,FOUL_ON_FLOOR,None,4:49,3,Spurs,Lakers,84 - 80,1,N/A,N/A,N/A
+65,Patty Mills,SUBSTITUTION,Forbes Bryn,4:49,3,Spurs,Lakers,84 - 80,1,N/A,N/A,N/A
+66,Tyson Chandler,SUBSTITUTION,McGee JaVale,4:49,3,Lakers,Spurs,84 - 80,0,N/A,N/A,N/A
+67,LeBron James,FT,None,4:49,3,Lakers,Spurs,85 - 80,0,N/A,1,N/A
+68,LaMarcus Aldridge,FG_MISS,None,4:29,3,Spurs,Lakers,85 - 80,1,14,2,Jumper
+69,Kyle Kuzma,DEFENSIVE_REBOUND,None,4:27,3,Lakers,Spurs,85 - 80,0,N/A,N/A,N/A
+70,Kyle Kuzma,FG_ASSISTED,Lonzo Ball,4:16,3,Lakers,Spurs,87 - 80,0,6,2,Jumper
+71,Rudy Gay,FG_MISS,None,3:57,3,Spurs,Lakers,87 - 80,1,9,2,Jumper
+72,LaMarcus Aldridge,OFFENSIVE_REBOUND,None,3:55,3,Spurs,Lakers,87 - 80,1,N/A,N/A,N/A
+73,Dante Cunningham,FG_MISS,None,3:53,3,Spurs,Lakers,87 - 80,1,26,3,Jumper
+74,LeBron James,DEFENSIVE_REBOUND,None,3:50,3,Lakers,Spurs,87 - 80,0,N/A,N/A,N/A
+75,LeBron James,FG_MISS,None,3:47,3,Lakers,Spurs,87 - 80,0,20,2,Jumper
+76,DeMar DeRozan,DEFENSIVE_REBOUND,None,3:47,3,Spurs,Lakers,87 - 80,1,N/A,N/A,N/A
+77,Patty Mills,FG_ASSISTED,LaMarcus Aldridge,3:35,3,Spurs,Lakers,87 - 83,1,24,3,Jumper
+78,Team,Unknown,None,3:33,3,Lakers,Spurs,87 - 83,0,N/A,N/A,N/A
+79,Marco Belinelli,SUBSTITUTION,Gay Rudy,3:33,3,Spurs,Lakers,87 - 83,1,N/A,N/A,N/A
+80,Davis Bertans,SUBSTITUTION,Cunningham Dante,3:33,3,Spurs,Lakers,87 - 83,1,N/A,N/A,N/A
+81,Kentavious Caldwell-Pope,SUBSTITUTION,James LeBron,3:33,3,Lakers,Spurs,87 - 83,0,N/A,N/A,N/A
+82,Kyle Kuzma,FG_MISS,None,3:17,3,Lakers,Spurs,87 - 83,0, ,2,Jumper
+83,Patty Mills,DEFENSIVE_REBOUND,None,3:12,3,Spurs,Lakers,87 - 83,1,N/A,N/A,N/A
+84,LaMarcus Aldridge,FG_MISS,None,2:56,3,Spurs,Lakers,87 - 83,1,8,2,Jumper
+85,Kyle Kuzma,DEFENSIVE_REBOUND,None,2:53,3,Lakers,Spurs,87 - 83,0,N/A,N/A,N/A
+86,Davis Bertans,FOUL_ON_FLOOR,None,2:49,3,Spurs,Lakers,87 - 83,1,N/A,N/A,N/A
+87,Josh Hart,FG_ASSISTED,Lonzo Ball,2:42,3,Lakers,Spurs,89 - 83,0, ,2,Jumper
+88,DeMar DeRozan,FG_MISS,None,2:26,3,Spurs,Lakers,89 - 83,1,10,2,Jumper
+89,Kyle Kuzma,DEFENSIVE_REBOUND,None,2:23,3,Lakers,Spurs,89 - 83,0,N/A,N/A,N/A
+90,Josh Hart,FG_MISS,None,2:19,3,Lakers,Spurs,89 - 83,0,23,3,Jumper
+91,LaMarcus Aldridge,DEFENSIVE_REBOUND,None,2:15,3,Spurs,Lakers,89 - 83,1,N/A,N/A,N/A
+92,DeMar DeRozan,FG_UNASSISTED,None,2:06,3,Spurs,Lakers,89 - 85,1,0,2,Layup
+93,Tyson Chandler,FG_ASSISTED,Lonzo Ball,1:52,3,Lakers,Spurs,91 - 85,0,0,2,Layup
+94,DeMar DeRozan,FG_UNASSISTED,None,1:42,3,Spurs,Lakers,91 - 87,1, ,2,Jumper
+95,Lonzo Ball,FG_UNASSISTED,None,1:27,3,Lakers,Spurs,94 - 87,0,28,2,Jumper
+96,DeMar DeRozan,FG_MISS,None,1:10,3,Spurs,Lakers,94 - 87,1,17,2,Jumper
+97,Lonzo Ball,DEFENSIVE_REBOUND,None,1:08,3,Lakers,Spurs,94 - 87,0,N/A,N/A,N/A
+98,Josh Hart,FG_ASSISTED,Lonzo Ball,1:05,3,Lakers,Spurs,96 - 87,0, ,2,Jumper
+99,Patty Mills,FOUL_ON_FLOOR,None,1:05,3,Spurs,Lakers,96 - 87,1,N/A,N/A,N/A
+100,Derrick White,SUBSTITUTION,DeRozan DeMar,1:05,3,Spurs,Lakers,96 - 87,1,N/A,N/A,N/A
+101,Jakob Poeltl,SUBSTITUTION,Aldridge LaMarcus,1:05,3,Spurs,Lakers,96 - 87,1,N/A,N/A,N/A
+102,Josh Hart,FT,None,1:05,3,Lakers,Spurs,97 - 87,0,N/A,1,N/A
+103,Derrick White,FG_UNASSISTED,None,46.2,3,Spurs,Lakers,97 - 89,1,10,2,Jumper
+104,Kyle Kuzma,FG_MISS,None,35.7,3,Lakers,Spurs,97 - 89,0, ,2,Jumper
+105,Derrick White,DEFENSIVE_REBOUND,None,33.6,3,Spurs,Lakers,97 - 89,1,N/A,N/A,N/A
+106,Derrick White,TURNOVER,Kentavious Caldwell-Pope,31.9,3,Spurs,Lakers,97 - 89,1,N/A,N/A,N/A
+107,Kentavious Caldwell-Pope,FG_ASSISTED,Lonzo Ball,28.3,3,Lakers,Spurs,99 - 89,0,0,2,Layup
+108,Jakob Poeltl,FG_MISS,None,7.3,3,Spurs,Lakers,99 - 89,1,0,2,Layup
+109,Tyson Chandler,DEFENSIVE_REBOUND,None,4.8,3,Lakers,Spurs,99 - 89,0,N/A,N/A,N/A
+110,Kyle Kuzma,FG_MISS,None,1.5,3,Lakers,Spurs,99 - 89,0,26,3,Jumper
+111,Derrick White,DEFENSIVE_REBOUND,None,1.5,3,Spurs,Lakers,99 - 89,1,N/A,N/A,N/A
+112,End of,Unknown,None,0.0,3,Spurs,Lakers,99 - 89,1,N/A,N/A,N/A
+0,Dante Cunningham,SUBSTITUTION,Bertans Davis,12:00,4,Spurs,Lakers,99 - 89,1,N/A,N/A,N/A
+1,LeBron James,SUBSTITUTION,Kuzma Kyle,12:00,4,Lakers,Spurs,99 - 89,0,N/A,N/A,N/A
+2,Sviatoslav Mykhailiuk,SUBSTITUTION,Ball Lonzo,12:00,4,Lakers,Spurs,99 - 89,0,N/A,N/A,N/A
+3,Michael Beasley,SUBSTITUTION,Hart Josh,12:00,4,Lakers,Spurs,99 - 89,0,N/A,N/A,N/A
+4,Michael Beasley,FG_ASSISTED,LeBron James,11:48,4,Lakers,Spurs,101 - 89,0,0,2,Layup
+5,Patty Mills,FG_MISS,None,11:28,4,Spurs,Lakers,101 - 89,1,20,2,Jumper
+6,Michael Beasley,DEFENSIVE_REBOUND,None,11:24,4,Lakers,Spurs,101 - 89,0,N/A,N/A,N/A
+7,Michael Beasley,FG_MISS,Jakob Poeltl,11:12,4,Spurs,Lakers,101 - 89,0,8,2,Jumper
+8,Team,DEFENSIVE_REBOUND,None,11:11,4,Spurs,Lakers,101 - 89,1,N/A,N/A,N/A
+9,Davis Bertans,SUBSTITUTION,White Derrick,11:11,4,Spurs,Lakers,101 - 89,1,N/A,N/A,N/A
+10,Patty Mills,FG_UNASSISTED,None,11:00,4,Spurs,Lakers,101 - 91,1,17,2,Jumper
+11,LeBron James,FG_MISS,None,10:36,4,Lakers,Spurs,101 - 91,0,28,3,Jumper
+12,Marco Belinelli,DEFENSIVE_REBOUND,None,10:32,4,Spurs,Lakers,101 - 91,1,N/A,N/A,N/A
+13,Michael Beasley,FOUL_ON_FLOOR,None,10:30,4,Lakers,Spurs,101 - 91,0,N/A,N/A,N/A
+14,Marco Belinelli,FG_MISS,None,10:23,4,Spurs,Lakers,101 - 91,1,18,2,Jumper
+15,Dante Cunningham,OFFENSIVE_REBOUND,None,10:16,4,Spurs,Lakers,101 - 91,1,N/A,N/A,N/A
+16,Dante Cunningham,FG_UNASSISTED,None,10:16,4,Spurs,Lakers,101 - 93,1, ,2,Jumper
+17,Kentavious Caldwell-Pope,FG_MISS,None,10:06,4,Lakers,Spurs,101 - 93,0,23,3,Jumper
+18,Sviatoslav Mykhailiuk,OFFENSIVE_REBOUND,None,10:02,4,Lakers,Spurs,101 - 93,0,N/A,N/A,N/A
+19,Michael Beasley,FG_MISS,None,9:50,4,Lakers,Spurs,101 - 93,0,27,3,Jumper
+20,shot clock,TURNOVER,None,9:50,4,Lakers,Spurs,101 - 93,0,N/A,N/A,N/A
+21,Team,OFFENSIVE_REBOUND,None,9:50,4,Lakers,Spurs,101 - 93,0,N/A,N/A,N/A
+22,Sviatoslav Mykhailiuk,FOUL_ON_FLOOR,None,9:41,4,Lakers,Spurs,101 - 93,0,N/A,N/A,N/A
+23,Patty Mills,FT,None,9:41,4,Spurs,Lakers,101 - 94,1,N/A,1,N/A
+24,Patty Mills,FT,None,9:41,4,Spurs,Lakers,101 - 95,1,N/A,1,N/A
+25,Josh Hart,SUBSTITUTION,Mykhailiuk Sviatoslav,9:41,4,Lakers,Spurs,101 - 95,0,N/A,N/A,N/A
+26,Patty Mills,FT,None,9:41,4,Spurs,Lakers,101 - 96,1,N/A,1,N/A
+27,Tyson Chandler,FOUL_ON_FLOOR,None,9:28,4,Lakers,Spurs,101 - 96,0,N/A,N/A,N/A
+28,Tyson Chandler,TURNOVER,None,9:28,4,Lakers,Spurs,101 - 96,0,N/A,N/A,N/A
+29,Dante Cunningham,TURNOVER,Kentavious Caldwell-Pope,9:24,4,Spurs,Lakers,101 - 96,1,N/A,N/A,N/A
+30,Kentavious Caldwell-Pope,FG_UNASSISTED,None,9:20,4,Lakers,Spurs,103 - 96,0,0,2,Dunk
+31,Davis Bertans,FG_ASSISTED,Patty Mills,9:09,4,Spurs,Lakers,103 - 99,1,25,3,Jumper
+32,Davis Bertans,FOUL_ON_FLOOR,None,8:52,4,Spurs,Lakers,103 - 99,1,N/A,N/A,N/A
+33,LeBron James,FT,None,8:52,4,Lakers,Spurs,104 - 99,0,N/A,1,N/A
+34,LeBron James,FT,None,8:52,4,Lakers,Spurs,105 - 99,0,N/A,1,N/A
+35,Jakob Poeltl,FG_ASSISTED,Marco Belinelli,8:40,4,Spurs,Lakers,105 - 101,1,0,2,Layup
+36,Tyson Chandler,FOUL_ON_FLOOR,None,8:40,4,Lakers,Spurs,105 - 99,0,N/A,N/A,N/A
+37,Kyle Kuzma,SUBSTITUTION,Beasley Michael,8:40,4,Lakers,Spurs,105 - 101,0,N/A,N/A,N/A
+38,Jakob Poeltl,FT,None,8:40,4,Spurs,Lakers,105 - 100,1,N/A,1,N/A
+39,Kentavious Caldwell-Pope,FG_ASSISTED,LeBron James,8:30,4,Lakers,Spurs,108 - 102,0,28,3,Jumper
+40,Davis Bertans,FG_ASSISTED,Jakob Poeltl,8:11,4,Spurs,Lakers,108 - 105,1,27,3,Jumper
+41,LeBron James,FOUL_ON_FLOOR,None,7:53,4,Lakers,Spurs,108 - 105,0,N/A,N/A,N/A
+42,LeBron James,TURNOVER,None,7:53,4,Lakers,Spurs,108 - 105,0,N/A,N/A,N/A
+43,JaVale McGee,SUBSTITUTION,Chandler Tyson,7:53,4,Lakers,Spurs,108 - 105,0,N/A,N/A,N/A
+44,Patty Mills,FG_UNASSISTED,None,7:43,4,Spurs,Lakers,108 - 107,1,3,2,Jumper
+45,Team,Unknown,None,7:43,4,Lakers,Spurs,108 - 107,0,N/A,N/A,N/A
+46,DeMar DeRozan,SUBSTITUTION,Cunningham Dante,7:43,4,Spurs,Lakers,108 - 107,1,N/A,N/A,N/A
+47,Kentavious Caldwell-Pope,FG_MISS,Jakob Poeltl,7:28,4,Spurs,Lakers,108 - 107,0,0,2,Layup
+48,JaVale McGee,OFFENSIVE_REBOUND,None,7:21,4,Lakers,Spurs,108 - 107,0,N/A,N/A,N/A
+49,JaVale McGee,FG_UNASSISTED,None,7:21,4,Lakers,Spurs,110 - 107,0,1,2,Jumper
+50,Davis Bertans,FG_MISS,None,7:09,4,Spurs,Lakers,110 - 107,1,26,3,Jumper
+51,Jakob Poeltl,OFFENSIVE_REBOUND,None,7:01,4,Spurs,Lakers,110 - 107,1,N/A,N/A,N/A
+52,Jakob Poeltl,FG_UNASSISTED,None,7:01,4,Spurs,Lakers,110 - 109,1,0,2,Dunk
+53,Lonzo Ball,SUBSTITUTION,Caldwell-Pope Kentavious,6:55,4,Lakers,Spurs,110 - 109,0,N/A,N/A,N/A
+54,Jakob Poeltl,FOUL_ON_FLOOR,None,6:53,4,Spurs,Lakers,110 - 109,1,N/A,N/A,N/A
+55,JaVale McGee,FT,None,6:53,4,Lakers,Spurs,111 - 109,0,N/A,1,N/A
+56,JaVale McGee,FT,None,6:53,4,Lakers,Spurs,112 - 109,0,N/A,1,N/A
+57,Jakob Poeltl,FG_ASSISTED,Patty Mills,6:45,4,Spurs,Lakers,112 - 111,1,0,2,Layup
+58,Josh Hart,FOUL_ON_FLOOR,None,6:45,4,Lakers,Spurs,112 - 111,0,N/A,N/A,N/A
+59,Jakob Poeltl,FT,None,6:45,4,Spurs,Lakers,112 - 112,1,N/A,1,N/A
+60,LeBron James,FG_MISS,None,6:22,4,Lakers,Spurs,112 - 112,0,1,2,Jumper
+61,JaVale McGee,OFFENSIVE_REBOUND,None,6:17,4,Lakers,Spurs,112 - 112,0,N/A,N/A,N/A
+62,JaVale McGee,FG_MISS,None,6:17,4,Lakers,Spurs,112 - 112,0,1,2,Jumper
+63,Jakob Poeltl,DEFENSIVE_REBOUND,None,6:16,4,Spurs,Lakers,112 - 112,1,N/A,N/A,N/A
+64,Patty Mills,FG_MISS,None,6:14,4,Spurs,Lakers,112 - 112,1,25,3,Jumper
+65,Team,DEFENSIVE_REBOUND,None,6:12,4,Lakers,Spurs,112 - 112,0,N/A,N/A,N/A
+66,LeBron James,FG_MISS,None,5:52,4,Lakers,Spurs,112 - 112,0,0,2,Layup
+67,Team,DEFENSIVE_REBOUND,None,5:51,4,Spurs,Lakers,112 - 112,1,N/A,N/A,N/A
+68,LeBron James,FOUL_ON_FLOOR,None,5:42,4,Lakers,Spurs,112 - 112,0,N/A,N/A,N/A
+69,DeMar DeRozan,FT_MISS,None,5:42,4,Spurs,Lakers,112 - 112,1,N/A,1,N/A
+70,Team,OFFENSIVE_REBOUND,None,5:42,4,Spurs,Lakers,112 - 112,1,N/A,N/A,N/A
+71,DeMar DeRozan,FT,None,5:42,4,Spurs,Lakers,112 - 113,1,N/A,1,N/A
+72,LeBron James,FG_MISS,DeMar DeRozan,5:25,4,Spurs,Lakers,112 - 113,0,9,2,Jumper
+73,Marco Belinelli,DEFENSIVE_REBOUND,None,5:21,4,Spurs,Lakers,112 - 113,1,N/A,N/A,N/A
+74,DeMar DeRozan,FG_ASSISTED,Patty Mills,5:16,4,Spurs,Lakers,112 - 115,1,0,2,Layup
+75,Team,Unknown,None,5:16,4,Lakers,Spurs,112 - 115,0,N/A,N/A,N/A
+76,Kentavious Caldwell-Pope,SUBSTITUTION,McGee JaVale,5:16,4,Lakers,Spurs,112 - 115,0,N/A,N/A,N/A
+77,Lonzo Ball,FG_MISS,Jakob Poeltl,4:58,4,Spurs,Lakers,112 - 115,0,0,2,Layup
+78,Davis Bertans,DEFENSIVE_REBOUND,None,4:56,4,Spurs,Lakers,112 - 115,1,N/A,N/A,N/A
+79,Davis Bertans,FG_ASSISTED,DeMar DeRozan,4:48,4,Spurs,Lakers,112 - 118,1,26,3,Jumper
+80,Kyle Kuzma,FOUL_ON_FLOOR,None,4:48,4,Lakers,Spurs,112 - 118,0,N/A,N/A,N/A
+81,Davis Bertans,FT,None,4:48,4,Spurs,Lakers,112 - 119,1,N/A,1,N/A
+82,Lonzo Ball,FG_ASSISTED,LeBron James,4:40,4,Lakers,Spurs,114 - 119,0,0,2,Dunk
+83,Jakob Poeltl,FG_ASSISTED,DeMar DeRozan,4:24,4,Spurs,Lakers,114 - 121,1,0,2,Layup
+84,Jakob Poeltl,FOUL_ON_FLOOR,None,4:10,4,Spurs,Lakers,114 - 121,1,N/A,N/A,N/A
+85,Josh Hart,FG_MISS,None,4:01,4,Lakers,Spurs,114 - 121,0,27,3,Jumper
+86,Davis Bertans,DEFENSIVE_REBOUND,None,3:58,4,Spurs,Lakers,114 - 121,1,N/A,N/A,N/A
+87,Davis Bertans,FG_MISS,None,3:44,4,Spurs,Lakers,114 - 121,1,26,3,Jumper
+88,Lonzo Ball,DEFENSIVE_REBOUND,None,3:40,4,Lakers,Spurs,114 - 121,0,N/A,N/A,N/A
+89,Lonzo Ball,FG_UNASSISTED,None,3:30,4,Lakers,Spurs,116 - 121,0,1,2,Jumper
+90,Team,Unknown,None,3:28,4,Spurs,Lakers,116 - 121,1,N/A,N/A,N/A
+91,DeMar DeRozan,FG_UNASSISTED,None,3:14,4,Spurs,Lakers,116 - 123,1,12,2,Jumper
+92,Kentavious Caldwell-Pope,FG_MISS,None,2:55,4,Lakers,Spurs,116 - 123,0,26,3,Jumper
+93,DeMar DeRozan,DEFENSIVE_REBOUND,None,2:52,4,Spurs,Lakers,116 - 123,1,N/A,N/A,N/A
+94,DeMar DeRozan,FG_UNASSISTED,None,2:38,4,Spurs,Lakers,116 - 125,1,7,2,Jumper
+95,LeBron James,FG_MISS,None,2:25,4,Lakers,Spurs,116 - 125,0,30,3,Jumper
+96,Jakob Poeltl,DEFENSIVE_REBOUND,None,2:22,4,Spurs,Lakers,116 - 125,1,N/A,N/A,N/A
+97,DeMar DeRozan,FG_UNASSISTED,None,2:10,4,Spurs,Lakers,116 - 127,1,1,2,Jumper
+98,Team,Unknown,None,2:10,4,Lakers,Spurs,116 - 127,0,N/A,N/A,N/A
+99,Kyle Kuzma,FG_MISS,None,1:59,4,Lakers,Spurs,116 - 127,0,27,3,Jumper
+100,Team,DEFENSIVE_REBOUND,None,1:59,4,Spurs,Lakers,116 - 127,1,N/A,N/A,N/A
+101,Lonzo Ball,FOUL_ON_FLOOR,None,1:59,4,Lakers,Spurs,116 - 127,0,N/A,N/A,N/A
+102,Patty Mills,FT,None,1:59,4,Spurs,Lakers,116 - 128,1,N/A,1,N/A
+103,Patty Mills,FT_MISS,None,1:59,4,Spurs,Lakers,116 - 128,1,N/A,1,N/A
+104,Lonzo Ball,DEFENSIVE_REBOUND,None,1:57,4,Lakers,Spurs,116 - 128,0,N/A,N/A,N/A
+105,LeBron James,FG_UNASSISTED,None,1:49,4,Lakers,Spurs,118 - 128,0,3,2,Jumper
+106,Jakob Poeltl,FOUL_ON_FLOOR,None,1:49,4,Spurs,Lakers,118 - 128,1,N/A,N/A,N/A
+107,LeBron James,FT_MISS,None,1:49,4,Lakers,Spurs,118 - 128,0,N/A,1,N/A
+108,Jakob Poeltl,DEFENSIVE_REBOUND,None,1:49,4,Spurs,Lakers,118 - 128,1,N/A,N/A,N/A
+109,Davis Bertans,FG_ASSISTED,Patty Mills,1:34,4,Spurs,Lakers,118 - 131,1,28,3,Jumper
+110,Kyle Kuzma,FG_UNASSISTED,None,1:25,4,Lakers,Spurs,120 - 131,0,0,2,Layup
+111,Lonzo Ball,FOUL_ON_FLOOR,None,1:07,4,Lakers,Spurs,120 - 131,0,N/A,N/A,N/A
+112,DeMar DeRozan,FT,None,1:07,4,Spurs,Lakers,120 - 132,1,N/A,1,N/A
+113,Chimezie Metu,SUBSTITUTION,Mills Patty,1:07,4,Spurs,Lakers,120 - 132,1,N/A,N/A,N/A
+114,Quincy Pondexter,SUBSTITUTION,Poeltl Jakob,1:07,4,Spurs,Lakers,120 - 132,1,N/A,N/A,N/A
+115,Derrick White,SUBSTITUTION,Bertans Davis,1:07,4,Spurs,Lakers,120 - 132,1,N/A,N/A,N/A
+116,Sviatoslav Mykhailiuk,SUBSTITUTION,Kuzma Kyle,1:07,4,Lakers,Spurs,120 - 132,0,N/A,N/A,N/A
+117,Isaac Bonga,SUBSTITUTION,James LeBron,1:07,4,Lakers,Spurs,120 - 132,0,N/A,N/A,N/A
+118,DeMar DeRozan,FT,None,1:07,4,Spurs,Lakers,120 - 133,1,N/A,1,N/A
+119,Josh Hart,FG_MISS,None,55.0,4,Lakers,Spurs,120 - 133,0,26,3,Jumper
+120,DeMar DeRozan,DEFENSIVE_REBOUND,None,51.9,4,Spurs,Lakers,120 - 133,1,N/A,N/A,N/A
+121,DeMar DeRozan,FG_MISS,None,28.2,4,Spurs,Lakers,120 - 133,1,19,2,Jumper
+122,Josh Hart,DEFENSIVE_REBOUND,None,25.6,4,Lakers,Spurs,120 - 133,0,N/A,N/A,N/A
+123,Sviatoslav Mykhailiuk,FG_MISS,None,23.8,4,Lakers,Spurs,120 - 133,0,26,3,Jumper
+124,Marco Belinelli,DEFENSIVE_REBOUND,None,19.7,4,Spurs,Lakers,120 - 133,1,N/A,N/A,N/A
+125,End of,Unknown,None,0.0,4,Spurs,Lakers,120 - 133,1,N/A,N/A,N/A
+126,End of,Unknown,None,0.0,4,Spurs,Lakers,120 - 133,1,N/A,N/A,N/A

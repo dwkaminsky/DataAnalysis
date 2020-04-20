@@ -1,0 +1,450 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,JaVale McGee,JUMP_BALL,None,12:00,1,Lakers,Nuggets,0 - 0,0,N/A,N/A,N/A
+1,Lonzo Ball,FG_MISS,None,11:48,1,Lakers,Nuggets,0 - 0,0,25,3,Jumper
+2,Nikola Jokic,DEFENSIVE_REBOUND,None,11:45,1,Nuggets,Lakers,0 - 0,1,N/A,N/A,N/A
+3,Juan Hernangomez,FG_ASSISTED,Nikola Jokic,11:37,1,Nuggets,Lakers,0 - 2,1,-,2,Jumper
+4,JaVale McGee,FG_ASSISTED,Kyle Kuzma,11:14,1,Lakers,Nuggets,2 - 2,0,0,2,Layup
+5,Jamal Murray,FG_MISS,None,10:48,1,Nuggets,Lakers,2 - 2,1,26,3,Jumper
+6,LeBron James,DEFENSIVE_REBOUND,None,10:42,1,Lakers,Nuggets,2 - 2,0,N/A,N/A,N/A
+7,JaVale McGee,FG_MISS,Juan Hernangomez,10:36,1,Nuggets,Lakers,2 - 2,0,2,2,Jumper
+8,Lonzo Ball,OFFENSIVE_REBOUND,None,10:33,1,Lakers,Nuggets,2 - 2,0,N/A,N/A,N/A
+9,Brandon Ingram,FG_MISS,None,10:29,1,Lakers,Nuggets,2 - 2,0,16,2,Jumper
+10,Torrey Craig,DEFENSIVE_REBOUND,None,10:26,1,Nuggets,Lakers,2 - 2,1,N/A,N/A,N/A
+11,Paul Millsap,FG_ASSISTED,Nikola Jokic,10:19,1,Nuggets,Lakers,2 - 4,1,0,2,Layup
+12,Kyle Kuzma,FOUL_ON_FLOOR,None,10:19,1,Lakers,Nuggets,2 - 4,0,N/A,N/A,N/A
+13,Paul Millsap,FT,None,10:19,1,Nuggets,Lakers,2 - 5,1,N/A,1,N/A
+14,LeBron James,FG_MISS,None,9:57,1,Lakers,Nuggets,2 - 5,0,0,2,Layup
+15,Nikola Jokic,DEFENSIVE_REBOUND,None,9:55,1,Nuggets,Lakers,2 - 5,1,N/A,N/A,N/A
+16,Jamal Murray,FG_MISS,None,9:53,1,Nuggets,Lakers,2 - 5,1,25,3,Jumper
+17,Torrey Craig,OFFENSIVE_REBOUND,None,9:49,1,Nuggets,Lakers,2 - 5,1,N/A,N/A,N/A
+18,Nikola Jokic,FG_MISS,JaVale McGee,9:45,1,Lakers,Nuggets,2 - 5,1,0,2,Layup
+19,Kyle Kuzma,DEFENSIVE_REBOUND,None,9:43,1,Lakers,Nuggets,2 - 5,0,N/A,N/A,N/A
+20,LeBron James,FG_ASSISTED,Kyle Kuzma,9:43,1,Lakers,Nuggets,4 - 5,0,-,2,Jumper
+21,Paul Millsap,FOUL_ON_FLOOR,None,9:43,1,Nuggets,Lakers,4 - 5,1,N/A,N/A,N/A
+22,LeBron James,FT,None,9:43,1,Lakers,Nuggets,5 - 5,0,N/A,1,N/A
+23,Jamal Murray,FG_ASSISTED,Juan Hernangomez,9:26,1,Nuggets,Lakers,5 - 7,1,-,2,Jumper
+24,Kyle Kuzma,FG_MISS,None,9:03,1,Lakers,Nuggets,5 - 7,0,22,3,Jumper
+25,Torrey Craig,DEFENSIVE_REBOUND,None,9:01,1,Nuggets,Lakers,5 - 7,1,N/A,N/A,N/A
+26,Paul Millsap,FG_MISS,None,8:47,1,Nuggets,Lakers,5 - 7,1,0,2,Layup
+27,Brandon Ingram,DEFENSIVE_REBOUND,None,8:44,1,Lakers,Nuggets,5 - 7,0,N/A,N/A,N/A
+28,Brandon Ingram,FG_UNASSISTED,None,8:36,1,Lakers,Nuggets,7 - 7,0,-,2,Jumper
+29,Juan Hernangomez,FG_ASSISTED,Nikola Jokic,8:24,1,Nuggets,Lakers,7 - 9,1,0,2,Dunk
+30,LeBron James,FG_MISS,None,8:15,1,Lakers,Nuggets,7 - 9,0,28,3,Jumper
+31,Torrey Craig,DEFENSIVE_REBOUND,None,8:10,1,Nuggets,Lakers,7 - 9,1,N/A,N/A,N/A
+32,Paul Millsap,FG_UNASSISTED,None,7:55,1,Nuggets,Lakers,7 - 11,1,0,2,Dunk
+33,Lonzo Ball,FG_ASSISTED,JaVale McGee,7:34,1,Lakers,Nuggets,9 - 11,0,0,2,Layup
+34,Juan Hernangomez,FG_ASSISTED,Nikola Jokic,7:21,1,Nuggets,Lakers,9 - 13,1, ,2,Jumper
+35,LeBron James,FG_MISS,None,7:02,1,Lakers,Nuggets,9 - 13,0,25,3,Jumper
+36,Paul Millsap,DEFENSIVE_REBOUND,None,7:00,1,Nuggets,Lakers,9 - 13,1,N/A,N/A,N/A
+37,Paul Millsap,FG_UNASSISTED,None,6:49,1,Nuggets,Lakers,9 - 15,1,8,2,Jumper
+38,Team,Unknown,None,6:48,1,Lakers,Nuggets,9 - 15,0,N/A,N/A,N/A
+39,Tyson Chandler,SUBSTITUTION,McGee JaVale,6:48,1,Lakers,Nuggets,9 - 15,0,N/A,N/A,N/A
+40,Torrey Craig,FOUL_ON_FLOOR,None,6:40,1,Nuggets,Lakers,9 - 15,1,N/A,N/A,N/A
+41,Torrey Craig,FOUL_ON_FLOOR,None,6:32,1,Nuggets,Lakers,9 - 15,1,N/A,N/A,N/A
+42,Tyson Chandler,FT_MISS,None,6:32,1,Lakers,Nuggets,9 - 15,0,N/A,1,N/A
+43,Team,OFFENSIVE_REBOUND,None,6:32,1,Lakers,Nuggets,9 - 15,0,N/A,N/A,N/A
+44,Malik Beasley,SUBSTITUTION,Craig Torrey,6:32,1,Nuggets,Lakers,9 - 15,1,N/A,N/A,N/A
+45,Tyson Chandler,FT,None,6:32,1,Lakers,Nuggets,10 - 15,0,N/A,1,N/A
+46,Nikola Jokic,FG_MISS,None,6:05,1,Nuggets,Lakers,10 - 15,1, ,2,Jumper
+47,Tyson Chandler,DEFENSIVE_REBOUND,None,6:03,1,Lakers,Nuggets,10 - 15,0,N/A,N/A,N/A
+48,LeBron James,FG_UNASSISTED,None,6:00,1,Lakers,Nuggets,12 - 15,0,0,2,Layup
+49,Juan Hernangomez,FOUL_ON_FLOOR,None,6:00,1,Nuggets,Lakers,12 - 15,1,N/A,N/A,N/A
+50,LeBron James,FT_MISS,None,6:00,1,Lakers,Nuggets,12 - 15,0,N/A,1,N/A
+51,Paul Millsap,DEFENSIVE_REBOUND,None,6:00,1,Nuggets,Lakers,12 - 15,1,N/A,N/A,N/A
+52,Jamal Murray,FG_ASSISTED,Paul Millsap,5:44,1,Nuggets,Lakers,12 - 17,1,0,2,Layup
+53,Nikola Jokic,FOUL_ON_FLOOR,None,5:33,1,Nuggets,Lakers,12 - 17,1,N/A,N/A,N/A
+54,Tyson Chandler,FT,None,5:33,1,Lakers,Nuggets,13 - 17,0,N/A,1,N/A
+55,Tyson Chandler,FT_MISS,None,5:33,1,Lakers,Nuggets,13 - 17,0,N/A,1,N/A
+56,Paul Millsap,DEFENSIVE_REBOUND,None,5:31,1,Nuggets,Lakers,13 - 17,1,N/A,N/A,N/A
+57,Paul Millsap,FG_MISS,None,5:17,1,Nuggets,Lakers,13 - 17,1,11,2,Jumper
+58,Tyson Chandler,DEFENSIVE_REBOUND,None,5:15,1,Lakers,Nuggets,13 - 17,0,N/A,N/A,N/A
+59,LeBron James,TURNOVER,Paul Millsap,5:12,1,Lakers,Nuggets,13 - 17,0,N/A,N/A,N/A
+60,Paul Millsap,FG_MISS,None,5:07,1,Nuggets,Lakers,13 - 17,1, ,2,Jumper
+61,Tyson Chandler,DEFENSIVE_REBOUND,None,5:05,1,Lakers,Nuggets,13 - 17,0,N/A,N/A,N/A
+62,Kyle Kuzma,FG_ASSISTED,Lonzo Ball,5:01,1,Lakers,Nuggets,15 - 17,0,0,2,Dunk
+63,Nikola Jokic,FG_MISS,None,4:45,1,Nuggets,Lakers,15 - 17,1,17,2,Jumper
+64,LeBron James,DEFENSIVE_REBOUND,None,4:43,1,Lakers,Nuggets,15 - 17,0,N/A,N/A,N/A
+65,LeBron James,FG_UNASSISTED,None,4:38,1,Lakers,Nuggets,17 - 17,0, ,2,Jumper
+66,Team,Unknown,None,4:38,1,Nuggets,Lakers,15 - 17,1,N/A,N/A,N/A
+67,Monte Morris,SUBSTITUTION,Millsap Paul,4:38,1,Nuggets,Lakers,17 - 17,1,N/A,N/A,N/A
+68,Trey Lyles,SUBSTITUTION,Murray Jamal,4:38,1,Nuggets,Lakers,17 - 17,1,N/A,N/A,N/A
+69,Kentavious Caldwell-Pope,SUBSTITUTION,Ingram Brandon,4:38,1,Lakers,Nuggets,17 - 17,0,N/A,N/A,N/A
+70,Nikola Jokic,FG_UNASSISTED,None,4:18,1,Nuggets,Lakers,17 - 19,1,14,2,Jumper
+71,Kentavious Caldwell-Pope,FG_MISS,Nikola Jokic,4:03,1,Nuggets,Lakers,17 - 19,0,2,2,Jumper
+72,Team,DEFENSIVE_REBOUND,None,4:03,1,Nuggets,Lakers,17 - 19,1,N/A,N/A,N/A
+73,Tyson Chandler,FOUL_ON_FLOOR,None,3:52,1,Lakers,Nuggets,17 - 19,0,N/A,N/A,N/A
+74,Nikola Jokic,FG_MISS,None,3:40,1,Nuggets,Lakers,17 - 19,1,21,2,Jumper
+75,Lonzo Ball,DEFENSIVE_REBOUND,None,3:36,1,Lakers,Nuggets,17 - 19,0,N/A,N/A,N/A
+76,Trey Lyles,FOUL_ON_FLOOR,None,3:34,1,Nuggets,Lakers,17 - 19,1,N/A,N/A,N/A
+77,LeBron James,FT_MISS,None,3:34,1,Lakers,Nuggets,17 - 19,0,N/A,1,N/A
+78,Team,OFFENSIVE_REBOUND,None,3:34,1,Lakers,Nuggets,17 - 19,0,N/A,N/A,N/A
+79,Mason Plumlee,SUBSTITUTION,Jokic Nikola,3:34,1,Nuggets,Lakers,17 - 19,1,N/A,N/A,N/A
+80,LeBron James,FT,None,3:34,1,Lakers,Nuggets,18 - 19,0,N/A,1,N/A
+81,Monte Morris,FG_UNASSISTED,None,3:20,1,Nuggets,Lakers,18 - 21,1, ,2,Jumper
+82,Kentavious Caldwell-Pope,FG_MISS,None,3:02,1,Lakers,Nuggets,18 - 21,0,23,3,Jumper
+83,Trey Lyles,DEFENSIVE_REBOUND,None,2:59,1,Nuggets,Lakers,18 - 21,1,N/A,N/A,N/A
+84,Monte Morris,FG_MISS,LeBron James,2:55,1,Lakers,Nuggets,18 - 21,1,3,2,Jumper
+85,Lonzo Ball,DEFENSIVE_REBOUND,None,2:51,1,Lakers,Nuggets,18 - 21,0,N/A,N/A,N/A
+86,LeBron James,TURNOVER,None,2:50,1,Lakers,Nuggets,18 - 21,0,N/A,N/A,N/A
+87,Jamal Murray,SUBSTITUTION,Hernangomez Juan,2:50,1,Nuggets,Lakers,18 - 21,1,N/A,N/A,N/A
+88,Mason Plumlee,FG_MISS,None,2:37,1,Nuggets,Lakers,18 - 21,1,18,2,Jumper
+89,Kyle Kuzma,DEFENSIVE_REBOUND,None,2:33,1,Lakers,Nuggets,18 - 21,0,N/A,N/A,N/A
+90,Kyle Kuzma,FG_UNASSISTED,None,2:23,1,Lakers,Nuggets,20 - 21,0, ,2,Jumper
+91,Trey Lyles,TURNOVER,LeBron James,2:03,1,Nuggets,Lakers,20 - 21,1,N/A,N/A,N/A
+92,LeBron James,FG_UNASSISTED,None,1:55,1,Lakers,Nuggets,22 - 21,0,6,2,Jumper
+93,Malik Beasley,FG_ASSISTED,Monte Morris,1:43,1,Nuggets,Lakers,22 - 24,1,22,3,Jumper
+94,Kyle Kuzma,FG_MISS,None,1:34,1,Lakers,Nuggets,22 - 24,0,24,3,Jumper
+95,Malik Beasley,DEFENSIVE_REBOUND,None,1:32,1,Nuggets,Lakers,22 - 24,1,N/A,N/A,N/A
+96,Malik Beasley,FG_MISS,None,1:26,1,Nuggets,Lakers,22 - 24,1, ,2,Jumper
+97,Mason Plumlee,OFFENSIVE_REBOUND,None,1:24,1,Nuggets,Lakers,22 - 24,1,N/A,N/A,N/A
+98,Malik Beasley,FG_ASSISTED,Mason Plumlee,1:22,1,Nuggets,Lakers,22 - 26,1,0,2,Layup
+99,Team,Unknown,None,1:20,1,Lakers,Nuggets,22 - 26,0,N/A,N/A,N/A
+100,Lance Stephenson,SUBSTITUTION,Kuzma Kyle,1:20,1,Lakers,Nuggets,22 - 26,0,N/A,N/A,N/A
+101,JaVale McGee,SUBSTITUTION,Ball Lonzo,1:20,1,Lakers,Nuggets,22 - 26,0,N/A,N/A,N/A
+102,Michael Beasley,SUBSTITUTION,Chandler Tyson,1:20,1,Lakers,Nuggets,22 - 26,0,N/A,N/A,N/A
+103,Brandon Ingram,SUBSTITUTION,James LeBron,1:20,1,Lakers,Nuggets,22 - 26,0,N/A,N/A,N/A
+104,Trey Lyles,FOUL_ON_FLOOR,None,1:10,1,Nuggets,Lakers,22 - 26,1,N/A,N/A,N/A
+105,Brandon Ingram,FT_MISS,None,1:10,1,Lakers,Nuggets,22 - 26,0,N/A,1,N/A
+106,Team,OFFENSIVE_REBOUND,None,1:10,1,Lakers,Nuggets,22 - 26,0,N/A,N/A,N/A
+107,Brandon Ingram,FT,None,1:10,1,Lakers,Nuggets,23 - 26,0,N/A,1,N/A
+108,Mason Plumlee,FG_ASSISTED,Monte Morris,1:00,1,Nuggets,Lakers,23 - 28,1,0,2,Dunk
+109,Kentavious Caldwell-Pope,FG_MISS,None,43.9,1,Lakers,Nuggets,23 - 28,0,25,3,Jumper
+110,Malik Beasley,DEFENSIVE_REBOUND,None,41.3,1,Nuggets,Lakers,23 - 28,1,N/A,N/A,N/A
+111,Jamal Murray,FG_UNASSISTED,None,25.2,1,Nuggets,Lakers,23 - 30,1,15,2,Jumper
+112,Kentavious Caldwell-Pope,FG_ASSISTED,Lance Stephenson,0.3,1,Lakers,Nuggets,26 - 30,0, ,3,Jumper
+113,End of,Unknown,None,0.0,1,Nuggets,Lakers,25 - 30,1,N/A,N/A,N/A
+0,Jamal Murray,FG_ASSISTED,Monte Morris,11:47,2,Nuggets,Lakers,26 - 32,1,10,2,Jumper
+1,Lance Stephenson,FG_MISS,None,11:34,2,Lakers,Nuggets,26 - 32,0,18,2,Jumper
+2,Trey Lyles,DEFENSIVE_REBOUND,None,11:30,2,Nuggets,Lakers,26 - 32,1,N/A,N/A,N/A
+3,Jamal Murray,FG_UNASSISTED,None,11:22,2,Nuggets,Lakers,26 - 35,1,25,3,Jumper
+4,Brandon Ingram,FG_UNASSISTED,None,11:02,2,Lakers,Nuggets,28 - 35,0,17,2,Jumper
+5,Jamal Murray,FG_UNASSISTED,None,10:51,2,Nuggets,Lakers,28 - 37,1,18,2,Jumper
+6,Kentavious Caldwell-Pope,FG_MISS,None,10:32,2,Lakers,Nuggets,28 - 37,0,24,3,Jumper
+7,Jamal Murray,DEFENSIVE_REBOUND,None,10:29,2,Nuggets,Lakers,28 - 37,1,N/A,N/A,N/A
+8,Jamal Murray,TURNOVER,None,10:21,2,Nuggets,Lakers,28 - 37,1,N/A,N/A,N/A
+9,Michael Beasley,FG_ASSISTED,Brandon Ingram,10:03,2,Lakers,Nuggets,30 - 37,0,0,2,Dunk
+10,Jamal Murray,FG_MISS,JaVale McGee,9:46,2,Lakers,Nuggets,30 - 37,1,4,2,Jumper
+11,Lance Stephenson,DEFENSIVE_REBOUND,None,9:44,2,Lakers,Nuggets,30 - 37,0,N/A,N/A,N/A
+12,Lance Stephenson,FG_MISS,Mason Plumlee,9:40,2,Nuggets,Lakers,30 - 37,0,2,2,Jumper
+13,Trey Lyles,DEFENSIVE_REBOUND,None,9:37,2,Nuggets,Lakers,30 - 37,1,N/A,N/A,N/A
+14,Jamal Murray,FG_ASSISTED,Trey Lyles,9:34,2,Nuggets,Lakers,30 - 39,1, ,2,Jumper
+15,Brandon Ingram,FG_UNASSISTED,None,9:12,2,Lakers,Nuggets,32 - 39,0,9,2,Jumper
+16,Jamal Murray,FG_MISS,None,8:57,2,Nuggets,Lakers,32 - 39,1, ,2,Jumper
+17,Mason Plumlee,OFFENSIVE_REBOUND,None,8:56,2,Nuggets,Lakers,32 - 39,1,N/A,N/A,N/A
+18,Kentavious Caldwell-Pope,FOUL_ON_FLOOR,None,8:53,2,Lakers,Nuggets,32 - 39,0,N/A,N/A,N/A
+19,Brandon Ingram,FOUL_ON_FLOOR,None,8:47,2,Lakers,Nuggets,32 - 39,0,N/A,N/A,N/A
+20,Mason Plumlee,FG_ASSISTED,Jamal Murray,8:38,2,Nuggets,Lakers,32 - 41,1,0,2,Layup
+21,Brandon Ingram,FG_UNASSISTED,None,8:28,2,Lakers,Nuggets,34 - 41,0,12,2,Jumper
+22,Trey Lyles's,FG_MISS,JaVale McGee,8:14,2,Lakers,Nuggets,34 - 41,1,0,2,Dunk
+23,Lance Stephenson,DEFENSIVE_REBOUND,None,8:11,2,Lakers,Nuggets,34 - 41,0,N/A,N/A,N/A
+24,Michael Beasley,FG_ASSISTED,Lance Stephenson,8:10,2,Lakers,Nuggets,36 - 41,0, ,2,Jumper
+25,Malik Beasley,FG_MISS,None,7:58,2,Nuggets,Lakers,36 - 41,1,26,3,Jumper
+26,Lance Stephenson,DEFENSIVE_REBOUND,None,7:56,2,Lakers,Nuggets,36 - 41,0,N/A,N/A,N/A
+27,Juan Hernangomez,SUBSTITUTION,Murray Jamal,7:55,2,Nuggets,Lakers,36 - 41,1,N/A,N/A,N/A
+28,Tyson Chandler,SUBSTITUTION,McGee JaVale,7:55,2,Lakers,Nuggets,36 - 41,0,N/A,N/A,N/A
+29,Brandon Ingram,FG_MISS,None,7:53,2,Lakers,Nuggets,36 - 41,0,13,2,Jumper
+30,Mason Plumlee,DEFENSIVE_REBOUND,None,7:49,2,Nuggets,Lakers,36 - 41,1,N/A,N/A,N/A
+31,Mason Plumlee,FG_UNASSISTED,None,7:33,2,Nuggets,Lakers,36 - 43,1,0,2,Layup
+32,Lance Stephenson,FG_MISS,None,7:22,2,Lakers,Nuggets,36 - 43,0,5,2,Jumper
+33,Tyson Chandler,OFFENSIVE_REBOUND,None,7:21,2,Lakers,Nuggets,36 - 43,0,N/A,N/A,N/A
+34,Lance Stephenson,FG_MISS,None,7:19,2,Lakers,Nuggets,36 - 43,0,25,3,Jumper
+35,Mason Plumlee,DEFENSIVE_REBOUND,None,7:19,2,Nuggets,Lakers,36 - 43,1,N/A,N/A,N/A
+36,Malik Beasley,FG_MISS,None,7:09,2,Nuggets,Lakers,36 - 43,1,25,3,Jumper
+37,Trey Lyles,OFFENSIVE_REBOUND,None,7:05,2,Nuggets,Lakers,36 - 43,1,N/A,N/A,N/A
+38,Monte Morris,FG_MISS,None,7:04,2,Nuggets,Lakers,36 - 43,1,25,3,Jumper
+39,Juan Hernangomez,OFFENSIVE_REBOUND,None,7:01,2,Nuggets,Lakers,36 - 43,1,N/A,N/A,N/A
+40,Malik Beasley,FG_MISS,None,6:57,2,Nuggets,Lakers,36 - 43,1,25,3,Jumper
+41,Lance Stephenson,DEFENSIVE_REBOUND,None,6:54,2,Lakers,Nuggets,36 - 43,0,N/A,N/A,N/A
+42,Team,Unknown,None,6:48,2,Lakers,Nuggets,36 - 43,0,N/A,N/A,N/A
+43,Kyle Kuzma,SUBSTITUTION,Caldwell-Pope Kentavious,6:48,2,Lakers,Nuggets,36 - 43,0,N/A,N/A,N/A
+44,LeBron James,SUBSTITUTION,Stephenson Lance,6:48,2,Lakers,Nuggets,36 - 43,0,N/A,N/A,N/A
+45,Lonzo Ball,SUBSTITUTION,Beasley Michael,6:48,2,Lakers,Nuggets,36 - 43,0,N/A,N/A,N/A
+46,Tyson Chandler,FG_ASSISTED,Brandon Ingram,6:40,2,Lakers,Nuggets,38 - 43,0,0,2,Dunk
+47,Monte Morris,FG_MISS,Kyle Kuzma,6:11,2,Lakers,Nuggets,38 - 43,1,9,2,Jumper
+48,LeBron James,DEFENSIVE_REBOUND,None,6:08,2,Lakers,Nuggets,38 - 43,0,N/A,N/A,N/A
+49,Paul Millsap,SUBSTITUTION,Lyles Trey,6:05,2,Nuggets,Lakers,38 - 43,1,N/A,N/A,N/A
+50,Nikola Jokic,SUBSTITUTION,Plumlee Mason,6:05,2,Nuggets,Lakers,38 - 43,1,N/A,N/A,N/A
+51,Brandon Ingram,FG_MISS,None,6:00,2,Lakers,Nuggets,38 - 43,0,22,3,Jumper
+52,Juan Hernangomez,DEFENSIVE_REBOUND,None,5:55,2,Nuggets,Lakers,38 - 43,1,N/A,N/A,N/A
+53,Malik Beasley,FG_ASSISTED,Juan Hernangomez,5:52,2,Nuggets,Lakers,38 - 45,1, ,2,Jumper
+54,Kyle Kuzma,TURNOVER,Malik Beasley,5:33,2,Lakers,Nuggets,38 - 45,0,N/A,N/A,N/A
+55,Paul Millsap,FG_MISS,None,5:29,2,Nuggets,Lakers,38 - 45,1,25,3,Jumper
+56,LeBron James,DEFENSIVE_REBOUND,None,5:25,2,Lakers,Nuggets,38 - 45,0,N/A,N/A,N/A
+57,Lonzo Ball,FG_MISS,None,5:11,2,Lakers,Nuggets,38 - 45,0, ,2,Jumper
+58,Nikola Jokic,DEFENSIVE_REBOUND,None,5:08,2,Nuggets,Lakers,38 - 45,1,N/A,N/A,N/A
+59,Paul Millsap,FG_ASSISTED,Nikola Jokic,4:57,2,Nuggets,Lakers,38 - 47,1,2,2,Jumper
+60,LeBron James,FG_MISS,None,4:36,2,Lakers,Nuggets,38 - 47,0,25,2,Jumper
+61,Monte Morris,DEFENSIVE_REBOUND,None,4:35,2,Nuggets,Lakers,38 - 47,1,N/A,N/A,N/A
+62,Tyson Chandler,FOUL_ON_FLOOR,None,4:20,2,Lakers,Nuggets,38 - 47,0,N/A,N/A,N/A
+63,Jamal Murray,SUBSTITUTION,Morris Monte,4:20,2,Nuggets,Lakers,38 - 47,1,N/A,N/A,N/A
+64,Malik Beasley,FG_MISS,None,4:14,2,Nuggets,Lakers,38 - 47,1, ,2,Jumper
+65,Paul Millsap,OFFENSIVE_REBOUND,None,4:10,2,Nuggets,Lakers,38 - 47,1,N/A,N/A,N/A
+66,Paul Millsap,FG_UNASSISTED,None,4:10,2,Nuggets,Lakers,38 - 49,1, ,2,Jumper
+67,Kyle Kuzma,FG_ASSISTED,LeBron James,4:00,2,Lakers,Nuggets,41 - 49,0,25,3,Jumper
+68,Lonzo Ball,FOUL_ON_FLOOR,None,3:49,2,Lakers,Nuggets,41 - 49,0,N/A,N/A,N/A
+69,Josh Hart,SUBSTITUTION,Ingram Brandon,3:49,2,Lakers,Nuggets,41 - 49,0,N/A,N/A,N/A
+70,Jamal Murray,TURNOVER,LeBron James,3:42,2,Nuggets,Lakers,41 - 49,1,N/A,N/A,N/A
+71,LeBron James,FG_UNASSISTED,None,3:39,2,Lakers,Nuggets,43 - 49,0,0,2,Dunk
+72,Paul Millsap,FG_UNASSISTED,None,3:24,2,Nuggets,Lakers,43 - 51,1,11,2,Jumper
+73,Kyle Kuzma,TURNOVER,None,3:09,2,Lakers,Nuggets,43 - 51,0,N/A,N/A,N/A
+74,Kyle Kuzma,TURNOVER,None,3:09,2,Lakers,Nuggets,43 - 51,0,N/A,N/A,N/A
+75,Jamal Murray,FG_MISS,None,2:52,2,Nuggets,Lakers,43 - 51,1,25,3,Jumper
+76,Lonzo Ball,DEFENSIVE_REBOUND,None,2:48,2,Lakers,Nuggets,43 - 51,0,N/A,N/A,N/A
+77,Lonzo Ball,FG_UNASSISTED,None,2:39,2,Lakers,Nuggets,46 - 51,0,25,2,Jumper
+78,Jamal Murray,TURNOVER,Tyson Chandler,2:25,2,Nuggets,Lakers,46 - 51,1,N/A,N/A,N/A
+79,LeBron James,FG_MISS,None,2:20,2,Lakers,Nuggets,46 - 51,0,0,2,Dunk
+80,Kyle Kuzma,OFFENSIVE_REBOUND,None,2:20,2,Lakers,Nuggets,46 - 51,0,N/A,N/A,N/A
+81,Lonzo Ball,FG_ASSISTED,Kyle Kuzma,2:19,2,Lakers,Nuggets,48 - 51,0,0,2,Dunk
+82,Team,Unknown,None,2:17,2,Nuggets,Lakers,48 - 51,1,N/A,N/A,N/A
+83,Nikola Jokic,TURNOVER,Josh Hart,1:59,2,Nuggets,Lakers,48 - 51,1,N/A,N/A,N/A
+84,LeBron James,FG_MISS,None,1:52,2,Lakers,Nuggets,48 - 51,0,11,2,Jumper
+85,Paul Millsap,DEFENSIVE_REBOUND,None,1:50,2,Nuggets,Lakers,48 - 51,1,N/A,N/A,N/A
+86,Juan Hernangomez,FG_ASSISTED,Paul Millsap,1:44,2,Nuggets,Lakers,48 - 54,1,25,3,Jumper
+87,Josh Hart,FOUL_ON_FLOOR,None,1:44,2,Lakers,Nuggets,48 - 54,0,N/A,N/A,N/A
+88,Brandon Ingram,SUBSTITUTION,Ball Lonzo,1:44,2,Lakers,Nuggets,48 - 54,0,N/A,N/A,N/A
+89,Juan Hernangomez,FT,None,1:44,2,Nuggets,Lakers,48 - 55,1,N/A,1,N/A
+90,Juan Hernangomez,FOUL_ON_FLOOR,None,1:30,2,Nuggets,Lakers,48 - 55,1,N/A,N/A,N/A
+91,Kyle Kuzma,FG_UNASSISTED,None,1:16,2,Lakers,Nuggets,50 - 55,0,6,2,Jumper
+92,Jamal Murray,FG_MISS,None,58.2,2,Nuggets,Lakers,50 - 55,1,9,2,Jumper
+93,Paul Millsap,OFFENSIVE_REBOUND,None,57.7,2,Nuggets,Lakers,50 - 55,1,N/A,N/A,N/A
+94,Paul Millsap,TURNOVER,None,57.2,2,Nuggets,Lakers,50 - 55,1,N/A,N/A,N/A
+95,LeBron James,FG_MISS,None,47.1,2,Lakers,Nuggets,50 - 55,0, ,2,Jumper
+96,Paul Millsap,DEFENSIVE_REBOUND,None,45.2,2,Nuggets,Lakers,50 - 55,1,N/A,N/A,N/A
+97,Paul Millsap,FG_UNASSISTED,None,39.3,2,Nuggets,Lakers,50 - 57,1,0,2,Layup
+98,Tyson Chandler,FOUL_ON_FLOOR,None,39.3,2,Lakers,Nuggets,50 - 57,0,N/A,N/A,N/A
+99,Paul Millsap,FT,None,39.3,2,Nuggets,Lakers,50 - 58,1,N/A,1,N/A
+100,Brandon Ingram,FG_MISS,Paul Millsap,22.1,2,Nuggets,Lakers,50 - 58,0,0,2,Layup
+101,Malik Beasley,DEFENSIVE_REBOUND,None,19.6,2,Nuggets,Lakers,50 - 58,1,N/A,N/A,N/A
+102,Jamal Murray,FG_MISS,None,0.6,2,Nuggets,Lakers,50 - 58,1,16,2,Jumper
+103,Team,OFFENSIVE_REBOUND,None,0.6,2,Nuggets,Lakers,50 - 58,1,N/A,N/A,N/A
+104,End of,Unknown,None,0.0,2,Nuggets,Lakers,50 - 58,1,N/A,N/A,N/A
+0,Torrey Craig,SUBSTITUTION,Beasley Malik,12:00,3,Nuggets,Lakers,50 - 58,1,N/A,N/A,N/A
+1,Lonzo Ball,SUBSTITUTION,Hart Josh,12:00,3,Lakers,Nuggets,50 - 58,0,N/A,N/A,N/A
+2,JaVale McGee,SUBSTITUTION,Chandler Tyson,12:00,3,Lakers,Nuggets,50 - 58,0,N/A,N/A,N/A
+3,Nikola Jokic,FG_ASSISTED,Jamal Murray,11:48,3,Nuggets,Lakers,50 - 61,1,25,3,Jumper
+4,LeBron James,FG_MISS,None,11:27,3,Lakers,Nuggets,50 - 61,0,11,2,Jumper
+5,JaVale McGee,OFFENSIVE_REBOUND,None,11:22,3,Lakers,Nuggets,50 - 61,0,N/A,N/A,N/A
+6,JaVale McGee,FG_MISS,None,11:22,3,Lakers,Nuggets,50 - 61,0,0,2,Dunk
+7,Jamal Murray,DEFENSIVE_REBOUND,None,11:21,3,Nuggets,Lakers,50 - 61,1,N/A,N/A,N/A
+8,Nikola Jokic,FG_ASSISTED,Jamal Murray,11:16,3,Nuggets,Lakers,50 - 64,1,27,3,Jumper
+9,LeBron James,FG_MISS,None,10:56,3,Lakers,Nuggets,50 - 64,0,25,3,Jumper
+10,Nikola Jokic,DEFENSIVE_REBOUND,None,10:52,3,Nuggets,Lakers,50 - 64,1,N/A,N/A,N/A
+11,Jamal Murray,FG_MISS,None,10:41,3,Nuggets,Lakers,50 - 64,1,19,2,Jumper
+12,Brandon Ingram,DEFENSIVE_REBOUND,None,10:36,3,Lakers,Nuggets,50 - 64,0,N/A,N/A,N/A
+13,Lonzo Ball,FG_MISS,None,10:18,3,Lakers,Nuggets,50 - 64,0,29,3,Jumper
+14,Paul Millsap,DEFENSIVE_REBOUND,None,10:15,3,Nuggets,Lakers,50 - 64,1,N/A,N/A,N/A
+15,Paul Millsap,FG_MISS,None,10:08,3,Nuggets,Lakers,50 - 64,1,11,2,Jumper
+16,Torrey Craig,OFFENSIVE_REBOUND,None,10:06,3,Nuggets,Lakers,50 - 64,1,N/A,N/A,N/A
+17,Jamal Murray,FG_MISS,JaVale McGee,9:53,3,Lakers,Nuggets,50 - 64,1,0,2,Layup
+18,Lonzo Ball,DEFENSIVE_REBOUND,None,9:50,3,Lakers,Nuggets,50 - 64,0,N/A,N/A,N/A
+19,Brandon Ingram,FG_ASSISTED,Lonzo Ball,9:48,3,Lakers,Nuggets,52 - 64,0,0,2,Dunk
+20,Brandon Ingram,FOUL_ON_FLOOR,None,9:36,3,Lakers,Nuggets,52 - 64,0,N/A,N/A,N/A
+21,Nikola Jokic,FT,None,9:36,3,Nuggets,Lakers,52 - 65,1,N/A,1,N/A
+22,Josh Hart,SUBSTITUTION,Ball Lonzo,9:36,3,Lakers,Nuggets,52 - 65,0,N/A,N/A,N/A
+23,Nikola Jokic,FT,None,9:36,3,Nuggets,Lakers,52 - 66,1,N/A,1,N/A
+24,LeBron James,TURNOVER,Nikola Jokic,9:25,3,Lakers,Nuggets,52 - 66,0,N/A,N/A,N/A
+25,Nikola Jokic,FG_ASSISTED,Torrey Craig,9:21,3,Nuggets,Lakers,52 - 68,1, ,2,Jumper
+26,Juan Hernangomez,FOUL_ON_FLOOR,None,9:06,3,Nuggets,Lakers,52 - 68,1,N/A,N/A,N/A
+27,Kyle Kuzma,FT,None,9:06,3,Lakers,Nuggets,53 - 68,0,N/A,1,N/A
+28,Kyle Kuzma,FT,None,9:06,3,Lakers,Nuggets,54 - 68,0,N/A,1,N/A
+29,Jamal Murray,FG_MISS,None,8:43,3,Nuggets,Lakers,54 - 68,1,21,2,Jumper
+30,LeBron James,DEFENSIVE_REBOUND,None,8:40,3,Lakers,Nuggets,54 - 68,0,N/A,N/A,N/A
+31,Kyle Kuzma,FG_MISS,Paul Millsap,8:30,3,Nuggets,Lakers,54 - 68,0,26,3,Jumper
+32,Torrey Craig,DEFENSIVE_REBOUND,None,8:27,3,Nuggets,Lakers,54 - 68,1,N/A,N/A,N/A
+33,Kyle Kuzma,FOUL_ON_FLOOR,None,8:23,3,Lakers,Nuggets,54 - 68,0,N/A,N/A,N/A
+34,Nikola Jokic,TURNOVER,Brandon Ingram,8:07,3,Nuggets,Lakers,54 - 68,1,N/A,N/A,N/A
+35,Brandon Ingram,FG_ASSISTED,LeBron James,8:02,3,Lakers,Nuggets,56 - 68,0, ,2,Jumper
+36,Brandon Ingram,FOUL_ON_FLOOR,None,7:47,3,Lakers,Nuggets,56 - 68,0,N/A,N/A,N/A
+37,Nikola Jokic,FG_MISS,None,7:38,3,Nuggets,Lakers,56 - 68,1,26,3,Jumper
+38,JaVale McGee,DEFENSIVE_REBOUND,None,7:35,3,Lakers,Nuggets,56 - 68,0,N/A,N/A,N/A
+39,JaVale McGee,FG_MISS,None,7:23,3,Lakers,Nuggets,56 - 68,0, ,2,Jumper
+40,Nikola Jokic,DEFENSIVE_REBOUND,None,7:21,3,Nuggets,Lakers,56 - 68,1,N/A,N/A,N/A
+41,Nikola Jokic,FG_MISS,None,7:17,3,Nuggets,Lakers,56 - 68,1,22,2,Jumper
+42,Juan Hernangomez,OFFENSIVE_REBOUND,None,7:16,3,Nuggets,Lakers,56 - 68,1,N/A,N/A,N/A
+43,Juan Hernangomez,FG_MISS,None,7:16,3,Nuggets,Lakers,56 - 68,1, ,2,Jumper
+44,Juan Hernangomez,OFFENSIVE_REBOUND,None,7:15,3,Nuggets,Lakers,56 - 68,1,N/A,N/A,N/A
+45,Juan Hernangomez,FG_MISS,LeBron James,7:13,3,Lakers,Nuggets,56 - 68,1,3,2,Jumper
+46,LeBron James,DEFENSIVE_REBOUND,None,7:10,3,Lakers,Nuggets,56 - 68,0,N/A,N/A,N/A
+47,Kyle Kuzma,FG_MISS,None,7:07,3,Lakers,Nuggets,56 - 68,0,25,3,Jumper
+48,Nikola Jokic,DEFENSIVE_REBOUND,None,7:03,3,Nuggets,Lakers,56 - 68,1,N/A,N/A,N/A
+49,Paul Millsap,FG_ASSISTED,Nikola Jokic,6:53,3,Nuggets,Lakers,56 - 70,1,7,2,Jumper
+50,Team,Unknown,None,6:53,3,Lakers,Nuggets,56 - 70,0,N/A,N/A,N/A
+51,Tyson Chandler,SUBSTITUTION,Kuzma Kyle,6:53,3,Lakers,Nuggets,56 - 70,0,N/A,N/A,N/A
+52,Michael Beasley,SUBSTITUTION,McGee JaVale,6:53,3,Lakers,Nuggets,56 - 70,0,N/A,N/A,N/A
+53,Michael Beasley,TURNOVER,None,6:36,3,Lakers,Nuggets,56 - 70,0,N/A,N/A,N/A
+54,Juan Hernangomez,FG_ASSISTED,Nikola Jokic,6:15,3,Nuggets,Lakers,56 - 72,1,21,2,Jumper
+55,Michael Beasley,FG_MISS,None,5:57,3,Lakers,Nuggets,56 - 72,0, ,3,Jumper
+56,Torrey Craig,DEFENSIVE_REBOUND,None,5:54,3,Nuggets,Lakers,56 - 72,1,N/A,N/A,N/A
+57,Michael Beasley,FOUL_ON_FLOOR,None,5:50,3,Lakers,Nuggets,56 - 72,0,N/A,N/A,N/A
+58,Nikola Jokic,FG_MISS,None,5:44,3,Nuggets,Lakers,56 - 72,1,25,3,Jumper
+59,Paul Millsap,OFFENSIVE_REBOUND,None,5:42,3,Nuggets,Lakers,56 - 72,1,N/A,N/A,N/A
+60,Nikola Jokic,TURNOVER,None,5:31,3,Nuggets,Lakers,56 - 72,1,N/A,N/A,N/A
+61,Juan Hernangomez,FOUL_ON_FLOOR,None,5:20,3,Nuggets,Lakers,56 - 72,1,N/A,N/A,N/A
+62,Michael Beasley,FT,None,5:20,3,Lakers,Nuggets,57 - 72,0,N/A,1,N/A
+63,Monte Morris,SUBSTITUTION,Murray Jamal,5:20,3,Nuggets,Lakers,57 - 72,1,N/A,N/A,N/A
+64,Malik Beasley,SUBSTITUTION,Hernangomez Juan,5:20,3,Nuggets,Lakers,57 - 72,1,N/A,N/A,N/A
+65,Lance Stephenson,SUBSTITUTION,Ingram Brandon,5:20,3,Lakers,Nuggets,57 - 72,0,N/A,N/A,N/A
+66,Michael Beasley,FT,None,5:20,3,Lakers,Nuggets,58 - 72,0,N/A,1,N/A
+67,Nikola Jokic,FG_MISS,None,5:04,3,Nuggets,Lakers,58 - 72,1,7,2,Jumper
+68,Paul Millsap,OFFENSIVE_REBOUND,None,5:02,3,Nuggets,Lakers,58 - 72,1,N/A,N/A,N/A
+69,Nikola Jokic,FG_MISS,None,4:55,3,Nuggets,Lakers,58 - 72,1,2,2,Jumper
+70,Paul Millsap,OFFENSIVE_REBOUND,None,4:54,3,Nuggets,Lakers,58 - 72,1,N/A,N/A,N/A
+71,Paul Millsap,FG_UNASSISTED,None,4:52,3,Nuggets,Lakers,58 - 74,1,11,2,Jumper
+72,Michael Beasley,FG_UNASSISTED,None,4:31,3,Lakers,Nuggets,60 - 74,0,10,2,Jumper
+73,Nikola Jokic,FG_UNASSISTED,None,4:14,3,Nuggets,Lakers,60 - 76,1,16,2,Jumper
+74,LeBron James,FG_MISS,None,3:59,3,Lakers,Nuggets,60 - 76,0, ,2,Jumper
+75,Nikola Jokic,DEFENSIVE_REBOUND,None,3:56,3,Nuggets,Lakers,60 - 76,1,N/A,N/A,N/A
+76,Lance Stephenson,FOUL_ON_FLOOR,None,3:55,3,Lakers,Nuggets,60 - 76,0,N/A,N/A,N/A
+77,Torrey Craig,FT,None,3:55,3,Nuggets,Lakers,60 - 77,1,N/A,1,N/A
+78,Mason Plumlee,SUBSTITUTION,Jokic Nikola,3:55,3,Nuggets,Lakers,60 - 77,1,N/A,N/A,N/A
+79,Kyle Kuzma,SUBSTITUTION,Beasley Michael,3:55,3,Lakers,Nuggets,60 - 77,0,N/A,N/A,N/A
+80,Kentavious Caldwell-Pope,SUBSTITUTION,James LeBron,3:55,3,Lakers,Nuggets,60 - 77,0,N/A,N/A,N/A
+81,Torrey Craig,FT,None,3:55,3,Nuggets,Lakers,60 - 78,1,N/A,1,N/A
+82,Kyle Kuzma,FG_ASSISTED,Lance Stephenson,3:42,3,Lakers,Nuggets,62 - 78,0,9,2,Jumper
+83,Malik Beasley,FG_UNASSISTED,None,3:26,3,Nuggets,Lakers,62 - 80,1,0,2,Layup
+84,Lance Stephenson,FG_ASSISTED,Josh Hart,3:12,3,Lakers,Nuggets,65 - 80,0,25,3,Jumper
+85,Torrey Craig,FG_MISS,None,2:53,3,Nuggets,Lakers,65 - 80,1,26,3,Jumper
+86,Josh Hart,DEFENSIVE_REBOUND,None,2:52,3,Lakers,Nuggets,65 - 80,0,N/A,N/A,N/A
+87,Kyle Kuzma,FG_MISS,None,2:37,3,Lakers,Nuggets,65 - 80,0,26,3,Jumper
+88,Tyson Chandler,OFFENSIVE_REBOUND,None,2:34,3,Lakers,Nuggets,65 - 80,0,N/A,N/A,N/A
+89,Lance Stephenson,FG_MISS,None,2:32,3,Lakers,Nuggets,65 - 80,0,26,3,Jumper
+90,Mason Plumlee,DEFENSIVE_REBOUND,None,2:28,3,Nuggets,Lakers,65 - 80,1,N/A,N/A,N/A
+91,Kentavious Caldwell-Pope,FOUL_ON_FLOOR,None,2:20,3,Lakers,Nuggets,65 - 80,0,N/A,N/A,N/A
+92,Team,Unknown,None,2:20,3,Nuggets,Lakers,65 - 80,1,N/A,N/A,N/A
+93,Trey Lyles,SUBSTITUTION,Craig Torrey,2:20,3,Nuggets,Lakers,65 - 80,1,N/A,N/A,N/A
+94,Jamal Murray,SUBSTITUTION,Millsap Paul,2:20,3,Nuggets,Lakers,65 - 80,1,N/A,N/A,N/A
+95,Monte Morris,FT_MISS,None,2:20,3,Nuggets,Lakers,65 - 80,1,N/A,1,N/A
+96,Team,OFFENSIVE_REBOUND,None,2:20,3,Nuggets,Lakers,65 - 80,1,N/A,N/A,N/A
+97,Monte Morris,FT,None,2:20,3,Nuggets,Lakers,65 - 81,1,N/A,1,N/A
+98,Lance Stephenson,FG_ASSISTED,Tyson Chandler,2:08,3,Lakers,Nuggets,67 - 81,0,0,2,Layup
+99,Trey Lyles,FG_MISS,None,1:45,3,Nuggets,Lakers,67 - 81,1,26,3,Jumper
+100,Lance Stephenson,DEFENSIVE_REBOUND,None,1:40,3,Lakers,Nuggets,67 - 81,0,N/A,N/A,N/A
+101,Kyle Kuzma,FG_ASSISTED,Josh Hart,1:28,3,Lakers,Nuggets,69 - 81,0,5,2,Jumper
+102,Lance Stephenson,FOUL_ON_FLOOR,None,1:24,3,Lakers,Nuggets,69 - 81,0,N/A,N/A,N/A
+103,Malik Beasley,FT,None,1:24,3,Nuggets,Lakers,69 - 82,1,N/A,1,N/A
+104,Malik Beasley,FT,None,1:24,3,Nuggets,Lakers,69 - 83,1,N/A,1,N/A
+105,Josh Hart,FG_MISS,None,1:11,3,Lakers,Nuggets,69 - 83,0,23,3,Jumper
+106,Team,DEFENSIVE_REBOUND,None,1:09,3,Nuggets,Lakers,69 - 83,1,N/A,N/A,N/A
+107,Josh Hart,FOUL_ON_FLOOR,None,1:02,3,Lakers,Nuggets,69 - 83,0,N/A,N/A,N/A
+108,Monte Morris,FT,None,1:02,3,Nuggets,Lakers,69 - 84,1,N/A,1,N/A
+109,Monte Morris,FT,None,1:02,3,Nuggets,Lakers,69 - 85,1,N/A,1,N/A
+110,Lance Stephenson,TURNOVER,Mason Plumlee,52.9,3,Lakers,Nuggets,69 - 85,0,N/A,N/A,N/A
+111,Lance Stephenson,FOUL_ON_FLOOR,None,49.3,3,Lakers,Nuggets,69 - 85,0,N/A,N/A,N/A
+112,Jamal Murray,FT,None,49.3,3,Nuggets,Lakers,69 - 86,1,N/A,1,N/A
+113,Jamal Murray,FT,None,49.3,3,Nuggets,Lakers,69 - 87,1,N/A,1,N/A
+114,Kyle Kuzma,FG_UNASSISTED,None,27.3,3,Lakers,Nuggets,71 - 87,0,7,2,Jumper
+115,Trey Lyles,FG_MISS,None,2.0,3,Nuggets,Lakers,71 - 87,1, ,2,Jumper
+116,Mason Plumlee,OFFENSIVE_REBOUND,None,1.1,3,Nuggets,Lakers,71 - 87,1,N/A,N/A,N/A
+117,Mason Plumlee,FG_UNASSISTED,None,1.1,3,Nuggets,Lakers,71 - 89,1, ,2,Jumper
+118,Josh Hart,FG_MISS,None,0.1,3,Lakers,Nuggets,71 - 89,0,41,3,Jumper
+119,Team,OFFENSIVE_REBOUND,None,0.1,3,Lakers,Nuggets,71 - 89,0,N/A,N/A,N/A
+120,End of,Unknown,None,0.0,3,Nuggets,Lakers,71 - 89,1,N/A,N/A,N/A
+0,Sviatoslav Mykhailiuk,SUBSTITUTION,Hart Josh,12:00,4,Lakers,Nuggets,71 - 89,0,N/A,N/A,N/A
+1,LeBron James,SUBSTITUTION,Chandler Tyson,12:00,4,Lakers,Nuggets,71 - 89,0,N/A,N/A,N/A
+2,Brandon Ingram,SUBSTITUTION,Stephenson Lance,12:00,4,Lakers,Nuggets,71 - 89,0,N/A,N/A,N/A
+3,Sviatoslav Mykhailiuk,TURNOVER,Monte Morris,11:49,4,Lakers,Nuggets,71 - 89,0,N/A,N/A,N/A
+4,Mason Plumlee,FG_MISS,None,11:37,4,Nuggets,Lakers,71 - 89,1, ,2,Jumper
+5,LeBron James,DEFENSIVE_REBOUND,None,11:35,4,Lakers,Nuggets,71 - 89,0,N/A,N/A,N/A
+6,Mason Plumlee,FOUL_ON_FLOOR,None,11:35,4,Nuggets,Lakers,71 - 89,1,N/A,N/A,N/A
+7,LeBron James,TURNOVER,Malik Beasley,11:29,4,Lakers,Nuggets,71 - 89,0,N/A,N/A,N/A
+8,Trey Lyles,FG_ASSISTED,Jamal Murray,11:22,4,Nuggets,Lakers,71 - 92,1, ,3,Jumper
+9,Kyle Kuzma,FG_UNASSISTED,None,11:02,4,Lakers,Nuggets,73 - 92,0,6,2,Jumper
+10,Malik Beasley,FG_ASSISTED,Monte Morris,10:39,4,Nuggets,Lakers,73 - 94,1,16,2,Jumper
+11,Jamal Murray,FOUL_ON_FLOOR,None,10:28,4,Nuggets,Lakers,73 - 94,1,N/A,N/A,N/A
+12,Brandon Ingram,FT,None,10:28,4,Lakers,Nuggets,74 - 94,0,N/A,1,N/A
+13,Brandon Ingram,FT_MISS,None,10:28,4,Lakers,Nuggets,74 - 94,0,N/A,1,N/A
+14,Malik Beasley,DEFENSIVE_REBOUND,None,10:26,4,Nuggets,Lakers,74 - 94,1,N/A,N/A,N/A
+15,Monte Morris,FG_UNASSISTED,None,10:15,4,Nuggets,Lakers,74 - 96,1,2,2,Jumper
+16,Brandon Ingram,TURNOVER,None,10:01,4,Lakers,Nuggets,74 - 96,0,N/A,N/A,N/A
+17,Brandon Ingram,TURNOVER,None,10:01,4,Lakers,Nuggets,74 - 96,0,N/A,N/A,N/A
+18,Trey Lyles,FG_MISS,None,9:39,4,Nuggets,Lakers,74 - 96,1, ,3,Jumper
+19,Team,DEFENSIVE_REBOUND,None,9:38,4,Lakers,Nuggets,74 - 96,0,N/A,N/A,N/A
+20,Mason Plumlee,FOUL_ON_FLOOR,None,9:32,4,Nuggets,Lakers,74 - 96,1,N/A,N/A,N/A
+21,LeBron James,FT,None,9:32,4,Lakers,Nuggets,75 - 96,0,N/A,1,N/A
+22,LeBron James,FT,None,9:32,4,Lakers,Nuggets,76 - 96,0,N/A,1,N/A
+23,Trey Lyles,FG_MISS,None,9:22,4,Nuggets,Lakers,76 - 96,1,24,3,Jumper
+24,Mason Plumlee,OFFENSIVE_REBOUND,None,9:19,4,Nuggets,Lakers,76 - 96,1,N/A,N/A,N/A
+25,Jamal Murray,FG_ASSISTED,Monte Morris,9:17,4,Nuggets,Lakers,76 - 99,1,25,3,Jumper
+26,Kyle Kuzma,FG_MISS,None,8:56,4,Lakers,Nuggets,76 - 99,0,26,3,Jumper
+27,Jamal Murray,DEFENSIVE_REBOUND,None,8:54,4,Nuggets,Lakers,76 - 99,1,N/A,N/A,N/A
+28,Trey Lyles,FOUL_ON_FLOOR,None,8:41,4,Nuggets,Lakers,76 - 99,1,N/A,N/A,N/A
+29,Trey Lyles,TURNOVER,None,8:41,4,Nuggets,Lakers,76 - 99,1,N/A,N/A,N/A
+30,Kyle Kuzma,FG_ASSISTED,Sviatoslav Mykhailiuk,8:26,4,Lakers,Nuggets,78 - 99,0,6,2,Jumper
+31,Malik Beasley,FG_ASSISTED,Monte Morris,8:08,4,Nuggets,Lakers,78 - 102,1,23,3,Jumper
+32,Sviatoslav Mykhailiuk,FG_MISS,None,7:55,4,Lakers,Nuggets,78 - 102,0,23,2,Jumper
+33,Trey Lyles,DEFENSIVE_REBOUND,None,7:51,4,Nuggets,Lakers,78 - 102,1,N/A,N/A,N/A
+34,Trey Lyles,FG_UNASSISTED,None,7:29,4,Nuggets,Lakers,78 - 104,1,11,2,Jumper
+35,Team,Unknown,None,7:29,4,Lakers,Nuggets,78 - 104,0,N/A,N/A,N/A
+36,Josh Hart,SUBSTITUTION,Kuzma Kyle,7:29,4,Lakers,Nuggets,78 - 104,0,N/A,N/A,N/A
+37,Lance Stephenson,SUBSTITUTION,Caldwell-Pope Kentavious,7:29,4,Lakers,Nuggets,78 - 104,0,N/A,N/A,N/A
+38,Ivica Zubac,SUBSTITUTION,James LeBron,7:29,4,Lakers,Nuggets,78 - 104,0,N/A,N/A,N/A
+39,Michael Beasley,SUBSTITUTION,Ingram Brandon,7:29,4,Lakers,Nuggets,78 - 104,0,N/A,N/A,N/A
+40,Sviatoslav Mykhailiuk,FG_MISS,None,7:16,4,Lakers,Nuggets,78 - 104,0,23,3,Jumper
+41,Mason Plumlee,DEFENSIVE_REBOUND,None,7:11,4,Nuggets,Lakers,78 - 104,1,N/A,N/A,N/A
+42,Trey Lyles,FG_MISS,None,6:57,4,Nuggets,Lakers,78 - 104,1,5,2,Jumper
+43,Sviatoslav Mykhailiuk,DEFENSIVE_REBOUND,None,6:53,4,Lakers,Nuggets,78 - 104,0,N/A,N/A,N/A
+44,Josh Hart,FG_MISS,None,6:49,4,Lakers,Nuggets,78 - 104,0,23,3,Jumper
+45,Ivica Zubac,OFFENSIVE_REBOUND,None,6:45,4,Lakers,Nuggets,78 - 104,0,N/A,N/A,N/A
+46,Ivica Zubac,FG_MISS,None,6:42,4,Lakers,Nuggets,78 - 104,0,5,2,Jumper
+47,Josh Hart,OFFENSIVE_REBOUND,None,6:38,4,Lakers,Nuggets,78 - 104,0,N/A,N/A,N/A
+48,Josh Hart,FG_UNASSISTED,None,6:38,4,Lakers,Nuggets,80 - 104,0,1,2,Jumper
+49,Monte Morris,FG_MISS,None,6:25,4,Nuggets,Lakers,80 - 104,1,20,2,Jumper
+50,Sviatoslav Mykhailiuk,DEFENSIVE_REBOUND,None,6:21,4,Lakers,Nuggets,80 - 104,0,N/A,N/A,N/A
+51,Michael Beasley,FG_MISS,None,6:11,4,Lakers,Nuggets,80 - 104,0,10,2,Jumper
+52,Trey Lyles,DEFENSIVE_REBOUND,None,6:09,4,Nuggets,Lakers,80 - 104,1,N/A,N/A,N/A
+53,Malik Beasley,FG_MISS,None,6:01,4,Nuggets,Lakers,80 - 104,1,25,3,Jumper
+54,Lance Stephenson,DEFENSIVE_REBOUND,None,5:58,4,Lakers,Nuggets,80 - 104,0,N/A,N/A,N/A
+55,Lance Stephenson,FG_MISS,None,5:51,4,Lakers,Nuggets,80 - 104,0,0,2,Layup
+56,Mason Plumlee,DEFENSIVE_REBOUND,None,5:49,4,Nuggets,Lakers,80 - 104,1,N/A,N/A,N/A
+57,Monte Morris,FG_MISS,None,5:45,4,Nuggets,Lakers,80 - 104,1,22,3,Jumper
+58,Ivica Zubac,DEFENSIVE_REBOUND,None,5:42,4,Lakers,Nuggets,80 - 104,0,N/A,N/A,N/A
+59,Sviatoslav Mykhailiuk,FG_MISS,None,5:31,4,Lakers,Nuggets,80 - 104,0,17,2,Jumper
+60,Monte Morris,DEFENSIVE_REBOUND,None,5:30,4,Nuggets,Lakers,80 - 104,1,N/A,N/A,N/A
+61,Trey Lyles,FG_MISS,None,5:19,4,Nuggets,Lakers,80 - 104,1,0,2,Layup
+62,Mason Plumlee,OFFENSIVE_REBOUND,None,5:17,4,Nuggets,Lakers,80 - 104,1,N/A,N/A,N/A
+63,Mason Plumlee,FG_UNASSISTED,None,5:17,4,Nuggets,Lakers,80 - 106,1,0,2,Dunk
+64,Team,Unknown,None,5:17,4,Lakers,Nuggets,80 - 106,0,N/A,N/A,N/A
+65,Torrey Craig,SUBSTITUTION,Murray Jamal,5:17,4,Nuggets,Lakers,80 - 106,1,N/A,N/A,N/A
+66,Kentavious Caldwell-Pope,SUBSTITUTION,Stephenson Lance,5:17,4,Lakers,Nuggets,80 - 106,0,N/A,N/A,N/A
+67,Michael Beasley,FG_MISS,None,4:59,4,Lakers,Nuggets,80 - 106,0,1,2,Jumper
+68,Trey Lyles,DEFENSIVE_REBOUND,None,4:56,4,Nuggets,Lakers,80 - 106,1,N/A,N/A,N/A
+69,Mason Plumlee,FOUL_ON_FLOOR,None,4:42,4,Nuggets,Lakers,80 - 106,1,N/A,N/A,N/A
+70,Mason Plumlee,TURNOVER,None,4:42,4,Nuggets,Lakers,80 - 106,1,N/A,N/A,N/A
+71,Tyler Lydon,SUBSTITUTION,Plumlee Mason,4:42,4,Nuggets,Lakers,80 - 106,1,N/A,N/A,N/A
+72,Ivica Zubac,FG_MISS,None,4:22,4,Lakers,Nuggets,80 - 106,0,5,2,Jumper
+73,Michael Beasley,OFFENSIVE_REBOUND,None,4:21,4,Lakers,Nuggets,80 - 106,0,N/A,N/A,N/A
+74,Michael Beasley,FG_MISS,None,4:21,4,Lakers,Nuggets,80 - 106,0,1,2,Jumper
+75,Trey Lyles,DEFENSIVE_REBOUND,None,4:21,4,Nuggets,Lakers,80 - 106,1,N/A,N/A,N/A
+76,Moritz Wagner,SUBSTITUTION,Beasley Michael,4:07,4,Lakers,Nuggets,80 - 106,0,N/A,N/A,N/A
+77,Tyler Lydon,FG_ASSISTED,Monte Morris,4:05,4,Nuggets,Lakers,80 - 108,1,0,2,Dunk
+78,Sviatoslav Mykhailiuk,FG_ASSISTED,Josh Hart,3:47,4,Lakers,Nuggets,83 - 108,0,23,3,Jumper
+79,Torrey Craig,FG_MISS,None,3:28,4,Nuggets,Lakers,83 - 108,1,0,2,Layup
+80,Moritz Wagner,DEFENSIVE_REBOUND,None,3:24,4,Lakers,Nuggets,83 - 108,0,N/A,N/A,N/A
+81,Sviatoslav Mykhailiuk,FG_MISS,None,3:21,4,Lakers,Nuggets,83 - 108,0,23,3,Jumper
+82,Monte Morris,DEFENSIVE_REBOUND,None,3:18,4,Nuggets,Lakers,83 - 108,1,N/A,N/A,N/A
+83,Trey Lyles,FG_MISS,None,3:06,4,Nuggets,Lakers,83 - 108,1,10,2,Jumper
+84,Kentavious Caldwell-Pope,DEFENSIVE_REBOUND,None,3:04,4,Lakers,Nuggets,83 - 108,0,N/A,N/A,N/A
+85,Torrey Craig,FOUL_ON_FLOOR,None,2:59,4,Nuggets,Lakers,83 - 108,1,N/A,N/A,N/A
+86,DeVaughn Akoon-Purcell,SUBSTITUTION,Morris Monte,2:59,4,Nuggets,Lakers,83 - 108,1,N/A,N/A,N/A
+87,Sviatoslav Mykhailiuk,TURNOVER,DeVaughn Akoon-Purcell,2:54,4,Lakers,Nuggets,83 - 108,0,N/A,N/A,N/A
+88,Malik Beasley,FG_ASSISTED,DeVaughn Akoon-Purcell,2:49,4,Nuggets,Lakers,83 - 110,1,0,2,Dunk
+89,Ivica Zubac,TURNOVER,None,2:26,4,Lakers,Nuggets,83 - 110,0,N/A,N/A,N/A
+90,Tyler Lydon,FG_ASSISTED,DeVaughn Akoon-Purcell,2:14,4,Nuggets,Lakers,83 - 113,1,25,3,Jumper
+91,Sviatoslav Mykhailiuk,FG_MISS,None,1:59,4,Lakers,Nuggets,83 - 113,0,26,3,Jumper
+92,Torrey Craig,DEFENSIVE_REBOUND,None,1:57,4,Nuggets,Lakers,83 - 113,1,N/A,N/A,N/A
+93,DeVaughn Akoon-Purcell,FG_MISS,Ivica Zubac,1:46,4,Lakers,Nuggets,83 - 113,1,0,2,Layup
+94,Team,OFFENSIVE_REBOUND,None,1:46,4,Nuggets,Lakers,83 - 113,1,N/A,N/A,N/A
+95,Tyler Lydon,FOUL_ON_FLOOR,None,1:39,4,Nuggets,Lakers,83 - 113,1,N/A,N/A,N/A
+96,Tyler Lydon,TURNOVER,None,1:39,4,Nuggets,Lakers,83 - 113,1,N/A,N/A,N/A
+97,Moritz Wagner,FG_MISS,None,1:28,4,Lakers,Nuggets,83 - 113,0,25,3,Jumper
+98,DeVaughn Akoon-Purcell,DEFENSIVE_REBOUND,None,1:25,4,Nuggets,Lakers,83 - 113,1,N/A,N/A,N/A
+99,DeVaughn Akoon-Purcell,FG_UNASSISTED,None,1:19,4,Nuggets,Lakers,83 - 115,1,3,2,Jumper
+100,Josh Hart,FG_ASSISTED,Moritz Wagner,1:10,4,Lakers,Nuggets,85 - 115,0,0,2,Dunk
+101,Malik Beasley,FG_ASSISTED,DeVaughn Akoon-Purcell,50.9,4,Nuggets,Lakers,85 - 117,1,7,2,Jumper
+102,Josh Hart,FG_MISS,None,36.3,4,Lakers,Nuggets,85 - 117,0,26,3,Jumper
+103,Trey Lyles,DEFENSIVE_REBOUND,None,31.2,4,Nuggets,Lakers,85 - 117,1,N/A,N/A,N/A
+104,shot clock,TURNOVER,None,9.4,4,Nuggets,Lakers,85 - 117,1,N/A,N/A,N/A
+105,Kentavious Caldwell-Pope,FG_MISS,None,0.1,4,Lakers,Nuggets,85 - 117,0,27,3,Jumper
+106,Team,OFFENSIVE_REBOUND,None,0.1,4,Lakers,Nuggets,85 - 117,0,N/A,N/A,N/A
+107,End of,Unknown,None,0.0,4,Nuggets,Lakers,85 - 117,1,N/A,N/A,N/A
+108,End of,Unknown,None,0.0,4,Nuggets,Lakers,85 - 117,1,N/A,N/A,N/A

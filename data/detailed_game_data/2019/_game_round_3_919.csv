@@ -1,0 +1,498 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Karl-Anthony Towns,JUMP_BALL,None,12:00,1,Timberwolves,Jazz,0 - 0,0,N/A,N/A,N/A
+1,Karl-Anthony Towns,FG_MISS,None,11:46,1,Timberwolves,Jazz,0 - 0,0,25,3,Jumper
+2,Rudy Gobert,DEFENSIVE_REBOUND,None,11:42,1,Jazz,Timberwolves,0 - 0,1,N/A,N/A,N/A
+3,Ricky Rubio,FG_MISS,None,11:28,1,Jazz,Timberwolves,0 - 0,1,0,2,Layup
+4,Karl-Anthony Towns,DEFENSIVE_REBOUND,None,11:26,1,Timberwolves,Jazz,0 - 0,0,N/A,N/A,N/A
+5,Karl-Anthony Towns,FG_UNASSISTED,None,11:04,1,Timberwolves,Jazz,2 - 0,0,9,2,Jumper
+6,Taj Gibson,FOUL_TECHNICAL,None,10:51,1,Timberwolves,Jazz,2 - 0,0,N/A,N/A,N/A
+7,Ricky Rubio,FT,None,10:51,1,Jazz,Timberwolves,2 - 1,1,N/A,1,N/A
+8,Joe Ingles,FG_MISS,None,10:44,1,Jazz,Timberwolves,2 - 1,1,0,2,Layup
+9,Karl-Anthony Towns,DEFENSIVE_REBOUND,None,10:42,1,Timberwolves,Jazz,2 - 1,0,N/A,N/A,N/A
+10,Jerryd Bayless,TURNOVER,Donovan Mitchell,10:28,1,Timberwolves,Jazz,2 - 1,0,N/A,N/A,N/A
+11,Derrick Favors,FG_MISS,None,10:17,1,Jazz,Timberwolves,2 - 1,1,24,3,Jumper
+12,Taj Gibson,DEFENSIVE_REBOUND,None,10:13,1,Timberwolves,Jazz,2 - 1,0,N/A,N/A,N/A
+13,Taj Gibson,FG_UNASSISTED,None,10:04,1,Timberwolves,Jazz,4 - 1,0,13,2,Jumper
+14,Donovan Mitchell,FG_MISS,None,9:51,1,Jazz,Timberwolves,4 - 1,1,-,2,Jumper
+15,Taj Gibson,DEFENSIVE_REBOUND,None,9:45,1,Timberwolves,Jazz,4 - 1,0,N/A,N/A,N/A
+16,Jerryd Bayless,FG_UNASSISTED,None,9:42,1,Timberwolves,Jazz,6 - 1,0,-,2,Jumper
+17,Joe Ingles,FG_MISS,None,9:19,1,Jazz,Timberwolves,6 - 1,1,26,3,Jumper
+18,Jerryd Bayless,DEFENSIVE_REBOUND,None,9:16,1,Timberwolves,Jazz,6 - 1,0,N/A,N/A,N/A
+19,Andrew Wiggins,FG_MISS,None,9:04,1,Timberwolves,Jazz,6 - 1,0,21,2,Jumper
+20,Team,DEFENSIVE_REBOUND,None,9:01,1,Jazz,Timberwolves,6 - 1,1,N/A,N/A,N/A
+21,Karl-Anthony Towns,FOUL_ON_FLOOR,None,9:01,1,Timberwolves,Jazz,6 - 1,0,N/A,N/A,N/A
+22,Rudy Gobert,FG_ASSISTED,Ricky Rubio,8:51,1,Jazz,Timberwolves,6 - 3,1,0,2,Layup
+23,Taj Gibson,FG_UNASSISTED,None,8:25,1,Timberwolves,Jazz,8 - 3,0,18,2,Jumper
+24,Donovan Mitchell,FG_ASSISTED,Rudy Gobert,7:59,1,Jazz,Timberwolves,8 - 6,1,25,3,Jumper
+25,Joe Ingles,FOUL_ON_FLOOR,None,7:53,1,Jazz,Timberwolves,8 - 6,1,N/A,N/A,N/A
+26,Karl-Anthony Towns,FOUL_ON_FLOOR,None,7:51,1,Timberwolves,Jazz,8 - 6,0,N/A,N/A,N/A
+27,Karl-Anthony Towns,TURNOVER,None,7:51,1,Timberwolves,Jazz,8 - 6,0,N/A,N/A,N/A
+28,Gorgui Dieng,SUBSTITUTION,Towns Karl-Anthony,7:51,1,Timberwolves,Jazz,8 - 6,0,N/A,N/A,N/A
+29,Taj Gibson,FOUL_ON_FLOOR,None,7:43,1,Timberwolves,Jazz,8 - 6,0,N/A,N/A,N/A
+30,Derrick Favors,FT,None,7:43,1,Jazz,Timberwolves,8 - 7,1,N/A,1,N/A
+31,Derrick Favors,FT,None,7:43,1,Jazz,Timberwolves,8 - 8,1,N/A,1,N/A
+32,Jerryd Bayless,FG_ASSISTED,Gorgui Dieng,7:34,1,Timberwolves,Jazz,11 - 8,0,25,3,Jumper
+33,Rudy Gobert,FG_MISS,None,7:11,1,Jazz,Timberwolves,11 - 8,1,0,2,Layup
+34,Taj Gibson,DEFENSIVE_REBOUND,None,7:09,1,Timberwolves,Jazz,11 - 8,0,N/A,N/A,N/A
+35,Andrew Wiggins,FG_UNASSISTED,None,6:51,1,Timberwolves,Jazz,14 - 8,0,25,3,Jumper
+36,Team,Unknown,None,6:48,1,Jazz,Timberwolves,14 - 8,1,N/A,N/A,N/A
+37,Royce O'Neale,SUBSTITUTION,Ingles Joe,6:48,1,Jazz,Timberwolves,14 - 8,1,N/A,N/A,N/A
+38,Jae Crowder,SUBSTITUTION,Rubio Ricky,6:48,1,Jazz,Timberwolves,14 - 8,1,N/A,N/A,N/A
+39,Kyle Korver,SUBSTITUTION,Favors Derrick,6:48,1,Jazz,Timberwolves,14 - 8,1,N/A,N/A,N/A
+40,Donovan Mitchell,FG_MISS,None,6:39,1,Jazz,Timberwolves,14 - 8,1,26,2,Jumper
+41,Rudy Gobert,OFFENSIVE_REBOUND,None,6:34,1,Jazz,Timberwolves,14 - 8,1,N/A,N/A,N/A
+42,Rudy Gobert,FG_UNASSISTED,None,6:34,1,Jazz,Timberwolves,14 - 10,1,0,2,Dunk
+43,Gorgui Dieng,FG_ASSISTED,Andrew Wiggins,6:17,1,Timberwolves,Jazz,16 - 10,0,13,2,Jumper
+44,Jae Crowder,FG_MISS,None,6:00,1,Jazz,Timberwolves,16 - 10,1,26,3,Jumper
+45,Jerryd Bayless,DEFENSIVE_REBOUND,None,5:56,1,Timberwolves,Jazz,16 - 10,0,N/A,N/A,N/A
+46,Jerryd Bayless,FG_MISS,None,5:51,1,Timberwolves,Jazz,16 - 10,0,25,3,Jumper
+47,Kyle Korver,DEFENSIVE_REBOUND,None,5:48,1,Jazz,Timberwolves,16 - 10,1,N/A,N/A,N/A
+48,Josh Okogie,FOUL_ON_FLOOR,None,5:42,1,Timberwolves,Jazz,16 - 10,0,N/A,N/A,N/A
+49,Luol Deng,SUBSTITUTION,Wiggins Andrew,5:42,1,Timberwolves,Jazz,16 - 10,0,N/A,N/A,N/A
+50,Dario Saric,SUBSTITUTION,Gibson Taj,5:42,1,Timberwolves,Jazz,16 - 10,0,N/A,N/A,N/A
+51,Donovan Mitchell,FG_UNASSISTED,None,5:36,1,Jazz,Timberwolves,16 - 12,1,0,2,Layup
+52,Dario Saric,FOUL_ON_FLOOR,None,5:36,1,Timberwolves,Jazz,16 - 12,0,N/A,N/A,N/A
+53,Donovan Mitchell,FT,None,5:36,1,Jazz,Timberwolves,16 - 13,1,N/A,1,N/A
+54,Gorgui Dieng,FG_ASSISTED,Jerryd Bayless,5:20,1,Timberwolves,Jazz,18 - 13,0,20,2,Jumper
+55,Kyle Korver,FG_ASSISTED,Donovan Mitchell,5:08,1,Jazz,Timberwolves,18 - 16,1,25,3,Jumper
+56,Jared Terrell,SUBSTITUTION,Okogie Josh,4:55,1,Timberwolves,Jazz,18 - 16,0,N/A,N/A,N/A
+57,Dario Saric,FG_MISS,None,4:48,1,Timberwolves,Jazz,18 - 16,0, ,2,Jumper
+58,Gorgui Dieng,OFFENSIVE_REBOUND,None,4:44,1,Timberwolves,Jazz,18 - 16,0,N/A,N/A,N/A
+59,shot clock,TURNOVER,None,4:31,1,Timberwolves,Jazz,18 - 16,0,N/A,N/A,N/A
+60,Jae Crowder,FG_MISS,None,4:19,1,Jazz,Timberwolves,18 - 16,1,25,2,Jumper
+61,Jerryd Bayless,DEFENSIVE_REBOUND,None,4:17,1,Timberwolves,Jazz,18 - 16,0,N/A,N/A,N/A
+62,Jerryd Bayless,FG_MISS,None,4:04,1,Timberwolves,Jazz,18 - 16,0,0,2,Layup
+63,Gorgui Dieng,OFFENSIVE_REBOUND,None,4:00,1,Timberwolves,Jazz,18 - 16,0,N/A,N/A,N/A
+64,Gorgui Dieng,FG_UNASSISTED,None,4:00,1,Timberwolves,Jazz,20 - 16,0, ,2,Jumper
+65,Donovan Mitchell,FG_UNASSISTED,None,3:50,1,Jazz,Timberwolves,20 - 18,1,10,2,Jumper
+66,Gorgui Dieng,FG_MISS,None,3:30,1,Timberwolves,Jazz,20 - 18,0,22,3,Jumper
+67,Donovan Mitchell,DEFENSIVE_REBOUND,None,3:27,1,Jazz,Timberwolves,20 - 18,1,N/A,N/A,N/A
+68,Royce O'Neale,FG_ASSISTED,Jae Crowder,3:23,1,Jazz,Timberwolves,20 - 20,1,0,2,Layup
+69,Team,Unknown,None,3:22,1,Timberwolves,Jazz,20 - 20,0,N/A,N/A,N/A
+70,Dario Saric,FG_MISS,None,3:05,1,Timberwolves,Jazz,20 - 20,0,27,3,Jumper
+71,Luol Deng,OFFENSIVE_REBOUND,None,3:01,1,Timberwolves,Jazz,20 - 20,0,N/A,N/A,N/A
+72,Gorgui Dieng,FG_ASSISTED,Luol Deng,2:59,1,Timberwolves,Jazz,22 - 20,0, ,2,Jumper
+73,Kyle Korver,FG_MISS,None,2:44,1,Jazz,Timberwolves,22 - 20,1,25,3,Jumper
+74,Luol Deng,DEFENSIVE_REBOUND,None,2:41,1,Timberwolves,Jazz,22 - 20,0,N/A,N/A,N/A
+75,Jared Terrell,TURNOVER,Rudy Gobert,2:30,1,Timberwolves,Jazz,22 - 20,0,N/A,N/A,N/A
+76,Donovan Mitchell,FG_ASSISTED,Kyle Korver,2:25,1,Jazz,Timberwolves,22 - 23,1,28,3,Jumper
+77,Jerryd Bayless,FG_MISS,None,2:10,1,Timberwolves,Jazz,22 - 23,0,22,2,Jumper
+78,Rudy Gobert,DEFENSIVE_REBOUND,None,2:07,1,Jazz,Timberwolves,22 - 23,1,N/A,N/A,N/A
+79,Jae Crowder,FG_ASSISTED,Donovan Mitchell,1:55,1,Jazz,Timberwolves,22 - 26,1,23,3,Jumper
+80,Jerryd Bayless,FG_MISS,None,1:30,1,Timberwolves,Jazz,22 - 26,0,19,2,Jumper
+81,Rudy Gobert,DEFENSIVE_REBOUND,None,1:27,1,Jazz,Timberwolves,22 - 26,1,N/A,N/A,N/A
+82,Jae Crowder,TURNOVER,None,1:25,1,Jazz,Timberwolves,22 - 26,1,N/A,N/A,N/A
+83,Derrick Favors,SUBSTITUTION,O'Neale Royce,1:25,1,Jazz,Timberwolves,22 - 26,1,N/A,N/A,N/A
+84,Ricky Rubio,SUBSTITUTION,Gobert Rudy,1:25,1,Jazz,Timberwolves,22 - 26,1,N/A,N/A,N/A
+85,Joe Ingles,SUBSTITUTION,Mitchell Donovan,1:25,1,Jazz,Timberwolves,22 - 26,1,N/A,N/A,N/A
+86,Andrew Wiggins,SUBSTITUTION,Bayless Jerryd,1:25,1,Timberwolves,Jazz,22 - 26,0,N/A,N/A,N/A
+87,Derrick Favors,FOUL_ON_FLOOR,None,1:18,1,Jazz,Timberwolves,22 - 26,1,N/A,N/A,N/A
+88,Andrew Wiggins,FT,None,1:18,1,Timberwolves,Jazz,23 - 26,0,N/A,1,N/A
+89,Andrew Wiggins,FT,None,1:18,1,Timberwolves,Jazz,24 - 26,0,N/A,1,N/A
+90,Kyle Korver,FG_ASSISTED,Ricky Rubio,1:07,1,Jazz,Timberwolves,24 - 28,1,23,2,Jumper
+91,Jared Terrell,FG_MISS,None,47.3,1,Timberwolves,Jazz,24 - 28,0,26,3,Jumper
+92,Dario Saric,OFFENSIVE_REBOUND,None,43.8,1,Timberwolves,Jazz,24 - 28,0,N/A,N/A,N/A
+93,Dario Saric,FG_MISS,None,42.7,1,Timberwolves,Jazz,24 - 28,0,2,2,Jumper
+94,Team,DEFENSIVE_REBOUND,None,42.7,1,Jazz,Timberwolves,24 - 28,1,N/A,N/A,N/A
+95,Jared Terrell,FOUL_ON_FLOOR,None,37.2,1,Timberwolves,Jazz,24 - 28,0,N/A,N/A,N/A
+96,Ricky Rubio,FT_MISS,None,37.2,1,Jazz,Timberwolves,24 - 28,1,N/A,1,N/A
+97,Team,OFFENSIVE_REBOUND,None,37.2,1,Jazz,Timberwolves,24 - 28,1,N/A,N/A,N/A
+98,Ricky Rubio,FT,None,37.2,1,Jazz,Timberwolves,24 - 29,1,N/A,1,N/A
+99,Jared Terrell,FG_MISS,None,30.7,1,Timberwolves,Jazz,24 - 29,0, ,2,Jumper
+100,Kyle Korver,DEFENSIVE_REBOUND,None,27.5,1,Jazz,Timberwolves,24 - 29,1,N/A,N/A,N/A
+101,Derrick Favors,FG_ASSISTED,Joe Ingles,6.8,1,Jazz,Timberwolves,24 - 31,1,0,2,Layup
+102,Andrew Wiggins,TURNOVER,Joe Ingles,0.5,1,Timberwolves,Jazz,24 - 31,0,N/A,N/A,N/A
+103,End of,Unknown,None,0.0,1,Jazz,Timberwolves,24 - 31,1,N/A,N/A,N/A
+0,Josh Okogie,SUBSTITUTION,Dieng Gorgui,12:00,2,Timberwolves,Jazz,24 - 31,0,N/A,N/A,N/A
+1,Karl-Anthony Towns,SUBSTITUTION,Deng Luol,12:00,2,Timberwolves,Jazz,24 - 31,0,N/A,N/A,N/A
+2,Jae Crowder,TURNOVER,None,11:48,2,Jazz,Timberwolves,24 - 31,1,N/A,N/A,N/A
+3,Andrew Wiggins,FG_MISS,None,11:40,2,Timberwolves,Jazz,24 - 31,0,26,3,Jumper
+4,Kyle Korver,DEFENSIVE_REBOUND,None,11:37,2,Jazz,Timberwolves,24 - 31,1,N/A,N/A,N/A
+5,Derrick Favors,FG_ASSISTED,Joe Ingles,11:29,2,Jazz,Timberwolves,24 - 33,1,2,2,Jumper
+6,Andrew Wiggins,FG_MISS,None,11:16,2,Timberwolves,Jazz,24 - 33,0,0,2,Layup
+7,Derrick Favors,DEFENSIVE_REBOUND,None,11:14,2,Jazz,Timberwolves,24 - 33,1,N/A,N/A,N/A
+8,Ricky Rubio,FG_MISS,None,11:01,2,Jazz,Timberwolves,24 - 33,1, ,2,Jumper
+9,Karl-Anthony Towns,DEFENSIVE_REBOUND,None,10:59,2,Timberwolves,Jazz,24 - 33,0,N/A,N/A,N/A
+10,Andrew Wiggins,FG_MISS,None,10:38,2,Timberwolves,Jazz,24 - 33,0,15,2,Jumper
+11,Team,OFFENSIVE_REBOUND,None,10:36,2,Timberwolves,Jazz,24 - 33,0,N/A,N/A,N/A
+12,Jae Crowder,FOUL_ON_FLOOR,None,10:36,2,Jazz,Timberwolves,24 - 33,1,N/A,N/A,N/A
+13,Josh Okogie,TURNOVER,Jae Crowder,10:35,2,Timberwolves,Jazz,24 - 33,0,N/A,N/A,N/A
+14,Jae Crowder,TURNOVER,None,10:33,2,Jazz,Timberwolves,24 - 33,1,N/A,N/A,N/A
+15,Karl-Anthony Towns,FG_ASSISTED,Jared Terrell,10:16,2,Timberwolves,Jazz,26 - 33,0,0,2,Layup
+16,Kyle Korver,TURNOVER,Josh Okogie,9:59,2,Jazz,Timberwolves,26 - 33,1,N/A,N/A,N/A
+17,Karl-Anthony Towns,TURNOVER,Ricky Rubio,9:57,2,Timberwolves,Jazz,26 - 33,0,N/A,N/A,N/A
+18,Karl-Anthony Towns,FOUL_ON_FLOOR,None,9:57,2,Timberwolves,Jazz,26 - 33,0,N/A,N/A,N/A
+19,Royce O'Neale,SUBSTITUTION,Korver Kyle,9:57,2,Jazz,Timberwolves,26 - 33,1,N/A,N/A,N/A
+20,Taj Gibson,SUBSTITUTION,Towns Karl-Anthony,9:57,2,Timberwolves,Jazz,26 - 33,0,N/A,N/A,N/A
+21,Derrick Favors,FG_MISS,None,9:48,2,Jazz,Timberwolves,26 - 33,1, ,2,Jumper
+22,Ricky Rubio,OFFENSIVE_REBOUND,None,9:45,2,Jazz,Timberwolves,26 - 33,1,N/A,N/A,N/A
+23,Joe Ingles,FG_MISS,None,9:44,2,Jazz,Timberwolves,26 - 33,1,27,3,Jumper
+24,Jae Crowder,OFFENSIVE_REBOUND,None,9:41,2,Jazz,Timberwolves,26 - 33,1,N/A,N/A,N/A
+25,Ricky Rubio,FG_MISS,None,9:37,2,Jazz,Timberwolves,26 - 33,1,0,2,Layup
+26,Andrew Wiggins,DEFENSIVE_REBOUND,None,9:34,2,Timberwolves,Jazz,26 - 33,0,N/A,N/A,N/A
+27,Andrew Wiggins,FG_UNASSISTED,None,9:32,2,Timberwolves,Jazz,28 - 33,0,0,2,Layup
+28,Joe Ingles,FOUL_ON_FLOOR,None,9:32,2,Jazz,Timberwolves,28 - 33,1,N/A,N/A,N/A
+29,Georges Niang,SUBSTITUTION,Crowder Jae,9:32,2,Jazz,Timberwolves,28 - 33,1,N/A,N/A,N/A
+30,Andrew Wiggins,FT,None,9:32,2,Timberwolves,Jazz,29 - 33,0,N/A,1,N/A
+31,Joe Ingles,FG_MISS,None,9:21,2,Jazz,Timberwolves,29 - 33,1,25,3,Jumper
+32,Andrew Wiggins,DEFENSIVE_REBOUND,None,9:18,2,Timberwolves,Jazz,29 - 33,0,N/A,N/A,N/A
+33,Georges Niang,FOUL_ON_FLOOR,None,9:08,2,Jazz,Timberwolves,29 - 33,1,N/A,N/A,N/A
+34,Donovan Mitchell,SUBSTITUTION,Rubio Ricky,9:08,2,Jazz,Timberwolves,29 - 33,1,N/A,N/A,N/A
+35,Jerryd Bayless,SUBSTITUTION,Terrell Jared,9:08,2,Timberwolves,Jazz,29 - 33,0,N/A,N/A,N/A
+36,Dario Saric,FG_MISS,None,8:54,2,Timberwolves,Jazz,29 - 33,0,7,2,Jumper
+37,Georges Niang,DEFENSIVE_REBOUND,None,8:52,2,Jazz,Timberwolves,29 - 33,1,N/A,N/A,N/A
+38,Donovan Mitchell,FG_UNASSISTED,None,8:44,2,Jazz,Timberwolves,29 - 35,1,3,2,Jumper
+39,Georges Niang,Unknown,None,8:26,2,Jazz,Timberwolves,29 - 35,1,N/A,N/A,N/A
+40,Kyle Korver,SUBSTITUTION,Ingles Joe,8:26,2,Jazz,Timberwolves,29 - 35,1,N/A,N/A,N/A
+41,Taj Gibson,FG_MISS,None,8:16,2,Timberwolves,Jazz,29 - 35,0,9,2,Jumper
+42,Derrick Favors,DEFENSIVE_REBOUND,None,8:13,2,Jazz,Timberwolves,29 - 35,1,N/A,N/A,N/A
+43,Derrick Favors,FG_ASSISTED,Donovan Mitchell,8:05,2,Jazz,Timberwolves,29 - 37,1,0,2,Dunk
+44,Team,Unknown,None,8:04,2,Timberwolves,Jazz,29 - 37,0,N/A,N/A,N/A
+45,Anthony Tolliver,SUBSTITUTION,Saric Dario,8:04,2,Timberwolves,Jazz,29 - 37,0,N/A,N/A,N/A
+46,Andrew Wiggins,FG_MISS,None,7:53,2,Timberwolves,Jazz,29 - 37,0,0,2,Layup
+47,Kyle Korver,DEFENSIVE_REBOUND,None,7:50,2,Jazz,Timberwolves,29 - 37,1,N/A,N/A,N/A
+48,Georges Niang,FG_ASSISTED,Donovan Mitchell,7:42,2,Jazz,Timberwolves,29 - 40,1,24,3,Jumper
+49,Josh Okogie,FG_UNASSISTED,None,7:26,2,Timberwolves,Jazz,31 - 40,0,16,2,Jumper
+50,Kyle Korver,FOUL_ON_FLOOR,None,7:26,2,Jazz,Timberwolves,31 - 40,1,N/A,N/A,N/A
+51,Rudy Gobert,SUBSTITUTION,Favors Derrick,7:26,2,Jazz,Timberwolves,31 - 40,1,N/A,N/A,N/A
+52,Josh Okogie,FT,None,7:26,2,Timberwolves,Jazz,32 - 40,0,N/A,1,N/A
+53,Kyle Korver,FG_MISS,None,7:14,2,Jazz,Timberwolves,32 - 40,1,26,3,Jumper
+54,Josh Okogie,DEFENSIVE_REBOUND,None,7:11,2,Timberwolves,Jazz,32 - 40,0,N/A,N/A,N/A
+55,Josh Okogie,FG_MISS,Rudy Gobert,7:05,2,Jazz,Timberwolves,32 - 40,0,9,2,Jumper
+56,Team,OFFENSIVE_REBOUND,None,7:05,2,Timberwolves,Jazz,32 - 40,0,N/A,N/A,N/A
+57,Andrew Wiggins,FG_ASSISTED,Jerryd Bayless,6:54,2,Timberwolves,Jazz,34 - 40,0,11,2,Jumper
+58,Kyle Korver,FG_ASSISTED,Donovan Mitchell,6:40,2,Jazz,Timberwolves,34 - 43,1, ,3,Jumper
+59,Andrew Wiggins,TURNOVER,None,6:25,2,Timberwolves,Jazz,34 - 43,0,N/A,N/A,N/A
+60,Rudy Gobert,FG_ASSISTED,Kyle Korver,6:09,2,Jazz,Timberwolves,34 - 45,1,0,2,Dunk
+61,Josh Okogie,FG_MISS,None,5:55,2,Timberwolves,Jazz,34 - 45,0,25,3,Jumper
+62,Rudy Gobert,DEFENSIVE_REBOUND,None,5:51,2,Jazz,Timberwolves,34 - 45,1,N/A,N/A,N/A
+63,Rudy Gobert,FG_ASSISTED,Royce O'Neale,5:37,2,Jazz,Timberwolves,34 - 47,1,0,2,Dunk
+64,Andrew Wiggins,FG_MISS,None,5:18,2,Timberwolves,Jazz,34 - 47,0,0,2,Layup
+65,Team,OFFENSIVE_REBOUND,None,5:15,2,Timberwolves,Jazz,34 - 47,0,N/A,N/A,N/A
+66,Jerryd Bayless,TURNOVER,Royce O'Neale,5:09,2,Timberwolves,Jazz,34 - 47,0,N/A,N/A,N/A
+67,Kyle Korver,FG_MISS,None,5:03,2,Jazz,Timberwolves,34 - 47,1,16,2,Jumper
+68,Josh Okogie,DEFENSIVE_REBOUND,None,4:59,2,Timberwolves,Jazz,34 - 47,0,N/A,N/A,N/A
+69,Jerryd Bayless,FG_MISS,None,4:54,2,Timberwolves,Jazz,34 - 47,0,0,2,Layup
+70,Team,OFFENSIVE_REBOUND,None,4:54,2,Timberwolves,Jazz,34 - 47,0,N/A,N/A,N/A
+71,Rudy Gobert,FOUL_ON_FLOOR,None,4:54,2,Jazz,Timberwolves,34 - 47,1,N/A,N/A,N/A
+72,Taj Gibson,FT,None,4:54,2,Timberwolves,Jazz,35 - 47,0,N/A,1,N/A
+73,C.J. Williams,SUBSTITUTION,Wiggins Andrew,4:54,2,Timberwolves,Jazz,35 - 47,0,N/A,N/A,N/A
+74,Joe Ingles,SUBSTITUTION,Korver Kyle,4:54,2,Jazz,Timberwolves,35 - 47,1,N/A,N/A,N/A
+75,Taj Gibson,FT,None,4:54,2,Timberwolves,Jazz,36 - 47,0,N/A,1,N/A
+76,Donovan Mitchell,TURNOVER,Jerryd Bayless,4:40,2,Jazz,Timberwolves,36 - 47,1,N/A,N/A,N/A
+77,Jerryd Bayless,TURNOVER,Joe Ingles,4:36,2,Timberwolves,Jazz,36 - 47,0,N/A,N/A,N/A
+78,Georges Niang,TURNOVER,None,4:30,2,Jazz,Timberwolves,36 - 47,1,N/A,N/A,N/A
+79,Josh Okogie,FG_MISS,None,4:14,2,Timberwolves,Jazz,36 - 47,0,0,2,Layup
+80,Georges Niang,DEFENSIVE_REBOUND,None,4:12,2,Jazz,Timberwolves,36 - 47,1,N/A,N/A,N/A
+81,Joe Ingles,FG_MISS,None,4:02,2,Jazz,Timberwolves,36 - 47,1,25,3,Jumper
+82,Rudy Gobert,OFFENSIVE_REBOUND,None,3:59,2,Jazz,Timberwolves,36 - 47,1,N/A,N/A,N/A
+83,Donovan Mitchell,FG_MISS,None,3:53,2,Jazz,Timberwolves,36 - 47,1,0,2,Layup
+84,Team,OFFENSIVE_REBOUND,None,3:50,2,Jazz,Timberwolves,36 - 47,1,N/A,N/A,N/A
+85,Anthony Tolliver,FOUL_ON_FLOOR,None,3:50,2,Timberwolves,Jazz,36 - 47,0,N/A,N/A,N/A
+86,Jae Crowder,SUBSTITUTION,Niang Georges,3:50,2,Jazz,Timberwolves,36 - 47,1,N/A,N/A,N/A
+87,Luol Deng,SUBSTITUTION,Tolliver Anthony,3:50,2,Timberwolves,Jazz,36 - 47,0,N/A,N/A,N/A
+88,Rudy Gobert,FG_MISS,None,3:37,2,Jazz,Timberwolves,36 - 47,1,0,2,Dunk
+89,C.J. Williams,DEFENSIVE_REBOUND,None,3:34,2,Timberwolves,Jazz,36 - 47,0,N/A,N/A,N/A
+90,Jerryd Bayless,FG_MISS,None,3:30,2,Timberwolves,Jazz,36 - 47,0,25,3,Jumper
+91,Donovan Mitchell,DEFENSIVE_REBOUND,None,3:26,2,Jazz,Timberwolves,36 - 47,1,N/A,N/A,N/A
+92,Royce O'Neale,FG_ASSISTED,Jae Crowder,3:19,2,Jazz,Timberwolves,36 - 49,1,0,2,Dunk
+93,C.J. Williams,FG_ASSISTED,Jerryd Bayless,2:59,2,Timberwolves,Jazz,38 - 49,0,0,2,Layup
+94,Team,Unknown,None,2:51,2,Jazz,Timberwolves,38 - 49,1,N/A,N/A,N/A
+95,Ricky Rubio,SUBSTITUTION,O'Neale Royce,2:51,2,Jazz,Timberwolves,38 - 49,1,N/A,N/A,N/A
+96,Andrew Wiggins,SUBSTITUTION,Okogie Josh,2:51,2,Timberwolves,Jazz,38 - 49,0,N/A,N/A,N/A
+97,Taj Gibson,FOUL_ON_FLOOR,None,2:38,2,Timberwolves,Jazz,38 - 49,0,N/A,N/A,N/A
+98,Rudy Gobert,FT,None,2:38,2,Jazz,Timberwolves,38 - 50,1,N/A,1,N/A
+99,Rudy Gobert,FT_MISS,None,2:38,2,Jazz,Timberwolves,38 - 50,1,N/A,1,N/A
+100,Taj Gibson,DEFENSIVE_REBOUND,None,2:36,2,Timberwolves,Jazz,38 - 50,0,N/A,N/A,N/A
+101,Andrew Wiggins,FG_MISS,None,2:23,2,Timberwolves,Jazz,38 - 50,0,0,2,Layup
+102,Andrew Wiggins,OFFENSIVE_REBOUND,None,2:18,2,Timberwolves,Jazz,38 - 50,0,N/A,N/A,N/A
+103,Andrew Wiggins,TURNOVER,Joe Ingles,2:17,2,Timberwolves,Jazz,38 - 50,0,N/A,N/A,N/A
+104,Ricky Rubio,TURNOVER,None,2:00,2,Jazz,Timberwolves,38 - 50,1,N/A,N/A,N/A
+105,Gorgui Dieng,SUBSTITUTION,Williams C.J.,2:00,2,Timberwolves,Jazz,38 - 50,0,N/A,N/A,N/A
+106,Andrew Wiggins,FG_MISS,None,1:48,2,Timberwolves,Jazz,38 - 50,0,11,2,Jumper
+107,Rudy Gobert,DEFENSIVE_REBOUND,None,1:45,2,Jazz,Timberwolves,38 - 50,1,N/A,N/A,N/A
+108,Donovan Mitchell,FG_MISS,None,1:39,2,Jazz,Timberwolves,38 - 50,1,4,2,Jumper
+109,Team,OFFENSIVE_REBOUND,None,1:38,2,Jazz,Timberwolves,38 - 50,1,N/A,N/A,N/A
+110,Gorgui Dieng,FOUL_ON_FLOOR,None,1:38,2,Timberwolves,Jazz,38 - 50,0,N/A,N/A,N/A
+111,Donovan Mitchell,FG_MISS,None,1:31,2,Jazz,Timberwolves,38 - 50,1,8,2,Jumper
+112,Gorgui Dieng,DEFENSIVE_REBOUND,None,1:28,2,Timberwolves,Jazz,38 - 50,0,N/A,N/A,N/A
+113,Jerryd Bayless,FG_ASSISTED,Taj Gibson,1:15,2,Timberwolves,Jazz,41 - 50,0,25,3,Jumper
+114,Ricky Rubio,FG_ASSISTED,Rudy Gobert,1:02,2,Jazz,Timberwolves,41 - 52,1,19,2,Jumper
+115,Donovan Mitchell,FOUL_ON_FLOOR,None,51.4,2,Jazz,Timberwolves,41 - 52,1,N/A,N/A,N/A
+116,Luol Deng,FT,None,51.4,2,Timberwolves,Jazz,42 - 52,0,N/A,1,N/A
+117,Dario Saric,SUBSTITUTION,Gibson Taj,51.4,2,Timberwolves,Jazz,42 - 52,0,N/A,N/A,N/A
+118,Luol Deng,FT,None,51.4,2,Timberwolves,Jazz,43 - 52,0,N/A,1,N/A
+119,Ricky Rubio,TURNOVER,Luol Deng,40.2,2,Jazz,Timberwolves,43 - 52,1,N/A,N/A,N/A
+120,Andrew Wiggins,FG_ASSISTED,Luol Deng,36.5,2,Timberwolves,Jazz,45 - 52,0,0,2,Dunk
+121,Jae Crowder,FG_MISS,None,29.9,2,Jazz,Timberwolves,45 - 52,1,25,3,Jumper
+122,Andrew Wiggins,DEFENSIVE_REBOUND,None,26.9,2,Timberwolves,Jazz,45 - 52,0,N/A,N/A,N/A
+123,Andrew Wiggins,TURNOVER,None,8.3,2,Timberwolves,Jazz,45 - 52,0,N/A,N/A,N/A
+124,Ricky Rubio,FG_MISS,None,0.1,2,Jazz,Timberwolves,45 - 52,1,25,3,Jumper
+125,Team,OFFENSIVE_REBOUND,None,0.1,2,Jazz,Timberwolves,45 - 52,1,N/A,N/A,N/A
+126,End of,Unknown,None,0.0,2,Jazz,Timberwolves,45 - 52,1,N/A,N/A,N/A
+0,Derrick Favors,SUBSTITUTION,Crowder Jae,12:00,3,Jazz,Timberwolves,45 - 52,1,N/A,N/A,N/A
+1,Josh Okogie,SUBSTITUTION,Dieng Gorgui,12:00,3,Timberwolves,Jazz,45 - 52,0,N/A,N/A,N/A
+2,Taj Gibson,SUBSTITUTION,Deng Luol,12:00,3,Timberwolves,Jazz,45 - 52,0,N/A,N/A,N/A
+3,Karl-Anthony Towns,SUBSTITUTION,Saric Dario,12:00,3,Timberwolves,Jazz,45 - 52,0,N/A,N/A,N/A
+4,Derrick Favors,FG_ASSISTED,Donovan Mitchell,11:39,3,Jazz,Timberwolves,45 - 55,1,24,3,Jumper
+5,Taj Gibson,FG_MISS,None,11:16,3,Timberwolves,Jazz,45 - 55,0,23,3,Jumper
+6,Joe Ingles,DEFENSIVE_REBOUND,None,11:13,3,Jazz,Timberwolves,45 - 55,1,N/A,N/A,N/A
+7,Josh Okogie,FOUL_ON_FLOOR,None,11:06,3,Timberwolves,Jazz,45 - 55,0,N/A,N/A,N/A
+8,Donovan Mitchell,FG_UNASSISTED,None,10:59,3,Jazz,Timberwolves,45 - 57,1,10,2,Jumper
+9,Taj Gibson,TURNOVER,None,10:40,3,Timberwolves,Jazz,45 - 57,0,N/A,N/A,N/A
+10,Joe Ingles,FG_MISS,None,10:30,3,Jazz,Timberwolves,45 - 57,1,26,3,Jumper
+11,Andrew Wiggins,DEFENSIVE_REBOUND,None,10:26,3,Timberwolves,Jazz,45 - 57,0,N/A,N/A,N/A
+12,Taj Gibson,FG_ASSISTED,Andrew Wiggins,10:15,3,Timberwolves,Jazz,47 - 57,0,0,2,Dunk
+13,Donovan Mitchell,FOUL_ON_FLOOR,None,10:03,3,Jazz,Timberwolves,47 - 57,1,N/A,N/A,N/A
+14,Donovan Mitchell,TURNOVER,None,10:03,3,Jazz,Timberwolves,47 - 57,1,N/A,N/A,N/A
+15,Josh Okogie,FG_ASSISTED,Karl-Anthony Towns,9:53,3,Timberwolves,Jazz,49 - 57,0,0,2,Dunk
+16,Rudy Gobert,FG_ASSISTED,Donovan Mitchell,9:31,3,Jazz,Timberwolves,49 - 59,1,0,2,Dunk
+17,Karl-Anthony Towns,FG_ASSISTED,Jerryd Bayless,9:17,3,Timberwolves,Jazz,52 - 59,0,26,3,Jumper
+18,Ricky Rubio,FG_MISS,None,9:01,3,Jazz,Timberwolves,52 - 59,1,0,2,Layup
+19,Team,OFFENSIVE_REBOUND,None,9:01,3,Jazz,Timberwolves,52 - 59,1,N/A,N/A,N/A
+20,Joe Ingles,FG_UNASSISTED,None,8:53,3,Jazz,Timberwolves,52 - 62,1,25,2,Jumper
+21,Derrick Favors,FOUL_ON_FLOOR,None,8:31,3,Jazz,Timberwolves,52 - 62,1,N/A,N/A,N/A
+22,Karl-Anthony Towns,FG_ASSISTED,Andrew Wiggins,8:27,3,Timberwolves,Jazz,54 - 62,0,10,2,Jumper
+23,Joe Ingles,FG_ASSISTED,Donovan Mitchell,8:00,3,Jazz,Timberwolves,54 - 65,1,25,3,Jumper
+24,Karl-Anthony Towns,FG_MISS,Derrick Favors,7:39,3,Jazz,Timberwolves,54 - 65,0,4,2,Jumper
+25,Derrick Favors,DEFENSIVE_REBOUND,None,7:36,3,Jazz,Timberwolves,54 - 65,1,N/A,N/A,N/A
+26,Joe Ingles,FG_MISS,None,7:22,3,Jazz,Timberwolves,54 - 65,1,26,3,Jumper
+27,Jerryd Bayless,DEFENSIVE_REBOUND,None,7:19,3,Timberwolves,Jazz,54 - 65,0,N/A,N/A,N/A
+28,Jerryd Bayless,FG_MISS,None,7:05,3,Timberwolves,Jazz,54 - 65,0,22,2,Jumper
+29,Joe Ingles,DEFENSIVE_REBOUND,None,7:02,3,Jazz,Timberwolves,54 - 65,1,N/A,N/A,N/A
+30,Ricky Rubio,FG_MISS,None,6:56,3,Jazz,Timberwolves,54 - 65,1,23,3,Jumper
+31,Andrew Wiggins,DEFENSIVE_REBOUND,None,6:53,3,Timberwolves,Jazz,54 - 65,0,N/A,N/A,N/A
+32,Andrew Wiggins,FG_MISS,Donovan Mitchell,6:48,3,Jazz,Timberwolves,54 - 65,0,9,2,Jumper
+33,Derrick Favors,DEFENSIVE_REBOUND,None,6:44,3,Jazz,Timberwolves,54 - 65,1,N/A,N/A,N/A
+34,Taj Gibson,FOUL_ON_FLOOR,None,6:41,3,Timberwolves,Jazz,54 - 65,0,N/A,N/A,N/A
+35,Taj Gibson,FOUL_TECHNICAL,None,6:41,3,Timberwolves,Jazz,54 - 65,0,N/A,N/A,N/A
+36,Karl-Anthony Towns,FOUL_TECHNICAL,None,6:41,3,Timberwolves,Jazz,54 - 65,0,N/A,N/A,N/A
+37,Taj Gibson,FOUL_TECHNICAL,None,6:41,3,Timberwolves,Jazz,54 - 65,0,N/A,N/A,N/A
+38,Taj Gibson,Unknown,None,6:41,3,Timberwolves,Jazz,54 - 65,0,N/A,N/A,N/A
+39,Team,Unknown,None,6:41,3,Jazz,Timberwolves,54 - 65,1,N/A,N/A,N/A
+40,Dario Saric,SUBSTITUTION,Gibson Taj,6:41,3,Timberwolves,Jazz,54 - 65,0,N/A,N/A,N/A
+41,Kyle Korver,SUBSTITUTION,Rubio Ricky,6:41,3,Jazz,Timberwolves,54 - 65,1,N/A,N/A,N/A
+42,Donovan Mitchell,FT,None,6:41,3,Jazz,Timberwolves,54 - 66,1,N/A,1,N/A
+43,Donovan Mitchell,FT,None,6:41,3,Jazz,Timberwolves,54 - 67,1,N/A,1,N/A
+44,Donovan Mitchell,FT_MISS,None,6:41,3,Jazz,Timberwolves,54 - 67,1,N/A,1,N/A
+45,Team,OFFENSIVE_REBOUND,None,6:41,3,Jazz,Timberwolves,54 - 67,1,N/A,N/A,N/A
+46,Joe Ingles,FT,None,6:41,3,Jazz,Timberwolves,54 - 68,1,N/A,1,N/A
+47,Joe Ingles,FT,None,6:41,3,Jazz,Timberwolves,54 - 69,1,N/A,1,N/A
+48,Karl-Anthony Towns,FOUL_ON_FLOOR,None,6:25,3,Timberwolves,Jazz,54 - 69,0,N/A,N/A,N/A
+49,Karl-Anthony Towns,TURNOVER,None,6:25,3,Timberwolves,Jazz,54 - 69,0,N/A,N/A,N/A
+50,Gorgui Dieng,SUBSTITUTION,Okogie Josh,6:25,3,Timberwolves,Jazz,54 - 69,0,N/A,N/A,N/A
+51,Luol Deng,SUBSTITUTION,Towns Karl-Anthony,6:25,3,Timberwolves,Jazz,54 - 69,0,N/A,N/A,N/A
+52,Andrew Wiggins,FOUL_ON_FLOOR,None,6:07,3,Timberwolves,Jazz,54 - 69,0,N/A,N/A,N/A
+53,Jae Crowder,SUBSTITUTION,Favors Derrick,6:07,3,Jazz,Timberwolves,54 - 69,1,N/A,N/A,N/A
+54,Kyle Korver,FG_ASSISTED,Donovan Mitchell,5:57,3,Jazz,Timberwolves,54 - 72,1,25,3,Jumper
+55,Joe Ingles,FOUL_ON_FLOOR,None,5:41,3,Jazz,Timberwolves,54 - 72,1,N/A,N/A,N/A
+56,Andrew Wiggins,FG_MISS,None,5:34,3,Timberwolves,Jazz,54 - 72,0,0,2,Layup
+57,Donovan Mitchell,DEFENSIVE_REBOUND,None,5:32,3,Jazz,Timberwolves,54 - 72,1,N/A,N/A,N/A
+58,Donovan Mitchell,FG_MISS,None,5:24,3,Jazz,Timberwolves,54 - 72,1,0,2,Layup
+59,Rudy Gobert,OFFENSIVE_REBOUND,None,5:23,3,Jazz,Timberwolves,54 - 72,1,N/A,N/A,N/A
+60,Jerryd Bayless,FOUL_ON_FLOOR,None,5:23,3,Timberwolves,Jazz,54 - 72,0,N/A,N/A,N/A
+61,Rudy Gobert,FT,None,5:23,3,Jazz,Timberwolves,54 - 73,1,N/A,1,N/A
+62,Royce O'Neale,SUBSTITUTION,Ingles Joe,5:23,3,Jazz,Timberwolves,54 - 73,1,N/A,N/A,N/A
+63,Rudy Gobert,FT_MISS,None,5:23,3,Jazz,Timberwolves,54 - 73,1,N/A,1,N/A
+64,Gorgui Dieng,DEFENSIVE_REBOUND,None,5:21,3,Timberwolves,Jazz,54 - 73,0,N/A,N/A,N/A
+65,Andrew Wiggins,FG_MISS,None,5:02,3,Timberwolves,Jazz,54 - 73,0, ,2,Jumper
+66,Andrew Wiggins,OFFENSIVE_REBOUND,None,5:01,3,Timberwolves,Jazz,54 - 73,0,N/A,N/A,N/A
+67,Jae Crowder,FOUL_ON_FLOOR,None,5:01,3,Jazz,Timberwolves,54 - 73,1,N/A,N/A,N/A
+68,Andrew Wiggins,FT_MISS,None,5:01,3,Timberwolves,Jazz,54 - 73,0,N/A,1,N/A
+69,Team,OFFENSIVE_REBOUND,None,5:01,3,Timberwolves,Jazz,54 - 73,0,N/A,N/A,N/A
+70,Andrew Wiggins,FT_MISS,None,5:01,3,Timberwolves,Jazz,54 - 73,0,N/A,1,N/A
+71,Rudy Gobert,DEFENSIVE_REBOUND,None,4:59,3,Jazz,Timberwolves,54 - 73,1,N/A,N/A,N/A
+72,Gorgui Dieng,FOUL_ON_FLOOR,None,4:46,3,Timberwolves,Jazz,54 - 73,0,N/A,N/A,N/A
+73,Donovan Mitchell,FT,None,4:46,3,Jazz,Timberwolves,54 - 74,1,N/A,1,N/A
+74,Karl-Anthony Towns,SUBSTITUTION,Dieng Gorgui,4:46,3,Timberwolves,Jazz,54 - 74,0,N/A,N/A,N/A
+75,Donovan Mitchell,FT,None,4:46,3,Jazz,Timberwolves,54 - 75,1,N/A,1,N/A
+76,Donovan Mitchell,FOUL_ON_FLOOR,None,4:34,3,Jazz,Timberwolves,54 - 75,1,N/A,N/A,N/A
+77,Karl-Anthony Towns,FT,None,4:34,3,Timberwolves,Jazz,55 - 75,0,N/A,1,N/A
+78,Jared Terrell,SUBSTITUTION,Wiggins Andrew,4:34,3,Timberwolves,Jazz,55 - 75,0,N/A,N/A,N/A
+79,Karl-Anthony Towns,FT,None,4:34,3,Timberwolves,Jazz,56 - 75,0,N/A,1,N/A
+80,Donovan Mitchell,FG_MISS,None,4:22,3,Jazz,Timberwolves,56 - 75,1,0,2,Layup
+81,Rudy Gobert,OFFENSIVE_REBOUND,None,4:20,3,Jazz,Timberwolves,56 - 75,1,N/A,N/A,N/A
+82,Rudy Gobert,FG_UNASSISTED,None,4:19,3,Jazz,Timberwolves,56 - 77,1,0,2,Dunk
+83,Karl-Anthony Towns,FG_UNASSISTED,None,4:04,3,Timberwolves,Jazz,58 - 77,0,19,2,Jumper
+84,Kyle Korver,FG_MISS,None,3:45,3,Jazz,Timberwolves,58 - 77,1,23,3,Jumper
+85,Rudy Gobert,OFFENSIVE_REBOUND,None,3:42,3,Jazz,Timberwolves,58 - 77,1,N/A,N/A,N/A
+86,Jae Crowder,FG_MISS,None,3:36,3,Jazz,Timberwolves,58 - 77,1, ,2,Jumper
+87,Karl-Anthony Towns,DEFENSIVE_REBOUND,None,3:32,3,Timberwolves,Jazz,58 - 77,0,N/A,N/A,N/A
+88,Donovan Mitchell,FOUL_ON_FLOOR,None,3:31,3,Jazz,Timberwolves,58 - 77,1,N/A,N/A,N/A
+89,Luol Deng,FT,None,3:31,3,Timberwolves,Jazz,59 - 77,0,N/A,1,N/A
+90,Ricky Rubio,SUBSTITUTION,Mitchell Donovan,3:31,3,Jazz,Timberwolves,59 - 77,1,N/A,N/A,N/A
+91,C.J. Williams,SUBSTITUTION,Bayless Jerryd,3:31,3,Timberwolves,Jazz,59 - 77,0,N/A,N/A,N/A
+92,Luol Deng,FT,None,3:31,3,Timberwolves,Jazz,60 - 77,0,N/A,1,N/A
+93,Rudy Gobert,FG_ASSISTED,Ricky Rubio,3:21,3,Jazz,Timberwolves,60 - 79,1,0,2,Dunk
+94,Team,Unknown,None,3:20,3,Timberwolves,Jazz,60 - 79,0,N/A,N/A,N/A
+95,Karl-Anthony Towns,FG_MISS,Rudy Gobert,3:05,3,Jazz,Timberwolves,60 - 79,0,0,2,Layup
+96,Ricky Rubio,DEFENSIVE_REBOUND,None,3:02,3,Jazz,Timberwolves,60 - 79,1,N/A,N/A,N/A
+97,Jae Crowder,FG_ASSISTED,Ricky Rubio,2:59,3,Jazz,Timberwolves,60 - 82,1,25,3,Jumper
+98,Rudy Gobert,FOUL_ON_FLOOR,None,2:44,3,Jazz,Timberwolves,60 - 82,1,N/A,N/A,N/A
+99,Karl-Anthony Towns,FT,None,2:44,3,Timberwolves,Jazz,61 - 82,0,N/A,1,N/A
+100,Karl-Anthony Towns,FT,None,2:44,3,Timberwolves,Jazz,62 - 82,0,N/A,1,N/A
+101,Ricky Rubio,FG_UNASSISTED,None,2:23,3,Jazz,Timberwolves,62 - 84,1,18,2,Jumper
+102,Karl-Anthony Towns,FG_MISS,None,2:04,3,Timberwolves,Jazz,62 - 84,0,5,2,Jumper
+103,Royce O'Neale,DEFENSIVE_REBOUND,None,2:02,3,Jazz,Timberwolves,62 - 84,1,N/A,N/A,N/A
+104,Jared Terrell,FOUL_ON_FLOOR,None,1:47,3,Timberwolves,Jazz,62 - 84,0,N/A,N/A,N/A
+105,Royce O'Neale,FT_MISS,None,1:47,3,Jazz,Timberwolves,62 - 84,1,N/A,1,N/A
+106,Team,OFFENSIVE_REBOUND,None,1:47,3,Jazz,Timberwolves,62 - 84,1,N/A,N/A,N/A
+107,Derrick Favors,SUBSTITUTION,Gobert Rudy,1:47,3,Jazz,Timberwolves,62 - 84,1,N/A,N/A,N/A
+108,Royce O'Neale,FT,None,1:47,3,Jazz,Timberwolves,62 - 85,1,N/A,1,N/A
+109,Karl-Anthony Towns,FG_ASSISTED,C.J. Williams,1:35,3,Timberwolves,Jazz,65 - 85,0,26,3,Jumper
+110,Kyle Korver,FG_MISS,None,1:11,3,Jazz,Timberwolves,65 - 85,1,27,3,Jumper
+111,Jared Terrell,DEFENSIVE_REBOUND,None,1:09,3,Timberwolves,Jazz,65 - 85,0,N/A,N/A,N/A
+112,Luol Deng,FG_ASSISTED,Jared Terrell,1:05,3,Timberwolves,Jazz,67 - 85,0,0,2,Layup
+113,Jae Crowder,FG_ASSISTED,Royce O'Neale,48.5,3,Jazz,Timberwolves,67 - 88,1,25,3,Jumper
+114,Derrick Favors,FOUL_ON_FLOOR,None,35.7,3,Jazz,Timberwolves,67 - 88,1,N/A,N/A,N/A
+115,Karl-Anthony Towns,FT,None,35.7,3,Timberwolves,Jazz,68 - 88,0,N/A,1,N/A
+116,Josh Okogie,SUBSTITUTION,Deng Luol,35.7,3,Timberwolves,Jazz,68 - 88,0,N/A,N/A,N/A
+117,Karl-Anthony Towns,FT,None,35.7,3,Timberwolves,Jazz,69 - 88,0,N/A,1,N/A
+118,Royce O'Neale,FG_MISS,None,22.2,3,Jazz,Timberwolves,69 - 88,1,0,2,Dunk
+119,Jae Crowder,OFFENSIVE_REBOUND,None,19.5,3,Jazz,Timberwolves,69 - 88,1,N/A,N/A,N/A
+120,Ricky Rubio,FG_MISS,None,6.4,3,Jazz,Timberwolves,69 - 88,1,0,2,Layup
+121,Derrick Favors,OFFENSIVE_REBOUND,None,5.0,3,Jazz,Timberwolves,69 - 88,1,N/A,N/A,N/A
+122,Derrick Favors,FG_UNASSISTED,None,5.0,3,Jazz,Timberwolves,69 - 90,1, ,2,Jumper
+123,End of,Unknown,None,0.0,3,Jazz,Timberwolves,69 - 90,1,N/A,N/A,N/A
+0,Anthony Tolliver,SUBSTITUTION,Terrell Jared,12:00,4,Timberwolves,Jazz,69 - 90,0,N/A,N/A,N/A
+1,Andrew Wiggins,SUBSTITUTION,Williams C.J.,12:00,4,Timberwolves,Jazz,69 - 90,0,N/A,N/A,N/A
+2,Jerryd Bayless,SUBSTITUTION,Saric Dario,12:00,4,Timberwolves,Jazz,69 - 90,0,N/A,N/A,N/A
+3,Andrew Wiggins,FG_ASSISTED,Karl-Anthony Towns,11:46,4,Timberwolves,Jazz,71 - 90,0,0,2,Layup
+4,Derrick Favors,FOUL_ON_FLOOR,None,11:46,4,Jazz,Timberwolves,71 - 90,1,N/A,N/A,N/A
+5,Andrew Wiggins,FT,None,11:46,4,Timberwolves,Jazz,72 - 90,0,N/A,1,N/A
+6,Kyle Korver,FG_MISS,None,11:34,4,Jazz,Timberwolves,72 - 90,1,22,2,Jumper
+7,Josh Okogie,DEFENSIVE_REBOUND,None,11:30,4,Timberwolves,Jazz,72 - 90,0,N/A,N/A,N/A
+8,Karl-Anthony Towns,FG_ASSISTED,Josh Okogie,11:28,4,Timberwolves,Jazz,74 - 90,0,0,2,Layup
+9,Jae Crowder,FG_MISS,None,11:11,4,Jazz,Timberwolves,74 - 90,1,23,3,Jumper
+10,Andrew Wiggins,DEFENSIVE_REBOUND,None,11:08,4,Timberwolves,Jazz,74 - 90,0,N/A,N/A,N/A
+11,Andrew Wiggins,FG_UNASSISTED,None,11:03,4,Timberwolves,Jazz,76 - 90,0,0,2,Layup
+12,Team,Unknown,None,11:03,4,Jazz,Timberwolves,76 - 90,1,N/A,N/A,N/A
+13,Joe Ingles,SUBSTITUTION,Korver Kyle,11:03,4,Jazz,Timberwolves,76 - 90,1,N/A,N/A,N/A
+14,Royce O'Neale,FG_MISS,None,10:53,4,Jazz,Timberwolves,76 - 90,1, ,3,Jumper
+15,Jerryd Bayless,DEFENSIVE_REBOUND,None,10:50,4,Timberwolves,Jazz,76 - 90,0,N/A,N/A,N/A
+16,Andrew Wiggins,FG_MISS,None,10:40,4,Timberwolves,Jazz,76 - 90,0,27,3,Jumper
+17,Royce O'Neale,DEFENSIVE_REBOUND,None,10:36,4,Jazz,Timberwolves,76 - 90,1,N/A,N/A,N/A
+18,Jae Crowder,FG_MISS,None,10:24,4,Jazz,Timberwolves,76 - 90,1,24,3,Jumper
+19,Derrick Favors,OFFENSIVE_REBOUND,None,10:21,4,Jazz,Timberwolves,76 - 90,1,N/A,N/A,N/A
+20,Ricky Rubio,FG_MISS,None,10:18,4,Jazz,Timberwolves,76 - 90,1,24,3,Jumper
+21,Jerryd Bayless,DEFENSIVE_REBOUND,None,10:18,4,Timberwolves,Jazz,76 - 90,0,N/A,N/A,N/A
+22,Donovan Mitchell,SUBSTITUTION,Rubio Ricky,10:14,4,Jazz,Timberwolves,76 - 90,1,N/A,N/A,N/A
+23,Georges Niang,SUBSTITUTION,Crowder Jae,10:14,4,Jazz,Timberwolves,76 - 90,1,N/A,N/A,N/A
+24,Andrew Wiggins,FG_ASSISTED,Karl-Anthony Towns,10:05,4,Timberwolves,Jazz,78 - 90,0,0,2,Dunk
+25,Royce O'Neale,FOUL_ON_FLOOR,None,10:05,4,Jazz,Timberwolves,78 - 90,1,N/A,N/A,N/A
+26,Andrew Wiggins,FT_MISS,None,10:05,4,Timberwolves,Jazz,78 - 90,0,N/A,1,N/A
+27,Georges Niang,DEFENSIVE_REBOUND,None,10:03,4,Jazz,Timberwolves,78 - 90,1,N/A,N/A,N/A
+28,Donovan Mitchell,FG_MISS,Karl-Anthony Towns,9:52,4,Timberwolves,Jazz,78 - 90,1,0,2,Layup
+29,Josh Okogie,DEFENSIVE_REBOUND,None,9:49,4,Timberwolves,Jazz,78 - 90,0,N/A,N/A,N/A
+30,Josh Okogie,FG_UNASSISTED,None,9:46,4,Timberwolves,Jazz,80 - 90,0,5,2,Jumper
+31,Derrick Favors,FG_MISS,Andrew Wiggins,9:36,4,Timberwolves,Jazz,80 - 90,1,0,2,Layup
+32,Anthony Tolliver,DEFENSIVE_REBOUND,None,9:33,4,Timberwolves,Jazz,80 - 90,0,N/A,N/A,N/A
+33,Josh Okogie,FG_MISS,Royce O'Neale,9:31,4,Jazz,Timberwolves,80 - 90,0,0,2,Layup
+34,Josh Okogie,JUMP_BALL,None,9:29,4,Jazz,Timberwolves,80 - 90,1,N/A,N/A,N/A
+35,Team,DEFENSIVE_REBOUND,None,9:29,4,Jazz,Timberwolves,80 - 90,1,N/A,N/A,N/A
+36,Donovan Mitchell,FG_MISS,Jerryd Bayless,9:25,4,Timberwolves,Jazz,80 - 90,1,0,2,Layup
+37,Donovan Mitchell,OFFENSIVE_REBOUND,None,9:19,4,Jazz,Timberwolves,80 - 90,1,N/A,N/A,N/A
+38,Donovan Mitchell,TURNOVER,Karl-Anthony Towns,9:18,4,Jazz,Timberwolves,80 - 90,1,N/A,N/A,N/A
+39,Karl-Anthony Towns,FG_MISS,None,9:01,4,Timberwolves,Jazz,80 - 90,0,12,2,Jumper
+40,Karl-Anthony Towns,OFFENSIVE_REBOUND,None,9:00,4,Timberwolves,Jazz,80 - 90,0,N/A,N/A,N/A
+41,Karl-Anthony Towns,FG_UNASSISTED,None,8:59,4,Timberwolves,Jazz,82 - 90,0,0,2,Layup
+42,Joe Ingles,FG_UNASSISTED,None,8:45,4,Jazz,Timberwolves,82 - 92,1,0,2,Layup
+43,Jerryd Bayless,FG_MISS,None,8:26,4,Timberwolves,Jazz,82 - 92,0,25,3,Jumper
+44,Karl-Anthony Towns,OFFENSIVE_REBOUND,None,8:23,4,Timberwolves,Jazz,82 - 92,0,N/A,N/A,N/A
+45,Karl-Anthony Towns,FG_UNASSISTED,None,8:19,4,Timberwolves,Jazz,84 - 92,0,6,2,Jumper
+46,Derrick Favors,FG_MISS,Karl-Anthony Towns,8:04,4,Timberwolves,Jazz,84 - 92,1,0,2,Layup
+47,Team,OFFENSIVE_REBOUND,None,8:04,4,Jazz,Timberwolves,84 - 92,1,N/A,N/A,N/A
+48,Rudy Gobert,SUBSTITUTION,Favors Derrick,8:04,4,Jazz,Timberwolves,84 - 92,1,N/A,N/A,N/A
+49,Kyle Korver,SUBSTITUTION,O'Neale Royce,8:04,4,Jazz,Timberwolves,84 - 92,1,N/A,N/A,N/A
+50,Donovan Mitchell,FG_MISS,None,7:56,4,Jazz,Timberwolves,84 - 92,1,28,3,Jumper
+51,Anthony Tolliver,DEFENSIVE_REBOUND,None,7:52,4,Timberwolves,Jazz,84 - 92,0,N/A,N/A,N/A
+52,Team,Unknown,None,7:49,4,Timberwolves,Jazz,84 - 92,0,N/A,N/A,N/A
+53,Karl-Anthony Towns,FG_MISS,None,7:40,4,Timberwolves,Jazz,84 - 92,0,26,3,Jumper
+54,Team,OFFENSIVE_REBOUND,None,7:38,4,Timberwolves,Jazz,84 - 92,0,N/A,N/A,N/A
+55,Joe Ingles,FOUL_ON_FLOOR,None,7:38,4,Jazz,Timberwolves,84 - 92,1,N/A,N/A,N/A
+56,Andrew Wiggins,FG_MISS,None,7:29,4,Timberwolves,Jazz,84 - 92,0,0,2,Layup
+57,Georges Niang,DEFENSIVE_REBOUND,None,7:27,4,Jazz,Timberwolves,84 - 92,1,N/A,N/A,N/A
+58,Kyle Korver,FG_ASSISTED,Donovan Mitchell,7:21,4,Jazz,Timberwolves,84 - 95,1,24,3,Jumper
+59,Josh Okogie,FG_MISS,None,6:58,4,Timberwolves,Jazz,84 - 95,0,0,2,Layup
+60,Team,DEFENSIVE_REBOUND,None,6:57,4,Jazz,Timberwolves,84 - 95,1,N/A,N/A,N/A
+61,Joe Ingles,FG_MISS,None,6:45,4,Jazz,Timberwolves,84 - 95,1,25,3,Jumper
+62,Rudy Gobert,OFFENSIVE_REBOUND,None,6:41,4,Jazz,Timberwolves,84 - 95,1,N/A,N/A,N/A
+63,Rudy Gobert,FG_MISS,None,6:41,4,Jazz,Timberwolves,84 - 95,1,0,2,Layup
+64,Andrew Wiggins,DEFENSIVE_REBOUND,None,6:41,4,Timberwolves,Jazz,84 - 95,0,N/A,N/A,N/A
+65,Andrew Wiggins,FG_UNASSISTED,None,6:34,4,Timberwolves,Jazz,86 - 95,0,2,2,Jumper
+66,Joe Ingles,FOUL_TECHNICAL,None,6:33,4,Jazz,Timberwolves,86 - 95,1,N/A,N/A,N/A
+67,Karl-Anthony Towns,FT,None,6:33,4,Timberwolves,Jazz,87 - 95,0,N/A,1,N/A
+68,Luol Deng,SUBSTITUTION,Okogie Josh,6:33,4,Timberwolves,Jazz,87 - 95,0,N/A,N/A,N/A
+69,Donovan Mitchell,FG_MISS,None,6:24,4,Jazz,Timberwolves,87 - 95,1,25,3,Jumper
+70,Karl-Anthony Towns,DEFENSIVE_REBOUND,None,6:21,4,Timberwolves,Jazz,87 - 95,0,N/A,N/A,N/A
+71,Andrew Wiggins,FG_MISS,None,6:09,4,Timberwolves,Jazz,87 - 95,0,22,2,Jumper
+72,Rudy Gobert,DEFENSIVE_REBOUND,None,6:07,4,Jazz,Timberwolves,87 - 95,1,N/A,N/A,N/A
+73,Jerryd Bayless,FOUL_ON_FLOOR,None,5:54,4,Timberwolves,Jazz,87 - 95,0,N/A,N/A,N/A
+74,Donovan Mitchell,FG_MISS,None,5:49,4,Jazz,Timberwolves,87 - 95,1,25,3,Jumper
+75,Anthony Tolliver,DEFENSIVE_REBOUND,None,5:46,4,Timberwolves,Jazz,87 - 95,0,N/A,N/A,N/A
+76,Anthony Tolliver,FG_MISS,None,5:25,4,Timberwolves,Jazz,87 - 95,0,23,3,Jumper
+77,Andrew Wiggins,OFFENSIVE_REBOUND,None,5:21,4,Timberwolves,Jazz,87 - 95,0,N/A,N/A,N/A
+78,Andrew Wiggins,FG_MISS,None,5:20,4,Timberwolves,Jazz,87 - 95,0,3,2,Jumper
+79,Karl-Anthony Towns,OFFENSIVE_REBOUND,None,5:17,4,Timberwolves,Jazz,87 - 95,0,N/A,N/A,N/A
+80,Karl-Anthony Towns,FG_UNASSISTED,None,5:17,4,Timberwolves,Jazz,89 - 95,0, ,2,Jumper
+81,Donovan Mitchell,FG_UNASSISTED,None,5:05,4,Jazz,Timberwolves,89 - 97,1,21,2,Jumper
+82,Team,Unknown,None,4:59,4,Timberwolves,Jazz,89 - 97,0,N/A,N/A,N/A
+83,Jae Crowder,SUBSTITUTION,Niang Georges,4:59,4,Jazz,Timberwolves,89 - 97,1,N/A,N/A,N/A
+84,Andrew Wiggins,FG_MISS,Rudy Gobert,4:49,4,Jazz,Timberwolves,89 - 97,0,0,2,Layup
+85,Kyle Korver,DEFENSIVE_REBOUND,None,4:48,4,Jazz,Timberwolves,89 - 97,1,N/A,N/A,N/A
+86,Karl-Anthony Towns,FOUL_ON_FLOOR,None,4:48,4,Timberwolves,Jazz,89 - 97,0,N/A,N/A,N/A
+87,Kyle Korver,FG_MISS,None,4:38,4,Jazz,Timberwolves,89 - 97,1,25,3,Jumper
+88,Andrew Wiggins,DEFENSIVE_REBOUND,None,4:34,4,Timberwolves,Jazz,89 - 97,0,N/A,N/A,N/A
+89,Karl-Anthony Towns,FG_UNASSISTED,None,4:14,4,Timberwolves,Jazz,91 - 97,0,0,2,Dunk
+90,Rudy Gobert,TURNOVER,Andrew Wiggins,4:10,4,Jazz,Timberwolves,91 - 97,1,N/A,N/A,N/A
+91,Andrew Wiggins's,FG_MISS,Rudy Gobert,4:07,4,Jazz,Timberwolves,91 - 97,0,0,2,Layup
+92,Team,OFFENSIVE_REBOUND,None,4:07,4,Timberwolves,Jazz,91 - 97,0,N/A,N/A,N/A
+93,Anthony Tolliver,FG_ASSISTED,Karl-Anthony Towns,4:03,4,Timberwolves,Jazz,94 - 97,0,31,3,Jumper
+94,Donovan Mitchell,FG_MISS,None,3:46,4,Jazz,Timberwolves,94 - 97,1, ,2,Jumper
+95,Donovan Mitchell,OFFENSIVE_REBOUND,None,3:44,4,Jazz,Timberwolves,94 - 97,1,N/A,N/A,N/A
+96,Donovan Mitchell,FG_MISS,None,3:42,4,Jazz,Timberwolves,94 - 97,1,0,2,Layup
+97,Rudy Gobert,OFFENSIVE_REBOUND,None,3:38,4,Jazz,Timberwolves,94 - 97,1,N/A,N/A,N/A
+98,Rudy Gobert,FG_UNASSISTED,None,3:38,4,Jazz,Timberwolves,94 - 99,1,0,2,Dunk
+99,Karl-Anthony Towns,FG_MISS,None,3:24,4,Timberwolves,Jazz,94 - 99,0,26,3,Jumper
+100,Donovan Mitchell,DEFENSIVE_REBOUND,None,3:22,4,Jazz,Timberwolves,94 - 99,1,N/A,N/A,N/A
+101,Donovan Mitchell,FG_MISS,None,3:05,4,Jazz,Timberwolves,94 - 99,1,11,2,Jumper
+102,Jerryd Bayless,DEFENSIVE_REBOUND,None,3:03,4,Timberwolves,Jazz,94 - 99,0,N/A,N/A,N/A
+103,Jerryd Bayless,FG_UNASSISTED,None,2:55,4,Timberwolves,Jazz,97 - 99,0,26,3,Jumper
+104,Kyle Korver,FG_ASSISTED,Donovan Mitchell,2:33,4,Jazz,Timberwolves,97 - 101,1,9,2,Jumper
+105,Jerryd Bayless,FG_MISS,None,2:14,4,Timberwolves,Jazz,97 - 101,0,25,3,Jumper
+106,Karl-Anthony Towns,OFFENSIVE_REBOUND,None,2:11,4,Timberwolves,Jazz,97 - 101,0,N/A,N/A,N/A
+107,Karl-Anthony Towns,FG_UNASSISTED,None,2:10,4,Timberwolves,Jazz,99 - 101,0,4,2,Jumper
+108,Donovan Mitchell,FG_MISS,Karl-Anthony Towns,1:49,4,Timberwolves,Jazz,99 - 101,1,0,2,Layup
+109,Rudy Gobert,OFFENSIVE_REBOUND,None,1:47,4,Jazz,Timberwolves,99 - 101,1,N/A,N/A,N/A
+110,Jae Crowder,FG_MISS,None,1:45,4,Jazz,Timberwolves,99 - 101,1,23,3,Jumper
+111,Jerryd Bayless,DEFENSIVE_REBOUND,None,1:42,4,Timberwolves,Jazz,99 - 101,0,N/A,N/A,N/A
+112,Team,Unknown,None,1:39,4,Timberwolves,Jazz,99 - 101,0,N/A,N/A,N/A
+113,Andrew Wiggins,TURNOVER,Rudy Gobert,1:30,4,Timberwolves,Jazz,99 - 101,0,N/A,N/A,N/A
+114,Jerryd Bayless,FOUL_ON_FLOOR,None,1:18,4,Timberwolves,Jazz,99 - 101,0,N/A,N/A,N/A
+115,Donovan Mitchell,FT,None,1:18,4,Jazz,Timberwolves,99 - 102,1,N/A,1,N/A
+116,Royce O'Neale,SUBSTITUTION,Korver Kyle,1:18,4,Jazz,Timberwolves,99 - 102,1,N/A,N/A,N/A
+117,Donovan Mitchell,FT,None,1:18,4,Jazz,Timberwolves,99 - 103,1,N/A,1,N/A
+118,Anthony Tolliver,FG_ASSISTED,Jerryd Bayless,1:05,4,Timberwolves,Jazz,102 - 103,0,27,3,Jumper
+119,Donovan Mitchell,FG_MISS,None,47.9,4,Jazz,Timberwolves,102 - 103,1,1,2,Jumper
+120,Rudy Gobert,OFFENSIVE_REBOUND,None,46.3,4,Jazz,Timberwolves,102 - 103,1,N/A,N/A,N/A
+121,Rudy Gobert,FG_MISS,None,45.5,4,Jazz,Timberwolves,102 - 103,1,0,2,Layup
+122,Karl-Anthony Towns,DEFENSIVE_REBOUND,None,42.2,4,Timberwolves,Jazz,102 - 103,0,N/A,N/A,N/A
+123,Jerryd Bayless,FG_MISS,None,24.3,4,Timberwolves,Jazz,102 - 103,0,24,2,Jumper
+124,Luol Deng,OFFENSIVE_REBOUND,None,18.8,4,Timberwolves,Jazz,102 - 103,0,N/A,N/A,N/A
+125,Luol Deng,FG_MISS,None,17.3,4,Timberwolves,Jazz,102 - 103,0,23,3,Jumper
+126,Joe Ingles,DEFENSIVE_REBOUND,None,15.1,4,Jazz,Timberwolves,102 - 103,1,N/A,N/A,N/A
+127,Luol Deng,FOUL_ON_FLOOR,None,14.5,4,Timberwolves,Jazz,102 - 103,0,N/A,N/A,N/A
+128,Joe Ingles,FT,None,14.5,4,Jazz,Timberwolves,102 - 104,1,N/A,1,N/A
+129,Joe Ingles,FT,None,14.5,4,Jazz,Timberwolves,102 - 105,1,N/A,1,N/A
+130,Team,Unknown,None,14.5,4,Timberwolves,Jazz,102 - 105,0,N/A,N/A,N/A
+131,Jared Terrell,SUBSTITUTION,Deng Luol,14.5,4,Timberwolves,Jazz,102 - 105,0,N/A,N/A,N/A
+132,Anthony Tolliver,FG_MISS,None,3.6,4,Timberwolves,Jazz,102 - 105,0,27,3,Jumper
+133,Donovan Mitchell,DEFENSIVE_REBOUND,None,1.0,4,Jazz,Timberwolves,102 - 105,1,N/A,N/A,N/A
+134,Jerryd Bayless,FOUL_ON_FLOOR,None,1.0,4,Timberwolves,Jazz,102 - 105,0,N/A,N/A,N/A
+135,Donovan Mitchell,FT_MISS,None,1.0,4,Jazz,Timberwolves,102 - 105,1,N/A,1,N/A
+136,Team,OFFENSIVE_REBOUND,None,1.0,4,Jazz,Timberwolves,102 - 105,1,N/A,N/A,N/A
+137,Donovan Mitchell,FT,None,1.0,4,Jazz,Timberwolves,102 - 106,1,N/A,1,N/A
+138,Andrew Wiggins,FG_MISS,None,0.0,4,Timberwolves,Jazz,102 - 106,0,1,2,Jumper
+139,Team,OFFENSIVE_REBOUND,None,0.0,4,Timberwolves,Jazz,102 - 106,0,N/A,N/A,N/A
+140,End of,Unknown,None,0.0,4,Jazz,Timberwolves,102 - 106,1,N/A,N/A,N/A
+141,End of,Unknown,None,0.0,4,Jazz,Timberwolves,102 - 106,1,N/A,N/A,N/A

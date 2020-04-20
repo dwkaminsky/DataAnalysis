@@ -1,0 +1,501 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Aron Baynes,JUMP_BALL,None,12:00,1,Pistons,Celtics,0 - 0,1,N/A,N/A,N/A
+1,Blake Griffin,FG_MISS,None,11:40,1,Pistons,Celtics,0 - 0,1,6,3,Jumper
+2,Blake Griffin,OFFENSIVE_REBOUND,None,11:37,1,Pistons,Celtics,0 - 0,1,N/A,N/A,N/A
+3,Andre Drummond,FG_MISS,None,11:30,1,Pistons,Celtics,0 - 0,1,13,3,Jumper
+4,Marcus Smart,DEFENSIVE_REBOUND,None,11:28,1,Celtics,Pistons,0 - 0,0,N/A,N/A,N/A
+5,Kyrie Irving's,FG_MISS,Andre Drummond,11:18,1,Pistons,Celtics,0 - 0,0,-,3,Jumper
+6,Andre Drummond,DEFENSIVE_REBOUND,None,11:15,1,Pistons,Celtics,0 - 0,1,N/A,N/A,N/A
+7,Reggie Bullock,TURNOVER,Marcus Morris,11:10,1,Pistons,Celtics,0 - 0,1,N/A,N/A,N/A
+8,Kyrie Irving,FG_ASSISTED,Marcus Morris,10:55,1,Celtics,Pistons,2 - 0,0,0,2,Layup
+9,Andre Drummond,FG_ASSISTED,Reggie Bullock,10:43,1,Pistons,Celtics,2 - 2,1,0,2,Dunk
+10,Aron Baynes,FG_ASSISTED,Marcus Morris,10:29,1,Celtics,Pistons,4 - 2,0,0,2,Layup
+11,Andre Drummond,FOUL_ON_FLOOR,None,10:22,1,Pistons,Celtics,4 - 2,1,N/A,N/A,N/A
+12,Andre Drummond,TURNOVER,None,10:22,1,Pistons,Celtics,4 - 2,1,N/A,N/A,N/A
+13,Aron Baynes,FG_ASSISTED,Marcus Morris,10:15,1,Celtics,Pistons,6 - 2,0,0,2,Dunk
+14,Luke Kennard,FG_ASSISTED,Andre Drummond,9:51,1,Pistons,Celtics,6 - 5,1,24,3,Jumper
+15,Jayson Tatum,FG_MISS,None,9:38,1,Celtics,Pistons,6 - 5,0,14,3,Jumper
+16,Blake Griffin,DEFENSIVE_REBOUND,None,9:33,1,Pistons,Celtics,6 - 5,1,N/A,N/A,N/A
+17,Reggie Jackson,FG_UNASSISTED,None,9:28,1,Pistons,Celtics,6 - 7,1,19,3,Jumper
+18,Kyrie Irving,FG_MISS,None,9:15,1,Celtics,Pistons,6 - 7,0,0,2,Layup
+19,Aron Baynes,OFFENSIVE_REBOUND,None,9:12,1,Celtics,Pistons,6 - 7,0,N/A,N/A,N/A
+20,Aron Baynes,FG_UNASSISTED,None,9:10,1,Celtics,Pistons,8 - 7,0,4,3,Jumper
+21,Andre Drummond,FG_MISS,None,8:54,1,Pistons,Celtics,8 - 7,1,-,3,Jumper
+22,Aron Baynes,DEFENSIVE_REBOUND,None,8:52,1,Celtics,Pistons,8 - 7,0,N/A,N/A,N/A
+23,Kyrie Irving,FG_MISS,None,8:48,1,Celtics,Pistons,8 - 7,0,28,3,Jumper
+24,Kyrie Irving,OFFENSIVE_REBOUND,None,8:44,1,Celtics,Pistons,8 - 7,0,N/A,N/A,N/A
+25,Marcus Morris,FG_MISS,None,8:41,1,Celtics,Pistons,8 - 7,0,26,3,Jumper
+26,Blake Griffin,DEFENSIVE_REBOUND,None,8:39,1,Pistons,Celtics,8 - 7,1,N/A,N/A,N/A
+27,Marcus Smart,FOUL_ON_FLOOR,None,8:28,1,Celtics,Pistons,8 - 7,0,N/A,N/A,N/A
+28,Reggie Bullock,FT_MISS,None,8:28,1,Pistons,Celtics,8 - 7,1,N/A,1,N/A
+29,Team,OFFENSIVE_REBOUND,None,8:28,1,Pistons,Celtics,8 - 7,1,N/A,N/A,N/A
+30,Reggie Bullock,FT,None,8:28,1,Pistons,Celtics,8 - 8,1,N/A,1,N/A
+31,Kyrie Irving,TURNOVER,None,8:13,1,Celtics,Pistons,8 - 8,0,N/A,N/A,N/A
+32,Reggie Bullock,FG_ASSISTED,Blake Griffin,7:55,1,Pistons,Celtics,8 - 11,1,23,3,Jumper
+33,Marcus Smart,FG_UNASSISTED,None,7:43,1,Celtics,Pistons,11 - 11,0,25,3,Jumper
+34,Kyrie Irving,FOUL_ON_FLOOR,None,7:24,1,Celtics,Pistons,11 - 11,0,N/A,N/A,N/A
+35,Blake Griffin,FT,None,7:24,1,Pistons,Celtics,11 - 12,1,N/A,1,N/A
+36,Blake Griffin,FT_MISS,None,7:24,1,Pistons,Celtics,11 - 12,1,N/A,1,N/A
+37,Kyrie Irving,DEFENSIVE_REBOUND,None,7:22,1,Celtics,Pistons,11 - 12,0,N/A,N/A,N/A
+38,Jayson Tatum,FG_UNASSISTED,None,7:06,1,Celtics,Pistons,13 - 12,0,18,3,Jumper
+39,Andre Drummond,FG_ASSISTED,Reggie Jackson,6:57,1,Pistons,Celtics,13 - 14,1,4,3,Jumper
+40,Jayson Tatum,FG_MISS,None,6:43,1,Celtics,Pistons,13 - 14,0,27,3,Jumper
+41,Andre Drummond,DEFENSIVE_REBOUND,None,6:40,1,Pistons,Celtics,13 - 14,1,N/A,N/A,N/A
+42,Marcus Smart,FOUL_ON_FLOOR,None,6:32,1,Celtics,Pistons,13 - 14,0,N/A,N/A,N/A
+43,Team,Unknown,None,6:32,1,Pistons,Celtics,13 - 14,1,N/A,N/A,N/A
+44,Gordon Hayward,SUBSTITUTION,Tatum Jayson,6:32,1,Celtics,Pistons,13 - 14,0,N/A,N/A,N/A
+45,Reggie Bullock,FG_ASSISTED,Reggie Jackson,6:22,1,Pistons,Celtics,13 - 17,1,25,3,Jumper
+46,Andre Drummond,FOUL_ON_FLOOR,None,6:04,1,Pistons,Celtics,13 - 17,1,N/A,N/A,N/A
+47,Marcus Morris,FT_MISS,None,6:04,1,Celtics,Pistons,13 - 17,0,N/A,1,N/A
+48,Team,OFFENSIVE_REBOUND,None,6:04,1,Celtics,Pistons,13 - 17,0,N/A,N/A,N/A
+49,Jon Leuer,SUBSTITUTION,Drummond Andre,6:04,1,Pistons,Celtics,13 - 17,1,N/A,N/A,N/A
+50,Daniel Theis,SUBSTITUTION,Baynes Aron,6:04,1,Celtics,Pistons,13 - 17,0,N/A,N/A,N/A
+51,Marcus Morris,FT,None,6:04,1,Celtics,Pistons,14 - 17,0,N/A,1,N/A
+52,Reggie Jackson,FG_ASSISTED,Luke Kennard,5:49,1,Pistons,Celtics,14 - 19,1,0,2,Dunk
+53,Kyrie Irving,FG_ASSISTED,Marcus Smart,5:39,1,Celtics,Pistons,17 - 19,0,26,3,Jumper
+54,Reggie Bullock,FG_MISS,None,5:26,1,Pistons,Celtics,17 - 19,1,25,3,Jumper
+55,Kyrie Irving,DEFENSIVE_REBOUND,None,5:23,1,Celtics,Pistons,17 - 19,0,N/A,N/A,N/A
+56,Daniel Theis,FG_ASSISTED,Kyrie Irving,5:18,1,Celtics,Pistons,20 - 19,0,26,3,Jumper
+57,Luke Kennard,FG_ASSISTED,Blake Griffin,5:01,1,Pistons,Celtics,20 - 21,1,16,3,Jumper
+58,Kyrie Irving,FG_UNASSISTED,None,4:40,1,Celtics,Pistons,22 - 21,0,10,3,Jumper
+59,Reggie Bullock,FG_MISS,None,4:30,1,Pistons,Celtics,22 - 21,1,25,3,Jumper
+60,Jon Leuer,OFFENSIVE_REBOUND,None,4:28,1,Pistons,Celtics,22 - 21,1,N/A,N/A,N/A
+61,Jon Leuer,TURNOVER,Marcus Smart,4:25,1,Pistons,Celtics,22 - 21,1,N/A,N/A,N/A
+62,Marcus Smart,TURNOVER,None,4:23,1,Celtics,Pistons,22 - 21,0,N/A,N/A,N/A
+63,Marcus Smart,TURNOVER,None,4:23,1,Celtics,Pistons,22 - 21,0,N/A,N/A,N/A
+64,Jose Calderon,SUBSTITUTION,Jackson Reggie,4:23,1,Pistons,Celtics,22 - 21,1,N/A,N/A,N/A
+65,Jaylen Brown,SUBSTITUTION,Smart Marcus,4:23,1,Celtics,Pistons,22 - 21,0,N/A,N/A,N/A
+66,Blake Griffin,FG_ASSISTED,Jose Calderon,4:13,1,Pistons,Celtics,22 - 24,1,25,3,Jumper
+67,Gordon Hayward,FG_MISS,None,3:54,1,Celtics,Pistons,22 - 24,0,21,3,Jumper
+68,Luke Kennard,DEFENSIVE_REBOUND,None,3:50,1,Pistons,Celtics,22 - 24,1,N/A,N/A,N/A
+69,Jon Leuer,FG_UNASSISTED,None,3:35,1,Pistons,Celtics,22 - 26,1, ,3,Jumper
+70,Kyrie Irving,FG_UNASSISTED,None,3:24,1,Celtics,Pistons,24 - 26,0, ,3,Jumper
+71,Jaylen Brown,FOUL_ON_FLOOR,None,3:18,1,Celtics,Pistons,24 - 26,0,N/A,N/A,N/A
+72,Blake Griffin,FG_MISS,None,3:08,1,Pistons,Celtics,24 - 26,1,0,2,Layup
+73,Gordon Hayward,DEFENSIVE_REBOUND,None,3:04,1,Celtics,Pistons,24 - 26,0,N/A,N/A,N/A
+74,Luke Kennard,FOUL_ON_FLOOR,None,3:00,1,Pistons,Celtics,24 - 26,1,N/A,N/A,N/A
+75,Marcus Morris,FT,None,3:00,1,Celtics,Pistons,25 - 26,0,N/A,1,N/A
+76,Langston Galloway,SUBSTITUTION,Bullock Reggie,3:00,1,Pistons,Celtics,25 - 26,1,N/A,N/A,N/A
+77,Marcus Morris,FT,None,3:00,1,Celtics,Pistons,26 - 26,0,N/A,1,N/A
+78,Blake Griffin,FG_MISS,None,2:49,1,Pistons,Celtics,26 - 26,1,0,2,Layup
+79,Kyrie Irving,DEFENSIVE_REBOUND,None,2:47,1,Celtics,Pistons,26 - 26,0,N/A,N/A,N/A
+80,Kyrie Irving,TURNOVER,Jon Leuer,2:43,1,Celtics,Pistons,26 - 26,0,N/A,N/A,N/A
+81,Luke Kennard,FG_ASSISTED,Jose Calderon,2:38,1,Pistons,Celtics,26 - 28,1,0,2,Layup
+82,Marcus Morris,FG_ASSISTED,Kyrie Irving,2:17,1,Celtics,Pistons,28 - 28,0,0,2,Layup
+83,Langston Galloway,TURNOVER,Gordon Hayward,1:57,1,Pistons,Celtics,28 - 28,1,N/A,N/A,N/A
+84,Jaylen Brown,TURNOVER,None,1:46,1,Celtics,Pistons,28 - 28,0,N/A,N/A,N/A
+85,Team,Unknown,None,1:46,1,Celtics,Pistons,28 - 28,0,N/A,N/A,N/A
+86,Terry Rozier,SUBSTITUTION,Irving Kyrie,1:46,1,Celtics,Pistons,28 - 28,0,N/A,N/A,N/A
+87,Blake Griffin,FG_ASSISTED,Jose Calderon,1:23,1,Pistons,Celtics,28 - 30,1, ,3,Jumper
+88,Gordon Hayward,FG_UNASSISTED,None,1:08,1,Celtics,Pistons,30 - 30,0,6,3,Jumper
+89,Daniel Theis,FOUL_ON_FLOOR,None,55.6,1,Celtics,Pistons,30 - 30,0,N/A,N/A,N/A
+90,Blake Griffin,FT,None,55.6,1,Pistons,Celtics,30 - 31,1,N/A,1,N/A
+91,Jayson Tatum,SUBSTITUTION,Morris Marcus,55.6,1,Celtics,Pistons,30 - 31,0,N/A,N/A,N/A
+92,Blake Griffin,FT_MISS,None,55.6,1,Pistons,Celtics,30 - 31,1,N/A,1,N/A
+93,Jayson Tatum,DEFENSIVE_REBOUND,None,54.3,1,Celtics,Pistons,30 - 31,0,N/A,N/A,N/A
+94,Terry Rozier,TURNOVER,Blake Griffin,38.7,1,Celtics,Pistons,30 - 31,0,N/A,N/A,N/A
+95,Jon Leuer,FG_ASSISTED,Blake Griffin,34.0,1,Pistons,Celtics,30 - 33,1,0,2,Dunk
+96,Daniel Theis,FG_ASSISTED,Jaylen Brown,22.7,1,Celtics,Pistons,33 - 33,0,27,3,Jumper
+97,Blake Griffin,FG_MISS,None,0.0,1,Pistons,Celtics,33 - 33,1,15,3,Jumper
+98,Jayson Tatum,DEFENSIVE_REBOUND,None,0.0,1,Celtics,Pistons,33 - 33,0,N/A,N/A,N/A
+99,End of,Unknown,None,0.0,1,Pistons,Celtics,33 - 33,1,N/A,N/A,N/A
+0,Stanley Johnson,SUBSTITUTION,Kennard Luke,12:00,2,Pistons,Celtics,33 - 33,1,N/A,N/A,N/A
+1,Bruce Brown,SUBSTITUTION,Griffin Blake,12:00,2,Pistons,Celtics,33 - 33,1,N/A,N/A,N/A
+2,Gordon Hayward,FG_MISS,None,11:48,2,Celtics,Pistons,33 - 33,0,28,3,Jumper
+3,Terry Rozier,OFFENSIVE_REBOUND,None,11:45,2,Celtics,Pistons,33 - 33,0,N/A,N/A,N/A
+4,Jayson Tatum,FG_ASSISTED,Terry Rozier,11:41,2,Celtics,Pistons,35 - 33,0,0,2,Layup
+5,Langston Galloway,FG_ASSISTED,Stanley Johnson,11:20,2,Pistons,Celtics,35 - 36,1,25,3,Jumper
+6,Jayson Tatum,FG_MISS,None,10:53,2,Celtics,Pistons,35 - 36,0,20,3,Jumper
+7,Bruce Brown,DEFENSIVE_REBOUND,None,10:49,2,Pistons,Celtics,35 - 36,1,N/A,N/A,N/A
+8,Langston Galloway,FG_MISS,None,10:47,2,Pistons,Celtics,35 - 36,1,26,3,Jumper
+9,Daniel Theis,DEFENSIVE_REBOUND,None,10:43,2,Celtics,Pistons,35 - 36,0,N/A,N/A,N/A
+10,Gordon Hayward,FG_MISS,None,10:34,2,Celtics,Pistons,35 - 36,0,23,3,Jumper
+11,Jon Leuer,DEFENSIVE_REBOUND,None,10:31,2,Pistons,Celtics,35 - 36,1,N/A,N/A,N/A
+12,Jose Calderon,FG_UNASSISTED,None,10:24,2,Pistons,Celtics,35 - 38,1,15,3,Jumper
+13,Langston Galloway,FOUL_ON_FLOOR,None,10:07,2,Pistons,Celtics,35 - 38,1,N/A,N/A,N/A
+14,Gordon Hayward,TURNOVER,Jose Calderon,10:01,2,Celtics,Pistons,35 - 38,0,N/A,N/A,N/A
+15,Terry Rozier,FOUL_ON_FLOOR,None,9:53,2,Celtics,Pistons,35 - 38,0,N/A,N/A,N/A
+16,Stanley Johnson,FG_MISS,None,9:41,2,Pistons,Celtics,35 - 38,1,25,3,Jumper
+17,Daniel Theis,DEFENSIVE_REBOUND,None,9:37,2,Celtics,Pistons,35 - 38,0,N/A,N/A,N/A
+18,Jayson Tatum,FG_MISS,None,9:32,2,Celtics,Pistons,35 - 38,0,0,2,Layup
+19,Jayson Tatum,OFFENSIVE_REBOUND,None,9:28,2,Celtics,Pistons,35 - 38,0,N/A,N/A,N/A
+20,Jayson Tatum,FG_UNASSISTED,None,9:28,2,Celtics,Pistons,37 - 38,0, ,3,Jumper
+21,Bruce Brown,TURNOVER,Jaylen Brown,9:13,2,Pistons,Celtics,37 - 38,1,N/A,N/A,N/A
+22,Jaylen Brown,TURNOVER,Langston Galloway,9:07,2,Celtics,Pistons,37 - 38,0,N/A,N/A,N/A
+23,Bruce Brown,FG_ASSISTED,Jose Calderon,8:52,2,Pistons,Celtics,37 - 41,1, ,3,Jumper
+24,Jaylen Brown,FG_MISS,None,8:30,2,Celtics,Pistons,37 - 41,0,0,2,Layup
+25,Jon Leuer,DEFENSIVE_REBOUND,None,8:28,2,Pistons,Celtics,37 - 41,1,N/A,N/A,N/A
+26,Bruce Brown's,FG_MISS,Jaylen Brown,8:25,2,Celtics,Pistons,37 - 41,1,0,2,Layup
+27,Team,OFFENSIVE_REBOUND,None,8:25,2,Pistons,Celtics,37 - 41,1,N/A,N/A,N/A
+28,Team,Unknown,None,8:25,2,Pistons,Celtics,37 - 41,1,N/A,N/A,N/A
+29,Robert Williams,SUBSTITUTION,Hayward Gordon,8:25,2,Celtics,Pistons,37 - 41,0,N/A,N/A,N/A
+30,Marcus Smart,SUBSTITUTION,Theis Daniel,8:25,2,Celtics,Pistons,37 - 41,0,N/A,N/A,N/A
+31,Langston Galloway,FG_ASSISTED,Jose Calderon,8:12,2,Pistons,Celtics,37 - 44,1,23,3,Jumper
+32,Marcus Smart,FG_ASSISTED,Jayson Tatum,7:55,2,Celtics,Pistons,40 - 44,0,24,3,Jumper
+33,Jon Leuer,FG_MISS,None,7:41,2,Pistons,Celtics,40 - 44,1,0,2,Layup
+34,Jayson Tatum,DEFENSIVE_REBOUND,None,7:39,2,Celtics,Pistons,40 - 44,0,N/A,N/A,N/A
+35,Marcus Smart,FG_MISS,None,7:31,2,Celtics,Pistons,40 - 44,0,25,3,Jumper
+36,Stanley Johnson,DEFENSIVE_REBOUND,None,7:28,2,Pistons,Celtics,40 - 44,1,N/A,N/A,N/A
+37,Bruce Brown,FG_MISS,Robert Williams,7:16,2,Celtics,Pistons,40 - 44,1,0,2,Layup
+38,Team,DEFENSIVE_REBOUND,None,7:15,2,Celtics,Pistons,40 - 44,0,N/A,N/A,N/A
+39,Andre Drummond,SUBSTITUTION,Leuer Jon,7:15,2,Pistons,Celtics,40 - 44,1,N/A,N/A,N/A
+40,Marcus Smart,TURNOVER,Andre Drummond,7:06,2,Celtics,Pistons,40 - 44,0,N/A,N/A,N/A
+41,Stanley Johnson,FG_UNASSISTED,None,7:02,2,Pistons,Celtics,40 - 46,1, ,3,Jumper
+42,Jayson Tatum's,FG_MISS,Andre Drummond,6:48,2,Pistons,Celtics,40 - 46,0,0,2,Layup
+43,Team,OFFENSIVE_REBOUND,None,6:48,2,Celtics,Pistons,40 - 46,0,N/A,N/A,N/A
+44,Reggie Jackson,SUBSTITUTION,Calderon Jose,6:48,2,Pistons,Celtics,40 - 46,1,N/A,N/A,N/A
+45,Terry Rozier,FG_MISS,None,6:45,2,Celtics,Pistons,40 - 46,0,23,3,Jumper
+46,Andre Drummond,DEFENSIVE_REBOUND,None,6:42,2,Pistons,Celtics,40 - 46,1,N/A,N/A,N/A
+47,Reggie Jackson,TURNOVER,Jaylen Brown,6:36,2,Pistons,Celtics,40 - 46,1,N/A,N/A,N/A
+48,Robert Williams,FG_ASSISTED,Jaylen Brown,6:32,2,Celtics,Pistons,42 - 46,0,0,2,Layup
+49,Langston Galloway,FG_UNASSISTED,None,6:04,2,Pistons,Celtics,42 - 48,1,18,3,Jumper
+50,Marcus Smart,FG_MISS,None,5:46,2,Celtics,Pistons,42 - 48,0,26,3,Jumper
+51,Andre Drummond,DEFENSIVE_REBOUND,None,5:43,2,Pistons,Celtics,42 - 48,1,N/A,N/A,N/A
+52,Langston Galloway,FG_MISS,None,5:29,2,Pistons,Celtics,42 - 48,1, ,3,Jumper
+53,Terry Rozier,DEFENSIVE_REBOUND,None,5:26,2,Celtics,Pistons,42 - 48,0,N/A,N/A,N/A
+54,Jaylen Brown,FG_UNASSISTED,None,5:17,2,Celtics,Pistons,44 - 48,0,16,3,Jumper
+55,Stanley Johnson,FG_MISS,None,4:52,2,Pistons,Celtics,44 - 48,1,24,3,Jumper
+56,Stanley Johnson,OFFENSIVE_REBOUND,None,4:49,2,Pistons,Celtics,44 - 48,1,N/A,N/A,N/A
+57,Reggie Jackson,FG_MISS,None,4:38,2,Pistons,Celtics,44 - 48,1,23,3,Jumper
+58,Team,OFFENSIVE_REBOUND,None,4:37,2,Pistons,Celtics,44 - 48,1,N/A,N/A,N/A
+59,shot clock,TURNOVER,None,4:37,2,Pistons,Celtics,44 - 48,1,N/A,N/A,N/A
+60,Kyrie Irving,SUBSTITUTION,Smart Marcus,4:37,2,Celtics,Pistons,44 - 48,0,N/A,N/A,N/A
+61,Blake Griffin,SUBSTITUTION,Johnson Stanley,4:37,2,Pistons,Celtics,44 - 48,1,N/A,N/A,N/A
+62,Terry Rozier,FG_MISS,Reggie Jackson,4:23,2,Pistons,Celtics,44 - 48,0,0,2,Layup
+63,Langston Galloway,DEFENSIVE_REBOUND,None,4:19,2,Pistons,Celtics,44 - 48,1,N/A,N/A,N/A
+64,Blake Griffin,FG_ASSISTED,Langston Galloway,4:14,2,Pistons,Celtics,44 - 50,1, ,3,Jumper
+65,Langston Galloway,FOUL_ON_FLOOR,None,4:06,2,Pistons,Celtics,44 - 50,1,N/A,N/A,N/A
+66,Aron Baynes,SUBSTITUTION,Tatum Jayson,4:06,2,Celtics,Pistons,44 - 50,0,N/A,N/A,N/A
+67,Gordon Hayward,SUBSTITUTION,Brown Jaylen,4:06,2,Celtics,Pistons,44 - 50,0,N/A,N/A,N/A
+68,Marcus Morris,SUBSTITUTION,Williams Robert,4:06,2,Celtics,Pistons,44 - 50,0,N/A,N/A,N/A
+69,Kyrie Irving,FG_UNASSISTED,None,4:00,2,Celtics,Pistons,46 - 50,0,0,2,Layup
+70,Langston Galloway,FG_ASSISTED,Blake Griffin,3:46,2,Pistons,Celtics,46 - 52,1,18,3,Jumper
+71,Marcus Morris,FOUL_ON_FLOOR,None,3:46,2,Celtics,Pistons,46 - 50,0,N/A,N/A,N/A
+72,Reggie Bullock,SUBSTITUTION,Brown Bruce,3:46,2,Pistons,Celtics,46 - 50,1,N/A,N/A,N/A
+73,Langston Galloway,FT_MISS,None,3:46,2,Pistons,Celtics,46 - 50,1,N/A,1,N/A
+74,Kyrie Irving,DEFENSIVE_REBOUND,None,3:46,2,Celtics,Pistons,46 - 50,0,N/A,N/A,N/A
+75,Marcus Morris,FG_MISS,None,3:29,2,Celtics,Pistons,46 - 52,0,13,3,Jumper
+76,Team,DEFENSIVE_REBOUND,None,3:27,2,Pistons,Celtics,46 - 52,1,N/A,N/A,N/A
+77,Blake Griffin,FG_MISS,Marcus Morris,3:13,2,Celtics,Pistons,46 - 52,1,10,3,Jumper
+78,Blake Griffin,OFFENSIVE_REBOUND,None,3:13,2,Pistons,Celtics,46 - 52,1,N/A,N/A,N/A
+79,Blake Griffin,FG_MISS,None,3:11,2,Pistons,Celtics,46 - 52,1,15,3,Jumper
+80,Andre Drummond,OFFENSIVE_REBOUND,None,3:05,2,Pistons,Celtics,46 - 52,1,N/A,N/A,N/A
+81,Andre Drummond,FG_MISS,None,3:05,2,Pistons,Celtics,46 - 52,1, ,3,Jumper
+82,Kyrie Irving,DEFENSIVE_REBOUND,None,3:04,2,Celtics,Pistons,46 - 52,0,N/A,N/A,N/A
+83,Terry Rozier,FG_UNASSISTED,None,3:02,2,Celtics,Pistons,48 - 52,0, ,3,Jumper
+84,Marcus Morris,FOUL_ON_FLOOR,None,2:47,2,Celtics,Pistons,48 - 52,0,N/A,N/A,N/A
+85,Team,Unknown,None,2:47,2,Celtics,Pistons,48 - 52,0,N/A,N/A,N/A
+86,Reggie Jackson,FT,None,2:47,2,Pistons,Celtics,48 - 53,1,N/A,1,N/A
+87,Reggie Jackson,FT,None,2:47,2,Pistons,Celtics,48 - 54,1,N/A,1,N/A
+88,Kyrie Irving,FG_ASSISTED,Gordon Hayward,2:37,2,Celtics,Pistons,50 - 54,0,14,3,Jumper
+89,Blake Griffin,FG_UNASSISTED,None,2:15,2,Pistons,Celtics,50 - 56,1,0,2,Layup
+90,Marcus Morris,FG_MISS,None,1:59,2,Celtics,Pistons,50 - 56,0,27,3,Jumper
+91,Reggie Jackson,DEFENSIVE_REBOUND,None,1:56,2,Pistons,Celtics,50 - 56,1,N/A,N/A,N/A
+92,Kyrie Irving,FOUL_ON_FLOOR,None,1:55,2,Celtics,Pistons,50 - 56,0,N/A,N/A,N/A
+93,Andre Drummond,FT_MISS,None,1:55,2,Pistons,Celtics,50 - 56,1,N/A,1,N/A
+94,Team,OFFENSIVE_REBOUND,None,1:55,2,Pistons,Celtics,50 - 56,1,N/A,N/A,N/A
+95,Jaylen Brown,SUBSTITUTION,Rozier Terry,1:55,2,Celtics,Pistons,50 - 56,0,N/A,N/A,N/A
+96,Andre Drummond,FT,None,1:55,2,Pistons,Celtics,50 - 57,1,N/A,1,N/A
+97,Kyrie Irving,FG_MISS,None,1:35,2,Celtics,Pistons,50 - 57,0,0,2,Layup
+98,Aron Baynes,OFFENSIVE_REBOUND,None,1:32,2,Celtics,Pistons,50 - 57,0,N/A,N/A,N/A
+99,Aron Baynes,FG_MISS,None,1:32,2,Celtics,Pistons,50 - 57,0,2,3,Jumper
+100,Andre Drummond,DEFENSIVE_REBOUND,None,1:30,2,Pistons,Celtics,50 - 57,1,N/A,N/A,N/A
+101,Reggie Bullock,FG_MISS,None,1:21,2,Pistons,Celtics,50 - 57,1,26,3,Jumper
+102,Aron Baynes,DEFENSIVE_REBOUND,None,1:16,2,Celtics,Pistons,50 - 57,0,N/A,N/A,N/A
+103,Blake Griffin,FOUL_ON_FLOOR,None,1:10,2,Pistons,Celtics,50 - 57,1,N/A,N/A,N/A
+104,Jon Leuer,SUBSTITUTION,Drummond Andre,1:10,2,Pistons,Celtics,50 - 57,1,N/A,N/A,N/A
+105,Kyrie Irving,FG_UNASSISTED,None,1:04,2,Celtics,Pistons,52 - 57,0,0,2,Layup
+106,Reggie Jackson,TURNOVER,Kyrie Irving,48.5,2,Pistons,Celtics,52 - 57,1,N/A,N/A,N/A
+107,Kyrie Irving,FG_UNASSISTED,None,45.4,2,Celtics,Pistons,54 - 57,0,0,2,Layup
+108,Reggie Jackson,TURNOVER,None,39.2,2,Pistons,Celtics,54 - 57,1,N/A,N/A,N/A
+109,Marcus Morris,FG_UNASSISTED,None,29.9,2,Celtics,Pistons,56 - 57,0,18,3,Jumper
+110,Blake Griffin,FG_MISS,None,5.7,2,Pistons,Celtics,56 - 57,1,7,3,Jumper
+111,Marcus Morris,DEFENSIVE_REBOUND,None,4.0,2,Celtics,Pistons,56 - 57,0,N/A,N/A,N/A
+112,Jaylen Brown,FG_MISS,None,1.3,2,Celtics,Pistons,56 - 57,0,25,3,Jumper
+113,Team,OFFENSIVE_REBOUND,None,1.3,2,Celtics,Pistons,56 - 57,0,N/A,N/A,N/A
+114,End of,Unknown,None,0.0,2,Pistons,Celtics,56 - 57,1,N/A,N/A,N/A
+0,Andre Drummond,SUBSTITUTION,Galloway Langston,12:00,3,Pistons,Celtics,56 - 57,1,N/A,N/A,N/A
+1,Luke Kennard,SUBSTITUTION,Leuer Jon,12:00,3,Pistons,Celtics,56 - 57,1,N/A,N/A,N/A
+2,Jayson Tatum,SUBSTITUTION,Brown Jaylen,12:00,3,Celtics,Pistons,56 - 57,0,N/A,N/A,N/A
+3,Marcus Smart,SUBSTITUTION,Hayward Gordon,12:00,3,Celtics,Pistons,56 - 57,0,N/A,N/A,N/A
+4,Kyrie Irving,FG_MISS,None,11:48,3,Celtics,Pistons,56 - 57,0,8,3,Jumper
+5,Kyrie Irving,OFFENSIVE_REBOUND,None,11:45,3,Celtics,Pistons,56 - 57,0,N/A,N/A,N/A
+6,Marcus Morris,FG_ASSISTED,Marcus Smart,11:41,3,Celtics,Pistons,58 - 57,0, ,3,Jumper
+7,Marcus Morris,FOUL_ON_FLOOR,None,11:26,3,Celtics,Pistons,58 - 57,0,N/A,N/A,N/A
+8,Reggie Jackson,FG_MISS,None,11:16,3,Pistons,Celtics,58 - 57,1,27,3,Jumper
+9,Kyrie Irving,DEFENSIVE_REBOUND,None,11:13,3,Celtics,Pistons,58 - 57,0,N/A,N/A,N/A
+10,Jayson Tatum,FG_ASSISTED,Kyrie Irving,11:10,3,Celtics,Pistons,60 - 57,0,0,2,Dunk
+11,Blake Griffin,FG_ASSISTED,Luke Kennard,10:50,3,Pistons,Celtics,60 - 59,1,0,2,Layup
+12,Jayson Tatum,FG_MISS,None,10:41,3,Celtics,Pistons,60 - 59,0,25,3,Jumper
+13,Luke Kennard,DEFENSIVE_REBOUND,None,10:37,3,Pistons,Celtics,60 - 59,1,N/A,N/A,N/A
+14,Reggie Bullock,FG_ASSISTED,Blake Griffin,10:27,3,Pistons,Celtics,60 - 61,1,0,2,Layup
+15,Reggie Jackson,FOUL_ON_FLOOR,None,10:16,3,Pistons,Celtics,60 - 61,1,N/A,N/A,N/A
+16,Luke Kennard,FOUL_ON_FLOOR,None,10:06,3,Pistons,Celtics,60 - 61,1,N/A,N/A,N/A
+17,Aron Baynes,FT,None,10:06,3,Celtics,Pistons,61 - 61,0,N/A,1,N/A
+18,Aron Baynes,FT,None,10:06,3,Celtics,Pistons,62 - 61,0,N/A,1,N/A
+19,Blake Griffin,FG_ASSISTED,Reggie Jackson,9:45,3,Pistons,Celtics,62 - 63,1,0,2,Layup
+20,Kyrie Irving,FG_UNASSISTED,None,9:36,3,Celtics,Pistons,64 - 63,0,0,2,Layup
+21,Marcus Morris,FOUL_TECHNICAL,None,9:24,3,Celtics,Pistons,64 - 63,0,N/A,N/A,N/A
+22,Reggie Jackson,FT_MISS,None,9:24,3,Pistons,Celtics,64 - 63,1,N/A,1,N/A
+23,Team,OFFENSIVE_REBOUND,None,9:24,3,Pistons,Celtics,64 - 63,1,N/A,N/A,N/A
+24,Reggie Bullock,FG_MISS,None,9:13,3,Pistons,Celtics,64 - 63,1,26,3,Jumper
+25,Jayson Tatum,DEFENSIVE_REBOUND,None,9:10,3,Celtics,Pistons,64 - 63,0,N/A,N/A,N/A
+26,Aron Baynes,FG_ASSISTED,Jayson Tatum,9:05,3,Celtics,Pistons,66 - 63,0,0,2,Dunk
+27,Andre Drummond,FG_MISS,None,8:40,3,Pistons,Celtics,66 - 63,1, ,3,Jumper
+28,Jayson Tatum,DEFENSIVE_REBOUND,None,8:39,3,Celtics,Pistons,66 - 63,0,N/A,N/A,N/A
+29,Jayson Tatum,TURNOVER,Andre Drummond,8:36,3,Celtics,Pistons,66 - 63,0,N/A,N/A,N/A
+30,Andre Drummond,FG_MISS,None,8:31,3,Pistons,Celtics,66 - 63,1,0,2,Layup
+31,Reggie Jackson,OFFENSIVE_REBOUND,None,8:28,3,Pistons,Celtics,66 - 63,1,N/A,N/A,N/A
+32,Reggie Jackson,FG_UNASSISTED,None,8:28,3,Pistons,Celtics,66 - 65,1,0,2,Dunk
+33,Marcus Morris,FG_MISS,None,8:09,3,Celtics,Pistons,66 - 65,0,24,3,Jumper
+34,Reggie Bullock,DEFENSIVE_REBOUND,None,8:06,3,Pistons,Celtics,66 - 65,1,N/A,N/A,N/A
+35,Blake Griffin,FG_MISS,None,7:56,3,Pistons,Celtics,66 - 65,1,28,3,Jumper
+36,Marcus Smart,DEFENSIVE_REBOUND,None,7:51,3,Celtics,Pistons,66 - 65,0,N/A,N/A,N/A
+37,Marcus Morris,FG_MISS,None,7:47,3,Celtics,Pistons,66 - 65,0,26,3,Jumper
+38,Luke Kennard,DEFENSIVE_REBOUND,None,7:44,3,Pistons,Celtics,66 - 65,1,N/A,N/A,N/A
+39,Marcus Morris,FOUL_ON_FLOOR,None,7:40,3,Celtics,Pistons,66 - 65,0,N/A,N/A,N/A
+40,Andre Drummond,FT,None,7:40,3,Pistons,Celtics,66 - 66,1,N/A,1,N/A
+41,Andre Drummond,FT,None,7:40,3,Pistons,Celtics,66 - 67,1,N/A,1,N/A
+42,Aron Baynes's,FG_MISS,Andre Drummond,7:28,3,Pistons,Celtics,66 - 67,0, ,3,Jumper
+43,Team,OFFENSIVE_REBOUND,None,7:28,3,Celtics,Pistons,66 - 67,0,N/A,N/A,N/A
+44,Kyrie Irving,FG_MISS,None,7:22,3,Celtics,Pistons,66 - 67,0, ,3,Jumper
+45,Andre Drummond,DEFENSIVE_REBOUND,None,7:19,3,Pistons,Celtics,66 - 67,1,N/A,N/A,N/A
+46,Andre Drummond,FG_UNASSISTED,None,7:15,3,Pistons,Celtics,66 - 69,1, ,3,Jumper
+47,Kyrie Irving,FG_MISS,None,7:00,3,Celtics,Pistons,66 - 69,0,0,2,Layup
+48,Blake Griffin,DEFENSIVE_REBOUND,None,6:57,3,Pistons,Celtics,66 - 69,1,N/A,N/A,N/A
+49,Luke Kennard,FG_ASSISTED,Reggie Jackson,6:52,3,Pistons,Celtics,66 - 72,1, ,3,Jumper
+50,Jayson Tatum,FG_MISS,None,6:33,3,Celtics,Pistons,66 - 72,0,16,3,Jumper
+51,Blake Griffin,DEFENSIVE_REBOUND,None,6:30,3,Pistons,Celtics,66 - 72,1,N/A,N/A,N/A
+52,Blake Griffin,FG_UNASSISTED,None,6:19,3,Pistons,Celtics,66 - 74,1,8,3,Jumper
+53,Team,Unknown,None,6:17,3,Celtics,Pistons,66 - 74,0,N/A,N/A,N/A
+54,Gordon Hayward,SUBSTITUTION,Morris Marcus,6:17,3,Celtics,Pistons,66 - 74,0,N/A,N/A,N/A
+55,Daniel Theis,SUBSTITUTION,Baynes Aron,6:17,3,Celtics,Pistons,66 - 74,0,N/A,N/A,N/A
+56,Daniel Theis,JUMP_BALL,None,6:00,3,Pistons,Celtics,66 - 74,1,N/A,N/A,N/A
+57,Kyrie Irving,TURNOVER,Andre Drummond,6:00,3,Celtics,Pistons,66 - 74,0,N/A,N/A,N/A
+58,Andre Drummond,FG_ASSISTED,Luke Kennard,5:42,3,Pistons,Celtics,66 - 76,1,0,2,Dunk
+59,Kyrie Irving,FG_MISS,None,5:25,3,Celtics,Pistons,66 - 76,0,9,3,Jumper
+60,Daniel Theis,OFFENSIVE_REBOUND,None,5:21,3,Celtics,Pistons,66 - 76,0,N/A,N/A,N/A
+61,Daniel Theis,FG_UNASSISTED,None,5:20,3,Celtics,Pistons,68 - 76,0,0,2,Layup
+62,Andre Drummond,FG_ASSISTED,Blake Griffin,5:07,3,Pistons,Celtics,68 - 78,1,0,2,Dunk
+63,Daniel Theis,FG_MISS,Andre Drummond,4:45,3,Pistons,Celtics,68 - 78,0,0,2,Layup
+64,Andre Drummond,DEFENSIVE_REBOUND,None,4:43,3,Pistons,Celtics,68 - 78,1,N/A,N/A,N/A
+65,Jayson Tatum,FOUL_ON_FLOOR,None,4:27,3,Celtics,Pistons,68 - 78,0,N/A,N/A,N/A
+66,Blake Griffin,TURNOVER,Marcus Smart,4:14,3,Pistons,Celtics,68 - 78,1,N/A,N/A,N/A
+67,Luke Kennard,FOUL_ON_FLOOR,None,4:12,3,Pistons,Celtics,68 - 78,1,N/A,N/A,N/A
+68,Jayson Tatum,FG_MISS,None,4:07,3,Celtics,Pistons,68 - 78,0,26,3,Jumper
+69,Marcus Smart,OFFENSIVE_REBOUND,None,4:01,3,Celtics,Pistons,68 - 78,0,N/A,N/A,N/A
+70,Gordon Hayward,FG_UNASSISTED,None,3:55,3,Celtics,Pistons,70 - 78,0,8,3,Jumper
+71,Team,Unknown,None,3:47,3,Pistons,Celtics,70 - 78,1,N/A,N/A,N/A
+72,Jose Calderon,SUBSTITUTION,Jackson Reggie,3:47,3,Pistons,Celtics,70 - 78,1,N/A,N/A,N/A
+73,Terry Rozier,SUBSTITUTION,Tatum Jayson,3:47,3,Celtics,Pistons,70 - 78,0,N/A,N/A,N/A
+74,Jaylen Brown,SUBSTITUTION,Irving Kyrie,3:47,3,Celtics,Pistons,70 - 78,0,N/A,N/A,N/A
+75,Blake Griffin,FG_UNASSISTED,None,3:36,3,Pistons,Celtics,70 - 80,1,0,2,Layup
+76,Jaylen Brown,FOUL_ON_FLOOR,None,3:36,3,Celtics,Pistons,70 - 80,0,N/A,N/A,N/A
+77,Blake Griffin,FT_MISS,None,3:36,3,Pistons,Celtics,70 - 80,1,N/A,1,N/A
+78,Jaylen Brown,DEFENSIVE_REBOUND,None,3:36,3,Celtics,Pistons,70 - 80,0,N/A,N/A,N/A
+79,Andre Drummond,FOUL_ON_FLOOR,None,3:24,3,Pistons,Celtics,70 - 80,1,N/A,N/A,N/A
+80,Gordon Hayward,FG_MISS,None,3:17,3,Celtics,Pistons,70 - 80,0,8,3,Jumper
+81,Andre Drummond,DEFENSIVE_REBOUND,None,3:15,3,Pistons,Celtics,70 - 80,1,N/A,N/A,N/A
+82,Andre Drummond,FG_MISS,None,3:06,3,Pistons,Celtics,70 - 80,1,0,2,Layup
+83,Jaylen Brown,DEFENSIVE_REBOUND,None,3:02,3,Celtics,Pistons,70 - 80,0,N/A,N/A,N/A
+84,Gordon Hayward,FG_MISS,None,3:01,3,Celtics,Pistons,70 - 80,0,26,3,Jumper
+85,Reggie Bullock,DEFENSIVE_REBOUND,None,2:58,3,Pistons,Celtics,70 - 80,1,N/A,N/A,N/A
+86,Blake Griffin,TURNOVER,None,2:49,3,Pistons,Celtics,70 - 80,1,N/A,N/A,N/A
+87,Marcus Smart,FG_MISS,None,2:33,3,Celtics,Pistons,70 - 80,0,0,2,Layup
+88,Marcus Smart,OFFENSIVE_REBOUND,None,2:32,3,Celtics,Pistons,70 - 80,0,N/A,N/A,N/A
+89,Luke Kennard,FOUL_ON_FLOOR,None,2:32,3,Pistons,Celtics,70 - 80,1,N/A,N/A,N/A
+90,Marcus Smart,FT_MISS,None,2:32,3,Celtics,Pistons,70 - 80,0,N/A,1,N/A
+91,Team,OFFENSIVE_REBOUND,None,2:32,3,Celtics,Pistons,70 - 80,0,N/A,N/A,N/A
+92,Langston Galloway,SUBSTITUTION,Kennard Luke,2:32,3,Pistons,Celtics,70 - 80,1,N/A,N/A,N/A
+93,Marcus Smart,FT,None,2:32,3,Celtics,Pistons,71 - 80,0,N/A,1,N/A
+94,Andre Drummond,FG_MISS,None,2:09,3,Pistons,Celtics,71 - 80,1,0,2,Layup
+95,Marcus Smart,DEFENSIVE_REBOUND,None,2:08,3,Celtics,Pistons,71 - 80,0,N/A,N/A,N/A
+96,Gordon Hayward,FG_MISS,None,2:03,3,Celtics,Pistons,71 - 80,0,12,3,Jumper
+97,Andre Drummond,DEFENSIVE_REBOUND,None,1:59,3,Pistons,Celtics,71 - 80,1,N/A,N/A,N/A
+98,Jaylen Brown,FOUL_ON_FLOOR,None,1:49,3,Celtics,Pistons,71 - 80,0,N/A,N/A,N/A
+99,Blake Griffin,FT,None,1:49,3,Pistons,Celtics,71 - 81,1,N/A,1,N/A
+100,Blake Griffin,FT,None,1:49,3,Pistons,Celtics,71 - 82,1,N/A,1,N/A
+101,Daniel Theis,TURNOVER,Jose Calderon,1:36,3,Celtics,Pistons,71 - 82,0,N/A,N/A,N/A
+102,Reggie Bullock,FG_ASSISTED,Jose Calderon,1:30,3,Pistons,Celtics,71 - 85,1,23,3,Jumper
+103,Jaylen Brown,FG_MISS,None,1:04,3,Celtics,Pistons,71 - 85,0,0,2,Layup
+104,Andre Drummond,DEFENSIVE_REBOUND,None,1:02,3,Pistons,Celtics,71 - 85,1,N/A,N/A,N/A
+105,Reggie Bullock,FG_MISS,None,45.6,3,Pistons,Celtics,71 - 85,1, ,3,Jumper
+106,Terry Rozier,DEFENSIVE_REBOUND,None,42.1,3,Celtics,Pistons,71 - 85,0,N/A,N/A,N/A
+107,Marcus Smart,FG_ASSISTED,Terry Rozier,38.8,3,Celtics,Pistons,74 - 85,0,23,3,Jumper
+108,Jose Calderon,FG_MISS,None,31.7,3,Pistons,Celtics,74 - 85,1,27,3,Jumper
+109,Daniel Theis,DEFENSIVE_REBOUND,None,28.8,3,Celtics,Pistons,74 - 85,0,N/A,N/A,N/A
+110,Marcus Smart,FG_ASSISTED,Daniel Theis,21.9,3,Celtics,Pistons,77 - 85,0,25,3,Jumper
+111,Blake Griffin,FOUL_ON_FLOOR,None,6.2,3,Pistons,Celtics,77 - 85,1,N/A,N/A,N/A
+112,Blake Griffin,TURNOVER,None,6.2,3,Pistons,Celtics,77 - 85,1,N/A,N/A,N/A
+113,Bruce Brown,SUBSTITUTION,Griffin Blake,6.2,3,Pistons,Celtics,77 - 85,1,N/A,N/A,N/A
+114,Kyrie Irving,SUBSTITUTION,Theis Daniel,6.2,3,Celtics,Pistons,77 - 85,0,N/A,N/A,N/A
+115,Blake Griffin,FOUL_TECHNICAL,None,6.2,3,Pistons,Celtics,77 - 85,1,N/A,N/A,N/A
+116,Kyrie Irving,FT,None,6.2,3,Celtics,Pistons,78 - 85,0,N/A,1,N/A
+117,Kyrie Irving,FG_MISS,None,1.2,3,Celtics,Pistons,78 - 85,0,0,2,Layup
+118,Gordon Hayward,OFFENSIVE_REBOUND,None,1.0,3,Celtics,Pistons,78 - 85,0,N/A,N/A,N/A
+119,Gordon Hayward,FG_MISS,None,0.9,3,Celtics,Pistons,78 - 85,0,2,3,Jumper
+120,Team,OFFENSIVE_REBOUND,None,0.1,3,Celtics,Pistons,78 - 85,0,N/A,N/A,N/A
+121,End of,Unknown,None,0.0,3,Pistons,Celtics,78 - 85,1,N/A,N/A,N/A
+0,Stanley Johnson,SUBSTITUTION,Bullock Reggie,12:00,4,Pistons,Celtics,78 - 85,1,N/A,N/A,N/A
+1,Langston Galloway,FG_MISS,None,12:00,4,Pistons,Celtics,78 - 85,1,27,3,Jumper
+2,Daniel Theis,SUBSTITUTION,Irving Kyrie,12:00,4,Celtics,Pistons,78 - 85,0,N/A,N/A,N/A
+3,Andre Drummond,OFFENSIVE_REBOUND,None,11:42,4,Pistons,Celtics,78 - 85,1,N/A,N/A,N/A
+4,Andre Drummond,FG_UNASSISTED,None,11:42,4,Pistons,Celtics,78 - 87,1,0,2,Layup
+5,Daniel Theis,FOUL_ON_FLOOR,None,11:42,4,Celtics,Pistons,78 - 87,0,N/A,N/A,N/A
+6,Andre Drummond,FT,None,11:42,4,Pistons,Celtics,78 - 88,1,N/A,1,N/A
+7,Marcus Smart,FG_MISS,None,11:29,4,Celtics,Pistons,78 - 88,0,7,3,Jumper
+8,Team,DEFENSIVE_REBOUND,None,11:28,4,Pistons,Celtics,78 - 88,1,N/A,N/A,N/A
+9,Aron Baynes,SUBSTITUTION,Theis Daniel,11:28,4,Celtics,Pistons,78 - 88,0,N/A,N/A,N/A
+10,Langston Galloway,FG_MISS,None,11:13,4,Pistons,Celtics,78 - 88,1,24,3,Jumper
+11,Langston Galloway,OFFENSIVE_REBOUND,None,11:10,4,Pistons,Celtics,78 - 88,1,N/A,N/A,N/A
+12,Langston Galloway,FG_UNASSISTED,None,11:09,4,Pistons,Celtics,78 - 90,1,0,2,Layup
+13,Bruce Brown,FOUL_ON_FLOOR,None,10:54,4,Pistons,Celtics,78 - 90,1,N/A,N/A,N/A
+14,Terry Rozier,FT_MISS,None,10:54,4,Celtics,Pistons,78 - 90,0,N/A,1,N/A
+15,Team,OFFENSIVE_REBOUND,None,10:54,4,Celtics,Pistons,78 - 90,0,N/A,N/A,N/A
+16,Marcus Morris,SUBSTITUTION,Smart Marcus,10:54,4,Celtics,Pistons,78 - 90,0,N/A,N/A,N/A
+17,Terry Rozier,FT,None,10:54,4,Celtics,Pistons,79 - 90,0,N/A,1,N/A
+18,Jose Calderon,FOUL_ON_FLOOR,None,10:41,4,Pistons,Celtics,79 - 90,1,N/A,N/A,N/A
+19,Jose Calderon,TURNOVER,None,10:41,4,Pistons,Celtics,79 - 90,1,N/A,N/A,N/A
+20,Terry Rozier,FG_MISS,None,10:32,4,Celtics,Pistons,79 - 90,0,27,3,Jumper
+21,Andre Drummond,DEFENSIVE_REBOUND,None,10:28,4,Pistons,Celtics,79 - 90,1,N/A,N/A,N/A
+22,Jose Calderon,FG_UNASSISTED,None,10:21,4,Pistons,Celtics,79 - 92,1,14,3,Jumper
+23,Terry Rozier,FG_MISS,Bruce Brown,10:05,4,Pistons,Celtics,79 - 92,0,0,2,Layup
+24,Andre Drummond,DEFENSIVE_REBOUND,None,10:03,4,Pistons,Celtics,79 - 92,1,N/A,N/A,N/A
+25,Bruce Brown,FG_MISS,None,9:43,4,Pistons,Celtics,79 - 92,1,23,3,Jumper
+26,Andre Drummond,OFFENSIVE_REBOUND,None,9:42,4,Pistons,Celtics,79 - 92,1,N/A,N/A,N/A
+27,shot clock,TURNOVER,None,9:42,4,Pistons,Celtics,79 - 92,1,N/A,N/A,N/A
+28,Kyrie Irving,SUBSTITUTION,Hayward Gordon,9:42,4,Celtics,Pistons,79 - 92,0,N/A,N/A,N/A
+29,Aron Baynes,TURNOVER,Stanley Johnson,9:27,4,Celtics,Pistons,79 - 92,0,N/A,N/A,N/A
+30,Stanley Johnson,FG_UNASSISTED,None,9:20,4,Pistons,Celtics,79 - 94,1,0,2,Layup
+31,Team,Unknown,None,9:20,4,Celtics,Pistons,79 - 94,0,N/A,N/A,N/A
+32,Jon Leuer,SUBSTITUTION,Drummond Andre,9:20,4,Pistons,Celtics,79 - 94,1,N/A,N/A,N/A
+33,Kyrie Irving,FG_MISS,None,9:05,4,Celtics,Pistons,79 - 94,0,0,2,Layup
+34,Jon Leuer,DEFENSIVE_REBOUND,None,9:04,4,Pistons,Celtics,79 - 94,1,N/A,N/A,N/A
+35,Aron Baynes,FOUL_ON_FLOOR,None,8:51,4,Celtics,Pistons,79 - 94,0,N/A,N/A,N/A
+36,Robert Williams,SUBSTITUTION,Baynes Aron,8:51,4,Celtics,Pistons,79 - 94,0,N/A,N/A,N/A
+37,Marcus Morris,FOUL_ON_FLOOR,None,8:37,4,Celtics,Pistons,79 - 94,0,N/A,N/A,N/A
+38,Jose Calderon,FT_MISS,None,8:37,4,Pistons,Celtics,79 - 94,1,N/A,1,N/A
+39,Team,OFFENSIVE_REBOUND,None,8:37,4,Pistons,Celtics,79 - 94,1,N/A,N/A,N/A
+40,Jose Calderon,FT,None,8:37,4,Pistons,Celtics,79 - 95,1,N/A,1,N/A
+41,Jaylen Brown,TURNOVER,None,8:24,4,Celtics,Pistons,79 - 95,0,N/A,N/A,N/A
+42,Stanley Johnson,FG_MISS,None,8:10,4,Pistons,Celtics,79 - 95,1,26,3,Jumper
+43,Terry Rozier,DEFENSIVE_REBOUND,None,8:08,4,Celtics,Pistons,79 - 95,0,N/A,N/A,N/A
+44,Terry Rozier,TURNOVER,Jose Calderon,8:03,4,Celtics,Pistons,79 - 95,0,N/A,N/A,N/A
+45,Jon Leuer,FG_MISS,None,7:59,4,Pistons,Celtics,79 - 95,1,0,2,Layup
+46,Marcus Morris,DEFENSIVE_REBOUND,None,7:54,4,Celtics,Pistons,79 - 95,0,N/A,N/A,N/A
+47,Marcus Morris,FG_MISS,None,7:47,4,Celtics,Pistons,79 - 95,0,26,3,Jumper
+48,Jose Calderon,DEFENSIVE_REBOUND,None,7:45,4,Pistons,Celtics,79 - 95,1,N/A,N/A,N/A
+49,Jon Leuer,TURNOVER,None,7:28,4,Pistons,Celtics,79 - 95,1,N/A,N/A,N/A
+50,Jayson Tatum,SUBSTITUTION,Brown Jaylen,7:28,4,Celtics,Pistons,79 - 95,0,N/A,N/A,N/A
+51,Jose Calderon,FOUL_ON_FLOOR,None,7:18,4,Pistons,Celtics,79 - 95,1,N/A,N/A,N/A
+52,Blake Griffin,SUBSTITUTION,Johnson Stanley,7:18,4,Pistons,Celtics,79 - 95,1,N/A,N/A,N/A
+53,Kyrie Irving,FG_MISS,None,7:10,4,Celtics,Pistons,79 - 95,0,28,3,Jumper
+54,Jose Calderon,DEFENSIVE_REBOUND,None,7:07,4,Pistons,Celtics,79 - 95,1,N/A,N/A,N/A
+55,Jose Calderon,TURNOVER,Kyrie Irving,7:01,4,Pistons,Celtics,79 - 95,1,N/A,N/A,N/A
+56,Jose Calderon,FOUL_ON_FLOOR,None,6:58,4,Pistons,Celtics,79 - 95,1,N/A,N/A,N/A
+57,Kyrie Irving,FT,None,6:58,4,Celtics,Pistons,80 - 95,0,N/A,1,N/A
+58,Kyrie Irving,FT_MISS,None,6:58,4,Celtics,Pistons,80 - 95,0,N/A,1,N/A
+59,Bruce Brown,DEFENSIVE_REBOUND,None,6:56,4,Pistons,Celtics,80 - 95,1,N/A,N/A,N/A
+60,Team,Unknown,None,6:50,4,Pistons,Celtics,80 - 95,1,N/A,N/A,N/A
+61,Andre Drummond,SUBSTITUTION,Leuer Jon,6:50,4,Pistons,Celtics,80 - 95,1,N/A,N/A,N/A
+62,Langston Galloway,FG_MISS,None,6:35,4,Pistons,Celtics,80 - 95,1,23,3,Jumper
+63,Andre Drummond,OFFENSIVE_REBOUND,None,6:33,4,Pistons,Celtics,80 - 95,1,N/A,N/A,N/A
+64,Andre Drummond,FG_MISS,None,6:32,4,Pistons,Celtics,80 - 95,1,0,2,Layup
+65,Marcus Morris,DEFENSIVE_REBOUND,None,6:29,4,Celtics,Pistons,80 - 95,0,N/A,N/A,N/A
+66,Bruce Brown,FOUL_ON_FLOOR,None,6:24,4,Pistons,Celtics,80 - 95,1,N/A,N/A,N/A
+67,Jayson Tatum,FT,None,6:24,4,Celtics,Pistons,81 - 95,0,N/A,1,N/A
+68,Jayson Tatum,FT_MISS,None,6:24,4,Celtics,Pistons,81 - 95,0,N/A,1,N/A
+69,Jayson Tatum,FOUL_TECHNICAL,None,6:24,4,Celtics,Pistons,81 - 95,0,N/A,N/A,N/A
+70,Langston Galloway,FT_MISS,None,6:24,4,Pistons,Celtics,81 - 95,1,N/A,1,N/A
+71,Team,OFFENSIVE_REBOUND,None,6:24,4,Celtics,Pistons,81 - 95,0,N/A,N/A,N/A
+72,Andre Drummond,DEFENSIVE_REBOUND,None,6:17,4,Pistons,Celtics,81 - 95,1,N/A,N/A,N/A
+73,Langston Galloway,FG_MISS,None,6:02,4,Pistons,Celtics,81 - 95,1,25,3,Jumper
+74,Robert Williams,DEFENSIVE_REBOUND,None,5:56,4,Celtics,Pistons,81 - 95,0,N/A,N/A,N/A
+75,Terry Rozier,FG_MISS,None,5:45,4,Celtics,Pistons,81 - 95,0,28,3,Jumper
+76,Andre Drummond,DEFENSIVE_REBOUND,None,5:43,4,Pistons,Celtics,81 - 95,1,N/A,N/A,N/A
+77,Langston Galloway,FG_ASSISTED,Jose Calderon,5:22,4,Pistons,Celtics,81 - 97,1,0,2,Layup
+78,Jose Calderon,FOUL_ON_FLOOR,None,5:16,4,Pistons,Celtics,81 - 97,1,N/A,N/A,N/A
+79,Jayson Tatum,FT,None,5:16,4,Celtics,Pistons,82 - 97,0,N/A,1,N/A
+80,Reggie Bullock,SUBSTITUTION,Galloway Langston,5:16,4,Pistons,Celtics,82 - 97,1,N/A,N/A,N/A
+81,Gordon Hayward,SUBSTITUTION,Rozier Terry,5:16,4,Celtics,Pistons,82 - 97,0,N/A,N/A,N/A
+82,Jayson Tatum,FT,None,5:16,4,Celtics,Pistons,83 - 97,0,N/A,1,N/A
+83,Marcus Smart,SUBSTITUTION,for game,5:16,4,Celtics,Pistons,83 - 97,0,N/A,N/A,N/A
+84,Marcus Smart,SUBSTITUTION,Morris Marcus,5:16,4,Celtics,Pistons,83 - 97,0,N/A,N/A,N/A
+85,Reggie Bullock,TURNOVER,Marcus Smart,5:01,4,Pistons,Celtics,83 - 97,1,N/A,N/A,N/A
+86,Reggie Bullock,FOUL_ON_FLOOR,None,4:57,4,Pistons,Celtics,83 - 97,1,N/A,N/A,N/A
+87,Marcus Smart,FT,None,4:57,4,Celtics,Pistons,84 - 97,0,N/A,1,N/A
+88,Marcus Smart,FT,None,4:57,4,Celtics,Pistons,85 - 97,0,N/A,1,N/A
+89,Bruce Brown,FG_MISS,Jayson Tatum,4:36,4,Celtics,Pistons,85 - 97,1,0,2,Layup
+90,Jayson Tatum,DEFENSIVE_REBOUND,None,4:33,4,Celtics,Pistons,85 - 97,0,N/A,N/A,N/A
+91,Marcus Smart,FG_ASSISTED,Gordon Hayward,4:29,4,Celtics,Pistons,88 - 97,0,24,3,Jumper
+92,Team,Unknown,None,4:20,4,Pistons,Celtics,88 - 97,1,N/A,N/A,N/A
+93,Langston Galloway,SUBSTITUTION,Brown Bruce,4:20,4,Pistons,Celtics,88 - 97,1,N/A,N/A,N/A
+94,Langston Galloway,FG_MISS,None,4:04,4,Pistons,Celtics,88 - 97,1,26,3,Jumper
+95,Marcus Smart,DEFENSIVE_REBOUND,None,4:00,4,Celtics,Pistons,88 - 97,0,N/A,N/A,N/A
+96,Gordon Hayward,FG_ASSISTED,Marcus Smart,3:56,4,Celtics,Pistons,90 - 97,0,0,2,Layup
+97,Reggie Bullock,FG_ASSISTED,Jose Calderon,3:37,4,Pistons,Celtics,90 - 100,1,25,3,Jumper
+98,Gordon Hayward,FG_MISS,None,3:28,4,Celtics,Pistons,90 - 100,0,26,3,Jumper
+99,Reggie Bullock,DEFENSIVE_REBOUND,None,3:22,4,Pistons,Celtics,90 - 100,1,N/A,N/A,N/A
+100,Marcus Smart,FOUL_ON_FLOOR,None,3:09,4,Celtics,Pistons,90 - 100,0,N/A,N/A,N/A
+101,Blake Griffin,FT,None,3:09,4,Pistons,Celtics,90 - 101,1,N/A,1,N/A
+102,Daniel Theis,SUBSTITUTION,Williams Robert,3:09,4,Celtics,Pistons,90 - 101,0,N/A,N/A,N/A
+103,Blake Griffin,FT,None,3:09,4,Pistons,Celtics,90 - 102,1,N/A,1,N/A
+104,Kyrie Irving,FG_MISS,None,3:03,4,Celtics,Pistons,90 - 102,0,25,3,Jumper
+105,Andre Drummond,DEFENSIVE_REBOUND,None,3:00,4,Pistons,Celtics,90 - 102,1,N/A,N/A,N/A
+106,Jayson Tatum,FOUL_ON_FLOOR,None,2:51,4,Celtics,Pistons,90 - 102,0,N/A,N/A,N/A
+107,Blake Griffin,FT,None,2:51,4,Pistons,Celtics,90 - 103,1,N/A,1,N/A
+108,Blake Griffin,FT,None,2:51,4,Pistons,Celtics,90 - 104,1,N/A,1,N/A
+109,Kyrie Irving,FG_UNASSISTED,None,2:43,4,Celtics,Pistons,92 - 104,0,2,3,Jumper
+110,Daniel Theis,FOUL_ON_FLOOR,None,2:35,4,Celtics,Pistons,92 - 104,0,N/A,N/A,N/A
+111,Andre Drummond,FT_MISS,None,2:35,4,Pistons,Celtics,92 - 104,1,N/A,1,N/A
+112,Team,OFFENSIVE_REBOUND,None,2:35,4,Pistons,Celtics,92 - 104,1,N/A,N/A,N/A
+113,Andre Drummond,FT,None,2:35,4,Pistons,Celtics,92 - 105,1,N/A,1,N/A
+114,Marcus Smart,FG_ASSISTED,Kyrie Irving,2:24,4,Celtics,Pistons,94 - 105,0,2,3,Jumper
+115,Daniel Theis,FOUL_ON_FLOOR,None,2:21,4,Celtics,Pistons,94 - 105,0,N/A,N/A,N/A
+116,Andre Drummond,FT,None,2:21,4,Pistons,Celtics,94 - 106,1,N/A,1,N/A
+117,Andre Drummond,FT,None,2:21,4,Pistons,Celtics,94 - 107,1,N/A,1,N/A
+118,Daniel Theis,FG_MISS,None,2:15,4,Celtics,Pistons,94 - 107,0,23,3,Jumper
+119,Marcus Smart,OFFENSIVE_REBOUND,None,2:13,4,Celtics,Pistons,94 - 107,0,N/A,N/A,N/A
+120,Marcus Smart,FG_MISS,None,2:13,4,Celtics,Pistons,94 - 107,0,0,2,Layup
+121,Team,OFFENSIVE_REBOUND,None,2:13,4,Celtics,Pistons,94 - 107,0,N/A,N/A,N/A
+122,Jose Calderon,FOUL_ON_FLOOR,None,2:13,4,Pistons,Celtics,94 - 107,1,N/A,N/A,N/A
+123,Jayson Tatum,FT,None,2:13,4,Celtics,Pistons,95 - 107,0,N/A,1,N/A
+124,Jayson Tatum,FT,None,2:13,4,Celtics,Pistons,96 - 107,0,N/A,1,N/A
+125,Blake Griffin,TURNOVER,Kyrie Irving,2:00,4,Pistons,Celtics,96 - 107,1,N/A,N/A,N/A
+126,Kyrie Irving,FG_MISS,None,1:55,4,Celtics,Pistons,96 - 107,0,0,2,Layup
+127,Jayson Tatum,OFFENSIVE_REBOUND,None,1:54,4,Celtics,Pistons,96 - 107,0,N/A,N/A,N/A
+128,Jayson Tatum,FG_UNASSISTED,None,1:54,4,Celtics,Pistons,98 - 107,0,1,3,Jumper
+129,Reggie Bullock,FG_MISS,None,1:34,4,Pistons,Celtics,98 - 107,1,23,3,Jumper
+130,Marcus Smart,DEFENSIVE_REBOUND,None,1:30,4,Celtics,Pistons,98 - 107,0,N/A,N/A,N/A
+131,Jayson Tatum,FG_MISS,Andre Drummond,1:25,4,Pistons,Celtics,98 - 107,0,0,2,Dunk
+132,Blake Griffin,DEFENSIVE_REBOUND,None,1:22,4,Pistons,Celtics,98 - 107,1,N/A,N/A,N/A
+133,Kyrie Irving,FOUL_ON_FLOOR,None,1:22,4,Celtics,Pistons,98 - 107,0,N/A,N/A,N/A
+134,Blake Griffin,FT,None,1:22,4,Pistons,Celtics,98 - 108,1,N/A,1,N/A
+135,Blake Griffin,FT,None,1:22,4,Pistons,Celtics,98 - 109,1,N/A,1,N/A
+136,Jose Calderon,FOUL_ON_FLOOR,None,1:21,4,Pistons,Celtics,98 - 109,1,N/A,N/A,N/A
+137,Marcus Smart,FT_MISS,None,1:21,4,Celtics,Pistons,98 - 109,0,N/A,1,N/A
+138,Reggie Jackson,SUBSTITUTION,Calderon Jose,1:21,4,Pistons,Celtics,98 - 109,1,N/A,N/A,N/A
+139,Marcus Morris,SUBSTITUTION,Theis Daniel,1:21,4,Celtics,Pistons,98 - 109,0,N/A,N/A,N/A
+140,Marcus Smart,FT,None,1:21,4,Celtics,Pistons,100 - 109,0,N/A,1,N/A
+141,Team,OFFENSIVE_REBOUND,None,1:21,4,Celtics,Pistons,99 - 109,0,N/A,N/A,N/A
+142,Reggie Bullock,TURNOVER,Jayson Tatum,1:07,4,Pistons,Celtics,99 - 109,1,N/A,N/A,N/A
+143,Jayson Tatum,FG_UNASSISTED,None,1:06,4,Celtics,Pistons,101 - 109,0,0,2,Dunk
+144,Blake Griffin,TURNOVER,None,58.5,4,Pistons,Celtics,101 - 109,1,N/A,N/A,N/A
+145,Marcus Morris,FG_MISS,None,48.7,4,Celtics,Pistons,101 - 109,0,28,3,Jumper
+146,Andre Drummond,DEFENSIVE_REBOUND,None,45.3,4,Pistons,Celtics,101 - 109,1,N/A,N/A,N/A
+147,Marcus Smart,FOUL_ON_FLOOR,None,42.5,4,Celtics,Pistons,101 - 109,0,N/A,N/A,N/A
+148,Reggie Jackson,FT,None,42.5,4,Pistons,Celtics,101 - 110,1,N/A,1,N/A
+149,Reggie Jackson,FT,None,42.5,4,Pistons,Celtics,101 - 111,1,N/A,1,N/A
+150,Kyrie Irving,FG_UNASSISTED,None,38.1,4,Celtics,Pistons,104 - 111,0,26,3,Jumper
+151,Team,Unknown,None,33.6,4,Pistons,Celtics,104 - 111,1,N/A,N/A,N/A
+152,Team,Unknown,None,33.6,4,Pistons,Celtics,104 - 111,1,N/A,N/A,N/A
+153,Luke Kennard,SUBSTITUTION,Drummond Andre,33.6,4,Pistons,Celtics,104 - 111,1,N/A,N/A,N/A
+154,Marcus Morris,FOUL_ON_FLOOR,None,28.2,4,Celtics,Pistons,104 - 111,0,N/A,N/A,N/A
+155,Terry Rozier,SUBSTITUTION,Morris Marcus,28.2,4,Celtics,Pistons,104 - 111,0,N/A,N/A,N/A
+156,Reggie Jackson,FT,None,28.2,4,Pistons,Celtics,104 - 112,1,N/A,1,N/A
+157,Reggie Jackson,FT,None,28.2,4,Pistons,Celtics,104 - 113,1,N/A,1,N/A
+158,Team,Unknown,None,28.2,4,Celtics,Pistons,104 - 113,0,N/A,N/A,N/A
+159,Kyrie Irving,FG_MISS,None,25.1,4,Celtics,Pistons,104 - 113,0,30,3,Jumper
+160,Blake Griffin,DEFENSIVE_REBOUND,None,21.2,4,Pistons,Celtics,104 - 113,1,N/A,N/A,N/A
+161,End of,Unknown,None,0.0,4,Pistons,Celtics,104 - 113,1,N/A,N/A,N/A
+162,End of,Unknown,None,0.0,4,Pistons,Celtics,104 - 113,1,N/A,N/A,N/A

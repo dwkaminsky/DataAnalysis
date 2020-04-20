@@ -1,0 +1,462 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Larry Nance,JUMP_BALL,None,12:00,1,Bucks,Cavaliers,0 - 0,1,N/A,N/A,N/A
+1,Khris Middleton,FG_UNASSISTED,None,11:34,1,Bucks,Cavaliers,0 - 2,1,8,2,Jumper
+2,Kevin Love,FG_MISS,None,11:18,1,Cavaliers,Bucks,0 - 2,0,27,3,Jumper
+3,Khris Middleton,DEFENSIVE_REBOUND,None,11:15,1,Bucks,Cavaliers,0 - 2,1,N/A,N/A,N/A
+4,Brook Lopez,FG_ASSISTED,Eric Bledsoe,11:04,1,Bucks,Cavaliers,0 - 5,1,27,3,Jumper
+5,Larry Nance,FG_ASSISTED,Kevin Love,10:48,1,Cavaliers,Bucks,3 - 5,0,28,3,Jumper
+6,Brook Lopez,FG_ASSISTED,Giannis Antetokounmpo,10:38,1,Bucks,Cavaliers,3 - 8,1,27,3,Jumper
+7,Kevin Love,FG_MISS,None,10:23,1,Cavaliers,Bucks,3 - 8,0,26,3,Jumper
+8,Team,OFFENSIVE_REBOUND,None,10:23,1,Cavaliers,Bucks,3 - 8,0,N/A,N/A,N/A
+9,Khris Middleton,FOUL_ON_FLOOR,None,10:12,1,Bucks,Cavaliers,3 - 8,1,N/A,N/A,N/A
+10,Cedi Osman,FT,None,10:12,1,Cavaliers,Bucks,4 - 8,0,N/A,1,N/A
+11,Cedi Osman,FT_MISS,None,10:12,1,Cavaliers,Bucks,4 - 8,0,N/A,1,N/A
+12,Giannis Antetokounmpo,DEFENSIVE_REBOUND,None,10:09,1,Bucks,Cavaliers,4 - 8,1,N/A,N/A,N/A
+13,Giannis Antetokounmpo,FG_ASSISTED,Eric Bledsoe,9:54,1,Bucks,Cavaliers,4 - 10,1,0,2,Dunk
+14,Collin Sexton,FG_ASSISTED,Larry Nance,9:35,1,Cavaliers,Bucks,6 - 10,0, ,2,Jumper
+15,Tony Snell,FG_ASSISTED,Giannis Antetokounmpo,9:26,1,Bucks,Cavaliers,6 - 13,1,28,3,Jumper
+16,Cedi Osman,TURNOVER,Eric Bledsoe,9:13,1,Cavaliers,Bucks,6 - 13,0,N/A,N/A,N/A
+17,Giannis Antetokounmpo,FG_ASSISTED,Eric Bledsoe,9:09,1,Bucks,Cavaliers,6 - 15,1,0,2,Dunk
+18,Team,Unknown,None,9:09,1,Cavaliers,Bucks,6 - 15,0,N/A,N/A,N/A
+19,Brandon Knight,FG_MISS,None,8:53,1,Cavaliers,Bucks,6 - 15,0, ,2,Jumper
+20,Tony Snell,DEFENSIVE_REBOUND,None,8:50,1,Bucks,Cavaliers,6 - 15,1,N/A,N/A,N/A
+21,Giannis Antetokounmpo,TURNOVER,None,8:40,1,Bucks,Cavaliers,6 - 15,1,N/A,N/A,N/A
+22,Larry Nance,FG_ASSISTED,Collin Sexton,8:17,1,Cavaliers,Bucks,9 - 15,0,22,3,Jumper
+23,Giannis Antetokounmpo,FG_MISS,None,8:03,1,Bucks,Cavaliers,9 - 15,1, ,3,Jumper
+24,Collin Sexton,DEFENSIVE_REBOUND,None,8:01,1,Cavaliers,Bucks,9 - 15,0,N/A,N/A,N/A
+25,Collin Sexton,FG_MISS,None,7:55,1,Cavaliers,Bucks,9 - 15,0,0,2,Layup
+26,Tony Snell,DEFENSIVE_REBOUND,None,7:53,1,Bucks,Cavaliers,9 - 15,1,N/A,N/A,N/A
+27,Brook Lopez,FG_ASSISTED,Eric Bledsoe,7:46,1,Bucks,Cavaliers,9 - 18,1,27,3,Jumper
+28,Brandon Knight,FG_MISS,None,7:29,1,Cavaliers,Bucks,9 - 18,0,25,3,Jumper
+29,Giannis Antetokounmpo,DEFENSIVE_REBOUND,None,7:26,1,Bucks,Cavaliers,9 - 18,1,N/A,N/A,N/A
+30,Giannis Antetokounmpo,FG_UNASSISTED,None,7:20,1,Bucks,Cavaliers,9 - 20,1,0,2,Dunk
+31,Brandon Knight,FG_MISS,None,7:07,1,Cavaliers,Bucks,9 - 20,0, ,2,Jumper
+32,Brook Lopez,DEFENSIVE_REBOUND,None,7:04,1,Bucks,Cavaliers,9 - 20,1,N/A,N/A,N/A
+33,Khris Middleton,FG_MISS,None,7:01,1,Bucks,Cavaliers,9 - 20,1,26,3,Jumper
+34,Larry Nance,DEFENSIVE_REBOUND,None,6:56,1,Cavaliers,Bucks,9 - 20,0,N/A,N/A,N/A
+35,Larry Nance,FG_ASSISTED,Brandon Knight,6:39,1,Cavaliers,Bucks,11 - 20,0,0,2,Layup
+36,Cedi Osman,FOUL_ON_FLOOR,None,6:16,1,Cavaliers,Bucks,11 - 20,0,N/A,N/A,N/A
+37,Eric Bledsoe,FT,None,6:16,1,Bucks,Cavaliers,11 - 21,1,N/A,1,N/A
+38,Pat Connaughton,SUBSTITUTION,Snell Tony,6:16,1,Bucks,Cavaliers,11 - 21,1,N/A,N/A,N/A
+39,Jordan Clarkson,SUBSTITUTION,Knight Brandon,6:16,1,Cavaliers,Bucks,11 - 21,0,N/A,N/A,N/A
+40,Eric Bledsoe,FT,None,6:16,1,Bucks,Cavaliers,11 - 22,1,N/A,1,N/A
+41,Giannis Antetokounmpo,FOUL_ON_FLOOR,None,6:06,1,Bucks,Cavaliers,11 - 22,1,N/A,N/A,N/A
+42,Larry Nance,FT_MISS,None,6:06,1,Cavaliers,Bucks,11 - 22,0,N/A,1,N/A
+43,Team,OFFENSIVE_REBOUND,None,6:06,1,Cavaliers,Bucks,11 - 22,0,N/A,N/A,N/A
+44,D.J. Wilson,SUBSTITUTION,Antetokounmpo Giannis,6:06,1,Bucks,Cavaliers,11 - 22,1,N/A,N/A,N/A
+45,Larry Nance,FT,None,6:06,1,Cavaliers,Bucks,12 - 22,0,N/A,1,N/A
+46,Khris Middleton,FG_MISS,None,5:56,1,Bucks,Cavaliers,12 - 22,1,26,3,Jumper
+47,Kevin Love,DEFENSIVE_REBOUND,None,5:53,1,Cavaliers,Bucks,12 - 22,0,N/A,N/A,N/A
+48,Cedi Osman,FG_ASSISTED,Kevin Love,5:52,1,Cavaliers,Bucks,14 - 22,0, ,2,Jumper
+49,Brook Lopez,FG_MISS,None,5:41,1,Bucks,Cavaliers,14 - 22,1,29,3,Jumper
+50,Cedi Osman,DEFENSIVE_REBOUND,None,5:38,1,Cavaliers,Bucks,14 - 22,0,N/A,N/A,N/A
+51,Larry Nance,TURNOVER,Brook Lopez,5:26,1,Cavaliers,Bucks,14 - 22,0,N/A,N/A,N/A
+52,Collin Sexton,FOUL_ON_FLOOR,None,5:26,1,Cavaliers,Bucks,14 - 22,0,N/A,N/A,N/A
+53,George Hill,SUBSTITUTION,Bledsoe Eric,5:26,1,Bucks,Cavaliers,14 - 22,1,N/A,N/A,N/A
+54,Brook Lopez,FG_MISS,None,5:12,1,Bucks,Cavaliers,14 - 22,1,5,2,Jumper
+55,Kevin Love,DEFENSIVE_REBOUND,None,5:10,1,Cavaliers,Bucks,14 - 22,0,N/A,N/A,N/A
+56,Collin Sexton,FG_UNASSISTED,None,5:03,1,Cavaliers,Bucks,16 - 22,0,16,2,Jumper
+57,Team,Unknown,None,5:03,1,Bucks,Cavaliers,16 - 22,1,N/A,N/A,N/A
+58,Ersan Ilyasova,SUBSTITUTION,Lopez Brook,5:03,1,Bucks,Cavaliers,16 - 22,1,N/A,N/A,N/A
+59,George Hill,FG_UNASSISTED,None,4:43,1,Bucks,Cavaliers,16 - 24,1, ,2,Jumper
+60,Kevin Love,FG_UNASSISTED,None,4:22,1,Cavaliers,Bucks,18 - 24,0,16,2,Jumper
+61,Khris Middleton,FG_MISS,None,4:10,1,Bucks,Cavaliers,18 - 24,1,20,2,Jumper
+62,Kevin Love,DEFENSIVE_REBOUND,None,4:07,1,Cavaliers,Bucks,18 - 24,0,N/A,N/A,N/A
+63,Cedi Osman,TURNOVER,Khris Middleton,4:02,1,Cavaliers,Bucks,18 - 24,0,N/A,N/A,N/A
+64,Khris Middleton,TURNOVER,Cedi Osman,3:57,1,Bucks,Cavaliers,18 - 24,1,N/A,N/A,N/A
+65,Kevin Love,FG_ASSISTED,Jordan Clarkson,3:50,1,Cavaliers,Bucks,21 - 24,0,27,3,Jumper
+66,Larry Nance,FOUL_ON_FLOOR,None,3:37,1,Cavaliers,Bucks,21 - 24,0,N/A,N/A,N/A
+67,Sterling Brown,SUBSTITUTION,Middleton Khris,3:37,1,Bucks,Cavaliers,21 - 24,1,N/A,N/A,N/A
+68,Tristan Thompson,SUBSTITUTION,Nance Larry,3:37,1,Cavaliers,Bucks,21 - 24,0,N/A,N/A,N/A
+69,Sterling Brown,FG_MISS,None,3:22,1,Bucks,Cavaliers,21 - 24,1,26,3,Jumper
+70,Team,DEFENSIVE_REBOUND,None,3:21,1,Cavaliers,Bucks,21 - 24,0,N/A,N/A,N/A
+71,Sterling Brown,FOUL_ON_FLOOR,None,3:16,1,Bucks,Cavaliers,21 - 24,1,N/A,N/A,N/A
+72,Cedi Osman,FG_UNASSISTED,None,3:04,1,Cavaliers,Bucks,23 - 24,0,0,2,Layup
+73,George Hill,FG_ASSISTED,Sterling Brown,2:53,1,Bucks,Cavaliers,23 - 26,1,0,2,Layup
+74,Cedi Osman,FG_MISS,None,2:40,1,Cavaliers,Bucks,23 - 26,0,29,3,Jumper
+75,George Hill,DEFENSIVE_REBOUND,None,2:36,1,Bucks,Cavaliers,23 - 26,1,N/A,N/A,N/A
+76,D.J. Wilson,FG_MISS,None,2:23,1,Bucks,Cavaliers,23 - 26,1,24,3,Jumper
+77,Cedi Osman,DEFENSIVE_REBOUND,None,2:20,1,Cavaliers,Bucks,23 - 26,0,N/A,N/A,N/A
+78,Giannis Antetokounmpo,SUBSTITUTION,Wilson D.J.,2:10,1,Bucks,Cavaliers,23 - 26,1,N/A,N/A,N/A
+79,David Nwaba,SUBSTITUTION,Love Kevin,2:10,1,Cavaliers,Bucks,23 - 26,0,N/A,N/A,N/A
+80,Brandon Knight,SUBSTITUTION,Sexton Collin,2:10,1,Cavaliers,Bucks,23 - 26,0,N/A,N/A,N/A
+81,David Nwaba,FG_MISS,None,1:58,1,Cavaliers,Bucks,23 - 26,0, ,2,Jumper
+82,Giannis Antetokounmpo,DEFENSIVE_REBOUND,None,1:55,1,Bucks,Cavaliers,23 - 26,1,N/A,N/A,N/A
+83,Tristan Thompson,FOUL_ON_FLOOR,None,1:52,1,Cavaliers,Bucks,23 - 26,0,N/A,N/A,N/A
+84,George Hill,FG_UNASSISTED,None,1:45,1,Bucks,Cavaliers,23 - 28,1, ,2,Jumper
+85,Cedi Osman,TURNOVER,Pat Connaughton,1:28,1,Cavaliers,Bucks,23 - 28,0,N/A,N/A,N/A
+86,Sterling Brown,FG_UNASSISTED,None,1:10,1,Bucks,Cavaliers,23 - 30,1, ,2,Jumper
+87,Jordan Clarkson,FG_MISS,None,54.7,1,Cavaliers,Bucks,23 - 30,0, ,2,Jumper
+88,Tristan Thompson,OFFENSIVE_REBOUND,None,53.6,1,Cavaliers,Bucks,23 - 30,0,N/A,N/A,N/A
+89,Tristan Thompson,FG_UNASSISTED,None,53.6,1,Cavaliers,Bucks,25 - 30,0,7,2,Jumper
+90,Giannis Antetokounmpo,FG_UNASSISTED,None,45.2,1,Bucks,Cavaliers,25 - 32,1,0,2,Dunk
+91,Brandon Knight,FG_MISS,None,36.3,1,Cavaliers,Bucks,25 - 32,0,26,3,Jumper
+92,Team,DEFENSIVE_REBOUND,None,36.3,1,Bucks,Cavaliers,25 - 32,1,N/A,N/A,N/A
+93,Tristan Thompson,JUMP_BALL,None,35.6,1,Bucks,Cavaliers,25 - 32,1,N/A,N/A,N/A
+94,Eric Bledsoe,SUBSTITUTION,Connaughton Pat,35.6,1,Bucks,Cavaliers,25 - 32,1,N/A,N/A,N/A
+95,Nik Stauskas,SUBSTITUTION,Osman Cedi,35.6,1,Cavaliers,Bucks,25 - 32,0,N/A,N/A,N/A
+96,Eric Bledsoe,FG_MISS,None,26.8,1,Bucks,Cavaliers,25 - 32,1,27,3,Jumper
+97,Brandon Knight,DEFENSIVE_REBOUND,None,22.4,1,Cavaliers,Bucks,25 - 32,0,N/A,N/A,N/A
+98,Jordan Clarkson,FG_UNASSISTED,None,5.5,1,Cavaliers,Bucks,27 - 32,0,7,2,Jumper
+99,Eric Bledsoe,FG_MISS,None,0.0,1,Bucks,Cavaliers,27 - 32,1,29,3,Jumper
+100,Team,OFFENSIVE_REBOUND,None,0.0,1,Bucks,Cavaliers,27 - 32,1,N/A,N/A,N/A
+101,End of,Unknown,None,0.0,1,Bucks,Cavaliers,27 - 32,1,N/A,N/A,N/A
+0,Brook Lopez,SUBSTITUTION,Hill George,12:00,2,Bucks,Cavaliers,27 - 32,1,N/A,N/A,N/A
+1,Tony Snell,SUBSTITUTION,for game,12:00,2,Bucks,Cavaliers,27 - 32,1,N/A,N/A,N/A
+2,enters the,SUBSTITUTION,Ilyasova Ersan,12:00,2,Bucks,Cavaliers,27 - 32,1,N/A,N/A,N/A
+3,Jordan Clarkson,FG_UNASSISTED,None,11:44,2,Cavaliers,Bucks,29 - 32,0,14,2,Jumper
+4,David Nwaba,FOUL_ON_FLOOR,None,11:32,2,Cavaliers,Bucks,29 - 32,0,N/A,N/A,N/A
+5,Sterling Brown,FG_ASSISTED,Giannis Antetokounmpo,11:26,2,Bucks,Cavaliers,29 - 35,1, ,3,Jumper
+6,Nik Stauskas,FG_ASSISTED,Brandon Knight,11:10,2,Cavaliers,Bucks,32 - 35,0,26,3,Jumper
+7,Tony Snell,FG_ASSISTED,Giannis Antetokounmpo,10:53,2,Bucks,Cavaliers,32 - 38,1,27,3,Jumper
+8,Tristan Thompson,FG_MISS,Brook Lopez,10:27,2,Bucks,Cavaliers,32 - 38,0,11,2,Jumper
+9,Eric Bledsoe,DEFENSIVE_REBOUND,None,10:25,2,Bucks,Cavaliers,32 - 38,1,N/A,N/A,N/A
+10,Giannis Antetokounmpo,FG_MISS,None,10:17,2,Bucks,Cavaliers,32 - 38,1,27,3,Jumper
+11,Tristan Thompson,DEFENSIVE_REBOUND,None,10:14,2,Cavaliers,Bucks,32 - 38,0,N/A,N/A,N/A
+12,Tristan Thompson,FG_MISS,None,10:05,2,Cavaliers,Bucks,32 - 38,0,11,2,Jumper
+13,Giannis Antetokounmpo,DEFENSIVE_REBOUND,None,10:03,2,Bucks,Cavaliers,32 - 38,1,N/A,N/A,N/A
+14,Giannis Antetokounmpo,FG_UNASSISTED,None,9:57,2,Bucks,Cavaliers,32 - 40,1,0,2,Dunk
+15,Tristan Thompson,FG_ASSISTED,David Nwaba,9:35,2,Cavaliers,Bucks,34 - 40,0,8,2,Jumper
+16,Brook Lopez,FG_MISS,None,9:24,2,Bucks,Cavaliers,34 - 40,1,31,3,Jumper
+17,Brandon Knight,DEFENSIVE_REBOUND,None,9:18,2,Cavaliers,Bucks,34 - 40,0,N/A,N/A,N/A
+18,Giannis Antetokounmpo,FOUL_ON_FLOOR,None,9:17,2,Bucks,Cavaliers,34 - 40,1,N/A,N/A,N/A
+19,David Nwaba,FT,None,9:17,2,Cavaliers,Bucks,35 - 40,0,N/A,1,N/A
+20,Khris Middleton,SUBSTITUTION,Brown Sterling,9:17,2,Bucks,Cavaliers,35 - 40,1,N/A,N/A,N/A
+21,Marquese Chriss,SUBSTITUTION,Thompson Tristan,9:17,2,Cavaliers,Bucks,35 - 40,0,N/A,N/A,N/A
+22,David Nwaba,FT_MISS,None,9:17,2,Cavaliers,Bucks,35 - 40,0,N/A,1,N/A
+23,Giannis Antetokounmpo,DEFENSIVE_REBOUND,None,9:14,2,Bucks,Cavaliers,35 - 40,1,N/A,N/A,N/A
+24,Eric Bledsoe,FG_UNASSISTED,None,9:06,2,Bucks,Cavaliers,35 - 42,1,0,2,Layup
+25,Team,Unknown,None,9:05,2,Cavaliers,Bucks,35 - 42,0,N/A,N/A,N/A
+26,D.J. Wilson,SUBSTITUTION,Antetokounmpo Giannis,9:05,2,Bucks,Cavaliers,35 - 42,1,N/A,N/A,N/A
+27,Brandon Knight,TURNOVER,Tony Snell,8:52,2,Cavaliers,Bucks,35 - 42,0,N/A,N/A,N/A
+28,Tony Snell,FG_UNASSISTED,None,8:46,2,Bucks,Cavaliers,35 - 44,1,0,2,Dunk
+29,David Nwaba,FG_MISS,None,8:20,2,Cavaliers,Bucks,35 - 44,0,29,3,Jumper
+30,Marquese Chriss,OFFENSIVE_REBOUND,None,8:17,2,Cavaliers,Bucks,35 - 44,0,N/A,N/A,N/A
+31,David Nwaba,FG_ASSISTED,Marquese Chriss,8:10,2,Cavaliers,Bucks,37 - 44,0,13,2,Jumper
+32,Brandon Knight,FOUL_ON_FLOOR,None,8:10,2,Cavaliers,Bucks,37 - 44,0,N/A,N/A,N/A
+33,Tony Snell,FG_ASSISTED,D.J. Wilson,8:00,2,Bucks,Cavaliers,37 - 46,1,0,2,Layup
+34,Brandon Knight,FG_UNASSISTED,None,7:51,2,Cavaliers,Bucks,39 - 46,0,16,2,Jumper
+35,Brook Lopez,FG_ASSISTED,Khris Middleton,7:39,2,Bucks,Cavaliers,39 - 48,1,0,2,Dunk
+36,Jordan Clarkson,FG_UNASSISTED,None,7:22,2,Cavaliers,Bucks,41 - 48,0,0,2,Layup
+37,Brook Lopez,TURNOVER,Marquese Chriss,7:12,2,Bucks,Cavaliers,41 - 48,1,N/A,N/A,N/A
+38,Nik Stauskas,FG_MISS,None,6:59,2,Cavaliers,Bucks,41 - 48,0,26,3,Jumper
+39,Team,OFFENSIVE_REBOUND,None,6:59,2,Cavaliers,Bucks,41 - 48,0,N/A,N/A,N/A
+40,Eric Bledsoe,FOUL_ON_FLOOR,None,6:59,2,Bucks,Cavaliers,41 - 48,1,N/A,N/A,N/A
+41,George Hill,SUBSTITUTION,Bledsoe Eric,6:59,2,Bucks,Cavaliers,41 - 48,1,N/A,N/A,N/A
+42,Collin Sexton,SUBSTITUTION,Nwaba David,6:59,2,Cavaliers,Bucks,41 - 48,0,N/A,N/A,N/A
+43,Kevin Love,SUBSTITUTION,Knight Brandon,6:59,2,Cavaliers,Bucks,41 - 48,0,N/A,N/A,N/A
+44,Marquese Chriss,FG_MISS,None,6:49,2,Cavaliers,Bucks,41 - 48,0,0,2,Layup
+45,Tony Snell,DEFENSIVE_REBOUND,None,6:47,2,Bucks,Cavaliers,41 - 48,1,N/A,N/A,N/A
+46,Khris Middleton,FG_MISS,None,6:41,2,Bucks,Cavaliers,41 - 48,1,7,2,Jumper
+47,Kevin Love,DEFENSIVE_REBOUND,None,6:41,2,Cavaliers,Bucks,41 - 48,0,N/A,N/A,N/A
+48,Jordan Clarkson,FG_UNASSISTED,None,6:32,2,Cavaliers,Bucks,43 - 48,0, ,2,Jumper
+49,Brook Lopez,FG_ASSISTED,Khris Middleton,6:24,2,Bucks,Cavaliers,43 - 51,1,28,3,Jumper
+50,Collin Sexton,FG_MISS,None,6:01,2,Cavaliers,Bucks,43 - 51,0,16,2,Jumper
+51,Khris Middleton,DEFENSIVE_REBOUND,None,5:58,2,Bucks,Cavaliers,43 - 51,1,N/A,N/A,N/A
+52,Khris Middleton,FG_UNASSISTED,None,5:48,2,Bucks,Cavaliers,43 - 53,1,10,2,Jumper
+53,Team,Unknown,None,5:40,2,Cavaliers,Bucks,43 - 53,0,N/A,N/A,N/A
+54,Pat Connaughton,SUBSTITUTION,Snell Tony,5:40,2,Bucks,Cavaliers,43 - 53,1,N/A,N/A,N/A
+55,Cedi Osman,SUBSTITUTION,Stauskas Nik,5:40,2,Cavaliers,Bucks,43 - 53,0,N/A,N/A,N/A
+56,Larry Nance,SUBSTITUTION,Chriss Marquese,5:40,2,Cavaliers,Bucks,43 - 53,0,N/A,N/A,N/A
+57,Larry Nance,FG_MISS,None,5:29,2,Cavaliers,Bucks,43 - 53,0,28,3,Jumper
+58,Pat Connaughton,DEFENSIVE_REBOUND,None,5:26,2,Bucks,Cavaliers,43 - 53,1,N/A,N/A,N/A
+59,Jordan Clarkson,FOUL_ON_FLOOR,None,5:20,2,Cavaliers,Bucks,43 - 53,0,N/A,N/A,N/A
+60,Pat Connaughton,FT,None,5:20,2,Bucks,Cavaliers,43 - 54,1,N/A,1,N/A
+61,Pat Connaughton,FT,None,5:20,2,Bucks,Cavaliers,43 - 55,1,N/A,1,N/A
+62,Brook Lopez,Unknown,None,5:09,2,Bucks,Cavaliers,43 - 55,1,N/A,N/A,N/A
+63,Giannis Antetokounmpo,SUBSTITUTION,Lopez Brook,5:09,2,Bucks,Cavaliers,43 - 55,1,N/A,N/A,N/A
+64,Brandon Knight,SUBSTITUTION,Clarkson Jordan,5:09,2,Cavaliers,Bucks,43 - 55,0,N/A,N/A,N/A
+65,Collin Sexton,FG_MISS,None,4:55,2,Cavaliers,Bucks,43 - 55,0,26,3,Jumper
+66,Pat Connaughton,DEFENSIVE_REBOUND,None,4:52,2,Bucks,Cavaliers,43 - 55,1,N/A,N/A,N/A
+67,Khris Middleton,FG_UNASSISTED,None,4:40,2,Bucks,Cavaliers,43 - 57,1,7,2,Jumper
+68,Cedi Osman,FG_MISS,None,4:26,2,Cavaliers,Bucks,43 - 57,0,25,3,Jumper
+69,Khris Middleton,DEFENSIVE_REBOUND,None,4:22,2,Bucks,Cavaliers,43 - 57,1,N/A,N/A,N/A
+70,Pat Connaughton,FG_MISS,None,4:18,2,Bucks,Cavaliers,43 - 57,1,26,3,Jumper
+71,Kevin Love,DEFENSIVE_REBOUND,None,4:15,2,Cavaliers,Bucks,43 - 57,0,N/A,N/A,N/A
+72,Cedi Osman,FG_MISS,None,3:59,2,Cavaliers,Bucks,43 - 57,0, ,2,Jumper
+73,Giannis Antetokounmpo,DEFENSIVE_REBOUND,None,3:55,2,Bucks,Cavaliers,43 - 57,1,N/A,N/A,N/A
+74,George Hill,FG_MISS,None,3:53,2,Bucks,Cavaliers,43 - 57,1,26,3,Jumper
+75,Kevin Love,DEFENSIVE_REBOUND,None,3:50,2,Cavaliers,Bucks,43 - 57,0,N/A,N/A,N/A
+76,Ersan Ilyasova,SUBSTITUTION,Wilson D.J.,3:50,2,Bucks,Cavaliers,43 - 57,1,N/A,N/A,N/A
+77,Brandon Knight,TURNOVER,Khris Middleton,3:37,2,Cavaliers,Bucks,43 - 57,0,N/A,N/A,N/A
+78,Kevin Love,FOUL_ON_FLOOR,None,3:36,2,Cavaliers,Bucks,43 - 57,0,N/A,N/A,N/A
+79,Pat Connaughton,FG_ASSISTED,Ersan Ilyasova,3:29,2,Bucks,Cavaliers,43 - 59,1,7,2,Jumper
+80,Larry Nance,TURNOVER,None,3:27,2,Cavaliers,Bucks,43 - 59,0,N/A,N/A,N/A
+81,Cedi Osman,FOUL_ON_FLOOR,None,3:13,2,Cavaliers,Bucks,43 - 59,0,N/A,N/A,N/A
+82,Giannis Antetokounmpo,FT,None,3:13,2,Bucks,Cavaliers,43 - 60,1,N/A,1,N/A
+83,Eric Bledsoe,SUBSTITUTION,Middleton Khris,3:13,2,Bucks,Cavaliers,43 - 60,1,N/A,N/A,N/A
+84,Giannis Antetokounmpo,FT_MISS,None,3:13,2,Bucks,Cavaliers,43 - 60,1,N/A,1,N/A
+85,Kevin Love,DEFENSIVE_REBOUND,None,3:10,2,Cavaliers,Bucks,43 - 60,0,N/A,N/A,N/A
+86,Larry Nance,FG_ASSISTED,Brandon Knight,2:58,2,Cavaliers,Bucks,45 - 60,0, ,2,Jumper
+87,Pat Connaughton,FG_MISS,None,2:41,2,Bucks,Cavaliers,45 - 60,1,26,3,Jumper
+88,Kevin Love,DEFENSIVE_REBOUND,None,2:38,2,Cavaliers,Bucks,45 - 60,0,N/A,N/A,N/A
+89,Brandon Knight,FG_MISS,None,2:30,2,Cavaliers,Bucks,45 - 60,0,26,3,Jumper
+90,Ersan Ilyasova,DEFENSIVE_REBOUND,None,2:27,2,Bucks,Cavaliers,45 - 60,1,N/A,N/A,N/A
+91,George Hill,FG_ASSISTED,Pat Connaughton,2:23,2,Bucks,Cavaliers,45 - 62,1, ,2,Jumper
+92,Kevin Love,FG_ASSISTED,Cedi Osman,2:17,2,Cavaliers,Bucks,47 - 62,0, ,2,Jumper
+93,Khris Middleton,SUBSTITUTION,Hill George,2:06,2,Bucks,Cavaliers,47 - 62,1,N/A,N/A,N/A
+94,Jordan Clarkson,SUBSTITUTION,Osman Cedi,2:06,2,Cavaliers,Bucks,47 - 62,0,N/A,N/A,N/A
+95,Giannis Antetokounmpo,FG_UNASSISTED,None,2:01,2,Bucks,Cavaliers,47 - 64,1,0,2,Dunk
+96,Ersan Ilyasova,FOUL_ON_FLOOR,None,1:49,2,Bucks,Cavaliers,47 - 64,1,N/A,N/A,N/A
+97,Collin Sexton,FT,None,1:49,2,Cavaliers,Bucks,48 - 64,0,N/A,1,N/A
+98,Collin Sexton,FT,None,1:49,2,Cavaliers,Bucks,49 - 64,0,N/A,1,N/A
+99,Ersan Ilyasova,FG_MISS,None,1:27,2,Bucks,Cavaliers,49 - 64,1, ,3,Jumper
+100,Jordan Clarkson,DEFENSIVE_REBOUND,None,1:24,2,Cavaliers,Bucks,49 - 64,0,N/A,N/A,N/A
+101,Collin Sexton,FG_MISS,None,1:10,2,Cavaliers,Bucks,49 - 64,0,22,3,Jumper
+102,Eric Bledsoe,DEFENSIVE_REBOUND,None,1:07,2,Bucks,Cavaliers,49 - 64,1,N/A,N/A,N/A
+103,Brandon Knight,FOUL_ON_FLOOR,None,1:04,2,Cavaliers,Bucks,49 - 64,0,N/A,N/A,N/A
+104,Eric Bledsoe,FT,None,1:04,2,Bucks,Cavaliers,49 - 65,1,N/A,1,N/A
+105,David Nwaba,SUBSTITUTION,Knight Brandon,1:04,2,Cavaliers,Bucks,49 - 65,0,N/A,N/A,N/A
+106,Eric Bledsoe,FT,None,1:04,2,Bucks,Cavaliers,49 - 66,1,N/A,1,N/A
+107,Jordan Clarkson,FG_MISS,None,52.0,2,Cavaliers,Bucks,49 - 66,0,9,2,Jumper
+108,Jordan Clarkson,OFFENSIVE_REBOUND,None,50.2,2,Cavaliers,Bucks,49 - 66,0,N/A,N/A,N/A
+109,Kevin Love,FG_ASSISTED,Jordan Clarkson,48.2,2,Cavaliers,Bucks,52 - 66,0,27,3,Jumper
+110,Pat Connaughton,FG_MISS,None,32.3,2,Bucks,Cavaliers,52 - 66,1,27,3,Jumper
+111,Kevin Love,DEFENSIVE_REBOUND,None,29.0,2,Cavaliers,Bucks,52 - 66,0,N/A,N/A,N/A
+112,Jordan Clarkson,FG_MISS,Eric Bledsoe,7.3,2,Bucks,Cavaliers,52 - 66,0,10,2,Jumper
+113,Team,OFFENSIVE_REBOUND,None,7.3,2,Cavaliers,Bucks,52 - 66,0,N/A,N/A,N/A
+114,Kevin Love,FG_ASSISTED,David Nwaba,5.3,2,Cavaliers,Bucks,55 - 66,0,30,3,Jumper
+115,Pat Connaughton,FG_ASSISTED,Eric Bledsoe,0.6,2,Bucks,Cavaliers,55 - 68,1,0,2,Dunk
+116,End of,Unknown,None,0.0,2,Bucks,Cavaliers,55 - 68,1,N/A,N/A,N/A
+0,Tony Snell,SUBSTITUTION,Connaughton Pat,12:00,3,Bucks,Cavaliers,55 - 68,1,N/A,N/A,N/A
+1,Brook Lopez,SUBSTITUTION,Ilyasova Ersan,12:00,3,Bucks,Cavaliers,55 - 68,1,N/A,N/A,N/A
+2,Cedi Osman,SUBSTITUTION,Clarkson Jordan,12:00,3,Cavaliers,Bucks,55 - 68,0,N/A,N/A,N/A
+3,Brandon Knight,SUBSTITUTION,Nwaba David,12:00,3,Cavaliers,Bucks,55 - 68,0,N/A,N/A,N/A
+4,Cedi Osman,FG_MISS,None,11:36,3,Cavaliers,Bucks,55 - 68,0,23,3,Jumper
+5,Brook Lopez,DEFENSIVE_REBOUND,None,11:33,3,Bucks,Cavaliers,55 - 68,1,N/A,N/A,N/A
+6,Tony Snell,FG_MISS,None,11:27,3,Bucks,Cavaliers,55 - 68,1,28,3,Jumper
+7,Larry Nance,DEFENSIVE_REBOUND,None,11:25,3,Cavaliers,Bucks,55 - 68,0,N/A,N/A,N/A
+8,Collin Sexton,FG_UNASSISTED,None,11:05,3,Cavaliers,Bucks,58 - 68,0,27,3,Jumper
+9,Giannis Antetokounmpo,FG_ASSISTED,Eric Bledsoe,10:50,3,Bucks,Cavaliers,58 - 70,1,0,2,Dunk
+10,Kevin Love,FG_MISS,None,10:31,3,Cavaliers,Bucks,58 - 70,0,26,3,Jumper
+11,Eric Bledsoe,DEFENSIVE_REBOUND,None,10:27,3,Bucks,Cavaliers,58 - 70,1,N/A,N/A,N/A
+12,Cedi Osman,FOUL_ON_FLOOR,None,10:22,3,Cavaliers,Bucks,58 - 70,0,N/A,N/A,N/A
+13,Giannis Antetokounmpo,TURNOVER,Larry Nance,10:13,3,Bucks,Cavaliers,58 - 70,1,N/A,N/A,N/A
+14,Kevin Love's,FG_MISS,Giannis Antetokounmpo,10:07,3,Bucks,Cavaliers,58 - 70,0,0,2,Layup
+15,Kevin Love,OFFENSIVE_REBOUND,None,10:03,3,Cavaliers,Bucks,58 - 70,0,N/A,N/A,N/A
+16,Cedi Osman,FG_ASSISTED,Kevin Love,10:01,3,Cavaliers,Bucks,60 - 70,0,0,2,Layup
+17,Giannis Antetokounmpo,FG_UNASSISTED,None,9:49,3,Bucks,Cavaliers,60 - 72,1,7,2,Jumper
+18,Collin Sexton,FG_MISS,None,9:42,3,Cavaliers,Bucks,60 - 72,0, ,2,Jumper
+19,Giannis Antetokounmpo,DEFENSIVE_REBOUND,None,9:39,3,Bucks,Cavaliers,60 - 72,1,N/A,N/A,N/A
+20,Giannis Antetokounmpo,FG_MISS,None,9:33,3,Bucks,Cavaliers,60 - 72,1,8,2,Jumper
+21,Kevin Love,DEFENSIVE_REBOUND,None,9:31,3,Cavaliers,Bucks,60 - 72,0,N/A,N/A,N/A
+22,Kevin Love,FG_MISS,Giannis Antetokounmpo,9:20,3,Bucks,Cavaliers,60 - 72,0,0,2,Layup
+23,Kevin Love,OFFENSIVE_REBOUND,None,9:20,3,Cavaliers,Bucks,60 - 72,0,N/A,N/A,N/A
+24,Kevin Love,FG_MISS,None,9:18,3,Cavaliers,Bucks,60 - 72,0, ,2,Jumper
+25,Kevin Love,OFFENSIVE_REBOUND,None,9:16,3,Cavaliers,Bucks,60 - 72,0,N/A,N/A,N/A
+26,Kevin Love,FG_MISS,None,9:15,3,Cavaliers,Bucks,60 - 72,0, ,2,Jumper
+27,Brook Lopez,DEFENSIVE_REBOUND,None,9:13,3,Bucks,Cavaliers,60 - 72,1,N/A,N/A,N/A
+28,Cedi Osman,FOUL_ON_FLOOR,None,9:13,3,Cavaliers,Bucks,60 - 72,0,N/A,N/A,N/A
+29,Team,Unknown,None,9:13,3,Bucks,Cavaliers,60 - 72,1,N/A,N/A,N/A
+30,Tony Snell,FT,None,9:13,3,Bucks,Cavaliers,60 - 73,1,N/A,1,N/A
+31,Tony Snell,FT,None,9:13,3,Bucks,Cavaliers,60 - 74,1,N/A,1,N/A
+32,Brandon Knight,FG_MISS,None,9:03,3,Cavaliers,Bucks,60 - 74,0,12,2,Jumper
+33,Kevin Love,OFFENSIVE_REBOUND,None,8:58,3,Cavaliers,Bucks,60 - 74,0,N/A,N/A,N/A
+34,Collin Sexton,FG_MISS,None,8:50,3,Cavaliers,Bucks,60 - 74,0,24,3,Jumper
+35,Giannis Antetokounmpo,DEFENSIVE_REBOUND,None,8:47,3,Bucks,Cavaliers,60 - 74,1,N/A,N/A,N/A
+36,Tony Snell,FG_MISS,None,8:41,3,Bucks,Cavaliers,60 - 74,1,27,3,Jumper
+37,Kevin Love,DEFENSIVE_REBOUND,None,8:37,3,Cavaliers,Bucks,60 - 74,0,N/A,N/A,N/A
+38,Kevin Love,FG_MISS,None,8:27,3,Cavaliers,Bucks,60 - 74,0,29,3,Jumper
+39,Giannis Antetokounmpo,DEFENSIVE_REBOUND,None,8:27,3,Bucks,Cavaliers,60 - 74,1,N/A,N/A,N/A
+40,Brook Lopez,FG_MISS,None,8:14,3,Bucks,Cavaliers,60 - 74,1,27,3,Jumper
+41,Kevin Love,DEFENSIVE_REBOUND,None,8:11,3,Cavaliers,Bucks,60 - 74,0,N/A,N/A,N/A
+42,Collin Sexton,FG_MISS,None,7:56,3,Cavaliers,Bucks,60 - 74,0, ,2,Jumper
+43,Giannis Antetokounmpo,DEFENSIVE_REBOUND,None,7:53,3,Bucks,Cavaliers,60 - 74,1,N/A,N/A,N/A
+44,Eric Bledsoe,FG_MISS,None,7:49,3,Bucks,Cavaliers,60 - 74,1,27,3,Jumper
+45,Brandon Knight,DEFENSIVE_REBOUND,None,7:46,3,Cavaliers,Bucks,60 - 74,0,N/A,N/A,N/A
+46,Larry Nance,FG_MISS,None,7:31,3,Cavaliers,Bucks,60 - 74,0,26,3,Jumper
+47,Eric Bledsoe,DEFENSIVE_REBOUND,None,7:28,3,Bucks,Cavaliers,60 - 74,1,N/A,N/A,N/A
+48,Larry Nance,FOUL_ON_FLOOR,None,7:18,3,Cavaliers,Bucks,60 - 74,0,N/A,N/A,N/A
+49,Jordan Clarkson,SUBSTITUTION,Knight Brandon,7:18,3,Cavaliers,Bucks,60 - 74,0,N/A,N/A,N/A
+50,Giannis Antetokounmpo,TURNOVER,Larry Nance,7:15,3,Bucks,Cavaliers,60 - 74,1,N/A,N/A,N/A
+51,Kevin Love,FG_ASSISTED,Larry Nance,7:05,3,Cavaliers,Bucks,62 - 74,0,13,2,Jumper
+52,Khris Middleton,FG_MISS,None,6:53,3,Bucks,Cavaliers,62 - 74,1,28,3,Jumper
+53,Collin Sexton,DEFENSIVE_REBOUND,None,6:49,3,Cavaliers,Bucks,62 - 74,0,N/A,N/A,N/A
+54,Kevin Love,FG_ASSISTED,Larry Nance,6:34,3,Cavaliers,Bucks,65 - 74,0,23,3,Jumper
+55,Khris Middleton,FG_MISS,None,6:22,3,Bucks,Cavaliers,65 - 74,1,4,2,Jumper
+56,Larry Nance,DEFENSIVE_REBOUND,None,6:19,3,Cavaliers,Bucks,65 - 74,0,N/A,N/A,N/A
+57,Jordan Clarkson,FG_UNASSISTED,None,6:13,3,Cavaliers,Bucks,67 - 74,0, ,2,Jumper
+58,Larry Nance,FOUL_ON_FLOOR,None,5:54,3,Cavaliers,Bucks,67 - 74,0,N/A,N/A,N/A
+59,Giannis Antetokounmpo,FT_MISS,None,5:54,3,Bucks,Cavaliers,67 - 74,1,N/A,1,N/A
+60,Team,OFFENSIVE_REBOUND,None,5:54,3,Bucks,Cavaliers,67 - 74,1,N/A,N/A,N/A
+61,George Hill,SUBSTITUTION,Bledsoe Eric,5:54,3,Bucks,Cavaliers,67 - 74,1,N/A,N/A,N/A
+62,Pat Connaughton,SUBSTITUTION,Snell Tony,5:54,3,Bucks,Cavaliers,67 - 74,1,N/A,N/A,N/A
+63,Giannis Antetokounmpo,FT,None,5:54,3,Bucks,Cavaliers,67 - 75,1,N/A,1,N/A
+64,Kevin Love,FG_MISS,None,5:34,3,Cavaliers,Bucks,67 - 75,0,9,2,Jumper
+65,Pat Connaughton,DEFENSIVE_REBOUND,None,5:31,3,Bucks,Cavaliers,67 - 75,1,N/A,N/A,N/A
+66,Larry Nance,FOUL_ON_FLOOR,None,5:23,3,Cavaliers,Bucks,67 - 75,0,N/A,N/A,N/A
+67,Giannis Antetokounmpo,FT,None,5:23,3,Bucks,Cavaliers,67 - 76,1,N/A,1,N/A
+68,D.J. Wilson,SUBSTITUTION,Lopez Brook,5:23,3,Bucks,Cavaliers,67 - 76,1,N/A,N/A,N/A
+69,Tristan Thompson,SUBSTITUTION,Nance Larry,5:23,3,Cavaliers,Bucks,67 - 76,0,N/A,N/A,N/A
+70,Giannis Antetokounmpo,FT,None,5:23,3,Bucks,Cavaliers,67 - 77,1,N/A,1,N/A
+71,Jordan Clarkson,FG_MISS,None,5:04,3,Cavaliers,Bucks,67 - 77,0,28,3,Jumper
+72,Pat Connaughton,DEFENSIVE_REBOUND,None,5:01,3,Bucks,Cavaliers,67 - 77,1,N/A,N/A,N/A
+73,D.J. Wilson,FG_ASSISTED,Giannis Antetokounmpo,4:50,3,Bucks,Cavaliers,67 - 80,1,26,3,Jumper
+74,Cedi Osman,FG_UNASSISTED,None,4:28,3,Cavaliers,Bucks,69 - 80,0,15,2,Jumper
+75,Giannis Antetokounmpo,FG_UNASSISTED,None,4:18,3,Bucks,Cavaliers,69 - 82,1,2,2,Jumper
+76,Giannis Antetokounmpo,FOUL_ON_FLOOR,None,4:03,3,Bucks,Cavaliers,69 - 82,1,N/A,N/A,N/A
+77,Ersan Ilyasova,SUBSTITUTION,Antetokounmpo Giannis,4:03,3,Bucks,Cavaliers,69 - 82,1,N/A,N/A,N/A
+78,David Nwaba,SUBSTITUTION,Love Kevin,4:03,3,Cavaliers,Bucks,69 - 82,0,N/A,N/A,N/A
+79,Collin Sexton,FG_MISS,None,3:57,3,Cavaliers,Bucks,69 - 82,0,28,3,Jumper
+80,Ersan Ilyasova,DEFENSIVE_REBOUND,None,3:54,3,Bucks,Cavaliers,69 - 82,1,N/A,N/A,N/A
+81,Pat Connaughton,FG_MISS,None,3:36,3,Bucks,Cavaliers,69 - 82,1,25,3,Jumper
+82,Team,DEFENSIVE_REBOUND,None,3:36,3,Cavaliers,Bucks,69 - 82,0,N/A,N/A,N/A
+83,Cedi Osman,FG_MISS,None,3:22,3,Cavaliers,Bucks,69 - 82,0,28,3,Jumper
+84,D.J. Wilson,DEFENSIVE_REBOUND,None,3:18,3,Bucks,Cavaliers,69 - 82,1,N/A,N/A,N/A
+85,Khris Middleton,TURNOVER,Collin Sexton,3:13,3,Bucks,Cavaliers,69 - 82,1,N/A,N/A,N/A
+86,Collin Sexton,FG_UNASSISTED,None,3:09,3,Cavaliers,Bucks,71 - 82,0, ,2,Jumper
+87,Khris Middleton,FG_MISS,None,2:49,3,Bucks,Cavaliers,71 - 82,1,25,3,Jumper
+88,Collin Sexton,DEFENSIVE_REBOUND,None,2:46,3,Cavaliers,Bucks,71 - 82,0,N/A,N/A,N/A
+89,David Nwaba,FG_UNASSISTED,None,2:35,3,Cavaliers,Bucks,73 - 82,0,7,2,Jumper
+90,Team,Unknown,None,2:34,3,Bucks,Cavaliers,73 - 82,1,N/A,N/A,N/A
+91,Sterling Brown,SUBSTITUTION,Middleton Khris,2:34,3,Bucks,Cavaliers,73 - 82,1,N/A,N/A,N/A
+92,Nik Stauskas,SUBSTITUTION,Sexton Collin,2:34,3,Cavaliers,Bucks,73 - 82,0,N/A,N/A,N/A
+93,Pat Connaughton,FG_ASSISTED,George Hill,2:21,3,Bucks,Cavaliers,73 - 85,1,29,3,Jumper
+94,Jordan Clarkson,FG_MISS,None,2:00,3,Cavaliers,Bucks,73 - 85,0,0,2,Layup
+95,Tristan Thompson,OFFENSIVE_REBOUND,None,1:57,3,Cavaliers,Bucks,73 - 85,0,N/A,N/A,N/A
+96,Tristan Thompson,FG_MISS,None,1:57,3,Cavaliers,Bucks,73 - 85,0,0,2,Dunk
+97,Sterling Brown,DEFENSIVE_REBOUND,None,1:57,3,Bucks,Cavaliers,73 - 85,1,N/A,N/A,N/A
+98,Sterling Brown,FG_MISS,None,1:54,3,Bucks,Cavaliers,73 - 85,1, ,2,Jumper
+99,Tristan Thompson,DEFENSIVE_REBOUND,None,1:51,3,Cavaliers,Bucks,73 - 85,0,N/A,N/A,N/A
+100,Tristan Thompson,FG_UNASSISTED,None,1:41,3,Cavaliers,Bucks,75 - 85,0,0,2,Layup
+101,Pat Connaughton,FG_MISS,None,1:19,3,Bucks,Cavaliers,75 - 85,1,0,2,Layup
+102,Tristan Thompson,DEFENSIVE_REBOUND,None,1:16,3,Cavaliers,Bucks,75 - 85,0,N/A,N/A,N/A
+103,Nik Stauskas,FG_MISS,None,1:13,3,Cavaliers,Bucks,75 - 85,0,26,3,Jumper
+104,Sterling Brown,DEFENSIVE_REBOUND,None,1:09,3,Bucks,Cavaliers,75 - 85,1,N/A,N/A,N/A
+105,D.J. Wilson,FG_MISS,None,46.0,3,Bucks,Cavaliers,75 - 85,1, ,2,Jumper
+106,Tristan Thompson,DEFENSIVE_REBOUND,None,44.6,3,Cavaliers,Bucks,75 - 85,0,N/A,N/A,N/A
+107,Tristan Thompson,TURNOVER,None,44.6,3,Cavaliers,Bucks,75 - 85,0,N/A,N/A,N/A
+108,Eric Bledsoe,SUBSTITUTION,Connaughton Pat,44.6,3,Bucks,Cavaliers,75 - 85,1,N/A,N/A,N/A
+109,George Hill,FG_UNASSISTED,None,33.2,3,Bucks,Cavaliers,75 - 88,1,27,3,Jumper
+110,Tristan Thompson,FG_ASSISTED,Cedi Osman,25.1,3,Cavaliers,Bucks,77 - 88,0,0,2,Layup
+111,George Hill,FG_UNASSISTED,None,2.7,3,Bucks,Cavaliers,77 - 90,1,22,2,Jumper
+112,Jordan Clarkson,FG_MISS,None,0.0,3,Cavaliers,Bucks,77 - 90,0,44,3,Jumper
+113,Team,OFFENSIVE_REBOUND,None,0.0,3,Cavaliers,Bucks,77 - 90,0,N/A,N/A,N/A
+114,End of,Unknown,None,0.0,3,Bucks,Cavaliers,77 - 90,1,N/A,N/A,N/A
+0,Giannis Antetokounmpo,SUBSTITUTION,Wilson D.J.,12:00,4,Bucks,Cavaliers,77 - 90,1,N/A,N/A,N/A
+1,Ersan Ilyasova,FG_ASSISTED,Eric Bledsoe,11:43,4,Bucks,Cavaliers,77 - 92,1,22,2,Jumper
+2,Ersan Ilyasova,FOUL_ON_FLOOR,None,11:26,4,Bucks,Cavaliers,77 - 92,1,N/A,N/A,N/A
+3,Jordan Clarkson,FT,None,11:26,4,Cavaliers,Bucks,78 - 92,0,N/A,1,N/A
+4,Jordan Clarkson,FT,None,11:26,4,Cavaliers,Bucks,79 - 92,0,N/A,1,N/A
+5,Eric Bledsoe,FG_MISS,None,10:59,4,Bucks,Cavaliers,79 - 92,1, ,2,Jumper
+6,George Hill,OFFENSIVE_REBOUND,None,10:56,4,Bucks,Cavaliers,79 - 92,1,N/A,N/A,N/A
+7,George Hill,FG_UNASSISTED,None,10:56,4,Bucks,Cavaliers,79 - 94,1, ,2,Jumper
+8,Tristan Thompson,TURNOVER,Eric Bledsoe,10:30,4,Cavaliers,Bucks,79 - 94,0,N/A,N/A,N/A
+9,Pat Connaughton,SUBSTITUTION,Hill George,10:25,4,Bucks,Cavaliers,79 - 94,1,N/A,N/A,N/A
+10,Collin Sexton,SUBSTITUTION,Osman Cedi,10:25,4,Cavaliers,Bucks,79 - 94,0,N/A,N/A,N/A
+11,Eric Bledsoe,FG_ASSISTED,Giannis Antetokounmpo,10:18,4,Bucks,Cavaliers,79 - 97,1,29,3,Jumper
+12,Nik Stauskas,FG_ASSISTED,Tristan Thompson,9:52,4,Cavaliers,Bucks,82 - 97,0,28,3,Jumper
+13,Sterling Brown,FG_ASSISTED,Giannis Antetokounmpo,9:39,4,Bucks,Cavaliers,82 - 99,1,0,2,Dunk
+14,Ersan Ilyasova,FOUL_ON_FLOOR,None,9:26,4,Bucks,Cavaliers,82 - 99,1,N/A,N/A,N/A
+15,Brook Lopez,SUBSTITUTION,Ilyasova Ersan,9:26,4,Bucks,Cavaliers,82 - 99,1,N/A,N/A,N/A
+16,Larry Nance,SUBSTITUTION,Stauskas Nik,9:26,4,Cavaliers,Bucks,82 - 99,0,N/A,N/A,N/A
+17,Tristan Thompson,FG_ASSISTED,Jordan Clarkson,9:18,4,Cavaliers,Bucks,84 - 99,0,0,2,Dunk
+18,Pat Connaughton,TURNOVER,None,9:00,4,Bucks,Cavaliers,84 - 99,1,N/A,N/A,N/A
+19,Tristan Thompson,TURNOVER,Pat Connaughton,8:45,4,Cavaliers,Bucks,84 - 99,0,N/A,N/A,N/A
+20,Sterling Brown,FG_MISS,None,8:41,4,Bucks,Cavaliers,84 - 99,1, ,2,Jumper
+21,Pat Connaughton,OFFENSIVE_REBOUND,None,8:40,4,Bucks,Cavaliers,84 - 99,1,N/A,N/A,N/A
+22,Pat Connaughton,FG_MISS,None,8:40,4,Bucks,Cavaliers,84 - 99,1, ,2,Jumper
+23,David Nwaba,DEFENSIVE_REBOUND,None,8:37,4,Cavaliers,Bucks,84 - 99,0,N/A,N/A,N/A
+24,Jordan Clarkson's,FG_MISS,Giannis Antetokounmpo,8:28,4,Bucks,Cavaliers,84 - 99,0,0,2,Layup
+25,Jordan Clarkson,OFFENSIVE_REBOUND,None,8:24,4,Cavaliers,Bucks,84 - 99,0,N/A,N/A,N/A
+26,Collin Sexton,FG_MISS,None,8:23,4,Cavaliers,Bucks,84 - 99,0,28,3,Jumper
+27,Eric Bledsoe,DEFENSIVE_REBOUND,None,8:20,4,Bucks,Cavaliers,84 - 99,1,N/A,N/A,N/A
+28,David Nwaba,FOUL_ON_FLOOR,None,8:17,4,Cavaliers,Bucks,84 - 99,0,N/A,N/A,N/A
+29,Khris Middleton,SUBSTITUTION,Brown Sterling,8:17,4,Bucks,Cavaliers,84 - 99,1,N/A,N/A,N/A
+30,Kevin Love,SUBSTITUTION,Thompson Tristan,8:17,4,Cavaliers,Bucks,84 - 99,0,N/A,N/A,N/A
+31,Giannis Antetokounmpo,FG_ASSISTED,Brook Lopez,8:10,4,Bucks,Cavaliers,84 - 101,1,0,2,Dunk
+32,David Nwaba,FG_ASSISTED,Larry Nance,7:45,4,Cavaliers,Bucks,87 - 101,0,27,3,Jumper
+33,Eric Bledsoe,FG_UNASSISTED,None,7:33,4,Bucks,Cavaliers,87 - 104,1,28,2,Jumper
+34,Team,Unknown,None,7:33,4,Cavaliers,Bucks,87 - 104,0,N/A,N/A,N/A
+35,Pat Connaughton,FOUL_ON_FLOOR,None,7:25,4,Bucks,Cavaliers,87 - 104,1,N/A,N/A,N/A
+36,Jordan Clarkson,FT,None,7:25,4,Cavaliers,Bucks,88 - 104,0,N/A,1,N/A
+37,Jordan Clarkson,FT_MISS,None,7:25,4,Cavaliers,Bucks,88 - 104,0,N/A,1,N/A
+38,Brook Lopez,DEFENSIVE_REBOUND,None,7:21,4,Bucks,Cavaliers,88 - 104,1,N/A,N/A,N/A
+39,Khris Middleton,FG_MISS,None,7:10,4,Bucks,Cavaliers,88 - 104,1,23,2,Jumper
+40,Kevin Love,DEFENSIVE_REBOUND,None,7:07,4,Cavaliers,Bucks,88 - 104,0,N/A,N/A,N/A
+41,Kevin Love,FG_MISS,None,6:46,4,Cavaliers,Bucks,88 - 104,0,28,3,Jumper
+42,Brook Lopez,DEFENSIVE_REBOUND,None,6:43,4,Bucks,Cavaliers,88 - 104,1,N/A,N/A,N/A
+43,Giannis Antetokounmpo,TURNOVER,None,6:38,4,Bucks,Cavaliers,88 - 104,1,N/A,N/A,N/A
+44,Kevin Love,FG_MISS,None,6:27,4,Cavaliers,Bucks,88 - 104,0,26,3,Jumper
+45,Brook Lopez,DEFENSIVE_REBOUND,None,6:23,4,Bucks,Cavaliers,88 - 104,1,N/A,N/A,N/A
+46,Khris Middleton,FG_UNASSISTED,None,6:13,4,Bucks,Cavaliers,88 - 106,1,19,2,Jumper
+47,Jordan Clarkson's,FG_MISS,Giannis Antetokounmpo,6:01,4,Bucks,Cavaliers,88 - 106,0,0,2,Layup
+48,Collin Sexton,OFFENSIVE_REBOUND,None,6:00,4,Cavaliers,Bucks,88 - 106,0,N/A,N/A,N/A
+49,Pat Connaughton,FOUL_ON_FLOOR,None,6:00,4,Bucks,Cavaliers,88 - 106,1,N/A,N/A,N/A
+50,Collin Sexton,FT_MISS,None,6:00,4,Cavaliers,Bucks,88 - 106,0,N/A,1,N/A
+51,Team,OFFENSIVE_REBOUND,None,6:00,4,Cavaliers,Bucks,88 - 106,0,N/A,N/A,N/A
+52,George Hill,SUBSTITUTION,Bledsoe Eric,6:00,4,Bucks,Cavaliers,88 - 106,1,N/A,N/A,N/A
+53,Ersan Ilyasova,SUBSTITUTION,Antetokounmpo Giannis,6:00,4,Bucks,Cavaliers,88 - 106,1,N/A,N/A,N/A
+54,Cedi Osman,SUBSTITUTION,Nwaba David,6:00,4,Cavaliers,Bucks,88 - 106,0,N/A,N/A,N/A
+55,Collin Sexton,FT,None,6:00,4,Cavaliers,Bucks,89 - 106,0,N/A,1,N/A
+56,Khris Middleton,TURNOVER,Larry Nance,5:45,4,Bucks,Cavaliers,89 - 106,1,N/A,N/A,N/A
+57,Collin Sexton,FG_UNASSISTED,None,5:41,4,Cavaliers,Bucks,91 - 106,0,0,2,Dunk
+58,Larry Nance,FOUL_ON_FLOOR,None,5:24,4,Cavaliers,Bucks,91 - 106,0,N/A,N/A,N/A
+59,George Hill,FT,None,5:24,4,Bucks,Cavaliers,91 - 107,1,N/A,1,N/A
+60,George Hill,FT,None,5:24,4,Bucks,Cavaliers,91 - 108,1,N/A,1,N/A
+61,Larry Nance,FG_MISS,None,5:03,4,Cavaliers,Bucks,91 - 108,0,28,3,Jumper
+62,Collin Sexton,OFFENSIVE_REBOUND,None,4:59,4,Cavaliers,Bucks,91 - 108,0,N/A,N/A,N/A
+63,Jordan Clarkson,FG_ASSISTED,Larry Nance,4:56,4,Cavaliers,Bucks,94 - 108,0,24,3,Jumper
+64,Khris Middleton,FG_UNASSISTED,None,4:46,4,Bucks,Cavaliers,94 - 110,1,1,2,Jumper
+65,Collin Sexton,FG_ASSISTED,Larry Nance,4:29,4,Cavaliers,Bucks,96 - 110,0,1,2,Jumper
+66,Team,Unknown,None,4:29,4,Bucks,Cavaliers,96 - 110,1,N/A,N/A,N/A
+67,Sterling Brown,SUBSTITUTION,Connaughton Pat,4:29,4,Bucks,Cavaliers,96 - 110,1,N/A,N/A,N/A
+68,Ersan Ilyasova,FG_MISS,None,4:13,4,Bucks,Cavaliers,96 - 110,1,26,3,Jumper
+69,Team,OFFENSIVE_REBOUND,None,4:13,4,Bucks,Cavaliers,96 - 110,1,N/A,N/A,N/A
+70,Cedi Osman,JUMP_BALL,None,4:07,4,Bucks,Cavaliers,96 - 110,1,N/A,N/A,N/A
+71,Collin Sexton,FOUL_ON_FLOOR,None,3:54,4,Cavaliers,Bucks,96 - 110,0,N/A,N/A,N/A
+72,Khris Middleton,FT_MISS,None,3:54,4,Bucks,Cavaliers,96 - 110,1,N/A,1,N/A
+73,Team,OFFENSIVE_REBOUND,None,3:54,4,Bucks,Cavaliers,96 - 110,1,N/A,N/A,N/A
+74,Khris Middleton,FT,None,3:54,4,Bucks,Cavaliers,96 - 111,1,N/A,1,N/A
+75,Larry Nance,FG_ASSISTED,Jordan Clarkson,3:35,4,Cavaliers,Bucks,98 - 111,0,5,2,Jumper
+76,Khris Middleton,FG_UNASSISTED,None,3:25,4,Bucks,Cavaliers,98 - 113,1,11,2,Jumper
+77,Kevin Love's,FG_MISS,Ersan Ilyasova,3:08,4,Bucks,Cavaliers,98 - 113,0,0,2,Layup
+78,Kevin Love,OFFENSIVE_REBOUND,None,3:03,4,Cavaliers,Bucks,98 - 113,0,N/A,N/A,N/A
+79,Kevin Love,FG_UNASSISTED,None,3:03,4,Cavaliers,Bucks,100 - 113,0,1,2,Jumper
+80,Jordan Clarkson,FOUL_ON_FLOOR,None,3:02,4,Cavaliers,Bucks,100 - 113,0,N/A,N/A,N/A
+81,Giannis Antetokounmpo,SUBSTITUTION,Lopez Brook,3:02,4,Bucks,Cavaliers,100 - 113,1,N/A,N/A,N/A
+82,Cedi Osman,FOUL_ON_FLOOR,None,2:55,4,Cavaliers,Bucks,100 - 113,0,N/A,N/A,N/A
+83,Khris Middleton,FT_MISS,None,2:55,4,Bucks,Cavaliers,100 - 113,1,N/A,1,N/A
+84,Team,OFFENSIVE_REBOUND,None,2:55,4,Bucks,Cavaliers,100 - 113,1,N/A,N/A,N/A
+85,Khris Middleton,FT,None,2:55,4,Bucks,Cavaliers,100 - 114,1,N/A,1,N/A
+86,Sterling Brown,FOUL_ON_FLOOR,None,2:46,4,Bucks,Cavaliers,100 - 114,1,N/A,N/A,N/A
+87,Collin Sexton,FT,None,2:46,4,Cavaliers,Bucks,101 - 114,0,N/A,1,N/A
+88,Pat Connaughton,SUBSTITUTION,Hill George,2:46,4,Bucks,Cavaliers,101 - 114,1,N/A,N/A,N/A
+89,Collin Sexton,FT,None,2:46,4,Cavaliers,Bucks,102 - 114,0,N/A,1,N/A
+90,Giannis Antetokounmpo,FG_MISS,Kevin Love,2:34,4,Cavaliers,Bucks,102 - 114,1,0,2,Layup
+91,Cedi Osman,DEFENSIVE_REBOUND,None,2:30,4,Cavaliers,Bucks,102 - 114,0,N/A,N/A,N/A
+92,Jordan Clarkson,FG_MISS,None,2:27,4,Cavaliers,Bucks,102 - 114,0,24,3,Jumper
+93,Khris Middleton,DEFENSIVE_REBOUND,None,2:24,4,Bucks,Cavaliers,102 - 114,1,N/A,N/A,N/A
+94,Giannis Antetokounmpo,FG_ASSISTED,Khris Middleton,2:24,4,Bucks,Cavaliers,102 - 116,1,0,2,Dunk
+95,Kevin Love,TURNOVER,None,2:12,4,Cavaliers,Bucks,102 - 116,0,N/A,N/A,N/A
+96,Khris Middleton,FG_UNASSISTED,None,2:02,4,Bucks,Cavaliers,102 - 119,1,27,3,Jumper
+97,Kevin Love,FG_MISS,None,1:52,4,Cavaliers,Bucks,102 - 119,0,28,3,Jumper
+98,Khris Middleton,DEFENSIVE_REBOUND,None,1:52,4,Bucks,Cavaliers,102 - 119,1,N/A,N/A,N/A
+99,Giannis Antetokounmpo,FG_MISS,None,1:42,4,Bucks,Cavaliers,102 - 119,1,26,3,Jumper
+100,Kevin Love,DEFENSIVE_REBOUND,None,1:39,4,Cavaliers,Bucks,102 - 119,0,N/A,N/A,N/A
+101,Cedi Osman,FG_MISS,None,1:36,4,Cavaliers,Bucks,102 - 119,0,26,3,Jumper
+102,Pat Connaughton,DEFENSIVE_REBOUND,None,1:32,4,Bucks,Cavaliers,102 - 119,1,N/A,N/A,N/A
+103,Team,Unknown,None,1:31,4,Bucks,Cavaliers,102 - 119,1,N/A,N/A,N/A
+104,D.J. Wilson,SUBSTITUTION,Middleton Khris,1:31,4,Bucks,Cavaliers,102 - 119,1,N/A,N/A,N/A
+105,Bonzie Colson,SUBSTITUTION,Antetokounmpo Giannis,1:31,4,Bucks,Cavaliers,102 - 119,1,N/A,N/A,N/A
+106,Tim Frazier,SUBSTITUTION,Ilyasova Ersan,1:31,4,Bucks,Cavaliers,102 - 119,1,N/A,N/A,N/A
+107,David Nwaba,SUBSTITUTION,Love Kevin,1:31,4,Cavaliers,Bucks,102 - 119,0,N/A,N/A,N/A
+108,Sterling Brown,FG_ASSISTED,Bonzie Colson,1:19,4,Bucks,Cavaliers,102 - 121,1,0,2,Layup
+109,Cedi Osman,FOUL_ON_FLOOR,None,1:19,4,Cavaliers,Bucks,102 - 121,0,N/A,N/A,N/A
+110,Nik Stauskas,SUBSTITUTION,Osman Cedi,1:19,4,Cavaliers,Bucks,102 - 121,0,N/A,N/A,N/A
+111,Sterling Brown,FT_MISS,None,1:19,4,Bucks,Cavaliers,102 - 121,1,N/A,1,N/A
+112,Team,DEFENSIVE_REBOUND,None,1:16,4,Cavaliers,Bucks,102 - 121,0,N/A,N/A,N/A
+113,Jordan Clarkson,FG_UNASSISTED,None,1:08,4,Cavaliers,Bucks,104 - 121,0,0,2,Layup
+114,Pat Connaughton,FOUL_ON_FLOOR,None,1:08,4,Bucks,Cavaliers,104 - 121,1,N/A,N/A,N/A
+115,Jordan Clarkson,FT,None,1:08,4,Cavaliers,Bucks,105 - 121,0,N/A,1,N/A
+116,Sterling Brown,FG_ASSISTED,Tim Frazier,1:01,4,Bucks,Cavaliers,105 - 124,1,28,3,Jumper
+117,Larry Nance,FG_MISS,None,49.6,4,Cavaliers,Bucks,105 - 124,0,28,3,Jumper
+118,Bonzie Colson,DEFENSIVE_REBOUND,None,46.5,4,Bucks,Cavaliers,105 - 124,1,N/A,N/A,N/A
+119,D.J. Wilson,FG_MISS,None,41.5,4,Bucks,Cavaliers,105 - 124,1,23,3,Jumper
+120,Bonzie Colson,OFFENSIVE_REBOUND,None,37.6,4,Bucks,Cavaliers,105 - 124,1,N/A,N/A,N/A
+121,Bonzie Colson,FG_MISS,None,36.6,4,Bucks,Cavaliers,105 - 124,1,1,2,Jumper
+122,Pat Connaughton,OFFENSIVE_REBOUND,None,34.5,4,Bucks,Cavaliers,105 - 124,1,N/A,N/A,N/A
+123,Bonzie Colson,FG_ASSISTED,Pat Connaughton,33.0,4,Bucks,Cavaliers,105 - 127,1,24,3,Jumper
+124,Larry Nance,TURNOVER,None,23.5,4,Cavaliers,Bucks,105 - 127,0,N/A,N/A,N/A
+125,End of,Unknown,None,0.0,4,Bucks,Cavaliers,105 - 127,1,N/A,N/A,N/A
+126,End of,Unknown,None,0.0,4,Bucks,Cavaliers,105 - 127,1,N/A,N/A,N/A

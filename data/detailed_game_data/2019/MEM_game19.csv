@@ -1,0 +1,432 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Serge Ibaka,JUMP_BALL,None,12:00,1,Raptors,Grizzlies,0 - 0,0,N/A,N/A,N/A
+1,Serge Ibaka,FG_ASSISTED,Kyle Lowry,11:44,1,Raptors,Grizzlies,2 - 0,0,19,3,Jumper
+2,Jaren Jackson,TURNOVER,None,11:22,1,Grizzlies,Raptors,2 - 0,1,N/A,N/A,N/A
+3,Jaren Jackson,TURNOVER,None,11:22,1,Grizzlies,Raptors,2 - 0,1,N/A,N/A,N/A
+4,Jaren Jackson,FOUL_ON_FLOOR,None,11:11,1,Grizzlies,Raptors,2 - 0,1,N/A,N/A,N/A
+5,Pascal Siakam,FT,None,11:11,1,Raptors,Grizzlies,3 - 0,0,N/A,1,N/A
+6,JaMychal Green,SUBSTITUTION,Jackson Jaren,11:11,1,Grizzlies,Raptors,3 - 0,1,N/A,N/A,N/A
+7,Pascal Siakam,FT_MISS,None,11:11,1,Raptors,Grizzlies,3 - 0,0,N/A,1,N/A
+8,Pascal Siakam,OFFENSIVE_REBOUND,None,11:09,1,Raptors,Grizzlies,3 - 0,0,N/A,N/A,N/A
+9,Pascal Siakam,FG_UNASSISTED,None,11:05,1,Raptors,Grizzlies,5 - 0,0,0,2,Layup
+10,Garrett Temple,FG_MISS,None,10:49,1,Grizzlies,Raptors,5 - 0,1,24,3,Jumper
+11,Pascal Siakam,DEFENSIVE_REBOUND,None,10:46,1,Raptors,Grizzlies,5 - 0,0,N/A,N/A,N/A
+12,Danny Green,FG_ASSISTED,Pascal Siakam,10:41,1,Raptors,Grizzlies,8 - 0,0,26,3,Jumper
+13,Team,Unknown,None,10:39,1,Grizzlies,Raptors,8 - 0,1,N/A,N/A,N/A
+14,Garrett Temple,FG_UNASSISTED,None,10:16,1,Grizzlies,Raptors,8 - 2,1,15,3,Jumper
+15,Danny Green,TURNOVER,Marc Gasol,9:52,1,Raptors,Grizzlies,8 - 2,0,N/A,N/A,N/A
+16,Marc Gasol,FG_ASSISTED,Garrett Temple,9:41,1,Grizzlies,Raptors,8 - 4,1,10,3,Jumper
+17,Kawhi Leonard,FG_UNASSISTED,None,9:29,1,Raptors,Grizzlies,10 - 4,0,11,3,Jumper
+18,Serge Ibaka,FOUL_TECHNICAL,None,9:04,1,Raptors,Grizzlies,10 - 4,0,N/A,N/A,N/A
+19,Mike Conley,FT,None,9:04,1,Grizzlies,Raptors,10 - 5,1,N/A,1,N/A
+20,Garrett Temple,FG_MISS,None,8:59,1,Grizzlies,Raptors,10 - 5,1,-,3,Jumper
+21,Marc Gasol,OFFENSIVE_REBOUND,None,8:56,1,Grizzlies,Raptors,10 - 5,1,N/A,N/A,N/A
+22,Kyle Anderson,FG_ASSISTED,Marc Gasol,8:51,1,Grizzlies,Raptors,10 - 7,1,0,2,Layup
+23,Kyle Lowry,FG_MISS,None,8:42,1,Raptors,Grizzlies,10 - 7,0,24,3,Jumper
+24,Garrett Temple,DEFENSIVE_REBOUND,None,8:39,1,Grizzlies,Raptors,10 - 7,1,N/A,N/A,N/A
+25,JaMychal Green,FG_UNASSISTED,None,8:28,1,Grizzlies,Raptors,10 - 9,1,14,3,Jumper
+26,Serge Ibaka,TURNOVER,Marc Gasol,8:19,1,Raptors,Grizzlies,10 - 9,0,N/A,N/A,N/A
+27,JaMychal Green,TURNOVER,None,8:07,1,Grizzlies,Raptors,10 - 9,1,N/A,N/A,N/A
+28,Danny Green,FG_ASSISTED,Serge Ibaka,7:44,1,Raptors,Grizzlies,13 - 9,0,26,3,Jumper
+29,Mike Conley,FG_UNASSISTED,None,7:29,1,Grizzlies,Raptors,13 - 11,1, ,3,Jumper
+30,Serge Ibaka,FG_MISS,None,7:08,1,Raptors,Grizzlies,13 - 11,0, ,3,Jumper
+31,JaMychal Green,DEFENSIVE_REBOUND,None,7:05,1,Grizzlies,Raptors,13 - 11,1,N/A,N/A,N/A
+32,Mike Conley,FG_MISS,None,7:02,1,Grizzlies,Raptors,13 - 11,1, ,3,Jumper
+33,Kawhi Leonard,DEFENSIVE_REBOUND,None,6:58,1,Raptors,Grizzlies,13 - 11,0,N/A,N/A,N/A
+34,Serge Ibaka,FG_MISS,None,6:46,1,Raptors,Grizzlies,13 - 11,0, ,3,Jumper
+35,Serge Ibaka,OFFENSIVE_REBOUND,None,6:44,1,Raptors,Grizzlies,13 - 11,0,N/A,N/A,N/A
+36,Danny Green,FG_MISS,None,6:39,1,Raptors,Grizzlies,13 - 11,0,26,3,Jumper
+37,JaMychal Green,DEFENSIVE_REBOUND,None,6:37,1,Grizzlies,Raptors,13 - 11,1,N/A,N/A,N/A
+38,Mike Conley,FG_MISS,None,6:28,1,Grizzlies,Raptors,13 - 11,1,22,3,Jumper
+39,Mike Conley,OFFENSIVE_REBOUND,None,6:24,1,Grizzlies,Raptors,13 - 11,1,N/A,N/A,N/A
+40,Mike Conley,FG_MISS,Danny Green,6:11,1,Raptors,Grizzlies,13 - 11,1,8,3,Jumper
+41,Team,OFFENSIVE_REBOUND,None,6:11,1,Grizzlies,Raptors,13 - 11,1,N/A,N/A,N/A
+42,shot clock,TURNOVER,None,6:11,1,Grizzlies,Raptors,13 - 11,1,N/A,N/A,N/A
+43,Team,Unknown,None,6:11,1,Raptors,Grizzlies,13 - 11,0,N/A,N/A,N/A
+44,Pascal Siakam,FG_MISS,None,5:57,1,Raptors,Grizzlies,13 - 11,0,22,3,Jumper
+45,Garrett Temple,DEFENSIVE_REBOUND,None,5:55,1,Grizzlies,Raptors,13 - 11,1,N/A,N/A,N/A
+46,Marc Gasol,FG_MISS,None,5:40,1,Grizzlies,Raptors,13 - 11,1,25,3,Jumper
+47,Garrett Temple,OFFENSIVE_REBOUND,None,5:37,1,Grizzlies,Raptors,13 - 11,1,N/A,N/A,N/A
+48,Garrett Temple,TURNOVER,Kawhi Leonard,5:36,1,Grizzlies,Raptors,13 - 11,1,N/A,N/A,N/A
+49,Serge Ibaka,FG_ASSISTED,Pascal Siakam,5:32,1,Raptors,Grizzlies,15 - 11,0,0,2,Dunk
+50,Kyle Lowry,FOUL_ON_FLOOR,None,5:24,1,Raptors,Grizzlies,15 - 11,0,N/A,N/A,N/A
+51,Garrett Temple,FG_ASSISTED,Kyle Anderson,5:13,1,Grizzlies,Raptors,15 - 14,1,25,3,Jumper
+52,JaMychal Green,FOUL_ON_FLOOR,None,4:56,1,Grizzlies,Raptors,15 - 14,1,N/A,N/A,N/A
+53,Shelvin Mack,SUBSTITUTION,Conley Mike,4:56,1,Grizzlies,Raptors,15 - 14,1,N/A,N/A,N/A
+54,Kawhi Leonard,FG_MISS,None,4:49,1,Raptors,Grizzlies,15 - 14,0,26,3,Jumper
+55,Kyle Anderson,DEFENSIVE_REBOUND,None,4:46,1,Grizzlies,Raptors,15 - 14,1,N/A,N/A,N/A
+56,Shelvin Mack,TURNOVER,None,4:38,1,Grizzlies,Raptors,15 - 14,1,N/A,N/A,N/A
+57,Kawhi Leonard,FG_MISS,None,4:27,1,Raptors,Grizzlies,15 - 14,0,13,3,Jumper
+58,JaMychal Green,DEFENSIVE_REBOUND,None,4:24,1,Grizzlies,Raptors,15 - 14,1,N/A,N/A,N/A
+59,JaMychal Green,FG_ASSISTED,Marc Gasol,4:13,1,Grizzlies,Raptors,15 - 16,1,4,3,Jumper
+60,Pascal Siakam,FOUL_ON_FLOOR,None,4:13,1,Raptors,Grizzlies,15 - 16,0,N/A,N/A,N/A
+61,Wayne Selden,SUBSTITUTION,Temple Garrett,4:13,1,Grizzlies,Raptors,15 - 16,1,N/A,N/A,N/A
+62,JaMychal Green,FT,None,4:13,1,Grizzlies,Raptors,15 - 17,1,N/A,1,N/A
+63,Pascal Siakam,FG_UNASSISTED,None,3:55,1,Raptors,Grizzlies,17 - 17,0,13,3,Jumper
+64,Wayne Selden,FG_MISS,None,3:41,1,Grizzlies,Raptors,17 - 17,1, ,3,Jumper
+65,Danny Green,DEFENSIVE_REBOUND,None,3:38,1,Raptors,Grizzlies,17 - 17,0,N/A,N/A,N/A
+66,Serge Ibaka,FG_ASSISTED,Pascal Siakam,3:29,1,Raptors,Grizzlies,19 - 17,0,0,2,Dunk
+67,Kyle Anderson,FG_MISS,None,3:10,1,Grizzlies,Raptors,19 - 17,1,12,3,Jumper
+68,Danny Green,DEFENSIVE_REBOUND,None,3:06,1,Raptors,Grizzlies,19 - 17,0,N/A,N/A,N/A
+69,Danny Green,FG_MISS,None,2:59,1,Raptors,Grizzlies,19 - 17,0,26,3,Jumper
+70,Shelvin Mack,DEFENSIVE_REBOUND,None,2:57,1,Grizzlies,Raptors,19 - 17,1,N/A,N/A,N/A
+71,Wayne Selden,FG_ASSISTED,JaMychal Green,2:53,1,Grizzlies,Raptors,19 - 19,1, ,3,Jumper
+72,Kawhi Leonard,FG_UNASSISTED,None,2:41,1,Raptors,Grizzlies,21 - 19,0,0,2,Layup
+73,Team,Unknown,None,2:36,1,Grizzlies,Raptors,21 - 19,1,N/A,N/A,N/A
+74,Omri Casspi,SUBSTITUTION,Anderson Kyle,2:36,1,Grizzlies,Raptors,21 - 19,1,N/A,N/A,N/A
+75,Fred VanVleet,SUBSTITUTION,Leonard Kawhi,2:36,1,Raptors,Grizzlies,21 - 19,0,N/A,N/A,N/A
+76,Jonas Valanciunas,SUBSTITUTION,Green Danny,2:36,1,Raptors,Grizzlies,21 - 19,0,N/A,N/A,N/A
+77,OG Anunoby,SUBSTITUTION,Siakam Pascal,2:36,1,Raptors,Grizzlies,21 - 19,0,N/A,N/A,N/A
+78,Jonas Valanciunas,FOUL_ON_FLOOR,None,2:25,1,Raptors,Grizzlies,21 - 19,0,N/A,N/A,N/A
+79,Marc Gasol,FG_ASSISTED,Shelvin Mack,2:17,1,Grizzlies,Raptors,21 - 21,1,15,3,Jumper
+80,Jonas Valanciunas,FG_ASSISTED,Kyle Lowry,2:03,1,Raptors,Grizzlies,23 - 21,0,6,3,Jumper
+81,JaMychal Green,FG_ASSISTED,Wayne Selden,1:45,1,Grizzlies,Raptors,23 - 23,1,0,2,Dunk
+82,Kyle Lowry,TURNOVER,None,1:35,1,Raptors,Grizzlies,23 - 23,0,N/A,N/A,N/A
+83,Marc Gasol,FG_ASSISTED,Wayne Selden,1:21,1,Grizzlies,Raptors,23 - 25,1,14,3,Jumper
+84,Kyle Lowry,FG_ASSISTED,Jonas Valanciunas,1:09,1,Raptors,Grizzlies,26 - 25,0,27,3,Jumper
+85,Shelvin Mack,FG_ASSISTED,Marc Gasol,58.0,1,Grizzlies,Raptors,26 - 27,1, ,3,Jumper
+86,Wayne Selden,FOUL_ON_FLOOR,None,54.2,1,Grizzlies,Raptors,26 - 27,1,N/A,N/A,N/A
+87,Garrett Temple,SUBSTITUTION,Green JaMychal,54.2,1,Grizzlies,Raptors,26 - 27,1,N/A,N/A,N/A
+88,enters the,SUBSTITUTION,Lowry Kyle,54.2,1,Raptors,Grizzlies,26 - 27,0,N/A,N/A,N/A
+89,CJ Miles,SUBSTITUTION,Ibaka Serge,54.2,1,Raptors,Grizzlies,26 - 27,0,N/A,N/A,N/A
+90,CJ Miles,FG_ASSISTED,Jonas Valanciunas,38.8,1,Raptors,Grizzlies,29 - 27,0,23,3,Jumper
+91,Marc Gasol,FG_ASSISTED,Shelvin Mack,32.2,1,Grizzlies,Raptors,29 - 30,1,26,3,Jumper
+92,Fred VanVleet,FG_UNASSISTED,None,10.9,1,Raptors,Grizzlies,31 - 30,0,0,2,Layup
+93,Delon Wright,Unknown,None,5.7,1,Raptors,Grizzlies,31 - 30,0,N/A,N/A,N/A
+94,Lorenzo Brown,SUBSTITUTION,VanVleet Fred,5.7,1,Raptors,Grizzlies,31 - 30,0,N/A,N/A,N/A
+95,Shelvin Mack,FG_UNASSISTED,None,2.2,1,Grizzlies,Raptors,31 - 32,1,16,3,Jumper
+96,End of,Unknown,None,0.0,1,Grizzlies,Raptors,31 - 32,1,N/A,N/A,N/A
+0,Jaren Jackson,SUBSTITUTION,Gasol Marc,12:00,2,Grizzlies,Raptors,31 - 32,1,N/A,N/A,N/A
+1,Fred VanVleet,SUBSTITUTION,Brown Lorenzo,12:00,2,Raptors,Grizzlies,31 - 32,0,N/A,N/A,N/A
+2,CJ Miles,FOUL_ON_FLOOR,None,11:50,2,Raptors,Grizzlies,31 - 32,0,N/A,N/A,N/A
+3,Omri Casspi,FG_MISS,None,11:45,2,Grizzlies,Raptors,31 - 32,1, ,3,Jumper
+4,Omri Casspi,OFFENSIVE_REBOUND,None,11:38,2,Grizzlies,Raptors,31 - 32,1,N/A,N/A,N/A
+5,Omri Casspi,FG_UNASSISTED,None,11:38,2,Grizzlies,Raptors,31 - 34,1, ,3,Jumper
+6,Jonas Valanciunas,TURNOVER,Shelvin Mack,11:22,2,Raptors,Grizzlies,31 - 34,0,N/A,N/A,N/A
+7,Omri Casspi,FG_ASSISTED,Wayne Selden,11:13,2,Grizzlies,Raptors,31 - 36,1,0,2,Layup
+8,OG Anunoby,FOUL_ON_FLOOR,None,11:13,2,Raptors,Grizzlies,31 - 36,0,N/A,N/A,N/A
+9,Omri Casspi,FT,None,11:13,2,Grizzlies,Raptors,31 - 37,1,N/A,1,N/A
+10,Delon Wright,FG_MISS,None,10:59,2,Raptors,Grizzlies,31 - 37,0,0,2,Layup
+11,Jonas Valanciunas,OFFENSIVE_REBOUND,None,10:58,2,Raptors,Grizzlies,31 - 37,0,N/A,N/A,N/A
+12,Omri Casspi,FOUL_ON_FLOOR,None,10:58,2,Grizzlies,Raptors,31 - 37,1,N/A,N/A,N/A
+13,Jonas Valanciunas,FT,None,10:58,2,Raptors,Grizzlies,32 - 37,0,N/A,1,N/A
+14,Jonas Valanciunas,FT,None,10:58,2,Raptors,Grizzlies,33 - 37,0,N/A,1,N/A
+15,Shelvin Mack,FG_MISS,None,10:45,2,Grizzlies,Raptors,33 - 37,1, ,3,Jumper
+16,Jonas Valanciunas,DEFENSIVE_REBOUND,None,10:41,2,Raptors,Grizzlies,33 - 37,0,N/A,N/A,N/A
+17,CJ Miles,FG_ASSISTED,Delon Wright,10:37,2,Raptors,Grizzlies,36 - 37,0,22,3,Jumper
+18,Garrett Temple,FG_ASSISTED,Wayne Selden,10:20,2,Grizzlies,Raptors,36 - 40,1,24,3,Jumper
+19,Jonas Valanciunas,FG_UNASSISTED,None,10:02,2,Raptors,Grizzlies,38 - 40,0,8,3,Jumper
+20,Jaren Jackson,FG_MISS,None,9:51,2,Grizzlies,Raptors,38 - 40,1,5,3,Jumper
+21,Team,DEFENSIVE_REBOUND,None,9:51,2,Raptors,Grizzlies,38 - 40,0,N/A,N/A,N/A
+22,Fred VanVleet,TURNOVER,None,9:35,2,Raptors,Grizzlies,38 - 40,0,N/A,N/A,N/A
+23,Garrett Temple,FG_UNASSISTED,None,9:22,2,Grizzlies,Raptors,38 - 42,1,21,3,Jumper
+24,Jonas Valanciunas,FG_ASSISTED,Fred VanVleet,9:06,2,Raptors,Grizzlies,41 - 42,0,25,3,Jumper
+25,Jaren Jackson,FG_MISS,Jonas Valanciunas,8:54,2,Raptors,Grizzlies,41 - 42,1,3,3,Jumper
+26,Team,OFFENSIVE_REBOUND,None,8:54,2,Grizzlies,Raptors,41 - 42,1,N/A,N/A,N/A
+27,Mike Conley,SUBSTITUTION,Selden Wayne,8:54,2,Grizzlies,Raptors,41 - 42,1,N/A,N/A,N/A
+28,Omri Casspi,FG_MISS,None,8:49,2,Grizzlies,Raptors,41 - 42,1,2,3,Jumper
+29,Mike Conley,OFFENSIVE_REBOUND,None,8:46,2,Grizzlies,Raptors,41 - 42,1,N/A,N/A,N/A
+30,Mike Conley,TURNOVER,Fred VanVleet,8:45,2,Grizzlies,Raptors,41 - 42,1,N/A,N/A,N/A
+31,Fred VanVleet,FG_ASSISTED,CJ Miles,8:35,2,Raptors,Grizzlies,43 - 42,0, ,3,Jumper
+32,Shelvin Mack,FG_UNASSISTED,None,8:20,2,Grizzlies,Raptors,43 - 44,1,16,3,Jumper
+33,Jonas Valanciunas,TURNOVER,Shelvin Mack,8:05,2,Raptors,Grizzlies,43 - 44,0,N/A,N/A,N/A
+34,Mike Conley,FG_ASSISTED,Shelvin Mack,8:01,2,Grizzlies,Raptors,43 - 46,1,6,3,Jumper
+35,OG Anunoby,TURNOVER,Garrett Temple,7:46,2,Raptors,Grizzlies,43 - 46,0,N/A,N/A,N/A
+36,Fred VanVleet,FOUL_ON_FLOOR,None,7:43,2,Raptors,Grizzlies,43 - 46,0,N/A,N/A,N/A
+37,Garrett Temple,FT,None,7:43,2,Grizzlies,Raptors,43 - 47,1,N/A,1,N/A
+38,JaMychal Green,SUBSTITUTION,Casspi Omri,7:43,2,Grizzlies,Raptors,43 - 47,1,N/A,N/A,N/A
+39,Garrett Temple,FT,None,7:43,2,Grizzlies,Raptors,43 - 48,1,N/A,1,N/A
+40,Team,Unknown,None,7:43,2,Raptors,Grizzlies,43 - 48,0,N/A,N/A,N/A
+41,Kyle Anderson,SUBSTITUTION,Temple Garrett,7:43,2,Grizzlies,Raptors,43 - 48,1,N/A,N/A,N/A
+42,Kawhi Leonard,SUBSTITUTION,Miles CJ,7:43,2,Raptors,Grizzlies,43 - 48,0,N/A,N/A,N/A
+43,OG Anunoby,FG_MISS,None,7:18,2,Raptors,Grizzlies,43 - 48,0,26,3,Jumper
+44,Jaren Jackson,DEFENSIVE_REBOUND,None,7:16,2,Grizzlies,Raptors,43 - 48,1,N/A,N/A,N/A
+45,Jonas Valanciunas,FOUL_ON_FLOOR,None,7:10,2,Raptors,Grizzlies,43 - 48,0,N/A,N/A,N/A
+46,Jaren Jackson,FT,None,7:10,2,Grizzlies,Raptors,43 - 49,1,N/A,1,N/A
+47,Serge Ibaka,SUBSTITUTION,Valanciunas Jonas,7:10,2,Raptors,Grizzlies,43 - 49,0,N/A,N/A,N/A
+48,Kyle Lowry,SUBSTITUTION,Anunoby OG,7:10,2,Raptors,Grizzlies,43 - 49,0,N/A,N/A,N/A
+49,Pascal Siakam,SUBSTITUTION,VanVleet Fred,7:10,2,Raptors,Grizzlies,43 - 49,0,N/A,N/A,N/A
+50,Jaren Jackson,FT,None,7:10,2,Grizzlies,Raptors,43 - 50,1,N/A,1,N/A
+51,JaMychal Green,FOUL_ON_FLOOR,None,6:57,2,Grizzlies,Raptors,43 - 50,1,N/A,N/A,N/A
+52,Kyle Lowry,FG_MISS,Mike Conley,6:47,2,Grizzlies,Raptors,43 - 50,0,0,2,Layup
+53,Mike Conley,DEFENSIVE_REBOUND,None,6:44,2,Grizzlies,Raptors,43 - 50,1,N/A,N/A,N/A
+54,Mike Conley,FG_UNASSISTED,None,6:32,2,Grizzlies,Raptors,43 - 52,1,14,3,Jumper
+55,Jaren Jackson,FOUL_ON_FLOOR,None,6:21,2,Grizzlies,Raptors,43 - 52,1,N/A,N/A,N/A
+56,Kyle Lowry,FT_MISS,None,6:21,2,Raptors,Grizzlies,43 - 52,0,N/A,1,N/A
+57,Team,OFFENSIVE_REBOUND,None,6:21,2,Raptors,Grizzlies,43 - 52,0,N/A,N/A,N/A
+58,Marc Gasol,SUBSTITUTION,Jackson Jaren,6:21,2,Grizzlies,Raptors,43 - 52,1,N/A,N/A,N/A
+59,Danny Green,SUBSTITUTION,Wright Delon,6:21,2,Raptors,Grizzlies,43 - 52,0,N/A,N/A,N/A
+60,Kyle Lowry,FT,None,6:21,2,Raptors,Grizzlies,44 - 52,0,N/A,1,N/A
+61,Shelvin Mack,FG_UNASSISTED,None,6:03,2,Grizzlies,Raptors,44 - 54,1,10,3,Jumper
+62,Danny Green,FG_UNASSISTED,None,5:47,2,Raptors,Grizzlies,46 - 54,0,0,2,Layup
+63,JaMychal Green,FG_UNASSISTED,None,5:33,2,Grizzlies,Raptors,46 - 56,1,4,3,Jumper
+64,Kyle Lowry,TURNOVER,Mike Conley,5:26,2,Raptors,Grizzlies,46 - 56,0,N/A,N/A,N/A
+65,JaMychal Green,FG_MISS,Kawhi Leonard,5:17,2,Raptors,Grizzlies,46 - 56,1,0,2,Layup
+66,JaMychal Green,OFFENSIVE_REBOUND,None,5:13,2,Grizzlies,Raptors,46 - 56,1,N/A,N/A,N/A
+67,Shelvin Mack,FG_MISS,None,5:12,2,Grizzlies,Raptors,46 - 56,1,23,3,Jumper
+68,Pascal Siakam,DEFENSIVE_REBOUND,None,5:10,2,Raptors,Grizzlies,46 - 56,0,N/A,N/A,N/A
+69,Pascal Siakam,FG_UNASSISTED,None,5:04,2,Raptors,Grizzlies,48 - 56,0, ,3,Jumper
+70,Marc Gasol,FG_MISS,None,4:41,2,Grizzlies,Raptors,48 - 56,1,7,3,Jumper
+71,Danny Green,DEFENSIVE_REBOUND,None,4:38,2,Raptors,Grizzlies,48 - 56,0,N/A,N/A,N/A
+72,Pascal Siakam,TURNOVER,Kyle Anderson,4:36,2,Raptors,Grizzlies,48 - 56,0,N/A,N/A,N/A
+73,Marc Gasol,FG_ASSISTED,Shelvin Mack,4:24,2,Grizzlies,Raptors,48 - 58,1,5,3,Jumper
+74,Omri Casspi,SUBSTITUTION,Green JaMychal,4:12,2,Grizzlies,Raptors,48 - 58,1,N/A,N/A,N/A
+75,Kyle Lowry,FG_MISS,None,4:05,2,Raptors,Grizzlies,48 - 58,0,25,3,Jumper
+76,Omri Casspi,DEFENSIVE_REBOUND,None,4:03,2,Grizzlies,Raptors,48 - 58,1,N/A,N/A,N/A
+77,Marc Gasol,FG_MISS,None,3:47,2,Grizzlies,Raptors,48 - 58,1,14,3,Jumper
+78,Pascal Siakam,DEFENSIVE_REBOUND,None,3:45,2,Raptors,Grizzlies,48 - 58,0,N/A,N/A,N/A
+79,Serge Ibaka,FG_MISS,None,3:38,2,Raptors,Grizzlies,48 - 58,0,7,3,Jumper
+80,Omri Casspi,DEFENSIVE_REBOUND,None,3:35,2,Grizzlies,Raptors,48 - 58,1,N/A,N/A,N/A
+81,Omri Casspi,FG_MISS,None,3:28,2,Grizzlies,Raptors,48 - 58,1, ,3,Jumper
+82,Kawhi Leonard,DEFENSIVE_REBOUND,None,3:25,2,Raptors,Grizzlies,48 - 58,0,N/A,N/A,N/A
+83,Kawhi Leonard,FG_MISS,None,3:11,2,Raptors,Grizzlies,48 - 58,0,0,2,Layup
+84,Shelvin Mack,DEFENSIVE_REBOUND,None,3:08,2,Grizzlies,Raptors,48 - 58,1,N/A,N/A,N/A
+85,Shelvin Mack,FG_ASSISTED,Omri Casspi,2:59,2,Grizzlies,Raptors,48 - 60,1,12,3,Jumper
+86,Omri Casspi,FOUL_ON_FLOOR,None,2:48,2,Grizzlies,Raptors,48 - 60,1,N/A,N/A,N/A
+87,Team,Unknown,None,2:48,2,Grizzlies,Raptors,48 - 60,1,N/A,N/A,N/A
+88,Pascal Siakam,FT,None,2:48,2,Raptors,Grizzlies,49 - 60,0,N/A,1,N/A
+89,Pascal Siakam,FT,None,2:48,2,Raptors,Grizzlies,50 - 60,0,N/A,1,N/A
+90,Kyle Anderson,TURNOVER,Kawhi Leonard,2:36,2,Grizzlies,Raptors,50 - 60,1,N/A,N/A,N/A
+91,Kyle Anderson,FOUL_ON_FLOOR,None,2:36,2,Grizzlies,Raptors,50 - 60,1,N/A,N/A,N/A
+92,Kawhi Leonard,FT_MISS,None,2:36,2,Raptors,Grizzlies,50 - 60,0,N/A,1,N/A
+93,Team,OFFENSIVE_REBOUND,None,2:36,2,Raptors,Grizzlies,50 - 60,0,N/A,N/A,N/A
+94,Kawhi Leonard,FT,None,2:36,2,Raptors,Grizzlies,51 - 60,0,N/A,1,N/A
+95,Marc Gasol,FG_ASSISTED,Mike Conley,2:20,2,Grizzlies,Raptors,51 - 62,1,5,3,Jumper
+96,Danny Green,FG_ASSISTED,Kyle Lowry,2:04,2,Raptors,Grizzlies,54 - 62,0,26,3,Jumper
+97,Serge Ibaka,FOUL_ON_FLOOR,None,1:56,2,Raptors,Grizzlies,54 - 62,0,N/A,N/A,N/A
+98,Serge Ibaka,FOUL_TECHNICAL,None,1:56,2,Raptors,Grizzlies,54 - 62,0,N/A,N/A,N/A
+99,Mike Conley,FT,None,1:56,2,Grizzlies,Raptors,54 - 63,1,N/A,1,N/A
+100,Marc Gasol,FT,None,1:56,2,Grizzlies,Raptors,54 - 64,1,N/A,1,N/A
+101,Garrett Temple,SUBSTITUTION,Mack Shelvin,1:56,2,Grizzlies,Raptors,54 - 64,1,N/A,N/A,N/A
+102,Marc Gasol,FT,None,1:56,2,Grizzlies,Raptors,54 - 65,1,N/A,1,N/A
+103,Kyle Lowry,FG_ASSISTED,Serge Ibaka,1:41,2,Raptors,Grizzlies,57 - 65,0,26,3,Jumper
+104,Omri Casspi,FG_ASSISTED,Mike Conley,1:26,2,Grizzlies,Raptors,57 - 68,1,27,3,Jumper
+105,Kyle Lowry,FG_UNASSISTED,None,1:15,2,Raptors,Grizzlies,59 - 68,0, ,3,Jumper
+106,Mike Conley,FG_MISS,None,55.9,2,Grizzlies,Raptors,59 - 68,1, ,3,Jumper
+107,Serge Ibaka,DEFENSIVE_REBOUND,None,53.8,2,Raptors,Grizzlies,59 - 68,0,N/A,N/A,N/A
+108,Pascal Siakam,FG_MISS,None,47.2,2,Raptors,Grizzlies,59 - 68,0,7,3,Jumper
+109,Garrett Temple,DEFENSIVE_REBOUND,None,44.0,2,Grizzlies,Raptors,59 - 68,1,N/A,N/A,N/A
+110,Kawhi Leonard,FOUL_ON_FLOOR,None,32.4,2,Raptors,Grizzlies,59 - 68,0,N/A,N/A,N/A
+111,Nick Nurse,FOUL_TECHNICAL,None,32.4,2,Raptors,Grizzlies,59 - 68,0,N/A,N/A,N/A
+112,Mike Conley,FT,None,32.4,2,Grizzlies,Raptors,59 - 69,1,N/A,1,N/A
+113,Omri Casspi,FT,None,32.4,2,Grizzlies,Raptors,59 - 70,1,N/A,1,N/A
+114,Omri Casspi,FT,None,32.4,2,Grizzlies,Raptors,59 - 71,1,N/A,1,N/A
+115,Omri Casspi,Unknown,None,14.3,2,Grizzlies,Raptors,59 - 71,1,N/A,N/A,N/A
+116,Shelvin Mack,SUBSTITUTION,Casspi Omri,14.3,2,Grizzlies,Raptors,59 - 71,1,N/A,N/A,N/A
+117,Kyle Lowry,FG_MISS,Mike Conley,0.6,2,Grizzlies,Raptors,59 - 71,0,16,3,Jumper
+118,Mike Conley,DEFENSIVE_REBOUND,None,0.6,2,Grizzlies,Raptors,59 - 71,1,N/A,N/A,N/A
+119,End of,Unknown,None,0.0,2,Grizzlies,Raptors,59 - 71,1,N/A,N/A,N/A
+0,Jaren Jackson,SUBSTITUTION,Mack Shelvin,12:00,3,Grizzlies,Raptors,59 - 71,1,N/A,N/A,N/A
+1,Marc Gasol,FG_ASSISTED,Mike Conley,11:37,3,Grizzlies,Raptors,59 - 74,1,25,3,Jumper
+2,Serge Ibaka,TURNOVER,Mike Conley,11:13,3,Raptors,Grizzlies,59 - 74,0,N/A,N/A,N/A
+3,Garrett Temple,FG_MISS,Serge Ibaka,10:50,3,Raptors,Grizzlies,59 - 74,1,14,3,Jumper
+4,Serge Ibaka,DEFENSIVE_REBOUND,None,10:47,3,Raptors,Grizzlies,59 - 74,0,N/A,N/A,N/A
+5,Danny Green,FG_MISS,None,10:40,3,Raptors,Grizzlies,59 - 74,0,26,3,Jumper
+6,Marc Gasol,DEFENSIVE_REBOUND,None,10:37,3,Grizzlies,Raptors,59 - 74,1,N/A,N/A,N/A
+7,Mike Conley,FG_MISS,None,10:19,3,Grizzlies,Raptors,59 - 74,1, ,3,Jumper
+8,Kyle Anderson,OFFENSIVE_REBOUND,None,10:09,3,Grizzlies,Raptors,59 - 74,1,N/A,N/A,N/A
+9,Kyle Anderson,FG_UNASSISTED,None,10:09,3,Grizzlies,Raptors,59 - 76,1, ,3,Jumper
+10,Marc Gasol,FOUL_ON_FLOOR,None,10:01,3,Grizzlies,Raptors,59 - 76,1,N/A,N/A,N/A
+11,Serge Ibaka,FT,None,10:01,3,Raptors,Grizzlies,60 - 76,0,N/A,1,N/A
+12,Serge Ibaka,FT,None,10:01,3,Raptors,Grizzlies,61 - 76,0,N/A,1,N/A
+13,Marc Gasol,FG_UNASSISTED,None,9:41,3,Grizzlies,Raptors,61 - 78,1, ,3,Jumper
+14,Kawhi Leonard,FG_UNASSISTED,None,9:34,3,Raptors,Grizzlies,63 - 78,0,10,3,Jumper
+15,Pascal Siakam,FOUL_ON_FLOOR,None,9:16,3,Raptors,Grizzlies,63 - 78,0,N/A,N/A,N/A
+16,Marc Gasol,TURNOVER,None,9:09,3,Grizzlies,Raptors,63 - 78,1,N/A,N/A,N/A
+17,Kyle Lowry,FG_UNASSISTED,None,9:02,3,Raptors,Grizzlies,66 - 78,0,25,3,Jumper
+18,Jaren Jackson,FG_ASSISTED,Mike Conley,8:39,3,Grizzlies,Raptors,66 - 80,1, ,3,Jumper
+19,Serge Ibaka,FG_ASSISTED,Kyle Lowry,8:24,3,Raptors,Grizzlies,68 - 80,0,15,3,Jumper
+20,Mike Conley,FG_MISS,Pascal Siakam,8:05,3,Raptors,Grizzlies,68 - 80,1,0,2,Layup
+21,Kawhi Leonard,DEFENSIVE_REBOUND,None,8:02,3,Raptors,Grizzlies,68 - 80,0,N/A,N/A,N/A
+22,Kyle Anderson,FOUL_ON_FLOOR,None,8:02,3,Grizzlies,Raptors,68 - 80,1,N/A,N/A,N/A
+23,Kawhi Leonard,TURNOVER,None,7:52,3,Raptors,Grizzlies,68 - 80,0,N/A,N/A,N/A
+24,Mike Conley,FG_UNASSISTED,None,7:38,3,Grizzlies,Raptors,68 - 83,1,26,3,Jumper
+25,Marc Gasol,FOUL_ON_FLOOR,None,7:25,3,Grizzlies,Raptors,68 - 83,1,N/A,N/A,N/A
+26,Kawhi Leonard,FT,None,7:25,3,Raptors,Grizzlies,69 - 83,0,N/A,1,N/A
+27,Kawhi Leonard,FT,None,7:25,3,Raptors,Grizzlies,70 - 83,0,N/A,1,N/A
+28,Kyle Anderson,FG_MISS,None,7:04,3,Grizzlies,Raptors,70 - 83,1, ,3,Jumper
+29,Pascal Siakam,DEFENSIVE_REBOUND,None,6:58,3,Raptors,Grizzlies,70 - 83,0,N/A,N/A,N/A
+30,Danny Green,FG_ASSISTED,Pascal Siakam,6:52,3,Raptors,Grizzlies,73 - 83,0,25,3,Jumper
+31,Team,Unknown,None,6:52,3,Grizzlies,Raptors,73 - 83,1,N/A,N/A,N/A
+32,Marc Gasol,FG_ASSISTED,Mike Conley,6:30,3,Grizzlies,Raptors,73 - 86,1,31,3,Jumper
+33,Kawhi Leonard,FG_UNASSISTED,None,6:20,3,Raptors,Grizzlies,75 - 86,0,0,2,Layup
+34,Jaren Jackson,FG_MISS,None,6:10,3,Grizzlies,Raptors,75 - 86,1,3,3,Jumper
+35,Kyle Lowry,DEFENSIVE_REBOUND,None,6:08,3,Raptors,Grizzlies,75 - 86,0,N/A,N/A,N/A
+36,Garrett Temple,FOUL_ON_FLOOR,None,6:05,3,Grizzlies,Raptors,75 - 86,1,N/A,N/A,N/A
+37,Kyle Lowry,FT,None,6:05,3,Raptors,Grizzlies,76 - 86,0,N/A,1,N/A
+38,Kyle Lowry,FT,None,6:05,3,Raptors,Grizzlies,77 - 86,0,N/A,1,N/A
+39,Mike Conley,FG_MISS,None,5:52,3,Grizzlies,Raptors,77 - 86,1,27,3,Jumper
+40,Danny Green,DEFENSIVE_REBOUND,None,5:50,3,Raptors,Grizzlies,77 - 86,0,N/A,N/A,N/A
+41,Serge Ibaka,FG_ASSISTED,Kyle Lowry,5:35,3,Raptors,Grizzlies,79 - 86,0, ,3,Jumper
+42,Jaren Jackson,TURNOVER,None,5:23,3,Grizzlies,Raptors,79 - 86,1,N/A,N/A,N/A
+43,JaMychal Green,SUBSTITUTION,Jackson Jaren,5:23,3,Grizzlies,Raptors,79 - 86,1,N/A,N/A,N/A
+44,Kyle Lowry,FG_MISS,None,5:04,3,Raptors,Grizzlies,79 - 86,0,21,3,Jumper
+45,Kyle Anderson,DEFENSIVE_REBOUND,None,5:00,3,Grizzlies,Raptors,79 - 86,1,N/A,N/A,N/A
+46,Marc Gasol,FG_MISS,None,4:53,3,Grizzlies,Raptors,79 - 86,1,25,3,Jumper
+47,Kawhi Leonard,DEFENSIVE_REBOUND,None,4:49,3,Raptors,Grizzlies,79 - 86,0,N/A,N/A,N/A
+48,Kyle Anderson,FOUL_ON_FLOOR,None,4:43,3,Grizzlies,Raptors,79 - 86,1,N/A,N/A,N/A
+49,Kawhi Leonard,FT,None,4:43,3,Raptors,Grizzlies,80 - 86,0,N/A,1,N/A
+50,Kawhi Leonard,FT_MISS,None,4:43,3,Raptors,Grizzlies,80 - 86,0,N/A,1,N/A
+51,Team,OFFENSIVE_REBOUND,None,4:43,3,Raptors,Grizzlies,80 - 86,0,N/A,N/A,N/A
+52,Kawhi Leonard,FT,None,4:43,3,Raptors,Grizzlies,81 - 86,0,N/A,1,N/A
+53,Kyle Anderson,FG_ASSISTED,Garrett Temple,4:23,3,Grizzlies,Raptors,81 - 88,1,3,3,Jumper
+54,Kawhi Leonard,FOUL_ON_FLOOR,None,4:23,3,Raptors,Grizzlies,81 - 88,0,N/A,N/A,N/A
+55,Kyle Anderson,FT,None,4:23,3,Grizzlies,Raptors,81 - 89,1,N/A,1,N/A
+56,Garrett Temple,FOUL_ON_FLOOR,None,4:11,3,Grizzlies,Raptors,81 - 89,1,N/A,N/A,N/A
+57,Kawhi Leonard,FT,None,4:11,3,Raptors,Grizzlies,82 - 89,0,N/A,1,N/A
+58,Shelvin Mack,SUBSTITUTION,Conley Mike,4:11,3,Grizzlies,Raptors,82 - 89,1,N/A,N/A,N/A
+59,Kawhi Leonard,FT_MISS,None,4:11,3,Raptors,Grizzlies,82 - 89,0,N/A,1,N/A
+60,JaMychal Green,DEFENSIVE_REBOUND,None,4:11,3,Grizzlies,Raptors,82 - 89,1,N/A,N/A,N/A
+61,Pascal Siakam,FOUL_ON_FLOOR,None,4:11,3,Raptors,Grizzlies,82 - 89,0,N/A,N/A,N/A
+62,Team,Unknown,None,4:11,3,Grizzlies,Raptors,82 - 89,1,N/A,N/A,N/A
+63,JaMychal Green,FG_MISS,None,3:47,3,Grizzlies,Raptors,82 - 89,1,0,2,Layup
+64,Kawhi Leonard,DEFENSIVE_REBOUND,None,3:45,3,Raptors,Grizzlies,82 - 89,0,N/A,N/A,N/A
+65,Serge Ibaka,FG_ASSISTED,Kawhi Leonard,3:41,3,Raptors,Grizzlies,84 - 89,0, ,3,Jumper
+66,Serge Ibaka,FOUL_ON_FLOOR,None,3:27,3,Raptors,Grizzlies,84 - 89,0,N/A,N/A,N/A
+67,JaMychal Green,FG_ASSISTED,Garrett Temple,3:19,3,Grizzlies,Raptors,84 - 91,1,12,3,Jumper
+68,Serge Ibaka,FG_ASSISTED,Kyle Lowry,2:53,3,Raptors,Grizzlies,86 - 91,0,17,3,Jumper
+69,Pascal Siakam,FOUL_ON_FLOOR,None,2:38,3,Raptors,Grizzlies,86 - 91,0,N/A,N/A,N/A
+70,JaMychal Green,FT,None,2:38,3,Grizzlies,Raptors,86 - 92,1,N/A,1,N/A
+71,Wayne Selden,SUBSTITUTION,Temple Garrett,2:38,3,Grizzlies,Raptors,86 - 92,1,N/A,N/A,N/A
+72,Fred VanVleet,SUBSTITUTION,Leonard Kawhi,2:38,3,Raptors,Grizzlies,86 - 92,0,N/A,N/A,N/A
+73,OG Anunoby,SUBSTITUTION,Siakam Pascal,2:38,3,Raptors,Grizzlies,86 - 92,0,N/A,N/A,N/A
+74,JaMychal Green,FT,None,2:38,3,Grizzlies,Raptors,86 - 93,1,N/A,1,N/A
+75,Kyle Lowry,FG_UNASSISTED,None,2:24,3,Raptors,Grizzlies,89 - 93,0,30,3,Jumper
+76,Wayne Selden,FG_MISS,None,2:02,3,Grizzlies,Raptors,89 - 93,1,26,3,Jumper
+77,Fred VanVleet,DEFENSIVE_REBOUND,None,1:59,3,Raptors,Grizzlies,89 - 93,0,N/A,N/A,N/A
+78,Fred VanVleet,FG_UNASSISTED,None,1:55,3,Raptors,Grizzlies,91 - 93,0, ,3,Jumper
+79,Serge Ibaka,FOUL_ON_FLOOR,None,1:40,3,Raptors,Grizzlies,91 - 93,0,N/A,N/A,N/A
+80,Marc Gasol,FT_MISS,None,1:40,3,Grizzlies,Raptors,91 - 93,1,N/A,1,N/A
+81,Team,OFFENSIVE_REBOUND,None,1:40,3,Grizzlies,Raptors,91 - 93,1,N/A,N/A,N/A
+82,Mike Conley,SUBSTITUTION,Anderson Kyle,1:40,3,Grizzlies,Raptors,91 - 93,1,N/A,N/A,N/A
+83,Marc Gasol,FT,None,1:40,3,Grizzlies,Raptors,91 - 94,1,N/A,1,N/A
+84,Kyle Lowry,FG_ASSISTED,Fred VanVleet,1:25,3,Raptors,Grizzlies,93 - 94,0,0,2,Layup
+85,Wayne Selden,FG_MISS,None,1:13,3,Grizzlies,Raptors,93 - 94,1,0,2,Dunk
+86,Mike Conley,OFFENSIVE_REBOUND,None,1:12,3,Grizzlies,Raptors,93 - 94,1,N/A,N/A,N/A
+87,Mike Conley,FG_UNASSISTED,None,1:12,3,Grizzlies,Raptors,93 - 96,1,11,3,Jumper
+88,Fred VanVleet,FOUL_ON_FLOOR,None,1:12,3,Raptors,Grizzlies,93 - 96,0,N/A,N/A,N/A
+89,Omri Casspi,SUBSTITUTION,Mack Shelvin,1:12,3,Grizzlies,Raptors,93 - 96,1,N/A,N/A,N/A
+90,Mike Conley,FT,None,1:12,3,Grizzlies,Raptors,93 - 97,1,N/A,1,N/A
+91,Danny Green,FG_MISS,None,59.6,3,Raptors,Grizzlies,93 - 97,0, ,3,Jumper
+92,Omri Casspi,DEFENSIVE_REBOUND,None,56.7,3,Grizzlies,Raptors,93 - 97,1,N/A,N/A,N/A
+93,Omri Casspi,TURNOVER,None,48.5,3,Grizzlies,Raptors,93 - 97,1,N/A,N/A,N/A
+94,OG Anunoby,FG_MISS,Marc Gasol,27.3,3,Grizzlies,Raptors,93 - 97,0,0,2,Layup
+95,Marc Gasol,DEFENSIVE_REBOUND,None,24.7,3,Grizzlies,Raptors,93 - 97,1,N/A,N/A,N/A
+96,Mike Conley,FG_MISS,None,4.8,3,Grizzlies,Raptors,93 - 97,1,26,3,Jumper
+97,Team,OFFENSIVE_REBOUND,None,2.0,3,Grizzlies,Raptors,93 - 97,1,N/A,N/A,N/A
+98,shot clock,TURNOVER,None,2.0,3,Grizzlies,Raptors,93 - 97,1,N/A,N/A,N/A
+99,Jonas Valanciunas,SUBSTITUTION,Ibaka Serge,2.0,3,Raptors,Grizzlies,93 - 97,0,N/A,N/A,N/A
+100,Team,Unknown,None,0.7,3,Raptors,Grizzlies,93 - 97,0,N/A,N/A,N/A
+101,Garrett Temple,SUBSTITUTION,Selden Wayne,0.7,3,Grizzlies,Raptors,93 - 97,1,N/A,N/A,N/A
+102,Kyle Anderson,SUBSTITUTION,Casspi Omri,0.7,3,Grizzlies,Raptors,93 - 97,1,N/A,N/A,N/A
+103,End of,Unknown,None,0.0,3,Grizzlies,Raptors,93 - 97,1,N/A,N/A,N/A
+0,Wayne Selden,SUBSTITUTION,Gasol Marc,12:00,4,Grizzlies,Raptors,93 - 97,1,N/A,N/A,N/A
+1,Omri Casspi,SUBSTITUTION,Anderson Kyle,12:00,4,Grizzlies,Raptors,93 - 97,1,N/A,N/A,N/A
+2,Kawhi Leonard,SUBSTITUTION,Lowry Kyle,12:00,4,Raptors,Grizzlies,93 - 97,0,N/A,N/A,N/A
+3,Delon Wright,SUBSTITUTION,Green Danny,12:00,4,Raptors,Grizzlies,93 - 97,0,N/A,N/A,N/A
+4,Jaren Jackson,SUBSTITUTION,Temple Garrett,12:00,4,Grizzlies,Raptors,93 - 97,1,N/A,N/A,N/A
+5,Jonas Valanciunas,TURNOVER,None,11:40,4,Raptors,Grizzlies,93 - 97,0,N/A,N/A,N/A
+6,Mike Conley,TURNOVER,Fred VanVleet,11:21,4,Grizzlies,Raptors,93 - 97,1,N/A,N/A,N/A
+7,Kawhi Leonard,FG_MISS,Jaren Jackson,11:13,4,Grizzlies,Raptors,93 - 97,0,0,2,Layup
+8,Team,DEFENSIVE_REBOUND,None,11:12,4,Grizzlies,Raptors,93 - 97,1,N/A,N/A,N/A
+9,Jaren Jackson,FOUL_ON_FLOOR,None,10:52,4,Grizzlies,Raptors,93 - 97,1,N/A,N/A,N/A
+10,Jaren Jackson,TURNOVER,None,10:52,4,Grizzlies,Raptors,93 - 97,1,N/A,N/A,N/A
+11,OG Anunoby,FG_UNASSISTED,None,10:35,4,Raptors,Grizzlies,95 - 97,0,0,2,Layup
+12,Jaren Jackson,FOUL_ON_FLOOR,None,10:35,4,Grizzlies,Raptors,95 - 97,1,N/A,N/A,N/A
+13,OG Anunoby,FT_MISS,None,10:35,4,Raptors,Grizzlies,95 - 97,0,N/A,1,N/A
+14,Jaren Jackson,DEFENSIVE_REBOUND,None,10:31,4,Grizzlies,Raptors,95 - 97,1,N/A,N/A,N/A
+15,JaMychal Green,FG_MISS,None,10:24,4,Grizzlies,Raptors,95 - 97,1,26,3,Jumper
+16,Kawhi Leonard,DEFENSIVE_REBOUND,None,10:20,4,Raptors,Grizzlies,95 - 97,0,N/A,N/A,N/A
+17,OG Anunoby,FG_MISS,None,10:08,4,Raptors,Grizzlies,95 - 97,0,23,3,Jumper
+18,Omri Casspi,DEFENSIVE_REBOUND,None,10:07,4,Grizzlies,Raptors,95 - 97,1,N/A,N/A,N/A
+19,Wayne Selden,FG_ASSISTED,Omri Casspi,9:58,4,Grizzlies,Raptors,95 - 100,1,23,3,Jumper
+20,OG Anunoby,JUMP_BALL,None,9:44,4,Raptors,Grizzlies,95 - 100,0,N/A,N/A,N/A
+21,Delon Wright,TURNOVER,None,9:41,4,Raptors,Grizzlies,95 - 100,0,N/A,N/A,N/A
+22,Mike Conley,FG_UNASSISTED,None,9:27,4,Grizzlies,Raptors,95 - 102,1,17,3,Jumper
+23,Mike Conley,FOUL_ON_FLOOR,None,9:16,4,Grizzlies,Raptors,95 - 102,1,N/A,N/A,N/A
+24,Fred VanVleet,FT_MISS,None,9:16,4,Raptors,Grizzlies,95 - 102,0,N/A,1,N/A
+25,Team,OFFENSIVE_REBOUND,None,9:16,4,Raptors,Grizzlies,95 - 102,0,N/A,N/A,N/A
+26,Marc Gasol,SUBSTITUTION,Green JaMychal,9:16,4,Grizzlies,Raptors,95 - 102,1,N/A,N/A,N/A
+27,Shelvin Mack,SUBSTITUTION,Conley Mike,9:16,4,Grizzlies,Raptors,95 - 102,1,N/A,N/A,N/A
+28,Fred VanVleet,FT,None,9:16,4,Raptors,Grizzlies,96 - 102,0,N/A,1,N/A
+29,Marc Gasol,FG_ASSISTED,Shelvin Mack,8:58,4,Grizzlies,Raptors,96 - 105,1,25,3,Jumper
+30,OG Anunoby,FG_ASSISTED,Delon Wright,8:40,4,Raptors,Grizzlies,99 - 105,0,23,3,Jumper
+31,Wayne Selden,FG_MISS,None,8:16,4,Grizzlies,Raptors,99 - 105,1,24,3,Jumper
+32,Kawhi Leonard,DEFENSIVE_REBOUND,None,8:13,4,Raptors,Grizzlies,99 - 105,0,N/A,N/A,N/A
+33,Delon Wright,FG_ASSISTED,Fred VanVleet,7:55,4,Raptors,Grizzlies,102 - 105,0,24,3,Jumper
+34,Shelvin Mack,FG_MISS,None,7:32,4,Grizzlies,Raptors,102 - 105,1,27,3,Jumper
+35,Jonas Valanciunas,DEFENSIVE_REBOUND,None,7:28,4,Raptors,Grizzlies,102 - 105,0,N/A,N/A,N/A
+36,Kawhi Leonard,FG_MISS,None,7:16,4,Raptors,Grizzlies,102 - 105,0,1,3,Jumper
+37,Shelvin Mack,DEFENSIVE_REBOUND,None,7:13,4,Grizzlies,Raptors,102 - 105,1,N/A,N/A,N/A
+38,Wayne Selden,FG_MISS,None,6:58,4,Grizzlies,Raptors,102 - 105,1,21,3,Jumper
+39,Kawhi Leonard,DEFENSIVE_REBOUND,None,6:54,4,Raptors,Grizzlies,102 - 105,0,N/A,N/A,N/A
+40,Fred VanVleet,FG_ASSISTED,Kawhi Leonard,6:48,4,Raptors,Grizzlies,105 - 105,0,25,3,Jumper
+41,Team,Unknown,None,6:47,4,Grizzlies,Raptors,105 - 105,1,N/A,N/A,N/A
+42,Mike Conley,SUBSTITUTION,Selden Wayne,6:47,4,Grizzlies,Raptors,105 - 105,1,N/A,N/A,N/A
+43,Kyle Anderson,SUBSTITUTION,Jackson Jaren,6:47,4,Grizzlies,Raptors,105 - 105,1,N/A,N/A,N/A
+44,Garrett Temple,SUBSTITUTION,Casspi Omri,6:47,4,Grizzlies,Raptors,105 - 105,1,N/A,N/A,N/A
+45,Kyle Lowry,SUBSTITUTION,Leonard Kawhi,6:47,4,Raptors,Grizzlies,105 - 105,0,N/A,N/A,N/A
+46,Mike Conley,FG_MISS,None,6:26,4,Grizzlies,Raptors,105 - 105,1,25,3,Jumper
+47,Kyle Lowry,DEFENSIVE_REBOUND,None,6:22,4,Raptors,Grizzlies,105 - 105,0,N/A,N/A,N/A
+48,Kyle Lowry,FG_UNASSISTED,None,6:13,4,Raptors,Grizzlies,107 - 105,0,8,3,Jumper
+49,Garrett Temple,TURNOVER,None,5:56,4,Grizzlies,Raptors,107 - 105,1,N/A,N/A,N/A
+50,Garrett Temple,TURNOVER,None,5:56,4,Grizzlies,Raptors,107 - 105,1,N/A,N/A,N/A
+51,Kyle Lowry,TURNOVER,Mike Conley,5:45,4,Raptors,Grizzlies,107 - 105,0,N/A,N/A,N/A
+52,Kyle Anderson,FG_ASSISTED,Mike Conley,5:32,4,Grizzlies,Raptors,107 - 107,1,0,2,Layup
+53,Delon Wright,FG_MISS,Marc Gasol,5:10,4,Grizzlies,Raptors,107 - 107,0,1,3,Jumper
+54,Kyle Anderson,DEFENSIVE_REBOUND,None,5:05,4,Grizzlies,Raptors,107 - 107,1,N/A,N/A,N/A
+55,Garrett Temple,FG_MISS,None,5:02,4,Grizzlies,Raptors,107 - 107,1,23,3,Jumper
+56,OG Anunoby,DEFENSIVE_REBOUND,None,5:01,4,Raptors,Grizzlies,107 - 107,0,N/A,N/A,N/A
+57,Team,Unknown,None,5:01,4,Raptors,Grizzlies,107 - 107,0,N/A,N/A,N/A
+58,Kawhi Leonard,SUBSTITUTION,Anunoby OG,5:01,4,Raptors,Grizzlies,107 - 107,0,N/A,N/A,N/A
+59,Serge Ibaka,SUBSTITUTION,Valanciunas Jonas,5:01,4,Raptors,Grizzlies,107 - 107,0,N/A,N/A,N/A
+60,Pascal Siakam,SUBSTITUTION,Wright Delon,5:01,4,Raptors,Grizzlies,107 - 107,0,N/A,N/A,N/A
+61,Serge Ibaka,FG_MISS,None,4:49,4,Raptors,Grizzlies,107 - 107,0,1,3,Jumper
+62,Team,OFFENSIVE_REBOUND,None,4:45,4,Raptors,Grizzlies,107 - 107,0,N/A,N/A,N/A
+63,JaMychal Green,SUBSTITUTION,Mack Shelvin,4:45,4,Grizzlies,Raptors,107 - 107,1,N/A,N/A,N/A
+64,Kyle Lowry,FG_ASSISTED,Kawhi Leonard,4:35,4,Raptors,Grizzlies,110 - 107,0,23,3,Jumper
+65,Mike Conley,FG_MISS,None,4:09,4,Grizzlies,Raptors,110 - 107,1,1,3,Jumper
+66,Kawhi Leonard,DEFENSIVE_REBOUND,None,4:06,4,Raptors,Grizzlies,110 - 107,0,N/A,N/A,N/A
+67,Fred VanVleet,FG_ASSISTED,Kawhi Leonard,4:02,4,Raptors,Grizzlies,113 - 107,0,23,3,Jumper
+68,Kyle Anderson,FG_ASSISTED,Marc Gasol,3:38,4,Grizzlies,Raptors,113 - 109,1,0,2,Layup
+69,Team,Unknown,None,3:27,4,Raptors,Grizzlies,113 - 109,0,N/A,N/A,N/A
+70,Kyle Lowry,FG_MISS,None,3:14,4,Raptors,Grizzlies,113 - 109,0,26,3,Jumper
+71,Marc Gasol,DEFENSIVE_REBOUND,None,3:10,4,Grizzlies,Raptors,113 - 109,1,N/A,N/A,N/A
+72,Fred VanVleet,FOUL_ON_FLOOR,None,2:51,4,Raptors,Grizzlies,113 - 109,0,N/A,N/A,N/A
+73,Mike Conley,FT_MISS,None,2:51,4,Grizzlies,Raptors,113 - 109,1,N/A,1,N/A
+74,Team,OFFENSIVE_REBOUND,None,2:51,4,Grizzlies,Raptors,113 - 109,1,N/A,N/A,N/A
+75,Mike Conley,FT_MISS,None,2:51,4,Grizzlies,Raptors,113 - 109,1,N/A,1,N/A
+76,Pascal Siakam,DEFENSIVE_REBOUND,None,2:49,4,Raptors,Grizzlies,113 - 109,0,N/A,N/A,N/A
+77,Garrett Temple,FOUL_ON_FLOOR,None,2:33,4,Grizzlies,Raptors,113 - 109,1,N/A,N/A,N/A
+78,Serge Ibaka,FOUL_ON_FLOOR,None,2:29,4,Raptors,Grizzlies,113 - 109,0,N/A,N/A,N/A
+79,Serge Ibaka,TURNOVER,None,2:29,4,Raptors,Grizzlies,113 - 109,0,N/A,N/A,N/A
+80,Garrett Temple,FG_MISS,None,2:09,4,Grizzlies,Raptors,113 - 109,1,25,3,Jumper
+81,Kawhi Leonard,DEFENSIVE_REBOUND,None,2:07,4,Raptors,Grizzlies,113 - 109,0,N/A,N/A,N/A
+82,Fred VanVleet,FG_ASSISTED,Kawhi Leonard,2:03,4,Raptors,Grizzlies,116 - 109,0,24,3,Jumper
+83,Team,Unknown,None,2:00,4,Grizzlies,Raptors,116 - 109,1,N/A,N/A,N/A
+84,Mike Conley,FG_MISS,None,1:40,4,Grizzlies,Raptors,116 - 109,1,1,3,Jumper
+85,JaMychal Green,OFFENSIVE_REBOUND,None,1:37,4,Grizzlies,Raptors,116 - 109,1,N/A,N/A,N/A
+86,Mike Conley,FG_MISS,None,1:27,4,Grizzlies,Raptors,116 - 109,1,22,3,Jumper
+87,Kyle Anderson,OFFENSIVE_REBOUND,None,1:25,4,Grizzlies,Raptors,116 - 109,1,N/A,N/A,N/A
+88,Kyle Anderson,FG_UNASSISTED,None,1:25,4,Grizzlies,Raptors,116 - 111,1,1,3,Jumper
+89,Kawhi Leonard,FG_MISS,None,1:07,4,Raptors,Grizzlies,116 - 111,0,25,3,Jumper
+90,Fred VanVleet,OFFENSIVE_REBOUND,None,1:04,4,Raptors,Grizzlies,116 - 111,0,N/A,N/A,N/A
+91,Mike Conley,FOUL_ON_FLOOR,None,1:04,4,Grizzlies,Raptors,116 - 111,1,N/A,N/A,N/A
+92,Kawhi Leonard,FG_UNASSISTED,None,56.0,4,Raptors,Grizzlies,119 - 111,0,25,3,Jumper
+93,Mike Conley,FG_ASSISTED,Garrett Temple,45.4,4,Grizzlies,Raptors,119 - 114,1,24,3,Jumper
+94,Mike Conley,FOUL_ON_FLOOR,None,36.7,4,Grizzlies,Raptors,119 - 114,1,N/A,N/A,N/A
+95,Pascal Siakam,FT_MISS,None,36.7,4,Raptors,Grizzlies,119 - 114,0,N/A,1,N/A
+96,Team,OFFENSIVE_REBOUND,None,36.7,4,Raptors,Grizzlies,119 - 114,0,N/A,N/A,N/A
+97,Pascal Siakam,FT,None,36.7,4,Raptors,Grizzlies,120 - 114,0,N/A,1,N/A
+98,Mike Conley,TURNOVER,Fred VanVleet,28.8,4,Grizzlies,Raptors,120 - 114,1,N/A,N/A,N/A
+99,Mike Conley,FOUL_ON_FLOOR,None,27.2,4,Grizzlies,Raptors,120 - 114,1,N/A,N/A,N/A
+100,Fred VanVleet,FT,None,27.2,4,Raptors,Grizzlies,121 - 114,0,N/A,1,N/A
+101,Jaren Jackson,SUBSTITUTION,Conley Mike,27.2,4,Grizzlies,Raptors,121 - 114,1,N/A,N/A,N/A
+102,Shelvin Mack,SUBSTITUTION,Gasol Marc,27.2,4,Grizzlies,Raptors,121 - 114,1,N/A,N/A,N/A
+103,Fred VanVleet,FT,None,27.2,4,Raptors,Grizzlies,122 - 114,0,N/A,1,N/A
+104,Garrett Temple,FG_MISS,None,21.9,4,Grizzlies,Raptors,122 - 114,1,25,3,Jumper
+105,JaMychal Green,OFFENSIVE_REBOUND,None,19.2,4,Grizzlies,Raptors,122 - 114,1,N/A,N/A,N/A
+106,JaMychal Green,FG_MISS,None,19.2,4,Grizzlies,Raptors,122 - 114,1,0,2,Dunk
+107,Team,DEFENSIVE_REBOUND,None,19.2,4,Raptors,Grizzlies,122 - 114,0,N/A,N/A,N/A
+108,End of,Unknown,None,0.0,4,Grizzlies,Raptors,122 - 114,1,N/A,N/A,N/A
+109,End of,Unknown,None,0.0,4,Grizzlies,Raptors,122 - 114,1,N/A,N/A,N/A

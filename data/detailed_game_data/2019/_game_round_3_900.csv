@@ -1,0 +1,524 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Rudy Gobert,JUMP_BALL,None,12:00,1,Jazz,76ers,0 - 0,0,N/A,N/A,N/A
+1,Joe Ingles,FG_MISS,None,11:46,1,Jazz,76ers,0 - 0,0,-,2,Jumper
+2,Rudy Gobert,OFFENSIVE_REBOUND,None,11:38,1,Jazz,76ers,0 - 0,0,N/A,N/A,N/A
+3,Rudy Gobert,FG_UNASSISTED,None,11:38,1,Jazz,76ers,2 - 0,0,0,2,Dunk
+4,Jimmy Butler,FG_ASSISTED,Ben Simmons,11:25,1,76ers,Jazz,2 - 2,1,-,2,Jumper
+5,Donovan Mitchell,TURNOVER,Joel Embiid,11:09,1,Jazz,76ers,2 - 2,0,N/A,N/A,N/A
+6,Donovan Mitchell,FOUL_ON_FLOOR,None,11:05,1,Jazz,76ers,2 - 2,0,N/A,N/A,N/A
+7,Ben Simmons,FT_MISS,None,11:05,1,76ers,Jazz,2 - 2,1,N/A,1,N/A
+8,Team,OFFENSIVE_REBOUND,None,11:05,1,76ers,Jazz,2 - 2,1,N/A,N/A,N/A
+9,Ben Simmons,FT,None,11:05,1,76ers,Jazz,2 - 3,1,N/A,1,N/A
+10,Donovan Mitchell,FG_MISS,None,10:55,1,Jazz,76ers,2 - 3,0,21,2,Jumper
+11,Ben Simmons,DEFENSIVE_REBOUND,None,10:52,1,76ers,Jazz,2 - 3,1,N/A,N/A,N/A
+12,JJ Redick,FG_ASSISTED,Joel Embiid,10:43,1,76ers,Jazz,2 - 5,1,4,2,Jumper
+13,Ricky Rubio,TURNOVER,None,10:34,1,Jazz,76ers,2 - 5,0,N/A,N/A,N/A
+14,Jimmy Butler,FG_ASSISTED,Ben Simmons,10:25,1,76ers,Jazz,2 - 8,1,25,3,Jumper
+15,Joe Ingles,FG_MISS,None,10:13,1,Jazz,76ers,2 - 8,0,27,3,Jumper
+16,Ben Simmons,DEFENSIVE_REBOUND,None,10:09,1,76ers,Jazz,2 - 8,1,N/A,N/A,N/A
+17,Joel Embiid,FG_UNASSISTED,None,10:00,1,76ers,Jazz,2 - 10,1,3,2,Jumper
+18,Team,Unknown,None,10:00,1,Jazz,76ers,2 - 8,0,N/A,N/A,N/A
+19,JJ Redick,FOUL_ON_FLOOR,None,9:40,1,76ers,Jazz,2 - 10,1,N/A,N/A,N/A
+20,Ricky Rubio,FT_MISS,None,9:40,1,Jazz,76ers,2 - 10,0,N/A,1,N/A
+21,Team,OFFENSIVE_REBOUND,None,9:40,1,Jazz,76ers,2 - 10,0,N/A,N/A,N/A
+22,Ricky Rubio,FT_MISS,None,9:40,1,Jazz,76ers,2 - 10,0,N/A,1,N/A
+23,Joel Embiid,DEFENSIVE_REBOUND,None,9:38,1,76ers,Jazz,2 - 10,1,N/A,N/A,N/A
+24,Joel Embiid,FG_UNASSISTED,None,9:25,1,76ers,Jazz,2 - 12,1,8,2,Jumper
+25,Rudy Gobert,FG_MISS,None,9:04,1,Jazz,76ers,2 - 12,0, ,2,Jumper
+26,Derrick Favors,OFFENSIVE_REBOUND,None,9:01,1,Jazz,76ers,2 - 12,0,N/A,N/A,N/A
+27,Donovan Mitchell,FG_UNASSISTED,None,8:56,1,Jazz,76ers,4 - 12,0,8,2,Jumper
+28,Jimmy Butler,TURNOVER,None,8:39,1,76ers,Jazz,4 - 12,1,N/A,N/A,N/A
+29,Donovan Mitchell,FG_MISS,Joel Embiid,8:28,1,76ers,Jazz,4 - 12,0,0,2,Layup
+30,Joel Embiid,DEFENSIVE_REBOUND,None,8:27,1,76ers,Jazz,4 - 12,1,N/A,N/A,N/A
+31,Rudy Gobert,FOUL_ON_FLOOR,None,8:27,1,Jazz,76ers,4 - 12,0,N/A,N/A,N/A
+32,Joe Ingles,FOUL_ON_FLOOR,None,8:16,1,Jazz,76ers,4 - 12,0,N/A,N/A,N/A
+33,Joel Embiid,FT,None,8:16,1,76ers,Jazz,4 - 13,1,N/A,1,N/A
+34,Jae Crowder,SUBSTITUTION,Favors Derrick,8:16,1,Jazz,76ers,4 - 13,0,N/A,N/A,N/A
+35,Joel Embiid,FT,None,8:16,1,76ers,Jazz,4 - 14,1,N/A,1,N/A
+36,Donovan Mitchell,FG_MISS,None,7:52,1,Jazz,76ers,4 - 14,0,27,3,Jumper
+37,Joel Embiid,DEFENSIVE_REBOUND,None,7:49,1,76ers,Jazz,4 - 14,1,N/A,N/A,N/A
+38,Wilson Chandler,FG_UNASSISTED,None,7:37,1,76ers,Jazz,4 - 16,1, ,2,Jumper
+39,Wilson Chandler,FOUL_ON_FLOOR,None,7:24,1,76ers,Jazz,4 - 16,1,N/A,N/A,N/A
+40,Landry Shamet,SUBSTITUTION,Redick JJ,7:24,1,76ers,Jazz,4 - 16,1,N/A,N/A,N/A
+41,Mike Muscala,SUBSTITUTION,Embiid Joel,7:24,1,76ers,Jazz,4 - 16,1,N/A,N/A,N/A
+42,Amir Johnson,SUBSTITUTION,Chandler Wilson,7:24,1,76ers,Jazz,4 - 16,1,N/A,N/A,N/A
+43,Joe Ingles,FG_ASSISTED,Rudy Gobert,7:17,1,Jazz,76ers,6 - 16,0,3,2,Jumper
+44,Mike Muscala,FG_ASSISTED,Jimmy Butler,6:58,1,76ers,Jazz,6 - 19,1,23,3,Jumper
+45,Donovan Mitchell,FG_MISS,None,6:40,1,Jazz,76ers,6 - 19,0,15,2,Jumper
+46,Ben Simmons,DEFENSIVE_REBOUND,None,6:38,1,76ers,Jazz,6 - 19,1,N/A,N/A,N/A
+47,Jimmy Butler,FG_ASSISTED,Ben Simmons,6:33,1,76ers,Jazz,6 - 21,1, ,2,Jumper
+48,Amir Johnson,FOUL_ON_FLOOR,None,6:20,1,76ers,Jazz,6 - 21,1,N/A,N/A,N/A
+49,Rudy Gobert,FT,None,6:20,1,Jazz,76ers,7 - 21,0,N/A,1,N/A
+50,Alec Burks,SUBSTITUTION,Mitchell Donovan,6:20,1,Jazz,76ers,7 - 21,0,N/A,N/A,N/A
+51,Rudy Gobert,FT,None,6:20,1,Jazz,76ers,8 - 21,0,N/A,1,N/A
+52,Ben Simmons,FG_MISS,None,6:04,1,76ers,Jazz,8 - 21,1,6,2,Jumper
+53,Alec Burks,DEFENSIVE_REBOUND,None,6:03,1,Jazz,76ers,8 - 21,0,N/A,N/A,N/A
+54,Amir Johnson,FOUL_ON_FLOOR,None,6:03,1,76ers,Jazz,8 - 21,1,N/A,N/A,N/A
+55,Derrick Favors,SUBSTITUTION,Gobert Rudy,6:03,1,Jazz,76ers,8 - 21,0,N/A,N/A,N/A
+56,Ben Simmons,FOUL_ON_FLOOR,None,5:56,1,76ers,Jazz,8 - 21,1,N/A,N/A,N/A
+57,Derrick Favors,FT,None,5:56,1,Jazz,76ers,9 - 21,0,N/A,1,N/A
+58,Derrick Favors,FT_MISS,None,5:56,1,Jazz,76ers,9 - 21,0,N/A,1,N/A
+59,Ben Simmons,DEFENSIVE_REBOUND,None,5:54,1,76ers,Jazz,9 - 21,1,N/A,N/A,N/A
+60,Jimmy Butler,FOUL_ON_FLOOR,None,5:46,1,76ers,Jazz,9 - 21,1,N/A,N/A,N/A
+61,Jimmy Butler,TURNOVER,None,5:46,1,76ers,Jazz,9 - 21,1,N/A,N/A,N/A
+62,Landry Shamet,FOUL_ON_FLOOR,None,5:36,1,76ers,Jazz,9 - 21,1,N/A,N/A,N/A
+63,Ricky Rubio,FT_MISS,None,5:36,1,Jazz,76ers,9 - 21,0,N/A,1,N/A
+64,Team,OFFENSIVE_REBOUND,None,5:36,1,Jazz,76ers,9 - 21,0,N/A,N/A,N/A
+65,Ricky Rubio,FT,None,5:36,1,Jazz,76ers,10 - 21,0,N/A,1,N/A
+66,Landry Shamet,FG_ASSISTED,Jimmy Butler,5:19,1,76ers,Jazz,10 - 24,1,24,3,Jumper
+67,Mike Muscala,FOUL_ON_FLOOR,None,5:12,1,76ers,Jazz,10 - 24,1,N/A,N/A,N/A
+68,Jae Crowder,FT,None,5:12,1,Jazz,76ers,11 - 24,0,N/A,1,N/A
+69,Jae Crowder,FT,None,5:12,1,Jazz,76ers,12 - 24,0,N/A,1,N/A
+70,Landry Shamet,TURNOVER,None,5:01,1,76ers,Jazz,12 - 24,1,N/A,N/A,N/A
+71,Jae Crowder,FG_MISS,None,4:52,1,Jazz,76ers,12 - 24,0, ,2,Jumper
+72,Team,OFFENSIVE_REBOUND,None,4:50,1,Jazz,76ers,12 - 24,0,N/A,N/A,N/A
+73,Joe Ingles,FG_MISS,None,4:34,1,Jazz,76ers,12 - 24,0,20,2,Jumper
+74,Ben Simmons,DEFENSIVE_REBOUND,None,4:31,1,76ers,Jazz,12 - 24,1,N/A,N/A,N/A
+75,Alec Burks,FOUL_ON_FLOOR,None,4:29,1,Jazz,76ers,12 - 24,0,N/A,N/A,N/A
+76,Ben Simmons,FT,None,4:29,1,76ers,Jazz,12 - 25,1,N/A,1,N/A
+77,Ben Simmons,FT_MISS,None,4:29,1,76ers,Jazz,12 - 25,1,N/A,1,N/A
+78,Jae Crowder,DEFENSIVE_REBOUND,None,4:28,1,Jazz,76ers,12 - 25,0,N/A,N/A,N/A
+79,Ricky Rubio,FG_UNASSISTED,None,4:21,1,Jazz,76ers,15 - 25,0,27,3,Jumper
+80,Amir Johnson,FG_ASSISTED,Ben Simmons,3:58,1,76ers,Jazz,15 - 28,1,26,3,Jumper
+81,Derrick Favors,FG_ASSISTED,Alec Burks,3:36,1,Jazz,76ers,17 - 28,0,0,2,Layup
+82,Team,Unknown,None,3:36,1,76ers,Jazz,15 - 28,1,N/A,N/A,N/A
+83,JJ Redick,SUBSTITUTION,Johnson Amir,3:36,1,76ers,Jazz,17 - 28,1,N/A,N/A,N/A
+84,Markelle Fultz,SUBSTITUTION,Butler Jimmy,3:36,1,76ers,Jazz,17 - 28,1,N/A,N/A,N/A
+85,Furkan Korkmaz,SUBSTITUTION,Shamet Landry,3:36,1,76ers,Jazz,17 - 28,1,N/A,N/A,N/A
+86,Joel Embiid,SUBSTITUTION,Simmons Ben,3:36,1,76ers,Jazz,17 - 28,1,N/A,N/A,N/A
+87,Dante Exum,SUBSTITUTION,Ingles Joe,3:36,1,Jazz,76ers,17 - 28,0,N/A,N/A,N/A
+88,Royce O'Neale,SUBSTITUTION,Rubio Ricky,3:36,1,Jazz,76ers,17 - 28,0,N/A,N/A,N/A
+89,Markelle Fultz,FG_UNASSISTED,None,3:20,1,76ers,Jazz,17 - 30,1,19,2,Jumper
+90,Derrick Favors,FG_ASSISTED,Dante Exum,3:01,1,Jazz,76ers,19 - 30,0,0,2,Dunk
+91,Mike Muscala,FG_ASSISTED,Markelle Fultz,2:40,1,76ers,Jazz,19 - 33,1,23,2,Jumper
+92,Furkan Korkmaz,FOUL_ON_FLOOR,None,2:29,1,76ers,Jazz,19 - 33,1,N/A,N/A,N/A
+93,Jae Crowder,FT_MISS,None,2:29,1,Jazz,76ers,19 - 33,0,N/A,1,N/A
+94,Team,OFFENSIVE_REBOUND,None,2:29,1,Jazz,76ers,19 - 33,0,N/A,N/A,N/A
+95,Rudy Gobert,SUBSTITUTION,Favors Derrick,2:29,1,Jazz,76ers,19 - 33,0,N/A,N/A,N/A
+96,Jae Crowder,FT,None,2:29,1,Jazz,76ers,20 - 33,0,N/A,1,N/A
+97,Royce O'Neale,FOUL_ON_FLOOR,None,2:21,1,Jazz,76ers,20 - 33,0,N/A,N/A,N/A
+98,Markelle Fultz,FT,None,2:21,1,76ers,Jazz,20 - 34,1,N/A,1,N/A
+99,Markelle Fultz,FT_MISS,None,2:21,1,76ers,Jazz,20 - 34,1,N/A,1,N/A
+100,Rudy Gobert,DEFENSIVE_REBOUND,None,2:19,1,Jazz,76ers,20 - 34,0,N/A,N/A,N/A
+101,Dante Exum,TURNOVER,Mike Muscala,2:12,1,Jazz,76ers,20 - 34,0,N/A,N/A,N/A
+102,Alec Burks,FOUL_ON_FLOOR,None,1:58,1,Jazz,76ers,20 - 34,0,N/A,N/A,N/A
+103,Joel Embiid,FT,None,1:58,1,76ers,Jazz,20 - 35,1,N/A,1,N/A
+104,Joel Embiid,FT,None,1:58,1,76ers,Jazz,20 - 36,1,N/A,1,N/A
+105,Jae Crowder,FG_MISS,None,1:42,1,Jazz,76ers,20 - 36,0, ,2,Jumper
+106,Furkan Korkmaz,DEFENSIVE_REBOUND,None,1:37,1,76ers,Jazz,20 - 36,1,N/A,N/A,N/A
+107,Donovan Mitchell,SUBSTITUTION,Burks Alec,1:36,1,Jazz,76ers,20 - 36,0,N/A,N/A,N/A
+108,Royce O'Neale,FOUL_ON_FLOOR,None,1:34,1,Jazz,76ers,20 - 36,0,N/A,N/A,N/A
+109,JJ Redick,FT_MISS,None,1:34,1,76ers,Jazz,20 - 36,1,N/A,1,N/A
+110,Team,OFFENSIVE_REBOUND,None,1:34,1,76ers,Jazz,20 - 36,1,N/A,N/A,N/A
+111,JJ Redick,FT_MISS,None,1:34,1,76ers,Jazz,20 - 36,1,N/A,1,N/A
+112,Rudy Gobert,DEFENSIVE_REBOUND,None,1:31,1,Jazz,76ers,20 - 36,0,N/A,N/A,N/A
+113,Dante Exum,FG_UNASSISTED,None,1:23,1,Jazz,76ers,22 - 36,0,0,2,Layup
+114,Joel Embiid,FG_MISS,None,1:03,1,76ers,Jazz,22 - 36,1,25,3,Jumper
+115,Dante Exum,DEFENSIVE_REBOUND,None,1:01,1,Jazz,76ers,22 - 36,0,N/A,N/A,N/A
+116,Donovan Mitchell,FG_MISS,None,56.1,1,Jazz,76ers,22 - 36,0,24,3,Jumper
+117,Team,OFFENSIVE_REBOUND,None,51.3,1,Jazz,76ers,22 - 36,0,N/A,N/A,N/A
+118,Donovan Mitchell,FG_MISS,None,48.6,1,Jazz,76ers,22 - 36,0,25,3,Jumper
+119,Furkan Korkmaz,DEFENSIVE_REBOUND,None,45.3,1,76ers,Jazz,22 - 36,1,N/A,N/A,N/A
+120,Markelle Fultz,TURNOVER,Donovan Mitchell,32.3,1,76ers,Jazz,22 - 36,1,N/A,N/A,N/A
+121,Donovan Mitchell,FG_UNASSISTED,None,29.2,1,Jazz,76ers,24 - 36,0, ,2,Jumper
+122,JJ Redick,FG_ASSISTED,Joel Embiid,10.0,1,76ers,Jazz,24 - 38,1,20,2,Jumper
+123,Dante Exum,FOUL_ON_FLOOR,None,0.5,1,Jazz,76ers,24 - 38,0,N/A,N/A,N/A
+124,Dante Exum,TURNOVER,None,0.5,1,Jazz,76ers,24 - 38,0,N/A,N/A,N/A
+125,End of,Unknown,None,0.0,1,76ers,Jazz,24 - 38,1,N/A,N/A,N/A
+0,Wilson Chandler,SUBSTITUTION,Muscala Mike,12:00,2,76ers,Jazz,24 - 38,1,N/A,N/A,N/A
+1,Joel Embiid,FG_MISS,None,11:41,2,76ers,Jazz,24 - 38,1,8,2,Jumper
+2,Jae Crowder,DEFENSIVE_REBOUND,None,11:39,2,Jazz,76ers,24 - 38,0,N/A,N/A,N/A
+3,Donovan Mitchell,FG_MISS,Joel Embiid,11:34,2,76ers,Jazz,24 - 38,0,0,2,Layup
+4,Team,OFFENSIVE_REBOUND,None,11:34,2,Jazz,76ers,24 - 38,0,N/A,N/A,N/A
+5,Rudy Gobert,FG_MISS,None,11:30,2,Jazz,76ers,24 - 38,0, ,2,Jumper
+6,JJ Redick,DEFENSIVE_REBOUND,None,11:28,2,76ers,Jazz,24 - 38,1,N/A,N/A,N/A
+7,Joel Embiid,FG_MISS,None,11:17,2,76ers,Jazz,24 - 38,1, ,2,Jumper
+8,Furkan Korkmaz,OFFENSIVE_REBOUND,None,11:15,2,76ers,Jazz,24 - 38,1,N/A,N/A,N/A
+9,Furkan Korkmaz,FG_UNASSISTED,None,11:13,2,76ers,Jazz,24 - 40,1,12,2,Jumper
+10,Donovan Mitchell,FG_MISS,None,10:58,2,Jazz,76ers,24 - 40,0,6,2,Jumper
+11,Joel Embiid,FOUL_ON_FLOOR,None,10:57,2,76ers,Jazz,24 - 40,1,N/A,N/A,N/A
+12,Team,OFFENSIVE_REBOUND,None,10:57,2,Jazz,76ers,24 - 40,0,N/A,N/A,N/A
+13,Dante Exum,FG_MISS,None,10:49,2,Jazz,76ers,24 - 40,0,0,2,Layup
+14,Team,DEFENSIVE_REBOUND,None,10:49,2,76ers,Jazz,24 - 40,1,N/A,N/A,N/A
+15,Rudy Gobert,FOUL_ON_FLOOR,None,10:49,2,Jazz,76ers,24 - 40,0,N/A,N/A,N/A
+16,Derrick Favors,SUBSTITUTION,Gobert Rudy,10:49,2,Jazz,76ers,24 - 40,0,N/A,N/A,N/A
+17,Joel Embiid,FG_MISS,Donovan Mitchell,10:30,2,Jazz,76ers,24 - 40,1,0,2,Layup
+18,Team,DEFENSIVE_REBOUND,None,10:30,2,Jazz,76ers,24 - 40,0,N/A,N/A,N/A
+19,Donovan Mitchell,FG_UNASSISTED,None,10:17,2,Jazz,76ers,26 - 40,0,16,2,Jumper
+20,JJ Redick,TURNOVER,Royce O'Neale,10:03,2,76ers,Jazz,26 - 40,1,N/A,N/A,N/A
+21,Donovan Mitchell,FG_ASSISTED,Royce O'Neale,9:59,2,Jazz,76ers,28 - 40,0,0,2,Dunk
+22,Team,Unknown,None,9:59,2,76ers,Jazz,26 - 40,1,N/A,N/A,N/A
+23,Thabo Sefolosha,SUBSTITUTION,Crowder Jae,9:59,2,Jazz,76ers,28 - 40,0,N/A,N/A,N/A
+24,Markelle Fultz,FG_MISS,None,9:41,2,76ers,Jazz,28 - 40,1,16,2,Jumper
+25,Thabo Sefolosha,DEFENSIVE_REBOUND,None,9:37,2,Jazz,76ers,28 - 40,0,N/A,N/A,N/A
+26,Donovan Mitchell,FG_UNASSISTED,None,9:30,2,Jazz,76ers,30 - 40,0,13,2,Jumper
+27,Joel Embiid,FG_ASSISTED,Furkan Korkmaz,9:15,2,76ers,Jazz,30 - 42,1,0,2,Layup
+28,Dante Exum,FG_UNASSISTED,None,8:59,2,Jazz,76ers,32 - 42,0,3,2,Jumper
+29,Joel Embiid,FG_MISS,None,8:48,2,76ers,Jazz,32 - 42,1,26,3,Jumper
+30,Thabo Sefolosha,DEFENSIVE_REBOUND,None,8:45,2,Jazz,76ers,32 - 42,0,N/A,N/A,N/A
+31,Donovan Mitchell,FG_MISS,None,8:39,2,Jazz,76ers,32 - 42,0,27,3,Jumper
+32,Wilson Chandler,DEFENSIVE_REBOUND,None,8:36,2,76ers,Jazz,32 - 42,1,N/A,N/A,N/A
+33,Wilson Chandler,TURNOVER,Derrick Favors,8:25,2,76ers,Jazz,32 - 42,1,N/A,N/A,N/A
+34,Wilson Chandler,FOUL_ON_FLOOR,None,8:22,2,76ers,Jazz,32 - 42,1,N/A,N/A,N/A
+35,Jimmy Butler,SUBSTITUTION,Fultz Markelle,8:22,2,76ers,Jazz,32 - 42,1,N/A,N/A,N/A
+36,Ben Simmons,SUBSTITUTION,Embiid Joel,8:22,2,76ers,Jazz,32 - 42,1,N/A,N/A,N/A
+37,Mike Muscala,SUBSTITUTION,Korkmaz Furkan,8:22,2,76ers,Jazz,32 - 42,1,N/A,N/A,N/A
+38,Alec Burks,SUBSTITUTION,Mitchell Donovan,8:22,2,Jazz,76ers,32 - 42,0,N/A,N/A,N/A
+39,Dante Exum,FG_MISS,None,8:09,2,Jazz,76ers,32 - 42,0, ,2,Jumper
+40,Derrick Favors,OFFENSIVE_REBOUND,None,8:08,2,Jazz,76ers,32 - 42,0,N/A,N/A,N/A
+41,Derrick Favors,FG_UNASSISTED,None,8:07,2,Jazz,76ers,34 - 42,0,0,2,Dunk
+42,Jimmy Butler,FG_UNASSISTED,None,7:53,2,76ers,Jazz,34 - 44,1, ,2,Jumper
+43,Alec Burks,FG_MISS,None,7:42,2,Jazz,76ers,34 - 44,0,27,3,Jumper
+44,Wilson Chandler,DEFENSIVE_REBOUND,None,7:38,2,76ers,Jazz,34 - 44,1,N/A,N/A,N/A
+45,Royce O'Neale,FOUL_ON_FLOOR,None,7:31,2,Jazz,76ers,34 - 44,0,N/A,N/A,N/A
+46,Joe Ingles,SUBSTITUTION,Exum Dante,7:31,2,Jazz,76ers,34 - 44,0,N/A,N/A,N/A
+47,Ricky Rubio,SUBSTITUTION,O'Neale Royce,7:31,2,Jazz,76ers,34 - 44,0,N/A,N/A,N/A
+48,Wilson Chandler,FG_MISS,None,7:21,2,76ers,Jazz,34 - 44,1,25,3,Jumper
+49,Thabo Sefolosha,DEFENSIVE_REBOUND,None,7:17,2,Jazz,76ers,34 - 44,0,N/A,N/A,N/A
+50,Joe Ingles,FG_MISS,None,7:08,2,Jazz,76ers,34 - 44,0,23,3,Jumper
+51,Team,OFFENSIVE_REBOUND,None,7:06,2,Jazz,76ers,34 - 44,0,N/A,N/A,N/A
+52,Amir Johnson,SUBSTITUTION,Chandler Wilson,7:06,2,76ers,Jazz,34 - 44,1,N/A,N/A,N/A
+53,Amir Johnson,FOUL_ON_FLOOR,None,7:00,2,76ers,Jazz,34 - 44,1,N/A,N/A,N/A
+54,Alec Burks,FT_MISS,None,7:00,2,Jazz,76ers,34 - 44,0,N/A,1,N/A
+55,Team,OFFENSIVE_REBOUND,None,7:00,2,Jazz,76ers,34 - 44,0,N/A,N/A,N/A
+56,Ekpe Udoh,SUBSTITUTION,Favors Derrick,7:00,2,Jazz,76ers,34 - 44,0,N/A,N/A,N/A
+57,Alec Burks,FT,None,7:00,2,Jazz,76ers,35 - 44,0,N/A,1,N/A
+58,Jimmy Butler,FG_MISS,None,6:48,2,76ers,Jazz,35 - 44,1, ,2,Jumper
+59,Amir Johnson,OFFENSIVE_REBOUND,None,6:45,2,76ers,Jazz,35 - 44,1,N/A,N/A,N/A
+60,Amir Johnson,FG_UNASSISTED,None,6:44,2,76ers,Jazz,35 - 46,1,6,2,Jumper
+61,Ekpe Udoh,TURNOVER,None,6:38,2,Jazz,76ers,35 - 46,0,N/A,N/A,N/A
+62,Ben Simmons,TURNOVER,Joe Ingles,6:31,2,76ers,Jazz,35 - 46,1,N/A,N/A,N/A
+63,Ben Simmons,FOUL_ON_FLOOR,None,6:31,2,76ers,Jazz,35 - 46,1,N/A,N/A,N/A
+64,Thabo Sefolosha,FG_ASSISTED,Ricky Rubio,6:08,2,Jazz,76ers,37 - 46,0,12,2,Jumper
+65,JJ Redick,FG_ASSISTED,Amir Johnson,5:56,2,76ers,Jazz,37 - 48,1,11,2,Jumper
+66,Ricky Rubio,FG_UNASSISTED,None,5:36,2,Jazz,76ers,39 - 48,0,14,2,Jumper
+67,Jimmy Butler,FG_ASSISTED,Amir Johnson,5:22,2,76ers,Jazz,39 - 50,1,0,2,Layup
+68,Amir Johnson,Unknown,None,5:10,2,76ers,Jazz,39 - 50,1,N/A,N/A,N/A
+69,Donovan Mitchell,SUBSTITUTION,Burks Alec,5:10,2,Jazz,76ers,39 - 50,0,N/A,N/A,N/A
+70,Derrick Favors,SUBSTITUTION,Udoh Ekpe,5:10,2,Jazz,76ers,39 - 50,0,N/A,N/A,N/A
+71,Landry Shamet,SUBSTITUTION,Redick JJ,5:10,2,76ers,Jazz,39 - 50,1,N/A,N/A,N/A
+72,Joe Ingles,FG_UNASSISTED,None,4:59,2,Jazz,76ers,41 - 50,0, ,2,Jumper
+73,Ben Simmons,FG_MISS,None,4:41,2,76ers,Jazz,41 - 50,1, ,2,Jumper
+74,Amir Johnson,OFFENSIVE_REBOUND,None,4:37,2,76ers,Jazz,41 - 50,1,N/A,N/A,N/A
+75,Amir Johnson,FG_UNASSISTED,None,4:37,2,76ers,Jazz,41 - 52,1,0,2,Dunk
+76,Landry Shamet,FOUL_ON_FLOOR,None,4:36,2,76ers,Jazz,41 - 52,1,N/A,N/A,N/A
+77,Ricky Rubio,FT,None,4:36,2,Jazz,76ers,42 - 52,0,N/A,1,N/A
+78,Ricky Rubio,FT,None,4:36,2,Jazz,76ers,43 - 52,0,N/A,1,N/A
+79,Amir Johnson,TURNOVER,Joe Ingles,4:19,2,76ers,Jazz,43 - 52,1,N/A,N/A,N/A
+80,Ricky Rubio,FG_MISS,None,4:13,2,Jazz,76ers,43 - 52,0,23,3,Jumper
+81,Landry Shamet,DEFENSIVE_REBOUND,None,4:11,2,76ers,Jazz,43 - 52,1,N/A,N/A,N/A
+82,Ben Simmons,FG_MISS,Derrick Favors,3:59,2,Jazz,76ers,43 - 52,1,5,2,Jumper
+83,Derrick Favors,DEFENSIVE_REBOUND,None,3:57,2,Jazz,76ers,43 - 52,0,N/A,N/A,N/A
+84,Donovan Mitchell,FG_MISS,None,3:54,2,Jazz,76ers,43 - 52,0, ,2,Jumper
+85,Derrick Favors,OFFENSIVE_REBOUND,None,3:51,2,Jazz,76ers,43 - 52,0,N/A,N/A,N/A
+86,Derrick Favors,FG_UNASSISTED,None,3:49,2,Jazz,76ers,45 - 52,0,0,2,Dunk
+87,Mike Muscala,FG_MISS,None,3:30,2,76ers,Jazz,45 - 52,1,15,2,Jumper
+88,Joe Ingles,DEFENSIVE_REBOUND,None,3:27,2,Jazz,76ers,45 - 52,0,N/A,N/A,N/A
+89,Donovan Mitchell,FG_MISS,None,3:22,2,Jazz,76ers,45 - 52,0,27,3,Jumper
+90,Amir Johnson,DEFENSIVE_REBOUND,None,3:20,2,76ers,Jazz,45 - 52,1,N/A,N/A,N/A
+91,Amir Johnson,FG_MISS,None,3:12,2,76ers,Jazz,45 - 52,1,26,3,Jumper
+92,Derrick Favors,DEFENSIVE_REBOUND,None,3:10,2,Jazz,76ers,45 - 52,0,N/A,N/A,N/A
+93,Mike Muscala,FOUL_ON_FLOOR,None,3:10,2,76ers,Jazz,45 - 52,1,N/A,N/A,N/A
+94,Joel Embiid,SUBSTITUTION,Johnson Amir,3:10,2,76ers,Jazz,45 - 52,1,N/A,N/A,N/A
+95,Jae Crowder,SUBSTITUTION,Sefolosha Thabo,3:10,2,Jazz,76ers,45 - 52,0,N/A,N/A,N/A
+96,Derrick Favors,FT_MISS,None,3:10,2,Jazz,76ers,45 - 52,0,N/A,1,N/A
+97,Team,OFFENSIVE_REBOUND,None,3:10,2,Jazz,76ers,45 - 52,0,N/A,N/A,N/A
+98,Derrick Favors,FT,None,3:10,2,Jazz,76ers,46 - 52,0,N/A,1,N/A
+99,Joe Ingles,FOUL_ON_FLOOR,None,3:04,2,Jazz,76ers,46 - 52,0,N/A,N/A,N/A
+100,Derrick Favors,FOUL_ON_FLOOR,None,2:55,2,Jazz,76ers,46 - 52,0,N/A,N/A,N/A
+101,Team,Unknown,None,2:55,2,Jazz,76ers,46 - 52,0,N/A,N/A,N/A
+102,Jimmy Butler,FT_MISS,None,2:55,2,76ers,Jazz,46 - 52,1,N/A,1,N/A
+103,Team,OFFENSIVE_REBOUND,None,2:55,2,76ers,Jazz,46 - 52,1,N/A,N/A,N/A
+104,Jimmy Butler,FT_MISS,None,2:55,2,76ers,Jazz,46 - 52,1,N/A,1,N/A
+105,Derrick Favors,DEFENSIVE_REBOUND,None,2:52,2,Jazz,76ers,46 - 52,0,N/A,N/A,N/A
+106,Donovan Mitchell,FG_MISS,Joel Embiid,2:40,2,76ers,Jazz,46 - 52,0,4,2,Jumper
+107,Team,OFFENSIVE_REBOUND,None,2:40,2,Jazz,76ers,46 - 52,0,N/A,N/A,N/A
+108,Jae Crowder,FG_MISS,Ben Simmons,2:34,2,76ers,Jazz,46 - 52,0,27,3,Jumper
+109,Joel Embiid,DEFENSIVE_REBOUND,None,2:30,2,76ers,Jazz,46 - 52,1,N/A,N/A,N/A
+110,Jimmy Butler,FG_ASSISTED,Landry Shamet,2:21,2,76ers,Jazz,46 - 54,1,0,2,Dunk
+111,Joel Embiid,FOUL_ON_FLOOR,None,2:07,2,76ers,Jazz,46 - 54,1,N/A,N/A,N/A
+112,Derrick Favors,FT_MISS,None,2:07,2,Jazz,76ers,46 - 54,0,N/A,1,N/A
+113,Team,OFFENSIVE_REBOUND,None,2:07,2,Jazz,76ers,46 - 54,0,N/A,N/A,N/A
+114,Derrick Favors,FT,None,2:07,2,Jazz,76ers,47 - 54,0,N/A,1,N/A
+115,Joel Embiid,FG_MISS,None,1:47,2,76ers,Jazz,47 - 54,1,13,2,Jumper
+116,Team,DEFENSIVE_REBOUND,None,1:45,2,Jazz,76ers,47 - 54,0,N/A,N/A,N/A
+117,Donovan Mitchell,FG_UNASSISTED,None,1:30,2,Jazz,76ers,49 - 54,0, ,2,Jumper
+118,Joel Embiid,FG_MISS,None,1:19,2,76ers,Jazz,49 - 54,1,0,2,Layup
+119,Team,OFFENSIVE_REBOUND,None,1:17,2,76ers,Jazz,49 - 54,1,N/A,N/A,N/A
+120,Landry Shamet,FG_MISS,None,1:10,2,76ers,Jazz,49 - 54,1,24,3,Jumper
+121,Joel Embiid,OFFENSIVE_REBOUND,None,1:08,2,76ers,Jazz,49 - 54,1,N/A,N/A,N/A
+122,Joel Embiid,FG_MISS,Joe Ingles,1:08,2,Jazz,76ers,49 - 54,1,0,2,Layup
+123,Team,OFFENSIVE_REBOUND,None,1:08,2,76ers,Jazz,49 - 54,1,N/A,N/A,N/A
+124,Joel Embiid,FOUL_ON_FLOOR,None,1:08,2,76ers,Jazz,49 - 54,1,N/A,N/A,N/A
+125,Joel Embiid,TURNOVER,None,1:08,2,76ers,Jazz,49 - 54,1,N/A,N/A,N/A
+126,Joel Embiid,FOUL_TECHNICAL,None,1:08,2,76ers,Jazz,49 - 54,1,N/A,N/A,N/A
+127,Ricky Rubio,FT,None,1:08,2,Jazz,76ers,50 - 54,0,N/A,1,N/A
+128,Amir Johnson,SUBSTITUTION,Embiid Joel,1:08,2,76ers,Jazz,50 - 54,1,N/A,N/A,N/A
+129,Donovan Mitchell,FG_MISS,None,56.3,2,Jazz,76ers,50 - 54,0,19,2,Jumper
+130,Jimmy Butler,DEFENSIVE_REBOUND,None,52.7,2,76ers,Jazz,50 - 54,1,N/A,N/A,N/A
+131,Jimmy Butler,FG_MISS,None,33.0,2,76ers,Jazz,50 - 54,1,26,2,Jumper
+132,Ricky Rubio,DEFENSIVE_REBOUND,None,30.1,2,Jazz,76ers,50 - 54,0,N/A,N/A,N/A
+133,Derrick Favors,FG_ASSISTED,Joe Ingles,21.3,2,Jazz,76ers,52 - 54,0,0,2,Dunk
+134,End of,Unknown,None,0.0,2,76ers,Jazz,52 - 54,1,N/A,N/A,N/A
+0,JJ Redick,SUBSTITUTION,Shamet Landry,12:00,3,76ers,Jazz,52 - 54,1,N/A,N/A,N/A
+1,Joel Embiid,SUBSTITUTION,Muscala Mike,12:00,3,76ers,Jazz,52 - 54,1,N/A,N/A,N/A
+2,Wilson Chandler,SUBSTITUTION,Johnson Amir,12:00,3,76ers,Jazz,52 - 54,1,N/A,N/A,N/A
+3,Rudy Gobert,SUBSTITUTION,Crowder Jae,12:00,3,Jazz,76ers,52 - 54,0,N/A,N/A,N/A
+4,Joel Embiid,FG_MISS,None,11:46,3,76ers,Jazz,52 - 54,1,2,2,Jumper
+5,Wilson Chandler,OFFENSIVE_REBOUND,None,11:40,3,76ers,Jazz,52 - 54,1,N/A,N/A,N/A
+6,Wilson Chandler,FG_MISS,None,11:40,3,76ers,Jazz,52 - 54,1, ,2,Jumper
+7,Donovan Mitchell,DEFENSIVE_REBOUND,None,11:39,3,Jazz,76ers,52 - 54,0,N/A,N/A,N/A
+8,Joel Embiid,FOUL_ON_FLOOR,None,11:38,3,76ers,Jazz,52 - 54,1,N/A,N/A,N/A
+9,Donovan Mitchell,FT_MISS,None,11:38,3,Jazz,76ers,52 - 54,0,N/A,1,N/A
+10,Team,OFFENSIVE_REBOUND,None,11:38,3,Jazz,76ers,52 - 54,0,N/A,N/A,N/A
+11,Mike Muscala,SUBSTITUTION,Embiid Joel,11:38,3,76ers,Jazz,52 - 54,1,N/A,N/A,N/A
+12,Donovan Mitchell,FT,None,11:38,3,Jazz,76ers,53 - 54,0,N/A,1,N/A
+13,Ben Simmons,FG_MISS,None,11:32,3,76ers,Jazz,53 - 54,1, ,2,Jumper
+14,Team,DEFENSIVE_REBOUND,None,11:32,3,Jazz,76ers,53 - 54,0,N/A,N/A,N/A
+15,Joe Ingles,TURNOVER,Ben Simmons,11:20,3,Jazz,76ers,53 - 54,0,N/A,N/A,N/A
+16,JJ Redick,FG_MISS,None,11:14,3,76ers,Jazz,53 - 54,1,25,3,Jumper
+17,Ricky Rubio,DEFENSIVE_REBOUND,None,11:10,3,Jazz,76ers,53 - 54,0,N/A,N/A,N/A
+18,Ricky Rubio,TURNOVER,Jimmy Butler,11:09,3,Jazz,76ers,53 - 54,0,N/A,N/A,N/A
+19,JJ Redick,FG_UNASSISTED,None,11:04,3,76ers,Jazz,53 - 56,1,2,2,Jumper
+20,Donovan Mitchell,FG_MISS,None,10:55,3,Jazz,76ers,53 - 56,0, ,2,Jumper
+21,Rudy Gobert,OFFENSIVE_REBOUND,None,10:51,3,Jazz,76ers,53 - 56,0,N/A,N/A,N/A
+22,Rudy Gobert,FG_UNASSISTED,None,10:51,3,Jazz,76ers,55 - 56,0, ,2,Jumper
+23,Ben Simmons,FG_ASSISTED,Jimmy Butler,10:36,3,76ers,Jazz,55 - 58,1,5,2,Jumper
+24,Joe Ingles,FG_ASSISTED,Ricky Rubio,10:23,3,Jazz,76ers,58 - 58,0,25,3,Jumper
+25,Ricky Rubio,FOUL_ON_FLOOR,None,10:12,3,Jazz,76ers,58 - 58,0,N/A,N/A,N/A
+26,Jimmy Butler,FG_UNASSISTED,None,10:03,3,76ers,Jazz,58 - 60,1,11,2,Jumper
+27,JJ Redick,FOUL_ON_FLOOR,None,9:50,3,76ers,Jazz,58 - 60,1,N/A,N/A,N/A
+28,Rudy Gobert,TURNOVER,Jimmy Butler,9:37,3,Jazz,76ers,58 - 60,0,N/A,N/A,N/A
+29,Ben Simmons,FG_ASSISTED,Jimmy Butler,9:34,3,76ers,Jazz,58 - 62,1,0,2,Dunk
+30,Joe Ingles,FG_UNASSISTED,None,9:17,3,Jazz,76ers,60 - 62,0,5,2,Jumper
+31,JJ Redick,FG_ASSISTED,Ben Simmons,8:59,3,76ers,Jazz,60 - 65,1,26,3,Jumper
+32,Mike Muscala,FOUL_ON_FLOOR,None,8:44,3,76ers,Jazz,60 - 65,1,N/A,N/A,N/A
+33,Rudy Gobert,FT_MISS,None,8:44,3,Jazz,76ers,60 - 65,0,N/A,1,N/A
+34,Team,OFFENSIVE_REBOUND,None,8:44,3,Jazz,76ers,60 - 65,0,N/A,N/A,N/A
+35,Jae Crowder,SUBSTITUTION,Favors Derrick,8:44,3,Jazz,76ers,60 - 65,0,N/A,N/A,N/A
+36,Rudy Gobert,FT_MISS,None,8:44,3,Jazz,76ers,60 - 65,0,N/A,1,N/A
+37,Ben Simmons,DEFENSIVE_REBOUND,None,8:42,3,76ers,Jazz,60 - 65,1,N/A,N/A,N/A
+38,Mike Muscala,TURNOVER,Donovan Mitchell,8:26,3,76ers,Jazz,60 - 65,1,N/A,N/A,N/A
+39,Donovan Mitchell,FG_MISS,Mike Muscala,8:20,3,76ers,Jazz,60 - 65,0,3,2,Jumper
+40,Team,DEFENSIVE_REBOUND,None,8:19,3,76ers,Jazz,60 - 65,1,N/A,N/A,N/A
+41,Mike Muscala,FG_ASSISTED,Ben Simmons,8:01,3,76ers,Jazz,60 - 68,1,26,3,Jumper
+42,Ricky Rubio,FG_UNASSISTED,None,7:45,3,Jazz,76ers,62 - 68,0,20,2,Jumper
+43,Ricky Rubio,FOUL_ON_FLOOR,None,7:39,3,Jazz,76ers,62 - 68,0,N/A,N/A,N/A
+44,Team,Unknown,None,7:39,3,Jazz,76ers,62 - 68,0,N/A,N/A,N/A
+45,Amir Johnson,SUBSTITUTION,Chandler Wilson,7:39,3,76ers,Jazz,62 - 68,1,N/A,N/A,N/A
+46,Derrick Favors,SUBSTITUTION,Gobert Rudy,7:39,3,Jazz,76ers,62 - 68,0,N/A,N/A,N/A
+47,JJ Redick,FT,None,7:39,3,76ers,Jazz,62 - 69,1,N/A,1,N/A
+48,JJ Redick,FT,None,7:39,3,76ers,Jazz,62 - 70,1,N/A,1,N/A
+49,JJ Redick,FT,None,7:39,3,76ers,Jazz,62 - 71,1,N/A,1,N/A
+50,Joe Ingles,FG_UNASSISTED,None,7:20,3,Jazz,76ers,64 - 71,0,0,2,Layup
+51,JJ Redick,FOUL_FLAGRANT_1,None,6:58,3,76ers,Jazz,64 - 71,1,N/A,N/A,N/A
+52,Ricky Rubio,FT_MISS,None,6:58,3,Jazz,76ers,64 - 71,0,N/A,1,N/A
+53,Team,OFFENSIVE_REBOUND,None,6:58,3,Jazz,76ers,64 - 71,0,N/A,N/A,N/A
+54,Ricky Rubio,FT_MISS,None,6:58,3,Jazz,76ers,64 - 71,0,N/A,1,N/A
+55,Team,OFFENSIVE_REBOUND,None,6:58,3,Jazz,76ers,64 - 71,0,N/A,N/A,N/A
+56,JJ Redick,FG_MISS,None,6:58,3,76ers,Jazz,64 - 71,1,18,2,Jumper
+57,Ricky Rubio,FG_MISS,None,6:49,3,Jazz,76ers,64 - 71,0,18,2,Jumper
+58,Mike Muscala,DEFENSIVE_REBOUND,None,6:43,3,76ers,Jazz,64 - 71,1,N/A,N/A,N/A
+59,Derrick Favors,FOUL_ON_FLOOR,None,6:34,3,Jazz,76ers,64 - 71,0,N/A,N/A,N/A
+60,Amir Johnson,FT_MISS,None,6:34,3,76ers,Jazz,64 - 71,1,N/A,1,N/A
+61,Team,OFFENSIVE_REBOUND,None,6:34,3,76ers,Jazz,64 - 71,1,N/A,N/A,N/A
+62,Amir Johnson,FT,None,6:34,3,76ers,Jazz,64 - 72,1,N/A,1,N/A
+63,Jae Crowder,FG_ASSISTED,Ricky Rubio,6:21,3,Jazz,76ers,66 - 72,0,0,2,Layup
+64,JJ Redick,TURNOVER,Donovan Mitchell,6:08,3,76ers,Jazz,66 - 72,1,N/A,N/A,N/A
+65,Donovan Mitchell,FG_ASSISTED,Ricky Rubio,5:57,3,Jazz,76ers,68 - 72,0,2,2,Jumper
+66,Team,Unknown,None,5:56,3,76ers,Jazz,68 - 72,1,N/A,N/A,N/A
+67,Alec Burks,SUBSTITUTION,Mitchell Donovan,5:56,3,Jazz,76ers,68 - 72,0,N/A,N/A,N/A
+68,Landry Shamet,SUBSTITUTION,Redick JJ,5:56,3,76ers,Jazz,68 - 72,1,N/A,N/A,N/A
+69,Jimmy Butler,FG_UNASSISTED,None,5:40,3,76ers,Jazz,68 - 74,1,0,2,Layup
+70,Joe Ingles,FG_ASSISTED,Alec Burks,5:14,3,Jazz,76ers,71 - 74,0,25,2,Jumper
+71,Amir Johnson,FG_ASSISTED,Jimmy Butler,5:00,3,76ers,Jazz,71 - 77,1,25,3,Jumper
+72,Jae Crowder,FG_MISS,None,4:45,3,Jazz,76ers,71 - 77,0,26,3,Jumper
+73,Jimmy Butler,DEFENSIVE_REBOUND,None,4:42,3,76ers,Jazz,71 - 77,1,N/A,N/A,N/A
+74,Landry Shamet,FG_MISS,None,4:19,3,76ers,Jazz,71 - 77,1, ,3,Jumper
+75,Team,OFFENSIVE_REBOUND,None,4:19,3,76ers,Jazz,71 - 77,1,N/A,N/A,N/A
+76,shot clock,TURNOVER,None,4:19,3,76ers,Jazz,71 - 77,1,N/A,N/A,N/A
+77,Ricky Rubio,FG_MISS,None,4:06,3,Jazz,76ers,71 - 77,0, ,2,Jumper
+78,Mike Muscala,DEFENSIVE_REBOUND,None,4:04,3,76ers,Jazz,71 - 77,1,N/A,N/A,N/A
+79,Ben Simmons,TURNOVER,Joe Ingles,3:58,3,76ers,Jazz,71 - 77,1,N/A,N/A,N/A
+80,Mike Muscala,FOUL_ON_FLOOR,None,3:57,3,76ers,Jazz,71 - 77,1,N/A,N/A,N/A
+81,Jae Crowder,FT,None,3:57,3,Jazz,76ers,72 - 77,0,N/A,1,N/A
+82,Markelle Fultz,SUBSTITUTION,Simmons Ben,3:57,3,76ers,Jazz,72 - 77,1,N/A,N/A,N/A
+83,Royce O'Neale,SUBSTITUTION,Ingles Joe,3:57,3,Jazz,76ers,72 - 77,0,N/A,N/A,N/A
+84,Dante Exum,SUBSTITUTION,Rubio Ricky,3:57,3,Jazz,76ers,72 - 77,0,N/A,N/A,N/A
+85,Jae Crowder,FT,None,3:57,3,Jazz,76ers,73 - 77,0,N/A,1,N/A
+86,Amir Johnson,FG_MISS,None,3:36,3,76ers,Jazz,73 - 77,1,7,2,Jumper
+87,Jae Crowder,DEFENSIVE_REBOUND,None,3:34,3,Jazz,76ers,73 - 77,0,N/A,N/A,N/A
+88,Alec Burks,FG_ASSISTED,Dante Exum,3:24,3,Jazz,76ers,75 - 77,0,1,2,Jumper
+89,Landry Shamet,FOUL_ON_FLOOR,None,3:24,3,76ers,Jazz,75 - 77,1,N/A,N/A,N/A
+90,Alec Burks,FT,None,3:24,3,Jazz,76ers,76 - 77,0,N/A,1,N/A
+91,Landry Shamet,FG_ASSISTED,Amir Johnson,3:10,3,76ers,Jazz,76 - 80,1,26,3,Jumper
+92,Dante Exum,FG_UNASSISTED,None,2:56,3,Jazz,76ers,78 - 80,0,0,2,Layup
+93,Amir Johnson,FG_MISS,None,2:39,3,76ers,Jazz,78 - 80,1, ,2,Jumper
+94,Amir Johnson,OFFENSIVE_REBOUND,None,2:35,3,76ers,Jazz,78 - 80,1,N/A,N/A,N/A
+95,Amir Johnson,FG_MISS,None,2:35,3,76ers,Jazz,78 - 80,1, ,2,Jumper
+96,Amir Johnson,OFFENSIVE_REBOUND,None,2:34,3,76ers,Jazz,78 - 80,1,N/A,N/A,N/A
+97,Amir Johnson,FG_MISS,None,2:34,3,76ers,Jazz,78 - 80,1, ,2,Jumper
+98,Markelle Fultz,OFFENSIVE_REBOUND,None,2:33,3,76ers,Jazz,78 - 80,1,N/A,N/A,N/A
+99,Markelle Fultz,FG_MISS,None,2:31,3,76ers,Jazz,78 - 80,1,3,2,Jumper
+100,Dante Exum,DEFENSIVE_REBOUND,None,2:26,3,Jazz,76ers,78 - 80,0,N/A,N/A,N/A
+101,Amir Johnson,FOUL_ON_FLOOR,None,2:26,3,76ers,Jazz,78 - 80,1,N/A,N/A,N/A
+102,Dante Exum,FT,None,2:26,3,Jazz,76ers,79 - 80,0,N/A,1,N/A
+103,JJ Redick,SUBSTITUTION,Johnson Amir,2:26,3,76ers,Jazz,79 - 80,1,N/A,N/A,N/A
+104,Ben Simmons,SUBSTITUTION,Shamet Landry,2:26,3,76ers,Jazz,79 - 80,1,N/A,N/A,N/A
+105,Donovan Mitchell,SUBSTITUTION,Burks Alec,2:26,3,Jazz,76ers,79 - 80,0,N/A,N/A,N/A
+106,Rudy Gobert,SUBSTITUTION,Favors Derrick,2:26,3,Jazz,76ers,79 - 80,0,N/A,N/A,N/A
+107,Dante Exum,FT_MISS,None,2:26,3,Jazz,76ers,79 - 80,0,N/A,1,N/A
+108,Ben Simmons,DEFENSIVE_REBOUND,None,2:24,3,76ers,Jazz,79 - 80,1,N/A,N/A,N/A
+109,JJ Redick,TURNOVER,None,2:15,3,76ers,Jazz,79 - 80,1,N/A,N/A,N/A
+110,Donovan Mitchell,FG_UNASSISTED,None,2:03,3,Jazz,76ers,81 - 80,0,12,2,Jumper
+111,Ben Simmons,FG_MISS,None,1:47,3,76ers,Jazz,81 - 80,1, ,2,Jumper
+112,Rudy Gobert,DEFENSIVE_REBOUND,None,1:45,3,Jazz,76ers,81 - 80,0,N/A,N/A,N/A
+113,Donovan Mitchell,FG_MISS,None,1:39,3,Jazz,76ers,81 - 80,0, ,2,Jumper
+114,Rudy Gobert,OFFENSIVE_REBOUND,None,1:37,3,Jazz,76ers,81 - 80,0,N/A,N/A,N/A
+115,Rudy Gobert,FG_UNASSISTED,None,1:35,3,Jazz,76ers,83 - 80,0,6,2,Jumper
+116,Markelle Fultz,FG_MISS,None,1:20,3,76ers,Jazz,83 - 80,1,13,2,Jumper
+117,Royce O'Neale,DEFENSIVE_REBOUND,None,1:17,3,Jazz,76ers,83 - 80,0,N/A,N/A,N/A
+118,Royce O'Neale,TURNOVER,None,1:16,3,Jazz,76ers,83 - 80,0,N/A,N/A,N/A
+119,Markelle Fultz,FG_UNASSISTED,None,1:00,3,76ers,Jazz,83 - 82,1,0,2,Layup
+120,Donovan Mitchell,FG_MISS,None,38.5,3,Jazz,76ers,83 - 82,0,30,3,Jumper
+121,Markelle Fultz,DEFENSIVE_REBOUND,None,34.6,3,76ers,Jazz,83 - 82,1,N/A,N/A,N/A
+122,Jimmy Butler,TURNOVER,Donovan Mitchell,25.8,3,76ers,Jazz,83 - 82,1,N/A,N/A,N/A
+123,JJ Redick,FOUL_ON_FLOOR,None,22.0,3,76ers,Jazz,83 - 82,1,N/A,N/A,N/A
+124,Donovan Mitchell,FT_MISS,None,22.0,3,Jazz,76ers,83 - 82,0,N/A,1,N/A
+125,Team,OFFENSIVE_REBOUND,None,22.0,3,Jazz,76ers,83 - 82,0,N/A,N/A,N/A
+126,Donovan Mitchell,FT,None,22.0,3,Jazz,76ers,84 - 82,0,N/A,1,N/A
+127,Rudy Gobert,FOUL_ON_FLOOR,None,5.1,3,Jazz,76ers,84 - 82,0,N/A,N/A,N/A
+128,Markelle Fultz,FT,None,5.1,3,76ers,Jazz,84 - 83,1,N/A,1,N/A
+129,Landry Shamet,SUBSTITUTION,Muscala Mike,5.1,3,76ers,Jazz,84 - 83,1,N/A,N/A,N/A
+130,Amir Johnson,SUBSTITUTION,Redick JJ,5.1,3,76ers,Jazz,84 - 83,1,N/A,N/A,N/A
+131,Markelle Fultz,FT_MISS,None,5.1,3,76ers,Jazz,84 - 83,1,N/A,1,N/A
+132,Markelle Fultz,OFFENSIVE_REBOUND,None,3.8,3,76ers,Jazz,84 - 83,1,N/A,N/A,N/A
+133,Jimmy Butler,FG_ASSISTED,Markelle Fultz,1.5,3,76ers,Jazz,84 - 85,1,8,2,Jumper
+134,Donovan Mitchell,FOUL_ON_FLOOR,None,1.5,3,Jazz,76ers,84 - 85,0,N/A,N/A,N/A
+135,Jimmy Butler,FT,None,1.5,3,76ers,Jazz,84 - 86,1,N/A,1,N/A
+136,Donovan Mitchell,FG_MISS,None,0.1,3,Jazz,76ers,84 - 86,0,51,3,Jumper
+137,Team,OFFENSIVE_REBOUND,None,0.1,3,Jazz,76ers,84 - 86,0,N/A,N/A,N/A
+138,End of,Unknown,None,0.0,3,76ers,Jazz,84 - 86,1,N/A,N/A,N/A
+0,Furkan Korkmaz,SUBSTITUTION,Butler Jimmy,12:00,4,76ers,Jazz,84 - 86,1,N/A,N/A,N/A
+1,JJ Redick,SUBSTITUTION,Simmons Ben,12:00,4,76ers,Jazz,84 - 86,1,N/A,N/A,N/A
+2,Wilson Chandler,SUBSTITUTION,Shamet Landry,12:00,4,76ers,Jazz,84 - 86,1,N/A,N/A,N/A
+3,Joel Embiid,SUBSTITUTION,Johnson Amir,12:00,4,76ers,Jazz,84 - 86,1,N/A,N/A,N/A
+4,Dante Exum,FG_MISS,None,11:47,4,Jazz,76ers,84 - 86,0, ,2,Jumper
+5,Rudy Gobert,OFFENSIVE_REBOUND,None,11:42,4,Jazz,76ers,84 - 86,0,N/A,N/A,N/A
+6,Rudy Gobert,FG_MISS,None,11:42,4,Jazz,76ers,84 - 86,0, ,2,Jumper
+7,Rudy Gobert,OFFENSIVE_REBOUND,None,11:41,4,Jazz,76ers,84 - 86,0,N/A,N/A,N/A
+8,Jae Crowder,FG_MISS,None,11:33,4,Jazz,76ers,84 - 86,0,25,3,Jumper
+9,Wilson Chandler,DEFENSIVE_REBOUND,None,11:29,4,76ers,Jazz,84 - 86,1,N/A,N/A,N/A
+10,Joel Embiid,FG_MISS,None,11:12,4,76ers,Jazz,84 - 86,1,13,2,Jumper
+11,Jae Crowder,DEFENSIVE_REBOUND,None,11:10,4,Jazz,76ers,84 - 86,0,N/A,N/A,N/A
+12,Donovan Mitchell,FG_UNASSISTED,None,11:03,4,Jazz,76ers,86 - 86,0,12,2,Jumper
+13,Wilson Chandler,FOUL_ON_FLOOR,None,11:03,4,76ers,Jazz,86 - 86,1,N/A,N/A,N/A
+14,Thabo Sefolosha,SUBSTITUTION,Crowder Jae,11:03,4,Jazz,76ers,86 - 86,0,N/A,N/A,N/A
+15,Donovan Mitchell,FT,None,11:03,4,Jazz,76ers,87 - 86,0,N/A,1,N/A
+16,Joel Embiid,FG_UNASSISTED,None,10:49,4,76ers,Jazz,87 - 88,1,5,2,Jumper
+17,Donovan Mitchell,FG_MISS,None,10:22,4,Jazz,76ers,87 - 88,0,11,2,Jumper
+18,Joel Embiid,DEFENSIVE_REBOUND,None,10:19,4,76ers,Jazz,87 - 88,1,N/A,N/A,N/A
+19,Joel Embiid,FG_MISS,None,10:07,4,76ers,Jazz,87 - 88,1,0,2,Dunk
+20,Thabo Sefolosha,DEFENSIVE_REBOUND,None,10:04,4,Jazz,76ers,87 - 88,0,N/A,N/A,N/A
+21,Donovan Mitchell,FG_UNASSISTED,None,9:57,4,Jazz,76ers,89 - 88,0,10,2,Jumper
+22,Joel Embiid,FG_MISS,Rudy Gobert,9:32,4,Jazz,76ers,89 - 88,1,5,2,Jumper
+23,Thabo Sefolosha,DEFENSIVE_REBOUND,None,9:30,4,Jazz,76ers,89 - 88,0,N/A,N/A,N/A
+24,Royce O'Neale,FG_ASSISTED,Thabo Sefolosha,9:29,4,Jazz,76ers,91 - 88,0, ,2,Jumper
+25,JJ Redick,FG_MISS,None,9:10,4,76ers,Jazz,91 - 88,1,25,3,Jumper
+26,Team,DEFENSIVE_REBOUND,None,9:10,4,Jazz,76ers,91 - 88,0,N/A,N/A,N/A
+27,Rudy Gobert,TURNOVER,JJ Redick,8:46,4,Jazz,76ers,91 - 88,0,N/A,N/A,N/A
+28,Wilson Chandler,TURNOVER,None,8:44,4,76ers,Jazz,91 - 88,1,N/A,N/A,N/A
+29,Ben Simmons,SUBSTITUTION,Fultz Markelle,8:44,4,76ers,Jazz,91 - 88,1,N/A,N/A,N/A
+30,Jimmy Butler,SUBSTITUTION,Korkmaz Furkan,8:44,4,76ers,Jazz,91 - 88,1,N/A,N/A,N/A
+31,Mike Muscala,SUBSTITUTION,Chandler Wilson,8:44,4,76ers,Jazz,91 - 88,1,N/A,N/A,N/A
+32,Rudy Gobert,FG_ASSISTED,Dante Exum,8:35,4,Jazz,76ers,93 - 88,0,0,2,Dunk
+33,Team,Unknown,None,8:35,4,76ers,Jazz,93 - 88,1,N/A,N/A,N/A
+34,Joe Ingles,SUBSTITUTION,Mitchell Donovan,8:35,4,Jazz,76ers,93 - 88,0,N/A,N/A,N/A
+35,Joel Embiid,FG_ASSISTED,Jimmy Butler,8:24,4,76ers,Jazz,93 - 90,1,17,2,Jumper
+36,Rudy Gobert,FG_ASSISTED,Dante Exum,8:06,4,Jazz,76ers,95 - 90,0,0,2,Dunk
+37,Mike Muscala,FG_MISS,None,7:48,4,76ers,Jazz,95 - 90,1,26,3,Jumper
+38,Thabo Sefolosha,DEFENSIVE_REBOUND,None,7:43,4,Jazz,76ers,95 - 90,0,N/A,N/A,N/A
+39,Thabo Sefolosha,TURNOVER,None,7:32,4,Jazz,76ers,95 - 90,0,N/A,N/A,N/A
+40,Landry Shamet,SUBSTITUTION,Redick JJ,7:32,4,76ers,Jazz,95 - 90,1,N/A,N/A,N/A
+41,Royce O'Neale,FOUL_ON_FLOOR,None,7:25,4,Jazz,76ers,95 - 90,0,N/A,N/A,N/A
+42,Jimmy Butler,FT_MISS,None,7:25,4,76ers,Jazz,95 - 90,1,N/A,1,N/A
+43,Team,OFFENSIVE_REBOUND,None,7:25,4,76ers,Jazz,95 - 90,1,N/A,N/A,N/A
+44,Ricky Rubio,SUBSTITUTION,O'Neale Royce,7:25,4,Jazz,76ers,95 - 90,0,N/A,N/A,N/A
+45,Jimmy Butler,FT,None,7:25,4,76ers,Jazz,95 - 91,1,N/A,1,N/A
+46,Rudy Gobert,FG_MISS,None,7:07,4,Jazz,76ers,95 - 91,0,0,2,Layup
+47,Jimmy Butler,DEFENSIVE_REBOUND,None,7:03,4,76ers,Jazz,95 - 91,1,N/A,N/A,N/A
+48,Jimmy Butler,FG_ASSISTED,Ben Simmons,7:00,4,76ers,Jazz,95 - 94,1,26,3,Jumper
+49,Team,Unknown,None,6:59,4,Jazz,76ers,95 - 94,0,N/A,N/A,N/A
+50,Jae Crowder,SUBSTITUTION,Sefolosha Thabo,6:59,4,Jazz,76ers,95 - 94,0,N/A,N/A,N/A
+51,Joe Ingles,FG_MISS,None,6:44,4,Jazz,76ers,95 - 94,0, ,2,Jumper
+52,Rudy Gobert,OFFENSIVE_REBOUND,None,6:39,4,Jazz,76ers,95 - 94,0,N/A,N/A,N/A
+53,Rudy Gobert,FG_MISS,None,6:39,4,Jazz,76ers,95 - 94,0, ,2,Jumper
+54,Ben Simmons,DEFENSIVE_REBOUND,None,6:39,4,76ers,Jazz,95 - 94,1,N/A,N/A,N/A
+55,Mike Muscala,FG_MISS,None,6:29,4,76ers,Jazz,95 - 94,1,26,3,Jumper
+56,Rudy Gobert,DEFENSIVE_REBOUND,None,6:26,4,Jazz,76ers,95 - 94,0,N/A,N/A,N/A
+57,Dante Exum,FG_MISS,None,6:03,4,Jazz,76ers,95 - 94,0, ,2,Jumper
+58,Mike Muscala,DEFENSIVE_REBOUND,None,6:02,4,76ers,Jazz,95 - 94,1,N/A,N/A,N/A
+59,Joel Embiid,FG_UNASSISTED,None,5:48,4,76ers,Jazz,95 - 96,1,5,2,Jumper
+60,Jae Crowder,FOUL_ON_FLOOR,None,5:48,4,Jazz,76ers,95 - 96,0,N/A,N/A,N/A
+61,JJ Redick,SUBSTITUTION,Shamet Landry,5:48,4,76ers,Jazz,95 - 96,1,N/A,N/A,N/A
+62,Donovan Mitchell,SUBSTITUTION,Exum Dante,5:48,4,Jazz,76ers,95 - 96,0,N/A,N/A,N/A
+63,Joel Embiid,FT_MISS,None,5:48,4,76ers,Jazz,95 - 96,1,N/A,1,N/A
+64,Mike Muscala,OFFENSIVE_REBOUND,None,5:48,4,76ers,Jazz,95 - 96,1,N/A,N/A,N/A
+65,Mike Muscala,FG_MISS,None,5:45,4,76ers,Jazz,95 - 96,1, ,2,Jumper
+66,Ricky Rubio,DEFENSIVE_REBOUND,None,5:43,4,Jazz,76ers,95 - 96,0,N/A,N/A,N/A
+67,Ricky Rubio,TURNOVER,Joel Embiid,5:41,4,Jazz,76ers,95 - 96,0,N/A,N/A,N/A
+68,Jimmy Butler,FG_ASSISTED,JJ Redick,5:36,4,76ers,Jazz,95 - 98,1,0,2,Dunk
+69,Team,Unknown,None,5:35,4,Jazz,76ers,95 - 98,0,N/A,N/A,N/A
+70,Donovan Mitchell,FG_UNASSISTED,None,5:19,4,Jazz,76ers,97 - 98,0,13,2,Jumper
+71,Joel Embiid,FG_MISS,None,4:53,4,76ers,Jazz,97 - 98,1,27,3,Jumper
+72,Joe Ingles,DEFENSIVE_REBOUND,None,4:47,4,Jazz,76ers,97 - 98,0,N/A,N/A,N/A
+73,Donovan Mitchell,FG_UNASSISTED,None,4:30,4,Jazz,76ers,100 - 98,0,26,3,Jumper
+74,Team,Unknown,None,4:30,4,76ers,Jazz,100 - 98,1,N/A,N/A,N/A
+75,Wilson Chandler,SUBSTITUTION,Muscala Mike,4:30,4,76ers,Jazz,100 - 98,1,N/A,N/A,N/A
+76,JJ Redick,FG_MISS,None,4:18,4,76ers,Jazz,100 - 98,1,17,2,Jumper
+77,Team,OFFENSIVE_REBOUND,None,4:16,4,76ers,Jazz,100 - 98,1,N/A,N/A,N/A
+78,Rudy Gobert,FOUL_ON_FLOOR,None,4:16,4,Jazz,76ers,100 - 98,0,N/A,N/A,N/A
+79,Jimmy Butler,FG_MISS,None,4:06,4,76ers,Jazz,100 - 98,1,19,2,Jumper
+80,Jae Crowder,DEFENSIVE_REBOUND,None,4:01,4,Jazz,76ers,100 - 98,0,N/A,N/A,N/A
+81,Jimmy Butler,FOUL_ON_FLOOR,None,3:50,4,76ers,Jazz,100 - 98,1,N/A,N/A,N/A
+82,Donovan Mitchell,FT_MISS,None,3:50,4,Jazz,76ers,100 - 98,0,N/A,1,N/A
+83,Team,OFFENSIVE_REBOUND,None,3:50,4,Jazz,76ers,100 - 98,0,N/A,N/A,N/A
+84,Donovan Mitchell,FT,None,3:50,4,Jazz,76ers,101 - 98,0,N/A,1,N/A
+85,Ben Simmons,FG_UNASSISTED,None,3:35,4,76ers,Jazz,101 - 100,1,8,2,Jumper
+86,Ricky Rubio,FG_ASSISTED,Joe Ingles,3:08,4,Jazz,76ers,103 - 100,0,14,2,Jumper
+87,Joel Embiid,FG_ASSISTED,Jimmy Butler,2:52,4,76ers,Jazz,103 - 103,1,24,3,Jumper
+88,Donovan Mitchell,FG_UNASSISTED,None,2:31,4,Jazz,76ers,105 - 103,0,12,2,Jumper
+89,Ricky Rubio,FOUL_ON_FLOOR,None,2:12,4,Jazz,76ers,105 - 103,0,N/A,N/A,N/A
+90,Joel Embiid,FT,None,2:12,4,76ers,Jazz,105 - 104,1,N/A,1,N/A
+91,Joel Embiid,FT,None,2:12,4,76ers,Jazz,105 - 105,1,N/A,1,N/A
+92,Donovan Mitchell,FG_MISS,None,2:00,4,Jazz,76ers,105 - 105,0,26,3,Jumper
+93,Joel Embiid,DEFENSIVE_REBOUND,None,1:56,4,76ers,Jazz,105 - 105,1,N/A,N/A,N/A
+94,Ben Simmons,TURNOVER,Ricky Rubio,1:41,4,76ers,Jazz,105 - 105,1,N/A,N/A,N/A
+95,Ricky Rubio,FG_MISS,None,1:37,4,Jazz,76ers,105 - 105,0,1,2,Jumper
+96,Jae Crowder,OFFENSIVE_REBOUND,None,1:37,4,Jazz,76ers,105 - 105,0,N/A,N/A,N/A
+97,Jae Crowder,FG_UNASSISTED,None,1:37,4,Jazz,76ers,107 - 105,0,1,2,Jumper
+98,Ricky Rubio,FOUL_ON_FLOOR,None,1:27,4,Jazz,76ers,107 - 105,0,N/A,N/A,N/A
+99,JJ Redick,FT,None,1:27,4,76ers,Jazz,107 - 106,1,N/A,1,N/A
+100,JJ Redick,FT,None,1:27,4,76ers,Jazz,107 - 107,1,N/A,1,N/A
+101,Donovan Mitchell,FG_MISS,None,1:15,4,Jazz,76ers,107 - 107,0,13,2,Jumper
+102,Wilson Chandler,DEFENSIVE_REBOUND,None,1:14,4,76ers,Jazz,107 - 107,1,N/A,N/A,N/A
+103,Ben Simmons,FG_UNASSISTED,None,58.7,4,76ers,Jazz,107 - 109,1,2,2,Jumper
+104,Donovan Mitchell,FOUL_ON_FLOOR,None,58.7,4,Jazz,76ers,107 - 109,0,N/A,N/A,N/A
+105,Ben Simmons,FT_MISS,None,58.7,4,76ers,Jazz,107 - 109,1,N/A,1,N/A
+106,Donovan Mitchell,DEFENSIVE_REBOUND,None,58.7,4,Jazz,76ers,107 - 109,0,N/A,N/A,N/A
+107,Joe Ingles,FG_MISS,None,42.1,4,Jazz,76ers,107 - 109,0,26,3,Jumper
+108,Team,DEFENSIVE_REBOUND,None,40.5,4,76ers,Jazz,107 - 109,1,N/A,N/A,N/A
+109,Jimmy Butler,FG_ASSISTED,Ben Simmons,19.4,4,76ers,Jazz,107 - 111,1,1,2,Jumper
+110,Team,Unknown,None,19.4,4,Jazz,76ers,107 - 111,0,N/A,N/A,N/A
+111,Rudy Gobert,FOUL_ON_FLOOR,None,16.3,4,Jazz,76ers,107 - 111,0,N/A,N/A,N/A
+112,Rudy Gobert,TURNOVER,None,16.3,4,Jazz,76ers,107 - 111,0,N/A,N/A,N/A
+113,Team,Unknown,None,16.3,4,76ers,Jazz,107 - 111,1,N/A,N/A,N/A
+114,Dante Exum,SUBSTITUTION,Gobert Rudy,16.3,4,Jazz,76ers,107 - 111,0,N/A,N/A,N/A
+115,Ricky Rubio,FOUL_ON_FLOOR,None,12.5,4,Jazz,76ers,107 - 111,0,N/A,N/A,N/A
+116,Joel Embiid,FT,None,12.5,4,76ers,Jazz,107 - 112,1,N/A,1,N/A
+117,Rudy Gobert,SUBSTITUTION,Exum Dante,12.5,4,Jazz,76ers,107 - 112,0,N/A,N/A,N/A
+118,Joel Embiid,FT,None,12.5,4,76ers,Jazz,107 - 113,1,N/A,1,N/A
+119,Donovan Mitchell,FG_MISS,None,8.7,4,Jazz,76ers,107 - 113,0,27,3,Jumper
+120,JJ Redick,DEFENSIVE_REBOUND,None,4.8,4,76ers,Jazz,107 - 113,1,N/A,N/A,N/A
+121,End of,Unknown,None,0.0,4,76ers,Jazz,107 - 113,1,N/A,N/A,N/A
+122,End of,Unknown,None,0.0,4,76ers,Jazz,107 - 113,1,N/A,N/A,N/A

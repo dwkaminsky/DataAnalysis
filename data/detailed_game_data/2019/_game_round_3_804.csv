@@ -1,0 +1,509 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Joel Embiid,JUMP_BALL,None,12:00,1,76ers,Nets,0 - 0,0,N/A,N/A,N/A
+1,Joel Embiid,FG_UNASSISTED,None,11:38,1,76ers,Nets,2 - 0,0,7,2,Jumper
+2,D'Angelo Russell,FG_MISS,None,11:21,1,Nets,76ers,2 - 0,1,23,2,Jumper
+3,Dario Saric,DEFENSIVE_REBOUND,None,11:19,1,76ers,Nets,2 - 0,0,N/A,N/A,N/A
+4,Joe Harris,FOUL_ON_FLOOR,None,11:07,1,Nets,76ers,2 - 0,1,N/A,N/A,N/A
+5,Joel Embiid,FT_MISS,None,11:07,1,76ers,Nets,2 - 0,0,N/A,1,N/A
+6,Team,OFFENSIVE_REBOUND,None,11:07,1,76ers,Nets,2 - 0,0,N/A,N/A,N/A
+7,Joel Embiid,FT,None,11:07,1,76ers,Nets,3 - 0,0,N/A,1,N/A
+8,Robert Covington,FOUL_ON_FLOOR,None,10:45,1,76ers,Nets,3 - 0,0,N/A,N/A,N/A
+9,Caris LeVert,FT,None,10:45,1,Nets,76ers,3 - 1,1,N/A,1,N/A
+10,Caris LeVert,FT,None,10:45,1,Nets,76ers,3 - 2,1,N/A,1,N/A
+11,Jared Dudley,FOUL_ON_FLOOR,None,10:30,1,Nets,76ers,3 - 2,1,N/A,N/A,N/A
+12,Robert Covington,FT_MISS,None,10:30,1,76ers,Nets,3 - 2,0,N/A,1,N/A
+13,Team,OFFENSIVE_REBOUND,None,10:30,1,76ers,Nets,3 - 2,0,N/A,N/A,N/A
+14,Robert Covington,FT,None,10:30,1,76ers,Nets,4 - 2,0,N/A,1,N/A
+15,Robert Covington,FT,None,10:30,1,76ers,Nets,5 - 2,0,N/A,1,N/A
+16,Jared Dudley,FG_ASSISTED,D'Angelo Russell,10:09,1,Nets,76ers,5 - 4,1,6,2,Jumper
+17,Markelle Fultz,FG_MISS,None,9:56,1,76ers,Nets,5 - 4,0,19,2,Jumper
+18,Caris LeVert,DEFENSIVE_REBOUND,None,9:53,1,Nets,76ers,5 - 4,1,N/A,N/A,N/A
+19,D'Angelo Russell,FG_UNASSISTED,None,9:48,1,Nets,76ers,5 - 6,1,-,2,Jumper
+20,Jarrett Allen,FOUL_ON_FLOOR,None,9:35,1,Nets,76ers,5 - 6,1,N/A,N/A,N/A
+21,Joel Embiid,FT,None,9:35,1,76ers,Nets,6 - 6,0,N/A,1,N/A
+22,Joel Embiid,FT,None,9:35,1,76ers,Nets,7 - 6,0,N/A,1,N/A
+23,Caris LeVert,FG_MISS,None,9:22,1,Nets,76ers,7 - 6,1,0,2,Layup
+24,Joel Embiid,DEFENSIVE_REBOUND,None,9:20,1,76ers,Nets,7 - 6,0,N/A,N/A,N/A
+25,Dario Saric,FG_MISS,None,9:12,1,76ers,Nets,7 - 6,0,25,3,Jumper
+26,Markelle Fultz,OFFENSIVE_REBOUND,None,9:08,1,76ers,Nets,7 - 6,0,N/A,N/A,N/A
+27,Robert Covington,TURNOVER,Jared Dudley,9:06,1,76ers,Nets,7 - 6,0,N/A,N/A,N/A
+28,Caris LeVert,FG_MISS,None,9:00,1,Nets,76ers,7 - 6,1,0,2,Layup
+29,Jarrett Allen,OFFENSIVE_REBOUND,None,9:00,1,Nets,76ers,7 - 6,1,N/A,N/A,N/A
+30,Dario Saric,FOUL_ON_FLOOR,None,9:00,1,76ers,Nets,7 - 6,0,N/A,N/A,N/A
+31,Jarrett Allen,FT,None,9:00,1,Nets,76ers,7 - 7,1,N/A,1,N/A
+32,Jarrett Allen,FT_MISS,None,9:00,1,Nets,76ers,7 - 7,1,N/A,1,N/A
+33,Joe Harris,OFFENSIVE_REBOUND,None,8:57,1,Nets,76ers,7 - 7,1,N/A,N/A,N/A
+34,D'Angelo Russell,TURNOVER,Ben Simmons,8:55,1,Nets,76ers,7 - 7,1,N/A,N/A,N/A
+35,Ben Simmons,TURNOVER,Caris LeVert,8:51,1,76ers,Nets,7 - 7,0,N/A,N/A,N/A
+36,D'Angelo Russell,FG_MISS,None,8:47,1,Nets,76ers,7 - 7,1,26,3,Jumper
+37,Joel Embiid,DEFENSIVE_REBOUND,None,8:43,1,76ers,Nets,7 - 7,0,N/A,N/A,N/A
+38,Joe Harris,FOUL_ON_FLOOR,None,8:37,1,Nets,76ers,7 - 7,1,N/A,N/A,N/A
+39,Ben Simmons,FT_MISS,None,8:37,1,76ers,Nets,7 - 7,0,N/A,1,N/A
+40,Team,OFFENSIVE_REBOUND,None,8:37,1,76ers,Nets,7 - 7,0,N/A,N/A,N/A
+41,Allen Crabbe,SUBSTITUTION,Harris Joe,8:37,1,Nets,76ers,7 - 7,1,N/A,N/A,N/A
+42,Ben Simmons,FT,None,8:37,1,76ers,Nets,8 - 7,0,N/A,1,N/A
+43,Jared Dudley,FG_MISS,None,8:30,1,Nets,76ers,8 - 7,1,25,3,Jumper
+44,Ben Simmons,DEFENSIVE_REBOUND,None,8:27,1,76ers,Nets,8 - 7,0,N/A,N/A,N/A
+45,Ben Simmons,TURNOVER,Caris LeVert,8:21,1,76ers,Nets,8 - 7,0,N/A,N/A,N/A
+46,D'Angelo Russell,FG_MISS,None,8:05,1,Nets,76ers,8 - 7,1,0,2,Layup
+47,D'Angelo Russell,OFFENSIVE_REBOUND,None,8:03,1,Nets,76ers,8 - 7,1,N/A,N/A,N/A
+48,Jarrett Allen,FG_MISS,None,8:00,1,Nets,76ers,8 - 7,1,0,2,Layup
+49,Jarrett Allen,OFFENSIVE_REBOUND,None,7:57,1,Nets,76ers,8 - 7,1,N/A,N/A,N/A
+50,Jarrett Allen,FG_MISS,None,7:57,1,Nets,76ers,8 - 7,1,-,2,Jumper
+51,Jarrett Allen,OFFENSIVE_REBOUND,None,7:57,1,Nets,76ers,8 - 7,1,N/A,N/A,N/A
+52,Allen Crabbe,FG_MISS,None,7:55,1,Nets,76ers,8 - 7,1,26,3,Jumper
+53,Ben Simmons,DEFENSIVE_REBOUND,None,7:52,1,76ers,Nets,8 - 7,0,N/A,N/A,N/A
+54,Dario Saric,FOUL_ON_FLOOR,None,7:46,1,76ers,Nets,8 - 7,0,N/A,N/A,N/A
+55,Dario Saric,TURNOVER,None,7:46,1,76ers,Nets,8 - 7,0,N/A,N/A,N/A
+56,Caris LeVert,FG_ASSISTED,D'Angelo Russell,7:28,1,Nets,76ers,8 - 10,1,25,3,Jumper
+57,Robert Covington,FG_ASSISTED,Joel Embiid,7:12,1,76ers,Nets,10 - 10,0,0,2,Layup
+58,Caris LeVert,FG_MISS,None,6:57,1,Nets,76ers,10 - 10,1,0,2,Layup
+59,Robert Covington,DEFENSIVE_REBOUND,None,6:54,1,76ers,Nets,10 - 10,0,N/A,N/A,N/A
+60,Ben Simmons,FG_MISS,None,6:44,1,76ers,Nets,10 - 10,0,9,2,Jumper
+61,Markelle Fultz,OFFENSIVE_REBOUND,None,6:42,1,76ers,Nets,10 - 10,0,N/A,N/A,N/A
+62,Markelle Fultz,FG_UNASSISTED,None,6:42,1,76ers,Nets,12 - 10,0, ,2,Jumper
+63,Team,Unknown,None,6:42,1,Nets,76ers,12 - 10,1,N/A,N/A,N/A
+64,JJ Redick,SUBSTITUTION,Saric Dario,6:42,1,76ers,Nets,12 - 10,0,N/A,N/A,N/A
+65,Mike Muscala,SUBSTITUTION,Fultz Markelle,6:42,1,76ers,Nets,12 - 10,0,N/A,N/A,N/A
+66,Amir Johnson,SUBSTITUTION,Embiid Joel,6:42,1,76ers,Nets,12 - 10,0,N/A,N/A,N/A
+67,Allen Crabbe,FG_MISS,None,6:25,1,Nets,76ers,12 - 10,1,25,3,Jumper
+68,Ben Simmons,DEFENSIVE_REBOUND,None,6:24,1,76ers,Nets,12 - 10,0,N/A,N/A,N/A
+69,Amir Johnson,FOUL_ON_FLOOR,None,6:17,1,76ers,Nets,12 - 10,0,N/A,N/A,N/A
+70,Amir Johnson,TURNOVER,None,6:17,1,76ers,Nets,12 - 10,0,N/A,N/A,N/A
+71,Caris LeVert,TURNOVER,Robert Covington,6:02,1,Nets,76ers,12 - 10,1,N/A,N/A,N/A
+72,Robert Covington,FG_MISS,Jarrett Allen,5:57,1,Nets,76ers,12 - 10,0,4,2,Jumper
+73,Ben Simmons,OFFENSIVE_REBOUND,None,5:54,1,76ers,Nets,12 - 10,0,N/A,N/A,N/A
+74,Ben Simmons,FG_UNASSISTED,None,5:53,1,76ers,Nets,14 - 10,0, ,2,Jumper
+75,Allen Crabbe,FG_MISS,None,5:40,1,Nets,76ers,14 - 10,1,20,2,Jumper
+76,Ben Simmons,DEFENSIVE_REBOUND,None,5:37,1,76ers,Nets,14 - 10,0,N/A,N/A,N/A
+77,Ben Simmons,TURNOVER,D'Angelo Russell,5:33,1,76ers,Nets,14 - 10,0,N/A,N/A,N/A
+78,D'Angelo Russell,FG_UNASSISTED,None,5:28,1,Nets,76ers,14 - 12,1, ,2,Jumper
+79,Amir Johnson,TURNOVER,None,5:13,1,76ers,Nets,14 - 12,0,N/A,N/A,N/A
+80,Rondae Hollis-Jefferson,SUBSTITUTION,Dudley Jared,5:13,1,Nets,76ers,14 - 12,1,N/A,N/A,N/A
+81,D'Angelo Russell,FG_MISS,None,5:02,1,Nets,76ers,14 - 12,1,11,2,Jumper
+82,Ben Simmons,DEFENSIVE_REBOUND,None,5:00,1,76ers,Nets,14 - 12,0,N/A,N/A,N/A
+83,Amir Johnson,FG_MISS,None,4:52,1,76ers,Nets,14 - 12,0,0,2,Layup
+84,Rondae Hollis-Jefferson,DEFENSIVE_REBOUND,None,4:50,1,Nets,76ers,14 - 12,1,N/A,N/A,N/A
+85,Caris LeVert,TURNOVER,Ben Simmons,4:46,1,Nets,76ers,14 - 12,1,N/A,N/A,N/A
+86,Robert Covington,FG_MISS,None,4:40,1,76ers,Nets,14 - 12,0,23,3,Jumper
+87,Team,DEFENSIVE_REBOUND,None,4:39,1,Nets,76ers,14 - 12,1,N/A,N/A,N/A
+88,Spencer Dinwiddie,SUBSTITUTION,Russell D'Angelo,4:39,1,Nets,76ers,14 - 12,1,N/A,N/A,N/A
+89,Ed Davis,SUBSTITUTION,Allen Jarrett,4:39,1,Nets,76ers,14 - 12,1,N/A,N/A,N/A
+90,Caris LeVert,FG_MISS,None,4:20,1,Nets,76ers,14 - 12,1,0,2,Layup
+91,Team,OFFENSIVE_REBOUND,None,4:20,1,Nets,76ers,14 - 12,1,N/A,N/A,N/A
+92,Markelle Fultz,SUBSTITUTION,Johnson Amir,4:20,1,76ers,Nets,14 - 12,0,N/A,N/A,N/A
+93,Joel Embiid,SUBSTITUTION,Simmons Ben,4:20,1,76ers,Nets,14 - 12,0,N/A,N/A,N/A
+94,Rondae Hollis-Jefferson,FG_MISS,Joel Embiid,4:18,1,76ers,Nets,14 - 12,1,0,2,Dunk
+95,Caris LeVert,OFFENSIVE_REBOUND,None,4:15,1,Nets,76ers,14 - 12,1,N/A,N/A,N/A
+96,Caris LeVert,FG_MISS,None,4:14,1,Nets,76ers,14 - 12,1,11,2,Jumper
+97,Robert Covington,DEFENSIVE_REBOUND,None,4:14,1,76ers,Nets,14 - 12,0,N/A,N/A,N/A
+98,JJ Redick,FG_ASSISTED,Mike Muscala,4:05,1,76ers,Nets,16 - 12,0,0,2,Layup
+99,Caris LeVert,FG_UNASSISTED,None,3:46,1,Nets,76ers,16 - 14,1, ,2,Jumper
+100,Team,Unknown,None,3:46,1,76ers,Nets,16 - 14,0,N/A,N/A,N/A
+101,Ed Davis,FOUL_ON_FLOOR,None,3:29,1,Nets,76ers,16 - 14,1,N/A,N/A,N/A
+102,Joel Embiid,FT,None,3:29,1,76ers,Nets,17 - 14,0,N/A,1,N/A
+103,Joel Embiid,FT,None,3:29,1,76ers,Nets,18 - 14,0,N/A,1,N/A
+104,Spencer Dinwiddie,FG_MISS,None,3:11,1,Nets,76ers,18 - 14,1,0,2,Layup
+105,Markelle Fultz,DEFENSIVE_REBOUND,None,3:10,1,76ers,Nets,18 - 14,0,N/A,N/A,N/A
+106,JJ Redick,FG_MISS,None,3:07,1,76ers,Nets,18 - 14,0,27,3,Jumper
+107,Spencer Dinwiddie,DEFENSIVE_REBOUND,None,3:03,1,Nets,76ers,18 - 14,1,N/A,N/A,N/A
+108,Markelle Fultz,FOUL_ON_FLOOR,None,2:55,1,76ers,Nets,18 - 14,0,N/A,N/A,N/A
+109,Rondae Hollis-Jefferson,FT,None,2:55,1,Nets,76ers,18 - 15,1,N/A,1,N/A
+110,Shabazz Napier,SUBSTITUTION,LeVert Caris,2:55,1,Nets,76ers,18 - 15,1,N/A,N/A,N/A
+111,Landry Shamet,SUBSTITUTION,Covington Robert,2:55,1,76ers,Nets,18 - 15,0,N/A,N/A,N/A
+112,Rondae Hollis-Jefferson,FT,None,2:55,1,Nets,76ers,18 - 16,1,N/A,1,N/A
+113,JJ Redick,TURNOVER,None,2:44,1,76ers,Nets,18 - 16,0,N/A,N/A,N/A
+114,Spencer Dinwiddie,FG_MISS,None,2:26,1,Nets,76ers,18 - 16,1, ,2,Jumper
+115,Team,OFFENSIVE_REBOUND,None,2:26,1,Nets,76ers,18 - 16,1,N/A,N/A,N/A
+116,Spencer Dinwiddie,FG_MISS,None,2:21,1,Nets,76ers,18 - 16,1,22,2,Jumper
+117,Joel Embiid,DEFENSIVE_REBOUND,None,2:19,1,76ers,Nets,18 - 16,0,N/A,N/A,N/A
+118,Spencer Dinwiddie,FOUL_ON_FLOOR,None,2:13,1,Nets,76ers,18 - 16,1,N/A,N/A,N/A
+119,Markelle Fultz,FT_MISS,None,2:13,1,76ers,Nets,18 - 16,0,N/A,1,N/A
+120,Team,OFFENSIVE_REBOUND,None,2:13,1,76ers,Nets,18 - 16,0,N/A,N/A,N/A
+121,Markelle Fultz,FT,None,2:13,1,76ers,Nets,19 - 16,0,N/A,1,N/A
+122,Shabazz Napier,FG_MISS,None,1:54,1,Nets,76ers,19 - 16,1,25,3,Jumper
+123,Joel Embiid,DEFENSIVE_REBOUND,None,1:52,1,76ers,Nets,19 - 16,0,N/A,N/A,N/A
+124,Joel Embiid,TURNOVER,Allen Crabbe,1:42,1,76ers,Nets,19 - 16,0,N/A,N/A,N/A
+125,Rondae Hollis-Jefferson,FG_MISS,None,1:36,1,Nets,76ers,19 - 16,1,0,2,Layup
+126,Mike Muscala,DEFENSIVE_REBOUND,None,1:33,1,76ers,Nets,19 - 16,0,N/A,N/A,N/A
+127,Landry Shamet,FG_MISS,None,1:29,1,76ers,Nets,19 - 16,0,25,3,Jumper
+128,Mike Muscala,OFFENSIVE_REBOUND,None,1:29,1,76ers,Nets,19 - 16,0,N/A,N/A,N/A
+129,Mike Muscala,TURNOVER,Allen Crabbe,1:24,1,76ers,Nets,19 - 16,0,N/A,N/A,N/A
+130,Shabazz Napier,FG_MISS,None,1:08,1,Nets,76ers,19 - 16,1,28,3,Jumper
+131,Joel Embiid,DEFENSIVE_REBOUND,None,1:05,1,76ers,Nets,19 - 16,0,N/A,N/A,N/A
+132,Joel Embiid,FG_UNASSISTED,None,55.8,1,76ers,Nets,21 - 16,0,19,2,Jumper
+133,Markelle Fultz,FOUL_ON_FLOOR,None,35.1,1,76ers,Nets,21 - 16,0,N/A,N/A,N/A
+134,Spencer Dinwiddie,FT_MISS,None,35.1,1,Nets,76ers,21 - 16,1,N/A,1,N/A
+135,Team,OFFENSIVE_REBOUND,None,35.1,1,Nets,76ers,21 - 16,1,N/A,N/A,N/A
+136,Spencer Dinwiddie,FT,None,35.1,1,Nets,76ers,21 - 17,1,N/A,1,N/A
+137,Jared Dudley,SUBSTITUTION,Hollis-Jefferson Rondae,35.1,1,Nets,76ers,21 - 17,1,N/A,N/A,N/A
+138,Spencer Dinwiddie,FT,None,35.1,1,Nets,76ers,21 - 18,1,N/A,1,N/A
+139,JJ Redick,FG_MISS,None,27.2,1,76ers,Nets,21 - 18,0,26,3,Jumper
+140,Ed Davis,DEFENSIVE_REBOUND,None,23.7,1,Nets,76ers,21 - 18,1,N/A,N/A,N/A
+141,Spencer Dinwiddie,FG_MISS,None,0.7,1,Nets,76ers,21 - 18,1, ,2,Jumper
+142,Team,OFFENSIVE_REBOUND,None,0.7,1,Nets,76ers,21 - 18,1,N/A,N/A,N/A
+143,End of,Unknown,None,0.0,1,Nets,76ers,21 - 18,1,N/A,N/A,N/A
+0,Joe Harris,SUBSTITUTION,Dudley Jared,12:00,2,Nets,76ers,21 - 18,1,N/A,N/A,N/A
+1,Dario Saric,SUBSTITUTION,Muscala Mike,12:00,2,76ers,Nets,21 - 18,0,N/A,N/A,N/A
+2,Allen Crabbe,FG_MISS,None,11:45,2,Nets,76ers,21 - 18,1,24,3,Jumper
+3,Joel Embiid,DEFENSIVE_REBOUND,None,11:41,2,76ers,Nets,21 - 18,0,N/A,N/A,N/A
+4,JJ Redick,TURNOVER,Ed Davis,11:33,2,76ers,Nets,21 - 18,0,N/A,N/A,N/A
+5,Ed Davis,FG_ASSISTED,Shabazz Napier,11:20,2,Nets,76ers,21 - 20,1,0,2,Dunk
+6,Ed Davis,FOUL_ON_FLOOR,None,11:01,2,Nets,76ers,21 - 20,1,N/A,N/A,N/A
+7,Robert Covington,SUBSTITUTION,Shamet Landry,11:01,2,76ers,Nets,21 - 20,0,N/A,N/A,N/A
+8,Spencer Dinwiddie,FOUL_ON_FLOOR,None,10:59,2,Nets,76ers,21 - 20,1,N/A,N/A,N/A
+9,Joel Embiid,FG_UNASSISTED,None,10:46,2,76ers,Nets,23 - 20,0,0,2,Layup
+10,Joe Harris,FG_ASSISTED,Spencer Dinwiddie,10:24,2,Nets,76ers,23 - 22,1,18,2,Jumper
+11,Ed Davis,FOUL_ON_FLOOR,None,10:09,2,Nets,76ers,23 - 22,1,N/A,N/A,N/A
+12,Rondae Hollis-Jefferson,SUBSTITUTION,Davis Ed,10:09,2,Nets,76ers,23 - 22,1,N/A,N/A,N/A
+13,Dario Saric,FG_ASSISTED,Robert Covington,10:06,2,76ers,Nets,25 - 22,0,0,2,Layup
+14,Joe Harris,FG_MISS,None,9:49,2,Nets,76ers,25 - 22,1,25,3,Jumper
+15,JJ Redick,DEFENSIVE_REBOUND,None,9:46,2,76ers,Nets,25 - 22,0,N/A,N/A,N/A
+16,Robert Covington,TURNOVER,None,9:41,2,76ers,Nets,25 - 22,0,N/A,N/A,N/A
+17,Rondae Hollis-Jefferson,FG_ASSISTED,Spencer Dinwiddie,9:23,2,Nets,76ers,25 - 24,1,0,2,Layup
+18,Joel Embiid,FOUL_ON_FLOOR,None,9:23,2,76ers,Nets,25 - 24,0,N/A,N/A,N/A
+19,Landry Shamet,SUBSTITUTION,Redick JJ,9:23,2,76ers,Nets,25 - 24,0,N/A,N/A,N/A
+20,Rondae Hollis-Jefferson,FT,None,9:23,2,Nets,76ers,25 - 25,1,N/A,1,N/A
+21,Robert Covington,FOUL_ON_FLOOR,None,9:15,2,76ers,Nets,25 - 25,0,N/A,N/A,N/A
+22,Robert Covington,TURNOVER,None,9:15,2,76ers,Nets,25 - 25,0,N/A,N/A,N/A
+23,Spencer Dinwiddie,FG_UNASSISTED,None,8:58,2,Nets,76ers,25 - 27,1,2,2,Jumper
+24,Team,Unknown,None,8:58,2,76ers,Nets,25 - 27,0,N/A,N/A,N/A
+25,Ben Simmons,SUBSTITUTION,Fultz Markelle,8:58,2,76ers,Nets,25 - 27,0,N/A,N/A,N/A
+26,Landry Shamet,FG_MISS,None,8:37,2,76ers,Nets,25 - 27,0,25,3,Jumper
+27,Ben Simmons,OFFENSIVE_REBOUND,None,8:34,2,76ers,Nets,25 - 27,0,N/A,N/A,N/A
+28,Dario Saric,FG_ASSISTED,Ben Simmons,8:32,2,76ers,Nets,27 - 27,0,15,2,Jumper
+29,Allen Crabbe,FG_MISS,None,8:09,2,Nets,76ers,27 - 27,1,25,3,Jumper
+30,Dario Saric,DEFENSIVE_REBOUND,None,8:06,2,76ers,Nets,27 - 27,0,N/A,N/A,N/A
+31,Allen Crabbe,FOUL_ON_FLOOR,None,8:03,2,Nets,76ers,27 - 27,1,N/A,N/A,N/A
+32,Ben Simmons,FT_MISS,None,8:03,2,76ers,Nets,27 - 27,0,N/A,1,N/A
+33,Team,OFFENSIVE_REBOUND,None,8:03,2,76ers,Nets,27 - 27,0,N/A,N/A,N/A
+34,Amir Johnson,SUBSTITUTION,Embiid Joel,8:03,2,76ers,Nets,27 - 27,0,N/A,N/A,N/A
+35,Ben Simmons,FT,None,8:03,2,76ers,Nets,28 - 27,0,N/A,1,N/A
+36,Amir Johnson,FOUL_ON_FLOOR,None,7:46,2,76ers,Nets,28 - 27,0,N/A,N/A,N/A
+37,Jared Dudley,SUBSTITUTION,Napier Shabazz,7:46,2,Nets,76ers,28 - 27,1,N/A,N/A,N/A
+38,Rondae Hollis-Jefferson,FG_MISS,None,7:39,2,Nets,76ers,28 - 27,1,8,2,Jumper
+39,Ben Simmons,DEFENSIVE_REBOUND,None,7:36,2,76ers,Nets,28 - 27,0,N/A,N/A,N/A
+40,Ben Simmons,TURNOVER,None,7:32,2,76ers,Nets,28 - 27,0,N/A,N/A,N/A
+41,Rondae Hollis-Jefferson,FG_ASSISTED,Jared Dudley,7:21,2,Nets,76ers,28 - 29,1,6,2,Jumper
+42,Ben Simmons,FG_UNASSISTED,None,7:07,2,76ers,Nets,30 - 29,0,7,2,Jumper
+43,Amir Johnson,FOUL_ON_FLOOR,None,6:58,2,76ers,Nets,30 - 29,0,N/A,N/A,N/A
+44,Rondae Hollis-Jefferson,FT_MISS,None,6:58,2,Nets,76ers,30 - 29,1,N/A,1,N/A
+45,Team,OFFENSIVE_REBOUND,None,6:58,2,Nets,76ers,30 - 29,1,N/A,N/A,N/A
+46,D'Angelo Russell,SUBSTITUTION,Dinwiddie Spencer,6:58,2,Nets,76ers,30 - 29,1,N/A,N/A,N/A
+47,Rondae Hollis-Jefferson,FT_MISS,None,6:58,2,Nets,76ers,30 - 29,1,N/A,1,N/A
+48,Amir Johnson,DEFENSIVE_REBOUND,None,6:58,2,76ers,Nets,30 - 29,0,N/A,N/A,N/A
+49,Allen Crabbe,FOUL_ON_FLOOR,None,6:48,2,Nets,76ers,30 - 29,1,N/A,N/A,N/A
+50,Landry Shamet,FT_MISS,None,6:48,2,76ers,Nets,30 - 29,0,N/A,1,N/A
+51,Team,OFFENSIVE_REBOUND,None,6:48,2,76ers,Nets,30 - 29,0,N/A,N/A,N/A
+52,Jarrett Allen,SUBSTITUTION,Hollis-Jefferson Rondae,6:48,2,Nets,76ers,30 - 29,1,N/A,N/A,N/A
+53,Landry Shamet,FT,None,6:48,2,76ers,Nets,31 - 29,0,N/A,1,N/A
+54,D'Angelo Russell,FG_MISS,None,6:29,2,Nets,76ers,31 - 29,1,0,2,Layup
+55,Team,OFFENSIVE_REBOUND,None,6:27,2,Nets,76ers,31 - 29,1,N/A,N/A,N/A
+56,Caris LeVert,SUBSTITUTION,Crabbe Allen,6:27,2,Nets,76ers,31 - 29,1,N/A,N/A,N/A
+57,Mike Muscala,SUBSTITUTION,Saric Dario,6:27,2,76ers,Nets,31 - 29,0,N/A,N/A,N/A
+58,Jared Dudley,FG_ASSISTED,Joe Harris,6:23,2,Nets,76ers,31 - 31,1,21,2,Jumper
+59,Ben Simmons,FG_MISS,None,6:05,2,76ers,Nets,31 - 31,0,0,2,Layup
+60,Jarrett Allen,DEFENSIVE_REBOUND,None,6:03,2,Nets,76ers,31 - 31,1,N/A,N/A,N/A
+61,Caris LeVert,FG_UNASSISTED,None,5:51,2,Nets,76ers,31 - 33,1,6,2,Jumper
+62,Amir Johnson,FOUL_ON_FLOOR,None,5:51,2,76ers,Nets,31 - 33,0,N/A,N/A,N/A
+63,Joel Embiid,SUBSTITUTION,Johnson Amir,5:51,2,76ers,Nets,31 - 33,0,N/A,N/A,N/A
+64,Caris LeVert,FT_MISS,None,5:51,2,Nets,76ers,31 - 33,1,N/A,1,N/A
+65,Joel Embiid,DEFENSIVE_REBOUND,None,5:48,2,76ers,Nets,31 - 33,0,N/A,N/A,N/A
+66,Jarrett Allen,FOUL_ON_FLOOR,None,5:42,2,Nets,76ers,31 - 33,1,N/A,N/A,N/A
+67,Joel Embiid,FT,None,5:42,2,76ers,Nets,32 - 33,0,N/A,1,N/A
+68,Ed Davis,SUBSTITUTION,Allen Jarrett,5:42,2,Nets,76ers,32 - 33,1,N/A,N/A,N/A
+69,Joel Embiid,FT,None,5:42,2,76ers,Nets,33 - 33,0,N/A,1,N/A
+70,D'Angelo Russell,FG_MISS,None,5:30,2,Nets,76ers,33 - 33,1,26,3,Jumper
+71,Ben Simmons,DEFENSIVE_REBOUND,None,5:25,2,76ers,Nets,33 - 33,0,N/A,N/A,N/A
+72,Robert Covington,FG_MISS,None,5:22,2,76ers,Nets,33 - 33,0,25,3,Jumper
+73,Team,DEFENSIVE_REBOUND,None,5:20,2,Nets,76ers,33 - 33,1,N/A,N/A,N/A
+74,Caris LeVert,FG_MISS,None,4:56,2,Nets,76ers,33 - 33,1,25,3,Jumper
+75,Landry Shamet,DEFENSIVE_REBOUND,None,4:53,2,76ers,Nets,33 - 33,0,N/A,N/A,N/A
+76,Ben Simmons,TURNOVER,None,4:50,2,76ers,Nets,33 - 33,0,N/A,N/A,N/A
+77,Team,Unknown,None,4:50,2,Nets,76ers,33 - 33,1,N/A,N/A,N/A
+78,Jarrett Allen,SUBSTITUTION,Davis Ed,4:50,2,Nets,76ers,33 - 33,1,N/A,N/A,N/A
+79,Joe Harris,TURNOVER,Ben Simmons,4:33,2,Nets,76ers,33 - 33,1,N/A,N/A,N/A
+80,Ben Simmons,FG_UNASSISTED,None,4:29,2,76ers,Nets,35 - 33,0,0,2,Dunk
+81,D'Angelo Russell,FG_MISS,None,4:15,2,Nets,76ers,35 - 33,1, ,2,Jumper
+82,Joel Embiid,DEFENSIVE_REBOUND,None,4:13,2,76ers,Nets,35 - 33,0,N/A,N/A,N/A
+83,Robert Covington,TURNOVER,Jarrett Allen,4:04,2,76ers,Nets,35 - 33,0,N/A,N/A,N/A
+84,D'Angelo Russell,FG_MISS,None,3:57,2,Nets,76ers,35 - 33,1,0,2,Layup
+85,Jared Dudley,OFFENSIVE_REBOUND,None,3:53,2,Nets,76ers,35 - 33,1,N/A,N/A,N/A
+86,Jared Dudley,FG_MISS,None,3:53,2,Nets,76ers,35 - 33,1, ,2,Jumper
+87,Joel Embiid,DEFENSIVE_REBOUND,None,3:52,2,76ers,Nets,35 - 33,0,N/A,N/A,N/A
+88,Ben Simmons,FG_UNASSISTED,None,3:49,2,76ers,Nets,37 - 33,0,4,2,Jumper
+89,Caris LeVert,FG_UNASSISTED,None,3:29,2,Nets,76ers,37 - 35,1,7,2,Jumper
+90,Caris LeVert,FOUL_ON_FLOOR,None,3:18,2,Nets,76ers,37 - 35,1,N/A,N/A,N/A
+91,Ben Simmons,FT_MISS,None,3:18,2,76ers,Nets,37 - 35,0,N/A,1,N/A
+92,Team,OFFENSIVE_REBOUND,None,3:18,2,76ers,Nets,37 - 35,0,N/A,N/A,N/A
+93,Rondae Hollis-Jefferson,SUBSTITUTION,Russell D'Angelo,3:18,2,Nets,76ers,37 - 35,1,N/A,N/A,N/A
+94,Spencer Dinwiddie,SUBSTITUTION,Dudley Jared,3:18,2,Nets,76ers,37 - 35,1,N/A,N/A,N/A
+95,JJ Redick,SUBSTITUTION,for game,3:18,2,76ers,Nets,37 - 35,0,N/A,N/A,N/A
+96,enters the,SUBSTITUTION,Covington Robert,3:18,2,76ers,Nets,37 - 35,0,N/A,N/A,N/A
+97,Ben Simmons,FT,None,3:18,2,76ers,Nets,38 - 35,0,N/A,1,N/A
+98,Spencer Dinwiddie,FG_UNASSISTED,None,2:57,2,Nets,76ers,38 - 38,1,26,2,Jumper
+99,Ben Simmons,FG_ASSISTED,JJ Redick,2:45,2,76ers,Nets,40 - 38,0,0,2,Dunk
+100,Caris LeVert,FG_UNASSISTED,None,2:27,2,Nets,76ers,40 - 40,1,0,2,Layup
+101,Joel Embiid,Unknown,None,2:27,2,76ers,Nets,40 - 40,0,N/A,N/A,N/A
+102,Joel Embiid,FOUL_ON_FLOOR,None,2:27,2,76ers,Nets,40 - 40,0,N/A,N/A,N/A
+103,D'Angelo Russell,SUBSTITUTION,Harris Joe,2:27,2,Nets,76ers,40 - 40,1,N/A,N/A,N/A
+104,Caris LeVert,FT,None,2:27,2,Nets,76ers,40 - 41,1,N/A,1,N/A
+105,JJ Redick,FG_UNASSISTED,None,2:11,2,76ers,Nets,42 - 41,0,13,2,Jumper
+106,D'Angelo Russell,FG_UNASSISTED,None,2:02,2,Nets,76ers,42 - 43,1,7,2,Jumper
+107,JJ Redick,FG_ASSISTED,Ben Simmons,1:52,2,76ers,Nets,44 - 43,0,19,2,Jumper
+108,Jarrett Allen,FG_ASSISTED,D'Angelo Russell,1:41,2,Nets,76ers,44 - 45,1,5,2,Jumper
+109,D'Angelo Russell,FOUL_ON_FLOOR,None,1:31,2,Nets,76ers,44 - 45,1,N/A,N/A,N/A
+110,Landry Shamet,FT,None,1:31,2,76ers,Nets,45 - 45,0,N/A,1,N/A
+111,Landry Shamet,FT,None,1:31,2,76ers,Nets,46 - 45,0,N/A,1,N/A
+112,Landry Shamet,FT,None,1:31,2,76ers,Nets,47 - 45,0,N/A,1,N/A
+113,Caris LeVert,FG_UNASSISTED,None,1:18,2,Nets,76ers,47 - 47,1, ,2,Jumper
+114,Joel Embiid,FG_MISS,None,1:08,2,76ers,Nets,47 - 47,0,25,3,Jumper
+115,Caris LeVert,DEFENSIVE_REBOUND,None,1:06,2,Nets,76ers,47 - 47,1,N/A,N/A,N/A
+116,Caris LeVert,FG_MISS,None,1:01,2,Nets,76ers,47 - 47,1,25,3,Jumper
+117,Ben Simmons,DEFENSIVE_REBOUND,None,1:01,2,76ers,Nets,47 - 47,0,N/A,N/A,N/A
+118,Joel Embiid,FOUL_ON_FLOOR,None,51.0,2,76ers,Nets,47 - 47,0,N/A,N/A,N/A
+119,Joel Embiid,TURNOVER,None,51.0,2,76ers,Nets,47 - 47,0,N/A,N/A,N/A
+120,Dario Saric,SUBSTITUTION,Embiid Joel,51.0,2,76ers,Nets,47 - 47,0,N/A,N/A,N/A
+121,Caris LeVert,FG_ASSISTED,Spencer Dinwiddie,38.9,2,Nets,76ers,47 - 49,1,2,2,Jumper
+122,JJ Redick,FG_MISS,None,22.7,2,76ers,Nets,47 - 49,0,23,3,Jumper
+123,Jarrett Allen,DEFENSIVE_REBOUND,None,19.5,2,Nets,76ers,47 - 49,1,N/A,N/A,N/A
+124,D'Angelo Russell,FG_UNASSISTED,None,2.3,2,Nets,76ers,47 - 51,1,13,2,Jumper
+125,End of,Unknown,None,0.0,2,Nets,76ers,47 - 51,1,N/A,N/A,N/A
+0,Jared Dudley,SUBSTITUTION,Dinwiddie Spencer,12:00,3,Nets,76ers,47 - 51,1,N/A,N/A,N/A
+1,Joe Harris,SUBSTITUTION,Hollis-Jefferson Rondae,12:00,3,Nets,76ers,47 - 51,1,N/A,N/A,N/A
+2,Joel Embiid,SUBSTITUTION,Shamet Landry,12:00,3,76ers,Nets,47 - 51,0,N/A,N/A,N/A
+3,Robert Covington,SUBSTITUTION,Muscala Mike,12:00,3,76ers,Nets,47 - 51,0,N/A,N/A,N/A
+4,Caris LeVert,FG_ASSISTED,D'Angelo Russell,11:35,3,Nets,76ers,47 - 53,1,0,2,Layup
+5,D'Angelo Russell,FOUL_ON_FLOOR,None,11:27,3,Nets,76ers,47 - 53,1,N/A,N/A,N/A
+6,Dario Saric,FT,None,11:27,3,76ers,Nets,48 - 53,0,N/A,1,N/A
+7,Dario Saric,FT,None,11:27,3,76ers,Nets,49 - 53,0,N/A,1,N/A
+8,Jarrett Allen,FG_ASSISTED,Joe Harris,11:10,3,Nets,76ers,49 - 55,1, ,2,Jumper
+9,JJ Redick,FG_MISS,None,11:02,3,76ers,Nets,49 - 55,0,25,3,Jumper
+10,Jarrett Allen,DEFENSIVE_REBOUND,None,11:02,3,Nets,76ers,49 - 55,1,N/A,N/A,N/A
+11,D'Angelo Russell,FG_MISS,None,10:51,3,Nets,76ers,49 - 55,1,25,3,Jumper
+12,Joel Embiid,DEFENSIVE_REBOUND,None,10:48,3,76ers,Nets,49 - 55,0,N/A,N/A,N/A
+13,Joel Embiid,FG_MISS,None,10:41,3,76ers,Nets,49 - 55,0,0,2,Layup
+14,Dario Saric,OFFENSIVE_REBOUND,None,10:41,3,76ers,Nets,49 - 55,0,N/A,N/A,N/A
+15,Jared Dudley,FOUL_ON_FLOOR,None,10:41,3,Nets,76ers,49 - 55,1,N/A,N/A,N/A
+16,Jared Dudley,FOUL_ON_FLOOR,None,10:27,3,Nets,76ers,49 - 55,1,N/A,N/A,N/A
+17,Ben Simmons,FT_MISS,None,10:27,3,76ers,Nets,49 - 55,0,N/A,1,N/A
+18,Team,OFFENSIVE_REBOUND,None,10:27,3,76ers,Nets,49 - 55,0,N/A,N/A,N/A
+19,Ben Simmons,FT_MISS,None,10:27,3,76ers,Nets,49 - 55,0,N/A,1,N/A
+20,Jared Dudley,DEFENSIVE_REBOUND,None,10:24,3,Nets,76ers,49 - 55,1,N/A,N/A,N/A
+21,Jared Dudley,TURNOVER,Ben Simmons,10:06,3,Nets,76ers,49 - 55,1,N/A,N/A,N/A
+22,Ben Simmons,FG_UNASSISTED,None,10:03,3,76ers,Nets,51 - 55,0, ,2,Jumper
+23,Team,Unknown,None,10:02,3,76ers,Nets,51 - 55,0,N/A,N/A,N/A
+24,Caris LeVert,FG_MISS,None,9:45,3,Nets,76ers,51 - 55,1,15,2,Jumper
+25,Joel Embiid,DEFENSIVE_REBOUND,None,9:43,3,76ers,Nets,51 - 55,0,N/A,N/A,N/A
+26,Joel Embiid,FG_UNASSISTED,None,9:27,3,76ers,Nets,53 - 55,0,7,2,Jumper
+27,D'Angelo Russell,FG_UNASSISTED,None,9:18,3,Nets,76ers,53 - 57,1,11,2,Jumper
+28,Robert Covington,FG_MISS,None,9:00,3,76ers,Nets,53 - 57,0, ,3,Jumper
+29,Team,OFFENSIVE_REBOUND,None,8:59,3,76ers,Nets,53 - 57,0,N/A,N/A,N/A
+30,Jared Dudley,FOUL_ON_FLOOR,None,8:59,3,Nets,76ers,53 - 57,1,N/A,N/A,N/A
+31,Rondae Hollis-Jefferson,SUBSTITUTION,Dudley Jared,8:59,3,Nets,76ers,53 - 57,1,N/A,N/A,N/A
+32,JJ Redick,FG_ASSISTED,Joel Embiid,8:50,3,76ers,Nets,55 - 57,0,19,2,Jumper
+33,D'Angelo Russell,FG_MISS,None,8:25,3,Nets,76ers,55 - 57,1,28,3,Jumper
+34,Robert Covington,DEFENSIVE_REBOUND,None,8:23,3,76ers,Nets,55 - 57,0,N/A,N/A,N/A
+35,Dario Saric,FG_MISS,None,8:11,3,76ers,Nets,55 - 57,0,21,2,Jumper
+36,Rondae Hollis-Jefferson,DEFENSIVE_REBOUND,None,8:06,3,Nets,76ers,55 - 57,1,N/A,N/A,N/A
+37,Rondae Hollis-Jefferson,FG_MISS,None,8:02,3,Nets,76ers,55 - 57,1, ,2,Jumper
+38,Jarrett Allen,OFFENSIVE_REBOUND,None,7:59,3,Nets,76ers,55 - 57,1,N/A,N/A,N/A
+39,Jarrett Allen,FG_UNASSISTED,None,7:59,3,Nets,76ers,55 - 59,1, ,2,Jumper
+40,Dario Saric,FG_MISS,None,7:53,3,76ers,Nets,55 - 59,0,25,3,Jumper
+41,Rondae Hollis-Jefferson,DEFENSIVE_REBOUND,None,7:49,3,Nets,76ers,55 - 59,1,N/A,N/A,N/A
+42,Joe Harris,FG_MISS,None,7:35,3,Nets,76ers,55 - 59,1,18,2,Jumper
+43,Caris LeVert,OFFENSIVE_REBOUND,None,7:30,3,Nets,76ers,55 - 59,1,N/A,N/A,N/A
+44,Caris LeVert,FG_MISS,None,7:29,3,Nets,76ers,55 - 59,1,0,2,Layup
+45,Robert Covington,DEFENSIVE_REBOUND,None,7:26,3,76ers,Nets,55 - 59,0,N/A,N/A,N/A
+46,Mike Muscala,SUBSTITUTION,Saric Dario,7:22,3,76ers,Nets,55 - 59,0,N/A,N/A,N/A
+47,Ben Simmons,FG_ASSISTED,Mike Muscala,7:19,3,76ers,Nets,57 - 59,0,0,2,Layup
+48,Rondae Hollis-Jefferson,FOUL_ON_FLOOR,None,7:19,3,Nets,76ers,57 - 59,1,N/A,N/A,N/A
+49,Landry Shamet,SUBSTITUTION,Redick JJ,7:19,3,76ers,Nets,57 - 59,0,N/A,N/A,N/A
+50,Ben Simmons,FT,None,7:19,3,76ers,Nets,58 - 59,0,N/A,1,N/A
+51,D'Angelo Russell,FG_UNASSISTED,None,7:07,3,Nets,76ers,58 - 61,1,17,2,Jumper
+52,Team,Unknown,None,6:56,3,Nets,76ers,58 - 61,1,N/A,N/A,N/A
+53,Mike Muscala,FG_MISS,None,6:54,3,76ers,Nets,58 - 61,0, ,2,Jumper
+54,Joel Embiid,OFFENSIVE_REBOUND,None,6:51,3,76ers,Nets,58 - 61,0,N/A,N/A,N/A
+55,Landry Shamet,FG_ASSISTED,Joel Embiid,6:50,3,76ers,Nets,61 - 61,0,26,3,Jumper
+56,Joe Harris,FG_ASSISTED,D'Angelo Russell,6:36,3,Nets,76ers,61 - 64,1,25,3,Jumper
+57,Mike Muscala,TURNOVER,Caris LeVert,6:24,3,76ers,Nets,61 - 64,0,N/A,N/A,N/A
+58,D'Angelo Russell,FG_UNASSISTED,None,6:12,3,Nets,76ers,61 - 66,1,6,2,Jumper
+59,Landry Shamet,TURNOVER,Caris LeVert,6:00,3,76ers,Nets,61 - 66,0,N/A,N/A,N/A
+60,D'Angelo Russell,FG_ASSISTED,Caris LeVert,5:55,3,Nets,76ers,61 - 69,1,25,3,Jumper
+61,Team,Unknown,None,5:55,3,76ers,Nets,61 - 69,0,N/A,N/A,N/A
+62,JJ Redick,SUBSTITUTION,Embiid Joel,5:55,3,76ers,Nets,61 - 69,0,N/A,N/A,N/A
+63,Amir Johnson,SUBSTITUTION,Covington Robert,5:55,3,76ers,Nets,61 - 69,0,N/A,N/A,N/A
+64,JJ Redick,FG_MISS,None,5:37,3,76ers,Nets,61 - 69,0,25,3,Jumper
+65,D'Angelo Russell,DEFENSIVE_REBOUND,None,5:35,3,Nets,76ers,61 - 69,1,N/A,N/A,N/A
+66,Joe Harris,FG_ASSISTED,D'Angelo Russell,5:30,3,Nets,76ers,61 - 72,1,24,3,Jumper
+67,JJ Redick,FG_ASSISTED,Amir Johnson,5:13,3,76ers,Nets,63 - 72,0,20,2,Jumper
+68,Amir Johnson,FOUL_ON_FLOOR,None,4:55,3,76ers,Nets,63 - 72,0,N/A,N/A,N/A
+69,Jarrett Allen,FT,None,4:55,3,Nets,76ers,63 - 73,1,N/A,1,N/A
+70,Allen Crabbe,SUBSTITUTION,Russell D'Angelo,4:55,3,Nets,76ers,63 - 73,1,N/A,N/A,N/A
+71,Spencer Dinwiddie,SUBSTITUTION,Harris Joe,4:55,3,Nets,76ers,63 - 73,1,N/A,N/A,N/A
+72,Markelle Fultz,SUBSTITUTION,Simmons Ben,4:55,3,76ers,Nets,63 - 73,0,N/A,N/A,N/A
+73,Jarrett Allen,FT,None,4:55,3,Nets,76ers,63 - 74,1,N/A,1,N/A
+74,Markelle Fultz's,FG_MISS,Jarrett Allen,4:46,3,Nets,76ers,63 - 74,0,0,2,Layup
+75,Jarrett Allen,DEFENSIVE_REBOUND,None,4:43,3,Nets,76ers,63 - 74,1,N/A,N/A,N/A
+76,Caris LeVert,FG_MISS,None,4:21,3,Nets,76ers,63 - 74,1, ,2,Jumper
+77,Jarrett Allen,OFFENSIVE_REBOUND,None,4:18,3,Nets,76ers,63 - 74,1,N/A,N/A,N/A
+78,Jarrett Allen,FG_UNASSISTED,None,4:18,3,Nets,76ers,63 - 76,1, ,2,Jumper
+79,Amir Johnson,FG_ASSISTED,JJ Redick,4:05,3,76ers,Nets,66 - 76,0,26,3,Jumper
+80,Rondae Hollis-Jefferson,FG_ASSISTED,Spencer Dinwiddie,3:55,3,Nets,76ers,66 - 78,1,0,2,Layup
+81,JJ Redick,FG_MISS,None,3:40,3,76ers,Nets,66 - 78,0,20,2,Jumper
+82,Jarrett Allen,DEFENSIVE_REBOUND,None,3:38,3,Nets,76ers,66 - 78,1,N/A,N/A,N/A
+83,JJ Redick,FOUL_ON_FLOOR,None,3:31,3,76ers,Nets,66 - 78,0,N/A,N/A,N/A
+84,Jarrett Allen,FT,None,3:31,3,Nets,76ers,66 - 79,1,N/A,1,N/A
+85,Shabazz Napier,SUBSTITUTION,LeVert Caris,3:31,3,Nets,76ers,66 - 79,1,N/A,N/A,N/A
+86,Joel Embiid,SUBSTITUTION,Johnson Amir,3:31,3,76ers,Nets,66 - 79,0,N/A,N/A,N/A
+87,Jarrett Allen,FT,None,3:31,3,Nets,76ers,66 - 80,1,N/A,1,N/A
+88,JJ Redick,FG_ASSISTED,Landry Shamet,3:21,3,76ers,Nets,69 - 80,0,25,3,Jumper
+89,Allen Crabbe,FG_ASSISTED,Spencer Dinwiddie,3:07,3,Nets,76ers,69 - 82,1,0,2,Layup
+90,Markelle Fultz,TURNOVER,None,2:57,3,76ers,Nets,69 - 82,0,N/A,N/A,N/A
+91,Markelle Fultz,TURNOVER,None,2:57,3,76ers,Nets,69 - 82,0,N/A,N/A,N/A
+92,Ed Davis,SUBSTITUTION,Allen Jarrett,2:57,3,Nets,76ers,69 - 82,1,N/A,N/A,N/A
+93,Shabazz Napier,FG_ASSISTED,Rondae Hollis-Jefferson,2:38,3,Nets,76ers,69 - 85,1,24,3,Jumper
+94,Team,Unknown,None,2:36,3,76ers,Nets,69 - 85,0,N/A,N/A,N/A
+95,JJ Redick,FG_MISS,None,2:25,3,76ers,Nets,69 - 85,0,22,2,Jumper
+96,Shabazz Napier,DEFENSIVE_REBOUND,None,2:21,3,Nets,76ers,69 - 85,1,N/A,N/A,N/A
+97,Rondae Hollis-Jefferson,FG_ASSISTED,Shabazz Napier,2:16,3,Nets,76ers,69 - 87,1,0,2,Layup
+98,Shabazz Napier,FOUL_ON_FLOOR,None,2:07,3,Nets,76ers,69 - 87,1,N/A,N/A,N/A
+99,JJ Redick,FT,None,2:07,3,76ers,Nets,70 - 87,0,N/A,1,N/A
+100,JJ Redick,FT,None,2:07,3,76ers,Nets,71 - 87,0,N/A,1,N/A
+101,Allen Crabbe,FG_MISS,None,1:52,3,Nets,76ers,71 - 87,1,23,2,Jumper
+102,Joel Embiid,DEFENSIVE_REBOUND,None,1:50,3,76ers,Nets,71 - 87,0,N/A,N/A,N/A
+103,Landry Shamet,FG_ASSISTED,Joel Embiid,1:41,3,76ers,Nets,73 - 87,0,0,2,Layup
+104,Spencer Dinwiddie,FG_MISS,None,1:19,3,Nets,76ers,73 - 87,1, ,2,Jumper
+105,Joel Embiid,DEFENSIVE_REBOUND,None,1:17,3,76ers,Nets,73 - 87,0,N/A,N/A,N/A
+106,JJ Redick,TURNOVER,None,1:10,3,76ers,Nets,73 - 87,0,N/A,N/A,N/A
+107,Spencer Dinwiddie,FG_ASSISTED,Rondae Hollis-Jefferson,57.9,3,Nets,76ers,73 - 90,1,23,3,Jumper
+108,shot clock,TURNOVER,None,33.0,3,76ers,Nets,73 - 90,0,N/A,N/A,N/A
+109,Rondae Hollis-Jefferson,FG_ASSISTED,Spencer Dinwiddie,19.2,3,Nets,76ers,73 - 92,1,5,2,Jumper
+110,Markelle Fultz,FG_UNASSISTED,None,1.2,3,76ers,Nets,75 - 92,0,6,2,Jumper
+111,Markelle Fultz,FOUL_ON_FLOOR,None,0.7,3,76ers,Nets,75 - 92,0,N/A,N/A,N/A
+112,Allen Crabbe,FG_MISS,None,0.3,3,Nets,76ers,75 - 92,1,66,3,Jumper
+113,Team,OFFENSIVE_REBOUND,None,0.1,3,Nets,76ers,75 - 92,1,N/A,N/A,N/A
+114,End of,Unknown,None,0.0,3,Nets,76ers,75 - 92,1,N/A,N/A,N/A
+0,Dario Saric,SUBSTITUTION,Shamet Landry,12:00,4,76ers,Nets,75 - 92,0,N/A,N/A,N/A
+1,Robert Covington,SUBSTITUTION,Muscala Mike,12:00,4,76ers,Nets,75 - 92,0,N/A,N/A,N/A
+2,Joe Harris,SUBSTITUTION,Hollis-Jefferson Rondae,12:00,4,Nets,76ers,75 - 92,1,N/A,N/A,N/A
+3,Spencer Dinwiddie,FOUL_ON_FLOOR,None,11:53,4,Nets,76ers,75 - 92,1,N/A,N/A,N/A
+4,Joel Embiid,FG_MISS,None,11:41,4,76ers,Nets,75 - 92,0,10,2,Jumper
+5,Markelle Fultz,OFFENSIVE_REBOUND,None,11:38,4,76ers,Nets,75 - 92,0,N/A,N/A,N/A
+6,Joel Embiid,FG_MISS,None,11:34,4,76ers,Nets,75 - 92,0,0,2,Layup
+7,Ed Davis,DEFENSIVE_REBOUND,None,11:31,4,Nets,76ers,75 - 92,1,N/A,N/A,N/A
+8,Ed Davis,FG_MISS,None,11:18,4,Nets,76ers,75 - 92,1, ,2,Jumper
+9,Joel Embiid,DEFENSIVE_REBOUND,None,11:16,4,76ers,Nets,75 - 92,0,N/A,N/A,N/A
+10,Joel Embiid,TURNOVER,Joe Harris,11:15,4,76ers,Nets,75 - 92,0,N/A,N/A,N/A
+11,Shabazz Napier,TURNOVER,Markelle Fultz,10:55,4,Nets,76ers,75 - 92,1,N/A,N/A,N/A
+12,Shabazz Napier,FOUL_ON_FLOOR,None,10:47,4,Nets,76ers,75 - 92,1,N/A,N/A,N/A
+13,Dario Saric,FT,None,10:47,4,76ers,Nets,76 - 92,0,N/A,1,N/A
+14,Dario Saric,FT,None,10:47,4,76ers,Nets,77 - 92,0,N/A,1,N/A
+15,Shabazz Napier,FG_MISS,None,10:31,4,Nets,76ers,77 - 92,1,23,2,Jumper
+16,Robert Covington,DEFENSIVE_REBOUND,None,10:29,4,76ers,Nets,77 - 92,0,N/A,N/A,N/A
+17,Markelle Fultz,FG_MISS,None,10:21,4,76ers,Nets,77 - 92,0,23,2,Jumper
+18,Allen Crabbe,DEFENSIVE_REBOUND,None,10:19,4,Nets,76ers,77 - 92,1,N/A,N/A,N/A
+19,Joel Embiid,FOUL_ON_FLOOR,None,10:17,4,76ers,Nets,77 - 92,0,N/A,N/A,N/A
+20,Spencer Dinwiddie,TURNOVER,None,10:03,4,Nets,76ers,77 - 92,1,N/A,N/A,N/A
+21,Spencer Dinwiddie,FOUL_ON_FLOOR,None,9:58,4,Nets,76ers,77 - 92,1,N/A,N/A,N/A
+22,Ed Davis,FOUL_ON_FLOOR,None,9:47,4,Nets,76ers,77 - 92,1,N/A,N/A,N/A
+23,Joel Embiid,FT,None,9:47,4,76ers,Nets,78 - 92,0,N/A,1,N/A
+24,Joel Embiid,FT_MISS,None,9:47,4,76ers,Nets,78 - 92,0,N/A,1,N/A
+25,Team,DEFENSIVE_REBOUND,None,9:46,4,Nets,76ers,78 - 92,1,N/A,N/A,N/A
+26,Dario Saric,FOUL_ON_FLOOR,None,9:46,4,76ers,Nets,78 - 92,0,N/A,N/A,N/A
+27,Spencer Dinwiddie,FG_UNASSISTED,None,9:30,4,Nets,76ers,78 - 94,1,2,2,Jumper
+28,Team,Unknown,None,9:29,4,76ers,Nets,78 - 94,0,N/A,N/A,N/A
+29,Rondae Hollis-Jefferson,SUBSTITUTION,Napier Shabazz,9:29,4,Nets,76ers,78 - 94,1,N/A,N/A,N/A
+30,Ben Simmons,SUBSTITUTION,Fultz Markelle,9:29,4,76ers,Nets,78 - 94,0,N/A,N/A,N/A
+31,Dario Saric,FG_ASSISTED,Ben Simmons,9:14,4,76ers,Nets,80 - 94,0,0,2,Dunk
+32,Allen Crabbe,TURNOVER,None,8:57,4,Nets,76ers,80 - 94,1,N/A,N/A,N/A
+33,Joel Embiid,FOUL_ON_FLOOR,None,8:43,4,76ers,Nets,80 - 94,0,N/A,N/A,N/A
+34,Joel Embiid,TURNOVER,None,8:43,4,76ers,Nets,80 - 94,0,N/A,N/A,N/A
+35,Landry Shamet,SUBSTITUTION,Redick JJ,8:43,4,76ers,Nets,80 - 94,0,N/A,N/A,N/A
+36,Mike Muscala,SUBSTITUTION,Embiid Joel,8:43,4,76ers,Nets,80 - 94,0,N/A,N/A,N/A
+37,Joe Harris,FG_ASSISTED,Spencer Dinwiddie,8:35,4,Nets,76ers,80 - 97,1, ,3,Jumper
+38,Allen Crabbe,FOUL_ON_FLOOR,None,8:28,4,Nets,76ers,80 - 97,1,N/A,N/A,N/A
+39,Dario Saric,FT,None,8:28,4,76ers,Nets,81 - 97,0,N/A,1,N/A
+40,Dario Saric,FT,None,8:28,4,76ers,Nets,82 - 97,0,N/A,1,N/A
+41,Allen Crabbe,FG_ASSISTED,Spencer Dinwiddie,8:18,4,Nets,76ers,82 - 100,1,23,3,Jumper
+42,Mike Muscala,FG_MISS,None,8:05,4,76ers,Nets,82 - 100,0,27,3,Jumper
+43,Ed Davis,DEFENSIVE_REBOUND,None,8:03,4,Nets,76ers,82 - 100,1,N/A,N/A,N/A
+44,Spencer Dinwiddie,FG_MISS,None,7:51,4,Nets,76ers,82 - 100,1,15,2,Jumper
+45,Ben Simmons,DEFENSIVE_REBOUND,None,7:46,4,76ers,Nets,82 - 100,0,N/A,N/A,N/A
+46,Ben Simmons,FG_MISS,None,7:40,4,76ers,Nets,82 - 100,0,0,2,Layup
+47,Ben Simmons,OFFENSIVE_REBOUND,None,7:39,4,76ers,Nets,82 - 100,0,N/A,N/A,N/A
+48,Ben Simmons,FG_UNASSISTED,None,7:39,4,76ers,Nets,84 - 100,0,1,2,Jumper
+49,Team,Unknown,None,7:39,4,Nets,76ers,84 - 100,1,N/A,N/A,N/A
+50,D'Angelo Russell,SUBSTITUTION,Dinwiddie Spencer,7:39,4,Nets,76ers,84 - 100,1,N/A,N/A,N/A
+51,Caris LeVert,SUBSTITUTION,Davis Ed,7:39,4,Nets,76ers,84 - 100,1,N/A,N/A,N/A
+52,Jarrett Allen,SUBSTITUTION,Crabbe Allen,7:39,4,Nets,76ers,84 - 100,1,N/A,N/A,N/A
+53,Jarrett Allen,FG_ASSISTED,Rondae Hollis-Jefferson,7:25,4,Nets,76ers,84 - 102,1,0,2,Dunk
+54,Mike Muscala,TURNOVER,None,7:11,4,76ers,Nets,84 - 102,0,N/A,N/A,N/A
+55,Rondae Hollis-Jefferson,FG_ASSISTED,Caris LeVert,6:47,4,Nets,76ers,84 - 104,1,12,2,Jumper
+56,Robert Covington,FOUL_ON_FLOOR,None,6:35,4,76ers,Nets,84 - 104,0,N/A,N/A,N/A
+57,Robert Covington,TURNOVER,None,6:35,4,76ers,Nets,84 - 104,0,N/A,N/A,N/A
+58,Joel Embiid,SUBSTITUTION,Shamet Landry,6:35,4,76ers,Nets,84 - 104,0,N/A,N/A,N/A
+59,JJ Redick,SUBSTITUTION,Muscala Mike,6:35,4,76ers,Nets,84 - 104,0,N/A,N/A,N/A
+60,D'Angelo Russell,FG_UNASSISTED,None,6:16,4,Nets,76ers,84 - 106,1,19,2,Jumper
+61,Team,Unknown,None,6:13,4,76ers,Nets,84 - 106,0,N/A,N/A,N/A
+62,Joel Embiid,TURNOVER,None,6:07,4,76ers,Nets,84 - 106,0,N/A,N/A,N/A
+63,Caris LeVert,FG_MISS,None,5:55,4,Nets,76ers,84 - 106,1,1,2,Jumper
+64,Caris LeVert,OFFENSIVE_REBOUND,None,5:53,4,Nets,76ers,84 - 106,1,N/A,N/A,N/A
+65,Rondae Hollis-Jefferson,FG_ASSISTED,Joe Harris,5:50,4,Nets,76ers,84 - 108,1,0,2,Dunk
+66,Mike Muscala,SUBSTITUTION,Simmons Ben,5:43,4,76ers,Nets,84 - 108,0,N/A,N/A,N/A
+67,Markelle Fultz,SUBSTITUTION,Embiid Joel,5:43,4,76ers,Nets,84 - 108,0,N/A,N/A,N/A
+68,Landry Shamet,SUBSTITUTION,Redick JJ,5:43,4,76ers,Nets,84 - 108,0,N/A,N/A,N/A
+69,Rondae Hollis-Jefferson,FOUL_ON_FLOOR,None,5:37,4,Nets,76ers,84 - 108,1,N/A,N/A,N/A
+70,Dario Saric,FT,None,5:37,4,76ers,Nets,85 - 108,0,N/A,1,N/A
+71,T.J. McConnell,SUBSTITUTION,Covington Robert,5:37,4,76ers,Nets,85 - 108,0,N/A,N/A,N/A
+72,Dario Saric,FT,None,5:37,4,76ers,Nets,86 - 108,0,N/A,1,N/A
+73,D'Angelo Russell,FG_UNASSISTED,None,5:22,4,Nets,76ers,86 - 110,1,7,2,Jumper
+74,Landry Shamet,FG_ASSISTED,T.J. McConnell,5:05,4,76ers,Nets,89 - 110,0,25,3,Jumper
+75,Rondae Hollis-Jefferson,FG_UNASSISTED,None,4:41,4,Nets,76ers,89 - 112,1,6,2,Jumper
+76,Mike Muscala,TURNOVER,None,4:19,4,76ers,Nets,89 - 112,0,N/A,N/A,N/A
+77,Caris LeVert,FG_MISS,None,3:57,4,Nets,76ers,89 - 112,1,10,2,Jumper
+78,T.J. McConnell,DEFENSIVE_REBOUND,None,3:53,4,76ers,Nets,89 - 112,0,N/A,N/A,N/A
+79,Markelle Fultz,FG_MISS,None,3:41,4,76ers,Nets,89 - 112,0,17,2,Jumper
+80,Rondae Hollis-Jefferson,DEFENSIVE_REBOUND,None,3:39,4,Nets,76ers,89 - 112,1,N/A,N/A,N/A
+81,Landry Shamet,Unknown,None,3:27,4,76ers,Nets,89 - 112,0,N/A,N/A,N/A
+82,Furkan Korkmaz,SUBSTITUTION,Saric Dario,3:27,4,76ers,Nets,89 - 112,0,N/A,N/A,N/A
+83,D'Angelo Russell,FG_MISS,None,3:17,4,Nets,76ers,89 - 112,1,25,3,Jumper
+84,T.J. McConnell,DEFENSIVE_REBOUND,None,3:14,4,76ers,Nets,89 - 112,0,N/A,N/A,N/A
+85,T.J. McConnell,FG_UNASSISTED,None,3:10,4,76ers,Nets,91 - 112,0,17,2,Jumper
+86,Team,Unknown,None,3:09,4,Nets,76ers,91 - 112,1,N/A,N/A,N/A
+87,Shabazz Napier,SUBSTITUTION,Russell D'Angelo,3:09,4,Nets,76ers,91 - 112,1,N/A,N/A,N/A
+88,Dzanan Musa,SUBSTITUTION,Harris Joe,3:09,4,Nets,76ers,91 - 112,1,N/A,N/A,N/A
+89,Rodions Kurucs,SUBSTITUTION,LeVert Caris,3:09,4,Nets,76ers,91 - 112,1,N/A,N/A,N/A
+90,Kenneth Faried,SUBSTITUTION,Allen Jarrett,3:09,4,Nets,76ers,91 - 112,1,N/A,N/A,N/A
+91,Dzanan Musa,FG_ASSISTED,Shabazz Napier,2:55,4,Nets,76ers,91 - 114,1,9,2,Jumper
+92,Markelle Fultz,FG_UNASSISTED,None,2:40,4,76ers,Nets,93 - 114,0,0,2,Layup
+93,Rondae Hollis-Jefferson,FG_MISS,None,2:16,4,Nets,76ers,93 - 114,1,12,2,Jumper
+94,Rodions Kurucs,OFFENSIVE_REBOUND,None,2:15,4,Nets,76ers,93 - 114,1,N/A,N/A,N/A
+95,Rodions Kurucs,FG_UNASSISTED,None,2:14,4,Nets,76ers,93 - 116,1,1,2,Jumper
+96,Shabazz Napier,FOUL_ON_FLOOR,None,2:08,4,Nets,76ers,93 - 116,1,N/A,N/A,N/A
+97,Markelle Fultz,FT,None,2:08,4,76ers,Nets,94 - 116,0,N/A,1,N/A
+98,Markelle Fultz,FT,None,2:08,4,76ers,Nets,95 - 116,0,N/A,1,N/A
+99,Dzanan Musa,FG_ASSISTED,Shabazz Napier,1:59,4,Nets,76ers,95 - 118,1,0,2,Layup
+100,T.J. McConnell,FG_MISS,None,1:46,4,76ers,Nets,95 - 118,0,0,2,Layup
+101,Rodions Kurucs,DEFENSIVE_REBOUND,None,1:45,4,Nets,76ers,95 - 118,1,N/A,N/A,N/A
+102,Shabazz Napier,FG_MISS,None,1:33,4,Nets,76ers,95 - 118,1,1,2,Jumper
+103,Kenneth Faried,OFFENSIVE_REBOUND,None,1:32,4,Nets,76ers,95 - 118,1,N/A,N/A,N/A
+104,Kenneth Faried,FG_UNASSISTED,None,1:32,4,Nets,76ers,95 - 120,1,1,2,Jumper
+105,Markelle Fultz,FG_MISS,Shabazz Napier,1:26,4,Nets,76ers,95 - 120,0,0,2,Layup
+106,Kenneth Faried,DEFENSIVE_REBOUND,None,1:24,4,Nets,76ers,95 - 120,1,N/A,N/A,N/A
+107,Dzanan Musa,FG_MISS,None,1:18,4,Nets,76ers,95 - 120,1,27,3,Jumper
+108,Kenneth Faried,OFFENSIVE_REBOUND,None,1:15,4,Nets,76ers,95 - 120,1,N/A,N/A,N/A
+109,Dzanan Musa,FG_MISS,None,1:12,4,Nets,76ers,95 - 120,1,27,3,Jumper
+110,Rondae Hollis-Jefferson,OFFENSIVE_REBOUND,None,1:10,4,Nets,76ers,95 - 120,1,N/A,N/A,N/A
+111,Rondae Hollis-Jefferson,FG_UNASSISTED,None,1:10,4,Nets,76ers,95 - 122,1,0,2,Dunk
+112,Landry Shamet,FG_MISS,None,59.4,4,76ers,Nets,95 - 122,0,26,3,Jumper
+113,Rondae Hollis-Jefferson,DEFENSIVE_REBOUND,None,57.4,4,Nets,76ers,95 - 122,1,N/A,N/A,N/A
+114,Rodions Kurucs,FG_MISS,None,47.2,4,Nets,76ers,95 - 122,1,23,3,Jumper
+115,Team,DEFENSIVE_REBOUND,None,44.7,4,76ers,Nets,95 - 122,0,N/A,N/A,N/A
+116,Furkan Korkmaz,FG_ASSISTED,Mike Muscala,36.5,4,76ers,Nets,97 - 122,0,1,2,Jumper
+117,Dzanan Musa,TURNOVER,None,26.6,4,Nets,76ers,97 - 122,1,N/A,N/A,N/A
+118,Dzanan Musa,TURNOVER,None,26.6,4,Nets,76ers,97 - 122,1,N/A,N/A,N/A
+119,Furkan Korkmaz,FG_MISS,None,22.3,4,76ers,Nets,97 - 122,0,31,3,Jumper
+120,Kenneth Faried,DEFENSIVE_REBOUND,None,18.9,4,Nets,76ers,97 - 122,1,N/A,N/A,N/A
+121,End of,Unknown,None,0.0,4,Nets,76ers,97 - 122,1,N/A,N/A,N/A
+122,End of,Unknown,None,0.0,4,Nets,76ers,97 - 122,1,N/A,N/A,N/A

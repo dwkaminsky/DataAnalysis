@@ -1,0 +1,525 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Marcin Gortat,JUMP_BALL,None,12:00,1,Clippers,76ers,0 - 0,0,N/A,N/A,N/A
+1,Patrick Beverley,TURNOVER,None,11:52,1,Clippers,76ers,0 - 0,0,N/A,N/A,N/A
+2,Tobias Harris,FOUL_ON_FLOOR,None,11:43,1,Clippers,76ers,0 - 0,0,N/A,N/A,N/A
+3,Joel Embiid,FG_UNASSISTED,None,11:28,1,76ers,Clippers,0 - 2,1,11,2,Jumper
+4,Avery Bradley,TURNOVER,Markelle Fultz,11:09,1,Clippers,76ers,0 - 2,0,N/A,N/A,N/A
+5,Ben Simmons,FG_ASSISTED,Robert Covington,11:00,1,76ers,Clippers,0 - 4,1,9,2,Jumper
+6,Joel Embiid,FOUL_ON_FLOOR,None,10:40,1,76ers,Clippers,0 - 4,1,N/A,N/A,N/A
+7,Danilo Gallinari,FT,None,10:40,1,Clippers,76ers,1 - 4,0,N/A,1,N/A
+8,Danilo Gallinari,FT,None,10:40,1,Clippers,76ers,2 - 4,0,N/A,1,N/A
+9,Joel Embiid,FG_MISS,None,10:28,1,76ers,Clippers,2 - 4,1,0,2,Layup
+10,Dario Saric,OFFENSIVE_REBOUND,None,10:25,1,76ers,Clippers,2 - 4,1,N/A,N/A,N/A
+11,Ben Simmons,FG_MISS,None,10:20,1,76ers,Clippers,2 - 4,1,12,2,Jumper
+12,Danilo Gallinari,DEFENSIVE_REBOUND,None,10:18,1,Clippers,76ers,2 - 4,0,N/A,N/A,N/A
+13,Tobias Harris,FG_MISS,None,10:10,1,Clippers,76ers,2 - 4,0,-,2,Jumper
+14,Joel Embiid,DEFENSIVE_REBOUND,None,10:08,1,76ers,Clippers,2 - 4,1,N/A,N/A,N/A
+15,Joel Embiid,FG_MISS,None,9:46,1,76ers,Clippers,2 - 4,1,8,2,Jumper
+16,Team,OFFENSIVE_REBOUND,None,9:45,1,76ers,Clippers,2 - 4,1,N/A,N/A,N/A
+17,Patrick Beverley,FOUL_ON_FLOOR,None,9:45,1,Clippers,76ers,2 - 4,0,N/A,N/A,N/A
+18,Robert Covington,FOUL_ON_FLOOR,None,9:45,1,76ers,Clippers,2 - 4,1,N/A,N/A,N/A
+19,Robert Covington,TURNOVER,None,9:45,1,76ers,Clippers,2 - 4,1,N/A,N/A,N/A
+20,Avery Bradley,FG_ASSISTED,Marcin Gortat,9:29,1,Clippers,76ers,4 - 4,0,-,2,Jumper
+21,Markelle Fultz,FG_MISS,None,9:14,1,76ers,Clippers,4 - 4,1,17,2,Jumper
+22,Ben Simmons,OFFENSIVE_REBOUND,None,9:12,1,76ers,Clippers,4 - 4,1,N/A,N/A,N/A
+23,Robert Covington,FG_ASSISTED,Ben Simmons,9:10,1,76ers,Clippers,4 - 7,1,28,3,Jumper
+24,Danilo Gallinari,FG_MISS,None,8:51,1,Clippers,76ers,4 - 7,0,26,3,Jumper
+25,Markelle Fultz,DEFENSIVE_REBOUND,None,8:48,1,76ers,Clippers,4 - 7,1,N/A,N/A,N/A
+26,Joel Embiid,FG_ASSISTED,Ben Simmons,8:39,1,76ers,Clippers,4 - 10,1,26,3,Jumper
+27,Team,Unknown,None,8:38,1,Clippers,76ers,4 - 10,0,N/A,N/A,N/A
+28,Avery Bradley,TURNOVER,Ben Simmons,8:18,1,Clippers,76ers,4 - 10,0,N/A,N/A,N/A
+29,Dario Saric,FG_MISS,None,8:09,1,76ers,Clippers,4 - 10,1,26,2,Jumper
+30,Markelle Fultz,OFFENSIVE_REBOUND,None,8:05,1,76ers,Clippers,4 - 10,1,N/A,N/A,N/A
+31,Markelle Fultz,FG_MISS,Marcin Gortat,8:03,1,Clippers,76ers,4 - 10,1,0,2,Layup
+32,Tobias Harris,DEFENSIVE_REBOUND,None,8:00,1,Clippers,76ers,4 - 10,0,N/A,N/A,N/A
+33,Tobias Harris,FG_UNASSISTED,None,7:54,1,Clippers,76ers,6 - 10,0,7,2,Jumper
+34,Joel Embiid,FG_UNASSISTED,None,7:32,1,76ers,Clippers,6 - 12,1,10,2,Jumper
+35,Patrick Beverley,FG_MISS,Robert Covington,7:18,1,76ers,Clippers,6 - 12,0,0,2,Layup
+36,Team,OFFENSIVE_REBOUND,None,7:17,1,Clippers,76ers,6 - 12,0,N/A,N/A,N/A
+37,JJ Redick,SUBSTITUTION,Embiid Joel,7:17,1,76ers,Clippers,6 - 12,1,N/A,N/A,N/A
+38,Amir Johnson,SUBSTITUTION,Fultz Markelle,7:17,1,76ers,Clippers,6 - 12,1,N/A,N/A,N/A
+39,Robert Covington,FOUL_ON_FLOOR,None,7:07,1,76ers,Clippers,6 - 12,1,N/A,N/A,N/A
+40,Danilo Gallinari,FT,None,7:07,1,Clippers,76ers,7 - 12,0,N/A,1,N/A
+41,Montrezl Harrell,SUBSTITUTION,Gortat Marcin,7:07,1,Clippers,76ers,7 - 12,0,N/A,N/A,N/A
+42,Danilo Gallinari,FT,None,7:07,1,Clippers,76ers,8 - 12,0,N/A,1,N/A
+43,Landry Shamet,SUBSTITUTION,Covington Robert,6:54,1,76ers,Clippers,8 - 12,1,N/A,N/A,N/A
+44,Amir Johnson,FOUL_ON_FLOOR,None,6:47,1,76ers,Clippers,8 - 12,1,N/A,N/A,N/A
+45,Amir Johnson,TURNOVER,None,6:47,1,76ers,Clippers,8 - 12,1,N/A,N/A,N/A
+46,Amir Johnson,FOUL_TECHNICAL,None,6:35,1,76ers,Clippers,8 - 12,1,N/A,N/A,N/A
+47,Danilo Gallinari,FT,None,6:35,1,Clippers,76ers,9 - 12,0,N/A,1,N/A
+48,Dario Saric,FOUL_ON_FLOOR,None,6:31,1,76ers,Clippers,9 - 12,1,N/A,N/A,N/A
+49,Mike Muscala,SUBSTITUTION,Saric Dario,6:31,1,76ers,Clippers,9 - 12,1,N/A,N/A,N/A
+50,Patrick Beverley,FG_MISS,None,6:22,1,Clippers,76ers,9 - 12,0, ,2,Jumper
+51,Patrick Beverley,OFFENSIVE_REBOUND,None,6:19,1,Clippers,76ers,9 - 12,0,N/A,N/A,N/A
+52,Tobias Harris,FG_ASSISTED,Patrick Beverley,6:09,1,Clippers,76ers,12 - 12,0,23,3,Jumper
+53,JJ Redick,FG_ASSISTED,Ben Simmons,5:55,1,76ers,Clippers,12 - 14,1,22,2,Jumper
+54,Tobias Harris,FG_MISS,None,5:27,1,Clippers,76ers,12 - 14,0, ,2,Jumper
+55,Amir Johnson,DEFENSIVE_REBOUND,None,5:25,1,76ers,Clippers,12 - 14,1,N/A,N/A,N/A
+56,Landry Shamet,FG_ASSISTED,Ben Simmons,5:16,1,76ers,Clippers,12 - 17,1,26,3,Jumper
+57,Tobias Harris,FG_UNASSISTED,None,4:59,1,Clippers,76ers,14 - 17,0,2,2,Jumper
+58,Team,Unknown,None,4:59,1,76ers,Clippers,14 - 17,1,N/A,N/A,N/A
+59,Shai Gilgeous-Alexander,SUBSTITUTION,Gallinari Danilo,4:59,1,Clippers,76ers,14 - 17,0,N/A,N/A,N/A
+60,Mike Scott,SUBSTITUTION,Beverley Patrick,4:59,1,Clippers,76ers,14 - 17,0,N/A,N/A,N/A
+61,Amir Johnson,FG_ASSISTED,JJ Redick,4:47,1,76ers,Clippers,14 - 19,1,8,2,Jumper
+62,Shai Gilgeous-Alexander,TURNOVER,Landry Shamet,4:40,1,Clippers,76ers,14 - 19,0,N/A,N/A,N/A
+63,JJ Redick,FG_MISS,None,4:34,1,76ers,Clippers,14 - 19,1,22,2,Jumper
+64,Team,DEFENSIVE_REBOUND,None,4:34,1,Clippers,76ers,14 - 19,0,N/A,N/A,N/A
+65,Tobias Harris,FG_MISS,None,4:18,1,Clippers,76ers,14 - 19,0,10,2,Jumper
+66,Amir Johnson,DEFENSIVE_REBOUND,None,4:15,1,76ers,Clippers,14 - 19,1,N/A,N/A,N/A
+67,Ben Simmons,FG_UNASSISTED,None,4:08,1,76ers,Clippers,14 - 21,1,10,2,Jumper
+68,Shai Gilgeous-Alexander,FG_UNASSISTED,None,3:53,1,Clippers,76ers,16 - 21,0,8,2,Jumper
+69,Ben Simmons,FG_ASSISTED,Amir Johnson,3:40,1,76ers,Clippers,16 - 23,1,0,2,Layup
+70,Tobias Harris,FG_ASSISTED,Montrezl Harrell,3:26,1,Clippers,76ers,18 - 23,0,17,2,Jumper
+71,Landry Shamet,FG_MISS,None,3:15,1,76ers,Clippers,18 - 23,1,26,3,Jumper
+72,Mike Scott,DEFENSIVE_REBOUND,None,3:10,1,Clippers,76ers,18 - 23,0,N/A,N/A,N/A
+73,Avery Bradley,FG_MISS,None,3:05,1,Clippers,76ers,18 - 23,0,18,2,Jumper
+74,Mike Muscala,DEFENSIVE_REBOUND,None,3:03,1,76ers,Clippers,18 - 23,1,N/A,N/A,N/A
+75,Avery Bradley,FOUL_ON_FLOOR,None,2:59,1,Clippers,76ers,18 - 23,0,N/A,N/A,N/A
+76,Joel Embiid,SUBSTITUTION,Johnson Amir,2:59,1,76ers,Clippers,18 - 23,1,N/A,N/A,N/A
+77,Markelle Fultz,SUBSTITUTION,Simmons Ben,2:59,1,76ers,Clippers,18 - 23,1,N/A,N/A,N/A
+78,Lou Williams,SUBSTITUTION,Bradley Avery,2:59,1,Clippers,76ers,18 - 23,0,N/A,N/A,N/A
+79,Joel Embiid,FG_ASSISTED,JJ Redick,2:47,1,76ers,Clippers,18 - 25,1,11,2,Jumper
+80,Shai Gilgeous-Alexander,FG_MISS,None,2:24,1,Clippers,76ers,18 - 25,0,13,2,Jumper
+81,Markelle Fultz,DEFENSIVE_REBOUND,None,2:22,1,76ers,Clippers,18 - 25,1,N/A,N/A,N/A
+82,Mike Scott,FOUL_ON_FLOOR,None,2:18,1,Clippers,76ers,18 - 25,0,N/A,N/A,N/A
+83,Markelle Fultz,FT_MISS,None,2:18,1,76ers,Clippers,18 - 25,1,N/A,1,N/A
+84,Team,OFFENSIVE_REBOUND,None,2:18,1,76ers,Clippers,18 - 25,1,N/A,N/A,N/A
+85,Markelle Fultz,FT,None,2:18,1,76ers,Clippers,18 - 26,1,N/A,1,N/A
+86,Shai Gilgeous-Alexander,FG_UNASSISTED,None,2:09,1,Clippers,76ers,20 - 26,0,0,2,Dunk
+87,Mike Muscala,FOUL_ON_FLOOR,None,2:09,1,76ers,Clippers,20 - 26,1,N/A,N/A,N/A
+88,Milos Teodosic,SUBSTITUTION,Harris Tobias,2:09,1,Clippers,76ers,20 - 26,0,N/A,N/A,N/A
+89,Shai Gilgeous-Alexander,FT,None,2:09,1,Clippers,76ers,21 - 26,0,N/A,1,N/A
+90,Markelle Fultz,FG_MISS,None,1:57,1,76ers,Clippers,21 - 26,1,13,2,Jumper
+91,Team,DEFENSIVE_REBOUND,None,1:55,1,Clippers,76ers,21 - 26,0,N/A,N/A,N/A
+92,Lou Williams,FG_MISS,None,1:44,1,Clippers,76ers,21 - 26,0,27,3,Jumper
+93,Team,OFFENSIVE_REBOUND,None,1:43,1,Clippers,76ers,21 - 26,0,N/A,N/A,N/A
+94,Montrezl Harrell,FG_ASSISTED,Lou Williams,1:35,1,Clippers,76ers,23 - 26,0,1,2,Jumper
+95,Mike Muscala,FOUL_ON_FLOOR,None,1:22,1,76ers,Clippers,23 - 26,1,N/A,N/A,N/A
+96,Mike Muscala,TURNOVER,None,1:22,1,76ers,Clippers,23 - 26,1,N/A,N/A,N/A
+97,Lou Williams,FG_MISS,Joel Embiid,1:11,1,76ers,Clippers,23 - 26,0,2,2,Jumper
+98,JJ Redick,DEFENSIVE_REBOUND,None,1:07,1,76ers,Clippers,23 - 26,1,N/A,N/A,N/A
+99,Landry Shamet,FG_ASSISTED,Markelle Fultz,1:05,1,76ers,Clippers,23 - 29,1,24,3,Jumper
+100,Montrezl Harrell,FG_ASSISTED,Milos Teodosic,57.6,1,Clippers,76ers,25 - 29,0, ,2,Jumper
+101,Joel Embiid,FG_UNASSISTED,None,50.4,1,76ers,Clippers,25 - 31,1,4,2,Jumper
+102,Montrezl Harrell,FOUL_ON_FLOOR,None,50.4,1,Clippers,76ers,25 - 31,0,N/A,N/A,N/A
+103,Joel Embiid,FT,None,50.4,1,76ers,Clippers,25 - 32,1,N/A,1,N/A
+104,JJ Redick,FOUL_ON_FLOOR,None,36.4,1,76ers,Clippers,25 - 32,1,N/A,N/A,N/A
+105,Lou Williams,FT,None,36.4,1,Clippers,76ers,26 - 32,0,N/A,1,N/A
+106,Lou Williams,FT,None,36.4,1,Clippers,76ers,27 - 32,0,N/A,1,N/A
+107,JJ Redick,FG_MISS,None,27.4,1,76ers,Clippers,27 - 32,1,26,3,Jumper
+108,Shai Gilgeous-Alexander,DEFENSIVE_REBOUND,None,25.3,1,Clippers,76ers,27 - 32,0,N/A,N/A,N/A
+109,Lou Williams,FG_ASSISTED,Shai Gilgeous-Alexander,21.6,1,Clippers,76ers,30 - 32,0,27,2,Jumper
+110,Shai Gilgeous-Alexander,FOUL_ON_FLOOR,None,6.7,1,Clippers,76ers,30 - 32,0,N/A,N/A,N/A
+111,JJ Redick,FT,None,6.7,1,76ers,Clippers,30 - 33,1,N/A,1,N/A
+112,JJ Redick,FT,None,6.7,1,76ers,Clippers,30 - 34,1,N/A,1,N/A
+113,Montrezl Harrell,FG_MISS,None,1.5,1,Clippers,76ers,30 - 34,0,13,2,Jumper
+114,Joel Embiid,DEFENSIVE_REBOUND,None,1.5,1,76ers,Clippers,30 - 34,1,N/A,N/A,N/A
+115,End of,Unknown,None,0.0,1,76ers,Clippers,30 - 34,1,N/A,N/A,N/A
+0,Dario Saric,SUBSTITUTION,Muscala Mike,12:00,2,76ers,Clippers,30 - 34,1,N/A,N/A,N/A
+1,Robert Covington,SUBSTITUTION,Shamet Landry,12:00,2,76ers,Clippers,30 - 34,1,N/A,N/A,N/A
+2,Joel Embiid,FG_UNASSISTED,None,11:44,2,76ers,Clippers,30 - 36,1,0,2,Layup
+3,Montrezl Harrell,FOUL_ON_FLOOR,None,11:44,2,Clippers,76ers,30 - 36,0,N/A,N/A,N/A
+4,Joel Embiid,FT,None,11:44,2,76ers,Clippers,30 - 37,1,N/A,1,N/A
+5,Mike Scott,FG_ASSISTED,Milos Teodosic,11:25,2,Clippers,76ers,33 - 37,0,23,3,Jumper
+6,Joel Embiid,FG_MISS,None,11:12,2,76ers,Clippers,33 - 37,1,0,2,Layup
+7,Joel Embiid,OFFENSIVE_REBOUND,None,11:10,2,76ers,Clippers,33 - 37,1,N/A,N/A,N/A
+8,Joel Embiid,FG_MISS,None,11:08,2,76ers,Clippers,33 - 37,1,3,2,Jumper
+9,Mike Scott,DEFENSIVE_REBOUND,None,11:06,2,Clippers,76ers,33 - 37,0,N/A,N/A,N/A
+10,Milos Teodosic,FG_MISS,None,10:52,2,Clippers,76ers,33 - 37,0,27,3,Jumper
+11,Robert Covington,DEFENSIVE_REBOUND,None,10:48,2,76ers,Clippers,33 - 37,1,N/A,N/A,N/A
+12,Markelle Fultz,FG_UNASSISTED,None,10:40,2,76ers,Clippers,33 - 39,1,3,2,Jumper
+13,Montrezl Harrell,FG_ASSISTED,Lou Williams,10:25,2,Clippers,76ers,35 - 39,0,3,2,Jumper
+14,Markelle Fultz,FG_UNASSISTED,None,10:11,2,76ers,Clippers,35 - 41,1,2,2,Jumper
+15,Milos Teodosic,TURNOVER,None,10:04,2,Clippers,76ers,35 - 41,0,N/A,N/A,N/A
+16,Shai Gilgeous-Alexander,FOUL_ON_FLOOR,None,9:52,2,Clippers,76ers,35 - 41,0,N/A,N/A,N/A
+17,JJ Redick,FT,None,9:52,2,76ers,Clippers,35 - 42,1,N/A,1,N/A
+18,JJ Redick,FT,None,9:52,2,76ers,Clippers,35 - 43,1,N/A,1,N/A
+19,Lou Williams,FG_ASSISTED,Montrezl Harrell,9:42,2,Clippers,76ers,37 - 43,0,10,2,Jumper
+20,Joel Embiid,FG_UNASSISTED,None,9:31,2,76ers,Clippers,37 - 45,1,17,2,Jumper
+21,Milos Teodosic,FG_MISS,None,9:19,2,Clippers,76ers,37 - 45,0,10,2,Jumper
+22,Joel Embiid,DEFENSIVE_REBOUND,None,9:17,2,76ers,Clippers,37 - 45,1,N/A,N/A,N/A
+23,JJ Redick,FG_ASSISTED,Joel Embiid,9:12,2,76ers,Clippers,37 - 48,1,26,3,Jumper
+24,Team,Unknown,None,9:06,2,Clippers,76ers,37 - 48,0,N/A,N/A,N/A
+25,Ben Simmons,SUBSTITUTION,Fultz Markelle,9:06,2,76ers,Clippers,37 - 48,1,N/A,N/A,N/A
+26,Danilo Gallinari,SUBSTITUTION,Teodosic Milos,9:06,2,Clippers,76ers,37 - 48,0,N/A,N/A,N/A
+27,Patrick Beverley,SUBSTITUTION,Scott Mike,9:06,2,Clippers,76ers,37 - 48,0,N/A,N/A,N/A
+28,Dario Saric,FOUL_ON_FLOOR,None,8:59,2,76ers,Clippers,37 - 48,1,N/A,N/A,N/A
+29,Lou Williams,FT,None,8:59,2,Clippers,76ers,38 - 48,0,N/A,1,N/A
+30,Lou Williams,FT,None,8:59,2,Clippers,76ers,39 - 48,0,N/A,1,N/A
+31,Joel Embiid,FOUL_ON_FLOOR,None,8:49,2,76ers,Clippers,39 - 48,1,N/A,N/A,N/A
+32,Joel Embiid,TURNOVER,None,8:49,2,76ers,Clippers,39 - 48,1,N/A,N/A,N/A
+33,Lou Williams,TURNOVER,Robert Covington,8:38,2,Clippers,76ers,39 - 48,0,N/A,N/A,N/A
+34,Joel Embiid,FG_ASSISTED,Ben Simmons,8:33,2,76ers,Clippers,39 - 50,1,0,2,Dunk
+35,Danilo Gallinari,FG_MISS,Joel Embiid,8:10,2,76ers,Clippers,39 - 50,0,9,2,Jumper
+36,Joel Embiid,DEFENSIVE_REBOUND,None,8:09,2,76ers,Clippers,39 - 50,1,N/A,N/A,N/A
+37,Ben Simmons,TURNOVER,Montrezl Harrell,8:04,2,76ers,Clippers,39 - 50,1,N/A,N/A,N/A
+38,Shai Gilgeous-Alexander,FG_MISS,None,7:57,2,Clippers,76ers,39 - 50,0, ,2,Jumper
+39,Robert Covington,DEFENSIVE_REBOUND,None,7:54,2,76ers,Clippers,39 - 50,1,N/A,N/A,N/A
+40,Joel Embiid,FG_ASSISTED,JJ Redick,7:43,2,76ers,Clippers,39 - 53,1, ,3,Jumper
+41,Patrick Beverley,FG_MISS,None,7:27,2,Clippers,76ers,39 - 53,0,24,2,Jumper
+42,Joel Embiid,DEFENSIVE_REBOUND,None,7:25,2,76ers,Clippers,39 - 53,1,N/A,N/A,N/A
+43,Dario Saric,FG_MISS,None,7:07,2,76ers,Clippers,39 - 53,1, ,2,Jumper
+44,Danilo Gallinari,DEFENSIVE_REBOUND,None,7:04,2,Clippers,76ers,39 - 53,0,N/A,N/A,N/A
+45,Danilo Gallinari,TURNOVER,None,7:02,2,Clippers,76ers,39 - 53,0,N/A,N/A,N/A
+46,Landry Shamet,SUBSTITUTION,Redick JJ,7:02,2,76ers,Clippers,39 - 53,1,N/A,N/A,N/A
+47,Marcin Gortat,SUBSTITUTION,Gilgeous-Alexander Shai,7:02,2,Clippers,76ers,39 - 53,0,N/A,N/A,N/A
+48,Tobias Harris,SUBSTITUTION,Harrell Montrezl,7:02,2,Clippers,76ers,39 - 53,0,N/A,N/A,N/A
+49,Avery Bradley,SUBSTITUTION,Williams Lou,7:02,2,Clippers,76ers,39 - 53,0,N/A,N/A,N/A
+50,Landry Shamet,FG_ASSISTED,Dario Saric,6:52,2,76ers,Clippers,39 - 55,1,0,2,Layup
+51,Marcin Gortat,FOUL_ON_FLOOR,None,6:52,2,Clippers,76ers,39 - 55,0,N/A,N/A,N/A
+52,Amir Johnson,SUBSTITUTION,Embiid Joel,6:52,2,76ers,Clippers,39 - 55,1,N/A,N/A,N/A
+53,Landry Shamet,FT_MISS,None,6:52,2,76ers,Clippers,39 - 55,1,N/A,1,N/A
+54,Marcin Gortat,DEFENSIVE_REBOUND,None,6:52,2,Clippers,76ers,39 - 55,0,N/A,N/A,N/A
+55,Avery Bradley,FG_MISS,None,6:35,2,Clippers,76ers,39 - 55,0,19,2,Jumper
+56,Dario Saric,DEFENSIVE_REBOUND,None,6:32,2,76ers,Clippers,39 - 55,1,N/A,N/A,N/A
+57,Ben Simmons,FG_UNASSISTED,None,6:27,2,76ers,Clippers,39 - 57,1, ,2,Jumper
+58,Patrick Beverley,FG_UNASSISTED,None,6:12,2,Clippers,76ers,41 - 57,0, ,2,Jumper
+59,Dario Saric,FG_MISS,None,5:55,2,76ers,Clippers,41 - 57,1,21,2,Jumper
+60,Tobias Harris,DEFENSIVE_REBOUND,None,5:53,2,Clippers,76ers,41 - 57,0,N/A,N/A,N/A
+61,Tobias Harris,FG_UNASSISTED,None,5:50,2,Clippers,76ers,43 - 57,0,0,2,Layup
+62,Team,Unknown,None,5:50,2,76ers,Clippers,41 - 57,1,N/A,N/A,N/A
+63,Mike Muscala,SUBSTITUTION,Saric Dario,5:50,2,76ers,Clippers,43 - 57,1,N/A,N/A,N/A
+64,Robert Covington,FG_ASSISTED,Ben Simmons,5:33,2,76ers,Clippers,43 - 59,1,0,2,Layup
+65,Amir Johnson,FOUL_ON_FLOOR,None,5:21,2,76ers,Clippers,43 - 59,1,N/A,N/A,N/A
+66,Danilo Gallinari,FG_MISS,None,5:17,2,Clippers,76ers,43 - 59,0,27,3,Jumper
+67,Robert Covington,DEFENSIVE_REBOUND,None,5:13,2,76ers,Clippers,43 - 59,1,N/A,N/A,N/A
+68,Amir Johnson,FG_ASSISTED,Ben Simmons,5:07,2,76ers,Clippers,43 - 61,1,0,2,Layup
+69,Marcin Gortat,FOUL_ON_FLOOR,None,5:07,2,Clippers,76ers,43 - 61,0,N/A,N/A,N/A
+70,Amir Johnson,FT,None,5:07,2,76ers,Clippers,43 - 62,1,N/A,1,N/A
+71,Landry Shamet,FOUL_ON_FLOOR,None,4:58,2,76ers,Clippers,43 - 62,1,N/A,N/A,N/A
+72,Danilo Gallinari,FG_MISS,None,4:49,2,Clippers,76ers,43 - 62,0,25,3,Jumper
+73,Marcin Gortat,OFFENSIVE_REBOUND,None,4:47,2,Clippers,76ers,43 - 62,0,N/A,N/A,N/A
+74,Marcin Gortat,TURNOVER,Robert Covington,4:45,2,Clippers,76ers,43 - 62,0,N/A,N/A,N/A
+75,Landry Shamet,FG_ASSISTED,Ben Simmons,4:31,2,76ers,Clippers,43 - 65,1,25,3,Jumper
+76,Marcin Gortat,FG_MISS,None,4:18,2,Clippers,76ers,43 - 65,0,0,2,Layup
+77,Robert Covington,DEFENSIVE_REBOUND,None,4:17,2,76ers,Clippers,43 - 65,1,N/A,N/A,N/A
+78,Ben Simmons,FG_MISS,None,4:09,2,76ers,Clippers,43 - 65,1,13,2,Jumper
+79,Patrick Beverley,DEFENSIVE_REBOUND,None,4:06,2,Clippers,76ers,43 - 65,0,N/A,N/A,N/A
+80,Danilo Gallinari,FG_ASSISTED,Patrick Beverley,4:01,2,Clippers,76ers,46 - 65,0,26,3,Jumper
+81,Ben Simmons,TURNOVER,Patrick Beverley,3:47,2,76ers,Clippers,46 - 65,1,N/A,N/A,N/A
+82,Mike Muscala,FOUL_ON_FLOOR,None,3:43,2,76ers,Clippers,46 - 65,1,N/A,N/A,N/A
+83,Joel Embiid,SUBSTITUTION,Johnson Amir,3:43,2,76ers,Clippers,46 - 65,1,N/A,N/A,N/A
+84,Danilo Gallinari,FT,None,3:43,2,Clippers,76ers,47 - 65,0,N/A,1,N/A
+85,JJ Redick,SUBSTITUTION,Covington Robert,3:43,2,76ers,Clippers,47 - 65,1,N/A,N/A,N/A
+86,Danilo Gallinari,FT,None,3:43,2,Clippers,76ers,48 - 65,0,N/A,1,N/A
+87,Marcin Gortat,FOUL_ON_FLOOR,None,3:36,2,Clippers,76ers,48 - 65,0,N/A,N/A,N/A
+88,JJ Redick,FT_MISS,None,3:36,2,76ers,Clippers,48 - 65,1,N/A,1,N/A
+89,Team,OFFENSIVE_REBOUND,None,3:36,2,76ers,Clippers,48 - 65,1,N/A,N/A,N/A
+90,JJ Redick,FT,None,3:36,2,76ers,Clippers,48 - 66,1,N/A,1,N/A
+91,Landry Shamet,FOUL_ON_FLOOR,None,3:25,2,76ers,Clippers,48 - 66,1,N/A,N/A,N/A
+92,Patrick Beverley,FT_MISS,None,3:25,2,Clippers,76ers,48 - 66,0,N/A,1,N/A
+93,Team,OFFENSIVE_REBOUND,None,3:25,2,Clippers,76ers,48 - 66,0,N/A,N/A,N/A
+94,Patrick Beverley,FT,None,3:25,2,Clippers,76ers,49 - 66,0,N/A,1,N/A
+95,Tobias Harris,Unknown,None,3:18,2,Clippers,76ers,49 - 66,0,N/A,N/A,N/A
+96,Joel Embiid,FG_MISS,None,3:07,2,76ers,Clippers,49 - 66,1,8,2,Jumper
+97,Tobias Harris,DEFENSIVE_REBOUND,None,3:05,2,Clippers,76ers,49 - 66,0,N/A,N/A,N/A
+98,Patrick Beverley,FOUL_ON_FLOOR,None,3:02,2,Clippers,76ers,49 - 66,0,N/A,N/A,N/A
+99,Patrick Beverley,TURNOVER,None,3:02,2,Clippers,76ers,49 - 66,0,N/A,N/A,N/A
+100,JJ Redick,FG_MISS,None,2:53,2,76ers,Clippers,49 - 66,1,21,2,Jumper
+101,Danilo Gallinari,DEFENSIVE_REBOUND,None,2:47,2,Clippers,76ers,49 - 66,0,N/A,N/A,N/A
+102,Marcin Gortat,FOUL_ON_FLOOR,None,2:47,2,Clippers,76ers,49 - 66,0,N/A,N/A,N/A
+103,Marcin Gortat,TURNOVER,None,2:47,2,Clippers,76ers,49 - 66,0,N/A,N/A,N/A
+104,Montrezl Harrell,SUBSTITUTION,Gortat Marcin,2:47,2,Clippers,76ers,49 - 66,0,N/A,N/A,N/A
+105,Joel Embiid,FG_MISS,Montrezl Harrell,2:34,2,Clippers,76ers,49 - 66,1,4,2,Jumper
+106,Team,OFFENSIVE_REBOUND,None,2:34,2,76ers,Clippers,49 - 66,1,N/A,N/A,N/A
+107,Lou Williams,SUBSTITUTION,Beverley Patrick,2:34,2,Clippers,76ers,49 - 66,0,N/A,N/A,N/A
+108,Joel Embiid,FG_UNASSISTED,None,2:27,2,76ers,Clippers,49 - 68,1,0,2,Dunk
+109,Montrezl Harrell,FOUL_ON_FLOOR,None,2:27,2,Clippers,76ers,49 - 68,0,N/A,N/A,N/A
+110,Joel Embiid,FT_MISS,None,2:27,2,76ers,Clippers,49 - 68,1,N/A,1,N/A
+111,Tobias Harris,DEFENSIVE_REBOUND,None,2:27,2,Clippers,76ers,49 - 68,0,N/A,N/A,N/A
+112,Tobias Harris,FG_UNASSISTED,None,2:10,2,Clippers,76ers,51 - 68,0,8,2,Jumper
+113,JJ Redick,FG_MISS,None,1:58,2,76ers,Clippers,51 - 68,1,0,2,Layup
+114,Team,DEFENSIVE_REBOUND,None,1:58,2,Clippers,76ers,51 - 68,0,N/A,N/A,N/A
+115,Joel Embiid,FOUL_ON_FLOOR,None,1:58,2,76ers,Clippers,51 - 68,1,N/A,N/A,N/A
+116,Montrezl Harrell,FT_MISS,None,1:58,2,Clippers,76ers,51 - 68,0,N/A,1,N/A
+117,Team,OFFENSIVE_REBOUND,None,1:58,2,Clippers,76ers,51 - 68,0,N/A,N/A,N/A
+118,Amir Johnson,SUBSTITUTION,Embiid Joel,1:58,2,76ers,Clippers,51 - 68,1,N/A,N/A,N/A
+119,Dario Saric,SUBSTITUTION,Muscala Mike,1:58,2,76ers,Clippers,51 - 68,1,N/A,N/A,N/A
+120,Montrezl Harrell,FT,None,1:58,2,Clippers,76ers,52 - 68,0,N/A,1,N/A
+121,Montrezl Harrell,FOUL_ON_FLOOR,None,1:46,2,Clippers,76ers,52 - 68,0,N/A,N/A,N/A
+122,JJ Redick,FT,None,1:46,2,76ers,Clippers,52 - 69,1,N/A,1,N/A
+123,Boban Marjanovic,SUBSTITUTION,Harrell Montrezl,1:46,2,Clippers,76ers,52 - 69,0,N/A,N/A,N/A
+124,JJ Redick,FT,None,1:46,2,76ers,Clippers,52 - 70,1,N/A,1,N/A
+125,Boban Marjanovic,TURNOVER,None,1:38,2,Clippers,76ers,52 - 70,0,N/A,N/A,N/A
+126,Ben Simmons,FG_UNASSISTED,None,1:17,2,76ers,Clippers,52 - 72,1,12,2,Jumper
+127,Landry Shamet,FOUL_ON_FLOOR,None,1:07,2,76ers,Clippers,52 - 72,1,N/A,N/A,N/A
+128,Boban Marjanovic,FT_MISS,None,1:07,2,Clippers,76ers,52 - 72,0,N/A,1,N/A
+129,Team,OFFENSIVE_REBOUND,None,1:07,2,Clippers,76ers,52 - 72,0,N/A,N/A,N/A
+130,Boban Marjanovic,FT,None,1:07,2,Clippers,76ers,53 - 72,0,N/A,1,N/A
+131,Amir Johnson,TURNOVER,Boban Marjanovic,58.4,2,76ers,Clippers,53 - 72,1,N/A,N/A,N/A
+132,Boban Marjanovic,FG_ASSISTED,Tobias Harris,50.5,2,Clippers,76ers,55 - 72,0,0,2,Layup
+133,Dario Saric,FG_MISS,None,30.4,2,76ers,Clippers,55 - 72,1,0,2,Layup
+134,Boban Marjanovic,DEFENSIVE_REBOUND,None,28.6,2,Clippers,76ers,55 - 72,0,N/A,N/A,N/A
+135,Lou Williams,FG_UNASSISTED,None,11.3,2,Clippers,76ers,57 - 72,0,9,2,Jumper
+136,Ben Simmons,FG_MISS,None,1.3,2,76ers,Clippers,57 - 72,1,6,2,Jumper
+137,Tobias Harris,DEFENSIVE_REBOUND,None,1.3,2,Clippers,76ers,57 - 72,0,N/A,N/A,N/A
+138,End of,Unknown,None,0.0,2,76ers,Clippers,57 - 72,1,N/A,N/A,N/A
+0,Joel Embiid,SUBSTITUTION,Johnson Amir,12:00,3,76ers,Clippers,57 - 72,1,N/A,N/A,N/A
+1,Robert Covington,SUBSTITUTION,Shamet Landry,12:00,3,76ers,Clippers,57 - 72,1,N/A,N/A,N/A
+2,Patrick Beverley,SUBSTITUTION,Williams Lou,12:00,3,Clippers,76ers,57 - 72,0,N/A,N/A,N/A
+3,Robert Covington,FG_MISS,None,11:36,3,76ers,Clippers,57 - 72,1,19,2,Jumper
+4,Danilo Gallinari,DEFENSIVE_REBOUND,None,11:32,3,Clippers,76ers,57 - 72,0,N/A,N/A,N/A
+5,Danilo Gallinari,FG_MISS,None,11:27,3,Clippers,76ers,57 - 72,0,26,3,Jumper
+6,Team,OFFENSIVE_REBOUND,None,11:25,3,Clippers,76ers,57 - 72,0,N/A,N/A,N/A
+7,Danilo Gallinari,FG_UNASSISTED,None,11:18,3,Clippers,76ers,59 - 72,0,0,2,Layup
+8,Joel Embiid,FG_MISS,None,10:56,3,76ers,Clippers,59 - 72,1,10,2,Jumper
+9,Team,DEFENSIVE_REBOUND,None,10:54,3,Clippers,76ers,59 - 72,0,N/A,N/A,N/A
+10,Dario Saric,FOUL_ON_FLOOR,None,10:54,3,76ers,Clippers,59 - 72,1,N/A,N/A,N/A
+11,Boban Marjanovic,FG_ASSISTED,Tobias Harris,10:41,3,Clippers,76ers,61 - 72,0,0,2,Dunk
+12,Team,Unknown,None,10:41,3,76ers,Clippers,61 - 72,1,N/A,N/A,N/A
+13,Dario Saric,FG_MISS,Boban Marjanovic,10:29,3,Clippers,76ers,61 - 72,1,2,2,Jumper
+14,Team,OFFENSIVE_REBOUND,None,10:29,3,76ers,Clippers,61 - 72,1,N/A,N/A,N/A
+15,Joel Embiid,FG_MISS,None,10:22,3,76ers,Clippers,61 - 72,1,19,2,Jumper
+16,Patrick Beverley,DEFENSIVE_REBOUND,None,10:19,3,Clippers,76ers,61 - 72,0,N/A,N/A,N/A
+17,Boban Marjanovic,FOUL_ON_FLOOR,None,10:09,3,Clippers,76ers,61 - 72,0,N/A,N/A,N/A
+18,Boban Marjanovic,TURNOVER,None,10:09,3,Clippers,76ers,61 - 72,0,N/A,N/A,N/A
+19,Robert Covington,FG_ASSISTED,Ben Simmons,9:57,3,76ers,Clippers,61 - 74,1,16,2,Jumper
+20,Tobias Harris,FG_MISS,None,9:37,3,Clippers,76ers,61 - 74,0,0,2,Layup
+21,Team,DEFENSIVE_REBOUND,None,9:37,3,76ers,Clippers,61 - 74,1,N/A,N/A,N/A
+22,JJ Redick,FG_MISS,None,9:15,3,76ers,Clippers,61 - 74,1, ,2,Jumper
+23,Boban Marjanovic,DEFENSIVE_REBOUND,None,9:12,3,Clippers,76ers,61 - 74,0,N/A,N/A,N/A
+24,Tobias Harris,FG_ASSISTED,Boban Marjanovic,9:02,3,Clippers,76ers,64 - 74,0,25,3,Jumper
+25,Danilo Gallinari,FOUL_ON_FLOOR,None,8:45,3,Clippers,76ers,64 - 74,0,N/A,N/A,N/A
+26,Dario Saric,FT,None,8:45,3,76ers,Clippers,64 - 75,1,N/A,1,N/A
+27,Dario Saric,FT,None,8:45,3,76ers,Clippers,64 - 76,1,N/A,1,N/A
+28,Boban Marjanovic,FG_ASSISTED,Patrick Beverley,8:35,3,Clippers,76ers,66 - 76,0,0,2,Layup
+29,Dario Saric,TURNOVER,Patrick Beverley,8:19,3,76ers,Clippers,66 - 76,1,N/A,N/A,N/A
+30,Danilo Gallinari,FG_MISS,None,8:14,3,Clippers,76ers,66 - 76,0,16,2,Jumper
+31,Joel Embiid,DEFENSIVE_REBOUND,None,8:11,3,76ers,Clippers,66 - 76,1,N/A,N/A,N/A
+32,Joel Embiid,FG_MISS,None,8:01,3,76ers,Clippers,66 - 76,1,25,3,Jumper
+33,Tobias Harris,DEFENSIVE_REBOUND,None,7:57,3,Clippers,76ers,66 - 76,0,N/A,N/A,N/A
+34,Avery Bradley,FG_MISS,None,7:45,3,Clippers,76ers,66 - 76,0, ,2,Jumper
+35,Avery Bradley,OFFENSIVE_REBOUND,None,7:41,3,Clippers,76ers,66 - 76,0,N/A,N/A,N/A
+36,Avery Bradley,FG_MISS,None,7:41,3,Clippers,76ers,66 - 76,0, ,2,Jumper
+37,Boban Marjanovic,OFFENSIVE_REBOUND,None,7:38,3,Clippers,76ers,66 - 76,0,N/A,N/A,N/A
+38,Boban Marjanovic,FG_UNASSISTED,None,7:38,3,Clippers,76ers,68 - 76,0, ,2,Jumper
+39,Joel Embiid,FG_ASSISTED,Dario Saric,7:26,3,76ers,Clippers,68 - 78,1,16,2,Jumper
+40,Danilo Gallinari,FG_ASSISTED,Tobias Harris,7:06,3,Clippers,76ers,71 - 78,0,26,3,Jumper
+41,Joel Embiid,FG_MISS,None,6:55,3,76ers,Clippers,71 - 78,1,26,3,Jumper
+42,Boban Marjanovic,DEFENSIVE_REBOUND,None,6:53,3,Clippers,76ers,71 - 78,0,N/A,N/A,N/A
+43,Tobias Harris,FG_UNASSISTED,None,6:45,3,Clippers,76ers,73 - 78,0,8,2,Jumper
+44,JJ Redick,TURNOVER,Avery Bradley,6:29,3,76ers,Clippers,73 - 78,1,N/A,N/A,N/A
+45,Ben Simmons,FOUL_ON_FLOOR,None,6:26,3,76ers,Clippers,73 - 78,1,N/A,N/A,N/A
+46,Patrick Beverley,FT_MISS,None,6:26,3,Clippers,76ers,73 - 78,0,N/A,1,N/A
+47,Team,OFFENSIVE_REBOUND,None,6:26,3,Clippers,76ers,73 - 78,0,N/A,N/A,N/A
+48,Amir Johnson,SUBSTITUTION,Saric Dario,6:26,3,76ers,Clippers,73 - 78,1,N/A,N/A,N/A
+49,Landry Shamet,SUBSTITUTION,Redick JJ,6:26,3,76ers,Clippers,73 - 78,1,N/A,N/A,N/A
+50,Mike Muscala,SUBSTITUTION,Embiid Joel,6:26,3,76ers,Clippers,73 - 78,1,N/A,N/A,N/A
+51,Patrick Beverley,FT,None,6:26,3,Clippers,76ers,74 - 78,0,N/A,1,N/A
+52,Landry Shamet,FG_MISS,None,6:15,3,76ers,Clippers,74 - 78,1,28,3,Jumper
+53,Danilo Gallinari,DEFENSIVE_REBOUND,None,6:12,3,Clippers,76ers,74 - 78,0,N/A,N/A,N/A
+54,Patrick Beverley,FG_MISS,None,6:06,3,Clippers,76ers,74 - 78,0,26,3,Jumper
+55,Robert Covington,DEFENSIVE_REBOUND,None,6:03,3,76ers,Clippers,74 - 78,1,N/A,N/A,N/A
+56,Amir Johnson,FG_MISS,None,5:52,3,76ers,Clippers,74 - 78,1,7,2,Jumper
+57,Boban Marjanovic,DEFENSIVE_REBOUND,None,5:49,3,Clippers,76ers,74 - 78,0,N/A,N/A,N/A
+58,Tobias Harris,FG_UNASSISTED,None,5:40,3,Clippers,76ers,76 - 78,0,14,2,Jumper
+59,Patrick Beverley,FOUL_ON_FLOOR,None,5:27,3,Clippers,76ers,76 - 78,0,N/A,N/A,N/A
+60,Patrick Beverley,FOUL_ON_FLOOR,None,5:23,3,Clippers,76ers,76 - 78,0,N/A,N/A,N/A
+61,5 second,Unknown,None,5:23,3,76ers,Clippers,76 - 78,1,N/A,N/A,N/A
+62,Robert Covington,FOUL_ON_FLOOR,None,5:11,3,76ers,Clippers,76 - 78,1,N/A,N/A,N/A
+63,Tobias Harris,FT,None,5:11,3,Clippers,76ers,77 - 78,0,N/A,1,N/A
+64,Montrezl Harrell,SUBSTITUTION,Marjanovic Boban,5:11,3,Clippers,76ers,77 - 78,0,N/A,N/A,N/A
+65,Tobias Harris,FT,None,5:11,3,Clippers,76ers,78 - 78,0,N/A,1,N/A
+66,Ben Simmons,FG_MISS,None,4:53,3,76ers,Clippers,78 - 78,1,11,2,Jumper
+67,Danilo Gallinari,DEFENSIVE_REBOUND,None,4:49,3,Clippers,76ers,78 - 78,0,N/A,N/A,N/A
+68,Montrezl Harrell,FG_MISS,None,4:39,3,Clippers,76ers,78 - 78,0,0,2,Layup
+69,Amir Johnson,DEFENSIVE_REBOUND,None,4:37,3,76ers,Clippers,78 - 78,1,N/A,N/A,N/A
+70,Landry Shamet,FG_ASSISTED,Mike Muscala,4:25,3,76ers,Clippers,78 - 80,1,14,2,Jumper
+71,Tobias Harris,FG_MISS,None,4:04,3,Clippers,76ers,78 - 80,0,26,3,Jumper
+72,Patrick Beverley,OFFENSIVE_REBOUND,None,4:04,3,Clippers,76ers,78 - 80,0,N/A,N/A,N/A
+73,Danilo Gallinari,FG_ASSISTED,Patrick Beverley,3:58,3,Clippers,76ers,81 - 80,0,26,3,Jumper
+74,Team,Unknown,None,3:58,3,76ers,Clippers,81 - 80,1,N/A,N/A,N/A
+75,Joel Embiid,SUBSTITUTION,Johnson Amir,3:58,3,76ers,Clippers,81 - 80,1,N/A,N/A,N/A
+76,JJ Redick,SUBSTITUTION,Simmons Ben,3:58,3,76ers,Clippers,81 - 80,1,N/A,N/A,N/A
+77,Markelle Fultz,SUBSTITUTION,Covington Robert,3:58,3,76ers,Clippers,81 - 80,1,N/A,N/A,N/A
+78,Shai Gilgeous-Alexander,SUBSTITUTION,Beverley Patrick,3:58,3,Clippers,76ers,81 - 80,0,N/A,N/A,N/A
+79,JJ Redick,TURNOVER,None,3:44,3,76ers,Clippers,81 - 80,1,N/A,N/A,N/A
+80,Danilo Gallinari,FG_ASSISTED,Shai Gilgeous-Alexander,3:34,3,Clippers,76ers,84 - 80,0,26,3,Jumper
+81,Montrezl Harrell,FOUL_ON_FLOOR,None,3:18,3,Clippers,76ers,84 - 80,0,N/A,N/A,N/A
+82,Boban Marjanovic,SUBSTITUTION,Harrell Montrezl,3:18,3,Clippers,76ers,84 - 80,0,N/A,N/A,N/A
+83,Lou Williams,SUBSTITUTION,Gallinari Danilo,3:18,3,Clippers,76ers,84 - 80,0,N/A,N/A,N/A
+84,JJ Redick,FOUL_ON_FLOOR,None,3:12,3,76ers,Clippers,84 - 80,1,N/A,N/A,N/A
+85,JJ Redick,TURNOVER,None,3:12,3,76ers,Clippers,84 - 80,1,N/A,N/A,N/A
+86,Tobias Harris,TURNOVER,None,3:03,3,Clippers,76ers,84 - 80,0,N/A,N/A,N/A
+87,Markelle Fultz,FG_MISS,Shai Gilgeous-Alexander,2:56,3,Clippers,76ers,84 - 80,1,3,2,Jumper
+88,Markelle Fultz,OFFENSIVE_REBOUND,None,2:53,3,76ers,Clippers,84 - 80,1,N/A,N/A,N/A
+89,Mike Muscala,FG_MISS,None,2:51,3,76ers,Clippers,84 - 80,1,26,3,Jumper
+90,Joel Embiid,OFFENSIVE_REBOUND,None,2:47,3,76ers,Clippers,84 - 80,1,N/A,N/A,N/A
+91,Mike Muscala,FG_MISS,Boban Marjanovic,2:46,3,Clippers,76ers,84 - 80,1,0,2,Layup
+92,Team,OFFENSIVE_REBOUND,None,2:46,3,76ers,Clippers,84 - 80,1,N/A,N/A,N/A
+93,JJ Redick,FG_MISS,None,2:43,3,76ers,Clippers,84 - 80,1,24,3,Jumper
+94,Tobias Harris,DEFENSIVE_REBOUND,None,2:43,3,Clippers,76ers,84 - 80,0,N/A,N/A,N/A
+95,Lou Williams,FG_MISS,None,2:35,3,Clippers,76ers,84 - 80,0,17,2,Jumper
+96,Landry Shamet,DEFENSIVE_REBOUND,None,2:32,3,76ers,Clippers,84 - 80,1,N/A,N/A,N/A
+97,Joel Embiid,FG_MISS,None,2:25,3,76ers,Clippers,84 - 80,1,0,2,Layup
+98,Tobias Harris,DEFENSIVE_REBOUND,None,2:22,3,Clippers,76ers,84 - 80,0,N/A,N/A,N/A
+99,Markelle Fultz,FOUL_ON_FLOOR,None,2:20,3,76ers,Clippers,84 - 80,1,N/A,N/A,N/A
+100,Tobias Harris,FG_MISS,None,2:06,3,Clippers,76ers,84 - 80,0,9,2,Jumper
+101,Joel Embiid,DEFENSIVE_REBOUND,None,2:04,3,76ers,Clippers,84 - 80,1,N/A,N/A,N/A
+102,Markelle Fultz,FG_UNASSISTED,None,2:00,3,76ers,Clippers,84 - 82,1, ,2,Jumper
+103,Tobias Harris,Unknown,None,2:00,3,Clippers,76ers,84 - 82,0,N/A,N/A,N/A
+104,Lou Williams,FG_MISS,None,1:47,3,Clippers,76ers,84 - 82,0,17,2,Jumper
+105,Joel Embiid,DEFENSIVE_REBOUND,None,1:44,3,76ers,Clippers,84 - 82,1,N/A,N/A,N/A
+106,Mike Muscala,FG_ASSISTED,Markelle Fultz,1:41,3,76ers,Clippers,84 - 85,1,29,3,Jumper
+107,Lou Williams,FOUL_ON_FLOOR,None,1:41,3,Clippers,76ers,84 - 82,0,N/A,N/A,N/A
+108,Team,Unknown,None,1:41,3,Clippers,76ers,84 - 82,0,N/A,N/A,N/A
+109,Mike Muscala,FT,None,1:41,3,76ers,Clippers,84 - 86,1,N/A,1,N/A
+110,Shai Gilgeous-Alexander,FG_MISS,None,1:21,3,Clippers,76ers,84 - 86,0,11,2,Jumper
+111,Markelle Fultz,DEFENSIVE_REBOUND,None,1:18,3,76ers,Clippers,84 - 86,1,N/A,N/A,N/A
+112,Markelle Fultz,FG_UNASSISTED,None,1:14,3,76ers,Clippers,84 - 88,1, ,2,Jumper
+113,Boban Marjanovic,FG_MISS,None,1:01,3,Clippers,76ers,84 - 88,0,20,2,Jumper
+114,Joel Embiid,DEFENSIVE_REBOUND,None,59.1,3,76ers,Clippers,84 - 88,1,N/A,N/A,N/A
+115,Joel Embiid,FG_MISS,Boban Marjanovic,46.3,3,Clippers,76ers,84 - 88,1,0,2,Layup
+116,Shai Gilgeous-Alexander,DEFENSIVE_REBOUND,None,42.4,3,Clippers,76ers,84 - 88,0,N/A,N/A,N/A
+117,Mike Muscala,FOUL_ON_FLOOR,None,36.8,3,76ers,Clippers,84 - 88,1,N/A,N/A,N/A
+118,Lou Williams,FT,None,36.8,3,Clippers,76ers,85 - 88,0,N/A,1,N/A
+119,Mike Scott,SUBSTITUTION,Bradley Avery,36.8,3,Clippers,76ers,85 - 88,0,N/A,N/A,N/A
+120,Patrick Beverley,SUBSTITUTION,Harris Tobias,36.8,3,Clippers,76ers,85 - 88,0,N/A,N/A,N/A
+121,Lou Williams,FT,None,36.8,3,Clippers,76ers,86 - 88,0,N/A,1,N/A
+122,Joel Embiid,FG_MISS,None,26.7,3,76ers,Clippers,86 - 88,1,12,2,Jumper
+123,Mike Scott,DEFENSIVE_REBOUND,None,24.2,3,Clippers,76ers,86 - 88,0,N/A,N/A,N/A
+124,Mike Scott,FOUL_ON_FLOOR,None,5.7,3,Clippers,76ers,86 - 88,0,N/A,N/A,N/A
+125,Mike Scott,TURNOVER,None,5.7,3,Clippers,76ers,86 - 88,0,N/A,N/A,N/A
+126,Tyrone Wallace,SUBSTITUTION,Williams Lou,5.7,3,Clippers,76ers,86 - 88,0,N/A,N/A,N/A
+127,Markelle Fultz,FG_UNASSISTED,None,0.6,3,76ers,Clippers,86 - 90,1, ,2,Jumper
+128,End of,Unknown,None,0.0,3,76ers,Clippers,86 - 90,1,N/A,N/A,N/A
+0,Robert Covington,SUBSTITUTION,Shamet Landry,12:00,4,76ers,Clippers,86 - 90,1,N/A,N/A,N/A
+1,Lou Williams,SUBSTITUTION,Wallace Tyrone,12:00,4,Clippers,76ers,86 - 90,0,N/A,N/A,N/A
+2,Shai Gilgeous-Alexander,FG_UNASSISTED,None,12:00,4,Clippers,76ers,88 - 90,0,12,2,Jumper
+3,Joel Embiid,FG_ASSISTED,Mike Muscala,11:35,4,76ers,Clippers,88 - 92,1,15,2,Jumper
+4,Shai Gilgeous-Alexander,FG_MISS,Joel Embiid,11:25,4,76ers,Clippers,88 - 92,0,3,2,Jumper
+5,Team,OFFENSIVE_REBOUND,None,11:25,4,Clippers,76ers,88 - 92,0,N/A,N/A,N/A
+6,Mike Muscala,FOUL_ON_FLOOR,None,11:23,4,76ers,Clippers,88 - 92,1,N/A,N/A,N/A
+7,Boban Marjanovic,TURNOVER,Robert Covington,11:19,4,Clippers,76ers,88 - 92,0,N/A,N/A,N/A
+8,JJ Redick,FG_ASSISTED,Robert Covington,11:15,4,76ers,Clippers,88 - 95,1,26,3,Jumper
+9,Lou Williams,FG_MISS,Robert Covington,10:56,4,76ers,Clippers,88 - 95,0,7,2,Jumper
+10,Lou Williams,OFFENSIVE_REBOUND,None,10:52,4,Clippers,76ers,88 - 95,0,N/A,N/A,N/A
+11,Lou Williams,FG_MISS,None,10:52,4,Clippers,76ers,88 - 95,0,0,2,Layup
+12,Mike Scott,OFFENSIVE_REBOUND,None,10:52,4,Clippers,76ers,88 - 95,0,N/A,N/A,N/A
+13,Shai Gilgeous-Alexander,FG_MISS,Joel Embiid,10:43,4,76ers,Clippers,88 - 95,0,0,2,Layup
+14,Markelle Fultz,DEFENSIVE_REBOUND,None,10:40,4,76ers,Clippers,88 - 95,1,N/A,N/A,N/A
+15,Mike Scott,FOUL_ON_FLOOR,None,10:39,4,Clippers,76ers,88 - 95,0,N/A,N/A,N/A
+16,Markelle Fultz,FT,None,10:39,4,76ers,Clippers,88 - 96,1,N/A,1,N/A
+17,Dario Saric,SUBSTITUTION,Muscala Mike,10:39,4,76ers,Clippers,88 - 96,1,N/A,N/A,N/A
+18,Danilo Gallinari,SUBSTITUTION,Scott Mike,10:39,4,Clippers,76ers,88 - 96,0,N/A,N/A,N/A
+19,Markelle Fultz,FT_MISS,None,10:39,4,76ers,Clippers,88 - 96,1,N/A,1,N/A
+20,Boban Marjanovic,DEFENSIVE_REBOUND,None,10:37,4,Clippers,76ers,88 - 96,0,N/A,N/A,N/A
+21,Patrick Beverley,FG_MISS,None,10:28,4,Clippers,76ers,88 - 96,0,25,3,Jumper
+22,Markelle Fultz,DEFENSIVE_REBOUND,None,10:24,4,76ers,Clippers,88 - 96,1,N/A,N/A,N/A
+23,Robert Covington,FG_ASSISTED,Markelle Fultz,10:20,4,76ers,Clippers,88 - 99,1,26,3,Jumper
+24,Team,Unknown,None,10:19,4,Clippers,76ers,88 - 99,0,N/A,N/A,N/A
+25,Lou Williams,FG_UNASSISTED,None,10:09,4,Clippers,76ers,90 - 99,0,11,2,Jumper
+26,Boban Marjanovic,FOUL_ON_FLOOR,None,9:53,4,Clippers,76ers,90 - 99,0,N/A,N/A,N/A
+27,JJ Redick,FG_MISS,None,9:47,4,76ers,Clippers,90 - 99,1,23,2,Jumper
+28,Joel Embiid,OFFENSIVE_REBOUND,None,9:41,4,76ers,Clippers,90 - 99,1,N/A,N/A,N/A
+29,Joel Embiid,FG_UNASSISTED,None,9:41,4,76ers,Clippers,90 - 101,1,0,2,Dunk
+30,Lou Williams,FG_UNASSISTED,None,9:33,4,Clippers,76ers,93 - 101,0,25,3,Jumper
+31,Joel Embiid,TURNOVER,None,9:17,4,76ers,Clippers,93 - 101,1,N/A,N/A,N/A
+32,Avery Bradley,SUBSTITUTION,Gilgeous-Alexander Shai,9:17,4,Clippers,76ers,93 - 101,0,N/A,N/A,N/A
+33,Lou Williams,FG_UNASSISTED,None,9:11,4,Clippers,76ers,95 - 101,0,0,2,Layup
+34,Joel Embiid,FG_MISS,None,8:58,4,76ers,Clippers,95 - 101,1,26,3,Jumper
+35,Boban Marjanovic,DEFENSIVE_REBOUND,None,8:56,4,Clippers,76ers,95 - 101,0,N/A,N/A,N/A
+36,Lou Williams,FG_UNASSISTED,None,8:49,4,Clippers,76ers,97 - 101,0,15,2,Jumper
+37,JJ Redick,TURNOVER,None,8:32,4,76ers,Clippers,97 - 101,1,N/A,N/A,N/A
+38,Ben Simmons,SUBSTITUTION,Embiid Joel,8:32,4,76ers,Clippers,97 - 101,1,N/A,N/A,N/A
+39,Lou Williams,FG_MISS,None,8:26,4,Clippers,76ers,97 - 101,0,25,3,Jumper
+40,Team,OFFENSIVE_REBOUND,None,8:25,4,Clippers,76ers,97 - 101,0,N/A,N/A,N/A
+41,Dario Saric,FOUL_ON_FLOOR,None,8:25,4,76ers,Clippers,97 - 101,1,N/A,N/A,N/A
+42,Landry Shamet,SUBSTITUTION,Redick JJ,8:25,4,76ers,Clippers,97 - 101,1,N/A,N/A,N/A
+43,Boban Marjanovic,FG_MISS,None,8:15,4,Clippers,76ers,97 - 101,0,0,2,Layup
+44,Robert Covington,DEFENSIVE_REBOUND,None,8:13,4,76ers,Clippers,97 - 101,1,N/A,N/A,N/A
+45,Dario Saric,FG_ASSISTED,Markelle Fultz,8:05,4,76ers,Clippers,97 - 104,1,26,3,Jumper
+46,Lou Williams,FG_UNASSISTED,None,7:56,4,Clippers,76ers,99 - 104,0,1,2,Jumper
+47,Dario Saric,FOUL_ON_FLOOR,None,7:56,4,76ers,Clippers,99 - 104,1,N/A,N/A,N/A
+48,Lou Williams,FT_MISS,None,7:56,4,Clippers,76ers,99 - 104,0,N/A,1,N/A
+49,Dario Saric,DEFENSIVE_REBOUND,None,7:56,4,76ers,Clippers,99 - 104,1,N/A,N/A,N/A
+50,Dario Saric,FG_MISS,None,7:28,4,76ers,Clippers,99 - 104,1,24,2,Jumper
+51,Markelle Fultz,OFFENSIVE_REBOUND,None,7:25,4,76ers,Clippers,99 - 104,1,N/A,N/A,N/A
+52,Markelle Fultz,FG_MISS,None,7:14,4,76ers,Clippers,99 - 104,1,18,2,Jumper
+53,Danilo Gallinari,DEFENSIVE_REBOUND,None,7:11,4,Clippers,76ers,99 - 104,0,N/A,N/A,N/A
+54,Danilo Gallinari,FG_MISS,Robert Covington,7:05,4,76ers,Clippers,99 - 104,0,9,2,Jumper
+55,Team,OFFENSIVE_REBOUND,None,7:05,4,Clippers,76ers,99 - 104,0,N/A,N/A,N/A
+56,Boban Marjanovic,FG_ASSISTED,Danilo Gallinari,6:58,4,Clippers,76ers,101 - 104,0,11,2,Jumper
+57,Landry Shamet,FG_MISS,None,6:46,4,76ers,Clippers,101 - 104,1,26,3,Jumper
+58,Boban Marjanovic,DEFENSIVE_REBOUND,None,6:44,4,Clippers,76ers,101 - 104,0,N/A,N/A,N/A
+59,Lou Williams,TURNOVER,Robert Covington,6:36,4,Clippers,76ers,101 - 104,0,N/A,N/A,N/A
+60,Ben Simmons,FG_ASSISTED,Markelle Fultz,6:33,4,76ers,Clippers,101 - 106,1,0,2,Dunk
+61,Lou Williams,FG_ASSISTED,Avery Bradley,6:17,4,Clippers,76ers,103 - 106,0,9,2,Jumper
+62,Dario Saric,FG_MISS,None,6:00,4,76ers,Clippers,103 - 106,1,26,3,Jumper
+63,Avery Bradley,DEFENSIVE_REBOUND,None,5:57,4,Clippers,76ers,103 - 106,0,N/A,N/A,N/A
+64,Danilo Gallinari,FG_MISS,None,5:50,4,Clippers,76ers,103 - 106,0,21,2,Jumper
+65,Markelle Fultz,DEFENSIVE_REBOUND,None,5:47,4,76ers,Clippers,103 - 106,1,N/A,N/A,N/A
+66,Markelle Fultz,TURNOVER,Lou Williams,5:41,4,76ers,Clippers,103 - 106,1,N/A,N/A,N/A
+67,Lou Williams,FG_MISS,None,5:35,4,Clippers,76ers,103 - 106,0,25,3,Jumper
+68,Team,DEFENSIVE_REBOUND,None,5:33,4,76ers,Clippers,103 - 106,1,N/A,N/A,N/A
+69,Team,Unknown,None,5:33,4,Clippers,76ers,103 - 106,0,N/A,N/A,N/A
+70,Mike Muscala,SUBSTITUTION,Saric Dario,5:33,4,76ers,Clippers,103 - 106,1,N/A,N/A,N/A
+71,Joel Embiid,SUBSTITUTION,Fultz Markelle,5:33,4,76ers,Clippers,103 - 106,1,N/A,N/A,N/A
+72,JJ Redick,SUBSTITUTION,Shamet Landry,5:33,4,76ers,Clippers,103 - 106,1,N/A,N/A,N/A
+73,Joel Embiid,FG_MISS,None,5:16,4,76ers,Clippers,103 - 106,1,25,3,Jumper
+74,Boban Marjanovic,DEFENSIVE_REBOUND,None,5:13,4,Clippers,76ers,103 - 106,0,N/A,N/A,N/A
+75,Ben Simmons,FOUL_ON_FLOOR,None,5:06,4,76ers,Clippers,103 - 106,1,N/A,N/A,N/A
+76,Tobias Harris,SUBSTITUTION,Williams Lou,5:06,4,Clippers,76ers,103 - 106,0,N/A,N/A,N/A
+77,Patrick Beverley,FG_MISS,None,4:52,4,Clippers,76ers,103 - 106,0,26,3,Jumper
+78,Ben Simmons,DEFENSIVE_REBOUND,None,4:49,4,76ers,Clippers,103 - 106,1,N/A,N/A,N/A
+79,JJ Redick,FG_MISS,None,4:46,4,76ers,Clippers,103 - 106,1,28,3,Jumper
+80,JJ Redick,OFFENSIVE_REBOUND,None,4:44,4,76ers,Clippers,103 - 106,1,N/A,N/A,N/A
+81,Boban Marjanovic,FOUL_ON_FLOOR,None,4:40,4,Clippers,76ers,103 - 106,0,N/A,N/A,N/A
+82,Joel Embiid,FT,None,4:40,4,76ers,Clippers,103 - 107,1,N/A,1,N/A
+83,Joel Embiid,FT_MISS,None,4:40,4,76ers,Clippers,103 - 107,1,N/A,1,N/A
+84,Danilo Gallinari,DEFENSIVE_REBOUND,None,4:38,4,Clippers,76ers,103 - 107,0,N/A,N/A,N/A
+85,Danilo Gallinari,FG_MISS,None,4:21,4,Clippers,76ers,103 - 107,0,17,2,Jumper
+86,Robert Covington,DEFENSIVE_REBOUND,None,4:18,4,76ers,Clippers,103 - 107,1,N/A,N/A,N/A
+87,Joel Embiid,FG_ASSISTED,Ben Simmons,4:10,4,76ers,Clippers,103 - 110,1,26,3,Jumper
+88,Team,Unknown,None,4:09,4,Clippers,76ers,103 - 110,0,N/A,N/A,N/A
+89,Lou Williams,SUBSTITUTION,Beverley Patrick,4:09,4,Clippers,76ers,103 - 110,0,N/A,N/A,N/A
+90,Ben Simmons,FOUL_ON_FLOOR,None,4:00,4,76ers,Clippers,103 - 110,1,N/A,N/A,N/A
+91,Boban Marjanovic,FT,None,4:00,4,Clippers,76ers,104 - 110,0,N/A,1,N/A
+92,Boban Marjanovic,FT,None,4:00,4,Clippers,76ers,105 - 110,0,N/A,1,N/A
+93,Mike Muscala,FG_MISS,Tobias Harris,3:46,4,Clippers,76ers,105 - 110,1,0,2,Layup
+94,Team,DEFENSIVE_REBOUND,None,3:45,4,Clippers,76ers,105 - 110,0,N/A,N/A,N/A
+95,Lou Williams,FG_MISS,None,3:39,4,Clippers,76ers,105 - 110,0,0,2,Layup
+96,Boban Marjanovic,OFFENSIVE_REBOUND,None,3:38,4,Clippers,76ers,105 - 110,0,N/A,N/A,N/A
+97,Robert Covington,FOUL_ON_FLOOR,None,3:38,4,76ers,Clippers,105 - 110,1,N/A,N/A,N/A
+98,Boban Marjanovic,FT,None,3:38,4,Clippers,76ers,106 - 110,0,N/A,1,N/A
+99,Boban Marjanovic,FT,None,3:38,4,Clippers,76ers,107 - 110,0,N/A,1,N/A
+100,Team,Unknown,None,3:38,4,76ers,Clippers,107 - 110,1,N/A,N/A,N/A
+101,Joel Embiid,FG_ASSISTED,Mike Muscala,3:27,4,76ers,Clippers,107 - 112,1,0,2,Dunk
+102,Joel Embiid,FOUL_ON_FLOOR,None,3:05,4,76ers,Clippers,107 - 112,1,N/A,N/A,N/A
+103,Danilo Gallinari,FT,None,3:05,4,Clippers,76ers,108 - 112,0,N/A,1,N/A
+104,Danilo Gallinari,FT,None,3:05,4,Clippers,76ers,109 - 112,0,N/A,1,N/A
+105,Joel Embiid,FG_MISS,None,2:57,4,76ers,Clippers,109 - 112,1,27,3,Jumper
+106,Boban Marjanovic,DEFENSIVE_REBOUND,None,2:54,4,Clippers,76ers,109 - 112,0,N/A,N/A,N/A
+107,Lou Williams,TURNOVER,None,2:38,4,Clippers,76ers,109 - 112,0,N/A,N/A,N/A
+108,JJ Redick,FG_ASSISTED,Ben Simmons,2:28,4,76ers,Clippers,109 - 115,1,26,3,Jumper
+109,Ben Simmons,Unknown,None,2:10,4,76ers,Clippers,109 - 115,1,N/A,N/A,N/A
+110,Avery Bradley,FG_MISS,None,1:56,4,Clippers,76ers,109 - 115,0,25,3,Jumper
+111,Mike Muscala,DEFENSIVE_REBOUND,None,1:53,4,76ers,Clippers,109 - 115,1,N/A,N/A,N/A
+112,Joel Embiid,FG_ASSISTED,JJ Redick,1:39,4,76ers,Clippers,109 - 117,1,0,2,Dunk
+113,Team,Unknown,None,1:39,4,Clippers,76ers,109 - 117,0,N/A,N/A,N/A
+114,Lou Williams,TURNOVER,None,1:34,4,Clippers,76ers,109 - 117,0,N/A,N/A,N/A
+115,Boban Marjanovic,FOUL_ON_FLOOR,None,1:14,4,Clippers,76ers,109 - 117,0,N/A,N/A,N/A
+116,Joel Embiid,FT_MISS,None,1:14,4,76ers,Clippers,109 - 117,1,N/A,1,N/A
+117,Team,OFFENSIVE_REBOUND,None,1:14,4,76ers,Clippers,109 - 117,1,N/A,N/A,N/A
+118,Patrick Beverley,SUBSTITUTION,Marjanovic Boban,1:14,4,Clippers,76ers,109 - 117,0,N/A,N/A,N/A
+119,Joel Embiid,FT,None,1:14,4,76ers,Clippers,109 - 118,1,N/A,1,N/A
+120,Lou Williams,FG_MISS,None,1:04,4,Clippers,76ers,109 - 118,0,16,2,Jumper
+121,Ben Simmons,DEFENSIVE_REBOUND,None,1:03,4,76ers,Clippers,109 - 118,1,N/A,N/A,N/A
+122,Patrick Beverley,FOUL_ON_FLOOR,None,1:03,4,Clippers,76ers,109 - 118,0,N/A,N/A,N/A
+123,Ben Simmons,FT,None,1:03,4,76ers,Clippers,109 - 119,1,N/A,1,N/A
+124,Ben Simmons,FT,None,1:03,4,76ers,Clippers,109 - 120,1,N/A,1,N/A
+125,Joel Embiid,FOUL_ON_FLOOR,None,56.2,4,76ers,Clippers,109 - 120,1,N/A,N/A,N/A
+126,Danilo Gallinari,FT,None,56.2,4,Clippers,76ers,110 - 120,0,N/A,1,N/A
+127,Danilo Gallinari,FT,None,56.2,4,Clippers,76ers,111 - 120,0,N/A,1,N/A
+128,Patrick Beverley,FOUL_ON_FLOOR,None,53.4,4,Clippers,76ers,111 - 120,0,N/A,N/A,N/A
+129,Joel Embiid,FT,None,53.4,4,76ers,Clippers,111 - 121,1,N/A,1,N/A
+130,Joel Embiid,FT,None,53.4,4,76ers,Clippers,111 - 122,1,N/A,1,N/A
+131,Shai Gilgeous-Alexander,SUBSTITUTION,Beverley Patrick,53.4,4,Clippers,76ers,111 - 120,0,N/A,N/A,N/A
+132,Ben Simmons,FG_MISS,None,38.1,4,76ers,Clippers,111 - 122,1,4,2,Jumper
+133,Joel Embiid,OFFENSIVE_REBOUND,None,35.7,4,76ers,Clippers,111 - 122,1,N/A,N/A,N/A
+134,shot clock,TURNOVER,None,23.0,4,76ers,Clippers,111 - 122,1,N/A,N/A,N/A
+135,Jerome Robinson,SUBSTITUTION,Bradley Avery,23.0,4,Clippers,76ers,111 - 122,0,N/A,N/A,N/A
+136,Tyrone Wallace,SUBSTITUTION,Williams Lou,23.0,4,Clippers,76ers,111 - 122,0,N/A,N/A,N/A
+137,Tobias Harris,FG_UNASSISTED,None,13.6,4,Clippers,76ers,113 - 122,0,0,2,Dunk
+138,End of,Unknown,None,0.0,4,76ers,Clippers,113 - 122,1,N/A,N/A,N/A
+139,End of,Unknown,None,0.0,4,76ers,Clippers,113 - 122,1,N/A,N/A,N/A

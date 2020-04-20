@@ -1,0 +1,521 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Deandre Ayton,JUMP_BALL,None,12:00,1,Suns,Nuggets,0 - 0,0,N/A,N/A,N/A
+1,Deandre Ayton,FG_MISS,Gary Harris,11:34,1,Nuggets,Suns,0 - 0,0,6,2,Jumper
+2,Jamal Murray,DEFENSIVE_REBOUND,None,11:31,1,Nuggets,Suns,0 - 0,1,N/A,N/A,N/A
+3,Jamal Murray,FG_MISS,None,11:31,1,Nuggets,Suns,0 - 0,1,27,3,Jumper
+4,Team,DEFENSIVE_REBOUND,None,11:31,1,Suns,Nuggets,0 - 0,0,N/A,N/A,N/A
+5,Trevor Ariza,FG_MISS,None,11:15,1,Suns,Nuggets,0 - 0,0,23,3,Jumper
+6,Nikola Jokic,DEFENSIVE_REBOUND,None,11:12,1,Nuggets,Suns,0 - 0,1,N/A,N/A,N/A
+7,Gary Harris,FG_MISS,None,11:00,1,Nuggets,Suns,0 - 0,1,0,2,Layup
+8,Devin Booker,DEFENSIVE_REBOUND,None,10:57,1,Suns,Nuggets,0 - 0,0,N/A,N/A,N/A
+9,Devin Booker,TURNOVER,None,10:54,1,Suns,Nuggets,0 - 0,0,N/A,N/A,N/A
+10,Paul Millsap,TURNOVER,None,10:43,1,Nuggets,Suns,0 - 0,1,N/A,N/A,N/A
+11,Ryan Anderson,FG_MISS,None,10:29,1,Suns,Nuggets,0 - 0,0,27,3,Jumper
+12,Paul Millsap,DEFENSIVE_REBOUND,None,10:27,1,Nuggets,Suns,0 - 0,1,N/A,N/A,N/A
+13,Nikola Jokic,FG_UNASSISTED,None,10:14,1,Nuggets,Suns,0 - 2,1,0,2,Layup
+14,Trevor Ariza,FG_UNASSISTED,None,9:51,1,Suns,Nuggets,2 - 2,0,-,2,Jumper
+15,Nikola Jokic,FG_ASSISTED,Gary Harris,9:41,1,Nuggets,Suns,2 - 5,1,25,3,Jumper
+16,Deandre Ayton,FG_MISS,None,9:23,1,Suns,Nuggets,2 - 5,0,10,2,Jumper
+17,Nikola Jokic,DEFENSIVE_REBOUND,None,9:21,1,Nuggets,Suns,2 - 5,1,N/A,N/A,N/A
+18,Paul Millsap,FG_MISS,None,9:14,1,Nuggets,Suns,2 - 5,1,26,2,Jumper
+19,Devin Booker,DEFENSIVE_REBOUND,None,9:11,1,Suns,Nuggets,2 - 5,0,N/A,N/A,N/A
+20,Ryan Anderson,FG_MISS,None,9:07,1,Suns,Nuggets,2 - 5,0,25,3,Jumper
+21,Will Barton,DEFENSIVE_REBOUND,None,9:04,1,Nuggets,Suns,2 - 5,1,N/A,N/A,N/A
+22,Nikola Jokic,FG_UNASSISTED,None,8:45,1,Nuggets,Suns,2 - 7,1,-,2,Jumper
+23,Nikola Jokic,FOUL_ON_FLOOR,None,8:29,1,Nuggets,Suns,2 - 7,1,N/A,N/A,N/A
+24,Isaiah Canaan,FG_ASSISTED,Devin Booker,8:22,1,Suns,Nuggets,5 - 7,0,23,3,Jumper
+25,Gary Harris,FG_MISS,None,8:04,1,Nuggets,Suns,5 - 7,1,25,3,Jumper
+26,Trevor Ariza,DEFENSIVE_REBOUND,None,8:00,1,Suns,Nuggets,5 - 7,0,N/A,N/A,N/A
+27,Will Barton,FOUL_ON_FLOOR,None,7:57,1,Nuggets,Suns,5 - 7,1,N/A,N/A,N/A
+28,TJ Warren,SUBSTITUTION,Anderson Ryan,7:57,1,Suns,Nuggets,5 - 7,0,N/A,N/A,N/A
+29,Devin Booker,TURNOVER,Nikola Jokic,7:52,1,Suns,Nuggets,5 - 7,0,N/A,N/A,N/A
+30,Will Barton,FG_ASSISTED,Jamal Murray,7:47,1,Nuggets,Suns,5 - 9,1,-,2,Jumper
+31,Deandre Ayton,FG_MISS,None,7:19,1,Suns,Nuggets,5 - 9,0,3,2,Jumper
+32,Nikola Jokic,DEFENSIVE_REBOUND,None,7:16,1,Nuggets,Suns,5 - 9,1,N/A,N/A,N/A
+33,TJ Warren,FOUL_ON_FLOOR,None,7:10,1,Suns,Nuggets,5 - 9,0,N/A,N/A,N/A
+34,Deandre Ayton,FOUL_ON_FLOOR,None,7:07,1,Suns,Nuggets,5 - 9,0,N/A,N/A,N/A
+35,Nikola Jokic,FT,None,7:07,1,Nuggets,Suns,5 - 10,1,N/A,1,N/A
+36,Nikola Jokic,FT,None,7:07,1,Nuggets,Suns,5 - 11,1,N/A,1,N/A
+37,Devin Booker,FG_ASSISTED,TJ Warren,6:47,1,Suns,Nuggets,7 - 11,0, ,2,Jumper
+38,Team,Unknown,None,6:43,1,Nuggets,Suns,7 - 11,1,N/A,N/A,N/A
+39,Tyson Chandler,SUBSTITUTION,Ayton Deandre,6:43,1,Suns,Nuggets,7 - 11,0,N/A,N/A,N/A
+40,Jamal Murray,FG_ASSISTED,Nikola Jokic,6:36,1,Nuggets,Suns,7 - 13,1,2,2,Jumper
+41,Devin Booker,FG_MISS,None,6:20,1,Suns,Nuggets,7 - 13,0,24,3,Jumper
+42,Trevor Ariza,OFFENSIVE_REBOUND,None,6:18,1,Suns,Nuggets,7 - 13,0,N/A,N/A,N/A
+43,Devin Booker,FG_MISS,Paul Millsap,6:08,1,Nuggets,Suns,7 - 13,0,4,2,Jumper
+44,Gary Harris,DEFENSIVE_REBOUND,None,6:05,1,Nuggets,Suns,7 - 13,1,N/A,N/A,N/A
+45,Gary Harris,TURNOVER,None,6:04,1,Nuggets,Suns,7 - 13,1,N/A,N/A,N/A
+46,TJ Warren,FG_MISS,None,5:53,1,Suns,Nuggets,7 - 13,0,23,3,Jumper
+47,Will Barton,DEFENSIVE_REBOUND,None,5:49,1,Nuggets,Suns,7 - 13,1,N/A,N/A,N/A
+48,Will Barton,FG_MISS,None,5:44,1,Nuggets,Suns,7 - 13,1, ,2,Jumper
+49,Tyson Chandler,DEFENSIVE_REBOUND,None,5:42,1,Suns,Nuggets,7 - 13,0,N/A,N/A,N/A
+50,Isaiah Canaan,FG_MISS,None,5:34,1,Suns,Nuggets,7 - 13,0,25,2,Jumper
+51,Paul Millsap,DEFENSIVE_REBOUND,None,5:31,1,Nuggets,Suns,7 - 13,1,N/A,N/A,N/A
+52,Nikola Jokic,FG_ASSISTED,Will Barton,5:23,1,Nuggets,Suns,7 - 15,1,5,2,Jumper
+53,Tyson Chandler,FOUL_ON_FLOOR,None,5:23,1,Suns,Nuggets,7 - 15,0,N/A,N/A,N/A
+54,Nikola Jokic,FT_MISS,None,5:23,1,Nuggets,Suns,7 - 15,1,N/A,1,N/A
+55,TJ Warren,DEFENSIVE_REBOUND,None,5:23,1,Suns,Nuggets,7 - 15,0,N/A,N/A,N/A
+56,Devin Booker,TURNOVER,Nikola Jokic,5:09,1,Suns,Nuggets,7 - 15,0,N/A,N/A,N/A
+57,Will Barton,FG_ASSISTED,Nikola Jokic,5:05,1,Nuggets,Suns,7 - 18,1,23,3,Jumper
+58,Team,Unknown,None,5:02,1,Suns,Nuggets,7 - 18,0,N/A,N/A,N/A
+59,Jamal Crawford,SUBSTITUTION,Canaan Isaiah,5:02,1,Suns,Nuggets,7 - 18,0,N/A,N/A,N/A
+60,Josh Jackson,SUBSTITUTION,Booker Devin,5:02,1,Suns,Nuggets,7 - 18,0,N/A,N/A,N/A
+61,Josh Jackson,FG_MISS,None,4:45,1,Suns,Nuggets,7 - 18,0,0,2,Layup
+62,Will Barton,DEFENSIVE_REBOUND,None,4:42,1,Nuggets,Suns,7 - 18,1,N/A,N/A,N/A
+63,Paul Millsap,FG_ASSISTED,Will Barton,4:38,1,Nuggets,Suns,7 - 20,1,0,2,Dunk
+64,TJ Warren,FG_ASSISTED,Tyson Chandler,4:21,1,Suns,Nuggets,10 - 20,0, ,3,Jumper
+65,Will Barton,TURNOVER,None,4:06,1,Nuggets,Suns,10 - 20,1,N/A,N/A,N/A
+66,Trey Lyles,SUBSTITUTION,Millsap Paul,4:06,1,Nuggets,Suns,10 - 20,1,N/A,N/A,N/A
+67,TJ Warren,FG_UNASSISTED,None,3:47,1,Suns,Nuggets,12 - 20,0,6,2,Jumper
+68,Nikola Jokic,FG_ASSISTED,Will Barton,3:40,1,Nuggets,Suns,12 - 22,1, ,2,Jumper
+69,TJ Warren,FOUL_ON_FLOOR,None,3:40,1,Suns,Nuggets,12 - 22,0,N/A,N/A,N/A
+70,Nikola Jokic,FT,None,3:40,1,Nuggets,Suns,12 - 23,1,N/A,1,N/A
+71,Nikola Jokic,FOUL_ON_FLOOR,None,3:27,1,Nuggets,Suns,12 - 23,1,N/A,N/A,N/A
+72,Mason Plumlee,SUBSTITUTION,Jokic Nikola,3:27,1,Nuggets,Suns,12 - 23,1,N/A,N/A,N/A
+73,Tyson Chandler,FT,None,3:27,1,Suns,Nuggets,13 - 23,0,N/A,1,N/A
+74,Tyson Chandler,FT_MISS,None,3:27,1,Suns,Nuggets,13 - 23,0,N/A,1,N/A
+75,Will Barton,DEFENSIVE_REBOUND,None,3:18,1,Nuggets,Suns,13 - 23,1,N/A,N/A,N/A
+76,Gary Harris,FG_UNASSISTED,None,3:17,1,Nuggets,Suns,13 - 25,1,7,2,Jumper
+77,Josh Jackson,TURNOVER,Will Barton,2:58,1,Suns,Nuggets,13 - 25,0,N/A,N/A,N/A
+78,Will Barton,FG_ASSISTED,Jamal Murray,2:53,1,Nuggets,Suns,13 - 27,1, ,2,Jumper
+79,Josh Jackson,FG_MISS,None,2:35,1,Suns,Nuggets,13 - 27,0, ,2,Jumper
+80,Trey Lyles,DEFENSIVE_REBOUND,None,2:34,1,Nuggets,Suns,13 - 27,1,N/A,N/A,N/A
+81,Will Barton,FG_UNASSISTED,None,2:29,1,Nuggets,Suns,13 - 30,1,25,3,Jumper
+82,Will Barton,FOUL_ON_FLOOR,None,2:13,1,Nuggets,Suns,13 - 30,1,N/A,N/A,N/A
+83,Malik Beasley,SUBSTITUTION,Murray Jamal,2:13,1,Nuggets,Suns,13 - 30,1,N/A,N/A,N/A
+84,Jamal Murray,SUBSTITUTION,Barton Will,2:13,1,Nuggets,Suns,13 - 30,1,N/A,N/A,N/A
+85,Malik Beasley,FOUL_ON_FLOOR,None,2:12,1,Nuggets,Suns,13 - 30,1,N/A,N/A,N/A
+86,Jamal Crawford,FT,None,2:12,1,Suns,Nuggets,14 - 30,0,N/A,1,N/A
+87,Josh Jackson,FG_MISS,None,2:04,1,Suns,Nuggets,14 - 30,0,26,3,Jumper
+88,Gary Harris,DEFENSIVE_REBOUND,None,2:01,1,Nuggets,Suns,14 - 30,1,N/A,N/A,N/A
+89,Mason Plumlee,FG_MISS,None,1:49,1,Nuggets,Suns,14 - 30,1,8,2,Jumper
+90,Tyson Chandler,DEFENSIVE_REBOUND,None,1:48,1,Suns,Nuggets,14 - 30,0,N/A,N/A,N/A
+91,Mason Plumlee,FOUL_ON_FLOOR,None,1:48,1,Nuggets,Suns,14 - 30,1,N/A,N/A,N/A
+92,Juan Hernangomez,SUBSTITUTION,for game,1:48,1,Nuggets,Suns,14 - 30,1,N/A,N/A,N/A
+93,Devin Booker,SUBSTITUTION,Ariza Trevor,1:48,1,Suns,Nuggets,14 - 30,0,N/A,N/A,N/A
+94,Tyson Chandler,FT_MISS,None,1:48,1,Suns,Nuggets,14 - 30,0,N/A,1,N/A
+95,Team,OFFENSIVE_REBOUND,None,1:48,1,Suns,Nuggets,14 - 30,0,N/A,N/A,N/A
+96,Tyson Chandler,FT_MISS,None,1:48,1,Suns,Nuggets,14 - 30,0,N/A,1,N/A
+97,enters the,SUBSTITUTION,Harris Gary,1:48,1,Nuggets,Suns,14 - 30,1,N/A,N/A,N/A
+98,Juan Hernangomez,DEFENSIVE_REBOUND,None,1:44,1,Nuggets,Suns,14 - 30,1,N/A,N/A,N/A
+99,Trey Lyles,FG_MISS,TJ Warren,1:31,1,Suns,Nuggets,14 - 30,1,12,2,Jumper
+100,Jamal Crawford,DEFENSIVE_REBOUND,None,1:27,1,Suns,Nuggets,14 - 30,0,N/A,N/A,N/A
+101,Jamal Crawford,TURNOVER,None,1:20,1,Suns,Nuggets,14 - 30,0,N/A,N/A,N/A
+102,Monte Morris,SUBSTITUTION,Murray Jamal,1:20,1,Nuggets,Suns,14 - 30,1,N/A,N/A,N/A
+103,Juan Hernangomez's,FG_MISS,Josh Jackson,1:08,1,Suns,Nuggets,14 - 30,1, ,2,Jumper
+104,Tyson Chandler,DEFENSIVE_REBOUND,None,1:05,1,Suns,Nuggets,14 - 30,0,N/A,N/A,N/A
+105,Jamal Crawford,FG_MISS,None,44.5,1,Suns,Nuggets,14 - 30,0,27,3,Jumper
+106,Mason Plumlee,DEFENSIVE_REBOUND,None,42.6,1,Nuggets,Suns,14 - 30,1,N/A,N/A,N/A
+107,Trey Lyles,FG_MISS,None,18.9,1,Nuggets,Suns,14 - 30,1,6,2,Jumper
+108,Tyson Chandler,DEFENSIVE_REBOUND,None,17.2,1,Suns,Nuggets,14 - 30,0,N/A,N/A,N/A
+109,Monte Morris,FOUL_ON_FLOOR,None,1.1,1,Nuggets,Suns,14 - 30,1,N/A,N/A,N/A
+110,Devin Booker,FT,None,1.1,1,Suns,Nuggets,15 - 30,0,N/A,1,N/A
+111,Devin Booker,FT,None,1.1,1,Suns,Nuggets,16 - 30,0,N/A,1,N/A
+112,Trey Lyles,TURNOVER,Jamal Crawford,0.0,1,Nuggets,Suns,16 - 30,1,N/A,N/A,N/A
+113,End of,Unknown,None,0.0,1,Nuggets,Suns,16 - 30,1,N/A,N/A,N/A
+0,Ryan Anderson,SUBSTITUTION,Chandler Tyson,12:00,2,Suns,Nuggets,16 - 30,0,N/A,N/A,N/A
+1,Mikal Bridges,SUBSTITUTION,Crawford Jamal,12:00,2,Suns,Nuggets,16 - 30,0,N/A,N/A,N/A
+2,Isaiah Canaan,SUBSTITUTION,Warren TJ,12:00,2,Suns,Nuggets,16 - 30,0,N/A,N/A,N/A
+3,Deandre Ayton,SUBSTITUTION,Jackson Josh,12:00,2,Suns,Nuggets,16 - 30,0,N/A,N/A,N/A
+4,Trey Lyles,TURNOVER,None,11:47,2,Nuggets,Suns,16 - 30,1,N/A,N/A,N/A
+5,Trey Lyles,TURNOVER,None,11:47,2,Nuggets,Suns,16 - 30,1,N/A,N/A,N/A
+6,Devin Booker,FG_ASSISTED,Mikal Bridges,11:36,2,Suns,Nuggets,18 - 30,0,2,2,Jumper
+7,Trey Lyles,FG_MISS,None,11:23,2,Nuggets,Suns,18 - 30,1,9,2,Jumper
+8,Deandre Ayton,DEFENSIVE_REBOUND,None,11:20,2,Suns,Nuggets,18 - 30,0,N/A,N/A,N/A
+9,Malik Beasley,FOUL_ON_FLOOR,None,11:17,2,Nuggets,Suns,18 - 30,1,N/A,N/A,N/A
+10,Devin Booker,FT,None,11:17,2,Suns,Nuggets,19 - 30,0,N/A,1,N/A
+11,Devin Booker,FT,None,11:17,2,Suns,Nuggets,20 - 30,0,N/A,1,N/A
+12,Mason Plumlee,FOUL_ON_FLOOR,None,11:10,2,Nuggets,Suns,20 - 30,1,N/A,N/A,N/A
+13,Mason Plumlee,TURNOVER,None,11:10,2,Nuggets,Suns,20 - 30,1,N/A,N/A,N/A
+14,Deandre Ayton,FG_MISS,None,10:48,2,Suns,Nuggets,20 - 30,0,14,2,Jumper
+15,Mason Plumlee,DEFENSIVE_REBOUND,None,10:46,2,Nuggets,Suns,20 - 30,1,N/A,N/A,N/A
+16,Juan Hernangomez,FG_MISS,None,10:38,2,Nuggets,Suns,20 - 30,1,25,3,Jumper
+17,Mason Plumlee,OFFENSIVE_REBOUND,None,10:35,2,Nuggets,Suns,20 - 30,1,N/A,N/A,N/A
+18,Mason Plumlee,FG_UNASSISTED,None,10:34,2,Nuggets,Suns,20 - 32,1, ,2,Jumper
+19,Deandre Ayton,FOUL_ON_FLOOR,None,10:34,2,Suns,Nuggets,20 - 32,0,N/A,N/A,N/A
+20,Mason Plumlee,FT_MISS,None,10:34,2,Nuggets,Suns,20 - 32,1,N/A,1,N/A
+21,Deandre Ayton,DEFENSIVE_REBOUND,None,10:34,2,Suns,Nuggets,20 - 32,0,N/A,N/A,N/A
+22,Deandre Ayton,FG_ASSISTED,Ryan Anderson,10:13,2,Suns,Nuggets,22 - 32,0,0,2,Dunk
+23,Juan Hernangomez,TURNOVER,Mikal Bridges,10:02,2,Nuggets,Suns,22 - 32,1,N/A,N/A,N/A
+24,Mikal Bridges,FG_MISS,None,9:48,2,Suns,Nuggets,22 - 32,0, ,3,Jumper
+25,Deandre Ayton,OFFENSIVE_REBOUND,None,9:45,2,Suns,Nuggets,22 - 32,0,N/A,N/A,N/A
+26,Deandre Ayton,FG_UNASSISTED,None,9:45,2,Suns,Nuggets,24 - 32,0,0,2,Dunk
+27,Team,Unknown,None,9:45,2,Nuggets,Suns,24 - 32,1,N/A,N/A,N/A
+28,Jamal Murray,SUBSTITUTION,Morris Monte,9:45,2,Nuggets,Suns,24 - 32,1,N/A,N/A,N/A
+29,Gary Harris,SUBSTITUTION,Beasley Malik,9:45,2,Nuggets,Suns,24 - 32,1,N/A,N/A,N/A
+30,Devin Booker,FOUL_ON_FLOOR,None,9:36,2,Suns,Nuggets,24 - 32,0,N/A,N/A,N/A
+31,Jamal Murray,FG_MISS,None,9:32,2,Nuggets,Suns,24 - 32,1,25,3,Jumper
+32,Juan Hernangomez,OFFENSIVE_REBOUND,None,9:24,2,Nuggets,Suns,24 - 32,1,N/A,N/A,N/A
+33,Juan Hernangomez,FG_UNASSISTED,None,9:24,2,Nuggets,Suns,24 - 34,1,0,2,Dunk
+34,Ryan Anderson,FG_MISS,None,9:11,2,Suns,Nuggets,24 - 34,0,23,3,Jumper
+35,Isaiah Canaan,OFFENSIVE_REBOUND,None,9:08,2,Suns,Nuggets,24 - 34,0,N/A,N/A,N/A
+36,Ryan Anderson,FG_ASSISTED,Isaiah Canaan,9:04,2,Suns,Nuggets,27 - 34,0,25,3,Jumper
+37,Trey Lyles,TURNOVER,Isaiah Canaan,8:38,2,Nuggets,Suns,27 - 34,1,N/A,N/A,N/A
+38,Jamal Murray,FOUL_ON_FLOOR,None,8:38,2,Nuggets,Suns,27 - 34,1,N/A,N/A,N/A
+39,Nikola Jokic,SUBSTITUTION,Plumlee Mason,8:38,2,Nuggets,Suns,27 - 34,1,N/A,N/A,N/A
+40,Tyson Chandler,SUBSTITUTION,Ayton Deandre,8:38,2,Suns,Nuggets,27 - 34,0,N/A,N/A,N/A
+41,Mikal Bridges,FG_ASSISTED,Devin Booker,8:21,2,Suns,Nuggets,29 - 34,0, ,2,Jumper
+42,Juan Hernangomez,FOUL_ON_FLOOR,None,8:21,2,Nuggets,Suns,29 - 34,1,N/A,N/A,N/A
+43,Mikal Bridges,FT_MISS,None,8:21,2,Suns,Nuggets,29 - 34,0,N/A,1,N/A
+44,Juan Hernangomez,DEFENSIVE_REBOUND,None,8:21,2,Nuggets,Suns,29 - 34,1,N/A,N/A,N/A
+45,Will Barton,SUBSTITUTION,Hernangomez Juan,8:08,2,Nuggets,Suns,29 - 34,1,N/A,N/A,N/A
+46,Jamal Murray,FG_ASSISTED,Gary Harris,7:58,2,Nuggets,Suns,29 - 36,1, ,2,Jumper
+47,Trey Lyles,FOUL_ON_FLOOR,None,7:45,2,Nuggets,Suns,29 - 36,1,N/A,N/A,N/A
+48,Paul Millsap,SUBSTITUTION,Lyles Trey,7:45,2,Nuggets,Suns,29 - 36,1,N/A,N/A,N/A
+49,Ryan Anderson,FG_ASSISTED,Devin Booker,7:37,2,Suns,Nuggets,32 - 36,0,25,3,Jumper
+50,Will Barton,FG_MISS,None,7:24,2,Nuggets,Suns,32 - 36,1,26,3,Jumper
+51,Tyson Chandler,DEFENSIVE_REBOUND,None,7:21,2,Suns,Nuggets,32 - 36,0,N/A,N/A,N/A
+52,Devin Booker,FG_UNASSISTED,None,7:14,2,Suns,Nuggets,34 - 36,0,2,2,Jumper
+53,Team,Unknown,None,7:12,2,Nuggets,Suns,34 - 36,1,N/A,N/A,N/A
+54,Nikola Jokic,FG_ASSISTED,Jamal Murray,7:00,2,Nuggets,Suns,34 - 39,1,25,3,Jumper
+55,Ryan Anderson,FG_ASSISTED,Devin Booker,6:40,2,Suns,Nuggets,36 - 39,0,13,2,Jumper
+56,Gary Harris,FG_ASSISTED,Nikola Jokic,6:25,2,Nuggets,Suns,36 - 41,1,23,2,Jumper
+57,Isaiah Canaan,FG_UNASSISTED,None,6:11,2,Suns,Nuggets,38 - 41,0,2,2,Jumper
+58,Nikola Jokic,FG_UNASSISTED,None,5:51,2,Nuggets,Suns,38 - 43,1,6,2,Jumper
+59,Ryan Anderson,FG_MISS,None,5:39,2,Suns,Nuggets,38 - 43,0,26,3,Jumper
+60,Mikal Bridges,OFFENSIVE_REBOUND,None,5:37,2,Suns,Nuggets,38 - 43,0,N/A,N/A,N/A
+61,Isaiah Canaan,FG_ASSISTED,Devin Booker,5:34,2,Suns,Nuggets,41 - 43,0,23,3,Jumper
+62,Tyson Chandler,FOUL_ON_FLOOR,None,5:27,2,Suns,Nuggets,41 - 43,0,N/A,N/A,N/A
+63,Jamal Crawford,SUBSTITUTION,Booker Devin,5:27,2,Suns,Nuggets,41 - 43,0,N/A,N/A,N/A
+64,Trevor Ariza,SUBSTITUTION,Bridges Mikal,5:27,2,Suns,Nuggets,41 - 43,0,N/A,N/A,N/A
+65,Gary Harris,FG_ASSISTED,Will Barton,5:22,2,Nuggets,Suns,41 - 45,1, ,2,Jumper
+66,Paul Millsap,FOUL_ON_FLOOR,None,4:59,2,Nuggets,Suns,41 - 45,1,N/A,N/A,N/A
+67,Tyson Chandler,FOUL_TECHNICAL,None,4:59,2,Suns,Nuggets,41 - 45,0,N/A,N/A,N/A
+68,Jamal Murray,FT,None,4:59,2,Nuggets,Suns,41 - 46,1,N/A,1,N/A
+69,Jamal Crawford,FT,None,4:59,2,Suns,Nuggets,42 - 46,0,N/A,1,N/A
+70,Deandre Ayton,SUBSTITUTION,Chandler Tyson,4:59,2,Suns,Nuggets,42 - 46,0,N/A,N/A,N/A
+71,Jamal Crawford,FT,None,4:59,2,Suns,Nuggets,43 - 46,0,N/A,1,N/A
+72,Isaiah Canaan,FOUL_ON_FLOOR,None,4:51,2,Suns,Nuggets,43 - 46,0,N/A,N/A,N/A
+73,Deandre Ayton,FOUL_ON_FLOOR,None,4:41,2,Suns,Nuggets,43 - 46,0,N/A,N/A,N/A
+74,Nikola Jokic,FT,None,4:41,2,Nuggets,Suns,43 - 47,1,N/A,1,N/A
+75,Richaun Holmes,SUBSTITUTION,Ayton Deandre,4:41,2,Suns,Nuggets,43 - 47,0,N/A,N/A,N/A
+76,Nikola Jokic,FT,None,4:41,2,Nuggets,Suns,43 - 48,1,N/A,1,N/A
+77,Jamal Crawford,FG_MISS,None,4:21,2,Suns,Nuggets,43 - 48,0,21,2,Jumper
+78,Gary Harris,DEFENSIVE_REBOUND,None,4:19,2,Nuggets,Suns,43 - 48,1,N/A,N/A,N/A
+79,Paul Millsap,TURNOVER,Jamal Crawford,4:10,2,Nuggets,Suns,43 - 48,1,N/A,N/A,N/A
+80,Isaiah Canaan,FG_MISS,None,4:00,2,Suns,Nuggets,43 - 48,0,26,3,Jumper
+81,Nikola Jokic,DEFENSIVE_REBOUND,None,3:57,2,Nuggets,Suns,43 - 48,1,N/A,N/A,N/A
+82,Gary Harris,FG_MISS,None,3:45,2,Nuggets,Suns,43 - 48,1,24,3,Jumper
+83,Richaun Holmes,DEFENSIVE_REBOUND,None,3:42,2,Suns,Nuggets,43 - 48,0,N/A,N/A,N/A
+84,Team,Unknown,None,3:41,2,Suns,Nuggets,43 - 48,0,N/A,N/A,N/A
+85,Josh Jackson,SUBSTITUTION,Canaan Isaiah,3:41,2,Suns,Nuggets,43 - 48,0,N/A,N/A,N/A
+86,Devin Booker,SUBSTITUTION,Crawford Jamal,3:41,2,Suns,Nuggets,43 - 48,0,N/A,N/A,N/A
+87,Josh Jackson,FG_MISS,None,3:26,2,Suns,Nuggets,43 - 48,0,22,2,Jumper
+88,Will Barton,DEFENSIVE_REBOUND,None,3:22,2,Nuggets,Suns,43 - 48,1,N/A,N/A,N/A
+89,Paul Millsap,FG_MISS,None,3:13,2,Nuggets,Suns,43 - 48,1,0,2,Layup
+90,Richaun Holmes,DEFENSIVE_REBOUND,None,3:11,2,Suns,Nuggets,43 - 48,0,N/A,N/A,N/A
+91,Ryan Anderson,FG_MISS,None,2:58,2,Suns,Nuggets,43 - 48,0,25,3,Jumper
+92,Paul Millsap,DEFENSIVE_REBOUND,None,2:56,2,Nuggets,Suns,43 - 48,1,N/A,N/A,N/A
+93,Ryan Anderson,FOUL_ON_FLOOR,None,2:53,2,Suns,Nuggets,43 - 48,0,N/A,N/A,N/A
+94,Nikola Jokic,FT,None,2:53,2,Nuggets,Suns,43 - 49,1,N/A,1,N/A
+95,Nikola Jokic,FT,None,2:53,2,Nuggets,Suns,43 - 50,1,N/A,1,N/A
+96,Devin Booker,FG_MISS,None,2:39,2,Suns,Nuggets,43 - 50,0,0,2,Layup
+97,Richaun Holmes,OFFENSIVE_REBOUND,None,2:36,2,Suns,Nuggets,43 - 50,0,N/A,N/A,N/A
+98,Richaun Holmes,FG_MISS,None,2:36,2,Suns,Nuggets,43 - 50,0, ,2,Jumper
+99,Nikola Jokic,DEFENSIVE_REBOUND,None,2:34,2,Nuggets,Suns,43 - 50,1,N/A,N/A,N/A
+100,Jamal Murray,FG_ASSISTED,Paul Millsap,2:25,2,Nuggets,Suns,43 - 52,1,2,2,Jumper
+101,Will Barton,FOUL_ON_FLOOR,None,2:14,2,Nuggets,Suns,43 - 52,1,N/A,N/A,N/A
+102,Devin Booker,FT,None,2:14,2,Suns,Nuggets,44 - 52,0,N/A,1,N/A
+103,Torrey Craig,SUBSTITUTION,Barton Will,2:14,2,Nuggets,Suns,44 - 52,1,N/A,N/A,N/A
+104,TJ Warren,SUBSTITUTION,Anderson Ryan,2:14,2,Suns,Nuggets,44 - 52,0,N/A,N/A,N/A
+105,Devin Booker,FT_MISS,None,2:14,2,Suns,Nuggets,44 - 52,0,N/A,1,N/A
+106,TJ Warren,OFFENSIVE_REBOUND,None,2:10,2,Suns,Nuggets,44 - 52,0,N/A,N/A,N/A
+107,Devin Booker,FG_MISS,None,2:10,2,Suns,Nuggets,44 - 52,0,25,3,Jumper
+108,Nikola Jokic,DEFENSIVE_REBOUND,None,2:07,2,Nuggets,Suns,44 - 52,1,N/A,N/A,N/A
+109,Torrey Craig,FG_ASSISTED,Nikola Jokic,1:52,2,Nuggets,Suns,44 - 54,1,0,2,Layup
+110,TJ Warren,FG_MISS,None,1:31,2,Suns,Nuggets,44 - 54,0,25,3,Jumper
+111,TJ Warren,OFFENSIVE_REBOUND,None,1:28,2,Suns,Nuggets,44 - 54,0,N/A,N/A,N/A
+112,TJ Warren,FG_UNASSISTED,None,1:26,2,Suns,Nuggets,46 - 54,0,2,2,Jumper
+113,Gary Harris,FG_ASSISTED,Nikola Jokic,1:09,2,Nuggets,Suns,46 - 57,1,23,3,Jumper
+114,TJ Warren,FG_MISS,None,46.8,2,Suns,Nuggets,46 - 57,0,19,2,Jumper
+115,Team,DEFENSIVE_REBOUND,None,44.6,2,Nuggets,Suns,46 - 57,1,N/A,N/A,N/A
+116,Trey Lyles,SUBSTITUTION,Jokic Nikola,44.6,2,Nuggets,Suns,46 - 57,1,N/A,N/A,N/A
+117,Jamal Murray,FG_MISS,None,28.0,2,Nuggets,Suns,46 - 57,1,7,2,Jumper
+118,Team,OFFENSIVE_REBOUND,None,27.7,2,Nuggets,Suns,46 - 57,1,N/A,N/A,N/A
+119,Trevor Ariza,FOUL_ON_FLOOR,None,27.7,2,Suns,Nuggets,46 - 57,0,N/A,N/A,N/A
+120,Jamal Murray,FT,None,27.7,2,Nuggets,Suns,46 - 58,1,N/A,1,N/A
+121,Devin Booker,FOUL_ON_FLOOR,None,27.7,2,Suns,Nuggets,46 - 58,0,N/A,N/A,N/A
+122,Devin Booker,FOUL_TECHNICAL,None,27.7,2,Suns,Nuggets,46 - 58,0,N/A,N/A,N/A
+123,Jamal Murray,FT,None,27.7,2,Nuggets,Suns,46 - 59,1,N/A,1,N/A
+124,Jamal Murray,FT,None,27.7,2,Nuggets,Suns,46 - 60,1,N/A,1,N/A
+125,Paul Millsap,FG_ASSISTED,Torrey Craig,21.5,2,Nuggets,Suns,46 - 62,1,16,2,Jumper
+126,Trevor Ariza,FG_ASSISTED,Devin Booker,6.5,2,Suns,Nuggets,49 - 62,0,25,3,Jumper
+127,Jamal Murray,FG_UNASSISTED,None,0.6,2,Nuggets,Suns,49 - 65,1,28,3,Jumper
+128,End of,Unknown,None,0.0,2,Nuggets,Suns,49 - 65,1,N/A,N/A,N/A
+0,Will Barton,SUBSTITUTION,Craig Torrey,12:00,3,Nuggets,Suns,49 - 65,1,N/A,N/A,N/A
+1,Nikola Jokic,SUBSTITUTION,Lyles Trey,12:00,3,Nuggets,Suns,49 - 65,1,N/A,N/A,N/A
+2,Isaiah Canaan,SUBSTITUTION,Warren TJ,12:00,3,Suns,Nuggets,49 - 65,0,N/A,N/A,N/A
+3,Ryan Anderson,SUBSTITUTION,Jackson Josh,12:00,3,Suns,Nuggets,49 - 65,0,N/A,N/A,N/A
+4,Deandre Ayton,SUBSTITUTION,Holmes Richaun,12:00,3,Suns,Nuggets,49 - 65,0,N/A,N/A,N/A
+5,Paul Millsap,FG_ASSISTED,Nikola Jokic,11:49,3,Nuggets,Suns,49 - 67,1,0,2,Dunk
+6,Devin Booker,TURNOVER,Jamal Murray,11:27,3,Suns,Nuggets,49 - 67,0,N/A,N/A,N/A
+7,Will Barton,FG_ASSISTED,Jamal Murray,11:22,3,Nuggets,Suns,49 - 69,1, ,2,Jumper
+8,Devin Booker,FG_MISS,Jamal Murray,11:05,3,Nuggets,Suns,49 - 69,0,0,2,Layup
+9,Nikola Jokic,DEFENSIVE_REBOUND,None,11:02,3,Nuggets,Suns,49 - 69,1,N/A,N/A,N/A
+10,Gary Harris,FG_MISS,None,11:00,3,Nuggets,Suns,49 - 69,1,25,3,Jumper
+11,Deandre Ayton,DEFENSIVE_REBOUND,None,10:56,3,Suns,Nuggets,49 - 69,0,N/A,N/A,N/A
+12,Gary Harris,FOUL_ON_FLOOR,None,10:38,3,Nuggets,Suns,49 - 69,1,N/A,N/A,N/A
+13,Isaiah Canaan,FT_MISS,None,10:38,3,Suns,Nuggets,49 - 69,0,N/A,1,N/A
+14,Team,OFFENSIVE_REBOUND,None,10:38,3,Suns,Nuggets,49 - 69,0,N/A,N/A,N/A
+15,Isaiah Canaan,FT,None,10:38,3,Suns,Nuggets,50 - 69,0,N/A,1,N/A
+16,Isaiah Canaan,FT,None,10:38,3,Suns,Nuggets,51 - 69,0,N/A,1,N/A
+17,Isaiah Canaan,FOUL_ON_FLOOR,None,10:30,3,Suns,Nuggets,51 - 69,0,N/A,N/A,N/A
+18,Gary Harris,FG_ASSISTED,Nikola Jokic,10:23,3,Nuggets,Suns,51 - 71,1,0,2,Layup
+19,Gary Harris,FOUL_ON_FLOOR,None,10:13,3,Nuggets,Suns,51 - 71,1,N/A,N/A,N/A
+20,Isaiah Canaan,FG_ASSISTED,Ryan Anderson,9:56,3,Suns,Nuggets,53 - 71,0,22,2,Jumper
+21,Paul Millsap,FG_UNASSISTED,None,9:45,3,Nuggets,Suns,53 - 73,1, ,2,Jumper
+22,Isaiah Canaan,FG_MISS,Nikola Jokic,9:33,3,Nuggets,Suns,53 - 73,0,0,2,Layup
+23,Jamal Murray,DEFENSIVE_REBOUND,None,9:31,3,Nuggets,Suns,53 - 73,1,N/A,N/A,N/A
+24,Jamal Murray,TURNOVER,None,9:31,3,Nuggets,Suns,53 - 73,1,N/A,N/A,N/A
+25,Trevor Ariza,TURNOVER,Jamal Murray,9:29,3,Suns,Nuggets,53 - 73,0,N/A,N/A,N/A
+26,Jamal Murray,TURNOVER,Devin Booker,9:26,3,Nuggets,Suns,53 - 73,1,N/A,N/A,N/A
+27,Trevor Ariza,FG_MISS,None,9:23,3,Suns,Nuggets,53 - 73,0,25,3,Jumper
+28,Gary Harris,DEFENSIVE_REBOUND,None,9:19,3,Nuggets,Suns,53 - 73,1,N/A,N/A,N/A
+29,Will Barton,FG_MISS,None,9:14,3,Nuggets,Suns,53 - 73,1,25,3,Jumper
+30,Deandre Ayton,DEFENSIVE_REBOUND,None,9:11,3,Suns,Nuggets,53 - 73,0,N/A,N/A,N/A
+31,Jamal Murray,FOUL_ON_FLOOR,None,8:56,3,Nuggets,Suns,53 - 73,1,N/A,N/A,N/A
+32,Devin Booker,FT_MISS,None,8:56,3,Suns,Nuggets,53 - 73,0,N/A,1,N/A
+33,Team,OFFENSIVE_REBOUND,None,8:56,3,Suns,Nuggets,53 - 73,0,N/A,N/A,N/A
+34,TJ Warren,SUBSTITUTION,Anderson Ryan,8:56,3,Suns,Nuggets,53 - 73,0,N/A,N/A,N/A
+35,Devin Booker,FT,None,8:56,3,Suns,Nuggets,54 - 73,0,N/A,1,N/A
+36,Will Barton,FG_ASSISTED,Gary Harris,8:39,3,Nuggets,Suns,54 - 75,1, ,2,Jumper
+37,Isaiah Canaan,FG_ASSISTED,Trevor Ariza,8:28,3,Suns,Nuggets,57 - 75,0,23,3,Jumper
+38,Team,Unknown,None,8:28,3,Nuggets,Suns,57 - 75,1,N/A,N/A,N/A
+39,Torrey Craig,SUBSTITUTION,Barton Will,8:28,3,Nuggets,Suns,57 - 75,1,N/A,N/A,N/A
+40,Gary Harris,FG_ASSISTED,Nikola Jokic,8:18,3,Nuggets,Suns,57 - 77,1,0,2,Dunk
+41,Deandre Ayton,FOUL_ON_FLOOR,None,8:07,3,Suns,Nuggets,57 - 77,0,N/A,N/A,N/A
+42,Deandre Ayton,TURNOVER,None,8:07,3,Suns,Nuggets,57 - 77,0,N/A,N/A,N/A
+43,Tyson Chandler,SUBSTITUTION,Ayton Deandre,8:07,3,Suns,Nuggets,57 - 77,0,N/A,N/A,N/A
+44,Jamal Murray,FG_MISS,None,7:50,3,Nuggets,Suns,57 - 77,1,13,2,Jumper
+45,Isaiah Canaan,DEFENSIVE_REBOUND,None,7:48,3,Suns,Nuggets,57 - 77,0,N/A,N/A,N/A
+46,Devin Booker,FG_UNASSISTED,None,7:41,3,Suns,Nuggets,59 - 77,0,24,2,Jumper
+47,Jamal Murray,FG_MISS,None,7:21,3,Nuggets,Suns,59 - 77,1,20,2,Jumper
+48,Tyson Chandler,DEFENSIVE_REBOUND,None,7:18,3,Suns,Nuggets,59 - 77,0,N/A,N/A,N/A
+49,Devin Booker,TURNOVER,Paul Millsap,7:10,3,Suns,Nuggets,59 - 77,0,N/A,N/A,N/A
+50,Paul Millsap,FG_UNASSISTED,None,7:07,3,Nuggets,Suns,59 - 79,1,0,2,Dunk
+51,Devin Booker,FG_MISS,None,6:52,3,Suns,Nuggets,59 - 79,0,25,3,Jumper
+52,Nikola Jokic,DEFENSIVE_REBOUND,None,6:50,3,Nuggets,Suns,59 - 79,1,N/A,N/A,N/A
+53,Nikola Jokic,FG_UNASSISTED,None,6:44,3,Nuggets,Suns,59 - 81,1,0,2,Dunk
+54,Team,Unknown,None,6:43,3,Suns,Nuggets,59 - 79,0,N/A,N/A,N/A
+55,TJ Warren,FG_MISS,None,6:28,3,Suns,Nuggets,59 - 81,0,23,3,Jumper
+56,Isaiah Canaan,OFFENSIVE_REBOUND,None,6:24,3,Suns,Nuggets,59 - 81,0,N/A,N/A,N/A
+57,Trevor Ariza,TURNOVER,Nikola Jokic,6:20,3,Suns,Nuggets,59 - 81,0,N/A,N/A,N/A
+58,Jamal Murray,FG_ASSISTED,Nikola Jokic,6:17,3,Nuggets,Suns,59 - 84,1,25,3,Jumper
+59,Isaiah Canaan,TURNOVER,Gary Harris,5:53,3,Suns,Nuggets,59 - 84,0,N/A,N/A,N/A
+60,Jamal Murray,FG_MISS,None,5:50,3,Nuggets,Suns,59 - 84,1,24,3,Jumper
+61,Isaiah Canaan,DEFENSIVE_REBOUND,None,5:46,3,Suns,Nuggets,59 - 84,0,N/A,N/A,N/A
+62,Devin Booker,FG_MISS,None,5:37,3,Suns,Nuggets,59 - 84,0,9,2,Jumper
+63,Tyson Chandler,OFFENSIVE_REBOUND,None,5:35,3,Suns,Nuggets,59 - 84,0,N/A,N/A,N/A
+64,Nikola Jokic,FOUL_ON_FLOOR,None,5:35,3,Nuggets,Suns,59 - 84,1,N/A,N/A,N/A
+65,Tyson Chandler,FT,None,5:35,3,Suns,Nuggets,60 - 84,0,N/A,1,N/A
+66,Josh Jackson,SUBSTITUTION,Canaan Isaiah,5:35,3,Suns,Nuggets,60 - 84,0,N/A,N/A,N/A
+67,Tyson Chandler,FT_MISS,None,5:35,3,Suns,Nuggets,60 - 84,0,N/A,1,N/A
+68,Nikola Jokic,DEFENSIVE_REBOUND,None,5:33,3,Nuggets,Suns,60 - 84,1,N/A,N/A,N/A
+69,Gary Harris,FG_MISS,Josh Jackson,5:22,3,Suns,Nuggets,60 - 84,1,0,2,Layup
+70,Josh Jackson,DEFENSIVE_REBOUND,None,5:19,3,Suns,Nuggets,60 - 84,0,N/A,N/A,N/A
+71,TJ Warren,FG_ASSISTED,Josh Jackson,5:16,3,Suns,Nuggets,62 - 84,0, ,2,Jumper
+72,Nikola Jokic,FG_UNASSISTED,None,5:01,3,Nuggets,Suns,62 - 86,1, ,2,Jumper
+73,Devin Booker,TURNOVER,Gary Harris,4:52,3,Suns,Nuggets,62 - 86,0,N/A,N/A,N/A
+74,Gary Harris,FG_UNASSISTED,None,4:48,3,Nuggets,Suns,62 - 88,1,0,2,Dunk
+75,Torrey Craig,FOUL_ON_FLOOR,None,4:26,3,Nuggets,Suns,62 - 88,1,N/A,N/A,N/A
+76,Devin Booker,FT,None,4:26,3,Suns,Nuggets,63 - 88,0,N/A,1,N/A
+77,Monte Morris,SUBSTITUTION,Millsap Paul,4:26,3,Nuggets,Suns,63 - 88,1,N/A,N/A,N/A
+78,Trey Lyles,SUBSTITUTION,Murray Jamal,4:26,3,Nuggets,Suns,63 - 88,1,N/A,N/A,N/A
+79,Devin Booker,FT,None,4:26,3,Suns,Nuggets,64 - 88,0,N/A,1,N/A
+80,Trey Lyles,TURNOVER,None,4:09,3,Nuggets,Suns,64 - 88,1,N/A,N/A,N/A
+81,TJ Warren,FG_ASSISTED,Tyson Chandler,3:54,3,Suns,Nuggets,66 - 88,0,0,2,Dunk
+82,Nikola Jokic,FG_ASSISTED,Gary Harris,3:42,3,Nuggets,Suns,66 - 91,1,25,3,Jumper
+83,Torrey Craig,FOUL_ON_FLOOR,None,3:21,3,Nuggets,Suns,66 - 91,1,N/A,N/A,N/A
+84,Devin Booker,FT,None,3:21,3,Suns,Nuggets,67 - 91,0,N/A,1,N/A
+85,Mikal Bridges,SUBSTITUTION,Ariza Trevor,3:21,3,Suns,Nuggets,67 - 91,0,N/A,N/A,N/A
+86,Deandre Ayton,SUBSTITUTION,Chandler Tyson,3:21,3,Suns,Nuggets,67 - 91,0,N/A,N/A,N/A
+87,Devin Booker,FT_MISS,None,3:21,3,Suns,Nuggets,67 - 91,0,N/A,1,N/A
+88,Nikola Jokic,DEFENSIVE_REBOUND,None,3:18,3,Nuggets,Suns,67 - 91,1,N/A,N/A,N/A
+89,Monte Morris,FG_MISS,None,3:07,3,Nuggets,Suns,67 - 91,1, ,2,Jumper
+90,Mikal Bridges,DEFENSIVE_REBOUND,None,3:05,3,Suns,Nuggets,67 - 91,0,N/A,N/A,N/A
+91,Mikal Bridges,FG_ASSISTED,Devin Booker,3:02,3,Suns,Nuggets,70 - 91,0,26,3,Jumper
+92,Torrey Craig,TURNOVER,None,2:49,3,Nuggets,Suns,70 - 91,1,N/A,N/A,N/A
+93,Torrey Craig,TURNOVER,None,2:49,3,Nuggets,Suns,70 - 91,1,N/A,N/A,N/A
+94,Juan Hernangomez,SUBSTITUTION,Craig Torrey,2:49,3,Nuggets,Suns,70 - 91,1,N/A,N/A,N/A
+95,Mikal Bridges,FG_ASSISTED,Josh Jackson,2:37,3,Suns,Nuggets,73 - 91,0,27,3,Jumper
+96,Josh Jackson,FOUL_ON_FLOOR,None,2:26,3,Suns,Nuggets,73 - 91,0,N/A,N/A,N/A
+97,Gary Harris,FT_MISS,None,2:26,3,Nuggets,Suns,73 - 91,1,N/A,1,N/A
+98,Team,OFFENSIVE_REBOUND,None,2:26,3,Nuggets,Suns,73 - 91,1,N/A,N/A,N/A
+99,Mason Plumlee,SUBSTITUTION,Jokic Nikola,2:26,3,Nuggets,Suns,73 - 91,1,N/A,N/A,N/A
+100,Gary Harris,FT,None,2:26,3,Nuggets,Suns,73 - 92,1,N/A,1,N/A
+101,Isaiah Canaan,SUBSTITUTION,Booker Devin,2:26,3,Suns,Nuggets,73 - 92,0,N/A,N/A,N/A
+102,TJ Warren,FG_ASSISTED,Deandre Ayton,2:13,3,Suns,Nuggets,75 - 92,0,12,2,Jumper
+103,Trey Lyles,TURNOVER,None,1:50,3,Nuggets,Suns,75 - 92,1,N/A,N/A,N/A
+104,Josh Jackson,FG_MISS,None,1:35,3,Suns,Nuggets,75 - 92,0,0,2,Layup
+105,Trey Lyles,DEFENSIVE_REBOUND,None,1:33,3,Nuggets,Suns,75 - 92,1,N/A,N/A,N/A
+106,Monte Morris,TURNOVER,None,1:31,3,Nuggets,Suns,75 - 92,1,N/A,N/A,N/A
+107,Monte Morris,TURNOVER,None,1:31,3,Nuggets,Suns,75 - 92,1,N/A,N/A,N/A
+108,Jamal Murray,SUBSTITUTION,Harris Gary,1:31,3,Nuggets,Suns,75 - 92,1,N/A,N/A,N/A
+109,Deandre Ayton,FG_MISS,None,1:13,3,Suns,Nuggets,75 - 92,0,13,2,Jumper
+110,Juan Hernangomez,DEFENSIVE_REBOUND,None,1:10,3,Nuggets,Suns,75 - 92,1,N/A,N/A,N/A
+111,Monte Morris,FG_MISS,None,53.4,3,Nuggets,Suns,75 - 92,1,25,3,Jumper
+112,Team,DEFENSIVE_REBOUND,None,51.9,3,Suns,Nuggets,75 - 92,0,N/A,N/A,N/A
+113,Trey Lyles,FOUL_ON_FLOOR,None,51.9,3,Nuggets,Suns,75 - 92,1,N/A,N/A,N/A
+114,Deandre Ayton,FT,None,51.9,3,Suns,Nuggets,76 - 92,0,N/A,1,N/A
+115,Deandre Ayton,FT_MISS,None,51.9,3,Suns,Nuggets,76 - 92,0,N/A,1,N/A
+116,Trey Lyles,DEFENSIVE_REBOUND,None,50.2,3,Nuggets,Suns,76 - 92,1,N/A,N/A,N/A
+117,Jamal Murray,FG_MISS,None,38.0,3,Nuggets,Suns,76 - 92,1,13,2,Jumper
+118,Deandre Ayton,DEFENSIVE_REBOUND,None,34.8,3,Suns,Nuggets,76 - 92,0,N/A,N/A,N/A
+119,TJ Warren,FG_ASSISTED,Mikal Bridges,31.0,3,Suns,Nuggets,79 - 92,0,27,3,Jumper
+120,Juan Hernangomez,FG_MISS,None,6.9,3,Nuggets,Suns,79 - 92,1,23,3,Jumper
+121,Deandre Ayton,DEFENSIVE_REBOUND,None,4.1,3,Suns,Nuggets,79 - 92,0,N/A,N/A,N/A
+122,Isaiah Canaan,TURNOVER,None,0.9,3,Suns,Nuggets,79 - 92,0,N/A,N/A,N/A
+123,Mason Plumlee,FG_MISS,None,0.9,3,Nuggets,Suns,79 - 92,1,32,3,Jumper
+124,Team,OFFENSIVE_REBOUND,None,0.9,3,Nuggets,Suns,79 - 92,1,N/A,N/A,N/A
+125,End of,Unknown,None,0.0,3,Nuggets,Suns,79 - 92,1,N/A,N/A,N/A
+0,Paul Millsap,SUBSTITUTION,Lyles Trey,12:00,4,Nuggets,Suns,79 - 92,1,N/A,N/A,N/A
+1,Deandre Ayton,TURNOVER,None,11:48,4,Suns,Nuggets,79 - 92,0,N/A,N/A,N/A
+2,Jamal Murray,TURNOVER,None,11:38,4,Nuggets,Suns,79 - 92,1,N/A,N/A,N/A
+3,TJ Warren,FG_MISS,Paul Millsap,11:25,4,Nuggets,Suns,79 - 92,0,8,2,Jumper
+4,Mason Plumlee,DEFENSIVE_REBOUND,None,11:22,4,Nuggets,Suns,79 - 92,1,N/A,N/A,N/A
+5,Juan Hernangomez,FG_MISS,None,11:07,4,Nuggets,Suns,79 - 92,1, ,3,Jumper
+6,Josh Jackson,DEFENSIVE_REBOUND,None,11:04,4,Suns,Nuggets,79 - 92,0,N/A,N/A,N/A
+7,Josh Jackson,FG_UNASSISTED,None,10:59,4,Suns,Nuggets,81 - 92,0,5,2,Jumper
+8,Mason Plumlee,FOUL_ON_FLOOR,None,10:59,4,Nuggets,Suns,81 - 92,1,N/A,N/A,N/A
+9,Torrey Craig,SUBSTITUTION,Morris Monte,10:59,4,Nuggets,Suns,81 - 92,1,N/A,N/A,N/A
+10,Devin Booker,SUBSTITUTION,Bridges Mikal,10:59,4,Suns,Nuggets,81 - 92,0,N/A,N/A,N/A
+11,Josh Jackson,FT_MISS,None,10:59,4,Suns,Nuggets,81 - 92,0,N/A,1,N/A
+12,Mason Plumlee,DEFENSIVE_REBOUND,None,10:59,4,Nuggets,Suns,81 - 92,1,N/A,N/A,N/A
+13,Isaiah Canaan,FOUL_ON_FLOOR,None,10:49,4,Suns,Nuggets,81 - 92,0,N/A,N/A,N/A
+14,Jamal Murray,FG_UNASSISTED,None,10:34,4,Nuggets,Suns,81 - 94,1,17,2,Jumper
+15,TJ Warren,TURNOVER,None,10:13,4,Suns,Nuggets,81 - 94,0,N/A,N/A,N/A
+16,Paul Millsap,FG_MISS,None,10:00,4,Nuggets,Suns,81 - 94,1,14,2,Jumper
+17,Team,OFFENSIVE_REBOUND,None,9:58,4,Nuggets,Suns,81 - 94,1,N/A,N/A,N/A
+18,Josh Jackson,FOUL_ON_FLOOR,None,9:53,4,Suns,Nuggets,81 - 94,0,N/A,N/A,N/A
+19,Josh Jackson,FOUL_ON_FLOOR,None,9:44,4,Suns,Nuggets,81 - 94,0,N/A,N/A,N/A
+20,Jamal Murray,FG_ASSISTED,Paul Millsap,9:39,4,Nuggets,Suns,81 - 97,1,25,3,Jumper
+21,Devin Booker,FG_ASSISTED,Isaiah Canaan,9:13,4,Suns,Nuggets,84 - 97,0,24,3,Jumper
+22,Torrey Craig,FG_MISS,None,8:58,4,Nuggets,Suns,84 - 97,1,26,3,Jumper
+23,Paul Millsap,OFFENSIVE_REBOUND,None,8:56,4,Nuggets,Suns,84 - 97,1,N/A,N/A,N/A
+24,TJ Warren,FOUL_ON_FLOOR,None,8:56,4,Suns,Nuggets,84 - 97,0,N/A,N/A,N/A
+25,Paul Millsap,FT,None,8:56,4,Nuggets,Suns,84 - 98,1,N/A,1,N/A
+26,Trevor Ariza,SUBSTITUTION,Canaan Isaiah,8:56,4,Suns,Nuggets,84 - 98,0,N/A,N/A,N/A
+27,Ryan Anderson,SUBSTITUTION,Warren TJ,8:56,4,Suns,Nuggets,84 - 98,0,N/A,N/A,N/A
+28,Paul Millsap,FT,None,8:56,4,Nuggets,Suns,84 - 99,1,N/A,1,N/A
+29,Trevor Ariza,FOUL_ON_FLOOR,None,8:44,4,Suns,Nuggets,84 - 99,0,N/A,N/A,N/A
+30,Trevor Ariza,TURNOVER,None,8:44,4,Suns,Nuggets,84 - 99,0,N/A,N/A,N/A
+31,Paul Millsap,FG_MISS,None,8:32,4,Nuggets,Suns,84 - 99,1,0,2,Layup
+32,Paul Millsap,OFFENSIVE_REBOUND,None,8:28,4,Nuggets,Suns,84 - 99,1,N/A,N/A,N/A
+33,Paul Millsap,FG_MISS,None,8:28,4,Nuggets,Suns,84 - 99,1, ,2,Jumper
+34,Mason Plumlee,OFFENSIVE_REBOUND,None,8:28,4,Nuggets,Suns,84 - 99,1,N/A,N/A,N/A
+35,Jamal Murray,FG_MISS,None,8:17,4,Nuggets,Suns,84 - 99,1,24,3,Jumper
+36,Deandre Ayton,DEFENSIVE_REBOUND,None,8:13,4,Suns,Nuggets,84 - 99,0,N/A,N/A,N/A
+37,Paul Millsap,FOUL_ON_FLOOR,None,8:03,4,Nuggets,Suns,84 - 99,1,N/A,N/A,N/A
+38,Devin Booker,FT,None,8:03,4,Suns,Nuggets,85 - 99,0,N/A,1,N/A
+39,Devin Booker,FT,None,8:03,4,Suns,Nuggets,86 - 99,0,N/A,1,N/A
+40,Paul Millsap,TURNOVER,None,7:49,4,Nuggets,Suns,86 - 99,1,N/A,N/A,N/A
+41,Paul Millsap,TURNOVER,None,7:49,4,Nuggets,Suns,86 - 99,1,N/A,N/A,N/A
+42,Jamal Murray,FOUL_TECHNICAL,None,7:49,4,Nuggets,Suns,86 - 99,1,N/A,N/A,N/A
+43,Nikola Jokic,SUBSTITUTION,Plumlee Mason,7:49,4,Nuggets,Suns,86 - 99,1,N/A,N/A,N/A
+44,Devin Booker,FT,None,7:49,4,Suns,Nuggets,87 - 99,0,N/A,1,N/A
+45,Gary Harris,SUBSTITUTION,Hernangomez Juan,7:49,4,Nuggets,Suns,87 - 99,1,N/A,N/A,N/A
+46,Trevor Ariza,FG_MISS,None,7:36,4,Suns,Nuggets,87 - 99,0,23,3,Jumper
+47,Jamal Murray,DEFENSIVE_REBOUND,None,7:33,4,Nuggets,Suns,87 - 99,1,N/A,N/A,N/A
+48,Devin Booker,FOUL_ON_FLOOR,None,7:29,4,Suns,Nuggets,87 - 99,0,N/A,N/A,N/A
+49,Paul Millsap,FT,None,7:29,4,Nuggets,Suns,87 - 100,1,N/A,1,N/A
+50,Paul Millsap,FT,None,7:29,4,Nuggets,Suns,87 - 101,1,N/A,1,N/A
+51,Devin Booker,FG_MISS,None,7:14,4,Suns,Nuggets,87 - 101,0,26,2,Jumper
+52,Paul Millsap,DEFENSIVE_REBOUND,None,7:11,4,Nuggets,Suns,87 - 101,1,N/A,N/A,N/A
+53,Jamal Murray,FG_MISS,None,6:56,4,Nuggets,Suns,87 - 101,1,14,2,Jumper
+54,Team,DEFENSIVE_REBOUND,None,6:54,4,Suns,Nuggets,87 - 101,0,N/A,N/A,N/A
+55,Team,Unknown,None,6:54,4,Nuggets,Suns,87 - 101,1,N/A,N/A,N/A
+56,Torrey Craig,FOUL_ON_FLOOR,None,6:40,4,Nuggets,Suns,87 - 101,1,N/A,N/A,N/A
+57,Devin Booker,FG_MISS,None,6:38,4,Suns,Nuggets,87 - 101,0,25,3,Jumper
+58,Team,DEFENSIVE_REBOUND,None,6:37,4,Nuggets,Suns,87 - 101,1,N/A,N/A,N/A
+59,Nikola Jokic,FG_ASSISTED,Jamal Murray,6:25,4,Nuggets,Suns,87 - 103,1,5,2,Jumper
+60,Deandre Ayton,FOUL_ON_FLOOR,None,6:25,4,Suns,Nuggets,87 - 103,0,N/A,N/A,N/A
+61,Nikola Jokic,FT,None,6:25,4,Nuggets,Suns,87 - 104,1,N/A,1,N/A
+62,Josh Jackson,FOUL_TECHNICAL,None,6:25,4,Suns,Nuggets,87 - 104,0,N/A,N/A,N/A
+63,Jamal Murray,FT,None,6:25,4,Nuggets,Suns,87 - 105,1,N/A,1,N/A
+64,Isaiah Canaan,SUBSTITUTION,Jackson Josh,6:25,4,Suns,Nuggets,87 - 105,0,N/A,N/A,N/A
+65,Tyson Chandler,SUBSTITUTION,Ayton Deandre,6:25,4,Suns,Nuggets,87 - 105,0,N/A,N/A,N/A
+66,Torrey Craig,FOUL_ON_FLOOR,None,6:13,4,Nuggets,Suns,87 - 105,1,N/A,N/A,N/A
+67,Ryan Anderson,FG_MISS,None,6:00,4,Suns,Nuggets,87 - 105,0,13,2,Jumper
+68,Paul Millsap,DEFENSIVE_REBOUND,None,5:52,4,Nuggets,Suns,87 - 105,1,N/A,N/A,N/A
+69,Gary Harris,FG_MISS,None,5:41,4,Nuggets,Suns,87 - 105,1,5,2,Jumper
+70,Paul Millsap,OFFENSIVE_REBOUND,None,5:39,4,Nuggets,Suns,87 - 105,1,N/A,N/A,N/A
+71,Jamal Murray,FG_ASSISTED,Nikola Jokic,5:32,4,Nuggets,Suns,87 - 107,1,6,2,Jumper
+72,Trevor Ariza,FG_MISS,None,5:22,4,Suns,Nuggets,87 - 107,0,25,3,Jumper
+73,Paul Millsap,DEFENSIVE_REBOUND,None,5:18,4,Nuggets,Suns,87 - 107,1,N/A,N/A,N/A
+74,Tyson Chandler,FOUL_ON_FLOOR,None,5:08,4,Suns,Nuggets,87 - 107,0,N/A,N/A,N/A
+75,Gary Harris,FT,None,5:08,4,Nuggets,Suns,87 - 108,1,N/A,1,N/A
+76,Monte Morris,SUBSTITUTION,Murray Jamal,5:08,4,Nuggets,Suns,87 - 108,1,N/A,N/A,N/A
+77,Gary Harris,FT,None,5:08,4,Nuggets,Suns,87 - 109,1,N/A,1,N/A
+78,Team,Unknown,None,5:05,4,Suns,Nuggets,87 - 109,0,N/A,N/A,N/A
+79,Ryan Anderson,FG_MISS,None,4:53,4,Suns,Nuggets,87 - 109,0,24,3,Jumper
+80,Nikola Jokic,DEFENSIVE_REBOUND,None,4:50,4,Nuggets,Suns,87 - 109,1,N/A,N/A,N/A
+81,Gary Harris,FG_MISS,Trevor Ariza,4:38,4,Suns,Nuggets,87 - 109,1,6,2,Jumper
+82,Trevor Ariza,DEFENSIVE_REBOUND,None,4:34,4,Suns,Nuggets,87 - 109,0,N/A,N/A,N/A
+83,Devin Booker,FG_MISS,Torrey Craig,4:32,4,Nuggets,Suns,87 - 109,0,0,2,Layup
+84,Ryan Anderson,OFFENSIVE_REBOUND,None,4:32,4,Suns,Nuggets,87 - 109,0,N/A,N/A,N/A
+85,Ryan Anderson,FG_MISS,None,4:31,4,Suns,Nuggets,87 - 109,0,0,2,Dunk
+86,Nikola Jokic,DEFENSIVE_REBOUND,None,4:30,4,Nuggets,Suns,87 - 109,1,N/A,N/A,N/A
+87,Torrey Craig,FG_MISS,None,4:22,4,Nuggets,Suns,87 - 109,1,25,3,Jumper
+88,Paul Millsap,OFFENSIVE_REBOUND,None,4:20,4,Nuggets,Suns,87 - 109,1,N/A,N/A,N/A
+89,Gary Harris,FG_MISS,None,4:10,4,Nuggets,Suns,87 - 109,1,1,2,Jumper
+90,Tyson Chandler,DEFENSIVE_REBOUND,None,4:08,4,Suns,Nuggets,87 - 109,0,N/A,N/A,N/A
+91,Trevor Ariza,FG_MISS,None,4:06,4,Suns,Nuggets,87 - 109,0,25,3,Jumper
+92,Torrey Craig,DEFENSIVE_REBOUND,None,4:04,4,Nuggets,Suns,87 - 109,1,N/A,N/A,N/A
+93,Tyson Chandler,FOUL_ON_FLOOR,None,3:53,4,Suns,Nuggets,87 - 109,0,N/A,N/A,N/A
+94,Nikola Jokic,FT,None,3:53,4,Nuggets,Suns,87 - 110,1,N/A,1,N/A
+95,Jamal Murray,SUBSTITUTION,Morris Monte,3:53,4,Nuggets,Suns,87 - 110,1,N/A,N/A,N/A
+96,Mikal Bridges,SUBSTITUTION,Ariza Trevor,3:53,4,Suns,Nuggets,87 - 110,0,N/A,N/A,N/A
+97,Deandre Ayton,SUBSTITUTION,Chandler Tyson,3:53,4,Suns,Nuggets,87 - 110,0,N/A,N/A,N/A
+98,Nikola Jokic,FT,None,3:53,4,Nuggets,Suns,87 - 111,1,N/A,1,N/A
+99,Torrey Craig,FOUL_ON_FLOOR,None,3:42,4,Nuggets,Suns,87 - 111,1,N/A,N/A,N/A
+100,Juan Hernangomez,SUBSTITUTION,Craig Torrey,3:42,4,Nuggets,Suns,87 - 111,1,N/A,N/A,N/A
+101,Devin Booker,FT,None,3:42,4,Suns,Nuggets,88 - 111,0,N/A,1,N/A
+102,Elie Okobo,SUBSTITUTION,Canaan Isaiah,3:42,4,Suns,Nuggets,88 - 111,0,N/A,N/A,N/A
+103,Dragan Bender,SUBSTITUTION,Anderson Ryan,3:42,4,Suns,Nuggets,88 - 111,0,N/A,N/A,N/A
+104,Devin Booker,FT,None,3:42,4,Suns,Nuggets,89 - 111,0,N/A,1,N/A
+105,Jamal Murray,FG_ASSISTED,Nikola Jokic,3:28,4,Nuggets,Suns,89 - 113,1,0,2,Layup
+106,Dragan Bender,TURNOVER,Nikola Jokic,3:13,4,Suns,Nuggets,89 - 113,0,N/A,N/A,N/A
+107,Team,Unknown,None,3:06,4,Nuggets,Suns,89 - 113,1,N/A,N/A,N/A
+108,Mason Plumlee,SUBSTITUTION,Millsap Paul,3:06,4,Nuggets,Suns,89 - 113,1,N/A,N/A,N/A
+109,Malik Beasley,SUBSTITUTION,Harris Gary,3:06,4,Nuggets,Suns,89 - 113,1,N/A,N/A,N/A
+110,Monte Morris,SUBSTITUTION,Jokic Nikola,3:06,4,Nuggets,Suns,89 - 113,1,N/A,N/A,N/A
+111,Trey Lyles,SUBSTITUTION,Murray Jamal,3:06,4,Nuggets,Suns,89 - 113,1,N/A,N/A,N/A
+112,Richaun Holmes,SUBSTITUTION,Booker Devin,3:06,4,Suns,Nuggets,89 - 113,0,N/A,N/A,N/A
+113,Josh Jackson,SUBSTITUTION,Ayton Deandre,3:06,4,Suns,Nuggets,89 - 113,0,N/A,N/A,N/A
+114,Monte Morris,FG_MISS,None,2:58,4,Nuggets,Suns,89 - 113,1,0,2,Layup
+115,Mason Plumlee,OFFENSIVE_REBOUND,None,2:57,4,Nuggets,Suns,89 - 113,1,N/A,N/A,N/A
+116,Mason Plumlee,FG_UNASSISTED,None,2:57,4,Nuggets,Suns,89 - 115,1,1,2,Jumper
+117,Josh Jackson,TURNOVER,Mason Plumlee,2:44,4,Suns,Nuggets,89 - 115,0,N/A,N/A,N/A
+118,Josh Jackson,FOUL_ON_FLOOR,None,2:43,4,Suns,Nuggets,89 - 115,0,N/A,N/A,N/A
+119,Trey Lyles,FT_MISS,None,2:43,4,Nuggets,Suns,89 - 115,1,N/A,1,N/A
+120,Team,OFFENSIVE_REBOUND,None,2:43,4,Nuggets,Suns,89 - 115,1,N/A,N/A,N/A
+121,Thomas Welsh,SUBSTITUTION,Plumlee Mason,2:43,4,Nuggets,Suns,89 - 115,1,N/A,N/A,N/A
+122,Trey Lyles,FT_MISS,None,2:43,4,Nuggets,Suns,89 - 115,1,N/A,1,N/A
+123,Juan Hernangomez,OFFENSIVE_REBOUND,None,2:41,4,Nuggets,Suns,89 - 115,1,N/A,N/A,N/A
+124,Thomas Welsh,FG_MISS,None,2:30,4,Nuggets,Suns,89 - 115,1,25,3,Jumper
+125,Mikal Bridges,DEFENSIVE_REBOUND,None,2:27,4,Suns,Nuggets,89 - 115,0,N/A,N/A,N/A
+126,Mikal Bridges,FG_UNASSISTED,None,2:22,4,Suns,Nuggets,91 - 115,0,1,2,Jumper
+127,Malik Beasley,FG_MISS,None,2:15,4,Nuggets,Suns,91 - 115,1,22,2,Jumper
+128,Dragan Bender,DEFENSIVE_REBOUND,None,2:12,4,Suns,Nuggets,91 - 115,0,N/A,N/A,N/A
+129,Elie Okobo,TURNOVER,Malik Beasley,2:06,4,Suns,Nuggets,91 - 115,0,N/A,N/A,N/A
+130,Trey Lyles,FG_MISS,None,1:58,4,Nuggets,Suns,91 - 115,1,5,2,Jumper
+131,Mikal Bridges,DEFENSIVE_REBOUND,None,1:55,4,Suns,Nuggets,91 - 115,0,N/A,N/A,N/A
+132,Dragan Bender,FG_MISS,None,1:51,4,Suns,Nuggets,91 - 115,0,24,3,Jumper
+133,Juan Hernangomez,DEFENSIVE_REBOUND,None,1:47,4,Nuggets,Suns,91 - 115,1,N/A,N/A,N/A
+134,Richaun Holmes,FOUL_ON_FLOOR,None,1:34,4,Suns,Nuggets,91 - 115,0,N/A,N/A,N/A
+135,Trey Lyles,FT,None,1:34,4,Nuggets,Suns,91 - 116,1,N/A,1,N/A
+136,Tyler Lydon,SUBSTITUTION,Hernangomez Juan,1:34,4,Nuggets,Suns,91 - 116,1,N/A,N/A,N/A
+137,Trey Lyles,FT,None,1:34,4,Nuggets,Suns,91 - 117,1,N/A,1,N/A
+138,Mikal Bridges,FG_MISS,None,1:20,4,Suns,Nuggets,91 - 117,0,26,3,Jumper
+139,Malik Beasley,DEFENSIVE_REBOUND,None,1:16,4,Nuggets,Suns,91 - 117,1,N/A,N/A,N/A
+140,Trey Lyles,TURNOVER,Mikal Bridges,1:05,4,Nuggets,Suns,91 - 117,1,N/A,N/A,N/A
+141,Josh Jackson,FG_MISS,None,47.6,4,Suns,Nuggets,91 - 117,0,26,3,Jumper
+142,Malik Beasley,DEFENSIVE_REBOUND,None,45.0,4,Nuggets,Suns,91 - 117,1,N/A,N/A,N/A
+143,Malik Beasley,FG_ASSISTED,Trey Lyles,36.2,4,Nuggets,Suns,91 - 119,1,0,2,Dunk
+144,Malik Beasley,FOUL_ON_FLOOR,None,19.6,4,Nuggets,Suns,91 - 119,1,N/A,N/A,N/A
+145,Richaun Holmes,FT_MISS,None,19.6,4,Suns,Nuggets,91 - 119,0,N/A,1,N/A
+146,Team,OFFENSIVE_REBOUND,None,19.6,4,Suns,Nuggets,91 - 119,0,N/A,N/A,N/A
+147,Richaun Holmes,FT_MISS,None,19.6,4,Suns,Nuggets,91 - 119,0,N/A,1,N/A
+148,Thomas Welsh,DEFENSIVE_REBOUND,None,16.8,4,Nuggets,Suns,91 - 119,1,N/A,N/A,N/A
+149,End of,Unknown,None,0.0,4,Nuggets,Suns,91 - 119,1,N/A,N/A,N/A
+150,End of,Unknown,None,0.0,4,Nuggets,Suns,91 - 119,1,N/A,N/A,N/A

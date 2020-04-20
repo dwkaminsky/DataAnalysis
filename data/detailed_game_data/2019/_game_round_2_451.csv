@@ -1,0 +1,408 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Willie Cauley-Stein,JUMP_BALL,None,12:00,1,Kings,Thunder,0 - 0,0,N/A,N/A,N/A
+1,Willie Cauley-Stein,FG_MISS,None,11:44,1,Kings,Thunder,0 - 0,0,0,2,Layup
+2,Russell Westbrook,DEFENSIVE_REBOUND,None,11:42,1,Thunder,Kings,0 - 0,1,N/A,N/A,N/A
+3,Paul George,FG_ASSISTED,Russell Westbrook,11:28,1,Thunder,Kings,0 - 3,1,26,3,Jumper
+4,Iman Shumpert,FG_ASSISTED,De'Aaron Fox,11:12,1,Kings,Thunder,3 - 3,0,25,3,Jumper
+5,Patrick Patterson,FG_MISS,None,11:01,1,Thunder,Kings,3 - 3,1,26,3,Jumper
+6,Buddy Hield,DEFENSIVE_REBOUND,None,10:58,1,Kings,Thunder,3 - 3,0,N/A,N/A,N/A
+7,Buddy Hield,FG_UNASSISTED,None,10:56,1,Kings,Thunder,5 - 3,0,0,2,Layup
+8,Paul George,FOUL_ON_FLOOR,None,10:56,1,Thunder,Kings,5 - 3,1,N/A,N/A,N/A
+9,Buddy Hield,FT,None,10:56,1,Kings,Thunder,6 - 3,0,N/A,1,N/A
+10,Russell Westbrook,FG_ASSISTED,Paul George,10:42,1,Thunder,Kings,6 - 5,1,0,2,Layup
+11,Nemanja Bjelica,FG_ASSISTED,De'Aaron Fox,10:29,1,Kings,Thunder,9 - 5,0,26,3,Jumper
+12,Terrance Ferguson,FG_MISS,None,10:19,1,Thunder,Kings,9 - 5,1,0,2,Layup
+13,Nemanja Bjelica,DEFENSIVE_REBOUND,None,10:17,1,Kings,Thunder,9 - 5,0,N/A,N/A,N/A
+14,Nemanja Bjelica,FG_MISS,Steven Adams,10:09,1,Thunder,Kings,9 - 5,0,0,2,Dunk
+15,Patrick Patterson,DEFENSIVE_REBOUND,None,10:06,1,Thunder,Kings,9 - 5,1,N/A,N/A,N/A
+16,Terrance Ferguson,FG_MISS,None,10:03,1,Thunder,Kings,9 - 5,1,-,2,Jumper
+17,Terrance Ferguson,OFFENSIVE_REBOUND,None,10:03,1,Thunder,Kings,9 - 5,1,N/A,N/A,N/A
+18,Team,Unknown,None,10:00,1,Thunder,Kings,9 - 5,1,N/A,N/A,N/A
+19,Patrick Patterson,FG_MISS,None,9:54,1,Thunder,Kings,9 - 5,1,26,3,Jumper
+20,Buddy Hield,DEFENSIVE_REBOUND,None,9:49,1,Kings,Thunder,9 - 5,0,N/A,N/A,N/A
+21,Nemanja Bjelica,FG_ASSISTED,Buddy Hield,9:47,1,Kings,Thunder,11 - 5,0,-,2,Jumper
+22,Buddy Hield,FOUL_ON_FLOOR,None,9:38,1,Kings,Thunder,11 - 5,0,N/A,N/A,N/A
+23,Russell Westbrook,FT,None,9:38,1,Thunder,Kings,11 - 6,1,N/A,1,N/A
+24,Russell Westbrook,FT_MISS,None,9:38,1,Thunder,Kings,11 - 6,1,N/A,1,N/A
+25,Steven Adams,OFFENSIVE_REBOUND,None,9:36,1,Thunder,Kings,11 - 6,1,N/A,N/A,N/A
+26,Terrance Ferguson,FG_MISS,None,9:34,1,Thunder,Kings,11 - 6,1,26,3,Jumper
+27,Team,OFFENSIVE_REBOUND,None,9:31,1,Thunder,Kings,11 - 6,1,N/A,N/A,N/A
+28,Russell Westbrook,FG_UNASSISTED,None,9:24,1,Thunder,Kings,11 - 8,1,10,2,Jumper
+29,De'Aaron Fox,TURNOVER,Terrance Ferguson,9:07,1,Kings,Thunder,11 - 8,0,N/A,N/A,N/A
+30,Paul George,FG_MISS,None,9:04,1,Thunder,Kings,11 - 8,1,24,3,Jumper
+31,Nemanja Bjelica,DEFENSIVE_REBOUND,None,9:01,1,Kings,Thunder,11 - 8,0,N/A,N/A,N/A
+32,Iman Shumpert,FG_UNASSISTED,None,8:53,1,Kings,Thunder,14 - 8,0,26,3,Jumper
+33,Paul George,FG_UNASSISTED,None,8:44,1,Thunder,Kings,14 - 10,1,17,2,Jumper
+34,Iman Shumpert,FG_UNASSISTED,None,8:28,1,Kings,Thunder,17 - 10,0,25,3,Jumper
+35,Paul George,TURNOVER,Willie Cauley-Stein,8:15,1,Thunder,Kings,17 - 10,1,N/A,N/A,N/A
+36,Buddy Hield,FG_MISS,None,8:12,1,Kings,Thunder,17 - 10,0, ,2,Jumper
+37,Steven Adams,DEFENSIVE_REBOUND,None,8:08,1,Thunder,Kings,17 - 10,1,N/A,N/A,N/A
+38,Steven Adams,FG_MISS,None,8:02,1,Thunder,Kings,17 - 10,1,0,2,Layup
+39,Steven Adams,OFFENSIVE_REBOUND,None,8:00,1,Thunder,Kings,17 - 10,1,N/A,N/A,N/A
+40,Steven Adams,FG_UNASSISTED,None,7:59,1,Thunder,Kings,17 - 12,1,0,2,Dunk
+41,De'Aaron Fox,TURNOVER,Steven Adams,7:50,1,Kings,Thunder,17 - 12,0,N/A,N/A,N/A
+42,Terrance Ferguson,FG_MISS,None,7:37,1,Thunder,Kings,17 - 12,1,23,3,Jumper
+43,Steven Adams,OFFENSIVE_REBOUND,None,7:34,1,Thunder,Kings,17 - 12,1,N/A,N/A,N/A
+44,Paul George,FG_MISS,None,7:32,1,Thunder,Kings,17 - 12,1,22,3,Jumper
+45,Team,OFFENSIVE_REBOUND,None,7:32,1,Thunder,Kings,17 - 12,1,N/A,N/A,N/A
+46,De'Aaron Fox,FOUL_ON_FLOOR,None,7:32,1,Kings,Thunder,17 - 12,0,N/A,N/A,N/A
+47,Jerami Grant,SUBSTITUTION,Patterson Patrick,7:32,1,Thunder,Kings,17 - 12,1,N/A,N/A,N/A
+48,Russell Westbrook,FG_ASSISTED,Jerami Grant,7:22,1,Thunder,Kings,17 - 15,1,25,3,Jumper
+49,De'Aaron Fox,FG_ASSISTED,Nemanja Bjelica,7:09,1,Kings,Thunder,19 - 15,0,9,2,Jumper
+50,Paul George,FG_ASSISTED,Russell Westbrook,6:58,1,Thunder,Kings,19 - 17,1,0,2,Layup
+51,Iman Shumpert,FG_MISS,None,6:43,1,Kings,Thunder,19 - 17,0,25,3,Jumper
+52,Russell Westbrook,DEFENSIVE_REBOUND,None,6:41,1,Thunder,Kings,19 - 17,1,N/A,N/A,N/A
+53,Russell Westbrook,TURNOVER,Iman Shumpert,6:37,1,Thunder,Kings,19 - 17,1,N/A,N/A,N/A
+54,Buddy Hield,FG_UNASSISTED,None,6:29,1,Kings,Thunder,21 - 17,0,0,2,Layup
+55,Jerami Grant,FG_MISS,None,6:18,1,Thunder,Kings,21 - 17,1,25,3,Jumper
+56,Team,OFFENSIVE_REBOUND,None,6:16,1,Thunder,Kings,21 - 17,1,N/A,N/A,N/A
+57,Willie Cauley-Stein,FOUL_ON_FLOOR,None,6:16,1,Kings,Thunder,21 - 17,0,N/A,N/A,N/A
+58,Harry Giles,SUBSTITUTION,Cauley-Stein Willie,6:16,1,Kings,Thunder,21 - 17,0,N/A,N/A,N/A
+59,Jerami Grant,FG_UNASSISTED,None,6:06,1,Thunder,Kings,21 - 19,1,0,2,Layup
+60,Paul George,FOUL_ON_FLOOR,None,5:48,1,Thunder,Kings,21 - 19,1,N/A,N/A,N/A
+61,Iman Shumpert,FT,None,5:48,1,Kings,Thunder,22 - 19,0,N/A,1,N/A
+62,Iman Shumpert,FT_MISS,None,5:48,1,Kings,Thunder,22 - 19,0,N/A,1,N/A
+63,Team,OFFENSIVE_REBOUND,None,5:48,1,Kings,Thunder,22 - 19,0,N/A,N/A,N/A
+64,Dennis Schroder,SUBSTITUTION,Ferguson Terrance,5:48,1,Thunder,Kings,21 - 19,1,N/A,N/A,N/A
+65,Marvin Bagley,SUBSTITUTION,Hield Buddy,5:48,1,Kings,Thunder,21 - 19,0,N/A,N/A,N/A
+66,Iman Shumpert,FT,None,5:48,1,Kings,Thunder,23 - 19,0,N/A,1,N/A
+67,Russell Westbrook's,FG_MISS,Harry Giles,5:38,1,Kings,Thunder,23 - 19,1,0,2,Layup
+68,Russell Westbrook,OFFENSIVE_REBOUND,None,5:33,1,Thunder,Kings,23 - 19,1,N/A,N/A,N/A
+69,Steven Adams,FG_ASSISTED,Russell Westbrook,5:28,1,Thunder,Kings,23 - 21,1,0,2,Dunk
+70,Iman Shumpert,TURNOVER,None,5:15,1,Kings,Thunder,23 - 21,0,N/A,N/A,N/A
+71,Paul George,FG_MISS,None,5:05,1,Thunder,Kings,23 - 21,1, ,2,Jumper
+72,Steven Adams,OFFENSIVE_REBOUND,None,5:04,1,Thunder,Kings,23 - 21,1,N/A,N/A,N/A
+73,Steven Adams,FG_MISS,None,5:04,1,Thunder,Kings,23 - 21,1, ,2,Jumper
+74,Team,OFFENSIVE_REBOUND,None,5:02,1,Thunder,Kings,23 - 21,1,N/A,N/A,N/A
+75,Nemanja Bjelica,FOUL_ON_FLOOR,None,5:02,1,Kings,Thunder,23 - 21,0,N/A,N/A,N/A
+76,Steven Adams,FG_ASSISTED,Russell Westbrook,4:53,1,Thunder,Kings,23 - 23,1,0,2,Dunk
+77,Team,Unknown,None,4:53,1,Kings,Thunder,23 - 23,0,N/A,N/A,N/A
+78,Buddy Hield,SUBSTITUTION,Fox De'Aaron,4:53,1,Kings,Thunder,23 - 23,0,N/A,N/A,N/A
+79,Yogi Ferrell,SUBSTITUTION,Bjelica Nemanja,4:53,1,Kings,Thunder,23 - 23,0,N/A,N/A,N/A
+80,Yogi Ferrell,TURNOVER,Paul George,4:44,1,Kings,Thunder,23 - 23,0,N/A,N/A,N/A
+81,Dennis Schroder,FG_MISS,None,4:41,1,Thunder,Kings,23 - 23,1, ,2,Jumper
+82,Buddy Hield,DEFENSIVE_REBOUND,None,4:38,1,Kings,Thunder,23 - 23,0,N/A,N/A,N/A
+83,Iman Shumpert,FG_ASSISTED,Harry Giles,4:23,1,Kings,Thunder,26 - 23,0,23,3,Jumper
+84,Steven Adams,FOUL_ON_FLOOR,None,4:10,1,Thunder,Kings,26 - 23,1,N/A,N/A,N/A
+85,Steven Adams,TURNOVER,None,4:10,1,Thunder,Kings,26 - 23,1,N/A,N/A,N/A
+86,Iman Shumpert,FG_ASSISTED,Harry Giles,3:54,1,Kings,Thunder,28 - 23,0,0,2,Layup
+87,Jerami Grant,FG_MISS,None,3:42,1,Thunder,Kings,28 - 23,1,23,3,Jumper
+88,Team,OFFENSIVE_REBOUND,None,3:39,1,Thunder,Kings,28 - 23,1,N/A,N/A,N/A
+89,Alex Abrines,SUBSTITUTION,George Paul,3:39,1,Thunder,Kings,28 - 23,1,N/A,N/A,N/A
+90,Justin Jackson,SUBSTITUTION,III Bagley,3:39,1,Kings,Thunder,28 - 23,0,N/A,N/A,N/A
+91,Russell Westbrook,FG_UNASSISTED,None,3:32,1,Thunder,Kings,28 - 25,1,14,2,Jumper
+92,Buddy Hield,FOUL_ON_FLOOR,None,3:32,1,Kings,Thunder,28 - 25,0,N/A,N/A,N/A
+93,Russell Westbrook,FT,None,3:32,1,Thunder,Kings,28 - 26,1,N/A,1,N/A
+94,Harry Giles,FG_MISS,None,3:16,1,Kings,Thunder,28 - 26,0,14,2,Jumper
+95,Russell Westbrook,DEFENSIVE_REBOUND,None,3:14,1,Thunder,Kings,28 - 26,1,N/A,N/A,N/A
+96,Jerami Grant's,FG_MISS,Harry Giles,3:06,1,Kings,Thunder,28 - 26,1, ,2,Jumper
+97,Yogi Ferrell,DEFENSIVE_REBOUND,None,3:04,1,Kings,Thunder,28 - 26,0,N/A,N/A,N/A
+98,Buddy Hield,FG_MISS,None,2:58,1,Kings,Thunder,28 - 26,0,23,3,Jumper
+99,Steven Adams,DEFENSIVE_REBOUND,None,2:53,1,Thunder,Kings,28 - 26,1,N/A,N/A,N/A
+100,Russell Westbrook,FG_MISS,None,2:49,1,Thunder,Kings,28 - 26,1, ,2,Jumper
+101,Harry Giles,DEFENSIVE_REBOUND,None,2:47,1,Kings,Thunder,28 - 26,0,N/A,N/A,N/A
+102,Iman Shumpert,FG_MISS,None,2:35,1,Kings,Thunder,28 - 26,0,26,3,Jumper
+103,Steven Adams,DEFENSIVE_REBOUND,None,2:33,1,Thunder,Kings,28 - 26,1,N/A,N/A,N/A
+104,Dennis Schroder,TURNOVER,Iman Shumpert,2:25,1,Thunder,Kings,28 - 26,1,N/A,N/A,N/A
+105,Buddy Hield,TURNOVER,None,2:22,1,Kings,Thunder,28 - 26,0,N/A,N/A,N/A
+106,Buddy Hield,TURNOVER,None,2:22,1,Kings,Thunder,28 - 26,0,N/A,N/A,N/A
+107,Hamidou Diallo,SUBSTITUTION,Westbrook Russell,2:22,1,Thunder,Kings,28 - 26,1,N/A,N/A,N/A
+108,Skal Labissiere,SUBSTITUTION,Shumpert Iman,2:22,1,Kings,Thunder,28 - 26,0,N/A,N/A,N/A
+109,Marvin Bagley,SUBSTITUTION,Giles Harry,2:22,1,Kings,Thunder,28 - 26,0,N/A,N/A,N/A
+110,De'Aaron Fox,SUBSTITUTION,Hield Buddy,2:22,1,Kings,Thunder,28 - 26,0,N/A,N/A,N/A
+111,Yogi Ferrell,FOUL_ON_FLOOR,None,2:09,1,Kings,Thunder,28 - 26,0,N/A,N/A,N/A
+112,Jerami Grant,FT,None,2:09,1,Thunder,Kings,28 - 27,1,N/A,1,N/A
+113,Jerami Grant,FT_MISS,None,2:09,1,Thunder,Kings,28 - 27,1,N/A,1,N/A
+114,Steven Adams,OFFENSIVE_REBOUND,None,2:09,1,Thunder,Kings,28 - 27,1,N/A,N/A,N/A
+115,Steven Adams,FG_MISS,None,2:09,1,Thunder,Kings,28 - 27,1, ,2,Jumper
+116,Justin Jackson,DEFENSIVE_REBOUND,None,2:09,1,Kings,Thunder,28 - 27,0,N/A,N/A,N/A
+117,Hamidou Diallo,FOUL_ON_FLOOR,None,1:59,1,Thunder,Kings,28 - 27,1,N/A,N/A,N/A
+118,Nerlens Noel,SUBSTITUTION,Adams Steven,1:59,1,Thunder,Kings,28 - 27,1,N/A,N/A,N/A
+119,Skal Labissiere,FG_MISS,Jerami Grant,1:51,1,Thunder,Kings,28 - 27,0,0,2,Layup
+120,Alex Abrines,DEFENSIVE_REBOUND,None,1:51,1,Thunder,Kings,28 - 27,1,N/A,N/A,N/A
+121,Hamidou Diallo,FG_ASSISTED,Alex Abrines,1:48,1,Thunder,Kings,28 - 29,1,0,2,Dunk
+122,Jerami Grant,FOUL_ON_FLOOR,None,1:30,1,Thunder,Kings,28 - 29,1,N/A,N/A,N/A
+123,Marvin Bagley,FT,None,1:30,1,Kings,Thunder,29 - 29,0,N/A,1,N/A
+124,Marvin Bagley,FT,None,1:30,1,Kings,Thunder,30 - 29,0,N/A,1,N/A
+125,Dennis Schroder's,FG_MISS,De'Aaron Fox,1:22,1,Kings,Thunder,30 - 29,1,0,2,Layup
+126,Dennis Schroder,OFFENSIVE_REBOUND,None,1:19,1,Thunder,Kings,30 - 29,1,N/A,N/A,N/A
+127,Alex Abrines,FG_MISS,None,1:09,1,Thunder,Kings,30 - 29,1,24,3,Jumper
+128,Team,DEFENSIVE_REBOUND,None,1:08,1,Kings,Thunder,30 - 29,0,N/A,N/A,N/A
+129,Marvin Bagley,TURNOVER,None,58.8,1,Kings,Thunder,30 - 29,0,N/A,N/A,N/A
+130,Hamidou Diallo,FG_ASSISTED,Alex Abrines,48.5,1,Thunder,Kings,30 - 32,1, ,3,Jumper
+131,Yogi Ferrell,FG_UNASSISTED,None,34.0,1,Kings,Thunder,32 - 32,0,0,2,Layup
+132,Dennis Schroder,FOUL_ON_FLOOR,None,9.2,1,Thunder,Kings,32 - 32,1,N/A,N/A,N/A
+133,Dennis Schroder,TURNOVER,None,9.2,1,Thunder,Kings,32 - 32,1,N/A,N/A,N/A
+134,Nemanja Bjelica,SUBSTITUTION,Labissiere Skal,9.2,1,Kings,Thunder,32 - 32,0,N/A,N/A,N/A
+135,Yogi Ferrell,FG_UNASSISTED,None,1.3,1,Kings,Thunder,34 - 32,0,11,2,Jumper
+136,End of,Unknown,None,0.0,1,Thunder,Kings,34 - 32,1,N/A,N/A,N/A
+0,Steven Adams,SUBSTITUTION,Grant Jerami,12:00,3,Thunder,Kings,68 - 56,1,N/A,N/A,N/A
+1,Paul George,SUBSTITUTION,Schroder Dennis,12:00,3,Thunder,Kings,68 - 56,1,N/A,N/A,N/A
+2,Buddy Hield,SUBSTITUTION,Ferrell Yogi,12:00,3,Kings,Thunder,68 - 56,0,N/A,N/A,N/A
+3,Nemanja Bjelica,SUBSTITUTION,Giles Harry,12:00,3,Kings,Thunder,68 - 56,0,N/A,N/A,N/A
+4,Willie Cauley-Stein,SUBSTITUTION,McLemore Ben,12:00,3,Kings,Thunder,68 - 56,0,N/A,N/A,N/A
+5,Iman Shumpert,SUBSTITUTION,III Bagley,12:00,3,Kings,Thunder,68 - 56,0,N/A,N/A,N/A
+6,Russell Westbrook,FG_ASSISTED,Paul George,11:47,3,Thunder,Kings,68 - 58,1,0,2,Layup
+7,Nemanja Bjelica,FG_UNASSISTED,None,11:26,3,Kings,Thunder,70 - 58,0,5,2,Jumper
+8,Iman Shumpert,FOUL_ON_FLOOR,None,11:15,3,Kings,Thunder,70 - 58,0,N/A,N/A,N/A
+9,Patrick Patterson,FG_MISS,None,11:09,3,Thunder,Kings,70 - 58,1,25,3,Jumper
+10,Willie Cauley-Stein,DEFENSIVE_REBOUND,None,11:07,3,Kings,Thunder,70 - 58,0,N/A,N/A,N/A
+11,Buddy Hield,FG_UNASSISTED,None,10:53,3,Kings,Thunder,72 - 58,0,4,2,Jumper
+12,Willie Cauley-Stein,FOUL_ON_FLOOR,None,10:35,3,Kings,Thunder,72 - 58,0,N/A,N/A,N/A
+13,Steven Adams,FT_MISS,None,10:35,3,Thunder,Kings,72 - 58,1,N/A,1,N/A
+14,Team,OFFENSIVE_REBOUND,None,10:35,3,Thunder,Kings,72 - 58,1,N/A,N/A,N/A
+15,Steven Adams,FT,None,10:35,3,Thunder,Kings,72 - 59,1,N/A,1,N/A
+16,Paul George,FOUL_ON_FLOOR,None,10:26,3,Thunder,Kings,72 - 59,1,N/A,N/A,N/A
+17,Buddy Hield,FT,None,10:26,3,Kings,Thunder,73 - 59,0,N/A,1,N/A
+18,Harry Giles,SUBSTITUTION,Cauley-Stein Willie,10:26,3,Kings,Thunder,73 - 59,0,N/A,N/A,N/A
+19,Buddy Hield,FT,None,10:26,3,Kings,Thunder,74 - 59,0,N/A,1,N/A
+20,Russell Westbrook,FG_UNASSISTED,None,10:16,3,Thunder,Kings,74 - 61,1,0,2,Layup
+21,Harry Giles,FG_MISS,None,10:07,3,Kings,Thunder,74 - 61,0,0,2,Layup
+22,Steven Adams,DEFENSIVE_REBOUND,None,10:05,3,Thunder,Kings,74 - 61,1,N/A,N/A,N/A
+23,Russell Westbrook,FG_UNASSISTED,None,10:04,3,Thunder,Kings,74 - 63,1, ,2,Jumper
+24,De'Aaron Fox,FG_MISS,None,9:38,3,Kings,Thunder,74 - 63,0,25,3,Jumper
+25,Paul George,DEFENSIVE_REBOUND,None,9:36,3,Thunder,Kings,74 - 63,1,N/A,N/A,N/A
+26,Terrance Ferguson,TURNOVER,Harry Giles,9:30,3,Thunder,Kings,74 - 63,1,N/A,N/A,N/A
+27,Buddy Hield,FG_ASSISTED,De'Aaron Fox,9:21,3,Kings,Thunder,77 - 63,0, ,3,Jumper
+28,Team,Unknown,None,9:20,3,Thunder,Kings,77 - 63,1,N/A,N/A,N/A
+29,Dennis Schroder,SUBSTITUTION,Patterson Patrick,9:20,3,Thunder,Kings,77 - 63,1,N/A,N/A,N/A
+30,Dennis Schroder,FG_ASSISTED,Russell Westbrook,9:12,3,Thunder,Kings,77 - 66,1,26,3,Jumper
+31,Iman Shumpert,FG_UNASSISTED,None,8:54,3,Kings,Thunder,79 - 66,0,18,2,Jumper
+32,Russell Westbrook,TURNOVER,Iman Shumpert,8:45,3,Thunder,Kings,79 - 66,1,N/A,N/A,N/A
+33,Iman Shumpert,FG_UNASSISTED,None,8:44,3,Kings,Thunder,81 - 66,0, ,2,Jumper
+34,Dennis Schroder,FG_MISS,Iman Shumpert,8:28,3,Kings,Thunder,81 - 66,1,0,2,Layup
+35,Harry Giles,DEFENSIVE_REBOUND,None,8:26,3,Kings,Thunder,81 - 66,0,N/A,N/A,N/A
+36,shot clock,TURNOVER,None,8:03,3,Kings,Thunder,81 - 66,0,N/A,N/A,N/A
+37,Russell Westbrook,FG_MISS,None,7:52,3,Thunder,Kings,81 - 66,1,25,3,Jumper
+38,Buddy Hield,DEFENSIVE_REBOUND,None,7:49,3,Kings,Thunder,81 - 66,0,N/A,N/A,N/A
+39,Russell Westbrook,FOUL_ON_FLOOR,None,7:39,3,Thunder,Kings,81 - 66,1,N/A,N/A,N/A
+40,Harry Giles,FG_ASSISTED,Nemanja Bjelica,7:30,3,Kings,Thunder,83 - 66,0,6,2,Jumper
+41,Russell Westbrook,FG_MISS,None,7:14,3,Thunder,Kings,83 - 66,1,25,3,Jumper
+42,Harry Giles,DEFENSIVE_REBOUND,None,7:11,3,Kings,Thunder,83 - 66,0,N/A,N/A,N/A
+43,Dennis Schroder,FOUL_ON_FLOOR,None,7:06,3,Thunder,Kings,83 - 66,1,N/A,N/A,N/A
+44,Harry Giles,FG_MISS,None,6:54,3,Kings,Thunder,83 - 66,0,11,2,Jumper
+45,Steven Adams,DEFENSIVE_REBOUND,None,6:54,3,Thunder,Kings,83 - 66,1,N/A,N/A,N/A
+46,Iman Shumpert,FOUL_ON_FLOOR,None,6:50,3,Kings,Thunder,83 - 66,0,N/A,N/A,N/A
+47,Russell Westbrook,FT,None,6:50,3,Thunder,Kings,83 - 67,1,N/A,1,N/A
+48,Hamidou Diallo,SUBSTITUTION,Ferguson Terrance,6:50,3,Thunder,Kings,83 - 67,1,N/A,N/A,N/A
+49,Russell Westbrook,FT_MISS,None,6:50,3,Thunder,Kings,83 - 67,1,N/A,1,N/A
+50,Team,DEFENSIVE_REBOUND,None,6:48,3,Kings,Thunder,83 - 67,0,N/A,N/A,N/A
+51,Russell Westbrook,FOUL_ON_FLOOR,None,6:48,3,Thunder,Kings,83 - 67,1,N/A,N/A,N/A
+52,Harry Giles,FOUL_ON_FLOOR,None,6:37,3,Kings,Thunder,83 - 67,0,N/A,N/A,N/A
+53,Harry Giles,TURNOVER,None,6:37,3,Kings,Thunder,83 - 67,0,N/A,N/A,N/A
+54,Paul George,FG_ASSISTED,Hamidou Diallo,6:25,3,Thunder,Kings,83 - 70,1,26,3,Jumper
+55,Buddy Hield,TURNOVER,Hamidou Diallo,5:57,3,Kings,Thunder,83 - 70,0,N/A,N/A,N/A
+56,Paul George,FG_UNASSISTED,None,5:49,3,Thunder,Kings,83 - 72,1,0,2,Dunk
+57,Iman Shumpert,FOUL_ON_FLOOR,None,5:49,3,Kings,Thunder,83 - 72,0,N/A,N/A,N/A
+58,Paul George,FT,None,5:49,3,Thunder,Kings,83 - 73,1,N/A,1,N/A
+59,Team,Unknown,None,5:46,3,Kings,Thunder,83 - 73,0,N/A,N/A,N/A
+60,Buddy Hield,FG_ASSISTED,Iman Shumpert,5:38,3,Kings,Thunder,85 - 73,0,13,2,Jumper
+61,Russell Westbrook,TURNOVER,None,5:20,3,Thunder,Kings,85 - 73,1,N/A,N/A,N/A
+62,De'Aaron Fox,FG_UNASSISTED,None,5:14,3,Kings,Thunder,87 - 73,0,0,2,Layup
+63,Dennis Schroder,FOUL_ON_FLOOR,None,5:14,3,Thunder,Kings,87 - 73,1,N/A,N/A,N/A
+64,De'Aaron Fox,FT,None,5:14,3,Kings,Thunder,88 - 73,0,N/A,1,N/A
+65,Harry Giles,FOUL_TECHNICAL,None,5:05,3,Kings,Thunder,88 - 73,0,N/A,N/A,N/A
+66,Paul George,FT,None,5:05,3,Thunder,Kings,88 - 74,1,N/A,1,N/A
+67,Russell Westbrook,FG_ASSISTED,Dennis Schroder,4:59,3,Thunder,Kings,88 - 76,1,0,2,Layup
+68,De'Aaron Fox,FG_UNASSISTED,None,4:48,3,Kings,Thunder,90 - 76,0, ,2,Jumper
+69,Russell Westbrook's,FG_MISS,Iman Shumpert,4:43,3,Kings,Thunder,90 - 76,1,0,2,Layup
+70,Steven Adams,OFFENSIVE_REBOUND,None,4:41,3,Thunder,Kings,90 - 76,1,N/A,N/A,N/A
+71,Paul George,FG_MISS,None,4:33,3,Thunder,Kings,90 - 76,1,26,3,Jumper
+72,Team,OFFENSIVE_REBOUND,None,4:32,3,Thunder,Kings,90 - 76,1,N/A,N/A,N/A
+73,Harry Giles,FOUL_ON_FLOOR,None,4:32,3,Kings,Thunder,90 - 76,0,N/A,N/A,N/A
+74,Steven Adams,FT,None,4:32,3,Thunder,Kings,90 - 77,1,N/A,1,N/A
+75,Steven Adams,FT_MISS,None,4:32,3,Thunder,Kings,90 - 77,1,N/A,1,N/A
+76,Iman Shumpert,DEFENSIVE_REBOUND,None,4:29,3,Kings,Thunder,90 - 77,0,N/A,N/A,N/A
+77,Buddy Hield,FG_MISS,None,4:16,3,Kings,Thunder,90 - 77,0, ,2,Jumper
+78,Harry Giles,OFFENSIVE_REBOUND,None,4:10,3,Kings,Thunder,90 - 77,0,N/A,N/A,N/A
+79,Harry Giles,FG_MISS,None,4:10,3,Kings,Thunder,90 - 77,0, ,2,Jumper
+80,Paul George,DEFENSIVE_REBOUND,None,4:08,3,Thunder,Kings,90 - 77,1,N/A,N/A,N/A
+81,Dennis Schroder,FG_ASSISTED,Russell Westbrook,4:06,3,Thunder,Kings,90 - 80,1,25,3,Jumper
+82,De'Aaron Fox,FG_UNASSISTED,None,3:50,3,Kings,Thunder,92 - 80,0,11,2,Jumper
+83,Hamidou Diallo,FG_MISS,None,3:37,3,Thunder,Kings,92 - 80,1,23,3,Jumper
+84,Hamidou Diallo,OFFENSIVE_REBOUND,None,3:35,3,Thunder,Kings,92 - 80,1,N/A,N/A,N/A
+85,Hamidou Diallo,FG_UNASSISTED,None,3:33,3,Thunder,Kings,92 - 82,1,0,2,Dunk
+86,Nemanja Bjelica,FG_ASSISTED,Iman Shumpert,3:18,3,Kings,Thunder,94 - 82,0,0,2,Layup
+87,Russell Westbrook,FG_MISS,None,3:07,3,Thunder,Kings,94 - 82,1,25,3,Jumper
+88,Harry Giles,DEFENSIVE_REBOUND,None,3:03,3,Kings,Thunder,94 - 82,0,N/A,N/A,N/A
+89,Iman Shumpert,FG_MISS,None,2:51,3,Kings,Thunder,94 - 82,0,24,3,Jumper
+90,Team,DEFENSIVE_REBOUND,None,2:51,3,Thunder,Kings,94 - 82,1,N/A,N/A,N/A
+91,Jerami Grant,SUBSTITUTION,Westbrook Russell,2:51,3,Thunder,Kings,94 - 82,1,N/A,N/A,N/A
+92,Marvin Bagley,SUBSTITUTION,Bjelica Nemanja,2:51,3,Kings,Thunder,94 - 82,0,N/A,N/A,N/A
+93,Justin Jackson,SUBSTITUTION,Shumpert Iman,2:51,3,Kings,Thunder,94 - 82,0,N/A,N/A,N/A
+94,Dennis Schroder,FG_UNASSISTED,None,2:35,3,Thunder,Kings,94 - 84,1,0,2,Layup
+95,Harry Giles,FG_ASSISTED,De'Aaron Fox,2:21,3,Kings,Thunder,96 - 84,0,9,2,Jumper
+96,Justin Jackson,FOUL_ON_FLOOR,None,2:12,3,Kings,Thunder,96 - 84,0,N/A,N/A,N/A
+97,Paul George,FT,None,2:12,3,Thunder,Kings,96 - 85,1,N/A,1,N/A
+98,Nerlens Noel,SUBSTITUTION,Adams Steven,2:12,3,Thunder,Kings,96 - 85,1,N/A,N/A,N/A
+99,Yogi Ferrell,SUBSTITUTION,Fox De'Aaron,2:12,3,Kings,Thunder,96 - 85,0,N/A,N/A,N/A
+100,Paul George,FT,None,2:12,3,Thunder,Kings,96 - 86,1,N/A,1,N/A
+101,Marvin Bagley,TURNOVER,None,2:03,3,Kings,Thunder,96 - 86,0,N/A,N/A,N/A
+102,Willie Cauley-Stein,SUBSTITUTION,Giles Harry,2:03,3,Kings,Thunder,96 - 86,0,N/A,N/A,N/A
+103,Paul George,FG_MISS,None,1:55,3,Thunder,Kings,96 - 86,1,26,3,Jumper
+104,Buddy Hield,DEFENSIVE_REBOUND,None,1:52,3,Kings,Thunder,96 - 86,0,N/A,N/A,N/A
+105,Jerami Grant,FOUL_ON_FLOOR,None,1:49,3,Thunder,Kings,96 - 86,1,N/A,N/A,N/A
+106,Marvin Bagley,FT_MISS,None,1:49,3,Kings,Thunder,96 - 86,0,N/A,1,N/A
+107,Team,OFFENSIVE_REBOUND,None,1:49,3,Kings,Thunder,96 - 86,0,N/A,N/A,N/A
+108,Marvin Bagley,FT_MISS,None,1:49,3,Kings,Thunder,96 - 86,0,N/A,1,N/A
+109,Paul George,DEFENSIVE_REBOUND,None,1:47,3,Thunder,Kings,96 - 86,1,N/A,N/A,N/A
+110,Jerami Grant,FG_MISS,None,1:34,3,Thunder,Kings,96 - 86,1,0,2,Layup
+111,Nerlens Noel,OFFENSIVE_REBOUND,None,1:32,3,Thunder,Kings,96 - 86,1,N/A,N/A,N/A
+112,Nerlens Noel,FG_UNASSISTED,None,1:31,3,Thunder,Kings,96 - 88,1,0,2,Dunk
+113,Buddy Hield,FG_MISS,None,1:11,3,Kings,Thunder,96 - 88,0,13,2,Jumper
+114,Dennis Schroder,DEFENSIVE_REBOUND,None,1:08,3,Thunder,Kings,96 - 88,1,N/A,N/A,N/A
+115,Dennis Schroder,FG_MISS,Yogi Ferrell,1:03,3,Kings,Thunder,96 - 88,1,0,2,Layup
+116,Team,OFFENSIVE_REBOUND,None,1:03,3,Thunder,Kings,96 - 88,1,N/A,N/A,N/A
+117,Paul George,FG_UNASSISTED,None,56.9,3,Thunder,Kings,96 - 90,1,18,2,Jumper
+118,Willie Cauley-Stein's,FG_MISS,Jerami Grant,41.7,3,Thunder,Kings,96 - 90,0,0,2,Layup
+119,Paul George,DEFENSIVE_REBOUND,None,39.2,3,Thunder,Kings,96 - 90,1,N/A,N/A,N/A
+120,Dennis Schroder,FG_MISS,None,36.8,3,Thunder,Kings,96 - 90,1,12,2,Jumper
+121,Nerlens Noel,OFFENSIVE_REBOUND,None,31.7,3,Thunder,Kings,96 - 90,1,N/A,N/A,N/A
+122,Paul George,FOUL_ON_FLOOR,None,22.8,3,Thunder,Kings,96 - 90,1,N/A,N/A,N/A
+123,Paul George,TURNOVER,None,22.8,3,Thunder,Kings,96 - 90,1,N/A,N/A,N/A
+124,Team,Unknown,None,22.8,3,Thunder,Kings,96 - 90,1,N/A,N/A,N/A
+125,Deonte Burton,SUBSTITUTION,George Paul,22.8,3,Thunder,Kings,96 - 90,1,N/A,N/A,N/A
+126,De'Aaron Fox,SUBSTITUTION,Ferrell Yogi,22.8,3,Kings,Thunder,96 - 90,0,N/A,N/A,N/A
+127,Hamidou Diallo,FOUL_ON_FLOOR,None,1.0,3,Thunder,Kings,96 - 90,1,N/A,N/A,N/A
+128,De'Aaron Fox,FT,None,1.0,3,Kings,Thunder,97 - 90,0,N/A,1,N/A
+129,De'Aaron Fox,FT_MISS,None,1.0,3,Kings,Thunder,97 - 90,0,N/A,1,N/A
+130,Nerlens Noel,DEFENSIVE_REBOUND,None,1.0,3,Thunder,Kings,97 - 90,1,N/A,N/A,N/A
+131,End of,Unknown,None,0.0,3,Thunder,Kings,97 - 90,1,N/A,N/A,N/A
+0,Buddy Hield's,FG_MISS,Deonte Burton,11:46,4,Thunder,Kings,97 - 90,0,0,2,Layup
+1,Deonte Burton,DEFENSIVE_REBOUND,None,11:44,4,Thunder,Kings,97 - 90,1,N/A,N/A,N/A
+2,Dennis Schroder,FG_UNASSISTED,None,11:32,4,Thunder,Kings,97 - 92,1, ,2,Jumper
+3,Willie Cauley-Stein,FG_MISS,None,11:17,4,Kings,Thunder,97 - 92,0, ,2,Jumper
+4,Marvin Bagley,OFFENSIVE_REBOUND,None,11:12,4,Kings,Thunder,97 - 92,0,N/A,N/A,N/A
+5,Marvin Bagley,FG_UNASSISTED,None,11:12,4,Kings,Thunder,99 - 92,0, ,2,Jumper
+6,Jerami Grant,FG_MISS,None,11:04,4,Thunder,Kings,99 - 92,1, ,2,Jumper
+7,Willie Cauley-Stein,DEFENSIVE_REBOUND,None,11:01,4,Kings,Thunder,99 - 92,0,N/A,N/A,N/A
+8,Justin Jackson,FG_ASSISTED,Buddy Hield,10:58,4,Kings,Thunder,102 - 92,0, ,3,Jumper
+9,Team,Unknown,None,10:57,4,Thunder,Kings,102 - 92,1,N/A,N/A,N/A
+10,Yogi Ferrell,SUBSTITUTION,Hield Buddy,10:57,4,Kings,Thunder,102 - 92,0,N/A,N/A,N/A
+11,Deonte Burton,FG_UNASSISTED,None,10:41,4,Thunder,Kings,102 - 94,1,0,2,Layup
+12,Marvin Bagley,FG_MISS,None,10:26,4,Kings,Thunder,102 - 94,0,10,2,Jumper
+13,Willie Cauley-Stein,OFFENSIVE_REBOUND,None,10:18,4,Kings,Thunder,102 - 94,0,N/A,N/A,N/A
+14,Marvin Bagley,FG_MISS,Nerlens Noel,10:17,4,Thunder,Kings,102 - 94,0,0,2,Layup
+15,Dennis Schroder,DEFENSIVE_REBOUND,None,10:14,4,Thunder,Kings,102 - 94,1,N/A,N/A,N/A
+16,Jerami Grant,TURNOVER,None,10:11,4,Thunder,Kings,102 - 94,1,N/A,N/A,N/A
+17,De'Aaron Fox,FG_MISS,None,9:59,4,Kings,Thunder,102 - 94,0,7,2,Jumper
+18,Willie Cauley-Stein,OFFENSIVE_REBOUND,None,9:58,4,Kings,Thunder,102 - 94,0,N/A,N/A,N/A
+19,Willie Cauley-Stein,TURNOVER,Jerami Grant,9:58,4,Kings,Thunder,102 - 94,0,N/A,N/A,N/A
+20,Hamidou Diallo,FG_ASSISTED,Dennis Schroder,9:52,4,Thunder,Kings,102 - 96,1, ,2,Jumper
+21,Justin Jackson,FG_ASSISTED,Willie Cauley-Stein,9:38,4,Kings,Thunder,104 - 96,0,10,2,Jumper
+22,Marvin Bagley,FOUL_ON_FLOOR,None,9:26,4,Kings,Thunder,104 - 96,0,N/A,N/A,N/A
+23,Dennis Schroder,FT,None,9:26,4,Thunder,Kings,104 - 97,1,N/A,1,N/A
+24,Russell Westbrook,SUBSTITUTION,Diallo Hamidou,9:26,4,Thunder,Kings,104 - 97,1,N/A,N/A,N/A
+25,Dennis Schroder,FT,None,9:26,4,Thunder,Kings,104 - 98,1,N/A,1,N/A
+26,Yogi Ferrell,FG_MISS,None,9:11,4,Kings,Thunder,104 - 98,0,25,3,Jumper
+27,Marvin Bagley,OFFENSIVE_REBOUND,None,9:07,4,Kings,Thunder,104 - 98,0,N/A,N/A,N/A
+28,Marvin Bagley,FG_MISS,Nerlens Noel,9:06,4,Thunder,Kings,104 - 98,0,0,2,Layup
+29,Jerami Grant,DEFENSIVE_REBOUND,None,9:02,4,Thunder,Kings,104 - 98,1,N/A,N/A,N/A
+30,Dennis Schroder,FG_MISS,None,8:58,4,Thunder,Kings,104 - 98,1,26,3,Jumper
+31,Team,DEFENSIVE_REBOUND,None,8:56,4,Kings,Thunder,104 - 98,0,N/A,N/A,N/A
+32,Hamidou Diallo,SUBSTITUTION,Schroder Dennis,8:56,4,Thunder,Kings,104 - 98,1,N/A,N/A,N/A
+33,Marvin Bagley,FG_MISS,None,8:35,4,Kings,Thunder,104 - 98,0, ,2,Jumper
+34,Willie Cauley-Stein,OFFENSIVE_REBOUND,None,8:32,4,Kings,Thunder,104 - 98,0,N/A,N/A,N/A
+35,Nerlens Noel,FOUL_ON_FLOOR,None,8:30,4,Thunder,Kings,104 - 98,1,N/A,N/A,N/A
+36,De'Aaron Fox,FG_MISS,None,8:21,4,Kings,Thunder,104 - 98,0, ,2,Jumper
+37,Russell Westbrook,DEFENSIVE_REBOUND,None,8:17,4,Thunder,Kings,104 - 98,1,N/A,N/A,N/A
+38,Hamidou Diallo,FG_MISS,None,8:12,4,Thunder,Kings,104 - 98,1, ,2,Jumper
+39,Jerami Grant,OFFENSIVE_REBOUND,None,8:10,4,Thunder,Kings,104 - 98,1,N/A,N/A,N/A
+40,Deonte Burton,FG_MISS,None,8:08,4,Thunder,Kings,104 - 98,1, ,2,Jumper
+41,Justin Jackson,DEFENSIVE_REBOUND,None,8:05,4,Kings,Thunder,104 - 98,0,N/A,N/A,N/A
+42,Yogi Ferrell,FG_MISS,None,8:01,4,Kings,Thunder,104 - 98,0,24,3,Jumper
+43,Willie Cauley-Stein,OFFENSIVE_REBOUND,None,7:58,4,Kings,Thunder,104 - 98,0,N/A,N/A,N/A
+44,De'Aaron Fox,FG_MISS,None,7:46,4,Kings,Thunder,104 - 98,0,25,3,Jumper
+45,Russell Westbrook,DEFENSIVE_REBOUND,None,7:41,4,Thunder,Kings,104 - 98,1,N/A,N/A,N/A
+46,Jerami Grant,FG_MISS,None,7:34,4,Thunder,Kings,104 - 98,1,23,3,Jumper
+47,Team,DEFENSIVE_REBOUND,None,7:31,4,Kings,Thunder,104 - 98,0,N/A,N/A,N/A
+48,Paul George,SUBSTITUTION,Grant Jerami,7:31,4,Thunder,Kings,104 - 98,1,N/A,N/A,N/A
+49,Nerlens Noel,FOUL_ON_FLOOR,None,7:20,4,Thunder,Kings,104 - 98,1,N/A,N/A,N/A
+50,Nemanja Bjelica,SUBSTITUTION,Cauley-Stein Willie,7:20,4,Kings,Thunder,104 - 98,0,N/A,N/A,N/A
+51,Nerlens Noel,FOUL_ON_FLOOR,None,7:15,4,Thunder,Kings,104 - 98,1,N/A,N/A,N/A
+52,Steven Adams,SUBSTITUTION,Noel Nerlens,7:15,4,Thunder,Kings,104 - 98,1,N/A,N/A,N/A
+53,De'Aaron Fox,FT,None,7:15,4,Kings,Thunder,105 - 98,0,N/A,1,N/A
+54,De'Aaron Fox,FT,None,7:15,4,Kings,Thunder,106 - 98,0,N/A,1,N/A
+55,Deonte Burton,FG_MISS,None,6:53,4,Thunder,Kings,106 - 98,1,0,2,Dunk
+56,Steven Adams,OFFENSIVE_REBOUND,None,6:51,4,Thunder,Kings,106 - 98,1,N/A,N/A,N/A
+57,Steven Adams,TURNOVER,agley III,6:50,4,Thunder,Kings,106 - 98,1,N/A,N/A,N/A
+58,De'Aaron Fox,FG_UNASSISTED,None,6:45,4,Kings,Thunder,108 - 98,0, ,2,Jumper
+59,Deonte Burton,FG_ASSISTED,Hamidou Diallo,6:29,4,Thunder,Kings,108 - 101,1,26,3,Jumper
+60,Marvin Bagley,FG_ASSISTED,Nemanja Bjelica,6:16,4,Kings,Thunder,110 - 101,0,0,2,Layup
+61,De'Aaron Fox,FOUL_ON_FLOOR,None,6:11,4,Kings,Thunder,110 - 101,0,N/A,N/A,N/A
+62,Russell Westbrook,FT_MISS,None,6:11,4,Thunder,Kings,110 - 101,1,N/A,1,N/A
+63,Team,OFFENSIVE_REBOUND,None,6:11,4,Thunder,Kings,110 - 101,1,N/A,N/A,N/A
+64,Jerami Grant,SUBSTITUTION,Burton Deonte,6:11,4,Thunder,Kings,110 - 101,1,N/A,N/A,N/A
+65,Iman Shumpert,SUBSTITUTION,Fox De'Aaron,6:11,4,Kings,Thunder,110 - 101,0,N/A,N/A,N/A
+66,Russell Westbrook,FT,None,6:11,4,Thunder,Kings,110 - 102,1,N/A,1,N/A
+67,Marvin Bagley,FG_ASSISTED,Justin Jackson,5:56,4,Kings,Thunder,112 - 102,0,0,2,Layup
+68,Jerami Grant,FOUL_ON_FLOOR,None,5:56,4,Thunder,Kings,112 - 102,1,N/A,N/A,N/A
+69,Terrance Ferguson,SUBSTITUTION,Diallo Hamidou,5:56,4,Thunder,Kings,112 - 102,1,N/A,N/A,N/A
+70,Marvin Bagley,FT,None,5:56,4,Kings,Thunder,113 - 102,0,N/A,1,N/A
+71,Iman Shumpert,FOUL_ON_FLOOR,None,5:44,4,Kings,Thunder,113 - 102,0,N/A,N/A,N/A
+72,Paul George,FT,None,5:44,4,Thunder,Kings,113 - 103,1,N/A,1,N/A
+73,Paul George,FT,None,5:44,4,Thunder,Kings,113 - 104,1,N/A,1,N/A
+74,Team,Unknown,None,5:44,4,Kings,Thunder,113 - 104,0,N/A,N/A,N/A
+75,Marvin Bagley,FG_MISS,None,5:22,4,Kings,Thunder,113 - 104,0,1,2,Jumper
+76,Marvin Bagley,OFFENSIVE_REBOUND,None,5:20,4,Kings,Thunder,113 - 104,0,N/A,N/A,N/A
+77,shot clock,TURNOVER,None,5:20,4,Kings,Thunder,113 - 104,0,N/A,N/A,N/A
+78,Dennis Schroder,SUBSTITUTION,Ferguson Terrance,5:20,4,Thunder,Kings,113 - 104,1,N/A,N/A,N/A
+79,Russell Westbrook,FG_UNASSISTED,None,5:10,4,Thunder,Kings,113 - 106,1,0,2,Layup
+80,Marvin Bagley,FOUL_ON_FLOOR,None,5:10,4,Kings,Thunder,113 - 106,0,N/A,N/A,N/A
+81,Russell Westbrook,FT_MISS,None,5:10,4,Thunder,Kings,113 - 106,1,N/A,1,N/A
+82,Jerami Grant,OFFENSIVE_REBOUND,None,5:10,4,Thunder,Kings,113 - 106,1,N/A,N/A,N/A
+83,Paul George,FG_UNASSISTED,None,4:57,4,Thunder,Kings,113 - 108,1,7,2,Jumper
+84,Marvin Bagley,FG_MISS,None,4:36,4,Kings,Thunder,113 - 108,0,12,2,Jumper
+85,Steven Adams,DEFENSIVE_REBOUND,None,4:34,4,Thunder,Kings,113 - 108,1,N/A,N/A,N/A
+86,Steven Adams,TURNOVER,None,4:31,4,Thunder,Kings,113 - 108,1,N/A,N/A,N/A
+87,De'Aaron Fox,SUBSTITUTION,Ferrell Yogi,4:31,4,Kings,Thunder,113 - 108,0,N/A,N/A,N/A
+88,Iman Shumpert,FG_ASSISTED,De'Aaron Fox,4:20,4,Kings,Thunder,115 - 108,0,15,2,Jumper
+89,Dennis Schroder,FG_MISS,None,4:01,4,Thunder,Kings,115 - 108,1,23,3,Jumper
+90,Justin Jackson,DEFENSIVE_REBOUND,None,3:58,4,Kings,Thunder,115 - 108,0,N/A,N/A,N/A
+91,Dennis Schroder,FOUL_ON_FLOOR,None,3:57,4,Thunder,Kings,115 - 108,1,N/A,N/A,N/A
+92,Justin Jackson,FT,None,3:57,4,Kings,Thunder,116 - 108,0,N/A,1,N/A
+93,Willie Cauley-Stein,SUBSTITUTION,III Bagley,3:57,4,Kings,Thunder,116 - 108,0,N/A,N/A,N/A
+94,Justin Jackson,FT,None,3:57,4,Kings,Thunder,117 - 108,0,N/A,1,N/A
+95,Russell Westbrook,FG_MISS,None,3:42,4,Thunder,Kings,117 - 108,1,0,2,Layup
+96,Nemanja Bjelica,DEFENSIVE_REBOUND,None,3:41,4,Kings,Thunder,117 - 108,0,N/A,N/A,N/A
+97,Team,Unknown,None,3:35,4,Kings,Thunder,117 - 108,0,N/A,N/A,N/A
+98,Iman Shumpert,FG_ASSISTED,Willie Cauley-Stein,3:32,4,Kings,Thunder,119 - 108,0,1,2,Jumper
+99,Paul George,FG_UNASSISTED,None,3:14,4,Thunder,Kings,119 - 110,1,0,2,Layup
+100,Justin Jackson,TURNOVER,Dennis Schroder,3:04,4,Kings,Thunder,119 - 110,0,N/A,N/A,N/A
+101,Dennis Schroder,FG_UNASSISTED,None,3:01,4,Thunder,Kings,119 - 112,1,1,2,Jumper
+102,Buddy Hield,SUBSTITUTION,Jackson Justin,2:47,4,Kings,Thunder,119 - 112,0,N/A,N/A,N/A
+103,Iman Shumpert,TURNOVER,Steven Adams,2:37,4,Kings,Thunder,119 - 112,0,N/A,N/A,N/A
+104,De'Aaron Fox,FOUL_ON_FLOOR,None,2:35,4,Kings,Thunder,119 - 112,0,N/A,N/A,N/A
+105,Russell Westbrook,FT,None,2:35,4,Thunder,Kings,119 - 113,1,N/A,1,N/A
+106,Russell Westbrook,FT_MISS,None,2:35,4,Thunder,Kings,119 - 113,1,N/A,1,N/A
+107,Nemanja Bjelica,DEFENSIVE_REBOUND,None,2:33,4,Kings,Thunder,119 - 113,0,N/A,N/A,N/A
+108,Buddy Hield,FG_ASSISTED,De'Aaron Fox,2:21,4,Kings,Thunder,122 - 113,0,24,3,Jumper
+109,Paul George,FG_MISS,None,2:09,4,Thunder,Kings,122 - 113,1,26,3,Jumper
+110,Willie Cauley-Stein,DEFENSIVE_REBOUND,None,2:06,4,Kings,Thunder,122 - 113,0,N/A,N/A,N/A
+111,Willie Cauley-Stein,FG_ASSISTED,De'Aaron Fox,1:51,4,Kings,Thunder,124 - 113,0,1,2,Jumper
+112,Team,Unknown,None,1:51,4,Thunder,Kings,124 - 113,1,N/A,N/A,N/A
+113,Justin Jackson,SUBSTITUTION,Hield Buddy,1:51,4,Kings,Thunder,124 - 113,0,N/A,N/A,N/A
+114,Dennis Schroder,FG_MISS,None,1:45,4,Thunder,Kings,124 - 113,1,14,2,Jumper
+115,Russell Westbrook,OFFENSIVE_REBOUND,None,1:43,4,Thunder,Kings,124 - 113,1,N/A,N/A,N/A
+116,Russell Westbrook,FG_UNASSISTED,None,1:42,4,Thunder,Kings,124 - 115,1,1,2,Jumper
+117,Justin Jackson,FG_UNASSISTED,None,1:25,4,Kings,Thunder,126 - 115,0,12,2,Jumper
+118,Russell Westbrook,FG_ASSISTED,Dennis Schroder,1:15,4,Thunder,Kings,126 - 117,1,0,2,Dunk
+119,Willie Cauley-Stein,FG_ASSISTED,Justin Jackson,1:04,4,Kings,Thunder,128 - 117,0,0,2,Dunk
+120,Paul George,FG_ASSISTED,Dennis Schroder,54.3,4,Thunder,Kings,128 - 120,1,23,2,Jumper
+121,Willie Cauley-Stein,FG_ASSISTED,Justin Jackson,45.4,4,Kings,Thunder,130 - 120,0,0,2,Dunk
+122,Team,Unknown,None,45.4,4,Thunder,Kings,130 - 120,1,N/A,N/A,N/A
+123,Dennis Schroder,TURNOVER,De'Aaron Fox,44.1,4,Thunder,Kings,130 - 120,1,N/A,N/A,N/A
+124,Steven Adams,FOUL_ON_FLOOR,None,42.4,4,Thunder,Kings,130 - 120,1,N/A,N/A,N/A
+125,De'Aaron Fox,FT,None,42.4,4,Kings,Thunder,131 - 120,0,N/A,1,N/A
+126,Hamidou Diallo,SUBSTITUTION,Westbrook Russell,42.4,4,Thunder,Kings,131 - 120,1,N/A,N/A,N/A
+127,Deonte Burton,SUBSTITUTION,Adams Steven,42.4,4,Thunder,Kings,131 - 120,1,N/A,N/A,N/A
+128,Terrance Ferguson,SUBSTITUTION,George Paul,42.4,4,Thunder,Kings,131 - 120,1,N/A,N/A,N/A
+129,Buddy Hield,SUBSTITUTION,Shumpert Iman,42.4,4,Kings,Thunder,131 - 120,0,N/A,N/A,N/A
+130,De'Aaron Fox,FT_MISS,None,42.4,4,Kings,Thunder,131 - 120,0,N/A,1,N/A
+131,De'Aaron Fox,OFFENSIVE_REBOUND,None,40.5,4,Kings,Thunder,131 - 120,0,N/A,N/A,N/A
+132,De'Aaron Fox,TURNOVER,Hamidou Diallo,37.7,4,Kings,Thunder,131 - 120,0,N/A,N/A,N/A
+133,Jerami Grant,FG_MISS,None,31.6,4,Thunder,Kings,131 - 120,1,25,3,Jumper
+134,De'Aaron Fox,DEFENSIVE_REBOUND,None,27.5,4,Kings,Thunder,131 - 120,0,N/A,N/A,N/A
+135,turnover 131,TURNOVER,None,4.8,4,Kings,Thunder,131 - 120,0,N/A,N/A,N/A
+136,End of,Unknown,None,0.0,4,Thunder,Kings,131 - 120,1,N/A,N/A,N/A
+137,End of,Unknown,None,0.0,4,Thunder,Kings,131 - 120,1,N/A,N/A,N/A

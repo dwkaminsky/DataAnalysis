@@ -1,0 +1,481 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Deandre Ayton,JUMP_BALL,None,12:00,1,Suns,Raptors,0 - 0,0,N/A,N/A,N/A
+1,Devin Booker,FG_MISS,None,11:39,1,Suns,Raptors,0 - 0,0,-,2,Jumper
+2,Pascal Siakam,DEFENSIVE_REBOUND,None,11:37,1,Raptors,Suns,0 - 0,1,N/A,N/A,N/A
+3,Serge Ibaka,FG_MISS,None,11:21,1,Raptors,Suns,0 - 0,1,20,2,Jumper
+4,Mikal Bridges,DEFENSIVE_REBOUND,None,11:18,1,Suns,Raptors,0 - 0,0,N/A,N/A,N/A
+5,Mikal Bridges's,FG_MISS,Pascal Siakam,11:02,1,Raptors,Suns,0 - 0,0,-,3,Jumper
+6,Fred VanVleet,DEFENSIVE_REBOUND,None,10:59,1,Raptors,Suns,0 - 0,1,N/A,N/A,N/A
+7,Danny Green,FG_MISS,None,10:39,1,Raptors,Suns,0 - 0,1,-,3,Jumper
+8,Serge Ibaka,OFFENSIVE_REBOUND,None,10:38,1,Raptors,Suns,0 - 0,1,N/A,N/A,N/A
+9,Serge Ibaka,FG_UNASSISTED,None,10:34,1,Raptors,Suns,0 - 2,1,8,2,Jumper
+10,Danny Green,FOUL_ON_FLOOR,None,10:27,1,Raptors,Suns,0 - 2,1,N/A,N/A,N/A
+11,Devin Booker,FG_UNASSISTED,None,10:16,1,Suns,Raptors,2 - 2,0,12,2,Jumper
+12,Fred VanVleet,FG_ASSISTED,Kyle Lowry,10:01,1,Raptors,Suns,2 - 4,1,-,2,Jumper
+13,T.J. Warren,FG_MISS,None,9:52,1,Suns,Raptors,2 - 4,0,7,2,Jumper
+14,Team,OFFENSIVE_REBOUND,None,9:50,1,Suns,Raptors,2 - 4,0,N/A,N/A,N/A
+15,Devin Booker,FG_ASSISTED,De'Anthony Melton,9:43,1,Suns,Raptors,5 - 4,0,25,3,Jumper
+16,Serge Ibaka,FG_ASSISTED,Pascal Siakam,9:28,1,Raptors,Suns,5 - 6,1,7,2,Jumper
+17,Devin Booker,FG_MISS,None,9:14,1,Suns,Raptors,5 - 6,0,26,3,Jumper
+18,Deandre Ayton,OFFENSIVE_REBOUND,None,9:11,1,Suns,Raptors,5 - 6,0,N/A,N/A,N/A
+19,Deandre Ayton,FG_UNASSISTED,None,9:11,1,Suns,Raptors,7 - 6,0,-,2,Jumper
+20,De'Anthony Melton,FOUL_ON_FLOOR,None,8:59,1,Suns,Raptors,7 - 6,0,N/A,N/A,N/A
+21,Serge Ibaka,TURNOVER,None,8:46,1,Raptors,Suns,7 - 6,1,N/A,N/A,N/A
+22,Devin Booker,TURNOVER,Danny Green,8:29,1,Suns,Raptors,7 - 6,0,N/A,N/A,N/A
+23,Fred VanVleet,FG_UNASSISTED,None,8:20,1,Raptors,Suns,7 - 8,1,13,2,Jumper
+24,T.J. Warren,FG_MISS,None,8:09,1,Suns,Raptors,7 - 8,0,0,2,Layup
+25,Kyle Lowry,DEFENSIVE_REBOUND,None,8:07,1,Raptors,Suns,7 - 8,1,N/A,N/A,N/A
+26,Pascal Siakam,FG_MISS,None,7:56,1,Raptors,Suns,7 - 8,1,23,3,Jumper
+27,Devin Booker,DEFENSIVE_REBOUND,None,7:54,1,Suns,Raptors,7 - 8,0,N/A,N/A,N/A
+28,Devin Booker,TURNOVER,None,7:51,1,Suns,Raptors,7 - 8,0,N/A,N/A,N/A
+29,Fred VanVleet,FG_MISS,De'Anthony Melton,7:44,1,Suns,Raptors,7 - 8,1,3,2,Jumper
+30,De'Anthony Melton,DEFENSIVE_REBOUND,None,7:42,1,Suns,Raptors,7 - 8,0,N/A,N/A,N/A
+31,T.J. Warren,FG_ASSISTED,Mikal Bridges,7:35,1,Suns,Raptors,9 - 8,0,12,2,Jumper
+32,Pascal Siakam,FG_ASSISTED,Serge Ibaka,7:13,1,Raptors,Suns,9 - 10,1,1,2,Jumper
+33,Deandre Ayton,FG_ASSISTED,De'Anthony Melton,6:51,1,Suns,Raptors,11 - 10,0,15,2,Jumper
+34,Kyle Lowry,FG_ASSISTED,Fred VanVleet,6:36,1,Raptors,Suns,11 - 13,1,30,3,Jumper
+35,De'Anthony Melton,FG_MISS,None,6:19,1,Suns,Raptors,11 - 13,0,25,3,Jumper
+36,Team,DEFENSIVE_REBOUND,None,6:17,1,Raptors,Suns,11 - 13,1,N/A,N/A,N/A
+37,Team,Unknown,None,6:17,1,Raptors,Suns,11 - 13,1,N/A,N/A,N/A
+38,Kyle Lowry,FG_MISS,None,6:03,1,Raptors,Suns,11 - 13,1,26,3,Jumper
+39,T.J. Warren,DEFENSIVE_REBOUND,None,5:59,1,Suns,Raptors,11 - 13,0,N/A,N/A,N/A
+40,Devin Booker's,FG_MISS,Serge Ibaka,5:53,1,Raptors,Suns,11 - 13,0, ,2,Jumper
+41,Fred VanVleet,DEFENSIVE_REBOUND,None,5:51,1,Raptors,Suns,11 - 13,1,N/A,N/A,N/A
+42,Serge Ibaka,TURNOVER,De'Anthony Melton,5:44,1,Raptors,Suns,11 - 13,1,N/A,N/A,N/A
+43,Fred VanVleet,FOUL_ON_FLOOR,None,5:43,1,Raptors,Suns,11 - 13,1,N/A,N/A,N/A
+44,Devin Booker,FG_MISS,None,5:25,1,Suns,Raptors,11 - 13,0,26,3,Jumper
+45,Deandre Ayton,OFFENSIVE_REBOUND,None,5:23,1,Suns,Raptors,11 - 13,0,N/A,N/A,N/A
+46,T.J. Warren,FG_MISS,None,5:21,1,Suns,Raptors,11 - 13,0,24,3,Jumper
+47,Pascal Siakam,DEFENSIVE_REBOUND,None,5:17,1,Raptors,Suns,11 - 13,1,N/A,N/A,N/A
+48,Danny Green,FG_ASSISTED,Pascal Siakam,5:09,1,Raptors,Suns,11 - 16,1,24,3,Jumper
+49,T.J. Warren,FG_MISS,None,4:55,1,Suns,Raptors,11 - 16,0,10,2,Jumper
+50,Pascal Siakam,DEFENSIVE_REBOUND,None,4:52,1,Raptors,Suns,11 - 16,1,N/A,N/A,N/A
+51,Fred VanVleet,FG_ASSISTED,Pascal Siakam,4:49,1,Raptors,Suns,11 - 19,1,27,3,Jumper
+52,Team,Unknown,None,4:48,1,Suns,Raptors,11 - 19,0,N/A,N/A,N/A
+53,Norman Powell,SUBSTITUTION,Lowry Kyle,4:48,1,Raptors,Suns,11 - 19,1,N/A,N/A,N/A
+54,Elie Okobo,SUBSTITUTION,Melton De'Anthony,4:48,1,Suns,Raptors,11 - 19,0,N/A,N/A,N/A
+55,Josh Jackson,SUBSTITUTION,Bridges Mikal,4:48,1,Suns,Raptors,11 - 19,0,N/A,N/A,N/A
+56,Deandre Ayton,TURNOVER,None,4:29,1,Suns,Raptors,11 - 19,0,N/A,N/A,N/A
+57,Pascal Siakam,FG_UNASSISTED,None,4:19,1,Raptors,Suns,11 - 21,1,6,2,Jumper
+58,Elie Okobo,FG_MISS,None,3:57,1,Suns,Raptors,11 - 21,0,27,3,Jumper
+59,Norman Powell,DEFENSIVE_REBOUND,None,3:53,1,Raptors,Suns,11 - 21,1,N/A,N/A,N/A
+60,Norman Powell,TURNOVER,None,3:51,1,Raptors,Suns,11 - 21,1,N/A,N/A,N/A
+61,Greg Monroe,SUBSTITUTION,Ibaka Serge,3:51,1,Raptors,Suns,11 - 21,1,N/A,N/A,N/A
+62,Devin Booker,FG_UNASSISTED,None,3:39,1,Suns,Raptors,13 - 21,0,0,2,Layup
+63,Greg Monroe,FOUL_ON_FLOOR,None,3:39,1,Raptors,Suns,13 - 21,1,N/A,N/A,N/A
+64,Delon Wright,SUBSTITUTION,Green Danny,3:39,1,Raptors,Suns,13 - 21,1,N/A,N/A,N/A
+65,Kelly Oubre,SUBSTITUTION,Warren T.J.,3:39,1,Suns,Raptors,13 - 21,0,N/A,N/A,N/A
+66,Devin Booker,FT_MISS,None,3:39,1,Suns,Raptors,13 - 21,0,N/A,1,N/A
+67,Pascal Siakam,DEFENSIVE_REBOUND,None,3:37,1,Raptors,Suns,13 - 21,1,N/A,N/A,N/A
+68,Delon Wright,FG_ASSISTED,Pascal Siakam,3:28,1,Raptors,Suns,13 - 23,1, ,2,Jumper
+69,Kelly Oubre,FOUL_ON_FLOOR,None,3:28,1,Suns,Raptors,13 - 23,0,N/A,N/A,N/A
+70,CJ Miles,SUBSTITUTION,Siakam Pascal,3:28,1,Raptors,Suns,13 - 23,1,N/A,N/A,N/A
+71,Delon Wright,FT,None,3:28,1,Raptors,Suns,13 - 24,1,N/A,1,N/A
+72,Deandre Ayton,FG_UNASSISTED,None,3:13,1,Suns,Raptors,15 - 24,0,19,2,Jumper
+73,CJ Miles,FG_UNASSISTED,None,2:51,1,Raptors,Suns,15 - 26,1,12,2,Jumper
+74,Devin Booker,FG_UNASSISTED,None,2:43,1,Suns,Raptors,17 - 26,0,1,2,Jumper
+75,Elie Okobo,FOUL_ON_FLOOR,None,2:36,1,Suns,Raptors,17 - 26,0,N/A,N/A,N/A
+76,Fred VanVleet,FG_MISS,None,2:21,1,Raptors,Suns,17 - 26,1,29,3,Jumper
+77,Deandre Ayton,DEFENSIVE_REBOUND,None,2:18,1,Suns,Raptors,17 - 26,0,N/A,N/A,N/A
+78,Kyle Lowry,SUBSTITUTION,VanVleet Fred,2:01,1,Raptors,Suns,17 - 26,1,N/A,N/A,N/A
+79,Devin Booker,FG_MISS,None,1:57,1,Suns,Raptors,17 - 26,0,14,2,Jumper
+80,Kelly Oubre,OFFENSIVE_REBOUND,None,1:56,1,Suns,Raptors,17 - 26,0,N/A,N/A,N/A
+81,CJ Miles,FOUL_ON_FLOOR,None,1:56,1,Raptors,Suns,17 - 26,1,N/A,N/A,N/A
+82,Kelly Oubre,FT,None,1:56,1,Suns,Raptors,18 - 26,0,N/A,1,N/A
+83,T.J. Warren,SUBSTITUTION,Booker Devin,1:56,1,Suns,Raptors,18 - 26,0,N/A,N/A,N/A
+84,Richaun Holmes,SUBSTITUTION,Ayton Deandre,1:56,1,Suns,Raptors,18 - 26,0,N/A,N/A,N/A
+85,Kelly Oubre,FT,None,1:56,1,Suns,Raptors,19 - 26,0,N/A,1,N/A
+86,CJ Miles,FG_ASSISTED,Delon Wright,1:44,1,Raptors,Suns,19 - 29,1,26,3,Jumper
+87,Kelly Oubre,FG_MISS,None,1:23,1,Suns,Raptors,19 - 29,0, ,2,Jumper
+88,Greg Monroe,DEFENSIVE_REBOUND,None,1:20,1,Raptors,Suns,19 - 29,1,N/A,N/A,N/A
+89,CJ Miles,FG_ASSISTED,Delon Wright,1:11,1,Raptors,Suns,19 - 31,1,5,2,Jumper
+90,Richaun Holmes,FG_MISS,Greg Monroe,50.4,1,Raptors,Suns,19 - 31,0,4,2,Jumper
+91,Team,DEFENSIVE_REBOUND,None,50.4,1,Raptors,Suns,19 - 31,1,N/A,N/A,N/A
+92,T.J. Warren,FOUL_ON_FLOOR,None,29.7,1,Suns,Raptors,19 - 31,0,N/A,N/A,N/A
+93,Greg Monroe,FT_MISS,None,29.7,1,Raptors,Suns,19 - 31,1,N/A,1,N/A
+94,Team,OFFENSIVE_REBOUND,None,29.7,1,Raptors,Suns,19 - 31,1,N/A,N/A,N/A
+95,Greg Monroe,FT,None,29.7,1,Raptors,Suns,19 - 32,1,N/A,1,N/A
+96,Kyle Lowry,FOUL_ON_FLOOR,None,13.3,1,Raptors,Suns,19 - 32,1,N/A,N/A,N/A
+97,Elie Okobo,FT_MISS,None,13.3,1,Suns,Raptors,19 - 32,0,N/A,1,N/A
+98,Team,OFFENSIVE_REBOUND,None,13.3,1,Suns,Raptors,19 - 32,0,N/A,N/A,N/A
+99,Elie Okobo,FT,None,13.3,1,Suns,Raptors,20 - 32,0,N/A,1,N/A
+100,Kyle Lowry,FG_MISS,None,0.0,1,Raptors,Suns,20 - 32,1,27,3,Jumper
+101,Team,OFFENSIVE_REBOUND,None,0.0,1,Raptors,Suns,20 - 32,1,N/A,N/A,N/A
+102,End of,Unknown,None,0.0,1,Raptors,Suns,20 - 32,1,N/A,N/A,N/A
+0,Greg Monroe,FG_MISS,Richaun Holmes,11:44,2,Suns,Raptors,20 - 32,1,2,2,Jumper
+1,Greg Monroe,OFFENSIVE_REBOUND,None,11:41,2,Raptors,Suns,20 - 32,1,N/A,N/A,N/A
+2,Greg Monroe,FG_UNASSISTED,None,11:40,2,Raptors,Suns,20 - 34,1,0,2,Layup
+3,Richaun Holmes,TURNOVER,Norman Powell,11:18,2,Suns,Raptors,20 - 34,0,N/A,N/A,N/A
+4,Kyle Lowry,TURNOVER,None,11:11,2,Raptors,Suns,20 - 34,1,N/A,N/A,N/A
+5,Elie Okobo,FG_UNASSISTED,None,10:57,2,Suns,Raptors,22 - 34,0, ,2,Jumper
+6,Delon Wright,FG_MISS,None,10:40,2,Raptors,Suns,22 - 34,1,12,2,Jumper
+7,Greg Monroe,OFFENSIVE_REBOUND,None,10:36,2,Raptors,Suns,22 - 34,1,N/A,N/A,N/A
+8,Greg Monroe,FG_UNASSISTED,None,10:36,2,Raptors,Suns,22 - 36,1, ,2,Jumper
+9,Kelly Oubre,FG_MISS,Greg Monroe,10:26,2,Raptors,Suns,22 - 36,0,5,2,Jumper
+10,Team,OFFENSIVE_REBOUND,None,10:26,2,Suns,Raptors,22 - 36,0,N/A,N/A,N/A
+11,Kelly Oubre,FG_UNASSISTED,None,10:16,2,Suns,Raptors,25 - 36,0,23,3,Jumper
+12,Delon Wright,FG_UNASSISTED,None,10:06,2,Raptors,Suns,25 - 38,1,0,2,Layup
+13,Richaun Holmes,FG_MISS,None,9:45,2,Suns,Raptors,25 - 38,0,8,2,Jumper
+14,Greg Monroe,DEFENSIVE_REBOUND,None,9:43,2,Raptors,Suns,25 - 38,1,N/A,N/A,N/A
+15,Delon Wright,FG_UNASSISTED,None,9:33,2,Raptors,Suns,25 - 40,1, ,2,Jumper
+16,Richaun Holmes,FOUL_ON_FLOOR,None,9:33,2,Suns,Raptors,25 - 40,0,N/A,N/A,N/A
+17,Patrick McCaw,SUBSTITUTION,Powell Norman,9:33,2,Raptors,Suns,25 - 40,1,N/A,N/A,N/A
+18,Delon Wright,FT,None,9:33,2,Raptors,Suns,25 - 41,1,N/A,1,N/A
+19,Josh Jackson,FG_MISS,None,9:17,2,Suns,Raptors,25 - 41,0,26,2,Jumper
+20,Richaun Holmes,OFFENSIVE_REBOUND,None,9:14,2,Suns,Raptors,25 - 41,0,N/A,N/A,N/A
+21,Elie Okobo,FG_ASSISTED,Richaun Holmes,9:12,2,Suns,Raptors,28 - 41,0,26,3,Jumper
+22,Greg Monroe,FG_ASSISTED,CJ Miles,8:59,2,Raptors,Suns,28 - 43,1,7,2,Jumper
+23,Team,Unknown,None,8:59,2,Suns,Raptors,28 - 43,0,N/A,N/A,N/A
+24,Deandre Ayton,SUBSTITUTION,Holmes Richaun,8:59,2,Suns,Raptors,28 - 43,0,N/A,N/A,N/A
+25,Kelly Oubre,FG_MISS,None,8:45,2,Suns,Raptors,28 - 43,0,19,2,Jumper
+26,Patrick McCaw,DEFENSIVE_REBOUND,None,8:42,2,Raptors,Suns,28 - 43,1,N/A,N/A,N/A
+27,Kyle Lowry,FG_MISS,None,8:34,2,Raptors,Suns,28 - 43,1,26,3,Jumper
+28,Kelly Oubre,DEFENSIVE_REBOUND,None,8:31,2,Suns,Raptors,28 - 43,0,N/A,N/A,N/A
+29,T.J. Warren,FG_MISS,None,8:21,2,Suns,Raptors,28 - 43,0, ,2,Jumper
+30,Kelly Oubre,OFFENSIVE_REBOUND,None,8:19,2,Suns,Raptors,28 - 43,0,N/A,N/A,N/A
+31,Kelly Oubre,FG_MISS,None,8:18,2,Suns,Raptors,28 - 43,0, ,2,Jumper
+32,Greg Monroe,FOUL_ON_FLOOR,None,8:18,2,Raptors,Suns,28 - 43,1,N/A,N/A,N/A
+33,Deandre Ayton,OFFENSIVE_REBOUND,None,8:18,2,Suns,Raptors,28 - 43,0,N/A,N/A,N/A
+34,Deandre Ayton,FT_MISS,None,8:18,2,Suns,Raptors,28 - 43,0,N/A,1,N/A
+35,Team,OFFENSIVE_REBOUND,None,8:18,2,Suns,Raptors,28 - 43,0,N/A,N/A,N/A
+36,Deandre Ayton,FT,None,8:18,2,Suns,Raptors,29 - 43,0,N/A,1,N/A
+37,Greg Monroe,FG_MISS,None,8:01,2,Raptors,Suns,29 - 43,1,4,2,Jumper
+38,Deandre Ayton,DEFENSIVE_REBOUND,None,8:01,2,Suns,Raptors,29 - 43,0,N/A,N/A,N/A
+39,Deandre Ayton,FG_UNASSISTED,None,7:44,2,Suns,Raptors,31 - 43,0, ,2,Jumper
+40,Kyle Lowry,TURNOVER,Deandre Ayton,7:24,2,Raptors,Suns,31 - 43,1,N/A,N/A,N/A
+41,CJ Miles,FOUL_ON_FLOOR,None,7:21,2,Raptors,Suns,31 - 43,1,N/A,N/A,N/A
+42,Kelly Oubre,FT_MISS,None,7:21,2,Suns,Raptors,31 - 43,0,N/A,1,N/A
+43,Team,OFFENSIVE_REBOUND,None,7:21,2,Suns,Raptors,31 - 43,0,N/A,N/A,N/A
+44,Serge Ibaka,SUBSTITUTION,Miles CJ,7:21,2,Raptors,Suns,31 - 43,1,N/A,N/A,N/A
+45,Pascal Siakam,SUBSTITUTION,Monroe Greg,7:21,2,Raptors,Suns,31 - 43,1,N/A,N/A,N/A
+46,Kelly Oubre,FT,None,7:21,2,Suns,Raptors,32 - 43,0,N/A,1,N/A
+47,Deandre Ayton,FOUL_ON_FLOOR,None,6:59,2,Suns,Raptors,32 - 43,0,N/A,N/A,N/A
+48,Kyle Lowry,FT_MISS,None,6:59,2,Raptors,Suns,32 - 43,1,N/A,1,N/A
+49,Team,OFFENSIVE_REBOUND,None,6:59,2,Raptors,Suns,32 - 43,1,N/A,N/A,N/A
+50,Kyle Lowry,FT,None,6:59,2,Raptors,Suns,32 - 44,1,N/A,1,N/A
+51,Elie Okobo,TURNOVER,Delon Wright,6:48,2,Suns,Raptors,32 - 44,0,N/A,N/A,N/A
+52,Kyle Lowry,FG_ASSISTED,Delon Wright,6:44,2,Raptors,Suns,32 - 46,1, ,2,Jumper
+53,Kelly Oubre,FG_MISS,None,6:26,2,Suns,Raptors,32 - 46,0, ,2,Jumper
+54,Team,OFFENSIVE_REBOUND,None,6:26,2,Suns,Raptors,32 - 46,0,N/A,N/A,N/A
+55,Delon Wright,FOUL_ON_FLOOR,None,6:26,2,Raptors,Suns,32 - 46,1,N/A,N/A,N/A
+56,Fred VanVleet,SUBSTITUTION,Lowry Kyle,6:26,2,Raptors,Suns,32 - 46,1,N/A,N/A,N/A
+57,Devin Booker,SUBSTITUTION,Okobo Elie,6:26,2,Suns,Raptors,32 - 46,0,N/A,N/A,N/A
+58,Devin Booker,FG_MISS,None,6:22,2,Suns,Raptors,32 - 46,0,15,2,Jumper
+59,Deandre Ayton,OFFENSIVE_REBOUND,None,6:18,2,Suns,Raptors,32 - 46,0,N/A,N/A,N/A
+60,Deandre Ayton,FG_MISS,None,6:16,2,Suns,Raptors,32 - 46,0, ,2,Jumper
+61,Deandre Ayton,OFFENSIVE_REBOUND,None,6:13,2,Suns,Raptors,32 - 46,0,N/A,N/A,N/A
+62,Deandre Ayton,FG_UNASSISTED,None,6:13,2,Suns,Raptors,34 - 46,0, ,2,Jumper
+63,Patrick McCaw,TURNOVER,Deandre Ayton,6:02,2,Raptors,Suns,34 - 46,1,N/A,N/A,N/A
+64,Kelly Oubre,FG_ASSISTED,Deandre Ayton,5:56,2,Suns,Raptors,36 - 46,0,0,2,Layup
+65,Serge Ibaka,FG_MISS,None,5:39,2,Raptors,Suns,36 - 46,1,26,3,Jumper
+66,Team,DEFENSIVE_REBOUND,None,5:39,2,Suns,Raptors,36 - 46,0,N/A,N/A,N/A
+67,Danny Green,SUBSTITUTION,Wright Delon,5:24,2,Raptors,Suns,36 - 46,1,N/A,N/A,N/A
+68,Patrick McCaw,FOUL_ON_FLOOR,None,5:20,2,Raptors,Suns,36 - 46,1,N/A,N/A,N/A
+69,Mikal Bridges,SUBSTITUTION,Jackson Josh,5:20,2,Suns,Raptors,36 - 46,0,N/A,N/A,N/A
+70,Deandre Ayton,FG_UNASSISTED,None,5:09,2,Suns,Raptors,38 - 46,0,5,2,Jumper
+71,Serge Ibaka,TURNOVER,None,4:52,2,Raptors,Suns,38 - 46,1,N/A,N/A,N/A
+72,Patrick McCaw,FOUL_ON_FLOOR,None,4:47,2,Raptors,Suns,38 - 46,1,N/A,N/A,N/A
+73,Devin Booker,FT,None,4:47,2,Suns,Raptors,39 - 46,0,N/A,1,N/A
+74,Team,Unknown,None,4:47,2,Raptors,Suns,39 - 46,1,N/A,N/A,N/A
+75,Devin Booker,FT_MISS,None,4:47,2,Suns,Raptors,39 - 46,0,N/A,1,N/A
+76,Pascal Siakam,DEFENSIVE_REBOUND,None,4:45,2,Raptors,Suns,39 - 46,1,N/A,N/A,N/A
+77,Patrick McCaw,FG_MISS,Deandre Ayton,4:24,2,Suns,Raptors,39 - 46,1,26,3,Jumper
+78,Kelly Oubre,DEFENSIVE_REBOUND,None,4:20,2,Suns,Raptors,39 - 46,0,N/A,N/A,N/A
+79,T.J. Warren,FG_MISS,None,4:14,2,Suns,Raptors,39 - 46,0,6,2,Jumper
+80,Serge Ibaka,DEFENSIVE_REBOUND,None,4:13,2,Raptors,Suns,39 - 46,1,N/A,N/A,N/A
+81,Fred VanVleet,FG_UNASSISTED,None,3:51,2,Raptors,Suns,39 - 48,1,21,2,Jumper
+82,Devin Booker,FG_UNASSISTED,None,3:43,2,Suns,Raptors,41 - 48,0,1,2,Jumper
+83,Danny Green,FOUL_ON_FLOOR,None,3:43,2,Raptors,Suns,41 - 48,1,N/A,N/A,N/A
+84,Kyle Lowry,SUBSTITUTION,McCaw Patrick,3:43,2,Raptors,Suns,41 - 48,1,N/A,N/A,N/A
+85,Devin Booker,FT,None,3:43,2,Suns,Raptors,42 - 48,0,N/A,1,N/A
+86,Serge Ibaka,FG_ASSISTED,Fred VanVleet,3:30,2,Raptors,Suns,42 - 50,1,0,2,Dunk
+87,Devin Booker,FG_ASSISTED,Deandre Ayton,3:10,2,Suns,Raptors,44 - 50,0, ,2,Jumper
+88,Serge Ibaka,FG_ASSISTED,Pascal Siakam,2:57,2,Raptors,Suns,44 - 52,1,0,2,Dunk
+89,Kelly Oubre,FG_MISS,None,2:32,2,Suns,Raptors,44 - 52,0,27,3,Jumper
+90,Pascal Siakam,DEFENSIVE_REBOUND,None,2:29,2,Raptors,Suns,44 - 52,1,N/A,N/A,N/A
+91,Devin Booker,FOUL_ON_FLOOR,None,2:22,2,Suns,Raptors,44 - 52,0,N/A,N/A,N/A
+92,Serge Ibaka,FG_MISS,None,2:09,2,Raptors,Suns,44 - 52,1,12,2,Jumper
+93,T.J. Warren,DEFENSIVE_REBOUND,None,2:05,2,Suns,Raptors,44 - 52,0,N/A,N/A,N/A
+94,Devin Booker,TURNOVER,Kyle Lowry,1:54,2,Suns,Raptors,44 - 52,0,N/A,N/A,N/A
+95,Fred VanVleet,FG_ASSISTED,Kyle Lowry,1:51,2,Raptors,Suns,44 - 54,1, ,2,Jumper
+96,Team,Unknown,None,1:51,2,Suns,Raptors,44 - 54,0,N/A,N/A,N/A
+97,Kelly Oubre,FG_MISS,None,1:35,2,Suns,Raptors,44 - 54,0,26,3,Jumper
+98,Pascal Siakam,DEFENSIVE_REBOUND,None,1:31,2,Raptors,Suns,44 - 54,1,N/A,N/A,N/A
+99,Deandre Ayton,FOUL_TECHNICAL,None,1:18,2,Suns,Raptors,44 - 54,0,N/A,N/A,N/A
+100,Kyle Lowry,FT,None,1:18,2,Raptors,Suns,44 - 55,1,N/A,1,N/A
+101,Norman Powell,SUBSTITUTION,Green Danny,1:18,2,Raptors,Suns,44 - 55,1,N/A,N/A,N/A
+102,Fred VanVleet,FG_MISS,None,1:06,2,Raptors,Suns,44 - 55,1,13,2,Jumper
+103,Mikal Bridges,DEFENSIVE_REBOUND,None,1:04,2,Suns,Raptors,44 - 55,0,N/A,N/A,N/A
+104,Kelly Oubre,FG_MISS,None,53.6,2,Suns,Raptors,44 - 55,0, ,2,Jumper
+105,Deandre Ayton,OFFENSIVE_REBOUND,None,51.3,2,Suns,Raptors,44 - 55,0,N/A,N/A,N/A
+106,Deandre Ayton's,FG_MISS,Pascal Siakam,49.8,2,Raptors,Suns,44 - 55,0,0,2,Layup
+107,Mikal Bridges,OFFENSIVE_REBOUND,None,46.9,2,Suns,Raptors,44 - 55,0,N/A,N/A,N/A
+108,T.J. Warren,FG_ASSISTED,Mikal Bridges,46.4,2,Suns,Raptors,47 - 55,0,26,3,Jumper
+109,Serge Ibaka,FG_ASSISTED,Norman Powell,38.8,2,Raptors,Suns,47 - 57,1,0,2,Layup
+110,Devin Booker,FG_MISS,None,33.2,2,Suns,Raptors,47 - 57,0,27,3,Jumper
+111,Pascal Siakam,DEFENSIVE_REBOUND,None,29.8,2,Raptors,Suns,47 - 57,1,N/A,N/A,N/A
+112,Mikal Bridges,FOUL_ON_FLOOR,None,7.8,2,Suns,Raptors,47 - 57,0,N/A,N/A,N/A
+113,Kyle Lowry,FT_MISS,None,7.8,2,Raptors,Suns,47 - 57,1,N/A,1,N/A
+114,Team,OFFENSIVE_REBOUND,None,7.8,2,Raptors,Suns,47 - 57,1,N/A,N/A,N/A
+115,Kyle Lowry,FT_MISS,None,7.8,2,Raptors,Suns,47 - 57,1,N/A,1,N/A
+116,Pascal Siakam,OFFENSIVE_REBOUND,None,5.2,2,Raptors,Suns,47 - 57,1,N/A,N/A,N/A
+117,Serge Ibaka,FG_MISS,None,3.8,2,Raptors,Suns,47 - 57,1,0,2,Dunk
+118,Deandre Ayton,DEFENSIVE_REBOUND,None,2.2,2,Suns,Raptors,47 - 57,0,N/A,N/A,N/A
+119,Fred VanVleet,FOUL_ON_FLOOR,None,0.7,2,Raptors,Suns,47 - 57,1,N/A,N/A,N/A
+120,Kelly Oubre,FT,None,0.7,2,Suns,Raptors,48 - 57,0,N/A,1,N/A
+121,Kelly Oubre,FT,None,0.7,2,Suns,Raptors,49 - 57,0,N/A,1,N/A
+122,Kelly Oubre,FT_MISS,None,0.7,2,Suns,Raptors,49 - 57,0,N/A,1,N/A
+123,Kelly Oubre,OFFENSIVE_REBOUND,None,0.1,2,Suns,Raptors,49 - 57,0,N/A,N/A,N/A
+124,End of,Unknown,None,0.0,2,Raptors,Suns,49 - 57,1,N/A,N/A,N/A
+0,Danny Green,SUBSTITUTION,Powell Norman,12:00,3,Raptors,Suns,49 - 57,1,N/A,N/A,N/A
+1,De'Anthony Melton,SUBSTITUTION,Oubre Kelly,12:00,3,Suns,Raptors,49 - 57,0,N/A,N/A,N/A
+2,Danny Green,FG_MISS,None,11:36,3,Raptors,Suns,49 - 57,1,13,2,Jumper
+3,Deandre Ayton,DEFENSIVE_REBOUND,None,11:34,3,Suns,Raptors,49 - 57,0,N/A,N/A,N/A
+4,Fred VanVleet,FOUL_ON_FLOOR,None,11:30,3,Raptors,Suns,49 - 57,1,N/A,N/A,N/A
+5,Devin Booker,FT,None,11:30,3,Suns,Raptors,50 - 57,0,N/A,1,N/A
+6,Devin Booker,FT,None,11:30,3,Suns,Raptors,51 - 57,0,N/A,1,N/A
+7,Serge Ibaka,FG_MISS,None,11:11,3,Raptors,Suns,51 - 57,1,16,2,Jumper
+8,Deandre Ayton,DEFENSIVE_REBOUND,None,11:09,3,Suns,Raptors,51 - 57,0,N/A,N/A,N/A
+9,Devin Booker,FG_UNASSISTED,None,10:51,3,Suns,Raptors,54 - 57,0,26,3,Jumper
+10,Pascal Siakam,FG_MISS,None,10:34,3,Raptors,Suns,54 - 57,1, ,3,Jumper
+11,Deandre Ayton,DEFENSIVE_REBOUND,None,10:31,3,Suns,Raptors,54 - 57,0,N/A,N/A,N/A
+12,Devin Booker,FG_MISS,None,10:27,3,Suns,Raptors,54 - 57,0, ,2,Jumper
+13,Pascal Siakam,DEFENSIVE_REBOUND,None,10:24,3,Raptors,Suns,54 - 57,1,N/A,N/A,N/A
+14,De'Anthony Melton,FOUL_ON_FLOOR,None,10:16,3,Suns,Raptors,54 - 57,0,N/A,N/A,N/A
+15,Fred VanVleet,FT,None,10:16,3,Raptors,Suns,54 - 58,1,N/A,1,N/A
+16,Fred VanVleet,FT,None,10:16,3,Raptors,Suns,54 - 59,1,N/A,1,N/A
+17,De'Anthony Melton,FG_MISS,None,9:55,3,Suns,Raptors,54 - 59,0,24,3,Jumper
+18,Pascal Siakam,DEFENSIVE_REBOUND,None,9:52,3,Raptors,Suns,54 - 59,1,N/A,N/A,N/A
+19,Kyle Lowry,FG_MISS,None,9:42,3,Raptors,Suns,54 - 59,1, ,2,Jumper
+20,Serge Ibaka,OFFENSIVE_REBOUND,None,9:41,3,Raptors,Suns,54 - 59,1,N/A,N/A,N/A
+21,Mikal Bridges,FOUL_ON_FLOOR,None,9:41,3,Suns,Raptors,54 - 59,0,N/A,N/A,N/A
+22,Serge Ibaka,FT_MISS,None,9:41,3,Raptors,Suns,54 - 59,1,N/A,1,N/A
+23,Team,OFFENSIVE_REBOUND,None,9:41,3,Raptors,Suns,54 - 59,1,N/A,N/A,N/A
+24,Serge Ibaka,FT_MISS,None,9:41,3,Raptors,Suns,54 - 59,1,N/A,1,N/A
+25,Mikal Bridges,DEFENSIVE_REBOUND,None,9:39,3,Suns,Raptors,54 - 59,0,N/A,N/A,N/A
+26,T.J. Warren,FG_UNASSISTED,None,9:26,3,Suns,Raptors,56 - 59,0,12,2,Jumper
+27,Fred VanVleet,FG_MISS,Deandre Ayton,9:10,3,Suns,Raptors,56 - 59,1,2,2,Jumper
+28,Deandre Ayton,DEFENSIVE_REBOUND,None,9:07,3,Suns,Raptors,56 - 59,0,N/A,N/A,N/A
+29,De'Anthony Melton,FG_ASSISTED,Devin Booker,9:05,3,Suns,Raptors,58 - 59,0, ,2,Jumper
+30,Team,Unknown,None,9:05,3,Raptors,Suns,58 - 59,1,N/A,N/A,N/A
+31,Pascal Siakam,TURNOVER,T.J. Warren,8:46,3,Raptors,Suns,58 - 59,1,N/A,N/A,N/A
+32,De'Anthony Melton,FG_MISS,None,8:41,3,Suns,Raptors,58 - 59,0, ,2,Jumper
+33,Deandre Ayton,OFFENSIVE_REBOUND,None,8:38,3,Suns,Raptors,58 - 59,0,N/A,N/A,N/A
+34,Deandre Ayton,TURNOVER,None,8:38,3,Suns,Raptors,58 - 59,0,N/A,N/A,N/A
+35,Danny Green,FG_ASSISTED,Kyle Lowry,8:28,3,Raptors,Suns,58 - 61,1,21,2,Jumper
+36,Mikal Bridges,FG_MISS,None,8:13,3,Suns,Raptors,58 - 61,0,26,3,Jumper
+37,Serge Ibaka,DEFENSIVE_REBOUND,None,8:09,3,Raptors,Suns,58 - 61,1,N/A,N/A,N/A
+38,Pascal Siakam,FG_UNASSISTED,None,8:01,3,Raptors,Suns,58 - 63,1,4,2,Jumper
+39,T.J. Warren,FG_ASSISTED,Devin Booker,7:43,3,Suns,Raptors,60 - 63,0,2,2,Jumper
+40,De'Anthony Melton,FOUL_ON_FLOOR,None,7:37,3,Suns,Raptors,60 - 63,0,N/A,N/A,N/A
+41,Kyle Lowry,FG_UNASSISTED,None,7:27,3,Raptors,Suns,60 - 65,1, ,2,Jumper
+42,Kyle Lowry,FOUL_ON_FLOOR,None,7:16,3,Raptors,Suns,60 - 65,1,N/A,N/A,N/A
+43,Deandre Ayton,FT,None,7:16,3,Suns,Raptors,61 - 65,0,N/A,1,N/A
+44,Deandre Ayton,FT,None,7:16,3,Suns,Raptors,62 - 65,0,N/A,1,N/A
+45,Kyle Lowry,FG_MISS,Mikal Bridges,7:08,3,Suns,Raptors,62 - 65,1,27,3,Jumper
+46,De'Anthony Melton,DEFENSIVE_REBOUND,None,7:05,3,Suns,Raptors,62 - 65,0,N/A,N/A,N/A
+47,Serge Ibaka,FOUL_ON_FLOOR,None,7:03,3,Raptors,Suns,62 - 65,1,N/A,N/A,N/A
+48,Mikal Bridges,FT,None,7:03,3,Suns,Raptors,63 - 65,0,N/A,1,N/A
+49,Mikal Bridges,FT,None,7:03,3,Suns,Raptors,64 - 65,0,N/A,1,N/A
+50,Serge Ibaka,FG_MISS,None,6:49,3,Raptors,Suns,64 - 65,1,19,2,Jumper
+51,De'Anthony Melton,DEFENSIVE_REBOUND,None,6:46,3,Suns,Raptors,64 - 65,0,N/A,N/A,N/A
+52,Serge Ibaka,FOUL_ON_FLOOR,None,6:44,3,Raptors,Suns,64 - 65,1,N/A,N/A,N/A
+53,Mikal Bridges,FG_MISS,None,6:36,3,Suns,Raptors,64 - 65,0,26,3,Jumper
+54,Danny Green,DEFENSIVE_REBOUND,None,6:32,3,Raptors,Suns,64 - 65,1,N/A,N/A,N/A
+55,Devin Booker,FOUL_ON_FLOOR,None,6:25,3,Suns,Raptors,64 - 65,0,N/A,N/A,N/A
+56,Serge Ibaka,FG_ASSISTED,Danny Green,6:10,3,Raptors,Suns,64 - 67,1,0,2,Dunk
+57,Mikal Bridges,FG_ASSISTED,Devin Booker,5:41,3,Suns,Raptors,67 - 67,0,24,3,Jumper
+58,Mikal Bridges,FOUL_ON_FLOOR,None,5:32,3,Suns,Raptors,67 - 67,0,N/A,N/A,N/A
+59,Kyle Lowry,FT,None,5:32,3,Raptors,Suns,67 - 68,1,N/A,1,N/A
+60,Quincy Acy,SUBSTITUTION,Warren T.J.,5:32,3,Suns,Raptors,67 - 68,0,N/A,N/A,N/A
+61,Richaun Holmes,SUBSTITUTION,Ayton Deandre,5:32,3,Suns,Raptors,67 - 68,0,N/A,N/A,N/A
+62,Kyle Lowry,FT,None,5:32,3,Raptors,Suns,67 - 69,1,N/A,1,N/A
+63,Devin Booker,FG_MISS,None,5:18,3,Suns,Raptors,67 - 69,0, ,2,Jumper
+64,Kyle Lowry,DEFENSIVE_REBOUND,None,5:15,3,Raptors,Suns,67 - 69,1,N/A,N/A,N/A
+65,Fred VanVleet,FG_MISS,None,5:11,3,Raptors,Suns,67 - 69,1,26,3,Jumper
+66,Mikal Bridges,DEFENSIVE_REBOUND,None,5:11,3,Suns,Raptors,67 - 69,0,N/A,N/A,N/A
+67,Devin Booker,TURNOVER,None,4:58,3,Suns,Raptors,67 - 69,0,N/A,N/A,N/A
+68,Norman Powell,SUBSTITUTION,Lowry Kyle,4:58,3,Raptors,Suns,67 - 69,1,N/A,N/A,N/A
+69,Danny Green,FG_ASSISTED,Norman Powell,4:37,3,Raptors,Suns,67 - 71,1,0,2,Layup
+70,Devin Booker,TURNOVER,Pascal Siakam,4:24,3,Suns,Raptors,67 - 71,0,N/A,N/A,N/A
+71,Norman Powell,FG_MISS,None,4:20,3,Raptors,Suns,67 - 71,1,23,3,Jumper
+72,Pascal Siakam,OFFENSIVE_REBOUND,None,4:17,3,Raptors,Suns,67 - 71,1,N/A,N/A,N/A
+73,De'Anthony Melton,FOUL_ON_FLOOR,None,4:14,3,Suns,Raptors,67 - 71,0,N/A,N/A,N/A
+74,Norman Powell,FT,None,4:14,3,Raptors,Suns,67 - 72,1,N/A,1,N/A
+75,Norman Powell,FT,None,4:14,3,Raptors,Suns,67 - 73,1,N/A,1,N/A
+76,Richaun Holmes,FG_ASSISTED,Devin Booker,3:58,3,Suns,Raptors,69 - 73,0,0,2,Dunk
+77,Norman Powell,FG_MISS,Quincy Acy,3:41,3,Suns,Raptors,69 - 73,1,0,2,Layup
+78,Team,DEFENSIVE_REBOUND,None,3:41,3,Suns,Raptors,69 - 73,0,N/A,N/A,N/A
+79,Mikal Bridges,FG_UNASSISTED,None,3:19,3,Suns,Raptors,71 - 73,0,3,2,Jumper
+80,Serge Ibaka,FG_ASSISTED,Fred VanVleet,3:07,3,Raptors,Suns,71 - 75,1, ,2,Jumper
+81,Team,Unknown,None,3:05,3,Suns,Raptors,71 - 75,0,N/A,N/A,N/A
+82,Delon Wright,SUBSTITUTION,Ibaka Serge,3:05,3,Raptors,Suns,71 - 75,1,N/A,N/A,N/A
+83,Greg Monroe,SUBSTITUTION,Green Danny,3:05,3,Raptors,Suns,71 - 75,1,N/A,N/A,N/A
+84,Elie Okobo,SUBSTITUTION,Booker Devin,3:05,3,Suns,Raptors,71 - 75,0,N/A,N/A,N/A
+85,Josh Jackson,SUBSTITUTION,Melton De'Anthony,3:05,3,Suns,Raptors,71 - 75,0,N/A,N/A,N/A
+86,Josh Jackson,FG_ASSISTED,Mikal Bridges,2:52,3,Suns,Raptors,73 - 75,0,0,2,Layup
+87,Greg Monroe,FG_MISS,None,2:31,3,Raptors,Suns,73 - 75,1, ,2,Jumper
+88,Elie Okobo,DEFENSIVE_REBOUND,None,2:29,3,Suns,Raptors,73 - 75,0,N/A,N/A,N/A
+89,Quincy Acy,FG_MISS,None,2:19,3,Suns,Raptors,73 - 75,0,23,3,Jumper
+90,Greg Monroe,DEFENSIVE_REBOUND,None,2:16,3,Raptors,Suns,73 - 75,1,N/A,N/A,N/A
+91,Delon Wright,TURNOVER,Elie Okobo,2:13,3,Raptors,Suns,73 - 75,1,N/A,N/A,N/A
+92,Greg Monroe,FOUL_ON_FLOOR,None,2:10,3,Raptors,Suns,73 - 75,1,N/A,N/A,N/A
+93,Elie Okobo,FT,None,2:10,3,Suns,Raptors,74 - 75,0,N/A,1,N/A
+94,Kyle Lowry,SUBSTITUTION,VanVleet Fred,2:10,3,Raptors,Suns,74 - 75,1,N/A,N/A,N/A
+95,Kelly Oubre,SUBSTITUTION,Bridges Mikal,2:10,3,Suns,Raptors,74 - 75,0,N/A,N/A,N/A
+96,Elie Okobo,FT,None,2:10,3,Suns,Raptors,75 - 75,0,N/A,1,N/A
+97,Pascal Siakam,FG_MISS,None,1:53,3,Raptors,Suns,75 - 75,1, ,3,Jumper
+98,Kelly Oubre,DEFENSIVE_REBOUND,None,1:50,3,Suns,Raptors,75 - 75,0,N/A,N/A,N/A
+99,Greg Monroe,FOUL_ON_FLOOR,None,1:43,3,Raptors,Suns,75 - 75,1,N/A,N/A,N/A
+100,Richaun Holmes,FT_MISS,None,1:43,3,Suns,Raptors,75 - 75,0,N/A,1,N/A
+101,Team,OFFENSIVE_REBOUND,None,1:43,3,Suns,Raptors,75 - 75,0,N/A,N/A,N/A
+102,CJ Miles,SUBSTITUTION,Siakam Pascal,1:43,3,Raptors,Suns,75 - 75,1,N/A,N/A,N/A
+103,Richaun Holmes,FT,None,1:43,3,Suns,Raptors,76 - 75,0,N/A,1,N/A
+104,Greg Monroe,TURNOVER,Kelly Oubre,1:21,3,Raptors,Suns,76 - 75,1,N/A,N/A,N/A
+105,Kelly Oubre,FG_UNASSISTED,None,1:03,3,Suns,Raptors,78 - 75,0,15,2,Jumper
+106,Kyle Lowry,FG_MISS,None,50.8,3,Raptors,Suns,78 - 75,1,26,3,Jumper
+107,CJ Miles,OFFENSIVE_REBOUND,None,47.3,3,Raptors,Suns,78 - 75,1,N/A,N/A,N/A
+108,Greg Monroe,FG_ASSISTED,Delon Wright,43.6,3,Raptors,Suns,78 - 77,1,0,2,Layup
+109,Richaun Holmes,FOUL_ON_FLOOR,None,37.0,3,Suns,Raptors,78 - 77,0,N/A,N/A,N/A
+110,Richaun Holmes,TURNOVER,None,37.0,3,Suns,Raptors,78 - 77,0,N/A,N/A,N/A
+111,Kyle Lowry,FG_MISS,None,29.7,3,Raptors,Suns,78 - 77,1, ,2,Jumper
+112,Josh Jackson,DEFENSIVE_REBOUND,None,27.5,3,Suns,Raptors,78 - 77,0,N/A,N/A,N/A
+113,Josh Jackson,TURNOVER,None,26.2,3,Suns,Raptors,78 - 77,0,N/A,N/A,N/A
+114,Greg Monroe,FOUL_ON_FLOOR,None,8.1,3,Raptors,Suns,78 - 77,1,N/A,N/A,N/A
+115,Greg Monroe,TURNOVER,None,8.1,3,Raptors,Suns,78 - 77,1,N/A,N/A,N/A
+116,T.J. Warren,SUBSTITUTION,Okobo Elie,8.1,3,Suns,Raptors,78 - 77,0,N/A,N/A,N/A
+117,Devin Booker,SUBSTITUTION,Acy Quincy,8.1,3,Suns,Raptors,78 - 77,0,N/A,N/A,N/A
+118,Chris Boucher,SUBSTITUTION,Monroe Greg,8.1,3,Raptors,Suns,78 - 77,1,N/A,N/A,N/A
+119,Devin Booker,FG_MISS,None,2.8,3,Suns,Raptors,78 - 77,0,0,2,Layup
+120,Kyle Lowry,DEFENSIVE_REBOUND,None,2.8,3,Raptors,Suns,78 - 77,1,N/A,N/A,N/A
+121,Kyle Lowry,FG_MISS,None,0.0,3,Raptors,Suns,78 - 77,1, ,2,Jumper
+122,Team,OFFENSIVE_REBOUND,None,0.0,3,Raptors,Suns,78 - 77,1,N/A,N/A,N/A
+123,End of,Unknown,None,0.0,3,Raptors,Suns,78 - 77,1,N/A,N/A,N/A
+0,Elie Okobo,SUBSTITUTION,Booker Devin,12:00,4,Suns,Raptors,78 - 77,0,N/A,N/A,N/A
+1,Chris Boucher,FOUL_ON_FLOOR,None,11:45,4,Raptors,Suns,78 - 77,1,N/A,N/A,N/A
+2,Kelly Oubre,FT,None,11:45,4,Suns,Raptors,79 - 77,0,N/A,1,N/A
+3,Kelly Oubre,FT,None,11:45,4,Suns,Raptors,80 - 77,0,N/A,1,N/A
+4,Norman Powell,FG_UNASSISTED,None,11:30,4,Raptors,Suns,80 - 79,1, ,2,Jumper
+5,Richaun Holmes,TURNOVER,None,11:13,4,Suns,Raptors,80 - 79,0,N/A,N/A,N/A
+6,Josh Jackson,FOUL_TECHNICAL,None,11:11,4,Suns,Raptors,80 - 79,0,N/A,N/A,N/A
+7,Kyle Lowry,FT,None,11:11,4,Raptors,Suns,80 - 80,1,N/A,1,N/A
+8,Josh Jackson,FOUL_ON_FLOOR,None,11:04,4,Suns,Raptors,80 - 80,0,N/A,N/A,N/A
+9,Chris Boucher,FG_MISS,None,10:56,4,Raptors,Suns,80 - 80,1,26,3,Jumper
+10,Josh Jackson,DEFENSIVE_REBOUND,None,10:52,4,Suns,Raptors,80 - 80,0,N/A,N/A,N/A
+11,Chris Boucher,FOUL_ON_FLOOR,None,10:50,4,Raptors,Suns,80 - 80,1,N/A,N/A,N/A
+12,Kyle Lowry,FOUL_ON_FLOOR,None,10:47,4,Raptors,Suns,80 - 80,1,N/A,N/A,N/A
+13,Kelly Oubre,FG_MISS,Chris Boucher,10:37,4,Raptors,Suns,80 - 80,0,5,2,Jumper
+14,Kelly Oubre,OFFENSIVE_REBOUND,None,10:34,4,Suns,Raptors,80 - 80,0,N/A,N/A,N/A
+15,Kelly Oubre,TURNOVER,Norman Powell,10:33,4,Suns,Raptors,80 - 80,0,N/A,N/A,N/A
+16,Richaun Holmes,FOUL_ON_FLOOR,None,10:33,4,Suns,Raptors,80 - 80,0,N/A,N/A,N/A
+17,Kyle Lowry,TURNOVER,Elie Okobo,10:23,4,Raptors,Suns,80 - 80,1,N/A,N/A,N/A
+18,Kelly Oubre,FG_MISS,None,10:19,4,Suns,Raptors,80 - 80,0,27,3,Jumper
+19,Kyle Lowry,DEFENSIVE_REBOUND,None,10:15,4,Raptors,Suns,80 - 80,1,N/A,N/A,N/A
+20,CJ Miles,FG_ASSISTED,Kyle Lowry,10:09,4,Raptors,Suns,80 - 83,1,26,3,Jumper
+21,T.J. Warren,FG_UNASSISTED,None,9:53,4,Suns,Raptors,82 - 83,0, ,2,Jumper
+22,Norman Powell,FG_MISS,T.J. Warren,9:40,4,Suns,Raptors,82 - 83,1,16,2,Jumper
+23,T.J. Warren,DEFENSIVE_REBOUND,None,9:38,4,Suns,Raptors,82 - 83,0,N/A,N/A,N/A
+24,Kelly Oubre,TURNOVER,None,9:38,4,Suns,Raptors,82 - 83,0,N/A,N/A,N/A
+25,Deandre Ayton,SUBSTITUTION,Holmes Richaun,9:38,4,Suns,Raptors,82 - 83,0,N/A,N/A,N/A
+26,Devin Booker,SUBSTITUTION,Okobo Elie,9:38,4,Suns,Raptors,82 - 83,0,N/A,N/A,N/A
+27,Kyle Lowry,FG_MISS,None,9:28,4,Raptors,Suns,82 - 83,1,24,3,Jumper
+28,T.J. Warren,DEFENSIVE_REBOUND,None,9:25,4,Suns,Raptors,82 - 83,0,N/A,N/A,N/A
+29,T.J. Warren,FG_MISS,None,9:18,4,Suns,Raptors,82 - 83,0,0,2,Layup
+30,Team,OFFENSIVE_REBOUND,None,9:17,4,Suns,Raptors,82 - 83,0,N/A,N/A,N/A
+31,Josh Jackson,FG_ASSISTED,Devin Booker,9:03,4,Suns,Raptors,85 - 83,0,26,3,Jumper
+32,CJ Miles,FG_ASSISTED,Delon Wright,8:49,4,Raptors,Suns,85 - 86,1,24,3,Jumper
+33,Kelly Oubre,FG_MISS,None,8:40,4,Suns,Raptors,85 - 86,0,26,3,Jumper
+34,Kyle Lowry,DEFENSIVE_REBOUND,None,8:38,4,Raptors,Suns,85 - 86,1,N/A,N/A,N/A
+35,CJ Miles,FG_MISS,None,8:29,4,Raptors,Suns,85 - 86,1, ,3,Jumper
+36,Kyle Lowry,OFFENSIVE_REBOUND,None,8:24,4,Raptors,Suns,85 - 86,1,N/A,N/A,N/A
+37,Norman Powell,TURNOVER,Josh Jackson,8:22,4,Raptors,Suns,85 - 86,1,N/A,N/A,N/A
+38,Josh Jackson,FG_ASSISTED,Devin Booker,8:19,4,Suns,Raptors,87 - 86,0,0,2,Dunk
+39,Delon Wright,FG_UNASSISTED,None,8:06,4,Raptors,Suns,87 - 88,1, ,2,Jumper
+40,Kelly Oubre,TURNOVER,CJ Miles,7:55,4,Suns,Raptors,87 - 88,0,N/A,N/A,N/A
+41,Chris Boucher,FG_ASSISTED,Kyle Lowry,7:50,4,Raptors,Suns,87 - 90,1,0,2,Dunk
+42,Josh Jackson,FOUL_FLAGRANT_1,None,7:50,4,Suns,Raptors,87 - 90,0,N/A,N/A,N/A
+43,Josh Jackson,FOUL_TECHNICAL,None,7:50,4,Suns,Raptors,87 - 90,0,N/A,N/A,N/A
+44,Josh Jackson,Unknown,None,7:50,4,Suns,Raptors,87 - 90,0,N/A,N/A,N/A
+45,Kyle Lowry,FT,None,7:50,4,Raptors,Suns,87 - 91,1,N/A,1,N/A
+46,Chris Boucher,FT,None,7:50,4,Raptors,Suns,87 - 92,1,N/A,1,N/A
+47,Mikal Bridges,SUBSTITUTION,Jackson Josh,7:50,4,Suns,Raptors,87 - 92,0,N/A,N/A,N/A
+48,Kyle Lowry,FG_UNASSISTED,None,7:31,4,Raptors,Suns,87 - 95,1,26,3,Jumper
+49,Chris Boucher,FOUL_ON_FLOOR,None,7:14,4,Raptors,Suns,87 - 95,1,N/A,N/A,N/A
+50,Devin Booker,FT_MISS,None,7:14,4,Suns,Raptors,87 - 95,0,N/A,1,N/A
+51,Team,OFFENSIVE_REBOUND,None,7:14,4,Suns,Raptors,87 - 95,0,N/A,N/A,N/A
+52,Devin Booker,FT,None,7:14,4,Suns,Raptors,88 - 95,0,N/A,1,N/A
+53,Chris Boucher,FG_MISS,None,6:55,4,Raptors,Suns,88 - 95,1,4,2,Jumper
+54,Deandre Ayton,DEFENSIVE_REBOUND,None,6:52,4,Suns,Raptors,88 - 95,0,N/A,N/A,N/A
+55,Devin Booker,FG_UNASSISTED,None,6:50,4,Suns,Raptors,90 - 95,0, ,2,Jumper
+56,Kyle Lowry,FOUL_ON_FLOOR,None,6:50,4,Raptors,Suns,90 - 95,1,N/A,N/A,N/A
+57,Team,Unknown,None,6:50,4,Raptors,Suns,90 - 95,1,N/A,N/A,N/A
+58,Pascal Siakam,SUBSTITUTION,Boucher Chris,6:50,4,Raptors,Suns,90 - 95,1,N/A,N/A,N/A
+59,Serge Ibaka,SUBSTITUTION,Wright Delon,6:50,4,Raptors,Suns,90 - 95,1,N/A,N/A,N/A
+60,Devin Booker,FT,None,6:50,4,Suns,Raptors,91 - 95,0,N/A,1,N/A
+61,Serge Ibaka,FG_MISS,None,6:29,4,Raptors,Suns,91 - 95,1, ,2,Jumper
+62,Serge Ibaka,OFFENSIVE_REBOUND,None,6:29,4,Raptors,Suns,91 - 95,1,N/A,N/A,N/A
+63,Kyle Lowry,TURNOVER,T.J. Warren,6:25,4,Raptors,Suns,91 - 95,1,N/A,N/A,N/A
+64,T.J. Warren,FG_MISS,None,6:21,4,Suns,Raptors,91 - 95,0, ,2,Jumper
+65,Kelly Oubre,OFFENSIVE_REBOUND,None,6:20,4,Suns,Raptors,91 - 95,0,N/A,N/A,N/A
+66,Pascal Siakam,FOUL_ON_FLOOR,None,6:20,4,Raptors,Suns,91 - 95,1,N/A,N/A,N/A
+67,Kelly Oubre,FT,None,6:20,4,Suns,Raptors,92 - 95,0,N/A,1,N/A
+68,Kelly Oubre,FT,None,6:20,4,Suns,Raptors,93 - 95,0,N/A,1,N/A
+69,CJ Miles,FG_MISS,None,6:10,4,Raptors,Suns,93 - 95,1,26,3,Jumper
+70,T.J. Warren,DEFENSIVE_REBOUND,None,6:06,4,Suns,Raptors,93 - 95,0,N/A,N/A,N/A
+71,T.J. Warren,FG_MISS,None,5:56,4,Suns,Raptors,93 - 95,0,29,3,Jumper
+72,Serge Ibaka,DEFENSIVE_REBOUND,None,5:52,4,Raptors,Suns,93 - 95,1,N/A,N/A,N/A
+73,Serge Ibaka,FG_ASSISTED,Kyle Lowry,5:44,4,Raptors,Suns,93 - 97,1,18,2,Jumper
+74,Mikal Bridges,FG_ASSISTED,Kelly Oubre,5:29,4,Suns,Raptors,95 - 97,0,14,2,Jumper
+75,Serge Ibaka,FG_ASSISTED,Kyle Lowry,5:15,4,Raptors,Suns,95 - 99,1,0,2,Dunk
+76,Devin Booker,TURNOVER,CJ Miles,4:56,4,Suns,Raptors,95 - 99,0,N/A,N/A,N/A
+77,Mikal Bridges,FOUL_ON_FLOOR,None,4:50,4,Suns,Raptors,95 - 99,0,N/A,N/A,N/A
+78,Danny Green,SUBSTITUTION,Miles CJ,4:50,4,Raptors,Suns,95 - 99,1,N/A,N/A,N/A
+79,Fred VanVleet,SUBSTITUTION,Powell Norman,4:50,4,Raptors,Suns,95 - 99,1,N/A,N/A,N/A
+80,Kyle Lowry,FG_MISS,None,4:37,4,Raptors,Suns,95 - 99,1,26,3,Jumper
+81,Devin Booker,DEFENSIVE_REBOUND,None,4:35,4,Suns,Raptors,95 - 99,0,N/A,N/A,N/A
+82,Mikal Bridges,FG_ASSISTED,Devin Booker,4:31,4,Suns,Raptors,97 - 99,0, ,2,Jumper
+83,Serge Ibaka,FG_ASSISTED,Kyle Lowry,4:10,4,Raptors,Suns,97 - 101,1,19,2,Jumper
+84,Devin Booker,FG_UNASSISTED,None,3:56,4,Suns,Raptors,100 - 101,0,26,3,Jumper
+85,Devin Booker,FOUL_ON_FLOOR,None,3:36,4,Suns,Raptors,100 - 101,0,N/A,N/A,N/A
+86,Danny Green,FT,None,3:36,4,Raptors,Suns,100 - 102,1,N/A,1,N/A
+87,Danny Green,FT_MISS,None,3:36,4,Raptors,Suns,100 - 102,1,N/A,1,N/A
+88,Team,OFFENSIVE_REBOUND,None,3:36,4,Raptors,Suns,100 - 102,1,N/A,N/A,N/A
+89,Danny Green,FT,None,3:36,4,Raptors,Suns,100 - 103,1,N/A,1,N/A
+90,Team,Unknown,None,3:32,4,Suns,Raptors,100 - 103,0,N/A,N/A,N/A
+91,Devin Booker,FG_MISS,None,3:30,4,Suns,Raptors,100 - 103,0,27,3,Jumper
+92,Kyle Lowry,DEFENSIVE_REBOUND,None,3:27,4,Raptors,Suns,100 - 103,1,N/A,N/A,N/A
+93,Danny Green,FG_MISS,None,3:23,4,Raptors,Suns,100 - 103,1,24,3,Jumper
+94,Kelly Oubre,DEFENSIVE_REBOUND,None,3:20,4,Suns,Raptors,100 - 103,0,N/A,N/A,N/A
+95,Serge Ibaka,FOUL_ON_FLOOR,None,3:07,4,Raptors,Suns,100 - 103,1,N/A,N/A,N/A
+96,Kelly Oubre,FT,None,3:07,4,Suns,Raptors,101 - 103,0,N/A,1,N/A
+97,Kelly Oubre,FT,None,3:07,4,Suns,Raptors,102 - 103,0,N/A,1,N/A
+98,Pascal Siakam,FG_MISS,T.J. Warren,2:51,4,Suns,Raptors,102 - 103,1,4,2,Jumper
+99,Deandre Ayton,DEFENSIVE_REBOUND,None,2:48,4,Suns,Raptors,102 - 103,0,N/A,N/A,N/A
+100,Mikal Bridges,FG_ASSISTED,Devin Booker,2:46,4,Suns,Raptors,104 - 103,0,1,2,Jumper
+101,Fred VanVleet,FG_UNASSISTED,None,2:29,4,Raptors,Suns,105 - 105,1,0,2,Layup
+102,T.J. Warren,FG_MISS,Fred VanVleet,2:10,4,Raptors,Suns,104 - 105,0,2,2,Jumper
+103,T.J. Warren,OFFENSIVE_REBOUND,None,2:10,4,Suns,Raptors,104 - 105,0,N/A,N/A,N/A
+104,Devin Booker,FG_ASSISTED,Mikal Bridges,2:07,4,Suns,Raptors,107 - 105,0,26,3,Jumper
+105,Serge Ibaka,FG_MISS,None,1:48,4,Raptors,Suns,107 - 105,1,1,2,Jumper
+106,Deandre Ayton,DEFENSIVE_REBOUND,None,1:46,4,Suns,Raptors,107 - 105,0,N/A,N/A,N/A
+107,T.J. Warren,FG_MISS,None,1:35,4,Suns,Raptors,107 - 105,0,27,3,Jumper
+108,Kyle Lowry,DEFENSIVE_REBOUND,None,1:32,4,Raptors,Suns,107 - 105,1,N/A,N/A,N/A
+109,Kelly Oubre,FOUL_ON_FLOOR,None,1:16,4,Suns,Raptors,107 - 105,0,N/A,N/A,N/A
+110,Pascal Siakam,FT,None,1:16,4,Raptors,Suns,107 - 106,1,N/A,1,N/A
+111,Pascal Siakam,FT,None,1:16,4,Raptors,Suns,107 - 107,1,N/A,1,N/A
+112,T.J. Warren,TURNOVER,Kyle Lowry,55.6,4,Suns,Raptors,107 - 107,0,N/A,N/A,N/A
+113,Serge Ibaka,FG_ASSISTED,Fred VanVleet,47.9,4,Raptors,Suns,107 - 109,1,4,2,Jumper
+114,Team,Unknown,None,47.9,4,Suns,Raptors,107 - 109,0,N/A,N/A,N/A
+115,Kelly Oubre,FG_MISS,None,36.1,4,Suns,Raptors,107 - 109,0,23,3,Jumper
+116,Kyle Lowry,DEFENSIVE_REBOUND,None,33.8,4,Raptors,Suns,107 - 109,1,N/A,N/A,N/A
+117,Kyle Lowry,FG_MISS,None,15.7,4,Raptors,Suns,107 - 109,1,20,2,Jumper
+118,Mikal Bridges,DEFENSIVE_REBOUND,None,13.0,4,Suns,Raptors,107 - 109,0,N/A,N/A,N/A
+119,Serge Ibaka,FOUL_ON_FLOOR,None,13.0,4,Raptors,Suns,107 - 109,1,N/A,N/A,N/A
+120,Mikal Bridges,FT,None,13.0,4,Suns,Raptors,108 - 109,0,N/A,1,N/A
+121,Greg Monroe,SUBSTITUTION,VanVleet Fred,13.0,4,Raptors,Suns,108 - 109,1,N/A,N/A,N/A
+122,Mikal Bridges,FT,None,13.0,4,Suns,Raptors,109 - 109,0,N/A,1,N/A
+123,Team,Unknown,None,13.0,4,Raptors,Suns,109 - 109,1,N/A,N/A,N/A
+124,Fred VanVleet,SUBSTITUTION,Monroe Greg,13.0,4,Raptors,Suns,109 - 109,1,N/A,N/A,N/A
+125,Pascal Siakam,FG_UNASSISTED,None,0.0,4,Raptors,Suns,109 - 111,1,2,2,Jumper
+126,End of,Unknown,None,0.0,4,Raptors,Suns,109 - 111,1,N/A,N/A,N/A
+127,End of,Unknown,None,0.0,4,Raptors,Suns,109 - 111,1,N/A,N/A,N/A

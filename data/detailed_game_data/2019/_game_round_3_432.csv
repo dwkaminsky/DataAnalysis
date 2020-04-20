@@ -1,0 +1,457 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,DeAndre Jordan,JUMP_BALL,None,12:00,1,Knicks,Suns,0 - 0,0,N/A,N/A,N/A
+1,Kevin Knox,FG_UNASSISTED,None,11:42,1,Knicks,Suns,2 - 0,0,7,2,Jumper
+2,Deandre Ayton,FG_MISS,DeAndre Jordan,11:19,1,Knicks,Suns,2 - 0,1,5,2,Jumper
+3,DeAndre Jordan,DEFENSIVE_REBOUND,None,11:17,1,Knicks,Suns,2 - 0,0,N/A,N/A,N/A
+4,Noah Vonleh,FG_UNASSISTED,None,11:03,1,Knicks,Suns,4 - 0,0,2,2,Jumper
+5,Devin Booker,FG_MISS,None,10:43,1,Suns,Knicks,4 - 0,1,-,2,Jumper
+6,Damyean Dotson,DEFENSIVE_REBOUND,None,10:41,1,Knicks,Suns,4 - 0,0,N/A,N/A,N/A
+7,Dennis Smith,TURNOVER,Kelly Oubre,10:25,1,Knicks,Suns,4 - 0,0,N/A,N/A,N/A
+8,Kelly Oubre,FG_MISS,None,10:19,1,Suns,Knicks,4 - 0,1,-,2,Jumper
+9,Team,DEFENSIVE_REBOUND,None,10:19,1,Knicks,Suns,4 - 0,0,N/A,N/A,N/A
+10,Kelly Oubre,FOUL_ON_FLOOR,None,10:08,1,Suns,Knicks,4 - 0,1,N/A,N/A,N/A
+11,Noah Vonleh,FG_MISS,Devin Booker,9:53,1,Suns,Knicks,4 - 0,0,3,2,Jumper
+12,Damyean Dotson,OFFENSIVE_REBOUND,None,9:53,1,Knicks,Suns,4 - 0,0,N/A,N/A,N/A
+13,shot clock,TURNOVER,None,9:49,1,Knicks,Suns,6 - 0,0,N/A,N/A,N/A
+14,Devin Booker,FG_UNASSISTED,None,9:48,1,Suns,Knicks,6 - 2,1,-,2,Jumper
+15,Damyean Dotson,FOUL_ON_FLOOR,None,9:48,1,Knicks,Suns,6 - 2,0,N/A,N/A,N/A
+16,Devin Booker,FT,None,9:48,1,Suns,Knicks,6 - 3,1,N/A,1,N/A
+17,Kelly Oubre,FOUL_ON_FLOOR,None,9:36,1,Suns,Knicks,6 - 3,1,N/A,N/A,N/A
+18,DeAndre Jordan,FG_UNASSISTED,None,9:21,1,Knicks,Suns,8 - 3,0,-,2,Jumper
+19,Tyler Johnson,FG_MISS,None,9:02,1,Suns,Knicks,8 - 3,1,23,3,Jumper
+20,DeAndre Jordan,DEFENSIVE_REBOUND,None,8:59,1,Knicks,Suns,8 - 3,0,N/A,N/A,N/A
+21,Deandre Ayton,FOUL_ON_FLOOR,None,8:51,1,Suns,Knicks,8 - 3,1,N/A,N/A,N/A
+22,Damyean Dotson,FG_ASSISTED,Dennis Smith,8:41,1,Knicks,Suns,10 - 3,0,20,2,Jumper
+23,Kelly Oubre,FG_MISS,None,8:21,1,Suns,Knicks,10 - 3,1,0,2,Dunk
+24,Team,DEFENSIVE_REBOUND,None,8:21,1,Knicks,Suns,10 - 3,0,N/A,N/A,N/A
+25,Dennis Smith,TURNOVER,Devin Booker,8:18,1,Knicks,Suns,10 - 3,0,N/A,N/A,N/A
+26,Dennis Smith,FOUL_ON_FLOOR,None,8:18,1,Knicks,Suns,10 - 3,0,N/A,N/A,N/A
+27,Devin Booker,TURNOVER,DeAndre Jordan,8:08,1,Suns,Knicks,10 - 3,1,N/A,N/A,N/A
+28,Damyean Dotson,FG_MISS,None,8:02,1,Knicks,Suns,8 - 3,0,-,2,Jumper
+29,Devin Booker,DEFENSIVE_REBOUND,None,8:01,1,Suns,Knicks,10 - 3,1,N/A,N/A,N/A
+30,Devin Booker,FG_MISS,None,7:56,1,Suns,Knicks,10 - 3,1,23,3,Jumper
+31,Devin Booker,OFFENSIVE_REBOUND,None,7:53,1,Suns,Knicks,10 - 3,1,N/A,N/A,N/A
+32,Kelly Oubre,FG_MISS,None,7:50,1,Suns,Knicks,10 - 3,1,24,2,Jumper
+33,DeAndre Jordan,DEFENSIVE_REBOUND,None,7:48,1,Knicks,Suns,10 - 3,0,N/A,N/A,N/A
+34,Noah Vonleh,TURNOVER,None,7:38,1,Knicks,Suns,10 - 3,0,N/A,N/A,N/A
+35,DeAndre Jordan,FOUL_ON_FLOOR,None,7:19,1,Knicks,Suns,10 - 3,0,N/A,N/A,N/A
+36,Kelly Oubre,FT,None,7:19,1,Suns,Knicks,10 - 4,1,N/A,1,N/A
+37,Kelly Oubre,FT_MISS,None,7:19,1,Suns,Knicks,10 - 4,1,N/A,1,N/A
+38,DeAndre Jordan,DEFENSIVE_REBOUND,None,7:14,1,Knicks,Suns,10 - 4,0,N/A,N/A,N/A
+39,Kelly Oubre,Unknown,None,7:07,1,Suns,Knicks,10 - 4,1,N/A,N/A,N/A
+40,DeAndre Jordan,FG_ASSISTED,Damyean Dotson,7:01,1,Knicks,Suns,12 - 4,0,0,2,Dunk
+41,Team,Unknown,None,7:01,1,Suns,Knicks,12 - 4,1,N/A,N/A,N/A
+42,Mikal Bridges,SUBSTITUTION,Oubre Kelly,7:01,1,Suns,Knicks,10 - 4,1,N/A,N/A,N/A
+43,Mikal Bridges,TURNOVER,Kevin Knox,6:41,1,Suns,Knicks,10 - 4,1,N/A,N/A,N/A
+44,Josh Jackson,SUBSTITUTION,Bender Dragan,6:35,1,Suns,Knicks,10 - 4,1,N/A,N/A,N/A
+45,Kevin Knox,FG_MISS,Mikal Bridges,6:35,1,Suns,Knicks,10 - 4,0,6,2,Jumper
+46,Team,OFFENSIVE_REBOUND,None,6:35,1,Knicks,Suns,10 - 4,0,N/A,N/A,N/A
+47,DeAndre Jordan,TURNOVER,Mikal Bridges,6:25,1,Knicks,Suns,10 - 4,0,N/A,N/A,N/A
+48,Devin Booker,FG_UNASSISTED,None,6:16,1,Suns,Knicks,10 - 6,1,-,2,Jumper
+49,Deandre Ayton,FOUL_TECHNICAL,None,6:00,1,Suns,Knicks,10 - 6,1,N/A,N/A,N/A
+50,Damyean Dotson,FT,None,6:00,1,Knicks,Suns,11 - 6,0,N/A,1,N/A
+51,Allonzo Trier,SUBSTITUTION,Knox Kevin,6:00,1,Knicks,Suns,11 - 6,0,N/A,N/A,N/A
+52,Dennis Smith,FG_UNASSISTED,None,5:50,1,Knicks,Suns,13 - 6,0,-,2,Jumper
+53,Devin Booker,FG_MISS,None,5:43,1,Suns,Knicks,13 - 6,1,25,2,Jumper
+54,Allonzo Trier,DEFENSIVE_REBOUND,None,5:40,1,Knicks,Suns,13 - 6,0,N/A,N/A,N/A
+55,Damyean Dotson,FG_UNASSISTED,None,5:30,1,Knicks,Suns,15 - 6,0,-,2,Jumper
+56,Team,Unknown,None,5:28,1,Suns,Knicks,15 - 6,1,N/A,N/A,N/A
+57,Tyler Johnson,FG_MISS,None,5:15,1,Suns,Knicks,15 - 6,1,25,2,Jumper
+58,DeAndre Jordan,DEFENSIVE_REBOUND,None,5:10,1,Knicks,Suns,15 - 6,0,N/A,N/A,N/A
+59,Noah Vonleh,TURNOVER,Mikal Bridges,4:53,1,Knicks,Suns,15 - 6,0,N/A,N/A,N/A
+60,Emmanuel Mudiay,SUBSTITUTION,Smith Dennis,4:48,1,Knicks,Suns,15 - 6,0,N/A,N/A,N/A
+61,Deandre Ayton,FG_MISS,None,4:39,1,Suns,Knicks,15 - 6,1,0,2,Layup
+62,Deandre Ayton,OFFENSIVE_REBOUND,None,4:39,1,Suns,Knicks,15 - 6,1,N/A,N/A,N/A
+63,Deandre Ayton,FG_UNASSISTED,None,4:39,1,Suns,Knicks,15 - 8,1,-,2,Jumper
+64,Noah Vonleh,FOUL_ON_FLOOR,None,4:39,1,Knicks,Suns,15 - 8,0,N/A,N/A,N/A
+65,Deandre Ayton,FT,None,4:39,1,Suns,Knicks,15 - 9,1,N/A,1,N/A
+66,DeAndre Jordan,TURNOVER,Josh Jackson,4:35,1,Knicks,Suns,15 - 9,0,N/A,N/A,N/A
+67,Josh Jackson,FG_MISS,None,4:32,1,Suns,Knicks,15 - 9,1,0,2,Layup
+68,DeAndre Jordan,DEFENSIVE_REBOUND,None,4:29,1,Knicks,Suns,15 - 9,0,N/A,N/A,N/A
+69,DeAndre Jordan,TURNOVER,Mikal Bridges,4:14,1,Knicks,Suns,15 - 9,0,N/A,N/A,N/A
+70,Emmanuel Mudiay,FOUL_ON_FLOOR,None,4:10,1,Knicks,Suns,15 - 9,0,N/A,N/A,N/A
+71,Deandre Ayton,FT,None,4:10,1,Suns,Knicks,15 - 10,1,N/A,1,N/A
+72,Lance Thomas,SUBSTITUTION,Jordan DeAndre,4:10,1,Knicks,Suns,15 - 10,0,N/A,N/A,N/A
+73,Mitchell Robinson,SUBSTITUTION,Vonleh Noah,4:10,1,Knicks,Suns,15 - 10,0,N/A,N/A,N/A
+74,Deandre Ayton,FT_MISS,None,4:10,1,Suns,Knicks,15 - 10,1,N/A,1,N/A
+75,Lance Thomas,DEFENSIVE_REBOUND,None,4:06,1,Knicks,Suns,15 - 10,0,N/A,N/A,N/A
+76,Team,Unknown,None,4:05,1,Knicks,Suns,15 - 10,0,N/A,N/A,N/A
+77,Mikal Bridges,FOUL_ON_FLOOR,None,3:52,1,Suns,Knicks,15 - 10,1,N/A,N/A,N/A
+78,Allonzo Trier,FT,None,3:52,1,Knicks,Suns,16 - 10,0,N/A,1,N/A
+79,Allonzo Trier,FT,None,3:52,1,Knicks,Suns,17 - 10,0,N/A,1,N/A
+80,Deandre Ayton,FG_ASSISTED,Mikal Bridges,3:34,1,Suns,Knicks,17 - 12,1,5,2,Jumper
+81,Lance Thomas,FG_MISS,None,3:21,1,Knicks,Suns,17 - 12,0,4,2,Jumper
+82,Deandre Ayton,DEFENSIVE_REBOUND,None,3:19,1,Suns,Knicks,17 - 12,1,N/A,N/A,N/A
+83,Josh Jackson,TURNOVER,Emmanuel Mudiay,3:09,1,Suns,Knicks,17 - 12,1,N/A,N/A,N/A
+84,Emmanuel Mudiay,TURNOVER,None,3:04,1,Knicks,Suns,17 - 12,0,N/A,N/A,N/A
+85,Emmanuel Mudiay,TURNOVER,None,3:04,1,Knicks,Suns,17 - 12,0,N/A,N/A,N/A
+86,De'Anthony Melton,SUBSTITUTION,Johnson Tyler,3:04,1,Suns,Knicks,17 - 12,1,N/A,N/A,N/A
+87,Kevin Knox,SUBSTITUTION,Dotson Damyean,3:04,1,Knicks,Suns,17 - 12,0,N/A,N/A,N/A
+88,Devin Booker,FG_UNASSISTED,None,2:51,1,Suns,Knicks,17 - 14,1,12,2,Jumper
+89,Deandre Ayton,FOUL_ON_FLOOR,None,2:39,1,Suns,Knicks,17 - 14,1,N/A,N/A,N/A
+90,Allonzo Trier,FT_MISS,None,2:39,1,Knicks,Suns,17 - 14,0,N/A,1,N/A
+91,Team,OFFENSIVE_REBOUND,None,2:39,1,Knicks,Suns,17 - 14,0,N/A,N/A,N/A
+92,Allonzo Trier,FT,None,2:39,1,Knicks,Suns,18 - 14,0,N/A,1,N/A
+93,Deandre Ayton's,FG_MISS,Mitchell Robinson,2:22,1,Knicks,Suns,18 - 14,1, ,2,Jumper
+94,Kevin Knox,DEFENSIVE_REBOUND,None,2:19,1,Knicks,Suns,18 - 14,0,N/A,N/A,N/A
+95,Emmanuel Mudiay,FG_MISS,None,2:03,1,Knicks,Suns,18 - 14,0, ,2,Jumper
+96,Deandre Ayton,DEFENSIVE_REBOUND,None,1:58,1,Suns,Knicks,18 - 14,1,N/A,N/A,N/A
+97,Devin Booker,TURNOVER,None,1:57,1,Suns,Knicks,18 - 14,1,N/A,N/A,N/A
+98,Devin Booker,TURNOVER,None,1:57,1,Suns,Knicks,18 - 14,1,N/A,N/A,N/A
+99,Richaun Holmes,SUBSTITUTION,Booker Devin,1:57,1,Suns,Knicks,18 - 14,1,N/A,N/A,N/A
+100,Jamal Crawford,SUBSTITUTION,Ayton Deandre,1:57,1,Suns,Knicks,18 - 14,1,N/A,N/A,N/A
+101,Emmanuel Mudiay,FG_UNASSISTED,None,1:39,1,Knicks,Suns,20 - 14,0,0,2,Layup
+102,Mikal Bridges,FG_MISS,None,1:23,1,Suns,Knicks,20 - 14,1,26,3,Jumper
+103,Mitchell Robinson,DEFENSIVE_REBOUND,None,1:20,1,Knicks,Suns,20 - 14,0,N/A,N/A,N/A
+104,Emmanuel Mudiay,TURNOVER,None,1:07,1,Knicks,Suns,20 - 14,0,N/A,N/A,N/A
+105,Mikal Bridges,FG_ASSISTED,De'Anthony Melton,58.0,1,Suns,Knicks,20 - 16,1,0,2,Layup
+106,Allonzo Trier,FG_MISS,None,38.2,1,Knicks,Suns,20 - 16,0,25,3,Jumper
+107,Kevin Knox,OFFENSIVE_REBOUND,None,34.3,1,Knicks,Suns,20 - 16,0,N/A,N/A,N/A
+108,Mikal Bridges,FOUL_ON_FLOOR,None,34.3,1,Suns,Knicks,20 - 16,1,N/A,N/A,N/A
+109,Kevin Knox,FT,None,34.3,1,Knicks,Suns,21 - 16,0,N/A,1,N/A
+110,Kevin Knox,FT,None,34.3,1,Knicks,Suns,22 - 16,0,N/A,1,N/A
+111,Jamal Crawford,FG_MISS,None,14.6,1,Suns,Knicks,22 - 16,1,21,2,Jumper
+112,Allonzo Trier,DEFENSIVE_REBOUND,None,11.2,1,Knicks,Suns,22 - 16,0,N/A,N/A,N/A
+113,Allonzo Trier,FG_MISS,None,3.1,1,Knicks,Suns,22 - 16,0,18,2,Jumper
+114,Josh Jackson,DEFENSIVE_REBOUND,None,3.1,1,Suns,Knicks,22 - 16,1,N/A,N/A,N/A
+115,End of,Unknown,None,0.0,1,Suns,Knicks,22 - 16,1,N/A,N/A,N/A
+0,Josh Jackson,TURNOVER,Mitchell Robinson,11:43,2,Suns,Knicks,22 - 16,1,N/A,N/A,N/A
+1,Kevin Knox,FG_MISS,None,11:25,2,Knicks,Suns,22 - 16,0, ,2,Jumper
+2,Richaun Holmes,FOUL_ON_FLOOR,None,11:24,2,Suns,Knicks,22 - 16,1,N/A,N/A,N/A
+3,Mitchell Robinson,OFFENSIVE_REBOUND,None,11:24,2,Knicks,Suns,22 - 16,0,N/A,N/A,N/A
+4,Mitchell Robinson,FT,None,11:24,2,Knicks,Suns,23 - 16,0,N/A,1,N/A
+5,Mitchell Robinson,FT_MISS,None,11:24,2,Knicks,Suns,23 - 16,0,N/A,1,N/A
+6,Josh Jackson,DEFENSIVE_REBOUND,None,11:21,2,Suns,Knicks,23 - 16,1,N/A,N/A,N/A
+7,Richaun Holmes,FG_MISS,None,11:07,2,Suns,Knicks,23 - 16,1, ,2,Jumper
+8,Richaun Holmes,OFFENSIVE_REBOUND,None,11:01,2,Suns,Knicks,23 - 16,1,N/A,N/A,N/A
+9,Richaun Holmes,FG_UNASSISTED,None,11:01,2,Suns,Knicks,23 - 18,1,0,2,Dunk
+10,Kevin Knox,FG_MISS,None,10:43,2,Knicks,Suns,23 - 18,0, ,2,Jumper
+11,De'Anthony Melton,DEFENSIVE_REBOUND,None,10:40,2,Suns,Knicks,23 - 18,1,N/A,N/A,N/A
+12,Richaun Holmes,FG_ASSISTED,Jamal Crawford,10:34,2,Suns,Knicks,23 - 20,1,0,2,Dunk
+13,Team,Unknown,None,10:27,2,Knicks,Suns,23 - 20,0,N/A,N/A,N/A
+14,Emmanuel Mudiay,FG_MISS,None,10:12,2,Knicks,Suns,23 - 20,0,0,2,Layup
+15,Mitchell Robinson,OFFENSIVE_REBOUND,None,10:09,2,Knicks,Suns,23 - 20,0,N/A,N/A,N/A
+16,Mitchell Robinson,FG_UNASSISTED,None,10:08,2,Knicks,Suns,25 - 20,0,0,2,Dunk
+17,Kevin Knox,FOUL_ON_FLOOR,None,9:59,2,Knicks,Suns,25 - 20,0,N/A,N/A,N/A
+18,Josh Jackson,FG_MISS,None,9:46,2,Suns,Knicks,25 - 20,1,26,3,Jumper
+19,Emmanuel Mudiay,DEFENSIVE_REBOUND,None,9:43,2,Knicks,Suns,25 - 20,0,N/A,N/A,N/A
+20,Lance Thomas,FG_ASSISTED,Emmanuel Mudiay,9:37,2,Knicks,Suns,28 - 20,0,23,3,Jumper
+21,Jamal Crawford,FG_MISS,None,9:23,2,Suns,Knicks,28 - 20,1, ,2,Jumper
+22,Allonzo Trier,DEFENSIVE_REBOUND,None,9:20,2,Knicks,Suns,28 - 20,0,N/A,N/A,N/A
+23,Jamal Crawford,FOUL_ON_FLOOR,None,9:19,2,Suns,Knicks,28 - 20,1,N/A,N/A,N/A
+24,Kelly Oubre,SUBSTITUTION,Melton De'Anthony,9:19,2,Suns,Knicks,28 - 20,1,N/A,N/A,N/A
+25,Emmanuel Mudiay,TURNOVER,Richaun Holmes,9:06,2,Knicks,Suns,28 - 20,0,N/A,N/A,N/A
+26,Kelly Oubre,FG_ASSISTED,Josh Jackson,9:01,2,Suns,Knicks,28 - 22,1,0,2,Dunk
+27,Mitchell Robinson,TURNOVER,Jamal Crawford,8:44,2,Knicks,Suns,28 - 22,0,N/A,N/A,N/A
+28,Kelly Oubre,TURNOVER,Mitchell Robinson,8:36,2,Suns,Knicks,28 - 22,1,N/A,N/A,N/A
+29,Emmanuel Mudiay,TURNOVER,None,8:21,2,Knicks,Suns,28 - 22,0,N/A,N/A,N/A
+30,Damyean Dotson,SUBSTITUTION,Knox Kevin,8:21,2,Knicks,Suns,28 - 22,0,N/A,N/A,N/A
+31,Jamal Crawford,FG_MISS,None,8:10,2,Suns,Knicks,28 - 22,1,19,2,Jumper
+32,Damyean Dotson,DEFENSIVE_REBOUND,None,8:08,2,Knicks,Suns,28 - 22,0,N/A,N/A,N/A
+33,Lance Thomas,FG_MISS,None,7:56,2,Knicks,Suns,28 - 22,0,5,2,Jumper
+34,Richaun Holmes,FOUL_ON_FLOOR,None,7:55,2,Suns,Knicks,28 - 22,1,N/A,N/A,N/A
+35,Team,OFFENSIVE_REBOUND,None,7:55,2,Knicks,Suns,28 - 22,0,N/A,N/A,N/A
+36,Dennis Smith,SUBSTITUTION,Mudiay Emmanuel,7:55,2,Knicks,Suns,28 - 22,0,N/A,N/A,N/A
+37,Noah Vonleh,SUBSTITUTION,Thomas Lance,7:55,2,Knicks,Suns,28 - 22,0,N/A,N/A,N/A
+38,Noah Vonleh,FG_UNASSISTED,None,7:42,2,Knicks,Suns,30 - 22,0, ,2,Jumper
+39,Josh Jackson's,FG_MISS,Noah Vonleh,7:23,2,Knicks,Suns,30 - 22,1,0,2,Layup
+40,Damyean Dotson,DEFENSIVE_REBOUND,None,7:21,2,Knicks,Suns,30 - 22,0,N/A,N/A,N/A
+41,Mitchell Robinson,FG_ASSISTED,Dennis Smith,7:17,2,Knicks,Suns,32 - 22,0,0,2,Layup
+42,Kelly Oubre,FOUL_ON_FLOOR,None,7:17,2,Suns,Knicks,32 - 22,1,N/A,N/A,N/A
+43,Team,Unknown,None,7:17,2,Suns,Knicks,32 - 22,1,N/A,N/A,N/A
+44,Tyler Johnson,SUBSTITUTION,Crawford Jamal,7:17,2,Suns,Knicks,32 - 22,1,N/A,N/A,N/A
+45,Deandre Ayton,SUBSTITUTION,Jackson Josh,7:17,2,Suns,Knicks,32 - 22,1,N/A,N/A,N/A
+46,Devin Booker,SUBSTITUTION,Holmes Richaun,7:17,2,Suns,Knicks,32 - 22,1,N/A,N/A,N/A
+47,Mitchell Robinson,FT,None,7:17,2,Knicks,Suns,33 - 22,0,N/A,1,N/A
+48,Dennis Smith,FOUL_ON_FLOOR,None,6:58,2,Knicks,Suns,33 - 22,0,N/A,N/A,N/A
+49,Tyler Johnson,FT,None,6:58,2,Suns,Knicks,33 - 23,1,N/A,1,N/A
+50,Tyler Johnson,FT,None,6:58,2,Suns,Knicks,33 - 24,1,N/A,1,N/A
+51,Allonzo Trier,FG_ASSISTED,Mitchell Robinson,6:47,2,Knicks,Suns,35 - 24,0,20,2,Jumper
+52,Devin Booker,FG_UNASSISTED,None,6:32,2,Suns,Knicks,35 - 26,1, ,2,Jumper
+53,Noah Vonleh,FOUL_ON_FLOOR,None,6:32,2,Knicks,Suns,35 - 26,0,N/A,N/A,N/A
+54,Devin Booker,FT,None,6:32,2,Suns,Knicks,35 - 27,1,N/A,1,N/A
+55,Mitchell Robinson,FOUL_ON_FLOOR,None,6:24,2,Knicks,Suns,35 - 27,0,N/A,N/A,N/A
+56,Mitchell Robinson,TURNOVER,None,6:24,2,Knicks,Suns,35 - 27,0,N/A,N/A,N/A
+57,DeAndre Jordan,SUBSTITUTION,Robinson Mitchell,6:24,2,Knicks,Suns,35 - 27,0,N/A,N/A,N/A
+58,Devin Booker,FG_UNASSISTED,None,6:15,2,Suns,Knicks,35 - 30,1,27,3,Jumper
+59,Mikal Bridges,FOUL_ON_FLOOR,None,6:00,2,Suns,Knicks,35 - 30,1,N/A,N/A,N/A
+60,Noah Vonleh,FT_MISS,None,6:00,2,Knicks,Suns,35 - 30,0,N/A,1,N/A
+61,Team,OFFENSIVE_REBOUND,None,6:00,2,Knicks,Suns,35 - 30,0,N/A,N/A,N/A
+62,Noah Vonleh,FT,None,6:00,2,Knicks,Suns,36 - 30,0,N/A,1,N/A
+63,Tyler Johnson,FG_ASSISTED,Devin Booker,5:47,2,Suns,Knicks,36 - 33,1,23,3,Jumper
+64,Noah Vonleh,FG_ASSISTED,Damyean Dotson,5:30,2,Knicks,Suns,38 - 33,0,0,2,Dunk
+65,Mikal Bridges,FOUL_ON_FLOOR,None,5:30,2,Suns,Knicks,38 - 33,1,N/A,N/A,N/A
+66,Josh Jackson,SUBSTITUTION,Bridges Mikal,5:30,2,Suns,Knicks,38 - 33,1,N/A,N/A,N/A
+67,Noah Vonleh,FT,None,5:30,2,Knicks,Suns,39 - 33,0,N/A,1,N/A
+68,Kelly Oubre,FG_MISS,None,5:16,2,Suns,Knicks,39 - 33,1,26,3,Jumper
+69,Noah Vonleh,DEFENSIVE_REBOUND,None,5:11,2,Knicks,Suns,39 - 33,0,N/A,N/A,N/A
+70,Dennis Smith,FG_MISS,Josh Jackson,5:08,2,Suns,Knicks,39 - 33,0, ,2,Jumper
+71,Tyler Johnson,DEFENSIVE_REBOUND,None,5:04,2,Suns,Knicks,39 - 33,1,N/A,N/A,N/A
+72,Kelly Oubre,FG_ASSISTED,Tyler Johnson,5:03,2,Suns,Knicks,39 - 35,1, ,2,Jumper
+73,Allonzo Trier,TURNOVER,None,4:59,2,Knicks,Suns,39 - 35,0,N/A,N/A,N/A
+74,Allonzo Trier,TURNOVER,None,4:59,2,Knicks,Suns,39 - 35,0,N/A,N/A,N/A
+75,Dragan Bender,SUBSTITUTION,Oubre Kelly,4:59,2,Suns,Knicks,39 - 35,1,N/A,N/A,N/A
+76,Devin Booker,TURNOVER,None,4:47,2,Suns,Knicks,39 - 35,1,N/A,N/A,N/A
+77,Devin Booker,TURNOVER,None,4:47,2,Suns,Knicks,39 - 35,1,N/A,N/A,N/A
+78,Damyean Dotson,FG_MISS,None,4:32,2,Knicks,Suns,39 - 35,0,16,2,Jumper
+79,Deandre Ayton,DEFENSIVE_REBOUND,None,4:30,2,Suns,Knicks,39 - 35,1,N/A,N/A,N/A
+80,Devin Booker,FG_UNASSISTED,None,4:26,2,Suns,Knicks,39 - 37,1, ,2,Jumper
+81,Damyean Dotson,FOUL_ON_FLOOR,None,4:26,2,Knicks,Suns,39 - 37,0,N/A,N/A,N/A
+82,Devin Booker,FT,None,4:26,2,Suns,Knicks,39 - 38,1,N/A,1,N/A
+83,Team,Unknown,None,4:22,2,Knicks,Suns,39 - 38,0,N/A,N/A,N/A
+84,Kevin Knox,SUBSTITUTION,Trier Allonzo,4:22,2,Knicks,Suns,39 - 38,0,N/A,N/A,N/A
+85,Dennis Smith,TURNOVER,Devin Booker,4:17,2,Knicks,Suns,39 - 38,0,N/A,N/A,N/A
+86,Devin Booker,FG_UNASSISTED,None,4:14,2,Suns,Knicks,39 - 40,1,0,2,Dunk
+87,Damyean Dotson,FG_MISS,None,3:58,2,Knicks,Suns,39 - 40,0,8,2,Jumper
+88,Josh Jackson,DEFENSIVE_REBOUND,None,3:55,2,Suns,Knicks,39 - 40,1,N/A,N/A,N/A
+89,Tyler Johnson,FG_ASSISTED,Josh Jackson,3:46,2,Suns,Knicks,39 - 42,1,6,2,Jumper
+90,Noah Vonleh,FG_UNASSISTED,None,3:27,2,Knicks,Suns,41 - 42,0,5,2,Jumper
+91,Deandre Ayton,FG_MISS,None,3:08,2,Suns,Knicks,41 - 42,1,20,2,Jumper
+92,Team,DEFENSIVE_REBOUND,None,3:08,2,Knicks,Suns,41 - 42,0,N/A,N/A,N/A
+93,Noah Vonleh,FG_UNASSISTED,None,2:51,2,Knicks,Suns,43 - 42,0, ,2,Jumper
+94,Devin Booker,TURNOVER,None,2:34,2,Suns,Knicks,43 - 42,1,N/A,N/A,N/A
+95,Dennis Smith,FG_UNASSISTED,None,2:17,2,Knicks,Suns,45 - 42,0,18,2,Jumper
+96,Tyler Johnson,FG_UNASSISTED,None,1:59,2,Suns,Knicks,45 - 44,1,17,2,Jumper
+97,DeAndre Jordan,FG_MISS,None,1:33,2,Knicks,Suns,45 - 44,0, ,2,Jumper
+98,Dragan Bender,DEFENSIVE_REBOUND,None,1:31,2,Suns,Knicks,45 - 44,1,N/A,N/A,N/A
+99,Damyean Dotson,FOUL_ON_FLOOR,None,1:31,2,Knicks,Suns,45 - 44,0,N/A,N/A,N/A
+100,Devin Booker,FT,None,1:31,2,Suns,Knicks,45 - 45,1,N/A,1,N/A
+101,Richaun Holmes,SUBSTITUTION,Ayton Deandre,1:31,2,Suns,Knicks,45 - 45,1,N/A,N/A,N/A
+102,Allonzo Trier,SUBSTITUTION,Dotson Damyean,1:31,2,Knicks,Suns,45 - 45,0,N/A,N/A,N/A
+103,Devin Booker,FT,None,1:31,2,Suns,Knicks,45 - 46,1,N/A,1,N/A
+104,Noah Vonleh,FG_MISS,Richaun Holmes,1:15,2,Suns,Knicks,45 - 46,0,0,2,Dunk
+105,Dragan Bender,DEFENSIVE_REBOUND,None,1:12,2,Suns,Knicks,45 - 46,1,N/A,N/A,N/A
+106,Josh Jackson,FG_MISS,None,1:05,2,Suns,Knicks,45 - 46,1,0,2,Layup
+107,DeAndre Jordan,DEFENSIVE_REBOUND,None,1:03,2,Knicks,Suns,45 - 46,0,N/A,N/A,N/A
+108,Dragan Bender,FOUL_ON_FLOOR,None,57.0,2,Suns,Knicks,45 - 46,1,N/A,N/A,N/A
+109,Kevin Knox,FT,None,57.0,2,Knicks,Suns,46 - 46,0,N/A,1,N/A
+110,Lance Thomas,SUBSTITUTION,Jordan DeAndre,57.0,2,Knicks,Suns,46 - 46,0,N/A,N/A,N/A
+111,Kevin Knox,FT,None,57.0,2,Knicks,Suns,47 - 46,0,N/A,1,N/A
+112,Devin Booker,FG_ASSISTED,Dragan Bender,40.3,2,Suns,Knicks,47 - 49,1,26,3,Jumper
+113,Lance Thomas,FG_MISS,None,26.4,2,Knicks,Suns,47 - 49,0,24,3,Jumper
+114,Devin Booker,DEFENSIVE_REBOUND,None,23.7,2,Suns,Knicks,47 - 49,1,N/A,N/A,N/A
+115,Devin Booker,FG_MISS,None,3.0,2,Suns,Knicks,47 - 49,1, ,2,Jumper
+116,Lance Thomas,DEFENSIVE_REBOUND,None,0.1,2,Knicks,Suns,47 - 49,0,N/A,N/A,N/A
+117,End of,Unknown,None,0.0,2,Suns,Knicks,47 - 49,1,N/A,N/A,N/A
+0,Kelly Oubre,SUBSTITUTION,Jackson Josh,12:00,3,Suns,Knicks,47 - 49,1,N/A,N/A,N/A
+1,Deandre Ayton,SUBSTITUTION,Holmes Richaun,12:00,3,Suns,Knicks,47 - 49,1,N/A,N/A,N/A
+2,Damyean Dotson,SUBSTITUTION,Trier Allonzo,12:00,3,Knicks,Suns,47 - 49,0,N/A,N/A,N/A
+3,DeAndre Jordan,SUBSTITUTION,Thomas Lance,12:00,3,Knicks,Suns,47 - 49,0,N/A,N/A,N/A
+4,Devin Booker,FG_ASSISTED,Tyler Johnson,11:43,3,Suns,Knicks,47 - 52,1,26,3,Jumper
+5,Damyean Dotson,FG_MISS,None,11:11,3,Knicks,Suns,47 - 52,0,19,2,Jumper
+6,Dragan Bender,DEFENSIVE_REBOUND,None,11:10,3,Suns,Knicks,47 - 52,1,N/A,N/A,N/A
+7,Devin Booker's,FG_MISS,DeAndre Jordan,10:56,3,Knicks,Suns,47 - 52,1,0,2,Layup
+8,Damyean Dotson,DEFENSIVE_REBOUND,None,10:53,3,Knicks,Suns,47 - 52,0,N/A,N/A,N/A
+9,Damyean Dotson,TURNOVER,Kelly Oubre,10:52,3,Knicks,Suns,47 - 52,0,N/A,N/A,N/A
+10,Devin Booker,FG_ASSISTED,Kelly Oubre,10:49,3,Suns,Knicks,47 - 55,1,24,3,Jumper
+11,Dennis Smith,FG_MISS,None,10:32,3,Knicks,Suns,47 - 55,0,22,2,Jumper
+12,Team,OFFENSIVE_REBOUND,None,10:31,3,Knicks,Suns,47 - 55,0,N/A,N/A,N/A
+13,Deandre Ayton,FOUL_ON_FLOOR,None,10:31,3,Suns,Knicks,47 - 55,1,N/A,N/A,N/A
+14,DeAndre Jordan,FG_ASSISTED,Noah Vonleh,10:21,3,Knicks,Suns,49 - 55,0,0,2,Dunk
+15,Kelly Oubre,FG_MISS,None,10:02,3,Suns,Knicks,49 - 55,1,4,2,Jumper
+16,DeAndre Jordan,DEFENSIVE_REBOUND,None,10:00,3,Knicks,Suns,49 - 55,0,N/A,N/A,N/A
+17,Dennis Smith,FG_MISS,Tyler Johnson,9:54,3,Suns,Knicks,49 - 55,0,0,2,Layup
+18,Deandre Ayton,DEFENSIVE_REBOUND,None,9:51,3,Suns,Knicks,49 - 55,1,N/A,N/A,N/A
+19,Deandre Ayton,FG_ASSISTED,Tyler Johnson,9:41,3,Suns,Knicks,49 - 57,1,13,2,Jumper
+20,Team,Unknown,None,9:41,3,Knicks,Suns,49 - 57,0,N/A,N/A,N/A
+21,Damyean Dotson,FG_MISS,None,9:29,3,Knicks,Suns,49 - 57,0,25,2,Jumper
+22,Kelly Oubre,DEFENSIVE_REBOUND,None,9:25,3,Suns,Knicks,49 - 57,1,N/A,N/A,N/A
+23,Devin Booker,FG_ASSISTED,Tyler Johnson,9:11,3,Suns,Knicks,49 - 60,1,23,3,Jumper
+24,Noah Vonleh,FG_ASSISTED,Damyean Dotson,8:59,3,Knicks,Suns,52 - 60,0,26,3,Jumper
+25,Devin Booker,TURNOVER,None,8:50,3,Suns,Knicks,52 - 60,1,N/A,N/A,N/A
+26,Damyean Dotson,FG_MISS,None,8:43,3,Knicks,Suns,52 - 60,0,26,3,Jumper
+27,Team,OFFENSIVE_REBOUND,None,8:41,3,Knicks,Suns,52 - 60,0,N/A,N/A,N/A
+28,Deandre Ayton,FOUL_ON_FLOOR,None,8:41,3,Suns,Knicks,52 - 60,1,N/A,N/A,N/A
+29,Richaun Holmes,SUBSTITUTION,Ayton Deandre,8:41,3,Suns,Knicks,52 - 60,1,N/A,N/A,N/A
+30,Noah Vonleh,TURNOVER,None,8:30,3,Knicks,Suns,52 - 60,0,N/A,N/A,N/A
+31,Tyler Johnson,FG_MISS,None,8:14,3,Suns,Knicks,52 - 60,1,8,2,Jumper
+32,Noah Vonleh,DEFENSIVE_REBOUND,None,8:10,3,Knicks,Suns,52 - 60,0,N/A,N/A,N/A
+33,Dragan Bender,FOUL_ON_FLOOR,None,8:09,3,Suns,Knicks,52 - 60,1,N/A,N/A,N/A
+34,DeAndre Jordan,FT,None,8:09,3,Knicks,Suns,53 - 60,0,N/A,1,N/A
+35,DeAndre Jordan,FT,None,8:09,3,Knicks,Suns,54 - 60,0,N/A,1,N/A
+36,Dragan Bender,FG_MISS,None,7:52,3,Suns,Knicks,54 - 60,1,25,3,Jumper
+37,Damyean Dotson,DEFENSIVE_REBOUND,None,7:49,3,Knicks,Suns,54 - 60,0,N/A,N/A,N/A
+38,Damyean Dotson,FG_UNASSISTED,None,7:42,3,Knicks,Suns,56 - 60,0,0,2,Layup
+39,Team,Unknown,None,7:42,3,Suns,Knicks,56 - 60,1,N/A,N/A,N/A
+40,Dragan Bender,FG_MISS,None,7:22,3,Suns,Knicks,56 - 60,1,23,3,Jumper
+41,DeAndre Jordan,DEFENSIVE_REBOUND,None,7:19,3,Knicks,Suns,56 - 60,0,N/A,N/A,N/A
+42,Dragan Bender,FOUL_ON_FLOOR,None,7:03,3,Suns,Knicks,56 - 60,1,N/A,N/A,N/A
+43,DeAndre Jordan,FT_MISS,None,7:03,3,Knicks,Suns,56 - 60,0,N/A,1,N/A
+44,Team,OFFENSIVE_REBOUND,None,7:03,3,Knicks,Suns,56 - 60,0,N/A,N/A,N/A
+45,DeAndre Jordan,FT,None,7:03,3,Knicks,Suns,57 - 60,0,N/A,1,N/A
+46,Devin Booker,FG_UNASSISTED,None,6:48,3,Suns,Knicks,57 - 62,1,11,2,Jumper
+47,Dennis Smith,FG_MISS,None,6:34,3,Knicks,Suns,57 - 62,0,27,3,Jumper
+48,Kelly Oubre,DEFENSIVE_REBOUND,None,6:30,3,Suns,Knicks,57 - 62,1,N/A,N/A,N/A
+49,Kelly Oubre,FG_UNASSISTED,None,6:24,3,Suns,Knicks,57 - 64,1,14,2,Jumper
+50,Kevin Knox,FG_MISS,None,6:07,3,Knicks,Suns,57 - 64,0,20,2,Jumper
+51,Tyler Johnson,DEFENSIVE_REBOUND,None,6:05,3,Suns,Knicks,57 - 64,1,N/A,N/A,N/A
+52,Dennis Smith,FOUL_ON_FLOOR,None,5:55,3,Knicks,Suns,57 - 64,0,N/A,N/A,N/A
+53,Devin Booker,FT,None,5:55,3,Suns,Knicks,57 - 65,1,N/A,1,N/A
+54,Mikal Bridges,SUBSTITUTION,Bender Dragan,5:55,3,Suns,Knicks,57 - 65,1,N/A,N/A,N/A
+55,Mitchell Robinson,SUBSTITUTION,Jordan DeAndre,5:55,3,Knicks,Suns,57 - 65,0,N/A,N/A,N/A
+56,Devin Booker,FT,None,5:55,3,Suns,Knicks,57 - 66,1,N/A,1,N/A
+57,Mikal Bridges,FOUL_ON_FLOOR,None,5:45,3,Suns,Knicks,57 - 66,1,N/A,N/A,N/A
+58,Kevin Knox,FT_MISS,None,5:45,3,Knicks,Suns,57 - 66,0,N/A,1,N/A
+59,Team,OFFENSIVE_REBOUND,None,5:45,3,Knicks,Suns,57 - 66,0,N/A,N/A,N/A
+60,Josh Jackson,SUBSTITUTION,Bridges Mikal,5:45,3,Suns,Knicks,57 - 66,1,N/A,N/A,N/A
+61,Kevin Knox,FT,None,5:45,3,Knicks,Suns,58 - 66,0,N/A,1,N/A
+62,Kelly Oubre,FG_ASSISTED,Devin Booker,5:31,3,Suns,Knicks,58 - 69,1,23,3,Jumper
+63,Dennis Smith,FG_MISS,None,5:11,3,Knicks,Suns,58 - 69,0, ,2,Jumper
+64,Devin Booker,DEFENSIVE_REBOUND,None,5:05,3,Suns,Knicks,58 - 69,1,N/A,N/A,N/A
+65,Noah Vonleh,FOUL_ON_FLOOR,None,5:02,3,Knicks,Suns,58 - 69,0,N/A,N/A,N/A
+66,Josh Jackson,FT,None,5:02,3,Suns,Knicks,58 - 70,1,N/A,1,N/A
+67,Emmanuel Mudiay,SUBSTITUTION,Smith Dennis,5:02,3,Knicks,Suns,58 - 70,0,N/A,N/A,N/A
+68,Allonzo Trier,SUBSTITUTION,Knox Kevin,5:02,3,Knicks,Suns,58 - 70,0,N/A,N/A,N/A
+69,Josh Jackson,FT,None,5:02,3,Suns,Knicks,58 - 71,1,N/A,1,N/A
+70,Noah Vonleh,FOUL_ON_FLOOR,None,4:51,3,Knicks,Suns,58 - 71,0,N/A,N/A,N/A
+71,Noah Vonleh,TURNOVER,None,4:51,3,Knicks,Suns,58 - 71,0,N/A,N/A,N/A
+72,Devin Booker,FG_MISS,Mitchell Robinson,4:36,3,Knicks,Suns,58 - 71,1,7,2,Jumper
+73,Damyean Dotson,DEFENSIVE_REBOUND,None,4:33,3,Knicks,Suns,58 - 71,0,N/A,N/A,N/A
+74,Mitchell Robinson,FG_MISS,None,4:26,3,Knicks,Suns,58 - 71,0,0,2,Layup
+75,Team,DEFENSIVE_REBOUND,None,4:26,3,Suns,Knicks,58 - 71,1,N/A,N/A,N/A
+76,Mitchell Robinson,FOUL_ON_FLOOR,None,4:26,3,Knicks,Suns,58 - 71,0,N/A,N/A,N/A
+77,Troy Daniels,SUBSTITUTION,for game,4:26,3,Suns,Knicks,58 - 71,1,N/A,N/A,N/A
+78,Henry Ellenson,SUBSTITUTION,Vonleh Noah,4:26,3,Knicks,Suns,58 - 71,0,N/A,N/A,N/A
+79,enters the,SUBSTITUTION,Johnson Tyler,4:26,3,Suns,Knicks,58 - 71,1,N/A,N/A,N/A
+80,Josh Jackson,FG_MISS,None,4:11,3,Suns,Knicks,58 - 71,1, ,2,Jumper
+81,Mitchell Robinson,DEFENSIVE_REBOUND,None,4:09,3,Knicks,Suns,58 - 71,0,N/A,N/A,N/A
+82,Kelly Oubre,FOUL_ON_FLOOR,None,4:04,3,Suns,Knicks,58 - 71,1,N/A,N/A,N/A
+83,Allonzo Trier,FT,None,4:04,3,Knicks,Suns,59 - 71,0,N/A,1,N/A
+84,Allonzo Trier,FT,None,4:04,3,Knicks,Suns,60 - 71,0,N/A,1,N/A
+85,Josh Jackson,FG_MISS,Mitchell Robinson,3:44,3,Knicks,Suns,60 - 71,1,0,2,Dunk
+86,Mitchell Robinson,DEFENSIVE_REBOUND,None,3:41,3,Knicks,Suns,60 - 71,0,N/A,N/A,N/A
+87,Allonzo Trier,FG_MISS,Richaun Holmes,3:39,3,Suns,Knicks,60 - 71,0,3,2,Jumper
+88,Team,DEFENSIVE_REBOUND,None,3:39,3,Suns,Knicks,60 - 71,1,N/A,N/A,N/A
+89,Richaun Holmes,FG_ASSISTED,Devin Booker,3:25,3,Suns,Knicks,60 - 73,1,0,2,Layup
+90,Allonzo Trier,FOUL_ON_FLOOR,None,3:12,3,Knicks,Suns,60 - 73,0,N/A,N/A,N/A
+91,Allonzo Trier,TURNOVER,None,3:12,3,Knicks,Suns,60 - 73,0,N/A,N/A,N/A
+92,Dennis Smith,SUBSTITUTION,Dotson Damyean,3:12,3,Knicks,Suns,60 - 73,0,N/A,N/A,N/A
+93,Kelly Oubre,FG_MISS,None,2:54,3,Suns,Knicks,60 - 73,1,15,2,Jumper
+94,Mitchell Robinson,DEFENSIVE_REBOUND,None,2:52,3,Knicks,Suns,60 - 73,0,N/A,N/A,N/A
+95,Henry Ellenson,FG_MISS,None,2:38,3,Knicks,Suns,60 - 73,0,5,2,Jumper
+96,Team,DEFENSIVE_REBOUND,None,2:38,3,Suns,Knicks,60 - 73,1,N/A,N/A,N/A
+97,Mitchell Robinson,FOUL_ON_FLOOR,None,2:24,3,Knicks,Suns,60 - 73,0,N/A,N/A,N/A
+98,Josh Jackson,TURNOVER,None,2:16,3,Suns,Knicks,60 - 73,1,N/A,N/A,N/A
+99,Mitchell Robinson,FG_MISS,None,2:05,3,Knicks,Suns,60 - 73,0,0,2,Layup
+100,Mitchell Robinson,OFFENSIVE_REBOUND,None,2:04,3,Knicks,Suns,60 - 73,0,N/A,N/A,N/A
+101,Mitchell Robinson,FG_UNASSISTED,None,2:03,3,Knicks,Suns,62 - 73,0,0,2,Dunk
+102,Troy Daniels,FG_MISS,None,1:49,3,Suns,Knicks,62 - 73,1,26,3,Jumper
+103,Henry Ellenson,DEFENSIVE_REBOUND,None,1:47,3,Knicks,Suns,62 - 73,0,N/A,N/A,N/A
+104,Henry Ellenson's,FG_MISS,Kelly Oubre,1:36,3,Suns,Knicks,62 - 73,0,0,2,Layup
+105,Team,OFFENSIVE_REBOUND,None,1:36,3,Knicks,Suns,62 - 73,0,N/A,N/A,N/A
+106,Jamal Crawford,SUBSTITUTION,Booker Devin,1:36,3,Suns,Knicks,62 - 73,1,N/A,N/A,N/A
+107,Emmanuel Mudiay,FG_MISS,None,1:26,3,Knicks,Suns,62 - 73,0,16,2,Jumper
+108,Kelly Oubre,DEFENSIVE_REBOUND,None,1:25,3,Suns,Knicks,62 - 73,1,N/A,N/A,N/A
+109,Kelly Oubre,FG_MISS,None,1:21,3,Suns,Knicks,62 - 73,1,0,2,Dunk
+110,Team,OFFENSIVE_REBOUND,None,1:21,3,Suns,Knicks,62 - 73,1,N/A,N/A,N/A
+111,Kevin Knox,SUBSTITUTION,Ellenson Henry,1:20,3,Knicks,Suns,62 - 73,0,N/A,N/A,N/A
+112,Mitchell Robinson,JUMP_BALL,None,1:17,3,Suns,Knicks,62 - 73,1,N/A,N/A,N/A
+113,Kelly Oubre,FG_ASSISTED,Jamal Crawford,1:14,3,Suns,Knicks,62 - 75,1,0,2,Layup
+114,Kevin Knox,FOUL_ON_FLOOR,None,1:14,3,Knicks,Suns,62 - 75,0,N/A,N/A,N/A
+115,Kelly Oubre,FT,None,1:14,3,Suns,Knicks,62 - 76,1,N/A,1,N/A
+116,Emmanuel Mudiay,TURNOVER,Richaun Holmes,1:04,3,Knicks,Suns,62 - 76,0,N/A,N/A,N/A
+117,Richaun Holmes,FG_ASSISTED,Troy Daniels,53.4,3,Suns,Knicks,62 - 78,1,0,2,Dunk
+118,Team,Unknown,None,53.4,3,Knicks,Suns,62 - 78,0,N/A,N/A,N/A
+119,Lance Thomas,SUBSTITUTION,Knox Kevin,53.4,3,Knicks,Suns,62 - 78,0,N/A,N/A,N/A
+120,Dennis Smith,FG_MISS,None,38.2,3,Knicks,Suns,62 - 78,0,10,2,Jumper
+121,Troy Daniels,DEFENSIVE_REBOUND,None,36.2,3,Suns,Knicks,62 - 78,1,N/A,N/A,N/A
+122,Troy Daniels,FG_UNASSISTED,None,31.9,3,Suns,Knicks,62 - 81,1,27,2,Jumper
+123,Allonzo Trier,FG_UNASSISTED,None,15.2,3,Knicks,Suns,64 - 81,0,16,2,Jumper
+124,Troy Daniels,FG_MISS,None,3.1,3,Suns,Knicks,64 - 81,1,25,3,Jumper
+125,Dennis Smith,DEFENSIVE_REBOUND,None,0.1,3,Knicks,Suns,64 - 81,0,N/A,N/A,N/A
+126,End of,Unknown,None,0.0,3,Suns,Knicks,64 - 81,1,N/A,N/A,N/A
+0,Lance Thomas,FG_MISS,None,11:44,4,Knicks,Suns,64 - 81,0,0,2,Layup
+1,Troy Daniels,DEFENSIVE_REBOUND,None,11:40,4,Suns,Knicks,64 - 81,1,N/A,N/A,N/A
+2,Troy Daniels,FG_ASSISTED,Jamal Crawford,11:33,4,Suns,Knicks,64 - 83,1,22,2,Jumper
+3,Dennis Smith,FG_UNASSISTED,None,11:16,4,Knicks,Suns,66 - 83,0,12,2,Jumper
+4,Richaun Holmes,FG_ASSISTED,Troy Daniels,10:54,4,Suns,Knicks,66 - 85,1,0,2,Dunk
+5,Dennis Smith,FG_UNASSISTED,None,10:30,4,Knicks,Suns,68 - 85,0,21,2,Jumper
+6,Josh Jackson,FG_MISS,None,10:08,4,Suns,Knicks,68 - 85,1, ,2,Jumper
+7,Lance Thomas,DEFENSIVE_REBOUND,None,10:04,4,Knicks,Suns,68 - 85,0,N/A,N/A,N/A
+8,Lance Thomas,FG_ASSISTED,Allonzo Trier,9:54,4,Knicks,Suns,70 - 85,0,9,2,Jumper
+9,Kelly Oubre,FG_UNASSISTED,None,9:35,4,Suns,Knicks,70 - 87,1,7,2,Jumper
+10,Allonzo Trier,FG_MISS,None,9:12,4,Knicks,Suns,70 - 87,0,19,2,Jumper
+11,Richaun Holmes,DEFENSIVE_REBOUND,None,9:12,4,Suns,Knicks,70 - 87,1,N/A,N/A,N/A
+12,Richaun Holmes,FOUL_ON_FLOOR,None,9:00,4,Suns,Knicks,70 - 87,1,N/A,N/A,N/A
+13,Mikal Bridges,SUBSTITUTION,Jackson Josh,9:00,4,Suns,Knicks,70 - 87,1,N/A,N/A,N/A
+14,Damyean Dotson,SUBSTITUTION,Mudiay Emmanuel,9:00,4,Knicks,Suns,70 - 87,0,N/A,N/A,N/A
+15,Richaun Holmes,TURNOVER,None,9:00,4,Suns,Knicks,70 - 87,1,N/A,N/A,N/A
+16,Dennis Smith,FG_ASSISTED,Damyean Dotson,8:49,4,Knicks,Suns,73 - 87,0,26,3,Jumper
+17,Troy Daniels,FG_MISS,Mitchell Robinson,8:24,4,Knicks,Suns,73 - 87,1,26,3,Jumper
+18,Allonzo Trier,DEFENSIVE_REBOUND,None,8:20,4,Knicks,Suns,73 - 87,0,N/A,N/A,N/A
+19,Dennis Smith,FG_MISS,None,8:13,4,Knicks,Suns,73 - 87,0,25,2,Jumper
+20,Mitchell Robinson,OFFENSIVE_REBOUND,None,8:09,4,Knicks,Suns,73 - 87,0,N/A,N/A,N/A
+21,Mitchell Robinson's,FG_MISS,Troy Daniels,8:07,4,Suns,Knicks,73 - 87,0, ,2,Jumper
+22,Troy Daniels,DEFENSIVE_REBOUND,None,8:07,4,Suns,Knicks,73 - 87,1,N/A,N/A,N/A
+23,Kelly Oubre,FG_UNASSISTED,None,7:54,4,Suns,Knicks,73 - 90,1,25,3,Jumper
+24,Team,Unknown,None,7:51,4,Knicks,Suns,73 - 90,0,N/A,N/A,N/A
+25,Tyler Johnson,SUBSTITUTION,Oubre Kelly,7:51,4,Suns,Knicks,73 - 90,1,N/A,N/A,N/A
+26,Deandre Ayton,SUBSTITUTION,Crawford Jamal,7:51,4,Suns,Knicks,73 - 90,1,N/A,N/A,N/A
+27,Devin Booker,SUBSTITUTION,Holmes Richaun,7:51,4,Suns,Knicks,73 - 90,1,N/A,N/A,N/A
+28,Noah Vonleh,SUBSTITUTION,Thomas Lance,7:51,4,Knicks,Suns,73 - 90,0,N/A,N/A,N/A
+29,Mitchell Robinson's,FG_MISS,Troy Daniels,7:33,4,Suns,Knicks,73 - 90,0,0,2,Layup
+30,Devin Booker,DEFENSIVE_REBOUND,None,7:30,4,Suns,Knicks,73 - 90,1,N/A,N/A,N/A
+31,Deandre Ayton,FG_ASSISTED,Tyler Johnson,7:14,4,Suns,Knicks,73 - 92,1,15,2,Jumper
+32,Damyean Dotson,FG_ASSISTED,Noah Vonleh,6:56,4,Knicks,Suns,76 - 92,0,25,2,Jumper
+33,Tyler Johnson,FG_UNASSISTED,None,6:39,4,Suns,Knicks,76 - 95,1,25,3,Jumper
+34,Allonzo Trier,FG_MISS,None,6:17,4,Knicks,Suns,76 - 95,0,23,3,Jumper
+35,Tyler Johnson,DEFENSIVE_REBOUND,None,6:17,4,Suns,Knicks,76 - 95,1,N/A,N/A,N/A
+36,Devin Booker,FG_ASSISTED,Tyler Johnson,6:10,4,Suns,Knicks,76 - 98,1,26,3,Jumper
+37,Damyean Dotson,FG_ASSISTED,Dennis Smith,5:51,4,Knicks,Suns,79 - 98,0,26,3,Jumper
+38,Devin Booker,FG_MISS,None,5:39,4,Suns,Knicks,79 - 98,1,26,3,Jumper
+39,Dennis Smith,DEFENSIVE_REBOUND,None,5:37,4,Knicks,Suns,79 - 98,0,N/A,N/A,N/A
+40,Dennis Smith,FG_UNASSISTED,None,5:30,4,Knicks,Suns,81 - 98,0, ,2,Jumper
+41,Team,Unknown,None,5:30,4,Suns,Knicks,81 - 98,1,N/A,N/A,N/A
+42,DeAndre Jordan,SUBSTITUTION,Robinson Mitchell,5:30,4,Knicks,Suns,81 - 98,0,N/A,N/A,N/A
+43,Troy Daniels,FG_MISS,None,5:15,4,Suns,Knicks,81 - 98,1,26,3,Jumper
+44,Tyler Johnson,OFFENSIVE_REBOUND,None,5:09,4,Suns,Knicks,81 - 98,1,N/A,N/A,N/A
+45,Tyler Johnson,FG_UNASSISTED,None,5:09,4,Suns,Knicks,81 - 100,1,1,2,Jumper
+46,DeAndre Jordan,FG_ASSISTED,Damyean Dotson,4:48,4,Knicks,Suns,83 - 100,0,3,2,Jumper
+47,Mikal Bridges,FG_ASSISTED,Devin Booker,4:40,4,Suns,Knicks,83 - 103,1,23,3,Jumper
+48,Damyean Dotson,FG_ASSISTED,Allonzo Trier,4:12,4,Knicks,Suns,85 - 103,0,0,2,Layup
+49,Deandre Ayton,Unknown,None,4:12,4,Suns,Knicks,85 - 103,1,N/A,N/A,N/A
+50,Devin Booker,FOUL_ON_FLOOR,None,3:52,4,Suns,Knicks,85 - 103,1,N/A,N/A,N/A
+51,Tyler Johnson,TURNOVER,Dennis Smith,3:52,4,Suns,Knicks,85 - 103,1,N/A,N/A,N/A
+52,Noah Vonleh,FG_MISS,None,3:41,4,Knicks,Suns,85 - 103,0,25,3,Jumper
+53,Deandre Ayton,DEFENSIVE_REBOUND,None,3:37,4,Suns,Knicks,85 - 103,1,N/A,N/A,N/A
+54,Deandre Ayton,FOUL_ON_FLOOR,None,3:33,4,Suns,Knicks,85 - 103,1,N/A,N/A,N/A
+55,Deandre Ayton,TURNOVER,None,3:33,4,Suns,Knicks,85 - 103,1,N/A,N/A,N/A
+56,Allonzo Trier,FG_MISS,None,3:22,4,Knicks,Suns,85 - 103,0,18,2,Jumper
+57,DeAndre Jordan,OFFENSIVE_REBOUND,None,3:19,4,Knicks,Suns,85 - 103,0,N/A,N/A,N/A
+58,Noah Vonleh,FG_MISS,None,3:11,4,Knicks,Suns,85 - 103,0,5,2,Jumper
+59,DeAndre Jordan,OFFENSIVE_REBOUND,None,3:11,4,Knicks,Suns,85 - 103,0,N/A,N/A,N/A
+60,DeAndre Jordan,FG_UNASSISTED,None,3:06,4,Knicks,Suns,87 - 103,0,0,2,Dunk
+61,Devin Booker,FG_MISS,None,2:45,4,Suns,Knicks,87 - 103,1,14,2,Jumper
+62,Damyean Dotson,DEFENSIVE_REBOUND,None,2:43,4,Knicks,Suns,87 - 103,0,N/A,N/A,N/A
+63,Allonzo Trier,TURNOVER,None,2:36,4,Knicks,Suns,87 - 103,0,N/A,N/A,N/A
+64,Kelly Oubre,SUBSTITUTION,Johnson Tyler,2:36,4,Suns,Knicks,87 - 103,1,N/A,N/A,N/A
+65,Devin Booker,FG_UNASSISTED,None,2:16,4,Suns,Knicks,87 - 105,1,11,2,Jumper
+66,Dennis Smith,FG_MISS,None,2:04,4,Knicks,Suns,87 - 105,0,26,3,Jumper
+67,Kelly Oubre,DEFENSIVE_REBOUND,None,2:02,4,Suns,Knicks,87 - 105,1,N/A,N/A,N/A
+68,DeAndre Jordan,FOUL_ON_FLOOR,None,2:00,4,Knicks,Suns,87 - 105,0,N/A,N/A,N/A
+69,Jamal Crawford,SUBSTITUTION,Daniels Troy,2:00,4,Suns,Knicks,89 - 105,1,N/A,N/A,N/A
+70,Devin Booker,FG_MISS,None,1:52,4,Suns,Knicks,87 - 105,1,18,2,Jumper
+71,DeAndre Jordan,DEFENSIVE_REBOUND,None,1:50,4,Knicks,Suns,87 - 105,0,N/A,N/A,N/A
+72,Devin Booker,FOUL_ON_FLOOR,None,1:39,4,Suns,Knicks,87 - 105,1,N/A,N/A,N/A
+73,Dennis Smith,FT,None,1:39,4,Knicks,Suns,88 - 105,0,N/A,1,N/A
+74,Elie Okobo,SUBSTITUTION,Booker Devin,1:39,4,Suns,Knicks,88 - 105,1,N/A,N/A,N/A
+75,Dragan Bender,SUBSTITUTION,Ayton Deandre,1:39,4,Suns,Knicks,88 - 105,1,N/A,N/A,N/A
+76,De'Anthony Melton,SUBSTITUTION,Bridges Mikal,1:39,4,Suns,Knicks,88 - 105,1,N/A,N/A,N/A
+77,Dennis Smith,FT,None,1:39,4,Knicks,Suns,89 - 105,0,N/A,1,N/A
+78,Allonzo Trier,FOUL_ON_FLOOR,None,1:34,4,Knicks,Suns,89 - 105,0,N/A,N/A,N/A
+79,Elie Okobo,FT_MISS,None,1:34,4,Suns,Knicks,89 - 105,1,N/A,1,N/A
+80,Team,OFFENSIVE_REBOUND,None,1:34,4,Suns,Knicks,89 - 105,1,N/A,N/A,N/A
+81,Elie Okobo,FT_MISS,None,1:34,4,Suns,Knicks,89 - 105,1,N/A,1,N/A
+82,Damyean Dotson,DEFENSIVE_REBOUND,None,1:31,4,Knicks,Suns,89 - 105,0,N/A,N/A,N/A
+83,DeAndre Jordan,FG_ASSISTED,Dennis Smith,1:23,4,Knicks,Suns,91 - 105,0,0,2,Dunk
+84,Kelly Oubre,FG_MISS,None,1:00,4,Suns,Knicks,91 - 105,1,24,3,Jumper
+85,DeAndre Jordan,DEFENSIVE_REBOUND,None,58.9,4,Knicks,Suns,91 - 105,0,N/A,N/A,N/A
+86,Allonzo Trier,FG_ASSISTED,Dennis Smith,50.3,4,Knicks,Suns,94 - 105,0,23,3,Jumper
+87,Damyean Dotson,FOUL_ON_FLOOR,None,32.2,4,Knicks,Suns,94 - 105,0,N/A,N/A,N/A
+88,Elie Okobo,FT,None,32.2,4,Suns,Knicks,94 - 106,1,N/A,1,N/A
+89,Elie Okobo,FT,None,32.2,4,Suns,Knicks,94 - 107,1,N/A,1,N/A
+90,Elie Okobo,FT_MISS,None,32.2,4,Suns,Knicks,94 - 107,1,N/A,1,N/A
+91,DeAndre Jordan,DEFENSIVE_REBOUND,None,28.6,4,Knicks,Suns,94 - 107,0,N/A,N/A,N/A
+92,DeAndre Jordan,FG_ASSISTED,Dennis Smith,23.3,4,Knicks,Suns,96 - 107,0,0,2,Dunk
+93,End of,Unknown,None,0.0,4,Suns,Knicks,96 - 107,1,N/A,N/A,N/A
+94,End of,Unknown,None,0.0,4,Suns,Knicks,96 - 107,1,N/A,N/A,N/A

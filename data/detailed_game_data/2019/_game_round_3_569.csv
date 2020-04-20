@@ -1,0 +1,431 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Bismack Biyombo,JUMP_BALL,None,12:00,1,Hornets,Lakers,0 - 0,0,N/A,N/A,N/A
+1,Bismack Biyombo,TURNOVER,Rajon Rondo,11:38,1,Hornets,Lakers,0 - 0,0,N/A,N/A,N/A
+2,Kyle Kuzma,FG_ASSISTED,JaVale McGee,11:34,1,Lakers,Hornets,0 - 2,1,0,2,Dunk
+3,Miles Bridges,FG_MISS,None,11:11,1,Hornets,Lakers,0 - 2,0,11,2,Jumper
+4,JaVale McGee,DEFENSIVE_REBOUND,None,11:09,1,Lakers,Hornets,0 - 2,1,N/A,N/A,N/A
+5,LeBron James,FG_MISS,None,10:54,1,Lakers,Hornets,0 - 2,1,25,2,Jumper
+6,Rajon Rondo,OFFENSIVE_REBOUND,None,10:52,1,Lakers,Hornets,0 - 2,1,N/A,N/A,N/A
+7,LeBron James,FG_ASSISTED,Kentavious Caldwell-Pope,10:50,1,Lakers,Hornets,0 - 4,1,0,2,Dunk
+8,Marvin Williams,FG_MISS,None,10:37,1,Hornets,Lakers,0 - 4,0,27,3,Jumper
+9,JaVale McGee,DEFENSIVE_REBOUND,None,10:32,1,Lakers,Hornets,0 - 4,1,N/A,N/A,N/A
+10,Rajon Rondo,FG_MISS,None,10:16,1,Lakers,Hornets,0 - 4,1,25,2,Jumper
+11,Bismack Biyombo,DEFENSIVE_REBOUND,None,10:13,1,Hornets,Lakers,0 - 4,0,N/A,N/A,N/A
+12,Dwayne Bacon,FG_ASSISTED,Kemba Walker,10:05,1,Hornets,Lakers,2 - 4,0,13,2,Jumper
+13,LeBron James,TURNOVER,Marvin Williams,9:45,1,Lakers,Hornets,2 - 4,1,N/A,N/A,N/A
+14,Marvin Williams,FG_ASSISTED,Miles Bridges,9:41,1,Hornets,Lakers,5 - 4,0,26,3,Jumper
+15,JaVale McGee,FG_MISS,None,9:21,1,Lakers,Hornets,5 - 4,1,0,2,Layup
+16,Bismack Biyombo,DEFENSIVE_REBOUND,None,9:19,1,Hornets,Lakers,5 - 4,0,N/A,N/A,N/A
+17,Kentavious Caldwell-Pope,FOUL_ON_FLOOR,None,9:16,1,Lakers,Hornets,5 - 4,1,N/A,N/A,N/A
+18,Miles Bridges,FG_MISS,None,9:09,1,Hornets,Lakers,5 - 4,0,0,2,Layup
+19,Bismack Biyombo,OFFENSIVE_REBOUND,None,9:07,1,Hornets,Lakers,5 - 4,0,N/A,N/A,N/A
+20,Bismack Biyombo,FG_MISS,JaVale McGee,9:06,1,Lakers,Hornets,5 - 4,0,4,2,Jumper
+21,Rajon Rondo,DEFENSIVE_REBOUND,None,9:03,1,Lakers,Hornets,5 - 4,1,N/A,N/A,N/A
+22,Rajon Rondo,FG_MISS,None,9:01,1,Lakers,Hornets,5 - 4,1,0,2,Layup
+23,Kemba Walker,DEFENSIVE_REBOUND,None,9:01,1,Hornets,Lakers,5 - 4,0,N/A,N/A,N/A
+24,Kemba Walker,FG_MISS,None,8:54,1,Hornets,Lakers,5 - 4,0,-,2,Jumper
+25,Team,OFFENSIVE_REBOUND,None,8:52,1,Hornets,Lakers,5 - 4,0,N/A,N/A,N/A
+26,Kyle Kuzma,FOUL_ON_FLOOR,None,8:52,1,Lakers,Hornets,5 - 4,1,N/A,N/A,N/A
+27,Marvin Williams,FG_MISS,None,8:48,1,Hornets,Lakers,5 - 4,0,-,2,Jumper
+28,Miles Bridges,OFFENSIVE_REBOUND,None,8:45,1,Hornets,Lakers,5 - 4,0,N/A,N/A,N/A
+29,Miles Bridges,FG_UNASSISTED,None,8:44,1,Hornets,Lakers,8 - 4,0,24,3,Jumper
+30,LeBron James,TURNOVER,Miles Bridges,8:34,1,Lakers,Hornets,8 - 4,1,N/A,N/A,N/A
+31,Dwayne Bacon,FG_ASSISTED,Miles Bridges,8:29,1,Hornets,Lakers,10 - 4,0,-,2,Jumper
+32,Kyle Kuzma,FG_MISS,None,8:18,1,Lakers,Hornets,10 - 4,1,26,3,Jumper
+33,Marvin Williams,DEFENSIVE_REBOUND,None,8:14,1,Hornets,Lakers,10 - 4,0,N/A,N/A,N/A
+34,Kemba Walker,FG_MISS,None,8:10,1,Hornets,Lakers,10 - 4,0,25,3,Jumper
+35,JaVale McGee,DEFENSIVE_REBOUND,None,8:07,1,Lakers,Hornets,10 - 4,1,N/A,N/A,N/A
+36,LeBron James,FG_MISS,None,8:01,1,Lakers,Hornets,10 - 4,1,27,3,Jumper
+37,Marvin Williams,DEFENSIVE_REBOUND,None,7:57,1,Hornets,Lakers,10 - 4,0,N/A,N/A,N/A
+38,Dwayne Bacon,FG_UNASSISTED,None,7:51,1,Hornets,Lakers,12 - 4,0,13,2,Jumper
+39,Team,Unknown,None,7:49,1,Lakers,Hornets,12 - 4,1,N/A,N/A,N/A
+40,LeBron James,FG_UNASSISTED,None,7:30,1,Lakers,Hornets,12 - 6,1,2,2,Jumper
+41,Dwayne Bacon,FOUL_ON_FLOOR,None,7:30,1,Hornets,Lakers,12 - 6,0,N/A,N/A,N/A
+42,LeBron James,FT,None,7:30,1,Lakers,Hornets,12 - 7,1,N/A,1,N/A
+43,Miles Bridges,FG_ASSISTED,Dwayne Bacon,7:14,1,Hornets,Lakers,14 - 7,0,9,2,Jumper
+44,Kentavious Caldwell-Pope,FG_ASSISTED,LeBron James,6:59,1,Lakers,Hornets,14 - 10,1,25,3,Jumper
+45,Dwayne Bacon,FG_ASSISTED,Miles Bridges,6:40,1,Hornets,Lakers,16 - 10,0,14,2,Jumper
+46,LeBron James,TURNOVER,Dwayne Bacon,6:25,1,Lakers,Hornets,16 - 10,1,N/A,N/A,N/A
+47,Marvin Williams,FG_ASSISTED,Kemba Walker,6:20,1,Hornets,Lakers,19 - 10,0,27,3,Jumper
+48,Kyle Kuzma,FG_UNASSISTED,None,6:05,1,Lakers,Hornets,19 - 12,1,17,2,Jumper
+49,Bismack Biyombo,FG_ASSISTED,Kemba Walker,5:49,1,Hornets,Lakers,21 - 12,0,0,2,Layup
+50,Miles Bridges,FOUL_ON_FLOOR,None,5:44,1,Hornets,Lakers,21 - 12,0,N/A,N/A,N/A
+51,Kentavious Caldwell-Pope,FT,None,5:44,1,Lakers,Hornets,21 - 13,1,N/A,1,N/A
+52,Kentavious Caldwell-Pope,FT,None,5:44,1,Lakers,Hornets,21 - 14,1,N/A,1,N/A
+53,Jeremy Lamb,SUBSTITUTION,Williams Marvin,5:44,1,Hornets,Lakers,21 - 14,0,N/A,N/A,N/A
+54,Kentavious Caldwell-Pope,FT,None,5:44,1,Lakers,Hornets,21 - 15,1,N/A,1,N/A
+55,Kemba Walker,FG_MISS,None,5:29,1,Hornets,Lakers,21 - 15,0,25,3,Jumper
+56,JaVale McGee,DEFENSIVE_REBOUND,None,5:27,1,Lakers,Hornets,21 - 15,1,N/A,N/A,N/A
+57,Kentavious Caldwell-Pope,FG_MISS,None,5:09,1,Lakers,Hornets,21 - 15,1,27,2,Jumper
+58,Bismack Biyombo,DEFENSIVE_REBOUND,None,5:07,1,Hornets,Lakers,21 - 15,0,N/A,N/A,N/A
+59,Dwayne Bacon,FG_MISS,None,5:00,1,Hornets,Lakers,21 - 15,0,18,2,Jumper
+60,Kentavious Caldwell-Pope,DEFENSIVE_REBOUND,None,4:57,1,Lakers,Hornets,21 - 15,1,N/A,N/A,N/A
+61,LeBron James,TURNOVER,None,4:52,1,Lakers,Hornets,21 - 15,1,N/A,N/A,N/A
+62,Willy Hernangomez,SUBSTITUTION,Biyombo Bismack,4:52,1,Hornets,Lakers,21 - 15,0,N/A,N/A,N/A
+63,Dwayne Bacon,TURNOVER,None,4:42,1,Hornets,Lakers,21 - 15,0,N/A,N/A,N/A
+64,Lance Stephenson,SUBSTITUTION,James LeBron,4:42,1,Lakers,Hornets,21 - 15,1,N/A,N/A,N/A
+65,Kentavious Caldwell-Pope,FG_ASSISTED,Rajon Rondo,4:38,1,Lakers,Hornets,21 - 17,1,19,2,Jumper
+66,Miles Bridges,FG_ASSISTED,Willy Hernangomez,4:23,1,Hornets,Lakers,23 - 17,0,0,2,Dunk
+67,Rajon Rondo,TURNOVER,None,4:08,1,Lakers,Hornets,23 - 17,1,N/A,N/A,N/A
+68,Team,Unknown,None,4:08,1,Hornets,Lakers,23 - 17,0,N/A,N/A,N/A
+69,Johnathan Williams,SUBSTITUTION,McGee JaVale,4:08,1,Lakers,Hornets,23 - 17,1,N/A,N/A,N/A
+70,Kemba Walker,FG_UNASSISTED,None,3:57,1,Hornets,Lakers,25 - 17,0,0,2,Layup
+71,Kentavious Caldwell-Pope,FG_ASSISTED,Rajon Rondo,3:39,1,Lakers,Hornets,25 - 20,1,23,3,Jumper
+72,Willy Hernangomez,FG_ASSISTED,Miles Bridges,3:15,1,Hornets,Lakers,27 - 20,0,9,2,Jumper
+73,Johnathan Williams,FG_ASSISTED,Kentavious Caldwell-Pope,3:01,1,Lakers,Hornets,27 - 22,1,0,2,Dunk
+74,Willy Hernangomez,FG_MISS,None,2:46,1,Hornets,Lakers,27 - 22,0,27,3,Jumper
+75,Johnathan Williams,DEFENSIVE_REBOUND,None,2:44,1,Lakers,Hornets,27 - 22,1,N/A,N/A,N/A
+76,Kyle Kuzma,FG_ASSISTED,Rajon Rondo,2:33,1,Lakers,Hornets,27 - 24,1,0,2,Dunk
+77,Team,Unknown,None,2:33,1,Hornets,Lakers,27 - 24,0,N/A,N/A,N/A
+78,Frank Kaminsky,SUBSTITUTION,Bridges Miles,2:33,1,Hornets,Lakers,27 - 24,0,N/A,N/A,N/A
+79,Willy Hernangomez,FG_ASSISTED,Kemba Walker,2:21,1,Hornets,Lakers,29 - 24,0,0,2,Layup
+80,Kentavious Caldwell-Pope,FG_MISS,None,2:07,1,Lakers,Hornets,29 - 24,1,25,3,Jumper
+81,Willy Hernangomez,DEFENSIVE_REBOUND,None,2:02,1,Hornets,Lakers,29 - 24,0,N/A,N/A,N/A
+82,Dwayne Bacon,FG_MISS,None,1:55,1,Hornets,Lakers,29 - 24,0,28,3,Jumper
+83,Jeremy Lamb,OFFENSIVE_REBOUND,None,1:52,1,Hornets,Lakers,29 - 24,0,N/A,N/A,N/A
+84,Jeremy Lamb,FG_MISS,None,1:52,1,Hornets,Lakers,29 - 24,0, ,2,Jumper
+85,Kentavious Caldwell-Pope,DEFENSIVE_REBOUND,None,1:52,1,Lakers,Hornets,29 - 24,1,N/A,N/A,N/A
+86,Kentavious Caldwell-Pope's,FG_MISS,Frank Kaminsky,1:37,1,Hornets,Lakers,29 - 24,1,0,2,Layup
+87,Team,OFFENSIVE_REBOUND,None,1:37,1,Lakers,Hornets,29 - 24,1,N/A,N/A,N/A
+88,Devonte' Graham,SUBSTITUTION,Bacon Dwayne,1:37,1,Hornets,Lakers,29 - 24,0,N/A,N/A,N/A
+89,Malik Monk,SUBSTITUTION,Walker Kemba,1:37,1,Hornets,Lakers,29 - 24,0,N/A,N/A,N/A
+90,Kyle Kuzma,FG_MISS,None,1:29,1,Lakers,Hornets,29 - 24,1, ,3,Jumper
+91,Johnathan Williams,OFFENSIVE_REBOUND,None,1:25,1,Lakers,Hornets,29 - 24,1,N/A,N/A,N/A
+92,Johnathan Williams,FG_UNASSISTED,None,1:24,1,Lakers,Hornets,29 - 26,1, ,2,Jumper
+93,Jeremy Lamb,FG_MISS,None,1:10,1,Hornets,Lakers,29 - 26,0,27,3,Jumper
+94,Kyle Kuzma,DEFENSIVE_REBOUND,None,1:08,1,Lakers,Hornets,29 - 26,1,N/A,N/A,N/A
+95,Kyle Kuzma,FG_UNASSISTED,None,1:01,1,Lakers,Hornets,29 - 28,1, ,2,Jumper
+96,Willy Hernangomez,Unknown,None,1:01,1,Hornets,Lakers,29 - 28,0,N/A,N/A,N/A
+97,Devonte' Graham,FG_ASSISTED,Frank Kaminsky,49.5,1,Hornets,Lakers,32 - 28,0,24,3,Jumper
+98,Kyle Kuzma,FG_UNASSISTED,None,37.4,1,Lakers,Hornets,32 - 30,1,21,2,Jumper
+99,Jeremy Lamb,FG_MISS,None,32.2,1,Hornets,Lakers,32 - 30,0, ,2,Jumper
+100,Kentavious Caldwell-Pope,DEFENSIVE_REBOUND,None,28.9,1,Lakers,Hornets,32 - 30,1,N/A,N/A,N/A
+101,Rajon Rondo,FG_MISS,None,22.1,1,Lakers,Hornets,32 - 30,1,0,2,Layup
+102,Frank Kaminsky,DEFENSIVE_REBOUND,None,19.0,1,Hornets,Lakers,32 - 30,0,N/A,N/A,N/A
+103,Devonte' Graham,FG_UNASSISTED,None,17.5,1,Hornets,Lakers,34 - 30,0, ,2,Jumper
+104,Johnathan Williams,FOUL_ON_FLOOR,None,17.5,1,Lakers,Hornets,34 - 30,1,N/A,N/A,N/A
+105,Miles Bridges,SUBSTITUTION,Hernangomez Willy,17.5,1,Hornets,Lakers,34 - 30,0,N/A,N/A,N/A
+106,Dwayne Bacon,SUBSTITUTION,Kaminsky Frank,17.5,1,Hornets,Lakers,34 - 30,0,N/A,N/A,N/A
+107,Devonte' Graham,FT,None,17.5,1,Hornets,Lakers,35 - 30,0,N/A,1,N/A
+108,Devonte' Graham,FOUL_ON_FLOOR,None,3.9,1,Hornets,Lakers,35 - 30,0,N/A,N/A,N/A
+109,Lance Stephenson,FG_ASSISTED,Rajon Rondo,1.3,1,Lakers,Hornets,35 - 33,1,27,3,Jumper
+110,End of,Unknown,None,0.0,1,Lakers,Hornets,35 - 33,1,N/A,N/A,N/A
+0,Alex Caruso,SUBSTITUTION,Kuzma Kyle,12:00,2,Lakers,Hornets,35 - 33,1,N/A,N/A,N/A
+1,LeBron James,SUBSTITUTION,Caldwell-Pope Kentavious,12:00,2,Lakers,Hornets,35 - 33,1,N/A,N/A,N/A
+2,Moritz Wagner,SUBSTITUTION,Rondo Rajon,12:00,2,Lakers,Hornets,35 - 33,1,N/A,N/A,N/A
+3,Frank Kaminsky,SUBSTITUTION,Bridges Miles,12:00,2,Hornets,Lakers,35 - 33,0,N/A,N/A,N/A
+4,Marvin Williams,SUBSTITUTION,Bacon Dwayne,12:00,2,Hornets,Lakers,35 - 33,0,N/A,N/A,N/A
+5,Alex Caruso,FG_ASSISTED,LeBron James,11:49,2,Lakers,Hornets,35 - 35,1,0,2,Layup
+6,Frank Kaminsky,FG_ASSISTED,Devonte' Graham,11:28,2,Hornets,Lakers,37 - 35,0,0,2,Dunk
+7,Lance Stephenson,FG_UNASSISTED,None,11:14,2,Lakers,Hornets,37 - 37,1,16,2,Jumper
+8,Marvin Williams,FG_MISS,None,11:01,2,Hornets,Lakers,37 - 37,0,26,3,Jumper
+9,Team,DEFENSIVE_REBOUND,None,11:00,2,Lakers,Hornets,37 - 37,1,N/A,N/A,N/A
+10,Moritz Wagner,FG_MISS,None,10:48,2,Lakers,Hornets,37 - 37,1,0,2,Layup
+11,Johnathan Williams,OFFENSIVE_REBOUND,None,10:43,2,Lakers,Hornets,37 - 37,1,N/A,N/A,N/A
+12,Johnathan Williams,FG_UNASSISTED,None,10:43,2,Lakers,Hornets,37 - 39,1, ,2,Jumper
+13,Frank Kaminsky,FG_ASSISTED,Malik Monk,10:22,2,Hornets,Lakers,40 - 39,0,26,2,Jumper
+14,LeBron James,FG_ASSISTED,Alex Caruso,10:06,2,Lakers,Hornets,40 - 41,1,0,2,Dunk
+15,Jeremy Lamb,FG_MISS,None,9:47,2,Hornets,Lakers,40 - 41,0,29,3,Jumper
+16,Lance Stephenson,DEFENSIVE_REBOUND,None,9:45,2,Lakers,Hornets,40 - 41,1,N/A,N/A,N/A
+17,Frank Kaminsky,FOUL_ON_FLOOR,None,9:38,2,Hornets,Lakers,40 - 41,0,N/A,N/A,N/A
+18,Alex Caruso,FG_UNASSISTED,None,9:30,2,Lakers,Hornets,40 - 43,1,0,2,Layup
+19,Malik Monk,FG_MISS,None,9:16,2,Hornets,Lakers,40 - 43,0,10,2,Jumper
+20,Alex Caruso,DEFENSIVE_REBOUND,None,9:13,2,Lakers,Hornets,40 - 43,1,N/A,N/A,N/A
+21,Frank Kaminsky,FOUL_ON_FLOOR,None,8:58,2,Hornets,Lakers,40 - 43,0,N/A,N/A,N/A
+22,Johnathan Williams,FT,None,8:58,2,Lakers,Hornets,40 - 44,1,N/A,1,N/A
+23,Johnathan Williams,FT_MISS,None,8:58,2,Lakers,Hornets,40 - 44,1,N/A,1,N/A
+24,Frank Kaminsky,DEFENSIVE_REBOUND,None,8:56,2,Hornets,Lakers,40 - 44,0,N/A,N/A,N/A
+25,Jeremy Lamb,FG_MISS,None,8:42,2,Hornets,Lakers,40 - 44,0,19,2,Jumper
+26,Lance Stephenson,DEFENSIVE_REBOUND,None,8:40,2,Lakers,Hornets,40 - 44,1,N/A,N/A,N/A
+27,Alex Caruso,FG_MISS,None,8:37,2,Lakers,Hornets,40 - 44,1, ,2,Jumper
+28,Moritz Wagner,OFFENSIVE_REBOUND,None,8:35,2,Lakers,Hornets,40 - 44,1,N/A,N/A,N/A
+29,Moritz Wagner,FG_MISS,None,8:34,2,Lakers,Hornets,40 - 44,1, ,2,Jumper
+30,Lance Stephenson,OFFENSIVE_REBOUND,None,8:32,2,Lakers,Hornets,40 - 44,1,N/A,N/A,N/A
+31,Lance Stephenson,FG_MISS,None,8:29,2,Lakers,Hornets,40 - 44,1,0,2,Layup
+32,Marvin Williams,DEFENSIVE_REBOUND,None,8:26,2,Hornets,Lakers,40 - 44,0,N/A,N/A,N/A
+33,Marvin Williams,FG_UNASSISTED,None,8:21,2,Hornets,Lakers,42 - 44,0,0,2,Layup
+34,Johnathan Williams's,FG_MISS,Marvin Williams,8:12,2,Hornets,Lakers,42 - 44,1,0,2,Layup
+35,Malik Monk,DEFENSIVE_REBOUND,None,8:08,2,Hornets,Lakers,42 - 44,0,N/A,N/A,N/A
+36,Malik Monk,TURNOVER,Alex Caruso,8:07,2,Hornets,Lakers,42 - 44,0,N/A,N/A,N/A
+37,LeBron James,TURNOVER,Frank Kaminsky,7:57,2,Lakers,Hornets,42 - 44,1,N/A,N/A,N/A
+38,Alex Caruso,FOUL_ON_FLOOR,None,7:51,2,Lakers,Hornets,42 - 44,1,N/A,N/A,N/A
+39,Jeremy Lamb,FT,None,7:51,2,Hornets,Lakers,43 - 44,0,N/A,1,N/A
+40,Team,Unknown,None,7:51,2,Lakers,Hornets,43 - 44,1,N/A,N/A,N/A
+41,Kyle Kuzma,SUBSTITUTION,Williams Johnathan,7:51,2,Lakers,Hornets,43 - 44,1,N/A,N/A,N/A
+42,JaVale McGee,SUBSTITUTION,Wagner Moritz,7:51,2,Lakers,Hornets,43 - 44,1,N/A,N/A,N/A
+43,Kemba Walker,SUBSTITUTION,Graham Devonte',7:51,2,Hornets,Lakers,43 - 44,0,N/A,N/A,N/A
+44,Bismack Biyombo,SUBSTITUTION,Kaminsky Frank,7:51,2,Hornets,Lakers,43 - 44,0,N/A,N/A,N/A
+45,Jeremy Lamb,FT,None,7:51,2,Hornets,Lakers,44 - 44,0,N/A,1,N/A
+46,Kyle Kuzma,FG_ASSISTED,LeBron James,7:38,2,Lakers,Hornets,44 - 47,1,23,3,Jumper
+47,Malik Monk,FG_MISS,None,7:16,2,Hornets,Lakers,44 - 47,0,26,3,Jumper
+48,Lance Stephenson,DEFENSIVE_REBOUND,None,7:14,2,Lakers,Hornets,44 - 47,1,N/A,N/A,N/A
+49,Alex Caruso,FG_MISS,None,6:51,2,Lakers,Hornets,44 - 47,1,24,3,Jumper
+50,Jeremy Lamb,DEFENSIVE_REBOUND,None,6:49,2,Hornets,Lakers,44 - 47,0,N/A,N/A,N/A
+51,Kemba Walker,FG_UNASSISTED,None,6:43,2,Hornets,Lakers,46 - 47,0,16,2,Jumper
+52,Jeremy Lamb,FOUL_ON_FLOOR,None,6:37,2,Hornets,Lakers,46 - 47,0,N/A,N/A,N/A
+53,Dwayne Bacon,SUBSTITUTION,Monk Malik,6:37,2,Hornets,Lakers,46 - 47,0,N/A,N/A,N/A
+54,Kyle Kuzma,FG_MISS,None,6:23,2,Lakers,Hornets,46 - 47,1,19,2,Jumper
+55,Jeremy Lamb,DEFENSIVE_REBOUND,None,6:20,2,Hornets,Lakers,46 - 47,0,N/A,N/A,N/A
+56,Jeremy Lamb,FG_MISS,None,6:16,2,Hornets,Lakers,46 - 47,0,15,2,Jumper
+57,JaVale McGee,DEFENSIVE_REBOUND,None,6:12,2,Lakers,Hornets,46 - 47,1,N/A,N/A,N/A
+58,Bismack Biyombo,FOUL_ON_FLOOR,None,6:11,2,Hornets,Lakers,46 - 47,0,N/A,N/A,N/A
+59,Rajon Rondo,SUBSTITUTION,Caruso Alex,6:11,2,Lakers,Hornets,46 - 47,1,N/A,N/A,N/A
+60,Kentavious Caldwell-Pope,SUBSTITUTION,Stephenson Lance,6:11,2,Lakers,Hornets,46 - 47,1,N/A,N/A,N/A
+61,Miles Bridges,SUBSTITUTION,Lamb Jeremy,6:11,2,Hornets,Lakers,46 - 47,0,N/A,N/A,N/A
+62,LeBron James,FG_ASSISTED,Kentavious Caldwell-Pope,6:00,2,Lakers,Hornets,46 - 49,1,0,2,Dunk
+63,Kemba Walker,FG_UNASSISTED,None,5:47,2,Hornets,Lakers,48 - 49,0,0,2,Layup
+64,Miles Bridges,FOUL_ON_FLOOR,None,5:32,2,Hornets,Lakers,48 - 49,0,N/A,N/A,N/A
+65,JaVale McGee,FT,None,5:32,2,Lakers,Hornets,48 - 50,1,N/A,1,N/A
+66,JaVale McGee,FT,None,5:32,2,Lakers,Hornets,48 - 51,1,N/A,1,N/A
+67,Miles Bridges,FG_ASSISTED,Marvin Williams,5:07,2,Hornets,Lakers,50 - 51,0,0,2,Dunk
+68,LeBron James,FG_MISS,None,4:46,2,Lakers,Hornets,50 - 51,1,22,2,Jumper
+69,Dwayne Bacon,DEFENSIVE_REBOUND,None,4:43,2,Hornets,Lakers,50 - 51,0,N/A,N/A,N/A
+70,Bismack Biyombo,TURNOVER,None,4:38,2,Hornets,Lakers,50 - 51,0,N/A,N/A,N/A
+71,Rajon Rondo,FG_ASSISTED,Kentavious Caldwell-Pope,4:23,2,Lakers,Hornets,50 - 53,1,2,2,Jumper
+72,Kentavious Caldwell-Pope,FOUL_ON_FLOOR,None,4:18,2,Lakers,Hornets,50 - 53,1,N/A,N/A,N/A
+73,Devonte' Graham,SUBSTITUTION,Williams Marvin,4:18,2,Hornets,Lakers,50 - 53,0,N/A,N/A,N/A
+74,Bismack Biyombo,TURNOVER,Rajon Rondo,4:12,2,Hornets,Lakers,50 - 53,0,N/A,N/A,N/A
+75,JaVale McGee,FG_ASSISTED,LeBron James,4:09,2,Lakers,Hornets,50 - 55,1,0,2,Dunk
+76,Kemba Walker,FG_UNASSISTED,None,3:50,2,Hornets,Lakers,52 - 55,0,0,2,Layup
+77,Rajon Rondo,FG_MISS,None,3:24,2,Lakers,Hornets,52 - 55,1,27,3,Jumper
+78,Team,OFFENSIVE_REBOUND,None,3:22,2,Lakers,Hornets,52 - 55,1,N/A,N/A,N/A
+79,Lance Stephenson,SUBSTITUTION,James LeBron,3:22,2,Lakers,Hornets,52 - 55,1,N/A,N/A,N/A
+80,JaVale McGee,FG_MISS,None,3:19,2,Lakers,Hornets,52 - 55,1, ,2,Jumper
+81,Rajon Rondo,OFFENSIVE_REBOUND,None,3:17,2,Lakers,Hornets,52 - 55,1,N/A,N/A,N/A
+82,Rajon Rondo,FG_MISS,None,3:15,2,Lakers,Hornets,52 - 55,1, ,2,Jumper
+83,JaVale McGee,OFFENSIVE_REBOUND,None,3:12,2,Lakers,Hornets,52 - 55,1,N/A,N/A,N/A
+84,Lance Stephenson,FG_MISS,None,3:12,2,Lakers,Hornets,52 - 55,1,0,2,Layup
+85,Lance Stephenson,OFFENSIVE_REBOUND,None,3:11,2,Lakers,Hornets,52 - 55,1,N/A,N/A,N/A
+86,Bismack Biyombo,FOUL_ON_FLOOR,None,3:11,2,Hornets,Lakers,52 - 55,0,N/A,N/A,N/A
+87,Lance Stephenson,FT,None,3:11,2,Lakers,Hornets,52 - 56,1,N/A,1,N/A
+88,Lance Stephenson,FT_MISS,None,3:11,2,Lakers,Hornets,52 - 56,1,N/A,1,N/A
+89,Bismack Biyombo,DEFENSIVE_REBOUND,None,3:07,2,Hornets,Lakers,52 - 56,0,N/A,N/A,N/A
+90,Kemba Walker,JUMP_BALL,None,3:01,2,Lakers,Hornets,52 - 56,1,N/A,N/A,N/A
+91,Kemba Walker,TURNOVER,Rajon Rondo,3:01,2,Hornets,Lakers,52 - 56,0,N/A,N/A,N/A
+92,Kyle Kuzma,FG_MISS,None,2:55,2,Lakers,Hornets,52 - 56,1,27,3,Jumper
+93,Bismack Biyombo,DEFENSIVE_REBOUND,None,2:53,2,Hornets,Lakers,52 - 56,0,N/A,N/A,N/A
+94,Kemba Walker,FG_MISS,None,2:49,2,Hornets,Lakers,52 - 56,0,26,3,Jumper
+95,Bismack Biyombo,OFFENSIVE_REBOUND,None,2:44,2,Hornets,Lakers,52 - 56,0,N/A,N/A,N/A
+96,Bismack Biyombo,FG_UNASSISTED,None,2:44,2,Hornets,Lakers,54 - 56,0, ,2,Jumper
+97,Kentavious Caldwell-Pope,FG_ASSISTED,JaVale McGee,2:35,2,Lakers,Hornets,54 - 59,1,26,3,Jumper
+98,Dwayne Bacon,FG_MISS,None,2:16,2,Hornets,Lakers,54 - 59,0,27,3,Jumper
+99,Team,OFFENSIVE_REBOUND,None,2:15,2,Hornets,Lakers,54 - 59,0,N/A,N/A,N/A
+100,JaVale McGee,FOUL_ON_FLOOR,None,2:15,2,Lakers,Hornets,54 - 59,1,N/A,N/A,N/A
+101,Team,Unknown,None,2:15,2,Hornets,Lakers,54 - 59,0,N/A,N/A,N/A
+102,Devonte' Graham,FG_UNASSISTED,None,2:06,2,Hornets,Lakers,56 - 59,0,19,2,Jumper
+103,Lance Stephenson,FG_ASSISTED,Rajon Rondo,1:52,2,Lakers,Hornets,56 - 61,1,14,2,Jumper
+104,Lance Stephenson,FOUL_ON_FLOOR,None,1:35,2,Lakers,Hornets,56 - 61,1,N/A,N/A,N/A
+105,JaVale McGee,FOUL_ON_FLOOR,None,1:30,2,Lakers,Hornets,56 - 61,1,N/A,N/A,N/A
+106,Bismack Biyombo,FT_MISS,None,1:30,2,Hornets,Lakers,56 - 61,0,N/A,1,N/A
+107,Team,OFFENSIVE_REBOUND,None,1:30,2,Hornets,Lakers,56 - 61,0,N/A,N/A,N/A
+108,Bismack Biyombo,FT,None,1:30,2,Hornets,Lakers,57 - 61,0,N/A,1,N/A
+109,Kentavious Caldwell-Pope,FG_UNASSISTED,None,1:09,2,Lakers,Hornets,57 - 64,1,26,3,Jumper
+110,Dwayne Bacon,TURNOVER,Kentavious Caldwell-Pope,51.5,2,Hornets,Lakers,57 - 64,0,N/A,N/A,N/A
+111,Lance Stephenson,FG_ASSISTED,Rajon Rondo,36.1,2,Lakers,Hornets,57 - 67,1,25,3,Jumper
+112,JaVale McGee,FOUL_ON_FLOOR,None,19.0,2,Lakers,Hornets,57 - 67,1,N/A,N/A,N/A
+113,Kemba Walker,FT,None,19.0,2,Hornets,Lakers,58 - 67,0,N/A,1,N/A
+114,LeBron James,SUBSTITUTION,McGee JaVale,19.0,2,Lakers,Hornets,58 - 67,1,N/A,N/A,N/A
+115,Marvin Williams,SUBSTITUTION,Biyombo Bismack,19.0,2,Hornets,Lakers,58 - 67,0,N/A,N/A,N/A
+116,Kemba Walker,FT,None,19.0,2,Hornets,Lakers,59 - 67,0,N/A,1,N/A
+117,Kyle Kuzma,FG_ASSISTED,Rajon Rondo,6.8,2,Lakers,Hornets,59 - 69,1,0,2,Dunk
+118,Kemba Walker,FG_MISS,None,0.2,2,Hornets,Lakers,59 - 69,0,26,3,Jumper
+119,Team,OFFENSIVE_REBOUND,None,0.1,2,Hornets,Lakers,59 - 69,0,N/A,N/A,N/A
+120,End of,Unknown,None,0.0,2,Lakers,Hornets,59 - 69,1,N/A,N/A,N/A
+0,JaVale McGee,SUBSTITUTION,Stephenson Lance,12:00,3,Lakers,Hornets,59 - 69,1,N/A,N/A,N/A
+1,Bismack Biyombo,SUBSTITUTION,Graham Devonte',12:00,3,Hornets,Lakers,59 - 69,0,N/A,N/A,N/A
+2,Kentavious Caldwell-Pope,FG_MISS,None,11:41,3,Lakers,Hornets,59 - 69,1,26,3,Jumper
+3,Marvin Williams,DEFENSIVE_REBOUND,None,11:39,3,Hornets,Lakers,59 - 69,0,N/A,N/A,N/A
+4,Kemba Walker,FG_UNASSISTED,None,11:33,3,Hornets,Lakers,61 - 69,0, ,2,Jumper
+5,LeBron James,FG_MISS,None,11:06,3,Lakers,Hornets,61 - 69,1, ,2,Jumper
+6,Dwayne Bacon,DEFENSIVE_REBOUND,None,11:03,3,Hornets,Lakers,61 - 69,0,N/A,N/A,N/A
+7,Kentavious Caldwell-Pope,FOUL_ON_FLOOR,None,11:02,3,Lakers,Hornets,61 - 69,1,N/A,N/A,N/A
+8,Dwayne Bacon,FT,None,11:02,3,Hornets,Lakers,62 - 69,0,N/A,1,N/A
+9,Dwayne Bacon,FT,None,11:02,3,Hornets,Lakers,63 - 69,0,N/A,1,N/A
+10,JaVale McGee,FG_ASSISTED,LeBron James,10:49,3,Lakers,Hornets,63 - 71,1,0,2,Dunk
+11,Kemba Walker,FG_MISS,None,10:30,3,Hornets,Lakers,63 - 71,0,28,2,Jumper
+12,Rajon Rondo,DEFENSIVE_REBOUND,None,10:26,3,Lakers,Hornets,63 - 71,1,N/A,N/A,N/A
+13,LeBron James,FG_MISS,None,10:22,3,Lakers,Hornets,63 - 71,1,26,3,Jumper
+14,Kentavious Caldwell-Pope,OFFENSIVE_REBOUND,None,10:18,3,Lakers,Hornets,63 - 71,1,N/A,N/A,N/A
+15,LeBron James,FG_UNASSISTED,None,10:09,3,Lakers,Hornets,63 - 73,1,21,2,Jumper
+16,Dwayne Bacon,FOUL_ON_FLOOR,None,10:09,3,Hornets,Lakers,63 - 73,0,N/A,N/A,N/A
+17,LeBron James,FT_MISS,None,10:09,3,Lakers,Hornets,63 - 73,1,N/A,1,N/A
+18,Bismack Biyombo,DEFENSIVE_REBOUND,None,10:07,3,Hornets,Lakers,63 - 73,0,N/A,N/A,N/A
+19,Kemba Walker,FG_MISS,JaVale McGee,9:51,3,Lakers,Hornets,63 - 73,0,0,2,Layup
+20,Kemba Walker,OFFENSIVE_REBOUND,None,9:47,3,Hornets,Lakers,63 - 73,0,N/A,N/A,N/A
+21,Kemba Walker,FG_MISS,None,9:46,3,Hornets,Lakers,63 - 73,0, ,2,Jumper
+22,Kyle Kuzma,DEFENSIVE_REBOUND,None,9:44,3,Lakers,Hornets,63 - 73,1,N/A,N/A,N/A
+23,Kyle Kuzma,FG_ASSISTED,Rajon Rondo,9:40,3,Lakers,Hornets,63 - 76,1,27,3,Jumper
+24,Marvin Williams,FG_MISS,None,9:18,3,Hornets,Lakers,63 - 76,0,26,3,Jumper
+25,Rajon Rondo,DEFENSIVE_REBOUND,None,9:15,3,Lakers,Hornets,63 - 76,1,N/A,N/A,N/A
+26,Kyle Kuzma,FG_ASSISTED,Rajon Rondo,9:14,3,Lakers,Hornets,63 - 78,1,0,2,Dunk
+27,Dwayne Bacon,FG_MISS,None,8:51,3,Hornets,Lakers,63 - 78,0,28,3,Jumper
+28,Kyle Kuzma,DEFENSIVE_REBOUND,None,8:49,3,Lakers,Hornets,63 - 78,1,N/A,N/A,N/A
+29,Kyle Kuzma,FG_MISS,None,8:35,3,Lakers,Hornets,63 - 78,1,24,3,Jumper
+30,Bismack Biyombo,DEFENSIVE_REBOUND,None,8:32,3,Hornets,Lakers,63 - 78,0,N/A,N/A,N/A
+31,Kyle Kuzma,FOUL_ON_FLOOR,None,8:32,3,Lakers,Hornets,63 - 78,1,N/A,N/A,N/A
+32,Frank Kaminsky,SUBSTITUTION,Biyombo Bismack,8:32,3,Hornets,Lakers,63 - 78,0,N/A,N/A,N/A
+33,Frank Kaminsky,FG_MISS,None,8:14,3,Hornets,Lakers,63 - 78,0,0,2,Layup
+34,JaVale McGee,DEFENSIVE_REBOUND,None,8:12,3,Lakers,Hornets,63 - 78,1,N/A,N/A,N/A
+35,Kentavious Caldwell-Pope,FG_ASSISTED,Kyle Kuzma,8:00,3,Lakers,Hornets,63 - 81,1,25,3,Jumper
+36,Team,Unknown,None,7:58,3,Hornets,Lakers,63 - 81,0,N/A,N/A,N/A
+37,Marvin Williams,FG_MISS,None,7:44,3,Hornets,Lakers,63 - 81,0, ,2,Jumper
+38,LeBron James,DEFENSIVE_REBOUND,None,7:42,3,Lakers,Hornets,63 - 81,1,N/A,N/A,N/A
+39,JaVale McGee,FG_ASSISTED,Rajon Rondo,7:36,3,Lakers,Hornets,63 - 83,1,0,2,Dunk
+40,Miles Bridges,FG_ASSISTED,Frank Kaminsky,7:21,3,Hornets,Lakers,66 - 83,0,25,3,Jumper
+41,LeBron James,FG_UNASSISTED,None,6:53,3,Lakers,Hornets,66 - 85,1,22,2,Jumper
+42,Miles Bridges,FG_MISS,None,6:35,3,Hornets,Lakers,66 - 85,0,26,3,Jumper
+43,LeBron James,DEFENSIVE_REBOUND,None,6:32,3,Lakers,Hornets,66 - 85,1,N/A,N/A,N/A
+44,LeBron James,TURNOVER,Kemba Walker,6:23,3,Lakers,Hornets,66 - 85,1,N/A,N/A,N/A
+45,Rajon Rondo,FOUL_ON_FLOOR,None,6:23,3,Lakers,Hornets,66 - 85,1,N/A,N/A,N/A
+46,Michael Kidd-Gilchrist,SUBSTITUTION,Williams Marvin,6:23,3,Hornets,Lakers,66 - 85,0,N/A,N/A,N/A
+47,Dwayne Bacon,FG_ASSISTED,Michael Kidd-Gilchrist,6:06,3,Hornets,Lakers,68 - 85,0,13,2,Jumper
+48,Rajon Rondo,FG_UNASSISTED,None,5:43,3,Lakers,Hornets,68 - 88,1,26,2,Jumper
+49,Kemba Walker,FG_UNASSISTED,None,5:30,3,Hornets,Lakers,70 - 88,0,0,2,Layup
+50,JaVale McGee,TURNOVER,Frank Kaminsky,5:17,3,Lakers,Hornets,70 - 88,1,N/A,N/A,N/A
+51,Frank Kaminsky,FG_UNASSISTED,None,5:12,3,Hornets,Lakers,72 - 88,0,0,2,Layup
+52,LeBron James,FOUL_ON_FLOOR,None,5:12,3,Lakers,Hornets,72 - 88,1,N/A,N/A,N/A
+53,Team,Unknown,None,5:12,3,Lakers,Hornets,72 - 88,1,N/A,N/A,N/A
+54,Johnathan Williams,SUBSTITUTION,McGee JaVale,5:12,3,Lakers,Hornets,72 - 88,1,N/A,N/A,N/A
+55,Jeremy Lamb,SUBSTITUTION,Bacon Dwayne,5:12,3,Hornets,Lakers,72 - 88,0,N/A,N/A,N/A
+56,Frank Kaminsky,FT,None,5:12,3,Hornets,Lakers,73 - 88,0,N/A,1,N/A
+57,LeBron James,FG_ASSISTED,Rajon Rondo,4:59,3,Lakers,Hornets,73 - 91,1,26,3,Jumper
+58,Miles Bridges,FG_MISS,None,4:38,3,Hornets,Lakers,73 - 91,0,0,2,Layup
+59,Michael Kidd-Gilchrist,OFFENSIVE_REBOUND,None,4:36,3,Hornets,Lakers,73 - 91,0,N/A,N/A,N/A
+60,Kyle Kuzma,FOUL_ON_FLOOR,None,4:35,3,Lakers,Hornets,73 - 91,1,N/A,N/A,N/A
+61,Jeremy Lamb,FT,None,4:35,3,Hornets,Lakers,74 - 91,0,N/A,1,N/A
+62,Jeremy Lamb,FT,None,4:35,3,Hornets,Lakers,75 - 91,0,N/A,1,N/A
+63,Lance Stephenson,SUBSTITUTION,James LeBron,4:35,3,Lakers,Hornets,75 - 91,1,N/A,N/A,N/A
+64,Kentavious Caldwell-Pope,FG_ASSISTED,Rajon Rondo,4:26,3,Lakers,Hornets,75 - 93,1,16,2,Jumper
+65,Frank Kaminsky,FG_ASSISTED,Kemba Walker,4:09,3,Hornets,Lakers,78 - 93,0,27,3,Jumper
+66,Kyle Kuzma,FG_MISS,None,3:53,3,Lakers,Hornets,78 - 93,1,27,3,Jumper
+67,Michael Kidd-Gilchrist,DEFENSIVE_REBOUND,None,3:47,3,Hornets,Lakers,78 - 93,0,N/A,N/A,N/A
+68,Kemba Walker,FG_UNASSISTED,None,3:35,3,Hornets,Lakers,80 - 93,0,0,2,Layup
+69,Johnathan Williams,FOUL_ON_FLOOR,None,3:35,3,Lakers,Hornets,80 - 93,1,N/A,N/A,N/A
+70,Kemba Walker,FT,None,3:35,3,Hornets,Lakers,81 - 93,0,N/A,1,N/A
+71,Kentavious Caldwell-Pope,FG_ASSISTED,Rajon Rondo,3:19,3,Lakers,Hornets,81 - 96,1,25,3,Jumper
+72,Kemba Walker,TURNOVER,Rajon Rondo,3:07,3,Hornets,Lakers,81 - 96,0,N/A,N/A,N/A
+73,Johnathan Williams,FG_ASSISTED,Rajon Rondo,3:03,3,Lakers,Hornets,81 - 98,1,0,2,Dunk
+74,Jeremy Lamb,FG_ASSISTED,Michael Kidd-Gilchrist,2:47,3,Hornets,Lakers,84 - 98,0,26,3,Jumper
+75,Kyle Kuzma,FG_MISS,None,2:24,3,Lakers,Hornets,84 - 98,1,29,3,Jumper
+76,Miles Bridges,DEFENSIVE_REBOUND,None,2:21,3,Hornets,Lakers,84 - 98,0,N/A,N/A,N/A
+77,Kentavious Caldwell-Pope,FOUL_ON_FLOOR,None,2:19,3,Lakers,Hornets,84 - 98,1,N/A,N/A,N/A
+78,Kemba Walker,FT,None,2:19,3,Hornets,Lakers,85 - 98,0,N/A,1,N/A
+79,Kemba Walker,FT,None,2:19,3,Hornets,Lakers,86 - 98,0,N/A,1,N/A
+80,Kentavious Caldwell-Pope,FG_MISS,None,2:07,3,Lakers,Hornets,86 - 98,1,27,3,Jumper
+81,Jeremy Lamb,DEFENSIVE_REBOUND,None,2:05,3,Hornets,Lakers,86 - 98,0,N/A,N/A,N/A
+82,Kemba Walker,FG_MISS,None,1:51,3,Hornets,Lakers,86 - 98,0,27,2,Jumper
+83,Lance Stephenson,DEFENSIVE_REBOUND,None,1:45,3,Lakers,Hornets,86 - 98,1,N/A,N/A,N/A
+84,Michael Kidd-Gilchrist,Unknown,None,1:41,3,Hornets,Lakers,86 - 98,0,N/A,N/A,N/A
+85,Alex Caruso,SUBSTITUTION,Kuzma Kyle,1:41,3,Lakers,Hornets,86 - 98,1,N/A,N/A,N/A
+86,Devonte' Graham,SUBSTITUTION,Walker Kemba,1:41,3,Hornets,Lakers,86 - 98,0,N/A,N/A,N/A
+87,Johnathan Williams,TURNOVER,None,1:32,3,Lakers,Hornets,86 - 98,1,N/A,N/A,N/A
+88,Dwayne Bacon,SUBSTITUTION,Bridges Miles,1:32,3,Hornets,Lakers,86 - 98,0,N/A,N/A,N/A
+89,Frank Kaminsky,FG_MISS,None,1:16,3,Hornets,Lakers,86 - 98,0,0,2,Layup
+90,Frank Kaminsky,OFFENSIVE_REBOUND,None,1:15,3,Hornets,Lakers,86 - 98,0,N/A,N/A,N/A
+91,Kentavious Caldwell-Pope,FOUL_ON_FLOOR,None,1:15,3,Lakers,Hornets,86 - 98,1,N/A,N/A,N/A
+92,Frank Kaminsky,FT,None,1:15,3,Hornets,Lakers,87 - 98,0,N/A,1,N/A
+93,Kyle Kuzma,SUBSTITUTION,Caldwell-Pope Kentavious,1:15,3,Lakers,Hornets,87 - 98,1,N/A,N/A,N/A
+94,Frank Kaminsky,FT,None,1:15,3,Hornets,Lakers,88 - 98,0,N/A,1,N/A
+95,Rajon Rondo,FG_MISS,None,1:02,3,Lakers,Hornets,88 - 98,1,28,3,Jumper
+96,Frank Kaminsky,DEFENSIVE_REBOUND,None,58.8,3,Hornets,Lakers,88 - 98,0,N/A,N/A,N/A
+97,Dwayne Bacon,FG_ASSISTED,Frank Kaminsky,48.6,3,Hornets,Lakers,91 - 98,0,26,3,Jumper
+98,Alex Caruso,FG_ASSISTED,Rajon Rondo,35.7,3,Lakers,Hornets,91 - 101,1,26,3,Jumper
+99,Michael Kidd-Gilchrist,FG_MISS,None,21.0,3,Hornets,Lakers,91 - 101,0,12,2,Jumper
+100,Team,OFFENSIVE_REBOUND,None,18.6,3,Hornets,Lakers,91 - 101,0,N/A,N/A,N/A
+101,Jeremy Lamb,FG_MISS,None,5.8,3,Hornets,Lakers,91 - 101,0,1,2,Jumper
+102,Lance Stephenson,DEFENSIVE_REBOUND,None,3.7,3,Lakers,Hornets,91 - 101,1,N/A,N/A,N/A
+103,End of,Unknown,None,0.0,3,Lakers,Hornets,91 - 101,1,N/A,N/A,N/A
+0,Moritz Wagner,SUBSTITUTION,Rondo Rajon,12:00,4,Lakers,Hornets,91 - 101,1,N/A,N/A,N/A
+1,LeBron James,SUBSTITUTION,Kuzma Kyle,12:00,4,Lakers,Hornets,91 - 101,1,N/A,N/A,N/A
+2,Michael Kidd-Gilchrist,FG_MISS,None,11:39,4,Hornets,Lakers,91 - 101,0,22,2,Jumper
+3,Jeremy Lamb,OFFENSIVE_REBOUND,None,11:34,4,Hornets,Lakers,91 - 101,0,N/A,N/A,N/A
+4,Jeremy Lamb,FG_MISS,None,11:34,4,Hornets,Lakers,91 - 101,0,1,2,Jumper
+5,Lance Stephenson,DEFENSIVE_REBOUND,None,11:32,4,Lakers,Hornets,91 - 101,1,N/A,N/A,N/A
+6,Alex Caruso,TURNOVER,None,11:27,4,Lakers,Hornets,91 - 101,1,N/A,N/A,N/A
+7,Jeremy Lamb,FG_MISS,None,11:09,4,Hornets,Lakers,91 - 101,0,24,3,Jumper
+8,LeBron James,DEFENSIVE_REBOUND,None,11:06,4,Lakers,Hornets,91 - 101,1,N/A,N/A,N/A
+9,Lance Stephenson,FG_MISS,None,11:01,4,Lakers,Hornets,91 - 101,1,24,3,Jumper
+10,Team,DEFENSIVE_REBOUND,None,11:01,4,Hornets,Lakers,91 - 101,0,N/A,N/A,N/A
+11,Devonte' Graham,TURNOVER,None,10:52,4,Hornets,Lakers,91 - 101,0,N/A,N/A,N/A
+12,Marvin Williams,SUBSTITUTION,Kaminsky Frank,10:52,4,Hornets,Lakers,91 - 101,0,N/A,N/A,N/A
+13,LeBron James,FG_MISS,None,10:28,4,Lakers,Hornets,91 - 101,1,19,2,Jumper
+14,Marvin Williams,DEFENSIVE_REBOUND,None,10:23,4,Hornets,Lakers,91 - 101,0,N/A,N/A,N/A
+15,Dwayne Bacon,TURNOVER,None,10:19,4,Hornets,Lakers,91 - 101,0,N/A,N/A,N/A
+16,Willy Hernangomez,SUBSTITUTION,Kidd-Gilchrist Michael,10:19,4,Hornets,Lakers,91 - 101,0,N/A,N/A,N/A
+17,Alex Caruso,TURNOVER,None,10:11,4,Lakers,Hornets,91 - 101,1,N/A,N/A,N/A
+18,Kemba Walker,SUBSTITUTION,Graham Devonte',10:11,4,Hornets,Lakers,91 - 101,0,N/A,N/A,N/A
+19,Kemba Walker,FG_UNASSISTED,None,9:56,4,Hornets,Lakers,93 - 101,0,18,2,Jumper
+20,Johnathan Williams,FG_ASSISTED,LeBron James,9:38,4,Lakers,Hornets,93 - 103,1,0,2,Layup
+21,Jeremy Lamb,FG_MISS,None,9:15,4,Hornets,Lakers,93 - 103,0,18,2,Jumper
+22,Lance Stephenson,DEFENSIVE_REBOUND,None,9:12,4,Lakers,Hornets,93 - 103,1,N/A,N/A,N/A
+23,Moritz Wagner,FG_ASSISTED,LeBron James,9:07,4,Lakers,Hornets,93 - 105,1,0,2,Layup
+24,Dwayne Bacon,FOUL_ON_FLOOR,None,9:07,4,Hornets,Lakers,93 - 105,0,N/A,N/A,N/A
+25,Devonte' Graham,SUBSTITUTION,Lamb Jeremy,9:07,4,Hornets,Lakers,93 - 105,0,N/A,N/A,N/A
+26,Moritz Wagner,FT,None,9:07,4,Lakers,Hornets,93 - 106,1,N/A,1,N/A
+27,Kemba Walker,TURNOVER,None,8:48,4,Hornets,Lakers,93 - 106,0,N/A,N/A,N/A
+28,Johnathan Williams,FG_ASSISTED,LeBron James,8:34,4,Lakers,Hornets,93 - 108,1,3,2,Jumper
+29,Willy Hernangomez,Unknown,None,8:34,4,Hornets,Lakers,93 - 108,0,N/A,N/A,N/A
+30,Devonte' Graham,FG_MISS,None,8:18,4,Hornets,Lakers,93 - 108,0,26,3,Jumper
+31,Lance Stephenson,DEFENSIVE_REBOUND,None,8:15,4,Lakers,Hornets,93 - 108,1,N/A,N/A,N/A
+32,LeBron James,FG_UNASSISTED,None,8:01,4,Lakers,Hornets,93 - 110,1,0,2,Layup
+33,Willy Hernangomez,JUMP_BALL,None,7:43,4,Hornets,Lakers,93 - 110,0,N/A,N/A,N/A
+34,Dwayne Bacon,FG_UNASSISTED,None,7:36,4,Hornets,Lakers,96 - 110,0,26,3,Jumper
+35,Moritz Wagner,FG_ASSISTED,LeBron James,7:09,4,Lakers,Hornets,96 - 113,1,26,3,Jumper
+36,Marvin Williams,FG_ASSISTED,Dwayne Bacon,6:48,4,Hornets,Lakers,99 - 113,0,27,3,Jumper
+37,Team,Unknown,None,6:48,4,Lakers,Hornets,99 - 113,1,N/A,N/A,N/A
+38,Miles Bridges,SUBSTITUTION,Hernangomez Willy,6:48,4,Hornets,Lakers,99 - 113,0,N/A,N/A,N/A
+39,LeBron James,FG_MISS,None,6:24,4,Lakers,Hornets,99 - 113,1,21,2,Jumper
+40,Dwayne Bacon,DEFENSIVE_REBOUND,None,6:19,4,Hornets,Lakers,99 - 113,0,N/A,N/A,N/A
+41,Dwayne Bacon,FG_MISS,None,6:17,4,Hornets,Lakers,99 - 113,0,27,3,Jumper
+42,Lance Stephenson,DEFENSIVE_REBOUND,None,6:15,4,Lakers,Hornets,99 - 113,1,N/A,N/A,N/A
+43,Dwayne Bacon,FOUL_ON_FLOOR,None,6:13,4,Hornets,Lakers,99 - 113,0,N/A,N/A,N/A
+44,Rajon Rondo,SUBSTITUTION,Wagner Moritz,6:13,4,Lakers,Hornets,99 - 113,1,N/A,N/A,N/A
+45,LeBron James,FG_ASSISTED,Rajon Rondo,6:09,4,Lakers,Hornets,99 - 116,1,25,3,Jumper
+46,Marvin Williams,FG_ASSISTED,Kemba Walker,5:52,4,Hornets,Lakers,101 - 116,0,1,2,Jumper
+47,Alex Caruso,TURNOVER,Marvin Williams,5:33,4,Lakers,Hornets,101 - 116,1,N/A,N/A,N/A
+48,Kemba Walker,FG_ASSISTED,Devonte' Graham,5:26,4,Hornets,Lakers,104 - 116,0,27,3,Jumper
+49,Team,Unknown,None,5:25,4,Lakers,Hornets,104 - 116,1,N/A,N/A,N/A
+50,JaVale McGee,SUBSTITUTION,Williams Johnathan,5:25,4,Lakers,Hornets,104 - 116,1,N/A,N/A,N/A
+51,Kentavious Caldwell-Pope,SUBSTITUTION,James LeBron,5:25,4,Lakers,Hornets,104 - 116,1,N/A,N/A,N/A
+52,Lance Stephenson,FG_ASSISTED,Rajon Rondo,5:05,4,Lakers,Hornets,104 - 119,1,29,3,Jumper
+53,Marvin Williams,FG_MISS,None,4:37,4,Hornets,Lakers,104 - 119,0,1,2,Jumper
+54,Lance Stephenson,DEFENSIVE_REBOUND,None,4:35,4,Lakers,Hornets,104 - 119,1,N/A,N/A,N/A
+55,Lance Stephenson,TURNOVER,None,4:25,4,Lakers,Hornets,104 - 119,1,N/A,N/A,N/A
+56,Dwayne Bacon,FG_MISS,None,4:15,4,Hornets,Lakers,104 - 119,0,23,3,Jumper
+57,Lance Stephenson,DEFENSIVE_REBOUND,None,4:11,4,Lakers,Hornets,104 - 119,1,N/A,N/A,N/A
+58,Lance Stephenson,FG_MISS,None,3:51,4,Lakers,Hornets,104 - 119,1,22,3,Jumper
+59,Devonte' Graham,DEFENSIVE_REBOUND,None,3:49,4,Hornets,Lakers,104 - 119,0,N/A,N/A,N/A
+60,Miles Bridges,FG_ASSISTED,Devonte' Graham,3:44,4,Hornets,Lakers,106 - 119,0,0,2,Dunk
+61,Rajon Rondo,FG_UNASSISTED,None,3:21,4,Lakers,Hornets,106 - 121,1,3,2,Jumper
+62,Devonte' Graham,FG_ASSISTED,Miles Bridges,3:06,4,Hornets,Lakers,109 - 121,0,23,3,Jumper
+63,Team,Unknown,None,2:48,4,Lakers,Hornets,109 - 121,1,N/A,N/A,N/A
+64,LeBron James,SUBSTITUTION,Caruso Alex,2:48,4,Lakers,Hornets,109 - 121,1,N/A,N/A,N/A
+65,LeBron James,FG_MISS,None,2:42,4,Lakers,Hornets,109 - 121,1,18,2,Jumper
+66,JaVale McGee,OFFENSIVE_REBOUND,None,2:34,4,Lakers,Hornets,109 - 121,1,N/A,N/A,N/A
+67,JaVale McGee,FG_UNASSISTED,None,2:34,4,Lakers,Hornets,109 - 123,1,0,2,Dunk
+68,Devonte' Graham,FG_MISS,None,2:28,4,Hornets,Lakers,109 - 123,0,26,2,Jumper
+69,Rajon Rondo,DEFENSIVE_REBOUND,None,2:25,4,Lakers,Hornets,109 - 123,1,N/A,N/A,N/A
+70,Kentavious Caldwell-Pope,FG_MISS,None,2:24,4,Lakers,Hornets,109 - 123,1,1,2,Jumper
+71,JaVale McGee,OFFENSIVE_REBOUND,None,2:23,4,Lakers,Hornets,109 - 123,1,N/A,N/A,N/A
+72,Dwayne Bacon,FOUL_ON_FLOOR,None,2:22,4,Hornets,Lakers,109 - 123,0,N/A,N/A,N/A
+73,LeBron James,FG_UNASSISTED,None,2:11,4,Lakers,Hornets,109 - 126,1,27,2,Jumper
+74,Kemba Walker,TURNOVER,Rajon Rondo,1:41,4,Hornets,Lakers,109 - 126,0,N/A,N/A,N/A
+75,LeBron James,FG_UNASSISTED,None,1:19,4,Lakers,Hornets,109 - 129,1,27,2,Jumper
+76,Miles Bridges,FG_ASSISTED,Devonte' Graham,1:10,4,Hornets,Lakers,112 - 129,0,28,3,Jumper
+77,Kemba Walker,FOUL_ON_FLOOR,None,1:05,4,Hornets,Lakers,112 - 129,0,N/A,N/A,N/A
+78,Isaac Bonga,SUBSTITUTION,Caldwell-Pope Kentavious,1:05,4,Lakers,Hornets,112 - 129,1,N/A,N/A,N/A
+79,Moritz Wagner,SUBSTITUTION,Stephenson Lance,1:05,4,Lakers,Hornets,112 - 129,1,N/A,N/A,N/A
+80,Alex Caruso,SUBSTITUTION,McGee JaVale,1:05,4,Lakers,Hornets,112 - 129,1,N/A,N/A,N/A
+81,Johnathan Williams,SUBSTITUTION,Rondo Rajon,1:05,4,Lakers,Hornets,112 - 129,1,N/A,N/A,N/A
+82,Scott Machado,SUBSTITUTION,James LeBron,1:05,4,Lakers,Hornets,112 - 129,1,N/A,N/A,N/A
+83,Willy Hernangomez,SUBSTITUTION,Williams Marvin,1:05,4,Hornets,Lakers,112 - 129,0,N/A,N/A,N/A
+84,Malik Monk,SUBSTITUTION,Walker Kemba,1:05,4,Hornets,Lakers,112 - 129,0,N/A,N/A,N/A
+85,Isaac Bonga,FG_MISS,None,53.1,4,Lakers,Hornets,112 - 129,1,4,2,Jumper
+86,Willy Hernangomez,DEFENSIVE_REBOUND,None,51.0,4,Hornets,Lakers,112 - 129,0,N/A,N/A,N/A
+87,Dwayne Bacon,FG_ASSISTED,Willy Hernangomez,40.1,4,Hornets,Lakers,115 - 129,0,27,3,Jumper
+88,Alex Caruso,FG_MISS,None,25.1,4,Lakers,Hornets,115 - 129,1,27,3,Jumper
+89,Miles Bridges,DEFENSIVE_REBOUND,None,20.5,4,Hornets,Lakers,115 - 129,0,N/A,N/A,N/A
+90,Willy Hernangomez,FG_MISS,None,9.8,4,Hornets,Lakers,115 - 129,0,26,3,Jumper
+91,Johnathan Williams,DEFENSIVE_REBOUND,None,7.8,4,Lakers,Hornets,115 - 129,1,N/A,N/A,N/A
+92,End of,Unknown,None,0.0,4,Lakers,Hornets,115 - 129,1,N/A,N/A,N/A
+93,End of,Unknown,None,0.0,4,Lakers,Hornets,115 - 129,1,N/A,N/A,N/A

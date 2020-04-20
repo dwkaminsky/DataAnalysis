@@ -1,0 +1,469 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,LaMarcus Aldridge,JUMP_BALL,None,12:00,1,Nuggets,Spurs,0 - 0,1,N/A,N/A,N/A
+1,Nikola Jokic,TURNOVER,None,11:53,1,Nuggets,Spurs,0 - 0,1,N/A,N/A,N/A
+2,LaMarcus Aldridge,FG_MISS,None,11:33,1,Spurs,Nuggets,0 - 0,0,17,2,Jumper
+3,Mason Plumlee,DEFENSIVE_REBOUND,None,11:31,1,Nuggets,Spurs,0 - 0,1,N/A,N/A,N/A
+4,Jamal Murray,FG_MISS,None,11:24,1,Nuggets,Spurs,0 - 0,1,-,2,Jumper
+5,Mason Plumlee,OFFENSIVE_REBOUND,None,11:19,1,Nuggets,Spurs,0 - 0,1,N/A,N/A,N/A
+6,Juan Hernangomez,FG_MISS,None,11:18,1,Nuggets,Spurs,0 - 0,1,25,3,Jumper
+7,Mason Plumlee,OFFENSIVE_REBOUND,None,11:15,1,Nuggets,Spurs,0 - 0,1,N/A,N/A,N/A
+8,Juan Hernangomez,FG_ASSISTED,Mason Plumlee,11:14,1,Nuggets,Spurs,0 - 2,1,0,2,Layup
+9,Team,Unknown,None,11:14,1,Spurs,Nuggets,0 - 2,0,N/A,N/A,N/A
+10,Rudy Gay,FG_ASSISTED,LaMarcus Aldridge,10:49,1,Spurs,Nuggets,2 - 2,0,-,2,Jumper
+11,Jamal Murray,FG_ASSISTED,Nikola Jokic,10:28,1,Nuggets,Spurs,2 - 5,1,25,3,Jumper
+12,DeMar DeRozan,FG_UNASSISTED,None,10:17,1,Spurs,Nuggets,4 - 5,0,15,2,Jumper
+13,Nikola Jokic,FG_MISS,None,9:55,1,Nuggets,Spurs,4 - 5,1,25,3,Jumper
+14,DeMar DeRozan,DEFENSIVE_REBOUND,None,9:52,1,Spurs,Nuggets,4 - 5,0,N/A,N/A,N/A
+15,DeMar DeRozan,TURNOVER,None,9:42,1,Spurs,Nuggets,4 - 5,0,N/A,N/A,N/A
+16,Jamal Murray,FG_MISS,None,9:28,1,Nuggets,Spurs,4 - 5,1,13,2,Jumper
+17,Bryn Forbes,DEFENSIVE_REBOUND,None,9:25,1,Spurs,Nuggets,4 - 5,0,N/A,N/A,N/A
+18,Bryn Forbes,FG_UNASSISTED,None,9:20,1,Spurs,Nuggets,7 - 5,0,25,3,Jumper
+19,Nikola Jokic,FG_ASSISTED,Jamal Murray,9:05,1,Nuggets,Spurs,7 - 7,1,4,2,Jumper
+20,Rudy Gay,FG_ASSISTED,Bryn Forbes,8:43,1,Spurs,Nuggets,9 - 7,0,3,2,Jumper
+21,Torrey Craig,FG_ASSISTED,Juan Hernangomez,8:24,1,Nuggets,Spurs,9 - 10,1,25,3,Jumper
+22,Bryn Forbes,FG_MISS,None,8:08,1,Spurs,Nuggets,9 - 10,0,0,2,Layup
+23,Nikola Jokic,DEFENSIVE_REBOUND,None,8:06,1,Nuggets,Spurs,9 - 10,1,N/A,N/A,N/A
+24,Rudy Gay,FOUL_ON_FLOOR,None,8:02,1,Spurs,Nuggets,9 - 10,0,N/A,N/A,N/A
+25,Jamal Murray,FG_MISS,None,7:46,1,Nuggets,Spurs,9 - 10,1,25,2,Jumper
+26,Mason Plumlee,OFFENSIVE_REBOUND,None,7:43,1,Nuggets,Spurs,9 - 10,1,N/A,N/A,N/A
+27,Nikola Jokic,FG_ASSISTED,Mason Plumlee,7:41,1,Nuggets,Spurs,9 - 13,1,25,3,Jumper
+28,DeMar DeRozan,FG_MISS,None,7:20,1,Spurs,Nuggets,9 - 13,0,20,2,Jumper
+29,Nikola Jokic,DEFENSIVE_REBOUND,None,7:19,1,Nuggets,Spurs,9 - 13,1,N/A,N/A,N/A
+30,Nikola Jokic,FG_ASSISTED,Mason Plumlee,7:00,1,Nuggets,Spurs,9 - 15,1,6,2,Jumper
+31,Team,Unknown,None,7:00,1,Spurs,Nuggets,9 - 15,0,N/A,N/A,N/A
+32,Nikola Jokic,FOUL_ON_FLOOR,None,6:50,1,Nuggets,Spurs,9 - 15,1,N/A,N/A,N/A
+33,Rudy Gay,FG_MISS,None,6:38,1,Spurs,Nuggets,9 - 15,0,23,3,Jumper
+34,Nikola Jokic,DEFENSIVE_REBOUND,None,6:36,1,Nuggets,Spurs,9 - 15,1,N/A,N/A,N/A
+35,Juan Hernangomez,FG_MISS,None,6:31,1,Nuggets,Spurs,9 - 15,1,25,3,Jumper
+36,Mason Plumlee,OFFENSIVE_REBOUND,None,6:27,1,Nuggets,Spurs,9 - 15,1,N/A,N/A,N/A
+37,Torrey Craig,TURNOVER,None,6:24,1,Nuggets,Spurs,9 - 15,1,N/A,N/A,N/A
+38,Patty Mills,SUBSTITUTION,White Derrick,6:24,1,Spurs,Nuggets,9 - 15,0,N/A,N/A,N/A
+39,Rudy Gay,FG_MISS,None,6:00,1,Spurs,Nuggets,9 - 15,0,15,2,Jumper
+40,Jamal Murray,DEFENSIVE_REBOUND,None,5:56,1,Nuggets,Spurs,9 - 15,1,N/A,N/A,N/A
+41,Jamal Murray,FG_ASSISTED,Nikola Jokic,5:49,1,Nuggets,Spurs,9 - 17,1,0,2,Layup
+42,Bryn Forbes,FG_MISS,None,5:31,1,Spurs,Nuggets,9 - 17,0, ,2,Jumper
+43,LaMarcus Aldridge,OFFENSIVE_REBOUND,None,5:30,1,Spurs,Nuggets,9 - 17,0,N/A,N/A,N/A
+44,LaMarcus Aldridge,FG_UNASSISTED,None,5:29,1,Spurs,Nuggets,11 - 17,0, ,2,Jumper
+45,Patty Mills,FOUL_ON_FLOOR,None,5:08,1,Spurs,Nuggets,11 - 17,0,N/A,N/A,N/A
+46,Monte Morris,SUBSTITUTION,Jokic Nikola,5:08,1,Nuggets,Spurs,11 - 17,1,N/A,N/A,N/A
+47,Davis Bertans,SUBSTITUTION,Forbes Bryn,5:08,1,Spurs,Nuggets,11 - 17,0,N/A,N/A,N/A
+48,Marco Belinelli,SUBSTITUTION,Gay Rudy,5:08,1,Spurs,Nuggets,11 - 17,0,N/A,N/A,N/A
+49,Jamal Murray,FG_MISS,None,4:58,1,Nuggets,Spurs,11 - 17,1, ,2,Jumper
+50,Jamal Murray,OFFENSIVE_REBOUND,None,4:54,1,Nuggets,Spurs,11 - 17,1,N/A,N/A,N/A
+51,Jamal Murray,FG_MISS,None,4:54,1,Nuggets,Spurs,11 - 17,1, ,2,Jumper
+52,Jamal Murray,OFFENSIVE_REBOUND,None,4:54,1,Nuggets,Spurs,11 - 17,1,N/A,N/A,N/A
+53,Davis Bertans,FOUL_ON_FLOOR,None,4:54,1,Spurs,Nuggets,11 - 17,0,N/A,N/A,N/A
+54,Jamal Murray,FT_MISS,None,4:54,1,Nuggets,Spurs,11 - 17,1,N/A,1,N/A
+55,Team,OFFENSIVE_REBOUND,None,4:54,1,Nuggets,Spurs,11 - 17,1,N/A,N/A,N/A
+56,Jamal Murray,FT,None,4:54,1,Nuggets,Spurs,11 - 18,1,N/A,1,N/A
+57,Davis Bertans,FG_ASSISTED,Patty Mills,4:38,1,Spurs,Nuggets,14 - 18,0,26,3,Jumper
+58,Monte Morris,FG_MISS,None,4:25,1,Nuggets,Spurs,14 - 18,1, ,2,Jumper
+59,Monte Morris,OFFENSIVE_REBOUND,None,4:23,1,Nuggets,Spurs,14 - 18,1,N/A,N/A,N/A
+60,Juan Hernangomez,FG_MISS,None,4:21,1,Nuggets,Spurs,14 - 18,1,25,3,Jumper
+61,Davis Bertans,DEFENSIVE_REBOUND,None,4:18,1,Spurs,Nuggets,14 - 18,0,N/A,N/A,N/A
+62,LaMarcus Aldridge,FG_MISS,None,4:07,1,Spurs,Nuggets,14 - 18,0, ,2,Jumper
+63,Torrey Craig,DEFENSIVE_REBOUND,None,4:04,1,Nuggets,Spurs,14 - 18,1,N/A,N/A,N/A
+64,Torrey Craig,FG_MISS,None,3:50,1,Nuggets,Spurs,14 - 18,1,24,3,Jumper
+65,Marco Belinelli,DEFENSIVE_REBOUND,None,3:45,1,Spurs,Nuggets,14 - 18,0,N/A,N/A,N/A
+66,Marco Belinelli,FG_UNASSISTED,None,3:39,1,Spurs,Nuggets,16 - 18,0,3,2,Jumper
+67,Mason Plumlee,Unknown,None,3:39,1,Nuggets,Spurs,16 - 18,1,N/A,N/A,N/A
+68,Team,Unknown,None,3:39,1,Nuggets,Spurs,16 - 18,1,N/A,N/A,N/A
+69,Malik Beasley,SUBSTITUTION,Craig Torrey,3:39,1,Nuggets,Spurs,16 - 18,1,N/A,N/A,N/A
+70,Nikola Jokic,SUBSTITUTION,Plumlee Mason,3:39,1,Nuggets,Spurs,16 - 18,1,N/A,N/A,N/A
+71,Jamal Murray,FG_ASSISTED,Monte Morris,3:19,1,Nuggets,Spurs,16 - 21,1,28,3,Jumper
+72,Marco Belinelli,TURNOVER,None,3:05,1,Spurs,Nuggets,16 - 21,0,N/A,N/A,N/A
+73,Trey Lyles,SUBSTITUTION,Hernangomez Juan,3:05,1,Nuggets,Spurs,16 - 21,1,N/A,N/A,N/A
+74,Malik Beasley,FG_ASSISTED,Nikola Jokic,2:52,1,Nuggets,Spurs,16 - 23,1,15,2,Jumper
+75,Trey Lyles,FOUL_ON_FLOOR,None,2:36,1,Nuggets,Spurs,16 - 23,1,N/A,N/A,N/A
+76,Rudy Gay,SUBSTITUTION,DeRozan DeMar,2:36,1,Spurs,Nuggets,16 - 23,0,N/A,N/A,N/A
+77,LaMarcus Aldridge,FG_MISS,None,2:26,1,Spurs,Nuggets,16 - 23,0,10,2,Jumper
+78,Trey Lyles,DEFENSIVE_REBOUND,None,2:22,1,Nuggets,Spurs,16 - 23,1,N/A,N/A,N/A
+79,Nikola Jokic,FG_ASSISTED,Trey Lyles,2:09,1,Nuggets,Spurs,16 - 25,1,5,2,Jumper
+80,Patty Mills,FG_MISS,None,2:02,1,Spurs,Nuggets,16 - 25,0,25,2,Jumper
+81,Monte Morris,DEFENSIVE_REBOUND,None,1:59,1,Nuggets,Spurs,16 - 25,1,N/A,N/A,N/A
+82,Jamal Murray,FG_MISS,None,1:48,1,Nuggets,Spurs,16 - 25,1,0,2,Layup
+83,Marco Belinelli,DEFENSIVE_REBOUND,None,1:46,1,Spurs,Nuggets,16 - 25,0,N/A,N/A,N/A
+84,LaMarcus Aldridge,FG_ASSISTED,Rudy Gay,1:38,1,Spurs,Nuggets,18 - 25,0,0,2,Layup
+85,Trey Lyles,FG_UNASSISTED,None,1:15,1,Nuggets,Spurs,18 - 27,1,0,2,Layup
+86,Monte Morris,FOUL_ON_FLOOR,None,1:09,1,Nuggets,Spurs,18 - 27,1,N/A,N/A,N/A
+87,Patty Mills,FT,None,1:09,1,Spurs,Nuggets,19 - 27,0,N/A,1,N/A
+88,Brandon Goodwin,SUBSTITUTION,Murray Jamal,1:09,1,Nuggets,Spurs,19 - 27,1,N/A,N/A,N/A
+89,Jakob Poeltl,SUBSTITUTION,Aldridge LaMarcus,1:09,1,Spurs,Nuggets,19 - 27,0,N/A,N/A,N/A
+90,Patty Mills,FT,None,1:09,1,Spurs,Nuggets,20 - 27,0,N/A,1,N/A
+91,Trey Lyles,FG_MISS,Rudy Gay,57.9,1,Spurs,Nuggets,20 - 27,1,3,2,Jumper
+92,Team,OFFENSIVE_REBOUND,None,57.9,1,Nuggets,Spurs,20 - 27,1,N/A,N/A,N/A
+93,Mason Plumlee,SUBSTITUTION,Jokic Nikola,57.9,1,Nuggets,Spurs,20 - 27,1,N/A,N/A,N/A
+94,Trey Lyles,TURNOVER,None,56.7,1,Nuggets,Spurs,20 - 27,1,N/A,N/A,N/A
+95,Patty Mills,TURNOVER,Trey Lyles,46.0,1,Spurs,Nuggets,20 - 27,0,N/A,N/A,N/A
+96,Malik Beasley,FG_ASSISTED,Monte Morris,43.6,1,Nuggets,Spurs,20 - 29,1,0,2,Dunk
+97,Patty Mills,FG_MISS,None,32.3,1,Spurs,Nuggets,20 - 29,0,25,3,Jumper
+98,Malik Beasley,DEFENSIVE_REBOUND,None,29.7,1,Nuggets,Spurs,20 - 29,1,N/A,N/A,N/A
+99,Malik Beasley,FG_UNASSISTED,None,25.9,1,Nuggets,Spurs,20 - 31,1, ,2,Jumper
+100,Marco Belinelli,FG_ASSISTED,Jakob Poeltl,2.9,1,Spurs,Nuggets,23 - 31,0,26,3,Jumper
+101,End of,Unknown,None,0.0,1,Nuggets,Spurs,23 - 31,1,N/A,N/A,N/A
+0,Nikola Jokic,SUBSTITUTION,Plumlee Mason,12:00,2,Nuggets,Spurs,23 - 31,1,N/A,N/A,N/A
+1,Rudy Gay,FG_MISS,None,11:44,2,Spurs,Nuggets,23 - 31,0,22,2,Jumper
+2,Rudy Gay,OFFENSIVE_REBOUND,None,11:40,2,Spurs,Nuggets,23 - 31,0,N/A,N/A,N/A
+3,Davis Bertans,TURNOVER,None,11:31,2,Spurs,Nuggets,23 - 31,0,N/A,N/A,N/A
+4,Nikola Jokic,FG_ASSISTED,Monte Morris,11:20,2,Nuggets,Spurs,23 - 33,1, ,2,Jumper
+5,Marco Belinelli,TURNOVER,Monte Morris,11:02,2,Spurs,Nuggets,23 - 33,0,N/A,N/A,N/A
+6,Monte Morris,FG_MISS,None,10:57,2,Nuggets,Spurs,23 - 33,1,22,3,Jumper
+7,Patty Mills,DEFENSIVE_REBOUND,None,10:55,2,Spurs,Nuggets,23 - 33,0,N/A,N/A,N/A
+8,Trey Lyles,FOUL_ON_FLOOR,None,10:49,2,Nuggets,Spurs,23 - 33,1,N/A,N/A,N/A
+9,Jakob Poeltl,FT_MISS,None,10:49,2,Spurs,Nuggets,23 - 33,0,N/A,1,N/A
+10,Team,OFFENSIVE_REBOUND,None,10:49,2,Spurs,Nuggets,23 - 33,0,N/A,N/A,N/A
+11,Jakob Poeltl,FT_MISS,None,10:49,2,Spurs,Nuggets,23 - 33,0,N/A,1,N/A
+12,Nikola Jokic,DEFENSIVE_REBOUND,None,10:47,2,Nuggets,Spurs,23 - 33,1,N/A,N/A,N/A
+13,Malik Beasley,FG_MISS,Jakob Poeltl,10:33,2,Spurs,Nuggets,23 - 33,1,0,2,Layup
+14,Jakob Poeltl,DEFENSIVE_REBOUND,None,10:31,2,Spurs,Nuggets,23 - 33,0,N/A,N/A,N/A
+15,Brandon Goodwin,FOUL_ON_FLOOR,None,10:26,2,Nuggets,Spurs,23 - 33,1,N/A,N/A,N/A
+16,Marco Belinelli,FT_MISS,None,10:26,2,Spurs,Nuggets,23 - 33,0,N/A,1,N/A
+17,Team,OFFENSIVE_REBOUND,None,10:26,2,Spurs,Nuggets,23 - 33,0,N/A,N/A,N/A
+18,Marco Belinelli,FT,None,10:26,2,Spurs,Nuggets,24 - 33,0,N/A,1,N/A
+19,Derrick White,SUBSTITUTION,Mills Patty,10:26,2,Spurs,Nuggets,24 - 33,0,N/A,N/A,N/A
+20,Marco Belinelli,FT,None,10:26,2,Spurs,Nuggets,25 - 33,0,N/A,1,N/A
+21,Monte Morris,FG_ASSISTED,Brandon Goodwin,10:11,2,Nuggets,Spurs,25 - 36,1,23,3,Jumper
+22,Davis Bertans,FG_MISS,None,9:53,2,Spurs,Nuggets,25 - 36,0,26,3,Jumper
+23,Trey Lyles,DEFENSIVE_REBOUND,None,9:50,2,Nuggets,Spurs,25 - 36,1,N/A,N/A,N/A
+24,Malik Beasley,FG_ASSISTED,Monte Morris,9:40,2,Nuggets,Spurs,25 - 38,1, ,2,Jumper
+25,Rudy Gay,FOUL_ON_FLOOR,None,9:40,2,Spurs,Nuggets,25 - 38,0,N/A,N/A,N/A
+26,Bryn Forbes,SUBSTITUTION,Belinelli Marco,9:40,2,Spurs,Nuggets,25 - 38,0,N/A,N/A,N/A
+27,DeMar DeRozan,SUBSTITUTION,Gay Rudy,9:40,2,Spurs,Nuggets,25 - 38,0,N/A,N/A,N/A
+28,Dante Cunningham,SUBSTITUTION,Bertans Davis,9:40,2,Spurs,Nuggets,25 - 38,0,N/A,N/A,N/A
+29,Malik Beasley,FT,None,9:40,2,Nuggets,Spurs,25 - 39,1,N/A,1,N/A
+30,Derrick White,FG_MISS,None,9:23,2,Spurs,Nuggets,25 - 39,0, ,2,Jumper
+31,Jakob Poeltl,OFFENSIVE_REBOUND,None,9:19,2,Spurs,Nuggets,25 - 39,0,N/A,N/A,N/A
+32,Jakob Poeltl,FG_UNASSISTED,None,9:19,2,Spurs,Nuggets,27 - 39,0, ,2,Jumper
+33,Trey Lyles,FG_MISS,None,9:10,2,Nuggets,Spurs,27 - 39,1,25,3,Jumper
+34,Bryn Forbes,DEFENSIVE_REBOUND,None,9:08,2,Spurs,Nuggets,27 - 39,0,N/A,N/A,N/A
+35,DeMar DeRozan,FG_UNASSISTED,None,8:56,2,Spurs,Nuggets,29 - 39,0,6,2,Jumper
+36,Nikola Jokic,FG_ASSISTED,Monte Morris,8:39,2,Nuggets,Spurs,29 - 41,1,0,2,Layup
+37,Dante Cunningham,FG_MISS,Trey Lyles,8:24,2,Nuggets,Spurs,29 - 41,0,0,2,Layup
+38,Derrick White,OFFENSIVE_REBOUND,None,8:19,2,Spurs,Nuggets,29 - 41,0,N/A,N/A,N/A
+39,Derrick White,FG_UNASSISTED,None,8:19,2,Spurs,Nuggets,31 - 41,0, ,2,Jumper
+40,Monte Morris,FG_MISS,None,7:58,2,Nuggets,Spurs,31 - 41,1,20,2,Jumper
+41,Trey Lyles,OFFENSIVE_REBOUND,None,7:58,2,Nuggets,Spurs,31 - 41,1,N/A,N/A,N/A
+42,Malik Beasley,FG_ASSISTED,Monte Morris,7:52,2,Nuggets,Spurs,31 - 44,1,24,3,Jumper
+43,DeMar DeRozan,FG_MISS,None,7:40,2,Spurs,Nuggets,31 - 44,0,17,2,Jumper
+44,Malik Beasley,DEFENSIVE_REBOUND,None,7:37,2,Nuggets,Spurs,31 - 44,1,N/A,N/A,N/A
+45,Trey Lyles,FOUL_ON_FLOOR,None,7:29,2,Nuggets,Spurs,31 - 44,1,N/A,N/A,N/A
+46,Trey Lyles,TURNOVER,None,7:29,2,Nuggets,Spurs,31 - 44,1,N/A,N/A,N/A
+47,Jamal Murray,SUBSTITUTION,Goodwin Brandon,7:29,2,Nuggets,Spurs,31 - 44,1,N/A,N/A,N/A
+48,Juan Hernangomez,SUBSTITUTION,Lyles Trey,7:29,2,Nuggets,Spurs,31 - 44,1,N/A,N/A,N/A
+49,Torrey Craig,SUBSTITUTION,Morris Monte,7:29,2,Nuggets,Spurs,31 - 44,1,N/A,N/A,N/A
+50,LaMarcus Aldridge,SUBSTITUTION,Poeltl Jakob,7:29,2,Spurs,Nuggets,31 - 44,0,N/A,N/A,N/A
+51,Mason Plumlee,SUBSTITUTION,Jokic Nikola,7:29,2,Nuggets,Spurs,31 - 44,1,N/A,N/A,N/A
+52,Torrey Craig,FOUL_ON_FLOOR,None,7:13,2,Nuggets,Spurs,31 - 44,1,N/A,N/A,N/A
+53,Bryn Forbes,FG_MISS,None,7:04,2,Spurs,Nuggets,31 - 44,0, ,2,Jumper
+54,Mason Plumlee,DEFENSIVE_REBOUND,None,6:58,2,Nuggets,Spurs,31 - 44,1,N/A,N/A,N/A
+55,Bryn Forbes,FOUL_ON_FLOOR,None,6:52,2,Spurs,Nuggets,31 - 44,0,N/A,N/A,N/A
+56,Team,Unknown,None,6:52,2,Nuggets,Spurs,31 - 44,1,N/A,N/A,N/A
+57,Malik Beasley,FG_MISS,None,6:47,2,Nuggets,Spurs,31 - 44,1,17,2,Jumper
+58,DeMar DeRozan,DEFENSIVE_REBOUND,None,6:44,2,Spurs,Nuggets,31 - 44,0,N/A,N/A,N/A
+59,LaMarcus Aldridge,FG_MISS,None,6:25,2,Spurs,Nuggets,31 - 44,0,11,2,Jumper
+60,Torrey Craig,DEFENSIVE_REBOUND,None,6:23,2,Nuggets,Spurs,31 - 44,1,N/A,N/A,N/A
+61,Jamal Murray,TURNOVER,LaMarcus Aldridge,6:19,2,Nuggets,Spurs,31 - 44,1,N/A,N/A,N/A
+62,Derrick White,TURNOVER,None,6:17,2,Spurs,Nuggets,31 - 44,0,N/A,N/A,N/A
+63,Torrey Craig,FG_ASSISTED,Jamal Murray,6:00,2,Nuggets,Spurs,31 - 47,1,25,3,Jumper
+64,LaMarcus Aldridge,FG_UNASSISTED,None,5:36,2,Spurs,Nuggets,33 - 47,0,4,2,Jumper
+65,Jamal Murray,FG_UNASSISTED,None,5:24,2,Nuggets,Spurs,33 - 49,1,0,2,Layup
+66,DeMar DeRozan,FG_MISS,None,5:12,2,Spurs,Nuggets,33 - 49,0,23,2,Jumper
+67,Dante Cunningham,OFFENSIVE_REBOUND,None,5:11,2,Spurs,Nuggets,33 - 49,0,N/A,N/A,N/A
+68,Dante Cunningham,FG_UNASSISTED,None,5:11,2,Spurs,Nuggets,35 - 49,0, ,2,Jumper
+69,Mason Plumlee,TURNOVER,Bryn Forbes,4:55,2,Nuggets,Spurs,35 - 49,1,N/A,N/A,N/A
+70,Mason Plumlee,FOUL_ON_FLOOR,None,4:53,2,Nuggets,Spurs,35 - 49,1,N/A,N/A,N/A
+71,Davis Bertans,SUBSTITUTION,Cunningham Dante,4:53,2,Spurs,Nuggets,35 - 49,0,N/A,N/A,N/A
+72,LaMarcus Aldridge,FG_ASSISTED,Derrick White,4:44,2,Spurs,Nuggets,37 - 49,0,0,2,Layup
+73,Mason Plumlee,Unknown,None,4:44,2,Nuggets,Spurs,37 - 49,1,N/A,N/A,N/A
+74,Mason Plumlee,FG_MISS,None,4:30,2,Nuggets,Spurs,37 - 49,1,3,2,Jumper
+75,DeMar DeRozan,DEFENSIVE_REBOUND,None,4:26,2,Spurs,Nuggets,37 - 49,0,N/A,N/A,N/A
+76,Davis Bertans,FG_MISS,None,4:19,2,Spurs,Nuggets,37 - 49,0,23,3,Jumper
+77,Malik Beasley,DEFENSIVE_REBOUND,None,4:14,2,Nuggets,Spurs,37 - 49,1,N/A,N/A,N/A
+78,Jamal Murray,FG_ASSISTED,Malik Beasley,4:11,2,Nuggets,Spurs,37 - 52,1,25,3,Jumper
+79,Bryn Forbes,FG_UNASSISTED,None,3:59,2,Spurs,Nuggets,39 - 52,0,17,2,Jumper
+80,Team,Unknown,None,3:58,2,Nuggets,Spurs,39 - 52,1,N/A,N/A,N/A
+81,Nikola Jokic,SUBSTITUTION,Beasley Malik,3:58,2,Nuggets,Spurs,39 - 52,1,N/A,N/A,N/A
+82,Patty Mills,SUBSTITUTION,White Derrick,3:58,2,Spurs,Nuggets,39 - 52,0,N/A,N/A,N/A
+83,Juan Hernangomez,TURNOVER,DeMar DeRozan,3:44,2,Nuggets,Spurs,39 - 52,1,N/A,N/A,N/A
+84,DeMar DeRozan,TURNOVER,Torrey Craig,3:37,2,Spurs,Nuggets,39 - 52,0,N/A,N/A,N/A
+85,Torrey Craig,TURNOVER,Bryn Forbes,3:34,2,Nuggets,Spurs,39 - 52,1,N/A,N/A,N/A
+86,Bryn Forbes,FG_MISS,None,3:27,2,Spurs,Nuggets,39 - 52,0,25,3,Jumper
+87,Jamal Murray,DEFENSIVE_REBOUND,None,3:24,2,Nuggets,Spurs,39 - 52,1,N/A,N/A,N/A
+88,Mason Plumlee's,FG_MISS,Davis Bertans,3:07,2,Spurs,Nuggets,39 - 52,1,0,2,Layup
+89,Mason Plumlee,OFFENSIVE_REBOUND,None,3:05,2,Nuggets,Spurs,39 - 52,1,N/A,N/A,N/A
+90,Mason Plumlee,FG_UNASSISTED,None,3:04,2,Nuggets,Spurs,39 - 54,1, ,2,Jumper
+91,LaMarcus Aldridge,FG_MISS,None,2:44,2,Spurs,Nuggets,39 - 54,0,13,2,Jumper
+92,LaMarcus Aldridge,OFFENSIVE_REBOUND,None,2:42,2,Spurs,Nuggets,39 - 54,0,N/A,N/A,N/A
+93,LaMarcus Aldridge,FG_UNASSISTED,None,2:40,2,Spurs,Nuggets,41 - 54,0, ,2,Jumper
+94,Jamal Murray,FG_UNASSISTED,None,2:27,2,Nuggets,Spurs,41 - 56,1,18,2,Jumper
+95,DeMar DeRozan,FG_MISS,None,2:14,2,Spurs,Nuggets,41 - 56,0,11,2,Jumper
+96,Torrey Craig,DEFENSIVE_REBOUND,None,2:09,2,Nuggets,Spurs,41 - 56,1,N/A,N/A,N/A
+97,DeMar DeRozan,FOUL_ON_FLOOR,None,2:04,2,Spurs,Nuggets,41 - 56,0,N/A,N/A,N/A
+98,Malik Beasley,SUBSTITUTION,Craig Torrey,2:04,2,Nuggets,Spurs,41 - 56,1,N/A,N/A,N/A
+99,Jakob Poeltl,SUBSTITUTION,Forbes Bryn,2:04,2,Spurs,Nuggets,41 - 56,0,N/A,N/A,N/A
+100,Marco Belinelli,SUBSTITUTION,Bertans Davis,2:04,2,Spurs,Nuggets,41 - 56,0,N/A,N/A,N/A
+101,Jamal Murray,FG_ASSISTED,Nikola Jokic,1:59,2,Nuggets,Spurs,41 - 59,1, ,2,Jumper
+102,Patty Mills,FG_MISS,None,1:35,2,Spurs,Nuggets,41 - 59,0,25,3,Jumper
+103,Juan Hernangomez,DEFENSIVE_REBOUND,None,1:31,2,Nuggets,Spurs,41 - 59,1,N/A,N/A,N/A
+104,Jamal Murray,FG_MISS,None,1:25,2,Nuggets,Spurs,41 - 59,1,25,3,Jumper
+105,LaMarcus Aldridge,DEFENSIVE_REBOUND,None,1:23,2,Spurs,Nuggets,41 - 59,0,N/A,N/A,N/A
+106,Jakob Poeltl,FG_MISS,Mason Plumlee,1:11,2,Nuggets,Spurs,41 - 59,0,3,2,Jumper
+107,Patty Mills,OFFENSIVE_REBOUND,None,1:09,2,Spurs,Nuggets,41 - 59,0,N/A,N/A,N/A
+108,Patty Mills,FG_MISS,None,1:09,2,Spurs,Nuggets,41 - 59,0,8,2,Jumper
+109,Mason Plumlee,DEFENSIVE_REBOUND,None,1:07,2,Nuggets,Spurs,41 - 59,1,N/A,N/A,N/A
+110,Nikola Jokic,FG_MISS,None,45.4,2,Nuggets,Spurs,41 - 59,1,17,2,Jumper
+111,Jakob Poeltl,DEFENSIVE_REBOUND,None,42.7,2,Spurs,Nuggets,41 - 59,0,N/A,N/A,N/A
+112,LaMarcus Aldridge,FG_ASSISTED,Marco Belinelli,36.5,2,Spurs,Nuggets,43 - 59,0,0,2,Dunk
+113,Mason Plumlee,FOUL_ON_FLOOR,None,36.5,2,Nuggets,Spurs,43 - 59,1,N/A,N/A,N/A
+114,LaMarcus Aldridge,FT,None,36.5,2,Spurs,Nuggets,44 - 59,0,N/A,1,N/A
+115,Jamal Murray,FG_MISS,None,30.5,2,Nuggets,Spurs,44 - 59,1,0,2,Dunk
+116,DeMar DeRozan,DEFENSIVE_REBOUND,None,27.5,2,Spurs,Nuggets,44 - 59,0,N/A,N/A,N/A
+117,Patty Mills,FG_ASSISTED,DeMar DeRozan,12.6,2,Spurs,Nuggets,47 - 59,0,23,3,Jumper
+118,Patty Mills,FOUL_ON_FLOOR,None,7.9,2,Spurs,Nuggets,47 - 59,0,N/A,N/A,N/A
+119,Trey Lyles,SUBSTITUTION,Plumlee Mason,7.9,2,Nuggets,Spurs,47 - 59,1,N/A,N/A,N/A
+120,Rudy Gay,SUBSTITUTION,Poeltl Jakob,7.9,2,Spurs,Nuggets,47 - 59,0,N/A,N/A,N/A
+121,Jamal Murray,FG_UNASSISTED,None,1.6,2,Nuggets,Spurs,47 - 61,1,6,2,Jumper
+122,Rudy Gay,FG_MISS,None,0.2,2,Spurs,Nuggets,47 - 61,0,69,3,Jumper
+123,Team,OFFENSIVE_REBOUND,None,0.1,2,Spurs,Nuggets,47 - 61,0,N/A,N/A,N/A
+124,End of,Unknown,None,0.0,2,Nuggets,Spurs,47 - 61,1,N/A,N/A,N/A
+0,Torrey Craig,SUBSTITUTION,Lyles Trey,12:00,3,Nuggets,Spurs,47 - 61,1,N/A,N/A,N/A
+1,Mason Plumlee,SUBSTITUTION,Beasley Malik,12:00,3,Nuggets,Spurs,47 - 61,1,N/A,N/A,N/A
+2,Bryn Forbes,SUBSTITUTION,Mills Patty,12:00,3,Spurs,Nuggets,47 - 61,0,N/A,N/A,N/A
+3,Derrick White,SUBSTITUTION,Belinelli Marco,12:00,3,Spurs,Nuggets,47 - 61,0,N/A,N/A,N/A
+4,Rudy Gay,FG_ASSISTED,LaMarcus Aldridge,11:45,3,Spurs,Nuggets,49 - 61,0,18,2,Jumper
+5,Jamal Murray,FG_MISS,None,11:24,3,Nuggets,Spurs,49 - 61,1, ,2,Jumper
+6,Jamal Murray,OFFENSIVE_REBOUND,None,11:20,3,Nuggets,Spurs,49 - 61,1,N/A,N/A,N/A
+7,Jamal Murray,FG_MISS,None,11:20,3,Nuggets,Spurs,49 - 61,1, ,2,Jumper
+8,LaMarcus Aldridge,DEFENSIVE_REBOUND,None,11:20,3,Spurs,Nuggets,49 - 61,0,N/A,N/A,N/A
+9,Nikola Jokic,FOUL_ON_FLOOR,None,11:09,3,Nuggets,Spurs,49 - 61,1,N/A,N/A,N/A
+10,Torrey Craig,FOUL_ON_FLOOR,None,11:03,3,Nuggets,Spurs,49 - 61,1,N/A,N/A,N/A
+11,DeMar DeRozan,FT,None,11:03,3,Spurs,Nuggets,50 - 61,0,N/A,1,N/A
+12,DeMar DeRozan,FT_MISS,None,11:03,3,Spurs,Nuggets,50 - 61,0,N/A,1,N/A
+13,Nikola Jokic,DEFENSIVE_REBOUND,None,11:01,3,Nuggets,Spurs,50 - 61,1,N/A,N/A,N/A
+14,Derrick White,FOUL_ON_FLOOR,None,10:55,3,Spurs,Nuggets,50 - 61,0,N/A,N/A,N/A
+15,Jamal Murray,TURNOVER,Derrick White,10:46,3,Nuggets,Spurs,50 - 61,1,N/A,N/A,N/A
+16,Derrick White,FG_ASSISTED,DeMar DeRozan,10:37,3,Spurs,Nuggets,53 - 61,0,22,3,Jumper
+17,Team,Unknown,None,10:36,3,Nuggets,Spurs,53 - 61,1,N/A,N/A,N/A
+18,Torrey Craig,FG_MISS,None,10:15,3,Nuggets,Spurs,53 - 61,1, ,3,Jumper
+19,Mason Plumlee,OFFENSIVE_REBOUND,None,10:13,3,Nuggets,Spurs,53 - 61,1,N/A,N/A,N/A
+20,Mason Plumlee,TURNOVER,None,10:13,3,Nuggets,Spurs,53 - 61,1,N/A,N/A,N/A
+21,LaMarcus Aldridge,FG_MISS,None,9:53,3,Spurs,Nuggets,53 - 61,0,10,2,Jumper
+22,Juan Hernangomez,DEFENSIVE_REBOUND,None,9:50,3,Nuggets,Spurs,53 - 61,1,N/A,N/A,N/A
+23,Nikola Jokic,TURNOVER,Derrick White,9:38,3,Nuggets,Spurs,53 - 61,1,N/A,N/A,N/A
+24,Rudy Gay,FG_MISS,None,9:32,3,Spurs,Nuggets,53 - 61,0,26,3,Jumper
+25,LaMarcus Aldridge,OFFENSIVE_REBOUND,None,9:30,3,Spurs,Nuggets,53 - 61,0,N/A,N/A,N/A
+26,LaMarcus Aldridge,FG_MISS,None,9:26,3,Spurs,Nuggets,53 - 61,0, ,2,Jumper
+27,Mason Plumlee,DEFENSIVE_REBOUND,None,9:26,3,Nuggets,Spurs,53 - 61,1,N/A,N/A,N/A
+28,Torrey Craig,FOUL_ON_FLOOR,None,9:12,3,Nuggets,Spurs,53 - 61,1,N/A,N/A,N/A
+29,Torrey Craig,TURNOVER,None,9:12,3,Nuggets,Spurs,53 - 61,1,N/A,N/A,N/A
+30,Derrick White,FG_MISS,None,8:48,3,Spurs,Nuggets,53 - 61,0,25,2,Jumper
+31,Nikola Jokic,DEFENSIVE_REBOUND,None,8:45,3,Nuggets,Spurs,53 - 61,1,N/A,N/A,N/A
+32,Derrick White,FOUL_ON_FLOOR,None,8:36,3,Spurs,Nuggets,53 - 61,0,N/A,N/A,N/A
+33,Juan Hernangomez,FG_ASSISTED,Nikola Jokic,8:28,3,Nuggets,Spurs,53 - 63,1,0,2,Layup
+34,Bryn Forbes,FG_ASSISTED,Derrick White,8:12,3,Spurs,Nuggets,56 - 63,0,25,3,Jumper
+35,Nikola Jokic,TURNOVER,Derrick White,7:55,3,Nuggets,Spurs,56 - 63,1,N/A,N/A,N/A
+36,Nikola Jokic,FOUL_ON_FLOOR,None,7:54,3,Nuggets,Spurs,56 - 63,1,N/A,N/A,N/A
+37,DeMar DeRozan,FG_MISS,None,7:44,3,Spurs,Nuggets,56 - 63,0,17,2,Jumper
+38,Mason Plumlee,DEFENSIVE_REBOUND,None,7:42,3,Nuggets,Spurs,56 - 63,1,N/A,N/A,N/A
+39,Rudy Gay,FOUL_ON_FLOOR,None,7:39,3,Spurs,Nuggets,56 - 63,0,N/A,N/A,N/A
+40,Malik Beasley,SUBSTITUTION,Plumlee Mason,7:39,3,Nuggets,Spurs,56 - 63,1,N/A,N/A,N/A
+41,Nikola Jokic,TURNOVER,Derrick White,7:33,3,Nuggets,Spurs,56 - 63,1,N/A,N/A,N/A
+42,DeMar DeRozan's,FG_MISS,Torrey Craig,7:28,3,Nuggets,Spurs,56 - 63,0, ,2,Jumper
+43,LaMarcus Aldridge,OFFENSIVE_REBOUND,None,7:23,3,Spurs,Nuggets,56 - 63,0,N/A,N/A,N/A
+44,LaMarcus Aldridge,FG_UNASSISTED,None,7:23,3,Spurs,Nuggets,58 - 63,0, ,2,Jumper
+45,Nikola Jokic,FG_ASSISTED,Torrey Craig,7:12,3,Nuggets,Spurs,58 - 65,1,0,2,Layup
+46,Derrick White,FG_MISS,None,6:57,3,Spurs,Nuggets,58 - 65,0,26,3,Jumper
+47,Juan Hernangomez,DEFENSIVE_REBOUND,None,6:53,3,Nuggets,Spurs,58 - 65,1,N/A,N/A,N/A
+48,Jamal Murray,FG_ASSISTED,Nikola Jokic,6:45,3,Nuggets,Spurs,58 - 67,1,0,2,Layup
+49,Team,Unknown,None,6:45,3,Spurs,Nuggets,58 - 67,0,N/A,N/A,N/A
+50,Bryn Forbes,FG_ASSISTED,Derrick White,6:31,3,Spurs,Nuggets,61 - 67,0,25,3,Jumper
+51,Juan Hernangomez,FG_MISS,None,6:11,3,Nuggets,Spurs,61 - 67,1,22,3,Jumper
+52,Derrick White,DEFENSIVE_REBOUND,None,6:08,3,Spurs,Nuggets,61 - 67,0,N/A,N/A,N/A
+53,LaMarcus Aldridge,FG_MISS,None,6:02,3,Spurs,Nuggets,61 - 67,0,20,2,Jumper
+54,Derrick White,OFFENSIVE_REBOUND,None,5:55,3,Spurs,Nuggets,61 - 67,0,N/A,N/A,N/A
+55,Derrick White,FG_UNASSISTED,None,5:55,3,Spurs,Nuggets,63 - 67,0,0,2,Dunk
+56,Malik Beasley,FG_MISS,None,5:35,3,Nuggets,Spurs,63 - 67,1,20,2,Jumper
+57,Derrick White,DEFENSIVE_REBOUND,None,5:32,3,Spurs,Nuggets,63 - 67,0,N/A,N/A,N/A
+58,LaMarcus Aldridge,FG_MISS,None,5:20,3,Spurs,Nuggets,63 - 67,0,11,2,Jumper
+59,Torrey Craig,DEFENSIVE_REBOUND,None,5:16,3,Nuggets,Spurs,63 - 67,1,N/A,N/A,N/A
+60,Torrey Craig,FG_ASSISTED,Nikola Jokic,5:08,3,Nuggets,Spurs,63 - 69,1,0,2,Layup
+61,DeMar DeRozan,TURNOVER,Jamal Murray,4:55,3,Spurs,Nuggets,63 - 69,0,N/A,N/A,N/A
+62,DeMar DeRozan,FOUL_ON_FLOOR,None,4:55,3,Spurs,Nuggets,63 - 69,0,N/A,N/A,N/A
+63,Team,Unknown,None,4:55,3,Nuggets,Spurs,63 - 69,1,N/A,N/A,N/A
+64,Trey Lyles,SUBSTITUTION,Murray Jamal,4:55,3,Nuggets,Spurs,63 - 69,1,N/A,N/A,N/A
+65,Monte Morris,SUBSTITUTION,Hernangomez Juan,4:55,3,Nuggets,Spurs,63 - 69,1,N/A,N/A,N/A
+66,Trey Lyles,FG_MISS,None,4:32,3,Nuggets,Spurs,63 - 69,1,20,2,Jumper
+67,Rudy Gay,DEFENSIVE_REBOUND,None,4:27,3,Spurs,Nuggets,63 - 69,0,N/A,N/A,N/A
+68,Rudy Gay,FG_MISS,None,4:23,3,Spurs,Nuggets,63 - 69,0,26,3,Jumper
+69,Nikola Jokic,DEFENSIVE_REBOUND,None,4:20,3,Nuggets,Spurs,63 - 69,1,N/A,N/A,N/A
+70,Nikola Jokic,FG_MISS,None,4:12,3,Nuggets,Spurs,63 - 69,1,25,3,Jumper
+71,DeMar DeRozan,DEFENSIVE_REBOUND,None,4:06,3,Spurs,Nuggets,63 - 69,0,N/A,N/A,N/A
+72,LaMarcus Aldridge,FG_MISS,None,3:46,3,Spurs,Nuggets,63 - 69,0, ,2,Jumper
+73,Torrey Craig,DEFENSIVE_REBOUND,None,3:45,3,Nuggets,Spurs,63 - 69,1,N/A,N/A,N/A
+74,Monte Morris,TURNOVER,Rudy Gay,3:39,3,Nuggets,Spurs,63 - 69,1,N/A,N/A,N/A
+75,DeMar DeRozan,FG_ASSISTED,Rudy Gay,3:36,3,Spurs,Nuggets,65 - 69,0,0,2,Dunk
+76,Trey Lyles,FG_MISS,None,3:18,3,Nuggets,Spurs,65 - 69,1,25,3,Jumper
+77,Monte Morris,OFFENSIVE_REBOUND,None,3:15,3,Nuggets,Spurs,65 - 69,1,N/A,N/A,N/A
+78,Nikola Jokic,TURNOVER,LaMarcus Aldridge,3:03,3,Nuggets,Spurs,65 - 69,1,N/A,N/A,N/A
+79,Derrick White,FG_ASSISTED,DeMar DeRozan,2:59,3,Spurs,Nuggets,67 - 69,0,0,2,Dunk
+80,Team,Unknown,None,2:59,3,Nuggets,Spurs,67 - 69,1,N/A,N/A,N/A
+81,Marco Belinelli,SUBSTITUTION,Forbes Bryn,2:59,3,Spurs,Nuggets,67 - 69,0,N/A,N/A,N/A
+82,Davis Bertans,SUBSTITUTION,Gay Rudy,2:59,3,Spurs,Nuggets,67 - 69,0,N/A,N/A,N/A
+83,Trey Lyles,FG_MISS,None,2:46,3,Nuggets,Spurs,67 - 69,1,0,2,Layup
+84,Trey Lyles,OFFENSIVE_REBOUND,None,2:45,3,Nuggets,Spurs,67 - 69,1,N/A,N/A,N/A
+85,DeMar DeRozan,FOUL_ON_FLOOR,None,2:43,3,Spurs,Nuggets,67 - 69,0,N/A,N/A,N/A
+86,Trey Lyles,FT_MISS,None,2:43,3,Nuggets,Spurs,67 - 69,1,N/A,1,N/A
+87,Team,OFFENSIVE_REBOUND,None,2:43,3,Nuggets,Spurs,67 - 69,1,N/A,N/A,N/A
+88,Jamal Murray,SUBSTITUTION,Craig Torrey,2:43,3,Nuggets,Spurs,67 - 69,1,N/A,N/A,N/A
+89,Patty Mills,SUBSTITUTION,White Derrick,2:43,3,Spurs,Nuggets,67 - 69,0,N/A,N/A,N/A
+90,Bryn Forbes,SUBSTITUTION,DeRozan DeMar,2:43,3,Spurs,Nuggets,67 - 69,0,N/A,N/A,N/A
+91,Trey Lyles,FT,None,2:43,3,Nuggets,Spurs,67 - 70,1,N/A,1,N/A
+92,Bryn Forbes,FG_MISS,None,2:24,3,Spurs,Nuggets,67 - 70,0,25,3,Jumper
+93,Nikola Jokic,DEFENSIVE_REBOUND,None,2:22,3,Nuggets,Spurs,67 - 70,1,N/A,N/A,N/A
+94,Nikola Jokic,FG_UNASSISTED,None,2:13,3,Nuggets,Spurs,67 - 72,1,24,2,Jumper
+95,Marco Belinelli,FG_ASSISTED,Davis Bertans,1:58,3,Spurs,Nuggets,69 - 72,0, ,2,Jumper
+96,Nikola Jokic,FG_MISS,None,1:47,3,Nuggets,Spurs,69 - 72,1,25,3,Jumper
+97,Patty Mills,DEFENSIVE_REBOUND,None,1:44,3,Spurs,Nuggets,69 - 72,0,N/A,N/A,N/A
+98,LaMarcus Aldridge,FG_UNASSISTED,None,1:34,3,Spurs,Nuggets,71 - 72,0,4,2,Jumper
+99,Jamal Murray,FG_UNASSISTED,None,1:22,3,Nuggets,Spurs,71 - 74,1,16,2,Jumper
+100,Marco Belinelli,FG_MISS,None,1:04,3,Spurs,Nuggets,71 - 74,0,25,3,Jumper
+101,Monte Morris,DEFENSIVE_REBOUND,None,1:02,3,Nuggets,Spurs,71 - 74,1,N/A,N/A,N/A
+102,Malik Beasley,FG_ASSISTED,Monte Morris,1:00,3,Nuggets,Spurs,71 - 76,1, ,2,Jumper
+103,Bryn Forbes,FG_ASSISTED,Patty Mills,55.0,3,Spurs,Nuggets,73 - 76,0,0,2,Dunk
+104,Trey Lyles,FG_MISS,None,38.6,3,Nuggets,Spurs,73 - 76,1,23,3,Jumper
+105,LaMarcus Aldridge,DEFENSIVE_REBOUND,None,35.5,3,Spurs,Nuggets,73 - 76,0,N/A,N/A,N/A
+106,LaMarcus Aldridge,FG_ASSISTED,Marco Belinelli,26.2,3,Spurs,Nuggets,75 - 76,0,0,2,Dunk
+107,Jamal Murray,FG_UNASSISTED,None,6.4,3,Nuggets,Spurs,75 - 78,1,3,2,Jumper
+108,Patty Mills,FG_MISS,None,1.2,3,Spurs,Nuggets,75 - 78,0,16,2,Jumper
+109,Team,OFFENSIVE_REBOUND,None,1.2,3,Spurs,Nuggets,75 - 78,0,N/A,N/A,N/A
+110,End of,Unknown,None,0.0,3,Nuggets,Spurs,75 - 78,1,N/A,N/A,N/A
+0,Mason Plumlee,SUBSTITUTION,Jokic Nikola,12:00,4,Nuggets,Spurs,75 - 78,1,N/A,N/A,N/A
+1,Jakob Poeltl,SUBSTITUTION,Aldridge LaMarcus,12:00,4,Spurs,Nuggets,75 - 78,0,N/A,N/A,N/A
+2,Rudy Gay,SUBSTITUTION,Forbes Bryn,12:00,4,Spurs,Nuggets,75 - 78,0,N/A,N/A,N/A
+3,Monte Morris,FG_MISS,None,11:42,4,Nuggets,Spurs,75 - 78,1, ,2,Jumper
+4,Trey Lyles,OFFENSIVE_REBOUND,None,11:36,4,Nuggets,Spurs,75 - 78,1,N/A,N/A,N/A
+5,Trey Lyles,FG_MISS,None,11:36,4,Nuggets,Spurs,75 - 78,1, ,2,Jumper
+6,Mason Plumlee,OFFENSIVE_REBOUND,None,11:36,4,Nuggets,Spurs,75 - 78,1,N/A,N/A,N/A
+7,Davis Bertans,FOUL_ON_FLOOR,None,11:35,4,Spurs,Nuggets,75 - 78,0,N/A,N/A,N/A
+8,Malik Beasley,FT,None,11:35,4,Nuggets,Spurs,75 - 79,1,N/A,1,N/A
+9,Malik Beasley,FT,None,11:35,4,Nuggets,Spurs,75 - 80,1,N/A,1,N/A
+10,Rudy Gay,FG_UNASSISTED,None,11:13,4,Spurs,Nuggets,77 - 80,0,11,2,Jumper
+11,Malik Beasley,FG_ASSISTED,Trey Lyles,10:51,4,Nuggets,Spurs,77 - 83,1,25,3,Jumper
+12,Patty Mills,TURNOVER,Monte Morris,10:23,4,Spurs,Nuggets,77 - 83,0,N/A,N/A,N/A
+13,Trey Lyles,FG_MISS,None,10:17,4,Nuggets,Spurs,77 - 83,1, ,2,Jumper
+14,Davis Bertans,DEFENSIVE_REBOUND,None,10:15,4,Spurs,Nuggets,77 - 83,0,N/A,N/A,N/A
+15,Davis Bertans,FG_ASSISTED,Rudy Gay,9:58,4,Spurs,Nuggets,80 - 83,0,24,3,Jumper
+16,Jamal Murray,FG_MISS,None,9:41,4,Nuggets,Spurs,80 - 83,1, ,2,Jumper
+17,Jakob Poeltl,DEFENSIVE_REBOUND,None,9:39,4,Spurs,Nuggets,80 - 83,0,N/A,N/A,N/A
+18,Rudy Gay,FG_MISS,None,9:34,4,Spurs,Nuggets,80 - 83,0,24,3,Jumper
+19,Mason Plumlee,DEFENSIVE_REBOUND,None,9:31,4,Nuggets,Spurs,80 - 83,1,N/A,N/A,N/A
+20,Davis Bertans,FOUL_ON_FLOOR,None,9:19,4,Spurs,Nuggets,80 - 83,0,N/A,N/A,N/A
+21,Monte Morris,FT,None,9:19,4,Nuggets,Spurs,80 - 84,1,N/A,1,N/A
+22,DeMar DeRozan,SUBSTITUTION,Gay Rudy,9:19,4,Spurs,Nuggets,80 - 84,0,N/A,N/A,N/A
+23,Monte Morris,FT,None,9:19,4,Nuggets,Spurs,80 - 85,1,N/A,1,N/A
+24,Jakob Poeltl,FOUL_ON_FLOOR,None,9:11,4,Spurs,Nuggets,80 - 85,0,N/A,N/A,N/A
+25,Jakob Poeltl,TURNOVER,None,9:11,4,Spurs,Nuggets,80 - 85,0,N/A,N/A,N/A
+26,Trey Lyles,TURNOVER,Marco Belinelli,8:57,4,Nuggets,Spurs,80 - 85,1,N/A,N/A,N/A
+27,Marco Belinelli,FG_MISS,None,8:46,4,Spurs,Nuggets,80 - 85,0,23,3,Jumper
+28,Trey Lyles,DEFENSIVE_REBOUND,None,8:44,4,Nuggets,Spurs,80 - 85,1,N/A,N/A,N/A
+29,Malik Beasley,FG_MISS,None,8:36,4,Nuggets,Spurs,80 - 85,1,24,3,Jumper
+30,Davis Bertans,DEFENSIVE_REBOUND,None,8:33,4,Spurs,Nuggets,80 - 85,0,N/A,N/A,N/A
+31,Davis Bertans,FG_MISS,Trey Lyles,8:26,4,Nuggets,Spurs,80 - 85,0,26,3,Jumper
+32,Monte Morris,DEFENSIVE_REBOUND,None,8:23,4,Nuggets,Spurs,80 - 85,1,N/A,N/A,N/A
+33,Monte Morris,FG_MISS,None,8:20,4,Nuggets,Spurs,80 - 85,1,16,2,Jumper
+34,Trey Lyles,OFFENSIVE_REBOUND,None,8:15,4,Nuggets,Spurs,80 - 85,1,N/A,N/A,N/A
+35,Trey Lyles,FG_MISS,None,8:15,4,Nuggets,Spurs,80 - 85,1, ,2,Jumper
+36,Jamal Murray,OFFENSIVE_REBOUND,None,8:14,4,Nuggets,Spurs,80 - 85,1,N/A,N/A,N/A
+37,Jamal Murray,FG_MISS,None,8:13,4,Nuggets,Spurs,80 - 85,1, ,2,Jumper
+38,Marco Belinelli,DEFENSIVE_REBOUND,None,8:11,4,Spurs,Nuggets,80 - 85,0,N/A,N/A,N/A
+39,Jakob Poeltl,FG_ASSISTED,DeMar DeRozan,7:57,4,Spurs,Nuggets,82 - 85,0,0,2,Layup
+40,Jakob Poeltl,FOUL_ON_FLOOR,None,7:42,4,Spurs,Nuggets,82 - 85,0,N/A,N/A,N/A
+41,Malik Beasley,FT,None,7:42,4,Nuggets,Spurs,82 - 86,1,N/A,1,N/A
+42,Juan Hernangomez,SUBSTITUTION,Lyles Trey,7:42,4,Nuggets,Spurs,82 - 86,1,N/A,N/A,N/A
+43,Nikola Jokic,SUBSTITUTION,Plumlee Mason,7:42,4,Nuggets,Spurs,82 - 86,1,N/A,N/A,N/A
+44,LaMarcus Aldridge,SUBSTITUTION,Poeltl Jakob,7:42,4,Spurs,Nuggets,82 - 86,0,N/A,N/A,N/A
+45,Malik Beasley,FT,None,7:42,4,Nuggets,Spurs,82 - 87,1,N/A,1,N/A
+46,Monte Morris,FOUL_ON_FLOOR,None,7:40,4,Nuggets,Spurs,82 - 87,1,N/A,N/A,N/A
+47,Torrey Craig,SUBSTITUTION,Beasley Malik,7:40,4,Nuggets,Spurs,82 - 87,1,N/A,N/A,N/A
+48,DeMar DeRozan,FG_ASSISTED,Patty Mills,7:26,4,Spurs,Nuggets,84 - 87,0,0,2,Layup
+49,Jamal Murray,FG_ASSISTED,Nikola Jokic,7:08,4,Nuggets,Spurs,84 - 89,1,13,2,Jumper
+50,DeMar DeRozan,FG_UNASSISTED,None,6:57,4,Spurs,Nuggets,86 - 89,0,0,2,Dunk
+51,Marco Belinelli,FOUL_ON_FLOOR,None,6:45,4,Spurs,Nuggets,86 - 89,0,N/A,N/A,N/A
+52,Team,Unknown,None,6:45,4,Nuggets,Spurs,86 - 89,1,N/A,N/A,N/A
+53,Mason Plumlee,SUBSTITUTION,Morris Monte,6:45,4,Nuggets,Spurs,86 - 89,1,N/A,N/A,N/A
+54,Bryn Forbes,SUBSTITUTION,Mills Patty,6:45,4,Spurs,Nuggets,86 - 89,0,N/A,N/A,N/A
+55,Jakob Poeltl,SUBSTITUTION,Belinelli Marco,6:45,4,Spurs,Nuggets,86 - 89,0,N/A,N/A,N/A
+56,Derrick White,SUBSTITUTION,Bertans Davis,6:45,4,Spurs,Nuggets,86 - 89,0,N/A,N/A,N/A
+57,Juan Hernangomez,FT,None,6:45,4,Nuggets,Spurs,86 - 90,1,N/A,1,N/A
+58,Juan Hernangomez,FT,None,6:45,4,Nuggets,Spurs,86 - 91,1,N/A,1,N/A
+59,Derrick White,FG_MISS,None,6:24,4,Spurs,Nuggets,86 - 91,0,7,2,Jumper
+60,Juan Hernangomez,DEFENSIVE_REBOUND,None,6:21,4,Nuggets,Spurs,86 - 91,1,N/A,N/A,N/A
+61,Nikola Jokic,FG_ASSISTED,Jamal Murray,6:06,4,Nuggets,Spurs,86 - 93,1,13,2,Jumper
+62,LaMarcus Aldridge,FG_UNASSISTED,None,5:46,4,Spurs,Nuggets,88 - 93,0,4,2,Jumper
+63,Mason Plumlee,TURNOVER,Derrick White,5:30,4,Nuggets,Spurs,88 - 93,1,N/A,N/A,N/A
+64,Jakob Poeltl,FG_MISS,None,5:22,4,Spurs,Nuggets,88 - 93,0,0,2,Layup
+65,Derrick White,OFFENSIVE_REBOUND,None,5:20,4,Spurs,Nuggets,88 - 93,0,N/A,N/A,N/A
+66,Torrey Craig,FOUL_ON_FLOOR,None,5:17,4,Nuggets,Spurs,88 - 93,1,N/A,N/A,N/A
+67,LaMarcus Aldridge,FT_MISS,None,5:17,4,Spurs,Nuggets,88 - 93,0,N/A,1,N/A
+68,Team,OFFENSIVE_REBOUND,None,5:17,4,Spurs,Nuggets,88 - 93,0,N/A,N/A,N/A
+69,LaMarcus Aldridge,FT,None,5:17,4,Spurs,Nuggets,89 - 93,0,N/A,1,N/A
+70,Torrey Craig,FG_MISS,None,4:59,4,Nuggets,Spurs,89 - 93,1,25,3,Jumper
+71,Derrick White,DEFENSIVE_REBOUND,None,4:55,4,Spurs,Nuggets,89 - 93,0,N/A,N/A,N/A
+72,Jakob Poeltl,FG_ASSISTED,LaMarcus Aldridge,4:45,4,Spurs,Nuggets,91 - 93,0,0,2,Layup
+73,Team,Unknown,None,4:44,4,Nuggets,Spurs,89 - 93,1,N/A,N/A,N/A
+74,Jamal Murray,FG_MISS,None,4:32,4,Nuggets,Spurs,91 - 93,1,19,2,Jumper
+75,Team,OFFENSIVE_REBOUND,None,4:31,4,Nuggets,Spurs,91 - 93,1,N/A,N/A,N/A
+76,Derrick White,FOUL_ON_FLOOR,None,4:31,4,Spurs,Nuggets,91 - 93,0,N/A,N/A,N/A
+77,Mason Plumlee,FT_MISS,None,4:31,4,Nuggets,Spurs,91 - 93,1,N/A,1,N/A
+78,Team,OFFENSIVE_REBOUND,None,4:31,4,Nuggets,Spurs,91 - 93,1,N/A,N/A,N/A
+79,Mason Plumlee,FT,None,4:31,4,Nuggets,Spurs,91 - 94,1,N/A,1,N/A
+80,LaMarcus Aldridge,FG_MISS,None,4:11,4,Spurs,Nuggets,91 - 94,0,18,2,Jumper
+81,Torrey Craig,DEFENSIVE_REBOUND,None,4:08,4,Nuggets,Spurs,91 - 94,1,N/A,N/A,N/A
+82,Torrey Craig,FG_ASSISTED,Nikola Jokic,3:54,4,Nuggets,Spurs,91 - 96,1,4,2,Jumper
+83,LaMarcus Aldridge,FG_ASSISTED,DeMar DeRozan,3:34,4,Spurs,Nuggets,93 - 96,0,10,2,Jumper
+84,Jamal Murray,FG_UNASSISTED,None,3:16,4,Nuggets,Spurs,93 - 98,1,15,2,Jumper
+85,DeMar DeRozan,FG_ASSISTED,Jakob Poeltl,2:51,4,Spurs,Nuggets,95 - 98,0,15,2,Jumper
+86,Torrey Craig,FG_MISS,None,2:31,4,Nuggets,Spurs,95 - 98,1,25,3,Jumper
+87,Team,OFFENSIVE_REBOUND,None,2:28,4,Nuggets,Spurs,95 - 98,1,N/A,N/A,N/A
+88,Jamal Murray,FG_MISS,None,2:21,4,Nuggets,Spurs,95 - 98,1,25,3,Jumper
+89,Bryn Forbes,DEFENSIVE_REBOUND,None,2:18,4,Spurs,Nuggets,95 - 98,0,N/A,N/A,N/A
+90,Nikola Jokic,FOUL_ON_FLOOR,None,2:14,4,Nuggets,Spurs,95 - 98,1,N/A,N/A,N/A
+91,Bryn Forbes,FG_MISS,None,2:09,4,Spurs,Nuggets,95 - 98,0,23,3,Jumper
+92,Nikola Jokic,DEFENSIVE_REBOUND,None,2:05,4,Nuggets,Spurs,95 - 98,1,N/A,N/A,N/A
+93,Nikola Jokic,TURNOVER,None,1:57,4,Nuggets,Spurs,95 - 98,1,N/A,N/A,N/A
+94,Torrey Craig,FOUL_ON_FLOOR,None,1:48,4,Nuggets,Spurs,95 - 98,1,N/A,N/A,N/A
+95,DeMar DeRozan,FT,None,1:48,4,Spurs,Nuggets,96 - 98,0,N/A,1,N/A
+96,DeMar DeRozan,FT_MISS,None,1:48,4,Spurs,Nuggets,96 - 98,0,N/A,1,N/A
+97,Team,OFFENSIVE_REBOUND,None,1:47,4,Spurs,Nuggets,96 - 98,0,N/A,N/A,N/A
+98,Nikola Jokic,FOUL_ON_FLOOR,None,1:47,4,Nuggets,Spurs,96 - 98,1,N/A,N/A,N/A
+99,Jakob Poeltl,FT_MISS,None,1:47,4,Spurs,Nuggets,96 - 98,0,N/A,1,N/A
+100,Team,OFFENSIVE_REBOUND,None,1:47,4,Spurs,Nuggets,96 - 98,0,N/A,N/A,N/A
+101,Jakob Poeltl,FT,None,1:47,4,Spurs,Nuggets,97 - 98,0,N/A,1,N/A
+102,Nikola Jokic,FG_ASSISTED,Juan Hernangomez,1:33,4,Nuggets,Spurs,97 - 100,1,1,2,Jumper
+103,Derrick White,FG_MISS,None,1:19,4,Spurs,Nuggets,97 - 100,0,25,3,Jumper
+104,Jakob Poeltl,OFFENSIVE_REBOUND,None,1:16,4,Spurs,Nuggets,97 - 100,0,N/A,N/A,N/A
+105,LaMarcus Aldridge,JUMP_BALL,None,1:16,4,Nuggets,Spurs,97 - 100,1,N/A,N/A,N/A
+106,Jakob Poeltl,FG_MISS,None,1:16,4,Spurs,Nuggets,97 - 100,0,1,2,Jumper
+107,Team,OFFENSIVE_REBOUND,None,1:16,4,Spurs,Nuggets,97 - 100,0,N/A,N/A,N/A
+108,Jamal Murray,TURNOVER,Derrick White,55.8,4,Nuggets,Spurs,97 - 100,1,N/A,N/A,N/A
+109,Nikola Jokic,FOUL_ON_FLOOR,None,48.3,4,Nuggets,Spurs,97 - 100,1,N/A,N/A,N/A
+110,Monte Morris,SUBSTITUTION,Jokic Nikola,48.3,4,Nuggets,Spurs,97 - 100,1,N/A,N/A,N/A
+111,Rudy Gay,SUBSTITUTION,Poeltl Jakob,48.3,4,Spurs,Nuggets,97 - 100,0,N/A,N/A,N/A
+112,DeMar DeRozan,FT_MISS,None,48.3,4,Spurs,Nuggets,97 - 100,0,N/A,1,N/A
+113,Team,OFFENSIVE_REBOUND,None,48.3,4,Spurs,Nuggets,97 - 100,0,N/A,N/A,N/A
+114,DeMar DeRozan,FT,None,48.3,4,Spurs,Nuggets,98 - 100,0,N/A,1,N/A
+115,Jamal Murray,TURNOVER,LaMarcus Aldridge,31.9,4,Nuggets,Spurs,98 - 100,1,N/A,N/A,N/A
+116,Torrey Craig,FOUL_ON_FLOOR,None,28.8,4,Nuggets,Spurs,98 - 100,1,N/A,N/A,N/A
+117,Trey Lyles,SUBSTITUTION,Craig Torrey,28.8,4,Nuggets,Spurs,98 - 100,1,N/A,N/A,N/A
+118,Derrick White,FT_MISS,None,28.8,4,Spurs,Nuggets,98 - 100,0,N/A,1,N/A
+119,Team,OFFENSIVE_REBOUND,None,28.8,4,Spurs,Nuggets,98 - 100,0,N/A,N/A,N/A
+120,Derrick White,FT,None,28.8,4,Spurs,Nuggets,99 - 100,0,N/A,1,N/A
+121,Bryn Forbes,FOUL_ON_FLOOR,None,7.2,4,Spurs,Nuggets,99 - 100,0,N/A,N/A,N/A
+122,Monte Morris,FT,None,7.2,4,Nuggets,Spurs,99 - 101,1,N/A,1,N/A
+123,Monte Morris,FT,None,7.2,4,Nuggets,Spurs,99 - 102,1,N/A,1,N/A
+124,Team,Unknown,None,7.2,4,Spurs,Nuggets,99 - 102,0,N/A,N/A,N/A
+125,Mason Plumlee,Unknown,None,0.7,4,Nuggets,Spurs,99 - 102,1,N/A,N/A,N/A
+126,Team,Unknown,None,0.7,4,Spurs,Nuggets,99 - 102,0,N/A,N/A,N/A
+127,Davis Bertans,SUBSTITUTION,DeRozan DeMar,0.7,4,Spurs,Nuggets,99 - 102,0,N/A,N/A,N/A
+128,End of,Unknown,None,0.0,4,Nuggets,Spurs,99 - 102,1,N/A,N/A,N/A
+129,End of,Unknown,None,0.0,4,Nuggets,Spurs,99 - 102,1,N/A,N/A,N/A

@@ -1,0 +1,513 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Deandre Ayton,JUMP_BALL,None,12:00,1,Thunder,Suns,0 - 0,1,N/A,N/A,N/A
+1,Isaiah Canaan,FOUL_ON_FLOOR,None,11:46,1,Suns,Thunder,0 - 0,0,N/A,N/A,N/A
+2,Paul George,FT_MISS,None,11:46,1,Thunder,Suns,0 - 0,1,N/A,1,N/A
+3,Team,OFFENSIVE_REBOUND,None,11:46,1,Thunder,Suns,0 - 0,1,N/A,N/A,N/A
+4,Paul George,FT,None,11:46,1,Thunder,Suns,0 - 1,1,N/A,1,N/A
+5,Ryan Anderson,TURNOVER,Russell Westbrook,11:33,1,Suns,Thunder,0 - 1,0,N/A,N/A,N/A
+6,Russell Westbrook,FG_MISS,None,11:14,1,Thunder,Suns,0 - 1,1,16,2,Jumper
+7,Nerlens Noel,OFFENSIVE_REBOUND,None,11:10,1,Thunder,Suns,0 - 1,1,N/A,N/A,N/A
+8,Nerlens Noel,FG_UNASSISTED,None,11:10,1,Thunder,Suns,0 - 3,1,0,2,Dunk
+9,Josh Jackson,FG_UNASSISTED,None,10:56,1,Suns,Thunder,2 - 3,0,-,2,Jumper
+10,Russell Westbrook's,FG_MISS,Josh Jackson,10:37,1,Suns,Thunder,2 - 3,1,0,2,Layup
+11,Russell Westbrook,OFFENSIVE_REBOUND,None,10:35,1,Thunder,Suns,2 - 3,1,N/A,N/A,N/A
+12,Russell Westbrook,TURNOVER,Isaiah Canaan,10:34,1,Thunder,Suns,2 - 3,1,N/A,N/A,N/A
+13,Trevor Ariza,FG_MISS,Paul George,10:30,1,Thunder,Suns,2 - 3,0,2,2,Jumper
+14,Nerlens Noel,DEFENSIVE_REBOUND,None,10:28,1,Thunder,Suns,2 - 3,1,N/A,N/A,N/A
+15,Jerami Grant,FG_MISS,None,10:17,1,Thunder,Suns,2 - 3,1,25,3,Jumper
+16,Isaiah Canaan,DEFENSIVE_REBOUND,None,10:12,1,Suns,Thunder,2 - 3,0,N/A,N/A,N/A
+17,Deandre Ayton,FG_ASSISTED,Isaiah Canaan,10:04,1,Suns,Thunder,4 - 3,0,0,2,Layup
+18,Paul George,FG_MISS,None,9:52,1,Thunder,Suns,4 - 3,1,25,3,Jumper
+19,Deandre Ayton,DEFENSIVE_REBOUND,None,9:50,1,Suns,Thunder,4 - 3,0,N/A,N/A,N/A
+20,Isaiah Canaan,FG_MISS,None,9:29,1,Suns,Thunder,4 - 3,0,0,2,Layup
+21,Nerlens Noel,DEFENSIVE_REBOUND,None,9:27,1,Thunder,Suns,4 - 3,1,N/A,N/A,N/A
+22,Jerami Grant,FG_ASSISTED,Russell Westbrook,9:23,1,Thunder,Suns,4 - 5,1,0,2,Dunk
+23,Nerlens Noel,FOUL_ON_FLOOR,None,9:09,1,Thunder,Suns,4 - 5,1,N/A,N/A,N/A
+24,Trevor Ariza,FT,None,9:09,1,Suns,Thunder,5 - 5,0,N/A,1,N/A
+25,Trevor Ariza,FT,None,9:09,1,Suns,Thunder,6 - 5,0,N/A,1,N/A
+26,Russell Westbrook,TURNOVER,Trevor Ariza,9:00,1,Thunder,Suns,6 - 5,1,N/A,N/A,N/A
+27,Josh Jackson,FG_ASSISTED,Isaiah Canaan,8:56,1,Suns,Thunder,8 - 5,0,-,2,Jumper
+28,Russell Westbrook,FOUL_TECHNICAL,None,8:46,1,Thunder,Suns,8 - 5,1,N/A,N/A,N/A
+29,Trevor Ariza,FT,None,8:46,1,Suns,Thunder,9 - 5,0,N/A,1,N/A
+30,Jerami Grant,FG_MISS,None,8:37,1,Thunder,Suns,9 - 5,1,0,2,Layup
+31,Nerlens Noel,OFFENSIVE_REBOUND,None,8:33,1,Thunder,Suns,9 - 5,1,N/A,N/A,N/A
+32,Nerlens Noel,FG_UNASSISTED,None,8:33,1,Thunder,Suns,9 - 7,1,-,2,Jumper
+33,Trevor Ariza,TURNOVER,Terrance Ferguson,8:21,1,Suns,Thunder,9 - 7,0,N/A,N/A,N/A
+34,Terrance Ferguson,FG_ASSISTED,Paul George,8:17,1,Thunder,Suns,9 - 9,1,-,2,Jumper
+35,Ryan Anderson,FG_MISS,Nerlens Noel,7:49,1,Thunder,Suns,9 - 9,0,0,2,Layup
+36,Jerami Grant,DEFENSIVE_REBOUND,None,7:46,1,Thunder,Suns,9 - 9,1,N/A,N/A,N/A
+37,Russell Westbrook,FG_MISS,None,7:33,1,Thunder,Suns,9 - 9,1,13,2,Jumper
+38,Deandre Ayton,DEFENSIVE_REBOUND,None,7:29,1,Suns,Thunder,9 - 9,0,N/A,N/A,N/A
+39,Isaiah Canaan,FG_MISS,None,7:23,1,Suns,Thunder,9 - 9,0,0,2,Layup
+40,Deandre Ayton,OFFENSIVE_REBOUND,None,7:23,1,Suns,Thunder,9 - 9,0,N/A,N/A,N/A
+41,Deandre Ayton,FG_UNASSISTED,None,7:23,1,Suns,Thunder,11 - 9,0,0,2,Dunk
+42,Paul George,FG_UNASSISTED,None,7:11,1,Thunder,Suns,9 - 11,1,22,2,Jumper
+43,Trevor Ariza,FOUL_ON_FLOOR,None,6:59,1,Suns,Thunder,9 - 11,0,N/A,N/A,N/A
+44,Trevor Ariza,TURNOVER,None,6:59,1,Suns,Thunder,9 - 11,0,N/A,N/A,N/A
+45,Team,Unknown,None,6:59,1,Thunder,Suns,9 - 11,1,N/A,N/A,N/A
+46,Russell Westbrook,TURNOVER,Deandre Ayton,6:51,1,Thunder,Suns,11 - 11,1,N/A,N/A,N/A
+47,Deandre Ayton,FG_MISS,None,6:31,1,Suns,Thunder,11 - 11,0,5,2,Jumper
+48,Ryan Anderson,OFFENSIVE_REBOUND,None,6:27,1,Suns,Thunder,11 - 11,0,N/A,N/A,N/A
+49,Ryan Anderson,FG_UNASSISTED,None,6:27,1,Suns,Thunder,13 - 11,0, ,2,Jumper
+50,Josh Jackson,FOUL_ON_FLOOR,None,6:23,1,Suns,Thunder,13 - 11,0,N/A,N/A,N/A
+51,Elie Okobo,SUBSTITUTION,Canaan Isaiah,6:23,1,Suns,Thunder,13 - 11,0,N/A,N/A,N/A
+52,Paul George,TURNOVER,Ryan Anderson,6:10,1,Thunder,Suns,13 - 11,1,N/A,N/A,N/A
+53,Paul George,FOUL_ON_FLOOR,None,6:10,1,Thunder,Suns,13 - 11,1,N/A,N/A,N/A
+54,Elie Okobo,FG_MISS,None,5:53,1,Suns,Thunder,13 - 11,0,27,3,Jumper
+55,Russell Westbrook,DEFENSIVE_REBOUND,None,5:48,1,Thunder,Suns,13 - 11,1,N/A,N/A,N/A
+56,Terrance Ferguson,FG_MISS,None,5:42,1,Thunder,Suns,13 - 11,1,25,3,Jumper
+57,Trevor Ariza,DEFENSIVE_REBOUND,None,5:40,1,Suns,Thunder,13 - 11,0,N/A,N/A,N/A
+58,Patrick Patterson,SUBSTITUTION,Noel Nerlens,5:37,1,Thunder,Suns,13 - 11,1,N/A,N/A,N/A
+59,Elie Okobo,FG_ASSISTED,Trevor Ariza,5:24,1,Suns,Thunder,15 - 11,0,0,2,Dunk
+60,Patrick Patterson,FG_MISS,None,5:15,1,Thunder,Suns,15 - 11,1,24,3,Jumper
+61,Jerami Grant,OFFENSIVE_REBOUND,None,5:13,1,Thunder,Suns,15 - 11,1,N/A,N/A,N/A
+62,Patrick Patterson,FG_ASSISTED,Jerami Grant,5:10,1,Thunder,Suns,15 - 14,1,25,3,Jumper
+63,Deandre Ayton,FG_MISS,None,4:51,1,Suns,Thunder,15 - 14,0,6,2,Jumper
+64,Elie Okobo,OFFENSIVE_REBOUND,None,4:49,1,Suns,Thunder,15 - 14,0,N/A,N/A,N/A
+65,Josh Jackson,FG_MISS,None,4:48,1,Suns,Thunder,15 - 14,0,26,3,Jumper
+66,Paul George,DEFENSIVE_REBOUND,None,4:44,1,Thunder,Suns,15 - 14,1,N/A,N/A,N/A
+67,Paul George,FG_MISS,None,4:39,1,Thunder,Suns,15 - 14,1, ,2,Jumper
+68,Deandre Ayton,DEFENSIVE_REBOUND,None,4:37,1,Suns,Thunder,15 - 14,0,N/A,N/A,N/A
+69,Terrance Ferguson,FOUL_ON_FLOOR,None,4:27,1,Thunder,Suns,15 - 14,1,N/A,N/A,N/A
+70,Ryan Anderson,FT,None,4:27,1,Suns,Thunder,16 - 14,0,N/A,1,N/A
+71,Dennis Schroder,SUBSTITUTION,Ferguson Terrance,4:27,1,Thunder,Suns,16 - 14,1,N/A,N/A,N/A
+72,Ryan Anderson,FT,None,4:27,1,Suns,Thunder,17 - 14,0,N/A,1,N/A
+73,Patrick Patterson,FG_ASSISTED,Paul George,4:14,1,Thunder,Suns,17 - 17,1,24,3,Jumper
+74,Ryan Anderson,FG_MISS,None,3:54,1,Suns,Thunder,17 - 17,0,30,3,Jumper
+75,Patrick Patterson,DEFENSIVE_REBOUND,None,3:50,1,Thunder,Suns,17 - 17,1,N/A,N/A,N/A
+76,Jerami Grant,FG_ASSISTED,Russell Westbrook,3:49,1,Thunder,Suns,17 - 19,1,0,2,Dunk
+77,Team,Unknown,None,3:48,1,Suns,Thunder,17 - 19,0,N/A,N/A,N/A
+78,Tyson Chandler,SUBSTITUTION,Ayton Deandre,3:48,1,Suns,Thunder,17 - 19,0,N/A,N/A,N/A
+79,Josh Jackson,FG_MISS,None,3:37,1,Suns,Thunder,17 - 19,0,0,2,Dunk
+80,Jerami Grant,DEFENSIVE_REBOUND,None,3:36,1,Thunder,Suns,17 - 19,1,N/A,N/A,N/A
+81,Russell Westbrook,FG_MISS,None,3:29,1,Thunder,Suns,17 - 19,1,0,2,Dunk
+82,Team,DEFENSIVE_REBOUND,None,3:29,1,Suns,Thunder,17 - 19,0,N/A,N/A,N/A
+83,Josh Jackson,TURNOVER,Jerami Grant,3:13,1,Suns,Thunder,17 - 19,0,N/A,N/A,N/A
+84,Paul George,FG_ASSISTED,Dennis Schroder,3:07,1,Thunder,Suns,17 - 22,1,26,3,Jumper
+85,Patrick Patterson,FOUL_ON_FLOOR,None,2:51,1,Thunder,Suns,17 - 22,1,N/A,N/A,N/A
+86,Alex Abrines,SUBSTITUTION,Westbrook Russell,2:51,1,Thunder,Suns,17 - 22,1,N/A,N/A,N/A
+87,Nerlens Noel,SUBSTITUTION,Grant Jerami,2:51,1,Thunder,Suns,17 - 22,1,N/A,N/A,N/A
+88,Jamal Crawford,SUBSTITUTION,Anderson Ryan,2:51,1,Suns,Thunder,17 - 22,0,N/A,N/A,N/A
+89,TJ Warren,SUBSTITUTION,Jackson Josh,2:51,1,Suns,Thunder,17 - 22,0,N/A,N/A,N/A
+90,Mikal Bridges,SUBSTITUTION,Ariza Trevor,2:51,1,Suns,Thunder,17 - 22,0,N/A,N/A,N/A
+91,Mikal Bridges,FG_MISS,None,2:41,1,Suns,Thunder,17 - 22,0, ,3,Jumper
+92,Dennis Schroder,DEFENSIVE_REBOUND,None,2:39,1,Thunder,Suns,17 - 22,1,N/A,N/A,N/A
+93,Dennis Schroder,FG_MISS,None,2:32,1,Thunder,Suns,17 - 22,1, ,2,Jumper
+94,Nerlens Noel,OFFENSIVE_REBOUND,None,2:28,1,Thunder,Suns,17 - 22,1,N/A,N/A,N/A
+95,Nerlens Noel,FG_UNASSISTED,None,2:28,1,Thunder,Suns,17 - 24,1, ,2,Jumper
+96,Elie Okobo,TURNOVER,Nerlens Noel,2:17,1,Suns,Thunder,17 - 24,0,N/A,N/A,N/A
+97,Jamal Crawford,FOUL_ON_FLOOR,None,2:16,1,Suns,Thunder,17 - 24,0,N/A,N/A,N/A
+98,Nerlens Noel,FG_MISS,Tyson Chandler,2:08,1,Suns,Thunder,17 - 24,1,0,2,Layup
+99,Jamal Crawford,DEFENSIVE_REBOUND,None,2:06,1,Suns,Thunder,17 - 24,0,N/A,N/A,N/A
+100,TJ Warren,FG_ASSISTED,Elie Okobo,1:56,1,Suns,Thunder,20 - 24,0,23,3,Jumper
+101,Paul George,FG_UNASSISTED,None,1:41,1,Thunder,Suns,20 - 26,1,16,2,Jumper
+102,TJ Warren,FG_MISS,None,1:24,1,Suns,Thunder,20 - 24,0,0,2,Layup
+103,Nerlens Noel,DEFENSIVE_REBOUND,None,1:21,1,Thunder,Suns,20 - 24,1,N/A,N/A,N/A
+104,TJ Warren,FOUL_ON_FLOOR,None,1:21,1,Suns,Thunder,20 - 24,0,N/A,N/A,N/A
+105,Patrick Patterson,FG_ASSISTED,Paul George,1:11,1,Thunder,Suns,20 - 26,1, ,2,Jumper
+106,Jamal Crawford,FG_MISS,None,49.8,1,Suns,Thunder,20 - 26,0,25,3,Jumper
+107,Dennis Schroder,DEFENSIVE_REBOUND,None,47.4,1,Thunder,Suns,20 - 26,1,N/A,N/A,N/A
+108,Paul George,FG_UNASSISTED,None,35.0,1,Thunder,Suns,20 - 28,1,18,2,Jumper
+109,Elie Okobo,TURNOVER,Paul George,22.0,1,Suns,Thunder,20 - 28,0,N/A,N/A,N/A
+110,Dennis Schroder,FG_MISS,None,1.8,1,Thunder,Suns,20 - 30,1,0,2,Layup
+111,Jamal Crawford,DEFENSIVE_REBOUND,None,1.8,1,Suns,Thunder,20 - 30,0,N/A,N/A,N/A
+112,End of,Unknown,None,0.0,1,Thunder,Suns,20 - 30,1,N/A,N/A,N/A
+0,Deonte Burton,SUBSTITUTION,George Paul,12:00,2,Thunder,Suns,20 - 30,1,N/A,N/A,N/A
+1,Jamal Crawford,FG_UNASSISTED,None,11:47,2,Suns,Thunder,22 - 30,0,5,2,Jumper
+2,Alex Abrines,FG_MISS,None,11:36,2,Thunder,Suns,22 - 30,1,26,3,Jumper
+3,TJ Warren,DEFENSIVE_REBOUND,None,11:33,2,Suns,Thunder,22 - 30,0,N/A,N/A,N/A
+4,Deonte Burton,FOUL_ON_FLOOR,None,11:28,2,Thunder,Suns,22 - 30,1,N/A,N/A,N/A
+5,Jamal Crawford,FT,None,11:28,2,Suns,Thunder,23 - 30,0,N/A,1,N/A
+6,Jamal Crawford,FT,None,11:28,2,Suns,Thunder,24 - 30,0,N/A,1,N/A
+7,Team,Unknown,None,11:28,2,Thunder,Suns,22 - 30,1,N/A,N/A,N/A
+8,Jamal Crawford,FT,None,11:28,2,Suns,Thunder,25 - 30,0,N/A,1,N/A
+9,Deonte Burton,FG_MISS,None,11:05,2,Thunder,Suns,25 - 30,1,11,2,Jumper
+10,Tyson Chandler,DEFENSIVE_REBOUND,None,11:02,2,Suns,Thunder,25 - 30,0,N/A,N/A,N/A
+11,Jamal Crawford,TURNOVER,Nerlens Noel,10:58,2,Suns,Thunder,25 - 30,0,N/A,N/A,N/A
+12,Elie Okobo,FOUL_ON_FLOOR,None,10:57,2,Suns,Thunder,25 - 30,0,N/A,N/A,N/A
+13,Patrick Patterson,FG_MISS,TJ Warren,10:47,2,Suns,Thunder,25 - 30,1,0,2,Layup
+14,Mikal Bridges,DEFENSIVE_REBOUND,None,10:44,2,Suns,Thunder,25 - 30,0,N/A,N/A,N/A
+15,Mikal Bridges,TURNOVER,Nerlens Noel,10:42,2,Suns,Thunder,25 - 30,0,N/A,N/A,N/A
+16,Patrick Patterson,FG_ASSISTED,Nerlens Noel,10:40,2,Thunder,Suns,25 - 32,1,0,2,Dunk
+17,Mikal Bridges,FOUL_ON_FLOOR,None,10:28,2,Suns,Thunder,25 - 32,0,N/A,N/A,N/A
+18,Mikal Bridges,TURNOVER,None,10:28,2,Suns,Thunder,25 - 32,0,N/A,N/A,N/A
+19,Dennis Schroder,FG_ASSISTED,Nerlens Noel,10:17,2,Thunder,Suns,25 - 34,1,16,2,Jumper
+20,Team,Unknown,None,10:15,2,Suns,Thunder,25 - 34,0,N/A,N/A,N/A
+21,Deandre Ayton,SUBSTITUTION,Okobo Elie,10:15,2,Suns,Thunder,25 - 34,0,N/A,N/A,N/A
+22,Josh Jackson,SUBSTITUTION,Chandler Tyson,10:15,2,Suns,Thunder,25 - 34,0,N/A,N/A,N/A
+23,Trevor Ariza,SUBSTITUTION,Bridges Mikal,10:15,2,Suns,Thunder,25 - 34,0,N/A,N/A,N/A
+24,Deandre Ayton,TURNOVER,Nerlens Noel,9:55,2,Suns,Thunder,25 - 34,0,N/A,N/A,N/A
+25,Dennis Schroder,FG_MISS,None,9:39,2,Thunder,Suns,25 - 34,1,0,2,Layup
+26,Nerlens Noel,OFFENSIVE_REBOUND,None,9:36,2,Thunder,Suns,25 - 34,1,N/A,N/A,N/A
+27,Nerlens Noel,FG_MISS,None,9:36,2,Thunder,Suns,25 - 34,1, ,2,Jumper
+28,Trevor Ariza,DEFENSIVE_REBOUND,None,9:35,2,Suns,Thunder,25 - 34,0,N/A,N/A,N/A
+29,TJ Warren,FG_MISS,None,9:30,2,Suns,Thunder,25 - 34,0,23,3,Jumper
+30,Dennis Schroder,DEFENSIVE_REBOUND,None,9:27,2,Thunder,Suns,25 - 34,1,N/A,N/A,N/A
+31,Jerami Grant,SUBSTITUTION,Patterson Patrick,9:21,2,Thunder,Suns,25 - 34,1,N/A,N/A,N/A
+32,TJ Warren,Unknown,None,9:14,2,Suns,Thunder,25 - 34,0,N/A,N/A,N/A
+33,Nerlens Noel,FG_MISS,None,9:06,2,Thunder,Suns,25 - 34,1,0,2,Layup
+34,Nerlens Noel,OFFENSIVE_REBOUND,None,9:06,2,Thunder,Suns,25 - 34,1,N/A,N/A,N/A
+35,Deandre Ayton,FOUL_ON_FLOOR,None,9:06,2,Suns,Thunder,25 - 34,0,N/A,N/A,N/A
+36,Nerlens Noel,FT,None,9:06,2,Thunder,Suns,25 - 35,1,N/A,1,N/A
+37,Nerlens Noel,FT_MISS,None,9:06,2,Thunder,Suns,25 - 35,1,N/A,1,N/A
+38,Trevor Ariza,DEFENSIVE_REBOUND,None,9:03,2,Suns,Thunder,25 - 35,0,N/A,N/A,N/A
+39,Dennis Schroder,FOUL_ON_FLOOR,None,8:55,2,Thunder,Suns,25 - 35,1,N/A,N/A,N/A
+40,Josh Jackson,FOUL_ON_FLOOR,None,8:49,2,Suns,Thunder,25 - 35,0,N/A,N/A,N/A
+41,Josh Jackson,TURNOVER,None,8:49,2,Suns,Thunder,25 - 35,0,N/A,N/A,N/A
+42,Russell Westbrook,SUBSTITUTION,Burton Deonte,8:49,2,Thunder,Suns,25 - 35,1,N/A,N/A,N/A
+43,Dennis Schroder,TURNOVER,None,8:36,2,Thunder,Suns,25 - 35,1,N/A,N/A,N/A
+44,Deandre Ayton,TURNOVER,Alex Abrines,8:16,2,Suns,Thunder,25 - 35,0,N/A,N/A,N/A
+45,Jamal Crawford,FOUL_ON_FLOOR,None,8:13,2,Suns,Thunder,25 - 35,0,N/A,N/A,N/A
+46,Dennis Schroder,FT,None,8:13,2,Thunder,Suns,25 - 36,1,N/A,1,N/A
+47,Ryan Anderson,SUBSTITUTION,Crawford Jamal,8:13,2,Suns,Thunder,25 - 36,0,N/A,N/A,N/A
+48,Elie Okobo,SUBSTITUTION,Warren TJ,8:13,2,Suns,Thunder,25 - 36,0,N/A,N/A,N/A
+49,Dennis Schroder,FT,None,8:13,2,Thunder,Suns,25 - 37,1,N/A,1,N/A
+50,Josh Jackson,FG_MISS,None,7:56,2,Suns,Thunder,25 - 37,0,0,2,Layup
+51,Nerlens Noel,DEFENSIVE_REBOUND,None,7:53,2,Thunder,Suns,25 - 37,1,N/A,N/A,N/A
+52,Alex Abrines,FG_MISS,None,7:48,2,Thunder,Suns,25 - 37,1,24,3,Jumper
+53,Elie Okobo,DEFENSIVE_REBOUND,None,7:45,2,Suns,Thunder,25 - 37,0,N/A,N/A,N/A
+54,Ryan Anderson,FG_MISS,None,7:37,2,Suns,Thunder,25 - 37,0,15,2,Jumper
+55,Nerlens Noel,DEFENSIVE_REBOUND,None,7:34,2,Thunder,Suns,25 - 37,1,N/A,N/A,N/A
+56,Dennis Schroder,FG_UNASSISTED,None,7:25,2,Thunder,Suns,25 - 39,1,6,2,Jumper
+57,Josh Jackson,TURNOVER,Russell Westbrook,7:10,2,Suns,Thunder,25 - 39,0,N/A,N/A,N/A
+58,Josh Jackson,FOUL_ON_FLOOR,None,7:10,2,Suns,Thunder,25 - 39,0,N/A,N/A,N/A
+59,Mikal Bridges,SUBSTITUTION,Jackson Josh,7:10,2,Suns,Thunder,25 - 39,0,N/A,N/A,N/A
+60,Nerlens Noel,FOUL_ON_FLOOR,None,7:00,2,Thunder,Suns,25 - 39,1,N/A,N/A,N/A
+61,Nerlens Noel,TURNOVER,None,7:00,2,Thunder,Suns,25 - 39,1,N/A,N/A,N/A
+62,Mikal Bridges,FG_ASSISTED,Trevor Ariza,6:48,2,Suns,Thunder,28 - 39,0,26,3,Jumper
+63,Jerami Grant,FG_ASSISTED,Russell Westbrook,6:28,2,Thunder,Suns,28 - 41,1,0,2,Layup
+64,Russell Westbrook,FOUL_ON_FLOOR,None,6:21,2,Thunder,Suns,28 - 41,1,N/A,N/A,N/A
+65,Paul George,SUBSTITUTION,Noel Nerlens,6:21,2,Thunder,Suns,28 - 41,1,N/A,N/A,N/A
+66,Patrick Patterson,SUBSTITUTION,Schroder Dennis,6:21,2,Thunder,Suns,28 - 41,1,N/A,N/A,N/A
+67,Tyson Chandler,SUBSTITUTION,Ayton Deandre,6:21,2,Suns,Thunder,28 - 41,0,N/A,N/A,N/A
+68,Mikal Bridges,FOUL_ON_FLOOR,None,6:14,2,Suns,Thunder,28 - 41,0,N/A,N/A,N/A
+69,Mikal Bridges,TURNOVER,None,6:14,2,Suns,Thunder,28 - 41,0,N/A,N/A,N/A
+70,Mikal Bridges,FOUL_ON_FLOOR,None,6:09,2,Suns,Thunder,28 - 41,0,N/A,N/A,N/A
+71,Jerami Grant,FT_MISS,None,6:09,2,Thunder,Suns,28 - 41,1,N/A,1,N/A
+72,Team,OFFENSIVE_REBOUND,None,6:09,2,Thunder,Suns,28 - 41,1,N/A,N/A,N/A
+73,Jerami Grant,FT_MISS,None,6:09,2,Thunder,Suns,28 - 41,1,N/A,1,N/A
+74,Tyson Chandler,DEFENSIVE_REBOUND,None,6:07,2,Suns,Thunder,28 - 41,0,N/A,N/A,N/A
+75,Elie Okobo,FG_MISS,None,5:51,2,Suns,Thunder,28 - 41,0,0,2,Layup
+76,Elie Okobo,OFFENSIVE_REBOUND,None,5:49,2,Suns,Thunder,28 - 41,0,N/A,N/A,N/A
+77,Elie Okobo,TURNOVER,Alex Abrines,5:41,2,Suns,Thunder,28 - 41,0,N/A,N/A,N/A
+78,Trevor Ariza,FOUL_ON_FLOOR,None,5:37,2,Suns,Thunder,28 - 41,0,N/A,N/A,N/A
+79,Russell Westbrook,FT_MISS,None,5:37,2,Thunder,Suns,28 - 41,1,N/A,1,N/A
+80,Team,OFFENSIVE_REBOUND,None,5:37,2,Thunder,Suns,28 - 41,1,N/A,N/A,N/A
+81,Troy Daniels,SUBSTITUTION,Bridges Mikal,5:37,2,Suns,Thunder,28 - 41,0,N/A,N/A,N/A
+82,Russell Westbrook,FT,None,5:37,2,Thunder,Suns,28 - 42,1,N/A,1,N/A
+83,Tyson Chandler,FG_ASSISTED,Elie Okobo,5:25,2,Suns,Thunder,30 - 42,0,0,2,Dunk
+84,Elie Okobo,FOUL_ON_FLOOR,None,5:20,2,Suns,Thunder,30 - 42,0,N/A,N/A,N/A
+85,Russell Westbrook,FT,None,5:20,2,Thunder,Suns,30 - 43,1,N/A,1,N/A
+86,Terrance Ferguson,SUBSTITUTION,Abrines Alex,5:20,2,Thunder,Suns,30 - 43,1,N/A,N/A,N/A
+87,Russell Westbrook,FT,None,5:20,2,Thunder,Suns,30 - 44,1,N/A,1,N/A
+88,Trevor Ariza,FG_UNASSISTED,None,5:07,2,Suns,Thunder,32 - 44,0,0,2,Layup
+89,Paul George,FG_UNASSISTED,None,4:57,2,Thunder,Suns,32 - 46,1,0,2,Layup
+90,Patrick Patterson,FOUL_ON_FLOOR,None,4:46,2,Thunder,Suns,32 - 46,1,N/A,N/A,N/A
+91,Tyson Chandler,FT,None,4:46,2,Suns,Thunder,33 - 46,0,N/A,1,N/A
+92,Tyson Chandler,FT,None,4:46,2,Suns,Thunder,34 - 46,0,N/A,1,N/A
+93,Paul George,FG_ASSISTED,Russell Westbrook,4:32,2,Thunder,Suns,34 - 49,1,24,3,Jumper
+94,Troy Daniels,FG_ASSISTED,Tyson Chandler,4:14,2,Suns,Thunder,36 - 49,0,0,2,Layup
+95,Elie Okobo,FOUL_ON_FLOOR,None,4:04,2,Suns,Thunder,36 - 49,0,N/A,N/A,N/A
+96,Jerami Grant,FT,None,4:04,2,Thunder,Suns,36 - 50,1,N/A,1,N/A
+97,Jamal Crawford,SUBSTITUTION,Okobo Elie,4:04,2,Suns,Thunder,36 - 50,0,N/A,N/A,N/A
+98,Deandre Ayton,SUBSTITUTION,Chandler Tyson,4:04,2,Suns,Thunder,36 - 50,0,N/A,N/A,N/A
+99,Jerami Grant,FT,None,4:04,2,Thunder,Suns,36 - 51,1,N/A,1,N/A
+100,Trevor Ariza,FG_MISS,None,3:51,2,Suns,Thunder,36 - 51,0, ,2,Jumper
+101,Russell Westbrook,DEFENSIVE_REBOUND,None,3:49,2,Thunder,Suns,36 - 51,1,N/A,N/A,N/A
+102,Troy Daniels,FOUL_ON_FLOOR,None,3:44,2,Suns,Thunder,36 - 51,0,N/A,N/A,N/A
+103,Russell Westbrook,FT,None,3:44,2,Thunder,Suns,36 - 52,1,N/A,1,N/A
+104,Russell Westbrook,FT,None,3:44,2,Thunder,Suns,36 - 53,1,N/A,1,N/A
+105,Deandre Ayton,FOUL_ON_FLOOR,None,3:31,2,Suns,Thunder,36 - 53,0,N/A,N/A,N/A
+106,Deandre Ayton,TURNOVER,None,3:31,2,Suns,Thunder,36 - 53,0,N/A,N/A,N/A
+107,Russell Westbrook,FG_UNASSISTED,None,3:21,2,Thunder,Suns,36 - 55,1,0,2,Layup
+108,Team,Unknown,None,3:20,2,Suns,Thunder,36 - 55,0,N/A,N/A,N/A
+109,Jerami Grant,FOUL_ON_FLOOR,None,3:06,2,Thunder,Suns,36 - 55,1,N/A,N/A,N/A
+110,Ryan Anderson,FT,None,3:06,2,Suns,Thunder,37 - 55,0,N/A,1,N/A
+111,Ryan Anderson,FT,None,3:06,2,Suns,Thunder,38 - 55,0,N/A,1,N/A
+112,Paul George,FG_MISS,None,2:56,2,Thunder,Suns,38 - 55,1,25,3,Jumper
+113,Trevor Ariza,DEFENSIVE_REBOUND,None,2:52,2,Suns,Thunder,38 - 55,0,N/A,N/A,N/A
+114,Jamal Crawford,FG_MISS,None,2:47,2,Suns,Thunder,38 - 55,0, ,2,Jumper
+115,Terrance Ferguson,DEFENSIVE_REBOUND,None,2:42,2,Thunder,Suns,38 - 55,1,N/A,N/A,N/A
+116,Jerami Grant,FG_ASSISTED,Russell Westbrook,2:36,2,Thunder,Suns,38 - 58,1,25,3,Jumper
+117,Jamal Crawford,TURNOVER,Paul George,2:20,2,Suns,Thunder,38 - 58,0,N/A,N/A,N/A
+118,Paul George,TURNOVER,Troy Daniels,2:16,2,Thunder,Suns,38 - 58,1,N/A,N/A,N/A
+119,Ryan Anderson,FG_ASSISTED,Jamal Crawford,2:11,2,Suns,Thunder,41 - 58,0, ,3,Jumper
+120,Patrick Patterson,FG_MISS,None,1:52,2,Thunder,Suns,41 - 58,1,25,3,Jumper
+121,Deandre Ayton,DEFENSIVE_REBOUND,None,1:49,2,Suns,Thunder,41 - 58,0,N/A,N/A,N/A
+122,Deandre Ayton,FG_UNASSISTED,None,1:33,2,Suns,Thunder,43 - 58,0,8,2,Jumper
+123,Paul George,FG_MISS,None,1:14,2,Thunder,Suns,43 - 58,1,26,3,Jumper
+124,Trevor Ariza,DEFENSIVE_REBOUND,None,1:11,2,Suns,Thunder,43 - 58,0,N/A,N/A,N/A
+125,Deandre Ayton,FG_MISS,None,59.1,2,Suns,Thunder,43 - 58,0,9,2,Jumper
+126,Russell Westbrook,DEFENSIVE_REBOUND,None,56.5,2,Thunder,Suns,43 - 58,1,N/A,N/A,N/A
+127,Deandre Ayton,FOUL_ON_FLOOR,None,43.8,2,Suns,Thunder,43 - 58,0,N/A,N/A,N/A
+128,Patrick Patterson,FT,None,43.8,2,Thunder,Suns,43 - 59,1,N/A,1,N/A
+129,Patrick Patterson,FT,None,43.8,2,Thunder,Suns,43 - 60,1,N/A,1,N/A
+130,Trevor Ariza,FG_MISS,Paul George,37.4,2,Thunder,Suns,43 - 60,0,0,2,Layup
+131,Ryan Anderson,OFFENSIVE_REBOUND,None,36.3,2,Suns,Thunder,43 - 60,0,N/A,N/A,N/A
+132,Ryan Anderson,FG_UNASSISTED,None,36.3,2,Suns,Thunder,45 - 60,0, ,2,Jumper
+133,Jerami Grant,FOUL_ON_FLOOR,None,36.3,2,Thunder,Suns,45 - 60,1,N/A,N/A,N/A
+134,Tyson Chandler,SUBSTITUTION,Ayton Deandre,36.3,2,Suns,Thunder,45 - 60,0,N/A,N/A,N/A
+135,Josh Jackson,SUBSTITUTION,Crawford Jamal,36.3,2,Suns,Thunder,45 - 60,0,N/A,N/A,N/A
+136,Ryan Anderson,FT,None,36.3,2,Suns,Thunder,46 - 60,0,N/A,1,N/A
+137,Russell Westbrook,FG_UNASSISTED,None,29.6,2,Thunder,Suns,46 - 62,1,0,2,Layup
+138,Josh Jackson,FG_UNASSISTED,None,12.3,2,Suns,Thunder,48 - 62,0,21,2,Jumper
+139,Russell Westbrook,TURNOVER,None,3.6,2,Thunder,Suns,48 - 62,1,N/A,N/A,N/A
+140,Russell Westbrook,TURNOVER,None,3.6,2,Thunder,Suns,48 - 62,1,N/A,N/A,N/A
+141,Jamal Crawford,SUBSTITUTION,Chandler Tyson,3.6,2,Suns,Thunder,48 - 62,0,N/A,N/A,N/A
+142,Nerlens Noel,SUBSTITUTION,Patterson Patrick,3.6,2,Thunder,Suns,48 - 62,1,N/A,N/A,N/A
+143,Josh Jackson,FG_MISS,None,0.3,2,Suns,Thunder,48 - 62,0, ,2,Jumper
+144,Team,OFFENSIVE_REBOUND,None,0.3,2,Suns,Thunder,48 - 62,0,N/A,N/A,N/A
+145,End of,Unknown,None,0.0,2,Thunder,Suns,48 - 62,1,N/A,N/A,N/A
+0,Elie Okobo,SUBSTITUTION,Crawford Jamal,12:00,3,Suns,Thunder,48 - 62,0,N/A,N/A,N/A
+1,Deandre Ayton,SUBSTITUTION,Daniels Troy,12:00,3,Suns,Thunder,48 - 62,0,N/A,N/A,N/A
+2,Ryan Anderson,FG_MISS,None,11:46,3,Suns,Thunder,48 - 62,0,11,2,Jumper
+3,Team,OFFENSIVE_REBOUND,None,11:43,3,Suns,Thunder,48 - 62,0,N/A,N/A,N/A
+4,Trevor Ariza,TURNOVER,Terrance Ferguson,11:34,3,Suns,Thunder,48 - 62,0,N/A,N/A,N/A
+5,Terrance Ferguson,FG_ASSISTED,Paul George,11:29,3,Thunder,Suns,48 - 64,1, ,2,Jumper
+6,Josh Jackson,FG_UNASSISTED,None,11:12,3,Suns,Thunder,50 - 64,0,17,2,Jumper
+7,Russell Westbrook,FG_UNASSISTED,None,11:00,3,Thunder,Suns,50 - 66,1,0,2,Layup
+8,Team,Unknown,None,11:00,3,Thunder,Suns,50 - 66,1,N/A,N/A,N/A
+9,Nerlens Noel,FOUL_ON_FLOOR,None,10:50,3,Thunder,Suns,50 - 66,1,N/A,N/A,N/A
+10,Paul George,FOUL_ON_FLOOR,None,10:45,3,Thunder,Suns,50 - 66,1,N/A,N/A,N/A
+11,Elie Okobo,FT,None,10:45,3,Suns,Thunder,51 - 66,0,N/A,1,N/A
+12,Elie Okobo,FT,None,10:45,3,Suns,Thunder,52 - 66,0,N/A,1,N/A
+13,Paul George,FG_UNASSISTED,None,10:32,3,Thunder,Suns,52 - 68,1,0,2,Layup
+14,Josh Jackson,FG_MISS,None,10:18,3,Suns,Thunder,52 - 68,0,24,3,Jumper
+15,Deandre Ayton,OFFENSIVE_REBOUND,None,10:15,3,Suns,Thunder,52 - 68,0,N/A,N/A,N/A
+16,Deandre Ayton,FG_UNASSISTED,None,10:15,3,Suns,Thunder,54 - 68,0,0,2,Dunk
+17,Ryan Anderson,FOUL_ON_FLOOR,None,10:04,3,Suns,Thunder,54 - 68,0,N/A,N/A,N/A
+18,Jerami Grant,FT,None,10:04,3,Thunder,Suns,54 - 69,1,N/A,1,N/A
+19,Jerami Grant,FT,None,10:04,3,Thunder,Suns,54 - 70,1,N/A,1,N/A
+20,Deandre Ayton,FG_MISS,None,9:49,3,Suns,Thunder,54 - 70,0,0,2,Layup
+21,Jerami Grant,DEFENSIVE_REBOUND,None,9:47,3,Thunder,Suns,54 - 70,1,N/A,N/A,N/A
+22,Nerlens Noel,FG_ASSISTED,Russell Westbrook,9:43,3,Thunder,Suns,54 - 72,1,0,2,Dunk
+23,Josh Jackson,FG_MISS,None,9:23,3,Suns,Thunder,54 - 72,0,9,2,Jumper
+24,Russell Westbrook,DEFENSIVE_REBOUND,None,9:21,3,Thunder,Suns,54 - 72,1,N/A,N/A,N/A
+25,Mikal Bridges,SUBSTITUTION,Ariza Trevor,9:19,3,Suns,Thunder,54 - 72,0,N/A,N/A,N/A
+26,Terrance Ferguson,TURNOVER,None,9:10,3,Thunder,Suns,54 - 72,1,N/A,N/A,N/A
+27,Elie Okobo,FG_MISS,None,8:51,3,Suns,Thunder,54 - 72,0,25,2,Jumper
+28,Russell Westbrook,DEFENSIVE_REBOUND,None,8:47,3,Thunder,Suns,54 - 72,1,N/A,N/A,N/A
+29,Terrance Ferguson,FG_MISS,None,8:40,3,Thunder,Suns,54 - 72,1,8,2,Jumper
+30,Deandre Ayton,DEFENSIVE_REBOUND,None,8:37,3,Suns,Thunder,54 - 72,0,N/A,N/A,N/A
+31,Josh Jackson,TURNOVER,Russell Westbrook,8:28,3,Suns,Thunder,54 - 72,0,N/A,N/A,N/A
+32,Terrance Ferguson,TURNOVER,Josh Jackson,8:23,3,Thunder,Suns,54 - 72,1,N/A,N/A,N/A
+33,Russell Westbrook,FOUL_ON_FLOOR,None,8:19,3,Thunder,Suns,54 - 72,1,N/A,N/A,N/A
+34,Paul George,FOUL_ON_FLOOR,None,8:17,3,Thunder,Suns,54 - 72,1,N/A,N/A,N/A
+35,Paul George,FOUL_TECHNICAL,None,8:17,3,Thunder,Suns,54 - 72,1,N/A,N/A,N/A
+36,Ryan Anderson,FT,None,8:17,3,Suns,Thunder,55 - 72,0,N/A,1,N/A
+37,Ryan Anderson,FG_MISS,None,8:11,3,Suns,Thunder,55 - 72,0,25,3,Jumper
+38,Nerlens Noel,DEFENSIVE_REBOUND,None,8:08,3,Thunder,Suns,55 - 72,1,N/A,N/A,N/A
+39,Nerlens Noel,FG_ASSISTED,Russell Westbrook,8:03,3,Thunder,Suns,55 - 74,1,0,2,Dunk
+40,Team,Unknown,None,8:00,3,Suns,Thunder,55 - 74,0,N/A,N/A,N/A
+41,TJ Warren,SUBSTITUTION,Jackson Josh,8:00,3,Suns,Thunder,55 - 74,0,N/A,N/A,N/A
+42,TJ Warren,FG_UNASSISTED,None,7:39,3,Suns,Thunder,57 - 74,0,7,2,Jumper
+43,Russell Westbrook,TURNOVER,Mikal Bridges,7:14,3,Thunder,Suns,57 - 74,1,N/A,N/A,N/A
+44,Mikal Bridges,TURNOVER,Russell Westbrook,7:09,3,Suns,Thunder,57 - 74,0,N/A,N/A,N/A
+45,Russell Westbrook,FG_UNASSISTED,None,7:07,3,Thunder,Suns,57 - 76,1,0,2,Layup
+46,Ryan Anderson,FG_MISS,None,7:00,3,Suns,Thunder,57 - 76,0,25,3,Jumper
+47,TJ Warren,OFFENSIVE_REBOUND,None,7:00,3,Suns,Thunder,57 - 76,0,N/A,N/A,N/A
+48,Mikal Bridges,FG_MISS,None,6:46,3,Suns,Thunder,57 - 76,0,24,3,Jumper
+49,Paul George,DEFENSIVE_REBOUND,None,6:41,3,Thunder,Suns,57 - 76,1,N/A,N/A,N/A
+50,Terrance Ferguson,FG_MISS,None,6:38,3,Thunder,Suns,57 - 76,1,27,3,Jumper
+51,Deandre Ayton,DEFENSIVE_REBOUND,None,6:35,3,Suns,Thunder,57 - 76,0,N/A,N/A,N/A
+52,Alex Abrines,SUBSTITUTION,Noel Nerlens,6:23,3,Thunder,Suns,57 - 76,1,N/A,N/A,N/A
+53,Patrick Patterson,SUBSTITUTION,Ferguson Terrance,6:23,3,Thunder,Suns,57 - 76,1,N/A,N/A,N/A
+54,TJ Warren,FG_UNASSISTED,None,6:19,3,Suns,Thunder,59 - 76,0,0,2,Layup
+55,Paul George,FG_MISS,None,6:08,3,Thunder,Suns,59 - 76,1,26,3,Jumper
+56,Ryan Anderson,DEFENSIVE_REBOUND,None,6:05,3,Suns,Thunder,59 - 76,0,N/A,N/A,N/A
+57,Mikal Bridges,FG_ASSISTED,Elie Okobo,6:00,3,Suns,Thunder,61 - 76,0, ,2,Jumper
+58,Team,Unknown,None,6:00,3,Thunder,Suns,61 - 76,1,N/A,N/A,N/A
+59,Russell Westbrook,TURNOVER,Mikal Bridges,5:49,3,Thunder,Suns,61 - 76,1,N/A,N/A,N/A
+60,Jerami Grant,FOUL_ON_FLOOR,None,5:46,3,Thunder,Suns,61 - 76,1,N/A,N/A,N/A
+61,Mikal Bridges,FT,None,5:46,3,Suns,Thunder,62 - 76,0,N/A,1,N/A
+62,Dennis Schroder,SUBSTITUTION,Grant Jerami,5:46,3,Thunder,Suns,62 - 76,1,N/A,N/A,N/A
+63,Mikal Bridges,FT,None,5:46,3,Suns,Thunder,63 - 76,0,N/A,1,N/A
+64,Paul George,FG_MISS,None,5:32,3,Thunder,Suns,63 - 76,1,10,2,Jumper
+65,Deandre Ayton,DEFENSIVE_REBOUND,None,5:29,3,Suns,Thunder,63 - 76,0,N/A,N/A,N/A
+66,Mikal Bridges,FG_MISS,None,5:12,3,Suns,Thunder,63 - 76,0,0,2,Layup
+67,Paul George,DEFENSIVE_REBOUND,None,5:10,3,Thunder,Suns,63 - 76,1,N/A,N/A,N/A
+68,Elie Okobo,Unknown,None,5:08,3,Suns,Thunder,63 - 76,0,N/A,N/A,N/A
+69,Alex Abrines,FG_MISS,None,4:57,3,Thunder,Suns,63 - 76,1,26,3,Jumper
+70,Deandre Ayton,DEFENSIVE_REBOUND,None,4:54,3,Suns,Thunder,63 - 76,0,N/A,N/A,N/A
+71,Ryan Anderson,FG_ASSISTED,Elie Okobo,4:37,3,Suns,Thunder,65 - 76,0, ,2,Jumper
+72,Mikal Bridges,FOUL_ON_FLOOR,None,4:23,3,Suns,Thunder,65 - 76,0,N/A,N/A,N/A
+73,Jerami Grant,SUBSTITUTION,Abrines Alex,4:23,3,Thunder,Suns,65 - 76,1,N/A,N/A,N/A
+74,Patrick Patterson,FG_ASSISTED,Dennis Schroder,4:14,3,Thunder,Suns,65 - 78,1,7,2,Jumper
+75,TJ Warren,FG_MISS,None,3:56,3,Suns,Thunder,65 - 78,0, ,2,Jumper
+76,Patrick Patterson,DEFENSIVE_REBOUND,None,3:54,3,Thunder,Suns,65 - 78,1,N/A,N/A,N/A
+77,Russell Westbrook,FG_ASSISTED,Dennis Schroder,3:51,3,Thunder,Suns,65 - 80,1, ,2,Jumper
+78,Ryan Anderson,TURNOVER,Paul George,3:31,3,Suns,Thunder,65 - 80,0,N/A,N/A,N/A
+79,Russell Westbrook,FG_ASSISTED,Paul George,3:27,3,Thunder,Suns,65 - 82,1, ,2,Jumper
+80,Team,Unknown,None,3:26,3,Suns,Thunder,65 - 82,0,N/A,N/A,N/A
+81,Trevor Ariza,SUBSTITUTION,Okobo Elie,3:26,3,Suns,Thunder,65 - 82,0,N/A,N/A,N/A
+82,Jamal Crawford,SUBSTITUTION,Anderson Ryan,3:26,3,Suns,Thunder,65 - 82,0,N/A,N/A,N/A
+83,Josh Jackson,SUBSTITUTION,Bridges Mikal,3:26,3,Suns,Thunder,65 - 82,0,N/A,N/A,N/A
+84,TJ Warren,FG_ASSISTED,Deandre Ayton,3:08,3,Suns,Thunder,67 - 82,0,0,2,Layup
+85,Russell Westbrook,Unknown,None,3:08,3,Thunder,Suns,65 - 82,1,N/A,N/A,N/A
+86,Russell Westbrook,FG_UNASSISTED,None,2:55,3,Thunder,Suns,67 - 84,1,0,2,Layup
+87,Deandre Ayton,FG_MISS,None,2:45,3,Suns,Thunder,67 - 84,0,0,2,Layup
+88,Russell Westbrook,DEFENSIVE_REBOUND,None,2:43,3,Thunder,Suns,67 - 84,1,N/A,N/A,N/A
+89,Josh Jackson,FOUL_ON_FLOOR,None,2:41,3,Suns,Thunder,67 - 84,0,N/A,N/A,N/A
+90,Russell Westbrook,FT_MISS,None,2:41,3,Thunder,Suns,67 - 84,1,N/A,1,N/A
+91,Team,OFFENSIVE_REBOUND,None,2:41,3,Thunder,Suns,67 - 84,1,N/A,N/A,N/A
+92,Russell Westbrook,FT,None,2:41,3,Thunder,Suns,67 - 85,1,N/A,1,N/A
+93,Deandre Ayton,FG_ASSISTED,Trevor Ariza,2:23,3,Suns,Thunder,69 - 85,0,4,2,Jumper
+94,Josh Jackson,FOUL_ON_FLOOR,None,2:20,3,Suns,Thunder,69 - 85,0,N/A,N/A,N/A
+95,Alex Abrines,SUBSTITUTION,Westbrook Russell,2:20,3,Thunder,Suns,69 - 85,1,N/A,N/A,N/A
+96,Troy Daniels,SUBSTITUTION,Jackson Josh,2:20,3,Suns,Thunder,69 - 85,0,N/A,N/A,N/A
+97,TJ Warren,FOUL_ON_FLOOR,None,2:14,3,Suns,Thunder,69 - 85,0,N/A,N/A,N/A
+98,Patrick Patterson,FT_MISS,None,2:14,3,Thunder,Suns,69 - 85,1,N/A,1,N/A
+99,Team,OFFENSIVE_REBOUND,None,2:14,3,Thunder,Suns,69 - 85,1,N/A,N/A,N/A
+100,Nerlens Noel,SUBSTITUTION,Grant Jerami,2:14,3,Thunder,Suns,69 - 85,1,N/A,N/A,N/A
+101,Patrick Patterson,FT,None,2:14,3,Thunder,Suns,69 - 86,1,N/A,1,N/A
+102,TJ Warren,FG_UNASSISTED,None,1:59,3,Suns,Thunder,71 - 86,0,5,2,Jumper
+103,Dennis Schroder,FG_UNASSISTED,None,1:51,3,Thunder,Suns,71 - 88,1,0,2,Layup
+104,TJ Warren,FG_ASSISTED,Deandre Ayton,1:40,3,Suns,Thunder,74 - 88,0,25,3,Jumper
+105,Nerlens Noel,FG_ASSISTED,Dennis Schroder,1:23,3,Thunder,Suns,74 - 90,1,0,2,Dunk
+106,Deandre Ayton,FG_MISS,None,1:07,3,Suns,Thunder,74 - 90,0, ,2,Jumper
+107,Dennis Schroder,DEFENSIVE_REBOUND,None,1:05,3,Thunder,Suns,74 - 90,1,N/A,N/A,N/A
+108,Dennis Schroder,FG_MISS,None,58.5,3,Thunder,Suns,74 - 90,1, ,2,Jumper
+109,Nerlens Noel,OFFENSIVE_REBOUND,None,56.5,3,Thunder,Suns,74 - 90,1,N/A,N/A,N/A
+110,Nerlens Noel,FG_MISS,None,56.5,3,Thunder,Suns,74 - 90,1, ,2,Jumper
+111,Deandre Ayton,DEFENSIVE_REBOUND,None,54.1,3,Suns,Thunder,74 - 90,0,N/A,N/A,N/A
+112,TJ Warren,FG_MISS,None,46.5,3,Suns,Thunder,74 - 90,0,23,3,Jumper
+113,Patrick Patterson,DEFENSIVE_REBOUND,None,43.2,3,Thunder,Suns,74 - 90,1,N/A,N/A,N/A
+114,Paul George,FG_UNASSISTED,None,38.8,3,Thunder,Suns,74 - 93,1,26,2,Jumper
+115,Dennis Schroder,FOUL_ON_FLOOR,None,29.7,3,Thunder,Suns,74 - 93,1,N/A,N/A,N/A
+116,Double technical,FOUL_TECHNICAL,None,29.7,3,Suns,Thunder,74 - 93,0,N/A,N/A,N/A
+117,Jamal Crawford,FT,None,29.7,3,Suns,Thunder,75 - 93,0,N/A,1,N/A
+118,Tyson Chandler,SUBSTITUTION,Ayton Deandre,29.7,3,Suns,Thunder,75 - 93,0,N/A,N/A,N/A
+119,Jamal Crawford,FT,None,29.7,3,Suns,Thunder,76 - 93,0,N/A,1,N/A
+120,Nerlens Noel,FG_MISS,None,15.0,3,Thunder,Suns,76 - 93,1,6,2,Jumper
+121,TJ Warren,DEFENSIVE_REBOUND,None,10.9,3,Suns,Thunder,76 - 93,0,N/A,N/A,N/A
+122,Jerami Grant,SUBSTITUTION,Patterson Patrick,10.9,3,Thunder,Suns,76 - 93,1,N/A,N/A,N/A
+123,Jamal Crawford,FG_MISS,None,5.5,3,Suns,Thunder,76 - 93,0,25,3,Jumper
+124,Paul George,DEFENSIVE_REBOUND,None,1.9,3,Thunder,Suns,76 - 93,1,N/A,N/A,N/A
+125,Paul George,FG_UNASSISTED,None,0.5,3,Thunder,Suns,76 - 96,1,48,2,Jumper
+126,End of,Unknown,None,0.0,3,Thunder,Suns,76 - 96,1,N/A,N/A,N/A
+0,Terrance Ferguson,SUBSTITUTION,George Paul,12:00,4,Thunder,Suns,76 - 96,1,N/A,N/A,N/A
+1,Nerlens Noel,FG_ASSISTED,Dennis Schroder,11:45,4,Thunder,Suns,76 - 98,1,7,2,Jumper
+2,Troy Daniels,FG_MISS,None,11:21,4,Suns,Thunder,76 - 98,0,26,2,Jumper
+3,Nerlens Noel,DEFENSIVE_REBOUND,None,11:16,4,Thunder,Suns,76 - 98,1,N/A,N/A,N/A
+4,Dennis Schroder,FG_UNASSISTED,None,11:08,4,Thunder,Suns,76 - 100,1,1,2,Jumper
+5,TJ Warren,FG_MISS,None,10:44,4,Suns,Thunder,76 - 100,0,0,2,Layup
+6,Nerlens Noel,DEFENSIVE_REBOUND,None,10:42,4,Thunder,Suns,76 - 100,1,N/A,N/A,N/A
+7,Jerami Grant,FG_MISS,None,10:32,4,Thunder,Suns,76 - 100,1,23,3,Jumper
+8,TJ Warren,DEFENSIVE_REBOUND,None,10:29,4,Suns,Thunder,76 - 100,0,N/A,N/A,N/A
+9,Troy Daniels,FG_MISS,None,10:21,4,Suns,Thunder,76 - 100,0,1,3,Jumper
+10,Terrance Ferguson,DEFENSIVE_REBOUND,None,10:18,4,Thunder,Suns,76 - 100,1,N/A,N/A,N/A
+11,Nerlens Noel,FG_ASSISTED,Dennis Schroder,10:08,4,Thunder,Suns,76 - 102,1,0,2,Dunk
+12,Troy Daniels,FG_ASSISTED,Tyson Chandler,9:47,4,Suns,Thunder,78 - 102,0,0,2,Layup
+13,Alex Abrines,FOUL_ON_FLOOR,None,9:47,4,Thunder,Suns,76 - 102,1,N/A,N/A,N/A
+14,Troy Daniels,FT,None,9:47,4,Suns,Thunder,77 - 102,0,N/A,1,N/A
+15,Nerlens Noel,FG_UNASSISTED,None,9:42,4,Thunder,Suns,79 - 104,1,0,2,Dunk
+16,Tyson Chandler,FOUL_ON_FLOOR,None,9:42,4,Suns,Thunder,79 - 104,0,N/A,N/A,N/A
+17,Mikal Bridges,SUBSTITUTION,Crawford Jamal,9:42,4,Suns,Thunder,79 - 104,0,N/A,N/A,N/A
+18,Elie Okobo,SUBSTITUTION,Daniels Troy,9:42,4,Suns,Thunder,79 - 104,0,N/A,N/A,N/A
+19,Nerlens Noel,FT,None,9:42,4,Thunder,Suns,79 - 105,1,N/A,1,N/A
+20,Dennis Schroder,FOUL_ON_FLOOR,None,9:31,4,Thunder,Suns,79 - 105,1,N/A,N/A,N/A
+21,Elie Okobo,FT_MISS,None,9:31,4,Suns,Thunder,79 - 105,0,N/A,1,N/A
+22,Team,OFFENSIVE_REBOUND,None,9:31,4,Suns,Thunder,79 - 105,0,N/A,N/A,N/A
+23,Elie Okobo,FT,None,9:31,4,Suns,Thunder,80 - 105,0,N/A,1,N/A
+24,Dennis Schroder,TURNOVER,Trevor Ariza,9:20,4,Thunder,Suns,80 - 105,1,N/A,N/A,N/A
+25,Alex Abrines,FOUL_ON_FLOOR,None,9:18,4,Thunder,Suns,80 - 105,1,N/A,N/A,N/A
+26,Deandre Ayton,SUBSTITUTION,Ariza Trevor,9:18,4,Suns,Thunder,80 - 105,0,N/A,N/A,N/A
+27,Josh Jackson,SUBSTITUTION,Chandler Tyson,9:18,4,Suns,Thunder,80 - 105,0,N/A,N/A,N/A
+28,TJ Warren,FG_MISS,None,9:05,4,Suns,Thunder,80 - 105,0,13,2,Jumper
+29,Nerlens Noel,DEFENSIVE_REBOUND,None,9:00,4,Thunder,Suns,80 - 105,1,N/A,N/A,N/A
+30,Team,Unknown,None,8:57,4,Thunder,Suns,80 - 105,1,N/A,N/A,N/A
+31,Patrick Patterson,SUBSTITUTION,Noel Nerlens,8:57,4,Thunder,Suns,80 - 105,1,N/A,N/A,N/A
+32,Ryan Anderson,SUBSTITUTION,Warren TJ,8:57,4,Suns,Thunder,80 - 105,0,N/A,N/A,N/A
+33,Deandre Ayton,FOUL_ON_FLOOR,None,8:49,4,Suns,Thunder,80 - 105,0,N/A,N/A,N/A
+34,Jerami Grant,FT_MISS,None,8:49,4,Thunder,Suns,80 - 105,1,N/A,1,N/A
+35,Team,OFFENSIVE_REBOUND,None,8:49,4,Thunder,Suns,80 - 105,1,N/A,N/A,N/A
+36,Jerami Grant,FT,None,8:49,4,Thunder,Suns,80 - 106,1,N/A,1,N/A
+37,Deandre Ayton,FG_ASSISTED,Elie Okobo,8:34,4,Suns,Thunder,82 - 106,0,8,2,Jumper
+38,Terrance Ferguson,FG_ASSISTED,Dennis Schroder,8:20,4,Thunder,Suns,82 - 108,1,0,2,Dunk
+39,Elie Okobo,FG_ASSISTED,Deandre Ayton,8:03,4,Suns,Thunder,85 - 108,0,25,3,Jumper
+40,Jerami Grant,FG_MISS,None,7:46,4,Thunder,Suns,85 - 108,1,0,2,Dunk
+41,Josh Jackson,DEFENSIVE_REBOUND,None,7:44,4,Suns,Thunder,85 - 108,0,N/A,N/A,N/A
+42,Deandre Ayton,FG_UNASSISTED,None,7:31,4,Suns,Thunder,87 - 108,0,11,2,Jumper
+43,Dennis Schroder,FG_MISS,None,7:11,4,Thunder,Suns,87 - 108,1,0,2,Layup
+44,Team,OFFENSIVE_REBOUND,None,7:11,4,Thunder,Suns,87 - 108,1,N/A,N/A,N/A
+45,Russell Westbrook,SUBSTITUTION,Ferguson Terrance,7:11,4,Thunder,Suns,87 - 108,1,N/A,N/A,N/A
+46,Mikal Bridges,FOUL_ON_FLOOR,None,7:07,4,Suns,Thunder,87 - 108,0,N/A,N/A,N/A
+47,Russell Westbrook,FT_MISS,None,7:07,4,Thunder,Suns,87 - 108,1,N/A,1,N/A
+48,Team,OFFENSIVE_REBOUND,None,7:07,4,Thunder,Suns,87 - 108,1,N/A,N/A,N/A
+49,Russell Westbrook,FT,None,7:07,4,Thunder,Suns,87 - 109,1,N/A,1,N/A
+50,Deandre Ayton,FG_MISS,None,6:51,4,Suns,Thunder,87 - 109,0,1,2,Jumper
+51,Russell Westbrook,DEFENSIVE_REBOUND,None,6:48,4,Thunder,Suns,87 - 109,1,N/A,N/A,N/A
+52,Elie Okobo,FOUL_ON_FLOOR,None,6:46,4,Suns,Thunder,87 - 109,0,N/A,N/A,N/A
+53,Josh Jackson,FOUL_ON_FLOOR,None,6:34,4,Suns,Thunder,87 - 109,0,N/A,N/A,N/A
+54,Troy Daniels,SUBSTITUTION,Jackson Josh,6:34,4,Suns,Thunder,87 - 109,0,N/A,N/A,N/A
+55,Alex Abrines,FT,None,6:34,4,Thunder,Suns,87 - 110,1,N/A,1,N/A
+56,Alex Abrines,FT,None,6:34,4,Thunder,Suns,87 - 111,1,N/A,1,N/A
+57,Mikal Bridges,FG_MISS,None,6:21,4,Suns,Thunder,87 - 111,0,23,3,Jumper
+58,Alex Abrines,DEFENSIVE_REBOUND,None,6:19,4,Thunder,Suns,87 - 111,1,N/A,N/A,N/A
+59,Alex Abrines,FG_MISS,None,6:14,4,Thunder,Suns,87 - 111,1,1,2,Jumper
+60,Troy Daniels,DEFENSIVE_REBOUND,None,6:12,4,Suns,Thunder,87 - 111,0,N/A,N/A,N/A
+61,Deandre Ayton,FG_MISS,None,6:01,4,Suns,Thunder,87 - 111,0,1,2,Jumper
+62,Russell Westbrook,DEFENSIVE_REBOUND,None,5:59,4,Thunder,Suns,87 - 111,1,N/A,N/A,N/A
+63,Dennis Schroder,FG_MISS,None,5:43,4,Thunder,Suns,87 - 111,1,26,3,Jumper
+64,Ryan Anderson,DEFENSIVE_REBOUND,None,5:40,4,Suns,Thunder,87 - 111,0,N/A,N/A,N/A
+65,Deandre Ayton,FG_MISS,None,5:22,4,Suns,Thunder,87 - 111,0,14,2,Jumper
+66,Team,OFFENSIVE_REBOUND,None,5:22,4,Suns,Thunder,87 - 111,0,N/A,N/A,N/A
+67,Dennis Schroder,FOUL_ON_FLOOR,None,5:22,4,Thunder,Suns,87 - 111,1,N/A,N/A,N/A
+68,Deandre Ayton,FG_ASSISTED,Elie Okobo,5:11,4,Suns,Thunder,89 - 111,0,0,2,Layup
+69,Russell Westbrook,FG_UNASSISTED,None,4:48,4,Thunder,Suns,89 - 113,1,20,2,Jumper
+70,Elie Okobo,FG_UNASSISTED,None,4:30,4,Suns,Thunder,92 - 113,0,24,2,Jumper
+71,Russell Westbrook,FG_MISS,None,4:18,4,Thunder,Suns,92 - 113,1,1,2,Jumper
+72,Ryan Anderson,DEFENSIVE_REBOUND,None,4:13,4,Suns,Thunder,92 - 113,0,N/A,N/A,N/A
+73,Elie Okobo,FG_ASSISTED,Troy Daniels,3:58,4,Suns,Thunder,95 - 113,0,27,3,Jumper
+74,Team,Unknown,None,3:57,4,Thunder,Suns,95 - 113,1,N/A,N/A,N/A
+75,Terrance Ferguson,SUBSTITUTION,Westbrook Russell,3:57,4,Thunder,Suns,95 - 113,1,N/A,N/A,N/A
+76,TJ Warren,SUBSTITUTION,Anderson Ryan,3:57,4,Suns,Thunder,95 - 113,0,N/A,N/A,N/A
+77,Richaun Holmes,SUBSTITUTION,Ayton Deandre,3:57,4,Suns,Thunder,95 - 113,0,N/A,N/A,N/A
+78,Jerami Grant,FG_MISS,None,3:46,4,Thunder,Suns,95 - 113,1,26,3,Jumper
+79,TJ Warren,DEFENSIVE_REBOUND,None,3:42,4,Suns,Thunder,95 - 113,0,N/A,N/A,N/A
+80,Richaun Holmes,FOUL_ON_FLOOR,None,3:29,4,Suns,Thunder,95 - 113,0,N/A,N/A,N/A
+81,Richaun Holmes,TURNOVER,None,3:29,4,Suns,Thunder,95 - 113,0,N/A,N/A,N/A
+82,Patrick Patterson,FG_MISS,None,3:15,4,Thunder,Suns,95 - 113,1,26,3,Jumper
+83,Richaun Holmes,DEFENSIVE_REBOUND,None,3:12,4,Suns,Thunder,95 - 113,0,N/A,N/A,N/A
+84,Mikal Bridges,FG_ASSISTED,Elie Okobo,3:04,4,Suns,Thunder,97 - 113,0,0,2,Layup
+85,Alex Abrines,FG_MISS,None,2:49,4,Thunder,Suns,97 - 113,1,19,2,Jumper
+86,Elie Okobo,DEFENSIVE_REBOUND,None,2:47,4,Suns,Thunder,97 - 113,0,N/A,N/A,N/A
+87,TJ Warren,FG_MISS,None,2:42,4,Suns,Thunder,97 - 113,0,25,3,Jumper
+88,Richaun Holmes,OFFENSIVE_REBOUND,None,2:39,4,Suns,Thunder,97 - 113,0,N/A,N/A,N/A
+89,TJ Warren,FG_ASSISTED,Richaun Holmes,2:37,4,Suns,Thunder,99 - 113,0,0,2,Dunk
+90,Team,Unknown,None,2:37,4,Thunder,Suns,99 - 113,1,N/A,N/A,N/A
+91,Jerami Grant,TURNOVER,None,2:24,4,Thunder,Suns,99 - 113,1,N/A,N/A,N/A
+92,Elie Okobo,FG_MISS,None,2:10,4,Suns,Thunder,99 - 113,0,25,3,Jumper
+93,Team,DEFENSIVE_REBOUND,None,2:08,4,Thunder,Suns,99 - 113,1,N/A,N/A,N/A
+94,Elie Okobo,FOUL_ON_FLOOR,None,1:57,4,Suns,Thunder,99 - 113,0,N/A,N/A,N/A
+95,Dennis Schroder,FT,None,1:57,4,Thunder,Suns,99 - 114,1,N/A,1,N/A
+96,Abdel Nader,SUBSTITUTION,Grant Jerami,1:57,4,Thunder,Suns,99 - 114,1,N/A,N/A,N/A
+97,Dennis Schroder,FT,None,1:57,4,Thunder,Suns,99 - 115,1,N/A,1,N/A
+98,Elie Okobo,FG_ASSISTED,Richaun Holmes,1:45,4,Suns,Thunder,101 - 115,0,0,2,Layup
+99,Richaun Holmes,FOUL_ON_FLOOR,None,1:31,4,Suns,Thunder,101 - 115,0,N/A,N/A,N/A
+100,Dennis Schroder,FT_MISS,None,1:31,4,Thunder,Suns,101 - 115,1,N/A,1,N/A
+101,Team,OFFENSIVE_REBOUND,None,1:31,4,Thunder,Suns,101 - 115,1,N/A,N/A,N/A
+102,Deonte Burton,SUBSTITUTION,Abrines Alex,1:31,4,Thunder,Suns,101 - 115,1,N/A,N/A,N/A
+103,Dennis Schroder,FT_MISS,None,1:31,4,Thunder,Suns,101 - 115,1,N/A,1,N/A
+104,TJ Warren,DEFENSIVE_REBOUND,None,1:29,4,Suns,Thunder,101 - 115,0,N/A,N/A,N/A
+105,Patrick Patterson,FOUL_ON_FLOOR,None,1:15,4,Thunder,Suns,101 - 115,1,N/A,N/A,N/A
+106,Richaun Holmes,FT,None,1:15,4,Suns,Thunder,102 - 115,0,N/A,1,N/A
+107,Richaun Holmes,FT,None,1:15,4,Suns,Thunder,103 - 115,0,N/A,1,N/A
+108,Deonte Burton,FG_MISS,None,1:05,4,Thunder,Suns,103 - 115,1,6,2,Jumper
+109,Patrick Patterson,OFFENSIVE_REBOUND,None,1:03,4,Thunder,Suns,103 - 115,1,N/A,N/A,N/A
+110,Patrick Patterson,FG_UNASSISTED,None,1:03,4,Thunder,Suns,103 - 117,1,1,2,Jumper
+111,Abdel Nader,FOUL_ON_FLOOR,None,1:00,4,Thunder,Suns,103 - 117,1,N/A,N/A,N/A
+112,Elie Okobo,FT,None,1:00,4,Suns,Thunder,104 - 117,0,N/A,1,N/A
+113,Timothe Luwawu-Cabarrot,SUBSTITUTION,Schroder Dennis,1:00,4,Thunder,Suns,104 - 117,1,N/A,N/A,N/A
+114,Elie Okobo,FT,None,1:00,4,Suns,Thunder,105 - 117,0,N/A,1,N/A
+115,Timothe Luwawu-Cabarrot,FG_MISS,None,49.1,4,Thunder,Suns,105 - 117,1,26,3,Jumper
+116,Elie Okobo,DEFENSIVE_REBOUND,None,45.5,4,Suns,Thunder,105 - 117,0,N/A,N/A,N/A
+117,Troy Daniels,FG_ASSISTED,Elie Okobo,39.4,4,Suns,Thunder,108 - 117,0,26,3,Jumper
+118,Terrance Ferguson,TURNOVER,Troy Daniels,18.8,4,Thunder,Suns,108 - 117,1,N/A,N/A,N/A
+119,TJ Warren,FG_MISS,None,14.5,4,Suns,Thunder,108 - 117,0,1,2,Jumper
+120,TJ Warren,OFFENSIVE_REBOUND,None,11.9,4,Suns,Thunder,108 - 117,0,N/A,N/A,N/A
+121,TJ Warren,FG_MISS,None,10.4,4,Suns,Thunder,108 - 117,0,1,2,Jumper
+122,TJ Warren,OFFENSIVE_REBOUND,None,9.0,4,Suns,Thunder,108 - 117,0,N/A,N/A,N/A
+123,TJ Warren,FG_UNASSISTED,None,9.0,4,Suns,Thunder,110 - 117,0,1,2,Jumper
+124,End of,Unknown,None,0.0,4,Thunder,Suns,110 - 117,1,N/A,N/A,N/A
+125,End of,Unknown,None,0.0,4,Thunder,Suns,110 - 117,1,N/A,N/A,N/A

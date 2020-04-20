@@ -1,0 +1,463 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Mitchell Robinson,JUMP_BALL,None,12:00,1,Magic,Knicks,0 - 0,1,N/A,N/A,N/A
+1,Aaron Gordon,FG_MISS,None,11:45,1,Magic,Knicks,0 - 0,1,0,2,Layup
+2,Jonathan Isaac,OFFENSIVE_REBOUND,None,11:41,1,Magic,Knicks,0 - 0,1,N/A,N/A,N/A
+3,Jonathan Isaac,FG_MISS,None,11:41,1,Magic,Knicks,0 - 0,1,0,2,Dunk
+4,Emmanuel Mudiay,DEFENSIVE_REBOUND,None,11:41,1,Knicks,Magic,0 - 0,0,N/A,N/A,N/A
+5,Mario Hezonja,FG_MISS,None,11:40,1,Knicks,Magic,0 - 0,0,0,2,Layup
+6,Mitchell Robinson,OFFENSIVE_REBOUND,None,11:39,1,Knicks,Magic,0 - 0,0,N/A,N/A,N/A
+7,Mitchell Robinson,FG_MISS,None,11:39,1,Knicks,Magic,0 - 0,0,6,2,Jumper
+8,D.J. Augustin,DEFENSIVE_REBOUND,None,11:38,1,Magic,Knicks,0 - 0,1,N/A,N/A,N/A
+9,D.J. Augustin,TURNOVER,Mario Hezonja,11:33,1,Magic,Knicks,0 - 0,1,N/A,N/A,N/A
+10,Mitchell Robinson,FG_ASSISTED,Mario Hezonja,11:28,1,Knicks,Magic,2 - 0,0,0,2,Layup
+11,Aaron Gordon,FG_MISS,None,11:17,1,Magic,Knicks,2 - 0,1,0,2,Layup
+12,Mitchell Robinson,DEFENSIVE_REBOUND,None,11:17,1,Knicks,Magic,2 - 0,0,N/A,N/A,N/A
+13,Damyean Dotson,FG_MISS,None,11:09,1,Knicks,Magic,2 - 0,0,26,3,Jumper
+14,Nikola Vucevic,DEFENSIVE_REBOUND,None,11:06,1,Magic,Knicks,2 - 0,1,N/A,N/A,N/A
+15,Nikola Vucevic,FG_ASSISTED,D.J. Augustin,10:58,1,Magic,Knicks,2 - 2,1,-,2,Jumper
+16,Mario Hezonja,FG_MISS,Jonathan Isaac,10:43,1,Magic,Knicks,2 - 2,0,21,2,Jumper
+17,Evan Fournier,DEFENSIVE_REBOUND,None,10:43,1,Magic,Knicks,2 - 2,1,N/A,N/A,N/A
+18,Mitchell Robinson,FOUL_ON_FLOOR,None,10:42,1,Knicks,Magic,2 - 2,0,N/A,N/A,N/A
+19,Nikola Vucevic,FG_ASSISTED,D.J. Augustin,10:34,1,Magic,Knicks,2 - 4,1,0,2,Dunk
+20,Mitchell Robinson,FG_ASSISTED,Emmanuel Mudiay,10:15,1,Knicks,Magic,4 - 4,0,0,2,Dunk
+21,D.J. Augustin,TURNOVER,Emmanuel Mudiay,10:05,1,Magic,Knicks,4 - 4,1,N/A,N/A,N/A
+22,Kevin Knox,FG_ASSISTED,Emmanuel Mudiay,9:59,1,Knicks,Magic,6 - 4,0,-,2,Jumper
+23,Evan Fournier,FG_ASSISTED,D.J. Augustin,9:47,1,Magic,Knicks,6 - 6,1,0,2,Dunk
+24,Kevin Knox,FG_ASSISTED,Emmanuel Mudiay,9:34,1,Knicks,Magic,9 - 6,0,26,3,Jumper
+25,Nikola Vucevic,TURNOVER,Kevin Knox,9:21,1,Magic,Knicks,9 - 6,1,N/A,N/A,N/A
+26,Kevin Knox,TURNOVER,D.J. Augustin,9:17,1,Knicks,Magic,9 - 6,0,N/A,N/A,N/A
+27,D.J. Augustin,TURNOVER,Mitchell Robinson,9:12,1,Magic,Knicks,9 - 6,1,N/A,N/A,N/A
+28,Mario Hezonja,FG_UNASSISTED,None,9:08,1,Knicks,Magic,11 - 6,0,0,2,Layup
+29,Evan Fournier,FOUL_ON_FLOOR,None,9:08,1,Magic,Knicks,11 - 6,1,N/A,N/A,N/A
+30,Mario Hezonja,FT,None,9:08,1,Knicks,Magic,12 - 6,0,N/A,1,N/A
+31,Aaron Gordon,FG_MISS,None,8:53,1,Magic,Knicks,12 - 6,1,0,2,Layup
+32,Kevin Knox,DEFENSIVE_REBOUND,None,8:50,1,Knicks,Magic,12 - 6,0,N/A,N/A,N/A
+33,Kevin Knox,FG_ASSISTED,Mario Hezonja,8:40,1,Knicks,Magic,14 - 6,0,0,2,Layup
+34,Nikola Vucevic,FG_MISS,None,8:17,1,Magic,Knicks,14 - 6,1,6,2,Jumper
+35,Mitchell Robinson,DEFENSIVE_REBOUND,None,8:15,1,Knicks,Magic,14 - 6,0,N/A,N/A,N/A
+36,Emmanuel Mudiay,FG_MISS,None,8:11,1,Knicks,Magic,14 - 6,0,-,2,Jumper
+37,Nikola Vucevic,DEFENSIVE_REBOUND,None,8:07,1,Magic,Knicks,14 - 6,1,N/A,N/A,N/A
+38,D.J. Augustin,FG_MISS,None,7:57,1,Magic,Knicks,14 - 6,1,0,2,Layup
+39,Jonathan Isaac,OFFENSIVE_REBOUND,None,7:56,1,Magic,Knicks,14 - 6,1,N/A,N/A,N/A
+40,Jonathan Isaac,FG_MISS,None,7:56,1,Magic,Knicks,14 - 6,1,-,2,Jumper
+41,Nikola Vucevic,OFFENSIVE_REBOUND,None,7:56,1,Magic,Knicks,14 - 6,1,N/A,N/A,N/A
+42,Mario Hezonja,FOUL_ON_FLOOR,None,7:56,1,Knicks,Magic,14 - 6,0,N/A,N/A,N/A
+43,Nikola Vucevic,FT,None,7:56,1,Magic,Knicks,14 - 7,1,N/A,1,N/A
+44,Nikola Vucevic,FT,None,7:56,1,Magic,Knicks,14 - 8,1,N/A,1,N/A
+45,Mario Hezonja,FG_MISS,None,7:44,1,Knicks,Magic,14 - 8,0,-,2,Jumper
+46,Aaron Gordon,DEFENSIVE_REBOUND,None,7:41,1,Magic,Knicks,14 - 8,1,N/A,N/A,N/A
+47,Jonathan Isaac,FG_ASSISTED,Aaron Gordon,7:35,1,Magic,Knicks,14 - 10,1,0,2,Dunk
+48,Emmanuel Mudiay,FG_MISS,None,7:16,1,Knicks,Magic,14 - 10,0,7,2,Jumper
+49,Nikola Vucevic,DEFENSIVE_REBOUND,None,7:13,1,Magic,Knicks,14 - 10,1,N/A,N/A,N/A
+50,Damyean Dotson,FOUL_ON_FLOOR,None,7:12,1,Knicks,Magic,14 - 10,0,N/A,N/A,N/A
+51,Mario Hezonja,FOUL_ON_FLOOR,None,7:08,1,Knicks,Magic,14 - 10,0,N/A,N/A,N/A
+52,Aaron Gordon,FT_MISS,None,7:08,1,Magic,Knicks,14 - 10,1,N/A,1,N/A
+53,Team,OFFENSIVE_REBOUND,None,7:08,1,Magic,Knicks,14 - 10,1,N/A,N/A,N/A
+54,Lance Thomas,SUBSTITUTION,Hezonja Mario,7:08,1,Knicks,Magic,14 - 10,0,N/A,N/A,N/A
+55,Aaron Gordon,FT_MISS,None,7:08,1,Magic,Knicks,14 - 10,1,N/A,1,N/A
+56,Lance Thomas,DEFENSIVE_REBOUND,None,7:06,1,Knicks,Magic,14 - 10,0,N/A,N/A,N/A
+57,Damyean Dotson,FG_ASSISTED,Emmanuel Mudiay,6:49,1,Knicks,Magic,16 - 10,0, ,2,Jumper
+58,Nikola Vucevic,FG_ASSISTED,Aaron Gordon,6:29,1,Magic,Knicks,16 - 12,1,5,2,Jumper
+59,Lance Thomas,FG_ASSISTED,Emmanuel Mudiay,6:09,1,Knicks,Magic,18 - 12,0,18,2,Jumper
+60,Nikola Vucevic,FOUL_ON_FLOOR,None,5:51,1,Magic,Knicks,18 - 12,1,N/A,N/A,N/A
+61,Nikola Vucevic,TURNOVER,None,5:51,1,Magic,Knicks,18 - 12,1,N/A,N/A,N/A
+62,Team,Unknown,None,5:51,1,Magic,Knicks,18 - 12,1,N/A,N/A,N/A
+63,Wes Iwundu,SUBSTITUTION,Gordon Aaron,5:51,1,Magic,Knicks,18 - 12,1,N/A,N/A,N/A
+64,D.J. Augustin,FOUL_ON_FLOOR,None,5:37,1,Magic,Knicks,18 - 12,1,N/A,N/A,N/A
+65,Emmanuel Mudiay,FT,None,5:37,1,Knicks,Magic,19 - 12,0,N/A,1,N/A
+66,Emmanuel Mudiay,FT,None,5:37,1,Knicks,Magic,20 - 12,0,N/A,1,N/A
+67,Evan Fournier,FG_ASSISTED,Wes Iwundu,5:17,1,Magic,Knicks,20 - 14,1, ,2,Jumper
+68,Mitchell Robinson,FG_ASSISTED,Damyean Dotson,5:02,1,Knicks,Magic,22 - 14,0,0,2,Layup
+69,Nikola Vucevic,FG_UNASSISTED,None,4:40,1,Magic,Knicks,22 - 16,1,3,2,Jumper
+70,Emmanuel Mudiay,FG_MISS,None,4:22,1,Knicks,Magic,22 - 16,0,26,3,Jumper
+71,Jonathan Isaac,DEFENSIVE_REBOUND,None,4:20,1,Magic,Knicks,22 - 16,1,N/A,N/A,N/A
+72,Wes Iwundu,FG_MISS,None,4:03,1,Magic,Knicks,22 - 16,1,27,3,Jumper
+73,Jonathan Isaac,OFFENSIVE_REBOUND,None,3:59,1,Magic,Knicks,22 - 16,1,N/A,N/A,N/A
+74,Jonathan Isaac,FG_MISS,None,3:59,1,Magic,Knicks,22 - 16,1, ,2,Jumper
+75,Mitchell Robinson,DEFENSIVE_REBOUND,None,3:59,1,Knicks,Magic,22 - 16,0,N/A,N/A,N/A
+76,Team,Unknown,None,3:55,1,Knicks,Magic,22 - 16,0,N/A,N/A,N/A
+77,Terrence Ross,SUBSTITUTION,Fournier Evan,3:55,1,Magic,Knicks,22 - 16,1,N/A,N/A,N/A
+78,Michael Carter-Williams,SUBSTITUTION,Augustin D.J.,3:55,1,Magic,Knicks,22 - 16,1,N/A,N/A,N/A
+79,John Jenkins,SUBSTITUTION,Dotson Damyean,3:55,1,Knicks,Magic,22 - 16,0,N/A,N/A,N/A
+80,Luke Kornet,SUBSTITUTION,Robinson Mitchell,3:55,1,Knicks,Magic,22 - 16,0,N/A,N/A,N/A
+81,Luke Kornet,FG_ASSISTED,John Jenkins,3:44,1,Knicks,Magic,24 - 16,0,0,2,Layup
+82,Jonathan Isaac,FG_MISS,None,3:25,1,Magic,Knicks,24 - 16,1,23,3,Jumper
+83,Michael Carter-Williams,OFFENSIVE_REBOUND,None,3:23,1,Magic,Knicks,24 - 16,1,N/A,N/A,N/A
+84,Jonathan Isaac,FG_ASSISTED,Terrence Ross,3:16,1,Magic,Knicks,24 - 18,1,0,2,Layup
+85,Kevin Knox,FG_MISS,Michael Carter-Williams,3:00,1,Magic,Knicks,24 - 18,0,0,2,Layup
+86,Wes Iwundu,DEFENSIVE_REBOUND,None,2:56,1,Magic,Knicks,24 - 18,1,N/A,N/A,N/A
+87,Terrence Ross,FG_ASSISTED,Wes Iwundu,2:54,1,Magic,Knicks,24 - 21,1,27,3,Jumper
+88,Kevin Knox,FG_MISS,None,2:39,1,Knicks,Magic,24 - 21,0,27,3,Jumper
+89,Team,DEFENSIVE_REBOUND,None,2:37,1,Magic,Knicks,24 - 21,1,N/A,N/A,N/A
+90,Khem Birch,SUBSTITUTION,Isaac Jonathan,2:37,1,Magic,Knicks,24 - 21,1,N/A,N/A,N/A
+91,Aaron Gordon,SUBSTITUTION,Vucevic Nikola,2:37,1,Magic,Knicks,24 - 21,1,N/A,N/A,N/A
+92,Aaron Gordon,FG_ASSISTED,Terrence Ross,2:25,1,Magic,Knicks,24 - 24,1,23,3,Jumper
+93,Emmanuel Mudiay's,FG_MISS,Aaron Gordon,2:05,1,Magic,Knicks,24 - 24,0, ,2,Jumper
+94,Michael Carter-Williams,DEFENSIVE_REBOUND,None,2:01,1,Magic,Knicks,24 - 24,1,N/A,N/A,N/A
+95,Aaron Gordon,FG_UNASSISTED,None,1:49,1,Magic,Knicks,24 - 26,1,0,2,Layup
+96,Team,Unknown,None,1:44,1,Knicks,Magic,24 - 26,0,N/A,N/A,N/A
+97,Billy Garrett,SUBSTITUTION,Mudiay Emmanuel,1:44,1,Knicks,Magic,24 - 26,0,N/A,N/A,N/A
+98,Luke Kornet,FG_MISS,None,1:29,1,Knicks,Magic,24 - 26,0,26,3,Jumper
+99,Michael Carter-Williams,DEFENSIVE_REBOUND,None,1:25,1,Magic,Knicks,24 - 26,1,N/A,N/A,N/A
+100,Khem Birch,FG_MISS,Luke Kornet,1:17,1,Knicks,Magic,24 - 26,1,4,2,Jumper
+101,Khem Birch,OFFENSIVE_REBOUND,None,1:16,1,Magic,Knicks,24 - 26,1,N/A,N/A,N/A
+102,Wes Iwundu,FG_MISS,None,1:15,1,Magic,Knicks,24 - 26,1,23,3,Jumper
+103,John Jenkins,DEFENSIVE_REBOUND,None,1:06,1,Knicks,Magic,24 - 26,0,N/A,N/A,N/A
+104,Aaron Gordon,FOUL_ON_FLOOR,None,1:05,1,Magic,Knicks,24 - 26,1,N/A,N/A,N/A
+105,Henry Ellenson,SUBSTITUTION,Knox Kevin,1:05,1,Knicks,Magic,24 - 26,0,N/A,N/A,N/A
+106,Luke Kornet,TURNOVER,None,57.8,1,Knicks,Magic,24 - 26,0,N/A,N/A,N/A
+107,Khem Birch,FG_MISS,None,44.2,1,Magic,Knicks,24 - 26,1,0,2,Layup
+108,Lance Thomas,DEFENSIVE_REBOUND,None,44.2,1,Knicks,Magic,24 - 26,0,N/A,N/A,N/A
+109,Billy Garrett,FG_ASSISTED,John Jenkins,26.8,1,Knicks,Magic,26 - 26,0,3,2,Jumper
+110,Michael Carter-Williams,FG_MISS,None,6.0,1,Magic,Knicks,26 - 26,1,27,3,Jumper
+111,Team,OFFENSIVE_REBOUND,None,5.8,1,Magic,Knicks,26 - 26,1,N/A,N/A,N/A
+112,shot clock,TURNOVER,None,5.8,1,Magic,Knicks,26 - 26,1,N/A,N/A,N/A
+113,Billy Garrett,FG_MISS,None,1.7,1,Knicks,Magic,26 - 26,0,27,3,Jumper
+114,Wes Iwundu,DEFENSIVE_REBOUND,None,1.7,1,Magic,Knicks,26 - 26,1,N/A,N/A,N/A
+115,End of,Unknown,None,0.0,1,Magic,Knicks,26 - 26,1,N/A,N/A,N/A
+0,Evan Fournier,SUBSTITUTION,Iwundu Wes,12:00,2,Magic,Knicks,26 - 26,1,N/A,N/A,N/A
+1,Billy Garrett,FG_UNASSISTED,None,11:35,2,Knicks,Magic,28 - 26,0, ,2,Jumper
+2,Evan Fournier,FG_ASSISTED,Terrence Ross,11:19,2,Magic,Knicks,28 - 29,1,23,3,Jumper
+3,Henry Ellenson,FG_MISS,None,11:01,2,Knicks,Magic,28 - 29,0, ,2,Jumper
+4,Team,DEFENSIVE_REBOUND,None,11:01,2,Magic,Knicks,28 - 29,1,N/A,N/A,N/A
+5,Khem Birch,FG_ASSISTED,Evan Fournier,10:48,2,Magic,Knicks,28 - 31,1, ,2,Jumper
+6,Michael Carter-Williams,FOUL_ON_FLOOR,None,10:33,2,Magic,Knicks,28 - 31,1,N/A,N/A,N/A
+7,John Jenkins,FG_ASSISTED,Billy Garrett,10:27,2,Knicks,Magic,30 - 31,0,13,2,Jumper
+8,Evan Fournier,FG_UNASSISTED,None,10:11,2,Magic,Knicks,30 - 33,1,24,2,Jumper
+9,Billy Garrett,FG_MISS,None,9:52,2,Knicks,Magic,30 - 33,0,20,2,Jumper
+10,Terrence Ross,DEFENSIVE_REBOUND,None,9:49,2,Magic,Knicks,30 - 33,1,N/A,N/A,N/A
+11,Terrence Ross,FG_MISS,None,9:44,2,Magic,Knicks,30 - 33,1,26,3,Jumper
+12,Lance Thomas,DEFENSIVE_REBOUND,None,9:41,2,Knicks,Magic,30 - 33,0,N/A,N/A,N/A
+13,Luke Kornet,FG_MISS,None,9:35,2,Knicks,Magic,30 - 33,0,27,3,Jumper
+14,Terrence Ross,DEFENSIVE_REBOUND,None,9:32,2,Magic,Knicks,30 - 33,1,N/A,N/A,N/A
+15,Terrence Ross,FG_ASSISTED,Michael Carter-Williams,9:23,2,Magic,Knicks,30 - 36,1,24,3,Jumper
+16,Team,Unknown,None,9:13,2,Knicks,Magic,30 - 36,0,N/A,N/A,N/A
+17,Emmanuel Mudiay,SUBSTITUTION,Garrett Billy,9:13,2,Knicks,Magic,30 - 36,0,N/A,N/A,N/A
+18,John Jenkins,FG_ASSISTED,Emmanuel Mudiay,9:03,2,Knicks,Magic,32 - 36,0,21,2,Jumper
+19,Terrence Ross,FG_ASSISTED,Aaron Gordon,8:46,2,Magic,Knicks,32 - 38,1,0,2,Layup
+20,Michael Carter-Williams,FOUL_ON_FLOOR,None,8:38,2,Magic,Knicks,32 - 38,1,N/A,N/A,N/A
+21,Emmanuel Mudiay,FT,None,8:38,2,Knicks,Magic,33 - 38,0,N/A,1,N/A
+22,Mario Hezonja,SUBSTITUTION,Ellenson Henry,8:38,2,Knicks,Magic,33 - 38,0,N/A,N/A,N/A
+23,Mitchell Robinson,SUBSTITUTION,Kornet Luke,8:38,2,Knicks,Magic,33 - 38,0,N/A,N/A,N/A
+24,Emmanuel Mudiay,FT_MISS,None,8:38,2,Knicks,Magic,33 - 38,0,N/A,1,N/A
+25,Khem Birch,DEFENSIVE_REBOUND,None,8:35,2,Magic,Knicks,33 - 38,1,N/A,N/A,N/A
+26,Michael Carter-Williams,FG_MISS,None,8:19,2,Magic,Knicks,33 - 38,1,26,3,Jumper
+27,Mario Hezonja,DEFENSIVE_REBOUND,None,8:15,2,Knicks,Magic,33 - 38,0,N/A,N/A,N/A
+28,John Jenkins,FG_MISS,None,8:09,2,Knicks,Magic,33 - 38,0,26,3,Jumper
+29,Khem Birch,DEFENSIVE_REBOUND,None,8:06,2,Magic,Knicks,33 - 38,1,N/A,N/A,N/A
+30,Michael Carter-Williams,FG_UNASSISTED,None,7:56,2,Magic,Knicks,33 - 40,1,8,2,Jumper
+31,Emmanuel Mudiay,FG_MISS,None,7:39,2,Knicks,Magic,33 - 40,0,15,2,Jumper
+32,Khem Birch,DEFENSIVE_REBOUND,None,7:35,2,Magic,Knicks,33 - 40,1,N/A,N/A,N/A
+33,Evan Fournier,FG_UNASSISTED,None,7:32,2,Magic,Knicks,33 - 42,1,10,2,Jumper
+34,John Jenkins,FOUL_ON_FLOOR,None,7:32,2,Knicks,Magic,33 - 42,0,N/A,N/A,N/A
+35,Evan Fournier,FT,None,7:32,2,Magic,Knicks,33 - 43,1,N/A,1,N/A
+36,Jonathan Isaac,SUBSTITUTION,Gordon Aaron,7:32,2,Magic,Knicks,33 - 43,1,N/A,N/A,N/A
+37,D.J. Augustin,SUBSTITUTION,Carter-Williams Michael,7:32,2,Magic,Knicks,33 - 43,1,N/A,N/A,N/A
+38,Damyean Dotson,SUBSTITUTION,Jenkins John,7:32,2,Knicks,Magic,33 - 43,0,N/A,N/A,N/A
+39,Mitchell Robinson,Unknown,None,7:32,2,Knicks,Magic,33 - 43,0,N/A,N/A,N/A
+40,Lance Thomas,FG_MISS,None,7:11,2,Knicks,Magic,33 - 43,0,26,3,Jumper
+41,D.J. Augustin,DEFENSIVE_REBOUND,None,7:08,2,Magic,Knicks,33 - 43,1,N/A,N/A,N/A
+42,Evan Fournier,FG_ASSISTED,D.J. Augustin,7:04,2,Magic,Knicks,33 - 45,1,17,2,Jumper
+43,Mario Hezonja,FG_ASSISTED,Emmanuel Mudiay,6:48,2,Knicks,Magic,35 - 45,0,15,2,Jumper
+44,Evan Fournier,FG_MISS,None,6:28,2,Magic,Knicks,35 - 45,1,21,2,Jumper
+45,Lance Thomas,DEFENSIVE_REBOUND,None,6:25,2,Knicks,Magic,35 - 45,0,N/A,N/A,N/A
+46,Lance Thomas,FG_UNASSISTED,None,6:19,2,Knicks,Magic,37 - 45,0,0,2,Layup
+47,Jonathan Isaac,FOUL_ON_FLOOR,None,6:19,2,Magic,Knicks,37 - 45,1,N/A,N/A,N/A
+48,Wes Iwundu,SUBSTITUTION,Fournier Evan,6:19,2,Magic,Knicks,37 - 45,1,N/A,N/A,N/A
+49,Nikola Vucevic,SUBSTITUTION,Birch Khem,6:19,2,Magic,Knicks,37 - 45,1,N/A,N/A,N/A
+50,Lance Thomas,FT_MISS,None,6:19,2,Knicks,Magic,37 - 45,0,N/A,1,N/A
+51,Nikola Vucevic,DEFENSIVE_REBOUND,None,6:16,2,Magic,Knicks,37 - 45,1,N/A,N/A,N/A
+52,Jonathan Isaac,TURNOVER,Lance Thomas,6:06,2,Magic,Knicks,37 - 45,1,N/A,N/A,N/A
+53,Lance Thomas,FG_MISS,None,5:55,2,Knicks,Magic,37 - 45,0,14,2,Jumper
+54,Jonathan Isaac,DEFENSIVE_REBOUND,None,5:51,2,Magic,Knicks,37 - 45,1,N/A,N/A,N/A
+55,Wes Iwundu,FG_ASSISTED,Nikola Vucevic,5:36,2,Magic,Knicks,37 - 47,1,0,2,Dunk
+56,Damyean Dotson,TURNOVER,None,5:20,2,Knicks,Magic,37 - 47,0,N/A,N/A,N/A
+57,Kevin Knox,SUBSTITUTION,Thomas Lance,5:20,2,Knicks,Magic,37 - 47,0,N/A,N/A,N/A
+58,Nikola Vucevic,FG_MISS,None,5:12,2,Magic,Knicks,37 - 47,1,26,3,Jumper
+59,Mario Hezonja,DEFENSIVE_REBOUND,None,5:09,2,Knicks,Magic,37 - 47,0,N/A,N/A,N/A
+60,Jonathan Isaac,Unknown,None,5:05,2,Magic,Knicks,37 - 47,1,N/A,N/A,N/A
+61,Emmanuel Mudiay,FG_UNASSISTED,None,4:57,2,Knicks,Magic,39 - 47,0,15,2,Jumper
+62,Nikola Vucevic,FG_UNASSISTED,None,4:35,2,Magic,Knicks,39 - 49,1,11,2,Jumper
+63,Kevin Knox,TURNOVER,None,4:22,2,Knicks,Magic,39 - 49,0,N/A,N/A,N/A
+64,Aaron Gordon,SUBSTITUTION,Ross Terrence,4:22,2,Magic,Knicks,39 - 49,1,N/A,N/A,N/A
+65,Jonathan Isaac,FG_MISS,Emmanuel Mudiay,4:01,2,Knicks,Magic,39 - 49,1,0,2,Layup
+66,Team,OFFENSIVE_REBOUND,None,4:01,2,Magic,Knicks,39 - 49,1,N/A,N/A,N/A
+67,Aaron Gordon,FG_MISS,None,3:59,2,Magic,Knicks,39 - 49,1,20,2,Jumper
+68,Emmanuel Mudiay,DEFENSIVE_REBOUND,None,3:56,2,Knicks,Magic,39 - 49,0,N/A,N/A,N/A
+69,Mario Hezonja,FG_MISS,None,3:44,2,Knicks,Magic,39 - 49,0, ,2,Jumper
+70,Mitchell Robinson,OFFENSIVE_REBOUND,None,3:41,2,Knicks,Magic,39 - 49,0,N/A,N/A,N/A
+71,Mitchell Robinson,FG_UNASSISTED,None,3:41,2,Knicks,Magic,41 - 49,0,0,2,Dunk
+72,Jonathan Isaac,FG_MISS,None,3:20,2,Magic,Knicks,41 - 49,1,24,3,Jumper
+73,Mario Hezonja,DEFENSIVE_REBOUND,None,3:17,2,Knicks,Magic,41 - 49,0,N/A,N/A,N/A
+74,Mario Hezonja,FG_MISS,None,3:08,2,Knicks,Magic,41 - 49,0,27,3,Jumper
+75,Wes Iwundu,DEFENSIVE_REBOUND,None,3:04,2,Magic,Knicks,41 - 49,1,N/A,N/A,N/A
+76,D.J. Augustin,TURNOVER,Mario Hezonja,2:51,2,Magic,Knicks,41 - 49,1,N/A,N/A,N/A
+77,Mario Hezonja,FG_UNASSISTED,None,2:46,2,Knicks,Magic,43 - 49,0, ,2,Jumper
+78,Team,Unknown,None,2:41,2,Magic,Knicks,43 - 49,1,N/A,N/A,N/A
+79,Evan Fournier,SUBSTITUTION,Iwundu Wes,2:41,2,Magic,Knicks,43 - 49,1,N/A,N/A,N/A
+80,Jonathan Isaac,TURNOVER,Kevin Knox,2:33,2,Magic,Knicks,43 - 49,1,N/A,N/A,N/A
+81,Kevin Knox,FG_UNASSISTED,None,2:27,2,Knicks,Magic,45 - 49,0, ,2,Jumper
+82,Aaron Gordon,FG_ASSISTED,Nikola Vucevic,2:11,2,Magic,Knicks,45 - 51,1,0,2,Dunk
+83,Mario Hezonja's,FG_MISS,Nikola Vucevic,1:54,2,Magic,Knicks,45 - 51,0,0,2,Layup
+84,Evan Fournier,DEFENSIVE_REBOUND,None,1:50,2,Magic,Knicks,45 - 51,1,N/A,N/A,N/A
+85,Evan Fournier,FG_ASSISTED,Aaron Gordon,1:47,2,Magic,Knicks,45 - 53,1, ,2,Jumper
+86,Emmanuel Mudiay,FG_MISS,None,1:31,2,Knicks,Magic,45 - 53,0, ,3,Jumper
+87,Evan Fournier,DEFENSIVE_REBOUND,None,1:28,2,Magic,Knicks,45 - 53,1,N/A,N/A,N/A
+88,Terrence Ross,SUBSTITUTION,Isaac Jonathan,1:20,2,Magic,Knicks,45 - 53,1,N/A,N/A,N/A
+89,Evan Fournier,FG_MISS,None,1:15,2,Magic,Knicks,45 - 53,1,19,2,Jumper
+90,Emmanuel Mudiay,DEFENSIVE_REBOUND,None,1:13,2,Knicks,Magic,45 - 53,0,N/A,N/A,N/A
+91,Mario Hezonja,FG_MISS,None,1:07,2,Knicks,Magic,45 - 53,0,23,3,Jumper
+92,Nikola Vucevic,DEFENSIVE_REBOUND,None,1:04,2,Magic,Knicks,45 - 53,1,N/A,N/A,N/A
+93,D.J. Augustin,FG_MISS,None,45.0,2,Magic,Knicks,45 - 53,1,27,3,Jumper
+94,Aaron Gordon,OFFENSIVE_REBOUND,None,41.6,2,Magic,Knicks,45 - 53,1,N/A,N/A,N/A
+95,D.J. Augustin,FG_MISS,None,36.5,2,Magic,Knicks,45 - 53,1,0,2,Layup
+96,Nikola Vucevic,OFFENSIVE_REBOUND,None,36.5,2,Magic,Knicks,45 - 53,1,N/A,N/A,N/A
+97,Nikola Vucevic,FG_UNASSISTED,None,36.5,2,Magic,Knicks,45 - 55,1,0,2,Dunk
+98,Damyean Dotson,TURNOVER,None,15.5,2,Knicks,Magic,45 - 55,0,N/A,N/A,N/A
+99,Emmanuel Mudiay,FOUL_ON_FLOOR,None,5.6,2,Knicks,Magic,45 - 55,0,N/A,N/A,N/A
+100,Nikola Vucevic,FG_ASSISTED,D.J. Augustin,1.1,2,Magic,Knicks,45 - 58,1,26,3,Jumper
+101,End of,Unknown,None,0.0,2,Magic,Knicks,45 - 58,1,N/A,N/A,N/A
+0,Jonathan Isaac,SUBSTITUTION,Ross Terrence,12:00,3,Magic,Knicks,45 - 58,1,N/A,N/A,N/A
+1,Emmanuel Mudiay,TURNOVER,None,11:48,3,Knicks,Magic,45 - 58,0,N/A,N/A,N/A
+2,Mario Hezonja,FOUL_ON_FLOOR,None,11:30,3,Knicks,Magic,45 - 58,0,N/A,N/A,N/A
+3,Aaron Gordon,FT_MISS,None,11:30,3,Magic,Knicks,45 - 58,1,N/A,1,N/A
+4,Team,OFFENSIVE_REBOUND,None,11:30,3,Magic,Knicks,45 - 58,1,N/A,N/A,N/A
+5,Aaron Gordon,FT,None,11:30,3,Magic,Knicks,45 - 59,1,N/A,1,N/A
+6,Kevin Knox,FG_MISS,None,11:19,3,Knicks,Magic,45 - 59,0, ,2,Jumper
+7,Nikola Vucevic,DEFENSIVE_REBOUND,None,11:17,3,Magic,Knicks,45 - 59,1,N/A,N/A,N/A
+8,Nikola Vucevic,FG_MISS,None,11:10,3,Magic,Knicks,45 - 59,1,26,3,Jumper
+9,Kevin Knox,DEFENSIVE_REBOUND,None,11:10,3,Knicks,Magic,45 - 59,0,N/A,N/A,N/A
+10,Mario Hezonja,TURNOVER,None,10:55,3,Knicks,Magic,45 - 59,0,N/A,N/A,N/A
+11,Evan Fournier,FG_MISS,Kevin Knox,10:45,3,Knicks,Magic,45 - 59,1,0,2,Layup
+12,Emmanuel Mudiay,DEFENSIVE_REBOUND,None,10:40,3,Knicks,Magic,45 - 59,0,N/A,N/A,N/A
+13,Damyean Dotson,FG_MISS,Jonathan Isaac,10:38,3,Magic,Knicks,45 - 59,0,0,2,Layup
+14,Jonathan Isaac,DEFENSIVE_REBOUND,None,10:32,3,Magic,Knicks,45 - 59,1,N/A,N/A,N/A
+15,Aaron Gordon,TURNOVER,Mitchell Robinson,10:27,3,Magic,Knicks,45 - 59,1,N/A,N/A,N/A
+16,Nikola Vucevic,FOUL_ON_FLOOR,None,10:18,3,Magic,Knicks,45 - 59,1,N/A,N/A,N/A
+17,Kevin Knox,FT,None,10:18,3,Knicks,Magic,46 - 59,0,N/A,1,N/A
+18,Kevin Knox,FT,None,10:18,3,Knicks,Magic,47 - 59,0,N/A,1,N/A
+19,Nikola Vucevic,FG_MISS,None,10:00,3,Magic,Knicks,47 - 59,1, ,2,Jumper
+20,Team,OFFENSIVE_REBOUND,None,10:00,3,Magic,Knicks,47 - 59,1,N/A,N/A,N/A
+21,Kevin Knox,FOUL_ON_FLOOR,None,10:00,3,Knicks,Magic,47 - 59,0,N/A,N/A,N/A
+22,Mitchell Robinson,FOUL_ON_FLOOR,None,9:53,3,Knicks,Magic,47 - 59,0,N/A,N/A,N/A
+23,Aaron Gordon,FT_MISS,None,9:53,3,Magic,Knicks,47 - 59,1,N/A,1,N/A
+24,Team,OFFENSIVE_REBOUND,None,9:53,3,Magic,Knicks,47 - 59,1,N/A,N/A,N/A
+25,Aaron Gordon,FT,None,9:53,3,Magic,Knicks,47 - 60,1,N/A,1,N/A
+26,Emmanuel Mudiay,FG_MISS,None,9:42,3,Knicks,Magic,47 - 60,0,26,3,Jumper
+27,Team,DEFENSIVE_REBOUND,None,9:39,3,Magic,Knicks,47 - 60,1,N/A,N/A,N/A
+28,D.J. Augustin,FG_UNASSISTED,None,9:27,3,Magic,Knicks,47 - 63,1,26,3,Jumper
+29,Nikola Vucevic,FOUL_ON_FLOOR,None,9:14,3,Magic,Knicks,47 - 63,1,N/A,N/A,N/A
+30,Mario Hezonja,FT,None,9:14,3,Knicks,Magic,48 - 63,0,N/A,1,N/A
+31,Mario Hezonja,FT,None,9:14,3,Knicks,Magic,49 - 63,0,N/A,1,N/A
+32,Nikola Vucevic,FG_MISS,None,9:02,3,Magic,Knicks,49 - 63,1,0,2,Layup
+33,Mitchell Robinson,DEFENSIVE_REBOUND,None,9:00,3,Knicks,Magic,49 - 63,0,N/A,N/A,N/A
+34,Mario Hezonja,FG_ASSISTED,Emmanuel Mudiay,8:58,3,Knicks,Magic,51 - 63,0, ,2,Jumper
+35,Aaron Gordon,Unknown,None,8:58,3,Magic,Knicks,51 - 63,1,N/A,N/A,N/A
+36,Jonathan Isaac,FG_MISS,None,8:43,3,Magic,Knicks,51 - 63,1,27,3,Jumper
+37,Team,DEFENSIVE_REBOUND,None,8:42,3,Knicks,Magic,51 - 63,0,N/A,N/A,N/A
+38,Mario Hezonja,FG_UNASSISTED,None,8:33,3,Knicks,Magic,53 - 63,0,0,2,Layup
+39,Team,Unknown,None,8:33,3,Magic,Knicks,53 - 63,1,N/A,N/A,N/A
+40,Team,Unknown,None,8:33,3,Knicks,Magic,53 - 63,0,N/A,N/A,N/A
+41,Nikola Vucevic,FG_MISS,None,8:19,3,Magic,Knicks,53 - 63,1,9,2,Jumper
+42,Jonathan Isaac,OFFENSIVE_REBOUND,None,8:15,3,Magic,Knicks,53 - 63,1,N/A,N/A,N/A
+43,Jonathan Isaac,FG_MISS,None,8:15,3,Magic,Knicks,53 - 63,1,0,2,Dunk
+44,Jonathan Isaac,OFFENSIVE_REBOUND,None,8:14,3,Magic,Knicks,53 - 63,1,N/A,N/A,N/A
+45,Jonathan Isaac,FG_MISS,None,8:12,3,Magic,Knicks,53 - 63,1,0,2,Layup
+46,Mitchell Robinson,DEFENSIVE_REBOUND,None,8:09,3,Knicks,Magic,53 - 63,0,N/A,N/A,N/A
+47,Jonathan Isaac,FOUL_ON_FLOOR,None,8:03,3,Magic,Knicks,53 - 63,1,N/A,N/A,N/A
+48,Mario Hezonja,FT,None,8:03,3,Knicks,Magic,54 - 63,0,N/A,1,N/A
+49,Mario Hezonja,FT,None,8:03,3,Knicks,Magic,55 - 63,0,N/A,1,N/A
+50,Evan Fournier,FG_MISS,None,7:52,3,Magic,Knicks,55 - 63,1,22,2,Jumper
+51,Mario Hezonja,DEFENSIVE_REBOUND,None,7:49,3,Knicks,Magic,55 - 63,0,N/A,N/A,N/A
+52,Kevin Knox,FG_MISS,None,7:35,3,Knicks,Magic,55 - 63,0,8,2,Jumper
+53,Mitchell Robinson,OFFENSIVE_REBOUND,None,7:34,3,Knicks,Magic,55 - 63,0,N/A,N/A,N/A
+54,Mitchell Robinson,FG_MISS,None,7:34,3,Knicks,Magic,55 - 63,0,0,2,Dunk
+55,Mitchell Robinson,OFFENSIVE_REBOUND,None,7:34,3,Knicks,Magic,55 - 63,0,N/A,N/A,N/A
+56,Mitchell Robinson,FG_MISS,Evan Fournier,7:33,3,Magic,Knicks,55 - 63,0,4,2,Jumper
+57,Team,DEFENSIVE_REBOUND,None,7:33,3,Magic,Knicks,55 - 63,1,N/A,N/A,N/A
+58,Jonathan Isaac,FG_MISS,None,7:24,3,Magic,Knicks,55 - 63,1,26,3,Jumper
+59,Damyean Dotson,DEFENSIVE_REBOUND,None,7:21,3,Knicks,Magic,55 - 63,0,N/A,N/A,N/A
+60,Aaron Gordon,FOUL_ON_FLOOR,None,7:17,3,Magic,Knicks,55 - 63,1,N/A,N/A,N/A
+61,Mario Hezonja,FG_MISS,None,7:12,3,Knicks,Magic,55 - 63,0,17,2,Jumper
+62,Emmanuel Mudiay,OFFENSIVE_REBOUND,None,7:10,3,Knicks,Magic,55 - 63,0,N/A,N/A,N/A
+63,Emmanuel Mudiay,FG_UNASSISTED,None,7:08,3,Knicks,Magic,57 - 63,0,12,2,Jumper
+64,Nikola Vucevic,FG_ASSISTED,D.J. Augustin,6:53,3,Magic,Knicks,57 - 65,1,0,2,Dunk
+65,Mario Hezonja,TURNOVER,Aaron Gordon,6:36,3,Knicks,Magic,57 - 65,0,N/A,N/A,N/A
+66,Emmanuel Mudiay,FOUL_ON_FLOOR,None,6:32,3,Knicks,Magic,57 - 65,0,N/A,N/A,N/A
+67,Mario Hezonja,FOUL_ON_FLOOR,None,6:19,3,Knicks,Magic,57 - 65,0,N/A,N/A,N/A
+68,Nikola Vucevic,FT_MISS,None,6:19,3,Magic,Knicks,57 - 65,1,N/A,1,N/A
+69,Team,OFFENSIVE_REBOUND,None,6:19,3,Magic,Knicks,57 - 65,1,N/A,N/A,N/A
+70,Nikola Vucevic,FT,None,6:19,3,Magic,Knicks,57 - 66,1,N/A,1,N/A
+71,Damyean Dotson,FG_ASSISTED,Kevin Knox,6:08,3,Knicks,Magic,59 - 66,0,20,2,Jumper
+72,Jonathan Isaac,FG_MISS,None,5:43,3,Magic,Knicks,59 - 66,1,14,2,Jumper
+73,Nikola Vucevic,OFFENSIVE_REBOUND,None,5:40,3,Magic,Knicks,59 - 66,1,N/A,N/A,N/A
+74,D.J. Augustin,FG_ASSISTED,Nikola Vucevic,5:35,3,Magic,Knicks,59 - 68,1,11,2,Jumper
+75,Kevin Knox,FG_UNASSISTED,None,5:17,3,Knicks,Magic,61 - 68,0,10,2,Jumper
+76,Aaron Gordon,FG_MISS,None,5:00,3,Magic,Knicks,61 - 68,1,23,3,Jumper
+77,Mario Hezonja,DEFENSIVE_REBOUND,None,4:57,3,Knicks,Magic,61 - 68,0,N/A,N/A,N/A
+78,Emmanuel Mudiay,FG_ASSISTED,Mario Hezonja,4:49,3,Knicks,Magic,64 - 68,0,27,3,Jumper
+79,Jonathan Isaac,FG_MISS,None,4:26,3,Magic,Knicks,64 - 68,1,23,3,Jumper
+80,Aaron Gordon,OFFENSIVE_REBOUND,None,4:22,3,Magic,Knicks,64 - 68,1,N/A,N/A,N/A
+81,Aaron Gordon,FG_UNASSISTED,None,4:19,3,Magic,Knicks,64 - 70,1,0,2,Dunk
+82,Mario Hezonja,FG_UNASSISTED,None,4:03,3,Knicks,Magic,66 - 70,0, ,2,Jumper
+83,Jonathan Isaac,FG_MISS,None,3:37,3,Magic,Knicks,66 - 70,1,23,3,Jumper
+84,D.J. Augustin,OFFENSIVE_REBOUND,None,3:33,3,Magic,Knicks,66 - 70,1,N/A,N/A,N/A
+85,Aaron Gordon,FG_MISS,None,3:24,3,Magic,Knicks,66 - 70,1, ,2,Jumper
+86,Team,OFFENSIVE_REBOUND,None,3:22,3,Magic,Knicks,66 - 70,1,N/A,N/A,N/A
+87,Michael Carter-Williams,SUBSTITUTION,Gordon Aaron,3:22,3,Magic,Knicks,66 - 70,1,N/A,N/A,N/A
+88,Wes Iwundu,SUBSTITUTION,Fournier Evan,3:22,3,Magic,Knicks,66 - 70,1,N/A,N/A,N/A
+89,Terrence Ross,SUBSTITUTION,Augustin D.J.,3:22,3,Magic,Knicks,66 - 70,1,N/A,N/A,N/A
+90,Luke Kornet,SUBSTITUTION,Dotson Damyean,3:22,3,Knicks,Magic,66 - 70,0,N/A,N/A,N/A
+91,Billy Garrett,SUBSTITUTION,Robinson Mitchell,3:22,3,Knicks,Magic,66 - 70,0,N/A,N/A,N/A
+92,Michael Carter-Williams,FG_MISS,None,3:11,3,Magic,Knicks,66 - 70,1,7,2,Jumper
+93,Jonathan Isaac,OFFENSIVE_REBOUND,None,3:10,3,Magic,Knicks,66 - 70,1,N/A,N/A,N/A
+94,Jonathan Isaac,FG_UNASSISTED,None,3:10,3,Magic,Knicks,66 - 72,1, ,2,Jumper
+95,Emmanuel Mudiay,FG_MISS,Michael Carter-Williams,2:54,3,Magic,Knicks,66 - 72,0,0,2,Layup
+96,Luke Kornet,OFFENSIVE_REBOUND,None,2:54,3,Knicks,Magic,66 - 72,0,N/A,N/A,N/A
+97,Kevin Knox,FG_ASSISTED,Emmanuel Mudiay,2:49,3,Knicks,Magic,69 - 72,0,25,3,Jumper
+98,Nikola Vucevic,FG_UNASSISTED,None,2:27,3,Magic,Knicks,69 - 74,1,6,2,Jumper
+99,Mario Hezonja,FG_UNASSISTED,None,2:16,3,Knicks,Magic,71 - 74,0, ,2,Jumper
+100,Terrence Ross,FG_ASSISTED,Michael Carter-Williams,2:00,3,Magic,Knicks,71 - 76,1,5,2,Jumper
+101,Jonathan Isaac,FOUL_ON_FLOOR,None,1:51,3,Magic,Knicks,71 - 76,1,N/A,N/A,N/A
+102,Team,Unknown,None,1:51,3,Knicks,Magic,71 - 76,0,N/A,N/A,N/A
+103,Aaron Gordon,SUBSTITUTION,Isaac Jonathan,1:51,3,Magic,Knicks,71 - 76,1,N/A,N/A,N/A
+104,Khem Birch,SUBSTITUTION,Vucevic Nikola,1:51,3,Magic,Knicks,71 - 76,1,N/A,N/A,N/A
+105,Emmanuel Mudiay,FT_MISS,None,1:51,3,Knicks,Magic,71 - 76,0,N/A,1,N/A
+106,Team,OFFENSIVE_REBOUND,None,1:51,3,Knicks,Magic,71 - 76,0,N/A,N/A,N/A
+107,Emmanuel Mudiay,FT,None,1:51,3,Knicks,Magic,72 - 76,0,N/A,1,N/A
+108,Terrence Ross,FG_MISS,None,1:36,3,Magic,Knicks,72 - 76,1,27,3,Jumper
+109,Mario Hezonja,DEFENSIVE_REBOUND,None,1:33,3,Knicks,Magic,72 - 76,0,N/A,N/A,N/A
+110,Mario Hezonja,FG_MISS,None,1:23,3,Knicks,Magic,72 - 76,0,0,2,Layup
+111,Luke Kornet,OFFENSIVE_REBOUND,None,1:23,3,Knicks,Magic,72 - 76,0,N/A,N/A,N/A
+112,Khem Birch,FOUL_ON_FLOOR,None,1:23,3,Magic,Knicks,72 - 76,1,N/A,N/A,N/A
+113,Luke Kornet,FT,None,1:23,3,Knicks,Magic,73 - 76,0,N/A,1,N/A
+114,Luke Kornet,FT,None,1:23,3,Knicks,Magic,74 - 76,0,N/A,1,N/A
+115,Terrence Ross,FG_UNASSISTED,None,1:05,3,Magic,Knicks,74 - 79,1,27,3,Jumper
+116,Luke Kornet,FG_MISS,None,45.5,3,Knicks,Magic,74 - 79,0,29,3,Jumper
+117,Terrence Ross,DEFENSIVE_REBOUND,None,42.4,3,Magic,Knicks,74 - 79,1,N/A,N/A,N/A
+118,Terrence Ross,FG_UNASSISTED,None,36.5,3,Magic,Knicks,74 - 82,1,26,3,Jumper
+119,Emmanuel Mudiay,TURNOVER,Terrence Ross,24.6,3,Knicks,Magic,74 - 82,0,N/A,N/A,N/A
+120,Terrence Ross,FG_UNASSISTED,None,2.0,3,Magic,Knicks,74 - 85,1,28,3,Jumper
+121,End of,Unknown,None,0.0,3,Magic,Knicks,74 - 85,1,N/A,N/A,N/A
+0,Evan Fournier,SUBSTITUTION,Iwundu Wes,12:00,4,Magic,Knicks,74 - 85,1,N/A,N/A,N/A
+1,Damyean Dotson,SUBSTITUTION,Mudiay Emmanuel,12:00,4,Knicks,Magic,74 - 85,0,N/A,N/A,N/A
+2,John Jenkins,SUBSTITUTION,Knox Kevin,12:00,4,Knicks,Magic,74 - 85,0,N/A,N/A,N/A
+3,Khem Birch,FG_ASSISTED,Aaron Gordon,11:45,4,Magic,Knicks,74 - 87,1,0,2,Dunk
+4,Mario Hezonja,FG_UNASSISTED,None,11:33,4,Knicks,Magic,76 - 87,0,0,2,Layup
+5,Terrence Ross,FG_ASSISTED,Aaron Gordon,11:18,4,Magic,Knicks,76 - 89,1, ,2,Jumper
+6,Damyean Dotson,FG_ASSISTED,Mario Hezonja,11:01,4,Knicks,Magic,79 - 89,0,26,3,Jumper
+7,Aaron Gordon,FG_ASSISTED,Terrence Ross,10:40,4,Magic,Knicks,79 - 91,1,0,2,Dunk
+8,Luke Kornet,FG_MISS,None,10:22,4,Knicks,Magic,79 - 91,0,26,3,Jumper
+9,Aaron Gordon,DEFENSIVE_REBOUND,None,10:18,4,Magic,Knicks,79 - 91,1,N/A,N/A,N/A
+10,Terrence Ross,FG_MISS,None,10:13,4,Magic,Knicks,79 - 91,1,26,3,Jumper
+11,Team,OFFENSIVE_REBOUND,None,10:11,4,Magic,Knicks,79 - 91,1,N/A,N/A,N/A
+12,Evan Fournier,FG_ASSISTED,Terrence Ross,10:08,4,Magic,Knicks,79 - 93,1,16,2,Jumper
+13,Team,Unknown,None,10:08,4,Knicks,Magic,79 - 93,0,N/A,N/A,N/A
+14,Emmanuel Mudiay,SUBSTITUTION,Garrett Billy,10:08,4,Knicks,Magic,79 - 93,0,N/A,N/A,N/A
+15,Mitchell Robinson,SUBSTITUTION,Kornet Luke,10:08,4,Knicks,Magic,79 - 93,0,N/A,N/A,N/A
+16,Emmanuel Mudiay,TURNOVER,Evan Fournier,9:59,4,Knicks,Magic,79 - 93,0,N/A,N/A,N/A
+17,Evan Fournier,FG_MISS,None,9:54,4,Magic,Knicks,79 - 93,1,27,3,Jumper
+18,Mario Hezonja,DEFENSIVE_REBOUND,None,9:51,4,Knicks,Magic,79 - 93,0,N/A,N/A,N/A
+19,Mario Hezonja,FG_UNASSISTED,None,9:46,4,Knicks,Magic,82 - 93,0,28,3,Jumper
+20,Evan Fournier,FG_MISS,None,9:26,4,Magic,Knicks,82 - 93,1,0,2,Layup
+21,Mario Hezonja,DEFENSIVE_REBOUND,None,9:24,4,Knicks,Magic,82 - 93,0,N/A,N/A,N/A
+22,John Jenkins,FG_MISS,None,9:19,4,Knicks,Magic,82 - 93,0,21,2,Jumper
+23,Aaron Gordon,DEFENSIVE_REBOUND,None,9:16,4,Magic,Knicks,82 - 93,1,N/A,N/A,N/A
+24,Aaron Gordon,TURNOVER,Mitchell Robinson,9:10,4,Magic,Knicks,82 - 93,1,N/A,N/A,N/A
+25,Mitchell Robinson,FG_ASSISTED,Emmanuel Mudiay,9:05,4,Knicks,Magic,84 - 93,0,0,2,Dunk
+26,Team,Unknown,None,9:05,4,Magic,Knicks,82 - 93,1,N/A,N/A,N/A
+27,Terrence Ross,FG_MISS,Mitchell Robinson,8:56,4,Knicks,Magic,84 - 93,1,27,3,Jumper
+28,John Jenkins,DEFENSIVE_REBOUND,None,8:51,4,Knicks,Magic,84 - 93,0,N/A,N/A,N/A
+29,Mario Hezonja,FG_MISS,None,8:43,4,Knicks,Magic,84 - 93,0,26,3,Jumper
+30,Terrence Ross,DEFENSIVE_REBOUND,None,8:39,4,Magic,Knicks,84 - 93,1,N/A,N/A,N/A
+31,Terrence Ross,TURNOVER,Emmanuel Mudiay,8:30,4,Magic,Knicks,84 - 93,1,N/A,N/A,N/A
+32,Khem Birch,FOUL_ON_FLOOR,None,8:20,4,Magic,Knicks,84 - 93,1,N/A,N/A,N/A
+33,Emmanuel Mudiay,FT,None,8:20,4,Knicks,Magic,85 - 93,0,N/A,1,N/A
+34,Emmanuel Mudiay,FT,None,8:20,4,Knicks,Magic,86 - 93,0,N/A,1,N/A
+35,Aaron Gordon,FG_ASSISTED,Michael Carter-Williams,8:05,4,Magic,Knicks,86 - 96,1,27,3,Jumper
+36,Mario Hezonja,FG_UNASSISTED,None,7:47,4,Knicks,Magic,88 - 96,0, ,2,Jumper
+37,Evan Fournier,FG_MISS,None,7:26,4,Magic,Knicks,88 - 96,1,21,2,Jumper
+38,Khem Birch,OFFENSIVE_REBOUND,None,7:25,4,Magic,Knicks,88 - 96,1,N/A,N/A,N/A
+39,Khem Birch,FG_UNASSISTED,None,7:25,4,Magic,Knicks,88 - 98,1, ,2,Jumper
+40,Mitchell Robinson,FOUL_ON_FLOOR,None,7:25,4,Knicks,Magic,88 - 98,0,N/A,N/A,N/A
+41,Kevin Knox,SUBSTITUTION,Jenkins John,7:25,4,Knicks,Magic,88 - 98,0,N/A,N/A,N/A
+42,Khem Birch,FT,None,7:25,4,Magic,Knicks,88 - 99,1,N/A,1,N/A
+43,Mario Hezonja,TURNOVER,Michael Carter-Williams,7:14,4,Knicks,Magic,88 - 99,0,N/A,N/A,N/A
+44,Terrence Ross,FG_MISS,None,7:08,4,Magic,Knicks,88 - 99,1,22,3,Jumper
+45,Aaron Gordon,OFFENSIVE_REBOUND,None,7:02,4,Magic,Knicks,88 - 99,1,N/A,N/A,N/A
+46,Aaron Gordon's,FG_MISS,Mitchell Robinson,7:02,4,Knicks,Magic,88 - 99,1,0,2,Dunk
+47,Mario Hezonja,DEFENSIVE_REBOUND,None,7:00,4,Knicks,Magic,88 - 99,0,N/A,N/A,N/A
+48,Emmanuel Mudiay's,FG_MISS,Khem Birch,6:59,4,Magic,Knicks,88 - 99,0, ,2,Jumper
+49,Michael Carter-Williams,DEFENSIVE_REBOUND,None,6:55,4,Magic,Knicks,88 - 99,1,N/A,N/A,N/A
+50,Evan Fournier,TURNOVER,None,6:53,4,Magic,Knicks,88 - 99,1,N/A,N/A,N/A
+51,Nikola Vucevic,SUBSTITUTION,Birch Khem,6:53,4,Magic,Knicks,88 - 99,1,N/A,N/A,N/A
+52,Kevin Knox,FG_MISS,None,6:41,4,Knicks,Magic,88 - 99,0, ,2,Jumper
+53,Michael Carter-Williams,DEFENSIVE_REBOUND,None,6:38,4,Magic,Knicks,88 - 99,1,N/A,N/A,N/A
+54,Terrence Ross,FG_ASSISTED,Michael Carter-Williams,6:32,4,Magic,Knicks,88 - 101,1,0,2,Layup
+55,Team,Unknown,None,6:31,4,Knicks,Magic,88 - 101,0,N/A,N/A,N/A
+56,D.J. Augustin,SUBSTITUTION,Fournier Evan,6:31,4,Magic,Knicks,88 - 101,1,N/A,N/A,N/A
+57,Mario Hezonja,FG_UNASSISTED,None,6:19,4,Knicks,Magic,90 - 101,0,14,2,Jumper
+58,Nikola Vucevic,FG_MISS,None,6:02,4,Magic,Knicks,90 - 101,1,18,2,Jumper
+59,Kevin Knox,DEFENSIVE_REBOUND,None,6:00,4,Knicks,Magic,90 - 101,0,N/A,N/A,N/A
+60,Nikola Vucevic,FOUL_TECHNICAL,None,5:52,4,Magic,Knicks,90 - 101,1,N/A,N/A,N/A
+61,Mario Hezonja,FT,None,5:52,4,Knicks,Magic,91 - 101,0,N/A,1,N/A
+62,Mitchell Robinson,FG_ASSISTED,Mario Hezonja,5:47,4,Knicks,Magic,93 - 101,0,0,2,Dunk
+63,Aaron Gordon,FG_ASSISTED,D.J. Augustin,5:33,4,Magic,Knicks,93 - 104,1,27,3,Jumper
+64,Mario Hezonja,FG_MISS,None,5:20,4,Knicks,Magic,93 - 104,0,1,3,Jumper
+65,Kevin Knox,OFFENSIVE_REBOUND,None,5:15,4,Knicks,Magic,93 - 104,0,N/A,N/A,N/A
+66,Kevin Knox,FG_UNASSISTED,None,5:13,4,Knicks,Magic,96 - 104,0,23,3,Jumper
+67,Nikola Vucevic,FG_MISS,None,5:01,4,Magic,Knicks,96 - 104,1,0,2,Layup
+68,Michael Carter-Williams,OFFENSIVE_REBOUND,None,5:00,4,Magic,Knicks,96 - 104,1,N/A,N/A,N/A
+69,Damyean Dotson,FOUL_ON_FLOOR,None,5:00,4,Knicks,Magic,96 - 104,0,N/A,N/A,N/A
+70,Michael Carter-Williams,FT,None,5:00,4,Magic,Knicks,96 - 105,1,N/A,1,N/A
+71,Michael Carter-Williams,FT,None,5:00,4,Magic,Knicks,96 - 106,1,N/A,1,N/A
+72,Damyean Dotson,FG_MISS,None,4:51,4,Knicks,Magic,96 - 106,0,27,3,Jumper
+73,Nikola Vucevic,DEFENSIVE_REBOUND,None,4:48,4,Magic,Knicks,96 - 106,1,N/A,N/A,N/A
+74,Mario Hezonja,FOUL_ON_FLOOR,None,4:39,4,Knicks,Magic,96 - 106,0,N/A,N/A,N/A
+75,Evan Fournier,SUBSTITUTION,Ross Terrence,4:39,4,Magic,Knicks,96 - 106,1,N/A,N/A,N/A
+76,Nikola Vucevic,FG_ASSISTED,D.J. Augustin,4:32,4,Magic,Knicks,96 - 108,1,1,2,Jumper
+77,Damyean Dotson,FG_MISS,None,4:10,4,Knicks,Magic,96 - 108,0,28,3,Jumper
+78,Nikola Vucevic,DEFENSIVE_REBOUND,None,4:06,4,Magic,Knicks,96 - 108,1,N/A,N/A,N/A
+79,Damyean Dotson,FOUL_ON_FLOOR,None,3:45,4,Knicks,Magic,96 - 108,0,N/A,N/A,N/A
+80,Nikola Vucevic,FT_MISS,None,3:45,4,Magic,Knicks,96 - 108,1,N/A,1,N/A
+81,Team,OFFENSIVE_REBOUND,None,3:45,4,Magic,Knicks,96 - 108,1,N/A,N/A,N/A
+82,Nikola Vucevic,FT,None,3:45,4,Magic,Knicks,96 - 109,1,N/A,1,N/A
+83,Mario Hezonja,FOUL_ON_FLOOR,None,3:34,4,Knicks,Magic,96 - 109,0,N/A,N/A,N/A
+84,Mario Hezonja,TURNOVER,None,3:34,4,Knicks,Magic,96 - 109,0,N/A,N/A,N/A
+85,John Jenkins,SUBSTITUTION,Hezonja Mario,3:34,4,Knicks,Magic,96 - 109,0,N/A,N/A,N/A
+86,Team,Unknown,None,3:31,4,Magic,Knicks,96 - 109,1,N/A,N/A,N/A
+87,Damyean Dotson,FOUL_ON_FLOOR,None,3:20,4,Knicks,Magic,96 - 109,0,N/A,N/A,N/A
+88,Nikola Vucevic,FT,None,3:20,4,Magic,Knicks,96 - 110,1,N/A,1,N/A
+89,Nikola Vucevic,FT,None,3:20,4,Magic,Knicks,96 - 111,1,N/A,1,N/A
+90,Nikola Vucevic,FOUL_ON_FLOOR,None,3:10,4,Magic,Knicks,96 - 111,1,N/A,N/A,N/A
+91,Kevin Knox,FT,None,3:10,4,Knicks,Magic,97 - 111,0,N/A,1,N/A
+92,Kevin Knox,FT,None,3:10,4,Knicks,Magic,98 - 111,0,N/A,1,N/A
+93,Damyean Dotson,FOUL_ON_FLOOR,None,2:51,4,Knicks,Magic,98 - 111,0,N/A,N/A,N/A
+94,Evan Fournier,FT,None,2:51,4,Magic,Knicks,98 - 112,1,N/A,1,N/A
+95,Evan Fournier,FT_MISS,None,2:51,4,Magic,Knicks,98 - 112,1,N/A,1,N/A
+96,Emmanuel Mudiay,DEFENSIVE_REBOUND,None,2:49,4,Knicks,Magic,98 - 112,0,N/A,N/A,N/A
+97,Emmanuel Mudiay,FG_MISS,None,2:39,4,Knicks,Magic,98 - 112,0,27,3,Jumper
+98,Team,DEFENSIVE_REBOUND,None,2:38,4,Magic,Knicks,98 - 112,1,N/A,N/A,N/A
+99,Michael Carter-Williams,FG_MISS,None,2:21,4,Magic,Knicks,98 - 112,1,1,2,Jumper
+100,Nikola Vucevic,OFFENSIVE_REBOUND,None,2:17,4,Magic,Knicks,98 - 112,1,N/A,N/A,N/A
+101,Nikola Vucevic,FG_MISS,None,2:14,4,Magic,Knicks,98 - 112,1,10,2,Jumper
+102,Emmanuel Mudiay,DEFENSIVE_REBOUND,None,2:11,4,Knicks,Magic,98 - 112,0,N/A,N/A,N/A
+103,Kevin Knox,FG_MISS,None,2:07,4,Knicks,Magic,98 - 112,0,28,3,Jumper
+104,Aaron Gordon,DEFENSIVE_REBOUND,None,2:07,4,Magic,Knicks,98 - 112,1,N/A,N/A,N/A
+105,Nikola Vucevic,TURNOVER,None,1:47,4,Magic,Knicks,98 - 112,1,N/A,N/A,N/A
+106,Billy Garrett,SUBSTITUTION,Mudiay Emmanuel,1:47,4,Knicks,Magic,98 - 112,0,N/A,N/A,N/A
+107,Michael Carter-Williams,FOUL_ON_FLOOR,None,1:40,4,Magic,Knicks,98 - 112,1,N/A,N/A,N/A
+108,Luke Kornet,SUBSTITUTION,Knox Kevin,1:40,4,Knicks,Magic,98 - 112,0,N/A,N/A,N/A
+109,Henry Ellenson,SUBSTITUTION,Robinson Mitchell,1:40,4,Knicks,Magic,98 - 112,0,N/A,N/A,N/A
+110,Luke Kornet,FG_ASSISTED,Billy Garrett,1:29,4,Knicks,Magic,100 - 112,0,0,2,Dunk
+111,Nikola Vucevic,FG_MISS,None,1:16,4,Magic,Knicks,100 - 112,1,0,2,Layup
+112,Luke Kornet,DEFENSIVE_REBOUND,None,1:14,4,Knicks,Magic,100 - 112,0,N/A,N/A,N/A
+113,Billy Garrett,FG_MISS,None,1:06,4,Knicks,Magic,100 - 112,0,25,3,Jumper
+114,Evan Fournier,DEFENSIVE_REBOUND,None,1:02,4,Magic,Knicks,100 - 112,1,N/A,N/A,N/A
+115,D.J. Augustin,FG_MISS,None,42.7,4,Magic,Knicks,100 - 112,1,26,3,Jumper
+116,Nikola Vucevic,OFFENSIVE_REBOUND,None,39.6,4,Magic,Knicks,100 - 112,1,N/A,N/A,N/A
+117,Nikola Vucevic,FG_UNASSISTED,None,39.5,4,Magic,Knicks,100 - 114,1,1,2,Jumper
+118,Billy Garrett,FG_MISS,None,24.4,4,Knicks,Magic,100 - 114,0,1,2,Jumper
+119,D.J. Augustin,DEFENSIVE_REBOUND,None,20.6,4,Magic,Knicks,100 - 114,1,N/A,N/A,N/A
+120,End of,Unknown,None,0.0,4,Magic,Knicks,100 - 114,1,N/A,N/A,N/A
+121,End of,Unknown,None,0.0,4,Magic,Knicks,100 - 114,1,N/A,N/A,N/A

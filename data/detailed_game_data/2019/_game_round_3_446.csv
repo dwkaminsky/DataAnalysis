@@ -1,0 +1,460 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Ray Spalding,JUMP_BALL,None,12:00,1,Rockets,Suns,0 - 0,1,N/A,N/A,N/A
+1,Eric Gordon,FG_MISS,None,11:47,1,Rockets,Suns,0 - 0,1,26,3,Jumper
+2,Clint Capela,OFFENSIVE_REBOUND,None,11:44,1,Rockets,Suns,0 - 0,1,N/A,N/A,N/A
+3,Clint Capela,FG_UNASSISTED,None,11:42,1,Rockets,Suns,0 - 2,1,0,2,Dunk
+4,Josh Jackson,FG_UNASSISTED,None,11:19,1,Suns,Rockets,2 - 2,0,15,2,Jumper
+5,PJ Tucker,FG_ASSISTED,Clint Capela,11:06,1,Rockets,Suns,2 - 5,1,23,3,Jumper
+6,Elie Okobo,TURNOVER,James Harden,10:52,1,Suns,Rockets,2 - 5,0,N/A,N/A,N/A
+7,Chris Paul,FG_UNASSISTED,None,10:34,1,Rockets,Suns,2 - 8,1,26,3,Jumper
+8,Elie Okobo,FG_MISS,None,10:12,1,Suns,Rockets,2 - 8,0,23,3,Jumper
+9,James Harden,DEFENSIVE_REBOUND,None,10:10,1,Rockets,Suns,2 - 8,1,N/A,N/A,N/A
+10,James Harden,TURNOVER,Dragan Bender,10:04,1,Rockets,Suns,2 - 8,1,N/A,N/A,N/A
+11,Mikal Bridges,FG_ASSISTED,Elie Okobo,9:59,1,Suns,Rockets,5 - 8,0,23,3,Jumper
+12,Eric Gordon,FG_ASSISTED,Chris Paul,9:37,1,Rockets,Suns,5 - 11,1,28,3,Jumper
+13,Mikal Bridges,FG_MISS,None,9:23,1,Suns,Rockets,5 - 11,0,27,3,Jumper
+14,Clint Capela,DEFENSIVE_REBOUND,None,9:20,1,Rockets,Suns,5 - 11,1,N/A,N/A,N/A
+15,PJ Tucker,FG_MISS,None,9:12,1,Rockets,Suns,5 - 11,1,23,3,Jumper
+16,Dragan Bender,DEFENSIVE_REBOUND,None,9:10,1,Suns,Rockets,5 - 11,0,N/A,N/A,N/A
+17,Ray Spalding,FG_MISS,None,8:59,1,Suns,Rockets,5 - 11,0,0,2,Layup
+18,Clint Capela,DEFENSIVE_REBOUND,None,8:57,1,Rockets,Suns,5 - 11,1,N/A,N/A,N/A
+19,Elie Okobo,FOUL_ON_FLOOR,None,8:53,1,Suns,Rockets,5 - 11,0,N/A,N/A,N/A
+20,PJ Tucker,FG_MISS,None,8:47,1,Rockets,Suns,5 - 11,1,25,3,Jumper
+21,Josh Jackson,DEFENSIVE_REBOUND,None,8:45,1,Suns,Rockets,5 - 11,0,N/A,N/A,N/A
+22,Ray Spalding,TURNOVER,Eric Gordon,8:37,1,Suns,Rockets,5 - 11,0,N/A,N/A,N/A
+23,James Harden,FG_MISS,None,8:27,1,Rockets,Suns,5 - 11,1,0,2,Layup
+24,Josh Jackson,DEFENSIVE_REBOUND,None,8:22,1,Suns,Rockets,5 - 11,0,N/A,N/A,N/A
+25,Josh Jackson,FG_MISS,None,8:20,1,Suns,Rockets,5 - 11,0, ,2,Jumper
+26,Josh Jackson,OFFENSIVE_REBOUND,None,8:13,1,Suns,Rockets,5 - 11,0,N/A,N/A,N/A
+27,Josh Jackson,FG_UNASSISTED,None,8:13,1,Suns,Rockets,7 - 11,0, ,2,Jumper
+28,Ray Spalding,FOUL_ON_FLOOR,None,8:12,1,Suns,Rockets,7 - 11,0,N/A,N/A,N/A
+29,Clint Capela,FT,None,8:12,1,Rockets,Suns,7 - 12,1,N/A,1,N/A
+30,Clint Capela,FT,None,8:12,1,Rockets,Suns,7 - 13,1,N/A,1,N/A
+31,Mikal Bridges,FG_ASSISTED,Josh Jackson,8:00,1,Suns,Rockets,9 - 13,0,0,2,Layup
+32,PJ Tucker,FG_MISS,None,7:39,1,Rockets,Suns,9 - 13,1,0,2,Layup
+33,Clint Capela,OFFENSIVE_REBOUND,None,7:33,1,Rockets,Suns,9 - 13,1,N/A,N/A,N/A
+34,Clint Capela,FG_UNASSISTED,None,7:33,1,Rockets,Suns,9 - 15,1,0,2,Dunk
+35,Josh Jackson,FG_MISS,None,7:18,1,Suns,Rockets,9 - 15,0,25,2,Jumper
+36,James Harden,DEFENSIVE_REBOUND,None,7:16,1,Rockets,Suns,9 - 15,1,N/A,N/A,N/A
+37,Mikal Bridges,FOUL_ON_FLOOR,None,7:13,1,Suns,Rockets,9 - 15,0,N/A,N/A,N/A
+38,PJ Tucker,FG_MISS,None,7:06,1,Rockets,Suns,9 - 15,1,25,3,Jumper
+39,Clint Capela,OFFENSIVE_REBOUND,None,7:02,1,Rockets,Suns,9 - 15,1,N/A,N/A,N/A
+40,Clint Capela,FG_MISS,None,7:00,1,Rockets,Suns,9 - 15,1,5,2,Jumper
+41,PJ Tucker,OFFENSIVE_REBOUND,None,6:58,1,Rockets,Suns,9 - 15,1,N/A,N/A,N/A
+42,Chris Paul,FG_ASSISTED,PJ Tucker,6:56,1,Rockets,Suns,9 - 18,1,26,3,Jumper
+43,Team,Unknown,None,6:56,1,Suns,Rockets,9 - 18,0,N/A,N/A,N/A
+44,Danuel House,SUBSTITUTION,Paul Chris,6:56,1,Rockets,Suns,9 - 18,1,N/A,N/A,N/A
+45,Troy Daniels,SUBSTITUTION,Spalding Ray,6:56,1,Suns,Rockets,9 - 18,0,N/A,N/A,N/A
+46,Josh Jackson,FG_MISS,None,6:51,1,Suns,Rockets,9 - 18,0,23,3,Jumper
+47,Danuel House,DEFENSIVE_REBOUND,None,6:50,1,Rockets,Suns,9 - 18,1,N/A,N/A,N/A
+48,Eric Gordon,FG_ASSISTED,James Harden,6:44,1,Rockets,Suns,9 - 21,1,25,3,Jumper
+49,Dragan Bender,FG_ASSISTED,Josh Jackson,6:22,1,Suns,Rockets,11 - 21,0,4,2,Jumper
+50,Clint Capela,FG_ASSISTED,PJ Tucker,6:11,1,Rockets,Suns,11 - 23,1,2,2,Jumper
+51,Dragan Bender,FG_MISS,None,5:52,1,Suns,Rockets,11 - 23,0,11,2,Jumper
+52,Danuel House,DEFENSIVE_REBOUND,None,5:48,1,Rockets,Suns,11 - 23,1,N/A,N/A,N/A
+53,Eric Gordon,FG_MISS,None,5:36,1,Rockets,Suns,11 - 23,1,25,3,Jumper
+54,Dragan Bender,DEFENSIVE_REBOUND,None,5:34,1,Suns,Rockets,11 - 23,0,N/A,N/A,N/A
+55,Troy Daniels,FG_MISS,None,5:22,1,Suns,Rockets,11 - 23,0,22,2,Jumper
+56,James Harden,DEFENSIVE_REBOUND,None,5:21,1,Rockets,Suns,11 - 23,1,N/A,N/A,N/A
+57,Clint Capela,FG_ASSISTED,James Harden,5:15,1,Rockets,Suns,11 - 25,1,0,2,Layup
+58,Troy Daniels,FG_MISS,None,4:59,1,Suns,Rockets,11 - 25,0,26,3,Jumper
+59,Clint Capela,DEFENSIVE_REBOUND,None,4:55,1,Rockets,Suns,11 - 25,1,N/A,N/A,N/A
+60,James Harden,TURNOVER,Troy Daniels,4:44,1,Rockets,Suns,11 - 25,1,N/A,N/A,N/A
+61,PJ Tucker,FOUL_ON_FLOOR,None,4:42,1,Rockets,Suns,11 - 25,1,N/A,N/A,N/A
+62,Iman Shumpert,SUBSTITUTION,Gordon Eric,4:42,1,Rockets,Suns,11 - 25,1,N/A,N/A,N/A
+63,Austin Rivers,SUBSTITUTION,Tucker PJ,4:42,1,Rockets,Suns,11 - 25,1,N/A,N/A,N/A
+64,Dragan Bender,FG_MISS,None,4:30,1,Suns,Rockets,11 - 25,0,26,3,Jumper
+65,Danuel House,DEFENSIVE_REBOUND,None,4:27,1,Rockets,Suns,11 - 25,1,N/A,N/A,N/A
+66,Iman Shumpert,FG_MISS,None,4:15,1,Rockets,Suns,11 - 25,1,25,3,Jumper
+67,Elie Okobo,DEFENSIVE_REBOUND,None,4:13,1,Suns,Rockets,11 - 25,0,N/A,N/A,N/A
+68,Elie Okobo,FG_MISS,None,4:07,1,Suns,Rockets,11 - 25,0,0,2,Layup
+69,Dragan Bender,OFFENSIVE_REBOUND,None,4:06,1,Suns,Rockets,11 - 25,0,N/A,N/A,N/A
+70,Dragan Bender,FG_UNASSISTED,None,4:06,1,Suns,Rockets,13 - 25,0, ,2,Jumper
+71,James Harden,FG_UNASSISTED,None,3:54,1,Rockets,Suns,13 - 27,1, ,2,Jumper
+72,James Harden,FOUL_ON_FLOOR,None,3:40,1,Rockets,Suns,13 - 27,1,N/A,N/A,N/A
+73,Jamal Crawford,SUBSTITUTION,Bridges Mikal,3:40,1,Suns,Rockets,13 - 27,0,N/A,N/A,N/A
+74,Dragan Bender,FG_MISS,None,3:25,1,Suns,Rockets,13 - 27,0,0,2,Layup
+75,Clint Capela,DEFENSIVE_REBOUND,None,3:24,1,Rockets,Suns,13 - 27,1,N/A,N/A,N/A
+76,James Harden,FOUL_ON_FLOOR,None,3:18,1,Rockets,Suns,13 - 27,1,N/A,N/A,N/A
+77,James Harden,TURNOVER,None,3:18,1,Rockets,Suns,13 - 27,1,N/A,N/A,N/A
+78,Jamal Crawford,FG_UNASSISTED,None,3:02,1,Suns,Rockets,15 - 27,0,3,2,Jumper
+79,Team,Unknown,None,2:53,1,Rockets,Suns,15 - 27,1,N/A,N/A,N/A
+80,Nene Hilario,SUBSTITUTION,Harden James,2:53,1,Rockets,Suns,15 - 27,1,N/A,N/A,N/A
+81,Chris Paul,SUBSTITUTION,Capela Clint,2:53,1,Rockets,Suns,15 - 27,1,N/A,N/A,N/A
+82,Danuel House,FG_MISS,None,2:39,1,Rockets,Suns,15 - 27,1,26,2,Jumper
+83,Troy Daniels,DEFENSIVE_REBOUND,None,2:37,1,Suns,Rockets,15 - 27,0,N/A,N/A,N/A
+84,Troy Daniels,FG_MISS,None,2:20,1,Suns,Rockets,15 - 27,0,16,2,Jumper
+85,Danuel House,DEFENSIVE_REBOUND,None,2:19,1,Rockets,Suns,15 - 27,1,N/A,N/A,N/A
+86,Iman Shumpert,FG_MISS,None,2:12,1,Rockets,Suns,15 - 27,1,21,2,Jumper
+87,Elie Okobo,DEFENSIVE_REBOUND,None,2:11,1,Suns,Rockets,15 - 27,0,N/A,N/A,N/A
+88,Chris Paul,FOUL_ON_FLOOR,None,2:05,1,Rockets,Suns,15 - 27,1,N/A,N/A,N/A
+89,Dragan Bender,FT,None,2:05,1,Suns,Rockets,16 - 27,0,N/A,1,N/A
+90,De'Anthony Melton,SUBSTITUTION,Okobo Elie,2:05,1,Suns,Rockets,16 - 27,0,N/A,N/A,N/A
+91,Mikal Bridges,SUBSTITUTION,Jackson Josh,2:05,1,Suns,Rockets,16 - 27,0,N/A,N/A,N/A
+92,Dragan Bender,FT,None,2:05,1,Suns,Rockets,17 - 27,0,N/A,1,N/A
+93,Nene Hilario,FG_MISS,None,1:47,1,Rockets,Suns,17 - 27,1, ,2,Jumper
+94,Jamal Crawford,DEFENSIVE_REBOUND,None,1:45,1,Suns,Rockets,17 - 27,0,N/A,N/A,N/A
+95,Nene Hilario,FOUL_ON_FLOOR,None,1:35,1,Rockets,Suns,17 - 27,1,N/A,N/A,N/A
+96,Jamal Crawford,FT,None,1:35,1,Suns,Rockets,18 - 27,0,N/A,1,N/A
+97,Jamal Crawford,FT,None,1:35,1,Suns,Rockets,19 - 27,0,N/A,1,N/A
+98,Jamal Crawford,FT,None,1:35,1,Suns,Rockets,20 - 27,0,N/A,1,N/A
+99,Austin Rivers,FG_ASSISTED,Chris Paul,1:22,1,Rockets,Suns,20 - 29,1,9,2,Jumper
+100,Jamal Crawford,TURNOVER,Chris Paul,1:09,1,Suns,Rockets,20 - 29,0,N/A,N/A,N/A
+101,Danuel House,FG_MISS,None,1:01,1,Rockets,Suns,20 - 29,1,0,2,Layup
+102,Dragan Bender,DEFENSIVE_REBOUND,None,58.8,1,Suns,Rockets,20 - 29,0,N/A,N/A,N/A
+103,Dragan Bender's,FG_MISS,Nene Hilario,49.0,1,Rockets,Suns,20 - 29,0,0,2,Layup
+104,Dragan Bender,OFFENSIVE_REBOUND,None,48.0,1,Suns,Rockets,20 - 29,0,N/A,N/A,N/A
+105,Nene Hilario,FOUL_ON_FLOOR,None,48.0,1,Rockets,Suns,20 - 29,1,N/A,N/A,N/A
+106,Dragan Bender,FT_MISS,None,48.0,1,Suns,Rockets,20 - 29,0,N/A,1,N/A
+107,Team,OFFENSIVE_REBOUND,None,48.0,1,Suns,Rockets,20 - 29,0,N/A,N/A,N/A
+108,Dragan Bender,FT,None,48.0,1,Suns,Rockets,21 - 29,0,N/A,1,N/A
+109,Austin Rivers,FG_ASSISTED,Chris Paul,39.3,1,Rockets,Suns,21 - 32,1,26,3,Jumper
+110,De'Anthony Melton,FG_ASSISTED,Jamal Crawford,32.8,1,Suns,Rockets,24 - 32,0,23,3,Jumper
+111,Austin Rivers,FG_MISS,None,20.4,1,Rockets,Suns,24 - 32,1,0,2,Layup
+112,Nene Hilario,OFFENSIVE_REBOUND,None,19.8,1,Rockets,Suns,24 - 32,1,N/A,N/A,N/A
+113,Nene Hilario,FG_UNASSISTED,None,19.8,1,Rockets,Suns,24 - 34,1,0,2,Dunk
+114,Dragan Bender,FG_MISS,None,0.6,1,Suns,Rockets,24 - 34,0,0,2,Layup
+115,Team,OFFENSIVE_REBOUND,None,0.6,1,Suns,Rockets,24 - 34,0,N/A,N/A,N/A
+116,End of,Unknown,None,0.0,1,Rockets,Suns,24 - 34,1,N/A,N/A,N/A
+0,Eric Gordon,SUBSTITUTION,Shumpert Iman,12:00,2,Rockets,Suns,24 - 34,1,N/A,N/A,N/A
+1,Ray Spalding,SUBSTITUTION,Bender Dragan,12:00,2,Suns,Rockets,24 - 34,0,N/A,N/A,N/A
+2,Jamal Crawford,FG_MISS,None,11:44,2,Suns,Rockets,24 - 34,0,20,2,Jumper
+3,Chris Paul,DEFENSIVE_REBOUND,None,11:42,2,Rockets,Suns,24 - 34,1,N/A,N/A,N/A
+4,Chris Paul,FG_MISS,None,11:26,2,Rockets,Suns,24 - 34,1,24,2,Jumper
+5,Mikal Bridges,DEFENSIVE_REBOUND,None,11:25,2,Suns,Rockets,24 - 34,0,N/A,N/A,N/A
+6,Mikal Bridges,FG_MISS,None,11:18,2,Suns,Rockets,24 - 34,0,22,2,Jumper
+7,Danuel House,DEFENSIVE_REBOUND,None,11:16,2,Rockets,Suns,24 - 34,1,N/A,N/A,N/A
+8,Nene Hilario,FG_ASSISTED,Austin Rivers,11:09,2,Rockets,Suns,24 - 36,1,17,2,Jumper
+9,Jamal Crawford,FG_ASSISTED,De'Anthony Melton,10:44,2,Suns,Rockets,27 - 36,0,25,3,Jumper
+10,Danuel House,FG_ASSISTED,Nene Hilario,10:27,2,Rockets,Suns,27 - 39,1,23,3,Jumper
+11,Ray Spalding,FG_ASSISTED,Jamal Crawford,10:09,2,Suns,Rockets,29 - 39,0,12,2,Jumper
+12,Eric Gordon,FG_MISS,None,9:51,2,Rockets,Suns,29 - 39,1,26,3,Jumper
+13,Mikal Bridges,DEFENSIVE_REBOUND,None,9:49,2,Suns,Rockets,29 - 39,0,N/A,N/A,N/A
+14,Jamal Crawford,FG_MISS,None,9:43,2,Suns,Rockets,29 - 39,0, ,3,Jumper
+15,Danuel House,DEFENSIVE_REBOUND,None,9:39,2,Rockets,Suns,29 - 39,1,N/A,N/A,N/A
+16,Chris Paul,TURNOVER,Ray Spalding,9:32,2,Rockets,Suns,29 - 39,1,N/A,N/A,N/A
+17,De'Anthony Melton,TURNOVER,Chris Paul,9:30,2,Suns,Rockets,29 - 39,0,N/A,N/A,N/A
+18,Chris Paul,TURNOVER,Jamal Crawford,9:28,2,Rockets,Suns,29 - 39,1,N/A,N/A,N/A
+19,De'Anthony Melton's,FG_MISS,Danuel House,9:24,2,Rockets,Suns,29 - 39,0,0,2,Layup
+20,Team,OFFENSIVE_REBOUND,None,9:22,2,Suns,Rockets,29 - 39,0,N/A,N/A,N/A
+21,Josh Jackson,SUBSTITUTION,Daniels Troy,9:22,2,Suns,Rockets,29 - 39,0,N/A,N/A,N/A
+22,Mikal Bridges,FG_ASSISTED,De'Anthony Melton,9:17,2,Suns,Rockets,31 - 39,0,0,2,Layup
+23,Eric Gordon,FG_UNASSISTED,None,9:08,2,Rockets,Suns,31 - 41,1,0,2,Layup
+24,Josh Jackson,FG_UNASSISTED,None,8:48,2,Suns,Rockets,33 - 41,0,0,2,Layup
+25,Ray Spalding,FOUL_ON_FLOOR,None,8:42,2,Suns,Rockets,33 - 41,0,N/A,N/A,N/A
+26,Nene Hilario,FT,None,8:42,2,Rockets,Suns,33 - 42,1,N/A,1,N/A
+27,Nene Hilario,FT,None,8:42,2,Rockets,Suns,33 - 43,1,N/A,1,N/A
+28,Josh Jackson,FG_MISS,None,8:21,2,Suns,Rockets,33 - 43,0,0,2,Layup
+29,Nene Hilario,DEFENSIVE_REBOUND,None,8:18,2,Rockets,Suns,33 - 43,1,N/A,N/A,N/A
+30,Chris Paul,FG_MISS,None,8:11,2,Rockets,Suns,33 - 43,1,12,2,Jumper
+31,Josh Jackson,DEFENSIVE_REBOUND,None,8:08,2,Suns,Rockets,33 - 43,0,N/A,N/A,N/A
+32,De'Anthony Melton,TURNOVER,Danuel House,8:03,2,Suns,Rockets,33 - 43,0,N/A,N/A,N/A
+33,Eric Gordon,FG_ASSISTED,Danuel House,7:53,2,Rockets,Suns,33 - 46,1,26,3,Jumper
+34,Team,Unknown,None,7:53,2,Suns,Rockets,33 - 46,0,N/A,N/A,N/A
+35,James Harden,SUBSTITUTION,Paul Chris,7:53,2,Rockets,Suns,33 - 46,1,N/A,N/A,N/A
+36,Clint Capela,SUBSTITUTION,House Danuel,7:53,2,Rockets,Suns,33 - 46,1,N/A,N/A,N/A
+37,PJ Tucker,SUBSTITUTION,Rivers Austin,7:53,2,Rockets,Suns,33 - 46,1,N/A,N/A,N/A
+38,Iman Shumpert,SUBSTITUTION,Hilario Nene,7:53,2,Rockets,Suns,33 - 46,1,N/A,N/A,N/A
+39,Dragan Bender,SUBSTITUTION,Spalding Ray,7:53,2,Suns,Rockets,33 - 46,0,N/A,N/A,N/A
+40,De'Anthony Melton,FG_MISS,None,7:42,2,Suns,Rockets,33 - 46,0,23,3,Jumper
+41,PJ Tucker,DEFENSIVE_REBOUND,None,7:39,2,Rockets,Suns,33 - 46,1,N/A,N/A,N/A
+42,Clint Capela,FG_ASSISTED,James Harden,7:22,2,Rockets,Suns,33 - 48,1,0,2,Layup
+43,Jamal Crawford,FG_ASSISTED,De'Anthony Melton,7:03,2,Suns,Rockets,35 - 48,0,19,2,Jumper
+44,Eric Gordon,TURNOVER,Josh Jackson,6:41,2,Rockets,Suns,35 - 48,1,N/A,N/A,N/A
+45,De'Anthony Melton,JUMP_BALL,None,6:41,2,Rockets,Suns,35 - 48,1,N/A,N/A,N/A
+46,De'Anthony Melton,TURNOVER,Clint Capela,6:41,2,Suns,Rockets,35 - 48,0,N/A,N/A,N/A
+47,vs. 35,JUMP_BALL,None,6:40,2,Rockets,Suns,35 - 48,1,N/A,N/A,N/A
+48,James Harden,FG_UNASSISTED,None,6:36,2,Rockets,Suns,35 - 50,1,0,2,Layup
+49,Josh Jackson,FOUL_ON_FLOOR,None,6:36,2,Suns,Rockets,35 - 50,0,N/A,N/A,N/A
+50,James Harden,FT_MISS,None,6:36,2,Rockets,Suns,35 - 50,1,N/A,1,N/A
+51,Josh Jackson,DEFENSIVE_REBOUND,None,6:36,2,Suns,Rockets,35 - 50,0,N/A,N/A,N/A
+52,Jamal Crawford,FG_UNASSISTED,None,6:20,2,Suns,Rockets,37 - 50,0, ,2,Jumper
+53,PJ Tucker,FG_MISS,None,6:07,2,Rockets,Suns,37 - 50,1,23,3,Jumper
+54,Clint Capela,OFFENSIVE_REBOUND,None,6:05,2,Rockets,Suns,37 - 50,1,N/A,N/A,N/A
+55,Eric Gordon,FG_ASSISTED,James Harden,6:01,2,Rockets,Suns,37 - 53,1,22,3,Jumper
+56,Jamal Crawford,FG_UNASSISTED,None,5:42,2,Suns,Rockets,39 - 53,0, ,2,Jumper
+57,Dragan Bender,FOUL_ON_FLOOR,None,5:17,2,Suns,Rockets,39 - 53,0,N/A,N/A,N/A
+58,Clint Capela,FT,None,5:17,2,Rockets,Suns,39 - 54,1,N/A,1,N/A
+59,Danuel House,SUBSTITUTION,Gordon Eric,5:17,2,Rockets,Suns,39 - 54,1,N/A,N/A,N/A
+60,Troy Daniels,SUBSTITUTION,Melton De'Anthony,5:17,2,Suns,Rockets,39 - 54,0,N/A,N/A,N/A
+61,Clint Capela,FT_MISS,None,5:17,2,Rockets,Suns,39 - 54,1,N/A,1,N/A
+62,Josh Jackson,DEFENSIVE_REBOUND,None,5:17,2,Suns,Rockets,39 - 54,0,N/A,N/A,N/A
+63,Jamal Crawford,FG_MISS,None,4:58,2,Suns,Rockets,39 - 54,0, ,3,Jumper
+64,James Harden,DEFENSIVE_REBOUND,None,4:55,2,Rockets,Suns,39 - 54,1,N/A,N/A,N/A
+65,Danuel House,FG_ASSISTED,James Harden,4:44,2,Rockets,Suns,39 - 56,1,0,2,Dunk
+66,Dragan Bender,FG_ASSISTED,Jamal Crawford,4:25,2,Suns,Rockets,41 - 56,0,2,2,Jumper
+67,Dragan Bender,FOUL_ON_FLOOR,None,4:08,2,Suns,Rockets,41 - 56,0,N/A,N/A,N/A
+68,James Harden,FT,None,4:08,2,Rockets,Suns,41 - 57,1,N/A,1,N/A
+69,James Harden,FT,None,4:08,2,Rockets,Suns,41 - 58,1,N/A,1,N/A
+70,Josh Jackson,FG_MISS,Clint Capela,3:56,2,Rockets,Suns,41 - 58,0,0,2,Layup
+71,James Harden,DEFENSIVE_REBOUND,None,3:53,2,Rockets,Suns,41 - 58,1,N/A,N/A,N/A
+72,James Harden,FG_UNASSISTED,None,3:50,2,Rockets,Suns,41 - 61,1,25,3,Jumper
+73,Team,Unknown,None,3:48,2,Suns,Rockets,41 - 61,0,N/A,N/A,N/A
+74,Chris Paul,SUBSTITUTION,Shumpert Iman,3:48,2,Rockets,Suns,41 - 61,1,N/A,N/A,N/A
+75,Mikal Bridges,FG_MISS,None,3:37,2,Suns,Rockets,41 - 61,0,9,2,Jumper
+76,Clint Capela,DEFENSIVE_REBOUND,None,3:35,2,Rockets,Suns,41 - 61,1,N/A,N/A,N/A
+77,James Harden,FG_ASSISTED,Chris Paul,3:23,2,Rockets,Suns,41 - 63,1,0,2,Layup
+78,Danuel House,FOUL_ON_FLOOR,None,3:08,2,Rockets,Suns,41 - 63,1,N/A,N/A,N/A
+79,Dragan Bender,FT,None,3:08,2,Suns,Rockets,42 - 63,0,N/A,1,N/A
+80,Eric Gordon,SUBSTITUTION,House Danuel,3:08,2,Rockets,Suns,42 - 63,1,N/A,N/A,N/A
+81,Dragan Bender,FT_MISS,None,3:08,2,Suns,Rockets,42 - 63,0,N/A,1,N/A
+82,James Harden,DEFENSIVE_REBOUND,None,3:08,2,Rockets,Suns,42 - 63,1,N/A,N/A,N/A
+83,PJ Tucker,FG_MISS,None,2:46,2,Rockets,Suns,42 - 63,1,8,2,Jumper
+84,Team,OFFENSIVE_REBOUND,None,2:46,2,Rockets,Suns,42 - 63,1,N/A,N/A,N/A
+85,Troy Daniels,FOUL_ON_FLOOR,None,2:46,2,Suns,Rockets,42 - 63,0,N/A,N/A,N/A
+86,Clint Capela,FT,None,2:46,2,Rockets,Suns,42 - 64,1,N/A,1,N/A
+87,Clint Capela,FT,None,2:46,2,Rockets,Suns,42 - 65,1,N/A,1,N/A
+88,Dragan Bender,FG_ASSISTED,Josh Jackson,2:29,2,Suns,Rockets,44 - 65,0,0,2,Layup
+89,Eric Gordon,FG_ASSISTED,Chris Paul,2:08,2,Rockets,Suns,44 - 68,1,26,3,Jumper
+90,Jamal Crawford,FG_MISS,None,1:58,2,Suns,Rockets,44 - 68,0, ,2,Jumper
+91,Chris Paul,DEFENSIVE_REBOUND,None,1:55,2,Rockets,Suns,44 - 68,1,N/A,N/A,N/A
+92,James Harden,FG_MISS,None,1:51,2,Rockets,Suns,44 - 68,1,28,3,Jumper
+93,Jamal Crawford,DEFENSIVE_REBOUND,None,1:47,2,Suns,Rockets,44 - 68,0,N/A,N/A,N/A
+94,Mikal Bridges,FG_MISS,None,1:44,2,Suns,Rockets,44 - 68,0,26,3,Jumper
+95,James Harden,DEFENSIVE_REBOUND,None,1:42,2,Rockets,Suns,44 - 68,1,N/A,N/A,N/A
+96,Chris Paul,FG_MISS,None,1:29,2,Rockets,Suns,44 - 68,1,19,2,Jumper
+97,Josh Jackson,DEFENSIVE_REBOUND,None,1:27,2,Suns,Rockets,44 - 68,0,N/A,N/A,N/A
+98,Josh Jackson,TURNOVER,Chris Paul,1:22,2,Suns,Rockets,44 - 68,0,N/A,N/A,N/A
+99,Troy Daniels,FOUL_ON_FLOOR,None,1:19,2,Suns,Rockets,44 - 68,0,N/A,N/A,N/A
+100,Clint Capela,FT,None,1:19,2,Rockets,Suns,44 - 69,1,N/A,1,N/A
+101,Clint Capela,FT_MISS,None,1:19,2,Rockets,Suns,44 - 69,1,N/A,1,N/A
+102,Dragan Bender,DEFENSIVE_REBOUND,None,1:19,2,Suns,Rockets,44 - 69,0,N/A,N/A,N/A
+103,PJ Tucker,FOUL_ON_FLOOR,None,1:03,2,Rockets,Suns,44 - 69,1,N/A,N/A,N/A
+104,Josh Jackson,FT_MISS,None,1:03,2,Suns,Rockets,44 - 69,0,N/A,1,N/A
+105,Team,OFFENSIVE_REBOUND,None,1:03,2,Suns,Rockets,44 - 69,0,N/A,N/A,N/A
+106,Josh Jackson,FT,None,1:03,2,Suns,Rockets,45 - 69,0,N/A,1,N/A
+107,Clint Capela,FG_ASSISTED,Chris Paul,49.6,2,Rockets,Suns,45 - 71,1,0,2,Dunk
+108,Jamal Crawford,FG_UNASSISTED,None,36.4,2,Suns,Rockets,47 - 71,0,8,2,Jumper
+109,James Harden,FG_UNASSISTED,None,30.4,2,Rockets,Suns,47 - 74,1,30,3,Jumper
+110,Jamal Crawford,FG_MISS,None,10.8,2,Suns,Rockets,47 - 74,0,21,2,Jumper
+111,Clint Capela,DEFENSIVE_REBOUND,None,8.8,2,Rockets,Suns,47 - 74,1,N/A,N/A,N/A
+112,PJ Tucker,FG_ASSISTED,Clint Capela,0.3,2,Rockets,Suns,47 - 77,1,24,3,Jumper
+113,Dragan Bender,TURNOVER,James Harden,0.3,2,Suns,Rockets,47 - 77,0,N/A,N/A,N/A
+114,End of,Unknown,None,0.0,2,Rockets,Suns,47 - 77,1,N/A,N/A,N/A
+0,Elie Okobo,SUBSTITUTION,Crawford Jamal,12:00,3,Suns,Rockets,47 - 77,0,N/A,N/A,N/A
+1,Ray Spalding,SUBSTITUTION,Daniels Troy,12:00,3,Suns,Rockets,47 - 77,0,N/A,N/A,N/A
+2,Dragan Bender,TURNOVER,PJ Tucker,11:39,3,Suns,Rockets,47 - 77,0,N/A,N/A,N/A
+3,James Harden,FG_MISS,None,11:28,3,Rockets,Suns,47 - 77,1,0,2,Layup
+4,Clint Capela,OFFENSIVE_REBOUND,None,11:23,3,Rockets,Suns,47 - 77,1,N/A,N/A,N/A
+5,Clint Capela,FG_MISS,None,11:23,3,Rockets,Suns,47 - 77,1, ,2,Jumper
+6,Dragan Bender,DEFENSIVE_REBOUND,None,11:22,3,Suns,Rockets,47 - 77,0,N/A,N/A,N/A
+7,Josh Jackson,FG_MISS,None,11:12,3,Suns,Rockets,47 - 77,0, ,2,Jumper
+8,James Harden,DEFENSIVE_REBOUND,None,11:10,3,Rockets,Suns,47 - 77,1,N/A,N/A,N/A
+9,Chris Paul,FG_MISS,None,10:56,3,Rockets,Suns,47 - 77,1,23,3,Jumper
+10,Team,DEFENSIVE_REBOUND,None,10:56,3,Suns,Rockets,47 - 77,0,N/A,N/A,N/A
+11,Clint Capela,FOUL_ON_FLOOR,None,10:56,3,Rockets,Suns,47 - 77,1,N/A,N/A,N/A
+12,Josh Jackson,TURNOVER,None,10:40,3,Suns,Rockets,47 - 77,0,N/A,N/A,N/A
+13,Eric Gordon,FG_MISS,None,10:22,3,Rockets,Suns,47 - 77,1,23,3,Jumper
+14,Ray Spalding,DEFENSIVE_REBOUND,None,10:21,3,Suns,Rockets,47 - 77,0,N/A,N/A,N/A
+15,Mikal Bridges,FG_UNASSISTED,None,10:15,3,Suns,Rockets,49 - 77,0, ,2,Jumper
+16,PJ Tucker,FG_MISS,None,9:59,3,Rockets,Suns,49 - 77,1, ,2,Jumper
+17,Josh Jackson,DEFENSIVE_REBOUND,None,9:57,3,Suns,Rockets,49 - 77,0,N/A,N/A,N/A
+18,Dragan Bender,FG_MISS,None,9:46,3,Suns,Rockets,49 - 77,0, ,2,Jumper
+19,James Harden,DEFENSIVE_REBOUND,None,9:45,3,Rockets,Suns,49 - 77,1,N/A,N/A,N/A
+20,Eric Gordon,FG_MISS,None,9:35,3,Rockets,Suns,49 - 77,1,22,3,Jumper
+21,Clint Capela,OFFENSIVE_REBOUND,None,9:34,3,Rockets,Suns,49 - 77,1,N/A,N/A,N/A
+22,Elie Okobo,FOUL_ON_FLOOR,None,9:34,3,Suns,Rockets,49 - 77,0,N/A,N/A,N/A
+23,Clint Capela,FT,None,9:34,3,Rockets,Suns,49 - 78,1,N/A,1,N/A
+24,Clint Capela,FT,None,9:34,3,Rockets,Suns,49 - 79,1,N/A,1,N/A
+25,Josh Jackson,TURNOVER,Chris Paul,9:22,3,Suns,Rockets,49 - 79,0,N/A,N/A,N/A
+26,Mikal Bridges,FOUL_ON_FLOOR,None,9:21,3,Suns,Rockets,49 - 79,0,N/A,N/A,N/A
+27,PJ Tucker,FG_ASSISTED,James Harden,9:07,3,Rockets,Suns,49 - 82,1,23,3,Jumper
+28,Elie Okobo,FG_MISS,None,8:51,3,Suns,Rockets,49 - 82,0, ,2,Jumper
+29,Eric Gordon,DEFENSIVE_REBOUND,None,8:49,3,Rockets,Suns,49 - 82,1,N/A,N/A,N/A
+30,PJ Tucker,FG_MISS,None,8:34,3,Rockets,Suns,49 - 82,1,24,3,Jumper
+31,Ray Spalding,DEFENSIVE_REBOUND,None,8:33,3,Suns,Rockets,49 - 82,0,N/A,N/A,N/A
+32,Ray Spalding,FG_UNASSISTED,None,8:27,3,Suns,Rockets,51 - 82,0, ,2,Jumper
+33,Chris Paul,FG_MISS,None,8:09,3,Rockets,Suns,51 - 82,1,26,3,Jumper
+34,Josh Jackson,DEFENSIVE_REBOUND,None,8:06,3,Suns,Rockets,51 - 82,0,N/A,N/A,N/A
+35,Ray Spalding,FG_ASSISTED,Josh Jackson,8:00,3,Suns,Rockets,53 - 82,0,0,2,Layup
+36,James Harden,FOUL_ON_FLOOR,None,8:00,3,Rockets,Suns,53 - 82,1,N/A,N/A,N/A
+37,Ray Spalding,FT,None,8:00,3,Suns,Rockets,54 - 82,0,N/A,1,N/A
+38,Eric Gordon,FG_ASSISTED,Chris Paul,7:47,3,Rockets,Suns,54 - 85,1,25,3,Jumper
+39,Clint Capela,FOUL_ON_FLOOR,None,7:29,3,Rockets,Suns,54 - 85,1,N/A,N/A,N/A
+40,Team,Unknown,None,7:29,3,Rockets,Suns,54 - 85,1,N/A,N/A,N/A
+41,Mikal Bridges,FG_MISS,None,7:23,3,Suns,Rockets,54 - 85,0,26,3,Jumper
+42,Elie Okobo,OFFENSIVE_REBOUND,None,7:23,3,Suns,Rockets,54 - 85,0,N/A,N/A,N/A
+43,Mikal Bridges,FG_ASSISTED,Elie Okobo,7:19,3,Suns,Rockets,57 - 85,0,25,3,Jumper
+44,PJ Tucker,FG_ASSISTED,Clint Capela,7:06,3,Rockets,Suns,57 - 88,1,24,3,Jumper
+45,Elie Okobo,FG_ASSISTED,Mikal Bridges,6:55,3,Suns,Rockets,59 - 88,0, ,2,Jumper
+46,James Harden,FG_UNASSISTED,None,6:40,3,Rockets,Suns,59 - 90,1, ,2,Jumper
+47,Josh Jackson,FG_ASSISTED,Elie Okobo,6:26,3,Suns,Rockets,62 - 90,0,26,3,Jumper
+48,James Harden,TURNOVER,Ray Spalding,6:15,3,Rockets,Suns,62 - 90,1,N/A,N/A,N/A
+49,Ray Spalding,FG_ASSISTED,Mikal Bridges,6:10,3,Suns,Rockets,64 - 90,0,0,2,Dunk
+50,Chris Paul,FG_MISS,None,5:52,3,Rockets,Suns,64 - 90,1,17,2,Jumper
+51,Ray Spalding,DEFENSIVE_REBOUND,None,5:50,3,Suns,Rockets,64 - 90,0,N/A,N/A,N/A
+52,Mikal Bridges,FG_MISS,None,5:41,3,Suns,Rockets,64 - 90,0,21,2,Jumper
+53,Clint Capela,DEFENSIVE_REBOUND,None,5:40,3,Rockets,Suns,64 - 90,1,N/A,N/A,N/A
+54,Eric Gordon,FG_ASSISTED,Chris Paul,5:35,3,Rockets,Suns,64 - 93,1,26,3,Jumper
+55,Josh Jackson,FG_UNASSISTED,None,5:12,3,Suns,Rockets,66 - 93,0,0,2,Layup
+56,Eric Gordon,FG_ASSISTED,Clint Capela,4:56,3,Rockets,Suns,66 - 96,1,23,3,Jumper
+57,Team,Unknown,None,4:55,3,Suns,Rockets,66 - 96,0,N/A,N/A,N/A
+58,Austin Rivers,SUBSTITUTION,Paul Chris,4:55,3,Rockets,Suns,66 - 96,1,N/A,N/A,N/A
+59,Danuel House,SUBSTITUTION,Gordon Eric,4:55,3,Rockets,Suns,66 - 96,1,N/A,N/A,N/A
+60,Iman Shumpert,SUBSTITUTION,Tucker PJ,4:55,3,Rockets,Suns,66 - 96,1,N/A,N/A,N/A
+61,Troy Daniels,SUBSTITUTION,Spalding Ray,4:55,3,Suns,Rockets,66 - 96,0,N/A,N/A,N/A
+62,Dragan Bender,FG_MISS,None,4:40,3,Suns,Rockets,66 - 96,0,0,2,Layup
+63,James Harden,DEFENSIVE_REBOUND,None,4:38,3,Rockets,Suns,66 - 96,1,N/A,N/A,N/A
+64,Clint Capela,FG_ASSISTED,James Harden,4:35,3,Rockets,Suns,66 - 98,1,0,2,Layup
+65,Austin Rivers,FOUL_ON_FLOOR,None,4:26,3,Rockets,Suns,66 - 98,1,N/A,N/A,N/A
+66,Mikal Bridges,FT,None,4:26,3,Suns,Rockets,67 - 98,0,N/A,1,N/A
+67,Ray Spalding,SUBSTITUTION,Bender Dragan,4:26,3,Suns,Rockets,67 - 98,0,N/A,N/A,N/A
+68,Mikal Bridges,FT,None,4:26,3,Suns,Rockets,68 - 98,0,N/A,1,N/A
+69,Ray Spalding,Unknown,None,4:16,3,Suns,Rockets,68 - 98,0,N/A,N/A,N/A
+70,Jamal Crawford,SUBSTITUTION,Bridges Mikal,4:16,3,Suns,Rockets,68 - 98,0,N/A,N/A,N/A
+71,James Harden,FG_ASSISTED,Austin Rivers,4:13,3,Rockets,Suns,68 - 101,1,23,3,Jumper
+72,Josh Jackson,FG_MISS,None,3:52,3,Suns,Rockets,68 - 101,0,24,3,Jumper
+73,James Harden,DEFENSIVE_REBOUND,None,3:51,3,Rockets,Suns,68 - 101,1,N/A,N/A,N/A
+74,James Harden,TURNOVER,Elie Okobo,3:50,3,Rockets,Suns,68 - 101,1,N/A,N/A,N/A
+75,Iman Shumpert,FOUL_ON_FLOOR,None,3:49,3,Rockets,Suns,68 - 101,1,N/A,N/A,N/A
+76,Elie Okobo,FT,None,3:49,3,Suns,Rockets,69 - 101,0,N/A,1,N/A
+77,Elie Okobo,FT,None,3:49,3,Suns,Rockets,70 - 101,0,N/A,1,N/A
+78,Josh Jackson,FOUL_ON_FLOOR,None,3:36,3,Suns,Rockets,70 - 101,0,N/A,N/A,N/A
+79,Nene Hilario,SUBSTITUTION,Capela Clint,3:36,3,Rockets,Suns,70 - 101,1,N/A,N/A,N/A
+80,Nene Hilario,FG_MISS,None,3:24,3,Rockets,Suns,70 - 101,1,0,2,Dunk
+81,Jamal Crawford,DEFENSIVE_REBOUND,None,3:22,3,Suns,Rockets,70 - 101,0,N/A,N/A,N/A
+82,Elie Okobo,FG_ASSISTED,Josh Jackson,3:15,3,Suns,Rockets,72 - 101,0,0,2,Layup
+83,Ray Spalding,FOUL_ON_FLOOR,None,3:05,3,Suns,Rockets,72 - 101,0,N/A,N/A,N/A
+84,James Harden,FT_MISS,None,3:05,3,Rockets,Suns,72 - 101,1,N/A,1,N/A
+85,Team,OFFENSIVE_REBOUND,None,3:05,3,Rockets,Suns,72 - 101,1,N/A,N/A,N/A
+86,Chris Paul,SUBSTITUTION,Rivers Austin,3:05,3,Rockets,Suns,72 - 101,1,N/A,N/A,N/A
+87,James Harden,FT,None,3:05,3,Rockets,Suns,72 - 102,1,N/A,1,N/A
+88,Troy Daniels,FG_MISS,None,2:48,3,Suns,Rockets,72 - 102,0,27,3,Jumper
+89,James Harden,DEFENSIVE_REBOUND,None,2:47,3,Rockets,Suns,72 - 102,1,N/A,N/A,N/A
+90,James Harden,FG_UNASSISTED,None,2:39,3,Rockets,Suns,72 - 104,1,0,2,Layup
+91,Ray Spalding,FG_MISS,None,2:21,3,Suns,Rockets,72 - 104,0,0,2,Layup
+92,Chris Paul,DEFENSIVE_REBOUND,None,2:19,3,Rockets,Suns,72 - 104,1,N/A,N/A,N/A
+93,James Harden,FG_ASSISTED,Chris Paul,2:14,3,Rockets,Suns,72 - 107,1,28,2,Jumper
+94,Jamal Crawford,FG_MISS,None,2:03,3,Suns,Rockets,72 - 107,0,18,2,Jumper
+95,Team,DEFENSIVE_REBOUND,None,2:02,3,Rockets,Suns,72 - 107,1,N/A,N/A,N/A
+96,Danuel House,FG_ASSISTED,James Harden,1:54,3,Rockets,Suns,72 - 110,1,23,3,Jumper
+97,Jamal Crawford,FG_UNASSISTED,None,1:32,3,Suns,Rockets,75 - 110,0,25,3,Jumper
+98,Iman Shumpert,FG_MISS,None,1:19,3,Rockets,Suns,75 - 110,1,23,3,Jumper
+99,Team,OFFENSIVE_REBOUND,None,1:16,3,Rockets,Suns,75 - 110,1,N/A,N/A,N/A
+100,De'Anthony Melton,SUBSTITUTION,Okobo Elie,1:16,3,Suns,Rockets,75 - 110,0,N/A,N/A,N/A
+101,Dragan Bender,SUBSTITUTION,Spalding Ray,1:16,3,Suns,Rockets,75 - 110,0,N/A,N/A,N/A
+102,Josh Jackson,FOUL_ON_FLOOR,None,1:13,3,Suns,Rockets,75 - 110,0,N/A,N/A,N/A
+103,James Harden,FT,None,1:13,3,Rockets,Suns,75 - 111,1,N/A,1,N/A
+104,James Harden,FT,None,1:13,3,Rockets,Suns,75 - 112,1,N/A,1,N/A
+105,De'Anthony Melton,TURNOVER,Chris Paul,1:02,3,Suns,Rockets,75 - 112,0,N/A,N/A,N/A
+106,Nene Hilario,FG_ASSISTED,James Harden,1:00,3,Rockets,Suns,75 - 114,1,0,2,Dunk
+107,Troy Daniels,FG_MISS,None,51.0,3,Suns,Rockets,75 - 114,0,22,3,Jumper
+108,James Harden,DEFENSIVE_REBOUND,None,46.5,3,Rockets,Suns,75 - 114,1,N/A,N/A,N/A
+109,James Harden,TURNOVER,Josh Jackson,41.0,3,Rockets,Suns,75 - 114,1,N/A,N/A,N/A
+110,Dragan Bender,FG_ASSISTED,Josh Jackson,36.0,3,Suns,Rockets,77 - 114,0,0,2,Layup
+111,James Harden,FG_MISS,None,27.3,3,Rockets,Suns,77 - 114,1,1,2,Jumper
+112,Troy Daniels,DEFENSIVE_REBOUND,None,25.3,3,Suns,Rockets,77 - 114,0,N/A,N/A,N/A
+113,Danuel House,FOUL_ON_FLOOR,None,7.4,3,Rockets,Suns,77 - 114,1,N/A,N/A,N/A
+114,Dragan Bender,FT_MISS,None,7.4,3,Suns,Rockets,77 - 114,0,N/A,1,N/A
+115,Team,OFFENSIVE_REBOUND,None,7.4,3,Suns,Rockets,77 - 114,0,N/A,N/A,N/A
+116,Elie Okobo,SUBSTITUTION,Crawford Jamal,7.4,3,Suns,Rockets,77 - 114,0,N/A,N/A,N/A
+117,Dragan Bender,FT_MISS,None,7.4,3,Suns,Rockets,77 - 114,0,N/A,1,N/A
+118,Nene Hilario,DEFENSIVE_REBOUND,None,7.4,3,Rockets,Suns,77 - 114,1,N/A,N/A,N/A
+119,James Harden,FG_UNASSISTED,None,0.2,3,Rockets,Suns,77 - 117,1,34,3,Jumper
+120,End of,Unknown,None,0.0,3,Rockets,Suns,77 - 117,1,N/A,N/A,N/A
+0,Austin Rivers,SUBSTITUTION,Paul Chris,12:00,4,Rockets,Suns,77 - 117,1,N/A,N/A,N/A
+1,Gerald Green,SUBSTITUTION,Harden James,12:00,4,Rockets,Suns,77 - 117,1,N/A,N/A,N/A
+2,Jamal Crawford,SUBSTITUTION,Jackson Josh,12:00,4,Suns,Rockets,77 - 117,0,N/A,N/A,N/A
+3,Mikal Bridges,SUBSTITUTION,Okobo Elie,12:00,4,Suns,Rockets,77 - 117,0,N/A,N/A,N/A
+4,Iman Shumpert,FG_ASSISTED,Nene Hilario,11:47,4,Rockets,Suns,77 - 120,1,26,3,Jumper
+5,Troy Daniels,FG_ASSISTED,De'Anthony Melton,11:31,4,Suns,Rockets,80 - 120,0,23,3,Jumper
+6,Nene Hilario,FG_ASSISTED,Austin Rivers,11:14,4,Rockets,Suns,80 - 122,1,18,2,Jumper
+7,Dragan Bender,FG_ASSISTED,Jamal Crawford,10:56,4,Suns,Rockets,82 - 122,0,0,2,Layup
+8,Danuel House,FG_ASSISTED,Nene Hilario,10:45,4,Rockets,Suns,82 - 125,1,26,3,Jumper
+9,Nene Hilario,FOUL_ON_FLOOR,None,10:30,4,Rockets,Suns,82 - 125,1,N/A,N/A,N/A
+10,Jamal Crawford,FT,None,10:30,4,Suns,Rockets,83 - 125,0,N/A,1,N/A
+11,Jamal Crawford,FT,None,10:30,4,Suns,Rockets,84 - 125,0,N/A,1,N/A
+12,Austin Rivers,FG_MISS,None,10:22,4,Rockets,Suns,84 - 125,1,25,3,Jumper
+13,Mikal Bridges,DEFENSIVE_REBOUND,None,10:21,4,Suns,Rockets,84 - 125,0,N/A,N/A,N/A
+14,Troy Daniels,FG_MISS,None,10:14,4,Suns,Rockets,84 - 125,0,26,3,Jumper
+15,De'Anthony Melton,OFFENSIVE_REBOUND,None,10:12,4,Suns,Rockets,84 - 125,0,N/A,N/A,N/A
+16,Jamal Crawford,FG_MISS,None,10:10,4,Suns,Rockets,84 - 125,0,25,3,Jumper
+17,Gerald Green,DEFENSIVE_REBOUND,None,10:07,4,Rockets,Suns,84 - 125,1,N/A,N/A,N/A
+18,Gerald Green,FG_MISS,None,9:49,4,Rockets,Suns,84 - 125,1,25,3,Jumper
+19,Jamal Crawford,DEFENSIVE_REBOUND,None,9:45,4,Suns,Rockets,84 - 125,0,N/A,N/A,N/A
+20,Mikal Bridges,FG_ASSISTED,Jamal Crawford,9:37,4,Suns,Rockets,87 - 125,0,22,3,Jumper
+21,Danuel House,FG_UNASSISTED,None,9:15,4,Rockets,Suns,87 - 127,1,0,2,Layup
+22,Dragan Bender,FG_MISS,None,9:01,4,Suns,Rockets,87 - 127,0,24,3,Jumper
+23,Troy Daniels,OFFENSIVE_REBOUND,None,8:59,4,Suns,Rockets,87 - 127,0,N/A,N/A,N/A
+24,Mikal Bridges,FG_ASSISTED,Troy Daniels,8:55,4,Suns,Rockets,89 - 127,0,0,2,Layup
+25,Nene Hilario,FG_MISS,None,8:43,4,Rockets,Suns,89 - 127,1,25,3,Jumper
+26,Mikal Bridges,DEFENSIVE_REBOUND,None,8:40,4,Suns,Rockets,89 - 127,0,N/A,N/A,N/A
+27,Dragan Bender,FG_ASSISTED,Jamal Crawford,8:36,4,Suns,Rockets,92 - 127,0,25,3,Jumper
+28,De'Anthony Melton,FOUL_ON_FLOOR,None,8:27,4,Suns,Rockets,92 - 127,0,N/A,N/A,N/A
+29,Gary Clark,SUBSTITUTION,House Danuel,8:27,4,Rockets,Suns,92 - 127,1,N/A,N/A,N/A
+30,Austin Rivers,FG_MISS,None,8:17,4,Rockets,Suns,92 - 127,1,0,2,Layup
+31,Dragan Bender,DEFENSIVE_REBOUND,None,8:15,4,Suns,Rockets,92 - 127,0,N/A,N/A,N/A
+32,Jamal Crawford,FG_UNASSISTED,None,8:12,4,Suns,Rockets,95 - 127,0,26,3,Jumper
+33,Team,Unknown,None,8:05,4,Rockets,Suns,95 - 127,1,N/A,N/A,N/A
+34,Kenneth Faried,SUBSTITUTION,Hilario Nene,8:05,4,Rockets,Suns,95 - 127,1,N/A,N/A,N/A
+35,Gerald Green,FG_MISS,None,7:55,4,Rockets,Suns,95 - 127,1,25,3,Jumper
+36,Mikal Bridges,DEFENSIVE_REBOUND,None,7:52,4,Suns,Rockets,95 - 127,0,N/A,N/A,N/A
+37,Dragan Bender,FG_MISS,None,7:39,4,Suns,Rockets,95 - 127,0,1,2,Jumper
+38,Kenneth Faried,DEFENSIVE_REBOUND,None,7:36,4,Rockets,Suns,95 - 127,1,N/A,N/A,N/A
+39,Kenneth Faried,FG_ASSISTED,Austin Rivers,7:23,4,Rockets,Suns,95 - 129,1,0,2,Layup
+40,Dragan Bender,FOUL_ON_FLOOR,None,7:23,4,Suns,Rockets,95 - 129,0,N/A,N/A,N/A
+41,Kenneth Faried,FT,None,7:23,4,Rockets,Suns,95 - 130,1,N/A,1,N/A
+42,Jamal Crawford,FG_UNASSISTED,None,7:08,4,Suns,Rockets,98 - 130,0,25,3,Jumper
+43,Gary Clark,FG_ASSISTED,Austin Rivers,6:50,4,Rockets,Suns,98 - 133,1,27,3,Jumper
+44,Troy Daniels,FG_MISS,None,6:31,4,Suns,Rockets,98 - 133,0,28,2,Jumper
+45,Gary Clark,DEFENSIVE_REBOUND,None,6:29,4,Rockets,Suns,98 - 133,1,N/A,N/A,N/A
+46,Gerald Green,FG_MISS,None,6:24,4,Rockets,Suns,98 - 133,1,26,3,Jumper
+47,De'Anthony Melton,DEFENSIVE_REBOUND,None,6:21,4,Suns,Rockets,98 - 133,0,N/A,N/A,N/A
+48,De'Anthony Melton,FG_UNASSISTED,None,6:16,4,Suns,Rockets,100 - 133,0,1,2,Jumper
+49,Kenneth Faried,FG_MISS,None,5:58,4,Rockets,Suns,100 - 133,1,25,3,Jumper
+50,De'Anthony Melton,DEFENSIVE_REBOUND,None,5:56,4,Suns,Rockets,100 - 133,0,N/A,N/A,N/A
+51,Jamal Crawford,FG_MISS,None,5:51,4,Suns,Rockets,100 - 133,0,26,2,Jumper
+52,Mikal Bridges,OFFENSIVE_REBOUND,None,5:48,4,Suns,Rockets,100 - 133,0,N/A,N/A,N/A
+53,Dragan Bender,FG_MISS,None,5:46,4,Suns,Rockets,100 - 133,0,25,3,Jumper
+54,Gary Clark,DEFENSIVE_REBOUND,None,5:43,4,Rockets,Suns,100 - 133,1,N/A,N/A,N/A
+55,Iman Shumpert,FG_UNASSISTED,None,5:31,4,Rockets,Suns,100 - 135,1,20,2,Jumper
+56,De'Anthony Melton,FG_MISS,None,5:19,4,Suns,Rockets,100 - 135,0,0,2,Layup
+57,Iman Shumpert,DEFENSIVE_REBOUND,None,5:18,4,Rockets,Suns,100 - 135,1,N/A,N/A,N/A
+58,Chris Chiozza,SUBSTITUTION,Shumpert Iman,5:09,4,Rockets,Suns,100 - 135,1,N/A,N/A,N/A
+59,Jimmer Fredette,SUBSTITUTION,Daniels Troy,5:09,4,Suns,Rockets,100 - 135,0,N/A,N/A,N/A
+60,Chris Chiozza,FG_MISS,None,4:59,4,Rockets,Suns,100 - 135,1,25,2,Jumper
+61,Kenneth Faried,OFFENSIVE_REBOUND,None,4:53,4,Rockets,Suns,100 - 135,1,N/A,N/A,N/A
+62,Kenneth Faried,FG_UNASSISTED,None,4:53,4,Rockets,Suns,100 - 137,1,1,2,Jumper
+63,Jamal Crawford,TURNOVER,Austin Rivers,4:42,4,Suns,Rockets,100 - 137,0,N/A,N/A,N/A
+64,Gary Clark,FG_MISS,None,4:34,4,Rockets,Suns,100 - 137,1,27,3,Jumper
+65,Team,DEFENSIVE_REBOUND,None,4:32,4,Suns,Rockets,100 - 137,0,N/A,N/A,N/A
+66,Team,Unknown,None,4:32,4,Suns,Rockets,100 - 137,0,N/A,N/A,N/A
+67,Ray Spalding,SUBSTITUTION,Crawford Jamal,4:32,4,Suns,Rockets,100 - 137,0,N/A,N/A,N/A
+68,Elie Okobo,SUBSTITUTION,Bender Dragan,4:32,4,Suns,Rockets,100 - 137,0,N/A,N/A,N/A
+69,Elie Okobo,FG_MISS,None,4:08,4,Suns,Rockets,100 - 137,0,25,3,Jumper
+70,Jimmer Fredette,OFFENSIVE_REBOUND,None,4:05,4,Suns,Rockets,100 - 137,0,N/A,N/A,N/A
+71,Elie Okobo,FG_ASSISTED,De'Anthony Melton,3:59,4,Suns,Rockets,102 - 137,0,3,2,Jumper
+72,Gerald Green,FG_ASSISTED,Chris Chiozza,3:43,4,Rockets,Suns,102 - 139,1,0,2,Layup
+73,Jimmer Fredette,FG_MISS,Chris Chiozza,3:32,4,Rockets,Suns,102 - 139,0,23,3,Jumper
+74,Team,OFFENSIVE_REBOUND,None,3:32,4,Suns,Rockets,102 - 139,0,N/A,N/A,N/A
+75,Elie Okobo,FG_UNASSISTED,None,3:25,4,Suns,Rockets,104 - 139,0,0,2,Layup
+76,Gary Clark,FG_UNASSISTED,None,3:04,4,Rockets,Suns,104 - 142,1,26,3,Jumper
+77,De'Anthony Melton,FG_ASSISTED,Elie Okobo,2:53,4,Suns,Rockets,106 - 142,0,0,2,Dunk
+78,Austin Rivers,FG_UNASSISTED,None,2:38,4,Rockets,Suns,106 - 144,1,0,2,Layup
+79,Ray Spalding,FOUL_ON_FLOOR,None,2:38,4,Suns,Rockets,106 - 144,0,N/A,N/A,N/A
+80,Austin Rivers,FT_MISS,None,2:38,4,Rockets,Suns,106 - 144,1,N/A,1,N/A
+81,De'Anthony Melton,DEFENSIVE_REBOUND,None,2:38,4,Suns,Rockets,106 - 144,0,N/A,N/A,N/A
+82,De'Anthony Melton,FG_ASSISTED,Jimmer Fredette,2:14,4,Suns,Rockets,108 - 144,0,0,2,Layup
+83,Gerald Green,FG_MISS,None,2:00,4,Rockets,Suns,108 - 144,1,1,3,Jumper
+84,Kenneth Faried,OFFENSIVE_REBOUND,None,1:59,4,Rockets,Suns,108 - 144,1,N/A,N/A,N/A
+85,Kenneth Faried,FG_UNASSISTED,None,1:59,4,Rockets,Suns,108 - 146,1,1,2,Jumper
+86,Elie Okobo,FG_MISS,Kenneth Faried,1:52,4,Rockets,Suns,108 - 146,0,0,2,Layup
+87,Chris Chiozza,DEFENSIVE_REBOUND,None,1:49,4,Rockets,Suns,108 - 146,1,N/A,N/A,N/A
+88,Austin Rivers,FG_MISS,None,1:44,4,Rockets,Suns,108 - 146,1,23,3,Jumper
+89,Gary Clark,OFFENSIVE_REBOUND,None,1:42,4,Rockets,Suns,108 - 146,1,N/A,N/A,N/A
+90,Gerald Green,FG_MISS,None,1:39,4,Rockets,Suns,108 - 146,1,26,3,Jumper
+91,Gary Clark,OFFENSIVE_REBOUND,None,1:39,4,Rockets,Suns,108 - 146,1,N/A,N/A,N/A
+92,Gary Clark,FG_MISS,None,1:34,4,Rockets,Suns,108 - 146,1,25,3,Jumper
+93,Ray Spalding,DEFENSIVE_REBOUND,None,1:31,4,Suns,Rockets,108 - 146,0,N/A,N/A,N/A
+94,De'Anthony Melton,FG_UNASSISTED,None,1:27,4,Suns,Rockets,110 - 146,0,0,2,Layup
+95,Gerald Green,FOUL_ON_FLOOR,None,1:27,4,Rockets,Suns,110 - 146,1,N/A,N/A,N/A
+96,De'Anthony Melton,FT,None,1:27,4,Suns,Rockets,111 - 146,0,N/A,1,N/A
+97,Ray Spalding,FOUL_ON_FLOOR,None,1:16,4,Suns,Rockets,111 - 146,0,N/A,N/A,N/A
+98,Austin Rivers,FG_UNASSISTED,None,1:09,4,Rockets,Suns,111 - 149,1,26,3,Jumper
+99,Elie Okobo,FG_ASSISTED,De'Anthony Melton,56.1,4,Suns,Rockets,113 - 149,0,0,2,Dunk
+100,Austin Rivers,FG_MISS,None,39.1,4,Rockets,Suns,113 - 149,1,26,2,Jumper
+101,Team,DEFENSIVE_REBOUND,None,37.6,4,Suns,Rockets,113 - 149,0,N/A,N/A,N/A
+102,Ray Spalding,FG_MISS,None,21.2,4,Suns,Rockets,113 - 149,0,27,3,Jumper
+103,Gerald Green,DEFENSIVE_REBOUND,None,18.9,4,Rockets,Suns,113 - 149,1,N/A,N/A,N/A
+104,End of,Unknown,None,0.0,4,Rockets,Suns,113 - 149,1,N/A,N/A,N/A
+105,End of,Unknown,None,0.0,4,Rockets,Suns,113 - 149,1,N/A,N/A,N/A

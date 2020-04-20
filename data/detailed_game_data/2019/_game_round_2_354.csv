@@ -1,0 +1,494 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,JaVale McGee,JUMP_BALL,None,12:00,1,Mavericks,Lakers,0 - 0,1,N/A,N/A,N/A
+1,Harrison Barnes,FG_UNASSISTED,None,11:43,1,Mavericks,Lakers,0 - 3,1,25,2,Jumper
+2,Brandon Ingram,TURNOVER,Harrison Barnes,11:24,1,Lakers,Mavericks,0 - 3,0,N/A,N/A,N/A
+3,Dennis Smith,FG_UNASSISTED,None,11:14,1,Mavericks,Lakers,0 - 5,1,10,2,Jumper
+4,DeAndre Jordan,FOUL_ON_FLOOR,None,11:12,1,Mavericks,Lakers,0 - 5,1,N/A,N/A,N/A
+5,Josh Hart,FG_MISS,None,10:50,1,Lakers,Mavericks,0 - 5,0,7,2,Jumper
+6,DeAndre Jordan,DEFENSIVE_REBOUND,None,10:47,1,Mavericks,Lakers,0 - 5,1,N/A,N/A,N/A
+7,Luka Doncic,FG_MISS,None,10:37,1,Mavericks,Lakers,0 - 5,1,28,3,Jumper
+8,Kyle Kuzma,DEFENSIVE_REBOUND,None,10:32,1,Lakers,Mavericks,0 - 5,0,N/A,N/A,N/A
+9,Kyle Kuzma,FG_MISS,None,10:28,1,Lakers,Mavericks,0 - 5,0,-,2,Jumper
+10,Team,DEFENSIVE_REBOUND,None,10:25,1,Mavericks,Lakers,0 - 5,1,N/A,N/A,N/A
+11,Luka Doncic,FG_MISS,None,10:15,1,Mavericks,Lakers,0 - 5,1,-,2,Jumper
+12,JaVale McGee,DEFENSIVE_REBOUND,None,10:12,1,Lakers,Mavericks,0 - 5,0,N/A,N/A,N/A
+13,Lonzo Ball,FG_MISS,None,10:08,1,Lakers,Mavericks,0 - 5,0,12,2,Jumper
+14,DeAndre Jordan,DEFENSIVE_REBOUND,None,10:05,1,Mavericks,Lakers,0 - 5,1,N/A,N/A,N/A
+15,Wesley Matthews,FG_MISS,None,9:51,1,Mavericks,Lakers,0 - 5,1,0,2,Layup
+16,Josh Hart,DEFENSIVE_REBOUND,None,9:48,1,Lakers,Mavericks,0 - 5,0,N/A,N/A,N/A
+17,Lonzo Ball,FG_ASSISTED,Josh Hart,9:46,1,Lakers,Mavericks,3 - 5,0,26,3,Jumper
+18,Dennis Smith,FG_UNASSISTED,None,9:16,1,Mavericks,Lakers,3 - 8,1,25,3,Jumper
+19,Lonzo Ball,FG_MISS,None,9:03,1,Lakers,Mavericks,3 - 8,0,28,3,Jumper
+20,DeAndre Jordan,DEFENSIVE_REBOUND,None,9:00,1,Mavericks,Lakers,3 - 8,1,N/A,N/A,N/A
+21,Luka Doncic,FG_UNASSISTED,None,8:57,1,Mavericks,Lakers,3 - 10,1,7,2,Jumper
+22,Brandon Ingram,FOUL_ON_FLOOR,None,8:57,1,Lakers,Mavericks,3 - 10,0,N/A,N/A,N/A
+23,Luka Doncic,FT,None,8:57,1,Mavericks,Lakers,3 - 11,1,N/A,1,N/A
+24,Brandon Ingram,FG_MISS,None,8:49,1,Lakers,Mavericks,3 - 11,0,13,2,Jumper
+25,DeAndre Jordan,DEFENSIVE_REBOUND,None,8:45,1,Mavericks,Lakers,3 - 11,1,N/A,N/A,N/A
+26,Harrison Barnes,FG_MISS,None,8:37,1,Mavericks,Lakers,3 - 11,1,26,3,Jumper
+27,Josh Hart,DEFENSIVE_REBOUND,None,8:33,1,Lakers,Mavericks,3 - 11,0,N/A,N/A,N/A
+28,Brandon Ingram,FG_UNASSISTED,None,8:29,1,Lakers,Mavericks,5 - 11,0, ,2,Jumper
+29,Harrison Barnes,FG_MISS,None,8:10,1,Mavericks,Lakers,5 - 11,1,3,2,Jumper
+30,Josh Hart,DEFENSIVE_REBOUND,None,8:08,1,Lakers,Mavericks,5 - 11,0,N/A,N/A,N/A
+31,Josh Hart,TURNOVER,Wesley Matthews,8:03,1,Lakers,Mavericks,5 - 11,0,N/A,N/A,N/A
+32,Dennis Smith,TURNOVER,Lonzo Ball,8:02,1,Mavericks,Lakers,5 - 11,1,N/A,N/A,N/A
+33,Lonzo Ball,FG_UNASSISTED,None,8:00,1,Lakers,Mavericks,7 - 11,0,0,2,Dunk
+34,Luka Doncic,FG_MISS,None,7:44,1,Mavericks,Lakers,7 - 11,1,13,2,Jumper
+35,JaVale McGee,DEFENSIVE_REBOUND,None,7:44,1,Lakers,Mavericks,7 - 11,0,N/A,N/A,N/A
+36,Brandon Ingram,FG_ASSISTED,Lonzo Ball,7:37,1,Lakers,Mavericks,9 - 11,0,0,2,Dunk
+37,Team,Unknown,None,7:37,1,Mavericks,Lakers,9 - 11,1,N/A,N/A,N/A
+38,JaVale McGee,FOUL_ON_FLOOR,None,7:18,1,Lakers,Mavericks,9 - 11,0,N/A,N/A,N/A
+39,Brandon Ingram,FOUL_ON_FLOOR,None,7:08,1,Lakers,Mavericks,9 - 11,0,N/A,N/A,N/A
+40,Harrison Barnes,FT,None,7:08,1,Mavericks,Lakers,9 - 12,1,N/A,1,N/A
+41,Harrison Barnes,FT,None,7:08,1,Mavericks,Lakers,9 - 13,1,N/A,1,N/A
+42,Kyle Kuzma,TURNOVER,DeAndre Jordan,6:55,1,Lakers,Mavericks,9 - 13,0,N/A,N/A,N/A
+43,Dennis Smith,TURNOVER,Lonzo Ball,6:48,1,Mavericks,Lakers,9 - 13,1,N/A,N/A,N/A
+44,Josh Hart,FG_ASSISTED,Lonzo Ball,6:43,1,Lakers,Mavericks,11 - 13,0, ,2,Jumper
+45,DeAndre Jordan,FG_ASSISTED,Luka Doncic,6:31,1,Mavericks,Lakers,11 - 15,1,0,2,Dunk
+46,Brandon Ingram,FG_UNASSISTED,None,6:22,1,Lakers,Mavericks,13 - 15,0, ,2,Jumper
+47,DeAndre Jordan,TURNOVER,None,6:09,1,Mavericks,Lakers,13 - 15,1,N/A,N/A,N/A
+48,Kyle Kuzma,FG_MISS,None,5:58,1,Lakers,Mavericks,13 - 15,0,0,2,Layup
+49,Luka Doncic,DEFENSIVE_REBOUND,None,5:55,1,Mavericks,Lakers,13 - 15,1,N/A,N/A,N/A
+50,Dennis Smith,FG_ASSISTED,Luka Doncic,5:48,1,Mavericks,Lakers,13 - 17,1,0,2,Layup
+51,Kyle Kuzma,FG_MISS,None,5:21,1,Lakers,Mavericks,13 - 17,0,25,3,Jumper
+52,Team,OFFENSIVE_REBOUND,None,5:20,1,Lakers,Mavericks,13 - 17,0,N/A,N/A,N/A
+53,Dennis Smith,FOUL_ON_FLOOR,None,5:20,1,Mavericks,Lakers,13 - 17,1,N/A,N/A,N/A
+54,Lonzo Ball,FG_ASSISTED,Josh Hart,5:08,1,Lakers,Mavericks,16 - 17,0,27,3,Jumper
+55,Luka Doncic,FG_UNASSISTED,None,4:50,1,Mavericks,Lakers,16 - 19,1,11,2,Jumper
+56,Lonzo Ball,Unknown,None,4:50,1,Lakers,Mavericks,16 - 19,0,N/A,N/A,N/A
+57,Josh Hart,FG_MISS,None,4:38,1,Lakers,Mavericks,16 - 19,0,27,3,Jumper
+58,DeAndre Jordan,DEFENSIVE_REBOUND,None,4:34,1,Mavericks,Lakers,16 - 19,1,N/A,N/A,N/A
+59,Luka Doncic,FG_UNASSISTED,None,4:28,1,Mavericks,Lakers,16 - 21,1,12,2,Jumper
+60,JaVale McGee,FG_MISS,None,4:14,1,Lakers,Mavericks,16 - 21,0,11,2,Jumper
+61,Wesley Matthews,DEFENSIVE_REBOUND,None,4:11,1,Mavericks,Lakers,16 - 21,1,N/A,N/A,N/A
+62,Luka Doncic,FG_MISS,None,4:08,1,Mavericks,Lakers,16 - 21,1,26,3,Jumper
+63,DeAndre Jordan,OFFENSIVE_REBOUND,None,4:04,1,Mavericks,Lakers,16 - 21,1,N/A,N/A,N/A
+64,DeAndre Jordan,TURNOVER,Josh Hart,4:03,1,Mavericks,Lakers,16 - 21,1,N/A,N/A,N/A
+65,JaVale McGee,FG_ASSISTED,Lonzo Ball,3:59,1,Lakers,Mavericks,18 - 21,0,0,2,Dunk
+66,Dennis Smith,FOUL_ON_FLOOR,None,3:59,1,Mavericks,Lakers,18 - 21,1,N/A,N/A,N/A
+67,J.J. Barea,SUBSTITUTION,Smith Dennis,3:59,1,Mavericks,Lakers,18 - 21,1,N/A,N/A,N/A
+68,Dorian Finney-Smith,SUBSTITUTION,Matthews Wesley,3:59,1,Mavericks,Lakers,18 - 21,1,N/A,N/A,N/A
+69,Kentavious Caldwell-Pope,SUBSTITUTION,Ingram Brandon,3:59,1,Lakers,Mavericks,18 - 21,0,N/A,N/A,N/A
+70,JaVale McGee,FT_MISS,None,3:59,1,Lakers,Mavericks,18 - 21,0,N/A,1,N/A
+71,DeAndre Jordan,DEFENSIVE_REBOUND,None,3:56,1,Mavericks,Lakers,18 - 21,1,N/A,N/A,N/A
+72,Harrison Barnes,FG_ASSISTED,J.J. Barea,3:41,1,Mavericks,Lakers,18 - 24,1,27,3,Jumper
+73,Team,Unknown,None,3:38,1,Lakers,Mavericks,18 - 24,0,N/A,N/A,N/A
+74,Ivica Zubac,SUBSTITUTION,McGee JaVale,3:38,1,Lakers,Mavericks,18 - 24,0,N/A,N/A,N/A
+75,Kyle Kuzma,FG_MISS,DeAndre Jordan,3:17,1,Mavericks,Lakers,18 - 24,0,3,2,Jumper
+76,Team,OFFENSIVE_REBOUND,None,3:17,1,Lakers,Mavericks,18 - 24,0,N/A,N/A,N/A
+77,Kyle Kuzma,FG_MISS,None,3:14,1,Lakers,Mavericks,18 - 24,0,25,3,Jumper
+78,Lonzo Ball,OFFENSIVE_REBOUND,None,3:11,1,Lakers,Mavericks,18 - 24,0,N/A,N/A,N/A
+79,Josh Hart,FG_MISS,None,3:08,1,Lakers,Mavericks,18 - 24,0, ,2,Jumper
+80,Team,OFFENSIVE_REBOUND,None,3:06,1,Lakers,Mavericks,18 - 24,0,N/A,N/A,N/A
+81,DeAndre Jordan,FOUL_ON_FLOOR,None,3:06,1,Mavericks,Lakers,18 - 24,1,N/A,N/A,N/A
+82,Dwight Powell,SUBSTITUTION,Jordan DeAndre,3:06,1,Mavericks,Lakers,18 - 24,1,N/A,N/A,N/A
+83,Ivica Zubac,TURNOVER,Dorian Finney-Smith,2:59,1,Lakers,Mavericks,18 - 24,0,N/A,N/A,N/A
+84,Dorian Finney-Smith,FG_ASSISTED,Dwight Powell,2:38,1,Mavericks,Lakers,18 - 26,1,0,2,Dunk
+85,Kyle Kuzma,FG_MISS,None,2:22,1,Lakers,Mavericks,18 - 26,0,24,3,Jumper
+86,Ivica Zubac,OFFENSIVE_REBOUND,None,2:20,1,Lakers,Mavericks,18 - 26,0,N/A,N/A,N/A
+87,Ivica Zubac,FG_MISS,None,2:20,1,Lakers,Mavericks,18 - 26,0, ,2,Jumper
+88,Team,OFFENSIVE_REBOUND,None,2:19,1,Lakers,Mavericks,18 - 26,0,N/A,N/A,N/A
+89,Dwight Powell,FOUL_ON_FLOOR,None,2:19,1,Mavericks,Lakers,18 - 26,1,N/A,N/A,N/A
+90,Ivica Zubac,FT,None,2:19,1,Lakers,Mavericks,19 - 26,0,N/A,1,N/A
+91,Dirk Nowitzki,SUBSTITUTION,Barnes Harrison,2:19,1,Mavericks,Lakers,19 - 26,1,N/A,N/A,N/A
+92,Devin Harris,SUBSTITUTION,Doncic Luka,2:19,1,Mavericks,Lakers,19 - 26,1,N/A,N/A,N/A
+93,Ivica Zubac,FT,None,2:19,1,Lakers,Mavericks,20 - 26,0,N/A,1,N/A
+94,J.J. Barea,FG_MISS,None,1:59,1,Mavericks,Lakers,20 - 26,1, ,2,Jumper
+95,Dwight Powell,OFFENSIVE_REBOUND,None,1:57,1,Mavericks,Lakers,20 - 26,1,N/A,N/A,N/A
+96,Dorian Finney-Smith,FG_MISS,None,1:55,1,Mavericks,Lakers,20 - 26,1,26,3,Jumper
+97,Ivica Zubac,DEFENSIVE_REBOUND,None,1:52,1,Lakers,Mavericks,20 - 26,0,N/A,N/A,N/A
+98,Lonzo Ball,FG_MISS,None,1:45,1,Lakers,Mavericks,20 - 26,0,27,3,Jumper
+99,Dwight Powell,DEFENSIVE_REBOUND,None,1:41,1,Mavericks,Lakers,20 - 26,1,N/A,N/A,N/A
+100,Dwight Powell,FG_ASSISTED,J.J. Barea,1:33,1,Mavericks,Lakers,20 - 28,1,0,2,Dunk
+101,Kyle Kuzma,FG_MISS,None,1:19,1,Lakers,Mavericks,20 - 28,0, ,2,Jumper
+102,Dorian Finney-Smith,DEFENSIVE_REBOUND,None,1:17,1,Mavericks,Lakers,20 - 28,1,N/A,N/A,N/A
+103,Dwight Powell,FG_MISS,None,1:06,1,Mavericks,Lakers,20 - 28,1,23,3,Jumper
+104,Kentavious Caldwell-Pope,DEFENSIVE_REBOUND,None,1:03,1,Lakers,Mavericks,20 - 28,0,N/A,N/A,N/A
+105,Ivica Zubac,FG_ASSISTED,Kentavious Caldwell-Pope,57.1,1,Lakers,Mavericks,22 - 28,0,4,2,Jumper
+106,J.J. Barea,FG_UNASSISTED,None,46.7,1,Mavericks,Lakers,22 - 30,1,0,2,Layup
+107,Kentavious Caldwell-Pope,FG_ASSISTED,Kyle Kuzma,34.6,1,Lakers,Mavericks,25 - 30,0,22,3,Jumper
+108,Dwight Powell,FG_ASSISTED,Dirk Nowitzki,21.6,1,Mavericks,Lakers,25 - 33,1,25,3,Jumper
+109,Kyle Kuzma,FG_MISS,Dwight Powell,4.9,1,Mavericks,Lakers,25 - 33,0,0,2,Layup
+110,Team,OFFENSIVE_REBOUND,None,3.9,1,Lakers,Mavericks,25 - 33,0,N/A,N/A,N/A
+111,Maximilian Kleber,SUBSTITUTION,Nowitzki Dirk,3.9,1,Mavericks,Lakers,25 - 33,1,N/A,N/A,N/A
+112,Josh Hart,FG_MISS,None,2.6,1,Lakers,Mavericks,25 - 33,0,23,3,Jumper
+113,Dorian Finney-Smith,DEFENSIVE_REBOUND,None,1.6,1,Mavericks,Lakers,25 - 33,1,N/A,N/A,N/A
+114,End of,Unknown,None,0.0,1,Mavericks,Lakers,25 - 33,1,N/A,N/A,N/A
+0,Dirk Nowitzki,SUBSTITUTION,Kleber Maximilian,12:00,2,Mavericks,Lakers,25 - 33,1,N/A,N/A,N/A
+1,Sviatoslav Mykhailiuk,SUBSTITUTION,Kuzma Kyle,12:00,2,Lakers,Mavericks,25 - 33,0,N/A,N/A,N/A
+2,Lance Stephenson,SUBSTITUTION,Ball Lonzo,12:00,2,Lakers,Mavericks,25 - 33,0,N/A,N/A,N/A
+3,Tyson Chandler,SUBSTITUTION,Hart Josh,12:00,2,Lakers,Mavericks,25 - 33,0,N/A,N/A,N/A
+4,Michael Beasley,SUBSTITUTION,Zubac Ivica,12:00,2,Lakers,Mavericks,25 - 33,0,N/A,N/A,N/A
+5,Kentavious Caldwell-Pope,FG_MISS,None,11:51,2,Lakers,Mavericks,25 - 33,0,26,3,Jumper
+6,Dwight Powell,DEFENSIVE_REBOUND,None,11:47,2,Mavericks,Lakers,25 - 33,1,N/A,N/A,N/A
+7,Devin Harris,FG_ASSISTED,Dwight Powell,11:36,2,Mavericks,Lakers,25 - 35,1,18,2,Jumper
+8,Michael Beasley,FG_ASSISTED,Sviatoslav Mykhailiuk,11:13,2,Lakers,Mavericks,27 - 35,0,7,2,Jumper
+9,Dirk Nowitzki,FG_ASSISTED,J.J. Barea,10:58,2,Mavericks,Lakers,27 - 37,1,20,2,Jumper
+10,Michael Beasley,FG_UNASSISTED,None,10:40,2,Lakers,Mavericks,29 - 37,0, ,2,Jumper
+11,Tyson Chandler,FOUL_ON_FLOOR,None,10:23,2,Lakers,Mavericks,29 - 37,0,N/A,N/A,N/A
+12,Dwight Powell,FT,None,10:23,2,Mavericks,Lakers,29 - 38,1,N/A,1,N/A
+13,Dwight Powell,FT_MISS,None,10:23,2,Mavericks,Lakers,29 - 38,1,N/A,1,N/A
+14,Dorian Finney-Smith,OFFENSIVE_REBOUND,None,10:22,2,Mavericks,Lakers,29 - 38,1,N/A,N/A,N/A
+15,Dorian Finney-Smith,FG_UNASSISTED,None,10:20,2,Mavericks,Lakers,29 - 40,1,0,2,Dunk
+16,Lance Stephenson,FG_MISS,None,10:00,2,Lakers,Mavericks,29 - 40,0, ,3,Jumper
+17,Team,OFFENSIVE_REBOUND,None,10:00,2,Lakers,Mavericks,29 - 40,0,N/A,N/A,N/A
+18,Tyson Chandler,FG_MISS,Dirk Nowitzki,9:52,2,Mavericks,Lakers,29 - 40,0,7,2,Jumper
+19,Team,DEFENSIVE_REBOUND,None,9:52,2,Mavericks,Lakers,29 - 40,1,N/A,N/A,N/A
+20,Dorian Finney-Smith,TURNOVER,None,9:41,2,Mavericks,Lakers,29 - 40,1,N/A,N/A,N/A
+21,Lance Stephenson,FG_MISS,None,9:34,2,Lakers,Mavericks,29 - 40,0,26,3,Jumper
+22,Dorian Finney-Smith,DEFENSIVE_REBOUND,None,9:31,2,Mavericks,Lakers,29 - 40,1,N/A,N/A,N/A
+23,J.J. Barea,FG_MISS,None,9:20,2,Mavericks,Lakers,29 - 40,1, ,2,Jumper
+24,J.J. Barea,OFFENSIVE_REBOUND,None,9:17,2,Mavericks,Lakers,29 - 40,1,N/A,N/A,N/A
+25,J.J. Barea,FG_UNASSISTED,None,9:15,2,Mavericks,Lakers,29 - 42,1, ,2,Jumper
+26,Tyson Chandler,FG_ASSISTED,Lance Stephenson,9:06,2,Lakers,Mavericks,31 - 42,0,5,2,Jumper
+27,J.J. Barea,FG_MISS,None,8:56,2,Mavericks,Lakers,31 - 42,1,13,2,Jumper
+28,Dorian Finney-Smith,OFFENSIVE_REBOUND,None,8:56,2,Mavericks,Lakers,31 - 42,1,N/A,N/A,N/A
+29,Dorian Finney-Smith,FG_UNASSISTED,None,8:53,2,Mavericks,Lakers,31 - 44,1, ,2,Jumper
+30,Team,Unknown,None,8:53,2,Lakers,Mavericks,31 - 44,0,N/A,N/A,N/A
+31,Brandon Ingram,SUBSTITUTION,Stephenson Lance,8:53,2,Lakers,Mavericks,31 - 44,0,N/A,N/A,N/A
+32,Sviatoslav Mykhailiuk,FG_MISS,None,8:42,2,Lakers,Mavericks,31 - 44,0,25,3,Jumper
+33,Dirk Nowitzki,DEFENSIVE_REBOUND,None,8:38,2,Mavericks,Lakers,31 - 44,1,N/A,N/A,N/A
+34,Dirk Nowitzki,FG_MISS,None,8:27,2,Mavericks,Lakers,31 - 44,1,18,2,Jumper
+35,Dorian Finney-Smith,OFFENSIVE_REBOUND,None,8:23,2,Mavericks,Lakers,31 - 44,1,N/A,N/A,N/A
+36,Dorian Finney-Smith,FG_UNASSISTED,None,8:21,2,Mavericks,Lakers,31 - 46,1, ,2,Jumper
+37,Michael Beasley,FG_ASSISTED,Brandon Ingram,8:06,2,Lakers,Mavericks,33 - 46,0,17,2,Jumper
+38,Devin Harris,FG_MISS,None,7:54,2,Mavericks,Lakers,33 - 46,1, ,2,Jumper
+39,Dwight Powell,OFFENSIVE_REBOUND,None,7:53,2,Mavericks,Lakers,33 - 46,1,N/A,N/A,N/A
+40,Dwight Powell,FG_UNASSISTED,None,7:52,2,Mavericks,Lakers,33 - 48,1, ,2,Jumper
+41,Dirk Nowitzki,FOUL_ON_FLOOR,None,7:42,2,Mavericks,Lakers,33 - 48,1,N/A,N/A,N/A
+42,Brandon Ingram,FT,None,7:42,2,Lakers,Mavericks,34 - 48,0,N/A,1,N/A
+43,Kyle Kuzma,SUBSTITUTION,Mykhailiuk Sviatoslav,7:42,2,Lakers,Mavericks,34 - 48,0,N/A,N/A,N/A
+44,Josh Hart,SUBSTITUTION,Beasley Michael,7:42,2,Lakers,Mavericks,34 - 48,0,N/A,N/A,N/A
+45,Brandon Ingram,FT_MISS,None,7:42,2,Lakers,Mavericks,34 - 48,0,N/A,1,N/A
+46,Tyson Chandler,OFFENSIVE_REBOUND,None,7:39,2,Lakers,Mavericks,34 - 48,0,N/A,N/A,N/A
+47,Brandon Ingram,FG_ASSISTED,Tyson Chandler,7:28,2,Lakers,Mavericks,36 - 48,0,14,2,Jumper
+48,J.J. Barea,FG_UNASSISTED,None,6:58,2,Mavericks,Lakers,36 - 50,1,0,2,Layup
+49,Kyle Kuzma,FG_UNASSISTED,None,6:41,2,Lakers,Mavericks,38 - 50,0,2,2,Jumper
+50,Josh Hart,FOUL_ON_FLOOR,None,6:30,2,Lakers,Mavericks,38 - 50,0,N/A,N/A,N/A
+51,J.J. Barea,FT,None,6:30,2,Mavericks,Lakers,38 - 51,1,N/A,1,N/A
+52,Lonzo Ball,SUBSTITUTION,Caldwell-Pope Kentavious,6:30,2,Lakers,Mavericks,38 - 51,0,N/A,N/A,N/A
+53,J.J. Barea,FT_MISS,None,6:30,2,Mavericks,Lakers,38 - 51,1,N/A,1,N/A
+54,Brandon Ingram,DEFENSIVE_REBOUND,None,6:28,2,Lakers,Mavericks,38 - 51,0,N/A,N/A,N/A
+55,Brandon Ingram,FG_UNASSISTED,None,6:20,2,Lakers,Mavericks,40 - 51,0,0,2,Layup
+56,Dirk Nowitzki,FOUL_ON_FLOOR,None,6:20,2,Mavericks,Lakers,40 - 51,1,N/A,N/A,N/A
+57,Harrison Barnes,SUBSTITUTION,Powell Dwight,6:20,2,Mavericks,Lakers,40 - 51,1,N/A,N/A,N/A
+58,DeAndre Jordan,SUBSTITUTION,Nowitzki Dirk,6:20,2,Mavericks,Lakers,40 - 51,1,N/A,N/A,N/A
+59,Brandon Ingram,FT,None,6:20,2,Lakers,Mavericks,41 - 51,0,N/A,1,N/A
+60,J.J. Barea,FG_MISS,None,6:07,2,Mavericks,Lakers,41 - 51,1,8,2,Jumper
+61,Team,DEFENSIVE_REBOUND,None,6:06,2,Lakers,Mavericks,41 - 51,0,N/A,N/A,N/A
+62,JaVale McGee,SUBSTITUTION,Chandler Tyson,6:06,2,Lakers,Mavericks,41 - 51,0,N/A,N/A,N/A
+63,Brandon Ingram,FG_MISS,None,5:56,2,Lakers,Mavericks,41 - 51,0,12,2,Jumper
+64,Dorian Finney-Smith,DEFENSIVE_REBOUND,None,5:53,2,Mavericks,Lakers,41 - 51,1,N/A,N/A,N/A
+65,JaVale McGee,FOUL_TECHNICAL,None,5:44,2,Lakers,Mavericks,41 - 51,0,N/A,N/A,N/A
+66,Harrison Barnes,FT,None,5:44,2,Mavericks,Lakers,41 - 52,1,N/A,1,N/A
+67,Luka Doncic,SUBSTITUTION,Barea J.J.,5:44,2,Mavericks,Lakers,41 - 52,1,N/A,N/A,N/A
+68,Wesley Matthews,SUBSTITUTION,Finney-Smith Dorian,5:44,2,Mavericks,Lakers,41 - 52,1,N/A,N/A,N/A
+69,Dennis Smith,SUBSTITUTION,Harris Devin,5:44,2,Mavericks,Lakers,41 - 52,1,N/A,N/A,N/A
+70,Dennis Smith,TURNOVER,Josh Hart,5:34,2,Mavericks,Lakers,41 - 52,1,N/A,N/A,N/A
+71,Josh Hart,TURNOVER,Harrison Barnes,5:32,2,Lakers,Mavericks,41 - 52,0,N/A,N/A,N/A
+72,Kyle Kuzma,FOUL_ON_FLOOR,None,5:26,2,Lakers,Mavericks,41 - 52,0,N/A,N/A,N/A
+73,Luka Doncic,FT,None,5:26,2,Mavericks,Lakers,41 - 53,1,N/A,1,N/A
+74,Luka Doncic,FT,None,5:26,2,Mavericks,Lakers,41 - 54,1,N/A,1,N/A
+75,Kyle Kuzma,FG_MISS,None,5:14,2,Lakers,Mavericks,41 - 54,0,25,3,Jumper
+76,Kyle Kuzma,OFFENSIVE_REBOUND,None,5:10,2,Lakers,Mavericks,41 - 54,0,N/A,N/A,N/A
+77,Lonzo Ball,FG_ASSISTED,Josh Hart,4:59,2,Lakers,Mavericks,44 - 54,0,27,2,Jumper
+78,Wesley Matthews,TURNOVER,None,4:42,2,Mavericks,Lakers,44 - 54,1,N/A,N/A,N/A
+79,Kyle Kuzma,FG_MISS,None,4:26,2,Lakers,Mavericks,44 - 54,0, ,2,Jumper
+80,DeAndre Jordan,DEFENSIVE_REBOUND,None,4:24,2,Mavericks,Lakers,44 - 54,1,N/A,N/A,N/A
+81,Wesley Matthews,FG_ASSISTED,Dennis Smith,4:14,2,Mavericks,Lakers,44 - 57,1,23,3,Jumper
+82,Brandon Ingram,FG_MISS,None,4:12,2,Lakers,Mavericks,44 - 57,0,14,2,Jumper
+83,JaVale McGee,OFFENSIVE_REBOUND,None,3:57,2,Lakers,Mavericks,44 - 57,0,N/A,N/A,N/A
+84,Kyle Kuzma,FG_UNASSISTED,None,3:47,2,Lakers,Mavericks,46 - 57,0,3,2,Jumper
+85,Dennis Smith,FG_ASSISTED,Wesley Matthews,3:32,2,Mavericks,Lakers,46 - 60,1,26,3,Jumper
+86,JaVale McGee,TURNOVER,DeAndre Jordan,3:16,2,Lakers,Mavericks,46 - 60,0,N/A,N/A,N/A
+87,Dennis Smith,FG_MISS,None,3:11,2,Mavericks,Lakers,46 - 60,1, ,2,Jumper
+88,Josh Hart,DEFENSIVE_REBOUND,None,3:10,2,Lakers,Mavericks,46 - 60,0,N/A,N/A,N/A
+89,Luka Doncic,FOUL_ON_FLOOR,None,3:06,2,Mavericks,Lakers,46 - 60,1,N/A,N/A,N/A
+90,Kyle Kuzma,FT,None,3:06,2,Lakers,Mavericks,47 - 60,0,N/A,1,N/A
+91,Kyle Kuzma,FT_MISS,None,3:06,2,Lakers,Mavericks,47 - 60,0,N/A,1,N/A
+92,Luka Doncic,DEFENSIVE_REBOUND,None,3:04,2,Mavericks,Lakers,47 - 60,1,N/A,N/A,N/A
+93,JaVale McGee,FOUL_ON_FLOOR,None,2:54,2,Lakers,Mavericks,47 - 60,0,N/A,N/A,N/A
+94,Team,Unknown,None,2:54,2,Mavericks,Lakers,47 - 60,1,N/A,N/A,N/A
+95,Maximilian Kleber,SUBSTITUTION,Smith Dennis,2:54,2,Mavericks,Lakers,47 - 60,1,N/A,N/A,N/A
+96,DeAndre Jordan,FT,None,2:54,2,Mavericks,Lakers,47 - 61,1,N/A,1,N/A
+97,DeAndre Jordan,FT,None,2:54,2,Mavericks,Lakers,47 - 62,1,N/A,1,N/A
+98,Kyle Kuzma,FG_MISS,DeAndre Jordan,2:43,2,Mavericks,Lakers,47 - 62,0,7,2,Jumper
+99,Team,OFFENSIVE_REBOUND,None,2:41,2,Lakers,Mavericks,47 - 62,0,N/A,N/A,N/A
+100,Kyle Kuzma,FG_MISS,Maximilian Kleber,2:32,2,Mavericks,Lakers,47 - 62,0,11,2,Jumper
+101,Luka Doncic,DEFENSIVE_REBOUND,None,2:29,2,Mavericks,Lakers,47 - 62,1,N/A,N/A,N/A
+102,Luka Doncic,FG_MISS,None,2:20,2,Mavericks,Lakers,47 - 62,1,11,2,Jumper
+103,JaVale McGee,DEFENSIVE_REBOUND,None,2:17,2,Lakers,Mavericks,47 - 62,0,N/A,N/A,N/A
+104,Brandon Ingram,FG_ASSISTED,Josh Hart,2:11,2,Lakers,Mavericks,49 - 62,0, ,2,Jumper
+105,Luka Doncic,FG_UNASSISTED,None,1:50,2,Mavericks,Lakers,49 - 64,1,7,2,Jumper
+106,Josh Hart,FG_ASSISTED,Brandon Ingram,1:46,2,Lakers,Mavericks,51 - 64,0,4,2,Jumper
+107,Maximilian Kleber,FOUL_ON_FLOOR,None,1:46,2,Mavericks,Lakers,51 - 64,1,N/A,N/A,N/A
+108,Kentavious Caldwell-Pope,SUBSTITUTION,Kuzma Kyle,1:46,2,Lakers,Mavericks,51 - 64,0,N/A,N/A,N/A
+109,Josh Hart,FT,None,1:46,2,Lakers,Mavericks,52 - 64,0,N/A,1,N/A
+110,Wesley Matthews,FG_UNASSISTED,None,1:31,2,Mavericks,Lakers,52 - 66,1,15,2,Jumper
+111,Brandon Ingram,FG_MISS,None,1:19,2,Lakers,Mavericks,52 - 66,0,8,2,Jumper
+112,JaVale McGee,OFFENSIVE_REBOUND,None,1:17,2,Lakers,Mavericks,52 - 66,0,N/A,N/A,N/A
+113,JaVale McGee,FG_MISS,None,1:16,2,Lakers,Mavericks,52 - 66,0, ,2,Jumper
+114,DeAndre Jordan,DEFENSIVE_REBOUND,None,1:14,2,Mavericks,Lakers,52 - 66,1,N/A,N/A,N/A
+115,JaVale McGee,FOUL_ON_FLOOR,None,1:09,2,Lakers,Mavericks,52 - 66,0,N/A,N/A,N/A
+116,DeAndre Jordan,FT_MISS,None,1:09,2,Mavericks,Lakers,52 - 66,1,N/A,1,N/A
+117,Team,OFFENSIVE_REBOUND,None,1:09,2,Mavericks,Lakers,52 - 66,1,N/A,N/A,N/A
+118,DeAndre Jordan,FT_MISS,None,1:09,2,Mavericks,Lakers,52 - 66,1,N/A,1,N/A
+119,Josh Hart,DEFENSIVE_REBOUND,None,1:07,2,Lakers,Mavericks,52 - 66,0,N/A,N/A,N/A
+120,Josh Hart,FG_MISS,DeAndre Jordan,1:02,2,Mavericks,Lakers,52 - 66,0,3,2,Jumper
+121,Wesley Matthews,DEFENSIVE_REBOUND,None,59.1,2,Mavericks,Lakers,52 - 66,1,N/A,N/A,N/A
+122,Wesley Matthews,TURNOVER,Josh Hart,57.0,2,Mavericks,Lakers,52 - 66,1,N/A,N/A,N/A
+123,Kentavious Caldwell-Pope,FG_MISS,None,53.8,2,Lakers,Mavericks,52 - 66,0,26,3,Jumper
+124,Luka Doncic,DEFENSIVE_REBOUND,None,50.8,2,Mavericks,Lakers,52 - 66,1,N/A,N/A,N/A
+125,Josh Hart,FOUL_ON_FLOOR,None,34.5,2,Lakers,Mavericks,52 - 66,0,N/A,N/A,N/A
+126,Luka Doncic,FT_MISS,None,34.5,2,Mavericks,Lakers,52 - 66,1,N/A,1,N/A
+127,Team,OFFENSIVE_REBOUND,None,34.5,2,Mavericks,Lakers,52 - 66,1,N/A,N/A,N/A
+128,Kyle Kuzma,SUBSTITUTION,McGee JaVale,34.5,2,Lakers,Mavericks,52 - 66,0,N/A,N/A,N/A
+129,Luka Doncic,FT,None,34.5,2,Mavericks,Lakers,52 - 67,1,N/A,1,N/A
+130,Lonzo Ball,FG_MISS,None,28.8,2,Lakers,Mavericks,52 - 67,0,29,3,Jumper
+131,Harrison Barnes,DEFENSIVE_REBOUND,None,25.4,2,Mavericks,Lakers,52 - 67,1,N/A,N/A,N/A
+132,Luka Doncic,FG_MISS,None,5.3,2,Mavericks,Lakers,52 - 67,1, ,2,Jumper
+133,Lonzo Ball,DEFENSIVE_REBOUND,None,2.7,2,Lakers,Mavericks,52 - 67,0,N/A,N/A,N/A
+134,Josh Hart,FG_ASSISTED,Kyle Kuzma,0.4,2,Lakers,Mavericks,54 - 67,0,20,2,Jumper
+135,End of,Unknown,None,0.0,2,Mavericks,Lakers,54 - 67,1,N/A,N/A,N/A
+0,Dennis Smith,SUBSTITUTION,Kleber Maximilian,12:00,3,Mavericks,Lakers,54 - 67,1,N/A,N/A,N/A
+1,JaVale McGee,SUBSTITUTION,Caldwell-Pope Kentavious,12:00,3,Lakers,Mavericks,54 - 67,0,N/A,N/A,N/A
+2,JaVale McGee,FG_MISS,None,11:49,3,Lakers,Mavericks,54 - 67,0,8,2,Jumper
+3,DeAndre Jordan,DEFENSIVE_REBOUND,None,11:45,3,Mavericks,Lakers,54 - 67,1,N/A,N/A,N/A
+4,Harrison Barnes,TURNOVER,Brandon Ingram,11:32,3,Mavericks,Lakers,54 - 67,1,N/A,N/A,N/A
+5,Josh Hart,FG_MISS,None,11:25,3,Lakers,Mavericks,54 - 67,0,28,3,Jumper
+6,Luka Doncic,DEFENSIVE_REBOUND,None,11:22,3,Mavericks,Lakers,54 - 67,1,N/A,N/A,N/A
+7,Dennis Smith,FG_MISS,None,11:03,3,Mavericks,Lakers,54 - 67,1,0,2,Layup
+8,Lonzo Ball,DEFENSIVE_REBOUND,None,11:01,3,Lakers,Mavericks,54 - 67,0,N/A,N/A,N/A
+9,Kyle Kuzma,FG_ASSISTED,Brandon Ingram,10:58,3,Lakers,Mavericks,57 - 67,0,24,3,Jumper
+10,Wesley Matthews,FG_MISS,None,10:31,3,Mavericks,Lakers,57 - 67,1, ,3,Jumper
+11,Kyle Kuzma,DEFENSIVE_REBOUND,None,10:28,3,Lakers,Mavericks,57 - 67,0,N/A,N/A,N/A
+12,Lonzo Ball,FG_UNASSISTED,None,10:11,3,Lakers,Mavericks,59 - 67,0,21,2,Jumper
+13,Team,Unknown,None,10:10,3,Mavericks,Lakers,59 - 67,1,N/A,N/A,N/A
+14,Luka Doncic,FG_ASSISTED,Wesley Matthews,9:58,3,Mavericks,Lakers,59 - 69,1,0,2,Dunk
+15,Kyle Kuzma,FG_ASSISTED,Brandon Ingram,9:44,3,Lakers,Mavericks,62 - 69,0,26,3,Jumper
+16,Luka Doncic,FG_UNASSISTED,None,9:31,3,Mavericks,Lakers,62 - 71,1,3,2,Jumper
+17,Josh Hart,FG_MISS,None,9:20,3,Lakers,Mavericks,62 - 71,0,26,3,Jumper
+18,DeAndre Jordan,DEFENSIVE_REBOUND,None,9:17,3,Mavericks,Lakers,62 - 71,1,N/A,N/A,N/A
+19,Wesley Matthews,TURNOVER,Josh Hart,9:08,3,Mavericks,Lakers,62 - 71,1,N/A,N/A,N/A
+20,Kyle Kuzma,FG_MISS,None,9:03,3,Lakers,Mavericks,62 - 71,0,25,3,Jumper
+21,Brandon Ingram,OFFENSIVE_REBOUND,None,9:02,3,Lakers,Mavericks,62 - 71,0,N/A,N/A,N/A
+22,Brandon Ingram,FG_MISS,None,9:01,3,Lakers,Mavericks,62 - 71,0,9,2,Jumper
+23,DeAndre Jordan,DEFENSIVE_REBOUND,None,8:59,3,Mavericks,Lakers,62 - 71,1,N/A,N/A,N/A
+24,Harrison Barnes,FG_MISS,None,8:45,3,Mavericks,Lakers,62 - 71,1,15,2,Jumper
+25,JaVale McGee,DEFENSIVE_REBOUND,None,8:41,3,Lakers,Mavericks,62 - 71,0,N/A,N/A,N/A
+26,Brandon Ingram,FG_MISS,None,8:31,3,Lakers,Mavericks,62 - 71,0,0,2,Layup
+27,Luka Doncic,DEFENSIVE_REBOUND,None,8:29,3,Mavericks,Lakers,62 - 71,1,N/A,N/A,N/A
+28,Harrison Barnes,FG_MISS,None,8:26,3,Mavericks,Lakers,62 - 71,1,25,3,Jumper
+29,Lonzo Ball,DEFENSIVE_REBOUND,None,8:22,3,Lakers,Mavericks,62 - 71,0,N/A,N/A,N/A
+30,JaVale McGee,FG_ASSISTED,Lonzo Ball,8:13,3,Lakers,Mavericks,64 - 71,0, ,2,Jumper
+31,Brandon Ingram,FOUL_ON_FLOOR,None,7:57,3,Lakers,Mavericks,64 - 71,0,N/A,N/A,N/A
+32,Dennis Smith,FG_MISS,None,7:46,3,Mavericks,Lakers,64 - 71,1,14,2,Jumper
+33,JaVale McGee,DEFENSIVE_REBOUND,None,7:40,3,Lakers,Mavericks,64 - 71,0,N/A,N/A,N/A
+34,JaVale McGee,TURNOVER,Dennis Smith,7:28,3,Lakers,Mavericks,64 - 71,0,N/A,N/A,N/A
+35,Luka Doncic,FG_MISS,None,7:20,3,Mavericks,Lakers,64 - 71,1,27,3,Jumper
+36,JaVale McGee,DEFENSIVE_REBOUND,None,7:16,3,Lakers,Mavericks,64 - 71,0,N/A,N/A,N/A
+37,Wesley Matthews,FOUL_ON_FLOOR,None,7:02,3,Mavericks,Lakers,64 - 71,1,N/A,N/A,N/A
+38,Brandon Ingram,FT,None,7:02,3,Lakers,Mavericks,65 - 71,0,N/A,1,N/A
+39,Tyson Chandler,SUBSTITUTION,McGee JaVale,7:02,3,Lakers,Mavericks,65 - 71,0,N/A,N/A,N/A
+40,Brandon Ingram,FT,None,7:02,3,Lakers,Mavericks,66 - 71,0,N/A,1,N/A
+41,Luka Doncic,FG_UNASSISTED,None,6:43,3,Mavericks,Lakers,66 - 74,1,27,2,Jumper
+42,Luka Doncic,FOUL_TECHNICAL,None,6:20,3,Mavericks,Lakers,66 - 74,1,N/A,N/A,N/A
+43,Kyle Kuzma,FT,None,6:20,3,Lakers,Mavericks,67 - 74,0,N/A,1,N/A
+44,Kyle Kuzma,TURNOVER,None,6:11,3,Lakers,Mavericks,67 - 74,0,N/A,N/A,N/A
+45,Luka Doncic,FG_MISS,None,6:03,3,Mavericks,Lakers,67 - 74,1, ,2,Jumper
+46,Tyson Chandler,DEFENSIVE_REBOUND,None,5:59,3,Lakers,Mavericks,67 - 74,0,N/A,N/A,N/A
+47,Brandon Ingram,FG_UNASSISTED,None,5:53,3,Lakers,Mavericks,69 - 74,0,8,2,Jumper
+48,Dennis Smith,TURNOVER,Josh Hart,5:29,3,Mavericks,Lakers,69 - 74,1,N/A,N/A,N/A
+49,Wesley Matthews,FOUL_ON_FLOOR,None,5:26,3,Mavericks,Lakers,69 - 74,1,N/A,N/A,N/A
+50,Josh Hart,FT,None,5:26,3,Lakers,Mavericks,70 - 74,0,N/A,1,N/A
+51,J.J. Barea,SUBSTITUTION,Smith Dennis,5:26,3,Mavericks,Lakers,70 - 74,1,N/A,N/A,N/A
+52,Maximilian Kleber,SUBSTITUTION,Matthews Wesley,5:26,3,Mavericks,Lakers,70 - 74,1,N/A,N/A,N/A
+53,Josh Hart,FT,None,5:26,3,Lakers,Mavericks,71 - 74,0,N/A,1,N/A
+54,Harrison Barnes,FG_MISS,None,5:15,3,Mavericks,Lakers,71 - 74,1,26,3,Jumper
+55,Lonzo Ball,DEFENSIVE_REBOUND,None,5:11,3,Lakers,Mavericks,71 - 74,0,N/A,N/A,N/A
+56,Lonzo Ball,TURNOVER,Luka Doncic,5:01,3,Lakers,Mavericks,71 - 74,0,N/A,N/A,N/A
+57,Luka Doncic,TURNOVER,Brandon Ingram,4:48,3,Mavericks,Lakers,71 - 74,1,N/A,N/A,N/A
+58,Brandon Ingram,FG_ASSISTED,Tyson Chandler,4:45,3,Lakers,Mavericks,73 - 74,0,0,2,Dunk
+59,J.J. Barea,FG_UNASSISTED,None,4:23,3,Mavericks,Lakers,73 - 76,1,16,2,Jumper
+60,Brandon Ingram,FG_UNASSISTED,None,4:13,3,Lakers,Mavericks,75 - 76,0, ,2,Jumper
+61,Harrison Barnes,FG_MISS,Tyson Chandler,3:56,3,Lakers,Mavericks,75 - 76,1,8,2,Jumper
+62,Kyle Kuzma,DEFENSIVE_REBOUND,None,3:54,3,Lakers,Mavericks,75 - 76,0,N/A,N/A,N/A
+63,Lonzo Ball's,FG_MISS,Luka Doncic,3:50,3,Mavericks,Lakers,75 - 76,0, ,2,Jumper
+64,Lonzo Ball,OFFENSIVE_REBOUND,None,3:49,3,Lakers,Mavericks,75 - 76,0,N/A,N/A,N/A
+65,Lonzo Ball,FG_MISS,None,3:49,3,Lakers,Mavericks,75 - 76,0, ,2,Jumper
+66,Lonzo Ball,OFFENSIVE_REBOUND,None,3:48,3,Lakers,Mavericks,75 - 76,0,N/A,N/A,N/A
+67,DeAndre Jordan,FOUL_ON_FLOOR,None,3:47,3,Mavericks,Lakers,75 - 76,1,N/A,N/A,N/A
+68,Lonzo Ball,FT_MISS,None,3:47,3,Lakers,Mavericks,75 - 76,0,N/A,1,N/A
+69,Team,OFFENSIVE_REBOUND,None,3:47,3,Lakers,Mavericks,75 - 76,0,N/A,N/A,N/A
+70,Dwight Powell,SUBSTITUTION,Jordan DeAndre,3:47,3,Mavericks,Lakers,75 - 76,1,N/A,N/A,N/A
+71,Lonzo Ball,FT,None,3:47,3,Lakers,Mavericks,76 - 76,0,N/A,1,N/A
+72,Devin Harris,SUBSTITUTION,Doncic Luka,3:47,3,Mavericks,Lakers,76 - 76,1,N/A,N/A,N/A
+73,Brandon Ingram,FOUL_ON_FLOOR,None,3:32,3,Lakers,Mavericks,76 - 76,0,N/A,N/A,N/A
+74,Dorian Finney-Smith,SUBSTITUTION,Barnes Harrison,3:32,3,Mavericks,Lakers,76 - 76,1,N/A,N/A,N/A
+75,Dirk Nowitzki,SUBSTITUTION,Kleber Maximilian,3:32,3,Mavericks,Lakers,76 - 76,1,N/A,N/A,N/A
+76,Kentavious Caldwell-Pope,SUBSTITUTION,Ingram Brandon,3:32,3,Lakers,Mavericks,76 - 76,0,N/A,N/A,N/A
+77,J.J. Barea,FG_MISS,None,3:24,3,Mavericks,Lakers,76 - 76,1, ,2,Jumper
+78,Josh Hart,DEFENSIVE_REBOUND,None,3:20,3,Lakers,Mavericks,76 - 76,0,N/A,N/A,N/A
+79,Kyle Kuzma,FG_MISS,None,3:16,3,Lakers,Mavericks,76 - 76,0,24,3,Jumper
+80,Dorian Finney-Smith,DEFENSIVE_REBOUND,None,3:13,3,Mavericks,Lakers,76 - 76,1,N/A,N/A,N/A
+81,Devin Harris,FG_ASSISTED,Dirk Nowitzki,3:00,3,Mavericks,Lakers,76 - 78,1,18,2,Jumper
+82,Team,Unknown,None,2:57,3,Lakers,Mavericks,76 - 78,0,N/A,N/A,N/A
+83,Michael Beasley,SUBSTITUTION,Kuzma Kyle,2:57,3,Lakers,Mavericks,76 - 78,0,N/A,N/A,N/A
+84,Lonzo Ball,FG_ASSISTED,Josh Hart,2:42,3,Lakers,Mavericks,78 - 78,0,0,2,Dunk
+85,J.J. Barea,FG_UNASSISTED,None,2:28,3,Mavericks,Lakers,78 - 80,1,0,2,Layup
+86,Kentavious Caldwell-Pope,FG_MISS,None,2:13,3,Lakers,Mavericks,78 - 80,0, ,2,Jumper
+87,Devin Harris,DEFENSIVE_REBOUND,None,2:11,3,Mavericks,Lakers,78 - 80,1,N/A,N/A,N/A
+88,Devin Harris,FG_MISS,None,2:04,3,Mavericks,Lakers,78 - 80,1,25,3,Jumper
+89,Josh Hart,DEFENSIVE_REBOUND,None,2:00,3,Lakers,Mavericks,78 - 80,0,N/A,N/A,N/A
+90,Michael Beasley,FG_ASSISTED,Lonzo Ball,1:54,3,Lakers,Mavericks,80 - 80,0,4,2,Jumper
+91,Dwight Powell,FOUL_ON_FLOOR,None,1:54,3,Mavericks,Lakers,80 - 80,1,N/A,N/A,N/A
+92,Michael Beasley,FT_MISS,None,1:54,3,Lakers,Mavericks,80 - 80,0,N/A,1,N/A
+93,Dwight Powell,DEFENSIVE_REBOUND,None,1:52,3,Mavericks,Lakers,80 - 80,1,N/A,N/A,N/A
+94,Dirk Nowitzki,FG_MISS,None,1:40,3,Mavericks,Lakers,80 - 80,1,24,3,Jumper
+95,Team,DEFENSIVE_REBOUND,None,1:38,3,Lakers,Mavericks,80 - 80,0,N/A,N/A,N/A
+96,Lonzo Ball,FG_MISS,None,1:29,3,Lakers,Mavericks,80 - 80,0,27,3,Jumper
+97,Dwight Powell,DEFENSIVE_REBOUND,None,1:25,3,Mavericks,Lakers,80 - 80,1,N/A,N/A,N/A
+98,J.J. Barea,FG_MISS,None,1:18,3,Mavericks,Lakers,80 - 80,1,27,3,Jumper
+99,Josh Hart,DEFENSIVE_REBOUND,None,1:14,3,Lakers,Mavericks,80 - 80,0,N/A,N/A,N/A
+100,Lonzo Ball,FG_ASSISTED,Josh Hart,1:12,3,Lakers,Mavericks,82 - 80,0,0,2,Dunk
+101,Dwight Powell,FG_MISS,None,1:00,3,Mavericks,Lakers,82 - 80,1,27,3,Jumper
+102,Dwight Powell,OFFENSIVE_REBOUND,None,57.3,3,Mavericks,Lakers,82 - 80,1,N/A,N/A,N/A
+103,J.J. Barea,TURNOVER,None,54.1,3,Mavericks,Lakers,82 - 80,1,N/A,N/A,N/A
+104,Michael Beasley,FG_UNASSISTED,None,44.9,3,Lakers,Mavericks,84 - 80,0,6,2,Jumper
+105,Devin Harris,FG_MISS,None,30.1,3,Mavericks,Lakers,84 - 80,1,26,3,Jumper
+106,Josh Hart,DEFENSIVE_REBOUND,None,26.0,3,Lakers,Mavericks,84 - 80,0,N/A,N/A,N/A
+107,J.J. Barea,FOUL_ON_FLOOR,None,5.9,3,Mavericks,Lakers,84 - 80,1,N/A,N/A,N/A
+108,Michael Beasley,FT,None,5.9,3,Lakers,Mavericks,85 - 80,0,N/A,1,N/A
+109,Michael Beasley,FT,None,5.9,3,Lakers,Mavericks,86 - 80,0,N/A,1,N/A
+110,Devin Harris,FG_MISS,None,0.8,3,Mavericks,Lakers,86 - 80,1,28,3,Jumper
+111,Team,OFFENSIVE_REBOUND,None,0.3,3,Mavericks,Lakers,86 - 80,1,N/A,N/A,N/A
+112,End of,Unknown,None,0.0,3,Mavericks,Lakers,86 - 80,1,N/A,N/A,N/A
+0,Brandon Ingram,SUBSTITUTION,Ball Lonzo,12:00,4,Lakers,Mavericks,86 - 80,0,N/A,N/A,N/A
+1,Devin Harris,TURNOVER,None,11:47,4,Mavericks,Lakers,86 - 80,1,N/A,N/A,N/A
+2,Michael Beasley,FG_MISS,None,11:34,4,Lakers,Mavericks,86 - 80,0,10,2,Jumper
+3,Dirk Nowitzki,DEFENSIVE_REBOUND,None,11:31,4,Mavericks,Lakers,86 - 80,1,N/A,N/A,N/A
+4,Devin Harris,TURNOVER,Kentavious Caldwell-Pope,11:23,4,Mavericks,Lakers,86 - 80,1,N/A,N/A,N/A
+5,Kentavious Caldwell-Pope,FG_MISS,None,11:16,4,Lakers,Mavericks,86 - 80,0, ,2,Jumper
+6,Josh Hart,OFFENSIVE_REBOUND,None,11:15,4,Lakers,Mavericks,86 - 80,0,N/A,N/A,N/A
+7,Josh Hart,FG_UNASSISTED,None,11:14,4,Lakers,Mavericks,88 - 80,0, ,2,Jumper
+8,Team,Unknown,None,11:14,4,Mavericks,Lakers,88 - 80,1,N/A,N/A,N/A
+9,Luka Doncic,SUBSTITUTION,Finney-Smith Dorian,11:14,4,Mavericks,Lakers,88 - 80,1,N/A,N/A,N/A
+10,Wesley Matthews,SUBSTITUTION,Harris Devin,11:14,4,Mavericks,Lakers,88 - 80,1,N/A,N/A,N/A
+11,Josh Hart,FOUL_ON_FLOOR,None,11:06,4,Lakers,Mavericks,88 - 80,0,N/A,N/A,N/A
+12,Luka Doncic,FG_UNASSISTED,None,11:00,4,Mavericks,Lakers,88 - 82,1,11,2,Jumper
+13,Brandon Ingram,FG_ASSISTED,Michael Beasley,10:43,4,Lakers,Mavericks,90 - 82,0,2,2,Jumper
+14,J.J. Barea,FG_MISS,Michael Beasley,10:20,4,Lakers,Mavericks,90 - 82,1,23,3,Jumper
+15,Team,OFFENSIVE_REBOUND,None,10:18,4,Mavericks,Lakers,90 - 82,1,N/A,N/A,N/A
+16,shot clock,TURNOVER,None,10:18,4,Mavericks,Lakers,90 - 82,1,N/A,N/A,N/A
+17,Dwight Powell,FOUL_ON_FLOOR,None,10:00,4,Mavericks,Lakers,90 - 82,1,N/A,N/A,N/A
+18,Michael Beasley,FT_MISS,None,10:00,4,Lakers,Mavericks,90 - 82,0,N/A,1,N/A
+19,Team,OFFENSIVE_REBOUND,None,10:00,4,Lakers,Mavericks,90 - 82,0,N/A,N/A,N/A
+20,DeAndre Jordan,SUBSTITUTION,Powell Dwight,10:00,4,Mavericks,Lakers,90 - 82,1,N/A,N/A,N/A
+21,Harrison Barnes,SUBSTITUTION,Nowitzki Dirk,10:00,4,Mavericks,Lakers,90 - 82,1,N/A,N/A,N/A
+22,Michael Beasley,FT,None,10:00,4,Lakers,Mavericks,91 - 82,0,N/A,1,N/A
+23,Michael Beasley,FOUL_ON_FLOOR,None,9:52,4,Lakers,Mavericks,91 - 82,0,N/A,N/A,N/A
+24,Kyle Kuzma,SUBSTITUTION,Beasley Michael,9:52,4,Lakers,Mavericks,91 - 82,0,N/A,N/A,N/A
+25,Harrison Barnes,FG_MISS,None,9:40,4,Mavericks,Lakers,91 - 82,1,0,2,Layup
+26,Harrison Barnes,OFFENSIVE_REBOUND,None,9:39,4,Mavericks,Lakers,91 - 82,1,N/A,N/A,N/A
+27,Harrison Barnes,FG_MISS,None,9:38,4,Mavericks,Lakers,91 - 82,1, ,2,Jumper
+28,Harrison Barnes,OFFENSIVE_REBOUND,None,9:36,4,Mavericks,Lakers,91 - 82,1,N/A,N/A,N/A
+29,Wesley Matthews,FG_MISS,None,9:33,4,Mavericks,Lakers,91 - 82,1,25,3,Jumper
+30,Josh Hart,DEFENSIVE_REBOUND,None,9:31,4,Lakers,Mavericks,91 - 82,0,N/A,N/A,N/A
+31,Team,Unknown,None,9:24,4,Lakers,Mavericks,91 - 82,0,N/A,N/A,N/A
+32,Josh Hart,FG_ASSISTED,Kentavious Caldwell-Pope,9:15,4,Lakers,Mavericks,94 - 82,0,26,3,Jumper
+33,Josh Hart,FOUL_ON_FLOOR,None,9:06,4,Lakers,Mavericks,94 - 82,0,N/A,N/A,N/A
+34,Dennis Smith,SUBSTITUTION,Barea J.J.,9:06,4,Mavericks,Lakers,94 - 82,1,N/A,N/A,N/A
+35,DeAndre Jordan,TURNOVER,Tyson Chandler,8:57,4,Mavericks,Lakers,94 - 82,1,N/A,N/A,N/A
+36,Brandon Ingram,FG_ASSISTED,Kentavious Caldwell-Pope,8:52,4,Lakers,Mavericks,96 - 82,0, ,2,Jumper
+37,DeAndre Jordan,TURNOVER,Tyson Chandler,8:40,4,Mavericks,Lakers,96 - 82,1,N/A,N/A,N/A
+38,Josh Hart,FG_MISS,None,8:17,4,Lakers,Mavericks,96 - 82,0, ,2,Jumper
+39,DeAndre Jordan,DEFENSIVE_REBOUND,None,8:15,4,Mavericks,Lakers,96 - 82,1,N/A,N/A,N/A
+40,DeAndre Jordan,FOUL_ON_FLOOR,None,8:06,4,Mavericks,Lakers,96 - 82,1,N/A,N/A,N/A
+41,DeAndre Jordan,TURNOVER,None,8:06,4,Mavericks,Lakers,96 - 82,1,N/A,N/A,N/A
+42,Brandon Ingram,FG_MISS,None,7:53,4,Lakers,Mavericks,96 - 82,0,21,2,Jumper
+43,Harrison Barnes,DEFENSIVE_REBOUND,None,7:48,4,Mavericks,Lakers,96 - 82,1,N/A,N/A,N/A
+44,Luka Doncic,FG_UNASSISTED,None,7:44,4,Mavericks,Lakers,96 - 85,1,26,3,Jumper
+45,Team,Unknown,None,7:44,4,Lakers,Mavericks,96 - 82,0,N/A,N/A,N/A
+46,Kyle Kuzma,FG_MISS,None,7:26,4,Lakers,Mavericks,96 - 85,0,25,3,Jumper
+47,DeAndre Jordan,DEFENSIVE_REBOUND,None,7:23,4,Mavericks,Lakers,96 - 85,1,N/A,N/A,N/A
+48,Dennis Smith,FG_MISS,None,7:09,4,Mavericks,Lakers,96 - 85,1,0,2,Layup
+49,Kyle Kuzma,DEFENSIVE_REBOUND,None,7:04,4,Lakers,Mavericks,96 - 85,0,N/A,N/A,N/A
+50,Dennis Smith,FOUL_ON_FLOOR,None,7:00,4,Mavericks,Lakers,96 - 85,1,N/A,N/A,N/A
+51,Lonzo Ball,SUBSTITUTION,Caldwell-Pope Kentavious,7:00,4,Lakers,Mavericks,96 - 85,0,N/A,N/A,N/A
+52,Brandon Ingram,FG_MISS,None,6:51,4,Lakers,Mavericks,96 - 85,0, ,2,Jumper
+53,Tyson Chandler,OFFENSIVE_REBOUND,None,6:47,4,Lakers,Mavericks,96 - 85,0,N/A,N/A,N/A
+54,Tyson Chandler,FOUL_ON_FLOOR,None,6:42,4,Lakers,Mavericks,96 - 85,0,N/A,N/A,N/A
+55,Tyson Chandler,TURNOVER,None,6:42,4,Lakers,Mavericks,96 - 85,0,N/A,N/A,N/A
+56,Luka Doncic,FG_MISS,None,6:27,4,Mavericks,Lakers,96 - 85,1,7,2,Jumper
+57,DeAndre Jordan,OFFENSIVE_REBOUND,None,6:26,4,Mavericks,Lakers,96 - 85,1,N/A,N/A,N/A
+58,DeAndre Jordan,FG_MISS,None,6:25,4,Mavericks,Lakers,96 - 85,1, ,2,Jumper
+59,Tyson Chandler,DEFENSIVE_REBOUND,None,6:23,4,Lakers,Mavericks,96 - 85,0,N/A,N/A,N/A
+60,Lonzo Ball,TURNOVER,Dennis Smith,6:09,4,Lakers,Mavericks,96 - 85,0,N/A,N/A,N/A
+61,Harrison Barnes,FG_MISS,None,6:03,4,Mavericks,Lakers,96 - 85,1,25,3,Jumper
+62,Luka Doncic,OFFENSIVE_REBOUND,None,5:58,4,Mavericks,Lakers,96 - 85,1,N/A,N/A,N/A
+63,Luka Doncic,FG_MISS,None,5:58,4,Mavericks,Lakers,96 - 85,1, ,2,Jumper
+64,Luka Doncic,OFFENSIVE_REBOUND,None,5:57,4,Mavericks,Lakers,96 - 85,1,N/A,N/A,N/A
+65,Luka Doncic,FG_UNASSISTED,None,5:56,4,Mavericks,Lakers,96 - 87,1, ,2,Jumper
+66,Luka Doncic,FOUL_ON_FLOOR,None,5:34,4,Mavericks,Lakers,96 - 87,1,N/A,N/A,N/A
+67,Brandon Ingram,FT,None,5:34,4,Lakers,Mavericks,97 - 87,0,N/A,1,N/A
+68,JaVale McGee,SUBSTITUTION,Chandler Tyson,5:34,4,Lakers,Mavericks,97 - 87,0,N/A,N/A,N/A
+69,Brandon Ingram,FT_MISS,None,5:34,4,Lakers,Mavericks,97 - 87,0,N/A,1,N/A
+70,DeAndre Jordan,DEFENSIVE_REBOUND,None,5:31,4,Mavericks,Lakers,97 - 87,1,N/A,N/A,N/A
+71,Lonzo Ball,FOUL_ON_FLOOR,None,5:14,4,Lakers,Mavericks,97 - 87,0,N/A,N/A,N/A
+72,DeAndre Jordan,FT,None,5:14,4,Mavericks,Lakers,97 - 88,1,N/A,1,N/A
+73,DeAndre Jordan,FT,None,5:14,4,Mavericks,Lakers,97 - 89,1,N/A,1,N/A
+74,JaVale McGee,FOUL_ON_FLOOR,None,5:02,4,Lakers,Mavericks,97 - 89,0,N/A,N/A,N/A
+75,JaVale McGee,TURNOVER,None,5:02,4,Lakers,Mavericks,97 - 89,0,N/A,N/A,N/A
+76,Luka Doncic,FG_MISS,None,4:46,4,Mavericks,Lakers,97 - 89,1, ,2,Jumper
+77,JaVale McGee,DEFENSIVE_REBOUND,None,4:40,4,Lakers,Mavericks,97 - 89,0,N/A,N/A,N/A
+78,Lonzo Ball,FG_ASSISTED,Kyle Kuzma,4:23,4,Lakers,Mavericks,100 - 89,0,27,3,Jumper
+79,Team,Unknown,None,4:22,4,Mavericks,Lakers,100 - 89,1,N/A,N/A,N/A
+80,Harrison Barnes,FG_UNASSISTED,None,4:06,4,Mavericks,Lakers,100 - 91,1, ,2,Jumper
+81,Brandon Ingram,TURNOVER,Dennis Smith,3:44,4,Lakers,Mavericks,100 - 91,0,N/A,N/A,N/A
+82,Lonzo Ball,FOUL_ON_FLOOR,None,3:32,4,Lakers,Mavericks,100 - 91,0,N/A,N/A,N/A
+83,Dennis Smith,FT_MISS,None,3:32,4,Mavericks,Lakers,100 - 91,1,N/A,1,N/A
+84,Team,OFFENSIVE_REBOUND,None,3:32,4,Mavericks,Lakers,100 - 91,1,N/A,N/A,N/A
+85,Dennis Smith,FT,None,3:32,4,Mavericks,Lakers,100 - 92,1,N/A,1,N/A
+86,Kyle Kuzma,FG_MISS,None,3:17,4,Lakers,Mavericks,100 - 92,0,29,3,Jumper
+87,Team,DEFENSIVE_REBOUND,None,3:15,4,Mavericks,Lakers,100 - 92,1,N/A,N/A,N/A
+88,Kyle Kuzma,FOUL_ON_FLOOR,None,3:05,4,Lakers,Mavericks,100 - 92,0,N/A,N/A,N/A
+89,Luka Doncic,FT_MISS,None,3:05,4,Mavericks,Lakers,100 - 92,1,N/A,1,N/A
+90,Team,OFFENSIVE_REBOUND,None,3:05,4,Mavericks,Lakers,100 - 92,1,N/A,N/A,N/A
+91,Luka Doncic,FT,None,3:05,4,Mavericks,Lakers,100 - 93,1,N/A,1,N/A
+92,JaVale McGee,FG_ASSISTED,Brandon Ingram,2:48,4,Lakers,Mavericks,102 - 93,0,0,2,Dunk
+93,Harrison Barnes,FG_MISS,None,2:34,4,Mavericks,Lakers,102 - 93,1,0,2,Layup
+94,DeAndre Jordan,OFFENSIVE_REBOUND,None,2:32,4,Mavericks,Lakers,102 - 93,1,N/A,N/A,N/A
+95,DeAndre Jordan,FG_UNASSISTED,None,2:31,4,Mavericks,Lakers,102 - 95,1, ,2,Jumper
+96,Brandon Ingram,FG_MISS,None,2:11,4,Lakers,Mavericks,102 - 95,0,17,2,Jumper
+97,DeAndre Jordan,DEFENSIVE_REBOUND,None,2:09,4,Mavericks,Lakers,102 - 95,1,N/A,N/A,N/A
+98,Luka Doncic,FG_MISS,None,2:00,4,Mavericks,Lakers,102 - 95,1,2,2,Jumper
+99,JaVale McGee,DEFENSIVE_REBOUND,None,1:57,4,Lakers,Mavericks,102 - 95,0,N/A,N/A,N/A
+100,JaVale McGee,FG_ASSISTED,Brandon Ingram,1:40,4,Lakers,Mavericks,104 - 95,0,0,2,Dunk
+101,Team,Unknown,None,1:40,4,Mavericks,Lakers,104 - 95,1,N/A,N/A,N/A
+102,Wesley Matthews,FG_MISS,None,1:28,4,Mavericks,Lakers,104 - 95,1,29,3,Jumper
+103,Team,DEFENSIVE_REBOUND,None,1:26,4,Lakers,Mavericks,104 - 95,0,N/A,N/A,N/A
+104,Luka Doncic,FOUL_ON_FLOOR,None,1:26,4,Mavericks,Lakers,104 - 95,1,N/A,N/A,N/A
+105,Lonzo Ball,FT_MISS,None,1:26,4,Lakers,Mavericks,104 - 95,0,N/A,1,N/A
+106,Team,OFFENSIVE_REBOUND,None,1:26,4,Lakers,Mavericks,104 - 95,0,N/A,N/A,N/A
+107,Lonzo Ball,FT_MISS,None,1:26,4,Lakers,Mavericks,104 - 95,0,N/A,1,N/A
+108,Team,DEFENSIVE_REBOUND,None,1:26,4,Mavericks,Lakers,104 - 95,1,N/A,N/A,N/A
+109,JaVale McGee,FOUL_ON_FLOOR,None,1:26,4,Lakers,Mavericks,104 - 95,0,N/A,N/A,N/A
+110,DeAndre Jordan,FT,None,1:26,4,Mavericks,Lakers,104 - 96,1,N/A,1,N/A
+111,Kentavious Caldwell-Pope,SUBSTITUTION,Ball Lonzo,1:26,4,Lakers,Mavericks,104 - 96,0,N/A,N/A,N/A
+112,DeAndre Jordan,FT,None,1:26,4,Mavericks,Lakers,104 - 97,1,N/A,1,N/A
+113,Brandon Ingram,FG_UNASSISTED,None,1:03,4,Lakers,Mavericks,106 - 97,0,2,2,Jumper
+114,Team,Unknown,None,1:03,4,Mavericks,Lakers,106 - 97,1,N/A,N/A,N/A
+115,Lonzo Ball,SUBSTITUTION,McGee JaVale,1:03,4,Lakers,Mavericks,106 - 97,0,N/A,N/A,N/A
+116,Wesley Matthews,FG_MISS,None,58.9,4,Mavericks,Lakers,106 - 97,1,27,3,Jumper
+117,Team,OFFENSIVE_REBOUND,None,56.5,4,Mavericks,Lakers,106 - 97,1,N/A,N/A,N/A
+118,Luka Doncic,FG_MISS,None,52.5,4,Mavericks,Lakers,106 - 97,1,27,3,Jumper
+119,Brandon Ingram,DEFENSIVE_REBOUND,None,48.4,4,Lakers,Mavericks,106 - 97,0,N/A,N/A,N/A
+120,Harrison Barnes,FOUL_ON_FLOOR,None,44.9,4,Mavericks,Lakers,106 - 97,1,N/A,N/A,N/A
+121,Kyle Kuzma,FT,None,44.9,4,Lakers,Mavericks,107 - 97,0,N/A,1,N/A
+122,Kyle Kuzma,FT_MISS,None,44.9,4,Lakers,Mavericks,107 - 97,0,N/A,1,N/A
+123,DeAndre Jordan,DEFENSIVE_REBOUND,None,43.5,4,Mavericks,Lakers,107 - 97,1,N/A,N/A,N/A
+124,Wesley Matthews,FG_MISS,None,36.5,4,Mavericks,Lakers,107 - 97,1,24,3,Jumper
+125,Josh Hart,DEFENSIVE_REBOUND,None,31.0,4,Lakers,Mavericks,107 - 97,0,N/A,N/A,N/A
+126,shot clock,TURNOVER,None,8.3,4,Lakers,Mavericks,107 - 97,0,N/A,N/A,N/A
+127,End of,Unknown,None,0.0,4,Mavericks,Lakers,107 - 97,1,N/A,N/A,N/A
+128,End of,Unknown,None,0.0,4,Mavericks,Lakers,107 - 97,1,N/A,N/A,N/A

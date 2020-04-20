@@ -1,0 +1,485 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Jonas Valanciunas,JUMP_BALL,None,12:00,1,Wizards,Grizzlies,0 - 0,1,N/A,N/A,N/A
+1,Trevor Ariza,FG_UNASSISTED,None,11:46,1,Wizards,Grizzlies,0 - 2,1,0,2,Layup
+2,Avery Bradley,FG_ASSISTED,Mike Conley,11:28,1,Grizzlies,Wizards,2 - 2,0,21,3,Jumper
+3,Bobby Portis,FG_ASSISTED,Bradley Beal,11:13,1,Wizards,Grizzlies,2 - 5,1,26,3,Jumper
+4,Jonas Valanciunas,FG_ASSISTED,Avery Bradley,11:00,1,Grizzlies,Wizards,4 - 5,0,0,2,Dunk
+5,Jeff Green,TURNOVER,Justin Holiday,10:46,1,Wizards,Grizzlies,4 - 5,1,N/A,N/A,N/A
+6,Justin Holiday,FG_UNASSISTED,None,10:39,1,Grizzlies,Wizards,6 - 5,0,0,2,Layup
+7,Bruno Caboclo,FOUL_ON_FLOOR,None,10:26,1,Grizzlies,Wizards,6 - 5,0,N/A,N/A,N/A
+8,Bobby Portis,FT_MISS,None,10:26,1,Wizards,Grizzlies,6 - 5,1,N/A,1,N/A
+9,Team,OFFENSIVE_REBOUND,None,10:26,1,Wizards,Grizzlies,6 - 5,1,N/A,N/A,N/A
+10,Bobby Portis,FT,None,10:26,1,Wizards,Grizzlies,6 - 6,1,N/A,1,N/A
+11,Bruno Caboclo,FG_ASSISTED,Avery Bradley,10:07,1,Grizzlies,Wizards,9 - 6,0,26,3,Jumper
+12,Bradley Beal,FG_ASSISTED,Tomas Satoransky,9:55,1,Wizards,Grizzlies,9 - 9,1,27,3,Jumper
+13,Mike Conley,FG_MISS,None,9:45,1,Grizzlies,Wizards,9 - 9,0,-,3,Jumper
+14,Bobby Portis,DEFENSIVE_REBOUND,None,9:41,1,Wizards,Grizzlies,9 - 9,1,N/A,N/A,N/A
+15,Bobby Portis,TURNOVER,Bruno Caboclo,9:39,1,Wizards,Grizzlies,9 - 9,1,N/A,N/A,N/A
+16,Justin Holiday,FG_ASSISTED,Avery Bradley,9:32,1,Grizzlies,Wizards,12 - 9,0,27,3,Jumper
+17,Bobby Portis,FG_MISS,None,9:21,1,Wizards,Grizzlies,12 - 9,1,0,2,Layup
+18,Bruno Caboclo,DEFENSIVE_REBOUND,None,9:21,1,Grizzlies,Wizards,12 - 9,0,N/A,N/A,N/A
+19,Bruno Caboclo,TURNOVER,Bradley Beal,9:13,1,Grizzlies,Wizards,12 - 9,0,N/A,N/A,N/A
+20,Bradley Beal,FG_UNASSISTED,None,9:11,1,Wizards,Grizzlies,12 - 14,1,27,3,Jumper
+21,Team,Unknown,None,9:11,1,Grizzlies,Wizards,12 - 14,0,N/A,N/A,N/A
+22,Jonas Valanciunas,FG_MISS,Bobby Portis,8:49,1,Wizards,Grizzlies,12 - 12,0,15,3,Jumper
+23,Tomas Satoransky,DEFENSIVE_REBOUND,None,8:46,1,Wizards,Grizzlies,12 - 12,1,N/A,N/A,N/A
+24,Bobby Portis,FG_MISS,None,8:44,1,Wizards,Grizzlies,12 - 12,1,0,2,Layup
+25,Bruno Caboclo,DEFENSIVE_REBOUND,None,8:37,1,Grizzlies,Wizards,12 - 12,0,N/A,N/A,N/A
+26,Avery Bradley,TURNOVER,Bobby Portis,8:35,1,Grizzlies,Wizards,12 - 12,0,N/A,N/A,N/A
+27,Bruno Caboclo,FOUL_ON_FLOOR,None,8:31,1,Grizzlies,Wizards,12 - 12,0,N/A,N/A,N/A
+28,Trevor Ariza,FT,None,8:31,1,Wizards,Grizzlies,12 - 13,1,N/A,1,N/A
+29,CJ Miles,SUBSTITUTION,Caboclo Bruno,8:31,1,Grizzlies,Wizards,12 - 13,0,N/A,N/A,N/A
+30,Trevor Ariza,FT_MISS,None,8:31,1,Wizards,Grizzlies,12 - 13,1,N/A,1,N/A
+31,Avery Bradley,DEFENSIVE_REBOUND,None,8:27,1,Grizzlies,Wizards,12 - 13,0,N/A,N/A,N/A
+32,Jonas Valanciunas,FG_ASSISTED,Justin Holiday,8:09,1,Grizzlies,Wizards,14 - 13,0,0,2,Dunk
+33,Tomas Satoransky,TURNOVER,CJ Miles,8:02,1,Wizards,Grizzlies,14 - 13,1,N/A,N/A,N/A
+34,Avery Bradley,FG_ASSISTED,Jonas Valanciunas,7:48,1,Grizzlies,Wizards,16 - 13,0, ,3,Jumper
+35,Bobby Portis,TURNOVER,None,7:30,1,Wizards,Grizzlies,16 - 13,1,N/A,N/A,N/A
+36,Team,Unknown,None,7:30,1,Wizards,Grizzlies,16 - 13,1,N/A,N/A,N/A
+37,Jonas Valanciunas,FG_UNASSISTED,None,7:09,1,Grizzlies,Wizards,18 - 13,0, ,3,Jumper
+38,Tomas Satoransky,FG_MISS,None,6:54,1,Wizards,Grizzlies,18 - 13,1,0,2,Layup
+39,CJ Miles,DEFENSIVE_REBOUND,None,6:50,1,Grizzlies,Wizards,18 - 13,0,N/A,N/A,N/A
+40,Mike Conley,FG_UNASSISTED,None,6:47,1,Grizzlies,Wizards,21 - 13,0,26,3,Jumper
+41,Team,Unknown,None,6:45,1,Wizards,Grizzlies,21 - 13,1,N/A,N/A,N/A
+42,Avery Bradley,FOUL_ON_FLOOR,None,6:30,1,Grizzlies,Wizards,21 - 13,0,N/A,N/A,N/A
+43,Bradley Beal,FT,None,6:30,1,Wizards,Grizzlies,21 - 14,1,N/A,1,N/A
+44,Bradley Beal,FT,None,6:30,1,Wizards,Grizzlies,21 - 15,1,N/A,1,N/A
+45,Justin Holiday,FG_MISS,Trevor Ariza,6:14,1,Wizards,Grizzlies,21 - 15,0,0,2,Layup
+46,Justin Holiday,OFFENSIVE_REBOUND,None,6:09,1,Grizzlies,Wizards,21 - 15,0,N/A,N/A,N/A
+47,Avery Bradley,FG_MISS,None,6:06,1,Grizzlies,Wizards,21 - 15,0,24,3,Jumper
+48,Bradley Beal,DEFENSIVE_REBOUND,None,6:06,1,Wizards,Grizzlies,21 - 15,1,N/A,N/A,N/A
+49,Trevor Ariza,FG_MISS,None,5:59,1,Wizards,Grizzlies,21 - 15,1,24,3,Jumper
+50,Team,OFFENSIVE_REBOUND,None,5:59,1,Wizards,Grizzlies,21 - 15,1,N/A,N/A,N/A
+51,Mike Conley,FOUL_ON_FLOOR,None,5:59,1,Grizzlies,Wizards,21 - 15,0,N/A,N/A,N/A
+52,Tomas Satoransky,FG_MISS,None,5:53,1,Wizards,Grizzlies,21 - 15,1,12,3,Jumper
+53,Jonas Valanciunas,DEFENSIVE_REBOUND,None,5:49,1,Grizzlies,Wizards,21 - 15,0,N/A,N/A,N/A
+54,Jeff Green,FOUL_ON_FLOOR,None,5:42,1,Wizards,Grizzlies,21 - 15,1,N/A,N/A,N/A
+55,Jonas Valanciunas,FG_MISS,None,5:27,1,Grizzlies,Wizards,21 - 15,0,15,3,Jumper
+56,Team,OFFENSIVE_REBOUND,None,5:27,1,Grizzlies,Wizards,21 - 15,0,N/A,N/A,N/A
+57,shot clock,TURNOVER,None,5:27,1,Grizzlies,Wizards,21 - 15,0,N/A,N/A,N/A
+58,Bobby Portis,FG_ASSISTED,Trevor Ariza,5:17,1,Wizards,Grizzlies,21 - 17,1,20,3,Jumper
+59,Mike Conley,FG_UNASSISTED,None,5:05,1,Grizzlies,Wizards,23 - 18,0,0,2,Layup
+60,Bobby Portis,FOUL_ON_FLOOR,None,5:05,1,Wizards,Grizzlies,23 - 18,1,N/A,N/A,N/A
+61,Troy Brown,SUBSTITUTION,Satoransky Tomas,5:05,1,Wizards,Grizzlies,23 - 17,1,N/A,N/A,N/A
+62,Joakim Noah,SUBSTITUTION,Valanciunas Jonas,5:05,1,Grizzlies,Wizards,23 - 17,0,N/A,N/A,N/A
+63,Mike Conley,FT,None,5:05,1,Grizzlies,Wizards,24 - 17,0,N/A,1,N/A
+64,Jeff Green,FG_ASSISTED,Bradley Beal,4:53,1,Wizards,Grizzlies,24 - 20,1,26,3,Jumper
+65,Troy Brown,FOUL_ON_FLOOR,None,4:44,1,Wizards,Grizzlies,24 - 20,1,N/A,N/A,N/A
+66,Mike Conley,FT_MISS,None,4:44,1,Grizzlies,Wizards,24 - 20,0,N/A,1,N/A
+67,Team,OFFENSIVE_REBOUND,None,4:44,1,Grizzlies,Wizards,24 - 20,0,N/A,N/A,N/A
+68,Jabari Parker,SUBSTITUTION,Portis Bobby,4:44,1,Wizards,Grizzlies,24 - 20,1,N/A,N/A,N/A
+69,Chandler Parsons,SUBSTITUTION,Holiday Justin,4:44,1,Grizzlies,Wizards,24 - 20,0,N/A,N/A,N/A
+70,Mike Conley,FT_MISS,None,4:44,1,Grizzlies,Wizards,24 - 20,0,N/A,1,N/A
+71,Trevor Ariza,DEFENSIVE_REBOUND,None,4:41,1,Wizards,Grizzlies,24 - 20,1,N/A,N/A,N/A
+72,Bradley Beal,FG_MISS,None,4:33,1,Wizards,Grizzlies,24 - 20,1,19,3,Jumper
+73,Joakim Noah,DEFENSIVE_REBOUND,None,4:30,1,Grizzlies,Wizards,24 - 20,0,N/A,N/A,N/A
+74,CJ Miles,FG_MISS,None,4:15,1,Grizzlies,Wizards,24 - 20,0,28,3,Jumper
+75,Trevor Ariza,DEFENSIVE_REBOUND,None,4:07,1,Wizards,Grizzlies,24 - 20,1,N/A,N/A,N/A
+76,Troy Brown,FG_MISS,None,4:04,1,Wizards,Grizzlies,24 - 20,1,10,3,Jumper
+77,Joakim Noah,DEFENSIVE_REBOUND,None,4:04,1,Grizzlies,Wizards,24 - 20,0,N/A,N/A,N/A
+78,Mike Conley,FG_ASSISTED,Chandler Parsons,3:58,1,Grizzlies,Wizards,27 - 20,0,23,3,Jumper
+79,Mike Conley,FOUL_TECHNICAL,None,3:39,1,Grizzlies,Wizards,27 - 20,0,N/A,N/A,N/A
+80,Bradley Beal,FT_MISS,None,3:39,1,Wizards,Grizzlies,27 - 20,1,N/A,1,N/A
+81,Team,OFFENSIVE_REBOUND,None,3:39,1,Wizards,Grizzlies,27 - 20,1,N/A,N/A,N/A
+82,Delon Wright,SUBSTITUTION,Conley Mike,3:39,1,Grizzlies,Wizards,27 - 20,0,N/A,N/A,N/A
+83,Bradley Beal,FG_ASSISTED,Jabari Parker,3:32,1,Wizards,Grizzlies,27 - 22,1,0,2,Layup
+84,CJ Miles,FG_MISS,None,3:22,1,Grizzlies,Wizards,27 - 22,0,27,3,Jumper
+85,Jabari Parker,DEFENSIVE_REBOUND,None,3:17,1,Wizards,Grizzlies,27 - 22,1,N/A,N/A,N/A
+86,Jeff Green,FG_MISS,None,3:07,1,Wizards,Grizzlies,27 - 22,1,24,3,Jumper
+87,Joakim Noah,DEFENSIVE_REBOUND,None,3:03,1,Grizzlies,Wizards,27 - 22,0,N/A,N/A,N/A
+88,Chandler Parsons,FG_ASSISTED,Avery Bradley,2:53,1,Grizzlies,Wizards,30 - 22,0,27,3,Jumper
+89,Bradley Beal,FG_UNASSISTED,None,2:38,1,Wizards,Grizzlies,30 - 25,1,24,3,Jumper
+90,Avery Bradley,FG_UNASSISTED,None,2:14,1,Grizzlies,Wizards,33 - 25,0,24,3,Jumper
+91,Bradley Beal,FG_UNASSISTED,None,2:03,1,Wizards,Grizzlies,33 - 28,1,26,3,Jumper
+92,Avery Bradley,FG_UNASSISTED,None,1:43,1,Grizzlies,Wizards,35 - 28,0,18,3,Jumper
+93,Trevor Ariza,FG_MISS,None,1:34,1,Wizards,Grizzlies,35 - 28,1,26,3,Jumper
+94,Chandler Parsons,DEFENSIVE_REBOUND,None,1:31,1,Grizzlies,Wizards,35 - 28,0,N/A,N/A,N/A
+95,Chandler Parsons,FG_MISS,None,1:26,1,Grizzlies,Wizards,35 - 28,0,26,3,Jumper
+96,Bradley Beal,DEFENSIVE_REBOUND,None,1:22,1,Wizards,Grizzlies,35 - 28,1,N/A,N/A,N/A
+97,Chandler Parsons,FOUL_ON_FLOOR,None,1:22,1,Grizzlies,Wizards,35 - 28,0,N/A,N/A,N/A
+98,Jabari Parker,FT,None,1:22,1,Wizards,Grizzlies,35 - 29,1,N/A,1,N/A
+99,Chasson Randle,SUBSTITUTION,Ariza Trevor,1:22,1,Wizards,Grizzlies,35 - 29,1,N/A,N/A,N/A
+100,Jabari Parker,FT,None,1:22,1,Wizards,Grizzlies,35 - 30,1,N/A,1,N/A
+101,Avery Bradley,FG_MISS,None,1:11,1,Grizzlies,Wizards,35 - 30,0, ,3,Jumper
+102,Jabari Parker,DEFENSIVE_REBOUND,None,1:05,1,Wizards,Grizzlies,35 - 30,1,N/A,N/A,N/A
+103,Jabari Parker,TURNOVER,Chandler Parsons,1:02,1,Wizards,Grizzlies,35 - 30,1,N/A,N/A,N/A
+104,CJ Miles,FG_MISS,None,50.4,1,Grizzlies,Wizards,35 - 30,0,0,2,Layup
+105,Troy Brown,DEFENSIVE_REBOUND,None,46.7,1,Wizards,Grizzlies,35 - 30,1,N/A,N/A,N/A
+106,Jabari Parker,FG_ASSISTED,Troy Brown,42.8,1,Wizards,Grizzlies,35 - 32,1,0,2,Dunk
+107,Joakim Noah,FG_ASSISTED,Avery Bradley,32.6,1,Grizzlies,Wizards,37 - 32,0,0,2,Dunk
+108,Jabari Parker,FG_ASSISTED,Bradley Beal,23.2,1,Wizards,Grizzlies,37 - 35,1,26,3,Jumper
+109,Avery Bradley,FG_MISS,None,3.7,1,Grizzlies,Wizards,37 - 35,0,23,3,Jumper
+110,Jabari Parker,DEFENSIVE_REBOUND,None,3.7,1,Wizards,Grizzlies,37 - 35,1,N/A,N/A,N/A
+111,End of,Unknown,None,0.0,1,Wizards,Grizzlies,37 - 35,1,N/A,N/A,N/A
+0,Thomas Bryant,SUBSTITUTION,Beal Bradley,12:00,2,Wizards,Grizzlies,37 - 35,1,N/A,N/A,N/A
+1,Tomas Satoransky,SUBSTITUTION,Green Jeff,12:00,2,Wizards,Grizzlies,37 - 35,1,N/A,N/A,N/A
+2,Tyler Dorsey,SUBSTITUTION,Bradley Avery,12:00,2,Grizzlies,Wizards,37 - 35,0,N/A,N/A,N/A
+3,Delon Wright,FG_UNASSISTED,None,11:49,2,Grizzlies,Wizards,39 - 35,0,0,2,Layup
+4,Jabari Parker,TURNOVER,Delon Wright,11:44,2,Wizards,Grizzlies,39 - 35,1,N/A,N/A,N/A
+5,Delon Wright,FG_UNASSISTED,None,11:40,2,Grizzlies,Wizards,41 - 35,0,0,2,Dunk
+6,Chandler Parsons,FOUL_ON_FLOOR,None,11:31,2,Grizzlies,Wizards,41 - 35,0,N/A,N/A,N/A
+7,Delon Wright,FOUL_ON_FLOOR,None,11:25,2,Grizzlies,Wizards,41 - 35,0,N/A,N/A,N/A
+8,Chasson Randle,FT,None,11:25,2,Wizards,Grizzlies,41 - 36,1,N/A,1,N/A
+9,Chasson Randle,FT,None,11:25,2,Wizards,Grizzlies,41 - 37,1,N/A,1,N/A
+10,CJ Miles,FG_MISS,None,11:06,2,Grizzlies,Wizards,41 - 37,0,18,3,Jumper
+11,Chandler Parsons,OFFENSIVE_REBOUND,None,11:02,2,Grizzlies,Wizards,41 - 37,0,N/A,N/A,N/A
+12,Tyler Dorsey,FG_ASSISTED,Delon Wright,10:59,2,Grizzlies,Wizards,44 - 37,0,24,3,Jumper
+13,Jabari Parker,FG_MISS,None,10:47,2,Wizards,Grizzlies,44 - 37,1,18,3,Jumper
+14,Delon Wright,DEFENSIVE_REBOUND,None,10:43,2,Grizzlies,Wizards,44 - 37,0,N/A,N/A,N/A
+15,Joakim Noah,FG_MISS,None,10:34,2,Grizzlies,Wizards,44 - 37,0,18,3,Jumper
+16,Thomas Bryant,DEFENSIVE_REBOUND,None,10:29,2,Wizards,Grizzlies,44 - 37,1,N/A,N/A,N/A
+17,Jabari Parker,FG_ASSISTED,Tomas Satoransky,10:23,2,Wizards,Grizzlies,44 - 39,1,0,2,Layup
+18,Joakim Noah,FOUL_ON_FLOOR,None,10:23,2,Grizzlies,Wizards,44 - 39,0,N/A,N/A,N/A
+19,Ivan Rabb,SUBSTITUTION,Miles CJ,10:23,2,Grizzlies,Wizards,44 - 39,0,N/A,N/A,N/A
+20,Jabari Parker,FT_MISS,None,10:23,2,Wizards,Grizzlies,44 - 39,1,N/A,1,N/A
+21,Ivan Rabb,DEFENSIVE_REBOUND,None,10:20,2,Grizzlies,Wizards,44 - 39,0,N/A,N/A,N/A
+22,Chandler Parsons,FG_ASSISTED,Delon Wright,10:00,2,Grizzlies,Wizards,47 - 39,0,26,3,Jumper
+23,Chasson Randle,FG_MISS,None,9:44,2,Wizards,Grizzlies,47 - 39,1,24,3,Jumper
+24,Chandler Parsons,DEFENSIVE_REBOUND,None,9:39,2,Grizzlies,Wizards,47 - 39,0,N/A,N/A,N/A
+25,Chandler Parsons,FG_ASSISTED,Joakim Noah,9:31,2,Grizzlies,Wizards,49 - 39,0,0,2,Layup
+26,Chasson Randle,FOUL_ON_FLOOR,None,9:31,2,Wizards,Grizzlies,49 - 39,1,N/A,N/A,N/A
+27,Chandler Parsons,FT,None,9:31,2,Grizzlies,Wizards,50 - 39,0,N/A,1,N/A
+28,Troy Brown,FG_UNASSISTED,None,9:11,2,Wizards,Grizzlies,50 - 41,1,21,3,Jumper
+29,Chasson Randle,FOUL_ON_FLOOR,None,8:54,2,Wizards,Grizzlies,50 - 41,1,N/A,N/A,N/A
+30,shot clock,TURNOVER,None,8:41,2,Grizzlies,Wizards,50 - 41,0,N/A,N/A,N/A
+31,Chasson Randle,FG_ASSISTED,Tomas Satoransky,8:34,2,Wizards,Grizzlies,50 - 43,1,1,3,Jumper
+32,Delon Wright,FG_MISS,None,8:25,2,Grizzlies,Wizards,50 - 43,0,0,2,Layup
+33,Thomas Bryant,DEFENSIVE_REBOUND,None,8:25,2,Wizards,Grizzlies,50 - 43,1,N/A,N/A,N/A
+34,Jabari Parker,FG_UNASSISTED,None,8:18,2,Wizards,Grizzlies,50 - 45,1,0,2,Dunk
+35,Chandler Parsons,FG_ASSISTED,Delon Wright,7:55,2,Grizzlies,Wizards,52 - 45,0,13,3,Jumper
+36,Thomas Bryant,FG_MISS,None,7:44,2,Wizards,Grizzlies,52 - 45,1,26,3,Jumper
+37,Chandler Parsons,DEFENSIVE_REBOUND,None,7:40,2,Grizzlies,Wizards,52 - 45,0,N/A,N/A,N/A
+38,Tyler Dorsey,FG_MISS,None,7:28,2,Grizzlies,Wizards,52 - 45,0,19,3,Jumper
+39,Thomas Bryant,DEFENSIVE_REBOUND,None,7:24,2,Wizards,Grizzlies,52 - 45,1,N/A,N/A,N/A
+40,Troy Brown,FG_MISS,None,7:10,2,Wizards,Grizzlies,52 - 45,1,18,3,Jumper
+41,Tyler Dorsey,DEFENSIVE_REBOUND,None,7:05,2,Grizzlies,Wizards,52 - 45,0,N/A,N/A,N/A
+42,Ivan Rabb,FG_ASSISTED,Chandler Parsons,6:59,2,Grizzlies,Wizards,54 - 45,0,0,2,Layup
+43,Team,Unknown,None,6:59,2,Wizards,Grizzlies,54 - 45,1,N/A,N/A,N/A
+44,Bradley Beal,SUBSTITUTION,for game,6:59,2,Wizards,Grizzlies,54 - 45,1,N/A,N/A,N/A
+45,Bradley Beal,SUBSTITUTION,Brown Troy,6:59,2,Wizards,Grizzlies,54 - 45,1,N/A,N/A,N/A
+46,Jeff Green,SUBSTITUTION,Bryant Thomas,6:59,2,Wizards,Grizzlies,54 - 45,1,N/A,N/A,N/A
+47,Jonas Valanciunas,SUBSTITUTION,Noah Joakim,6:59,2,Grizzlies,Wizards,54 - 45,0,N/A,N/A,N/A
+48,enters the,SUBSTITUTION,Randle Chasson,6:59,2,Wizards,Grizzlies,54 - 45,1,N/A,N/A,N/A
+49,Jeff Green,FG_UNASSISTED,None,6:40,2,Wizards,Grizzlies,54 - 47,1,19,3,Jumper
+50,Chandler Parsons,FG_MISS,None,6:26,2,Grizzlies,Wizards,54 - 47,0,27,3,Jumper
+51,Jabari Parker,DEFENSIVE_REBOUND,None,6:17,2,Wizards,Grizzlies,54 - 47,1,N/A,N/A,N/A
+52,Tomas Satoransky,FG_ASSISTED,Bradley Beal,6:16,2,Wizards,Grizzlies,54 - 49,1,0,2,Layup
+53,Tyler Dorsey,FOUL_ON_FLOOR,None,6:16,2,Grizzlies,Wizards,54 - 49,0,N/A,N/A,N/A
+54,Justin Holiday,SUBSTITUTION,Dorsey Tyler,6:16,2,Grizzlies,Wizards,54 - 49,0,N/A,N/A,N/A
+55,Mike Conley,SUBSTITUTION,Parsons Chandler,6:16,2,Grizzlies,Wizards,54 - 49,0,N/A,N/A,N/A
+56,Avery Bradley,SUBSTITUTION,Wright Delon,6:16,2,Grizzlies,Wizards,54 - 49,0,N/A,N/A,N/A
+57,Tomas Satoransky,FT,None,6:16,2,Wizards,Grizzlies,54 - 50,1,N/A,1,N/A
+58,Jonas Valanciunas,FG_MISS,None,5:53,2,Grizzlies,Wizards,54 - 50,0,12,3,Jumper
+59,Bradley Beal,DEFENSIVE_REBOUND,None,5:49,2,Wizards,Grizzlies,54 - 50,1,N/A,N/A,N/A
+60,Bradley Beal,FG_ASSISTED,Jeff Green,5:45,2,Wizards,Grizzlies,54 - 53,1,26,3,Jumper
+61,Mike Conley,FG_UNASSISTED,None,5:30,2,Grizzlies,Wizards,56 - 53,0,0,2,Layup
+62,Bradley Beal,FOUL_ON_FLOOR,None,5:30,2,Wizards,Grizzlies,56 - 53,1,N/A,N/A,N/A
+63,Mike Conley,FT,None,5:30,2,Grizzlies,Wizards,57 - 53,0,N/A,1,N/A
+64,Tomas Satoransky,FG_MISS,None,5:18,2,Wizards,Grizzlies,57 - 53,1, ,3,Jumper
+65,Tomas Satoransky,OFFENSIVE_REBOUND,None,5:13,2,Wizards,Grizzlies,57 - 53,1,N/A,N/A,N/A
+66,Tomas Satoransky,FG_UNASSISTED,None,5:12,2,Wizards,Grizzlies,57 - 55,1,0,2,Layup
+67,Mike Conley,FG_MISS,None,5:08,2,Grizzlies,Wizards,57 - 55,0,26,3,Jumper
+68,Jabari Parker,DEFENSIVE_REBOUND,None,5:02,2,Wizards,Grizzlies,57 - 55,1,N/A,N/A,N/A
+69,Jabari Parker,TURNOVER,None,5:00,2,Wizards,Grizzlies,57 - 55,1,N/A,N/A,N/A
+70,Jonas Valanciunas,FG_ASSISTED,Mike Conley,4:42,2,Grizzlies,Wizards,59 - 55,0,0,2,Dunk
+71,Jeff Green,FG_ASSISTED,Tomas Satoransky,4:24,2,Wizards,Grizzlies,59 - 58,1,24,3,Jumper
+72,Avery Bradley,FG_MISS,None,4:11,2,Grizzlies,Wizards,59 - 58,0,26,3,Jumper
+73,Jabari Parker,DEFENSIVE_REBOUND,None,4:08,2,Wizards,Grizzlies,59 - 58,1,N/A,N/A,N/A
+74,Joakim Noah,SUBSTITUTION,Rabb Ivan,4:04,2,Grizzlies,Wizards,59 - 58,0,N/A,N/A,N/A
+75,Trevor Ariza,SUBSTITUTION,for game,4:04,2,Wizards,Grizzlies,59 - 58,1,N/A,N/A,N/A
+76,enters the,SUBSTITUTION,Parker Jabari,4:04,2,Wizards,Grizzlies,59 - 58,1,N/A,N/A,N/A
+77,Jeff Green,FG_MISS,None,3:52,2,Wizards,Grizzlies,59 - 58,1,26,3,Jumper
+78,Bobby Portis,OFFENSIVE_REBOUND,None,3:49,2,Wizards,Grizzlies,59 - 58,1,N/A,N/A,N/A
+79,Trevor Ariza,FG_MISS,None,3:39,2,Wizards,Grizzlies,59 - 58,1,0,2,Layup
+80,Joakim Noah,DEFENSIVE_REBOUND,None,3:36,2,Grizzlies,Wizards,59 - 58,0,N/A,N/A,N/A
+81,Avery Bradley,TURNOVER,Tomas Satoransky,3:28,2,Grizzlies,Wizards,59 - 58,0,N/A,N/A,N/A
+82,Bradley Beal,FG_MISS,None,3:22,2,Wizards,Grizzlies,59 - 58,1,25,3,Jumper
+83,Justin Holiday,DEFENSIVE_REBOUND,None,3:17,2,Grizzlies,Wizards,59 - 58,0,N/A,N/A,N/A
+84,Team,Unknown,None,3:13,2,Grizzlies,Wizards,59 - 58,0,N/A,N/A,N/A
+85,Mike Conley,TURNOVER,None,3:06,2,Grizzlies,Wizards,59 - 58,0,N/A,N/A,N/A
+86,Jeff Green,FG_MISS,None,2:48,2,Wizards,Grizzlies,59 - 58,1,24,3,Jumper
+87,Jonas Valanciunas,DEFENSIVE_REBOUND,None,2:44,2,Grizzlies,Wizards,59 - 58,0,N/A,N/A,N/A
+88,Jonas Valanciunas,FG_MISS,None,2:30,2,Grizzlies,Wizards,59 - 58,0,0,2,Layup
+89,Bobby Portis,DEFENSIVE_REBOUND,None,2:28,2,Wizards,Grizzlies,59 - 58,1,N/A,N/A,N/A
+90,Jeff Green,FG_ASSISTED,Bobby Portis,2:24,2,Wizards,Grizzlies,59 - 60,1,0,2,Layup
+91,Mike Conley,FG_ASSISTED,Jonas Valanciunas,2:03,2,Grizzlies,Wizards,61 - 60,0,0,2,Layup
+92,Mike Conley,FOUL_ON_FLOOR,None,1:48,2,Grizzlies,Wizards,61 - 60,0,N/A,N/A,N/A
+93,Tomas Satoransky,FT,None,1:48,2,Wizards,Grizzlies,61 - 61,1,N/A,1,N/A
+94,Tomas Satoransky,FT,None,1:48,2,Wizards,Grizzlies,61 - 62,1,N/A,1,N/A
+95,Mike Conley,FG_UNASSISTED,None,1:41,2,Grizzlies,Wizards,63 - 62,0,0,2,Layup
+96,Tomas Satoransky,FOUL_ON_FLOOR,None,1:41,2,Wizards,Grizzlies,63 - 62,1,N/A,N/A,N/A
+97,Mike Conley,FT,None,1:41,2,Grizzlies,Wizards,64 - 62,0,N/A,1,N/A
+98,Trevor Ariza,FG_ASSISTED,Bobby Portis,1:28,2,Wizards,Grizzlies,64 - 65,1,26,3,Jumper
+99,Justin Holiday,FG_ASSISTED,Jonas Valanciunas,1:05,2,Grizzlies,Wizards,66 - 65,0,0,2,Layup
+100,Jonas Valanciunas,FOUL_ON_FLOOR,None,58.0,2,Grizzlies,Wizards,66 - 65,0,N/A,N/A,N/A
+101,Tomas Satoransky,FT,None,58.0,2,Wizards,Grizzlies,66 - 66,1,N/A,1,N/A
+102,Tomas Satoransky,FT,None,58.0,2,Wizards,Grizzlies,66 - 67,1,N/A,1,N/A
+103,Joakim Noah,FG_ASSISTED,Mike Conley,41.6,2,Grizzlies,Wizards,68 - 67,0, ,3,Jumper
+104,Bobby Portis,FG_MISS,None,36.9,2,Wizards,Grizzlies,68 - 67,1,25,3,Jumper
+105,Joakim Noah,DEFENSIVE_REBOUND,None,33.0,2,Grizzlies,Wizards,68 - 67,0,N/A,N/A,N/A
+106,Bobby Portis,FOUL_ON_FLOOR,None,26.4,2,Wizards,Grizzlies,68 - 67,1,N/A,N/A,N/A
+107,Joakim Noah,FT,None,26.4,2,Grizzlies,Wizards,69 - 67,0,N/A,1,N/A
+108,Delon Wright,SUBSTITUTION,Valanciunas Jonas,26.4,2,Grizzlies,Wizards,69 - 67,0,N/A,N/A,N/A
+109,Joakim Noah,FT_MISS,None,26.4,2,Grizzlies,Wizards,69 - 67,0,N/A,1,N/A
+110,Bobby Portis,DEFENSIVE_REBOUND,None,22.9,2,Wizards,Grizzlies,69 - 67,1,N/A,N/A,N/A
+111,Trevor Ariza,FG_MISS,None,7.9,2,Wizards,Grizzlies,69 - 67,1,23,3,Jumper
+112,Bobby Portis,OFFENSIVE_REBOUND,None,4.2,2,Wizards,Grizzlies,69 - 67,1,N/A,N/A,N/A
+113,Bobby Portis,FG_UNASSISTED,None,4.2,2,Wizards,Grizzlies,69 - 69,1,0,2,Layup
+114,Mike Conley,FG_UNASSISTED,None,0.4,2,Grizzlies,Wizards,71 - 69,0,9,3,Jumper
+115,End of,Unknown,None,0.0,2,Wizards,Grizzlies,71 - 69,1,N/A,N/A,N/A
+0,Bruno Caboclo,SUBSTITUTION,Noah Joakim,12:00,3,Grizzlies,Wizards,71 - 69,0,N/A,N/A,N/A
+1,Jonas Valanciunas,SUBSTITUTION,Wright Delon,12:00,3,Grizzlies,Wizards,71 - 69,0,N/A,N/A,N/A
+2,Jonas Valanciunas,FG_ASSISTED,Bruno Caboclo,11:48,3,Grizzlies,Wizards,73 - 69,0,9,3,Jumper
+3,Bradley Beal,FG_ASSISTED,Tomas Satoransky,11:32,3,Wizards,Grizzlies,73 - 72,1,26,3,Jumper
+4,Bruno Caboclo,FG_MISS,None,11:19,3,Grizzlies,Wizards,73 - 72,0,26,3,Jumper
+5,Justin Holiday,OFFENSIVE_REBOUND,None,11:16,3,Grizzlies,Wizards,73 - 72,0,N/A,N/A,N/A
+6,Justin Holiday,FG_MISS,None,11:15,3,Grizzlies,Wizards,73 - 72,0,12,3,Jumper
+7,Bobby Portis,DEFENSIVE_REBOUND,None,11:12,3,Wizards,Grizzlies,73 - 72,1,N/A,N/A,N/A
+8,Bobby Portis,FG_ASSISTED,Tomas Satoransky,11:03,3,Wizards,Grizzlies,73 - 75,1,26,3,Jumper
+9,Jonas Valanciunas,FG_ASSISTED,Mike Conley,10:51,3,Grizzlies,Wizards,75 - 75,0,0,2,Layup
+10,Bobby Portis,FG_ASSISTED,Tomas Satoransky,10:36,3,Wizards,Grizzlies,75 - 77,1,21,3,Jumper
+11,Bobby Portis,FOUL_ON_FLOOR,None,10:22,3,Wizards,Grizzlies,75 - 77,1,N/A,N/A,N/A
+12,Avery Bradley,FG_ASSISTED,Mike Conley,10:08,3,Grizzlies,Wizards,77 - 77,0,18,3,Jumper
+13,Jonas Valanciunas,FOUL_ON_FLOOR,None,9:48,3,Grizzlies,Wizards,77 - 77,0,N/A,N/A,N/A
+14,Bradley Beal,FT,None,9:48,3,Wizards,Grizzlies,77 - 78,1,N/A,1,N/A
+15,Bradley Beal,FT_MISS,None,9:48,3,Wizards,Grizzlies,77 - 78,1,N/A,1,N/A
+16,Bruno Caboclo,DEFENSIVE_REBOUND,None,9:45,3,Grizzlies,Wizards,77 - 78,0,N/A,N/A,N/A
+17,Jonas Valanciunas,TURNOVER,Trevor Ariza,9:28,3,Grizzlies,Wizards,77 - 78,0,N/A,N/A,N/A
+18,Bobby Portis,FG_ASSISTED,Jeff Green,9:25,3,Wizards,Grizzlies,77 - 80,1,0,2,Layup
+19,Justin Holiday,FG_MISS,Trevor Ariza,9:13,3,Wizards,Grizzlies,77 - 80,0,24,3,Jumper
+20,Trevor Ariza,DEFENSIVE_REBOUND,None,9:13,3,Wizards,Grizzlies,77 - 80,1,N/A,N/A,N/A
+21,Bradley Beal,FG_UNASSISTED,None,8:59,3,Wizards,Grizzlies,77 - 83,1,27,3,Jumper
+22,Team,Unknown,None,8:57,3,Grizzlies,Wizards,77 - 83,0,N/A,N/A,N/A
+23,Delon Wright,SUBSTITUTION,Holiday Justin,8:57,3,Grizzlies,Wizards,77 - 83,0,N/A,N/A,N/A
+24,Joakim Noah,SUBSTITUTION,Caboclo Bruno,8:57,3,Grizzlies,Wizards,77 - 83,0,N/A,N/A,N/A
+25,Chandler Parsons,SUBSTITUTION,Valanciunas Jonas,8:57,3,Grizzlies,Wizards,77 - 83,0,N/A,N/A,N/A
+26,Avery Bradley,FG_ASSISTED,Chandler Parsons,8:41,3,Grizzlies,Wizards,79 - 83,0, ,3,Jumper
+27,Tomas Satoransky,FG_MISS,None,8:18,3,Wizards,Grizzlies,79 - 83,1,15,3,Jumper
+28,Chandler Parsons,DEFENSIVE_REBOUND,None,8:15,3,Grizzlies,Wizards,79 - 83,0,N/A,N/A,N/A
+29,Avery Bradley,FG_ASSISTED,Mike Conley,8:09,3,Grizzlies,Wizards,81 - 83,0,0,2,Layup
+30,Trevor Ariza,FG_UNASSISTED,None,7:46,3,Wizards,Grizzlies,81 - 85,1,11,3,Jumper
+31,Chandler Parsons,FG_MISS,None,7:35,3,Grizzlies,Wizards,81 - 85,0,27,3,Jumper
+32,Bradley Beal,DEFENSIVE_REBOUND,None,7:30,3,Wizards,Grizzlies,81 - 85,1,N/A,N/A,N/A
+33,Mike Conley,FOUL_ON_FLOOR,None,7:28,3,Grizzlies,Wizards,81 - 85,0,N/A,N/A,N/A
+34,Bradley Beal,FT,None,7:28,3,Wizards,Grizzlies,81 - 86,1,N/A,1,N/A
+35,Bradley Beal,FT,None,7:28,3,Wizards,Grizzlies,81 - 87,1,N/A,1,N/A
+36,Avery Bradley,FG_ASSISTED,Mike Conley,7:06,3,Grizzlies,Wizards,84 - 87,0,28,3,Jumper
+37,Bobby Portis,FG_MISS,None,6:48,3,Wizards,Grizzlies,84 - 87,1,26,3,Jumper
+38,Mike Conley,DEFENSIVE_REBOUND,None,6:43,3,Grizzlies,Wizards,84 - 87,0,N/A,N/A,N/A
+39,Bradley Beal,FOUL_ON_FLOOR,None,6:42,3,Wizards,Grizzlies,84 - 87,1,N/A,N/A,N/A
+40,Chandler Parsons,FT_MISS,None,6:42,3,Grizzlies,Wizards,84 - 87,0,N/A,1,N/A
+41,Team,OFFENSIVE_REBOUND,None,6:42,3,Grizzlies,Wizards,84 - 87,0,N/A,N/A,N/A
+42,Chandler Parsons,FT,None,6:42,3,Grizzlies,Wizards,85 - 87,0,N/A,1,N/A
+43,Trevor Ariza,FG_MISS,None,6:29,3,Wizards,Grizzlies,85 - 87,1,27,3,Jumper
+44,Chandler Parsons,DEFENSIVE_REBOUND,None,6:25,3,Grizzlies,Wizards,85 - 87,0,N/A,N/A,N/A
+45,Jeff Green,FOUL_ON_FLOOR,None,6:15,3,Wizards,Grizzlies,85 - 87,1,N/A,N/A,N/A
+46,Joakim Noah,FT,None,6:15,3,Grizzlies,Wizards,86 - 87,0,N/A,1,N/A
+47,Joakim Noah,FT,None,6:15,3,Grizzlies,Wizards,87 - 87,0,N/A,1,N/A
+48,Tomas Satoransky,FG_MISS,Joakim Noah,5:54,3,Grizzlies,Wizards,87 - 87,1,0,2,Layup
+49,Mike Conley,DEFENSIVE_REBOUND,None,5:50,3,Grizzlies,Wizards,87 - 87,0,N/A,N/A,N/A
+50,Mike Conley,FG_MISS,None,5:47,3,Grizzlies,Wizards,87 - 87,0,16,3,Jumper
+51,Jeff Green,DEFENSIVE_REBOUND,None,5:44,3,Wizards,Grizzlies,87 - 87,1,N/A,N/A,N/A
+52,Trevor Ariza,FOUL_ON_FLOOR,None,5:44,3,Wizards,Grizzlies,87 - 87,1,N/A,N/A,N/A
+53,Trevor Ariza,TURNOVER,None,5:44,3,Wizards,Grizzlies,87 - 87,1,N/A,N/A,N/A
+54,Justin Holiday,SUBSTITUTION,Bradley Avery,5:44,3,Grizzlies,Wizards,87 - 87,0,N/A,N/A,N/A
+55,Joakim Noah,FG_ASSISTED,Mike Conley,5:34,3,Grizzlies,Wizards,89 - 87,0,0,2,Layup
+56,Joakim Noah,FOUL_ON_FLOOR,None,5:23,3,Grizzlies,Wizards,89 - 87,0,N/A,N/A,N/A
+57,Jeff Green,FG_ASSISTED,Bradley Beal,5:15,3,Wizards,Grizzlies,89 - 89,1,7,3,Jumper
+58,Jeff Green,FOUL_ON_FLOOR,None,5:05,3,Wizards,Grizzlies,89 - 89,1,N/A,N/A,N/A
+59,Justin Holiday,FT,None,5:05,3,Grizzlies,Wizards,90 - 89,0,N/A,1,N/A
+60,Troy Brown,SUBSTITUTION,Satoransky Tomas,5:05,3,Wizards,Grizzlies,90 - 89,1,N/A,N/A,N/A
+61,Jabari Parker,SUBSTITUTION,Green Jeff,5:05,3,Wizards,Grizzlies,90 - 89,1,N/A,N/A,N/A
+62,Justin Holiday,FT,None,5:05,3,Grizzlies,Wizards,91 - 89,0,N/A,1,N/A
+63,Joakim Noah,FOUL_ON_FLOOR,None,4:46,3,Grizzlies,Wizards,91 - 89,0,N/A,N/A,N/A
+64,Jabari Parker,FG_UNASSISTED,None,4:39,3,Wizards,Grizzlies,91 - 91,1,0,2,Layup
+65,Joakim Noah,FG_UNASSISTED,None,4:26,3,Grizzlies,Wizards,93 - 91,0, ,3,Jumper
+66,Jabari Parker,TURNOVER,None,4:14,3,Wizards,Grizzlies,93 - 91,1,N/A,N/A,N/A
+67,Mike Conley,FG_MISS,None,4:06,3,Grizzlies,Wizards,93 - 91,0,27,3,Jumper
+68,Troy Brown,DEFENSIVE_REBOUND,None,4:06,3,Wizards,Grizzlies,93 - 91,1,N/A,N/A,N/A
+69,Troy Brown,FG_UNASSISTED,None,3:58,3,Wizards,Grizzlies,93 - 93,1,0,2,Layup
+70,Chandler Parsons,FG_ASSISTED,Justin Holiday,3:44,3,Grizzlies,Wizards,95 - 93,0,21,3,Jumper
+71,Bobby Portis,FG_ASSISTED,Bradley Beal,3:28,3,Wizards,Grizzlies,95 - 96,1,27,3,Jumper
+72,Chandler Parsons,FG_ASSISTED,Mike Conley,3:18,3,Grizzlies,Wizards,97 - 96,0, ,3,Jumper
+73,Bradley Beal,FG_ASSISTED,Jabari Parker,3:00,3,Wizards,Grizzlies,97 - 99,1,27,3,Jumper
+74,Team,Unknown,None,2:57,3,Grizzlies,Wizards,97 - 99,0,N/A,N/A,N/A
+75,Thomas Bryant,SUBSTITUTION,Portis Bobby,2:57,3,Wizards,Grizzlies,97 - 99,1,N/A,N/A,N/A
+76,Tyler Dorsey,SUBSTITUTION,Conley Mike,2:57,3,Grizzlies,Wizards,97 - 99,0,N/A,N/A,N/A
+77,Ivan Rabb,SUBSTITUTION,Parsons Chandler,2:57,3,Grizzlies,Wizards,97 - 99,0,N/A,N/A,N/A
+78,Joakim Noah,TURNOVER,Bradley Beal,2:43,3,Grizzlies,Wizards,97 - 99,0,N/A,N/A,N/A
+79,Jabari Parker,FG_MISS,None,2:30,3,Wizards,Grizzlies,97 - 99,1, ,3,Jumper
+80,Tyler Dorsey,DEFENSIVE_REBOUND,None,2:27,3,Grizzlies,Wizards,97 - 99,0,N/A,N/A,N/A
+81,Troy Brown,FOUL_ON_FLOOR,None,2:22,3,Wizards,Grizzlies,97 - 99,1,N/A,N/A,N/A
+82,Tyler Dorsey,FT,None,2:22,3,Grizzlies,Wizards,98 - 99,0,N/A,1,N/A
+83,Jonas Valanciunas,SUBSTITUTION,Noah Joakim,2:22,3,Grizzlies,Wizards,98 - 99,0,N/A,N/A,N/A
+84,Tyler Dorsey,FT_MISS,None,2:22,3,Grizzlies,Wizards,98 - 99,0,N/A,1,N/A
+85,Thomas Bryant,DEFENSIVE_REBOUND,None,2:19,3,Wizards,Grizzlies,98 - 99,1,N/A,N/A,N/A
+86,Jabari Parker,FG_MISS,Ivan Rabb,1:57,3,Grizzlies,Wizards,98 - 99,1,27,3,Jumper
+87,Team,OFFENSIVE_REBOUND,None,1:57,3,Wizards,Grizzlies,98 - 99,1,N/A,N/A,N/A
+88,shot clock,TURNOVER,None,1:57,3,Wizards,Grizzlies,98 - 99,1,N/A,N/A,N/A
+89,Jonas Valanciunas,FG_UNASSISTED,None,1:40,3,Grizzlies,Wizards,100 - 99,0, ,3,Jumper
+90,Troy Brown,FG_MISS,None,1:24,3,Wizards,Grizzlies,100 - 99,1,17,3,Jumper
+91,Jonas Valanciunas,DEFENSIVE_REBOUND,None,1:21,3,Grizzlies,Wizards,100 - 99,0,N/A,N/A,N/A
+92,Delon Wright,FG_MISS,None,1:17,3,Grizzlies,Wizards,100 - 99,0,26,3,Jumper
+93,Trevor Ariza,DEFENSIVE_REBOUND,None,1:10,3,Wizards,Grizzlies,100 - 99,1,N/A,N/A,N/A
+94,Justin Holiday,FOUL_ON_FLOOR,None,1:06,3,Grizzlies,Wizards,100 - 99,0,N/A,N/A,N/A
+95,Bradley Beal,FT,None,1:06,3,Wizards,Grizzlies,100 - 100,1,N/A,1,N/A
+96,Chasson Randle,SUBSTITUTION,Ariza Trevor,1:06,3,Wizards,Grizzlies,100 - 100,1,N/A,N/A,N/A
+97,Bradley Beal,FT,None,1:06,3,Wizards,Grizzlies,100 - 101,1,N/A,1,N/A
+98,Jonas Valanciunas,FG_ASSISTED,Justin Holiday,52.0,3,Grizzlies,Wizards,102 - 101,0,0,2,Dunk
+99,Ivan Rabb,FOUL_ON_FLOOR,None,41.1,3,Grizzlies,Wizards,102 - 101,0,N/A,N/A,N/A
+100,Thomas Bryant,FT,None,41.1,3,Wizards,Grizzlies,102 - 102,1,N/A,1,N/A
+101,Thomas Bryant,FT,None,41.1,3,Wizards,Grizzlies,102 - 103,1,N/A,1,N/A
+102,Chasson Randle,FOUL_ON_FLOOR,None,18.8,3,Wizards,Grizzlies,102 - 103,1,N/A,N/A,N/A
+103,Delon Wright,FT_MISS,None,18.8,3,Grizzlies,Wizards,102 - 103,0,N/A,1,N/A
+104,Team,OFFENSIVE_REBOUND,None,18.8,3,Grizzlies,Wizards,102 - 103,0,N/A,N/A,N/A
+105,Avery Bradley,SUBSTITUTION,Rabb Ivan,18.8,3,Grizzlies,Wizards,102 - 103,0,N/A,N/A,N/A
+106,Joakim Noah,SUBSTITUTION,Valanciunas Jonas,18.8,3,Grizzlies,Wizards,102 - 103,0,N/A,N/A,N/A
+107,Delon Wright,FT,None,18.8,3,Grizzlies,Wizards,103 - 103,0,N/A,1,N/A
+108,Bradley Beal,FG_MISS,None,4.0,3,Wizards,Grizzlies,103 - 103,1,26,3,Jumper
+109,Jabari Parker,OFFENSIVE_REBOUND,None,0.5,3,Wizards,Grizzlies,103 - 103,1,N/A,N/A,N/A
+110,Thomas Bryant,FG_UNASSISTED,None,0.5,3,Wizards,Grizzlies,103 - 105,1,0,2,Dunk
+111,End of,Unknown,None,0.0,3,Wizards,Grizzlies,103 - 105,1,N/A,N/A,N/A
+0,Tomas Satoransky,SUBSTITUTION,Beal Bradley,12:00,4,Wizards,Grizzlies,103 - 105,1,N/A,N/A,N/A
+1,Jonas Valanciunas,SUBSTITUTION,Wright Delon,12:00,4,Grizzlies,Wizards,103 - 105,0,N/A,N/A,N/A
+2,Ivan Rabb,SUBSTITUTION,Bradley Avery,12:00,4,Grizzlies,Wizards,103 - 105,0,N/A,N/A,N/A
+3,Mike Conley,SUBSTITUTION,Noah Joakim,12:00,4,Grizzlies,Wizards,103 - 105,0,N/A,N/A,N/A
+4,shot clock,TURNOVER,None,11:35,4,Wizards,Grizzlies,103 - 105,1,N/A,N/A,N/A
+5,Troy Brown,FOUL_ON_FLOOR,None,11:25,4,Wizards,Grizzlies,103 - 105,1,N/A,N/A,N/A
+6,Jonas Valanciunas,FT,None,11:25,4,Grizzlies,Wizards,104 - 105,0,N/A,1,N/A
+7,Jonas Valanciunas,FT,None,11:25,4,Grizzlies,Wizards,105 - 105,0,N/A,1,N/A
+8,Jonas Valanciunas,FOUL_ON_FLOOR,None,11:15,4,Grizzlies,Wizards,105 - 105,0,N/A,N/A,N/A
+9,Troy Brown,FT,None,11:15,4,Wizards,Grizzlies,105 - 106,1,N/A,1,N/A
+10,Troy Brown,FT_MISS,None,11:15,4,Wizards,Grizzlies,105 - 106,1,N/A,1,N/A
+11,Jonas Valanciunas,DEFENSIVE_REBOUND,None,11:13,4,Grizzlies,Wizards,105 - 106,0,N/A,N/A,N/A
+12,Mike Conley,FG_MISS,None,10:57,4,Grizzlies,Wizards,105 - 106,0,25,3,Jumper
+13,Jabari Parker,DEFENSIVE_REBOUND,None,10:52,4,Wizards,Grizzlies,105 - 106,1,N/A,N/A,N/A
+14,Tyler Dorsey,FOUL_ON_FLOOR,None,10:52,4,Grizzlies,Wizards,105 - 106,0,N/A,N/A,N/A
+15,Jabari Parker,FT,None,10:52,4,Wizards,Grizzlies,105 - 107,1,N/A,1,N/A
+16,Jabari Parker,FT,None,10:52,4,Wizards,Grizzlies,105 - 108,1,N/A,1,N/A
+17,Tyler Dorsey,FG_ASSISTED,Justin Holiday,10:39,4,Grizzlies,Wizards,108 - 108,0,26,3,Jumper
+18,Jabari Parker,FG_ASSISTED,Troy Brown,10:21,4,Wizards,Grizzlies,108 - 110,1,0,2,Layup
+19,Mike Conley's,FG_MISS,Tomas Satoransky,10:08,4,Wizards,Grizzlies,108 - 110,0,0,2,Layup
+20,Team,OFFENSIVE_REBOUND,None,10:08,4,Grizzlies,Wizards,108 - 110,0,N/A,N/A,N/A
+21,Joakim Noah,SUBSTITUTION,Rabb Ivan,10:08,4,Grizzlies,Wizards,108 - 110,0,N/A,N/A,N/A
+22,Jabari Parker,FOUL_ON_FLOOR,None,10:02,4,Wizards,Grizzlies,108 - 110,1,N/A,N/A,N/A
+23,Jonas Valanciunas,TURNOVER,Jabari Parker,9:54,4,Grizzlies,Wizards,108 - 110,0,N/A,N/A,N/A
+24,Chasson Randle,FG_MISS,None,9:48,4,Wizards,Grizzlies,108 - 110,1,23,3,Jumper
+25,Joakim Noah,DEFENSIVE_REBOUND,None,9:44,4,Grizzlies,Wizards,108 - 110,0,N/A,N/A,N/A
+26,Tyler Dorsey,FG_MISS,None,9:34,4,Grizzlies,Wizards,108 - 110,0,28,3,Jumper
+27,Troy Brown,DEFENSIVE_REBOUND,None,9:29,4,Wizards,Grizzlies,108 - 110,1,N/A,N/A,N/A
+28,Thomas Bryant,FG_MISS,None,9:24,4,Wizards,Grizzlies,108 - 110,1,26,3,Jumper
+29,Tyler Dorsey,DEFENSIVE_REBOUND,None,9:19,4,Grizzlies,Wizards,108 - 110,0,N/A,N/A,N/A
+30,Joakim Noah,FG_ASSISTED,Tyler Dorsey,9:14,4,Grizzlies,Wizards,110 - 110,0,0,2,Layup
+31,Joakim Noah,FOUL_ON_FLOOR,None,8:52,4,Grizzlies,Wizards,110 - 110,0,N/A,N/A,N/A
+32,Thomas Bryant,FT,None,8:52,4,Wizards,Grizzlies,110 - 111,1,N/A,1,N/A
+33,Avery Bradley,SUBSTITUTION,Holiday Justin,8:52,4,Grizzlies,Wizards,110 - 111,0,N/A,N/A,N/A
+34,Chandler Parsons,SUBSTITUTION,Dorsey Tyler,8:52,4,Grizzlies,Wizards,110 - 111,0,N/A,N/A,N/A
+35,Thomas Bryant,FT,None,8:52,4,Wizards,Grizzlies,110 - 112,1,N/A,1,N/A
+36,Jonas Valanciunas,FG_MISS,None,8:28,4,Grizzlies,Wizards,110 - 112,0,0,2,Layup
+37,Jonas Valanciunas,OFFENSIVE_REBOUND,None,8:25,4,Grizzlies,Wizards,110 - 112,0,N/A,N/A,N/A
+38,Jonas Valanciunas,FG_MISS,None,8:24,4,Grizzlies,Wizards,110 - 112,0,0,2,Layup
+39,Jonas Valanciunas,OFFENSIVE_REBOUND,None,8:21,4,Grizzlies,Wizards,110 - 112,0,N/A,N/A,N/A
+40,Jonas Valanciunas,FG_MISS,Jabari Parker,8:19,4,Wizards,Grizzlies,110 - 112,0,0,2,Layup
+41,Troy Brown,DEFENSIVE_REBOUND,None,8:19,4,Wizards,Grizzlies,110 - 112,1,N/A,N/A,N/A
+42,Avery Bradley,FOUL_ON_FLOOR,None,8:15,4,Grizzlies,Wizards,110 - 112,0,N/A,N/A,N/A
+43,Thomas Bryant,FT,None,8:15,4,Wizards,Grizzlies,110 - 113,1,N/A,1,N/A
+44,Thomas Bryant,FT,None,8:15,4,Wizards,Grizzlies,110 - 114,1,N/A,1,N/A
+45,Joakim Noah's,FG_MISS,Thomas Bryant,7:58,4,Wizards,Grizzlies,110 - 114,0,1,3,Jumper
+46,Avery Bradley,OFFENSIVE_REBOUND,None,7:53,4,Grizzlies,Wizards,110 - 114,0,N/A,N/A,N/A
+47,Avery Bradley,FG_MISS,None,7:53,4,Grizzlies,Wizards,110 - 114,0,9,3,Jumper
+48,Tomas Satoransky,DEFENSIVE_REBOUND,None,7:51,4,Wizards,Grizzlies,110 - 114,1,N/A,N/A,N/A
+49,Jabari Parker,TURNOVER,None,7:49,4,Wizards,Grizzlies,110 - 114,1,N/A,N/A,N/A
+50,Joakim Noah,FG_ASSISTED,Mike Conley,7:41,4,Grizzlies,Wizards,112 - 114,0,0,2,Layup
+51,Team,Unknown,None,7:41,4,Wizards,Grizzlies,112 - 114,1,N/A,N/A,N/A
+52,Bradley Beal,SUBSTITUTION,Randle Chasson,7:41,4,Wizards,Grizzlies,112 - 114,1,N/A,N/A,N/A
+53,Tomas Satoransky,FG_MISS,None,7:21,4,Wizards,Grizzlies,112 - 114,1,18,3,Jumper
+54,Joakim Noah,DEFENSIVE_REBOUND,None,7:16,4,Grizzlies,Wizards,112 - 114,0,N/A,N/A,N/A
+55,Chandler Parsons,FG_MISS,None,7:02,4,Grizzlies,Wizards,112 - 114,0,27,3,Jumper
+56,Troy Brown,DEFENSIVE_REBOUND,None,6:57,4,Wizards,Grizzlies,112 - 114,1,N/A,N/A,N/A
+57,Jabari Parker,FG_MISS,Jonas Valanciunas,6:54,4,Grizzlies,Wizards,112 - 114,1,0,2,Layup
+58,Joakim Noah,DEFENSIVE_REBOUND,None,6:50,4,Grizzlies,Wizards,112 - 114,0,N/A,N/A,N/A
+59,Tomas Satoransky,FOUL_ON_FLOOR,None,6:43,4,Wizards,Grizzlies,112 - 114,1,N/A,N/A,N/A
+60,Mike Conley,FT,None,6:43,4,Grizzlies,Wizards,113 - 114,0,N/A,1,N/A
+61,Ivan Rabb,SUBSTITUTION,Valanciunas Jonas,6:43,4,Grizzlies,Wizards,113 - 114,0,N/A,N/A,N/A
+62,Mike Conley,FT,None,6:43,4,Grizzlies,Wizards,114 - 114,0,N/A,1,N/A
+63,Chandler Parsons,FOUL_ON_FLOOR,None,6:29,4,Grizzlies,Wizards,114 - 114,0,N/A,N/A,N/A
+64,Thomas Bryant,FT,None,6:29,4,Wizards,Grizzlies,114 - 115,1,N/A,1,N/A
+65,Jeff Green,SUBSTITUTION,Brown Troy,6:29,4,Wizards,Grizzlies,114 - 115,1,N/A,N/A,N/A
+66,Delon Wright,SUBSTITUTION,Conley Mike,6:29,4,Grizzlies,Wizards,114 - 115,0,N/A,N/A,N/A
+67,Thomas Bryant,FT,None,6:29,4,Wizards,Grizzlies,114 - 116,1,N/A,1,N/A
+68,Avery Bradley,FG_MISS,Thomas Bryant,6:13,4,Wizards,Grizzlies,114 - 116,0,0,2,Layup
+69,Jabari Parker,DEFENSIVE_REBOUND,None,6:09,4,Wizards,Grizzlies,114 - 116,1,N/A,N/A,N/A
+70,Bradley Beal,FG_ASSISTED,Jeff Green,6:04,4,Wizards,Grizzlies,114 - 119,1,25,3,Jumper
+71,Joakim Noah,TURNOVER,None,5:40,4,Grizzlies,Wizards,114 - 119,0,N/A,N/A,N/A
+72,Justin Holiday,SUBSTITUTION,Parsons Chandler,5:40,4,Grizzlies,Wizards,114 - 119,0,N/A,N/A,N/A
+73,Jabari Parker,FG_MISS,None,5:25,4,Wizards,Grizzlies,114 - 119,1,24,3,Jumper
+74,Thomas Bryant,OFFENSIVE_REBOUND,None,5:21,4,Wizards,Grizzlies,114 - 119,1,N/A,N/A,N/A
+75,Bradley Beal,FG_UNASSISTED,None,5:09,4,Wizards,Grizzlies,114 - 121,1,2,3,Jumper
+76,Team,Unknown,None,5:09,4,Grizzlies,Wizards,114 - 121,0,N/A,N/A,N/A
+77,Mike Conley,SUBSTITUTION,Rabb Ivan,5:09,4,Grizzlies,Wizards,114 - 121,0,N/A,N/A,N/A
+78,Jonas Valanciunas,SUBSTITUTION,Noah Joakim,5:09,4,Grizzlies,Wizards,114 - 121,0,N/A,N/A,N/A
+79,Jonas Valanciunas,FOUL_ON_FLOOR,None,4:59,4,Grizzlies,Wizards,114 - 121,0,N/A,N/A,N/A
+80,Thomas Bryant,FOUL_ON_FLOOR,None,4:55,4,Wizards,Grizzlies,114 - 121,1,N/A,N/A,N/A
+81,Mike Conley,FT,None,4:55,4,Grizzlies,Wizards,115 - 121,0,N/A,1,N/A
+82,Mike Conley,FT,None,4:55,4,Grizzlies,Wizards,116 - 121,0,N/A,1,N/A
+83,Jabari Parker,FG_MISS,None,4:35,4,Wizards,Grizzlies,116 - 121,1,0,2,Layup
+84,Thomas Bryant,OFFENSIVE_REBOUND,None,4:32,4,Wizards,Grizzlies,116 - 121,1,N/A,N/A,N/A
+85,Thomas Bryant,FG_MISS,None,4:31,4,Wizards,Grizzlies,116 - 121,1,0,2,Layup
+86,Jabari Parker,OFFENSIVE_REBOUND,None,4:30,4,Wizards,Grizzlies,116 - 121,1,N/A,N/A,N/A
+87,Tomas Satoransky,FG_MISS,None,4:26,4,Wizards,Grizzlies,116 - 121,1,13,3,Jumper
+88,Jonas Valanciunas,DEFENSIVE_REBOUND,None,4:22,4,Grizzlies,Wizards,116 - 121,0,N/A,N/A,N/A
+89,Avery Bradley,FG_MISS,None,4:16,4,Grizzlies,Wizards,116 - 121,0,27,3,Jumper
+90,Jabari Parker,DEFENSIVE_REBOUND,None,4:09,4,Wizards,Grizzlies,116 - 121,1,N/A,N/A,N/A
+91,Tomas Satoransky,FG_ASSISTED,Bradley Beal,3:54,4,Wizards,Grizzlies,116 - 123,1,0,2,Layup
+92,Justin Holiday,FG_MISS,None,3:43,4,Grizzlies,Wizards,116 - 123,0,8,3,Jumper
+93,Tomas Satoransky,DEFENSIVE_REBOUND,None,3:43,4,Wizards,Grizzlies,116 - 123,1,N/A,N/A,N/A
+94,Bradley Beal,FG_MISS,None,3:37,4,Wizards,Grizzlies,116 - 123,1,26,3,Jumper
+95,Mike Conley,DEFENSIVE_REBOUND,None,3:37,4,Grizzlies,Wizards,116 - 123,0,N/A,N/A,N/A
+96,Avery Bradley,FG_ASSISTED,Mike Conley,3:29,4,Grizzlies,Wizards,119 - 123,0,27,3,Jumper
+97,Team,Unknown,None,3:28,4,Wizards,Grizzlies,119 - 123,1,N/A,N/A,N/A
+98,Chandler Parsons,SUBSTITUTION,Holiday Justin,3:28,4,Grizzlies,Wizards,119 - 123,0,N/A,N/A,N/A
+99,Bradley Beal,FG_MISS,None,3:13,4,Wizards,Grizzlies,119 - 123,1,0,2,Layup
+100,Thomas Bryant,OFFENSIVE_REBOUND,None,3:09,4,Wizards,Grizzlies,119 - 123,1,N/A,N/A,N/A
+101,Thomas Bryant,FG_MISS,None,3:09,4,Wizards,Grizzlies,119 - 123,1,0,2,Layup
+102,Bradley Beal,OFFENSIVE_REBOUND,None,3:07,4,Wizards,Grizzlies,119 - 123,1,N/A,N/A,N/A
+103,Avery Bradley,FOUL_ON_FLOOR,None,2:59,4,Grizzlies,Wizards,119 - 123,0,N/A,N/A,N/A
+104,Tomas Satoransky,FT,None,2:59,4,Wizards,Grizzlies,119 - 124,1,N/A,1,N/A
+105,Tomas Satoransky,FT,None,2:59,4,Wizards,Grizzlies,119 - 125,1,N/A,1,N/A
+106,Avery Bradley,FG_MISS,None,2:41,4,Grizzlies,Wizards,119 - 125,0,26,3,Jumper
+107,Tomas Satoransky,DEFENSIVE_REBOUND,None,2:38,4,Wizards,Grizzlies,119 - 125,1,N/A,N/A,N/A
+108,Jabari Parker,FG_MISS,None,2:22,4,Wizards,Grizzlies,119 - 125,1,0,2,Layup
+109,Jonas Valanciunas,DEFENSIVE_REBOUND,None,2:20,4,Grizzlies,Wizards,119 - 125,0,N/A,N/A,N/A
+110,Delon Wright,FG_MISS,None,2:16,4,Grizzlies,Wizards,119 - 125,0,23,3,Jumper
+111,Tomas Satoransky,DEFENSIVE_REBOUND,None,2:11,4,Wizards,Grizzlies,119 - 125,1,N/A,N/A,N/A
+112,Chandler Parsons,FOUL_ON_FLOOR,None,1:50,4,Grizzlies,Wizards,119 - 125,0,N/A,N/A,N/A
+113,Jabari Parker,FT_MISS,None,1:50,4,Wizards,Grizzlies,119 - 125,1,N/A,1,N/A
+114,Team,OFFENSIVE_REBOUND,None,1:50,4,Wizards,Grizzlies,119 - 125,1,N/A,N/A,N/A
+115,Jabari Parker,FT,None,1:50,4,Wizards,Grizzlies,119 - 126,1,N/A,1,N/A
+116,Jonas Valanciunas,FG_ASSISTED,Chandler Parsons,1:41,4,Grizzlies,Wizards,121 - 126,0,0,2,Dunk
+117,Bradley Beal,TURNOVER,None,1:23,4,Wizards,Grizzlies,121 - 126,1,N/A,N/A,N/A
+118,Thomas Bryant,FOUL_ON_FLOOR,None,1:10,4,Wizards,Grizzlies,121 - 126,1,N/A,N/A,N/A
+119,Mike Conley,FT,None,1:10,4,Grizzlies,Wizards,122 - 126,0,N/A,1,N/A
+120,Justin Holiday,SUBSTITUTION,Valanciunas Jonas,1:10,4,Grizzlies,Wizards,122 - 126,0,N/A,N/A,N/A
+121,Joakim Noah,SUBSTITUTION,Parsons Chandler,1:10,4,Grizzlies,Wizards,122 - 126,0,N/A,N/A,N/A
+122,Ivan Rabb,SUBSTITUTION,Wright Delon,1:10,4,Grizzlies,Wizards,122 - 126,0,N/A,N/A,N/A
+123,Mike Conley,FT,None,1:10,4,Grizzlies,Wizards,123 - 126,0,N/A,1,N/A
+124,Jeff Green,FG_ASSISTED,Thomas Bryant,50.5,4,Wizards,Grizzlies,123 - 129,1,26,3,Jumper
+125,Team,Unknown,None,50.5,4,Grizzlies,Wizards,123 - 129,0,N/A,N/A,N/A
+126,Chandler Parsons,SUBSTITUTION,Noah Joakim,50.5,4,Grizzlies,Wizards,123 - 129,0,N/A,N/A,N/A
+127,Jonas Valanciunas,SUBSTITUTION,Rabb Ivan,50.5,4,Grizzlies,Wizards,123 - 129,0,N/A,N/A,N/A
+128,Mike Conley,FG_ASSISTED,Chandler Parsons,47.7,4,Grizzlies,Wizards,126 - 129,0,26,3,Jumper
+129,Bradley Beal,FG_ASSISTED,Thomas Bryant,22.4,4,Wizards,Grizzlies,126 - 131,1,0,2,Layup
+130,Mike Conley,FG_MISS,None,17.1,4,Grizzlies,Wizards,126 - 131,0,1,3,Jumper
+131,Justin Holiday,OFFENSIVE_REBOUND,None,17.1,4,Grizzlies,Wizards,126 - 131,0,N/A,N/A,N/A
+132,Jonas Valanciunas,FG_ASSISTED,Mike Conley,7.2,4,Grizzlies,Wizards,128 - 131,0,0,2,Dunk
+133,Justin Holiday,FOUL_ON_FLOOR,None,6.2,4,Grizzlies,Wizards,128 - 131,0,N/A,N/A,N/A
+134,Jabari Parker,FT,None,6.2,4,Wizards,Grizzlies,128 - 132,1,N/A,1,N/A
+135,Jabari Parker,FT,None,6.2,4,Wizards,Grizzlies,128 - 133,1,N/A,1,N/A
+136,Joakim Noah,SUBSTITUTION,Parsons Chandler,6.2,4,Grizzlies,Wizards,128 - 133,0,N/A,N/A,N/A
+137,Delon Wright,SUBSTITUTION,Valanciunas Jonas,6.2,4,Grizzlies,Wizards,128 - 133,0,N/A,N/A,N/A
+138,Delon Wright,FOUL_ON_FLOOR,None,5.1,4,Grizzlies,Wizards,128 - 133,0,N/A,N/A,N/A
+139,Tomas Satoransky,FT,None,5.1,4,Wizards,Grizzlies,128 - 134,1,N/A,1,N/A
+140,Chasson Randle,SUBSTITUTION,Beal Bradley,5.1,4,Wizards,Grizzlies,128 - 134,1,N/A,N/A,N/A
+141,Tomas Satoransky,FT,None,5.1,4,Wizards,Grizzlies,128 - 135,1,N/A,1,N/A
+142,End of,Unknown,None,0.0,4,Wizards,Grizzlies,128 - 135,1,N/A,N/A,N/A
+143,End of,Unknown,None,0.0,4,Wizards,Grizzlies,128 - 135,1,N/A,N/A,N/A

@@ -1,0 +1,455 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Hassan Whiteside,JUMP_BALL,None,12:00,1,Magic,Heat,0 - 0,1,N/A,N/A,N/A
+1,Aaron Gordon,TURNOVER,Justise Winslow,11:39,1,Magic,Heat,0 - 0,1,N/A,N/A,N/A
+2,Hassan Whiteside,FG_MISS,None,11:26,1,Heat,Magic,0 - 0,0,-,3,Jumper
+3,Aaron Gordon,DEFENSIVE_REBOUND,None,11:23,1,Magic,Heat,0 - 0,1,N/A,N/A,N/A
+4,Aaron Gordon,FG_UNASSISTED,None,11:16,1,Magic,Heat,0 - 2,1,-,3,Jumper
+5,Tyler Johnson,FG_ASSISTED,James Johnson,10:59,1,Heat,Magic,3 - 2,0,25,3,Jumper
+6,Josh Richardson,FOUL_ON_FLOOR,None,10:48,1,Heat,Magic,3 - 2,0,N/A,N/A,N/A
+7,Evan Fournier,TURNOVER,Josh Richardson,10:39,1,Magic,Heat,3 - 2,1,N/A,N/A,N/A
+8,Josh Richardson,FG_MISS,None,10:35,1,Heat,Magic,3 - 2,0,-,3,Jumper
+9,Jonathan Isaac,DEFENSIVE_REBOUND,None,10:32,1,Magic,Heat,3 - 2,1,N/A,N/A,N/A
+10,D.J. Augustin,FG_UNASSISTED,None,10:25,1,Magic,Heat,3 - 4,1,-,3,Jumper
+11,James Johnson,FG_UNASSISTED,None,10:05,1,Heat,Magic,5 - 4,0,0,2,Layup
+12,Evan Fournier,FG_MISS,None,9:52,1,Magic,Heat,5 - 4,1,4,3,Jumper
+13,Evan Fournier,OFFENSIVE_REBOUND,None,9:50,1,Magic,Heat,5 - 4,1,N/A,N/A,N/A
+14,Nikola Vucevic,FG_MISS,None,9:42,1,Magic,Heat,5 - 4,1,0,2,Layup
+15,Nikola Vucevic,OFFENSIVE_REBOUND,None,9:37,1,Magic,Heat,5 - 4,1,N/A,N/A,N/A
+16,Nikola Vucevic,FG_UNASSISTED,None,9:37,1,Magic,Heat,5 - 6,1,-,3,Jumper
+17,Hassan Whiteside,FG_ASSISTED,Justise Winslow,9:19,1,Heat,Magic,7 - 6,0,9,3,Jumper
+18,Nikola Vucevic,FG_MISS,None,9:01,1,Magic,Heat,7 - 6,1,26,3,Jumper
+19,Hassan Whiteside,DEFENSIVE_REBOUND,None,8:59,1,Heat,Magic,7 - 6,0,N/A,N/A,N/A
+20,Justise Winslow,FG_ASSISTED,Josh Richardson,8:44,1,Heat,Magic,10 - 6,0,26,3,Jumper
+21,Nikola Vucevic,TURNOVER,Justise Winslow,8:27,1,Magic,Heat,10 - 6,1,N/A,N/A,N/A
+22,Tyler Johnson,FG_MISS,None,8:18,1,Heat,Magic,10 - 6,0,26,3,Jumper
+23,Evan Fournier,DEFENSIVE_REBOUND,None,8:14,1,Magic,Heat,10 - 6,1,N/A,N/A,N/A
+24,Jonathan Isaac,FG_MISS,None,8:10,1,Magic,Heat,10 - 6,1,27,3,Jumper
+25,James Johnson,DEFENSIVE_REBOUND,None,8:07,1,Heat,Magic,10 - 6,0,N/A,N/A,N/A
+26,James Johnson,FG_UNASSISTED,None,7:51,1,Heat,Magic,12 - 6,0,-,3,Jumper
+27,Nikola Vucevic,FG_MISS,None,7:35,1,Magic,Heat,12 - 6,1,10,3,Jumper
+28,Justise Winslow,DEFENSIVE_REBOUND,None,7:32,1,Heat,Magic,12 - 6,0,N/A,N/A,N/A
+29,Josh Richardson,FG_ASSISTED,Justise Winslow,7:25,1,Heat,Magic,14 - 6,0,-,3,Jumper
+30,Team,Unknown,None,7:20,1,Magic,Heat,14 - 6,1,N/A,N/A,N/A
+31,D.J. Augustin,FG_MISS,None,7:13,1,Magic,Heat,14 - 6,1,16,3,Jumper
+32,Hassan Whiteside,DEFENSIVE_REBOUND,None,7:09,1,Heat,Magic,14 - 6,0,N/A,N/A,N/A
+33,Tyler Johnson,FG_ASSISTED,Justise Winslow,6:58,1,Heat,Magic,16 - 6,0,10,3,Jumper
+34,Jonathan Isaac,FG_MISS,Hassan Whiteside,6:44,1,Heat,Magic,16 - 6,1,0,2,Layup
+35,Hassan Whiteside,DEFENSIVE_REBOUND,None,6:41,1,Heat,Magic,16 - 6,0,N/A,N/A,N/A
+36,Hassan Whiteside,FG_MISS,None,6:34,1,Heat,Magic,16 - 6,0,0,2,Layup
+37,Evan Fournier,DEFENSIVE_REBOUND,None,6:29,1,Magic,Heat,16 - 6,1,N/A,N/A,N/A
+38,D.J. Augustin,TURNOVER,Hassan Whiteside,6:25,1,Magic,Heat,16 - 6,1,N/A,N/A,N/A
+39,Josh Richardson,TURNOVER,D.J. Augustin,6:24,1,Heat,Magic,16 - 6,0,N/A,N/A,N/A
+40,foul 16,FOUL_ON_FLOOR,None,6:24,1,Magic,Heat,16 - 6,1,N/A,N/A,N/A
+41,Justise Winslow,FOUL_ON_FLOOR,None,6:24,1,Heat,Magic,16 - 6,0,N/A,N/A,N/A
+42,Dwyane Wade,SUBSTITUTION,Johnson Tyler,6:24,1,Heat,Magic,16 - 6,0,N/A,N/A,N/A
+43,Aaron Gordon,FG_UNASSISTED,None,6:05,1,Magic,Heat,16 - 8,1,7,3,Jumper
+44,Hassan Whiteside's,FG_MISS,Nikola Vucevic,5:48,1,Magic,Heat,16 - 8,0,0,2,Layup
+45,D.J. Augustin,DEFENSIVE_REBOUND,None,5:44,1,Magic,Heat,16 - 8,1,N/A,N/A,N/A
+46,Evan Fournier,FG_ASSISTED,D.J. Augustin,5:40,1,Magic,Heat,16 - 11,1,26,3,Jumper
+47,Aaron Gordon,FOUL_ON_FLOOR,None,5:27,1,Magic,Heat,16 - 11,1,N/A,N/A,N/A
+48,Jonathon Simmons,SUBSTITUTION,Gordon Aaron,5:27,1,Magic,Heat,16 - 11,1,N/A,N/A,N/A
+49,Tyler Johnson,SUBSTITUTION,Richardson Josh,5:27,1,Heat,Magic,16 - 11,0,N/A,N/A,N/A
+50,James Johnson,FG_UNASSISTED,None,5:12,1,Heat,Magic,19 - 11,0,26,3,Jumper
+51,Evan Fournier,FG_MISS,None,4:58,1,Magic,Heat,19 - 11,1,26,3,Jumper
+52,Nikola Vucevic,OFFENSIVE_REBOUND,None,4:56,1,Magic,Heat,19 - 11,1,N/A,N/A,N/A
+53,Evan Fournier,FG_ASSISTED,D.J. Augustin,4:44,1,Magic,Heat,19 - 13,1, ,3,Jumper
+54,Hassan Whiteside,FG_UNASSISTED,None,4:20,1,Heat,Magic,21 - 13,0,19,3,Jumper
+55,Nikola Vucevic,FG_MISS,None,4:09,1,Magic,Heat,21 - 13,1,0,2,Layup
+56,Nikola Vucevic,OFFENSIVE_REBOUND,None,4:07,1,Magic,Heat,21 - 13,1,N/A,N/A,N/A
+57,Nikola Vucevic,FG_MISS,None,4:06,1,Magic,Heat,21 - 13,1, ,3,Jumper
+58,Nikola Vucevic,OFFENSIVE_REBOUND,None,4:05,1,Magic,Heat,21 - 13,1,N/A,N/A,N/A
+59,Nikola Vucevic,FG_MISS,None,4:05,1,Magic,Heat,21 - 13,1, ,3,Jumper
+60,Team,DEFENSIVE_REBOUND,None,4:05,1,Heat,Magic,21 - 13,0,N/A,N/A,N/A
+61,Jerian Grant,SUBSTITUTION,Augustin D.J.,4:05,1,Magic,Heat,21 - 13,1,N/A,N/A,N/A
+62,Bam Adebayo,SUBSTITUTION,Whiteside Hassan,4:05,1,Heat,Magic,21 - 13,0,N/A,N/A,N/A
+63,James Johnson,FG_UNASSISTED,None,3:56,1,Heat,Magic,23 - 13,0, ,3,Jumper
+64,Evan Fournier,TURNOVER,None,3:34,1,Magic,Heat,23 - 13,1,N/A,N/A,N/A
+65,Terrence Ross,SUBSTITUTION,Fournier Evan,3:34,1,Magic,Heat,23 - 13,1,N/A,N/A,N/A
+66,Team,Unknown,None,3:28,1,Heat,Magic,23 - 13,0,N/A,N/A,N/A
+67,Derrick Jones,SUBSTITUTION,Johnson James,3:28,1,Heat,Magic,23 - 13,0,N/A,N/A,N/A
+68,Tyler Johnson,FG_MISS,None,3:22,1,Heat,Magic,23 - 13,0,26,3,Jumper
+69,Bam Adebayo,OFFENSIVE_REBOUND,None,3:19,1,Heat,Magic,23 - 13,0,N/A,N/A,N/A
+70,Derrick Jones,FG_ASSISTED,Tyler Johnson,3:07,1,Heat,Magic,25 - 13,0,3,3,Jumper
+71,Terrence Ross,FG_MISS,Derrick Jones,2:52,1,Heat,Magic,25 - 13,1,20,3,Jumper
+72,Dwyane Wade,DEFENSIVE_REBOUND,None,2:49,1,Heat,Magic,25 - 13,0,N/A,N/A,N/A
+73,Justise Winslow's,FG_MISS,Jonathan Isaac,2:44,1,Magic,Heat,25 - 13,0,0,2,Layup
+74,Team,DEFENSIVE_REBOUND,None,2:44,1,Magic,Heat,25 - 13,1,N/A,N/A,N/A
+75,Aaron Gordon,SUBSTITUTION,Isaac Jonathan,2:44,1,Magic,Heat,25 - 13,1,N/A,N/A,N/A
+76,Mo Bamba,SUBSTITUTION,Vucevic Nikola,2:44,1,Magic,Heat,25 - 13,1,N/A,N/A,N/A
+77,Kelly Olynyk,SUBSTITUTION,Winslow Justise,2:44,1,Heat,Magic,25 - 13,0,N/A,N/A,N/A
+78,Jerian Grant,TURNOVER,None,2:29,1,Magic,Heat,25 - 13,1,N/A,N/A,N/A
+79,Bam Adebayo,FG_MISS,Mo Bamba,2:12,1,Magic,Heat,25 - 13,0,5,3,Jumper
+80,Derrick Jones,OFFENSIVE_REBOUND,None,2:10,1,Heat,Magic,25 - 13,0,N/A,N/A,N/A
+81,Kelly Olynyk,FG_MISS,None,2:04,1,Heat,Magic,25 - 13,0,23,3,Jumper
+82,Team,OFFENSIVE_REBOUND,None,2:04,1,Heat,Magic,25 - 13,0,N/A,N/A,N/A
+83,shot clock,TURNOVER,None,2:04,1,Heat,Magic,25 - 13,0,N/A,N/A,N/A
+84,Jonathon Simmons,FG_UNASSISTED,None,1:53,1,Magic,Heat,25 - 15,1,20,3,Jumper
+85,Derrick Jones,FG_MISS,None,1:39,1,Heat,Magic,25 - 15,0,0,2,Dunk
+86,Aaron Gordon,DEFENSIVE_REBOUND,None,1:35,1,Magic,Heat,25 - 15,1,N/A,N/A,N/A
+87,Aaron Gordon,TURNOVER,None,1:27,1,Magic,Heat,25 - 15,1,N/A,N/A,N/A
+88,Josh Richardson,SUBSTITUTION,Johnson Tyler,1:27,1,Heat,Magic,25 - 15,0,N/A,N/A,N/A
+89,Jerian Grant,FOUL_ON_FLOOR,None,1:15,1,Magic,Heat,25 - 15,1,N/A,N/A,N/A
+90,Derrick Jones,FG_MISS,None,1:00,1,Heat,Magic,25 - 15,0,24,3,Jumper
+91,Mo Bamba,DEFENSIVE_REBOUND,None,58.7,1,Magic,Heat,25 - 15,1,N/A,N/A,N/A
+92,Mo Bamba,TURNOVER,None,52.5,1,Magic,Heat,25 - 15,1,N/A,N/A,N/A
+93,Dwyane Wade,FG_UNASSISTED,None,43.8,1,Heat,Magic,28 - 15,0,26,3,Jumper
+94,Derrick Jones,FOUL_ON_FLOOR,None,33.7,1,Heat,Magic,28 - 15,0,N/A,N/A,N/A
+95,Mo Bamba,FT,None,33.7,1,Magic,Heat,28 - 16,1,N/A,1,N/A
+96,Mo Bamba,FT_MISS,None,33.7,1,Magic,Heat,28 - 16,1,N/A,1,N/A
+97,Derrick Jones,DEFENSIVE_REBOUND,None,25.6,1,Heat,Magic,28 - 16,0,N/A,N/A,N/A
+98,Dwyane Wade,FG_MISS,None,15.6,1,Heat,Magic,28 - 16,0,16,3,Jumper
+99,Jonathon Simmons,DEFENSIVE_REBOUND,None,12.4,1,Magic,Heat,28 - 16,1,N/A,N/A,N/A
+100,Kelly Olynyk,FOUL_ON_FLOOR,None,4.3,1,Heat,Magic,28 - 16,0,N/A,N/A,N/A
+101,Mo Bamba,FT_MISS,None,4.3,1,Magic,Heat,28 - 16,1,N/A,1,N/A
+102,Team,OFFENSIVE_REBOUND,None,4.3,1,Magic,Heat,28 - 16,1,N/A,N/A,N/A
+103,Mo Bamba,FT,None,4.3,1,Magic,Heat,28 - 17,1,N/A,1,N/A
+104,Bam Adebayo,FG_MISS,None,0.0,1,Heat,Magic,28 - 17,0,29,3,Jumper
+105,Team,OFFENSIVE_REBOUND,None,0.0,1,Heat,Magic,28 - 17,0,N/A,N/A,N/A
+106,End of,Unknown,None,0.0,1,Magic,Heat,28 - 17,1,N/A,N/A,N/A
+0,D.J. Augustin,SUBSTITUTION,Grant Jerian,12:00,2,Magic,Heat,28 - 17,1,N/A,N/A,N/A
+1,Kelly Olynyk,FG_ASSISTED,Dwyane Wade,11:46,2,Heat,Magic,31 - 17,0,26,3,Jumper
+2,Dwyane Wade,FOUL_ON_FLOOR,None,11:22,2,Heat,Magic,31 - 17,0,N/A,N/A,N/A
+3,Mo Bamba,FT_MISS,None,11:22,2,Magic,Heat,31 - 17,1,N/A,1,N/A
+4,Team,OFFENSIVE_REBOUND,None,11:22,2,Magic,Heat,31 - 17,1,N/A,N/A,N/A
+5,Mo Bamba,FT,None,11:22,2,Magic,Heat,31 - 18,1,N/A,1,N/A
+6,D.J. Augustin,FOUL_ON_FLOOR,None,11:13,2,Magic,Heat,31 - 18,1,N/A,N/A,N/A
+7,Josh Richardson,FG_ASSISTED,Bam Adebayo,10:59,2,Heat,Magic,34 - 18,0,25,3,Jumper
+8,Terrence Ross,FG_MISS,None,10:34,2,Magic,Heat,34 - 18,1,23,3,Jumper
+9,Josh Richardson,DEFENSIVE_REBOUND,None,10:30,2,Heat,Magic,34 - 18,0,N/A,N/A,N/A
+10,Josh Richardson,FG_MISS,None,10:24,2,Heat,Magic,34 - 18,0,25,3,Jumper
+11,Terrence Ross,DEFENSIVE_REBOUND,None,10:20,2,Magic,Heat,34 - 18,1,N/A,N/A,N/A
+12,Derrick Jones,FOUL_ON_FLOOR,None,10:17,2,Heat,Magic,34 - 18,0,N/A,N/A,N/A
+13,D.J. Augustin,FG_MISS,None,10:03,2,Magic,Heat,34 - 18,1,25,3,Jumper
+14,Aaron Gordon,OFFENSIVE_REBOUND,None,9:59,2,Magic,Heat,34 - 18,1,N/A,N/A,N/A
+15,Jonathon Simmons,FG_MISS,None,9:57,2,Magic,Heat,34 - 18,1,25,3,Jumper
+16,Bam Adebayo,DEFENSIVE_REBOUND,None,9:53,2,Heat,Magic,34 - 18,0,N/A,N/A,N/A
+17,Josh Richardson,FG_ASSISTED,Bam Adebayo,9:45,2,Heat,Magic,36 - 18,0,0,2,Layup
+18,D.J. Augustin,FOUL_ON_FLOOR,None,9:45,2,Magic,Heat,36 - 18,1,N/A,N/A,N/A
+19,Josh Richardson,FT,None,9:45,2,Heat,Magic,37 - 18,0,N/A,1,N/A
+20,Terrence Ross,FG_MISS,None,9:29,2,Magic,Heat,37 - 18,1,10,3,Jumper
+21,Mo Bamba,OFFENSIVE_REBOUND,None,9:27,2,Magic,Heat,37 - 18,1,N/A,N/A,N/A
+22,Mo Bamba,FG_UNASSISTED,None,9:25,2,Magic,Heat,37 - 20,1, ,3,Jumper
+23,Mo Bamba,FOUL_ON_FLOOR,None,9:15,2,Magic,Heat,37 - 20,1,N/A,N/A,N/A
+24,Bam Adebayo,FT_MISS,None,9:15,2,Heat,Magic,37 - 20,0,N/A,1,N/A
+25,Team,OFFENSIVE_REBOUND,None,9:15,2,Heat,Magic,37 - 20,0,N/A,N/A,N/A
+26,Bam Adebayo,FT,None,9:15,2,Heat,Magic,38 - 20,0,N/A,1,N/A
+27,D.J. Augustin,TURNOVER,Bam Adebayo,9:04,2,Magic,Heat,38 - 20,1,N/A,N/A,N/A
+28,Bam Adebayo,FG_MISS,None,8:48,2,Heat,Magic,38 - 20,0,16,3,Jumper
+29,Terrence Ross,DEFENSIVE_REBOUND,None,8:45,2,Magic,Heat,38 - 20,1,N/A,N/A,N/A
+30,Jonathon Simmons,FG_UNASSISTED,None,8:33,2,Magic,Heat,38 - 22,1,15,3,Jumper
+31,Josh Richardson,FG_MISS,None,8:20,2,Heat,Magic,38 - 22,0,17,3,Jumper
+32,Josh Richardson,OFFENSIVE_REBOUND,None,8:17,2,Heat,Magic,38 - 22,0,N/A,N/A,N/A
+33,Josh Richardson,FG_MISS,Mo Bamba,8:09,2,Magic,Heat,38 - 22,0,0,2,Layup
+34,Bam Adebayo,OFFENSIVE_REBOUND,None,8:05,2,Heat,Magic,38 - 22,0,N/A,N/A,N/A
+35,Bam Adebayo,FG_MISS,None,8:05,2,Heat,Magic,38 - 22,0,0,2,Layup
+36,Team,OFFENSIVE_REBOUND,None,8:05,2,Heat,Magic,38 - 22,0,N/A,N/A,N/A
+37,Jerian Grant,SUBSTITUTION,Augustin D.J.,8:05,2,Magic,Heat,38 - 22,1,N/A,N/A,N/A
+38,Bam Adebayo,JUMP_BALL,None,7:59,2,Heat,Magic,38 - 22,0,N/A,N/A,N/A
+39,Dwyane Wade,FG_MISS,None,7:56,2,Heat,Magic,38 - 22,0,19,3,Jumper
+40,Bam Adebayo,OFFENSIVE_REBOUND,None,7:52,2,Heat,Magic,38 - 22,0,N/A,N/A,N/A
+41,Kelly Olynyk,FG_ASSISTED,Bam Adebayo,7:51,2,Heat,Magic,41 - 22,0,25,3,Jumper
+42,Team,Unknown,None,7:42,2,Magic,Heat,41 - 22,1,N/A,N/A,N/A
+43,Evan Fournier,SUBSTITUTION,Simmons Jonathon,7:42,2,Magic,Heat,41 - 22,1,N/A,N/A,N/A
+44,Justise Winslow,SUBSTITUTION,Richardson Josh,7:42,2,Heat,Magic,41 - 22,0,N/A,N/A,N/A
+45,Wayne Ellington,SUBSTITUTION,Wade Dwyane,7:42,2,Heat,Magic,41 - 22,0,N/A,N/A,N/A
+46,Wayne Ellington,FOUL_ON_FLOOR,None,7:37,2,Heat,Magic,41 - 22,0,N/A,N/A,N/A
+47,Terrence Ross,FG_ASSISTED,Evan Fournier,7:26,2,Magic,Heat,41 - 25,1,28,3,Jumper
+48,Jerian Grant,FOUL_ON_FLOOR,None,7:01,2,Magic,Heat,41 - 25,1,N/A,N/A,N/A
+49,Justise Winslow,FT,None,7:01,2,Heat,Magic,42 - 25,0,N/A,1,N/A
+50,Justise Winslow,FT_MISS,None,7:01,2,Heat,Magic,42 - 25,0,N/A,1,N/A
+51,Aaron Gordon,DEFENSIVE_REBOUND,None,6:58,2,Magic,Heat,42 - 25,1,N/A,N/A,N/A
+52,Jerian Grant,FG_ASSISTED,Aaron Gordon,6:50,2,Magic,Heat,42 - 28,1,25,3,Jumper
+53,Bam Adebayo,TURNOVER,None,6:44,2,Heat,Magic,42 - 28,0,N/A,N/A,N/A
+54,Wayne Ellington,FOUL_ON_FLOOR,None,6:39,2,Heat,Magic,42 - 28,0,N/A,N/A,N/A
+55,Derrick Jones,FOUL_ON_FLOOR,None,6:28,2,Heat,Magic,42 - 28,0,N/A,N/A,N/A
+56,Evan Fournier,FT,None,6:28,2,Magic,Heat,42 - 29,1,N/A,1,N/A
+57,Tyler Johnson,SUBSTITUTION,Jones Derrick,6:28,2,Heat,Magic,42 - 29,0,N/A,N/A,N/A
+58,Hassan Whiteside,SUBSTITUTION,Adebayo Bam,6:28,2,Heat,Magic,42 - 29,0,N/A,N/A,N/A
+59,Evan Fournier,FT,None,6:28,2,Magic,Heat,42 - 30,1,N/A,1,N/A
+60,Aaron Gordon,FOUL_ON_FLOOR,None,6:21,2,Magic,Heat,42 - 30,1,N/A,N/A,N/A
+61,Kelly Olynyk,FT_MISS,None,6:21,2,Heat,Magic,42 - 30,0,N/A,1,N/A
+62,Team,OFFENSIVE_REBOUND,None,6:21,2,Heat,Magic,42 - 30,0,N/A,N/A,N/A
+63,Nikola Vucevic,SUBSTITUTION,Gordon Aaron,6:21,2,Magic,Heat,42 - 30,1,N/A,N/A,N/A
+64,Jonathan Isaac,SUBSTITUTION,Bamba Mo,6:21,2,Magic,Heat,42 - 30,1,N/A,N/A,N/A
+65,Kelly Olynyk,FT,None,6:21,2,Heat,Magic,43 - 30,0,N/A,1,N/A
+66,Terrence Ross,FG_MISS,None,6:13,2,Magic,Heat,43 - 30,1,26,3,Jumper
+67,Kelly Olynyk,DEFENSIVE_REBOUND,None,6:09,2,Heat,Magic,43 - 30,0,N/A,N/A,N/A
+68,Hassan Whiteside,TURNOVER,None,5:53,2,Heat,Magic,43 - 30,0,N/A,N/A,N/A
+69,Evan Fournier,FG_UNASSISTED,None,5:35,2,Magic,Heat,43 - 32,1, ,3,Jumper
+70,Justise Winslow,FG_MISS,None,5:19,2,Heat,Magic,43 - 32,0,26,3,Jumper
+71,Evan Fournier,DEFENSIVE_REBOUND,None,5:15,2,Magic,Heat,43 - 32,1,N/A,N/A,N/A
+72,Nikola Vucevic,FG_ASSISTED,Evan Fournier,5:10,2,Magic,Heat,43 - 34,1,0,2,Layup
+73,Hassan Whiteside,FOUL_ON_FLOOR,None,5:10,2,Heat,Magic,43 - 34,0,N/A,N/A,N/A
+74,Nikola Vucevic,FT_MISS,None,5:10,2,Magic,Heat,43 - 34,1,N/A,1,N/A
+75,Jonathan Isaac,OFFENSIVE_REBOUND,None,5:04,2,Magic,Heat,43 - 34,1,N/A,N/A,N/A
+76,Evan Fournier,FG_MISS,None,5:02,2,Magic,Heat,43 - 34,1,23,3,Jumper
+77,Jonathan Isaac,OFFENSIVE_REBOUND,None,5:01,2,Magic,Heat,43 - 34,1,N/A,N/A,N/A
+78,Jonathan Isaac,FG_UNASSISTED,None,5:01,2,Magic,Heat,43 - 36,1,0,2,Dunk
+79,Team,Unknown,None,5:01,2,Heat,Magic,43 - 36,0,N/A,N/A,N/A
+80,James Johnson,SUBSTITUTION,Ellington Wayne,5:01,2,Heat,Magic,43 - 36,0,N/A,N/A,N/A
+81,Josh Richardson,SUBSTITUTION,Olynyk Kelly,5:01,2,Heat,Magic,43 - 36,0,N/A,N/A,N/A
+82,Tyler Johnson,FG_MISS,None,4:51,2,Heat,Magic,43 - 36,0, ,3,Jumper
+83,Evan Fournier,DEFENSIVE_REBOUND,None,4:49,2,Magic,Heat,43 - 36,1,N/A,N/A,N/A
+84,Hassan Whiteside,FOUL_ON_FLOOR,None,4:49,2,Heat,Magic,43 - 36,0,N/A,N/A,N/A
+85,Evan Fournier,FT_MISS,None,4:49,2,Magic,Heat,43 - 36,1,N/A,1,N/A
+86,Team,OFFENSIVE_REBOUND,None,4:49,2,Magic,Heat,43 - 36,1,N/A,N/A,N/A
+87,Evan Fournier,FT_MISS,None,4:49,2,Magic,Heat,43 - 36,1,N/A,1,N/A
+88,Hassan Whiteside,DEFENSIVE_REBOUND,None,4:46,2,Heat,Magic,43 - 36,0,N/A,N/A,N/A
+89,Josh Richardson,FG_MISS,None,4:25,2,Heat,Magic,43 - 36,0,27,3,Jumper
+90,Nikola Vucevic,DEFENSIVE_REBOUND,None,4:22,2,Magic,Heat,43 - 36,1,N/A,N/A,N/A
+91,Evan Fournier,FG_MISS,Hassan Whiteside,4:14,2,Heat,Magic,43 - 36,1,0,2,Layup
+92,Josh Richardson,DEFENSIVE_REBOUND,None,4:12,2,Heat,Magic,43 - 36,0,N/A,N/A,N/A
+93,Justise Winslow,TURNOVER,Jerian Grant,3:57,2,Heat,Magic,43 - 36,0,N/A,N/A,N/A
+94,Terrence Ross,TURNOVER,None,3:52,2,Magic,Heat,43 - 36,1,N/A,N/A,N/A
+95,Justise Winslow,TURNOVER,None,3:43,2,Heat,Magic,43 - 36,0,N/A,N/A,N/A
+96,James Johnson,FOUL_ON_FLOOR,None,3:29,2,Heat,Magic,43 - 36,0,N/A,N/A,N/A
+97,Jonathan Isaac,FT,None,3:29,2,Magic,Heat,43 - 37,1,N/A,1,N/A
+98,Jonathan Isaac,FT,None,3:29,2,Magic,Heat,43 - 38,1,N/A,1,N/A
+99,Josh Richardson,FG_ASSISTED,Tyler Johnson,3:16,2,Heat,Magic,46 - 38,0,27,3,Jumper
+100,Nikola Vucevic,FG_MISS,None,2:57,2,Magic,Heat,46 - 38,1, ,3,Jumper
+101,Justise Winslow,DEFENSIVE_REBOUND,None,2:54,2,Heat,Magic,46 - 38,0,N/A,N/A,N/A
+102,Justise Winslow,FG_UNASSISTED,None,2:50,2,Heat,Magic,48 - 38,0,7,3,Jumper
+103,Jonathan Isaac,FG_MISS,None,2:38,2,Magic,Heat,48 - 38,1,25,3,Jumper
+104,Jerian Grant,OFFENSIVE_REBOUND,None,2:38,2,Magic,Heat,48 - 38,1,N/A,N/A,N/A
+105,Evan Fournier,FG_ASSISTED,Jerian Grant,2:34,2,Magic,Heat,48 - 41,1,26,3,Jumper
+106,Tyler Johnson,FG_MISS,None,2:15,2,Heat,Magic,48 - 41,0,15,3,Jumper
+107,Nikola Vucevic,DEFENSIVE_REBOUND,None,2:13,2,Magic,Heat,48 - 41,1,N/A,N/A,N/A
+108,Justise Winslow,FOUL_ON_FLOOR,None,2:03,2,Heat,Magic,48 - 41,0,N/A,N/A,N/A
+109,Nikola Vucevic,FT,None,2:03,2,Magic,Heat,48 - 42,1,N/A,1,N/A
+110,Dwyane Wade,SUBSTITUTION,Winslow Justise,2:03,2,Heat,Magic,48 - 42,0,N/A,N/A,N/A
+111,Bam Adebayo,SUBSTITUTION,Whiteside Hassan,2:03,2,Heat,Magic,48 - 42,0,N/A,N/A,N/A
+112,Nikola Vucevic,FT_MISS,None,2:03,2,Magic,Heat,48 - 42,1,N/A,1,N/A
+113,Tyler Johnson,JUMP_BALL,None,2:03,2,Magic,Heat,48 - 42,1,N/A,N/A,N/A
+114,Team,OFFENSIVE_REBOUND,None,2:03,2,Magic,Heat,48 - 42,1,N/A,N/A,N/A
+115,Jonathan Isaac,FG_MISS,None,1:45,2,Magic,Heat,48 - 42,1,22,3,Jumper
+116,Evan Fournier,OFFENSIVE_REBOUND,None,1:42,2,Magic,Heat,48 - 42,1,N/A,N/A,N/A
+117,Evan Fournier,TURNOVER,None,1:42,2,Magic,Heat,48 - 42,1,N/A,N/A,N/A
+118,Dwyane Wade,FG_ASSISTED,Bam Adebayo,1:27,2,Heat,Magic,50 - 42,0,13,3,Jumper
+119,Nikola Vucevic,FOUL_ON_FLOOR,None,1:27,2,Magic,Heat,50 - 42,1,N/A,N/A,N/A
+120,Dwyane Wade,FT,None,1:27,2,Heat,Magic,51 - 42,0,N/A,1,N/A
+121,Terrence Ross,FG_MISS,None,1:04,2,Magic,Heat,51 - 42,1,27,3,Jumper
+122,Nikola Vucevic,OFFENSIVE_REBOUND,None,1:01,2,Magic,Heat,51 - 42,1,N/A,N/A,N/A
+123,Nikola Vucevic,TURNOVER,None,1:01,2,Magic,Heat,51 - 42,1,N/A,N/A,N/A
+124,Dwyane Wade,FG_ASSISTED,Bam Adebayo,49.4,2,Heat,Magic,53 - 42,0,11,3,Jumper
+125,Jerian Grant,FG_MISS,None,40.7,2,Magic,Heat,53 - 42,1,15,3,Jumper
+126,James Johnson,DEFENSIVE_REBOUND,None,38.8,2,Heat,Magic,53 - 42,0,N/A,N/A,N/A
+127,Dwyane Wade,FG_MISS,None,24.0,2,Heat,Magic,53 - 42,0,25,3,Jumper
+128,Jonathan Isaac,DEFENSIVE_REBOUND,None,20.4,2,Magic,Heat,53 - 42,1,N/A,N/A,N/A
+129,James Johnson,FOUL_ON_FLOOR,None,19.8,2,Heat,Magic,53 - 42,0,N/A,N/A,N/A
+130,Jonathan Isaac,FT,None,19.8,2,Magic,Heat,53 - 43,1,N/A,1,N/A
+131,Jonathan Isaac,FT,None,19.8,2,Magic,Heat,53 - 44,1,N/A,1,N/A
+132,Josh Richardson,FG_MISS,None,0.2,2,Heat,Magic,53 - 44,0,26,3,Jumper
+133,Team,OFFENSIVE_REBOUND,None,0.2,2,Heat,Magic,53 - 44,0,N/A,N/A,N/A
+134,End of,Unknown,None,0.0,2,Magic,Heat,53 - 44,1,N/A,N/A,N/A
+0,Aaron Gordon,SUBSTITUTION,Grant Jerian,12:00,3,Magic,Heat,53 - 44,1,N/A,N/A,N/A
+1,D.J. Augustin,SUBSTITUTION,Ross Terrence,12:00,3,Magic,Heat,53 - 44,1,N/A,N/A,N/A
+2,Justise Winslow,SUBSTITUTION,Wade Dwyane,12:00,3,Heat,Magic,53 - 44,0,N/A,N/A,N/A
+3,Hassan Whiteside,SUBSTITUTION,Adebayo Bam,12:00,3,Heat,Magic,53 - 44,0,N/A,N/A,N/A
+4,Tyler Johnson,FG_ASSISTED,Josh Richardson,11:50,3,Heat,Magic,56 - 44,0,25,3,Jumper
+5,Aaron Gordon,FG_MISS,None,11:33,3,Magic,Heat,56 - 44,1,20,3,Jumper
+6,Team,DEFENSIVE_REBOUND,None,11:31,3,Heat,Magic,56 - 44,0,N/A,N/A,N/A
+7,Josh Richardson,FG_MISS,None,11:18,3,Heat,Magic,56 - 44,0,26,3,Jumper
+8,Jonathan Isaac,DEFENSIVE_REBOUND,None,11:15,3,Magic,Heat,56 - 44,1,N/A,N/A,N/A
+9,Evan Fournier,FG_MISS,None,11:01,3,Magic,Heat,56 - 44,1,25,3,Jumper
+10,Tyler Johnson,DEFENSIVE_REBOUND,None,10:58,3,Heat,Magic,56 - 44,0,N/A,N/A,N/A
+11,Tyler Johnson,TURNOVER,Evan Fournier,10:51,3,Heat,Magic,56 - 44,0,N/A,N/A,N/A
+12,Evan Fournier,FG_ASSISTED,Aaron Gordon,10:45,3,Magic,Heat,56 - 47,1,26,3,Jumper
+13,Tyler Johnson,FG_ASSISTED,James Johnson,10:22,3,Heat,Magic,58 - 47,0,7,3,Jumper
+14,Evan Fournier,FG_MISS,None,10:07,3,Magic,Heat,58 - 47,1,26,3,Jumper
+15,Hassan Whiteside,DEFENSIVE_REBOUND,None,10:03,3,Heat,Magic,58 - 47,0,N/A,N/A,N/A
+16,Tyler Johnson,FG_ASSISTED,Justise Winslow,9:56,3,Heat,Magic,61 - 47,0,26,3,Jumper
+17,D.J. Augustin,FG_UNASSISTED,None,9:43,3,Magic,Heat,61 - 49,1,22,3,Jumper
+18,Tyler Johnson,FG_MISS,None,9:23,3,Heat,Magic,61 - 49,0,26,3,Jumper
+19,Jonathan Isaac,DEFENSIVE_REBOUND,None,9:21,3,Magic,Heat,61 - 49,1,N/A,N/A,N/A
+20,Jonathan Isaac,FG_UNASSISTED,None,9:15,3,Magic,Heat,61 - 51,1, ,3,Jumper
+21,Evan Fournier,FOUL_ON_FLOOR,None,8:59,3,Magic,Heat,61 - 51,1,N/A,N/A,N/A
+22,Evan Fournier,FOUL_ON_FLOOR,None,8:50,3,Magic,Heat,61 - 51,1,N/A,N/A,N/A
+23,Justise Winslow,FG_UNASSISTED,None,8:38,3,Heat,Magic,63 - 51,0, ,3,Jumper
+24,D.J. Augustin,TURNOVER,James Johnson,8:25,3,Magic,Heat,63 - 51,1,N/A,N/A,N/A
+25,Hassan Whiteside,FG_ASSISTED,Justise Winslow,8:20,3,Heat,Magic,65 - 51,0, ,3,Jumper
+26,D.J. Augustin,FOUL_ON_FLOOR,None,8:20,3,Magic,Heat,65 - 51,1,N/A,N/A,N/A
+27,Hassan Whiteside,FT_MISS,None,8:20,3,Heat,Magic,65 - 51,0,N/A,1,N/A
+28,Aaron Gordon,DEFENSIVE_REBOUND,None,8:17,3,Magic,Heat,65 - 51,1,N/A,N/A,N/A
+29,Aaron Gordon,FG_ASSISTED,Jonathan Isaac,8:05,3,Magic,Heat,65 - 54,1,26,3,Jumper
+30,D.J. Augustin,FOUL_ON_FLOOR,None,7:54,3,Magic,Heat,65 - 54,1,N/A,N/A,N/A
+31,Jerian Grant,SUBSTITUTION,Augustin D.J.,7:54,3,Magic,Heat,65 - 54,1,N/A,N/A,N/A
+32,Tyler Johnson,FG_ASSISTED,James Johnson,7:44,3,Heat,Magic,68 - 54,0,28,3,Jumper
+33,Team,Unknown,None,7:42,3,Magic,Heat,68 - 54,1,N/A,N/A,N/A
+34,Nikola Vucevic,TURNOVER,Justise Winslow,7:34,3,Magic,Heat,68 - 54,1,N/A,N/A,N/A
+35,Nikola Vucevic,Unknown,None,7:24,3,Magic,Heat,68 - 54,1,N/A,N/A,N/A
+36,Hassan Whiteside,FG_ASSISTED,James Johnson,7:13,3,Heat,Magic,70 - 54,0,0,2,Dunk
+37,Jerian Grant,TURNOVER,Hassan Whiteside,6:59,3,Magic,Heat,70 - 54,1,N/A,N/A,N/A
+38,Justise Winslow,FG_ASSISTED,Josh Richardson,6:53,3,Heat,Magic,72 - 54,0,7,3,Jumper
+39,Tyler Johnson,FOUL_ON_FLOOR,None,6:42,3,Heat,Magic,72 - 54,0,N/A,N/A,N/A
+40,Jerian Grant,FT,None,6:42,3,Magic,Heat,72 - 55,1,N/A,1,N/A
+41,Jerian Grant,FT,None,6:42,3,Magic,Heat,72 - 56,1,N/A,1,N/A
+42,Tyler Johnson,FG_ASSISTED,Hassan Whiteside,6:35,3,Heat,Magic,75 - 56,0,26,3,Jumper
+43,Jerian Grant,FOUL_ON_FLOOR,None,6:35,3,Magic,Heat,75 - 56,1,N/A,N/A,N/A
+44,Tyler Johnson,FT,None,6:35,3,Heat,Magic,76 - 56,0,N/A,1,N/A
+45,Aaron Gordon,FG_ASSISTED,Evan Fournier,6:21,3,Magic,Heat,76 - 59,1,24,3,Jumper
+46,Hassan Whiteside,FG_MISS,None,6:06,3,Heat,Magic,76 - 59,0,0,2,Layup
+47,Jonathan Isaac,DEFENSIVE_REBOUND,None,6:04,3,Magic,Heat,76 - 59,1,N/A,N/A,N/A
+48,Nikola Vucevic,FG_MISS,None,5:56,3,Magic,Heat,76 - 59,1, ,3,Jumper
+49,Josh Richardson,DEFENSIVE_REBOUND,None,5:53,3,Heat,Magic,76 - 59,0,N/A,N/A,N/A
+50,Tyler Johnson,FG_ASSISTED,James Johnson,5:40,3,Heat,Magic,79 - 59,0,26,3,Jumper
+51,Justise Winslow,FOUL_ON_FLOOR,None,5:26,3,Heat,Magic,79 - 59,0,N/A,N/A,N/A
+52,Evan Fournier,FT,None,5:26,3,Magic,Heat,79 - 60,1,N/A,1,N/A
+53,Jonathon Simmons,SUBSTITUTION,Gordon Aaron,5:26,3,Magic,Heat,79 - 60,1,N/A,N/A,N/A
+54,Dwyane Wade,SUBSTITUTION,Richardson Josh,5:26,3,Heat,Magic,79 - 60,0,N/A,N/A,N/A
+55,Evan Fournier,FT,None,5:26,3,Magic,Heat,79 - 61,1,N/A,1,N/A
+56,Hassan Whiteside,FG_ASSISTED,Dwyane Wade,5:12,3,Heat,Magic,81 - 61,0,0,2,Dunk
+57,Evan Fournier,FOUL_ON_FLOOR,None,5:12,3,Magic,Heat,81 - 61,1,N/A,N/A,N/A
+58,Hassan Whiteside,FT_MISS,None,5:12,3,Heat,Magic,81 - 61,0,N/A,1,N/A
+59,Justise Winslow,OFFENSIVE_REBOUND,None,5:10,3,Heat,Magic,81 - 61,0,N/A,N/A,N/A
+60,Justise Winslow,FG_UNASSISTED,None,5:00,3,Heat,Magic,83 - 61,0,0,2,Layup
+61,Jonathan Isaac,TURNOVER,Justise Winslow,4:37,3,Magic,Heat,83 - 61,1,N/A,N/A,N/A
+62,Hassan Whiteside,TURNOVER,None,4:20,3,Heat,Magic,83 - 61,0,N/A,N/A,N/A
+63,Hassan Whiteside,FOUL_ON_FLOOR,None,4:08,3,Heat,Magic,83 - 61,0,N/A,N/A,N/A
+64,Nikola Vucevic,FT_MISS,None,4:08,3,Magic,Heat,83 - 61,1,N/A,1,N/A
+65,Team,OFFENSIVE_REBOUND,None,4:08,3,Magic,Heat,83 - 61,1,N/A,N/A,N/A
+66,Terrence Ross,SUBSTITUTION,Fournier Evan,4:08,3,Magic,Heat,83 - 61,1,N/A,N/A,N/A
+67,Nikola Vucevic,FT,None,4:08,3,Magic,Heat,83 - 62,1,N/A,1,N/A
+68,Justise Winslow,FG_ASSISTED,Dwyane Wade,3:43,3,Heat,Magic,86 - 62,0,23,3,Jumper
+69,Jonathan Isaac,FG_MISS,None,3:27,3,Magic,Heat,86 - 62,1,0,2,Layup
+70,Justise Winslow,DEFENSIVE_REBOUND,None,3:25,3,Heat,Magic,86 - 62,0,N/A,N/A,N/A
+71,Tyler Johnson,FG_UNASSISTED,None,3:09,3,Heat,Magic,88 - 62,0,11,3,Jumper
+72,Team,Unknown,None,3:09,3,Magic,Heat,88 - 62,1,N/A,N/A,N/A
+73,Aaron Gordon,SUBSTITUTION,Isaac Jonathan,3:09,3,Magic,Heat,88 - 62,1,N/A,N/A,N/A
+74,Justise Winslow,FOUL_ON_FLOOR,None,2:54,3,Heat,Magic,88 - 62,0,N/A,N/A,N/A
+75,Josh Richardson,SUBSTITUTION,Winslow Justise,2:54,3,Heat,Magic,88 - 62,0,N/A,N/A,N/A
+76,Jonathon Simmons,FG_ASSISTED,Aaron Gordon,2:50,3,Magic,Heat,88 - 64,1,21,3,Jumper
+77,Hassan Whiteside,FOUL_ON_FLOOR,None,2:34,3,Heat,Magic,88 - 64,0,N/A,N/A,N/A
+78,Hassan Whiteside,TURNOVER,None,2:34,3,Heat,Magic,88 - 64,0,N/A,N/A,N/A
+79,James Johnson,FOUL_ON_FLOOR,None,2:21,3,Heat,Magic,88 - 64,0,N/A,N/A,N/A
+80,Aaron Gordon,FT,None,2:21,3,Magic,Heat,88 - 65,1,N/A,1,N/A
+81,Bam Adebayo,SUBSTITUTION,Whiteside Hassan,2:21,3,Heat,Magic,88 - 65,0,N/A,N/A,N/A
+82,Aaron Gordon,FT,None,2:21,3,Magic,Heat,88 - 66,1,N/A,1,N/A
+83,Tyler Johnson,TURNOVER,Aaron Gordon,2:05,3,Heat,Magic,88 - 66,0,N/A,N/A,N/A
+84,Bam Adebayo,FOUL_ON_FLOOR,None,1:55,3,Heat,Magic,88 - 66,0,N/A,N/A,N/A
+85,Aaron Gordon,FT,None,1:55,3,Magic,Heat,88 - 67,1,N/A,1,N/A
+86,Aaron Gordon,FT,None,1:55,3,Magic,Heat,88 - 68,1,N/A,1,N/A
+87,Team,Unknown,None,1:55,3,Heat,Magic,88 - 68,0,N/A,N/A,N/A
+88,Dwyane Wade,FG_MISS,None,1:40,3,Heat,Magic,88 - 68,0,19,3,Jumper
+89,Team,DEFENSIVE_REBOUND,None,1:37,3,Magic,Heat,88 - 68,1,N/A,N/A,N/A
+90,Jerian Grant,FG_MISS,None,1:24,3,Magic,Heat,88 - 68,1,26,3,Jumper
+91,James Johnson,DEFENSIVE_REBOUND,None,1:20,3,Heat,Magic,88 - 68,0,N/A,N/A,N/A
+92,Tyler Johnson,FG_MISS,None,1:06,3,Heat,Magic,88 - 68,0, ,3,Jumper
+93,Terrence Ross,DEFENSIVE_REBOUND,None,1:04,3,Magic,Heat,88 - 68,1,N/A,N/A,N/A
+94,James Johnson,FOUL_ON_FLOOR,None,58.4,3,Heat,Magic,88 - 68,0,N/A,N/A,N/A
+95,Terrence Ross,FT,None,58.4,3,Magic,Heat,88 - 69,1,N/A,1,N/A
+96,Derrick Jones,SUBSTITUTION,Johnson James,58.4,3,Heat,Magic,88 - 69,0,N/A,N/A,N/A
+97,Terrence Ross,FT_MISS,None,58.4,3,Magic,Heat,88 - 69,1,N/A,1,N/A
+98,Josh Richardson,DEFENSIVE_REBOUND,None,56.7,3,Heat,Magic,88 - 69,0,N/A,N/A,N/A
+99,Josh Richardson,FG_MISS,None,38.2,3,Heat,Magic,88 - 69,0,16,3,Jumper
+100,Josh Richardson,OFFENSIVE_REBOUND,None,35.6,3,Heat,Magic,88 - 69,0,N/A,N/A,N/A
+101,Dwyane Wade,FG_UNASSISTED,None,25.0,3,Heat,Magic,90 - 69,0, ,3,Jumper
+102,Jerian Grant,FG_UNASSISTED,None,4.4,3,Magic,Heat,90 - 71,1,9,3,Jumper
+103,Dwyane Wade,FG_MISS,None,0.0,3,Heat,Magic,90 - 71,0,24,3,Jumper
+104,Team,OFFENSIVE_REBOUND,None,0.0,3,Heat,Magic,90 - 71,0,N/A,N/A,N/A
+105,End of,Unknown,None,0.0,3,Magic,Heat,90 - 71,1,N/A,N/A,N/A
+0,Mo Bamba,SUBSTITUTION,Vucevic Nikola,12:00,4,Magic,Heat,90 - 71,1,N/A,N/A,N/A
+1,D.J. Augustin,SUBSTITUTION,Grant Jerian,12:00,4,Magic,Heat,90 - 71,1,N/A,N/A,N/A
+2,Kelly Olynyk,SUBSTITUTION,Johnson Tyler,12:00,4,Heat,Magic,90 - 71,0,N/A,N/A,N/A
+3,Mo Bamba,FG_ASSISTED,Aaron Gordon,11:38,4,Magic,Heat,90 - 73,1, ,3,Jumper
+4,Dwyane Wade,FG_MISS,None,11:16,4,Heat,Magic,90 - 73,0,11,3,Jumper
+5,Mo Bamba,DEFENSIVE_REBOUND,None,11:13,4,Magic,Heat,90 - 73,1,N/A,N/A,N/A
+6,Jonathon Simmons,TURNOVER,None,11:07,4,Magic,Heat,90 - 73,1,N/A,N/A,N/A
+7,Josh Richardson,TURNOVER,None,10:52,4,Heat,Magic,90 - 73,0,N/A,N/A,N/A
+8,Jonathon Simmons,TURNOVER,Josh Richardson,10:37,4,Magic,Heat,90 - 73,1,N/A,N/A,N/A
+9,Kelly Olynyk,FG_ASSISTED,Dwyane Wade,10:21,4,Heat,Magic,92 - 73,0,9,3,Jumper
+10,Jonathon Simmons,FG_ASSISTED,Mo Bamba,9:58,4,Magic,Heat,92 - 75,1,10,3,Jumper
+11,Bam Adebayo,TURNOVER,None,9:33,4,Heat,Magic,92 - 75,0,N/A,N/A,N/A
+12,Bam Adebayo,TURNOVER,None,9:33,4,Heat,Magic,92 - 75,0,N/A,N/A,N/A
+13,Derrick Jones,Unknown,None,9:25,4,Heat,Magic,92 - 75,0,N/A,N/A,N/A
+14,Mo Bamba,FG_MISS,None,9:16,4,Magic,Heat,92 - 75,1,15,3,Jumper
+15,Bam Adebayo,DEFENSIVE_REBOUND,None,9:12,4,Heat,Magic,92 - 75,0,N/A,N/A,N/A
+16,Dwyane Wade,FG_MISS,None,9:06,4,Heat,Magic,92 - 75,0,26,3,Jumper
+17,Team,DEFENSIVE_REBOUND,None,9:05,4,Magic,Heat,92 - 75,1,N/A,N/A,N/A
+18,Bam Adebayo,FOUL_ON_FLOOR,None,9:05,4,Heat,Magic,92 - 75,0,N/A,N/A,N/A
+19,Terrence Ross,FG_ASSISTED,Jonathon Simmons,8:53,4,Magic,Heat,92 - 78,1,26,3,Jumper
+20,Dwyane Wade,FG_MISS,None,8:37,4,Heat,Magic,92 - 78,0,13,3,Jumper
+21,Aaron Gordon,DEFENSIVE_REBOUND,None,8:34,4,Magic,Heat,92 - 78,1,N/A,N/A,N/A
+22,D.J. Augustin,FG_ASSISTED,Terrence Ross,8:29,4,Magic,Heat,92 - 81,1,23,3,Jumper
+23,Team,Unknown,None,8:28,4,Heat,Magic,92 - 81,0,N/A,N/A,N/A
+24,Bam Adebayo,FG_MISS,None,8:11,4,Heat,Magic,92 - 81,0,12,3,Jumper
+25,Mo Bamba,DEFENSIVE_REBOUND,None,8:09,4,Magic,Heat,92 - 81,1,N/A,N/A,N/A
+26,Jonathon Simmons,FG_UNASSISTED,None,8:00,4,Magic,Heat,92 - 84,1,26,3,Jumper
+27,D.J. Augustin,FOUL_ON_FLOOR,None,7:45,4,Magic,Heat,92 - 84,1,N/A,N/A,N/A
+28,Jerian Grant,SUBSTITUTION,Augustin D.J.,7:45,4,Magic,Heat,92 - 84,1,N/A,N/A,N/A
+29,Mo Bamba,FOUL_ON_FLOOR,None,7:31,4,Magic,Heat,92 - 84,1,N/A,N/A,N/A
+30,Josh Richardson,FT,None,7:31,4,Heat,Magic,93 - 84,0,N/A,1,N/A
+31,Hassan Whiteside,SUBSTITUTION,Adebayo Bam,7:31,4,Heat,Magic,93 - 84,0,N/A,N/A,N/A
+32,Josh Richardson,FT,None,7:31,4,Heat,Magic,94 - 84,0,N/A,1,N/A
+33,Mo Bamba,FG_MISS,None,7:13,4,Magic,Heat,94 - 84,1,2,3,Jumper
+34,Derrick Jones,DEFENSIVE_REBOUND,None,7:11,4,Heat,Magic,94 - 84,0,N/A,N/A,N/A
+35,Josh Richardson,FG_MISS,None,6:57,4,Heat,Magic,94 - 84,0,23,3,Jumper
+36,Terrence Ross,DEFENSIVE_REBOUND,None,6:55,4,Magic,Heat,94 - 84,1,N/A,N/A,N/A
+37,Terrence Ross's,FG_MISS,Hassan Whiteside,6:47,4,Heat,Magic,94 - 84,1,0,2,Layup
+38,Josh Richardson,DEFENSIVE_REBOUND,None,6:44,4,Heat,Magic,94 - 84,0,N/A,N/A,N/A
+39,Jonathon Simmons,FOUL_FLAGRANT_1,None,6:44,4,Magic,Heat,94 - 84,1,N/A,N/A,N/A
+40,Josh Richardson,FT,None,6:44,4,Heat,Magic,95 - 84,0,N/A,1,N/A
+41,Josh Richardson,FT,None,6:44,4,Heat,Magic,96 - 84,0,N/A,1,N/A
+42,Derrick Jones,FG_MISS,Aaron Gordon,6:34,4,Magic,Heat,96 - 84,0,0,2,Dunk
+43,Mo Bamba,DEFENSIVE_REBOUND,None,6:30,4,Magic,Heat,96 - 84,1,N/A,N/A,N/A
+44,Kelly Olynyk,FOUL_ON_FLOOR,None,6:29,4,Heat,Magic,96 - 84,0,N/A,N/A,N/A
+45,Evan Fournier,SUBSTITUTION,Simmons Jonathon,6:29,4,Magic,Heat,96 - 84,1,N/A,N/A,N/A
+46,Justise Winslow,SUBSTITUTION,Wade Dwyane,6:29,4,Heat,Magic,96 - 84,0,N/A,N/A,N/A
+47,Terrence Ross,FG_MISS,None,6:20,4,Magic,Heat,96 - 84,1,28,3,Jumper
+48,Derrick Jones,DEFENSIVE_REBOUND,None,6:18,4,Heat,Magic,96 - 84,0,N/A,N/A,N/A
+49,Hassan Whiteside,FG_MISS,None,6:06,4,Heat,Magic,96 - 84,0,14,3,Jumper
+50,Derrick Jones,OFFENSIVE_REBOUND,None,6:03,4,Heat,Magic,96 - 84,0,N/A,N/A,N/A
+51,Mo Bamba,FOUL_ON_FLOOR,None,6:02,4,Magic,Heat,96 - 84,1,N/A,N/A,N/A
+52,Derrick Jones,FT,None,6:02,4,Heat,Magic,97 - 84,0,N/A,1,N/A
+53,Derrick Jones,FT_MISS,None,6:02,4,Heat,Magic,97 - 84,0,N/A,1,N/A
+54,Terrence Ross,DEFENSIVE_REBOUND,None,6:00,4,Magic,Heat,97 - 84,1,N/A,N/A,N/A
+55,Aaron Gordon,FG_MISS,None,5:53,4,Magic,Heat,97 - 84,1,26,3,Jumper
+56,Josh Richardson,DEFENSIVE_REBOUND,None,5:50,4,Heat,Magic,97 - 84,0,N/A,N/A,N/A
+57,Justise Winslow,FG_UNASSISTED,None,5:38,4,Heat,Magic,99 - 84,0,19,3,Jumper
+58,Team,Unknown,None,5:36,4,Magic,Heat,99 - 84,1,N/A,N/A,N/A
+59,D.J. Augustin,SUBSTITUTION,Bamba Mo,5:36,4,Magic,Heat,99 - 84,1,N/A,N/A,N/A
+60,Nikola Vucevic,SUBSTITUTION,Grant Jerian,5:36,4,Magic,Heat,99 - 84,1,N/A,N/A,N/A
+61,Aaron Gordon,FG_MISS,None,5:13,4,Magic,Heat,99 - 84,1,25,3,Jumper
+62,Team,DEFENSIVE_REBOUND,None,5:12,4,Heat,Magic,99 - 84,0,N/A,N/A,N/A
+63,Justise Winslow,FG_MISS,None,4:57,4,Heat,Magic,99 - 84,0, ,3,Jumper
+64,Hassan Whiteside,OFFENSIVE_REBOUND,None,4:51,4,Heat,Magic,99 - 84,0,N/A,N/A,N/A
+65,Hassan Whiteside,FG_UNASSISTED,None,4:51,4,Heat,Magic,101 - 84,0, ,3,Jumper
+66,Nikola Vucevic,FG_MISS,None,4:37,4,Magic,Heat,101 - 84,1,17,3,Jumper
+67,Justise Winslow,DEFENSIVE_REBOUND,None,4:35,4,Heat,Magic,101 - 84,0,N/A,N/A,N/A
+68,Justise Winslow,FG_UNASSISTED,None,4:23,4,Heat,Magic,103 - 84,0,0,2,Layup
+69,Nikola Vucevic,FG_ASSISTED,Evan Fournier,4:07,4,Magic,Heat,103 - 86,1,15,3,Jumper
+70,Justise Winslow,FG_ASSISTED,Josh Richardson,3:47,4,Heat,Magic,106 - 86,0,26,3,Jumper
+71,Team,Unknown,None,3:46,4,Magic,Heat,106 - 86,1,N/A,N/A,N/A
+72,Wesley Iwundu,SUBSTITUTION,Gordon Aaron,3:46,4,Magic,Heat,106 - 86,1,N/A,N/A,N/A
+73,Jerian Grant,SUBSTITUTION,Fournier Evan,3:46,4,Magic,Heat,106 - 86,1,N/A,N/A,N/A
+74,Khem Birch,SUBSTITUTION,Ross Terrence,3:46,4,Magic,Heat,106 - 86,1,N/A,N/A,N/A
+75,Jarell Martin,SUBSTITUTION,Augustin D.J.,3:46,4,Magic,Heat,106 - 86,1,N/A,N/A,N/A
+76,Isaiah Briscoe,SUBSTITUTION,Vucevic Nikola,3:46,4,Magic,Heat,106 - 86,1,N/A,N/A,N/A
+77,Jerian Grant,FG_MISS,None,3:26,4,Magic,Heat,106 - 86,1,25,3,Jumper
+78,Josh Richardson,DEFENSIVE_REBOUND,None,3:22,4,Heat,Magic,106 - 86,0,N/A,N/A,N/A
+79,Hassan Whiteside,FG_UNASSISTED,None,3:04,4,Heat,Magic,108 - 86,0,0,2,Dunk
+80,Hassan Whiteside,FOUL_ON_FLOOR,None,3:04,4,Heat,Magic,108 - 86,0,N/A,N/A,N/A
+81,Jerian Grant,FT,None,3:04,4,Magic,Heat,108 - 87,1,N/A,1,N/A
+82,Isaiah Briscoe,TURNOVER,Kelly Olynyk,2:47,4,Magic,Heat,108 - 87,1,N/A,N/A,N/A
+83,Josh Richardson,FG_MISS,None,2:36,4,Heat,Magic,108 - 87,0,25,3,Jumper
+84,Khem Birch,DEFENSIVE_REBOUND,None,2:33,4,Magic,Heat,108 - 87,1,N/A,N/A,N/A
+85,Jarell Martin,FG_MISS,None,2:26,4,Magic,Heat,108 - 87,1,25,3,Jumper
+86,Josh Richardson,DEFENSIVE_REBOUND,None,2:22,4,Heat,Magic,108 - 87,0,N/A,N/A,N/A
+87,Derrick Jones,FG_ASSISTED,Kelly Olynyk,2:10,4,Heat,Magic,111 - 87,0,22,3,Jumper
+88,Isaiah Briscoe,FG_UNASSISTED,None,1:59,4,Magic,Heat,111 - 89,1,0,2,Layup
+89,Hassan Whiteside,FG_MISS,None,1:42,4,Heat,Magic,111 - 89,0,16,3,Jumper
+90,Team,DEFENSIVE_REBOUND,None,1:41,4,Magic,Heat,111 - 89,1,N/A,N/A,N/A
+91,Wayne Ellington,SUBSTITUTION,Richardson Josh,1:41,4,Heat,Magic,111 - 89,0,N/A,N/A,N/A
+92,Bam Adebayo,SUBSTITUTION,Whiteside Hassan,1:41,4,Heat,Magic,111 - 89,0,N/A,N/A,N/A
+93,Bam Adebayo,FOUL_ON_FLOOR,None,1:19,4,Heat,Magic,111 - 89,0,N/A,N/A,N/A
+94,Wesley Iwundu,FT,None,1:19,4,Magic,Heat,111 - 90,1,N/A,1,N/A
+95,Wesley Iwundu,FT,None,1:19,4,Magic,Heat,111 - 91,1,N/A,1,N/A
+96,Bam Adebayo,FG_UNASSISTED,None,54.7,4,Heat,Magic,113 - 91,0,18,3,Jumper
+97,Wesley Iwundu,FG_MISS,None,43.1,4,Magic,Heat,113 - 91,1,19,3,Jumper
+98,Justise Winslow,DEFENSIVE_REBOUND,None,41.0,4,Heat,Magic,113 - 91,0,N/A,N/A,N/A
+99,Jarell Martin,FOUL_ON_FLOOR,None,31.2,4,Magic,Heat,113 - 91,1,N/A,N/A,N/A
+100,Kelly Olynyk,FT,None,31.2,4,Heat,Magic,114 - 91,0,N/A,1,N/A
+101,Kelly Olynyk,FT,None,31.2,4,Heat,Magic,115 - 91,0,N/A,1,N/A
+102,Khem Birch,FG_MISS,None,22.6,4,Magic,Heat,115 - 91,1,16,3,Jumper
+103,Bam Adebayo,DEFENSIVE_REBOUND,None,18.6,4,Heat,Magic,115 - 91,0,N/A,N/A,N/A
+104,End of,Unknown,None,0.0,4,Magic,Heat,115 - 91,1,N/A,N/A,N/A
+105,End of,Unknown,None,0.0,4,Magic,Heat,115 - 91,1,N/A,N/A,N/A

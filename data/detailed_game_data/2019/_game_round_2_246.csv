@@ -1,0 +1,452 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Al Horford,JUMP_BALL,None,12:00,1,Lakers,Celtics,0 - 0,1,N/A,N/A,N/A
+1,Kentavious Caldwell-Pope,FG_MISS,None,11:41,1,Lakers,Celtics,0 - 0,1,17,2,Jumper
+2,Jayson Tatum,DEFENSIVE_REBOUND,None,11:36,1,Celtics,Lakers,0 - 0,0,N/A,N/A,N/A
+3,Al Horford,FG_UNASSISTED,None,11:19,1,Celtics,Lakers,2 - 0,0,4,2,Jumper
+4,Kentavious Caldwell-Pope,FG_MISS,None,11:04,1,Lakers,Celtics,2 - 0,1,26,3,Jumper
+5,Al Horford,DEFENSIVE_REBOUND,None,11:01,1,Celtics,Lakers,2 - 0,0,N/A,N/A,N/A
+6,Al Horford,FG_ASSISTED,Marcus Smart,10:51,1,Celtics,Lakers,4 - 0,0,15,2,Jumper
+7,Kentavious Caldwell-Pope,FG_ASSISTED,Moritz Wagner,10:32,1,Lakers,Celtics,4 - 2,1,0,2,Layup
+8,Al Horford,TURNOVER,Rajon Rondo,10:13,1,Celtics,Lakers,4 - 2,0,N/A,N/A,N/A
+9,LeBron James,FG_UNASSISTED,None,10:07,1,Lakers,Celtics,4 - 4,1,-,2,Jumper
+10,Al Horford,FG_ASSISTED,Kyrie Irving,9:55,1,Celtics,Lakers,6 - 4,0,20,2,Jumper
+11,Moritz Wagner,FG_MISS,None,9:43,1,Lakers,Celtics,6 - 4,1,26,3,Jumper
+12,Marcus Morris,DEFENSIVE_REBOUND,None,9:40,1,Celtics,Lakers,6 - 4,0,N/A,N/A,N/A
+13,Marcus Morris,FG_ASSISTED,Marcus Smart,9:31,1,Celtics,Lakers,8 - 4,0,13,2,Jumper
+14,JaVale McGee,FG_ASSISTED,LeBron James,9:12,1,Lakers,Celtics,8 - 6,1,5,2,Jumper
+15,Marcus Morris,FG_UNASSISTED,None,8:56,1,Celtics,Lakers,11 - 6,0,25,2,Jumper
+16,JaVale McGee,TURNOVER,Kyrie Irving,8:43,1,Lakers,Celtics,11 - 6,1,N/A,N/A,N/A
+17,Marcus Morris,FG_MISS,None,8:37,1,Celtics,Lakers,11 - 6,0,26,3,Jumper
+18,LeBron James,DEFENSIVE_REBOUND,None,8:33,1,Lakers,Celtics,11 - 6,1,N/A,N/A,N/A
+19,Kentavious Caldwell-Pope,FG_MISS,None,8:31,1,Lakers,Celtics,11 - 6,1,24,3,Jumper
+20,Jayson Tatum,DEFENSIVE_REBOUND,None,8:31,1,Celtics,Lakers,11 - 6,0,N/A,N/A,N/A
+21,Jayson Tatum,FG_MISS,None,8:24,1,Celtics,Lakers,11 - 6,0,25,3,Jumper
+22,Moritz Wagner,DEFENSIVE_REBOUND,None,8:19,1,Lakers,Celtics,11 - 6,1,N/A,N/A,N/A
+23,LeBron James,FG_ASSISTED,Rajon Rondo,8:16,1,Lakers,Celtics,11 - 8,1,0,2,Dunk
+24,Kyrie Irving,FG_ASSISTED,Jayson Tatum,8:05,1,Celtics,Lakers,14 - 8,0,27,3,Jumper
+25,LeBron James,FG_MISS,None,7:41,1,Lakers,Celtics,14 - 8,1,6,2,Jumper
+26,Marcus Morris,DEFENSIVE_REBOUND,None,7:38,1,Celtics,Lakers,14 - 8,0,N/A,N/A,N/A
+27,Kyrie Irving,FG_MISS,None,7:34,1,Celtics,Lakers,14 - 8,0,29,3,Jumper
+28,JaVale McGee,DEFENSIVE_REBOUND,None,7:30,1,Lakers,Celtics,14 - 8,1,N/A,N/A,N/A
+29,Rajon Rondo,FG_MISS,None,7:08,1,Lakers,Celtics,14 - 8,1,10,2,Jumper
+30,Al Horford,DEFENSIVE_REBOUND,None,7:07,1,Celtics,Lakers,14 - 8,0,N/A,N/A,N/A
+31,Jayson Tatum,FG_MISS,None,6:52,1,Celtics,Lakers,14 - 8,0,9,2,Jumper
+32,JaVale McGee,DEFENSIVE_REBOUND,None,6:49,1,Lakers,Celtics,14 - 8,1,N/A,N/A,N/A
+33,LeBron James,FG_ASSISTED,Rajon Rondo,6:41,1,Lakers,Celtics,14 - 10,1,0,2,Dunk
+34,Marcus Morris,FG_MISS,None,6:14,1,Celtics,Lakers,14 - 10,0,25,3,Jumper
+35,JaVale McGee,DEFENSIVE_REBOUND,None,6:11,1,Lakers,Celtics,14 - 10,1,N/A,N/A,N/A
+36,Marcus Smart,FOUL_ON_FLOOR,None,6:00,1,Celtics,Lakers,14 - 10,0,N/A,N/A,N/A
+37,Team,Unknown,None,6:00,1,Lakers,Celtics,14 - 10,1,N/A,N/A,N/A
+38,Jaylen Brown,SUBSTITUTION,Tatum Jayson,6:00,1,Celtics,Lakers,14 - 10,0,N/A,N/A,N/A
+39,Gordon Hayward,SUBSTITUTION,Morris Marcus,6:00,1,Celtics,Lakers,14 - 10,0,N/A,N/A,N/A
+40,Aron Baynes,SUBSTITUTION,Horford Al,6:00,1,Celtics,Lakers,14 - 10,0,N/A,N/A,N/A
+41,JaVale McGee,FT,None,6:00,1,Lakers,Celtics,14 - 11,1,N/A,1,N/A
+42,JaVale McGee,FT,None,6:00,1,Lakers,Celtics,14 - 12,1,N/A,1,N/A
+43,Marcus Smart,FG_MISS,None,5:45,1,Celtics,Lakers,14 - 12,0,26,3,Jumper
+44,JaVale McGee,DEFENSIVE_REBOUND,None,5:44,1,Lakers,Celtics,14 - 12,1,N/A,N/A,N/A
+45,LeBron James,FG_UNASSISTED,None,5:30,1,Lakers,Celtics,14 - 14,1,14,2,Jumper
+46,Marcus Smart,FG_MISS,None,5:07,1,Celtics,Lakers,14 - 14,0,26,3,Jumper
+47,Rajon Rondo,DEFENSIVE_REBOUND,None,5:03,1,Lakers,Celtics,14 - 14,1,N/A,N/A,N/A
+48,Moritz Wagner,FG_ASSISTED,Rajon Rondo,4:58,1,Lakers,Celtics,14 - 16,1,0,2,Layup
+49,Team,Unknown,None,4:56,1,Celtics,Lakers,14 - 16,0,N/A,N/A,N/A
+50,Josh Hart,SUBSTITUTION,James LeBron,4:56,1,Lakers,Celtics,14 - 16,1,N/A,N/A,N/A
+51,JaVale McGee,Unknown,None,4:39,1,Lakers,Celtics,14 - 16,1,N/A,N/A,N/A
+52,Jaylen Brown,FG_ASSISTED,Marcus Smart,4:30,1,Celtics,Lakers,16 - 16,0,20,2,Jumper
+53,JaVale McGee,FG_MISS,None,4:12,1,Lakers,Celtics,16 - 16,1,5,2,Jumper
+54,Team,DEFENSIVE_REBOUND,None,4:12,1,Celtics,Lakers,16 - 16,0,N/A,N/A,N/A
+55,Kyrie Irving,FG_UNASSISTED,None,4:04,1,Celtics,Lakers,19 - 16,0,25,3,Jumper
+56,Rajon Rondo,FG_UNASSISTED,None,3:46,1,Lakers,Celtics,19 - 18,1,0,2,Layup
+57,Marcus Smart,FG_UNASSISTED,None,3:30,1,Celtics,Lakers,21 - 18,0,11,2,Jumper
+58,Moritz Wagner,TURNOVER,None,3:17,1,Lakers,Celtics,21 - 18,1,N/A,N/A,N/A
+59,Moritz Wagner,TURNOVER,None,3:17,1,Lakers,Celtics,21 - 18,1,N/A,N/A,N/A
+60,Reggie Bullock,SUBSTITUTION,Caldwell-Pope Kentavious,3:17,1,Lakers,Celtics,21 - 18,1,N/A,N/A,N/A
+61,Johnathan Williams,SUBSTITUTION,McGee JaVale,3:17,1,Lakers,Celtics,21 - 18,1,N/A,N/A,N/A
+62,Terry Rozier,SUBSTITUTION,Smart Marcus,3:17,1,Celtics,Lakers,21 - 18,0,N/A,N/A,N/A
+63,Aron Baynes,FG_MISS,None,3:08,1,Celtics,Lakers,21 - 18,0, ,2,Jumper
+64,Rajon Rondo,DEFENSIVE_REBOUND,None,3:05,1,Lakers,Celtics,21 - 18,1,N/A,N/A,N/A
+65,Moritz Wagner,FG_MISS,None,2:54,1,Lakers,Celtics,21 - 18,1,0,2,Layup
+66,Johnathan Williams,OFFENSIVE_REBOUND,None,2:51,1,Lakers,Celtics,21 - 18,1,N/A,N/A,N/A
+67,Johnathan Williams,FG_UNASSISTED,None,2:51,1,Lakers,Celtics,21 - 20,1, ,2,Jumper
+68,Jaylen Brown,FG_MISS,None,2:42,1,Celtics,Lakers,21 - 20,0,30,3,Jumper
+69,Johnathan Williams,DEFENSIVE_REBOUND,None,2:39,1,Lakers,Celtics,21 - 20,1,N/A,N/A,N/A
+70,Rajon Rondo,TURNOVER,None,2:19,1,Lakers,Celtics,21 - 20,1,N/A,N/A,N/A
+71,Rajon Rondo,TURNOVER,None,2:19,1,Lakers,Celtics,21 - 20,1,N/A,N/A,N/A
+72,Alex Caruso,SUBSTITUTION,Wagner Moritz,2:19,1,Lakers,Celtics,21 - 20,1,N/A,N/A,N/A
+73,Al Horford,SUBSTITUTION,Baynes Aron,2:19,1,Celtics,Lakers,21 - 20,0,N/A,N/A,N/A
+74,Gordon Hayward,FG_ASSISTED,Al Horford,2:04,1,Celtics,Lakers,23 - 20,0,0,2,Layup
+75,Johnathan Williams,FG_MISS,None,1:53,1,Lakers,Celtics,23 - 20,1,0,2,Layup
+76,Kyrie Irving,DEFENSIVE_REBOUND,None,1:51,1,Celtics,Lakers,23 - 20,0,N/A,N/A,N/A
+77,Gordon Hayward,FG_MISS,None,1:49,1,Celtics,Lakers,23 - 20,0, ,2,Jumper
+78,Rajon Rondo,DEFENSIVE_REBOUND,None,1:44,1,Lakers,Celtics,23 - 20,1,N/A,N/A,N/A
+79,Johnathan Williams,FG_ASSISTED,Rajon Rondo,1:40,1,Lakers,Celtics,23 - 22,1, ,2,Jumper
+80,Jaylen Brown,FG_MISS,None,1:38,1,Celtics,Lakers,23 - 22,0,10,2,Jumper
+81,Al Horford,OFFENSIVE_REBOUND,None,1:24,1,Celtics,Lakers,23 - 22,0,N/A,N/A,N/A
+82,Johnathan Williams,FOUL_ON_FLOOR,None,1:23,1,Lakers,Celtics,23 - 22,1,N/A,N/A,N/A
+83,Al Horford,FT,None,1:23,1,Celtics,Lakers,24 - 22,0,N/A,1,N/A
+84,Jayson Tatum,SUBSTITUTION,Irving Kyrie,1:23,1,Celtics,Lakers,24 - 22,0,N/A,N/A,N/A
+85,Al Horford,FT,None,1:23,1,Celtics,Lakers,25 - 22,0,N/A,1,N/A
+86,Reggie Bullock,FG_MISS,None,1:14,1,Lakers,Celtics,25 - 22,1,19,2,Jumper
+87,Al Horford,DEFENSIVE_REBOUND,None,1:11,1,Celtics,Lakers,25 - 22,0,N/A,N/A,N/A
+88,Al Horford,TURNOVER,None,1:06,1,Celtics,Lakers,25 - 22,0,N/A,N/A,N/A
+89,Rajon Rondo,FG_MISS,None,46.1,1,Lakers,Celtics,25 - 22,1, ,2,Jumper
+90,Terry Rozier,DEFENSIVE_REBOUND,None,43.1,1,Celtics,Lakers,25 - 22,0,N/A,N/A,N/A
+91,Terry Rozier,FG_MISS,None,40.6,1,Celtics,Lakers,25 - 22,0, ,2,Jumper
+92,Team,OFFENSIVE_REBOUND,None,35.2,1,Celtics,Lakers,25 - 22,0,N/A,N/A,N/A
+93,Jayson Tatum,TURNOVER,None,29.0,1,Celtics,Lakers,25 - 22,0,N/A,N/A,N/A
+94,Alex Caruso,FG_UNASSISTED,None,19.2,1,Lakers,Celtics,25 - 24,1,0,2,Layup
+95,Al Horford,Unknown,None,19.2,1,Celtics,Lakers,25 - 24,0,N/A,N/A,N/A
+96,End of,Unknown,None,0.0,1,Lakers,Celtics,25 - 24,1,N/A,N/A,N/A
+0,Isaac Bonga,SUBSTITUTION,Rondo Rajon,12:00,2,Lakers,Celtics,25 - 24,1,N/A,N/A,N/A
+1,Jaylen Brown,FG_MISS,None,11:42,2,Celtics,Lakers,25 - 24,0,28,3,Jumper
+2,Johnathan Williams,DEFENSIVE_REBOUND,None,11:38,2,Lakers,Celtics,25 - 24,1,N/A,N/A,N/A
+3,Josh Hart,FG_MISS,None,11:21,2,Lakers,Celtics,25 - 24,1,27,3,Jumper
+4,Jaylen Brown,DEFENSIVE_REBOUND,None,11:19,2,Celtics,Lakers,25 - 24,0,N/A,N/A,N/A
+5,Jayson Tatum,FG_ASSISTED,Terry Rozier,11:12,2,Celtics,Lakers,27 - 24,0,15,2,Jumper
+6,Johnathan Williams,FG_MISS,None,10:59,2,Lakers,Celtics,27 - 24,1,16,2,Jumper
+7,Jayson Tatum,DEFENSIVE_REBOUND,None,10:56,2,Celtics,Lakers,27 - 24,0,N/A,N/A,N/A
+8,Terry Rozier,FG_MISS,None,10:47,2,Celtics,Lakers,27 - 24,0,18,2,Jumper
+9,Isaac Bonga,DEFENSIVE_REBOUND,None,10:44,2,Lakers,Celtics,27 - 24,1,N/A,N/A,N/A
+10,Isaac Bonga,TURNOVER,Terry Rozier,10:39,2,Lakers,Celtics,27 - 24,1,N/A,N/A,N/A
+11,Jaylen Brown,FG_UNASSISTED,None,10:34,2,Celtics,Lakers,29 - 24,0, ,2,Jumper
+12,Josh Hart,FOUL_ON_FLOOR,None,10:34,2,Lakers,Celtics,29 - 24,1,N/A,N/A,N/A
+13,LeBron James,SUBSTITUTION,Bonga Isaac,10:34,2,Lakers,Celtics,29 - 24,1,N/A,N/A,N/A
+14,Jaylen Brown,FT,None,10:34,2,Celtics,Lakers,30 - 24,0,N/A,1,N/A
+15,Johnathan Williams's,FG_MISS,Jaylen Brown,10:23,2,Celtics,Lakers,30 - 24,1,0,2,Dunk
+16,Johnathan Williams,OFFENSIVE_REBOUND,None,10:18,2,Lakers,Celtics,30 - 24,1,N/A,N/A,N/A
+17,Johnathan Williams,FG_UNASSISTED,None,10:18,2,Lakers,Celtics,30 - 26,1, ,2,Jumper
+18,Jayson Tatum,FG_MISS,None,10:02,2,Celtics,Lakers,30 - 26,0,0,2,Layup
+19,Team,OFFENSIVE_REBOUND,None,10:02,2,Celtics,Lakers,30 - 26,0,N/A,N/A,N/A
+20,Josh Hart,FOUL_ON_FLOOR,None,10:02,2,Lakers,Celtics,30 - 26,1,N/A,N/A,N/A
+21,Aron Baynes,SUBSTITUTION,Horford Al,10:02,2,Celtics,Lakers,30 - 26,0,N/A,N/A,N/A
+22,Gordon Hayward,FG_UNASSISTED,None,9:51,2,Celtics,Lakers,32 - 26,0,10,2,Jumper
+23,Josh Hart,FG_ASSISTED,LeBron James,9:41,2,Lakers,Celtics,32 - 28,1,8,2,Jumper
+24,Jaylen Brown,TURNOVER,None,9:29,2,Celtics,Lakers,32 - 28,0,N/A,N/A,N/A
+25,Reggie Bullock,FG_ASSISTED,LeBron James,9:23,2,Lakers,Celtics,32 - 31,1,26,3,Jumper
+26,Terry Rozier,FG_UNASSISTED,None,9:13,2,Celtics,Lakers,34 - 31,0,12,2,Jumper
+27,Jaylen Brown,FOUL_ON_FLOOR,None,9:06,2,Celtics,Lakers,34 - 31,0,N/A,N/A,N/A
+28,LeBron James,FT,None,9:06,2,Lakers,Celtics,34 - 32,1,N/A,1,N/A
+29,Marcus Morris,SUBSTITUTION,Hayward Gordon,9:06,2,Celtics,Lakers,34 - 32,0,N/A,N/A,N/A
+30,LeBron James,FT_MISS,None,9:06,2,Lakers,Celtics,34 - 32,1,N/A,1,N/A
+31,Jayson Tatum,DEFENSIVE_REBOUND,None,9:04,2,Celtics,Lakers,34 - 32,0,N/A,N/A,N/A
+32,Aron Baynes,FG_ASSISTED,Jaylen Brown,8:50,2,Celtics,Lakers,36 - 32,0,9,2,Jumper
+33,LeBron James,FG_MISS,None,8:40,2,Lakers,Celtics,36 - 32,1,22,3,Jumper
+34,Josh Hart,OFFENSIVE_REBOUND,None,8:36,2,Lakers,Celtics,36 - 32,1,N/A,N/A,N/A
+35,Josh Hart,FG_MISS,None,8:36,2,Lakers,Celtics,36 - 32,1, ,2,Jumper
+36,Jayson Tatum,DEFENSIVE_REBOUND,None,8:35,2,Celtics,Lakers,36 - 32,0,N/A,N/A,N/A
+37,Aron Baynes,FG_MISS,None,8:30,2,Celtics,Lakers,36 - 32,0,26,3,Jumper
+38,Reggie Bullock,DEFENSIVE_REBOUND,None,8:26,2,Lakers,Celtics,36 - 32,1,N/A,N/A,N/A
+39,Josh Hart,FG_ASSISTED,LeBron James,8:24,2,Lakers,Celtics,36 - 35,1,26,2,Jumper
+40,Team,Unknown,None,8:22,2,Celtics,Lakers,36 - 35,0,N/A,N/A,N/A
+41,Terry Rozier,FG_ASSISTED,Jayson Tatum,8:05,2,Celtics,Lakers,38 - 35,0,8,2,Jumper
+42,LeBron James,FG_MISS,None,7:48,2,Lakers,Celtics,38 - 35,1, ,2,Jumper
+43,Aron Baynes,DEFENSIVE_REBOUND,None,7:47,2,Celtics,Lakers,38 - 35,0,N/A,N/A,N/A
+44,Jayson Tatum,TURNOVER,None,7:44,2,Celtics,Lakers,38 - 35,0,N/A,N/A,N/A
+45,Jayson Tatum,TURNOVER,None,7:44,2,Celtics,Lakers,38 - 35,0,N/A,N/A,N/A
+46,Kyrie Irving,SUBSTITUTION,Brown Jaylen,7:44,2,Celtics,Lakers,38 - 35,0,N/A,N/A,N/A
+47,Johnathan Williams,FG_ASSISTED,LeBron James,7:30,2,Lakers,Celtics,38 - 37,1,0,2,Dunk
+48,Kyrie Irving,TURNOVER,Josh Hart,7:15,2,Celtics,Lakers,38 - 37,0,N/A,N/A,N/A
+49,Josh Hart,FG_MISS,None,7:02,2,Lakers,Celtics,38 - 37,1,12,2,Jumper
+50,Johnathan Williams,OFFENSIVE_REBOUND,None,6:55,2,Lakers,Celtics,38 - 37,1,N/A,N/A,N/A
+51,Johnathan Williams,FG_UNASSISTED,None,6:55,2,Lakers,Celtics,38 - 39,1,0,2,Dunk
+52,Marcus Morris,FG_MISS,None,6:37,2,Celtics,Lakers,38 - 39,0, ,2,Jumper
+53,Alex Caruso,DEFENSIVE_REBOUND,None,6:35,2,Lakers,Celtics,38 - 39,1,N/A,N/A,N/A
+54,LeBron James,FG_MISS,None,6:28,2,Lakers,Celtics,38 - 39,1,0,2,Layup
+55,LeBron James,OFFENSIVE_REBOUND,None,6:28,2,Lakers,Celtics,38 - 39,1,N/A,N/A,N/A
+56,Aron Baynes,FOUL_ON_FLOOR,None,6:28,2,Celtics,Lakers,38 - 39,0,N/A,N/A,N/A
+57,LeBron James,FT_MISS,None,6:28,2,Lakers,Celtics,38 - 39,1,N/A,1,N/A
+58,Team,OFFENSIVE_REBOUND,None,6:28,2,Lakers,Celtics,38 - 39,1,N/A,N/A,N/A
+59,Gordon Hayward,SUBSTITUTION,Tatum Jayson,6:28,2,Celtics,Lakers,38 - 39,0,N/A,N/A,N/A
+60,Marcus Smart,SUBSTITUTION,Rozier Terry,6:28,2,Celtics,Lakers,38 - 39,0,N/A,N/A,N/A
+61,LeBron James,FT_MISS,None,6:28,2,Lakers,Celtics,38 - 39,1,N/A,1,N/A
+62,Marcus Morris,DEFENSIVE_REBOUND,None,6:25,2,Celtics,Lakers,38 - 39,0,N/A,N/A,N/A
+63,Marcus Morris,FG_MISS,None,6:08,2,Celtics,Lakers,38 - 39,0,23,3,Jumper
+64,Josh Hart,DEFENSIVE_REBOUND,None,6:04,2,Lakers,Celtics,38 - 39,1,N/A,N/A,N/A
+65,LeBron James,FG_MISS,None,6:02,2,Lakers,Celtics,38 - 39,1, ,2,Jumper
+66,Marcus Morris,DEFENSIVE_REBOUND,None,5:57,2,Celtics,Lakers,38 - 39,0,N/A,N/A,N/A
+67,Marcus Smart,FG_ASSISTED,Marcus Morris,5:42,2,Celtics,Lakers,40 - 39,0,0,2,Layup
+68,LeBron James,FG_MISS,None,5:33,2,Lakers,Celtics,40 - 39,1,8,2,Jumper
+69,Marcus Morris,DEFENSIVE_REBOUND,None,5:30,2,Celtics,Lakers,40 - 39,0,N/A,N/A,N/A
+70,Aron Baynes,FG_UNASSISTED,None,5:18,2,Celtics,Lakers,42 - 39,0,5,2,Jumper
+71,Team,Unknown,None,5:17,2,Lakers,Celtics,42 - 39,1,N/A,N/A,N/A
+72,JaVale McGee,SUBSTITUTION,Hart Josh,5:17,2,Lakers,Celtics,42 - 39,1,N/A,N/A,N/A
+73,Moritz Wagner,SUBSTITUTION,Caruso Alex,5:17,2,Lakers,Celtics,42 - 39,1,N/A,N/A,N/A
+74,Kentavious Caldwell-Pope,SUBSTITUTION,Williams Johnathan,5:17,2,Lakers,Celtics,42 - 39,1,N/A,N/A,N/A
+75,Rajon Rondo,SUBSTITUTION,Bullock Reggie,5:17,2,Lakers,Celtics,42 - 39,1,N/A,N/A,N/A
+76,LeBron James,FG_MISS,None,4:59,2,Lakers,Celtics,42 - 39,1,19,2,Jumper
+77,Kyrie Irving,DEFENSIVE_REBOUND,None,4:57,2,Celtics,Lakers,42 - 39,0,N/A,N/A,N/A
+78,JaVale McGee,FOUL_ON_FLOOR,None,4:52,2,Lakers,Celtics,42 - 39,1,N/A,N/A,N/A
+79,Gordon Hayward,FT_MISS,None,4:52,2,Celtics,Lakers,42 - 39,0,N/A,1,N/A
+80,Team,OFFENSIVE_REBOUND,None,4:52,2,Celtics,Lakers,42 - 39,0,N/A,N/A,N/A
+81,Isaac Bonga,SUBSTITUTION,James LeBron,4:52,2,Lakers,Celtics,42 - 39,1,N/A,N/A,N/A
+82,Al Horford,SUBSTITUTION,Baynes Aron,4:52,2,Celtics,Lakers,42 - 39,0,N/A,N/A,N/A
+83,Gordon Hayward,FT,None,4:52,2,Celtics,Lakers,43 - 39,0,N/A,1,N/A
+84,Rajon Rondo,TURNOVER,None,4:28,2,Lakers,Celtics,43 - 39,1,N/A,N/A,N/A
+85,Kyrie Irving,FG_ASSISTED,Marcus Morris,4:16,2,Celtics,Lakers,45 - 39,0,18,2,Jumper
+86,Team,Unknown,None,4:15,2,Lakers,Celtics,45 - 39,1,N/A,N/A,N/A
+87,Reggie Bullock,SUBSTITUTION,Bonga Isaac,4:15,2,Lakers,Celtics,45 - 39,1,N/A,N/A,N/A
+88,Kentavious Caldwell-Pope,FG_MISS,None,3:57,2,Lakers,Celtics,45 - 39,1,23,2,Jumper
+89,JaVale McGee,OFFENSIVE_REBOUND,None,3:53,2,Lakers,Celtics,45 - 39,1,N/A,N/A,N/A
+90,Marcus Smart,FOUL_ON_FLOOR,None,3:46,2,Celtics,Lakers,45 - 39,0,N/A,N/A,N/A
+91,Moritz Wagner,FT,None,3:46,2,Lakers,Celtics,45 - 40,1,N/A,1,N/A
+92,Moritz Wagner,FT,None,3:46,2,Lakers,Celtics,45 - 41,1,N/A,1,N/A
+93,Marcus Morris,FG_MISS,None,3:29,2,Celtics,Lakers,45 - 41,0,14,2,Jumper
+94,Moritz Wagner,DEFENSIVE_REBOUND,None,3:25,2,Lakers,Celtics,45 - 41,1,N/A,N/A,N/A
+95,JaVale McGee,FG_ASSISTED,Rajon Rondo,3:14,2,Lakers,Celtics,45 - 43,1,0,2,Dunk
+96,Al Horford,FG_ASSISTED,Kyrie Irving,2:56,2,Celtics,Lakers,47 - 43,0,19,2,Jumper
+97,Rajon Rondo,TURNOVER,None,2:49,2,Lakers,Celtics,47 - 43,1,N/A,N/A,N/A
+98,Kyrie Irving,FG_UNASSISTED,None,2:42,2,Celtics,Lakers,50 - 43,0,25,3,Jumper
+99,Reggie Bullock,FG_ASSISTED,Rajon Rondo,2:29,2,Lakers,Celtics,50 - 45,1,15,2,Jumper
+100,Al Horford,FG_MISS,None,2:15,2,Celtics,Lakers,50 - 45,0,27,3,Jumper
+101,Moritz Wagner,DEFENSIVE_REBOUND,None,2:12,2,Lakers,Celtics,50 - 45,1,N/A,N/A,N/A
+102,Reggie Bullock,FG_MISS,None,2:06,2,Lakers,Celtics,50 - 45,1,23,3,Jumper
+103,Al Horford,DEFENSIVE_REBOUND,None,2:03,2,Celtics,Lakers,50 - 45,0,N/A,N/A,N/A
+104,Marcus Smart,TURNOVER,JaVale McGee,1:57,2,Celtics,Lakers,50 - 45,0,N/A,N/A,N/A
+105,Moritz Wagner,FG_ASSISTED,Rajon Rondo,1:50,2,Lakers,Celtics,50 - 47,1, ,2,Jumper
+106,Gordon Hayward,TURNOVER,JaVale McGee,1:31,2,Celtics,Lakers,50 - 47,0,N/A,N/A,N/A
+107,Gordon Hayward,Unknown,None,1:31,2,Celtics,Lakers,50 - 47,0,N/A,N/A,N/A
+108,Moritz Wagner,TURNOVER,None,1:17,2,Lakers,Celtics,50 - 47,1,N/A,N/A,N/A
+109,Marcus Smart,FG_ASSISTED,Al Horford,1:05,2,Celtics,Lakers,53 - 47,0, ,3,Jumper
+110,Moritz Wagner,FG_MISS,None,39.4,2,Lakers,Celtics,53 - 47,1,24,3,Jumper
+111,Marcus Smart,DEFENSIVE_REBOUND,None,35.9,2,Celtics,Lakers,53 - 47,0,N/A,N/A,N/A
+112,Marcus Morris,FG_ASSISTED,Kyrie Irving,30.2,2,Celtics,Lakers,55 - 47,0, ,2,Jumper
+113,Kentavious Caldwell-Pope,TURNOVER,None,19.4,2,Lakers,Celtics,55 - 47,1,N/A,N/A,N/A
+114,Moritz Wagner,FOUL_ON_FLOOR,None,7.7,2,Lakers,Celtics,55 - 47,1,N/A,N/A,N/A
+115,Johnathan Williams,SUBSTITUTION,McGee JaVale,7.7,2,Lakers,Celtics,55 - 47,1,N/A,N/A,N/A
+116,Alex Caruso,SUBSTITUTION,Wagner Moritz,7.7,2,Lakers,Celtics,55 - 47,1,N/A,N/A,N/A
+117,Marcus Morris,FG_ASSISTED,Kyrie Irving,4.3,2,Celtics,Lakers,57 - 47,0,0,2,Layup
+118,Alex Caruso,FOUL_ON_FLOOR,None,4.3,2,Lakers,Celtics,57 - 47,1,N/A,N/A,N/A
+119,Terry Rozier,SUBSTITUTION,Smart Marcus,4.3,2,Celtics,Lakers,57 - 47,0,N/A,N/A,N/A
+120,Marcus Morris,FT_MISS,None,4.3,2,Celtics,Lakers,57 - 47,0,N/A,1,N/A
+121,Marcus Morris,OFFENSIVE_REBOUND,None,1.9,2,Celtics,Lakers,57 - 47,0,N/A,N/A,N/A
+122,Marcus Morris,FG_MISS,None,1.8,2,Celtics,Lakers,57 - 47,0,22,3,Jumper
+123,Team,OFFENSIVE_REBOUND,None,1.0,2,Celtics,Lakers,57 - 47,0,N/A,N/A,N/A
+124,End of,Unknown,None,0.0,2,Lakers,Celtics,57 - 47,1,N/A,N/A,N/A
+0,LeBron James,SUBSTITUTION,Caruso Alex,12:00,3,Lakers,Celtics,57 - 47,1,N/A,N/A,N/A
+1,Moritz Wagner,SUBSTITUTION,Williams Johnathan,12:00,3,Lakers,Celtics,57 - 47,1,N/A,N/A,N/A
+2,JaVale McGee,SUBSTITUTION,Bullock Reggie,12:00,3,Lakers,Celtics,57 - 47,1,N/A,N/A,N/A
+3,Marcus Smart,SUBSTITUTION,Hayward Gordon,12:00,3,Celtics,Lakers,57 - 47,0,N/A,N/A,N/A
+4,Jayson Tatum,SUBSTITUTION,Rozier Terry,12:00,3,Celtics,Lakers,57 - 47,0,N/A,N/A,N/A
+5,Kyrie Irving,FG_MISS,None,11:48,3,Celtics,Lakers,57 - 47,0,20,2,Jumper
+6,Moritz Wagner,DEFENSIVE_REBOUND,None,11:46,3,Lakers,Celtics,57 - 47,1,N/A,N/A,N/A
+7,Moritz Wagner,FG_ASSISTED,LeBron James,11:31,3,Lakers,Celtics,57 - 49,1,0,2,Layup
+8,Marcus Smart,FG_ASSISTED,Marcus Morris,11:16,3,Celtics,Lakers,60 - 49,0,27,3,Jumper
+9,LeBron James,TURNOVER,Marcus Smart,11:04,3,Lakers,Celtics,60 - 49,1,N/A,N/A,N/A
+10,Jayson Tatum,FG_ASSISTED,Marcus Morris,10:57,3,Celtics,Lakers,62 - 49,0,0,2,Layup
+11,JaVale McGee,Unknown,None,10:57,3,Lakers,Celtics,62 - 49,1,N/A,N/A,N/A
+12,JaVale McGee,FG_ASSISTED,Moritz Wagner,10:38,3,Lakers,Celtics,62 - 51,1,0,2,Dunk
+13,Marcus Smart,FG_ASSISTED,Al Horford,10:20,3,Celtics,Lakers,65 - 51,0,26,3,Jumper
+14,JaVale McGee,FG_MISS,None,10:04,3,Lakers,Celtics,65 - 51,1,10,2,Jumper
+15,Kyrie Irving,DEFENSIVE_REBOUND,None,10:02,3,Celtics,Lakers,65 - 51,0,N/A,N/A,N/A
+16,Marcus Smart,FG_ASSISTED,Kyrie Irving,9:49,3,Celtics,Lakers,68 - 51,0,24,3,Jumper
+17,Team,Unknown,None,9:47,3,Lakers,Celtics,68 - 51,1,N/A,N/A,N/A
+18,Johnathan Williams,SUBSTITUTION,Caldwell-Pope Kentavious,9:47,3,Lakers,Celtics,68 - 51,1,N/A,N/A,N/A
+19,Alex Caruso,SUBSTITUTION,McGee JaVale,9:47,3,Lakers,Celtics,68 - 51,1,N/A,N/A,N/A
+20,LeBron James,FG_UNASSISTED,None,9:33,3,Lakers,Celtics,68 - 53,1, ,2,Jumper
+21,Marcus Morris,FG_MISS,None,9:11,3,Celtics,Lakers,68 - 53,0,9,2,Jumper
+22,LeBron James,DEFENSIVE_REBOUND,None,9:09,3,Lakers,Celtics,68 - 53,1,N/A,N/A,N/A
+23,LeBron James,FG_UNASSISTED,None,9:03,3,Lakers,Celtics,68 - 55,1, ,2,Jumper
+24,Kyrie Irving,FG_MISS,None,8:54,3,Celtics,Lakers,68 - 55,0,12,2,Jumper
+25,Moritz Wagner,DEFENSIVE_REBOUND,None,8:52,3,Lakers,Celtics,68 - 55,1,N/A,N/A,N/A
+26,Kyrie Irving,FOUL_ON_FLOOR,None,8:45,3,Celtics,Lakers,68 - 55,0,N/A,N/A,N/A
+27,LeBron James,FT,None,8:45,3,Lakers,Celtics,68 - 56,1,N/A,1,N/A
+28,LeBron James,FT_MISS,None,8:45,3,Lakers,Celtics,68 - 56,1,N/A,1,N/A
+29,Marcus Morris,DEFENSIVE_REBOUND,None,8:43,3,Celtics,Lakers,68 - 56,0,N/A,N/A,N/A
+30,Marcus Smart,TURNOVER,None,8:29,3,Celtics,Lakers,68 - 56,0,N/A,N/A,N/A
+31,Moritz Wagner,FG_ASSISTED,LeBron James,8:14,3,Lakers,Celtics,68 - 59,1,25,3,Jumper
+32,Marcus Morris,FG_MISS,None,7:53,3,Celtics,Lakers,68 - 59,0,0,2,Layup
+33,Al Horford,OFFENSIVE_REBOUND,None,7:51,3,Celtics,Lakers,68 - 59,0,N/A,N/A,N/A
+34,Jayson Tatum,FG_MISS,None,7:50,3,Celtics,Lakers,68 - 59,0,26,3,Jumper
+35,LeBron James,DEFENSIVE_REBOUND,None,7:48,3,Lakers,Celtics,68 - 59,1,N/A,N/A,N/A
+36,LeBron James,FG_UNASSISTED,None,7:42,3,Lakers,Celtics,68 - 61,1, ,2,Jumper
+37,Marcus Morris,FG_MISS,None,7:27,3,Celtics,Lakers,68 - 61,0,26,3,Jumper
+38,Johnathan Williams,DEFENSIVE_REBOUND,None,7:22,3,Lakers,Celtics,68 - 61,1,N/A,N/A,N/A
+39,Marcus Smart,FOUL_ON_FLOOR,None,7:19,3,Celtics,Lakers,68 - 61,0,N/A,N/A,N/A
+40,Jayson Tatum,FOUL_ON_FLOOR,None,7:11,3,Celtics,Lakers,68 - 61,0,N/A,N/A,N/A
+41,Moritz Wagner,FT,None,7:11,3,Lakers,Celtics,68 - 62,1,N/A,1,N/A
+42,Moritz Wagner,FT,None,7:11,3,Lakers,Celtics,68 - 63,1,N/A,1,N/A
+43,Kyrie Irving,FG_UNASSISTED,None,6:59,3,Celtics,Lakers,70 - 63,0,19,2,Jumper
+44,LeBron James,TURNOVER,Marcus Smart,6:46,3,Lakers,Celtics,70 - 63,1,N/A,N/A,N/A
+45,Kyrie Irving,FG_ASSISTED,Marcus Smart,6:42,3,Celtics,Lakers,72 - 63,0, ,2,Jumper
+46,Al Horford,FOUL_ON_FLOOR,None,6:27,3,Celtics,Lakers,72 - 63,0,N/A,N/A,N/A
+47,Al Horford,FOUL_ON_FLOOR,None,6:17,3,Celtics,Lakers,72 - 63,0,N/A,N/A,N/A
+48,Moritz Wagner,FT,None,6:17,3,Lakers,Celtics,72 - 64,1,N/A,1,N/A
+49,Moritz Wagner,FT,None,6:17,3,Lakers,Celtics,72 - 65,1,N/A,1,N/A
+50,Rajon Rondo,FOUL_ON_FLOOR,None,6:09,3,Lakers,Celtics,72 - 65,1,N/A,N/A,N/A
+51,Kyrie Irving,FG_ASSISTED,Jayson Tatum,6:07,3,Celtics,Lakers,74 - 65,0,21,2,Jumper
+52,Jaylen Brown,SUBSTITUTION,Tatum Jayson,5:52,3,Celtics,Lakers,74 - 65,0,N/A,N/A,N/A
+53,Gordon Hayward,SUBSTITUTION,Morris Marcus,5:52,3,Celtics,Lakers,74 - 65,0,N/A,N/A,N/A
+54,Rajon Rondo,FG_MISS,None,5:43,3,Lakers,Celtics,74 - 65,1,25,2,Jumper
+55,LeBron James,OFFENSIVE_REBOUND,None,5:39,3,Lakers,Celtics,74 - 65,1,N/A,N/A,N/A
+56,LeBron James,FG_ASSISTED,Moritz Wagner,5:28,3,Lakers,Celtics,74 - 67,1,0,2,Layup
+57,Jaylen Brown,FG_MISS,None,5:07,3,Celtics,Lakers,74 - 67,0,25,3,Jumper
+58,LeBron James,DEFENSIVE_REBOUND,None,5:05,3,Lakers,Celtics,74 - 67,1,N/A,N/A,N/A
+59,Moritz Wagner,FG_ASSISTED,LeBron James,5:02,3,Lakers,Celtics,74 - 69,1, ,2,Jumper
+60,Gordon Hayward,TURNOVER,None,4:44,3,Celtics,Lakers,74 - 69,0,N/A,N/A,N/A
+61,Gordon Hayward,TURNOVER,None,4:44,3,Celtics,Lakers,74 - 69,0,N/A,N/A,N/A
+62,Josh Hart,SUBSTITUTION,Wagner Moritz,4:44,3,Lakers,Celtics,74 - 69,1,N/A,N/A,N/A
+63,Reggie Bullock,SUBSTITUTION,James LeBron,4:44,3,Lakers,Celtics,74 - 69,1,N/A,N/A,N/A
+64,Johnathan Williams,FG_MISS,Jaylen Brown,4:27,3,Celtics,Lakers,74 - 69,1,0,2,Layup
+65,Jaylen Brown,DEFENSIVE_REBOUND,None,4:24,3,Celtics,Lakers,74 - 69,0,N/A,N/A,N/A
+66,Gordon Hayward,FG_ASSISTED,Jaylen Brown,4:22,3,Celtics,Lakers,77 - 69,0,22,2,Jumper
+67,Rajon Rondo,FG_MISS,None,4:06,3,Lakers,Celtics,77 - 69,1,30,3,Jumper
+68,Team,DEFENSIVE_REBOUND,None,4:04,3,Celtics,Lakers,77 - 69,0,N/A,N/A,N/A
+69,Alex Caruso,FOUL_ON_FLOOR,None,4:04,3,Lakers,Celtics,77 - 69,1,N/A,N/A,N/A
+70,Aron Baynes,SUBSTITUTION,Horford Al,4:04,3,Celtics,Lakers,77 - 69,0,N/A,N/A,N/A
+71,Jaylen Brown,FG_MISS,None,3:51,3,Celtics,Lakers,77 - 69,0,0,2,Layup
+72,Johnathan Williams,DEFENSIVE_REBOUND,None,3:49,3,Lakers,Celtics,77 - 69,1,N/A,N/A,N/A
+73,Josh Hart,FG_MISS,Kyrie Irving,3:43,3,Celtics,Lakers,77 - 69,1,0,2,Layup
+74,Team,OFFENSIVE_REBOUND,None,3:43,3,Lakers,Celtics,77 - 69,1,N/A,N/A,N/A
+75,Johnathan Williams,FG_ASSISTED,Josh Hart,3:36,3,Lakers,Celtics,77 - 71,1,0,2,Dunk
+76,Team,Unknown,None,3:36,3,Celtics,Lakers,77 - 71,0,N/A,N/A,N/A
+77,Terry Rozier,SUBSTITUTION,Smart Marcus,3:36,3,Celtics,Lakers,77 - 71,0,N/A,N/A,N/A
+78,Kyrie Irving,FG_ASSISTED,Gordon Hayward,3:24,3,Celtics,Lakers,79 - 71,0,4,2,Jumper
+79,Rajon Rondo,FG_MISS,Kyrie Irving,3:10,3,Celtics,Lakers,79 - 71,1,8,2,Jumper
+80,Gordon Hayward,DEFENSIVE_REBOUND,None,3:07,3,Celtics,Lakers,79 - 71,0,N/A,N/A,N/A
+81,Kyrie Irving,FG_ASSISTED,Aron Baynes,2:57,3,Celtics,Lakers,82 - 71,0,26,3,Jumper
+82,Reggie Bullock,FG_MISS,None,2:40,3,Lakers,Celtics,82 - 71,1,22,3,Jumper
+83,Aron Baynes,DEFENSIVE_REBOUND,None,2:37,3,Celtics,Lakers,82 - 71,0,N/A,N/A,N/A
+84,Jaylen Brown,FG_MISS,None,2:25,3,Celtics,Lakers,82 - 71,0,9,2,Jumper
+85,Rajon Rondo,DEFENSIVE_REBOUND,None,2:22,3,Lakers,Celtics,82 - 71,1,N/A,N/A,N/A
+86,Johnathan Williams,FG_MISS,None,2:06,3,Lakers,Celtics,82 - 71,1,0,2,Layup
+87,Aron Baynes,DEFENSIVE_REBOUND,None,2:01,3,Celtics,Lakers,82 - 71,0,N/A,N/A,N/A
+88,Kyrie Irving,FG_MISS,None,1:56,3,Celtics,Lakers,82 - 71,0,26,3,Jumper
+89,Johnathan Williams,DEFENSIVE_REBOUND,None,1:53,3,Lakers,Celtics,82 - 71,1,N/A,N/A,N/A
+90,Reggie Bullock,FG_MISS,None,1:49,3,Lakers,Celtics,82 - 71,1, ,2,Jumper
+91,Gordon Hayward,DEFENSIVE_REBOUND,None,1:45,3,Celtics,Lakers,82 - 71,0,N/A,N/A,N/A
+92,Jaylen Brown,FG_MISS,Johnathan Williams,1:42,3,Lakers,Celtics,82 - 71,0,0,2,Layup
+93,Team,OFFENSIVE_REBOUND,None,1:42,3,Celtics,Lakers,82 - 71,0,N/A,N/A,N/A
+94,Gordon Hayward,FG_ASSISTED,Terry Rozier,1:33,3,Celtics,Lakers,84 - 71,0,0,2,Layup
+95,Reggie Bullock,FG_ASSISTED,Rajon Rondo,1:27,3,Lakers,Celtics,84 - 73,1, ,2,Jumper
+96,Reggie Bullock,FOUL_ON_FLOOR,None,1:12,3,Lakers,Celtics,84 - 73,1,N/A,N/A,N/A
+97,Aron Baynes,FT_MISS,None,1:12,3,Celtics,Lakers,84 - 73,0,N/A,1,N/A
+98,Team,OFFENSIVE_REBOUND,None,1:12,3,Celtics,Lakers,84 - 73,0,N/A,N/A,N/A
+99,Isaac Bonga,SUBSTITUTION,Caruso Alex,1:12,3,Lakers,Celtics,84 - 73,1,N/A,N/A,N/A
+100,Jayson Tatum,SUBSTITUTION,Irving Kyrie,1:12,3,Celtics,Lakers,84 - 73,0,N/A,N/A,N/A
+101,Aron Baynes,FT,None,1:12,3,Celtics,Lakers,85 - 73,0,N/A,1,N/A
+102,Johnathan Williams,FG_MISS,None,58.6,3,Lakers,Celtics,85 - 73,1,0,2,Layup
+103,Terry Rozier,DEFENSIVE_REBOUND,None,55.9,3,Celtics,Lakers,85 - 73,0,N/A,N/A,N/A
+104,Reggie Bullock,FOUL_ON_FLOOR,None,54.8,3,Lakers,Celtics,85 - 73,1,N/A,N/A,N/A
+105,Jayson Tatum,FT,None,54.8,3,Celtics,Lakers,86 - 73,0,N/A,1,N/A
+106,Jayson Tatum,FT,None,54.8,3,Celtics,Lakers,87 - 73,0,N/A,1,N/A
+107,Reggie Bullock,FG_MISS,None,49.1,3,Lakers,Celtics,87 - 73,1,28,3,Jumper
+108,Jaylen Brown,DEFENSIVE_REBOUND,None,44.8,3,Celtics,Lakers,87 - 73,0,N/A,N/A,N/A
+109,Jaylen Brown,FG_ASSISTED,Jayson Tatum,35.2,3,Celtics,Lakers,90 - 73,0,27,3,Jumper
+110,Josh Hart,FG_ASSISTED,Rajon Rondo,25.3,3,Lakers,Celtics,90 - 76,1,27,3,Jumper
+111,Terry Rozier,FG_ASSISTED,Gordon Hayward,3.4,3,Celtics,Lakers,93 - 76,0,27,3,Jumper
+112,Reggie Bullock,FG_MISS,None,0.4,3,Lakers,Celtics,93 - 76,1,36,3,Jumper
+113,Team,OFFENSIVE_REBOUND,None,0.1,3,Lakers,Celtics,93 - 76,1,N/A,N/A,N/A
+114,End of,Unknown,None,0.0,3,Lakers,Celtics,93 - 76,1,N/A,N/A,N/A
+0,Moritz Wagner,SUBSTITUTION,Rondo Rajon,12:00,4,Lakers,Celtics,93 - 76,1,N/A,N/A,N/A
+1,LeBron James,SUBSTITUTION,Williams Johnathan,12:00,4,Lakers,Celtics,93 - 76,1,N/A,N/A,N/A
+2,Alex Caruso,SUBSTITUTION,Bonga Isaac,12:00,4,Lakers,Celtics,93 - 76,1,N/A,N/A,N/A
+3,Alex Caruso,FG_ASSISTED,LeBron James,11:49,4,Lakers,Celtics,93 - 78,1,0,2,Dunk
+4,Terry Rozier,FG_ASSISTED,Jaylen Brown,11:32,4,Celtics,Lakers,96 - 78,0,25,3,Jumper
+5,LeBron James,TURNOVER,Jayson Tatum,11:15,4,Lakers,Celtics,96 - 78,1,N/A,N/A,N/A
+6,Jayson Tatum,TURNOVER,None,11:12,4,Celtics,Lakers,96 - 78,0,N/A,N/A,N/A
+7,LeBron James,FG_UNASSISTED,None,11:01,4,Lakers,Celtics,96 - 80,1,3,2,Jumper
+8,Terry Rozier,FG_MISS,None,10:45,4,Celtics,Lakers,96 - 80,0,26,2,Jumper
+9,LeBron James,DEFENSIVE_REBOUND,None,10:42,4,Lakers,Celtics,96 - 80,1,N/A,N/A,N/A
+10,Jaylen Brown,FOUL_ON_FLOOR,None,10:41,4,Celtics,Lakers,96 - 80,0,N/A,N/A,N/A
+11,LeBron James,FG_UNASSISTED,None,10:17,4,Lakers,Celtics,96 - 83,1,26,2,Jumper
+12,Gordon Hayward,FG_UNASSISTED,None,9:59,4,Celtics,Lakers,98 - 83,0,15,2,Jumper
+13,LeBron James,FG_MISS,None,9:41,4,Lakers,Celtics,98 - 83,1,26,2,Jumper
+14,Terry Rozier,DEFENSIVE_REBOUND,None,9:38,4,Celtics,Lakers,98 - 83,0,N/A,N/A,N/A
+15,Jaylen Brown,FG_MISS,None,9:32,4,Celtics,Lakers,98 - 83,0,24,3,Jumper
+16,Team,OFFENSIVE_REBOUND,None,9:30,4,Celtics,Lakers,98 - 83,0,N/A,N/A,N/A
+17,Alex Caruso,FOUL_ON_FLOOR,None,9:30,4,Lakers,Celtics,98 - 83,1,N/A,N/A,N/A
+18,Jaylen Brown,FG_MISS,None,9:22,4,Celtics,Lakers,98 - 83,0,25,3,Jumper
+19,Aron Baynes,OFFENSIVE_REBOUND,None,9:18,4,Celtics,Lakers,98 - 83,0,N/A,N/A,N/A
+20,Aron Baynes,FG_UNASSISTED,None,9:18,4,Celtics,Lakers,100 - 83,0, ,2,Jumper
+21,Moritz Wagner,FG_ASSISTED,LeBron James,9:05,4,Lakers,Celtics,100 - 85,1,18,2,Jumper
+22,Jayson Tatum,FG_MISS,None,8:47,4,Celtics,Lakers,100 - 85,0,14,2,Jumper
+23,LeBron James,DEFENSIVE_REBOUND,None,8:44,4,Lakers,Celtics,100 - 85,1,N/A,N/A,N/A
+24,Aron Baynes,FOUL_ON_FLOOR,None,8:38,4,Celtics,Lakers,100 - 85,0,N/A,N/A,N/A
+25,Johnathan Williams,SUBSTITUTION,Bullock Reggie,8:38,4,Lakers,Celtics,100 - 85,1,N/A,N/A,N/A
+26,Al Horford,SUBSTITUTION,Baynes Aron,8:38,4,Celtics,Lakers,100 - 85,0,N/A,N/A,N/A
+27,LeBron James,FG_MISS,None,8:23,4,Lakers,Celtics,100 - 85,1,26,3,Jumper
+28,Al Horford,DEFENSIVE_REBOUND,None,8:20,4,Celtics,Lakers,100 - 85,0,N/A,N/A,N/A
+29,Alex Caruso,FOUL_ON_FLOOR,None,8:17,4,Lakers,Celtics,100 - 85,1,N/A,N/A,N/A
+30,Gordon Hayward,FT,None,8:17,4,Celtics,Lakers,101 - 85,0,N/A,1,N/A
+31,Gordon Hayward,FT_MISS,None,8:17,4,Celtics,Lakers,101 - 85,0,N/A,1,N/A
+32,LeBron James,DEFENSIVE_REBOUND,None,8:15,4,Lakers,Celtics,101 - 85,1,N/A,N/A,N/A
+33,Alex Caruso,FG_ASSISTED,LeBron James,8:06,4,Lakers,Celtics,101 - 87,1,0,2,Layup
+34,Terry Rozier,FG_MISS,None,7:41,4,Celtics,Lakers,101 - 87,0,25,3,Jumper
+35,LeBron James,DEFENSIVE_REBOUND,None,7:38,4,Lakers,Celtics,101 - 87,1,N/A,N/A,N/A
+36,LeBron James,FG_UNASSISTED,None,7:28,4,Lakers,Celtics,101 - 89,1,2,2,Jumper
+37,Team,Unknown,None,7:28,4,Celtics,Lakers,101 - 87,0,N/A,N/A,N/A
+38,Kyrie Irving,SUBSTITUTION,Brown Jaylen,7:28,4,Celtics,Lakers,101 - 89,0,N/A,N/A,N/A
+39,Marcus Morris,SUBSTITUTION,Hayward Gordon,7:28,4,Celtics,Lakers,101 - 89,0,N/A,N/A,N/A
+40,Kyrie Irving,FG_MISS,None,7:11,4,Celtics,Lakers,101 - 89,0, ,2,Jumper
+41,Kyrie Irving,OFFENSIVE_REBOUND,None,7:09,4,Celtics,Lakers,101 - 89,0,N/A,N/A,N/A
+42,Kyrie Irving,FG_ASSISTED,Jayson Tatum,7:08,4,Celtics,Lakers,104 - 89,0,22,3,Jumper
+43,Johnathan Williams,FG_ASSISTED,LeBron James,6:51,4,Lakers,Celtics,104 - 91,1,0,2,Dunk
+44,Marcus Morris,FG_UNASSISTED,None,6:32,4,Celtics,Lakers,106 - 91,0,6,2,Jumper
+45,Alex Caruso,FOUL_ON_FLOOR,None,6:32,4,Lakers,Celtics,106 - 91,1,N/A,N/A,N/A
+46,Marcus Morris,FT,None,6:32,4,Celtics,Lakers,107 - 91,0,N/A,1,N/A
+47,Moritz Wagner,FG_MISS,None,6:18,4,Lakers,Celtics,107 - 91,1,26,3,Jumper
+48,Johnathan Williams,OFFENSIVE_REBOUND,None,6:16,4,Lakers,Celtics,107 - 91,1,N/A,N/A,N/A
+49,LeBron James,FG_ASSISTED,Johnathan Williams,6:11,4,Lakers,Celtics,107 - 93,1,0,2,Dunk
+50,Marcus Morris,FG_ASSISTED,Al Horford,5:51,4,Celtics,Lakers,109 - 93,0,14,2,Jumper
+51,Josh Hart,FG_MISS,None,5:42,4,Lakers,Celtics,109 - 93,1,27,3,Jumper
+52,Kyrie Irving,DEFENSIVE_REBOUND,None,5:40,4,Celtics,Lakers,109 - 93,0,N/A,N/A,N/A
+53,Al Horford,TURNOVER,None,5:37,4,Celtics,Lakers,109 - 93,0,N/A,N/A,N/A
+54,Jayson Tatum,FOUL_ON_FLOOR,None,5:32,4,Celtics,Lakers,109 - 93,0,N/A,N/A,N/A
+55,Marcus Smart,SUBSTITUTION,Tatum Jayson,5:32,4,Celtics,Lakers,109 - 93,0,N/A,N/A,N/A
+56,Gordon Hayward,SUBSTITUTION,Rozier Terry,5:32,4,Celtics,Lakers,109 - 93,0,N/A,N/A,N/A
+57,LeBron James,FG_UNASSISTED,None,5:15,4,Lakers,Celtics,109 - 95,1,10,2,Jumper
+58,Kyrie Irving,FOUL_ON_FLOOR,None,5:15,4,Celtics,Lakers,109 - 95,0,N/A,N/A,N/A
+59,LeBron James,FT,None,5:15,4,Lakers,Celtics,109 - 96,1,N/A,1,N/A
+60,Marcus Morris,FG_UNASSISTED,None,4:53,4,Celtics,Lakers,111 - 96,0,19,2,Jumper
+61,LeBron James,FG_MISS,None,4:38,4,Lakers,Celtics,111 - 96,1,18,2,Jumper
+62,Kyrie Irving,DEFENSIVE_REBOUND,None,4:31,4,Celtics,Lakers,111 - 96,0,N/A,N/A,N/A
+63,Al Horford,FG_MISS,Moritz Wagner,4:26,4,Lakers,Celtics,111 - 96,0,3,2,Jumper
+64,Moritz Wagner,DEFENSIVE_REBOUND,None,4:17,4,Lakers,Celtics,111 - 96,1,N/A,N/A,N/A
+65,Moritz Wagner,TURNOVER,Kyrie Irving,4:16,4,Lakers,Celtics,111 - 96,1,N/A,N/A,N/A
+66,Marcus Smart,TURNOVER,None,4:16,4,Celtics,Lakers,111 - 96,0,N/A,N/A,N/A
+67,Rajon Rondo,SUBSTITUTION,James LeBron,4:16,4,Lakers,Celtics,111 - 96,1,N/A,N/A,N/A
+68,Johnathan Williams,FG_MISS,None,3:58,4,Lakers,Celtics,111 - 96,1,3,2,Jumper
+69,Al Horford,DEFENSIVE_REBOUND,None,3:55,4,Celtics,Lakers,111 - 96,0,N/A,N/A,N/A
+70,Kyrie Irving,FG_UNASSISTED,None,3:52,4,Celtics,Lakers,113 - 96,0, ,2,Jumper
+71,Team,Unknown,None,3:51,4,Lakers,Celtics,113 - 96,1,N/A,N/A,N/A
+72,Daniel Theis,SUBSTITUTION,Horford Al,3:51,4,Celtics,Lakers,113 - 96,0,N/A,N/A,N/A
+73,Johnathan Williams,FG_ASSISTED,Alex Caruso,3:35,4,Lakers,Celtics,113 - 98,1,0,2,Dunk
+74,Gordon Hayward,FG_MISS,None,3:15,4,Celtics,Lakers,113 - 98,0,26,3,Jumper
+75,Daniel Theis,OFFENSIVE_REBOUND,None,3:08,4,Celtics,Lakers,113 - 98,0,N/A,N/A,N/A
+76,Daniel Theis,FG_MISS,None,3:08,4,Celtics,Lakers,113 - 98,0, ,2,Jumper
+77,Rajon Rondo,DEFENSIVE_REBOUND,None,3:07,4,Lakers,Celtics,113 - 98,1,N/A,N/A,N/A
+78,Rajon Rondo,FG_UNASSISTED,None,3:05,4,Lakers,Celtics,113 - 100,1,16,2,Jumper
+79,Kyrie Irving,FG_MISS,None,2:55,4,Celtics,Lakers,113 - 100,0,29,3,Jumper
+80,Rajon Rondo,DEFENSIVE_REBOUND,None,2:55,4,Lakers,Celtics,113 - 100,1,N/A,N/A,N/A
+81,Daniel Theis,Unknown,None,2:41,4,Celtics,Lakers,113 - 100,0,N/A,N/A,N/A
+82,Josh Hart,FG_MISS,None,2:36,4,Lakers,Celtics,113 - 100,1,27,3,Jumper
+83,Kyrie Irving,DEFENSIVE_REBOUND,None,2:32,4,Celtics,Lakers,113 - 100,0,N/A,N/A,N/A
+84,Kyrie Irving,FG_UNASSISTED,None,2:27,4,Celtics,Lakers,115 - 100,0,1,2,Jumper
+85,Johnathan Williams,FOUL_ON_FLOOR,None,2:27,4,Lakers,Celtics,115 - 100,1,N/A,N/A,N/A
+86,Isaac Bonga,SUBSTITUTION,Rondo Rajon,2:27,4,Lakers,Celtics,115 - 100,1,N/A,N/A,N/A
+87,Kyrie Irving,FT,None,2:27,4,Celtics,Lakers,116 - 100,0,N/A,1,N/A
+88,Johnathan Williams,FG_ASSISTED,Alex Caruso,2:10,4,Lakers,Celtics,116 - 102,1,0,2,Dunk
+89,Daniel Theis,FG_MISS,Alex Caruso,1:51,4,Lakers,Celtics,116 - 102,0,0,2,Dunk
+90,Team,OFFENSIVE_REBOUND,None,1:51,4,Celtics,Lakers,116 - 102,0,N/A,N/A,N/A
+91,Brad Wanamaker,SUBSTITUTION,Irving Kyrie,1:51,4,Celtics,Lakers,116 - 102,0,N/A,N/A,N/A
+92,Semi Ojeleye,SUBSTITUTION,Morris Marcus,1:51,4,Celtics,Lakers,116 - 102,0,N/A,N/A,N/A
+93,Gordon Hayward,FG_ASSISTED,Brad Wanamaker,1:48,4,Celtics,Lakers,118 - 102,0,16,2,Jumper
+94,Moritz Wagner,FG_MISS,Gordon Hayward,1:32,4,Celtics,Lakers,118 - 102,1,0,2,Layup
+95,Team,OFFENSIVE_REBOUND,None,1:32,4,Lakers,Celtics,118 - 102,1,N/A,N/A,N/A
+96,Guerschon Yabusele,SUBSTITUTION,Hayward Gordon,1:32,4,Celtics,Lakers,118 - 102,0,N/A,N/A,N/A
+97,Brad Wanamaker,FOUL_ON_FLOOR,None,1:26,4,Celtics,Lakers,118 - 102,0,N/A,N/A,N/A
+98,Alex Caruso,FT,None,1:26,4,Lakers,Celtics,118 - 103,1,N/A,1,N/A
+99,Alex Caruso,FT,None,1:26,4,Lakers,Celtics,118 - 104,1,N/A,1,N/A
+100,Guerschon Yabusele,FG_MISS,Isaac Bonga,1:08,4,Lakers,Celtics,118 - 104,0,0,2,Layup
+101,Alex Caruso,DEFENSIVE_REBOUND,None,1:04,4,Lakers,Celtics,118 - 104,1,N/A,N/A,N/A
+102,Moritz Wagner,FG_UNASSISTED,None,55.5,4,Lakers,Celtics,118 - 106,1,0,2,Layup
+103,Guerschon Yabusele,FOUL_ON_FLOOR,None,55.5,4,Celtics,Lakers,118 - 106,0,N/A,N/A,N/A
+104,Moritz Wagner,FT,None,55.5,4,Lakers,Celtics,118 - 107,1,N/A,1,N/A
+105,Brad Wanamaker,FG_MISS,None,43.9,4,Celtics,Lakers,118 - 107,0,1,2,Jumper
+106,Johnathan Williams,DEFENSIVE_REBOUND,None,41.8,4,Lakers,Celtics,118 - 107,1,N/A,N/A,N/A
+107,Moritz Wagner,FG_MISS,None,33.2,4,Lakers,Celtics,118 - 107,1,26,3,Jumper
+108,Semi Ojeleye,DEFENSIVE_REBOUND,None,28.1,4,Celtics,Lakers,118 - 107,0,N/A,N/A,N/A
+109,Guerschon Yabusele,FG_ASSISTED,Marcus Smart,23.4,4,Celtics,Lakers,120 - 107,0,7,2,Jumper
+110,Josh Hart,FG_MISS,None,4.6,4,Lakers,Celtics,120 - 107,1,32,3,Jumper
+111,Marcus Smart,DEFENSIVE_REBOUND,None,0.5,4,Celtics,Lakers,120 - 107,0,N/A,N/A,N/A
+112,End of,Unknown,None,0.0,4,Lakers,Celtics,120 - 107,1,N/A,N/A,N/A
+113,End of,Unknown,None,0.0,4,Lakers,Celtics,120 - 107,1,N/A,N/A,N/A

@@ -1,0 +1,490 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Joel Embiid,JUMP_BALL,None,12:00,1,76ers,Raptors,0 - 0,0,N/A,N/A,N/A
+1,Joel Embiid,FG_UNASSISTED,None,11:38,1,76ers,Raptors,2 - 0,0,8,2,Jumper
+2,Kyle Lowry,FG_MISS,None,11:24,1,Raptors,76ers,2 - 0,1,-,3,Jumper
+3,Joel Embiid,DEFENSIVE_REBOUND,None,11:22,1,76ers,Raptors,2 - 0,0,N/A,N/A,N/A
+4,JJ Redick,FG_MISS,None,11:19,1,76ers,Raptors,2 - 0,0,25,3,Jumper
+5,Kawhi Leonard,DEFENSIVE_REBOUND,None,11:16,1,Raptors,76ers,2 - 0,1,N/A,N/A,N/A
+6,Serge Ibaka,FG_MISS,None,10:53,1,Raptors,76ers,2 - 0,1,21,2,Jumper
+7,Pascal Siakam,OFFENSIVE_REBOUND,None,10:49,1,Raptors,76ers,2 - 0,1,N/A,N/A,N/A
+8,Pascal Siakam,FG_MISS,None,10:48,1,Raptors,76ers,2 - 0,1,-,2,Jumper
+9,Joel Embiid,DEFENSIVE_REBOUND,None,10:48,1,76ers,Raptors,2 - 0,0,N/A,N/A,N/A
+10,Ben Simmons,TURNOVER,None,10:45,1,76ers,Raptors,2 - 0,0,N/A,N/A,N/A
+11,Kawhi Leonard,FG_UNASSISTED,None,10:36,1,Raptors,76ers,2 - 2,1,10,2,Jumper
+12,Ben Simmons,FG_ASSISTED,Wilson Chandler,10:21,1,76ers,Raptors,4 - 2,0,-,2,Jumper
+13,Serge Ibaka,FG_UNASSISTED,None,9:59,1,Raptors,76ers,4 - 4,1,0,2,Dunk
+14,Wilson Chandler,FG_ASSISTED,Jimmy Butler,9:37,1,76ers,Raptors,7 - 4,0,-,3,Jumper
+15,Pascal Siakam,FG_MISS,None,9:26,1,Raptors,76ers,7 - 4,1,-,2,Jumper
+16,Pascal Siakam,OFFENSIVE_REBOUND,None,9:24,1,Raptors,76ers,7 - 4,1,N/A,N/A,N/A
+17,Kyle Lowry,FG_MISS,None,9:21,1,Raptors,76ers,7 - 4,1,28,3,Jumper
+18,Ben Simmons,DEFENSIVE_REBOUND,None,9:18,1,76ers,Raptors,7 - 4,0,N/A,N/A,N/A
+19,JJ Redick,FG_MISS,None,9:14,1,76ers,Raptors,7 - 4,0,25,3,Jumper
+20,Serge Ibaka,DEFENSIVE_REBOUND,None,9:11,1,Raptors,76ers,7 - 4,1,N/A,N/A,N/A
+21,Kyle Lowry,TURNOVER,None,9:09,1,Raptors,76ers,7 - 4,1,N/A,N/A,N/A
+22,Joel Embiid,FG_MISS,Danny Green,8:51,1,Raptors,76ers,7 - 4,0,0,2,Layup
+23,Danny Green,DEFENSIVE_REBOUND,None,8:50,1,Raptors,76ers,7 - 4,1,N/A,N/A,N/A
+24,Danny Green,TURNOVER,None,8:47,1,Raptors,76ers,7 - 4,1,N/A,N/A,N/A
+25,Joel Embiid,FG_MISS,None,8:29,1,76ers,Raptors,7 - 4,0,9,2,Jumper
+26,Wilson Chandler,OFFENSIVE_REBOUND,None,8:27,1,76ers,Raptors,7 - 4,0,N/A,N/A,N/A
+27,Joel Embiid,TURNOVER,Kyle Lowry,8:25,1,76ers,Raptors,7 - 4,0,N/A,N/A,N/A
+28,Kawhi Leonard,FG_ASSISTED,Pascal Siakam,8:20,1,Raptors,76ers,7 - 6,1,0,2,Dunk
+29,Pascal Siakam,FOUL_ON_FLOOR,None,8:09,1,Raptors,76ers,7 - 6,1,N/A,N/A,N/A
+30,Jimmy Butler,FG_ASSISTED,JJ Redick,7:58,1,76ers,Raptors,10 - 6,0,26,3,Jumper
+31,Jimmy Butler,Unknown,None,7:47,1,76ers,Raptors,10 - 6,0,N/A,N/A,N/A
+32,Kawhi Leonard,FG_UNASSISTED,None,7:40,1,Raptors,76ers,10 - 8,1,16,2,Jumper
+33,JJ Redick,FG_ASSISTED,Ben Simmons,7:32,1,76ers,Raptors,12 - 8,0,19,2,Jumper
+34,Serge Ibaka,TURNOVER,None,7:15,1,Raptors,76ers,12 - 8,1,N/A,N/A,N/A
+35,Jimmy Butler,FG_MISS,None,7:05,1,76ers,Raptors,12 - 8,0,19,2,Jumper
+36,Kyle Lowry,DEFENSIVE_REBOUND,None,7:01,1,Raptors,76ers,12 - 8,1,N/A,N/A,N/A
+37,Serge Ibaka,FG_ASSISTED,Kyle Lowry,6:57,1,Raptors,76ers,12 - 10,1, ,2,Jumper
+38,Wilson Chandler,FG_MISS,None,6:42,1,76ers,Raptors,12 - 10,0,16,2,Jumper
+39,Pascal Siakam,DEFENSIVE_REBOUND,None,6:38,1,Raptors,76ers,12 - 10,1,N/A,N/A,N/A
+40,Ben Simmons,FOUL_ON_FLOOR,None,6:36,1,76ers,Raptors,12 - 10,0,N/A,N/A,N/A
+41,Team,Unknown,None,6:36,1,Raptors,76ers,12 - 10,1,N/A,N/A,N/A
+42,T.J. McConnell,SUBSTITUTION,Redick JJ,6:36,1,76ers,Raptors,12 - 10,0,N/A,N/A,N/A
+43,Mike Muscala,SUBSTITUTION,Embiid Joel,6:36,1,76ers,Raptors,12 - 10,0,N/A,N/A,N/A
+44,Landry Shamet,SUBSTITUTION,Chandler Wilson,6:36,1,76ers,Raptors,12 - 10,0,N/A,N/A,N/A
+45,Jimmy Butler,FOUL_ON_FLOOR,None,6:22,1,76ers,Raptors,12 - 10,0,N/A,N/A,N/A
+46,Kawhi Leonard,FT,None,6:22,1,Raptors,76ers,12 - 11,1,N/A,1,N/A
+47,Kawhi Leonard,FT,None,6:22,1,Raptors,76ers,12 - 12,1,N/A,1,N/A
+48,Ben Simmons,FG_ASSISTED,Mike Muscala,6:03,1,76ers,Raptors,14 - 12,0,0,2,Layup
+49,Danny Green,FG_MISS,None,5:48,1,Raptors,76ers,14 - 12,1,27,3,Jumper
+50,Jimmy Butler,DEFENSIVE_REBOUND,None,5:46,1,76ers,Raptors,14 - 12,0,N/A,N/A,N/A
+51,T.J. McConnell,TURNOVER,None,5:39,1,76ers,Raptors,14 - 12,0,N/A,N/A,N/A
+52,Pascal Siakam,FG_MISS,None,5:25,1,Raptors,76ers,14 - 12,1,3,2,Jumper
+53,Serge Ibaka,OFFENSIVE_REBOUND,None,5:23,1,Raptors,76ers,14 - 12,1,N/A,N/A,N/A
+54,Serge Ibaka,FG_MISS,None,5:22,1,Raptors,76ers,14 - 12,1,7,2,Jumper
+55,Jimmy Butler,DEFENSIVE_REBOUND,None,5:18,1,76ers,Raptors,14 - 12,0,N/A,N/A,N/A
+56,Jimmy Butler,FG_MISS,None,4:59,1,76ers,Raptors,14 - 12,0,4,2,Jumper
+57,Kawhi Leonard,DEFENSIVE_REBOUND,None,4:57,1,Raptors,76ers,14 - 12,1,N/A,N/A,N/A
+58,Kyle Lowry,FG_MISS,None,4:51,1,Raptors,76ers,14 - 12,1,27,3,Jumper
+59,Mike Muscala,DEFENSIVE_REBOUND,None,4:48,1,76ers,Raptors,14 - 12,0,N/A,N/A,N/A
+60,Landry Shamet,FG_ASSISTED,Ben Simmons,4:44,1,76ers,Raptors,16 - 12,0,14,2,Jumper
+61,Serge Ibaka,FG_MISS,None,4:27,1,Raptors,76ers,16 - 12,1,18,2,Jumper
+62,Ben Simmons,DEFENSIVE_REBOUND,None,4:23,1,76ers,Raptors,16 - 12,0,N/A,N/A,N/A
+63,Jimmy Butler,FG_ASSISTED,Ben Simmons,4:18,1,76ers,Raptors,18 - 12,0, ,2,Jumper
+64,Mike Muscala,FOUL_ON_FLOOR,None,4:03,1,76ers,Raptors,18 - 12,0,N/A,N/A,N/A
+65,Jonas Valanciunas,SUBSTITUTION,Lowry Kyle,4:03,1,Raptors,76ers,18 - 12,1,N/A,N/A,N/A
+66,Fred VanVleet,SUBSTITUTION,Ibaka Serge,4:03,1,Raptors,76ers,18 - 12,1,N/A,N/A,N/A
+67,JJ Redick,SUBSTITUTION,Butler Jimmy,4:03,1,76ers,Raptors,18 - 12,0,N/A,N/A,N/A
+68,Joel Embiid,SUBSTITUTION,Simmons Ben,4:03,1,76ers,Raptors,18 - 12,0,N/A,N/A,N/A
+69,Furkan Korkmaz,SUBSTITUTION,Shamet Landry,4:03,1,76ers,Raptors,18 - 12,0,N/A,N/A,N/A
+70,Kawhi Leonard,FG_MISS,None,3:58,1,Raptors,76ers,18 - 12,1,13,2,Jumper
+71,Mike Muscala,DEFENSIVE_REBOUND,None,3:55,1,76ers,Raptors,18 - 12,0,N/A,N/A,N/A
+72,JJ Redick,FG_MISS,None,3:44,1,76ers,Raptors,18 - 12,0,25,3,Jumper
+73,Joel Embiid,OFFENSIVE_REBOUND,None,3:40,1,76ers,Raptors,18 - 12,0,N/A,N/A,N/A
+74,Joel Embiid,FG_UNASSISTED,None,3:40,1,76ers,Raptors,20 - 12,0, ,2,Jumper
+75,Jonas Valanciunas,FG_ASSISTED,Kawhi Leonard,3:29,1,Raptors,76ers,20 - 14,1,9,2,Jumper
+76,JJ Redick,FG_ASSISTED,Joel Embiid,3:15,1,76ers,Raptors,23 - 14,0,26,3,Jumper
+77,Kawhi Leonard,FG_ASSISTED,Jonas Valanciunas,2:53,1,Raptors,76ers,23 - 17,1,26,3,Jumper
+78,Team,Unknown,None,2:51,1,76ers,Raptors,23 - 17,0,N/A,N/A,N/A
+79,OG Anunoby,SUBSTITUTION,Siakam Pascal,2:51,1,Raptors,76ers,23 - 17,1,N/A,N/A,N/A
+80,Mike Muscala,FG_MISS,None,2:34,1,76ers,Raptors,23 - 17,0, ,3,Jumper
+81,Kawhi Leonard,DEFENSIVE_REBOUND,None,2:32,1,Raptors,76ers,23 - 17,1,N/A,N/A,N/A
+82,Joel Embiid,FOUL_ON_FLOOR,None,2:12,1,76ers,Raptors,23 - 17,0,N/A,N/A,N/A
+83,Jonas Valanciunas,FT,None,2:12,1,Raptors,76ers,23 - 18,1,N/A,1,N/A
+84,CJ Miles,SUBSTITUTION,Leonard Kawhi,2:12,1,Raptors,76ers,23 - 18,1,N/A,N/A,N/A
+85,Delon Wright,SUBSTITUTION,Green Danny,2:12,1,Raptors,76ers,23 - 18,1,N/A,N/A,N/A
+86,Jonas Valanciunas,FT,None,2:12,1,Raptors,76ers,23 - 19,1,N/A,1,N/A
+87,Jonas Valanciunas,FOUL_ON_FLOOR,None,2:04,1,Raptors,76ers,23 - 19,1,N/A,N/A,N/A
+88,Joel Embiid,FG_MISS,None,1:51,1,76ers,Raptors,23 - 19,0,6,2,Jumper
+89,Jonas Valanciunas,DEFENSIVE_REBOUND,None,1:49,1,Raptors,76ers,23 - 19,1,N/A,N/A,N/A
+90,Jonas Valanciunas,FG_ASSISTED,Delon Wright,1:39,1,Raptors,76ers,23 - 21,1,6,2,Jumper
+91,Furkan Korkmaz,FG_MISS,None,1:24,1,76ers,Raptors,23 - 21,0,12,2,Jumper
+92,Team,OFFENSIVE_REBOUND,None,1:23,1,76ers,Raptors,23 - 21,0,N/A,N/A,N/A
+93,Jonas Valanciunas,FOUL_ON_FLOOR,None,1:23,1,Raptors,76ers,23 - 21,1,N/A,N/A,N/A
+94,OG Anunoby,FOUL_ON_FLOOR,None,1:18,1,Raptors,76ers,23 - 21,1,N/A,N/A,N/A
+95,JJ Redick,FT,None,1:18,1,76ers,Raptors,24 - 21,0,N/A,1,N/A
+96,JJ Redick,FT,None,1:18,1,76ers,Raptors,25 - 21,0,N/A,1,N/A
+97,OG Anunoby,TURNOVER,T.J. McConnell,58.7,1,Raptors,76ers,25 - 21,1,N/A,N/A,N/A
+98,Joel Embiid,FG_ASSISTED,T.J. McConnell,54.8,1,76ers,Raptors,27 - 21,0,0,2,Dunk
+99,Jonas Valanciunas,FG_ASSISTED,CJ Miles,46.1,1,Raptors,76ers,27 - 23,1,0,2,Dunk
+100,Jonas Valanciunas,FOUL_ON_FLOOR,None,33.6,1,Raptors,76ers,27 - 23,1,N/A,N/A,N/A
+101,Joel Embiid,FT_MISS,None,33.6,1,76ers,Raptors,27 - 23,0,N/A,1,N/A
+102,Team,OFFENSIVE_REBOUND,None,33.6,1,76ers,Raptors,27 - 23,0,N/A,N/A,N/A
+103,Greg Monroe,SUBSTITUTION,Valanciunas Jonas,33.6,1,Raptors,76ers,27 - 23,1,N/A,N/A,N/A
+104,Joel Embiid,FT_MISS,None,33.6,1,76ers,Raptors,27 - 23,0,N/A,1,N/A
+105,OG Anunoby,DEFENSIVE_REBOUND,None,31.8,1,Raptors,76ers,27 - 23,1,N/A,N/A,N/A
+106,Fred VanVleet,TURNOVER,T.J. McConnell,28.1,1,Raptors,76ers,27 - 23,1,N/A,N/A,N/A
+107,JJ Redick,FG_ASSISTED,Joel Embiid,7.5,1,76ers,Raptors,29 - 23,0,20,2,Jumper
+108,Fred VanVleet,FG_MISS,None,0.2,1,Raptors,76ers,29 - 23,1,27,3,Jumper
+109,Team,OFFENSIVE_REBOUND,None,0.2,1,Raptors,76ers,29 - 23,1,N/A,N/A,N/A
+110,End of,Unknown,None,0.0,1,Raptors,76ers,29 - 23,1,N/A,N/A,N/A
+0,Pascal Siakam,SUBSTITUTION,Miles CJ,12:00,2,Raptors,76ers,29 - 23,1,N/A,N/A,N/A
+1,Kyle Lowry,SUBSTITUTION,VanVleet Fred,12:00,2,Raptors,76ers,29 - 23,1,N/A,N/A,N/A
+2,Wilson Chandler,SUBSTITUTION,Korkmaz Furkan,12:00,2,76ers,Raptors,29 - 23,0,N/A,N/A,N/A
+3,Jimmy Butler,SUBSTITUTION,Muscala Mike,12:00,2,76ers,Raptors,29 - 23,0,N/A,N/A,N/A
+4,OG Anunoby,FG_MISS,None,11:39,2,Raptors,76ers,29 - 23,1,26,3,Jumper
+5,Joel Embiid,DEFENSIVE_REBOUND,None,11:35,2,76ers,Raptors,29 - 23,0,N/A,N/A,N/A
+6,Joel Embiid,TURNOVER,None,11:25,2,76ers,Raptors,29 - 23,0,N/A,N/A,N/A
+7,Joel Embiid,TURNOVER,None,11:25,2,76ers,Raptors,29 - 23,0,N/A,N/A,N/A
+8,CJ Miles,SUBSTITUTION,Siakam Pascal,11:25,2,Raptors,76ers,29 - 23,1,N/A,N/A,N/A
+9,Delon Wright,FG_MISS,None,11:13,2,Raptors,76ers,29 - 23,1, ,2,Jumper
+10,Jimmy Butler,DEFENSIVE_REBOUND,None,11:10,2,76ers,Raptors,29 - 23,0,N/A,N/A,N/A
+11,Jimmy Butler,FG_MISS,None,11:05,2,76ers,Raptors,29 - 23,0,4,2,Jumper
+12,Greg Monroe,DEFENSIVE_REBOUND,None,11:01,2,Raptors,76ers,29 - 23,1,N/A,N/A,N/A
+13,Kyle Lowry,TURNOVER,T.J. McConnell,10:47,2,Raptors,76ers,29 - 23,1,N/A,N/A,N/A
+14,JJ Redick,FG_ASSISTED,T.J. McConnell,10:41,2,76ers,Raptors,31 - 23,0, ,2,Jumper
+15,Kyle Lowry,FG_MISS,None,10:18,2,Raptors,76ers,31 - 23,1,30,3,Jumper
+16,OG Anunoby,OFFENSIVE_REBOUND,None,10:14,2,Raptors,76ers,31 - 23,1,N/A,N/A,N/A
+17,OG Anunoby,FG_MISS,None,10:14,2,Raptors,76ers,31 - 23,1, ,2,Jumper
+18,OG Anunoby,OFFENSIVE_REBOUND,None,10:13,2,Raptors,76ers,31 - 23,1,N/A,N/A,N/A
+19,OG Anunoby,FG_MISS,None,10:13,2,Raptors,76ers,31 - 23,1, ,2,Jumper
+20,OG Anunoby,OFFENSIVE_REBOUND,None,10:13,2,Raptors,76ers,31 - 23,1,N/A,N/A,N/A
+21,OG Anunoby,FG_MISS,None,10:12,2,Raptors,76ers,31 - 23,1, ,2,Jumper
+22,Joel Embiid,DEFENSIVE_REBOUND,None,10:11,2,76ers,Raptors,31 - 23,0,N/A,N/A,N/A
+23,T.J. McConnell,TURNOVER,OG Anunoby,10:05,2,76ers,Raptors,31 - 23,0,N/A,N/A,N/A
+24,OG Anunoby,FG_UNASSISTED,None,10:00,2,Raptors,76ers,31 - 25,1,0,2,Layup
+25,JJ Redick,TURNOVER,Greg Monroe,9:40,2,76ers,Raptors,31 - 25,0,N/A,N/A,N/A
+26,Greg Monroe,FG_UNASSISTED,None,9:38,2,Raptors,76ers,31 - 27,1, ,2,Jumper
+27,Joel Embiid,Unknown,None,9:38,2,76ers,Raptors,31 - 27,0,N/A,N/A,N/A
+28,T.J. McConnell,FOUL_ON_FLOOR,None,9:38,2,76ers,Raptors,31 - 27,0,N/A,N/A,N/A
+29,Fred VanVleet,SUBSTITUTION,Wright Delon,9:38,2,Raptors,76ers,31 - 27,1,N/A,N/A,N/A
+30,Greg Monroe,FT_MISS,None,9:38,2,Raptors,76ers,31 - 27,1,N/A,1,N/A
+31,Joel Embiid,DEFENSIVE_REBOUND,None,9:38,2,76ers,Raptors,31 - 27,0,N/A,N/A,N/A
+32,Jimmy Butler,FG_ASSISTED,Joel Embiid,9:20,2,76ers,Raptors,33 - 27,0,0,2,Layup
+33,Fred VanVleet,FG_MISS,None,8:57,2,Raptors,76ers,33 - 27,1,0,2,Layup
+34,Greg Monroe,OFFENSIVE_REBOUND,None,8:54,2,Raptors,76ers,33 - 27,1,N/A,N/A,N/A
+35,Greg Monroe,FG_MISS,None,8:54,2,Raptors,76ers,33 - 27,1, ,2,Jumper
+36,Greg Monroe,OFFENSIVE_REBOUND,None,8:53,2,Raptors,76ers,33 - 27,1,N/A,N/A,N/A
+37,Greg Monroe,FG_UNASSISTED,None,8:52,2,Raptors,76ers,33 - 29,1,2,2,Jumper
+38,T.J. McConnell,FOUL_ON_FLOOR,None,8:48,2,76ers,Raptors,33 - 29,0,N/A,N/A,N/A
+39,T.J. McConnell,TURNOVER,None,8:48,2,76ers,Raptors,33 - 29,0,N/A,N/A,N/A
+40,Landry Shamet,SUBSTITUTION,Redick JJ,8:48,2,76ers,Raptors,33 - 29,0,N/A,N/A,N/A
+41,CJ Miles,FG_MISS,None,8:35,2,Raptors,76ers,33 - 29,1,18,2,Jumper
+42,Wilson Chandler,DEFENSIVE_REBOUND,None,8:35,2,76ers,Raptors,33 - 29,0,N/A,N/A,N/A
+43,Jimmy Butler,TURNOVER,Fred VanVleet,8:18,2,76ers,Raptors,33 - 29,0,N/A,N/A,N/A
+44,Kawhi Leonard,SUBSTITUTION,Miles CJ,8:11,2,Raptors,76ers,33 - 29,1,N/A,N/A,N/A
+45,Ben Simmons,SUBSTITUTION,McConnell T.J.,8:11,2,76ers,Raptors,33 - 29,0,N/A,N/A,N/A
+46,Kawhi Leonard,FG_ASSISTED,Fred VanVleet,8:01,2,Raptors,76ers,33 - 32,1,26,3,Jumper
+47,Joel Embiid,FG_MISS,None,7:48,2,76ers,Raptors,33 - 32,0,25,3,Jumper
+48,Greg Monroe,DEFENSIVE_REBOUND,None,7:42,2,Raptors,76ers,33 - 32,1,N/A,N/A,N/A
+49,Wilson Chandler,FOUL_ON_FLOOR,None,7:38,2,76ers,Raptors,33 - 32,0,N/A,N/A,N/A
+50,Kyle Lowry,FT,None,7:38,2,Raptors,76ers,33 - 33,1,N/A,1,N/A
+51,Mike Muscala,SUBSTITUTION,Embiid Joel,7:38,2,76ers,Raptors,33 - 33,0,N/A,N/A,N/A
+52,Kyle Lowry,FT,None,7:38,2,Raptors,76ers,33 - 34,1,N/A,1,N/A
+53,Fred VanVleet,FOUL_ON_FLOOR,None,7:25,2,Raptors,76ers,33 - 34,1,N/A,N/A,N/A
+54,Landry Shamet,FT,None,7:25,2,76ers,Raptors,34 - 34,0,N/A,1,N/A
+55,Landry Shamet,FT_MISS,None,7:25,2,76ers,Raptors,34 - 34,0,N/A,1,N/A
+56,Team,OFFENSIVE_REBOUND,None,7:25,2,76ers,Raptors,34 - 34,0,N/A,N/A,N/A
+57,Landry Shamet,FT,None,7:25,2,76ers,Raptors,35 - 34,0,N/A,1,N/A
+58,Greg Monroe,FG_MISS,None,7:06,2,Raptors,76ers,35 - 34,1,0,2,Layup
+59,Mike Muscala,DEFENSIVE_REBOUND,None,7:05,2,76ers,Raptors,35 - 34,0,N/A,N/A,N/A
+60,OG Anunoby,FOUL_ON_FLOOR,None,6:57,2,Raptors,76ers,35 - 34,1,N/A,N/A,N/A
+61,Team,Unknown,None,6:57,2,Raptors,76ers,35 - 34,1,N/A,N/A,N/A
+62,Serge Ibaka,SUBSTITUTION,Monroe Greg,6:57,2,Raptors,76ers,35 - 34,1,N/A,N/A,N/A
+63,Jimmy Butler,FT,None,6:57,2,76ers,Raptors,36 - 34,0,N/A,1,N/A
+64,Jimmy Butler,FT,None,6:57,2,76ers,Raptors,37 - 34,0,N/A,1,N/A
+65,Team,Unknown,None,6:48,2,Raptors,76ers,37 - 34,1,N/A,N/A,N/A
+66,Kawhi Leonard,FG_MISS,None,6:36,2,Raptors,76ers,37 - 34,1,18,2,Jumper
+67,Jimmy Butler,DEFENSIVE_REBOUND,None,6:34,2,76ers,Raptors,37 - 34,0,N/A,N/A,N/A
+68,Danny Green,SUBSTITUTION,Anunoby OG,6:15,2,Raptors,76ers,37 - 34,1,N/A,N/A,N/A
+69,Pascal Siakam,SUBSTITUTION,VanVleet Fred,6:15,2,Raptors,76ers,37 - 34,1,N/A,N/A,N/A
+70,Ben Simmons,TURNOVER,Kawhi Leonard,6:11,2,76ers,Raptors,37 - 34,0,N/A,N/A,N/A
+71,Wilson Chandler,FOUL_ON_FLOOR,None,6:08,2,76ers,Raptors,37 - 34,0,N/A,N/A,N/A
+72,Kawhi Leonard,FG_MISS,None,6:01,2,Raptors,76ers,37 - 34,1,0,2,Layup
+73,Serge Ibaka,OFFENSIVE_REBOUND,None,5:58,2,Raptors,76ers,37 - 34,1,N/A,N/A,N/A
+74,Serge Ibaka,FG_UNASSISTED,None,5:58,2,Raptors,76ers,37 - 36,1, ,2,Jumper
+75,Landry Shamet,FG_MISS,None,5:51,2,76ers,Raptors,37 - 36,0,25,3,Jumper
+76,Serge Ibaka,DEFENSIVE_REBOUND,None,5:47,2,Raptors,76ers,37 - 36,1,N/A,N/A,N/A
+77,Serge Ibaka,FG_MISS,None,5:41,2,Raptors,76ers,37 - 36,1,0,2,Layup
+78,Jimmy Butler,DEFENSIVE_REBOUND,None,5:38,2,76ers,Raptors,37 - 36,0,N/A,N/A,N/A
+79,Ben Simmons,FG_ASSISTED,Wilson Chandler,5:34,2,76ers,Raptors,39 - 36,0,0,2,Dunk
+80,Kyle Lowry,FG_MISS,None,5:20,2,Raptors,76ers,39 - 36,1,23,3,Jumper
+81,Wilson Chandler,DEFENSIVE_REBOUND,None,5:17,2,76ers,Raptors,39 - 36,0,N/A,N/A,N/A
+82,Jimmy Butler,FG_MISS,None,5:11,2,76ers,Raptors,39 - 36,0,6,2,Jumper
+83,Serge Ibaka,DEFENSIVE_REBOUND,None,5:09,2,Raptors,76ers,39 - 36,1,N/A,N/A,N/A
+84,Serge Ibaka,FG_ASSISTED,Kyle Lowry,4:59,2,Raptors,76ers,39 - 38,1,18,2,Jumper
+85,Jimmy Butler,FG_UNASSISTED,None,4:46,2,76ers,Raptors,41 - 38,0,4,2,Jumper
+86,Pascal Siakam,FOUL_ON_FLOOR,None,4:46,2,Raptors,76ers,41 - 38,1,N/A,N/A,N/A
+87,Jimmy Butler,FT,None,4:46,2,76ers,Raptors,42 - 38,0,N/A,1,N/A
+88,Danny Green,FG_MISS,None,4:29,2,Raptors,76ers,42 - 38,1,0,2,Layup
+89,Danny Green,OFFENSIVE_REBOUND,None,4:26,2,Raptors,76ers,42 - 38,1,N/A,N/A,N/A
+90,Danny Green,FG_UNASSISTED,None,4:26,2,Raptors,76ers,42 - 40,1, ,2,Jumper
+91,Wilson Chandler,FG_MISS,None,4:19,2,76ers,Raptors,42 - 40,0,27,3,Jumper
+92,Jimmy Butler,OFFENSIVE_REBOUND,None,4:18,2,76ers,Raptors,42 - 40,0,N/A,N/A,N/A
+93,Jimmy Butler's,FG_MISS,Kawhi Leonard,4:17,2,Raptors,76ers,42 - 40,0, ,2,Jumper
+94,Team,OFFENSIVE_REBOUND,None,4:17,2,76ers,Raptors,42 - 40,0,N/A,N/A,N/A
+95,Pascal Siakam,FOUL_ON_FLOOR,None,4:17,2,Raptors,76ers,42 - 40,1,N/A,N/A,N/A
+96,Jimmy Butler,FT,None,4:17,2,76ers,Raptors,43 - 40,0,N/A,1,N/A
+97,OG Anunoby,SUBSTITUTION,Siakam Pascal,4:17,2,Raptors,76ers,43 - 40,1,N/A,N/A,N/A
+98,Joel Embiid,SUBSTITUTION,for game,4:17,2,76ers,Raptors,43 - 40,0,N/A,N/A,N/A
+99,enters the,SUBSTITUTION,Chandler Wilson,4:17,2,76ers,Raptors,43 - 40,0,N/A,N/A,N/A
+100,Joel Embiid,FG_MISS,None,4:14,2,76ers,Raptors,43 - 40,0,24,2,Jumper
+101,Ben Simmons,OFFENSIVE_REBOUND,None,4:12,2,76ers,Raptors,43 - 40,0,N/A,N/A,N/A
+102,Jimmy Butler,FG_ASSISTED,Ben Simmons,4:09,2,76ers,Raptors,46 - 40,0,25,3,Jumper
+103,Mike Muscala,FOUL_ON_FLOOR,None,3:51,2,76ers,Raptors,46 - 40,0,N/A,N/A,N/A
+104,Serge Ibaka,FT,None,3:51,2,Raptors,76ers,46 - 41,1,N/A,1,N/A
+105,Serge Ibaka,FT,None,3:51,2,Raptors,76ers,46 - 42,1,N/A,1,N/A
+106,Ben Simmons,FOUL_ON_FLOOR,None,3:43,2,76ers,Raptors,46 - 42,0,N/A,N/A,N/A
+107,Ben Simmons,TURNOVER,None,3:43,2,76ers,Raptors,46 - 42,0,N/A,N/A,N/A
+108,OG Anunoby,FG_MISS,None,3:28,2,Raptors,76ers,46 - 42,1,23,3,Jumper
+109,Ben Simmons,DEFENSIVE_REBOUND,None,3:25,2,76ers,Raptors,46 - 42,0,N/A,N/A,N/A
+110,Landry Shamet,FG_MISS,None,3:13,2,76ers,Raptors,46 - 42,0,27,3,Jumper
+111,Kawhi Leonard,DEFENSIVE_REBOUND,None,3:09,2,Raptors,76ers,46 - 42,1,N/A,N/A,N/A
+112,Serge Ibaka,FG_ASSISTED,OG Anunoby,3:05,2,Raptors,76ers,46 - 44,1,4,2,Jumper
+113,Team,Unknown,None,3:03,2,76ers,Raptors,46 - 44,0,N/A,N/A,N/A
+114,Furkan Korkmaz,SUBSTITUTION,Shamet Landry,3:03,2,76ers,Raptors,46 - 44,0,N/A,N/A,N/A
+115,JJ Redick,SUBSTITUTION,Butler Jimmy,3:03,2,76ers,Raptors,46 - 44,0,N/A,N/A,N/A
+116,Ben Simmons,FG_MISS,None,2:52,2,76ers,Raptors,46 - 44,0,0,2,Layup
+117,Kawhi Leonard,DEFENSIVE_REBOUND,None,2:50,2,Raptors,76ers,46 - 44,1,N/A,N/A,N/A
+118,Kawhi Leonard,FG_UNASSISTED,None,2:47,2,Raptors,76ers,46 - 46,1,0,2,Dunk
+119,JJ Redick,TURNOVER,Kawhi Leonard,2:32,2,76ers,Raptors,46 - 46,0,N/A,N/A,N/A
+120,OG Anunoby,FG_ASSISTED,Kyle Lowry,2:28,2,Raptors,76ers,46 - 48,1,0,2,Dunk
+121,Furkan Korkmaz,FG_MISS,None,2:10,2,76ers,Raptors,46 - 48,0, ,3,Jumper
+122,Kyle Lowry,DEFENSIVE_REBOUND,None,2:07,2,Raptors,76ers,46 - 48,1,N/A,N/A,N/A
+123,Kyle Lowry,TURNOVER,None,2:04,2,Raptors,76ers,46 - 48,1,N/A,N/A,N/A
+124,Ben Simmons,FOUL_ON_FLOOR,None,1:54,2,76ers,Raptors,46 - 48,0,N/A,N/A,N/A
+125,Ben Simmons,TURNOVER,None,1:54,2,76ers,Raptors,46 - 48,0,N/A,N/A,N/A
+126,T.J. McConnell,SUBSTITUTION,Simmons Ben,1:54,2,76ers,Raptors,46 - 48,0,N/A,N/A,N/A
+127,Kawhi Leonard,FG_UNASSISTED,None,1:40,2,Raptors,76ers,46 - 50,1,7,2,Jumper
+128,Joel Embiid,FG_MISS,None,1:21,2,76ers,Raptors,46 - 50,0,0,2,Layup
+129,Danny Green,DEFENSIVE_REBOUND,None,1:18,2,Raptors,76ers,46 - 50,1,N/A,N/A,N/A
+130,OG Anunoby,FG_MISS,None,1:15,2,Raptors,76ers,46 - 50,1,26,3,Jumper
+131,T.J. McConnell,DEFENSIVE_REBOUND,None,1:12,2,76ers,Raptors,46 - 50,0,N/A,N/A,N/A
+132,Jimmy Butler,SUBSTITUTION,Korkmaz Furkan,1:12,2,76ers,Raptors,46 - 50,0,N/A,N/A,N/A
+133,T.J. McConnell,JUMP_BALL,None,1:06,2,Raptors,76ers,46 - 50,1,N/A,N/A,N/A
+134,T.J. McConnell,TURNOVER,Kyle Lowry,1:06,2,76ers,Raptors,46 - 50,0,N/A,N/A,N/A
+135,Danny Green,FG_MISS,None,1:03,2,Raptors,76ers,46 - 50,1,25,3,Jumper
+136,OG Anunoby,OFFENSIVE_REBOUND,None,1:03,2,Raptors,76ers,46 - 50,1,N/A,N/A,N/A
+137,Danny Green,FG_MISS,None,59.5,2,Raptors,76ers,46 - 50,1,23,3,Jumper
+138,Jimmy Butler,DEFENSIVE_REBOUND,None,57.0,2,76ers,Raptors,46 - 50,0,N/A,N/A,N/A
+139,Mike Muscala,FG_MISS,None,52.0,2,76ers,Raptors,46 - 50,0,24,3,Jumper
+140,Serge Ibaka,DEFENSIVE_REBOUND,None,49.0,2,Raptors,76ers,46 - 50,1,N/A,N/A,N/A
+141,Danny Green,FG_MISS,Mike Muscala,43.5,2,76ers,Raptors,46 - 50,1,5,2,Jumper
+142,Danny Green,OFFENSIVE_REBOUND,None,40.9,2,Raptors,76ers,46 - 50,1,N/A,N/A,N/A
+143,Kawhi Leonard,FG_ASSISTED,Danny Green,37.5,2,Raptors,76ers,46 - 53,1,26,3,Jumper
+144,Mike Muscala,FG_ASSISTED,JJ Redick,29.8,2,76ers,Raptors,49 - 53,0, ,3,Jumper
+145,Kawhi Leonard,FG_MISS,None,8.3,2,Raptors,76ers,49 - 53,1,13,2,Jumper
+146,Team,DEFENSIVE_REBOUND,None,6.1,2,76ers,Raptors,49 - 53,0,N/A,N/A,N/A
+147,T.J. McConnell,TURNOVER,Kyle Lowry,0.9,2,76ers,Raptors,49 - 53,0,N/A,N/A,N/A
+148,End of,Unknown,None,0.0,2,Raptors,76ers,49 - 53,1,N/A,N/A,N/A
+0,Pascal Siakam,SUBSTITUTION,Anunoby OG,12:00,3,Raptors,76ers,49 - 53,1,N/A,N/A,N/A
+1,Wilson Chandler,SUBSTITUTION,McConnell T.J.,12:00,3,76ers,Raptors,49 - 53,0,N/A,N/A,N/A
+2,Ben Simmons,SUBSTITUTION,Muscala Mike,12:00,3,76ers,Raptors,49 - 53,0,N/A,N/A,N/A
+3,Kawhi Leonard,TURNOVER,Ben Simmons,11:39,3,Raptors,76ers,49 - 53,1,N/A,N/A,N/A
+4,JJ Redick,TURNOVER,Kawhi Leonard,11:35,3,76ers,Raptors,49 - 53,0,N/A,N/A,N/A
+5,JJ Redick,FOUL_ON_FLOOR,None,11:32,3,76ers,Raptors,49 - 53,0,N/A,N/A,N/A
+6,Serge Ibaka,FT,None,11:32,3,Raptors,76ers,49 - 54,1,N/A,1,N/A
+7,Serge Ibaka,FT,None,11:32,3,Raptors,76ers,49 - 55,1,N/A,1,N/A
+8,Joel Embiid,FG_UNASSISTED,None,11:16,3,76ers,Raptors,51 - 55,0,0,2,Layup
+9,Serge Ibaka,FG_MISS,None,11:05,3,Raptors,76ers,51 - 55,1,26,3,Jumper
+10,Joel Embiid,DEFENSIVE_REBOUND,None,11:02,3,76ers,Raptors,51 - 55,0,N/A,N/A,N/A
+11,JJ Redick,FG_ASSISTED,Joel Embiid,10:53,3,76ers,Raptors,54 - 55,0,26,3,Jumper
+12,Kawhi Leonard,FG_MISS,None,10:39,3,Raptors,76ers,54 - 55,1, ,2,Jumper
+13,Ben Simmons,DEFENSIVE_REBOUND,None,10:37,3,76ers,Raptors,54 - 55,0,N/A,N/A,N/A
+14,Ben Simmons,TURNOVER,Pascal Siakam,10:31,3,76ers,Raptors,54 - 55,0,N/A,N/A,N/A
+15,Danny Green,FG_MISS,None,10:25,3,Raptors,76ers,54 - 55,1, ,2,Jumper
+16,Pascal Siakam,OFFENSIVE_REBOUND,None,10:23,3,Raptors,76ers,54 - 55,1,N/A,N/A,N/A
+17,Serge Ibaka,FG_ASSISTED,Pascal Siakam,10:21,3,Raptors,76ers,54 - 57,1,7,2,Jumper
+18,Joel Embiid,FG_MISS,None,9:57,3,76ers,Raptors,54 - 57,0,13,2,Jumper
+19,Serge Ibaka,DEFENSIVE_REBOUND,None,9:56,3,Raptors,76ers,54 - 57,1,N/A,N/A,N/A
+20,Kawhi Leonard's,FG_MISS,Joel Embiid,9:47,3,76ers,Raptors,54 - 57,1,0,2,Layup
+21,Kawhi Leonard,OFFENSIVE_REBOUND,None,9:45,3,Raptors,76ers,54 - 57,1,N/A,N/A,N/A
+22,Kawhi Leonard,FG_UNASSISTED,None,9:44,3,Raptors,76ers,54 - 59,1, ,2,Jumper
+23,Jimmy Butler,FG_MISS,Kyle Lowry,9:34,3,Raptors,76ers,54 - 59,0,11,2,Jumper
+24,Jimmy Butler,OFFENSIVE_REBOUND,None,9:32,3,76ers,Raptors,54 - 59,0,N/A,N/A,N/A
+25,Jimmy Butler,FG_UNASSISTED,None,9:31,3,76ers,Raptors,56 - 59,0,11,2,Jumper
+26,Serge Ibaka,FG_ASSISTED,Danny Green,9:13,3,Raptors,76ers,56 - 61,1,0,2,Layup
+27,JJ Redick,FG_MISS,None,9:02,3,76ers,Raptors,56 - 61,0, ,3,Jumper
+28,Kyle Lowry,DEFENSIVE_REBOUND,None,9:00,3,Raptors,76ers,56 - 61,1,N/A,N/A,N/A
+29,Pascal Siakam,FG_ASSISTED,Kyle Lowry,8:55,3,Raptors,76ers,56 - 63,1,0,2,Layup
+30,Team,Unknown,None,8:55,3,76ers,Raptors,56 - 63,0,N/A,N/A,N/A
+31,Joel Embiid,FG_MISS,None,8:34,3,76ers,Raptors,56 - 63,0,17,2,Jumper
+32,Wilson Chandler,OFFENSIVE_REBOUND,None,8:33,3,76ers,Raptors,56 - 63,0,N/A,N/A,N/A
+33,JJ Redick,FG_ASSISTED,Ben Simmons,8:28,3,76ers,Raptors,58 - 63,0,19,2,Jumper
+34,Kyle Lowry,FG_MISS,None,8:00,3,Raptors,76ers,58 - 63,1,27,3,Jumper
+35,Ben Simmons,DEFENSIVE_REBOUND,None,7:57,3,76ers,Raptors,58 - 63,0,N/A,N/A,N/A
+36,Wilson Chandler,FG_MISS,None,7:49,3,76ers,Raptors,58 - 63,0,12,2,Jumper
+37,Wilson Chandler,OFFENSIVE_REBOUND,None,7:46,3,76ers,Raptors,58 - 63,0,N/A,N/A,N/A
+38,Wilson Chandler,FG_MISS,None,7:46,3,76ers,Raptors,58 - 63,0, ,2,Jumper
+39,Wilson Chandler,OFFENSIVE_REBOUND,None,7:44,3,76ers,Raptors,58 - 63,0,N/A,N/A,N/A
+40,Joel Embiid,FG_MISS,None,7:43,3,76ers,Raptors,58 - 63,0,26,3,Jumper
+41,Kyle Lowry,DEFENSIVE_REBOUND,None,7:39,3,Raptors,76ers,58 - 63,1,N/A,N/A,N/A
+42,Danny Green,FG_ASSISTED,Pascal Siakam,7:26,3,Raptors,76ers,58 - 66,1,23,2,Jumper
+43,Jimmy Butler,FG_UNASSISTED,None,7:12,3,76ers,Raptors,61 - 66,0,26,3,Jumper
+44,Kawhi Leonard,FG_MISS,None,6:55,3,Raptors,76ers,61 - 66,1,11,2,Jumper
+45,Pascal Siakam,OFFENSIVE_REBOUND,None,6:50,3,Raptors,76ers,61 - 66,1,N/A,N/A,N/A
+46,Kyle Lowry,FG_ASSISTED,Serge Ibaka,6:47,3,Raptors,76ers,61 - 68,1,0,2,Layup
+47,Team,Unknown,None,6:47,3,76ers,Raptors,61 - 68,0,N/A,N/A,N/A
+48,Mike Muscala,SUBSTITUTION,Redick JJ,6:47,3,76ers,Raptors,61 - 68,0,N/A,N/A,N/A
+49,T.J. McConnell,SUBSTITUTION,Embiid Joel,6:47,3,76ers,Raptors,61 - 68,0,N/A,N/A,N/A
+50,Landry Shamet,SUBSTITUTION,Chandler Wilson,6:47,3,76ers,Raptors,61 - 68,0,N/A,N/A,N/A
+51,Pascal Siakam,FOUL_ON_FLOOR,None,6:40,3,Raptors,76ers,61 - 68,1,N/A,N/A,N/A
+52,Jimmy Butler,FG_UNASSISTED,None,6:30,3,76ers,Raptors,63 - 68,0,20,2,Jumper
+53,Serge Ibaka,FG_MISS,None,6:06,3,Raptors,76ers,63 - 68,1,19,2,Jumper
+54,Mike Muscala,DEFENSIVE_REBOUND,None,6:04,3,76ers,Raptors,63 - 68,0,N/A,N/A,N/A
+55,Jimmy Butler,FG_MISS,None,5:54,3,76ers,Raptors,63 - 68,0,26,3,Jumper
+56,Pascal Siakam,DEFENSIVE_REBOUND,None,5:51,3,Raptors,76ers,63 - 68,1,N/A,N/A,N/A
+57,Kawhi Leonard,FG_ASSISTED,Pascal Siakam,5:46,3,Raptors,76ers,63 - 71,1,25,2,Jumper
+58,Landry Shamet,FG_ASSISTED,Ben Simmons,5:32,3,76ers,Raptors,65 - 71,0,0,2,Layup
+59,Pascal Siakam,FG_MISS,None,5:16,3,Raptors,76ers,65 - 71,1,0,2,Layup
+60,Mike Muscala,DEFENSIVE_REBOUND,None,5:13,3,76ers,Raptors,65 - 71,0,N/A,N/A,N/A
+61,T.J. McConnell,FG_ASSISTED,Ben Simmons,5:10,3,76ers,Raptors,67 - 71,0, ,2,Jumper
+62,Kyle Lowry,TURNOVER,T.J. McConnell,4:56,3,Raptors,76ers,67 - 71,1,N/A,N/A,N/A
+63,Jimmy Butler,FG_MISS,None,4:51,3,76ers,Raptors,67 - 71,0, ,2,Jumper
+64,Serge Ibaka,DEFENSIVE_REBOUND,None,4:48,3,Raptors,76ers,67 - 71,1,N/A,N/A,N/A
+65,Kawhi Leonard,FG_MISS,None,4:36,3,Raptors,76ers,67 - 71,1, ,3,Jumper
+66,Mike Muscala,DEFENSIVE_REBOUND,None,4:31,3,76ers,Raptors,67 - 71,0,N/A,N/A,N/A
+67,Jimmy Butler,FG_ASSISTED,Ben Simmons,4:21,3,76ers,Raptors,69 - 71,0,3,2,Jumper
+68,Team,Unknown,None,4:21,3,Raptors,76ers,69 - 71,1,N/A,N/A,N/A
+69,Fred VanVleet,SUBSTITUTION,Lowry Kyle,4:21,3,Raptors,76ers,69 - 71,1,N/A,N/A,N/A
+70,OG Anunoby,SUBSTITUTION,Siakam Pascal,4:21,3,Raptors,76ers,69 - 71,1,N/A,N/A,N/A
+71,Kawhi Leonard,FG_ASSISTED,Serge Ibaka,4:01,3,Raptors,76ers,69 - 73,1,0,2,Layup
+72,Jimmy Butler,FG_ASSISTED,Ben Simmons,3:46,3,76ers,Raptors,71 - 73,0,0,2,Layup
+73,Kawhi Leonard,FG_MISS,None,3:26,3,Raptors,76ers,71 - 73,1,14,2,Jumper
+74,Ben Simmons,DEFENSIVE_REBOUND,None,3:23,3,76ers,Raptors,71 - 73,0,N/A,N/A,N/A
+75,Serge Ibaka,FOUL_ON_FLOOR,None,3:14,3,Raptors,76ers,71 - 73,1,N/A,N/A,N/A
+76,Mike Muscala,FT,None,3:14,3,76ers,Raptors,72 - 73,0,N/A,1,N/A
+77,Mike Muscala,FT,None,3:14,3,76ers,Raptors,73 - 73,0,N/A,1,N/A
+78,Mike Muscala,FT,None,3:14,3,76ers,Raptors,74 - 73,0,N/A,1,N/A
+79,Fred VanVleet,FG_MISS,None,3:00,3,Raptors,76ers,74 - 73,1,25,3,Jumper
+80,T.J. McConnell,DEFENSIVE_REBOUND,None,2:57,3,76ers,Raptors,74 - 73,0,N/A,N/A,N/A
+81,Jimmy Butler,FG_MISS,None,2:48,3,76ers,Raptors,74 - 73,0,21,2,Jumper
+82,Kawhi Leonard,DEFENSIVE_REBOUND,None,2:44,3,Raptors,76ers,74 - 73,1,N/A,N/A,N/A
+83,T.J. McConnell,FOUL_ON_FLOOR,None,2:30,3,76ers,Raptors,74 - 73,0,N/A,N/A,N/A
+84,Jonas Valanciunas,SUBSTITUTION,Ibaka Serge,2:30,3,Raptors,76ers,74 - 73,1,N/A,N/A,N/A
+85,JJ Redick,SUBSTITUTION,Shamet Landry,2:30,3,76ers,Raptors,74 - 73,0,N/A,N/A,N/A
+86,Kawhi Leonard,FG_MISS,None,2:22,3,Raptors,76ers,74 - 73,1,20,2,Jumper
+87,JJ Redick,DEFENSIVE_REBOUND,None,2:19,3,76ers,Raptors,74 - 73,0,N/A,N/A,N/A
+88,Jimmy Butler,FG_MISS,None,2:11,3,76ers,Raptors,74 - 73,0,24,3,Jumper
+89,Jonas Valanciunas,DEFENSIVE_REBOUND,None,2:09,3,Raptors,76ers,74 - 73,1,N/A,N/A,N/A
+90,Kawhi Leonard,FG_ASSISTED,OG Anunoby,2:02,3,Raptors,76ers,74 - 76,1,26,3,Jumper
+91,Jimmy Butler,FOUL_TECHNICAL,None,1:59,3,76ers,Raptors,74 - 76,0,N/A,N/A,N/A
+92,Kawhi Leonard,FT,None,1:59,3,Raptors,76ers,74 - 77,1,N/A,1,N/A
+93,Delon Wright,SUBSTITUTION,Green Danny,1:59,3,Raptors,76ers,74 - 77,1,N/A,N/A,N/A
+94,Joel Embiid,SUBSTITUTION,Muscala Mike,1:59,3,76ers,Raptors,74 - 77,0,N/A,N/A,N/A
+95,Jimmy Butler,FG_MISS,None,1:44,3,76ers,Raptors,74 - 77,0,0,2,Layup
+96,Jonas Valanciunas,DEFENSIVE_REBOUND,None,1:42,3,Raptors,76ers,74 - 77,1,N/A,N/A,N/A
+97,Fred VanVleet,FG_MISS,None,1:21,3,Raptors,76ers,74 - 77,1, ,2,Jumper
+98,Joel Embiid,DEFENSIVE_REBOUND,None,1:19,3,76ers,Raptors,74 - 77,0,N/A,N/A,N/A
+99,Joel Embiid,FG_MISS,None,1:10,3,76ers,Raptors,74 - 77,0, ,2,Jumper
+100,Jonas Valanciunas,DEFENSIVE_REBOUND,None,1:09,3,Raptors,76ers,74 - 77,1,N/A,N/A,N/A
+101,Fred VanVleet,FG_MISS,Jimmy Butler,1:04,3,76ers,Raptors,74 - 77,1,2,2,Jumper
+102,Jimmy Butler,DEFENSIVE_REBOUND,None,1:01,3,76ers,Raptors,74 - 77,0,N/A,N/A,N/A
+103,Jimmy Butler,FG_MISS,None,57.9,3,76ers,Raptors,74 - 77,0,25,3,Jumper
+104,Kawhi Leonard,DEFENSIVE_REBOUND,None,54.8,3,Raptors,76ers,74 - 77,1,N/A,N/A,N/A
+105,JJ Redick,FOUL_ON_FLOOR,None,49.6,3,76ers,Raptors,74 - 77,0,N/A,N/A,N/A
+106,Kawhi Leonard,FT,None,49.6,3,Raptors,76ers,74 - 78,1,N/A,1,N/A
+107,Kawhi Leonard,FT_MISS,None,49.6,3,Raptors,76ers,74 - 78,1,N/A,1,N/A
+108,Joel Embiid,DEFENSIVE_REBOUND,None,48.0,3,76ers,Raptors,74 - 78,0,N/A,N/A,N/A
+109,Jimmy Butler,TURNOVER,Kawhi Leonard,29.8,3,76ers,Raptors,74 - 78,0,N/A,N/A,N/A
+110,Kawhi Leonard,TURNOVER,T.J. McConnell,25.7,3,Raptors,76ers,74 - 78,1,N/A,N/A,N/A
+111,JJ Redick,FG_ASSISTED,Joel Embiid,5.5,3,76ers,Raptors,77 - 78,0,27,3,Jumper
+112,Kawhi Leonard,FG_MISS,None,0.0,3,Raptors,76ers,77 - 78,1,18,2,Jumper
+113,Team,OFFENSIVE_REBOUND,None,0.0,3,Raptors,76ers,77 - 78,1,N/A,N/A,N/A
+114,End of,Unknown,None,0.0,3,Raptors,76ers,77 - 78,1,N/A,N/A,N/A
+0,Pascal Siakam,SUBSTITUTION,Leonard Kawhi,12:00,4,Raptors,76ers,77 - 78,1,N/A,N/A,N/A
+1,Landry Shamet,SUBSTITUTION,Butler Jimmy,12:00,4,76ers,Raptors,77 - 78,0,N/A,N/A,N/A
+2,Wilson Chandler,SUBSTITUTION,Simmons Ben,12:00,4,76ers,Raptors,77 - 78,0,N/A,N/A,N/A
+3,Joel Embiid,FG_UNASSISTED,None,11:39,4,76ers,Raptors,79 - 78,0,0,2,Dunk
+4,Jonas Valanciunas,FG_UNASSISTED,None,11:18,4,Raptors,76ers,79 - 80,1,4,2,Jumper
+5,Joel Embiid,FOUL_ON_FLOOR,None,11:18,4,76ers,Raptors,79 - 80,0,N/A,N/A,N/A
+6,Jonas Valanciunas,FT,None,11:18,4,Raptors,76ers,79 - 81,1,N/A,1,N/A
+7,T.J. McConnell,FG_UNASSISTED,None,11:05,4,76ers,Raptors,81 - 81,0,2,2,Jumper
+8,Jonas Valanciunas,FG_MISS,Joel Embiid,10:54,4,76ers,Raptors,81 - 81,1,2,2,Jumper
+9,Team,OFFENSIVE_REBOUND,None,10:54,4,Raptors,76ers,81 - 81,1,N/A,N/A,N/A
+10,CJ Miles,SUBSTITUTION,Anunoby OG,10:54,4,Raptors,76ers,81 - 81,1,N/A,N/A,N/A
+11,Fred VanVleet,FG_ASSISTED,Delon Wright,10:45,4,Raptors,76ers,81 - 84,1,28,3,Jumper
+12,JJ Redick,FG_MISS,None,10:31,4,76ers,Raptors,81 - 84,0,27,2,Jumper
+13,Fred VanVleet,DEFENSIVE_REBOUND,None,10:29,4,Raptors,76ers,81 - 84,1,N/A,N/A,N/A
+14,Pascal Siakam,FG_MISS,JJ Redick,10:26,4,76ers,Raptors,81 - 84,1,0,2,Layup
+15,JJ Redick,JUMP_BALL,None,10:22,4,Raptors,76ers,81 - 84,1,N/A,N/A,N/A
+16,Team,OFFENSIVE_REBOUND,None,10:22,4,Raptors,76ers,81 - 84,1,N/A,N/A,N/A
+17,JJ Redick,FOUL_ON_FLOOR,None,10:17,4,76ers,Raptors,81 - 84,0,N/A,N/A,N/A
+18,Delon Wright,FG_MISS,None,10:08,4,Raptors,76ers,81 - 84,1,0,2,Layup
+19,Jonas Valanciunas,OFFENSIVE_REBOUND,None,10:01,4,Raptors,76ers,81 - 84,1,N/A,N/A,N/A
+20,Jonas Valanciunas,FG_UNASSISTED,None,9:59,4,Raptors,76ers,81 - 86,1, ,2,Jumper
+21,Joel Embiid,TURNOVER,None,9:49,4,76ers,Raptors,81 - 86,0,N/A,N/A,N/A
+22,Wilson Chandler,FOUL_ON_FLOOR,None,9:40,4,76ers,Raptors,81 - 86,0,N/A,N/A,N/A
+23,Pascal Siakam,FG_UNASSISTED,None,9:31,4,Raptors,76ers,81 - 88,1,3,2,Jumper
+24,T.J. McConnell,FG_MISS,None,9:19,4,76ers,Raptors,81 - 88,0,14,2,Jumper
+25,CJ Miles,DEFENSIVE_REBOUND,None,9:16,4,Raptors,76ers,81 - 88,1,N/A,N/A,N/A
+26,Jonas Valanciunas,FG_ASSISTED,Pascal Siakam,9:07,4,Raptors,76ers,81 - 90,1,7,2,Jumper
+27,Team,Unknown,None,9:06,4,76ers,Raptors,81 - 90,0,N/A,N/A,N/A
+28,Jimmy Butler,SUBSTITUTION,Shamet Landry,9:06,4,76ers,Raptors,81 - 90,0,N/A,N/A,N/A
+29,Ben Simmons,SUBSTITUTION,McConnell T.J.,9:06,4,76ers,Raptors,81 - 90,0,N/A,N/A,N/A
+30,JJ Redick,FG_MISS,None,8:51,4,76ers,Raptors,81 - 90,0,27,3,Jumper
+31,Jonas Valanciunas,DEFENSIVE_REBOUND,None,8:49,4,Raptors,76ers,81 - 90,1,N/A,N/A,N/A
+32,CJ Miles,FG_MISS,None,8:45,4,Raptors,76ers,81 - 90,1,26,3,Jumper
+33,Joel Embiid,DEFENSIVE_REBOUND,None,8:41,4,76ers,Raptors,81 - 90,0,N/A,N/A,N/A
+34,Ben Simmons,FG_MISS,None,8:34,4,76ers,Raptors,81 - 90,0, ,2,Jumper
+35,Jimmy Butler,OFFENSIVE_REBOUND,None,8:30,4,76ers,Raptors,81 - 90,0,N/A,N/A,N/A
+36,Jimmy Butler,FG_UNASSISTED,None,8:30,4,76ers,Raptors,83 - 90,0, ,2,Jumper
+37,Delon Wright,FG_UNASSISTED,None,8:05,4,Raptors,76ers,83 - 92,1, ,2,Jumper
+38,Wilson Chandler,FG_MISS,None,8:00,4,76ers,Raptors,83 - 92,0,26,3,Jumper
+39,Jonas Valanciunas,DEFENSIVE_REBOUND,None,7:58,4,Raptors,76ers,83 - 92,1,N/A,N/A,N/A
+40,Jonas Valanciunas,FG_ASSISTED,CJ Miles,7:51,4,Raptors,76ers,83 - 94,1,0,2,Dunk
+41,Ben Simmons,FG_UNASSISTED,None,7:34,4,76ers,Raptors,85 - 94,0, ,2,Jumper
+42,Fred VanVleet,FG_ASSISTED,Jonas Valanciunas,7:10,4,Raptors,76ers,85 - 96,1,18,2,Jumper
+43,Joel Embiid,FG_MISS,None,6:58,4,76ers,Raptors,85 - 96,0,26,3,Jumper
+44,Jonas Valanciunas,DEFENSIVE_REBOUND,None,6:55,4,Raptors,76ers,85 - 96,1,N/A,N/A,N/A
+45,Jonas Valanciunas,FG_MISS,None,6:48,4,Raptors,76ers,85 - 96,1,25,3,Jumper
+46,Joel Embiid,DEFENSIVE_REBOUND,None,6:45,4,76ers,Raptors,85 - 96,0,N/A,N/A,N/A
+47,JJ Redick,FG_ASSISTED,Ben Simmons,6:33,4,76ers,Raptors,88 - 96,0,24,3,Jumper
+48,Delon Wright,FG_MISS,None,6:05,4,Raptors,76ers,88 - 96,1,25,3,Jumper
+49,Ben Simmons,DEFENSIVE_REBOUND,None,6:02,4,76ers,Raptors,88 - 96,0,N/A,N/A,N/A
+50,Ben Simmons,TURNOVER,None,6:01,4,76ers,Raptors,88 - 96,0,N/A,N/A,N/A
+51,Kawhi Leonard,SUBSTITUTION,Miles CJ,6:01,4,Raptors,76ers,88 - 96,1,N/A,N/A,N/A
+52,Kyle Lowry,SUBSTITUTION,VanVleet Fred,6:01,4,Raptors,76ers,88 - 96,1,N/A,N/A,N/A
+53,Team,Unknown,None,6:01,4,Raptors,76ers,88 - 96,1,N/A,N/A,N/A
+54,Danny Green,SUBSTITUTION,Wright Delon,6:01,4,Raptors,76ers,88 - 96,1,N/A,N/A,N/A
+55,Jonas Valanciunas,FG_MISS,None,5:41,4,Raptors,76ers,88 - 96,1, ,2,Jumper
+56,Ben Simmons,DEFENSIVE_REBOUND,None,5:39,4,76ers,Raptors,88 - 96,0,N/A,N/A,N/A
+57,Ben Simmons,TURNOVER,Kawhi Leonard,5:25,4,76ers,Raptors,88 - 96,0,N/A,N/A,N/A
+58,Pascal Siakam,FG_UNASSISTED,None,5:23,4,Raptors,76ers,88 - 98,1,0,2,Dunk
+59,Joel Embiid,TURNOVER,None,4:59,4,76ers,Raptors,88 - 98,0,N/A,N/A,N/A
+60,Joel Embiid,TURNOVER,None,4:59,4,76ers,Raptors,88 - 98,0,N/A,N/A,N/A
+61,Mike Muscala,SUBSTITUTION,Chandler Wilson,4:59,4,76ers,Raptors,88 - 98,0,N/A,N/A,N/A
+62,Ben Simmons,FOUL_ON_FLOOR,None,4:49,4,76ers,Raptors,88 - 98,0,N/A,N/A,N/A
+63,Joel Embiid,FOUL_ON_FLOOR,None,4:37,4,76ers,Raptors,88 - 98,0,N/A,N/A,N/A
+64,Joel Embiid,FOUL_TECHNICAL,None,4:37,4,76ers,Raptors,88 - 98,0,N/A,N/A,N/A
+65,Kawhi Leonard,FT,None,4:37,4,Raptors,76ers,88 - 99,1,N/A,1,N/A
+66,Jonas Valanciunas,FT,None,4:37,4,Raptors,76ers,88 - 100,1,N/A,1,N/A
+67,Jonas Valanciunas,FT,None,4:37,4,Raptors,76ers,88 - 101,1,N/A,1,N/A
+68,Mike Muscala,FG_MISS,None,4:17,4,76ers,Raptors,88 - 101,0,27,3,Jumper
+69,Joel Embiid,OFFENSIVE_REBOUND,None,4:14,4,76ers,Raptors,88 - 101,0,N/A,N/A,N/A
+70,JJ Redick,FG_MISS,None,4:06,4,76ers,Raptors,88 - 101,0,24,3,Jumper
+71,Kawhi Leonard,DEFENSIVE_REBOUND,None,4:03,4,Raptors,76ers,88 - 101,1,N/A,N/A,N/A
+72,Kawhi Leonard,FG_UNASSISTED,None,4:00,4,Raptors,76ers,88 - 103,1,0,2,Dunk
+73,Team,Unknown,None,3:59,4,76ers,Raptors,88 - 103,0,N/A,N/A,N/A
+74,Jimmy Butler,FG_UNASSISTED,None,3:47,4,76ers,Raptors,90 - 103,0,1,2,Jumper
+75,Danny Green,FG_MISS,None,3:20,4,Raptors,76ers,90 - 103,1,1,2,Jumper
+76,Pascal Siakam,OFFENSIVE_REBOUND,None,3:18,4,Raptors,76ers,90 - 103,1,N/A,N/A,N/A
+77,JJ Redick,FOUL_ON_FLOOR,None,3:14,4,76ers,Raptors,90 - 103,0,N/A,N/A,N/A
+78,Jonas Valanciunas,FT,None,3:14,4,Raptors,76ers,90 - 104,1,N/A,1,N/A
+79,Jonas Valanciunas,FT,None,3:14,4,Raptors,76ers,90 - 105,1,N/A,1,N/A
+80,Jimmy Butler,FG_ASSISTED,JJ Redick,3:04,4,76ers,Raptors,92 - 105,0,0,2,Layup
+81,Jonas Valanciunas,FG_MISS,None,2:41,4,Raptors,76ers,92 - 105,1,10,2,Jumper
+82,Mike Muscala,DEFENSIVE_REBOUND,None,2:38,4,76ers,Raptors,92 - 105,0,N/A,N/A,N/A
+83,Danny Green,FOUL_ON_FLOOR,None,2:38,4,Raptors,76ers,92 - 105,1,N/A,N/A,N/A
+84,Joel Embiid,FG_MISS,None,2:24,4,76ers,Raptors,92 - 105,0,28,3,Jumper
+85,Pascal Siakam,DEFENSIVE_REBOUND,None,2:20,4,Raptors,76ers,92 - 105,1,N/A,N/A,N/A
+86,Danny Green,TURNOVER,Jimmy Butler,2:13,4,Raptors,76ers,92 - 105,1,N/A,N/A,N/A
+87,Jimmy Butler,FG_ASSISTED,JJ Redick,2:05,4,76ers,Raptors,95 - 105,0,26,3,Jumper
+88,Kyle Lowry,FG_UNASSISTED,None,1:36,4,Raptors,76ers,95 - 108,1,30,3,Jumper
+89,Team,Unknown,None,1:36,4,76ers,Raptors,95 - 108,0,N/A,N/A,N/A
+90,Landry Shamet,SUBSTITUTION,Muscala Mike,1:36,4,76ers,Raptors,95 - 108,0,N/A,N/A,N/A
+91,Jimmy Butler,FG_UNASSISTED,None,1:20,4,76ers,Raptors,97 - 108,0,12,2,Jumper
+92,Team,Unknown,None,1:14,4,Raptors,76ers,97 - 108,1,N/A,N/A,N/A
+93,Jonas Valanciunas,FG_ASSISTED,Pascal Siakam,1:10,4,Raptors,76ers,97 - 110,1,0,2,Dunk
+94,Landry Shamet,FG_MISS,None,1:04,4,76ers,Raptors,97 - 110,0,25,3,Jumper
+95,Ben Simmons,OFFENSIVE_REBOUND,None,1:00,4,76ers,Raptors,97 - 110,0,N/A,N/A,N/A
+96,JJ Redick,FG_ASSISTED,Ben Simmons,1:00,4,76ers,Raptors,100 - 110,0,27,3,Jumper
+97,Jimmy Butler,FOUL_ON_FLOOR,None,53.2,4,76ers,Raptors,100 - 110,0,N/A,N/A,N/A
+98,Jonas Valanciunas,FT,None,53.2,4,Raptors,76ers,100 - 111,1,N/A,1,N/A
+99,Mike Muscala,SUBSTITUTION,Redick JJ,53.2,4,76ers,Raptors,100 - 111,0,N/A,N/A,N/A
+100,Furkan Korkmaz,SUBSTITUTION,Embiid Joel,53.2,4,76ers,Raptors,100 - 111,0,N/A,N/A,N/A
+101,Wilson Chandler,SUBSTITUTION,Butler Jimmy,53.2,4,76ers,Raptors,100 - 111,0,N/A,N/A,N/A
+102,T.J. McConnell,SUBSTITUTION,Simmons Ben,53.2,4,76ers,Raptors,100 - 111,0,N/A,N/A,N/A
+103,Lorenzo Brown,SUBSTITUTION,Leonard Kawhi,53.2,4,Raptors,76ers,100 - 111,1,N/A,N/A,N/A
+104,Fred VanVleet,SUBSTITUTION,Lowry Kyle,53.2,4,Raptors,76ers,100 - 111,1,N/A,N/A,N/A
+105,Jonas Valanciunas,FT_MISS,None,53.2,4,Raptors,76ers,100 - 111,1,N/A,1,N/A
+106,Mike Muscala,DEFENSIVE_REBOUND,None,51.8,4,76ers,Raptors,100 - 111,0,N/A,N/A,N/A
+107,Landry Shamet,FG_MISS,None,44.7,4,76ers,Raptors,100 - 111,0,28,3,Jumper
+108,Danny Green,DEFENSIVE_REBOUND,None,40.9,4,Raptors,76ers,100 - 111,1,N/A,N/A,N/A
+109,Jonas Valanciunas,FG_ASSISTED,Danny Green,30.6,4,Raptors,76ers,100 - 113,1,0,2,Layup
+110,Lorenzo Brown,FOUL_ON_FLOOR,None,19.1,4,Raptors,76ers,100 - 113,1,N/A,N/A,N/A
+111,T.J. McConnell,FG_UNASSISTED,None,8.4,4,76ers,Raptors,102 - 113,0,13,2,Jumper
+112,End of,Unknown,None,0.0,4,Raptors,76ers,102 - 113,1,N/A,N/A,N/A
+113,End of,Unknown,None,0.0,4,Raptors,76ers,102 - 113,1,N/A,N/A,N/A

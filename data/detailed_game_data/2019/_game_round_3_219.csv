@@ -1,0 +1,444 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Jusuf Nurkic,JUMP_BALL,None,12:00,1,Trail Blazers,Celtics,0 - 0,0,N/A,N/A,N/A
+1,Damian Lillard,FG_MISS,None,11:38,1,Trail Blazers,Celtics,0 - 0,0,15,2,Jumper
+2,Marcus Smart,DEFENSIVE_REBOUND,None,11:36,1,Celtics,Trail Blazers,0 - 0,1,N/A,N/A,N/A
+3,Kyrie Irving,FG_UNASSISTED,None,11:29,1,Celtics,Trail Blazers,0 - 2,1,12,2,Jumper
+4,Damian Lillard,FG_UNASSISTED,None,11:17,1,Trail Blazers,Celtics,3 - 2,0,28,3,Jumper
+5,Kyrie Irving,FG_UNASSISTED,None,10:55,1,Celtics,Trail Blazers,3 - 4,1,4,2,Jumper
+6,CJ McCollum,FG_MISS,None,10:40,1,Trail Blazers,Celtics,3 - 4,0,18,2,Jumper
+7,Al-Farouq Aminu,OFFENSIVE_REBOUND,None,10:38,1,Trail Blazers,Celtics,3 - 4,0,N/A,N/A,N/A
+8,CJ McCollum,FG_MISS,None,10:36,1,Trail Blazers,Celtics,3 - 4,0,26,3,Jumper
+9,Marcus Morris,DEFENSIVE_REBOUND,None,10:34,1,Celtics,Trail Blazers,3 - 4,1,N/A,N/A,N/A
+10,Marcus Morris,TURNOVER,Al-Farouq Aminu,10:22,1,Celtics,Trail Blazers,3 - 4,1,N/A,N/A,N/A
+11,CJ McCollum,FG_UNASSISTED,None,10:10,1,Trail Blazers,Celtics,5 - 4,0,18,2,Jumper
+12,Jayson Tatum,FG_MISS,None,9:51,1,Celtics,Trail Blazers,5 - 4,1,17,2,Jumper
+13,Jusuf Nurkic,DEFENSIVE_REBOUND,None,9:49,1,Trail Blazers,Celtics,5 - 4,0,N/A,N/A,N/A
+14,Jusuf Nurkic,FG_MISS,None,9:35,1,Trail Blazers,Celtics,5 - 4,0,8,2,Jumper
+15,Al Horford,DEFENSIVE_REBOUND,None,9:33,1,Celtics,Trail Blazers,5 - 4,1,N/A,N/A,N/A
+16,Al Horford,TURNOVER,Maurice Harkless,9:27,1,Celtics,Trail Blazers,5 - 4,1,N/A,N/A,N/A
+17,Maurice Harkless,FG_UNASSISTED,None,9:23,1,Trail Blazers,Celtics,7 - 4,0,0,2,Dunk
+18,Kyrie Irving,FG_MISS,None,9:02,1,Celtics,Trail Blazers,7 - 4,1,-,2,Jumper
+19,Jusuf Nurkic,DEFENSIVE_REBOUND,None,9:00,1,Trail Blazers,Celtics,7 - 4,0,N/A,N/A,N/A
+20,Marcus Smart,FOUL_ON_FLOOR,None,8:53,1,Celtics,Trail Blazers,7 - 4,1,N/A,N/A,N/A
+21,Jusuf Nurkic,FG_MISS,Kyrie Irving,8:43,1,Celtics,Trail Blazers,7 - 4,0,0,2,Layup
+22,Jayson Tatum,DEFENSIVE_REBOUND,None,8:40,1,Celtics,Trail Blazers,7 - 4,1,N/A,N/A,N/A
+23,Jayson Tatum,FG_ASSISTED,Marcus Smart,8:28,1,Celtics,Trail Blazers,7 - 6,1,0,2,Layup
+24,Al-Farouq Aminu,FG_MISS,None,8:11,1,Trail Blazers,Celtics,7 - 6,0,8,2,Jumper
+25,Kyrie Irving,DEFENSIVE_REBOUND,None,8:09,1,Celtics,Trail Blazers,7 - 6,1,N/A,N/A,N/A
+26,Marcus Morris,FG_MISS,None,8:04,1,Celtics,Trail Blazers,7 - 6,1,26,3,Jumper
+27,Al-Farouq Aminu,DEFENSIVE_REBOUND,None,8:02,1,Trail Blazers,Celtics,7 - 6,0,N/A,N/A,N/A
+28,Damian Lillard,FG_UNASSISTED,None,7:53,1,Trail Blazers,Celtics,9 - 6,0,2,2,Jumper
+29,Jayson Tatum,TURNOVER,Maurice Harkless,7:34,1,Celtics,Trail Blazers,9 - 6,1,N/A,N/A,N/A
+30,Marcus Smart,FOUL_ON_FLOOR,None,7:30,1,Celtics,Trail Blazers,9 - 6,1,N/A,N/A,N/A
+31,Al-Farouq Aminu,FT_MISS,None,7:30,1,Trail Blazers,Celtics,9 - 6,0,N/A,1,N/A
+32,Team,OFFENSIVE_REBOUND,None,7:30,1,Trail Blazers,Celtics,9 - 6,0,N/A,N/A,N/A
+33,Al-Farouq Aminu,FT,None,7:30,1,Trail Blazers,Celtics,10 - 6,0,N/A,1,N/A
+34,Al Horford,FG_MISS,None,7:10,1,Celtics,Trail Blazers,10 - 6,1,6,2,Jumper
+35,Marcus Morris,OFFENSIVE_REBOUND,None,7:09,1,Celtics,Trail Blazers,10 - 6,1,N/A,N/A,N/A
+36,Marcus Morris,FG_MISS,None,7:09,1,Celtics,Trail Blazers,10 - 6,1,-,2,Jumper
+37,Al-Farouq Aminu,DEFENSIVE_REBOUND,None,7:07,1,Trail Blazers,Celtics,10 - 6,0,N/A,N/A,N/A
+38,CJ McCollum,TURNOVER,None,7:01,1,Trail Blazers,Celtics,10 - 6,0,N/A,N/A,N/A
+39,Team,Unknown,None,7:01,1,Celtics,Trail Blazers,10 - 6,1,N/A,N/A,N/A
+40,Kyrie Irving,FG_MISS,None,6:40,1,Celtics,Trail Blazers,10 - 6,1,-,2,Jumper
+41,Damian Lillard,DEFENSIVE_REBOUND,None,6:38,1,Trail Blazers,Celtics,10 - 6,0,N/A,N/A,N/A
+42,Maurice Harkless,FG_MISS,None,6:27,1,Trail Blazers,Celtics,10 - 6,0,23,3,Jumper
+43,Team,DEFENSIVE_REBOUND,None,6:25,1,Celtics,Trail Blazers,10 - 6,1,N/A,N/A,N/A
+44,Jusuf Nurkic,FOUL_ON_FLOOR,None,6:25,1,Trail Blazers,Celtics,10 - 6,0,N/A,N/A,N/A
+45,Al Horford,FG_MISS,None,6:16,1,Celtics,Trail Blazers,10 - 6,1,27,3,Jumper
+46,Jusuf Nurkic,DEFENSIVE_REBOUND,None,6:14,1,Trail Blazers,Celtics,10 - 6,0,N/A,N/A,N/A
+47,Al Horford,FOUL_ON_FLOOR,None,6:00,1,Celtics,Trail Blazers,10 - 6,1,N/A,N/A,N/A
+48,Jusuf Nurkic,FT,None,6:00,1,Trail Blazers,Celtics,11 - 6,0,N/A,1,N/A
+49,Jaylen Brown,SUBSTITUTION,Tatum Jayson,6:00,1,Celtics,Trail Blazers,11 - 6,1,N/A,N/A,N/A
+50,Gordon Hayward,SUBSTITUTION,Smart Marcus,6:00,1,Celtics,Trail Blazers,11 - 6,1,N/A,N/A,N/A
+51,Jusuf Nurkic,FT,None,6:00,1,Trail Blazers,Celtics,12 - 6,0,N/A,1,N/A
+52,Kyrie Irving,FG_MISS,None,5:50,1,Celtics,Trail Blazers,12 - 6,1,18,2,Jumper
+53,Jusuf Nurkic,DEFENSIVE_REBOUND,None,5:48,1,Trail Blazers,Celtics,12 - 6,0,N/A,N/A,N/A
+54,CJ McCollum,FG_UNASSISTED,None,5:35,1,Trail Blazers,Celtics,15 - 6,0,25,3,Jumper
+55,Kyrie Irving,FG_UNASSISTED,None,5:19,1,Celtics,Trail Blazers,15 - 8,1,-,2,Jumper
+56,Maurice Harkless,FG_MISS,None,4:59,1,Trail Blazers,Celtics,15 - 8,0,0,2,Layup
+57,Damian Lillard,OFFENSIVE_REBOUND,None,4:56,1,Trail Blazers,Celtics,15 - 8,0,N/A,N/A,N/A
+58,Damian Lillard,FG_MISS,None,4:46,1,Trail Blazers,Celtics,15 - 8,0,-,2,Jumper
+59,Gordon Hayward,DEFENSIVE_REBOUND,None,4:44,1,Celtics,Trail Blazers,15 - 8,1,N/A,N/A,N/A
+60,Marcus Morris,FG_MISS,None,4:37,1,Celtics,Trail Blazers,15 - 8,1,25,2,Jumper
+61,Al-Farouq Aminu,DEFENSIVE_REBOUND,None,4:35,1,Trail Blazers,Celtics,15 - 8,0,N/A,N/A,N/A
+62,CJ McCollum,FG_ASSISTED,Jusuf Nurkic,4:25,1,Trail Blazers,Celtics,17 - 8,0,0,2,Layup
+63,Gordon Hayward,FG_ASSISTED,Kyrie Irving,4:12,1,Celtics,Trail Blazers,17 - 10,1,19,2,Jumper
+64,CJ McCollum,FG_MISS,None,3:49,1,Trail Blazers,Celtics,17 - 10,0,28,3,Jumper
+65,Marcus Morris,DEFENSIVE_REBOUND,None,3:47,1,Celtics,Trail Blazers,17 - 10,1,N/A,N/A,N/A
+66,Al Horford,FG_ASSISTED,Gordon Hayward,3:33,1,Celtics,Trail Blazers,17 - 12,1,8,2,Jumper
+67,Team,Unknown,None,3:33,1,Trail Blazers,Celtics,17 - 12,0,N/A,N/A,N/A
+68,Enes Kanter,SUBSTITUTION,Harkless Maurice,3:33,1,Trail Blazers,Celtics,17 - 12,0,N/A,N/A,N/A
+69,Rodney Hood,SUBSTITUTION,Aminu Al-Farouq,3:33,1,Trail Blazers,Celtics,17 - 12,0,N/A,N/A,N/A
+70,Jake Layman,SUBSTITUTION,Nurkic Jusuf,3:33,1,Trail Blazers,Celtics,17 - 12,0,N/A,N/A,N/A
+71,Marcus Morris,FOUL_ON_FLOOR,None,3:14,1,Celtics,Trail Blazers,17 - 12,1,N/A,N/A,N/A
+72,Enes Kanter,FT_MISS,None,3:14,1,Trail Blazers,Celtics,17 - 12,0,N/A,1,N/A
+73,Team,OFFENSIVE_REBOUND,None,3:14,1,Trail Blazers,Celtics,17 - 12,0,N/A,N/A,N/A
+74,Enes Kanter,FT,None,3:14,1,Trail Blazers,Celtics,18 - 12,0,N/A,1,N/A
+75,Kyrie Irving,FG_MISS,None,2:55,1,Celtics,Trail Blazers,18 - 12,1, ,2,Jumper
+76,Enes Kanter,DEFENSIVE_REBOUND,None,2:53,1,Trail Blazers,Celtics,18 - 12,0,N/A,N/A,N/A
+77,Marcus Morris,FOUL_ON_FLOOR,None,2:44,1,Celtics,Trail Blazers,18 - 12,1,N/A,N/A,N/A
+78,CJ McCollum,FT,None,2:44,1,Trail Blazers,Celtics,19 - 12,0,N/A,1,N/A
+79,Jayson Tatum,SUBSTITUTION,Morris Marcus,2:44,1,Celtics,Trail Blazers,19 - 12,1,N/A,N/A,N/A
+80,CJ McCollum,FT_MISS,None,2:44,1,Trail Blazers,Celtics,19 - 12,0,N/A,1,N/A
+81,Damian Lillard,OFFENSIVE_REBOUND,None,2:42,1,Trail Blazers,Celtics,19 - 12,0,N/A,N/A,N/A
+82,Enes Kanter,TURNOVER,None,2:32,1,Trail Blazers,Celtics,19 - 12,0,N/A,N/A,N/A
+83,Seth Curry,SUBSTITUTION,McCollum CJ,2:32,1,Trail Blazers,Celtics,19 - 12,0,N/A,N/A,N/A
+84,Al Horford,FG_ASSISTED,Kyrie Irving,2:17,1,Celtics,Trail Blazers,19 - 14,1, ,2,Jumper
+85,Damian Lillard,FG_UNASSISTED,None,2:03,1,Trail Blazers,Celtics,21 - 14,0,17,2,Jumper
+86,Kyrie Irving,FG_UNASSISTED,None,1:51,1,Celtics,Trail Blazers,21 - 16,1,20,2,Jumper
+87,Damian Lillard,TURNOVER,Jayson Tatum,1:44,1,Trail Blazers,Celtics,21 - 16,0,N/A,N/A,N/A
+88,Jayson Tatum,FG_UNASSISTED,None,1:41,1,Celtics,Trail Blazers,21 - 18,1, ,2,Jumper
+89,Damian Lillard,FG_UNASSISTED,None,1:25,1,Trail Blazers,Celtics,24 - 18,0,27,3,Jumper
+90,Kyrie Irving,TURNOVER,Enes Kanter,1:08,1,Celtics,Trail Blazers,24 - 18,1,N/A,N/A,N/A
+91,Jake Layman,FG_MISS,None,1:02,1,Trail Blazers,Celtics,24 - 18,0,25,2,Jumper
+92,Al Horford,DEFENSIVE_REBOUND,None,59.7,1,Celtics,Trail Blazers,24 - 18,1,N/A,N/A,N/A
+93,Al Horford,FG_ASSISTED,Jaylen Brown,53.6,1,Celtics,Trail Blazers,24 - 21,1,26,3,Jumper
+94,Damian Lillard,FG_MISS,None,32.5,1,Trail Blazers,Celtics,24 - 21,0,25,3,Jumper
+95,Jaylen Brown,DEFENSIVE_REBOUND,None,30.6,1,Celtics,Trail Blazers,24 - 21,1,N/A,N/A,N/A
+96,Daniel Theis,SUBSTITUTION,Horford Al,20.1,1,Celtics,Trail Blazers,24 - 21,1,N/A,N/A,N/A
+97,Seth Curry,JUMP_BALL,None,17.7,1,Celtics,Trail Blazers,24 - 21,1,N/A,N/A,N/A
+98,Kyrie Irving,FG_ASSISTED,Gordon Hayward,14.6,1,Celtics,Trail Blazers,24 - 24,1,25,3,Jumper
+99,Jayson Tatum,FOUL_ON_FLOOR,None,0.6,1,Celtics,Trail Blazers,24 - 24,1,N/A,N/A,N/A
+100,Enes Kanter,FT_MISS,None,0.6,1,Trail Blazers,Celtics,24 - 24,0,N/A,1,N/A
+101,Team,OFFENSIVE_REBOUND,None,0.6,1,Trail Blazers,Celtics,24 - 24,0,N/A,N/A,N/A
+102,Marcus Morris,SUBSTITUTION,Tatum Jayson,0.6,1,Celtics,Trail Blazers,24 - 24,1,N/A,N/A,N/A
+103,Enes Kanter,FT,None,0.6,1,Trail Blazers,Celtics,25 - 24,0,N/A,1,N/A
+104,End of,Unknown,None,0.0,1,Celtics,Trail Blazers,25 - 24,1,N/A,N/A,N/A
+0,Jayson Tatum,SUBSTITUTION,Irving Kyrie,12:00,2,Celtics,Trail Blazers,25 - 24,1,N/A,N/A,N/A
+1,Marcus Smart,SUBSTITUTION,Morris Marcus,12:00,2,Celtics,Trail Blazers,25 - 24,1,N/A,N/A,N/A
+2,CJ McCollum,SUBSTITUTION,Lillard Damian,12:00,2,Trail Blazers,Celtics,25 - 24,0,N/A,N/A,N/A
+3,Jaylen Brown,FG_ASSISTED,Daniel Theis,11:49,2,Celtics,Trail Blazers,25 - 26,1,0,2,Layup
+4,Jake Layman,FOUL_ON_FLOOR,None,11:49,2,Trail Blazers,Celtics,25 - 26,0,N/A,N/A,N/A
+5,Jaylen Brown,FT_MISS,None,11:49,2,Celtics,Trail Blazers,25 - 26,1,N/A,1,N/A
+6,Enes Kanter,DEFENSIVE_REBOUND,None,11:49,2,Trail Blazers,Celtics,25 - 26,0,N/A,N/A,N/A
+7,Jake Layman,FG_ASSISTED,Enes Kanter,11:29,2,Trail Blazers,Celtics,28 - 26,0,25,3,Jumper
+8,Gordon Hayward,FG_MISS,None,11:08,2,Celtics,Trail Blazers,28 - 26,1, ,2,Jumper
+9,Enes Kanter,DEFENSIVE_REBOUND,None,11:07,2,Trail Blazers,Celtics,28 - 26,0,N/A,N/A,N/A
+10,Rodney Hood,FG_MISS,None,11:00,2,Trail Blazers,Celtics,28 - 26,0,23,3,Jumper
+11,Jaylen Brown,DEFENSIVE_REBOUND,None,10:58,2,Celtics,Trail Blazers,28 - 26,1,N/A,N/A,N/A
+12,Jaylen Brown,FG_UNASSISTED,None,10:52,2,Celtics,Trail Blazers,28 - 28,1,0,2,Dunk
+13,Daniel Theis,FOUL_ON_FLOOR,None,10:40,2,Celtics,Trail Blazers,28 - 28,1,N/A,N/A,N/A
+14,Enes Kanter,FG_MISS,None,10:33,2,Trail Blazers,Celtics,28 - 28,0,25,3,Jumper
+15,Jaylen Brown,DEFENSIVE_REBOUND,None,10:31,2,Celtics,Trail Blazers,28 - 28,1,N/A,N/A,N/A
+16,Marcus Smart,FG_UNASSISTED,None,10:11,2,Celtics,Trail Blazers,28 - 30,1,7,2,Jumper
+17,CJ McCollum,FG_MISS,Daniel Theis,9:44,2,Celtics,Trail Blazers,28 - 30,0,3,2,Jumper
+18,Marcus Smart,DEFENSIVE_REBOUND,None,9:42,2,Celtics,Trail Blazers,28 - 30,1,N/A,N/A,N/A
+19,Daniel Theis,FG_MISS,None,9:39,2,Celtics,Trail Blazers,28 - 30,1,27,3,Jumper
+20,Gordon Hayward,OFFENSIVE_REBOUND,None,9:37,2,Celtics,Trail Blazers,28 - 30,1,N/A,N/A,N/A
+21,Jayson Tatum,FG_MISS,None,9:32,2,Celtics,Trail Blazers,28 - 30,1,24,3,Jumper
+22,Jaylen Brown,OFFENSIVE_REBOUND,None,9:30,2,Celtics,Trail Blazers,28 - 30,1,N/A,N/A,N/A
+23,Daniel Theis,FG_MISS,None,9:25,2,Celtics,Trail Blazers,28 - 30,1,9,2,Jumper
+24,Jake Layman,DEFENSIVE_REBOUND,None,9:23,2,Trail Blazers,Celtics,28 - 30,0,N/A,N/A,N/A
+25,Enes Kanter,FG_ASSISTED,Jake Layman,9:13,2,Trail Blazers,Celtics,30 - 30,0,0,2,Dunk
+26,Jaylen Brown,FG_MISS,None,8:49,2,Celtics,Trail Blazers,30 - 30,1,26,3,Jumper
+27,Jake Layman,DEFENSIVE_REBOUND,None,8:47,2,Trail Blazers,Celtics,30 - 30,0,N/A,N/A,N/A
+28,Jaylen Brown,FOUL_ON_FLOOR,None,8:41,2,Celtics,Trail Blazers,30 - 30,1,N/A,N/A,N/A
+29,Seth Curry,FG_MISS,None,8:36,2,Trail Blazers,Celtics,30 - 30,0,26,2,Jumper
+30,Jayson Tatum,DEFENSIVE_REBOUND,None,8:34,2,Celtics,Trail Blazers,30 - 30,1,N/A,N/A,N/A
+31,Jayson Tatum,FG_UNASSISTED,None,8:25,2,Celtics,Trail Blazers,30 - 32,1,0,2,Layup
+32,CJ McCollum,FG_UNASSISTED,None,8:14,2,Trail Blazers,Celtics,32 - 32,0,18,2,Jumper
+33,Jayson Tatum,FG_MISS,None,7:51,2,Celtics,Trail Blazers,32 - 32,1, ,3,Jumper
+34,CJ McCollum,DEFENSIVE_REBOUND,None,7:49,2,Trail Blazers,Celtics,32 - 32,0,N/A,N/A,N/A
+35,Rodney Hood,FG_MISS,None,7:40,2,Trail Blazers,Celtics,32 - 32,0,27,3,Jumper
+36,Gordon Hayward,DEFENSIVE_REBOUND,None,7:38,2,Celtics,Trail Blazers,32 - 32,1,N/A,N/A,N/A
+37,Jayson Tatum,FG_MISS,None,7:24,2,Celtics,Trail Blazers,32 - 32,1, ,2,Jumper
+38,Rodney Hood,DEFENSIVE_REBOUND,None,7:22,2,Trail Blazers,Celtics,32 - 32,0,N/A,N/A,N/A
+39,Seth Curry,TURNOVER,Jaylen Brown,7:17,2,Trail Blazers,Celtics,32 - 32,0,N/A,N/A,N/A
+40,Daniel Theis,FG_MISS,None,7:08,2,Celtics,Trail Blazers,32 - 32,1,26,3,Jumper
+41,Team,DEFENSIVE_REBOUND,None,7:07,2,Trail Blazers,Celtics,32 - 32,0,N/A,N/A,N/A
+42,Maurice Harkless,SUBSTITUTION,Layman Jake,7:05,2,Trail Blazers,Celtics,32 - 32,0,N/A,N/A,N/A
+43,Enes Kanter,FG_UNASSISTED,None,6:50,2,Trail Blazers,Celtics,34 - 32,0,0,2,Layup
+44,Jaylen Brown,FG_MISS,None,6:36,2,Celtics,Trail Blazers,34 - 32,1, ,2,Jumper
+45,Team,OFFENSIVE_REBOUND,None,6:33,2,Celtics,Trail Blazers,34 - 32,1,N/A,N/A,N/A
+46,Team,Unknown,None,6:32,2,Celtics,Trail Blazers,34 - 32,1,N/A,N/A,N/A
+47,Marcus Morris,SUBSTITUTION,Brown Jaylen,6:32,2,Celtics,Trail Blazers,34 - 32,1,N/A,N/A,N/A
+48,Kyrie Irving,SUBSTITUTION,Hayward Gordon,6:32,2,Celtics,Trail Blazers,34 - 32,1,N/A,N/A,N/A
+49,Daniel Theis,FG_MISS,None,6:23,2,Celtics,Trail Blazers,34 - 32,1,12,2,Jumper
+50,Maurice Harkless,DEFENSIVE_REBOUND,None,6:21,2,Trail Blazers,Celtics,34 - 32,0,N/A,N/A,N/A
+51,Rodney Hood,FG_MISS,None,5:59,2,Trail Blazers,Celtics,34 - 32,0, ,2,Jumper
+52,CJ McCollum,OFFENSIVE_REBOUND,None,5:57,2,Trail Blazers,Celtics,34 - 32,0,N/A,N/A,N/A
+53,Daniel Theis,FOUL_ON_FLOOR,None,5:52,2,Celtics,Trail Blazers,34 - 32,1,N/A,N/A,N/A
+54,Maurice Harkless,FT_MISS,None,5:52,2,Trail Blazers,Celtics,34 - 32,0,N/A,1,N/A
+55,Team,OFFENSIVE_REBOUND,None,5:52,2,Trail Blazers,Celtics,34 - 32,0,N/A,N/A,N/A
+56,Al Horford,SUBSTITUTION,Theis Daniel,5:52,2,Celtics,Trail Blazers,34 - 32,1,N/A,N/A,N/A
+57,Jusuf Nurkic,SUBSTITUTION,Kanter Enes,5:52,2,Trail Blazers,Celtics,34 - 32,0,N/A,N/A,N/A
+58,Al-Farouq Aminu,SUBSTITUTION,McCollum CJ,5:52,2,Trail Blazers,Celtics,34 - 32,0,N/A,N/A,N/A
+59,Damian Lillard,SUBSTITUTION,Hood Rodney,5:52,2,Trail Blazers,Celtics,34 - 32,0,N/A,N/A,N/A
+60,Maurice Harkless,FT,None,5:52,2,Trail Blazers,Celtics,35 - 32,0,N/A,1,N/A
+61,Al Horford,FG_MISS,None,5:37,2,Celtics,Trail Blazers,35 - 32,1,20,2,Jumper
+62,Damian Lillard,DEFENSIVE_REBOUND,None,5:35,2,Trail Blazers,Celtics,35 - 32,0,N/A,N/A,N/A
+63,Jusuf Nurkic,FG_ASSISTED,Damian Lillard,5:28,2,Trail Blazers,Celtics,37 - 32,0,0,2,Layup
+64,Damian Lillard,FOUL_ON_FLOOR,None,5:18,2,Trail Blazers,Celtics,37 - 32,0,N/A,N/A,N/A
+65,Kyrie Irving,FG_MISS,None,5:08,2,Celtics,Trail Blazers,37 - 32,1, ,2,Jumper
+66,Al-Farouq Aminu,DEFENSIVE_REBOUND,None,5:06,2,Trail Blazers,Celtics,37 - 32,0,N/A,N/A,N/A
+67,Damian Lillard,FG_MISS,None,4:59,2,Trail Blazers,Celtics,37 - 32,0,27,3,Jumper
+68,Al Horford,DEFENSIVE_REBOUND,None,4:57,2,Celtics,Trail Blazers,37 - 32,1,N/A,N/A,N/A
+69,Kyrie Irving,TURNOVER,Damian Lillard,4:51,2,Celtics,Trail Blazers,37 - 32,1,N/A,N/A,N/A
+70,Kyrie Irving,FOUL_ON_FLOOR,None,4:48,2,Celtics,Trail Blazers,37 - 32,1,N/A,N/A,N/A
+71,Seth Curry,TURNOVER,None,4:38,2,Trail Blazers,Celtics,37 - 32,0,N/A,N/A,N/A
+72,Jayson Tatum,TURNOVER,Seth Curry,4:27,2,Celtics,Trail Blazers,37 - 32,1,N/A,N/A,N/A
+73,Seth Curry,FG_MISS,None,4:23,2,Trail Blazers,Celtics,37 - 32,0,25,3,Jumper
+74,Team,OFFENSIVE_REBOUND,None,4:21,2,Trail Blazers,Celtics,37 - 32,0,N/A,N/A,N/A
+75,Damian Lillard,FG_MISS,None,4:12,2,Trail Blazers,Celtics,37 - 32,0,0,2,Layup
+76,Jusuf Nurkic,OFFENSIVE_REBOUND,None,4:09,2,Trail Blazers,Celtics,37 - 32,0,N/A,N/A,N/A
+77,Jusuf Nurkic,FG_UNASSISTED,None,4:07,2,Trail Blazers,Celtics,39 - 32,0,3,2,Jumper
+78,Al Horford,FG_MISS,None,3:54,2,Celtics,Trail Blazers,39 - 32,1,27,3,Jumper
+79,Maurice Harkless,DEFENSIVE_REBOUND,None,3:52,2,Trail Blazers,Celtics,39 - 32,0,N/A,N/A,N/A
+80,Maurice Harkless,FG_MISS,None,3:43,2,Trail Blazers,Celtics,39 - 32,0,25,3,Jumper
+81,Al-Farouq Aminu,OFFENSIVE_REBOUND,None,3:41,2,Trail Blazers,Celtics,39 - 32,0,N/A,N/A,N/A
+82,Al-Farouq Aminu,TURNOVER,Marcus Smart,3:37,2,Trail Blazers,Celtics,39 - 32,0,N/A,N/A,N/A
+83,Jayson Tatum,FG_ASSISTED,Marcus Smart,3:33,2,Celtics,Trail Blazers,39 - 34,1,0,2,Dunk
+84,Damian Lillard,FG_MISS,None,3:06,2,Trail Blazers,Celtics,39 - 34,0,27,3,Jumper
+85,Kyrie Irving,DEFENSIVE_REBOUND,None,3:04,2,Celtics,Trail Blazers,39 - 34,1,N/A,N/A,N/A
+86,Team,Unknown,None,2:55,2,Trail Blazers,Celtics,39 - 34,0,N/A,N/A,N/A
+87,Gordon Hayward,SUBSTITUTION,Tatum Jayson,2:55,2,Celtics,Trail Blazers,39 - 34,1,N/A,N/A,N/A
+88,CJ McCollum,SUBSTITUTION,Curry Seth,2:55,2,Trail Blazers,Celtics,39 - 34,0,N/A,N/A,N/A
+89,Marcus Morris,FG_ASSISTED,Kyrie Irving,2:47,2,Celtics,Trail Blazers,39 - 36,1,0,2,Dunk
+90,Maurice Harkless,FG_MISS,None,2:27,2,Trail Blazers,Celtics,39 - 36,0,2,2,Jumper
+91,Maurice Harkless,OFFENSIVE_REBOUND,None,2:26,2,Trail Blazers,Celtics,39 - 36,0,N/A,N/A,N/A
+92,Maurice Harkless,FG_UNASSISTED,None,2:24,2,Trail Blazers,Celtics,41 - 36,0,0,2,Dunk
+93,Marcus Morris,FG_ASSISTED,Marcus Smart,2:09,2,Celtics,Trail Blazers,41 - 38,1,12,2,Jumper
+94,Jusuf Nurkic's,FG_MISS,Al Horford,1:56,2,Celtics,Trail Blazers,41 - 38,0, ,2,Jumper
+95,Team,OFFENSIVE_REBOUND,None,1:54,2,Trail Blazers,Celtics,41 - 38,0,N/A,N/A,N/A
+96,CJ McCollum,FG_MISS,None,1:45,2,Trail Blazers,Celtics,41 - 38,0,26,3,Jumper
+97,Damian Lillard,OFFENSIVE_REBOUND,None,1:43,2,Trail Blazers,Celtics,41 - 38,0,N/A,N/A,N/A
+98,Damian Lillard,FG_UNASSISTED,None,1:37,2,Trail Blazers,Celtics,43 - 38,0,18,2,Jumper
+99,Marcus Morris,FG_MISS,None,1:12,2,Celtics,Trail Blazers,43 - 38,1,28,3,Jumper
+100,Team,OFFENSIVE_REBOUND,None,1:12,2,Celtics,Trail Blazers,43 - 38,1,N/A,N/A,N/A
+101,shot clock,TURNOVER,None,1:12,2,Celtics,Trail Blazers,43 - 38,1,N/A,N/A,N/A
+102,Damian Lillard,FG_MISS,None,1:05,2,Trail Blazers,Celtics,43 - 38,0,29,3,Jumper
+103,Marcus Morris,DEFENSIVE_REBOUND,None,1:03,2,Celtics,Trail Blazers,43 - 38,1,N/A,N/A,N/A
+104,Kyrie Irving,FG_UNASSISTED,None,54.8,2,Celtics,Trail Blazers,43 - 40,1,2,2,Jumper
+105,CJ McCollum,FG_MISS,None,31.4,2,Trail Blazers,Celtics,43 - 40,0,16,2,Jumper
+106,Kyrie Irving,DEFENSIVE_REBOUND,None,29.1,2,Celtics,Trail Blazers,43 - 40,1,N/A,N/A,N/A
+107,Al-Farouq Aminu,FOUL_ON_FLOOR,None,21.8,2,Trail Blazers,Celtics,43 - 40,0,N/A,N/A,N/A
+108,Marcus Morris,FT,None,21.8,2,Celtics,Trail Blazers,43 - 41,1,N/A,1,N/A
+109,Jayson Tatum,SUBSTITUTION,Irving Kyrie,21.8,2,Celtics,Trail Blazers,43 - 41,1,N/A,N/A,N/A
+110,Seth Curry,SUBSTITUTION,Aminu Al-Farouq,21.8,2,Trail Blazers,Celtics,43 - 41,0,N/A,N/A,N/A
+111,Marcus Morris,FT,None,21.8,2,Celtics,Trail Blazers,43 - 42,1,N/A,1,N/A
+112,Damian Lillard,FG_MISS,None,8.5,2,Trail Blazers,Celtics,43 - 42,0,8,2,Jumper
+113,Marcus Morris,DEFENSIVE_REBOUND,None,5.5,2,Celtics,Trail Blazers,43 - 42,1,N/A,N/A,N/A
+114,Marcus Morris,FG_MISS,None,0.0,2,Celtics,Trail Blazers,43 - 42,1,27,3,Jumper
+115,Team,OFFENSIVE_REBOUND,None,0.0,2,Celtics,Trail Blazers,43 - 42,1,N/A,N/A,N/A
+116,End of,Unknown,None,0.0,2,Celtics,Trail Blazers,43 - 42,1,N/A,N/A,N/A
+0,Kyrie Irving,SUBSTITUTION,Hayward Gordon,12:00,3,Celtics,Trail Blazers,43 - 42,1,N/A,N/A,N/A
+1,Al-Farouq Aminu,SUBSTITUTION,Curry Seth,12:00,3,Trail Blazers,Celtics,43 - 42,0,N/A,N/A,N/A
+2,Marcus Smart,TURNOVER,Al-Farouq Aminu,11:49,3,Celtics,Trail Blazers,43 - 42,1,N/A,N/A,N/A
+3,Damian Lillard,FG_MISS,None,11:29,3,Trail Blazers,Celtics,43 - 42,0,20,2,Jumper
+4,Marcus Smart,DEFENSIVE_REBOUND,None,11:26,3,Celtics,Trail Blazers,43 - 42,1,N/A,N/A,N/A
+5,CJ McCollum,FOUL_ON_FLOOR,None,11:14,3,Trail Blazers,Celtics,43 - 42,0,N/A,N/A,N/A
+6,Kyrie Irving,FG_UNASSISTED,None,11:09,3,Celtics,Trail Blazers,43 - 44,1,13,2,Jumper
+7,Maurice Harkless,FG_ASSISTED,Damian Lillard,10:51,3,Trail Blazers,Celtics,45 - 44,0,0,2,Layup
+8,Kyrie Irving,TURNOVER,None,10:47,3,Celtics,Trail Blazers,45 - 44,1,N/A,N/A,N/A
+9,Marcus Morris,FOUL_ON_FLOOR,None,10:38,3,Celtics,Trail Blazers,45 - 44,1,N/A,N/A,N/A
+10,Damian Lillard,FT,None,10:38,3,Trail Blazers,Celtics,46 - 44,0,N/A,1,N/A
+11,Damian Lillard,FT,None,10:38,3,Trail Blazers,Celtics,47 - 44,0,N/A,1,N/A
+12,Al Horford,TURNOVER,Jusuf Nurkic,10:21,3,Celtics,Trail Blazers,47 - 44,1,N/A,N/A,N/A
+13,CJ McCollum,FG_MISS,None,10:14,3,Trail Blazers,Celtics,47 - 44,0,23,3,Jumper
+14,Maurice Harkless,OFFENSIVE_REBOUND,None,10:13,3,Trail Blazers,Celtics,47 - 44,0,N/A,N/A,N/A
+15,Maurice Harkless,FG_UNASSISTED,None,10:11,3,Trail Blazers,Celtics,49 - 44,0,0,2,Dunk
+16,Marcus Morris,FG_ASSISTED,Al Horford,9:59,3,Celtics,Trail Blazers,49 - 46,1,0,2,Layup
+17,Damian Lillard,FG_MISS,None,9:48,3,Trail Blazers,Celtics,49 - 46,0,27,3,Jumper
+18,Jayson Tatum,DEFENSIVE_REBOUND,None,9:46,3,Celtics,Trail Blazers,49 - 46,1,N/A,N/A,N/A
+19,Al Horford,FG_MISS,None,9:32,3,Celtics,Trail Blazers,49 - 46,1, ,2,Jumper
+20,Al-Farouq Aminu,DEFENSIVE_REBOUND,None,9:30,3,Trail Blazers,Celtics,49 - 46,0,N/A,N/A,N/A
+21,CJ McCollum,FG_ASSISTED,Damian Lillard,9:22,3,Trail Blazers,Celtics,51 - 46,0,22,2,Jumper
+22,Kyrie Irving,FG_MISS,None,9:12,3,Celtics,Trail Blazers,51 - 46,1,25,3,Jumper
+23,Maurice Harkless,DEFENSIVE_REBOUND,None,9:10,3,Trail Blazers,Celtics,51 - 46,0,N/A,N/A,N/A
+24,CJ McCollum,FG_UNASSISTED,None,8:54,3,Trail Blazers,Celtics,53 - 46,0,19,2,Jumper
+25,Al Horford,FG_MISS,None,8:37,3,Celtics,Trail Blazers,53 - 46,1,26,3,Jumper
+26,CJ McCollum,DEFENSIVE_REBOUND,None,8:35,3,Trail Blazers,Celtics,53 - 46,0,N/A,N/A,N/A
+27,Jusuf Nurkic,FG_ASSISTED,CJ McCollum,8:20,3,Trail Blazers,Celtics,55 - 46,0,0,2,Layup
+28,Kyrie Irving,FG_MISS,None,7:57,3,Celtics,Trail Blazers,55 - 46,1,9,2,Jumper
+29,Maurice Harkless,DEFENSIVE_REBOUND,None,7:55,3,Trail Blazers,Celtics,55 - 46,0,N/A,N/A,N/A
+30,Jusuf Nurkic,FG_MISS,None,7:43,3,Trail Blazers,Celtics,55 - 46,0,18,2,Jumper
+31,Jayson Tatum,DEFENSIVE_REBOUND,None,7:42,3,Celtics,Trail Blazers,55 - 46,1,N/A,N/A,N/A
+32,Jayson Tatum,FG_ASSISTED,Al Horford,7:24,3,Celtics,Trail Blazers,55 - 48,1,3,2,Jumper
+33,Al Horford,FOUL_ON_FLOOR,None,7:01,3,Celtics,Trail Blazers,55 - 48,1,N/A,N/A,N/A
+34,Daniel Theis,SUBSTITUTION,Horford Al,7:01,3,Celtics,Trail Blazers,55 - 48,1,N/A,N/A,N/A
+35,Damian Lillard,FG_ASSISTED,CJ McCollum,6:54,3,Trail Blazers,Celtics,57 - 48,0,0,2,Layup
+36,Team,Unknown,None,6:46,3,Celtics,Trail Blazers,57 - 48,1,N/A,N/A,N/A
+37,Jaylen Brown,SUBSTITUTION,Morris Marcus,6:46,3,Celtics,Trail Blazers,57 - 48,1,N/A,N/A,N/A
+38,Gordon Hayward,SUBSTITUTION,Smart Marcus,6:46,3,Celtics,Trail Blazers,57 - 48,1,N/A,N/A,N/A
+39,Kyrie Irving,FG_ASSISTED,Daniel Theis,6:41,3,Celtics,Trail Blazers,57 - 50,1,0,2,Layup
+40,CJ McCollum,FG_MISS,None,6:22,3,Trail Blazers,Celtics,57 - 50,0, ,2,Jumper
+41,Kyrie Irving,DEFENSIVE_REBOUND,None,6:21,3,Celtics,Trail Blazers,57 - 50,1,N/A,N/A,N/A
+42,Jayson Tatum,TURNOVER,None,6:17,3,Celtics,Trail Blazers,57 - 50,1,N/A,N/A,N/A
+43,Daniel Theis,FOUL_ON_FLOOR,None,6:10,3,Celtics,Trail Blazers,57 - 50,1,N/A,N/A,N/A
+44,Kyrie Irving,FOUL_ON_FLOOR,None,6:06,3,Celtics,Trail Blazers,57 - 50,1,N/A,N/A,N/A
+45,Damian Lillard,FG_ASSISTED,Jusuf Nurkic,6:02,3,Trail Blazers,Celtics,60 - 50,0, ,3,Jumper
+46,Daniel Theis,FG_MISS,None,5:40,3,Celtics,Trail Blazers,60 - 50,1,14,2,Jumper
+47,Maurice Harkless,DEFENSIVE_REBOUND,None,5:38,3,Trail Blazers,Celtics,60 - 50,0,N/A,N/A,N/A
+48,Maurice Harkless,FG_ASSISTED,Al-Farouq Aminu,5:25,3,Trail Blazers,Celtics,62 - 50,0,0,2,Layup
+49,Jayson Tatum,FG_UNASSISTED,None,5:11,3,Celtics,Trail Blazers,62 - 52,1, ,2,Jumper
+50,Maurice Harkless,FG_MISS,None,4:56,3,Trail Blazers,Celtics,62 - 52,0,26,3,Jumper
+51,Jaylen Brown,DEFENSIVE_REBOUND,None,4:54,3,Celtics,Trail Blazers,62 - 52,1,N/A,N/A,N/A
+52,Kyrie Irving,FG_UNASSISTED,None,4:48,3,Celtics,Trail Blazers,62 - 55,1,25,2,Jumper
+53,CJ McCollum,FG_MISS,None,4:29,3,Trail Blazers,Celtics,62 - 55,0,15,2,Jumper
+54,Jaylen Brown,DEFENSIVE_REBOUND,None,4:27,3,Celtics,Trail Blazers,62 - 55,1,N/A,N/A,N/A
+55,Jaylen Brown,TURNOVER,None,4:25,3,Celtics,Trail Blazers,62 - 55,1,N/A,N/A,N/A
+56,Damian Lillard,FG_MISS,None,4:17,3,Trail Blazers,Celtics,62 - 55,0,0,2,Layup
+57,Maurice Harkless,OFFENSIVE_REBOUND,None,4:14,3,Trail Blazers,Celtics,62 - 55,0,N/A,N/A,N/A
+58,Maurice Harkless,FG_UNASSISTED,None,4:13,3,Trail Blazers,Celtics,64 - 55,0, ,2,Jumper
+59,Jayson Tatum,FG_MISS,None,3:55,3,Celtics,Trail Blazers,64 - 55,1,15,2,Jumper
+60,Team,OFFENSIVE_REBOUND,None,3:55,3,Celtics,Trail Blazers,64 - 55,1,N/A,N/A,N/A
+61,Maurice Harkless,FOUL_ON_FLOOR,None,3:55,3,Trail Blazers,Celtics,64 - 55,0,N/A,N/A,N/A
+62,Rodney Hood,SUBSTITUTION,Aminu Al-Farouq,3:55,3,Trail Blazers,Celtics,64 - 55,0,N/A,N/A,N/A
+63,Enes Kanter,SUBSTITUTION,Nurkic Jusuf,3:55,3,Trail Blazers,Celtics,64 - 55,0,N/A,N/A,N/A
+64,Gordon Hayward,TURNOVER,Maurice Harkless,3:50,3,Celtics,Trail Blazers,64 - 55,1,N/A,N/A,N/A
+65,Damian Lillard,FG_UNASSISTED,None,3:40,3,Trail Blazers,Celtics,66 - 55,0,2,2,Jumper
+66,Enes Kanter,FOUL_ON_FLOOR,None,3:29,3,Trail Blazers,Celtics,66 - 55,0,N/A,N/A,N/A
+67,Jayson Tatum,FT,None,3:29,3,Celtics,Trail Blazers,66 - 56,1,N/A,1,N/A
+68,Al Horford,SUBSTITUTION,Theis Daniel,3:29,3,Celtics,Trail Blazers,66 - 56,1,N/A,N/A,N/A
+69,Seth Curry,SUBSTITUTION,McCollum CJ,3:29,3,Trail Blazers,Celtics,66 - 56,0,N/A,N/A,N/A
+70,Jayson Tatum,FT,None,3:29,3,Celtics,Trail Blazers,66 - 57,1,N/A,1,N/A
+71,Damian Lillard,FG_MISS,None,3:19,3,Trail Blazers,Celtics,66 - 57,0,0,2,Layup
+72,Enes Kanter,OFFENSIVE_REBOUND,None,3:19,3,Trail Blazers,Celtics,66 - 57,0,N/A,N/A,N/A
+73,Enes Kanter,FG_UNASSISTED,None,3:17,3,Trail Blazers,Celtics,68 - 57,0, ,2,Jumper
+74,Kyrie Irving,FG_UNASSISTED,None,3:06,3,Celtics,Trail Blazers,68 - 59,1,0,2,Layup
+75,Team,Unknown,None,2:49,3,Trail Blazers,Celtics,68 - 59,0,N/A,N/A,N/A
+76,Damian Lillard,FG_UNASSISTED,None,2:40,3,Trail Blazers,Celtics,70 - 59,0,2,2,Jumper
+77,Seth Curry,FOUL_ON_FLOOR,None,2:31,3,Trail Blazers,Celtics,70 - 59,0,N/A,N/A,N/A
+78,Gordon Hayward,FT_MISS,None,2:31,3,Celtics,Trail Blazers,70 - 59,1,N/A,1,N/A
+79,Team,OFFENSIVE_REBOUND,None,2:31,3,Celtics,Trail Blazers,70 - 59,1,N/A,N/A,N/A
+80,Marcus Morris,SUBSTITUTION,Tatum Jayson,2:31,3,Celtics,Trail Blazers,70 - 59,1,N/A,N/A,N/A
+81,Marcus Smart,SUBSTITUTION,Irving Kyrie,2:31,3,Celtics,Trail Blazers,70 - 59,1,N/A,N/A,N/A
+82,Gordon Hayward,FT,None,2:31,3,Celtics,Trail Blazers,70 - 60,1,N/A,1,N/A
+83,Seth Curry,FG_MISS,None,2:16,3,Trail Blazers,Celtics,70 - 60,0,26,3,Jumper
+84,Jaylen Brown,DEFENSIVE_REBOUND,None,2:13,3,Celtics,Trail Blazers,70 - 60,1,N/A,N/A,N/A
+85,Al Horford,FOUL_ON_FLOOR,None,2:05,3,Celtics,Trail Blazers,70 - 60,1,N/A,N/A,N/A
+86,Al Horford,TURNOVER,None,2:05,3,Celtics,Trail Blazers,70 - 60,1,N/A,N/A,N/A
+87,Damian Lillard,FG_UNASSISTED,None,1:53,3,Trail Blazers,Celtics,72 - 60,0, ,2,Jumper
+88,Al Horford,FG_MISS,None,1:40,3,Celtics,Trail Blazers,72 - 60,1,25,3,Jumper
+89,Enes Kanter,DEFENSIVE_REBOUND,None,1:38,3,Trail Blazers,Celtics,72 - 60,0,N/A,N/A,N/A
+90,Damian Lillard,FG_MISS,None,1:28,3,Trail Blazers,Celtics,72 - 60,0,26,3,Jumper
+91,Jaylen Brown,DEFENSIVE_REBOUND,None,1:26,3,Celtics,Trail Blazers,72 - 60,1,N/A,N/A,N/A
+92,Jaylen Brown,FG_MISS,None,1:22,3,Celtics,Trail Blazers,72 - 60,1, ,2,Jumper
+93,Enes Kanter,DEFENSIVE_REBOUND,None,1:20,3,Trail Blazers,Celtics,72 - 60,0,N/A,N/A,N/A
+94,Seth Curry,FG_MISS,None,1:03,3,Trail Blazers,Celtics,72 - 60,0,25,3,Jumper
+95,Jaylen Brown,DEFENSIVE_REBOUND,None,1:01,3,Celtics,Trail Blazers,72 - 60,1,N/A,N/A,N/A
+96,Al Horford,FG_ASSISTED,Marcus Smart,47.2,3,Celtics,Trail Blazers,72 - 62,1,0,2,Layup
+97,Rodney Hood,FG_MISS,None,31.0,3,Trail Blazers,Celtics,72 - 62,0,28,3,Jumper
+98,Al Horford,DEFENSIVE_REBOUND,None,29.6,3,Celtics,Trail Blazers,72 - 62,1,N/A,N/A,N/A
+99,Al Horford,FG_ASSISTED,Marcus Smart,7.9,3,Celtics,Trail Blazers,72 - 64,1,15,2,Jumper
+100,Damian Lillard,FG_UNASSISTED,None,0.3,3,Trail Blazers,Celtics,74 - 64,0, ,2,Jumper
+101,End of,Unknown,None,0.0,3,Celtics,Trail Blazers,74 - 64,1,N/A,N/A,N/A
+0,Jake Layman,SUBSTITUTION,Lillard Damian,12:00,4,Trail Blazers,Celtics,74 - 64,0,N/A,N/A,N/A
+1,CJ McCollum,SUBSTITUTION,Harkless Maurice,12:00,4,Trail Blazers,Celtics,74 - 64,0,N/A,N/A,N/A
+2,Rodney Hood,TURNOVER,Marcus Smart,11:44,4,Trail Blazers,Celtics,74 - 64,0,N/A,N/A,N/A
+3,Marcus Smart,FG_UNASSISTED,None,11:40,4,Celtics,Trail Blazers,74 - 66,1, ,2,Jumper
+4,Enes Kanter,FOUL_ON_FLOOR,None,11:22,4,Trail Blazers,Celtics,74 - 66,0,N/A,N/A,N/A
+5,Enes Kanter,TURNOVER,None,11:22,4,Trail Blazers,Celtics,74 - 66,0,N/A,N/A,N/A
+6,Gordon Hayward,TURNOVER,Enes Kanter,11:09,4,Celtics,Trail Blazers,74 - 66,1,N/A,N/A,N/A
+7,Enes Kanter,FG_MISS,None,11:05,4,Trail Blazers,Celtics,74 - 66,0, ,2,Jumper
+8,Jake Layman,OFFENSIVE_REBOUND,None,11:04,4,Trail Blazers,Celtics,74 - 66,0,N/A,N/A,N/A
+9,Jake Layman,FG_UNASSISTED,None,11:03,4,Trail Blazers,Celtics,76 - 66,0,0,2,Dunk
+10,Jaylen Brown,FG_ASSISTED,Marcus Morris,10:47,4,Celtics,Trail Blazers,76 - 68,1,0,2,Layup
+11,8 second,TURNOVER,None,10:35,4,Trail Blazers,Celtics,76 - 68,0,N/A,N/A,N/A
+12,Jaylen Brown,FG_ASSISTED,Gordon Hayward,10:26,4,Celtics,Trail Blazers,76 - 70,1,9,2,Jumper
+13,CJ McCollum,FG_MISS,None,10:17,4,Trail Blazers,Celtics,76 - 70,0,26,3,Jumper
+14,Jaylen Brown,DEFENSIVE_REBOUND,None,10:15,4,Celtics,Trail Blazers,76 - 70,1,N/A,N/A,N/A
+15,Marcus Smart,FG_MISS,None,9:53,4,Celtics,Trail Blazers,76 - 70,1,23,2,Jumper
+16,CJ McCollum,DEFENSIVE_REBOUND,None,9:51,4,Trail Blazers,Celtics,76 - 70,0,N/A,N/A,N/A
+17,Rodney Hood,FG_MISS,None,9:46,4,Trail Blazers,Celtics,76 - 70,0, ,3,Jumper
+18,Team,DEFENSIVE_REBOUND,None,9:44,4,Celtics,Trail Blazers,76 - 70,1,N/A,N/A,N/A
+19,Marcus Smart,FG_UNASSISTED,None,9:38,4,Celtics,Trail Blazers,76 - 72,1, ,2,Jumper
+20,Team,Unknown,None,9:38,4,Trail Blazers,Celtics,76 - 72,0,N/A,N/A,N/A
+21,Maurice Harkless,SUBSTITUTION,Layman Jake,9:38,4,Trail Blazers,Celtics,76 - 72,0,N/A,N/A,N/A
+22,Enes Kanter,FG_MISS,Al Horford,9:20,4,Celtics,Trail Blazers,76 - 72,0,3,2,Jumper
+23,Marcus Morris,DEFENSIVE_REBOUND,None,9:18,4,Celtics,Trail Blazers,76 - 72,1,N/A,N/A,N/A
+24,Marcus Morris,FG_MISS,None,9:13,4,Celtics,Trail Blazers,76 - 72,1,26,2,Jumper
+25,Gordon Hayward,OFFENSIVE_REBOUND,None,9:10,4,Celtics,Trail Blazers,76 - 72,1,N/A,N/A,N/A
+26,Al Horford,FG_MISS,None,9:00,4,Celtics,Trail Blazers,76 - 72,1,26,3,Jumper
+27,Marcus Smart,OFFENSIVE_REBOUND,None,8:57,4,Celtics,Trail Blazers,76 - 72,1,N/A,N/A,N/A
+28,Jaylen Brown,FG_ASSISTED,Al Horford,8:49,4,Celtics,Trail Blazers,76 - 74,1,13,2,Jumper
+29,CJ McCollum,FG_MISS,None,8:35,4,Trail Blazers,Celtics,76 - 74,0,0,2,Layup
+30,Marcus Morris,DEFENSIVE_REBOUND,None,8:33,4,Celtics,Trail Blazers,76 - 74,1,N/A,N/A,N/A
+31,Marcus Smart,FG_MISS,None,8:23,4,Celtics,Trail Blazers,76 - 74,1,27,3,Jumper
+32,Enes Kanter,DEFENSIVE_REBOUND,None,8:21,4,Trail Blazers,Celtics,76 - 74,0,N/A,N/A,N/A
+33,Maurice Harkless,FG_UNASSISTED,None,8:11,4,Trail Blazers,Celtics,78 - 74,0,0,2,Layup
+34,Al Horford,FG_MISS,None,7:51,4,Celtics,Trail Blazers,78 - 74,1,13,2,Jumper
+35,CJ McCollum,DEFENSIVE_REBOUND,None,7:49,4,Trail Blazers,Celtics,78 - 74,0,N/A,N/A,N/A
+36,CJ McCollum,FG_MISS,None,7:32,4,Trail Blazers,Celtics,78 - 74,0,26,3,Jumper
+37,Marcus Smart,DEFENSIVE_REBOUND,None,7:30,4,Celtics,Trail Blazers,78 - 74,1,N/A,N/A,N/A
+38,Team,Unknown,None,7:25,4,Celtics,Trail Blazers,78 - 74,1,N/A,N/A,N/A
+39,Jayson Tatum,SUBSTITUTION,Smart Marcus,7:25,4,Celtics,Trail Blazers,78 - 74,1,N/A,N/A,N/A
+40,Kyrie Irving,SUBSTITUTION,Horford Al,7:25,4,Celtics,Trail Blazers,78 - 74,1,N/A,N/A,N/A
+41,Damian Lillard,SUBSTITUTION,Kanter Enes,7:25,4,Trail Blazers,Celtics,78 - 74,0,N/A,N/A,N/A
+42,Jake Layman,SUBSTITUTION,McCollum CJ,7:25,4,Trail Blazers,Celtics,78 - 74,0,N/A,N/A,N/A
+43,Jusuf Nurkic,SUBSTITUTION,Curry Seth,7:25,4,Trail Blazers,Celtics,78 - 74,0,N/A,N/A,N/A
+44,Marcus Morris,FG_MISS,None,7:18,4,Celtics,Trail Blazers,78 - 74,1,25,3,Jumper
+45,Damian Lillard,DEFENSIVE_REBOUND,None,7:16,4,Trail Blazers,Celtics,78 - 74,0,N/A,N/A,N/A
+46,Jusuf Nurkic,FG_UNASSISTED,None,7:07,4,Trail Blazers,Celtics,80 - 74,0,3,2,Jumper
+47,Kyrie Irving,FG_UNASSISTED,None,6:47,4,Celtics,Trail Blazers,80 - 76,1, ,2,Jumper
+48,Jaylen Brown,FOUL_ON_FLOOR,None,6:30,4,Celtics,Trail Blazers,80 - 76,1,N/A,N/A,N/A
+49,Jusuf Nurkic,FG_MISS,None,6:25,4,Trail Blazers,Celtics,80 - 76,0,7,2,Jumper
+50,Team,DEFENSIVE_REBOUND,None,6:24,4,Celtics,Trail Blazers,80 - 76,1,N/A,N/A,N/A
+51,Gordon Hayward,FG_MISS,None,6:11,4,Celtics,Trail Blazers,80 - 76,1, ,2,Jumper
+52,Jusuf Nurkic,DEFENSIVE_REBOUND,None,6:09,4,Trail Blazers,Celtics,80 - 76,0,N/A,N/A,N/A
+53,Marcus Smart,SUBSTITUTION,Hayward Gordon,5:51,4,Celtics,Trail Blazers,80 - 76,1,N/A,N/A,N/A
+54,CJ McCollum,SUBSTITUTION,Hood Rodney,5:51,4,Trail Blazers,Celtics,80 - 76,0,N/A,N/A,N/A
+55,Al-Farouq Aminu,SUBSTITUTION,Layman Jake,5:51,4,Trail Blazers,Celtics,80 - 76,0,N/A,N/A,N/A
+56,Robert Williams,SUBSTITUTION,Morris Marcus,5:51,4,Celtics,Trail Blazers,80 - 76,1,N/A,N/A,N/A
+57,Jusuf Nurkic,FG_ASSISTED,Al-Farouq Aminu,5:47,4,Trail Blazers,Celtics,82 - 76,0,0,2,Dunk
+58,Jayson Tatum,TURNOVER,None,5:32,4,Celtics,Trail Blazers,82 - 76,1,N/A,N/A,N/A
+59,CJ McCollum,TURNOVER,None,5:22,4,Trail Blazers,Celtics,82 - 76,0,N/A,N/A,N/A
+60,Al Horford,SUBSTITUTION,III Williams,5:22,4,Celtics,Trail Blazers,82 - 76,1,N/A,N/A,N/A
+61,Kyrie Irving,TURNOVER,Damian Lillard,5:09,4,Celtics,Trail Blazers,82 - 76,1,N/A,N/A,N/A
+62,Jayson Tatum,FOUL_ON_FLOOR,None,5:02,4,Celtics,Trail Blazers,82 - 76,1,N/A,N/A,N/A
+63,Jusuf Nurkic,FT,None,5:02,4,Trail Blazers,Celtics,83 - 76,0,N/A,1,N/A
+64,Jusuf Nurkic,FT,None,5:02,4,Trail Blazers,Celtics,84 - 76,0,N/A,1,N/A
+65,Damian Lillard,FOUL_ON_FLOOR,None,4:46,4,Trail Blazers,Celtics,84 - 76,0,N/A,N/A,N/A
+66,Marcus Smart,FT,None,4:46,4,Celtics,Trail Blazers,84 - 77,1,N/A,1,N/A
+67,Marcus Smart,FG_UNASSISTED,None,4:46,4,Celtics,Trail Blazers,84 - 79,1,0,2,Layup
+68,Al-Farouq Aminu,FG_ASSISTED,Damian Lillard,4:28,4,Trail Blazers,Celtics,87 - 77,0,24,3,Jumper
+69,Jusuf Nurkic,FOUL_ON_FLOOR,None,4:06,4,Trail Blazers,Celtics,87 - 79,0,N/A,N/A,N/A
+70,Jusuf Nurkic,FOUL_ON_FLOOR,None,4:05,4,Trail Blazers,Celtics,87 - 79,0,N/A,N/A,N/A
+71,Team,Unknown,None,4:00,4,Celtics,Trail Blazers,87 - 79,1,N/A,N/A,N/A
+72,Kyrie Irving,FG_UNASSISTED,None,3:54,4,Celtics,Trail Blazers,87 - 81,1, ,2,Jumper
+73,Maurice Harkless,FG_ASSISTED,Jusuf Nurkic,3:38,4,Trail Blazers,Celtics,89 - 81,0,0,2,Dunk
+74,Kyrie Irving's,FG_MISS,Jusuf Nurkic,3:29,4,Trail Blazers,Celtics,89 - 81,1, ,2,Jumper
+75,Al-Farouq Aminu,DEFENSIVE_REBOUND,None,3:28,4,Trail Blazers,Celtics,89 - 81,0,N/A,N/A,N/A
+76,Kyrie Irving,FOUL_ON_FLOOR,None,3:28,4,Celtics,Trail Blazers,89 - 81,1,N/A,N/A,N/A
+77,Team,Unknown,None,3:28,4,Trail Blazers,Celtics,89 - 81,0,N/A,N/A,N/A
+78,Damian Lillard,FG_UNASSISTED,None,3:14,4,Trail Blazers,Celtics,91 - 81,0,2,2,Jumper
+79,CJ McCollum,FOUL_ON_FLOOR,None,3:02,4,Trail Blazers,Celtics,91 - 81,0,N/A,N/A,N/A
+80,Kyrie Irving,FG_MISS,Jusuf Nurkic,2:55,4,Trail Blazers,Celtics,91 - 81,1,0,2,Layup
+81,Damian Lillard,DEFENSIVE_REBOUND,None,2:53,4,Trail Blazers,Celtics,91 - 81,0,N/A,N/A,N/A
+82,Al Horford,FOUL_ON_FLOOR,None,2:46,4,Celtics,Trail Blazers,91 - 81,1,N/A,N/A,N/A
+83,Jusuf Nurkic,FT,None,2:46,4,Trail Blazers,Celtics,92 - 81,0,N/A,1,N/A
+84,Jusuf Nurkic,FT,None,2:46,4,Trail Blazers,Celtics,93 - 81,0,N/A,1,N/A
+85,Marcus Smart,FG_ASSISTED,Al Horford,2:33,4,Celtics,Trail Blazers,93 - 84,1,26,3,Jumper
+86,Jusuf Nurkic,FOUL_ON_FLOOR,None,2:15,4,Trail Blazers,Celtics,93 - 84,0,N/A,N/A,N/A
+87,Jusuf Nurkic,TURNOVER,None,2:15,4,Trail Blazers,Celtics,93 - 84,0,N/A,N/A,N/A
+88,Jaylen Brown,FG_MISS,None,2:07,4,Celtics,Trail Blazers,93 - 84,1,23,3,Jumper
+89,Kyrie Irving,OFFENSIVE_REBOUND,None,2:06,4,Celtics,Trail Blazers,93 - 84,1,N/A,N/A,N/A
+90,Kyrie Irving,FG_UNASSISTED,None,2:05,4,Celtics,Trail Blazers,93 - 86,1, ,2,Jumper
+91,Damian Lillard,FG_MISS,None,1:40,4,Trail Blazers,Celtics,93 - 86,0,27,3,Jumper
+92,Maurice Harkless,OFFENSIVE_REBOUND,None,1:38,4,Trail Blazers,Celtics,93 - 86,0,N/A,N/A,N/A
+93,Maurice Harkless,TURNOVER,Al Horford,1:35,4,Trail Blazers,Celtics,93 - 86,0,N/A,N/A,N/A
+94,Al Horford,FG_UNASSISTED,None,1:26,4,Celtics,Trail Blazers,93 - 88,1,5,2,Jumper
+95,Damian Lillard,FG_MISS,None,1:05,4,Trail Blazers,Celtics,93 - 88,0,0,2,Layup
+96,Team,OFFENSIVE_REBOUND,None,1:04,4,Trail Blazers,Celtics,93 - 88,0,N/A,N/A,N/A
+97,CJ McCollum,FG_MISS,None,53.8,4,Trail Blazers,Celtics,93 - 88,0,27,3,Jumper
+98,Team,DEFENSIVE_REBOUND,None,52.5,4,Celtics,Trail Blazers,93 - 88,1,N/A,N/A,N/A
+99,Marcus Smart,FG_MISS,None,44.8,4,Celtics,Trail Blazers,93 - 88,1,25,3,Jumper
+100,Al-Farouq Aminu,DEFENSIVE_REBOUND,None,42.0,4,Trail Blazers,Celtics,93 - 88,0,N/A,N/A,N/A
+101,Damian Lillard,FG_ASSISTED,CJ McCollum,36.6,4,Trail Blazers,Celtics,95 - 88,0, ,2,Jumper
+102,Team,Unknown,None,36.6,4,Celtics,Trail Blazers,95 - 88,1,N/A,N/A,N/A
+103,Al Horford,FG_MISS,None,31.4,4,Celtics,Trail Blazers,95 - 88,1,25,3,Jumper
+104,Marcus Smart,OFFENSIVE_REBOUND,None,30.4,4,Celtics,Trail Blazers,95 - 88,1,N/A,N/A,N/A
+105,CJ McCollum,FOUL_ON_FLOOR,None,28.4,4,Trail Blazers,Celtics,95 - 88,0,N/A,N/A,N/A
+106,Marcus Smart,FT,None,28.4,4,Celtics,Trail Blazers,95 - 89,1,N/A,1,N/A
+107,Marcus Smart,FT_MISS,None,28.4,4,Celtics,Trail Blazers,95 - 89,1,N/A,1,N/A
+108,Al Horford,OFFENSIVE_REBOUND,None,28.4,4,Celtics,Trail Blazers,95 - 89,1,N/A,N/A,N/A
+109,Kyrie Irving,FG_ASSISTED,Al Horford,25.3,4,Celtics,Trail Blazers,95 - 92,1,25,3,Jumper
+110,Marcus Smart,FOUL_ON_FLOOR,None,11.8,4,Celtics,Trail Blazers,95 - 92,1,N/A,N/A,N/A
+111,Damian Lillard,FT,None,11.8,4,Trail Blazers,Celtics,96 - 92,0,N/A,1,N/A
+112,Damian Lillard,FT,None,11.8,4,Trail Blazers,Celtics,97 - 92,0,N/A,1,N/A
+113,Team,Unknown,None,11.8,4,Celtics,Trail Blazers,97 - 92,1,N/A,N/A,N/A
+114,Rodney Hood,SUBSTITUTION,Nurkic Jusuf,11.8,4,Trail Blazers,Celtics,97 - 92,0,N/A,N/A,N/A
+115,Kyrie Irving,FG_MISS,None,8.7,4,Celtics,Trail Blazers,97 - 92,1,29,3,Jumper
+116,Maurice Harkless,DEFENSIVE_REBOUND,None,6.7,4,Trail Blazers,Celtics,97 - 92,0,N/A,N/A,N/A
+117,End of,Unknown,None,0.0,4,Celtics,Trail Blazers,97 - 92,1,N/A,N/A,N/A
+118,End of,Unknown,None,0.0,4,Celtics,Trail Blazers,97 - 92,1,N/A,N/A,N/A

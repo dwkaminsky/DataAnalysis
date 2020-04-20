@@ -1,0 +1,495 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Noah Vonleh,JUMP_BALL,None,12:00,1,Clippers,Knicks,0 - 0,1,N/A,N/A,N/A
+1,Danilo Gallinari,FG_UNASSISTED,None,11:41,1,Clippers,Knicks,0 - 2,1,0,2,Dunk
+2,Dennis Smith,FG_UNASSISTED,None,11:12,1,Knicks,Clippers,2 - 2,0,0,2,Layup
+3,Shai Gilgeous-Alexander,TURNOVER,Dennis Smith,11:01,1,Clippers,Knicks,2 - 2,1,N/A,N/A,N/A
+4,Dennis Smith,FG_ASSISTED,Lance Thomas,10:57,1,Knicks,Clippers,4 - 2,0,-,3,Jumper
+5,Ivica Zubac,FG_MISS,Dennis Smith,10:44,1,Knicks,Clippers,4 - 2,1,0,2,Layup
+6,Damyean Dotson,DEFENSIVE_REBOUND,None,10:41,1,Knicks,Clippers,4 - 2,0,N/A,N/A,N/A
+7,Dennis Smith,FG_MISS,None,10:38,1,Knicks,Clippers,4 - 2,0,28,3,Jumper
+8,Ivica Zubac,DEFENSIVE_REBOUND,None,10:34,1,Clippers,Knicks,4 - 2,1,N/A,N/A,N/A
+9,Danilo Gallinari,FG_ASSISTED,Shai Gilgeous-Alexander,10:28,1,Clippers,Knicks,4 - 4,1,0,2,Layup
+10,Lance Thomas,FG_MISS,None,10:13,1,Knicks,Clippers,4 - 4,0,20,3,Jumper
+11,Landry Shamet,DEFENSIVE_REBOUND,None,10:09,1,Clippers,Knicks,4 - 4,1,N/A,N/A,N/A
+12,Ivica Zubac,TURNOVER,Kevin Knox,9:57,1,Clippers,Knicks,4 - 4,1,N/A,N/A,N/A
+13,Kevin Knox,FG_MISS,None,9:49,1,Knicks,Clippers,4 - 4,0,-,3,Jumper
+14,Patrick Beverley,DEFENSIVE_REBOUND,None,9:45,1,Clippers,Knicks,4 - 4,1,N/A,N/A,N/A
+15,Danilo Gallinari,FG_MISS,None,9:39,1,Clippers,Knicks,4 - 4,1,26,3,Jumper
+16,Noah Vonleh,DEFENSIVE_REBOUND,None,9:36,1,Knicks,Clippers,4 - 4,0,N/A,N/A,N/A
+17,Damyean Dotson,FG_MISS,None,9:30,1,Knicks,Clippers,4 - 4,0,-,3,Jumper
+18,Damyean Dotson,OFFENSIVE_REBOUND,None,9:27,1,Knicks,Clippers,4 - 4,0,N/A,N/A,N/A
+19,Damyean Dotson,FG_MISS,None,9:27,1,Knicks,Clippers,4 - 4,0,-,3,Jumper
+20,Danilo Gallinari,DEFENSIVE_REBOUND,None,9:27,1,Clippers,Knicks,4 - 4,1,N/A,N/A,N/A
+21,Shai Gilgeous-Alexander,FG_MISS,None,9:21,1,Clippers,Knicks,4 - 4,1,-,3,Jumper
+22,Ivica Zubac,OFFENSIVE_REBOUND,None,9:21,1,Clippers,Knicks,4 - 4,1,N/A,N/A,N/A
+23,Landry Shamet,FG_ASSISTED,Ivica Zubac,9:16,1,Clippers,Knicks,4 - 7,1,26,3,Jumper
+24,Kevin Knox,FG_MISS,None,8:57,1,Knicks,Clippers,4 - 7,0,22,3,Jumper
+25,Patrick Beverley,DEFENSIVE_REBOUND,None,8:53,1,Clippers,Knicks,4 - 7,1,N/A,N/A,N/A
+26,Damyean Dotson,FOUL_ON_FLOOR,None,8:50,1,Knicks,Clippers,4 - 7,0,N/A,N/A,N/A
+27,Landry Shamet,FG_ASSISTED,Danilo Gallinari,8:36,1,Clippers,Knicks,4 - 10,1,26,3,Jumper
+28,Team,Unknown,None,8:30,1,Knicks,Clippers,4 - 10,0,N/A,N/A,N/A
+29,Lance Thomas,FG_MISS,None,8:20,1,Knicks,Clippers,4 - 10,0,17,3,Jumper
+30,Patrick Beverley,DEFENSIVE_REBOUND,None,8:17,1,Clippers,Knicks,4 - 10,1,N/A,N/A,N/A
+31,Danilo Gallinari,FG_UNASSISTED,None,7:58,1,Clippers,Knicks,4 - 12,1,18,3,Jumper
+32,Damyean Dotson,FG_ASSISTED,Lance Thomas,7:39,1,Knicks,Clippers,7 - 12,0,27,3,Jumper
+33,Danilo Gallinari,FG_ASSISTED,Patrick Beverley,7:12,1,Clippers,Knicks,7 - 15,1,26,3,Jumper
+34,Damyean Dotson,FG_MISS,None,7:03,1,Knicks,Clippers,7 - 15,0,26,3,Jumper
+35,Danilo Gallinari,DEFENSIVE_REBOUND,None,7:01,1,Clippers,Knicks,7 - 15,1,N/A,N/A,N/A
+36,Dennis Smith,FOUL_ON_FLOOR,None,6:51,1,Knicks,Clippers,7 - 15,0,N/A,N/A,N/A
+37,Allonzo Trier,SUBSTITUTION,Thomas Lance,6:51,1,Knicks,Clippers,7 - 15,0,N/A,N/A,N/A
+38,Mitchell Robinson,SUBSTITUTION,Vonleh Noah,6:51,1,Knicks,Clippers,7 - 15,0,N/A,N/A,N/A
+39,Danilo Gallinari,FG_MISS,None,6:37,1,Clippers,Knicks,7 - 15,1,27,3,Jumper
+40,Ivica Zubac,OFFENSIVE_REBOUND,None,6:33,1,Clippers,Knicks,7 - 15,1,N/A,N/A,N/A
+41,Ivica Zubac,FG_MISS,None,6:33,1,Clippers,Knicks,7 - 15,1, ,3,Jumper
+42,Mitchell Robinson,DEFENSIVE_REBOUND,None,6:33,1,Knicks,Clippers,7 - 15,0,N/A,N/A,N/A
+43,Dennis Smith,FG_MISS,None,6:24,1,Knicks,Clippers,7 - 15,0, ,3,Jumper
+44,Landry Shamet,DEFENSIVE_REBOUND,None,6:19,1,Clippers,Knicks,7 - 15,1,N/A,N/A,N/A
+45,Landry Shamet,FG_MISS,None,6:17,1,Clippers,Knicks,7 - 15,1, ,3,Jumper
+46,Damyean Dotson,DEFENSIVE_REBOUND,None,6:17,1,Knicks,Clippers,7 - 15,0,N/A,N/A,N/A
+47,Damyean Dotson,FG_MISS,None,6:09,1,Knicks,Clippers,7 - 15,0,20,3,Jumper
+48,Patrick Beverley,DEFENSIVE_REBOUND,None,6:06,1,Clippers,Knicks,7 - 15,1,N/A,N/A,N/A
+49,Shai Gilgeous-Alexander,FG_ASSISTED,Patrick Beverley,6:01,1,Clippers,Knicks,7 - 18,1,27,3,Jumper
+50,Emmanuel Mudiay,SUBSTITUTION,Smith Dennis,5:57,1,Knicks,Clippers,7 - 18,0,N/A,N/A,N/A
+51,Team,Unknown,None,5:57,1,Knicks,Clippers,7 - 18,0,N/A,N/A,N/A
+52,Shai Gilgeous-Alexander,FOUL_ON_FLOOR,None,5:45,1,Clippers,Knicks,7 - 18,1,N/A,N/A,N/A
+53,Allonzo Trier,FG_UNASSISTED,None,5:34,1,Knicks,Clippers,10 - 18,0,27,3,Jumper
+54,Landry Shamet,FG_ASSISTED,Danilo Gallinari,5:13,1,Clippers,Knicks,10 - 21,1,27,3,Jumper
+55,Allonzo Trier,TURNOVER,None,4:57,1,Knicks,Clippers,10 - 21,0,N/A,N/A,N/A
+56,Landry Shamet,FG_ASSISTED,Patrick Beverley,4:48,1,Clippers,Knicks,10 - 24,1,25,3,Jumper
+57,Kevin Knox,FG_MISS,None,4:27,1,Knicks,Clippers,10 - 24,0, ,3,Jumper
+58,Patrick Beverley,DEFENSIVE_REBOUND,None,4:25,1,Clippers,Knicks,10 - 24,1,N/A,N/A,N/A
+59,Ivica Zubac,FG_ASSISTED,Danilo Gallinari,4:09,1,Clippers,Knicks,10 - 26,1,0,2,Layup
+60,Allonzo Trier,FG_MISS,None,3:49,1,Knicks,Clippers,10 - 26,0,13,3,Jumper
+61,Ivica Zubac,DEFENSIVE_REBOUND,None,3:45,1,Clippers,Knicks,10 - 26,1,N/A,N/A,N/A
+62,Ivica Zubac,FG_MISS,Mitchell Robinson,3:38,1,Knicks,Clippers,10 - 26,1,20,3,Jumper
+63,Damyean Dotson,DEFENSIVE_REBOUND,None,3:34,1,Knicks,Clippers,10 - 26,0,N/A,N/A,N/A
+64,Allonzo Trier,FG_MISS,None,3:29,1,Knicks,Clippers,10 - 26,0,2,3,Jumper
+65,Ivica Zubac,DEFENSIVE_REBOUND,None,3:27,1,Clippers,Knicks,10 - 26,1,N/A,N/A,N/A
+66,Ivica Zubac,TURNOVER,Emmanuel Mudiay,3:19,1,Clippers,Knicks,10 - 26,1,N/A,N/A,N/A
+67,Emmanuel Mudiay,FG_UNASSISTED,None,3:16,1,Knicks,Clippers,12 - 26,0,0,2,Layup
+68,Landry Shamet,FG_ASSISTED,Ivica Zubac,3:13,1,Clippers,Knicks,12 - 29,1,26,3,Jumper
+69,Emmanuel Mudiay,FG_MISS,None,3:01,1,Knicks,Clippers,12 - 29,0,15,3,Jumper
+70,Danilo Gallinari,DEFENSIVE_REBOUND,None,2:58,1,Clippers,Knicks,12 - 29,1,N/A,N/A,N/A
+71,Ivica Zubac,FG_MISS,Mitchell Robinson,2:48,1,Knicks,Clippers,12 - 29,1,3,3,Jumper
+72,Team,OFFENSIVE_REBOUND,None,2:48,1,Clippers,Knicks,12 - 29,1,N/A,N/A,N/A
+73,Team,Unknown,None,2:48,1,Clippers,Knicks,12 - 29,1,N/A,N/A,N/A
+74,Lou Williams,SUBSTITUTION,Gilgeous-Alexander Shai,2:48,1,Clippers,Knicks,12 - 29,1,N/A,N/A,N/A
+75,Montrezl Harrell,SUBSTITUTION,Zubac Ivica,2:48,1,Clippers,Knicks,12 - 29,1,N/A,N/A,N/A
+76,Henry Ellenson,SUBSTITUTION,Knox Kevin,2:48,1,Knicks,Clippers,12 - 29,0,N/A,N/A,N/A
+77,John Jenkins,SUBSTITUTION,Dotson Damyean,2:48,1,Knicks,Clippers,12 - 29,0,N/A,N/A,N/A
+78,Landry Shamet,FG_ASSISTED,Patrick Beverley,2:40,1,Clippers,Knicks,12 - 32,1,26,3,Jumper
+79,John Jenkins,FG_MISS,None,2:29,1,Knicks,Clippers,12 - 32,0,19,3,Jumper
+80,Danilo Gallinari,DEFENSIVE_REBOUND,None,2:26,1,Clippers,Knicks,12 - 32,1,N/A,N/A,N/A
+81,Lou Williams,FG_MISS,None,2:20,1,Clippers,Knicks,12 - 32,1,20,3,Jumper
+82,Allonzo Trier,DEFENSIVE_REBOUND,None,2:17,1,Knicks,Clippers,12 - 32,0,N/A,N/A,N/A
+83,Patrick Beverley,FOUL_ON_FLOOR,None,2:17,1,Clippers,Knicks,12 - 32,1,N/A,N/A,N/A
+84,JaMychal Green,SUBSTITUTION,Gallinari Danilo,2:17,1,Clippers,Knicks,12 - 32,1,N/A,N/A,N/A
+85,Landry Shamet,FOUL_ON_FLOOR,None,2:07,1,Clippers,Knicks,12 - 32,1,N/A,N/A,N/A
+86,Allonzo Trier,FT,None,2:07,1,Knicks,Clippers,13 - 32,0,N/A,1,N/A
+87,Allonzo Trier,FT,None,2:07,1,Knicks,Clippers,14 - 32,0,N/A,1,N/A
+88,Landry Shamet,FG_MISS,None,1:57,1,Clippers,Knicks,14 - 32,1,25,3,Jumper
+89,Mitchell Robinson,DEFENSIVE_REBOUND,None,1:55,1,Knicks,Clippers,14 - 32,0,N/A,N/A,N/A
+90,Emmanuel Mudiay,FG_MISS,JaMychal Green,1:45,1,Clippers,Knicks,14 - 32,0,0,2,Layup
+91,Team,DEFENSIVE_REBOUND,None,1:45,1,Clippers,Knicks,14 - 32,1,N/A,N/A,N/A
+92,Garrett Temple,SUBSTITUTION,Shamet Landry,1:45,1,Clippers,Knicks,14 - 32,1,N/A,N/A,N/A
+93,Tyrone Wallace,SUBSTITUTION,Beverley Patrick,1:45,1,Clippers,Knicks,14 - 32,1,N/A,N/A,N/A
+94,Lou Williams,FG_MISS,None,1:36,1,Clippers,Knicks,14 - 32,1,0,2,Layup
+95,Mitchell Robinson,DEFENSIVE_REBOUND,None,1:34,1,Knicks,Clippers,14 - 32,0,N/A,N/A,N/A
+96,Mitchell Robinson,FG_ASSISTED,Allonzo Trier,1:21,1,Knicks,Clippers,16 - 32,0,0,2,Dunk
+97,JaMychal Green,FG_ASSISTED,Lou Williams,1:03,1,Clippers,Knicks,16 - 34,1,0,2,Layup
+98,Garrett Temple,FOUL_ON_FLOOR,None,47.1,1,Clippers,Knicks,16 - 34,1,N/A,N/A,N/A
+99,Henry Ellenson,FT,None,47.1,1,Knicks,Clippers,17 - 34,0,N/A,1,N/A
+100,Henry Ellenson,FT,None,47.1,1,Knicks,Clippers,18 - 34,0,N/A,1,N/A
+101,Henry Ellenson,FOUL_ON_FLOOR,None,40.4,1,Knicks,Clippers,18 - 34,0,N/A,N/A,N/A
+102,JaMychal Green,FG_ASSISTED,Tyrone Wallace,36.0,1,Clippers,Knicks,18 - 37,1,22,3,Jumper
+103,Henry Ellenson,TURNOVER,None,17.1,1,Knicks,Clippers,18 - 37,0,N/A,N/A,N/A
+104,Mitchell Robinson,FOUL_ON_FLOOR,None,7.5,1,Knicks,Clippers,18 - 37,0,N/A,N/A,N/A
+105,Lou Williams,FT_MISS,None,7.5,1,Clippers,Knicks,18 - 37,1,N/A,1,N/A
+106,Team,OFFENSIVE_REBOUND,None,7.5,1,Clippers,Knicks,18 - 37,1,N/A,N/A,N/A
+107,Lou Williams,FT,None,7.5,1,Clippers,Knicks,18 - 38,1,N/A,1,N/A
+108,Mitchell Robinson,FG_ASSISTED,Emmanuel Mudiay,3.1,1,Knicks,Clippers,20 - 38,0,0,2,Dunk
+109,Lou Williams,FG_MISS,None,0.2,1,Clippers,Knicks,20 - 38,1,29,3,Jumper
+110,Team,OFFENSIVE_REBOUND,None,0.1,1,Clippers,Knicks,20 - 38,1,N/A,N/A,N/A
+111,End of,Unknown,None,0.0,1,Clippers,Knicks,20 - 38,1,N/A,N/A,N/A
+0,Garrett Temple,FOUL_ON_FLOOR,None,11:40,2,Clippers,Knicks,20 - 38,1,N/A,N/A,N/A
+1,Henry Ellenson,TURNOVER,None,11:31,2,Knicks,Clippers,20 - 38,0,N/A,N/A,N/A
+2,Henry Ellenson,TURNOVER,None,11:31,2,Knicks,Clippers,20 - 38,0,N/A,N/A,N/A
+3,Montrezl Harrell,FG_MISS,Mitchell Robinson,11:13,2,Knicks,Clippers,20 - 38,1,2,3,Jumper
+4,Team,OFFENSIVE_REBOUND,None,11:13,2,Clippers,Knicks,20 - 38,1,N/A,N/A,N/A
+5,Montrezl Harrell,FG_ASSISTED,Tyrone Wallace,11:11,2,Clippers,Knicks,20 - 40,1,0,2,Dunk
+6,Allonzo Trier,TURNOVER,Tyrone Wallace,10:46,2,Knicks,Clippers,20 - 40,0,N/A,N/A,N/A
+7,Tyrone Wallace,FG_UNASSISTED,None,10:42,2,Clippers,Knicks,20 - 42,1,0,2,Dunk
+8,John Jenkins,FG_MISS,None,10:32,2,Knicks,Clippers,20 - 42,0,19,3,Jumper
+9,Montrezl Harrell,DEFENSIVE_REBOUND,None,10:28,2,Clippers,Knicks,20 - 42,1,N/A,N/A,N/A
+10,Montrezl Harrell,TURNOVER,None,10:27,2,Clippers,Knicks,20 - 42,1,N/A,N/A,N/A
+11,Henry Ellenson,FG_MISS,None,10:14,2,Knicks,Clippers,20 - 42,0,27,3,Jumper
+12,Garrett Temple,DEFENSIVE_REBOUND,None,10:11,2,Clippers,Knicks,20 - 42,1,N/A,N/A,N/A
+13,Henry Ellenson,FOUL_ON_FLOOR,None,10:08,2,Knicks,Clippers,20 - 42,0,N/A,N/A,N/A
+14,Lance Thomas,SUBSTITUTION,for game,10:08,2,Knicks,Clippers,20 - 42,0,N/A,N/A,N/A
+15,Lance Thomas,SUBSTITUTION,for game,10:08,2,Knicks,Clippers,20 - 42,0,N/A,N/A,N/A
+16,Lance Thomas,SUBSTITUTION,Jenkins John,10:08,2,Knicks,Clippers,20 - 42,0,N/A,N/A,N/A
+17,enters the,SUBSTITUTION,Ellenson Henry,10:08,2,Knicks,Clippers,20 - 42,0,N/A,N/A,N/A
+18,Mitchell Robinson,FOUL_ON_FLOOR,None,10:03,2,Knicks,Clippers,20 - 42,0,N/A,N/A,N/A
+19,Lou Williams,FT,None,10:03,2,Clippers,Knicks,20 - 43,1,N/A,1,N/A
+20,Lou Williams,FT,None,10:03,2,Clippers,Knicks,20 - 44,1,N/A,1,N/A
+21,Lou Williams,FT,None,10:03,2,Clippers,Knicks,20 - 45,1,N/A,1,N/A
+22,Mitchell Robinson,FG_ASSISTED,Allonzo Trier,9:48,2,Knicks,Clippers,22 - 45,0,0,2,Dunk
+23,Allonzo Trier,FOUL_ON_FLOOR,None,9:40,2,Knicks,Clippers,22 - 45,0,N/A,N/A,N/A
+24,Lou Williams,FT,None,9:40,2,Clippers,Knicks,22 - 46,1,N/A,1,N/A
+25,Lou Williams,FT,None,9:40,2,Clippers,Knicks,22 - 47,1,N/A,1,N/A
+26,Allonzo Trier,TURNOVER,Lou Williams,9:28,2,Knicks,Clippers,22 - 47,0,N/A,N/A,N/A
+27,JaMychal Green,FG_MISS,None,9:23,2,Clippers,Knicks,22 - 47,1,0,2,Layup
+28,Mitchell Robinson,DEFENSIVE_REBOUND,None,9:16,2,Knicks,Clippers,22 - 47,0,N/A,N/A,N/A
+29,Emmanuel Mudiay,FG_ASSISTED,Lance Thomas,9:08,2,Knicks,Clippers,25 - 47,0,28,3,Jumper
+30,Lou Williams,FG_ASSISTED,Montrezl Harrell,8:56,2,Clippers,Knicks,25 - 50,1,27,3,Jumper
+31,Emmanuel Mudiay,FG_ASSISTED,Lance Thomas,8:38,2,Knicks,Clippers,27 - 50,0,0,2,Layup
+32,JaMychal Green,FG_ASSISTED,Tyrone Wallace,8:25,2,Clippers,Knicks,27 - 53,1,26,3,Jumper
+33,Team,Unknown,None,8:14,2,Knicks,Clippers,27 - 53,0,N/A,N/A,N/A
+34,Kevin Knox,SUBSTITUTION,Trier Allonzo,8:14,2,Knicks,Clippers,27 - 53,0,N/A,N/A,N/A
+35,Dennis Smith,JUMP_BALL,None,7:57,2,Knicks,Clippers,27 - 53,0,N/A,N/A,N/A
+36,Lance Thomas,FG_MISS,None,7:52,2,Knicks,Clippers,27 - 53,0,20,3,Jumper
+37,Garrett Temple,DEFENSIVE_REBOUND,None,7:50,2,Clippers,Knicks,27 - 53,1,N/A,N/A,N/A
+38,Montrezl Harrell,FG_MISS,None,7:44,2,Clippers,Knicks,27 - 53,1,0,2,Layup
+39,Montrezl Harrell,OFFENSIVE_REBOUND,None,7:38,2,Clippers,Knicks,27 - 53,1,N/A,N/A,N/A
+40,Montrezl Harrell,FG_UNASSISTED,None,7:38,2,Clippers,Knicks,27 - 55,1, ,3,Jumper
+41,Mitchell Robinson,FOUL_ON_FLOOR,None,7:36,2,Knicks,Clippers,27 - 55,0,N/A,N/A,N/A
+42,Mitchell Robinson,TURNOVER,None,7:36,2,Knicks,Clippers,27 - 55,0,N/A,N/A,N/A
+43,Noah Vonleh,SUBSTITUTION,Robinson Mitchell,7:36,2,Knicks,Clippers,27 - 55,0,N/A,N/A,N/A
+44,Damyean Dotson,SUBSTITUTION,Thomas Lance,7:36,2,Knicks,Clippers,27 - 55,0,N/A,N/A,N/A
+45,Lou Williams,TURNOVER,Emmanuel Mudiay,7:26,2,Clippers,Knicks,27 - 55,1,N/A,N/A,N/A
+46,JaMychal Green,FOUL_ON_FLOOR,None,7:26,2,Clippers,Knicks,27 - 55,1,N/A,N/A,N/A
+47,Emmanuel Mudiay,FG_ASSISTED,Dennis Smith,7:14,2,Knicks,Clippers,29 - 55,0,21,3,Jumper
+48,Montrezl Harrell,FG_ASSISTED,Lou Williams,7:08,2,Clippers,Knicks,29 - 57,1,0,2,Layup
+49,Noah Vonleh,FOUL_ON_FLOOR,None,7:08,2,Knicks,Clippers,29 - 57,0,N/A,N/A,N/A
+50,Montrezl Harrell,FT_MISS,None,7:08,2,Clippers,Knicks,29 - 57,1,N/A,1,N/A
+51,Kevin Knox,DEFENSIVE_REBOUND,None,7:03,2,Knicks,Clippers,29 - 57,0,N/A,N/A,N/A
+52,Kevin Knox,FG_UNASSISTED,None,7:00,2,Knicks,Clippers,31 - 57,0,14,3,Jumper
+53,JaMychal Green,FOUL_ON_FLOOR,None,7:00,2,Clippers,Knicks,31 - 57,1,N/A,N/A,N/A
+54,Shai Gilgeous-Alexander,SUBSTITUTION,Wallace Tyrone,7:00,2,Clippers,Knicks,31 - 57,1,N/A,N/A,N/A
+55,Kevin Knox,FT,None,7:00,2,Knicks,Clippers,32 - 57,0,N/A,1,N/A
+56,Lou Williams,FG_MISS,None,6:43,2,Clippers,Knicks,32 - 57,1,15,3,Jumper
+57,JaMychal Green,OFFENSIVE_REBOUND,None,6:43,2,Clippers,Knicks,32 - 57,1,N/A,N/A,N/A
+58,JaMychal Green,FG_UNASSISTED,None,6:43,2,Clippers,Knicks,32 - 59,1,0,2,Layup
+59,Kevin Knox,FOUL_ON_FLOOR,None,6:43,2,Knicks,Clippers,32 - 59,0,N/A,N/A,N/A
+60,JaMychal Green,FT,None,6:43,2,Clippers,Knicks,32 - 60,1,N/A,1,N/A
+61,Montrezl Harrell,FOUL_ON_FLOOR,None,6:33,2,Clippers,Knicks,32 - 60,1,N/A,N/A,N/A
+62,Noah Vonleh,FT_MISS,None,6:33,2,Knicks,Clippers,32 - 60,0,N/A,1,N/A
+63,Team,OFFENSIVE_REBOUND,None,6:33,2,Knicks,Clippers,32 - 60,0,N/A,N/A,N/A
+64,Patrick Beverley,SUBSTITUTION,Temple Garrett,6:33,2,Clippers,Knicks,32 - 60,1,N/A,N/A,N/A
+65,Noah Vonleh,FT,None,6:33,2,Knicks,Clippers,33 - 60,0,N/A,1,N/A
+66,Shai Gilgeous-Alexander,FG_ASSISTED,Lou Williams,6:22,2,Clippers,Knicks,33 - 63,1,23,3,Jumper
+67,Noah Vonleh,FG_ASSISTED,Dennis Smith,6:09,2,Knicks,Clippers,35 - 63,0, ,3,Jumper
+68,Lou Williams,FG_MISS,None,5:53,2,Clippers,Knicks,35 - 63,1,21,3,Jumper
+69,Team,OFFENSIVE_REBOUND,None,5:53,2,Clippers,Knicks,35 - 63,1,N/A,N/A,N/A
+70,Danilo Gallinari,SUBSTITUTION,Green JaMychal,5:53,2,Clippers,Knicks,35 - 63,1,N/A,N/A,N/A
+71,Landry Shamet,SUBSTITUTION,Williams Lou,5:53,2,Clippers,Knicks,35 - 63,1,N/A,N/A,N/A
+72,Luke Kornet,SUBSTITUTION,Mudiay Emmanuel,5:53,2,Knicks,Clippers,35 - 63,0,N/A,N/A,N/A
+73,Montrezl Harrell,FG_UNASSISTED,None,5:46,2,Clippers,Knicks,35 - 65,1,5,3,Jumper
+74,Dennis Smith,FG_MISS,None,5:34,2,Knicks,Clippers,35 - 65,0,0,2,Layup
+75,Shai Gilgeous-Alexander,DEFENSIVE_REBOUND,None,5:32,2,Clippers,Knicks,35 - 65,1,N/A,N/A,N/A
+76,Shai Gilgeous-Alexander,FG_UNASSISTED,None,5:28,2,Clippers,Knicks,35 - 67,1, ,3,Jumper
+77,Dennis Smith,FOUL_ON_FLOOR,None,5:28,2,Knicks,Clippers,35 - 67,0,N/A,N/A,N/A
+78,Ivica Zubac,SUBSTITUTION,Harrell Montrezl,5:28,2,Clippers,Knicks,35 - 67,1,N/A,N/A,N/A
+79,Shai Gilgeous-Alexander,FT,None,5:28,2,Clippers,Knicks,35 - 68,1,N/A,1,N/A
+80,Shai Gilgeous-Alexander,FOUL_ON_FLOOR,None,5:19,2,Clippers,Knicks,35 - 68,1,N/A,N/A,N/A
+81,Damyean Dotson,FT,None,5:19,2,Knicks,Clippers,36 - 68,0,N/A,1,N/A
+82,Damyean Dotson,FT,None,5:19,2,Knicks,Clippers,37 - 68,0,N/A,1,N/A
+83,Danilo Gallinari,FG_MISS,None,4:54,2,Clippers,Knicks,37 - 68,1,17,3,Jumper
+84,Dennis Smith,DEFENSIVE_REBOUND,None,4:53,2,Knicks,Clippers,37 - 68,0,N/A,N/A,N/A
+85,Damyean Dotson,FG_ASSISTED,Dennis Smith,4:49,2,Knicks,Clippers,39 - 68,0, ,3,Jumper
+86,Danilo Gallinari,FG_ASSISTED,Patrick Beverley,4:36,2,Clippers,Knicks,39 - 70,1,0,2,Layup
+87,Luke Kornet,FOUL_ON_FLOOR,None,4:36,2,Knicks,Clippers,39 - 70,0,N/A,N/A,N/A
+88,Danilo Gallinari,FT,None,4:36,2,Clippers,Knicks,39 - 71,1,N/A,1,N/A
+89,Dennis Smith,TURNOVER,None,4:30,2,Knicks,Clippers,39 - 71,0,N/A,N/A,N/A
+90,Danilo Gallinari,TURNOVER,Dennis Smith,4:14,2,Clippers,Knicks,39 - 71,1,N/A,N/A,N/A
+91,Danilo Gallinari,FOUL_ON_FLOOR,None,4:14,2,Clippers,Knicks,39 - 71,1,N/A,N/A,N/A
+92,Kevin Knox,FT,None,4:14,2,Knicks,Clippers,40 - 71,0,N/A,1,N/A
+93,Kevin Knox,FT,None,4:14,2,Knicks,Clippers,41 - 71,0,N/A,1,N/A
+94,Landry Shamet,FG_ASSISTED,Shai Gilgeous-Alexander,4:00,2,Clippers,Knicks,41 - 74,1,27,3,Jumper
+95,Kevin Knox,TURNOVER,None,3:57,2,Knicks,Clippers,41 - 74,0,N/A,N/A,N/A
+96,Ivica Zubac,FG_MISS,None,3:53,2,Clippers,Knicks,41 - 74,1,15,3,Jumper
+97,Noah Vonleh,DEFENSIVE_REBOUND,None,3:46,2,Knicks,Clippers,41 - 74,0,N/A,N/A,N/A
+98,Patrick Beverley,FOUL_ON_FLOOR,None,3:46,2,Clippers,Knicks,41 - 74,1,N/A,N/A,N/A
+99,Dennis Smith,FT_MISS,None,3:46,2,Knicks,Clippers,41 - 74,0,N/A,1,N/A
+100,Team,OFFENSIVE_REBOUND,None,3:46,2,Knicks,Clippers,41 - 74,0,N/A,N/A,N/A
+101,Emmanuel Mudiay,SUBSTITUTION,Knox Kevin,3:46,2,Knicks,Clippers,41 - 74,0,N/A,N/A,N/A
+102,Dennis Smith,FT,None,3:46,2,Knicks,Clippers,42 - 74,0,N/A,1,N/A
+103,Shai Gilgeous-Alexander,FG_UNASSISTED,None,3:33,2,Clippers,Knicks,42 - 76,1,20,3,Jumper
+104,Emmanuel Mudiay,FG_MISS,None,3:17,2,Knicks,Clippers,42 - 76,0,26,3,Jumper
+105,Team,DEFENSIVE_REBOUND,None,3:14,2,Clippers,Knicks,42 - 76,1,N/A,N/A,N/A
+106,Ivica Zubac,FG_ASSISTED,Shai Gilgeous-Alexander,3:05,2,Clippers,Knicks,42 - 78,1,0,2,Dunk
+107,Ivica Zubac,FOUL_ON_FLOOR,None,2:54,2,Clippers,Knicks,42 - 78,1,N/A,N/A,N/A
+108,Team,Unknown,None,2:54,2,Clippers,Knicks,42 - 78,1,N/A,N/A,N/A
+109,Noah Vonleh,FT,None,2:54,2,Knicks,Clippers,43 - 78,0,N/A,1,N/A
+110,Noah Vonleh,FT,None,2:54,2,Knicks,Clippers,44 - 78,0,N/A,1,N/A
+111,Danilo Gallinari,FG_MISS,Luke Kornet,2:36,2,Knicks,Clippers,44 - 78,1,0,2,Dunk
+112,Team,OFFENSIVE_REBOUND,None,2:36,2,Clippers,Knicks,44 - 78,1,N/A,N/A,N/A
+113,Patrick Beverley,FG_MISS,None,2:28,2,Clippers,Knicks,44 - 78,1,7,3,Jumper
+114,Emmanuel Mudiay,DEFENSIVE_REBOUND,None,2:25,2,Knicks,Clippers,44 - 78,0,N/A,N/A,N/A
+115,Dennis Smith,FG_MISS,None,2:15,2,Knicks,Clippers,44 - 78,0,0,2,Layup
+116,Danilo Gallinari,DEFENSIVE_REBOUND,None,2:12,2,Clippers,Knicks,44 - 78,1,N/A,N/A,N/A
+117,Danilo Gallinari,TURNOVER,None,2:01,2,Clippers,Knicks,44 - 78,1,N/A,N/A,N/A
+118,Damyean Dotson,FG_MISS,None,1:46,2,Knicks,Clippers,44 - 78,0,27,3,Jumper
+119,Ivica Zubac,DEFENSIVE_REBOUND,None,1:43,2,Clippers,Knicks,44 - 78,1,N/A,N/A,N/A
+120,Danilo Gallinari,FG_ASSISTED,Ivica Zubac,1:34,2,Clippers,Knicks,44 - 81,1,26,3,Jumper
+121,Noah Vonleh,TURNOVER,Shai Gilgeous-Alexander,1:18,2,Knicks,Clippers,44 - 81,0,N/A,N/A,N/A
+122,Noah Vonleh,FOUL_ON_FLOOR,None,1:11,2,Knicks,Clippers,44 - 81,0,N/A,N/A,N/A
+123,Ivica Zubac,FT_MISS,None,1:11,2,Clippers,Knicks,44 - 81,1,N/A,1,N/A
+124,Team,OFFENSIVE_REBOUND,None,1:11,2,Clippers,Knicks,44 - 81,1,N/A,N/A,N/A
+125,Ivica Zubac,FT,None,1:11,2,Clippers,Knicks,44 - 82,1,N/A,1,N/A
+126,Luke Kornet,FG_MISS,None,58.8,2,Knicks,Clippers,44 - 82,0, ,3,Jumper
+127,Patrick Beverley,DEFENSIVE_REBOUND,None,56.2,2,Clippers,Knicks,44 - 82,1,N/A,N/A,N/A
+128,Patrick Beverley,FG_MISS,None,33.6,2,Clippers,Knicks,44 - 82,1,26,3,Jumper
+129,Emmanuel Mudiay,DEFENSIVE_REBOUND,None,31.6,2,Knicks,Clippers,44 - 82,0,N/A,N/A,N/A
+130,Damyean Dotson,FG_MISS,None,27.2,2,Knicks,Clippers,44 - 82,0,2,3,Jumper
+131,Patrick Beverley,DEFENSIVE_REBOUND,None,23.7,2,Clippers,Knicks,44 - 82,1,N/A,N/A,N/A
+132,Landry Shamet,FG_MISS,None,4.7,2,Clippers,Knicks,44 - 82,1,24,3,Jumper
+133,Noah Vonleh,DEFENSIVE_REBOUND,None,1.8,2,Knicks,Clippers,44 - 82,0,N/A,N/A,N/A
+134,Patrick Beverley,FOUL_ON_FLOOR,None,1.0,2,Clippers,Knicks,44 - 82,1,N/A,N/A,N/A
+135,Emmanuel Mudiay,FT,None,1.0,2,Knicks,Clippers,45 - 82,0,N/A,1,N/A
+136,Emmanuel Mudiay,FT,None,1.0,2,Knicks,Clippers,46 - 82,0,N/A,1,N/A
+137,End of,Unknown,None,0.0,2,Clippers,Knicks,46 - 82,1,N/A,N/A,N/A
+0,Kevin Knox,SUBSTITUTION,Mudiay Emmanuel,12:00,3,Knicks,Clippers,46 - 82,0,N/A,N/A,N/A
+1,Noah Vonleh,FG_UNASSISTED,None,11:39,3,Knicks,Clippers,48 - 82,0,0,2,Layup
+2,Ivica Zubac,FOUL_ON_FLOOR,None,11:34,3,Clippers,Knicks,48 - 82,1,N/A,N/A,N/A
+3,Ivica Zubac,TURNOVER,None,11:34,3,Clippers,Knicks,48 - 82,1,N/A,N/A,N/A
+4,Noah Vonleh,FG_UNASSISTED,None,11:19,3,Knicks,Clippers,50 - 82,0,5,3,Jumper
+5,Ivica Zubac,FOUL_ON_FLOOR,None,11:19,3,Clippers,Knicks,50 - 82,1,N/A,N/A,N/A
+6,Noah Vonleh,FT,None,11:19,3,Knicks,Clippers,51 - 82,0,N/A,1,N/A
+7,Danilo Gallinari,FG_MISS,None,10:59,3,Clippers,Knicks,51 - 82,1,16,3,Jumper
+8,Noah Vonleh,DEFENSIVE_REBOUND,None,10:56,3,Knicks,Clippers,51 - 82,0,N/A,N/A,N/A
+9,Noah Vonleh,FG_ASSISTED,Dennis Smith,10:50,3,Knicks,Clippers,54 - 82,0,27,3,Jumper
+10,Danilo Gallinari,FG_MISS,None,10:33,3,Clippers,Knicks,54 - 82,1,28,3,Jumper
+11,Noah Vonleh,DEFENSIVE_REBOUND,None,10:30,3,Knicks,Clippers,54 - 82,0,N/A,N/A,N/A
+12,Noah Vonleh,FG_MISS,None,10:23,3,Knicks,Clippers,54 - 82,0,26,3,Jumper
+13,Shai Gilgeous-Alexander,DEFENSIVE_REBOUND,None,10:19,3,Clippers,Knicks,54 - 82,1,N/A,N/A,N/A
+14,Danilo Gallinari,FG_ASSISTED,Shai Gilgeous-Alexander,10:12,3,Clippers,Knicks,54 - 85,1,27,3,Jumper
+15,Kevin Knox,FG_MISS,None,9:51,3,Knicks,Clippers,54 - 85,0,22,3,Jumper
+16,Ivica Zubac,DEFENSIVE_REBOUND,None,9:49,3,Clippers,Knicks,54 - 85,1,N/A,N/A,N/A
+17,Shai Gilgeous-Alexander,FG_UNASSISTED,None,9:46,3,Clippers,Knicks,54 - 87,1, ,3,Jumper
+18,Patrick Beverley,FOUL_ON_FLOOR,None,9:41,3,Clippers,Knicks,54 - 87,1,N/A,N/A,N/A
+19,Kevin Knox,FT_MISS,None,9:41,3,Knicks,Clippers,54 - 87,0,N/A,1,N/A
+20,Team,OFFENSIVE_REBOUND,None,9:41,3,Knicks,Clippers,54 - 87,0,N/A,N/A,N/A
+21,Kevin Knox,FT,None,9:41,3,Knicks,Clippers,55 - 87,0,N/A,1,N/A
+22,Danilo Gallinari,FG_ASSISTED,Ivica Zubac,9:23,3,Clippers,Knicks,55 - 89,1,0,2,Dunk
+23,Dennis Smith,FG_UNASSISTED,None,9:11,3,Knicks,Clippers,57 - 89,0,19,3,Jumper
+24,Patrick Beverley,FG_ASSISTED,Danilo Gallinari,8:55,3,Clippers,Knicks,57 - 92,1,25,3,Jumper
+25,Team,Unknown,None,8:55,3,Knicks,Clippers,57 - 92,0,N/A,N/A,N/A
+26,Shai Gilgeous-Alexander,FOUL_ON_FLOOR,None,8:47,3,Clippers,Knicks,57 - 92,1,N/A,N/A,N/A
+27,Dennis Smith,FT_MISS,None,8:47,3,Knicks,Clippers,57 - 92,0,N/A,1,N/A
+28,Team,OFFENSIVE_REBOUND,None,8:47,3,Knicks,Clippers,57 - 92,0,N/A,N/A,N/A
+29,Dennis Smith,FT,None,8:47,3,Knicks,Clippers,58 - 92,0,N/A,1,N/A
+30,Ivica Zubac,FG_MISS,None,8:31,3,Clippers,Knicks,58 - 92,1,0,2,Dunk
+31,Noah Vonleh,DEFENSIVE_REBOUND,None,8:27,3,Knicks,Clippers,58 - 92,0,N/A,N/A,N/A
+32,Noah Vonleh,FG_ASSISTED,Dennis Smith,8:21,3,Knicks,Clippers,60 - 92,0,0,2,Layup
+33,Landry Shamet,FG_MISS,None,8:01,3,Clippers,Knicks,60 - 92,1,27,3,Jumper
+34,Danilo Gallinari,OFFENSIVE_REBOUND,None,7:58,3,Clippers,Knicks,60 - 92,1,N/A,N/A,N/A
+35,Danilo Gallinari,FOUL_ON_FLOOR,None,7:58,3,Clippers,Knicks,60 - 92,1,N/A,N/A,N/A
+36,Danilo Gallinari,TURNOVER,None,7:58,3,Clippers,Knicks,60 - 92,1,N/A,N/A,N/A
+37,Montrezl Harrell,SUBSTITUTION,Zubac Ivica,7:58,3,Clippers,Knicks,60 - 92,1,N/A,N/A,N/A
+38,Damyean Dotson,FG_MISS,None,7:49,3,Knicks,Clippers,60 - 92,0,26,3,Jumper
+39,Montrezl Harrell,DEFENSIVE_REBOUND,None,7:44,3,Clippers,Knicks,60 - 92,1,N/A,N/A,N/A
+40,Montrezl Harrell,TURNOVER,Luke Kornet,7:28,3,Clippers,Knicks,60 - 92,1,N/A,N/A,N/A
+41,Dennis Smith,FG_MISS,None,7:21,3,Knicks,Clippers,60 - 92,0,17,3,Jumper
+42,Patrick Beverley,DEFENSIVE_REBOUND,None,7:17,3,Clippers,Knicks,60 - 92,1,N/A,N/A,N/A
+43,Montrezl Harrell,TURNOVER,None,7:06,3,Clippers,Knicks,60 - 92,1,N/A,N/A,N/A
+44,Luke Kornet,FG_MISS,None,6:47,3,Knicks,Clippers,60 - 92,0,14,3,Jumper
+45,Danilo Gallinari,DEFENSIVE_REBOUND,None,6:44,3,Clippers,Knicks,60 - 92,1,N/A,N/A,N/A
+46,Shai Gilgeous-Alexander,FG_MISS,None,6:30,3,Clippers,Knicks,60 - 92,1,13,3,Jumper
+47,Kevin Knox,DEFENSIVE_REBOUND,None,6:26,3,Knicks,Clippers,60 - 92,0,N/A,N/A,N/A
+48,Dennis Smith,FG_MISS,None,6:21,3,Knicks,Clippers,60 - 92,0,26,3,Jumper
+49,Patrick Beverley,DEFENSIVE_REBOUND,None,6:20,3,Clippers,Knicks,60 - 92,1,N/A,N/A,N/A
+50,Team,Unknown,None,6:20,3,Clippers,Knicks,60 - 92,1,N/A,N/A,N/A
+51,shot clock,TURNOVER,None,5:56,3,Clippers,Knicks,60 - 92,1,N/A,N/A,N/A
+52,Damyean Dotson,FG_ASSISTED,Noah Vonleh,5:37,3,Knicks,Clippers,63 - 92,0,27,3,Jumper
+53,Noah Vonleh,FOUL_ON_FLOOR,None,5:23,3,Knicks,Clippers,63 - 92,0,N/A,N/A,N/A
+54,Lou Williams,SUBSTITUTION,Gilgeous-Alexander Shai,5:23,3,Clippers,Knicks,63 - 92,1,N/A,N/A,N/A
+55,Danilo Gallinari,FG_MISS,None,5:10,3,Clippers,Knicks,63 - 92,1,0,2,Layup
+56,Noah Vonleh,DEFENSIVE_REBOUND,None,5:06,3,Knicks,Clippers,63 - 92,0,N/A,N/A,N/A
+57,Kevin Knox,FG_MISS,None,5:00,3,Knicks,Clippers,63 - 92,0,4,3,Jumper
+58,Landry Shamet,DEFENSIVE_REBOUND,None,4:57,3,Clippers,Knicks,63 - 92,1,N/A,N/A,N/A
+59,Landry Shamet,FG_MISS,Noah Vonleh,4:54,3,Knicks,Clippers,63 - 92,1,3,3,Jumper
+60,Noah Vonleh,DEFENSIVE_REBOUND,None,4:51,3,Knicks,Clippers,63 - 92,0,N/A,N/A,N/A
+61,Dennis Smith,FG_MISS,None,4:46,3,Knicks,Clippers,63 - 92,0,25,3,Jumper
+62,Patrick Beverley,DEFENSIVE_REBOUND,None,4:42,3,Clippers,Knicks,63 - 92,1,N/A,N/A,N/A
+63,Lou Williams,FG_MISS,Luke Kornet,4:32,3,Knicks,Clippers,63 - 92,1,26,3,Jumper
+64,Damyean Dotson,DEFENSIVE_REBOUND,None,4:26,3,Knicks,Clippers,63 - 92,0,N/A,N/A,N/A
+65,Noah Vonleh,TURNOVER,None,4:23,3,Knicks,Clippers,63 - 92,0,N/A,N/A,N/A
+66,Noah Vonleh,TURNOVER,None,4:23,3,Knicks,Clippers,63 - 92,0,N/A,N/A,N/A
+67,JaMychal Green,SUBSTITUTION,Gallinari Danilo,4:23,3,Clippers,Knicks,63 - 92,1,N/A,N/A,N/A
+68,Emmanuel Mudiay,SUBSTITUTION,Smith Dennis,4:23,3,Knicks,Clippers,63 - 92,0,N/A,N/A,N/A
+69,Patrick Beverley,TURNOVER,Damyean Dotson,4:11,3,Clippers,Knicks,63 - 92,1,N/A,N/A,N/A
+70,Damyean Dotson,FG_ASSISTED,Luke Kornet,4:06,3,Knicks,Clippers,66 - 92,0,27,3,Jumper
+71,Lou Williams,FG_MISS,None,3:43,3,Clippers,Knicks,66 - 92,1,29,3,Jumper
+72,Kevin Knox,DEFENSIVE_REBOUND,None,3:40,3,Knicks,Clippers,66 - 92,0,N/A,N/A,N/A
+73,Patrick Beverley,FOUL_ON_FLOOR,None,3:35,3,Clippers,Knicks,66 - 92,1,N/A,N/A,N/A
+74,Garrett Temple,SUBSTITUTION,Beverley Patrick,3:35,3,Clippers,Knicks,66 - 92,1,N/A,N/A,N/A
+75,Damyean Dotson,FG_ASSISTED,Emmanuel Mudiay,3:26,3,Knicks,Clippers,69 - 92,0,24,3,Jumper
+76,JaMychal Green,FG_MISS,None,3:11,3,Clippers,Knicks,69 - 92,1,25,3,Jumper
+77,Noah Vonleh,DEFENSIVE_REBOUND,None,3:07,3,Knicks,Clippers,69 - 92,0,N/A,N/A,N/A
+78,Garrett Temple,FOUL_ON_FLOOR,None,3:05,3,Clippers,Knicks,69 - 92,1,N/A,N/A,N/A
+79,Damyean Dotson,FT_MISS,None,3:05,3,Knicks,Clippers,69 - 92,0,N/A,1,N/A
+80,Team,OFFENSIVE_REBOUND,None,3:05,3,Knicks,Clippers,69 - 92,0,N/A,N/A,N/A
+81,Tyrone Wallace,SUBSTITUTION,Shamet Landry,3:05,3,Clippers,Knicks,69 - 92,1,N/A,N/A,N/A
+82,Damyean Dotson,FT,None,3:05,3,Knicks,Clippers,70 - 92,0,N/A,1,N/A
+83,Noah Vonleh,FOUL_ON_FLOOR,None,2:56,3,Knicks,Clippers,70 - 92,0,N/A,N/A,N/A
+84,Lou Williams,FT,None,2:56,3,Clippers,Knicks,70 - 93,1,N/A,1,N/A
+85,Mitchell Robinson,SUBSTITUTION,Vonleh Noah,2:56,3,Knicks,Clippers,70 - 93,0,N/A,N/A,N/A
+86,Lou Williams,FT,None,2:56,3,Clippers,Knicks,70 - 94,1,N/A,1,N/A
+87,Emmanuel Mudiay,FG_MISS,None,2:39,3,Knicks,Clippers,70 - 94,0, ,3,Jumper
+88,Lou Williams,DEFENSIVE_REBOUND,None,2:37,3,Clippers,Knicks,70 - 94,1,N/A,N/A,N/A
+89,JaMychal Green,FG_MISS,None,2:30,3,Clippers,Knicks,70 - 94,1,0,2,Layup
+90,Luke Kornet,DEFENSIVE_REBOUND,None,2:27,3,Knicks,Clippers,70 - 94,0,N/A,N/A,N/A
+91,Damyean Dotson,FG_MISS,None,2:17,3,Knicks,Clippers,70 - 94,0,27,3,Jumper
+92,JaMychal Green,DEFENSIVE_REBOUND,None,2:12,3,Clippers,Knicks,70 - 94,1,N/A,N/A,N/A
+93,Allonzo Trier,SUBSTITUTION,Knox Kevin,2:07,3,Knicks,Clippers,70 - 94,0,N/A,N/A,N/A
+94,JaMychal Green,FG_MISS,None,1:58,3,Clippers,Knicks,70 - 94,1,22,3,Jumper
+95,Mitchell Robinson,DEFENSIVE_REBOUND,None,1:54,3,Knicks,Clippers,70 - 94,0,N/A,N/A,N/A
+96,Emmanuel Mudiay,TURNOVER,Montrezl Harrell,1:48,3,Knicks,Clippers,70 - 94,0,N/A,N/A,N/A
+97,Montrezl Harrell,FG_MISS,None,1:42,3,Clippers,Knicks,70 - 94,1, ,3,Jumper
+98,JaMychal Green,OFFENSIVE_REBOUND,None,1:38,3,Clippers,Knicks,70 - 94,1,N/A,N/A,N/A
+99,JaMychal Green,FG_UNASSISTED,None,1:38,3,Clippers,Knicks,70 - 96,1, ,3,Jumper
+100,Damyean Dotson,FG_MISS,None,1:19,3,Knicks,Clippers,70 - 96,0,0,2,Layup
+101,Mitchell Robinson,OFFENSIVE_REBOUND,None,1:16,3,Knicks,Clippers,70 - 96,0,N/A,N/A,N/A
+102,Mitchell Robinson,FG_MISS,Garrett Temple,1:16,3,Clippers,Knicks,70 - 96,0,3,3,Jumper
+103,Garrett Temple,DEFENSIVE_REBOUND,None,1:16,3,Clippers,Knicks,70 - 96,1,N/A,N/A,N/A
+104,Lou Williams,FG_ASSISTED,Tyrone Wallace,1:07,3,Clippers,Knicks,70 - 99,1,26,3,Jumper
+105,Luke Kornet,FG_MISS,None,52.3,3,Knicks,Clippers,70 - 99,0,27,3,Jumper
+106,Mitchell Robinson,OFFENSIVE_REBOUND,None,48.0,3,Knicks,Clippers,70 - 99,0,N/A,N/A,N/A
+107,Allonzo Trier,FG_ASSISTED,Mitchell Robinson,47.5,3,Knicks,Clippers,73 - 99,0,27,3,Jumper
+108,JaMychal Green,FOUL_ON_FLOOR,None,47.5,3,Clippers,Knicks,73 - 99,1,N/A,N/A,N/A
+109,Luke Kornet,FT,None,47.5,3,Knicks,Clippers,74 - 99,0,N/A,1,N/A
+110,Lou Williams,FG_UNASSISTED,None,41.0,3,Clippers,Knicks,74 - 101,1,6,3,Jumper
+111,Emmanuel Mudiay,FG_MISS,None,33.0,3,Knicks,Clippers,74 - 101,0,0,2,Layup
+112,Mitchell Robinson,OFFENSIVE_REBOUND,None,32.6,3,Knicks,Clippers,74 - 101,0,N/A,N/A,N/A
+113,Mitchell Robinson,FG_UNASSISTED,None,32.6,3,Knicks,Clippers,76 - 101,0,0,2,Dunk
+114,Lou Williams,FG_MISS,None,12.2,3,Clippers,Knicks,76 - 101,1,7,3,Jumper
+115,Emmanuel Mudiay,DEFENSIVE_REBOUND,None,9.5,3,Knicks,Clippers,76 - 101,0,N/A,N/A,N/A
+116,Garrett Temple,FOUL_ON_FLOOR,None,4.8,3,Clippers,Knicks,76 - 101,1,N/A,N/A,N/A
+117,Luke Kornet,FT,None,4.8,3,Knicks,Clippers,77 - 101,0,N/A,1,N/A
+118,Luke Kornet,FT,None,4.8,3,Knicks,Clippers,78 - 101,0,N/A,1,N/A
+119,Montrezl Harrell,FG_MISS,None,0.2,3,Clippers,Knicks,78 - 101,1,40,3,Jumper
+120,Team,OFFENSIVE_REBOUND,None,0.1,3,Clippers,Knicks,78 - 101,1,N/A,N/A,N/A
+121,End of,Unknown,None,0.0,3,Clippers,Knicks,78 - 101,1,N/A,N/A,N/A
+0,John Jenkins,SUBSTITUTION,Kornet Luke,12:00,4,Knicks,Clippers,78 - 101,0,N/A,N/A,N/A
+1,Henry Ellenson,SUBSTITUTION,Dotson Damyean,12:00,4,Knicks,Clippers,78 - 101,0,N/A,N/A,N/A
+2,Tyrone Wallace,FG_MISS,None,11:48,4,Clippers,Knicks,78 - 101,1,0,2,Layup
+3,Tyrone Wallace,OFFENSIVE_REBOUND,None,11:44,4,Clippers,Knicks,78 - 101,1,N/A,N/A,N/A
+4,Tyrone Wallace,FG_MISS,None,11:44,4,Clippers,Knicks,78 - 101,1,1,3,Jumper
+5,John Jenkins,DEFENSIVE_REBOUND,None,11:43,4,Knicks,Clippers,78 - 101,0,N/A,N/A,N/A
+6,JaMychal Green,FOUL_ON_FLOOR,None,11:33,4,Clippers,Knicks,78 - 101,1,N/A,N/A,N/A
+7,John Jenkins,TURNOVER,Montrezl Harrell,11:19,4,Knicks,Clippers,78 - 101,0,N/A,N/A,N/A
+8,Montrezl Harrell,FG_ASSISTED,Tyrone Wallace,11:08,4,Clippers,Knicks,78 - 103,1,1,3,Jumper
+9,Mitchell Robinson,TURNOVER,None,10:53,4,Knicks,Clippers,78 - 103,0,N/A,N/A,N/A
+10,Tyrone Wallace,TURNOVER,Emmanuel Mudiay,10:41,4,Clippers,Knicks,78 - 103,1,N/A,N/A,N/A
+11,Emmanuel Mudiay,FG_UNASSISTED,None,10:36,4,Knicks,Clippers,80 - 103,0,1,3,Jumper
+12,Lou Williams,FG_MISS,None,10:23,4,Clippers,Knicks,80 - 103,1,18,3,Jumper
+13,Henry Ellenson,DEFENSIVE_REBOUND,None,10:19,4,Knicks,Clippers,80 - 103,0,N/A,N/A,N/A
+14,Emmanuel Mudiay,FG_MISS,None,10:09,4,Knicks,Clippers,80 - 103,0,11,3,Jumper
+15,Mitchell Robinson,OFFENSIVE_REBOUND,None,10:07,4,Knicks,Clippers,80 - 103,0,N/A,N/A,N/A
+16,Montrezl Harrell,FOUL_ON_FLOOR,None,10:07,4,Clippers,Knicks,80 - 103,1,N/A,N/A,N/A
+17,Montrezl Harrell,FOUL_TECHNICAL,None,10:07,4,Clippers,Knicks,80 - 103,1,N/A,N/A,N/A
+18,John Jenkins,FT_MISS,None,10:07,4,Knicks,Clippers,80 - 103,0,N/A,1,N/A
+19,Team,OFFENSIVE_REBOUND,None,10:07,4,Knicks,Clippers,80 - 103,0,N/A,N/A,N/A
+20,Mitchell Robinson,FT,None,10:07,4,Knicks,Clippers,81 - 103,0,N/A,1,N/A
+21,Mitchell Robinson,FT,None,10:07,4,Knicks,Clippers,82 - 103,0,N/A,1,N/A
+22,Montrezl Harrell,FG_ASSISTED,Lou Williams,9:52,4,Clippers,Knicks,82 - 105,1,0,2,Dunk
+23,Henry Ellenson,FOUL_ON_FLOOR,None,9:52,4,Knicks,Clippers,82 - 105,0,N/A,N/A,N/A
+24,Shai Gilgeous-Alexander,SUBSTITUTION,Wallace Tyrone,9:52,4,Clippers,Knicks,82 - 105,1,N/A,N/A,N/A
+25,Montrezl Harrell,FT_MISS,None,9:52,4,Clippers,Knicks,82 - 105,1,N/A,1,N/A
+26,Mitchell Robinson,DEFENSIVE_REBOUND,None,9:48,4,Knicks,Clippers,82 - 105,0,N/A,N/A,N/A
+27,Allonzo Trier,FG_ASSISTED,Emmanuel Mudiay,9:40,4,Knicks,Clippers,85 - 105,0,25,3,Jumper
+28,Montrezl Harrell,FG_ASSISTED,Garrett Temple,9:23,4,Clippers,Knicks,85 - 107,1,5,3,Jumper
+29,Emmanuel Mudiay,FG_MISS,None,9:04,4,Knicks,Clippers,85 - 107,0,0,2,Layup
+30,Montrezl Harrell,DEFENSIVE_REBOUND,None,9:02,4,Clippers,Knicks,85 - 107,1,N/A,N/A,N/A
+31,Montrezl Harrell,FG_MISS,Mitchell Robinson,8:56,4,Knicks,Clippers,85 - 107,1,0,2,Dunk
+32,Henry Ellenson,DEFENSIVE_REBOUND,None,8:53,4,Knicks,Clippers,85 - 107,0,N/A,N/A,N/A
+33,foul 85,FOUL_ON_FLOOR,None,8:53,4,Clippers,Knicks,85 - 107,1,N/A,N/A,N/A
+34,Garrett Temple,FOUL_ON_FLOOR,None,8:53,4,Clippers,Knicks,85 - 107,1,N/A,N/A,N/A
+35,Allonzo Trier,FT,None,8:53,4,Knicks,Clippers,86 - 107,0,N/A,1,N/A
+36,Allonzo Trier,FT_MISS,None,8:53,4,Knicks,Clippers,86 - 107,0,N/A,1,N/A
+37,Lou Williams,DEFENSIVE_REBOUND,None,8:48,4,Clippers,Knicks,86 - 107,1,N/A,N/A,N/A
+38,Montrezl Harrell,FG_ASSISTED,Lou Williams,8:41,4,Clippers,Knicks,86 - 109,1,0,2,Dunk
+39,Team,Unknown,None,8:35,4,Knicks,Clippers,86 - 109,0,N/A,N/A,N/A
+40,Noah Vonleh,SUBSTITUTION,Jenkins John,8:35,4,Knicks,Clippers,86 - 109,0,N/A,N/A,N/A
+41,Noah Vonleh,FG_UNASSISTED,None,8:19,4,Knicks,Clippers,88 - 109,0,0,2,Dunk
+42,Garrett Temple,FG_UNASSISTED,None,7:52,4,Clippers,Knicks,88 - 111,1,20,3,Jumper
+43,Henry Ellenson,FG_MISS,None,7:33,4,Knicks,Clippers,88 - 111,0,24,3,Jumper
+44,Mitchell Robinson,OFFENSIVE_REBOUND,None,7:30,4,Knicks,Clippers,88 - 111,0,N/A,N/A,N/A
+45,Mitchell Robinson,FG_UNASSISTED,None,7:28,4,Knicks,Clippers,90 - 111,0,1,3,Jumper
+46,Montrezl Harrell,FG_UNASSISTED,None,7:08,4,Clippers,Knicks,90 - 113,1,9,3,Jumper
+47,Emmanuel Mudiay,FG_ASSISTED,Allonzo Trier,6:45,4,Knicks,Clippers,93 - 113,0,26,3,Jumper
+48,JaMychal Green,FG_ASSISTED,Lou Williams,6:37,4,Clippers,Knicks,93 - 116,1,26,3,Jumper
+49,Allonzo Trier,FG_ASSISTED,Noah Vonleh,6:18,4,Knicks,Clippers,95 - 116,0,19,3,Jumper
+50,Lou Williams,FG_UNASSISTED,None,5:56,4,Clippers,Knicks,95 - 118,1,0,2,Layup
+51,Henry Ellenson,FG_MISS,None,5:34,4,Knicks,Clippers,95 - 118,0,0,2,Layup
+52,Garrett Temple,DEFENSIVE_REBOUND,None,5:32,4,Clippers,Knicks,95 - 118,1,N/A,N/A,N/A
+53,Shai Gilgeous-Alexander,FG_MISS,None,5:28,4,Clippers,Knicks,95 - 118,1,23,3,Jumper
+54,JaMychal Green,OFFENSIVE_REBOUND,None,5:24,4,Clippers,Knicks,95 - 118,1,N/A,N/A,N/A
+55,JaMychal Green,FG_MISS,None,5:23,4,Clippers,Knicks,95 - 118,1,1,3,Jumper
+56,Mitchell Robinson,DEFENSIVE_REBOUND,None,5:21,4,Knicks,Clippers,95 - 118,0,N/A,N/A,N/A
+57,Henry Ellenson,FG_MISS,None,5:10,4,Knicks,Clippers,95 - 118,0,9,3,Jumper
+58,Noah Vonleh,OFFENSIVE_REBOUND,None,5:06,4,Knicks,Clippers,95 - 118,0,N/A,N/A,N/A
+59,Mitchell Robinson,FG_ASSISTED,Noah Vonleh,5:05,4,Knicks,Clippers,97 - 118,0,0,2,Dunk
+60,Lou Williams,FG_MISS,None,4:50,4,Clippers,Knicks,97 - 118,1,27,3,Jumper
+61,Montrezl Harrell,OFFENSIVE_REBOUND,None,4:47,4,Clippers,Knicks,97 - 118,1,N/A,N/A,N/A
+62,Montrezl Harrell,FG_MISS,None,4:41,4,Clippers,Knicks,97 - 118,1,0,2,Layup
+63,Mitchell Robinson,DEFENSIVE_REBOUND,None,4:40,4,Knicks,Clippers,97 - 118,0,N/A,N/A,N/A
+64,Lou Williams,FOUL_ON_FLOOR,None,4:40,4,Clippers,Knicks,97 - 118,1,N/A,N/A,N/A
+65,Landry Shamet,SUBSTITUTION,Green JaMychal,4:40,4,Clippers,Knicks,97 - 118,1,N/A,N/A,N/A
+66,Ivica Zubac,SUBSTITUTION,Harrell Montrezl,4:40,4,Clippers,Knicks,97 - 118,1,N/A,N/A,N/A
+67,Jerome Robinson,SUBSTITUTION,Temple Garrett,4:40,4,Clippers,Knicks,97 - 118,1,N/A,N/A,N/A
+68,Sindarius Thornwell,SUBSTITUTION,Williams Lou,4:40,4,Clippers,Knicks,97 - 118,1,N/A,N/A,N/A
+69,Dennis Smith,SUBSTITUTION,Ellenson Henry,4:40,4,Knicks,Clippers,97 - 118,0,N/A,N/A,N/A
+70,Emmanuel Mudiay,FG_MISS,None,4:22,4,Knicks,Clippers,97 - 118,0,26,3,Jumper
+71,Ivica Zubac,DEFENSIVE_REBOUND,None,4:19,4,Clippers,Knicks,97 - 118,1,N/A,N/A,N/A
+72,Shai Gilgeous-Alexander,FG_UNASSISTED,None,4:10,4,Clippers,Knicks,97 - 120,1,0,2,Dunk
+73,Emmanuel Mudiay,FG_MISS,None,3:46,4,Knicks,Clippers,97 - 120,0,1,3,Jumper
+74,Noah Vonleh,OFFENSIVE_REBOUND,None,3:44,4,Knicks,Clippers,97 - 120,0,N/A,N/A,N/A
+75,Noah Vonleh's,FG_MISS,Ivica Zubac,3:43,4,Clippers,Knicks,97 - 120,0,1,3,Jumper
+76,Shai Gilgeous-Alexander,DEFENSIVE_REBOUND,None,3:40,4,Clippers,Knicks,97 - 120,1,N/A,N/A,N/A
+77,Jerome Robinson,FG_MISS,None,3:36,4,Clippers,Knicks,97 - 120,1,1,3,Jumper
+78,Emmanuel Mudiay,DEFENSIVE_REBOUND,None,3:34,4,Knicks,Clippers,97 - 120,0,N/A,N/A,N/A
+79,Mitchell Robinson,FG_ASSISTED,Dennis Smith,3:28,4,Knicks,Clippers,99 - 120,0,0,2,Dunk
+80,Team,Unknown,None,3:28,4,Clippers,Knicks,99 - 120,1,N/A,N/A,N/A
+81,Tyrone Wallace,SUBSTITUTION,Gilgeous-Alexander Shai,3:28,4,Clippers,Knicks,99 - 120,1,N/A,N/A,N/A
+82,Johnathan Motley,SUBSTITUTION,Shamet Landry,3:28,4,Clippers,Knicks,99 - 120,1,N/A,N/A,N/A
+83,Luke Kornet,SUBSTITUTION,Mudiay Emmanuel,3:28,4,Knicks,Clippers,99 - 120,0,N/A,N/A,N/A
+84,John Jenkins,SUBSTITUTION,Robinson Mitchell,3:28,4,Knicks,Clippers,99 - 120,0,N/A,N/A,N/A
+85,Jerome Robinson,FG_MISS,None,3:13,4,Clippers,Knicks,99 - 120,1,12,3,Jumper
+86,Noah Vonleh,DEFENSIVE_REBOUND,None,3:10,4,Knicks,Clippers,99 - 120,0,N/A,N/A,N/A
+87,John Jenkins,FG_MISS,Sindarius Thornwell,2:55,4,Clippers,Knicks,99 - 120,0,14,3,Jumper
+88,Luke Kornet,OFFENSIVE_REBOUND,None,2:50,4,Knicks,Clippers,99 - 120,0,N/A,N/A,N/A
+89,Luke Kornet,FG_MISS,None,2:50,4,Knicks,Clippers,99 - 120,0,28,3,Jumper
+90,Ivica Zubac,DEFENSIVE_REBOUND,None,2:49,4,Clippers,Knicks,99 - 120,1,N/A,N/A,N/A
+91,Johnathan Motley,FOUL_ON_FLOOR,None,2:47,4,Clippers,Knicks,99 - 120,1,N/A,N/A,N/A
+92,Johnathan Motley,TURNOVER,None,2:47,4,Clippers,Knicks,99 - 120,1,N/A,N/A,N/A
+93,Henry Ellenson,SUBSTITUTION,Vonleh Noah,2:47,4,Knicks,Clippers,99 - 120,0,N/A,N/A,N/A
+94,John Jenkins,FG_MISS,None,2:37,4,Knicks,Clippers,99 - 120,0,27,3,Jumper
+95,Jerome Robinson,DEFENSIVE_REBOUND,None,2:33,4,Clippers,Knicks,99 - 120,1,N/A,N/A,N/A
+96,Tyrone Wallace,TURNOVER,None,2:27,4,Clippers,Knicks,99 - 120,1,N/A,N/A,N/A
+97,Henry Ellenson,FG_ASSISTED,Luke Kornet,2:14,4,Knicks,Clippers,101 - 120,0,0,2,Layup
+98,Ivica Zubac,FG_ASSISTED,Jerome Robinson,2:01,4,Clippers,Knicks,101 - 122,1,0,2,Dunk
+99,Luke Kornet,FG_ASSISTED,Allonzo Trier,1:50,4,Knicks,Clippers,104 - 122,0,24,3,Jumper
+100,Tyrone Wallace,FG_ASSISTED,Sindarius Thornwell,1:37,4,Clippers,Knicks,104 - 125,1,24,3,Jumper
+101,Luke Kornet,FG_MISS,None,1:25,4,Knicks,Clippers,104 - 125,0,25,3,Jumper
+102,Sindarius Thornwell,DEFENSIVE_REBOUND,None,1:22,4,Clippers,Knicks,104 - 125,1,N/A,N/A,N/A
+103,Tyrone Wallace,FG_MISS,None,1:13,4,Clippers,Knicks,104 - 125,1,4,3,Jumper
+104,Henry Ellenson,DEFENSIVE_REBOUND,None,1:10,4,Knicks,Clippers,104 - 125,0,N/A,N/A,N/A
+105,Jerome Robinson,FOUL_ON_FLOOR,None,1:07,4,Clippers,Knicks,104 - 125,1,N/A,N/A,N/A
+106,Henry Ellenson,FT,None,1:07,4,Knicks,Clippers,105 - 125,0,N/A,1,N/A
+107,Henry Ellenson,FT_MISS,None,1:07,4,Knicks,Clippers,105 - 125,0,N/A,1,N/A
+108,Ivica Zubac,DEFENSIVE_REBOUND,None,1:03,4,Clippers,Knicks,105 - 125,1,N/A,N/A,N/A
+109,Johnathan Motley,FG_ASSISTED,Ivica Zubac,55.8,4,Clippers,Knicks,105 - 127,1,0,2,Dunk
+110,John Jenkins,FOUL_ON_FLOOR,None,55.8,4,Knicks,Clippers,105 - 127,0,N/A,N/A,N/A
+111,Johnathan Motley,FT,None,55.8,4,Clippers,Knicks,105 - 128,1,N/A,1,N/A
+112,Dennis Smith,FG_MISS,None,47.9,4,Knicks,Clippers,105 - 128,0,0,2,Layup
+113,Johnathan Motley,DEFENSIVE_REBOUND,None,44.9,4,Clippers,Knicks,105 - 128,1,N/A,N/A,N/A
+114,Johnathan Motley,FG_MISS,Luke Kornet,42.1,4,Knicks,Clippers,105 - 128,1,4,3,Jumper
+115,Luke Kornet,DEFENSIVE_REBOUND,None,38.6,4,Knicks,Clippers,105 - 128,0,N/A,N/A,N/A
+116,Allonzo Trier,FG_UNASSISTED,None,35.7,4,Knicks,Clippers,107 - 128,0,1,3,Jumper
+117,Tyrone Wallace,TURNOVER,Luke Kornet,22.1,4,Clippers,Knicks,107 - 128,1,N/A,N/A,N/A
+118,John Jenkins,FG_MISS,None,15.9,4,Knicks,Clippers,107 - 128,0,27,3,Jumper
+119,Ivica Zubac,DEFENSIVE_REBOUND,None,13.2,4,Clippers,Knicks,107 - 128,1,N/A,N/A,N/A
+120,End of,Unknown,None,0.0,4,Clippers,Knicks,107 - 128,1,N/A,N/A,N/A
+121,End of,Unknown,None,0.0,4,Clippers,Knicks,107 - 128,1,N/A,N/A,N/A

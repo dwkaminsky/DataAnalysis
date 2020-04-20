@@ -1,0 +1,458 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Damian Jones,JUMP_BALL,None,12:00,1,Warriors,Rockets,0 - 0,0,N/A,N/A,N/A
+1,Kevin Durant,FG_UNASSISTED,None,11:34,1,Warriors,Rockets,2 - 0,0,18,2,Jumper
+2,James Harden,FG_MISS,None,11:09,1,Rockets,Warriors,2 - 0,1,-,2,Jumper
+3,Clint Capela,OFFENSIVE_REBOUND,None,11:06,1,Rockets,Warriors,2 - 0,1,N/A,N/A,N/A
+4,James Harden,TURNOVER,Draymond Green,10:57,1,Rockets,Warriors,2 - 0,1,N/A,N/A,N/A
+5,Kevin Durant,FG_ASSISTED,Draymond Green,10:52,1,Warriors,Rockets,4 - 0,0,0,2,Dunk
+6,Chris Paul,FG_MISS,None,10:30,1,Rockets,Warriors,4 - 0,1,13,2,Jumper
+7,Clint Capela,OFFENSIVE_REBOUND,None,10:28,1,Rockets,Warriors,4 - 0,1,N/A,N/A,N/A
+8,James Ennis,FG_MISS,None,10:21,1,Rockets,Warriors,4 - 0,1,23,3,Jumper
+9,Andre Iguodala,DEFENSIVE_REBOUND,None,10:18,1,Warriors,Rockets,4 - 0,0,N/A,N/A,N/A
+10,Klay Thompson,FG_MISS,None,10:12,1,Warriors,Rockets,4 - 0,0,26,3,Jumper
+11,Team,OFFENSIVE_REBOUND,None,10:10,1,Warriors,Rockets,4 - 0,0,N/A,N/A,N/A
+12,Klay Thompson,FG_UNASSISTED,None,10:02,1,Warriors,Rockets,6 - 0,0,-,2,Jumper
+13,Draymond Green,FOUL_ON_FLOOR,None,9:46,1,Warriors,Rockets,6 - 0,0,N/A,N/A,N/A
+14,James Harden,FT,None,9:46,1,Rockets,Warriors,6 - 1,1,N/A,1,N/A
+15,James Harden,FT_MISS,None,9:46,1,Rockets,Warriors,6 - 1,1,N/A,1,N/A
+16,Draymond Green,DEFENSIVE_REBOUND,None,9:46,1,Warriors,Rockets,6 - 1,0,N/A,N/A,N/A
+17,Klay Thompson,FG_ASSISTED,Draymond Green,9:29,1,Warriors,Rockets,8 - 1,0,19,2,Jumper
+18,PJ Tucker,FG_MISS,None,9:10,1,Rockets,Warriors,8 - 1,1,24,3,Jumper
+19,James Ennis,OFFENSIVE_REBOUND,None,9:06,1,Rockets,Warriors,8 - 1,1,N/A,N/A,N/A
+20,Chris Paul,FG_ASSISTED,nnis III,9:05,1,Rockets,Warriors,8 - 4,1,26,3,Jumper
+21,Kevin Durant,FG_MISS,None,8:41,1,Warriors,Rockets,8 - 4,0,16,2,Jumper
+22,Kevin Durant,OFFENSIVE_REBOUND,None,8:38,1,Warriors,Rockets,8 - 4,0,N/A,N/A,N/A
+23,Draymond Green,FG_MISS,None,8:27,1,Warriors,Rockets,8 - 4,0,27,3,Jumper
+24,Clint Capela,DEFENSIVE_REBOUND,None,8:25,1,Rockets,Warriors,8 - 4,1,N/A,N/A,N/A
+25,Damian Jones,Unknown,None,8:19,1,Warriors,Rockets,8 - 4,0,N/A,N/A,N/A
+26,Draymond Green,Unknown,None,8:06,1,Warriors,Rockets,8 - 4,0,N/A,N/A,N/A
+27,PJ Tucker,FG_ASSISTED,Chris Paul,7:50,1,Rockets,Warriors,8 - 6,1,10,2,Jumper
+28,Klay Thompson,FG_MISS,None,7:41,1,Warriors,Rockets,8 - 6,0,21,2,Jumper
+29,Andre Iguodala,OFFENSIVE_REBOUND,None,7:38,1,Warriors,Rockets,8 - 6,0,N/A,N/A,N/A
+30,Kevin Durant,FG_MISS,None,7:26,1,Warriors,Rockets,8 - 6,0,17,2,Jumper
+31,James Harden,DEFENSIVE_REBOUND,None,7:23,1,Rockets,Warriors,8 - 6,1,N/A,N/A,N/A
+32,James Harden,FG_MISS,None,7:06,1,Rockets,Warriors,8 - 6,1,11,2,Jumper
+33,Kevin Durant,DEFENSIVE_REBOUND,None,7:04,1,Warriors,Rockets,8 - 6,0,N/A,N/A,N/A
+34,Team,Unknown,None,6:54,1,Rockets,Warriors,8 - 6,1,N/A,N/A,N/A
+35,Eric Gordon,SUBSTITUTION,Paul Chris,6:54,1,Rockets,Warriors,8 - 6,1,N/A,N/A,N/A
+36,PJ Tucker,FOUL_TECHNICAL,None,6:46,1,Rockets,Warriors,8 - 6,1,N/A,N/A,N/A
+37,Kevin Durant,FT,None,6:46,1,Warriors,Rockets,9 - 6,0,N/A,1,N/A
+38,Andre Iguodala,FG_MISS,None,6:36,1,Warriors,Rockets,9 - 6,0,0,2,Layup
+39,Klay Thompson,OFFENSIVE_REBOUND,None,6:33,1,Warriors,Rockets,9 - 6,0,N/A,N/A,N/A
+40,shot clock,TURNOVER,None,6:32,1,Warriors,Rockets,9 - 6,0,N/A,N/A,N/A
+41,James Harden,FG_MISS,None,6:08,1,Rockets,Warriors,9 - 6,1,15,2,Jumper
+42,Andre Iguodala,DEFENSIVE_REBOUND,None,6:03,1,Warriors,Rockets,9 - 6,0,N/A,N/A,N/A
+43,PJ Tucker,FOUL_ON_FLOOR,None,6:00,1,Rockets,Warriors,9 - 6,1,N/A,N/A,N/A
+44,Gary Clark,SUBSTITUTION,III Ennis,6:00,1,Rockets,Warriors,9 - 6,1,N/A,N/A,N/A
+45,Kevon Looney,SUBSTITUTION,Green Draymond,6:00,1,Warriors,Rockets,9 - 6,0,N/A,N/A,N/A
+46,Kevin Durant,FG_UNASSISTED,None,5:52,1,Warriors,Rockets,11 - 6,0,0,2,Dunk
+47,Clint Capela,FG_UNASSISTED,None,5:34,1,Rockets,Warriors,11 - 8,1,6,2,Jumper
+48,Kevin Durant,FG_MISS,None,5:16,1,Warriors,Rockets,11 - 8,0,16,2,Jumper
+49,Damian Jones,OFFENSIVE_REBOUND,None,5:13,1,Warriors,Rockets,11 - 8,0,N/A,N/A,N/A
+50,Andre Iguodala,TURNOVER,None,5:07,1,Warriors,Rockets,11 - 8,0,N/A,N/A,N/A
+51,Jonas Jerebko,SUBSTITUTION,Jones Damian,5:07,1,Warriors,Rockets,11 - 8,0,N/A,N/A,N/A
+52,Clint Capela,FG_MISS,Kevin Durant,4:51,1,Warriors,Rockets,11 - 8,1,0,2,Layup
+53,Team,OFFENSIVE_REBOUND,None,4:51,1,Rockets,Warriors,11 - 8,1,N/A,N/A,N/A
+54,James Harden,FG_MISS,None,4:45,1,Rockets,Warriors,11 - 8,1,25,2,Jumper
+55,Clint Capela,OFFENSIVE_REBOUND,None,4:41,1,Rockets,Warriors,11 - 8,1,N/A,N/A,N/A
+56,Gary Clark,FG_MISS,None,4:35,1,Rockets,Warriors,11 - 8,1,25,3,Jumper
+57,Andre Iguodala,DEFENSIVE_REBOUND,None,4:32,1,Warriors,Rockets,11 - 8,0,N/A,N/A,N/A
+58,Gary Clark,FOUL_ON_FLOOR,None,4:28,1,Rockets,Warriors,11 - 8,1,N/A,N/A,N/A
+59,Kevon Looney,FT,None,4:28,1,Warriors,Rockets,12 - 8,0,N/A,1,N/A
+60,Isaiah Hartenstein,SUBSTITUTION,Capela Clint,4:28,1,Rockets,Warriors,12 - 8,1,N/A,N/A,N/A
+61,Shaun Livingston,SUBSTITUTION,Iguodala Andre,4:28,1,Warriors,Rockets,12 - 8,0,N/A,N/A,N/A
+62,Kevon Looney,FT,None,4:28,1,Warriors,Rockets,13 - 8,0,N/A,1,N/A
+63,James Harden,FG_MISS,None,4:15,1,Rockets,Warriors,13 - 8,1,0,2,Layup
+64,Isaiah Hartenstein,OFFENSIVE_REBOUND,None,4:10,1,Rockets,Warriors,13 - 8,1,N/A,N/A,N/A
+65,Isaiah Hartenstein,FG_MISS,None,4:10,1,Rockets,Warriors,13 - 8,1,0,2,Dunk
+66,Shaun Livingston,DEFENSIVE_REBOUND,None,4:10,1,Warriors,Rockets,13 - 8,0,N/A,N/A,N/A
+67,Jonas Jerebko,FG_ASSISTED,Shaun Livingston,4:06,1,Warriors,Rockets,15 - 8,0,0,2,Dunk
+68,Shaun Livingston,FOUL_ON_FLOOR,None,3:46,1,Warriors,Rockets,15 - 8,0,N/A,N/A,N/A
+69,James Harden,FT,None,3:46,1,Rockets,Warriors,15 - 9,1,N/A,1,N/A
+70,Alfonzo McKinnie,SUBSTITUTION,Thompson Klay,3:46,1,Warriors,Rockets,15 - 9,0,N/A,N/A,N/A
+71,James Harden,FT,None,3:46,1,Rockets,Warriors,15 - 10,1,N/A,1,N/A
+72,Kevin Durant,FG_MISS,None,3:30,1,Warriors,Rockets,15 - 10,0, ,3,Jumper
+73,Isaiah Hartenstein,DEFENSIVE_REBOUND,None,3:26,1,Rockets,Warriors,15 - 10,1,N/A,N/A,N/A
+74,Eric Gordon,FG_ASSISTED,Isaiah Hartenstein,3:21,1,Rockets,Warriors,15 - 13,1,25,3,Jumper
+75,Shaun Livingston,FG_MISS,None,3:07,1,Warriors,Rockets,15 - 13,0,13,2,Jumper
+76,James Harden,DEFENSIVE_REBOUND,None,3:03,1,Rockets,Warriors,15 - 13,1,N/A,N/A,N/A
+77,James Harden,FG_UNASSISTED,None,2:50,1,Rockets,Warriors,15 - 16,1,25,2,Jumper
+78,Isaiah Hartenstein,FOUL_ON_FLOOR,None,2:39,1,Rockets,Warriors,15 - 16,1,N/A,N/A,N/A
+79,Team,Unknown,None,2:39,1,Warriors,Rockets,15 - 16,0,N/A,N/A,N/A
+80,Chris Paul,SUBSTITUTION,Harden James,2:39,1,Rockets,Warriors,15 - 16,1,N/A,N/A,N/A
+81,Jonas Jerebko,FG_ASSISTED,Kevon Looney,2:32,1,Warriors,Rockets,17 - 16,0, ,2,Jumper
+82,Eric Gordon,FG_ASSISTED,Chris Paul,2:19,1,Rockets,Warriors,17 - 19,1,29,3,Jumper
+83,Alfonzo McKinnie,FG_MISS,None,2:03,1,Warriors,Rockets,17 - 19,0,26,3,Jumper
+84,Chris Paul,DEFENSIVE_REBOUND,None,2:00,1,Rockets,Warriors,17 - 19,1,N/A,N/A,N/A
+85,Isaiah Hartenstein,FG_MISS,Kevon Looney,1:50,1,Warriors,Rockets,17 - 19,1,0,2,Layup
+86,Team,OFFENSIVE_REBOUND,None,1:50,1,Rockets,Warriors,17 - 19,1,N/A,N/A,N/A
+87,Isaiah Hartenstein,FG_ASSISTED,Chris Paul,1:48,1,Rockets,Warriors,17 - 21,1,0,2,Layup
+88,Alfonzo McKinnie,FOUL_ON_FLOOR,None,1:48,1,Warriors,Rockets,17 - 21,0,N/A,N/A,N/A
+89,Isaiah Hartenstein,FT,None,1:48,1,Rockets,Warriors,17 - 22,1,N/A,1,N/A
+90,Kevon Looney,FG_ASSISTED,Shaun Livingston,1:38,1,Warriors,Rockets,19 - 22,0,0,2,Dunk
+91,Eric Gordon,FG_MISS,None,1:26,1,Rockets,Warriors,19 - 22,1,27,3,Jumper
+92,Team,DEFENSIVE_REBOUND,None,1:25,1,Warriors,Rockets,19 - 22,0,N/A,N/A,N/A
+93,Alfonzo McKinnie,FG_MISS,None,1:03,1,Warriors,Rockets,19 - 22,0,0,2,Layup
+94,Isaiah Hartenstein,DEFENSIVE_REBOUND,None,1:01,1,Rockets,Warriors,19 - 22,1,N/A,N/A,N/A
+95,Eric Gordon,FG_MISS,None,45.7,1,Rockets,Warriors,19 - 22,1,0,2,Layup
+96,Alfonzo McKinnie,DEFENSIVE_REBOUND,None,43.5,1,Warriors,Rockets,19 - 22,0,N/A,N/A,N/A
+97,Alfonzo McKinnie,TURNOVER,None,42.4,1,Warriors,Rockets,19 - 22,0,N/A,N/A,N/A
+98,Chris Paul,FG_UNASSISTED,None,29.6,1,Rockets,Warriors,19 - 25,1,26,3,Jumper
+99,Kevin Durant,FG_MISS,None,9.7,1,Warriors,Rockets,19 - 25,0, ,2,Jumper
+100,Chris Paul,DEFENSIVE_REBOUND,None,7.0,1,Rockets,Warriors,19 - 25,1,N/A,N/A,N/A
+101,Eric Gordon,FG_MISS,None,1.2,1,Rockets,Warriors,19 - 25,1,26,3,Jumper
+102,Jonas Jerebko,DEFENSIVE_REBOUND,None,0.2,1,Warriors,Rockets,19 - 25,0,N/A,N/A,N/A
+103,End of,Unknown,None,0.0,1,Rockets,Warriors,19 - 25,1,N/A,N/A,N/A
+0,James Ennis,SUBSTITUTION,Tucker PJ,12:00,2,Rockets,Warriors,19 - 25,1,N/A,N/A,N/A
+1,Draymond Green,SUBSTITUTION,Looney Kevon,12:00,2,Warriors,Rockets,19 - 25,0,N/A,N/A,N/A
+2,Klay Thompson,SUBSTITUTION,McKinnie Alfonzo,12:00,2,Warriors,Rockets,19 - 25,0,N/A,N/A,N/A
+3,Quinn Cook,SUBSTITUTION,Durant Kevin,12:00,2,Warriors,Rockets,19 - 25,0,N/A,N/A,N/A
+4,Eric Gordon,FG_MISS,None,11:36,2,Rockets,Warriors,19 - 25,1,0,2,Layup
+5,Gary Clark,OFFENSIVE_REBOUND,None,11:36,2,Rockets,Warriors,19 - 25,1,N/A,N/A,N/A
+6,shot clock,TURNOVER,None,11:36,2,Rockets,Warriors,19 - 25,1,N/A,N/A,N/A
+7,Klay Thompson,FG_MISS,None,11:18,2,Warriors,Rockets,19 - 25,0,26,3,Jumper
+8,Gary Clark,DEFENSIVE_REBOUND,None,11:15,2,Rockets,Warriors,19 - 25,1,N/A,N/A,N/A
+9,Chris Paul,FG_MISS,None,10:53,2,Rockets,Warriors,19 - 25,1,14,2,Jumper
+10,Klay Thompson,DEFENSIVE_REBOUND,None,10:51,2,Warriors,Rockets,19 - 25,0,N/A,N/A,N/A
+11,Draymond Green,TURNOVER,Chris Paul,10:35,2,Warriors,Rockets,19 - 25,0,N/A,N/A,N/A
+12,Jonas Jerebko,FOUL_ON_FLOOR,None,10:35,2,Warriors,Rockets,19 - 25,0,N/A,N/A,N/A
+13,Eric Gordon,TURNOVER,None,10:24,2,Rockets,Warriors,19 - 25,1,N/A,N/A,N/A
+14,Clint Capela,SUBSTITUTION,Hartenstein Isaiah,10:24,2,Rockets,Warriors,19 - 25,1,N/A,N/A,N/A
+15,Eric Gordon,FOUL_ON_FLOOR,None,10:14,2,Rockets,Warriors,19 - 25,1,N/A,N/A,N/A
+16,Quinn Cook,FG_MISS,None,10:05,2,Warriors,Rockets,19 - 25,0,20,2,Jumper
+17,Team,OFFENSIVE_REBOUND,None,10:05,2,Warriors,Rockets,19 - 25,0,N/A,N/A,N/A
+18,Chris Paul,FOUL_ON_FLOOR,None,10:05,2,Rockets,Warriors,19 - 25,1,N/A,N/A,N/A
+19,Draymond Green,TURNOVER,Eric Gordon,9:55,2,Warriors,Rockets,19 - 25,0,N/A,N/A,N/A
+20,Eric Gordon,FG_UNASSISTED,None,9:51,2,Rockets,Warriors,19 - 27,1,0,2,Dunk
+21,Shaun Livingston,FG_ASSISTED,Draymond Green,9:36,2,Warriors,Rockets,21 - 27,0,0,2,Layup
+22,Clint Capela,FG_MISS,Klay Thompson,9:20,2,Warriors,Rockets,21 - 27,1,0,2,Layup
+23,Klay Thompson,DEFENSIVE_REBOUND,None,9:18,2,Warriors,Rockets,21 - 27,0,N/A,N/A,N/A
+24,Jonas Jerebko,FG_ASSISTED,Draymond Green,9:14,2,Warriors,Rockets,23 - 27,0,0,2,Layup
+25,Klay Thompson,FOUL_ON_FLOOR,None,9:08,2,Warriors,Rockets,23 - 27,0,N/A,N/A,N/A
+26,Clint Capela,FG_MISS,None,8:54,2,Rockets,Warriors,23 - 27,1,0,2,Layup
+27,Clint Capela,OFFENSIVE_REBOUND,None,8:53,2,Rockets,Warriors,23 - 27,1,N/A,N/A,N/A
+28,Clint Capela,FG_MISS,None,8:51,2,Rockets,Warriors,23 - 27,1,0,2,Layup
+29,Shaun Livingston,DEFENSIVE_REBOUND,None,8:48,2,Warriors,Rockets,23 - 27,0,N/A,N/A,N/A
+30,Quinn Cook,FG_ASSISTED,Draymond Green,8:32,2,Warriors,Rockets,25 - 27,0,10,2,Jumper
+31,James Ennis,FG_ASSISTED,Chris Paul,8:12,2,Rockets,Warriors,25 - 29,1,0,2,Dunk
+32,Eric Gordon,FOUL_ON_FLOOR,None,8:03,2,Rockets,Warriors,25 - 29,1,N/A,N/A,N/A
+33,James Harden,SUBSTITUTION,Clark Gary,8:03,2,Rockets,Warriors,25 - 29,1,N/A,N/A,N/A
+34,Shaun Livingston,FG_MISS,None,7:50,2,Warriors,Rockets,25 - 29,0,13,2,Jumper
+35,Team,OFFENSIVE_REBOUND,None,7:49,2,Warriors,Rockets,25 - 29,0,N/A,N/A,N/A
+36,Draymond Green,FG_MISS,None,7:46,2,Warriors,Rockets,25 - 29,0,19,2,Jumper
+37,James Ennis,DEFENSIVE_REBOUND,None,7:44,2,Rockets,Warriors,25 - 29,1,N/A,N/A,N/A
+38,James Harden,FG_UNASSISTED,None,7:32,2,Rockets,Warriors,25 - 31,1,2,2,Jumper
+39,PJ Tucker,SUBSTITUTION,III Ennis,7:16,2,Rockets,Warriors,25 - 31,1,N/A,N/A,N/A
+40,Jordan Bell,SUBSTITUTION,Green Draymond,7:16,2,Warriors,Rockets,25 - 31,0,N/A,N/A,N/A
+41,Team,Unknown,None,7:16,2,Rockets,Warriors,25 - 31,1,N/A,N/A,N/A
+42,James Ennis,SUBSTITUTION,Gordon Eric,7:16,2,Rockets,Warriors,25 - 31,1,N/A,N/A,N/A
+43,Andre Iguodala,SUBSTITUTION,Livingston Shaun,7:16,2,Warriors,Rockets,25 - 31,0,N/A,N/A,N/A
+44,Andre Iguodala,FG_MISS,None,7:06,2,Warriors,Rockets,25 - 31,0,22,2,Jumper
+45,PJ Tucker,DEFENSIVE_REBOUND,None,7:02,2,Rockets,Warriors,25 - 31,1,N/A,N/A,N/A
+46,James Harden,FG_MISS,None,6:57,2,Rockets,Warriors,25 - 31,1,26,2,Jumper
+47,Team,OFFENSIVE_REBOUND,None,6:56,2,Rockets,Warriors,25 - 31,1,N/A,N/A,N/A
+48,James Harden,FG_MISS,None,6:43,2,Rockets,Warriors,25 - 31,1,27,2,Jumper
+49,Quinn Cook,DEFENSIVE_REBOUND,None,6:40,2,Warriors,Rockets,25 - 31,0,N/A,N/A,N/A
+50,Jonas Jerebko,FG_MISS,None,6:18,2,Warriors,Rockets,25 - 31,0,26,3,Jumper
+51,Chris Paul,DEFENSIVE_REBOUND,None,6:14,2,Rockets,Warriors,25 - 31,1,N/A,N/A,N/A
+52,Chris Paul,FG_UNASSISTED,None,5:57,2,Rockets,Warriors,25 - 33,1,0,2,Layup
+53,Klay Thompson,TURNOVER,None,5:44,2,Warriors,Rockets,25 - 33,0,N/A,N/A,N/A
+54,Jordan Bell,FOUL_ON_FLOOR,None,5:44,2,Warriors,Rockets,25 - 33,0,N/A,N/A,N/A
+55,Kevin Durant,SUBSTITUTION,Thompson Klay,5:44,2,Warriors,Rockets,25 - 33,0,N/A,N/A,N/A
+56,Jacob Evans,SUBSTITUTION,Jerebko Jonas,5:44,2,Warriors,Rockets,25 - 33,0,N/A,N/A,N/A
+57,Quinn Cook,FOUL_ON_FLOOR,None,5:31,2,Warriors,Rockets,25 - 33,0,N/A,N/A,N/A
+58,Eric Gordon,SUBSTITUTION,Paul Chris,5:31,2,Rockets,Warriors,25 - 33,1,N/A,N/A,N/A
+59,James Harden,FG_MISS,None,5:18,2,Rockets,Warriors,25 - 33,1,26,2,Jumper
+60,Kevin Durant,DEFENSIVE_REBOUND,None,5:16,2,Warriors,Rockets,25 - 33,0,N/A,N/A,N/A
+61,Kevin Durant,TURNOVER,Clint Capela,5:10,2,Warriors,Rockets,25 - 33,0,N/A,N/A,N/A
+62,Jacob Evans,FOUL_ON_FLOOR,None,5:10,2,Warriors,Rockets,25 - 33,0,N/A,N/A,N/A
+63,Clint Capela,FT,None,5:10,2,Rockets,Warriors,25 - 34,1,N/A,1,N/A
+64,Clint Capela,FT,None,5:10,2,Rockets,Warriors,25 - 35,1,N/A,1,N/A
+65,Kevin Durant,FG_UNASSISTED,None,4:54,2,Warriors,Rockets,27 - 35,0,19,2,Jumper
+66,James Harden,FG_MISS,None,4:41,2,Rockets,Warriors,27 - 35,1, ,2,Jumper
+67,Jacob Evans,DEFENSIVE_REBOUND,None,4:38,2,Warriors,Rockets,27 - 35,0,N/A,N/A,N/A
+68,Jacob Evans,FG_MISS,None,4:20,2,Warriors,Rockets,27 - 35,0,20,2,Jumper
+69,Clint Capela,DEFENSIVE_REBOUND,None,4:18,2,Rockets,Warriors,27 - 35,1,N/A,N/A,N/A
+70,Jacob Evans,FOUL_ON_FLOOR,None,4:08,2,Warriors,Rockets,27 - 35,0,N/A,N/A,N/A
+71,Eric Gordon,FT,None,4:08,2,Rockets,Warriors,27 - 36,1,N/A,1,N/A
+72,Eric Gordon,FT,None,4:08,2,Rockets,Warriors,27 - 37,1,N/A,1,N/A
+73,Jacob Evans,TURNOVER,None,3:58,2,Warriors,Rockets,27 - 37,0,N/A,N/A,N/A
+74,Clint Capela,FG_ASSISTED,James Harden,3:52,2,Rockets,Warriors,27 - 39,1,0,2,Dunk
+75,Jacob Evans,FG_ASSISTED,Andre Iguodala,3:33,2,Warriors,Rockets,30 - 39,0,23,3,Jumper
+76,James Harden,FG_UNASSISTED,None,3:20,2,Rockets,Warriors,30 - 41,1,0,2,Layup
+77,Eric Gordon,FOUL_ON_FLOOR,None,3:13,2,Rockets,Warriors,30 - 41,1,N/A,N/A,N/A
+78,Andre Iguodala,FT,None,3:13,2,Warriors,Rockets,31 - 41,0,N/A,1,N/A
+79,Chris Paul,SUBSTITUTION,Gordon Eric,3:13,2,Rockets,Warriors,31 - 41,1,N/A,N/A,N/A
+80,Klay Thompson,SUBSTITUTION,Bell Jordan,3:13,2,Warriors,Rockets,31 - 41,0,N/A,N/A,N/A
+81,Kevon Looney,SUBSTITUTION,Cook Quinn,3:13,2,Warriors,Rockets,31 - 41,0,N/A,N/A,N/A
+82,Draymond Green,SUBSTITUTION,Evans Jacob,3:13,2,Warriors,Rockets,31 - 41,0,N/A,N/A,N/A
+83,Andre Iguodala,FT_MISS,None,3:13,2,Warriors,Rockets,31 - 41,0,N/A,1,N/A
+84,Clint Capela,DEFENSIVE_REBOUND,None,3:12,2,Rockets,Warriors,31 - 41,1,N/A,N/A,N/A
+85,James Harden,FG_MISS,None,2:50,2,Rockets,Warriors,31 - 41,1,26,2,Jumper
+86,Team,DEFENSIVE_REBOUND,None,2:47,2,Warriors,Rockets,31 - 41,0,N/A,N/A,N/A
+87,Team,Unknown,None,2:47,2,Warriors,Rockets,31 - 41,0,N/A,N/A,N/A
+88,Andre Iguodala,FG_UNASSISTED,None,2:38,2,Warriors,Rockets,33 - 41,0,0,2,Dunk
+89,Clint Capela,FG_MISS,None,2:11,2,Rockets,Warriors,33 - 41,1,7,2,Jumper
+90,Andre Iguodala,DEFENSIVE_REBOUND,None,2:09,2,Warriors,Rockets,33 - 41,0,N/A,N/A,N/A
+91,James Ennis,FOUL_ON_FLOOR,None,2:07,2,Rockets,Warriors,33 - 41,1,N/A,N/A,N/A
+92,Kevin Durant,FT,None,2:07,2,Warriors,Rockets,34 - 41,0,N/A,1,N/A
+93,Kevin Durant,FT,None,2:07,2,Warriors,Rockets,35 - 41,0,N/A,1,N/A
+94,Chris Paul,TURNOVER,None,1:55,2,Rockets,Warriors,35 - 41,1,N/A,N/A,N/A
+95,Klay Thompson,FG_UNASSISTED,None,1:35,2,Warriors,Rockets,37 - 41,0,13,2,Jumper
+96,Andre Iguodala,FOUL_ON_FLOOR,None,1:27,2,Warriors,Rockets,37 - 41,0,N/A,N/A,N/A
+97,PJ Tucker,FT,None,1:27,2,Rockets,Warriors,37 - 42,1,N/A,1,N/A
+98,PJ Tucker,FT_MISS,None,1:27,2,Rockets,Warriors,37 - 42,1,N/A,1,N/A
+99,Draymond Green,DEFENSIVE_REBOUND,None,1:27,2,Warriors,Rockets,37 - 42,0,N/A,N/A,N/A
+100,PJ Tucker,FOUL_ON_FLOOR,None,1:13,2,Rockets,Warriors,37 - 42,1,N/A,N/A,N/A
+101,Kevin Durant,FT,None,1:13,2,Warriors,Rockets,38 - 42,0,N/A,1,N/A
+102,Kevin Durant,FT,None,1:13,2,Warriors,Rockets,39 - 42,0,N/A,1,N/A
+103,James Ennis,FG_MISS,None,53.5,2,Rockets,Warriors,39 - 42,1,24,3,Jumper
+104,PJ Tucker,OFFENSIVE_REBOUND,None,51.5,2,Rockets,Warriors,39 - 42,1,N/A,N/A,N/A
+105,James Harden,FG_UNASSISTED,None,39.8,2,Rockets,Warriors,39 - 44,1,2,2,Jumper
+106,Kevin Durant,TURNOVER,None,35.0,2,Warriors,Rockets,39 - 44,0,N/A,N/A,N/A
+107,James Harden,FG_UNASSISTED,None,29.9,2,Rockets,Warriors,39 - 47,1,28,3,Jumper
+108,Kevin Durant,FG_MISS,None,5.3,2,Warriors,Rockets,39 - 47,0,16,2,Jumper
+109,Kevon Looney,OFFENSIVE_REBOUND,None,3.3,2,Warriors,Rockets,39 - 47,0,N/A,N/A,N/A
+110,Kevon Looney,FG_MISS,None,3.3,2,Warriors,Rockets,39 - 47,0, ,2,Jumper
+111,Kevon Looney,OFFENSIVE_REBOUND,None,3.3,2,Warriors,Rockets,39 - 47,0,N/A,N/A,N/A
+112,Kevon Looney,FG_UNASSISTED,None,3.3,2,Warriors,Rockets,41 - 47,0, ,2,Jumper
+113,James Harden,FG_MISS,Klay Thompson,0.0,2,Warriors,Rockets,41 - 47,1,36,3,Jumper
+114,Team,OFFENSIVE_REBOUND,None,0.0,2,Rockets,Warriors,41 - 47,1,N/A,N/A,N/A
+115,End of,Unknown,None,0.0,2,Rockets,Warriors,41 - 47,1,N/A,N/A,N/A
+0,Damian Jones,SUBSTITUTION,Looney Kevon,12:00,3,Warriors,Rockets,41 - 47,0,N/A,N/A,N/A
+1,James Harden,FG_UNASSISTED,None,11:37,3,Rockets,Warriors,41 - 50,1,28,3,Jumper
+2,Klay Thompson,FG_MISS,None,11:19,3,Warriors,Rockets,41 - 50,0, ,2,Jumper
+3,Damian Jones,OFFENSIVE_REBOUND,None,11:16,3,Warriors,Rockets,41 - 50,0,N/A,N/A,N/A
+4,Damian Jones,TURNOVER,James Harden,11:16,3,Warriors,Rockets,41 - 50,0,N/A,N/A,N/A
+5,James Ennis,FG_ASSISTED,Chris Paul,11:08,3,Rockets,Warriors,41 - 52,1,0,2,Layup
+6,James Ennis,FOUL_ON_FLOOR,None,10:56,3,Rockets,Warriors,41 - 52,1,N/A,N/A,N/A
+7,Kevin Durant,FG_UNASSISTED,None,10:47,3,Warriors,Rockets,43 - 52,0,16,2,Jumper
+8,Chris Paul,FG_MISS,None,10:16,3,Rockets,Warriors,43 - 52,1,27,3,Jumper
+9,Draymond Green,DEFENSIVE_REBOUND,None,10:14,3,Warriors,Rockets,43 - 52,0,N/A,N/A,N/A
+10,Draymond Green,FG_MISS,None,10:00,3,Warriors,Rockets,43 - 52,0,26,3,Jumper
+11,Damian Jones,OFFENSIVE_REBOUND,None,9:58,3,Warriors,Rockets,43 - 52,0,N/A,N/A,N/A
+12,Klay Thompson,FG_MISS,None,9:53,3,Warriors,Rockets,43 - 52,0,14,2,Jumper
+13,Clint Capela,DEFENSIVE_REBOUND,None,9:50,3,Rockets,Warriors,43 - 52,1,N/A,N/A,N/A
+14,Clint Capela,FG_ASSISTED,James Harden,9:38,3,Rockets,Warriors,43 - 54,1,0,2,Layup
+15,James Harden,FOUL_ON_FLOOR,None,9:22,3,Rockets,Warriors,43 - 54,1,N/A,N/A,N/A
+16,Kevin Durant,FG_UNASSISTED,None,9:17,3,Warriors,Rockets,45 - 54,0,20,2,Jumper
+17,Damian Jones,FOUL_ON_FLOOR,None,8:58,3,Warriors,Rockets,45 - 54,0,N/A,N/A,N/A
+18,James Harden,FG_MISS,None,8:44,3,Rockets,Warriors,45 - 54,1,26,2,Jumper
+19,Draymond Green,DEFENSIVE_REBOUND,None,8:41,3,Warriors,Rockets,45 - 54,0,N/A,N/A,N/A
+20,Draymond Green,TURNOVER,nnis III,8:30,3,Warriors,Rockets,45 - 54,0,N/A,N/A,N/A
+21,James Ennis,FG_MISS,None,8:25,3,Rockets,Warriors,45 - 54,1,26,3,Jumper
+22,Damian Jones,DEFENSIVE_REBOUND,None,8:23,3,Warriors,Rockets,45 - 54,0,N/A,N/A,N/A
+23,Draymond Green,TURNOVER,None,8:21,3,Warriors,Rockets,45 - 54,0,N/A,N/A,N/A
+24,Chris Paul,FG_UNASSISTED,None,8:01,3,Rockets,Warriors,45 - 56,1,12,2,Jumper
+25,Damian Jones,FG_MISS,Chris Paul,7:52,3,Rockets,Warriors,45 - 56,0,0,2,Layup
+26,Damian Jones,JUMP_BALL,None,7:44,3,Warriors,Rockets,45 - 56,0,N/A,N/A,N/A
+27,Team,OFFENSIVE_REBOUND,None,7:44,3,Warriors,Rockets,45 - 56,0,N/A,N/A,N/A
+28,Klay Thompson,FG_MISS,None,7:42,3,Warriors,Rockets,45 - 56,0,16,2,Jumper
+29,Team,DEFENSIVE_REBOUND,None,7:42,3,Rockets,Warriors,45 - 56,1,N/A,N/A,N/A
+30,Damian Jones,FOUL_ON_FLOOR,None,7:42,3,Warriors,Rockets,45 - 56,0,N/A,N/A,N/A
+31,Chris Paul,FG_MISS,Damian Jones,7:26,3,Warriors,Rockets,45 - 56,1,0,2,Layup
+32,Team,OFFENSIVE_REBOUND,None,7:26,3,Rockets,Warriors,45 - 56,1,N/A,N/A,N/A
+33,Draymond Green,FOUL_ON_FLOOR,None,7:19,3,Warriors,Rockets,45 - 56,0,N/A,N/A,N/A
+34,James Ennis,FT_MISS,None,7:19,3,Rockets,Warriors,45 - 56,1,N/A,1,N/A
+35,Team,OFFENSIVE_REBOUND,None,7:19,3,Rockets,Warriors,45 - 56,1,N/A,N/A,N/A
+36,James Ennis,FT_MISS,None,7:19,3,Rockets,Warriors,45 - 56,1,N/A,1,N/A
+37,Kevin Durant,DEFENSIVE_REBOUND,None,7:19,3,Warriors,Rockets,45 - 56,0,N/A,N/A,N/A
+38,Klay Thompson,TURNOVER,None,7:06,3,Warriors,Rockets,45 - 56,0,N/A,N/A,N/A
+39,Klay Thompson,TURNOVER,None,7:06,3,Warriors,Rockets,45 - 56,0,N/A,N/A,N/A
+40,Damian Jones,FOUL_ON_FLOOR,None,6:51,3,Warriors,Rockets,45 - 56,0,N/A,N/A,N/A
+41,Team,Unknown,None,6:51,3,Rockets,Warriors,45 - 56,1,N/A,N/A,N/A
+42,Eric Gordon,SUBSTITUTION,Paul Chris,6:51,3,Rockets,Warriors,45 - 56,1,N/A,N/A,N/A
+43,Kevon Looney,SUBSTITUTION,Jones Damian,6:51,3,Warriors,Rockets,45 - 56,0,N/A,N/A,N/A
+44,James Harden,FT,None,6:51,3,Rockets,Warriors,45 - 57,1,N/A,1,N/A
+45,James Harden,FT,None,6:51,3,Rockets,Warriors,45 - 58,1,N/A,1,N/A
+46,Kevon Looney,FG_ASSISTED,Kevin Durant,6:42,3,Warriors,Rockets,47 - 58,0,0,2,Layup
+47,James Ennis,FOUL_ON_FLOOR,None,6:42,3,Rockets,Warriors,47 - 58,1,N/A,N/A,N/A
+48,Kevon Looney,FT_MISS,None,6:42,3,Warriors,Rockets,47 - 58,0,N/A,1,N/A
+49,PJ Tucker,DEFENSIVE_REBOUND,None,6:42,3,Rockets,Warriors,47 - 58,1,N/A,N/A,N/A
+50,shot clock,TURNOVER,None,6:18,3,Rockets,Warriors,47 - 58,1,N/A,N/A,N/A
+51,Klay Thompson,FG_MISS,None,6:03,3,Warriors,Rockets,47 - 58,0,25,3,Jumper
+52,PJ Tucker,DEFENSIVE_REBOUND,None,6:01,3,Rockets,Warriors,47 - 58,1,N/A,N/A,N/A
+53,James Harden,FG_UNASSISTED,None,5:50,3,Rockets,Warriors,47 - 60,1,3,2,Jumper
+54,Kevin Durant,FG_MISS,None,5:39,3,Warriors,Rockets,47 - 60,0,25,3,Jumper
+55,Clint Capela,DEFENSIVE_REBOUND,None,5:37,3,Rockets,Warriors,47 - 60,1,N/A,N/A,N/A
+56,Kevon Looney,Unknown,None,5:34,3,Warriors,Rockets,47 - 60,0,N/A,N/A,N/A
+57,Gary Clark,SUBSTITUTION,III Ennis,5:34,3,Rockets,Warriors,47 - 60,1,N/A,N/A,N/A
+58,Jonas Jerebko,SUBSTITUTION,Green Draymond,5:34,3,Warriors,Rockets,47 - 60,0,N/A,N/A,N/A
+59,James Harden,FG_ASSISTED,Clint Capela,5:30,3,Rockets,Warriors,47 - 63,1,27,2,Jumper
+60,Klay Thompson,FG_ASSISTED,Kevin Durant,5:18,3,Warriors,Rockets,49 - 63,0,0,2,Layup
+61,Jonas Jerebko,FOUL_ON_FLOOR,None,5:04,3,Warriors,Rockets,49 - 63,0,N/A,N/A,N/A
+62,Clint Capela,FT,None,5:04,3,Rockets,Warriors,49 - 64,1,N/A,1,N/A
+63,Clint Capela,FT,None,5:04,3,Rockets,Warriors,49 - 65,1,N/A,1,N/A
+64,Kevin Durant,FG_MISS,None,4:49,3,Warriors,Rockets,49 - 65,0,13,2,Jumper
+65,Kevon Looney,OFFENSIVE_REBOUND,None,4:45,3,Warriors,Rockets,49 - 65,0,N/A,N/A,N/A
+66,Kevon Looney,FG_UNASSISTED,None,4:44,3,Warriors,Rockets,51 - 65,0, ,2,Jumper
+67,Clint Capela,FG_MISS,None,4:23,3,Rockets,Warriors,51 - 65,1, ,2,Jumper
+68,Andre Iguodala,DEFENSIVE_REBOUND,None,4:21,3,Warriors,Rockets,51 - 65,0,N/A,N/A,N/A
+69,Andre Iguodala,FG_UNASSISTED,None,4:14,3,Warriors,Rockets,53 - 65,0,2,2,Jumper
+70,James Harden,FG_MISS,None,3:53,3,Rockets,Warriors,53 - 65,1,26,3,Jumper
+71,Jonas Jerebko,DEFENSIVE_REBOUND,None,3:50,3,Warriors,Rockets,53 - 65,0,N/A,N/A,N/A
+72,Klay Thompson,FG_MISS,None,3:43,3,Warriors,Rockets,53 - 65,0,15,2,Jumper
+73,Kevon Looney,OFFENSIVE_REBOUND,None,3:41,3,Warriors,Rockets,53 - 65,0,N/A,N/A,N/A
+74,PJ Tucker,FOUL_ON_FLOOR,None,3:40,3,Rockets,Warriors,53 - 65,1,N/A,N/A,N/A
+75,Jonas Jerebko,FT,None,3:40,3,Warriors,Rockets,54 - 65,0,N/A,1,N/A
+76,Isaiah Hartenstein,SUBSTITUTION,Capela Clint,3:40,3,Rockets,Warriors,54 - 65,1,N/A,N/A,N/A
+77,Quinn Cook,SUBSTITUTION,for game,3:40,3,Warriors,Rockets,54 - 65,0,N/A,N/A,N/A
+78,Quinn Cook,SUBSTITUTION,Thompson Klay,3:40,3,Warriors,Rockets,54 - 65,0,N/A,N/A,N/A
+79,Jonas Jerebko,FT,None,3:40,3,Warriors,Rockets,55 - 65,0,N/A,1,N/A
+80,enters the,SUBSTITUTION,Iguodala Andre,3:40,3,Warriors,Rockets,55 - 65,0,N/A,N/A,N/A
+81,Gary Clark,FG_ASSISTED,James Harden,3:18,3,Rockets,Warriors,55 - 68,1,27,3,Jumper
+82,James Harden,FOUL_ON_FLOOR,None,3:06,3,Rockets,Warriors,55 - 68,1,N/A,N/A,N/A
+83,Kevin Durant,FT,None,3:06,3,Warriors,Rockets,56 - 68,0,N/A,1,N/A
+84,Kevin Durant,FT,None,3:06,3,Warriors,Rockets,57 - 68,0,N/A,1,N/A
+85,Kevin Durant,FOUL_ON_FLOOR,None,2:57,3,Warriors,Rockets,57 - 68,0,N/A,N/A,N/A
+86,Team,Unknown,None,2:57,3,Warriors,Rockets,57 - 68,0,N/A,N/A,N/A
+87,James Harden,FT,None,2:57,3,Rockets,Warriors,57 - 69,1,N/A,1,N/A
+88,James Harden,FT,None,2:57,3,Rockets,Warriors,57 - 70,1,N/A,1,N/A
+89,Kevin Durant,FG_MISS,None,2:36,3,Warriors,Rockets,57 - 70,0,13,2,Jumper
+90,Kevon Looney,OFFENSIVE_REBOUND,None,2:29,3,Warriors,Rockets,57 - 70,0,N/A,N/A,N/A
+91,Kevon Looney,FG_UNASSISTED,None,2:29,3,Warriors,Rockets,59 - 70,0, ,2,Jumper
+92,Eric Gordon,FG_MISS,None,2:23,3,Rockets,Warriors,59 - 70,1,26,3,Jumper
+93,Jonas Jerebko,DEFENSIVE_REBOUND,None,2:21,3,Warriors,Rockets,59 - 70,0,N/A,N/A,N/A
+94,Eric Gordon,Unknown,None,2:12,3,Rockets,Warriors,59 - 70,1,N/A,N/A,N/A
+95,Chris Paul,SUBSTITUTION,Harden James,2:12,3,Rockets,Warriors,59 - 70,1,N/A,N/A,N/A
+96,Quinn Cook,FG_MISS,None,2:00,3,Warriors,Rockets,59 - 70,0,27,3,Jumper
+97,Team,DEFENSIVE_REBOUND,None,1:59,3,Rockets,Warriors,59 - 70,1,N/A,N/A,N/A
+98,PJ Tucker,FG_MISS,None,1:41,3,Rockets,Warriors,59 - 70,1,23,3,Jumper
+99,Gary Clark,OFFENSIVE_REBOUND,None,1:38,3,Rockets,Warriors,59 - 70,1,N/A,N/A,N/A
+100,Gary Clark,FG_ASSISTED,Eric Gordon,1:32,3,Rockets,Warriors,59 - 73,1,26,3,Jumper
+101,Shaun Livingston,FG_MISS,None,1:09,3,Warriors,Rockets,59 - 73,0,16,2,Jumper
+102,Isaiah Hartenstein,DEFENSIVE_REBOUND,None,1:07,3,Rockets,Warriors,59 - 73,1,N/A,N/A,N/A
+103,Eric Gordon,FG_MISS,None,1:01,3,Rockets,Warriors,59 - 73,1,29,3,Jumper
+104,Team,OFFENSIVE_REBOUND,None,59.2,3,Rockets,Warriors,59 - 73,1,N/A,N/A,N/A
+105,Gary Clark,FG_ASSISTED,PJ Tucker,48.0,3,Rockets,Warriors,59 - 76,1,23,3,Jumper
+106,Chris Paul,FOUL_TECHNICAL,None,30.1,3,Rockets,Warriors,59 - 76,1,N/A,N/A,N/A
+107,Kevin Durant,FT,None,30.1,3,Warriors,Rockets,60 - 76,0,N/A,1,N/A
+108,Team,Unknown,None,30.1,3,Warriors,Rockets,60 - 76,0,N/A,N/A,N/A
+109,Quinn Cook,FG_ASSISTED,Shaun Livingston,19.7,3,Warriors,Rockets,63 - 76,0,27,3,Jumper
+110,Gary Clark,FG_MISS,None,1.8,3,Rockets,Warriors,63 - 76,1,27,3,Jumper
+111,Kevin Durant,DEFENSIVE_REBOUND,None,1.2,3,Warriors,Rockets,63 - 76,0,N/A,N/A,N/A
+112,End of,Unknown,None,0.0,3,Rockets,Warriors,63 - 76,1,N/A,N/A,N/A
+0,James Ennis,SUBSTITUTION,Tucker PJ,12:00,4,Rockets,Warriors,63 - 76,1,N/A,N/A,N/A
+1,Klay Thompson,SUBSTITUTION,Looney Kevon,12:00,4,Warriors,Rockets,63 - 76,0,N/A,N/A,N/A
+2,Draymond Green,SUBSTITUTION,Durant Kevin,12:00,4,Warriors,Rockets,63 - 76,0,N/A,N/A,N/A
+3,Jonas Jerebko,FG_MISS,Gary Clark,11:46,4,Rockets,Warriors,63 - 76,0,0,2,Layup
+4,Gary Clark,DEFENSIVE_REBOUND,None,11:43,4,Rockets,Warriors,63 - 76,1,N/A,N/A,N/A
+5,Eric Gordon,TURNOVER,None,11:31,4,Rockets,Warriors,63 - 76,1,N/A,N/A,N/A
+6,Klay Thompson,FG_ASSISTED,Jonas Jerebko,11:17,4,Warriors,Rockets,65 - 76,0,0,2,Layup
+7,Gary Clark,FG_MISS,None,11:04,4,Rockets,Warriors,65 - 76,1,26,3,Jumper
+8,James Ennis,OFFENSIVE_REBOUND,None,11:02,4,Rockets,Warriors,65 - 76,1,N/A,N/A,N/A
+9,Eric Gordon,FG_MISS,None,11:00,4,Rockets,Warriors,65 - 76,1,26,3,Jumper
+10,Team,OFFENSIVE_REBOUND,None,10:59,4,Rockets,Warriors,65 - 76,1,N/A,N/A,N/A
+11,Eric Gordon,FG_UNASSISTED,None,10:47,4,Rockets,Warriors,65 - 78,1,9,2,Jumper
+12,Draymond Green,TURNOVER,Chris Paul,10:43,4,Warriors,Rockets,65 - 78,0,N/A,N/A,N/A
+13,Jonas Jerebko,FOUL_ON_FLOOR,None,10:43,4,Warriors,Rockets,65 - 78,0,N/A,N/A,N/A
+14,James Ennis,FG_ASSISTED,Chris Paul,10:28,4,Rockets,Warriors,65 - 80,1,0,2,Layup
+15,Klay Thompson,FG_MISS,None,10:13,4,Warriors,Rockets,65 - 80,0,26,3,Jumper
+16,James Ennis,DEFENSIVE_REBOUND,None,10:10,4,Rockets,Warriors,65 - 80,1,N/A,N/A,N/A
+17,Chris Paul,FG_MISS,None,10:06,4,Rockets,Warriors,65 - 80,1,27,3,Jumper
+18,Team,OFFENSIVE_REBOUND,None,10:04,4,Rockets,Warriors,65 - 80,1,N/A,N/A,N/A
+19,Quinn Cook,FOUL_ON_FLOOR,None,10:04,4,Warriors,Rockets,65 - 80,0,N/A,N/A,N/A
+20,Draymond Green,FOUL_ON_FLOOR,None,9:59,4,Warriors,Rockets,65 - 80,0,N/A,N/A,N/A
+21,James Ennis,FT,None,9:59,4,Rockets,Warriors,65 - 81,1,N/A,1,N/A
+22,James Ennis,FT,None,9:59,4,Rockets,Warriors,65 - 82,1,N/A,1,N/A
+23,Klay Thompson,FG_MISS,None,9:49,4,Warriors,Rockets,65 - 82,0,28,3,Jumper
+24,Gary Clark,DEFENSIVE_REBOUND,None,9:46,4,Rockets,Warriors,65 - 82,1,N/A,N/A,N/A
+25,Chris Paul,FG_MISS,None,9:40,4,Rockets,Warriors,65 - 82,1, ,2,Jumper
+26,Draymond Green,DEFENSIVE_REBOUND,None,9:36,4,Warriors,Rockets,65 - 82,0,N/A,N/A,N/A
+27,Klay Thompson,TURNOVER,Chris Paul,9:34,4,Warriors,Rockets,65 - 82,0,N/A,N/A,N/A
+28,Shaun Livingston,FOUL_ON_FLOOR,None,9:34,4,Warriors,Rockets,65 - 82,0,N/A,N/A,N/A
+29,James Ennis,FG_ASSISTED,Chris Paul,9:11,4,Rockets,Warriors,65 - 85,1,23,3,Jumper
+30,Klay Thompson,FG_MISS,None,8:59,4,Warriors,Rockets,65 - 85,0,19,2,Jumper
+31,Chris Paul,DEFENSIVE_REBOUND,None,8:56,4,Rockets,Warriors,65 - 85,1,N/A,N/A,N/A
+32,Chris Paul,TURNOVER,Shaun Livingston,8:52,4,Rockets,Warriors,65 - 85,1,N/A,N/A,N/A
+33,Jonas Jerebko,FG_MISS,Chris Paul,8:47,4,Rockets,Warriors,65 - 85,0,0,2,Layup
+34,Chris Paul,DEFENSIVE_REBOUND,None,8:44,4,Rockets,Warriors,65 - 85,1,N/A,N/A,N/A
+35,Isaiah Hartenstein,FG_ASSISTED,Eric Gordon,8:42,4,Rockets,Warriors,65 - 88,1,23,3,Jumper
+36,Team,Unknown,None,8:36,4,Warriors,Rockets,65 - 88,0,N/A,N/A,N/A
+37,enters the,SUBSTITUTION,Paul Chris,8:36,4,Rockets,Warriors,65 - 88,1,N/A,N/A,N/A
+38,Kevon Looney,SUBSTITUTION,Jerebko Jonas,8:36,4,Warriors,Rockets,65 - 88,0,N/A,N/A,N/A
+39,Jacob Evans,SUBSTITUTION,Livingston Shaun,8:36,4,Warriors,Rockets,65 - 88,0,N/A,N/A,N/A
+40,Alfonzo McKinnie,SUBSTITUTION,Thompson Klay,8:36,4,Warriors,Rockets,65 - 88,0,N/A,N/A,N/A
+41,Jordan Bell,SUBSTITUTION,Green Draymond,8:36,4,Warriors,Rockets,65 - 88,0,N/A,N/A,N/A
+42,Kevon Looney,TURNOVER,None,8:19,4,Warriors,Rockets,65 - 88,0,N/A,N/A,N/A
+43,James Ennis,FG_ASSISTED,Gary Clark,8:08,4,Rockets,Warriors,65 - 90,1,0,2,Layup
+44,Jacob Evans,FOUL_ON_FLOOR,None,8:08,4,Warriors,Rockets,65 - 90,0,N/A,N/A,N/A
+45,James Ennis,FT,None,8:08,4,Rockets,Warriors,65 - 91,1,N/A,1,N/A
+46,Alfonzo McKinnie,FG_MISS,Gary Clark,7:48,4,Rockets,Warriors,65 - 91,0,0,2,Layup
+47,Jordan Bell,OFFENSIVE_REBOUND,None,7:44,4,Warriors,Rockets,65 - 91,0,N/A,N/A,N/A
+48,Kevon Looney,FG_MISS,None,7:43,4,Warriors,Rockets,65 - 91,0,26,3,Jumper
+49,Gary Clark,DEFENSIVE_REBOUND,None,7:41,4,Rockets,Warriors,65 - 91,1,N/A,N/A,N/A
+50,James Harden,FG_MISS,None,7:28,4,Rockets,Warriors,65 - 91,1,26,2,Jumper
+51,Isaiah Hartenstein,OFFENSIVE_REBOUND,None,7:25,4,Rockets,Warriors,65 - 91,1,N/A,N/A,N/A
+52,Gary Clark,FG_MISS,None,7:11,4,Rockets,Warriors,65 - 91,1,24,3,Jumper
+53,Jacob Evans,DEFENSIVE_REBOUND,None,7:09,4,Warriors,Rockets,65 - 91,0,N/A,N/A,N/A
+54,James Harden,FOUL_ON_FLOOR,None,7:05,4,Rockets,Warriors,65 - 91,1,N/A,N/A,N/A
+55,Clint Capela,SUBSTITUTION,Hartenstein Isaiah,7:05,4,Rockets,Warriors,65 - 91,1,N/A,N/A,N/A
+56,Kevon Looney,TURNOVER,James Harden,6:51,4,Warriors,Rockets,65 - 91,0,N/A,N/A,N/A
+57,James Ennis,FG_ASSISTED,Eric Gordon,6:44,4,Rockets,Warriors,65 - 94,1,23,3,Jumper
+58,Jacob Evans,FG_MISS,None,6:27,4,Warriors,Rockets,65 - 94,0,23,3,Jumper
+59,Team,OFFENSIVE_REBOUND,None,6:27,4,Warriors,Rockets,65 - 94,0,N/A,N/A,N/A
+60,Clint Capela,FOUL_ON_FLOOR,None,6:27,4,Rockets,Warriors,65 - 94,1,N/A,N/A,N/A
+61,Damian Jones,SUBSTITUTION,Looney Kevon,6:27,4,Warriors,Rockets,65 - 94,0,N/A,N/A,N/A
+62,Quinn Cook,FG_MISS,None,6:15,4,Warriors,Rockets,65 - 94,0,0,2,Layup
+63,Clint Capela,DEFENSIVE_REBOUND,None,6:13,4,Rockets,Warriors,65 - 94,1,N/A,N/A,N/A
+64,Eric Gordon,FG_ASSISTED,Gary Clark,6:06,4,Rockets,Warriors,65 - 97,1,24,3,Jumper
+65,Jordan Bell,FG_MISS,None,5:41,4,Warriors,Rockets,65 - 97,0,17,2,Jumper
+66,James Harden,DEFENSIVE_REBOUND,None,5:39,4,Rockets,Warriors,65 - 97,1,N/A,N/A,N/A
+67,James Harden,FG_MISS,None,5:25,4,Rockets,Warriors,65 - 97,1,0,2,Layup
+68,Jacob Evans,DEFENSIVE_REBOUND,None,5:23,4,Warriors,Rockets,65 - 97,0,N/A,N/A,N/A
+69,Alfonzo McKinnie,FG_ASSISTED,Jacob Evans,5:18,4,Warriors,Rockets,67 - 97,0,0,2,Dunk
+70,James Ennis,FG_MISS,None,5:02,4,Rockets,Warriors,67 - 97,1,23,3,Jumper
+71,Jordan Bell,DEFENSIVE_REBOUND,None,4:59,4,Warriors,Rockets,67 - 97,0,N/A,N/A,N/A
+72,Alfonzo McKinnie,FG_ASSISTED,Jordan Bell,4:46,4,Warriors,Rockets,69 - 97,0,0,2,Layup
+73,James Harden,FOUL_ON_FLOOR,None,4:46,4,Rockets,Warriors,69 - 97,1,N/A,N/A,N/A
+74,Alfonzo McKinnie,FT,None,4:46,4,Warriors,Rockets,70 - 97,0,N/A,1,N/A
+75,Quinn Cook,FOUL_ON_FLOOR,None,4:35,4,Warriors,Rockets,70 - 97,0,N/A,N/A,N/A
+76,Eric Gordon,FT,None,4:35,4,Rockets,Warriors,70 - 98,1,N/A,1,N/A
+77,Eric Gordon,FT,None,4:35,4,Rockets,Warriors,70 - 99,1,N/A,1,N/A
+78,Quinn Cook,FG_ASSISTED,Jordan Bell,4:24,4,Warriors,Rockets,73 - 99,0,26,2,Jumper
+79,Eric Gordon,FG_MISS,None,4:05,4,Rockets,Warriors,73 - 99,1,28,3,Jumper
+80,James Ennis,OFFENSIVE_REBOUND,None,4:02,4,Rockets,Warriors,73 - 99,1,N/A,N/A,N/A
+81,James Ennis,FG_UNASSISTED,None,4:01,4,Rockets,Warriors,73 - 101,1,1,2,Jumper
+82,Jordan Bell,FG_ASSISTED,Quinn Cook,3:43,4,Warriors,Rockets,75 - 101,0,21,2,Jumper
+83,Team,Unknown,None,3:43,4,Rockets,Warriors,75 - 101,1,N/A,N/A,N/A
+84,Gerald Green,SUBSTITUTION,III Ennis,3:43,4,Rockets,Warriors,75 - 101,1,N/A,N/A,N/A
+85,Vincent Edwards,SUBSTITUTION,Gordon Eric,3:43,4,Rockets,Warriors,75 - 101,1,N/A,N/A,N/A
+86,Michael Carter-Williams,SUBSTITUTION,Harden James,3:43,4,Rockets,Warriors,75 - 101,1,N/A,N/A,N/A
+87,Marquese Chriss,SUBSTITUTION,Capela Clint,3:43,4,Rockets,Warriors,75 - 101,1,N/A,N/A,N/A
+88,Gerald Green,FG_MISS,None,3:27,4,Rockets,Warriors,75 - 101,1,28,3,Jumper
+89,Quinn Cook,DEFENSIVE_REBOUND,None,3:25,4,Warriors,Rockets,75 - 101,0,N/A,N/A,N/A
+90,Marquese Chriss,FOUL_ON_FLOOR,None,3:11,4,Rockets,Warriors,75 - 101,1,N/A,N/A,N/A
+91,Gerald Green,FOUL_ON_FLOOR,None,3:09,4,Rockets,Warriors,75 - 101,1,N/A,N/A,N/A
+92,Alfonzo McKinnie,FT_MISS,None,3:09,4,Warriors,Rockets,75 - 101,0,N/A,1,N/A
+93,Team,OFFENSIVE_REBOUND,None,3:09,4,Warriors,Rockets,75 - 101,0,N/A,N/A,N/A
+94,Alfonzo McKinnie,FT,None,3:09,4,Warriors,Rockets,76 - 101,0,N/A,1,N/A
+95,Michael Carter-Williams,FG_MISS,None,2:54,4,Rockets,Warriors,76 - 101,1,0,2,Layup
+96,Damian Jones,DEFENSIVE_REBOUND,None,2:54,4,Warriors,Rockets,76 - 101,0,N/A,N/A,N/A
+97,Michael Carter-Williams,FOUL_ON_FLOOR,None,2:54,4,Rockets,Warriors,76 - 101,1,N/A,N/A,N/A
+98,Damian Jones,FT,None,2:54,4,Warriors,Rockets,77 - 101,0,N/A,1,N/A
+99,Damian Jones,FT,None,2:54,4,Warriors,Rockets,78 - 101,0,N/A,1,N/A
+100,Gerald Green,FG_MISS,None,2:39,4,Rockets,Warriors,78 - 101,1,25,3,Jumper
+101,Gary Clark,OFFENSIVE_REBOUND,None,2:36,4,Rockets,Warriors,78 - 101,1,N/A,N/A,N/A
+102,shot clock,TURNOVER,None,2:23,4,Rockets,Warriors,78 - 101,1,N/A,N/A,N/A
+103,Marquese Chriss,FOUL_ON_FLOOR,None,2:16,4,Rockets,Warriors,78 - 101,1,N/A,N/A,N/A
+104,Damian Jones,FT_MISS,None,2:16,4,Warriors,Rockets,78 - 101,0,N/A,1,N/A
+105,Team,OFFENSIVE_REBOUND,None,2:16,4,Warriors,Rockets,78 - 101,0,N/A,N/A,N/A
+106,Damian Jones,FT,None,2:16,4,Warriors,Rockets,79 - 101,0,N/A,1,N/A
+107,Gerald Green,FG_UNASSISTED,None,2:06,4,Rockets,Warriors,79 - 103,1,3,2,Jumper
+108,Damian Jones,FG_ASSISTED,Jordan Bell,1:53,4,Warriors,Rockets,81 - 103,0,0,2,Layup
+109,Jordan Bell,FOUL_ON_FLOOR,None,1:30,4,Warriors,Rockets,81 - 103,0,N/A,N/A,N/A
+110,Michael Carter-Williams,FT,None,1:30,4,Rockets,Warriors,81 - 104,1,N/A,1,N/A
+111,Michael Carter-Williams,FT_MISS,None,1:30,4,Rockets,Warriors,81 - 104,1,N/A,1,N/A
+112,Jordan Bell,DEFENSIVE_REBOUND,None,1:30,4,Warriors,Rockets,81 - 104,0,N/A,N/A,N/A
+113,Alfonzo McKinnie,FG_UNASSISTED,None,1:12,4,Warriors,Rockets,83 - 104,0,1,2,Jumper
+114,Gerald Green,FG_MISS,None,53.8,4,Rockets,Warriors,83 - 104,1,18,2,Jumper
+115,Alfonzo McKinnie,DEFENSIVE_REBOUND,None,52.6,4,Warriors,Rockets,83 - 104,0,N/A,N/A,N/A
+116,Quinn Cook,FG_UNASSISTED,None,45.0,4,Warriors,Rockets,86 - 104,0,26,3,Jumper
+117,Vincent Edwards,FG_MISS,None,36.8,4,Rockets,Warriors,86 - 104,1,24,3,Jumper
+118,Vincent Edwards,OFFENSIVE_REBOUND,None,33.4,4,Rockets,Warriors,86 - 104,1,N/A,N/A,N/A
+119,Vincent Edwards,FG_ASSISTED,Michael Carter-Williams,22.9,4,Rockets,Warriors,86 - 107,1,24,3,Jumper
+120,Quinn Cook,FG_MISS,None,8.6,4,Warriors,Rockets,86 - 107,0,10,2,Jumper
+121,Michael Carter-Williams,DEFENSIVE_REBOUND,None,6.5,4,Rockets,Warriors,86 - 107,1,N/A,N/A,N/A
+122,End of,Unknown,None,0.0,4,Rockets,Warriors,86 - 107,1,N/A,N/A,N/A
+123,End of,Unknown,None,0.0,4,Rockets,Warriors,86 - 107,1,N/A,N/A,N/A

@@ -1,0 +1,358 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Robert Williams,JUMP_BALL,None,12:00,1,Wizards,Celtics,0 - 0,1,N/A,N/A,N/A
+1,Thomas Bryant,FG_ASSISTED,Troy Brown,11:38,1,Wizards,Celtics,0 - 2,1,16,2,Jumper
+2,Terry Rozier,FG_ASSISTED,Semi Ojeleye,11:19,1,Celtics,Wizards,3 - 2,0,26,3,Jumper
+3,Thomas Bryant,FG_ASSISTED,Tomas Satoransky,10:59,1,Wizards,Celtics,3 - 4,1,0,2,Dunk
+4,Semi Ojeleye,FG_MISS,None,10:45,1,Celtics,Wizards,3 - 4,0,2,2,Jumper
+5,Bobby Portis,DEFENSIVE_REBOUND,None,10:43,1,Wizards,Celtics,3 - 4,1,N/A,N/A,N/A
+6,Bradley Beal,FG_ASSISTED,Troy Brown,10:36,1,Wizards,Celtics,3 - 6,1,0,2,Layup
+7,Jaylen Brown,FG_ASSISTED,Terry Rozier,10:23,1,Celtics,Wizards,5 - 6,0,-,2,Jumper
+8,Bradley Beal,FG_MISS,None,10:04,1,Wizards,Celtics,5 - 6,1,23,2,Jumper
+9,Robert Williams,DEFENSIVE_REBOUND,None,10:01,1,Celtics,Wizards,5 - 6,0,N/A,N/A,N/A
+10,Guerschon Yabusele,FG_MISS,None,9:56,1,Celtics,Wizards,5 - 6,0,25,3,Jumper
+11,Robert Williams,OFFENSIVE_REBOUND,None,9:53,1,Celtics,Wizards,5 - 6,0,N/A,N/A,N/A
+12,Jaylen Brown,FG_MISS,None,9:52,1,Celtics,Wizards,5 - 6,0,26,3,Jumper
+13,Bobby Portis,DEFENSIVE_REBOUND,None,9:47,1,Wizards,Celtics,5 - 6,1,N/A,N/A,N/A
+14,Tomas Satoransky,FG_MISS,None,9:41,1,Wizards,Celtics,5 - 6,1,10,2,Jumper
+15,Guerschon Yabusele,DEFENSIVE_REBOUND,None,9:39,1,Celtics,Wizards,5 - 6,0,N/A,N/A,N/A
+16,Terry Rozier,FG_UNASSISTED,None,9:31,1,Celtics,Wizards,7 - 6,0,-,2,Jumper
+17,Troy Brown,FG_MISS,None,9:15,1,Wizards,Celtics,7 - 6,1,16,2,Jumper
+18,Terry Rozier,DEFENSIVE_REBOUND,None,9:12,1,Celtics,Wizards,7 - 6,0,N/A,N/A,N/A
+19,Terry Rozier,FG_MISS,None,9:07,1,Celtics,Wizards,7 - 6,0,25,2,Jumper
+20,Troy Brown,DEFENSIVE_REBOUND,None,9:03,1,Wizards,Celtics,7 - 6,1,N/A,N/A,N/A
+21,Thomas Bryant,FG_ASSISTED,Bradley Beal,8:58,1,Wizards,Celtics,7 - 8,1,0,2,Dunk
+22,Jaylen Brown,FG_MISS,None,8:37,1,Celtics,Wizards,7 - 8,0,-,2,Jumper
+23,Thomas Bryant,DEFENSIVE_REBOUND,None,8:35,1,Wizards,Celtics,7 - 8,1,N/A,N/A,N/A
+24,Bobby Portis,FG_MISS,None,8:28,1,Wizards,Celtics,7 - 8,1,18,2,Jumper
+25,Bradley Beal,OFFENSIVE_REBOUND,None,8:26,1,Wizards,Celtics,7 - 8,1,N/A,N/A,N/A
+26,Bradley Beal,FG_UNASSISTED,None,8:25,1,Wizards,Celtics,7 - 10,1,0,2,Layup
+27,Robert Williams,Unknown,None,8:25,1,Celtics,Wizards,7 - 10,0,N/A,N/A,N/A
+28,Jaylen Brown,FG_ASSISTED,Terry Rozier,8:10,1,Celtics,Wizards,9 - 10,0,0,2,Layup
+29,Robert Williams,FOUL_ON_FLOOR,None,7:55,1,Celtics,Wizards,9 - 10,0,N/A,N/A,N/A
+30,Tomas Satoransky,FT_MISS,None,7:55,1,Wizards,Celtics,9 - 10,1,N/A,1,N/A
+31,Team,OFFENSIVE_REBOUND,None,7:55,1,Wizards,Celtics,9 - 10,1,N/A,N/A,N/A
+32,Tomas Satoransky,FT,None,7:55,1,Wizards,Celtics,9 - 11,1,N/A,1,N/A
+33,Jaylen Brown,FG_MISS,None,7:41,1,Celtics,Wizards,9 - 11,0,26,3,Jumper
+34,Tomas Satoransky,DEFENSIVE_REBOUND,None,7:38,1,Wizards,Celtics,9 - 11,1,N/A,N/A,N/A
+35,Tomas Satoransky,FG_ASSISTED,Bradley Beal,7:26,1,Wizards,Celtics,9 - 14,1,24,3,Jumper
+36,Jaylen Brown,FG_ASSISTED,Terry Rozier,7:14,1,Celtics,Wizards,12 - 14,0,26,3,Jumper
+37,Troy Brown,FG_MISS,None,7:05,1,Wizards,Celtics,12 - 14,1,25,3,Jumper
+38,Guerschon Yabusele,DEFENSIVE_REBOUND,None,7:03,1,Celtics,Wizards,12 - 14,0,N/A,N/A,N/A
+39,Jaylen Brown,FG_MISS,None,6:55,1,Celtics,Wizards,12 - 14,0,0,2,Layup
+40,Bradley Beal,DEFENSIVE_REBOUND,None,6:52,1,Wizards,Celtics,12 - 14,1,N/A,N/A,N/A
+41,Robert Williams,FOUL_ON_FLOOR,None,6:50,1,Celtics,Wizards,12 - 14,0,N/A,N/A,N/A
+42,Team,Unknown,None,6:50,1,Wizards,Celtics,12 - 14,1,N/A,N/A,N/A
+43,Guerschon Yabusele,FOUL_ON_FLOOR,None,6:38,1,Celtics,Wizards,12 - 14,0,N/A,N/A,N/A
+44,Bradley Beal,FT,None,6:38,1,Wizards,Celtics,12 - 15,1,N/A,1,N/A
+45,Bradley Beal,FT,None,6:38,1,Wizards,Celtics,12 - 16,1,N/A,1,N/A
+46,Tomas Satoransky,Unknown,None,6:28,1,Wizards,Celtics,12 - 16,1,N/A,N/A,N/A
+47,Guerschon Yabusele,FG_MISS,None,6:17,1,Celtics,Wizards,12 - 16,0,8,2,Jumper
+48,Bobby Portis,DEFENSIVE_REBOUND,None,6:15,1,Wizards,Celtics,12 - 16,1,N/A,N/A,N/A
+49,Troy Brown,FG_MISS,None,6:07,1,Wizards,Celtics,12 - 16,1,25,3,Jumper
+50,Robert Williams,DEFENSIVE_REBOUND,None,6:04,1,Celtics,Wizards,12 - 16,0,N/A,N/A,N/A
+51,Guerschon Yabusele,FG_MISS,None,5:59,1,Celtics,Wizards,12 - 16,0,26,3,Jumper
+52,Bobby Portis,DEFENSIVE_REBOUND,None,5:56,1,Wizards,Celtics,12 - 16,1,N/A,N/A,N/A
+53,Troy Brown,FG_ASSISTED,Bradley Beal,5:46,1,Wizards,Celtics,12 - 19,1,24,3,Jumper
+54,Jaylen Brown,FG_UNASSISTED,None,5:31,1,Celtics,Wizards,14 - 19,0,16,2,Jumper
+55,Thomas Bryant,FG_ASSISTED,Tomas Satoransky,5:15,1,Wizards,Celtics,14 - 22,1,25,3,Jumper
+56,Semi Ojeleye,FG_MISS,None,4:58,1,Celtics,Wizards,14 - 22,0,24,3,Jumper
+57,Robert Williams,OFFENSIVE_REBOUND,None,4:57,1,Celtics,Wizards,14 - 22,0,N/A,N/A,N/A
+58,Robert Williams,FG_MISS,None,4:56,1,Celtics,Wizards,14 - 22,0, ,2,Jumper
+59,Troy Brown,DEFENSIVE_REBOUND,None,4:55,1,Wizards,Celtics,14 - 22,1,N/A,N/A,N/A
+60,Tomas Satoransky,FG_ASSISTED,Bobby Portis,4:50,1,Wizards,Celtics,14 - 24,1,0,2,Layup
+61,Team,Unknown,None,4:50,1,Celtics,Wizards,14 - 24,0,N/A,N/A,N/A
+62,Brad Wanamaker,SUBSTITUTION,Brown Jaylen,4:50,1,Celtics,Wizards,14 - 24,0,N/A,N/A,N/A
+63,Daniel Theis,SUBSTITUTION,Ojeleye Semi,4:50,1,Celtics,Wizards,14 - 24,0,N/A,N/A,N/A
+64,PJ Dozier,SUBSTITUTION,III Williams,4:50,1,Celtics,Wizards,14 - 24,0,N/A,N/A,N/A
+65,Ian Mahinmi,SUBSTITUTION,Portis Bobby,4:50,1,Wizards,Celtics,14 - 24,1,N/A,N/A,N/A
+66,Devin Robinson,SUBSTITUTION,Brown Troy,4:50,1,Wizards,Celtics,14 - 24,1,N/A,N/A,N/A
+67,Brad Wanamaker,FG_MISS,None,4:37,1,Celtics,Wizards,14 - 24,0,26,3,Jumper
+68,Bradley Beal,DEFENSIVE_REBOUND,None,4:34,1,Wizards,Celtics,14 - 24,1,N/A,N/A,N/A
+69,Ian Mahinmi,FG_ASSISTED,Bradley Beal,4:20,1,Wizards,Celtics,14 - 27,1,27,3,Jumper
+70,Ian Mahinmi,FOUL_ON_FLOOR,None,4:08,1,Wizards,Celtics,14 - 27,1,N/A,N/A,N/A
+71,Terry Rozier,FG_MISS,None,3:59,1,Celtics,Wizards,14 - 27,0,0,2,Layup
+72,Thomas Bryant,DEFENSIVE_REBOUND,None,3:57,1,Wizards,Celtics,14 - 27,1,N/A,N/A,N/A
+73,Bradley Beal,FG_UNASSISTED,None,3:45,1,Wizards,Celtics,14 - 29,1,0,2,Dunk
+74,Brad Wanamaker,TURNOVER,None,3:28,1,Celtics,Wizards,14 - 29,0,N/A,N/A,N/A
+75,Chasson Randle,SUBSTITUTION,Satoransky Tomas,3:28,1,Wizards,Celtics,14 - 29,1,N/A,N/A,N/A
+76,Brad Wanamaker,FOUL_ON_FLOOR,None,3:11,1,Celtics,Wizards,14 - 29,0,N/A,N/A,N/A
+77,Sam Dekker,SUBSTITUTION,Bryant Thomas,3:11,1,Wizards,Celtics,14 - 29,1,N/A,N/A,N/A
+78,Chasson Randle,FG_MISS,None,3:01,1,Wizards,Celtics,14 - 29,1,25,3,Jumper
+79,Team,DEFENSIVE_REBOUND,None,2:57,1,Celtics,Wizards,14 - 29,0,N/A,N/A,N/A
+80,Semi Ojeleye,SUBSTITUTION,Yabusele Guerschon,2:57,1,Celtics,Wizards,14 - 29,0,N/A,N/A,N/A
+81,RJ Hunter,SUBSTITUTION,Rozier Terry,2:57,1,Celtics,Wizards,14 - 29,0,N/A,N/A,N/A
+82,RJ Hunter,FG_MISS,None,2:57,1,Celtics,Wizards,14 - 29,0,28,3,Jumper
+83,Ian Mahinmi,DEFENSIVE_REBOUND,None,2:38,1,Wizards,Celtics,14 - 29,1,N/A,N/A,N/A
+84,Bradley Beal,FG_UNASSISTED,None,2:34,1,Wizards,Celtics,14 - 32,1,26,3,Jumper
+85,PJ Dozier,FG_MISS,None,2:17,1,Celtics,Wizards,14 - 32,0,25,3,Jumper
+86,Chasson Randle,DEFENSIVE_REBOUND,None,2:14,1,Wizards,Celtics,14 - 32,1,N/A,N/A,N/A
+87,Bradley Beal,FG_ASSISTED,Chasson Randle,2:07,1,Wizards,Celtics,14 - 35,1,29,2,Jumper
+88,Semi Ojeleye,FG_ASSISTED,PJ Dozier,1:57,1,Celtics,Wizards,16 - 35,0,0,2,Layup
+89,Bradley Beal,FG_MISS,None,1:51,1,Wizards,Celtics,16 - 35,1,31,3,Jumper
+90,Team,DEFENSIVE_REBOUND,None,1:48,1,Celtics,Wizards,16 - 35,0,N/A,N/A,N/A
+91,PJ Dozier,FG_MISS,None,1:41,1,Celtics,Wizards,16 - 35,0, ,2,Jumper
+92,Chasson Randle,DEFENSIVE_REBOUND,None,1:37,1,Wizards,Celtics,16 - 35,1,N/A,N/A,N/A
+93,Bradley Beal,FG_MISS,None,1:29,1,Wizards,Celtics,16 - 35,1,29,3,Jumper
+94,PJ Dozier,DEFENSIVE_REBOUND,None,1:22,1,Celtics,Wizards,16 - 35,0,N/A,N/A,N/A
+95,Semi Ojeleye,FG_ASSISTED,PJ Dozier,1:20,1,Celtics,Wizards,19 - 35,0,23,3,Jumper
+96,Devin Robinson,TURNOVER,PJ Dozier,1:04,1,Wizards,Celtics,19 - 35,1,N/A,N/A,N/A
+97,RJ Hunter,FG_ASSISTED,Brad Wanamaker,57.9,1,Celtics,Wizards,22 - 35,0,27,3,Jumper
+98,Sam Dekker,FG_MISS,None,42.3,1,Wizards,Celtics,22 - 35,1,26,3,Jumper
+99,Devin Robinson,OFFENSIVE_REBOUND,None,38.4,1,Wizards,Celtics,22 - 35,1,N/A,N/A,N/A
+100,Devin Robinson,FG_UNASSISTED,None,37.6,1,Wizards,Celtics,22 - 37,1,0,2,Layup
+101,Daniel Theis,Unknown,None,37.6,1,Celtics,Wizards,22 - 37,0,N/A,N/A,N/A
+102,Brad Wanamaker,FG_UNASSISTED,None,27.3,1,Celtics,Wizards,24 - 37,0,5,2,Jumper
+103,Ian Mahinmi,FOUL_ON_FLOOR,None,27.3,1,Wizards,Celtics,24 - 37,1,N/A,N/A,N/A
+104,Brad Wanamaker,FT,None,27.3,1,Celtics,Wizards,25 - 37,0,N/A,1,N/A
+105,Devin Robinson,FG_ASSISTED,Sam Dekker,3.7,1,Wizards,Celtics,25 - 39,1,0,2,Layup
+106,End of,Unknown,None,0.0,1,Wizards,Celtics,25 - 39,1,N/A,N/A,N/A
+0,Devin Robinson,SUBSTITUTION,Brown Troy,12:00,3,Wizards,Celtics,63 - 64,1,N/A,N/A,N/A
+1,Jeff Green,SUBSTITUTION,Dekker Sam,12:00,3,Wizards,Celtics,63 - 64,1,N/A,N/A,N/A
+2,Thomas Bryant,SUBSTITUTION,Randle Chasson,12:00,3,Wizards,Celtics,63 - 64,1,N/A,N/A,N/A
+3,Semi Ojeleye,SUBSTITUTION,Dozier PJ,12:00,3,Celtics,Wizards,63 - 64,0,N/A,N/A,N/A
+4,Jaylen Brown,FG_MISS,None,11:45,3,Celtics,Wizards,63 - 64,0,25,3,Jumper
+5,Tomas Satoransky,DEFENSIVE_REBOUND,None,11:41,3,Wizards,Celtics,63 - 64,1,N/A,N/A,N/A
+6,Tomas Satoransky,TURNOVER,Jaylen Brown,11:37,3,Wizards,Celtics,63 - 64,1,N/A,N/A,N/A
+7,Jaylen Brown,FG_UNASSISTED,None,11:33,3,Celtics,Wizards,65 - 64,0, ,2,Jumper
+8,Thomas Bryant,FG_ASSISTED,Bobby Portis,11:20,3,Wizards,Celtics,65 - 66,1,0,2,Layup
+9,Robert Williams,FOUL_ON_FLOOR,None,11:20,3,Celtics,Wizards,65 - 66,0,N/A,N/A,N/A
+10,Thomas Bryant,FT,None,11:20,3,Wizards,Celtics,65 - 67,1,N/A,1,N/A
+11,Devin Robinson,FOUL_ON_FLOOR,None,11:11,3,Wizards,Celtics,65 - 67,1,N/A,N/A,N/A
+12,Terry Rozier,FT,None,11:11,3,Celtics,Wizards,66 - 67,0,N/A,1,N/A
+13,PJ Dozier,SUBSTITUTION,III Williams,11:11,3,Celtics,Wizards,66 - 67,0,N/A,N/A,N/A
+14,Terry Rozier,FT_MISS,None,11:11,3,Celtics,Wizards,66 - 67,0,N/A,1,N/A
+15,Bobby Portis,DEFENSIVE_REBOUND,None,11:08,3,Wizards,Celtics,66 - 67,1,N/A,N/A,N/A
+16,Bobby Portis,TURNOVER,Terry Rozier,11:08,3,Wizards,Celtics,66 - 67,1,N/A,N/A,N/A
+17,Bobby Portis,FOUL_ON_FLOOR,None,11:08,3,Wizards,Celtics,66 - 67,1,N/A,N/A,N/A
+18,Guerschon Yabusele,FT_MISS,None,11:08,3,Celtics,Wizards,66 - 67,0,N/A,1,N/A
+19,Team,OFFENSIVE_REBOUND,None,11:08,3,Celtics,Wizards,66 - 67,0,N/A,N/A,N/A
+20,Guerschon Yabusele,FT_MISS,None,11:08,3,Celtics,Wizards,66 - 67,0,N/A,1,N/A
+21,Thomas Bryant,DEFENSIVE_REBOUND,None,11:04,3,Wizards,Celtics,66 - 67,1,N/A,N/A,N/A
+22,Jeff Green,FG_MISS,None,10:53,3,Wizards,Celtics,66 - 67,1,24,3,Jumper
+23,Devin Robinson,OFFENSIVE_REBOUND,None,10:51,3,Wizards,Celtics,66 - 67,1,N/A,N/A,N/A
+24,PJ Dozier,FOUL_ON_FLOOR,None,10:49,3,Celtics,Wizards,66 - 67,0,N/A,N/A,N/A
+25,Devin Robinson,FG_ASSISTED,Jeff Green,10:37,3,Wizards,Celtics,66 - 69,1,0,2,Dunk
+26,Semi Ojeleye,FG_MISS,None,10:27,3,Celtics,Wizards,66 - 69,0,26,3,Jumper
+27,Thomas Bryant,DEFENSIVE_REBOUND,None,10:23,3,Wizards,Celtics,66 - 69,1,N/A,N/A,N/A
+28,Bobby Portis,FG_MISS,None,10:16,3,Wizards,Celtics,66 - 69,1,20,2,Jumper
+29,PJ Dozier,DEFENSIVE_REBOUND,None,10:14,3,Celtics,Wizards,66 - 69,0,N/A,N/A,N/A
+30,PJ Dozier,FG_MISS,None,10:10,3,Celtics,Wizards,66 - 69,0,20,2,Jumper
+31,Guerschon Yabusele,OFFENSIVE_REBOUND,None,10:07,3,Celtics,Wizards,66 - 69,0,N/A,N/A,N/A
+32,Guerschon Yabusele,FG_MISS,None,10:06,3,Celtics,Wizards,66 - 69,0,0,2,Layup
+33,Jeff Green,DEFENSIVE_REBOUND,None,10:04,3,Wizards,Celtics,66 - 69,1,N/A,N/A,N/A
+34,Semi Ojeleye,FOUL_ON_FLOOR,None,10:01,3,Celtics,Wizards,66 - 69,0,N/A,N/A,N/A
+35,Tomas Satoransky,FG_UNASSISTED,None,9:49,3,Wizards,Celtics,66 - 71,1, ,2,Jumper
+36,PJ Dozier,FG_MISS,None,9:29,3,Celtics,Wizards,66 - 71,0,29,3,Jumper
+37,Jeff Green,DEFENSIVE_REBOUND,None,9:25,3,Wizards,Celtics,66 - 71,1,N/A,N/A,N/A
+38,Devin Robinson,FG_ASSISTED,Bobby Portis,9:23,3,Wizards,Celtics,66 - 73,1,0,2,Dunk
+39,Thomas Bryant,FOUL_ON_FLOOR,None,9:16,3,Wizards,Celtics,66 - 73,1,N/A,N/A,N/A
+40,Jaylen Brown,FT,None,9:16,3,Celtics,Wizards,67 - 73,0,N/A,1,N/A
+41,Jaylen Brown,FT_MISS,None,9:16,3,Celtics,Wizards,67 - 73,0,N/A,1,N/A
+42,Devin Robinson,DEFENSIVE_REBOUND,None,9:13,3,Wizards,Celtics,67 - 73,1,N/A,N/A,N/A
+43,Tomas Satoransky,FG_UNASSISTED,None,9:04,3,Wizards,Celtics,67 - 75,1,0,2,Dunk
+44,Jaylen Brown,TURNOVER,None,8:50,3,Celtics,Wizards,67 - 75,0,N/A,N/A,N/A
+45,Jaylen Brown,TURNOVER,None,8:50,3,Celtics,Wizards,67 - 75,0,N/A,N/A,N/A
+46,Thomas Bryant,FG_ASSISTED,Jeff Green,8:38,3,Wizards,Celtics,67 - 77,1,0,2,Layup
+47,Jaylen Brown,FG_MISS,None,8:26,3,Celtics,Wizards,67 - 77,0, ,2,Jumper
+48,Thomas Bryant,DEFENSIVE_REBOUND,None,8:23,3,Wizards,Celtics,67 - 77,1,N/A,N/A,N/A
+49,Tomas Satoransky,FG_ASSISTED,Bobby Portis,8:17,3,Wizards,Celtics,67 - 80,1,28,3,Jumper
+50,Team,Unknown,None,8:15,3,Celtics,Wizards,67 - 80,0,N/A,N/A,N/A
+51,Daniel Theis,SUBSTITUTION,Brown Jaylen,8:15,3,Celtics,Wizards,67 - 80,0,N/A,N/A,N/A
+52,Semi Ojeleye,FG_MISS,None,7:56,3,Celtics,Wizards,67 - 80,0,6,2,Jumper
+53,Jeff Green,DEFENSIVE_REBOUND,None,7:54,3,Wizards,Celtics,67 - 80,1,N/A,N/A,N/A
+54,Thomas Bryant,FG_MISS,None,7:42,3,Wizards,Celtics,67 - 80,1,24,3,Jumper
+55,Terry Rozier,DEFENSIVE_REBOUND,None,7:38,3,Celtics,Wizards,67 - 80,0,N/A,N/A,N/A
+56,Terry Rozier,FG_UNASSISTED,None,7:34,3,Celtics,Wizards,70 - 80,0,27,3,Jumper
+57,Bobby Portis,FG_MISS,None,7:18,3,Wizards,Celtics,70 - 80,1, ,2,Jumper
+58,Bobby Portis,OFFENSIVE_REBOUND,None,7:18,3,Wizards,Celtics,70 - 80,1,N/A,N/A,N/A
+59,Bobby Portis,FG_UNASSISTED,None,7:16,3,Wizards,Celtics,70 - 82,1,5,2,Jumper
+60,Terry Rozier,FG_MISS,None,7:06,3,Celtics,Wizards,70 - 82,0,29,3,Jumper
+61,Jeff Green,DEFENSIVE_REBOUND,None,7:02,3,Wizards,Celtics,70 - 82,1,N/A,N/A,N/A
+62,Thomas Bryant,TURNOVER,Semi Ojeleye,6:58,3,Wizards,Celtics,70 - 82,1,N/A,N/A,N/A
+63,Semi Ojeleye,FG_MISS,None,6:52,3,Celtics,Wizards,70 - 82,0, ,2,Jumper
+64,PJ Dozier,OFFENSIVE_REBOUND,None,6:48,3,Celtics,Wizards,70 - 82,0,N/A,N/A,N/A
+65,PJ Dozier,FG_UNASSISTED,None,6:48,3,Celtics,Wizards,72 - 82,0, ,2,Jumper
+66,Tomas Satoransky,TURNOVER,None,6:38,3,Wizards,Celtics,72 - 82,1,N/A,N/A,N/A
+67,Brad Wanamaker,SUBSTITUTION,Ojeleye Semi,6:38,3,Celtics,Wizards,72 - 82,0,N/A,N/A,N/A
+68,Guerschon Yabusele,FG_UNASSISTED,None,6:26,3,Celtics,Wizards,74 - 82,0,5,2,Jumper
+69,Jeff Green,FG_ASSISTED,Thomas Bryant,6:13,3,Wizards,Celtics,74 - 85,1,26,3,Jumper
+70,Terry Rozier,FG_MISS,None,5:53,3,Celtics,Wizards,74 - 85,0,27,3,Jumper
+71,Thomas Bryant,DEFENSIVE_REBOUND,None,5:50,3,Wizards,Celtics,74 - 85,1,N/A,N/A,N/A
+72,Jeff Green,FG_UNASSISTED,None,5:39,3,Wizards,Celtics,74 - 87,1, ,2,Jumper
+73,Terry Rozier,FG_ASSISTED,Brad Wanamaker,5:25,3,Celtics,Wizards,76 - 87,0,0,2,Layup
+74,Jeff Green,FG_MISS,None,5:10,3,Wizards,Celtics,76 - 87,1,25,3,Jumper
+75,Guerschon Yabusele,DEFENSIVE_REBOUND,None,5:08,3,Celtics,Wizards,76 - 87,0,N/A,N/A,N/A
+76,Guerschon Yabusele,FG_ASSISTED,Terry Rozier,5:00,3,Celtics,Wizards,79 - 87,0,28,3,Jumper
+77,Devin Robinson,TURNOVER,PJ Dozier,4:41,3,Wizards,Celtics,79 - 87,1,N/A,N/A,N/A
+78,Brad Wanamaker,FG_MISS,None,4:35,3,Celtics,Wizards,79 - 87,0,0,2,Layup
+79,Bobby Portis,DEFENSIVE_REBOUND,None,4:31,3,Wizards,Celtics,79 - 87,1,N/A,N/A,N/A
+80,Tomas Satoransky,FG_ASSISTED,Thomas Bryant,4:27,3,Wizards,Celtics,79 - 90,1,26,3,Jumper
+81,PJ Dozier,FG_ASSISTED,Guerschon Yabusele,4:10,3,Celtics,Wizards,82 - 90,0,26,3,Jumper
+82,Bobby Portis,FG_MISS,None,3:45,3,Wizards,Celtics,82 - 90,1,25,3,Jumper
+83,Daniel Theis,DEFENSIVE_REBOUND,None,3:43,3,Celtics,Wizards,82 - 90,0,N/A,N/A,N/A
+84,Brad Wanamaker,FG_MISS,None,3:39,3,Celtics,Wizards,82 - 90,0,26,3,Jumper
+85,Jeff Green,DEFENSIVE_REBOUND,None,3:36,3,Wizards,Celtics,82 - 90,1,N/A,N/A,N/A
+86,Jeff Green,TURNOVER,None,3:32,3,Wizards,Celtics,82 - 90,1,N/A,N/A,N/A
+87,Sam Dekker,SUBSTITUTION,Portis Bobby,3:32,3,Wizards,Celtics,82 - 90,1,N/A,N/A,N/A
+88,Chasson Randle,SUBSTITUTION,Robinson Devin,3:32,3,Wizards,Celtics,82 - 90,1,N/A,N/A,N/A
+89,Ian Mahinmi,SUBSTITUTION,Bryant Thomas,3:32,3,Wizards,Celtics,82 - 90,1,N/A,N/A,N/A
+90,Terry Rozier,FG_MISS,Ian Mahinmi,3:19,3,Wizards,Celtics,82 - 90,0,0,2,Layup
+91,Tomas Satoransky,DEFENSIVE_REBOUND,None,3:17,3,Wizards,Celtics,82 - 90,1,N/A,N/A,N/A
+92,Daniel Theis,FOUL_ON_FLOOR,None,3:11,3,Celtics,Wizards,82 - 90,0,N/A,N/A,N/A
+93,Tomas Satoransky,FT,None,3:11,3,Wizards,Celtics,82 - 91,1,N/A,1,N/A
+94,RJ Hunter,SUBSTITUTION,Rozier Terry,3:11,3,Celtics,Wizards,82 - 91,0,N/A,N/A,N/A
+95,Semi Ojeleye,SUBSTITUTION,Yabusele Guerschon,3:11,3,Celtics,Wizards,82 - 91,0,N/A,N/A,N/A
+96,Tomas Satoransky,FT,None,3:11,3,Wizards,Celtics,82 - 92,1,N/A,1,N/A
+97,Semi Ojeleye,FG_MISS,None,2:55,3,Celtics,Wizards,82 - 92,0, ,2,Jumper
+98,Daniel Theis,OFFENSIVE_REBOUND,None,2:52,3,Celtics,Wizards,82 - 92,0,N/A,N/A,N/A
+99,RJ Hunter,FG_MISS,None,2:49,3,Celtics,Wizards,82 - 92,0,30,3,Jumper
+100,Ian Mahinmi,DEFENSIVE_REBOUND,None,2:49,3,Wizards,Celtics,82 - 92,1,N/A,N/A,N/A
+101,Ian Mahinmi,FG_MISS,None,2:38,3,Wizards,Celtics,82 - 92,1,27,3,Jumper
+102,RJ Hunter,DEFENSIVE_REBOUND,None,2:36,3,Celtics,Wizards,82 - 92,0,N/A,N/A,N/A
+103,RJ Hunter,FG_MISS,None,2:26,3,Celtics,Wizards,82 - 92,0,28,3,Jumper
+104,Ian Mahinmi,DEFENSIVE_REBOUND,None,2:22,3,Wizards,Celtics,82 - 92,1,N/A,N/A,N/A
+105,Jeff Green,TURNOVER,None,2:15,3,Wizards,Celtics,82 - 92,1,N/A,N/A,N/A
+106,Team,Unknown,None,2:15,3,Wizards,Celtics,82 - 92,1,N/A,N/A,N/A
+107,Robert Williams,SUBSTITUTION,Theis Daniel,2:15,3,Celtics,Wizards,82 - 92,0,N/A,N/A,N/A
+108,PJ Dozier,FG_MISS,None,1:54,3,Celtics,Wizards,82 - 92,0,9,2,Jumper
+109,PJ Dozier,OFFENSIVE_REBOUND,None,1:52,3,Celtics,Wizards,82 - 92,0,N/A,N/A,N/A
+110,Brad Wanamaker,FG_ASSISTED,illiams III,1:50,3,Celtics,Wizards,84 - 92,0,17,2,Jumper
+111,Ian Mahinmi,FG_ASSISTED,Jeff Green,1:35,3,Wizards,Celtics,84 - 95,1,23,3,Jumper
+112,Ian Mahinmi,FOUL_ON_FLOOR,None,1:28,3,Wizards,Celtics,84 - 95,1,N/A,N/A,N/A
+113,Robert Williams,TURNOVER,Ian Mahinmi,1:23,3,Celtics,Wizards,84 - 95,0,N/A,N/A,N/A
+114,Jeff Green,FG_MISS,None,1:15,3,Wizards,Celtics,84 - 95,1,26,3,Jumper
+115,Robert Williams,DEFENSIVE_REBOUND,None,1:09,3,Celtics,Wizards,84 - 95,0,N/A,N/A,N/A
+116,Semi Ojeleye,FG_MISS,None,1:03,3,Celtics,Wizards,84 - 95,0,25,3,Jumper
+117,Semi Ojeleye,OFFENSIVE_REBOUND,None,1:00,3,Celtics,Wizards,84 - 95,0,N/A,N/A,N/A
+118,Semi Ojeleye,FG_ASSISTED,RJ Hunter,55.8,3,Celtics,Wizards,87 - 95,0,27,3,Jumper
+119,Chasson Randle,FG_MISS,None,37.6,3,Wizards,Celtics,87 - 95,1, ,3,Jumper
+120,Ian Mahinmi,OFFENSIVE_REBOUND,None,31.6,3,Wizards,Celtics,87 - 95,1,N/A,N/A,N/A
+121,Ian Mahinmi,FG_MISS,None,31.6,3,Wizards,Celtics,87 - 95,1, ,2,Jumper
+122,Brad Wanamaker,DEFENSIVE_REBOUND,None,30.6,3,Celtics,Wizards,87 - 95,0,N/A,N/A,N/A
+123,Semi Ojeleye,FG_MISS,None,29.2,3,Celtics,Wizards,87 - 95,0,26,3,Jumper
+124,Team,DEFENSIVE_REBOUND,None,27.3,3,Wizards,Celtics,87 - 95,1,N/A,N/A,N/A
+125,Tomas Satoransky,FG_MISS,None,8.5,3,Wizards,Celtics,87 - 95,1,19,2,Jumper
+126,Robert Williams,DEFENSIVE_REBOUND,None,5.1,3,Celtics,Wizards,87 - 95,0,N/A,N/A,N/A
+127,Tomas Satoransky,FOUL_ON_FLOOR,None,1.1,3,Wizards,Celtics,87 - 95,1,N/A,N/A,N/A
+128,Brad Wanamaker,FT,None,1.1,3,Celtics,Wizards,88 - 95,0,N/A,1,N/A
+129,Brad Wanamaker,FT,None,1.1,3,Celtics,Wizards,89 - 95,0,N/A,1,N/A
+130,End of,Unknown,None,0.0,3,Wizards,Celtics,89 - 95,1,N/A,N/A,N/A
+0,Devin Robinson,SUBSTITUTION,Satoransky Tomas,12:00,4,Wizards,Celtics,89 - 95,1,N/A,N/A,N/A
+1,Ian Mahinmi,FG_MISS,None,11:44,4,Wizards,Celtics,89 - 95,1, ,2,Jumper
+2,Sam Dekker,OFFENSIVE_REBOUND,None,11:43,4,Wizards,Celtics,89 - 95,1,N/A,N/A,N/A
+3,Sam Dekker,FG_MISS,None,11:43,4,Wizards,Celtics,89 - 95,1, ,2,Jumper
+4,Team,OFFENSIVE_REBOUND,None,11:43,4,Wizards,Celtics,89 - 95,1,N/A,N/A,N/A
+5,Chasson Randle,FG_MISS,None,11:43,4,Wizards,Celtics,89 - 95,1,16,2,Jumper
+6,RJ Hunter,DEFENSIVE_REBOUND,None,11:32,4,Celtics,Wizards,89 - 95,0,N/A,N/A,N/A
+7,Semi Ojeleye,FG_ASSISTED,Brad Wanamaker,11:22,4,Celtics,Wizards,91 - 95,0, ,2,Jumper
+8,Chasson Randle,TURNOVER,RJ Hunter,11:10,4,Wizards,Celtics,91 - 95,1,N/A,N/A,N/A
+9,RJ Hunter,FG_ASSISTED,Brad Wanamaker,11:07,4,Celtics,Wizards,93 - 95,0,0,2,Dunk
+10,Devin Robinson,FG_MISS,None,10:47,4,Wizards,Celtics,93 - 95,1,26,3,Jumper
+11,Ian Mahinmi,OFFENSIVE_REBOUND,None,10:45,4,Wizards,Celtics,93 - 95,1,N/A,N/A,N/A
+12,Devin Robinson,FG_ASSISTED,Ian Mahinmi,10:42,4,Wizards,Celtics,93 - 97,1, ,2,Jumper
+13,Sam Dekker,FOUL_ON_FLOOR,None,10:32,4,Wizards,Celtics,93 - 97,1,N/A,N/A,N/A
+14,Brad Wanamaker,FG_MISS,None,10:20,4,Celtics,Wizards,93 - 97,0,30,3,Jumper
+15,Ian Mahinmi,DEFENSIVE_REBOUND,None,10:16,4,Wizards,Celtics,93 - 97,1,N/A,N/A,N/A
+16,Ian Mahinmi,FG_MISS,None,9:58,4,Wizards,Celtics,93 - 97,1, ,2,Jumper
+17,Robert Williams,DEFENSIVE_REBOUND,None,9:56,4,Celtics,Wizards,93 - 97,0,N/A,N/A,N/A
+18,PJ Dozier,FG_MISS,None,9:44,4,Celtics,Wizards,93 - 97,0,26,3,Jumper
+19,RJ Hunter,OFFENSIVE_REBOUND,None,9:40,4,Celtics,Wizards,93 - 97,0,N/A,N/A,N/A
+20,Robert Williams,FG_MISS,None,9:37,4,Celtics,Wizards,93 - 97,0,18,2,Jumper
+21,PJ Dozier,OFFENSIVE_REBOUND,None,9:35,4,Celtics,Wizards,93 - 97,0,N/A,N/A,N/A
+22,PJ Dozier,FG_UNASSISTED,None,9:34,4,Celtics,Wizards,95 - 97,0,0,2,Layup
+23,Ian Mahinmi,FG_MISS,None,9:09,4,Wizards,Celtics,95 - 97,1,0,2,Layup
+24,Ian Mahinmi,OFFENSIVE_REBOUND,None,9:05,4,Wizards,Celtics,95 - 97,1,N/A,N/A,N/A
+25,blocks Ian,FG_MISS,Robert Williams,9:04,4,Celtics,Wizards,95 - 97,1,0,2,Layup
+26,Robert Williams,DEFENSIVE_REBOUND,None,9:02,4,Celtics,Wizards,95 - 97,0,N/A,N/A,N/A
+27,Brad Wanamaker,FG_MISS,Devin Robinson,9:00,4,Wizards,Celtics,95 - 97,0,0,2,Layup
+28,PJ Dozier,OFFENSIVE_REBOUND,None,9:00,4,Celtics,Wizards,95 - 97,0,N/A,N/A,N/A
+29,Chasson Randle,FOUL_ON_FLOOR,None,8:58,4,Wizards,Celtics,95 - 97,1,N/A,N/A,N/A
+30,PJ Dozier,FT_MISS,None,8:58,4,Celtics,Wizards,95 - 97,0,N/A,1,N/A
+31,Team,OFFENSIVE_REBOUND,None,8:58,4,Celtics,Wizards,95 - 97,0,N/A,N/A,N/A
+32,PJ Dozier,FT,None,8:58,4,Celtics,Wizards,96 - 97,0,N/A,1,N/A
+33,Ian Mahinmi,TURNOVER,None,8:45,4,Wizards,Celtics,96 - 97,1,N/A,N/A,N/A
+34,Semi Ojeleye,FG_MISS,None,8:29,4,Celtics,Wizards,96 - 97,0,26,3,Jumper
+35,Ian Mahinmi,DEFENSIVE_REBOUND,None,8:26,4,Wizards,Celtics,96 - 97,1,N/A,N/A,N/A
+36,Devin Robinson,FG_MISS,None,8:19,4,Wizards,Celtics,96 - 97,1,10,2,Jumper
+37,Brad Wanamaker,DEFENSIVE_REBOUND,None,8:16,4,Celtics,Wizards,96 - 97,0,N/A,N/A,N/A
+38,Semi Ojeleye,FG_ASSISTED,Brad Wanamaker,8:13,4,Celtics,Wizards,98 - 97,0, ,2,Jumper
+39,Team,Unknown,None,8:03,4,Wizards,Celtics,98 - 97,1,N/A,N/A,N/A
+40,blocks Sam,FG_MISS,Robert Williams,7:54,4,Celtics,Wizards,98 - 97,1,0,2,Layup
+41,Team,OFFENSIVE_REBOUND,None,7:54,4,Wizards,Celtics,98 - 97,1,N/A,N/A,N/A
+42,Ian Mahinmi,FG_MISS,None,7:45,4,Wizards,Celtics,98 - 97,1,13,2,Jumper
+43,Robert Williams,DEFENSIVE_REBOUND,None,7:42,4,Celtics,Wizards,98 - 97,0,N/A,N/A,N/A
+44,RJ Hunter,FG_ASSISTED,Brad Wanamaker,7:33,4,Celtics,Wizards,101 - 97,0,31,3,Jumper
+45,Chasson Randle,FG_MISS,None,7:11,4,Wizards,Celtics,101 - 97,1,26,2,Jumper
+46,Devin Robinson,OFFENSIVE_REBOUND,None,7:07,4,Wizards,Celtics,101 - 97,1,N/A,N/A,N/A
+47,Sam Dekker,FG_ASSISTED,Chasson Randle,7:03,4,Wizards,Celtics,101 - 100,1,23,3,Jumper
+48,RJ Hunter,FG_UNASSISTED,None,6:44,4,Celtics,Wizards,103 - 100,0,12,2,Jumper
+49,Jeff Green,FG_MISS,None,6:30,4,Wizards,Celtics,103 - 100,1,18,2,Jumper
+50,Team,OFFENSIVE_REBOUND,None,6:29,4,Wizards,Celtics,103 - 100,1,N/A,N/A,N/A
+51,Jeff Green,FG_MISS,None,6:17,4,Wizards,Celtics,103 - 100,1,17,2,Jumper
+52,PJ Dozier,DEFENSIVE_REBOUND,None,6:14,4,Celtics,Wizards,103 - 100,0,N/A,N/A,N/A
+53,RJ Hunter,FG_UNASSISTED,None,6:09,4,Celtics,Wizards,106 - 100,0,27,3,Jumper
+54,Team,Unknown,None,6:06,4,Wizards,Celtics,106 - 100,1,N/A,N/A,N/A
+55,Jeff Green,FG_MISS,None,5:53,4,Wizards,Celtics,106 - 100,1,26,3,Jumper
+56,PJ Dozier,DEFENSIVE_REBOUND,None,5:50,4,Celtics,Wizards,106 - 100,0,N/A,N/A,N/A
+57,Ian Mahinmi,FOUL_ON_FLOOR,None,5:33,4,Wizards,Celtics,106 - 100,1,N/A,N/A,N/A
+58,Brad Wanamaker,FT_MISS,None,5:33,4,Celtics,Wizards,106 - 100,0,N/A,1,N/A
+59,Team,OFFENSIVE_REBOUND,None,5:33,4,Celtics,Wizards,106 - 100,0,N/A,N/A,N/A
+60,Brad Wanamaker,FT,None,5:33,4,Celtics,Wizards,107 - 100,0,N/A,1,N/A
+61,Sam Dekker,FG_MISS,None,5:10,4,Wizards,Celtics,107 - 100,1,29,3,Jumper
+62,Semi Ojeleye,DEFENSIVE_REBOUND,None,5:07,4,Celtics,Wizards,107 - 100,0,N/A,N/A,N/A
+63,Semi Ojeleye,FG_ASSISTED,RJ Hunter,5:00,4,Celtics,Wizards,109 - 100,0,0,2,Layup
+64,Jeff Green,FG_MISS,None,4:31,4,Wizards,Celtics,109 - 100,1,1,2,Jumper
+65,Ian Mahinmi,OFFENSIVE_REBOUND,None,4:27,4,Wizards,Celtics,109 - 100,1,N/A,N/A,N/A
+66,Ian Mahinmi,FG_UNASSISTED,None,4:27,4,Wizards,Celtics,109 - 102,1,0,2,Dunk
+67,RJ Hunter,FG_MISS,None,4:13,4,Celtics,Wizards,109 - 102,0,28,3,Jumper
+68,Devin Robinson,DEFENSIVE_REBOUND,None,4:10,4,Wizards,Celtics,109 - 102,1,N/A,N/A,N/A
+69,Devin Robinson,FG_MISS,None,3:56,4,Wizards,Celtics,109 - 102,1,0,2,Layup
+70,PJ Dozier,DEFENSIVE_REBOUND,None,3:52,4,Celtics,Wizards,109 - 102,0,N/A,N/A,N/A
+71,Team,Unknown,None,3:45,4,Celtics,Wizards,109 - 102,0,N/A,N/A,N/A
+72,Guerschon Yabusele,SUBSTITUTION,III Williams,3:45,4,Celtics,Wizards,109 - 102,0,N/A,N/A,N/A
+73,Guerschon Yabusele,FG_ASSISTED,Semi Ojeleye,3:40,4,Celtics,Wizards,112 - 102,0,27,3,Jumper
+74,Devin Robinson,FG_ASSISTED,Chasson Randle,3:22,4,Wizards,Celtics,112 - 104,1,0,2,Dunk
+75,Team,Unknown,None,3:04,4,Celtics,Wizards,112 - 104,0,N/A,N/A,N/A
+76,Chasson Randle,FOUL_ON_FLOOR,None,2:59,4,Wizards,Celtics,112 - 104,1,N/A,N/A,N/A
+77,Ian Mahinmi,FOUL_ON_FLOOR,None,2:55,4,Wizards,Celtics,112 - 104,1,N/A,N/A,N/A
+78,Brad Wanamaker,FT_MISS,None,2:55,4,Celtics,Wizards,112 - 104,0,N/A,1,N/A
+79,Team,OFFENSIVE_REBOUND,None,2:55,4,Celtics,Wizards,112 - 104,0,N/A,N/A,N/A
+80,Brad Wanamaker,FT,None,2:55,4,Celtics,Wizards,113 - 104,0,N/A,1,N/A
+81,Chasson Randle,FG_ASSISTED,Devin Robinson,2:40,4,Wizards,Celtics,113 - 107,1,29,3,Jumper
+82,RJ Hunter,FG_MISS,None,2:16,4,Celtics,Wizards,113 - 107,0,32,3,Jumper
+83,Semi Ojeleye,OFFENSIVE_REBOUND,None,2:13,4,Celtics,Wizards,113 - 107,0,N/A,N/A,N/A
+84,Sam Dekker,FOUL_ON_FLOOR,None,2:12,4,Wizards,Celtics,113 - 107,1,N/A,N/A,N/A
+85,Semi Ojeleye,FT_MISS,None,2:12,4,Celtics,Wizards,113 - 107,0,N/A,1,N/A
+86,Team,OFFENSIVE_REBOUND,None,2:12,4,Celtics,Wizards,113 - 107,0,N/A,N/A,N/A
+87,Semi Ojeleye,FT_MISS,None,2:12,4,Celtics,Wizards,113 - 107,0,N/A,1,N/A
+88,Ian Mahinmi,DEFENSIVE_REBOUND,None,2:09,4,Wizards,Celtics,113 - 107,1,N/A,N/A,N/A
+89,Team,Unknown,None,2:05,4,Wizards,Celtics,113 - 107,1,N/A,N/A,N/A
+90,Robert Williams,SUBSTITUTION,Yabusele Guerschon,2:05,4,Celtics,Wizards,113 - 107,0,N/A,N/A,N/A
+91,Jeff Green,FG_MISS,None,1:49,4,Wizards,Celtics,113 - 107,1,12,2,Jumper
+92,Brad Wanamaker,DEFENSIVE_REBOUND,None,1:45,4,Celtics,Wizards,113 - 107,0,N/A,N/A,N/A
+93,Brad Wanamaker,FG_UNASSISTED,None,1:45,4,Celtics,Wizards,115 - 107,0,1,2,Jumper
+94,RJ Hunter,FOUL_ON_FLOOR,None,1:41,4,Celtics,Wizards,115 - 107,0,N/A,N/A,N/A
+95,Jeff Green,FT_MISS,None,1:41,4,Wizards,Celtics,115 - 107,1,N/A,1,N/A
+96,Team,OFFENSIVE_REBOUND,None,1:41,4,Wizards,Celtics,115 - 107,1,N/A,N/A,N/A
+97,Jeff Green,FT,None,1:41,4,Wizards,Celtics,115 - 108,1,N/A,1,N/A
+98,Devin Robinson,FOUL_ON_FLOOR,None,1:30,4,Wizards,Celtics,115 - 108,1,N/A,N/A,N/A
+99,RJ Hunter,FT_MISS,None,1:30,4,Celtics,Wizards,115 - 108,0,N/A,1,N/A
+100,Team,OFFENSIVE_REBOUND,None,1:30,4,Celtics,Wizards,115 - 108,0,N/A,N/A,N/A
+101,RJ Hunter,FT,None,1:30,4,Celtics,Wizards,116 - 108,0,N/A,1,N/A
+102,Robert Williams,FOUL_ON_FLOOR,None,1:18,4,Celtics,Wizards,116 - 108,0,N/A,N/A,N/A
+103,Guerschon Yabusele,SUBSTITUTION,III Williams,1:18,4,Celtics,Wizards,116 - 108,0,N/A,N/A,N/A
+104,Chasson Randle,FT,None,1:18,4,Wizards,Celtics,116 - 109,1,N/A,1,N/A
+105,Chasson Randle,FT,None,1:18,4,Wizards,Celtics,116 - 110,1,N/A,1,N/A
+106,Brad Wanamaker,FG_MISS,None,57.3,4,Celtics,Wizards,116 - 110,0,1,2,Jumper
+107,Sam Dekker,DEFENSIVE_REBOUND,None,55.4,4,Wizards,Celtics,116 - 110,1,N/A,N/A,N/A
+108,Jeff Green,FG_MISS,None,48.8,4,Wizards,Celtics,116 - 110,1,28,3,Jumper
+109,PJ Dozier,DEFENSIVE_REBOUND,None,47.4,4,Celtics,Wizards,116 - 110,0,N/A,N/A,N/A
+110,RJ Hunter's,FG_MISS,Jeff Green,35.6,4,Wizards,Celtics,116 - 110,0,0,2,Layup
+111,Ian Mahinmi,DEFENSIVE_REBOUND,None,31.2,4,Wizards,Celtics,116 - 110,1,N/A,N/A,N/A
+112,Jeff Green,FG_MISS,None,27.5,4,Wizards,Celtics,116 - 110,1,26,3,Jumper
+113,Brad Wanamaker,DEFENSIVE_REBOUND,None,23.9,4,Celtics,Wizards,116 - 110,0,N/A,N/A,N/A
+114,shot clock,TURNOVER,None,1.3,4,Celtics,Wizards,116 - 110,0,N/A,N/A,N/A
+115,Jeff Green,FG_MISS,None,0.0,4,Wizards,Celtics,116 - 110,1,36,3,Jumper
+116,Team,OFFENSIVE_REBOUND,None,0.0,4,Wizards,Celtics,116 - 110,1,N/A,N/A,N/A
+117,End of,Unknown,None,0.0,4,Wizards,Celtics,116 - 110,1,N/A,N/A,N/A
+118,End of,Unknown,None,0.0,4,Wizards,Celtics,116 - 110,1,N/A,N/A,N/A

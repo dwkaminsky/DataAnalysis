@@ -1,0 +1,499 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Myles Turner,JUMP_BALL,None,12:00,1,76ers,Pacers,0 - 0,1,N/A,N/A,N/A
+1,Ben Simmons,FG_UNASSISTED,None,11:45,1,76ers,Pacers,0 - 2,1,-,2,Jumper
+2,Thaddeus Young,FG_MISS,None,11:37,1,Pacers,76ers,0 - 2,0,0,2,Layup
+3,Ben Simmons,DEFENSIVE_REBOUND,None,11:35,1,76ers,Pacers,0 - 2,1,N/A,N/A,N/A
+4,JJ Redick,FG_ASSISTED,Joel Embiid,11:28,1,76ers,Pacers,0 - 4,1,17,2,Jumper
+5,Myles Turner,FG_MISS,None,11:00,1,Pacers,76ers,0 - 4,0,15,2,Jumper
+6,Ben Simmons,DEFENSIVE_REBOUND,None,10:57,1,76ers,Pacers,0 - 4,1,N/A,N/A,N/A
+7,Furkan Korkmaz,FG_MISS,None,10:45,1,76ers,Pacers,0 - 4,1,-,2,Jumper
+8,Joel Embiid,OFFENSIVE_REBOUND,None,10:40,1,76ers,Pacers,0 - 4,1,N/A,N/A,N/A
+9,Joel Embiid,FG_UNASSISTED,None,10:40,1,76ers,Pacers,0 - 6,1,-,2,Jumper
+10,Myles Turner,FG_MISS,None,10:27,1,Pacers,76ers,0 - 6,0,11,2,Jumper
+11,Ben Simmons,DEFENSIVE_REBOUND,None,10:24,1,76ers,Pacers,0 - 6,1,N/A,N/A,N/A
+12,Bojan Bogdanovic,FOUL_ON_FLOOR,None,10:20,1,Pacers,76ers,0 - 6,0,N/A,N/A,N/A
+13,Joel Embiid,FG_MISS,None,10:07,1,76ers,Pacers,0 - 6,1,1,2,Jumper
+14,Joel Embiid,OFFENSIVE_REBOUND,None,10:07,1,76ers,Pacers,0 - 6,1,N/A,N/A,N/A
+15,Myles Turner,FOUL_ON_FLOOR,None,10:07,1,Pacers,76ers,0 - 6,0,N/A,N/A,N/A
+16,Joel Embiid,FT_MISS,None,10:07,1,76ers,Pacers,0 - 6,1,N/A,1,N/A
+17,Team,OFFENSIVE_REBOUND,None,10:07,1,76ers,Pacers,0 - 6,1,N/A,N/A,N/A
+18,Joel Embiid,FT,None,10:07,1,76ers,Pacers,0 - 7,1,N/A,1,N/A
+19,Thaddeus Young,FG_MISS,None,9:56,1,Pacers,76ers,0 - 7,0,14,2,Jumper
+20,Ben Simmons,DEFENSIVE_REBOUND,None,9:53,1,76ers,Pacers,0 - 7,1,N/A,N/A,N/A
+21,JJ Redick,FG_ASSISTED,Ben Simmons,9:47,1,76ers,Pacers,0 - 10,1,27,3,Jumper
+22,Darren Collison,FG_UNASSISTED,None,9:33,1,Pacers,76ers,2 - 10,0,0,2,Layup
+23,Furkan Korkmaz,FG_MISS,None,9:22,1,76ers,Pacers,2 - 10,1,24,3,Jumper
+24,Myles Turner,DEFENSIVE_REBOUND,None,9:20,1,Pacers,76ers,2 - 10,0,N/A,N/A,N/A
+25,Thaddeus Young,FG_MISS,None,9:11,1,Pacers,76ers,2 - 10,0,26,3,Jumper
+26,Team,DEFENSIVE_REBOUND,None,9:08,1,76ers,Pacers,2 - 10,1,N/A,N/A,N/A
+27,JJ Redick,FG_UNASSISTED,None,8:53,1,76ers,Pacers,2 - 12,1,21,2,Jumper
+28,Furkan Korkmaz,FOUL_ON_FLOOR,None,8:47,1,76ers,Pacers,2 - 12,1,N/A,N/A,N/A
+29,Team,Unknown,None,8:47,1,Pacers,76ers,2 - 12,0,N/A,N/A,N/A
+30,Bojan Bogdanovic,FG_UNASSISTED,None,8:34,1,Pacers,76ers,4 - 12,0,8,2,Jumper
+31,Joel Embiid,TURNOVER,Victor Oladipo,8:22,1,76ers,Pacers,4 - 12,1,N/A,N/A,N/A
+32,JJ Redick,FOUL_ON_FLOOR,None,8:22,1,76ers,Pacers,4 - 12,1,N/A,N/A,N/A
+33,Victor Oladipo,FT,None,8:22,1,Pacers,76ers,5 - 12,0,N/A,1,N/A
+34,Victor Oladipo,FT,None,8:22,1,Pacers,76ers,6 - 12,0,N/A,1,N/A
+35,Bojan Bogdanovic,FG_ASSISTED,Darren Collison,8:09,1,Pacers,76ers,8 - 12,0,0,2,Layup
+36,Wilson Chandler,FG_MISS,None,7:55,1,76ers,Pacers,8 - 12,1,27,3,Jumper
+37,Ben Simmons,OFFENSIVE_REBOUND,None,7:51,1,76ers,Pacers,8 - 12,1,N/A,N/A,N/A
+38,Joel Embiid,FG_ASSISTED,Ben Simmons,7:48,1,76ers,Pacers,8 - 14,1,0,2,Dunk
+39,Bojan Bogdanovic,FG_MISS,None,7:41,1,Pacers,76ers,8 - 14,0,15,2,Jumper
+40,Joel Embiid,DEFENSIVE_REBOUND,None,7:38,1,76ers,Pacers,8 - 14,1,N/A,N/A,N/A
+41,Furkan Korkmaz,FG_ASSISTED,Ben Simmons,7:32,1,76ers,Pacers,8 - 17,1,26,3,Jumper
+42,Victor Oladipo,FG_MISS,None,7:04,1,Pacers,76ers,8 - 17,0,0,2,Layup
+43,Joel Embiid,DEFENSIVE_REBOUND,None,7:01,1,76ers,Pacers,8 - 17,1,N/A,N/A,N/A
+44,Joel Embiid,FG_MISS,None,6:55,1,76ers,Pacers,8 - 17,1,26,3,Jumper
+45,Thaddeus Young,DEFENSIVE_REBOUND,None,6:52,1,Pacers,76ers,8 - 17,0,N/A,N/A,N/A
+46,Furkan Korkmaz,FOUL_ON_FLOOR,None,6:44,1,76ers,Pacers,8 - 17,1,N/A,N/A,N/A
+47,Mike Muscala,SUBSTITUTION,Embiid Joel,6:44,1,76ers,Pacers,8 - 17,1,N/A,N/A,N/A
+48,Landry Shamet,SUBSTITUTION,Chandler Wilson,6:44,1,76ers,Pacers,8 - 17,1,N/A,N/A,N/A
+49,T.J. McConnell,SUBSTITUTION,Korkmaz Furkan,6:44,1,76ers,Pacers,8 - 17,1,N/A,N/A,N/A
+50,Domantas Sabonis,SUBSTITUTION,Young Thaddeus,6:44,1,Pacers,76ers,8 - 17,0,N/A,N/A,N/A
+51,Domantas Sabonis,FG_ASSISTED,Victor Oladipo,6:39,1,Pacers,76ers,10 - 17,0,13,2,Jumper
+52,Ben Simmons,FG_MISS,None,6:20,1,76ers,Pacers,10 - 17,1, ,2,Jumper
+53,Darren Collison,DEFENSIVE_REBOUND,None,6:18,1,Pacers,76ers,10 - 17,0,N/A,N/A,N/A
+54,Landry Shamet,FOUL_ON_FLOOR,None,6:17,1,76ers,Pacers,10 - 17,1,N/A,N/A,N/A
+55,Darren Collison,FT_MISS,None,6:17,1,Pacers,76ers,10 - 17,0,N/A,1,N/A
+56,Team,OFFENSIVE_REBOUND,None,6:17,1,Pacers,76ers,10 - 17,0,N/A,N/A,N/A
+57,Darren Collison,FT,None,6:17,1,Pacers,76ers,11 - 17,0,N/A,1,N/A
+58,T.J. McConnell,TURNOVER,None,6:10,1,76ers,Pacers,11 - 17,1,N/A,N/A,N/A
+59,Ben Simmons,Unknown,None,5:59,1,76ers,Pacers,11 - 17,1,N/A,N/A,N/A
+60,Domantas Sabonis,FG_ASSISTED,Victor Oladipo,5:47,1,Pacers,76ers,13 - 17,0,5,2,Jumper
+61,Team,Unknown,None,5:46,1,76ers,Pacers,13 - 17,1,N/A,N/A,N/A
+62,Myles Turner,FOUL_ON_FLOOR,None,5:42,1,Pacers,76ers,13 - 17,0,N/A,N/A,N/A
+63,Ben Simmons,FT,None,5:42,1,76ers,Pacers,13 - 18,1,N/A,1,N/A
+64,Thaddeus Young,SUBSTITUTION,Turner Myles,5:42,1,Pacers,76ers,13 - 18,0,N/A,N/A,N/A
+65,Ben Simmons,FT_MISS,None,5:42,1,76ers,Pacers,13 - 18,1,N/A,1,N/A
+66,Domantas Sabonis,DEFENSIVE_REBOUND,None,5:40,1,Pacers,76ers,13 - 18,0,N/A,N/A,N/A
+67,Victor Oladipo,FG_MISS,None,5:26,1,Pacers,76ers,13 - 18,0,16,2,Jumper
+68,Landry Shamet,DEFENSIVE_REBOUND,None,5:23,1,76ers,Pacers,13 - 18,1,N/A,N/A,N/A
+69,JJ Redick,FG_MISS,None,5:18,1,76ers,Pacers,13 - 18,1,24,3,Jumper
+70,Domantas Sabonis,DEFENSIVE_REBOUND,None,5:15,1,Pacers,76ers,13 - 18,0,N/A,N/A,N/A
+71,Domantas Sabonis,FG_ASSISTED,Darren Collison,5:07,1,Pacers,76ers,15 - 18,0,18,2,Jumper
+72,JJ Redick,FG_MISS,None,4:45,1,76ers,Pacers,15 - 18,1,8,2,Jumper
+73,T.J. McConnell,OFFENSIVE_REBOUND,None,4:36,1,76ers,Pacers,15 - 18,1,N/A,N/A,N/A
+74,T.J. McConnell,FG_UNASSISTED,None,4:36,1,76ers,Pacers,15 - 20,1, ,2,Jumper
+75,Darren Collison,TURNOVER,None,4:36,1,Pacers,76ers,15 - 20,0,N/A,N/A,N/A
+76,T.J. McConnell,FG_MISS,None,4:36,1,76ers,Pacers,15 - 20,1,1,2,Jumper
+77,T.J. McConnell,OFFENSIVE_REBOUND,None,4:36,1,76ers,Pacers,15 - 20,1,N/A,N/A,N/A
+78,JJ Redick,FG_MISS,None,4:26,1,76ers,Pacers,15 - 20,1,23,3,Jumper
+79,Domantas Sabonis,DEFENSIVE_REBOUND,None,4:23,1,Pacers,76ers,15 - 20,0,N/A,N/A,N/A
+80,Bojan Bogdanovic,FG_MISS,None,4:11,1,Pacers,76ers,15 - 20,0,9,2,Jumper
+81,Ben Simmons,DEFENSIVE_REBOUND,None,4:09,1,76ers,Pacers,15 - 20,1,N/A,N/A,N/A
+82,Ben Simmons,FG_UNASSISTED,None,4:01,1,76ers,Pacers,15 - 22,1,0,2,Layup
+83,Victor Oladipo,FG_MISS,None,3:46,1,Pacers,76ers,15 - 22,0,13,2,Jumper
+84,T.J. McConnell,DEFENSIVE_REBOUND,None,3:43,1,76ers,Pacers,15 - 22,1,N/A,N/A,N/A
+85,Ben Simmons,FG_MISS,None,3:24,1,76ers,Pacers,15 - 22,1, ,2,Jumper
+86,Domantas Sabonis,DEFENSIVE_REBOUND,None,3:22,1,Pacers,76ers,15 - 22,0,N/A,N/A,N/A
+87,Domantas Sabonis,FG_MISS,None,3:13,1,Pacers,76ers,15 - 22,0,16,2,Jumper
+88,Landry Shamet,DEFENSIVE_REBOUND,None,3:09,1,76ers,Pacers,15 - 22,1,N/A,N/A,N/A
+89,JJ Redick,TURNOVER,Darren Collison,3:00,1,76ers,Pacers,15 - 22,1,N/A,N/A,N/A
+90,Victor Oladipo,FG_ASSISTED,Darren Collison,2:57,1,Pacers,76ers,17 - 22,0, ,2,Jumper
+91,Ben Simmons,FG_ASSISTED,JJ Redick,2:37,1,76ers,Pacers,17 - 24,1,4,2,Jumper
+92,Bojan Bogdanovic,TURNOVER,None,2:18,1,Pacers,76ers,17 - 24,0,N/A,N/A,N/A
+93,Furkan Korkmaz,SUBSTITUTION,Redick JJ,2:18,1,76ers,Pacers,17 - 24,1,N/A,N/A,N/A
+94,Wilson Chandler,SUBSTITUTION,Simmons Ben,2:18,1,76ers,Pacers,17 - 24,1,N/A,N/A,N/A
+95,Joel Embiid,SUBSTITUTION,Muscala Mike,2:18,1,76ers,Pacers,17 - 24,1,N/A,N/A,N/A
+96,Cory Joseph,SUBSTITUTION,Collison Darren,2:18,1,Pacers,76ers,17 - 24,0,N/A,N/A,N/A
+97,Tyreke Evans,SUBSTITUTION,Oladipo Victor,2:18,1,Pacers,76ers,17 - 24,0,N/A,N/A,N/A
+98,Doug McDermott,SUBSTITUTION,Bogdanovic Bojan,2:18,1,Pacers,76ers,17 - 24,0,N/A,N/A,N/A
+99,Domantas Sabonis,FOUL_ON_FLOOR,None,2:07,1,Pacers,76ers,17 - 24,0,N/A,N/A,N/A
+100,Joel Embiid,FG_UNASSISTED,None,1:56,1,76ers,Pacers,17 - 26,1,9,2,Jumper
+101,Thaddeus Young,FG_ASSISTED,Cory Joseph,1:41,1,Pacers,76ers,19 - 26,0,4,2,Jumper
+102,Furkan Korkmaz,FG_MISS,None,1:23,1,76ers,Pacers,19 - 26,1, ,3,Jumper
+103,Tyreke Evans,DEFENSIVE_REBOUND,None,1:20,1,Pacers,76ers,19 - 26,0,N/A,N/A,N/A
+104,Tyreke Evans,FG_MISS,None,1:17,1,Pacers,76ers,19 - 26,0, ,2,Jumper
+105,Domantas Sabonis,OFFENSIVE_REBOUND,None,1:12,1,Pacers,76ers,19 - 26,0,N/A,N/A,N/A
+106,Domantas Sabonis,FG_UNASSISTED,None,1:12,1,Pacers,76ers,21 - 26,0, ,2,Jumper
+107,Landry Shamet,FG_ASSISTED,T.J. McConnell,1:06,1,76ers,Pacers,21 - 29,1,27,3,Jumper
+108,Thaddeus Young,FG_MISS,None,49.9,1,Pacers,76ers,21 - 29,0,8,2,Jumper
+109,Domantas Sabonis,OFFENSIVE_REBOUND,None,46.1,1,Pacers,76ers,21 - 29,0,N/A,N/A,N/A
+110,Tyreke Evans,FG_UNASSISTED,None,37.1,1,Pacers,76ers,23 - 29,0, ,2,Jumper
+111,Joel Embiid,FG_ASSISTED,T.J. McConnell,30.3,1,76ers,Pacers,23 - 32,1,26,3,Jumper
+112,Joel Embiid,FOUL_ON_FLOOR,None,8.6,1,76ers,Pacers,23 - 32,1,N/A,N/A,N/A
+113,Tyreke Evans,FT_MISS,None,8.6,1,Pacers,76ers,23 - 32,0,N/A,1,N/A
+114,Team,OFFENSIVE_REBOUND,None,8.6,1,Pacers,76ers,23 - 32,0,N/A,N/A,N/A
+115,Tyreke Evans,FT,None,8.6,1,Pacers,76ers,24 - 32,0,N/A,1,N/A
+116,T.J. McConnell,FG_MISS,None,1.0,1,76ers,Pacers,24 - 32,1, ,2,Jumper
+117,Joel Embiid,OFFENSIVE_REBOUND,None,1.0,1,76ers,Pacers,24 - 32,1,N/A,N/A,N/A
+118,Joel Embiid,FG_UNASSISTED,None,1.0,1,76ers,Pacers,24 - 34,1, ,2,Jumper
+119,End of,Unknown,None,0.0,1,76ers,Pacers,24 - 34,1,N/A,N/A,N/A
+0,Shake Milton,SUBSTITUTION,Korkmaz Furkan,12:00,2,76ers,Pacers,24 - 34,1,N/A,N/A,N/A
+1,Joel Embiid,FOUL_ON_FLOOR,None,11:46,2,76ers,Pacers,24 - 34,1,N/A,N/A,N/A
+2,Doug McDermott,FT,None,11:46,2,Pacers,76ers,25 - 34,0,N/A,1,N/A
+3,Doug McDermott,FT,None,11:46,2,Pacers,76ers,26 - 34,0,N/A,1,N/A
+4,Joel Embiid,FG_MISS,None,11:29,2,76ers,Pacers,26 - 34,1,8,2,Jumper
+5,Domantas Sabonis,DEFENSIVE_REBOUND,None,11:27,2,Pacers,76ers,26 - 34,0,N/A,N/A,N/A
+6,Tyreke Evans,FG_MISS,None,11:19,2,Pacers,76ers,26 - 34,0,9,2,Jumper
+7,Joel Embiid,DEFENSIVE_REBOUND,None,11:19,2,76ers,Pacers,26 - 34,1,N/A,N/A,N/A
+8,JJ Redick,SUBSTITUTION,Shamet Landry,11:19,2,76ers,Pacers,26 - 34,1,N/A,N/A,N/A
+9,Mike Muscala,SUBSTITUTION,Chandler Wilson,11:19,2,76ers,Pacers,26 - 34,1,N/A,N/A,N/A
+10,Tyreke Evans,FOUL_ON_FLOOR,None,11:19,2,Pacers,76ers,26 - 34,0,N/A,N/A,N/A
+11,Mike Muscala,FG_MISS,None,11:03,2,76ers,Pacers,26 - 34,1,26,3,Jumper
+12,Domantas Sabonis,DEFENSIVE_REBOUND,None,10:59,2,Pacers,76ers,26 - 34,0,N/A,N/A,N/A
+13,Thaddeus Young,FG_MISS,None,10:48,2,Pacers,76ers,26 - 34,0,10,2,Jumper
+14,Joel Embiid,DEFENSIVE_REBOUND,None,10:39,2,76ers,Pacers,26 - 34,1,N/A,N/A,N/A
+15,Joel Embiid,FG_UNASSISTED,None,10:29,2,76ers,Pacers,26 - 36,1,17,2,Jumper
+16,Doug McDermott,FG_MISS,None,10:09,2,Pacers,76ers,26 - 36,0,27,3,Jumper
+17,Team,DEFENSIVE_REBOUND,None,10:07,2,76ers,Pacers,26 - 36,1,N/A,N/A,N/A
+18,JJ Redick,FG_ASSISTED,Joel Embiid,9:55,2,76ers,Pacers,26 - 38,1,22,2,Jumper
+19,Cory Joseph,FG_ASSISTED,Doug McDermott,9:42,2,Pacers,76ers,29 - 38,0,26,3,Jumper
+20,Joel Embiid,FG_MISS,None,9:31,2,76ers,Pacers,29 - 38,1,28,3,Jumper
+21,Thaddeus Young,DEFENSIVE_REBOUND,None,9:31,2,Pacers,76ers,29 - 38,0,N/A,N/A,N/A
+22,Domantas Sabonis,FG_MISS,None,9:22,2,Pacers,76ers,29 - 38,0,8,2,Jumper
+23,Joel Embiid,DEFENSIVE_REBOUND,None,9:20,2,76ers,Pacers,29 - 38,1,N/A,N/A,N/A
+24,Joel Embiid,FG_MISS,None,9:04,2,76ers,Pacers,29 - 38,1,12,2,Jumper
+25,Cory Joseph,DEFENSIVE_REBOUND,None,9:02,2,Pacers,76ers,29 - 38,0,N/A,N/A,N/A
+26,Cory Joseph,FG_MISS,None,8:58,2,Pacers,76ers,29 - 38,0,0,2,Layup
+27,Thaddeus Young,OFFENSIVE_REBOUND,None,8:54,2,Pacers,76ers,29 - 38,0,N/A,N/A,N/A
+28,Thaddeus Young,FG_MISS,None,8:54,2,Pacers,76ers,29 - 38,0, ,2,Jumper
+29,Thaddeus Young,OFFENSIVE_REBOUND,None,8:52,2,Pacers,76ers,29 - 38,0,N/A,N/A,N/A
+30,Thaddeus Young's,FG_MISS,Joel Embiid,8:52,2,76ers,Pacers,29 - 38,0, ,2,Jumper
+31,Shake Milton,DEFENSIVE_REBOUND,None,8:50,2,76ers,Pacers,29 - 38,1,N/A,N/A,N/A
+32,Mike Muscala,FG_MISS,None,8:44,2,76ers,Pacers,29 - 38,1,25,3,Jumper
+33,Domantas Sabonis,DEFENSIVE_REBOUND,None,8:41,2,Pacers,76ers,29 - 38,0,N/A,N/A,N/A
+34,Mike Muscala,FOUL_ON_FLOOR,None,8:36,2,76ers,Pacers,29 - 38,1,N/A,N/A,N/A
+35,Thaddeus Young,FT_MISS,None,8:36,2,Pacers,76ers,29 - 38,0,N/A,1,N/A
+36,Team,OFFENSIVE_REBOUND,None,8:36,2,Pacers,76ers,29 - 38,0,N/A,N/A,N/A
+37,Ben Simmons,SUBSTITUTION,McConnell T.J.,8:36,2,76ers,Pacers,29 - 38,1,N/A,N/A,N/A
+38,Furkan Korkmaz,SUBSTITUTION,Milton Shake,8:36,2,76ers,Pacers,29 - 38,1,N/A,N/A,N/A
+39,Wilson Chandler,SUBSTITUTION,Embiid Joel,8:36,2,76ers,Pacers,29 - 38,1,N/A,N/A,N/A
+40,Thaddeus Young,FT,None,8:36,2,Pacers,76ers,30 - 38,0,N/A,1,N/A
+41,Mike Muscala,FG_MISS,None,8:22,2,76ers,Pacers,30 - 38,1,25,2,Jumper
+42,Doug McDermott,DEFENSIVE_REBOUND,None,8:19,2,Pacers,76ers,30 - 38,0,N/A,N/A,N/A
+43,Tyreke Evans,FG_MISS,None,8:14,2,Pacers,76ers,30 - 38,0,0,2,Layup
+44,Domantas Sabonis,OFFENSIVE_REBOUND,None,8:10,2,Pacers,76ers,30 - 38,0,N/A,N/A,N/A
+45,Domantas Sabonis,FG_UNASSISTED,None,8:10,2,Pacers,76ers,32 - 38,0, ,2,Jumper
+46,Mike Muscala,TURNOVER,Tyreke Evans,7:59,2,76ers,Pacers,32 - 38,1,N/A,N/A,N/A
+47,Wilson Chandler,FOUL_ON_FLOOR,None,7:56,2,76ers,Pacers,32 - 38,1,N/A,N/A,N/A
+48,Thaddeus Young,FT,None,7:56,2,Pacers,76ers,33 - 38,0,N/A,1,N/A
+49,Thaddeus Young,FT,None,7:56,2,Pacers,76ers,34 - 38,0,N/A,1,N/A
+50,Wilson Chandler,FG_MISS,None,7:45,2,76ers,Pacers,34 - 38,1,23,3,Jumper
+51,Tyreke Evans,DEFENSIVE_REBOUND,None,7:42,2,Pacers,76ers,34 - 38,0,N/A,N/A,N/A
+52,Cory Joseph,FG_ASSISTED,Thaddeus Young,7:19,2,Pacers,76ers,36 - 38,0,13,2,Jumper
+53,Wilson Chandler,TURNOVER,None,7:08,2,76ers,Pacers,36 - 38,1,N/A,N/A,N/A
+54,Wilson Chandler,TURNOVER,None,7:08,2,76ers,Pacers,36 - 38,1,N/A,N/A,N/A
+55,Bojan Bogdanovic,SUBSTITUTION,Young Thaddeus,7:08,2,Pacers,76ers,36 - 38,0,N/A,N/A,N/A
+56,Tyreke Evans,FG_MISS,None,6:54,2,Pacers,76ers,36 - 38,0,0,2,Layup
+57,Team,OFFENSIVE_REBOUND,None,6:53,2,Pacers,76ers,36 - 38,0,N/A,N/A,N/A
+58,Team,Unknown,None,6:53,2,76ers,Pacers,36 - 38,1,N/A,N/A,N/A
+59,Cory Joseph,FG_ASSISTED,Bojan Bogdanovic,6:38,2,Pacers,76ers,38 - 38,0, ,2,Jumper
+60,JJ Redick,FG_MISS,None,6:25,2,76ers,Pacers,38 - 38,1,28,3,Jumper
+61,Mike Muscala,OFFENSIVE_REBOUND,None,6:23,2,76ers,Pacers,38 - 38,1,N/A,N/A,N/A
+62,Furkan Korkmaz,FG_MISS,None,6:21,2,76ers,Pacers,38 - 38,1,19,2,Jumper
+63,Tyreke Evans,DEFENSIVE_REBOUND,None,6:19,2,Pacers,76ers,38 - 38,0,N/A,N/A,N/A
+64,Bojan Bogdanovic,FG_MISS,None,6:15,2,Pacers,76ers,38 - 38,0, ,2,Jumper
+65,Team,DEFENSIVE_REBOUND,None,6:13,2,76ers,Pacers,38 - 38,1,N/A,N/A,N/A
+66,Mike Muscala,FG_MISS,None,5:54,2,76ers,Pacers,38 - 38,1,6,2,Jumper
+67,Domantas Sabonis,DEFENSIVE_REBOUND,None,5:51,2,Pacers,76ers,38 - 38,0,N/A,N/A,N/A
+68,Tyreke Evans,TURNOVER,Ben Simmons,5:40,2,Pacers,76ers,38 - 38,0,N/A,N/A,N/A
+69,Furkan Korkmaz,FG_MISS,None,5:35,2,76ers,Pacers,38 - 38,1,23,3,Jumper
+70,Bojan Bogdanovic,DEFENSIVE_REBOUND,None,5:32,2,Pacers,76ers,38 - 38,0,N/A,N/A,N/A
+71,Cory Joseph,FG_MISS,None,5:27,2,Pacers,76ers,38 - 38,0,26,2,Jumper
+72,Furkan Korkmaz,DEFENSIVE_REBOUND,None,5:24,2,76ers,Pacers,38 - 38,1,N/A,N/A,N/A
+73,Doug McDermott,FOUL_ON_FLOOR,None,5:22,2,Pacers,76ers,38 - 38,0,N/A,N/A,N/A
+74,Ben Simmons,FT,None,5:22,2,76ers,Pacers,38 - 39,1,N/A,1,N/A
+75,Landry Shamet,SUBSTITUTION,Redick JJ,5:22,2,76ers,Pacers,38 - 39,1,N/A,N/A,N/A
+76,Joel Embiid,SUBSTITUTION,Muscala Mike,5:22,2,76ers,Pacers,38 - 39,1,N/A,N/A,N/A
+77,Victor Oladipo,SUBSTITUTION,Sabonis Domantas,5:22,2,Pacers,76ers,38 - 39,0,N/A,N/A,N/A
+78,Myles Turner,SUBSTITUTION,McDermott Doug,5:22,2,Pacers,76ers,38 - 39,0,N/A,N/A,N/A
+79,Ben Simmons,FT_MISS,None,5:22,2,76ers,Pacers,38 - 39,1,N/A,1,N/A
+80,Myles Turner,DEFENSIVE_REBOUND,None,5:20,2,Pacers,76ers,38 - 39,0,N/A,N/A,N/A
+81,Cory Joseph,FG_MISS,None,5:09,2,Pacers,76ers,38 - 39,0,15,2,Jumper
+82,Joel Embiid,DEFENSIVE_REBOUND,None,5:05,2,76ers,Pacers,38 - 39,1,N/A,N/A,N/A
+83,Tyreke Evans,FOUL_ON_FLOOR,None,4:56,2,Pacers,76ers,38 - 39,0,N/A,N/A,N/A
+84,Joel Embiid,FT,None,4:56,2,76ers,Pacers,38 - 40,1,N/A,1,N/A
+85,T.J. McConnell,SUBSTITUTION,Chandler Wilson,4:56,2,76ers,Pacers,38 - 40,1,N/A,N/A,N/A
+86,Joel Embiid,FT_MISS,None,4:56,2,76ers,Pacers,38 - 40,1,N/A,1,N/A
+87,Landry Shamet,OFFENSIVE_REBOUND,None,4:51,2,76ers,Pacers,38 - 40,1,N/A,N/A,N/A
+88,Landry Shamet,FG_MISS,None,4:51,2,76ers,Pacers,38 - 40,1, ,2,Jumper
+89,Myles Turner,DEFENSIVE_REBOUND,None,4:50,2,Pacers,76ers,38 - 40,0,N/A,N/A,N/A
+90,Landry Shamet,FOUL_ON_FLOOR,None,4:41,2,76ers,Pacers,38 - 40,1,N/A,N/A,N/A
+91,Tyreke Evans,FT,None,4:41,2,Pacers,76ers,39 - 40,0,N/A,1,N/A
+92,Darren Collison,SUBSTITUTION,Joseph Cory,4:41,2,Pacers,76ers,39 - 40,0,N/A,N/A,N/A
+93,Tyreke Evans,FT,None,4:41,2,Pacers,76ers,40 - 40,0,N/A,1,N/A
+94,Ben Simmons,FG_MISS,None,4:30,2,76ers,Pacers,40 - 40,1,12,2,Jumper
+95,Joel Embiid,OFFENSIVE_REBOUND,None,4:28,2,76ers,Pacers,40 - 40,1,N/A,N/A,N/A
+96,Joel Embiid,FG_UNASSISTED,None,4:27,2,76ers,Pacers,40 - 42,1, ,2,Jumper
+97,Myles Turner,FG_ASSISTED,Darren Collison,4:16,2,Pacers,76ers,43 - 42,0,27,3,Jumper
+98,Joel Embiid,FG_ASSISTED,T.J. McConnell,4:02,2,76ers,Pacers,43 - 44,1, ,2,Jumper
+99,Tyreke Evans,FG_MISS,Ben Simmons,3:56,2,76ers,Pacers,43 - 44,0,4,2,Jumper
+100,Team,OFFENSIVE_REBOUND,None,3:56,2,Pacers,76ers,43 - 44,0,N/A,N/A,N/A
+101,Wilson Chandler,SUBSTITUTION,Korkmaz Furkan,3:56,2,76ers,Pacers,43 - 44,1,N/A,N/A,N/A
+102,Tyreke Evans,TURNOVER,Joel Embiid,3:53,2,Pacers,76ers,43 - 44,0,N/A,N/A,N/A
+103,Landry Shamet,FG_ASSISTED,T.J. McConnell,3:49,2,76ers,Pacers,43 - 47,1,24,3,Jumper
+104,Victor Oladipo,FOUL_ON_FLOOR,None,3:49,2,Pacers,76ers,43 - 44,0,N/A,N/A,N/A
+105,Landry Shamet,FT,None,3:49,2,76ers,Pacers,43 - 45,1,N/A,1,N/A
+106,Team,Unknown,None,3:45,2,Pacers,76ers,43 - 48,0,N/A,N/A,N/A
+107,Victor Oladipo,FG_MISS,None,3:37,2,Pacers,76ers,43 - 48,0,26,3,Jumper
+108,Joel Embiid,DEFENSIVE_REBOUND,None,3:33,2,76ers,Pacers,43 - 48,1,N/A,N/A,N/A
+109,Joel Embiid,FG_UNASSISTED,None,3:21,2,76ers,Pacers,43 - 50,1,3,2,Jumper
+110,Myles Turner,FOUL_ON_FLOOR,None,3:21,2,Pacers,76ers,43 - 50,0,N/A,N/A,N/A
+111,Thaddeus Young,SUBSTITUTION,Evans Tyreke,3:21,2,Pacers,76ers,43 - 50,0,N/A,N/A,N/A
+112,Domantas Sabonis,SUBSTITUTION,Turner Myles,3:21,2,Pacers,76ers,43 - 50,0,N/A,N/A,N/A
+113,Joel Embiid,FT,None,3:21,2,76ers,Pacers,43 - 51,1,N/A,1,N/A
+114,Domantas Sabonis,FG_MISS,None,2:57,2,Pacers,76ers,43 - 51,0,5,2,Jumper
+115,Joel Embiid,DEFENSIVE_REBOUND,None,2:54,2,76ers,Pacers,43 - 51,1,N/A,N/A,N/A
+116,Bojan Bogdanovic,FOUL_ON_FLOOR,None,2:33,2,Pacers,76ers,43 - 51,0,N/A,N/A,N/A
+117,Joel Embiid,FT,None,2:33,2,76ers,Pacers,43 - 52,1,N/A,1,N/A
+118,Joel Embiid,FT,None,2:33,2,76ers,Pacers,43 - 53,1,N/A,1,N/A
+119,Thaddeus Young,FG_MISS,None,2:16,2,Pacers,76ers,43 - 53,0,23,3,Jumper
+120,Joel Embiid,DEFENSIVE_REBOUND,None,2:12,2,76ers,Pacers,43 - 53,1,N/A,N/A,N/A
+121,Joel Embiid,TURNOVER,None,2:00,2,76ers,Pacers,43 - 53,1,N/A,N/A,N/A
+122,Thaddeus Young,FG_ASSISTED,Darren Collison,1:49,2,Pacers,76ers,45 - 53,0,5,2,Jumper
+123,Domantas Sabonis,FOUL_ON_FLOOR,None,1:36,2,Pacers,76ers,45 - 53,0,N/A,N/A,N/A
+124,Joel Embiid,FT,None,1:36,2,76ers,Pacers,45 - 54,1,N/A,1,N/A
+125,Kyle O'Quinn,SUBSTITUTION,Sabonis Domantas,1:36,2,Pacers,76ers,45 - 54,0,N/A,N/A,N/A
+126,Joel Embiid,FT,None,1:36,2,76ers,Pacers,45 - 55,1,N/A,1,N/A
+127,Thaddeus Young,FG_ASSISTED,Darren Collison,1:24,2,Pacers,76ers,47 - 55,0,7,2,Jumper
+128,Kyle O'Quinn,FOUL_ON_FLOOR,None,1:08,2,Pacers,76ers,47 - 55,0,N/A,N/A,N/A
+129,Joel Embiid,FT,None,1:08,2,76ers,Pacers,47 - 56,1,N/A,1,N/A
+130,Joel Embiid,FT_MISS,None,1:08,2,76ers,Pacers,47 - 56,1,N/A,1,N/A
+131,Bojan Bogdanovic,DEFENSIVE_REBOUND,None,1:06,2,Pacers,76ers,47 - 56,0,N/A,N/A,N/A
+132,Thaddeus Young,FG_ASSISTED,Darren Collison,46.8,2,Pacers,76ers,49 - 56,0,0,2,Layup
+133,Darren Collison,FOUL_ON_FLOOR,None,45.6,2,Pacers,76ers,49 - 56,0,N/A,N/A,N/A
+134,Joel Embiid,FT,None,45.6,2,76ers,Pacers,49 - 57,1,N/A,1,N/A
+135,T.J. McConnell,FG_MISS,None,34.2,2,76ers,Pacers,49 - 57,1,17,2,Jumper
+136,Wilson Chandler,OFFENSIVE_REBOUND,None,31.4,2,76ers,Pacers,49 - 57,1,N/A,N/A,N/A
+137,Joel Embiid,FG_MISS,None,29.2,2,76ers,Pacers,49 - 57,1,27,3,Jumper
+138,Darren Collison,DEFENSIVE_REBOUND,None,25.9,2,Pacers,76ers,49 - 57,0,N/A,N/A,N/A
+139,Victor Oladipo,FG_MISS,None,8.2,2,Pacers,76ers,49 - 57,0,11,2,Jumper
+140,Joel Embiid,DEFENSIVE_REBOUND,None,5.9,2,76ers,Pacers,49 - 57,1,N/A,N/A,N/A
+141,Ben Simmons,FG_UNASSISTED,None,3.5,2,76ers,Pacers,49 - 59,1, ,2,Jumper
+142,Darren Collison,FG_MISS,None,1.0,2,Pacers,76ers,49 - 59,0,26,3,Jumper
+143,Team,OFFENSIVE_REBOUND,None,1.0,2,Pacers,76ers,49 - 59,0,N/A,N/A,N/A
+144,End of,Unknown,None,0.0,2,76ers,Pacers,49 - 59,1,N/A,N/A,N/A
+0,JJ Redick,SUBSTITUTION,Shamet Landry,12:00,3,76ers,Pacers,49 - 59,1,N/A,N/A,N/A
+1,Furkan Korkmaz,SUBSTITUTION,McConnell T.J.,12:00,3,76ers,Pacers,49 - 59,1,N/A,N/A,N/A
+2,Myles Turner,SUBSTITUTION,O'Quinn Kyle,12:00,3,Pacers,76ers,49 - 59,0,N/A,N/A,N/A
+3,Thaddeus Young,FG_MISS,None,11:34,3,Pacers,76ers,49 - 59,0, ,2,Jumper
+4,Joel Embiid,DEFENSIVE_REBOUND,None,11:32,3,76ers,Pacers,49 - 59,1,N/A,N/A,N/A
+5,Furkan Korkmaz,TURNOVER,None,11:23,3,76ers,Pacers,49 - 59,1,N/A,N/A,N/A
+6,Myles Turner,FG_ASSISTED,Victor Oladipo,11:11,3,Pacers,76ers,51 - 59,0,0,2,Layup
+7,Darren Collison,FOUL_ON_FLOOR,None,10:57,3,Pacers,76ers,51 - 59,0,N/A,N/A,N/A
+8,JJ Redick,FG_MISS,None,10:43,3,76ers,Pacers,51 - 59,1,27,3,Jumper
+9,Thaddeus Young,DEFENSIVE_REBOUND,None,10:39,3,Pacers,76ers,51 - 59,0,N/A,N/A,N/A
+10,Wilson Chandler,FOUL_ON_FLOOR,None,10:34,3,76ers,Pacers,51 - 59,1,N/A,N/A,N/A
+11,Bojan Bogdanovic,FG_MISS,JJ Redick,10:23,3,76ers,Pacers,51 - 59,0,12,2,Jumper
+12,Team,OFFENSIVE_REBOUND,None,10:23,3,Pacers,76ers,51 - 59,0,N/A,N/A,N/A
+13,Darren Collison,FG_ASSISTED,Victor Oladipo,10:20,3,Pacers,76ers,53 - 59,0,14,2,Jumper
+14,Joel Embiid,FG_MISS,None,9:55,3,76ers,Pacers,53 - 59,1,19,2,Jumper
+15,Myles Turner,DEFENSIVE_REBOUND,None,9:52,3,Pacers,76ers,53 - 59,0,N/A,N/A,N/A
+16,Victor Oladipo,FG_MISS,None,9:40,3,Pacers,76ers,53 - 59,0,19,2,Jumper
+17,Team,OFFENSIVE_REBOUND,None,9:39,3,Pacers,76ers,53 - 59,0,N/A,N/A,N/A
+18,Wilson Chandler,FOUL_ON_FLOOR,None,9:39,3,76ers,Pacers,53 - 59,1,N/A,N/A,N/A
+19,Mike Muscala,SUBSTITUTION,Chandler Wilson,9:39,3,76ers,Pacers,53 - 59,1,N/A,N/A,N/A
+20,Furkan Korkmaz,FOUL_ON_FLOOR,None,9:29,3,76ers,Pacers,53 - 59,1,N/A,N/A,N/A
+21,T.J. McConnell,SUBSTITUTION,Muscala Mike,9:29,3,76ers,Pacers,53 - 59,1,N/A,N/A,N/A
+22,Victor Oladipo's,FG_MISS,T.J. McConnell,9:24,3,76ers,Pacers,53 - 59,0,0,2,Layup
+23,Team,DEFENSIVE_REBOUND,None,9:24,3,76ers,Pacers,53 - 59,1,N/A,N/A,N/A
+24,Joel Embiid,FG_UNASSISTED,None,9:07,3,76ers,Pacers,53 - 61,1,0,2,Dunk
+25,T.J. McConnell,FOUL_ON_FLOOR,None,8:59,3,76ers,Pacers,53 - 61,1,N/A,N/A,N/A
+26,Victor Oladipo,FT,None,8:59,3,Pacers,76ers,54 - 61,0,N/A,1,N/A
+27,Victor Oladipo,FT,None,8:59,3,Pacers,76ers,55 - 61,0,N/A,1,N/A
+28,Joel Embiid,TURNOVER,Victor Oladipo,8:41,3,76ers,Pacers,55 - 61,1,N/A,N/A,N/A
+29,Darren Collison,FG_ASSISTED,Bojan Bogdanovic,8:35,3,Pacers,76ers,58 - 61,0,23,3,Jumper
+30,JJ Redick,FG_MISS,None,8:21,3,76ers,Pacers,58 - 61,1,27,3,Jumper
+31,Joel Embiid,OFFENSIVE_REBOUND,None,8:19,3,76ers,Pacers,58 - 61,1,N/A,N/A,N/A
+32,Victor Oladipo,FOUL_ON_FLOOR,None,8:16,3,Pacers,76ers,58 - 61,0,N/A,N/A,N/A
+33,JJ Redick,FT,None,8:16,3,76ers,Pacers,58 - 62,1,N/A,1,N/A
+34,JJ Redick,FT,None,8:16,3,76ers,Pacers,58 - 63,1,N/A,1,N/A
+35,Myles Turner,FG_ASSISTED,Victor Oladipo,7:57,3,Pacers,76ers,61 - 63,0,23,3,Jumper
+36,Furkan Korkmaz,FG_MISS,Myles Turner,7:34,3,Pacers,76ers,61 - 63,1,5,2,Jumper
+37,Team,OFFENSIVE_REBOUND,None,7:34,3,76ers,Pacers,61 - 63,1,N/A,N/A,N/A
+38,Furkan Korkmaz,FG_MISS,None,7:21,3,76ers,Pacers,61 - 63,1,28,3,Jumper
+39,Joel Embiid,OFFENSIVE_REBOUND,None,7:20,3,76ers,Pacers,61 - 63,1,N/A,N/A,N/A
+40,Joel Embiid,TURNOVER,None,7:18,3,76ers,Pacers,61 - 63,1,N/A,N/A,N/A
+41,Landry Shamet,SUBSTITUTION,Korkmaz Furkan,7:18,3,76ers,Pacers,61 - 63,1,N/A,N/A,N/A
+42,Bojan Bogdanovic,FG_UNASSISTED,None,7:03,3,Pacers,76ers,63 - 63,0,6,2,Jumper
+43,Team,Unknown,None,7:03,3,76ers,Pacers,63 - 63,1,N/A,N/A,N/A
+44,Mike Muscala,SUBSTITUTION,Embiid Joel,7:03,3,76ers,Pacers,63 - 63,1,N/A,N/A,N/A
+45,T.J. McConnell,FG_UNASSISTED,None,6:42,3,76ers,Pacers,63 - 65,1,4,2,Jumper
+46,Myles Turner,FG_MISS,None,6:23,3,Pacers,76ers,63 - 65,0,8,2,Jumper
+47,Mike Muscala,DEFENSIVE_REBOUND,None,6:20,3,76ers,Pacers,63 - 65,1,N/A,N/A,N/A
+48,Ben Simmons,FG_MISS,None,6:16,3,76ers,Pacers,63 - 65,1,0,2,Dunk
+49,Myles Turner,DEFENSIVE_REBOUND,None,6:13,3,Pacers,76ers,63 - 65,0,N/A,N/A,N/A
+50,Victor Oladipo,FG_UNASSISTED,None,6:03,3,Pacers,76ers,65 - 65,0, ,2,Jumper
+51,Ben Simmons,FG_MISS,Thaddeus Young,5:55,3,Pacers,76ers,65 - 65,1,0,2,Layup
+52,Thaddeus Young,JUMP_BALL,None,5:52,3,76ers,Pacers,65 - 65,1,N/A,N/A,N/A
+53,Team,OFFENSIVE_REBOUND,None,5:52,3,76ers,Pacers,65 - 65,1,N/A,N/A,N/A
+54,Mike Muscala,FG_MISS,None,5:37,3,76ers,Pacers,65 - 65,1, ,3,Jumper
+55,Bojan Bogdanovic,DEFENSIVE_REBOUND,None,5:34,3,Pacers,76ers,65 - 65,0,N/A,N/A,N/A
+56,JJ Redick,FOUL_ON_FLOOR,None,5:17,3,76ers,Pacers,65 - 65,1,N/A,N/A,N/A
+57,Thaddeus Young,FT,None,5:17,3,Pacers,76ers,66 - 65,0,N/A,1,N/A
+58,Thaddeus Young,FT,None,5:17,3,Pacers,76ers,67 - 65,0,N/A,1,N/A
+59,JJ Redick,FG_MISS,None,5:06,3,76ers,Pacers,67 - 65,1,25,3,Jumper
+60,Mike Muscala,OFFENSIVE_REBOUND,None,5:03,3,76ers,Pacers,67 - 65,1,N/A,N/A,N/A
+61,T.J. McConnell,FG_UNASSISTED,None,4:57,3,76ers,Pacers,67 - 67,1, ,2,Jumper
+62,Victor Oladipo,FG_MISS,None,4:40,3,Pacers,76ers,67 - 67,0,0,2,Layup
+63,Landry Shamet,DEFENSIVE_REBOUND,None,4:38,3,76ers,Pacers,67 - 67,1,N/A,N/A,N/A
+64,Mike Muscala,FG_ASSISTED,JJ Redick,4:29,3,76ers,Pacers,67 - 69,1,0,2,Layup
+65,Thaddeus Young,FG_ASSISTED,Darren Collison,4:08,3,Pacers,76ers,69 - 69,0,9,2,Jumper
+66,JJ Redick,FG_ASSISTED,Landry Shamet,3:49,3,76ers,Pacers,69 - 72,1,28,3,Jumper
+67,Team,Unknown,None,3:41,3,Pacers,76ers,69 - 72,0,N/A,N/A,N/A
+68,Furkan Korkmaz,SUBSTITUTION,Redick JJ,3:41,3,76ers,Pacers,69 - 72,1,N/A,N/A,N/A
+69,Joel Embiid,SUBSTITUTION,Muscala Mike,3:41,3,76ers,Pacers,69 - 72,1,N/A,N/A,N/A
+70,Domantas Sabonis,SUBSTITUTION,Oladipo Victor,3:41,3,Pacers,76ers,69 - 72,0,N/A,N/A,N/A
+71,Cory Joseph,SUBSTITUTION,Young Thaddeus,3:41,3,Pacers,76ers,69 - 72,0,N/A,N/A,N/A
+72,Cory Joseph,TURNOVER,T.J. McConnell,3:39,3,Pacers,76ers,69 - 72,0,N/A,N/A,N/A
+73,Myles Turner,FOUL_ON_FLOOR,None,3:39,3,Pacers,76ers,69 - 72,0,N/A,N/A,N/A
+74,Tyreke Evans,SUBSTITUTION,Turner Myles,3:39,3,Pacers,76ers,69 - 72,0,N/A,N/A,N/A
+75,Ben Simmons,FG_MISS,None,3:29,3,76ers,Pacers,69 - 72,1, ,2,Jumper
+76,Joel Embiid,OFFENSIVE_REBOUND,None,3:28,3,76ers,Pacers,69 - 72,1,N/A,N/A,N/A
+77,Joel Embiid,FG_UNASSISTED,None,3:26,3,76ers,Pacers,69 - 74,1, ,2,Jumper
+78,Bojan Bogdanovic,FG_ASSISTED,Domantas Sabonis,3:06,3,Pacers,76ers,71 - 74,0,0,2,Layup
+79,Joel Embiid,FG_MISS,None,2:54,3,76ers,Pacers,71 - 74,1,28,3,Jumper
+80,Bojan Bogdanovic,DEFENSIVE_REBOUND,None,2:51,3,Pacers,76ers,71 - 74,0,N/A,N/A,N/A
+81,Bojan Bogdanovic,FG_ASSISTED,Cory Joseph,2:42,3,Pacers,76ers,74 - 74,0,29,3,Jumper
+82,Bojan Bogdanovic,FOUL_ON_FLOOR,None,2:31,3,Pacers,76ers,74 - 74,0,N/A,N/A,N/A
+83,T.J. McConnell,FG_MISS,None,2:21,3,76ers,Pacers,74 - 74,1,7,2,Jumper
+84,Domantas Sabonis,DEFENSIVE_REBOUND,None,2:18,3,Pacers,76ers,74 - 74,0,N/A,N/A,N/A
+85,Bojan Bogdanovic,FG_ASSISTED,Darren Collison,2:14,3,Pacers,76ers,77 - 74,0, ,3,Jumper
+86,Tyreke Evans,FOUL_ON_FLOOR,None,1:55,3,Pacers,76ers,77 - 74,0,N/A,N/A,N/A
+87,Ben Simmons,FT_MISS,None,1:55,3,76ers,Pacers,77 - 74,1,N/A,1,N/A
+88,Team,OFFENSIVE_REBOUND,None,1:55,3,76ers,Pacers,77 - 74,1,N/A,N/A,N/A
+89,Ben Simmons,FT,None,1:55,3,76ers,Pacers,77 - 75,1,N/A,1,N/A
+90,Bojan Bogdanovic,FG_MISS,None,1:44,3,Pacers,76ers,77 - 75,0,16,2,Jumper
+91,Ben Simmons,DEFENSIVE_REBOUND,None,1:39,3,76ers,Pacers,77 - 75,1,N/A,N/A,N/A
+92,Furkan Korkmaz,TURNOVER,None,1:36,3,76ers,Pacers,77 - 75,1,N/A,N/A,N/A
+93,Darren Collison,TURNOVER,T.J. McConnell,1:26,3,Pacers,76ers,77 - 75,0,N/A,N/A,N/A
+94,Ben Simmons,FG_MISS,None,1:20,3,76ers,Pacers,77 - 75,1,4,2,Jumper
+95,Ben Simmons,OFFENSIVE_REBOUND,None,1:18,3,76ers,Pacers,77 - 75,1,N/A,N/A,N/A
+96,Ben Simmons,FG_UNASSISTED,None,1:15,3,76ers,Pacers,77 - 77,1,0,2,Layup
+97,Domantas Sabonis,FG_MISS,None,1:00,3,Pacers,76ers,77 - 77,0,0,2,Layup
+98,Joel Embiid,DEFENSIVE_REBOUND,None,59.2,3,76ers,Pacers,77 - 77,1,N/A,N/A,N/A
+99,Ben Simmons,FG_MISS,None,53.4,3,76ers,Pacers,77 - 77,1,12,2,Jumper
+100,Domantas Sabonis,DEFENSIVE_REBOUND,None,51.2,3,Pacers,76ers,77 - 77,0,N/A,N/A,N/A
+101,Cory Joseph,FG_ASSISTED,Darren Collison,39.4,3,Pacers,76ers,79 - 77,0, ,2,Jumper
+102,Brett Brown,FOUL_TECHNICAL,None,39.4,3,76ers,Pacers,79 - 77,1,N/A,N/A,N/A
+103,Bojan Bogdanovic,FT,None,39.4,3,Pacers,76ers,80 - 77,0,N/A,1,N/A
+104,Doug McDermott,SUBSTITUTION,Collison Darren,39.4,3,Pacers,76ers,80 - 77,0,N/A,N/A,N/A
+105,Joel Embiid,FG_MISS,None,26.2,3,76ers,Pacers,80 - 77,1,28,3,Jumper
+106,Team,DEFENSIVE_REBOUND,None,23.5,3,Pacers,76ers,80 - 77,0,N/A,N/A,N/A
+107,Bojan Bogdanovic,FG_MISS,None,0.5,3,Pacers,76ers,80 - 77,0,28,2,Jumper
+108,Team,OFFENSIVE_REBOUND,None,0.5,3,Pacers,76ers,80 - 77,0,N/A,N/A,N/A
+109,End of,Unknown,None,0.0,3,76ers,Pacers,80 - 77,1,N/A,N/A,N/A
+0,JJ Redick,SUBSTITUTION,Shamet Landry,12:00,4,76ers,Pacers,80 - 77,1,N/A,N/A,N/A
+1,Wilson Chandler,SUBSTITUTION,Simmons Ben,12:00,4,76ers,Pacers,80 - 77,1,N/A,N/A,N/A
+2,Thaddeus Young,SUBSTITUTION,Bogdanovic Bojan,12:00,4,Pacers,76ers,80 - 77,0,N/A,N/A,N/A
+3,Wilson Chandler,FG_MISS,None,11:41,4,76ers,Pacers,80 - 77,1,21,2,Jumper
+4,Tyreke Evans,DEFENSIVE_REBOUND,None,11:37,4,Pacers,76ers,80 - 77,0,N/A,N/A,N/A
+5,Tyreke Evans,FG_MISS,None,11:22,4,Pacers,76ers,80 - 77,0,22,2,Jumper
+6,Furkan Korkmaz,DEFENSIVE_REBOUND,None,11:19,4,76ers,Pacers,80 - 77,1,N/A,N/A,N/A
+7,Joel Embiid,TURNOVER,Cory Joseph,11:03,4,76ers,Pacers,80 - 77,1,N/A,N/A,N/A
+8,Furkan Korkmaz,FOUL_ON_FLOOR,None,10:59,4,76ers,Pacers,80 - 77,1,N/A,N/A,N/A
+9,Tyreke Evans,FT,None,10:59,4,Pacers,76ers,81 - 77,0,N/A,1,N/A
+10,Tyreke Evans,FT,None,10:59,4,Pacers,76ers,82 - 77,0,N/A,1,N/A
+11,Cory Joseph,FOUL_ON_FLOOR,None,10:48,4,Pacers,76ers,82 - 77,0,N/A,N/A,N/A
+12,Joel Embiid,FG_UNASSISTED,None,10:37,4,76ers,Pacers,82 - 79,1,0,2,Layup
+13,Tyreke Evans,FG_MISS,None,10:26,4,Pacers,76ers,82 - 79,0,0,2,Layup
+14,Joel Embiid,DEFENSIVE_REBOUND,None,10:24,4,76ers,Pacers,82 - 79,1,N/A,N/A,N/A
+15,JJ Redick,FG_ASSISTED,T.J. McConnell,10:19,4,76ers,Pacers,82 - 82,1,26,3,Jumper
+16,Doug McDermott,FG_MISS,None,9:58,4,Pacers,76ers,82 - 82,0,25,3,Jumper
+17,Thaddeus Young,OFFENSIVE_REBOUND,None,9:54,4,Pacers,76ers,82 - 82,0,N/A,N/A,N/A
+18,Tyreke Evans,FG_MISS,None,9:53,4,Pacers,76ers,82 - 82,0,27,3,Jumper
+19,Thaddeus Young,OFFENSIVE_REBOUND,None,9:51,4,Pacers,76ers,82 - 82,0,N/A,N/A,N/A
+20,Tyreke Evans,FG_ASSISTED,Thaddeus Young,9:49,4,Pacers,76ers,84 - 82,0, ,2,Jumper
+21,JJ Redick,FG_MISS,None,9:25,4,76ers,Pacers,84 - 82,1, ,3,Jumper
+22,Cory Joseph,DEFENSIVE_REBOUND,None,9:22,4,Pacers,76ers,84 - 82,0,N/A,N/A,N/A
+23,Cory Joseph,FG_ASSISTED,Thaddeus Young,9:09,4,Pacers,76ers,86 - 82,0, ,2,Jumper
+24,JJ Redick,FG_ASSISTED,Joel Embiid,8:45,4,76ers,Pacers,86 - 85,1,26,3,Jumper
+25,Thaddeus Young,FG_ASSISTED,Cory Joseph,8:28,4,Pacers,76ers,88 - 85,0, ,2,Jumper
+26,T.J. McConnell,TURNOVER,Tyreke Evans,8:16,4,76ers,Pacers,88 - 85,1,N/A,N/A,N/A
+27,Landry Shamet,SUBSTITUTION,McConnell T.J.,8:10,4,76ers,Pacers,88 - 85,1,N/A,N/A,N/A
+28,Ben Simmons,SUBSTITUTION,Korkmaz Furkan,8:10,4,76ers,Pacers,88 - 85,1,N/A,N/A,N/A
+29,Tyreke Evans,FG_MISS,None,7:57,4,Pacers,76ers,88 - 85,0,21,2,Jumper
+30,Wilson Chandler,DEFENSIVE_REBOUND,None,7:54,4,76ers,Pacers,88 - 85,1,N/A,N/A,N/A
+31,Ben Simmons,FG_UNASSISTED,None,7:37,4,76ers,Pacers,88 - 87,1,10,2,Jumper
+32,Team,Unknown,None,7:37,4,Pacers,76ers,88 - 87,0,N/A,N/A,N/A
+33,Mike Muscala,SUBSTITUTION,Embiid Joel,7:37,4,76ers,Pacers,88 - 87,1,N/A,N/A,N/A
+34,Victor Oladipo,SUBSTITUTION,Evans Tyreke,7:37,4,Pacers,76ers,88 - 87,0,N/A,N/A,N/A
+35,Doug McDermott,FG_MISS,None,7:24,4,Pacers,76ers,88 - 87,0,26,3,Jumper
+36,Ben Simmons,DEFENSIVE_REBOUND,None,7:20,4,76ers,Pacers,88 - 87,1,N/A,N/A,N/A
+37,Mike Muscala,FG_MISS,None,7:14,4,76ers,Pacers,88 - 87,1,27,3,Jumper
+38,Thaddeus Young,DEFENSIVE_REBOUND,None,7:09,4,Pacers,76ers,88 - 87,0,N/A,N/A,N/A
+39,Thaddeus Young,JUMP_BALL,None,7:06,4,Pacers,76ers,88 - 87,0,N/A,N/A,N/A
+40,Domantas Sabonis,FG_MISS,None,6:57,4,Pacers,76ers,88 - 87,0, ,2,Jumper
+41,Thaddeus Young,OFFENSIVE_REBOUND,None,6:56,4,Pacers,76ers,88 - 87,0,N/A,N/A,N/A
+42,Ben Simmons,FOUL_ON_FLOOR,None,6:56,4,76ers,Pacers,88 - 87,1,N/A,N/A,N/A
+43,Thaddeus Young,FT,None,6:56,4,Pacers,76ers,89 - 87,0,N/A,1,N/A
+44,Thaddeus Young,FT,None,6:56,4,Pacers,76ers,90 - 87,0,N/A,1,N/A
+45,JJ Redick,FG_MISS,None,6:43,4,76ers,Pacers,90 - 87,1,15,2,Jumper
+46,Domantas Sabonis,DEFENSIVE_REBOUND,None,6:40,4,Pacers,76ers,90 - 87,0,N/A,N/A,N/A
+47,Domantas Sabonis,FG_MISS,None,6:26,4,Pacers,76ers,90 - 87,0,0,2,Layup
+48,Domantas Sabonis,OFFENSIVE_REBOUND,None,6:21,4,Pacers,76ers,90 - 87,0,N/A,N/A,N/A
+49,Domantas Sabonis,FG_MISS,None,6:21,4,Pacers,76ers,90 - 87,0, ,2,Jumper
+50,Wilson Chandler,DEFENSIVE_REBOUND,None,6:20,4,76ers,Pacers,90 - 87,1,N/A,N/A,N/A
+51,JJ Redick,FG_ASSISTED,Ben Simmons,6:15,4,76ers,Pacers,90 - 89,1, ,2,Jumper
+52,Victor Oladipo,FG_ASSISTED,Domantas Sabonis,6:04,4,Pacers,76ers,92 - 89,0,19,2,Jumper
+53,JJ Redick,FG_MISS,None,5:38,4,76ers,Pacers,92 - 89,1,27,3,Jumper
+54,Victor Oladipo,DEFENSIVE_REBOUND,None,5:35,4,Pacers,76ers,92 - 89,0,N/A,N/A,N/A
+55,Victor Oladipo,FG_MISS,None,5:31,4,Pacers,76ers,92 - 89,0,18,2,Jumper
+56,Wilson Chandler,DEFENSIVE_REBOUND,None,5:26,4,76ers,Pacers,92 - 89,1,N/A,N/A,N/A
+57,Team,Unknown,None,5:26,4,76ers,Pacers,92 - 89,1,N/A,N/A,N/A
+58,Myles Turner,SUBSTITUTION,McDermott Doug,5:26,4,Pacers,76ers,92 - 89,0,N/A,N/A,N/A
+59,Bojan Bogdanovic,SUBSTITUTION,Young Thaddeus,5:26,4,Pacers,76ers,92 - 89,0,N/A,N/A,N/A
+60,Furkan Korkmaz,SUBSTITUTION,for game,5:26,4,76ers,Pacers,92 - 89,1,N/A,N/A,N/A
+61,Furkan Korkmaz,SUBSTITUTION,Muscala Mike,5:26,4,76ers,Pacers,92 - 89,1,N/A,N/A,N/A
+62,enters the,SUBSTITUTION,Redick JJ,5:26,4,76ers,Pacers,92 - 89,1,N/A,N/A,N/A
+63,Myles Turner,FOUL_ON_FLOOR,None,5:20,4,Pacers,76ers,92 - 89,0,N/A,N/A,N/A
+64,Ben Simmons,FT_MISS,None,5:20,4,76ers,Pacers,92 - 89,1,N/A,1,N/A
+65,Team,OFFENSIVE_REBOUND,None,5:20,4,76ers,Pacers,92 - 89,1,N/A,N/A,N/A
+66,Thaddeus Young,SUBSTITUTION,Turner Myles,5:20,4,Pacers,76ers,92 - 89,0,N/A,N/A,N/A
+67,Ben Simmons,FT,None,5:20,4,76ers,Pacers,92 - 90,1,N/A,1,N/A
+68,Victor Oladipo,FG_ASSISTED,Thaddeus Young,5:08,4,Pacers,76ers,94 - 90,0,19,2,Jumper
+69,Wilson Chandler,FG_MISS,None,4:51,4,76ers,Pacers,94 - 90,1,27,3,Jumper
+70,Cory Joseph,DEFENSIVE_REBOUND,None,4:49,4,Pacers,76ers,94 - 90,0,N/A,N/A,N/A
+71,Domantas Sabonis,FG_ASSISTED,Thaddeus Young,4:39,4,Pacers,76ers,96 - 90,0,0,2,Layup
+72,Team,Unknown,None,4:39,4,76ers,Pacers,94 - 90,1,N/A,N/A,N/A
+73,JJ Redick,SUBSTITUTION,Korkmaz Furkan,4:39,4,76ers,Pacers,96 - 90,1,N/A,N/A,N/A
+74,Ben Simmons,FOUL_ON_FLOOR,None,4:32,4,76ers,Pacers,96 - 90,1,N/A,N/A,N/A
+75,Ben Simmons,TURNOVER,None,4:32,4,76ers,Pacers,96 - 90,1,N/A,N/A,N/A
+76,Furkan Korkmaz,SUBSTITUTION,Shamet Landry,4:32,4,76ers,Pacers,96 - 90,1,N/A,N/A,N/A
+77,Thaddeus Young,FG_ASSISTED,Victor Oladipo,4:21,4,Pacers,76ers,98 - 90,0,0,2,Layup
+78,Joel Embiid,FOUL_ON_FLOOR,None,4:21,4,76ers,Pacers,98 - 90,1,N/A,N/A,N/A
+79,Thaddeus Young,FT,None,4:21,4,Pacers,76ers,99 - 90,0,N/A,1,N/A
+80,Domantas Sabonis,FOUL_ON_FLOOR,None,4:07,4,Pacers,76ers,99 - 90,0,N/A,N/A,N/A
+81,Joel Embiid,FT,None,4:07,4,76ers,Pacers,99 - 91,1,N/A,1,N/A
+82,Joel Embiid,FT,None,4:07,4,76ers,Pacers,99 - 92,1,N/A,1,N/A
+83,Victor Oladipo,FG_MISS,None,3:56,4,Pacers,76ers,99 - 92,0,27,3,Jumper
+84,Thaddeus Young,OFFENSIVE_REBOUND,None,3:52,4,Pacers,76ers,99 - 92,0,N/A,N/A,N/A
+85,Bojan Bogdanovic,FG_ASSISTED,Cory Joseph,3:46,4,Pacers,76ers,102 - 92,0,25,3,Jumper
+86,Furkan Korkmaz,FG_ASSISTED,Wilson Chandler,3:23,4,76ers,Pacers,102 - 95,1,24,3,Jumper
+87,Team,Unknown,None,3:21,4,Pacers,76ers,102 - 95,0,N/A,N/A,N/A
+88,Victor Oladipo,FG_UNASSISTED,None,3:04,4,Pacers,76ers,104 - 95,0,20,2,Jumper
+89,Thaddeus Young,FOUL_ON_FLOOR,None,2:48,4,Pacers,76ers,104 - 95,0,N/A,N/A,N/A
+90,Joel Embiid,FT,None,2:48,4,76ers,Pacers,104 - 96,1,N/A,1,N/A
+91,Joel Embiid,FT,None,2:48,4,76ers,Pacers,104 - 97,1,N/A,1,N/A
+92,Victor Oladipo,TURNOVER,Ben Simmons,2:30,4,Pacers,76ers,104 - 97,0,N/A,N/A,N/A
+93,Furkan Korkmaz,FG_MISS,None,2:24,4,76ers,Pacers,104 - 97,1,25,3,Jumper
+94,Wilson Chandler,OFFENSIVE_REBOUND,None,2:21,4,76ers,Pacers,104 - 97,1,N/A,N/A,N/A
+95,JJ Redick,FG_MISS,None,2:12,4,76ers,Pacers,104 - 97,1,0,2,Layup
+96,Joel Embiid,OFFENSIVE_REBOUND,None,2:08,4,76ers,Pacers,104 - 97,1,N/A,N/A,N/A
+97,Joel Embiid,FG_UNASSISTED,None,2:08,4,76ers,Pacers,104 - 99,1, ,2,Jumper
+98,Thaddeus Young,FG_MISS,None,1:54,4,Pacers,76ers,104 - 99,0, ,2,Jumper
+99,Domantas Sabonis,OFFENSIVE_REBOUND,None,1:54,4,Pacers,76ers,104 - 99,0,N/A,N/A,N/A
+100,Domantas Sabonis,FG_UNASSISTED,None,1:54,4,Pacers,76ers,106 - 99,0, ,2,Jumper
+101,Ben Simmons,TURNOVER,None,1:51,4,76ers,Pacers,106 - 99,1,N/A,N/A,N/A
+102,Ben Simmons,TURNOVER,None,1:51,4,76ers,Pacers,106 - 99,1,N/A,N/A,N/A
+103,Thaddeus Young,FG_ASSISTED,Victor Oladipo,1:38,4,Pacers,76ers,108 - 99,0,0,2,Layup
+104,Team,Unknown,None,1:38,4,76ers,Pacers,108 - 99,1,N/A,N/A,N/A
+105,Joel Embiid,TURNOVER,None,1:25,4,76ers,Pacers,108 - 99,1,N/A,N/A,N/A
+106,T.J. McConnell,SUBSTITUTION,Korkmaz Furkan,1:25,4,76ers,Pacers,108 - 99,1,N/A,N/A,N/A
+107,Thaddeus Young,FG_ASSISTED,Victor Oladipo,1:03,4,Pacers,76ers,110 - 99,0,0,2,Layup
+108,Team,Unknown,None,1:03,4,76ers,Pacers,110 - 99,1,N/A,N/A,N/A
+109,Furkan Korkmaz,SUBSTITUTION,McConnell T.J.,1:03,4,76ers,Pacers,110 - 99,1,N/A,N/A,N/A
+110,Ben Simmons,TURNOVER,Victor Oladipo,1:01,4,76ers,Pacers,110 - 99,1,N/A,N/A,N/A
+111,Cory Joseph,FG_ASSISTED,Victor Oladipo,45.0,4,Pacers,76ers,113 - 99,0,28,3,Jumper
+112,Ben Simmons,FG_ASSISTED,JJ Redick,39.5,4,76ers,Pacers,113 - 101,1,0,2,Dunk
+113,Joel Embiid,FOUL_ON_FLOOR,None,38.0,4,76ers,Pacers,113 - 101,1,N/A,N/A,N/A
+114,Mike Muscala,SUBSTITUTION,Redick JJ,38.0,4,76ers,Pacers,113 - 101,1,N/A,N/A,N/A
+115,Landry Shamet,SUBSTITUTION,Embiid Joel,38.0,4,76ers,Pacers,113 - 101,1,N/A,N/A,N/A
+116,T.J. McConnell,SUBSTITUTION,Simmons Ben,38.0,4,76ers,Pacers,113 - 101,1,N/A,N/A,N/A
+117,Victor Oladipo,FG_MISS,Wilson Chandler,19.3,4,76ers,Pacers,113 - 101,0,2,2,Jumper
+118,Landry Shamet,DEFENSIVE_REBOUND,None,15.7,4,76ers,Pacers,113 - 101,1,N/A,N/A,N/A
+119,Mike Muscala,FG_MISS,None,12.9,4,76ers,Pacers,113 - 101,1,29,3,Jumper
+120,Bojan Bogdanovic,DEFENSIVE_REBOUND,None,9.2,4,Pacers,76ers,113 - 101,0,N/A,N/A,N/A
+121,End of,Unknown,None,0.0,4,76ers,Pacers,113 - 101,1,N/A,N/A,N/A
+122,End of,Unknown,None,0.0,4,76ers,Pacers,113 - 101,1,N/A,N/A,N/A

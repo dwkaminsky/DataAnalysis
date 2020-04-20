@@ -1,0 +1,457 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Domantas Sabonis,JUMP_BALL,None,12:00,1,Pacers,Raptors,0 - 0,0,N/A,N/A,N/A
+1,Bojan Bogdanovic,FG_MISS,None,11:45,1,Pacers,Raptors,0 - 0,0,0,2,Layup
+2,Bojan Bogdanovic,OFFENSIVE_REBOUND,None,11:43,1,Pacers,Raptors,0 - 0,0,N/A,N/A,N/A
+3,Bojan Bogdanovic,FG_UNASSISTED,None,11:43,1,Pacers,Raptors,2 - 0,0,-,2,Jumper
+4,Danny Green,FOUL_ON_FLOOR,None,11:43,1,Raptors,Pacers,0 - 0,1,N/A,N/A,N/A
+5,Bojan Bogdanovic,FT_MISS,None,11:43,1,Pacers,Raptors,2 - 0,0,N/A,1,N/A
+6,Bojan Bogdanovic,FG_MISS,None,11:43,1,Pacers,Raptors,2 - 0,0,2,2,Jumper
+7,Bojan Bogdanovic,OFFENSIVE_REBOUND,None,11:43,1,Pacers,Raptors,2 - 0,0,N/A,N/A,N/A
+8,Serge Ibaka,DEFENSIVE_REBOUND,None,11:36,1,Raptors,Pacers,2 - 0,1,N/A,N/A,N/A
+9,Serge Ibaka,TURNOVER,None,11:30,1,Raptors,Pacers,2 - 0,1,N/A,N/A,N/A
+10,Victor Oladipo,FG_UNASSISTED,None,11:18,1,Pacers,Raptors,4 - 0,0,20,2,Jumper
+11,Serge Ibaka,FG_ASSISTED,Fred VanVleet,11:01,1,Raptors,Pacers,4 - 2,1,20,2,Jumper
+12,Thaddeus Young,FG_UNASSISTED,None,10:43,1,Pacers,Raptors,6 - 2,0,18,2,Jumper
+13,Serge Ibaka,FG_ASSISTED,Danny Green,10:24,1,Raptors,Pacers,6 - 4,1,3,2,Jumper
+14,Darren Collison,FG_MISS,None,10:12,1,Pacers,Raptors,6 - 4,0,-,2,Jumper
+15,Pascal Siakam,DEFENSIVE_REBOUND,None,10:12,1,Raptors,Pacers,6 - 4,1,N/A,N/A,N/A
+16,Danny Green,FG_MISS,None,10:06,1,Raptors,Pacers,6 - 4,1,26,3,Jumper
+17,Pascal Siakam,OFFENSIVE_REBOUND,None,10:04,1,Raptors,Pacers,6 - 4,1,N/A,N/A,N/A
+18,Kyle Lowry,FG_ASSISTED,Pascal Siakam,10:02,1,Raptors,Pacers,6 - 7,1,26,3,Jumper
+19,Darren Collison,FG_ASSISTED,Bojan Bogdanovic,9:41,1,Pacers,Raptors,9 - 7,0,26,3,Jumper
+20,Danny Green,FG_ASSISTED,Fred VanVleet,9:25,1,Raptors,Pacers,9 - 10,1, ,3,Jumper
+21,Thaddeus Young,TURNOVER,None,9:11,1,Pacers,Raptors,9 - 10,0,N/A,N/A,N/A
+22,Thaddeus Young,TURNOVER,None,9:11,1,Pacers,Raptors,9 - 10,0,N/A,N/A,N/A
+23,Kyle Lowry,FG_ASSISTED,Pascal Siakam,9:01,1,Raptors,Pacers,9 - 12,1,3,2,Jumper
+24,Victor Oladipo,FOUL_ON_FLOOR,None,9:01,1,Pacers,Raptors,9 - 12,0,N/A,N/A,N/A
+25,Kyle Lowry,FT,None,9:01,1,Raptors,Pacers,9 - 13,1,N/A,1,N/A
+26,Domantas Sabonis,FG_MISS,None,8:48,1,Pacers,Raptors,9 - 13,0,0,2,Layup
+27,Kyle Lowry,DEFENSIVE_REBOUND,None,8:46,1,Raptors,Pacers,9 - 13,1,N/A,N/A,N/A
+28,Fred VanVleet,FG_MISS,None,8:41,1,Raptors,Pacers,9 - 13,1,25,3,Jumper
+29,Pascal Siakam,OFFENSIVE_REBOUND,None,8:38,1,Raptors,Pacers,9 - 13,1,N/A,N/A,N/A
+30,Pascal Siakam,TURNOVER,None,8:36,1,Raptors,Pacers,9 - 13,1,N/A,N/A,N/A
+31,Pascal Siakam,TURNOVER,None,8:36,1,Raptors,Pacers,9 - 13,1,N/A,N/A,N/A
+32,Domantas Sabonis,TURNOVER,Kyle Lowry,8:23,1,Pacers,Raptors,9 - 13,0,N/A,N/A,N/A
+33,Kyle Lowry,TURNOVER,None,8:18,1,Raptors,Pacers,9 - 13,1,N/A,N/A,N/A
+34,Bojan Bogdanovic,FG_UNASSISTED,None,8:12,1,Pacers,Raptors,11 - 13,0,0,2,Layup
+35,Serge Ibaka,FOUL_ON_FLOOR,None,8:00,1,Raptors,Pacers,11 - 13,1,N/A,N/A,N/A
+36,Serge Ibaka,TURNOVER,None,8:00,1,Raptors,Pacers,11 - 13,1,N/A,N/A,N/A
+37,Victor Oladipo,FG_UNASSISTED,None,7:46,1,Pacers,Raptors,13 - 13,0,17,2,Jumper
+38,Fred VanVleet,FG_ASSISTED,Kyle Lowry,7:36,1,Raptors,Pacers,13 - 15,1, ,2,Jumper
+39,Fred VanVleet,FOUL_ON_FLOOR,None,7:21,1,Raptors,Pacers,13 - 15,1,N/A,N/A,N/A
+40,Domantas Sabonis,FT,None,7:21,1,Pacers,Raptors,14 - 15,0,N/A,1,N/A
+41,Domantas Sabonis,FT,None,7:21,1,Pacers,Raptors,15 - 15,0,N/A,1,N/A
+42,Pascal Siakam,FG_UNASSISTED,None,7:00,1,Raptors,Pacers,15 - 17,1,18,2,Jumper
+43,Bojan Bogdanovic,FG_ASSISTED,Domantas Sabonis,6:45,1,Pacers,Raptors,17 - 17,0,20,2,Jumper
+44,Danny Green,FG_ASSISTED,Fred VanVleet,6:27,1,Raptors,Pacers,17 - 20,1,25,3,Jumper
+45,Kyle Lowry,FOUL_ON_FLOOR,None,6:11,1,Raptors,Pacers,17 - 20,1,N/A,N/A,N/A
+46,Team,Unknown,None,6:11,1,Raptors,Pacers,17 - 20,1,N/A,N/A,N/A
+47,Thaddeus Young,FG_ASSISTED,Domantas Sabonis,5:59,1,Pacers,Raptors,19 - 20,0,0,2,Layup
+48,Danny Green,FG_MISS,None,5:38,1,Raptors,Pacers,19 - 20,1,16,2,Jumper
+49,Victor Oladipo,DEFENSIVE_REBOUND,None,5:36,1,Pacers,Raptors,19 - 20,0,N/A,N/A,N/A
+50,Thaddeus Young,FG_MISS,None,5:26,1,Pacers,Raptors,19 - 20,0,24,3,Jumper
+51,Team,OFFENSIVE_REBOUND,None,5:24,1,Pacers,Raptors,19 - 20,0,N/A,N/A,N/A
+52,Bojan Bogdanovic,FG_ASSISTED,Victor Oladipo,5:15,1,Pacers,Raptors,21 - 20,0,14,2,Jumper
+53,Kyle Lowry,TURNOVER,None,5:10,1,Raptors,Pacers,21 - 20,1,N/A,N/A,N/A
+54,Danny Green,FOUL_ON_FLOOR,None,5:02,1,Raptors,Pacers,21 - 20,1,N/A,N/A,N/A
+55,Domantas Sabonis,FT,None,5:02,1,Pacers,Raptors,22 - 20,0,N/A,1,N/A
+56,Norman Powell,SUBSTITUTION,Lowry Kyle,5:02,1,Raptors,Pacers,22 - 20,1,N/A,N/A,N/A
+57,Delon Wright,SUBSTITUTION,Green Danny,5:02,1,Raptors,Pacers,22 - 20,1,N/A,N/A,N/A
+58,Domantas Sabonis,FT,None,5:02,1,Pacers,Raptors,23 - 20,0,N/A,1,N/A
+59,Serge Ibaka,FG_ASSISTED,Delon Wright,4:40,1,Raptors,Pacers,23 - 22,1,16,2,Jumper
+60,Victor Oladipo,TURNOVER,None,4:32,1,Pacers,Raptors,23 - 22,0,N/A,N/A,N/A
+61,Pascal Siakam,FG_UNASSISTED,None,4:22,1,Raptors,Pacers,23 - 24,1,4,2,Jumper
+62,Domantas Sabonis,FG_MISS,None,4:09,1,Pacers,Raptors,23 - 24,0,15,2,Jumper
+63,Pascal Siakam,DEFENSIVE_REBOUND,None,4:07,1,Raptors,Pacers,23 - 24,1,N/A,N/A,N/A
+64,Pascal Siakam,FG_MISS,None,4:01,1,Raptors,Pacers,23 - 24,1,4,2,Jumper
+65,Delon Wright,OFFENSIVE_REBOUND,None,3:57,1,Raptors,Pacers,23 - 24,1,N/A,N/A,N/A
+66,Delon Wright,FG_MISS,None,3:57,1,Raptors,Pacers,23 - 24,1, ,2,Jumper
+67,Domantas Sabonis,DEFENSIVE_REBOUND,None,3:57,1,Pacers,Raptors,23 - 24,0,N/A,N/A,N/A
+68,Bojan Bogdanovic,FG_ASSISTED,Darren Collison,3:50,1,Pacers,Raptors,26 - 24,0,25,3,Jumper
+69,Serge Ibaka,FG_UNASSISTED,None,3:35,1,Raptors,Pacers,26 - 26,1,14,2,Jumper
+70,Team,Unknown,None,3:30,1,Pacers,Raptors,26 - 26,0,N/A,N/A,N/A
+71,OG Anunoby,SUBSTITUTION,Ibaka Serge,3:30,1,Raptors,Pacers,26 - 26,1,N/A,N/A,N/A
+72,Cory Joseph,SUBSTITUTION,Bogdanovic Bojan,3:30,1,Pacers,Raptors,26 - 26,0,N/A,N/A,N/A
+73,Darren Collison,FG_MISS,None,3:18,1,Pacers,Raptors,26 - 26,0, ,2,Jumper
+74,Pascal Siakam,DEFENSIVE_REBOUND,None,3:14,1,Raptors,Pacers,26 - 26,1,N/A,N/A,N/A
+75,Fred VanVleet,FG_UNASSISTED,None,2:51,1,Raptors,Pacers,26 - 28,1,11,2,Jumper
+76,Domantas Sabonis,TURNOVER,Delon Wright,2:48,1,Pacers,Raptors,26 - 28,0,N/A,N/A,N/A
+77,Delon Wright,FG_UNASSISTED,None,2:42,1,Raptors,Pacers,26 - 31,1,23,3,Jumper
+78,Domantas Sabonis,FG_ASSISTED,Darren Collison,2:24,1,Pacers,Raptors,28 - 31,0,0,2,Dunk
+79,Fred VanVleet,FG_UNASSISTED,None,2:10,1,Raptors,Pacers,28 - 34,1,23,2,Jumper
+80,Domantas Sabonis,FG_ASSISTED,Darren Collison,1:55,1,Pacers,Raptors,30 - 34,0,0,2,Dunk
+81,Fred VanVleet,FG_MISS,None,1:44,1,Raptors,Pacers,30 - 34,1,29,3,Jumper
+82,Domantas Sabonis,DEFENSIVE_REBOUND,None,1:40,1,Pacers,Raptors,30 - 34,0,N/A,N/A,N/A
+83,Cory Joseph,FG_UNASSISTED,None,1:34,1,Pacers,Raptors,32 - 34,0,18,2,Jumper
+84,OG Anunoby,FG_ASSISTED,Norman Powell,1:18,1,Raptors,Pacers,32 - 37,1,26,3,Jumper
+85,Norman Powell,FOUL_ON_FLOOR,None,1:08,1,Raptors,Pacers,32 - 37,1,N/A,N/A,N/A
+86,Cory Joseph,FT,None,1:08,1,Pacers,Raptors,33 - 37,0,N/A,1,N/A
+87,Greg Monroe,SUBSTITUTION,VanVleet Fred,1:08,1,Raptors,Pacers,33 - 37,1,N/A,N/A,N/A
+88,Kyle Lowry,SUBSTITUTION,Siakam Pascal,1:08,1,Raptors,Pacers,33 - 37,1,N/A,N/A,N/A
+89,Bojan Bogdanovic,SUBSTITUTION,Collison Darren,1:08,1,Pacers,Raptors,33 - 37,0,N/A,N/A,N/A
+90,Tyreke Evans,SUBSTITUTION,Oladipo Victor,1:08,1,Pacers,Raptors,33 - 37,0,N/A,N/A,N/A
+91,Doug McDermott,SUBSTITUTION,Sabonis Domantas,1:08,1,Pacers,Raptors,33 - 37,0,N/A,N/A,N/A
+92,Kyle O'Quinn,SUBSTITUTION,Young Thaddeus,1:08,1,Pacers,Raptors,33 - 37,0,N/A,N/A,N/A
+93,Cory Joseph,FT,None,1:08,1,Pacers,Raptors,34 - 37,0,N/A,1,N/A
+94,Greg Monroe,FG_MISS,None,45.2,1,Raptors,Pacers,34 - 37,1,9,2,Jumper
+95,OG Anunoby,OFFENSIVE_REBOUND,None,42.0,1,Raptors,Pacers,34 - 37,1,N/A,N/A,N/A
+96,OG Anunoby,TURNOVER,Cory Joseph,40.5,1,Raptors,Pacers,34 - 37,1,N/A,N/A,N/A
+97,Kyle Lowry,FOUL_ON_FLOOR,None,34.0,1,Raptors,Pacers,34 - 37,1,N/A,N/A,N/A
+98,Bojan Bogdanovic,FT_MISS,None,34.0,1,Pacers,Raptors,34 - 37,0,N/A,1,N/A
+99,Team,OFFENSIVE_REBOUND,None,34.0,1,Pacers,Raptors,34 - 37,0,N/A,N/A,N/A
+100,Bojan Bogdanovic,FT,None,34.0,1,Pacers,Raptors,35 - 37,0,N/A,1,N/A
+101,Greg Monroe,FG_MISS,None,22.8,1,Raptors,Pacers,35 - 37,1, ,2,Jumper
+102,Bojan Bogdanovic,DEFENSIVE_REBOUND,None,20.5,1,Pacers,Raptors,35 - 37,0,N/A,N/A,N/A
+103,Tyreke Evans,FG_MISS,None,0.0,1,Pacers,Raptors,35 - 37,0,30,3,Jumper
+104,Team,OFFENSIVE_REBOUND,None,0.0,1,Pacers,Raptors,35 - 37,0,N/A,N/A,N/A
+105,End of,Unknown,None,0.0,1,Raptors,Pacers,35 - 37,1,N/A,N/A,N/A
+0,OG Anunoby's,FG_MISS,Kyle O'Quinn,11:44,2,Pacers,Raptors,35 - 37,1,0,2,Dunk
+1,Cory Joseph,DEFENSIVE_REBOUND,None,11:39,2,Pacers,Raptors,35 - 37,0,N/A,N/A,N/A
+2,Bojan Bogdanovic,FG_UNASSISTED,None,11:29,2,Pacers,Raptors,37 - 37,0,11,2,Jumper
+3,Norman Powell,FG_ASSISTED,Delon Wright,11:15,2,Raptors,Pacers,37 - 39,1,3,2,Jumper
+4,Kyle O'Quinn,FG_ASSISTED,Doug McDermott,10:56,2,Pacers,Raptors,39 - 39,0,2,2,Jumper
+5,Norman Powell,FG_MISS,None,10:38,2,Raptors,Pacers,39 - 39,1,23,2,Jumper
+6,Bojan Bogdanovic,DEFENSIVE_REBOUND,None,10:36,2,Pacers,Raptors,39 - 39,0,N/A,N/A,N/A
+7,Kyle O'Quinn,FG_ASSISTED,Doug McDermott,10:20,2,Pacers,Raptors,41 - 39,0,20,2,Jumper
+8,Greg Monroe,FG_UNASSISTED,None,10:07,2,Raptors,Pacers,41 - 41,1,4,2,Jumper
+9,Bojan Bogdanovic,FG_MISS,None,9:42,2,Pacers,Raptors,41 - 41,0, ,2,Jumper
+10,Delon Wright,DEFENSIVE_REBOUND,None,9:39,2,Raptors,Pacers,41 - 41,1,N/A,N/A,N/A
+11,Delon Wright,FG_UNASSISTED,None,9:36,2,Raptors,Pacers,41 - 43,1,5,2,Jumper
+12,Tyreke Evans,TURNOVER,None,9:19,2,Pacers,Raptors,41 - 43,0,N/A,N/A,N/A
+13,Tyreke Evans,TURNOVER,None,9:19,2,Pacers,Raptors,41 - 43,0,N/A,N/A,N/A
+14,Kyle Lowry,FG_MISS,None,9:06,2,Raptors,Pacers,41 - 43,1,26,3,Jumper
+15,Kyle O'Quinn,DEFENSIVE_REBOUND,None,9:03,2,Pacers,Raptors,41 - 43,0,N/A,N/A,N/A
+16,Delon Wright,FOUL_ON_FLOOR,None,8:53,2,Raptors,Pacers,41 - 43,1,N/A,N/A,N/A
+17,Kyle O'Quinn,TURNOVER,Norman Powell,8:50,2,Pacers,Raptors,41 - 43,0,N/A,N/A,N/A
+18,Norman Powell,FG_UNASSISTED,None,8:46,2,Raptors,Pacers,41 - 45,1,0,2,Dunk
+19,Tyreke Evans,FG_MISS,None,8:30,2,Pacers,Raptors,41 - 45,0,0,2,Layup
+20,Greg Monroe,DEFENSIVE_REBOUND,None,8:29,2,Raptors,Pacers,41 - 45,1,N/A,N/A,N/A
+21,Delon Wright,FG_MISS,Kyle O'Quinn,8:12,2,Pacers,Raptors,41 - 45,1,0,2,Layup
+22,Delon Wright,OFFENSIVE_REBOUND,None,8:09,2,Raptors,Pacers,41 - 45,1,N/A,N/A,N/A
+23,Norman Powell,FG_ASSISTED,Delon Wright,8:07,2,Raptors,Pacers,41 - 48,1,23,3,Jumper
+24,Team,Unknown,None,8:00,2,Pacers,Raptors,41 - 48,0,N/A,N/A,N/A
+25,Victor Oladipo,SUBSTITUTION,Bogdanovic Bojan,8:00,2,Pacers,Raptors,41 - 48,0,N/A,N/A,N/A
+26,Kyle O'Quinn,FG_MISS,None,7:52,2,Pacers,Raptors,41 - 48,0,15,2,Jumper
+27,Kyle Lowry,DEFENSIVE_REBOUND,None,7:49,2,Raptors,Pacers,41 - 48,1,N/A,N/A,N/A
+28,Kyle Lowry,FG_UNASSISTED,None,7:46,2,Raptors,Pacers,41 - 50,1,8,2,Jumper
+29,Cory Joseph,FOUL_ON_FLOOR,None,7:46,2,Pacers,Raptors,41 - 50,0,N/A,N/A,N/A
+30,Kyle Lowry,FT,None,7:46,2,Raptors,Pacers,41 - 51,1,N/A,1,N/A
+31,Kyle O'Quinn,FG_ASSISTED,Victor Oladipo,7:34,2,Pacers,Raptors,43 - 51,0,16,2,Jumper
+32,OG Anunoby,FG_MISS,None,7:12,2,Raptors,Pacers,43 - 51,1,23,3,Jumper
+33,Cory Joseph,DEFENSIVE_REBOUND,None,7:09,2,Pacers,Raptors,43 - 51,0,N/A,N/A,N/A
+34,Greg Monroe,FOUL_ON_FLOOR,None,7:05,2,Raptors,Pacers,43 - 51,1,N/A,N/A,N/A
+35,Victor Oladipo,FT,None,7:05,2,Pacers,Raptors,44 - 51,0,N/A,1,N/A
+36,Victor Oladipo,FT,None,7:05,2,Pacers,Raptors,45 - 51,0,N/A,1,N/A
+37,Greg Monroe,FG_ASSISTED,Kyle Lowry,6:45,2,Raptors,Pacers,45 - 53,1,0,2,Layup
+38,Kyle O'Quinn,FOUL_ON_FLOOR,None,6:45,2,Pacers,Raptors,45 - 53,0,N/A,N/A,N/A
+39,Fred VanVleet,SUBSTITUTION,Lowry Kyle,6:45,2,Raptors,Pacers,45 - 53,1,N/A,N/A,N/A
+40,Greg Monroe,FT,None,6:45,2,Raptors,Pacers,45 - 54,1,N/A,1,N/A
+41,Kyle O'Quinn,FG_MISS,None,6:28,2,Pacers,Raptors,45 - 54,0,25,3,Jumper
+42,Greg Monroe,DEFENSIVE_REBOUND,None,6:25,2,Raptors,Pacers,45 - 54,1,N/A,N/A,N/A
+43,Cory Joseph,FOUL_ON_FLOOR,None,6:19,2,Pacers,Raptors,45 - 54,0,N/A,N/A,N/A
+44,Greg Monroe,FT,None,6:19,2,Raptors,Pacers,45 - 55,1,N/A,1,N/A
+45,Domantas Sabonis,SUBSTITUTION,O'Quinn Kyle,6:19,2,Pacers,Raptors,45 - 55,0,N/A,N/A,N/A
+46,Thaddeus Young,SUBSTITUTION,McDermott Doug,6:19,2,Pacers,Raptors,45 - 55,0,N/A,N/A,N/A
+47,Greg Monroe,FT,None,6:19,2,Raptors,Pacers,45 - 56,1,N/A,1,N/A
+48,Delon Wright,FOUL_ON_FLOOR,None,6:04,2,Raptors,Pacers,45 - 56,1,N/A,N/A,N/A
+49,Tyreke Evans,FT,None,6:04,2,Pacers,Raptors,46 - 56,0,N/A,1,N/A
+50,Tyreke Evans,FT_MISS,None,6:04,2,Pacers,Raptors,46 - 56,0,N/A,1,N/A
+51,Norman Powell,DEFENSIVE_REBOUND,None,6:02,2,Raptors,Pacers,46 - 56,1,N/A,N/A,N/A
+52,OG Anunoby,FG_MISS,None,5:45,2,Raptors,Pacers,46 - 56,1,26,3,Jumper
+53,Team,OFFENSIVE_REBOUND,None,5:44,2,Raptors,Pacers,46 - 56,1,N/A,N/A,N/A
+54,Domantas Sabonis,FOUL_ON_FLOOR,None,5:44,2,Pacers,Raptors,46 - 56,0,N/A,N/A,N/A
+55,Pascal Siakam,SUBSTITUTION,Anunoby OG,5:44,2,Raptors,Pacers,46 - 56,1,N/A,N/A,N/A
+56,Serge Ibaka,SUBSTITUTION,Monroe Greg,5:44,2,Raptors,Pacers,46 - 56,1,N/A,N/A,N/A
+57,Delon Wright,FG_MISS,None,5:36,2,Raptors,Pacers,46 - 56,1,0,2,Layup
+58,Team,DEFENSIVE_REBOUND,None,5:35,2,Pacers,Raptors,46 - 56,0,N/A,N/A,N/A
+59,Serge Ibaka,FOUL_ON_FLOOR,None,5:35,2,Raptors,Pacers,46 - 56,1,N/A,N/A,N/A
+60,Victor Oladipo,FG_ASSISTED,Domantas Sabonis,5:23,2,Pacers,Raptors,48 - 56,0,19,2,Jumper
+61,Pascal Siakam,FG_MISS,None,4:58,2,Raptors,Pacers,48 - 56,1, ,2,Jumper
+62,Domantas Sabonis,DEFENSIVE_REBOUND,None,4:56,2,Pacers,Raptors,48 - 56,0,N/A,N/A,N/A
+63,Tyreke Evans,FG_MISS,None,4:52,2,Pacers,Raptors,48 - 56,0, ,2,Jumper
+64,Victor Oladipo,OFFENSIVE_REBOUND,None,4:52,2,Pacers,Raptors,48 - 56,0,N/A,N/A,N/A
+65,Victor Oladipo,FG_UNASSISTED,None,4:48,2,Pacers,Raptors,50 - 56,0, ,2,Jumper
+66,Team,Unknown,None,4:43,2,Raptors,Pacers,50 - 56,1,N/A,N/A,N/A
+67,Danny Green,SUBSTITUTION,Wright Delon,4:43,2,Raptors,Pacers,50 - 56,1,N/A,N/A,N/A
+68,Bojan Bogdanovic,SUBSTITUTION,Joseph Cory,4:43,2,Pacers,Raptors,50 - 56,0,N/A,N/A,N/A
+69,Darren Collison,SUBSTITUTION,Evans Tyreke,4:43,2,Pacers,Raptors,50 - 56,0,N/A,N/A,N/A
+70,Domantas Sabonis,FOUL_ON_FLOOR,None,4:31,2,Pacers,Raptors,50 - 56,0,N/A,N/A,N/A
+71,Pascal Siakam,FT,None,4:31,2,Raptors,Pacers,50 - 57,1,N/A,1,N/A
+72,Pascal Siakam,FT,None,4:31,2,Raptors,Pacers,50 - 58,1,N/A,1,N/A
+73,Darren Collison,FG_MISS,None,4:16,2,Pacers,Raptors,50 - 58,0,20,2,Jumper
+74,Norman Powell,DEFENSIVE_REBOUND,None,4:13,2,Raptors,Pacers,50 - 58,1,N/A,N/A,N/A
+75,Danny Green,FG_ASSISTED,Fred VanVleet,4:01,2,Raptors,Pacers,50 - 61,1, ,3,Jumper
+76,Darren Collison,FG_ASSISTED,Domantas Sabonis,3:38,2,Pacers,Raptors,52 - 61,0,3,2,Jumper
+77,Serge Ibaka,TURNOVER,Thaddeus Young,3:35,2,Raptors,Pacers,52 - 61,1,N/A,N/A,N/A
+78,Darren Collison,FG_ASSISTED,Thaddeus Young,3:34,2,Pacers,Raptors,54 - 61,0,0,2,Layup
+79,Serge Ibaka,Unknown,None,3:34,2,Raptors,Pacers,54 - 61,1,N/A,N/A,N/A
+80,Norman Powell,FG_ASSISTED,Pascal Siakam,3:23,2,Raptors,Pacers,54 - 64,1,27,3,Jumper
+81,Bojan Bogdanovic,FG_UNASSISTED,None,3:10,2,Pacers,Raptors,56 - 64,0,0,2,Layup
+82,Thaddeus Young,FOUL_ON_FLOOR,None,2:59,2,Pacers,Raptors,56 - 64,0,N/A,N/A,N/A
+83,Fred VanVleet,FT,None,2:59,2,Raptors,Pacers,56 - 65,1,N/A,1,N/A
+84,Kyle Lowry,SUBSTITUTION,Powell Norman,2:59,2,Raptors,Pacers,56 - 65,1,N/A,N/A,N/A
+85,Fred VanVleet,FT,None,2:59,2,Raptors,Pacers,56 - 66,1,N/A,1,N/A
+86,Victor Oladipo,FG_UNASSISTED,None,2:47,2,Pacers,Raptors,58 - 66,0,0,2,Layup
+87,Serge Ibaka,FOUL_ON_FLOOR,None,2:47,2,Raptors,Pacers,58 - 66,1,N/A,N/A,N/A
+88,Greg Monroe,SUBSTITUTION,Ibaka Serge,2:47,2,Raptors,Pacers,58 - 66,1,N/A,N/A,N/A
+89,Victor Oladipo,FT,None,2:47,2,Pacers,Raptors,59 - 66,0,N/A,1,N/A
+90,Kyle Lowry,FG_MISS,None,2:22,2,Raptors,Pacers,59 - 66,1,18,2,Jumper
+91,Domantas Sabonis,DEFENSIVE_REBOUND,None,2:20,2,Pacers,Raptors,59 - 66,0,N/A,N/A,N/A
+92,Domantas Sabonis,FG_MISS,None,2:08,2,Pacers,Raptors,59 - 66,0,3,2,Jumper
+93,Domantas Sabonis,OFFENSIVE_REBOUND,None,2:03,2,Pacers,Raptors,59 - 66,0,N/A,N/A,N/A
+94,Domantas Sabonis,FG_MISS,None,2:02,2,Pacers,Raptors,59 - 66,0, ,2,Jumper
+95,Kyle Lowry,DEFENSIVE_REBOUND,None,2:01,2,Raptors,Pacers,59 - 66,1,N/A,N/A,N/A
+96,Danny Green,FG_MISS,None,1:53,2,Raptors,Pacers,59 - 66,1,26,2,Jumper
+97,Thaddeus Young,DEFENSIVE_REBOUND,None,1:51,2,Pacers,Raptors,59 - 66,0,N/A,N/A,N/A
+98,Victor Oladipo,FG_MISS,None,1:45,2,Pacers,Raptors,59 - 66,0,25,3,Jumper
+99,Greg Monroe,DEFENSIVE_REBOUND,None,1:42,2,Raptors,Pacers,59 - 66,1,N/A,N/A,N/A
+100,Danny Green,FG_ASSISTED,Kyle Lowry,1:39,2,Raptors,Pacers,59 - 69,1,25,3,Jumper
+101,Victor Oladipo,FG_MISS,None,1:12,2,Pacers,Raptors,59 - 69,0,24,3,Jumper
+102,Pascal Siakam,DEFENSIVE_REBOUND,None,1:09,2,Raptors,Pacers,59 - 69,1,N/A,N/A,N/A
+103,Victor Oladipo,FOUL_ON_FLOOR,None,1:04,2,Pacers,Raptors,59 - 69,0,N/A,N/A,N/A
+104,Fred VanVleet,FT,None,1:04,2,Raptors,Pacers,59 - 70,1,N/A,1,N/A
+105,Norman Powell,SUBSTITUTION,Green Danny,1:04,2,Raptors,Pacers,59 - 70,1,N/A,N/A,N/A
+106,Tyreke Evans,SUBSTITUTION,Oladipo Victor,1:04,2,Pacers,Raptors,59 - 70,0,N/A,N/A,N/A
+107,Kyle O'Quinn,SUBSTITUTION,Sabonis Domantas,1:04,2,Pacers,Raptors,59 - 70,0,N/A,N/A,N/A
+108,Doug McDermott,SUBSTITUTION,Young Thaddeus,1:04,2,Pacers,Raptors,59 - 70,0,N/A,N/A,N/A
+109,Fred VanVleet,FT_MISS,None,1:04,2,Raptors,Pacers,59 - 70,1,N/A,1,N/A
+110,Kyle O'Quinn,DEFENSIVE_REBOUND,None,1:02,2,Pacers,Raptors,59 - 70,0,N/A,N/A,N/A
+111,Greg Monroe,FOUL_ON_FLOOR,None,47.5,2,Raptors,Pacers,59 - 70,1,N/A,N/A,N/A
+112,Kyle O'Quinn,FT,None,47.5,2,Pacers,Raptors,60 - 70,0,N/A,1,N/A
+113,Kyle O'Quinn,FT,None,47.5,2,Pacers,Raptors,61 - 70,0,N/A,1,N/A
+114,Kyle Lowry,FG_MISS,None,32.5,2,Raptors,Pacers,61 - 70,1,26,3,Jumper
+115,Kyle O'Quinn,DEFENSIVE_REBOUND,None,29.9,2,Pacers,Raptors,61 - 70,0,N/A,N/A,N/A
+116,Bojan Bogdanovic,FG_MISS,None,8.1,2,Pacers,Raptors,61 - 70,0,24,2,Jumper
+117,Kyle O'Quinn,OFFENSIVE_REBOUND,None,5.3,2,Pacers,Raptors,61 - 70,0,N/A,N/A,N/A
+118,Darren Collison,FG_ASSISTED,Bojan Bogdanovic,0.1,2,Pacers,Raptors,63 - 70,0,0,2,Layup
+119,End of,Unknown,None,0.0,2,Raptors,Pacers,63 - 70,1,N/A,N/A,N/A
+0,Serge Ibaka,SUBSTITUTION,Monroe Greg,12:00,3,Raptors,Pacers,63 - 70,1,N/A,N/A,N/A
+1,Danny Green,SUBSTITUTION,Powell Norman,12:00,3,Raptors,Pacers,63 - 70,1,N/A,N/A,N/A
+2,Thaddeus Young,SUBSTITUTION,Evans Tyreke,12:00,3,Pacers,Raptors,63 - 70,0,N/A,N/A,N/A
+3,Domantas Sabonis,SUBSTITUTION,O'Quinn Kyle,12:00,3,Pacers,Raptors,63 - 70,0,N/A,N/A,N/A
+4,Victor Oladipo,SUBSTITUTION,McDermott Doug,12:00,3,Pacers,Raptors,63 - 70,0,N/A,N/A,N/A
+5,Kyle Lowry,TURNOVER,Thaddeus Young,11:43,3,Raptors,Pacers,63 - 70,1,N/A,N/A,N/A
+6,Bojan Bogdanovic,FG_ASSISTED,Darren Collison,11:37,3,Pacers,Raptors,66 - 70,0,24,3,Jumper
+7,Fred VanVleet,FG_MISS,None,11:13,3,Raptors,Pacers,66 - 70,1,25,3,Jumper
+8,Bojan Bogdanovic,DEFENSIVE_REBOUND,None,11:10,3,Pacers,Raptors,66 - 70,0,N/A,N/A,N/A
+9,Domantas Sabonis,FG_ASSISTED,Darren Collison,11:03,3,Pacers,Raptors,68 - 70,0,0,2,Layup
+10,Team,Unknown,None,10:50,3,Raptors,Pacers,68 - 70,1,N/A,N/A,N/A
+11,Bojan Bogdanovic,FOUL_ON_FLOOR,None,10:44,3,Pacers,Raptors,68 - 70,0,N/A,N/A,N/A
+12,Serge Ibaka,FT,None,10:44,3,Raptors,Pacers,68 - 71,1,N/A,1,N/A
+13,Serge Ibaka,FT,None,10:44,3,Raptors,Pacers,68 - 72,1,N/A,1,N/A
+14,Domantas Sabonis,FG_MISS,None,10:33,3,Pacers,Raptors,68 - 72,0,21,2,Jumper
+15,Fred VanVleet,DEFENSIVE_REBOUND,None,10:31,3,Raptors,Pacers,68 - 72,1,N/A,N/A,N/A
+16,Serge Ibaka,FG_MISS,None,10:13,3,Raptors,Pacers,68 - 72,1, ,2,Jumper
+17,Serge Ibaka,OFFENSIVE_REBOUND,None,10:11,3,Raptors,Pacers,68 - 72,1,N/A,N/A,N/A
+18,Serge Ibaka,TURNOVER,Bojan Bogdanovic,10:08,3,Raptors,Pacers,68 - 72,1,N/A,N/A,N/A
+19,Thaddeus Young,FG_ASSISTED,Victor Oladipo,10:02,3,Pacers,Raptors,70 - 72,0, ,2,Jumper
+20,Serge Ibaka,TURNOVER,None,9:53,3,Raptors,Pacers,70 - 72,1,N/A,N/A,N/A
+21,Domantas Sabonis,FG_ASSISTED,Bojan Bogdanovic,9:42,3,Pacers,Raptors,72 - 72,0,0,2,Dunk
+22,Danny Green,FG_ASSISTED,Pascal Siakam,9:25,3,Raptors,Pacers,72 - 75,1,23,3,Jumper
+23,Victor Oladipo,FG_MISS,None,9:11,3,Pacers,Raptors,72 - 75,0,19,2,Jumper
+24,Serge Ibaka,DEFENSIVE_REBOUND,None,9:08,3,Raptors,Pacers,72 - 75,1,N/A,N/A,N/A
+25,Pascal Siakam,FG_MISS,None,8:55,3,Raptors,Pacers,72 - 75,1, ,2,Jumper
+26,Bojan Bogdanovic,DEFENSIVE_REBOUND,None,8:53,3,Pacers,Raptors,72 - 75,0,N/A,N/A,N/A
+27,Darren Collison,FG_UNASSISTED,None,8:41,3,Pacers,Raptors,74 - 75,0,18,2,Jumper
+28,Pascal Siakam,FG_ASSISTED,Kyle Lowry,8:33,3,Raptors,Pacers,74 - 77,1,0,2,Layup
+29,Thaddeus Young,TURNOVER,Kyle Lowry,8:12,3,Pacers,Raptors,74 - 77,0,N/A,N/A,N/A
+30,Pascal Siakam,FG_ASSISTED,Kyle Lowry,8:08,3,Raptors,Pacers,74 - 79,1,0,2,Dunk
+31,Victor Oladipo,FG_MISS,None,7:53,3,Pacers,Raptors,74 - 79,0, ,2,Jumper
+32,Team,DEFENSIVE_REBOUND,None,7:50,3,Raptors,Pacers,74 - 79,1,N/A,N/A,N/A
+33,Pascal Siakam,FG_MISS,None,7:36,3,Raptors,Pacers,74 - 79,1,25,3,Jumper
+34,Thaddeus Young,DEFENSIVE_REBOUND,None,7:34,3,Pacers,Raptors,74 - 79,0,N/A,N/A,N/A
+35,Thaddeus Young,TURNOVER,Kyle Lowry,7:33,3,Pacers,Raptors,74 - 79,0,N/A,N/A,N/A
+36,Serge Ibaka,FG_ASSISTED,Kyle Lowry,7:30,3,Raptors,Pacers,74 - 82,1,25,3,Jumper
+37,Team,Unknown,None,7:30,3,Pacers,Raptors,74 - 82,0,N/A,N/A,N/A
+38,Domantas Sabonis,FG_MISS,None,7:07,3,Pacers,Raptors,74 - 82,0,7,2,Jumper
+39,Thaddeus Young,OFFENSIVE_REBOUND,None,7:02,3,Pacers,Raptors,74 - 82,0,N/A,N/A,N/A
+40,Thaddeus Young,FG_UNASSISTED,None,7:02,3,Pacers,Raptors,76 - 82,0, ,2,Jumper
+41,Kyle Lowry,FG_UNASSISTED,None,6:49,3,Raptors,Pacers,76 - 85,1,25,3,Jumper
+42,Thaddeus Young,FG_MISS,None,6:25,3,Pacers,Raptors,76 - 85,0,23,3,Jumper
+43,Thaddeus Young,OFFENSIVE_REBOUND,None,6:25,3,Pacers,Raptors,76 - 85,0,N/A,N/A,N/A
+44,Thaddeus Young,FG_MISS,None,6:24,3,Pacers,Raptors,76 - 85,0,1,2,Jumper
+45,Fred VanVleet,DEFENSIVE_REBOUND,None,6:23,3,Raptors,Pacers,76 - 85,1,N/A,N/A,N/A
+46,Bojan Bogdanovic,FOUL_ON_FLOOR,None,6:19,3,Pacers,Raptors,76 - 85,0,N/A,N/A,N/A
+47,Serge Ibaka,FG_ASSISTED,Kyle Lowry,6:13,3,Raptors,Pacers,76 - 88,1,23,3,Jumper
+48,Bojan Bogdanovic,FG_MISS,None,5:57,3,Pacers,Raptors,76 - 88,0,26,3,Jumper
+49,Pascal Siakam,DEFENSIVE_REBOUND,None,5:55,3,Raptors,Pacers,76 - 88,1,N/A,N/A,N/A
+50,Pascal Siakam,TURNOVER,Bojan Bogdanovic,5:50,3,Raptors,Pacers,76 - 88,1,N/A,N/A,N/A
+51,Victor Oladipo,FG_MISS,None,5:46,3,Pacers,Raptors,76 - 88,0,26,3,Jumper
+52,Pascal Siakam,DEFENSIVE_REBOUND,None,5:42,3,Raptors,Pacers,76 - 88,1,N/A,N/A,N/A
+53,Kyle Lowry,FG_MISS,None,5:31,3,Raptors,Pacers,76 - 88,1,25,3,Jumper
+54,Domantas Sabonis,DEFENSIVE_REBOUND,None,5:28,3,Pacers,Raptors,76 - 88,0,N/A,N/A,N/A
+55,Bojan Bogdanovic,FG_MISS,None,5:22,3,Pacers,Raptors,76 - 88,0,0,2,Layup
+56,Serge Ibaka,DEFENSIVE_REBOUND,None,5:20,3,Raptors,Pacers,76 - 88,1,N/A,N/A,N/A
+57,Kyle Lowry,TURNOVER,Darren Collison,5:12,3,Raptors,Pacers,76 - 88,1,N/A,N/A,N/A
+58,Thaddeus Young,FG_ASSISTED,Domantas Sabonis,5:05,3,Pacers,Raptors,78 - 88,0,4,2,Jumper
+59,Thaddeus Young,FOUL_ON_FLOOR,None,4:50,3,Pacers,Raptors,78 - 88,0,N/A,N/A,N/A
+60,Norman Powell,SUBSTITUTION,Lowry Kyle,4:50,3,Raptors,Pacers,78 - 88,1,N/A,N/A,N/A
+61,OG Anunoby,SUBSTITUTION,Siakam Pascal,4:50,3,Raptors,Pacers,78 - 88,1,N/A,N/A,N/A
+62,Cory Joseph,SUBSTITUTION,Bogdanovic Bojan,4:50,3,Pacers,Raptors,78 - 88,0,N/A,N/A,N/A
+63,Fred VanVleet,TURNOVER,Cory Joseph,4:42,3,Raptors,Pacers,78 - 88,1,N/A,N/A,N/A
+64,Domantas Sabonis,FG_MISS,Serge Ibaka,4:33,3,Raptors,Pacers,78 - 88,0,0,2,Layup
+65,Team,OFFENSIVE_REBOUND,None,4:33,3,Pacers,Raptors,78 - 88,0,N/A,N/A,N/A
+66,Darren Collison,TURNOVER,Danny Green,4:28,3,Pacers,Raptors,78 - 88,0,N/A,N/A,N/A
+67,Danny Green,TURNOVER,Thaddeus Young,4:23,3,Raptors,Pacers,78 - 88,1,N/A,N/A,N/A
+68,Danny Green,FOUL_ON_FLOOR,None,4:20,3,Raptors,Pacers,78 - 88,1,N/A,N/A,N/A
+69,Victor Oladipo,FT,None,4:20,3,Pacers,Raptors,79 - 88,0,N/A,1,N/A
+70,Victor Oladipo,FT_MISS,None,4:20,3,Pacers,Raptors,79 - 88,0,N/A,1,N/A
+71,OG Anunoby,DEFENSIVE_REBOUND,None,4:18,3,Raptors,Pacers,79 - 88,1,N/A,N/A,N/A
+72,Fred VanVleet,FG_MISS,None,4:02,3,Raptors,Pacers,79 - 88,1,16,2,Jumper
+73,Domantas Sabonis,DEFENSIVE_REBOUND,None,3:59,3,Pacers,Raptors,79 - 88,0,N/A,N/A,N/A
+74,Victor Oladipo,FG_MISS,None,3:53,3,Pacers,Raptors,79 - 88,0,0,2,Layup
+75,Serge Ibaka,DEFENSIVE_REBOUND,None,3:51,3,Raptors,Pacers,79 - 88,1,N/A,N/A,N/A
+76,Danny Green,FG_MISS,None,3:46,3,Raptors,Pacers,79 - 88,1,24,3,Jumper
+77,Domantas Sabonis,DEFENSIVE_REBOUND,None,3:43,3,Pacers,Raptors,79 - 88,0,N/A,N/A,N/A
+78,Domantas Sabonis,FG_MISS,None,3:36,3,Pacers,Raptors,79 - 88,0,9,2,Jumper
+79,Serge Ibaka,DEFENSIVE_REBOUND,None,3:33,3,Raptors,Pacers,79 - 88,1,N/A,N/A,N/A
+80,Serge Ibaka,FG_ASSISTED,Fred VanVleet,3:21,3,Raptors,Pacers,79 - 90,1,17,2,Jumper
+81,Team,Unknown,None,3:14,3,Pacers,Raptors,79 - 90,0,N/A,N/A,N/A
+82,Delon Wright,SUBSTITUTION,Ibaka Serge,3:14,3,Raptors,Pacers,79 - 90,1,N/A,N/A,N/A
+83,Greg Monroe,SUBSTITUTION,Green Danny,3:14,3,Raptors,Pacers,79 - 90,1,N/A,N/A,N/A
+84,Doug McDermott,SUBSTITUTION,Collison Darren,3:14,3,Pacers,Raptors,79 - 90,0,N/A,N/A,N/A
+85,Kyle O'Quinn,SUBSTITUTION,Sabonis Domantas,3:14,3,Pacers,Raptors,79 - 90,0,N/A,N/A,N/A
+86,Norman Powell,FOUL_ON_FLOOR,None,2:58,3,Raptors,Pacers,79 - 90,1,N/A,N/A,N/A
+87,Kyle O'Quinn,FT_MISS,None,2:58,3,Pacers,Raptors,79 - 90,0,N/A,1,N/A
+88,Team,OFFENSIVE_REBOUND,None,2:58,3,Pacers,Raptors,79 - 90,0,N/A,N/A,N/A
+89,Kyle O'Quinn,FT,None,2:58,3,Pacers,Raptors,80 - 90,0,N/A,1,N/A
+90,Greg Monroe,FG_ASSISTED,OG Anunoby,2:37,3,Raptors,Pacers,80 - 92,1,0,2,Layup
+91,Kyle O'Quinn,FG_MISS,None,2:22,3,Pacers,Raptors,80 - 92,0,0,2,Layup
+92,Kyle O'Quinn,OFFENSIVE_REBOUND,None,2:20,3,Pacers,Raptors,80 - 92,0,N/A,N/A,N/A
+93,Fred VanVleet,FOUL_ON_FLOOR,None,2:20,3,Raptors,Pacers,80 - 92,1,N/A,N/A,N/A
+94,Kyle Lowry,SUBSTITUTION,VanVleet Fred,2:20,3,Raptors,Pacers,80 - 92,1,N/A,N/A,N/A
+95,Bojan Bogdanovic,SUBSTITUTION,Oladipo Victor,2:20,3,Pacers,Raptors,80 - 92,0,N/A,N/A,N/A
+96,Tyreke Evans,SUBSTITUTION,Young Thaddeus,2:20,3,Pacers,Raptors,80 - 92,0,N/A,N/A,N/A
+97,Cory Joseph,FG_MISS,None,2:07,3,Pacers,Raptors,80 - 92,0,27,3,Jumper
+98,Greg Monroe,DEFENSIVE_REBOUND,None,2:01,3,Raptors,Pacers,80 - 92,1,N/A,N/A,N/A
+99,Norman Powell,FG_UNASSISTED,None,1:57,3,Raptors,Pacers,80 - 94,1,0,2,Layup
+100,Tyreke Evans,FG_ASSISTED,Kyle O'Quinn,1:45,3,Pacers,Raptors,82 - 94,0,0,2,Layup
+101,Greg Monroe,FG_MISS,None,1:20,3,Raptors,Pacers,82 - 94,1,6,2,Jumper
+102,Bojan Bogdanovic,DEFENSIVE_REBOUND,None,1:18,3,Pacers,Raptors,82 - 94,0,N/A,N/A,N/A
+103,Cory Joseph,FG_UNASSISTED,None,1:05,3,Pacers,Raptors,84 - 94,0,3,2,Jumper
+104,Greg Monroe's,FG_MISS,Kyle O'Quinn,50.5,3,Pacers,Raptors,84 - 94,1,0,2,Layup
+105,Bojan Bogdanovic,DEFENSIVE_REBOUND,None,47.6,3,Pacers,Raptors,84 - 94,0,N/A,N/A,N/A
+106,Cory Joseph's,FG_MISS,Kyle Lowry,44.9,3,Raptors,Pacers,84 - 94,0, ,2,Jumper
+107,Team,OFFENSIVE_REBOUND,None,44.9,3,Pacers,Raptors,84 - 94,0,N/A,N/A,N/A
+108,Cory Joseph,FG_MISS,None,32.8,3,Pacers,Raptors,84 - 94,0,17,2,Jumper
+109,Greg Monroe,DEFENSIVE_REBOUND,None,30.4,3,Raptors,Pacers,84 - 94,1,N/A,N/A,N/A
+110,Greg Monroe,FG_ASSISTED,Kyle Lowry,22.2,3,Raptors,Pacers,84 - 96,1,0,2,Layup
+111,Kyle Lowry,FOUL_ON_FLOOR,None,10.4,3,Raptors,Pacers,84 - 96,1,N/A,N/A,N/A
+112,Tyreke Evans,FG_MISS,None,4.9,3,Pacers,Raptors,84 - 96,0,26,3,Jumper
+113,Team,OFFENSIVE_REBOUND,None,3.0,3,Pacers,Raptors,84 - 96,0,N/A,N/A,N/A
+114,Doug McDermott,TURNOVER,Greg Monroe,0.4,3,Pacers,Raptors,84 - 96,0,N/A,N/A,N/A
+115,End of,Unknown,None,0.0,3,Raptors,Pacers,84 - 96,1,N/A,N/A,N/A
+0,Doug McDermott,FG_ASSISTED,Kyle O'Quinn,11:47,4,Pacers,Raptors,86 - 96,0,0,2,Layup
+1,Norman Powell,FG_MISS,None,11:31,4,Raptors,Pacers,86 - 96,1,8,2,Jumper
+2,Kyle O'Quinn,DEFENSIVE_REBOUND,None,11:27,4,Pacers,Raptors,86 - 96,0,N/A,N/A,N/A
+3,Tyreke Evans,FG_UNASSISTED,None,11:21,4,Pacers,Raptors,88 - 96,0,2,2,Jumper
+4,Norman Powell,FG_ASSISTED,Delon Wright,10:57,4,Raptors,Pacers,88 - 99,1,25,3,Jumper
+5,Bojan Bogdanovic,FG_UNASSISTED,None,10:42,4,Pacers,Raptors,90 - 99,0,0,2,Layup
+6,OG Anunoby,FG_MISS,None,10:24,4,Raptors,Pacers,90 - 99,1, ,3,Jumper
+7,Tyreke Evans,DEFENSIVE_REBOUND,None,10:21,4,Pacers,Raptors,90 - 99,0,N/A,N/A,N/A
+8,Tyreke Evans,TURNOVER,None,10:19,4,Pacers,Raptors,90 - 99,0,N/A,N/A,N/A
+9,Doug McDermott,FOUL_ON_FLOOR,None,10:11,4,Pacers,Raptors,90 - 99,0,N/A,N/A,N/A
+10,Kyle Lowry,FG_MISS,None,10:08,4,Raptors,Pacers,90 - 99,1,25,3,Jumper
+11,Kyle O'Quinn,DEFENSIVE_REBOUND,None,10:05,4,Pacers,Raptors,90 - 99,0,N/A,N/A,N/A
+12,Tyreke Evans,FG_MISS,None,9:54,4,Pacers,Raptors,90 - 99,0,26,3,Jumper
+13,Delon Wright,DEFENSIVE_REBOUND,None,9:51,4,Raptors,Pacers,90 - 99,1,N/A,N/A,N/A
+14,Kyle Lowry,FG_MISS,None,9:45,4,Raptors,Pacers,90 - 99,1,12,2,Jumper
+15,Cory Joseph,DEFENSIVE_REBOUND,None,9:43,4,Pacers,Raptors,90 - 99,0,N/A,N/A,N/A
+16,Tyreke Evans,FG_MISS,None,9:29,4,Pacers,Raptors,90 - 99,0, ,2,Jumper
+17,Team,DEFENSIVE_REBOUND,None,9:29,4,Raptors,Pacers,90 - 99,1,N/A,N/A,N/A
+18,Kyle O'Quinn,FOUL_ON_FLOOR,None,9:29,4,Pacers,Raptors,90 - 99,0,N/A,N/A,N/A
+19,Norman Powell,FG_ASSISTED,Delon Wright,9:13,4,Raptors,Pacers,90 - 101,1,5,2,Jumper
+20,Cory Joseph,TURNOVER,OG Anunoby,9:01,4,Pacers,Raptors,90 - 101,0,N/A,N/A,N/A
+21,Doug McDermott,FOUL_ON_FLOOR,None,8:59,4,Pacers,Raptors,90 - 101,0,N/A,N/A,N/A
+22,Delon Wright,FG_MISS,Kyle O'Quinn,8:40,4,Pacers,Raptors,90 - 101,1,13,2,Jumper
+23,Greg Monroe,OFFENSIVE_REBOUND,None,8:38,4,Raptors,Pacers,90 - 101,1,N/A,N/A,N/A
+24,Greg Monroe,FG_MISS,None,8:36,4,Raptors,Pacers,90 - 101,1,1,2,Jumper
+25,OG Anunoby,OFFENSIVE_REBOUND,None,8:34,4,Raptors,Pacers,90 - 101,1,N/A,N/A,N/A
+26,OG Anunoby,FG_UNASSISTED,None,8:34,4,Raptors,Pacers,90 - 103,1,1,2,Jumper
+27,Team,Unknown,None,8:34,4,Pacers,Raptors,90 - 103,0,N/A,N/A,N/A
+28,Fred VanVleet,SUBSTITUTION,Lowry Kyle,8:34,4,Raptors,Pacers,90 - 103,1,N/A,N/A,N/A
+29,Victor Oladipo,SUBSTITUTION,Bogdanovic Bojan,8:34,4,Pacers,Raptors,90 - 103,0,N/A,N/A,N/A
+30,Thaddeus Young,SUBSTITUTION,Evans Tyreke,8:34,4,Pacers,Raptors,90 - 103,0,N/A,N/A,N/A
+31,Victor Oladipo,TURNOVER,Delon Wright,8:23,4,Pacers,Raptors,90 - 103,0,N/A,N/A,N/A
+32,Norman Powell,FG_ASSISTED,Delon Wright,8:18,4,Raptors,Pacers,90 - 105,1,6,2,Jumper
+33,Kyle O'Quinn,FG_MISS,None,7:58,4,Pacers,Raptors,90 - 105,0,1,2,Jumper
+34,Greg Monroe,DEFENSIVE_REBOUND,None,7:55,4,Raptors,Pacers,90 - 105,1,N/A,N/A,N/A
+35,Fred VanVleet,FG_MISS,None,7:51,4,Raptors,Pacers,90 - 105,1,1,2,Jumper
+36,Thaddeus Young,DEFENSIVE_REBOUND,None,7:48,4,Pacers,Raptors,90 - 105,0,N/A,N/A,N/A
+37,Cory Joseph,FG_MISS,None,7:41,4,Pacers,Raptors,90 - 105,0,15,2,Jumper
+38,Thaddeus Young,OFFENSIVE_REBOUND,None,7:37,4,Pacers,Raptors,90 - 105,0,N/A,N/A,N/A
+39,Thaddeus Young,FG_UNASSISTED,None,7:37,4,Pacers,Raptors,92 - 105,0,1,2,Jumper
+40,Doug McDermott,FOUL_ON_FLOOR,None,7:29,4,Pacers,Raptors,92 - 105,0,N/A,N/A,N/A
+41,Bojan Bogdanovic,SUBSTITUTION,O'Quinn Kyle,7:29,4,Pacers,Raptors,92 - 105,0,N/A,N/A,N/A
+42,Domantas Sabonis,SUBSTITUTION,McDermott Doug,7:29,4,Pacers,Raptors,92 - 105,0,N/A,N/A,N/A
+43,Greg Monroe,FG_MISS,None,7:14,4,Raptors,Pacers,92 - 105,1,12,2,Jumper
+44,Thaddeus Young,DEFENSIVE_REBOUND,None,7:10,4,Pacers,Raptors,92 - 105,0,N/A,N/A,N/A
+45,Victor Oladipo,FG_MISS,None,7:03,4,Pacers,Raptors,92 - 105,0,16,2,Jumper
+46,OG Anunoby,DEFENSIVE_REBOUND,None,7:01,4,Raptors,Pacers,92 - 105,1,N/A,N/A,N/A
+47,Delon Wright,FG_UNASSISTED,None,6:45,4,Raptors,Pacers,92 - 107,1,3,2,Jumper
+48,Bojan Bogdanovic,FG_MISS,OG Anunoby,6:26,4,Raptors,Pacers,92 - 107,0,4,2,Jumper
+49,Team,OFFENSIVE_REBOUND,None,6:25,4,Pacers,Raptors,92 - 107,0,N/A,N/A,N/A
+50,Bojan Bogdanovic,FG_MISS,None,6:22,4,Pacers,Raptors,92 - 107,0,12,2,Jumper
+51,Greg Monroe,DEFENSIVE_REBOUND,None,6:18,4,Raptors,Pacers,92 - 107,1,N/A,N/A,N/A
+52,Norman Powell,FG_ASSISTED,Fred VanVleet,6:13,4,Raptors,Pacers,92 - 109,1,1,2,Jumper
+53,Cory Joseph,FG_MISS,None,6:00,4,Pacers,Raptors,92 - 109,0,14,2,Jumper
+54,Domantas Sabonis,OFFENSIVE_REBOUND,None,5:57,4,Pacers,Raptors,92 - 109,0,N/A,N/A,N/A
+55,Domantas Sabonis,FG_UNASSISTED,None,5:56,4,Pacers,Raptors,94 - 109,0,1,2,Jumper
+56,Team,Unknown,None,5:44,4,Raptors,Pacers,94 - 109,1,N/A,N/A,N/A
+57,Fred VanVleet,FG_MISS,None,5:36,4,Raptors,Pacers,94 - 109,1,25,3,Jumper
+58,Bojan Bogdanovic,DEFENSIVE_REBOUND,None,5:32,4,Pacers,Raptors,94 - 109,0,N/A,N/A,N/A
+59,Domantas Sabonis,FG_UNASSISTED,None,5:22,4,Pacers,Raptors,96 - 109,0,1,2,Jumper
+60,Delon Wright,FG_ASSISTED,Fred VanVleet,5:01,4,Raptors,Pacers,96 - 112,1,25,3,Jumper
+61,Victor Oladipo,FG_MISS,None,4:37,4,Pacers,Raptors,96 - 112,0,26,3,Jumper
+62,Greg Monroe,DEFENSIVE_REBOUND,None,4:36,4,Raptors,Pacers,96 - 112,1,N/A,N/A,N/A
+63,Greg Monroe,FG_MISS,None,4:26,4,Raptors,Pacers,96 - 112,1,0,2,Layup
+64,Domantas Sabonis,DEFENSIVE_REBOUND,None,4:24,4,Pacers,Raptors,96 - 112,0,N/A,N/A,N/A
+65,Cory Joseph,FG_MISS,None,4:15,4,Pacers,Raptors,96 - 112,0,6,2,Jumper
+66,Thaddeus Young,OFFENSIVE_REBOUND,None,4:10,4,Pacers,Raptors,96 - 112,0,N/A,N/A,N/A
+67,Thaddeus Young,FG_UNASSISTED,None,4:10,4,Pacers,Raptors,98 - 112,0,1,2,Jumper
+68,Team,Unknown,None,4:03,4,Raptors,Pacers,98 - 112,1,N/A,N/A,N/A
+69,Pascal Siakam,SUBSTITUTION,Anunoby OG,4:03,4,Raptors,Pacers,98 - 112,1,N/A,N/A,N/A
+70,Serge Ibaka,SUBSTITUTION,Monroe Greg,4:03,4,Raptors,Pacers,98 - 112,1,N/A,N/A,N/A
+71,Kyle Lowry,SUBSTITUTION,Wright Delon,4:03,4,Raptors,Pacers,98 - 112,1,N/A,N/A,N/A
+72,Thaddeus Young,FOUL_ON_FLOOR,None,3:50,4,Pacers,Raptors,98 - 112,0,N/A,N/A,N/A
+73,Pascal Siakam,FT,None,3:50,4,Raptors,Pacers,98 - 113,1,N/A,1,N/A
+74,Pascal Siakam,FT,None,3:50,4,Raptors,Pacers,98 - 114,1,N/A,1,N/A
+75,Victor Oladipo,FG_MISS,None,3:37,4,Pacers,Raptors,98 - 114,0,15,2,Jumper
+76,Pascal Siakam,DEFENSIVE_REBOUND,None,3:34,4,Raptors,Pacers,98 - 114,1,N/A,N/A,N/A
+77,Serge Ibaka,FG_MISS,None,3:20,4,Raptors,Pacers,98 - 114,1,17,2,Jumper
+78,Cory Joseph,DEFENSIVE_REBOUND,None,3:19,4,Pacers,Raptors,98 - 114,0,N/A,N/A,N/A
+79,Serge Ibaka,FOUL_ON_FLOOR,None,3:12,4,Raptors,Pacers,98 - 114,1,N/A,N/A,N/A
+80,Bojan Bogdanovic,FG_MISS,Serge Ibaka,3:06,4,Raptors,Pacers,98 - 114,0,0,2,Layup
+81,Pascal Siakam,DEFENSIVE_REBOUND,None,3:02,4,Raptors,Pacers,98 - 114,1,N/A,N/A,N/A
+82,Pascal Siakam,TURNOVER,None,3:00,4,Raptors,Pacers,98 - 114,1,N/A,N/A,N/A
+83,Victor Oladipo,FG_ASSISTED,Domantas Sabonis,2:51,4,Pacers,Raptors,100 - 114,0,16,2,Jumper
+84,Fred VanVleet,FG_MISS,None,2:32,4,Raptors,Pacers,100 - 114,1,23,3,Jumper
+85,Domantas Sabonis,DEFENSIVE_REBOUND,None,2:30,4,Pacers,Raptors,100 - 114,0,N/A,N/A,N/A
+86,Norman Powell,FOUL_ON_FLOOR,None,2:25,4,Raptors,Pacers,100 - 114,1,N/A,N/A,N/A
+87,Cory Joseph,FG_MISS,None,2:15,4,Pacers,Raptors,100 - 114,0,1,2,Jumper
+88,Thaddeus Young,OFFENSIVE_REBOUND,None,2:12,4,Pacers,Raptors,100 - 114,0,N/A,N/A,N/A
+89,Cory Joseph,FG_MISS,None,2:04,4,Pacers,Raptors,100 - 114,0,1,2,Jumper
+90,Team,DEFENSIVE_REBOUND,None,2:02,4,Raptors,Pacers,100 - 114,1,N/A,N/A,N/A
+91,Victor Oladipo,FOUL_ON_FLOOR,None,1:44,4,Pacers,Raptors,100 - 114,0,N/A,N/A,N/A
+92,Fred VanVleet,FT,None,1:44,4,Raptors,Pacers,100 - 115,1,N/A,1,N/A
+93,Delon Wright,SUBSTITUTION,Siakam Pascal,1:44,4,Raptors,Pacers,100 - 115,1,N/A,N/A,N/A
+94,OG Anunoby,SUBSTITUTION,Ibaka Serge,1:44,4,Raptors,Pacers,100 - 115,1,N/A,N/A,N/A
+95,Chris Boucher,SUBSTITUTION,Lowry Kyle,1:44,4,Raptors,Pacers,100 - 115,1,N/A,N/A,N/A
+96,T.J. Leaf,SUBSTITUTION,Oladipo Victor,1:44,4,Pacers,Raptors,100 - 115,0,N/A,N/A,N/A
+97,Doug McDermott,SUBSTITUTION,Sabonis Domantas,1:44,4,Pacers,Raptors,100 - 115,0,N/A,N/A,N/A
+98,Kyle O'Quinn,SUBSTITUTION,Young Thaddeus,1:44,4,Pacers,Raptors,100 - 115,0,N/A,N/A,N/A
+99,Aaron Holiday,SUBSTITUTION,Bogdanovic Bojan,1:44,4,Pacers,Raptors,100 - 115,0,N/A,N/A,N/A
+100,Fred VanVleet,FT,None,1:44,4,Raptors,Pacers,100 - 116,1,N/A,1,N/A
+101,Cory Joseph,FG_ASSISTED,Doug McDermott,1:34,4,Pacers,Raptors,103 - 116,0,25,3,Jumper
+102,Chris Boucher,FG_ASSISTED,Fred VanVleet,1:22,4,Raptors,Pacers,103 - 119,1,25,3,Jumper
+103,Delon Wright,FOUL_ON_FLOOR,None,1:21,4,Raptors,Pacers,103 - 119,1,N/A,N/A,N/A
+104,Lorenzo Brown,SUBSTITUTION,VanVleet Fred,1:21,4,Raptors,Pacers,103 - 119,1,N/A,N/A,N/A
+105,T.J. Leaf,FG_ASSISTED,Kyle O'Quinn,1:04,4,Pacers,Raptors,105 - 119,0,5,2,Jumper
+106,OG Anunoby,FG_MISS,None,45.1,4,Raptors,Pacers,105 - 119,1,1,2,Jumper
+107,T.J. Leaf,DEFENSIVE_REBOUND,None,43.0,4,Pacers,Raptors,105 - 119,0,N/A,N/A,N/A
+108,Kyle O'Quinn,FG_MISS,None,37.4,4,Pacers,Raptors,105 - 119,0,0,2,Layup
+109,OG Anunoby,DEFENSIVE_REBOUND,None,34.8,4,Raptors,Pacers,105 - 119,1,N/A,N/A,N/A
+110,Norman Powell,FG_ASSISTED,Lorenzo Brown,15.2,4,Raptors,Pacers,105 - 121,1,1,2,Jumper
+111,Doug McDermott,TURNOVER,None,4.4,4,Pacers,Raptors,105 - 121,0,N/A,N/A,N/A
+112,End of,Unknown,None,0.0,4,Raptors,Pacers,105 - 121,1,N/A,N/A,N/A
+113,End of,Unknown,None,0.0,4,Raptors,Pacers,105 - 121,1,N/A,N/A,N/A

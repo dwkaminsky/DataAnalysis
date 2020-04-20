@@ -1,0 +1,490 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Kevin Durant,JUMP_BALL,None,12:00,1,Jazz,Warriors,0 - 0,1,N/A,N/A,N/A
+1,Donovan Mitchell,FG_UNASSISTED,None,11:40,1,Jazz,Warriors,0 - 3,1,26,3,Jumper
+2,Kevin Durant,FG_MISS,None,11:16,1,Warriors,Jazz,0 - 3,0,13,2,Jumper
+3,Rudy Gobert,DEFENSIVE_REBOUND,None,11:14,1,Jazz,Warriors,0 - 3,1,N/A,N/A,N/A
+4,Donovan Mitchell,FG_MISS,Kevon Looney,11:08,1,Warriors,Jazz,0 - 3,1,7,2,Jumper
+5,Team,OFFENSIVE_REBOUND,None,11:08,1,Jazz,Warriors,0 - 3,1,N/A,N/A,N/A
+6,Donovan Mitchell,FG_MISS,None,10:56,1,Jazz,Warriors,0 - 3,1,0,2,Layup
+7,Draymond Green,DEFENSIVE_REBOUND,None,10:54,1,Warriors,Jazz,0 - 3,0,N/A,N/A,N/A
+8,Klay Thompson,FG_MISS,None,10:49,1,Warriors,Jazz,0 - 3,0,16,2,Jumper
+9,Kevon Looney,OFFENSIVE_REBOUND,None,10:41,1,Warriors,Jazz,0 - 3,0,N/A,N/A,N/A
+10,Kevon Looney,FG_UNASSISTED,None,10:41,1,Warriors,Jazz,2 - 3,0,0,2,Dunk
+11,Joe Ingles,FG_ASSISTED,Derrick Favors,10:25,1,Jazz,Warriors,2 - 5,1,3,2,Jumper
+12,Stephen Curry,FG_MISS,None,10:16,1,Warriors,Jazz,2 - 5,0,17,2,Jumper
+13,Rudy Gobert,DEFENSIVE_REBOUND,None,10:14,1,Jazz,Warriors,2 - 5,1,N/A,N/A,N/A
+14,Ricky Rubio,FG_MISS,None,10:07,1,Jazz,Warriors,2 - 5,1,-,2,Jumper
+15,Draymond Green,DEFENSIVE_REBOUND,None,10:06,1,Warriors,Jazz,2 - 5,0,N/A,N/A,N/A
+16,Stephen Curry,FG_MISS,None,10:01,1,Warriors,Jazz,2 - 5,0,-,2,Jumper
+17,Joe Ingles,DEFENSIVE_REBOUND,None,10:00,1,Jazz,Warriors,2 - 5,1,N/A,N/A,N/A
+18,Derrick Favors,FG_MISS,None,9:53,1,Jazz,Warriors,2 - 5,1,23,3,Jumper
+19,Draymond Green,DEFENSIVE_REBOUND,None,9:50,1,Warriors,Jazz,2 - 5,0,N/A,N/A,N/A
+20,Kevin Durant,FG_MISS,None,9:42,1,Warriors,Jazz,2 - 5,0,-,2,Jumper
+21,Rudy Gobert,DEFENSIVE_REBOUND,None,9:38,1,Jazz,Warriors,2 - 5,1,N/A,N/A,N/A
+22,Stephen Curry,FOUL_ON_FLOOR,None,9:38,1,Warriors,Jazz,2 - 5,0,N/A,N/A,N/A
+23,Rudy Gobert,FG_MISS,None,9:23,1,Jazz,Warriors,2 - 5,1,5,2,Jumper
+24,Derrick Favors,OFFENSIVE_REBOUND,None,9:21,1,Jazz,Warriors,2 - 5,1,N/A,N/A,N/A
+25,Joe Ingles,FG_MISS,None,9:20,1,Jazz,Warriors,2 - 5,1,25,3,Jumper
+26,Draymond Green,DEFENSIVE_REBOUND,None,9:18,1,Warriors,Jazz,2 - 5,0,N/A,N/A,N/A
+27,Kevon Looney,FG_MISS,None,9:00,1,Warriors,Jazz,2 - 5,0,23,3,Jumper
+28,Rudy Gobert,DEFENSIVE_REBOUND,None,8:57,1,Jazz,Warriors,2 - 5,1,N/A,N/A,N/A
+29,Donovan Mitchell,FG_ASSISTED,Ricky Rubio,8:50,1,Jazz,Warriors,2 - 7,1,0,2,Layup
+30,Draymond Green,FG_UNASSISTED,None,8:43,1,Warriors,Jazz,4 - 7,0,-,2,Jumper
+31,Joe Ingles,FG_UNASSISTED,None,8:26,1,Jazz,Warriors,4 - 9,1,2,2,Jumper
+32,Kevin Durant,TURNOVER,None,8:14,1,Warriors,Jazz,4 - 9,0,N/A,N/A,N/A
+33,Donovan Mitchell,TURNOVER,Stephen Curry,7:55,1,Jazz,Warriors,4 - 9,1,N/A,N/A,N/A
+34,Ricky Rubio,FOUL_ON_FLOOR,None,7:54,1,Jazz,Warriors,4 - 9,1,N/A,N/A,N/A
+35,Kevin Durant,FG_UNASSISTED,None,7:41,1,Warriors,Jazz,6 - 9,0,15,2,Jumper
+36,Ricky Rubio,FG_MISS,None,7:25,1,Jazz,Warriors,6 - 9,1,20,2,Jumper
+37,Rudy Gobert,OFFENSIVE_REBOUND,None,7:20,1,Jazz,Warriors,6 - 9,1,N/A,N/A,N/A
+38,Rudy Gobert,FG_MISS,None,7:20,1,Jazz,Warriors,6 - 9,1,-,2,Jumper
+39,Stephen Curry,DEFENSIVE_REBOUND,None,7:19,1,Warriors,Jazz,6 - 9,0,N/A,N/A,N/A
+40,Klay Thompson,FG_UNASSISTED,None,7:10,1,Warriors,Jazz,8 - 9,0,10,2,Jumper
+41,Team,Unknown,None,7:09,1,Jazz,Warriors,8 - 9,1,N/A,N/A,N/A
+42,Jae Crowder,SUBSTITUTION,Ingles Joe,7:09,1,Jazz,Warriors,8 - 9,1,N/A,N/A,N/A
+43,Kyle Korver,SUBSTITUTION,Favors Derrick,7:09,1,Jazz,Warriors,8 - 9,1,N/A,N/A,N/A
+44,Ricky Rubio,FG_MISS,None,6:51,1,Jazz,Warriors,8 - 9,1,-,2,Jumper
+45,Kevin Durant,DEFENSIVE_REBOUND,None,6:47,1,Warriors,Jazz,8 - 9,0,N/A,N/A,N/A
+46,Kevin Durant,FG_MISS,None,6:43,1,Warriors,Jazz,8 - 9,0,16,2,Jumper
+47,Jae Crowder,DEFENSIVE_REBOUND,None,6:41,1,Jazz,Warriors,8 - 9,1,N/A,N/A,N/A
+48,Donovan Mitchell,TURNOVER,Klay Thompson,6:31,1,Jazz,Warriors,8 - 9,1,N/A,N/A,N/A
+49,Stephen Curry,FG_ASSISTED,Kevin Durant,6:23,1,Warriors,Jazz,11 - 9,0,24,3,Jumper
+50,Donovan Mitchell,FG_MISS,None,6:02,1,Jazz,Warriors,11 - 9,1,4,2,Jumper
+51,Draymond Green,DEFENSIVE_REBOUND,None,5:59,1,Warriors,Jazz,11 - 9,0,N/A,N/A,N/A
+52,Kevon Looney,TURNOVER,Donovan Mitchell,5:48,1,Warriors,Jazz,11 - 9,0,N/A,N/A,N/A
+53,Rudy Gobert,FG_ASSISTED,Jae Crowder,5:42,1,Jazz,Warriors,11 - 11,1,0,2,Dunk
+54,Kevin Durant,FG_MISS,None,5:27,1,Warriors,Jazz,11 - 11,0,25,3,Jumper
+55,Team,DEFENSIVE_REBOUND,None,5:23,1,Jazz,Warriors,11 - 11,1,N/A,N/A,N/A
+56,Jonas Jerebko,SUBSTITUTION,Looney Kevon,5:23,1,Warriors,Jazz,11 - 11,0,N/A,N/A,N/A
+57,Klay Thompson,FOUL_ON_FLOOR,None,5:15,1,Warriors,Jazz,11 - 11,0,N/A,N/A,N/A
+58,Ricky Rubio,FG_MISS,None,5:05,1,Jazz,Warriors,11 - 11,1,0,2,Layup
+59,Rudy Gobert,OFFENSIVE_REBOUND,None,5:01,1,Jazz,Warriors,11 - 11,1,N/A,N/A,N/A
+60,Rudy Gobert,FG_MISS,None,5:01,1,Jazz,Warriors,11 - 11,1, ,2,Jumper
+61,Jonas Jerebko,DEFENSIVE_REBOUND,None,5:00,1,Warriors,Jazz,11 - 11,0,N/A,N/A,N/A
+62,Jonas Jerebko,FG_MISS,None,4:53,1,Warriors,Jazz,11 - 11,0,25,3,Jumper
+63,Kyle Korver,DEFENSIVE_REBOUND,None,4:48,1,Jazz,Warriors,11 - 11,1,N/A,N/A,N/A
+64,Kyle Korver,FG_ASSISTED,Ricky Rubio,4:44,1,Jazz,Warriors,11 - 14,1,27,3,Jumper
+65,Draymond Green,FG_MISS,None,4:30,1,Warriors,Jazz,11 - 14,0,25,3,Jumper
+66,Donovan Mitchell,DEFENSIVE_REBOUND,None,4:27,1,Jazz,Warriors,11 - 14,1,N/A,N/A,N/A
+67,Kyle Korver,FG_MISS,None,4:23,1,Jazz,Warriors,11 - 14,1,25,3,Jumper
+68,Kevin Durant,DEFENSIVE_REBOUND,None,4:20,1,Warriors,Jazz,11 - 14,0,N/A,N/A,N/A
+69,Kevin Durant,TURNOVER,Donovan Mitchell,4:16,1,Warriors,Jazz,11 - 14,0,N/A,N/A,N/A
+70,Donovan Mitchell,FG_MISS,Stephen Curry,4:13,1,Warriors,Jazz,11 - 14,1,0,2,Layup
+71,Team,OFFENSIVE_REBOUND,None,4:13,1,Jazz,Warriors,11 - 14,1,N/A,N/A,N/A
+72,Dante Exum,SUBSTITUTION,Rubio Ricky,4:13,1,Jazz,Warriors,11 - 14,1,N/A,N/A,N/A
+73,Rudy Gobert,FG_ASSISTED,Donovan Mitchell,4:11,1,Jazz,Warriors,11 - 16,1,0,2,Dunk
+74,Team,Unknown,None,4:10,1,Warriors,Jazz,11 - 16,0,N/A,N/A,N/A
+75,Shaun Livingston,SUBSTITUTION,Green Draymond,4:10,1,Warriors,Jazz,11 - 16,0,N/A,N/A,N/A
+76,Jordan Bell,SUBSTITUTION,Curry Stephen,4:10,1,Warriors,Jazz,11 - 16,0,N/A,N/A,N/A
+77,Kevin Durant,FG_MISS,None,3:55,1,Warriors,Jazz,11 - 16,0, ,2,Jumper
+78,Jordan Bell,OFFENSIVE_REBOUND,None,3:50,1,Warriors,Jazz,11 - 16,0,N/A,N/A,N/A
+79,Jordan Bell,FG_MISS,None,3:50,1,Warriors,Jazz,11 - 16,0, ,2,Jumper
+80,Rudy Gobert,DEFENSIVE_REBOUND,None,3:49,1,Jazz,Warriors,11 - 16,1,N/A,N/A,N/A
+81,Jae Crowder,FG_MISS,None,3:37,1,Jazz,Warriors,11 - 16,1,23,3,Jumper
+82,Shaun Livingston,DEFENSIVE_REBOUND,None,3:34,1,Warriors,Jazz,11 - 16,0,N/A,N/A,N/A
+83,Shaun Livingston,FOUL_ON_FLOOR,None,3:27,1,Warriors,Jazz,11 - 16,0,N/A,N/A,N/A
+84,Shaun Livingston,TURNOVER,None,3:27,1,Warriors,Jazz,11 - 16,0,N/A,N/A,N/A
+85,Dante Exum's,FG_MISS,Shaun Livingston,3:15,1,Warriors,Jazz,11 - 16,1,0,2,Dunk
+86,Team,OFFENSIVE_REBOUND,None,3:15,1,Jazz,Warriors,11 - 16,1,N/A,N/A,N/A
+87,Donovan Mitchell,FG_MISS,None,3:03,1,Jazz,Warriors,11 - 16,1,28,3,Jumper
+88,Jonas Jerebko,DEFENSIVE_REBOUND,None,3:00,1,Warriors,Jazz,11 - 16,0,N/A,N/A,N/A
+89,Kevin Durant,FG_MISS,None,2:53,1,Warriors,Jazz,11 - 16,0,0,2,Layup
+90,Kyle Korver,DEFENSIVE_REBOUND,None,2:51,1,Jazz,Warriors,11 - 16,1,N/A,N/A,N/A
+91,Kyle Korver,FG_ASSISTED,Donovan Mitchell,2:40,1,Jazz,Warriors,11 - 19,1, ,3,Jumper
+92,Jonas Jerebko,FG_ASSISTED,Kevin Durant,2:24,1,Warriors,Jazz,14 - 19,0,25,3,Jumper
+93,Donovan Mitchell,FG_MISS,None,2:06,1,Jazz,Warriors,14 - 19,1,7,2,Jumper
+94,Rudy Gobert,OFFENSIVE_REBOUND,None,2:05,1,Jazz,Warriors,14 - 19,1,N/A,N/A,N/A
+95,Rudy Gobert,TURNOVER,Klay Thompson,2:05,1,Jazz,Warriors,14 - 19,1,N/A,N/A,N/A
+96,Klay Thompson,TURNOVER,None,2:05,1,Warriors,Jazz,14 - 19,0,N/A,N/A,N/A
+97,Joe Ingles,SUBSTITUTION,Korver Kyle,2:05,1,Jazz,Warriors,14 - 19,1,N/A,N/A,N/A
+98,Royce O'Neale,SUBSTITUTION,Gobert Rudy,2:05,1,Jazz,Warriors,14 - 19,1,N/A,N/A,N/A
+99,Derrick Favors,SUBSTITUTION,Mitchell Donovan,2:05,1,Jazz,Warriors,14 - 19,1,N/A,N/A,N/A
+100,Andre Iguodala,SUBSTITUTION,Thompson Klay,2:05,1,Warriors,Jazz,14 - 19,0,N/A,N/A,N/A
+101,Jae Crowder,FG_ASSISTED,Joe Ingles,1:56,1,Jazz,Warriors,14 - 22,1,26,3,Jumper
+102,Kevin Durant,FG_ASSISTED,Jonas Jerebko,1:40,1,Warriors,Jazz,16 - 22,0,13,2,Jumper
+103,Jae Crowder,FG_MISS,None,1:18,1,Jazz,Warriors,16 - 22,1,0,2,Layup
+104,Jordan Bell,DEFENSIVE_REBOUND,None,1:15,1,Warriors,Jazz,16 - 22,0,N/A,N/A,N/A
+105,Derrick Favors,FOUL_TECHNICAL,None,1:08,1,Jazz,Warriors,16 - 22,1,N/A,N/A,N/A
+106,Kevin Durant,FT,None,1:08,1,Warriors,Jazz,17 - 22,0,N/A,1,N/A
+107,Kevin Durant,FG_MISS,None,1:00,1,Warriors,Jazz,17 - 22,0,25,3,Jumper
+108,Dante Exum,DEFENSIVE_REBOUND,None,58.3,1,Jazz,Warriors,17 - 22,1,N/A,N/A,N/A
+109,Jonas Jerebko,FOUL_ON_FLOOR,None,46.3,1,Warriors,Jazz,17 - 22,0,N/A,N/A,N/A
+110,Joe Ingles,FT,None,46.3,1,Jazz,Warriors,17 - 23,1,N/A,1,N/A
+111,Joe Ingles,FT,None,46.3,1,Jazz,Warriors,17 - 24,1,N/A,1,N/A
+112,Joe Ingles,FOUL_ON_FLOOR,None,37.7,1,Jazz,Warriors,17 - 24,1,N/A,N/A,N/A
+113,Royce O'Neale,FOUL_ON_FLOOR,None,35.9,1,Jazz,Warriors,17 - 24,1,N/A,N/A,N/A
+114,Kevin Durant,FT_MISS,None,35.9,1,Warriors,Jazz,17 - 24,0,N/A,1,N/A
+115,Team,OFFENSIVE_REBOUND,None,35.9,1,Warriors,Jazz,17 - 24,0,N/A,N/A,N/A
+116,Kevin Durant,FT,None,35.9,1,Warriors,Jazz,18 - 24,0,N/A,1,N/A
+117,Joe Ingles,FG_MISS,None,31.3,1,Jazz,Warriors,18 - 24,1,26,3,Jumper
+118,Shaun Livingston,DEFENSIVE_REBOUND,None,27.7,1,Warriors,Jazz,18 - 24,0,N/A,N/A,N/A
+119,Andre Iguodala,FG_ASSISTED,Jordan Bell,8.7,1,Warriors,Jazz,21 - 24,0,23,3,Jumper
+120,Jae Crowder,FG_MISS,None,0.5,1,Jazz,Warriors,21 - 24,1,26,3,Jumper
+121,Team,OFFENSIVE_REBOUND,None,0.5,1,Jazz,Warriors,21 - 24,1,N/A,N/A,N/A
+122,End of,Unknown,None,0.0,1,Jazz,Warriors,21 - 24,1,N/A,N/A,N/A
+0,Stephen Curry,SUBSTITUTION,Durant Kevin,12:00,2,Warriors,Jazz,21 - 24,0,N/A,N/A,N/A
+1,Draymond Green,SUBSTITUTION,for game,12:00,2,Warriors,Jazz,21 - 24,0,N/A,N/A,N/A
+2,enters the,SUBSTITUTION,Bell Jordan,12:00,2,Warriors,Jazz,21 - 24,0,N/A,N/A,N/A
+3,Stephen Curry,FG_ASSISTED,Shaun Livingston,11:48,2,Warriors,Jazz,23 - 24,0,0,2,Layup
+4,Andre Iguodala,FOUL_ON_FLOOR,None,11:40,2,Warriors,Jazz,23 - 24,0,N/A,N/A,N/A
+5,Joe Ingles,FG_MISS,None,11:25,2,Jazz,Warriors,23 - 24,1,25,3,Jumper
+6,Shaun Livingston,DEFENSIVE_REBOUND,None,11:21,2,Warriors,Jazz,23 - 24,0,N/A,N/A,N/A
+7,Draymond Green,FG_ASSISTED,Shaun Livingston,11:10,2,Warriors,Jazz,25 - 24,0,0,2,Dunk
+8,Derrick Favors,FG_ASSISTED,Dante Exum,10:57,2,Jazz,Warriors,25 - 26,1,0,2,Layup
+9,Jonas Jerebko,FG_MISS,None,10:35,2,Warriors,Jazz,25 - 26,0, ,2,Jumper
+10,Jonas Jerebko,OFFENSIVE_REBOUND,None,10:34,2,Warriors,Jazz,25 - 26,0,N/A,N/A,N/A
+11,Jonas Jerebko,FG_MISS,None,10:23,2,Warriors,Jazz,25 - 26,0,20,2,Jumper
+12,Joe Ingles,DEFENSIVE_REBOUND,None,10:20,2,Jazz,Warriors,25 - 26,1,N/A,N/A,N/A
+13,Jae Crowder,FG_ASSISTED,Dante Exum,10:15,2,Jazz,Warriors,25 - 29,1,26,3,Jumper
+14,Shaun Livingston,FG_MISS,None,9:56,2,Warriors,Jazz,25 - 29,0,8,2,Jumper
+15,Jae Crowder,DEFENSIVE_REBOUND,None,9:53,2,Jazz,Warriors,25 - 29,1,N/A,N/A,N/A
+16,Derrick Favors,FG_ASSISTED,Jae Crowder,9:45,2,Jazz,Warriors,25 - 31,1,4,2,Jumper
+17,Stephen Curry,TURNOVER,Royce O'Neale,9:31,2,Warriors,Jazz,25 - 31,0,N/A,N/A,N/A
+18,Royce O'Neale,FG_MISS,Shaun Livingston,9:27,2,Warriors,Jazz,25 - 31,1,0,2,Layup
+19,Andre Iguodala,DEFENSIVE_REBOUND,None,9:23,2,Warriors,Jazz,25 - 31,0,N/A,N/A,N/A
+20,Draymond Green,FG_ASSISTED,Stephen Curry,9:19,2,Warriors,Jazz,27 - 31,0,0,2,Layup
+21,Shaun Livingston,FOUL_ON_FLOOR,None,9:14,2,Warriors,Jazz,27 - 31,0,N/A,N/A,N/A
+22,Kyle Korver,SUBSTITUTION,Crowder Jae,9:14,2,Jazz,Warriors,27 - 31,1,N/A,N/A,N/A
+23,Donovan Mitchell,SUBSTITUTION,Ingles Joe,9:14,2,Jazz,Warriors,27 - 31,1,N/A,N/A,N/A
+24,Thabo Sefolosha,SUBSTITUTION,O'Neale Royce,9:14,2,Jazz,Warriors,27 - 31,1,N/A,N/A,N/A
+25,Dante Exum,FG_UNASSISTED,None,9:00,2,Jazz,Warriors,27 - 33,1,0,2,Layup
+26,Shaun Livingston,FG_UNASSISTED,None,8:42,2,Warriors,Jazz,29 - 33,0,14,2,Jumper
+27,Derrick Favors,FOUL_ON_FLOOR,None,8:34,2,Jazz,Warriors,29 - 33,1,N/A,N/A,N/A
+28,Derrick Favors,TURNOVER,None,8:34,2,Jazz,Warriors,29 - 33,1,N/A,N/A,N/A
+29,Alfonzo McKinnie,SUBSTITUTION,Jerebko Jonas,8:34,2,Warriors,Jazz,29 - 33,0,N/A,N/A,N/A
+30,Stephen Curry,FG_ASSISTED,Shaun Livingston,8:24,2,Warriors,Jazz,32 - 33,0,25,3,Jumper
+31,Donovan Mitchell,FG_MISS,None,8:11,2,Jazz,Warriors,32 - 33,1,0,2,Layup
+32,Derrick Favors,OFFENSIVE_REBOUND,None,8:06,2,Jazz,Warriors,32 - 33,1,N/A,N/A,N/A
+33,Derrick Favors,FG_UNASSISTED,None,8:06,2,Jazz,Warriors,32 - 35,1,0,2,Dunk
+34,Stephen Curry,FG_UNASSISTED,None,7:57,2,Warriors,Jazz,35 - 35,0,25,2,Jumper
+35,Team,Unknown,None,7:55,2,Jazz,Warriors,35 - 35,1,N/A,N/A,N/A
+36,Ricky Rubio,SUBSTITUTION,Exum Dante,7:55,2,Jazz,Warriors,35 - 35,1,N/A,N/A,N/A
+37,Kevon Looney,SUBSTITUTION,Iguodala Andre,7:55,2,Warriors,Jazz,35 - 35,0,N/A,N/A,N/A
+38,Klay Thompson,SUBSTITUTION,Livingston Shaun,7:55,2,Warriors,Jazz,35 - 35,0,N/A,N/A,N/A
+39,Kyle Korver,FG_MISS,None,7:34,2,Jazz,Warriors,35 - 35,1, ,2,Jumper
+40,Alfonzo McKinnie,DEFENSIVE_REBOUND,None,7:30,2,Warriors,Jazz,35 - 35,0,N/A,N/A,N/A
+41,Rudy Gobert,SUBSTITUTION,Favors Derrick,7:24,2,Jazz,Warriors,35 - 35,1,N/A,N/A,N/A
+42,Draymond Green,FG_ASSISTED,Kevon Looney,7:19,2,Warriors,Jazz,37 - 35,0,0,2,Layup
+43,Rudy Gobert,FG_ASSISTED,Kyle Korver,7:00,2,Jazz,Warriors,37 - 37,1,0,2,Layup
+44,Stephen Curry,FG_UNASSISTED,None,6:51,2,Warriors,Jazz,39 - 37,0,0,2,Layup
+45,Donovan Mitchell,FG_MISS,None,6:34,2,Jazz,Warriors,39 - 37,1, ,2,Jumper
+46,Donovan Mitchell,OFFENSIVE_REBOUND,None,6:32,2,Jazz,Warriors,39 - 37,1,N/A,N/A,N/A
+47,Donovan Mitchell,FG_UNASSISTED,None,6:30,2,Jazz,Warriors,39 - 39,1,0,2,Layup
+48,Stephen Curry,FG_UNASSISTED,None,6:24,2,Warriors,Jazz,42 - 39,0,25,3,Jumper
+49,Thabo Sefolosha,FG_ASSISTED,Donovan Mitchell,6:03,2,Jazz,Warriors,42 - 42,1,23,3,Jumper
+50,Stephen Curry,FG_ASSISTED,Draymond Green,5:48,2,Warriors,Jazz,44 - 42,0,0,2,Layup
+51,Kyle Korver,FG_MISS,None,5:41,2,Jazz,Warriors,44 - 42,1,24,3,Jumper
+52,Team,OFFENSIVE_REBOUND,None,5:39,2,Jazz,Warriors,44 - 42,1,N/A,N/A,N/A
+53,Jae Crowder,SUBSTITUTION,Sefolosha Thabo,5:39,2,Jazz,Warriors,44 - 42,1,N/A,N/A,N/A
+54,Kevin Durant,SUBSTITUTION,Green Draymond,5:39,2,Warriors,Jazz,44 - 42,0,N/A,N/A,N/A
+55,Andre Iguodala,SUBSTITUTION,Curry Stephen,5:39,2,Warriors,Jazz,44 - 42,0,N/A,N/A,N/A
+56,Alfonzo McKinnie,JUMP_BALL,None,5:26,2,Warriors,Jazz,44 - 42,0,N/A,N/A,N/A
+57,Donovan Mitchell,TURNOVER,Alfonzo McKinnie,5:26,2,Jazz,Warriors,44 - 42,1,N/A,N/A,N/A
+58,Donovan Mitchell,FOUL_ON_FLOOR,None,5:20,2,Jazz,Warriors,44 - 42,1,N/A,N/A,N/A
+59,Klay Thompson,FT,None,5:20,2,Warriors,Jazz,45 - 42,0,N/A,1,N/A
+60,Klay Thompson,FT,None,5:20,2,Warriors,Jazz,46 - 42,0,N/A,1,N/A
+61,Donovan Mitchell,TURNOVER,Klay Thompson,5:12,2,Jazz,Warriors,46 - 42,1,N/A,N/A,N/A
+62,Kevin Durant,FG_MISS,None,5:03,2,Warriors,Jazz,46 - 42,0, ,2,Jumper
+63,Kevon Looney,OFFENSIVE_REBOUND,None,5:01,2,Warriors,Jazz,46 - 42,0,N/A,N/A,N/A
+64,Rudy Gobert,FOUL_ON_FLOOR,None,4:52,2,Jazz,Warriors,46 - 42,1,N/A,N/A,N/A
+65,Kevin Durant,FT,None,4:52,2,Warriors,Jazz,47 - 42,0,N/A,1,N/A
+66,Joe Ingles,SUBSTITUTION,Korver Kyle,4:52,2,Jazz,Warriors,47 - 42,1,N/A,N/A,N/A
+67,Kevin Durant,FT,None,4:52,2,Warriors,Jazz,48 - 42,0,N/A,1,N/A
+68,Rudy Gobert,FG_MISS,Kevin Durant,4:39,2,Warriors,Jazz,48 - 42,1,0,2,Layup
+69,Klay Thompson,DEFENSIVE_REBOUND,None,4:34,2,Warriors,Jazz,48 - 42,0,N/A,N/A,N/A
+70,Alfonzo McKinnie,FG_MISS,None,4:28,2,Warriors,Jazz,48 - 42,0,0,2,Layup
+71,Jae Crowder,DEFENSIVE_REBOUND,None,4:27,2,Jazz,Warriors,48 - 42,1,N/A,N/A,N/A
+72,Kevon Looney,FOUL_ON_FLOOR,None,4:21,2,Warriors,Jazz,48 - 42,0,N/A,N/A,N/A
+73,Rudy Gobert,FT,None,4:21,2,Jazz,Warriors,48 - 43,1,N/A,1,N/A
+74,Stephen Curry,SUBSTITUTION,McKinnie Alfonzo,4:21,2,Warriors,Jazz,48 - 43,0,N/A,N/A,N/A
+75,Rudy Gobert,FT_MISS,None,4:21,2,Jazz,Warriors,48 - 43,1,N/A,1,N/A
+76,Kevin Durant,DEFENSIVE_REBOUND,None,4:19,2,Warriors,Jazz,48 - 43,0,N/A,N/A,N/A
+77,Andre Iguodala's,FG_MISS,Rudy Gobert,4:07,2,Jazz,Warriors,48 - 43,0, ,2,Jumper
+78,Ricky Rubio,DEFENSIVE_REBOUND,None,4:04,2,Jazz,Warriors,48 - 43,1,N/A,N/A,N/A
+79,Jae Crowder,FG_ASSISTED,Ricky Rubio,4:01,2,Jazz,Warriors,48 - 45,1,24,2,Jumper
+80,Stephen Curry,FG_MISS,None,3:46,2,Warriors,Jazz,48 - 45,0, ,2,Jumper
+81,Rudy Gobert,DEFENSIVE_REBOUND,None,3:44,2,Jazz,Warriors,48 - 45,1,N/A,N/A,N/A
+82,Stephen Curry,FOUL_ON_FLOOR,None,3:44,2,Warriors,Jazz,48 - 45,0,N/A,N/A,N/A
+83,Draymond Green,SUBSTITUTION,Looney Kevon,3:44,2,Warriors,Jazz,48 - 45,0,N/A,N/A,N/A
+84,Klay Thompson,FOUL_ON_FLOOR,None,3:27,2,Warriors,Jazz,48 - 45,0,N/A,N/A,N/A
+85,Rudy Gobert,FT,None,3:27,2,Jazz,Warriors,48 - 46,1,N/A,1,N/A
+86,Rudy Gobert,FT,None,3:27,2,Jazz,Warriors,48 - 47,1,N/A,1,N/A
+87,Andre Iguodala,FG_MISS,None,3:13,2,Warriors,Jazz,48 - 47,0,0,2,Layup
+88,Jae Crowder,DEFENSIVE_REBOUND,None,3:10,2,Jazz,Warriors,48 - 47,1,N/A,N/A,N/A
+89,Ricky Rubio,FG_MISS,None,3:07,2,Jazz,Warriors,48 - 47,1,24,3,Jumper
+90,Kevin Durant,DEFENSIVE_REBOUND,None,3:04,2,Warriors,Jazz,48 - 47,0,N/A,N/A,N/A
+91,Ricky Rubio,FOUL_ON_FLOOR,None,3:00,2,Jazz,Warriors,48 - 47,1,N/A,N/A,N/A
+92,Stephen Curry,FT,None,3:00,2,Warriors,Jazz,49 - 47,0,N/A,1,N/A
+93,Stephen Curry,FT,None,3:00,2,Warriors,Jazz,50 - 47,0,N/A,1,N/A
+94,Stephen Curry,FT,None,3:00,2,Warriors,Jazz,51 - 47,0,N/A,1,N/A
+95,Rudy Gobert,FG_ASSISTED,Ricky Rubio,2:52,2,Jazz,Warriors,51 - 49,1,0,2,Dunk
+96,Stephen Curry,FG_MISS,None,2:36,2,Warriors,Jazz,51 - 49,0,23,3,Jumper
+97,Rudy Gobert,DEFENSIVE_REBOUND,None,2:34,2,Jazz,Warriors,51 - 49,1,N/A,N/A,N/A
+98,Kevin Durant,FOUL_ON_FLOOR,None,2:25,2,Warriors,Jazz,51 - 49,0,N/A,N/A,N/A
+99,Team,Unknown,None,2:25,2,Warriors,Jazz,51 - 49,0,N/A,N/A,N/A
+100,Jae Crowder,FT_MISS,None,2:25,2,Jazz,Warriors,51 - 49,1,N/A,1,N/A
+101,Team,OFFENSIVE_REBOUND,None,2:25,2,Jazz,Warriors,51 - 49,1,N/A,N/A,N/A
+102,Jae Crowder,FT,None,2:25,2,Jazz,Warriors,51 - 50,1,N/A,1,N/A
+103,Draymond Green,FG_MISS,None,2:08,2,Warriors,Jazz,51 - 50,0,23,3,Jumper
+104,Jae Crowder,DEFENSIVE_REBOUND,None,2:05,2,Jazz,Warriors,51 - 50,1,N/A,N/A,N/A
+105,Stephen Curry,FOUL_ON_FLOOR,None,1:48,2,Warriors,Jazz,51 - 50,0,N/A,N/A,N/A
+106,Donovan Mitchell,FT,None,1:48,2,Jazz,Warriors,51 - 51,1,N/A,1,N/A
+107,Quinn Cook,SUBSTITUTION,Curry Stephen,1:48,2,Warriors,Jazz,51 - 51,0,N/A,N/A,N/A
+108,Donovan Mitchell,FT_MISS,None,1:48,2,Jazz,Warriors,51 - 51,1,N/A,1,N/A
+109,Jae Crowder,OFFENSIVE_REBOUND,None,1:46,2,Jazz,Warriors,51 - 51,1,N/A,N/A,N/A
+110,Donovan Mitchell's,FG_MISS,Andre Iguodala,1:44,2,Warriors,Jazz,51 - 51,1,0,2,Layup
+111,Team,DEFENSIVE_REBOUND,None,1:42,2,Warriors,Jazz,51 - 51,0,N/A,N/A,N/A
+112,Kevin Durant,FG_MISS,None,1:36,2,Warriors,Jazz,51 - 51,0,25,3,Jumper
+113,Ricky Rubio,DEFENSIVE_REBOUND,None,1:32,2,Jazz,Warriors,51 - 51,1,N/A,N/A,N/A
+114,Donovan Mitchell,FG_MISS,None,1:29,2,Jazz,Warriors,51 - 51,1,22,3,Jumper
+115,Klay Thompson,DEFENSIVE_REBOUND,None,1:26,2,Warriors,Jazz,51 - 51,0,N/A,N/A,N/A
+116,Jae Crowder,FOUL_ON_FLOOR,None,1:23,2,Jazz,Warriors,51 - 51,1,N/A,N/A,N/A
+117,Kevin Durant,FT,None,1:23,2,Warriors,Jazz,52 - 51,0,N/A,1,N/A
+118,Kevin Durant,FT,None,1:23,2,Warriors,Jazz,53 - 51,0,N/A,1,N/A
+119,Joe Ingles,FG_ASSISTED,Ricky Rubio,1:01,2,Jazz,Warriors,53 - 54,1,24,3,Jumper
+120,Kevin Durant,TURNOVER,Joe Ingles,48.0,2,Warriors,Jazz,53 - 54,0,N/A,N/A,N/A
+121,Kevin Durant,FOUL_ON_FLOOR,None,47.3,2,Warriors,Jazz,53 - 54,0,N/A,N/A,N/A
+122,Ricky Rubio,FT,None,47.3,2,Jazz,Warriors,53 - 55,1,N/A,1,N/A
+123,Ricky Rubio,FT,None,47.3,2,Jazz,Warriors,53 - 56,1,N/A,1,N/A
+124,Joe Ingles,FOUL_ON_FLOOR,None,36.9,2,Jazz,Warriors,53 - 56,1,N/A,N/A,N/A
+125,Kevin Durant,FT,None,36.9,2,Warriors,Jazz,54 - 56,0,N/A,1,N/A
+126,Kevin Durant,FT,None,36.9,2,Warriors,Jazz,55 - 56,0,N/A,1,N/A
+127,Ricky Rubio,FOUL_ON_FLOOR,None,31.5,2,Jazz,Warriors,55 - 56,1,N/A,N/A,N/A
+128,Ricky Rubio,TURNOVER,None,31.5,2,Jazz,Warriors,55 - 56,1,N/A,N/A,N/A
+129,Dante Exum,SUBSTITUTION,Rubio Ricky,31.5,2,Jazz,Warriors,55 - 56,1,N/A,N/A,N/A
+130,Klay Thompson,FG_MISS,None,20.0,2,Warriors,Jazz,55 - 56,0,25,3,Jumper
+131,Draymond Green,OFFENSIVE_REBOUND,None,17.4,2,Warriors,Jazz,55 - 56,0,N/A,N/A,N/A
+132,Quinn Cook,FG_MISS,None,16.4,2,Warriors,Jazz,55 - 56,0,14,2,Jumper
+133,Rudy Gobert,DEFENSIVE_REBOUND,None,14.0,2,Jazz,Warriors,55 - 56,1,N/A,N/A,N/A
+134,Donovan Mitchell,FG_MISS,None,0.7,2,Jazz,Warriors,55 - 56,1,25,2,Jumper
+135,Team,OFFENSIVE_REBOUND,None,0.7,2,Jazz,Warriors,55 - 56,1,N/A,N/A,N/A
+136,End of,Unknown,None,0.0,2,Jazz,Warriors,55 - 56,1,N/A,N/A,N/A
+0,Derrick Favors,SUBSTITUTION,Crowder Jae,12:00,3,Jazz,Warriors,55 - 56,1,N/A,N/A,N/A
+1,Ricky Rubio,SUBSTITUTION,Exum Dante,12:00,3,Jazz,Warriors,55 - 56,1,N/A,N/A,N/A
+2,Kevon Looney,SUBSTITUTION,Cook Quinn,12:00,3,Warriors,Jazz,55 - 56,0,N/A,N/A,N/A
+3,Stephen Curry,SUBSTITUTION,Iguodala Andre,12:00,3,Warriors,Jazz,55 - 56,0,N/A,N/A,N/A
+4,Klay Thompson,FG_MISS,None,11:47,3,Warriors,Jazz,55 - 56,0,12,2,Jumper
+5,Derrick Favors,DEFENSIVE_REBOUND,None,11:43,3,Jazz,Warriors,55 - 56,1,N/A,N/A,N/A
+6,Ricky Rubio,TURNOVER,Stephen Curry,11:30,3,Jazz,Warriors,55 - 56,1,N/A,N/A,N/A
+7,Stephen Curry,FG_MISS,None,11:23,3,Warriors,Jazz,55 - 56,0,26,3,Jumper
+8,Ricky Rubio,DEFENSIVE_REBOUND,None,11:20,3,Jazz,Warriors,55 - 56,1,N/A,N/A,N/A
+9,Ricky Rubio,TURNOVER,Draymond Green,11:12,3,Jazz,Warriors,55 - 56,1,N/A,N/A,N/A
+10,Donovan Mitchell,FOUL_ON_FLOOR,None,11:02,3,Jazz,Warriors,55 - 56,1,N/A,N/A,N/A
+11,Klay Thompson,FT,None,11:02,3,Warriors,Jazz,56 - 56,0,N/A,1,N/A
+12,Klay Thompson,FT,None,11:02,3,Warriors,Jazz,57 - 56,0,N/A,1,N/A
+13,Donovan Mitchell,FG_UNASSISTED,None,10:52,3,Jazz,Warriors,57 - 58,1,13,2,Jumper
+14,Stephen Curry,TURNOVER,Joe Ingles,10:36,3,Warriors,Jazz,57 - 58,0,N/A,N/A,N/A
+15,Draymond Green,FOUL_ON_FLOOR,None,10:34,3,Warriors,Jazz,57 - 58,0,N/A,N/A,N/A
+16,Klay Thompson,FOUL_ON_FLOOR,None,10:29,3,Warriors,Jazz,57 - 58,0,N/A,N/A,N/A
+17,Derrick Favors,FT,None,10:29,3,Jazz,Warriors,57 - 59,1,N/A,1,N/A
+18,Derrick Favors,FT,None,10:29,3,Jazz,Warriors,57 - 60,1,N/A,1,N/A
+19,Klay Thompson,FG_MISS,None,10:20,3,Warriors,Jazz,57 - 60,0,26,3,Jumper
+20,Team,DEFENSIVE_REBOUND,None,10:19,3,Jazz,Warriors,57 - 60,1,N/A,N/A,N/A
+21,Draymond Green,FOUL_TECHNICAL,None,10:09,3,Warriors,Jazz,57 - 60,0,N/A,N/A,N/A
+22,Ricky Rubio,FT,None,10:09,3,Jazz,Warriors,57 - 61,1,N/A,1,N/A
+23,Donovan Mitchell,FG_MISS,Klay Thompson,10:00,3,Warriors,Jazz,57 - 61,1,14,2,Jumper
+24,Kevin Durant,DEFENSIVE_REBOUND,None,9:56,3,Warriors,Jazz,57 - 61,0,N/A,N/A,N/A
+25,Kevin Durant,FG_UNASSISTED,None,9:55,3,Warriors,Jazz,59 - 61,0,0,2,Layup
+26,Donovan Mitchell,FG_MISS,None,9:36,3,Jazz,Warriors,59 - 61,1,0,2,Layup
+27,Draymond Green,DEFENSIVE_REBOUND,None,9:34,3,Warriors,Jazz,59 - 61,0,N/A,N/A,N/A
+28,Stephen Curry,FG_ASSISTED,Klay Thompson,9:29,3,Warriors,Jazz,62 - 61,0,23,3,Jumper
+29,Donovan Mitchell,FG_ASSISTED,Joe Ingles,9:09,3,Jazz,Warriors,62 - 64,1,25,3,Jumper
+30,Klay Thompson,FG_UNASSISTED,None,8:55,3,Warriors,Jazz,64 - 64,0,20,2,Jumper
+31,Rudy Gobert,TURNOVER,Draymond Green,8:37,3,Jazz,Warriors,64 - 64,1,N/A,N/A,N/A
+32,Donovan Mitchell,FOUL_ON_FLOOR,None,8:36,3,Jazz,Warriors,64 - 64,1,N/A,N/A,N/A
+33,Kevin Durant,FG_MISS,None,8:28,3,Warriors,Jazz,64 - 64,0, ,2,Jumper
+34,Team,OFFENSIVE_REBOUND,None,8:28,3,Warriors,Jazz,64 - 64,0,N/A,N/A,N/A
+35,Klay Thompson,FG_MISS,None,8:19,3,Warriors,Jazz,64 - 64,0, ,2,Jumper
+36,Kevon Looney,OFFENSIVE_REBOUND,None,8:17,3,Warriors,Jazz,64 - 64,0,N/A,N/A,N/A
+37,Kevon Looney,FG_UNASSISTED,None,8:16,3,Warriors,Jazz,66 - 64,0,0,2,Dunk
+38,Derrick Favors,FG_MISS,None,8:07,3,Jazz,Warriors,66 - 64,1, ,3,Jumper
+39,Rudy Gobert,OFFENSIVE_REBOUND,None,8:05,3,Jazz,Warriors,66 - 64,1,N/A,N/A,N/A
+40,Kevon Looney,FOUL_ON_FLOOR,None,8:05,3,Warriors,Jazz,66 - 64,0,N/A,N/A,N/A
+41,Rudy Gobert,FT,None,8:05,3,Jazz,Warriors,66 - 65,1,N/A,1,N/A
+42,Rudy Gobert,FT,None,8:05,3,Jazz,Warriors,66 - 66,1,N/A,1,N/A
+43,Klay Thompson,FG_MISS,Donovan Mitchell,7:55,3,Jazz,Warriors,66 - 66,0,25,3,Jumper
+44,Team,OFFENSIVE_REBOUND,None,7:55,3,Warriors,Jazz,66 - 66,0,N/A,N/A,N/A
+45,Klay Thompson,FG_MISS,None,7:50,3,Warriors,Jazz,66 - 66,0,18,2,Jumper
+46,Derrick Favors,DEFENSIVE_REBOUND,None,7:46,3,Jazz,Warriors,66 - 66,1,N/A,N/A,N/A
+47,Donovan Mitchell,FG_MISS,None,7:41,3,Jazz,Warriors,66 - 66,1,24,3,Jumper
+48,Draymond Green,DEFENSIVE_REBOUND,None,7:37,3,Warriors,Jazz,66 - 66,0,N/A,N/A,N/A
+49,Kevin Durant,FG_MISS,None,7:31,3,Warriors,Jazz,66 - 66,0,12,2,Jumper
+50,Kevin Durant,OFFENSIVE_REBOUND,None,7:29,3,Warriors,Jazz,66 - 66,0,N/A,N/A,N/A
+51,Kevin Durant,FG_UNASSISTED,None,7:28,3,Warriors,Jazz,68 - 66,0,11,2,Jumper
+52,Ricky Rubio,FG_MISS,None,7:07,3,Jazz,Warriors,68 - 66,1,25,3,Jumper
+53,Draymond Green,DEFENSIVE_REBOUND,None,7:04,3,Warriors,Jazz,68 - 66,0,N/A,N/A,N/A
+54,Draymond Green,FG_MISS,Rudy Gobert,6:46,3,Jazz,Warriors,68 - 66,0,0,2,Layup
+55,Joe Ingles,DEFENSIVE_REBOUND,None,6:44,3,Jazz,Warriors,68 - 66,1,N/A,N/A,N/A
+56,Donovan Mitchell,FG_MISS,None,6:37,3,Jazz,Warriors,68 - 66,1, ,2,Jumper
+57,Team,Unknown,None,6:36,3,Jazz,Warriors,68 - 66,1,N/A,N/A,N/A
+58,Jae Crowder,SUBSTITUTION,Ingles Joe,6:36,3,Jazz,Warriors,68 - 66,1,N/A,N/A,N/A
+59,Kyle Korver,SUBSTITUTION,Favors Derrick,6:36,3,Jazz,Warriors,68 - 66,1,N/A,N/A,N/A
+60,Jonas Jerebko,SUBSTITUTION,Looney Kevon,6:36,3,Warriors,Jazz,68 - 66,0,N/A,N/A,N/A
+61,Team,DEFENSIVE_REBOUND,None,6:36,3,Warriors,Jazz,68 - 66,0,N/A,N/A,N/A
+62,Stephen Curry,JUMP_BALL,None,6:33,3,Warriors,Jazz,68 - 66,0,N/A,N/A,N/A
+63,Jonas Jerebko,FG_MISS,None,6:11,3,Warriors,Jazz,68 - 66,0,10,2,Jumper
+64,Ricky Rubio,DEFENSIVE_REBOUND,None,6:08,3,Jazz,Warriors,68 - 66,1,N/A,N/A,N/A
+65,Jae Crowder,FG_ASSISTED,Kyle Korver,6:02,3,Jazz,Warriors,68 - 69,1,25,3,Jumper
+66,Draymond Green,FG_MISS,None,5:44,3,Warriors,Jazz,68 - 69,0,0,2,Layup
+67,Donovan Mitchell,DEFENSIVE_REBOUND,None,5:42,3,Jazz,Warriors,68 - 69,1,N/A,N/A,N/A
+68,Donovan Mitchell,FG_MISS,None,5:26,3,Jazz,Warriors,68 - 69,1, ,2,Jumper
+69,Draymond Green,DEFENSIVE_REBOUND,None,5:23,3,Warriors,Jazz,68 - 69,0,N/A,N/A,N/A
+70,Jae Crowder,FOUL_ON_FLOOR,None,5:20,3,Jazz,Warriors,68 - 69,1,N/A,N/A,N/A
+71,Klay Thompson,FT,None,5:20,3,Warriors,Jazz,69 - 69,0,N/A,1,N/A
+72,Joe Ingles,SUBSTITUTION,Mitchell Donovan,5:20,3,Jazz,Warriors,69 - 69,1,N/A,N/A,N/A
+73,Klay Thompson,FT,None,5:20,3,Warriors,Jazz,70 - 69,0,N/A,1,N/A
+74,Kyle Korver,FG_ASSISTED,Rudy Gobert,5:08,3,Jazz,Warriors,70 - 72,1,26,3,Jumper
+75,Stephen Curry,FG_UNASSISTED,None,4:55,3,Warriors,Jazz,72 - 72,0,14,2,Jumper
+76,Joe Ingles,FG_ASSISTED,Ricky Rubio,4:43,3,Jazz,Warriors,72 - 75,1,26,3,Jumper
+77,Draymond Green,FG_MISS,Rudy Gobert,4:28,3,Jazz,Warriors,72 - 75,0,0,2,Layup
+78,Jae Crowder,DEFENSIVE_REBOUND,None,4:25,3,Jazz,Warriors,72 - 75,1,N/A,N/A,N/A
+79,Ricky Rubio,FG_MISS,None,4:09,3,Jazz,Warriors,72 - 75,1,15,2,Jumper
+80,Kevin Durant,DEFENSIVE_REBOUND,None,4:05,3,Warriors,Jazz,72 - 75,0,N/A,N/A,N/A
+81,Kevin Durant,FG_UNASSISTED,None,4:00,3,Warriors,Jazz,74 - 75,0,16,2,Jumper
+82,Draymond Green,FOUL_ON_FLOOR,None,3:44,3,Warriors,Jazz,74 - 75,0,N/A,N/A,N/A
+83,Derrick Favors,SUBSTITUTION,Rubio Ricky,3:44,3,Jazz,Warriors,74 - 75,1,N/A,N/A,N/A
+84,Dante Exum,SUBSTITUTION,Gobert Rudy,3:44,3,Jazz,Warriors,74 - 75,1,N/A,N/A,N/A
+85,Jordan Bell,SUBSTITUTION,Green Draymond,3:44,3,Warriors,Jazz,74 - 75,0,N/A,N/A,N/A
+86,Shaun Livingston,SUBSTITUTION,Curry Stephen,3:44,3,Warriors,Jazz,74 - 75,0,N/A,N/A,N/A
+87,Derrick Favors,TURNOVER,None,3:39,3,Jazz,Warriors,74 - 75,1,N/A,N/A,N/A
+88,Kevin Durant,TURNOVER,Jae Crowder,3:20,3,Warriors,Jazz,74 - 75,0,N/A,N/A,N/A
+89,Jae Crowder,FG_ASSISTED,Dante Exum,3:12,3,Jazz,Warriors,74 - 78,1,26,3,Jumper
+90,Klay Thompson,FG_ASSISTED,Shaun Livingston,2:56,3,Warriors,Jazz,76 - 78,0,15,2,Jumper
+91,Kyle Korver,FG_ASSISTED,Joe Ingles,2:49,3,Jazz,Warriors,76 - 81,1,25,3,Jumper
+92,Team,Unknown,None,2:39,3,Warriors,Jazz,76 - 81,0,N/A,N/A,N/A
+93,Klay Thompson,FG_MISS,None,2:35,3,Warriors,Jazz,76 - 81,0,25,3,Jumper
+94,Team,DEFENSIVE_REBOUND,None,2:34,3,Jazz,Warriors,76 - 81,1,N/A,N/A,N/A
+95,Jae Crowder,FG_MISS,None,2:20,3,Jazz,Warriors,76 - 81,1,29,3,Jumper
+96,Jonas Jerebko,DEFENSIVE_REBOUND,None,2:17,3,Warriors,Jazz,76 - 81,0,N/A,N/A,N/A
+97,Kevin Durant,FG_MISS,None,2:12,3,Warriors,Jazz,76 - 81,0,26,3,Jumper
+98,Jae Crowder,DEFENSIVE_REBOUND,None,2:09,3,Jazz,Warriors,76 - 81,1,N/A,N/A,N/A
+99,Jae Crowder,FG_MISS,None,1:52,3,Jazz,Warriors,76 - 81,1,23,3,Jumper
+100,Jordan Bell,DEFENSIVE_REBOUND,None,1:47,3,Warriors,Jazz,76 - 81,0,N/A,N/A,N/A
+101,Klay Thompson,FG_MISS,None,1:38,3,Warriors,Jazz,76 - 81,0,16,2,Jumper
+102,Derrick Favors,DEFENSIVE_REBOUND,None,1:35,3,Jazz,Warriors,76 - 81,1,N/A,N/A,N/A
+103,Joe Ingles,FG_MISS,Shaun Livingston,1:16,3,Warriors,Jazz,76 - 81,1,9,2,Jumper
+104,Shaun Livingston,DEFENSIVE_REBOUND,None,1:14,3,Warriors,Jazz,76 - 81,0,N/A,N/A,N/A
+105,Kevin Durant,FG_ASSISTED,Shaun Livingston,1:10,3,Warriors,Jazz,78 - 81,0,0,2,Layup
+106,Jae Crowder,FG_ASSISTED,Kyle Korver,48.0,3,Jazz,Warriors,78 - 84,1,25,3,Jumper
+107,Kevin Durant,TURNOVER,Kyle Korver,36.3,3,Warriors,Jazz,78 - 84,0,N/A,N/A,N/A
+108,Kyle Korver,FG_MISS,None,32.8,3,Jazz,Warriors,78 - 84,1,26,3,Jumper
+109,Jonas Jerebko,DEFENSIVE_REBOUND,None,29.5,3,Warriors,Jazz,78 - 84,0,N/A,N/A,N/A
+110,Jordan Bell,FG_MISS,Derrick Favors,13.0,3,Jazz,Warriors,78 - 84,0,0,2,Layup
+111,Klay Thompson,OFFENSIVE_REBOUND,None,10.6,3,Warriors,Jazz,78 - 84,0,N/A,N/A,N/A
+112,Shaun Livingston,FG_ASSISTED,Klay Thompson,8.2,3,Warriors,Jazz,80 - 84,0,11,2,Jumper
+113,Joe Ingles,FG_MISS,None,0.0,3,Jazz,Warriors,80 - 84,1,26,3,Jumper
+114,Team,OFFENSIVE_REBOUND,None,0.0,3,Jazz,Warriors,80 - 84,1,N/A,N/A,N/A
+115,End of,Unknown,None,0.0,3,Jazz,Warriors,80 - 84,1,N/A,N/A,N/A
+0,Donovan Mitchell,SUBSTITUTION,Ingles Joe,12:00,4,Jazz,Warriors,80 - 84,1,N/A,N/A,N/A
+1,Andre Iguodala,SUBSTITUTION,Thompson Klay,12:00,4,Warriors,Jazz,80 - 84,0,N/A,N/A,N/A
+2,Stephen Curry,SUBSTITUTION,Durant Kevin,12:00,4,Warriors,Jazz,80 - 84,0,N/A,N/A,N/A
+3,Dante Exum,FG_ASSISTED,Donovan Mitchell,11:44,4,Jazz,Warriors,80 - 86,1,0,2,Dunk
+4,Stephen Curry,FG_MISS,None,11:28,4,Warriors,Jazz,80 - 86,0, ,2,Jumper
+5,Jae Crowder,DEFENSIVE_REBOUND,None,11:26,4,Jazz,Warriors,80 - 86,1,N/A,N/A,N/A
+6,Derrick Favors,FG_ASSISTED,Donovan Mitchell,11:15,4,Jazz,Warriors,80 - 88,1,0,2,Dunk
+7,Team,Unknown,None,11:10,4,Warriors,Jazz,80 - 88,0,N/A,N/A,N/A
+8,Draymond Green,SUBSTITUTION,Bell Jordan,11:10,4,Warriors,Jazz,80 - 88,0,N/A,N/A,N/A
+9,Shaun Livingston,FG_MISS,None,10:59,4,Warriors,Jazz,80 - 88,0,12,2,Jumper
+10,Donovan Mitchell,DEFENSIVE_REBOUND,None,10:57,4,Jazz,Warriors,80 - 88,1,N/A,N/A,N/A
+11,Dante Exum,FG_ASSISTED,Kyle Korver,10:36,4,Jazz,Warriors,80 - 90,1,0,2,Layup
+12,Andre Iguodala,FG_MISS,None,10:27,4,Warriors,Jazz,80 - 90,0,23,3,Jumper
+13,Dante Exum,DEFENSIVE_REBOUND,None,10:25,4,Jazz,Warriors,80 - 90,1,N/A,N/A,N/A
+14,Donovan Mitchell,FG_MISS,None,10:20,4,Jazz,Warriors,80 - 90,1,27,3,Jumper
+15,Draymond Green,DEFENSIVE_REBOUND,None,10:15,4,Warriors,Jazz,80 - 90,0,N/A,N/A,N/A
+16,Shaun Livingston,FG_MISS,None,10:10,4,Warriors,Jazz,80 - 90,0, ,2,Jumper
+17,Derrick Favors,DEFENSIVE_REBOUND,None,10:07,4,Jazz,Warriors,80 - 90,1,N/A,N/A,N/A
+18,Andre Iguodala,FOUL_ON_FLOOR,None,10:03,4,Warriors,Jazz,80 - 90,0,N/A,N/A,N/A
+19,Derrick Favors,TURNOVER,Stephen Curry,9:57,4,Jazz,Warriors,80 - 90,1,N/A,N/A,N/A
+20,Shaun Livingston,FG_MISS,None,9:51,4,Warriors,Jazz,80 - 90,0,0,2,Layup
+21,Jae Crowder,DEFENSIVE_REBOUND,None,9:49,4,Jazz,Warriors,80 - 90,1,N/A,N/A,N/A
+22,Donovan Mitchell,FG_MISS,None,9:47,4,Jazz,Warriors,80 - 90,1,27,3,Jumper
+23,Stephen Curry,DEFENSIVE_REBOUND,None,9:42,4,Warriors,Jazz,80 - 90,0,N/A,N/A,N/A
+24,Stephen Curry,FG_UNASSISTED,None,9:37,4,Warriors,Jazz,82 - 90,0,0,2,Layup
+25,Team,Unknown,None,9:27,4,Jazz,Warriors,82 - 90,1,N/A,N/A,N/A
+26,Joe Ingles,SUBSTITUTION,Korver Kyle,9:27,4,Jazz,Warriors,82 - 90,1,N/A,N/A,N/A
+27,Royce O'Neale,SUBSTITUTION,Crowder Jae,9:27,4,Jazz,Warriors,82 - 90,1,N/A,N/A,N/A
+28,Joe Ingles,FG_ASSISTED,Donovan Mitchell,9:14,4,Jazz,Warriors,82 - 93,1,25,3,Jumper
+29,Stephen Curry,FG_ASSISTED,Jonas Jerebko,8:53,4,Warriors,Jazz,84 - 93,0,0,2,Layup
+30,Donovan Mitchell,FG_MISS,None,8:44,4,Jazz,Warriors,84 - 93,1,27,3,Jumper
+31,Andre Iguodala,DEFENSIVE_REBOUND,None,8:40,4,Warriors,Jazz,84 - 93,0,N/A,N/A,N/A
+32,Stephen Curry,TURNOVER,None,8:29,4,Warriors,Jazz,84 - 93,0,N/A,N/A,N/A
+33,Royce O'Neale,FG_MISS,None,8:07,4,Jazz,Warriors,84 - 93,1,25,3,Jumper
+34,Derrick Favors,OFFENSIVE_REBOUND,None,8:03,4,Jazz,Warriors,84 - 93,1,N/A,N/A,N/A
+35,Ricky Rubio,SUBSTITUTION,Exum Dante,7:51,4,Jazz,Warriors,84 - 93,1,N/A,N/A,N/A
+36,Alfonzo McKinnie,SUBSTITUTION,Livingston Shaun,7:51,4,Warriors,Jazz,84 - 93,0,N/A,N/A,N/A
+37,Donovan Mitchell,FG_MISS,None,7:48,4,Jazz,Warriors,84 - 93,1,25,3,Jumper
+38,Andre Iguodala,DEFENSIVE_REBOUND,None,7:45,4,Warriors,Jazz,84 - 93,0,N/A,N/A,N/A
+39,Jonas Jerebko,FG_MISS,None,7:36,4,Warriors,Jazz,84 - 93,0,24,3,Jumper
+40,Derrick Favors,DEFENSIVE_REBOUND,None,7:33,4,Jazz,Warriors,84 - 93,1,N/A,N/A,N/A
+41,Royce O'Neale's,FG_MISS,Jonas Jerebko,7:22,4,Warriors,Jazz,84 - 93,1,0,2,Layup
+42,Derrick Favors,OFFENSIVE_REBOUND,None,7:18,4,Jazz,Warriors,84 - 93,1,N/A,N/A,N/A
+43,Derrick Favors,FG_UNASSISTED,None,7:18,4,Jazz,Warriors,84 - 95,1, ,2,Jumper
+44,Jonas Jerebko,FG_ASSISTED,Stephen Curry,7:11,4,Warriors,Jazz,87 - 95,0,26,3,Jumper
+45,Stephen Curry,FOUL_ON_FLOOR,None,6:46,4,Warriors,Jazz,87 - 95,0,N/A,N/A,N/A
+46,Rudy Gobert,SUBSTITUTION,Favors Derrick,6:46,4,Jazz,Warriors,87 - 95,1,N/A,N/A,N/A
+47,Kyle Korver,SUBSTITUTION,O'Neale Royce,6:46,4,Jazz,Warriors,87 - 95,1,N/A,N/A,N/A
+48,Jae Crowder,SUBSTITUTION,Mitchell Donovan,6:46,4,Jazz,Warriors,87 - 95,1,N/A,N/A,N/A
+49,Kevin Durant,SUBSTITUTION,Iguodala Andre,6:46,4,Warriors,Jazz,87 - 95,0,N/A,N/A,N/A
+50,Klay Thompson,SUBSTITUTION,Jerebko Jonas,6:46,4,Warriors,Jazz,87 - 95,0,N/A,N/A,N/A
+51,Joe Ingles,FG_ASSISTED,Ricky Rubio,6:40,4,Jazz,Warriors,87 - 98,1,25,3,Jumper
+52,Rudy Gobert,Unknown,None,6:28,4,Jazz,Warriors,87 - 98,1,N/A,N/A,N/A
+53,Kevin Durant,FG_UNASSISTED,None,6:19,4,Warriors,Jazz,89 - 98,0,16,2,Jumper
+54,Joe Ingles,TURNOVER,Alfonzo McKinnie,6:01,4,Jazz,Warriors,89 - 98,1,N/A,N/A,N/A
+55,Alfonzo McKinnie,FG_ASSISTED,Klay Thompson,5:55,4,Warriors,Jazz,91 - 98,0,0,2,Dunk
+56,Rudy Gobert,FG_MISS,None,5:36,4,Jazz,Warriors,91 - 98,1,7,2,Jumper
+57,Draymond Green,DEFENSIVE_REBOUND,None,5:34,4,Warriors,Jazz,91 - 98,0,N/A,N/A,N/A
+58,Stephen Curry,FG_MISS,None,5:29,4,Warriors,Jazz,91 - 98,0,0,2,Layup
+59,Ricky Rubio,DEFENSIVE_REBOUND,None,5:28,4,Jazz,Warriors,91 - 98,1,N/A,N/A,N/A
+60,Ricky Rubio,FG_MISS,None,5:22,4,Jazz,Warriors,91 - 98,1,0,2,Layup
+61,Team,DEFENSIVE_REBOUND,None,5:22,4,Warriors,Jazz,91 - 98,0,N/A,N/A,N/A
+62,Rudy Gobert,FOUL_ON_FLOOR,None,5:22,4,Jazz,Warriors,91 - 98,1,N/A,N/A,N/A
+63,Kevin Durant,FG_UNASSISTED,None,5:11,4,Warriors,Jazz,94 - 98,0,26,3,Jumper
+64,Alfonzo McKinnie,FOUL_ON_FLOOR,None,4:58,4,Warriors,Jazz,94 - 98,0,N/A,N/A,N/A
+65,Donovan Mitchell,SUBSTITUTION,Korver Kyle,4:58,4,Jazz,Warriors,94 - 98,1,N/A,N/A,N/A
+66,Rudy Gobert,FG_ASSISTED,Ricky Rubio,4:48,4,Jazz,Warriors,94 - 100,1,0,2,Dunk
+67,Alfonzo McKinnie,FG_ASSISTED,Stephen Curry,4:32,4,Warriors,Jazz,96 - 100,0,0,2,Dunk
+68,Ricky Rubio,TURNOVER,None,4:15,4,Jazz,Warriors,96 - 100,1,N/A,N/A,N/A
+69,Kevin Durant,FG_UNASSISTED,None,4:05,4,Warriors,Jazz,98 - 100,0,14,2,Jumper
+70,Rudy Gobert,FG_MISS,None,3:47,4,Jazz,Warriors,98 - 100,1,0,2,Layup
+71,Klay Thompson,DEFENSIVE_REBOUND,None,3:45,4,Warriors,Jazz,98 - 100,0,N/A,N/A,N/A
+72,Ricky Rubio,FOUL_ON_FLOOR,None,3:36,4,Jazz,Warriors,98 - 100,1,N/A,N/A,N/A
+73,Team,Unknown,None,3:36,4,Warriors,Jazz,98 - 100,0,N/A,N/A,N/A
+74,Stephen Curry,FG_MISS,None,3:24,4,Warriors,Jazz,98 - 100,0,26,3,Jumper
+75,Rudy Gobert,DEFENSIVE_REBOUND,None,3:22,4,Jazz,Warriors,98 - 100,1,N/A,N/A,N/A
+76,Rudy Gobert,FG_ASSISTED,Ricky Rubio,3:09,4,Jazz,Warriors,98 - 102,1,0,2,Dunk
+77,Jae Crowder,FOUL_ON_FLOOR,None,3:02,4,Jazz,Warriors,98 - 102,1,N/A,N/A,N/A
+78,Draymond Green,FG_MISS,Rudy Gobert,2:50,4,Jazz,Warriors,98 - 102,0,0,2,Layup
+79,Alfonzo McKinnie,OFFENSIVE_REBOUND,None,2:49,4,Warriors,Jazz,98 - 102,0,N/A,N/A,N/A
+80,Alfonzo McKinnie,FG_MISS,None,2:49,4,Warriors,Jazz,98 - 102,0,3,2,Jumper
+81,Jae Crowder,DEFENSIVE_REBOUND,None,2:49,4,Jazz,Warriors,98 - 102,1,N/A,N/A,N/A
+82,Joe Ingles,FG_ASSISTED,Ricky Rubio,2:42,4,Jazz,Warriors,98 - 104,1,0,2,Layup
+83,Alfonzo McKinnie,FG_MISS,None,2:23,4,Warriors,Jazz,98 - 104,0,25,3,Jumper
+84,Rudy Gobert,DEFENSIVE_REBOUND,None,2:18,4,Jazz,Warriors,98 - 104,1,N/A,N/A,N/A
+85,Donovan Mitchell,TURNOVER,None,2:10,4,Jazz,Warriors,98 - 104,1,N/A,N/A,N/A
+86,Stephen Curry,FG_UNASSISTED,None,2:00,4,Warriors,Jazz,100 - 104,0,1,2,Jumper
+87,Klay Thompson,FOUL_ON_FLOOR,None,1:36,4,Warriors,Jazz,100 - 104,0,N/A,N/A,N/A
+88,Donovan Mitchell,FT,None,1:36,4,Jazz,Warriors,100 - 105,1,N/A,1,N/A
+89,Donovan Mitchell,FT_MISS,None,1:36,4,Jazz,Warriors,100 - 105,1,N/A,1,N/A
+90,Team,OFFENSIVE_REBOUND,None,1:36,4,Jazz,Warriors,100 - 105,1,N/A,N/A,N/A
+91,Donovan Mitchell,FT,None,1:36,4,Jazz,Warriors,100 - 106,1,N/A,1,N/A
+92,Stephen Curry,FG_MISS,None,1:31,4,Warriors,Jazz,100 - 106,0,26,3,Jumper
+93,Rudy Gobert,DEFENSIVE_REBOUND,None,1:28,4,Jazz,Warriors,100 - 106,1,N/A,N/A,N/A
+94,Joe Ingles,FG_MISS,None,1:22,4,Jazz,Warriors,100 - 106,1,26,3,Jumper
+95,Klay Thompson,DEFENSIVE_REBOUND,None,1:18,4,Warriors,Jazz,100 - 106,0,N/A,N/A,N/A
+96,Kevin Durant,FG_UNASSISTED,None,1:13,4,Warriors,Jazz,103 - 106,0,27,2,Jumper
+97,Donovan Mitchell,FG_MISS,None,55.5,4,Jazz,Warriors,103 - 106,1,26,3,Jumper
+98,Klay Thompson,DEFENSIVE_REBOUND,None,52.5,4,Warriors,Jazz,103 - 106,0,N/A,N/A,N/A
+99,Kevin Durant,FG_MISS,None,39.9,4,Warriors,Jazz,103 - 106,0,24,2,Jumper
+100,Donovan Mitchell,DEFENSIVE_REBOUND,None,37.9,4,Jazz,Warriors,103 - 106,1,N/A,N/A,N/A
+101,Donovan Mitchell,TURNOVER,None,17.6,4,Jazz,Warriors,103 - 106,1,N/A,N/A,N/A
+102,Team,Unknown,None,17.6,4,Warriors,Jazz,103 - 106,0,N/A,N/A,N/A
+103,Andre Iguodala,SUBSTITUTION,McKinnie Alfonzo,17.6,4,Warriors,Jazz,103 - 106,0,N/A,N/A,N/A
+104,Andre Iguodala,FG_MISS,None,7.8,4,Warriors,Jazz,103 - 106,0,25,3,Jumper
+105,Stephen Curry,OFFENSIVE_REBOUND,None,4.4,4,Warriors,Jazz,103 - 106,0,N/A,N/A,N/A
+106,Team,Unknown,None,2.8,4,Jazz,Warriors,103 - 106,1,N/A,N/A,N/A
+107,Stephen Curry,TURNOVER,None,2.8,4,Warriors,Jazz,103 - 106,0,N/A,N/A,N/A
+108,Andre Iguodala,FOUL_ON_FLOOR,None,2.4,4,Warriors,Jazz,103 - 106,0,N/A,N/A,N/A
+109,Donovan Mitchell,FT,None,2.4,4,Jazz,Warriors,103 - 107,1,N/A,1,N/A
+110,Donovan Mitchell,FT,None,2.4,4,Jazz,Warriors,103 - 108,1,N/A,1,N/A
+111,End of,Unknown,None,0.0,4,Jazz,Warriors,103 - 108,1,N/A,N/A,N/A
+112,End of,Unknown,None,0.0,4,Jazz,Warriors,103 - 108,1,N/A,N/A,N/A

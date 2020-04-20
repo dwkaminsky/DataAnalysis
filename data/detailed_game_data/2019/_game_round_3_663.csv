@@ -1,0 +1,460 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Thomas Bryant,JUMP_BALL,None,12:00,1,Pacers,Wizards,0 - 0,1,N/A,N/A,N/A
+1,Thomas Bryant,FOUL_ON_FLOOR,None,11:37,1,Wizards,Pacers,0 - 0,0,N/A,N/A,N/A
+2,Bojan Bogdanovic,FG_UNASSISTED,None,11:25,1,Pacers,Wizards,0 - 3,1,26,2,Jumper
+3,Jeff Green,FG_MISS,None,11:05,1,Wizards,Pacers,0 - 3,0,0,2,Layup
+4,Jeff Green,OFFENSIVE_REBOUND,None,11:02,1,Wizards,Pacers,0 - 3,0,N/A,N/A,N/A
+5,Jeff Green,FG_UNASSISTED,None,11:02,1,Wizards,Pacers,2 - 3,0,-,2,Jumper
+6,Darren Collison,FG_UNASSISTED,None,10:49,1,Pacers,Wizards,2 - 5,1,3,2,Jumper
+7,Thomas Bryant,FG_MISS,None,10:41,1,Wizards,Pacers,2 - 5,0,0,2,Layup
+8,Myles Turner,DEFENSIVE_REBOUND,None,10:39,1,Pacers,Wizards,2 - 5,1,N/A,N/A,N/A
+9,Darren Collison,FG_MISS,None,10:32,1,Pacers,Wizards,2 - 5,1,26,3,Jumper
+10,John Wall,DEFENSIVE_REBOUND,None,10:29,1,Wizards,Pacers,2 - 5,0,N/A,N/A,N/A
+11,Trevor Ariza,FG_ASSISTED,John Wall,10:25,1,Wizards,Pacers,5 - 5,0,27,3,Jumper
+12,John Wall,FOUL_ON_FLOOR,None,10:11,1,Wizards,Pacers,5 - 5,0,N/A,N/A,N/A
+13,Thaddeus Young,FG_MISS,None,10:02,1,Pacers,Wizards,5 - 5,1,23,3,Jumper
+14,Bradley Beal,DEFENSIVE_REBOUND,None,9:59,1,Wizards,Pacers,5 - 5,0,N/A,N/A,N/A
+15,Thomas Bryant,FG_MISS,Darren Collison,9:50,1,Pacers,Wizards,5 - 5,0,0,2,Layup
+16,Darren Collison,DEFENSIVE_REBOUND,None,9:48,1,Pacers,Wizards,5 - 5,1,N/A,N/A,N/A
+17,Bojan Bogdanovic,FG_ASSISTED,Victor Oladipo,9:45,1,Pacers,Wizards,5 - 7,1,0,2,Layup
+18,Bradley Beal,FG_MISS,None,9:34,1,Wizards,Pacers,5 - 7,0,15,2,Jumper
+19,Myles Turner,DEFENSIVE_REBOUND,None,9:31,1,Pacers,Wizards,5 - 7,1,N/A,N/A,N/A
+20,Thaddeus Young,FG_MISS,None,9:20,1,Pacers,Wizards,5 - 7,1,0,2,Layup
+21,Thomas Bryant,DEFENSIVE_REBOUND,None,9:19,1,Wizards,Pacers,5 - 7,0,N/A,N/A,N/A
+22,Bradley Beal,FG_MISS,None,9:12,1,Wizards,Pacers,5 - 7,0,8,2,Jumper
+23,Myles Turner,DEFENSIVE_REBOUND,None,9:09,1,Pacers,Wizards,5 - 7,1,N/A,N/A,N/A
+24,Darren Collison,FG_MISS,None,9:03,1,Pacers,Wizards,5 - 7,1,16,2,Jumper
+25,Trevor Ariza,DEFENSIVE_REBOUND,None,9:00,1,Wizards,Pacers,5 - 7,0,N/A,N/A,N/A
+26,Victor Oladipo,FOUL_ON_FLOOR,None,8:46,1,Pacers,Wizards,5 - 7,1,N/A,N/A,N/A
+27,Jeff Green,FG_ASSISTED,Bradley Beal,8:35,1,Wizards,Pacers,7 - 7,0,21,2,Jumper
+28,Myles Turner,FG_MISS,None,8:17,1,Pacers,Wizards,7 - 7,1,19,2,Jumper
+29,Team,DEFENSIVE_REBOUND,None,8:14,1,Wizards,Pacers,7 - 7,0,N/A,N/A,N/A
+30,Jeff Green,FG_ASSISTED,John Wall,8:03,1,Wizards,Pacers,10 - 7,0,24,3,Jumper
+31,Bojan Bogdanovic,FG_MISS,None,7:41,1,Pacers,Wizards,10 - 7,1,24,3,Jumper
+32,John Wall,DEFENSIVE_REBOUND,None,7:38,1,Wizards,Pacers,10 - 7,0,N/A,N/A,N/A
+33,Thaddeus Young,FOUL_ON_FLOOR,None,7:28,1,Pacers,Wizards,10 - 7,1,N/A,N/A,N/A
+34,Thomas Bryant,FT,None,7:28,1,Wizards,Pacers,11 - 7,0,N/A,1,N/A
+35,Thomas Bryant,FT,None,7:28,1,Wizards,Pacers,12 - 7,0,N/A,1,N/A
+36,Bojan Bogdanovic,FG_UNASSISTED,None,7:14,1,Pacers,Wizards,12 - 10,1,27,2,Jumper
+37,Jeff Green,FG_MISS,None,7:00,1,Wizards,Pacers,12 - 10,0,24,3,Jumper
+38,Victor Oladipo,DEFENSIVE_REBOUND,None,6:56,1,Pacers,Wizards,12 - 10,1,N/A,N/A,N/A
+39,Myles Turner,FG_MISS,None,6:48,1,Pacers,Wizards,12 - 10,1,0,2,Layup
+40,Thomas Bryant,DEFENSIVE_REBOUND,None,6:46,1,Wizards,Pacers,12 - 10,0,N/A,N/A,N/A
+41,John Wall,FG_MISS,None,6:40,1,Wizards,Pacers,12 - 10,0,28,3,Jumper
+42,Victor Oladipo,DEFENSIVE_REBOUND,None,6:38,1,Pacers,Wizards,12 - 10,1,N/A,N/A,N/A
+43,Myles Turner,FG_MISS,None,6:28,1,Pacers,Wizards,12 - 10,1, ,2,Jumper
+44,Thomas Bryant,DEFENSIVE_REBOUND,None,6:24,1,Wizards,Pacers,12 - 10,0,N/A,N/A,N/A
+45,Bradley Beal,FG_MISS,None,6:15,1,Wizards,Pacers,12 - 10,0,28,3,Jumper
+46,Myles Turner,DEFENSIVE_REBOUND,None,6:13,1,Pacers,Wizards,12 - 10,1,N/A,N/A,N/A
+47,Darren Collison,TURNOVER,Trevor Ariza,6:05,1,Pacers,Wizards,12 - 10,1,N/A,N/A,N/A
+48,Bojan Bogdanovic,FOUL_ON_FLOOR,None,6:04,1,Pacers,Wizards,12 - 10,1,N/A,N/A,N/A
+49,Team,Unknown,None,6:04,1,Pacers,Wizards,12 - 10,1,N/A,N/A,N/A
+50,Thomas Bryant,FG_ASSISTED,Bradley Beal,5:43,1,Wizards,Pacers,14 - 10,0,0,2,Dunk
+51,Myles Turner,FG_MISS,None,5:29,1,Pacers,Wizards,14 - 10,1,17,2,Jumper
+52,Thaddeus Young,OFFENSIVE_REBOUND,None,5:25,1,Pacers,Wizards,14 - 10,1,N/A,N/A,N/A
+53,Thaddeus Young,FG_MISS,None,5:25,1,Pacers,Wizards,14 - 10,1, ,2,Jumper
+54,Jeff Green,DEFENSIVE_REBOUND,None,5:25,1,Wizards,Pacers,14 - 10,0,N/A,N/A,N/A
+55,John Wall,TURNOVER,None,5:19,1,Wizards,Pacers,14 - 10,0,N/A,N/A,N/A
+56,Darren Collison,FG_MISS,None,5:06,1,Pacers,Wizards,14 - 10,1,23,3,Jumper
+57,Trevor Ariza,DEFENSIVE_REBOUND,None,5:02,1,Wizards,Pacers,14 - 10,0,N/A,N/A,N/A
+58,Darren Collison,FOUL_ON_FLOOR,None,4:58,1,Pacers,Wizards,14 - 10,1,N/A,N/A,N/A
+59,Domantas Sabonis,SUBSTITUTION,Young Thaddeus,4:58,1,Pacers,Wizards,14 - 10,1,N/A,N/A,N/A
+60,Markieff Morris,SUBSTITUTION,Beal Bradley,4:58,1,Wizards,Pacers,14 - 10,0,N/A,N/A,N/A
+61,Tomas Satoransky,SUBSTITUTION,Bryant Thomas,4:58,1,Wizards,Pacers,14 - 10,0,N/A,N/A,N/A
+62,Tomas Satoransky,TURNOVER,None,4:55,1,Wizards,Pacers,14 - 10,0,N/A,N/A,N/A
+63,Bojan Bogdanovic,TURNOVER,None,4:44,1,Pacers,Wizards,14 - 10,1,N/A,N/A,N/A
+64,John Wall,TURNOVER,Darren Collison,4:31,1,Wizards,Pacers,14 - 10,0,N/A,N/A,N/A
+65,Darren Collison,FG_ASSISTED,Bojan Bogdanovic,4:28,1,Pacers,Wizards,14 - 12,1,0,2,Layup
+66,Markieff Morris,FG_ASSISTED,Jeff Green,4:16,1,Wizards,Pacers,16 - 12,0,0,2,Layup
+67,Domantas Sabonis,FOUL_ON_FLOOR,None,4:16,1,Pacers,Wizards,16 - 12,1,N/A,N/A,N/A
+68,Cory Joseph,SUBSTITUTION,Bogdanovic Bojan,4:16,1,Pacers,Wizards,16 - 12,1,N/A,N/A,N/A
+69,Markieff Morris,FT,None,4:16,1,Wizards,Pacers,17 - 12,0,N/A,1,N/A
+70,Myles Turner,FG_UNASSISTED,None,3:55,1,Pacers,Wizards,17 - 14,1, ,2,Jumper
+71,John Wall,TURNOVER,None,3:41,1,Wizards,Pacers,17 - 14,0,N/A,N/A,N/A
+72,Doug McDermott,SUBSTITUTION,Collison Darren,3:41,1,Pacers,Wizards,17 - 14,1,N/A,N/A,N/A
+73,Ron Baker,SUBSTITUTION,Ariza Trevor,3:41,1,Wizards,Pacers,17 - 14,0,N/A,N/A,N/A
+74,Myles Turner,FG_ASSISTED,Cory Joseph,3:29,1,Pacers,Wizards,17 - 17,1,28,3,Jumper
+75,Cory Joseph,FOUL_ON_FLOOR,None,3:14,1,Pacers,Wizards,17 - 17,1,N/A,N/A,N/A
+76,John Wall,FT,None,3:14,1,Wizards,Pacers,18 - 17,0,N/A,1,N/A
+77,John Wall,FT,None,3:14,1,Wizards,Pacers,19 - 17,0,N/A,1,N/A
+78,Domantas Sabonis,FG_ASSISTED,Victor Oladipo,3:03,1,Pacers,Wizards,19 - 19,1,0,2,Dunk
+79,Jeff Green,TURNOVER,Victor Oladipo,2:50,1,Wizards,Pacers,19 - 19,0,N/A,N/A,N/A
+80,Cory Joseph,FG_ASSISTED,Victor Oladipo,2:46,1,Pacers,Wizards,19 - 21,1,0,2,Layup
+81,Team,Unknown,None,2:45,1,Wizards,Pacers,19 - 21,0,N/A,N/A,N/A
+82,Sam Dekker,SUBSTITUTION,Green Jeff,2:45,1,Wizards,Pacers,19 - 21,0,N/A,N/A,N/A
+83,Markieff Morris,FG_ASSISTED,John Wall,2:34,1,Wizards,Pacers,21 - 21,0,0,2,Layup
+84,Domantas Sabonis,FG_ASSISTED,Victor Oladipo,2:22,1,Pacers,Wizards,21 - 23,1,0,2,Dunk
+85,Markieff Morris,FG_ASSISTED,John Wall,2:08,1,Wizards,Pacers,23 - 23,0,0,2,Layup
+86,Cory Joseph,FG_MISS,None,1:56,1,Pacers,Wizards,23 - 23,1,27,3,Jumper
+87,John Wall,DEFENSIVE_REBOUND,None,1:55,1,Wizards,Pacers,23 - 23,0,N/A,N/A,N/A
+88,Tomas Satoransky,FG_MISS,None,1:35,1,Wizards,Pacers,23 - 23,0,23,3,Jumper
+89,Domantas Sabonis,DEFENSIVE_REBOUND,None,1:31,1,Pacers,Wizards,23 - 23,1,N/A,N/A,N/A
+90,Doug McDermott,FG_MISS,None,1:25,1,Pacers,Wizards,23 - 23,1,27,3,Jumper
+91,Sam Dekker,DEFENSIVE_REBOUND,None,1:22,1,Wizards,Pacers,23 - 23,0,N/A,N/A,N/A
+92,Tomas Satoransky,FG_MISS,None,1:12,1,Wizards,Pacers,23 - 23,0,26,3,Jumper
+93,Doug McDermott,DEFENSIVE_REBOUND,None,1:09,1,Pacers,Wizards,23 - 23,1,N/A,N/A,N/A
+94,Tomas Satoransky,FOUL_ON_FLOOR,None,1:01,1,Wizards,Pacers,23 - 23,0,N/A,N/A,N/A
+95,Aaron Holiday,SUBSTITUTION,Oladipo Victor,1:01,1,Pacers,Wizards,23 - 23,1,N/A,N/A,N/A
+96,Thaddeus Young,SUBSTITUTION,Turner Myles,1:01,1,Pacers,Wizards,23 - 23,1,N/A,N/A,N/A
+97,Cory Joseph,FG_MISS,None,53.5,1,Pacers,Wizards,23 - 23,1, ,2,Jumper
+98,Cory Joseph,OFFENSIVE_REBOUND,None,51.1,1,Pacers,Wizards,23 - 23,1,N/A,N/A,N/A
+99,Cory Joseph,FG_UNASSISTED,None,42.8,1,Pacers,Wizards,23 - 25,1,4,2,Jumper
+100,Thaddeus Young,FOUL_ON_FLOOR,None,36.9,1,Pacers,Wizards,23 - 25,1,N/A,N/A,N/A
+101,John Wall,FT,None,36.9,1,Wizards,Pacers,24 - 25,0,N/A,1,N/A
+102,John Wall,FT,None,36.9,1,Wizards,Pacers,25 - 25,0,N/A,1,N/A
+103,Domantas Sabonis,FG_ASSISTED,Cory Joseph,29.3,1,Pacers,Wizards,25 - 27,1,20,2,Jumper
+104,John Wall,TURNOVER,None,10.5,1,Wizards,Pacers,25 - 27,0,N/A,N/A,N/A
+105,Cory Joseph,FG_MISS,None,3.1,1,Pacers,Wizards,25 - 27,1,11,2,Jumper
+106,Markieff Morris,DEFENSIVE_REBOUND,None,0.6,1,Wizards,Pacers,25 - 27,0,N/A,N/A,N/A
+107,End of,Unknown,None,0.0,1,Pacers,Wizards,25 - 27,1,N/A,N/A,N/A
+0,Chasson Randle,SUBSTITUTION,Wall John,12:00,2,Wizards,Pacers,25 - 27,0,N/A,N/A,N/A
+1,Markieff Morris,FG_MISS,None,11:44,2,Wizards,Pacers,25 - 27,0,0,2,Layup
+2,Domantas Sabonis,DEFENSIVE_REBOUND,None,11:43,2,Pacers,Wizards,25 - 27,1,N/A,N/A,N/A
+3,Doug McDermott,FG_ASSISTED,Thaddeus Young,11:31,2,Pacers,Wizards,25 - 29,1, ,2,Jumper
+4,Sam Dekker,FG_UNASSISTED,None,11:17,2,Wizards,Pacers,27 - 29,0,7,2,Jumper
+5,Aaron Holiday,FG_UNASSISTED,None,11:05,2,Pacers,Wizards,27 - 31,1,10,2,Jumper
+6,Markieff Morris,FG_MISS,None,10:48,2,Wizards,Pacers,27 - 31,0,15,2,Jumper
+7,Aaron Holiday,DEFENSIVE_REBOUND,None,10:46,2,Pacers,Wizards,27 - 31,1,N/A,N/A,N/A
+8,Aaron Holiday,FG_MISS,None,10:39,2,Pacers,Wizards,27 - 31,1,9,2,Jumper
+9,Markieff Morris,DEFENSIVE_REBOUND,None,10:37,2,Wizards,Pacers,27 - 31,0,N/A,N/A,N/A
+10,Sam Dekker,FG_MISS,None,10:31,2,Wizards,Pacers,27 - 31,0,8,2,Jumper
+11,Thaddeus Young,DEFENSIVE_REBOUND,None,10:31,2,Pacers,Wizards,27 - 31,1,N/A,N/A,N/A
+12,Doug McDermott,FG_MISS,None,10:15,2,Pacers,Wizards,27 - 31,1,14,2,Jumper
+13,Ron Baker,DEFENSIVE_REBOUND,None,10:12,2,Wizards,Pacers,27 - 31,0,N/A,N/A,N/A
+14,Chasson Randle,FG_MISS,Domantas Sabonis,9:53,2,Pacers,Wizards,27 - 31,0,0,2,Layup
+15,Chasson Randle,OFFENSIVE_REBOUND,None,9:53,2,Wizards,Pacers,27 - 31,0,N/A,N/A,N/A
+16,Domantas Sabonis,FOUL_ON_FLOOR,None,9:53,2,Pacers,Wizards,27 - 31,1,N/A,N/A,N/A
+17,Chasson Randle,FT,None,9:53,2,Wizards,Pacers,28 - 31,0,N/A,1,N/A
+18,Chasson Randle,FT_MISS,None,9:53,2,Wizards,Pacers,28 - 31,0,N/A,1,N/A
+19,Domantas Sabonis,DEFENSIVE_REBOUND,None,9:52,2,Pacers,Wizards,28 - 31,1,N/A,N/A,N/A
+20,Sam Dekker,FOUL_ON_FLOOR,None,9:39,2,Wizards,Pacers,28 - 31,0,N/A,N/A,N/A
+21,Doug McDermott,FOUL_ON_FLOOR,None,9:36,2,Pacers,Wizards,28 - 31,1,N/A,N/A,N/A
+22,Doug McDermott,TURNOVER,None,9:36,2,Pacers,Wizards,28 - 31,1,N/A,N/A,N/A
+23,Chasson Randle,TURNOVER,Cory Joseph,9:21,2,Wizards,Pacers,28 - 31,0,N/A,N/A,N/A
+24,Cory Joseph,FG_MISS,None,9:08,2,Pacers,Wizards,28 - 31,1,23,3,Jumper
+25,Thaddeus Young,OFFENSIVE_REBOUND,None,9:04,2,Pacers,Wizards,28 - 31,1,N/A,N/A,N/A
+26,Thaddeus Young,FG_UNASSISTED,None,9:04,2,Pacers,Wizards,28 - 33,1,0,2,Dunk
+27,Tomas Satoransky,TURNOVER,Thaddeus Young,8:52,2,Wizards,Pacers,28 - 33,0,N/A,N/A,N/A
+28,Thaddeus Young,FG_UNASSISTED,None,8:48,2,Pacers,Wizards,28 - 35,1,0,2,Dunk
+29,Team,Unknown,None,8:48,2,Wizards,Pacers,28 - 35,0,N/A,N/A,N/A
+30,Bradley Beal,SUBSTITUTION,Randle Chasson,8:48,2,Wizards,Pacers,28 - 35,0,N/A,N/A,N/A
+31,Markieff Morris,FG_UNASSISTED,None,8:33,2,Wizards,Pacers,30 - 35,0,6,2,Jumper
+32,Aaron Holiday,TURNOVER,Tomas Satoransky,8:17,2,Pacers,Wizards,30 - 35,1,N/A,N/A,N/A
+33,Tomas Satoransky,TURNOVER,Doug McDermott,8:12,2,Wizards,Pacers,30 - 35,0,N/A,N/A,N/A
+34,Doug McDermott,FG_MISS,None,8:06,2,Pacers,Wizards,30 - 35,1,27,3,Jumper
+35,Doug McDermott,OFFENSIVE_REBOUND,None,8:04,2,Pacers,Wizards,30 - 35,1,N/A,N/A,N/A
+36,Aaron Holiday,FG_MISS,None,7:51,2,Pacers,Wizards,30 - 35,1,26,3,Jumper
+37,Thaddeus Young,OFFENSIVE_REBOUND,None,7:47,2,Pacers,Wizards,30 - 35,1,N/A,N/A,N/A
+38,Thaddeus Young,FG_UNASSISTED,None,7:47,2,Pacers,Wizards,30 - 37,1, ,2,Jumper
+39,Bradley Beal,FG_UNASSISTED,None,7:38,2,Wizards,Pacers,32 - 37,0,14,2,Jumper
+40,Aaron Holiday,FG_MISS,None,7:25,2,Pacers,Wizards,32 - 37,1,28,3,Jumper
+41,Markieff Morris,DEFENSIVE_REBOUND,None,7:22,2,Wizards,Pacers,32 - 37,0,N/A,N/A,N/A
+42,Bradley Beal's,FG_MISS,Aaron Holiday,7:20,2,Pacers,Wizards,32 - 37,0,0,2,Layup
+43,Team,OFFENSIVE_REBOUND,None,7:19,2,Wizards,Pacers,32 - 37,0,N/A,N/A,N/A
+44,Victor Oladipo,SUBSTITUTION,McDermott Doug,7:19,2,Pacers,Wizards,32 - 37,1,N/A,N/A,N/A
+45,Bojan Bogdanovic,SUBSTITUTION,Young Thaddeus,7:19,2,Pacers,Wizards,32 - 37,1,N/A,N/A,N/A
+46,Trevor Ariza,SUBSTITUTION,Dekker Sam,7:19,2,Wizards,Pacers,32 - 37,0,N/A,N/A,N/A
+47,Jeff Green,SUBSTITUTION,Baker Ron,7:19,2,Wizards,Pacers,32 - 37,0,N/A,N/A,N/A
+48,Trevor Ariza,TURNOVER,Aaron Holiday,7:17,2,Wizards,Pacers,32 - 37,0,N/A,N/A,N/A
+49,Bojan Bogdanovic,FG_MISS,None,7:11,2,Pacers,Wizards,32 - 37,1,23,3,Jumper
+50,Tomas Satoransky,DEFENSIVE_REBOUND,None,7:07,2,Wizards,Pacers,32 - 37,0,N/A,N/A,N/A
+51,Aaron Holiday,FOUL_ON_FLOOR,None,6:58,2,Pacers,Wizards,32 - 37,1,N/A,N/A,N/A
+52,John Wall,SUBSTITUTION,Satoransky Tomas,6:58,2,Wizards,Pacers,32 - 37,0,N/A,N/A,N/A
+53,Bradley Beal,FG_MISS,None,6:55,2,Wizards,Pacers,32 - 37,0,29,3,Jumper
+54,Domantas Sabonis,DEFENSIVE_REBOUND,None,6:51,2,Pacers,Wizards,32 - 37,1,N/A,N/A,N/A
+55,Cory Joseph,FG_UNASSISTED,None,6:45,2,Pacers,Wizards,32 - 39,1,0,2,Layup
+56,Team,Unknown,None,6:39,2,Wizards,Pacers,32 - 39,0,N/A,N/A,N/A
+57,John Wall,TURNOVER,Victor Oladipo,6:31,2,Wizards,Pacers,32 - 39,0,N/A,N/A,N/A
+58,Bojan Bogdanovic,FG_ASSISTED,Victor Oladipo,6:27,2,Pacers,Wizards,32 - 41,1,0,2,Layup
+59,John Wall,FG_MISS,Domantas Sabonis,6:13,2,Pacers,Wizards,32 - 41,0,0,2,Layup
+60,John Wall,OFFENSIVE_REBOUND,None,6:12,2,Wizards,Pacers,32 - 41,0,N/A,N/A,N/A
+61,John Wall,TURNOVER,Bojan Bogdanovic,6:11,2,Wizards,Pacers,32 - 41,0,N/A,N/A,N/A
+62,Bojan Bogdanovic,FG_ASSISTED,Victor Oladipo,6:05,2,Pacers,Wizards,32 - 44,1,24,3,Jumper
+63,Domantas Sabonis,FOUL_ON_FLOOR,None,5:47,2,Pacers,Wizards,32 - 44,1,N/A,N/A,N/A
+64,Bradley Beal,FT,None,5:47,2,Wizards,Pacers,33 - 44,0,N/A,1,N/A
+65,Myles Turner,SUBSTITUTION,Sabonis Domantas,5:47,2,Pacers,Wizards,33 - 44,1,N/A,N/A,N/A
+66,Bradley Beal,FT,None,5:47,2,Wizards,Pacers,34 - 44,0,N/A,1,N/A
+67,Victor Oladipo,FG_UNASSISTED,None,5:37,2,Pacers,Wizards,34 - 46,1,19,2,Jumper
+68,Markieff Morris,FG_MISS,None,5:15,2,Wizards,Pacers,34 - 46,0, ,2,Jumper
+69,Cory Joseph,DEFENSIVE_REBOUND,None,5:13,2,Pacers,Wizards,34 - 46,1,N/A,N/A,N/A
+70,Aaron Holiday,FG_MISS,None,5:05,2,Pacers,Wizards,34 - 46,1,0,2,Dunk
+71,Team,DEFENSIVE_REBOUND,None,5:05,2,Wizards,Pacers,34 - 46,0,N/A,N/A,N/A
+72,Markieff Morris,FG_ASSISTED,Jeff Green,4:55,2,Wizards,Pacers,37 - 46,0,23,3,Jumper
+73,Cory Joseph,FG_MISS,None,4:34,2,Pacers,Wizards,37 - 46,1, ,2,Jumper
+74,Bradley Beal,DEFENSIVE_REBOUND,None,4:31,2,Wizards,Pacers,37 - 46,0,N/A,N/A,N/A
+75,Bradley Beal,FG_ASSISTED,Trevor Ariza,4:27,2,Wizards,Pacers,40 - 46,0,27,3,Jumper
+76,Team,Unknown,None,4:18,2,Pacers,Wizards,40 - 46,1,N/A,N/A,N/A
+77,Darren Collison,SUBSTITUTION,Holiday Aaron,4:18,2,Pacers,Wizards,40 - 46,1,N/A,N/A,N/A
+78,Myles Turner,FG_MISS,None,4:05,2,Pacers,Wizards,40 - 46,1,0,2,Layup
+79,Myles Turner,OFFENSIVE_REBOUND,None,4:04,2,Pacers,Wizards,40 - 46,1,N/A,N/A,N/A
+80,Myles Turner,FG_MISS,None,4:04,2,Pacers,Wizards,40 - 46,1, ,2,Jumper
+81,Team,DEFENSIVE_REBOUND,None,4:04,2,Wizards,Pacers,40 - 46,0,N/A,N/A,N/A
+82,Thaddeus Young,SUBSTITUTION,Joseph Cory,4:04,2,Pacers,Wizards,40 - 46,1,N/A,N/A,N/A
+83,Markieff Morris,FG_MISS,None,3:47,2,Wizards,Pacers,40 - 46,0, ,3,Jumper
+84,Victor Oladipo,DEFENSIVE_REBOUND,None,3:43,2,Pacers,Wizards,40 - 46,1,N/A,N/A,N/A
+85,Victor Oladipo,FG_MISS,None,3:36,2,Pacers,Wizards,40 - 46,1,27,3,Jumper
+86,Thaddeus Young,OFFENSIVE_REBOUND,None,3:34,2,Pacers,Wizards,40 - 46,1,N/A,N/A,N/A
+87,Trevor Ariza,FOUL_ON_FLOOR,None,3:34,2,Wizards,Pacers,40 - 46,0,N/A,N/A,N/A
+88,Thomas Bryant,SUBSTITUTION,Morris Markieff,3:34,2,Wizards,Pacers,40 - 46,0,N/A,N/A,N/A
+89,Bojan Bogdanovic,TURNOVER,None,3:24,2,Pacers,Wizards,40 - 46,1,N/A,N/A,N/A
+90,Jeff Green,FG_MISS,None,3:05,2,Wizards,Pacers,40 - 46,0,24,3,Jumper
+91,Myles Turner,DEFENSIVE_REBOUND,None,3:03,2,Pacers,Wizards,40 - 46,1,N/A,N/A,N/A
+92,Darren Collison,FG_MISS,None,2:40,2,Pacers,Wizards,40 - 46,1,10,2,Jumper
+93,Thomas Bryant,DEFENSIVE_REBOUND,None,2:38,2,Wizards,Pacers,40 - 46,0,N/A,N/A,N/A
+94,John Wall,FG_MISS,None,2:27,2,Wizards,Pacers,40 - 46,0,14,2,Jumper
+95,Myles Turner,DEFENSIVE_REBOUND,None,2:24,2,Pacers,Wizards,40 - 46,1,N/A,N/A,N/A
+96,Myles Turner,FG_MISS,None,2:13,2,Pacers,Wizards,40 - 46,1, ,2,Jumper
+97,Bradley Beal,DEFENSIVE_REBOUND,None,2:11,2,Wizards,Pacers,40 - 46,0,N/A,N/A,N/A
+98,Jeff Green,FG_ASSISTED,Bradley Beal,2:07,2,Wizards,Pacers,42 - 46,0, ,2,Jumper
+99,Myles Turner,FOUL_ON_FLOOR,None,2:07,2,Pacers,Wizards,42 - 46,1,N/A,N/A,N/A
+100,Jeff Green,FT,None,2:07,2,Wizards,Pacers,43 - 46,0,N/A,1,N/A
+101,Darren Collison,FG_ASSISTED,Myles Turner,1:50,2,Pacers,Wizards,43 - 49,1,23,3,Jumper
+102,Bradley Beal,FG_MISS,None,1:39,2,Wizards,Pacers,43 - 49,0,23,3,Jumper
+103,Victor Oladipo,DEFENSIVE_REBOUND,None,1:36,2,Pacers,Wizards,43 - 49,1,N/A,N/A,N/A
+104,Victor Oladipo,FG_UNASSISTED,None,1:28,2,Pacers,Wizards,43 - 51,1,20,2,Jumper
+105,Jeff Green,TURNOVER,None,1:10,2,Wizards,Pacers,43 - 51,0,N/A,N/A,N/A
+106,Myles Turner,FG_ASSISTED,Darren Collison,59.8,2,Pacers,Wizards,43 - 53,1,19,2,Jumper
+107,Thomas Bryant,FG_ASSISTED,John Wall,48.2,2,Wizards,Pacers,46 - 53,0,28,3,Jumper
+108,Bojan Bogdanovic,FG_MISS,None,31.3,2,Pacers,Wizards,46 - 53,1,27,3,Jumper
+109,Thomas Bryant,DEFENSIVE_REBOUND,None,28.0,2,Wizards,Pacers,46 - 53,0,N/A,N/A,N/A
+110,John Wall,FG_MISS,None,6.1,2,Wizards,Pacers,46 - 53,0,27,3,Jumper
+111,Myles Turner,DEFENSIVE_REBOUND,None,3.2,2,Pacers,Wizards,46 - 53,1,N/A,N/A,N/A
+112,Darren Collison,FG_MISS,None,0.0,2,Pacers,Wizards,46 - 53,1,40,3,Jumper
+113,Team,OFFENSIVE_REBOUND,None,0.0,2,Pacers,Wizards,46 - 53,1,N/A,N/A,N/A
+114,End of,Unknown,None,0.0,2,Pacers,Wizards,46 - 53,1,N/A,N/A,N/A
+0,Trevor Ariza,TURNOVER,Myles Turner,11:45,3,Wizards,Pacers,46 - 53,0,N/A,N/A,N/A
+1,Victor Oladipo,FG_MISS,None,11:29,3,Pacers,Wizards,46 - 53,1,21,2,Jumper
+2,Thomas Bryant,DEFENSIVE_REBOUND,None,11:26,3,Wizards,Pacers,46 - 53,0,N/A,N/A,N/A
+3,John Wall,FG_ASSISTED,Bradley Beal,11:18,3,Wizards,Pacers,49 - 53,0,26,3,Jumper
+4,Victor Oladipo,FG_MISS,None,11:02,3,Pacers,Wizards,49 - 53,1,26,3,Jumper
+5,Team,DEFENSIVE_REBOUND,None,11:00,3,Wizards,Pacers,49 - 53,0,N/A,N/A,N/A
+6,Jeff Green,FG_MISS,None,10:39,3,Wizards,Pacers,49 - 53,0,28,3,Jumper
+7,Thaddeus Young,DEFENSIVE_REBOUND,None,10:36,3,Pacers,Wizards,49 - 53,1,N/A,N/A,N/A
+8,Thaddeus Young,FG_UNASSISTED,None,10:24,3,Pacers,Wizards,49 - 55,1,0,2,Layup
+9,Thomas Bryant,TURNOVER,None,10:07,3,Wizards,Pacers,49 - 55,0,N/A,N/A,N/A
+10,Victor Oladipo,FG_MISS,None,9:49,3,Pacers,Wizards,49 - 55,1,16,2,Jumper
+11,Trevor Ariza,DEFENSIVE_REBOUND,None,9:47,3,Wizards,Pacers,49 - 55,0,N/A,N/A,N/A
+12,Bradley Beal,FG_MISS,None,9:41,3,Wizards,Pacers,49 - 55,0,26,3,Jumper
+13,Thaddeus Young,DEFENSIVE_REBOUND,None,9:37,3,Pacers,Wizards,49 - 55,1,N/A,N/A,N/A
+14,Myles Turner,FG_MISS,None,9:22,3,Pacers,Wizards,49 - 55,1,19,2,Jumper
+15,Bradley Beal,DEFENSIVE_REBOUND,None,9:19,3,Wizards,Pacers,49 - 55,0,N/A,N/A,N/A
+16,Trevor Ariza,FG_MISS,None,9:13,3,Wizards,Pacers,49 - 55,0,27,3,Jumper
+17,Myles Turner,DEFENSIVE_REBOUND,None,9:10,3,Pacers,Wizards,49 - 55,1,N/A,N/A,N/A
+18,Darren Collison,FG_UNASSISTED,None,9:06,3,Pacers,Wizards,49 - 57,1,20,2,Jumper
+19,John Wall,FG_MISS,None,8:49,3,Wizards,Pacers,49 - 57,0,26,3,Jumper
+20,Victor Oladipo,DEFENSIVE_REBOUND,None,8:46,3,Pacers,Wizards,49 - 57,1,N/A,N/A,N/A
+21,Victor Oladipo,FG_ASSISTED,Darren Collison,8:41,3,Pacers,Wizards,49 - 60,1,28,3,Jumper
+22,Team,Unknown,None,8:39,3,Wizards,Pacers,49 - 60,0,N/A,N/A,N/A
+23,Myles Turner,FOUL_ON_FLOOR,None,8:31,3,Pacers,Wizards,49 - 60,1,N/A,N/A,N/A
+24,Thomas Bryant,FT,None,8:31,3,Wizards,Pacers,50 - 60,0,N/A,1,N/A
+25,Thomas Bryant,FT,None,8:31,3,Wizards,Pacers,51 - 60,0,N/A,1,N/A
+26,Thaddeus Young,FG_MISS,None,8:16,3,Pacers,Wizards,51 - 60,1, ,2,Jumper
+27,Myles Turner,OFFENSIVE_REBOUND,None,8:16,3,Pacers,Wizards,51 - 60,1,N/A,N/A,N/A
+28,Thaddeus Young,FG_MISS,None,8:05,3,Pacers,Wizards,51 - 60,1,26,3,Jumper
+29,John Wall,DEFENSIVE_REBOUND,None,8:02,3,Wizards,Pacers,51 - 60,0,N/A,N/A,N/A
+30,Trevor Ariza,FG_UNASSISTED,None,7:40,3,Wizards,Pacers,54 - 60,0,27,3,Jumper
+31,Myles Turner,TURNOVER,None,7:26,3,Pacers,Wizards,54 - 60,1,N/A,N/A,N/A
+32,John Wall,FG_MISS,None,7:12,3,Wizards,Pacers,54 - 60,0,16,2,Jumper
+33,Thaddeus Young,DEFENSIVE_REBOUND,None,7:08,3,Pacers,Wizards,54 - 60,1,N/A,N/A,N/A
+34,Bojan Bogdanovic,FG_MISS,None,6:59,3,Pacers,Wizards,54 - 60,1,23,3,Jumper
+35,Myles Turner,OFFENSIVE_REBOUND,None,6:56,3,Pacers,Wizards,54 - 60,1,N/A,N/A,N/A
+36,Thaddeus Young,FG_MISS,None,6:51,3,Pacers,Wizards,54 - 60,1,0,2,Layup
+37,Thaddeus Young,OFFENSIVE_REBOUND,None,6:50,3,Pacers,Wizards,54 - 60,1,N/A,N/A,N/A
+38,Thaddeus Young,FG_MISS,None,6:49,3,Pacers,Wizards,54 - 60,1,0,2,Layup
+39,Thomas Bryant,DEFENSIVE_REBOUND,None,6:49,3,Wizards,Pacers,54 - 60,0,N/A,N/A,N/A
+40,Thomas Bryant,FG_ASSISTED,Bradley Beal,6:35,3,Wizards,Pacers,56 - 60,0, ,2,Jumper
+41,Myles Turner,FG_ASSISTED,Victor Oladipo,6:22,3,Pacers,Wizards,56 - 62,1,0,2,Layup
+42,Thomas Bryant,FOUL_ON_FLOOR,None,6:22,3,Wizards,Pacers,56 - 62,0,N/A,N/A,N/A
+43,Myles Turner,FT,None,6:22,3,Pacers,Wizards,56 - 63,1,N/A,1,N/A
+44,Thomas Bryant,FG_MISS,None,6:05,3,Wizards,Pacers,56 - 63,0,2,2,Jumper
+45,Myles Turner,DEFENSIVE_REBOUND,None,6:04,3,Pacers,Wizards,56 - 63,1,N/A,N/A,N/A
+46,Bojan Bogdanovic,FG_MISS,None,5:52,3,Pacers,Wizards,56 - 63,1,12,2,Jumper
+47,Myles Turner,OFFENSIVE_REBOUND,None,5:49,3,Pacers,Wizards,56 - 63,1,N/A,N/A,N/A
+48,Victor Oladipo,TURNOVER,John Wall,5:44,3,Pacers,Wizards,56 - 63,1,N/A,N/A,N/A
+49,Bradley Beal,FG_MISS,None,5:39,3,Wizards,Pacers,56 - 63,0, ,2,Jumper
+50,Darren Collison,DEFENSIVE_REBOUND,None,5:37,3,Pacers,Wizards,56 - 63,1,N/A,N/A,N/A
+51,Darren Collison,FG_MISS,None,5:32,3,Pacers,Wizards,56 - 63,1, ,2,Jumper
+52,Myles Turner,OFFENSIVE_REBOUND,None,5:29,3,Pacers,Wizards,56 - 63,1,N/A,N/A,N/A
+53,Myles Turner,FG_UNASSISTED,None,5:29,3,Pacers,Wizards,56 - 65,1,0,2,Dunk
+54,Trevor Ariza,TURNOVER,Bojan Bogdanovic,5:27,3,Wizards,Pacers,56 - 65,0,N/A,N/A,N/A
+55,Myles Turner,TURNOVER,Bradley Beal,5:21,3,Pacers,Wizards,56 - 65,1,N/A,N/A,N/A
+56,Jeff Green,TURNOVER,None,5:15,3,Wizards,Pacers,56 - 65,0,N/A,N/A,N/A
+57,Jeff Green,TURNOVER,None,5:15,3,Wizards,Pacers,56 - 65,0,N/A,N/A,N/A
+58,Darren Collison,FG_UNASSISTED,None,5:03,3,Pacers,Wizards,56 - 68,1,27,3,Jumper
+59,Team,Unknown,None,5:01,3,Wizards,Pacers,56 - 68,0,N/A,N/A,N/A
+60,Markieff Morris,SUBSTITUTION,Bryant Thomas,5:01,3,Wizards,Pacers,56 - 68,0,N/A,N/A,N/A
+61,Trevor Ariza,FG_MISS,None,4:47,3,Wizards,Pacers,56 - 68,0,27,3,Jumper
+62,Markieff Morris,OFFENSIVE_REBOUND,None,4:43,3,Wizards,Pacers,56 - 68,0,N/A,N/A,N/A
+63,Markieff Morris,FG_MISS,None,4:41,3,Wizards,Pacers,56 - 68,0,29,3,Jumper
+64,Bojan Bogdanovic,DEFENSIVE_REBOUND,None,4:37,3,Pacers,Wizards,56 - 68,1,N/A,N/A,N/A
+65,Myles Turner,FG_ASSISTED,Victor Oladipo,4:19,3,Pacers,Wizards,56 - 70,1,14,2,Jumper
+66,Bradley Beal,FG_MISS,None,4:05,3,Wizards,Pacers,56 - 70,0,30,3,Jumper
+67,Bojan Bogdanovic,DEFENSIVE_REBOUND,None,4:04,3,Pacers,Wizards,56 - 70,1,N/A,N/A,N/A
+68,Trevor Ariza,FOUL_ON_FLOOR,None,3:58,3,Wizards,Pacers,56 - 70,0,N/A,N/A,N/A
+69,Bojan Bogdanovic,FT,None,3:58,3,Pacers,Wizards,56 - 71,1,N/A,1,N/A
+70,Domantas Sabonis,SUBSTITUTION,Young Thaddeus,3:58,3,Pacers,Wizards,56 - 71,1,N/A,N/A,N/A
+71,Tomas Satoransky,SUBSTITUTION,Beal Bradley,3:58,3,Wizards,Pacers,56 - 71,0,N/A,N/A,N/A
+72,Bojan Bogdanovic,FT_MISS,None,3:58,3,Pacers,Wizards,56 - 71,1,N/A,1,N/A
+73,Trevor Ariza,DEFENSIVE_REBOUND,None,3:57,3,Wizards,Pacers,56 - 71,0,N/A,N/A,N/A
+74,Cory Joseph,SUBSTITUTION,Bogdanovic Bojan,3:44,3,Pacers,Wizards,56 - 71,1,N/A,N/A,N/A
+75,John Wall,TURNOVER,None,3:38,3,Wizards,Pacers,56 - 71,0,N/A,N/A,N/A
+76,John Wall,FOUL_ON_FLOOR,None,3:17,3,Wizards,Pacers,56 - 71,0,N/A,N/A,N/A
+77,Chasson Randle,SUBSTITUTION,Wall John,3:17,3,Wizards,Pacers,56 - 71,0,N/A,N/A,N/A
+78,Victor Oladipo,FG_MISS,None,3:11,3,Pacers,Wizards,56 - 71,1,27,3,Jumper
+79,Jeff Green,DEFENSIVE_REBOUND,None,3:09,3,Wizards,Pacers,56 - 71,0,N/A,N/A,N/A
+80,Jeff Green,FG_MISS,None,2:51,3,Wizards,Pacers,56 - 71,0,23,3,Jumper
+81,Tomas Satoransky,OFFENSIVE_REBOUND,None,2:48,3,Wizards,Pacers,56 - 71,0,N/A,N/A,N/A
+82,Jeff Green,FG_MISS,Myles Turner,2:46,3,Pacers,Wizards,56 - 71,0,0,2,Layup
+83,Cory Joseph,DEFENSIVE_REBOUND,None,2:44,3,Pacers,Wizards,56 - 71,1,N/A,N/A,N/A
+84,Aaron Holiday,SUBSTITUTION,Collison Darren,2:41,3,Pacers,Wizards,56 - 71,1,N/A,N/A,N/A
+85,Doug McDermott,SUBSTITUTION,Oladipo Victor,2:41,3,Pacers,Wizards,56 - 71,1,N/A,N/A,N/A
+86,Sam Dekker,SUBSTITUTION,Green Jeff,2:41,3,Wizards,Pacers,56 - 71,0,N/A,N/A,N/A
+87,Trevor Ariza,JUMP_BALL,None,2:39,3,Pacers,Wizards,56 - 71,1,N/A,N/A,N/A
+88,Aaron Holiday,FG_ASSISTED,Myles Turner,2:28,3,Pacers,Wizards,56 - 74,1,28,3,Jumper
+89,Cory Joseph,FOUL_ON_FLOOR,None,2:11,3,Pacers,Wizards,56 - 74,1,N/A,N/A,N/A
+90,Chasson Randle,FT_MISS,None,2:11,3,Wizards,Pacers,56 - 74,0,N/A,1,N/A
+91,Team,OFFENSIVE_REBOUND,None,2:11,3,Wizards,Pacers,56 - 74,0,N/A,N/A,N/A
+92,Chasson Randle,FT,None,2:11,3,Wizards,Pacers,57 - 74,0,N/A,1,N/A
+93,Team,Unknown,None,2:11,3,Pacers,Wizards,57 - 74,1,N/A,N/A,N/A
+94,Trevor Ariza,FOUL_ON_FLOOR,None,2:05,3,Wizards,Pacers,57 - 74,0,N/A,N/A,N/A
+95,Cory Joseph,FG_UNASSISTED,None,1:57,3,Pacers,Wizards,57 - 76,1,11,2,Jumper
+96,Doug McDermott,FOUL_ON_FLOOR,None,1:42,3,Pacers,Wizards,57 - 76,1,N/A,N/A,N/A
+97,Chasson Randle,FG_ASSISTED,Markieff Morris,1:36,3,Wizards,Pacers,60 - 76,0,27,3,Jumper
+98,Aaron Holiday,FG_ASSISTED,Domantas Sabonis,1:22,3,Pacers,Wizards,60 - 78,1,19,2,Jumper
+99,Tomas Satoransky's,FG_MISS,Myles Turner,1:10,3,Pacers,Wizards,60 - 78,0,0,2,Layup
+100,Domantas Sabonis,DEFENSIVE_REBOUND,None,1:08,3,Pacers,Wizards,60 - 78,1,N/A,N/A,N/A
+101,Aaron Holiday,FG_MISS,None,1:05,3,Pacers,Wizards,60 - 78,1,20,2,Jumper
+102,Team,OFFENSIVE_REBOUND,None,1:04,3,Pacers,Wizards,60 - 78,1,N/A,N/A,N/A
+103,Markieff Morris,FOUL_ON_FLOOR,None,1:04,3,Wizards,Pacers,60 - 78,0,N/A,N/A,N/A
+104,Domantas Sabonis,FT,None,1:04,3,Pacers,Wizards,60 - 79,1,N/A,1,N/A
+105,Thaddeus Young,SUBSTITUTION,Turner Myles,1:04,3,Pacers,Wizards,60 - 79,1,N/A,N/A,N/A
+106,Domantas Sabonis,FT,None,1:04,3,Pacers,Wizards,60 - 80,1,N/A,1,N/A
+107,Chasson Randle,FG_ASSISTED,Trevor Ariza,49.0,3,Wizards,Pacers,62 - 80,0,0,2,Layup
+108,Tomas Satoransky,FOUL_ON_FLOOR,None,47.7,3,Wizards,Pacers,62 - 80,0,N/A,N/A,N/A
+109,Aaron Holiday,FT,None,47.7,3,Pacers,Wizards,62 - 81,1,N/A,1,N/A
+110,Aaron Holiday,FT,None,47.7,3,Pacers,Wizards,62 - 82,1,N/A,1,N/A
+111,Trevor Ariza,FG_MISS,None,35.1,3,Wizards,Pacers,62 - 82,0,29,3,Jumper
+112,Cory Joseph,DEFENSIVE_REBOUND,None,31.6,3,Pacers,Wizards,62 - 82,1,N/A,N/A,N/A
+113,Thaddeus Young,FG_ASSISTED,Domantas Sabonis,10.9,3,Pacers,Wizards,62 - 84,1,0,2,Dunk
+114,Tomas Satoransky,FG_ASSISTED,Chasson Randle,1.5,3,Wizards,Pacers,64 - 84,0,10,2,Jumper
+115,End of,Unknown,None,0.0,3,Pacers,Wizards,64 - 84,1,N/A,N/A,N/A
+0,Ron Baker,SUBSTITUTION,Ariza Trevor,12:00,4,Wizards,Pacers,64 - 84,0,N/A,N/A,N/A
+1,Aaron Holiday,FG_UNASSISTED,None,11:51,4,Pacers,Wizards,64 - 86,1,0,2,Dunk
+2,Tomas Satoransky,FOUL_ON_FLOOR,None,11:51,4,Wizards,Pacers,64 - 86,0,N/A,N/A,N/A
+3,Aaron Holiday,FT,None,11:51,4,Pacers,Wizards,64 - 87,1,N/A,1,N/A
+4,Thaddeus Young,FOUL_ON_FLOOR,None,11:36,4,Pacers,Wizards,64 - 87,1,N/A,N/A,N/A
+5,Markieff Morris,FT,None,11:36,4,Wizards,Pacers,65 - 87,0,N/A,1,N/A
+6,Markieff Morris,FT,None,11:36,4,Wizards,Pacers,66 - 87,0,N/A,1,N/A
+7,Domantas Sabonis,FG_ASSISTED,Aaron Holiday,11:24,4,Pacers,Wizards,66 - 89,1,0,2,Layup
+8,Ron Baker,FG_MISS,None,11:12,4,Wizards,Pacers,66 - 89,0,28,3,Jumper
+9,Cory Joseph,DEFENSIVE_REBOUND,None,11:08,4,Pacers,Wizards,66 - 89,1,N/A,N/A,N/A
+10,Cory Joseph,TURNOVER,None,10:57,4,Pacers,Wizards,66 - 89,1,N/A,N/A,N/A
+11,Cory Joseph,TURNOVER,None,10:57,4,Pacers,Wizards,66 - 89,1,N/A,N/A,N/A
+12,Sam Dekker,FG_MISS,None,10:41,4,Wizards,Pacers,66 - 89,0,20,2,Jumper
+13,Tomas Satoransky,OFFENSIVE_REBOUND,None,10:38,4,Wizards,Pacers,66 - 89,0,N/A,N/A,N/A
+14,Aaron Holiday,FOUL_ON_FLOOR,None,10:37,4,Pacers,Wizards,66 - 89,1,N/A,N/A,N/A
+15,Aaron Holiday,FOUL_ON_FLOOR,None,10:35,4,Pacers,Wizards,66 - 89,1,N/A,N/A,N/A
+16,Aaron Holiday,FOUL_ON_FLOOR,None,10:32,4,Pacers,Wizards,66 - 89,1,N/A,N/A,N/A
+17,Victor Oladipo,SUBSTITUTION,Holiday Aaron,10:32,4,Pacers,Wizards,66 - 89,1,N/A,N/A,N/A
+18,Markieff Morris,FG_MISS,None,10:28,4,Wizards,Pacers,66 - 89,0,24,3,Jumper
+19,Cory Joseph,DEFENSIVE_REBOUND,None,10:26,4,Pacers,Wizards,66 - 89,1,N/A,N/A,N/A
+20,Domantas Sabonis,FG_MISS,None,10:13,4,Pacers,Wizards,66 - 89,1, ,2,Jumper
+21,Team,DEFENSIVE_REBOUND,None,10:10,4,Wizards,Pacers,66 - 89,0,N/A,N/A,N/A
+22,Thaddeus Young,FOUL_ON_FLOOR,None,10:10,4,Pacers,Wizards,66 - 89,1,N/A,N/A,N/A
+23,Markieff Morris,FT,None,10:10,4,Wizards,Pacers,67 - 89,0,N/A,1,N/A
+24,Bojan Bogdanovic,SUBSTITUTION,Young Thaddeus,10:10,4,Pacers,Wizards,67 - 89,1,N/A,N/A,N/A
+25,Markieff Morris,FT,None,10:10,4,Wizards,Pacers,68 - 89,0,N/A,1,N/A
+26,Domantas Sabonis,TURNOVER,Chasson Randle,9:59,4,Pacers,Wizards,68 - 89,1,N/A,N/A,N/A
+27,Ron Baker,TURNOVER,None,9:54,4,Wizards,Pacers,68 - 89,0,N/A,N/A,N/A
+28,Tomas Satoransky,FOUL_ON_FLOOR,None,9:36,4,Wizards,Pacers,68 - 89,0,N/A,N/A,N/A
+29,Cory Joseph,FG_MISS,None,9:24,4,Pacers,Wizards,68 - 89,1,8,2,Jumper
+30,Markieff Morris,DEFENSIVE_REBOUND,None,9:21,4,Wizards,Pacers,68 - 89,0,N/A,N/A,N/A
+31,Ron Baker,FG_MISS,None,9:12,4,Wizards,Pacers,68 - 89,0,24,3,Jumper
+32,Domantas Sabonis,DEFENSIVE_REBOUND,None,9:09,4,Pacers,Wizards,68 - 89,1,N/A,N/A,N/A
+33,Victor Oladipo,TURNOVER,Ron Baker,8:59,4,Pacers,Wizards,68 - 89,1,N/A,N/A,N/A
+34,Tomas Satoransky,FG_ASSISTED,Chasson Randle,8:55,4,Wizards,Pacers,70 - 89,0, ,2,Jumper
+35,Team,Unknown,None,8:55,4,Pacers,Wizards,70 - 89,1,N/A,N/A,N/A
+36,Bojan Bogdanovic,FG_MISS,None,8:39,4,Pacers,Wizards,70 - 89,1, ,2,Jumper
+37,Domantas Sabonis,OFFENSIVE_REBOUND,None,8:38,4,Pacers,Wizards,70 - 89,1,N/A,N/A,N/A
+38,Markieff Morris,FOUL_ON_FLOOR,None,8:36,4,Wizards,Pacers,70 - 89,0,N/A,N/A,N/A
+39,Myles Turner,SUBSTITUTION,Sabonis Domantas,8:36,4,Pacers,Wizards,70 - 89,1,N/A,N/A,N/A
+40,Victor Oladipo,FG_ASSISTED,Cory Joseph,8:30,4,Pacers,Wizards,70 - 92,1,28,3,Jumper
+41,Chasson Randle,TURNOVER,Victor Oladipo,8:07,4,Wizards,Pacers,70 - 92,0,N/A,N/A,N/A
+42,Doug McDermott,TURNOVER,None,8:03,4,Pacers,Wizards,70 - 92,1,N/A,N/A,N/A
+43,Domantas Sabonis,SUBSTITUTION,Turner Myles,8:03,4,Pacers,Wizards,70 - 92,1,N/A,N/A,N/A
+44,Markieff Morris,FG_MISS,None,7:52,4,Wizards,Pacers,70 - 92,0,29,3,Jumper
+45,Bojan Bogdanovic,DEFENSIVE_REBOUND,None,7:50,4,Pacers,Wizards,70 - 92,1,N/A,N/A,N/A
+46,Bojan Bogdanovic,TURNOVER,Markieff Morris,7:49,4,Pacers,Wizards,70 - 92,1,N/A,N/A,N/A
+47,Domantas Sabonis,FOUL_ON_FLOOR,None,7:39,4,Pacers,Wizards,70 - 92,1,N/A,N/A,N/A
+48,Tomas Satoransky,FT,None,7:39,4,Wizards,Pacers,71 - 92,0,N/A,1,N/A
+49,Tomas Satoransky,FT,None,7:39,4,Wizards,Pacers,72 - 92,0,N/A,1,N/A
+50,Cory Joseph,TURNOVER,Tomas Satoransky,7:20,4,Pacers,Wizards,72 - 92,1,N/A,N/A,N/A
+51,Tomas Satoransky,TURNOVER,Bojan Bogdanovic,7:06,4,Wizards,Pacers,72 - 92,0,N/A,N/A,N/A
+52,Domantas Sabonis,FG_ASSISTED,Bojan Bogdanovic,7:02,4,Pacers,Wizards,72 - 94,1,0,2,Layup
+53,Chasson Randle,FG_UNASSISTED,None,6:49,4,Wizards,Pacers,75 - 94,0,27,3,Jumper
+54,Victor Oladipo,FG_MISS,None,6:25,4,Pacers,Wizards,75 - 94,1,19,2,Jumper
+55,Markieff Morris,DEFENSIVE_REBOUND,None,6:22,4,Wizards,Pacers,75 - 94,0,N/A,N/A,N/A
+56,Tomas Satoransky,FG_UNASSISTED,None,6:17,4,Wizards,Pacers,77 - 94,0, ,2,Jumper
+57,Markieff Morris,FOUL_ON_FLOOR,None,6:05,4,Wizards,Pacers,77 - 94,0,N/A,N/A,N/A
+58,Myles Turner,SUBSTITUTION,McDermott Doug,6:05,4,Pacers,Wizards,77 - 94,1,N/A,N/A,N/A
+59,Troy Brown,SUBSTITUTION,Satoransky Tomas,6:05,4,Wizards,Pacers,77 - 94,0,N/A,N/A,N/A
+60,Myles Turner,FG_ASSISTED,Victor Oladipo,5:54,4,Pacers,Wizards,77 - 96,1,15,2,Jumper
+61,Troy Brown,FG_MISS,None,5:34,4,Wizards,Pacers,77 - 96,0,18,2,Jumper
+62,Victor Oladipo,DEFENSIVE_REBOUND,None,5:31,4,Pacers,Wizards,77 - 96,1,N/A,N/A,N/A
+63,Troy Brown,FOUL_ON_FLOOR,None,5:24,4,Wizards,Pacers,77 - 96,0,N/A,N/A,N/A
+64,Victor Oladipo,FT,None,5:24,4,Pacers,Wizards,77 - 97,1,N/A,1,N/A
+65,Ian Mahinmi,SUBSTITUTION,Morris Markieff,5:24,4,Wizards,Pacers,77 - 97,0,N/A,N/A,N/A
+66,Victor Oladipo,FT,None,5:24,4,Pacers,Wizards,77 - 98,1,N/A,1,N/A
+67,Chasson Randle,TURNOVER,None,5:14,4,Wizards,Pacers,77 - 98,0,N/A,N/A,N/A
+68,Bojan Bogdanovic,FG_MISS,None,5:02,4,Pacers,Wizards,77 - 98,1,14,2,Jumper
+69,Myles Turner,OFFENSIVE_REBOUND,None,4:59,4,Pacers,Wizards,77 - 98,1,N/A,N/A,N/A
+70,Victor Oladipo,FG_MISS,None,4:49,4,Pacers,Wizards,77 - 98,1,26,3,Jumper
+71,Myles Turner,OFFENSIVE_REBOUND,None,4:47,4,Pacers,Wizards,77 - 98,1,N/A,N/A,N/A
+72,Cory Joseph,TURNOVER,None,4:45,4,Pacers,Wizards,77 - 98,1,N/A,N/A,N/A
+73,Sam Dekker,FG_ASSISTED,Troy Brown,4:30,4,Wizards,Pacers,79 - 98,0, ,2,Jumper
+74,Victor Oladipo,TURNOVER,None,4:15,4,Pacers,Wizards,79 - 98,1,N/A,N/A,N/A
+75,Sam Dekker,FG_ASSISTED,Chasson Randle,4:04,4,Wizards,Pacers,81 - 98,0, ,2,Jumper
+76,Team,Unknown,None,4:04,4,Pacers,Wizards,81 - 98,1,N/A,N/A,N/A
+77,Doug McDermott,SUBSTITUTION,Bogdanovic Bojan,4:04,4,Pacers,Wizards,81 - 98,1,N/A,N/A,N/A
+78,Jordan McRae,SUBSTITUTION,Baker Ron,4:04,4,Wizards,Pacers,81 - 98,0,N/A,N/A,N/A
+79,Domantas Sabonis,TURNOVER,None,3:52,4,Pacers,Wizards,81 - 98,1,N/A,N/A,N/A
+80,Domantas Sabonis,TURNOVER,None,3:52,4,Pacers,Wizards,81 - 98,1,N/A,N/A,N/A
+81,Sam Dekker,FG_ASSISTED,Chasson Randle,3:41,4,Wizards,Pacers,83 - 98,0,19,2,Jumper
+82,Victor Oladipo,FG_MISS,Chasson Randle,3:26,4,Wizards,Pacers,83 - 98,1,0,2,Layup
+83,Team,DEFENSIVE_REBOUND,None,3:26,4,Wizards,Pacers,83 - 98,0,N/A,N/A,N/A
+84,Chasson Randle,FG_MISS,None,3:19,4,Wizards,Pacers,83 - 98,0,6,2,Jumper
+85,Domantas Sabonis,DEFENSIVE_REBOUND,None,3:17,4,Pacers,Wizards,83 - 98,1,N/A,N/A,N/A
+86,Myles Turner,FG_ASSISTED,Domantas Sabonis,3:01,4,Pacers,Wizards,83 - 100,1,20,2,Jumper
+87,Ian Mahinmi,FG_ASSISTED,Troy Brown,2:48,4,Wizards,Pacers,85 - 100,0,0,2,Layup
+88,Myles Turner,FG_MISS,None,2:29,4,Pacers,Wizards,85 - 100,1,23,3,Jumper
+89,Domantas Sabonis,OFFENSIVE_REBOUND,None,2:27,4,Pacers,Wizards,85 - 100,1,N/A,N/A,N/A
+90,Victor Oladipo,FG_MISS,None,2:23,4,Pacers,Wizards,85 - 100,1,38,3,Jumper
+91,Sam Dekker,DEFENSIVE_REBOUND,None,2:21,4,Wizards,Pacers,85 - 100,0,N/A,N/A,N/A
+92,Sam Dekker,FG_MISS,None,2:16,4,Wizards,Pacers,85 - 100,0,27,3,Jumper
+93,Myles Turner,DEFENSIVE_REBOUND,None,2:12,4,Pacers,Wizards,85 - 100,1,N/A,N/A,N/A
+94,Chasson Randle,FOUL_ON_FLOOR,None,2:06,4,Wizards,Pacers,85 - 100,0,N/A,N/A,N/A
+95,Domantas Sabonis,FT_MISS,None,2:06,4,Pacers,Wizards,85 - 100,1,N/A,1,N/A
+96,Team,OFFENSIVE_REBOUND,None,2:06,4,Pacers,Wizards,85 - 100,1,N/A,N/A,N/A
+97,Kyle O'Quinn,SUBSTITUTION,Turner Myles,2:06,4,Pacers,Wizards,85 - 100,1,N/A,N/A,N/A
+98,Domantas Sabonis,FT,None,2:06,4,Pacers,Wizards,85 - 101,1,N/A,1,N/A
+99,Victor Oladipo,FOUL_ON_FLOOR,None,1:56,4,Pacers,Wizards,85 - 101,1,N/A,N/A,N/A
+100,Ian Mahinmi,FT,None,1:56,4,Wizards,Pacers,86 - 101,0,N/A,1,N/A
+101,Aaron Holiday,SUBSTITUTION,Oladipo Victor,1:56,4,Pacers,Wizards,86 - 101,1,N/A,N/A,N/A
+102,Ian Mahinmi,FT,None,1:56,4,Wizards,Pacers,87 - 101,0,N/A,1,N/A
+103,Domantas Sabonis,FG_UNASSISTED,None,1:36,4,Pacers,Wizards,87 - 103,1,0,2,Layup
+104,Jordan McRae,FG_MISS,None,1:23,4,Wizards,Pacers,87 - 103,0,26,3,Jumper
+105,Domantas Sabonis,DEFENSIVE_REBOUND,None,1:20,4,Pacers,Wizards,87 - 103,1,N/A,N/A,N/A
+106,Team,Unknown,None,1:20,4,Pacers,Wizards,87 - 103,1,N/A,N/A,N/A
+107,T.J. Leaf,SUBSTITUTION,Sabonis Domantas,1:20,4,Pacers,Wizards,87 - 103,1,N/A,N/A,N/A
+108,T.J. Leaf,FG_MISS,None,1:06,4,Pacers,Wizards,87 - 103,1,1,2,Jumper
+109,Ian Mahinmi,DEFENSIVE_REBOUND,None,1:04,4,Wizards,Pacers,87 - 103,0,N/A,N/A,N/A
+110,Ian Mahinmi,FG_MISS,None,51.6,4,Wizards,Pacers,87 - 103,0,23,3,Jumper
+111,T.J. Leaf,DEFENSIVE_REBOUND,None,49.1,4,Pacers,Wizards,87 - 103,1,N/A,N/A,N/A
+112,Kyle O'Quinn,FG_ASSISTED,Cory Joseph,28.6,4,Pacers,Wizards,87 - 105,1,0,2,Layup
+113,Sam Dekker,FG_MISS,None,14.6,4,Wizards,Pacers,87 - 105,0,1,2,Jumper
+114,Team,OFFENSIVE_REBOUND,None,14.5,4,Wizards,Pacers,87 - 105,0,N/A,N/A,N/A
+115,Doug McDermott,FOUL_ON_FLOOR,None,14.5,4,Pacers,Wizards,87 - 105,1,N/A,N/A,N/A
+116,Ian Mahinmi,FT,None,14.5,4,Wizards,Pacers,88 - 105,0,N/A,1,N/A
+117,Ian Mahinmi,FT,None,14.5,4,Wizards,Pacers,89 - 105,0,N/A,1,N/A
+118,End of,Unknown,None,0.0,4,Pacers,Wizards,89 - 105,1,N/A,N/A,N/A
+119,End of,Unknown,None,0.0,4,Pacers,Wizards,89 - 105,1,N/A,N/A,N/A

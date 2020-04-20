@@ -1,0 +1,428 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Jarrett Allen,JUMP_BALL,None,12:00,1,Nets,Pacers,0 - 0,0,N/A,N/A,N/A
+1,DeMarre Carroll,TURNOVER,Thaddeus Young,11:47,1,Nets,Pacers,0 - 0,0,N/A,N/A,N/A
+2,Thaddeus Young,TURNOVER,None,11:34,1,Pacers,Nets,0 - 0,1,N/A,N/A,N/A
+3,Joe Harris,FG_ASSISTED,D'Angelo Russell,11:25,1,Nets,Pacers,2 - 0,0,0,2,Layup
+4,Darren Collison,FG_MISS,None,11:06,1,Pacers,Nets,2 - 0,1,10,2,Jumper
+5,D'Angelo Russell,DEFENSIVE_REBOUND,None,11:03,1,Nets,Pacers,2 - 0,0,N/A,N/A,N/A
+6,D'Angelo Russell,FG_ASSISTED,Joe Harris,10:55,1,Nets,Pacers,5 - 0,0,24,3,Jumper
+7,Bojan Bogdanovic,FG_MISS,None,10:31,1,Pacers,Nets,5 - 0,1,23,3,Jumper
+8,Joe Harris,DEFENSIVE_REBOUND,None,10:28,1,Nets,Pacers,5 - 0,0,N/A,N/A,N/A
+9,Joe Harris,FG_ASSISTED,D'Angelo Russell,10:19,1,Nets,Pacers,7 - 0,0,0,2,Layup
+10,Team,Unknown,None,10:18,1,Pacers,Nets,7 - 0,1,N/A,N/A,N/A
+11,Darren Collison,TURNOVER,Jarrett Allen,10:10,1,Pacers,Nets,7 - 0,1,N/A,N/A,N/A
+12,Jarrett Allen,TURNOVER,Wesley Matthews,10:06,1,Nets,Pacers,7 - 0,0,N/A,N/A,N/A
+13,Wesley Matthews,TURNOVER,None,10:04,1,Pacers,Nets,7 - 0,1,N/A,N/A,N/A
+14,Rodions Kurucs,FG_ASSISTED,D'Angelo Russell,9:59,1,Nets,Pacers,9 - 0,0,0,2,Dunk
+15,Darren Collison,FG_UNASSISTED,None,9:40,1,Pacers,Nets,9 - 2,1,18,2,Jumper
+16,Rodions Kurucs,FG_MISS,None,9:25,1,Nets,Pacers,9 - 2,0,0,2,Layup
+17,Myles Turner,DEFENSIVE_REBOUND,None,9:23,1,Pacers,Nets,9 - 2,1,N/A,N/A,N/A
+18,Thaddeus Young,FG_UNASSISTED,None,9:13,1,Pacers,Nets,9 - 4,1,8,2,Jumper
+19,Rodions Kurucs,FG_UNASSISTED,None,8:53,1,Nets,Pacers,11 - 4,0,22,2,Jumper
+20,Bojan Bogdanovic,FG_UNASSISTED,None,8:37,1,Pacers,Nets,11 - 6,1,19,2,Jumper
+21,D'Angelo Russell,FG_MISS,None,8:28,1,Nets,Pacers,11 - 6,0,11,2,Jumper
+22,D'Angelo Russell,OFFENSIVE_REBOUND,None,8:25,1,Nets,Pacers,11 - 6,0,N/A,N/A,N/A
+23,DeMarre Carroll,FG_MISS,None,8:23,1,Nets,Pacers,11 - 6,0,29,3,Jumper
+24,Darren Collison,DEFENSIVE_REBOUND,None,8:21,1,Pacers,Nets,11 - 6,1,N/A,N/A,N/A
+25,Darren Collison,FG_MISS,None,8:13,1,Pacers,Nets,11 - 6,1,-,2,Jumper
+26,D'Angelo Russell,DEFENSIVE_REBOUND,None,8:10,1,Nets,Pacers,11 - 6,0,N/A,N/A,N/A
+27,Joe Harris,FG_MISS,None,8:07,1,Nets,Pacers,11 - 6,0,27,3,Jumper
+28,Rodions Kurucs,OFFENSIVE_REBOUND,None,8:03,1,Nets,Pacers,11 - 6,0,N/A,N/A,N/A
+29,Rodions Kurucs's,FG_MISS,Myles Turner,7:57,1,Pacers,Nets,11 - 6,0,0,2,Layup
+30,Rodions Kurucs,JUMP_BALL,None,7:57,1,Pacers,Nets,11 - 6,1,N/A,N/A,N/A
+31,Team,DEFENSIVE_REBOUND,None,7:57,1,Pacers,Nets,11 - 6,1,N/A,N/A,N/A
+32,Rodions Kurucs,FOUL_ON_FLOOR,None,7:57,1,Nets,Pacers,11 - 6,0,N/A,N/A,N/A
+33,Thaddeus Young,TURNOVER,None,7:45,1,Pacers,Nets,11 - 6,1,N/A,N/A,N/A
+34,Rodions Kurucs,FG_MISS,Myles Turner,7:34,1,Pacers,Nets,11 - 6,0,5,2,Jumper
+35,Rodions Kurucs,OFFENSIVE_REBOUND,None,7:32,1,Nets,Pacers,11 - 6,0,N/A,N/A,N/A
+36,Rodions Kurucs,FG_MISS,None,7:31,1,Nets,Pacers,11 - 6,0,10,2,Jumper
+37,Myles Turner,DEFENSIVE_REBOUND,None,7:30,1,Pacers,Nets,11 - 6,1,N/A,N/A,N/A
+38,Myles Turner,FG_ASSISTED,Darren Collison,7:21,1,Pacers,Nets,11 - 9,1,27,3,Jumper
+39,Team,Unknown,None,7:19,1,Nets,Pacers,11 - 9,0,N/A,N/A,N/A
+40,Jarrett Allen,FG_MISS,None,7:01,1,Nets,Pacers,11 - 9,0,0,2,Layup
+41,D'Angelo Russell,OFFENSIVE_REBOUND,None,6:59,1,Nets,Pacers,11 - 9,0,N/A,N/A,N/A
+42,D'Angelo Russell,FG_MISS,None,6:59,1,Nets,Pacers,11 - 9,0,-,2,Jumper
+43,Myles Turner,DEFENSIVE_REBOUND,None,6:58,1,Pacers,Nets,11 - 9,1,N/A,N/A,N/A
+44,Myles Turner,FG_ASSISTED,Darren Collison,6:53,1,Pacers,Nets,11 - 12,1,27,3,Jumper
+45,Jarrett Allen,FG_MISS,None,6:37,1,Nets,Pacers,11 - 12,0,8,2,Jumper
+46,Myles Turner,DEFENSIVE_REBOUND,None,6:35,1,Pacers,Nets,11 - 12,1,N/A,N/A,N/A
+47,Wesley Matthews,FG_MISS,None,6:13,1,Pacers,Nets,11 - 12,1,27,2,Jumper
+48,Jarrett Allen,DEFENSIVE_REBOUND,None,6:09,1,Nets,Pacers,11 - 12,0,N/A,N/A,N/A
+49,DeMarre Carroll,FG_MISS,None,6:02,1,Nets,Pacers,11 - 12,0,0,2,Layup
+50,Jarrett Allen,OFFENSIVE_REBOUND,None,5:59,1,Nets,Pacers,11 - 12,0,N/A,N/A,N/A
+51,Jarrett Allen,FG_UNASSISTED,None,5:59,1,Nets,Pacers,13 - 12,0,0,2,Dunk
+52,Jarrett Allen,FOUL_ON_FLOOR,None,5:41,1,Nets,Pacers,13 - 12,0,N/A,N/A,N/A
+53,Domantas Sabonis,SUBSTITUTION,Young Thaddeus,5:41,1,Pacers,Nets,13 - 12,1,N/A,N/A,N/A
+54,Jared Dudley,SUBSTITUTION,Kurucs Rodions,5:41,1,Nets,Pacers,13 - 12,0,N/A,N/A,N/A
+55,Spencer Dinwiddie,SUBSTITUTION,Carroll DeMarre,5:41,1,Nets,Pacers,13 - 12,0,N/A,N/A,N/A
+56,Domantas Sabonis's,FG_MISS,Jarrett Allen,5:34,1,Nets,Pacers,13 - 12,1,0,2,Layup
+57,Jared Dudley,DEFENSIVE_REBOUND,None,5:32,1,Nets,Pacers,13 - 12,0,N/A,N/A,N/A
+58,Darren Collison,FOUL_ON_FLOOR,None,5:25,1,Pacers,Nets,13 - 12,1,N/A,N/A,N/A
+59,D'Angelo Russell,FT,None,5:25,1,Nets,Pacers,14 - 12,0,N/A,1,N/A
+60,D'Angelo Russell,FT,None,5:25,1,Nets,Pacers,15 - 12,0,N/A,1,N/A
+61,Bojan Bogdanovic,FG_ASSISTED,Darren Collison,5:16,1,Pacers,Nets,15 - 15,1,27,3,Jumper
+62,Joe Harris,FG_ASSISTED,D'Angelo Russell,5:01,1,Nets,Pacers,17 - 15,0,0,2,Layup
+63,Darren Collison,FG_MISS,None,4:48,1,Pacers,Nets,17 - 15,1,27,3,Jumper
+64,Spencer Dinwiddie,DEFENSIVE_REBOUND,None,4:45,1,Nets,Pacers,17 - 15,0,N/A,N/A,N/A
+65,Spencer Dinwiddie,TURNOVER,Darren Collison,4:41,1,Nets,Pacers,17 - 15,0,N/A,N/A,N/A
+66,Wesley Matthews,FG_ASSISTED,Darren Collison,4:36,1,Pacers,Nets,17 - 18,1,28,3,Jumper
+67,D'Angelo Russell,FG_ASSISTED,Jared Dudley,4:19,1,Nets,Pacers,19 - 18,0,9,2,Jumper
+68,Spencer Dinwiddie,FOUL_ON_FLOOR,None,4:07,1,Nets,Pacers,19 - 18,0,N/A,N/A,N/A
+69,Caris LeVert,SUBSTITUTION,Russell D'Angelo,4:07,1,Nets,Pacers,19 - 18,0,N/A,N/A,N/A
+70,Darren Collison,FG_MISS,None,4:03,1,Pacers,Nets,19 - 18,1,19,2,Jumper
+71,Jared Dudley,DEFENSIVE_REBOUND,None,4:00,1,Nets,Pacers,19 - 18,0,N/A,N/A,N/A
+72,Spencer Dinwiddie,FG_MISS,None,3:42,1,Nets,Pacers,19 - 18,0,23,3,Jumper
+73,Darren Collison,DEFENSIVE_REBOUND,None,3:39,1,Pacers,Nets,19 - 18,1,N/A,N/A,N/A
+74,Darren Collison,FG_MISS,None,3:17,1,Pacers,Nets,19 - 18,1, ,2,Jumper
+75,Jared Dudley,DEFENSIVE_REBOUND,None,3:15,1,Nets,Pacers,19 - 18,0,N/A,N/A,N/A
+76,Jarrett Allen,FG_MISS,None,3:10,1,Nets,Pacers,19 - 18,0,0,2,Layup
+77,Caris LeVert,OFFENSIVE_REBOUND,None,3:07,1,Nets,Pacers,19 - 18,0,N/A,N/A,N/A
+78,Caris LeVert,FG_UNASSISTED,None,3:07,1,Nets,Pacers,21 - 18,0, ,2,Jumper
+79,Domantas Sabonis,TURNOVER,Caris LeVert,2:51,1,Pacers,Nets,21 - 18,1,N/A,N/A,N/A
+80,Caris LeVert,FG_MISS,None,2:48,1,Nets,Pacers,21 - 18,0,27,3,Jumper
+81,Domantas Sabonis,DEFENSIVE_REBOUND,None,2:45,1,Pacers,Nets,21 - 18,1,N/A,N/A,N/A
+82,Myles Turner's,FG_MISS,Jared Dudley,2:27,1,Nets,Pacers,21 - 18,1,0,2,Layup
+83,Jared Dudley,DEFENSIVE_REBOUND,None,2:25,1,Nets,Pacers,21 - 18,0,N/A,N/A,N/A
+84,Joe Harris,FG_ASSISTED,Spencer Dinwiddie,2:13,1,Nets,Pacers,24 - 18,0,27,3,Jumper
+85,Team,Unknown,None,2:11,1,Pacers,Nets,24 - 18,1,N/A,N/A,N/A
+86,Doug McDermott,SUBSTITUTION,Collison Darren,2:11,1,Pacers,Nets,24 - 18,1,N/A,N/A,N/A
+87,T.J. Leaf,SUBSTITUTION,Matthews Wesley,2:11,1,Pacers,Nets,24 - 18,1,N/A,N/A,N/A
+88,Aaron Holiday,SUBSTITUTION,Turner Myles,2:11,1,Pacers,Nets,24 - 18,1,N/A,N/A,N/A
+89,Cory Joseph,SUBSTITUTION,Bogdanovic Bojan,2:11,1,Pacers,Nets,24 - 18,1,N/A,N/A,N/A
+90,DeMarre Carroll,SUBSTITUTION,Harris Joe,2:11,1,Nets,Pacers,24 - 18,0,N/A,N/A,N/A
+91,Ed Davis,SUBSTITUTION,Allen Jarrett,2:11,1,Nets,Pacers,24 - 18,0,N/A,N/A,N/A
+92,Cory Joseph,FG_MISS,None,1:52,1,Pacers,Nets,24 - 18,1,19,2,Jumper
+93,Ed Davis,DEFENSIVE_REBOUND,None,1:49,1,Nets,Pacers,24 - 18,0,N/A,N/A,N/A
+94,DeMarre Carroll,FG_MISS,None,1:39,1,Nets,Pacers,24 - 18,0,26,3,Jumper
+95,Cory Joseph,DEFENSIVE_REBOUND,None,1:36,1,Pacers,Nets,24 - 18,1,N/A,N/A,N/A
+96,Doug McDermott,FG_ASSISTED,Cory Joseph,1:31,1,Pacers,Nets,24 - 21,1, ,3,Jumper
+97,Caris LeVert,FG_UNASSISTED,None,1:08,1,Nets,Pacers,26 - 21,0,12,2,Jumper
+98,Domantas Sabonis,FG_ASSISTED,Aaron Holiday,51.8,1,Pacers,Nets,26 - 23,1,0,2,Dunk
+99,Jared Dudley,FG_ASSISTED,Caris LeVert,37.6,1,Nets,Pacers,29 - 23,0,29,3,Jumper
+100,Cory Joseph,FG_UNASSISTED,None,32.9,1,Pacers,Nets,29 - 25,1,3,2,Jumper
+101,Aaron Holiday,FOUL_ON_FLOOR,None,19.4,1,Pacers,Nets,29 - 25,1,N/A,N/A,N/A
+102,Ed Davis,FT,None,19.4,1,Nets,Pacers,30 - 25,0,N/A,1,N/A
+103,Ed Davis,FT,None,19.4,1,Nets,Pacers,31 - 25,0,N/A,1,N/A
+104,Cory Joseph,FG_MISS,None,0.0,1,Pacers,Nets,31 - 25,1,21,2,Jumper
+105,Team,OFFENSIVE_REBOUND,None,0.0,1,Pacers,Nets,31 - 25,1,N/A,N/A,N/A
+106,End of,Unknown,None,0.0,1,Pacers,Nets,31 - 25,1,N/A,N/A,N/A
+0,T.J. Leaf,FG_ASSISTED,Domantas Sabonis,11:40,2,Pacers,Nets,31 - 27,1,2,2,Jumper
+1,Jared Dudley,TURNOVER,None,11:28,2,Nets,Pacers,31 - 27,0,N/A,N/A,N/A
+2,Doug McDermott,FG_MISS,None,11:19,2,Pacers,Nets,31 - 27,1,12,2,Jumper
+3,DeMarre Carroll,DEFENSIVE_REBOUND,None,11:16,2,Nets,Pacers,31 - 27,0,N/A,N/A,N/A
+4,Jared Dudley,FG_MISS,None,11:11,2,Nets,Pacers,31 - 27,0, ,3,Jumper
+5,T.J. Leaf,DEFENSIVE_REBOUND,None,11:07,2,Pacers,Nets,31 - 27,1,N/A,N/A,N/A
+6,Aaron Holiday,FG_MISS,None,11:01,2,Pacers,Nets,31 - 27,1,28,2,Jumper
+7,DeMarre Carroll,DEFENSIVE_REBOUND,None,10:58,2,Nets,Pacers,31 - 27,0,N/A,N/A,N/A
+8,Aaron Holiday,FOUL_ON_FLOOR,None,10:40,2,Pacers,Nets,31 - 27,1,N/A,N/A,N/A
+9,D'Angelo Russell,SUBSTITUTION,Dinwiddie Spencer,10:40,2,Nets,Pacers,31 - 27,0,N/A,N/A,N/A
+10,Treveon Graham,SUBSTITUTION,Carroll DeMarre,10:40,2,Nets,Pacers,31 - 27,0,N/A,N/A,N/A
+11,Caris LeVert,FG_MISS,None,10:35,2,Nets,Pacers,31 - 27,0,10,2,Jumper
+12,Caris LeVert,OFFENSIVE_REBOUND,None,10:33,2,Nets,Pacers,31 - 27,0,N/A,N/A,N/A
+13,D'Angelo Russell,FG_MISS,None,10:22,2,Nets,Pacers,31 - 27,0,27,3,Jumper
+14,Domantas Sabonis,DEFENSIVE_REBOUND,None,10:20,2,Pacers,Nets,31 - 27,1,N/A,N/A,N/A
+15,T.J. Leaf,FG_ASSISTED,Cory Joseph,10:13,2,Pacers,Nets,31 - 29,1,9,2,Jumper
+16,Doug McDermott,FOUL_ON_FLOOR,None,9:54,2,Pacers,Nets,31 - 29,1,N/A,N/A,N/A
+17,Treveon Graham,FG_MISS,None,9:49,2,Nets,Pacers,31 - 29,0,26,3,Jumper
+18,Cory Joseph,DEFENSIVE_REBOUND,None,9:46,2,Pacers,Nets,31 - 29,1,N/A,N/A,N/A
+19,Cory Joseph,FG_UNASSISTED,None,9:40,2,Pacers,Nets,31 - 31,1,21,2,Jumper
+20,D'Angelo Russell,FG_MISS,None,9:19,2,Nets,Pacers,31 - 31,0, ,2,Jumper
+21,Domantas Sabonis,DEFENSIVE_REBOUND,None,9:18,2,Pacers,Nets,31 - 31,1,N/A,N/A,N/A
+22,Cory Joseph,FG_MISS,None,9:09,2,Pacers,Nets,31 - 31,1,27,3,Jumper
+23,T.J. Leaf,OFFENSIVE_REBOUND,None,9:04,2,Pacers,Nets,31 - 31,1,N/A,N/A,N/A
+24,Doug McDermott,FG_MISS,None,9:02,2,Pacers,Nets,31 - 31,1,27,3,Jumper
+25,Team,DEFENSIVE_REBOUND,None,8:59,2,Nets,Pacers,31 - 31,0,N/A,N/A,N/A
+26,Treveon Graham,FG_ASSISTED,Jared Dudley,8:57,2,Nets,Pacers,34 - 31,0,30,3,Jumper
+27,Team,Unknown,None,8:53,2,Pacers,Nets,34 - 31,1,N/A,N/A,N/A
+28,Bojan Bogdanovic,SUBSTITUTION,Joseph Cory,8:53,2,Pacers,Nets,34 - 31,1,N/A,N/A,N/A
+29,Domantas Sabonis,FG_MISS,None,8:42,2,Pacers,Nets,34 - 31,1,19,2,Jumper
+30,Caris LeVert,DEFENSIVE_REBOUND,None,8:39,2,Nets,Pacers,34 - 31,0,N/A,N/A,N/A
+31,Caris LeVert,FG_UNASSISTED,None,8:31,2,Nets,Pacers,36 - 31,0,0,2,Layup
+32,Domantas Sabonis,FOUL_ON_FLOOR,None,8:31,2,Pacers,Nets,36 - 31,1,N/A,N/A,N/A
+33,Caris LeVert,FT,None,8:31,2,Nets,Pacers,37 - 31,0,N/A,1,N/A
+34,Domantas Sabonis,FG_ASSISTED,Aaron Holiday,8:12,2,Pacers,Nets,37 - 33,1,10,2,Jumper
+35,Jared Dudley,FG_MISS,None,7:59,2,Nets,Pacers,37 - 33,0,30,3,Jumper
+36,Bojan Bogdanovic,DEFENSIVE_REBOUND,None,7:56,2,Pacers,Nets,37 - 33,1,N/A,N/A,N/A
+37,Bojan Bogdanovic,FG_MISS,None,7:48,2,Pacers,Nets,37 - 33,1,17,2,Jumper
+38,Ed Davis,DEFENSIVE_REBOUND,None,7:43,2,Nets,Pacers,37 - 33,0,N/A,N/A,N/A
+39,D'Angelo Russell,FG_MISS,None,7:37,2,Nets,Pacers,37 - 33,0,9,2,Jumper
+40,Ed Davis,OFFENSIVE_REBOUND,None,7:35,2,Nets,Pacers,37 - 33,0,N/A,N/A,N/A
+41,D'Angelo Russell,FG_MISS,None,7:32,2,Nets,Pacers,37 - 33,0,27,3,Jumper
+42,Bojan Bogdanovic,DEFENSIVE_REBOUND,None,7:29,2,Pacers,Nets,37 - 33,1,N/A,N/A,N/A
+43,Aaron Holiday,TURNOVER,Treveon Graham,7:20,2,Pacers,Nets,37 - 33,1,N/A,N/A,N/A
+44,Jared Dudley,TURNOVER,Bojan Bogdanovic,7:16,2,Nets,Pacers,37 - 33,0,N/A,N/A,N/A
+45,Thaddeus Young,SUBSTITUTION,Leaf T.J.,7:13,2,Pacers,Nets,37 - 33,1,N/A,N/A,N/A
+46,Spencer Dinwiddie,SUBSTITUTION,Dudley Jared,7:13,2,Nets,Pacers,37 - 33,0,N/A,N/A,N/A
+47,Joe Harris,SUBSTITUTION,LeVert Caris,7:13,2,Nets,Pacers,37 - 33,0,N/A,N/A,N/A
+48,Aaron Holiday,FG_ASSISTED,Thaddeus Young,7:08,2,Pacers,Nets,37 - 36,1,27,3,Jumper
+49,Thaddeus Young,FOUL_ON_FLOOR,None,6:48,2,Pacers,Nets,37 - 36,1,N/A,N/A,N/A
+50,Aaron Holiday,FOUL_ON_FLOOR,None,6:37,2,Pacers,Nets,37 - 36,1,N/A,N/A,N/A
+51,D'Angelo Russell,FT,None,6:37,2,Nets,Pacers,38 - 36,0,N/A,1,N/A
+52,D'Angelo Russell,FT,None,6:37,2,Nets,Pacers,39 - 36,0,N/A,1,N/A
+53,Aaron Holiday,FG_MISS,None,6:21,2,Pacers,Nets,39 - 36,1,25,3,Jumper
+54,Treveon Graham,DEFENSIVE_REBOUND,None,6:16,2,Nets,Pacers,39 - 36,0,N/A,N/A,N/A
+55,D'Angelo Russell,FG_MISS,None,6:07,2,Nets,Pacers,39 - 36,0,28,3,Jumper
+56,D'Angelo Russell,OFFENSIVE_REBOUND,None,6:02,2,Nets,Pacers,39 - 36,0,N/A,N/A,N/A
+57,Joe Harris,FG_ASSISTED,D'Angelo Russell,6:01,2,Nets,Pacers,42 - 36,0,27,3,Jumper
+58,Aaron Holiday,FG_MISS,None,5:44,2,Pacers,Nets,42 - 36,1,17,2,Jumper
+59,Treveon Graham,DEFENSIVE_REBOUND,None,5:40,2,Nets,Pacers,42 - 36,0,N/A,N/A,N/A
+60,D'Angelo Russell,TURNOVER,None,5:28,2,Nets,Pacers,42 - 36,0,N/A,N/A,N/A
+61,Darren Collison,SUBSTITUTION,Holiday Aaron,5:28,2,Pacers,Nets,42 - 36,1,N/A,N/A,N/A
+62,Wesley Matthews,SUBSTITUTION,McDermott Doug,5:28,2,Pacers,Nets,42 - 36,1,N/A,N/A,N/A
+63,Jarrett Allen,SUBSTITUTION,Davis Ed,5:28,2,Nets,Pacers,42 - 36,0,N/A,N/A,N/A
+64,Darren Collison,FG_MISS,None,5:06,2,Pacers,Nets,42 - 36,1,22,2,Jumper
+65,Joe Harris,DEFENSIVE_REBOUND,None,5:02,2,Nets,Pacers,42 - 36,0,N/A,N/A,N/A
+66,Spencer Dinwiddie,FG_MISS,None,4:53,2,Nets,Pacers,42 - 36,0,23,3,Jumper
+67,Jarrett Allen,OFFENSIVE_REBOUND,None,4:49,2,Nets,Pacers,42 - 36,0,N/A,N/A,N/A
+68,Joe Harris,FG_ASSISTED,Treveon Graham,4:46,2,Nets,Pacers,45 - 36,0,28,3,Jumper
+69,Wesley Matthews,FG_MISS,None,4:29,2,Pacers,Nets,45 - 36,1,26,3,Jumper
+70,Jarrett Allen,DEFENSIVE_REBOUND,None,4:25,2,Nets,Pacers,45 - 36,0,N/A,N/A,N/A
+71,Joe Harris,FG_MISS,None,4:10,2,Nets,Pacers,45 - 36,0,23,3,Jumper
+72,Jarrett Allen,OFFENSIVE_REBOUND,None,4:07,2,Nets,Pacers,45 - 36,0,N/A,N/A,N/A
+73,Jarrett Allen,FG_MISS,None,4:03,2,Nets,Pacers,45 - 36,0,23,3,Jumper
+74,Joe Harris,OFFENSIVE_REBOUND,None,3:59,2,Nets,Pacers,45 - 36,0,N/A,N/A,N/A
+75,Joe Harris,FG_MISS,None,3:57,2,Nets,Pacers,45 - 36,0,4,2,Jumper
+76,Domantas Sabonis,DEFENSIVE_REBOUND,None,3:54,2,Pacers,Nets,45 - 36,1,N/A,N/A,N/A
+77,Thaddeus Young,FG_MISS,None,3:48,2,Pacers,Nets,45 - 36,1,2,2,Jumper
+78,Domantas Sabonis,OFFENSIVE_REBOUND,None,3:44,2,Pacers,Nets,45 - 36,1,N/A,N/A,N/A
+79,Domantas Sabonis,FG_MISS,None,3:44,2,Pacers,Nets,45 - 36,1,0,2,Dunk
+80,Treveon Graham,DEFENSIVE_REBOUND,None,3:44,2,Nets,Pacers,45 - 36,0,N/A,N/A,N/A
+81,D'Angelo Russell,TURNOVER,None,3:40,2,Nets,Pacers,45 - 36,0,N/A,N/A,N/A
+82,Myles Turner,SUBSTITUTION,Sabonis Domantas,3:40,2,Pacers,Nets,45 - 36,1,N/A,N/A,N/A
+83,Caris LeVert,SUBSTITUTION,Russell D'Angelo,3:40,2,Nets,Pacers,45 - 36,0,N/A,N/A,N/A
+84,Bojan Bogdanovic,FG_MISS,None,3:32,2,Pacers,Nets,45 - 36,1,18,2,Jumper
+85,Treveon Graham,DEFENSIVE_REBOUND,None,3:32,2,Nets,Pacers,45 - 36,0,N/A,N/A,N/A
+86,Joe Harris,FG_ASSISTED,Spencer Dinwiddie,3:19,2,Nets,Pacers,48 - 36,0,27,3,Jumper
+87,Thaddeus Young,FG_ASSISTED,Bojan Bogdanovic,2:59,2,Pacers,Nets,48 - 38,1,2,2,Jumper
+88,Spencer Dinwiddie,FOUL_ON_FLOOR,None,2:59,2,Nets,Pacers,48 - 38,0,N/A,N/A,N/A
+89,Team,Unknown,None,2:59,2,Nets,Pacers,48 - 38,0,N/A,N/A,N/A
+90,Rodions Kurucs,SUBSTITUTION,Graham Treveon,2:59,2,Nets,Pacers,48 - 38,0,N/A,N/A,N/A
+91,Thaddeus Young,FT_MISS,None,2:59,2,Pacers,Nets,48 - 38,1,N/A,1,N/A
+92,Jarrett Allen,DEFENSIVE_REBOUND,None,2:57,2,Nets,Pacers,48 - 38,0,N/A,N/A,N/A
+93,Jarrett Allen,FG_ASSISTED,Rodions Kurucs,2:41,2,Nets,Pacers,50 - 38,0,0,2,Dunk
+94,Bojan Bogdanovic,FG_ASSISTED,Thaddeus Young,2:31,2,Pacers,Nets,50 - 40,1,0,2,Layup
+95,Jarrett Allen,FG_ASSISTED,Caris LeVert,2:19,2,Nets,Pacers,52 - 40,0,8,2,Jumper
+96,Thaddeus Young,FG_ASSISTED,Darren Collison,2:00,2,Pacers,Nets,52 - 42,1,10,2,Jumper
+97,Rodions Kurucs,FG_MISS,None,1:43,2,Nets,Pacers,52 - 42,0,27,3,Jumper
+98,Team,DEFENSIVE_REBOUND,None,1:40,2,Pacers,Nets,52 - 42,1,N/A,N/A,N/A
+99,Bojan Bogdanovic,TURNOVER,None,1:31,2,Pacers,Nets,52 - 42,1,N/A,N/A,N/A
+100,Caris LeVert,FG_MISS,None,1:20,2,Nets,Pacers,52 - 42,0,30,2,Jumper
+101,Team,DEFENSIVE_REBOUND,None,1:17,2,Pacers,Nets,52 - 42,1,N/A,N/A,N/A
+102,Thaddeus Young,FG_MISS,None,1:09,2,Pacers,Nets,52 - 42,1,20,2,Jumper
+103,Rodions Kurucs,DEFENSIVE_REBOUND,None,1:05,2,Nets,Pacers,52 - 42,0,N/A,N/A,N/A
+104,Joe Harris,FOUL_ON_FLOOR,None,1:01,2,Nets,Pacers,52 - 42,0,N/A,N/A,N/A
+105,Joe Harris,TURNOVER,None,1:01,2,Nets,Pacers,52 - 42,0,N/A,N/A,N/A
+106,Myles Turner,FG_MISS,Caris LeVert,50.7,2,Nets,Pacers,52 - 42,1,0,2,Layup
+107,Caris LeVert,DEFENSIVE_REBOUND,None,47.6,2,Nets,Pacers,52 - 42,0,N/A,N/A,N/A
+108,Caris LeVert,FG_MISS,None,44.6,2,Nets,Pacers,52 - 42,0,0,2,Layup
+109,Jarrett Allen,OFFENSIVE_REBOUND,None,43.9,2,Nets,Pacers,52 - 42,0,N/A,N/A,N/A
+110,Jarrett Allen,TURNOVER,None,43.9,2,Nets,Pacers,52 - 42,0,N/A,N/A,N/A
+111,Caris LeVert,FOUL_ON_FLOOR,None,35.8,2,Nets,Pacers,52 - 42,0,N/A,N/A,N/A
+112,Bojan Bogdanovic,FG_ASSISTED,Thaddeus Young,28.8,2,Pacers,Nets,52 - 44,1,0,2,Layup
+113,Joe Harris,FG_MISS,None,10.0,2,Nets,Pacers,52 - 44,0,28,3,Jumper
+114,Team,DEFENSIVE_REBOUND,None,8.0,2,Pacers,Nets,52 - 44,1,N/A,N/A,N/A
+115,Darren Collison,FG_MISS,None,3.1,2,Pacers,Nets,52 - 44,1,28,3,Jumper
+116,Rodions Kurucs,DEFENSIVE_REBOUND,None,3.1,2,Nets,Pacers,52 - 44,0,N/A,N/A,N/A
+117,End of,Unknown,None,0.0,2,Pacers,Nets,52 - 44,1,N/A,N/A,N/A
+0,DeMarre Carroll,SUBSTITUTION,Dinwiddie Spencer,12:00,3,Nets,Pacers,52 - 44,0,N/A,N/A,N/A
+1,D'Angelo Russell,SUBSTITUTION,LeVert Caris,12:00,3,Nets,Pacers,52 - 44,0,N/A,N/A,N/A
+2,Bojan Bogdanovic,FG_MISS,None,11:49,3,Pacers,Nets,52 - 44,1, ,2,Jumper
+3,Rodions Kurucs,DEFENSIVE_REBOUND,None,11:46,3,Nets,Pacers,52 - 44,0,N/A,N/A,N/A
+4,Joe Harris,TURNOVER,None,11:41,3,Nets,Pacers,52 - 44,0,N/A,N/A,N/A
+5,Darren Collison,FG_MISS,None,11:29,3,Pacers,Nets,52 - 44,1, ,2,Jumper
+6,Thaddeus Young,OFFENSIVE_REBOUND,None,11:26,3,Pacers,Nets,52 - 44,1,N/A,N/A,N/A
+7,Thaddeus Young,FG_UNASSISTED,None,11:26,3,Pacers,Nets,52 - 46,1, ,2,Jumper
+8,D'Angelo Russell,TURNOVER,Myles Turner,11:09,3,Nets,Pacers,52 - 46,0,N/A,N/A,N/A
+9,Thaddeus Young,FG_UNASSISTED,None,10:56,3,Pacers,Nets,52 - 48,1,0,2,Layup
+10,Team,Unknown,None,10:55,3,Nets,Pacers,52 - 48,0,N/A,N/A,N/A
+11,Jarrett Allen,FG_ASSISTED,D'Angelo Russell,10:43,3,Nets,Pacers,54 - 48,0,0,2,Dunk
+12,Darren Collison,FG_MISS,None,10:22,3,Pacers,Nets,54 - 48,1,21,2,Jumper
+13,Team,DEFENSIVE_REBOUND,None,10:21,3,Nets,Pacers,54 - 48,0,N/A,N/A,N/A
+14,DeMarre Carroll,FG_MISS,None,9:59,3,Nets,Pacers,54 - 48,0,25,3,Jumper
+15,Rodions Kurucs,OFFENSIVE_REBOUND,None,9:57,3,Nets,Pacers,54 - 48,0,N/A,N/A,N/A
+16,Rodions Kurucs's,FG_MISS,Myles Turner,9:57,3,Pacers,Nets,54 - 48,0,0,2,Layup
+17,Rodions Kurucs,TURNOVER,Darren Collison,9:55,3,Nets,Pacers,54 - 48,0,N/A,N/A,N/A
+18,Rodions Kurucs,OFFENSIVE_REBOUND,None,9:55,3,Nets,Pacers,54 - 48,0,N/A,N/A,N/A
+19,Thaddeus Young,FG_UNASSISTED,None,9:38,3,Pacers,Nets,54 - 50,1,0,2,Layup
+20,D'Angelo Russell,FG_UNASSISTED,None,9:26,3,Nets,Pacers,56 - 50,0,16,2,Jumper
+21,Myles Turner,FG_MISS,None,9:15,3,Pacers,Nets,56 - 50,1,28,3,Jumper
+22,DeMarre Carroll,DEFENSIVE_REBOUND,None,9:11,3,Nets,Pacers,56 - 50,0,N/A,N/A,N/A
+23,D'Angelo Russell,FG_UNASSISTED,None,9:02,3,Nets,Pacers,58 - 50,0, ,2,Jumper
+24,Bojan Bogdanovic,FG_ASSISTED,Thaddeus Young,8:48,3,Pacers,Nets,58 - 53,1,28,3,Jumper
+25,D'Angelo Russell,FG_UNASSISTED,None,8:25,3,Nets,Pacers,60 - 53,0,18,2,Jumper
+26,Darren Collison,FG_MISS,None,8:05,3,Pacers,Nets,60 - 53,1,25,3,Jumper
+27,DeMarre Carroll,DEFENSIVE_REBOUND,None,8:02,3,Nets,Pacers,60 - 53,0,N/A,N/A,N/A
+28,DeMarre Carroll,FG_ASSISTED,Joe Harris,7:48,3,Nets,Pacers,62 - 53,0,11,2,Jumper
+29,Team,Unknown,None,7:43,3,Pacers,Nets,62 - 53,1,N/A,N/A,N/A
+30,Domantas Sabonis,SUBSTITUTION,Turner Myles,7:43,3,Pacers,Nets,62 - 53,1,N/A,N/A,N/A
+31,D'Angelo Russell,FOUL_ON_FLOOR,None,7:31,3,Nets,Pacers,62 - 53,0,N/A,N/A,N/A
+32,Bojan Bogdanovic,FT,None,7:31,3,Pacers,Nets,62 - 54,1,N/A,1,N/A
+33,Bojan Bogdanovic,FT_MISS,None,7:31,3,Pacers,Nets,62 - 54,1,N/A,1,N/A
+34,Jarrett Allen,DEFENSIVE_REBOUND,None,7:30,3,Nets,Pacers,62 - 54,0,N/A,N/A,N/A
+35,Rodions Kurucs,FG_MISS,None,7:21,3,Nets,Pacers,62 - 54,0,27,3,Jumper
+36,Wesley Matthews,DEFENSIVE_REBOUND,None,7:17,3,Pacers,Nets,62 - 54,1,N/A,N/A,N/A
+37,Thaddeus Young,FG_UNASSISTED,None,7:03,3,Pacers,Nets,62 - 56,1,5,2,Jumper
+38,D'Angelo Russell,FG_UNASSISTED,None,6:52,3,Nets,Pacers,64 - 56,0,4,2,Jumper
+39,Thaddeus Young,TURNOVER,Joe Harris,6:41,3,Pacers,Nets,64 - 56,1,N/A,N/A,N/A
+40,DeMarre Carroll,FG_MISS,None,6:36,3,Nets,Pacers,64 - 56,0, ,2,Jumper
+41,DeMarre Carroll,OFFENSIVE_REBOUND,None,6:33,3,Nets,Pacers,64 - 56,0,N/A,N/A,N/A
+42,DeMarre Carroll,FG_UNASSISTED,None,6:33,3,Nets,Pacers,66 - 56,0, ,2,Jumper
+43,Darren Collison,FG_UNASSISTED,None,6:19,3,Pacers,Nets,66 - 58,1,18,2,Jumper
+44,Rodions Kurucs,FG_MISS,None,6:07,3,Nets,Pacers,66 - 58,0,0,2,Layup
+45,Domantas Sabonis,DEFENSIVE_REBOUND,None,6:05,3,Pacers,Nets,66 - 58,1,N/A,N/A,N/A
+46,DeMarre Carroll,FOUL_ON_FLOOR,None,6:02,3,Nets,Pacers,66 - 58,0,N/A,N/A,N/A
+47,Jared Dudley,SUBSTITUTION,Kurucs Rodions,6:02,3,Nets,Pacers,66 - 58,0,N/A,N/A,N/A
+48,Spencer Dinwiddie,SUBSTITUTION,Carroll DeMarre,6:02,3,Nets,Pacers,66 - 58,0,N/A,N/A,N/A
+49,Domantas Sabonis,FG_MISS,None,5:44,3,Pacers,Nets,66 - 58,1,0,2,Layup
+50,Thaddeus Young,OFFENSIVE_REBOUND,None,5:41,3,Pacers,Nets,66 - 58,1,N/A,N/A,N/A
+51,Thaddeus Young,FG_UNASSISTED,None,5:41,3,Pacers,Nets,66 - 60,1, ,2,Jumper
+52,Darren Collison,FOUL_ON_FLOOR,None,5:31,3,Pacers,Nets,66 - 60,1,N/A,N/A,N/A
+53,Doug McDermott,SUBSTITUTION,Bogdanovic Bojan,5:31,3,Pacers,Nets,66 - 60,1,N/A,N/A,N/A
+54,Caris LeVert,SUBSTITUTION,Russell D'Angelo,5:31,3,Nets,Pacers,66 - 60,0,N/A,N/A,N/A
+55,Jarrett Allen,FG_ASSISTED,Spencer Dinwiddie,5:17,3,Nets,Pacers,68 - 60,0,8,2,Jumper
+56,Domantas Sabonis,FG_ASSISTED,Darren Collison,5:02,3,Pacers,Nets,68 - 62,1,9,2,Jumper
+57,Jarrett Allen,FG_ASSISTED,Spencer Dinwiddie,4:42,3,Nets,Pacers,70 - 62,0,0,2,Dunk
+58,Darren Collison,TURNOVER,Caris LeVert,4:23,3,Pacers,Nets,70 - 62,1,N/A,N/A,N/A
+59,Wesley Matthews,FOUL_ON_FLOOR,None,4:21,3,Pacers,Nets,70 - 62,1,N/A,N/A,N/A
+60,Caris LeVert,FT,None,4:21,3,Nets,Pacers,71 - 62,0,N/A,1,N/A
+61,Cory Joseph,SUBSTITUTION,Collison Darren,4:21,3,Pacers,Nets,71 - 62,1,N/A,N/A,N/A
+62,Treveon Graham,SUBSTITUTION,Harris Joe,4:21,3,Nets,Pacers,71 - 62,0,N/A,N/A,N/A
+63,Ed Davis,SUBSTITUTION,Allen Jarrett,4:21,3,Nets,Pacers,71 - 62,0,N/A,N/A,N/A
+64,Caris LeVert,FT_MISS,None,4:21,3,Nets,Pacers,71 - 62,0,N/A,1,N/A
+65,Domantas Sabonis,DEFENSIVE_REBOUND,None,4:19,3,Pacers,Nets,71 - 62,1,N/A,N/A,N/A
+66,Doug McDermott,FG_MISS,None,4:08,3,Pacers,Nets,71 - 62,1,17,2,Jumper
+67,Ed Davis,DEFENSIVE_REBOUND,None,4:06,3,Nets,Pacers,71 - 62,0,N/A,N/A,N/A
+68,Spencer Dinwiddie,TURNOVER,None,3:56,3,Nets,Pacers,71 - 62,0,N/A,N/A,N/A
+69,T.J. Leaf,SUBSTITUTION,Young Thaddeus,3:56,3,Pacers,Nets,71 - 62,1,N/A,N/A,N/A
+70,Jared Dudley,FOUL_ON_FLOOR,None,3:48,3,Nets,Pacers,71 - 62,0,N/A,N/A,N/A
+71,Domantas Sabonis,FT_MISS,None,3:48,3,Pacers,Nets,71 - 62,1,N/A,1,N/A
+72,Team,OFFENSIVE_REBOUND,None,3:48,3,Pacers,Nets,71 - 62,1,N/A,N/A,N/A
+73,Domantas Sabonis,FT,None,3:48,3,Pacers,Nets,71 - 63,1,N/A,1,N/A
+74,Jared Dudley,FG_MISS,None,3:34,3,Nets,Pacers,71 - 63,0,26,3,Jumper
+75,Domantas Sabonis,DEFENSIVE_REBOUND,None,3:31,3,Pacers,Nets,71 - 63,1,N/A,N/A,N/A
+76,T.J. Leaf,FG_ASSISTED,Cory Joseph,3:21,3,Pacers,Nets,71 - 65,1,9,2,Jumper
+77,Cory Joseph,FOUL_ON_FLOOR,None,3:07,3,Pacers,Nets,71 - 65,1,N/A,N/A,N/A
+78,Spencer Dinwiddie,FT,None,3:07,3,Nets,Pacers,72 - 65,0,N/A,1,N/A
+79,Spencer Dinwiddie,FT,None,3:07,3,Nets,Pacers,73 - 65,0,N/A,1,N/A
+80,Cory Joseph,FG_UNASSISTED,None,2:56,3,Pacers,Nets,73 - 67,1,13,2,Jumper
+81,Caris LeVert,FG_MISS,None,2:46,3,Nets,Pacers,73 - 67,0, ,2,Jumper
+82,Ed Davis,OFFENSIVE_REBOUND,None,2:46,3,Nets,Pacers,73 - 67,0,N/A,N/A,N/A
+83,Wesley Matthews,FOUL_ON_FLOOR,None,2:34,3,Pacers,Nets,73 - 67,1,N/A,N/A,N/A
+84,Spencer Dinwiddie,FT,None,2:34,3,Nets,Pacers,74 - 67,0,N/A,1,N/A
+85,Aaron Holiday,SUBSTITUTION,Matthews Wesley,2:34,3,Pacers,Nets,74 - 67,1,N/A,N/A,N/A
+86,Spencer Dinwiddie,FT,None,2:34,3,Nets,Pacers,75 - 67,0,N/A,1,N/A
+87,Domantas Sabonis,FG_UNASSISTED,None,2:21,3,Pacers,Nets,75 - 69,1,7,2,Jumper
+88,Ed Davis,FG_ASSISTED,Jared Dudley,2:05,3,Nets,Pacers,77 - 69,0,0,2,Dunk
+89,Domantas Sabonis,TURNOVER,Jared Dudley,1:43,3,Pacers,Nets,77 - 69,1,N/A,N/A,N/A
+90,Jared Dudley,FG_ASSISTED,Spencer Dinwiddie,1:38,3,Nets,Pacers,80 - 69,0,26,3,Jumper
+91,Domantas Sabonis,TURNOVER,None,1:13,3,Pacers,Nets,80 - 69,1,N/A,N/A,N/A
+92,Jared Dudley,FG_MISS,None,1:04,3,Nets,Pacers,80 - 69,0,28,3,Jumper
+93,Team,OFFENSIVE_REBOUND,None,1:01,3,Nets,Pacers,80 - 69,0,N/A,N/A,N/A
+94,Caris LeVert,FG_ASSISTED,Treveon Graham,1:00,3,Nets,Pacers,82 - 69,0,0,2,Dunk
+95,Cory Joseph,FG_MISS,None,38.7,3,Pacers,Nets,82 - 69,1,24,3,Jumper
+96,Team,DEFENSIVE_REBOUND,None,36.7,3,Nets,Pacers,82 - 69,0,N/A,N/A,N/A
+97,Spencer Dinwiddie,FG_MISS,None,31.3,3,Nets,Pacers,82 - 69,0,27,3,Jumper
+98,Team,DEFENSIVE_REBOUND,None,28.4,3,Pacers,Nets,82 - 69,1,N/A,N/A,N/A
+99,Spencer Dinwiddie,FOUL_ON_FLOOR,None,13.5,3,Nets,Pacers,82 - 69,0,N/A,N/A,N/A
+100,Aaron Holiday,FG_MISS,None,7.6,3,Pacers,Nets,82 - 69,1,15,2,Jumper
+101,Caris LeVert,DEFENSIVE_REBOUND,None,4.8,3,Nets,Pacers,82 - 69,0,N/A,N/A,N/A
+102,Caris LeVert,FG_MISS,None,0.8,3,Nets,Pacers,82 - 69,0, ,2,Jumper
+103,Domantas Sabonis,DEFENSIVE_REBOUND,None,0.8,3,Pacers,Nets,82 - 69,1,N/A,N/A,N/A
+104,End of,Unknown,None,0.0,3,Pacers,Nets,82 - 69,1,N/A,N/A,N/A
+0,Caris LeVert,FG_UNASSISTED,None,11:44,4,Nets,Pacers,84 - 69,0,4,2,Jumper
+1,Cory Joseph,FOUL_ON_FLOOR,None,11:44,4,Pacers,Nets,84 - 69,1,N/A,N/A,N/A
+2,Caris LeVert,FT_MISS,None,11:44,4,Nets,Pacers,84 - 69,0,N/A,1,N/A
+3,Domantas Sabonis,DEFENSIVE_REBOUND,None,11:43,4,Pacers,Nets,84 - 69,1,N/A,N/A,N/A
+4,Aaron Holiday,TURNOVER,Ed Davis,11:20,4,Pacers,Nets,84 - 69,1,N/A,N/A,N/A
+5,Caris LeVert,FG_MISS,None,11:04,4,Nets,Pacers,84 - 69,0,7,2,Jumper
+6,Domantas Sabonis,DEFENSIVE_REBOUND,None,11:01,4,Pacers,Nets,84 - 69,1,N/A,N/A,N/A
+7,Caris LeVert,FOUL_ON_FLOOR,None,10:53,4,Nets,Pacers,84 - 69,0,N/A,N/A,N/A
+8,Doug McDermott,FT,None,10:53,4,Pacers,Nets,84 - 70,1,N/A,1,N/A
+9,Doug McDermott,FT,None,10:53,4,Pacers,Nets,84 - 71,1,N/A,1,N/A
+10,Spencer Dinwiddie,FOUL_ON_FLOOR,None,10:44,4,Nets,Pacers,84 - 71,0,N/A,N/A,N/A
+11,Spencer Dinwiddie,TURNOVER,None,10:44,4,Nets,Pacers,84 - 71,0,N/A,N/A,N/A
+12,T.J. Leaf,FG_MISS,None,10:32,4,Pacers,Nets,84 - 71,1,6,2,Jumper
+13,Ed Davis,DEFENSIVE_REBOUND,None,10:29,4,Nets,Pacers,84 - 71,0,N/A,N/A,N/A
+14,Spencer Dinwiddie,FG_MISS,None,10:22,4,Nets,Pacers,84 - 71,0,23,3,Jumper
+15,Domantas Sabonis,DEFENSIVE_REBOUND,None,10:19,4,Pacers,Nets,84 - 71,1,N/A,N/A,N/A
+16,Domantas Sabonis,FG_ASSISTED,Cory Joseph,10:11,4,Pacers,Nets,84 - 73,1,0,2,Layup
+17,Caris LeVert,FG_MISS,None,10:00,4,Nets,Pacers,84 - 73,0,0,2,Layup
+18,T.J. Leaf,DEFENSIVE_REBOUND,None,9:56,4,Pacers,Nets,84 - 73,1,N/A,N/A,N/A
+19,Doug McDermott,FG_MISS,None,9:51,4,Pacers,Nets,84 - 73,1,29,3,Jumper
+20,Treveon Graham,DEFENSIVE_REBOUND,None,9:46,4,Nets,Pacers,84 - 73,0,N/A,N/A,N/A
+21,Spencer Dinwiddie,FG_UNASSISTED,None,9:37,4,Nets,Pacers,87 - 73,0,29,2,Jumper
+22,Cory Joseph,FG_ASSISTED,Doug McDermott,9:20,4,Pacers,Nets,87 - 76,1,27,3,Jumper
+23,Spencer Dinwiddie,FG_UNASSISTED,None,9:09,4,Nets,Pacers,89 - 76,0, ,2,Jumper
+24,Doug McDermott,FG_MISS,None,8:55,4,Pacers,Nets,89 - 76,1,24,3,Jumper
+25,Team,DEFENSIVE_REBOUND,None,8:40,4,Nets,Pacers,89 - 76,0,N/A,N/A,N/A
+26,Team,Unknown,None,8:40,4,Nets,Pacers,89 - 76,0,N/A,N/A,N/A
+27,D'Angelo Russell,SUBSTITUTION,LeVert Caris,8:40,4,Nets,Pacers,89 - 76,0,N/A,N/A,N/A
+28,Treveon Graham,FG_ASSISTED,Spencer Dinwiddie,8:28,4,Nets,Pacers,92 - 76,0,26,3,Jumper
+29,Doug McDermott,FG_ASSISTED,Domantas Sabonis,8:13,4,Pacers,Nets,92 - 78,1,0,2,Layup
+30,Spencer Dinwiddie,FG_UNASSISTED,None,7:59,4,Nets,Pacers,94 - 78,0,0,2,Layup
+31,T.J. Leaf,FOUL_ON_FLOOR,None,7:59,4,Pacers,Nets,94 - 78,1,N/A,N/A,N/A
+32,Spencer Dinwiddie,FT,None,7:59,4,Nets,Pacers,95 - 78,0,N/A,1,N/A
+33,D'Angelo Russell,FOUL_ON_FLOOR,None,7:52,4,Nets,Pacers,95 - 78,0,N/A,N/A,N/A
+34,Aaron Holiday,FG_MISS,None,7:39,4,Pacers,Nets,95 - 78,1,10,2,Jumper
+35,Spencer Dinwiddie,DEFENSIVE_REBOUND,None,7:34,4,Nets,Pacers,95 - 78,0,N/A,N/A,N/A
+36,Team,Unknown,None,7:19,4,Nets,Pacers,95 - 78,0,N/A,N/A,N/A
+37,Thaddeus Young,SUBSTITUTION,McDermott Doug,7:19,4,Pacers,Nets,95 - 78,1,N/A,N/A,N/A
+38,Bojan Bogdanovic,SUBSTITUTION,Leaf T.J.,7:19,4,Pacers,Nets,95 - 78,1,N/A,N/A,N/A
+39,Spencer Dinwiddie,FG_MISS,None,7:13,4,Nets,Pacers,95 - 78,0,32,3,Jumper
+40,Cory Joseph,DEFENSIVE_REBOUND,None,7:11,4,Pacers,Nets,95 - 78,1,N/A,N/A,N/A
+41,Cory Joseph,FG_ASSISTED,Domantas Sabonis,6:49,4,Pacers,Nets,95 - 81,1,28,3,Jumper
+42,Thaddeus Young,FOUL_ON_FLOOR,None,6:24,4,Pacers,Nets,95 - 81,1,N/A,N/A,N/A
+43,Joe Harris,SUBSTITUTION,Dudley Jared,6:24,4,Nets,Pacers,95 - 81,0,N/A,N/A,N/A
+44,Caris LeVert,SUBSTITUTION,Dinwiddie Spencer,6:24,4,Nets,Pacers,95 - 81,0,N/A,N/A,N/A
+45,Thaddeus Young,FOUL_ON_FLOOR,None,6:15,4,Pacers,Nets,95 - 81,1,N/A,N/A,N/A
+46,Ed Davis,FT_MISS,None,6:15,4,Nets,Pacers,95 - 81,0,N/A,1,N/A
+47,Team,OFFENSIVE_REBOUND,None,6:15,4,Nets,Pacers,95 - 81,0,N/A,N/A,N/A
+48,Ed Davis,FT_MISS,None,6:15,4,Nets,Pacers,95 - 81,0,N/A,1,N/A
+49,Bojan Bogdanovic,DEFENSIVE_REBOUND,None,6:14,4,Pacers,Nets,95 - 81,1,N/A,N/A,N/A
+50,Domantas Sabonis,FG_ASSISTED,Aaron Holiday,6:03,4,Pacers,Nets,95 - 83,1,16,2,Jumper
+51,Joe Harris,TURNOVER,None,5:49,4,Nets,Pacers,95 - 83,0,N/A,N/A,N/A
+52,Domantas Sabonis,FG_ASSISTED,Bojan Bogdanovic,5:28,4,Pacers,Nets,95 - 85,1,0,2,Dunk
+53,D'Angelo Russell,FG_UNASSISTED,None,5:14,4,Nets,Pacers,97 - 85,0, ,2,Jumper
+54,Domantas Sabonis,FOUL_ON_FLOOR,None,5:14,4,Pacers,Nets,97 - 85,1,N/A,N/A,N/A
+55,Jarrett Allen,SUBSTITUTION,Davis Ed,5:14,4,Nets,Pacers,97 - 85,0,N/A,N/A,N/A
+56,D'Angelo Russell,FT,None,5:14,4,Nets,Pacers,98 - 85,0,N/A,1,N/A
+57,Domantas Sabonis,FG_ASSISTED,Aaron Holiday,4:58,4,Pacers,Nets,98 - 87,1,20,2,Jumper
+58,Caris LeVert,FG_UNASSISTED,None,4:40,4,Nets,Pacers,100 - 87,0,4,2,Jumper
+59,Thaddeus Young,TURNOVER,None,4:24,4,Pacers,Nets,100 - 87,1,N/A,N/A,N/A
+60,Jared Dudley,SUBSTITUTION,Graham Treveon,4:24,4,Nets,Pacers,100 - 87,0,N/A,N/A,N/A
+61,Domantas Sabonis,FOUL_ON_FLOOR,None,4:11,4,Pacers,Nets,100 - 87,1,N/A,N/A,N/A
+62,Joe Harris,FT,None,4:11,4,Nets,Pacers,101 - 87,0,N/A,1,N/A
+63,Joe Harris,FT_MISS,None,4:11,4,Nets,Pacers,101 - 87,0,N/A,1,N/A
+64,Team,DEFENSIVE_REBOUND,None,4:10,4,Pacers,Nets,101 - 87,1,N/A,N/A,N/A
+65,Bojan Bogdanovic,FG_MISS,None,3:55,4,Pacers,Nets,101 - 87,1,26,3,Jumper
+66,Joe Harris,DEFENSIVE_REBOUND,None,3:52,4,Nets,Pacers,101 - 87,0,N/A,N/A,N/A
+67,D'Angelo Russell,FG_MISS,None,3:35,4,Nets,Pacers,101 - 87,0,13,2,Jumper
+68,Bojan Bogdanovic,DEFENSIVE_REBOUND,None,3:33,4,Pacers,Nets,101 - 87,1,N/A,N/A,N/A
+69,Bojan Bogdanovic,FG_MISS,D'Angelo Russell,3:28,4,Nets,Pacers,101 - 87,1,1,2,Jumper
+70,Team,DEFENSIVE_REBOUND,None,3:28,4,Nets,Pacers,101 - 87,0,N/A,N/A,N/A
+71,Caris LeVert,FG_UNASSISTED,None,3:10,4,Nets,Pacers,103 - 87,0, ,2,Jumper
+72,Team,Unknown,None,3:10,4,Pacers,Nets,103 - 87,1,N/A,N/A,N/A
+73,Kyle O'Quinn,SUBSTITUTION,Sabonis Domantas,3:10,4,Pacers,Nets,103 - 87,1,N/A,N/A,N/A
+74,Doug McDermott,SUBSTITUTION,Young Thaddeus,3:10,4,Pacers,Nets,103 - 87,1,N/A,N/A,N/A
+75,T.J. Leaf,SUBSTITUTION,Bogdanovic Bojan,3:10,4,Pacers,Nets,103 - 87,1,N/A,N/A,N/A
+76,Kyle O'Quinn,FG_MISS,None,2:47,4,Pacers,Nets,103 - 87,1,26,3,Jumper
+77,D'Angelo Russell,DEFENSIVE_REBOUND,None,2:41,4,Nets,Pacers,103 - 87,0,N/A,N/A,N/A
+78,Kyle O'Quinn,FOUL_ON_FLOOR,None,2:25,4,Pacers,Nets,103 - 87,1,N/A,N/A,N/A
+79,Caris LeVert,FT,None,2:25,4,Nets,Pacers,104 - 87,0,N/A,1,N/A
+80,Edmond Sumner,SUBSTITUTION,Joseph Cory,2:25,4,Pacers,Nets,104 - 87,1,N/A,N/A,N/A
+81,Davon Reed,SUBSTITUTION,McDermott Doug,2:25,4,Pacers,Nets,104 - 87,1,N/A,N/A,N/A
+82,Caris LeVert,FT,None,2:25,4,Nets,Pacers,105 - 87,0,N/A,1,N/A
+83,Aaron Holiday,FG_UNASSISTED,None,2:04,4,Pacers,Nets,105 - 90,1,26,2,Jumper
+84,Caris LeVert,FG_MISS,None,1:40,4,Nets,Pacers,105 - 90,0,27,3,Jumper
+85,Kyle O'Quinn,DEFENSIVE_REBOUND,None,1:37,4,Pacers,Nets,105 - 90,1,N/A,N/A,N/A
+86,Kyle O'Quinn,FG_MISS,None,1:30,4,Pacers,Nets,105 - 90,1,12,2,Jumper
+87,Kyle O'Quinn,OFFENSIVE_REBOUND,None,1:27,4,Pacers,Nets,105 - 90,1,N/A,N/A,N/A
+88,Kyle O'Quinn,FG_ASSISTED,Aaron Holiday,1:15,4,Pacers,Nets,105 - 92,1,0,2,Layup
+89,shot clock,TURNOVER,None,51.5,4,Nets,Pacers,105 - 92,0,N/A,N/A,N/A
+90,Rodions Kurucs,SUBSTITUTION,Russell D'Angelo,51.5,4,Nets,Pacers,105 - 92,0,N/A,N/A,N/A
+91,Treveon Graham,SUBSTITUTION,Harris Joe,51.5,4,Nets,Pacers,105 - 92,0,N/A,N/A,N/A
+92,Kyle O'Quinn,FG_ASSISTED,Aaron Holiday,41.8,4,Pacers,Nets,105 - 94,1,7,2,Jumper
+93,Treveon Graham,FG_ASSISTED,Jared Dudley,19.3,4,Nets,Pacers,108 - 94,0,27,3,Jumper
+94,Kyle O'Quinn,FG_ASSISTED,Aaron Holiday,13.3,4,Pacers,Nets,108 - 96,1,0,2,Layup
+95,End of,Unknown,None,0.0,4,Pacers,Nets,108 - 96,1,N/A,N/A,N/A
+96,End of,Unknown,None,0.0,4,Pacers,Nets,108 - 96,1,N/A,N/A,N/A

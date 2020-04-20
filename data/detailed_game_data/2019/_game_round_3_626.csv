@@ -1,0 +1,502 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,JaVale McGee,JUMP_BALL,None,12:00,1,Raptors,Lakers,0 - 0,1,N/A,N/A,N/A
+1,Kawhi Leonard,FG_MISS,JaVale McGee,11:44,1,Lakers,Raptors,0 - 0,1,0,2,Layup
+2,Kyle Kuzma,DEFENSIVE_REBOUND,None,11:42,1,Lakers,Raptors,0 - 0,0,N/A,N/A,N/A
+3,Rajon Rondo,TURNOVER,None,11:27,1,Lakers,Raptors,0 - 0,0,N/A,N/A,N/A
+4,Pascal Siakam,FG_MISS,None,11:14,1,Raptors,Lakers,0 - 0,1,-,3,Jumper
+5,Rajon Rondo,DEFENSIVE_REBOUND,None,11:11,1,Lakers,Raptors,0 - 0,0,N/A,N/A,N/A
+6,Rajon Rondo,TURNOVER,Marc Gasol,11:02,1,Lakers,Raptors,0 - 0,0,N/A,N/A,N/A
+7,Jeremy Lin,TURNOVER,LeBron James,10:57,1,Raptors,Lakers,0 - 0,1,N/A,N/A,N/A
+8,LeBron James,FG_UNASSISTED,None,10:53,1,Lakers,Raptors,2 - 0,0,0,2,Layup
+9,Jeremy Lin,FG_ASSISTED,Kawhi Leonard,10:43,1,Raptors,Lakers,2 - 2,1,-,2,Jumper
+10,Kyle Kuzma,FG_MISS,None,10:29,1,Lakers,Raptors,2 - 2,0,25,3,Jumper
+11,Jeremy Lin,DEFENSIVE_REBOUND,None,10:27,1,Raptors,Lakers,2 - 2,1,N/A,N/A,N/A
+12,Kyle Kuzma,FOUL_ON_FLOOR,None,10:23,1,Lakers,Raptors,2 - 2,0,N/A,N/A,N/A
+13,Pascal Siakam,FT,None,10:23,1,Raptors,Lakers,2 - 3,1,N/A,1,N/A
+14,Pascal Siakam,FT_MISS,None,10:23,1,Raptors,Lakers,2 - 3,1,N/A,1,N/A
+15,JaVale McGee,DEFENSIVE_REBOUND,None,10:21,1,Lakers,Raptors,2 - 3,0,N/A,N/A,N/A
+16,LeBron James,FG_MISS,None,10:05,1,Lakers,Raptors,2 - 3,0,20,2,Jumper
+17,Jeremy Lin,DEFENSIVE_REBOUND,None,10:03,1,Raptors,Lakers,2 - 3,1,N/A,N/A,N/A
+18,Jeremy Lin,FG_MISS,None,9:59,1,Raptors,Lakers,2 - 3,1,-,2,Jumper
+19,Kyle Kuzma,DEFENSIVE_REBOUND,None,9:59,1,Lakers,Raptors,2 - 3,0,N/A,N/A,N/A
+20,Danny Green,FOUL_ON_FLOOR,None,9:50,1,Raptors,Lakers,2 - 3,1,N/A,N/A,N/A
+21,LeBron James,FT,None,9:50,1,Lakers,Raptors,3 - 3,0,N/A,1,N/A
+22,LeBron James,FT,None,9:50,1,Lakers,Raptors,4 - 3,0,N/A,1,N/A
+23,Marc Gasol,FG_MISS,None,9:32,1,Raptors,Lakers,4 - 3,1,8,2,Jumper
+24,Kyle Kuzma,DEFENSIVE_REBOUND,None,9:29,1,Lakers,Raptors,4 - 3,0,N/A,N/A,N/A
+25,LeBron James,FG_MISS,None,9:19,1,Lakers,Raptors,4 - 3,0,-,2,Jumper
+26,Team,DEFENSIVE_REBOUND,None,9:18,1,Raptors,Lakers,4 - 3,1,N/A,N/A,N/A
+27,Kyle Kuzma,FOUL_ON_FLOOR,None,9:09,1,Lakers,Raptors,4 - 3,0,N/A,N/A,N/A
+28,Pascal Siakam,FT,None,9:09,1,Raptors,Lakers,4 - 4,1,N/A,1,N/A
+29,Josh Hart,SUBSTITUTION,Kuzma Kyle,9:09,1,Lakers,Raptors,4 - 4,0,N/A,N/A,N/A
+30,Pascal Siakam,FT,None,9:09,1,Raptors,Lakers,4 - 5,1,N/A,1,N/A
+31,Rajon Rondo,FG_UNASSISTED,None,8:58,1,Lakers,Raptors,6 - 5,0,-,2,Jumper
+32,Marc Gasol,TURNOVER,JaVale McGee,8:53,1,Raptors,Lakers,6 - 5,1,N/A,N/A,N/A
+33,JaVale McGee,FG_MISS,None,8:49,1,Lakers,Raptors,6 - 5,0,0,2,Layup
+34,Jeremy Lin,DEFENSIVE_REBOUND,None,8:47,1,Raptors,Lakers,6 - 5,1,N/A,N/A,N/A
+35,Kawhi Leonard,FG_MISS,None,8:41,1,Raptors,Lakers,6 - 5,1,0,2,Layup
+36,Marc Gasol,OFFENSIVE_REBOUND,None,8:38,1,Raptors,Lakers,6 - 5,1,N/A,N/A,N/A
+37,Kawhi Leonard,FG_ASSISTED,Pascal Siakam,8:35,1,Raptors,Lakers,6 - 8,1,-,3,Jumper
+38,LeBron James,FG_MISS,None,8:23,1,Lakers,Raptors,6 - 8,0,25,3,Jumper
+39,Jeremy Lin,DEFENSIVE_REBOUND,None,8:23,1,Raptors,Lakers,6 - 8,1,N/A,N/A,N/A
+40,Kawhi Leonard,FG_ASSISTED,Pascal Siakam,8:15,1,Raptors,Lakers,6 - 11,1,25,3,Jumper
+41,Team,Unknown,None,8:14,1,Lakers,Raptors,6 - 11,0,N/A,N/A,N/A
+42,JaVale McGee,FOUL_ON_FLOOR,None,8:02,1,Lakers,Raptors,6 - 11,0,N/A,N/A,N/A
+43,JaVale McGee,TURNOVER,None,8:02,1,Lakers,Raptors,6 - 11,0,N/A,N/A,N/A
+44,Marc Gasol,FG_ASSISTED,Danny Green,7:48,1,Raptors,Lakers,6 - 13,1,21,2,Jumper
+45,Josh Hart,FG_MISS,None,7:33,1,Lakers,Raptors,6 - 13,0,16,2,Jumper
+46,Jeremy Lin,DEFENSIVE_REBOUND,None,7:29,1,Raptors,Lakers,6 - 13,1,N/A,N/A,N/A
+47,Marc Gasol,FG_ASSISTED,Pascal Siakam,7:25,1,Raptors,Lakers,6 - 16,1,26,3,Jumper
+48,Rajon Rondo,FG_MISS,None,7:08,1,Lakers,Raptors,6 - 16,0,0,2,Layup
+49,Jeremy Lin,DEFENSIVE_REBOUND,None,7:07,1,Raptors,Lakers,6 - 16,1,N/A,N/A,N/A
+50,Kawhi Leonard,FG_MISS,None,7:02,1,Raptors,Lakers,6 - 16,1,26,3,Jumper
+51,LeBron James,DEFENSIVE_REBOUND,None,6:59,1,Lakers,Raptors,6 - 16,0,N/A,N/A,N/A
+52,JaVale McGee,FG_ASSISTED,Rajon Rondo,6:56,1,Lakers,Raptors,8 - 16,0,0,2,Dunk
+53,Kawhi Leonard,TURNOVER,Josh Hart,6:43,1,Raptors,Lakers,8 - 16,1,N/A,N/A,N/A
+54,Josh Hart,FG_UNASSISTED,None,6:40,1,Lakers,Raptors,10 - 16,0, ,2,Jumper
+55,Danny Green,FOUL_ON_FLOOR,None,6:40,1,Raptors,Lakers,10 - 16,1,N/A,N/A,N/A
+56,Norman Powell,SUBSTITUTION,Green Danny,6:40,1,Raptors,Lakers,10 - 16,1,N/A,N/A,N/A
+57,Kentavious Caldwell-Pope,SUBSTITUTION,Rondo Rajon,6:40,1,Lakers,Raptors,10 - 16,0,N/A,N/A,N/A
+58,Josh Hart,FT_MISS,None,6:40,1,Lakers,Raptors,10 - 16,0,N/A,1,N/A
+59,Kawhi Leonard,DEFENSIVE_REBOUND,None,6:38,1,Raptors,Lakers,10 - 16,1,N/A,N/A,N/A
+60,Marc Gasol,FG_MISS,None,6:23,1,Raptors,Lakers,10 - 16,1,17,2,Jumper
+61,LeBron James,DEFENSIVE_REBOUND,None,6:20,1,Lakers,Raptors,10 - 16,0,N/A,N/A,N/A
+62,LeBron James,FG_UNASSISTED,None,6:13,1,Lakers,Raptors,12 - 16,0,2,2,Jumper
+63,Jeremy Lin,FG_MISS,None,5:58,1,Raptors,Lakers,12 - 16,1,26,3,Jumper
+64,Reggie Bullock,DEFENSIVE_REBOUND,None,5:56,1,Lakers,Raptors,12 - 16,0,N/A,N/A,N/A
+65,Reggie Bullock,FG_MISS,None,5:46,1,Lakers,Raptors,12 - 16,0,23,3,Jumper
+66,Kawhi Leonard,DEFENSIVE_REBOUND,None,5:43,1,Raptors,Lakers,12 - 16,1,N/A,N/A,N/A
+67,Kawhi Leonard,FG_MISS,None,5:35,1,Raptors,Lakers,12 - 16,1,22,2,Jumper
+68,LeBron James,DEFENSIVE_REBOUND,None,5:33,1,Lakers,Raptors,12 - 16,0,N/A,N/A,N/A
+69,Kentavious Caldwell-Pope,FG_MISS,None,5:26,1,Lakers,Raptors,12 - 16,0,13,2,Jumper
+70,Norman Powell,DEFENSIVE_REBOUND,None,5:23,1,Raptors,Lakers,12 - 16,1,N/A,N/A,N/A
+71,Norman Powell,FG_UNASSISTED,None,5:19,1,Raptors,Lakers,12 - 18,1, ,2,Jumper
+72,LeBron James,TURNOVER,Pascal Siakam,5:12,1,Lakers,Raptors,12 - 18,0,N/A,N/A,N/A
+73,JaVale McGee,FOUL_ON_FLOOR,None,5:10,1,Lakers,Raptors,12 - 18,0,N/A,N/A,N/A
+74,Patrick McCaw,SUBSTITUTION,Siakam Pascal,5:10,1,Raptors,Lakers,12 - 18,1,N/A,N/A,N/A
+75,Marc Gasol,TURNOVER,None,5:00,1,Raptors,Lakers,12 - 18,1,N/A,N/A,N/A
+76,Rajon Rondo,SUBSTITUTION,James LeBron,5:00,1,Lakers,Raptors,12 - 18,0,N/A,N/A,N/A
+77,Jeremy Lin,FOUL_ON_FLOOR,None,4:51,1,Raptors,Lakers,12 - 18,1,N/A,N/A,N/A
+78,Rajon Rondo,FT_MISS,None,4:51,1,Lakers,Raptors,12 - 18,0,N/A,1,N/A
+79,Team,OFFENSIVE_REBOUND,None,4:51,1,Lakers,Raptors,12 - 18,0,N/A,N/A,N/A
+80,Rajon Rondo,FT,None,4:51,1,Lakers,Raptors,13 - 18,0,N/A,1,N/A
+81,Norman Powell,FG_ASSISTED,Marc Gasol,4:26,1,Raptors,Lakers,13 - 21,1,26,3,Jumper
+82,Rajon Rondo,FG_MISS,Jeremy Lin,4:12,1,Raptors,Lakers,13 - 21,0,4,2,Jumper
+83,Patrick McCaw,DEFENSIVE_REBOUND,None,4:10,1,Raptors,Lakers,13 - 21,1,N/A,N/A,N/A
+84,JaVale McGee,FOUL_ON_FLOOR,None,4:09,1,Lakers,Raptors,13 - 21,0,N/A,N/A,N/A
+85,Norman Powell,FT,None,4:09,1,Raptors,Lakers,13 - 22,1,N/A,1,N/A
+86,Johnathan Williams,SUBSTITUTION,McGee JaVale,4:09,1,Lakers,Raptors,13 - 22,0,N/A,N/A,N/A
+87,Norman Powell,FT_MISS,None,4:09,1,Raptors,Lakers,13 - 22,1,N/A,1,N/A
+88,Team,DEFENSIVE_REBOUND,None,4:08,1,Lakers,Raptors,13 - 22,0,N/A,N/A,N/A
+89,Kentavious Caldwell-Pope,FG_MISS,None,3:44,1,Lakers,Raptors,13 - 22,0,22,2,Jumper
+90,Rajon Rondo,OFFENSIVE_REBOUND,None,3:41,1,Lakers,Raptors,13 - 22,0,N/A,N/A,N/A
+91,Reggie Bullock,FG_ASSISTED,Rajon Rondo,3:38,1,Lakers,Raptors,16 - 22,0,24,3,Jumper
+92,Marc Gasol,FG_UNASSISTED,None,3:21,1,Raptors,Lakers,16 - 24,1,21,2,Jumper
+93,Kentavious Caldwell-Pope,TURNOVER,Norman Powell,3:10,1,Lakers,Raptors,16 - 24,0,N/A,N/A,N/A
+94,Jeremy Lin,FG_MISS,Kentavious Caldwell-Pope,3:05,1,Lakers,Raptors,16 - 24,1,3,2,Jumper
+95,Team,OFFENSIVE_REBOUND,None,3:05,1,Raptors,Lakers,16 - 24,1,N/A,N/A,N/A
+96,Team,Unknown,None,3:05,1,Raptors,Lakers,16 - 24,1,N/A,N/A,N/A
+97,OG Anunoby,SUBSTITUTION,Leonard Kawhi,3:05,1,Raptors,Lakers,16 - 24,1,N/A,N/A,N/A
+98,Chris Boucher,SUBSTITUTION,Lin Jeremy,3:05,1,Raptors,Lakers,16 - 24,1,N/A,N/A,N/A
+99,Pascal Siakam,SUBSTITUTION,Gasol Marc,3:05,1,Raptors,Lakers,16 - 24,1,N/A,N/A,N/A
+100,Alex Caruso,SUBSTITUTION,Bullock Reggie,3:05,1,Lakers,Raptors,16 - 24,0,N/A,N/A,N/A
+101,Patrick McCaw,FG_MISS,None,2:51,1,Raptors,Lakers,16 - 24,1, ,2,Jumper
+102,Kentavious Caldwell-Pope,DEFENSIVE_REBOUND,None,2:49,1,Lakers,Raptors,16 - 24,0,N/A,N/A,N/A
+103,Rajon Rondo,FG_UNASSISTED,None,2:29,1,Lakers,Raptors,18 - 24,0,3,2,Jumper
+104,Norman Powell,FG_MISS,None,2:06,1,Raptors,Lakers,18 - 24,1,21,2,Jumper
+105,Rajon Rondo,DEFENSIVE_REBOUND,None,2:03,1,Lakers,Raptors,18 - 24,0,N/A,N/A,N/A
+106,Chris Boucher,FOUL_ON_FLOOR,None,1:56,1,Raptors,Lakers,18 - 24,1,N/A,N/A,N/A
+107,Mike Muscala,SUBSTITUTION,Williams Johnathan,1:56,1,Lakers,Raptors,18 - 24,0,N/A,N/A,N/A
+108,Josh Hart,FG_ASSISTED,Rajon Rondo,1:50,1,Lakers,Raptors,21 - 24,0,25,3,Jumper
+109,Pascal Siakam,TURNOVER,Josh Hart,1:34,1,Raptors,Lakers,21 - 24,1,N/A,N/A,N/A
+110,Kentavious Caldwell-Pope,FG_ASSISTED,Rajon Rondo,1:30,1,Lakers,Raptors,23 - 24,0, ,2,Jumper
+111,Norman Powell,FG_ASSISTED,Patrick McCaw,1:13,1,Raptors,Lakers,23 - 27,1,26,3,Jumper
+112,Kentavious Caldwell-Pope,TURNOVER,Patrick McCaw,1:04,1,Lakers,Raptors,23 - 27,0,N/A,N/A,N/A
+113,Kentavious Caldwell-Pope,FOUL_ON_FLOOR,None,1:03,1,Lakers,Raptors,23 - 27,0,N/A,N/A,N/A
+114,Patrick McCaw,FT_MISS,None,1:03,1,Raptors,Lakers,23 - 27,1,N/A,1,N/A
+115,Team,OFFENSIVE_REBOUND,None,1:03,1,Raptors,Lakers,23 - 27,1,N/A,N/A,N/A
+116,Patrick McCaw,FT,None,1:03,1,Raptors,Lakers,23 - 28,1,N/A,1,N/A
+117,Norman Powell,FOUL_ON_FLOOR,None,41.9,1,Raptors,Lakers,23 - 28,1,N/A,N/A,N/A
+118,Alex Caruso,FT,None,41.9,1,Lakers,Raptors,24 - 28,0,N/A,1,N/A
+119,Alex Caruso,FT,None,41.9,1,Lakers,Raptors,25 - 28,0,N/A,1,N/A
+120,Pascal Siakam,FG_MISS,None,34.9,1,Raptors,Lakers,25 - 28,1,0,2,Layup
+121,Chris Boucher,OFFENSIVE_REBOUND,None,30.2,1,Raptors,Lakers,25 - 28,1,N/A,N/A,N/A
+122,Chris Boucher,FG_UNASSISTED,None,30.2,1,Raptors,Lakers,25 - 30,1,0,2,Dunk
+123,Kentavious Caldwell-Pope,FG_MISS,None,21.3,1,Lakers,Raptors,25 - 30,0,25,3,Jumper
+124,Norman Powell,DEFENSIVE_REBOUND,None,19.2,1,Raptors,Lakers,25 - 30,1,N/A,N/A,N/A
+125,Norman Powell,FG_ASSISTED,Patrick McCaw,2.4,1,Raptors,Lakers,25 - 33,1, ,3,Jumper
+126,Kentavious Caldwell-Pope,FG_MISS,None,0.0,1,Lakers,Raptors,25 - 33,0, ,3,Jumper
+127,Team,OFFENSIVE_REBOUND,None,0.0,1,Lakers,Raptors,25 - 33,0,N/A,N/A,N/A
+128,End of,Unknown,None,0.0,1,Raptors,Lakers,25 - 33,1,N/A,N/A,N/A
+0,LeBron James,SUBSTITUTION,Rondo Rajon,12:00,2,Lakers,Raptors,25 - 33,0,N/A,N/A,N/A
+1,Kyle Kuzma,SUBSTITUTION,Muscala Mike,12:00,2,Lakers,Raptors,25 - 33,0,N/A,N/A,N/A
+2,LeBron James,TURNOVER,Chris Boucher,11:47,2,Lakers,Raptors,25 - 33,0,N/A,N/A,N/A
+3,Alex Caruso,FOUL_ON_FLOOR,None,11:35,2,Lakers,Raptors,25 - 33,0,N/A,N/A,N/A
+4,Pascal Siakam,FT,None,11:35,2,Raptors,Lakers,25 - 34,1,N/A,1,N/A
+5,Pascal Siakam,FT,None,11:35,2,Raptors,Lakers,25 - 35,1,N/A,1,N/A
+6,LeBron James,FG_MISS,None,11:22,2,Lakers,Raptors,25 - 35,0,0,2,Layup
+7,Norman Powell,DEFENSIVE_REBOUND,None,11:19,2,Raptors,Lakers,25 - 35,1,N/A,N/A,N/A
+8,Pascal Siakam,FG_MISS,None,11:17,2,Raptors,Lakers,25 - 35,1, ,3,Jumper
+9,Kyle Kuzma,DEFENSIVE_REBOUND,None,11:13,2,Lakers,Raptors,25 - 35,0,N/A,N/A,N/A
+10,Alex Caruso,FG_ASSISTED,Kyle Kuzma,11:02,2,Lakers,Raptors,27 - 35,0,0,2,Layup
+11,Pascal Siakam,FG_UNASSISTED,None,10:39,2,Raptors,Lakers,27 - 37,1,3,2,Jumper
+12,Kyle Kuzma,FG_MISS,None,10:24,2,Lakers,Raptors,27 - 37,0, ,2,Jumper
+13,Chris Boucher,DEFENSIVE_REBOUND,None,10:22,2,Raptors,Lakers,27 - 37,1,N/A,N/A,N/A
+14,Pascal Siakam,TURNOVER,None,10:12,2,Raptors,Lakers,27 - 37,1,N/A,N/A,N/A
+15,OG Anunoby,FOUL_ON_FLOOR,None,9:58,2,Raptors,Lakers,27 - 37,1,N/A,N/A,N/A
+16,OG Anunoby,FOUL_ON_FLOOR,None,9:58,2,Raptors,Lakers,27 - 37,1,N/A,N/A,N/A
+17,shot clock,TURNOVER,None,9:44,2,Lakers,Raptors,27 - 37,0,N/A,N/A,N/A
+18,Chris Boucher,FG_MISS,None,9:31,2,Raptors,Lakers,27 - 37,1,26,3,Jumper
+19,LeBron James,DEFENSIVE_REBOUND,None,9:29,2,Lakers,Raptors,27 - 37,0,N/A,N/A,N/A
+20,Kyle Kuzma,FG_MISS,Chris Boucher,9:24,2,Raptors,Lakers,27 - 37,0,3,2,Jumper
+21,Team,OFFENSIVE_REBOUND,None,9:24,2,Lakers,Raptors,27 - 37,0,N/A,N/A,N/A
+22,Moritz Wagner,SUBSTITUTION,Hart Josh,9:24,2,Lakers,Raptors,27 - 37,0,N/A,N/A,N/A
+23,Kentavious Caldwell-Pope,FG_ASSISTED,Alex Caruso,9:22,2,Lakers,Raptors,29 - 37,0,0,2,Layup
+24,Norman Powell,FG_MISS,None,9:01,2,Raptors,Lakers,29 - 37,1,26,3,Jumper
+25,Kentavious Caldwell-Pope,DEFENSIVE_REBOUND,None,8:59,2,Lakers,Raptors,29 - 37,0,N/A,N/A,N/A
+26,LeBron James,FG_ASSISTED,Kentavious Caldwell-Pope,8:57,2,Lakers,Raptors,31 - 37,0,0,2,Dunk
+27,OG Anunoby,FG_MISS,None,8:37,2,Raptors,Lakers,31 - 37,1,26,3,Jumper
+28,Alex Caruso,DEFENSIVE_REBOUND,None,8:34,2,Lakers,Raptors,31 - 37,0,N/A,N/A,N/A
+29,LeBron James,FG_ASSISTED,Kyle Kuzma,8:31,2,Lakers,Raptors,33 - 37,0, ,2,Jumper
+30,Chris Boucher,FG_MISS,None,8:14,2,Raptors,Lakers,33 - 37,1,3,2,Jumper
+31,Kentavious Caldwell-Pope,DEFENSIVE_REBOUND,None,8:13,2,Lakers,Raptors,33 - 37,0,N/A,N/A,N/A
+32,Kyle Kuzma,FG_ASSISTED,LeBron James,8:07,2,Lakers,Raptors,35 - 37,0, ,2,Jumper
+33,Team,Unknown,None,8:07,2,Raptors,Lakers,35 - 37,1,N/A,N/A,N/A
+34,Marc Gasol,SUBSTITUTION,Powell Norman,8:07,2,Raptors,Lakers,35 - 37,1,N/A,N/A,N/A
+35,Kawhi Leonard,SUBSTITUTION,Boucher Chris,8:07,2,Raptors,Lakers,35 - 37,1,N/A,N/A,N/A
+36,Pascal Siakam,FG_MISS,None,7:52,2,Raptors,Lakers,35 - 37,1,14,2,Jumper
+37,OG Anunoby,OFFENSIVE_REBOUND,None,7:49,2,Raptors,Lakers,35 - 37,1,N/A,N/A,N/A
+38,OG Anunoby,FG_UNASSISTED,None,7:48,2,Raptors,Lakers,35 - 39,1, ,2,Jumper
+39,Alex Caruso,FG_ASSISTED,LeBron James,7:35,2,Lakers,Raptors,37 - 39,0,0,2,Layup
+40,Kawhi Leonard,FG_MISS,None,7:13,2,Raptors,Lakers,37 - 39,1, ,3,Jumper
+41,Kentavious Caldwell-Pope,DEFENSIVE_REBOUND,None,7:10,2,Lakers,Raptors,37 - 39,0,N/A,N/A,N/A
+42,Kentavious Caldwell-Pope,FG_MISS,None,7:03,2,Lakers,Raptors,37 - 39,0,22,2,Jumper
+43,Kawhi Leonard,DEFENSIVE_REBOUND,None,7:01,2,Raptors,Lakers,37 - 39,1,N/A,N/A,N/A
+44,Pascal Siakam,FG_MISS,None,6:55,2,Raptors,Lakers,37 - 39,1,23,3,Jumper
+45,Kyle Kuzma,DEFENSIVE_REBOUND,None,6:51,2,Lakers,Raptors,37 - 39,0,N/A,N/A,N/A
+46,Alex Caruso,FG_ASSISTED,LeBron James,6:42,2,Lakers,Raptors,39 - 39,0,0,2,Layup
+47,Patrick McCaw,FG_ASSISTED,Kawhi Leonard,6:29,2,Raptors,Lakers,39 - 42,1, ,3,Jumper
+48,Jeremy Lin,SUBSTITUTION,McCaw Patrick,6:12,2,Raptors,Lakers,39 - 42,1,N/A,N/A,N/A
+49,Danny Green,SUBSTITUTION,Siakam Pascal,6:12,2,Raptors,Lakers,39 - 42,1,N/A,N/A,N/A
+50,Reggie Bullock,SUBSTITUTION,Caldwell-Pope Kentavious,6:12,2,Lakers,Raptors,39 - 42,0,N/A,N/A,N/A
+51,Kyle Kuzma,TURNOVER,Marc Gasol,6:06,2,Lakers,Raptors,39 - 42,0,N/A,N/A,N/A
+52,Jeremy Lin,FG_ASSISTED,Kawhi Leonard,5:59,2,Raptors,Lakers,39 - 44,1,24,2,Jumper
+53,LeBron James,FG_ASSISTED,Alex Caruso,5:50,2,Lakers,Raptors,42 - 44,0,23,3,Jumper
+54,Kawhi Leonard,FG_UNASSISTED,None,5:38,2,Raptors,Lakers,42 - 46,1,0,2,Layup
+55,LeBron James,FG_MISS,None,5:27,2,Lakers,Raptors,42 - 46,0,24,2,Jumper
+56,Marc Gasol,DEFENSIVE_REBOUND,None,5:25,2,Raptors,Lakers,42 - 46,1,N/A,N/A,N/A
+57,Moritz Wagner,FOUL_ON_FLOOR,None,5:12,2,Lakers,Raptors,42 - 46,0,N/A,N/A,N/A
+58,Kawhi Leonard,FT_MISS,None,5:12,2,Raptors,Lakers,42 - 46,1,N/A,1,N/A
+59,Team,OFFENSIVE_REBOUND,None,5:12,2,Raptors,Lakers,42 - 46,1,N/A,N/A,N/A
+60,Malcolm Miller,SUBSTITUTION,Anunoby OG,5:12,2,Raptors,Lakers,42 - 46,1,N/A,N/A,N/A
+61,Kawhi Leonard,FT_MISS,None,5:12,2,Raptors,Lakers,42 - 46,1,N/A,1,N/A
+62,Kyle Kuzma,DEFENSIVE_REBOUND,None,5:10,2,Lakers,Raptors,42 - 46,0,N/A,N/A,N/A
+63,Alex Caruso,FG_UNASSISTED,None,5:00,2,Lakers,Raptors,44 - 46,0,2,2,Jumper
+64,Jeremy Lin,FOUL_ON_FLOOR,None,5:00,2,Raptors,Lakers,44 - 46,1,N/A,N/A,N/A
+65,Alex Caruso,FT,None,5:00,2,Lakers,Raptors,45 - 46,0,N/A,1,N/A
+66,Rajon Rondo,SUBSTITUTION,James LeBron,4:46,2,Lakers,Raptors,45 - 46,0,N/A,N/A,N/A
+67,Danny Green,TURNOVER,Moritz Wagner,4:43,2,Raptors,Lakers,45 - 46,1,N/A,N/A,N/A
+68,Alex Caruso,FG_ASSISTED,Rajon Rondo,4:34,2,Lakers,Raptors,48 - 46,0,25,3,Jumper
+69,Marc Gasol,FG_UNASSISTED,None,4:18,2,Raptors,Lakers,48 - 48,1,7,2,Jumper
+70,Moritz Wagner,FOUL_ON_FLOOR,None,4:18,2,Lakers,Raptors,48 - 48,0,N/A,N/A,N/A
+71,JaVale McGee,SUBSTITUTION,Wagner Moritz,4:18,2,Lakers,Raptors,48 - 48,0,N/A,N/A,N/A
+72,Marc Gasol,FT,None,4:18,2,Raptors,Lakers,48 - 49,1,N/A,1,N/A
+73,Jeremy Lin,FOUL_ON_FLOOR,None,3:55,2,Raptors,Lakers,48 - 49,1,N/A,N/A,N/A
+74,Kyle Kuzma,FT,None,3:55,2,Lakers,Raptors,49 - 49,0,N/A,1,N/A
+75,Kyle Kuzma,FT_MISS,None,3:55,2,Lakers,Raptors,49 - 49,0,N/A,1,N/A
+76,Kawhi Leonard,DEFENSIVE_REBOUND,None,3:55,2,Raptors,Lakers,49 - 49,1,N/A,N/A,N/A
+77,Jeremy Lin,Unknown,None,3:55,2,Raptors,Lakers,49 - 49,1,N/A,N/A,N/A
+78,Marc Gasol,FG_MISS,None,3:41,2,Raptors,Lakers,49 - 49,1,25,3,Jumper
+79,Rajon Rondo,DEFENSIVE_REBOUND,None,3:38,2,Lakers,Raptors,49 - 49,0,N/A,N/A,N/A
+80,Marc Gasol,FOUL_ON_FLOOR,None,3:37,2,Raptors,Lakers,49 - 49,1,N/A,N/A,N/A
+81,JaVale McGee,FT,None,3:37,2,Lakers,Raptors,50 - 49,0,N/A,1,N/A
+82,Norman Powell,SUBSTITUTION,Miller Malcolm,3:37,2,Raptors,Lakers,50 - 49,1,N/A,N/A,N/A
+83,Pascal Siakam,SUBSTITUTION,Lin Jeremy,3:37,2,Raptors,Lakers,50 - 49,1,N/A,N/A,N/A
+84,JaVale McGee,FT_MISS,None,3:37,2,Lakers,Raptors,50 - 49,0,N/A,1,N/A
+85,Marc Gasol,DEFENSIVE_REBOUND,None,3:35,2,Raptors,Lakers,50 - 49,1,N/A,N/A,N/A
+86,Kawhi Leonard,FG_ASSISTED,Pascal Siakam,3:23,2,Raptors,Lakers,50 - 51,1,0,2,Layup
+87,Rajon Rondo,FG_MISS,None,3:15,2,Lakers,Raptors,50 - 51,0,0,2,Layup
+88,JaVale McGee,OFFENSIVE_REBOUND,None,3:13,2,Lakers,Raptors,50 - 51,0,N/A,N/A,N/A
+89,JaVale McGee,FG_UNASSISTED,None,3:10,2,Lakers,Raptors,52 - 51,0,0,2,Dunk
+90,Alex Caruso,FOUL_ON_FLOOR,None,3:05,2,Lakers,Raptors,52 - 51,0,N/A,N/A,N/A
+91,Pascal Siakam,FT,None,3:05,2,Raptors,Lakers,52 - 52,1,N/A,1,N/A
+92,Pascal Siakam,FT,None,3:05,2,Raptors,Lakers,52 - 53,1,N/A,1,N/A
+93,Rajon Rondo,TURNOVER,Danny Green,2:55,2,Lakers,Raptors,52 - 53,0,N/A,N/A,N/A
+94,Marc Gasol,FG_MISS,None,2:42,2,Raptors,Lakers,52 - 53,1,26,3,Jumper
+95,Danny Green,OFFENSIVE_REBOUND,None,2:37,2,Raptors,Lakers,52 - 53,1,N/A,N/A,N/A
+96,Kawhi Leonard,FG_ASSISTED,Norman Powell,2:34,2,Raptors,Lakers,52 - 56,1,26,3,Jumper
+97,Rajon Rondo,FG_MISS,None,2:16,2,Lakers,Raptors,52 - 56,0,0,2,Layup
+98,Kawhi Leonard,DEFENSIVE_REBOUND,None,2:12,2,Raptors,Lakers,52 - 56,1,N/A,N/A,N/A
+99,Danny Green,FG_ASSISTED,Kawhi Leonard,2:07,2,Raptors,Lakers,52 - 59,1,23,3,Jumper
+100,Team,Unknown,None,2:06,2,Lakers,Raptors,52 - 59,0,N/A,N/A,N/A
+101,Josh Hart,SUBSTITUTION,Caruso Alex,2:06,2,Lakers,Raptors,52 - 59,0,N/A,N/A,N/A
+102,Reggie Bullock,FG_MISS,None,1:53,2,Lakers,Raptors,52 - 59,0,25,3,Jumper
+103,Team,OFFENSIVE_REBOUND,None,1:51,2,Lakers,Raptors,52 - 59,0,N/A,N/A,N/A
+104,Rajon Rondo,JUMP_BALL,None,1:48,2,Lakers,Raptors,52 - 59,0,N/A,N/A,N/A
+105,Josh Hart,FG_MISS,None,1:43,2,Lakers,Raptors,52 - 59,0, ,3,Jumper
+106,Kawhi Leonard,DEFENSIVE_REBOUND,None,1:41,2,Raptors,Lakers,52 - 59,1,N/A,N/A,N/A
+107,Kawhi Leonard,FG_MISS,None,1:36,2,Raptors,Lakers,52 - 59,1,5,2,Jumper
+108,Danny Green,OFFENSIVE_REBOUND,None,1:34,2,Raptors,Lakers,52 - 59,1,N/A,N/A,N/A
+109,Danny Green,FG_MISS,None,1:31,2,Raptors,Lakers,52 - 59,1,26,3,Jumper
+110,JaVale McGee,DEFENSIVE_REBOUND,None,1:29,2,Lakers,Raptors,52 - 59,0,N/A,N/A,N/A
+111,Josh Hart,FG_MISS,None,1:24,2,Lakers,Raptors,52 - 59,0, ,3,Jumper
+112,Team,DEFENSIVE_REBOUND,None,1:21,2,Raptors,Lakers,52 - 59,1,N/A,N/A,N/A
+113,Moritz Wagner,SUBSTITUTION,McGee JaVale,1:21,2,Lakers,Raptors,52 - 59,0,N/A,N/A,N/A
+114,Pascal Siakam,TURNOVER,Rajon Rondo,1:05,2,Raptors,Lakers,52 - 59,1,N/A,N/A,N/A
+115,Moritz Wagner,TURNOVER,Pascal Siakam,57.7,2,Lakers,Raptors,52 - 59,0,N/A,N/A,N/A
+116,Rajon Rondo,FOUL_ON_FLOOR,None,55.3,2,Lakers,Raptors,52 - 59,0,N/A,N/A,N/A
+117,Pascal Siakam,FT,None,55.3,2,Raptors,Lakers,52 - 60,1,N/A,1,N/A
+118,Patrick McCaw,SUBSTITUTION,Green Danny,55.3,2,Raptors,Lakers,52 - 60,1,N/A,N/A,N/A
+119,Pascal Siakam,FT_MISS,None,55.3,2,Raptors,Lakers,52 - 60,1,N/A,1,N/A
+120,Moritz Wagner,DEFENSIVE_REBOUND,None,53.2,2,Lakers,Raptors,52 - 60,0,N/A,N/A,N/A
+121,Rajon Rondo,FG_UNASSISTED,None,48.9,2,Lakers,Raptors,54 - 60,0,2,2,Jumper
+122,Pascal Siakam,FG_MISS,None,33.2,2,Raptors,Lakers,54 - 60,1,0,2,Layup
+123,Marc Gasol,OFFENSIVE_REBOUND,None,31.0,2,Raptors,Lakers,54 - 60,1,N/A,N/A,N/A
+124,Marc Gasol,FG_MISS,None,29.4,2,Raptors,Lakers,54 - 60,1, ,2,Jumper
+125,Pascal Siakam,OFFENSIVE_REBOUND,None,28.4,2,Raptors,Lakers,54 - 60,1,N/A,N/A,N/A
+126,Kyle Kuzma,FOUL_ON_FLOOR,None,26.0,2,Lakers,Raptors,54 - 60,0,N/A,N/A,N/A
+127,Marc Gasol,FT,None,26.0,2,Raptors,Lakers,54 - 61,1,N/A,1,N/A
+128,Kentavious Caldwell-Pope,SUBSTITUTION,Kuzma Kyle,26.0,2,Lakers,Raptors,54 - 61,0,N/A,N/A,N/A
+129,Marc Gasol,FT,None,26.0,2,Raptors,Lakers,54 - 62,1,N/A,1,N/A
+130,Pascal Siakam,FG_MISS,None,26.0,2,Raptors,Lakers,54 - 62,1,4,2,Jumper
+131,Team,OFFENSIVE_REBOUND,None,26.0,2,Raptors,Lakers,54 - 62,1,N/A,N/A,N/A
+132,Rajon Rondo,TURNOVER,Kawhi Leonard,2.9,2,Lakers,Raptors,54 - 62,0,N/A,N/A,N/A
+133,Kawhi Leonard,FG_UNASSISTED,None,0.0,2,Raptors,Lakers,54 - 65,1,26,3,Jumper
+134,End of,Unknown,None,0.0,2,Raptors,Lakers,54 - 65,1,N/A,N/A,N/A
+0,Jeremy Lin,SUBSTITUTION,McCaw Patrick,12:00,3,Raptors,Lakers,54 - 65,1,N/A,N/A,N/A
+1,Danny Green,SUBSTITUTION,Powell Norman,12:00,3,Raptors,Lakers,54 - 65,1,N/A,N/A,N/A
+2,LeBron James,SUBSTITUTION,Hart Josh,12:00,3,Lakers,Raptors,54 - 65,0,N/A,N/A,N/A
+3,JaVale McGee,SUBSTITUTION,Wagner Moritz,12:00,3,Lakers,Raptors,54 - 65,0,N/A,N/A,N/A
+4,Kyle Kuzma,SUBSTITUTION,Caldwell-Pope Kentavious,12:00,3,Lakers,Raptors,54 - 65,0,N/A,N/A,N/A
+5,Reggie Bullock,FG_ASSISTED,LeBron James,11:49,3,Lakers,Raptors,57 - 65,0,26,3,Jumper
+6,Danny Green,FOUL_ON_FLOOR,None,11:49,3,Raptors,Lakers,57 - 65,1,N/A,N/A,N/A
+7,Reggie Bullock,FT,None,11:49,3,Lakers,Raptors,58 - 65,0,N/A,1,N/A
+8,Kawhi Leonard,FG_MISS,None,11:28,3,Raptors,Lakers,58 - 65,1,3,2,Jumper
+9,JaVale McGee,DEFENSIVE_REBOUND,None,11:26,3,Lakers,Raptors,58 - 65,0,N/A,N/A,N/A
+10,LeBron James,FG_MISS,None,11:19,3,Lakers,Raptors,58 - 65,0, ,2,Jumper
+11,Marc Gasol,DEFENSIVE_REBOUND,None,11:17,3,Raptors,Lakers,58 - 65,1,N/A,N/A,N/A
+12,Jeremy Lin,FG_UNASSISTED,None,11:13,3,Raptors,Lakers,58 - 67,1, ,2,Jumper
+13,LeBron James,FG_UNASSISTED,None,10:56,3,Lakers,Raptors,60 - 67,0,12,2,Jumper
+14,Pascal Siakam,FG_MISS,None,10:38,3,Raptors,Lakers,60 - 67,1,9,2,Jumper
+15,JaVale McGee,DEFENSIVE_REBOUND,None,10:36,3,Lakers,Raptors,60 - 67,0,N/A,N/A,N/A
+16,JaVale McGee,FG_ASSISTED,LeBron James,10:24,3,Lakers,Raptors,62 - 67,0, ,2,Jumper
+17,Kawhi Leonard,FG_UNASSISTED,None,10:07,3,Raptors,Lakers,62 - 69,1,21,2,Jumper
+18,Rajon Rondo,FG_MISS,None,9:56,3,Lakers,Raptors,62 - 69,0, ,2,Jumper
+19,Jeremy Lin,DEFENSIVE_REBOUND,None,9:54,3,Raptors,Lakers,62 - 69,1,N/A,N/A,N/A
+20,Marc Gasol,FG_ASSISTED,Danny Green,9:46,3,Raptors,Lakers,62 - 72,1,25,3,Jumper
+21,LeBron James,FG_MISS,None,9:22,3,Lakers,Raptors,62 - 72,0, ,2,Jumper
+22,Danny Green,DEFENSIVE_REBOUND,None,9:20,3,Raptors,Lakers,62 - 72,1,N/A,N/A,N/A
+23,Pascal Siakam,FG_UNASSISTED,None,9:06,3,Raptors,Lakers,62 - 74,1,7,2,Jumper
+24,Kyle Kuzma,FG_MISS,None,8:47,3,Lakers,Raptors,62 - 74,0,25,3,Jumper
+25,Marc Gasol,DEFENSIVE_REBOUND,None,8:44,3,Raptors,Lakers,62 - 74,1,N/A,N/A,N/A
+26,Jeremy Lin,FG_MISS,None,8:40,3,Raptors,Lakers,62 - 74,1,25,3,Jumper
+27,Kyle Kuzma,DEFENSIVE_REBOUND,None,8:37,3,Lakers,Raptors,62 - 74,0,N/A,N/A,N/A
+28,LeBron James,FG_UNASSISTED,None,8:26,3,Lakers,Raptors,64 - 74,0, ,2,Jumper
+29,Pascal Siakam,FG_MISS,None,8:02,3,Raptors,Lakers,64 - 74,1, ,2,Jumper
+30,JaVale McGee,DEFENSIVE_REBOUND,None,8:00,3,Lakers,Raptors,64 - 74,0,N/A,N/A,N/A
+31,LeBron James,FG_MISS,None,7:57,3,Lakers,Raptors,64 - 74,0, ,2,Jumper
+32,Marc Gasol,DEFENSIVE_REBOUND,None,7:54,3,Raptors,Lakers,64 - 74,1,N/A,N/A,N/A
+33,Kawhi Leonard,FG_MISS,None,7:46,3,Raptors,Lakers,64 - 74,1,13,2,Jumper
+34,JaVale McGee,DEFENSIVE_REBOUND,None,7:44,3,Lakers,Raptors,64 - 74,0,N/A,N/A,N/A
+35,LeBron James,FG_ASSISTED,Rajon Rondo,7:41,3,Lakers,Raptors,66 - 74,0, ,2,Jumper
+36,Marc Gasol,FOUL_ON_FLOOR,None,7:41,3,Raptors,Lakers,66 - 74,1,N/A,N/A,N/A
+37,LeBron James,FT,None,7:41,3,Lakers,Raptors,67 - 74,0,N/A,1,N/A
+38,Jeremy Lin,FG_MISS,None,7:31,3,Raptors,Lakers,67 - 74,1,24,3,Jumper
+39,Reggie Bullock,DEFENSIVE_REBOUND,None,7:29,3,Lakers,Raptors,67 - 74,0,N/A,N/A,N/A
+40,LeBron James,FG_MISS,None,7:12,3,Lakers,Raptors,67 - 74,0,23,3,Jumper
+41,JaVale McGee,OFFENSIVE_REBOUND,None,7:09,3,Lakers,Raptors,67 - 74,0,N/A,N/A,N/A
+42,JaVale McGee,TURNOVER,Danny Green,7:06,3,Lakers,Raptors,67 - 74,0,N/A,N/A,N/A
+43,Danny Green,FG_MISS,None,7:01,3,Raptors,Lakers,67 - 74,1,24,3,Jumper
+44,JaVale McGee,DEFENSIVE_REBOUND,None,6:58,3,Lakers,Raptors,67 - 74,0,N/A,N/A,N/A
+45,JaVale McGee,FG_ASSISTED,Kyle Kuzma,6:47,3,Lakers,Raptors,69 - 74,0,0,2,Dunk
+46,Jeremy Lin,FG_ASSISTED,Marc Gasol,6:30,3,Raptors,Lakers,69 - 77,1,24,3,Jumper
+47,Rajon Rondo,FG_UNASSISTED,None,6:13,3,Lakers,Raptors,71 - 77,0,0,2,Layup
+48,Pascal Siakam,FG_MISS,None,5:57,3,Raptors,Lakers,71 - 77,1,0,2,Layup
+49,Pascal Siakam,OFFENSIVE_REBOUND,None,5:53,3,Raptors,Lakers,71 - 77,1,N/A,N/A,N/A
+50,Pascal Siakam,FG_UNASSISTED,None,5:53,3,Raptors,Lakers,71 - 79,1,0,2,Layup
+51,JaVale McGee,Unknown,None,5:53,3,Lakers,Raptors,71 - 79,0,N/A,N/A,N/A
+52,Team,Unknown,None,5:53,3,Lakers,Raptors,71 - 79,0,N/A,N/A,N/A
+53,Alex Caruso,SUBSTITUTION,Rondo Rajon,5:53,3,Lakers,Raptors,71 - 79,0,N/A,N/A,N/A
+54,Marc Gasol,FOUL_ON_FLOOR,None,5:44,3,Raptors,Lakers,71 - 79,1,N/A,N/A,N/A
+55,Kyle Kuzma,FT_MISS,None,5:44,3,Lakers,Raptors,71 - 79,0,N/A,1,N/A
+56,Team,OFFENSIVE_REBOUND,None,5:44,3,Lakers,Raptors,71 - 79,0,N/A,N/A,N/A
+57,Kyle Kuzma,FT_MISS,None,5:44,3,Lakers,Raptors,71 - 79,0,N/A,1,N/A
+58,Pascal Siakam,DEFENSIVE_REBOUND,None,5:41,3,Raptors,Lakers,71 - 79,1,N/A,N/A,N/A
+59,Kawhi Leonard,FG_ASSISTED,Marc Gasol,5:28,3,Raptors,Lakers,71 - 82,1,25,3,Jumper
+60,Kyle Kuzma,FG_MISS,Pascal Siakam,5:08,3,Raptors,Lakers,71 - 82,0,0,2,Layup
+61,Danny Green,DEFENSIVE_REBOUND,None,5:05,3,Raptors,Lakers,71 - 82,1,N/A,N/A,N/A
+62,LeBron James,FOUL_ON_FLOOR,None,5:05,3,Lakers,Raptors,71 - 82,0,N/A,N/A,N/A
+63,Danny Green,TURNOVER,Reggie Bullock,4:56,3,Raptors,Lakers,71 - 82,1,N/A,N/A,N/A
+64,LeBron James,FG_ASSISTED,Alex Caruso,4:52,3,Lakers,Raptors,73 - 82,0,0,2,Dunk
+65,LeBron James,FOUL_ON_FLOOR,None,4:40,3,Lakers,Raptors,73 - 82,0,N/A,N/A,N/A
+66,Kawhi Leonard,TURNOVER,Reggie Bullock,4:31,3,Raptors,Lakers,73 - 82,1,N/A,N/A,N/A
+67,Kawhi Leonard,FOUL_ON_FLOOR,None,4:22,3,Raptors,Lakers,73 - 82,1,N/A,N/A,N/A
+68,Kyle Kuzma,FG_UNASSISTED,None,4:11,3,Lakers,Raptors,75 - 82,0, ,2,Jumper
+69,JaVale McGee,FOUL_ON_FLOOR,None,4:09,3,Lakers,Raptors,75 - 82,0,N/A,N/A,N/A
+70,Moritz Wagner,SUBSTITUTION,McGee JaVale,4:09,3,Lakers,Raptors,75 - 82,0,N/A,N/A,N/A
+71,Rajon Rondo,SUBSTITUTION,James LeBron,4:09,3,Lakers,Raptors,75 - 82,0,N/A,N/A,N/A
+72,Danny Green,TURNOVER,None,3:57,3,Raptors,Lakers,75 - 82,1,N/A,N/A,N/A
+73,Kyle Kuzma,FG_MISS,None,3:46,3,Lakers,Raptors,75 - 82,0,25,3,Jumper
+74,Pascal Siakam,DEFENSIVE_REBOUND,None,3:43,3,Raptors,Lakers,75 - 82,1,N/A,N/A,N/A
+75,Kyle Kuzma,FOUL_ON_FLOOR,None,3:27,3,Lakers,Raptors,75 - 82,0,N/A,N/A,N/A
+76,Kawhi Leonard,FT,None,3:27,3,Raptors,Lakers,75 - 83,1,N/A,1,N/A
+77,Norman Powell,SUBSTITUTION,Green Danny,3:27,3,Raptors,Lakers,75 - 83,1,N/A,N/A,N/A
+78,OG Anunoby,SUBSTITUTION,Siakam Pascal,3:27,3,Raptors,Lakers,75 - 83,1,N/A,N/A,N/A
+79,Josh Hart,SUBSTITUTION,Kuzma Kyle,3:27,3,Lakers,Raptors,75 - 83,0,N/A,N/A,N/A
+80,Kawhi Leonard,FT,None,3:27,3,Raptors,Lakers,75 - 84,1,N/A,1,N/A
+81,Rajon Rondo,FG_UNASSISTED,None,3:20,3,Lakers,Raptors,77 - 84,0,3,2,Jumper
+82,Norman Powell,FG_ASSISTED,Marc Gasol,3:06,3,Raptors,Lakers,77 - 86,1,0,2,Layup
+83,Reggie Bullock,FG_MISS,None,2:55,3,Lakers,Raptors,77 - 86,0,23,3,Jumper
+84,Kawhi Leonard,DEFENSIVE_REBOUND,None,2:53,3,Raptors,Lakers,77 - 86,1,N/A,N/A,N/A
+85,OG Anunoby,FG_ASSISTED,Jeremy Lin,2:42,3,Raptors,Lakers,77 - 88,1,0,2,Layup
+86,Team,Unknown,None,2:41,3,Lakers,Raptors,77 - 88,0,N/A,N/A,N/A
+87,Malcolm Miller,SUBSTITUTION,Leonard Kawhi,2:41,3,Raptors,Lakers,77 - 88,1,N/A,N/A,N/A
+88,Pascal Siakam,SUBSTITUTION,Lin Jeremy,2:41,3,Raptors,Lakers,77 - 88,1,N/A,N/A,N/A
+89,Patrick McCaw,SUBSTITUTION,Gasol Marc,2:41,3,Raptors,Lakers,77 - 88,1,N/A,N/A,N/A
+90,Kentavious Caldwell-Pope,SUBSTITUTION,Bullock Reggie,2:41,3,Lakers,Raptors,77 - 88,0,N/A,N/A,N/A
+91,Kentavious Caldwell-Pope,FG_MISS,None,2:21,3,Lakers,Raptors,77 - 88,0,24,3,Jumper
+92,OG Anunoby,DEFENSIVE_REBOUND,None,2:18,3,Raptors,Lakers,77 - 88,1,N/A,N/A,N/A
+93,Alex Caruso,FOUL_ON_FLOOR,None,2:09,3,Lakers,Raptors,77 - 88,0,N/A,N/A,N/A
+94,Patrick McCaw,FT,None,2:09,3,Raptors,Lakers,77 - 89,1,N/A,1,N/A
+95,Johnathan Williams,SUBSTITUTION,Wagner Moritz,2:09,3,Lakers,Raptors,77 - 89,0,N/A,N/A,N/A
+96,Patrick McCaw,FT,None,2:09,3,Raptors,Lakers,77 - 90,1,N/A,1,N/A
+97,Patrick McCaw,FOUL_ON_FLOOR,None,1:52,3,Raptors,Lakers,77 - 90,1,N/A,N/A,N/A
+98,Alex Caruso,FT,None,1:52,3,Lakers,Raptors,78 - 90,0,N/A,1,N/A
+99,Alex Caruso,FT,None,1:52,3,Lakers,Raptors,79 - 90,0,N/A,1,N/A
+100,OG Anunoby,FG_MISS,None,1:33,3,Raptors,Lakers,79 - 90,1,25,3,Jumper
+101,Kentavious Caldwell-Pope,DEFENSIVE_REBOUND,None,1:29,3,Lakers,Raptors,79 - 90,0,N/A,N/A,N/A
+102,Johnathan Williams,TURNOVER,None,1:22,3,Lakers,Raptors,79 - 90,0,N/A,N/A,N/A
+103,Pascal Siakam,FG_MISS,None,1:10,3,Raptors,Lakers,79 - 90,1,3,2,Jumper
+104,Johnathan Williams,DEFENSIVE_REBOUND,None,1:06,3,Lakers,Raptors,79 - 90,0,N/A,N/A,N/A
+105,Johnathan Williams,TURNOVER,OG Anunoby,1:01,3,Lakers,Raptors,79 - 90,0,N/A,N/A,N/A
+106,Norman Powell,FG_MISS,None,54.8,3,Raptors,Lakers,79 - 90,1,23,3,Jumper
+107,Johnathan Williams,DEFENSIVE_REBOUND,None,52.1,3,Lakers,Raptors,79 - 90,0,N/A,N/A,N/A
+108,Malcolm Miller,FOUL_ON_FLOOR,None,44.8,3,Raptors,Lakers,79 - 90,1,N/A,N/A,N/A
+109,Rajon Rondo,FT,None,44.8,3,Lakers,Raptors,80 - 90,0,N/A,1,N/A
+110,Rajon Rondo,FT,None,44.8,3,Lakers,Raptors,81 - 90,0,N/A,1,N/A
+111,Norman Powell,FG_MISS,None,30.8,3,Raptors,Lakers,81 - 90,1,5,2,Jumper
+112,Rajon Rondo,DEFENSIVE_REBOUND,None,28.7,3,Lakers,Raptors,81 - 90,0,N/A,N/A,N/A
+113,Kentavious Caldwell-Pope,FG_ASSISTED,Rajon Rondo,5.2,3,Lakers,Raptors,84 - 90,0,23,2,Jumper
+114,Pascal Siakam,FG_MISS,None,0.6,3,Raptors,Lakers,84 - 90,1, ,2,Jumper
+115,Team,OFFENSIVE_REBOUND,None,0.6,3,Raptors,Lakers,84 - 90,1,N/A,N/A,N/A
+116,End of,Unknown,None,0.0,3,Raptors,Lakers,84 - 90,1,N/A,N/A,N/A
+0,LeBron James,SUBSTITUTION,Rondo Rajon,12:00,4,Lakers,Raptors,84 - 90,0,N/A,N/A,N/A
+1,Malcolm Miller,FG_ASSISTED,Norman Powell,11:42,4,Raptors,Lakers,84 - 93,1,23,3,Jumper
+2,Patrick McCaw,FOUL_ON_FLOOR,None,11:25,4,Raptors,Lakers,84 - 93,1,N/A,N/A,N/A
+3,Alex Caruso,FG_MISS,None,11:19,4,Lakers,Raptors,84 - 93,0,14,2,Jumper
+4,Alex Caruso,OFFENSIVE_REBOUND,None,11:16,4,Lakers,Raptors,84 - 93,0,N/A,N/A,N/A
+5,Kentavious Caldwell-Pope,FG_MISS,None,11:14,4,Lakers,Raptors,84 - 93,0,26,3,Jumper
+6,Team,OFFENSIVE_REBOUND,None,11:14,4,Lakers,Raptors,84 - 93,0,N/A,N/A,N/A
+7,Norman Powell,FOUL_ON_FLOOR,None,11:14,4,Raptors,Lakers,84 - 93,1,N/A,N/A,N/A
+8,LeBron James,TURNOVER,OG Anunoby,11:02,4,Lakers,Raptors,84 - 93,0,N/A,N/A,N/A
+9,Patrick McCaw,FG_MISS,None,10:57,4,Raptors,Lakers,84 - 93,1, ,2,Jumper
+10,Norman Powell,OFFENSIVE_REBOUND,None,10:50,4,Raptors,Lakers,84 - 93,1,N/A,N/A,N/A
+11,Norman Powell,FG_UNASSISTED,None,10:50,4,Raptors,Lakers,84 - 95,1, ,2,Jumper
+12,Kentavious Caldwell-Pope,TURNOVER,Malcolm Miller,10:40,4,Lakers,Raptors,84 - 95,0,N/A,N/A,N/A
+13,Norman Powell,FG_MISS,None,10:25,4,Raptors,Lakers,84 - 95,1,5,2,Jumper
+14,Johnathan Williams,DEFENSIVE_REBOUND,None,10:23,4,Lakers,Raptors,84 - 95,0,N/A,N/A,N/A
+15,Malcolm Miller,FOUL_ON_FLOOR,None,10:15,4,Raptors,Lakers,84 - 95,1,N/A,N/A,N/A
+16,LeBron James,FT_MISS,None,10:15,4,Lakers,Raptors,84 - 95,0,N/A,1,N/A
+17,Team,OFFENSIVE_REBOUND,None,10:15,4,Lakers,Raptors,84 - 95,0,N/A,N/A,N/A
+18,LeBron James,FT_MISS,None,10:15,4,Lakers,Raptors,84 - 95,0,N/A,1,N/A
+19,OG Anunoby,DEFENSIVE_REBOUND,None,10:13,4,Raptors,Lakers,84 - 95,1,N/A,N/A,N/A
+20,Norman Powell,FG_MISS,None,9:49,4,Raptors,Lakers,84 - 95,1,20,2,Jumper
+21,Pascal Siakam,OFFENSIVE_REBOUND,None,9:47,4,Raptors,Lakers,84 - 95,1,N/A,N/A,N/A
+22,Malcolm Miller,FG_MISS,None,9:42,4,Raptors,Lakers,84 - 95,1,25,3,Jumper
+23,Team,DEFENSIVE_REBOUND,None,9:39,4,Lakers,Raptors,84 - 95,0,N/A,N/A,N/A
+24,Andre Ingram,SUBSTITUTION,Williams Johnathan,9:26,4,Lakers,Raptors,84 - 95,0,N/A,N/A,N/A
+25,LeBron James,FG_MISS,None,9:18,4,Lakers,Raptors,84 - 95,0,13,2,Jumper
+26,Norman Powell,DEFENSIVE_REBOUND,None,9:14,4,Raptors,Lakers,84 - 95,1,N/A,N/A,N/A
+27,OG Anunoby,TURNOVER,Andre Ingram,9:07,4,Raptors,Lakers,84 - 95,1,N/A,N/A,N/A
+28,LeBron James,FG_ASSISTED,Kentavious Caldwell-Pope,9:01,4,Lakers,Raptors,86 - 95,0,0,2,Dunk
+29,OG Anunoby,FG_ASSISTED,Pascal Siakam,8:40,4,Raptors,Lakers,86 - 98,1,25,3,Jumper
+30,Alex Caruso,FG_MISS,Pascal Siakam,8:26,4,Raptors,Lakers,86 - 98,0,0,2,Layup
+31,Norman Powell,DEFENSIVE_REBOUND,None,8:24,4,Raptors,Lakers,86 - 98,1,N/A,N/A,N/A
+32,Malcolm Miller,FG_MISS,None,8:20,4,Raptors,Lakers,86 - 98,1,25,3,Jumper
+33,OG Anunoby,OFFENSIVE_REBOUND,None,8:17,4,Raptors,Lakers,86 - 98,1,N/A,N/A,N/A
+34,OG Anunoby,FG_MISS,None,8:17,4,Raptors,Lakers,86 - 98,1,4,2,Jumper
+35,Alex Caruso,DEFENSIVE_REBOUND,None,8:14,4,Lakers,Raptors,86 - 98,0,N/A,N/A,N/A
+36,Kentavious Caldwell-Pope,FG_ASSISTED,Alex Caruso,8:12,4,Lakers,Raptors,88 - 98,0, ,2,Jumper
+37,Norman Powell,FG_MISS,None,7:59,4,Raptors,Lakers,88 - 98,1,24,3,Jumper
+38,Josh Hart,DEFENSIVE_REBOUND,None,7:59,4,Lakers,Raptors,88 - 98,0,N/A,N/A,N/A
+39,Kentavious Caldwell-Pope,FG_MISS,None,7:44,4,Lakers,Raptors,88 - 98,0,25,3,Jumper
+40,Norman Powell,DEFENSIVE_REBOUND,None,7:42,4,Raptors,Lakers,88 - 98,1,N/A,N/A,N/A
+41,Malcolm Miller,FG_ASSISTED,Pascal Siakam,7:35,4,Raptors,Lakers,88 - 101,1,1,3,Jumper
+42,Team,Unknown,None,7:34,4,Lakers,Raptors,88 - 101,0,N/A,N/A,N/A
+43,Kawhi Leonard,SUBSTITUTION,Siakam Pascal,7:34,4,Raptors,Lakers,88 - 101,1,N/A,N/A,N/A
+44,Kyle Kuzma,SUBSTITUTION,Caldwell-Pope Kentavious,7:34,4,Lakers,Raptors,88 - 101,0,N/A,N/A,N/A
+45,Alex Caruso,TURNOVER,Norman Powell,7:30,4,Lakers,Raptors,88 - 101,0,N/A,N/A,N/A
+46,Alex Caruso,FOUL_ON_FLOOR,None,7:29,4,Lakers,Raptors,88 - 101,0,N/A,N/A,N/A
+47,Norman Powell,FT,None,7:29,4,Raptors,Lakers,88 - 102,1,N/A,1,N/A
+48,Norman Powell,FT,None,7:29,4,Raptors,Lakers,88 - 103,1,N/A,1,N/A
+49,Andre Ingram,FG_MISS,None,7:18,4,Lakers,Raptors,88 - 103,0,1,2,Jumper
+50,Kawhi Leonard,DEFENSIVE_REBOUND,None,7:16,4,Raptors,Lakers,88 - 103,1,N/A,N/A,N/A
+51,Kawhi Leonard,FG_MISS,None,7:00,4,Raptors,Lakers,88 - 103,1,20,2,Jumper
+52,Alex Caruso,DEFENSIVE_REBOUND,None,6:58,4,Lakers,Raptors,88 - 103,0,N/A,N/A,N/A
+53,Kyle Kuzma,FG_ASSISTED,LeBron James,6:47,4,Lakers,Raptors,90 - 103,0,3,2,Jumper
+54,Kawhi Leonard,FG_MISS,None,6:23,4,Raptors,Lakers,90 - 103,1,1,3,Jumper
+55,Alex Caruso,DEFENSIVE_REBOUND,None,6:20,4,Lakers,Raptors,90 - 103,0,N/A,N/A,N/A
+56,Andre Ingram,FG_MISS,None,6:15,4,Lakers,Raptors,90 - 103,0,23,3,Jumper
+57,Norman Powell,DEFENSIVE_REBOUND,None,6:13,4,Raptors,Lakers,90 - 103,1,N/A,N/A,N/A
+58,Malcolm Miller,FG_MISS,None,6:06,4,Raptors,Lakers,90 - 103,1,25,3,Jumper
+59,Andre Ingram,DEFENSIVE_REBOUND,None,6:03,4,Lakers,Raptors,90 - 103,0,N/A,N/A,N/A
+60,Andre Ingram,FG_MISS,None,5:58,4,Lakers,Raptors,90 - 103,0,25,3,Jumper
+61,Kyle Kuzma,OFFENSIVE_REBOUND,None,5:54,4,Lakers,Raptors,90 - 103,0,N/A,N/A,N/A
+62,Kyle Kuzma,FG_MISS,Norman Powell,5:54,4,Raptors,Lakers,90 - 103,0,0,2,Layup
+63,Andre Ingram,OFFENSIVE_REBOUND,None,5:50,4,Lakers,Raptors,90 - 103,0,N/A,N/A,N/A
+64,LeBron James,FG_ASSISTED,Alex Caruso,5:48,4,Lakers,Raptors,92 - 103,0,0,2,Dunk
+65,Norman Powell,FG_UNASSISTED,None,5:35,4,Raptors,Lakers,92 - 105,1,5,2,Jumper
+66,Patrick McCaw,FOUL_ON_FLOOR,None,5:20,4,Raptors,Lakers,92 - 105,1,N/A,N/A,N/A
+67,LeBron James,FT_MISS,None,5:20,4,Lakers,Raptors,92 - 105,0,N/A,1,N/A
+68,Team,OFFENSIVE_REBOUND,None,5:20,4,Lakers,Raptors,92 - 105,0,N/A,N/A,N/A
+69,Pascal Siakam,SUBSTITUTION,Miller Malcolm,5:20,4,Raptors,Lakers,92 - 105,1,N/A,N/A,N/A
+70,Eric Moreland,SUBSTITUTION,Powell Norman,5:20,4,Raptors,Lakers,92 - 105,1,N/A,N/A,N/A
+71,Reggie Bullock,SUBSTITUTION,Caruso Alex,5:20,4,Lakers,Raptors,92 - 105,0,N/A,N/A,N/A
+72,LeBron James,FT,None,5:20,4,Lakers,Raptors,93 - 105,0,N/A,1,N/A
+73,Rajon Rondo,SUBSTITUTION,Ingram Andre,5:20,4,Lakers,Raptors,93 - 105,0,N/A,N/A,N/A
+74,Patrick McCaw,TURNOVER,None,5:01,4,Raptors,Lakers,93 - 105,1,N/A,N/A,N/A
+75,Josh Hart,FG_ASSISTED,Rajon Rondo,4:54,4,Lakers,Raptors,96 - 105,0,26,3,Jumper
+76,Eric Moreland,TURNOVER,None,4:32,4,Raptors,Lakers,96 - 105,1,N/A,N/A,N/A
+77,LeBron James,FG_MISS,Patrick McCaw,4:14,4,Raptors,Lakers,96 - 105,0,0,2,Layup
+78,Eric Moreland,DEFENSIVE_REBOUND,None,4:14,4,Raptors,Lakers,96 - 105,1,N/A,N/A,N/A
+79,Team,Unknown,None,4:06,4,Raptors,Lakers,96 - 105,1,N/A,N/A,N/A
+80,Kawhi Leonard,TURNOVER,None,3:56,4,Raptors,Lakers,96 - 105,1,N/A,N/A,N/A
+81,Reggie Bullock,FOUL_ON_FLOOR,None,3:49,4,Lakers,Raptors,96 - 105,0,N/A,N/A,N/A
+82,Reggie Bullock,TURNOVER,None,3:49,4,Lakers,Raptors,96 - 105,0,N/A,N/A,N/A
+83,Kawhi Leonard,FG_MISS,None,3:31,4,Raptors,Lakers,96 - 105,1,1,2,Jumper
+84,Reggie Bullock,DEFENSIVE_REBOUND,None,3:28,4,Lakers,Raptors,96 - 105,0,N/A,N/A,N/A
+85,LeBron James,TURNOVER,None,3:25,4,Lakers,Raptors,96 - 105,0,N/A,N/A,N/A
+86,Kawhi Leonard,FG_MISS,None,3:13,4,Raptors,Lakers,96 - 105,1,1,2,Jumper
+87,Eric Moreland,OFFENSIVE_REBOUND,None,3:06,4,Raptors,Lakers,96 - 105,1,N/A,N/A,N/A
+88,Eric Moreland,FG_UNASSISTED,None,3:06,4,Raptors,Lakers,96 - 107,1,1,2,Jumper
+89,Reggie Bullock,FG_MISS,None,2:53,4,Lakers,Raptors,96 - 107,0,26,3,Jumper
+90,Team,OFFENSIVE_REBOUND,None,2:50,4,Lakers,Raptors,96 - 107,0,N/A,N/A,N/A
+91,LeBron James,FG_UNASSISTED,None,2:35,4,Lakers,Raptors,98 - 107,0,4,2,Jumper
+92,Josh Hart,FOUL_ON_FLOOR,None,2:18,4,Lakers,Raptors,98 - 107,0,N/A,N/A,N/A
+93,Kawhi Leonard,FT,None,2:18,4,Raptors,Lakers,98 - 108,1,N/A,1,N/A
+94,Kentavious Caldwell-Pope,SUBSTITUTION,James LeBron,2:18,4,Lakers,Raptors,98 - 108,0,N/A,N/A,N/A
+95,Kawhi Leonard,FT,None,2:18,4,Raptors,Lakers,98 - 109,1,N/A,1,N/A
+96,Rajon Rondo,TURNOVER,Kawhi Leonard,1:58,4,Lakers,Raptors,98 - 109,0,N/A,N/A,N/A
+97,Kawhi Leonard,TURNOVER,Kentavious Caldwell-Pope,1:55,4,Raptors,Lakers,98 - 109,1,N/A,N/A,N/A
+98,Reggie Bullock,FG_MISS,None,1:44,4,Lakers,Raptors,98 - 109,0,23,3,Jumper
+99,Eric Moreland,DEFENSIVE_REBOUND,None,1:42,4,Raptors,Lakers,98 - 109,1,N/A,N/A,N/A
+100,Kentavious Caldwell-Pope,FOUL_ON_FLOOR,None,1:28,4,Lakers,Raptors,98 - 109,0,N/A,N/A,N/A
+101,Pascal Siakam,FT,None,1:28,4,Raptors,Lakers,98 - 110,1,N/A,1,N/A
+102,Malcolm Miller,SUBSTITUTION,Leonard Kawhi,1:28,4,Raptors,Lakers,98 - 110,1,N/A,N/A,N/A
+103,Jordan Loyd,SUBSTITUTION,Anunoby OG,1:28,4,Raptors,Lakers,98 - 110,1,N/A,N/A,N/A
+104,Pascal Siakam,FT,None,1:28,4,Raptors,Lakers,98 - 111,1,N/A,1,N/A
+105,Kyle Kuzma,FG_MISS,None,1:14,4,Lakers,Raptors,98 - 111,0,6,2,Jumper
+106,Eric Moreland,DEFENSIVE_REBOUND,None,1:12,4,Raptors,Lakers,98 - 111,1,N/A,N/A,N/A
+107,Pascal Siakam,FG_MISS,Kentavious Caldwell-Pope,58.8,4,Lakers,Raptors,98 - 111,1,0,2,Layup
+108,Andre Ingram,SUBSTITUTION,Hart Josh,58.8,4,Lakers,Raptors,98 - 111,0,N/A,N/A,N/A
+109,Alex Caruso,SUBSTITUTION,Rondo Rajon,58.8,4,Lakers,Raptors,98 - 111,0,N/A,N/A,N/A
+110,Kentavious Caldwell-Pope,JUMP_BALL,None,58.8,4,Raptors,Lakers,98 - 111,1,N/A,N/A,N/A
+111,Team,OFFENSIVE_REBOUND,None,58.8,4,Raptors,Lakers,98 - 111,1,N/A,N/A,N/A
+112,Chris Boucher,SUBSTITUTION,Siakam Pascal,57.0,4,Raptors,Lakers,98 - 111,1,N/A,N/A,N/A
+113,Patrick McCaw,TURNOVER,Kyle Kuzma,50.8,4,Raptors,Lakers,98 - 111,1,N/A,N/A,N/A
+114,Andre Ingram,FG_MISS,None,30.8,4,Lakers,Raptors,98 - 111,0,25,3,Jumper
+115,Chris Boucher,DEFENSIVE_REBOUND,None,28.0,4,Raptors,Lakers,98 - 111,1,N/A,N/A,N/A
+116,Jordan Loyd,FG_MISS,None,20.1,4,Raptors,Lakers,98 - 111,1,24,3,Jumper
+117,Eric Moreland,OFFENSIVE_REBOUND,None,16.1,4,Raptors,Lakers,98 - 111,1,N/A,N/A,N/A
+118,End of,Unknown,None,0.0,4,Raptors,Lakers,98 - 111,1,N/A,N/A,N/A
+119,End of,Unknown,None,0.0,4,Raptors,Lakers,98 - 111,1,N/A,N/A,N/A

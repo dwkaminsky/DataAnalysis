@@ -1,0 +1,426 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Robin Lopez,JUMP_BALL,None,12:00,1,Bulls,76ers,0 - 0,0,N/A,N/A,N/A
+1,Wayne Selden,TURNOVER,None,11:37,1,Bulls,76ers,0 - 0,0,N/A,N/A,N/A
+2,T.J. McConnell,FG_ASSISTED,Boban Marjanovic,11:18,1,76ers,Bulls,0 - 2,1,9,2,Jumper
+3,Robin Lopez,FG_MISS,None,11:07,1,Bulls,76ers,0 - 2,0,26,3,Jumper
+4,Mike Scott,DEFENSIVE_REBOUND,None,11:03,1,76ers,Bulls,0 - 2,1,N/A,N/A,N/A
+5,Zhaire Smith,FG_MISS,None,10:53,1,76ers,Bulls,0 - 2,1,26,3,Jumper
+6,Shaquille Harrison,DEFENSIVE_REBOUND,None,10:49,1,Bulls,76ers,0 - 2,0,N/A,N/A,N/A
+7,Shaquille Harrison,FG_UNASSISTED,None,10:43,1,Bulls,76ers,2 - 2,0,10,2,Jumper
+8,Furkan Korkmaz,FG_MISS,None,10:25,1,76ers,Bulls,2 - 2,1,25,3,Jumper
+9,Wayne Selden,DEFENSIVE_REBOUND,None,10:21,1,Bulls,76ers,2 - 2,0,N/A,N/A,N/A
+10,Timothe Luwawu-Cabarrot,FG_MISS,None,10:07,1,Bulls,76ers,2 - 2,0,17,2,Jumper
+11,Mike Scott,DEFENSIVE_REBOUND,None,10:04,1,76ers,Bulls,2 - 2,1,N/A,N/A,N/A
+12,Mike Scott,FG_MISS,None,9:51,1,76ers,Bulls,2 - 2,1,7,2,Jumper
+13,Wayne Selden,DEFENSIVE_REBOUND,None,9:49,1,Bulls,76ers,2 - 2,0,N/A,N/A,N/A
+14,Robin Lopez,FG_MISS,None,9:39,1,Bulls,76ers,2 - 2,0,9,2,Jumper
+15,Furkan Korkmaz,DEFENSIVE_REBOUND,None,9:36,1,76ers,Bulls,2 - 2,1,N/A,N/A,N/A
+16,Furkan Korkmaz,FG_UNASSISTED,None,9:28,1,76ers,Bulls,2 - 4,1,12,2,Jumper
+17,Robin Lopez,FG_MISS,None,9:11,1,Bulls,76ers,2 - 4,0,4,2,Jumper
+18,Boban Marjanovic,DEFENSIVE_REBOUND,None,9:09,1,76ers,Bulls,2 - 4,1,N/A,N/A,N/A
+19,T.J. McConnell,FG_UNASSISTED,None,8:58,1,76ers,Bulls,2 - 6,1,0,2,Layup
+20,Shaquille Harrison,FG_MISS,Boban Marjanovic,8:36,1,76ers,Bulls,2 - 6,0,0,2,Layup
+21,Mike Scott,DEFENSIVE_REBOUND,None,8:29,1,76ers,Bulls,2 - 6,1,N/A,N/A,N/A
+22,T.J. McConnell,FG_UNASSISTED,None,8:26,1,76ers,Bulls,2 - 8,1,-,2,Jumper
+23,Team,Unknown,None,8:26,1,Bulls,76ers,2 - 8,0,N/A,N/A,N/A
+24,Robin Lopez,FG_ASSISTED,Timothe Luwawu-Cabarrot,8:10,1,Bulls,76ers,4 - 8,0,-,2,Jumper
+25,Furkan Korkmaz,FG_MISS,Shaquille Harrison,7:52,1,Bulls,76ers,4 - 8,1,0,2,Layup
+26,Team,OFFENSIVE_REBOUND,None,7:52,1,76ers,Bulls,4 - 8,1,N/A,N/A,N/A
+27,Boban Marjanovic,FG_ASSISTED,T.J. McConnell,7:50,1,76ers,Bulls,4 - 11,1,24,3,Jumper
+28,Shaquille Harrison,FG_UNASSISTED,None,7:37,1,Bulls,76ers,7 - 11,0,27,3,Jumper
+29,T.J. McConnell,FG_MISS,None,7:14,1,76ers,Bulls,7 - 11,1,15,2,Jumper
+30,Robin Lopez,DEFENSIVE_REBOUND,None,7:11,1,Bulls,76ers,7 - 11,0,N/A,N/A,N/A
+31,Timothe Luwawu-Cabarrot,FG_MISS,None,7:02,1,Bulls,76ers,7 - 11,0,26,3,Jumper
+32,Boban Marjanovic,DEFENSIVE_REBOUND,None,6:59,1,76ers,Bulls,7 - 11,1,N/A,N/A,N/A
+33,Zhaire Smith,FG_ASSISTED,T.J. McConnell,6:48,1,76ers,Bulls,7 - 13,1,16,2,Jumper
+34,Ryan Arcidiacono,FG_MISS,None,6:38,1,Bulls,76ers,7 - 13,0,12,2,Jumper
+35,Boban Marjanovic,DEFENSIVE_REBOUND,None,6:33,1,76ers,Bulls,7 - 13,1,N/A,N/A,N/A
+36,Boban Marjanovic,FG_ASSISTED,T.J. McConnell,6:25,1,76ers,Bulls,7 - 15,1,0,2,Layup
+37,Robin Lopez,FG_UNASSISTED,None,6:07,1,Bulls,76ers,9 - 15,0,6,2,Jumper
+38,Mike Scott,FG_ASSISTED,Zhaire Smith,5:52,1,76ers,Bulls,9 - 17,1,13,2,Jumper
+39,Ryan Arcidiacono,FG_MISS,Boban Marjanovic,5:40,1,76ers,Bulls,9 - 17,0,8,2,Jumper
+40,Team,OFFENSIVE_REBOUND,None,5:40,1,Bulls,76ers,9 - 17,0,N/A,N/A,N/A
+41,Shake Milton,SUBSTITUTION,McConnell T.J.,5:40,1,76ers,Bulls,9 - 17,1,N/A,N/A,N/A
+42,Jonathon Simmons,SUBSTITUTION,Korkmaz Furkan,5:40,1,76ers,Bulls,9 - 17,1,N/A,N/A,N/A
+43,Brandon Sampson,SUBSTITUTION,Selden Wayne,5:40,1,Bulls,76ers,9 - 17,0,N/A,N/A,N/A
+44,Shaquille Harrison,FG_MISS,None,5:31,1,Bulls,76ers,9 - 17,0,0,2,Layup
+45,Ryan Arcidiacono,OFFENSIVE_REBOUND,None,5:27,1,Bulls,76ers,9 - 17,0,N/A,N/A,N/A
+46,Robin Lopez,FG_MISS,None,5:16,1,Bulls,76ers,9 - 17,0,3,2,Jumper
+47,Mike Scott,DEFENSIVE_REBOUND,None,5:14,1,76ers,Bulls,9 - 17,1,N/A,N/A,N/A
+48,Mike Scott,FG_ASSISTED,Boban Marjanovic,4:57,1,76ers,Bulls,9 - 19,1,3,2,Jumper
+49,Robin Lopez,FG_MISS,None,4:45,1,Bulls,76ers,9 - 19,0,26,3,Jumper
+50,Boban Marjanovic,DEFENSIVE_REBOUND,None,4:43,1,76ers,Bulls,9 - 19,1,N/A,N/A,N/A
+51,Shake Milton,FG_MISS,None,4:34,1,76ers,Bulls,9 - 19,1,12,2,Jumper
+52,Zhaire Smith,OFFENSIVE_REBOUND,None,4:30,1,76ers,Bulls,9 - 19,1,N/A,N/A,N/A
+53,Zhaire Smith,FG_UNASSISTED,None,4:30,1,76ers,Bulls,9 - 21,1,0,2,Dunk
+54,Team,Unknown,None,4:30,1,Bulls,76ers,9 - 21,0,N/A,N/A,N/A
+55,Greg Monroe,SUBSTITUTION,Scott Mike,4:30,1,76ers,Bulls,9 - 21,1,N/A,N/A,N/A
+56,Amir Johnson,SUBSTITUTION,Marjanovic Boban,4:30,1,76ers,Bulls,9 - 21,1,N/A,N/A,N/A
+57,Cristiano Felicio,SUBSTITUTION,Harrison Shaquille,4:30,1,Bulls,76ers,9 - 21,0,N/A,N/A,N/A
+58,Walt Lemon,SUBSTITUTION,Lopez Robin,4:30,1,Bulls,76ers,9 - 21,0,N/A,N/A,N/A
+59,Cristiano Felicio's,FG_MISS,Amir Johnson,4:15,1,76ers,Bulls,9 - 21,0,0,2,Layup
+60,Jonathon Simmons,DEFENSIVE_REBOUND,None,4:11,1,76ers,Bulls,9 - 21,1,N/A,N/A,N/A
+61,Jonathon Simmons,FG_MISS,None,4:09,1,76ers,Bulls,9 - 21,1,0,2,Layup
+62,Greg Monroe,OFFENSIVE_REBOUND,None,4:06,1,76ers,Bulls,9 - 21,1,N/A,N/A,N/A
+63,Greg Monroe,FG_UNASSISTED,None,4:05,1,76ers,Bulls,9 - 23,1, ,2,Jumper
+64,Ryan Arcidiacono,FG_UNASSISTED,None,3:50,1,Bulls,76ers,11 - 23,0,17,2,Jumper
+65,Zhaire Smith,TURNOVER,Ryan Arcidiacono,3:33,1,76ers,Bulls,11 - 23,1,N/A,N/A,N/A
+66,Timothe Luwawu-Cabarrot,FG_ASSISTED,Ryan Arcidiacono,3:29,1,Bulls,76ers,13 - 23,0,0,2,Dunk
+67,Team,Unknown,None,3:28,1,76ers,Bulls,13 - 23,1,N/A,N/A,N/A
+68,T.J. McConnell,SUBSTITUTION,Smith Zhaire,3:28,1,76ers,Bulls,13 - 23,1,N/A,N/A,N/A
+69,Cristiano Felicio,FOUL_ON_FLOOR,None,3:05,1,Bulls,76ers,13 - 23,0,N/A,N/A,N/A
+70,Greg Monroe,FT,None,3:05,1,76ers,Bulls,13 - 24,1,N/A,1,N/A
+71,Greg Monroe,FT_MISS,None,3:05,1,76ers,Bulls,13 - 24,1,N/A,1,N/A
+72,Walt Lemon,DEFENSIVE_REBOUND,None,3:01,1,Bulls,76ers,13 - 24,0,N/A,N/A,N/A
+73,Walt Lemon,TURNOVER,Amir Johnson,2:51,1,Bulls,76ers,13 - 24,0,N/A,N/A,N/A
+74,T.J. McConnell,FG_ASSISTED,Greg Monroe,2:39,1,76ers,Bulls,13 - 26,1,0,2,Layup
+75,Timothe Luwawu-Cabarrot,FG_MISS,None,2:30,1,Bulls,76ers,13 - 26,0,27,3,Jumper
+76,Team,DEFENSIVE_REBOUND,None,2:30,1,76ers,Bulls,13 - 26,1,N/A,N/A,N/A
+77,Antonio Blakeney,SUBSTITUTION,Arcidiacono Ryan,2:30,1,Bulls,76ers,13 - 26,0,N/A,N/A,N/A
+78,Jonathon Simmons,FG_MISS,None,2:08,1,76ers,Bulls,13 - 26,1,0,2,Layup
+79,Timothe Luwawu-Cabarrot,DEFENSIVE_REBOUND,None,2:06,1,Bulls,76ers,13 - 26,0,N/A,N/A,N/A
+80,Amir Johnson,FOUL_ON_FLOOR,None,2:03,1,76ers,Bulls,13 - 26,1,N/A,N/A,N/A
+81,Timothe Luwawu-Cabarrot,FT,None,2:03,1,Bulls,76ers,14 - 26,0,N/A,1,N/A
+82,Timothe Luwawu-Cabarrot,FT_MISS,None,2:03,1,Bulls,76ers,14 - 26,0,N/A,1,N/A
+83,Greg Monroe,DEFENSIVE_REBOUND,None,2:00,1,76ers,Bulls,14 - 26,1,N/A,N/A,N/A
+84,Greg Monroe,FG_MISS,None,1:41,1,76ers,Bulls,14 - 26,1,0,2,Layup
+85,Amir Johnson,OFFENSIVE_REBOUND,None,1:38,1,76ers,Bulls,14 - 26,1,N/A,N/A,N/A
+86,Amir Johnson,FG_UNASSISTED,None,1:36,1,76ers,Bulls,14 - 28,1, ,2,Jumper
+87,Walt Lemon,FG_UNASSISTED,None,1:24,1,Bulls,76ers,16 - 28,0,11,2,Jumper
+88,Shake Milton,FG_ASSISTED,Amir Johnson,1:12,1,76ers,Bulls,16 - 30,1,0,2,Dunk
+89,Antonio Blakeney,FG_MISS,Shake Milton,59.8,1,76ers,Bulls,16 - 30,0,11,2,Jumper
+90,Amir Johnson,DEFENSIVE_REBOUND,None,53.4,1,76ers,Bulls,16 - 30,1,N/A,N/A,N/A
+91,Shake Milton,FG_MISS,None,48.2,1,76ers,Bulls,16 - 30,1,0,2,Layup
+92,Team,DEFENSIVE_REBOUND,None,46.5,1,Bulls,76ers,16 - 30,0,N/A,N/A,N/A
+93,Wayne Selden,SUBSTITUTION,Luwawu-Cabarrot Timothe,46.5,1,Bulls,76ers,16 - 30,0,N/A,N/A,N/A
+94,Wayne Selden,FG_ASSISTED,Walt Lemon,39.8,1,Bulls,76ers,19 - 30,0,26,3,Jumper
+95,T.J. McConnell,FG_UNASSISTED,None,33.0,1,76ers,Bulls,19 - 32,1, ,2,Jumper
+96,Walt Lemon,FG_MISS,None,23.7,1,Bulls,76ers,19 - 32,0,3,2,Jumper
+97,T.J. McConnell,DEFENSIVE_REBOUND,None,21.3,1,76ers,Bulls,19 - 32,1,N/A,N/A,N/A
+98,T.J. McConnell,TURNOVER,Cristiano Felicio,5.7,1,76ers,Bulls,19 - 32,1,N/A,N/A,N/A
+99,Shake Milton,FOUL_ON_FLOOR,None,1.1,1,76ers,Bulls,19 - 32,1,N/A,N/A,N/A
+100,Antonio Blakeney,FT,None,1.1,1,Bulls,76ers,20 - 32,0,N/A,1,N/A
+101,Antonio Blakeney,FT_MISS,None,1.1,1,Bulls,76ers,20 - 32,0,N/A,1,N/A
+102,Greg Monroe,DEFENSIVE_REBOUND,None,1.1,1,76ers,Bulls,20 - 32,1,N/A,N/A,N/A
+103,End of,Unknown,None,0.0,1,76ers,Bulls,20 - 32,1,N/A,N/A,N/A
+0,Mike Scott,SUBSTITUTION,Johnson Amir,12:00,2,76ers,Bulls,20 - 32,1,N/A,N/A,N/A
+1,Boban Marjanovic,SUBSTITUTION,Simmons Jonathon,12:00,2,76ers,Bulls,20 - 32,1,N/A,N/A,N/A
+2,Furkan Korkmaz,SUBSTITUTION,Milton Shake,12:00,2,76ers,Bulls,20 - 32,1,N/A,N/A,N/A
+3,Zhaire Smith,SUBSTITUTION,Monroe Greg,12:00,2,76ers,Bulls,20 - 32,1,N/A,N/A,N/A
+4,Brandon Sampson,FOUL_ON_FLOOR,None,11:44,2,Bulls,76ers,20 - 32,0,N/A,N/A,N/A
+5,Furkan Korkmaz,FT_MISS,None,11:44,2,76ers,Bulls,20 - 32,1,N/A,1,N/A
+6,Team,OFFENSIVE_REBOUND,None,11:44,2,76ers,Bulls,20 - 32,1,N/A,N/A,N/A
+7,Furkan Korkmaz,FT,None,11:44,2,76ers,Bulls,20 - 33,1,N/A,1,N/A
+8,Brandon Sampson,FG_MISS,None,11:34,2,Bulls,76ers,20 - 33,0,17,2,Jumper
+9,Mike Scott,DEFENSIVE_REBOUND,None,11:30,2,76ers,Bulls,20 - 33,1,N/A,N/A,N/A
+10,Boban Marjanovic,FG_MISS,None,11:10,2,76ers,Bulls,20 - 33,1,0,2,Layup
+11,Wayne Selden,DEFENSIVE_REBOUND,None,11:07,2,Bulls,76ers,20 - 33,0,N/A,N/A,N/A
+12,Wayne Selden,FG_ASSISTED,Antonio Blakeney,11:00,2,Bulls,76ers,23 - 33,0,27,3,Jumper
+13,Zhaire Smith,FG_MISS,None,10:45,2,76ers,Bulls,23 - 33,1,25,3,Jumper
+14,Team,DEFENSIVE_REBOUND,None,10:44,2,Bulls,76ers,23 - 33,0,N/A,N/A,N/A
+15,Wayne Selden,FG_MISS,None,10:32,2,Bulls,76ers,23 - 33,0,26,3,Jumper
+16,Furkan Korkmaz,DEFENSIVE_REBOUND,None,10:29,2,76ers,Bulls,23 - 33,1,N/A,N/A,N/A
+17,Furkan Korkmaz,FG_MISS,None,10:24,2,76ers,Bulls,23 - 33,1,26,3,Jumper
+18,Wayne Selden,DEFENSIVE_REBOUND,None,10:20,2,Bulls,76ers,23 - 33,0,N/A,N/A,N/A
+19,Walt Lemon,FG_ASSISTED,Wayne Selden,10:18,2,Bulls,76ers,25 - 33,0,0,2,Layup
+20,T.J. McConnell,FG_ASSISTED,Mike Scott,10:05,2,76ers,Bulls,25 - 35,1,16,2,Jumper
+21,Cristiano Felicio,FG_MISS,None,9:40,2,Bulls,76ers,25 - 35,0,18,2,Jumper
+22,Mike Scott,DEFENSIVE_REBOUND,None,9:37,2,76ers,Bulls,25 - 35,1,N/A,N/A,N/A
+23,Cristiano Felicio,FOUL_ON_FLOOR,None,9:33,2,Bulls,76ers,25 - 35,0,N/A,N/A,N/A
+24,Rawle Alkins,SUBSTITUTION,Sampson Brandon,9:33,2,Bulls,76ers,25 - 35,0,N/A,N/A,N/A
+25,Mike Scott,FG_ASSISTED,Zhaire Smith,9:27,2,76ers,Bulls,25 - 38,1,30,3,Jumper
+26,Walt Lemon,FG_ASSISTED,Wayne Selden,9:13,2,Bulls,76ers,28 - 38,0,26,3,Jumper
+27,Furkan Korkmaz,FG_MISS,None,9:00,2,76ers,Bulls,28 - 38,1,28,3,Jumper
+28,Antonio Blakeney,DEFENSIVE_REBOUND,None,8:57,2,Bulls,76ers,28 - 38,0,N/A,N/A,N/A
+29,Walt Lemon,FG_ASSISTED,Antonio Blakeney,8:51,2,Bulls,76ers,31 - 38,0,25,3,Jumper
+30,Boban Marjanovic,FG_UNASSISTED,None,8:35,2,76ers,Bulls,31 - 40,1,15,2,Jumper
+31,Walt Lemon,FG_UNASSISTED,None,8:22,2,Bulls,76ers,33 - 40,0,19,2,Jumper
+32,Boban Marjanovic,FG_MISS,None,8:03,2,76ers,Bulls,33 - 40,1,5,2,Jumper
+33,Walt Lemon,DEFENSIVE_REBOUND,None,8:02,2,Bulls,76ers,33 - 40,0,N/A,N/A,N/A
+34,Walt Lemon,FG_MISS,T.J. McConnell,7:57,2,76ers,Bulls,33 - 40,0,0,2,Layup
+35,Walt Lemon,OFFENSIVE_REBOUND,None,7:54,2,Bulls,76ers,33 - 40,0,N/A,N/A,N/A
+36,Wayne Selden,FG_MISS,None,7:52,2,Bulls,76ers,33 - 40,0,11,2,Jumper
+37,Team,OFFENSIVE_REBOUND,None,7:52,2,Bulls,76ers,33 - 40,0,N/A,N/A,N/A
+38,Mike Scott,FOUL_ON_FLOOR,None,7:51,2,76ers,Bulls,33 - 40,1,N/A,N/A,N/A
+39,Jonathon Simmons,SUBSTITUTION,McConnell T.J.,7:51,2,76ers,Bulls,33 - 40,1,N/A,N/A,N/A
+40,Shake Milton,SUBSTITUTION,Korkmaz Furkan,7:51,2,76ers,Bulls,33 - 40,1,N/A,N/A,N/A
+41,Rawle Alkins,TURNOVER,None,7:41,2,Bulls,76ers,33 - 40,0,N/A,N/A,N/A
+42,Boban Marjanovic,FG_ASSISTED,Zhaire Smith,7:24,2,76ers,Bulls,33 - 42,1, ,2,Jumper
+43,Walt Lemon,FG_MISS,None,7:09,2,Bulls,76ers,33 - 42,0, ,2,Jumper
+44,Boban Marjanovic,DEFENSIVE_REBOUND,None,7:07,2,76ers,Bulls,33 - 42,1,N/A,N/A,N/A
+45,Jonathon Simmons,FG_ASSISTED,Boban Marjanovic,6:56,2,76ers,Bulls,33 - 45,1,26,3,Jumper
+46,Wayne Selden,FG_MISS,None,6:40,2,Bulls,76ers,33 - 45,0,26,3,Jumper
+47,Cristiano Felicio,OFFENSIVE_REBOUND,None,6:37,2,Bulls,76ers,33 - 45,0,N/A,N/A,N/A
+48,Antonio Blakeney,FG_MISS,None,6:34,2,Bulls,76ers,33 - 45,0,26,3,Jumper
+49,Jonathon Simmons,DEFENSIVE_REBOUND,None,6:31,2,76ers,Bulls,33 - 45,1,N/A,N/A,N/A
+50,Zhaire Smith,FG_ASSISTED,Jonathon Simmons,6:26,2,76ers,Bulls,33 - 47,1,0,2,Dunk
+51,Team,Unknown,None,6:26,2,Bulls,76ers,33 - 47,0,N/A,N/A,N/A
+52,Greg Monroe,SUBSTITUTION,Marjanovic Boban,6:26,2,76ers,Bulls,33 - 47,1,N/A,N/A,N/A
+53,Ryan Arcidiacono,SUBSTITUTION,Felicio Cristiano,6:26,2,Bulls,76ers,33 - 47,0,N/A,N/A,N/A
+54,Robin Lopez,SUBSTITUTION,Blakeney Antonio,6:26,2,Bulls,76ers,33 - 47,0,N/A,N/A,N/A
+55,Ryan Arcidiacono,FG_ASSISTED,Walt Lemon,6:18,2,Bulls,76ers,36 - 47,0,27,3,Jumper
+56,Zhaire Smith,FG_ASSISTED,Greg Monroe,5:57,2,76ers,Bulls,36 - 49,1,7,2,Jumper
+57,Walt Lemon,FG_MISS,None,5:40,2,Bulls,76ers,36 - 49,0, ,2,Jumper
+58,Mike Scott,DEFENSIVE_REBOUND,None,5:37,2,76ers,Bulls,36 - 49,1,N/A,N/A,N/A
+59,Zhaire Smith,FG_MISS,None,5:22,2,76ers,Bulls,36 - 49,1,25,3,Jumper
+60,Walt Lemon,DEFENSIVE_REBOUND,None,5:19,2,Bulls,76ers,36 - 49,0,N/A,N/A,N/A
+61,Ryan Arcidiacono,TURNOVER,Shake Milton,5:07,2,Bulls,76ers,36 - 49,0,N/A,N/A,N/A
+62,Shake Milton,FG_UNASSISTED,None,5:03,2,76ers,Bulls,36 - 51,1, ,2,Jumper
+63,Wayne Selden,FG_UNASSISTED,None,4:36,2,Bulls,76ers,38 - 51,0,15,2,Jumper
+64,Greg Monroe,FG_ASSISTED,Shake Milton,4:11,2,76ers,Bulls,38 - 53,1,0,2,Layup
+65,Robin Lopez,FG_UNASSISTED,None,3:48,2,Bulls,76ers,40 - 53,0,4,2,Jumper
+66,Greg Monroe,FG_MISS,None,3:38,2,76ers,Bulls,40 - 53,1,14,2,Jumper
+67,Wayne Selden,DEFENSIVE_REBOUND,None,3:34,2,Bulls,76ers,40 - 53,0,N/A,N/A,N/A
+68,Wayne Selden,FG_UNASSISTED,None,3:29,2,Bulls,76ers,42 - 53,0,4,2,Jumper
+69,Team,Unknown,None,3:28,2,76ers,Bulls,42 - 53,1,N/A,N/A,N/A
+70,Furkan Korkmaz,SUBSTITUTION,Scott Mike,3:28,2,76ers,Bulls,42 - 53,1,N/A,N/A,N/A
+71,Amir Johnson,SUBSTITUTION,Smith Zhaire,3:28,2,76ers,Bulls,42 - 53,1,N/A,N/A,N/A
+72,T.J. McConnell,SUBSTITUTION,Milton Shake,3:28,2,76ers,Bulls,42 - 53,1,N/A,N/A,N/A
+73,Shaquille Harrison,SUBSTITUTION,Selden Wayne,3:28,2,Bulls,76ers,42 - 53,0,N/A,N/A,N/A
+74,Timothe Luwawu-Cabarrot,SUBSTITUTION,Alkins Rawle,3:28,2,Bulls,76ers,42 - 53,0,N/A,N/A,N/A
+75,T.J. McConnell,FG_UNASSISTED,None,3:07,2,76ers,Bulls,42 - 55,1, ,2,Jumper
+76,Timothe Luwawu-Cabarrot,FG_MISS,Amir Johnson,2:50,2,76ers,Bulls,42 - 55,0,0,2,Layup
+77,Jonathon Simmons,DEFENSIVE_REBOUND,None,2:47,2,76ers,Bulls,42 - 55,1,N/A,N/A,N/A
+78,Jonathon Simmons,FG_UNASSISTED,None,2:41,2,76ers,Bulls,42 - 58,1,26,3,Jumper
+79,Ryan Arcidiacono,FG_MISS,Jonathon Simmons,2:25,2,76ers,Bulls,42 - 58,0,7,2,Jumper
+80,Ryan Arcidiacono,OFFENSIVE_REBOUND,None,2:22,2,Bulls,76ers,42 - 58,0,N/A,N/A,N/A
+81,Shaquille Harrison,FG_MISS,None,2:16,2,Bulls,76ers,42 - 58,0,26,2,Jumper
+82,Amir Johnson,DEFENSIVE_REBOUND,None,2:13,2,76ers,Bulls,42 - 58,1,N/A,N/A,N/A
+83,Walt Lemon,FOUL_ON_FLOOR,None,2:01,2,Bulls,76ers,42 - 58,0,N/A,N/A,N/A
+84,Furkan Korkmaz,FG_MISS,None,1:54,2,76ers,Bulls,42 - 58,1,13,2,Jumper
+85,Timothe Luwawu-Cabarrot,DEFENSIVE_REBOUND,None,1:50,2,Bulls,76ers,42 - 58,0,N/A,N/A,N/A
+86,Timothe Luwawu-Cabarrot,FG_MISS,None,1:38,2,Bulls,76ers,42 - 58,0, ,2,Jumper
+87,Amir Johnson,DEFENSIVE_REBOUND,None,1:36,2,76ers,Bulls,42 - 58,1,N/A,N/A,N/A
+88,Greg Monroe,FG_ASSISTED,T.J. McConnell,1:27,2,76ers,Bulls,42 - 60,1,0,2,Layup
+89,Walt Lemon,FG_MISS,None,1:03,2,Bulls,76ers,42 - 60,0,8,2,Jumper
+90,shot clock,TURNOVER,None,1:02,2,Bulls,76ers,42 - 60,0,N/A,N/A,N/A
+91,Team,OFFENSIVE_REBOUND,None,1:02,2,Bulls,76ers,42 - 60,0,N/A,N/A,N/A
+92,Greg Monroe,FG_ASSISTED,Furkan Korkmaz,50.6,2,76ers,Bulls,42 - 62,1, ,2,Jumper
+93,Walt Lemon,FG_MISS,None,39.7,2,Bulls,76ers,42 - 62,0,16,2,Jumper
+94,Jonathon Simmons,DEFENSIVE_REBOUND,None,32.8,2,76ers,Bulls,42 - 62,1,N/A,N/A,N/A
+95,Jonathon Simmons,FG_MISS,None,25.9,2,76ers,Bulls,42 - 62,1,26,3,Jumper
+96,Shaquille Harrison,DEFENSIVE_REBOUND,None,21.9,2,Bulls,76ers,42 - 62,0,N/A,N/A,N/A
+97,T.J. McConnell,FOUL_ON_FLOOR,None,7.0,2,76ers,Bulls,42 - 62,1,N/A,N/A,N/A
+98,Walt Lemon,FG_MISS,None,1.0,2,Bulls,76ers,42 - 62,0,14,2,Jumper
+99,Team,OFFENSIVE_REBOUND,None,0.1,2,Bulls,76ers,42 - 62,0,N/A,N/A,N/A
+100,End of,Unknown,None,0.0,2,76ers,Bulls,42 - 62,1,N/A,N/A,N/A
+0,Zhaire Smith,SUBSTITUTION,Simmons Jonathon,12:00,3,76ers,Bulls,42 - 62,1,N/A,N/A,N/A
+1,Boban Marjanovic,SUBSTITUTION,Monroe Greg,12:00,3,76ers,Bulls,42 - 62,1,N/A,N/A,N/A
+2,Mike Scott,SUBSTITUTION,Johnson Amir,12:00,3,76ers,Bulls,42 - 62,1,N/A,N/A,N/A
+3,Wayne Selden,SUBSTITUTION,Lemon Walt,12:00,3,Bulls,76ers,42 - 62,0,N/A,N/A,N/A
+4,Furkan Korkmaz,FG_ASSISTED,Boban Marjanovic,11:44,3,76ers,Bulls,42 - 64,1,0,2,Layup
+5,Robin Lopez,FG_UNASSISTED,None,11:20,3,Bulls,76ers,44 - 64,0,4,2,Jumper
+6,Boban Marjanovic,FG_ASSISTED,T.J. McConnell,11:08,3,76ers,Bulls,44 - 66,1,13,2,Jumper
+7,Shaquille Harrison,FG_MISS,None,10:50,3,Bulls,76ers,44 - 66,0,0,2,Layup
+8,Robin Lopez,OFFENSIVE_REBOUND,None,10:46,3,Bulls,76ers,44 - 66,0,N/A,N/A,N/A
+9,Wayne Selden,FG_MISS,Mike Scott,10:43,3,76ers,Bulls,44 - 66,0,9,2,Jumper
+10,Boban Marjanovic,DEFENSIVE_REBOUND,None,10:39,3,76ers,Bulls,44 - 66,1,N/A,N/A,N/A
+11,Boban Marjanovic,FG_MISS,None,10:30,3,76ers,Bulls,44 - 66,1,24,3,Jumper
+12,Timothe Luwawu-Cabarrot,DEFENSIVE_REBOUND,None,10:26,3,Bulls,76ers,44 - 66,0,N/A,N/A,N/A
+13,Timothe Luwawu-Cabarrot,FG_MISS,None,10:15,3,Bulls,76ers,44 - 66,0,0,2,Layup
+14,Zhaire Smith,DEFENSIVE_REBOUND,None,10:12,3,76ers,Bulls,44 - 66,1,N/A,N/A,N/A
+15,Mike Scott,FG_MISS,None,9:59,3,76ers,Bulls,44 - 66,1,0,2,Layup
+16,Shaquille Harrison,DEFENSIVE_REBOUND,None,9:56,3,Bulls,76ers,44 - 66,0,N/A,N/A,N/A
+17,Shaquille Harrison,FG_UNASSISTED,None,9:52,3,Bulls,76ers,46 - 66,0,0,2,Layup
+18,Timothe Luwawu-Cabarrot,FOUL_ON_FLOOR,None,9:39,3,Bulls,76ers,46 - 66,0,N/A,N/A,N/A
+19,Zhaire Smith,FT,None,9:39,3,76ers,Bulls,46 - 67,1,N/A,1,N/A
+20,Zhaire Smith,FT_MISS,None,9:39,3,76ers,Bulls,46 - 67,1,N/A,1,N/A
+21,Ryan Arcidiacono,DEFENSIVE_REBOUND,None,9:36,3,Bulls,76ers,46 - 67,0,N/A,N/A,N/A
+22,Furkan Korkmaz,FOUL_ON_FLOOR,None,9:31,3,76ers,Bulls,46 - 67,1,N/A,N/A,N/A
+23,Shaquille Harrison,FT,None,9:31,3,Bulls,76ers,47 - 67,0,N/A,1,N/A
+24,Shaquille Harrison,FT,None,9:31,3,Bulls,76ers,48 - 67,0,N/A,1,N/A
+25,Furkan Korkmaz,FG_UNASSISTED,None,9:20,3,76ers,Bulls,48 - 70,1,27,3,Jumper
+26,Robin Lopez,FG_MISS,None,8:54,3,Bulls,76ers,48 - 70,0,3,2,Jumper
+27,T.J. McConnell,DEFENSIVE_REBOUND,None,8:51,3,76ers,Bulls,48 - 70,1,N/A,N/A,N/A
+28,Mike Scott,FG_MISS,Shaquille Harrison,8:44,3,Bulls,76ers,48 - 70,1,0,2,Layup
+29,Team,OFFENSIVE_REBOUND,None,8:44,3,76ers,Bulls,48 - 70,1,N/A,N/A,N/A
+30,Boban Marjanovic,FG_ASSISTED,T.J. McConnell,8:41,3,76ers,Bulls,48 - 73,1,24,3,Jumper
+31,Shaquille Harrison,FG_MISS,None,8:13,3,Bulls,76ers,48 - 73,0,23,3,Jumper
+32,Boban Marjanovic,DEFENSIVE_REBOUND,None,8:10,3,76ers,Bulls,48 - 73,1,N/A,N/A,N/A
+33,T.J. McConnell,FG_UNASSISTED,None,8:05,3,76ers,Bulls,48 - 75,1,9,2,Jumper
+34,Team,Unknown,None,8:04,3,Bulls,76ers,48 - 75,0,N/A,N/A,N/A
+35,Jonathon Simmons,SUBSTITUTION,Korkmaz Furkan,8:04,3,76ers,Bulls,48 - 75,1,N/A,N/A,N/A
+36,Robin Lopez,FG_MISS,None,7:42,3,Bulls,76ers,48 - 75,0,5,2,Jumper
+37,Zhaire Smith,DEFENSIVE_REBOUND,None,7:39,3,76ers,Bulls,48 - 75,1,N/A,N/A,N/A
+38,T.J. McConnell,FG_ASSISTED,Jonathon Simmons,7:22,3,76ers,Bulls,48 - 77,1,9,2,Jumper
+39,Ryan Arcidiacono,FG_MISS,None,7:01,3,Bulls,76ers,48 - 77,0,25,3,Jumper
+40,Robin Lopez,OFFENSIVE_REBOUND,None,6:57,3,Bulls,76ers,48 - 77,0,N/A,N/A,N/A
+41,Robin Lopez,FG_UNASSISTED,None,6:57,3,Bulls,76ers,50 - 77,0, ,2,Jumper
+42,Jonathon Simmons,FG_UNASSISTED,None,6:49,3,76ers,Bulls,50 - 79,1,4,2,Jumper
+43,Wayne Selden,FG_ASSISTED,Robin Lopez,6:31,3,Bulls,76ers,52 - 79,0,0,2,Layup
+44,Jonathon Simmons,FG_ASSISTED,Boban Marjanovic,6:06,3,76ers,Bulls,52 - 81,1,19,2,Jumper
+45,Ryan Arcidiacono,FOUL_ON_FLOOR,None,6:06,3,Bulls,76ers,52 - 81,0,N/A,N/A,N/A
+46,Amir Johnson,SUBSTITUTION,Scott Mike,6:06,3,76ers,Bulls,52 - 81,1,N/A,N/A,N/A
+47,Greg Monroe,SUBSTITUTION,McConnell T.J.,6:06,3,76ers,Bulls,52 - 81,1,N/A,N/A,N/A
+48,Shake Milton,SUBSTITUTION,Marjanovic Boban,6:06,3,76ers,Bulls,52 - 81,1,N/A,N/A,N/A
+49,Walt Lemon,SUBSTITUTION,Luwawu-Cabarrot Timothe,6:06,3,Bulls,76ers,52 - 81,0,N/A,N/A,N/A
+50,Rawle Alkins,SUBSTITUTION,Arcidiacono Ryan,6:06,3,Bulls,76ers,52 - 81,0,N/A,N/A,N/A
+51,Jonathon Simmons,FT,None,6:06,3,76ers,Bulls,52 - 82,1,N/A,1,N/A
+52,Robin Lopez,FG_UNASSISTED,None,5:43,3,Bulls,76ers,54 - 82,0,3,2,Jumper
+53,Greg Monroe,FG_MISS,None,5:25,3,76ers,Bulls,54 - 82,1,4,2,Jumper
+54,Wayne Selden,DEFENSIVE_REBOUND,None,5:23,3,Bulls,76ers,54 - 82,0,N/A,N/A,N/A
+55,Wayne Selden,FOUL_ON_FLOOR,None,5:21,3,Bulls,76ers,54 - 82,0,N/A,N/A,N/A
+56,Wayne Selden,TURNOVER,None,5:21,3,Bulls,76ers,54 - 82,0,N/A,N/A,N/A
+57,Zhaire Smith,FG_UNASSISTED,None,5:08,3,76ers,Bulls,54 - 85,1,26,3,Jumper
+58,Wayne Selden,FG_MISS,None,4:56,3,Bulls,76ers,54 - 85,0,26,3,Jumper
+59,Greg Monroe,DEFENSIVE_REBOUND,None,4:54,3,76ers,Bulls,54 - 85,1,N/A,N/A,N/A
+60,Jonathon Simmons,FG_MISS,None,4:47,3,76ers,Bulls,54 - 85,1,26,2,Jumper
+61,Wayne Selden,DEFENSIVE_REBOUND,None,4:43,3,Bulls,76ers,54 - 85,0,N/A,N/A,N/A
+62,Walt Lemon,FG_MISS,None,4:33,3,Bulls,76ers,54 - 85,0,17,2,Jumper
+63,Greg Monroe,DEFENSIVE_REBOUND,None,4:28,3,76ers,Bulls,54 - 85,1,N/A,N/A,N/A
+64,Shake Milton,FG_MISS,None,4:12,3,76ers,Bulls,54 - 85,1,26,3,Jumper
+65,Robin Lopez,DEFENSIVE_REBOUND,None,4:09,3,Bulls,76ers,54 - 85,0,N/A,N/A,N/A
+66,Shaquille Harrison,FG_UNASSISTED,None,4:05,3,Bulls,76ers,56 - 85,0, ,2,Jumper
+67,Amir Johnson,FG_ASSISTED,Jonathon Simmons,3:46,3,76ers,Bulls,56 - 88,1,24,3,Jumper
+68,Walt Lemon,FG_MISS,Shake Milton,3:32,3,76ers,Bulls,56 - 88,0,0,2,Layup
+69,Walt Lemon,JUMP_BALL,None,3:32,3,Bulls,76ers,56 - 88,0,N/A,N/A,N/A
+70,Team,OFFENSIVE_REBOUND,None,3:32,3,Bulls,76ers,56 - 88,0,N/A,N/A,N/A
+71,Haywood Highsmith,SUBSTITUTION,Smith Zhaire,3:32,3,76ers,Bulls,56 - 88,1,N/A,N/A,N/A
+72,Shaquille Harrison,FG_MISS,None,3:21,3,Bulls,76ers,56 - 88,0,17,2,Jumper
+73,Haywood Highsmith,DEFENSIVE_REBOUND,None,3:17,3,76ers,Bulls,56 - 88,1,N/A,N/A,N/A
+74,Greg Monroe,FG_ASSISTED,Jonathon Simmons,3:09,3,76ers,Bulls,56 - 91,1,28,3,Jumper
+75,Greg Monroe,FOUL_ON_FLOOR,None,2:58,3,76ers,Bulls,56 - 91,1,N/A,N/A,N/A
+76,Team,Unknown,None,2:58,3,76ers,Bulls,56 - 91,1,N/A,N/A,N/A
+77,Brandon Sampson,SUBSTITUTION,Harrison Shaquille,2:58,3,Bulls,76ers,56 - 91,0,N/A,N/A,N/A
+78,Rawle Alkins,FT_MISS,None,2:58,3,Bulls,76ers,56 - 91,0,N/A,1,N/A
+79,Team,OFFENSIVE_REBOUND,None,2:58,3,Bulls,76ers,56 - 91,0,N/A,N/A,N/A
+80,Rawle Alkins,FT,None,2:58,3,Bulls,76ers,57 - 91,0,N/A,1,N/A
+81,Jonathon Simmons,FG_MISS,Brandon Sampson,2:40,3,Bulls,76ers,57 - 91,1,0,2,Layup
+82,Team,OFFENSIVE_REBOUND,None,2:37,3,76ers,Bulls,57 - 91,1,N/A,N/A,N/A
+83,Greg Monroe,FG_MISS,None,2:33,3,76ers,Bulls,57 - 91,1,19,2,Jumper
+84,Amir Johnson,OFFENSIVE_REBOUND,None,2:30,3,76ers,Bulls,57 - 91,1,N/A,N/A,N/A
+85,Walt Lemon,FOUL_ON_FLOOR,None,2:25,3,Bulls,76ers,57 - 91,0,N/A,N/A,N/A
+86,Greg Monroe,FT,None,2:25,3,76ers,Bulls,57 - 92,1,N/A,1,N/A
+87,Greg Monroe,FT,None,2:25,3,76ers,Bulls,57 - 93,1,N/A,1,N/A
+88,Brandon Sampson,FG_UNASSISTED,None,2:10,3,Bulls,76ers,59 - 93,0, ,2,Jumper
+89,Jonathon Simmons,FG_UNASSISTED,None,1:56,3,76ers,Bulls,59 - 95,1,11,2,Jumper
+90,Brandon Sampson,FG_MISS,None,1:38,3,Bulls,76ers,59 - 95,0,26,3,Jumper
+91,Wayne Selden,OFFENSIVE_REBOUND,None,1:32,3,Bulls,76ers,59 - 95,0,N/A,N/A,N/A
+92,Brandon Sampson,FG_ASSISTED,Rawle Alkins,1:25,3,Bulls,76ers,62 - 95,0,24,3,Jumper
+93,Shake Milton,FG_MISS,None,1:05,3,76ers,Bulls,62 - 95,1,0,2,Layup
+94,Amir Johnson,OFFENSIVE_REBOUND,None,1:00,3,76ers,Bulls,62 - 95,1,N/A,N/A,N/A
+95,Amir Johnson,FG_MISS,None,1:00,3,76ers,Bulls,62 - 95,1, ,2,Jumper
+96,Amir Johnson,OFFENSIVE_REBOUND,None,58.3,3,76ers,Bulls,62 - 95,1,N/A,N/A,N/A
+97,Amir Johnson,FG_MISS,None,58.3,3,76ers,Bulls,62 - 95,1, ,2,Jumper
+98,Jonathon Simmons,OFFENSIVE_REBOUND,None,58.3,3,76ers,Bulls,62 - 95,1,N/A,N/A,N/A
+99,Jonathon Simmons,FG_MISS,None,56.9,3,76ers,Bulls,62 - 95,1,25,3,Jumper
+100,Brandon Sampson,DEFENSIVE_REBOUND,None,54.6,3,Bulls,76ers,62 - 95,0,N/A,N/A,N/A
+101,Rawle Alkins,FG_MISS,None,48.3,3,Bulls,76ers,62 - 95,0,26,3,Jumper
+102,Jonathon Simmons,DEFENSIVE_REBOUND,None,45.6,3,76ers,Bulls,62 - 95,1,N/A,N/A,N/A
+103,Jonathon Simmons,FG_UNASSISTED,None,28.0,3,76ers,Bulls,62 - 97,1,20,2,Jumper
+104,Walt Lemon,FG_MISS,Shake Milton,5.1,3,76ers,Bulls,62 - 97,0,0,2,Layup
+105,Walt Lemon,OFFENSIVE_REBOUND,None,4.2,3,Bulls,76ers,62 - 97,0,N/A,N/A,N/A
+106,Walt Lemon,FG_UNASSISTED,None,4.0,3,Bulls,76ers,64 - 97,0,0,2,Layup
+107,End of,Unknown,None,0.0,3,76ers,Bulls,64 - 97,1,N/A,N/A,N/A
+0,Boban Marjanovic,SUBSTITUTION,Simmons Jonathon,12:00,4,76ers,Bulls,64 - 97,1,N/A,N/A,N/A
+1,Zhaire Smith,SUBSTITUTION,Monroe Greg,12:00,4,76ers,Bulls,64 - 97,1,N/A,N/A,N/A
+2,Timothe Luwawu-Cabarrot,SUBSTITUTION,Selden Wayne,12:00,4,Bulls,76ers,64 - 97,0,N/A,N/A,N/A
+3,Cristiano Felicio,SUBSTITUTION,Lopez Robin,12:00,4,Bulls,76ers,64 - 97,0,N/A,N/A,N/A
+4,Walt Lemon,FG_UNASSISTED,None,11:52,4,Bulls,76ers,66 - 97,0,0,2,Layup
+5,Boban Marjanovic,TURNOVER,None,11:36,4,76ers,Bulls,66 - 97,1,N/A,N/A,N/A
+6,Rawle Alkins,FG_ASSISTED,Timothe Luwawu-Cabarrot,11:22,4,Bulls,76ers,68 - 97,0,8,2,Jumper
+7,Shake Milton,FOUL_ON_FLOOR,None,11:22,4,76ers,Bulls,68 - 97,1,N/A,N/A,N/A
+8,Rawle Alkins,FT_MISS,None,11:22,4,Bulls,76ers,68 - 97,0,N/A,1,N/A
+9,Amir Johnson,DEFENSIVE_REBOUND,None,11:18,4,76ers,Bulls,68 - 97,1,N/A,N/A,N/A
+10,Zhaire Smith,FG_MISS,None,11:05,4,76ers,Bulls,68 - 97,1,17,2,Jumper
+11,Walt Lemon,DEFENSIVE_REBOUND,None,11:03,4,Bulls,76ers,68 - 97,0,N/A,N/A,N/A
+12,Brandon Sampson,FG_ASSISTED,Walt Lemon,10:56,4,Bulls,76ers,71 - 97,0,25,3,Jumper
+13,Team,Unknown,None,10:55,4,76ers,Bulls,71 - 97,1,N/A,N/A,N/A
+14,Haywood Highsmith,FG_ASSISTED,Shake Milton,10:42,4,76ers,Bulls,71 - 99,1,13,2,Jumper
+15,Brandon Sampson,FG_MISS,None,10:29,4,Bulls,76ers,71 - 99,0,27,3,Jumper
+16,Boban Marjanovic,DEFENSIVE_REBOUND,None,10:25,4,76ers,Bulls,71 - 99,1,N/A,N/A,N/A
+17,Boban Marjanovic,FG_UNASSISTED,None,10:10,4,76ers,Bulls,71 - 101,1,2,2,Jumper
+18,Rawle Alkins,FG_MISS,None,9:56,4,Bulls,76ers,71 - 101,0,0,2,Layup
+19,Team,OFFENSIVE_REBOUND,None,9:54,4,Bulls,76ers,71 - 101,0,N/A,N/A,N/A
+20,Timothe Luwawu-Cabarrot,FG_UNASSISTED,None,9:48,4,Bulls,76ers,73 - 101,0,0,2,Layup
+21,Boban Marjanovic,Unknown,None,9:48,4,76ers,Bulls,73 - 101,1,N/A,N/A,N/A
+22,Zhaire Smith,FG_MISS,None,9:33,4,76ers,Bulls,73 - 101,1,1,2,Jumper
+23,Cristiano Felicio,DEFENSIVE_REBOUND,None,9:31,4,Bulls,76ers,73 - 101,0,N/A,N/A,N/A
+24,Walt Lemon,FG_UNASSISTED,None,9:26,4,Bulls,76ers,75 - 101,0,1,2,Jumper
+25,Boban Marjanovic,FG_MISS,None,9:12,4,76ers,Bulls,75 - 101,1,5,2,Jumper
+26,Timothe Luwawu-Cabarrot,DEFENSIVE_REBOUND,None,9:09,4,Bulls,76ers,75 - 101,0,N/A,N/A,N/A
+27,Walt Lemon,TURNOVER,Shake Milton,9:04,4,Bulls,76ers,75 - 101,0,N/A,N/A,N/A
+28,Shake Milton,FG_UNASSISTED,None,9:00,4,76ers,Bulls,75 - 103,1,1,2,Jumper
+29,Brandon Sampson,TURNOVER,Haywood Highsmith,8:39,4,Bulls,76ers,75 - 103,0,N/A,N/A,N/A
+30,Shake Milton,FG_MISS,None,8:27,4,76ers,Bulls,75 - 103,1,25,3,Jumper
+31,Amir Johnson,OFFENSIVE_REBOUND,None,8:25,4,76ers,Bulls,75 - 103,1,N/A,N/A,N/A
+32,Amir Johnson,FG_UNASSISTED,None,8:25,4,76ers,Bulls,75 - 105,1,3,2,Jumper
+33,Timothe Luwawu-Cabarrot,FOUL_ON_FLOOR,None,8:25,4,Bulls,76ers,75 - 105,0,N/A,N/A,N/A
+34,Amir Johnson,FT,None,8:25,4,76ers,Bulls,75 - 106,1,N/A,1,N/A
+35,Timothe Luwawu-Cabarrot,FG_ASSISTED,Walt Lemon,8:16,4,Bulls,76ers,78 - 106,0,26,3,Jumper
+36,Timothe Luwawu-Cabarrot,FOUL_ON_FLOOR,None,7:59,4,Bulls,76ers,78 - 106,0,N/A,N/A,N/A
+37,Jonathon Simmons,SUBSTITUTION,Johnson Amir,7:59,4,76ers,Bulls,78 - 106,1,N/A,N/A,N/A
+38,Ryan Arcidiacono,SUBSTITUTION,Alkins Rawle,7:59,4,Bulls,76ers,78 - 106,0,N/A,N/A,N/A
+39,Jonathon Simmons,TURNOVER,None,7:54,4,76ers,Bulls,78 - 106,1,N/A,N/A,N/A
+40,Timothe Luwawu-Cabarrot,FG_MISS,None,7:46,4,Bulls,76ers,78 - 106,0,27,3,Jumper
+41,Cristiano Felicio,OFFENSIVE_REBOUND,None,7:42,4,Bulls,76ers,78 - 106,0,N/A,N/A,N/A
+42,Shake Milton,FOUL_ON_FLOOR,None,7:38,4,76ers,Bulls,78 - 106,1,N/A,N/A,N/A
+43,Ryan Arcidiacono,FT,None,7:38,4,Bulls,76ers,79 - 106,0,N/A,1,N/A
+44,Ryan Arcidiacono,FT,None,7:38,4,Bulls,76ers,80 - 106,0,N/A,1,N/A
+45,Boban Marjanovic,FG_ASSISTED,Zhaire Smith,7:26,4,76ers,Bulls,80 - 108,1,3,2,Jumper
+46,Timothe Luwawu-Cabarrot,FG_ASSISTED,Ryan Arcidiacono,7:13,4,Bulls,76ers,82 - 108,0,1,2,Jumper
+47,Zhaire Smith,FG_MISS,None,6:50,4,76ers,Bulls,82 - 108,1,1,2,Jumper
+48,Zhaire Smith,OFFENSIVE_REBOUND,None,6:44,4,76ers,Bulls,82 - 108,1,N/A,N/A,N/A
+49,Zhaire Smith,FG_UNASSISTED,None,6:44,4,76ers,Bulls,82 - 110,1,1,2,Jumper
+50,Walt Lemon,FG_UNASSISTED,None,6:38,4,Bulls,76ers,84 - 110,0,0,2,Layup
+51,Zhaire Smith,FG_ASSISTED,Boban Marjanovic,6:26,4,76ers,Bulls,84 - 113,1,27,3,Jumper
+52,Team,Unknown,None,6:19,4,Bulls,76ers,84 - 113,0,N/A,N/A,N/A
+53,Antonio Blakeney,SUBSTITUTION,Lemon Walt,6:19,4,Bulls,76ers,84 - 113,0,N/A,N/A,N/A
+54,Greg Monroe,SUBSTITUTION,Marjanovic Boban,6:19,4,76ers,Bulls,84 - 113,1,N/A,N/A,N/A
+55,Amir Johnson,SUBSTITUTION,Highsmith Haywood,6:19,4,76ers,Bulls,84 - 113,1,N/A,N/A,N/A
+56,Antonio Blakeney,FG_ASSISTED,Brandon Sampson,6:06,4,Bulls,76ers,86 - 113,0,1,2,Jumper
+57,Amir Johnson,FG_ASSISTED,Zhaire Smith,5:49,4,76ers,Bulls,86 - 115,1,0,2,Layup
+58,Amir Johnson,FOUL_ON_FLOOR,None,5:39,4,76ers,Bulls,86 - 115,1,N/A,N/A,N/A
+59,Timothe Luwawu-Cabarrot,FT,None,5:39,4,Bulls,76ers,87 - 115,0,N/A,1,N/A
+60,Haywood Highsmith,SUBSTITUTION,Smith Zhaire,5:39,4,76ers,Bulls,87 - 115,1,N/A,N/A,N/A
+61,Timothe Luwawu-Cabarrot,FT,None,5:39,4,Bulls,76ers,88 - 115,0,N/A,1,N/A
+62,Shake Milton,FG_ASSISTED,Jonathon Simmons,5:26,4,76ers,Bulls,88 - 118,1,25,3,Jumper
+63,Ryan Arcidiacono,FG_ASSISTED,Cristiano Felicio,5:07,4,Bulls,76ers,90 - 118,0,18,2,Jumper
+64,Shake Milton,FOUL_ON_FLOOR,None,5:07,4,76ers,Bulls,90 - 118,1,N/A,N/A,N/A
+65,Ryan Arcidiacono,FT,None,5:07,4,Bulls,76ers,91 - 118,0,N/A,1,N/A
+66,Jonathon Simmons,FG_ASSISTED,Greg Monroe,4:52,4,76ers,Bulls,91 - 120,1,0,2,Layup
+67,Antonio Blakeney,FOUL_ON_FLOOR,None,4:52,4,Bulls,76ers,91 - 120,0,N/A,N/A,N/A
+68,Jonathon Simmons,FT_MISS,None,4:52,4,76ers,Bulls,91 - 120,1,N/A,1,N/A
+69,Team,DEFENSIVE_REBOUND,None,4:50,4,Bulls,76ers,91 - 120,0,N/A,N/A,N/A
+70,Team,Unknown,None,4:50,4,Bulls,76ers,91 - 120,0,N/A,N/A,N/A
+71,Timothe Luwawu-Cabarrot,FG_UNASSISTED,None,4:37,4,Bulls,76ers,93 - 120,0,0,2,Layup
+72,Amir Johnson,FG_MISS,None,4:21,4,76ers,Bulls,93 - 120,1,26,3,Jumper
+73,Ryan Arcidiacono,DEFENSIVE_REBOUND,None,4:17,4,Bulls,76ers,93 - 120,0,N/A,N/A,N/A
+74,Ryan Arcidiacono,FG_UNASSISTED,None,4:07,4,Bulls,76ers,95 - 120,0,9,2,Jumper
+75,Brandon Sampson,FOUL_ON_FLOOR,None,3:55,4,Bulls,76ers,95 - 120,0,N/A,N/A,N/A
+76,Amir Johnson,FT,None,3:55,4,76ers,Bulls,95 - 121,1,N/A,1,N/A
+77,Amir Johnson,FT,None,3:55,4,76ers,Bulls,95 - 122,1,N/A,1,N/A
+78,Timothe Luwawu-Cabarrot,FG_MISS,None,3:36,4,Bulls,76ers,95 - 122,0,21,2,Jumper
+79,Jonathon Simmons,DEFENSIVE_REBOUND,None,3:32,4,76ers,Bulls,95 - 122,1,N/A,N/A,N/A
+80,Jonathon Simmons,TURNOVER,Antonio Blakeney,3:19,4,76ers,Bulls,95 - 122,1,N/A,N/A,N/A
+81,Antonio Blakeney,FG_ASSISTED,Ryan Arcidiacono,3:14,4,Bulls,76ers,97 - 122,0,0,2,Dunk
+82,Brandon Sampson,FOUL_ON_FLOOR,None,3:01,4,Bulls,76ers,97 - 122,0,N/A,N/A,N/A
+83,Haywood Highsmith,FT_MISS,None,3:01,4,76ers,Bulls,97 - 122,1,N/A,1,N/A
+84,Team,OFFENSIVE_REBOUND,None,3:01,4,76ers,Bulls,97 - 122,1,N/A,N/A,N/A
+85,Rawle Alkins,SUBSTITUTION,Luwawu-Cabarrot Timothe,3:01,4,Bulls,76ers,97 - 122,0,N/A,N/A,N/A
+86,Haywood Highsmith,FT_MISS,None,3:01,4,76ers,Bulls,97 - 122,1,N/A,1,N/A
+87,Cristiano Felicio,DEFENSIVE_REBOUND,None,2:56,4,Bulls,76ers,97 - 122,0,N/A,N/A,N/A
+88,Ryan Arcidiacono,FG_UNASSISTED,None,2:45,4,Bulls,76ers,99 - 122,0,1,2,Jumper
+89,Amir Johnson,FG_MISS,None,2:31,4,76ers,Bulls,99 - 122,1,0,2,Layup
+90,Ryan Arcidiacono,DEFENSIVE_REBOUND,None,2:31,4,Bulls,76ers,99 - 122,0,N/A,N/A,N/A
+91,Brandon Sampson,FG_ASSISTED,Ryan Arcidiacono,2:22,4,Bulls,76ers,101 - 122,0,9,2,Jumper
+92,Greg Monroe,FG_MISS,None,2:09,4,76ers,Bulls,101 - 122,1,18,2,Jumper
+93,Cristiano Felicio,DEFENSIVE_REBOUND,None,2:06,4,Bulls,76ers,101 - 122,0,N/A,N/A,N/A
+94,Antonio Blakeney,FG_UNASSISTED,None,1:56,4,Bulls,76ers,103 - 122,0,8,2,Jumper
+95,Jonathon Simmons,FG_UNASSISTED,None,1:44,4,76ers,Bulls,103 - 125,1,26,3,Jumper
+96,Cristiano Felicio,FG_ASSISTED,Ryan Arcidiacono,1:33,4,Bulls,76ers,105 - 125,0,1,2,Jumper
+97,Amir Johnson,FOUL_ON_FLOOR,None,1:33,4,76ers,Bulls,105 - 125,1,N/A,N/A,N/A
+98,Cristiano Felicio,FT_MISS,None,1:33,4,Bulls,76ers,105 - 125,0,N/A,1,N/A
+99,Greg Monroe,DEFENSIVE_REBOUND,None,1:31,4,76ers,Bulls,105 - 125,1,N/A,N/A,N/A
+100,Haywood Highsmith,FG_MISS,None,1:18,4,76ers,Bulls,105 - 125,1,27,3,Jumper
+101,Cristiano Felicio,DEFENSIVE_REBOUND,None,1:15,4,Bulls,76ers,105 - 125,0,N/A,N/A,N/A
+102,Antonio Blakeney,FG_MISS,None,1:10,4,Bulls,76ers,105 - 125,0,23,2,Jumper
+103,Shake Milton,DEFENSIVE_REBOUND,None,1:07,4,76ers,Bulls,105 - 125,1,N/A,N/A,N/A
+104,Shake Milton,FG_MISS,None,52.7,4,76ers,Bulls,105 - 125,1,20,2,Jumper
+105,Ryan Arcidiacono,DEFENSIVE_REBOUND,None,50.1,4,Bulls,76ers,105 - 125,0,N/A,N/A,N/A
+106,Rawle Alkins,FG_ASSISTED,Ryan Arcidiacono,48.0,4,Bulls,76ers,107 - 125,0,0,2,Dunk
+107,Haywood Highsmith,TURNOVER,Brandon Sampson,34.5,4,76ers,Bulls,107 - 125,1,N/A,N/A,N/A
+108,Brandon Sampson,FG_ASSISTED,Antonio Blakeney,31.9,4,Bulls,76ers,109 - 125,0,0,2,Dunk
+109,shot clock,TURNOVER,None,8.1,4,76ers,Bulls,109 - 125,1,N/A,N/A,N/A
+110,End of,Unknown,None,0.0,4,76ers,Bulls,109 - 125,1,N/A,N/A,N/A
+111,End of,Unknown,None,0.0,4,76ers,Bulls,109 - 125,1,N/A,N/A,N/A

@@ -1,0 +1,536 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Jarrett Allen,JUMP_BALL,None,12:00,1,Nets,Clippers,0 - 0,0,N/A,N/A,N/A
+1,Jarrett Allen,FG_ASSISTED,Caris LeVert,11:43,1,Nets,Clippers,2 - 0,0,0,2,Layup
+2,Danilo Gallinari,FOUL_ON_FLOOR,None,11:43,1,Clippers,Nets,2 - 0,1,N/A,N/A,N/A
+3,Jarrett Allen,FT,None,11:43,1,Nets,Clippers,3 - 0,0,N/A,1,N/A
+4,Ivica Zubac,FOUL_ON_FLOOR,None,11:30,1,Clippers,Nets,3 - 0,1,N/A,N/A,N/A
+5,Ivica Zubac,TURNOVER,None,11:30,1,Clippers,Nets,3 - 0,1,N/A,N/A,N/A
+6,Caris LeVert,FG_MISS,None,11:15,1,Nets,Clippers,3 - 0,0,0,2,Layup
+7,Jarrett Allen,OFFENSIVE_REBOUND,None,11:13,1,Nets,Clippers,3 - 0,0,N/A,N/A,N/A
+8,D'Angelo Russell,TURNOVER,Patrick Beverley,11:10,1,Nets,Clippers,3 - 0,0,N/A,N/A,N/A
+9,Danilo Gallinari,FG_MISS,Rodions Kurucs,11:05,1,Nets,Clippers,3 - 0,1,5,3,Jumper
+10,Danilo Gallinari,OFFENSIVE_REBOUND,None,11:02,1,Clippers,Nets,3 - 0,1,N/A,N/A,N/A
+11,Danilo Gallinari,FG_UNASSISTED,None,11:00,1,Clippers,Nets,3 - 2,1,0,2,Layup
+12,D'Angelo Russell,FG_UNASSISTED,None,10:53,1,Nets,Clippers,5 - 2,0,16,3,Jumper
+13,Landry Shamet,FG_MISS,None,10:42,1,Clippers,Nets,5 - 2,1,26,3,Jumper
+14,Rodions Kurucs,DEFENSIVE_REBOUND,None,10:38,1,Nets,Clippers,5 - 2,0,N/A,N/A,N/A
+15,D'Angelo Russell,FG_MISS,None,10:31,1,Nets,Clippers,5 - 2,0,-,3,Jumper
+16,Team,DEFENSIVE_REBOUND,None,10:31,1,Clippers,Nets,5 - 2,1,N/A,N/A,N/A
+17,D'Angelo Russell,FOUL_ON_FLOOR,None,10:31,1,Nets,Clippers,5 - 2,0,N/A,N/A,N/A
+18,Shai Gilgeous-Alexander,FG_MISS,None,10:15,1,Clippers,Nets,5 - 2,1,24,3,Jumper
+19,Ivica Zubac,OFFENSIVE_REBOUND,None,10:13,1,Clippers,Nets,5 - 2,1,N/A,N/A,N/A
+20,Ivica Zubac's,FG_MISS,Rodions Kurucs,10:11,1,Nets,Clippers,5 - 2,1,-,3,Jumper
+21,Caris LeVert,DEFENSIVE_REBOUND,None,10:11,1,Nets,Clippers,5 - 2,0,N/A,N/A,N/A
+22,Caris LeVert,FG_ASSISTED,D'Angelo Russell,10:07,1,Nets,Clippers,7 - 2,0,-,3,Jumper
+23,Landry Shamet,FOUL_ON_FLOOR,None,10:07,1,Clippers,Nets,7 - 2,1,N/A,N/A,N/A
+24,Caris LeVert,FT_MISS,None,10:07,1,Nets,Clippers,7 - 2,0,N/A,1,N/A
+25,Team,DEFENSIVE_REBOUND,None,10:06,1,Clippers,Nets,7 - 2,1,N/A,N/A,N/A
+26,Rodions Kurucs,FOUL_ON_FLOOR,None,10:06,1,Nets,Clippers,7 - 2,0,N/A,N/A,N/A
+27,Shai Gilgeous-Alexander,FG_MISS,None,9:55,1,Clippers,Nets,7 - 2,1,0,2,Layup
+28,Joe Harris,DEFENSIVE_REBOUND,None,9:53,1,Nets,Clippers,7 - 2,0,N/A,N/A,N/A
+29,D'Angelo Russell,FG_MISS,None,9:48,1,Nets,Clippers,7 - 2,0,-,3,Jumper
+30,Danilo Gallinari,DEFENSIVE_REBOUND,None,9:45,1,Clippers,Nets,7 - 2,1,N/A,N/A,N/A
+31,Patrick Beverley,FG_ASSISTED,Ivica Zubac,9:36,1,Clippers,Nets,7 - 5,1,25,3,Jumper
+32,Rodions Kurucs,TURNOVER,None,9:15,1,Nets,Clippers,7 - 5,0,N/A,N/A,N/A
+33,Shai Gilgeous-Alexander,FG_MISS,None,9:03,1,Clippers,Nets,7 - 5,1,19,3,Jumper
+34,Caris LeVert,DEFENSIVE_REBOUND,None,8:59,1,Nets,Clippers,7 - 5,0,N/A,N/A,N/A
+35,D'Angelo Russell,FG_ASSISTED,Caris LeVert,8:58,1,Nets,Clippers,9 - 5,0,-,3,Jumper
+36,Joe Harris,FOUL_ON_FLOOR,None,8:46,1,Nets,Clippers,9 - 5,0,N/A,N/A,N/A
+37,Danilo Gallinari's,FG_MISS,Jarrett Allen,8:32,1,Nets,Clippers,9 - 5,1,0,2,Layup
+38,Ivica Zubac,OFFENSIVE_REBOUND,None,8:32,1,Clippers,Nets,9 - 5,1,N/A,N/A,N/A
+39,Ivica Zubac,FG_MISS,Rodions Kurucs,8:32,1,Nets,Clippers,9 - 5,1,0,2,Layup
+40,Team,OFFENSIVE_REBOUND,None,8:32,1,Clippers,Nets,9 - 5,1,N/A,N/A,N/A
+41,Rodions Kurucs,JUMP_BALL,None,8:27,1,Clippers,Nets,9 - 5,1,N/A,N/A,N/A
+42,Shai Gilgeous-Alexander,FG_MISS,None,8:25,1,Clippers,Nets,9 - 5,1,27,3,Jumper
+43,Jarrett Allen,DEFENSIVE_REBOUND,None,8:23,1,Nets,Clippers,9 - 5,0,N/A,N/A,N/A
+44,D'Angelo Russell,FG_ASSISTED,Caris LeVert,8:10,1,Nets,Clippers,12 - 5,0,26,3,Jumper
+45,Patrick Beverley,FG_ASSISTED,Ivica Zubac,7:57,1,Clippers,Nets,12 - 7,1,14,3,Jumper
+46,Rodions Kurucs's,FG_MISS,Ivica Zubac,7:50,1,Clippers,Nets,12 - 7,0,-,3,Jumper
+47,Jarrett Allen,OFFENSIVE_REBOUND,None,7:47,1,Nets,Clippers,12 - 7,0,N/A,N/A,N/A
+48,Jarrett Allen,FG_UNASSISTED,None,7:46,1,Nets,Clippers,14 - 7,0,0,2,Dunk
+49,Ivica Zubac,FG_MISS,None,7:37,1,Clippers,Nets,14 - 7,1,2,3,Jumper
+50,Team,OFFENSIVE_REBOUND,None,7:37,1,Clippers,Nets,14 - 7,1,N/A,N/A,N/A
+51,Landry Shamet,FG_ASSISTED,Patrick Beverley,7:25,1,Clippers,Nets,14 - 10,1,26,3,Jumper
+52,Joe Harris,FG_MISS,None,7:13,1,Nets,Clippers,14 - 10,0,26,3,Jumper
+53,Danilo Gallinari,DEFENSIVE_REBOUND,None,7:11,1,Clippers,Nets,14 - 10,1,N/A,N/A,N/A
+54,Rodions Kurucs,FOUL_ON_FLOOR,None,7:07,1,Nets,Clippers,14 - 10,0,N/A,N/A,N/A
+55,Ivica Zubac,TURNOVER,Rodions Kurucs,6:55,1,Clippers,Nets,14 - 10,1,N/A,N/A,N/A
+56,Rodions Kurucs,TURNOVER,Danilo Gallinari,6:51,1,Nets,Clippers,14 - 10,0,N/A,N/A,N/A
+57,Danilo Gallinari,FG_UNASSISTED,None,6:46,1,Clippers,Nets,14 - 12,1,21,3,Jumper
+58,Caris LeVert,FG_MISS,None,6:27,1,Nets,Clippers,14 - 12,0,0,2,Layup
+59,Danilo Gallinari,DEFENSIVE_REBOUND,None,6:25,1,Clippers,Nets,14 - 12,1,N/A,N/A,N/A
+60,Ivica Zubac,FG_ASSISTED,Patrick Beverley,6:22,1,Clippers,Nets,14 - 14,1,0,2,Dunk
+61,Team,Unknown,None,6:21,1,Nets,Clippers,14 - 14,0,N/A,N/A,N/A
+62,Spencer Dinwiddie,SUBSTITUTION,LeVert Caris,6:21,1,Nets,Clippers,14 - 14,0,N/A,N/A,N/A
+63,Joe Harris,FG_MISS,None,6:06,1,Nets,Clippers,14 - 14,0, ,3,Jumper
+64,Patrick Beverley,DEFENSIVE_REBOUND,None,6:03,1,Clippers,Nets,14 - 14,1,N/A,N/A,N/A
+65,Patrick Beverley,TURNOVER,Rodions Kurucs,5:55,1,Clippers,Nets,14 - 14,1,N/A,N/A,N/A
+66,Spencer Dinwiddie,FG_MISS,None,5:35,1,Nets,Clippers,14 - 14,0, ,3,Jumper
+67,Ivica Zubac,DEFENSIVE_REBOUND,None,5:33,1,Clippers,Nets,14 - 14,1,N/A,N/A,N/A
+68,Danilo Gallinari,FG_MISS,None,5:27,1,Clippers,Nets,14 - 14,1,15,3,Jumper
+69,Spencer Dinwiddie,DEFENSIVE_REBOUND,None,5:25,1,Nets,Clippers,14 - 14,0,N/A,N/A,N/A
+70,D'Angelo Russell,FOUL_ON_FLOOR,None,5:15,1,Nets,Clippers,14 - 14,0,N/A,N/A,N/A
+71,D'Angelo Russell,TURNOVER,None,5:15,1,Nets,Clippers,14 - 14,0,N/A,N/A,N/A
+72,Montrezl Harrell,SUBSTITUTION,Shamet Landry,5:15,1,Clippers,Nets,14 - 14,1,N/A,N/A,N/A
+73,Lou Williams,SUBSTITUTION,Zubac Ivica,5:15,1,Clippers,Nets,14 - 14,1,N/A,N/A,N/A
+74,Ed Davis,SUBSTITUTION,Allen Jarrett,5:15,1,Nets,Clippers,14 - 14,0,N/A,N/A,N/A
+75,Danilo Gallinari,FG_MISS,None,5:02,1,Clippers,Nets,14 - 14,1,26,3,Jumper
+76,Ed Davis,DEFENSIVE_REBOUND,None,4:59,1,Nets,Clippers,14 - 14,0,N/A,N/A,N/A
+77,Patrick Beverley,FOUL_ON_FLOOR,None,4:50,1,Clippers,Nets,14 - 14,1,N/A,N/A,N/A
+78,D'Angelo Russell,FG_MISS,None,4:37,1,Nets,Clippers,14 - 14,0,21,3,Jumper
+79,Danilo Gallinari,DEFENSIVE_REBOUND,None,4:36,1,Clippers,Nets,14 - 14,1,N/A,N/A,N/A
+80,Montrezl Harrell,FG_MISS,None,4:28,1,Clippers,Nets,14 - 14,1,5,3,Jumper
+81,Joe Harris,DEFENSIVE_REBOUND,None,4:26,1,Nets,Clippers,14 - 14,0,N/A,N/A,N/A
+82,Rodions Kurucs,FG_ASSISTED,D'Angelo Russell,4:19,1,Nets,Clippers,17 - 14,0,25,3,Jumper
+83,Danilo Gallinari,FG_MISS,None,4:06,1,Clippers,Nets,17 - 14,1,0,2,Layup
+84,Rodions Kurucs,DEFENSIVE_REBOUND,None,4:03,1,Nets,Clippers,17 - 14,0,N/A,N/A,N/A
+85,D'Angelo Russell,FG_ASSISTED,Joe Harris,3:59,1,Nets,Clippers,20 - 14,0,26,3,Jumper
+86,Team,Unknown,None,3:58,1,Clippers,Nets,20 - 14,1,N/A,N/A,N/A
+87,JaMychal Green,SUBSTITUTION,Gilgeous-Alexander Shai,3:58,1,Clippers,Nets,20 - 14,1,N/A,N/A,N/A
+88,Garrett Temple,SUBSTITUTION,Gallinari Danilo,3:58,1,Clippers,Nets,20 - 14,1,N/A,N/A,N/A
+89,Treveon Graham,SUBSTITUTION,Kurucs Rodions,3:58,1,Nets,Clippers,20 - 14,0,N/A,N/A,N/A
+90,DeMarre Carroll,SUBSTITUTION,Russell D'Angelo,3:58,1,Nets,Clippers,20 - 14,0,N/A,N/A,N/A
+91,JaMychal Green,FG_UNASSISTED,None,3:43,1,Clippers,Nets,20 - 16,1,9,3,Jumper
+92,Joe Harris,FG_ASSISTED,Spencer Dinwiddie,3:26,1,Nets,Clippers,23 - 16,0,22,3,Jumper
+93,Lou Williams,FG_UNASSISTED,None,3:14,1,Clippers,Nets,23 - 18,1,10,3,Jumper
+94,Spencer Dinwiddie,FG_MISS,None,2:59,1,Nets,Clippers,23 - 18,0,7,3,Jumper
+95,JaMychal Green,DEFENSIVE_REBOUND,None,2:57,1,Clippers,Nets,23 - 18,1,N/A,N/A,N/A
+96,Wilson Chandler,SUBSTITUTION,Beverley Patrick,2:50,1,Clippers,Nets,23 - 18,1,N/A,N/A,N/A
+97,Caris LeVert,SUBSTITUTION,Harris Joe,2:50,1,Nets,Clippers,23 - 18,0,N/A,N/A,N/A
+98,Lou Williams,FG_UNASSISTED,None,2:36,1,Clippers,Nets,23 - 20,1,18,3,Jumper
+99,Treveon Graham,FG_MISS,None,2:11,1,Nets,Clippers,23 - 20,0,24,3,Jumper
+100,JaMychal Green,DEFENSIVE_REBOUND,None,2:09,1,Clippers,Nets,23 - 20,1,N/A,N/A,N/A
+101,Garrett Temple,FG_MISS,None,2:04,1,Clippers,Nets,23 - 20,1, ,3,Jumper
+102,Ed Davis,DEFENSIVE_REBOUND,None,2:01,1,Nets,Clippers,23 - 20,0,N/A,N/A,N/A
+103,JaMychal Green,FOUL_ON_FLOOR,None,1:56,1,Clippers,Nets,23 - 20,1,N/A,N/A,N/A
+104,Caris LeVert,FG_MISS,None,1:47,1,Nets,Clippers,23 - 20,0,0,2,Layup
+105,Garrett Temple,DEFENSIVE_REBOUND,None,1:43,1,Clippers,Nets,23 - 20,1,N/A,N/A,N/A
+106,Wilson Chandler,FG_MISS,None,1:40,1,Clippers,Nets,23 - 20,1,26,3,Jumper
+107,Ed Davis,DEFENSIVE_REBOUND,None,1:38,1,Nets,Clippers,23 - 20,0,N/A,N/A,N/A
+108,Treveon Graham,FG_MISS,None,1:26,1,Nets,Clippers,23 - 20,0,28,3,Jumper
+109,Lou Williams,DEFENSIVE_REBOUND,None,1:23,1,Clippers,Nets,23 - 20,1,N/A,N/A,N/A
+110,Lou Williams,TURNOVER,Treveon Graham,1:16,1,Clippers,Nets,23 - 20,1,N/A,N/A,N/A
+111,DeMarre Carroll,FG_ASSISTED,Treveon Graham,1:11,1,Nets,Clippers,26 - 20,0,23,3,Jumper
+112,Lou Williams,FG_MISS,None,52.7,1,Clippers,Nets,26 - 20,1, ,3,Jumper
+113,Ed Davis,DEFENSIVE_REBOUND,None,47.6,1,Nets,Clippers,26 - 20,0,N/A,N/A,N/A
+114,Lou Williams,FOUL_ON_FLOOR,None,42.7,1,Clippers,Nets,26 - 20,1,N/A,N/A,N/A
+115,DeMarre Carroll,FT,None,42.7,1,Nets,Clippers,27 - 20,0,N/A,1,N/A
+116,DeMarre Carroll,FT,None,42.7,1,Nets,Clippers,28 - 20,0,N/A,1,N/A
+117,Lou Williams,TURNOVER,None,33.8,1,Clippers,Nets,28 - 20,1,N/A,N/A,N/A
+118,Garrett Temple,FOUL_ON_FLOOR,None,29.5,1,Clippers,Nets,28 - 20,1,N/A,N/A,N/A
+119,Spencer Dinwiddie,FT_MISS,None,29.5,1,Nets,Clippers,28 - 20,0,N/A,1,N/A
+120,Team,OFFENSIVE_REBOUND,None,29.5,1,Nets,Clippers,28 - 20,0,N/A,N/A,N/A
+121,Spencer Dinwiddie,FT,None,29.5,1,Nets,Clippers,29 - 20,0,N/A,1,N/A
+122,Spencer Dinwiddie,FT,None,29.5,1,Nets,Clippers,30 - 20,0,N/A,1,N/A
+123,Treveon Graham,FOUL_ON_FLOOR,None,9.2,1,Nets,Clippers,30 - 20,0,N/A,N/A,N/A
+124,Lou Williams,FT,None,9.2,1,Clippers,Nets,30 - 21,1,N/A,1,N/A
+125,Lou Williams,FT,None,9.2,1,Clippers,Nets,30 - 22,1,N/A,1,N/A
+126,Joe Harris,SUBSTITUTION,Graham Treveon,9.2,1,Nets,Clippers,30 - 22,0,N/A,N/A,N/A
+127,Lou Williams,FT,None,9.2,1,Clippers,Nets,30 - 23,1,N/A,1,N/A
+128,Spencer Dinwiddie,FG_MISS,None,0.1,1,Nets,Clippers,30 - 23,0, ,3,Jumper
+129,Team,OFFENSIVE_REBOUND,None,0.1,1,Nets,Clippers,30 - 23,0,N/A,N/A,N/A
+130,End of,Unknown,None,0.0,1,Clippers,Nets,30 - 23,1,N/A,N/A,N/A
+0,Treveon Graham,SUBSTITUTION,Harris Joe,12:00,2,Nets,Clippers,30 - 23,0,N/A,N/A,N/A
+1,Garrett Temple,FOUL_ON_FLOOR,None,11:50,2,Clippers,Nets,30 - 23,1,N/A,N/A,N/A
+2,Garrett Temple,TURNOVER,None,11:50,2,Clippers,Nets,30 - 23,1,N/A,N/A,N/A
+3,Caris LeVert,FG_UNASSISTED,None,11:27,2,Nets,Clippers,32 - 23,0, ,3,Jumper
+4,Montrezl Harrell,FG_MISS,None,11:17,2,Clippers,Nets,32 - 23,1,0,2,Layup
+5,Treveon Graham,DEFENSIVE_REBOUND,None,11:16,2,Nets,Clippers,32 - 23,0,N/A,N/A,N/A
+6,Caris LeVert,FG_ASSISTED,Spencer Dinwiddie,11:10,2,Nets,Clippers,34 - 23,0,11,3,Jumper
+7,Lou Williams,FG_MISS,None,10:55,2,Clippers,Nets,34 - 23,1,14,3,Jumper
+8,Caris LeVert,DEFENSIVE_REBOUND,None,10:52,2,Nets,Clippers,34 - 23,0,N/A,N/A,N/A
+9,DeMarre Carroll,FG_MISS,Wilson Chandler,10:42,2,Clippers,Nets,34 - 23,0,0,2,Layup
+10,Ed Davis,OFFENSIVE_REBOUND,None,10:38,2,Nets,Clippers,34 - 23,0,N/A,N/A,N/A
+11,Ed Davis,FG_UNASSISTED,None,10:37,2,Nets,Clippers,36 - 23,0, ,3,Jumper
+12,Caris LeVert,FOUL_ON_FLOOR,None,10:27,2,Nets,Clippers,36 - 23,0,N/A,N/A,N/A
+13,Lou Williams,FT,None,10:27,2,Clippers,Nets,36 - 24,1,N/A,1,N/A
+14,Lou Williams,FT,None,10:27,2,Clippers,Nets,36 - 25,1,N/A,1,N/A
+15,Caris LeVert,FG_MISS,None,10:08,2,Nets,Clippers,36 - 25,0,27,3,Jumper
+16,Team,DEFENSIVE_REBOUND,None,10:08,2,Clippers,Nets,36 - 25,1,N/A,N/A,N/A
+17,Treveon Graham,FOUL_ON_FLOOR,None,10:00,2,Nets,Clippers,36 - 25,0,N/A,N/A,N/A
+18,D'Angelo Russell,SUBSTITUTION,Dinwiddie Spencer,10:00,2,Nets,Clippers,36 - 25,0,N/A,N/A,N/A
+19,Garrett Temple,FG_MISS,None,9:51,2,Clippers,Nets,36 - 25,1, ,3,Jumper
+20,Garrett Temple,OFFENSIVE_REBOUND,None,9:49,2,Clippers,Nets,36 - 25,1,N/A,N/A,N/A
+21,Wilson Chandler,FG_MISS,None,9:39,2,Clippers,Nets,36 - 25,1,18,3,Jumper
+22,D'Angelo Russell,DEFENSIVE_REBOUND,None,9:37,2,Nets,Clippers,36 - 25,0,N/A,N/A,N/A
+23,Garrett Temple,FOUL_ON_FLOOR,None,9:32,2,Clippers,Nets,36 - 25,1,N/A,N/A,N/A
+24,Patrick Beverley,SUBSTITUTION,Temple Garrett,9:32,2,Clippers,Nets,36 - 25,1,N/A,N/A,N/A
+25,D'Angelo Russell,FG_ASSISTED,Caris LeVert,9:21,2,Nets,Clippers,39 - 25,0,28,3,Jumper
+26,JaMychal Green,FOUL_ON_FLOOR,None,9:16,2,Clippers,Nets,39 - 25,1,N/A,N/A,N/A
+27,JaMychal Green,TURNOVER,None,9:16,2,Clippers,Nets,39 - 25,1,N/A,N/A,N/A
+28,Landry Shamet,SUBSTITUTION,Chandler Wilson,9:16,2,Clippers,Nets,39 - 25,1,N/A,N/A,N/A
+29,DeMarre Carroll,FG_ASSISTED,Treveon Graham,9:04,2,Nets,Clippers,42 - 25,0,24,3,Jumper
+30,Lou Williams,FG_UNASSISTED,None,8:54,2,Clippers,Nets,42 - 27,1,2,3,Jumper
+31,D'Angelo Russell,FG_MISS,None,8:41,2,Nets,Clippers,42 - 27,0,15,3,Jumper
+32,Caris LeVert,OFFENSIVE_REBOUND,None,8:37,2,Nets,Clippers,42 - 27,0,N/A,N/A,N/A
+33,DeMarre Carroll,FG_MISS,None,8:31,2,Nets,Clippers,42 - 27,0, ,3,Jumper
+34,Ed Davis,OFFENSIVE_REBOUND,None,8:26,2,Nets,Clippers,42 - 27,0,N/A,N/A,N/A
+35,Ed Davis,FG_UNASSISTED,None,8:26,2,Nets,Clippers,44 - 27,0, ,3,Jumper
+36,JaMychal Green,FG_MISS,None,8:15,2,Clippers,Nets,44 - 27,1,21,3,Jumper
+37,Ed Davis,DEFENSIVE_REBOUND,None,8:13,2,Nets,Clippers,44 - 27,0,N/A,N/A,N/A
+38,DeMarre Carroll,FG_ASSISTED,D'Angelo Russell,8:07,2,Nets,Clippers,46 - 27,0, ,3,Jumper
+39,Team,Unknown,None,8:07,2,Clippers,Nets,46 - 27,1,N/A,N/A,N/A
+40,Danilo Gallinari,SUBSTITUTION,Green JaMychal,8:07,2,Clippers,Nets,46 - 27,1,N/A,N/A,N/A
+41,Spencer Dinwiddie,SUBSTITUTION,Russell D'Angelo,8:07,2,Nets,Clippers,46 - 27,0,N/A,N/A,N/A
+42,Joe Harris,SUBSTITUTION,LeVert Caris,8:07,2,Nets,Clippers,46 - 27,0,N/A,N/A,N/A
+43,Landry Shamet,FG_MISS,None,7:59,2,Clippers,Nets,46 - 27,1,29,3,Jumper
+44,Treveon Graham,DEFENSIVE_REBOUND,None,7:56,2,Nets,Clippers,46 - 27,0,N/A,N/A,N/A
+45,Joe Harris,FG_MISS,None,7:40,2,Nets,Clippers,46 - 27,0, ,3,Jumper
+46,Montrezl Harrell,DEFENSIVE_REBOUND,None,7:38,2,Clippers,Nets,46 - 27,1,N/A,N/A,N/A
+47,Ed Davis,FOUL_ON_FLOOR,None,7:31,2,Nets,Clippers,46 - 27,0,N/A,N/A,N/A
+48,Rodions Kurucs,SUBSTITUTION,Carroll DeMarre,7:31,2,Nets,Clippers,46 - 27,0,N/A,N/A,N/A
+49,D'Angelo Russell,SUBSTITUTION,Graham Treveon,7:31,2,Nets,Clippers,46 - 27,0,N/A,N/A,N/A
+50,Shai Gilgeous-Alexander,SUBSTITUTION,Williams Lou,7:25,2,Clippers,Nets,46 - 27,1,N/A,N/A,N/A
+51,Ed Davis,FOUL_ON_FLOOR,None,7:21,2,Nets,Clippers,46 - 27,0,N/A,N/A,N/A
+52,Montrezl Harrell,FT,None,7:21,2,Clippers,Nets,46 - 28,1,N/A,1,N/A
+53,Montrezl Harrell,FT,None,7:21,2,Clippers,Nets,46 - 29,1,N/A,1,N/A
+54,Spencer Dinwiddie,FG_MISS,Montrezl Harrell,7:11,2,Clippers,Nets,46 - 29,0,0,2,Layup
+55,Montrezl Harrell,DEFENSIVE_REBOUND,None,7:08,2,Clippers,Nets,46 - 29,1,N/A,N/A,N/A
+56,Joe Harris,FOUL_ON_FLOOR,None,7:05,2,Nets,Clippers,46 - 29,0,N/A,N/A,N/A
+57,Danilo Gallinari,FT,None,7:05,2,Clippers,Nets,46 - 30,1,N/A,1,N/A
+58,Jarrett Allen,SUBSTITUTION,Davis Ed,7:05,2,Nets,Clippers,46 - 30,0,N/A,N/A,N/A
+59,Danilo Gallinari,FT,None,7:05,2,Clippers,Nets,46 - 31,1,N/A,1,N/A
+60,Rodions Kurucs,FG_ASSISTED,D'Angelo Russell,6:56,2,Nets,Clippers,48 - 31,0,0,2,Layup
+61,Joe Harris,FOUL_ON_FLOOR,None,6:48,2,Nets,Clippers,48 - 31,0,N/A,N/A,N/A
+62,Landry Shamet,FT,None,6:48,2,Clippers,Nets,48 - 32,1,N/A,1,N/A
+63,DeMarre Carroll,SUBSTITUTION,Harris Joe,6:48,2,Nets,Clippers,48 - 32,0,N/A,N/A,N/A
+64,Landry Shamet,FT,None,6:48,2,Clippers,Nets,48 - 33,1,N/A,1,N/A
+65,Spencer Dinwiddie,FG_MISS,None,6:28,2,Nets,Clippers,48 - 33,0,26,3,Jumper
+66,Danilo Gallinari,DEFENSIVE_REBOUND,None,6:26,2,Clippers,Nets,48 - 33,1,N/A,N/A,N/A
+67,Montrezl Harrell,FG_ASSISTED,Danilo Gallinari,6:20,2,Clippers,Nets,48 - 35,1,0,2,Layup
+68,Rodions Kurucs,FOUL_ON_FLOOR,None,6:01,2,Nets,Clippers,48 - 35,0,N/A,N/A,N/A
+69,Rodions Kurucs,TURNOVER,None,6:01,2,Nets,Clippers,48 - 35,0,N/A,N/A,N/A
+70,Caris LeVert,SUBSTITUTION,Kurucs Rodions,6:01,2,Nets,Clippers,48 - 35,0,N/A,N/A,N/A
+71,Montrezl Harrell,FG_ASSISTED,Shai Gilgeous-Alexander,5:44,2,Clippers,Nets,48 - 37,1,12,3,Jumper
+72,Patrick Beverley,FOUL_ON_FLOOR,None,5:36,2,Clippers,Nets,48 - 37,1,N/A,N/A,N/A
+73,D'Angelo Russell,FG_ASSISTED,Caris LeVert,5:23,2,Nets,Clippers,51 - 37,0,27,3,Jumper
+74,Montrezl Harrell,FG_ASSISTED,Danilo Gallinari,5:05,2,Clippers,Nets,51 - 39,1,0,2,Dunk
+75,D'Angelo Russell,FG_MISS,None,4:57,2,Nets,Clippers,51 - 39,0, ,3,Jumper
+76,Danilo Gallinari,DEFENSIVE_REBOUND,None,4:54,2,Clippers,Nets,51 - 39,1,N/A,N/A,N/A
+77,Danilo Gallinari,FG_UNASSISTED,None,4:48,2,Clippers,Nets,51 - 41,1,0,2,Layup
+78,Team,Unknown,None,4:48,2,Nets,Clippers,51 - 39,0,N/A,N/A,N/A
+79,Treveon Graham,SUBSTITUTION,Russell D'Angelo,4:48,2,Nets,Clippers,51 - 41,0,N/A,N/A,N/A
+80,Patrick Beverley,FOUL_ON_FLOOR,None,4:36,2,Clippers,Nets,51 - 41,1,N/A,N/A,N/A
+81,Doc Rivers,FOUL_TECHNICAL,None,4:35,2,Clippers,Nets,51 - 41,1,N/A,N/A,N/A
+82,Spencer Dinwiddie,FT,None,4:35,2,Nets,Clippers,52 - 41,0,N/A,1,N/A
+83,Garrett Temple,SUBSTITUTION,Beverley Patrick,4:35,2,Clippers,Nets,52 - 41,1,N/A,N/A,N/A
+84,Spencer Dinwiddie,FG_MISS,None,4:17,2,Nets,Clippers,52 - 41,0,28,3,Jumper
+85,Montrezl Harrell,DEFENSIVE_REBOUND,None,4:15,2,Clippers,Nets,52 - 41,1,N/A,N/A,N/A
+86,Montrezl Harrell,FG_MISS,None,4:11,2,Clippers,Nets,52 - 41,1,0,2,Layup
+87,Treveon Graham,DEFENSIVE_REBOUND,None,4:08,2,Nets,Clippers,52 - 41,0,N/A,N/A,N/A
+88,DeMarre Carroll,FG_MISS,None,4:03,2,Nets,Clippers,52 - 41,0, ,3,Jumper
+89,Danilo Gallinari,DEFENSIVE_REBOUND,None,4:00,2,Clippers,Nets,52 - 41,1,N/A,N/A,N/A
+90,Danilo Gallinari,FG_UNASSISTED,None,3:54,2,Clippers,Nets,52 - 44,1,27,3,Jumper
+91,Caris LeVert,FG_MISS,None,3:38,2,Nets,Clippers,52 - 44,0,27,3,Jumper
+92,Montrezl Harrell,DEFENSIVE_REBOUND,None,3:35,2,Clippers,Nets,52 - 44,1,N/A,N/A,N/A
+93,Montrezl Harrell,FG_ASSISTED,Landry Shamet,3:28,2,Clippers,Nets,52 - 46,1,4,3,Jumper
+94,Team,Unknown,None,3:21,2,Nets,Clippers,52 - 46,0,N/A,N/A,N/A
+95,Jarrett Allen,FG_MISS,None,3:05,2,Nets,Clippers,52 - 46,0,5,3,Jumper
+96,Treveon Graham,OFFENSIVE_REBOUND,None,3:02,2,Nets,Clippers,52 - 46,0,N/A,N/A,N/A
+97,Treveon Graham,FG_MISS,None,3:02,2,Nets,Clippers,52 - 46,0, ,3,Jumper
+98,Danilo Gallinari,DEFENSIVE_REBOUND,None,3:01,2,Clippers,Nets,52 - 46,1,N/A,N/A,N/A
+99,Danilo Gallinari,FG_ASSISTED,Shai Gilgeous-Alexander,2:51,2,Clippers,Nets,52 - 48,1,0,2,Layup
+100,Spencer Dinwiddie,FG_MISS,None,2:30,2,Nets,Clippers,52 - 48,0,0,2,Layup
+101,Montrezl Harrell,DEFENSIVE_REBOUND,None,2:28,2,Clippers,Nets,52 - 48,1,N/A,N/A,N/A
+102,Montrezl Harrell,FG_ASSISTED,Landry Shamet,2:19,2,Clippers,Nets,52 - 50,1, ,3,Jumper
+103,DeMarre Carroll,TURNOVER,None,2:04,2,Nets,Clippers,52 - 50,0,N/A,N/A,N/A
+104,Danilo Gallinari,FG_ASSISTED,Shai Gilgeous-Alexander,1:47,2,Clippers,Nets,52 - 52,1,21,3,Jumper
+105,Spencer Dinwiddie,FG_MISS,None,1:23,2,Nets,Clippers,52 - 52,0, ,3,Jumper
+106,Montrezl Harrell,DEFENSIVE_REBOUND,None,1:21,2,Clippers,Nets,52 - 52,1,N/A,N/A,N/A
+107,Montrezl Harrell,FG_MISS,Spencer Dinwiddie,1:18,2,Nets,Clippers,52 - 52,1,0,2,Layup
+108,Spencer Dinwiddie,JUMP_BALL,None,1:13,2,Nets,Clippers,52 - 52,0,N/A,N/A,N/A
+109,Team,DEFENSIVE_REBOUND,None,1:13,2,Nets,Clippers,52 - 52,0,N/A,N/A,N/A
+110,DeMarre Carroll,FG_ASSISTED,Treveon Graham,1:10,2,Nets,Clippers,54 - 52,0, ,3,Jumper
+111,Landry Shamet,FG_ASSISTED,Shai Gilgeous-Alexander,1:02,2,Clippers,Nets,54 - 55,1,26,3,Jumper
+112,Garrett Temple,FOUL_ON_FLOOR,None,52.7,2,Clippers,Nets,54 - 55,1,N/A,N/A,N/A
+113,Spencer Dinwiddie,FT,None,52.7,2,Nets,Clippers,55 - 55,0,N/A,1,N/A
+114,Sindarius Thornwell,SUBSTITUTION,Temple Garrett,52.7,2,Clippers,Nets,55 - 55,1,N/A,N/A,N/A
+115,Spencer Dinwiddie,FT_MISS,None,52.7,2,Nets,Clippers,55 - 55,0,N/A,1,N/A
+116,Montrezl Harrell,DEFENSIVE_REBOUND,None,51.5,2,Clippers,Nets,55 - 55,1,N/A,N/A,N/A
+117,Landry Shamet,FG_ASSISTED,Shai Gilgeous-Alexander,39.0,2,Clippers,Nets,55 - 58,1,24,3,Jumper
+118,Caris LeVert,FG_MISS,Montrezl Harrell,31.9,2,Clippers,Nets,55 - 58,0,0,2,Layup
+119,Team,OFFENSIVE_REBOUND,None,31.0,2,Nets,Clippers,55 - 58,0,N/A,N/A,N/A
+120,Spencer Dinwiddie,FG_MISS,None,24.2,2,Nets,Clippers,55 - 58,0,26,3,Jumper
+121,Danilo Gallinari,DEFENSIVE_REBOUND,None,21.3,2,Clippers,Nets,55 - 58,1,N/A,N/A,N/A
+122,Treveon Graham,FOUL_ON_FLOOR,None,10.2,2,Nets,Clippers,55 - 58,0,N/A,N/A,N/A
+123,Danilo Gallinari,FT,None,10.2,2,Clippers,Nets,55 - 59,1,N/A,1,N/A
+124,Joe Harris,SUBSTITUTION,Graham Treveon,10.2,2,Nets,Clippers,55 - 59,0,N/A,N/A,N/A
+125,Danilo Gallinari,FT,None,10.2,2,Clippers,Nets,55 - 60,1,N/A,1,N/A
+126,Joe Harris,FG_MISS,None,1.5,2,Nets,Clippers,55 - 60,0,24,3,Jumper
+127,Team,OFFENSIVE_REBOUND,None,0.1,2,Nets,Clippers,55 - 60,0,N/A,N/A,N/A
+128,End of,Unknown,None,0.0,2,Clippers,Nets,55 - 60,1,N/A,N/A,N/A
+0,Ivica Zubac,SUBSTITUTION,Thornwell Sindarius,12:00,3,Clippers,Nets,55 - 60,1,N/A,N/A,N/A
+1,Patrick Beverley,SUBSTITUTION,Harrell Montrezl,12:00,3,Clippers,Nets,55 - 60,1,N/A,N/A,N/A
+2,D'Angelo Russell,SUBSTITUTION,Dinwiddie Spencer,12:00,3,Nets,Clippers,55 - 60,0,N/A,N/A,N/A
+3,Rodions Kurucs,SUBSTITUTION,Carroll DeMarre,12:00,3,Nets,Clippers,55 - 60,0,N/A,N/A,N/A
+4,Shai Gilgeous-Alexander,FG_UNASSISTED,None,11:43,3,Clippers,Nets,55 - 62,1,13,3,Jumper
+5,D'Angelo Russell,FG_ASSISTED,Joe Harris,11:32,3,Nets,Clippers,57 - 62,0, ,3,Jumper
+6,Ivica Zubac,FG_MISS,None,11:14,3,Clippers,Nets,57 - 62,1,0,2,Layup
+7,Patrick Beverley,OFFENSIVE_REBOUND,None,11:12,3,Clippers,Nets,57 - 62,1,N/A,N/A,N/A
+8,Patrick Beverley,FG_UNASSISTED,None,11:08,3,Clippers,Nets,57 - 65,1,23,3,Jumper
+9,Caris LeVert,FG_MISS,None,10:56,3,Nets,Clippers,57 - 65,0,25,3,Jumper
+10,Team,DEFENSIVE_REBOUND,None,10:56,3,Clippers,Nets,57 - 65,1,N/A,N/A,N/A
+11,Danilo Gallinari,FG_MISS,None,10:38,3,Clippers,Nets,57 - 65,1,25,3,Jumper
+12,Jarrett Allen,DEFENSIVE_REBOUND,None,10:34,3,Nets,Clippers,57 - 65,0,N/A,N/A,N/A
+13,D'Angelo Russell,FG_UNASSISTED,None,10:27,3,Nets,Clippers,59 - 65,0,9,3,Jumper
+14,D'Angelo Russell,FOUL_ON_FLOOR,None,10:17,3,Nets,Clippers,59 - 65,0,N/A,N/A,N/A
+15,Rodions Kurucs,FOUL_ON_FLOOR,None,10:12,3,Nets,Clippers,59 - 65,0,N/A,N/A,N/A
+16,Ivica Zubac,FG_MISS,None,9:59,3,Clippers,Nets,59 - 65,1,2,3,Jumper
+17,Ivica Zubac,OFFENSIVE_REBOUND,None,9:56,3,Clippers,Nets,59 - 65,1,N/A,N/A,N/A
+18,Ivica Zubac's,FG_MISS,Joe Harris,9:56,3,Nets,Clippers,59 - 65,1, ,3,Jumper
+19,Joe Harris,DEFENSIVE_REBOUND,None,9:53,3,Nets,Clippers,59 - 65,0,N/A,N/A,N/A
+20,Joe Harris,TURNOVER,Patrick Beverley,9:52,3,Nets,Clippers,59 - 65,0,N/A,N/A,N/A
+21,Danilo Gallinari,FG_MISS,None,9:50,3,Clippers,Nets,59 - 65,1,0,2,Layup
+22,Joe Harris,DEFENSIVE_REBOUND,None,9:47,3,Nets,Clippers,59 - 65,0,N/A,N/A,N/A
+23,D'Angelo Russell,FG_MISS,None,9:44,3,Nets,Clippers,59 - 65,0, ,3,Jumper
+24,Jarrett Allen,OFFENSIVE_REBOUND,None,9:41,3,Nets,Clippers,59 - 65,0,N/A,N/A,N/A
+25,Jarrett Allen,FG_MISS,Ivica Zubac,9:40,3,Clippers,Nets,59 - 65,0,2,3,Jumper
+26,Patrick Beverley,DEFENSIVE_REBOUND,None,9:38,3,Clippers,Nets,59 - 65,1,N/A,N/A,N/A
+27,Rodions Kurucs,FOUL_ON_FLOOR,None,9:38,3,Nets,Clippers,59 - 65,0,N/A,N/A,N/A
+28,Treveon Graham,SUBSTITUTION,Kurucs Rodions,9:38,3,Nets,Clippers,59 - 65,0,N/A,N/A,N/A
+29,Landry Shamet,FG_MISS,None,9:28,3,Clippers,Nets,59 - 65,1,24,3,Jumper
+30,Treveon Graham,DEFENSIVE_REBOUND,None,9:25,3,Nets,Clippers,59 - 65,0,N/A,N/A,N/A
+31,Caris LeVert,FG_UNASSISTED,None,9:17,3,Nets,Clippers,61 - 65,0,0,2,Layup
+32,Danilo Gallinari,FG_ASSISTED,Shai Gilgeous-Alexander,9:07,3,Clippers,Nets,61 - 67,1,0,2,Layup
+33,Jarrett Allen,FOUL_ON_FLOOR,None,9:07,3,Nets,Clippers,61 - 67,0,N/A,N/A,N/A
+34,DeMarre Carroll,SUBSTITUTION,Graham Treveon,9:07,3,Nets,Clippers,61 - 67,0,N/A,N/A,N/A
+35,Danilo Gallinari,FT,None,9:07,3,Clippers,Nets,61 - 68,1,N/A,1,N/A
+36,Jarrett Allen,FG_ASSISTED,D'Angelo Russell,8:53,3,Nets,Clippers,63 - 68,0,0,2,Dunk
+37,Danilo Gallinari,FG_MISS,None,8:44,3,Clippers,Nets,63 - 68,1,28,3,Jumper
+38,Ivica Zubac,OFFENSIVE_REBOUND,None,8:41,3,Clippers,Nets,63 - 68,1,N/A,N/A,N/A
+39,Shai Gilgeous-Alexander,FG_ASSISTED,Danilo Gallinari,8:30,3,Clippers,Nets,63 - 71,1, ,3,Jumper
+40,Joe Harris,FOUL_ON_FLOOR,None,8:15,3,Nets,Clippers,63 - 71,0,N/A,N/A,N/A
+41,Joe Harris,TURNOVER,None,8:15,3,Nets,Clippers,63 - 71,0,N/A,N/A,N/A
+42,Landry Shamet,FG_ASSISTED,Shai Gilgeous-Alexander,8:04,3,Clippers,Nets,63 - 74,1,26,3,Jumper
+43,Team,Unknown,None,8:03,3,Nets,Clippers,63 - 74,0,N/A,N/A,N/A
+44,Ivica Zubac,FOUL_ON_FLOOR,None,7:39,3,Clippers,Nets,63 - 74,1,N/A,N/A,N/A
+45,Joe Harris,FG_ASSISTED,D'Angelo Russell,7:34,3,Nets,Clippers,65 - 74,0,0,2,Layup
+46,Landry Shamet,FOUL_ON_FLOOR,None,7:34,3,Clippers,Nets,65 - 74,1,N/A,N/A,N/A
+47,Joe Harris,FT,None,7:34,3,Nets,Clippers,66 - 74,0,N/A,1,N/A
+48,Danilo Gallinari,TURNOVER,DeMarre Carroll,7:19,3,Clippers,Nets,66 - 74,1,N/A,N/A,N/A
+49,Caris LeVert,FG_ASSISTED,DeMarre Carroll,7:09,3,Nets,Clippers,68 - 74,0, ,3,Jumper
+50,Shai Gilgeous-Alexander,TURNOVER,None,6:58,3,Clippers,Nets,68 - 74,1,N/A,N/A,N/A
+51,Team,Unknown,None,6:58,3,Clippers,Nets,68 - 74,1,N/A,N/A,N/A
+52,Caris LeVert,FG_UNASSISTED,None,6:43,3,Nets,Clippers,70 - 74,0,0,2,Layup
+53,Patrick Beverley,FG_ASSISTED,Landry Shamet,6:22,3,Clippers,Nets,70 - 76,1,6,3,Jumper
+54,D'Angelo Russell,FG_MISS,None,6:05,3,Nets,Clippers,70 - 76,0,18,3,Jumper
+55,DeMarre Carroll,OFFENSIVE_REBOUND,None,6:02,3,Nets,Clippers,70 - 76,0,N/A,N/A,N/A
+56,DeMarre Carroll,FG_UNASSISTED,None,6:00,3,Nets,Clippers,72 - 76,0,0,2,Layup
+57,Shai Gilgeous-Alexander,FG_MISS,None,5:43,3,Clippers,Nets,72 - 76,1,10,3,Jumper
+58,Landry Shamet,OFFENSIVE_REBOUND,None,5:37,3,Clippers,Nets,72 - 76,1,N/A,N/A,N/A
+59,Danilo Gallinari,FG_MISS,None,5:34,3,Clippers,Nets,72 - 76,1,22,3,Jumper
+60,Ivica Zubac,OFFENSIVE_REBOUND,None,5:28,3,Clippers,Nets,72 - 76,1,N/A,N/A,N/A
+61,Ivica Zubac,FG_MISS,None,5:27,3,Clippers,Nets,72 - 76,1, ,3,Jumper
+62,Ivica Zubac,OFFENSIVE_REBOUND,None,5:26,3,Clippers,Nets,72 - 76,1,N/A,N/A,N/A
+63,Ivica Zubac,FG_MISS,None,5:26,3,Clippers,Nets,72 - 76,1,2,3,Jumper
+64,Jarrett Allen,DEFENSIVE_REBOUND,None,5:25,3,Nets,Clippers,72 - 76,0,N/A,N/A,N/A
+65,Joe Harris,FG_ASSISTED,D'Angelo Russell,5:18,3,Nets,Clippers,75 - 76,0,26,3,Jumper
+66,Landry Shamet,FG_MISS,None,4:59,3,Clippers,Nets,75 - 76,1,25,3,Jumper
+67,Ivica Zubac,OFFENSIVE_REBOUND,None,4:58,3,Clippers,Nets,75 - 76,1,N/A,N/A,N/A
+68,DeMarre Carroll,FOUL_ON_FLOOR,None,4:58,3,Nets,Clippers,75 - 76,0,N/A,N/A,N/A
+69,Ivica Zubac,FT_MISS,None,4:58,3,Clippers,Nets,75 - 76,1,N/A,1,N/A
+70,Team,OFFENSIVE_REBOUND,None,4:58,3,Clippers,Nets,75 - 76,1,N/A,N/A,N/A
+71,Lou Williams,SUBSTITUTION,Gilgeous-Alexander Shai,4:58,3,Clippers,Nets,75 - 76,1,N/A,N/A,N/A
+72,Ivica Zubac,FT,None,4:58,3,Clippers,Nets,75 - 77,1,N/A,1,N/A
+73,D'Angelo Russell,FG_MISS,None,4:46,3,Nets,Clippers,75 - 77,0,18,3,Jumper
+74,Team,OFFENSIVE_REBOUND,None,4:46,3,Nets,Clippers,75 - 77,0,N/A,N/A,N/A
+75,Montrezl Harrell,SUBSTITUTION,Zubac Ivica,4:46,3,Clippers,Nets,75 - 77,1,N/A,N/A,N/A
+76,Spencer Dinwiddie,SUBSTITUTION,LeVert Caris,4:46,3,Nets,Clippers,75 - 77,0,N/A,N/A,N/A
+77,Ed Davis,SUBSTITUTION,Allen Jarrett,4:46,3,Nets,Clippers,75 - 77,0,N/A,N/A,N/A
+78,D'Angelo Russell,FG_UNASSISTED,None,4:38,3,Nets,Clippers,77 - 77,0,11,3,Jumper
+79,Lou Williams,FG_MISS,None,4:26,3,Clippers,Nets,77 - 77,1,0,2,Layup
+80,Lou Williams,OFFENSIVE_REBOUND,None,4:26,3,Clippers,Nets,77 - 77,1,N/A,N/A,N/A
+81,Montrezl Harrell,FG_MISS,None,4:21,3,Clippers,Nets,77 - 77,1,0,2,Layup
+82,DeMarre Carroll,DEFENSIVE_REBOUND,None,4:21,3,Nets,Clippers,77 - 77,0,N/A,N/A,N/A
+83,D'Angelo Russell,FG_MISS,None,4:15,3,Nets,Clippers,77 - 77,0, ,3,Jumper
+84,Ed Davis,OFFENSIVE_REBOUND,None,4:12,3,Nets,Clippers,77 - 77,0,N/A,N/A,N/A
+85,Patrick Beverley,FOUL_ON_FLOOR,None,4:12,3,Clippers,Nets,77 - 77,1,N/A,N/A,N/A
+86,Ed Davis,FT,None,4:12,3,Nets,Clippers,78 - 77,0,N/A,1,N/A
+87,Garrett Temple,SUBSTITUTION,Beverley Patrick,4:12,3,Clippers,Nets,78 - 77,1,N/A,N/A,N/A
+88,Ed Davis,FT_MISS,None,4:12,3,Nets,Clippers,78 - 77,0,N/A,1,N/A
+89,Garrett Temple,DEFENSIVE_REBOUND,None,4:10,3,Clippers,Nets,78 - 77,1,N/A,N/A,N/A
+90,Garrett Temple,TURNOVER,D'Angelo Russell,4:00,3,Clippers,Nets,78 - 77,1,N/A,N/A,N/A
+91,D'Angelo Russell,FG_UNASSISTED,None,3:58,3,Nets,Clippers,80 - 77,0, ,3,Jumper
+92,Landry Shamet,FOUL_ON_FLOOR,None,3:58,3,Clippers,Nets,80 - 77,1,N/A,N/A,N/A
+93,D'Angelo Russell,FT_MISS,None,3:58,3,Nets,Clippers,80 - 77,0,N/A,1,N/A
+94,Garrett Temple,DEFENSIVE_REBOUND,None,3:56,3,Clippers,Nets,80 - 77,1,N/A,N/A,N/A
+95,Landry Shamet,FG_MISS,None,3:44,3,Clippers,Nets,80 - 77,1,24,3,Jumper
+96,Spencer Dinwiddie,DEFENSIVE_REBOUND,None,3:41,3,Nets,Clippers,80 - 77,0,N/A,N/A,N/A
+97,D'Angelo Russell,FG_UNASSISTED,None,3:23,3,Nets,Clippers,82 - 77,0,11,3,Jumper
+98,Montrezl Harrell's,FG_MISS,Ed Davis,3:07,3,Nets,Clippers,82 - 77,1,0,2,Layup
+99,Spencer Dinwiddie,DEFENSIVE_REBOUND,None,3:04,3,Nets,Clippers,82 - 77,0,N/A,N/A,N/A
+100,D'Angelo Russell,FG_MISS,None,2:59,3,Nets,Clippers,82 - 77,0,27,3,Jumper
+101,DeMarre Carroll,OFFENSIVE_REBOUND,None,2:58,3,Nets,Clippers,82 - 77,0,N/A,N/A,N/A
+102,JaMychal Green,SUBSTITUTION,Gallinari Danilo,2:58,3,Clippers,Nets,82 - 77,1,N/A,N/A,N/A
+103,D'Angelo Russell,TURNOVER,Landry Shamet,2:50,3,Nets,Clippers,82 - 77,0,N/A,N/A,N/A
+104,Lou Williams,FG_MISS,None,2:47,3,Clippers,Nets,82 - 77,1, ,3,Jumper
+105,Team,DEFENSIVE_REBOUND,None,2:46,3,Nets,Clippers,82 - 77,0,N/A,N/A,N/A
+106,JaMychal Green,FOUL_ON_FLOOR,None,2:46,3,Clippers,Nets,82 - 77,1,N/A,N/A,N/A
+107,Spencer Dinwiddie,FT_MISS,None,2:46,3,Nets,Clippers,82 - 77,0,N/A,1,N/A
+108,Team,OFFENSIVE_REBOUND,None,2:46,3,Nets,Clippers,82 - 77,0,N/A,N/A,N/A
+109,Caris LeVert,SUBSTITUTION,Russell D'Angelo,2:46,3,Nets,Clippers,82 - 77,0,N/A,N/A,N/A
+110,Treveon Graham,SUBSTITUTION,Harris Joe,2:46,3,Nets,Clippers,82 - 77,0,N/A,N/A,N/A
+111,Spencer Dinwiddie,FT_MISS,None,2:46,3,Nets,Clippers,82 - 77,0,N/A,1,N/A
+112,Garrett Temple,DEFENSIVE_REBOUND,None,2:44,3,Clippers,Nets,82 - 77,1,N/A,N/A,N/A
+113,Caris LeVert,FOUL_ON_FLOOR,None,2:29,3,Nets,Clippers,82 - 77,0,N/A,N/A,N/A
+114,Garrett Temple,FT,None,2:29,3,Clippers,Nets,82 - 78,1,N/A,1,N/A
+115,Garrett Temple,FT,None,2:29,3,Clippers,Nets,82 - 79,1,N/A,1,N/A
+116,Caris LeVert,FG_MISS,None,2:17,3,Nets,Clippers,82 - 79,0,27,3,Jumper
+117,JaMychal Green,DEFENSIVE_REBOUND,None,2:12,3,Clippers,Nets,82 - 79,1,N/A,N/A,N/A
+118,Montrezl Harrell,FG_MISS,None,2:03,3,Clippers,Nets,82 - 79,1,0,2,Layup
+119,JaMychal Green,OFFENSIVE_REBOUND,None,2:02,3,Clippers,Nets,82 - 79,1,N/A,N/A,N/A
+120,JaMychal Green,FG_UNASSISTED,None,2:02,3,Clippers,Nets,82 - 81,1, ,3,Jumper
+121,Ed Davis,FOUL_ON_FLOOR,None,2:02,3,Nets,Clippers,82 - 81,0,N/A,N/A,N/A
+122,JaMychal Green,FT,None,2:02,3,Clippers,Nets,82 - 82,1,N/A,1,N/A
+123,DeMarre Carroll,FG_ASSISTED,Caris LeVert,1:42,3,Nets,Clippers,85 - 82,0,27,3,Jumper
+124,Ed Davis,FOUL_ON_FLOOR,None,1:25,3,Nets,Clippers,85 - 82,0,N/A,N/A,N/A
+125,Montrezl Harrell,FT,None,1:25,3,Clippers,Nets,85 - 83,1,N/A,1,N/A
+126,Montrezl Harrell,FT,None,1:25,3,Clippers,Nets,85 - 84,1,N/A,1,N/A
+127,JaMychal Green,FOUL_ON_FLOOR,None,1:10,3,Clippers,Nets,85 - 84,1,N/A,N/A,N/A
+128,DeMarre Carroll,FT,None,1:10,3,Nets,Clippers,86 - 84,0,N/A,1,N/A
+129,Shai Gilgeous-Alexander,SUBSTITUTION,Shamet Landry,1:10,3,Clippers,Nets,86 - 84,1,N/A,N/A,N/A
+130,DeMarre Carroll,FT,None,1:10,3,Nets,Clippers,87 - 84,0,N/A,1,N/A
+131,JaMychal Green,TURNOVER,None,1:02,3,Clippers,Nets,87 - 84,1,N/A,N/A,N/A
+132,Caris LeVert,FG_MISS,None,45.1,3,Nets,Clippers,87 - 84,0, ,3,Jumper
+133,Garrett Temple,DEFENSIVE_REBOUND,None,42.0,3,Clippers,Nets,87 - 84,1,N/A,N/A,N/A
+134,Garrett Temple,FG_MISS,None,36.9,3,Clippers,Nets,87 - 84,1,26,3,Jumper
+135,JaMychal Green,OFFENSIVE_REBOUND,None,33.4,3,Clippers,Nets,87 - 84,1,N/A,N/A,N/A
+136,Lou Williams,FG_ASSISTED,Shai Gilgeous-Alexander,31.9,3,Clippers,Nets,87 - 87,1,26,3,Jumper
+137,DeMarre Carroll,FG_MISS,None,26.5,3,Nets,Clippers,87 - 87,0, ,3,Jumper
+138,Lou Williams,DEFENSIVE_REBOUND,None,24.4,3,Clippers,Nets,87 - 87,1,N/A,N/A,N/A
+139,Lou Williams,FG_MISS,None,4.1,3,Clippers,Nets,87 - 87,1,27,3,Jumper
+140,DeMarre Carroll,DEFENSIVE_REBOUND,None,1.2,3,Nets,Clippers,87 - 87,0,N/A,N/A,N/A
+141,End of,Unknown,None,0.0,3,Clippers,Nets,87 - 87,1,N/A,N/A,N/A
+0,Rodions Kurucs,SUBSTITUTION,Carroll DeMarre,12:00,4,Nets,Clippers,87 - 87,0,N/A,N/A,N/A
+1,Caris LeVert,TURNOVER,Garrett Temple,11:43,4,Nets,Clippers,87 - 87,0,N/A,N/A,N/A
+2,Garrett Temple,FG_ASSISTED,Lou Williams,11:38,4,Clippers,Nets,87 - 89,1, ,3,Jumper
+3,Ed Davis,FG_MISS,None,11:21,4,Nets,Clippers,87 - 89,0, ,3,Jumper
+4,Spencer Dinwiddie,OFFENSIVE_REBOUND,None,11:16,4,Nets,Clippers,87 - 89,0,N/A,N/A,N/A
+5,Spencer Dinwiddie,FG_MISS,None,11:07,4,Nets,Clippers,87 - 89,0, ,3,Jumper
+6,Ed Davis,OFFENSIVE_REBOUND,None,11:05,4,Nets,Clippers,87 - 89,0,N/A,N/A,N/A
+7,Ed Davis,FG_MISS,None,11:03,4,Nets,Clippers,87 - 89,0, ,3,Jumper
+8,Shai Gilgeous-Alexander,DEFENSIVE_REBOUND,None,11:03,4,Clippers,Nets,87 - 89,1,N/A,N/A,N/A
+9,Rodions Kurucs,FOUL_ON_FLOOR,None,10:58,4,Nets,Clippers,87 - 89,0,N/A,N/A,N/A
+10,D'Angelo Russell,SUBSTITUTION,Kurucs Rodions,10:58,4,Nets,Clippers,87 - 89,0,N/A,N/A,N/A
+11,Lou Williams,FT,None,10:58,4,Clippers,Nets,87 - 90,1,N/A,1,N/A
+12,Lou Williams,FT,None,10:58,4,Clippers,Nets,87 - 91,1,N/A,1,N/A
+13,Treveon Graham,FG_ASSISTED,Caris LeVert,10:42,4,Nets,Clippers,89 - 91,0,11,3,Jumper
+14,Lou Williams,FG_UNASSISTED,None,10:34,4,Clippers,Nets,89 - 93,1,13,3,Jumper
+15,Spencer Dinwiddie,FG_UNASSISTED,None,10:25,4,Nets,Clippers,91 - 93,0, ,3,Jumper
+16,JaMychal Green,FG_ASSISTED,Montrezl Harrell,10:01,4,Clippers,Nets,91 - 95,1,0,2,Layup
+17,Caris LeVert,TURNOVER,Garrett Temple,9:43,4,Nets,Clippers,91 - 95,0,N/A,N/A,N/A
+18,Spencer Dinwiddie,FOUL_ON_FLOOR,None,9:40,4,Nets,Clippers,91 - 95,0,N/A,N/A,N/A
+19,Shai Gilgeous-Alexander,FT_MISS,None,9:40,4,Clippers,Nets,91 - 95,1,N/A,1,N/A
+20,Team,OFFENSIVE_REBOUND,None,9:40,4,Clippers,Nets,91 - 95,1,N/A,N/A,N/A
+21,Joe Harris,SUBSTITUTION,Graham Treveon,9:40,4,Nets,Clippers,91 - 95,0,N/A,N/A,N/A
+22,Shai Gilgeous-Alexander,FT,None,9:40,4,Clippers,Nets,91 - 96,1,N/A,1,N/A
+23,Spencer Dinwiddie,TURNOVER,Garrett Temple,9:25,4,Nets,Clippers,91 - 96,0,N/A,N/A,N/A
+24,Shai Gilgeous-Alexander,FG_MISS,None,9:15,4,Clippers,Nets,91 - 96,1,12,3,Jumper
+25,D'Angelo Russell,DEFENSIVE_REBOUND,None,9:13,4,Nets,Clippers,91 - 96,0,N/A,N/A,N/A
+26,Spencer Dinwiddie,FG_MISS,Montrezl Harrell,9:06,4,Clippers,Nets,91 - 96,0,0,2,Layup
+27,Montrezl Harrell,DEFENSIVE_REBOUND,None,9:06,4,Clippers,Nets,91 - 96,1,N/A,N/A,N/A
+28,Ed Davis,FOUL_ON_FLOOR,None,9:06,4,Nets,Clippers,91 - 96,0,N/A,N/A,N/A
+29,JaMychal Green,FG_MISS,None,8:57,4,Clippers,Nets,91 - 96,1,26,3,Jumper
+30,Lou Williams,OFFENSIVE_REBOUND,None,8:53,4,Clippers,Nets,91 - 96,1,N/A,N/A,N/A
+31,Shai Gilgeous-Alexander,FG_ASSISTED,JaMychal Green,8:45,4,Clippers,Nets,91 - 99,1,27,3,Jumper
+32,Team,Unknown,None,8:44,4,Nets,Clippers,91 - 99,0,N/A,N/A,N/A
+33,DeMarre Carroll,SUBSTITUTION,Davis Ed,8:44,4,Nets,Clippers,91 - 99,0,N/A,N/A,N/A
+34,Jarrett Allen,SUBSTITUTION,LeVert Caris,8:44,4,Nets,Clippers,91 - 99,0,N/A,N/A,N/A
+35,Spencer Dinwiddie,FG_MISS,None,8:28,4,Nets,Clippers,91 - 99,0,25,3,Jumper
+36,DeMarre Carroll,OFFENSIVE_REBOUND,None,8:24,4,Nets,Clippers,91 - 99,0,N/A,N/A,N/A
+37,Joe Harris,TURNOVER,Montrezl Harrell,8:20,4,Nets,Clippers,91 - 99,0,N/A,N/A,N/A
+38,Garrett Temple,FG_ASSISTED,Shai Gilgeous-Alexander,8:16,4,Clippers,Nets,91 - 101,1,1,3,Jumper
+39,D'Angelo Russell,FOUL_ON_FLOOR,None,8:16,4,Nets,Clippers,91 - 101,0,N/A,N/A,N/A
+40,Garrett Temple,FT_MISS,None,8:16,4,Clippers,Nets,91 - 101,1,N/A,1,N/A
+41,DeMarre Carroll,DEFENSIVE_REBOUND,None,8:13,4,Nets,Clippers,91 - 101,0,N/A,N/A,N/A
+42,Joe Harris,FG_MISS,None,8:03,4,Nets,Clippers,91 - 101,0,26,3,Jumper
+43,Shai Gilgeous-Alexander,DEFENSIVE_REBOUND,None,7:59,4,Clippers,Nets,91 - 101,1,N/A,N/A,N/A
+44,Montrezl Harrell,FG_UNASSISTED,None,7:44,4,Clippers,Nets,91 - 103,1,5,3,Jumper
+45,Shai Gilgeous-Alexander,FOUL_ON_FLOOR,None,7:33,4,Clippers,Nets,91 - 103,1,N/A,N/A,N/A
+46,Jarrett Allen,FG_MISS,None,7:20,4,Nets,Clippers,91 - 103,0,0,2,Dunk
+47,JaMychal Green,DEFENSIVE_REBOUND,None,7:16,4,Clippers,Nets,91 - 103,1,N/A,N/A,N/A
+48,Montrezl Harrell,FG_UNASSISTED,None,7:07,4,Clippers,Nets,91 - 105,1,0,2,Layup
+49,Montrezl Harrell,FOUL_ON_FLOOR,None,6:57,4,Clippers,Nets,91 - 105,1,N/A,N/A,N/A
+50,Spencer Dinwiddie,FT,None,6:57,4,Nets,Clippers,92 - 105,0,N/A,1,N/A
+51,Spencer Dinwiddie,FT,None,6:57,4,Nets,Clippers,93 - 105,0,N/A,1,N/A
+52,Lou Williams,FG_MISS,None,6:42,4,Clippers,Nets,93 - 105,1,27,3,Jumper
+53,D'Angelo Russell,DEFENSIVE_REBOUND,None,6:40,4,Nets,Clippers,93 - 105,0,N/A,N/A,N/A
+54,D'Angelo Russell,FG_UNASSISTED,None,6:37,4,Nets,Clippers,96 - 105,0,25,3,Jumper
+55,Montrezl Harrell,FG_MISS,None,6:15,4,Clippers,Nets,96 - 105,1,7,3,Jumper
+56,Jarrett Allen,DEFENSIVE_REBOUND,None,6:14,4,Nets,Clippers,96 - 105,0,N/A,N/A,N/A
+57,Spencer Dinwiddie,FG_MISS,None,6:03,4,Nets,Clippers,96 - 105,0,25,3,Jumper
+58,Lou Williams,DEFENSIVE_REBOUND,None,6:00,4,Clippers,Nets,96 - 105,1,N/A,N/A,N/A
+59,Shai Gilgeous-Alexander,FG_MISS,None,5:52,4,Clippers,Nets,96 - 105,1,1,3,Jumper
+60,Jarrett Allen,DEFENSIVE_REBOUND,None,5:48,4,Nets,Clippers,96 - 105,0,N/A,N/A,N/A
+61,Spencer Dinwiddie,FG_ASSISTED,D'Angelo Russell,5:44,4,Nets,Clippers,99 - 105,0,26,3,Jumper
+62,Team,Unknown,None,5:42,4,Clippers,Nets,99 - 105,1,N/A,N/A,N/A
+63,Danilo Gallinari,SUBSTITUTION,Green JaMychal,5:42,4,Clippers,Nets,99 - 105,1,N/A,N/A,N/A
+64,Patrick Beverley,SUBSTITUTION,Temple Garrett,5:42,4,Clippers,Nets,99 - 105,1,N/A,N/A,N/A
+65,Shai Gilgeous-Alexander,TURNOVER,None,5:30,4,Clippers,Nets,99 - 105,1,N/A,N/A,N/A
+66,Jarrett Allen,FG_ASSISTED,D'Angelo Russell,5:23,4,Nets,Clippers,101 - 105,0,0,2,Dunk
+67,Danilo Gallinari,FG_MISS,None,5:01,4,Clippers,Nets,101 - 105,1,20,3,Jumper
+68,D'Angelo Russell,DEFENSIVE_REBOUND,None,4:58,4,Nets,Clippers,101 - 105,0,N/A,N/A,N/A
+69,Spencer Dinwiddie,FG_MISS,None,4:54,4,Nets,Clippers,101 - 105,0,1,3,Jumper
+70,Team,DEFENSIVE_REBOUND,None,4:52,4,Clippers,Nets,101 - 105,1,N/A,N/A,N/A
+71,Montrezl Harrell,TURNOVER,Joe Harris,4:34,4,Clippers,Nets,101 - 105,1,N/A,N/A,N/A
+72,D'Angelo Russell,FG_MISS,None,4:28,4,Nets,Clippers,101 - 105,0,27,3,Jumper
+73,Montrezl Harrell,DEFENSIVE_REBOUND,None,4:24,4,Clippers,Nets,101 - 105,1,N/A,N/A,N/A
+74,Lou Williams,FG_UNASSISTED,None,4:07,4,Clippers,Nets,101 - 107,1,11,3,Jumper
+75,Jarrett Allen,FG_MISS,None,3:55,4,Nets,Clippers,101 - 107,0,1,3,Jumper
+76,Jarrett Allen,TURNOVER,None,3:53,4,Nets,Clippers,101 - 107,0,N/A,N/A,N/A
+77,Team,OFFENSIVE_REBOUND,None,3:53,4,Nets,Clippers,101 - 107,0,N/A,N/A,N/A
+78,Shai Gilgeous-Alexander,FG_ASSISTED,Danilo Gallinari,3:43,4,Clippers,Nets,101 - 109,1,14,3,Jumper
+79,D'Angelo Russell,FG_MISS,None,3:28,4,Nets,Clippers,101 - 109,0,27,3,Jumper
+80,Montrezl Harrell,DEFENSIVE_REBOUND,None,3:26,4,Clippers,Nets,101 - 109,1,N/A,N/A,N/A
+81,Montrezl Harrell,FG_ASSISTED,Shai Gilgeous-Alexander,3:11,4,Clippers,Nets,101 - 111,1,0,2,Dunk
+82,Shai Gilgeous-Alexander,FOUL_ON_FLOOR,None,3:03,4,Clippers,Nets,101 - 111,1,N/A,N/A,N/A
+83,Team,Unknown,None,3:03,4,Clippers,Nets,101 - 111,1,N/A,N/A,N/A
+84,Joe Harris,FG_MISS,None,2:54,4,Nets,Clippers,101 - 111,0,1,3,Jumper
+85,Danilo Gallinari,DEFENSIVE_REBOUND,None,2:51,4,Clippers,Nets,101 - 111,1,N/A,N/A,N/A
+86,Lou Williams,FG_MISS,None,2:44,4,Clippers,Nets,101 - 111,1,1,3,Jumper
+87,Jarrett Allen,DEFENSIVE_REBOUND,None,2:40,4,Nets,Clippers,101 - 111,0,N/A,N/A,N/A
+88,Joe Harris,FG_ASSISTED,Spencer Dinwiddie,2:35,4,Nets,Clippers,104 - 111,0,27,3,Jumper
+89,Montrezl Harrell,FG_MISS,None,2:08,4,Clippers,Nets,104 - 111,1,8,3,Jumper
+90,D'Angelo Russell,DEFENSIVE_REBOUND,None,2:06,4,Nets,Clippers,104 - 111,0,N/A,N/A,N/A
+91,DeMarre Carroll,FG_MISS,None,2:02,4,Nets,Clippers,104 - 111,0,26,3,Jumper
+92,DeMarre Carroll,OFFENSIVE_REBOUND,None,1:57,4,Nets,Clippers,104 - 111,0,N/A,N/A,N/A
+93,Team,Unknown,None,1:57,4,Nets,Clippers,104 - 111,0,N/A,N/A,N/A
+94,Jarrett Allen,FG_MISS,None,1:54,4,Nets,Clippers,104 - 111,0,0,2,Layup
+95,Patrick Beverley,DEFENSIVE_REBOUND,None,1:52,4,Clippers,Nets,104 - 111,1,N/A,N/A,N/A
+96,Lou Williams,FG_UNASSISTED,None,1:39,4,Clippers,Nets,104 - 113,1,9,3,Jumper
+97,DeMarre Carroll,FG_MISS,None,1:31,4,Nets,Clippers,104 - 113,0,27,3,Jumper
+98,Jarrett Allen,OFFENSIVE_REBOUND,None,1:28,4,Nets,Clippers,104 - 113,0,N/A,N/A,N/A
+99,Montrezl Harrell,FOUL_ON_FLOOR,None,1:26,4,Clippers,Nets,104 - 113,1,N/A,N/A,N/A
+100,Jarrett Allen,FT,None,1:26,4,Nets,Clippers,105 - 113,0,N/A,1,N/A
+101,Jarrett Allen,FT,None,1:26,4,Nets,Clippers,106 - 113,0,N/A,1,N/A
+102,Lou Williams,FG_MISS,Jarrett Allen,1:07,4,Nets,Clippers,106 - 113,1,27,3,Jumper
+103,Lou Williams,OFFENSIVE_REBOUND,None,1:03,4,Clippers,Nets,106 - 113,1,N/A,N/A,N/A
+104,Shai Gilgeous-Alexander,FG_ASSISTED,Lou Williams,1:02,4,Clippers,Nets,106 - 116,1,25,3,Jumper
+105,Shai Gilgeous-Alexander,FOUL_ON_FLOOR,None,58.2,4,Clippers,Nets,106 - 116,1,N/A,N/A,N/A
+106,Spencer Dinwiddie,FT,None,58.2,4,Nets,Clippers,107 - 116,0,N/A,1,N/A
+107,Spencer Dinwiddie,FT,None,58.2,4,Nets,Clippers,108 - 116,0,N/A,1,N/A
+108,DeMarre Carroll,FOUL_ON_FLOOR,None,52.9,4,Nets,Clippers,108 - 116,0,N/A,N/A,N/A
+109,Montrezl Harrell,FT_MISS,None,52.9,4,Clippers,Nets,108 - 116,1,N/A,1,N/A
+110,Team,OFFENSIVE_REBOUND,None,52.9,4,Clippers,Nets,108 - 116,1,N/A,N/A,N/A
+111,Montrezl Harrell,FT_MISS,None,52.9,4,Clippers,Nets,108 - 116,1,N/A,1,N/A
+112,Team,DEFENSIVE_REBOUND,None,50.6,4,Nets,Clippers,108 - 116,0,N/A,N/A,N/A
+113,Sindarius Thornwell,SUBSTITUTION,Williams Lou,50.6,4,Clippers,Nets,108 - 116,1,N/A,N/A,N/A
+114,D'Angelo Russell,FG_UNASSISTED,None,44.9,4,Nets,Clippers,111 - 116,0,29,3,Jumper
+115,Team,Unknown,None,44.1,4,Clippers,Nets,111 - 116,1,N/A,N/A,N/A
+116,Lou Williams,SUBSTITUTION,Thornwell Sindarius,44.1,4,Clippers,Nets,111 - 116,1,N/A,N/A,N/A
+117,Caris LeVert,SUBSTITUTION,Allen Jarrett,44.1,4,Nets,Clippers,111 - 116,0,N/A,N/A,N/A
+118,5 second,Unknown,None,44.1,4,Clippers,Nets,111 - 116,1,N/A,N/A,N/A
+119,Sindarius Thornwell,SUBSTITUTION,Williams Lou,44.1,4,Clippers,Nets,111 - 116,1,N/A,N/A,N/A
+120,DeMarre Carroll,FG_UNASSISTED,None,34.5,4,Nets,Clippers,113 - 116,0,0,2,Layup
+121,Montrezl Harrell,FOUL_ON_FLOOR,None,34.5,4,Clippers,Nets,113 - 116,1,N/A,N/A,N/A
+122,Lou Williams,SUBSTITUTION,Thornwell Sindarius,34.5,4,Clippers,Nets,113 - 116,1,N/A,N/A,N/A
+123,Jarrett Allen,SUBSTITUTION,LeVert Caris,34.5,4,Nets,Clippers,113 - 116,0,N/A,N/A,N/A
+124,DeMarre Carroll,FT,None,34.5,4,Nets,Clippers,114 - 116,0,N/A,1,N/A
+125,Patrick Beverley,FG_MISS,None,12.9,4,Clippers,Nets,114 - 116,1,24,3,Jumper
+126,Jarrett Allen,DEFENSIVE_REBOUND,None,10.7,4,Nets,Clippers,114 - 116,0,N/A,N/A,N/A
+127,Jarrett Allen,FG_ASSISTED,D'Angelo Russell,5.3,4,Nets,Clippers,116 - 116,0,0,2,Dunk
+128,Team,Unknown,None,5.3,4,Clippers,Nets,116 - 116,1,N/A,N/A,N/A
+129,Landry Shamet,SUBSTITUTION,Gilgeous-Alexander Shai,5.3,4,Clippers,Nets,116 - 116,1,N/A,N/A,N/A
+130,Lou Williams,FG_ASSISTED,Danilo Gallinari,1.8,4,Clippers,Nets,116 - 119,1,28,3,Jumper
+131,End of,Unknown,None,0.0,4,Clippers,Nets,116 - 119,1,N/A,N/A,N/A
+132,End of,Unknown,None,0.0,4,Clippers,Nets,116 - 119,1,N/A,N/A,N/A

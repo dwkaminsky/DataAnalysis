@@ -1,0 +1,531 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Brook Lopez,JUMP_BALL,None,12:00,1,Bucks,76ers,0 - 0,0,N/A,N/A,N/A
+1,Brook Lopez,FG_MISS,None,11:47,1,Bucks,76ers,0 - 0,0,25,3,Jumper
+2,Tobias Harris,DEFENSIVE_REBOUND,None,11:43,1,76ers,Bucks,0 - 0,1,N/A,N/A,N/A
+3,JJ Redick,FG_ASSISTED,Ben Simmons,11:37,1,76ers,Bucks,0 - 3,1,24,3,Jumper
+4,Ben Simmons,FOUL_ON_FLOOR,None,11:29,1,76ers,Bucks,0 - 3,1,N/A,N/A,N/A
+5,Giannis Antetokounmpo,FT,None,11:29,1,Bucks,76ers,1 - 3,0,N/A,1,N/A
+6,Giannis Antetokounmpo,FT,None,11:29,1,Bucks,76ers,2 - 3,0,N/A,1,N/A
+7,Tobias Harris,FG_ASSISTED,Joel Embiid,11:07,1,76ers,Bucks,2 - 5,1,5,2,Jumper
+8,Khris Middleton,FG_ASSISTED,Sterling Brown,10:53,1,Bucks,76ers,5 - 5,0,27,3,Jumper
+9,JJ Redick,FG_MISS,None,10:40,1,76ers,Bucks,5 - 5,1,20,2,Jumper
+10,Brook Lopez,DEFENSIVE_REBOUND,None,10:38,1,Bucks,76ers,5 - 5,0,N/A,N/A,N/A
+11,Giannis Antetokounmpo,FG_MISS,None,10:27,1,Bucks,76ers,5 - 5,0,26,3,Jumper
+12,Tobias Harris,DEFENSIVE_REBOUND,None,10:23,1,76ers,Bucks,5 - 5,1,N/A,N/A,N/A
+13,Joel Embiid's,FG_MISS,Giannis Antetokounmpo,10:16,1,Bucks,76ers,5 - 5,1,0,2,Layup
+14,Giannis Antetokounmpo,DEFENSIVE_REBOUND,None,10:14,1,Bucks,76ers,5 - 5,0,N/A,N/A,N/A
+15,Tobias Harris,FOUL_ON_FLOOR,None,10:11,1,76ers,Bucks,5 - 5,1,N/A,N/A,N/A
+16,Giannis Antetokounmpo,FT,None,10:11,1,Bucks,76ers,6 - 5,0,N/A,1,N/A
+17,Giannis Antetokounmpo,FT,None,10:11,1,Bucks,76ers,7 - 5,0,N/A,1,N/A
+18,Joel Embiid,FG_MISS,None,9:52,1,76ers,Bucks,7 - 5,1,3,2,Jumper
+19,Giannis Antetokounmpo,DEFENSIVE_REBOUND,None,9:50,1,Bucks,76ers,7 - 5,0,N/A,N/A,N/A
+20,Khris Middleton,FG_ASSISTED,Giannis Antetokounmpo,9:47,1,Bucks,76ers,10 - 5,0,26,2,Jumper
+21,Joel Embiid,FG_MISS,None,9:36,1,76ers,Bucks,10 - 5,1,26,3,Jumper
+22,Team,DEFENSIVE_REBOUND,None,9:33,1,Bucks,76ers,10 - 5,0,N/A,N/A,N/A
+23,Giannis Antetokounmpo,FG_UNASSISTED,None,9:25,1,Bucks,76ers,13 - 5,0,25,3,Jumper
+24,Eric Bledsoe,FOUL_TECHNICAL,None,9:24,1,Bucks,76ers,13 - 5,0,N/A,N/A,N/A
+25,Eric Bledsoe,FOUL_TECHNICAL,None,9:24,1,Bucks,76ers,13 - 5,0,N/A,N/A,N/A
+26,Eric Bledsoe,Unknown,None,9:24,1,Bucks,76ers,13 - 5,0,N/A,N/A,N/A
+27,George Hill,SUBSTITUTION,Bledsoe Eric,9:24,1,Bucks,76ers,13 - 5,0,N/A,N/A,N/A
+28,Mike Scott,FOUL_TECHNICAL,None,9:24,1,76ers,Bucks,13 - 5,1,N/A,N/A,N/A
+29,Joel Embiid,FOUL_TECHNICAL,None,9:24,1,76ers,Bucks,13 - 5,1,N/A,N/A,N/A
+30,Joel Embiid,TURNOVER,Khris Middleton,9:11,1,76ers,Bucks,13 - 5,1,N/A,N/A,N/A
+31,Tobias Harris,FOUL_ON_FLOOR,None,9:09,1,76ers,Bucks,13 - 5,1,N/A,N/A,N/A
+32,Giannis Antetokounmpo,FT,None,9:09,1,Bucks,76ers,14 - 5,0,N/A,1,N/A
+33,Giannis Antetokounmpo,FT_MISS,None,9:09,1,Bucks,76ers,14 - 5,0,N/A,1,N/A
+34,Tobias Harris,DEFENSIVE_REBOUND,None,9:07,1,76ers,Bucks,14 - 5,1,N/A,N/A,N/A
+35,Tobias Harris,FG_MISS,Brook Lopez,8:59,1,Bucks,76ers,14 - 5,1,0,2,Layup
+36,Brook Lopez,DEFENSIVE_REBOUND,None,8:55,1,Bucks,76ers,14 - 5,0,N/A,N/A,N/A
+37,Khris Middleton,FG_MISS,None,8:51,1,Bucks,76ers,14 - 5,0,-,2,Jumper
+38,Ben Simmons,DEFENSIVE_REBOUND,None,8:48,1,76ers,Bucks,14 - 5,1,N/A,N/A,N/A
+39,Khris Middleton,FOUL_ON_FLOOR,None,8:41,1,Bucks,76ers,14 - 5,0,N/A,N/A,N/A
+40,Tobias Harris,FG_ASSISTED,Joel Embiid,8:37,1,76ers,Bucks,14 - 7,1,15,2,Jumper
+41,Sterling Brown,FG_MISS,None,8:09,1,Bucks,76ers,14 - 7,0,0,2,Layup
+42,Joel Embiid,DEFENSIVE_REBOUND,None,8:09,1,76ers,Bucks,14 - 7,1,N/A,N/A,N/A
+43,Giannis Antetokounmpo,FOUL_ON_FLOOR,None,8:09,1,Bucks,76ers,14 - 7,0,N/A,N/A,N/A
+44,Pat Connaughton,SUBSTITUTION,Antetokounmpo Giannis,8:09,1,Bucks,76ers,14 - 7,0,N/A,N/A,N/A
+45,JJ Redick,FG_ASSISTED,Ben Simmons,8:02,1,76ers,Bucks,14 - 10,1,25,3,Jumper
+46,Team,Unknown,None,8:01,1,Bucks,76ers,14 - 10,0,N/A,N/A,N/A
+47,Sterling Brown,TURNOVER,JJ Redick,7:46,1,Bucks,76ers,14 - 10,0,N/A,N/A,N/A
+48,George Hill,FOUL_ON_FLOOR,None,7:43,1,Bucks,76ers,14 - 10,0,N/A,N/A,N/A
+49,Tobias Harris,FG_MISS,None,7:37,1,76ers,Bucks,14 - 10,1,7,2,Jumper
+50,George Hill,DEFENSIVE_REBOUND,None,7:34,1,Bucks,76ers,14 - 10,0,N/A,N/A,N/A
+51,Khris Middleton,FG_ASSISTED,George Hill,7:32,1,Bucks,76ers,16 - 10,0,17,2,Jumper
+52,Joel Embiid,FG_MISS,None,7:22,1,76ers,Bucks,16 - 10,1,26,3,Jumper
+53,Pat Connaughton,DEFENSIVE_REBOUND,None,7:19,1,Bucks,76ers,16 - 10,0,N/A,N/A,N/A
+54,Khris Middleton,FG_MISS,None,7:06,1,Bucks,76ers,16 - 10,0,26,3,Jumper
+55,Tobias Harris,DEFENSIVE_REBOUND,None,7:02,1,76ers,Bucks,16 - 10,1,N/A,N/A,N/A
+56,Joel Embiid,FG_MISS,None,6:54,1,76ers,Bucks,16 - 10,1,11,2,Jumper
+57,George Hill,DEFENSIVE_REBOUND,None,6:50,1,Bucks,76ers,16 - 10,0,N/A,N/A,N/A
+58,Khris Middleton,FG_MISS,None,6:36,1,Bucks,76ers,16 - 10,0, ,2,Jumper
+59,JJ Redick,DEFENSIVE_REBOUND,None,6:33,1,76ers,Bucks,16 - 10,1,N/A,N/A,N/A
+60,Joel Embiid,FG_MISS,None,6:28,1,76ers,Bucks,16 - 10,1, ,3,Jumper
+61,Brook Lopez,DEFENSIVE_REBOUND,None,6:25,1,Bucks,76ers,16 - 10,0,N/A,N/A,N/A
+62,Sterling Brown,FG_MISS,None,6:20,1,Bucks,76ers,16 - 10,0,27,3,Jumper
+63,Joel Embiid,DEFENSIVE_REBOUND,None,6:17,1,76ers,Bucks,16 - 10,1,N/A,N/A,N/A
+64,Brook Lopez,FOUL_ON_FLOOR,None,6:11,1,Bucks,76ers,16 - 10,0,N/A,N/A,N/A
+65,Joel Embiid,FT,None,6:11,1,76ers,Bucks,16 - 11,1,N/A,1,N/A
+66,Jonah Bolden,SUBSTITUTION,Scott Mike,6:11,1,76ers,Bucks,16 - 11,1,N/A,N/A,N/A
+67,Shake Milton,SUBSTITUTION,Redick JJ,6:11,1,76ers,Bucks,16 - 11,1,N/A,N/A,N/A
+68,T.J. McConnell,SUBSTITUTION,Simmons Ben,6:11,1,76ers,Bucks,16 - 11,1,N/A,N/A,N/A
+69,Giannis Antetokounmpo,SUBSTITUTION,Middleton Khris,6:11,1,Bucks,76ers,16 - 11,0,N/A,N/A,N/A
+70,Joel Embiid,FT,None,6:11,1,76ers,Bucks,16 - 12,1,N/A,1,N/A
+71,George Hill,FG_UNASSISTED,None,5:56,1,Bucks,76ers,18 - 12,0,18,2,Jumper
+72,Joel Embiid,FG_UNASSISTED,None,5:38,1,76ers,Bucks,18 - 14,1,4,2,Jumper
+73,Giannis Antetokounmpo,FG_UNASSISTED,None,5:21,1,Bucks,76ers,20 - 14,0,6,2,Jumper
+74,T.J. McConnell,FG_MISS,None,5:10,1,76ers,Bucks,20 - 14,1,11,2,Jumper
+75,Pat Connaughton,DEFENSIVE_REBOUND,None,5:06,1,Bucks,76ers,20 - 14,0,N/A,N/A,N/A
+76,Joel Embiid,FOUL_ON_FLOOR,None,5:02,1,76ers,Bucks,20 - 14,1,N/A,N/A,N/A
+77,Giannis Antetokounmpo,FT,None,5:02,1,Bucks,76ers,21 - 14,0,N/A,1,N/A
+78,Giannis Antetokounmpo,FT,None,5:02,1,Bucks,76ers,22 - 14,0,N/A,1,N/A
+79,Tobias Harris,FG_MISS,None,4:39,1,76ers,Bucks,22 - 14,1,43,3,Jumper
+80,Team,DEFENSIVE_REBOUND,None,4:39,1,Bucks,76ers,22 - 14,0,N/A,N/A,N/A
+81,Sterling Brown,FG_MISS,Joel Embiid,4:25,1,76ers,Bucks,22 - 14,0,0,2,Layup
+82,Tobias Harris,DEFENSIVE_REBOUND,None,4:22,1,76ers,Bucks,22 - 14,1,N/A,N/A,N/A
+83,T.J. McConnell,FG_ASSISTED,Tobias Harris,4:19,1,76ers,Bucks,22 - 16,1,9,2,Jumper
+84,Brook Lopez,FG_MISS,None,4:06,1,Bucks,76ers,22 - 16,0,26,3,Jumper
+85,T.J. McConnell,DEFENSIVE_REBOUND,None,4:04,1,76ers,Bucks,22 - 16,1,N/A,N/A,N/A
+86,Team,Unknown,None,4:02,1,76ers,Bucks,22 - 16,1,N/A,N/A,N/A
+87,Ersan Ilyasova,SUBSTITUTION,Lopez Brook,4:02,1,Bucks,76ers,22 - 16,0,N/A,N/A,N/A
+88,D.J. Wilson,SUBSTITUTION,Brown Sterling,4:02,1,Bucks,76ers,22 - 16,0,N/A,N/A,N/A
+89,Tobias Harris,FG_MISS,None,3:49,1,76ers,Bucks,22 - 16,1,11,2,Jumper
+90,Joel Embiid,OFFENSIVE_REBOUND,None,3:45,1,76ers,Bucks,22 - 16,1,N/A,N/A,N/A
+91,T.J. McConnell,FG_MISS,None,3:38,1,76ers,Bucks,22 - 16,1,12,2,Jumper
+92,George Hill,DEFENSIVE_REBOUND,None,3:35,1,Bucks,76ers,22 - 16,0,N/A,N/A,N/A
+93,George Hill,FG_MISS,None,3:29,1,Bucks,76ers,22 - 16,0,26,3,Jumper
+94,Joel Embiid,DEFENSIVE_REBOUND,None,3:26,1,76ers,Bucks,22 - 16,1,N/A,N/A,N/A
+95,Joel Embiid,FG_ASSISTED,T.J. McConnell,3:19,1,76ers,Bucks,22 - 18,1,16,2,Jumper
+96,Giannis Antetokounmpo,FG_MISS,None,3:04,1,Bucks,76ers,22 - 18,0,0,2,Dunk
+97,Tobias Harris,DEFENSIVE_REBOUND,None,3:01,1,76ers,Bucks,22 - 18,1,N/A,N/A,N/A
+98,Tobias Harris,TURNOVER,None,2:57,1,76ers,Bucks,22 - 18,1,N/A,N/A,N/A
+99,Tobias Harris,TURNOVER,None,2:57,1,76ers,Bucks,22 - 18,1,N/A,N/A,N/A
+100,Ben Simmons,SUBSTITUTION,McConnell T.J.,2:57,1,76ers,Bucks,22 - 18,1,N/A,N/A,N/A
+101,JJ Redick,SUBSTITUTION,Milton Shake,2:57,1,76ers,Bucks,22 - 18,1,N/A,N/A,N/A
+102,Boban Marjanovic,SUBSTITUTION,Embiid Joel,2:57,1,76ers,Bucks,22 - 18,1,N/A,N/A,N/A
+103,Zhaire Smith,SUBSTITUTION,Harris Tobias,2:57,1,76ers,Bucks,22 - 18,1,N/A,N/A,N/A
+104,Ersan Ilyasova,FG_ASSISTED,D.J. Wilson,2:38,1,Bucks,76ers,25 - 18,0,27,3,Jumper
+105,Zhaire Smith,FG_ASSISTED,Ben Simmons,2:24,1,76ers,Bucks,25 - 21,1,25,3,Jumper
+106,Khris Middleton,SUBSTITUTION,Hill George,2:06,1,Bucks,76ers,25 - 21,0,N/A,N/A,N/A
+107,Tim Frazier,SUBSTITUTION,Antetokounmpo Giannis,2:06,1,Bucks,76ers,25 - 21,0,N/A,N/A,N/A
+108,Boban Marjanovic,FOUL_ON_FLOOR,None,2:00,1,76ers,Bucks,25 - 21,1,N/A,N/A,N/A
+109,Khris Middleton,FT_MISS,None,2:00,1,Bucks,76ers,25 - 21,0,N/A,1,N/A
+110,Team,OFFENSIVE_REBOUND,None,2:00,1,Bucks,76ers,25 - 21,0,N/A,N/A,N/A
+111,Khris Middleton,FT,None,2:00,1,Bucks,76ers,26 - 21,0,N/A,1,N/A
+112,Ben Simmons,FG_MISS,None,1:38,1,76ers,Bucks,26 - 21,1,9,2,Jumper
+113,Khris Middleton,DEFENSIVE_REBOUND,None,1:36,1,Bucks,76ers,26 - 21,0,N/A,N/A,N/A
+114,Pat Connaughton,FG_ASSISTED,Tim Frazier,1:32,1,Bucks,76ers,28 - 21,0,0,2,Dunk
+115,Tim Frazier,FOUL_ON_FLOOR,None,1:26,1,Bucks,76ers,28 - 21,0,N/A,N/A,N/A
+116,Zhaire Smith,FT_MISS,None,1:26,1,76ers,Bucks,28 - 21,1,N/A,1,N/A
+117,Team,OFFENSIVE_REBOUND,None,1:26,1,76ers,Bucks,28 - 21,1,N/A,N/A,N/A
+118,Zhaire Smith,FT,None,1:26,1,76ers,Bucks,28 - 22,1,N/A,1,N/A
+119,D.J. Wilson,FG_MISS,None,1:13,1,Bucks,76ers,28 - 22,0,26,3,Jumper
+120,Jonah Bolden,DEFENSIVE_REBOUND,None,1:12,1,76ers,Bucks,28 - 22,1,N/A,N/A,N/A
+121,Boban Marjanovic,FG_ASSISTED,Ben Simmons,1:05,1,76ers,Bucks,28 - 24,1,0,2,Layup
+122,Khris Middleton,TURNOVER,None,52.4,1,Bucks,76ers,28 - 24,0,N/A,N/A,N/A
+123,JJ Redick,FG_MISS,None,39.7,1,76ers,Bucks,28 - 24,1,26,3,Jumper
+124,D.J. Wilson,DEFENSIVE_REBOUND,None,36.9,1,Bucks,76ers,28 - 24,0,N/A,N/A,N/A
+125,Ersan Ilyasova,FOUL_ON_FLOOR,None,32.3,1,Bucks,76ers,28 - 24,0,N/A,N/A,N/A
+126,Zhaire Smith,FT,None,32.3,1,76ers,Bucks,28 - 25,1,N/A,1,N/A
+127,Zhaire Smith,FT,None,32.3,1,76ers,Bucks,28 - 26,1,N/A,1,N/A
+128,Khris Middleton,TURNOVER,None,32.3,1,Bucks,76ers,28 - 26,0,N/A,N/A,N/A
+129,Khris Middleton,FG_MISS,None,10.4,1,Bucks,76ers,28 - 26,0,23,2,Jumper
+130,Jonah Bolden,DEFENSIVE_REBOUND,None,8.1,1,76ers,Bucks,28 - 26,1,N/A,N/A,N/A
+131,Jonah Bolden,TURNOVER,None,8.1,1,76ers,Bucks,28 - 26,1,N/A,N/A,N/A
+132,Khris Middleton,FG_UNASSISTED,None,1.2,1,Bucks,76ers,30 - 26,0,9,2,Jumper
+133,End of,Unknown,None,0.0,1,76ers,Bucks,30 - 26,1,N/A,N/A,N/A
+0,Shake Milton,SUBSTITUTION,Redick JJ,12:00,2,76ers,Bucks,30 - 26,1,N/A,N/A,N/A
+1,Mike Scott,SUBSTITUTION,Bolden Jonah,12:00,2,76ers,Bucks,30 - 26,1,N/A,N/A,N/A
+2,Giannis Antetokounmpo,SUBSTITUTION,Wilson D.J.,12:00,2,Bucks,76ers,30 - 26,0,N/A,N/A,N/A
+3,Zhaire Smith,TURNOVER,None,11:55,2,76ers,Bucks,30 - 26,1,N/A,N/A,N/A
+4,Joel Embiid,SUBSTITUTION,Marjanovic Boban,11:55,2,76ers,Bucks,30 - 26,1,N/A,N/A,N/A
+5,Shake Milton,FOUL_ON_FLOOR,None,11:46,2,76ers,Bucks,30 - 26,1,N/A,N/A,N/A
+6,Pat Connaughton,FT,None,11:46,2,Bucks,76ers,31 - 26,0,N/A,1,N/A
+7,Pat Connaughton,FT,None,11:46,2,Bucks,76ers,32 - 26,0,N/A,1,N/A
+8,Joel Embiid's,FG_MISS,Giannis Antetokounmpo,11:27,2,Bucks,76ers,32 - 26,1, ,2,Jumper
+9,Joel Embiid,OFFENSIVE_REBOUND,None,11:26,2,76ers,Bucks,32 - 26,1,N/A,N/A,N/A
+10,Mike Scott,FG_ASSISTED,Joel Embiid,11:23,2,76ers,Bucks,32 - 29,1,26,2,Jumper
+11,Ersan Ilyasova,FG_MISS,None,11:12,2,Bucks,76ers,32 - 29,0,26,3,Jumper
+12,Zhaire Smith,DEFENSIVE_REBOUND,None,11:05,2,76ers,Bucks,32 - 29,1,N/A,N/A,N/A
+13,Ben Simmons,FG_MISS,None,10:54,2,76ers,Bucks,32 - 29,1, ,2,Jumper
+14,Pat Connaughton,DEFENSIVE_REBOUND,None,10:52,2,Bucks,76ers,32 - 29,0,N/A,N/A,N/A
+15,Khris Middleton,TURNOVER,Joel Embiid,10:47,2,Bucks,76ers,32 - 29,0,N/A,N/A,N/A
+16,Giannis Antetokounmpo,FOUL_ON_FLOOR,None,10:47,2,Bucks,76ers,32 - 29,0,N/A,N/A,N/A
+17,Ersan Ilyasova,FOUL_ON_FLOOR,None,10:31,2,Bucks,76ers,32 - 29,0,N/A,N/A,N/A
+18,Zhaire Smith,FG_MISS,Giannis Antetokounmpo,10:24,2,Bucks,76ers,32 - 29,1,0,2,Dunk
+19,Giannis Antetokounmpo,DEFENSIVE_REBOUND,None,10:21,2,Bucks,76ers,32 - 29,0,N/A,N/A,N/A
+20,Giannis Antetokounmpo,FG_MISS,Shake Milton,10:19,2,76ers,Bucks,32 - 29,0,4,2,Jumper
+21,Giannis Antetokounmpo,JUMP_BALL,None,10:16,2,Bucks,76ers,32 - 29,0,N/A,N/A,N/A
+22,Team,OFFENSIVE_REBOUND,None,10:16,2,Bucks,76ers,32 - 29,0,N/A,N/A,N/A
+23,Giannis Antetokounmpo,FG_ASSISTED,Khris Middleton,10:08,2,Bucks,76ers,34 - 29,0,11,2,Jumper
+24,Zhaire Smith,FG_MISS,None,9:49,2,76ers,Bucks,34 - 29,1,0,2,Layup
+25,Joel Embiid,OFFENSIVE_REBOUND,None,9:48,2,76ers,Bucks,34 - 29,1,N/A,N/A,N/A
+26,Tim Frazier,FOUL_ON_FLOOR,None,9:48,2,Bucks,76ers,34 - 29,0,N/A,N/A,N/A
+27,Shake Milton,FG_MISS,None,9:42,2,76ers,Bucks,34 - 29,1,14,2,Jumper
+28,Giannis Antetokounmpo,DEFENSIVE_REBOUND,None,9:38,2,Bucks,76ers,34 - 29,0,N/A,N/A,N/A
+29,Giannis Antetokounmpo,FG_MISS,None,9:34,2,Bucks,76ers,34 - 29,0,26,3,Jumper
+30,Mike Scott,DEFENSIVE_REBOUND,None,9:30,2,76ers,Bucks,34 - 29,1,N/A,N/A,N/A
+31,Joel Embiid,FG_ASSISTED,Ben Simmons,9:24,2,76ers,Bucks,34 - 32,1,26,3,Jumper
+32,Team,Unknown,None,9:17,2,Bucks,76ers,34 - 32,0,N/A,N/A,N/A
+33,Sterling Brown,SUBSTITUTION,Frazier Tim,9:17,2,Bucks,76ers,34 - 32,0,N/A,N/A,N/A
+34,Brook Lopez,SUBSTITUTION,Middleton Khris,9:17,2,Bucks,76ers,34 - 32,0,N/A,N/A,N/A
+35,D.J. Wilson,SUBSTITUTION,Connaughton Pat,9:17,2,Bucks,76ers,34 - 32,0,N/A,N/A,N/A
+36,George Hill,SUBSTITUTION,Ilyasova Ersan,9:17,2,Bucks,76ers,34 - 32,0,N/A,N/A,N/A
+37,Brook Lopez,FG_MISS,None,8:58,2,Bucks,76ers,34 - 32,0,26,3,Jumper
+38,Zhaire Smith,DEFENSIVE_REBOUND,None,8:55,2,76ers,Bucks,34 - 32,1,N/A,N/A,N/A
+39,Joel Embiid,FG_MISS,None,8:49,2,76ers,Bucks,34 - 32,1,26,3,Jumper
+40,D.J. Wilson,DEFENSIVE_REBOUND,None,8:45,2,Bucks,76ers,34 - 32,0,N/A,N/A,N/A
+41,D.J. Wilson,FG_MISS,None,8:38,2,Bucks,76ers,34 - 32,0,18,2,Jumper
+42,Joel Embiid,DEFENSIVE_REBOUND,None,8:37,2,76ers,Bucks,34 - 32,1,N/A,N/A,N/A
+43,Joel Embiid,FG_MISS,None,8:27,2,76ers,Bucks,34 - 32,1,14,2,Jumper
+44,D.J. Wilson,DEFENSIVE_REBOUND,None,8:24,2,Bucks,76ers,34 - 32,0,N/A,N/A,N/A
+45,Giannis Antetokounmpo,FG_ASSISTED,George Hill,8:10,2,Bucks,76ers,36 - 32,0,7,2,Jumper
+46,Ben Simmons,TURNOVER,D.J. Wilson,8:02,2,76ers,Bucks,36 - 32,1,N/A,N/A,N/A
+47,Zhaire Smith,FOUL_ON_FLOOR,None,7:57,2,76ers,Bucks,36 - 32,1,N/A,N/A,N/A
+48,Tobias Harris,SUBSTITUTION,Smith Zhaire,7:57,2,76ers,Bucks,36 - 32,1,N/A,N/A,N/A
+49,T.J. McConnell,SUBSTITUTION,Simmons Ben,7:57,2,76ers,Bucks,36 - 32,1,N/A,N/A,N/A
+50,Pat Connaughton,SUBSTITUTION,Antetokounmpo Giannis,7:57,2,Bucks,76ers,36 - 32,0,N/A,N/A,N/A
+51,George Hill,FG_MISS,None,7:51,2,Bucks,76ers,36 - 32,0,3,2,Jumper
+52,Joel Embiid,DEFENSIVE_REBOUND,None,7:49,2,76ers,Bucks,36 - 32,1,N/A,N/A,N/A
+53,Shake Milton,TURNOVER,None,7:37,2,76ers,Bucks,36 - 32,1,N/A,N/A,N/A
+54,D.J. Wilson,FG_ASSISTED,George Hill,7:19,2,Bucks,76ers,38 - 32,0,6,2,Jumper
+55,Team,Unknown,None,7:17,2,76ers,Bucks,38 - 32,1,N/A,N/A,N/A
+56,Shake Milton,FG_MISS,None,7:04,2,76ers,Bucks,38 - 32,1,23,3,Jumper
+57,Sterling Brown,DEFENSIVE_REBOUND,None,7:01,2,Bucks,76ers,38 - 32,0,N/A,N/A,N/A
+58,Sterling Brown,FG_MISS,None,6:48,2,Bucks,76ers,38 - 32,0,7,2,Jumper
+59,Mike Scott,DEFENSIVE_REBOUND,None,6:46,2,76ers,Bucks,38 - 32,1,N/A,N/A,N/A
+60,Tobias Harris,FG_UNASSISTED,None,6:34,2,76ers,Bucks,38 - 34,1,0,2,Layup
+61,Sterling Brown,FG_ASSISTED,Brook Lopez,6:23,2,Bucks,76ers,40 - 34,0,16,2,Jumper
+62,Joel Embiid,FG_ASSISTED,T.J. McConnell,5:58,2,76ers,Bucks,40 - 36,1,0,2,Layup
+63,Brook Lopez,FG_MISS,None,5:50,2,Bucks,76ers,40 - 36,0,26,3,Jumper
+64,Tobias Harris,DEFENSIVE_REBOUND,None,5:47,2,76ers,Bucks,40 - 36,1,N/A,N/A,N/A
+65,Tobias Harris,FG_ASSISTED,Joel Embiid,5:39,2,76ers,Bucks,40 - 38,1,16,2,Jumper
+66,shot clock,TURNOVER,None,5:12,2,Bucks,76ers,40 - 38,0,N/A,N/A,N/A
+67,JJ Redick,SUBSTITUTION,Scott Mike,5:12,2,76ers,Bucks,40 - 38,1,N/A,N/A,N/A
+68,Jonah Bolden,SUBSTITUTION,Milton Shake,5:12,2,76ers,Bucks,40 - 38,1,N/A,N/A,N/A
+69,Giannis Antetokounmpo,SUBSTITUTION,Wilson D.J.,5:12,2,Bucks,76ers,40 - 38,0,N/A,N/A,N/A
+70,Joel Embiid,FG_MISS,None,4:57,2,76ers,Bucks,40 - 38,1,0,2,Layup
+71,Giannis Antetokounmpo,DEFENSIVE_REBOUND,None,4:55,2,Bucks,76ers,40 - 38,0,N/A,N/A,N/A
+72,Joel Embiid,FOUL_ON_FLOOR,None,4:52,2,76ers,Bucks,40 - 38,1,N/A,N/A,N/A
+73,Giannis Antetokounmpo,FT_MISS,None,4:52,2,Bucks,76ers,40 - 38,0,N/A,1,N/A
+74,Team,OFFENSIVE_REBOUND,None,4:52,2,Bucks,76ers,40 - 38,0,N/A,N/A,N/A
+75,Giannis Antetokounmpo,FT,None,4:52,2,Bucks,76ers,41 - 38,0,N/A,1,N/A
+76,Tobias Harris,FG_MISS,None,4:35,2,76ers,Bucks,41 - 38,1,7,2,Jumper
+77,George Hill,DEFENSIVE_REBOUND,None,4:35,2,Bucks,76ers,41 - 38,0,N/A,N/A,N/A
+78,George Hill,FG_ASSISTED,Brook Lopez,4:24,2,Bucks,76ers,44 - 38,0,26,3,Jumper
+79,JJ Redick,FG_ASSISTED,Joel Embiid,4:09,2,76ers,Bucks,44 - 41,1,26,3,Jumper
+80,George Hill,FG_UNASSISTED,None,3:52,2,Bucks,76ers,46 - 41,0,12,2,Jumper
+81,Pat Connaughton,FOUL_ON_FLOOR,None,3:33,2,Bucks,76ers,46 - 41,0,N/A,N/A,N/A
+82,JJ Redick,FT,None,3:33,2,76ers,Bucks,46 - 42,1,N/A,1,N/A
+83,Zhaire Smith,SUBSTITUTION,Harris Tobias,3:33,2,76ers,Bucks,46 - 42,1,N/A,N/A,N/A
+84,Ersan Ilyasova,SUBSTITUTION,Hill George,3:33,2,Bucks,76ers,46 - 42,0,N/A,N/A,N/A
+85,JJ Redick,FT,None,3:33,2,76ers,Bucks,46 - 43,1,N/A,1,N/A
+86,Pat Connaughton,FG_MISS,None,3:25,2,Bucks,76ers,46 - 43,0,25,3,Jumper
+87,Joel Embiid,DEFENSIVE_REBOUND,None,3:22,2,76ers,Bucks,46 - 43,1,N/A,N/A,N/A
+88,Pat Connaughton,FOUL_ON_FLOOR,None,3:18,2,Bucks,76ers,46 - 43,0,N/A,N/A,N/A
+89,JJ Redick,FT,None,3:18,2,76ers,Bucks,46 - 44,1,N/A,1,N/A
+90,JJ Redick,FT,None,3:18,2,76ers,Bucks,46 - 45,1,N/A,1,N/A
+91,Pat Connaughton,FG_MISS,Zhaire Smith,3:07,2,76ers,Bucks,46 - 45,0,0,2,Layup
+92,Pat Connaughton,OFFENSIVE_REBOUND,None,3:06,2,Bucks,76ers,46 - 45,0,N/A,N/A,N/A
+93,Pat Connaughton,FG_MISS,None,2:56,2,Bucks,76ers,46 - 45,0,23,3,Jumper
+94,Jonah Bolden,DEFENSIVE_REBOUND,None,2:53,2,76ers,Bucks,46 - 45,1,N/A,N/A,N/A
+95,Joel Embiid,FG_MISS,None,2:45,2,76ers,Bucks,46 - 45,1, ,2,Jumper
+96,Giannis Antetokounmpo,DEFENSIVE_REBOUND,None,2:43,2,Bucks,76ers,46 - 45,0,N/A,N/A,N/A
+97,Zhaire Smith,FOUL_ON_FLOOR,None,2:42,2,76ers,Bucks,46 - 45,1,N/A,N/A,N/A
+98,Giannis Antetokounmpo,FT,None,2:42,2,Bucks,76ers,47 - 45,0,N/A,1,N/A
+99,George Hill,SUBSTITUTION,Brown Sterling,2:42,2,Bucks,76ers,47 - 45,0,N/A,N/A,N/A
+100,Giannis Antetokounmpo,FT,None,2:42,2,Bucks,76ers,48 - 45,0,N/A,1,N/A
+101,Ben Simmons,SUBSTITUTION,McConnell T.J.,2:42,2,76ers,Bucks,48 - 45,1,N/A,N/A,N/A
+102,JJ Redick,FG_ASSISTED,Joel Embiid,2:27,2,76ers,Bucks,48 - 48,1,26,3,Jumper
+103,Giannis Antetokounmpo,FG_ASSISTED,George Hill,2:09,2,Bucks,76ers,50 - 48,0,20,2,Jumper
+104,Joel Embiid,FG_ASSISTED,Ben Simmons,1:54,2,76ers,Bucks,50 - 51,1,27,3,Jumper
+105,Giannis Antetokounmpo,FG_MISS,None,1:43,2,Bucks,76ers,50 - 51,0,27,3,Jumper
+106,Ben Simmons,DEFENSIVE_REBOUND,None,1:40,2,76ers,Bucks,50 - 51,1,N/A,N/A,N/A
+107,Ben Simmons,TURNOVER,None,1:40,2,76ers,Bucks,50 - 51,1,N/A,N/A,N/A
+108,D.J. Wilson,SUBSTITUTION,Lopez Brook,1:40,2,Bucks,76ers,50 - 51,0,N/A,N/A,N/A
+109,Zhaire Smith,FOUL_ON_FLOOR,None,1:29,2,76ers,Bucks,50 - 51,1,N/A,N/A,N/A
+110,D.J. Wilson,FT,None,1:29,2,Bucks,76ers,51 - 51,0,N/A,1,N/A
+111,Mike Scott,SUBSTITUTION,Embiid Joel,1:29,2,76ers,Bucks,51 - 51,1,N/A,N/A,N/A
+112,Sterling Brown,SUBSTITUTION,Antetokounmpo Giannis,1:29,2,Bucks,76ers,51 - 51,0,N/A,N/A,N/A
+113,D.J. Wilson,FT_MISS,None,1:29,2,Bucks,76ers,51 - 51,0,N/A,1,N/A
+114,Team,OFFENSIVE_REBOUND,None,1:28,2,Bucks,76ers,51 - 51,0,N/A,N/A,N/A
+115,Sterling Brown,FG_MISS,None,1:18,2,Bucks,76ers,51 - 51,0,24,3,Jumper
+116,Jonah Bolden,DEFENSIVE_REBOUND,None,1:14,2,76ers,Bucks,51 - 51,1,N/A,N/A,N/A
+117,Ben Simmons,FG_UNASSISTED,None,1:09,2,76ers,Bucks,51 - 53,1,5,2,Jumper
+118,George Hill,FG_MISS,None,54.0,2,Bucks,76ers,51 - 53,0, ,2,Jumper
+119,D.J. Wilson,OFFENSIVE_REBOUND,None,54.0,2,Bucks,76ers,51 - 53,0,N/A,N/A,N/A
+120,Mike Scott,FOUL_ON_FLOOR,None,53.5,2,76ers,Bucks,51 - 53,1,N/A,N/A,N/A
+121,D.J. Wilson,FT,None,53.5,2,Bucks,76ers,52 - 53,0,N/A,1,N/A
+122,D.J. Wilson,FT,None,53.5,2,Bucks,76ers,53 - 53,0,N/A,1,N/A
+123,Jonah Bolden,FG_ASSISTED,Ben Simmons,35.2,2,76ers,Bucks,53 - 56,1,23,3,Jumper
+124,Sterling Brown,FG_ASSISTED,George Hill,23.0,2,Bucks,76ers,56 - 56,0,24,3,Jumper
+125,Ben Simmons,FG_UNASSISTED,None,4.0,2,76ers,Bucks,56 - 58,1,1,2,Jumper
+126,Ersan Ilyasova,FG_MISS,JJ Redick,1.0,2,76ers,Bucks,56 - 58,0,22,2,Jumper
+127,JJ Redick,DEFENSIVE_REBOUND,None,0.1,2,76ers,Bucks,56 - 58,1,N/A,N/A,N/A
+128,End of,Unknown,None,0.0,2,76ers,Bucks,56 - 58,1,N/A,N/A,N/A
+0,Tobias Harris,SUBSTITUTION,Smith Zhaire,12:00,3,76ers,Bucks,56 - 58,1,N/A,N/A,N/A
+1,Joel Embiid,SUBSTITUTION,Bolden Jonah,12:00,3,76ers,Bucks,56 - 58,1,N/A,N/A,N/A
+2,Brook Lopez,SUBSTITUTION,Wilson D.J.,12:00,3,Bucks,76ers,56 - 58,0,N/A,N/A,N/A
+3,Giannis Antetokounmpo,SUBSTITUTION,Connaughton Pat,12:00,3,Bucks,76ers,56 - 58,0,N/A,N/A,N/A
+4,Khris Middleton,SUBSTITUTION,Ilyasova Ersan,12:00,3,Bucks,76ers,56 - 58,0,N/A,N/A,N/A
+5,JJ Redick,FG_ASSISTED,Joel Embiid,11:48,3,76ers,Bucks,56 - 60,1,21,2,Jumper
+6,Giannis Antetokounmpo,FG_UNASSISTED,None,11:29,3,Bucks,76ers,58 - 60,0,15,2,Jumper
+7,Joel Embiid,FG_MISS,Giannis Antetokounmpo,11:16,3,Bucks,76ers,58 - 60,1,0,2,Dunk
+8,Giannis Antetokounmpo,DEFENSIVE_REBOUND,None,11:13,3,Bucks,76ers,58 - 60,0,N/A,N/A,N/A
+9,JJ Redick,FOUL_ON_FLOOR,None,11:13,3,76ers,Bucks,58 - 60,1,N/A,N/A,N/A
+10,Khris Middleton,FG_MISS,None,10:59,3,Bucks,76ers,58 - 60,0, ,2,Jumper
+11,Joel Embiid,DEFENSIVE_REBOUND,None,10:57,3,76ers,Bucks,58 - 60,1,N/A,N/A,N/A
+12,JJ Redick,FG_ASSISTED,Ben Simmons,10:50,3,76ers,Bucks,58 - 62,1,0,2,Layup
+13,Brook Lopez,FG_MISS,None,10:42,3,Bucks,76ers,58 - 62,0,27,3,Jumper
+14,Joel Embiid,DEFENSIVE_REBOUND,None,10:40,3,76ers,Bucks,58 - 62,1,N/A,N/A,N/A
+15,JJ Redick,FG_MISS,None,10:35,3,76ers,Bucks,58 - 62,1,26,3,Jumper
+16,Sterling Brown,DEFENSIVE_REBOUND,None,10:32,3,Bucks,76ers,58 - 62,0,N/A,N/A,N/A
+17,Khris Middleton,FG_MISS,None,10:24,3,Bucks,76ers,58 - 62,0, ,2,Jumper
+18,Ben Simmons,DEFENSIVE_REBOUND,None,10:20,3,76ers,Bucks,58 - 62,1,N/A,N/A,N/A
+19,Joel Embiid,FG_MISS,None,10:15,3,76ers,Bucks,58 - 62,1,26,3,Jumper
+20,Giannis Antetokounmpo,DEFENSIVE_REBOUND,None,10:12,3,Bucks,76ers,58 - 62,0,N/A,N/A,N/A
+21,Khris Middleton,TURNOVER,None,9:57,3,Bucks,76ers,58 - 62,0,N/A,N/A,N/A
+22,Ben Simmons,FG_UNASSISTED,None,9:42,3,76ers,Bucks,58 - 64,1,18,2,Jumper
+23,Giannis Antetokounmpo,FG_ASSISTED,Khris Middleton,9:28,3,Bucks,76ers,61 - 64,0,26,3,Jumper
+24,Joel Embiid,FG_ASSISTED,JJ Redick,9:14,3,76ers,Bucks,61 - 66,1,3,2,Jumper
+25,Giannis Antetokounmpo,FG_MISS,None,9:03,3,Bucks,76ers,61 - 66,0,0,2,Layup
+26,Tobias Harris,DEFENSIVE_REBOUND,None,9:00,3,76ers,Bucks,61 - 66,1,N/A,N/A,N/A
+27,Mike Scott,FG_ASSISTED,Tobias Harris,8:58,3,76ers,Bucks,61 - 68,1,17,2,Jumper
+28,Team,Unknown,None,8:56,3,Bucks,76ers,61 - 68,0,N/A,N/A,N/A
+29,Giannis Antetokounmpo,FG_UNASSISTED,None,8:44,3,Bucks,76ers,63 - 68,0,18,2,Jumper
+30,Brook Lopez,FOUL_ON_FLOOR,None,8:30,3,Bucks,76ers,63 - 68,0,N/A,N/A,N/A
+31,Joel Embiid,FT,None,8:30,3,76ers,Bucks,63 - 69,1,N/A,1,N/A
+32,Joel Embiid,FT,None,8:30,3,76ers,Bucks,63 - 70,1,N/A,1,N/A
+33,Brook Lopez,FG_ASSISTED,Sterling Brown,8:18,3,Bucks,76ers,65 - 70,0,0,2,Dunk
+34,JJ Redick,FG_ASSISTED,Ben Simmons,8:06,3,76ers,Bucks,65 - 72,1,0,2,Layup
+35,George Hill,FG_MISS,None,7:49,3,Bucks,76ers,65 - 72,0,16,2,Jumper
+36,Team,DEFENSIVE_REBOUND,None,7:49,3,76ers,Bucks,65 - 72,1,N/A,N/A,N/A
+37,Joel Embiid,TURNOVER,None,7:27,3,76ers,Bucks,65 - 72,1,N/A,N/A,N/A
+38,Pat Connaughton,SUBSTITUTION,for game,7:27,3,Bucks,76ers,65 - 72,0,N/A,N/A,N/A
+39,Jonah Bolden,SUBSTITUTION,Embiid Joel,7:27,3,76ers,Bucks,65 - 72,1,N/A,N/A,N/A
+40,enters the,SUBSTITUTION,Antetokounmpo Giannis,7:27,3,Bucks,76ers,65 - 72,0,N/A,N/A,N/A
+41,Khris Middleton,FG_UNASSISTED,None,7:09,3,Bucks,76ers,67 - 72,0,17,2,Jumper
+42,George Hill,FOUL_ON_FLOOR,None,7:04,3,Bucks,76ers,67 - 72,0,N/A,N/A,N/A
+43,Jonah Bolden,FG_MISS,None,6:58,3,76ers,Bucks,67 - 72,1,26,3,Jumper
+44,Sterling Brown,DEFENSIVE_REBOUND,None,6:53,3,Bucks,76ers,67 - 72,0,N/A,N/A,N/A
+45,Sterling Brown,FG_MISS,None,6:47,3,Bucks,76ers,67 - 72,0,3,2,Jumper
+46,Brook Lopez,OFFENSIVE_REBOUND,None,6:46,3,Bucks,76ers,67 - 72,0,N/A,N/A,N/A
+47,Brook Lopez,FG_MISS,None,6:45,3,Bucks,76ers,67 - 72,0,11,2,Jumper
+48,Brook Lopez,OFFENSIVE_REBOUND,None,6:43,3,Bucks,76ers,67 - 72,0,N/A,N/A,N/A
+49,Brook Lopez,FG_MISS,None,6:40,3,Bucks,76ers,67 - 72,0, ,2,Jumper
+50,Mike Scott,DEFENSIVE_REBOUND,None,6:39,3,76ers,Bucks,67 - 72,1,N/A,N/A,N/A
+51,Ben Simmons,TURNOVER,Khris Middleton,6:37,3,76ers,Bucks,67 - 72,1,N/A,N/A,N/A
+52,Mike Scott,FOUL_ON_FLOOR,None,6:34,3,76ers,Bucks,67 - 72,1,N/A,N/A,N/A
+53,Sterling Brown,FT_MISS,None,6:34,3,Bucks,76ers,67 - 72,0,N/A,1,N/A
+54,Team,OFFENSIVE_REBOUND,None,6:34,3,Bucks,76ers,67 - 72,0,N/A,N/A,N/A
+55,Joel Embiid,SUBSTITUTION,Scott Mike,6:34,3,76ers,Bucks,67 - 72,1,N/A,N/A,N/A
+56,T.J. McConnell,SUBSTITUTION,Redick JJ,6:34,3,76ers,Bucks,67 - 72,1,N/A,N/A,N/A
+57,Shake Milton,SUBSTITUTION,Simmons Ben,6:34,3,76ers,Bucks,67 - 72,1,N/A,N/A,N/A
+58,Sterling Brown,FT,None,6:34,3,Bucks,76ers,68 - 72,0,N/A,1,N/A
+59,Giannis Antetokounmpo,SUBSTITUTION,Middleton Khris,6:34,3,Bucks,76ers,68 - 72,0,N/A,N/A,N/A
+60,Tobias Harris,FG_MISS,None,6:25,3,76ers,Bucks,68 - 72,1,16,2,Jumper
+61,George Hill,DEFENSIVE_REBOUND,None,6:22,3,Bucks,76ers,68 - 72,0,N/A,N/A,N/A
+62,T.J. McConnell,FOUL_ON_FLOOR,None,6:13,3,76ers,Bucks,68 - 72,1,N/A,N/A,N/A
+63,Giannis Antetokounmpo,FT_MISS,None,6:13,3,Bucks,76ers,68 - 72,0,N/A,1,N/A
+64,Team,OFFENSIVE_REBOUND,None,6:13,3,Bucks,76ers,68 - 72,0,N/A,N/A,N/A
+65,Tim Frazier,SUBSTITUTION,Hill George,6:13,3,Bucks,76ers,68 - 72,0,N/A,N/A,N/A
+66,Giannis Antetokounmpo,FT,None,6:13,3,Bucks,76ers,69 - 72,0,N/A,1,N/A
+67,T.J. McConnell,FG_ASSISTED,Joel Embiid,6:03,3,76ers,Bucks,69 - 74,1,18,2,Jumper
+68,Pat Connaughton,TURNOVER,None,5:49,3,Bucks,76ers,69 - 74,0,N/A,N/A,N/A
+69,Joel Embiid,FG_MISS,None,5:38,3,76ers,Bucks,69 - 74,1, ,2,Jumper
+70,Tim Frazier,DEFENSIVE_REBOUND,None,5:36,3,Bucks,76ers,69 - 74,0,N/A,N/A,N/A
+71,Tim Frazier,FOUL_ON_FLOOR,None,5:34,3,Bucks,76ers,69 - 74,0,N/A,N/A,N/A
+72,Tim Frazier,TURNOVER,None,5:34,3,Bucks,76ers,69 - 74,0,N/A,N/A,N/A
+73,Tobias Harris,FG_UNASSISTED,None,5:17,3,76ers,Bucks,69 - 76,1,16,2,Jumper
+74,Tim Frazier,FG_MISS,None,4:56,3,Bucks,76ers,69 - 76,0,8,2,Jumper
+75,Joel Embiid,DEFENSIVE_REBOUND,None,4:54,3,76ers,Bucks,69 - 76,1,N/A,N/A,N/A
+76,Joel Embiid,FG_UNASSISTED,None,4:36,3,76ers,Bucks,69 - 78,1,12,2,Jumper
+77,Giannis Antetokounmpo,FG_MISS,None,4:18,3,Bucks,76ers,69 - 78,0,28,3,Jumper
+78,Team,DEFENSIVE_REBOUND,None,4:17,3,76ers,Bucks,69 - 78,1,N/A,N/A,N/A
+79,Team,Unknown,None,4:17,3,76ers,Bucks,69 - 78,1,N/A,N/A,N/A
+80,D.J. Wilson,SUBSTITUTION,Lopez Brook,4:17,3,Bucks,76ers,69 - 78,0,N/A,N/A,N/A
+81,Ersan Ilyasova,SUBSTITUTION,Brown Sterling,4:17,3,Bucks,76ers,69 - 78,0,N/A,N/A,N/A
+82,Mike Scott,SUBSTITUTION,Embiid Joel,4:17,3,76ers,Bucks,69 - 78,1,N/A,N/A,N/A
+83,Mike Scott,FG_MISS,None,3:54,3,76ers,Bucks,69 - 78,1,25,3,Jumper
+84,Ersan Ilyasova,DEFENSIVE_REBOUND,None,3:51,3,Bucks,76ers,69 - 78,0,N/A,N/A,N/A
+85,Tim Frazier,FG_UNASSISTED,None,3:46,3,Bucks,76ers,71 - 78,0, ,2,Jumper
+86,Tobias Harris,FG_MISS,None,3:29,3,76ers,Bucks,71 - 78,1,25,3,Jumper
+87,Tim Frazier,DEFENSIVE_REBOUND,None,3:25,3,Bucks,76ers,71 - 78,0,N/A,N/A,N/A
+88,Giannis Antetokounmpo,FG_ASSISTED,Tim Frazier,3:22,3,Bucks,76ers,73 - 78,0, ,2,Jumper
+89,Shake Milton,FOUL_ON_FLOOR,None,3:22,3,76ers,Bucks,73 - 78,1,N/A,N/A,N/A
+90,Ben Simmons,SUBSTITUTION,McConnell T.J.,3:22,3,76ers,Bucks,73 - 78,1,N/A,N/A,N/A
+91,Giannis Antetokounmpo,FT,None,3:22,3,Bucks,76ers,74 - 78,0,N/A,1,N/A
+92,Tobias Harris,FG_MISS,None,3:09,3,76ers,Bucks,74 - 78,1, ,2,Jumper
+93,Team,DEFENSIVE_REBOUND,None,3:09,3,Bucks,76ers,74 - 78,0,N/A,N/A,N/A
+94,Tobias Harris,FOUL_ON_FLOOR,None,3:09,3,76ers,Bucks,74 - 78,1,N/A,N/A,N/A
+95,D.J. Wilson,FT_MISS,None,3:09,3,Bucks,76ers,74 - 78,0,N/A,1,N/A
+96,Team,OFFENSIVE_REBOUND,None,3:09,3,Bucks,76ers,74 - 78,0,N/A,N/A,N/A
+97,Zhaire Smith,SUBSTITUTION,Harris Tobias,3:09,3,76ers,Bucks,74 - 78,1,N/A,N/A,N/A
+98,D.J. Wilson,FT,None,3:09,3,Bucks,76ers,75 - 78,0,N/A,1,N/A
+99,Mike Scott,FG_ASSISTED,Ben Simmons,3:04,3,76ers,Bucks,75 - 80,1,24,2,Jumper
+100,Ersan Ilyasova,FG_MISS,None,2:52,3,Bucks,76ers,75 - 81,0,26,3,Jumper
+101,Ben Simmons,DEFENSIVE_REBOUND,None,2:48,3,76ers,Bucks,75 - 81,1,N/A,N/A,N/A
+102,Shake Milton,FG_MISS,None,2:45,3,76ers,Bucks,75 - 81,1,26,3,Jumper
+103,Giannis Antetokounmpo,DEFENSIVE_REBOUND,None,2:42,3,Bucks,76ers,75 - 81,0,N/A,N/A,N/A
+104,Giannis Antetokounmpo,FG_UNASSISTED,None,2:36,3,Bucks,76ers,77 - 80,0,11,2,Jumper
+105,Mike Scott,FG_MISS,None,2:13,3,76ers,Bucks,77 - 80,1, ,2,Jumper
+106,Tim Frazier,DEFENSIVE_REBOUND,None,2:10,3,Bucks,76ers,77 - 80,0,N/A,N/A,N/A
+107,Ersan Ilyasova,FG_MISS,None,2:06,3,Bucks,76ers,77 - 80,0,27,3,Jumper
+108,D.J. Wilson,OFFENSIVE_REBOUND,None,2:00,3,Bucks,76ers,77 - 80,0,N/A,N/A,N/A
+109,D.J. Wilson,FG_UNASSISTED,None,2:00,3,Bucks,76ers,79 - 80,0,0,2,Dunk
+110,Mike Scott,FG_ASSISTED,Zhaire Smith,1:46,3,76ers,Bucks,79 - 83,1,26,3,Jumper
+111,Giannis Antetokounmpo,FG_MISS,None,1:28,3,Bucks,76ers,79 - 83,0,6,2,Jumper
+112,Team,OFFENSIVE_REBOUND,None,1:28,3,Bucks,76ers,79 - 83,0,N/A,N/A,N/A
+113,JJ Redick,SUBSTITUTION,Milton Shake,1:28,3,76ers,Bucks,79 - 83,1,N/A,N/A,N/A
+114,Khris Middleton,SUBSTITUTION,Antetokounmpo Giannis,1:28,3,Bucks,76ers,79 - 83,0,N/A,N/A,N/A
+115,Khris Middleton,FG_MISS,None,1:26,3,Bucks,76ers,79 - 83,0,16,2,Jumper
+116,Jonah Bolden,DEFENSIVE_REBOUND,None,1:23,3,76ers,Bucks,79 - 83,1,N/A,N/A,N/A
+117,Jonah Bolden,FG_MISS,None,1:14,3,76ers,Bucks,79 - 83,1, ,2,Jumper
+118,Jonah Bolden,OFFENSIVE_REBOUND,None,1:13,3,76ers,Bucks,79 - 83,1,N/A,N/A,N/A
+119,Jonah Bolden,FG_MISS,None,1:13,3,76ers,Bucks,79 - 83,1, ,2,Jumper
+120,Team,OFFENSIVE_REBOUND,None,1:13,3,76ers,Bucks,79 - 83,1,N/A,N/A,N/A
+121,Zhaire Smith,FG_MISS,None,1:10,3,76ers,Bucks,79 - 83,1,23,2,Jumper
+122,Ersan Ilyasova,DEFENSIVE_REBOUND,None,1:07,3,Bucks,76ers,79 - 83,0,N/A,N/A,N/A
+123,Khris Middleton,FG_MISS,None,58.7,3,Bucks,76ers,79 - 83,0,14,2,Jumper
+124,Jonah Bolden,DEFENSIVE_REBOUND,None,56.1,3,76ers,Bucks,79 - 83,1,N/A,N/A,N/A
+125,Pat Connaughton,FOUL_ON_FLOOR,None,40.0,3,Bucks,76ers,79 - 83,0,N/A,N/A,N/A
+126,Zhaire Smith,TURNOVER,None,36.4,3,76ers,Bucks,79 - 83,1,N/A,N/A,N/A
+127,Khris Middleton,FG_MISS,None,32.4,3,Bucks,76ers,79 - 83,0, ,2,Jumper
+128,Pat Connaughton,OFFENSIVE_REBOUND,None,28.2,3,Bucks,76ers,79 - 83,0,N/A,N/A,N/A
+129,Khris Middleton,FG_ASSISTED,Pat Connaughton,26.3,3,Bucks,76ers,82 - 83,0,27,3,Jumper
+130,Mike Scott,FG_ASSISTED,Ben Simmons,6.6,3,76ers,Bucks,82 - 86,1,26,3,Jumper
+131,Khris Middleton,FG_MISS,Ben Simmons,0.9,3,76ers,Bucks,82 - 86,0,28,3,Jumper
+132,Zhaire Smith,DEFENSIVE_REBOUND,None,0.9,3,76ers,Bucks,82 - 86,1,N/A,N/A,N/A
+133,End of,Unknown,None,0.0,3,76ers,Bucks,82 - 86,1,N/A,N/A,N/A
+0,Joel Embiid,SUBSTITUTION,Bolden Jonah,12:00,4,76ers,Bucks,82 - 86,1,N/A,N/A,N/A
+1,George Hill,SUBSTITUTION,Frazier Tim,12:00,4,Bucks,76ers,82 - 86,0,N/A,N/A,N/A
+2,Sterling Brown,SUBSTITUTION,Connaughton Pat,12:00,4,Bucks,76ers,82 - 86,0,N/A,N/A,N/A
+3,Khris Middleton,FG_MISS,None,11:45,4,Bucks,76ers,82 - 86,0,22,2,Jumper
+4,Joel Embiid,DEFENSIVE_REBOUND,None,11:42,4,76ers,Bucks,82 - 86,1,N/A,N/A,N/A
+5,Ersan Ilyasova,FOUL_ON_FLOOR,None,11:31,4,Bucks,76ers,82 - 86,0,N/A,N/A,N/A
+6,Joel Embiid,FT_MISS,None,11:31,4,76ers,Bucks,82 - 86,1,N/A,1,N/A
+7,Team,OFFENSIVE_REBOUND,None,11:31,4,76ers,Bucks,82 - 86,1,N/A,N/A,N/A
+8,Joel Embiid,FT,None,11:31,4,76ers,Bucks,82 - 87,1,N/A,1,N/A
+9,D.J. Wilson,TURNOVER,None,11:19,4,Bucks,76ers,82 - 87,0,N/A,N/A,N/A
+10,Joel Embiid,FG_ASSISTED,JJ Redick,11:05,4,76ers,Bucks,82 - 89,1,0,2,Layup
+11,Khris Middleton,Unknown,None,11:05,4,Bucks,76ers,82 - 89,0,N/A,N/A,N/A
+12,Khris Middleton,FG_ASSISTED,D.J. Wilson,10:50,4,Bucks,76ers,84 - 89,0,0,2,Layup
+13,Zhaire Smith,FOUL_ON_FLOOR,None,10:50,4,76ers,Bucks,84 - 89,1,N/A,N/A,N/A
+14,Khris Middleton,FT,None,10:50,4,Bucks,76ers,85 - 89,0,N/A,1,N/A
+15,JJ Redick,FG_ASSISTED,Joel Embiid,10:41,4,76ers,Bucks,85 - 92,1,26,3,Jumper
+16,George Hill,FG_MISS,None,10:24,4,Bucks,76ers,85 - 92,0,9,2,Jumper
+17,D.J. Wilson,OFFENSIVE_REBOUND,None,10:21,4,Bucks,76ers,85 - 92,0,N/A,N/A,N/A
+18,Joel Embiid,FOUL_ON_FLOOR,None,10:18,4,76ers,Bucks,85 - 92,1,N/A,N/A,N/A
+19,George Hill,FT,None,10:18,4,Bucks,76ers,86 - 92,0,N/A,1,N/A
+20,George Hill,FT,None,10:18,4,Bucks,76ers,87 - 92,0,N/A,1,N/A
+21,George Hill,FT,None,10:18,4,Bucks,76ers,88 - 92,0,N/A,1,N/A
+22,Joel Embiid,FG_UNASSISTED,None,10:05,4,76ers,Bucks,88 - 94,1,14,2,Jumper
+23,Khris Middleton,TURNOVER,Zhaire Smith,9:56,4,Bucks,76ers,88 - 94,0,N/A,N/A,N/A
+24,Zhaire Smith,FG_MISS,None,9:52,4,76ers,Bucks,88 - 94,1, ,2,Jumper
+25,Sterling Brown,DEFENSIVE_REBOUND,None,9:48,4,Bucks,76ers,88 - 94,0,N/A,N/A,N/A
+26,D.J. Wilson,FG_ASSISTED,Sterling Brown,9:45,4,Bucks,76ers,91 - 94,0,28,3,Jumper
+27,Shake Milton,SUBSTITUTION,Redick JJ,9:37,4,76ers,Bucks,91 - 94,1,N/A,N/A,N/A
+28,Giannis Antetokounmpo,SUBSTITUTION,Wilson D.J.,9:37,4,Bucks,76ers,91 - 94,0,N/A,N/A,N/A
+29,Joel Embiid,FG_UNASSISTED,None,9:28,4,76ers,Bucks,91 - 96,1,13,2,Jumper
+30,George Hill,FG_ASSISTED,Giannis Antetokounmpo,9:10,4,Bucks,76ers,93 - 96,0,0,2,Layup
+31,Ben Simmons,TURNOVER,Sterling Brown,8:54,4,76ers,Bucks,93 - 96,1,N/A,N/A,N/A
+32,Sterling Brown,TURNOVER,Joel Embiid,8:50,4,Bucks,76ers,93 - 96,0,N/A,N/A,N/A
+33,Mike Scott,FG_ASSISTED,Joel Embiid,8:37,4,76ers,Bucks,93 - 99,1,25,3,Jumper
+34,Giannis Antetokounmpo,FG_ASSISTED,Khris Middleton,8:25,4,Bucks,76ers,95 - 99,0,0,2,Dunk
+35,Joel Embiid,FG_ASSISTED,Ben Simmons,8:14,4,76ers,Bucks,95 - 102,1,1,3,Jumper
+36,Giannis Antetokounmpo,FG_ASSISTED,Khris Middleton,8:04,4,Bucks,76ers,98 - 102,0,26,3,Jumper
+37,Team,Unknown,None,8:03,4,76ers,Bucks,98 - 102,1,N/A,N/A,N/A
+38,Tobias Harris,SUBSTITUTION,Smith Zhaire,8:03,4,76ers,Bucks,98 - 102,1,N/A,N/A,N/A
+39,Pat Connaughton,SUBSTITUTION,Middleton Khris,8:03,4,Bucks,76ers,98 - 102,0,N/A,N/A,N/A
+40,Brook Lopez,SUBSTITUTION,Ilyasova Ersan,8:03,4,Bucks,76ers,98 - 102,0,N/A,N/A,N/A
+41,Joel Embiid,FG_ASSISTED,Tobias Harris,7:36,4,76ers,Bucks,98 - 104,1,1,2,Jumper
+42,Brook Lopez,FG_UNASSISTED,None,7:19,4,Bucks,76ers,100 - 104,0,11,2,Jumper
+43,Joel Embiid,FG_MISS,None,7:04,4,76ers,Bucks,100 - 104,1,11,2,Jumper
+44,Brook Lopez,DEFENSIVE_REBOUND,None,7:02,4,Bucks,76ers,100 - 104,0,N/A,N/A,N/A
+45,Brook Lopez,FG_ASSISTED,Giannis Antetokounmpo,6:55,4,Bucks,76ers,103 - 104,0,29,3,Jumper
+46,Joel Embiid,FG_MISS,None,6:32,4,76ers,Bucks,103 - 104,1,6,2,Jumper
+47,Pat Connaughton,DEFENSIVE_REBOUND,None,6:30,4,Bucks,76ers,103 - 104,0,N/A,N/A,N/A
+48,Mike Scott,FOUL_ON_FLOOR,None,6:27,4,76ers,Bucks,103 - 104,1,N/A,N/A,N/A
+49,Giannis Antetokounmpo,FT_MISS,None,6:27,4,Bucks,76ers,103 - 104,0,N/A,1,N/A
+50,Team,OFFENSIVE_REBOUND,None,6:27,4,Bucks,76ers,103 - 104,0,N/A,N/A,N/A
+51,Jonah Bolden,SUBSTITUTION,Milton Shake,6:27,4,76ers,Bucks,103 - 104,1,N/A,N/A,N/A
+52,JJ Redick,SUBSTITUTION,Embiid Joel,6:27,4,76ers,Bucks,103 - 104,1,N/A,N/A,N/A
+53,Giannis Antetokounmpo,FT,None,6:27,4,Bucks,76ers,104 - 104,0,N/A,1,N/A
+54,JJ Redick,FG_ASSISTED,Ben Simmons,6:07,4,76ers,Bucks,104 - 106,1,19,2,Jumper
+55,Ben Simmons,FOUL_ON_FLOOR,None,5:58,4,76ers,Bucks,104 - 106,1,N/A,N/A,N/A
+56,Giannis Antetokounmpo,FT,None,5:58,4,Bucks,76ers,105 - 106,0,N/A,1,N/A
+57,Giannis Antetokounmpo,FT_MISS,None,5:58,4,Bucks,76ers,105 - 106,0,N/A,1,N/A
+58,Jonah Bolden,DEFENSIVE_REBOUND,None,5:56,4,76ers,Bucks,105 - 106,1,N/A,N/A,N/A
+59,Jonah Bolden,FG_ASSISTED,JJ Redick,5:50,4,76ers,Bucks,105 - 109,1,26,3,Jumper
+60,Giannis Antetokounmpo,FG_ASSISTED,Pat Connaughton,5:28,4,Bucks,76ers,107 - 109,0,0,2,Dunk
+61,Mike Scott,FG_MISS,None,5:08,4,76ers,Bucks,107 - 109,1,23,3,Jumper
+62,Sterling Brown,DEFENSIVE_REBOUND,None,5:05,4,Bucks,76ers,107 - 109,0,N/A,N/A,N/A
+63,Sterling Brown,FG_UNASSISTED,None,5:02,4,Bucks,76ers,109 - 109,0,0,2,Dunk
+64,Team,Unknown,None,5:02,4,76ers,Bucks,109 - 109,1,N/A,N/A,N/A
+65,Joel Embiid,SUBSTITUTION,Bolden Jonah,5:02,4,76ers,Bucks,109 - 109,1,N/A,N/A,N/A
+66,JJ Redick,FG_ASSISTED,Joel Embiid,4:52,4,76ers,Bucks,109 - 111,1,21,2,Jumper
+67,Giannis Antetokounmpo,FG_MISS,Joel Embiid,4:30,4,76ers,Bucks,109 - 111,0,0,2,Layup
+68,Giannis Antetokounmpo,JUMP_BALL,None,4:26,4,Bucks,76ers,109 - 111,0,N/A,N/A,N/A
+69,Team,OFFENSIVE_REBOUND,None,4:26,4,Bucks,76ers,109 - 111,0,N/A,N/A,N/A
+70,Sterling Brown,FG_UNASSISTED,None,4:25,4,Bucks,76ers,111 - 111,0,5,2,Jumper
+71,Mike Scott,FG_ASSISTED,Joel Embiid,4:14,4,76ers,Bucks,111 - 114,1,23,3,Jumper
+72,Brook Lopez,FG_MISS,None,4:04,4,Bucks,76ers,111 - 114,0,27,3,Jumper
+73,Tobias Harris,DEFENSIVE_REBOUND,None,4:01,4,76ers,Bucks,111 - 114,1,N/A,N/A,N/A
+74,Brook Lopez,FOUL_ON_FLOOR,None,3:53,4,Bucks,76ers,111 - 114,0,N/A,N/A,N/A
+75,Joel Embiid,FT_MISS,None,3:53,4,76ers,Bucks,111 - 114,1,N/A,1,N/A
+76,Team,OFFENSIVE_REBOUND,None,3:53,4,76ers,Bucks,111 - 114,1,N/A,N/A,N/A
+77,Khris Middleton,SUBSTITUTION,Hill George,3:53,4,Bucks,76ers,111 - 114,0,N/A,N/A,N/A
+78,Ersan Ilyasova,SUBSTITUTION,Connaughton Pat,3:53,4,Bucks,76ers,111 - 114,0,N/A,N/A,N/A
+79,Joel Embiid,FT,None,3:53,4,76ers,Bucks,111 - 115,1,N/A,1,N/A
+80,Sterling Brown,FG_MISS,Tobias Harris,3:35,4,76ers,Bucks,111 - 115,0,0,2,Layup
+81,Team,DEFENSIVE_REBOUND,None,3:34,4,76ers,Bucks,111 - 115,1,N/A,N/A,N/A
+82,Joel Embiid,FG_MISS,None,3:20,4,76ers,Bucks,111 - 115,1,21,2,Jumper
+83,Giannis Antetokounmpo,DEFENSIVE_REBOUND,None,3:20,4,Bucks,76ers,111 - 115,0,N/A,N/A,N/A
+84,Mike Scott,FOUL_ON_FLOOR,None,3:12,4,76ers,Bucks,111 - 115,1,N/A,N/A,N/A
+85,Giannis Antetokounmpo,FT,None,3:12,4,Bucks,76ers,112 - 115,0,N/A,1,N/A
+86,George Hill,SUBSTITUTION,Brown Sterling,3:12,4,Bucks,76ers,112 - 115,0,N/A,N/A,N/A
+87,Team,Unknown,None,3:12,4,Bucks,76ers,112 - 115,0,N/A,N/A,N/A
+88,Pat Connaughton,SUBSTITUTION,Ilyasova Ersan,3:12,4,Bucks,76ers,112 - 115,0,N/A,N/A,N/A
+89,Giannis Antetokounmpo,FT,None,3:12,4,Bucks,76ers,113 - 115,0,N/A,1,N/A
+90,Mike Scott,FG_ASSISTED,Joel Embiid,2:54,4,76ers,Bucks,113 - 118,1,22,3,Jumper
+91,George Hill,FG_MISS,Joel Embiid,2:35,4,76ers,Bucks,113 - 118,0,2,2,Jumper
+92,Khris Middleton,OFFENSIVE_REBOUND,None,2:32,4,Bucks,76ers,113 - 118,0,N/A,N/A,N/A
+93,Mike Scott,FOUL_ON_FLOOR,None,2:26,4,76ers,Bucks,113 - 118,1,N/A,N/A,N/A
+94,Khris Middleton,FT_MISS,None,2:26,4,Bucks,76ers,113 - 118,0,N/A,1,N/A
+95,Team,OFFENSIVE_REBOUND,None,2:26,4,Bucks,76ers,113 - 118,0,N/A,N/A,N/A
+96,Sterling Brown,SUBSTITUTION,Connaughton Pat,2:26,4,Bucks,76ers,113 - 118,0,N/A,N/A,N/A
+97,Khris Middleton,FT,None,2:26,4,Bucks,76ers,114 - 118,0,N/A,1,N/A
+98,Tobias Harris,FOUL_ON_FLOOR,None,2:11,4,76ers,Bucks,114 - 118,1,N/A,N/A,N/A
+99,Tobias Harris,TURNOVER,None,2:11,4,76ers,Bucks,114 - 118,1,N/A,N/A,N/A
+100,George Hill,FG_UNASSISTED,None,1:54,4,Bucks,76ers,117 - 118,0,26,2,Jumper
+101,Brook Lopez,FOUL_ON_FLOOR,None,1:38,4,Bucks,76ers,117 - 118,0,N/A,N/A,N/A
+102,Joel Embiid,FT,None,1:38,4,76ers,Bucks,117 - 119,1,N/A,1,N/A
+103,Joel Embiid,FT_MISS,None,1:38,4,76ers,Bucks,117 - 119,1,N/A,1,N/A
+104,Khris Middleton,DEFENSIVE_REBOUND,None,1:36,4,Bucks,76ers,117 - 119,0,N/A,N/A,N/A
+105,George Hill,FG_UNASSISTED,None,1:24,4,Bucks,76ers,119 - 119,0,15,2,Jumper
+106,JJ Redick,FG_MISS,None,1:07,4,76ers,Bucks,119 - 119,1,26,3,Jumper
+107,Giannis Antetokounmpo,DEFENSIVE_REBOUND,None,1:03,4,Bucks,76ers,119 - 119,0,N/A,N/A,N/A
+108,George Hill,FG_ASSISTED,Giannis Antetokounmpo,1:02,4,Bucks,76ers,121 - 119,0,1,2,Jumper
+109,Team,Unknown,None,1:02,4,76ers,Bucks,121 - 119,1,N/A,N/A,N/A
+110,Joel Embiid,FG_MISS,Giannis Antetokounmpo,48.3,4,Bucks,76ers,121 - 119,1,0,2,Layup
+111,Team,OFFENSIVE_REBOUND,None,48.1,4,76ers,Bucks,121 - 119,1,N/A,N/A,N/A
+112,Joel Embiid,TURNOVER,Brook Lopez,44.7,4,76ers,Bucks,121 - 119,1,N/A,N/A,N/A
+113,Sterling Brown,FG_ASSISTED,Giannis Antetokounmpo,40.1,4,Bucks,76ers,123 - 119,0,1,2,Jumper
+114,Tobias Harris,FG_MISS,None,31.8,4,76ers,Bucks,123 - 119,1,19,2,Jumper
+115,Giannis Antetokounmpo,DEFENSIVE_REBOUND,None,27.6,4,Bucks,76ers,123 - 119,0,N/A,N/A,N/A
+116,Ben Simmons,FOUL_ON_FLOOR,None,25.4,4,76ers,Bucks,123 - 119,1,N/A,N/A,N/A
+117,Khris Middleton,FT,None,25.4,4,Bucks,76ers,124 - 119,0,N/A,1,N/A
+118,Khris Middleton,FT,None,25.4,4,Bucks,76ers,125 - 119,0,N/A,1,N/A
+119,Team,Unknown,None,25.4,4,76ers,Bucks,125 - 119,1,N/A,N/A,N/A
+120,Joel Embiid,FG_MISS,None,23.9,4,76ers,Bucks,125 - 119,1,26,3,Jumper
+121,Giannis Antetokounmpo,DEFENSIVE_REBOUND,None,20.4,4,Bucks,76ers,125 - 119,0,N/A,N/A,N/A
+122,Brook Lopez,FG_ASSISTED,Giannis Antetokounmpo,16.2,4,Bucks,76ers,127 - 119,0,0,2,Dunk
+123,Tobias Harris,FG_ASSISTED,Mike Scott,11.8,4,76ers,Bucks,127 - 122,1,1,3,Jumper
+124,JJ Redick,FOUL_ON_FLOOR,None,11.0,4,76ers,Bucks,127 - 122,1,N/A,N/A,N/A
+125,George Hill,FT_MISS,None,11.0,4,Bucks,76ers,127 - 122,0,N/A,1,N/A
+126,Team,OFFENSIVE_REBOUND,None,11.0,4,Bucks,76ers,127 - 122,0,N/A,N/A,N/A
+127,Pat Connaughton,SUBSTITUTION,Middleton Khris,11.0,4,Bucks,76ers,127 - 122,0,N/A,N/A,N/A
+128,George Hill,FT,None,11.0,4,Bucks,76ers,128 - 122,0,N/A,1,N/A
+129,JJ Redick,FG_MISS,None,5.1,4,76ers,Bucks,128 - 122,1,1,2,Jumper
+130,Brook Lopez,DEFENSIVE_REBOUND,None,1.6,4,Bucks,76ers,128 - 122,0,N/A,N/A,N/A
+131,End of,Unknown,None,0.0,4,76ers,Bucks,128 - 122,1,N/A,N/A,N/A
+132,End of,Unknown,None,0.0,4,76ers,Bucks,128 - 122,1,N/A,N/A,N/A

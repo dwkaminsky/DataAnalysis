@@ -1,0 +1,501 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Al Horford,JUMP_BALL,None,12:00,1,Celtics,76ers,0 - 0,0,N/A,N/A,N/A
+1,Kyrie Irving,FG_ASSISTED,Al Horford,11:45,1,Celtics,76ers,3 - 0,0,27,3,Jumper
+2,Jimmy Butler,FG_MISS,None,11:23,1,76ers,Celtics,3 - 0,1,25,3,Jumper
+3,Kyrie Irving,DEFENSIVE_REBOUND,None,11:19,1,Celtics,76ers,3 - 0,0,N/A,N/A,N/A
+4,Al Horford,FG_MISS,None,11:12,1,Celtics,76ers,3 - 0,0,12,2,Jumper
+5,Tobias Harris,DEFENSIVE_REBOUND,None,11:09,1,76ers,Celtics,3 - 0,1,N/A,N/A,N/A
+6,Al Horford,FOUL_ON_FLOOR,None,11:01,1,Celtics,76ers,3 - 0,0,N/A,N/A,N/A
+7,Joel Embiid,FT_MISS,None,11:01,1,76ers,Celtics,3 - 0,1,N/A,1,N/A
+8,Team,OFFENSIVE_REBOUND,None,11:01,1,76ers,Celtics,3 - 0,1,N/A,N/A,N/A
+9,Joel Embiid,FT,None,11:01,1,76ers,Celtics,3 - 1,1,N/A,1,N/A
+10,Kyrie Irving,FG_ASSISTED,Jayson Tatum,10:49,1,Celtics,76ers,6 - 1,0,27,3,Jumper
+11,Tobias Harris,FG_UNASSISTED,None,10:31,1,76ers,Celtics,6 - 3,1,-,2,Jumper
+12,Marcus Smart,FG_MISS,None,10:22,1,Celtics,76ers,6 - 3,0,-,2,Jumper
+13,Joel Embiid,DEFENSIVE_REBOUND,None,10:20,1,76ers,Celtics,6 - 3,1,N/A,N/A,N/A
+14,Marcus Morris,JUMP_BALL,None,10:11,1,76ers,Celtics,6 - 3,1,N/A,N/A,N/A
+15,Joel Embiid,FG_MISS,None,10:06,1,76ers,Celtics,6 - 3,1,0,2,Layup
+16,Tobias Harris,OFFENSIVE_REBOUND,None,10:03,1,76ers,Celtics,6 - 3,1,N/A,N/A,N/A
+17,Tobias Harris,FG_MISS,None,10:03,1,76ers,Celtics,6 - 3,1,-,2,Jumper
+18,Tobias Harris,OFFENSIVE_REBOUND,None,10:03,1,76ers,Celtics,6 - 3,1,N/A,N/A,N/A
+19,Tobias Harris,FG_MISS,Jayson Tatum,9:59,1,Celtics,76ers,6 - 3,1,0,2,Layup
+20,Kyrie Irving,DEFENSIVE_REBOUND,None,9:58,1,Celtics,76ers,6 - 3,0,N/A,N/A,N/A
+21,Al Horford,FG_ASSISTED,Kyrie Irving,9:56,1,Celtics,76ers,8 - 3,0,4,2,Jumper
+22,Tobias Harris,FG_MISS,None,9:38,1,76ers,Celtics,8 - 3,1,15,2,Jumper
+23,Jayson Tatum,DEFENSIVE_REBOUND,None,9:36,1,Celtics,76ers,8 - 3,0,N/A,N/A,N/A
+24,Marcus Smart,FG_ASSISTED,Jayson Tatum,9:32,1,Celtics,76ers,11 - 3,0,26,3,Jumper
+25,JJ Redick,FG_ASSISTED,Ben Simmons,9:19,1,76ers,Celtics,11 - 6,1,25,3,Jumper
+26,Kyrie Irving,FG_MISS,None,9:10,1,Celtics,76ers,11 - 6,0,27,3,Jumper
+27,Joel Embiid,DEFENSIVE_REBOUND,None,9:07,1,76ers,Celtics,11 - 6,1,N/A,N/A,N/A
+28,Kyrie Irving,FOUL_ON_FLOOR,None,9:00,1,Celtics,76ers,11 - 6,0,N/A,N/A,N/A
+29,Jimmy Butler,FT,None,9:00,1,76ers,Celtics,11 - 7,1,N/A,1,N/A
+30,Jimmy Butler,FT,None,9:00,1,76ers,Celtics,11 - 8,1,N/A,1,N/A
+31,Ben Simmons,FOUL_ON_FLOOR,None,8:51,1,76ers,Celtics,11 - 8,1,N/A,N/A,N/A
+32,Jayson Tatum,FG_ASSISTED,Marcus Smart,8:48,1,Celtics,76ers,13 - 8,0,-,2,Jumper
+33,Ben Simmons,TURNOVER,None,8:35,1,76ers,Celtics,13 - 8,1,N/A,N/A,N/A
+34,Marcus Morris,FG_MISS,None,8:26,1,Celtics,76ers,13 - 8,0,15,2,Jumper
+35,Kyrie Irving,OFFENSIVE_REBOUND,None,8:23,1,Celtics,76ers,13 - 8,0,N/A,N/A,N/A
+36,Kyrie Irving,FG_UNASSISTED,None,8:22,1,Celtics,76ers,15 - 8,0,0,2,Layup
+37,JJ Redick,FOUL_ON_FLOOR,None,8:22,1,76ers,Celtics,15 - 8,1,N/A,N/A,N/A
+38,Aron Baynes,SUBSTITUTION,Horford Al,8:22,1,Celtics,76ers,15 - 8,0,N/A,N/A,N/A
+39,Kyrie Irving,FT_MISS,None,8:22,1,Celtics,76ers,15 - 8,0,N/A,1,N/A
+40,Joel Embiid,DEFENSIVE_REBOUND,None,8:19,1,76ers,Celtics,15 - 8,1,N/A,N/A,N/A
+41,JJ Redick,FG_MISS,None,8:06,1,76ers,Celtics,15 - 8,1,27,3,Jumper
+42,Joel Embiid,OFFENSIVE_REBOUND,None,8:04,1,76ers,Celtics,15 - 8,1,N/A,N/A,N/A
+43,Tobias Harris,FG_ASSISTED,Joel Embiid,8:02,1,76ers,Celtics,15 - 11,1,23,3,Jumper
+44,Jayson Tatum,FG_MISS,None,7:45,1,Celtics,76ers,15 - 11,0,13,2,Jumper
+45,Aron Baynes,OFFENSIVE_REBOUND,None,7:42,1,Celtics,76ers,15 - 11,0,N/A,N/A,N/A
+46,Marcus Morris,FG_UNASSISTED,None,7:36,1,Celtics,76ers,17 - 11,0,10,2,Jumper
+47,Ben Simmons,FG_ASSISTED,Joel Embiid,7:24,1,76ers,Celtics,17 - 13,1,0,2,Layup
+48,Jayson Tatum,FOUL_ON_FLOOR,None,7:24,1,Celtics,76ers,17 - 13,0,N/A,N/A,N/A
+49,Ben Simmons,FT_MISS,None,7:24,1,76ers,Celtics,17 - 13,1,N/A,1,N/A
+50,Aron Baynes,DEFENSIVE_REBOUND,None,7:22,1,Celtics,76ers,17 - 13,0,N/A,N/A,N/A
+51,Jimmy Butler,FOUL_ON_FLOOR,None,7:05,1,76ers,Celtics,17 - 13,1,N/A,N/A,N/A
+52,Kyrie Irving,FG_UNASSISTED,None,6:56,1,Celtics,76ers,19 - 13,0,11,2,Jumper
+53,Team,Unknown,None,6:55,1,76ers,Celtics,19 - 13,1,N/A,N/A,N/A
+54,JJ Redick,FG_MISS,None,6:40,1,76ers,Celtics,19 - 13,1,27,3,Jumper
+55,Tobias Harris,OFFENSIVE_REBOUND,None,6:38,1,76ers,Celtics,19 - 13,1,N/A,N/A,N/A
+56,Aron Baynes,FOUL_ON_FLOOR,None,6:38,1,Celtics,76ers,19 - 13,0,N/A,N/A,N/A
+57,Tobias Harris,FT,None,6:38,1,76ers,Celtics,19 - 14,1,N/A,1,N/A
+58,Tobias Harris,FT,None,6:38,1,76ers,Celtics,19 - 15,1,N/A,1,N/A
+59,Kyrie Irving,FG_MISS,None,6:28,1,Celtics,76ers,19 - 15,0,27,3,Jumper
+60,Joel Embiid,DEFENSIVE_REBOUND,None,6:25,1,76ers,Celtics,19 - 15,1,N/A,N/A,N/A
+61,Tobias Harris,FG_MISS,None,6:20,1,76ers,Celtics,19 - 15,1,23,3,Jumper
+62,Kyrie Irving,DEFENSIVE_REBOUND,None,6:17,1,Celtics,76ers,19 - 15,0,N/A,N/A,N/A
+63,Marcus Smart,FG_MISS,None,6:11,1,Celtics,76ers,19 - 15,0,27,2,Jumper
+64,Ben Simmons,DEFENSIVE_REBOUND,None,6:08,1,76ers,Celtics,19 - 15,1,N/A,N/A,N/A
+65,Ben Simmons,FG_UNASSISTED,None,6:04,1,76ers,Celtics,19 - 17,1, ,2,Jumper
+66,Marcus Morris,FG_MISS,None,5:48,1,Celtics,76ers,19 - 17,0,12,2,Jumper
+67,Joel Embiid,DEFENSIVE_REBOUND,None,5:46,1,76ers,Celtics,19 - 17,1,N/A,N/A,N/A
+68,Joel Embiid,FG_ASSISTED,Tobias Harris,5:38,1,76ers,Celtics,19 - 19,1,5,2,Jumper
+69,Aron Baynes,FG_ASSISTED,Kyrie Irving,5:20,1,Celtics,76ers,21 - 19,0,0,2,Dunk
+70,Tobias Harris,FG_ASSISTED,Ben Simmons,5:04,1,76ers,Celtics,21 - 21,1,0,2,Dunk
+71,Kyrie Irving,FG_MISS,None,4:49,1,Celtics,76ers,21 - 21,0,13,2,Jumper
+72,Joel Embiid,DEFENSIVE_REBOUND,None,4:47,1,76ers,Celtics,21 - 21,1,N/A,N/A,N/A
+73,Tobias Harris,FG_MISS,None,4:43,1,76ers,Celtics,21 - 21,1,26,3,Jumper
+74,Jayson Tatum,DEFENSIVE_REBOUND,None,4:40,1,Celtics,76ers,21 - 21,0,N/A,N/A,N/A
+75,Jimmy Butler,FOUL_ON_FLOOR,None,4:40,1,76ers,Celtics,21 - 21,1,N/A,N/A,N/A
+76,Mike Scott,SUBSTITUTION,Redick JJ,4:40,1,76ers,Celtics,21 - 21,1,N/A,N/A,N/A
+77,T.J. McConnell,SUBSTITUTION,Embiid Joel,4:40,1,76ers,Celtics,21 - 21,1,N/A,N/A,N/A
+78,Boban Marjanovic,SUBSTITUTION,Simmons Ben,4:40,1,76ers,Celtics,21 - 21,1,N/A,N/A,N/A
+79,Al Horford,SUBSTITUTION,Smart Marcus,4:40,1,Celtics,76ers,21 - 21,0,N/A,N/A,N/A
+80,Jaylen Brown,SUBSTITUTION,Baynes Aron,4:40,1,Celtics,76ers,21 - 21,0,N/A,N/A,N/A
+81,Al Horford,FG_MISS,None,4:25,1,Celtics,76ers,21 - 21,0,26,3,Jumper
+82,Team,DEFENSIVE_REBOUND,None,4:24,1,76ers,Celtics,21 - 21,1,N/A,N/A,N/A
+83,T.J. McConnell,FG_MISS,None,4:12,1,76ers,Celtics,21 - 21,1,14,2,Jumper
+84,Marcus Morris,DEFENSIVE_REBOUND,None,4:09,1,Celtics,76ers,21 - 21,0,N/A,N/A,N/A
+85,Kyrie Irving,FG_UNASSISTED,None,4:03,1,Celtics,76ers,23 - 21,0,10,2,Jumper
+86,Tobias Harris,FG_MISS,None,3:34,1,76ers,Celtics,23 - 21,1, ,2,Jumper
+87,Jimmy Butler,OFFENSIVE_REBOUND,None,3:31,1,76ers,Celtics,23 - 21,1,N/A,N/A,N/A
+88,Boban Marjanovic,FG_MISS,None,3:26,1,76ers,Celtics,23 - 21,1, ,2,Jumper
+89,Marcus Morris,DEFENSIVE_REBOUND,None,3:24,1,Celtics,76ers,23 - 21,0,N/A,N/A,N/A
+90,Jayson Tatum,FG_ASSISTED,Marcus Morris,3:17,1,Celtics,76ers,26 - 21,0,24,3,Jumper
+91,Tobias Harris,FG_ASSISTED,T.J. McConnell,2:59,1,76ers,Celtics,26 - 24,1,25,3,Jumper
+92,Team,Unknown,None,2:58,1,Celtics,76ers,26 - 24,0,N/A,N/A,N/A
+93,James Ennis,SUBSTITUTION,Butler Jimmy,2:58,1,76ers,Celtics,26 - 24,1,N/A,N/A,N/A
+94,Terry Rozier,SUBSTITUTION,Morris Marcus,2:58,1,Celtics,76ers,26 - 24,0,N/A,N/A,N/A
+95,Kyrie Irving,FG_MISS,None,2:42,1,Celtics,76ers,26 - 24,0,25,3,Jumper
+96,Jaylen Brown,OFFENSIVE_REBOUND,None,2:38,1,Celtics,76ers,26 - 24,0,N/A,N/A,N/A
+97,Jayson Tatum,FG_ASSISTED,Jaylen Brown,2:33,1,Celtics,76ers,28 - 24,0,2,2,Jumper
+98,Tobias Harris,FG_MISS,None,2:20,1,76ers,Celtics,28 - 24,1,18,2,Jumper
+99,Jaylen Brown,DEFENSIVE_REBOUND,None,2:17,1,Celtics,76ers,28 - 24,0,N/A,N/A,N/A
+100,Jayson Tatum,FG_MISS,None,2:11,1,Celtics,76ers,28 - 24,0,20,2,Jumper
+101,Mike Scott,DEFENSIVE_REBOUND,None,2:08,1,76ers,Celtics,28 - 24,1,N/A,N/A,N/A
+102,Tobias Harris,FG_MISS,None,1:58,1,76ers,Celtics,28 - 24,1, ,2,Jumper
+103,Al Horford,DEFENSIVE_REBOUND,None,1:56,1,Celtics,76ers,28 - 24,0,N/A,N/A,N/A
+104,Al Horford,FG_ASSISTED,Kyrie Irving,1:49,1,Celtics,76ers,30 - 24,0,15,2,Jumper
+105,Boban Marjanovic,TURNOVER,None,1:40,1,76ers,Celtics,30 - 24,1,N/A,N/A,N/A
+106,Joel Embiid,SUBSTITUTION,McConnell T.J.,1:40,1,76ers,Celtics,30 - 24,1,N/A,N/A,N/A
+107,JJ Redick,SUBSTITUTION,Marjanovic Boban,1:40,1,76ers,Celtics,30 - 24,1,N/A,N/A,N/A
+108,Aron Baynes,SUBSTITUTION,Tatum Jayson,1:40,1,Celtics,76ers,30 - 24,0,N/A,N/A,N/A
+109,Ben Simmons,SUBSTITUTION,Harris Tobias,1:40,1,76ers,Celtics,30 - 24,1,N/A,N/A,N/A
+110,Kyrie Irving,TURNOVER,Mike Scott,1:31,1,Celtics,76ers,30 - 24,0,N/A,N/A,N/A
+111,James Ennis,FG_ASSISTED,Ben Simmons,1:25,1,76ers,Celtics,30 - 26,1,0,2,Dunk
+112,Mike Scott,FOUL_ON_FLOOR,None,1:13,1,76ers,Celtics,30 - 26,1,N/A,N/A,N/A
+113,Kyrie Irving,FT,None,1:13,1,Celtics,76ers,31 - 26,0,N/A,1,N/A
+114,Kyrie Irving,FT,None,1:13,1,Celtics,76ers,32 - 26,0,N/A,1,N/A
+115,Joel Embiid,FG_MISS,None,55.3,1,76ers,Celtics,32 - 26,1,15,2,Jumper
+116,Terry Rozier,DEFENSIVE_REBOUND,None,52.5,1,Celtics,76ers,32 - 26,0,N/A,N/A,N/A
+117,Terry Rozier,FG_ASSISTED,Al Horford,48.5,1,Celtics,76ers,35 - 26,0,23,3,Jumper
+118,Team,Unknown,None,47.5,1,76ers,Celtics,35 - 26,1,N/A,N/A,N/A
+119,Jaylen Brown,FOUL_ON_FLOOR,None,36.2,1,Celtics,76ers,35 - 26,0,N/A,N/A,N/A
+120,Joel Embiid,FT,None,36.2,1,76ers,Celtics,35 - 27,1,N/A,1,N/A
+121,Joel Embiid,FT,None,36.2,1,76ers,Celtics,35 - 28,1,N/A,1,N/A
+122,Terry Rozier,FG_UNASSISTED,None,27.8,1,Celtics,76ers,37 - 28,0,8,2,Jumper
+123,Joel Embiid,FG_ASSISTED,JJ Redick,12.7,1,76ers,Celtics,37 - 30,1, ,2,Jumper
+124,Kyrie Irving,FG_UNASSISTED,None,4.3,1,Celtics,76ers,39 - 30,0, ,2,Jumper
+125,Ben Simmons,FG_MISS,None,1.0,1,76ers,Celtics,39 - 30,1,18,2,Jumper
+126,Team,OFFENSIVE_REBOUND,None,0.1,1,76ers,Celtics,39 - 30,1,N/A,N/A,N/A
+127,End of,Unknown,None,0.0,1,76ers,Celtics,39 - 30,1,N/A,N/A,N/A
+0,Tobias Harris,SUBSTITUTION,Scott Mike,12:00,2,76ers,Celtics,39 - 30,1,N/A,N/A,N/A
+1,Marcus Smart,SUBSTITUTION,Irving Kyrie,12:00,2,Celtics,76ers,39 - 30,0,N/A,N/A,N/A
+2,foul 39,FOUL_ON_FLOOR,None,12:00,2,76ers,Celtics,39 - 30,1,N/A,N/A,N/A
+3,JJ Redick,FG_MISS,None,11:32,2,76ers,Celtics,39 - 30,1,16,2,Jumper
+4,Terry Rozier,DEFENSIVE_REBOUND,None,11:29,2,Celtics,76ers,39 - 30,0,N/A,N/A,N/A
+5,Al Horford,FG_MISS,None,11:22,2,Celtics,76ers,39 - 30,0,10,2,Jumper
+6,Joel Embiid,DEFENSIVE_REBOUND,None,11:20,2,76ers,Celtics,39 - 30,1,N/A,N/A,N/A
+7,Aron Baynes,FOUL_ON_FLOOR,None,11:07,2,Celtics,76ers,39 - 30,0,N/A,N/A,N/A
+8,Joel Embiid,FT,None,11:07,2,76ers,Celtics,39 - 31,1,N/A,1,N/A
+9,Joel Embiid,FT,None,11:07,2,76ers,Celtics,39 - 32,1,N/A,1,N/A
+10,Jaylen Brown,TURNOVER,None,10:59,2,Celtics,76ers,39 - 32,0,N/A,N/A,N/A
+11,Joel Embiid,FG_ASSISTED,JJ Redick,10:47,2,76ers,Celtics,39 - 34,1,7,2,Jumper
+12,Al Horford,FG_UNASSISTED,None,10:26,2,Celtics,76ers,41 - 34,0,8,2,Jumper
+13,Ben Simmons,FOUL_ON_FLOOR,None,10:26,2,76ers,Celtics,41 - 34,1,N/A,N/A,N/A
+14,Al Horford,FT,None,10:26,2,Celtics,76ers,42 - 34,0,N/A,1,N/A
+15,Joel Embiid,FG_ASSISTED,Ben Simmons,10:15,2,76ers,Celtics,42 - 37,1,26,3,Jumper
+16,Al Horford,FG_UNASSISTED,None,9:52,2,Celtics,76ers,44 - 37,0,6,2,Jumper
+17,Tobias Harris,FOUL_ON_FLOOR,None,9:52,2,76ers,Celtics,44 - 37,1,N/A,N/A,N/A
+18,Jimmy Butler,SUBSTITUTION,III Ennis,9:52,2,76ers,Celtics,44 - 37,1,N/A,N/A,N/A
+19,Al Horford,FT,None,9:52,2,Celtics,76ers,45 - 37,0,N/A,1,N/A
+20,Joel Embiid,TURNOVER,None,9:31,2,76ers,Celtics,45 - 37,1,N/A,N/A,N/A
+21,Al Horford,TURNOVER,Joel Embiid,9:09,2,Celtics,76ers,45 - 37,0,N/A,N/A,N/A
+22,JJ Redick,FG_MISS,None,9:05,2,76ers,Celtics,45 - 37,1,26,3,Jumper
+23,Terry Rozier,DEFENSIVE_REBOUND,None,9:01,2,Celtics,76ers,45 - 37,0,N/A,N/A,N/A
+24,Jaylen Brown,FG_ASSISTED,Marcus Smart,8:57,2,Celtics,76ers,47 - 37,0,0,2,Layup
+25,Jimmy Butler,FG_MISS,None,8:38,2,76ers,Celtics,47 - 37,1, ,2,Jumper
+26,Aron Baynes,DEFENSIVE_REBOUND,None,8:36,2,Celtics,76ers,47 - 37,0,N/A,N/A,N/A
+27,Terry Rozier,FG_UNASSISTED,None,8:30,2,Celtics,76ers,50 - 37,0,26,3,Jumper
+28,Ben Simmons,FG_ASSISTED,JJ Redick,8:17,2,76ers,Celtics,50 - 39,1,0,2,Layup
+29,Marcus Smart,TURNOVER,Ben Simmons,8:09,2,Celtics,76ers,50 - 39,0,N/A,N/A,N/A
+30,JJ Redick,FG_MISS,None,8:04,2,76ers,Celtics,50 - 39,1,26,3,Jumper
+31,Marcus Smart,DEFENSIVE_REBOUND,None,8:00,2,Celtics,76ers,50 - 39,0,N/A,N/A,N/A
+32,Aron Baynes,FG_ASSISTED,Marcus Smart,7:56,2,Celtics,76ers,52 - 39,0,0,2,Dunk
+33,Jaylen Brown,FOUL_ON_FLOOR,None,7:42,2,Celtics,76ers,52 - 39,0,N/A,N/A,N/A
+34,Joel Embiid,FT,None,7:42,2,76ers,Celtics,52 - 40,1,N/A,1,N/A
+35,Mike Scott,SUBSTITUTION,Redick JJ,7:42,2,76ers,Celtics,52 - 40,1,N/A,N/A,N/A
+36,Marcus Morris,SUBSTITUTION,Horford Al,7:42,2,Celtics,76ers,52 - 40,0,N/A,N/A,N/A
+37,Joel Embiid,FT,None,7:42,2,76ers,Celtics,52 - 41,1,N/A,1,N/A
+38,Terry Rozier,FG_UNASSISTED,None,7:26,2,Celtics,76ers,55 - 41,0,26,3,Jumper
+39,Jaylen Brown,FOUL_ON_FLOOR,None,7:09,2,Celtics,76ers,55 - 41,0,N/A,N/A,N/A
+40,Joel Embiid,FT,None,7:09,2,76ers,Celtics,55 - 42,1,N/A,1,N/A
+41,T.J. McConnell,SUBSTITUTION,Simmons Ben,7:09,2,76ers,Celtics,55 - 42,1,N/A,N/A,N/A
+42,Joel Embiid,FT,None,7:09,2,76ers,Celtics,55 - 43,1,N/A,1,N/A
+43,Terry Rozier,FG_ASSISTED,Marcus Smart,6:55,2,Celtics,76ers,58 - 43,0,27,3,Jumper
+44,Joel Embiid,TURNOVER,None,6:40,2,76ers,Celtics,58 - 43,1,N/A,N/A,N/A
+45,Joel Embiid,TURNOVER,None,6:40,2,76ers,Celtics,58 - 43,1,N/A,N/A,N/A
+46,Team,Unknown,None,6:40,2,76ers,Celtics,58 - 43,1,N/A,N/A,N/A
+47,Boban Marjanovic,SUBSTITUTION,Embiid Joel,6:40,2,76ers,Celtics,58 - 43,1,N/A,N/A,N/A
+48,Jayson Tatum,SUBSTITUTION,Brown Jaylen,6:40,2,Celtics,76ers,58 - 43,0,N/A,N/A,N/A
+49,Terry Rozier,FG_MISS,None,6:21,2,Celtics,76ers,58 - 43,0,26,3,Jumper
+50,T.J. McConnell,DEFENSIVE_REBOUND,None,6:18,2,76ers,Celtics,58 - 43,1,N/A,N/A,N/A
+51,Boban Marjanovic,FG_ASSISTED,T.J. McConnell,6:04,2,76ers,Celtics,58 - 45,1,16,2,Jumper
+52,Aron Baynes,FG_MISS,None,5:50,2,Celtics,76ers,58 - 45,0,1,2,Jumper
+53,Boban Marjanovic,DEFENSIVE_REBOUND,None,5:50,2,76ers,Celtics,58 - 45,1,N/A,N/A,N/A
+54,T.J. McConnell,FG_MISS,None,5:35,2,76ers,Celtics,58 - 45,1,9,2,Jumper
+55,Mike Scott,OFFENSIVE_REBOUND,None,5:34,2,76ers,Celtics,58 - 45,1,N/A,N/A,N/A
+56,Boban Marjanovic,FG_MISS,None,5:28,2,76ers,Celtics,58 - 45,1,8,2,Jumper
+57,Jayson Tatum,DEFENSIVE_REBOUND,None,5:26,2,Celtics,76ers,58 - 45,0,N/A,N/A,N/A
+58,Aron Baynes,FG_MISS,None,5:19,2,Celtics,76ers,58 - 45,0,27,3,Jumper
+59,Boban Marjanovic,DEFENSIVE_REBOUND,None,5:15,2,76ers,Celtics,58 - 45,1,N/A,N/A,N/A
+60,T.J. McConnell,FG_MISS,None,5:08,2,76ers,Celtics,58 - 45,1, ,2,Jumper
+61,Boban Marjanovic,OFFENSIVE_REBOUND,None,5:08,2,76ers,Celtics,58 - 45,1,N/A,N/A,N/A
+62,Boban Marjanovic,FG_MISS,Marcus Morris,5:07,2,Celtics,76ers,58 - 45,1,0,2,Layup
+63,Team,OFFENSIVE_REBOUND,None,5:07,2,76ers,Celtics,58 - 45,1,N/A,N/A,N/A
+64,Joel Embiid,SUBSTITUTION,Marjanovic Boban,5:07,2,76ers,Celtics,58 - 45,1,N/A,N/A,N/A
+65,Al Horford,SUBSTITUTION,Smart Marcus,5:07,2,Celtics,76ers,58 - 45,0,N/A,N/A,N/A
+66,Kyrie Irving,SUBSTITUTION,Baynes Aron,5:07,2,Celtics,76ers,58 - 45,0,N/A,N/A,N/A
+67,Mike Scott,FG_MISS,None,4:56,2,76ers,Celtics,58 - 45,1, ,2,Jumper
+68,Kyrie Irving,DEFENSIVE_REBOUND,None,4:51,2,Celtics,76ers,58 - 45,0,N/A,N/A,N/A
+69,Joel Embiid,FOUL_ON_FLOOR,None,4:33,2,76ers,Celtics,58 - 45,1,N/A,N/A,N/A
+70,Brett Brown,FOUL_TECHNICAL,None,4:33,2,76ers,Celtics,58 - 45,1,N/A,N/A,N/A
+71,Kyrie Irving,FT_MISS,None,4:33,2,Celtics,76ers,58 - 45,0,N/A,1,N/A
+72,Team,OFFENSIVE_REBOUND,None,4:33,2,Celtics,76ers,58 - 45,0,N/A,N/A,N/A
+73,Kyrie Irving,FT,None,4:33,2,Celtics,76ers,59 - 45,0,N/A,1,N/A
+74,Ben Simmons,SUBSTITUTION,McConnell T.J.,4:33,2,76ers,Celtics,59 - 45,1,N/A,N/A,N/A
+75,Kyrie Irving,FT,None,4:33,2,Celtics,76ers,60 - 45,0,N/A,1,N/A
+76,Jimmy Butler,FG_MISS,None,4:19,2,76ers,Celtics,60 - 45,1,26,3,Jumper
+77,Jayson Tatum,DEFENSIVE_REBOUND,None,4:16,2,Celtics,76ers,60 - 45,0,N/A,N/A,N/A
+78,Jayson Tatum,TURNOVER,None,4:14,2,Celtics,76ers,60 - 45,0,N/A,N/A,N/A
+79,Kyrie Irving,FOUL_ON_FLOOR,None,4:05,2,Celtics,76ers,60 - 45,0,N/A,N/A,N/A
+80,Tobias Harris,FT_MISS,None,4:05,2,76ers,Celtics,60 - 45,1,N/A,1,N/A
+81,Team,OFFENSIVE_REBOUND,None,4:05,2,76ers,Celtics,60 - 45,1,N/A,N/A,N/A
+82,Marcus Smart,SUBSTITUTION,Rozier Terry,4:05,2,Celtics,76ers,60 - 45,0,N/A,N/A,N/A
+83,Tobias Harris,FT,None,4:05,2,76ers,Celtics,60 - 46,1,N/A,1,N/A
+84,Kyrie Irving,FG_MISS,None,3:56,2,Celtics,76ers,60 - 46,0,26,3,Jumper
+85,Joel Embiid,DEFENSIVE_REBOUND,None,3:52,2,76ers,Celtics,60 - 46,1,N/A,N/A,N/A
+86,Jimmy Butler,FG_MISS,None,3:46,2,76ers,Celtics,60 - 46,1,15,2,Jumper
+87,Mike Scott,OFFENSIVE_REBOUND,None,3:42,2,76ers,Celtics,60 - 46,1,N/A,N/A,N/A
+88,Mike Scott's,FG_MISS,Kyrie Irving,3:40,2,Celtics,76ers,60 - 46,1, ,2,Jumper
+89,Marcus Morris,DEFENSIVE_REBOUND,None,3:32,2,Celtics,76ers,60 - 46,0,N/A,N/A,N/A
+90,Kyrie Irving,FG_MISS,None,3:30,2,Celtics,76ers,60 - 46,0,24,3,Jumper
+91,Ben Simmons,DEFENSIVE_REBOUND,None,3:28,2,76ers,Celtics,60 - 46,1,N/A,N/A,N/A
+92,Marcus Smart,FOUL_ON_FLOOR,None,3:25,2,Celtics,76ers,60 - 46,0,N/A,N/A,N/A
+93,Ben Simmons,FT,None,3:25,2,76ers,Celtics,60 - 47,1,N/A,1,N/A
+94,JJ Redick,SUBSTITUTION,Harris Tobias,3:25,2,76ers,Celtics,60 - 47,1,N/A,N/A,N/A
+95,Ben Simmons,FT,None,3:25,2,76ers,Celtics,60 - 48,1,N/A,1,N/A
+96,Marcus Morris,FG_MISS,Ben Simmons,3:14,2,76ers,Celtics,60 - 48,0,3,2,Jumper
+97,Jimmy Butler,DEFENSIVE_REBOUND,None,3:11,2,76ers,Celtics,60 - 48,1,N/A,N/A,N/A
+98,Ben Simmons,FG_MISS,None,3:08,2,76ers,Celtics,60 - 48,1, ,2,Jumper
+99,Ben Simmons,OFFENSIVE_REBOUND,None,3:06,2,76ers,Celtics,60 - 48,1,N/A,N/A,N/A
+100,Mike Scott,FG_ASSISTED,Ben Simmons,3:04,2,76ers,Celtics,60 - 51,1,22,3,Jumper
+101,Team,Unknown,None,3:01,2,Celtics,76ers,60 - 51,0,N/A,N/A,N/A
+102,Al Horford,FG_ASSISTED,Jayson Tatum,2:46,2,Celtics,76ers,62 - 51,0,0,2,Layup
+103,Jimmy Butler,FG_UNASSISTED,None,2:17,2,76ers,Celtics,62 - 53,1,10,2,Jumper
+104,Kyrie Irving,FG_UNASSISTED,None,1:58,2,Celtics,76ers,64 - 53,0, ,2,Jumper
+105,Jimmy Butler,FG_MISS,None,1:52,2,76ers,Celtics,64 - 53,1, ,2,Jumper
+106,Kyrie Irving,DEFENSIVE_REBOUND,None,1:49,2,Celtics,76ers,64 - 53,0,N/A,N/A,N/A
+107,Al Horford,FG_MISS,None,1:44,2,Celtics,76ers,64 - 53,0,25,3,Jumper
+108,Ben Simmons,DEFENSIVE_REBOUND,None,1:39,2,76ers,Celtics,64 - 53,1,N/A,N/A,N/A
+109,Joel Embiid,FG_MISS,None,1:25,2,76ers,Celtics,64 - 53,1,10,2,Jumper
+110,Al Horford,DEFENSIVE_REBOUND,None,1:23,2,Celtics,76ers,64 - 53,0,N/A,N/A,N/A
+111,Marcus Smart,FG_MISS,None,1:08,2,Celtics,76ers,64 - 53,0, ,2,Jumper
+112,Marcus Morris,OFFENSIVE_REBOUND,None,1:05,2,Celtics,76ers,64 - 53,0,N/A,N/A,N/A
+113,Al Horford,FG_ASSISTED,Marcus Morris,1:04,2,Celtics,76ers,67 - 53,0,26,3,Jumper
+114,Jimmy Butler,FG_MISS,None,40.7,2,76ers,Celtics,67 - 53,1,2,2,Jumper
+115,Marcus Morris,DEFENSIVE_REBOUND,None,38.7,2,Celtics,76ers,67 - 53,0,N/A,N/A,N/A
+116,Kyrie Irving,FG_MISS,None,34.4,2,Celtics,76ers,67 - 53,0,25,3,Jumper
+117,Joel Embiid,DEFENSIVE_REBOUND,None,31.8,2,76ers,Celtics,67 - 53,1,N/A,N/A,N/A
+118,Marcus Morris,FOUL_ON_FLOOR,None,26.1,2,Celtics,76ers,67 - 53,0,N/A,N/A,N/A
+119,JJ Redick,FT,None,26.1,2,76ers,Celtics,67 - 54,1,N/A,1,N/A
+120,JJ Redick,FT,None,26.1,2,76ers,Celtics,67 - 55,1,N/A,1,N/A
+121,Marcus Morris,FG_UNASSISTED,None,5.1,2,Celtics,76ers,69 - 55,0,10,2,Jumper
+122,Marcus Smart,FOUL_ON_FLOOR,None,0.0,2,Celtics,76ers,69 - 55,0,N/A,N/A,N/A
+123,JJ Redick,FT,None,0.0,2,76ers,Celtics,69 - 56,1,N/A,1,N/A
+124,JJ Redick,FT,None,0.0,2,76ers,Celtics,69 - 57,1,N/A,1,N/A
+125,JJ Redick,FT,None,0.0,2,76ers,Celtics,69 - 58,1,N/A,1,N/A
+126,End of,Unknown,None,0.0,2,76ers,Celtics,69 - 58,1,N/A,N/A,N/A
+0,Tobias Harris,SUBSTITUTION,Scott Mike,12:00,3,76ers,Celtics,69 - 58,1,N/A,N/A,N/A
+1,shot clock,TURNOVER,None,11:35,3,76ers,Celtics,69 - 58,1,N/A,N/A,N/A
+2,Kyrie Irving,FG_MISS,None,11:20,3,Celtics,76ers,69 - 58,0,26,3,Jumper
+3,Joel Embiid,DEFENSIVE_REBOUND,None,11:16,3,76ers,Celtics,69 - 58,1,N/A,N/A,N/A
+4,Team,Unknown,None,11:08,3,Celtics,76ers,69 - 58,0,N/A,N/A,N/A
+5,Marcus Smart,FOUL_ON_FLOOR,None,11:08,3,Celtics,76ers,69 - 58,0,N/A,N/A,N/A
+6,Jaylen Brown,SUBSTITUTION,Smart Marcus,11:06,3,Celtics,76ers,69 - 58,0,N/A,N/A,N/A
+7,Marcus Smart,Unknown,None,11:06,3,Celtics,76ers,69 - 58,0,N/A,N/A,N/A
+8,Joel Embiid,FOUL_TECHNICAL,None,11:06,3,76ers,Celtics,69 - 58,1,N/A,N/A,N/A
+9,Kyrie Irving,FT,None,11:06,3,Celtics,76ers,70 - 58,0,N/A,1,N/A
+10,Marcus Smart,FOUL_FLAGRANT_2,None,11:06,3,Celtics,76ers,70 - 58,0,N/A,N/A,N/A
+11,Joel Embiid,FT,None,11:06,3,76ers,Celtics,70 - 59,1,N/A,1,N/A
+12,Joel Embiid,FT,None,11:06,3,76ers,Celtics,70 - 60,1,N/A,1,N/A
+13,Joel Embiid,FG_UNASSISTED,None,10:54,3,76ers,Celtics,70 - 62,1,0,2,Layup
+14,Kyrie Irving,FG_MISS,None,10:42,3,Celtics,76ers,70 - 62,0,30,3,Jumper
+15,Ben Simmons,DEFENSIVE_REBOUND,None,10:42,3,76ers,Celtics,70 - 62,1,N/A,N/A,N/A
+16,Marcus Morris,FOUL_ON_FLOOR,None,10:33,3,Celtics,76ers,70 - 62,0,N/A,N/A,N/A
+17,Joel Embiid,FT,None,10:33,3,76ers,Celtics,70 - 63,1,N/A,1,N/A
+18,Joel Embiid,FT,None,10:33,3,76ers,Celtics,70 - 64,1,N/A,1,N/A
+19,Kyrie Irving,TURNOVER,Ben Simmons,10:12,3,Celtics,76ers,70 - 64,0,N/A,N/A,N/A
+20,Ben Simmons,FG_MISS,None,10:06,3,76ers,Celtics,70 - 64,1,0,2,Layup
+21,Joel Embiid,OFFENSIVE_REBOUND,None,10:02,3,76ers,Celtics,70 - 64,1,N/A,N/A,N/A
+22,Joel Embiid,FG_MISS,None,10:02,3,76ers,Celtics,70 - 64,1, ,2,Jumper
+23,Joel Embiid,OFFENSIVE_REBOUND,None,10:02,3,76ers,Celtics,70 - 64,1,N/A,N/A,N/A
+24,Joel Embiid,FG_MISS,None,10:02,3,76ers,Celtics,70 - 64,1,2,2,Jumper
+25,Joel Embiid,OFFENSIVE_REBOUND,None,10:02,3,76ers,Celtics,70 - 64,1,N/A,N/A,N/A
+26,Marcus Morris,FOUL_ON_FLOOR,None,10:02,3,Celtics,76ers,70 - 64,0,N/A,N/A,N/A
+27,Joel Embiid,FT,None,10:02,3,76ers,Celtics,70 - 65,1,N/A,1,N/A
+28,Joel Embiid,FT,None,10:02,3,76ers,Celtics,70 - 66,1,N/A,1,N/A
+29,Joel Embiid,FOUL_ON_FLOOR,None,9:50,3,76ers,Celtics,70 - 66,1,N/A,N/A,N/A
+30,Kyrie Irving,FT,None,9:50,3,Celtics,76ers,71 - 66,0,N/A,1,N/A
+31,Kyrie Irving,FT,None,9:50,3,Celtics,76ers,72 - 66,0,N/A,1,N/A
+32,Ben Simmons,FG_ASSISTED,Jimmy Butler,9:36,3,76ers,Celtics,72 - 68,1,0,2,Layup
+33,Jaylen Brown,FG_ASSISTED,Al Horford,9:24,3,Celtics,76ers,74 - 68,0,17,2,Jumper
+34,Tobias Harris,TURNOVER,Al Horford,9:04,3,76ers,Celtics,74 - 68,1,N/A,N/A,N/A
+35,Jaylen Brown,FG_UNASSISTED,None,8:58,3,Celtics,76ers,76 - 68,0, ,2,Jumper
+36,Jimmy Butler,FG_MISS,None,8:47,3,76ers,Celtics,76 - 68,1,26,3,Jumper
+37,Kyrie Irving,DEFENSIVE_REBOUND,None,8:44,3,Celtics,76ers,76 - 68,0,N/A,N/A,N/A
+38,Kyrie Irving,FG_UNASSISTED,None,8:38,3,Celtics,76ers,78 - 68,0,22,2,Jumper
+39,Team,Unknown,None,8:38,3,76ers,Celtics,79 - 68,1,N/A,N/A,N/A
+40,Jimmy Butler,FG_ASSISTED,Joel Embiid,8:28,3,76ers,Celtics,78 - 70,1,18,2,Jumper
+41,Jayson Tatum,FOUL_ON_FLOOR,None,8:28,3,Celtics,76ers,78 - 70,0,N/A,N/A,N/A
+42,Jimmy Butler,FT,None,8:28,3,76ers,Celtics,78 - 71,1,N/A,1,N/A
+43,Al Horford,FG_MISS,None,8:11,3,Celtics,76ers,78 - 71,0, ,2,Jumper
+44,Kyrie Irving,OFFENSIVE_REBOUND,None,8:08,3,Celtics,76ers,78 - 71,0,N/A,N/A,N/A
+45,Kyrie Irving,FG_UNASSISTED,None,8:07,3,Celtics,76ers,80 - 71,0, ,2,Jumper
+46,Joel Embiid,FG_MISS,None,7:53,3,76ers,Celtics,80 - 71,1,26,3,Jumper
+47,Al Horford,DEFENSIVE_REBOUND,None,7:50,3,Celtics,76ers,80 - 71,0,N/A,N/A,N/A
+48,Marcus Morris,FG_MISS,None,7:36,3,Celtics,76ers,80 - 71,0, ,2,Jumper
+49,Team,DEFENSIVE_REBOUND,None,7:36,3,76ers,Celtics,80 - 71,1,N/A,N/A,N/A
+50,JJ Redick,FG_MISS,None,7:26,3,76ers,Celtics,80 - 71,1,26,3,Jumper
+51,Ben Simmons,OFFENSIVE_REBOUND,None,7:22,3,76ers,Celtics,80 - 71,1,N/A,N/A,N/A
+52,JJ Redick,FG_ASSISTED,Joel Embiid,7:18,3,76ers,Celtics,80 - 74,1,26,3,Jumper
+53,Jayson Tatum,FG_ASSISTED,Al Horford,7:01,3,Celtics,76ers,82 - 74,0,0,2,Layup
+54,JJ Redick,FG_ASSISTED,Ben Simmons,6:48,3,76ers,Celtics,82 - 77,1,28,3,Jumper
+55,Marcus Morris,FG_MISS,None,6:24,3,Celtics,76ers,82 - 77,0,23,2,Jumper
+56,Jimmy Butler,DEFENSIVE_REBOUND,None,6:20,3,76ers,Celtics,82 - 77,1,N/A,N/A,N/A
+57,Tobias Harris,FG_MISS,None,6:12,3,76ers,Celtics,82 - 77,1,26,3,Jumper
+58,Jayson Tatum,DEFENSIVE_REBOUND,None,6:07,3,Celtics,76ers,82 - 77,0,N/A,N/A,N/A
+59,Jayson Tatum,FG_MISS,None,6:02,3,Celtics,76ers,82 - 77,0,0,2,Layup
+60,Joel Embiid,DEFENSIVE_REBOUND,None,5:59,3,76ers,Celtics,82 - 77,1,N/A,N/A,N/A
+61,Joel Embiid,FG_UNASSISTED,None,5:47,3,76ers,Celtics,82 - 79,1,0,2,Dunk
+62,Team,Unknown,None,5:45,3,Celtics,76ers,82 - 79,0,N/A,N/A,N/A
+63,Mike Scott,SUBSTITUTION,Redick JJ,5:45,3,76ers,Celtics,82 - 79,1,N/A,N/A,N/A
+64,James Ennis,SUBSTITUTION,Butler Jimmy,5:45,3,76ers,Celtics,82 - 79,1,N/A,N/A,N/A
+65,T.J. McConnell,SUBSTITUTION,Harris Tobias,5:45,3,76ers,Celtics,82 - 79,1,N/A,N/A,N/A
+66,Terry Rozier,SUBSTITUTION,Morris Marcus,5:45,3,Celtics,76ers,82 - 79,0,N/A,N/A,N/A
+67,Daniel Theis,SUBSTITUTION,Horford Al,5:45,3,Celtics,76ers,82 - 79,0,N/A,N/A,N/A
+68,Semi Ojeleye,SUBSTITUTION,Brown Jaylen,5:45,3,Celtics,76ers,82 - 79,0,N/A,N/A,N/A
+69,Jayson Tatum,FG_MISS,None,5:25,3,Celtics,76ers,82 - 79,0,16,2,Jumper
+70,Joel Embiid,DEFENSIVE_REBOUND,None,5:21,3,76ers,Celtics,82 - 79,1,N/A,N/A,N/A
+71,Joel Embiid,FG_ASSISTED,Mike Scott,5:03,3,76ers,Celtics,82 - 81,1,0,2,Layup
+72,Jayson Tatum,FOUL_ON_FLOOR,None,5:03,3,Celtics,76ers,82 - 81,0,N/A,N/A,N/A
+73,Joel Embiid,FT,None,5:03,3,76ers,Celtics,82 - 82,1,N/A,1,N/A
+74,James Ennis,FOUL_ON_FLOOR,None,4:50,3,76ers,Celtics,82 - 82,1,N/A,N/A,N/A
+75,Kyrie Irving,FG_MISS,None,4:37,3,Celtics,76ers,82 - 82,0,4,2,Jumper
+76,T.J. McConnell,DEFENSIVE_REBOUND,None,4:33,3,76ers,Celtics,82 - 82,1,N/A,N/A,N/A
+77,T.J. McConnell,FG_MISS,None,4:11,3,76ers,Celtics,82 - 82,1,22,3,Jumper
+78,Daniel Theis,DEFENSIVE_REBOUND,None,4:07,3,Celtics,76ers,82 - 82,0,N/A,N/A,N/A
+79,Kyrie Irving,FG_MISS,None,3:59,3,Celtics,76ers,82 - 82,0,20,2,Jumper
+80,James Ennis,DEFENSIVE_REBOUND,None,3:55,3,76ers,Celtics,82 - 82,1,N/A,N/A,N/A
+81,Terry Rozier,FOUL_ON_FLOOR,None,3:48,3,Celtics,76ers,82 - 82,0,N/A,N/A,N/A
+82,Mike Scott,FT_MISS,None,3:48,3,76ers,Celtics,82 - 82,1,N/A,1,N/A
+83,Team,OFFENSIVE_REBOUND,None,3:48,3,76ers,Celtics,82 - 82,1,N/A,N/A,N/A
+84,Mike Scott,FT,None,3:48,3,76ers,Celtics,82 - 83,1,N/A,1,N/A
+85,Jayson Tatum,FG_MISS,Mike Scott,3:28,3,76ers,Celtics,82 - 83,0,0,2,Layup
+86,Joel Embiid,DEFENSIVE_REBOUND,None,3:25,3,76ers,Celtics,82 - 83,1,N/A,N/A,N/A
+87,Mike Scott,TURNOVER,None,3:13,3,76ers,Celtics,82 - 83,1,N/A,N/A,N/A
+88,Kyrie Irving,FG_UNASSISTED,None,2:57,3,Celtics,76ers,84 - 83,0,2,2,Jumper
+89,Daniel Theis,FOUL_ON_FLOOR,None,2:32,3,Celtics,76ers,84 - 83,0,N/A,N/A,N/A
+90,Joel Embiid,FT,None,2:32,3,76ers,Celtics,84 - 84,1,N/A,1,N/A
+91,JJ Redick,SUBSTITUTION,Scott Mike,2:32,3,76ers,Celtics,84 - 84,1,N/A,N/A,N/A
+92,Tobias Harris,SUBSTITUTION,McConnell T.J.,2:32,3,76ers,Celtics,84 - 84,1,N/A,N/A,N/A
+93,Jaylen Brown,SUBSTITUTION,Tatum Jayson,2:32,3,Celtics,76ers,84 - 84,0,N/A,N/A,N/A
+94,Joel Embiid,FT,None,2:32,3,76ers,Celtics,84 - 85,1,N/A,1,N/A
+95,Kyrie Irving,FG_UNASSISTED,None,2:16,3,Celtics,76ers,86 - 85,0,10,2,Jumper
+96,JJ Redick,FG_MISS,None,2:01,3,76ers,Celtics,86 - 85,1,21,2,Jumper
+97,Ben Simmons,OFFENSIVE_REBOUND,None,1:59,3,76ers,Celtics,86 - 85,1,N/A,N/A,N/A
+98,Tobias Harris,FG_MISS,None,1:56,3,76ers,Celtics,86 - 85,1,0,2,Layup
+99,Terry Rozier,DEFENSIVE_REBOUND,None,1:53,3,Celtics,76ers,86 - 85,0,N/A,N/A,N/A
+100,Terry Rozier's,FG_MISS,Ben Simmons,1:49,3,76ers,Celtics,86 - 85,0, ,2,Jumper
+101,Semi Ojeleye,OFFENSIVE_REBOUND,None,1:40,3,Celtics,76ers,86 - 85,0,N/A,N/A,N/A
+102,Semi Ojeleye,FG_UNASSISTED,None,1:40,3,Celtics,76ers,88 - 85,0, ,2,Jumper
+103,Joel Embiid,FG_MISS,None,1:25,3,76ers,Celtics,88 - 85,1,0,2,Layup
+104,Kyrie Irving,DEFENSIVE_REBOUND,None,1:23,3,Celtics,76ers,88 - 85,0,N/A,N/A,N/A
+105,Kyrie Irving,TURNOVER,Ben Simmons,1:19,3,Celtics,76ers,88 - 85,0,N/A,N/A,N/A
+106,Ben Simmons,TURNOVER,None,1:18,3,76ers,Celtics,88 - 85,1,N/A,N/A,N/A
+107,Mike Scott,SUBSTITUTION,Embiid Joel,1:18,3,76ers,Celtics,88 - 85,1,N/A,N/A,N/A
+108,Kyrie Irving,FG_MISS,None,1:03,3,Celtics,76ers,88 - 85,0,16,2,Jumper
+109,Team,OFFENSIVE_REBOUND,None,1:02,3,Celtics,76ers,88 - 85,0,N/A,N/A,N/A
+110,Tobias Harris,FOUL_ON_FLOOR,None,1:02,3,76ers,Celtics,88 - 85,1,N/A,N/A,N/A
+111,Terry Rozier,FG_MISS,None,52.0,3,Celtics,76ers,88 - 85,0, ,2,Jumper
+112,Tobias Harris,DEFENSIVE_REBOUND,None,50.1,3,76ers,Celtics,88 - 85,1,N/A,N/A,N/A
+113,Mike Scott,FG_MISS,None,46.9,3,76ers,Celtics,88 - 85,1,26,3,Jumper
+114,Team,DEFENSIVE_REBOUND,None,43.7,3,Celtics,76ers,88 - 85,0,N/A,N/A,N/A
+115,James Ennis,FOUL_ON_FLOOR,None,43.7,3,76ers,Celtics,88 - 85,1,N/A,N/A,N/A
+116,Semi Ojeleye,FT,None,43.7,3,Celtics,76ers,89 - 85,0,N/A,1,N/A
+117,Al Horford,SUBSTITUTION,Theis Daniel,43.7,3,Celtics,76ers,89 - 85,0,N/A,N/A,N/A
+118,Semi Ojeleye,FT,None,43.7,3,Celtics,76ers,90 - 85,0,N/A,1,N/A
+119,JJ Redick,FG_MISS,None,32.5,3,76ers,Celtics,90 - 85,1,26,3,Jumper
+120,Semi Ojeleye,DEFENSIVE_REBOUND,None,29.7,3,Celtics,76ers,90 - 85,0,N/A,N/A,N/A
+121,Terry Rozier,FG_MISS,JJ Redick,22.3,3,76ers,Celtics,90 - 85,0,0,2,Layup
+122,JJ Redick,DEFENSIVE_REBOUND,None,15.7,3,76ers,Celtics,90 - 85,1,N/A,N/A,N/A
+123,Ben Simmons,FG_MISS,None,4.0,3,76ers,Celtics,90 - 85,1, ,2,Jumper
+124,Terry Rozier,DEFENSIVE_REBOUND,None,1.9,3,Celtics,76ers,90 - 85,0,N/A,N/A,N/A
+125,Terry Rozier,FG_MISS,None,1.0,3,Celtics,76ers,90 - 85,0,32,3,Jumper
+126,Team,OFFENSIVE_REBOUND,None,1.0,3,Celtics,76ers,90 - 85,0,N/A,N/A,N/A
+127,End of,Unknown,None,0.0,3,76ers,Celtics,90 - 85,1,N/A,N/A,N/A
+0,Joel Embiid,SUBSTITUTION,III Ennis,12:00,4,76ers,Celtics,90 - 85,1,N/A,N/A,N/A
+1,Jimmy Butler,SUBSTITUTION,Harris Tobias,12:00,4,76ers,Celtics,90 - 85,1,N/A,N/A,N/A
+2,Marcus Morris,SUBSTITUTION,Irving Kyrie,12:00,4,Celtics,76ers,90 - 85,0,N/A,N/A,N/A
+3,Al Horford,FG_ASSISTED,Terry Rozier,11:40,4,Celtics,76ers,92 - 85,0, ,2,Jumper
+4,Al Horford,FOUL_ON_FLOOR,None,11:17,4,Celtics,76ers,92 - 85,0,N/A,N/A,N/A
+5,Joel Embiid,FT,None,11:17,4,76ers,Celtics,92 - 86,1,N/A,1,N/A
+6,Joel Embiid,FT,None,11:17,4,76ers,Celtics,92 - 87,1,N/A,1,N/A
+7,Al Horford,FG_MISS,None,10:58,4,Celtics,76ers,92 - 87,0, ,2,Jumper
+8,Al Horford,OFFENSIVE_REBOUND,None,10:56,4,Celtics,76ers,92 - 87,0,N/A,N/A,N/A
+9,Semi Ojeleye,FG_ASSISTED,Al Horford,10:54,4,Celtics,76ers,95 - 87,0,26,3,Jumper
+10,JJ Redick,FG_ASSISTED,Ben Simmons,10:48,4,76ers,Celtics,95 - 90,1,25,3,Jumper
+11,Terry Rozier,FG_MISS,None,10:20,4,Celtics,76ers,95 - 90,0,23,3,Jumper
+12,violation 95,Unknown,None,10:20,4,76ers,Celtics,95 - 90,1,N/A,N/A,N/A
+13,Team,OFFENSIVE_REBOUND,None,10:18,4,Celtics,76ers,95 - 90,0,N/A,N/A,N/A
+14,shot clock,TURNOVER,None,10:17,4,Celtics,76ers,95 - 90,0,N/A,N/A,N/A
+15,JJ Redick,FG_MISS,None,10:07,4,76ers,Celtics,95 - 90,1, ,3,Jumper
+16,Terry Rozier,DEFENSIVE_REBOUND,None,10:03,4,Celtics,76ers,95 - 90,0,N/A,N/A,N/A
+17,Al Horford,FG_UNASSISTED,None,9:52,4,Celtics,76ers,97 - 90,0,16,2,Jumper
+18,JJ Redick,FG_MISS,None,9:37,4,76ers,Celtics,97 - 90,1,0,2,Layup
+19,Marcus Morris,DEFENSIVE_REBOUND,None,9:35,4,Celtics,76ers,97 - 90,0,N/A,N/A,N/A
+20,Marcus Morris,FG_MISS,None,9:23,4,Celtics,76ers,97 - 90,0,10,2,Jumper
+21,Joel Embiid,DEFENSIVE_REBOUND,None,9:20,4,76ers,Celtics,97 - 90,1,N/A,N/A,N/A
+22,Mike Scott,FG_MISS,None,9:10,4,76ers,Celtics,97 - 90,1,25,3,Jumper
+23,Al Horford,DEFENSIVE_REBOUND,None,9:07,4,Celtics,76ers,97 - 90,0,N/A,N/A,N/A
+24,Terry Rozier,FG_UNASSISTED,None,8:58,4,Celtics,76ers,99 - 90,0,3,2,Jumper
+25,Team,Unknown,None,8:58,4,76ers,Celtics,97 - 90,1,N/A,N/A,N/A
+26,Tobias Harris,SUBSTITUTION,Scott Mike,8:58,4,76ers,Celtics,99 - 90,1,N/A,N/A,N/A
+27,James Ennis,SUBSTITUTION,Redick JJ,8:58,4,76ers,Celtics,99 - 90,1,N/A,N/A,N/A
+28,Jimmy Butler,FG_ASSISTED,Tobias Harris,8:40,4,76ers,Celtics,99 - 93,1,23,3,Jumper
+29,Terry Rozier,FG_UNASSISTED,None,8:22,4,Celtics,76ers,101 - 93,0,19,2,Jumper
+30,Tobias Harris,FG_UNASSISTED,None,8:05,4,76ers,Celtics,101 - 95,1,21,2,Jumper
+31,Terry Rozier,FG_UNASSISTED,None,7:45,4,Celtics,76ers,103 - 95,0, ,2,Jumper
+32,Tobias Harris,FG_UNASSISTED,None,7:31,4,76ers,Celtics,103 - 97,1,0,2,Layup
+33,Al Horford,FG_MISS,None,7:08,4,Celtics,76ers,103 - 97,0,19,2,Jumper
+34,James Ennis,DEFENSIVE_REBOUND,None,7:05,4,76ers,Celtics,103 - 97,1,N/A,N/A,N/A
+35,Joel Embiid,FG_MISS,None,7:00,4,76ers,Celtics,103 - 97,1,27,3,Jumper
+36,Jaylen Brown,DEFENSIVE_REBOUND,None,6:57,4,Celtics,76ers,103 - 97,0,N/A,N/A,N/A
+37,James Ennis,FOUL_ON_FLOOR,None,6:50,4,76ers,Celtics,103 - 97,1,N/A,N/A,N/A
+38,Daniel Theis,SUBSTITUTION,Horford Al,6:50,4,Celtics,76ers,103 - 97,0,N/A,N/A,N/A
+39,Terry Rozier,FG_MISS,None,6:44,4,Celtics,76ers,103 - 97,0,15,2,Jumper
+40,Tobias Harris,DEFENSIVE_REBOUND,None,6:40,4,76ers,Celtics,103 - 97,1,N/A,N/A,N/A
+41,Semi Ojeleye,FOUL_ON_FLOOR,None,6:35,4,Celtics,76ers,103 - 97,0,N/A,N/A,N/A
+42,Tobias Harris,FT,None,6:35,4,76ers,Celtics,103 - 98,1,N/A,1,N/A
+43,Kyrie Irving,SUBSTITUTION,Brown Jaylen,6:35,4,Celtics,76ers,103 - 98,0,N/A,N/A,N/A
+44,Jayson Tatum,SUBSTITUTION,Ojeleye Semi,6:35,4,Celtics,76ers,103 - 98,0,N/A,N/A,N/A
+45,Tobias Harris,FT,None,6:35,4,76ers,Celtics,103 - 99,1,N/A,1,N/A
+46,Ben Simmons,Unknown,None,6:23,4,76ers,Celtics,103 - 99,1,N/A,N/A,N/A
+47,Team,Unknown,None,6:23,4,Celtics,76ers,103 - 99,0,N/A,N/A,N/A
+48,Terry Rozier,FG_MISS,None,6:10,4,Celtics,76ers,103 - 99,0,27,2,Jumper
+49,Marcus Morris,OFFENSIVE_REBOUND,None,6:06,4,Celtics,76ers,103 - 99,0,N/A,N/A,N/A
+50,Joel Embiid,FOUL_ON_FLOOR,None,5:59,4,76ers,Celtics,103 - 99,1,N/A,N/A,N/A
+51,Kyrie Irving,FT,None,5:59,4,Celtics,76ers,104 - 99,0,N/A,1,N/A
+52,Kyrie Irving,FT,None,5:59,4,Celtics,76ers,105 - 99,0,N/A,1,N/A
+53,James Ennis,FG_MISS,None,5:38,4,76ers,Celtics,105 - 99,1,17,2,Jumper
+54,Joel Embiid,OFFENSIVE_REBOUND,None,5:34,4,76ers,Celtics,105 - 99,1,N/A,N/A,N/A
+55,Joel Embiid,FG_MISS,None,5:34,4,76ers,Celtics,105 - 99,1, ,2,Jumper
+56,Joel Embiid,OFFENSIVE_REBOUND,None,5:34,4,76ers,Celtics,105 - 99,1,N/A,N/A,N/A
+57,Jimmy Butler,FG_ASSISTED,nnis III,5:31,4,76ers,Celtics,105 - 102,1,27,3,Jumper
+58,Daniel Theis,FG_MISS,None,5:18,4,Celtics,76ers,105 - 102,0,21,2,Jumper
+59,Tobias Harris,DEFENSIVE_REBOUND,None,5:15,4,76ers,Celtics,105 - 102,1,N/A,N/A,N/A
+60,Jimmy Butler,FG_UNASSISTED,None,5:05,4,76ers,Celtics,105 - 105,1,26,3,Jumper
+61,Team,Unknown,None,5:03,4,Celtics,76ers,105 - 105,0,N/A,N/A,N/A
+62,Jaylen Brown,SUBSTITUTION,Rozier Terry,5:03,4,Celtics,76ers,105 - 105,0,N/A,N/A,N/A
+63,Al Horford,SUBSTITUTION,Theis Daniel,5:03,4,Celtics,76ers,105 - 105,0,N/A,N/A,N/A
+64,Mike Scott,SUBSTITUTION,Embiid Joel,5:03,4,76ers,Celtics,105 - 105,1,N/A,N/A,N/A
+65,Kyrie Irving,FG_ASSISTED,Jayson Tatum,4:49,4,Celtics,76ers,108 - 105,0,26,3,Jumper
+66,Mike Scott,FG_MISS,None,4:27,4,76ers,Celtics,108 - 105,1,27,3,Jumper
+67,Al Horford,DEFENSIVE_REBOUND,None,4:23,4,Celtics,76ers,108 - 105,0,N/A,N/A,N/A
+68,Kyrie Irving,FG_MISS,None,4:11,4,Celtics,76ers,108 - 105,0,3,2,Jumper
+69,Mike Scott,DEFENSIVE_REBOUND,None,4:08,4,76ers,Celtics,108 - 105,1,N/A,N/A,N/A
+70,Jimmy Butler,FG_MISS,None,4:04,4,76ers,Celtics,108 - 105,1,23,2,Jumper
+71,Team,OFFENSIVE_REBOUND,None,4:04,4,76ers,Celtics,108 - 105,1,N/A,N/A,N/A
+72,Joel Embiid,SUBSTITUTION,III Ennis,4:04,4,76ers,Celtics,108 - 105,1,N/A,N/A,N/A
+73,JJ Redick,SUBSTITUTION,Scott Mike,4:04,4,76ers,Celtics,108 - 105,1,N/A,N/A,N/A
+74,Al Horford,FOUL_ON_FLOOR,None,3:59,4,Celtics,76ers,108 - 105,0,N/A,N/A,N/A
+75,Jimmy Butler,FT,None,3:59,4,76ers,Celtics,108 - 106,1,N/A,1,N/A
+76,Jimmy Butler,FT,None,3:59,4,76ers,Celtics,108 - 107,1,N/A,1,N/A
+77,JJ Redick,FOUL_ON_FLOOR,None,3:45,4,76ers,Celtics,108 - 107,1,N/A,N/A,N/A
+78,Jaylen Brown,FT_MISS,None,3:45,4,Celtics,76ers,108 - 107,0,N/A,1,N/A
+79,Team,OFFENSIVE_REBOUND,None,3:45,4,Celtics,76ers,108 - 107,0,N/A,N/A,N/A
+80,Marcus Morris,TURNOVER,None,3:45,4,Celtics,76ers,108 - 107,0,N/A,N/A,N/A
+81,Joel Embiid,TURNOVER,None,3:29,4,76ers,Celtics,108 - 107,1,N/A,N/A,N/A
+82,Kyrie Irving,FG_MISS,None,3:13,4,Celtics,76ers,108 - 107,0,0,2,Layup
+83,Joel Embiid,DEFENSIVE_REBOUND,None,3:11,4,76ers,Celtics,108 - 107,1,N/A,N/A,N/A
+84,Joel Embiid,FG_ASSISTED,Tobias Harris,3:00,4,76ers,Celtics,108 - 109,1,0,2,Layup
+85,Jayson Tatum,FG_MISS,None,2:46,4,Celtics,76ers,108 - 109,0,23,3,Jumper
+86,Tobias Harris,DEFENSIVE_REBOUND,None,2:46,4,76ers,Celtics,108 - 109,1,N/A,N/A,N/A
+87,Jimmy Butler,FG_UNASSISTED,None,2:24,4,76ers,Celtics,108 - 111,1,0,2,Layup
+88,Al Horford,FG_ASSISTED,Kyrie Irving,2:11,4,Celtics,76ers,111 - 111,0,27,3,Jumper
+89,Tobias Harris,FG_ASSISTED,Jimmy Butler,1:54,4,76ers,Celtics,111 - 113,1,0,2,Dunk
+90,Kyrie Irving,FG_MISS,None,1:40,4,Celtics,76ers,111 - 113,0,25,3,Jumper
+91,Ben Simmons,DEFENSIVE_REBOUND,None,1:36,4,76ers,Celtics,111 - 113,1,N/A,N/A,N/A
+92,Jimmy Butler,FG_MISS,None,1:24,4,76ers,Celtics,111 - 113,1,28,3,Jumper
+93,Jimmy Butler,OFFENSIVE_REBOUND,None,1:20,4,76ers,Celtics,111 - 113,1,N/A,N/A,N/A
+94,Jimmy Butler,FG_MISS,None,1:17,4,76ers,Celtics,111 - 113,1,27,3,Jumper
+95,Marcus Morris,DEFENSIVE_REBOUND,None,1:13,4,Celtics,76ers,111 - 113,0,N/A,N/A,N/A
+96,Jayson Tatum,FG_ASSISTED,Marcus Morris,1:07,4,Celtics,76ers,113 - 113,0,0,2,Layup
+97,Al Horford,FOUL_ON_FLOOR,None,47.4,4,Celtics,76ers,113 - 113,0,N/A,N/A,N/A
+98,Ben Simmons,FG_UNASSISTED,None,40.8,4,76ers,Celtics,113 - 115,1,2,2,Jumper
+99,Marcus Morris,FOUL_ON_FLOOR,None,40.8,4,Celtics,76ers,113 - 115,0,N/A,N/A,N/A
+100,James Ennis,SUBSTITUTION,Redick JJ,40.8,4,76ers,Celtics,113 - 115,1,N/A,N/A,N/A
+101,Daniel Theis,SUBSTITUTION,Brown Jaylen,40.8,4,Celtics,76ers,113 - 115,0,N/A,N/A,N/A
+102,Ben Simmons,FT,None,40.8,4,76ers,Celtics,113 - 116,1,N/A,1,N/A
+103,Team,Unknown,None,40.8,4,Celtics,76ers,113 - 116,0,N/A,N/A,N/A
+104,Jaylen Brown,SUBSTITUTION,Theis Daniel,40.8,4,Celtics,76ers,113 - 116,0,N/A,N/A,N/A
+105,Kyrie Irving,FG_MISS,Joel Embiid,30.7,4,76ers,Celtics,113 - 116,0,9,2,Jumper
+106,Marcus Morris,OFFENSIVE_REBOUND,None,26.7,4,Celtics,76ers,113 - 116,0,N/A,N/A,N/A
+107,Marcus Morris,FG_MISS,None,26.1,4,Celtics,76ers,113 - 116,0,1,2,Jumper
+108,Joel Embiid,DEFENSIVE_REBOUND,None,23.9,4,76ers,Celtics,113 - 116,1,N/A,N/A,N/A
+109,Jimmy Butler,FG_UNASSISTED,None,5.5,4,76ers,Celtics,113 - 118,1,18,2,Jumper
+110,Team,Unknown,None,4.7,4,Celtics,76ers,113 - 118,0,N/A,N/A,N/A
+111,Ben Simmons,FOUL_ON_FLOOR,None,4.7,4,76ers,Celtics,113 - 118,1,N/A,N/A,N/A
+112,Kyrie Irving,FG_MISS,None,1.7,4,Celtics,76ers,113 - 118,0,27,3,Jumper
+113,Jayson Tatum,OFFENSIVE_REBOUND,None,1.7,4,Celtics,76ers,113 - 118,0,N/A,N/A,N/A
+114,Jayson Tatum,FG_UNASSISTED,None,0.2,4,Celtics,76ers,115 - 118,0,16,2,Jumper
+115,End of,Unknown,None,0.0,4,76ers,Celtics,115 - 118,1,N/A,N/A,N/A
+116,End of,Unknown,None,0.0,4,76ers,Celtics,115 - 118,1,N/A,N/A,N/A

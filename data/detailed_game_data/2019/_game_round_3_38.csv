@@ -1,0 +1,478 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Steven Adams,JUMP_BALL,None,12:00,1,Trail Blazers,Thunder,0 - 0,1,N/A,N/A,N/A
+1,Damian Lillard,FG_MISS,None,11:38,1,Trail Blazers,Thunder,0 - 0,1,-,3,Jumper
+2,Al-Farouq Aminu,OFFENSIVE_REBOUND,None,11:37,1,Trail Blazers,Thunder,0 - 0,1,N/A,N/A,N/A
+3,Maurice Harkless,FG_MISS,None,11:33,1,Trail Blazers,Thunder,0 - 0,1,0,2,Layup
+4,Maurice Harkless,OFFENSIVE_REBOUND,None,11:33,1,Trail Blazers,Thunder,0 - 0,1,N/A,N/A,N/A
+5,Maurice Harkless,FG_MISS,None,11:32,1,Trail Blazers,Thunder,0 - 0,1,0,2,Layup
+6,Paul George,DEFENSIVE_REBOUND,None,11:29,1,Thunder,Trail Blazers,0 - 0,0,N/A,N/A,N/A
+7,shot clock,TURNOVER,None,11:07,1,Thunder,Trail Blazers,0 - 0,0,N/A,N/A,N/A
+8,Jusuf Nurkic,TURNOVER,None,10:56,1,Trail Blazers,Thunder,0 - 0,1,N/A,N/A,N/A
+9,Paul George,FG_ASSISTED,Russell Westbrook,10:52,1,Thunder,Trail Blazers,3 - 0,0,23,3,Jumper
+10,Al-Farouq Aminu,FG_MISS,None,10:27,1,Trail Blazers,Thunder,3 - 0,1,25,3,Jumper
+11,Jerami Grant,DEFENSIVE_REBOUND,None,10:24,1,Thunder,Trail Blazers,3 - 0,0,N/A,N/A,N/A
+12,Steven Adams,FG_MISS,None,10:14,1,Thunder,Trail Blazers,3 - 0,0,8,2,Jumper
+13,Maurice Harkless,DEFENSIVE_REBOUND,None,10:12,1,Trail Blazers,Thunder,3 - 0,1,N/A,N/A,N/A
+14,Al-Farouq Aminu,FG_ASSISTED,Damian Lillard,10:05,1,Trail Blazers,Thunder,3 - 2,1,0,2,Layup
+15,Russell Westbrook,FG_MISS,None,9:52,1,Thunder,Trail Blazers,3 - 2,0,3,2,Jumper
+16,Al-Farouq Aminu,DEFENSIVE_REBOUND,None,9:51,1,Trail Blazers,Thunder,3 - 2,1,N/A,N/A,N/A
+17,CJ McCollum,FG_MISS,None,9:45,1,Trail Blazers,Thunder,3 - 2,1,-,2,Jumper
+18,Al-Farouq Aminu,OFFENSIVE_REBOUND,None,9:41,1,Trail Blazers,Thunder,3 - 2,1,N/A,N/A,N/A
+19,Al-Farouq Aminu,FG_UNASSISTED,None,9:41,1,Trail Blazers,Thunder,3 - 4,1,-,2,Jumper
+20,Paul George,FG_MISS,Maurice Harkless,9:29,1,Trail Blazers,Thunder,3 - 4,0,0,2,Layup
+21,Al-Farouq Aminu,DEFENSIVE_REBOUND,None,9:27,1,Trail Blazers,Thunder,3 - 4,1,N/A,N/A,N/A
+22,Damian Lillard,FG_UNASSISTED,None,9:19,1,Trail Blazers,Thunder,3 - 6,1,0,2,Layup
+23,Jusuf Nurkic,FOUL_ON_FLOOR,None,9:06,1,Trail Blazers,Thunder,3 - 6,1,N/A,N/A,N/A
+24,Paul George,FT_MISS,None,9:06,1,Thunder,Trail Blazers,3 - 6,0,N/A,1,N/A
+25,Team,OFFENSIVE_REBOUND,None,9:06,1,Thunder,Trail Blazers,3 - 6,0,N/A,N/A,N/A
+26,Paul George,FT,None,9:06,1,Thunder,Trail Blazers,4 - 6,0,N/A,1,N/A
+27,Jusuf Nurkic,FG_UNASSISTED,None,8:47,1,Trail Blazers,Thunder,4 - 8,1,2,2,Jumper
+28,Paul George,FG_MISS,None,8:36,1,Thunder,Trail Blazers,4 - 8,0,-,2,Jumper
+29,Steven Adams,OFFENSIVE_REBOUND,None,8:33,1,Thunder,Trail Blazers,4 - 8,0,N/A,N/A,N/A
+30,Paul George,FG_ASSISTED,Steven Adams,8:31,1,Thunder,Trail Blazers,7 - 8,0,25,3,Jumper
+31,Jusuf Nurkic,FG_MISS,None,8:17,1,Trail Blazers,Thunder,7 - 8,1,22,2,Jumper
+32,Jerami Grant,DEFENSIVE_REBOUND,None,8:15,1,Thunder,Trail Blazers,7 - 8,0,N/A,N/A,N/A
+33,Terrance Ferguson,TURNOVER,None,8:13,1,Thunder,Trail Blazers,7 - 8,0,N/A,N/A,N/A
+34,Al-Farouq Aminu,FG_MISS,None,8:03,1,Trail Blazers,Thunder,7 - 8,1,26,3,Jumper
+35,Terrance Ferguson,DEFENSIVE_REBOUND,None,8:01,1,Thunder,Trail Blazers,7 - 8,0,N/A,N/A,N/A
+36,Russell Westbrook,FG_UNASSISTED,None,7:54,1,Thunder,Trail Blazers,9 - 8,0,11,2,Jumper
+37,Damian Lillard,FG_UNASSISTED,None,7:43,1,Trail Blazers,Thunder,9 - 11,1,25,3,Jumper
+38,Russell Westbrook,FG_UNASSISTED,None,7:34,1,Thunder,Trail Blazers,11 - 11,0, ,2,Jumper
+39,Damian Lillard,FG_MISS,None,7:23,1,Trail Blazers,Thunder,11 - 11,1, ,2,Jumper
+40,Team,DEFENSIVE_REBOUND,None,7:22,1,Thunder,Trail Blazers,11 - 11,0,N/A,N/A,N/A
+41,Steven Adams,FG_MISS,None,7:06,1,Thunder,Trail Blazers,11 - 11,0, ,2,Jumper
+42,Al-Farouq Aminu,DEFENSIVE_REBOUND,None,7:03,1,Trail Blazers,Thunder,11 - 11,1,N/A,N/A,N/A
+43,CJ McCollum,FG_MISS,None,6:56,1,Trail Blazers,Thunder,11 - 11,1,21,2,Jumper
+44,Steven Adams,DEFENSIVE_REBOUND,None,6:51,1,Thunder,Trail Blazers,11 - 11,0,N/A,N/A,N/A
+45,Maurice Harkless,FOUL_ON_FLOOR,None,6:46,1,Trail Blazers,Thunder,11 - 11,1,N/A,N/A,N/A
+46,Team,Unknown,None,6:46,1,Trail Blazers,Thunder,11 - 11,1,N/A,N/A,N/A
+47,Paul George,FT,None,6:46,1,Thunder,Trail Blazers,12 - 11,0,N/A,1,N/A
+48,Paul George,FT,None,6:46,1,Thunder,Trail Blazers,13 - 11,0,N/A,1,N/A
+49,Jusuf Nurkic,FG_ASSISTED,Damian Lillard,6:36,1,Trail Blazers,Thunder,13 - 13,1, ,2,Jumper
+50,Russell Westbrook,FG_MISS,None,6:24,1,Thunder,Trail Blazers,13 - 13,0, ,2,Jumper
+51,Team,DEFENSIVE_REBOUND,None,6:21,1,Trail Blazers,Thunder,13 - 13,1,N/A,N/A,N/A
+52,CJ McCollum's,FG_MISS,Terrance Ferguson,6:09,1,Thunder,Trail Blazers,13 - 13,1, ,2,Jumper
+53,Team,DEFENSIVE_REBOUND,None,6:08,1,Thunder,Trail Blazers,13 - 13,0,N/A,N/A,N/A
+54,Jerami Grant,FG_UNASSISTED,None,5:54,1,Thunder,Trail Blazers,15 - 13,0,0,2,Layup
+55,Jusuf Nurkic,FG_ASSISTED,Damian Lillard,5:41,1,Trail Blazers,Thunder,15 - 15,1,3,2,Jumper
+56,Paul George,FG_MISS,None,5:31,1,Thunder,Trail Blazers,15 - 15,0, ,2,Jumper
+57,Maurice Harkless,DEFENSIVE_REBOUND,None,5:28,1,Trail Blazers,Thunder,15 - 15,1,N/A,N/A,N/A
+58,CJ McCollum,FG_ASSISTED,Jusuf Nurkic,5:21,1,Trail Blazers,Thunder,15 - 18,1,26,3,Jumper
+59,Russell Westbrook,FOUL_ON_FLOOR,None,5:11,1,Thunder,Trail Blazers,15 - 18,0,N/A,N/A,N/A
+60,Russell Westbrook,TURNOVER,None,5:11,1,Thunder,Trail Blazers,15 - 18,0,N/A,N/A,N/A
+61,Evan Turner,SUBSTITUTION,Harkless Maurice,5:11,1,Trail Blazers,Thunder,15 - 18,1,N/A,N/A,N/A
+62,Dennis Schroder,SUBSTITUTION,Ferguson Terrance,5:11,1,Thunder,Trail Blazers,15 - 18,0,N/A,N/A,N/A
+63,Jusuf Nurkic,FG_ASSISTED,CJ McCollum,4:58,1,Trail Blazers,Thunder,15 - 20,1,1,2,Jumper
+64,Jerami Grant,FG_MISS,None,4:50,1,Thunder,Trail Blazers,15 - 20,0,0,2,Layup
+65,Al-Farouq Aminu,DEFENSIVE_REBOUND,None,4:47,1,Trail Blazers,Thunder,15 - 20,1,N/A,N/A,N/A
+66,CJ McCollum,FG_MISS,None,4:36,1,Trail Blazers,Thunder,15 - 20,1,19,2,Jumper
+67,Steven Adams,DEFENSIVE_REBOUND,None,4:34,1,Thunder,Trail Blazers,15 - 20,0,N/A,N/A,N/A
+68,Russell Westbrook,FG_MISS,None,4:25,1,Thunder,Trail Blazers,15 - 20,0,25,3,Jumper
+69,Team,DEFENSIVE_REBOUND,None,4:23,1,Trail Blazers,Thunder,15 - 20,1,N/A,N/A,N/A
+70,Damian Lillard,FG_ASSISTED,Al-Farouq Aminu,4:12,1,Trail Blazers,Thunder,15 - 22,1,11,2,Jumper
+71,Russell Westbrook,FG_UNASSISTED,None,3:58,1,Thunder,Trail Blazers,17 - 22,0,9,2,Jumper
+72,Damian Lillard,TURNOVER,Steven Adams,3:45,1,Trail Blazers,Thunder,17 - 22,1,N/A,N/A,N/A
+73,Al-Farouq Aminu,FOUL_ON_FLOOR,None,3:40,1,Trail Blazers,Thunder,17 - 22,1,N/A,N/A,N/A
+74,Jerami Grant,FT,None,3:40,1,Thunder,Trail Blazers,18 - 22,0,N/A,1,N/A
+75,Seth Curry,SUBSTITUTION,McCollum CJ,3:40,1,Trail Blazers,Thunder,18 - 22,1,N/A,N/A,N/A
+76,Jerami Grant,FT,None,3:40,1,Thunder,Trail Blazers,19 - 22,0,N/A,1,N/A
+77,Seth Curry,FG_MISS,Steven Adams,3:22,1,Thunder,Trail Blazers,19 - 22,1,3,2,Jumper
+78,Jusuf Nurkic,OFFENSIVE_REBOUND,None,3:18,1,Trail Blazers,Thunder,19 - 22,1,N/A,N/A,N/A
+79,Jusuf Nurkic,FG_UNASSISTED,None,3:18,1,Trail Blazers,Thunder,19 - 24,1, ,2,Jumper
+80,Russell Westbrook,FG_UNASSISTED,None,3:13,1,Thunder,Trail Blazers,21 - 24,0,0,2,Layup
+81,Damian Lillard,FG_UNASSISTED,None,3:04,1,Trail Blazers,Thunder,21 - 26,1,14,2,Jumper
+82,Paul George,FG_UNASSISTED,None,2:43,1,Thunder,Trail Blazers,23 - 26,0, ,2,Jumper
+83,Evan Turner,FOUL_ON_FLOOR,None,2:43,1,Trail Blazers,Thunder,23 - 26,1,N/A,N/A,N/A
+84,Team,Unknown,None,2:43,1,Thunder,Trail Blazers,23 - 26,0,N/A,N/A,N/A
+85,Abdel Nader,SUBSTITUTION,Westbrook Russell,2:43,1,Thunder,Trail Blazers,23 - 26,0,N/A,N/A,N/A
+86,Paul George,FT_MISS,None,2:43,1,Thunder,Trail Blazers,23 - 26,0,N/A,1,N/A
+87,Seth Curry,DEFENSIVE_REBOUND,None,2:41,1,Trail Blazers,Thunder,23 - 26,1,N/A,N/A,N/A
+88,Jusuf Nurkic,FG_ASSISTED,Damian Lillard,2:23,1,Trail Blazers,Thunder,23 - 28,1,5,2,Jumper
+89,Dennis Schroder,FG_MISS,None,2:09,1,Thunder,Trail Blazers,23 - 28,0,15,2,Jumper
+90,Jusuf Nurkic,DEFENSIVE_REBOUND,None,2:06,1,Trail Blazers,Thunder,23 - 28,1,N/A,N/A,N/A
+91,Seth Curry,FG_MISS,None,1:49,1,Trail Blazers,Thunder,23 - 28,1,26,3,Jumper
+92,Paul George,DEFENSIVE_REBOUND,None,1:48,1,Thunder,Trail Blazers,23 - 28,0,N/A,N/A,N/A
+93,Dennis Schroder,FG_MISS,None,1:38,1,Thunder,Trail Blazers,23 - 28,0, ,2,Jumper
+94,Al-Farouq Aminu,DEFENSIVE_REBOUND,None,1:36,1,Trail Blazers,Thunder,23 - 28,1,N/A,N/A,N/A
+95,Steven Adams,FOUL_ON_FLOOR,None,1:27,1,Thunder,Trail Blazers,23 - 28,0,N/A,N/A,N/A
+96,Meyers Leonard,SUBSTITUTION,Aminu Al-Farouq,1:27,1,Trail Blazers,Thunder,23 - 28,1,N/A,N/A,N/A
+97,Zach Collins,SUBSTITUTION,Nurkic Jusuf,1:27,1,Trail Blazers,Thunder,23 - 28,1,N/A,N/A,N/A
+98,Nerlens Noel,SUBSTITUTION,Grant Jerami,1:27,1,Thunder,Trail Blazers,23 - 28,0,N/A,N/A,N/A
+99,Patrick Patterson,SUBSTITUTION,Adams Steven,1:27,1,Thunder,Trail Blazers,23 - 28,0,N/A,N/A,N/A
+100,Seth Curry,FG_MISS,None,1:14,1,Trail Blazers,Thunder,23 - 28,1,25,3,Jumper
+101,Nerlens Noel,DEFENSIVE_REBOUND,None,1:11,1,Thunder,Trail Blazers,23 - 28,0,N/A,N/A,N/A
+102,Patrick Patterson,FG_ASSISTED,Paul George,1:02,1,Thunder,Trail Blazers,26 - 28,0,26,3,Jumper
+103,Meyers Leonard,FG_MISS,None,49.2,1,Trail Blazers,Thunder,26 - 28,1,14,2,Jumper
+104,Nerlens Noel,DEFENSIVE_REBOUND,None,43.1,1,Thunder,Trail Blazers,26 - 28,0,N/A,N/A,N/A
+105,Evan Turner,FOUL_ON_FLOOR,None,36.8,1,Trail Blazers,Thunder,26 - 28,1,N/A,N/A,N/A
+106,Paul George,FT,None,36.8,1,Thunder,Trail Blazers,27 - 28,0,N/A,1,N/A
+107,Paul George,FT,None,36.8,1,Thunder,Trail Blazers,28 - 28,0,N/A,1,N/A
+108,Meyers Leonard,TURNOVER,Dennis Schroder,30.2,1,Trail Blazers,Thunder,28 - 28,1,N/A,N/A,N/A
+109,Dennis Schroder,FG_MISS,Meyers Leonard,26.4,1,Trail Blazers,Thunder,28 - 28,0,23,3,Jumper
+110,Dennis Schroder,OFFENSIVE_REBOUND,None,23.1,1,Thunder,Trail Blazers,28 - 28,0,N/A,N/A,N/A
+111,Dennis Schroder,TURNOVER,Damian Lillard,22.5,1,Thunder,Trail Blazers,28 - 28,0,N/A,N/A,N/A
+112,Damian Lillard,FG_MISS,None,18.8,1,Trail Blazers,Thunder,28 - 28,1,25,2,Jumper
+113,Nerlens Noel,DEFENSIVE_REBOUND,None,17.1,1,Thunder,Trail Blazers,28 - 28,0,N/A,N/A,N/A
+114,Paul George,FG_MISS,None,0.0,1,Thunder,Trail Blazers,28 - 28,0,28,3,Jumper
+115,Team,OFFENSIVE_REBOUND,None,0.0,1,Thunder,Trail Blazers,28 - 28,0,N/A,N/A,N/A
+116,End of,Unknown,None,0.0,1,Trail Blazers,Thunder,28 - 28,1,N/A,N/A,N/A
+0,Jake Layman,SUBSTITUTION,Lillard Damian,12:00,2,Trail Blazers,Thunder,28 - 28,1,N/A,N/A,N/A
+1,Hamidou Diallo,SUBSTITUTION,George Paul,12:00,2,Thunder,Trail Blazers,28 - 28,0,N/A,N/A,N/A
+2,Abdel Nader,FG_MISS,None,11:42,2,Thunder,Trail Blazers,28 - 28,0, ,2,Jumper
+3,Hamidou Diallo,OFFENSIVE_REBOUND,None,11:40,2,Thunder,Trail Blazers,28 - 28,0,N/A,N/A,N/A
+4,Hamidou Diallo,FG_MISS,None,11:40,2,Thunder,Trail Blazers,28 - 28,0, ,2,Jumper
+5,Nerlens Noel,OFFENSIVE_REBOUND,None,11:37,2,Thunder,Trail Blazers,28 - 28,0,N/A,N/A,N/A
+6,Nerlens Noel,FG_UNASSISTED,None,11:37,2,Thunder,Trail Blazers,30 - 28,0, ,2,Jumper
+7,Jake Layman,FG_ASSISTED,Evan Turner,11:21,2,Trail Blazers,Thunder,30 - 30,1,16,2,Jumper
+8,Patrick Patterson,FG_ASSISTED,Dennis Schroder,11:03,2,Thunder,Trail Blazers,33 - 30,0,25,3,Jumper
+9,Jake Layman,FG_ASSISTED,Evan Turner,10:45,2,Trail Blazers,Thunder,33 - 32,1, ,2,Jumper
+10,Abdel Nader,FG_MISS,None,10:32,2,Thunder,Trail Blazers,33 - 32,0,24,3,Jumper
+11,Evan Turner,DEFENSIVE_REBOUND,None,10:28,2,Trail Blazers,Thunder,33 - 32,1,N/A,N/A,N/A
+12,Jake Layman,FG_ASSISTED,Evan Turner,10:25,2,Trail Blazers,Thunder,33 - 34,1,0,2,Layup
+13,Dennis Schroder,FG_UNASSISTED,None,10:13,2,Thunder,Trail Blazers,35 - 34,0, ,2,Jumper
+14,Zach Collins,FG_ASSISTED,Evan Turner,10:04,2,Trail Blazers,Thunder,35 - 36,1,0,2,Layup
+15,Nerlens Noel,FG_ASSISTED,Dennis Schroder,9:51,2,Thunder,Trail Blazers,37 - 36,0, ,2,Jumper
+16,Seth Curry,FG_ASSISTED,Meyers Leonard,9:35,2,Trail Blazers,Thunder,37 - 39,1,24,3,Jumper
+17,Team,Unknown,None,9:34,2,Thunder,Trail Blazers,37 - 39,0,N/A,N/A,N/A
+18,Patrick Patterson,FG_MISS,None,9:18,2,Thunder,Trail Blazers,37 - 39,0,24,3,Jumper
+19,Evan Turner,DEFENSIVE_REBOUND,None,9:16,2,Trail Blazers,Thunder,37 - 39,1,N/A,N/A,N/A
+20,Meyers Leonard,FG_ASSISTED,Evan Turner,9:00,2,Trail Blazers,Thunder,37 - 42,1,25,3,Jumper
+21,Dennis Schroder,FG_MISS,None,8:49,2,Thunder,Trail Blazers,37 - 42,0,15,2,Jumper
+22,Zach Collins,DEFENSIVE_REBOUND,None,8:46,2,Trail Blazers,Thunder,37 - 42,1,N/A,N/A,N/A
+23,Seth Curry's,FG_MISS,Nerlens Noel,8:31,2,Thunder,Trail Blazers,37 - 42,1, ,2,Jumper
+24,Seth Curry,OFFENSIVE_REBOUND,None,8:28,2,Trail Blazers,Thunder,37 - 42,1,N/A,N/A,N/A
+25,Seth Curry,FG_MISS,None,8:28,2,Trail Blazers,Thunder,37 - 42,1,23,3,Jumper
+26,Hamidou Diallo,DEFENSIVE_REBOUND,None,8:28,2,Thunder,Trail Blazers,37 - 42,0,N/A,N/A,N/A
+27,Nerlens Noel,FG_ASSISTED,Patrick Patterson,8:18,2,Thunder,Trail Blazers,39 - 42,0,0,2,Layup
+28,Evan Turner,TURNOVER,Hamidou Diallo,8:05,2,Trail Blazers,Thunder,39 - 42,1,N/A,N/A,N/A
+29,Dennis Schroder,FG_MISS,None,8:01,2,Thunder,Trail Blazers,39 - 42,0, ,2,Jumper
+30,Jake Layman,DEFENSIVE_REBOUND,None,7:58,2,Trail Blazers,Thunder,39 - 42,1,N/A,N/A,N/A
+31,Evan Turner,FG_ASSISTED,Seth Curry,7:52,2,Trail Blazers,Thunder,39 - 44,1,0,2,Layup
+32,Hamidou Diallo,FG_MISS,None,7:38,2,Thunder,Trail Blazers,39 - 44,0,25,3,Jumper
+33,Meyers Leonard,DEFENSIVE_REBOUND,None,7:36,2,Trail Blazers,Thunder,39 - 44,1,N/A,N/A,N/A
+34,Jake Layman,FG_ASSISTED,Evan Turner,7:30,2,Trail Blazers,Thunder,39 - 47,1, ,3,Jumper
+35,Nerlens Noel,FG_ASSISTED,Dennis Schroder,7:13,2,Thunder,Trail Blazers,41 - 47,0,0,2,Dunk
+36,Jake Layman,FG_MISS,None,6:55,2,Trail Blazers,Thunder,41 - 47,1,0,2,Dunk
+37,Dennis Schroder,DEFENSIVE_REBOUND,None,6:54,2,Thunder,Trail Blazers,41 - 47,0,N/A,N/A,N/A
+38,Dennis Schroder,FG_MISS,None,6:49,2,Thunder,Trail Blazers,41 - 47,0, ,2,Jumper
+39,Zach Collins,DEFENSIVE_REBOUND,None,6:47,2,Trail Blazers,Thunder,41 - 47,1,N/A,N/A,N/A
+40,Evan Turner,TURNOVER,None,6:42,2,Trail Blazers,Thunder,41 - 47,1,N/A,N/A,N/A
+41,Terrance Ferguson,SUBSTITUTION,Nader Abdel,6:42,2,Thunder,Trail Blazers,41 - 47,0,N/A,N/A,N/A
+42,Russell Westbrook,SUBSTITUTION,Diallo Hamidou,6:42,2,Thunder,Trail Blazers,41 - 47,0,N/A,N/A,N/A
+43,Dennis Schroder,FG_MISS,None,6:24,2,Thunder,Trail Blazers,41 - 47,0,25,3,Jumper
+44,Zach Collins,DEFENSIVE_REBOUND,None,6:21,2,Trail Blazers,Thunder,41 - 47,1,N/A,N/A,N/A
+45,Seth Curry,FG_MISS,None,6:07,2,Trail Blazers,Thunder,41 - 47,1,26,3,Jumper
+46,Team,DEFENSIVE_REBOUND,None,6:06,2,Thunder,Trail Blazers,41 - 47,0,N/A,N/A,N/A
+47,CJ McCollum,SUBSTITUTION,Curry Seth,6:06,2,Trail Blazers,Thunder,41 - 47,1,N/A,N/A,N/A
+48,Paul George,SUBSTITUTION,Noel Nerlens,6:06,2,Thunder,Trail Blazers,41 - 47,0,N/A,N/A,N/A
+49,Steven Adams,SUBSTITUTION,Schroder Dennis,6:06,2,Thunder,Trail Blazers,41 - 47,0,N/A,N/A,N/A
+50,Russell Westbrook,FG_MISS,None,5:54,2,Thunder,Trail Blazers,41 - 47,0,19,2,Jumper
+51,Steven Adams,OFFENSIVE_REBOUND,None,5:51,2,Thunder,Trail Blazers,41 - 47,0,N/A,N/A,N/A
+52,Terrance Ferguson,FG_ASSISTED,Steven Adams,5:49,2,Thunder,Trail Blazers,44 - 47,0,24,3,Jumper
+53,Evan Turner,FG_MISS,None,5:23,2,Trail Blazers,Thunder,44 - 47,1,14,2,Jumper
+54,Russell Westbrook,DEFENSIVE_REBOUND,None,5:22,2,Thunder,Trail Blazers,44 - 47,0,N/A,N/A,N/A
+55,Patrick Patterson,FG_MISS,None,5:15,2,Thunder,Trail Blazers,44 - 47,0, ,3,Jumper
+56,Steven Adams,OFFENSIVE_REBOUND,None,5:12,2,Thunder,Trail Blazers,44 - 47,0,N/A,N/A,N/A
+57,Russell Westbrook,FG_MISS,None,5:07,2,Thunder,Trail Blazers,44 - 47,0,23,3,Jumper
+58,Evan Turner,DEFENSIVE_REBOUND,None,5:04,2,Trail Blazers,Thunder,44 - 47,1,N/A,N/A,N/A
+59,Terrance Ferguson,FOUL_ON_FLOOR,None,5:01,2,Thunder,Trail Blazers,44 - 47,0,N/A,N/A,N/A
+60,Zach Collins,FT,None,5:01,2,Trail Blazers,Thunder,44 - 48,1,N/A,1,N/A
+61,Damian Lillard,SUBSTITUTION,Turner Evan,5:01,2,Trail Blazers,Thunder,44 - 48,1,N/A,N/A,N/A
+62,Maurice Harkless,SUBSTITUTION,Layman Jake,5:01,2,Trail Blazers,Thunder,44 - 48,1,N/A,N/A,N/A
+63,Jusuf Nurkic,SUBSTITUTION,Leonard Meyers,5:01,2,Trail Blazers,Thunder,44 - 48,1,N/A,N/A,N/A
+64,Jerami Grant,SUBSTITUTION,Patterson Patrick,5:01,2,Thunder,Trail Blazers,44 - 48,0,N/A,N/A,N/A
+65,Zach Collins,FT,None,5:01,2,Trail Blazers,Thunder,44 - 49,1,N/A,1,N/A
+66,Paul George,FG_UNASSISTED,None,4:45,2,Thunder,Trail Blazers,46 - 49,0,0,2,Layup
+67,Russell Westbrook,FOUL_ON_FLOOR,None,4:41,2,Thunder,Trail Blazers,46 - 49,0,N/A,N/A,N/A
+68,Al-Farouq Aminu,SUBSTITUTION,Collins Zach,4:41,2,Trail Blazers,Thunder,46 - 49,1,N/A,N/A,N/A
+69,Jusuf Nurkic,FG_UNASSISTED,None,4:30,2,Trail Blazers,Thunder,46 - 51,1,3,2,Jumper
+70,Jerami Grant,FG_MISS,Jusuf Nurkic,4:18,2,Trail Blazers,Thunder,46 - 51,0,0,2,Layup
+71,Team,OFFENSIVE_REBOUND,None,4:18,2,Thunder,Trail Blazers,46 - 51,0,N/A,N/A,N/A
+72,Jerami Grant,FG_MISS,None,4:14,2,Thunder,Trail Blazers,46 - 51,0,23,3,Jumper
+73,Jusuf Nurkic,DEFENSIVE_REBOUND,None,4:13,2,Trail Blazers,Thunder,46 - 51,1,N/A,N/A,N/A
+74,Terrance Ferguson,FOUL_ON_FLOOR,None,4:02,2,Thunder,Trail Blazers,46 - 51,0,N/A,N/A,N/A
+75,Damian Lillard,FT,None,4:02,2,Trail Blazers,Thunder,46 - 52,1,N/A,1,N/A
+76,Damian Lillard,FT,None,4:02,2,Trail Blazers,Thunder,46 - 53,1,N/A,1,N/A
+77,Russell Westbrook,FG_MISS,None,3:50,2,Thunder,Trail Blazers,46 - 53,0,15,2,Jumper
+78,Jusuf Nurkic,DEFENSIVE_REBOUND,None,3:49,2,Trail Blazers,Thunder,46 - 53,1,N/A,N/A,N/A
+79,Damian Lillard,FG_UNASSISTED,None,3:41,2,Trail Blazers,Thunder,46 - 55,1,1,2,Jumper
+80,Damian Lillard,FOUL_ON_FLOOR,None,3:35,2,Trail Blazers,Thunder,46 - 55,1,N/A,N/A,N/A
+81,Damian Lillard,FOUL_ON_FLOOR,None,3:30,2,Trail Blazers,Thunder,46 - 55,1,N/A,N/A,N/A
+82,Russell Westbrook,FT_MISS,None,3:30,2,Thunder,Trail Blazers,46 - 55,0,N/A,1,N/A
+83,Team,OFFENSIVE_REBOUND,None,3:30,2,Thunder,Trail Blazers,46 - 55,0,N/A,N/A,N/A
+84,Russell Westbrook,FT,None,3:30,2,Thunder,Trail Blazers,47 - 55,0,N/A,1,N/A
+85,Maurice Harkless,FG_ASSISTED,Damian Lillard,3:22,2,Trail Blazers,Thunder,47 - 58,1,25,3,Jumper
+86,Paul George,FG_ASSISTED,Russell Westbrook,3:06,2,Thunder,Trail Blazers,49 - 58,0,0,2,Layup
+87,CJ McCollum,TURNOVER,Steven Adams,2:54,2,Trail Blazers,Thunder,49 - 58,1,N/A,N/A,N/A
+88,Russell Westbrook,FOUL_ON_FLOOR,None,2:47,2,Thunder,Trail Blazers,49 - 58,0,N/A,N/A,N/A
+89,Russell Westbrook,TURNOVER,None,2:47,2,Thunder,Trail Blazers,49 - 58,0,N/A,N/A,N/A
+90,Team,Unknown,None,2:47,2,Trail Blazers,Thunder,49 - 58,1,N/A,N/A,N/A
+91,Dennis Schroder,SUBSTITUTION,Ferguson Terrance,2:47,2,Thunder,Trail Blazers,49 - 58,0,N/A,N/A,N/A
+92,Steven Adams,FOUL_ON_FLOOR,None,2:31,2,Thunder,Trail Blazers,49 - 58,0,N/A,N/A,N/A
+93,Jusuf Nurkic,FT_MISS,None,2:31,2,Trail Blazers,Thunder,49 - 58,1,N/A,1,N/A
+94,Team,OFFENSIVE_REBOUND,None,2:31,2,Trail Blazers,Thunder,49 - 58,1,N/A,N/A,N/A
+95,Jusuf Nurkic,FT_MISS,None,2:31,2,Trail Blazers,Thunder,49 - 58,1,N/A,1,N/A
+96,Russell Westbrook,DEFENSIVE_REBOUND,None,2:29,2,Thunder,Trail Blazers,49 - 58,0,N/A,N/A,N/A
+97,Paul George,FG_MISS,None,2:21,2,Thunder,Trail Blazers,49 - 58,0,4,2,Jumper
+98,Jerami Grant,OFFENSIVE_REBOUND,None,2:20,2,Thunder,Trail Blazers,49 - 58,0,N/A,N/A,N/A
+99,Jerami Grant,FG_UNASSISTED,None,2:18,2,Thunder,Trail Blazers,51 - 58,0,0,2,Layup
+100,Jusuf Nurkic,FG_ASSISTED,CJ McCollum,2:03,2,Trail Blazers,Thunder,51 - 60,1,21,2,Jumper
+101,Jerami Grant,FG_MISS,None,1:46,2,Thunder,Trail Blazers,51 - 60,0,23,3,Jumper
+102,Steven Adams,OFFENSIVE_REBOUND,None,1:44,2,Thunder,Trail Blazers,51 - 60,0,N/A,N/A,N/A
+103,Russell Westbrook,FG_UNASSISTED,None,1:40,2,Thunder,Trail Blazers,53 - 60,0,17,2,Jumper
+104,Maurice Harkless,FG_ASSISTED,Al-Farouq Aminu,1:22,2,Trail Blazers,Thunder,53 - 62,1,0,2,Layup
+105,Al-Farouq Aminu,FOUL_ON_FLOOR,None,1:14,2,Trail Blazers,Thunder,53 - 62,1,N/A,N/A,N/A
+106,Paul George,FT,None,1:14,2,Thunder,Trail Blazers,54 - 62,0,N/A,1,N/A
+107,Paul George,FT,None,1:14,2,Thunder,Trail Blazers,55 - 62,0,N/A,1,N/A
+108,Al-Farouq Aminu,FG_MISS,None,54.2,2,Trail Blazers,Thunder,55 - 62,1,6,2,Jumper
+109,Russell Westbrook,DEFENSIVE_REBOUND,None,52.5,2,Thunder,Trail Blazers,55 - 62,0,N/A,N/A,N/A
+110,Jerami Grant,TURNOVER,Jusuf Nurkic,36.9,2,Thunder,Trail Blazers,55 - 62,0,N/A,N/A,N/A
+111,Damian Lillard,FG_MISS,None,26.4,2,Trail Blazers,Thunder,55 - 62,1,0,2,Layup
+112,Russell Westbrook,DEFENSIVE_REBOUND,None,23.9,2,Thunder,Trail Blazers,55 - 62,0,N/A,N/A,N/A
+113,CJ McCollum,FOUL_ON_FLOOR,None,6.5,2,Trail Blazers,Thunder,55 - 62,1,N/A,N/A,N/A
+114,Paul George,FT,None,6.5,2,Thunder,Trail Blazers,56 - 62,0,N/A,1,N/A
+115,Terrance Ferguson,SUBSTITUTION,Westbrook Russell,6.5,2,Thunder,Trail Blazers,56 - 62,0,N/A,N/A,N/A
+116,Paul George,FT,None,6.5,2,Thunder,Trail Blazers,57 - 62,0,N/A,1,N/A
+117,Maurice Harkless,FG_MISS,None,0.0,2,Trail Blazers,Thunder,57 - 62,1, ,3,Jumper
+118,Team,OFFENSIVE_REBOUND,None,0.0,2,Trail Blazers,Thunder,57 - 62,1,N/A,N/A,N/A
+119,End of,Unknown,None,0.0,2,Trail Blazers,Thunder,57 - 62,1,N/A,N/A,N/A
+0,Russell Westbrook,SUBSTITUTION,Schroder Dennis,12:00,3,Thunder,Trail Blazers,57 - 62,0,N/A,N/A,N/A
+1,Paul George,FG_MISS,None,11:46,3,Thunder,Trail Blazers,57 - 62,0,0,2,Layup
+2,Jusuf Nurkic,DEFENSIVE_REBOUND,None,11:44,3,Trail Blazers,Thunder,57 - 62,1,N/A,N/A,N/A
+3,CJ McCollum,FG_MISS,None,11:31,3,Trail Blazers,Thunder,57 - 62,1,25,3,Jumper
+4,Steven Adams,DEFENSIVE_REBOUND,None,11:29,3,Thunder,Trail Blazers,57 - 62,0,N/A,N/A,N/A
+5,Russell Westbrook,FG_UNASSISTED,None,11:16,3,Thunder,Trail Blazers,59 - 62,0, ,2,Jumper
+6,Al-Farouq Aminu,FG_MISS,None,10:52,3,Trail Blazers,Thunder,59 - 62,1,21,2,Jumper
+7,Jerami Grant,DEFENSIVE_REBOUND,None,10:51,3,Thunder,Trail Blazers,59 - 62,0,N/A,N/A,N/A
+8,Paul George,FG_UNASSISTED,None,10:43,3,Thunder,Trail Blazers,61 - 62,0,4,2,Jumper
+9,Maurice Harkless,FG_MISS,None,10:24,3,Trail Blazers,Thunder,61 - 62,1,17,2,Jumper
+10,Russell Westbrook,DEFENSIVE_REBOUND,None,10:23,3,Thunder,Trail Blazers,61 - 62,0,N/A,N/A,N/A
+11,Steven Adams,FG_MISS,None,10:18,3,Thunder,Trail Blazers,61 - 62,0, ,2,Jumper
+12,Al-Farouq Aminu,DEFENSIVE_REBOUND,None,10:16,3,Trail Blazers,Thunder,61 - 62,1,N/A,N/A,N/A
+13,Al-Farouq Aminu,FG_ASSISTED,CJ McCollum,10:07,3,Trail Blazers,Thunder,61 - 65,1,23,3,Jumper
+14,Al-Farouq Aminu,FOUL_ON_FLOOR,None,9:54,3,Trail Blazers,Thunder,61 - 65,1,N/A,N/A,N/A
+15,Russell Westbrook,FG_MISS,None,9:48,3,Thunder,Trail Blazers,61 - 65,0,16,2,Jumper
+16,Al-Farouq Aminu,DEFENSIVE_REBOUND,None,9:46,3,Trail Blazers,Thunder,61 - 65,1,N/A,N/A,N/A
+17,Damian Lillard,FG_UNASSISTED,None,9:30,3,Trail Blazers,Thunder,61 - 67,1,13,2,Jumper
+18,Maurice Harkless,FOUL_ON_FLOOR,None,9:24,3,Trail Blazers,Thunder,61 - 67,1,N/A,N/A,N/A
+19,Paul George,FG_UNASSISTED,None,9:15,3,Thunder,Trail Blazers,63 - 67,0, ,2,Jumper
+20,Jusuf Nurkic,FG_ASSISTED,Damian Lillard,8:55,3,Trail Blazers,Thunder,63 - 69,1,0,2,Layup
+21,Russell Westbrook,TURNOVER,Jusuf Nurkic,8:45,3,Thunder,Trail Blazers,63 - 69,0,N/A,N/A,N/A
+22,Jusuf Nurkic,TURNOVER,Paul George,8:41,3,Trail Blazers,Thunder,63 - 69,1,N/A,N/A,N/A
+23,Jerami Grant,FG_ASSISTED,Russell Westbrook,8:34,3,Thunder,Trail Blazers,65 - 69,0,0,2,Layup
+24,Jusuf Nurkic,FG_MISS,None,8:22,3,Trail Blazers,Thunder,65 - 69,1,0,2,Layup
+25,Steven Adams,DEFENSIVE_REBOUND,None,8:20,3,Thunder,Trail Blazers,65 - 69,0,N/A,N/A,N/A
+26,Paul George,FG_MISS,None,8:16,3,Thunder,Trail Blazers,65 - 69,0,25,3,Jumper
+27,Jusuf Nurkic,DEFENSIVE_REBOUND,None,8:14,3,Trail Blazers,Thunder,65 - 69,1,N/A,N/A,N/A
+28,CJ McCollum,FG_ASSISTED,Maurice Harkless,7:59,3,Trail Blazers,Thunder,65 - 72,1, ,3,Jumper
+29,Paul George,FG_ASSISTED,Russell Westbrook,7:44,3,Thunder,Trail Blazers,68 - 72,0,26,3,Jumper
+30,CJ McCollum,FG_MISS,None,7:27,3,Trail Blazers,Thunder,68 - 72,1,25,2,Jumper
+31,Maurice Harkless,OFFENSIVE_REBOUND,None,7:24,3,Trail Blazers,Thunder,68 - 72,1,N/A,N/A,N/A
+32,Jerami Grant,FOUL_ON_FLOOR,None,7:24,3,Thunder,Trail Blazers,68 - 72,0,N/A,N/A,N/A
+33,Maurice Harkless,FG_MISS,None,7:16,3,Trail Blazers,Thunder,68 - 72,1,23,3,Jumper
+34,Jerami Grant,DEFENSIVE_REBOUND,None,7:13,3,Thunder,Trail Blazers,68 - 72,0,N/A,N/A,N/A
+35,Paul George,TURNOVER,Maurice Harkless,7:07,3,Thunder,Trail Blazers,68 - 72,0,N/A,N/A,N/A
+36,Jerami Grant,FOUL_ON_FLOOR,None,7:00,3,Thunder,Trail Blazers,68 - 72,0,N/A,N/A,N/A
+37,Jusuf Nurkic,FT,None,7:00,3,Trail Blazers,Thunder,68 - 73,1,N/A,1,N/A
+38,Team,Unknown,None,7:00,3,Thunder,Trail Blazers,68 - 73,0,N/A,N/A,N/A
+39,Jusuf Nurkic,FT,None,7:00,3,Trail Blazers,Thunder,68 - 74,1,N/A,1,N/A
+40,Paul George,FG_MISS,None,6:49,3,Thunder,Trail Blazers,68 - 74,0, ,2,Jumper
+41,Al-Farouq Aminu,DEFENSIVE_REBOUND,None,6:48,3,Trail Blazers,Thunder,68 - 74,1,N/A,N/A,N/A
+42,Terrance Ferguson,FOUL_ON_FLOOR,None,6:34,3,Thunder,Trail Blazers,68 - 74,0,N/A,N/A,N/A
+43,Dennis Schroder,SUBSTITUTION,Grant Jerami,6:34,3,Thunder,Trail Blazers,68 - 74,0,N/A,N/A,N/A
+44,CJ McCollum,FG_MISS,None,6:25,3,Trail Blazers,Thunder,68 - 74,1,19,2,Jumper
+45,Maurice Harkless,OFFENSIVE_REBOUND,None,6:21,3,Trail Blazers,Thunder,68 - 74,1,N/A,N/A,N/A
+46,Maurice Harkless,FG_MISS,None,6:21,3,Trail Blazers,Thunder,68 - 74,1, ,2,Jumper
+47,Steven Adams,DEFENSIVE_REBOUND,None,6:21,3,Thunder,Trail Blazers,68 - 74,0,N/A,N/A,N/A
+48,CJ McCollum,FOUL_ON_FLOOR,None,6:18,3,Trail Blazers,Thunder,68 - 74,1,N/A,N/A,N/A
+49,Russell Westbrook,FT,None,6:18,3,Thunder,Trail Blazers,69 - 74,0,N/A,1,N/A
+50,Evan Turner,SUBSTITUTION,Harkless Maurice,6:18,3,Trail Blazers,Thunder,69 - 74,1,N/A,N/A,N/A
+51,Russell Westbrook,FT,None,6:18,3,Thunder,Trail Blazers,70 - 74,0,N/A,1,N/A
+52,Damian Lillard,FG_ASSISTED,Evan Turner,6:10,3,Trail Blazers,Thunder,70 - 76,1,0,2,Layup
+53,Russell Westbrook,FG_ASSISTED,Steven Adams,5:51,3,Thunder,Trail Blazers,72 - 76,0,22,2,Jumper
+54,Damian Lillard,FG_MISS,None,5:41,3,Trail Blazers,Thunder,72 - 76,1,30,3,Jumper
+55,Steven Adams,DEFENSIVE_REBOUND,None,5:38,3,Thunder,Trail Blazers,72 - 76,0,N/A,N/A,N/A
+56,Paul George,FG_MISS,None,5:33,3,Thunder,Trail Blazers,72 - 76,0,25,3,Jumper
+57,CJ McCollum,DEFENSIVE_REBOUND,None,5:31,3,Trail Blazers,Thunder,72 - 76,1,N/A,N/A,N/A
+58,CJ McCollum,FG_UNASSISTED,None,5:20,3,Trail Blazers,Thunder,72 - 78,1,0,2,Layup
+59,Russell Westbrook,FG_MISS,None,5:14,3,Thunder,Trail Blazers,72 - 78,0,16,2,Jumper
+60,Jusuf Nurkic,DEFENSIVE_REBOUND,None,5:12,3,Trail Blazers,Thunder,72 - 78,1,N/A,N/A,N/A
+61,Jusuf Nurkic,FG_MISS,None,4:54,3,Trail Blazers,Thunder,72 - 78,1,8,2,Jumper
+62,Russell Westbrook,DEFENSIVE_REBOUND,None,4:52,3,Thunder,Trail Blazers,72 - 78,0,N/A,N/A,N/A
+63,Steven Adams,FG_ASSISTED,Russell Westbrook,4:48,3,Thunder,Trail Blazers,74 - 78,0,0,2,Layup
+64,Damian Lillard,FG_MISS,None,4:26,3,Trail Blazers,Thunder,74 - 78,1,19,2,Jumper
+65,Team,OFFENSIVE_REBOUND,None,4:26,3,Trail Blazers,Thunder,74 - 78,1,N/A,N/A,N/A
+66,Steven Adams,FOUL_ON_FLOOR,None,4:26,3,Thunder,Trail Blazers,74 - 78,0,N/A,N/A,N/A
+67,Meyers Leonard,SUBSTITUTION,Nurkic Jusuf,4:26,3,Trail Blazers,Thunder,74 - 78,1,N/A,N/A,N/A
+68,Meyers Leonard,FG_ASSISTED,Evan Turner,4:16,3,Trail Blazers,Thunder,74 - 80,1,0,2,Dunk
+69,CJ McCollum,FOUL_ON_FLOOR,None,4:01,3,Trail Blazers,Thunder,74 - 80,1,N/A,N/A,N/A
+70,Russell Westbrook,FT,None,4:01,3,Thunder,Trail Blazers,75 - 80,0,N/A,1,N/A
+71,Russell Westbrook,FT,None,4:01,3,Thunder,Trail Blazers,76 - 80,0,N/A,1,N/A
+72,Damian Lillard,FG_MISS,None,3:43,3,Trail Blazers,Thunder,76 - 80,1,19,2,Jumper
+73,Paul George,DEFENSIVE_REBOUND,None,3:40,3,Thunder,Trail Blazers,76 - 80,0,N/A,N/A,N/A
+74,Steven Adams,FG_ASSISTED,Paul George,3:37,3,Thunder,Trail Blazers,78 - 80,0,0,2,Dunk
+75,Team,Unknown,None,3:37,3,Trail Blazers,Thunder,78 - 80,1,N/A,N/A,N/A
+76,Seth Curry,SUBSTITUTION,McCollum CJ,3:37,3,Trail Blazers,Thunder,78 - 80,1,N/A,N/A,N/A
+77,Evan Turner,FG_ASSISTED,Meyers Leonard,3:17,3,Trail Blazers,Thunder,78 - 82,1,9,2,Jumper
+78,Russell Westbrook,FG_UNASSISTED,None,3:03,3,Thunder,Trail Blazers,80 - 82,0, ,2,Jumper
+79,Meyers Leonard,FG_MISS,None,2:52,3,Trail Blazers,Thunder,80 - 82,1, ,2,Jumper
+80,Russell Westbrook,DEFENSIVE_REBOUND,None,2:50,3,Thunder,Trail Blazers,80 - 82,0,N/A,N/A,N/A
+81,Paul George,FG_ASSISTED,Russell Westbrook,2:43,3,Thunder,Trail Blazers,83 - 82,0,25,3,Jumper
+82,Al-Farouq Aminu,FG_ASSISTED,Damian Lillard,2:19,3,Trail Blazers,Thunder,83 - 85,1,23,3,Jumper
+83,Dennis Schroder,FG_MISS,None,2:10,3,Thunder,Trail Blazers,83 - 85,0,26,3,Jumper
+84,Al-Farouq Aminu,DEFENSIVE_REBOUND,None,2:08,3,Trail Blazers,Thunder,83 - 85,1,N/A,N/A,N/A
+85,Damian Lillard,FG_MISS,None,2:01,3,Trail Blazers,Thunder,83 - 85,1,26,3,Jumper
+86,Paul George,DEFENSIVE_REBOUND,None,1:58,3,Thunder,Trail Blazers,83 - 85,0,N/A,N/A,N/A
+87,Paul George,FG_UNASSISTED,None,1:51,3,Thunder,Trail Blazers,86 - 85,0,25,2,Jumper
+88,Al-Farouq Aminu,FG_ASSISTED,Meyers Leonard,1:27,3,Trail Blazers,Thunder,86 - 87,1,0,2,Dunk
+89,Al-Farouq Aminu,FOUL_TECHNICAL,None,1:27,3,Trail Blazers,Thunder,86 - 87,1,N/A,N/A,N/A
+90,Paul George,FT,None,1:27,3,Thunder,Trail Blazers,87 - 87,0,N/A,1,N/A
+91,Nerlens Noel,SUBSTITUTION,Adams Steven,1:27,3,Thunder,Trail Blazers,87 - 87,0,N/A,N/A,N/A
+92,Russell Westbrook,FG_UNASSISTED,None,1:11,3,Thunder,Trail Blazers,89 - 87,0,18,2,Jumper
+93,Damian Lillard,TURNOVER,Nerlens Noel,47.3,3,Trail Blazers,Thunder,89 - 87,1,N/A,N/A,N/A
+94,Russell Westbrook,FG_ASSISTED,Nerlens Noel,44.1,3,Thunder,Trail Blazers,91 - 87,0,0,2,Dunk
+95,Damian Lillard,TURNOVER,Nerlens Noel,33.7,3,Trail Blazers,Thunder,91 - 87,1,N/A,N/A,N/A
+96,Meyers Leonard,FOUL_ON_FLOOR,None,32.6,3,Trail Blazers,Thunder,91 - 87,1,N/A,N/A,N/A
+97,Dennis Schroder,FT,None,32.6,3,Thunder,Trail Blazers,92 - 87,0,N/A,1,N/A
+98,Dennis Schroder,FT,None,32.6,3,Thunder,Trail Blazers,93 - 87,0,N/A,1,N/A
+99,Jusuf Nurkic,SUBSTITUTION,Leonard Meyers,32.6,3,Trail Blazers,Thunder,93 - 87,1,N/A,N/A,N/A
+100,Abdel Nader,SUBSTITUTION,Westbrook Russell,32.6,3,Thunder,Trail Blazers,93 - 87,0,N/A,N/A,N/A
+101,Paul George,FG_MISS,None,14.6,3,Thunder,Trail Blazers,93 - 87,0,26,3,Jumper
+102,Seth Curry,DEFENSIVE_REBOUND,None,12.1,3,Trail Blazers,Thunder,93 - 87,1,N/A,N/A,N/A
+103,Jusuf Nurkic,FG_MISS,None,0.0,3,Trail Blazers,Thunder,93 - 87,1,0,2,Layup
+104,Team,OFFENSIVE_REBOUND,None,0.0,3,Trail Blazers,Thunder,93 - 87,1,N/A,N/A,N/A
+105,End of,Unknown,None,0.0,3,Trail Blazers,Thunder,93 - 87,1,N/A,N/A,N/A
+0,Jake Layman,SUBSTITUTION,Lillard Damian,12:00,4,Trail Blazers,Thunder,93 - 87,1,N/A,N/A,N/A
+1,Zach Collins,SUBSTITUTION,Aminu Al-Farouq,12:00,4,Trail Blazers,Thunder,93 - 87,1,N/A,N/A,N/A
+2,Meyers Leonard,SUBSTITUTION,Nurkic Jusuf,12:00,4,Trail Blazers,Thunder,93 - 87,1,N/A,N/A,N/A
+3,Hamidou Diallo,SUBSTITUTION,George Paul,12:00,4,Thunder,Trail Blazers,93 - 87,0,N/A,N/A,N/A
+4,Patrick Patterson,SUBSTITUTION,Ferguson Terrance,12:00,4,Thunder,Trail Blazers,93 - 87,0,N/A,N/A,N/A
+5,Jake Layman,TURNOVER,Nerlens Noel,11:41,4,Trail Blazers,Thunder,93 - 87,1,N/A,N/A,N/A
+6,Abdel Nader,FG_MISS,None,11:28,4,Thunder,Trail Blazers,93 - 87,0, ,2,Jumper
+7,Meyers Leonard,DEFENSIVE_REBOUND,None,11:27,4,Trail Blazers,Thunder,93 - 87,1,N/A,N/A,N/A
+8,Evan Turner,FG_MISS,None,11:06,4,Trail Blazers,Thunder,93 - 87,1,16,2,Jumper
+9,Team,OFFENSIVE_REBOUND,None,11:06,4,Trail Blazers,Thunder,93 - 87,1,N/A,N/A,N/A
+10,Abdel Nader,FOUL_ON_FLOOR,None,11:06,4,Thunder,Trail Blazers,93 - 87,0,N/A,N/A,N/A
+11,Meyers Leonard,FG_MISS,None,10:54,4,Trail Blazers,Thunder,93 - 87,1,28,3,Jumper
+12,Abdel Nader,DEFENSIVE_REBOUND,None,10:50,4,Thunder,Trail Blazers,93 - 87,0,N/A,N/A,N/A
+13,Dennis Schroder,FG_MISS,None,10:44,4,Thunder,Trail Blazers,93 - 87,0,14,2,Jumper
+14,Nerlens Noel,OFFENSIVE_REBOUND,None,10:40,4,Thunder,Trail Blazers,93 - 87,0,N/A,N/A,N/A
+15,Patrick Patterson,FOUL_ON_FLOOR,None,10:32,4,Thunder,Trail Blazers,93 - 87,0,N/A,N/A,N/A
+16,Patrick Patterson,TURNOVER,None,10:32,4,Thunder,Trail Blazers,93 - 87,0,N/A,N/A,N/A
+17,Jake Layman,FG_ASSISTED,Evan Turner,10:21,4,Trail Blazers,Thunder,93 - 89,1,0,2,Dunk
+18,Dennis Schroder,FG_ASSISTED,Hamidou Diallo,9:57,4,Thunder,Trail Blazers,95 - 89,0,0,2,Layup
+19,Hamidou Diallo,FOUL_ON_FLOOR,None,9:48,4,Thunder,Trail Blazers,95 - 89,0,N/A,N/A,N/A
+20,Evan Turner,FT,None,9:48,4,Trail Blazers,Thunder,95 - 90,1,N/A,1,N/A
+21,Russell Westbrook,SUBSTITUTION,Diallo Hamidou,9:48,4,Thunder,Trail Blazers,95 - 90,0,N/A,N/A,N/A
+22,Evan Turner,FT,None,9:48,4,Trail Blazers,Thunder,95 - 91,1,N/A,1,N/A
+23,Dennis Schroder,FG_UNASSISTED,None,9:32,4,Thunder,Trail Blazers,97 - 91,0,0,2,Layup
+24,Evan Turner,TURNOVER,None,9:21,4,Trail Blazers,Thunder,97 - 91,1,N/A,N/A,N/A
+25,Dennis Schroder,FG_UNASSISTED,None,9:09,4,Thunder,Trail Blazers,99 - 91,0,16,2,Jumper
+26,Team,Unknown,None,9:08,4,Trail Blazers,Thunder,99 - 91,1,N/A,N/A,N/A
+27,CJ McCollum,SUBSTITUTION,Curry Seth,9:08,4,Trail Blazers,Thunder,99 - 91,1,N/A,N/A,N/A
+28,Jake Layman,FG_MISS,None,8:45,4,Trail Blazers,Thunder,99 - 91,1,24,3,Jumper
+29,CJ McCollum,OFFENSIVE_REBOUND,None,8:43,4,Trail Blazers,Thunder,99 - 91,1,N/A,N/A,N/A
+30,Zach Collins,FG_ASSISTED,CJ McCollum,8:36,4,Trail Blazers,Thunder,99 - 93,1,0,2,Layup
+31,Dennis Schroder,FG_MISS,None,8:22,4,Thunder,Trail Blazers,99 - 93,0,17,2,Jumper
+32,Evan Turner,DEFENSIVE_REBOUND,None,8:20,4,Trail Blazers,Thunder,99 - 93,1,N/A,N/A,N/A
+33,Evan Turner,FG_MISS,Nerlens Noel,8:11,4,Thunder,Trail Blazers,99 - 93,1,0,2,Layup
+34,Patrick Patterson,DEFENSIVE_REBOUND,None,8:09,4,Thunder,Trail Blazers,99 - 93,0,N/A,N/A,N/A
+35,Meyers Leonard,FOUL_ON_FLOOR,None,8:05,4,Trail Blazers,Thunder,99 - 93,1,N/A,N/A,N/A
+36,Nerlens Noel,FT,None,8:05,4,Thunder,Trail Blazers,100 - 93,0,N/A,1,N/A
+37,Nerlens Noel,FT,None,8:05,4,Thunder,Trail Blazers,101 - 93,0,N/A,1,N/A
+38,Meyers Leonard,FG_ASSISTED,CJ McCollum,7:52,4,Trail Blazers,Thunder,101 - 95,1,5,2,Jumper
+39,Russell Westbrook,FG_MISS,None,7:35,4,Thunder,Trail Blazers,101 - 95,0,18,2,Jumper
+40,Evan Turner,DEFENSIVE_REBOUND,None,7:33,4,Trail Blazers,Thunder,101 - 95,1,N/A,N/A,N/A
+41,CJ McCollum,FG_MISS,None,7:24,4,Trail Blazers,Thunder,101 - 95,1,25,3,Jumper
+42,Dennis Schroder,DEFENSIVE_REBOUND,None,7:21,4,Thunder,Trail Blazers,101 - 95,0,N/A,N/A,N/A
+43,Russell Westbrook,FG_MISS,None,7:04,4,Thunder,Trail Blazers,101 - 95,0,16,2,Jumper
+44,Evan Turner,DEFENSIVE_REBOUND,None,7:02,4,Trail Blazers,Thunder,101 - 95,1,N/A,N/A,N/A
+45,CJ McCollum,FG_MISS,None,6:51,4,Trail Blazers,Thunder,101 - 95,1,25,2,Jumper
+46,Meyers Leonard,OFFENSIVE_REBOUND,None,6:47,4,Trail Blazers,Thunder,101 - 95,1,N/A,N/A,N/A
+47,Nerlens Noel,FOUL_ON_FLOOR,None,6:38,4,Thunder,Trail Blazers,101 - 95,0,N/A,N/A,N/A
+48,Jusuf Nurkic,SUBSTITUTION,Leonard Meyers,6:38,4,Trail Blazers,Thunder,101 - 95,1,N/A,N/A,N/A
+49,Steven Adams,SUBSTITUTION,Noel Nerlens,6:38,4,Thunder,Trail Blazers,101 - 95,0,N/A,N/A,N/A
+50,Jerami Grant,SUBSTITUTION,Patterson Patrick,6:38,4,Thunder,Trail Blazers,101 - 95,0,N/A,N/A,N/A
+51,Maurice Harkless,SUBSTITUTION,Turner Evan,6:38,4,Trail Blazers,Thunder,101 - 95,1,N/A,N/A,N/A
+52,Damian Lillard,SUBSTITUTION,Layman Jake,6:38,4,Trail Blazers,Thunder,101 - 95,1,N/A,N/A,N/A
+53,Paul George,SUBSTITUTION,Nader Abdel,6:38,4,Thunder,Trail Blazers,101 - 95,0,N/A,N/A,N/A
+54,Terrance Ferguson,SUBSTITUTION,Schroder Dennis,6:38,4,Thunder,Trail Blazers,101 - 95,0,N/A,N/A,N/A
+55,Damian Lillard,FG_MISS,None,6:33,4,Trail Blazers,Thunder,101 - 95,1,24,3,Jumper
+56,Paul George,DEFENSIVE_REBOUND,None,6:30,4,Thunder,Trail Blazers,101 - 95,0,N/A,N/A,N/A
+57,Russell Westbrook,FG_MISS,Maurice Harkless,6:27,4,Trail Blazers,Thunder,101 - 95,0,3,2,Jumper
+58,Team,OFFENSIVE_REBOUND,None,6:27,4,Thunder,Trail Blazers,101 - 95,0,N/A,N/A,N/A
+59,Russell Westbrook,FG_MISS,None,6:21,4,Thunder,Trail Blazers,101 - 95,0,13,2,Jumper
+60,Maurice Harkless,DEFENSIVE_REBOUND,None,6:19,4,Trail Blazers,Thunder,101 - 95,1,N/A,N/A,N/A
+61,Damian Lillard,TURNOVER,Russell Westbrook,6:10,4,Trail Blazers,Thunder,101 - 95,1,N/A,N/A,N/A
+62,Russell Westbrook,FG_UNASSISTED,None,6:07,4,Thunder,Trail Blazers,103 - 95,0, ,2,Jumper
+63,Team,Unknown,None,6:07,4,Trail Blazers,Thunder,103 - 95,1,N/A,N/A,N/A
+64,Maurice Harkless,FG_MISS,None,5:52,4,Trail Blazers,Thunder,103 - 95,1,0,2,Layup
+65,Paul George,DEFENSIVE_REBOUND,None,5:50,4,Thunder,Trail Blazers,103 - 95,0,N/A,N/A,N/A
+66,Russell Westbrook,FG_MISS,None,5:41,4,Thunder,Trail Blazers,103 - 95,0,21,2,Jumper
+67,Zach Collins,DEFENSIVE_REBOUND,None,5:39,4,Trail Blazers,Thunder,103 - 95,1,N/A,N/A,N/A
+68,Terrance Ferguson,FOUL_ON_FLOOR,None,5:34,4,Thunder,Trail Blazers,103 - 95,0,N/A,N/A,N/A
+69,Al-Farouq Aminu,SUBSTITUTION,Collins Zach,5:34,4,Trail Blazers,Thunder,103 - 95,1,N/A,N/A,N/A
+70,Paul George,FOUL_ON_FLOOR,None,5:27,4,Thunder,Trail Blazers,103 - 95,0,N/A,N/A,N/A
+71,Al-Farouq Aminu,FT,None,5:27,4,Trail Blazers,Thunder,103 - 96,1,N/A,1,N/A
+72,Al-Farouq Aminu,FT,None,5:27,4,Trail Blazers,Thunder,103 - 97,1,N/A,1,N/A
+73,Paul George,FG_MISS,Maurice Harkless,5:12,4,Trail Blazers,Thunder,103 - 97,0,22,2,Jumper
+74,Maurice Harkless,DEFENSIVE_REBOUND,None,5:10,4,Trail Blazers,Thunder,103 - 97,1,N/A,N/A,N/A
+75,Jusuf Nurkic,FG_MISS,None,4:52,4,Trail Blazers,Thunder,103 - 97,1,3,2,Jumper
+76,Russell Westbrook,DEFENSIVE_REBOUND,None,4:49,4,Thunder,Trail Blazers,103 - 97,0,N/A,N/A,N/A
+77,Steven Adams,FG_ASSISTED,Russell Westbrook,4:39,4,Thunder,Trail Blazers,105 - 97,0,0,2,Dunk
+78,CJ McCollum,FG_MISS,Terrance Ferguson,4:21,4,Thunder,Trail Blazers,105 - 97,1,0,2,Layup
+79,Steven Adams,DEFENSIVE_REBOUND,None,4:18,4,Thunder,Trail Blazers,105 - 97,0,N/A,N/A,N/A
+80,Russell Westbrook,FG_UNASSISTED,None,4:13,4,Thunder,Trail Blazers,107 - 97,0,17,2,Jumper
+81,Al-Farouq Aminu,FG_MISS,None,3:58,4,Trail Blazers,Thunder,107 - 97,1,22,3,Jumper
+82,Paul George,DEFENSIVE_REBOUND,None,3:55,4,Thunder,Trail Blazers,107 - 97,0,N/A,N/A,N/A
+83,Team,Unknown,None,3:51,4,Thunder,Trail Blazers,107 - 97,0,N/A,N/A,N/A
+84,Paul George,FG_MISS,None,3:33,4,Thunder,Trail Blazers,107 - 97,0,22,2,Jumper
+85,Steven Adams,OFFENSIVE_REBOUND,None,3:31,4,Thunder,Trail Blazers,107 - 97,0,N/A,N/A,N/A
+86,Terrance Ferguson,FG_MISS,None,3:21,4,Thunder,Trail Blazers,107 - 97,0,26,3,Jumper
+87,Jerami Grant,OFFENSIVE_REBOUND,None,3:19,4,Thunder,Trail Blazers,107 - 97,0,N/A,N/A,N/A
+88,Russell Westbrook,FG_MISS,None,3:08,4,Thunder,Trail Blazers,107 - 97,0,11,2,Jumper
+89,Maurice Harkless,DEFENSIVE_REBOUND,None,3:06,4,Trail Blazers,Thunder,107 - 97,1,N/A,N/A,N/A
+90,Terrance Ferguson,FOUL_ON_FLOOR,None,3:00,4,Thunder,Trail Blazers,107 - 97,0,N/A,N/A,N/A
+91,Damian Lillard,FT,None,3:00,4,Trail Blazers,Thunder,107 - 98,1,N/A,1,N/A
+92,Damian Lillard,FT,None,3:00,4,Trail Blazers,Thunder,107 - 99,1,N/A,1,N/A
+93,Paul George,TURNOVER,Jusuf Nurkic,2:43,4,Thunder,Trail Blazers,107 - 99,0,N/A,N/A,N/A
+94,Terrance Ferguson,FOUL_ON_FLOOR,None,2:43,4,Thunder,Trail Blazers,107 - 99,0,N/A,N/A,N/A
+95,Dennis Schroder,SUBSTITUTION,Ferguson Terrance,2:43,4,Thunder,Trail Blazers,107 - 99,0,N/A,N/A,N/A
+96,Damian Lillard,FT,None,2:43,4,Trail Blazers,Thunder,107 - 100,1,N/A,1,N/A
+97,Damian Lillard,FT,None,2:43,4,Trail Blazers,Thunder,107 - 101,1,N/A,1,N/A
+98,Paul George,FG_MISS,None,2:30,4,Thunder,Trail Blazers,107 - 101,0,5,2,Jumper
+99,Jusuf Nurkic,DEFENSIVE_REBOUND,None,2:27,4,Trail Blazers,Thunder,107 - 101,1,N/A,N/A,N/A
+100,Damian Lillard's,FG_MISS,Jerami Grant,2:16,4,Thunder,Trail Blazers,107 - 101,1,0,2,Dunk
+101,Paul George,DEFENSIVE_REBOUND,None,2:16,4,Thunder,Trail Blazers,107 - 101,0,N/A,N/A,N/A
+102,Russell Westbrook,FG_UNASSISTED,None,2:04,4,Thunder,Trail Blazers,109 - 101,0,11,2,Jumper
+103,Steven Adams,FOUL_ON_FLOOR,None,1:37,4,Thunder,Trail Blazers,109 - 101,0,N/A,N/A,N/A
+104,Jusuf Nurkic,FT,None,1:37,4,Trail Blazers,Thunder,109 - 102,1,N/A,1,N/A
+105,Jusuf Nurkic,FT,None,1:37,4,Trail Blazers,Thunder,109 - 103,1,N/A,1,N/A
+106,Steven Adams,FG_MISS,None,1:21,4,Thunder,Trail Blazers,109 - 103,0,9,2,Jumper
+107,Al-Farouq Aminu,DEFENSIVE_REBOUND,None,1:17,4,Trail Blazers,Thunder,109 - 103,1,N/A,N/A,N/A
+108,CJ McCollum,FG_ASSISTED,Damian Lillard,1:07,4,Trail Blazers,Thunder,109 - 105,1,1,2,Jumper
+109,Paul George,TURNOVER,Damian Lillard,48.2,4,Thunder,Trail Blazers,109 - 105,0,N/A,N/A,N/A
+110,Dennis Schroder,FOUL_ON_FLOOR,None,42.8,4,Thunder,Trail Blazers,109 - 105,0,N/A,N/A,N/A
+111,Damian Lillard,FT,None,42.8,4,Trail Blazers,Thunder,109 - 106,1,N/A,1,N/A
+112,Damian Lillard,FT,None,42.8,4,Trail Blazers,Thunder,109 - 107,1,N/A,1,N/A
+113,Team,Unknown,None,42.8,4,Thunder,Trail Blazers,109 - 107,0,N/A,N/A,N/A
+114,Damian Lillard,FT_MISS,None,42.8,4,Trail Blazers,Thunder,109 - 107,1,N/A,1,N/A
+115,Russell Westbrook,DEFENSIVE_REBOUND,None,40.2,4,Thunder,Trail Blazers,109 - 107,0,N/A,N/A,N/A
+116,Russell Westbrook,FG_MISS,None,25.9,4,Thunder,Trail Blazers,109 - 107,0,9,2,Jumper
+117,Al-Farouq Aminu,DEFENSIVE_REBOUND,None,22.6,4,Trail Blazers,Thunder,109 - 107,1,N/A,N/A,N/A
+118,Damian Lillard,FG_MISS,None,11.3,4,Trail Blazers,Thunder,109 - 107,1,1,2,Jumper
+119,Al-Farouq Aminu,OFFENSIVE_REBOUND,None,9.9,4,Trail Blazers,Thunder,109 - 107,1,N/A,N/A,N/A
+120,CJ McCollum,FG_MISS,None,8.4,4,Trail Blazers,Thunder,109 - 107,1,22,2,Jumper
+121,Jerami Grant,DEFENSIVE_REBOUND,None,4.7,4,Thunder,Trail Blazers,109 - 107,0,N/A,N/A,N/A
+122,Damian Lillard,FOUL_ON_FLOOR,None,4.7,4,Trail Blazers,Thunder,109 - 107,1,N/A,N/A,N/A
+123,Damian Lillard,FOUL_ON_FLOOR,None,4.3,4,Trail Blazers,Thunder,109 - 107,1,N/A,N/A,N/A
+124,Paul George,FT,None,4.3,4,Thunder,Trail Blazers,110 - 107,0,N/A,1,N/A
+125,Paul George,FT,None,4.3,4,Thunder,Trail Blazers,111 - 107,0,N/A,1,N/A
+126,Team,Unknown,None,4.3,4,Trail Blazers,Thunder,111 - 107,1,N/A,N/A,N/A
+127,Evan Turner,SUBSTITUTION,Harkless Maurice,4.3,4,Trail Blazers,Thunder,111 - 107,1,N/A,N/A,N/A
+128,Meyers Leonard,SUBSTITUTION,Nurkic Jusuf,4.3,4,Trail Blazers,Thunder,111 - 107,1,N/A,N/A,N/A
+129,Damian Lillard,FG_MISS,None,1.5,4,Trail Blazers,Thunder,111 - 107,1,36,3,Jumper
+130,Al-Farouq Aminu,OFFENSIVE_REBOUND,None,1.5,4,Trail Blazers,Thunder,111 - 107,1,N/A,N/A,N/A
+131,Al-Farouq Aminu,FG_UNASSISTED,None,0.0,4,Trail Blazers,Thunder,111 - 109,1,2,2,Jumper
+132,End of,Unknown,None,0.0,4,Trail Blazers,Thunder,111 - 109,1,N/A,N/A,N/A
+133,End of,Unknown,None,0.0,4,Trail Blazers,Thunder,111 - 109,1,N/A,N/A,N/A

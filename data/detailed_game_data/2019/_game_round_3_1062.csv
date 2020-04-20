@@ -1,0 +1,480 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Myles Turner,JUMP_BALL,None,12:00,1,Pacers,Pelicans,0 - 0,0,N/A,N/A,N/A
+1,Myles Turner,FG_MISS,None,11:40,1,Pacers,Pelicans,0 - 0,0,16,2,Jumper
+2,Kenrich Williams,DEFENSIVE_REBOUND,None,11:37,1,Pelicans,Pacers,0 - 0,1,N/A,N/A,N/A
+3,Darius Miller,FG_ASSISTED,Jrue Holiday,11:25,1,Pelicans,Pacers,0 - 3,1,26,3,Jumper
+4,Bojan Bogdanovic,FOUL_ON_FLOOR,None,11:25,1,Pacers,Pelicans,0 - 3,0,N/A,N/A,N/A
+5,Darius Miller,FT,None,11:25,1,Pelicans,Pacers,0 - 4,1,N/A,1,N/A
+6,Cory Joseph,FG_MISS,None,11:10,1,Pacers,Pelicans,0 - 4,0,16,2,Jumper
+7,Jahlil Okafor,DEFENSIVE_REBOUND,None,11:07,1,Pelicans,Pacers,0 - 4,1,N/A,N/A,N/A
+8,Frank Jackson,FG_MISS,None,10:58,1,Pelicans,Pacers,0 - 4,1,0,2,Layup
+9,Team,DEFENSIVE_REBOUND,None,10:57,1,Pacers,Pelicans,0 - 4,0,N/A,N/A,N/A
+10,Bojan Bogdanovic,FG_MISS,None,10:47,1,Pacers,Pelicans,0 - 4,0,0,2,Layup
+11,Jahlil Okafor,DEFENSIVE_REBOUND,None,10:45,1,Pelicans,Pacers,0 - 4,1,N/A,N/A,N/A
+12,Frank Jackson,FG_ASSISTED,Jrue Holiday,10:34,1,Pelicans,Pacers,0 - 7,1,25,3,Jumper
+13,Myles Turner,FG_MISS,None,10:17,1,Pacers,Pelicans,0 - 7,0,25,3,Jumper
+14,Kenrich Williams,DEFENSIVE_REBOUND,None,10:13,1,Pelicans,Pacers,0 - 7,1,N/A,N/A,N/A
+15,Jrue Holiday,TURNOVER,None,10:06,1,Pelicans,Pacers,0 - 7,1,N/A,N/A,N/A
+16,Thaddeus Young,FG_MISS,None,9:45,1,Pacers,Pelicans,0 - 7,0,-,2,Jumper
+17,Jahlil Okafor,DEFENSIVE_REBOUND,None,9:43,1,Pelicans,Pacers,0 - 7,1,N/A,N/A,N/A
+18,Jrue Holiday,FG_UNASSISTED,None,9:32,1,Pelicans,Pacers,0 - 9,1,11,2,Jumper
+19,Myles Turner,FG_MISS,None,9:18,1,Pacers,Pelicans,0 - 9,0,26,3,Jumper
+20,Kenrich Williams,DEFENSIVE_REBOUND,None,9:12,1,Pelicans,Pacers,0 - 9,1,N/A,N/A,N/A
+21,Jahlil Okafor,FG_ASSISTED,Kenrich Williams,9:06,1,Pelicans,Pacers,0 - 11,1, ,2,Jumper
+22,Team,Unknown,None,8:56,1,Pacers,Pelicans,0 - 11,0,N/A,N/A,N/A
+23,Jahlil Okafor,FOUL_ON_FLOOR,None,8:47,1,Pelicans,Pacers,0 - 11,1,N/A,N/A,N/A
+24,Myles Turner,FT,None,8:47,1,Pacers,Pelicans,1 - 11,0,N/A,1,N/A
+25,Myles Turner,FT,None,8:47,1,Pacers,Pelicans,2 - 11,0,N/A,1,N/A
+26,Jahlil Okafor,TURNOVER,Myles Turner,8:22,1,Pelicans,Pacers,2 - 11,1,N/A,N/A,N/A
+27,Cory Joseph,FG_MISS,None,8:08,1,Pacers,Pelicans,2 - 11,0,25,3,Jumper
+28,Kenrich Williams,DEFENSIVE_REBOUND,None,8:05,1,Pelicans,Pacers,2 - 11,1,N/A,N/A,N/A
+29,Jrue Holiday,TURNOVER,Myles Turner,7:57,1,Pelicans,Pacers,2 - 11,1,N/A,N/A,N/A
+30,Darius Miller,FOUL_ON_FLOOR,None,7:54,1,Pelicans,Pacers,2 - 11,1,N/A,N/A,N/A
+31,Thaddeus Young,FT,None,7:54,1,Pacers,Pelicans,3 - 11,0,N/A,1,N/A
+32,Thaddeus Young,FT,None,7:54,1,Pacers,Pelicans,4 - 11,0,N/A,1,N/A
+33,Kenrich Williams,FG_MISS,None,7:41,1,Pelicans,Pacers,4 - 11,1, ,3,Jumper
+34,Thaddeus Young,DEFENSIVE_REBOUND,None,7:37,1,Pacers,Pelicans,4 - 11,0,N/A,N/A,N/A
+35,Darren Collison,FG_MISS,None,7:32,1,Pacers,Pelicans,4 - 11,0,6,2,Jumper
+36,Jahlil Okafor,DEFENSIVE_REBOUND,None,7:28,1,Pelicans,Pacers,4 - 11,1,N/A,N/A,N/A
+37,Jrue Holiday,FG_UNASSISTED,None,7:15,1,Pelicans,Pacers,4 - 13,1,0,2,Layup
+38,Myles Turner,FG_MISS,None,7:00,1,Pacers,Pelicans,4 - 13,0,10,2,Jumper
+39,Thaddeus Young,OFFENSIVE_REBOUND,None,6:55,1,Pacers,Pelicans,4 - 13,0,N/A,N/A,N/A
+40,Thaddeus Young,FG_UNASSISTED,None,6:55,1,Pacers,Pelicans,6 - 13,0, ,2,Jumper
+41,Jahlil Okafor's,FG_MISS,Myles Turner,6:48,1,Pacers,Pelicans,6 - 13,1,0,2,Layup
+42,Myles Turner,DEFENSIVE_REBOUND,None,6:46,1,Pacers,Pelicans,6 - 13,0,N/A,N/A,N/A
+43,Darren Collison,FG_ASSISTED,Myles Turner,6:43,1,Pacers,Pelicans,8 - 13,0, ,2,Jumper
+44,Darius Miller,FG_MISS,None,6:34,1,Pelicans,Pacers,8 - 13,1,24,3,Jumper
+45,Darren Collison,DEFENSIVE_REBOUND,None,6:34,1,Pacers,Pelicans,8 - 13,0,N/A,N/A,N/A
+46,Bojan Bogdanovic,FG_MISS,None,6:21,1,Pacers,Pelicans,8 - 13,0,23,3,Jumper
+47,Jrue Holiday,DEFENSIVE_REBOUND,None,6:18,1,Pelicans,Pacers,8 - 13,1,N/A,N/A,N/A
+48,Jrue Holiday,FG_MISS,None,6:11,1,Pelicans,Pacers,8 - 13,1,24,3,Jumper
+49,Darren Collison,DEFENSIVE_REBOUND,None,6:08,1,Pacers,Pelicans,8 - 13,0,N/A,N/A,N/A
+50,Darren Collison,FG_MISS,None,5:57,1,Pacers,Pelicans,8 - 13,0,25,3,Jumper
+51,Jrue Holiday,DEFENSIVE_REBOUND,None,5:54,1,Pelicans,Pacers,8 - 13,1,N/A,N/A,N/A
+52,Kenrich Williams,FG_MISS,None,5:50,1,Pelicans,Pacers,8 - 13,1,0,2,Layup
+53,Kenrich Williams,OFFENSIVE_REBOUND,None,5:48,1,Pelicans,Pacers,8 - 13,1,N/A,N/A,N/A
+54,Kenrich Williams,FG_MISS,None,5:48,1,Pelicans,Pacers,8 - 13,1, ,2,Jumper
+55,Team,DEFENSIVE_REBOUND,None,5:48,1,Pacers,Pelicans,8 - 13,0,N/A,N/A,N/A
+56,Cheick Diallo,SUBSTITUTION,Okafor Jahlil,5:48,1,Pelicans,Pacers,8 - 13,1,N/A,N/A,N/A
+57,Thaddeus Young,FG_UNASSISTED,None,5:38,1,Pacers,Pelicans,10 - 13,0,0,2,Layup
+58,Darius Miller,TURNOVER,None,5:28,1,Pelicans,Pacers,10 - 13,1,N/A,N/A,N/A
+59,Ian Clark,SUBSTITUTION,Jackson Frank,5:28,1,Pelicans,Pacers,10 - 13,1,N/A,N/A,N/A
+60,Darren Collison,FG_ASSISTED,Thaddeus Young,5:11,1,Pacers,Pelicans,13 - 13,0,25,3,Jumper
+61,Myles Turner,FOUL_ON_FLOOR,None,5:03,1,Pacers,Pelicans,13 - 13,0,N/A,N/A,N/A
+62,Cheick Diallo,TURNOVER,None,4:52,1,Pelicans,Pacers,13 - 13,1,N/A,N/A,N/A
+63,Bojan Bogdanovic,FG_ASSISTED,Darren Collison,4:36,1,Pacers,Pelicans,16 - 13,0,24,2,Jumper
+64,Team,Unknown,None,4:25,1,Pelicans,Pacers,16 - 13,1,N/A,N/A,N/A
+65,Domantas Sabonis,SUBSTITUTION,Young Thaddeus,4:25,1,Pacers,Pelicans,16 - 13,0,N/A,N/A,N/A
+66,Jrue Holiday,FG_MISS,None,4:16,1,Pelicans,Pacers,16 - 13,1,0,2,Layup
+67,Jrue Holiday,OFFENSIVE_REBOUND,None,4:12,1,Pelicans,Pacers,16 - 13,1,N/A,N/A,N/A
+68,Jrue Holiday,FG_UNASSISTED,None,4:12,1,Pelicans,Pacers,16 - 15,1, ,2,Jumper
+69,Myles Turner,FG_MISS,None,4:03,1,Pacers,Pelicans,16 - 15,0,17,2,Jumper
+70,Kenrich Williams,DEFENSIVE_REBOUND,None,4:00,1,Pelicans,Pacers,16 - 15,1,N/A,N/A,N/A
+71,Kenrich Williams,FG_MISS,Myles Turner,3:46,1,Pacers,Pelicans,16 - 15,1,0,2,Layup
+72,Domantas Sabonis,DEFENSIVE_REBOUND,None,3:42,1,Pacers,Pelicans,16 - 15,0,N/A,N/A,N/A
+73,Bojan Bogdanovic,FG_MISS,None,3:33,1,Pacers,Pelicans,16 - 15,0,0,2,Layup
+74,Cheick Diallo,DEFENSIVE_REBOUND,None,3:31,1,Pelicans,Pacers,16 - 15,1,N/A,N/A,N/A
+75,Ian Clark,FG_ASSISTED,Kenrich Williams,3:27,1,Pelicans,Pacers,16 - 17,1,22,2,Jumper
+76,Domantas Sabonis,FG_UNASSISTED,None,3:07,1,Pacers,Pelicans,18 - 17,0, ,2,Jumper
+77,Kenrich Williams,FG_MISS,None,2:53,1,Pelicans,Pacers,18 - 17,1,12,2,Jumper
+78,Darren Collison,DEFENSIVE_REBOUND,None,2:51,1,Pacers,Pelicans,18 - 17,0,N/A,N/A,N/A
+79,Bojan Bogdanovic,FG_MISS,None,2:41,1,Pacers,Pelicans,18 - 17,0,0,2,Layup
+80,Jrue Holiday,DEFENSIVE_REBOUND,None,2:38,1,Pelicans,Pacers,18 - 17,1,N/A,N/A,N/A
+81,Ian Clark,FG_MISS,None,2:34,1,Pelicans,Pacers,18 - 17,1, ,3,Jumper
+82,Cory Joseph,DEFENSIVE_REBOUND,None,2:29,1,Pacers,Pelicans,18 - 17,0,N/A,N/A,N/A
+83,Myles Turner,TURNOVER,Kenrich Williams,2:15,1,Pacers,Pelicans,18 - 17,0,N/A,N/A,N/A
+84,Ian Clark,FG_MISS,None,2:07,1,Pelicans,Pacers,18 - 17,1,23,3,Jumper
+85,Domantas Sabonis,DEFENSIVE_REBOUND,None,2:05,1,Pacers,Pelicans,18 - 17,0,N/A,N/A,N/A
+86,Kenrich Williams,FOUL_ON_FLOOR,None,1:59,1,Pelicans,Pacers,18 - 17,1,N/A,N/A,N/A
+87,Myles Turner,FT_MISS,None,1:59,1,Pacers,Pelicans,18 - 17,0,N/A,1,N/A
+88,Team,OFFENSIVE_REBOUND,None,1:59,1,Pacers,Pelicans,18 - 17,0,N/A,N/A,N/A
+89,Tim Frazier,SUBSTITUTION,Holiday Jrue,1:59,1,Pelicans,Pacers,18 - 17,1,N/A,N/A,N/A
+90,Jahlil Okafor,SUBSTITUTION,Williams Kenrich,1:59,1,Pelicans,Pacers,18 - 17,1,N/A,N/A,N/A
+91,Aaron Holiday,SUBSTITUTION,Collison Darren,1:59,1,Pacers,Pelicans,18 - 17,0,N/A,N/A,N/A
+92,Edmond Sumner,SUBSTITUTION,Joseph Cory,1:59,1,Pacers,Pelicans,18 - 17,0,N/A,N/A,N/A
+93,Tyreke Evans,SUBSTITUTION,Bogdanovic Bojan,1:59,1,Pacers,Pelicans,18 - 17,0,N/A,N/A,N/A
+94,Myles Turner,FT,None,1:59,1,Pacers,Pelicans,19 - 17,0,N/A,1,N/A
+95,Cheick Diallo,FG_MISS,None,1:36,1,Pelicans,Pacers,19 - 17,1,8,2,Jumper
+96,Domantas Sabonis,DEFENSIVE_REBOUND,None,1:34,1,Pacers,Pelicans,19 - 17,0,N/A,N/A,N/A
+97,Domantas Sabonis,FG_MISS,None,1:29,1,Pacers,Pelicans,19 - 17,0,0,2,Layup
+98,Domantas Sabonis,OFFENSIVE_REBOUND,None,1:18,1,Pacers,Pelicans,19 - 17,0,N/A,N/A,N/A
+99,Domantas Sabonis,FG_UNASSISTED,None,1:18,1,Pacers,Pelicans,21 - 17,0, ,2,Jumper
+100,Ian Clark,FG_MISS,None,1:11,1,Pelicans,Pacers,21 - 17,1,25,3,Jumper
+101,Edmond Sumner,DEFENSIVE_REBOUND,None,1:11,1,Pacers,Pelicans,21 - 17,0,N/A,N/A,N/A
+102,Myles Turner,FG_ASSISTED,Aaron Holiday,1:00,1,Pacers,Pelicans,23 - 17,0,13,2,Jumper
+103,Aaron Holiday,FOUL_ON_FLOOR,None,45.8,1,Pacers,Pelicans,23 - 17,0,N/A,N/A,N/A
+104,Darius Miller,FT,None,45.8,1,Pelicans,Pacers,23 - 18,1,N/A,1,N/A
+105,T.J. Leaf,SUBSTITUTION,Turner Myles,45.8,1,Pacers,Pelicans,23 - 18,0,N/A,N/A,N/A
+106,Darius Miller,FT_MISS,None,45.8,1,Pelicans,Pacers,23 - 18,1,N/A,1,N/A
+107,Domantas Sabonis,DEFENSIVE_REBOUND,None,44.4,1,Pacers,Pelicans,23 - 18,0,N/A,N/A,N/A
+108,Cheick Diallo,FOUL_ON_FLOOR,None,35.1,1,Pelicans,Pacers,23 - 18,1,N/A,N/A,N/A
+109,Aaron Holiday,FT,None,35.1,1,Pacers,Pelicans,24 - 18,0,N/A,1,N/A
+110,Aaron Holiday,FT,None,35.1,1,Pacers,Pelicans,25 - 18,0,N/A,1,N/A
+111,Aaron Holiday,FOUL_ON_FLOOR,None,29.6,1,Pacers,Pelicans,25 - 18,0,N/A,N/A,N/A
+112,Tim Frazier,FT,None,29.6,1,Pelicans,Pacers,25 - 19,1,N/A,1,N/A
+113,Tim Frazier,FT,None,29.6,1,Pelicans,Pacers,25 - 20,1,N/A,1,N/A
+114,Edmond Sumner,FG_MISS,None,7.7,1,Pacers,Pelicans,25 - 20,0,25,3,Jumper
+115,Aaron Holiday,OFFENSIVE_REBOUND,None,4.5,1,Pacers,Pelicans,25 - 20,0,N/A,N/A,N/A
+116,Aaron Holiday,FG_MISS,None,2.1,1,Pacers,Pelicans,25 - 20,0,28,3,Jumper
+117,Team,OFFENSIVE_REBOUND,None,2.1,1,Pacers,Pelicans,25 - 20,0,N/A,N/A,N/A
+118,End of,Unknown,None,0.0,1,Pelicans,Pacers,25 - 20,1,N/A,N/A,N/A
+0,Frank Jackson,SUBSTITUTION,Miller Darius,12:00,2,Pelicans,Pacers,25 - 20,1,N/A,N/A,N/A
+1,Jahlil Okafor,FG_UNASSISTED,None,11:41,2,Pelicans,Pacers,25 - 22,1,0,2,Layup
+2,Tyreke Evans,FG_MISS,None,11:27,2,Pacers,Pelicans,25 - 22,0,13,2,Jumper
+3,Cheick Diallo,DEFENSIVE_REBOUND,None,11:27,2,Pelicans,Pacers,25 - 22,1,N/A,N/A,N/A
+4,Frank Jackson,FG_ASSISTED,Tim Frazier,11:19,2,Pelicans,Pacers,25 - 24,1,0,2,Layup
+5,T.J. Leaf,FG_ASSISTED,Tyreke Evans,11:10,2,Pacers,Pelicans,27 - 24,0,5,2,Jumper
+6,Ian Clark,FG_MISS,None,10:58,2,Pelicans,Pacers,27 - 24,1,26,3,Jumper
+7,Domantas Sabonis,DEFENSIVE_REBOUND,None,10:58,2,Pacers,Pelicans,27 - 24,0,N/A,N/A,N/A
+8,Domantas Sabonis,FG_ASSISTED,Edmond Sumner,10:41,2,Pacers,Pelicans,29 - 24,0,0,2,Layup
+9,Jahlil Okafor,FG_ASSISTED,Tim Frazier,10:25,2,Pelicans,Pacers,29 - 26,1, ,2,Jumper
+10,Ian Clark,FOUL_ON_FLOOR,None,10:20,2,Pelicans,Pacers,29 - 26,1,N/A,N/A,N/A
+11,Aaron Holiday,FT_MISS,None,10:20,2,Pacers,Pelicans,29 - 26,0,N/A,1,N/A
+12,Team,OFFENSIVE_REBOUND,None,10:20,2,Pacers,Pelicans,29 - 26,0,N/A,N/A,N/A
+13,Aaron Holiday,FT,None,10:20,2,Pacers,Pelicans,30 - 26,0,N/A,1,N/A
+14,Tim Frazier,TURNOVER,None,10:03,2,Pelicans,Pacers,30 - 26,1,N/A,N/A,N/A
+15,Tyreke Evans,FG_MISS,Jahlil Okafor,9:51,2,Pelicans,Pacers,30 - 26,0,0,2,Layup
+16,Frank Jackson,DEFENSIVE_REBOUND,None,9:46,2,Pelicans,Pacers,30 - 26,1,N/A,N/A,N/A
+17,Jahlil Okafor,FG_MISS,None,9:32,2,Pelicans,Pacers,30 - 26,1,11,2,Jumper
+18,T.J. Leaf,DEFENSIVE_REBOUND,None,9:30,2,Pacers,Pelicans,30 - 26,0,N/A,N/A,N/A
+19,Aaron Holiday,FG_MISS,None,9:24,2,Pacers,Pelicans,30 - 26,0,9,2,Jumper
+20,Cheick Diallo,DEFENSIVE_REBOUND,None,9:22,2,Pelicans,Pacers,30 - 26,1,N/A,N/A,N/A
+21,Cheick Diallo,FG_ASSISTED,Frank Jackson,9:18,2,Pelicans,Pacers,30 - 28,1,0,2,Layup
+22,T.J. Leaf,FG_MISS,None,8:55,2,Pacers,Pelicans,30 - 28,0,28,3,Jumper
+23,Tim Frazier,DEFENSIVE_REBOUND,None,8:52,2,Pelicans,Pacers,30 - 28,1,N/A,N/A,N/A
+24,Ian Clark,FG_MISS,None,8:44,2,Pelicans,Pacers,30 - 28,1,16,2,Jumper
+25,Team,DEFENSIVE_REBOUND,None,8:44,2,Pacers,Pelicans,30 - 28,0,N/A,N/A,N/A
+26,Jahlil Okafor,FOUL_ON_FLOOR,None,8:44,2,Pelicans,Pacers,30 - 28,1,N/A,N/A,N/A
+27,Jrue Holiday,SUBSTITUTION,Clark Ian,8:44,2,Pelicans,Pacers,30 - 28,1,N/A,N/A,N/A
+28,Kenrich Williams,SUBSTITUTION,Diallo Cheick,8:44,2,Pelicans,Pacers,30 - 28,1,N/A,N/A,N/A
+29,Domantas Sabonis,FG_UNASSISTED,None,8:28,2,Pacers,Pelicans,32 - 28,0, ,2,Jumper
+30,Jahlil Okafor,FG_MISS,None,8:16,2,Pelicans,Pacers,32 - 28,1,0,2,Layup
+31,Domantas Sabonis,DEFENSIVE_REBOUND,None,8:16,2,Pacers,Pelicans,32 - 28,0,N/A,N/A,N/A
+32,T.J. Leaf,FG_UNASSISTED,None,8:09,2,Pacers,Pelicans,35 - 28,0, ,3,Jumper
+33,Jahlil Okafor,FG_ASSISTED,Frank Jackson,7:57,2,Pelicans,Pacers,35 - 30,1,0,2,Layup
+34,Tyreke Evans's,FG_MISS,Kenrich Williams,7:45,2,Pelicans,Pacers,35 - 30,0,0,2,Layup
+35,Jahlil Okafor,DEFENSIVE_REBOUND,None,7:42,2,Pelicans,Pacers,35 - 30,1,N/A,N/A,N/A
+36,Tim Frazier,FG_MISS,None,7:37,2,Pelicans,Pacers,35 - 30,1,0,2,Layup
+37,Domantas Sabonis,DEFENSIVE_REBOUND,None,7:35,2,Pacers,Pelicans,35 - 30,0,N/A,N/A,N/A
+38,Aaron Holiday,FG_MISS,None,7:27,2,Pacers,Pelicans,35 - 30,0,26,3,Jumper
+39,Jahlil Okafor,DEFENSIVE_REBOUND,None,7:23,2,Pelicans,Pacers,35 - 30,1,N/A,N/A,N/A
+40,Jahlil Okafor,FG_UNASSISTED,None,7:12,2,Pelicans,Pacers,35 - 32,1,0,2,Layup
+41,Team,Unknown,None,7:06,2,Pacers,Pelicans,35 - 32,0,N/A,N/A,N/A
+42,Bojan Bogdanovic,SUBSTITUTION,Holiday Aaron,7:06,2,Pacers,Pelicans,35 - 32,0,N/A,N/A,N/A
+43,Thaddeus Young,SUBSTITUTION,Sumner Edmond,7:06,2,Pacers,Pelicans,35 - 32,0,N/A,N/A,N/A
+44,Darren Collison,SUBSTITUTION,Leaf T.J.,7:06,2,Pacers,Pelicans,35 - 32,0,N/A,N/A,N/A
+45,Tyreke Evans,TURNOVER,Jahlil Okafor,6:55,2,Pacers,Pelicans,35 - 32,0,N/A,N/A,N/A
+46,Jrue Holiday,FG_MISS,None,6:50,2,Pelicans,Pacers,35 - 32,1,27,3,Jumper
+47,Domantas Sabonis,DEFENSIVE_REBOUND,None,6:46,2,Pacers,Pelicans,35 - 32,0,N/A,N/A,N/A
+48,Domantas Sabonis,FG_ASSISTED,Bojan Bogdanovic,6:36,2,Pacers,Pelicans,37 - 32,0,0,2,Layup
+49,Jrue Holiday,FG_ASSISTED,Kenrich Williams,6:20,2,Pelicans,Pacers,37 - 34,1,0,2,Layup
+50,Tyreke Evans,FG_MISS,None,6:01,2,Pacers,Pelicans,37 - 34,0, ,3,Jumper
+51,Jahlil Okafor,DEFENSIVE_REBOUND,None,5:58,2,Pelicans,Pacers,37 - 34,1,N/A,N/A,N/A
+52,Jahlil Okafor,FG_MISS,None,5:43,2,Pelicans,Pacers,37 - 34,1,7,2,Jumper
+53,Domantas Sabonis,DEFENSIVE_REBOUND,None,5:41,2,Pacers,Pelicans,37 - 34,0,N/A,N/A,N/A
+54,Tyreke Evans,FG_ASSISTED,Thaddeus Young,5:28,2,Pacers,Pelicans,39 - 34,0,0,2,Layup
+55,Kenrich Williams,FG_MISS,None,5:15,2,Pelicans,Pacers,39 - 34,1,26,3,Jumper
+56,Domantas Sabonis,DEFENSIVE_REBOUND,None,5:11,2,Pacers,Pelicans,39 - 34,0,N/A,N/A,N/A
+57,Bojan Bogdanovic,FG_MISS,None,5:01,2,Pacers,Pelicans,39 - 34,0,24,3,Jumper
+58,Jahlil Okafor,DEFENSIVE_REBOUND,None,4:57,2,Pelicans,Pacers,39 - 34,1,N/A,N/A,N/A
+59,Frank Jackson,FG_MISS,None,4:36,2,Pelicans,Pacers,39 - 34,1,9,2,Jumper
+60,Tyreke Evans,DEFENSIVE_REBOUND,None,4:34,2,Pacers,Pelicans,39 - 34,0,N/A,N/A,N/A
+61,Bojan Bogdanovic,TURNOVER,Tim Frazier,4:29,2,Pacers,Pelicans,39 - 34,0,N/A,N/A,N/A
+62,Tim Frazier,TURNOVER,Darren Collison,4:26,2,Pelicans,Pacers,39 - 34,1,N/A,N/A,N/A
+63,Bojan Bogdanovic,FG_ASSISTED,Darren Collison,4:21,2,Pacers,Pelicans,41 - 34,0,0,2,Layup
+64,Kenrich Williams,FG_ASSISTED,Tim Frazier,4:02,2,Pelicans,Pacers,41 - 37,1,28,3,Jumper
+65,Tyreke Evans,FG_ASSISTED,Darren Collison,3:53,2,Pacers,Pelicans,44 - 37,0,30,3,Jumper
+66,Jrue Holiday,FG_MISS,None,3:38,2,Pelicans,Pacers,44 - 37,1, ,3,Jumper
+67,Jahlil Okafor,OFFENSIVE_REBOUND,None,3:35,2,Pelicans,Pacers,44 - 37,1,N/A,N/A,N/A
+68,Jahlil Okafor,FG_UNASSISTED,None,3:34,2,Pelicans,Pacers,44 - 39,1, ,2,Jumper
+69,Tyreke Evans,FG_MISS,None,3:21,2,Pacers,Pelicans,44 - 39,0,0,2,Layup
+70,Jrue Holiday,DEFENSIVE_REBOUND,None,3:18,2,Pelicans,Pacers,44 - 39,1,N/A,N/A,N/A
+71,Jrue Holiday,FG_UNASSISTED,None,3:15,2,Pelicans,Pacers,44 - 41,1,0,2,Layup
+72,Domantas Sabonis,FOUL_ON_FLOOR,None,3:15,2,Pacers,Pelicans,44 - 41,0,N/A,N/A,N/A
+73,Cheick Diallo,SUBSTITUTION,Okafor Jahlil,3:15,2,Pelicans,Pacers,44 - 41,1,N/A,N/A,N/A
+74,Darius Miller,SUBSTITUTION,Frazier Tim,3:15,2,Pelicans,Pacers,44 - 41,1,N/A,N/A,N/A
+75,Myles Turner,SUBSTITUTION,Sabonis Domantas,3:15,2,Pacers,Pelicans,44 - 41,0,N/A,N/A,N/A
+76,Cory Joseph,SUBSTITUTION,Evans Tyreke,3:15,2,Pacers,Pelicans,44 - 41,0,N/A,N/A,N/A
+77,Jrue Holiday,FT,None,3:15,2,Pelicans,Pacers,44 - 42,1,N/A,1,N/A
+78,Darren Collison,FG_MISS,None,2:55,2,Pacers,Pelicans,44 - 42,0, ,3,Jumper
+79,Kenrich Williams,DEFENSIVE_REBOUND,None,2:51,2,Pelicans,Pacers,44 - 42,1,N/A,N/A,N/A
+80,Cheick Diallo,FG_ASSISTED,Kenrich Williams,2:31,2,Pelicans,Pacers,44 - 44,1, ,2,Jumper
+81,Thaddeus Young,FG_ASSISTED,Bojan Bogdanovic,2:18,2,Pacers,Pelicans,46 - 44,0,0,2,Layup
+82,Frank Jackson,FG_MISS,None,2:08,2,Pelicans,Pacers,46 - 44,1,0,2,Layup
+83,Cory Joseph,DEFENSIVE_REBOUND,None,2:05,2,Pacers,Pelicans,46 - 44,0,N/A,N/A,N/A
+84,Bojan Bogdanovic,FG_ASSISTED,Cory Joseph,2:02,2,Pacers,Pelicans,49 - 44,0,23,3,Jumper
+85,Bojan Bogdanovic,FOUL_ON_FLOOR,None,1:51,2,Pacers,Pelicans,49 - 44,0,N/A,N/A,N/A
+86,Team,Unknown,None,1:51,2,Pelicans,Pacers,49 - 44,1,N/A,N/A,N/A
+87,Jrue Holiday,FT,None,1:51,2,Pelicans,Pacers,49 - 45,1,N/A,1,N/A
+88,Jrue Holiday,FT,None,1:51,2,Pelicans,Pacers,49 - 46,1,N/A,1,N/A
+89,Thaddeus Young,FG_MISS,Cheick Diallo,1:36,2,Pelicans,Pacers,49 - 46,0,0,2,Layup
+90,Cheick Diallo,DEFENSIVE_REBOUND,None,1:33,2,Pelicans,Pacers,49 - 46,1,N/A,N/A,N/A
+91,Darius Miller,FG_UNASSISTED,None,1:22,2,Pelicans,Pacers,49 - 48,1,14,2,Jumper
+92,Myles Turner,FG_ASSISTED,Darren Collison,1:09,2,Pacers,Pelicans,51 - 48,0,0,2,Dunk
+93,Kenrich Williams,FG_MISS,None,53.5,2,Pelicans,Pacers,51 - 48,1,22,3,Jumper
+94,Cheick Diallo,OFFENSIVE_REBOUND,None,49.0,2,Pelicans,Pacers,51 - 48,1,N/A,N/A,N/A
+95,Jrue Holiday,FG_UNASSISTED,None,44.3,2,Pelicans,Pacers,51 - 50,1,0,2,Dunk
+96,Darren Collison,FG_UNASSISTED,None,34.8,2,Pacers,Pelicans,53 - 50,0,18,2,Jumper
+97,Kenrich Williams,FG_MISS,None,14.3,2,Pelicans,Pacers,53 - 50,1,23,3,Jumper
+98,Bojan Bogdanovic,DEFENSIVE_REBOUND,None,10.7,2,Pacers,Pelicans,53 - 50,0,N/A,N/A,N/A
+99,Myles Turner,FG_MISS,None,0.9,2,Pacers,Pelicans,53 - 50,0, ,2,Jumper
+100,Team,OFFENSIVE_REBOUND,None,0.9,2,Pacers,Pelicans,53 - 50,0,N/A,N/A,N/A
+101,End of,Unknown,None,0.0,2,Pelicans,Pacers,53 - 50,1,N/A,N/A,N/A
+0,Jahlil Okafor,SUBSTITUTION,Diallo Cheick,12:00,3,Pelicans,Pacers,53 - 50,1,N/A,N/A,N/A
+1,Kenrich Williams,FG_ASSISTED,Darius Miller,11:42,3,Pelicans,Pacers,53 - 53,1, ,2,Jumper
+2,Thaddeus Young,FG_ASSISTED,Bojan Bogdanovic,11:12,3,Pacers,Pelicans,55 - 53,0,7,2,Jumper
+3,Darius Miller,FG_MISS,None,11:06,3,Pelicans,Pacers,55 - 53,1,25,3,Jumper
+4,Myles Turner,DEFENSIVE_REBOUND,None,11:03,3,Pacers,Pelicans,55 - 53,0,N/A,N/A,N/A
+5,Kenrich Williams,FOUL_ON_FLOOR,None,10:56,3,Pelicans,Pacers,55 - 53,1,N/A,N/A,N/A
+6,Bojan Bogdanovic,FT_MISS,None,10:56,3,Pacers,Pelicans,55 - 53,0,N/A,1,N/A
+7,Team,OFFENSIVE_REBOUND,None,10:56,3,Pacers,Pelicans,55 - 53,0,N/A,N/A,N/A
+8,Bojan Bogdanovic,FT,None,10:56,3,Pacers,Pelicans,56 - 53,0,N/A,1,N/A
+9,Frank Jackson,FG_MISS,None,10:42,3,Pelicans,Pacers,56 - 53,1,25,3,Jumper
+10,Kenrich Williams,OFFENSIVE_REBOUND,None,10:39,3,Pelicans,Pacers,56 - 53,1,N/A,N/A,N/A
+11,Jrue Holiday,TURNOVER,None,10:37,3,Pelicans,Pacers,56 - 53,1,N/A,N/A,N/A
+12,Myles Turner,FG_UNASSISTED,None,10:25,3,Pacers,Pelicans,58 - 53,0,0,2,Dunk
+13,Kenrich Williams,FG_MISS,None,10:00,3,Pelicans,Pacers,58 - 53,1,25,3,Jumper
+14,Jahlil Okafor,OFFENSIVE_REBOUND,None,9:59,3,Pelicans,Pacers,58 - 53,1,N/A,N/A,N/A
+15,Kenrich Williams,FG_ASSISTED,Jahlil Okafor,9:56,3,Pelicans,Pacers,58 - 55,1,0,2,Dunk
+16,Cory Joseph,FG_ASSISTED,Thaddeus Young,9:41,3,Pacers,Pelicans,61 - 55,0,27,2,Jumper
+17,Darius Miller,FG_MISS,None,9:23,3,Pelicans,Pacers,61 - 55,1,18,2,Jumper
+18,Myles Turner,DEFENSIVE_REBOUND,None,9:18,3,Pacers,Pelicans,61 - 55,0,N/A,N/A,N/A
+19,Darren Collison,FG_MISS,None,9:13,3,Pacers,Pelicans,61 - 55,0,27,3,Jumper
+20,Frank Jackson,DEFENSIVE_REBOUND,None,9:09,3,Pelicans,Pacers,61 - 55,1,N/A,N/A,N/A
+21,Myles Turner,FOUL_ON_FLOOR,None,8:59,3,Pacers,Pelicans,61 - 55,0,N/A,N/A,N/A
+22,Jahlil Okafor,FT,None,8:59,3,Pelicans,Pacers,61 - 56,1,N/A,1,N/A
+23,Jahlil Okafor,FT,None,8:59,3,Pelicans,Pacers,61 - 57,1,N/A,1,N/A
+24,Myles Turner,FG_MISS,None,8:48,3,Pacers,Pelicans,61 - 57,0,26,3,Jumper
+25,Thaddeus Young,OFFENSIVE_REBOUND,None,8:44,3,Pacers,Pelicans,61 - 57,0,N/A,N/A,N/A
+26,Thaddeus Young,FG_UNASSISTED,None,8:42,3,Pacers,Pelicans,63 - 57,0, ,2,Jumper
+27,Frank Jackson,FG_MISS,None,8:25,3,Pelicans,Pacers,63 - 57,1,23,3,Jumper
+28,Thaddeus Young,DEFENSIVE_REBOUND,None,8:22,3,Pacers,Pelicans,63 - 57,0,N/A,N/A,N/A
+29,Jahlil Okafor,FOUL_ON_FLOOR,None,8:07,3,Pelicans,Pacers,63 - 57,1,N/A,N/A,N/A
+30,Myles Turner,FT,None,8:07,3,Pacers,Pelicans,64 - 57,0,N/A,1,N/A
+31,Myles Turner,FT,None,8:07,3,Pacers,Pelicans,65 - 57,0,N/A,1,N/A
+32,Frank Jackson,TURNOVER,None,7:50,3,Pelicans,Pacers,65 - 57,1,N/A,N/A,N/A
+33,Kenrich Williams,FOUL_ON_FLOOR,None,7:39,3,Pelicans,Pacers,65 - 57,1,N/A,N/A,N/A
+34,Cheick Diallo,SUBSTITUTION,Jackson Frank,7:39,3,Pelicans,Pacers,65 - 57,1,N/A,N/A,N/A
+35,Ian Clark,SUBSTITUTION,Okafor Jahlil,7:39,3,Pelicans,Pacers,65 - 57,1,N/A,N/A,N/A
+36,Cory Joseph,FG_MISS,None,7:29,3,Pacers,Pelicans,65 - 57,0,25,3,Jumper
+37,Cheick Diallo,DEFENSIVE_REBOUND,None,7:26,3,Pelicans,Pacers,65 - 57,1,N/A,N/A,N/A
+38,Cheick Diallo,FG_ASSISTED,Jrue Holiday,7:14,3,Pelicans,Pacers,65 - 59,1,0,2,Layup
+39,Darren Collison,FOUL_ON_FLOOR,None,7:14,3,Pacers,Pelicans,65 - 59,0,N/A,N/A,N/A
+40,Cheick Diallo,FT,None,7:14,3,Pelicans,Pacers,65 - 60,1,N/A,1,N/A
+41,Bojan Bogdanovic,FG_ASSISTED,Darren Collison,7:00,3,Pacers,Pelicans,68 - 60,0,26,3,Jumper
+42,Jrue Holiday,TURNOVER,None,6:46,3,Pelicans,Pacers,68 - 60,1,N/A,N/A,N/A
+43,Team,Unknown,None,6:46,3,Pelicans,Pacers,68 - 60,1,N/A,N/A,N/A
+44,Tim Frazier,SUBSTITUTION,Williams Kenrich,6:46,3,Pelicans,Pacers,68 - 60,1,N/A,N/A,N/A
+45,Bojan Bogdanovic,FG_MISS,Jrue Holiday,6:34,3,Pelicans,Pacers,68 - 60,0,10,2,Jumper
+46,Jrue Holiday,DEFENSIVE_REBOUND,None,6:33,3,Pelicans,Pacers,68 - 60,1,N/A,N/A,N/A
+47,Darius Miller,FG_MISS,None,6:26,3,Pelicans,Pacers,68 - 60,1,25,3,Jumper
+48,Jrue Holiday,OFFENSIVE_REBOUND,None,6:22,3,Pelicans,Pacers,68 - 60,1,N/A,N/A,N/A
+49,Tim Frazier,FG_MISS,None,6:19,3,Pelicans,Pacers,68 - 60,1,26,3,Jumper
+50,Myles Turner,DEFENSIVE_REBOUND,None,6:17,3,Pacers,Pelicans,68 - 60,0,N/A,N/A,N/A
+51,Cory Joseph,FG_ASSISTED,Darren Collison,5:59,3,Pacers,Pelicans,70 - 60,0,20,2,Jumper
+52,Ian Clark,FG_ASSISTED,Jrue Holiday,5:44,3,Pelicans,Pacers,70 - 63,1,25,3,Jumper
+53,Myles Turner,FG_MISS,None,5:27,3,Pacers,Pelicans,70 - 63,0,19,2,Jumper
+54,Darius Miller,DEFENSIVE_REBOUND,None,5:21,3,Pelicans,Pacers,70 - 63,1,N/A,N/A,N/A
+55,Ian Clark,FG_MISS,None,5:13,3,Pelicans,Pacers,70 - 63,1,11,2,Jumper
+56,Ian Clark,OFFENSIVE_REBOUND,None,5:10,3,Pelicans,Pacers,70 - 63,1,N/A,N/A,N/A
+57,Cheick Diallo,FG_ASSISTED,Ian Clark,5:07,3,Pelicans,Pacers,70 - 65,1,12,2,Jumper
+58,Tim Frazier,FOUL_ON_FLOOR,None,4:54,3,Pelicans,Pacers,70 - 65,1,N/A,N/A,N/A
+59,Bojan Bogdanovic,FG_MISS,None,4:48,3,Pacers,Pelicans,70 - 65,0,2,2,Jumper
+60,Cheick Diallo,DEFENSIVE_REBOUND,None,4:46,3,Pelicans,Pacers,70 - 65,1,N/A,N/A,N/A
+61,Jrue Holiday,FG_MISS,None,4:41,3,Pelicans,Pacers,70 - 65,1,0,2,Layup
+62,Cheick Diallo,OFFENSIVE_REBOUND,None,4:41,3,Pelicans,Pacers,70 - 65,1,N/A,N/A,N/A
+63,Cheick Diallo,FG_UNASSISTED,None,4:36,3,Pelicans,Pacers,70 - 67,1, ,2,Jumper
+64,Darren Collison,FG_UNASSISTED,None,4:15,3,Pacers,Pelicans,72 - 67,0, ,2,Jumper
+65,Ian Clark,TURNOVER,Bojan Bogdanovic,4:02,3,Pelicans,Pacers,72 - 67,1,N/A,N/A,N/A
+66,Darren Collison,FG_ASSISTED,Bojan Bogdanovic,3:58,3,Pacers,Pelicans,74 - 67,0,20,2,Jumper
+67,Team,Unknown,None,3:58,3,Pelicans,Pacers,74 - 67,1,N/A,N/A,N/A
+68,Tyreke Evans,SUBSTITUTION,Young Thaddeus,3:58,3,Pacers,Pelicans,74 - 67,0,N/A,N/A,N/A
+69,Domantas Sabonis,SUBSTITUTION,Bogdanovic Bojan,3:58,3,Pacers,Pelicans,74 - 67,0,N/A,N/A,N/A
+70,Darius Miller,FG_MISS,None,3:50,3,Pelicans,Pacers,74 - 67,1,27,3,Jumper
+71,Cheick Diallo,OFFENSIVE_REBOUND,None,3:48,3,Pelicans,Pacers,74 - 67,1,N/A,N/A,N/A
+72,Myles Turner,FOUL_ON_FLOOR,None,3:39,3,Pacers,Pelicans,74 - 67,0,N/A,N/A,N/A
+73,Cheick Diallo,FT_MISS,None,3:39,3,Pelicans,Pacers,74 - 67,1,N/A,1,N/A
+74,Team,OFFENSIVE_REBOUND,None,3:39,3,Pelicans,Pacers,74 - 67,1,N/A,N/A,N/A
+75,Jahlil Okafor,SUBSTITUTION,Holiday Jrue,3:39,3,Pelicans,Pacers,74 - 67,1,N/A,N/A,N/A
+76,Cheick Diallo,FT,None,3:39,3,Pelicans,Pacers,74 - 68,1,N/A,1,N/A
+77,Cheick Diallo,FOUL_ON_FLOOR,None,3:26,3,Pelicans,Pacers,74 - 68,1,N/A,N/A,N/A
+78,Domantas Sabonis,FT,None,3:26,3,Pacers,Pelicans,75 - 68,0,N/A,1,N/A
+79,Edmond Sumner,SUBSTITUTION,Joseph Cory,3:26,3,Pacers,Pelicans,75 - 68,0,N/A,N/A,N/A
+80,Domantas Sabonis,FT,None,3:26,3,Pacers,Pelicans,76 - 68,0,N/A,1,N/A
+81,Cheick Diallo,FG_MISS,Myles Turner,3:07,3,Pacers,Pelicans,76 - 68,1,0,2,Layup
+82,Tyreke Evans,DEFENSIVE_REBOUND,None,3:04,3,Pacers,Pelicans,76 - 68,0,N/A,N/A,N/A
+83,Tyreke Evans,FG_UNASSISTED,None,3:01,3,Pacers,Pelicans,78 - 68,0,0,2,Layup
+84,Ian Clark,TURNOVER,None,2:46,3,Pelicans,Pacers,78 - 68,1,N/A,N/A,N/A
+85,Ian Clark,FOUL_ON_FLOOR,None,2:33,3,Pelicans,Pacers,78 - 68,1,N/A,N/A,N/A
+86,Edmond Sumner,FT_MISS,None,2:33,3,Pacers,Pelicans,78 - 68,0,N/A,1,N/A
+87,Team,OFFENSIVE_REBOUND,None,2:33,3,Pacers,Pelicans,78 - 68,0,N/A,N/A,N/A
+88,Kenrich Williams,SUBSTITUTION,for game,2:33,3,Pelicans,Pacers,78 - 68,1,N/A,N/A,N/A
+89,Aaron Holiday,SUBSTITUTION,Collison Darren,2:33,3,Pacers,Pelicans,78 - 68,0,N/A,N/A,N/A
+90,Edmond Sumner,FT,None,2:33,3,Pacers,Pelicans,79 - 68,0,N/A,1,N/A
+91,enters the,SUBSTITUTION,Miller Darius,2:33,3,Pelicans,Pacers,79 - 68,1,N/A,N/A,N/A
+92,Ian Clark,FG_UNASSISTED,None,2:13,3,Pelicans,Pacers,79 - 70,1,7,2,Jumper
+93,Tyreke Evans,TURNOVER,None,2:07,3,Pacers,Pelicans,79 - 70,0,N/A,N/A,N/A
+94,Ian Clark,FG_UNASSISTED,None,1:55,3,Pelicans,Pacers,79 - 72,1,9,2,Jumper
+95,Myles Turner,FG_ASSISTED,Aaron Holiday,1:42,3,Pacers,Pelicans,81 - 72,0,0,2,Layup
+96,Jahlil Okafor,FOUL_ON_FLOOR,None,1:42,3,Pelicans,Pacers,81 - 72,1,N/A,N/A,N/A
+97,Myles Turner,FT_MISS,None,1:42,3,Pacers,Pelicans,81 - 72,0,N/A,1,N/A
+98,Cheick Diallo,DEFENSIVE_REBOUND,None,1:38,3,Pelicans,Pacers,81 - 72,1,N/A,N/A,N/A
+99,Ian Clark,TURNOVER,None,1:27,3,Pelicans,Pacers,81 - 72,1,N/A,N/A,N/A
+100,Ian Clark,TURNOVER,None,1:27,3,Pelicans,Pacers,81 - 72,1,N/A,N/A,N/A
+101,enters the,SUBSTITUTION,Okafor Jahlil,1:27,3,Pelicans,Pacers,81 - 72,1,N/A,N/A,N/A
+102,Thaddeus Young,SUBSTITUTION,Turner Myles,1:27,3,Pacers,Pelicans,81 - 72,0,N/A,N/A,N/A
+103,Edmond Sumner,TURNOVER,Kenrich Williams,1:14,3,Pacers,Pelicans,81 - 72,0,N/A,N/A,N/A
+104,Tim Frazier,FG_MISS,None,51.8,3,Pelicans,Pacers,81 - 72,1, ,3,Jumper
+105,shot clock,TURNOVER,None,51.8,3,Pelicans,Pacers,81 - 72,1,N/A,N/A,N/A
+106,Team,OFFENSIVE_REBOUND,None,51.8,3,Pelicans,Pacers,81 - 72,1,N/A,N/A,N/A
+107,Edmond Sumner,FG_MISS,None,30.7,3,Pacers,Pelicans,81 - 72,0,17,2,Jumper
+108,Cheick Diallo,DEFENSIVE_REBOUND,None,28.2,3,Pelicans,Pacers,81 - 72,1,N/A,N/A,N/A
+109,Ian Clark,FG_MISS,None,16.0,3,Pelicans,Pacers,81 - 72,1,25,3,Jumper
+110,Solomon Hill,OFFENSIVE_REBOUND,None,13.0,3,Pelicans,Pacers,81 - 72,1,N/A,N/A,N/A
+111,Domantas Sabonis,FOUL_ON_FLOOR,None,13.0,3,Pacers,Pelicans,81 - 72,0,N/A,N/A,N/A
+112,Bojan Bogdanovic,SUBSTITUTION,Sumner Edmond,13.0,3,Pacers,Pelicans,81 - 72,0,N/A,N/A,N/A
+113,Solomon Hill,FT,None,13.0,3,Pelicans,Pacers,81 - 73,1,N/A,1,N/A
+114,Solomon Hill,FT,None,13.0,3,Pelicans,Pacers,81 - 74,1,N/A,1,N/A
+115,Thaddeus Young,FG_ASSISTED,Tyreke Evans,0.8,3,Pacers,Pelicans,83 - 74,0,21,2,Jumper
+116,End of,Unknown,None,0.0,3,Pelicans,Pacers,83 - 74,1,N/A,N/A,N/A
+0,Jahlil Okafor,SUBSTITUTION,Frazier Tim,12:00,4,Pelicans,Pacers,83 - 74,1,N/A,N/A,N/A
+1,Darius Miller,SUBSTITUTION,Diallo Cheick,12:00,4,Pelicans,Pacers,83 - 74,1,N/A,N/A,N/A
+2,Jrue Holiday,SUBSTITUTION,Williams Kenrich,12:00,4,Pelicans,Pacers,83 - 74,1,N/A,N/A,N/A
+3,Edmond Sumner,SUBSTITUTION,Bogdanovic Bojan,12:00,4,Pacers,Pelicans,83 - 74,0,N/A,N/A,N/A
+4,Aaron Holiday,FG_ASSISTED,Domantas Sabonis,11:39,4,Pacers,Pelicans,85 - 74,0,0,2,Layup
+5,Darius Miller,FG_ASSISTED,Jrue Holiday,11:11,4,Pelicans,Pacers,85 - 77,1,23,3,Jumper
+6,Tyreke Evans,FG_UNASSISTED,None,10:58,4,Pacers,Pelicans,87 - 77,0,0,2,Layup
+7,Edmond Sumner,FOUL_ON_FLOOR,None,10:47,4,Pacers,Pelicans,87 - 77,0,N/A,N/A,N/A
+8,Jrue Holiday,FT,None,10:47,4,Pelicans,Pacers,87 - 78,1,N/A,1,N/A
+9,Jrue Holiday,FT,None,10:47,4,Pelicans,Pacers,87 - 79,1,N/A,1,N/A
+10,Domantas Sabonis,FG_MISS,None,10:32,4,Pacers,Pelicans,87 - 79,0,13,2,Jumper
+11,Jahlil Okafor,DEFENSIVE_REBOUND,None,10:30,4,Pelicans,Pacers,87 - 79,1,N/A,N/A,N/A
+12,Jrue Holiday,FG_MISS,None,10:07,4,Pelicans,Pacers,87 - 79,1,25,3,Jumper
+13,Darius Miller,OFFENSIVE_REBOUND,None,10:05,4,Pelicans,Pacers,87 - 79,1,N/A,N/A,N/A
+14,Darius Miller,FG_MISS,None,10:03,4,Pelicans,Pacers,87 - 79,1, ,3,Jumper
+15,Aaron Holiday,DEFENSIVE_REBOUND,None,9:57,4,Pacers,Pelicans,87 - 79,0,N/A,N/A,N/A
+16,Aaron Holiday,FG_UNASSISTED,None,9:54,4,Pacers,Pelicans,90 - 79,0,27,3,Jumper
+17,Jahlil Okafor,FG_ASSISTED,Jrue Holiday,9:38,4,Pelicans,Pacers,90 - 81,1,0,2,Layup
+18,Thaddeus Young,FOUL_ON_FLOOR,None,9:38,4,Pacers,Pelicans,90 - 81,0,N/A,N/A,N/A
+19,Domantas Sabonis,FOUL_TECHNICAL,None,9:38,4,Pacers,Pelicans,90 - 81,0,N/A,N/A,N/A
+20,Ian Clark,FT,None,9:38,4,Pelicans,Pacers,90 - 82,1,N/A,1,N/A
+21,Jahlil Okafor,FT,None,9:38,4,Pelicans,Pacers,90 - 83,1,N/A,1,N/A
+22,Tyreke Evans,FG_MISS,None,9:26,4,Pacers,Pelicans,90 - 83,0,0,2,Layup
+23,Domantas Sabonis,OFFENSIVE_REBOUND,None,9:21,4,Pacers,Pelicans,90 - 83,0,N/A,N/A,N/A
+24,Domantas Sabonis,FG_UNASSISTED,None,9:21,4,Pacers,Pelicans,92 - 83,0,0,2,Dunk
+25,Darius Miller,FG_ASSISTED,Jrue Holiday,9:18,4,Pelicans,Pacers,92 - 86,1,24,3,Jumper
+26,Nate McMillan,FOUL_TECHNICAL,None,9:17,4,Pacers,Pelicans,92 - 86,0,N/A,N/A,N/A
+27,Ian Clark,FT,None,9:17,4,Pelicans,Pacers,92 - 87,1,N/A,1,N/A
+28,Cory Joseph,SUBSTITUTION,Sumner Edmond,9:17,4,Pacers,Pelicans,92 - 87,0,N/A,N/A,N/A
+29,Domantas Sabonis,FG_ASSISTED,Cory Joseph,9:06,4,Pacers,Pelicans,94 - 87,0,22,2,Jumper
+30,Jrue Holiday,TURNOVER,None,8:59,4,Pelicans,Pacers,94 - 87,1,N/A,N/A,N/A
+31,Tyreke Evans,FG_MISS,None,8:44,4,Pacers,Pelicans,94 - 87,0,0,2,Layup
+32,Darius Miller,DEFENSIVE_REBOUND,None,8:41,4,Pelicans,Pacers,94 - 87,1,N/A,N/A,N/A
+33,Jahlil Okafor,FG_MISS,None,8:29,4,Pelicans,Pacers,94 - 87,1,0,2,Layup
+34,Cory Joseph,DEFENSIVE_REBOUND,None,8:27,4,Pacers,Pelicans,94 - 87,0,N/A,N/A,N/A
+35,Tyreke Evans,FG_MISS,None,8:12,4,Pacers,Pelicans,94 - 87,0,27,3,Jumper
+36,Jrue Holiday,DEFENSIVE_REBOUND,None,8:09,4,Pelicans,Pacers,94 - 87,1,N/A,N/A,N/A
+37,Darius Miller,FG_ASSISTED,Jrue Holiday,8:01,4,Pelicans,Pacers,94 - 90,1,24,3,Jumper
+38,Team,Unknown,None,7:59,4,Pacers,Pelicans,94 - 90,0,N/A,N/A,N/A
+39,Kenrich Williams,SUBSTITUTION,Hill Solomon,7:59,4,Pelicans,Pacers,94 - 90,1,N/A,N/A,N/A
+40,Darren Collison,SUBSTITUTION,Holiday Aaron,7:59,4,Pacers,Pelicans,94 - 90,0,N/A,N/A,N/A
+41,Edmond Sumner,SUBSTITUTION,Evans Tyreke,7:59,4,Pacers,Pelicans,94 - 90,0,N/A,N/A,N/A
+42,Bojan Bogdanovic,SUBSTITUTION,Young Thaddeus,7:59,4,Pacers,Pelicans,94 - 90,0,N/A,N/A,N/A
+43,Darren Collison,FG_ASSISTED,Cory Joseph,7:39,4,Pacers,Pelicans,97 - 90,0,23,3,Jumper
+44,Darius Miller,FOUL_ON_FLOOR,None,7:28,4,Pelicans,Pacers,97 - 90,1,N/A,N/A,N/A
+45,Darius Miller,TURNOVER,None,7:28,4,Pelicans,Pacers,97 - 90,1,N/A,N/A,N/A
+46,Bojan Bogdanovic,FG_MISS,None,7:15,4,Pacers,Pelicans,97 - 90,0, ,2,Jumper
+47,Team,DEFENSIVE_REBOUND,None,7:15,4,Pelicans,Pacers,97 - 90,1,N/A,N/A,N/A
+48,Domantas Sabonis,FOUL_ON_FLOOR,None,7:15,4,Pacers,Pelicans,97 - 90,0,N/A,N/A,N/A
+49,Alvin Gentry,FOUL_TECHNICAL,None,7:15,4,Pelicans,Pacers,97 - 90,1,N/A,N/A,N/A
+50,Bojan Bogdanovic,FT,None,7:15,4,Pacers,Pelicans,98 - 90,0,N/A,1,N/A
+51,Bojan Bogdanovic,FOUL_ON_FLOOR,None,7:06,4,Pacers,Pelicans,98 - 90,0,N/A,N/A,N/A
+52,Jrue Holiday,FT,None,7:06,4,Pelicans,Pacers,98 - 91,1,N/A,1,N/A
+53,Jrue Holiday,FT_MISS,None,7:06,4,Pelicans,Pacers,98 - 91,1,N/A,1,N/A
+54,Domantas Sabonis,DEFENSIVE_REBOUND,None,7:03,4,Pacers,Pelicans,98 - 91,0,N/A,N/A,N/A
+55,Cory Joseph,FG_MISS,None,6:47,4,Pacers,Pelicans,98 - 91,0,18,2,Jumper
+56,Darius Miller,DEFENSIVE_REBOUND,None,6:44,4,Pelicans,Pacers,98 - 91,1,N/A,N/A,N/A
+57,Jahlil Okafor,FG_ASSISTED,Darius Miller,6:38,4,Pelicans,Pacers,98 - 93,1,0,2,Dunk
+58,Team,Unknown,None,6:37,4,Pacers,Pelicans,98 - 93,0,N/A,N/A,N/A
+59,Myles Turner,SUBSTITUTION,Sabonis Domantas,6:37,4,Pacers,Pelicans,98 - 93,0,N/A,N/A,N/A
+60,Thaddeus Young,SUBSTITUTION,Sumner Edmond,6:37,4,Pacers,Pelicans,98 - 93,0,N/A,N/A,N/A
+61,Myles Turner,FOUL_ON_FLOOR,None,6:30,4,Pacers,Pelicans,98 - 93,0,N/A,N/A,N/A
+62,Myles Turner,TURNOVER,None,6:30,4,Pacers,Pelicans,98 - 93,0,N/A,N/A,N/A
+63,Jahlil Okafor,FG_ASSISTED,Ian Clark,6:06,4,Pelicans,Pacers,98 - 95,1,0,2,Layup
+64,Jahlil Okafor,FOUL_ON_FLOOR,None,5:56,4,Pelicans,Pacers,98 - 95,1,N/A,N/A,N/A
+65,Bojan Bogdanovic,FT,None,5:56,4,Pacers,Pelicans,99 - 95,0,N/A,1,N/A
+66,Cheick Diallo,SUBSTITUTION,Okafor Jahlil,5:56,4,Pelicans,Pacers,99 - 95,1,N/A,N/A,N/A
+67,Bojan Bogdanovic,FT_MISS,None,5:56,4,Pacers,Pelicans,99 - 95,0,N/A,1,N/A
+68,Cheick Diallo,DEFENSIVE_REBOUND,None,5:56,4,Pelicans,Pacers,99 - 95,1,N/A,N/A,N/A
+69,Ian Clark,FG_MISS,None,5:41,4,Pelicans,Pacers,99 - 95,1,6,2,Jumper
+70,Myles Turner,DEFENSIVE_REBOUND,None,5:39,4,Pacers,Pelicans,99 - 95,0,N/A,N/A,N/A
+71,Myles Turner,FG_MISS,None,5:32,4,Pacers,Pelicans,99 - 95,0,20,2,Jumper
+72,Cory Joseph,OFFENSIVE_REBOUND,None,5:28,4,Pacers,Pelicans,99 - 95,0,N/A,N/A,N/A
+73,Darren Collison,FG_ASSISTED,Cory Joseph,5:13,4,Pacers,Pelicans,101 - 95,0, ,2,Jumper
+74,Jrue Holiday,FG_MISS,None,5:05,4,Pelicans,Pacers,101 - 95,1,25,3,Jumper
+75,Cheick Diallo,OFFENSIVE_REBOUND,None,5:05,4,Pelicans,Pacers,101 - 95,1,N/A,N/A,N/A
+76,Cheick Diallo,FG_MISS,None,5:00,4,Pelicans,Pacers,101 - 95,1, ,2,Jumper
+77,Team,DEFENSIVE_REBOUND,None,5:00,4,Pacers,Pelicans,101 - 95,0,N/A,N/A,N/A
+78,Thaddeus Young,FG_MISS,None,4:39,4,Pacers,Pelicans,101 - 95,0,9,2,Jumper
+79,Cheick Diallo,DEFENSIVE_REBOUND,None,4:36,4,Pelicans,Pacers,101 - 95,1,N/A,N/A,N/A
+80,Jrue Holiday,FG_MISS,None,4:30,4,Pelicans,Pacers,101 - 95,1,24,3,Jumper
+81,Myles Turner,DEFENSIVE_REBOUND,None,4:27,4,Pacers,Pelicans,101 - 95,0,N/A,N/A,N/A
+82,Myles Turner,FG_MISS,None,4:15,4,Pacers,Pelicans,101 - 95,0,14,2,Jumper
+83,Myles Turner,OFFENSIVE_REBOUND,None,4:12,4,Pacers,Pelicans,101 - 95,0,N/A,N/A,N/A
+84,Myles Turner,FG_UNASSISTED,None,4:10,4,Pacers,Pelicans,103 - 95,0, ,2,Jumper
+85,Ian Clark,FG_UNASSISTED,None,4:01,4,Pelicans,Pacers,103 - 97,1, ,2,Jumper
+86,Bojan Bogdanovic,TURNOVER,Cheick Diallo,3:45,4,Pacers,Pelicans,103 - 97,0,N/A,N/A,N/A
+87,Kenrich Williams,TURNOVER,Cory Joseph,3:39,4,Pelicans,Pacers,103 - 97,1,N/A,N/A,N/A
+88,Darius Miller,FOUL_ON_FLOOR,None,3:38,4,Pelicans,Pacers,103 - 97,1,N/A,N/A,N/A
+89,Jahlil Okafor,SUBSTITUTION,Diallo Cheick,3:38,4,Pelicans,Pacers,103 - 97,1,N/A,N/A,N/A
+90,Cory Joseph,FG_MISS,None,3:26,4,Pacers,Pelicans,103 - 97,0,24,3,Jumper
+91,Jahlil Okafor,DEFENSIVE_REBOUND,None,3:22,4,Pelicans,Pacers,103 - 97,1,N/A,N/A,N/A
+92,Team,Unknown,None,3:20,4,Pelicans,Pacers,103 - 97,1,N/A,N/A,N/A
+93,Ian Clark,FG_ASSISTED,Jrue Holiday,3:04,4,Pelicans,Pacers,103 - 100,1,26,3,Jumper
+94,Myles Turner,FG_MISS,None,2:42,4,Pacers,Pelicans,103 - 100,0,26,3,Jumper
+95,Jrue Holiday,DEFENSIVE_REBOUND,None,2:39,4,Pelicans,Pacers,103 - 100,1,N/A,N/A,N/A
+96,Jahlil Okafor,FG_ASSISTED,Ian Clark,2:31,4,Pelicans,Pacers,103 - 102,1,0,2,Layup
+97,Darren Collison,FG_MISS,None,2:17,4,Pacers,Pelicans,103 - 102,0,0,2,Layup
+98,Thaddeus Young,OFFENSIVE_REBOUND,None,2:14,4,Pacers,Pelicans,103 - 102,0,N/A,N/A,N/A
+99,Thaddeus Young,FG_MISS,None,2:14,4,Pacers,Pelicans,103 - 102,0,2,2,Jumper
+100,Jrue Holiday,DEFENSIVE_REBOUND,None,2:13,4,Pelicans,Pacers,103 - 102,1,N/A,N/A,N/A
+101,Darius Miller,FG_MISS,None,2:07,4,Pelicans,Pacers,103 - 102,1,26,3,Jumper
+102,Myles Turner,DEFENSIVE_REBOUND,None,2:05,4,Pacers,Pelicans,103 - 102,0,N/A,N/A,N/A
+103,Darren Collison,FG_ASSISTED,Thaddeus Young,1:54,4,Pacers,Pelicans,106 - 102,0,27,3,Jumper
+104,Jrue Holiday,FG_MISS,None,1:43,4,Pelicans,Pacers,106 - 102,1,26,3,Jumper
+105,Darren Collison,DEFENSIVE_REBOUND,None,1:43,4,Pacers,Pelicans,106 - 102,0,N/A,N/A,N/A
+106,Ian Clark,FOUL_ON_FLOOR,None,1:27,4,Pelicans,Pacers,106 - 102,1,N/A,N/A,N/A
+107,Bojan Bogdanovic,TURNOVER,Jrue Holiday,1:19,4,Pacers,Pelicans,106 - 102,0,N/A,N/A,N/A
+108,Jahlil Okafor,FG_ASSISTED,Ian Clark,1:16,4,Pelicans,Pacers,106 - 104,1,0,2,Layup
+109,Myles Turner,FG_MISS,None,59.7,4,Pacers,Pelicans,106 - 104,0,0,2,Layup
+110,Jrue Holiday,DEFENSIVE_REBOUND,None,57.9,4,Pelicans,Pacers,106 - 104,1,N/A,N/A,N/A
+111,Kenrich Williams,FG_MISS,None,53.1,4,Pelicans,Pacers,106 - 104,1,24,3,Jumper
+112,Cory Joseph,DEFENSIVE_REBOUND,None,49.0,4,Pacers,Pelicans,106 - 104,0,N/A,N/A,N/A
+113,Darren Collison,FG_UNASSISTED,None,27.4,4,Pacers,Pelicans,108 - 104,0,20,2,Jumper
+114,Team,Unknown,None,25.2,4,Pelicans,Pacers,108 - 104,1,N/A,N/A,N/A
+115,Darius Miller,FG_MISS,None,13.0,4,Pelicans,Pacers,108 - 104,1,24,3,Jumper
+116,Myles Turner,DEFENSIVE_REBOUND,None,10.9,4,Pacers,Pelicans,108 - 104,0,N/A,N/A,N/A
+117,Ian Clark,FOUL_ON_FLOOR,None,10.9,4,Pelicans,Pacers,108 - 104,1,N/A,N/A,N/A
+118,Darren Collison,FT,None,10.9,4,Pacers,Pelicans,109 - 104,0,N/A,1,N/A
+119,Darren Collison,FT_MISS,None,10.9,4,Pacers,Pelicans,109 - 104,0,N/A,1,N/A
+120,Jahlil Okafor,DEFENSIVE_REBOUND,None,10.1,4,Pelicans,Pacers,109 - 104,1,N/A,N/A,N/A
+121,Team,Unknown,None,10.1,4,Pelicans,Pacers,109 - 104,1,N/A,N/A,N/A
+122,Ian Clark,FG_ASSISTED,Kenrich Williams,5.0,4,Pelicans,Pacers,109 - 106,1,0,2,Layup
+123,Team,Unknown,None,5.0,4,Pacers,Pelicans,109 - 106,0,N/A,N/A,N/A
+124,Aaron Holiday,SUBSTITUTION,Young Thaddeus,5.0,4,Pacers,Pelicans,109 - 106,0,N/A,N/A,N/A
+125,Team,Unknown,None,5.0,4,Pacers,Pelicans,109 - 106,0,N/A,N/A,N/A
+126,Cheick Diallo,SUBSTITUTION,Okafor Jahlil,5.0,4,Pelicans,Pacers,109 - 106,1,N/A,N/A,N/A
+127,Aaron Holiday,FOUL_ON_FLOOR,None,5.0,4,Pacers,Pelicans,109 - 106,0,N/A,N/A,N/A
+128,Aaron Holiday,TURNOVER,None,5.0,4,Pacers,Pelicans,109 - 106,0,N/A,N/A,N/A
+129,Frank Jackson,SUBSTITUTION,Diallo Cheick,5.0,4,Pelicans,Pacers,109 - 106,1,N/A,N/A,N/A
+130,Thaddeus Young,SUBSTITUTION,Holiday Aaron,5.0,4,Pacers,Pelicans,109 - 106,0,N/A,N/A,N/A
+131,Cory Joseph,FOUL_ON_FLOOR,None,2.2,4,Pacers,Pelicans,109 - 106,0,N/A,N/A,N/A
+132,Jrue Holiday,FT,None,2.2,4,Pelicans,Pacers,109 - 107,1,N/A,1,N/A
+133,Jahlil Okafor,SUBSTITUTION,Clark Ian,2.2,4,Pelicans,Pacers,109 - 107,1,N/A,N/A,N/A
+134,Cheick Diallo,SUBSTITUTION,Jackson Frank,2.2,4,Pelicans,Pacers,109 - 107,1,N/A,N/A,N/A
+135,Domantas Sabonis,SUBSTITUTION,Joseph Cory,2.2,4,Pacers,Pelicans,109 - 107,0,N/A,N/A,N/A
+136,Jrue Holiday,FT_MISS,None,2.2,4,Pelicans,Pacers,109 - 107,1,N/A,1,N/A
+137,Team,DEFENSIVE_REBOUND,None,1.2,4,Pacers,Pelicans,109 - 107,0,N/A,N/A,N/A
+138,Cory Joseph,SUBSTITUTION,Sabonis Domantas,1.2,4,Pacers,Pelicans,109 - 107,0,N/A,N/A,N/A
+139,End of,Unknown,None,0.0,4,Pelicans,Pacers,109 - 107,1,N/A,N/A,N/A
+140,End of,Unknown,None,0.0,4,Pelicans,Pacers,109 - 107,1,N/A,N/A,N/A

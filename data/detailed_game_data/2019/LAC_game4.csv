@@ -1,0 +1,494 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Marcin Gortat,JUMP_BALL,None,12:00,1,Clippers,Rockets,0 - 0,0,N/A,N/A,N/A
+1,Danilo Gallinari,FG_MISS,None,11:34,1,Clippers,Rockets,0 - 0,0,30,3,Jumper
+2,PJ Tucker,DEFENSIVE_REBOUND,None,11:31,1,Rockets,Clippers,0 - 0,1,N/A,N/A,N/A
+3,PJ Tucker,FG_MISS,None,11:22,1,Rockets,Clippers,0 - 0,1,7,3,Jumper
+4,Marcin Gortat,DEFENSIVE_REBOUND,None,11:18,1,Clippers,Rockets,0 - 0,0,N/A,N/A,N/A
+5,Avery Bradley,FG_UNASSISTED,None,11:07,1,Clippers,Rockets,2 - 0,0,19,3,Jumper
+6,Clint Capela,FG_ASSISTED,PJ Tucker,10:41,1,Rockets,Clippers,2 - 2,1,0,2,Dunk
+7,Tobias Harris,FG_MISS,None,10:27,1,Clippers,Rockets,2 - 2,0,11,3,Jumper
+8,Team,OFFENSIVE_REBOUND,None,10:26,1,Clippers,Rockets,2 - 2,0,N/A,N/A,N/A
+9,Marcin Gortat,TURNOVER,Eric Gordon,10:12,1,Clippers,Rockets,2 - 2,0,N/A,N/A,N/A
+10,PJ Tucker,FG_MISS,Tobias Harris,10:07,1,Clippers,Rockets,2 - 2,1,0,2,Layup
+11,Team,OFFENSIVE_REBOUND,None,10:07,1,Rockets,Clippers,2 - 2,1,N/A,N/A,N/A
+12,Carmelo Anthony,FG_MISS,None,10:04,1,Rockets,Clippers,2 - 2,1,17,3,Jumper
+13,Marcin Gortat,DEFENSIVE_REBOUND,None,10:01,1,Clippers,Rockets,2 - 2,0,N/A,N/A,N/A
+14,Tobias Harris,FG_MISS,Eric Gordon,9:47,1,Rockets,Clippers,2 - 2,0,11,3,Jumper
+15,Team,OFFENSIVE_REBOUND,None,9:46,1,Clippers,Rockets,2 - 2,0,N/A,N/A,N/A
+16,Danilo Gallinari,FG_ASSISTED,Patrick Beverley,9:43,1,Clippers,Rockets,5 - 2,0,25,3,Jumper
+17,Eric Gordon,FG_MISS,None,9:25,1,Rockets,Clippers,5 - 2,1,-,3,Jumper
+18,Tobias Harris,DEFENSIVE_REBOUND,None,9:22,1,Clippers,Rockets,5 - 2,0,N/A,N/A,N/A
+19,Patrick Beverley,FG_MISS,None,9:18,1,Clippers,Rockets,5 - 2,0,28,3,Jumper
+20,Chris Paul,DEFENSIVE_REBOUND,None,9:14,1,Rockets,Clippers,5 - 2,1,N/A,N/A,N/A
+21,Eric Gordon,FG_MISS,None,9:08,1,Rockets,Clippers,5 - 2,1,26,3,Jumper
+22,Danilo Gallinari,DEFENSIVE_REBOUND,None,9:05,1,Clippers,Rockets,5 - 2,0,N/A,N/A,N/A
+23,Tobias Harris,FG_MISS,None,8:54,1,Clippers,Rockets,5 - 2,0,20,3,Jumper
+24,Chris Paul,DEFENSIVE_REBOUND,None,8:50,1,Rockets,Clippers,5 - 2,1,N/A,N/A,N/A
+25,PJ Tucker,FG_MISS,None,8:38,1,Rockets,Clippers,5 - 2,1,25,3,Jumper
+26,Tobias Harris,DEFENSIVE_REBOUND,None,8:35,1,Clippers,Rockets,5 - 2,0,N/A,N/A,N/A
+27,PJ Tucker,FOUL_TECHNICAL,None,8:23,1,Rockets,Clippers,5 - 2,1,N/A,N/A,N/A
+28,Danilo Gallinari,FT,None,8:23,1,Clippers,Rockets,6 - 2,0,N/A,1,N/A
+29,Tobias Harris,TURNOVER,Carmelo Anthony,8:13,1,Clippers,Rockets,6 - 2,0,N/A,N/A,N/A
+30,Carmelo Anthony,FG_MISS,None,8:09,1,Rockets,Clippers,6 - 2,1,25,3,Jumper
+31,Avery Bradley,DEFENSIVE_REBOUND,None,8:04,1,Clippers,Rockets,6 - 2,0,N/A,N/A,N/A
+32,Avery Bradley,FG_MISS,None,8:00,1,Clippers,Rockets,6 - 2,0,26,3,Jumper
+33,Clint Capela,DEFENSIVE_REBOUND,None,7:58,1,Rockets,Clippers,6 - 2,1,N/A,N/A,N/A
+34,Chris Paul,FG_MISS,None,7:47,1,Rockets,Clippers,6 - 2,1,-,3,Jumper
+35,Chris Paul,OFFENSIVE_REBOUND,None,7:45,1,Rockets,Clippers,6 - 2,1,N/A,N/A,N/A
+36,Clint Capela,FG_ASSISTED,Chris Paul,7:42,1,Rockets,Clippers,6 - 4,1,6,3,Jumper
+37,Avery Bradley,TURNOVER,PJ Tucker,7:30,1,Clippers,Rockets,6 - 4,0,N/A,N/A,N/A
+38,PJ Tucker,FG_MISS,None,7:26,1,Rockets,Clippers,6 - 4,1,-,3,Jumper
+39,Avery Bradley,DEFENSIVE_REBOUND,None,7:24,1,Clippers,Rockets,6 - 4,0,N/A,N/A,N/A
+40,Clint Capela,FOUL_ON_FLOOR,None,7:17,1,Rockets,Clippers,6 - 4,1,N/A,N/A,N/A
+41,shot clock,TURNOVER,None,7:02,1,Clippers,Rockets,6 - 4,0,N/A,N/A,N/A
+42,Danilo Gallinari,FOUL_ON_FLOOR,None,6:44,1,Clippers,Rockets,6 - 4,0,N/A,N/A,N/A
+43,Team,Unknown,None,6:44,1,Rockets,Clippers,6 - 4,1,N/A,N/A,N/A
+44,Gerald Green,SUBSTITUTION,Tucker PJ,6:44,1,Rockets,Clippers,6 - 4,1,N/A,N/A,N/A
+45,Patrick Beverley,FOUL_ON_FLOOR,None,6:39,1,Clippers,Rockets,6 - 4,0,N/A,N/A,N/A
+46,Gerald Green,FG_MISS,None,6:28,1,Rockets,Clippers,6 - 4,1,27,3,Jumper
+47,Tobias Harris,DEFENSIVE_REBOUND,None,6:25,1,Clippers,Rockets,6 - 4,0,N/A,N/A,N/A
+48,Tobias Harris,FG_MISS,None,6:12,1,Clippers,Rockets,6 - 4,0,-,3,Jumper
+49,Eric Gordon,DEFENSIVE_REBOUND,None,6:10,1,Rockets,Clippers,6 - 4,1,N/A,N/A,N/A
+50,Carmelo Anthony,FG_ASSISTED,Eric Gordon,6:01,1,Rockets,Clippers,6 - 7,1,23,3,Jumper
+51,Eric Gordon,FOUL_ON_FLOOR,None,5:36,1,Rockets,Clippers,6 - 7,1,N/A,N/A,N/A
+52,Danilo Gallinari,FT,None,5:36,1,Clippers,Rockets,7 - 7,0,N/A,1,N/A
+53,Michael Carter-Williams,SUBSTITUTION,Paul Chris,5:36,1,Rockets,Clippers,7 - 7,1,N/A,N/A,N/A
+54,Lou Williams,SUBSTITUTION,Harris Tobias,5:36,1,Clippers,Rockets,7 - 7,0,N/A,N/A,N/A
+55,Danilo Gallinari,FT,None,5:36,1,Clippers,Rockets,8 - 7,0,N/A,1,N/A
+56,Eric Gordon,FG_MISS,None,5:23,1,Rockets,Clippers,8 - 7,1,0,2,Layup
+57,Clint Capela,OFFENSIVE_REBOUND,None,5:22,1,Rockets,Clippers,8 - 7,1,N/A,N/A,N/A
+58,Clint Capela,FG_MISS,None,5:22,1,Rockets,Clippers,8 - 7,1,-,3,Jumper
+59,Clint Capela,OFFENSIVE_REBOUND,None,5:22,1,Rockets,Clippers,8 - 7,1,N/A,N/A,N/A
+60,Avery Bradley,FOUL_ON_FLOOR,None,5:22,1,Clippers,Rockets,8 - 7,0,N/A,N/A,N/A
+61,Montrezl Harrell,SUBSTITUTION,Gortat Marcin,5:22,1,Clippers,Rockets,8 - 7,0,N/A,N/A,N/A
+62,Carmelo Anthony,FG_UNASSISTED,None,5:12,1,Rockets,Clippers,8 - 9,1,0,2,Layup
+63,Avery Bradley,FG_ASSISTED,Montrezl Harrell,4:59,1,Clippers,Rockets,10 - 9,0,0,2,Layup
+64,Gerald Green,FOUL_ON_FLOOR,None,4:59,1,Rockets,Clippers,10 - 9,1,N/A,N/A,N/A
+65,Avery Bradley,FT,None,4:59,1,Clippers,Rockets,11 - 9,0,N/A,1,N/A
+66,Michael Carter-Williams,FG_ASSISTED,Clint Capela,4:49,1,Rockets,Clippers,11 - 11,1,8,3,Jumper
+67,Michael Carter-Williams,FOUL_ON_FLOOR,None,4:39,1,Rockets,Clippers,11 - 11,1,N/A,N/A,N/A
+68,Shai Gilgeous-Alexander,SUBSTITUTION,Beverley Patrick,4:39,1,Clippers,Rockets,11 - 11,0,N/A,N/A,N/A
+69,Montrezl Harrell,FG_MISS,None,4:30,1,Clippers,Rockets,11 - 11,0,7,3,Jumper
+70,Clint Capela,DEFENSIVE_REBOUND,None,4:28,1,Rockets,Clippers,11 - 11,1,N/A,N/A,N/A
+71,Montrezl Harrell,FOUL_ON_FLOOR,None,4:24,1,Clippers,Rockets,11 - 11,0,N/A,N/A,N/A
+72,technical foul,FOUL_TECHNICAL,None,4:24,1,Rockets,Clippers,11 - 11,1,N/A,N/A,N/A
+73,Lou Williams,FT,None,4:24,1,Clippers,Rockets,12 - 11,0,N/A,1,N/A
+74,Michael Carter-Williams,FT_MISS,None,4:24,1,Rockets,Clippers,11 - 11,1,N/A,1,N/A
+75,Team,OFFENSIVE_REBOUND,None,4:24,1,Rockets,Clippers,11 - 11,1,N/A,N/A,N/A
+76,Michael Carter-Williams,FT,None,4:24,1,Rockets,Clippers,11 - 12,1,N/A,1,N/A
+77,Michael Carter-Williams,FOUL_ON_FLOOR,None,4:17,1,Rockets,Clippers,11 - 12,1,N/A,N/A,N/A
+78,Shai Gilgeous-Alexander,FT_MISS,None,4:17,1,Clippers,Rockets,11 - 12,0,N/A,1,N/A
+79,Team,OFFENSIVE_REBOUND,None,4:17,1,Clippers,Rockets,11 - 12,0,N/A,N/A,N/A
+80,Shai Gilgeous-Alexander,FT,None,4:17,1,Clippers,Rockets,12 - 12,0,N/A,1,N/A
+81,Carmelo Anthony,FG_UNASSISTED,None,4:01,1,Rockets,Clippers,13 - 15,1,26,3,Jumper
+82,Clint Capela,FOUL_ON_FLOOR,None,3:49,1,Rockets,Clippers,13 - 15,1,N/A,N/A,N/A
+83,Danilo Gallinari,FT,None,3:49,1,Clippers,Rockets,14 - 15,0,N/A,1,N/A
+84,Isaiah Hartenstein,SUBSTITUTION,Capela Clint,3:49,1,Rockets,Clippers,14 - 15,1,N/A,N/A,N/A
+85,Danilo Gallinari,FT,None,3:49,1,Clippers,Rockets,15 - 15,0,N/A,1,N/A
+86,Michael Carter-Williams,FG_UNASSISTED,None,3:36,1,Rockets,Clippers,15 - 17,1,0,2,Layup
+87,Lou Williams,FG_UNASSISTED,None,3:24,1,Clippers,Rockets,18 - 17,0,23,3,Jumper
+88,Montrezl Harrell,FOUL_ON_FLOOR,None,3:17,1,Clippers,Rockets,18 - 17,0,N/A,N/A,N/A
+89,Eric Gordon,FT,None,3:17,1,Rockets,Clippers,18 - 18,1,N/A,1,N/A
+90,Milos Teodosic,SUBSTITUTION,Gallinari Danilo,3:17,1,Clippers,Rockets,18 - 18,0,N/A,N/A,N/A
+91,Mike Scott,SUBSTITUTION,Bradley Avery,3:17,1,Clippers,Rockets,18 - 18,0,N/A,N/A,N/A
+92,Eric Gordon,FT,None,3:17,1,Rockets,Clippers,18 - 19,1,N/A,1,N/A
+93,Eric Gordon,FOUL_ON_FLOOR,None,3:13,1,Rockets,Clippers,18 - 19,1,N/A,N/A,N/A
+94,Lou Williams,FT,None,3:13,1,Clippers,Rockets,19 - 19,0,N/A,1,N/A
+95,Lou Williams,FT,None,3:13,1,Clippers,Rockets,20 - 19,0,N/A,1,N/A
+96,Michael Carter-Williams,FG_MISS,None,2:55,1,Rockets,Clippers,20 - 19,1, ,3,Jumper
+97,Milos Teodosic,DEFENSIVE_REBOUND,None,2:53,1,Clippers,Rockets,20 - 19,0,N/A,N/A,N/A
+98,Milos Teodosic,TURNOVER,Michael Carter-Williams,2:51,1,Clippers,Rockets,20 - 19,0,N/A,N/A,N/A
+99,Carmelo Anthony,FG_ASSISTED,Michael Carter-Williams,2:46,1,Rockets,Clippers,20 - 22,1,26,3,Jumper
+100,Isaiah Hartenstein,FOUL_ON_FLOOR,None,2:45,1,Rockets,Clippers,20 - 22,1,N/A,N/A,N/A
+101,Team,Unknown,None,2:45,1,Clippers,Rockets,20 - 22,0,N/A,N/A,N/A
+102,Chris Paul,SUBSTITUTION,Gordon Eric,2:45,1,Rockets,Clippers,20 - 22,1,N/A,N/A,N/A
+103,Montrezl Harrell,FT,None,2:45,1,Clippers,Rockets,21 - 22,0,N/A,1,N/A
+104,Montrezl Harrell,FT,None,2:45,1,Clippers,Rockets,22 - 22,0,N/A,1,N/A
+105,Carmelo Anthony,FG_MISS,None,2:26,1,Rockets,Clippers,22 - 22,1,12,3,Jumper
+106,Milos Teodosic,DEFENSIVE_REBOUND,None,2:23,1,Clippers,Rockets,22 - 22,0,N/A,N/A,N/A
+107,Montrezl Harrell,FG_ASSISTED,Milos Teodosic,2:12,1,Clippers,Rockets,24 - 22,0,0,2,Layup
+108,Shai Gilgeous-Alexander,FOUL_ON_FLOOR,None,2:00,1,Clippers,Rockets,24 - 22,0,N/A,N/A,N/A
+109,Chris Paul,FT,None,2:00,1,Rockets,Clippers,24 - 23,1,N/A,1,N/A
+110,PJ Tucker,SUBSTITUTION,Anthony Carmelo,2:00,1,Rockets,Clippers,24 - 23,1,N/A,N/A,N/A
+111,Chris Paul,FT,None,2:00,1,Rockets,Clippers,24 - 24,1,N/A,1,N/A
+112,Montrezl Harrell,FG_ASSISTED,Milos Teodosic,1:49,1,Clippers,Rockets,26 - 24,0,0,2,Dunk
+113,Chris Paul,FG_MISS,None,1:28,1,Rockets,Clippers,26 - 24,1,7,3,Jumper
+114,Milos Teodosic,DEFENSIVE_REBOUND,None,1:26,1,Clippers,Rockets,26 - 24,0,N/A,N/A,N/A
+115,Montrezl Harrell,FG_MISS,None,1:21,1,Clippers,Rockets,26 - 24,0,0,2,Layup
+116,Gerald Green,DEFENSIVE_REBOUND,None,1:19,1,Rockets,Clippers,26 - 24,1,N/A,N/A,N/A
+117,Mike Scott,FOUL_ON_FLOOR,None,1:14,1,Clippers,Rockets,26 - 24,0,N/A,N/A,N/A
+118,Isaiah Hartenstein,FT,None,1:14,1,Rockets,Clippers,26 - 25,1,N/A,1,N/A
+119,Isaiah Hartenstein,FT,None,1:14,1,Rockets,Clippers,26 - 26,1,N/A,1,N/A
+120,Lou Williams,FG_ASSISTED,Mike Scott,59.0,1,Clippers,Rockets,29 - 26,0,34,3,Jumper
+121,Mike Scott,FOUL_ON_FLOOR,None,42.4,1,Clippers,Rockets,29 - 26,0,N/A,N/A,N/A
+122,Isaiah Hartenstein,FT,None,42.4,1,Rockets,Clippers,29 - 27,1,N/A,1,N/A
+123,Isaiah Hartenstein,FT,None,42.4,1,Rockets,Clippers,29 - 28,1,N/A,1,N/A
+124,Lou Williams,FG_UNASSISTED,None,35.4,1,Clippers,Rockets,31 - 28,0,22,3,Jumper
+125,Chris Paul,FG_MISS,None,31.1,1,Rockets,Clippers,31 - 28,1, ,3,Jumper
+126,Montrezl Harrell,DEFENSIVE_REBOUND,None,27.9,1,Clippers,Rockets,31 - 28,0,N/A,N/A,N/A
+127,Shai Gilgeous-Alexander,FG_MISS,None,6.2,1,Clippers,Rockets,31 - 28,0,19,3,Jumper
+128,Chris Paul,DEFENSIVE_REBOUND,None,3.5,1,Rockets,Clippers,31 - 28,1,N/A,N/A,N/A
+129,Michael Carter-Williams,FG_ASSISTED,Chris Paul,1.2,1,Rockets,Clippers,31 - 30,1,0,2,Dunk
+130,Mike Scott,FG_MISS,None,0.0,1,Clippers,Rockets,31 - 30,0,65,3,Jumper
+131,Team,OFFENSIVE_REBOUND,None,0.0,1,Clippers,Rockets,31 - 30,0,N/A,N/A,N/A
+132,End of,Unknown,None,0.0,1,Rockets,Clippers,31 - 30,1,N/A,N/A,N/A
+0,Clint Capela,SUBSTITUTION,Carter-Williams Michael,12:00,2,Rockets,Clippers,31 - 30,1,N/A,N/A,N/A
+1,Gary Clark,SUBSTITUTION,Hartenstein Isaiah,12:00,2,Rockets,Clippers,31 - 30,1,N/A,N/A,N/A
+2,Chris Paul,TURNOVER,Mike Scott,11:47,2,Rockets,Clippers,31 - 30,1,N/A,N/A,N/A
+3,Mike Scott,FG_ASSISTED,Shai Gilgeous-Alexander,11:42,2,Clippers,Rockets,33 - 30,0,12,3,Jumper
+4,Gerald Green,FG_MISS,None,11:30,2,Rockets,Clippers,33 - 30,1, ,3,Jumper
+5,Montrezl Harrell,DEFENSIVE_REBOUND,None,11:27,2,Clippers,Rockets,33 - 30,0,N/A,N/A,N/A
+6,Gerald Green,FOUL_ON_FLOOR,None,11:17,2,Rockets,Clippers,33 - 30,1,N/A,N/A,N/A
+7,Montrezl Harrell,FT,None,11:17,2,Clippers,Rockets,34 - 30,0,N/A,1,N/A
+8,Montrezl Harrell,FT_MISS,None,11:17,2,Clippers,Rockets,34 - 30,0,N/A,1,N/A
+9,Gerald Green,DEFENSIVE_REBOUND,None,11:14,2,Rockets,Clippers,34 - 30,1,N/A,N/A,N/A
+10,Gerald Green,FG_MISS,None,11:03,2,Rockets,Clippers,34 - 30,1,25,3,Jumper
+11,PJ Tucker,OFFENSIVE_REBOUND,None,11:00,2,Rockets,Clippers,34 - 30,1,N/A,N/A,N/A
+12,Gerald Green,FG_ASSISTED,PJ Tucker,10:58,2,Rockets,Clippers,34 - 33,1,23,3,Jumper
+13,Milos Teodosic,FG_ASSISTED,Lou Williams,10:48,2,Clippers,Rockets,37 - 33,0,27,3,Jumper
+14,Milos Teodosic,FOUL_ON_FLOOR,None,10:33,2,Clippers,Rockets,37 - 33,0,N/A,N/A,N/A
+15,Chris Paul,FT,None,10:33,2,Rockets,Clippers,37 - 34,1,N/A,1,N/A
+16,Chris Paul,FT,None,10:33,2,Rockets,Clippers,37 - 35,1,N/A,1,N/A
+17,Chris Paul,FT,None,10:33,2,Rockets,Clippers,37 - 36,1,N/A,1,N/A
+18,Lou Williams,FG_UNASSISTED,None,10:24,2,Clippers,Rockets,39 - 36,0,0,2,Layup
+19,Chris Paul,FG_UNASSISTED,None,10:09,2,Rockets,Clippers,39 - 38,1,0,2,Layup
+20,Lou Williams,FG_MISS,Clint Capela,9:45,2,Rockets,Clippers,39 - 38,0,5,3,Jumper
+21,Chris Paul,DEFENSIVE_REBOUND,None,9:43,2,Rockets,Clippers,39 - 38,1,N/A,N/A,N/A
+22,Gary Clark,FG_ASSISTED,Gerald Green,9:38,2,Rockets,Clippers,39 - 41,1, ,3,Jumper
+23,Gerald Green,FOUL_ON_FLOOR,None,9:26,2,Rockets,Clippers,39 - 41,1,N/A,N/A,N/A
+24,Montrezl Harrell,FT,None,9:26,2,Clippers,Rockets,40 - 41,0,N/A,1,N/A
+25,Carmelo Anthony,SUBSTITUTION,Green Gerald,9:26,2,Rockets,Clippers,40 - 41,1,N/A,N/A,N/A
+26,Patrick Beverley,SUBSTITUTION,Gilgeous-Alexander Shai,9:26,2,Clippers,Rockets,40 - 41,0,N/A,N/A,N/A
+27,Tobias Harris,SUBSTITUTION,Scott Mike,9:26,2,Clippers,Rockets,40 - 41,0,N/A,N/A,N/A
+28,Montrezl Harrell,FT,None,9:26,2,Clippers,Rockets,41 - 41,0,N/A,1,N/A
+29,Gary Clark,FG_UNASSISTED,None,9:04,2,Rockets,Clippers,41 - 44,1,25,3,Jumper
+30,Lou Williams,FG_UNASSISTED,None,8:46,2,Clippers,Rockets,43 - 44,0,8,3,Jumper
+31,Gary Clark,FOUL_ON_FLOOR,None,8:46,2,Rockets,Clippers,43 - 44,1,N/A,N/A,N/A
+32,Avery Bradley,SUBSTITUTION,Teodosic Milos,8:46,2,Clippers,Rockets,43 - 44,0,N/A,N/A,N/A
+33,Lou Williams,FT,None,8:46,2,Clippers,Rockets,44 - 44,0,N/A,1,N/A
+34,Gary Clark,FG_MISS,None,8:37,2,Rockets,Clippers,44 - 44,1,31,3,Jumper
+35,Montrezl Harrell,DEFENSIVE_REBOUND,None,8:33,2,Clippers,Rockets,44 - 44,0,N/A,N/A,N/A
+36,Lou Williams,FG_ASSISTED,Patrick Beverley,8:29,2,Clippers,Rockets,47 - 44,0,26,3,Jumper
+37,Team,Unknown,None,8:28,2,Rockets,Clippers,47 - 44,1,N/A,N/A,N/A
+38,Eric Gordon,SUBSTITUTION,Capela Clint,8:28,2,Rockets,Clippers,47 - 44,1,N/A,N/A,N/A
+39,Avery Bradley,FOUL_ON_FLOOR,None,8:18,2,Clippers,Rockets,47 - 44,0,N/A,N/A,N/A
+40,Gary Clark,FG_MISS,None,8:10,2,Rockets,Clippers,47 - 44,1,23,3,Jumper
+41,Tobias Harris,DEFENSIVE_REBOUND,None,8:06,2,Clippers,Rockets,47 - 44,0,N/A,N/A,N/A
+42,Carmelo Anthony,FOUL_ON_FLOOR,None,7:57,2,Rockets,Clippers,47 - 44,1,N/A,N/A,N/A
+43,Tobias Harris,FT,None,7:57,2,Clippers,Rockets,48 - 44,0,N/A,1,N/A
+44,Clint Capela,SUBSTITUTION,Paul Chris,7:57,2,Rockets,Clippers,48 - 44,1,N/A,N/A,N/A
+45,Michael Carter-Williams,SUBSTITUTION,Clark Gary,7:57,2,Rockets,Clippers,48 - 44,1,N/A,N/A,N/A
+46,Tobias Harris,FT,None,7:57,2,Clippers,Rockets,49 - 44,0,N/A,1,N/A
+47,Clint Capela,FG_ASSISTED,Michael Carter-Williams,7:46,2,Rockets,Clippers,49 - 46,1,0,2,Dunk
+48,Tobias Harris,FG_MISS,Carmelo Anthony,7:30,2,Rockets,Clippers,49 - 46,0,10,3,Jumper
+49,Carmelo Anthony,DEFENSIVE_REBOUND,None,7:27,2,Rockets,Clippers,49 - 46,1,N/A,N/A,N/A
+50,Carmelo Anthony,FG_MISS,None,7:24,2,Rockets,Clippers,49 - 46,1,26,3,Jumper
+51,Montrezl Harrell,DEFENSIVE_REBOUND,None,7:24,2,Clippers,Rockets,49 - 46,0,N/A,N/A,N/A
+52,Tobias Harris,FOUL_TECHNICAL,None,7:24,2,Clippers,Rockets,49 - 46,0,N/A,N/A,N/A
+53,Carmelo Anthony,FT,None,7:24,2,Rockets,Clippers,49 - 47,1,N/A,1,N/A
+54,Patrick Beverley,FG_UNASSISTED,None,7:13,2,Clippers,Rockets,52 - 47,0,26,3,Jumper
+55,Carmelo Anthony,FG_MISS,None,7:00,2,Rockets,Clippers,52 - 47,1,26,3,Jumper
+56,PJ Tucker,OFFENSIVE_REBOUND,None,6:57,2,Rockets,Clippers,52 - 47,1,N/A,N/A,N/A
+57,PJ Tucker,FG_UNASSISTED,None,6:55,2,Rockets,Clippers,52 - 49,1, ,3,Jumper
+58,Patrick Beverley,FG_MISS,None,6:35,2,Clippers,Rockets,52 - 49,0,27,3,Jumper
+59,Clint Capela,DEFENSIVE_REBOUND,None,6:33,2,Rockets,Clippers,52 - 49,1,N/A,N/A,N/A
+60,Eric Gordon,FG_MISS,None,6:28,2,Rockets,Clippers,52 - 49,1,30,3,Jumper
+61,PJ Tucker,OFFENSIVE_REBOUND,None,6:24,2,Rockets,Clippers,52 - 49,1,N/A,N/A,N/A
+62,Carmelo Anthony,FG_MISS,None,6:14,2,Rockets,Clippers,52 - 49,1,11,3,Jumper
+63,Montrezl Harrell,DEFENSIVE_REBOUND,None,6:11,2,Clippers,Rockets,52 - 49,0,N/A,N/A,N/A
+64,Montrezl Harrell,FG_UNASSISTED,None,6:03,2,Clippers,Rockets,54 - 49,0,5,3,Jumper
+65,Chris Paul,SUBSTITUTION,Capela Clint,5:54,2,Rockets,Clippers,54 - 49,1,N/A,N/A,N/A
+66,Danilo Gallinari,SUBSTITUTION,Williams Lou,5:54,2,Clippers,Rockets,54 - 49,0,N/A,N/A,N/A
+67,Eric Gordon,FG_UNASSISTED,None,5:47,2,Rockets,Clippers,54 - 51,1,0,2,Layup
+68,Avery Bradley,FG_ASSISTED,Tobias Harris,5:28,2,Clippers,Rockets,56 - 51,0,0,2,Layup
+69,Michael Carter-Williams,FG_MISS,None,5:15,2,Rockets,Clippers,56 - 51,1, ,3,Jumper
+70,Tobias Harris,DEFENSIVE_REBOUND,None,5:13,2,Clippers,Rockets,56 - 51,0,N/A,N/A,N/A
+71,Danilo Gallinari,FG_UNASSISTED,None,4:55,2,Clippers,Rockets,58 - 51,0,0,2,Layup
+72,Chris Paul,FOUL_ON_FLOOR,None,4:55,2,Rockets,Clippers,58 - 51,1,N/A,N/A,N/A
+73,Danilo Gallinari,FT,None,4:55,2,Clippers,Rockets,59 - 51,0,N/A,1,N/A
+74,Eric Gordon,FG_MISS,None,4:36,2,Rockets,Clippers,59 - 51,1,25,3,Jumper
+75,Patrick Beverley,JUMP_BALL,None,4:31,2,Rockets,Clippers,59 - 51,1,N/A,N/A,N/A
+76,Team,OFFENSIVE_REBOUND,None,4:31,2,Rockets,Clippers,59 - 51,1,N/A,N/A,N/A
+77,Eric Gordon,FG_UNASSISTED,None,4:27,2,Rockets,Clippers,59 - 53,1,0,2,Layup
+78,Patrick Beverley,FOUL_ON_FLOOR,None,4:27,2,Clippers,Rockets,59 - 53,0,N/A,N/A,N/A
+79,Eric Gordon,FT,None,4:27,2,Rockets,Clippers,59 - 54,1,N/A,1,N/A
+80,Danilo Gallinari,FG_UNASSISTED,None,4:09,2,Clippers,Rockets,61 - 54,0,0,2,Layup
+81,PJ Tucker,FG_MISS,None,3:53,2,Rockets,Clippers,61 - 54,1,24,3,Jumper
+82,Patrick Beverley,DEFENSIVE_REBOUND,None,3:50,2,Clippers,Rockets,61 - 54,0,N/A,N/A,N/A
+83,Montrezl Harrell,FG_MISS,None,3:40,2,Clippers,Rockets,61 - 54,0,6,3,Jumper
+84,Patrick Beverley,OFFENSIVE_REBOUND,None,3:38,2,Clippers,Rockets,61 - 54,0,N/A,N/A,N/A
+85,Montrezl Harrell,FG_MISS,None,3:36,2,Clippers,Rockets,61 - 54,0, ,3,Jumper
+86,Team,OFFENSIVE_REBOUND,None,3:34,2,Clippers,Rockets,61 - 54,0,N/A,N/A,N/A
+87,Carmelo Anthony,FOUL_ON_FLOOR,None,3:34,2,Rockets,Clippers,61 - 54,1,N/A,N/A,N/A
+88,Montrezl Harrell,FT,None,3:34,2,Clippers,Rockets,62 - 54,0,N/A,1,N/A
+89,Clint Capela,SUBSTITUTION,Carter-Williams Michael,3:34,2,Rockets,Clippers,62 - 54,1,N/A,N/A,N/A
+90,Montrezl Harrell,FT,None,3:34,2,Clippers,Rockets,63 - 54,0,N/A,1,N/A
+91,Avery Bradley,FOUL_ON_FLOOR,None,3:21,2,Clippers,Rockets,63 - 54,0,N/A,N/A,N/A
+92,Chris Paul,FG_MISS,None,3:13,2,Rockets,Clippers,63 - 54,1,6,3,Jumper
+93,Clint Capela,OFFENSIVE_REBOUND,None,3:11,2,Rockets,Clippers,63 - 54,1,N/A,N/A,N/A
+94,Clint Capela,FG_UNASSISTED,None,3:10,2,Rockets,Clippers,63 - 56,1, ,3,Jumper
+95,Avery Bradley,FG_UNASSISTED,None,2:59,2,Clippers,Rockets,65 - 56,0,23,3,Jumper
+96,Carmelo Anthony,FG_MISS,None,2:43,2,Rockets,Clippers,65 - 56,1,25,3,Jumper
+97,Tobias Harris,DEFENSIVE_REBOUND,None,2:41,2,Clippers,Rockets,65 - 56,0,N/A,N/A,N/A
+98,Tobias Harris,FG_UNASSISTED,None,2:26,2,Clippers,Rockets,67 - 56,0, ,3,Jumper
+99,Carmelo Anthony,FOUL_ON_FLOOR,None,2:26,2,Rockets,Clippers,67 - 56,1,N/A,N/A,N/A
+100,Team,Unknown,None,2:26,2,Clippers,Rockets,67 - 56,0,N/A,N/A,N/A
+101,Tobias Harris,FT,None,2:26,2,Clippers,Rockets,68 - 56,0,N/A,1,N/A
+102,Chris Paul,FOUL_ON_FLOOR,None,2:11,2,Rockets,Clippers,68 - 56,1,N/A,N/A,N/A
+103,Chris Paul,TURNOVER,None,2:11,2,Rockets,Clippers,68 - 56,1,N/A,N/A,N/A
+104,Patrick Beverley,TURNOVER,None,1:57,2,Clippers,Rockets,68 - 56,0,N/A,N/A,N/A
+105,Patrick Beverley,TURNOVER,None,1:57,2,Clippers,Rockets,68 - 56,0,N/A,N/A,N/A
+106,Lou Williams,SUBSTITUTION,Beverley Patrick,1:57,2,Clippers,Rockets,68 - 56,0,N/A,N/A,N/A
+107,Chris Paul,TURNOVER,None,1:48,2,Rockets,Clippers,68 - 56,1,N/A,N/A,N/A
+108,Shai Gilgeous-Alexander,SUBSTITUTION,Bradley Avery,1:48,2,Clippers,Rockets,68 - 56,0,N/A,N/A,N/A
+109,Chris Paul,TURNOVER,None,1:48,2,Rockets,Clippers,68 - 56,1,N/A,N/A,N/A
+110,Tobias Harris,FG_UNASSISTED,None,1:27,2,Clippers,Rockets,70 - 56,0,12,3,Jumper
+111,Carmelo Anthony,FG_ASSISTED,Chris Paul,1:19,2,Rockets,Clippers,70 - 58,1,0,2,Layup
+112,Danilo Gallinari,TURNOVER,PJ Tucker,1:06,2,Clippers,Rockets,70 - 58,0,N/A,N/A,N/A
+113,Eric Gordon,FG_MISS,None,55.3,2,Rockets,Clippers,70 - 58,1, ,3,Jumper
+114,Team,OFFENSIVE_REBOUND,None,54.3,2,Rockets,Clippers,70 - 58,1,N/A,N/A,N/A
+115,Chris Paul,FG_MISS,None,49.3,2,Rockets,Clippers,70 - 58,1,11,3,Jumper
+116,Danilo Gallinari,DEFENSIVE_REBOUND,None,46.3,2,Clippers,Rockets,70 - 58,0,N/A,N/A,N/A
+117,Lou Williams,TURNOVER,Clint Capela,39.7,2,Clippers,Rockets,70 - 58,0,N/A,N/A,N/A
+118,PJ Tucker,FG_ASSISTED,Chris Paul,31.9,2,Rockets,Clippers,70 - 61,1,23,3,Jumper
+119,Montrezl Harrell,TURNOVER,Chris Paul,21.1,2,Clippers,Rockets,70 - 61,0,N/A,N/A,N/A
+120,Chris Paul's,FG_MISS,Montrezl Harrell,1.1,2,Clippers,Rockets,70 - 61,1,0,2,Layup
+121,Danilo Gallinari,DEFENSIVE_REBOUND,None,0.4,2,Clippers,Rockets,70 - 61,0,N/A,N/A,N/A
+122,End of,Unknown,None,0.0,2,Rockets,Clippers,70 - 61,1,N/A,N/A,N/A
+0,Marcin Gortat,SUBSTITUTION,Harrell Montrezl,12:00,3,Clippers,Rockets,70 - 61,0,N/A,N/A,N/A
+1,Patrick Beverley,SUBSTITUTION,Williams Lou,12:00,3,Clippers,Rockets,70 - 61,0,N/A,N/A,N/A
+2,Avery Bradley,SUBSTITUTION,Gilgeous-Alexander Shai,12:00,3,Clippers,Rockets,70 - 61,0,N/A,N/A,N/A
+3,Carmelo Anthony,FG_ASSISTED,Chris Paul,11:49,3,Rockets,Clippers,70 - 64,1,26,3,Jumper
+4,Marcin Gortat,FOUL_ON_FLOOR,None,11:28,3,Clippers,Rockets,70 - 64,0,N/A,N/A,N/A
+5,Marcin Gortat,TURNOVER,None,11:28,3,Clippers,Rockets,70 - 64,0,N/A,N/A,N/A
+6,PJ Tucker,FG_MISS,None,11:12,3,Rockets,Clippers,70 - 64,1,23,3,Jumper
+7,Tobias Harris,DEFENSIVE_REBOUND,None,11:10,3,Clippers,Rockets,70 - 64,0,N/A,N/A,N/A
+8,Tobias Harris,FG_MISS,None,11:02,3,Clippers,Rockets,70 - 64,0,4,3,Jumper
+9,Marcin Gortat,OFFENSIVE_REBOUND,None,11:00,3,Clippers,Rockets,70 - 64,0,N/A,N/A,N/A
+10,Marcin Gortat,FG_MISS,None,10:58,3,Clippers,Rockets,70 - 64,0,6,3,Jumper
+11,Clint Capela,DEFENSIVE_REBOUND,None,10:58,3,Rockets,Clippers,70 - 64,1,N/A,N/A,N/A
+12,Patrick Beverley,FOUL_ON_FLOOR,None,10:53,3,Clippers,Rockets,70 - 64,0,N/A,N/A,N/A
+13,PJ Tucker,FOUL_ON_FLOOR,None,10:41,3,Rockets,Clippers,70 - 64,1,N/A,N/A,N/A
+14,PJ Tucker,TURNOVER,None,10:41,3,Rockets,Clippers,70 - 64,1,N/A,N/A,N/A
+15,PJ Tucker,FOUL_TECHNICAL,None,10:41,3,Rockets,Clippers,70 - 64,1,N/A,N/A,N/A
+16,Danilo Gallinari,FT,None,10:41,3,Clippers,Rockets,71 - 64,0,N/A,1,N/A
+17,Avery Bradley,FG_MISS,Eric Gordon,10:22,3,Rockets,Clippers,71 - 64,0,0,2,Layup
+18,Team,OFFENSIVE_REBOUND,None,10:22,3,Clippers,Rockets,71 - 64,0,N/A,N/A,N/A
+19,Avery Bradley,FG_MISS,None,10:19,3,Clippers,Rockets,71 - 64,0,26,3,Jumper
+20,Chris Paul,DEFENSIVE_REBOUND,None,10:17,3,Rockets,Clippers,71 - 64,1,N/A,N/A,N/A
+21,Eric Gordon,FG_UNASSISTED,None,10:10,3,Rockets,Clippers,71 - 67,1,32,3,Jumper
+22,Team,Unknown,None,10:08,3,Clippers,Rockets,71 - 67,0,N/A,N/A,N/A
+23,Shai Gilgeous-Alexander,SUBSTITUTION,Beverley Patrick,10:08,3,Clippers,Rockets,71 - 67,0,N/A,N/A,N/A
+24,Danilo Gallinari,FG_ASSISTED,Marcin Gortat,9:55,3,Clippers,Rockets,73 - 67,0,0,2,Layup
+25,Chris Paul,FG_UNASSISTED,None,9:32,3,Rockets,Clippers,73 - 69,1,15,3,Jumper
+26,Marcin Gortat,FOUL_ON_FLOOR,None,9:06,3,Clippers,Rockets,73 - 69,0,N/A,N/A,N/A
+27,Marcin Gortat,TURNOVER,None,9:06,3,Clippers,Rockets,73 - 69,0,N/A,N/A,N/A
+28,Eric Gordon,TURNOVER,None,8:59,3,Rockets,Clippers,73 - 69,1,N/A,N/A,N/A
+29,Shai Gilgeous-Alexander,FG_MISS,None,8:37,3,Clippers,Rockets,73 - 69,0,11,3,Jumper
+30,Clint Capela,DEFENSIVE_REBOUND,None,8:33,3,Rockets,Clippers,73 - 69,1,N/A,N/A,N/A
+31,Carmelo Anthony,FG_MISS,None,8:26,3,Rockets,Clippers,73 - 69,1,21,3,Jumper
+32,Marcin Gortat,DEFENSIVE_REBOUND,None,8:23,3,Clippers,Rockets,73 - 69,0,N/A,N/A,N/A
+33,Avery Bradley,TURNOVER,PJ Tucker,8:15,3,Clippers,Rockets,73 - 69,0,N/A,N/A,N/A
+34,PJ Tucker,FG_ASSISTED,Chris Paul,8:10,3,Rockets,Clippers,73 - 72,1,23,3,Jumper
+35,Tobias Harris,FG_UNASSISTED,None,7:47,3,Clippers,Rockets,76 - 72,0,26,3,Jumper
+36,Carmelo Anthony,FG_MISS,None,7:20,3,Rockets,Clippers,76 - 72,1,9,3,Jumper
+37,Carmelo Anthony,OFFENSIVE_REBOUND,None,7:17,3,Rockets,Clippers,76 - 72,1,N/A,N/A,N/A
+38,Carmelo Anthony,FG_MISS,None,7:15,3,Rockets,Clippers,76 - 72,1, ,3,Jumper
+39,Clint Capela,OFFENSIVE_REBOUND,None,7:15,3,Rockets,Clippers,76 - 72,1,N/A,N/A,N/A
+40,Clint Capela,FG_MISS,None,7:13,3,Rockets,Clippers,76 - 72,1, ,3,Jumper
+41,Clint Capela,OFFENSIVE_REBOUND,None,7:11,3,Rockets,Clippers,76 - 72,1,N/A,N/A,N/A
+42,PJ Tucker,FG_MISS,None,7:11,3,Rockets,Clippers,76 - 72,1, ,3,Jumper
+43,Danilo Gallinari,DEFENSIVE_REBOUND,None,7:09,3,Clippers,Rockets,76 - 72,0,N/A,N/A,N/A
+44,Tobias Harris,TURNOVER,Clint Capela,7:04,3,Clippers,Rockets,76 - 72,0,N/A,N/A,N/A
+45,Clint Capela,FG_MISS,Danilo Gallinari,6:58,3,Clippers,Rockets,76 - 72,1,0,2,Layup
+46,Team,OFFENSIVE_REBOUND,None,6:58,3,Rockets,Clippers,76 - 72,1,N/A,N/A,N/A
+47,Gerald Green,SUBSTITUTION,Tucker PJ,6:58,3,Rockets,Clippers,76 - 72,1,N/A,N/A,N/A
+48,Clint Capela,FG_MISS,None,6:51,3,Rockets,Clippers,76 - 72,1,9,3,Jumper
+49,Danilo Gallinari,DEFENSIVE_REBOUND,None,6:48,3,Clippers,Rockets,76 - 72,0,N/A,N/A,N/A
+50,Avery Bradley,FG_ASSISTED,Danilo Gallinari,6:36,3,Clippers,Rockets,79 - 72,0,25,3,Jumper
+51,Chris Paul,FG_MISS,None,6:22,3,Rockets,Clippers,79 - 72,1,6,3,Jumper
+52,Marcin Gortat,DEFENSIVE_REBOUND,None,6:20,3,Clippers,Rockets,79 - 72,0,N/A,N/A,N/A
+53,Shai Gilgeous-Alexander,FG_MISS,Carmelo Anthony,6:14,3,Rockets,Clippers,79 - 72,0,0,2,Layup
+54,Marcin Gortat,OFFENSIVE_REBOUND,None,6:11,3,Clippers,Rockets,79 - 72,0,N/A,N/A,N/A
+55,Tobias Harris,FG_MISS,None,6:03,3,Clippers,Rockets,79 - 72,0,0,2,Layup
+56,Clint Capela,DEFENSIVE_REBOUND,None,5:57,3,Rockets,Clippers,79 - 72,1,N/A,N/A,N/A
+57,Clint Capela,TURNOVER,Avery Bradley,5:56,3,Rockets,Clippers,79 - 72,1,N/A,N/A,N/A
+58,Avery Bradley,FG_MISS,None,5:53,3,Clippers,Rockets,79 - 72,0,11,3,Jumper
+59,Clint Capela,DEFENSIVE_REBOUND,None,5:49,3,Rockets,Clippers,79 - 72,1,N/A,N/A,N/A
+60,Eric Gordon,FG_MISS,None,5:46,3,Rockets,Clippers,79 - 72,1, ,3,Jumper
+61,Avery Bradley,DEFENSIVE_REBOUND,None,5:43,3,Clippers,Rockets,79 - 72,0,N/A,N/A,N/A
+62,Avery Bradley,FG_UNASSISTED,None,5:31,3,Clippers,Rockets,81 - 72,0,0,2,Layup
+63,Team,Unknown,None,5:31,3,Rockets,Clippers,81 - 72,1,N/A,N/A,N/A
+64,Isaiah Hartenstein,SUBSTITUTION,Paul Chris,5:31,3,Rockets,Clippers,81 - 72,1,N/A,N/A,N/A
+65,Michael Carter-Williams,SUBSTITUTION,Anthony Carmelo,5:31,3,Rockets,Clippers,81 - 72,1,N/A,N/A,N/A
+66,PJ Tucker,SUBSTITUTION,Capela Clint,5:31,3,Rockets,Clippers,81 - 72,1,N/A,N/A,N/A
+67,Lou Williams,SUBSTITUTION,Gallinari Danilo,5:31,3,Clippers,Rockets,81 - 72,0,N/A,N/A,N/A
+68,Isaiah Hartenstein,FG_ASSISTED,Michael Carter-Williams,5:12,3,Rockets,Clippers,81 - 74,1,0,2,Dunk
+69,Tobias Harris,FG_MISS,PJ Tucker,4:52,3,Rockets,Clippers,81 - 74,0,7,3,Jumper
+70,Eric Gordon,DEFENSIVE_REBOUND,None,4:48,3,Rockets,Clippers,81 - 74,1,N/A,N/A,N/A
+71,Gerald Green,FG_MISS,None,4:44,3,Rockets,Clippers,81 - 74,1,27,3,Jumper
+72,PJ Tucker,OFFENSIVE_REBOUND,None,4:42,3,Rockets,Clippers,81 - 74,1,N/A,N/A,N/A
+73,Gerald Green,FG_ASSISTED,PJ Tucker,4:39,3,Rockets,Clippers,81 - 76,1,4,3,Jumper
+74,Tobias Harris,FG_MISS,None,4:26,3,Clippers,Rockets,81 - 76,0,28,3,Jumper
+75,Eric Gordon,DEFENSIVE_REBOUND,None,4:26,3,Rockets,Clippers,81 - 76,1,N/A,N/A,N/A
+76,Michael Carter-Williams,FG_MISS,None,4:20,3,Rockets,Clippers,81 - 76,1, ,3,Jumper
+77,PJ Tucker,OFFENSIVE_REBOUND,None,4:17,3,Rockets,Clippers,81 - 76,1,N/A,N/A,N/A
+78,PJ Tucker,FG_UNASSISTED,None,4:16,3,Rockets,Clippers,81 - 78,1, ,3,Jumper
+79,Lou Williams,TURNOVER,Michael Carter-Williams,3:55,3,Clippers,Rockets,81 - 78,0,N/A,N/A,N/A
+80,Eric Gordon,FG_MISS,None,3:41,3,Rockets,Clippers,81 - 78,1, ,3,Jumper
+81,Tobias Harris,DEFENSIVE_REBOUND,None,3:39,3,Clippers,Rockets,81 - 78,0,N/A,N/A,N/A
+82,Tobias Harris,FG_UNASSISTED,None,3:27,3,Clippers,Rockets,84 - 78,0,26,3,Jumper
+83,Michael Carter-Williams,TURNOVER,Shai Gilgeous-Alexander,3:07,3,Rockets,Clippers,84 - 78,1,N/A,N/A,N/A
+84,Tobias Harris,FG_ASSISTED,Lou Williams,3:02,3,Clippers,Rockets,86 - 78,0, ,3,Jumper
+85,Eric Gordon,TURNOVER,None,2:44,3,Rockets,Clippers,86 - 78,1,N/A,N/A,N/A
+86,Milos Teodosic,SUBSTITUTION,Bradley Avery,2:44,3,Clippers,Rockets,86 - 78,0,N/A,N/A,N/A
+87,Montrezl Harrell,SUBSTITUTION,Gortat Marcin,2:44,3,Clippers,Rockets,86 - 78,0,N/A,N/A,N/A
+88,Montrezl Harrell,FG_UNASSISTED,None,2:30,3,Clippers,Rockets,88 - 78,0,0,2,Dunk
+89,PJ Tucker,FG_ASSISTED,Isaiah Hartenstein,2:13,3,Rockets,Clippers,88 - 80,1,0,2,Layup
+90,Montrezl Harrell,Unknown,None,2:13,3,Clippers,Rockets,88 - 80,0,N/A,N/A,N/A
+91,Gerald Green,FOUL_ON_FLOOR,None,1:57,3,Rockets,Clippers,88 - 80,1,N/A,N/A,N/A
+92,Lou Williams,FT,None,1:57,3,Clippers,Rockets,89 - 80,0,N/A,1,N/A
+93,Chris Paul,SUBSTITUTION,Gordon Eric,1:57,3,Rockets,Clippers,89 - 80,1,N/A,N/A,N/A
+94,Lou Williams,FT,None,1:57,3,Clippers,Rockets,90 - 80,0,N/A,1,N/A
+95,Gerald Green,FG_ASSISTED,Isaiah Hartenstein,1:45,3,Rockets,Clippers,90 - 83,1,26,3,Jumper
+96,Michael Carter-Williams,FOUL_ON_FLOOR,None,1:34,3,Rockets,Clippers,90 - 83,1,N/A,N/A,N/A
+97,Montrezl Harrell,FT,None,1:34,3,Clippers,Rockets,91 - 83,0,N/A,1,N/A
+98,Montrezl Harrell,FT,None,1:34,3,Clippers,Rockets,92 - 83,0,N/A,1,N/A
+99,Isaiah Hartenstein,FG_MISS,None,1:15,3,Rockets,Clippers,92 - 83,1,26,3,Jumper
+100,Tobias Harris,DEFENSIVE_REBOUND,None,1:14,3,Clippers,Rockets,92 - 83,0,N/A,N/A,N/A
+101,Isaiah Hartenstein,FOUL_ON_FLOOR,None,1:11,3,Rockets,Clippers,92 - 83,1,N/A,N/A,N/A
+102,Montrezl Harrell,FT,None,1:11,3,Clippers,Rockets,93 - 83,0,N/A,1,N/A
+103,Gary Clark,SUBSTITUTION,Tucker PJ,1:11,3,Rockets,Clippers,93 - 83,1,N/A,N/A,N/A
+104,Clint Capela,SUBSTITUTION,Hartenstein Isaiah,1:11,3,Rockets,Clippers,93 - 83,1,N/A,N/A,N/A
+105,Mike Scott,SUBSTITUTION,Harris Tobias,1:11,3,Clippers,Rockets,93 - 83,0,N/A,N/A,N/A
+106,Montrezl Harrell,FT,None,1:11,3,Clippers,Rockets,94 - 83,0,N/A,1,N/A
+107,Gerald Green,FG_MISS,None,59.5,3,Rockets,Clippers,94 - 83,1,26,3,Jumper
+108,Milos Teodosic,DEFENSIVE_REBOUND,None,57.1,3,Clippers,Rockets,94 - 83,0,N/A,N/A,N/A
+109,Lou Williams,TURNOVER,Chris Paul,51.6,3,Clippers,Rockets,94 - 83,0,N/A,N/A,N/A
+110,Gerald Green,TURNOVER,Montrezl Harrell,46.4,3,Rockets,Clippers,94 - 83,1,N/A,N/A,N/A
+111,Lou Williams,FG_MISS,None,37.2,3,Clippers,Rockets,94 - 83,0,32,3,Jumper
+112,Gary Clark,DEFENSIVE_REBOUND,None,34.4,3,Rockets,Clippers,94 - 83,1,N/A,N/A,N/A
+113,Chris Paul,TURNOVER,Montrezl Harrell,17.6,3,Rockets,Clippers,94 - 83,1,N/A,N/A,N/A
+114,Montrezl Harrell,FG_UNASSISTED,None,11.8,3,Clippers,Rockets,96 - 83,0, ,3,Jumper
+115,End of,Unknown,None,0.0,3,Rockets,Clippers,96 - 83,1,N/A,N/A,N/A
+0,Milos Teodosic,FG_MISS,None,11:46,4,Clippers,Rockets,96 - 83,0,27,3,Jumper
+1,Team,OFFENSIVE_REBOUND,None,11:45,4,Clippers,Rockets,96 - 83,0,N/A,N/A,N/A
+2,Gary Clark,FOUL_ON_FLOOR,None,11:45,4,Rockets,Clippers,96 - 83,1,N/A,N/A,N/A
+3,Montrezl Harrell,FG_MISS,None,11:36,4,Clippers,Rockets,96 - 83,0,0,2,Layup
+4,Gerald Green,DEFENSIVE_REBOUND,None,11:34,4,Rockets,Clippers,96 - 83,1,N/A,N/A,N/A
+5,Gary Clark,FG_MISS,None,11:21,4,Rockets,Clippers,96 - 83,1,27,3,Jumper
+6,Shai Gilgeous-Alexander,DEFENSIVE_REBOUND,None,11:17,4,Clippers,Rockets,96 - 83,0,N/A,N/A,N/A
+7,Montrezl Harrell,FG_ASSISTED,Lou Williams,11:11,4,Clippers,Rockets,98 - 83,0,0,2,Dunk
+8,Gerald Green,FG_MISS,None,10:55,4,Rockets,Clippers,98 - 83,1,13,3,Jumper
+9,Lou Williams,DEFENSIVE_REBOUND,None,10:52,4,Clippers,Rockets,98 - 83,0,N/A,N/A,N/A
+10,Shai Gilgeous-Alexander,FG_UNASSISTED,None,10:36,4,Clippers,Rockets,100 - 83,0,0,2,Layup
+11,Team,Unknown,None,10:36,4,Rockets,Clippers,100 - 83,1,N/A,N/A,N/A
+12,Eric Gordon,SUBSTITUTION,Carter-Williams Michael,10:36,4,Rockets,Clippers,100 - 83,1,N/A,N/A,N/A
+13,Carmelo Anthony,SUBSTITUTION,Green Gerald,10:36,4,Rockets,Clippers,100 - 83,1,N/A,N/A,N/A
+14,PJ Tucker,SUBSTITUTION,Clark Gary,10:36,4,Rockets,Clippers,100 - 83,1,N/A,N/A,N/A
+15,Chris Paul,FG_MISS,None,10:25,4,Rockets,Clippers,100 - 83,1,25,3,Jumper
+16,Montrezl Harrell,DEFENSIVE_REBOUND,None,10:22,4,Clippers,Rockets,100 - 83,0,N/A,N/A,N/A
+17,Carmelo Anthony,FOUL_ON_FLOOR,None,10:13,4,Rockets,Clippers,100 - 83,1,N/A,N/A,N/A
+18,Montrezl Harrell,FT,None,10:13,4,Clippers,Rockets,101 - 83,0,N/A,1,N/A
+19,Montrezl Harrell,FT,None,10:13,4,Clippers,Rockets,102 - 83,0,N/A,1,N/A
+20,Chris Paul,FG_MISS,None,9:52,4,Rockets,Clippers,102 - 83,1,18,3,Jumper
+21,Milos Teodosic,DEFENSIVE_REBOUND,None,9:47,4,Clippers,Rockets,102 - 83,0,N/A,N/A,N/A
+22,Shai Gilgeous-Alexander,FG_ASSISTED,Milos Teodosic,9:34,4,Clippers,Rockets,105 - 83,0,23,3,Jumper
+23,Eric Gordon,FG_MISS,Montrezl Harrell,9:22,4,Clippers,Rockets,105 - 83,1,0,2,Layup
+24,Team,OFFENSIVE_REBOUND,None,9:21,4,Rockets,Clippers,105 - 83,1,N/A,N/A,N/A
+25,Eric Gordon,TURNOVER,Mike Scott,9:17,4,Rockets,Clippers,105 - 83,1,N/A,N/A,N/A
+26,Shai Gilgeous-Alexander,FG_MISS,None,9:10,4,Clippers,Rockets,105 - 83,0,17,3,Jumper
+27,Eric Gordon,DEFENSIVE_REBOUND,None,9:07,4,Rockets,Clippers,105 - 83,1,N/A,N/A,N/A
+28,Chris Paul,TURNOVER,Shai Gilgeous-Alexander,9:04,4,Rockets,Clippers,105 - 83,1,N/A,N/A,N/A
+29,Shai Gilgeous-Alexander,FG_UNASSISTED,None,9:01,4,Clippers,Rockets,107 - 83,0,0,2,Dunk
+30,Team,Unknown,None,9:01,4,Rockets,Clippers,107 - 83,1,N/A,N/A,N/A
+31,Mike Scott,FOUL_ON_FLOOR,None,8:41,4,Clippers,Rockets,107 - 83,0,N/A,N/A,N/A
+32,Carmelo Anthony,FT_MISS,None,8:41,4,Rockets,Clippers,107 - 83,1,N/A,1,N/A
+33,Team,OFFENSIVE_REBOUND,None,8:41,4,Rockets,Clippers,107 - 83,1,N/A,N/A,N/A
+34,Carmelo Anthony,FT,None,8:41,4,Rockets,Clippers,107 - 84,1,N/A,1,N/A
+35,Montrezl Harrell,FG_ASSISTED,Milos Teodosic,8:29,4,Clippers,Rockets,109 - 84,0,0,2,Dunk
+36,Montrezl Harrell,FOUL_ON_FLOOR,None,8:28,4,Clippers,Rockets,109 - 84,0,N/A,N/A,N/A
+37,Chris Paul,FT,None,8:28,4,Rockets,Clippers,109 - 85,1,N/A,1,N/A
+38,Eric Gordon,FG_MISS,None,8:15,4,Rockets,Clippers,109 - 85,1,27,3,Jumper
+39,Mike Scott,DEFENSIVE_REBOUND,None,8:11,4,Clippers,Rockets,109 - 85,0,N/A,N/A,N/A
+40,Montrezl Harrell,FG_UNASSISTED,None,7:52,4,Clippers,Rockets,111 - 85,0, ,3,Jumper
+41,Chris Paul,FG_UNASSISTED,None,7:41,4,Rockets,Clippers,111 - 87,1,19,3,Jumper
+42,Milos Teodosic,FG_ASSISTED,Mike Scott,7:20,4,Clippers,Rockets,114 - 87,0,28,3,Jumper
+43,Clint Capela,FG_ASSISTED,Chris Paul,7:05,4,Rockets,Clippers,114 - 89,1,0,2,Dunk
+44,Mike Scott,FG_MISS,None,6:41,4,Clippers,Rockets,114 - 89,0,0,2,Layup
+45,Milos Teodosic,OFFENSIVE_REBOUND,None,6:36,4,Clippers,Rockets,114 - 89,0,N/A,N/A,N/A
+46,Milos Teodosic,FG_UNASSISTED,None,6:36,4,Clippers,Rockets,116 - 89,0, ,3,Jumper
+47,Chris Paul,FG_MISS,None,6:15,4,Rockets,Clippers,116 - 89,1, ,3,Jumper
+48,Clint Capela,OFFENSIVE_REBOUND,None,6:10,4,Rockets,Clippers,116 - 89,1,N/A,N/A,N/A
+49,Clint Capela,FG_UNASSISTED,None,6:10,4,Rockets,Clippers,116 - 91,1,0,2,Dunk
+50,Lou Williams,FG_UNASSISTED,None,5:56,4,Clippers,Rockets,118 - 91,0,0,2,Layup
+51,Carmelo Anthony,FG_ASSISTED,Chris Paul,5:35,4,Rockets,Clippers,118 - 94,1,27,3,Jumper
+52,Milos Teodosic,TURNOVER,None,5:25,4,Clippers,Rockets,118 - 94,0,N/A,N/A,N/A
+53,Eric Gordon,FG_MISS,None,5:16,4,Rockets,Clippers,118 - 94,1,27,3,Jumper
+54,Milos Teodosic,DEFENSIVE_REBOUND,None,5:14,4,Clippers,Rockets,118 - 94,0,N/A,N/A,N/A
+55,Mike Scott,FG_ASSISTED,Milos Teodosic,5:10,4,Clippers,Rockets,120 - 94,0,0,2,Layup
+56,Team,Unknown,None,5:10,4,Rockets,Clippers,118 - 94,1,N/A,N/A,N/A
+57,Michael Carter-Williams,SUBSTITUTION,Paul Chris,5:10,4,Rockets,Clippers,120 - 94,1,N/A,N/A,N/A
+58,Gerald Green,SUBSTITUTION,Capela Clint,5:10,4,Rockets,Clippers,120 - 94,1,N/A,N/A,N/A
+59,Gary Clark,SUBSTITUTION,Gordon Eric,5:10,4,Rockets,Clippers,120 - 94,1,N/A,N/A,N/A
+60,Isaiah Hartenstein,SUBSTITUTION,Tucker PJ,5:10,4,Rockets,Clippers,120 - 94,1,N/A,N/A,N/A
+61,Milos Teodosic,FOUL_ON_FLOOR,None,5:00,4,Clippers,Rockets,120 - 94,0,N/A,N/A,N/A
+62,Michael Carter-Williams,FT,None,5:00,4,Rockets,Clippers,120 - 95,1,N/A,1,N/A
+63,Michael Carter-Williams,FT_MISS,None,5:00,4,Rockets,Clippers,120 - 95,1,N/A,1,N/A
+64,Team,DEFENSIVE_REBOUND,None,4:59,4,Clippers,Rockets,120 - 95,0,N/A,N/A,N/A
+65,Isaiah Hartenstein,FOUL_ON_FLOOR,None,4:59,4,Rockets,Clippers,120 - 95,1,N/A,N/A,N/A
+66,Mike Scott,FG_UNASSISTED,None,4:47,4,Clippers,Rockets,122 - 95,0,21,3,Jumper
+67,Carmelo Anthony,FOUL_ON_FLOOR,None,4:47,4,Rockets,Clippers,122 - 95,1,N/A,N/A,N/A
+68,Jerome Robinson,SUBSTITUTION,Williams Lou,4:47,4,Clippers,Rockets,122 - 95,0,N/A,N/A,N/A
+69,Montrezl Harrell,FT,None,4:47,4,Clippers,Rockets,123 - 95,0,N/A,1,N/A
+70,Carmelo Anthony,FG_ASSISTED,Michael Carter-Williams,4:31,4,Rockets,Clippers,122 - 98,1,26,3,Jumper
+71,Isaiah Hartenstein,FOUL_ON_FLOOR,None,4:21,4,Rockets,Clippers,123 - 98,1,N/A,N/A,N/A
+72,Shai Gilgeous-Alexander,FT,None,4:21,4,Clippers,Rockets,124 - 98,0,N/A,1,N/A
+73,Boban Marjanovic,SUBSTITUTION,Harrell Montrezl,4:21,4,Clippers,Rockets,124 - 98,0,N/A,N/A,N/A
+74,Shai Gilgeous-Alexander,FT,None,4:21,4,Clippers,Rockets,125 - 98,0,N/A,1,N/A
+75,Gerald Green,FG_UNASSISTED,None,4:06,4,Rockets,Clippers,125 - 100,1,10,3,Jumper
+76,Gerald Green,FOUL_ON_FLOOR,None,3:50,4,Rockets,Clippers,125 - 100,1,N/A,N/A,N/A
+77,Team,Unknown,None,3:50,4,Rockets,Clippers,125 - 100,1,N/A,N/A,N/A
+78,Tyrone Wallace,SUBSTITUTION,Teodosic Milos,3:50,4,Clippers,Rockets,125 - 100,0,N/A,N/A,N/A
+79,Boban Marjanovic,FT_MISS,None,3:50,4,Clippers,Rockets,125 - 100,0,N/A,1,N/A
+80,Team,OFFENSIVE_REBOUND,None,3:50,4,Clippers,Rockets,125 - 100,0,N/A,N/A,N/A
+81,Boban Marjanovic,FT,None,3:50,4,Clippers,Rockets,126 - 100,0,N/A,1,N/A
+82,Jerome Robinson,FOUL_ON_FLOOR,None,3:43,4,Clippers,Rockets,126 - 100,0,N/A,N/A,N/A
+83,Gerald Green,FG_ASSISTED,Isaiah Hartenstein,3:38,4,Rockets,Clippers,126 - 103,1,27,3,Jumper
+84,Jerome Robinson,FG_UNASSISTED,None,3:24,4,Clippers,Rockets,129 - 103,0,26,3,Jumper
+85,Michael Carter-Williams,FG_MISS,None,3:10,4,Rockets,Clippers,129 - 103,1,6,3,Jumper
+86,Isaiah Hartenstein,OFFENSIVE_REBOUND,None,3:10,4,Rockets,Clippers,129 - 103,1,N/A,N/A,N/A
+87,Isaiah Hartenstein,FG_MISS,None,3:04,4,Rockets,Clippers,129 - 103,1,1,3,Jumper
+88,Boban Marjanovic,DEFENSIVE_REBOUND,None,3:03,4,Clippers,Rockets,129 - 103,0,N/A,N/A,N/A
+89,Mike Scott,FG_MISS,None,2:50,4,Clippers,Rockets,129 - 103,0,6,3,Jumper
+90,Gerald Green,DEFENSIVE_REBOUND,None,2:48,4,Rockets,Clippers,129 - 103,1,N/A,N/A,N/A
+91,Gerald Green,FG_UNASSISTED,None,2:38,4,Rockets,Clippers,129 - 105,1,19,3,Jumper
+92,Boban Marjanovic's,FG_MISS,Isaiah Hartenstein,2:16,4,Rockets,Clippers,129 - 105,0,1,3,Jumper
+93,Boban Marjanovic,OFFENSIVE_REBOUND,None,2:10,4,Clippers,Rockets,129 - 105,0,N/A,N/A,N/A
+94,Boban Marjanovic,FG_UNASSISTED,None,2:10,4,Clippers,Rockets,131 - 105,0,0,2,Dunk
+95,Boban Marjanovic,FOUL_TECHNICAL,None,2:09,4,Clippers,Rockets,131 - 105,0,N/A,N/A,N/A
+96,Gerald Green,FT,None,2:09,4,Rockets,Clippers,131 - 106,1,N/A,1,N/A
+97,Clint Capela,SUBSTITUTION,Anthony Carmelo,2:08,4,Rockets,Clippers,131 - 106,1,N/A,N/A,N/A
+98,Gerald Green,FG_MISS,None,1:53,4,Rockets,Clippers,131 - 106,1,27,3,Jumper
+99,Boban Marjanovic,DEFENSIVE_REBOUND,None,1:50,4,Clippers,Rockets,131 - 106,0,N/A,N/A,N/A
+100,Jerome Robinson,FG_MISS,None,1:34,4,Clippers,Rockets,131 - 106,0,1,3,Jumper
+101,Michael Carter-Williams,DEFENSIVE_REBOUND,None,1:32,4,Rockets,Clippers,131 - 106,1,N/A,N/A,N/A
+102,Tyrone Wallace,FOUL_ON_FLOOR,None,1:30,4,Clippers,Rockets,131 - 106,0,N/A,N/A,N/A
+103,Michael Carter-Williams,FT,None,1:30,4,Rockets,Clippers,131 - 107,1,N/A,1,N/A
+104,Michael Carter-Williams,FT,None,1:30,4,Rockets,Clippers,131 - 108,1,N/A,1,N/A
+105,Jerome Robinson,FG_MISS,None,1:21,4,Clippers,Rockets,131 - 108,0,27,3,Jumper
+106,Gary Clark,DEFENSIVE_REBOUND,None,1:19,4,Rockets,Clippers,131 - 108,1,N/A,N/A,N/A
+107,Gerald Green,FG_UNASSISTED,None,1:10,4,Rockets,Clippers,131 - 111,1,27,3,Jumper
+108,Tyrone Wallace,FG_UNASSISTED,None,54.1,4,Clippers,Rockets,133 - 111,0,7,3,Jumper
+109,Isaiah Hartenstein,FG_MISS,None,43.6,4,Rockets,Clippers,133 - 111,1,26,3,Jumper
+110,Clint Capela,OFFENSIVE_REBOUND,None,39.1,4,Rockets,Clippers,133 - 111,1,N/A,N/A,N/A
+111,Michael Carter-Williams,FG_MISS,None,37.8,4,Rockets,Clippers,133 - 111,1,26,3,Jumper
+112,Clint Capela,OFFENSIVE_REBOUND,None,35.9,4,Rockets,Clippers,133 - 111,1,N/A,N/A,N/A
+113,Jerome Robinson,FOUL_ON_FLOOR,None,35.9,4,Clippers,Rockets,133 - 111,0,N/A,N/A,N/A
+114,Clint Capela,FT,None,35.9,4,Rockets,Clippers,133 - 112,1,N/A,1,N/A
+115,Clint Capela,FT,None,35.9,4,Rockets,Clippers,133 - 113,1,N/A,1,N/A
+116,Mike Scott,FG_MISS,None,24.8,4,Clippers,Rockets,133 - 113,0,23,3,Jumper
+117,Gerald Green,DEFENSIVE_REBOUND,None,22.4,4,Rockets,Clippers,133 - 113,1,N/A,N/A,N/A
+118,Gerald Green,TURNOVER,Boban Marjanovic,7.6,4,Rockets,Clippers,133 - 113,1,N/A,N/A,N/A
+119,End of,Unknown,None,0.0,4,Rockets,Clippers,133 - 113,1,N/A,N/A,N/A
+120,End of,Unknown,None,0.0,4,Rockets,Clippers,133 - 113,1,N/A,N/A,N/A

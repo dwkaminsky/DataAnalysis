@@ -1,0 +1,328 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,LaMarcus Aldridge,JUMP_BALL,None,12:00,1,Timberwolves,Spurs,0 - 0,1,N/A,N/A,N/A
+1,Andrew Wiggins,FG_MISS,None,11:48,1,Timberwolves,Spurs,0 - 0,1,0,2,Layup
+2,Rudy Gay,DEFENSIVE_REBOUND,None,11:45,1,Spurs,Timberwolves,0 - 0,0,N/A,N/A,N/A
+3,LaMarcus Aldridge,FG_ASSISTED,Rudy Gay,11:30,1,Spurs,Timberwolves,2 - 0,0,20,2,Jumper
+4,Andrew Wiggins,FG_MISS,None,11:12,1,Timberwolves,Spurs,2 - 0,1,0,2,Layup
+5,Andrew Wiggins,OFFENSIVE_REBOUND,None,11:11,1,Timberwolves,Spurs,2 - 0,1,N/A,N/A,N/A
+6,LaMarcus Aldridge,FOUL_ON_FLOOR,None,11:11,1,Spurs,Timberwolves,2 - 0,0,N/A,N/A,N/A
+7,Andrew Wiggins,FT,None,11:11,1,Timberwolves,Spurs,2 - 1,1,N/A,1,N/A
+8,Andrew Wiggins,FT_MISS,None,11:11,1,Timberwolves,Spurs,2 - 1,1,N/A,1,N/A
+9,LaMarcus Aldridge,DEFENSIVE_REBOUND,None,11:09,1,Spurs,Timberwolves,2 - 1,0,N/A,N/A,N/A
+10,LaMarcus Aldridge,FG_MISS,None,10:50,1,Spurs,Timberwolves,2 - 1,0,-,2,Jumper
+11,Robert Covington,DEFENSIVE_REBOUND,None,10:47,1,Timberwolves,Spurs,2 - 1,1,N/A,N/A,N/A
+12,Karl-Anthony Towns,FG_MISS,None,10:28,1,Timberwolves,Spurs,2 - 1,1,-,2,Jumper
+13,Rudy Gay,DEFENSIVE_REBOUND,None,10:26,1,Spurs,Timberwolves,2 - 1,0,N/A,N/A,N/A
+14,DeMar DeRozan,TURNOVER,Karl-Anthony Towns,10:17,1,Spurs,Timberwolves,2 - 1,0,N/A,N/A,N/A
+15,Robert Covington,FG_ASSISTED,Karl-Anthony Towns,10:13,1,Timberwolves,Spurs,2 - 3,1,0,2,Layup
+16,LaMarcus Aldridge,FG_MISS,None,9:56,1,Spurs,Timberwolves,2 - 3,0,20,2,Jumper
+17,Robert Covington,DEFENSIVE_REBOUND,None,9:53,1,Timberwolves,Spurs,2 - 3,1,N/A,N/A,N/A
+18,Jeff Teague,TURNOVER,Rudy Gay,9:42,1,Timberwolves,Spurs,2 - 3,1,N/A,N/A,N/A
+19,LaMarcus Aldridge's,FG_MISS,Robert Covington,9:39,1,Timberwolves,Spurs,2 - 3,0,0,2,Layup
+20,Team,OFFENSIVE_REBOUND,None,9:39,1,Spurs,Timberwolves,2 - 3,0,N/A,N/A,N/A
+21,LaMarcus Aldridge,FG_ASSISTED,Bryn Forbes,9:30,1,Spurs,Timberwolves,4 - 3,0,-,2,Jumper
+22,Andrew Wiggins,FG_ASSISTED,Jeff Teague,9:11,1,Timberwolves,Spurs,4 - 5,1,5,2,Jumper
+23,Rudy Gay,FG_ASSISTED,LaMarcus Aldridge,8:54,1,Spurs,Timberwolves,7 - 5,0,26,3,Jumper
+24,Taj Gibson,FG_MISS,None,8:39,1,Timberwolves,Spurs,7 - 5,1,13,2,Jumper
+25,Karl-Anthony Towns,OFFENSIVE_REBOUND,None,8:37,1,Timberwolves,Spurs,7 - 5,1,N/A,N/A,N/A
+26,Karl-Anthony Towns,FG_UNASSISTED,None,8:35,1,Timberwolves,Spurs,7 - 7,1,0,2,Layup
+27,DeMar DeRozan,TURNOVER,None,8:24,1,Spurs,Timberwolves,7 - 7,0,N/A,N/A,N/A
+28,Jeff Teague,FG_MISS,None,8:07,1,Timberwolves,Spurs,7 - 7,1,26,3,Jumper
+29,LaMarcus Aldridge,DEFENSIVE_REBOUND,None,8:04,1,Spurs,Timberwolves,7 - 7,0,N/A,N/A,N/A
+30,Jeff Teague,FOUL_ON_FLOOR,None,7:52,1,Timberwolves,Spurs,7 - 7,1,N/A,N/A,N/A
+31,Rudy Gay,FG_MISS,None,7:39,1,Spurs,Timberwolves,7 - 7,0,-,3,Jumper
+32,Andrew Wiggins,DEFENSIVE_REBOUND,None,7:37,1,Timberwolves,Spurs,7 - 7,1,N/A,N/A,N/A
+33,Rudy Gay,FOUL_ON_FLOOR,None,7:31,1,Spurs,Timberwolves,7 - 7,0,N/A,N/A,N/A
+34,Taj Gibson,FG_ASSISTED,Karl-Anthony Towns,7:18,1,Timberwolves,Spurs,7 - 9,1,0,2,Layup
+35,Bryn Forbes,FG_MISS,None,7:07,1,Spurs,Timberwolves,7 - 9,0,18,2,Jumper
+36,Taj Gibson,DEFENSIVE_REBOUND,None,7:04,1,Timberwolves,Spurs,7 - 9,1,N/A,N/A,N/A
+37,Taj Gibson,FG_ASSISTED,Karl-Anthony Towns,6:53,1,Timberwolves,Spurs,7 - 11,1,0,2,Layup
+38,Derrick White,FG_MISS,None,6:40,1,Spurs,Timberwolves,7 - 11,0, ,2,Jumper
+39,Karl-Anthony Towns,DEFENSIVE_REBOUND,None,6:38,1,Timberwolves,Spurs,7 - 11,1,N/A,N/A,N/A
+40,Robert Covington,FG_UNASSISTED,None,6:32,1,Timberwolves,Spurs,7 - 14,1,26,3,Jumper
+41,Team,Unknown,None,6:32,1,Spurs,Timberwolves,7 - 14,0,N/A,N/A,N/A
+42,Patty Mills,SUBSTITUTION,Gay Rudy,6:32,1,Spurs,Timberwolves,7 - 14,0,N/A,N/A,N/A
+43,Dante Cunningham,SUBSTITUTION,White Derrick,6:32,1,Spurs,Timberwolves,7 - 14,0,N/A,N/A,N/A
+44,DeMar DeRozan,TURNOVER,Robert Covington,6:07,1,Spurs,Timberwolves,7 - 14,0,N/A,N/A,N/A
+45,Robert Covington,FG_ASSISTED,Jeff Teague,6:02,1,Timberwolves,Spurs,7 - 16,1,0,2,Layup
+46,Robert Covington,FOUL_ON_FLOOR,None,5:54,1,Timberwolves,Spurs,7 - 16,1,N/A,N/A,N/A
+47,DeMar DeRozan,FG_UNASSISTED,None,5:49,1,Spurs,Timberwolves,9 - 16,0,18,2,Jumper
+48,Andrew Wiggins,FG_MISS,None,5:34,1,Timberwolves,Spurs,9 - 16,1,0,2,Layup
+49,Andrew Wiggins,OFFENSIVE_REBOUND,None,5:33,1,Timberwolves,Spurs,9 - 16,1,N/A,N/A,N/A
+50,Dante Cunningham,FOUL_ON_FLOOR,None,5:33,1,Spurs,Timberwolves,9 - 16,0,N/A,N/A,N/A
+51,Andrew Wiggins,FT,None,5:33,1,Timberwolves,Spurs,9 - 17,1,N/A,1,N/A
+52,Andrew Wiggins,FT,None,5:33,1,Timberwolves,Spurs,9 - 18,1,N/A,1,N/A
+53,DeMar DeRozan,FG_MISS,None,5:20,1,Spurs,Timberwolves,9 - 18,0,20,2,Jumper
+54,Taj Gibson,DEFENSIVE_REBOUND,None,5:18,1,Timberwolves,Spurs,9 - 18,1,N/A,N/A,N/A
+55,Karl-Anthony Towns,FG_MISS,None,5:10,1,Timberwolves,Spurs,9 - 18,1,28,3,Jumper
+56,DeMar DeRozan,DEFENSIVE_REBOUND,None,5:08,1,Spurs,Timberwolves,9 - 18,0,N/A,N/A,N/A
+57,Patty Mills,FG_MISS,None,5:01,1,Spurs,Timberwolves,9 - 18,0,26,3,Jumper
+58,Taj Gibson,DEFENSIVE_REBOUND,None,4:58,1,Timberwolves,Spurs,9 - 18,1,N/A,N/A,N/A
+59,Karl-Anthony Towns,TURNOVER,None,4:50,1,Timberwolves,Spurs,9 - 18,1,N/A,N/A,N/A
+60,Derrick Rose,SUBSTITUTION,Covington Robert,4:50,1,Timberwolves,Spurs,9 - 18,1,N/A,N/A,N/A
+61,Dante Cunningham,FG_ASSISTED,Patty Mills,4:34,1,Spurs,Timberwolves,11 - 18,0,16,2,Jumper
+62,Andrew Wiggins,FG_MISS,None,4:08,1,Timberwolves,Spurs,11 - 18,1,27,3,Jumper
+63,Bryn Forbes,DEFENSIVE_REBOUND,None,4:06,1,Spurs,Timberwolves,11 - 18,0,N/A,N/A,N/A
+64,Bryn Forbes,FG_MISS,None,4:02,1,Spurs,Timberwolves,11 - 18,0,26,3,Jumper
+65,Karl-Anthony Towns,DEFENSIVE_REBOUND,None,3:59,1,Timberwolves,Spurs,11 - 18,1,N/A,N/A,N/A
+66,Taj Gibson,FG_ASSISTED,Derrick Rose,3:50,1,Timberwolves,Spurs,11 - 20,1, ,2,Jumper
+67,Bryn Forbes,FG_ASSISTED,Patty Mills,3:35,1,Spurs,Timberwolves,14 - 20,0,26,3,Jumper
+68,Jeff Teague,FG_UNASSISTED,None,3:25,1,Timberwolves,Spurs,14 - 22,1, ,2,Jumper
+69,Patty Mills,FG_MISS,None,3:00,1,Spurs,Timberwolves,14 - 22,0,25,3,Jumper
+70,Karl-Anthony Towns,DEFENSIVE_REBOUND,None,2:58,1,Timberwolves,Spurs,14 - 22,1,N/A,N/A,N/A
+71,Andrew Wiggins,FOUL_ON_FLOOR,None,2:55,1,Timberwolves,Spurs,14 - 22,1,N/A,N/A,N/A
+72,Andrew Wiggins,TURNOVER,None,2:55,1,Timberwolves,Spurs,14 - 22,1,N/A,N/A,N/A
+73,Team,Unknown,None,2:55,1,Timberwolves,Spurs,14 - 22,1,N/A,N/A,N/A
+74,Tyus Jones,SUBSTITUTION,Teague Jeff,2:55,1,Timberwolves,Spurs,14 - 22,1,N/A,N/A,N/A
+75,Dario Saric,SUBSTITUTION,Gibson Taj,2:55,1,Timberwolves,Spurs,14 - 22,1,N/A,N/A,N/A
+76,Marco Belinelli,SUBSTITUTION,Forbes Bryn,2:55,1,Spurs,Timberwolves,14 - 22,0,N/A,N/A,N/A
+77,LaMarcus Aldridge,FG_MISS,None,2:35,1,Spurs,Timberwolves,14 - 22,0, ,2,Jumper
+78,Dario Saric,DEFENSIVE_REBOUND,None,2:33,1,Timberwolves,Spurs,14 - 22,1,N/A,N/A,N/A
+79,Andrew Wiggins,FG_MISS,DeMar DeRozan,2:18,1,Spurs,Timberwolves,14 - 22,1,6,2,Jumper
+80,Dante Cunningham,DEFENSIVE_REBOUND,None,2:12,1,Spurs,Timberwolves,14 - 22,0,N/A,N/A,N/A
+81,Marco Belinelli,FG_ASSISTED,Patty Mills,2:11,1,Spurs,Timberwolves,17 - 22,0,26,3,Jumper
+82,Derrick Rose,FG_UNASSISTED,None,2:01,1,Timberwolves,Spurs,17 - 25,1,25,3,Jumper
+83,DeMar DeRozan,FG_ASSISTED,LaMarcus Aldridge,1:37,1,Spurs,Timberwolves,19 - 25,0,0,2,Layup
+84,Karl-Anthony Towns,FG_MISS,None,1:23,1,Timberwolves,Spurs,19 - 25,1,25,3,Jumper
+85,Dante Cunningham,DEFENSIVE_REBOUND,None,1:20,1,Spurs,Timberwolves,19 - 25,0,N/A,N/A,N/A
+86,Patty Mills,FG_ASSISTED,Marco Belinelli,1:10,1,Spurs,Timberwolves,22 - 25,0,25,3,Jumper
+87,Derrick Rose,FG_ASSISTED,Karl-Anthony Towns,49.8,1,Timberwolves,Spurs,22 - 28,1,27,3,Jumper
+88,DeMar DeRozan,TURNOVER,Karl-Anthony Towns,30.1,1,Spurs,Timberwolves,22 - 28,0,N/A,N/A,N/A
+89,Dario Saric,FG_MISS,None,7.5,1,Timberwolves,Spurs,22 - 28,1,14,2,Jumper
+90,Patty Mills,DEFENSIVE_REBOUND,None,4.2,1,Spurs,Timberwolves,22 - 28,0,N/A,N/A,N/A
+91,Patty Mills,FG_UNASSISTED,None,2.8,1,Spurs,Timberwolves,24 - 28,0,7,2,Jumper
+92,Dario Saric,FOUL_ON_FLOOR,None,2.8,1,Timberwolves,Spurs,24 - 28,1,N/A,N/A,N/A
+93,Patty Mills,FT,None,2.8,1,Spurs,Timberwolves,25 - 28,0,N/A,1,N/A
+94,Tyus Jones,FG_MISS,None,0.2,1,Timberwolves,Spurs,25 - 28,1,25,3,Jumper
+95,Team,OFFENSIVE_REBOUND,None,0.1,1,Timberwolves,Spurs,25 - 28,1,N/A,N/A,N/A
+96,End of,Unknown,None,0.0,1,Timberwolves,Spurs,25 - 28,1,N/A,N/A,N/A
+0,Derrick White,SUBSTITUTION,Mills Patty,12:00,3,Spurs,Timberwolves,34 - 57,0,N/A,N/A,N/A
+1,Bryn Forbes,SUBSTITUTION,Belinelli Marco,12:00,3,Spurs,Timberwolves,34 - 57,0,N/A,N/A,N/A
+2,Rudy Gay,SUBSTITUTION,Cunningham Dante,12:00,3,Spurs,Timberwolves,34 - 57,0,N/A,N/A,N/A
+3,Rudy Gay,FG_MISS,None,11:47,3,Spurs,Timberwolves,34 - 57,0,25,3,Jumper
+4,Karl-Anthony Towns,DEFENSIVE_REBOUND,None,11:43,3,Timberwolves,Spurs,34 - 57,1,N/A,N/A,N/A
+5,Jeff Teague,FG_ASSISTED,Karl-Anthony Towns,11:31,3,Timberwolves,Spurs,34 - 59,1,0,2,Layup
+6,Bryn Forbes,FOUL_ON_FLOOR,None,11:31,3,Spurs,Timberwolves,34 - 59,0,N/A,N/A,N/A
+7,Jeff Teague,FT,None,11:31,3,Timberwolves,Spurs,34 - 60,1,N/A,1,N/A
+8,LaMarcus Aldridge,FG_MISS,None,11:15,3,Spurs,Timberwolves,34 - 60,0,5,2,Jumper
+9,Karl-Anthony Towns,DEFENSIVE_REBOUND,None,11:13,3,Timberwolves,Spurs,34 - 60,1,N/A,N/A,N/A
+10,Robert Covington,FG_ASSISTED,Jeff Teague,11:10,3,Timberwolves,Spurs,34 - 63,1,27,3,Jumper
+11,Andrew Wiggins,FOUL_ON_FLOOR,None,10:57,3,Timberwolves,Spurs,34 - 63,1,N/A,N/A,N/A
+12,DeMar DeRozan,FT,None,10:57,3,Spurs,Timberwolves,35 - 63,0,N/A,1,N/A
+13,DeMar DeRozan,FT,None,10:57,3,Spurs,Timberwolves,36 - 63,0,N/A,1,N/A
+14,Robert Covington,FG_MISS,None,10:47,3,Timberwolves,Spurs,36 - 63,1,26,3,Jumper
+15,Rudy Gay,DEFENSIVE_REBOUND,None,10:45,3,Spurs,Timberwolves,36 - 63,0,N/A,N/A,N/A
+16,Bryn Forbes,TURNOVER,Jeff Teague,10:41,3,Spurs,Timberwolves,36 - 63,0,N/A,N/A,N/A
+17,Taj Gibson,FG_ASSISTED,Jeff Teague,10:38,3,Timberwolves,Spurs,36 - 65,1,0,2,Dunk
+18,Bryn Forbes,FG_ASSISTED,Derrick White,10:23,3,Spurs,Timberwolves,39 - 65,0,25,3,Jumper
+19,Taj Gibson,FG_ASSISTED,Jeff Teague,10:05,3,Timberwolves,Spurs,39 - 67,1,0,2,Layup
+20,Derrick White,FOUL_ON_FLOOR,None,9:59,3,Spurs,Timberwolves,39 - 67,0,N/A,N/A,N/A
+21,Derrick White,TURNOVER,None,9:59,3,Spurs,Timberwolves,39 - 67,0,N/A,N/A,N/A
+22,Karl-Anthony Towns,FG_ASSISTED,Andrew Wiggins,9:46,3,Timberwolves,Spurs,39 - 70,1,26,3,Jumper
+23,Bryn Forbes,FG_MISS,None,9:26,3,Spurs,Timberwolves,39 - 70,0,26,3,Jumper
+24,Team,DEFENSIVE_REBOUND,None,9:24,3,Timberwolves,Spurs,39 - 70,1,N/A,N/A,N/A
+25,Andrew Wiggins's,FG_MISS,Rudy Gay,9:13,3,Spurs,Timberwolves,39 - 70,1,0,2,Layup
+26,Taj Gibson,OFFENSIVE_REBOUND,None,9:11,3,Timberwolves,Spurs,39 - 70,1,N/A,N/A,N/A
+27,Taj Gibson,FG_UNASSISTED,None,9:09,3,Timberwolves,Spurs,39 - 72,1,0,2,Layup
+28,DeMar DeRozan,FG_MISS,Karl-Anthony Towns,8:58,3,Timberwolves,Spurs,39 - 72,0,7,2,Jumper
+29,Karl-Anthony Towns,DEFENSIVE_REBOUND,None,8:55,3,Timberwolves,Spurs,39 - 72,1,N/A,N/A,N/A
+30,Karl-Anthony Towns,TURNOVER,None,8:53,3,Timberwolves,Spurs,39 - 72,1,N/A,N/A,N/A
+31,Derrick White,FG_ASSISTED,Rudy Gay,8:37,3,Spurs,Timberwolves,41 - 72,0, ,2,Jumper
+32,Jeff Teague,FG_MISS,Rudy Gay,8:19,3,Spurs,Timberwolves,41 - 72,1,0,2,Layup
+33,Team,OFFENSIVE_REBOUND,None,8:18,3,Timberwolves,Spurs,41 - 72,1,N/A,N/A,N/A
+34,Robert Covington,FG_ASSISTED,Jeff Teague,8:16,3,Timberwolves,Spurs,41 - 74,1, ,2,Jumper
+35,LaMarcus Aldridge,TURNOVER,Andrew Wiggins,7:58,3,Spurs,Timberwolves,41 - 74,0,N/A,N/A,N/A
+36,Rudy Gay,FOUL_ON_FLOOR,None,7:46,3,Spurs,Timberwolves,41 - 74,0,N/A,N/A,N/A
+37,Andrew Wiggins,TURNOVER,None,7:39,3,Timberwolves,Spurs,41 - 74,1,N/A,N/A,N/A
+38,LaMarcus Aldridge,FG_ASSISTED,Rudy Gay,7:31,3,Spurs,Timberwolves,43 - 74,0,12,2,Jumper
+39,Jeff Teague,FG_UNASSISTED,None,7:02,3,Timberwolves,Spurs,43 - 76,1,22,2,Jumper
+40,Bryn Forbes,FG_MISS,None,6:34,3,Spurs,Timberwolves,43 - 76,0, ,3,Jumper
+41,Robert Covington,DEFENSIVE_REBOUND,None,6:30,3,Timberwolves,Spurs,43 - 76,1,N/A,N/A,N/A
+42,DeMar DeRozan,FOUL_ON_FLOOR,None,6:28,3,Spurs,Timberwolves,43 - 76,0,N/A,N/A,N/A
+43,Team,Unknown,None,6:28,3,Timberwolves,Spurs,43 - 76,1,N/A,N/A,N/A
+44,Marco Belinelli,SUBSTITUTION,White Derrick,6:28,3,Spurs,Timberwolves,43 - 76,0,N/A,N/A,N/A
+45,Dante Cunningham,SUBSTITUTION,Gay Rudy,6:28,3,Spurs,Timberwolves,43 - 76,0,N/A,N/A,N/A
+46,Karl-Anthony Towns,FG_MISS,None,6:13,3,Timberwolves,Spurs,43 - 76,1, ,2,Jumper
+47,Karl-Anthony Towns,OFFENSIVE_REBOUND,None,6:09,3,Timberwolves,Spurs,43 - 76,1,N/A,N/A,N/A
+48,Karl-Anthony Towns,FG_UNASSISTED,None,6:09,3,Timberwolves,Spurs,43 - 78,1, ,2,Jumper
+49,LaMarcus Aldridge,TURNOVER,Jeff Teague,6:00,3,Spurs,Timberwolves,43 - 78,0,N/A,N/A,N/A
+50,Taj Gibson,FG_MISS,None,5:48,3,Timberwolves,Spurs,43 - 78,1,0,2,Layup
+51,LaMarcus Aldridge,DEFENSIVE_REBOUND,None,5:46,3,Spurs,Timberwolves,43 - 78,0,N/A,N/A,N/A
+52,DeMar DeRozan,FG_MISS,None,5:40,3,Spurs,Timberwolves,43 - 78,0,0,2,Layup
+53,LaMarcus Aldridge,OFFENSIVE_REBOUND,None,5:36,3,Spurs,Timberwolves,43 - 78,0,N/A,N/A,N/A
+54,LaMarcus Aldridge,FG_UNASSISTED,None,5:36,3,Spurs,Timberwolves,45 - 78,0, ,2,Jumper
+55,Robert Covington,FG_MISS,None,5:20,3,Timberwolves,Spurs,45 - 78,1,26,3,Jumper
+56,LaMarcus Aldridge,DEFENSIVE_REBOUND,None,5:18,3,Spurs,Timberwolves,45 - 78,0,N/A,N/A,N/A
+57,Karl-Anthony Towns,FOUL_ON_FLOOR,None,5:08,3,Timberwolves,Spurs,45 - 78,1,N/A,N/A,N/A
+58,Derrick Rose,SUBSTITUTION,Covington Robert,5:08,3,Timberwolves,Spurs,45 - 78,1,N/A,N/A,N/A
+59,Patty Mills,SUBSTITUTION,Forbes Bryn,5:08,3,Spurs,Timberwolves,45 - 78,0,N/A,N/A,N/A
+60,Jakob Poeltl,SUBSTITUTION,Aldridge LaMarcus,5:08,3,Spurs,Timberwolves,45 - 78,0,N/A,N/A,N/A
+61,Jakob Poeltl,FG_ASSISTED,DeMar DeRozan,4:57,3,Spurs,Timberwolves,47 - 78,0,0,2,Layup
+62,DeMar DeRozan,FOUL_ON_FLOOR,None,4:42,3,Spurs,Timberwolves,47 - 78,0,N/A,N/A,N/A
+63,Taj Gibson,FT,None,4:42,3,Timberwolves,Spurs,47 - 79,1,N/A,1,N/A
+64,Taj Gibson,FT_MISS,None,4:42,3,Timberwolves,Spurs,47 - 79,1,N/A,1,N/A
+65,Taj Gibson,OFFENSIVE_REBOUND,None,4:40,3,Timberwolves,Spurs,47 - 79,1,N/A,N/A,N/A
+66,Taj Gibson's,FG_MISS,DeMar DeRozan,4:25,3,Spurs,Timberwolves,47 - 79,1,0,2,Layup
+67,Team,OFFENSIVE_REBOUND,None,4:25,3,Timberwolves,Spurs,47 - 79,1,N/A,N/A,N/A
+68,shot clock,TURNOVER,None,4:25,3,Timberwolves,Spurs,47 - 79,1,N/A,N/A,N/A
+69,DeMar DeRozan,TURNOVER,Jeff Teague,4:17,3,Spurs,Timberwolves,47 - 79,0,N/A,N/A,N/A
+70,Andrew Wiggins,FG_ASSISTED,Jeff Teague,4:09,3,Timberwolves,Spurs,47 - 81,1,0,2,Layup
+71,DeMar DeRozan,FG_UNASSISTED,None,3:54,3,Spurs,Timberwolves,49 - 81,0,8,2,Jumper
+72,Derrick Rose,FG_MISS,None,3:40,3,Timberwolves,Spurs,49 - 81,1,26,3,Jumper
+73,Team,OFFENSIVE_REBOUND,None,3:38,3,Timberwolves,Spurs,49 - 81,1,N/A,N/A,N/A
+74,Davis Bertans,SUBSTITUTION,DeRozan DeMar,3:38,3,Spurs,Timberwolves,49 - 81,0,N/A,N/A,N/A
+75,Andrew Wiggins,FG_MISS,None,3:29,3,Timberwolves,Spurs,49 - 81,1,25,3,Jumper
+76,Karl-Anthony Towns,OFFENSIVE_REBOUND,None,3:26,3,Timberwolves,Spurs,49 - 81,1,N/A,N/A,N/A
+77,Karl-Anthony Towns,FG_UNASSISTED,None,3:24,3,Timberwolves,Spurs,49 - 84,1,23,3,Jumper
+78,Marco Belinelli,FG_MISS,Jeff Teague,3:08,3,Timberwolves,Spurs,49 - 84,0,0,2,Layup
+79,Derrick Rose,DEFENSIVE_REBOUND,None,3:06,3,Timberwolves,Spurs,49 - 84,1,N/A,N/A,N/A
+80,Andrew Wiggins,FG_MISS,Jakob Poeltl,3:00,3,Spurs,Timberwolves,49 - 84,1,0,2,Layup
+81,Dante Cunningham,DEFENSIVE_REBOUND,None,2:58,3,Spurs,Timberwolves,49 - 84,0,N/A,N/A,N/A
+82,Marco Belinelli,FG_MISS,None,2:48,3,Spurs,Timberwolves,49 - 84,0,12,2,Jumper
+83,Jakob Poeltl,OFFENSIVE_REBOUND,None,2:47,3,Spurs,Timberwolves,49 - 84,0,N/A,N/A,N/A
+84,Jakob Poeltl,FG_MISS,None,2:46,3,Spurs,Timberwolves,49 - 84,0, ,2,Jumper
+85,Jakob Poeltl,OFFENSIVE_REBOUND,None,2:46,3,Spurs,Timberwolves,49 - 84,0,N/A,N/A,N/A
+86,Jakob Poeltl,FG_UNASSISTED,None,2:45,3,Spurs,Timberwolves,51 - 84,0, ,2,Jumper
+87,Andrew Wiggins,FG_MISS,None,2:22,3,Timberwolves,Spurs,51 - 84,1,20,2,Jumper
+88,Jakob Poeltl,DEFENSIVE_REBOUND,None,2:19,3,Spurs,Timberwolves,51 - 84,0,N/A,N/A,N/A
+89,Patty Mills,FG_MISS,None,2:13,3,Spurs,Timberwolves,51 - 84,0,26,3,Jumper
+90,Taj Gibson,DEFENSIVE_REBOUND,None,2:10,3,Timberwolves,Spurs,51 - 84,1,N/A,N/A,N/A
+91,Team,Unknown,None,1:55,3,Spurs,Timberwolves,51 - 84,0,N/A,N/A,N/A
+92,Derrick Rose,FG_ASSISTED,Taj Gibson,1:50,3,Timberwolves,Spurs,51 - 87,1,24,3,Jumper
+93,Davis Bertans,FG_MISS,None,1:36,3,Spurs,Timberwolves,51 - 87,0, ,2,Jumper
+94,Jakob Poeltl,OFFENSIVE_REBOUND,None,1:31,3,Spurs,Timberwolves,51 - 87,0,N/A,N/A,N/A
+95,Jakob Poeltl,FG_MISS,None,1:31,3,Spurs,Timberwolves,51 - 87,0, ,2,Jumper
+96,Jakob Poeltl,OFFENSIVE_REBOUND,None,1:27,3,Spurs,Timberwolves,51 - 87,0,N/A,N/A,N/A
+97,Jakob Poeltl,FG_UNASSISTED,None,1:27,3,Spurs,Timberwolves,53 - 87,0, ,2,Jumper
+98,Derrick Rose,FG_ASSISTED,Jeff Teague,1:16,3,Timberwolves,Spurs,53 - 90,1,25,3,Jumper
+99,Andrew Wiggins,FOUL_ON_FLOOR,None,1:08,3,Timberwolves,Spurs,53 - 90,1,N/A,N/A,N/A
+100,Marco Belinelli,FT,None,1:08,3,Spurs,Timberwolves,54 - 90,0,N/A,1,N/A
+101,Dario Saric,SUBSTITUTION,Teague Jeff,1:08,3,Timberwolves,Spurs,54 - 90,1,N/A,N/A,N/A
+102,Tyus Jones,SUBSTITUTION,Gibson Taj,1:08,3,Timberwolves,Spurs,54 - 90,1,N/A,N/A,N/A
+103,Marco Belinelli,FT,None,1:08,3,Spurs,Timberwolves,55 - 90,0,N/A,1,N/A
+104,Karl-Anthony Towns,FOUL_ON_FLOOR,None,57.7,3,Timberwolves,Spurs,55 - 90,1,N/A,N/A,N/A
+105,Karl-Anthony Towns,TURNOVER,None,57.7,3,Timberwolves,Spurs,55 - 90,1,N/A,N/A,N/A
+106,Dante Cunningham,FG_MISS,None,48.3,3,Spurs,Timberwolves,55 - 90,0,0,2,Layup
+107,Davis Bertans,OFFENSIVE_REBOUND,None,46.0,3,Spurs,Timberwolves,55 - 90,0,N/A,N/A,N/A
+108,Marco Belinelli,FG_ASSISTED,Davis Bertans,41.4,3,Spurs,Timberwolves,58 - 90,0,23,3,Jumper
+109,Jakob Poeltl,FOUL_ON_FLOOR,None,26.5,3,Spurs,Timberwolves,58 - 90,0,N/A,N/A,N/A
+110,Karl-Anthony Towns,FT,None,26.5,3,Timberwolves,Spurs,58 - 91,1,N/A,1,N/A
+111,Karl-Anthony Towns,FT,None,26.5,3,Timberwolves,Spurs,58 - 92,1,N/A,1,N/A
+112,shot clock,TURNOVER,None,2.5,3,Spurs,Timberwolves,58 - 92,0,N/A,N/A,N/A
+113,Karl-Anthony Towns,TURNOVER,None,1.4,3,Timberwolves,Spurs,58 - 92,1,N/A,N/A,N/A
+114,Davis Bertans,FG_MISS,None,0.2,3,Spurs,Timberwolves,58 - 92,0,40,3,Jumper
+115,Team,OFFENSIVE_REBOUND,None,0.1,3,Spurs,Timberwolves,58 - 92,0,N/A,N/A,N/A
+116,End of,Unknown,None,0.0,3,Timberwolves,Spurs,58 - 92,1,N/A,N/A,N/A
+0,Gorgui Dieng,SUBSTITUTION,Wiggins Andrew,12:00,4,Timberwolves,Spurs,58 - 92,1,N/A,N/A,N/A
+1,Robert Covington,SUBSTITUTION,Towns Karl-Anthony,12:00,4,Timberwolves,Spurs,58 - 92,1,N/A,N/A,N/A
+2,Quincy Pondexter,SUBSTITUTION,Mills Patty,12:00,4,Spurs,Timberwolves,58 - 92,0,N/A,N/A,N/A
+3,Chimezie Metu,SUBSTITUTION,Cunningham Dante,12:00,4,Spurs,Timberwolves,58 - 92,0,N/A,N/A,N/A
+4,Derrick White,SUBSTITUTION,Bertans Davis,12:00,4,Spurs,Timberwolves,58 - 92,0,N/A,N/A,N/A
+5,Dario Saric,FG_ASSISTED,Tyus Jones,11:44,4,Timberwolves,Spurs,58 - 95,1,26,3,Jumper
+6,Jakob Poeltl,FG_MISS,None,11:25,4,Spurs,Timberwolves,58 - 95,0, ,2,Jumper
+7,Chimezie Metu,OFFENSIVE_REBOUND,None,11:24,4,Spurs,Timberwolves,58 - 95,0,N/A,N/A,N/A
+8,Chimezie Metu,FG_MISS,None,11:20,4,Spurs,Timberwolves,58 - 95,0,18,2,Jumper
+9,Gorgui Dieng,DEFENSIVE_REBOUND,None,11:18,4,Timberwolves,Spurs,58 - 95,1,N/A,N/A,N/A
+10,Dario Saric,FG_MISS,None,11:07,4,Timberwolves,Spurs,58 - 95,1,25,3,Jumper
+11,Quincy Pondexter,DEFENSIVE_REBOUND,None,11:04,4,Spurs,Timberwolves,58 - 95,0,N/A,N/A,N/A
+12,Quincy Pondexter,FG_ASSISTED,Derrick White,10:56,4,Spurs,Timberwolves,61 - 95,0,25,3,Jumper
+13,Tyus Jones,FG_ASSISTED,Robert Covington,10:35,4,Timberwolves,Spurs,61 - 98,1,25,3,Jumper
+14,Robert Covington,FOUL_ON_FLOOR,None,10:22,4,Timberwolves,Spurs,61 - 98,1,N/A,N/A,N/A
+15,Josh Okogie,SUBSTITUTION,Rose Derrick,10:22,4,Timberwolves,Spurs,61 - 98,1,N/A,N/A,N/A
+16,Quincy Pondexter,FG_MISS,None,10:13,4,Spurs,Timberwolves,61 - 98,0,0,2,Dunk
+17,Robert Covington,DEFENSIVE_REBOUND,None,10:11,4,Timberwolves,Spurs,61 - 98,1,N/A,N/A,N/A
+18,Robert Covington,FG_MISS,None,10:04,4,Timberwolves,Spurs,61 - 98,1,9,2,Jumper
+19,Jakob Poeltl,DEFENSIVE_REBOUND,None,10:02,4,Spurs,Timberwolves,61 - 98,0,N/A,N/A,N/A
+20,Derrick White,FG_UNASSISTED,None,9:48,4,Spurs,Timberwolves,63 - 98,0, ,2,Jumper
+21,Gorgui Dieng,FG_ASSISTED,Tyus Jones,9:32,4,Timberwolves,Spurs,63 - 100,1,17,2,Jumper
+22,Gorgui Dieng,Unknown,None,9:22,4,Timberwolves,Spurs,63 - 100,1,N/A,N/A,N/A
+23,Jakob Poeltl,FG_ASSISTED,Marco Belinelli,9:16,4,Spurs,Timberwolves,65 - 100,0,0,2,Layup
+24,Robert Covington,FG_ASSISTED,Tyus Jones,8:53,4,Timberwolves,Spurs,65 - 103,1,25,3,Jumper
+25,Marco Belinelli,TURNOVER,Josh Okogie,8:39,4,Spurs,Timberwolves,65 - 103,0,N/A,N/A,N/A
+26,Josh Okogie,FG_MISS,None,8:35,4,Timberwolves,Spurs,65 - 103,1,0,2,Layup
+27,Robert Covington,OFFENSIVE_REBOUND,None,8:30,4,Timberwolves,Spurs,65 - 103,1,N/A,N/A,N/A
+28,Robert Covington,FG_MISS,None,8:30,4,Timberwolves,Spurs,65 - 103,1,1,2,Jumper
+29,Derrick White,DEFENSIVE_REBOUND,None,8:29,4,Spurs,Timberwolves,65 - 103,0,N/A,N/A,N/A
+30,Marco Belinelli,FG_MISS,None,8:23,4,Spurs,Timberwolves,65 - 103,0,24,3,Jumper
+31,Tyus Jones,DEFENSIVE_REBOUND,None,8:22,4,Timberwolves,Spurs,65 - 103,1,N/A,N/A,N/A
+32,Josh Okogie,FG_MISS,None,8:11,4,Timberwolves,Spurs,65 - 103,1,21,2,Jumper
+33,Derrick White,DEFENSIVE_REBOUND,None,8:09,4,Spurs,Timberwolves,65 - 103,0,N/A,N/A,N/A
+34,Derrick White,TURNOVER,None,8:07,4,Spurs,Timberwolves,65 - 103,0,N/A,N/A,N/A
+35,Davis Bertans,SUBSTITUTION,Belinelli Marco,8:07,4,Spurs,Timberwolves,65 - 103,0,N/A,N/A,N/A
+36,Dario Saric,FG_ASSISTED,Josh Okogie,7:45,4,Timberwolves,Spurs,65 - 106,1,24,3,Jumper
+37,Quincy Pondexter,TURNOVER,None,7:28,4,Spurs,Timberwolves,65 - 106,0,N/A,N/A,N/A
+38,Quincy Pondexter,TURNOVER,None,7:28,4,Spurs,Timberwolves,65 - 106,0,N/A,N/A,N/A
+39,Dante Cunningham,SUBSTITUTION,Poeltl Jakob,7:28,4,Spurs,Timberwolves,65 - 106,0,N/A,N/A,N/A
+40,Dario Saric's,FG_MISS,Davis Bertans,7:17,4,Spurs,Timberwolves,65 - 106,1,0,2,Layup
+41,Chimezie Metu,DEFENSIVE_REBOUND,None,7:15,4,Spurs,Timberwolves,65 - 106,0,N/A,N/A,N/A
+42,Davis Bertans,FG_ASSISTED,Quincy Pondexter,7:11,4,Spurs,Timberwolves,67 - 106,0,0,2,Dunk
+43,Team,Unknown,None,7:04,4,Timberwolves,Spurs,67 - 106,1,N/A,N/A,N/A
+44,Luol Deng,SUBSTITUTION,Covington Robert,7:04,4,Timberwolves,Spurs,67 - 106,1,N/A,N/A,N/A
+45,Anthony Tolliver,SUBSTITUTION,Saric Dario,7:04,4,Timberwolves,Spurs,67 - 106,1,N/A,N/A,N/A
+46,Josh Okogie,FG_ASSISTED,Gorgui Dieng,6:52,4,Timberwolves,Spurs,67 - 108,1,0,2,Dunk
+47,Dante Cunningham,TURNOVER,Luol Deng,6:42,4,Spurs,Timberwolves,67 - 108,0,N/A,N/A,N/A
+48,Luol Deng,FG_ASSISTED,Josh Okogie,6:39,4,Timberwolves,Spurs,67 - 110,1,1,2,Jumper
+49,Quincy Pondexter,FOUL_ON_FLOOR,None,6:39,4,Spurs,Timberwolves,67 - 110,0,N/A,N/A,N/A
+50,Luol Deng,FT,None,6:39,4,Timberwolves,Spurs,67 - 111,1,N/A,1,N/A
+51,Chimezie Metu,FG_MISS,None,6:31,4,Spurs,Timberwolves,67 - 111,0,3,2,Jumper
+52,Anthony Tolliver,DEFENSIVE_REBOUND,None,6:28,4,Timberwolves,Spurs,67 - 111,1,N/A,N/A,N/A
+53,Tyus Jones,FG_MISS,None,6:12,4,Timberwolves,Spurs,67 - 111,1,25,3,Jumper
+54,Quincy Pondexter,DEFENSIVE_REBOUND,None,6:10,4,Spurs,Timberwolves,67 - 111,0,N/A,N/A,N/A
+55,Josh Okogie,FOUL_ON_FLOOR,None,6:06,4,Timberwolves,Spurs,67 - 111,1,N/A,N/A,N/A
+56,Luol Deng,FOUL_ON_FLOOR,None,5:59,4,Timberwolves,Spurs,67 - 111,1,N/A,N/A,N/A
+57,Quincy Pondexter,FT,None,5:59,4,Spurs,Timberwolves,68 - 111,0,N/A,1,N/A
+58,Quincy Pondexter,FT,None,5:59,4,Spurs,Timberwolves,69 - 111,0,N/A,1,N/A
+59,Gorgui Dieng,FG_ASSISTED,Tyus Jones,5:47,4,Timberwolves,Spurs,69 - 113,1,12,2,Jumper
+60,Dante Cunningham,FG_MISS,None,5:35,4,Spurs,Timberwolves,69 - 113,0,25,3,Jumper
+61,Josh Okogie,DEFENSIVE_REBOUND,None,5:33,4,Timberwolves,Spurs,69 - 113,1,N/A,N/A,N/A
+62,Josh Okogie,FG_ASSISTED,Luol Deng,5:27,4,Timberwolves,Spurs,69 - 116,1,25,3,Jumper
+63,Josh Okogie,FOUL_ON_FLOOR,None,5:11,4,Timberwolves,Spurs,69 - 116,1,N/A,N/A,N/A
+64,Quincy Pondexter,FT,None,5:11,4,Spurs,Timberwolves,70 - 116,0,N/A,1,N/A
+65,James Nunnally,SUBSTITUTION,Dieng Gorgui,5:11,4,Timberwolves,Spurs,70 - 116,1,N/A,N/A,N/A
+66,Quincy Pondexter,FT,None,5:11,4,Spurs,Timberwolves,71 - 116,0,N/A,1,N/A
+67,Josh Okogie,FG_ASSISTED,Anthony Tolliver,5:00,4,Timberwolves,Spurs,71 - 119,1,25,3,Jumper
+68,Josh Okogie,FOUL_ON_FLOOR,None,4:43,4,Timberwolves,Spurs,71 - 119,1,N/A,N/A,N/A
+69,Chimezie Metu,FT,None,4:43,4,Spurs,Timberwolves,72 - 119,0,N/A,1,N/A
+70,Jakob Poeltl,SUBSTITUTION,Cunningham Dante,4:43,4,Spurs,Timberwolves,72 - 119,0,N/A,N/A,N/A
+71,Chimezie Metu,FT,None,4:43,4,Spurs,Timberwolves,73 - 119,0,N/A,1,N/A
+72,James Nunnally,FG_MISS,None,4:26,4,Timberwolves,Spurs,73 - 119,1,23,3,Jumper
+73,Chimezie Metu,DEFENSIVE_REBOUND,None,4:24,4,Spurs,Timberwolves,73 - 119,0,N/A,N/A,N/A
+74,Jakob Poeltl,FG_ASSISTED,Chimezie Metu,4:14,4,Spurs,Timberwolves,75 - 119,0,1,2,Jumper
+75,Luol Deng,FG_MISS,None,3:59,4,Timberwolves,Spurs,75 - 119,1,25,3,Jumper
+76,Davis Bertans,DEFENSIVE_REBOUND,None,3:57,4,Spurs,Timberwolves,75 - 119,0,N/A,N/A,N/A
+77,Davis Bertans,FG_ASSISTED,Derrick White,3:53,4,Spurs,Timberwolves,77 - 119,0,0,2,Layup
+78,Josh Okogie,FG_ASSISTED,Tyus Jones,3:35,4,Timberwolves,Spurs,77 - 122,1,24,3,Jumper
+79,Chimezie Metu,FG_MISS,None,3:18,4,Spurs,Timberwolves,77 - 122,0,19,2,Jumper
+80,Davis Bertans,OFFENSIVE_REBOUND,None,3:15,4,Spurs,Timberwolves,77 - 122,0,N/A,N/A,N/A
+81,Quincy Pondexter,FG_ASSISTED,Derrick White,3:08,4,Spurs,Timberwolves,79 - 122,0,9,2,Jumper
+82,Anthony Tolliver,FG_MISS,None,2:54,4,Timberwolves,Spurs,79 - 122,1,25,3,Jumper
+83,Team,DEFENSIVE_REBOUND,None,2:53,4,Spurs,Timberwolves,79 - 122,0,N/A,N/A,N/A
+84,Team,Unknown,None,2:53,4,Spurs,Timberwolves,79 - 122,0,N/A,N/A,N/A
+85,Derrick White,FG_ASSISTED,Chimezie Metu,2:38,4,Spurs,Timberwolves,81 - 122,0,0,2,Dunk
+86,Chimezie Metu,FOUL_ON_FLOOR,None,2:24,4,Spurs,Timberwolves,81 - 122,0,N/A,N/A,N/A
+87,Josh Okogie,FT_MISS,None,2:24,4,Timberwolves,Spurs,81 - 122,1,N/A,1,N/A
+88,Team,OFFENSIVE_REBOUND,None,2:24,4,Timberwolves,Spurs,81 - 122,1,N/A,N/A,N/A
+89,Josh Okogie,FT,None,2:24,4,Timberwolves,Spurs,81 - 123,1,N/A,1,N/A
+90,Luol Deng,FOUL_ON_FLOOR,None,2:16,4,Timberwolves,Spurs,81 - 123,1,N/A,N/A,N/A
+91,Quincy Pondexter,FT,None,2:16,4,Spurs,Timberwolves,82 - 123,0,N/A,1,N/A
+92,Quincy Pondexter,FT,None,2:16,4,Spurs,Timberwolves,83 - 123,0,N/A,1,N/A
+93,James Nunnally,FG_MISS,None,2:06,4,Timberwolves,Spurs,83 - 123,1,25,3,Jumper
+94,Chimezie Metu,DEFENSIVE_REBOUND,None,2:03,4,Spurs,Timberwolves,83 - 123,0,N/A,N/A,N/A
+95,Derrick White,FG_MISS,None,1:51,4,Spurs,Timberwolves,83 - 123,0,0,2,Layup
+96,Luol Deng,DEFENSIVE_REBOUND,None,1:49,4,Timberwolves,Spurs,83 - 123,1,N/A,N/A,N/A
+97,Anthony Tolliver,FG_ASSISTED,Tyus Jones,1:44,4,Timberwolves,Spurs,83 - 126,1,28,3,Jumper
+98,Chimezie Metu,FG_MISS,None,1:34,4,Spurs,Timberwolves,83 - 126,0,18,2,Jumper
+99,Jakob Poeltl,OFFENSIVE_REBOUND,None,1:30,4,Spurs,Timberwolves,83 - 126,0,N/A,N/A,N/A
+100,Derrick White,FG_MISS,None,1:28,4,Spurs,Timberwolves,83 - 126,0,0,2,Layup
+101,Josh Okogie,DEFENSIVE_REBOUND,None,1:26,4,Timberwolves,Spurs,83 - 126,1,N/A,N/A,N/A
+102,Luol Deng,FG_ASSISTED,James Nunnally,1:18,4,Timberwolves,Spurs,83 - 128,1,9,2,Jumper
+103,Chimezie Metu,Unknown,None,1:18,4,Spurs,Timberwolves,83 - 128,0,N/A,N/A,N/A
+104,Jakob Poeltl,FG_UNASSISTED,None,1:07,4,Spurs,Timberwolves,85 - 128,0,2,2,Jumper
+105,Josh Okogie,FG_MISS,None,50.8,4,Timberwolves,Spurs,85 - 128,1,25,3,Jumper
+106,Quincy Pondexter,DEFENSIVE_REBOUND,None,47.4,4,Spurs,Timberwolves,85 - 128,0,N/A,N/A,N/A
+107,Davis Bertans,FG_ASSISTED,Quincy Pondexter,41.0,4,Spurs,Timberwolves,87 - 128,0,0,2,Layup
+108,Tyus Jones,FG_MISS,None,29.2,4,Timberwolves,Spurs,87 - 128,1,25,3,Jumper
+109,Quincy Pondexter,DEFENSIVE_REBOUND,None,25.2,4,Spurs,Timberwolves,87 - 128,0,N/A,N/A,N/A
+110,Quincy Pondexter,FG_UNASSISTED,None,21.0,4,Spurs,Timberwolves,89 - 128,0,0,2,Layup
+111,End of,Unknown,None,0.0,4,Timberwolves,Spurs,89 - 128,1,N/A,N/A,N/A
+112,End of,Unknown,None,0.0,4,Timberwolves,Spurs,89 - 128,1,N/A,N/A,N/A

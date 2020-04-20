@@ -1,0 +1,533 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Ivica Zubac,JUMP_BALL,None,12:00,1,Nuggets,Clippers,0 - 0,1,N/A,N/A,N/A
+1,Will Barton,FG_MISS,Patrick Beverley,11:37,1,Clippers,Nuggets,0 - 0,1,8,3,Jumper
+2,Nikola Jokic,OFFENSIVE_REBOUND,None,11:34,1,Nuggets,Clippers,0 - 0,1,N/A,N/A,N/A
+3,Nikola Jokic,FG_MISS,Ivica Zubac,11:33,1,Clippers,Nuggets,0 - 0,1,0,2,Layup
+4,Danilo Gallinari,DEFENSIVE_REBOUND,None,11:33,1,Clippers,Nuggets,0 - 0,0,N/A,N/A,N/A
+5,Ivica Zubac,FG_MISS,None,11:21,1,Clippers,Nuggets,0 - 0,0,0,2,Layup
+6,Nikola Jokic,DEFENSIVE_REBOUND,None,11:19,1,Nuggets,Clippers,0 - 0,1,N/A,N/A,N/A
+7,Malik Beasley,FG_MISS,None,11:13,1,Nuggets,Clippers,0 - 0,1,23,3,Jumper
+8,Ivica Zubac,DEFENSIVE_REBOUND,None,11:09,1,Clippers,Nuggets,0 - 0,0,N/A,N/A,N/A
+9,Landry Shamet,FG_MISS,None,10:53,1,Clippers,Nuggets,0 - 0,0,-,3,Jumper
+10,Paul Millsap,DEFENSIVE_REBOUND,None,10:51,1,Nuggets,Clippers,0 - 0,1,N/A,N/A,N/A
+11,Nikola Jokic,FG_ASSISTED,Will Barton,10:41,1,Nuggets,Clippers,0 - 2,1,-,3,Jumper
+12,Ivica Zubac,FG_MISS,None,10:32,1,Clippers,Nuggets,0 - 2,0,6,3,Jumper
+13,Will Barton,DEFENSIVE_REBOUND,None,10:29,1,Nuggets,Clippers,0 - 2,1,N/A,N/A,N/A
+14,Nikola Jokic,FG_ASSISTED,Jamal Murray,10:15,1,Nuggets,Clippers,0 - 4,1,0,2,Layup
+15,Danilo Gallinari,FG_ASSISTED,Patrick Beverley,9:53,1,Clippers,Nuggets,2 - 4,0,16,3,Jumper
+16,Paul Millsap,FG_ASSISTED,Jamal Murray,9:36,1,Nuggets,Clippers,2 - 6,1,1,3,Jumper
+17,Shai Gilgeous-Alexander,TURNOVER,None,9:17,1,Clippers,Nuggets,2 - 6,0,N/A,N/A,N/A
+18,Jamal Murray,FG_ASSISTED,Nikola Jokic,9:03,1,Nuggets,Clippers,2 - 9,1,24,3,Jumper
+19,Shai Gilgeous-Alexander,FOUL_ON_FLOOR,None,9:03,1,Clippers,Nuggets,2 - 9,0,N/A,N/A,N/A
+20,Jamal Murray,FT,None,9:03,1,Nuggets,Clippers,2 - 10,1,N/A,1,N/A
+21,Ivica Zubac,FG_MISS,None,8:41,1,Clippers,Nuggets,2 - 10,0,4,3,Jumper
+22,Nikola Jokic,DEFENSIVE_REBOUND,None,8:39,1,Nuggets,Clippers,2 - 10,1,N/A,N/A,N/A
+23,Jamal Murray,FG_ASSISTED,Nikola Jokic,8:31,1,Nuggets,Clippers,2 - 12,1,3,3,Jumper
+24,Team,Unknown,None,8:29,1,Clippers,Nuggets,2 - 12,0,N/A,N/A,N/A
+25,Shai Gilgeous-Alexander,FG_MISS,None,8:07,1,Clippers,Nuggets,2 - 12,0,22,3,Jumper
+26,Paul Millsap,DEFENSIVE_REBOUND,None,8:06,1,Nuggets,Clippers,2 - 12,1,N/A,N/A,N/A
+27,Paul Millsap,FG_ASSISTED,Will Barton,7:52,1,Nuggets,Clippers,2 - 14,1,0,2,Layup
+28,Nikola Jokic,FOUL_TECHNICAL,None,7:40,1,Nuggets,Clippers,2 - 14,1,N/A,N/A,N/A
+29,Danilo Gallinari,FT,None,7:40,1,Clippers,Nuggets,3 - 14,0,N/A,1,N/A
+30,Landry Shamet,FG_ASSISTED,Patrick Beverley,7:34,1,Clippers,Nuggets,5 - 14,0,14,3,Jumper
+31,Nikola Jokic,TURNOVER,Landry Shamet,7:12,1,Nuggets,Clippers,5 - 14,1,N/A,N/A,N/A
+32,Paul Millsap,FOUL_ON_FLOOR,None,7:08,1,Nuggets,Clippers,5 - 14,1,N/A,N/A,N/A
+33,Danilo Gallinari,FG_UNASSISTED,None,6:56,1,Clippers,Nuggets,7 - 14,0,9,3,Jumper
+34,Shai Gilgeous-Alexander,JUMP_BALL,None,6:46,1,Clippers,Nuggets,7 - 14,0,N/A,N/A,N/A
+35,Jamal Murray,TURNOVER,Shai Gilgeous-Alexander,6:46,1,Nuggets,Clippers,7 - 14,1,N/A,N/A,N/A
+36,Patrick Beverley,FG_MISS,None,6:36,1,Clippers,Nuggets,7 - 14,0,25,3,Jumper
+37,Nikola Jokic,DEFENSIVE_REBOUND,None,6:34,1,Nuggets,Clippers,7 - 14,1,N/A,N/A,N/A
+38,Ivica Zubac,FOUL_ON_FLOOR,None,6:27,1,Clippers,Nuggets,7 - 14,0,N/A,N/A,N/A
+39,Nikola Jokic,FT_MISS,None,6:27,1,Nuggets,Clippers,7 - 14,1,N/A,1,N/A
+40,Team,OFFENSIVE_REBOUND,None,6:27,1,Nuggets,Clippers,7 - 14,1,N/A,N/A,N/A
+41,Nikola Jokic,FT,None,6:27,1,Nuggets,Clippers,7 - 15,1,N/A,1,N/A
+42,Ivica Zubac,FG_ASSISTED,Shai Gilgeous-Alexander,6:16,1,Clippers,Nuggets,9 - 15,0,0,2,Dunk
+43,Malik Beasley,FG_ASSISTED,Nikola Jokic,6:05,1,Nuggets,Clippers,9 - 18,1,23,3,Jumper
+44,Danilo Gallinari,FG_MISS,None,5:49,1,Clippers,Nuggets,9 - 18,0,15,3,Jumper
+45,Jamal Murray,DEFENSIVE_REBOUND,None,5:46,1,Nuggets,Clippers,9 - 18,1,N/A,N/A,N/A
+46,Jamal Murray,FG_MISS,None,5:42,1,Nuggets,Clippers,9 - 18,1,26,3,Jumper
+47,Patrick Beverley,DEFENSIVE_REBOUND,None,5:38,1,Clippers,Nuggets,9 - 18,0,N/A,N/A,N/A
+48,Ivica Zubac,FG_ASSISTED,Patrick Beverley,5:33,1,Clippers,Nuggets,11 - 18,0,0,2,Dunk
+49,Nikola Jokic,FG_MISS,None,5:16,1,Nuggets,Clippers,11 - 18,1,26,3,Jumper
+50,Patrick Beverley,DEFENSIVE_REBOUND,None,5:16,1,Clippers,Nuggets,11 - 18,0,N/A,N/A,N/A
+51,Will Barton,FOUL_ON_FLOOR,None,5:03,1,Nuggets,Clippers,11 - 18,1,N/A,N/A,N/A
+52,Mason Plumlee,SUBSTITUTION,Millsap Paul,5:03,1,Nuggets,Clippers,11 - 18,1,N/A,N/A,N/A
+53,Montrezl Harrell,SUBSTITUTION,Zubac Ivica,5:03,1,Clippers,Nuggets,11 - 18,0,N/A,N/A,N/A
+54,Lou Williams,SUBSTITUTION,Gilgeous-Alexander Shai,5:03,1,Clippers,Nuggets,11 - 18,0,N/A,N/A,N/A
+55,Danilo Gallinari,FG_ASSISTED,Patrick Beverley,4:55,1,Clippers,Nuggets,13 - 18,0,0,2,Layup
+56,Team,Unknown,None,4:53,1,Nuggets,Clippers,13 - 18,1,N/A,N/A,N/A
+57,Gary Harris,SUBSTITUTION,Beasley Malik,4:53,1,Nuggets,Clippers,13 - 18,1,N/A,N/A,N/A
+58,Nikola Jokic,FG_UNASSISTED,None,4:35,1,Nuggets,Clippers,13 - 20,1,7,3,Jumper
+59,Landry Shamet,FG_ASSISTED,Danilo Gallinari,4:12,1,Clippers,Nuggets,15 - 20,0,16,3,Jumper
+60,Nikola Jokic,FG_MISS,None,3:57,1,Nuggets,Clippers,15 - 20,1,5,3,Jumper
+61,Lou Williams,DEFENSIVE_REBOUND,None,3:53,1,Clippers,Nuggets,15 - 20,0,N/A,N/A,N/A
+62,Danilo Gallinari,FG_UNASSISTED,None,3:36,1,Clippers,Nuggets,17 - 20,0,7,3,Jumper
+63,Lou Williams,FOUL_ON_FLOOR,None,3:20,1,Clippers,Nuggets,17 - 20,0,N/A,N/A,N/A
+64,Gary Harris,FT_MISS,None,3:20,1,Nuggets,Clippers,17 - 20,1,N/A,1,N/A
+65,Team,OFFENSIVE_REBOUND,None,3:20,1,Nuggets,Clippers,17 - 20,1,N/A,N/A,N/A
+66,Monte Morris,SUBSTITUTION,Barton Will,3:20,1,Nuggets,Clippers,17 - 20,1,N/A,N/A,N/A
+67,Paul Millsap,SUBSTITUTION,Jokic Nikola,3:20,1,Nuggets,Clippers,17 - 20,1,N/A,N/A,N/A
+68,Isaiah Thomas,SUBSTITUTION,Murray Jamal,3:20,1,Nuggets,Clippers,17 - 20,1,N/A,N/A,N/A
+69,Garrett Temple,SUBSTITUTION,Shamet Landry,3:20,1,Clippers,Nuggets,17 - 20,0,N/A,N/A,N/A
+70,Gary Harris,FT_MISS,None,3:20,1,Nuggets,Clippers,17 - 20,1,N/A,1,N/A
+71,Patrick Beverley,DEFENSIVE_REBOUND,None,3:18,1,Clippers,Nuggets,17 - 20,0,N/A,N/A,N/A
+72,Mason Plumlee,FOUL_ON_FLOOR,None,3:02,1,Nuggets,Clippers,17 - 20,1,N/A,N/A,N/A
+73,Montrezl Harrell,FT,None,3:02,1,Clippers,Nuggets,18 - 20,0,N/A,1,N/A
+74,JaMychal Green,SUBSTITUTION,Gallinari Danilo,3:02,1,Clippers,Nuggets,18 - 20,0,N/A,N/A,N/A
+75,Montrezl Harrell,FT,None,3:02,1,Clippers,Nuggets,19 - 20,0,N/A,1,N/A
+76,Montrezl Harrell,FOUL_ON_FLOOR,None,2:44,1,Clippers,Nuggets,19 - 20,0,N/A,N/A,N/A
+77,Mason Plumlee,FT,None,2:44,1,Nuggets,Clippers,19 - 21,1,N/A,1,N/A
+78,Patrick Beverley,Unknown,None,2:44,1,Clippers,Nuggets,19 - 20,0,N/A,N/A,N/A
+79,Mason Plumlee,FT,None,2:44,1,Nuggets,Clippers,19 - 22,1,N/A,1,N/A
+80,Montrezl Harrell,FG_ASSISTED,Lou Williams,2:33,1,Clippers,Nuggets,21 - 22,0,0,2,Dunk
+81,Garrett Temple,FOUL_ON_FLOOR,None,2:22,1,Clippers,Nuggets,21 - 22,0,N/A,N/A,N/A
+82,Isaiah Thomas,FT,None,2:22,1,Nuggets,Clippers,21 - 23,1,N/A,1,N/A
+83,Isaiah Thomas,FT,None,2:22,1,Nuggets,Clippers,21 - 24,1,N/A,1,N/A
+84,JaMychal Green,FG_MISS,None,2:04,1,Clippers,Nuggets,21 - 24,0,15,3,Jumper
+85,Patrick Beverley,OFFENSIVE_REBOUND,None,2:01,1,Clippers,Nuggets,21 - 24,0,N/A,N/A,N/A
+86,Montrezl Harrell,FG_MISS,None,1:58,1,Clippers,Nuggets,21 - 24,0, ,3,Jumper
+87,Mason Plumlee,DEFENSIVE_REBOUND,None,1:55,1,Nuggets,Clippers,21 - 24,1,N/A,N/A,N/A
+88,Mason Plumlee,FG_ASSISTED,Gary Harris,1:42,1,Nuggets,Clippers,21 - 26,1,0,2,Layup
+89,Lou Williams,FG_ASSISTED,Montrezl Harrell,1:26,1,Clippers,Nuggets,23 - 26,0,5,3,Jumper
+90,Isaiah Thomas,FG_MISS,None,1:06,1,Nuggets,Clippers,23 - 26,1, ,3,Jumper
+91,JaMychal Green,DEFENSIVE_REBOUND,None,1:04,1,Clippers,Nuggets,23 - 26,0,N/A,N/A,N/A
+92,Lou Williams,TURNOVER,Monte Morris,59.2,1,Clippers,Nuggets,23 - 26,0,N/A,N/A,N/A
+93,Monte Morris,FG_MISS,JaMychal Green,53.6,1,Clippers,Nuggets,23 - 26,1,3,3,Jumper
+94,Paul Millsap,OFFENSIVE_REBOUND,None,53.5,1,Nuggets,Clippers,23 - 26,1,N/A,N/A,N/A
+95,Paul Millsap,FG_UNASSISTED,None,53.5,1,Nuggets,Clippers,23 - 28,1, ,3,Jumper
+96,Lou Williams,FG_MISS,None,48.6,1,Clippers,Nuggets,23 - 28,0,25,3,Jumper
+97,Isaiah Thomas,DEFENSIVE_REBOUND,None,45.7,1,Nuggets,Clippers,23 - 28,1,N/A,N/A,N/A
+98,Isaiah Thomas,FG_MISS,Patrick Beverley,40.7,1,Clippers,Nuggets,23 - 28,1,25,3,Jumper
+99,Team,DEFENSIVE_REBOUND,None,40.7,1,Clippers,Nuggets,23 - 28,0,N/A,N/A,N/A
+100,Mason Plumlee,FOUL_ON_FLOOR,None,40.7,1,Nuggets,Clippers,23 - 28,1,N/A,N/A,N/A
+101,Tyrone Wallace,SUBSTITUTION,Beverley Patrick,40.7,1,Clippers,Nuggets,23 - 28,0,N/A,N/A,N/A
+102,Gary Harris,FOUL_ON_FLOOR,None,38.7,1,Nuggets,Clippers,23 - 28,1,N/A,N/A,N/A
+103,Lou Williams,FT,None,38.7,1,Clippers,Nuggets,24 - 28,0,N/A,1,N/A
+104,Lou Williams,FT,None,38.7,1,Clippers,Nuggets,25 - 28,0,N/A,1,N/A
+105,Monte Morris,FG_UNASSISTED,None,33.6,1,Nuggets,Clippers,25 - 31,1,25,3,Jumper
+106,Tyrone Wallace,FG_ASSISTED,Lou Williams,15.8,1,Clippers,Nuggets,27 - 31,0,0,2,Layup
+107,Gary Harris,FG_UNASSISTED,None,2.0,1,Nuggets,Clippers,27 - 34,1,26,3,Jumper
+108,End of,Unknown,None,0.0,1,Nuggets,Clippers,27 - 34,1,N/A,N/A,N/A
+0,Torrey Craig,SUBSTITUTION,Millsap Paul,12:00,2,Nuggets,Clippers,27 - 34,1,N/A,N/A,N/A
+1,JaMychal Green,FG_MISS,None,11:49,2,Clippers,Nuggets,27 - 34,0,24,3,Jumper
+2,Mason Plumlee,DEFENSIVE_REBOUND,None,11:46,2,Nuggets,Clippers,27 - 34,1,N/A,N/A,N/A
+3,Isaiah Thomas,FG_UNASSISTED,None,11:24,2,Nuggets,Clippers,27 - 36,1,3,3,Jumper
+4,Isaiah Thomas,FOUL_ON_FLOOR,None,11:13,2,Nuggets,Clippers,27 - 36,1,N/A,N/A,N/A
+5,Montrezl Harrell,FG_MISS,None,11:03,2,Clippers,Nuggets,27 - 36,0,0,2,Layup
+6,Montrezl Harrell,OFFENSIVE_REBOUND,None,11:03,2,Clippers,Nuggets,27 - 36,0,N/A,N/A,N/A
+7,Mason Plumlee,FOUL_ON_FLOOR,None,11:01,2,Nuggets,Clippers,27 - 36,1,N/A,N/A,N/A
+8,JaMychal Green,FT_MISS,None,11:01,2,Clippers,Nuggets,27 - 36,0,N/A,1,N/A
+9,Team,OFFENSIVE_REBOUND,None,11:01,2,Clippers,Nuggets,27 - 36,0,N/A,N/A,N/A
+10,Nikola Jokic,SUBSTITUTION,Plumlee Mason,11:01,2,Nuggets,Clippers,27 - 36,1,N/A,N/A,N/A
+11,JaMychal Green,FT,None,11:01,2,Clippers,Nuggets,28 - 36,0,N/A,1,N/A
+12,Isaiah Thomas,FG_MISS,None,10:44,2,Nuggets,Clippers,28 - 36,1,9,3,Jumper
+13,Garrett Temple,DEFENSIVE_REBOUND,None,10:41,2,Clippers,Nuggets,28 - 36,0,N/A,N/A,N/A
+14,JaMychal Green,FG_MISS,None,10:28,2,Clippers,Nuggets,28 - 36,0, ,3,Jumper
+15,Nikola Jokic,DEFENSIVE_REBOUND,None,10:26,2,Nuggets,Clippers,28 - 36,1,N/A,N/A,N/A
+16,Monte Morris,TURNOVER,None,10:22,2,Nuggets,Clippers,28 - 36,1,N/A,N/A,N/A
+17,Garrett Temple,FG_MISS,None,10:11,2,Clippers,Nuggets,28 - 36,0,23,3,Jumper
+18,Nikola Jokic,DEFENSIVE_REBOUND,None,10:08,2,Nuggets,Clippers,28 - 36,1,N/A,N/A,N/A
+19,Lou Williams,FOUL_ON_FLOOR,None,10:04,2,Clippers,Nuggets,28 - 36,0,N/A,N/A,N/A
+20,Nikola Jokic,FG_ASSISTED,Isaiah Thomas,9:57,2,Nuggets,Clippers,28 - 38,1,9,3,Jumper
+21,Team,Unknown,None,9:51,2,Clippers,Nuggets,28 - 38,0,N/A,N/A,N/A
+22,Lou Williams,FG_UNASSISTED,None,9:41,2,Clippers,Nuggets,30 - 38,0,2,3,Jumper
+23,Tyrone Wallace,FOUL_ON_FLOOR,None,9:31,2,Clippers,Nuggets,30 - 38,0,N/A,N/A,N/A
+24,Gary Harris,FT,None,9:31,2,Nuggets,Clippers,30 - 39,1,N/A,1,N/A
+25,Shai Gilgeous-Alexander,SUBSTITUTION,Wallace Tyrone,9:31,2,Clippers,Nuggets,30 - 39,0,N/A,N/A,N/A
+26,Gary Harris,FT,None,9:31,2,Nuggets,Clippers,30 - 40,1,N/A,1,N/A
+27,Lou Williams,FG_UNASSISTED,None,9:22,2,Clippers,Nuggets,32 - 40,0,10,3,Jumper
+28,Gary Harris,FOUL_ON_FLOOR,None,9:22,2,Nuggets,Clippers,32 - 40,1,N/A,N/A,N/A
+29,Lou Williams,FT,None,9:22,2,Clippers,Nuggets,33 - 40,0,N/A,1,N/A
+30,Isaiah Thomas,FG_MISS,None,9:12,2,Nuggets,Clippers,33 - 40,1,25,3,Jumper
+31,Montrezl Harrell,DEFENSIVE_REBOUND,None,9:09,2,Clippers,Nuggets,33 - 40,0,N/A,N/A,N/A
+32,Shai Gilgeous-Alexander,TURNOVER,Torrey Craig,9:01,2,Clippers,Nuggets,33 - 40,0,N/A,N/A,N/A
+33,Montrezl Harrell,FOUL_ON_FLOOR,None,9:00,2,Clippers,Nuggets,33 - 40,0,N/A,N/A,N/A
+34,Gary Harris,FG_MISS,None,8:48,2,Nuggets,Clippers,33 - 40,1,24,3,Jumper
+35,JaMychal Green,DEFENSIVE_REBOUND,None,8:46,2,Clippers,Nuggets,33 - 40,0,N/A,N/A,N/A
+36,Montrezl Harrell,FG_ASSISTED,JaMychal Green,8:36,2,Clippers,Nuggets,35 - 40,0,0,2,Layup
+37,Nikola Jokic,FG_ASSISTED,Monte Morris,8:25,2,Nuggets,Clippers,35 - 42,1,24,3,Jumper
+38,Lou Williams,TURNOVER,Nikola Jokic,8:12,2,Clippers,Nuggets,35 - 42,0,N/A,N/A,N/A
+39,Nikola Jokic,TURNOVER,Garrett Temple,8:10,2,Nuggets,Clippers,35 - 42,1,N/A,N/A,N/A
+40,Montrezl Harrell,FG_ASSISTED,Shai Gilgeous-Alexander,8:05,2,Clippers,Nuggets,37 - 42,0,0,2,Dunk
+41,Gary Harris,FG_UNASSISTED,None,7:49,2,Nuggets,Clippers,37 - 44,1,13,3,Jumper
+42,Garrett Temple,FG_ASSISTED,Montrezl Harrell,7:31,2,Clippers,Nuggets,39 - 44,0,0,2,Layup
+43,Team,Unknown,None,7:31,2,Nuggets,Clippers,39 - 44,1,N/A,N/A,N/A
+44,Juan Hernangomez,SUBSTITUTION,Craig Torrey,7:31,2,Nuggets,Clippers,39 - 44,1,N/A,N/A,N/A
+45,Jamal Murray,SUBSTITUTION,Morris Monte,7:31,2,Nuggets,Clippers,39 - 44,1,N/A,N/A,N/A
+46,Paul Millsap,SUBSTITUTION,Harris Gary,7:31,2,Nuggets,Clippers,39 - 44,1,N/A,N/A,N/A
+47,Will Barton,SUBSTITUTION,Jokic Nikola,7:31,2,Nuggets,Clippers,39 - 44,1,N/A,N/A,N/A
+48,Isaiah Thomas,TURNOVER,None,7:24,2,Nuggets,Clippers,39 - 44,1,N/A,N/A,N/A
+49,Lou Williams,FG_MISS,None,7:17,2,Clippers,Nuggets,39 - 44,0,21,3,Jumper
+50,Jamal Murray,DEFENSIVE_REBOUND,None,7:13,2,Nuggets,Clippers,39 - 44,1,N/A,N/A,N/A
+51,Will Barton,FG_MISS,None,7:10,2,Nuggets,Clippers,39 - 44,1,25,3,Jumper
+52,Garrett Temple,DEFENSIVE_REBOUND,None,7:07,2,Clippers,Nuggets,39 - 44,0,N/A,N/A,N/A
+53,Juan Hernangomez,FOUL_ON_FLOOR,None,6:51,2,Nuggets,Clippers,39 - 44,1,N/A,N/A,N/A
+54,Danilo Gallinari,SUBSTITUTION,Green JaMychal,6:51,2,Clippers,Nuggets,39 - 44,0,N/A,N/A,N/A
+55,Landry Shamet,SUBSTITUTION,Harrell Montrezl,6:51,2,Clippers,Nuggets,39 - 44,0,N/A,N/A,N/A
+56,Ivica Zubac,SUBSTITUTION,Williams Lou,6:51,2,Clippers,Nuggets,39 - 44,0,N/A,N/A,N/A
+57,Ivica Zubac,FG_ASSISTED,Garrett Temple,6:40,2,Clippers,Nuggets,41 - 44,0,1,3,Jumper
+58,Will Barton,TURNOVER,None,6:29,2,Nuggets,Clippers,41 - 44,1,N/A,N/A,N/A
+59,Malik Beasley,SUBSTITUTION,Thomas Isaiah,6:29,2,Nuggets,Clippers,41 - 44,1,N/A,N/A,N/A
+60,Shai Gilgeous-Alexander,FG_MISS,None,6:14,2,Clippers,Nuggets,41 - 44,0,25,3,Jumper
+61,Paul Millsap,DEFENSIVE_REBOUND,None,6:10,2,Nuggets,Clippers,41 - 44,1,N/A,N/A,N/A
+62,Ivica Zubac,FOUL_ON_FLOOR,None,6:03,2,Clippers,Nuggets,41 - 44,0,N/A,N/A,N/A
+63,Paul Millsap,FT,None,6:03,2,Nuggets,Clippers,41 - 45,1,N/A,1,N/A
+64,Paul Millsap,FT_MISS,None,6:03,2,Nuggets,Clippers,41 - 45,1,N/A,1,N/A
+65,Ivica Zubac,DEFENSIVE_REBOUND,None,6:01,2,Clippers,Nuggets,41 - 45,0,N/A,N/A,N/A
+66,Juan Hernangomez,FOUL_ON_FLOOR,None,5:50,2,Nuggets,Clippers,41 - 45,1,N/A,N/A,N/A
+67,Danilo Gallinari,FT,None,5:50,2,Clippers,Nuggets,42 - 45,0,N/A,1,N/A
+68,Danilo Gallinari,FT,None,5:50,2,Clippers,Nuggets,43 - 45,0,N/A,1,N/A
+69,Jamal Murray,TURNOVER,None,5:42,2,Nuggets,Clippers,43 - 45,1,N/A,N/A,N/A
+70,Jamal Murray,FOUL_ON_FLOOR,None,5:42,2,Nuggets,Clippers,43 - 45,1,N/A,N/A,N/A
+71,Garrett Temple,FT,None,5:42,2,Clippers,Nuggets,44 - 45,0,N/A,1,N/A
+72,Nikola Jokic,SUBSTITUTION,Hernangomez Juan,5:42,2,Nuggets,Clippers,44 - 45,1,N/A,N/A,N/A
+73,Garrett Temple,FT,None,5:42,2,Clippers,Nuggets,45 - 45,0,N/A,1,N/A
+74,Ivica Zubac,FOUL_ON_FLOOR,None,5:35,2,Clippers,Nuggets,45 - 45,0,N/A,N/A,N/A
+75,Nikola Jokic,FT,None,5:35,2,Nuggets,Clippers,45 - 46,1,N/A,1,N/A
+76,Nikola Jokic,FT,None,5:35,2,Nuggets,Clippers,45 - 47,1,N/A,1,N/A
+77,Danilo Gallinari,FG_MISS,None,5:26,2,Clippers,Nuggets,45 - 47,0,24,3,Jumper
+78,Ivica Zubac,OFFENSIVE_REBOUND,None,5:23,2,Clippers,Nuggets,45 - 47,0,N/A,N/A,N/A
+79,Ivica Zubac,FG_MISS,None,5:21,2,Clippers,Nuggets,45 - 47,0,5,3,Jumper
+80,Will Barton,DEFENSIVE_REBOUND,None,5:18,2,Nuggets,Clippers,45 - 47,1,N/A,N/A,N/A
+81,Will Barton,FG_ASSISTED,Jamal Murray,5:14,2,Nuggets,Clippers,45 - 50,1,26,3,Jumper
+82,Danilo Gallinari,TURNOVER,None,4:58,2,Clippers,Nuggets,45 - 50,0,N/A,N/A,N/A
+83,Montrezl Harrell,SUBSTITUTION,Zubac Ivica,4:58,2,Clippers,Nuggets,45 - 50,0,N/A,N/A,N/A
+84,Jamal Murray,FG_UNASSISTED,None,4:50,2,Nuggets,Clippers,45 - 53,1,25,3,Jumper
+85,Shai Gilgeous-Alexander,TURNOVER,None,4:39,2,Clippers,Nuggets,45 - 53,0,N/A,N/A,N/A
+86,Shai Gilgeous-Alexander,TURNOVER,None,4:39,2,Clippers,Nuggets,45 - 53,0,N/A,N/A,N/A
+87,Patrick Beverley,SUBSTITUTION,Temple Garrett,4:39,2,Clippers,Nuggets,45 - 53,0,N/A,N/A,N/A
+88,Jamal Murray,FG_UNASSISTED,None,4:29,2,Nuggets,Clippers,45 - 55,1,3,3,Jumper
+89,Danilo Gallinari,FG_MISS,None,4:14,2,Clippers,Nuggets,45 - 55,0,18,3,Jumper
+90,Nikola Jokic,DEFENSIVE_REBOUND,None,4:12,2,Nuggets,Clippers,45 - 55,1,N/A,N/A,N/A
+91,Jamal Murray,FG_MISS,None,4:05,2,Nuggets,Clippers,45 - 55,1,25,3,Jumper
+92,Patrick Beverley,DEFENSIVE_REBOUND,None,4:01,2,Clippers,Nuggets,45 - 55,0,N/A,N/A,N/A
+93,Montrezl Harrell,FG_MISS,None,3:54,2,Clippers,Nuggets,45 - 55,0,10,3,Jumper
+94,Team,DEFENSIVE_REBOUND,None,3:53,2,Nuggets,Clippers,45 - 55,1,N/A,N/A,N/A
+95,Montrezl Harrell,FOUL_ON_FLOOR,None,3:53,2,Clippers,Nuggets,45 - 55,0,N/A,N/A,N/A
+96,Paul Millsap,FT_MISS,None,3:53,2,Nuggets,Clippers,45 - 55,1,N/A,1,N/A
+97,Team,OFFENSIVE_REBOUND,None,3:53,2,Nuggets,Clippers,45 - 55,1,N/A,N/A,N/A
+98,JaMychal Green,SUBSTITUTION,Gilgeous-Alexander Shai,3:53,2,Clippers,Nuggets,45 - 55,0,N/A,N/A,N/A
+99,Lou Williams,SUBSTITUTION,Harrell Montrezl,3:53,2,Clippers,Nuggets,45 - 55,0,N/A,N/A,N/A
+100,Paul Millsap,FT,None,3:53,2,Nuggets,Clippers,45 - 56,1,N/A,1,N/A
+101,Lou Williams,FG_MISS,None,3:40,2,Clippers,Nuggets,45 - 56,0,26,3,Jumper
+102,Nikola Jokic,DEFENSIVE_REBOUND,None,3:36,2,Nuggets,Clippers,45 - 56,1,N/A,N/A,N/A
+103,Paul Millsap,FG_MISS,None,3:30,2,Nuggets,Clippers,45 - 56,1,0,2,Dunk
+104,Danilo Gallinari,DEFENSIVE_REBOUND,None,3:28,2,Clippers,Nuggets,45 - 56,0,N/A,N/A,N/A
+105,Nikola Jokic,FOUL_ON_FLOOR,None,3:20,2,Nuggets,Clippers,45 - 56,1,N/A,N/A,N/A
+106,JaMychal Green,FT_MISS,None,3:20,2,Clippers,Nuggets,45 - 56,0,N/A,1,N/A
+107,Team,OFFENSIVE_REBOUND,None,3:20,2,Clippers,Nuggets,45 - 56,0,N/A,N/A,N/A
+108,JaMychal Green,FT,None,3:20,2,Clippers,Nuggets,46 - 56,0,N/A,1,N/A
+109,Nikola Jokic,FG_UNASSISTED,None,3:04,2,Nuggets,Clippers,46 - 58,1,0,2,Layup
+110,Malik Beasley,FOUL_ON_FLOOR,None,2:58,2,Nuggets,Clippers,46 - 58,1,N/A,N/A,N/A
+111,Lou Williams,FT,None,2:58,2,Clippers,Nuggets,47 - 58,0,N/A,1,N/A
+112,Lou Williams,FT,None,2:58,2,Clippers,Nuggets,48 - 58,0,N/A,1,N/A
+113,Nikola Jokic,FG_ASSISTED,Jamal Murray,2:48,2,Nuggets,Clippers,48 - 60,1,18,3,Jumper
+114,JaMychal Green,FOUL_ON_FLOOR,None,2:47,2,Clippers,Nuggets,48 - 60,0,N/A,N/A,N/A
+115,Paul Millsap,FT_MISS,None,2:47,2,Nuggets,Clippers,48 - 60,1,N/A,1,N/A
+116,Team,DEFENSIVE_REBOUND,None,2:46,2,Clippers,Nuggets,48 - 60,0,N/A,N/A,N/A
+117,Nikola Jokic,Unknown,None,2:39,2,Nuggets,Clippers,48 - 60,1,N/A,N/A,N/A
+118,Jamal Murray,FOUL_ON_FLOOR,None,2:25,2,Nuggets,Clippers,48 - 60,1,N/A,N/A,N/A
+119,Lou Williams,FT,None,2:25,2,Clippers,Nuggets,49 - 60,0,N/A,1,N/A
+120,Lou Williams,FT,None,2:25,2,Clippers,Nuggets,50 - 60,0,N/A,1,N/A
+121,Landry Shamet,FOUL_ON_FLOOR,None,2:13,2,Clippers,Nuggets,50 - 60,0,N/A,N/A,N/A
+122,Nikola Jokic,FT,None,2:13,2,Nuggets,Clippers,50 - 61,1,N/A,1,N/A
+123,Nikola Jokic,FT_MISS,None,2:13,2,Nuggets,Clippers,50 - 61,1,N/A,1,N/A
+124,JaMychal Green,DEFENSIVE_REBOUND,None,2:11,2,Clippers,Nuggets,50 - 61,0,N/A,N/A,N/A
+125,JaMychal Green,FG_MISS,None,1:58,2,Clippers,Nuggets,50 - 61,0,23,3,Jumper
+126,Jamal Murray,DEFENSIVE_REBOUND,None,1:54,2,Nuggets,Clippers,50 - 61,1,N/A,N/A,N/A
+127,Patrick Beverley,FOUL_ON_FLOOR,None,1:51,2,Clippers,Nuggets,50 - 61,0,N/A,N/A,N/A
+128,Jamal Murray,FT,None,1:51,2,Nuggets,Clippers,50 - 62,1,N/A,1,N/A
+129,Jamal Murray,FT_MISS,None,1:51,2,Nuggets,Clippers,50 - 62,1,N/A,1,N/A
+130,JaMychal Green,DEFENSIVE_REBOUND,None,1:48,2,Clippers,Nuggets,50 - 62,0,N/A,N/A,N/A
+131,Malik Beasley,FOUL_ON_FLOOR,None,1:38,2,Nuggets,Clippers,50 - 62,1,N/A,N/A,N/A
+132,Danilo Gallinari,FT,None,1:38,2,Clippers,Nuggets,51 - 62,0,N/A,1,N/A
+133,Danilo Gallinari,FT,None,1:38,2,Clippers,Nuggets,52 - 62,0,N/A,1,N/A
+134,Will Barton,FG_MISS,None,1:27,2,Nuggets,Clippers,52 - 62,1,0,2,Layup
+135,Patrick Beverley,DEFENSIVE_REBOUND,None,1:25,2,Clippers,Nuggets,52 - 62,0,N/A,N/A,N/A
+136,Lou Williams,FG_MISS,None,1:22,2,Clippers,Nuggets,52 - 62,0,23,3,Jumper
+137,Team,OFFENSIVE_REBOUND,None,1:20,2,Clippers,Nuggets,52 - 62,0,N/A,N/A,N/A
+138,JaMychal Green,FG_UNASSISTED,None,1:06,2,Clippers,Nuggets,54 - 62,0,0,2,Layup
+139,Nikola Jokic,FOUL_ON_FLOOR,None,57.6,2,Nuggets,Clippers,54 - 62,1,N/A,N/A,N/A
+140,Nikola Jokic,TURNOVER,None,57.6,2,Nuggets,Clippers,54 - 62,1,N/A,N/A,N/A
+141,Patrick Beverley,FT,None,57.6,2,Clippers,Nuggets,55 - 62,0,N/A,1,N/A
+142,Monte Morris,SUBSTITUTION,Murray Jamal,57.6,2,Nuggets,Clippers,55 - 62,1,N/A,N/A,N/A
+143,Patrick Beverley,FT,None,57.6,2,Clippers,Nuggets,56 - 62,0,N/A,1,N/A
+144,Malik Beasley,FG_ASSISTED,Monte Morris,42.2,2,Nuggets,Clippers,56 - 64,1,0,2,Dunk
+145,Danilo Gallinari,FG_MISS,None,33.4,2,Clippers,Nuggets,56 - 64,0,25,3,Jumper
+146,Paul Millsap,DEFENSIVE_REBOUND,None,30.0,2,Nuggets,Clippers,56 - 64,1,N/A,N/A,N/A
+147,Nikola Jokic,FG_MISS,None,11.5,2,Nuggets,Clippers,56 - 64,1,7,3,Jumper
+148,JaMychal Green,DEFENSIVE_REBOUND,None,9.3,2,Clippers,Nuggets,56 - 64,0,N/A,N/A,N/A
+149,Landry Shamet,FG_MISS,None,7.8,2,Clippers,Nuggets,56 - 64,0,26,3,Jumper
+150,JaMychal Green,OFFENSIVE_REBOUND,None,3.9,2,Clippers,Nuggets,56 - 64,0,N/A,N/A,N/A
+151,JaMychal Green,TURNOVER,Paul Millsap,3.4,2,Clippers,Nuggets,56 - 64,0,N/A,N/A,N/A
+152,Paul Millsap,TURNOVER,Landry Shamet,0.1,2,Nuggets,Clippers,56 - 64,1,N/A,N/A,N/A
+153,End of,Unknown,None,0.0,2,Nuggets,Clippers,56 - 64,1,N/A,N/A,N/A
+0,Jamal Murray,SUBSTITUTION,Morris Monte,12:00,3,Nuggets,Clippers,56 - 64,1,N/A,N/A,N/A
+1,Shai Gilgeous-Alexander,SUBSTITUTION,Green JaMychal,12:00,3,Clippers,Nuggets,56 - 64,0,N/A,N/A,N/A
+2,Ivica Zubac,SUBSTITUTION,Williams Lou,12:00,3,Clippers,Nuggets,56 - 64,0,N/A,N/A,N/A
+3,Landry Shamet,TURNOVER,Nikola Jokic,11:45,3,Clippers,Nuggets,56 - 64,0,N/A,N/A,N/A
+4,Jamal Murray,FG_MISS,None,11:32,3,Nuggets,Clippers,56 - 64,1,22,3,Jumper
+5,Paul Millsap,OFFENSIVE_REBOUND,None,11:28,3,Nuggets,Clippers,56 - 64,1,N/A,N/A,N/A
+6,Paul Millsap,FG_MISS,None,11:19,3,Nuggets,Clippers,56 - 64,1,25,3,Jumper
+7,Team,OFFENSIVE_REBOUND,None,11:15,3,Nuggets,Clippers,56 - 64,1,N/A,N/A,N/A
+8,Nikola Jokic,FOUL_ON_FLOOR,None,11:12,3,Nuggets,Clippers,56 - 64,1,N/A,N/A,N/A
+9,Nikola Jokic,TURNOVER,None,11:12,3,Nuggets,Clippers,56 - 64,1,N/A,N/A,N/A
+10,Shai Gilgeous-Alexander,FG_MISS,None,10:54,3,Clippers,Nuggets,56 - 64,0,23,3,Jumper
+11,Nikola Jokic,DEFENSIVE_REBOUND,None,10:52,3,Nuggets,Clippers,56 - 64,1,N/A,N/A,N/A
+12,Nikola Jokic,TURNOVER,Shai Gilgeous-Alexander,10:49,3,Nuggets,Clippers,56 - 64,1,N/A,N/A,N/A
+13,Ivica Zubac,FG_MISS,Paul Millsap,10:42,3,Nuggets,Clippers,56 - 64,0,2,3,Jumper
+14,Nikola Jokic,DEFENSIVE_REBOUND,None,10:40,3,Nuggets,Clippers,56 - 64,1,N/A,N/A,N/A
+15,Paul Millsap,FG_ASSISTED,Jamal Murray,10:34,3,Nuggets,Clippers,56 - 67,1,25,3,Jumper
+16,Landry Shamet,FG_MISS,None,10:19,3,Clippers,Nuggets,56 - 67,0,21,3,Jumper
+17,Nikola Jokic,DEFENSIVE_REBOUND,None,10:17,3,Nuggets,Clippers,56 - 67,1,N/A,N/A,N/A
+18,Nikola Jokic,FG_MISS,None,10:05,3,Nuggets,Clippers,56 - 67,1, ,3,Jumper
+19,Danilo Gallinari,DEFENSIVE_REBOUND,None,10:04,3,Clippers,Nuggets,56 - 67,0,N/A,N/A,N/A
+20,Nikola Jokic,FOUL_ON_FLOOR,None,10:00,3,Nuggets,Clippers,56 - 67,1,N/A,N/A,N/A
+21,Mason Plumlee,SUBSTITUTION,Jokic Nikola,10:00,3,Nuggets,Clippers,56 - 67,1,N/A,N/A,N/A
+22,Danilo Gallinari,FG_MISS,None,9:50,3,Clippers,Nuggets,56 - 67,0,11,3,Jumper
+23,Ivica Zubac,OFFENSIVE_REBOUND,None,9:48,3,Clippers,Nuggets,56 - 67,0,N/A,N/A,N/A
+24,Ivica Zubac,FG_MISS,None,9:48,3,Clippers,Nuggets,56 - 67,0,3,3,Jumper
+25,Paul Millsap,DEFENSIVE_REBOUND,None,9:46,3,Nuggets,Clippers,56 - 67,1,N/A,N/A,N/A
+26,Will Barton,FG_MISS,None,9:40,3,Nuggets,Clippers,56 - 67,1,25,3,Jumper
+27,Malik Beasley,OFFENSIVE_REBOUND,None,9:37,3,Nuggets,Clippers,56 - 67,1,N/A,N/A,N/A
+28,Paul Millsap,FG_UNASSISTED,None,9:34,3,Nuggets,Clippers,56 - 69,1,5,3,Jumper
+29,Danilo Gallinari,FG_MISS,None,9:20,3,Clippers,Nuggets,56 - 69,0, ,3,Jumper
+30,Paul Millsap,DEFENSIVE_REBOUND,None,9:17,3,Nuggets,Clippers,56 - 69,1,N/A,N/A,N/A
+31,Mason Plumlee,FG_ASSISTED,Malik Beasley,9:10,3,Nuggets,Clippers,56 - 72,1,25,3,Jumper
+32,Team,Unknown,None,9:08,3,Clippers,Nuggets,56 - 72,0,N/A,N/A,N/A
+33,Danilo Gallinari,FG_MISS,None,8:56,3,Clippers,Nuggets,56 - 72,0,26,3,Jumper
+34,Will Barton,DEFENSIVE_REBOUND,None,8:53,3,Nuggets,Clippers,56 - 72,1,N/A,N/A,N/A
+35,Will Barton,TURNOVER,None,8:42,3,Nuggets,Clippers,56 - 72,1,N/A,N/A,N/A
+36,Ivica Zubac,TURNOVER,Paul Millsap,8:27,3,Clippers,Nuggets,56 - 72,0,N/A,N/A,N/A
+37,Patrick Beverley,FOUL_ON_FLOOR,None,8:27,3,Clippers,Nuggets,56 - 72,0,N/A,N/A,N/A
+38,Jamal Murray,FG_ASSISTED,Mason Plumlee,8:14,3,Nuggets,Clippers,56 - 74,1,0,2,Layup
+39,Danilo Gallinari,FG_ASSISTED,Landry Shamet,8:03,3,Clippers,Nuggets,58 - 74,0,13,3,Jumper
+40,Lou Williams,SUBSTITUTION,Gilgeous-Alexander Shai,7:38,3,Clippers,Nuggets,58 - 74,0,N/A,N/A,N/A
+41,Montrezl Harrell,SUBSTITUTION,Zubac Ivica,7:38,3,Clippers,Nuggets,58 - 74,0,N/A,N/A,N/A
+42,shot clock,TURNOVER,None,7:34,3,Nuggets,Clippers,58 - 74,1,N/A,N/A,N/A
+43,Montrezl Harrell,TURNOVER,None,7:27,3,Clippers,Nuggets,58 - 74,0,N/A,N/A,N/A
+44,Jamal Murray,FG_MISS,None,7:11,3,Nuggets,Clippers,58 - 74,1, ,3,Jumper
+45,Mason Plumlee,OFFENSIVE_REBOUND,None,7:10,3,Nuggets,Clippers,58 - 74,1,N/A,N/A,N/A
+46,Mason Plumlee,FG_MISS,None,7:10,3,Nuggets,Clippers,58 - 74,1, ,3,Jumper
+47,Team,DEFENSIVE_REBOUND,None,7:10,3,Clippers,Nuggets,58 - 74,0,N/A,N/A,N/A
+48,Danilo Gallinari,TURNOVER,Jamal Murray,7:00,3,Clippers,Nuggets,58 - 74,0,N/A,N/A,N/A
+49,Will Barton,FG_MISS,None,6:55,3,Nuggets,Clippers,58 - 74,1,24,3,Jumper
+50,Paul Millsap,OFFENSIVE_REBOUND,None,6:52,3,Nuggets,Clippers,58 - 74,1,N/A,N/A,N/A
+51,Jamal Murray,FG_MISS,None,6:49,3,Nuggets,Clippers,58 - 74,1,22,3,Jumper
+52,Paul Millsap,OFFENSIVE_REBOUND,None,6:46,3,Nuggets,Clippers,58 - 74,1,N/A,N/A,N/A
+53,Malik Beasley,FG_ASSISTED,Jamal Murray,6:42,3,Nuggets,Clippers,58 - 77,1,22,3,Jumper
+54,Lou Williams,FG_UNASSISTED,None,6:33,3,Clippers,Nuggets,60 - 77,0,10,3,Jumper
+55,Mason Plumlee,FOUL_ON_FLOOR,None,6:33,3,Nuggets,Clippers,60 - 77,1,N/A,N/A,N/A
+56,Lou Williams,FT,None,6:33,3,Clippers,Nuggets,61 - 77,0,N/A,1,N/A
+57,Paul Millsap,FG_UNASSISTED,None,6:20,3,Nuggets,Clippers,61 - 79,1,7,3,Jumper
+58,Danilo Gallinari,FOUL_ON_FLOOR,None,6:20,3,Clippers,Nuggets,61 - 79,0,N/A,N/A,N/A
+59,Paul Millsap,FT,None,6:20,3,Nuggets,Clippers,61 - 80,1,N/A,1,N/A
+60,Lou Williams,FG_UNASSISTED,None,6:11,3,Clippers,Nuggets,64 - 80,0,25,3,Jumper
+61,Jamal Murray,FG_MISS,Montrezl Harrell,5:52,3,Clippers,Nuggets,64 - 80,1,2,3,Jumper
+62,Mason Plumlee,OFFENSIVE_REBOUND,None,5:49,3,Nuggets,Clippers,64 - 80,1,N/A,N/A,N/A
+63,Paul Millsap,FG_MISS,None,5:47,3,Nuggets,Clippers,64 - 80,1,25,3,Jumper
+64,Danilo Gallinari,DEFENSIVE_REBOUND,None,5:44,3,Clippers,Nuggets,64 - 80,0,N/A,N/A,N/A
+65,Montrezl Harrell,FG_MISS,None,5:36,3,Clippers,Nuggets,64 - 80,0,0,2,Layup
+66,Paul Millsap,DEFENSIVE_REBOUND,None,5:34,3,Nuggets,Clippers,64 - 80,1,N/A,N/A,N/A
+67,Paul Millsap,TURNOVER,Montrezl Harrell,5:31,3,Nuggets,Clippers,64 - 80,1,N/A,N/A,N/A
+68,Danilo Gallinari,FG_ASSISTED,Montrezl Harrell,5:19,3,Clippers,Nuggets,66 - 80,0,0,2,Layup
+69,Team,Unknown,None,5:19,3,Nuggets,Clippers,66 - 80,1,N/A,N/A,N/A
+70,Gary Harris,SUBSTITUTION,Barton Will,5:19,3,Nuggets,Clippers,66 - 80,1,N/A,N/A,N/A
+71,enters the,SUBSTITUTION,Plumlee Mason,5:19,3,Nuggets,Clippers,66 - 80,1,N/A,N/A,N/A
+72,Garrett Temple,SUBSTITUTION,Shamet Landry,5:19,3,Clippers,Nuggets,66 - 80,0,N/A,N/A,N/A
+73,Jamal Murray,TURNOVER,Danilo Gallinari,5:00,3,Nuggets,Clippers,66 - 80,1,N/A,N/A,N/A
+74,Lou Williams,FG_UNASSISTED,None,4:48,3,Clippers,Nuggets,68 - 80,0,0,2,Layup
+75,Gary Harris,FG_ASSISTED,Paul Millsap,4:37,3,Nuggets,Clippers,68 - 82,1,19,3,Jumper
+76,Gary Harris,FOUL_ON_FLOOR,None,4:22,3,Nuggets,Clippers,68 - 82,1,N/A,N/A,N/A
+77,Danilo Gallinari,FT,None,4:22,3,Clippers,Nuggets,69 - 82,0,N/A,1,N/A
+78,Monte Morris,SUBSTITUTION,Murray Jamal,4:22,3,Nuggets,Clippers,69 - 82,1,N/A,N/A,N/A
+79,Danilo Gallinari,FT,None,4:22,3,Clippers,Nuggets,70 - 82,0,N/A,1,N/A
+80,Gary Harris,TURNOVER,None,4:10,3,Nuggets,Clippers,70 - 82,1,N/A,N/A,N/A
+81,Garrett Temple,FG_MISS,None,4:00,3,Clippers,Nuggets,70 - 82,0,22,3,Jumper
+82,Paul Millsap,DEFENSIVE_REBOUND,None,3:56,3,Nuggets,Clippers,70 - 82,1,N/A,N/A,N/A
+83,Paul Millsap,FG_MISS,Montrezl Harrell,3:45,3,Clippers,Nuggets,70 - 82,1,0,2,Dunk
+84,Paul Millsap,OFFENSIVE_REBOUND,None,3:41,3,Nuggets,Clippers,70 - 82,1,N/A,N/A,N/A
+85,Gary Harris,FG_ASSISTED,Paul Millsap,3:40,3,Nuggets,Clippers,70 - 85,1,25,3,Jumper
+86,Lou Williams,FG_MISS,None,3:16,3,Clippers,Nuggets,70 - 85,0,13,3,Jumper
+87,Team,OFFENSIVE_REBOUND,None,3:15,3,Clippers,Nuggets,70 - 85,0,N/A,N/A,N/A
+88,Monte Morris,FOUL_ON_FLOOR,None,3:15,3,Nuggets,Clippers,70 - 85,1,N/A,N/A,N/A
+89,Mason Plumlee,SUBSTITUTION,Millsap Paul,3:15,3,Nuggets,Clippers,70 - 85,1,N/A,N/A,N/A
+90,JaMychal Green,SUBSTITUTION,Gallinari Danilo,3:15,3,Clippers,Nuggets,70 - 85,0,N/A,N/A,N/A
+91,Lou Williams,FG_MISS,None,3:06,3,Clippers,Nuggets,70 - 85,0, ,3,Jumper
+92,Mason Plumlee,DEFENSIVE_REBOUND,None,3:04,3,Nuggets,Clippers,70 - 85,1,N/A,N/A,N/A
+93,Gary Harris,FG_MISS,None,3:02,3,Nuggets,Clippers,70 - 85,1,24,3,Jumper
+94,Malik Beasley,OFFENSIVE_REBOUND,None,2:58,3,Nuggets,Clippers,70 - 85,1,N/A,N/A,N/A
+95,Montrezl Harrell,FOUL_ON_FLOOR,None,2:54,3,Clippers,Nuggets,70 - 85,0,N/A,N/A,N/A
+96,Juan Hernangomez,FT_MISS,None,2:54,3,Nuggets,Clippers,70 - 85,1,N/A,1,N/A
+97,Team,OFFENSIVE_REBOUND,None,2:54,3,Nuggets,Clippers,70 - 85,1,N/A,N/A,N/A
+98,Juan Hernangomez,FT_MISS,None,2:54,3,Nuggets,Clippers,70 - 85,1,N/A,1,N/A
+99,Team,OFFENSIVE_REBOUND,None,2:54,3,Nuggets,Clippers,70 - 85,1,N/A,N/A,N/A
+100,Isaiah Thomas,SUBSTITUTION,Beasley Malik,2:54,3,Nuggets,Clippers,70 - 85,1,N/A,N/A,N/A
+101,Juan Hernangomez,FT,None,2:54,3,Nuggets,Clippers,70 - 86,1,N/A,1,N/A
+102,Lou Williams,TURNOVER,Gary Harris,2:47,3,Clippers,Nuggets,70 - 86,0,N/A,N/A,N/A
+103,Monte Morris,FG_ASSISTED,Gary Harris,2:44,3,Nuggets,Clippers,70 - 88,1, ,3,Jumper
+104,Montrezl Harrell,FOUL_ON_FLOOR,None,2:26,3,Clippers,Nuggets,70 - 88,0,N/A,N/A,N/A
+105,Montrezl Harrell,TURNOVER,None,2:26,3,Clippers,Nuggets,70 - 88,0,N/A,N/A,N/A
+106,Shai Gilgeous-Alexander,SUBSTITUTION,Beverley Patrick,2:26,3,Clippers,Nuggets,70 - 88,0,N/A,N/A,N/A
+107,Ivica Zubac,SUBSTITUTION,Harrell Montrezl,2:26,3,Clippers,Nuggets,70 - 88,0,N/A,N/A,N/A
+108,Garrett Temple,FOUL_ON_FLOOR,None,2:18,3,Clippers,Nuggets,70 - 88,0,N/A,N/A,N/A
+109,Ivica Zubac,FOUL_ON_FLOOR,None,2:13,3,Clippers,Nuggets,70 - 88,0,N/A,N/A,N/A
+110,Mason Plumlee,FT,None,2:13,3,Nuggets,Clippers,70 - 89,1,N/A,1,N/A
+111,Mason Plumlee,FT,None,2:13,3,Nuggets,Clippers,70 - 90,1,N/A,1,N/A
+112,Shai Gilgeous-Alexander,FG_MISS,Mason Plumlee,1:55,3,Nuggets,Clippers,70 - 90,0,0,2,Dunk
+113,Monte Morris,DEFENSIVE_REBOUND,None,1:51,3,Nuggets,Clippers,70 - 90,1,N/A,N/A,N/A
+114,Monte Morris,FG_UNASSISTED,None,1:49,3,Nuggets,Clippers,70 - 92,1, ,3,Jumper
+115,Lou Williams,FG_MISS,None,1:36,3,Clippers,Nuggets,70 - 92,0,26,3,Jumper
+116,Ivica Zubac,OFFENSIVE_REBOUND,None,1:35,3,Clippers,Nuggets,70 - 92,0,N/A,N/A,N/A
+117,Ivica Zubac,FG_UNASSISTED,None,1:32,3,Clippers,Nuggets,72 - 92,0,3,3,Jumper
+118,Isaiah Thomas,FG_ASSISTED,Mason Plumlee,1:16,3,Nuggets,Clippers,72 - 94,1,4,3,Jumper
+119,Gary Harris,FOUL_TECHNICAL,None,1:06,3,Nuggets,Clippers,72 - 94,1,N/A,N/A,N/A
+120,Lou Williams,FT,None,1:06,3,Clippers,Nuggets,73 - 94,0,N/A,1,N/A
+121,JaMychal Green,FG_ASSISTED,Ivica Zubac,57.9,3,Clippers,Nuggets,75 - 94,0,8,3,Jumper
+122,Monte Morris,TURNOVER,Lou Williams,40.7,3,Nuggets,Clippers,75 - 94,1,N/A,N/A,N/A
+123,Juan Hernangomez,FOUL_ON_FLOOR,None,36.8,3,Nuggets,Clippers,75 - 94,1,N/A,N/A,N/A
+124,JaMychal Green,FT,None,36.8,3,Clippers,Nuggets,76 - 94,0,N/A,1,N/A
+125,JaMychal Green,FT,None,36.8,3,Clippers,Nuggets,77 - 94,0,N/A,1,N/A
+126,Monte Morris,FG_ASSISTED,Isaiah Thomas,28.8,3,Nuggets,Clippers,77 - 97,1,27,3,Jumper
+127,Lou Williams,FG_MISS,None,7.9,3,Clippers,Nuggets,77 - 97,0,16,3,Jumper
+128,Juan Hernangomez,DEFENSIVE_REBOUND,None,5.3,3,Nuggets,Clippers,77 - 97,1,N/A,N/A,N/A
+129,Mason Plumlee,TURNOVER,None,1.6,3,Nuggets,Clippers,77 - 97,1,N/A,N/A,N/A
+130,End of,Unknown,None,0.0,3,Nuggets,Clippers,77 - 97,1,N/A,N/A,N/A
+0,Nikola Jokic,SUBSTITUTION,Plumlee Mason,12:00,4,Nuggets,Clippers,77 - 97,1,N/A,N/A,N/A
+1,Monte Morris,FG_ASSISTED,Juan Hernangomez,11:49,4,Nuggets,Clippers,77 - 99,1,0,2,Layup
+2,Lou Williams,Unknown,None,11:49,4,Clippers,Nuggets,77 - 99,0,N/A,N/A,N/A
+3,JaMychal Green,FG_MISS,None,11:38,4,Clippers,Nuggets,77 - 99,0,26,3,Jumper
+4,Gary Harris,DEFENSIVE_REBOUND,None,11:34,4,Nuggets,Clippers,77 - 99,1,N/A,N/A,N/A
+5,Juan Hernangomez,TURNOVER,None,11:28,4,Nuggets,Clippers,77 - 99,1,N/A,N/A,N/A
+6,JaMychal Green,TURNOVER,None,11:18,4,Clippers,Nuggets,77 - 99,0,N/A,N/A,N/A
+7,Isaiah Thomas,FG_MISS,None,11:08,4,Nuggets,Clippers,77 - 99,1,24,3,Jumper
+8,JaMychal Green,DEFENSIVE_REBOUND,None,11:05,4,Clippers,Nuggets,77 - 99,0,N/A,N/A,N/A
+9,Garrett Temple,FG_MISS,None,11:01,4,Clippers,Nuggets,77 - 99,0,4,3,Jumper
+10,Ivica Zubac,OFFENSIVE_REBOUND,None,10:59,4,Clippers,Nuggets,77 - 99,0,N/A,N/A,N/A
+11,JaMychal Green,FG_ASSISTED,Ivica Zubac,10:58,4,Clippers,Nuggets,79 - 99,0,14,3,Jumper
+12,Nikola Jokic,FG_MISS,None,10:47,4,Nuggets,Clippers,79 - 99,1,25,3,Jumper
+13,JaMychal Green,DEFENSIVE_REBOUND,None,10:42,4,Clippers,Nuggets,79 - 99,0,N/A,N/A,N/A
+14,Lou Williams,FG_MISS,None,10:36,4,Clippers,Nuggets,79 - 99,0,17,3,Jumper
+15,Gary Harris,DEFENSIVE_REBOUND,None,10:33,4,Nuggets,Clippers,79 - 99,1,N/A,N/A,N/A
+16,Gary Harris,FG_MISS,None,10:27,4,Nuggets,Clippers,79 - 99,1,23,3,Jumper
+17,Ivica Zubac,DEFENSIVE_REBOUND,None,10:24,4,Clippers,Nuggets,79 - 99,0,N/A,N/A,N/A
+18,Shai Gilgeous-Alexander,FG_MISS,None,10:10,4,Clippers,Nuggets,79 - 99,0,8,3,Jumper
+19,Nikola Jokic,DEFENSIVE_REBOUND,None,10:08,4,Nuggets,Clippers,79 - 99,1,N/A,N/A,N/A
+20,Monte Morris,FG_MISS,None,9:55,4,Nuggets,Clippers,79 - 99,1,22,3,Jumper
+21,Lou Williams,DEFENSIVE_REBOUND,None,9:51,4,Clippers,Nuggets,79 - 99,0,N/A,N/A,N/A
+22,Isaiah Thomas,FOUL_ON_FLOOR,None,9:46,4,Nuggets,Clippers,79 - 99,1,N/A,N/A,N/A
+23,Lou Williams,FT,None,9:46,4,Clippers,Nuggets,80 - 99,0,N/A,1,N/A
+24,Lou Williams,FT,None,9:46,4,Clippers,Nuggets,81 - 99,0,N/A,1,N/A
+25,Ivica Zubac,FOUL_ON_FLOOR,None,9:37,4,Clippers,Nuggets,81 - 99,0,N/A,N/A,N/A
+26,Gary Harris,FT,None,9:37,4,Nuggets,Clippers,81 - 100,1,N/A,1,N/A
+27,Paul Millsap,SUBSTITUTION,Hernangomez Juan,9:37,4,Nuggets,Clippers,81 - 100,1,N/A,N/A,N/A
+28,Landry Shamet,SUBSTITUTION,Williams Lou,9:37,4,Clippers,Nuggets,81 - 100,0,N/A,N/A,N/A
+29,Gary Harris,FT,None,9:37,4,Nuggets,Clippers,81 - 101,1,N/A,1,N/A
+30,Team,Unknown,None,9:37,4,Clippers,Nuggets,81 - 101,0,N/A,N/A,N/A
+31,Ivica Zubac,FG_MISS,None,9:20,4,Clippers,Nuggets,81 - 101,0,0,2,Layup
+32,Paul Millsap,DEFENSIVE_REBOUND,None,9:19,4,Nuggets,Clippers,81 - 101,1,N/A,N/A,N/A
+33,Nikola Jokic,FG_ASSISTED,Isaiah Thomas,9:01,4,Nuggets,Clippers,81 - 103,1,1,3,Jumper
+34,JaMychal Green,FG_UNASSISTED,None,8:42,4,Clippers,Nuggets,84 - 103,0,26,3,Jumper
+35,Nikola Jokic,TURNOVER,None,8:26,4,Nuggets,Clippers,84 - 103,1,N/A,N/A,N/A
+36,Johnathan Motley,SUBSTITUTION,Zubac Ivica,8:26,4,Clippers,Nuggets,84 - 103,0,N/A,N/A,N/A
+37,Landry Shamet,FG_ASSISTED,Shai Gilgeous-Alexander,8:12,4,Clippers,Nuggets,87 - 103,0,26,3,Jumper
+38,Isaiah Thomas,FG_MISS,None,7:44,4,Nuggets,Clippers,87 - 103,1,5,3,Jumper
+39,Shai Gilgeous-Alexander,DEFENSIVE_REBOUND,None,7:42,4,Clippers,Nuggets,87 - 103,0,N/A,N/A,N/A
+40,Johnathan Motley,FG_MISS,None,7:28,4,Clippers,Nuggets,87 - 103,0,7,3,Jumper
+41,Nikola Jokic,DEFENSIVE_REBOUND,None,7:27,4,Nuggets,Clippers,87 - 103,1,N/A,N/A,N/A
+42,Isaiah Thomas,TURNOVER,Landry Shamet,7:23,4,Nuggets,Clippers,87 - 103,1,N/A,N/A,N/A
+43,Nikola Jokic,FOUL_ON_FLOOR,None,7:15,4,Nuggets,Clippers,87 - 103,1,N/A,N/A,N/A
+44,Team,Unknown,None,7:15,4,Nuggets,Clippers,87 - 103,1,N/A,N/A,N/A
+45,Johnathan Motley,FT_MISS,None,7:15,4,Clippers,Nuggets,87 - 103,0,N/A,1,N/A
+46,Team,OFFENSIVE_REBOUND,None,7:15,4,Clippers,Nuggets,87 - 103,0,N/A,N/A,N/A
+47,Johnathan Motley,FT,None,7:15,4,Clippers,Nuggets,88 - 103,0,N/A,1,N/A
+48,Gary Harris,FG_MISS,None,7:03,4,Nuggets,Clippers,88 - 103,1,22,3,Jumper
+49,Johnathan Motley,DEFENSIVE_REBOUND,None,7:01,4,Clippers,Nuggets,88 - 103,0,N/A,N/A,N/A
+50,Shai Gilgeous-Alexander,FG_MISS,Paul Millsap,6:54,4,Nuggets,Clippers,88 - 103,0,2,3,Jumper
+51,Paul Millsap,DEFENSIVE_REBOUND,None,6:52,4,Nuggets,Clippers,88 - 103,1,N/A,N/A,N/A
+52,Monte Morris,FG_MISS,None,6:39,4,Nuggets,Clippers,88 - 103,1,1,3,Jumper
+53,Nikola Jokic,OFFENSIVE_REBOUND,None,6:37,4,Nuggets,Clippers,88 - 103,1,N/A,N/A,N/A
+54,Nikola Jokic's,FG_MISS,Shai Gilgeous-Alexander,6:36,4,Clippers,Nuggets,88 - 103,1,1,3,Jumper
+55,Nikola Jokic,OFFENSIVE_REBOUND,None,6:36,4,Nuggets,Clippers,88 - 103,1,N/A,N/A,N/A
+56,Nikola Jokic,FG_UNASSISTED,None,6:31,4,Nuggets,Clippers,88 - 105,1,1,3,Jumper
+57,Shai Gilgeous-Alexander,FG_MISS,None,6:14,4,Clippers,Nuggets,88 - 105,0,19,3,Jumper
+58,Paul Millsap,DEFENSIVE_REBOUND,None,6:11,4,Nuggets,Clippers,88 - 105,1,N/A,N/A,N/A
+59,Paul Millsap,FG_ASSISTED,Monte Morris,6:00,4,Nuggets,Clippers,88 - 108,1,25,3,Jumper
+60,Shai Gilgeous-Alexander,TURNOVER,Monte Morris,5:40,4,Clippers,Nuggets,88 - 108,0,N/A,N/A,N/A
+61,Isaiah Thomas,FG_ASSISTED,Monte Morris,5:35,4,Nuggets,Clippers,88 - 110,1,1,3,Jumper
+62,Johnathan Motley,FG_ASSISTED,Shai Gilgeous-Alexander,5:23,4,Clippers,Nuggets,90 - 110,0,0,2,Layup
+63,Paul Millsap,FG_MISS,None,5:09,4,Nuggets,Clippers,90 - 110,1,24,3,Jumper
+64,JaMychal Green,DEFENSIVE_REBOUND,None,5:06,4,Clippers,Nuggets,90 - 110,0,N/A,N/A,N/A
+65,JaMychal Green,TURNOVER,Nikola Jokic,5:02,4,Clippers,Nuggets,90 - 110,0,N/A,N/A,N/A
+66,Garrett Temple,FOUL_ON_FLOOR,None,4:52,4,Clippers,Nuggets,90 - 110,0,N/A,N/A,N/A
+67,Isaiah Thomas,FT,None,4:52,4,Nuggets,Clippers,90 - 111,1,N/A,1,N/A
+68,Will Barton,SUBSTITUTION,Morris Monte,4:52,4,Nuggets,Clippers,90 - 110,1,N/A,N/A,N/A
+69,Jamal Murray,SUBSTITUTION,Harris Gary,4:52,4,Nuggets,Clippers,90 - 110,1,N/A,N/A,N/A
+70,Jerome Robinson,SUBSTITUTION,Gilgeous-Alexander Shai,4:52,4,Clippers,Nuggets,90 - 110,0,N/A,N/A,N/A
+71,Tyrone Wallace,SUBSTITUTION,Green JaMychal,4:52,4,Clippers,Nuggets,90 - 110,0,N/A,N/A,N/A
+72,Sindarius Thornwell,SUBSTITUTION,Temple Garrett,4:52,4,Clippers,Nuggets,90 - 110,0,N/A,N/A,N/A
+73,Isaiah Thomas,FT,None,4:52,4,Nuggets,Clippers,90 - 112,1,N/A,1,N/A
+74,Jerome Robinson,TURNOVER,Paul Millsap,4:39,4,Clippers,Nuggets,90 - 112,0,N/A,N/A,N/A
+75,Paul Millsap,FG_UNASSISTED,None,4:36,4,Nuggets,Clippers,90 - 114,1,0,2,Dunk
+76,Jamal Murray,FOUL_ON_FLOOR,None,4:32,4,Nuggets,Clippers,90 - 114,1,N/A,N/A,N/A
+77,Malik Beasley,SUBSTITUTION,Millsap Paul,4:32,4,Nuggets,Clippers,90 - 114,1,N/A,N/A,N/A
+78,Jerome Robinson,FG_MISS,Nikola Jokic,4:26,4,Nuggets,Clippers,90 - 114,0,0,2,Layup
+79,Team,OFFENSIVE_REBOUND,None,4:26,4,Clippers,Nuggets,90 - 114,0,N/A,N/A,N/A
+80,Will Barton,FOUL_ON_FLOOR,None,4:26,4,Nuggets,Clippers,90 - 114,1,N/A,N/A,N/A
+81,Landry Shamet,FT,None,4:26,4,Clippers,Nuggets,91 - 114,0,N/A,1,N/A
+82,Jerome Robinson,FG_MISS,None,4:24,4,Clippers,Nuggets,91 - 114,0,1,3,Jumper
+83,Team,OFFENSIVE_REBOUND,None,4:22,4,Clippers,Nuggets,91 - 114,0,N/A,N/A,N/A
+84,Sindarius Thornwell,FG_MISS,None,4:11,4,Clippers,Nuggets,91 - 114,0,3,3,Jumper
+85,Nikola Jokic,DEFENSIVE_REBOUND,None,4:10,4,Nuggets,Clippers,91 - 114,1,N/A,N/A,N/A
+86,Johnathan Motley,FOUL_ON_FLOOR,None,4:10,4,Clippers,Nuggets,91 - 114,0,N/A,N/A,N/A
+87,Mason Plumlee,SUBSTITUTION,Jokic Nikola,4:10,4,Nuggets,Clippers,91 - 114,1,N/A,N/A,N/A
+88,Johnathan Motley,FOUL_ON_FLOOR,None,3:58,4,Clippers,Nuggets,91 - 114,0,N/A,N/A,N/A
+89,Jamal Murray,FG_ASSISTED,Mason Plumlee,3:52,4,Nuggets,Clippers,91 - 116,1,0,2,Layup
+90,Tyrone Wallace,FG_MISS,None,3:35,4,Clippers,Nuggets,91 - 116,0,8,3,Jumper
+91,Jamal Murray,DEFENSIVE_REBOUND,None,3:32,4,Nuggets,Clippers,91 - 116,1,N/A,N/A,N/A
+92,Isaiah Thomas,FG_MISS,None,3:25,4,Nuggets,Clippers,91 - 116,1,25,3,Jumper
+93,Jerome Robinson,DEFENSIVE_REBOUND,None,3:23,4,Clippers,Nuggets,91 - 116,0,N/A,N/A,N/A
+94,Malik Beasley,FOUL_ON_FLOOR,None,3:18,4,Nuggets,Clippers,91 - 116,1,N/A,N/A,N/A
+95,Johnathan Motley,FT,None,3:18,4,Clippers,Nuggets,92 - 116,0,N/A,1,N/A
+96,Monte Morris,SUBSTITUTION,Barton Will,3:18,4,Nuggets,Clippers,92 - 116,1,N/A,N/A,N/A
+97,Torrey Craig,SUBSTITUTION,Murray Jamal,3:18,4,Nuggets,Clippers,92 - 116,1,N/A,N/A,N/A
+98,Shai Gilgeous-Alexander,SUBSTITUTION,Shamet Landry,3:18,4,Clippers,Nuggets,92 - 116,0,N/A,N/A,N/A
+99,Johnathan Motley,FT,None,3:18,4,Clippers,Nuggets,93 - 116,0,N/A,1,N/A
+100,Torrey Craig,FG_ASSISTED,Mason Plumlee,3:07,4,Nuggets,Clippers,93 - 118,1,0,2,Layup
+101,Shai Gilgeous-Alexander,FG_MISS,None,2:52,4,Clippers,Nuggets,93 - 118,0,13,3,Jumper
+102,Mason Plumlee,DEFENSIVE_REBOUND,None,2:49,4,Nuggets,Clippers,93 - 118,1,N/A,N/A,N/A
+103,Isaiah Thomas,TURNOVER,None,2:43,4,Nuggets,Clippers,93 - 118,1,N/A,N/A,N/A
+104,Jarred Vanderbilt,SUBSTITUTION,Plumlee Mason,2:43,4,Nuggets,Clippers,93 - 118,1,N/A,N/A,N/A
+105,Juan Hernangomez,SUBSTITUTION,Beasley Malik,2:43,4,Nuggets,Clippers,93 - 118,1,N/A,N/A,N/A
+106,Jerome Robinson,FG_MISS,Monte Morris,2:33,4,Nuggets,Clippers,93 - 118,0,7,3,Jumper
+107,Juan Hernangomez,DEFENSIVE_REBOUND,None,2:31,4,Nuggets,Clippers,93 - 118,1,N/A,N/A,N/A
+108,Jarred Vanderbilt,FG_ASSISTED,Monte Morris,2:17,4,Nuggets,Clippers,93 - 120,1,0,2,Dunk
+109,Jerome Robinson,FG_ASSISTED,Johnathan Motley,2:05,4,Clippers,Nuggets,95 - 120,0,1,3,Jumper
+110,Isaiah Thomas,FG_MISS,None,1:54,4,Nuggets,Clippers,95 - 120,1,26,3,Jumper
+111,Jerome Robinson,DEFENSIVE_REBOUND,None,1:51,4,Clippers,Nuggets,95 - 120,0,N/A,N/A,N/A
+112,Sindarius Thornwell,FG_MISS,None,1:45,4,Clippers,Nuggets,95 - 120,0,1,3,Jumper
+113,Torrey Craig,DEFENSIVE_REBOUND,None,1:42,4,Nuggets,Clippers,95 - 120,1,N/A,N/A,N/A
+114,Torrey Craig,FG_MISS,None,1:31,4,Nuggets,Clippers,95 - 120,1,1,3,Jumper
+115,Johnathan Motley,DEFENSIVE_REBOUND,None,1:27,4,Clippers,Nuggets,95 - 120,0,N/A,N/A,N/A
+116,Jerome Robinson,FG_MISS,None,1:20,4,Clippers,Nuggets,95 - 120,0,1,3,Jumper
+117,Team,DEFENSIVE_REBOUND,None,1:18,4,Nuggets,Clippers,95 - 120,1,N/A,N/A,N/A
+118,Tyler Lydon,SUBSTITUTION,Morris Monte,1:18,4,Nuggets,Clippers,95 - 120,1,N/A,N/A,N/A
+119,Torrey Craig,FG_ASSISTED,Isaiah Thomas,1:04,4,Nuggets,Clippers,95 - 122,1,0,2,Dunk
+120,Tyrone Wallace,FOUL_ON_FLOOR,None,1:04,4,Clippers,Nuggets,95 - 122,0,N/A,N/A,N/A
+121,Torrey Craig,FT,None,1:04,4,Nuggets,Clippers,95 - 123,1,N/A,1,N/A
+122,Jerome Robinson,FG_MISS,None,54.9,4,Clippers,Nuggets,95 - 123,0,26,3,Jumper
+123,Tyler Lydon,DEFENSIVE_REBOUND,None,52.1,4,Nuggets,Clippers,95 - 123,1,N/A,N/A,N/A
+124,Johnathan Motley,FOUL_ON_FLOOR,None,44.5,4,Clippers,Nuggets,95 - 123,0,N/A,N/A,N/A
+125,Jarred Vanderbilt,FT_MISS,None,44.5,4,Nuggets,Clippers,95 - 123,1,N/A,1,N/A
+126,Team,OFFENSIVE_REBOUND,None,44.5,4,Nuggets,Clippers,95 - 123,1,N/A,N/A,N/A
+127,Jarred Vanderbilt,FT_MISS,None,44.5,4,Nuggets,Clippers,95 - 123,1,N/A,1,N/A
+128,Johnathan Motley,DEFENSIVE_REBOUND,None,44.5,4,Clippers,Nuggets,95 - 123,0,N/A,N/A,N/A
+129,Shai Gilgeous-Alexander's,FG_MISS,Isaiah Thomas,31.5,4,Nuggets,Clippers,95 - 123,0,0,2,Layup
+130,Juan Hernangomez,DEFENSIVE_REBOUND,None,30.5,4,Nuggets,Clippers,95 - 123,1,N/A,N/A,N/A
+131,Isaiah Thomas,TURNOVER,None,19.8,4,Nuggets,Clippers,95 - 123,1,N/A,N/A,N/A
+132,Torrey Craig,FOUL_ON_FLOOR,None,14.3,4,Nuggets,Clippers,95 - 123,1,N/A,N/A,N/A
+133,Shai Gilgeous-Alexander,FT_MISS,None,14.3,4,Clippers,Nuggets,95 - 123,0,N/A,1,N/A
+134,Team,OFFENSIVE_REBOUND,None,14.3,4,Clippers,Nuggets,95 - 123,0,N/A,N/A,N/A
+135,Shai Gilgeous-Alexander,FT,None,14.3,4,Clippers,Nuggets,96 - 123,0,N/A,1,N/A
+136,End of,Unknown,None,0.0,4,Nuggets,Clippers,96 - 123,1,N/A,N/A,N/A
+137,End of,Unknown,None,0.0,4,Nuggets,Clippers,96 - 123,1,N/A,N/A,N/A

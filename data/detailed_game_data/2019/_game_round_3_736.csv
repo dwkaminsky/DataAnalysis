@@ -1,0 +1,440 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Clint Capela,JUMP_BALL,None,12:00,1,Rockets,Raptors,0 - 0,0,N/A,N/A,N/A
+1,Eric Gordon,FG_MISS,None,11:35,1,Rockets,Raptors,0 - 0,0,23,3,Jumper
+2,Danny Green,DEFENSIVE_REBOUND,None,11:32,1,Raptors,Rockets,0 - 0,1,N/A,N/A,N/A
+3,Kyle Lowry,TURNOVER,None,11:31,1,Raptors,Rockets,0 - 0,1,N/A,N/A,N/A
+4,James Harden,FG_UNASSISTED,None,11:11,1,Rockets,Raptors,2 - 0,0,1,2,Jumper
+5,Kyle Lowry,FG_MISS,None,10:43,1,Raptors,Rockets,2 - 0,1,-,2,Jumper
+6,Eric Gordon,DEFENSIVE_REBOUND,None,10:40,1,Rockets,Raptors,2 - 0,0,N/A,N/A,N/A
+7,Clint Capela,FG_UNASSISTED,None,10:33,1,Rockets,Raptors,4 - 0,0,0,2,Layup
+8,Danny Green,FG_MISS,None,10:24,1,Raptors,Rockets,4 - 0,1,25,3,Jumper
+9,Chris Paul,DEFENSIVE_REBOUND,None,10:21,1,Rockets,Raptors,4 - 0,0,N/A,N/A,N/A
+10,Chris Paul,FG_MISS,None,10:14,1,Rockets,Raptors,4 - 0,0,-,2,Jumper
+11,Kawhi Leonard,DEFENSIVE_REBOUND,None,10:12,1,Raptors,Rockets,4 - 0,1,N/A,N/A,N/A
+12,Kawhi Leonard,FG_MISS,None,10:03,1,Raptors,Rockets,4 - 0,1,-,2,Jumper
+13,Serge Ibaka,OFFENSIVE_REBOUND,None,10:01,1,Raptors,Rockets,4 - 0,1,N/A,N/A,N/A
+14,Kawhi Leonard,FG_ASSISTED,Serge Ibaka,9:50,1,Raptors,Rockets,4 - 2,1,0,2,Layup
+15,Clint Capela,FG_ASSISTED,James Harden,9:30,1,Rockets,Raptors,6 - 2,0,0,2,Layup
+16,James Harden,FOUL_ON_FLOOR,None,9:12,1,Rockets,Raptors,6 - 2,0,N/A,N/A,N/A
+17,Pascal Siakam,FT_MISS,None,9:12,1,Raptors,Rockets,6 - 2,1,N/A,1,N/A
+18,Team,OFFENSIVE_REBOUND,None,9:12,1,Raptors,Rockets,6 - 2,1,N/A,N/A,N/A
+19,Pascal Siakam,FT_MISS,None,9:12,1,Raptors,Rockets,6 - 2,1,N/A,1,N/A
+20,Clint Capela,DEFENSIVE_REBOUND,None,9:10,1,Rockets,Raptors,6 - 2,0,N/A,N/A,N/A
+21,James Harden,FG_MISS,None,9:01,1,Rockets,Raptors,6 - 2,0,-,2,Jumper
+22,Clint Capela,OFFENSIVE_REBOUND,None,8:57,1,Rockets,Raptors,6 - 2,0,N/A,N/A,N/A
+23,Clint Capela,FOUL_ON_FLOOR,None,8:57,1,Rockets,Raptors,6 - 2,0,N/A,N/A,N/A
+24,Clint Capela,TURNOVER,None,8:57,1,Rockets,Raptors,6 - 2,0,N/A,N/A,N/A
+25,Pascal Siakam,FG_MISS,None,8:50,1,Raptors,Rockets,6 - 2,1,0,2,Layup
+26,James Harden,DEFENSIVE_REBOUND,None,8:48,1,Rockets,Raptors,6 - 2,0,N/A,N/A,N/A
+27,Eric Gordon,FG_MISS,None,8:45,1,Rockets,Raptors,6 - 2,0,26,3,Jumper
+28,Danny Green,DEFENSIVE_REBOUND,None,8:42,1,Raptors,Rockets,6 - 2,1,N/A,N/A,N/A
+29,Kawhi Leonard,FG_UNASSISTED,None,8:35,1,Raptors,Rockets,6 - 4,1,16,2,Jumper
+30,PJ Tucker,FG_MISS,None,8:10,1,Rockets,Raptors,6 - 4,0,22,3,Jumper
+31,Kawhi Leonard,DEFENSIVE_REBOUND,None,8:08,1,Raptors,Rockets,6 - 4,1,N/A,N/A,N/A
+32,Serge Ibaka,TURNOVER,James Harden,7:57,1,Raptors,Rockets,6 - 4,1,N/A,N/A,N/A
+33,PJ Tucker,FG_ASSISTED,James Harden,7:52,1,Rockets,Raptors,8 - 4,0,-,2,Jumper
+34,PJ Tucker,FOUL_ON_FLOOR,None,7:38,1,Rockets,Raptors,8 - 4,0,N/A,N/A,N/A
+35,Kawhi Leonard,FG_UNASSISTED,None,7:28,1,Raptors,Rockets,8 - 6,1,-,2,Jumper
+36,James Harden,FG_MISS,Serge Ibaka,7:11,1,Raptors,Rockets,8 - 6,0,3,2,Jumper
+37,Kyle Lowry,DEFENSIVE_REBOUND,None,7:09,1,Raptors,Rockets,8 - 6,1,N/A,N/A,N/A
+38,Danny Green,FG_ASSISTED,Kyle Lowry,7:07,1,Raptors,Rockets,8 - 9,1,25,3,Jumper
+39,Chris Paul,FG_MISS,None,6:49,1,Rockets,Raptors,8 - 9,0,15,2,Jumper
+40,Danny Green,DEFENSIVE_REBOUND,None,6:46,1,Raptors,Rockets,8 - 9,1,N/A,N/A,N/A
+41,Kawhi Leonard,FG_UNASSISTED,None,6:34,1,Raptors,Rockets,8 - 11,1,17,2,Jumper
+42,Eric Gordon,TURNOVER,None,6:21,1,Rockets,Raptors,8 - 11,0,N/A,N/A,N/A
+43,Team,Unknown,None,6:21,1,Raptors,Rockets,8 - 11,1,N/A,N/A,N/A
+44,Austin Rivers,SUBSTITUTION,Paul Chris,6:21,1,Rockets,Raptors,8 - 11,0,N/A,N/A,N/A
+45,Pascal Siakam,FG_MISS,None,6:02,1,Raptors,Rockets,8 - 11,1, ,3,Jumper
+46,Serge Ibaka,OFFENSIVE_REBOUND,None,5:59,1,Raptors,Rockets,8 - 11,1,N/A,N/A,N/A
+47,Serge Ibaka,FG_MISS,None,5:58,1,Raptors,Rockets,8 - 11,1, ,2,Jumper
+48,PJ Tucker,DEFENSIVE_REBOUND,None,5:56,1,Rockets,Raptors,8 - 11,0,N/A,N/A,N/A
+49,Eric Gordon,FG_UNASSISTED,None,5:47,1,Rockets,Raptors,10 - 11,0,2,2,Jumper
+50,Kawhi Leonard,FG_MISS,None,5:24,1,Raptors,Rockets,10 - 11,1,10,2,Jumper
+51,Clint Capela,DEFENSIVE_REBOUND,None,5:20,1,Rockets,Raptors,10 - 11,0,N/A,N/A,N/A
+52,Eric Gordon,FG_ASSISTED,PJ Tucker,5:12,1,Rockets,Raptors,13 - 11,0,25,3,Jumper
+53,Kyle Lowry,FG_UNASSISTED,None,4:59,1,Raptors,Rockets,13 - 13,1,0,2,Layup
+54,James Harden,FG_MISS,None,4:43,1,Rockets,Raptors,13 - 13,0, ,2,Jumper
+55,Clint Capela,OFFENSIVE_REBOUND,None,4:43,1,Rockets,Raptors,13 - 13,0,N/A,N/A,N/A
+56,James Harden,FG_UNASSISTED,None,4:33,1,Rockets,Raptors,15 - 13,0,3,2,Jumper
+57,Pascal Siakam,TURNOVER,Clint Capela,4:17,1,Raptors,Rockets,15 - 13,1,N/A,N/A,N/A
+58,Austin Rivers,FG_UNASSISTED,None,4:10,1,Rockets,Raptors,18 - 13,0,25,3,Jumper
+59,Kyle Lowry,FG_MISS,None,3:56,1,Raptors,Rockets,18 - 13,1,23,2,Jumper
+60,Austin Rivers,DEFENSIVE_REBOUND,None,3:53,1,Rockets,Raptors,18 - 13,0,N/A,N/A,N/A
+61,James Harden,FG_MISS,None,3:46,1,Rockets,Raptors,18 - 13,0,0,2,Layup
+62,Serge Ibaka,DEFENSIVE_REBOUND,None,3:44,1,Raptors,Rockets,18 - 13,1,N/A,N/A,N/A
+63,Danny Green,FG_MISS,None,3:41,1,Raptors,Rockets,18 - 13,1, ,2,Jumper
+64,PJ Tucker,DEFENSIVE_REBOUND,None,3:38,1,Rockets,Raptors,18 - 13,0,N/A,N/A,N/A
+65,Austin Rivers,FG_MISS,None,3:28,1,Rockets,Raptors,18 - 13,0,10,2,Jumper
+66,Serge Ibaka,DEFENSIVE_REBOUND,None,3:26,1,Raptors,Rockets,18 - 13,1,N/A,N/A,N/A
+67,Austin Rivers,FOUL_ON_FLOOR,None,3:22,1,Rockets,Raptors,18 - 13,0,N/A,N/A,N/A
+68,Marc Gasol,SUBSTITUTION,Ibaka Serge,3:22,1,Raptors,Rockets,18 - 13,1,N/A,N/A,N/A
+69,Gerald Green,SUBSTITUTION,Gordon Eric,3:22,1,Rockets,Raptors,18 - 13,0,N/A,N/A,N/A
+70,Nene Hilario,SUBSTITUTION,Capela Clint,3:22,1,Rockets,Raptors,18 - 13,0,N/A,N/A,N/A
+71,Danny Green,FG_MISS,None,3:08,1,Raptors,Rockets,18 - 13,1, ,3,Jumper
+72,Nene Hilario,DEFENSIVE_REBOUND,None,3:05,1,Rockets,Raptors,18 - 13,0,N/A,N/A,N/A
+73,James Harden,TURNOVER,None,2:59,1,Rockets,Raptors,18 - 13,0,N/A,N/A,N/A
+74,Team,Unknown,None,2:59,1,Rockets,Raptors,18 - 13,0,N/A,N/A,N/A
+75,Norman Powell,SUBSTITUTION,Leonard Kawhi,2:59,1,Raptors,Rockets,18 - 13,1,N/A,N/A,N/A
+76,Jeremy Lin,SUBSTITUTION,Lowry Kyle,2:59,1,Raptors,Rockets,18 - 13,1,N/A,N/A,N/A
+77,Gary Clark,SUBSTITUTION,Tucker PJ,2:59,1,Rockets,Raptors,18 - 13,0,N/A,N/A,N/A
+78,Norman Powell,FG_MISS,None,2:38,1,Raptors,Rockets,18 - 13,1,20,2,Jumper
+79,Austin Rivers,DEFENSIVE_REBOUND,None,2:35,1,Rockets,Raptors,18 - 13,0,N/A,N/A,N/A
+80,James Harden,FG_MISS,None,2:20,1,Rockets,Raptors,18 - 13,0, ,2,Jumper
+81,Pascal Siakam,DEFENSIVE_REBOUND,None,2:18,1,Raptors,Rockets,18 - 13,1,N/A,N/A,N/A
+82,Marc Gasol,FG_UNASSISTED,None,2:04,1,Raptors,Rockets,18 - 15,1,13,2,Jumper
+83,Norman Powell,FOUL_ON_FLOOR,None,1:51,1,Raptors,Rockets,18 - 15,1,N/A,N/A,N/A
+84,OG Anunoby,SUBSTITUTION,Green Danny,1:51,1,Raptors,Rockets,18 - 15,1,N/A,N/A,N/A
+85,James Harden,FG_MISS,None,1:43,1,Rockets,Raptors,18 - 15,0,22,2,Jumper
+86,OG Anunoby,DEFENSIVE_REBOUND,None,1:38,1,Raptors,Rockets,18 - 15,1,N/A,N/A,N/A
+87,Jeremy Lin,FG_MISS,Gary Clark,1:33,1,Rockets,Raptors,18 - 15,1,4,2,Jumper
+88,Jeremy Lin,OFFENSIVE_REBOUND,None,1:30,1,Raptors,Rockets,18 - 15,1,N/A,N/A,N/A
+89,Nene Hilario,FOUL_ON_FLOOR,None,1:25,1,Rockets,Raptors,18 - 15,0,N/A,N/A,N/A
+90,Marc Gasol,FT,None,1:25,1,Raptors,Rockets,18 - 16,1,N/A,1,N/A
+91,Marc Gasol,FT,None,1:25,1,Raptors,Rockets,18 - 17,1,N/A,1,N/A
+92,Austin Rivers,FG_MISS,None,1:07,1,Rockets,Raptors,18 - 17,0, ,2,Jumper
+93,Marc Gasol,DEFENSIVE_REBOUND,None,1:05,1,Raptors,Rockets,18 - 17,1,N/A,N/A,N/A
+94,Pascal Siakam,TURNOVER,Gary Clark,57.8,1,Raptors,Rockets,18 - 17,1,N/A,N/A,N/A
+95,James Harden,FG_MISS,None,47.0,1,Rockets,Raptors,18 - 17,0, ,2,Jumper
+96,Gerald Green,OFFENSIVE_REBOUND,None,44.2,1,Rockets,Raptors,18 - 17,0,N/A,N/A,N/A
+97,Gerald Green,FG_MISS,None,42.5,1,Rockets,Raptors,18 - 17,0,22,3,Jumper
+98,Gary Clark,OFFENSIVE_REBOUND,None,42.5,1,Rockets,Raptors,18 - 17,0,N/A,N/A,N/A
+99,James Harden,FG_UNASSISTED,None,29.7,1,Rockets,Raptors,21 - 17,0,25,2,Jumper
+100,Jeremy Lin,FG_UNASSISTED,None,15.0,1,Raptors,Rockets,21 - 19,1,3,2,Jumper
+101,Jeremy Lin,FOUL_ON_FLOOR,None,3.9,1,Raptors,Rockets,21 - 19,1,N/A,N/A,N/A
+102,James Harden,FT,None,3.9,1,Rockets,Raptors,22 - 19,0,N/A,1,N/A
+103,James Harden,FT,None,3.9,1,Rockets,Raptors,23 - 19,0,N/A,1,N/A
+104,Jeremy Lin,TURNOVER,James Harden,0.0,1,Raptors,Rockets,23 - 19,1,N/A,N/A,N/A
+105,End of,Unknown,None,0.0,1,Raptors,Rockets,23 - 19,1,N/A,N/A,N/A
+0,Kyle Lowry,SUBSTITUTION,Siakam Pascal,12:00,2,Raptors,Rockets,23 - 19,1,N/A,N/A,N/A
+1,Chris Paul,SUBSTITUTION,Harden James,12:00,2,Rockets,Raptors,23 - 19,0,N/A,N/A,N/A
+2,Marc Gasol,FG_MISS,None,11:47,2,Raptors,Rockets,23 - 19,1,26,3,Jumper
+3,Chris Paul,DEFENSIVE_REBOUND,None,11:43,2,Rockets,Raptors,23 - 19,0,N/A,N/A,N/A
+4,Gerald Green,FG_ASSISTED,Austin Rivers,11:31,2,Rockets,Raptors,25 - 19,0,7,2,Jumper
+5,Kyle Lowry,FG_ASSISTED,Jeremy Lin,11:24,2,Raptors,Rockets,25 - 21,1,0,2,Layup
+6,Norman Powell,FOUL_ON_FLOOR,None,11:10,2,Raptors,Rockets,25 - 21,1,N/A,N/A,N/A
+7,Gerald Green,FT,None,11:10,2,Rockets,Raptors,26 - 21,0,N/A,1,N/A
+8,Gerald Green,FT,None,11:10,2,Rockets,Raptors,27 - 21,0,N/A,1,N/A
+9,OG Anunoby,FG_MISS,None,10:58,2,Raptors,Rockets,27 - 21,1,25,3,Jumper
+10,Chris Paul,DEFENSIVE_REBOUND,None,10:55,2,Rockets,Raptors,27 - 21,0,N/A,N/A,N/A
+11,Nene Hilario,FG_MISS,None,10:41,2,Rockets,Raptors,27 - 21,0,20,2,Jumper
+12,Kyle Lowry,DEFENSIVE_REBOUND,None,10:38,2,Raptors,Rockets,27 - 21,1,N/A,N/A,N/A
+13,Kyle Lowry,FG_MISS,Gary Clark,10:33,2,Rockets,Raptors,27 - 21,1,0,2,Layup
+14,Team,OFFENSIVE_REBOUND,None,10:32,2,Raptors,Rockets,27 - 21,1,N/A,N/A,N/A
+15,Norman Powell,FG_MISS,None,10:26,2,Raptors,Rockets,27 - 21,1,0,2,Layup
+16,Kyle Lowry,OFFENSIVE_REBOUND,None,10:24,2,Raptors,Rockets,27 - 21,1,N/A,N/A,N/A
+17,Jeremy Lin,TURNOVER,Gary Clark,10:16,2,Raptors,Rockets,27 - 21,1,N/A,N/A,N/A
+18,Gerald Green,FG_ASSISTED,Chris Paul,10:12,2,Rockets,Raptors,30 - 21,0,25,3,Jumper
+19,Team,Unknown,None,10:07,2,Raptors,Rockets,30 - 21,1,N/A,N/A,N/A
+20,Kyle Lowry,TURNOVER,Austin Rivers,10:00,2,Raptors,Rockets,30 - 21,1,N/A,N/A,N/A
+21,Austin Rivers,FG_UNASSISTED,None,9:57,2,Rockets,Raptors,32 - 21,0, ,2,Jumper
+22,Norman Powell,FG_MISS,Gerald Green,9:41,2,Rockets,Raptors,32 - 21,1,0,2,Layup
+23,Nene Hilario,DEFENSIVE_REBOUND,None,9:38,2,Rockets,Raptors,32 - 21,0,N/A,N/A,N/A
+24,Austin Rivers,FG_ASSISTED,Nene Hilario,9:35,2,Rockets,Raptors,35 - 21,0,23,3,Jumper
+25,Nene Hilario,Unknown,None,9:20,2,Rockets,Raptors,35 - 21,0,N/A,N/A,N/A
+26,Norman Powell,FG_MISS,None,9:08,2,Raptors,Rockets,35 - 21,1,26,3,Jumper
+27,Gary Clark,DEFENSIVE_REBOUND,None,9:05,2,Rockets,Raptors,35 - 21,0,N/A,N/A,N/A
+28,Nene Hilario,TURNOVER,None,8:51,2,Rockets,Raptors,35 - 21,0,N/A,N/A,N/A
+29,Kyle Lowry,FOUL_ON_FLOOR,None,8:39,2,Raptors,Rockets,35 - 21,1,N/A,N/A,N/A
+30,Kyle Lowry,TURNOVER,None,8:39,2,Raptors,Rockets,35 - 21,1,N/A,N/A,N/A
+31,Eric Gordon,SUBSTITUTION,Rivers Austin,8:39,2,Rockets,Raptors,35 - 21,0,N/A,N/A,N/A
+32,Clint Capela,SUBSTITUTION,Hilario Nene,8:39,2,Rockets,Raptors,35 - 21,0,N/A,N/A,N/A
+33,Eric Gordon,FG_ASSISTED,Chris Paul,8:26,2,Rockets,Raptors,37 - 21,0,0,2,Layup
+34,Norman Powell,FG_ASSISTED,Jeremy Lin,8:08,2,Raptors,Rockets,37 - 23,1,0,2,Layup
+35,Eric Gordon,FG_ASSISTED,Chris Paul,7:50,2,Rockets,Raptors,40 - 23,0,23,3,Jumper
+36,Kyle Lowry,FG_MISS,None,7:39,2,Raptors,Rockets,40 - 23,1,26,3,Jumper
+37,Gerald Green,DEFENSIVE_REBOUND,None,7:36,2,Rockets,Raptors,40 - 23,0,N/A,N/A,N/A
+38,Chris Paul,FG_UNASSISTED,None,7:29,2,Rockets,Raptors,42 - 23,0,11,2,Jumper
+39,Team,Unknown,None,7:28,2,Raptors,Rockets,42 - 23,1,N/A,N/A,N/A
+40,Patrick McCaw,SUBSTITUTION,Lin Jeremy,7:28,2,Raptors,Rockets,42 - 23,1,N/A,N/A,N/A
+41,Kawhi Leonard,SUBSTITUTION,Powell Norman,7:28,2,Raptors,Rockets,42 - 23,1,N/A,N/A,N/A
+42,PJ Tucker,SUBSTITUTION,Clark Gary,7:28,2,Rockets,Raptors,42 - 23,0,N/A,N/A,N/A
+43,Marc Gasol,FG_UNASSISTED,None,7:09,2,Raptors,Rockets,42 - 25,1,8,2,Jumper
+44,PJ Tucker,TURNOVER,Kawhi Leonard,6:50,2,Rockets,Raptors,42 - 25,0,N/A,N/A,N/A
+45,PJ Tucker,FOUL_ON_FLOOR,None,6:41,2,Rockets,Raptors,42 - 25,0,N/A,N/A,N/A
+46,Kawhi Leonard,FT,None,6:41,2,Raptors,Rockets,42 - 26,1,N/A,1,N/A
+47,James Harden,SUBSTITUTION,Green Gerald,6:41,2,Rockets,Raptors,42 - 26,0,N/A,N/A,N/A
+48,Kawhi Leonard,FT,None,6:41,2,Raptors,Rockets,42 - 27,1,N/A,1,N/A
+49,PJ Tucker,FG_ASSISTED,Chris Paul,6:32,2,Rockets,Raptors,45 - 27,0, ,2,Jumper
+50,Kyle Lowry,FG_MISS,None,6:12,2,Raptors,Rockets,45 - 27,1, ,2,Jumper
+51,Eric Gordon,DEFENSIVE_REBOUND,None,6:10,2,Rockets,Raptors,45 - 27,0,N/A,N/A,N/A
+52,Clint Capela,FG_ASSISTED,Chris Paul,6:00,2,Rockets,Raptors,47 - 27,0, ,2,Jumper
+53,Marc Gasol,FOUL_ON_FLOOR,None,6:00,2,Raptors,Rockets,47 - 27,1,N/A,N/A,N/A
+54,Pascal Siakam,SUBSTITUTION,Anunoby OG,6:00,2,Raptors,Rockets,47 - 27,1,N/A,N/A,N/A
+55,Serge Ibaka,SUBSTITUTION,Gasol Marc,6:00,2,Raptors,Rockets,47 - 27,1,N/A,N/A,N/A
+56,Austin Rivers,SUBSTITUTION,Paul Chris,6:00,2,Rockets,Raptors,47 - 27,0,N/A,N/A,N/A
+57,Clint Capela,FT_MISS,None,6:00,2,Rockets,Raptors,47 - 27,0,N/A,1,N/A
+58,Serge Ibaka,DEFENSIVE_REBOUND,None,5:58,2,Raptors,Rockets,47 - 27,1,N/A,N/A,N/A
+59,Kawhi Leonard,FG_MISS,None,5:46,2,Raptors,Rockets,47 - 27,1, ,2,Jumper
+60,Clint Capela,DEFENSIVE_REBOUND,None,5:43,2,Rockets,Raptors,47 - 27,0,N/A,N/A,N/A
+61,Clint Capela,FOUL_ON_FLOOR,None,5:33,2,Rockets,Raptors,47 - 27,0,N/A,N/A,N/A
+62,Clint Capela,TURNOVER,None,5:33,2,Rockets,Raptors,47 - 27,0,N/A,N/A,N/A
+63,Clint Capela,FOUL_ON_FLOOR,None,5:19,2,Rockets,Raptors,47 - 27,0,N/A,N/A,N/A
+64,Kawhi Leonard,FG_MISS,None,5:07,2,Raptors,Rockets,47 - 27,1,20,2,Jumper
+65,Austin Rivers,DEFENSIVE_REBOUND,None,5:05,2,Rockets,Raptors,47 - 27,0,N/A,N/A,N/A
+66,Clint Capela,FG_ASSISTED,James Harden,5:00,2,Rockets,Raptors,49 - 27,0, ,2,Jumper
+67,Patrick McCaw,FG_ASSISTED,Serge Ibaka,4:46,2,Raptors,Rockets,49 - 30,1, ,3,Jumper
+68,Eric Gordon,TURNOVER,None,4:35,2,Rockets,Raptors,49 - 30,0,N/A,N/A,N/A
+69,Danny Green,SUBSTITUTION,McCaw Patrick,4:35,2,Raptors,Rockets,49 - 30,1,N/A,N/A,N/A
+70,Kyle Lowry,TURNOVER,PJ Tucker,4:29,2,Raptors,Rockets,49 - 30,1,N/A,N/A,N/A
+71,James Harden,FG_MISS,None,4:23,2,Rockets,Raptors,49 - 30,0,0,2,Layup
+72,Team,DEFENSIVE_REBOUND,None,4:23,2,Raptors,Rockets,49 - 30,1,N/A,N/A,N/A
+73,James Harden,FOUL_ON_FLOOR,None,4:23,2,Rockets,Raptors,49 - 30,0,N/A,N/A,N/A
+74,Kawhi Leonard,FG_MISS,None,4:07,2,Raptors,Rockets,49 - 30,1,10,2,Jumper
+75,Serge Ibaka,OFFENSIVE_REBOUND,None,4:04,2,Raptors,Rockets,49 - 30,1,N/A,N/A,N/A
+76,Kyle Lowry,FG_MISS,None,4:01,2,Raptors,Rockets,49 - 30,1,26,3,Jumper
+77,Pascal Siakam,OFFENSIVE_REBOUND,None,4:01,2,Raptors,Rockets,49 - 30,1,N/A,N/A,N/A
+78,Pascal Siakam,FG_MISS,None,3:51,2,Raptors,Rockets,49 - 30,1,6,2,Jumper
+79,Pascal Siakam,OFFENSIVE_REBOUND,None,3:47,2,Raptors,Rockets,49 - 30,1,N/A,N/A,N/A
+80,Pascal Siakam,FG_UNASSISTED,None,3:47,2,Raptors,Rockets,49 - 32,1, ,2,Jumper
+81,James Harden,FG_MISS,None,3:27,2,Rockets,Raptors,49 - 32,0,27,3,Jumper
+82,Pascal Siakam,DEFENSIVE_REBOUND,None,3:23,2,Raptors,Rockets,49 - 32,1,N/A,N/A,N/A
+83,Danny Green,FG_ASSISTED,Pascal Siakam,3:14,2,Raptors,Rockets,49 - 35,1, ,3,Jumper
+84,Team,Unknown,None,3:14,2,Rockets,Raptors,49 - 35,0,N/A,N/A,N/A
+85,Chris Paul,SUBSTITUTION,Gordon Eric,3:14,2,Rockets,Raptors,49 - 35,0,N/A,N/A,N/A
+86,James Harden,FG_MISS,None,2:55,2,Rockets,Raptors,49 - 35,0,26,3,Jumper
+87,Serge Ibaka,DEFENSIVE_REBOUND,None,2:53,2,Raptors,Rockets,49 - 35,1,N/A,N/A,N/A
+88,Kyle Lowry,TURNOVER,James Harden,2:42,2,Raptors,Rockets,49 - 35,1,N/A,N/A,N/A
+89,James Harden,FG_UNASSISTED,None,2:29,2,Rockets,Raptors,51 - 35,0, ,2,Jumper
+90,Pascal Siakam,Unknown,None,2:29,2,Raptors,Rockets,51 - 35,1,N/A,N/A,N/A
+91,Serge Ibaka,FG_MISS,None,2:06,2,Raptors,Rockets,51 - 35,1,10,2,Jumper
+92,Clint Capela,DEFENSIVE_REBOUND,None,2:03,2,Rockets,Raptors,51 - 35,0,N/A,N/A,N/A
+93,Austin Rivers,FG_ASSISTED,PJ Tucker,1:54,2,Rockets,Raptors,53 - 35,0, ,2,Jumper
+94,Kawhi Leonard,FG_MISS,Clint Capela,1:38,2,Rockets,Raptors,53 - 35,1,6,2,Jumper
+95,Clint Capela,DEFENSIVE_REBOUND,None,1:35,2,Rockets,Raptors,53 - 35,0,N/A,N/A,N/A
+96,PJ Tucker,FG_MISS,None,1:17,2,Rockets,Raptors,53 - 35,0, ,3,Jumper
+97,Clint Capela,OFFENSIVE_REBOUND,None,1:15,2,Rockets,Raptors,53 - 35,0,N/A,N/A,N/A
+98,James Harden,FG_MISS,None,1:03,2,Rockets,Raptors,53 - 35,0,26,2,Jumper
+99,Team,DEFENSIVE_REBOUND,None,1:02,2,Raptors,Rockets,53 - 35,1,N/A,N/A,N/A
+100,Nene Hilario,SUBSTITUTION,Capela Clint,1:02,2,Rockets,Raptors,53 - 35,0,N/A,N/A,N/A
+101,Danny Green,FG_MISS,None,47.1,2,Raptors,Rockets,53 - 35,1, ,3,Jumper
+102,Kyle Lowry,OFFENSIVE_REBOUND,None,44.5,2,Raptors,Rockets,53 - 35,1,N/A,N/A,N/A
+103,Serge Ibaka,FG_ASSISTED,Kyle Lowry,40.8,2,Raptors,Rockets,53 - 37,1,2,2,Jumper
+104,Chris Paul,FG_MISS,None,31.3,2,Rockets,Raptors,53 - 37,0,0,2,Layup
+105,Serge Ibaka,DEFENSIVE_REBOUND,None,27.5,2,Raptors,Rockets,53 - 37,1,N/A,N/A,N/A
+106,Serge Ibaka,TURNOVER,Chris Paul,26.3,2,Raptors,Rockets,53 - 37,1,N/A,N/A,N/A
+107,James Harden,FG_UNASSISTED,None,8.1,2,Rockets,Raptors,55 - 37,0,0,2,Layup
+108,Austin Rivers,FOUL_ON_FLOOR,None,3.5,2,Rockets,Raptors,55 - 37,0,N/A,N/A,N/A
+109,Kyle Lowry,FG_MISS,None,0.0,2,Raptors,Rockets,55 - 37,1,0,2,Layup
+110,Team,OFFENSIVE_REBOUND,None,0.0,2,Raptors,Rockets,55 - 37,1,N/A,N/A,N/A
+111,End of,Unknown,None,0.0,2,Raptors,Rockets,55 - 37,1,N/A,N/A,N/A
+0,Clint Capela,SUBSTITUTION,Rivers Austin,12:00,3,Rockets,Raptors,55 - 37,0,N/A,N/A,N/A
+1,Eric Gordon,SUBSTITUTION,Hilario Nene,12:00,3,Rockets,Raptors,55 - 37,0,N/A,N/A,N/A
+2,Pascal Siakam,FG_ASSISTED,Kawhi Leonard,11:46,3,Raptors,Rockets,55 - 40,1,25,2,Jumper
+3,Eric Gordon's,FG_MISS,Serge Ibaka,11:19,3,Raptors,Rockets,55 - 40,0, ,2,Jumper
+4,Danny Green,DEFENSIVE_REBOUND,None,11:19,3,Raptors,Rockets,55 - 40,1,N/A,N/A,N/A
+5,Kawhi Leonard,FG_UNASSISTED,None,11:06,3,Raptors,Rockets,55 - 42,1, ,2,Jumper
+6,James Harden,FG_MISS,Serge Ibaka,10:39,3,Raptors,Rockets,55 - 42,0,4,2,Jumper
+7,Serge Ibaka,DEFENSIVE_REBOUND,None,10:39,3,Raptors,Rockets,55 - 42,1,N/A,N/A,N/A
+8,James Harden,FOUL_ON_FLOOR,None,10:39,3,Rockets,Raptors,55 - 42,0,N/A,N/A,N/A
+9,Kawhi Leonard,FG_MISS,None,10:24,3,Raptors,Rockets,55 - 42,1, ,2,Jumper
+10,Clint Capela,DEFENSIVE_REBOUND,None,10:20,3,Rockets,Raptors,55 - 42,0,N/A,N/A,N/A
+11,Chris Paul,FG_MISS,None,10:09,3,Rockets,Raptors,55 - 42,0,9,2,Jumper
+12,Serge Ibaka,DEFENSIVE_REBOUND,None,10:06,3,Raptors,Rockets,55 - 42,1,N/A,N/A,N/A
+13,Chris Paul,FOUL_ON_FLOOR,None,9:53,3,Rockets,Raptors,55 - 42,0,N/A,N/A,N/A
+14,Kawhi Leonard,FG_MISS,None,9:44,3,Raptors,Rockets,55 - 42,1,25,3,Jumper
+15,Serge Ibaka,OFFENSIVE_REBOUND,None,9:42,3,Raptors,Rockets,55 - 42,1,N/A,N/A,N/A
+16,Pascal Siakam,FG_ASSISTED,Kyle Lowry,9:34,3,Raptors,Rockets,55 - 45,1, ,3,Jumper
+17,Serge Ibaka,FOUL_ON_FLOOR,None,9:16,3,Raptors,Rockets,55 - 45,1,N/A,N/A,N/A
+18,Clint Capela,FT_MISS,None,9:16,3,Rockets,Raptors,55 - 45,0,N/A,1,N/A
+19,Team,OFFENSIVE_REBOUND,None,9:16,3,Rockets,Raptors,55 - 45,0,N/A,N/A,N/A
+20,Clint Capela,FT,None,9:16,3,Rockets,Raptors,56 - 45,0,N/A,1,N/A
+21,Serge Ibaka,FG_ASSISTED,Kyle Lowry,9:04,3,Raptors,Rockets,56 - 47,1,3,2,Jumper
+22,James Harden,FOUL_ON_FLOOR,None,9:04,3,Rockets,Raptors,56 - 47,0,N/A,N/A,N/A
+23,Serge Ibaka,FT_MISS,None,9:04,3,Raptors,Rockets,56 - 47,1,N/A,1,N/A
+24,PJ Tucker,DEFENSIVE_REBOUND,None,9:02,3,Rockets,Raptors,56 - 47,0,N/A,N/A,N/A
+25,James Harden,FG_MISS,None,8:48,3,Rockets,Raptors,56 - 47,0, ,2,Jumper
+26,Kyle Lowry,DEFENSIVE_REBOUND,None,8:45,3,Raptors,Rockets,56 - 47,1,N/A,N/A,N/A
+27,Pascal Siakam,FG_MISS,None,8:36,3,Raptors,Rockets,56 - 47,1, ,3,Jumper
+28,Team,DEFENSIVE_REBOUND,None,8:36,3,Rockets,Raptors,56 - 47,0,N/A,N/A,N/A
+29,Kyle Lowry,FOUL_ON_FLOOR,None,8:36,3,Raptors,Rockets,56 - 47,1,N/A,N/A,N/A
+30,Kyle Lowry,FOUL_TECHNICAL,None,8:36,3,Raptors,Rockets,56 - 47,1,N/A,N/A,N/A
+31,James Harden,FT,None,8:36,3,Rockets,Raptors,57 - 47,0,N/A,1,N/A
+32,PJ Tucker,FG_MISS,None,8:13,3,Rockets,Raptors,57 - 47,0,23,3,Jumper
+33,Team,DEFENSIVE_REBOUND,None,8:12,3,Raptors,Rockets,57 - 47,1,N/A,N/A,N/A
+34,Serge Ibaka,FG_ASSISTED,Kyle Lowry,7:57,3,Raptors,Rockets,57 - 49,1,18,2,Jumper
+35,Chris Paul,FG_MISS,None,7:47,3,Rockets,Raptors,57 - 49,0,26,3,Jumper
+36,Pascal Siakam,DEFENSIVE_REBOUND,None,7:46,3,Raptors,Rockets,57 - 49,1,N/A,N/A,N/A
+37,Danny Green,FG_ASSISTED,Pascal Siakam,7:36,3,Raptors,Rockets,57 - 52,1, ,3,Jumper
+38,Team,Unknown,None,7:36,3,Rockets,Raptors,57 - 52,0,N/A,N/A,N/A
+39,Chris Paul,FOUL_ON_FLOOR,None,7:23,3,Rockets,Raptors,57 - 52,0,N/A,N/A,N/A
+40,Chris Paul,TURNOVER,None,7:23,3,Rockets,Raptors,57 - 52,0,N/A,N/A,N/A
+41,Serge Ibaka,FG_MISS,None,7:09,3,Raptors,Rockets,57 - 52,1,0,2,Layup
+42,Chris Paul,DEFENSIVE_REBOUND,None,7:07,3,Rockets,Raptors,57 - 52,0,N/A,N/A,N/A
+43,James Harden,FG_ASSISTED,Chris Paul,7:00,3,Rockets,Raptors,59 - 52,0,9,2,Jumper
+44,Chris Paul,FOUL_ON_FLOOR,None,6:55,3,Rockets,Raptors,59 - 52,0,N/A,N/A,N/A
+45,Danny Green,FT,None,6:55,3,Raptors,Rockets,59 - 53,1,N/A,1,N/A
+46,Austin Rivers,SUBSTITUTION,Paul Chris,6:55,3,Rockets,Raptors,59 - 53,0,N/A,N/A,N/A
+47,Danny Green,FT,None,6:55,3,Raptors,Rockets,59 - 54,1,N/A,1,N/A
+48,Clint Capela,FG_MISS,None,6:44,3,Rockets,Raptors,59 - 54,0,0,2,Layup
+49,Kawhi Leonard,DEFENSIVE_REBOUND,None,6:42,3,Raptors,Rockets,59 - 54,1,N/A,N/A,N/A
+50,Kawhi Leonard,FG_MISS,None,6:39,3,Raptors,Rockets,59 - 54,1, ,2,Jumper
+51,Clint Capela,DEFENSIVE_REBOUND,None,6:35,3,Rockets,Raptors,59 - 54,0,N/A,N/A,N/A
+52,Clint Capela's,FG_MISS,Serge Ibaka,6:13,3,Raptors,Rockets,59 - 54,0, ,2,Jumper
+53,Team,OFFENSIVE_REBOUND,None,6:13,3,Rockets,Raptors,59 - 54,0,N/A,N/A,N/A
+54,shot clock,TURNOVER,None,6:13,3,Rockets,Raptors,59 - 54,0,N/A,N/A,N/A
+55,Serge Ibaka,FG_ASSISTED,Danny Green,5:53,3,Raptors,Rockets,59 - 56,1,3,2,Jumper
+56,James Harden,FG_MISS,None,5:28,3,Rockets,Raptors,59 - 56,0,25,3,Jumper
+57,PJ Tucker,OFFENSIVE_REBOUND,None,5:25,3,Rockets,Raptors,59 - 56,0,N/A,N/A,N/A
+58,PJ Tucker,FG_MISS,None,5:23,3,Rockets,Raptors,59 - 56,0, ,2,Jumper
+59,Kawhi Leonard,DEFENSIVE_REBOUND,None,5:21,3,Raptors,Rockets,59 - 56,1,N/A,N/A,N/A
+60,Austin Rivers,FOUL_ON_FLOOR,None,5:19,3,Rockets,Raptors,59 - 56,0,N/A,N/A,N/A
+61,Kawhi Leonard,FT,None,5:19,3,Raptors,Rockets,59 - 57,1,N/A,1,N/A
+62,Gerald Green,SUBSTITUTION,Gordon Eric,5:19,3,Rockets,Raptors,59 - 57,0,N/A,N/A,N/A
+63,Kawhi Leonard,FT,None,5:19,3,Raptors,Rockets,59 - 58,1,N/A,1,N/A
+64,James Harden,FG_MISS,None,4:59,3,Rockets,Raptors,59 - 58,0, ,2,Jumper
+65,Serge Ibaka,DEFENSIVE_REBOUND,None,4:57,3,Raptors,Rockets,59 - 58,1,N/A,N/A,N/A
+66,Pascal Siakam,FG_UNASSISTED,None,4:46,3,Raptors,Rockets,59 - 60,1,10,2,Jumper
+67,Serge Ibaka,FOUL_ON_FLOOR,None,4:28,3,Raptors,Rockets,59 - 60,1,N/A,N/A,N/A
+68,Austin Rivers,FG_ASSISTED,Clint Capela,4:24,3,Rockets,Raptors,62 - 60,0,26,3,Jumper
+69,Pascal Siakam,FG_UNASSISTED,None,4:03,3,Raptors,Rockets,62 - 62,1,0,2,Layup
+70,Clint Capela,FG_MISS,Serge Ibaka,3:46,3,Raptors,Rockets,62 - 62,0,0,2,Layup
+71,Clint Capela,OFFENSIVE_REBOUND,None,3:43,3,Rockets,Raptors,62 - 62,0,N/A,N/A,N/A
+72,PJ Tucker,FG_MISS,None,3:42,3,Rockets,Raptors,62 - 62,0,23,3,Jumper
+73,Team,OFFENSIVE_REBOUND,None,3:40,3,Rockets,Raptors,62 - 62,0,N/A,N/A,N/A
+74,Team,Unknown,None,3:40,3,Raptors,Rockets,62 - 62,1,N/A,N/A,N/A
+75,Nene Hilario,SUBSTITUTION,Capela Clint,3:40,3,Rockets,Raptors,62 - 62,0,N/A,N/A,N/A
+76,Austin Rivers,FG_MISS,None,3:30,3,Rockets,Raptors,62 - 62,0,26,3,Jumper
+77,Serge Ibaka,DEFENSIVE_REBOUND,None,3:26,3,Raptors,Rockets,62 - 62,1,N/A,N/A,N/A
+78,Kyle Lowry,FG_MISS,None,3:21,3,Raptors,Rockets,62 - 62,1,25,3,Jumper
+79,Austin Rivers,DEFENSIVE_REBOUND,None,3:18,3,Rockets,Raptors,62 - 62,0,N/A,N/A,N/A
+80,Nene Hilario,FG_UNASSISTED,None,3:11,3,Rockets,Raptors,64 - 62,0,0,2,Layup
+81,Pascal Siakam,FG_UNASSISTED,None,2:47,3,Raptors,Rockets,64 - 64,1,5,2,Jumper
+82,James Harden,FG_MISS,None,2:23,3,Rockets,Raptors,64 - 64,0,26,3,Jumper
+83,PJ Tucker,OFFENSIVE_REBOUND,None,2:21,3,Rockets,Raptors,64 - 64,0,N/A,N/A,N/A
+84,James Harden,FG_MISS,None,2:17,3,Rockets,Raptors,64 - 64,0,0,2,Layup
+85,Kyle Lowry,DEFENSIVE_REBOUND,None,2:15,3,Raptors,Rockets,64 - 64,1,N/A,N/A,N/A
+86,Danny Green,FG_MISS,None,2:10,3,Raptors,Rockets,64 - 64,1, ,3,Jumper
+87,Pascal Siakam,OFFENSIVE_REBOUND,None,2:10,3,Raptors,Rockets,64 - 64,1,N/A,N/A,N/A
+88,Austin Rivers,FOUL_ON_FLOOR,None,1:59,3,Rockets,Raptors,64 - 64,0,N/A,N/A,N/A
+89,Pascal Siakam,FT,None,1:59,3,Raptors,Rockets,64 - 65,1,N/A,1,N/A
+90,Marc Gasol,SUBSTITUTION,Leonard Kawhi,1:59,3,Raptors,Rockets,64 - 65,1,N/A,N/A,N/A
+91,Norman Powell,SUBSTITUTION,Ibaka Serge,1:59,3,Raptors,Rockets,64 - 65,1,N/A,N/A,N/A
+92,Chris Paul,SUBSTITUTION,Harden James,1:59,3,Rockets,Raptors,64 - 65,0,N/A,N/A,N/A
+93,Gary Clark,SUBSTITUTION,Tucker PJ,1:59,3,Rockets,Raptors,64 - 65,0,N/A,N/A,N/A
+94,Pascal Siakam,FT_MISS,None,1:59,3,Raptors,Rockets,64 - 65,1,N/A,1,N/A
+95,Gerald Green,DEFENSIVE_REBOUND,None,1:58,3,Rockets,Raptors,64 - 65,0,N/A,N/A,N/A
+96,Nene Hilario,FG_ASSISTED,Austin Rivers,1:43,3,Rockets,Raptors,66 - 65,0,18,2,Jumper
+97,Kyle Lowry,FG_UNASSISTED,None,1:31,3,Raptors,Rockets,66 - 67,1,0,2,Layup
+98,Gerald Green,FG_MISS,None,1:15,3,Rockets,Raptors,66 - 67,0,26,3,Jumper
+99,Pascal Siakam,DEFENSIVE_REBOUND,None,1:12,3,Raptors,Rockets,66 - 67,1,N/A,N/A,N/A
+100,Kyle Lowry,FG_MISS,None,58.1,3,Raptors,Rockets,66 - 67,1,20,2,Jumper
+101,Nene Hilario,DEFENSIVE_REBOUND,None,55.5,3,Rockets,Raptors,66 - 67,0,N/A,N/A,N/A
+102,Norman Powell,FOUL_ON_FLOOR,None,49.0,3,Raptors,Rockets,66 - 67,1,N/A,N/A,N/A
+103,Jeremy Lin,SUBSTITUTION,Lowry Kyle,49.0,3,Raptors,Rockets,66 - 67,1,N/A,N/A,N/A
+104,Patrick McCaw,SUBSTITUTION,Green Danny,49.0,3,Raptors,Rockets,66 - 67,1,N/A,N/A,N/A
+105,Norman Powell,FOUL_ON_FLOOR,None,43.4,3,Raptors,Rockets,66 - 67,1,N/A,N/A,N/A
+106,Chris Paul,FT,None,43.4,3,Rockets,Raptors,67 - 67,0,N/A,1,N/A
+107,Chris Paul,FT,None,43.4,3,Rockets,Raptors,68 - 67,0,N/A,1,N/A
+108,Chris Paul,FT,None,43.4,3,Rockets,Raptors,69 - 67,0,N/A,1,N/A
+109,Pascal Siakam,FG_UNASSISTED,None,33.1,3,Raptors,Rockets,69 - 69,1,0,2,Layup
+110,Chris Paul,FG_MISS,None,29.4,3,Rockets,Raptors,69 - 69,0,27,3,Jumper
+111,Pascal Siakam,DEFENSIVE_REBOUND,None,27.0,3,Raptors,Rockets,69 - 69,1,N/A,N/A,N/A
+112,Jeremy Lin,FG_MISS,None,14.3,3,Raptors,Rockets,69 - 69,1,25,3,Jumper
+113,Norman Powell,OFFENSIVE_REBOUND,None,11.5,3,Raptors,Rockets,69 - 69,1,N/A,N/A,N/A
+114,Norman Powell,FG_UNASSISTED,None,5.9,3,Raptors,Rockets,69 - 71,1, ,2,Jumper
+115,Chris Paul,FG_MISS,None,0.0,3,Rockets,Raptors,69 - 71,0, ,3,Jumper
+116,Team,OFFENSIVE_REBOUND,None,0.0,3,Rockets,Raptors,69 - 71,0,N/A,N/A,N/A
+117,End of,Unknown,None,0.0,3,Raptors,Rockets,69 - 71,1,N/A,N/A,N/A
+0,Gerald Green,FG_ASSISTED,Chris Paul,11:47,4,Rockets,Raptors,72 - 71,0, ,3,Jumper
+1,Gerald Green,FOUL_ON_FLOOR,None,11:34,4,Rockets,Raptors,72 - 71,0,N/A,N/A,N/A
+2,OG Anunoby,SUBSTITUTION,Powell Norman,11:34,4,Raptors,Rockets,72 - 71,1,N/A,N/A,N/A
+3,Marc Gasol,FG_ASSISTED,Pascal Siakam,11:22,4,Raptors,Rockets,72 - 73,1,10,2,Jumper
+4,Gerald Green,FG_ASSISTED,Gary Clark,11:08,4,Rockets,Raptors,75 - 73,0,25,3,Jumper
+5,Jeremy Lin,FG_MISS,None,10:50,4,Raptors,Rockets,75 - 73,1,9,2,Jumper
+6,Nene Hilario,DEFENSIVE_REBOUND,None,10:48,4,Rockets,Raptors,75 - 73,0,N/A,N/A,N/A
+7,Chris Paul,TURNOVER,None,10:33,4,Rockets,Raptors,75 - 73,0,N/A,N/A,N/A
+8,Eric Gordon,SUBSTITUTION,Clark Gary,10:33,4,Rockets,Raptors,75 - 73,0,N/A,N/A,N/A
+9,Chris Paul,JUMP_BALL,None,10:11,4,Raptors,Rockets,75 - 73,1,N/A,N/A,N/A
+10,Jeremy Lin,FG_MISS,Nene Hilario,10:08,4,Rockets,Raptors,75 - 73,1,0,2,Layup
+11,Nene Hilario,DEFENSIVE_REBOUND,None,10:04,4,Rockets,Raptors,75 - 73,0,N/A,N/A,N/A
+12,Gerald Green,FG_MISS,None,9:57,4,Rockets,Raptors,75 - 73,0,25,3,Jumper
+13,Jeremy Lin,DEFENSIVE_REBOUND,None,9:54,4,Raptors,Rockets,75 - 73,1,N/A,N/A,N/A
+14,Jeremy Lin,TURNOVER,Nene Hilario,9:49,4,Raptors,Rockets,75 - 73,1,N/A,N/A,N/A
+15,Nene Hilario,FG_ASSISTED,Chris Paul,9:44,4,Rockets,Raptors,77 - 73,0,0,2,Dunk
+16,Marc Gasol,FG_MISS,None,9:27,4,Raptors,Rockets,77 - 73,1, ,2,Jumper
+17,Chris Paul,DEFENSIVE_REBOUND,None,9:26,4,Rockets,Raptors,77 - 73,0,N/A,N/A,N/A
+18,Gerald Green,FG_ASSISTED,Chris Paul,9:21,4,Rockets,Raptors,80 - 73,0,23,3,Jumper
+19,Team,Unknown,None,9:20,4,Raptors,Rockets,80 - 73,1,N/A,N/A,N/A
+20,Kawhi Leonard,SUBSTITUTION,Lin Jeremy,9:20,4,Raptors,Rockets,80 - 73,1,N/A,N/A,N/A
+21,Kyle Lowry,SUBSTITUTION,Siakam Pascal,9:20,4,Raptors,Rockets,80 - 73,1,N/A,N/A,N/A
+22,Clint Capela,SUBSTITUTION,Hilario Nene,9:20,4,Rockets,Raptors,80 - 73,0,N/A,N/A,N/A
+23,PJ Tucker,SUBSTITUTION,Rivers Austin,9:20,4,Rockets,Raptors,80 - 73,0,N/A,N/A,N/A
+24,Kawhi Leonard,TURNOVER,Chris Paul,9:07,4,Raptors,Rockets,80 - 73,1,N/A,N/A,N/A
+25,Eric Gordon,FG_ASSISTED,Chris Paul,9:03,4,Rockets,Raptors,83 - 73,0,25,3,Jumper
+26,Kawhi Leonard,FG_MISS,None,8:45,4,Raptors,Rockets,83 - 73,1,25,3,Jumper
+27,Chris Paul,DEFENSIVE_REBOUND,None,8:42,4,Rockets,Raptors,83 - 73,0,N/A,N/A,N/A
+28,Chris Paul,FG_MISS,None,8:35,4,Rockets,Raptors,83 - 73,0, ,2,Jumper
+29,Team,DEFENSIVE_REBOUND,None,8:33,4,Raptors,Rockets,83 - 73,1,N/A,N/A,N/A
+30,Kyle Lowry,FG_UNASSISTED,None,8:23,4,Raptors,Rockets,83 - 75,1,3,2,Jumper
+31,Marc Gasol,FOUL_ON_FLOOR,None,8:06,4,Raptors,Rockets,83 - 75,1,N/A,N/A,N/A
+32,Gerald Green,FT,None,8:06,4,Rockets,Raptors,84 - 75,0,N/A,1,N/A
+33,James Harden,SUBSTITUTION,Paul Chris,8:06,4,Rockets,Raptors,84 - 75,0,N/A,N/A,N/A
+34,Gerald Green,FT,None,8:06,4,Rockets,Raptors,85 - 75,0,N/A,1,N/A
+35,Eric Gordon,FOUL_ON_FLOOR,None,7:53,4,Rockets,Raptors,85 - 75,0,N/A,N/A,N/A
+36,Kyle Lowry,FG_MISS,None,7:40,4,Raptors,Rockets,85 - 75,1,13,2,Jumper
+37,Kawhi Leonard,OFFENSIVE_REBOUND,None,7:37,4,Raptors,Rockets,85 - 75,1,N/A,N/A,N/A
+38,OG Anunoby,FG_ASSISTED,Patrick McCaw,7:30,4,Raptors,Rockets,85 - 78,1,23,3,Jumper
+39,James Harden,FG_UNASSISTED,None,7:08,4,Rockets,Raptors,88 - 78,0,27,2,Jumper
+40,PJ Tucker,FOUL_ON_FLOOR,None,6:58,4,Rockets,Raptors,88 - 78,0,N/A,N/A,N/A
+41,Kawhi Leonard,FG_UNASSISTED,None,6:48,4,Raptors,Rockets,88 - 80,1,11,2,Jumper
+42,Eric Gordon,FG_MISS,None,6:28,4,Rockets,Raptors,88 - 80,0, ,2,Jumper
+43,Clint Capela,OFFENSIVE_REBOUND,None,6:23,4,Rockets,Raptors,88 - 80,0,N/A,N/A,N/A
+44,PJ Tucker,FG_ASSISTED,Eric Gordon,6:20,4,Rockets,Raptors,91 - 80,0,23,3,Jumper
+45,Kyle Lowry,FG_MISS,None,6:04,4,Raptors,Rockets,91 - 80,1,25,3,Jumper
+46,Clint Capela,DEFENSIVE_REBOUND,None,6:02,4,Rockets,Raptors,91 - 80,0,N/A,N/A,N/A
+47,James Harden,FG_UNASSISTED,None,5:48,4,Rockets,Raptors,94 - 80,0,26,2,Jumper
+48,Team,Unknown,None,5:44,4,Raptors,Rockets,94 - 80,1,N/A,N/A,N/A
+49,Pascal Siakam,SUBSTITUTION,McCaw Patrick,5:44,4,Raptors,Rockets,94 - 80,1,N/A,N/A,N/A
+50,Danny Green,SUBSTITUTION,Anunoby OG,5:44,4,Raptors,Rockets,94 - 80,1,N/A,N/A,N/A
+51,Serge Ibaka,SUBSTITUTION,Gasol Marc,5:44,4,Raptors,Rockets,94 - 80,1,N/A,N/A,N/A
+52,PJ Tucker,FOUL_ON_FLOOR,None,5:36,4,Rockets,Raptors,94 - 80,0,N/A,N/A,N/A
+53,Kawhi Leonard,FG_UNASSISTED,None,5:26,4,Raptors,Rockets,94 - 82,1,12,2,Jumper
+54,Serge Ibaka,FOUL_ON_FLOOR,None,5:12,4,Raptors,Rockets,94 - 82,1,N/A,N/A,N/A
+55,James Harden,FT,None,5:12,4,Rockets,Raptors,95 - 82,0,N/A,1,N/A
+56,Chris Paul,SUBSTITUTION,Green Gerald,5:12,4,Rockets,Raptors,95 - 82,0,N/A,N/A,N/A
+57,James Harden,FT,None,5:12,4,Rockets,Raptors,96 - 82,0,N/A,1,N/A
+58,Kawhi Leonard,FG_UNASSISTED,None,4:49,4,Raptors,Rockets,96 - 85,1,25,3,Jumper
+59,James Harden,FG_MISS,None,4:25,4,Rockets,Raptors,96 - 85,0,18,2,Jumper
+60,Team,DEFENSIVE_REBOUND,None,4:25,4,Raptors,Rockets,96 - 85,1,N/A,N/A,N/A
+61,Clint Capela,FOUL_ON_FLOOR,None,4:25,4,Rockets,Raptors,96 - 85,0,N/A,N/A,N/A
+62,Serge Ibaka,FT,None,4:25,4,Raptors,Rockets,96 - 86,1,N/A,1,N/A
+63,Serge Ibaka,FT,None,4:25,4,Raptors,Rockets,96 - 87,1,N/A,1,N/A
+64,Chris Paul,FG_MISS,None,4:02,4,Rockets,Raptors,96 - 87,0,8,2,Jumper
+65,Serge Ibaka,DEFENSIVE_REBOUND,None,4:00,4,Raptors,Rockets,96 - 87,1,N/A,N/A,N/A
+66,Pascal Siakam,FG_MISS,None,3:40,4,Raptors,Rockets,96 - 87,1,8,2,Jumper
+67,Clint Capela,DEFENSIVE_REBOUND,None,3:37,4,Rockets,Raptors,96 - 87,0,N/A,N/A,N/A
+68,Pascal Siakam,FOUL_ON_FLOOR,None,3:31,4,Raptors,Rockets,96 - 87,1,N/A,N/A,N/A
+69,Team,Unknown,None,3:31,4,Rockets,Raptors,96 - 87,0,N/A,N/A,N/A
+70,James Harden,FT,None,3:31,4,Rockets,Raptors,97 - 87,0,N/A,1,N/A
+71,James Harden,FT,None,3:31,4,Rockets,Raptors,98 - 87,0,N/A,1,N/A
+72,Kyle Lowry,FG_MISS,None,3:17,4,Raptors,Rockets,98 - 87,1,25,3,Jumper
+73,Clint Capela,DEFENSIVE_REBOUND,None,3:14,4,Rockets,Raptors,98 - 87,0,N/A,N/A,N/A
+74,James Harden,FG_UNASSISTED,None,2:54,4,Rockets,Raptors,100 - 87,0,6,2,Jumper
+75,Kawhi Leonard,FG_UNASSISTED,None,2:38,4,Raptors,Rockets,100 - 89,1,2,2,Jumper
+76,PJ Tucker,FOUL_ON_FLOOR,None,2:38,4,Rockets,Raptors,100 - 89,0,N/A,N/A,N/A
+77,Kawhi Leonard,FT,None,2:38,4,Raptors,Rockets,100 - 90,1,N/A,1,N/A
+78,James Harden,FG_UNASSISTED,None,2:18,4,Rockets,Raptors,102 - 90,0,8,2,Jumper
+79,Kawhi Leonard,FG_MISS,None,2:03,4,Raptors,Rockets,102 - 90,1,13,2,Jumper
+80,Serge Ibaka,OFFENSIVE_REBOUND,None,2:00,4,Raptors,Rockets,102 - 90,1,N/A,N/A,N/A
+81,Danny Green,FG_MISS,None,1:58,4,Raptors,Rockets,102 - 90,1,25,3,Jumper
+82,Kawhi Leonard,OFFENSIVE_REBOUND,None,1:54,4,Raptors,Rockets,102 - 90,1,N/A,N/A,N/A
+83,Danny Green,FG_MISS,None,1:52,4,Raptors,Rockets,102 - 90,1,24,3,Jumper
+84,Team,DEFENSIVE_REBOUND,None,1:52,4,Rockets,Raptors,102 - 90,0,N/A,N/A,N/A
+85,Serge Ibaka,FOUL_ON_FLOOR,None,1:52,4,Raptors,Rockets,102 - 90,1,N/A,N/A,N/A
+86,PJ Tucker,FG_MISS,None,1:28,4,Rockets,Raptors,102 - 90,0,0,2,Layup
+87,Pascal Siakam,DEFENSIVE_REBOUND,None,1:26,4,Raptors,Rockets,102 - 90,1,N/A,N/A,N/A
+88,Danny Green,FG_MISS,None,1:21,4,Raptors,Rockets,102 - 90,1,23,3,Jumper
+89,Team,DEFENSIVE_REBOUND,None,1:20,4,Rockets,Raptors,102 - 90,0,N/A,N/A,N/A
+90,James Harden,FG_ASSISTED,PJ Tucker,59.0,4,Rockets,Raptors,104 - 90,0, ,2,Jumper
+91,Kyle Lowry,FOUL_ON_FLOOR,None,59.0,4,Raptors,Rockets,104 - 90,1,N/A,N/A,N/A
+92,James Harden,FT,None,59.0,4,Rockets,Raptors,105 - 90,0,N/A,1,N/A
+93,Kawhi Leonard,FG_MISS,None,53.6,4,Raptors,Rockets,105 - 90,1,26,3,Jumper
+94,Pascal Siakam,OFFENSIVE_REBOUND,None,50.1,4,Raptors,Rockets,105 - 90,1,N/A,N/A,N/A
+95,Kawhi Leonard,FG_ASSISTED,Kyle Lowry,37.1,4,Raptors,Rockets,105 - 92,1,3,2,Jumper
+96,Clint Capela,Unknown,None,37.1,4,Rockets,Raptors,105 - 92,0,N/A,N/A,N/A
+97,James Harden,FG_UNASSISTED,None,18.8,4,Rockets,Raptors,107 - 92,0,9,2,Jumper
+98,Danny Green,FG_MISS,Chris Paul,6.0,4,Rockets,Raptors,107 - 92,1,23,3,Jumper
+99,Danny Green,FG_UNASSISTED,None,5.0,4,Raptors,Rockets,107 - 95,1,24,3,Jumper
+100,Danny Green,OFFENSIVE_REBOUND,None,5.0,4,Raptors,Rockets,107 - 95,1,N/A,N/A,N/A
+101,End of,Unknown,None,0.0,4,Raptors,Rockets,107 - 95,1,N/A,N/A,N/A
+102,End of,Unknown,None,0.0,4,Raptors,Rockets,107 - 95,1,N/A,N/A,N/A

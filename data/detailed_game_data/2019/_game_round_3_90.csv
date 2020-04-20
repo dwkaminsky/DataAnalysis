@@ -1,0 +1,546 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Willie Cauley-Stein,JUMP_BALL,None,12:00,1,Hawks,Kings,0 - 0,1,N/A,N/A,N/A
+1,Taurean Prince,FG_MISS,None,11:41,1,Hawks,Kings,0 - 0,1,-,2,Jumper
+2,Iman Shumpert,DEFENSIVE_REBOUND,None,11:38,1,Kings,Hawks,0 - 0,0,N/A,N/A,N/A
+3,Nemanja Bjelica,FG_MISS,None,11:24,1,Kings,Hawks,0 - 0,0,-,2,Jumper
+4,Taurean Prince,DEFENSIVE_REBOUND,None,11:19,1,Hawks,Kings,0 - 0,1,N/A,N/A,N/A
+5,Vince Carter,FG_ASSISTED,Trae Young,11:10,1,Hawks,Kings,0 - 3,1,28,3,Jumper
+6,De'Aaron Fox,FG_MISS,None,10:56,1,Kings,Hawks,0 - 3,0,23,2,Jumper
+7,Taurean Prince,DEFENSIVE_REBOUND,None,10:53,1,Hawks,Kings,0 - 3,1,N/A,N/A,N/A
+8,Taurean Prince,TURNOVER,Willie Cauley-Stein,10:45,1,Hawks,Kings,0 - 3,1,N/A,N/A,N/A
+9,Nemanja Bjelica,FG_ASSISTED,Buddy Hield,10:39,1,Kings,Hawks,2 - 3,0,-,2,Jumper
+10,Trae Young,FG_UNASSISTED,None,10:29,1,Hawks,Kings,2 - 5,1,0,2,Layup
+11,De'Aaron Fox,FG_UNASSISTED,None,10:22,1,Kings,Hawks,4 - 5,0,0,2,Layup
+12,Willie Cauley-Stein,FOUL_ON_FLOOR,None,10:12,1,Kings,Hawks,4 - 5,0,N/A,N/A,N/A
+13,Alex Len,FT_MISS,None,10:12,1,Hawks,Kings,4 - 5,1,N/A,1,N/A
+14,Team,OFFENSIVE_REBOUND,None,10:12,1,Hawks,Kings,4 - 5,1,N/A,N/A,N/A
+15,Alex Len,FT,None,10:12,1,Hawks,Kings,4 - 6,1,N/A,1,N/A
+16,De'Aaron Fox,TURNOVER,Taurean Prince,10:02,1,Kings,Hawks,4 - 6,0,N/A,N/A,N/A
+17,Kent Bazemore,FG_ASSISTED,Taurean Prince,9:58,1,Hawks,Kings,4 - 8,1,-,2,Jumper
+18,Nemanja Bjelica,FG_ASSISTED,Buddy Hield,9:51,1,Kings,Hawks,7 - 8,0,26,3,Jumper
+19,Taurean Prince,FG_MISS,Iman Shumpert,9:43,1,Kings,Hawks,7 - 8,1,0,2,Layup
+20,Iman Shumpert,DEFENSIVE_REBOUND,None,9:43,1,Kings,Hawks,7 - 8,0,N/A,N/A,N/A
+21,Nemanja Bjelica,FG_MISS,None,9:31,1,Kings,Hawks,7 - 8,0,27,3,Jumper
+22,Trae Young,DEFENSIVE_REBOUND,None,9:27,1,Hawks,Kings,7 - 8,1,N/A,N/A,N/A
+23,Vince Carter,FG_MISS,None,9:20,1,Hawks,Kings,7 - 8,1,26,3,Jumper
+24,Alex Len,OFFENSIVE_REBOUND,None,9:16,1,Hawks,Kings,7 - 8,1,N/A,N/A,N/A
+25,Alex Len,FG_UNASSISTED,None,9:15,1,Hawks,Kings,7 - 10,1,17,2,Jumper
+26,Willie Cauley-Stein,FG_MISS,None,8:56,1,Kings,Hawks,7 - 10,0,0,2,Layup
+27,Taurean Prince,DEFENSIVE_REBOUND,None,8:52,1,Hawks,Kings,7 - 10,1,N/A,N/A,N/A
+28,Trae Young,TURNOVER,Nemanja Bjelica,8:41,1,Hawks,Kings,7 - 10,1,N/A,N/A,N/A
+29,Willie Cauley-Stein,FG_ASSISTED,De'Aaron Fox,8:36,1,Kings,Hawks,9 - 10,0, ,2,Jumper
+30,Nemanja Bjelica,FOUL_ON_FLOOR,None,8:14,1,Kings,Hawks,9 - 10,0,N/A,N/A,N/A
+31,Alex Len,FT,None,8:14,1,Hawks,Kings,9 - 11,1,N/A,1,N/A
+32,Alex Len,FT,None,8:14,1,Hawks,Kings,9 - 12,1,N/A,1,N/A
+33,Buddy Hield,TURNOVER,None,8:01,1,Kings,Hawks,9 - 12,0,N/A,N/A,N/A
+34,Trae Young,TURNOVER,Nemanja Bjelica,7:49,1,Hawks,Kings,9 - 12,1,N/A,N/A,N/A
+35,Iman Shumpert,FG_ASSISTED,De'Aaron Fox,7:44,1,Kings,Hawks,12 - 12,0,26,3,Jumper
+36,Team,Unknown,None,7:42,1,Hawks,Kings,12 - 12,1,N/A,N/A,N/A
+37,Trae Young,TURNOVER,None,7:21,1,Hawks,Kings,12 - 12,1,N/A,N/A,N/A
+38,Iman Shumpert,FG_MISS,None,7:06,1,Kings,Hawks,12 - 12,0,25,3,Jumper
+39,Vince Carter,DEFENSIVE_REBOUND,None,7:02,1,Hawks,Kings,12 - 12,1,N/A,N/A,N/A
+40,Alex Len,FG_MISS,None,6:55,1,Hawks,Kings,12 - 12,1, ,2,Jumper
+41,Buddy Hield,DEFENSIVE_REBOUND,None,6:51,1,Kings,Hawks,12 - 12,0,N/A,N/A,N/A
+42,Buddy Hield,FG_MISS,None,6:42,1,Kings,Hawks,12 - 12,0,21,2,Jumper
+43,De'Aaron Fox,OFFENSIVE_REBOUND,None,6:38,1,Kings,Hawks,12 - 12,0,N/A,N/A,N/A
+44,Nemanja Bjelica,FG_ASSISTED,De'Aaron Fox,6:36,1,Kings,Hawks,14 - 12,0,5,2,Jumper
+45,Kent Bazemore,FG_ASSISTED,Trae Young,6:09,1,Hawks,Kings,14 - 15,1,25,3,Jumper
+46,Nemanja Bjelica,FG_ASSISTED,Iman Shumpert,6:01,1,Kings,Hawks,16 - 15,0,7,2,Jumper
+47,Alex Len,FOUL_ON_FLOOR,None,5:54,1,Hawks,Kings,16 - 15,1,N/A,N/A,N/A
+48,Alex Len,TURNOVER,None,5:54,1,Hawks,Kings,16 - 15,1,N/A,N/A,N/A
+49,Omari Spellman,SUBSTITUTION,Prince Taurean,5:54,1,Hawks,Kings,16 - 15,1,N/A,N/A,N/A
+50,Kevin Huerter,SUBSTITUTION,Carter Vince,5:54,1,Hawks,Kings,16 - 15,1,N/A,N/A,N/A
+51,Dewayne Dedmon,SUBSTITUTION,Len Alex,5:54,1,Hawks,Kings,16 - 15,1,N/A,N/A,N/A
+52,Marvin Bagley,SUBSTITUTION,Bjelica Nemanja,5:54,1,Kings,Hawks,16 - 15,0,N/A,N/A,N/A
+53,De'Aaron Fox,FG_MISS,None,5:46,1,Kings,Hawks,16 - 15,0,18,2,Jumper
+54,Willie Cauley-Stein,OFFENSIVE_REBOUND,None,5:42,1,Kings,Hawks,16 - 15,0,N/A,N/A,N/A
+55,Buddy Hield,FG_ASSISTED,De'Aaron Fox,5:40,1,Kings,Hawks,19 - 15,0,24,3,Jumper
+56,Kevin Huerter,FG_ASSISTED,Trae Young,5:26,1,Hawks,Kings,19 - 18,1,25,3,Jumper
+57,Marvin Bagley,FG_MISS,None,5:09,1,Kings,Hawks,19 - 18,0,7,2,Jumper
+58,Dewayne Dedmon,DEFENSIVE_REBOUND,None,5:05,1,Hawks,Kings,19 - 18,1,N/A,N/A,N/A
+59,Kent Bazemore,FG_MISS,None,5:00,1,Hawks,Kings,19 - 18,1,0,2,Layup
+60,De'Aaron Fox,DEFENSIVE_REBOUND,None,4:54,1,Kings,Hawks,19 - 18,0,N/A,N/A,N/A
+61,Willie Cauley-Stein,FG_ASSISTED,De'Aaron Fox,4:46,1,Kings,Hawks,21 - 18,0,0,2,Dunk
+62,Trae Young,TURNOVER,Willie Cauley-Stein,4:30,1,Hawks,Kings,21 - 18,1,N/A,N/A,N/A
+63,Buddy Hield,FOUL_ON_FLOOR,None,4:27,1,Kings,Hawks,21 - 18,0,N/A,N/A,N/A
+64,Buddy Hield,TURNOVER,None,4:27,1,Kings,Hawks,21 - 18,0,N/A,N/A,N/A
+65,Jeremy Lin,SUBSTITUTION,Young Trae,4:27,1,Hawks,Kings,21 - 18,1,N/A,N/A,N/A
+66,DeAndre' Bembry,SUBSTITUTION,Huerter Kevin,4:27,1,Hawks,Kings,21 - 18,1,N/A,N/A,N/A
+67,Frank Mason,SUBSTITUTION,Cauley-Stein Willie,4:27,1,Kings,Hawks,21 - 18,0,N/A,N/A,N/A
+68,Kosta Koufos,SUBSTITUTION,Fox De'Aaron,4:27,1,Kings,Hawks,21 - 18,0,N/A,N/A,N/A
+69,Jeremy Lin,TURNOVER,Buddy Hield,4:18,1,Hawks,Kings,21 - 18,1,N/A,N/A,N/A
+70,Buddy Hield,FG_MISS,None,4:07,1,Kings,Hawks,21 - 18,0,19,2,Jumper
+71,Dewayne Dedmon,DEFENSIVE_REBOUND,None,4:05,1,Hawks,Kings,21 - 18,1,N/A,N/A,N/A
+72,Dewayne Dedmon,FG_ASSISTED,Kent Bazemore,3:54,1,Hawks,Kings,21 - 20,1, ,2,Jumper
+73,Kosta Koufos's,FG_MISS,Dewayne Dedmon,3:38,1,Hawks,Kings,21 - 20,0,0,2,Layup
+74,Team,DEFENSIVE_REBOUND,None,3:38,1,Hawks,Kings,21 - 20,1,N/A,N/A,N/A
+75,Taurean Prince,SUBSTITUTION,Bazemore Kent,3:38,1,Hawks,Kings,21 - 20,1,N/A,N/A,N/A
+76,Justin Jackson,SUBSTITUTION,Shumpert Iman,3:38,1,Kings,Hawks,21 - 20,0,N/A,N/A,N/A
+77,Frank Mason,FOUL_ON_FLOOR,None,3:22,1,Kings,Hawks,21 - 20,0,N/A,N/A,N/A
+78,Jeremy Lin,FG_UNASSISTED,None,3:17,1,Hawks,Kings,21 - 22,1,0,2,Layup
+79,Team,Unknown,None,2:58,1,Kings,Hawks,21 - 22,0,N/A,N/A,N/A
+80,Buddy Hield,FG_ASSISTED,Justin Jackson,2:56,1,Kings,Hawks,24 - 22,0,25,3,Jumper
+81,Dewayne Dedmon,FOUL_ON_FLOOR,None,2:56,1,Hawks,Kings,24 - 22,1,N/A,N/A,N/A
+82,Buddy Hield,FT,None,2:56,1,Kings,Hawks,25 - 22,0,N/A,1,N/A
+83,DeAndre' Bembry,FG_ASSISTED,Taurean Prince,2:44,1,Hawks,Kings,25 - 25,1,23,3,Jumper
+84,Kosta Koufos,FG_MISS,None,2:29,1,Kings,Hawks,25 - 25,0,6,2,Jumper
+85,Kosta Koufos,OFFENSIVE_REBOUND,None,2:23,1,Kings,Hawks,25 - 25,0,N/A,N/A,N/A
+86,Kosta Koufos,FG_UNASSISTED,None,2:23,1,Kings,Hawks,27 - 25,0, ,2,Jumper
+87,Jeremy Lin,FG_MISS,None,2:15,1,Hawks,Kings,27 - 25,1,24,3,Jumper
+88,Buddy Hield,DEFENSIVE_REBOUND,None,2:12,1,Kings,Hawks,27 - 25,0,N/A,N/A,N/A
+89,Kosta Koufos,FG_ASSISTED,Justin Jackson,2:02,1,Kings,Hawks,29 - 25,0, ,2,Jumper
+90,Dewayne Dedmon,FG_ASSISTED,Taurean Prince,1:42,1,Hawks,Kings,29 - 27,1,0,2,Layup
+91,Frank Mason,FG_MISS,None,1:31,1,Kings,Hawks,29 - 27,0, ,2,Jumper
+92,Marvin Bagley,OFFENSIVE_REBOUND,None,1:23,1,Kings,Hawks,29 - 27,0,N/A,N/A,N/A
+93,Marvin Bagley,FG_UNASSISTED,None,1:23,1,Kings,Hawks,31 - 27,0, ,2,Jumper
+94,Frank Mason,FOUL_ON_FLOOR,None,1:20,1,Kings,Hawks,31 - 27,0,N/A,N/A,N/A
+95,Jeremy Lin,FT_MISS,None,1:20,1,Hawks,Kings,31 - 27,1,N/A,1,N/A
+96,Team,OFFENSIVE_REBOUND,None,1:20,1,Hawks,Kings,31 - 27,1,N/A,N/A,N/A
+97,Alex Len,SUBSTITUTION,Spellman Omari,1:20,1,Hawks,Kings,31 - 27,1,N/A,N/A,N/A
+98,Alex Poythress,SUBSTITUTION,Dedmon Dewayne,1:20,1,Hawks,Kings,31 - 27,1,N/A,N/A,N/A
+99,Jeremy Lin,FT_MISS,None,1:20,1,Hawks,Kings,31 - 27,1,N/A,1,N/A
+100,Kosta Koufos,DEFENSIVE_REBOUND,None,1:17,1,Kings,Hawks,31 - 27,0,N/A,N/A,N/A
+101,Buddy Hield,FG_MISS,None,1:05,1,Kings,Hawks,31 - 27,0,24,2,Jumper
+102,Taurean Prince,DEFENSIVE_REBOUND,None,59.0,1,Hawks,Kings,31 - 27,1,N/A,N/A,N/A
+103,DeAndre' Bembry,FG_ASSISTED,Taurean Prince,55.1,1,Hawks,Kings,31 - 29,1,0,2,Layup
+104,Kosta Koufos,FG_ASSISTED,ason III,40.3,1,Kings,Hawks,33 - 29,0, ,2,Jumper
+105,Jeremy Lin,TURNOVER,ason III,30.7,1,Hawks,Kings,33 - 29,1,N/A,N/A,N/A
+106,Buddy Hield,FG_ASSISTED,ason III,28.1,1,Kings,Hawks,35 - 29,0, ,2,Jumper
+107,Taurean Prince,FOUL_ON_FLOOR,None,28.1,1,Hawks,Kings,35 - 29,1,N/A,N/A,N/A
+108,Trae Young,SUBSTITUTION,Poythress Alex,28.1,1,Hawks,Kings,35 - 29,1,N/A,N/A,N/A
+109,Yogi Ferrell,SUBSTITUTION,III Mason,28.1,1,Kings,Hawks,35 - 29,0,N/A,N/A,N/A
+110,Buddy Hield,FT_MISS,None,28.1,1,Kings,Hawks,35 - 29,0,N/A,1,N/A
+111,Alex Len,DEFENSIVE_REBOUND,None,28.1,1,Hawks,Kings,35 - 29,1,N/A,N/A,N/A
+112,Taurean Prince,FG_MISS,None,6.4,1,Hawks,Kings,35 - 29,1,23,3,Jumper
+113,Alex Len,OFFENSIVE_REBOUND,None,3.5,1,Hawks,Kings,35 - 29,1,N/A,N/A,N/A
+114,Jeremy Lin,FG_MISS,None,1.1,1,Hawks,Kings,35 - 29,1,26,3,Jumper
+115,Team,OFFENSIVE_REBOUND,None,1.1,1,Hawks,Kings,35 - 29,1,N/A,N/A,N/A
+116,End of,Unknown,None,0.0,1,Hawks,Kings,35 - 29,1,N/A,N/A,N/A
+0,Alex Poythress,SUBSTITUTION,Lin Jeremy,12:00,2,Hawks,Kings,35 - 29,1,N/A,N/A,N/A
+1,Kent Bazemore,SUBSTITUTION,Bembry DeAndre',12:00,2,Hawks,Kings,35 - 29,1,N/A,N/A,N/A
+2,Marvin Bagley,FOUL_ON_FLOOR,None,11:48,2,Kings,Hawks,35 - 29,0,N/A,N/A,N/A
+3,Marvin Bagley,TURNOVER,None,11:48,2,Kings,Hawks,35 - 29,0,N/A,N/A,N/A
+4,Trae Young,FG_MISS,None,11:38,2,Hawks,Kings,35 - 29,1, ,2,Jumper
+5,Kosta Koufos,DEFENSIVE_REBOUND,None,11:34,2,Kings,Hawks,35 - 29,0,N/A,N/A,N/A
+6,Kosta Koufos,FG_ASSISTED,Buddy Hield,11:26,2,Kings,Hawks,37 - 29,0,4,2,Jumper
+7,Trae Young,TURNOVER,Kosta Koufos,11:15,2,Hawks,Kings,37 - 29,1,N/A,N/A,N/A
+8,Marvin Bagley,FG_ASSISTED,Yogi Ferrell,11:10,2,Kings,Hawks,39 - 29,0, ,2,Jumper
+9,Taurean Prince,TURNOVER,None,11:02,2,Hawks,Kings,39 - 29,1,N/A,N/A,N/A
+10,Willie Cauley-Stein,SUBSTITUTION,Hield Buddy,11:02,2,Kings,Hawks,39 - 29,0,N/A,N/A,N/A
+11,De'Aaron Fox,SUBSTITUTION,Koufos Kosta,11:02,2,Kings,Hawks,39 - 29,0,N/A,N/A,N/A
+12,De'Aaron Fox,TURNOVER,Kent Bazemore,10:46,2,Kings,Hawks,39 - 29,0,N/A,N/A,N/A
+13,Alex Poythress,FG_ASSISTED,Taurean Prince,10:41,2,Hawks,Kings,39 - 31,1,0,2,Dunk
+14,Justin Jackson,FG_UNASSISTED,None,10:34,2,Kings,Hawks,41 - 31,0,0,2,Layup
+15,Taurean Prince,FOUL_ON_FLOOR,None,10:34,2,Hawks,Kings,41 - 31,1,N/A,N/A,N/A
+16,Justin Jackson,FT,None,10:34,2,Kings,Hawks,42 - 31,0,N/A,1,N/A
+17,Trae Young,FG_ASSISTED,Kent Bazemore,10:18,2,Hawks,Kings,42 - 33,1,0,2,Layup
+18,Justin Jackson,FG_MISS,None,10:07,2,Kings,Hawks,42 - 33,0,15,2,Jumper
+19,Alex Poythress,DEFENSIVE_REBOUND,None,10:04,2,Hawks,Kings,42 - 33,1,N/A,N/A,N/A
+20,Taurean Prince,TURNOVER,Yogi Ferrell,9:49,2,Hawks,Kings,42 - 33,1,N/A,N/A,N/A
+21,De'Aaron Fox,FG_ASSISTED,Yogi Ferrell,9:44,2,Kings,Hawks,44 - 33,0,0,2,Dunk
+22,Team,Unknown,None,9:44,2,Hawks,Kings,42 - 33,1,N/A,N/A,N/A
+23,Vince Carter,SUBSTITUTION,Prince Taurean,9:44,2,Hawks,Kings,44 - 33,1,N/A,N/A,N/A
+24,DeAndre' Bembry,SUBSTITUTION,Poythress Alex,9:44,2,Hawks,Kings,44 - 33,1,N/A,N/A,N/A
+25,Dewayne Dedmon,SUBSTITUTION,Len Alex,9:44,2,Hawks,Kings,44 - 33,1,N/A,N/A,N/A
+26,Yogi Ferrell,FOUL_ON_FLOOR,None,9:32,2,Kings,Hawks,44 - 33,0,N/A,N/A,N/A
+27,Vince Carter,FG_MISS,None,9:22,2,Hawks,Kings,44 - 33,1,26,3,Jumper
+28,Willie Cauley-Stein,DEFENSIVE_REBOUND,None,9:18,2,Kings,Hawks,44 - 33,0,N/A,N/A,N/A
+29,Yogi Ferrell,FG_MISS,None,9:16,2,Kings,Hawks,44 - 33,0,26,3,Jumper
+30,Trae Young,DEFENSIVE_REBOUND,None,9:12,2,Hawks,Kings,44 - 33,1,N/A,N/A,N/A
+31,Trae Young,FG_MISS,None,9:07,2,Hawks,Kings,44 - 33,1, ,2,Jumper
+32,Willie Cauley-Stein,DEFENSIVE_REBOUND,None,9:04,2,Kings,Hawks,44 - 33,0,N/A,N/A,N/A
+33,Marvin Bagley,FG_ASSISTED,Justin Jackson,8:57,2,Kings,Hawks,46 - 33,0,12,2,Jumper
+34,DeAndre' Bembry,FG_ASSISTED,Trae Young,8:44,2,Hawks,Kings,46 - 35,1,0,2,Layup
+35,De'Aaron Fox,FG_MISS,None,8:24,2,Kings,Hawks,46 - 35,0,25,3,Jumper
+36,DeAndre' Bembry,DEFENSIVE_REBOUND,None,8:20,2,Hawks,Kings,46 - 35,1,N/A,N/A,N/A
+37,Kent Bazemore,FG_MISS,None,8:14,2,Hawks,Kings,46 - 35,1,24,3,Jumper
+38,Yogi Ferrell,DEFENSIVE_REBOUND,None,8:12,2,Kings,Hawks,46 - 35,0,N/A,N/A,N/A
+39,Dewayne Dedmon,FOUL_ON_FLOOR,None,8:12,2,Hawks,Kings,46 - 35,1,N/A,N/A,N/A
+40,Jeremy Lin,SUBSTITUTION,Young Trae,8:12,2,Hawks,Kings,46 - 35,1,N/A,N/A,N/A
+41,Nemanja Bjelica,SUBSTITUTION,III Bagley,8:12,2,Kings,Hawks,46 - 35,0,N/A,N/A,N/A
+42,Willie Cauley-Stein,TURNOVER,Dewayne Dedmon,7:57,2,Kings,Hawks,46 - 35,0,N/A,N/A,N/A
+43,Kent Bazemore,FG_UNASSISTED,None,7:52,2,Hawks,Kings,46 - 37,1, ,2,Jumper
+44,Willie Cauley-Stein,FG_ASSISTED,Yogi Ferrell,7:41,2,Kings,Hawks,48 - 37,0,0,2,Dunk
+45,Kent Bazemore,FG_UNASSISTED,None,7:27,2,Hawks,Kings,48 - 39,1,11,2,Jumper
+46,Nemanja Bjelica,FG_MISS,None,7:10,2,Kings,Hawks,48 - 39,0, ,2,Jumper
+47,De'Aaron Fox,OFFENSIVE_REBOUND,None,7:07,2,Kings,Hawks,48 - 39,0,N/A,N/A,N/A
+48,Nemanja Bjelica,FG_UNASSISTED,None,6:58,2,Kings,Hawks,50 - 39,0,0,2,Layup
+49,Jeremy Lin,FG_UNASSISTED,None,6:49,2,Hawks,Kings,50 - 41,1,0,2,Layup
+50,Willie Cauley-Stein's,FG_MISS,Jeremy Lin,6:43,2,Hawks,Kings,50 - 41,0,0,2,Layup
+51,Dewayne Dedmon,DEFENSIVE_REBOUND,None,6:39,2,Hawks,Kings,50 - 41,1,N/A,N/A,N/A
+52,DeAndre' Bembry,TURNOVER,None,6:38,2,Hawks,Kings,50 - 41,1,N/A,N/A,N/A
+53,DeAndre' Bembry,TURNOVER,None,6:38,2,Hawks,Kings,50 - 41,1,N/A,N/A,N/A
+54,Iman Shumpert,SUBSTITUTION,Jackson Justin,6:38,2,Kings,Hawks,50 - 41,0,N/A,N/A,N/A
+55,Alex Poythress,SUBSTITUTION,Carter Vince,6:38,2,Hawks,Kings,50 - 41,1,N/A,N/A,N/A
+56,De'Aaron Fox,FG_UNASSISTED,None,6:18,2,Kings,Hawks,52 - 41,0,0,2,Layup
+57,Dewayne Dedmon,FOUL_ON_FLOOR,None,6:18,2,Hawks,Kings,52 - 41,1,N/A,N/A,N/A
+58,De'Aaron Fox,FT,None,6:18,2,Kings,Hawks,53 - 41,0,N/A,1,N/A
+59,DeAndre' Bembry,FG_UNASSISTED,None,5:55,2,Hawks,Kings,53 - 43,1,0,2,Layup
+60,Nemanja Bjelica,TURNOVER,None,5:37,2,Kings,Hawks,53 - 43,0,N/A,N/A,N/A
+61,Alex Len,SUBSTITUTION,Dedmon Dewayne,5:37,2,Hawks,Kings,53 - 43,1,N/A,N/A,N/A
+62,De'Aaron Fox,FOUL_ON_FLOOR,None,5:27,2,Kings,Hawks,53 - 43,0,N/A,N/A,N/A
+63,Jeremy Lin,FT,None,5:27,2,Hawks,Kings,53 - 44,1,N/A,1,N/A
+64,Buddy Hield,SUBSTITUTION,Ferrell Yogi,5:27,2,Kings,Hawks,53 - 44,0,N/A,N/A,N/A
+65,Tyler Dorsey,SUBSTITUTION,Bazemore Kent,5:27,2,Hawks,Kings,53 - 44,1,N/A,N/A,N/A
+66,Jeremy Lin,FT,None,5:27,2,Hawks,Kings,53 - 45,1,N/A,1,N/A
+67,Tyler Dorsey,FOUL_ON_FLOOR,None,5:17,2,Hawks,Kings,53 - 45,1,N/A,N/A,N/A
+68,Alex Poythress,FOUL_ON_FLOOR,None,5:13,2,Hawks,Kings,53 - 45,1,N/A,N/A,N/A
+69,Nemanja Bjelica,FT,None,5:13,2,Kings,Hawks,54 - 45,0,N/A,1,N/A
+70,Nemanja Bjelica,FT,None,5:13,2,Kings,Hawks,55 - 45,0,N/A,1,N/A
+71,Jeremy Lin,TURNOVER,Willie Cauley-Stein,4:53,2,Hawks,Kings,55 - 45,1,N/A,N/A,N/A
+72,Buddy Hield,FG_ASSISTED,De'Aaron Fox,4:49,2,Kings,Hawks,58 - 45,0,22,3,Jumper
+73,Iman Shumpert,FOUL_ON_FLOOR,None,4:42,2,Kings,Hawks,58 - 45,0,N/A,N/A,N/A
+74,Jeremy Lin,FT,None,4:42,2,Hawks,Kings,58 - 46,1,N/A,1,N/A
+75,Jeremy Lin,FT,None,4:42,2,Hawks,Kings,58 - 47,1,N/A,1,N/A
+76,Jeremy Lin,Unknown,None,4:31,2,Hawks,Kings,58 - 47,1,N/A,N/A,N/A
+77,Trae Young,SUBSTITUTION,Lin Jeremy,4:31,2,Hawks,Kings,58 - 47,1,N/A,N/A,N/A
+78,Taurean Prince,SUBSTITUTION,Bembry DeAndre',4:31,2,Hawks,Kings,58 - 47,1,N/A,N/A,N/A
+79,Nemanja Bjelica,TURNOVER,None,4:27,2,Kings,Hawks,58 - 47,0,N/A,N/A,N/A
+80,Team,Unknown,None,4:27,2,Kings,Hawks,58 - 47,0,N/A,N/A,N/A
+81,Taurean Prince,FG_ASSISTED,Trae Young,4:15,2,Hawks,Kings,58 - 50,1,22,3,Jumper
+82,Iman Shumpert,FG_ASSISTED,De'Aaron Fox,4:03,2,Kings,Hawks,61 - 50,0,25,3,Jumper
+83,Willie Cauley-Stein,FOUL_ON_FLOOR,None,3:49,2,Kings,Hawks,61 - 50,0,N/A,N/A,N/A
+84,Alex Len,FT,None,3:49,2,Hawks,Kings,61 - 51,1,N/A,1,N/A
+85,Marvin Bagley,SUBSTITUTION,Cauley-Stein Willie,3:49,2,Kings,Hawks,61 - 51,0,N/A,N/A,N/A
+86,Alex Len,FT,None,3:49,2,Hawks,Kings,61 - 52,1,N/A,1,N/A
+87,Iman Shumpert,FG_MISS,None,3:26,2,Kings,Hawks,61 - 52,0,25,2,Jumper
+88,Taurean Prince,DEFENSIVE_REBOUND,None,3:22,2,Hawks,Kings,61 - 52,1,N/A,N/A,N/A
+89,Taurean Prince,FG_ASSISTED,Trae Young,3:07,2,Hawks,Kings,61 - 54,1,0,2,Layup
+90,Alex Len,FOUL_ON_FLOOR,None,3:00,2,Hawks,Kings,61 - 54,1,N/A,N/A,N/A
+91,Marvin Bagley,FT,None,3:00,2,Kings,Hawks,62 - 54,0,N/A,1,N/A
+92,Omari Spellman,SUBSTITUTION,Len Alex,3:00,2,Hawks,Kings,62 - 54,1,N/A,N/A,N/A
+93,Marvin Bagley,FT,None,3:00,2,Kings,Hawks,63 - 54,0,N/A,1,N/A
+94,Tyler Dorsey,FG_ASSISTED,Omari Spellman,2:44,2,Hawks,Kings,63 - 56,1,0,2,Layup
+95,Iman Shumpert,FG_ASSISTED,De'Aaron Fox,2:32,2,Kings,Hawks,65 - 56,0,0,2,Layup
+96,Buddy Hield,FOUL_ON_FLOOR,None,2:12,2,Kings,Hawks,65 - 56,0,N/A,N/A,N/A
+97,Team,Unknown,None,2:12,2,Kings,Hawks,65 - 56,0,N/A,N/A,N/A
+98,Alex Poythress,FT,None,2:12,2,Hawks,Kings,65 - 57,1,N/A,1,N/A
+99,Alex Poythress,FT,None,2:12,2,Hawks,Kings,65 - 58,1,N/A,1,N/A
+100,Buddy Hield,TURNOVER,Tyler Dorsey,1:53,2,Kings,Hawks,65 - 58,0,N/A,N/A,N/A
+101,Trae Young,FG_MISS,None,1:47,2,Hawks,Kings,65 - 58,1,2,2,Jumper
+102,De'Aaron Fox,DEFENSIVE_REBOUND,None,1:44,2,Kings,Hawks,65 - 58,0,N/A,N/A,N/A
+103,Buddy Hield,FG_MISS,None,1:40,2,Kings,Hawks,65 - 58,0,26,2,Jumper
+104,Alex Poythress,DEFENSIVE_REBOUND,None,1:40,2,Hawks,Kings,65 - 58,1,N/A,N/A,N/A
+105,Trae Young,FG_UNASSISTED,None,1:21,2,Hawks,Kings,65 - 60,1,0,2,Layup
+106,Nemanja Bjelica,FOUL_ON_FLOOR,None,1:21,2,Kings,Hawks,65 - 60,0,N/A,N/A,N/A
+107,Trae Young,FT_MISS,None,1:21,2,Hawks,Kings,65 - 60,1,N/A,1,N/A
+108,Omari Spellman,OFFENSIVE_REBOUND,None,1:21,2,Hawks,Kings,65 - 60,1,N/A,N/A,N/A
+109,Iman Shumpert,FOUL_ON_FLOOR,None,1:16,2,Kings,Hawks,65 - 60,0,N/A,N/A,N/A
+110,Trae Young,FT,None,1:16,2,Hawks,Kings,65 - 61,1,N/A,1,N/A
+111,Trae Young,FT,None,1:16,2,Hawks,Kings,65 - 62,1,N/A,1,N/A
+112,De'Aaron Fox,FG_MISS,None,1:05,2,Kings,Hawks,65 - 62,0,18,2,Jumper
+113,Marvin Bagley,OFFENSIVE_REBOUND,None,1:01,2,Kings,Hawks,65 - 62,0,N/A,N/A,N/A
+114,Marvin Bagley,FG_MISS,None,1:01,2,Kings,Hawks,65 - 62,0, ,2,Jumper
+115,Team,DEFENSIVE_REBOUND,None,1:01,2,Hawks,Kings,65 - 62,1,N/A,N/A,N/A
+116,Marvin Bagley,JUMP_BALL,None,59.6,2,Hawks,Kings,65 - 62,1,N/A,N/A,N/A
+117,Tyler Dorsey,FG_ASSISTED,Trae Young,52.8,2,Hawks,Kings,65 - 64,1, ,2,Jumper
+118,Buddy Hield,FG_ASSISTED,De'Aaron Fox,27.5,2,Kings,Hawks,67 - 64,0,0,2,Layup
+119,Trae Young,FG_MISS,None,8.3,2,Hawks,Kings,67 - 64,1,0,2,Layup
+120,Nemanja Bjelica,DEFENSIVE_REBOUND,None,6.1,2,Kings,Hawks,67 - 64,0,N/A,N/A,N/A
+121,Marvin Bagley,FG_ASSISTED,De'Aaron Fox,4.0,2,Kings,Hawks,69 - 64,0,0,2,Dunk
+122,Taurean Prince,FG_MISS,None,0.5,2,Hawks,Kings,69 - 64,1,35,3,Jumper
+123,Team,OFFENSIVE_REBOUND,None,0.5,2,Hawks,Kings,69 - 64,1,N/A,N/A,N/A
+124,End of,Unknown,None,0.0,2,Hawks,Kings,69 - 64,1,N/A,N/A,N/A
+0,Vince Carter,SUBSTITUTION,Dorsey Tyler,12:00,3,Hawks,Kings,69 - 64,1,N/A,N/A,N/A
+1,Alex Len,SUBSTITUTION,Poythress Alex,12:00,3,Hawks,Kings,69 - 64,1,N/A,N/A,N/A
+2,Kent Bazemore,SUBSTITUTION,Spellman Omari,12:00,3,Hawks,Kings,69 - 64,1,N/A,N/A,N/A
+3,Willie Cauley-Stein,SUBSTITUTION,III Bagley,12:00,3,Kings,Hawks,69 - 64,0,N/A,N/A,N/A
+4,Willie Cauley-Stein,TURNOVER,Taurean Prince,11:47,3,Kings,Hawks,69 - 64,0,N/A,N/A,N/A
+5,Trae Young,FG_MISS,None,11:33,3,Hawks,Kings,69 - 64,1,0,2,Layup
+6,Alex Len,OFFENSIVE_REBOUND,None,11:27,3,Hawks,Kings,69 - 64,1,N/A,N/A,N/A
+7,Alex Len,FG_MISS,None,11:27,3,Hawks,Kings,69 - 64,1,0,2,Dunk
+8,Buddy Hield,DEFENSIVE_REBOUND,None,11:26,3,Kings,Hawks,69 - 64,0,N/A,N/A,N/A
+9,De'Aaron Fox,FG_ASSISTED,Nemanja Bjelica,11:22,3,Kings,Hawks,71 - 64,0,17,2,Jumper
+10,Taurean Prince,FG_MISS,None,11:06,3,Hawks,Kings,71 - 64,1,26,3,Jumper
+11,Willie Cauley-Stein,DEFENSIVE_REBOUND,None,11:03,3,Kings,Hawks,71 - 64,0,N/A,N/A,N/A
+12,Buddy Hield,FG_ASSISTED,Iman Shumpert,10:57,3,Kings,Hawks,73 - 64,0,0,2,Layup
+13,Team,Unknown,None,10:57,3,Hawks,Kings,73 - 64,1,N/A,N/A,N/A
+14,Trae Young,FG_MISS,None,10:42,3,Hawks,Kings,73 - 64,1, ,2,Jumper
+15,Kent Bazemore,OFFENSIVE_REBOUND,None,10:38,3,Hawks,Kings,73 - 64,1,N/A,N/A,N/A
+16,Taurean Prince,FG_ASSISTED,Kent Bazemore,10:36,3,Hawks,Kings,73 - 66,1, ,2,Jumper
+17,Willie Cauley-Stein,FG_ASSISTED,Nemanja Bjelica,10:19,3,Kings,Hawks,75 - 66,0,11,2,Jumper
+18,Trae Young,FG_ASSISTED,Alex Len,10:01,3,Hawks,Kings,75 - 68,1,0,2,Layup
+19,Buddy Hield,FG_UNASSISTED,None,9:53,3,Kings,Hawks,77 - 68,0,0,2,Layup
+20,Kent Bazemore,FG_UNASSISTED,None,9:38,3,Hawks,Kings,77 - 71,1, ,3,Jumper
+21,Nemanja Bjelica,FG_MISS,None,9:21,3,Kings,Hawks,77 - 71,0,29,3,Jumper
+22,Trae Young,DEFENSIVE_REBOUND,None,9:18,3,Hawks,Kings,77 - 71,1,N/A,N/A,N/A
+23,Alex Len,FG_ASSISTED,Trae Young,9:13,3,Hawks,Kings,77 - 73,1,0,2,Dunk
+24,Trae Young,FOUL_ON_FLOOR,None,8:59,3,Hawks,Kings,77 - 73,1,N/A,N/A,N/A
+25,De'Aaron Fox,FT,None,8:59,3,Kings,Hawks,78 - 73,0,N/A,1,N/A
+26,Dewayne Dedmon,SUBSTITUTION,Len Alex,8:59,3,Hawks,Kings,78 - 73,1,N/A,N/A,N/A
+27,De'Aaron Fox,FT,None,8:59,3,Kings,Hawks,79 - 73,0,N/A,1,N/A
+28,Trae Young,TURNOVER,De'Aaron Fox,8:47,3,Hawks,Kings,79 - 73,1,N/A,N/A,N/A
+29,Buddy Hield,FG_ASSISTED,De'Aaron Fox,8:43,3,Kings,Hawks,82 - 73,0,26,3,Jumper
+30,Trae Young,TURNOVER,None,8:19,3,Hawks,Kings,82 - 73,1,N/A,N/A,N/A
+31,Buddy Hield,FG_MISS,None,8:09,3,Kings,Hawks,82 - 73,0, ,2,Jumper
+32,Dewayne Dedmon,DEFENSIVE_REBOUND,None,8:05,3,Hawks,Kings,82 - 73,1,N/A,N/A,N/A
+33,Kent Bazemore,FG_MISS,None,7:58,3,Hawks,Kings,82 - 73,1, ,2,Jumper
+34,Kent Bazemore,OFFENSIVE_REBOUND,None,7:52,3,Hawks,Kings,82 - 73,1,N/A,N/A,N/A
+35,Kent Bazemore,FG_MISS,None,7:52,3,Hawks,Kings,82 - 73,1, ,2,Jumper
+36,De'Aaron Fox,DEFENSIVE_REBOUND,None,7:52,3,Kings,Hawks,82 - 73,0,N/A,N/A,N/A
+37,Iman Shumpert,FG_MISS,None,7:48,3,Kings,Hawks,82 - 73,0,25,3,Jumper
+38,De'Aaron Fox,OFFENSIVE_REBOUND,None,7:43,3,Kings,Hawks,82 - 73,0,N/A,N/A,N/A
+39,Nemanja Bjelica,FG_ASSISTED,Buddy Hield,7:42,3,Kings,Hawks,85 - 73,0,23,3,Jumper
+40,Nemanja Bjelica,FOUL_ON_FLOOR,None,7:34,3,Kings,Hawks,85 - 73,0,N/A,N/A,N/A
+41,Omari Spellman,SUBSTITUTION,Young Trae,7:34,3,Hawks,Kings,85 - 73,1,N/A,N/A,N/A
+42,Jeremy Lin,SUBSTITUTION,Carter Vince,7:34,3,Hawks,Kings,85 - 73,1,N/A,N/A,N/A
+43,Dewayne Dedmon,FG_MISS,None,7:31,3,Hawks,Kings,85 - 73,1,25,3,Jumper
+44,Iman Shumpert,DEFENSIVE_REBOUND,None,7:23,3,Kings,Hawks,85 - 73,0,N/A,N/A,N/A
+45,De'Aaron Fox,FG_UNASSISTED,None,7:21,3,Kings,Hawks,87 - 73,0,0,2,Layup
+46,Kent Bazemore,FOUL_ON_FLOOR,None,7:21,3,Hawks,Kings,87 - 73,1,N/A,N/A,N/A
+47,Kent Bazemore,FOUL_TECHNICAL,None,7:21,3,Hawks,Kings,87 - 73,1,N/A,N/A,N/A
+48,Buddy Hield,FT,None,7:21,3,Kings,Hawks,88 - 73,0,N/A,1,N/A
+49,Tyler Dorsey,SUBSTITUTION,Bazemore Kent,7:21,3,Hawks,Kings,88 - 73,1,N/A,N/A,N/A
+50,De'Aaron Fox,FT,None,7:21,3,Kings,Hawks,89 - 73,0,N/A,1,N/A
+51,De'Aaron Fox,FOUL_ON_FLOOR,None,7:08,3,Kings,Hawks,89 - 73,0,N/A,N/A,N/A
+52,Taurean Prince,TURNOVER,Iman Shumpert,7:01,3,Hawks,Kings,89 - 73,1,N/A,N/A,N/A
+53,Dewayne Dedmon,FOUL_ON_FLOOR,None,6:49,3,Hawks,Kings,89 - 73,1,N/A,N/A,N/A
+54,De'Aaron Fox,FT,None,6:49,3,Kings,Hawks,90 - 73,0,N/A,1,N/A
+55,DeAndre' Bembry,SUBSTITUTION,Prince Taurean,6:49,3,Hawks,Kings,90 - 73,1,N/A,N/A,N/A
+56,De'Aaron Fox,FT,None,6:49,3,Kings,Hawks,91 - 73,0,N/A,1,N/A
+57,DeAndre' Bembry,FG_UNASSISTED,None,6:36,3,Hawks,Kings,91 - 75,1, ,2,Jumper
+58,Buddy Hield,FG_MISS,None,6:29,3,Kings,Hawks,91 - 75,0,26,3,Jumper
+59,Jeremy Lin,DEFENSIVE_REBOUND,None,6:29,3,Hawks,Kings,91 - 75,1,N/A,N/A,N/A
+60,Jeremy Lin,FG_UNASSISTED,None,6:22,3,Hawks,Kings,91 - 77,1,0,2,Layup
+61,Nemanja Bjelica,FG_ASSISTED,De'Aaron Fox,6:06,3,Kings,Hawks,94 - 77,0,26,3,Jumper
+62,Nemanja Bjelica,FOUL_ON_FLOOR,None,5:51,3,Kings,Hawks,94 - 77,0,N/A,N/A,N/A
+63,Dewayne Dedmon,FT,None,5:51,3,Hawks,Kings,94 - 78,1,N/A,1,N/A
+64,Dewayne Dedmon,FT,None,5:51,3,Hawks,Kings,94 - 79,1,N/A,1,N/A
+65,Dewayne Dedmon,FOUL_ON_FLOOR,None,5:40,3,Hawks,Kings,94 - 79,1,N/A,N/A,N/A
+66,Alex Poythress,SUBSTITUTION,Dedmon Dewayne,5:40,3,Hawks,Kings,94 - 79,1,N/A,N/A,N/A
+67,Marvin Bagley,SUBSTITUTION,Bjelica Nemanja,5:40,3,Kings,Hawks,94 - 79,0,N/A,N/A,N/A
+68,De'Aaron Fox,FG_UNASSISTED,None,5:31,3,Kings,Hawks,97 - 79,0,25,3,Jumper
+69,Alex Poythress's,FG_MISS,Buddy Hield,5:16,3,Kings,Hawks,97 - 79,1,0,2,Layup
+70,Alex Poythress,OFFENSIVE_REBOUND,None,5:13,3,Hawks,Kings,97 - 79,1,N/A,N/A,N/A
+71,Alex Poythress,FG_MISS,None,5:11,3,Hawks,Kings,97 - 79,1, ,2,Jumper
+72,Alex Poythress,OFFENSIVE_REBOUND,None,5:11,3,Hawks,Kings,97 - 79,1,N/A,N/A,N/A
+73,DeAndre' Bembry,TURNOVER,None,5:10,3,Hawks,Kings,97 - 79,1,N/A,N/A,N/A
+74,De'Aaron Fox,TURNOVER,None,5:00,3,Kings,Hawks,97 - 79,0,N/A,N/A,N/A
+75,Tyler Dorsey,FG_MISS,None,4:47,3,Hawks,Kings,97 - 79,1,5,2,Jumper
+76,Willie Cauley-Stein,DEFENSIVE_REBOUND,None,4:44,3,Kings,Hawks,97 - 79,0,N/A,N/A,N/A
+77,Marvin Bagley,FG_ASSISTED,Buddy Hield,4:31,3,Kings,Hawks,99 - 79,0, ,2,Jumper
+78,Omari Spellman,FG_MISS,None,4:20,3,Hawks,Kings,99 - 79,1,12,2,Jumper
+79,DeAndre' Bembry,OFFENSIVE_REBOUND,None,4:20,3,Hawks,Kings,99 - 79,1,N/A,N/A,N/A
+80,Willie Cauley-Stein,FOUL_ON_FLOOR,None,4:20,3,Kings,Hawks,99 - 79,0,N/A,N/A,N/A
+81,DeAndre' Bembry,FT,None,4:20,3,Hawks,Kings,99 - 80,1,N/A,1,N/A
+82,DeAndre' Bembry,FT,None,4:20,3,Hawks,Kings,99 - 81,1,N/A,1,N/A
+83,Buddy Hield,FG_ASSISTED,De'Aaron Fox,4:09,3,Kings,Hawks,101 - 81,0,0,2,Layup
+84,Buddy Hield,FOUL_ON_FLOOR,None,4:00,3,Kings,Hawks,101 - 81,0,N/A,N/A,N/A
+85,DeAndre' Bembry,FT_MISS,None,4:00,3,Hawks,Kings,101 - 81,1,N/A,1,N/A
+86,Team,OFFENSIVE_REBOUND,None,4:00,3,Hawks,Kings,101 - 81,1,N/A,N/A,N/A
+87,Vince Carter,SUBSTITUTION,Poythress Alex,4:00,3,Hawks,Kings,101 - 81,1,N/A,N/A,N/A
+88,Team,Unknown,None,4:00,3,Kings,Hawks,101 - 81,0,N/A,N/A,N/A
+89,DeAndre' Bembry,FT_MISS,None,4:00,3,Hawks,Kings,101 - 81,1,N/A,1,N/A
+90,Iman Shumpert,DEFENSIVE_REBOUND,None,3:57,3,Kings,Hawks,101 - 81,0,N/A,N/A,N/A
+91,Buddy Hield,FG_MISS,Vince Carter,3:39,3,Hawks,Kings,101 - 81,0,0,2,Layup
+92,Team,OFFENSIVE_REBOUND,None,3:39,3,Kings,Hawks,101 - 81,0,N/A,N/A,N/A
+93,Willie Cauley-Stein,FG_ASSISTED,Iman Shumpert,3:37,3,Kings,Hawks,103 - 81,0,0,2,Dunk
+94,Jeremy Lin,FOUL_ON_FLOOR,None,3:37,3,Hawks,Kings,103 - 81,1,N/A,N/A,N/A
+95,Willie Cauley-Stein,FT_MISS,None,3:37,3,Kings,Hawks,103 - 81,0,N/A,1,N/A
+96,DeAndre' Bembry,DEFENSIVE_REBOUND,None,3:37,3,Hawks,Kings,103 - 81,1,N/A,N/A,N/A
+97,Tyler Dorsey,FG_MISS,None,3:26,3,Hawks,Kings,103 - 81,1,24,3,Jumper
+98,De'Aaron Fox,DEFENSIVE_REBOUND,None,3:24,3,Kings,Hawks,103 - 81,0,N/A,N/A,N/A
+99,Iman Shumpert,FG_MISS,None,3:18,3,Kings,Hawks,103 - 81,0, ,3,Jumper
+100,Tyler Dorsey,DEFENSIVE_REBOUND,None,3:14,3,Hawks,Kings,103 - 81,1,N/A,N/A,N/A
+101,Iman Shumpert,FOUL_ON_FLOOR,None,3:14,3,Kings,Hawks,103 - 81,0,N/A,N/A,N/A
+102,Tyler Dorsey,FT_MISS,None,3:14,3,Hawks,Kings,103 - 81,1,N/A,1,N/A
+103,Team,OFFENSIVE_REBOUND,None,3:14,3,Hawks,Kings,103 - 81,1,N/A,N/A,N/A
+104,Kosta Koufos,SUBSTITUTION,Cauley-Stein Willie,3:14,3,Kings,Hawks,103 - 81,0,N/A,N/A,N/A
+105,Justin Jackson,SUBSTITUTION,Shumpert Iman,3:14,3,Kings,Hawks,103 - 81,0,N/A,N/A,N/A
+106,Alex Len,SUBSTITUTION,Spellman Omari,3:14,3,Hawks,Kings,103 - 81,1,N/A,N/A,N/A
+107,Tyler Dorsey,FT,None,3:14,3,Hawks,Kings,103 - 82,1,N/A,1,N/A
+108,Vince Carter,FOUL_ON_FLOOR,None,3:09,3,Hawks,Kings,103 - 82,1,N/A,N/A,N/A
+109,Marvin Bagley,FT,None,3:09,3,Kings,Hawks,104 - 82,0,N/A,1,N/A
+110,Kent Bazemore,SUBSTITUTION,Dorsey Tyler,3:09,3,Hawks,Kings,104 - 82,1,N/A,N/A,N/A
+111,Marvin Bagley,FT,None,3:09,3,Kings,Hawks,105 - 82,0,N/A,1,N/A
+112,Jeremy Lin,FG_MISS,None,2:59,3,Hawks,Kings,105 - 82,1,26,3,Jumper
+113,Marvin Bagley,DEFENSIVE_REBOUND,None,2:54,3,Kings,Hawks,105 - 82,0,N/A,N/A,N/A
+114,De'Aaron Fox,FG_ASSISTED,Buddy Hield,2:41,3,Kings,Hawks,108 - 82,0,27,3,Jumper
+115,Jeremy Lin,FG_UNASSISTED,None,2:27,3,Hawks,Kings,108 - 84,1,0,2,Layup
+116,Buddy Hield,FOUL_ON_FLOOR,None,2:27,3,Kings,Hawks,108 - 84,0,N/A,N/A,N/A
+117,Jeremy Lin,FT,None,2:27,3,Hawks,Kings,108 - 85,1,N/A,1,N/A
+118,Kosta Koufos,FG_MISS,None,2:07,3,Kings,Hawks,108 - 85,0,11,2,Jumper
+119,Vince Carter,DEFENSIVE_REBOUND,None,2:03,3,Hawks,Kings,108 - 85,1,N/A,N/A,N/A
+120,Kent Bazemore,FG_MISS,None,1:53,3,Hawks,Kings,108 - 85,1,23,3,Jumper
+121,Buddy Hield,DEFENSIVE_REBOUND,None,1:50,3,Kings,Hawks,108 - 85,0,N/A,N/A,N/A
+122,De'Aaron Fox,FG_UNASSISTED,None,1:34,3,Kings,Hawks,111 - 85,0,25,3,Jumper
+123,Vince Carter,TURNOVER,Buddy Hield,1:23,3,Hawks,Kings,111 - 85,1,N/A,N/A,N/A
+124,Jeremy Lin,FOUL_ON_FLOOR,None,1:20,3,Hawks,Kings,111 - 85,1,N/A,N/A,N/A
+125,Justin Jackson,FT_MISS,None,1:20,3,Kings,Hawks,111 - 85,0,N/A,1,N/A
+126,Team,OFFENSIVE_REBOUND,None,1:20,3,Kings,Hawks,111 - 85,0,N/A,N/A,N/A
+127,Taurean Prince,SUBSTITUTION,Lin Jeremy,1:20,3,Hawks,Kings,111 - 85,1,N/A,N/A,N/A
+128,Alex Poythress,SUBSTITUTION,Carter Vince,1:20,3,Hawks,Kings,111 - 85,1,N/A,N/A,N/A
+129,Justin Jackson,FT,None,1:20,3,Kings,Hawks,112 - 85,0,N/A,1,N/A
+130,Trae Young,SUBSTITUTION,Bembry DeAndre',1:20,3,Hawks,Kings,112 - 85,1,N/A,N/A,N/A
+131,Alex Poythress,FG_MISS,Kosta Koufos,1:09,3,Kings,Hawks,112 - 85,1,0,2,Layup
+132,Team,OFFENSIVE_REBOUND,None,1:09,3,Hawks,Kings,112 - 85,1,N/A,N/A,N/A
+133,Yogi Ferrell,SUBSTITUTION,Hield Buddy,1:09,3,Kings,Hawks,112 - 85,0,N/A,N/A,N/A
+134,Alex Len,FOUL_ON_FLOOR,None,1:09,3,Hawks,Kings,112 - 85,1,N/A,N/A,N/A
+135,Alex Len,TURNOVER,None,1:09,3,Hawks,Kings,112 - 85,1,N/A,N/A,N/A
+136,De'Aaron Fox,FG_UNASSISTED,None,1:00,3,Kings,Hawks,114 - 85,0,0,2,Layup
+137,Marvin Bagley,FOUL_ON_FLOOR,None,49.6,3,Kings,Hawks,114 - 85,0,N/A,N/A,N/A
+138,Alex Len,FT_MISS,None,49.6,3,Hawks,Kings,114 - 85,1,N/A,1,N/A
+139,Team,OFFENSIVE_REBOUND,None,49.6,3,Hawks,Kings,114 - 85,1,N/A,N/A,N/A
+140,Alex Len,FT,None,49.6,3,Hawks,Kings,114 - 86,1,N/A,1,N/A
+141,Alex Poythress,FOUL_ON_FLOOR,None,41.9,3,Hawks,Kings,114 - 86,1,N/A,N/A,N/A
+142,De'Aaron Fox,FT_MISS,None,41.9,3,Kings,Hawks,114 - 86,0,N/A,1,N/A
+143,Team,OFFENSIVE_REBOUND,None,41.9,3,Kings,Hawks,114 - 86,0,N/A,N/A,N/A
+144,De'Aaron Fox,FT,None,41.9,3,Kings,Hawks,115 - 86,0,N/A,1,N/A
+145,Taurean Prince,FG_MISS,None,30.3,3,Hawks,Kings,115 - 86,1, ,2,Jumper
+146,Alex Poythress,OFFENSIVE_REBOUND,None,26.3,3,Hawks,Kings,115 - 86,1,N/A,N/A,N/A
+147,Kent Bazemore,FG_MISS,None,24.0,3,Hawks,Kings,115 - 86,1,25,3,Jumper
+148,Team,OFFENSIVE_REBOUND,None,24.0,3,Hawks,Kings,115 - 86,1,N/A,N/A,N/A
+149,Kosta Koufos,FOUL_ON_FLOOR,None,22.9,3,Kings,Hawks,115 - 86,0,N/A,N/A,N/A
+150,Alex Len,FT,None,22.9,3,Hawks,Kings,115 - 87,1,N/A,1,N/A
+151,Alex Len,FT_MISS,None,22.9,3,Hawks,Kings,115 - 87,1,N/A,1,N/A
+152,Kosta Koufos,DEFENSIVE_REBOUND,None,21.0,3,Kings,Hawks,115 - 87,0,N/A,N/A,N/A
+153,Alex Len,Unknown,None,4.0,3,Hawks,Kings,115 - 87,1,N/A,N/A,N/A
+154,Yogi Ferrell,FG_MISS,None,1.6,3,Kings,Hawks,115 - 87,0,25,3,Jumper
+155,Alex Len,DEFENSIVE_REBOUND,None,1.6,3,Hawks,Kings,115 - 87,1,N/A,N/A,N/A
+156,End of,Unknown,None,0.0,3,Hawks,Kings,115 - 87,1,N/A,N/A,N/A
+0,Frank Mason,SUBSTITUTION,Fox De'Aaron,12:00,4,Kings,Hawks,115 - 87,0,N/A,N/A,N/A
+1,Kosta Koufos,FOUL_ON_FLOOR,None,11:48,4,Kings,Hawks,115 - 87,0,N/A,N/A,N/A
+2,Alex Poythress,FT_MISS,None,11:48,4,Hawks,Kings,115 - 87,1,N/A,1,N/A
+3,Team,OFFENSIVE_REBOUND,None,11:48,4,Hawks,Kings,115 - 87,1,N/A,N/A,N/A
+4,Alex Poythress,FT,None,11:48,4,Hawks,Kings,115 - 88,1,N/A,1,N/A
+5,Kent Bazemore,FOUL_ON_FLOOR,None,11:32,4,Hawks,Kings,115 - 88,1,N/A,N/A,N/A
+6,Frank Mason,FG_MISS,None,11:26,4,Kings,Hawks,115 - 88,0,27,3,Jumper
+7,Marvin Bagley,OFFENSIVE_REBOUND,None,11:22,4,Kings,Hawks,115 - 88,0,N/A,N/A,N/A
+8,Yogi Ferrell,FG_MISS,None,11:19,4,Kings,Hawks,115 - 88,0,27,3,Jumper
+9,Taurean Prince,DEFENSIVE_REBOUND,None,11:17,4,Hawks,Kings,115 - 88,1,N/A,N/A,N/A
+10,Alex Len,TURNOVER,None,11:09,4,Hawks,Kings,115 - 88,1,N/A,N/A,N/A
+11,Yogi Ferrell,FG_MISS,None,10:54,4,Kings,Hawks,115 - 88,0, ,2,Jumper
+12,Kent Bazemore,DEFENSIVE_REBOUND,None,10:49,4,Hawks,Kings,115 - 88,1,N/A,N/A,N/A
+13,Trae Young,FG_ASSISTED,Taurean Prince,10:44,4,Hawks,Kings,115 - 90,1, ,2,Jumper
+14,Justin Jackson,FG_MISS,None,10:36,4,Kings,Hawks,115 - 90,0,26,3,Jumper
+15,Marvin Bagley,OFFENSIVE_REBOUND,None,10:36,4,Kings,Hawks,115 - 90,0,N/A,N/A,N/A
+16,Marvin Bagley,FG_UNASSISTED,None,10:32,4,Kings,Hawks,117 - 90,0, ,2,Jumper
+17,Alex Poythress,FG_ASSISTED,Trae Young,10:14,4,Hawks,Kings,117 - 92,1,0,2,Dunk
+18,Team,Unknown,None,10:14,4,Kings,Hawks,117 - 92,0,N/A,N/A,N/A
+19,Omari Spellman,SUBSTITUTION,Len Alex,10:14,4,Hawks,Kings,117 - 92,1,N/A,N/A,N/A
+20,Kent Bazemore,FOUL_ON_FLOOR,None,10:06,4,Hawks,Kings,117 - 92,1,N/A,N/A,N/A
+21,Frank Mason,FG_MISS,Kent Bazemore,9:51,4,Hawks,Kings,117 - 92,0,26,2,Jumper
+22,Alex Poythress,DEFENSIVE_REBOUND,None,9:46,4,Hawks,Kings,117 - 92,1,N/A,N/A,N/A
+23,Taurean Prince,FG_MISS,None,9:44,4,Hawks,Kings,117 - 92,1,25,3,Jumper
+24,Yogi Ferrell,DEFENSIVE_REBOUND,None,9:39,4,Kings,Hawks,117 - 92,0,N/A,N/A,N/A
+25,Frank Mason,FG_MISS,Omari Spellman,9:38,4,Hawks,Kings,117 - 92,0, ,2,Jumper
+26,Team,OFFENSIVE_REBOUND,None,9:38,4,Kings,Hawks,117 - 92,0,N/A,N/A,N/A
+27,Yogi Ferrell,FG_MISS,None,9:36,4,Kings,Hawks,117 - 92,0,25,3,Jumper
+28,Alex Poythress,DEFENSIVE_REBOUND,None,9:32,4,Hawks,Kings,117 - 92,1,N/A,N/A,N/A
+29,Kent Bazemore,FG_ASSISTED,Trae Young,9:30,4,Hawks,Kings,117 - 94,1,1,2,Jumper
+30,Kosta Koufos,Unknown,None,9:30,4,Kings,Hawks,117 - 94,0,N/A,N/A,N/A
+31,Omari Spellman,FOUL_ON_FLOOR,None,9:23,4,Hawks,Kings,117 - 94,1,N/A,N/A,N/A
+32,Buddy Hield,SUBSTITUTION,Ferrell Yogi,9:23,4,Kings,Hawks,117 - 94,0,N/A,N/A,N/A
+33,DeAndre' Bembry,SUBSTITUTION,Bazemore Kent,9:23,4,Hawks,Kings,117 - 94,1,N/A,N/A,N/A
+34,Frank Mason,FG_MISS,None,9:11,4,Kings,Hawks,117 - 94,0,25,3,Jumper
+35,Alex Poythress,DEFENSIVE_REBOUND,None,9:07,4,Hawks,Kings,117 - 94,1,N/A,N/A,N/A
+36,Trae Young,FG_UNASSISTED,None,9:04,4,Hawks,Kings,117 - 96,1,0,2,Layup
+37,Justin Jackson,FG_MISS,None,8:49,4,Kings,Hawks,117 - 96,0,23,3,Jumper
+38,Team,OFFENSIVE_REBOUND,None,8:49,4,Kings,Hawks,117 - 96,0,N/A,N/A,N/A
+39,Trae Young,FOUL_ON_FLOOR,None,8:49,4,Hawks,Kings,117 - 96,1,N/A,N/A,N/A
+40,Jeremy Lin,SUBSTITUTION,Poythress Alex,8:49,4,Hawks,Kings,117 - 96,1,N/A,N/A,N/A
+41,De'Aaron Fox,SUBSTITUTION,III Mason,8:49,4,Kings,Hawks,117 - 96,0,N/A,N/A,N/A
+42,Nemanja Bjelica,SUBSTITUTION,Koufos Kosta,8:49,4,Kings,Hawks,117 - 96,0,N/A,N/A,N/A
+43,Nemanja Bjelica,FOUL_ON_FLOOR,None,8:27,4,Kings,Hawks,117 - 96,0,N/A,N/A,N/A
+44,Nemanja Bjelica,TURNOVER,None,8:27,4,Kings,Hawks,117 - 96,0,N/A,N/A,N/A
+45,Nemanja Bjelica,Unknown,None,8:14,4,Kings,Hawks,117 - 96,0,N/A,N/A,N/A
+46,Taurean Prince,FG_MISS,None,8:07,4,Hawks,Kings,117 - 96,1,23,3,Jumper
+47,De'Aaron Fox,DEFENSIVE_REBOUND,None,8:04,4,Kings,Hawks,117 - 96,0,N/A,N/A,N/A
+48,Buddy Hield,FG_ASSISTED,De'Aaron Fox,8:01,4,Kings,Hawks,120 - 96,0,26,3,Jumper
+49,Trae Young,FG_MISS,None,7:48,4,Hawks,Kings,120 - 96,1,25,3,Jumper
+50,Buddy Hield,DEFENSIVE_REBOUND,None,7:45,4,Kings,Hawks,120 - 96,0,N/A,N/A,N/A
+51,Marvin Bagley,FG_UNASSISTED,None,7:35,4,Kings,Hawks,122 - 96,0, ,2,Jumper
+52,Trae Young,TURNOVER,agley III,7:26,4,Hawks,Kings,122 - 96,1,N/A,N/A,N/A
+53,Marvin Bagley,FG_MISS,Taurean Prince,7:20,4,Hawks,Kings,122 - 96,0,3,2,Jumper
+54,Taurean Prince,DEFENSIVE_REBOUND,None,7:17,4,Hawks,Kings,122 - 96,1,N/A,N/A,N/A
+55,Jeremy Lin,FG_MISS,None,7:14,4,Hawks,Kings,122 - 96,1,26,3,Jumper
+56,De'Aaron Fox,DEFENSIVE_REBOUND,None,7:14,4,Kings,Hawks,122 - 96,0,N/A,N/A,N/A
+57,Trae Young,FOUL_ON_FLOOR,None,7:04,4,Hawks,Kings,122 - 96,1,N/A,N/A,N/A
+58,De'Aaron Fox,FT,None,7:04,4,Kings,Hawks,123 - 96,0,N/A,1,N/A
+59,De'Aaron Fox,FT,None,7:04,4,Kings,Hawks,124 - 96,0,N/A,1,N/A
+60,Tyler Dorsey,SUBSTITUTION,Spellman Omari,7:04,4,Hawks,Kings,124 - 96,1,N/A,N/A,N/A
+61,Alex Len,SUBSTITUTION,Young Trae,7:04,4,Hawks,Kings,124 - 96,1,N/A,N/A,N/A
+62,Iman Shumpert,SUBSTITUTION,Jackson Justin,7:04,4,Kings,Hawks,124 - 96,0,N/A,N/A,N/A
+63,Willie Cauley-Stein,SUBSTITUTION,III Bagley,7:04,4,Kings,Hawks,124 - 96,0,N/A,N/A,N/A
+64,De'Aaron Fox,FT,None,7:04,4,Kings,Hawks,125 - 96,0,N/A,1,N/A
+65,Jeremy Lin,FG_MISS,None,6:42,4,Hawks,Kings,125 - 96,1,24,3,Jumper
+66,De'Aaron Fox,DEFENSIVE_REBOUND,None,6:39,4,Kings,Hawks,125 - 96,0,N/A,N/A,N/A
+67,Iman Shumpert,FG_MISS,None,6:34,4,Kings,Hawks,125 - 96,0, ,3,Jumper
+68,Tyler Dorsey,DEFENSIVE_REBOUND,None,6:30,4,Hawks,Kings,125 - 96,1,N/A,N/A,N/A
+69,Taurean Prince,FG_MISS,None,6:24,4,Hawks,Kings,125 - 96,1,25,3,Jumper
+70,Willie Cauley-Stein,DEFENSIVE_REBOUND,None,6:22,4,Kings,Hawks,125 - 96,0,N/A,N/A,N/A
+71,Team,Unknown,None,6:22,4,Kings,Hawks,125 - 96,0,N/A,N/A,N/A
+72,Omari Spellman,SUBSTITUTION,Prince Taurean,6:22,4,Hawks,Kings,125 - 96,1,N/A,N/A,N/A
+73,Ben McLemore,SUBSTITUTION,Shumpert Iman,6:22,4,Kings,Hawks,125 - 96,0,N/A,N/A,N/A
+74,Ben McLemore,FG_ASSISTED,Nemanja Bjelica,6:14,4,Kings,Hawks,128 - 96,0,26,3,Jumper
+75,Alex Len,FG_MISS,None,5:55,4,Hawks,Kings,128 - 96,1,24,3,Jumper
+76,Nemanja Bjelica,DEFENSIVE_REBOUND,None,5:52,4,Kings,Hawks,128 - 96,0,N/A,N/A,N/A
+77,Willie Cauley-Stein,FG_ASSISTED,De'Aaron Fox,5:36,4,Kings,Hawks,130 - 96,0, ,2,Jumper
+78,De'Aaron Fox,FOUL_ON_FLOOR,None,5:29,4,Kings,Hawks,130 - 96,0,N/A,N/A,N/A
+79,Skal Labissiere,SUBSTITUTION,Cauley-Stein Willie,5:29,4,Kings,Hawks,130 - 96,0,N/A,N/A,N/A
+80,Frank Mason,SUBSTITUTION,Fox De'Aaron,5:29,4,Kings,Hawks,130 - 96,0,N/A,N/A,N/A
+81,Harry Giles,SUBSTITUTION,Hield Buddy,5:29,4,Kings,Hawks,130 - 96,0,N/A,N/A,N/A
+82,Justin Jackson,SUBSTITUTION,Bjelica Nemanja,5:29,4,Kings,Hawks,130 - 96,0,N/A,N/A,N/A
+83,Jeremy Lin,TURNOVER,Harry Giles,5:21,4,Hawks,Kings,130 - 96,1,N/A,N/A,N/A
+84,Ben McLemore,FG_MISS,None,5:12,4,Kings,Hawks,130 - 96,0,21,2,Jumper
+85,Alex Len,DEFENSIVE_REBOUND,None,5:10,4,Hawks,Kings,130 - 96,1,N/A,N/A,N/A
+86,Ben McLemore,FOUL_ON_FLOOR,None,5:10,4,Kings,Hawks,130 - 96,0,N/A,N/A,N/A
+87,Miles Plumlee,SUBSTITUTION,Len Alex,5:10,4,Hawks,Kings,130 - 96,1,N/A,N/A,N/A
+88,Jeremy Lin,FG_ASSISTED,Omari Spellman,5:03,4,Hawks,Kings,130 - 99,1,26,3,Jumper
+89,Ben McLemore,TURNOVER,None,4:57,4,Kings,Hawks,130 - 99,0,N/A,N/A,N/A
+90,Tyler Dorsey,FG_MISS,None,4:45,4,Hawks,Kings,130 - 99,1,25,3,Jumper
+91,Skal Labissiere,DEFENSIVE_REBOUND,None,4:38,4,Kings,Hawks,130 - 99,0,N/A,N/A,N/A
+92,DeAndre' Bembry,FOUL_ON_FLOOR,None,4:33,4,Hawks,Kings,130 - 99,1,N/A,N/A,N/A
+93,Frank Mason,FT,None,4:33,4,Kings,Hawks,131 - 99,0,N/A,1,N/A
+94,Frank Mason,FT,None,4:33,4,Kings,Hawks,132 - 99,0,N/A,1,N/A
+95,Alex Poythress,SUBSTITUTION,Spellman Omari,4:23,4,Hawks,Kings,132 - 99,1,N/A,N/A,N/A
+96,DeAndre' Bembry,FG_MISS,None,4:18,4,Hawks,Kings,132 - 99,1,25,3,Jumper
+97,Frank Mason,DEFENSIVE_REBOUND,None,4:15,4,Kings,Hawks,132 - 99,0,N/A,N/A,N/A
+98,Skal Labissiere,FG_UNASSISTED,None,4:09,4,Kings,Hawks,134 - 99,0,21,2,Jumper
+99,Ben McLemore,FOUL_ON_FLOOR,None,4:05,4,Kings,Hawks,134 - 99,0,N/A,N/A,N/A
+100,DeAndre' Bembry,FG_MISS,None,3:53,4,Hawks,Kings,134 - 99,1, ,2,Jumper
+101,Harry Giles,DEFENSIVE_REBOUND,None,3:49,4,Kings,Hawks,134 - 99,0,N/A,N/A,N/A
+102,Skal Labissiere,FG_ASSISTED,ason III,3:44,4,Kings,Hawks,136 - 99,0,0,2,Dunk
+103,Alex Poythress,FG_ASSISTED,Jeremy Lin,3:36,4,Hawks,Kings,136 - 101,1,1,2,Jumper
+104,Jeremy Lin,FOUL_ON_FLOOR,None,3:24,4,Hawks,Kings,136 - 101,1,N/A,N/A,N/A
+105,Frank Mason,FT,None,3:24,4,Kings,Hawks,137 - 101,0,N/A,1,N/A
+106,Omari Spellman,SUBSTITUTION,Poythress Alex,3:24,4,Hawks,Kings,137 - 101,1,N/A,N/A,N/A
+107,Frank Mason,FT,None,3:24,4,Kings,Hawks,138 - 101,0,N/A,1,N/A
+108,Tyler Dorsey,FG_ASSISTED,Omari Spellman,3:11,4,Hawks,Kings,138 - 103,1,0,2,Layup
+109,Frank Mason,FOUL_ON_FLOOR,None,3:11,4,Kings,Hawks,138 - 103,0,N/A,N/A,N/A
+110,Tyler Dorsey,FT,None,3:11,4,Hawks,Kings,138 - 104,1,N/A,1,N/A
+111,Skal Labissiere,FG_MISS,None,3:04,4,Kings,Hawks,138 - 104,0,27,3,Jumper
+112,DeAndre' Bembry,DEFENSIVE_REBOUND,None,3:01,4,Hawks,Kings,138 - 104,1,N/A,N/A,N/A
+113,Omari Spellman,FG_ASSISTED,DeAndre' Bembry,2:57,4,Hawks,Kings,138 - 106,1,0,2,Dunk
+114,Harry Giles,FG_ASSISTED,ason III,2:45,4,Kings,Hawks,140 - 106,0,19,2,Jumper
+115,Tyler Dorsey,FG_MISS,None,2:26,4,Hawks,Kings,140 - 106,1,0,2,Layup
+116,Skal Labissiere,DEFENSIVE_REBOUND,None,2:24,4,Kings,Hawks,140 - 106,0,N/A,N/A,N/A
+117,Frank Mason,FG_MISS,None,2:20,4,Kings,Hawks,140 - 106,0,24,3,Jumper
+118,DeAndre' Bembry,DEFENSIVE_REBOUND,None,2:16,4,Hawks,Kings,140 - 106,1,N/A,N/A,N/A
+119,Jeremy Lin,FG_ASSISTED,DeAndre' Bembry,2:11,4,Hawks,Kings,140 - 109,1,23,3,Jumper
+120,Jeremy Lin,FOUL_ON_FLOOR,None,1:49,4,Hawks,Kings,140 - 109,1,N/A,N/A,N/A
+121,Frank Mason,FT_MISS,None,1:49,4,Kings,Hawks,140 - 109,0,N/A,1,N/A
+122,Team,OFFENSIVE_REBOUND,None,1:49,4,Kings,Hawks,140 - 109,0,N/A,N/A,N/A
+123,Frank Mason,FT_MISS,None,1:49,4,Kings,Hawks,140 - 109,0,N/A,1,N/A
+124,Harry Giles,OFFENSIVE_REBOUND,None,1:47,4,Kings,Hawks,140 - 109,0,N/A,N/A,N/A
+125,Harry Giles,FG_UNASSISTED,None,1:47,4,Kings,Hawks,142 - 109,0,0,2,Dunk
+126,Tyler Dorsey,FG_UNASSISTED,None,1:27,4,Hawks,Kings,142 - 111,1,0,2,Layup
+127,Ben McLemore,FOUL_ON_FLOOR,None,1:27,4,Kings,Hawks,142 - 111,0,N/A,N/A,N/A
+128,Tyler Dorsey,FT_MISS,None,1:27,4,Hawks,Kings,142 - 111,1,N/A,1,N/A
+129,Harry Giles,DEFENSIVE_REBOUND,None,1:27,4,Kings,Hawks,142 - 111,0,N/A,N/A,N/A
+130,Justin Jackson,FG_ASSISTED,ason III,1:22,4,Kings,Hawks,144 - 111,0,1,2,Jumper
+131,DeAndre' Bembry,FG_MISS,None,1:13,4,Hawks,Kings,144 - 111,1,0,2,Layup
+132,Skal Labissiere,DEFENSIVE_REBOUND,None,1:10,4,Kings,Hawks,144 - 111,0,N/A,N/A,N/A
+133,Skal Labissiere,TURNOVER,Jeremy Lin,1:09,4,Kings,Hawks,144 - 111,0,N/A,N/A,N/A
+134,Jeremy Lin,FG_UNASSISTED,None,1:09,4,Hawks,Kings,144 - 113,1,1,2,Jumper
+135,Skal Labissiere,Unknown,None,1:09,4,Kings,Hawks,144 - 113,0,N/A,N/A,N/A
+136,DeAndre' Bembry,FOUL_ON_FLOOR,None,57.7,4,Hawks,Kings,144 - 113,1,N/A,N/A,N/A
+137,Skal Labissiere,FT,None,57.7,4,Kings,Hawks,145 - 113,0,N/A,1,N/A
+138,Skal Labissiere,FT,None,57.7,4,Kings,Hawks,146 - 113,0,N/A,1,N/A
+139,Omari Spellman,FG_MISS,None,47.6,4,Hawks,Kings,146 - 113,1,25,3,Jumper
+140,Skal Labissiere,DEFENSIVE_REBOUND,None,42.7,4,Kings,Hawks,146 - 113,0,N/A,N/A,N/A
+141,Harry Giles,FG_MISS,None,29.0,4,Kings,Hawks,146 - 113,0,11,2,Jumper
+142,Omari Spellman,DEFENSIVE_REBOUND,None,26.7,4,Hawks,Kings,146 - 113,1,N/A,N/A,N/A
+143,Jeremy Lin,FG_UNASSISTED,None,23.6,4,Hawks,Kings,146 - 115,1,0,2,Layup
+144,End of,Unknown,None,0.0,4,Hawks,Kings,146 - 115,1,N/A,N/A,N/A
+145,End of,Unknown,None,0.0,4,Hawks,Kings,146 - 115,1,N/A,N/A,N/A

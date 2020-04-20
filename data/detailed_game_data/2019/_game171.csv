@@ -1,0 +1,432 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Clint Capela,JUMP_BALL,None,12:00,1,Rockets,Pacers,0 - 0,0,N/A,N/A,N/A
+1,James Ennis,FG_UNASSISTED,None,11:55,1,Rockets,Pacers,2 - 0,0,2,2,Jumper
+2,Myles Turner,FG_MISS,Clint Capela,11:35,1,Rockets,Pacers,2 - 0,1,6,2,Jumper
+3,Team,OFFENSIVE_REBOUND,None,11:35,1,Pacers,Rockets,2 - 0,1,N/A,N/A,N/A
+4,Myles Turner,FG_MISS,None,11:30,1,Pacers,Rockets,2 - 0,1,-,2,Jumper
+5,Clint Capela,DEFENSIVE_REBOUND,None,11:28,1,Rockets,Pacers,2 - 0,0,N/A,N/A,N/A
+6,PJ Tucker,FG_MISS,None,11:15,1,Rockets,Pacers,2 - 0,0,25,3,Jumper
+7,Bojan Bogdanovic,DEFENSIVE_REBOUND,None,11:11,1,Pacers,Rockets,2 - 0,1,N/A,N/A,N/A
+8,Victor Oladipo,FG_ASSISTED,Darren Collison,10:52,1,Pacers,Rockets,2 - 2,1,-,2,Jumper
+9,James Harden,FG_ASSISTED,Clint Capela,10:31,1,Rockets,Pacers,4 - 2,0,0,2,Layup
+10,Darren Collison,FG_UNASSISTED,None,10:24,1,Pacers,Rockets,4 - 4,1,0,2,Layup
+11,James Ennis,FG_MISS,Myles Turner,10:12,1,Pacers,Rockets,4 - 4,0,0,2,Layup
+12,Clint Capela,OFFENSIVE_REBOUND,None,10:08,1,Rockets,Pacers,4 - 4,0,N/A,N/A,N/A
+13,Clint Capela,FG_MISS,None,10:08,1,Rockets,Pacers,4 - 4,0,-,2,Jumper
+14,Clint Capela,OFFENSIVE_REBOUND,None,10:04,1,Rockets,Pacers,4 - 4,0,N/A,N/A,N/A
+15,Clint Capela,FG_UNASSISTED,None,10:04,1,Rockets,Pacers,6 - 4,0,0,2,Dunk
+16,Thaddeus Young,FG_MISS,None,9:51,1,Pacers,Rockets,6 - 4,1,0,2,Layup
+17,Thaddeus Young,OFFENSIVE_REBOUND,None,9:48,1,Pacers,Rockets,6 - 4,1,N/A,N/A,N/A
+18,Thaddeus Young,FG_UNASSISTED,None,9:48,1,Pacers,Rockets,6 - 6,1,-,2,Jumper
+19,James Ennis,FG_ASSISTED,Chris Paul,9:39,1,Rockets,Pacers,8 - 6,0,-,2,Jumper
+20,Thaddeus Young,TURNOVER,PJ Tucker,9:24,1,Pacers,Rockets,8 - 6,1,N/A,N/A,N/A
+21,James Harden,FG_UNASSISTED,None,9:13,1,Rockets,Pacers,11 - 6,0,27,3,Jumper
+22,James Harden,FOUL_ON_FLOOR,None,8:52,1,Rockets,Pacers,11 - 6,0,N/A,N/A,N/A
+23,Victor Oladipo,FG_UNASSISTED,None,8:45,1,Pacers,Rockets,11 - 8,1,1,2,Jumper
+24,Victor Oladipo,FOUL_ON_FLOOR,None,8:38,1,Pacers,Rockets,11 - 8,1,N/A,N/A,N/A
+25,Clint Capela's,FG_MISS,Myles Turner,8:29,1,Pacers,Rockets,11 - 8,0,0,2,Layup
+26,Thaddeus Young,DEFENSIVE_REBOUND,None,8:25,1,Pacers,Rockets,11 - 8,1,N/A,N/A,N/A
+27,James Ennis,FOUL_ON_FLOOR,None,8:15,1,Rockets,Pacers,11 - 8,0,N/A,N/A,N/A
+28,Bojan Bogdanovic,FT,None,8:15,1,Pacers,Rockets,11 - 9,1,N/A,1,N/A
+29,Bojan Bogdanovic,FT,None,8:15,1,Pacers,Rockets,11 - 10,1,N/A,1,N/A
+30,Bojan Bogdanovic,FT_MISS,None,8:15,1,Pacers,Rockets,11 - 10,1,N/A,1,N/A
+31,James Harden,DEFENSIVE_REBOUND,None,8:14,1,Rockets,Pacers,11 - 10,0,N/A,N/A,N/A
+32,Clint Capela,FG_ASSISTED,Chris Paul,8:05,1,Rockets,Pacers,13 - 10,0,0,2,Dunk
+33,Thaddeus Young,FG_MISS,None,7:49,1,Pacers,Rockets,13 - 10,1,7,2,Jumper
+34,Clint Capela,DEFENSIVE_REBOUND,None,7:47,1,Rockets,Pacers,13 - 10,0,N/A,N/A,N/A
+35,Darren Collison,FOUL_ON_FLOOR,None,7:43,1,Pacers,Rockets,13 - 10,1,N/A,N/A,N/A
+36,James Harden,FG_UNASSISTED,None,7:27,1,Rockets,Pacers,16 - 10,0,27,2,Jumper
+37,Victor Oladipo,FG_MISS,None,7:12,1,Pacers,Rockets,16 - 10,1,27,3,Jumper
+38,Clint Capela,DEFENSIVE_REBOUND,None,7:10,1,Rockets,Pacers,16 - 10,0,N/A,N/A,N/A
+39,James Ennis,FG_ASSISTED,James Harden,6:53,1,Rockets,Pacers,19 - 10,0,29,3,Jumper
+40,Team,Unknown,None,6:45,1,Pacers,Rockets,19 - 10,1,N/A,N/A,N/A
+41,Carmelo Anthony,SUBSTITUTION,Paul Chris,6:45,1,Rockets,Pacers,19 - 10,0,N/A,N/A,N/A
+42,Gerald Green,SUBSTITUTION,Tucker PJ,6:45,1,Rockets,Pacers,19 - 10,0,N/A,N/A,N/A
+43,Team,Unknown,None,6:38,1,Pacers,Rockets,19 - 10,1,N/A,N/A,N/A
+44,Victor Oladipo,FG_UNASSISTED,None,6:30,1,Pacers,Rockets,19 - 12,1,19,2,Jumper
+45,Clint Capela,FG_ASSISTED,James Harden,6:13,1,Rockets,Pacers,21 - 12,0,0,2,Dunk
+46,James Harden,FOUL_ON_FLOOR,None,5:52,1,Rockets,Pacers,21 - 12,0,N/A,N/A,N/A
+47,Myles Turner,FT,None,5:52,1,Pacers,Rockets,21 - 13,1,N/A,1,N/A
+48,Domantas Sabonis,SUBSTITUTION,Young Thaddeus,5:52,1,Pacers,Rockets,21 - 12,1,N/A,N/A,N/A
+49,Myles Turner,FT_MISS,None,5:52,1,Pacers,Rockets,21 - 13,1,N/A,1,N/A
+50,Team,OFFENSIVE_REBOUND,None,5:52,1,Pacers,Rockets,21 - 13,1,N/A,N/A,N/A
+51,Carmelo Anthony,FOUL_ON_FLOOR,None,5:51,1,Rockets,Pacers,21 - 13,0,N/A,N/A,N/A
+52,Bojan Bogdanovic,FG_UNASSISTED,None,5:40,1,Pacers,Rockets,21 - 16,1,28,3,Jumper
+53,Carmelo Anthony,FG_MISS,None,5:21,1,Rockets,Pacers,21 - 16,0,28,3,Jumper
+54,Team,DEFENSIVE_REBOUND,None,5:18,1,Pacers,Rockets,21 - 16,1,N/A,N/A,N/A
+55,Gary Clark,SUBSTITUTION,III Ennis,5:18,1,Rockets,Pacers,21 - 16,0,N/A,N/A,N/A
+56,Myles Turner,TURNOVER,Gary Clark,4:59,1,Pacers,Rockets,21 - 16,1,N/A,N/A,N/A
+57,James Harden,FG_MISS,None,4:38,1,Rockets,Pacers,21 - 16,0,27,2,Jumper
+58,Victor Oladipo,DEFENSIVE_REBOUND,None,4:35,1,Pacers,Rockets,21 - 16,1,N/A,N/A,N/A
+59,Victor Oladipo,FG_UNASSISTED,None,4:32,1,Pacers,Rockets,21 - 18,1, ,2,Jumper
+60,Cory Joseph,SUBSTITUTION,Bogdanovic Bojan,4:14,1,Pacers,Rockets,21 - 18,1,N/A,N/A,N/A
+61,James Harden,FG_UNASSISTED,None,4:06,1,Rockets,Pacers,24 - 18,0,24,2,Jumper
+62,Darren Collison's,FG_MISS,Gary Clark,3:53,1,Rockets,Pacers,24 - 18,1,0,2,Layup
+63,Gerald Green,DEFENSIVE_REBOUND,None,3:49,1,Rockets,Pacers,24 - 18,0,N/A,N/A,N/A
+64,James Harden,FG_MISS,None,3:41,1,Rockets,Pacers,24 - 18,0,27,2,Jumper
+65,Darren Collison,DEFENSIVE_REBOUND,None,3:38,1,Pacers,Rockets,24 - 18,1,N/A,N/A,N/A
+66,Victor Oladipo,TURNOVER,None,3:24,1,Pacers,Rockets,24 - 18,1,N/A,N/A,N/A
+67,Tyreke Evans,SUBSTITUTION,Collison Darren,3:24,1,Pacers,Rockets,24 - 18,1,N/A,N/A,N/A
+68,James Harden,TURNOVER,Cory Joseph,3:10,1,Rockets,Pacers,24 - 18,0,N/A,N/A,N/A
+69,Victor Oladipo,FG_MISS,None,3:05,1,Pacers,Rockets,24 - 18,1, ,2,Jumper
+70,Gerald Green,DEFENSIVE_REBOUND,None,3:02,1,Rockets,Pacers,24 - 18,0,N/A,N/A,N/A
+71,James Harden,TURNOVER,Cory Joseph,2:58,1,Rockets,Pacers,24 - 18,0,N/A,N/A,N/A
+72,Tyreke Evans,FG_MISS,None,2:54,1,Pacers,Rockets,24 - 18,1, ,2,Jumper
+73,James Harden,DEFENSIVE_REBOUND,None,2:51,1,Rockets,Pacers,24 - 18,0,N/A,N/A,N/A
+74,Chris Paul,SUBSTITUTION,Harden James,2:37,1,Rockets,Pacers,24 - 18,0,N/A,N/A,N/A
+75,Doug McDermott,SUBSTITUTION,Oladipo Victor,2:37,1,Pacers,Rockets,24 - 18,1,N/A,N/A,N/A
+76,T.J. Leaf,SUBSTITUTION,Turner Myles,2:37,1,Pacers,Rockets,24 - 18,1,N/A,N/A,N/A
+77,Isaiah Hartenstein,SUBSTITUTION,Capela Clint,2:37,1,Rockets,Pacers,24 - 18,0,N/A,N/A,N/A
+78,Gerald Green,FG_MISS,None,2:30,1,Rockets,Pacers,24 - 18,0,30,2,Jumper
+79,Domantas Sabonis,DEFENSIVE_REBOUND,None,2:27,1,Pacers,Rockets,24 - 18,1,N/A,N/A,N/A
+80,Domantas Sabonis,FG_ASSISTED,Cory Joseph,2:20,1,Pacers,Rockets,24 - 20,1,5,2,Jumper
+81,Doug McDermott,FOUL_ON_FLOOR,None,1:58,1,Pacers,Rockets,24 - 20,1,N/A,N/A,N/A
+82,Gary Clark,FT,None,1:58,1,Rockets,Pacers,25 - 20,0,N/A,1,N/A
+83,Gary Clark,FT,None,1:58,1,Rockets,Pacers,26 - 20,0,N/A,1,N/A
+84,Gary Clark,FT,None,1:58,1,Rockets,Pacers,27 - 20,0,N/A,1,N/A
+85,Doug McDermott,TURNOVER,None,1:50,1,Pacers,Rockets,27 - 20,1,N/A,N/A,N/A
+86,Isaiah Hartenstein,TURNOVER,None,1:41,1,Rockets,Pacers,27 - 20,0,N/A,N/A,N/A
+87,Cory Joseph,FG_MISS,None,1:31,1,Pacers,Rockets,27 - 20,1,24,3,Jumper
+88,Carmelo Anthony,DEFENSIVE_REBOUND,None,1:28,1,Rockets,Pacers,27 - 20,0,N/A,N/A,N/A
+89,Isaiah Hartenstein,FG_ASSISTED,Gerald Green,1:20,1,Rockets,Pacers,29 - 20,0,0,2,Dunk
+90,T.J. Leaf,FG_MISS,None,1:01,1,Pacers,Rockets,29 - 20,1,15,2,Jumper
+91,Gary Clark,DEFENSIVE_REBOUND,None,59.2,1,Rockets,Pacers,29 - 20,0,N/A,N/A,N/A
+92,Gerald Green,FG_MISS,None,54.1,1,Rockets,Pacers,29 - 20,0,28,3,Jumper
+93,Doug McDermott,DEFENSIVE_REBOUND,None,51.8,1,Pacers,Rockets,29 - 20,1,N/A,N/A,N/A
+94,Tyreke Evans,FG_MISS,None,40.6,1,Pacers,Rockets,29 - 20,1, ,2,Jumper
+95,Carmelo Anthony,DEFENSIVE_REBOUND,None,38.4,1,Rockets,Pacers,29 - 20,0,N/A,N/A,N/A
+96,Gary Clark,FG_MISS,None,24.7,1,Rockets,Pacers,29 - 20,0,28,3,Jumper
+97,Domantas Sabonis,DEFENSIVE_REBOUND,None,20.6,1,Pacers,Rockets,29 - 20,1,N/A,N/A,N/A
+98,T.J. Leaf,FG_MISS,None,16.3,1,Pacers,Rockets,29 - 20,1,0,2,Layup
+99,Domantas Sabonis,OFFENSIVE_REBOUND,None,15.7,1,Pacers,Rockets,29 - 20,1,N/A,N/A,N/A
+100,Domantas Sabonis,FG_UNASSISTED,None,15.7,1,Pacers,Rockets,29 - 22,1,0,2,Dunk
+101,Chris Paul,FG_MISS,None,1.0,1,Rockets,Pacers,29 - 22,0,25,3,Jumper
+102,Team,OFFENSIVE_REBOUND,None,1.0,1,Rockets,Pacers,29 - 22,0,N/A,N/A,N/A
+103,End of,Unknown,None,0.0,1,Pacers,Rockets,29 - 22,1,N/A,N/A,N/A
+0,Gary Clark,FOUL_TECHNICAL,None,11:48,2,Rockets,Pacers,29 - 22,0,N/A,N/A,N/A
+1,Doug McDermott,FT,None,11:48,2,Pacers,Rockets,29 - 23,1,N/A,1,N/A
+2,Doug McDermott,FG_MISS,None,11:40,2,Pacers,Rockets,29 - 23,1,23,3,Jumper
+3,Isaiah Hartenstein,DEFENSIVE_REBOUND,None,11:35,2,Rockets,Pacers,29 - 23,0,N/A,N/A,N/A
+4,Chris Paul,TURNOVER,Cory Joseph,11:30,2,Rockets,Pacers,29 - 23,0,N/A,N/A,N/A
+5,Cory Joseph's,FG_MISS,Isaiah Hartenstein,11:25,2,Rockets,Pacers,29 - 23,1,0,2,Layup
+6,Cory Joseph,OFFENSIVE_REBOUND,None,11:22,2,Pacers,Rockets,29 - 23,1,N/A,N/A,N/A
+7,Tyreke Evans,FG_ASSISTED,Cory Joseph,11:20,2,Pacers,Rockets,29 - 26,1,24,3,Jumper
+8,Isaiah Hartenstein,FG_ASSISTED,Chris Paul,10:56,2,Rockets,Pacers,31 - 26,0, ,2,Jumper
+9,Domantas Sabonis,FG_MISS,None,10:39,2,Pacers,Rockets,31 - 26,1,7,2,Jumper
+10,Chris Paul,DEFENSIVE_REBOUND,None,10:38,2,Rockets,Pacers,31 - 26,0,N/A,N/A,N/A
+11,Chris Paul,FG_MISS,None,10:34,2,Rockets,Pacers,31 - 26,0,27,3,Jumper
+12,T.J. Leaf,DEFENSIVE_REBOUND,None,10:31,2,Pacers,Rockets,31 - 26,1,N/A,N/A,N/A
+13,Isaiah Hartenstein,FOUL_ON_FLOOR,None,10:28,2,Rockets,Pacers,31 - 26,0,N/A,N/A,N/A
+14,Tyreke Evans,FT,None,10:28,2,Pacers,Rockets,31 - 27,1,N/A,1,N/A
+15,PJ Tucker,SUBSTITUTION,Anthony Carmelo,10:28,2,Rockets,Pacers,31 - 27,0,N/A,N/A,N/A
+16,Clint Capela,SUBSTITUTION,Hartenstein Isaiah,10:28,2,Rockets,Pacers,31 - 27,0,N/A,N/A,N/A
+17,Tyreke Evans,FT,None,10:28,2,Pacers,Rockets,31 - 28,1,N/A,1,N/A
+18,Gary Clark,FG_MISS,None,10:14,2,Rockets,Pacers,31 - 28,0,24,3,Jumper
+19,Domantas Sabonis,DEFENSIVE_REBOUND,None,10:10,2,Pacers,Rockets,31 - 28,1,N/A,N/A,N/A
+20,Tyreke Evans,TURNOVER,PJ Tucker,10:03,2,Pacers,Rockets,31 - 28,1,N/A,N/A,N/A
+21,Gerald Green,FG_MISS,None,9:59,2,Rockets,Pacers,31 - 28,0,28,3,Jumper
+22,Tyreke Evans,DEFENSIVE_REBOUND,None,9:56,2,Pacers,Rockets,31 - 28,1,N/A,N/A,N/A
+23,Doug McDermott,TURNOVER,None,9:54,2,Pacers,Rockets,31 - 28,1,N/A,N/A,N/A
+24,James Ennis,SUBSTITUTION,Green Gerald,9:54,2,Rockets,Pacers,31 - 28,0,N/A,N/A,N/A
+25,T.J. Leaf,FOUL_ON_FLOOR,None,9:43,2,Pacers,Rockets,31 - 28,1,N/A,N/A,N/A
+26,Clint Capela,FT,None,9:43,2,Rockets,Pacers,32 - 28,0,N/A,1,N/A
+27,Clint Capela,FT,None,9:43,2,Rockets,Pacers,33 - 28,0,N/A,1,N/A
+28,Domantas Sabonis,FG_ASSISTED,T.J. Leaf,9:24,2,Pacers,Rockets,33 - 30,1, ,2,Jumper
+29,Chris Paul,TURNOVER,None,9:13,2,Rockets,Pacers,33 - 30,0,N/A,N/A,N/A
+30,Tyreke Evans,FG_MISS,None,9:03,2,Pacers,Rockets,33 - 30,1,24,3,Jumper
+31,Team,DEFENSIVE_REBOUND,None,9:02,2,Rockets,Pacers,33 - 30,0,N/A,N/A,N/A
+32,Gary Clark,FG_ASSISTED,Chris Paul,8:57,2,Rockets,Pacers,36 - 30,0,25,3,Jumper
+33,Doug McDermott,FG_ASSISTED,Domantas Sabonis,8:38,2,Pacers,Rockets,36 - 33,1,24,3,Jumper
+34,James Ennis,FOUL_ON_FLOOR,None,8:23,2,Rockets,Pacers,36 - 33,0,N/A,N/A,N/A
+35,James Ennis,TURNOVER,None,8:23,2,Rockets,Pacers,36 - 33,0,N/A,N/A,N/A
+36,Victor Oladipo,SUBSTITUTION,Evans Tyreke,8:23,2,Pacers,Rockets,36 - 33,1,N/A,N/A,N/A
+37,Bojan Bogdanovic,SUBSTITUTION,McDermott Doug,8:23,2,Pacers,Rockets,36 - 33,1,N/A,N/A,N/A
+38,Thaddeus Young,SUBSTITUTION,Leaf T.J.,8:23,2,Pacers,Rockets,36 - 33,1,N/A,N/A,N/A
+39,Domantas Sabonis,FG_ASSISTED,Cory Joseph,8:14,2,Pacers,Rockets,36 - 35,1,12,2,Jumper
+40,Gary Clark,FG_MISS,None,7:58,2,Rockets,Pacers,36 - 35,0,28,3,Jumper
+41,Thaddeus Young,DEFENSIVE_REBOUND,None,7:56,2,Pacers,Rockets,36 - 35,1,N/A,N/A,N/A
+42,James Ennis,FOUL_ON_FLOOR,None,7:41,2,Rockets,Pacers,36 - 35,0,N/A,N/A,N/A
+43,James Harden,SUBSTITUTION,Clark Gary,7:41,2,Rockets,Pacers,36 - 35,0,N/A,N/A,N/A
+44,Victor Oladipo,FG_UNASSISTED,None,7:31,2,Pacers,Rockets,36 - 37,1, ,2,Jumper
+45,James Harden,FG_UNASSISTED,None,7:07,2,Rockets,Pacers,38 - 37,0,1,2,Jumper
+46,Thaddeus Young,FG_ASSISTED,Domantas Sabonis,6:50,2,Pacers,Rockets,38 - 39,1,8,2,Jumper
+47,PJ Tucker,FG_MISS,None,6:40,2,Rockets,Pacers,38 - 39,0,22,3,Jumper
+48,Victor Oladipo,DEFENSIVE_REBOUND,None,6:36,2,Pacers,Rockets,38 - 39,1,N/A,N/A,N/A
+49,Clint Capela,FOUL_ON_FLOOR,None,6:28,2,Rockets,Pacers,38 - 39,0,N/A,N/A,N/A
+50,Team,Unknown,None,6:28,2,Pacers,Rockets,38 - 39,1,N/A,N/A,N/A
+51,Gerald Green,SUBSTITUTION,Paul Chris,6:28,2,Rockets,Pacers,38 - 39,0,N/A,N/A,N/A
+52,Bojan Bogdanovic,FT,None,6:28,2,Pacers,Rockets,38 - 40,1,N/A,1,N/A
+53,Bojan Bogdanovic,FT_MISS,None,6:28,2,Pacers,Rockets,38 - 40,1,N/A,1,N/A
+54,James Harden,DEFENSIVE_REBOUND,None,6:26,2,Rockets,Pacers,38 - 40,0,N/A,N/A,N/A
+55,Gerald Green,TURNOVER,None,6:05,2,Rockets,Pacers,38 - 40,0,N/A,N/A,N/A
+56,Domantas Sabonis,FG_ASSISTED,Thaddeus Young,5:51,2,Pacers,Rockets,38 - 42,1,0,2,Layup
+57,Gerald Green,FOUL_ON_FLOOR,None,5:51,2,Rockets,Pacers,38 - 42,0,N/A,N/A,N/A
+58,Domantas Sabonis,FT,None,5:51,2,Pacers,Rockets,38 - 43,1,N/A,1,N/A
+59,Clint Capela,FG_ASSISTED,James Harden,5:36,2,Rockets,Pacers,40 - 43,0,0,2,Dunk
+60,Bojan Bogdanovic,FG_ASSISTED,Victor Oladipo,5:13,2,Pacers,Rockets,40 - 45,1,0,2,Layup
+61,James Harden,FG_MISS,None,4:43,2,Rockets,Pacers,40 - 45,0,26,3,Jumper
+62,Victor Oladipo,DEFENSIVE_REBOUND,None,4:43,2,Pacers,Rockets,40 - 45,1,N/A,N/A,N/A
+63,Victor Oladipo,TURNOVER,nnis III,4:42,2,Pacers,Rockets,40 - 45,1,N/A,N/A,N/A
+64,PJ Tucker,FG_ASSISTED,nnis III,4:22,2,Rockets,Pacers,43 - 45,0,23,3,Jumper
+65,Domantas Sabonis,FG_MISS,None,4:06,2,Pacers,Rockets,43 - 45,1,14,2,Jumper
+66,PJ Tucker,DEFENSIVE_REBOUND,None,4:03,2,Rockets,Pacers,43 - 45,0,N/A,N/A,N/A
+67,James Harden,TURNOVER,None,3:53,2,Rockets,Pacers,43 - 45,0,N/A,N/A,N/A
+68,Darren Collison,SUBSTITUTION,Joseph Cory,3:53,2,Pacers,Rockets,43 - 45,1,N/A,N/A,N/A
+69,Myles Turner,SUBSTITUTION,Sabonis Domantas,3:53,2,Pacers,Rockets,43 - 45,1,N/A,N/A,N/A
+70,Chris Paul,SUBSTITUTION,Capela Clint,3:53,2,Rockets,Pacers,43 - 45,0,N/A,N/A,N/A
+71,Isaiah Hartenstein,SUBSTITUTION,Green Gerald,3:53,2,Rockets,Pacers,43 - 45,0,N/A,N/A,N/A
+72,James Harden,FOUL_ON_FLOOR,None,3:36,2,Rockets,Pacers,43 - 45,0,N/A,N/A,N/A
+73,Bojan Bogdanovic,FT,None,3:36,2,Pacers,Rockets,43 - 46,1,N/A,1,N/A
+74,Bojan Bogdanovic,FT,None,3:36,2,Pacers,Rockets,43 - 47,1,N/A,1,N/A
+75,James Harden,FG_MISS,None,3:24,2,Rockets,Pacers,43 - 47,0,31,3,Jumper
+76,Team,DEFENSIVE_REBOUND,None,3:23,2,Pacers,Rockets,43 - 47,1,N/A,N/A,N/A
+77,Victor Oladipo,FG_MISS,None,3:10,2,Pacers,Rockets,43 - 47,1,26,3,Jumper
+78,Chris Paul,DEFENSIVE_REBOUND,None,3:07,2,Rockets,Pacers,43 - 47,0,N/A,N/A,N/A
+79,James Ennis,FG_ASSISTED,Chris Paul,3:01,2,Rockets,Pacers,46 - 47,0,23,3,Jumper
+80,Victor Oladipo,FG_ASSISTED,Bojan Bogdanovic,2:41,2,Pacers,Rockets,46 - 50,1,28,3,Jumper
+81,PJ Tucker,FG_MISS,None,2:22,2,Rockets,Pacers,46 - 50,0,26,3,Jumper
+82,Bojan Bogdanovic,DEFENSIVE_REBOUND,None,2:19,2,Pacers,Rockets,46 - 50,1,N/A,N/A,N/A
+83,Bojan Bogdanovic,FG_MISS,None,2:14,2,Pacers,Rockets,46 - 50,1, ,2,Jumper
+84,Bojan Bogdanovic,OFFENSIVE_REBOUND,None,2:11,2,Pacers,Rockets,46 - 50,1,N/A,N/A,N/A
+85,Darren Collison,TURNOVER,James Harden,2:08,2,Pacers,Rockets,46 - 50,1,N/A,N/A,N/A
+86,Victor Oladipo,FOUL_ON_FLOOR,None,2:06,2,Pacers,Rockets,46 - 50,1,N/A,N/A,N/A
+87,Team,Unknown,None,2:06,2,Rockets,Pacers,46 - 50,0,N/A,N/A,N/A
+88,Clint Capela,SUBSTITUTION,III Ennis,2:06,2,Rockets,Pacers,46 - 50,0,N/A,N/A,N/A
+89,Gary Clark,SUBSTITUTION,Hartenstein Isaiah,2:06,2,Rockets,Pacers,46 - 50,0,N/A,N/A,N/A
+90,James Harden,FT,None,2:06,2,Rockets,Pacers,47 - 50,0,N/A,1,N/A
+91,James Harden,FT,None,2:06,2,Rockets,Pacers,48 - 50,0,N/A,1,N/A
+92,Myles Turner,TURNOVER,James Harden,1:48,2,Pacers,Rockets,48 - 50,1,N/A,N/A,N/A
+93,Gary Clark,FG_MISS,None,1:33,2,Rockets,Pacers,48 - 50,0,23,3,Jumper
+94,Chris Paul,OFFENSIVE_REBOUND,None,1:29,2,Rockets,Pacers,48 - 50,0,N/A,N/A,N/A
+95,Chris Paul,FG_MISS,None,1:15,2,Rockets,Pacers,48 - 50,0,26,3,Jumper
+96,Myles Turner,DEFENSIVE_REBOUND,None,1:11,2,Pacers,Rockets,48 - 50,1,N/A,N/A,N/A
+97,Bojan Bogdanovic,FG_MISS,None,1:07,2,Pacers,Rockets,48 - 50,1,26,3,Jumper
+98,Thaddeus Young,OFFENSIVE_REBOUND,None,1:02,2,Pacers,Rockets,48 - 50,1,N/A,N/A,N/A
+99,Thaddeus Young,FG_UNASSISTED,None,1:02,2,Pacers,Rockets,48 - 52,1, ,2,Jumper
+100,Clint Capela,FG_ASSISTED,Chris Paul,45.1,2,Rockets,Pacers,50 - 52,0,0,2,Dunk
+101,Victor Oladipo,FG_UNASSISTED,None,29.7,2,Pacers,Rockets,50 - 55,1,29,3,Jumper
+102,James Harden,FG_UNASSISTED,None,9.3,2,Rockets,Pacers,53 - 55,0,29,2,Jumper
+103,Victor Oladipo,FG_MISS,None,2.2,2,Pacers,Rockets,53 - 55,1,28,3,Jumper
+104,Team,OFFENSIVE_REBOUND,None,2.2,2,Pacers,Rockets,53 - 55,1,N/A,N/A,N/A
+105,End of,Unknown,None,0.0,2,Pacers,Rockets,53 - 55,1,N/A,N/A,N/A
+0,James Ennis,SUBSTITUTION,Clark Gary,12:00,3,Rockets,Pacers,53 - 55,0,N/A,N/A,N/A
+1,Myles Turner,FG_MISS,None,11:43,3,Pacers,Rockets,53 - 55,1,0,2,Layup
+2,Chris Paul,DEFENSIVE_REBOUND,None,11:41,3,Rockets,Pacers,53 - 55,0,N/A,N/A,N/A
+3,James Ennis,TURNOVER,Myles Turner,11:27,3,Rockets,Pacers,53 - 55,0,N/A,N/A,N/A
+4,PJ Tucker,FOUL_ON_FLOOR,None,11:26,3,Rockets,Pacers,53 - 55,0,N/A,N/A,N/A
+5,PJ Tucker,FOUL_ON_FLOOR,None,11:12,3,Rockets,Pacers,53 - 55,0,N/A,N/A,N/A
+6,Bojan Bogdanovic,FT_MISS,None,11:12,3,Pacers,Rockets,53 - 55,1,N/A,1,N/A
+7,Team,OFFENSIVE_REBOUND,None,11:12,3,Pacers,Rockets,53 - 55,1,N/A,N/A,N/A
+8,Bojan Bogdanovic,FT,None,11:12,3,Pacers,Rockets,53 - 56,1,N/A,1,N/A
+9,Clint Capela,FG_ASSISTED,James Harden,11:00,3,Rockets,Pacers,55 - 56,0,0,2,Dunk
+10,Victor Oladipo,TURNOVER,None,10:50,3,Pacers,Rockets,55 - 56,1,N/A,N/A,N/A
+11,Chris Paul,FG_UNASSISTED,None,10:43,3,Rockets,Pacers,57 - 56,0,13,2,Jumper
+12,Darren Collison,FG_MISS,None,10:28,3,Pacers,Rockets,57 - 56,1,23,3,Jumper
+13,Clint Capela,DEFENSIVE_REBOUND,None,10:25,3,Rockets,Pacers,57 - 56,0,N/A,N/A,N/A
+14,James Harden,FG_MISS,None,10:06,3,Rockets,Pacers,57 - 56,0,26,2,Jumper
+15,Thaddeus Young,DEFENSIVE_REBOUND,None,10:01,3,Pacers,Rockets,57 - 56,1,N/A,N/A,N/A
+16,Myles Turner,FG_ASSISTED,Darren Collison,9:47,3,Pacers,Rockets,57 - 58,1,20,2,Jumper
+17,James Harden,TURNOVER,Darren Collison,9:36,3,Rockets,Pacers,57 - 58,0,N/A,N/A,N/A
+18,Darren Collison,FG_UNASSISTED,None,9:33,3,Pacers,Rockets,57 - 60,1,0,2,Layup
+19,Chris Paul,TURNOVER,Bojan Bogdanovic,9:13,3,Rockets,Pacers,57 - 60,0,N/A,N/A,N/A
+20,Myles Turner,FG_MISS,None,9:02,3,Pacers,Rockets,57 - 60,1,7,2,Jumper
+21,PJ Tucker,DEFENSIVE_REBOUND,None,8:59,3,Rockets,Pacers,57 - 60,0,N/A,N/A,N/A
+22,James Harden,TURNOVER,None,8:52,3,Rockets,Pacers,57 - 60,0,N/A,N/A,N/A
+23,Darren Collison,FG_MISS,None,8:29,3,Pacers,Rockets,57 - 60,1, ,2,Jumper
+24,Clint Capela,DEFENSIVE_REBOUND,None,8:26,3,Rockets,Pacers,57 - 60,0,N/A,N/A,N/A
+25,Chris Paul,TURNOVER,None,8:19,3,Rockets,Pacers,57 - 60,0,N/A,N/A,N/A
+26,Victor Oladipo,FG_UNASSISTED,None,8:01,3,Pacers,Rockets,57 - 62,1,19,2,Jumper
+27,Clint Capela,TURNOVER,Bojan Bogdanovic,7:32,3,Rockets,Pacers,57 - 62,0,N/A,N/A,N/A
+28,Chris Paul,FOUL_ON_FLOOR,None,7:29,3,Rockets,Pacers,57 - 62,0,N/A,N/A,N/A
+29,Darren Collison,FT,None,7:29,3,Pacers,Rockets,57 - 63,1,N/A,1,N/A
+30,Darren Collison,FT_MISS,None,7:29,3,Pacers,Rockets,57 - 63,1,N/A,1,N/A
+31,PJ Tucker,DEFENSIVE_REBOUND,None,7:27,3,Rockets,Pacers,57 - 63,0,N/A,N/A,N/A
+32,Clint Capela,TURNOVER,None,7:16,3,Rockets,Pacers,57 - 63,0,N/A,N/A,N/A
+33,Victor Oladipo,FG_MISS,None,7:00,3,Pacers,Rockets,57 - 63,1,27,3,Jumper
+34,Myles Turner,OFFENSIVE_REBOUND,None,6:56,3,Pacers,Rockets,57 - 63,1,N/A,N/A,N/A
+35,Myles Turner,FG_UNASSISTED,None,6:56,3,Pacers,Rockets,57 - 65,1, ,2,Jumper
+36,Team,Unknown,None,6:56,3,Rockets,Pacers,57 - 65,0,N/A,N/A,N/A
+37,Carmelo Anthony,SUBSTITUTION,III Ennis,6:56,3,Rockets,Pacers,57 - 65,0,N/A,N/A,N/A
+38,Myles Turner,FOUL_ON_FLOOR,None,6:41,3,Pacers,Rockets,57 - 65,1,N/A,N/A,N/A
+39,Clint Capela,FG_ASSISTED,James Harden,6:34,3,Rockets,Pacers,59 - 65,0,0,2,Dunk
+40,Myles Turner,FOUL_ON_FLOOR,None,6:22,3,Pacers,Rockets,59 - 65,1,N/A,N/A,N/A
+41,Myles Turner,TURNOVER,None,6:22,3,Pacers,Rockets,59 - 65,1,N/A,N/A,N/A
+42,Gerald Green,SUBSTITUTION,Paul Chris,6:22,3,Rockets,Pacers,59 - 65,0,N/A,N/A,N/A
+43,Carmelo Anthony,FG_MISS,None,6:13,3,Rockets,Pacers,59 - 65,0,26,3,Jumper
+44,Bojan Bogdanovic,DEFENSIVE_REBOUND,None,6:09,3,Pacers,Rockets,59 - 65,1,N/A,N/A,N/A
+45,Clint Capela,FOUL_ON_FLOOR,None,5:59,3,Rockets,Pacers,59 - 65,0,N/A,N/A,N/A
+46,Bojan Bogdanovic,FG_MISS,None,5:48,3,Pacers,Rockets,59 - 65,1,29,3,Jumper
+47,PJ Tucker,DEFENSIVE_REBOUND,None,5:46,3,Rockets,Pacers,59 - 65,0,N/A,N/A,N/A
+48,Gerald Green,FG_MISS,None,5:26,3,Rockets,Pacers,59 - 65,0,20,2,Jumper
+49,Thaddeus Young,DEFENSIVE_REBOUND,None,5:22,3,Pacers,Rockets,59 - 65,1,N/A,N/A,N/A
+50,Myles Turner,FG_MISS,None,5:10,3,Pacers,Rockets,59 - 65,1,23,3,Jumper
+51,Team,DEFENSIVE_REBOUND,None,5:09,3,Rockets,Pacers,59 - 65,0,N/A,N/A,N/A
+52,Gerald Green,FG_ASSISTED,James Harden,4:50,3,Rockets,Pacers,62 - 65,0,26,3,Jumper
+53,Victor Oladipo,TURNOVER,None,4:27,3,Pacers,Rockets,62 - 65,1,N/A,N/A,N/A
+54,Domantas Sabonis,SUBSTITUTION,Young Thaddeus,4:27,3,Pacers,Rockets,62 - 65,1,N/A,N/A,N/A
+55,Isaiah Hartenstein,SUBSTITUTION,Capela Clint,4:27,3,Rockets,Pacers,62 - 65,0,N/A,N/A,N/A
+56,Victor Oladipo,FOUL_ON_FLOOR,None,4:13,3,Pacers,Rockets,62 - 65,1,N/A,N/A,N/A
+57,James Harden,FT,None,4:13,3,Rockets,Pacers,63 - 65,0,N/A,1,N/A
+58,Cory Joseph,SUBSTITUTION,Bogdanovic Bojan,4:13,3,Pacers,Rockets,63 - 65,1,N/A,N/A,N/A
+59,James Harden,FT,None,4:13,3,Rockets,Pacers,64 - 65,0,N/A,1,N/A
+60,Isaiah Hartenstein,FOUL_ON_FLOOR,None,3:54,3,Rockets,Pacers,64 - 65,0,N/A,N/A,N/A
+61,Domantas Sabonis,FT,None,3:54,3,Pacers,Rockets,64 - 66,1,N/A,1,N/A
+62,Domantas Sabonis,FT_MISS,None,3:54,3,Pacers,Rockets,64 - 66,1,N/A,1,N/A
+63,James Harden,DEFENSIVE_REBOUND,None,3:52,3,Rockets,Pacers,64 - 66,0,N/A,N/A,N/A
+64,Gerald Green,FG_MISS,None,3:45,3,Rockets,Pacers,64 - 66,0,26,3,Jumper
+65,Domantas Sabonis,DEFENSIVE_REBOUND,None,3:42,3,Pacers,Rockets,64 - 66,1,N/A,N/A,N/A
+66,Domantas Sabonis,TURNOVER,James Harden,3:24,3,Pacers,Rockets,64 - 66,1,N/A,N/A,N/A
+67,Isaiah Hartenstein,FG_MISS,None,3:19,3,Rockets,Pacers,64 - 66,0, ,2,Jumper
+68,Victor Oladipo,DEFENSIVE_REBOUND,None,3:17,3,Pacers,Rockets,64 - 66,1,N/A,N/A,N/A
+69,Domantas Sabonis,FG_ASSISTED,Victor Oladipo,3:14,3,Pacers,Rockets,64 - 68,1,0,2,Layup
+70,Carmelo Anthony,FOUL_ON_FLOOR,None,3:14,3,Rockets,Pacers,64 - 68,0,N/A,N/A,N/A
+71,Tyreke Evans,SUBSTITUTION,Collison Darren,3:14,3,Pacers,Rockets,64 - 68,1,N/A,N/A,N/A
+72,Gary Clark,SUBSTITUTION,Tucker PJ,3:14,3,Rockets,Pacers,64 - 68,0,N/A,N/A,N/A
+73,Domantas Sabonis,FT,None,3:14,3,Pacers,Rockets,64 - 69,1,N/A,1,N/A
+74,James Harden's,FG_MISS,Myles Turner,2:51,3,Pacers,Rockets,64 - 69,0,0,2,Layup
+75,Victor Oladipo,DEFENSIVE_REBOUND,None,2:46,3,Pacers,Rockets,64 - 69,1,N/A,N/A,N/A
+76,Gary Clark,FOUL_ON_FLOOR,None,2:39,3,Rockets,Pacers,64 - 69,0,N/A,N/A,N/A
+77,Team,Unknown,None,2:39,3,Pacers,Rockets,64 - 69,1,N/A,N/A,N/A
+78,Doug McDermott,SUBSTITUTION,Oladipo Victor,2:39,3,Pacers,Rockets,64 - 69,1,N/A,N/A,N/A
+79,Chris Paul,SUBSTITUTION,Harden James,2:39,3,Rockets,Pacers,64 - 69,0,N/A,N/A,N/A
+80,Clint Capela,SUBSTITUTION,Hartenstein Isaiah,2:39,3,Rockets,Pacers,64 - 69,0,N/A,N/A,N/A
+81,Myles Turner,FT,None,2:39,3,Pacers,Rockets,64 - 70,1,N/A,1,N/A
+82,Myles Turner,FT,None,2:39,3,Pacers,Rockets,64 - 71,1,N/A,1,N/A
+83,Cory Joseph,FOUL_ON_FLOOR,None,2:29,3,Pacers,Rockets,64 - 71,1,N/A,N/A,N/A
+84,Carmelo Anthony,FG_ASSISTED,Chris Paul,2:26,3,Rockets,Pacers,67 - 71,0,28,3,Jumper
+85,Cory Joseph,TURNOVER,Chris Paul,2:07,3,Pacers,Rockets,67 - 71,1,N/A,N/A,N/A
+86,Carmelo Anthony,FG_MISS,None,1:59,3,Rockets,Pacers,67 - 71,0,28,3,Jumper
+87,Team,OFFENSIVE_REBOUND,None,1:56,3,Rockets,Pacers,67 - 71,0,N/A,N/A,N/A
+88,T.J. Leaf,SUBSTITUTION,Turner Myles,1:56,3,Pacers,Rockets,67 - 71,1,N/A,N/A,N/A
+89,Chris Paul,FG_MISS,None,1:49,3,Rockets,Pacers,67 - 71,0,19,2,Jumper
+90,Domantas Sabonis,DEFENSIVE_REBOUND,None,1:46,3,Pacers,Rockets,67 - 71,1,N/A,N/A,N/A
+91,Gerald Green,FOUL_ON_FLOOR,None,1:42,3,Rockets,Pacers,67 - 71,0,N/A,N/A,N/A
+92,Tyreke Evans,FT_MISS,None,1:42,3,Pacers,Rockets,67 - 71,1,N/A,1,N/A
+93,Team,OFFENSIVE_REBOUND,None,1:42,3,Pacers,Rockets,67 - 71,1,N/A,N/A,N/A
+94,Tyreke Evans,FT,None,1:42,3,Pacers,Rockets,67 - 72,1,N/A,1,N/A
+95,Clint Capela,FG_ASSISTED,Chris Paul,1:30,3,Rockets,Pacers,69 - 72,0,5,2,Jumper
+96,Tyreke Evans,FG_UNASSISTED,None,1:12,3,Pacers,Rockets,69 - 75,1,28,3,Jumper
+97,Chris Paul,TURNOVER,Cory Joseph,57.3,3,Rockets,Pacers,69 - 75,0,N/A,N/A,N/A
+98,Gerald Green,FOUL_ON_FLOOR,None,53.7,3,Rockets,Pacers,69 - 75,0,N/A,N/A,N/A
+99,Tyreke Evans,FT_MISS,None,53.7,3,Pacers,Rockets,69 - 75,1,N/A,1,N/A
+100,Team,OFFENSIVE_REBOUND,None,53.7,3,Pacers,Rockets,69 - 75,1,N/A,N/A,N/A
+101,James Ennis,SUBSTITUTION,Green Gerald,53.7,3,Rockets,Pacers,69 - 75,0,N/A,N/A,N/A
+102,Tyreke Evans,FT_MISS,None,53.7,3,Pacers,Rockets,69 - 75,1,N/A,1,N/A
+103,Clint Capela,DEFENSIVE_REBOUND,None,52.3,3,Rockets,Pacers,69 - 75,0,N/A,N/A,N/A
+104,Carmelo Anthony,FG_MISS,None,36.8,3,Rockets,Pacers,69 - 75,0,26,3,Jumper
+105,Team,DEFENSIVE_REBOUND,None,34.0,3,Pacers,Rockets,69 - 75,1,N/A,N/A,N/A
+106,Cory Joseph,FG_MISS,None,25.1,3,Pacers,Rockets,69 - 75,1,20,2,Jumper
+107,Gary Clark,DEFENSIVE_REBOUND,None,21.7,3,Rockets,Pacers,69 - 75,0,N/A,N/A,N/A
+108,Gary Clark,FG_MISS,None,2.7,3,Rockets,Pacers,69 - 75,0,27,3,Jumper
+109,Domantas Sabonis,DEFENSIVE_REBOUND,None,2.7,3,Pacers,Rockets,69 - 75,1,N/A,N/A,N/A
+110,End of,Unknown,None,0.0,3,Pacers,Rockets,69 - 75,1,N/A,N/A,N/A
+0,Carmelo Anthony,FG_ASSISTED,Chris Paul,11:46,4,Rockets,Pacers,71 - 75,0,20,2,Jumper
+1,Doug McDermott,FG_MISS,None,11:19,4,Pacers,Rockets,71 - 75,1,26,3,Jumper
+2,Clint Capela,DEFENSIVE_REBOUND,None,11:15,4,Rockets,Pacers,71 - 75,0,N/A,N/A,N/A
+3,Carmelo Anthony,FG_MISS,None,11:07,4,Rockets,Pacers,71 - 75,0,21,2,Jumper
+4,Tyreke Evans,DEFENSIVE_REBOUND,None,11:01,4,Pacers,Rockets,71 - 75,1,N/A,N/A,N/A
+5,James Ennis,FOUL_ON_FLOOR,None,11:00,4,Rockets,Pacers,71 - 75,0,N/A,N/A,N/A
+6,Tyreke Evans,FG_MISS,None,10:55,4,Pacers,Rockets,71 - 75,1,28,3,Jumper
+7,Clint Capela,DEFENSIVE_REBOUND,None,10:53,4,Rockets,Pacers,71 - 75,0,N/A,N/A,N/A
+8,Chris Paul,FG_UNASSISTED,None,10:34,4,Rockets,Pacers,73 - 75,0, ,2,Jumper
+9,Domantas Sabonis,FG_UNASSISTED,None,10:11,4,Pacers,Rockets,73 - 77,1,8,2,Jumper
+10,Chris Paul,FG_UNASSISTED,None,9:55,4,Rockets,Pacers,75 - 77,0,13,2,Jumper
+11,Doug McDermott,FG_MISS,Gary Clark,9:34,4,Rockets,Pacers,75 - 77,1,23,3,Jumper
+12,Doug McDermott,OFFENSIVE_REBOUND,None,9:31,4,Pacers,Rockets,75 - 77,1,N/A,N/A,N/A
+13,Tyreke Evans,FG_MISS,None,9:29,4,Pacers,Rockets,75 - 77,1,26,3,Jumper
+14,Team,OFFENSIVE_REBOUND,None,9:29,4,Pacers,Rockets,75 - 77,1,N/A,N/A,N/A
+15,shot clock,TURNOVER,None,9:29,4,Pacers,Rockets,75 - 77,1,N/A,N/A,N/A
+16,James Ennis,FG_MISS,None,9:12,4,Rockets,Pacers,75 - 77,0,24,3,Jumper
+17,T.J. Leaf,DEFENSIVE_REBOUND,None,9:08,4,Pacers,Rockets,75 - 77,1,N/A,N/A,N/A
+18,Tyreke Evans's,FG_MISS,Gary Clark,8:59,4,Rockets,Pacers,75 - 77,1,0,2,Layup
+19,Gary Clark,DEFENSIVE_REBOUND,None,8:57,4,Rockets,Pacers,75 - 77,0,N/A,N/A,N/A
+20,Chris Paul,FG_MISS,None,8:51,4,Rockets,Pacers,75 - 77,0, ,2,Jumper
+21,Domantas Sabonis,DEFENSIVE_REBOUND,None,8:49,4,Pacers,Rockets,75 - 77,1,N/A,N/A,N/A
+22,Tyreke Evans,FG_ASSISTED,Domantas Sabonis,8:46,4,Pacers,Rockets,75 - 79,1,3,2,Jumper
+23,Team,Unknown,None,8:42,4,Rockets,Pacers,75 - 79,0,N/A,N/A,N/A
+24,Victor Oladipo,SUBSTITUTION,McDermott Doug,8:42,4,Pacers,Rockets,75 - 79,1,N/A,N/A,N/A
+25,Thaddeus Young,SUBSTITUTION,Leaf T.J.,8:42,4,Pacers,Rockets,75 - 79,1,N/A,N/A,N/A
+26,James Harden,SUBSTITUTION,Capela Clint,8:42,4,Rockets,Pacers,75 - 79,0,N/A,N/A,N/A
+27,PJ Tucker,SUBSTITUTION,III Ennis,8:42,4,Rockets,Pacers,75 - 79,0,N/A,N/A,N/A
+28,PJ Tucker,FG_MISS,None,8:30,4,Rockets,Pacers,75 - 79,0,28,3,Jumper
+29,Carmelo Anthony,OFFENSIVE_REBOUND,None,8:27,4,Rockets,Pacers,75 - 79,0,N/A,N/A,N/A
+30,Chris Paul,FG_MISS,None,8:23,4,Rockets,Pacers,75 - 79,0,28,3,Jumper
+31,Thaddeus Young,DEFENSIVE_REBOUND,None,8:20,4,Pacers,Rockets,75 - 79,1,N/A,N/A,N/A
+32,Gary Clark,FOUL_ON_FLOOR,None,7:59,4,Rockets,Pacers,75 - 79,0,N/A,N/A,N/A
+33,Thaddeus Young,FG_UNASSISTED,None,7:45,4,Pacers,Rockets,75 - 81,1,7,2,Jumper
+34,PJ Tucker,FG_ASSISTED,Carmelo Anthony,7:30,4,Rockets,Pacers,78 - 81,0,23,3,Jumper
+35,Cory Joseph,FG_MISS,None,7:12,4,Pacers,Rockets,78 - 81,1,23,3,Jumper
+36,Gary Clark,DEFENSIVE_REBOUND,None,7:09,4,Rockets,Pacers,78 - 81,0,N/A,N/A,N/A
+37,Chris Paul,FG_MISS,None,6:45,4,Rockets,Pacers,78 - 81,0,23,2,Jumper
+38,Team,OFFENSIVE_REBOUND,None,6:45,4,Rockets,Pacers,78 - 81,0,N/A,N/A,N/A
+39,shot clock,TURNOVER,None,6:45,4,Rockets,Pacers,78 - 81,0,N/A,N/A,N/A
+40,Thaddeus Young,FG_MISS,None,6:26,4,Pacers,Rockets,78 - 81,1, ,2,Jumper
+41,Carmelo Anthony,DEFENSIVE_REBOUND,None,6:24,4,Rockets,Pacers,78 - 81,0,N/A,N/A,N/A
+42,Carmelo Anthony,FG_ASSISTED,Chris Paul,6:17,4,Rockets,Pacers,81 - 81,0,27,3,Jumper
+43,Team,Unknown,None,6:15,4,Pacers,Rockets,81 - 81,1,N/A,N/A,N/A
+44,Darren Collison,SUBSTITUTION,Joseph Cory,6:15,4,Pacers,Rockets,81 - 81,1,N/A,N/A,N/A
+45,Bojan Bogdanovic,SUBSTITUTION,Evans Tyreke,6:15,4,Pacers,Rockets,81 - 81,1,N/A,N/A,N/A
+46,Victor Oladipo,FG_MISS,None,5:57,4,Pacers,Rockets,81 - 81,1,21,2,Jumper
+47,Gary Clark,DEFENSIVE_REBOUND,None,5:52,4,Rockets,Pacers,81 - 81,0,N/A,N/A,N/A
+48,Chris Paul,FG_UNASSISTED,None,5:39,4,Rockets,Pacers,83 - 81,0, ,2,Jumper
+49,Thaddeus Young,TURNOVER,Gary Clark,5:13,4,Pacers,Rockets,83 - 81,1,N/A,N/A,N/A
+50,Thaddeus Young,FOUL_ON_FLOOR,None,4:54,4,Pacers,Rockets,83 - 81,1,N/A,N/A,N/A
+51,Victor Oladipo,FOUL_ON_FLOOR,None,4:53,4,Pacers,Rockets,83 - 81,1,N/A,N/A,N/A
+52,Carmelo Anthony,FG_MISS,None,4:42,4,Rockets,Pacers,83 - 81,0,28,3,Jumper
+53,Thaddeus Young,DEFENSIVE_REBOUND,None,4:38,4,Pacers,Rockets,83 - 81,1,N/A,N/A,N/A
+54,Nate McMillan,FOUL_TECHNICAL,None,4:38,4,Pacers,Rockets,83 - 81,1,N/A,N/A,N/A
+55,James Harden,FT,None,4:38,4,Rockets,Pacers,84 - 81,0,N/A,1,N/A
+56,Victor Oladipo,FG_MISS,None,4:21,4,Pacers,Rockets,84 - 81,1,28,2,Jumper
+57,Gary Clark,DEFENSIVE_REBOUND,None,4:17,4,Rockets,Pacers,84 - 81,0,N/A,N/A,N/A
+58,James Harden,FG_MISS,None,4:05,4,Rockets,Pacers,84 - 81,0,26,2,Jumper
+59,Carmelo Anthony,OFFENSIVE_REBOUND,None,4:01,4,Rockets,Pacers,84 - 81,0,N/A,N/A,N/A
+60,Chris Paul,FG_MISS,None,3:49,4,Rockets,Pacers,84 - 81,0,29,3,Jumper
+61,Thaddeus Young,DEFENSIVE_REBOUND,None,3:46,4,Pacers,Rockets,84 - 81,1,N/A,N/A,N/A
+62,Darren Collison,FG_ASSISTED,Domantas Sabonis,3:30,4,Pacers,Rockets,84 - 83,1,14,2,Jumper
+63,Team,Unknown,None,3:27,4,Rockets,Pacers,84 - 83,0,N/A,N/A,N/A
+64,James Ennis,SUBSTITUTION,Clark Gary,3:27,4,Rockets,Pacers,84 - 83,0,N/A,N/A,N/A
+65,Clint Capela,SUBSTITUTION,Anthony Carmelo,3:27,4,Rockets,Pacers,84 - 83,0,N/A,N/A,N/A
+66,James Ennis,FG_ASSISTED,Chris Paul,3:06,4,Rockets,Pacers,87 - 83,0,24,3,Jumper
+67,James Harden,FOUL_ON_FLOOR,None,2:40,4,Rockets,Pacers,87 - 83,0,N/A,N/A,N/A
+68,Victor Oladipo,FT,None,2:40,4,Pacers,Rockets,87 - 84,1,N/A,1,N/A
+69,Victor Oladipo,FT,None,2:40,4,Pacers,Rockets,87 - 85,1,N/A,1,N/A
+70,James Harden,FG_MISS,None,2:17,4,Rockets,Pacers,87 - 85,0,26,2,Jumper
+71,Thaddeus Young,DEFENSIVE_REBOUND,None,2:14,4,Pacers,Rockets,87 - 85,1,N/A,N/A,N/A
+72,Bojan Bogdanovic,FG_MISS,None,2:08,4,Pacers,Rockets,87 - 85,1,24,3,Jumper
+73,James Ennis,DEFENSIVE_REBOUND,None,2:03,4,Rockets,Pacers,87 - 85,0,N/A,N/A,N/A
+74,PJ Tucker,FG_MISS,None,1:49,4,Rockets,Pacers,87 - 85,0,6,2,Jumper
+75,PJ Tucker,OFFENSIVE_REBOUND,None,1:46,4,Rockets,Pacers,87 - 85,0,N/A,N/A,N/A
+76,PJ Tucker,FG_MISS,None,1:46,4,Rockets,Pacers,87 - 85,0, ,2,Jumper
+77,Victor Oladipo,DEFENSIVE_REBOUND,None,1:44,4,Pacers,Rockets,87 - 85,1,N/A,N/A,N/A
+78,Victor Oladipo,FG_ASSISTED,Domantas Sabonis,1:26,4,Pacers,Rockets,87 - 87,1,21,2,Jumper
+79,PJ Tucker,FG_ASSISTED,Chris Paul,1:13,4,Rockets,Pacers,90 - 87,0,23,3,Jumper
+80,Victor Oladipo,FG_ASSISTED,Bojan Bogdanovic,55.5,4,Pacers,Rockets,90 - 90,1,26,3,Jumper
+81,Darren Collison,FOUL_ON_FLOOR,None,45.8,4,Pacers,Rockets,90 - 90,1,N/A,N/A,N/A
+82,James Harden,FG_ASSISTED,Chris Paul,36.1,4,Rockets,Pacers,93 - 90,0,27,3,Jumper
+83,Team,Unknown,None,34.8,4,Pacers,Rockets,93 - 90,1,N/A,N/A,N/A
+84,James Harden,FOUL_ON_FLOOR,None,33.3,4,Rockets,Pacers,93 - 90,0,N/A,N/A,N/A
+85,Victor Oladipo,FG_MISS,James Harden,28.8,4,Rockets,Pacers,93 - 90,1,0,2,Layup
+86,Chris Paul,DEFENSIVE_REBOUND,None,28.2,4,Rockets,Pacers,93 - 90,0,N/A,N/A,N/A
+87,Bojan Bogdanovic,FOUL_ON_FLOOR,None,26.3,4,Pacers,Rockets,93 - 90,1,N/A,N/A,N/A
+88,Chris Paul,FT,None,26.3,4,Rockets,Pacers,94 - 90,0,N/A,1,N/A
+89,Chris Paul,FT_MISS,None,26.3,4,Rockets,Pacers,94 - 90,0,N/A,1,N/A
+90,Thaddeus Young,DEFENSIVE_REBOUND,None,26.1,4,Pacers,Rockets,94 - 90,1,N/A,N/A,N/A
+91,Team,Unknown,None,26.1,4,Pacers,Rockets,94 - 90,1,N/A,N/A,N/A
+92,Tyreke Evans,SUBSTITUTION,Young Thaddeus,26.0,4,Pacers,Rockets,94 - 90,1,N/A,N/A,N/A
+93,Victor Oladipo,FG_ASSISTED,Tyreke Evans,24.7,4,Pacers,Rockets,94 - 93,1,28,3,Jumper
+94,Bojan Bogdanovic,FOUL_ON_FLOOR,None,20.4,4,Pacers,Rockets,94 - 93,1,N/A,N/A,N/A
+95,James Harden,FT,None,20.4,4,Rockets,Pacers,95 - 93,0,N/A,1,N/A
+96,James Harden,FT,None,20.4,4,Rockets,Pacers,96 - 93,0,N/A,1,N/A
+97,Victor Oladipo,FG_MISS,None,7.0,4,Pacers,Rockets,96 - 93,1,28,3,Jumper
+98,Team,OFFENSIVE_REBOUND,None,5.9,4,Pacers,Rockets,96 - 93,1,N/A,N/A,N/A
+99,Chris Paul,FOUL_ON_FLOOR,None,5.9,4,Rockets,Pacers,96 - 93,0,N/A,N/A,N/A
+100,Darren Collison,FT_MISS,None,5.9,4,Pacers,Rockets,96 - 93,1,N/A,1,N/A
+101,Team,OFFENSIVE_REBOUND,None,5.9,4,Pacers,Rockets,96 - 93,1,N/A,N/A,N/A
+102,Darren Collison,FT,None,5.9,4,Pacers,Rockets,96 - 94,1,N/A,1,N/A
+103,Bojan Bogdanovic,FOUL_ON_FLOOR,None,5.4,4,Pacers,Rockets,96 - 94,1,N/A,N/A,N/A
+104,James Harden,FT,None,5.4,4,Rockets,Pacers,97 - 94,0,N/A,1,N/A
+105,James Harden,FT,None,5.4,4,Rockets,Pacers,98 - 94,0,N/A,1,N/A
+106,Victor Oladipo,FG_MISS,None,1.4,4,Pacers,Rockets,98 - 94,1,28,3,Jumper
+107,James Ennis,DEFENSIVE_REBOUND,None,1.4,4,Rockets,Pacers,98 - 94,0,N/A,N/A,N/A
+108,End of,Unknown,None,0.0,4,Pacers,Rockets,98 - 94,1,N/A,N/A,N/A
+109,End of,Unknown,None,0.0,4,Pacers,Rockets,98 - 94,1,N/A,N/A,N/A

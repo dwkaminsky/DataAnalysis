@@ -1,0 +1,483 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Anthony Davis,JUMP_BALL,None,12:00,1,Pelicans,Suns,0 - 0,0,N/A,N/A,N/A
+1,Anthony Davis,TURNOVER,Deandre Ayton,11:43,1,Pelicans,Suns,0 - 0,0,N/A,N/A,N/A
+2,Kenrich Williams,FOUL_ON_FLOOR,None,11:38,1,Pelicans,Suns,0 - 0,0,N/A,N/A,N/A
+3,Devin Booker,FT,None,11:38,1,Suns,Pelicans,0 - 1,1,N/A,1,N/A
+4,Devin Booker,FT,None,11:38,1,Suns,Pelicans,0 - 2,1,N/A,1,N/A
+5,Elfrid Payton,TURNOVER,Kelly Oubre,11:23,1,Pelicans,Suns,0 - 2,0,N/A,N/A,N/A
+6,Kelly Oubre,FG_UNASSISTED,None,11:18,1,Suns,Pelicans,0 - 4,1,-,2,Jumper
+7,Anthony Davis,FG_ASSISTED,Elfrid Payton,11:12,1,Pelicans,Suns,2 - 4,0,0,2,Dunk
+8,Deandre Ayton,FG_MISS,None,10:47,1,Suns,Pelicans,2 - 4,1,17,2,Jumper
+9,Anthony Davis,DEFENSIVE_REBOUND,None,10:44,1,Pelicans,Suns,2 - 4,0,N/A,N/A,N/A
+10,Jrue Holiday,TURNOVER,Dragan Bender,10:37,1,Pelicans,Suns,2 - 4,0,N/A,N/A,N/A
+11,Deandre Ayton,TURNOVER,Anthony Davis,10:28,1,Suns,Pelicans,2 - 4,1,N/A,N/A,N/A
+12,Jrue Holiday,TURNOVER,Tyler Johnson,10:23,1,Pelicans,Suns,2 - 4,0,N/A,N/A,N/A
+13,Devin Booker,FG_MISS,None,10:19,1,Suns,Pelicans,2 - 4,1,-,2,Jumper
+14,Deandre Ayton,FG_UNASSISTED,None,10:17,1,Suns,Pelicans,2 - 6,1,-,2,Jumper
+15,Deandre Ayton,OFFENSIVE_REBOUND,None,10:17,1,Suns,Pelicans,2 - 6,1,N/A,N/A,N/A
+16,Elfrid Payton,FG_MISS,None,10:03,1,Pelicans,Suns,2 - 6,0,0,2,Layup
+17,Team,DEFENSIVE_REBOUND,None,10:03,1,Suns,Pelicans,2 - 6,1,N/A,N/A,N/A
+18,Team,Unknown,None,10:03,1,Pelicans,Suns,2 - 6,0,N/A,N/A,N/A
+19,Kelly Oubre,FG_MISS,None,9:52,1,Suns,Pelicans,2 - 6,1,18,2,Jumper
+20,Deandre Ayton,OFFENSIVE_REBOUND,None,9:48,1,Suns,Pelicans,2 - 6,1,N/A,N/A,N/A
+21,Kelly Oubre,FG_ASSISTED,Deandre Ayton,9:39,1,Suns,Pelicans,2 - 8,1,0,2,Dunk
+22,Jrue Holiday,FG_ASSISTED,Elfrid Payton,9:25,1,Pelicans,Suns,4 - 8,0,19,2,Jumper
+23,Devin Booker,TURNOVER,Elfrid Payton,9:21,1,Suns,Pelicans,4 - 8,1,N/A,N/A,N/A
+24,Elfrid Payton,FG_UNASSISTED,None,9:16,1,Pelicans,Suns,6 - 8,0,0,2,Layup
+25,Kelly Oubre,FG_MISS,None,9:09,1,Suns,Pelicans,6 - 8,1,23,3,Jumper
+26,Anthony Davis,DEFENSIVE_REBOUND,None,9:04,1,Pelicans,Suns,6 - 8,0,N/A,N/A,N/A
+27,Julius Randle,FG_MISS,None,8:58,1,Pelicans,Suns,6 - 8,0,-,2,Jumper
+28,Dragan Bender,DEFENSIVE_REBOUND,None,8:56,1,Suns,Pelicans,6 - 8,1,N/A,N/A,N/A
+29,Tyler Johnson,FG_MISS,None,8:47,1,Suns,Pelicans,6 - 8,1,25,3,Jumper
+30,Jrue Holiday,DEFENSIVE_REBOUND,None,8:42,1,Pelicans,Suns,6 - 8,0,N/A,N/A,N/A
+31,Dragan Bender,FOUL_ON_FLOOR,None,8:38,1,Suns,Pelicans,6 - 8,1,N/A,N/A,N/A
+32,Julius Randle,FT_MISS,None,8:38,1,Pelicans,Suns,6 - 8,0,N/A,1,N/A
+33,Team,OFFENSIVE_REBOUND,None,8:38,1,Pelicans,Suns,6 - 8,0,N/A,N/A,N/A
+34,Julius Randle,FT_MISS,None,8:38,1,Pelicans,Suns,6 - 8,0,N/A,1,N/A
+35,Deandre Ayton,DEFENSIVE_REBOUND,None,8:38,1,Suns,Pelicans,6 - 8,1,N/A,N/A,N/A
+36,Dragan Bender,FG_ASSISTED,Tyler Johnson,8:21,1,Suns,Pelicans,6 - 11,1,25,3,Jumper
+37,Elfrid Payton,FG_MISS,None,8:04,1,Pelicans,Suns,6 - 11,0,0,2,Layup
+38,Dragan Bender,DEFENSIVE_REBOUND,None,8:02,1,Suns,Pelicans,6 - 11,1,N/A,N/A,N/A
+39,Dragan Bender,FG_UNASSISTED,None,7:54,1,Suns,Pelicans,6 - 13,1,0,2,Layup
+40,Kenrich Williams,FG_MISS,None,7:44,1,Pelicans,Suns,6 - 13,0,23,2,Jumper
+41,Devin Booker,DEFENSIVE_REBOUND,None,7:41,1,Suns,Pelicans,6 - 13,1,N/A,N/A,N/A
+42,Deandre Ayton,FG_ASSISTED,Kelly Oubre,7:32,1,Suns,Pelicans,6 - 15,1,4,2,Jumper
+43,Jrue Holiday,FG_MISS,None,7:24,1,Pelicans,Suns,6 - 15,0,0,2,Layup
+44,Kelly Oubre,DEFENSIVE_REBOUND,None,7:23,1,Suns,Pelicans,6 - 15,1,N/A,N/A,N/A
+45,Tyler Johnson,FG_MISS,None,7:19,1,Suns,Pelicans,6 - 15,1, ,2,Jumper
+46,Devin Booker,OFFENSIVE_REBOUND,None,7:16,1,Suns,Pelicans,6 - 15,1,N/A,N/A,N/A
+47,Deandre Ayton,FG_ASSISTED,Devin Booker,7:14,1,Suns,Pelicans,6 - 17,1,11,2,Jumper
+48,Kelly Oubre,FOUL_ON_FLOOR,None,7:05,1,Suns,Pelicans,6 - 17,1,N/A,N/A,N/A
+49,Anthony Davis,FG_MISS,None,6:55,1,Pelicans,Suns,6 - 17,0,24,3,Jumper
+50,Kelly Oubre,DEFENSIVE_REBOUND,None,6:52,1,Suns,Pelicans,6 - 17,1,N/A,N/A,N/A
+51,Kelly Oubre,FG_MISS,None,6:45,1,Suns,Pelicans,6 - 17,1, ,3,Jumper
+52,Julius Randle,DEFENSIVE_REBOUND,None,6:42,1,Pelicans,Suns,6 - 17,0,N/A,N/A,N/A
+53,Deandre Ayton,FOUL_ON_FLOOR,None,6:38,1,Suns,Pelicans,6 - 17,1,N/A,N/A,N/A
+54,Julius Randle,FT,None,6:38,1,Pelicans,Suns,7 - 17,0,N/A,1,N/A
+55,E'Twaun Moore,SUBSTITUTION,Williams Kenrich,6:38,1,Pelicans,Suns,7 - 17,0,N/A,N/A,N/A
+56,Darius Miller,SUBSTITUTION,Payton Elfrid,6:38,1,Pelicans,Suns,7 - 17,0,N/A,N/A,N/A
+57,Julius Randle,FT,None,6:38,1,Pelicans,Suns,8 - 17,0,N/A,1,N/A
+58,Devin Booker,TURNOVER,Jrue Holiday,6:28,1,Suns,Pelicans,8 - 17,1,N/A,N/A,N/A
+59,Anthony Davis,FG_UNASSISTED,None,6:22,1,Pelicans,Suns,10 - 17,0, ,2,Jumper
+60,Team,Unknown,None,6:22,1,Suns,Pelicans,10 - 17,1,N/A,N/A,N/A
+61,Richaun Holmes,SUBSTITUTION,Ayton Deandre,6:22,1,Suns,Pelicans,10 - 17,1,N/A,N/A,N/A
+62,Kelly Oubre,FG_ASSISTED,Tyler Johnson,6:03,1,Suns,Pelicans,10 - 20,1,23,3,Jumper
+63,E'Twaun Moore,FG_ASSISTED,Jrue Holiday,5:49,1,Pelicans,Suns,12 - 20,0,12,2,Jumper
+64,E'Twaun Moore,FOUL_ON_FLOOR,None,5:38,1,Pelicans,Suns,12 - 20,0,N/A,N/A,N/A
+65,Cheick Diallo,SUBSTITUTION,Holiday Jrue,5:38,1,Pelicans,Suns,12 - 20,0,N/A,N/A,N/A
+66,Frank Jackson,SUBSTITUTION,for game,5:38,1,Pelicans,Suns,12 - 20,0,N/A,N/A,N/A
+67,enters the,SUBSTITUTION,Randle Julius,5:38,1,Pelicans,Suns,12 - 20,0,N/A,N/A,N/A
+68,Richaun Holmes's,FG_MISS,Anthony Davis,5:27,1,Pelicans,Suns,12 - 20,1, ,2,Jumper
+69,E'Twaun Moore,DEFENSIVE_REBOUND,None,5:22,1,Pelicans,Suns,12 - 20,0,N/A,N/A,N/A
+70,Anthony Davis,FG_ASSISTED,E'Twaun Moore,5:19,1,Pelicans,Suns,14 - 20,0,1,2,Jumper
+71,Kelly Oubre,FG_UNASSISTED,None,4:56,1,Suns,Pelicans,14 - 22,1, ,2,Jumper
+72,Frank Jackson,FG_MISS,None,4:41,1,Pelicans,Suns,14 - 22,0, ,2,Jumper
+73,Devin Booker,DEFENSIVE_REBOUND,None,4:39,1,Suns,Pelicans,14 - 22,1,N/A,N/A,N/A
+74,Devin Booker,FG_MISS,None,4:30,1,Suns,Pelicans,14 - 22,1,17,2,Jumper
+75,Frank Jackson,DEFENSIVE_REBOUND,None,4:27,1,Pelicans,Suns,14 - 22,0,N/A,N/A,N/A
+76,Frank Jackson,TURNOVER,None,4:26,1,Pelicans,Suns,14 - 22,0,N/A,N/A,N/A
+77,E'Twaun Moore,FOUL_ON_FLOOR,None,4:12,1,Pelicans,Suns,14 - 22,0,N/A,N/A,N/A
+78,Richaun Holmes,FT_MISS,None,4:12,1,Suns,Pelicans,14 - 22,1,N/A,1,N/A
+79,Team,OFFENSIVE_REBOUND,None,4:12,1,Suns,Pelicans,14 - 22,1,N/A,N/A,N/A
+80,Josh Jackson,SUBSTITUTION,Bender Dragan,4:12,1,Suns,Pelicans,14 - 22,1,N/A,N/A,N/A
+81,Richaun Holmes,FT,None,4:12,1,Suns,Pelicans,14 - 23,1,N/A,1,N/A
+82,Richaun Holmes,FOUL_ON_FLOOR,None,4:02,1,Suns,Pelicans,14 - 23,1,N/A,N/A,N/A
+83,Anthony Davis,FT_MISS,None,4:02,1,Pelicans,Suns,14 - 23,0,N/A,1,N/A
+84,Team,OFFENSIVE_REBOUND,None,4:02,1,Pelicans,Suns,14 - 23,0,N/A,N/A,N/A
+85,Anthony Davis,FT,None,4:02,1,Pelicans,Suns,15 - 23,0,N/A,1,N/A
+86,Kelly Oubre,FG_MISS,None,3:50,1,Suns,Pelicans,15 - 23,1, ,2,Jumper
+87,Kelly Oubre,OFFENSIVE_REBOUND,None,3:47,1,Suns,Pelicans,15 - 23,1,N/A,N/A,N/A
+88,Josh Jackson,FG_MISS,Anthony Davis,3:41,1,Pelicans,Suns,15 - 23,1,6,2,Jumper
+89,Kelly Oubre,OFFENSIVE_REBOUND,None,3:37,1,Suns,Pelicans,15 - 23,1,N/A,N/A,N/A
+90,Kelly Oubre,FG_MISS,None,3:35,1,Suns,Pelicans,15 - 23,1,23,3,Jumper
+91,Cheick Diallo,DEFENSIVE_REBOUND,None,3:31,1,Pelicans,Suns,15 - 23,0,N/A,N/A,N/A
+92,Anthony Davis,FG_UNASSISTED,None,3:21,1,Pelicans,Suns,17 - 23,0,14,2,Jumper
+93,Anthony Davis,FOUL_ON_FLOOR,None,3:12,1,Pelicans,Suns,17 - 23,0,N/A,N/A,N/A
+94,Devin Booker,FT,None,3:12,1,Suns,Pelicans,17 - 24,1,N/A,1,N/A
+95,Mikal Bridges,SUBSTITUTION,Oubre Kelly,3:12,1,Suns,Pelicans,17 - 24,1,N/A,N/A,N/A
+96,De'Anthony Melton,SUBSTITUTION,Johnson Tyler,3:12,1,Suns,Pelicans,17 - 24,1,N/A,N/A,N/A
+97,Julius Randle,SUBSTITUTION,Davis Anthony,3:12,1,Pelicans,Suns,17 - 24,0,N/A,N/A,N/A
+98,Devin Booker,FT,None,3:12,1,Suns,Pelicans,17 - 25,1,N/A,1,N/A
+99,Frank Jackson,TURNOVER,Richaun Holmes,3:04,1,Pelicans,Suns,17 - 25,0,N/A,N/A,N/A
+100,Devin Booker,FG_MISS,None,3:00,1,Suns,Pelicans,17 - 25,1, ,2,Jumper
+101,Cheick Diallo,DEFENSIVE_REBOUND,None,2:56,1,Pelicans,Suns,17 - 25,0,N/A,N/A,N/A
+102,Cheick Diallo,FG_MISS,None,2:41,1,Pelicans,Suns,17 - 25,0,15,2,Jumper
+103,Josh Jackson,DEFENSIVE_REBOUND,None,2:38,1,Suns,Pelicans,17 - 25,1,N/A,N/A,N/A
+104,Julius Randle,FOUL_ON_FLOOR,None,2:34,1,Pelicans,Suns,17 - 25,0,N/A,N/A,N/A
+105,Richaun Holmes,FT,None,2:34,1,Suns,Pelicans,17 - 26,1,N/A,1,N/A
+106,Richaun Holmes,FT_MISS,None,2:34,1,Suns,Pelicans,17 - 26,1,N/A,1,N/A
+107,Julius Randle,DEFENSIVE_REBOUND,None,2:29,1,Pelicans,Suns,17 - 26,0,N/A,N/A,N/A
+108,Julius Randle,FG_ASSISTED,Darius Miller,2:18,1,Pelicans,Suns,19 - 26,0, ,2,Jumper
+109,Devin Booker,FOUL_ON_FLOOR,None,2:14,1,Suns,Pelicans,19 - 26,1,N/A,N/A,N/A
+110,Devin Booker,TURNOVER,None,2:14,1,Suns,Pelicans,19 - 26,1,N/A,N/A,N/A
+111,Frank Jackson,FG_ASSISTED,Darius Miller,2:00,1,Pelicans,Suns,22 - 26,0,24,3,Jumper
+112,Devin Booker,FG_MISS,None,1:38,1,Suns,Pelicans,22 - 26,1, ,2,Jumper
+113,Richaun Holmes,OFFENSIVE_REBOUND,None,1:36,1,Suns,Pelicans,22 - 26,1,N/A,N/A,N/A
+114,Richaun Holmes,FG_UNASSISTED,None,1:35,1,Suns,Pelicans,22 - 28,1, ,2,Jumper
+115,Julius Randle,FG_MISS,None,1:34,1,Pelicans,Suns,22 - 28,0,25,3,Jumper
+116,De'Anthony Melton,DEFENSIVE_REBOUND,None,1:20,1,Suns,Pelicans,22 - 28,1,N/A,N/A,N/A
+117,Josh Jackson,FG_MISS,None,1:15,1,Suns,Pelicans,22 - 28,1,0,2,Dunk
+118,Frank Jackson,DEFENSIVE_REBOUND,None,1:13,1,Pelicans,Suns,22 - 28,0,N/A,N/A,N/A
+119,Mikal Bridges,FOUL_ON_FLOOR,None,1:11,1,Suns,Pelicans,22 - 28,1,N/A,N/A,N/A
+120,E'Twaun Moore,FT,None,1:11,1,Pelicans,Suns,23 - 28,0,N/A,1,N/A
+121,E'Twaun Moore,FT,None,1:11,1,Pelicans,Suns,24 - 28,0,N/A,1,N/A
+122,Frank Jackson,FOUL_ON_FLOOR,None,1:01,1,Pelicans,Suns,24 - 28,0,N/A,N/A,N/A
+123,Devin Booker,FT,None,1:01,1,Suns,Pelicans,24 - 29,1,N/A,1,N/A
+124,Devin Booker,FT,None,1:01,1,Suns,Pelicans,24 - 30,1,N/A,1,N/A
+125,Frank Jackson,FG_ASSISTED,Cheick Diallo,52.8,1,Pelicans,Suns,27 - 30,0,26,3,Jumper
+126,Devin Booker,TURNOVER,Cheick Diallo,46.2,1,Suns,Pelicans,27 - 30,1,N/A,N/A,N/A
+127,Julius Randle,FG_MISS,None,39.8,1,Pelicans,Suns,27 - 30,0, ,2,Jumper
+128,Devin Booker,DEFENSIVE_REBOUND,None,36.7,1,Suns,Pelicans,27 - 30,1,N/A,N/A,N/A
+129,Richaun Holmes,FG_ASSISTED,Josh Jackson,32.1,1,Suns,Pelicans,27 - 32,1,0,2,Dunk
+130,E'Twaun Moore,FG_MISS,None,23.3,1,Pelicans,Suns,27 - 32,0,13,2,Jumper
+131,De'Anthony Melton,DEFENSIVE_REBOUND,None,20.2,1,Suns,Pelicans,27 - 32,1,N/A,N/A,N/A
+132,De'Anthony Melton,FG_MISS,None,1.9,1,Suns,Pelicans,27 - 32,1,25,3,Jumper
+133,Team,OFFENSIVE_REBOUND,None,1.9,1,Suns,Pelicans,27 - 32,1,N/A,N/A,N/A
+134,End of,Unknown,None,0.0,1,Suns,Pelicans,27 - 32,1,N/A,N/A,N/A
+0,Troy Daniels,SUBSTITUTION,Booker Devin,12:00,2,Suns,Pelicans,27 - 32,1,N/A,N/A,N/A
+1,Kenrich Williams,SUBSTITUTION,Diallo Cheick,12:00,2,Pelicans,Suns,27 - 32,0,N/A,N/A,N/A
+2,Jahlil Okafor,SUBSTITUTION,Jackson Frank,12:00,2,Pelicans,Suns,27 - 32,0,N/A,N/A,N/A
+3,Elfrid Payton,SUBSTITUTION,Moore E'Twaun,12:00,2,Pelicans,Suns,27 - 32,0,N/A,N/A,N/A
+4,Jrue Holiday,SUBSTITUTION,Randle Julius,12:00,2,Pelicans,Suns,27 - 32,0,N/A,N/A,N/A
+5,Jahlil Okafor,FOUL_ON_FLOOR,None,11:47,2,Pelicans,Suns,27 - 32,0,N/A,N/A,N/A
+6,Josh Jackson,FT,None,11:47,2,Suns,Pelicans,27 - 33,1,N/A,1,N/A
+7,Josh Jackson,FT,None,11:47,2,Suns,Pelicans,27 - 34,1,N/A,1,N/A
+8,Richaun Holmes,FOUL_ON_FLOOR,None,11:36,2,Suns,Pelicans,27 - 34,1,N/A,N/A,N/A
+9,Jrue Holiday,FG_ASSISTED,Jahlil Okafor,11:25,2,Pelicans,Suns,29 - 34,0, ,2,Jumper
+10,De'Anthony Melton,FG_MISS,None,11:12,2,Suns,Pelicans,29 - 34,1, ,2,Jumper
+11,Jrue Holiday,DEFENSIVE_REBOUND,None,11:10,2,Pelicans,Suns,29 - 34,0,N/A,N/A,N/A
+12,Jrue Holiday,FG_MISS,None,11:02,2,Pelicans,Suns,29 - 34,0,10,2,Jumper
+13,Jrue Holiday,OFFENSIVE_REBOUND,None,10:59,2,Pelicans,Suns,29 - 34,0,N/A,N/A,N/A
+14,Darius Miller,FG_MISS,None,10:52,2,Pelicans,Suns,29 - 34,0,25,3,Jumper
+15,Richaun Holmes,DEFENSIVE_REBOUND,None,10:50,2,Suns,Pelicans,29 - 34,1,N/A,N/A,N/A
+16,Josh Jackson,TURNOVER,Darius Miller,10:43,2,Suns,Pelicans,29 - 34,1,N/A,N/A,N/A
+17,Mikal Bridges,FOUL_ON_FLOOR,None,10:43,2,Suns,Pelicans,29 - 34,1,N/A,N/A,N/A
+18,Deandre Ayton,SUBSTITUTION,Holmes Richaun,10:43,2,Suns,Pelicans,29 - 34,1,N/A,N/A,N/A
+19,Jahlil Okafor,FG_MISS,None,10:22,2,Pelicans,Suns,29 - 34,0,10,2,Jumper
+20,Deandre Ayton,DEFENSIVE_REBOUND,None,10:19,2,Suns,Pelicans,29 - 34,1,N/A,N/A,N/A
+21,Troy Daniels,FG_MISS,None,10:16,2,Suns,Pelicans,29 - 34,1,25,3,Jumper
+22,Team,DEFENSIVE_REBOUND,None,10:15,2,Pelicans,Suns,29 - 34,0,N/A,N/A,N/A
+23,Deandre Ayton,FOUL_ON_FLOOR,None,10:15,2,Suns,Pelicans,29 - 34,1,N/A,N/A,N/A
+24,Kenrich Williams,FG_ASSISTED,Elfrid Payton,10:04,2,Pelicans,Suns,32 - 34,0,25,3,Jumper
+25,Troy Daniels,FG_MISS,None,9:49,2,Suns,Pelicans,32 - 34,1,20,2,Jumper
+26,Kenrich Williams,DEFENSIVE_REBOUND,None,9:44,2,Pelicans,Suns,32 - 34,0,N/A,N/A,N/A
+27,Elfrid Payton,TURNOVER,De'Anthony Melton,9:39,2,Pelicans,Suns,32 - 34,0,N/A,N/A,N/A
+28,Troy Daniels,FG_ASSISTED,Mikal Bridges,9:33,2,Suns,Pelicans,32 - 37,1,23,3,Jumper
+29,Darius Miller,FG_UNASSISTED,None,9:14,2,Pelicans,Suns,34 - 37,0, ,2,Jumper
+30,Deandre Ayton,FG_ASSISTED,Josh Jackson,8:50,2,Suns,Pelicans,34 - 39,1,0,2,Layup
+31,Mikal Bridges,FOUL_ON_FLOOR,None,8:43,2,Suns,Pelicans,34 - 39,1,N/A,N/A,N/A
+32,Elfrid Payton,FG_MISS,None,8:34,2,Pelicans,Suns,34 - 39,0, ,2,Jumper
+33,Deandre Ayton,DEFENSIVE_REBOUND,None,8:32,2,Suns,Pelicans,34 - 39,1,N/A,N/A,N/A
+34,De'Anthony Melton,FG_ASSISTED,Mikal Bridges,8:22,2,Suns,Pelicans,34 - 42,1,26,3,Jumper
+35,Jahlil Okafor,FG_ASSISTED,Jrue Holiday,8:12,2,Pelicans,Suns,36 - 42,0,0,2,Dunk
+36,Josh Jackson,FG_MISS,None,7:55,2,Suns,Pelicans,36 - 42,1,0,2,Layup
+37,Elfrid Payton,DEFENSIVE_REBOUND,None,7:52,2,Pelicans,Suns,36 - 42,0,N/A,N/A,N/A
+38,Darius Miller,FG_MISS,None,7:42,2,Pelicans,Suns,36 - 42,0,23,3,Jumper
+39,Mikal Bridges,DEFENSIVE_REBOUND,None,7:38,2,Suns,Pelicans,36 - 42,1,N/A,N/A,N/A
+40,De'Anthony Melton,FG_ASSISTED,Josh Jackson,7:36,2,Suns,Pelicans,36 - 45,1,26,3,Jumper
+41,Jrue Holiday,FG_UNASSISTED,None,7:22,2,Pelicans,Suns,38 - 45,0,0,2,Layup
+42,Troy Daniels,FG_ASSISTED,De'Anthony Melton,7:01,2,Suns,Pelicans,38 - 48,1,23,3,Jumper
+43,Team,Unknown,None,6:51,2,Pelicans,Suns,38 - 48,0,N/A,N/A,N/A
+44,Kelly Oubre,SUBSTITUTION,Bridges Mikal,6:51,2,Suns,Pelicans,38 - 48,1,N/A,N/A,N/A
+45,Frank Jackson,SUBSTITUTION,Payton Elfrid,6:51,2,Pelicans,Suns,38 - 48,0,N/A,N/A,N/A
+46,E'Twaun Moore,SUBSTITUTION,Miller Darius,6:51,2,Pelicans,Suns,38 - 48,0,N/A,N/A,N/A
+47,Frank Jackson,TURNOVER,None,6:50,2,Pelicans,Suns,38 - 48,0,N/A,N/A,N/A
+48,Deandre Ayton,TURNOVER,None,6:37,2,Suns,Pelicans,38 - 48,1,N/A,N/A,N/A
+49,Frank Jackson,FG_ASSISTED,E'Twaun Moore,6:22,2,Pelicans,Suns,41 - 48,0,23,3,Jumper
+50,Deandre Ayton,FG_MISS,None,6:10,2,Suns,Pelicans,41 - 48,1,19,2,Jumper
+51,Jahlil Okafor,DEFENSIVE_REBOUND,None,6:06,2,Pelicans,Suns,41 - 48,0,N/A,N/A,N/A
+52,E'Twaun Moore,FG_MISS,None,5:46,2,Pelicans,Suns,41 - 48,0,14,2,Jumper
+53,Deandre Ayton,DEFENSIVE_REBOUND,None,5:44,2,Suns,Pelicans,41 - 48,1,N/A,N/A,N/A
+54,Kelly Oubre,FG_MISS,Kenrich Williams,5:38,2,Pelicans,Suns,41 - 48,1,0,2,Layup
+55,Team,OFFENSIVE_REBOUND,None,5:38,2,Suns,Pelicans,41 - 48,1,N/A,N/A,N/A
+56,Tyler Johnson,SUBSTITUTION,Melton De'Anthony,5:38,2,Suns,Pelicans,41 - 48,1,N/A,N/A,N/A
+57,Troy Daniels,FG_MISS,None,5:36,2,Suns,Pelicans,41 - 48,1,12,2,Jumper
+58,Jrue Holiday,DEFENSIVE_REBOUND,None,5:33,2,Pelicans,Suns,41 - 48,0,N/A,N/A,N/A
+59,E'Twaun Moore,TURNOVER,None,5:30,2,Pelicans,Suns,41 - 48,0,N/A,N/A,N/A
+60,Deandre Ayton,FG_MISS,None,5:09,2,Suns,Pelicans,41 - 48,1,16,2,Jumper
+61,Kenrich Williams,DEFENSIVE_REBOUND,None,5:06,2,Pelicans,Suns,41 - 48,0,N/A,N/A,N/A
+62,Kenrich Williams,TURNOVER,Deandre Ayton,5:03,2,Pelicans,Suns,41 - 48,0,N/A,N/A,N/A
+63,Devin Booker,SUBSTITUTION,Daniels Troy,5:03,2,Suns,Pelicans,41 - 48,1,N/A,N/A,N/A
+64,Elfrid Payton,SUBSTITUTION,Holiday Jrue,5:03,2,Pelicans,Suns,41 - 48,0,N/A,N/A,N/A
+65,Kenrich Williams,JUMP_BALL,None,4:59,2,Suns,Pelicans,41 - 48,1,N/A,N/A,N/A
+66,Kelly Oubre,TURNOVER,E'Twaun Moore,4:55,2,Suns,Pelicans,41 - 48,1,N/A,N/A,N/A
+67,Jahlil Okafor,FG_ASSISTED,Elfrid Payton,4:35,2,Pelicans,Suns,43 - 48,0,0,2,Layup
+68,Devin Booker,FG_UNASSISTED,None,4:12,2,Suns,Pelicans,43 - 50,1,0,2,Layup
+69,E'Twaun Moore,FG_MISS,None,4:04,2,Pelicans,Suns,43 - 50,0,23,3,Jumper
+70,Tyler Johnson,DEFENSIVE_REBOUND,None,4:00,2,Suns,Pelicans,43 - 50,1,N/A,N/A,N/A
+71,Tyler Johnson,TURNOVER,None,3:59,2,Suns,Pelicans,43 - 50,1,N/A,N/A,N/A
+72,Dragan Bender,SUBSTITUTION,Jackson Josh,3:59,2,Suns,Pelicans,43 - 50,1,N/A,N/A,N/A
+73,Anthony Davis,SUBSTITUTION,Okafor Jahlil,3:59,2,Pelicans,Suns,43 - 50,0,N/A,N/A,N/A
+74,Julius Randle,SUBSTITUTION,Williams Kenrich,3:59,2,Pelicans,Suns,43 - 50,0,N/A,N/A,N/A
+75,Frank Jackson,FG_MISS,None,3:44,2,Pelicans,Suns,43 - 50,0, ,2,Jumper
+76,Anthony Davis,OFFENSIVE_REBOUND,None,3:39,2,Pelicans,Suns,43 - 50,0,N/A,N/A,N/A
+77,Anthony Davis,FG_UNASSISTED,None,3:39,2,Pelicans,Suns,45 - 50,0, ,2,Jumper
+78,Devin Booker,FG_UNASSISTED,None,3:32,2,Suns,Pelicans,45 - 52,1,10,2,Jumper
+79,Elfrid Payton,FG_MISS,None,3:19,2,Pelicans,Suns,45 - 52,0,0,2,Layup
+80,Elfrid Payton,OFFENSIVE_REBOUND,None,3:19,2,Pelicans,Suns,45 - 52,0,N/A,N/A,N/A
+81,Elfrid Payton,FG_UNASSISTED,None,3:13,2,Pelicans,Suns,47 - 52,0, ,2,Jumper
+82,Kelly Oubre,FG_MISS,None,2:58,2,Suns,Pelicans,47 - 52,1,27,3,Jumper
+83,E'Twaun Moore,DEFENSIVE_REBOUND,None,2:56,2,Pelicans,Suns,47 - 52,0,N/A,N/A,N/A
+84,Julius Randle,TURNOVER,None,2:47,2,Pelicans,Suns,47 - 52,0,N/A,N/A,N/A
+85,Team,Unknown,None,2:47,2,Suns,Pelicans,47 - 52,1,N/A,N/A,N/A
+86,Richaun Holmes,SUBSTITUTION,Ayton Deandre,2:47,2,Suns,Pelicans,47 - 52,1,N/A,N/A,N/A
+87,Dragan Bender,TURNOVER,Anthony Davis,2:28,2,Suns,Pelicans,47 - 52,1,N/A,N/A,N/A
+88,Anthony Davis,TURNOVER,Richaun Holmes,2:28,2,Pelicans,Suns,47 - 52,0,N/A,N/A,N/A
+89,Richaun Holmes,TURNOVER,None,2:28,2,Suns,Pelicans,47 - 52,1,N/A,N/A,N/A
+90,Kelly Oubre,FOUL_ON_FLOOR,None,2:17,2,Suns,Pelicans,47 - 52,1,N/A,N/A,N/A
+91,Anthony Davis,FT_MISS,None,2:17,2,Pelicans,Suns,47 - 52,0,N/A,1,N/A
+92,Team,OFFENSIVE_REBOUND,None,2:17,2,Pelicans,Suns,47 - 52,0,N/A,N/A,N/A
+93,Anthony Davis,FT,None,2:17,2,Pelicans,Suns,48 - 52,0,N/A,1,N/A
+94,Julius Randle,FOUL_ON_FLOOR,None,1:59,2,Pelicans,Suns,48 - 52,0,N/A,N/A,N/A
+95,Kelly Oubre,FT,None,1:59,2,Suns,Pelicans,48 - 53,1,N/A,1,N/A
+96,Kelly Oubre,FT,None,1:59,2,Suns,Pelicans,48 - 54,1,N/A,1,N/A
+97,Elfrid Payton,TURNOVER,Kelly Oubre,1:52,2,Pelicans,Suns,48 - 54,0,N/A,N/A,N/A
+98,Devin Booker,FG_MISS,None,1:46,2,Suns,Pelicans,48 - 54,1,26,3,Jumper
+99,Frank Jackson,DEFENSIVE_REBOUND,None,1:43,2,Pelicans,Suns,48 - 54,0,N/A,N/A,N/A
+100,Dragan Bender,FOUL_ON_FLOOR,None,1:38,2,Suns,Pelicans,48 - 54,1,N/A,N/A,N/A
+101,E'Twaun Moore,FT,None,1:38,2,Pelicans,Suns,49 - 54,0,N/A,1,N/A
+102,E'Twaun Moore,FT,None,1:38,2,Pelicans,Suns,50 - 54,0,N/A,1,N/A
+103,Tyler Johnson,FG_MISS,None,1:27,2,Suns,Pelicans,50 - 54,1,14,2,Jumper
+104,Anthony Davis,DEFENSIVE_REBOUND,None,1:23,2,Pelicans,Suns,50 - 54,0,N/A,N/A,N/A
+105,E'Twaun Moore,FG_ASSISTED,Anthony Davis,1:15,2,Pelicans,Suns,53 - 54,0,25,3,Jumper
+106,Kelly Oubre,FG_ASSISTED,Richaun Holmes,53.3,2,Suns,Pelicans,53 - 56,1,0,2,Layup
+107,Julius Randle,FG_MISS,None,45.2,2,Pelicans,Suns,53 - 56,0,25,3,Jumper
+108,Tyler Johnson,DEFENSIVE_REBOUND,None,42.2,2,Suns,Pelicans,53 - 56,1,N/A,N/A,N/A
+109,E'Twaun Moore,FOUL_ON_FLOOR,None,38.7,2,Pelicans,Suns,53 - 56,0,N/A,N/A,N/A
+110,Devin Booker,FT,None,38.7,2,Suns,Pelicans,53 - 57,1,N/A,1,N/A
+111,Darius Miller,SUBSTITUTION,Moore E'Twaun,38.7,2,Pelicans,Suns,53 - 57,0,N/A,N/A,N/A
+112,Devin Booker,FT_MISS,None,38.7,2,Suns,Pelicans,53 - 57,1,N/A,1,N/A
+113,Anthony Davis,DEFENSIVE_REBOUND,None,35.3,2,Pelicans,Suns,53 - 57,0,N/A,N/A,N/A
+114,Anthony Davis,FG_ASSISTED,Elfrid Payton,32.1,2,Pelicans,Suns,56 - 57,0,25,3,Jumper
+115,Kelly Oubre,FG_MISS,Anthony Davis,10.4,2,Pelicans,Suns,56 - 57,1,0,2,Dunk
+116,Elfrid Payton,DEFENSIVE_REBOUND,None,8.4,2,Pelicans,Suns,56 - 57,0,N/A,N/A,N/A
+117,Elfrid Payton,FG_MISS,Tyler Johnson,4.9,2,Suns,Pelicans,56 - 57,0,0,2,Layup
+118,Elfrid Payton,OFFENSIVE_REBOUND,None,2.3,2,Pelicans,Suns,56 - 57,0,N/A,N/A,N/A
+119,Darius Miller,FG_MISS,None,0.0,2,Pelicans,Suns,56 - 57,0,23,3,Jumper
+120,Team,OFFENSIVE_REBOUND,None,0.0,2,Pelicans,Suns,56 - 57,0,N/A,N/A,N/A
+121,End of,Unknown,None,0.0,2,Suns,Pelicans,56 - 57,1,N/A,N/A,N/A
+0,Deandre Ayton,SUBSTITUTION,Holmes Richaun,12:00,3,Suns,Pelicans,56 - 57,1,N/A,N/A,N/A
+1,Jrue Holiday,SUBSTITUTION,Jackson Frank,12:00,3,Pelicans,Suns,56 - 57,0,N/A,N/A,N/A
+2,Kenrich Williams,SUBSTITUTION,Miller Darius,12:00,3,Pelicans,Suns,56 - 57,0,N/A,N/A,N/A
+3,Devin Booker,FG_MISS,None,11:37,3,Suns,Pelicans,56 - 57,1,25,3,Jumper
+4,Elfrid Payton,DEFENSIVE_REBOUND,None,11:33,3,Pelicans,Suns,56 - 57,0,N/A,N/A,N/A
+5,Dragan Bender,FOUL_ON_FLOOR,None,11:24,3,Suns,Pelicans,56 - 57,1,N/A,N/A,N/A
+6,Anthony Davis,FG_UNASSISTED,None,11:18,3,Pelicans,Suns,58 - 57,0,11,2,Jumper
+7,Dragan Bender,FG_ASSISTED,Devin Booker,11:03,3,Suns,Pelicans,58 - 60,1,26,3,Jumper
+8,Jrue Holiday,FG_ASSISTED,Elfrid Payton,10:47,3,Pelicans,Suns,61 - 60,0,27,3,Jumper
+9,Kelly Oubre,FG_MISS,None,10:31,3,Suns,Pelicans,61 - 60,1,25,3,Jumper
+10,Kenrich Williams,DEFENSIVE_REBOUND,None,10:27,3,Pelicans,Suns,61 - 60,0,N/A,N/A,N/A
+11,Dragan Bender,FOUL_ON_FLOOR,None,10:21,3,Suns,Pelicans,61 - 60,1,N/A,N/A,N/A
+12,Julius Randle,FT,None,10:21,3,Pelicans,Suns,62 - 60,0,N/A,1,N/A
+13,Julius Randle,FT,None,10:21,3,Pelicans,Suns,63 - 60,0,N/A,1,N/A
+14,Kenrich Williams,FOUL_ON_FLOOR,None,9:57,3,Pelicans,Suns,63 - 60,0,N/A,N/A,N/A
+15,Devin Booker,FT,None,9:57,3,Suns,Pelicans,63 - 61,1,N/A,1,N/A
+16,Devin Booker,FT,None,9:57,3,Suns,Pelicans,63 - 62,1,N/A,1,N/A
+17,Anthony Davis,FG_MISS,None,9:48,3,Pelicans,Suns,63 - 62,0, ,2,Jumper
+18,Julius Randle,OFFENSIVE_REBOUND,None,9:45,3,Pelicans,Suns,63 - 62,0,N/A,N/A,N/A
+19,Julius Randle,FG_UNASSISTED,None,9:45,3,Pelicans,Suns,65 - 62,0, ,2,Jumper
+20,Devin Booker,FG_UNASSISTED,None,9:34,3,Suns,Pelicans,65 - 64,1, ,2,Jumper
+21,Julius Randle,FG_ASSISTED,Anthony Davis,9:25,3,Pelicans,Suns,68 - 64,0,26,3,Jumper
+22,Devin Booker,FG_ASSISTED,Tyler Johnson,9:13,3,Suns,Pelicans,68 - 66,1,17,2,Jumper
+23,Julius Randle,FG_ASSISTED,Elfrid Payton,9:05,3,Pelicans,Suns,70 - 66,0, ,2,Jumper
+24,Team,Unknown,None,9:05,3,Suns,Pelicans,68 - 66,1,N/A,N/A,N/A
+25,Devin Booker,FG_MISS,None,8:55,3,Suns,Pelicans,70 - 66,1,26,3,Jumper
+26,Anthony Davis,DEFENSIVE_REBOUND,None,8:51,3,Pelicans,Suns,70 - 66,0,N/A,N/A,N/A
+27,Jrue Holiday,FG_ASSISTED,Anthony Davis,8:47,3,Pelicans,Suns,73 - 66,0,30,3,Jumper
+28,Kelly Oubre,FG_MISS,None,8:28,3,Suns,Pelicans,73 - 66,1, ,2,Jumper
+29,Anthony Davis,DEFENSIVE_REBOUND,None,8:25,3,Pelicans,Suns,73 - 66,0,N/A,N/A,N/A
+30,Elfrid Payton,FG_ASSISTED,Julius Randle,8:19,3,Pelicans,Suns,75 - 66,0,0,2,Layup
+31,Kelly Oubre,FG_MISS,None,8:02,3,Suns,Pelicans,75 - 66,1,20,2,Jumper
+32,Kenrich Williams,DEFENSIVE_REBOUND,None,7:59,3,Pelicans,Suns,75 - 66,0,N/A,N/A,N/A
+33,Julius Randle,FG_ASSISTED,Jrue Holiday,7:52,3,Pelicans,Suns,77 - 66,0,9,2,Jumper
+34,Dragan Bender,FG_MISS,None,7:35,3,Suns,Pelicans,77 - 66,1, ,3,Jumper
+35,Anthony Davis,DEFENSIVE_REBOUND,None,7:31,3,Pelicans,Suns,77 - 66,0,N/A,N/A,N/A
+36,Jrue Holiday,FG_MISS,None,7:27,3,Pelicans,Suns,77 - 66,0,26,3,Jumper
+37,Kenrich Williams,OFFENSIVE_REBOUND,None,7:23,3,Pelicans,Suns,77 - 66,0,N/A,N/A,N/A
+38,Anthony Davis,FOUL_ON_FLOOR,None,7:14,3,Pelicans,Suns,77 - 66,0,N/A,N/A,N/A
+39,Anthony Davis,TURNOVER,None,7:14,3,Pelicans,Suns,77 - 66,0,N/A,N/A,N/A
+40,Mikal Bridges,SUBSTITUTION,Oubre Kelly,7:14,3,Suns,Pelicans,77 - 66,1,N/A,N/A,N/A
+41,Josh Jackson,SUBSTITUTION,Bender Dragan,7:14,3,Suns,Pelicans,77 - 66,1,N/A,N/A,N/A
+42,Deandre Ayton,FG_ASSISTED,Tyler Johnson,7:04,3,Suns,Pelicans,77 - 68,1,13,2,Jumper
+43,Mikal Bridges,FOUL_ON_FLOOR,None,6:51,3,Suns,Pelicans,77 - 68,1,N/A,N/A,N/A
+44,Jrue Holiday,FOUL_ON_FLOOR,None,6:47,3,Pelicans,Suns,77 - 68,0,N/A,N/A,N/A
+45,Jrue Holiday,TURNOVER,None,6:47,3,Pelicans,Suns,77 - 68,0,N/A,N/A,N/A
+46,Tyler Johnson,TURNOVER,Elfrid Payton,6:39,3,Suns,Pelicans,77 - 68,1,N/A,N/A,N/A
+47,Julius Randle,FG_UNASSISTED,None,6:30,3,Pelicans,Suns,79 - 68,0,0,2,Layup
+48,Josh Jackson,FOUL_ON_FLOOR,None,6:30,3,Suns,Pelicans,79 - 68,1,N/A,N/A,N/A
+49,Julius Randle,FT,None,6:30,3,Pelicans,Suns,80 - 68,0,N/A,1,N/A
+50,Devin Booker,TURNOVER,None,6:17,3,Suns,Pelicans,80 - 68,1,N/A,N/A,N/A
+51,Anthony Davis,FG_MISS,None,6:05,3,Pelicans,Suns,80 - 68,0,7,2,Jumper
+52,Deandre Ayton,DEFENSIVE_REBOUND,None,6:04,3,Suns,Pelicans,80 - 68,1,N/A,N/A,N/A
+53,Mikal Bridges,FG_ASSISTED,Devin Booker,5:46,3,Suns,Pelicans,80 - 70,1,0,2,Layup
+54,Julius Randle,TURNOVER,None,5:38,3,Pelicans,Suns,80 - 70,0,N/A,N/A,N/A
+55,Frank Jackson,SUBSTITUTION,Holiday Jrue,5:38,3,Pelicans,Suns,80 - 70,0,N/A,N/A,N/A
+56,Josh Jackson,FG_MISS,None,5:22,3,Suns,Pelicans,80 - 70,1,27,3,Jumper
+57,Devin Booker,OFFENSIVE_REBOUND,None,5:18,3,Suns,Pelicans,80 - 70,1,N/A,N/A,N/A
+58,Devin Booker,FG_MISS,None,5:12,3,Suns,Pelicans,80 - 70,1,15,2,Jumper
+59,Team,OFFENSIVE_REBOUND,None,5:11,3,Suns,Pelicans,80 - 70,1,N/A,N/A,N/A
+60,Tyler Johnson,FG_MISS,None,4:58,3,Suns,Pelicans,80 - 70,1,27,3,Jumper
+61,Tyler Johnson,OFFENSIVE_REBOUND,None,4:55,3,Suns,Pelicans,80 - 70,1,N/A,N/A,N/A
+62,Josh Jackson,FG_ASSISTED,Tyler Johnson,4:52,3,Suns,Pelicans,80 - 72,1, ,2,Jumper
+63,Anthony Davis,FG_MISS,None,4:41,3,Pelicans,Suns,80 - 72,0,11,2,Jumper
+64,Devin Booker,DEFENSIVE_REBOUND,None,4:39,3,Suns,Pelicans,80 - 72,1,N/A,N/A,N/A
+65,Devin Booker,FG_UNASSISTED,None,4:33,3,Suns,Pelicans,80 - 74,1,0,2,Dunk
+66,Elfrid Payton,FG_UNASSISTED,None,4:18,3,Pelicans,Suns,82 - 74,0,3,2,Jumper
+67,Deandre Ayton,FG_ASSISTED,Devin Booker,4:02,3,Suns,Pelicans,82 - 76,1,0,2,Dunk
+68,Elfrid Payton,TURNOVER,Mikal Bridges,3:55,3,Pelicans,Suns,82 - 76,0,N/A,N/A,N/A
+69,Mikal Bridges,TURNOVER,Frank Jackson,3:50,3,Suns,Pelicans,82 - 76,1,N/A,N/A,N/A
+70,Julius Randle,FG_ASSISTED,Elfrid Payton,3:44,3,Pelicans,Suns,84 - 76,0,0,2,Dunk
+71,Tyler Johnson,FG_ASSISTED,Devin Booker,3:29,3,Suns,Pelicans,84 - 79,1,26,3,Jumper
+72,Team,Unknown,None,3:29,3,Pelicans,Suns,84 - 79,0,N/A,N/A,N/A
+73,Richaun Holmes,SUBSTITUTION,Ayton Deandre,3:29,3,Suns,Pelicans,84 - 79,1,N/A,N/A,N/A
+74,Cheick Diallo,SUBSTITUTION,Payton Elfrid,3:29,3,Pelicans,Suns,84 - 79,0,N/A,N/A,N/A
+75,E'Twaun Moore,SUBSTITUTION,Davis Anthony,3:29,3,Pelicans,Suns,84 - 79,0,N/A,N/A,N/A
+76,Jrue Holiday,SUBSTITUTION,Randle Julius,3:29,3,Pelicans,Suns,84 - 79,0,N/A,N/A,N/A
+77,Darius Miller,SUBSTITUTION,Williams Kenrich,3:29,3,Pelicans,Suns,84 - 79,0,N/A,N/A,N/A
+78,Frank Jackson,FG_MISS,None,3:07,3,Pelicans,Suns,84 - 79,0,18,2,Jumper
+79,Josh Jackson,DEFENSIVE_REBOUND,None,3:04,3,Suns,Pelicans,84 - 79,1,N/A,N/A,N/A
+80,Josh Jackson,FG_MISS,None,2:57,3,Suns,Pelicans,84 - 79,1, ,2,Jumper
+81,E'Twaun Moore,DEFENSIVE_REBOUND,None,2:55,3,Pelicans,Suns,84 - 79,0,N/A,N/A,N/A
+82,E'Twaun Moore,FG_ASSISTED,Jrue Holiday,2:46,3,Pelicans,Suns,87 - 79,0,23,3,Jumper
+83,Devin Booker,FG_MISS,None,2:29,3,Suns,Pelicans,87 - 79,1,25,3,Jumper
+84,Cheick Diallo,DEFENSIVE_REBOUND,None,2:26,3,Pelicans,Suns,87 - 79,0,N/A,N/A,N/A
+85,Jrue Holiday,FG_UNASSISTED,None,2:16,3,Pelicans,Suns,89 - 79,0,0,2,Layup
+86,Devin Booker,FOUL_ON_FLOOR,None,2:16,3,Suns,Pelicans,89 - 79,1,N/A,N/A,N/A
+87,Jrue Holiday,FT_MISS,None,2:16,3,Pelicans,Suns,89 - 79,0,N/A,1,N/A
+88,Josh Jackson,DEFENSIVE_REBOUND,None,2:14,3,Suns,Pelicans,89 - 79,1,N/A,N/A,N/A
+89,E'Twaun Moore,FOUL_ON_FLOOR,None,1:58,3,Pelicans,Suns,89 - 79,0,N/A,N/A,N/A
+90,Mikal Bridges,FT,None,1:58,3,Suns,Pelicans,89 - 80,1,N/A,1,N/A
+91,De'Anthony Melton,SUBSTITUTION,Booker Devin,1:58,3,Suns,Pelicans,89 - 80,1,N/A,N/A,N/A
+92,Troy Daniels,SUBSTITUTION,Johnson Tyler,1:58,3,Suns,Pelicans,89 - 80,1,N/A,N/A,N/A
+93,Mikal Bridges,FT,None,1:58,3,Suns,Pelicans,89 - 81,1,N/A,1,N/A
+94,Jrue Holiday,TURNOVER,Mikal Bridges,1:45,3,Pelicans,Suns,89 - 81,0,N/A,N/A,N/A
+95,De'Anthony Melton,TURNOVER,Jrue Holiday,1:38,3,Suns,Pelicans,89 - 81,1,N/A,N/A,N/A
+96,Jrue Holiday,FG_ASSISTED,E'Twaun Moore,1:32,3,Pelicans,Suns,92 - 81,0,26,3,Jumper
+97,Richaun Holmes,FG_MISS,None,1:08,3,Suns,Pelicans,92 - 81,1,9,2,Jumper
+98,Frank Jackson,DEFENSIVE_REBOUND,None,1:05,3,Pelicans,Suns,92 - 81,0,N/A,N/A,N/A
+99,Jrue Holiday,FG_MISS,None,59.8,3,Pelicans,Suns,92 - 81,0,26,2,Jumper
+100,Cheick Diallo,OFFENSIVE_REBOUND,None,56.0,3,Pelicans,Suns,92 - 81,0,N/A,N/A,N/A
+101,shot clock,TURNOVER,None,43.1,3,Pelicans,Suns,92 - 81,0,N/A,N/A,N/A
+102,Troy Daniels,FG_ASSISTED,De'Anthony Melton,32.2,3,Suns,Pelicans,92 - 84,1,28,3,Jumper
+103,Jrue Holiday,FG_UNASSISTED,None,18.9,3,Pelicans,Suns,94 - 84,0,6,2,Jumper
+104,De'Anthony Melton,FG_MISS,None,1.8,3,Suns,Pelicans,94 - 84,1,12,2,Jumper
+105,Cheick Diallo,DEFENSIVE_REBOUND,None,0.2,3,Pelicans,Suns,94 - 84,0,N/A,N/A,N/A
+106,End of,Unknown,None,0.0,3,Suns,Pelicans,94 - 84,1,N/A,N/A,N/A
+0,Julius Randle,SUBSTITUTION,Miller Darius,12:00,4,Pelicans,Suns,94 - 84,0,N/A,N/A,N/A
+1,Jrue Holiday,FG_MISS,None,11:44,4,Pelicans,Suns,94 - 84,0,12,2,Jumper
+2,Troy Daniels,DEFENSIVE_REBOUND,None,11:40,4,Suns,Pelicans,94 - 84,1,N/A,N/A,N/A
+3,Josh Jackson,FG_UNASSISTED,None,11:24,4,Suns,Pelicans,94 - 86,1,20,2,Jumper
+4,De'Anthony Melton,FOUL_ON_FLOOR,None,11:14,4,Suns,Pelicans,94 - 86,1,N/A,N/A,N/A
+5,Cheick Diallo,FG_ASSISTED,Jrue Holiday,11:10,4,Pelicans,Suns,96 - 86,0, ,2,Jumper
+6,Cheick Diallo,FOUL_ON_FLOOR,None,11:03,4,Pelicans,Suns,96 - 86,0,N/A,N/A,N/A
+7,Richaun Holmes,FT,None,11:03,4,Suns,Pelicans,96 - 87,1,N/A,1,N/A
+8,Richaun Holmes,FT,None,11:03,4,Suns,Pelicans,96 - 88,1,N/A,1,N/A
+9,Julius Randle,FG_MISS,None,10:55,4,Pelicans,Suns,96 - 88,0,17,2,Jumper
+10,Troy Daniels,DEFENSIVE_REBOUND,None,10:51,4,Suns,Pelicans,96 - 88,1,N/A,N/A,N/A
+11,Richaun Holmes,FG_MISS,None,10:38,4,Suns,Pelicans,96 - 88,1,3,2,Jumper
+12,Troy Daniels,OFFENSIVE_REBOUND,None,10:37,4,Suns,Pelicans,96 - 88,1,N/A,N/A,N/A
+13,Josh Jackson,TURNOVER,E'Twaun Moore,10:24,4,Suns,Pelicans,96 - 88,1,N/A,N/A,N/A
+14,E'Twaun Moore,FG_ASSISTED,Julius Randle,10:16,4,Pelicans,Suns,99 - 88,0,26,3,Jumper
+15,Josh Jackson,FG_MISS,None,9:56,4,Suns,Pelicans,99 - 88,1, ,3,Jumper
+16,Frank Jackson,DEFENSIVE_REBOUND,None,9:54,4,Pelicans,Suns,99 - 88,0,N/A,N/A,N/A
+17,Cheick Diallo,FG_MISS,None,9:51,4,Pelicans,Suns,99 - 88,0, ,2,Jumper
+18,Troy Daniels,DEFENSIVE_REBOUND,None,9:47,4,Suns,Pelicans,99 - 88,1,N/A,N/A,N/A
+19,Troy Daniels,FG_UNASSISTED,None,9:46,4,Suns,Pelicans,99 - 90,1, ,2,Jumper
+20,Jrue Holiday,FOUL_ON_FLOOR,None,9:46,4,Pelicans,Suns,99 - 90,0,N/A,N/A,N/A
+21,Team,Unknown,None,9:46,4,Pelicans,Suns,99 - 90,0,N/A,N/A,N/A
+22,Kelly Oubre,SUBSTITUTION,Melton De'Anthony,9:46,4,Suns,Pelicans,99 - 90,1,N/A,N/A,N/A
+23,Elfrid Payton,SUBSTITUTION,Randle Julius,9:46,4,Pelicans,Suns,99 - 90,0,N/A,N/A,N/A
+24,Troy Daniels,FT,None,9:46,4,Suns,Pelicans,99 - 91,1,N/A,1,N/A
+25,Julius Randle,SUBSTITUTION,Holiday Jrue,9:46,4,Pelicans,Suns,99 - 91,0,N/A,N/A,N/A
+26,De'Anthony Melton,SUBSTITUTION,Jackson Josh,9:46,4,Suns,Pelicans,99 - 91,1,N/A,N/A,N/A
+27,Julius Randle,FG_MISS,Richaun Holmes,9:30,4,Suns,Pelicans,99 - 91,0,4,2,Jumper
+28,Mikal Bridges,DEFENSIVE_REBOUND,None,9:24,4,Suns,Pelicans,99 - 91,1,N/A,N/A,N/A
+29,De'Anthony Melton,FG_MISS,None,9:21,4,Suns,Pelicans,99 - 91,1,25,3,Jumper
+30,Cheick Diallo,DEFENSIVE_REBOUND,None,9:21,4,Pelicans,Suns,99 - 91,0,N/A,N/A,N/A
+31,Elfrid Payton,TURNOVER,Troy Daniels,9:07,4,Pelicans,Suns,99 - 91,0,N/A,N/A,N/A
+32,Troy Daniels,TURNOVER,Cheick Diallo,8:57,4,Suns,Pelicans,99 - 91,1,N/A,N/A,N/A
+33,E'Twaun Moore,FG_MISS,None,8:45,4,Pelicans,Suns,99 - 91,0,22,2,Jumper
+34,Elfrid Payton,OFFENSIVE_REBOUND,None,8:40,4,Pelicans,Suns,99 - 91,0,N/A,N/A,N/A
+35,Richaun Holmes,FOUL_ON_FLOOR,None,8:39,4,Suns,Pelicans,99 - 91,1,N/A,N/A,N/A
+36,E'Twaun Moore,FT,None,8:39,4,Pelicans,Suns,100 - 91,0,N/A,1,N/A
+37,E'Twaun Moore,FT,None,8:39,4,Pelicans,Suns,101 - 91,0,N/A,1,N/A
+38,Troy Daniels,FG_ASSISTED,Mikal Bridges,8:27,4,Suns,Pelicans,101 - 94,1,25,3,Jumper
+39,E'Twaun Moore,FG_ASSISTED,Julius Randle,8:15,4,Pelicans,Suns,104 - 94,0,26,3,Jumper
+40,De'Anthony Melton,FG_MISS,None,7:54,4,Suns,Pelicans,104 - 94,1,0,2,Layup
+41,Cheick Diallo,DEFENSIVE_REBOUND,None,7:54,4,Pelicans,Suns,104 - 94,0,N/A,N/A,N/A
+42,Richaun Holmes,OFFENSIVE_REBOUND,None,7:50,4,Suns,Pelicans,104 - 94,1,N/A,N/A,N/A
+43,Richaun Holmes,FG_MISS,None,7:50,4,Suns,Pelicans,104 - 94,1, ,2,Jumper
+44,Cheick Diallo,FG_ASSISTED,Elfrid Payton,7:44,4,Pelicans,Suns,106 - 94,0, ,2,Jumper
+45,Kelly Oubre,FG_MISS,None,7:21,4,Suns,Pelicans,106 - 94,1,11,2,Jumper
+46,Richaun Holmes,OFFENSIVE_REBOUND,None,7:17,4,Suns,Pelicans,106 - 94,1,N/A,N/A,N/A
+47,Richaun Holmes,FG_UNASSISTED,None,7:16,4,Suns,Pelicans,106 - 96,1, ,2,Jumper
+48,Julius Randle,FG_UNASSISTED,None,6:59,4,Pelicans,Suns,108 - 96,0,8,2,Jumper
+49,Kelly Oubre,FG_MISS,None,6:41,4,Suns,Pelicans,108 - 96,1,23,3,Jumper
+50,Cheick Diallo,DEFENSIVE_REBOUND,None,6:37,4,Pelicans,Suns,108 - 96,0,N/A,N/A,N/A
+51,E'Twaun Moore,TURNOVER,Kelly Oubre,6:34,4,Pelicans,Suns,108 - 96,0,N/A,N/A,N/A
+52,Troy Daniels,FG_MISS,None,6:30,4,Suns,Pelicans,108 - 96,1,25,3,Jumper
+53,Team,DEFENSIVE_REBOUND,None,6:30,4,Pelicans,Suns,108 - 96,0,N/A,N/A,N/A
+54,Deandre Ayton,SUBSTITUTION,Holmes Richaun,6:28,4,Suns,Pelicans,108 - 96,1,N/A,N/A,N/A
+55,Devin Booker,SUBSTITUTION,Melton De'Anthony,6:28,4,Suns,Pelicans,108 - 96,1,N/A,N/A,N/A
+56,Darius Miller,SUBSTITUTION,Moore E'Twaun,6:28,4,Pelicans,Suns,108 - 96,0,N/A,N/A,N/A
+57,Elfrid Payton,FG_MISS,None,6:15,4,Pelicans,Suns,108 - 96,0,0,2,Layup
+58,Kelly Oubre,DEFENSIVE_REBOUND,None,6:13,4,Suns,Pelicans,108 - 96,1,N/A,N/A,N/A
+59,Kelly Oubre,FG_UNASSISTED,None,6:13,4,Suns,Pelicans,108 - 98,1, ,2,Jumper
+60,Darius Miller,FOUL_ON_FLOOR,None,6:13,4,Pelicans,Suns,108 - 98,0,N/A,N/A,N/A
+61,Kenrich Williams,SUBSTITUTION,Jackson Frank,6:13,4,Pelicans,Suns,108 - 98,0,N/A,N/A,N/A
+62,Jrue Holiday,SUBSTITUTION,Randle Julius,6:13,4,Pelicans,Suns,108 - 98,0,N/A,N/A,N/A
+63,Kelly Oubre,FT_MISS,None,6:13,4,Suns,Pelicans,108 - 98,1,N/A,1,N/A
+64,Kenrich Williams,DEFENSIVE_REBOUND,None,6:10,4,Pelicans,Suns,108 - 98,0,N/A,N/A,N/A
+65,Darius Miller,TURNOVER,Kelly Oubre,5:58,4,Pelicans,Suns,108 - 98,0,N/A,N/A,N/A
+66,Devin Booker,TURNOVER,None,5:44,4,Suns,Pelicans,108 - 98,1,N/A,N/A,N/A
+67,Darius Miller,FG_ASSISTED,Jrue Holiday,5:34,4,Pelicans,Suns,111 - 98,0, ,3,Jumper
+68,Team,Unknown,None,5:27,4,Suns,Pelicans,111 - 98,1,N/A,N/A,N/A
+69,Deandre Ayton,FG_ASSISTED,Devin Booker,5:09,4,Suns,Pelicans,111 - 100,1,0,2,Layup
+70,Cheick Diallo,FG_ASSISTED,Jrue Holiday,4:48,4,Pelicans,Suns,113 - 100,0,0,2,Layup
+71,Kelly Oubre,FG_ASSISTED,Devin Booker,4:40,4,Suns,Pelicans,113 - 102,1,1,2,Jumper
+72,Elfrid Payton,TURNOVER,Devin Booker,4:28,4,Pelicans,Suns,113 - 102,0,N/A,N/A,N/A
+73,Devin Booker,FG_MISS,None,4:25,4,Suns,Pelicans,113 - 102,1,1,2,Jumper
+74,Kenrich Williams,DEFENSIVE_REBOUND,None,4:21,4,Pelicans,Suns,113 - 102,0,N/A,N/A,N/A
+75,Jrue Holiday,FG_UNASSISTED,None,4:05,4,Pelicans,Suns,115 - 102,0,0,2,Layup
+76,Team,Unknown,None,4:05,4,Suns,Pelicans,115 - 102,1,N/A,N/A,N/A
+77,Tyler Johnson,SUBSTITUTION,Daniels Troy,4:05,4,Suns,Pelicans,115 - 102,1,N/A,N/A,N/A
+78,Mikal Bridges,FG_ASSISTED,Kelly Oubre,3:50,4,Suns,Pelicans,115 - 105,1,1,2,Jumper
+79,Darius Miller,FG_MISS,None,3:34,4,Pelicans,Suns,115 - 105,0,25,3,Jumper
+80,Kenrich Williams,OFFENSIVE_REBOUND,None,3:29,4,Pelicans,Suns,115 - 105,0,N/A,N/A,N/A
+81,Cheick Diallo,FG_ASSISTED,Elfrid Payton,3:26,4,Pelicans,Suns,117 - 105,0,0,2,Dunk
+82,Kelly Oubre,TURNOVER,Elfrid Payton,3:05,4,Suns,Pelicans,117 - 105,1,N/A,N/A,N/A
+83,Kelly Oubre,FOUL_ON_FLOOR,None,3:05,4,Suns,Pelicans,117 - 105,1,N/A,N/A,N/A
+84,Team,Unknown,None,3:05,4,Pelicans,Suns,117 - 105,0,N/A,N/A,N/A
+85,Jrue Holiday,TURNOVER,Deandre Ayton,2:51,4,Pelicans,Suns,117 - 105,0,N/A,N/A,N/A
+86,Kenrich Williams,FOUL_ON_FLOOR,None,2:49,4,Pelicans,Suns,117 - 105,0,N/A,N/A,N/A
+87,Devin Booker,FT,None,2:49,4,Suns,Pelicans,117 - 106,1,N/A,1,N/A
+88,Devin Booker,FT,None,2:49,4,Suns,Pelicans,117 - 107,1,N/A,1,N/A
+89,Cheick Diallo,FG_ASSISTED,Darius Miller,2:37,4,Pelicans,Suns,119 - 107,0,7,2,Jumper
+90,Devin Booker,FG_MISS,None,2:29,4,Suns,Pelicans,119 - 107,1,13,2,Jumper
+91,Deandre Ayton,OFFENSIVE_REBOUND,None,2:22,4,Suns,Pelicans,119 - 107,1,N/A,N/A,N/A
+92,Deandre Ayton,FG_UNASSISTED,None,2:22,4,Suns,Pelicans,119 - 109,1,0,2,Dunk
+93,Jrue Holiday,TURNOVER,Mikal Bridges,2:21,4,Pelicans,Suns,119 - 109,0,N/A,N/A,N/A
+94,Devin Booker,FG_ASSISTED,Mikal Bridges,2:18,4,Suns,Pelicans,119 - 112,1,26,3,Jumper
+95,Kenrich Williams,FG_ASSISTED,Darius Miller,2:05,4,Pelicans,Suns,122 - 112,0,26,3,Jumper
+96,Kelly Oubre,FG_MISS,None,1:52,4,Suns,Pelicans,122 - 112,1,25,3,Jumper
+97,Jrue Holiday,DEFENSIVE_REBOUND,None,1:49,4,Pelicans,Suns,122 - 112,0,N/A,N/A,N/A
+98,Cheick Diallo,FG_ASSISTED,Jrue Holiday,1:42,4,Pelicans,Suns,124 - 112,0,7,2,Jumper
+99,Tyler Johnson,FG_MISS,None,1:27,4,Suns,Pelicans,124 - 112,1,1,2,Jumper
+100,Cheick Diallo,DEFENSIVE_REBOUND,None,1:24,4,Pelicans,Suns,124 - 112,0,N/A,N/A,N/A
+101,Darius Miller,FG_ASSISTED,Jrue Holiday,1:13,4,Pelicans,Suns,127 - 112,0,24,3,Jumper
+102,Jrue Holiday,FOUL_ON_FLOOR,None,1:05,4,Pelicans,Suns,127 - 112,0,N/A,N/A,N/A
+103,Devin Booker,FT,None,1:05,4,Suns,Pelicans,127 - 113,1,N/A,1,N/A
+104,Devin Booker,FT,None,1:05,4,Suns,Pelicans,127 - 114,1,N/A,1,N/A
+105,Frank Jackson,SUBSTITUTION,Holiday Jrue,1:05,4,Pelicans,Suns,127 - 114,0,N/A,N/A,N/A
+106,Elfrid Payton,FG_MISS,None,47.7,4,Pelicans,Suns,127 - 114,0,0,2,Layup
+107,Cheick Diallo,OFFENSIVE_REBOUND,None,46.0,4,Pelicans,Suns,127 - 114,0,N/A,N/A,N/A
+108,Cheick Diallo,FG_UNASSISTED,None,46.0,4,Pelicans,Suns,129 - 114,0,1,2,Jumper
+109,Tyler Johnson,FG_MISS,None,35.6,4,Suns,Pelicans,129 - 114,1,26,3,Jumper
+110,Cheick Diallo,DEFENSIVE_REBOUND,None,32.4,4,Pelicans,Suns,129 - 114,0,N/A,N/A,N/A
+111,Kelly Oubre,FOUL_ON_FLOOR,None,14.0,4,Suns,Pelicans,129 - 114,1,N/A,N/A,N/A
+112,Cheick Diallo,FT_MISS,None,14.0,4,Pelicans,Suns,129 - 114,0,N/A,1,N/A
+113,Team,OFFENSIVE_REBOUND,None,14.0,4,Pelicans,Suns,129 - 114,0,N/A,N/A,N/A
+114,Cheick Diallo,FT,None,14.0,4,Pelicans,Suns,130 - 114,0,N/A,1,N/A
+115,Kelly Oubre,FG_UNASSISTED,None,1.9,4,Suns,Pelicans,130 - 116,1,0,2,Layup
+116,End of,Unknown,None,0.0,4,Suns,Pelicans,130 - 116,1,N/A,N/A,N/A
+117,End of,Unknown,None,0.0,4,Suns,Pelicans,130 - 116,1,N/A,N/A,N/A

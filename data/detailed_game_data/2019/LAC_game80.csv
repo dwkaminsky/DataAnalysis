@@ -1,0 +1,464 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Montrezl Harrell,JUMP_BALL,None,12:00,1,Clippers,Warriors,0 - 0,0,N/A,N/A,N/A
+1,Shai Gilgeous-Alexander,FG_ASSISTED,Landry Shamet,11:42,1,Clippers,Warriors,2 - 0,0,0,2,Layup
+2,Kevin Durant,FG_UNASSISTED,None,11:17,1,Warriors,Clippers,2 - 2,1,8,3,Jumper
+3,Wilson Chandler,FG_MISS,None,10:57,1,Clippers,Warriors,2 - 2,0,30,3,Jumper
+4,Stephen Curry,DEFENSIVE_REBOUND,None,10:55,1,Warriors,Clippers,2 - 2,1,N/A,N/A,N/A
+5,Draymond Green,TURNOVER,Lou Williams,10:50,1,Warriors,Clippers,2 - 2,1,N/A,N/A,N/A
+6,Lou Williams,FG_ASSISTED,Montrezl Harrell,10:40,1,Clippers,Warriors,4 - 2,0,20,3,Jumper
+7,Kevin Durant,FG_ASSISTED,Draymond Green,10:28,1,Warriors,Clippers,4 - 4,1,11,3,Jumper
+8,Wilson Chandler,FG_MISS,None,10:06,1,Clippers,Warriors,4 - 4,0,22,3,Jumper
+9,Stephen Curry,DEFENSIVE_REBOUND,None,10:05,1,Warriors,Clippers,4 - 4,1,N/A,N/A,N/A
+10,Klay Thompson,FG_ASSISTED,Stephen Curry,10:02,1,Warriors,Clippers,4 - 6,1,0,2,Layup
+11,Wilson Chandler,FG_MISS,None,9:45,1,Clippers,Warriors,4 - 6,0,26,3,Jumper
+12,Kevin Durant,DEFENSIVE_REBOUND,None,9:43,1,Warriors,Clippers,4 - 6,1,N/A,N/A,N/A
+13,Klay Thompson,FG_ASSISTED,Kevin Durant,9:30,1,Warriors,Clippers,4 - 8,1,16,3,Jumper
+14,Shai Gilgeous-Alexander,FG_MISS,None,9:17,1,Clippers,Warriors,4 - 8,0,0,2,Layup
+15,DeMarcus Cousins,DEFENSIVE_REBOUND,None,9:16,1,Warriors,Clippers,4 - 8,1,N/A,N/A,N/A
+16,Kevin Durant,TURNOVER,Lou Williams,9:10,1,Warriors,Clippers,4 - 8,1,N/A,N/A,N/A
+17,Landry Shamet,FG_ASSISTED,Lou Williams,9:03,1,Clippers,Warriors,7 - 8,0,27,3,Jumper
+18,Stephen Curry,FG_ASSISTED,DeMarcus Cousins,8:48,1,Warriors,Clippers,7 - 10,1,0,2,Layup
+19,Lou Williams,FG_MISS,None,8:39,1,Clippers,Warriors,7 - 10,0, ,3,Jumper
+20,Draymond Green,DEFENSIVE_REBOUND,None,8:38,1,Warriors,Clippers,7 - 10,1,N/A,N/A,N/A
+21,Lou Williams,FOUL_ON_FLOOR,None,8:32,1,Clippers,Warriors,7 - 10,0,N/A,N/A,N/A
+22,DeMarcus Cousins,TURNOVER,Montrezl Harrell,8:29,1,Warriors,Clippers,7 - 10,1,N/A,N/A,N/A
+23,Montrezl Harrell,FG_MISS,None,8:23,1,Clippers,Warriors,7 - 10,0,11,3,Jumper
+24,DeMarcus Cousins,DEFENSIVE_REBOUND,None,8:22,1,Warriors,Clippers,7 - 10,1,N/A,N/A,N/A
+25,Kevin Durant,FG_UNASSISTED,None,8:07,1,Warriors,Clippers,7 - 13,1,28,3,Jumper
+26,Lou Williams,FG_MISS,None,7:51,1,Clippers,Warriors,7 - 13,0, ,3,Jumper
+27,Draymond Green,DEFENSIVE_REBOUND,None,7:50,1,Warriors,Clippers,7 - 13,1,N/A,N/A,N/A
+28,DeMarcus Cousins,FG_MISS,None,7:35,1,Warriors,Clippers,7 - 13,1,28,3,Jumper
+29,Lou Williams,DEFENSIVE_REBOUND,None,7:33,1,Clippers,Warriors,7 - 13,0,N/A,N/A,N/A
+30,Lou Williams,TURNOVER,DeMarcus Cousins,7:27,1,Clippers,Warriors,7 - 13,0,N/A,N/A,N/A
+31,Landry Shamet,FOUL_ON_FLOOR,None,7:25,1,Clippers,Warriors,7 - 13,0,N/A,N/A,N/A
+32,DeMarcus Cousins,FT,None,7:25,1,Warriors,Clippers,7 - 14,1,N/A,1,N/A
+33,DeMarcus Cousins,FT,None,7:25,1,Warriors,Clippers,7 - 15,1,N/A,1,N/A
+34,Landry Shamet,FG_ASSISTED,Lou Williams,7:07,1,Clippers,Warriors,10 - 15,0,27,3,Jumper
+35,Stephen Curry,FG_ASSISTED,Draymond Green,6:51,1,Warriors,Clippers,10 - 17,1,0,2,Layup
+36,Team,Unknown,None,6:40,1,Warriors,Clippers,10 - 17,1,N/A,N/A,N/A
+37,Landry Shamet,FG_ASSISTED,Shai Gilgeous-Alexander,6:34,1,Clippers,Warriors,13 - 17,0,25,3,Jumper
+38,Kevin Durant,FG_UNASSISTED,None,6:12,1,Warriors,Clippers,13 - 19,1,13,3,Jumper
+39,Draymond Green,FOUL_ON_FLOOR,None,5:57,1,Warriors,Clippers,13 - 19,1,N/A,N/A,N/A
+40,Shai Gilgeous-Alexander,FT,None,5:57,1,Clippers,Warriors,14 - 19,0,N/A,1,N/A
+41,Shai Gilgeous-Alexander,FT_MISS,None,5:57,1,Clippers,Warriors,14 - 19,0,N/A,1,N/A
+42,DeMarcus Cousins,DEFENSIVE_REBOUND,None,5:55,1,Warriors,Clippers,14 - 19,1,N/A,N/A,N/A
+43,Wilson Chandler,FOUL_ON_FLOOR,None,5:37,1,Clippers,Warriors,14 - 19,0,N/A,N/A,N/A
+44,Kevin Durant,FT,None,5:37,1,Warriors,Clippers,14 - 20,1,N/A,1,N/A
+45,Kevin Durant,FT_MISS,None,5:37,1,Warriors,Clippers,14 - 20,1,N/A,1,N/A
+46,Wilson Chandler,DEFENSIVE_REBOUND,None,5:36,1,Clippers,Warriors,14 - 20,0,N/A,N/A,N/A
+47,Montrezl Harrell,FG_ASSISTED,Shai Gilgeous-Alexander,5:20,1,Clippers,Warriors,16 - 20,0,0,2,Layup
+48,DeMarcus Cousins,FG_MISS,None,4:59,1,Warriors,Clippers,16 - 20,1,28,3,Jumper
+49,Wilson Chandler,DEFENSIVE_REBOUND,None,4:57,1,Clippers,Warriors,16 - 20,0,N/A,N/A,N/A
+50,Wilson Chandler,FG_UNASSISTED,None,4:51,1,Clippers,Warriors,19 - 20,0,28,3,Jumper
+51,DeMarcus Cousins,FG_MISS,Lou Williams,4:32,1,Clippers,Warriors,19 - 20,1,6,3,Jumper
+52,Lou Williams,DEFENSIVE_REBOUND,None,4:31,1,Clippers,Warriors,19 - 20,0,N/A,N/A,N/A
+53,Landry Shamet,FG_MISS,None,4:28,1,Clippers,Warriors,19 - 20,0,26,3,Jumper
+54,Kevin Durant,DEFENSIVE_REBOUND,None,4:26,1,Warriors,Clippers,19 - 20,1,N/A,N/A,N/A
+55,Stephen Curry,FG_ASSISTED,Kevin Durant,4:08,1,Warriors,Clippers,19 - 23,1,26,3,Jumper
+56,Team,Unknown,None,4:01,1,Clippers,Warriors,19 - 23,0,N/A,N/A,N/A
+57,Alfonzo McKinnie,SUBSTITUTION,Cousins DeMarcus,4:01,1,Warriors,Clippers,19 - 23,1,N/A,N/A,N/A
+58,Kevon Looney,SUBSTITUTION,Thompson Klay,4:01,1,Warriors,Clippers,19 - 23,1,N/A,N/A,N/A
+59,Garrett Temple,SUBSTITUTION,Gilgeous-Alexander Shai,4:01,1,Clippers,Warriors,19 - 23,0,N/A,N/A,N/A
+60,Landry Shamet,FG_ASSISTED,Garrett Temple,3:42,1,Clippers,Warriors,22 - 23,0,26,3,Jumper
+61,Alfonzo McKinnie,FG_ASSISTED,Stephen Curry,3:24,1,Warriors,Clippers,22 - 26,1,26,3,Jumper
+62,Wilson Chandler,FG_ASSISTED,Landry Shamet,3:06,1,Clippers,Warriors,24 - 26,0,17,3,Jumper
+63,Landry Shamet,Unknown,None,2:53,1,Clippers,Warriors,24 - 26,0,N/A,N/A,N/A
+64,Damion Lee,SUBSTITUTION,Durant Kevin,2:53,1,Warriors,Clippers,24 - 26,1,N/A,N/A,N/A
+65,Ivica Zubac,SUBSTITUTION,Harrell Montrezl,2:53,1,Clippers,Warriors,24 - 26,0,N/A,N/A,N/A
+66,Kevon Looney,FG_ASSISTED,Draymond Green,2:44,1,Warriors,Clippers,24 - 28,1,18,3,Jumper
+67,Ivica Zubac,FG_MISS,None,2:24,1,Clippers,Warriors,24 - 28,0, ,3,Jumper
+68,Draymond Green,DEFENSIVE_REBOUND,None,2:23,1,Warriors,Clippers,24 - 28,1,N/A,N/A,N/A
+69,Stephen Curry,FG_MISS,Landry Shamet,2:17,1,Clippers,Warriors,24 - 28,1,27,3,Jumper
+70,Lou Williams,DEFENSIVE_REBOUND,None,2:15,1,Clippers,Warriors,24 - 28,0,N/A,N/A,N/A
+71,Garrett Temple,FG_ASSISTED,Lou Williams,2:09,1,Clippers,Warriors,26 - 28,0,0,2,Layup
+72,Draymond Green,FG_MISS,None,1:56,1,Warriors,Clippers,26 - 28,1, ,3,Jumper
+73,Wilson Chandler,DEFENSIVE_REBOUND,None,1:55,1,Clippers,Warriors,26 - 28,0,N/A,N/A,N/A
+74,Wilson Chandler,TURNOVER,Kevon Looney,1:49,1,Clippers,Warriors,26 - 28,0,N/A,N/A,N/A
+75,Draymond Green,FG_MISS,None,1:37,1,Warriors,Clippers,26 - 28,1,29,3,Jumper
+76,Lou Williams,DEFENSIVE_REBOUND,None,1:35,1,Clippers,Warriors,26 - 28,0,N/A,N/A,N/A
+77,Lou Williams,FG_MISS,None,1:30,1,Clippers,Warriors,26 - 28,0,0,2,Layup
+78,Stephen Curry,DEFENSIVE_REBOUND,None,1:29,1,Warriors,Clippers,26 - 28,1,N/A,N/A,N/A
+79,Kevon Looney,FG_ASSISTED,Draymond Green,1:20,1,Warriors,Clippers,26 - 30,1,0,2,Layup
+80,Damion Lee,FOUL_ON_FLOOR,None,1:09,1,Warriors,Clippers,26 - 30,1,N/A,N/A,N/A
+81,Lou Williams,FT,None,1:09,1,Clippers,Warriors,27 - 30,0,N/A,1,N/A
+82,Shai Gilgeous-Alexander,SUBSTITUTION,Shamet Landry,1:09,1,Clippers,Warriors,27 - 30,0,N/A,N/A,N/A
+83,Lou Williams,FT,None,1:09,1,Clippers,Warriors,28 - 30,0,N/A,1,N/A
+84,Damion Lee,FG_MISS,None,55.5,1,Warriors,Clippers,28 - 30,1,27,3,Jumper
+85,Wilson Chandler,DEFENSIVE_REBOUND,None,53.9,1,Clippers,Warriors,28 - 30,0,N/A,N/A,N/A
+86,Ivica Zubac's,FG_MISS,Alfonzo McKinnie,46.8,1,Warriors,Clippers,28 - 30,0,0,2,Dunk
+87,Damion Lee,DEFENSIVE_REBOUND,None,44.6,1,Warriors,Clippers,28 - 30,1,N/A,N/A,N/A
+88,Stephen Curry,FG_ASSISTED,Draymond Green,42.1,1,Warriors,Clippers,28 - 32,1, ,3,Jumper
+89,Shai Gilgeous-Alexander,FG_MISS,None,33.7,1,Clippers,Warriors,28 - 32,0,11,3,Jumper
+90,Damion Lee,DEFENSIVE_REBOUND,None,32.8,1,Warriors,Clippers,28 - 32,1,N/A,N/A,N/A
+91,Stephen Curry,FG_MISS,None,26.5,1,Warriors,Clippers,28 - 32,1,27,3,Jumper
+92,Ivica Zubac,DEFENSIVE_REBOUND,None,24.2,1,Clippers,Warriors,28 - 32,0,N/A,N/A,N/A
+93,Lou Williams,FG_MISS,None,0.2,1,Clippers,Warriors,28 - 32,0,30,3,Jumper
+94,Team,OFFENSIVE_REBOUND,None,0.0,1,Clippers,Warriors,28 - 32,0,N/A,N/A,N/A
+95,End of,Unknown,None,0.0,1,Warriors,Clippers,28 - 32,1,N/A,N/A,N/A
+0,Quinn Cook,SUBSTITUTION,Lee Damion,12:00,2,Warriors,Clippers,28 - 32,1,N/A,N/A,N/A
+1,DeMarcus Cousins,SUBSTITUTION,Looney Kevon,12:00,2,Warriors,Clippers,28 - 32,1,N/A,N/A,N/A
+2,Jonas Jerebko,SUBSTITUTION,Green Draymond,12:00,2,Warriors,Clippers,28 - 32,1,N/A,N/A,N/A
+3,Klay Thompson,SUBSTITUTION,McKinnie Alfonzo,12:00,2,Warriors,Clippers,28 - 32,1,N/A,N/A,N/A
+4,Shaun Livingston,SUBSTITUTION,Curry Stephen,12:00,2,Warriors,Clippers,28 - 32,1,N/A,N/A,N/A
+5,Tyrone Wallace,SUBSTITUTION,Chandler Wilson,12:00,2,Clippers,Warriors,28 - 32,0,N/A,N/A,N/A
+6,Montrezl Harrell,SUBSTITUTION,Williams Lou,12:00,2,Clippers,Warriors,28 - 32,0,N/A,N/A,N/A
+7,DeMarcus Cousins,FG_MISS,None,11:39,2,Warriors,Clippers,28 - 32,1,9,3,Jumper
+8,Montrezl Harrell,DEFENSIVE_REBOUND,None,11:38,2,Clippers,Warriors,28 - 32,0,N/A,N/A,N/A
+9,Shai Gilgeous-Alexander,FG_UNASSISTED,None,11:32,2,Clippers,Warriors,30 - 32,0,0,2,Layup
+10,Jonas Jerebko,FG_ASSISTED,DeMarcus Cousins,11:21,2,Warriors,Clippers,30 - 35,1,27,3,Jumper
+11,Jonas Jerebko,FOUL_ON_FLOOR,None,11:05,2,Warriors,Clippers,30 - 35,1,N/A,N/A,N/A
+12,Shai Gilgeous-Alexander,FG_UNASSISTED,None,11:01,2,Clippers,Warriors,32 - 35,0,8,3,Jumper
+13,Shaun Livingston,FOUL_ON_FLOOR,None,11:01,2,Warriors,Clippers,32 - 35,1,N/A,N/A,N/A
+14,Shai Gilgeous-Alexander,FT,None,11:01,2,Clippers,Warriors,33 - 35,0,N/A,1,N/A
+15,Klay Thompson,FG_MISS,Montrezl Harrell,10:50,2,Clippers,Warriors,33 - 35,1,0,2,Layup
+16,Garrett Temple,DEFENSIVE_REBOUND,None,10:49,2,Clippers,Warriors,33 - 35,0,N/A,N/A,N/A
+17,Montrezl Harrell,FG_MISS,None,10:32,2,Clippers,Warriors,33 - 35,0,9,3,Jumper
+18,DeMarcus Cousins,DEFENSIVE_REBOUND,None,10:31,2,Warriors,Clippers,33 - 35,1,N/A,N/A,N/A
+19,Tyrone Wallace,FOUL_ON_FLOOR,None,10:18,2,Clippers,Warriors,33 - 35,0,N/A,N/A,N/A
+20,DeMarcus Cousins,FG_MISS,None,10:18,2,Warriors,Clippers,33 - 35,1, ,3,Jumper
+21,Jonas Jerebko,OFFENSIVE_REBOUND,None,10:16,2,Warriors,Clippers,33 - 35,1,N/A,N/A,N/A
+22,Klay Thompson,FG_MISS,None,10:04,2,Warriors,Clippers,33 - 35,1,16,3,Jumper
+23,Tyrone Wallace,DEFENSIVE_REBOUND,None,10:03,2,Clippers,Warriors,33 - 35,0,N/A,N/A,N/A
+24,Tyrone Wallace,TURNOVER,Klay Thompson,9:56,2,Clippers,Warriors,33 - 35,0,N/A,N/A,N/A
+25,Garrett Temple,FOUL_ON_FLOOR,None,9:56,2,Clippers,Warriors,33 - 35,0,N/A,N/A,N/A
+26,DeMarcus Cousins,FG_MISS,None,9:37,2,Warriors,Clippers,33 - 35,1,7,3,Jumper
+27,Quinn Cook,OFFENSIVE_REBOUND,None,9:35,2,Warriors,Clippers,33 - 35,1,N/A,N/A,N/A
+28,Quinn Cook,FG_UNASSISTED,None,9:32,2,Warriors,Clippers,33 - 37,1,20,3,Jumper
+29,Shaun Livingston,FOUL_ON_FLOOR,None,9:22,2,Warriors,Clippers,33 - 37,1,N/A,N/A,N/A
+30,Kevin Durant,SUBSTITUTION,Jerebko Jonas,9:22,2,Warriors,Clippers,33 - 37,1,N/A,N/A,N/A
+31,Shai Gilgeous-Alexander,FG_UNASSISTED,None,9:16,2,Clippers,Warriors,35 - 37,0,6,3,Jumper
+32,Klay Thompson,FG_MISS,None,9:03,2,Warriors,Clippers,35 - 37,1,27,3,Jumper
+33,Team,DEFENSIVE_REBOUND,None,9:02,2,Clippers,Warriors,35 - 37,0,N/A,N/A,N/A
+34,Landry Shamet,SUBSTITUTION,Wallace Tyrone,9:02,2,Clippers,Warriors,35 - 37,0,N/A,N/A,N/A
+35,Shaun Livingston,FOUL_ON_FLOOR,None,8:53,2,Warriors,Clippers,35 - 37,1,N/A,N/A,N/A
+36,Shai Gilgeous-Alexander,FG_MISS,None,8:49,2,Clippers,Warriors,35 - 37,0,16,3,Jumper
+37,Ivica Zubac,OFFENSIVE_REBOUND,None,8:48,2,Clippers,Warriors,35 - 37,0,N/A,N/A,N/A
+38,Ivica Zubac,FG_MISS,None,8:43,2,Clippers,Warriors,35 - 37,0, ,3,Jumper
+39,DeMarcus Cousins,DEFENSIVE_REBOUND,None,8:42,2,Warriors,Clippers,35 - 37,1,N/A,N/A,N/A
+40,Shaun Livingston,FG_ASSISTED,Quinn Cook,8:31,2,Warriors,Clippers,35 - 39,1,0,2,Dunk
+41,Ivica Zubac,FG_ASSISTED,Garrett Temple,8:19,2,Clippers,Warriors,37 - 39,0,0,2,Dunk
+42,DeMarcus Cousins,TURNOVER,Shai Gilgeous-Alexander,8:12,2,Warriors,Clippers,37 - 39,1,N/A,N/A,N/A
+43,DeMarcus Cousins,FOUL_ON_FLOOR,None,8:04,2,Warriors,Clippers,37 - 39,1,N/A,N/A,N/A
+44,Garrett Temple,FT,None,8:04,2,Clippers,Warriors,38 - 39,0,N/A,1,N/A
+45,Garrett Temple,FT,None,8:04,2,Clippers,Warriors,39 - 39,0,N/A,1,N/A
+46,DeMarcus Cousins,FG_MISS,None,7:48,2,Warriors,Clippers,39 - 39,1,10,3,Jumper
+47,Team,DEFENSIVE_REBOUND,None,7:47,2,Clippers,Warriors,39 - 39,0,N/A,N/A,N/A
+48,DeMarcus Cousins,FOUL_ON_FLOOR,None,7:47,2,Warriors,Clippers,39 - 39,1,N/A,N/A,N/A
+49,Montrezl Harrell,FT,None,7:47,2,Clippers,Warriors,40 - 39,0,N/A,1,N/A
+50,Montrezl Harrell,FT_MISS,None,7:47,2,Clippers,Warriors,40 - 39,0,N/A,1,N/A
+51,Kevin Durant,DEFENSIVE_REBOUND,None,7:45,2,Warriors,Clippers,40 - 39,1,N/A,N/A,N/A
+52,DeMarcus Cousins,FG_MISS,None,7:32,2,Warriors,Clippers,40 - 39,1,29,3,Jumper
+53,Ivica Zubac,DEFENSIVE_REBOUND,None,7:30,2,Clippers,Warriors,40 - 39,0,N/A,N/A,N/A
+54,Ivica Zubac,FG_ASSISTED,Montrezl Harrell,7:18,2,Clippers,Warriors,42 - 39,0,0,2,Layup
+55,Shaun Livingston,FG_UNASSISTED,None,7:09,2,Warriors,Clippers,42 - 41,1,15,3,Jumper
+56,Montrezl Harrell,FG_MISS,None,6:54,2,Clippers,Warriors,42 - 41,0,8,3,Jumper
+57,DeMarcus Cousins,DEFENSIVE_REBOUND,None,6:53,2,Warriors,Clippers,42 - 41,1,N/A,N/A,N/A
+58,DeMarcus Cousins,TURNOVER,None,6:49,2,Warriors,Clippers,42 - 41,1,N/A,N/A,N/A
+59,DeMarcus Cousins,TURNOVER,None,6:49,2,Warriors,Clippers,42 - 41,1,N/A,N/A,N/A
+60,Team,Unknown,None,6:49,2,Warriors,Clippers,42 - 41,1,N/A,N/A,N/A
+61,Andrew Bogut,SUBSTITUTION,Cousins DeMarcus,6:49,2,Warriors,Clippers,42 - 41,1,N/A,N/A,N/A
+62,Landry Shamet,FG_ASSISTED,Ivica Zubac,6:34,2,Clippers,Warriors,45 - 41,0,27,3,Jumper
+63,Garrett Temple,FOUL_ON_FLOOR,None,6:19,2,Clippers,Warriors,45 - 41,0,N/A,N/A,N/A
+64,Shaun Livingston,FG_ASSISTED,Kevin Durant,6:10,2,Warriors,Clippers,45 - 43,1, ,3,Jumper
+65,Landry Shamet,TURNOVER,Andrew Bogut,6:05,2,Clippers,Warriors,45 - 43,0,N/A,N/A,N/A
+66,Quinn Cook,FG_ASSISTED,Kevin Durant,5:37,2,Warriors,Clippers,45 - 45,1,19,3,Jumper
+67,Team,Unknown,None,5:35,2,Clippers,Warriors,45 - 45,0,N/A,N/A,N/A
+68,Draymond Green,SUBSTITUTION,Cook Quinn,5:35,2,Warriors,Clippers,45 - 45,1,N/A,N/A,N/A
+69,Stephen Curry,SUBSTITUTION,Thompson Klay,5:35,2,Warriors,Clippers,45 - 45,1,N/A,N/A,N/A
+70,Wilson Chandler,SUBSTITUTION,Temple Garrett,5:35,2,Clippers,Warriors,45 - 45,0,N/A,N/A,N/A
+71,Lou Williams,SUBSTITUTION,Zubac Ivica,5:35,2,Clippers,Warriors,45 - 45,0,N/A,N/A,N/A
+72,Wilson Chandler,FG_MISS,None,5:24,2,Clippers,Warriors,45 - 45,0,23,3,Jumper
+73,Andrew Bogut,DEFENSIVE_REBOUND,None,5:20,2,Warriors,Clippers,45 - 45,1,N/A,N/A,N/A
+74,Draymond Green,FG_MISS,None,5:03,2,Warriors,Clippers,45 - 45,1,19,3,Jumper
+75,Andrew Bogut,OFFENSIVE_REBOUND,None,4:59,2,Warriors,Clippers,45 - 45,1,N/A,N/A,N/A
+76,Andrew Bogut,FG_UNASSISTED,None,4:57,2,Warriors,Clippers,45 - 47,1,0,2,Layup
+77,Andrew Bogut,FOUL_ON_FLOOR,None,4:43,2,Warriors,Clippers,45 - 47,1,N/A,N/A,N/A
+78,Landry Shamet,FT,None,4:43,2,Clippers,Warriors,46 - 47,0,N/A,1,N/A
+79,Klay Thompson,SUBSTITUTION,Livingston Shaun,4:43,2,Warriors,Clippers,46 - 47,1,N/A,N/A,N/A
+80,Landry Shamet,FT_MISS,None,4:43,2,Clippers,Warriors,46 - 47,0,N/A,1,N/A
+81,Landry Shamet,OFFENSIVE_REBOUND,None,4:39,2,Clippers,Warriors,46 - 47,0,N/A,N/A,N/A
+82,Lou Williams,TURNOVER,Draymond Green,4:34,2,Clippers,Warriors,46 - 47,0,N/A,N/A,N/A
+83,Stephen Curry,FG_UNASSISTED,None,4:26,2,Warriors,Clippers,46 - 49,1, ,3,Jumper
+84,Lou Williams,FG_ASSISTED,Wilson Chandler,4:01,2,Clippers,Warriors,49 - 49,0,26,3,Jumper
+85,Kevin Durant,FG_MISS,None,3:55,2,Warriors,Clippers,49 - 49,1,29,3,Jumper
+86,Shai Gilgeous-Alexander,DEFENSIVE_REBOUND,None,3:50,2,Clippers,Warriors,49 - 49,0,N/A,N/A,N/A
+87,Montrezl Harrell,TURNOVER,Draymond Green,3:44,2,Clippers,Warriors,49 - 49,0,N/A,N/A,N/A
+88,Montrezl Harrell,FOUL_ON_FLOOR,None,3:43,2,Clippers,Warriors,49 - 49,0,N/A,N/A,N/A
+89,Wilson Chandler,FOUL_ON_FLOOR,None,3:36,2,Clippers,Warriors,49 - 49,0,N/A,N/A,N/A
+90,Kevin Durant,FT,None,3:36,2,Warriors,Clippers,49 - 50,1,N/A,1,N/A
+91,Kevin Durant,FT,None,3:36,2,Warriors,Clippers,49 - 51,1,N/A,1,N/A
+92,Montrezl Harrell,FG_MISS,None,3:27,2,Clippers,Warriors,49 - 51,0,0,2,Layup
+93,Draymond Green,DEFENSIVE_REBOUND,None,3:23,2,Warriors,Clippers,49 - 51,1,N/A,N/A,N/A
+94,Draymond Green,TURNOVER,Lou Williams,3:22,2,Warriors,Clippers,49 - 51,1,N/A,N/A,N/A
+95,Montrezl Harrell,TURNOVER,None,3:19,2,Clippers,Warriors,49 - 51,0,N/A,N/A,N/A
+96,Montrezl Harrell,TURNOVER,None,3:19,2,Clippers,Warriors,49 - 51,0,N/A,N/A,N/A
+97,Stephen Curry,FG_ASSISTED,Kevin Durant,3:07,2,Warriors,Clippers,49 - 53,1,12,3,Jumper
+98,Montrezl Harrell's,FG_MISS,Andrew Bogut,2:51,2,Warriors,Clippers,49 - 53,0,0,2,Layup
+99,Klay Thompson,DEFENSIVE_REBOUND,None,2:48,2,Warriors,Clippers,49 - 53,1,N/A,N/A,N/A
+100,Klay Thompson,TURNOVER,None,2:47,2,Warriors,Clippers,49 - 53,1,N/A,N/A,N/A
+101,Stephen Curry,FOUL_ON_FLOOR,None,2:28,2,Warriors,Clippers,49 - 53,1,N/A,N/A,N/A
+102,Wilson Chandler,FT_MISS,None,2:28,2,Clippers,Warriors,49 - 53,0,N/A,1,N/A
+103,Team,OFFENSIVE_REBOUND,None,2:28,2,Clippers,Warriors,49 - 53,0,N/A,N/A,N/A
+104,Ivica Zubac,SUBSTITUTION,Harrell Montrezl,2:28,2,Clippers,Warriors,49 - 53,0,N/A,N/A,N/A
+105,Wilson Chandler,FT,None,2:28,2,Clippers,Warriors,50 - 53,0,N/A,1,N/A
+106,Stephen Curry,FG_ASSISTED,Kevin Durant,2:15,2,Warriors,Clippers,50 - 56,1,27,3,Jumper
+107,Ivica Zubac's,FG_MISS,Draymond Green,2:06,2,Warriors,Clippers,50 - 56,0, ,3,Jumper
+108,Andrew Bogut,DEFENSIVE_REBOUND,None,2:05,2,Warriors,Clippers,50 - 56,1,N/A,N/A,N/A
+109,Stephen Curry,FG_MISS,None,1:44,2,Warriors,Clippers,50 - 56,1,23,3,Jumper
+110,Ivica Zubac,DEFENSIVE_REBOUND,None,1:42,2,Clippers,Warriors,50 - 56,0,N/A,N/A,N/A
+111,Lou Williams,TURNOVER,None,1:26,2,Clippers,Warriors,50 - 56,0,N/A,N/A,N/A
+112,Lou Williams,FOUL_ON_FLOOR,None,1:18,2,Clippers,Warriors,50 - 56,0,N/A,N/A,N/A
+113,Stephen Curry,FT,None,1:18,2,Warriors,Clippers,50 - 57,1,N/A,1,N/A
+114,Stephen Curry,FT,None,1:18,2,Warriors,Clippers,50 - 58,1,N/A,1,N/A
+115,Lou Williams,FG_UNASSISTED,None,1:11,2,Clippers,Warriors,52 - 58,0,11,3,Jumper
+116,Andrew Bogut,Unknown,None,1:11,2,Warriors,Clippers,52 - 58,1,N/A,N/A,N/A
+117,Stephen Curry,FG_UNASSISTED,None,58.6,2,Warriors,Clippers,52 - 60,1,21,3,Jumper
+118,Lou Williams,FG_MISS,Draymond Green,53.6,2,Warriors,Clippers,52 - 60,0,0,2,Layup
+119,Ivica Zubac,OFFENSIVE_REBOUND,None,52.6,2,Clippers,Warriors,52 - 60,0,N/A,N/A,N/A
+120,Andrew Bogut,FOUL_ON_FLOOR,None,50.9,2,Warriors,Clippers,52 - 60,1,N/A,N/A,N/A
+121,Ivica Zubac,FT_MISS,None,50.9,2,Clippers,Warriors,52 - 60,0,N/A,1,N/A
+122,Team,OFFENSIVE_REBOUND,None,50.9,2,Clippers,Warriors,52 - 60,0,N/A,N/A,N/A
+123,Ivica Zubac,FT,None,50.9,2,Clippers,Warriors,53 - 60,0,N/A,1,N/A
+124,Stephen Curry,FG_UNASSISTED,None,39.8,2,Warriors,Clippers,53 - 62,1,9,3,Jumper
+125,Andrew Bogut,FOUL_ON_FLOOR,None,37.7,2,Warriors,Clippers,53 - 62,1,N/A,N/A,N/A
+126,Ivica Zubac,FT,None,37.7,2,Clippers,Warriors,54 - 62,0,N/A,1,N/A
+127,Kevon Looney,SUBSTITUTION,Bogut Andrew,37.7,2,Warriors,Clippers,54 - 62,1,N/A,N/A,N/A
+128,Ivica Zubac,FT,None,37.7,2,Clippers,Warriors,55 - 62,0,N/A,1,N/A
+129,Draymond Green,FG_MISS,None,28.4,2,Warriors,Clippers,55 - 62,1,0,2,Layup
+130,Kevon Looney,OFFENSIVE_REBOUND,None,27.0,2,Warriors,Clippers,55 - 62,1,N/A,N/A,N/A
+131,Kevon Looney,FG_MISS,None,27.0,2,Warriors,Clippers,55 - 62,1, ,3,Jumper
+132,Kevon Looney,OFFENSIVE_REBOUND,None,25.8,2,Warriors,Clippers,55 - 62,1,N/A,N/A,N/A
+133,Kevon Looney,FG_MISS,None,25.8,2,Warriors,Clippers,55 - 62,1, ,3,Jumper
+134,Lou Williams,DEFENSIVE_REBOUND,None,24.2,2,Clippers,Warriors,55 - 62,0,N/A,N/A,N/A
+135,Lou Williams,FG_MISS,None,4.1,2,Clippers,Warriors,55 - 62,0,13,3,Jumper
+136,Ivica Zubac,OFFENSIVE_REBOUND,None,2.3,2,Clippers,Warriors,55 - 62,0,N/A,N/A,N/A
+137,Ivica Zubac,FG_MISS,Stephen Curry,1.6,2,Warriors,Clippers,55 - 62,0,0,2,Layup
+138,Stephen Curry,DEFENSIVE_REBOUND,None,0.7,2,Warriors,Clippers,55 - 62,1,N/A,N/A,N/A
+139,End of,Unknown,None,0.0,2,Warriors,Clippers,55 - 62,1,N/A,N/A,N/A
+0,DeMarcus Cousins,SUBSTITUTION,Looney Kevon,12:00,3,Warriors,Clippers,55 - 62,1,N/A,N/A,N/A
+1,Montrezl Harrell,SUBSTITUTION,Zubac Ivica,12:00,3,Clippers,Warriors,55 - 62,0,N/A,N/A,N/A
+2,Klay Thompson,FG_MISS,None,11:50,3,Warriors,Clippers,55 - 62,1,28,3,Jumper
+3,Draymond Green,OFFENSIVE_REBOUND,None,11:40,3,Warriors,Clippers,55 - 62,1,N/A,N/A,N/A
+4,Lou Williams,FOUL_ON_FLOOR,None,11:40,3,Clippers,Warriors,55 - 62,0,N/A,N/A,N/A
+5,Draymond Green,FT,None,11:40,3,Warriors,Clippers,55 - 63,1,N/A,1,N/A
+6,Draymond Green,FT,None,11:40,3,Warriors,Clippers,55 - 64,1,N/A,1,N/A
+7,Kevin Durant,FOUL_ON_FLOOR,None,11:33,3,Warriors,Clippers,55 - 64,1,N/A,N/A,N/A
+8,Shai Gilgeous-Alexander,FG_ASSISTED,Landry Shamet,11:21,3,Clippers,Warriors,57 - 64,0,3,3,Jumper
+9,Draymond Green,FG_ASSISTED,DeMarcus Cousins,11:00,3,Warriors,Clippers,57 - 66,1,0,2,Layup
+10,Lou Williams,FG_UNASSISTED,None,10:50,3,Clippers,Warriors,59 - 66,0,0,2,Layup
+11,DeMarcus Cousins,FG_MISS,None,10:39,3,Warriors,Clippers,59 - 66,1,26,3,Jumper
+12,Landry Shamet,DEFENSIVE_REBOUND,None,10:37,3,Clippers,Warriors,59 - 66,0,N/A,N/A,N/A
+13,Stephen Curry,FOUL_ON_FLOOR,None,10:31,3,Warriors,Clippers,59 - 66,1,N/A,N/A,N/A
+14,Shai Gilgeous-Alexander,FG_MISS,Kevin Durant,10:17,3,Warriors,Clippers,59 - 66,0,26,3,Jumper
+15,Stephen Curry,DEFENSIVE_REBOUND,None,10:12,3,Warriors,Clippers,59 - 66,1,N/A,N/A,N/A
+16,Stephen Curry,FG_MISS,None,10:08,3,Warriors,Clippers,59 - 66,1,0,2,Layup
+17,Wilson Chandler,DEFENSIVE_REBOUND,None,10:07,3,Clippers,Warriors,59 - 66,0,N/A,N/A,N/A
+18,Lou Williams,FG_MISS,None,10:03,3,Clippers,Warriors,59 - 66,0,0,2,Layup
+19,Team,DEFENSIVE_REBOUND,None,10:02,3,Warriors,Clippers,59 - 66,1,N/A,N/A,N/A
+20,DeMarcus Cousins,FG_UNASSISTED,None,9:47,3,Warriors,Clippers,59 - 68,1, ,3,Jumper
+21,Montrezl Harrell,FG_ASSISTED,Shai Gilgeous-Alexander,9:33,3,Clippers,Warriors,61 - 68,0,0,2,Layup
+22,Wilson Chandler,FOUL_ON_FLOOR,None,9:21,3,Clippers,Warriors,61 - 68,0,N/A,N/A,N/A
+23,Stephen Curry,FG_MISS,None,9:14,3,Warriors,Clippers,61 - 68,1,27,3,Jumper
+24,Landry Shamet,DEFENSIVE_REBOUND,None,9:12,3,Clippers,Warriors,61 - 68,0,N/A,N/A,N/A
+25,Landry Shamet,TURNOVER,Draymond Green,9:08,3,Clippers,Warriors,61 - 68,0,N/A,N/A,N/A
+26,Draymond Green,FG_UNASSISTED,None,9:02,3,Warriors,Clippers,61 - 70,1,0,2,Dunk
+27,Team,Unknown,None,9:02,3,Clippers,Warriors,61 - 70,0,N/A,N/A,N/A
+28,Shai Gilgeous-Alexander,FG_MISS,None,8:52,3,Clippers,Warriors,61 - 70,0,13,3,Jumper
+29,DeMarcus Cousins,DEFENSIVE_REBOUND,None,8:48,3,Warriors,Clippers,61 - 70,1,N/A,N/A,N/A
+30,DeMarcus Cousins,FG_ASSISTED,Stephen Curry,8:33,3,Warriors,Clippers,61 - 73,1,27,3,Jumper
+31,Montrezl Harrell,FG_ASSISTED,Lou Williams,8:15,3,Clippers,Warriors,63 - 73,0,0,2,Dunk
+32,DeMarcus Cousins,FG_MISS,None,7:56,3,Warriors,Clippers,63 - 73,1,0,2,Layup
+33,DeMarcus Cousins,OFFENSIVE_REBOUND,None,7:55,3,Warriors,Clippers,63 - 73,1,N/A,N/A,N/A
+34,DeMarcus Cousins,FG_UNASSISTED,None,7:54,3,Warriors,Clippers,63 - 75,1, ,3,Jumper
+35,DeMarcus Cousins,FOUL_ON_FLOOR,None,7:34,3,Warriors,Clippers,63 - 75,1,N/A,N/A,N/A
+36,Montrezl Harrell,FT_MISS,None,7:34,3,Clippers,Warriors,63 - 75,0,N/A,1,N/A
+37,Team,OFFENSIVE_REBOUND,None,7:34,3,Clippers,Warriors,63 - 75,0,N/A,N/A,N/A
+38,Kevon Looney,SUBSTITUTION,Cousins DeMarcus,7:34,3,Warriors,Clippers,63 - 75,1,N/A,N/A,N/A
+39,Montrezl Harrell,FT_MISS,None,7:34,3,Clippers,Warriors,63 - 75,0,N/A,1,N/A
+40,Draymond Green,DEFENSIVE_REBOUND,None,7:33,3,Warriors,Clippers,63 - 75,1,N/A,N/A,N/A
+41,Draymond Green,FG_MISS,None,7:25,3,Warriors,Clippers,63 - 75,1,5,3,Jumper
+42,Kevon Looney,OFFENSIVE_REBOUND,None,7:21,3,Warriors,Clippers,63 - 75,1,N/A,N/A,N/A
+43,Kevon Looney,FG_UNASSISTED,None,7:21,3,Warriors,Clippers,63 - 77,1,0,2,Dunk
+44,Montrezl Harrell,FG_ASSISTED,Landry Shamet,7:12,3,Clippers,Warriors,65 - 77,0,0,2,Layup
+45,Stephen Curry,FG_MISS,None,7:00,3,Warriors,Clippers,65 - 77,1, ,3,Jumper
+46,Wilson Chandler,DEFENSIVE_REBOUND,None,6:59,3,Clippers,Warriors,65 - 77,0,N/A,N/A,N/A
+47,Wilson Chandler,FG_UNASSISTED,None,6:50,3,Clippers,Warriors,67 - 77,0,0,2,Layup
+48,Kevon Looney,FG_ASSISTED,Stephen Curry,6:30,3,Warriors,Clippers,67 - 79,1,0,2,Layup
+49,Lou Williams,TURNOVER,Draymond Green,6:20,3,Clippers,Warriors,67 - 79,0,N/A,N/A,N/A
+50,Draymond Green,FG_UNASSISTED,None,6:15,3,Warriors,Clippers,67 - 81,1, ,3,Jumper
+51,Team,Unknown,None,6:14,3,Clippers,Warriors,67 - 81,0,N/A,N/A,N/A
+52,Ivica Zubac,SUBSTITUTION,Chandler Wilson,6:14,3,Clippers,Warriors,67 - 81,0,N/A,N/A,N/A
+53,Ivica Zubac,FG_MISS,None,5:59,3,Clippers,Warriors,67 - 81,0,16,3,Jumper
+54,Stephen Curry,DEFENSIVE_REBOUND,None,5:55,3,Warriors,Clippers,67 - 81,1,N/A,N/A,N/A
+55,Klay Thompson,FG_ASSISTED,Kevin Durant,5:42,3,Warriors,Clippers,67 - 84,1,28,3,Jumper
+56,Draymond Green,FOUL_ON_FLOOR,None,5:32,3,Warriors,Clippers,67 - 84,1,N/A,N/A,N/A
+57,Garrett Temple,SUBSTITUTION,Gilgeous-Alexander Shai,5:32,3,Clippers,Warriors,67 - 84,0,N/A,N/A,N/A
+58,Landry Shamet,FG_MISS,None,5:20,3,Clippers,Warriors,67 - 84,0, ,3,Jumper
+59,Kevon Looney,DEFENSIVE_REBOUND,None,5:16,3,Warriors,Clippers,67 - 84,1,N/A,N/A,N/A
+60,Klay Thompson,FG_ASSISTED,Draymond Green,5:03,3,Warriors,Clippers,67 - 86,1,12,3,Jumper
+61,Stephen Curry,FOUL_ON_FLOOR,None,4:51,3,Warriors,Clippers,67 - 86,1,N/A,N/A,N/A
+62,Lou Williams,FT,None,4:51,3,Clippers,Warriors,68 - 86,0,N/A,1,N/A
+63,Wilson Chandler,SUBSTITUTION,Harrell Montrezl,4:51,3,Clippers,Warriors,68 - 86,0,N/A,N/A,N/A
+64,Lou Williams,FT,None,4:51,3,Clippers,Warriors,69 - 86,0,N/A,1,N/A
+65,Kevin Durant,FG_ASSISTED,Draymond Green,4:42,3,Warriors,Clippers,69 - 88,1,0,2,Dunk
+66,Wilson Chandler,FG_ASSISTED,Lou Williams,4:30,3,Clippers,Warriors,72 - 88,0,29,3,Jumper
+67,Klay Thompson,FG_MISS,None,4:17,3,Warriors,Clippers,72 - 88,1,28,3,Jumper
+68,Garrett Temple,DEFENSIVE_REBOUND,None,4:15,3,Clippers,Warriors,72 - 88,0,N/A,N/A,N/A
+69,Wilson Chandler,FG_MISS,None,4:02,3,Clippers,Warriors,72 - 88,0,15,3,Jumper
+70,Kevon Looney,DEFENSIVE_REBOUND,None,4:01,3,Warriors,Clippers,72 - 88,1,N/A,N/A,N/A
+71,Team,Unknown,None,3:51,3,Warriors,Clippers,72 - 88,1,N/A,N/A,N/A
+72,Alfonzo McKinnie,SUBSTITUTION,Thompson Klay,3:51,3,Warriors,Clippers,72 - 88,1,N/A,N/A,N/A
+73,Kevon Looney,FG_ASSISTED,Draymond Green,3:47,3,Warriors,Clippers,72 - 90,1,0,2,Dunk
+74,Landry Shamet,FG_MISS,Draymond Green,3:30,3,Warriors,Clippers,72 - 90,0,0,2,Layup
+75,Team,OFFENSIVE_REBOUND,None,3:27,3,Clippers,Warriors,72 - 90,0,N/A,N/A,N/A
+76,Lou Williams,FG_MISS,None,3:27,3,Clippers,Warriors,72 - 90,0, ,3,Jumper
+77,Alfonzo McKinnie,DEFENSIVE_REBOUND,None,3:25,3,Warriors,Clippers,72 - 90,1,N/A,N/A,N/A
+78,Stephen Curry,FG_MISS,None,3:09,3,Warriors,Clippers,72 - 90,1,23,3,Jumper
+79,Draymond Green,OFFENSIVE_REBOUND,None,3:05,3,Warriors,Clippers,72 - 90,1,N/A,N/A,N/A
+80,Kevin Durant,FG_ASSISTED,Draymond Green,3:04,3,Warriors,Clippers,72 - 92,1,16,3,Jumper
+81,Alfonzo McKinnie,FOUL_ON_FLOOR,None,2:58,3,Warriors,Clippers,72 - 92,1,N/A,N/A,N/A
+82,Shai Gilgeous-Alexander,SUBSTITUTION,Williams Lou,2:58,3,Clippers,Warriors,72 - 92,0,N/A,N/A,N/A
+83,Landry Shamet,FT,None,2:58,3,Clippers,Warriors,73 - 92,0,N/A,1,N/A
+84,Landry Shamet,FT_MISS,None,2:58,3,Clippers,Warriors,73 - 92,0,N/A,1,N/A
+85,Draymond Green,DEFENSIVE_REBOUND,None,2:54,3,Warriors,Clippers,73 - 92,1,N/A,N/A,N/A
+86,Draymond Green,FG_UNASSISTED,None,2:51,3,Warriors,Clippers,73 - 94,1,0,2,Layup
+87,Wilson Chandler,TURNOVER,Kevin Durant,2:40,3,Clippers,Warriors,73 - 94,0,N/A,N/A,N/A
+88,Garrett Temple,FOUL_ON_FLOOR,None,2:37,3,Clippers,Warriors,73 - 94,0,N/A,N/A,N/A
+89,Garrett Temple,FOUL_ON_FLOOR,None,2:26,3,Clippers,Warriors,73 - 94,0,N/A,N/A,N/A
+90,Damion Lee,SUBSTITUTION,Durant Kevin,2:26,3,Warriors,Clippers,73 - 94,1,N/A,N/A,N/A
+91,Stephen Curry,FG_MISS,None,2:20,3,Warriors,Clippers,73 - 94,1,26,3,Jumper
+92,Wilson Chandler,DEFENSIVE_REBOUND,None,2:16,3,Clippers,Warriors,73 - 94,0,N/A,N/A,N/A
+93,Wilson Chandler,FG_MISS,None,2:12,3,Clippers,Warriors,73 - 94,0,20,3,Jumper
+94,Team,DEFENSIVE_REBOUND,None,2:09,3,Warriors,Clippers,73 - 94,1,N/A,N/A,N/A
+95,Montrezl Harrell,SUBSTITUTION,Temple Garrett,2:09,3,Clippers,Warriors,73 - 94,0,N/A,N/A,N/A
+96,Lou Williams,SUBSTITUTION,Chandler Wilson,2:09,3,Clippers,Warriors,73 - 94,0,N/A,N/A,N/A
+97,Damion Lee's,FG_MISS,Lou Williams,1:58,3,Clippers,Warriors,73 - 94,1, ,3,Jumper
+98,Alfonzo McKinnie,OFFENSIVE_REBOUND,None,1:56,3,Warriors,Clippers,73 - 94,1,N/A,N/A,N/A
+99,Damion Lee,FG_ASSISTED,Kevon Looney,1:50,3,Warriors,Clippers,73 - 97,1,27,3,Jumper
+100,Lou Williams,FG_MISS,None,1:38,3,Clippers,Warriors,73 - 97,0,2,3,Jumper
+101,Draymond Green,DEFENSIVE_REBOUND,None,1:37,3,Warriors,Clippers,73 - 97,1,N/A,N/A,N/A
+102,Stephen Curry,FG_ASSISTED,Damion Lee,1:29,3,Warriors,Clippers,73 - 99,1,0,2,Layup
+103,Landry Shamet,FOUL_ON_FLOOR,None,1:18,3,Clippers,Warriors,73 - 99,0,N/A,N/A,N/A
+104,Landry Shamet,TURNOVER,None,1:18,3,Clippers,Warriors,73 - 99,0,N/A,N/A,N/A
+105,Andrew Bogut,SUBSTITUTION,Looney Kevon,1:18,3,Warriors,Clippers,73 - 99,1,N/A,N/A,N/A
+106,Jerome Robinson,SUBSTITUTION,Shamet Landry,1:18,3,Clippers,Warriors,73 - 99,0,N/A,N/A,N/A
+107,Stephen Curry,FG_MISS,None,1:10,3,Warriors,Clippers,73 - 99,1,28,3,Jumper
+108,Montrezl Harrell,DEFENSIVE_REBOUND,None,1:08,3,Clippers,Warriors,73 - 99,0,N/A,N/A,N/A
+109,Lou Williams,TURNOVER,Draymond Green,1:00,3,Clippers,Warriors,73 - 99,0,N/A,N/A,N/A
+110,Montrezl Harrell,FOUL_ON_FLOOR,None,59.5,3,Clippers,Warriors,73 - 99,0,N/A,N/A,N/A
+111,Damion Lee,FT,None,59.5,3,Warriors,Clippers,73 - 100,1,N/A,1,N/A
+112,Sindarius Thornwell,SUBSTITUTION,Gilgeous-Alexander Shai,59.5,3,Clippers,Warriors,73 - 100,0,N/A,N/A,N/A
+113,Tyrone Wallace,SUBSTITUTION,Williams Lou,59.5,3,Clippers,Warriors,73 - 100,0,N/A,N/A,N/A
+114,Damion Lee,FT,None,59.5,3,Warriors,Clippers,73 - 101,1,N/A,1,N/A
+115,Tyrone Wallace,TURNOVER,Stephen Curry,36.2,3,Clippers,Warriors,73 - 101,0,N/A,N/A,N/A
+116,Damion Lee,FG_MISS,None,31.8,3,Warriors,Clippers,73 - 101,1,30,3,Jumper
+117,Ivica Zubac,DEFENSIVE_REBOUND,None,29.0,3,Clippers,Warriors,73 - 101,0,N/A,N/A,N/A
+118,Tyrone Wallace,FG_MISS,None,15.2,3,Clippers,Warriors,73 - 101,0,9,3,Jumper
+119,Draymond Green,DEFENSIVE_REBOUND,None,14.1,3,Warriors,Clippers,73 - 101,1,N/A,N/A,N/A
+120,Stephen Curry,FG_UNASSISTED,None,3.0,3,Warriors,Clippers,73 - 104,1,30,3,Jumper
+121,Jerome Robinson,FG_MISS,None,0.1,3,Clippers,Warriors,73 - 104,0,1,3,Jumper
+122,Team,OFFENSIVE_REBOUND,None,0.1,3,Clippers,Warriors,73 - 104,0,N/A,N/A,N/A
+123,End of,Unknown,None,0.0,3,Warriors,Clippers,73 - 104,1,N/A,N/A,N/A
+0,Quinn Cook,SUBSTITUTION,Lee Damion,12:00,4,Warriors,Clippers,73 - 104,1,N/A,N/A,N/A
+1,Jonas Jerebko,SUBSTITUTION,Bogut Andrew,12:00,4,Warriors,Clippers,73 - 104,1,N/A,N/A,N/A
+2,DeMarcus Cousins,SUBSTITUTION,Green Draymond,12:00,4,Warriors,Clippers,73 - 104,1,N/A,N/A,N/A
+3,Shaun Livingston,SUBSTITUTION,McKinnie Alfonzo,12:00,4,Warriors,Clippers,73 - 104,1,N/A,N/A,N/A
+4,Klay Thompson,SUBSTITUTION,Curry Stephen,12:00,4,Warriors,Clippers,73 - 104,1,N/A,N/A,N/A
+5,Johnathan Motley,SUBSTITUTION,Zubac Ivica,12:00,4,Clippers,Warriors,73 - 104,0,N/A,N/A,N/A
+6,Montrezl Harrell,FG_MISS,None,11:47,4,Clippers,Warriors,73 - 104,0,9,3,Jumper
+7,DeMarcus Cousins,DEFENSIVE_REBOUND,None,11:46,4,Warriors,Clippers,73 - 104,1,N/A,N/A,N/A
+8,shot clock,TURNOVER,None,11:21,4,Warriors,Clippers,73 - 104,1,N/A,N/A,N/A
+9,Jerome Robinson,FG_ASSISTED,Tyrone Wallace,11:08,4,Clippers,Warriors,75 - 104,0,16,3,Jumper
+10,Jonas Jerebko,FG_MISS,None,10:41,4,Warriors,Clippers,75 - 104,1,23,3,Jumper
+11,Montrezl Harrell,DEFENSIVE_REBOUND,None,10:39,4,Clippers,Warriors,75 - 104,0,N/A,N/A,N/A
+12,Montrezl Harrell,FG_UNASSISTED,None,10:27,4,Clippers,Warriors,77 - 104,0,0,2,Layup
+13,DeMarcus Cousins,TURNOVER,Johnathan Motley,10:04,4,Warriors,Clippers,77 - 104,1,N/A,N/A,N/A
+14,Johnathan Motley,FG_UNASSISTED,None,9:59,4,Clippers,Warriors,79 - 104,0,0,2,Dunk
+15,Team,Unknown,None,9:59,4,Warriors,Clippers,79 - 104,1,N/A,N/A,N/A
+16,Klay Thompson,FG_MISS,None,9:46,4,Warriors,Clippers,79 - 104,1,20,3,Jumper
+17,Shaun Livingston,OFFENSIVE_REBOUND,None,9:45,4,Warriors,Clippers,79 - 104,1,N/A,N/A,N/A
+18,Shaun Livingston,FG_ASSISTED,DeMarcus Cousins,9:27,4,Warriors,Clippers,79 - 106,1,13,3,Jumper
+19,Tyrone Wallace,FG_MISS,None,9:07,4,Clippers,Warriors,79 - 106,0,1,3,Jumper
+20,Johnathan Motley,OFFENSIVE_REBOUND,None,9:06,4,Clippers,Warriors,79 - 106,0,N/A,N/A,N/A
+21,Johnathan Motley,FG_UNASSISTED,None,9:06,4,Clippers,Warriors,81 - 106,0,0,2,Dunk
+22,Sindarius Thornwell,FOUL_ON_FLOOR,None,8:53,4,Clippers,Warriors,81 - 106,0,N/A,N/A,N/A
+23,Klay Thompson,FG_ASSISTED,Quinn Cook,8:46,4,Warriors,Clippers,81 - 109,1,28,3,Jumper
+24,Jerome Robinson,FG_ASSISTED,Montrezl Harrell,8:34,4,Clippers,Warriors,84 - 109,0,1,3,Jumper
+25,Montrezl Harrell,FOUL_ON_FLOOR,None,8:28,4,Clippers,Warriors,84 - 109,0,N/A,N/A,N/A
+26,Ivica Zubac,SUBSTITUTION,Harrell Montrezl,8:28,4,Clippers,Warriors,84 - 109,0,N/A,N/A,N/A
+27,Quinn Cook,FG_UNASSISTED,None,8:22,4,Warriors,Clippers,84 - 111,1,1,3,Jumper
+28,Tyrone Wallace,TURNOVER,DeMarcus Cousins,8:05,4,Clippers,Warriors,84 - 111,0,N/A,N/A,N/A
+29,Jonas Jerebko,FG_MISS,None,8:00,4,Warriors,Clippers,84 - 111,1,23,3,Jumper
+30,Tyrone Wallace,DEFENSIVE_REBOUND,None,7:58,4,Clippers,Warriors,84 - 111,0,N/A,N/A,N/A
+31,Tyrone Wallace,FG_UNASSISTED,None,7:50,4,Clippers,Warriors,86 - 111,0,1,3,Jumper
+32,Sindarius Thornwell,FOUL_ON_FLOOR,None,7:34,4,Clippers,Warriors,86 - 111,0,N/A,N/A,N/A
+33,Quinn Cook,FG_MISS,None,7:32,4,Warriors,Clippers,86 - 111,1,23,3,Jumper
+34,Ivica Zubac,DEFENSIVE_REBOUND,None,7:30,4,Clippers,Warriors,86 - 111,0,N/A,N/A,N/A
+35,Sindarius Thornwell,TURNOVER,Shaun Livingston,7:25,4,Clippers,Warriors,86 - 111,0,N/A,N/A,N/A
+36,DeMarcus Cousins,FG_ASSISTED,Shaun Livingston,7:16,4,Warriors,Clippers,86 - 114,1,1,3,Jumper
+37,Jerome Robinson,TURNOVER,Jonas Jerebko,7:07,4,Clippers,Warriors,86 - 114,0,N/A,N/A,N/A
+38,DeMarcus Cousins,FG_MISS,None,6:54,4,Warriors,Clippers,86 - 114,1,0,2,Layup
+39,Johnathan Motley,DEFENSIVE_REBOUND,None,6:53,4,Clippers,Warriors,86 - 114,0,N/A,N/A,N/A
+40,Klay Thompson,FOUL_ON_FLOOR,None,6:49,4,Warriors,Clippers,86 - 114,1,N/A,N/A,N/A
+41,Tyrone Wallace,FT_MISS,None,6:49,4,Clippers,Warriors,86 - 114,0,N/A,1,N/A
+42,Team,OFFENSIVE_REBOUND,None,6:49,4,Clippers,Warriors,86 - 114,0,N/A,N/A,N/A
+43,Damion Lee,SUBSTITUTION,Thompson Klay,6:49,4,Warriors,Clippers,86 - 114,1,N/A,N/A,N/A
+44,Tyrone Wallace,FT_MISS,None,6:49,4,Clippers,Warriors,86 - 114,0,N/A,1,N/A
+45,Johnathan Motley,OFFENSIVE_REBOUND,None,6:48,4,Clippers,Warriors,86 - 114,0,N/A,N/A,N/A
+46,Johnathan Motley,FG_UNASSISTED,None,6:45,4,Clippers,Warriors,88 - 114,0,0,2,Layup
+47,Johnathan Motley,FOUL_ON_FLOOR,None,6:34,4,Clippers,Warriors,88 - 114,0,N/A,N/A,N/A
+48,Team,Unknown,None,6:34,4,Warriors,Clippers,88 - 114,1,N/A,N/A,N/A
+49,Alfonzo McKinnie,SUBSTITUTION,Livingston Shaun,6:34,4,Warriors,Clippers,88 - 114,1,N/A,N/A,N/A
+50,Kevon Looney,SUBSTITUTION,Cousins DeMarcus,6:34,4,Warriors,Clippers,88 - 114,1,N/A,N/A,N/A
+51,Jonas Jerebko,FG_ASSISTED,Kevon Looney,6:26,4,Warriors,Clippers,88 - 116,1,1,3,Jumper
+52,Jonas Jerebko,FOUL_ON_FLOOR,None,6:13,4,Warriors,Clippers,88 - 116,1,N/A,N/A,N/A
+53,Johnathan Motley,FT,None,6:13,4,Clippers,Warriors,89 - 116,0,N/A,1,N/A
+54,Jordan Bell,SUBSTITUTION,Jerebko Jonas,6:13,4,Warriors,Clippers,89 - 116,1,N/A,N/A,N/A
+55,Johnathan Motley,FT_MISS,None,6:13,4,Clippers,Warriors,89 - 116,0,N/A,1,N/A
+56,Jordan Bell,DEFENSIVE_REBOUND,None,6:12,4,Warriors,Clippers,89 - 116,1,N/A,N/A,N/A
+57,Kevon Looney,FG_ASSISTED,Quinn Cook,5:58,4,Warriors,Clippers,89 - 118,1,18,3,Jumper
+58,Johnathan Motley,TURNOVER,Kevon Looney,5:37,4,Clippers,Warriors,89 - 118,0,N/A,N/A,N/A
+59,Jordan Bell,FG_ASSISTED,Damion Lee,5:32,4,Warriors,Clippers,89 - 120,1,0,2,Layup
+60,Team,Unknown,None,5:32,4,Clippers,Warriors,89 - 120,0,N/A,N/A,N/A
+61,Wilson Chandler,SUBSTITUTION,Zubac Ivica,5:32,4,Clippers,Warriors,89 - 120,0,N/A,N/A,N/A
+62,Johnathan Motley,FG_MISS,None,5:17,4,Clippers,Warriors,89 - 120,0,5,3,Jumper
+63,Kevon Looney,DEFENSIVE_REBOUND,None,5:13,4,Warriors,Clippers,89 - 120,1,N/A,N/A,N/A
+64,Kevon Looney,FG_UNASSISTED,None,4:56,4,Warriors,Clippers,89 - 122,1,2,3,Jumper
+65,Tyrone Wallace,FG_ASSISTED,Wilson Chandler,4:43,4,Clippers,Warriors,91 - 122,0,18,3,Jumper
+66,Quinn Cook,FG_MISS,None,4:25,4,Warriors,Clippers,91 - 122,1,23,3,Jumper
+67,Johnathan Motley,DEFENSIVE_REBOUND,None,4:21,4,Clippers,Warriors,91 - 122,0,N/A,N/A,N/A
+68,Wilson Chandler,FG_MISS,None,4:01,4,Clippers,Warriors,91 - 122,0,26,3,Jumper
+69,Team,DEFENSIVE_REBOUND,None,4:01,4,Warriors,Clippers,91 - 122,1,N/A,N/A,N/A
+70,Jonas Jerebko,SUBSTITUTION,Looney Kevon,4:01,4,Warriors,Clippers,91 - 122,1,N/A,N/A,N/A
+71,shot clock,TURNOVER,None,3:37,4,Warriors,Clippers,91 - 122,1,N/A,N/A,N/A
+72,Jerome Robinson,FG_ASSISTED,Johnathan Motley,3:25,4,Clippers,Warriors,93 - 122,0,0,2,Layup
+73,Johnathan Motley,FOUL_ON_FLOOR,None,3:10,4,Clippers,Warriors,93 - 122,0,N/A,N/A,N/A
+74,Damion Lee,FT,None,3:10,4,Warriors,Clippers,93 - 123,1,N/A,1,N/A
+75,Damion Lee,FT,None,3:10,4,Warriors,Clippers,93 - 124,1,N/A,1,N/A
+76,Jerome Robinson,FG_ASSISTED,Wilson Chandler,3:00,4,Clippers,Warriors,96 - 124,0,27,3,Jumper
+77,Quinn Cook,TURNOVER,Jerome Robinson,2:51,4,Warriors,Clippers,96 - 124,1,N/A,N/A,N/A
+78,Tyrone Wallace,FG_ASSISTED,Jerome Robinson,2:47,4,Clippers,Warriors,98 - 124,0,0,2,Layup
+79,Quinn Cook,FG_UNASSISTED,None,2:31,4,Warriors,Clippers,98 - 126,1,3,3,Jumper
+80,Tyrone Wallace,FG_ASSISTED,Sindarius Thornwell,2:07,4,Clippers,Warriors,100 - 126,0,12,3,Jumper
+81,Alfonzo McKinnie,FG_ASSISTED,Jordan Bell,1:47,4,Warriors,Clippers,100 - 129,1,26,3,Jumper
+82,Jerome Robinson,TURNOVER,Jonas Jerebko,1:39,4,Clippers,Warriors,100 - 129,0,N/A,N/A,N/A
+83,Quinn Cook,FG_ASSISTED,Damion Lee,1:35,4,Warriors,Clippers,100 - 131,1,1,3,Jumper
+84,Wilson Chandler,FOUL_ON_FLOOR,None,1:35,4,Clippers,Warriors,100 - 131,0,N/A,N/A,N/A
+85,Quinn Cook,FT_MISS,None,1:35,4,Warriors,Clippers,100 - 131,1,N/A,1,N/A
+86,Johnathan Motley,DEFENSIVE_REBOUND,None,1:33,4,Clippers,Warriors,100 - 131,0,N/A,N/A,N/A
+87,Jerome Robinson,FG_MISS,Jordan Bell,1:23,4,Warriors,Clippers,100 - 131,0,0,2,Layup
+88,Jonas Jerebko,DEFENSIVE_REBOUND,None,1:22,4,Warriors,Clippers,100 - 131,1,N/A,N/A,N/A
+89,Quinn Cook,FG_MISS,None,1:17,4,Warriors,Clippers,100 - 131,1,23,3,Jumper
+90,Jerome Robinson,DEFENSIVE_REBOUND,None,1:15,4,Clippers,Warriors,100 - 131,0,N/A,N/A,N/A
+91,Jonas Jerebko,FOUL_ON_FLOOR,None,1:06,4,Warriors,Clippers,100 - 131,1,N/A,N/A,N/A
+92,Sindarius Thornwell,FT,None,1:06,4,Clippers,Warriors,101 - 131,0,N/A,1,N/A
+93,Sindarius Thornwell,FT,None,1:06,4,Clippers,Warriors,102 - 131,0,N/A,1,N/A
+94,Alfonzo McKinnie,FG_MISS,None,50.3,4,Warriors,Clippers,102 - 131,1,23,3,Jumper
+95,Jerome Robinson,DEFENSIVE_REBOUND,None,48.9,4,Clippers,Warriors,102 - 131,0,N/A,N/A,N/A
+96,Johnathan Motley,FG_ASSISTED,Jerome Robinson,38.3,4,Clippers,Warriors,104 - 131,0,6,3,Jumper
+97,Quinn Cook,FG_MISS,None,18.9,4,Warriors,Clippers,104 - 131,1,26,3,Jumper
+98,Johnathan Motley,DEFENSIVE_REBOUND,None,16.4,4,Clippers,Warriors,104 - 131,0,N/A,N/A,N/A
+99,Johnathan Motley,FG_MISS,None,11.2,4,Clippers,Warriors,104 - 131,0,1,3,Jumper
+100,Damion Lee,DEFENSIVE_REBOUND,None,10.2,4,Warriors,Clippers,104 - 131,1,N/A,N/A,N/A
+101,End of,Unknown,None,0.0,4,Warriors,Clippers,104 - 131,1,N/A,N/A,N/A
+102,End of,Unknown,None,0.0,4,Warriors,Clippers,104 - 131,1,N/A,N/A,N/A

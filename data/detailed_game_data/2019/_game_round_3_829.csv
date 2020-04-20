@@ -1,0 +1,496 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Jarrett Allen,JUMP_BALL,None,12:00,1,Nets,Celtics,0 - 0,0,N/A,N/A,N/A
+1,Rondae Hollis-Jefferson,FG_MISS,None,11:41,1,Nets,Celtics,0 - 0,0,7,2,Jumper
+2,Al Horford,DEFENSIVE_REBOUND,None,11:36,1,Celtics,Nets,0 - 0,1,N/A,N/A,N/A
+3,Al Horford,TURNOVER,None,11:31,1,Celtics,Nets,0 - 0,1,N/A,N/A,N/A
+4,D'Angelo Russell,FG_MISS,None,11:20,1,Nets,Celtics,0 - 0,0,25,3,Jumper
+5,Team,DEFENSIVE_REBOUND,None,11:19,1,Celtics,Nets,0 - 0,1,N/A,N/A,N/A
+6,Jayson Tatum,TURNOVER,None,11:04,1,Celtics,Nets,0 - 0,1,N/A,N/A,N/A
+7,Rodions Kurucs,FG_MISS,Jayson Tatum,10:50,1,Celtics,Nets,0 - 0,0,26,3,Jumper
+8,Team,OFFENSIVE_REBOUND,None,10:49,1,Nets,Celtics,0 - 0,0,N/A,N/A,N/A
+9,Rondae Hollis-Jefferson,FG_MISS,None,10:43,1,Nets,Celtics,0 - 0,0,23,3,Jumper
+10,Jayson Tatum,DEFENSIVE_REBOUND,None,10:41,1,Celtics,Nets,0 - 0,1,N/A,N/A,N/A
+11,Jayson Tatum,FG_MISS,None,10:33,1,Celtics,Nets,0 - 0,1,22,2,Jumper
+12,Jarrett Allen,DEFENSIVE_REBOUND,None,10:31,1,Nets,Celtics,0 - 0,0,N/A,N/A,N/A
+13,Rondae Hollis-Jefferson,FG_MISS,Al Horford,10:19,1,Celtics,Nets,0 - 0,0,0,2,Layup
+14,Rondae Hollis-Jefferson,OFFENSIVE_REBOUND,None,10:14,1,Nets,Celtics,0 - 0,0,N/A,N/A,N/A
+15,Rondae Hollis-Jefferson,TURNOVER,Terry Rozier,10:13,1,Nets,Celtics,0 - 0,0,N/A,N/A,N/A
+16,Marcus Smart,FG_ASSISTED,Terry Rozier,10:06,1,Celtics,Nets,0 - 3,1,28,3,Jumper
+17,Rondae Hollis-Jefferson,FG_MISS,None,10:02,1,Nets,Celtics,0 - 3,0,0,2,Layup
+18,Marcus Morris,DEFENSIVE_REBOUND,None,10:00,1,Celtics,Nets,0 - 3,1,N/A,N/A,N/A
+19,Jayson Tatum,FG_MISS,None,9:54,1,Celtics,Nets,0 - 3,1,0,2,Layup
+20,Al Horford,OFFENSIVE_REBOUND,None,9:52,1,Celtics,Nets,0 - 3,1,N/A,N/A,N/A
+21,Terry Rozier,FG_UNASSISTED,None,9:43,1,Celtics,Nets,0 - 6,1,24,3,Jumper
+22,Rodions Kurucs,FG_MISS,Marcus Morris,9:31,1,Celtics,Nets,0 - 6,0,5,2,Jumper
+23,Team,OFFENSIVE_REBOUND,None,9:31,1,Nets,Celtics,0 - 6,0,N/A,N/A,N/A
+24,D'Angelo Russell,FG_UNASSISTED,None,9:24,1,Nets,Celtics,2 - 6,0,13,2,Jumper
+25,Al Horford,FG_ASSISTED,Terry Rozier,9:13,1,Celtics,Nets,2 - 8,1,23,2,Jumper
+26,D'Angelo Russell,FG_MISS,None,9:01,1,Nets,Celtics,2 - 8,0,-,2,Jumper
+27,Marcus Smart,DEFENSIVE_REBOUND,None,9:00,1,Celtics,Nets,2 - 8,1,N/A,N/A,N/A
+28,Marcus Morris,FG_ASSISTED,Marcus Smart,8:56,1,Celtics,Nets,2 - 11,1,26,3,Jumper
+29,Joe Harris,FG_ASSISTED,D'Angelo Russell,8:42,1,Nets,Celtics,5 - 11,0,26,3,Jumper
+30,Jayson Tatum,FG_MISS,None,8:33,1,Celtics,Nets,5 - 11,1,25,2,Jumper
+31,Al Horford,OFFENSIVE_REBOUND,None,8:31,1,Celtics,Nets,5 - 11,1,N/A,N/A,N/A
+32,Marcus Smart,FG_MISS,None,8:18,1,Celtics,Nets,5 - 11,1,27,2,Jumper
+33,Jarrett Allen,DEFENSIVE_REBOUND,None,8:16,1,Nets,Celtics,5 - 11,0,N/A,N/A,N/A
+34,D'Angelo Russell,TURNOVER,Jayson Tatum,8:08,1,Nets,Celtics,5 - 11,0,N/A,N/A,N/A
+35,Jayson Tatum,FG_UNASSISTED,None,8:06,1,Celtics,Nets,5 - 13,1,0,2,Dunk
+36,Team,Unknown,None,8:06,1,Nets,Celtics,5 - 13,0,N/A,N/A,N/A
+37,D'Angelo Russell,TURNOVER,Marcus Morris,7:47,1,Nets,Celtics,5 - 13,0,N/A,N/A,N/A
+38,Marcus Smart,FG_ASSISTED,Al Horford,7:23,1,Celtics,Nets,5 - 15,1,8,2,Jumper
+39,Jarrett Allen,FOUL_ON_FLOOR,None,7:11,1,Nets,Celtics,5 - 15,0,N/A,N/A,N/A
+40,Jarrett Allen,TURNOVER,None,7:11,1,Nets,Celtics,5 - 15,0,N/A,N/A,N/A
+41,Al Horford,FG_UNASSISTED,None,6:50,1,Celtics,Nets,5 - 17,1,9,2,Jumper
+42,D'Angelo Russell,FG_MISS,None,6:40,1,Nets,Celtics,5 - 17,0,4,2,Jumper
+43,Jarrett Allen,OFFENSIVE_REBOUND,None,6:31,1,Nets,Celtics,5 - 17,0,N/A,N/A,N/A
+44,Jarrett Allen,FG_UNASSISTED,None,6:31,1,Nets,Celtics,7 - 17,0, ,2,Jumper
+45,Jayson Tatum,FG_MISS,None,6:25,1,Celtics,Nets,7 - 17,1,0,2,Layup
+46,Team,OFFENSIVE_REBOUND,None,6:25,1,Celtics,Nets,7 - 17,1,N/A,N/A,N/A
+47,Rondae Hollis-Jefferson,FOUL_ON_FLOOR,None,6:25,1,Nets,Celtics,7 - 17,0,N/A,N/A,N/A
+48,shot clock,TURNOVER,None,6:12,1,Celtics,Nets,7 - 17,1,N/A,N/A,N/A
+49,Joe Harris,FG_MISS,Al Horford,6:02,1,Celtics,Nets,7 - 17,0,4,2,Jumper
+50,Marcus Smart,DEFENSIVE_REBOUND,None,6:00,1,Celtics,Nets,7 - 17,1,N/A,N/A,N/A
+51,Marcus Morris,FG_MISS,None,5:55,1,Celtics,Nets,7 - 17,1,26,3,Jumper
+52,Rodions Kurucs,DEFENSIVE_REBOUND,None,5:51,1,Nets,Celtics,7 - 17,0,N/A,N/A,N/A
+53,Rodions Kurucs,FG_MISS,Al Horford,5:48,1,Celtics,Nets,7 - 17,0,3,2,Jumper
+54,Team,OFFENSIVE_REBOUND,None,5:48,1,Nets,Celtics,7 - 17,0,N/A,N/A,N/A
+55,Gordon Hayward,SUBSTITUTION,Morris Marcus,5:48,1,Celtics,Nets,7 - 17,1,N/A,N/A,N/A
+56,Shabazz Napier,SUBSTITUTION,Russell D'Angelo,5:48,1,Nets,Celtics,7 - 17,0,N/A,N/A,N/A
+57,Shabazz Napier,FG_UNASSISTED,None,5:40,1,Nets,Celtics,10 - 17,0,27,3,Jumper
+58,Marcus Smart,FG_ASSISTED,Terry Rozier,5:18,1,Celtics,Nets,10 - 20,1,23,3,Jumper
+59,Shabazz Napier,TURNOVER,Marcus Smart,5:09,1,Nets,Celtics,10 - 20,0,N/A,N/A,N/A
+60,Marcus Smart,FG_ASSISTED,Terry Rozier,5:05,1,Celtics,Nets,10 - 23,1,26,3,Jumper
+61,Team,Unknown,None,5:04,1,Nets,Celtics,10 - 23,0,N/A,N/A,N/A
+62,DeMarre Carroll,SUBSTITUTION,Harris Joe,5:04,1,Nets,Celtics,10 - 23,0,N/A,N/A,N/A
+63,Shabazz Napier,TURNOVER,Marcus Smart,4:53,1,Nets,Celtics,10 - 23,0,N/A,N/A,N/A
+64,Terry Rozier,FG_MISS,None,4:44,1,Celtics,Nets,10 - 23,1,27,3,Jumper
+65,Rondae Hollis-Jefferson,DEFENSIVE_REBOUND,None,4:42,1,Nets,Celtics,10 - 23,0,N/A,N/A,N/A
+66,Rondae Hollis-Jefferson,FG_MISS,None,4:35,1,Nets,Celtics,10 - 23,0,0,2,Layup
+67,Jarrett Allen,OFFENSIVE_REBOUND,None,4:34,1,Nets,Celtics,10 - 23,0,N/A,N/A,N/A
+68,Jarrett Allen,FG_UNASSISTED,None,4:31,1,Nets,Celtics,12 - 23,0, ,2,Jumper
+69,Marcus Smart,FG_MISS,None,4:18,1,Celtics,Nets,12 - 23,1,26,3,Jumper
+70,DeMarre Carroll,DEFENSIVE_REBOUND,None,4:16,1,Nets,Celtics,12 - 23,0,N/A,N/A,N/A
+71,Rodions Kurucs,FG_ASSISTED,Shabazz Napier,4:04,1,Nets,Celtics,15 - 23,0,23,3,Jumper
+72,Terry Rozier,FG_MISS,None,3:42,1,Celtics,Nets,15 - 23,1,26,3,Jumper
+73,Rondae Hollis-Jefferson,DEFENSIVE_REBOUND,None,3:40,1,Nets,Celtics,15 - 23,0,N/A,N/A,N/A
+74,DeMarre Carroll,FG_ASSISTED,Rondae Hollis-Jefferson,3:21,1,Nets,Celtics,18 - 23,0,25,3,Jumper
+75,Terry Rozier,FG_MISS,None,3:05,1,Celtics,Nets,18 - 23,1,23,3,Jumper
+76,Jarrett Allen,DEFENSIVE_REBOUND,None,3:03,1,Nets,Celtics,18 - 23,0,N/A,N/A,N/A
+77,Shabazz Napier,FG_UNASSISTED,None,2:55,1,Nets,Celtics,20 - 23,0, ,2,Jumper
+78,Team,Unknown,None,2:55,1,Celtics,Nets,20 - 23,1,N/A,N/A,N/A
+79,Aron Baynes,SUBSTITUTION,Rozier Terry,2:55,1,Celtics,Nets,20 - 23,1,N/A,N/A,N/A
+80,Jaylen Brown,SUBSTITUTION,Horford Al,2:55,1,Celtics,Nets,20 - 23,1,N/A,N/A,N/A
+81,Ed Davis,SUBSTITUTION,Kurucs Rodions,2:55,1,Nets,Celtics,20 - 23,0,N/A,N/A,N/A
+82,Mitchell Creek,SUBSTITUTION,Hollis-Jefferson Rondae,2:55,1,Nets,Celtics,20 - 23,0,N/A,N/A,N/A
+83,Theo Pinson,SUBSTITUTION,Allen Jarrett,2:55,1,Nets,Celtics,20 - 23,0,N/A,N/A,N/A
+84,Aron Baynes,FG_ASSISTED,Gordon Hayward,2:34,1,Celtics,Nets,20 - 25,1,5,2,Jumper
+85,DeMarre Carroll,FG_UNASSISTED,None,2:19,1,Nets,Celtics,22 - 25,0,11,2,Jumper
+86,Aron Baynes,FG_ASSISTED,Marcus Smart,2:05,1,Celtics,Nets,22 - 28,1,26,3,Jumper
+87,Aron Baynes,FOUL_ON_FLOOR,None,1:45,1,Celtics,Nets,22 - 28,1,N/A,N/A,N/A
+88,Shabazz Napier,FT_MISS,None,1:45,1,Nets,Celtics,22 - 28,0,N/A,1,N/A
+89,Team,OFFENSIVE_REBOUND,None,1:45,1,Nets,Celtics,22 - 28,0,N/A,N/A,N/A
+90,Brad Wanamaker,SUBSTITUTION,Smart Marcus,1:45,1,Celtics,Nets,22 - 28,1,N/A,N/A,N/A
+91,Shabazz Napier,FT,None,1:45,1,Nets,Celtics,23 - 28,0,N/A,1,N/A
+92,Aron Baynes,FG_MISS,None,1:23,1,Celtics,Nets,23 - 28,1,23,3,Jumper
+93,Jayson Tatum,OFFENSIVE_REBOUND,None,1:21,1,Celtics,Nets,23 - 28,1,N/A,N/A,N/A
+94,Gordon Hayward,FG_MISS,None,1:18,1,Celtics,Nets,23 - 28,1,23,3,Jumper
+95,Aron Baynes,OFFENSIVE_REBOUND,None,1:16,1,Celtics,Nets,23 - 28,1,N/A,N/A,N/A
+96,Aron Baynes,FG_UNASSISTED,None,1:15,1,Celtics,Nets,23 - 30,1, ,2,Jumper
+97,Theo Pinson,FG_MISS,None,1:00,1,Nets,Celtics,23 - 30,0,27,3,Jumper
+98,Jayson Tatum,DEFENSIVE_REBOUND,None,58.2,1,Celtics,Nets,23 - 30,1,N/A,N/A,N/A
+99,Aron Baynes,FG_MISS,None,51.2,1,Celtics,Nets,23 - 30,1,27,3,Jumper
+100,DeMarre Carroll,DEFENSIVE_REBOUND,None,49.2,1,Nets,Celtics,23 - 30,0,N/A,N/A,N/A
+101,Aron Baynes,FOUL_ON_FLOOR,None,38.5,1,Celtics,Nets,23 - 30,1,N/A,N/A,N/A
+102,DeMarre Carroll,FT_MISS,None,38.5,1,Nets,Celtics,23 - 30,0,N/A,1,N/A
+103,Team,OFFENSIVE_REBOUND,None,38.5,1,Nets,Celtics,23 - 30,0,N/A,N/A,N/A
+104,Marcus Morris,SUBSTITUTION,Hayward Gordon,38.5,1,Celtics,Nets,23 - 30,1,N/A,N/A,N/A
+105,DeMarre Carroll,FT,None,38.5,1,Nets,Celtics,24 - 30,0,N/A,1,N/A
+106,Jayson Tatum,FG_MISS,Ed Davis,30.2,1,Nets,Celtics,24 - 30,1,4,2,Jumper
+107,Team,OFFENSIVE_REBOUND,None,29.8,1,Celtics,Nets,24 - 30,1,N/A,N/A,N/A
+108,Marcus Morris,FG_UNASSISTED,None,23.2,1,Celtics,Nets,24 - 32,1,0,2,Layup
+109,Mitchell Creek,FG_ASSISTED,Shabazz Napier,2.3,1,Nets,Celtics,26 - 32,0,6,2,Jumper
+110,End of,Unknown,None,0.0,1,Celtics,Nets,26 - 32,1,N/A,N/A,N/A
+0,Brad Wanamaker,FG_ASSISTED,Aron Baynes,11:43,2,Celtics,Nets,26 - 35,1,27,3,Jumper
+1,Shabazz Napier,FG_UNASSISTED,None,11:28,2,Nets,Celtics,28 - 35,0,19,2,Jumper
+2,Marcus Morris,TURNOVER,None,11:10,2,Celtics,Nets,28 - 35,1,N/A,N/A,N/A
+3,Jaylen Brown,FOUL_ON_FLOOR,None,10:55,2,Celtics,Nets,28 - 35,1,N/A,N/A,N/A
+4,Semi Ojeleye,SUBSTITUTION,Tatum Jayson,10:55,2,Celtics,Nets,28 - 35,1,N/A,N/A,N/A
+5,Shabazz Napier,FG_MISS,None,10:48,2,Nets,Celtics,28 - 35,0,0,2,Layup
+6,Brad Wanamaker,DEFENSIVE_REBOUND,None,10:46,2,Celtics,Nets,28 - 35,1,N/A,N/A,N/A
+7,Semi Ojeleye,FG_MISS,None,10:43,2,Celtics,Nets,28 - 35,1,25,3,Jumper
+8,Team,OFFENSIVE_REBOUND,None,10:42,2,Celtics,Nets,28 - 35,1,N/A,N/A,N/A
+9,Mitchell Creek,FOUL_ON_FLOOR,None,10:42,2,Nets,Celtics,28 - 35,0,N/A,N/A,N/A
+10,Mitchell Creek,FOUL_ON_FLOOR,None,10:34,2,Nets,Celtics,28 - 35,0,N/A,N/A,N/A
+11,Marcus Morris,FG_UNASSISTED,None,10:25,2,Celtics,Nets,28 - 37,1,14,2,Jumper
+12,Shabazz Napier,FG_ASSISTED,Ed Davis,10:09,2,Nets,Celtics,31 - 37,0,26,3,Jumper
+13,Shabazz Napier,FOUL_ON_FLOOR,None,10:02,2,Nets,Celtics,31 - 37,0,N/A,N/A,N/A
+14,D'Angelo Russell,SUBSTITUTION,Napier Shabazz,10:02,2,Nets,Celtics,31 - 37,0,N/A,N/A,N/A
+15,Marcus Morris,FG_MISS,None,9:56,2,Celtics,Nets,31 - 37,1,0,2,Layup
+16,Aron Baynes,OFFENSIVE_REBOUND,None,9:51,2,Celtics,Nets,31 - 37,1,N/A,N/A,N/A
+17,Aron Baynes,FG_MISS,None,9:51,2,Celtics,Nets,31 - 37,1, ,2,Jumper
+18,Mitchell Creek,DEFENSIVE_REBOUND,None,9:50,2,Nets,Celtics,31 - 37,0,N/A,N/A,N/A
+19,DeMarre Carroll,FG_MISS,None,9:48,2,Nets,Celtics,31 - 37,0,25,3,Jumper
+20,Semi Ojeleye,DEFENSIVE_REBOUND,None,9:46,2,Celtics,Nets,31 - 37,1,N/A,N/A,N/A
+21,Brad Wanamaker,FG_MISS,None,9:40,2,Celtics,Nets,31 - 37,1,23,2,Jumper
+22,Ed Davis,DEFENSIVE_REBOUND,None,9:38,2,Nets,Celtics,31 - 37,0,N/A,N/A,N/A
+23,D'Angelo Russell,FG_MISS,None,9:25,2,Nets,Celtics,31 - 37,0,17,2,Jumper
+24,Semi Ojeleye,DEFENSIVE_REBOUND,None,9:24,2,Celtics,Nets,31 - 37,1,N/A,N/A,N/A
+25,Brad Wanamaker,FG_MISS,None,9:16,2,Celtics,Nets,31 - 37,1, ,2,Jumper
+26,Ed Davis,DEFENSIVE_REBOUND,None,9:14,2,Nets,Celtics,31 - 37,0,N/A,N/A,N/A
+27,Ed Davis,FG_ASSISTED,Theo Pinson,9:04,2,Nets,Celtics,33 - 37,0,0,2,Layup
+28,Brad Wanamaker,TURNOVER,D'Angelo Russell,8:45,2,Celtics,Nets,33 - 37,1,N/A,N/A,N/A
+29,DeMarre Carroll,FG_ASSISTED,D'Angelo Russell,8:42,2,Nets,Celtics,35 - 37,0,0,2,Dunk
+30,Team,Unknown,None,8:42,2,Celtics,Nets,35 - 37,1,N/A,N/A,N/A
+31,Marcus Smart,SUBSTITUTION,Ojeleye Semi,8:42,2,Celtics,Nets,35 - 37,1,N/A,N/A,N/A
+32,Al Horford,SUBSTITUTION,Baynes Aron,8:42,2,Celtics,Nets,35 - 37,1,N/A,N/A,N/A
+33,Rodions Kurucs,SUBSTITUTION,Creek Mitchell,8:42,2,Nets,Celtics,35 - 37,0,N/A,N/A,N/A
+34,Jaylen Brown,FG_MISS,None,8:29,2,Celtics,Nets,35 - 37,1,0,2,Dunk
+35,Team,OFFENSIVE_REBOUND,None,8:29,2,Celtics,Nets,35 - 37,1,N/A,N/A,N/A
+36,Marcus Morris,FG_MISS,None,8:28,2,Celtics,Nets,35 - 37,1,27,3,Jumper
+37,Team,DEFENSIVE_REBOUND,None,8:28,2,Nets,Celtics,35 - 37,0,N/A,N/A,N/A
+38,D'Angelo Russell,FG_MISS,None,8:15,2,Nets,Celtics,35 - 37,0,0,2,Layup
+39,D'Angelo Russell,OFFENSIVE_REBOUND,None,8:13,2,Nets,Celtics,35 - 37,0,N/A,N/A,N/A
+40,DeMarre Carroll,FG_MISS,None,8:07,2,Nets,Celtics,35 - 37,0,26,3,Jumper
+41,Ed Davis,OFFENSIVE_REBOUND,None,8:06,2,Nets,Celtics,35 - 37,0,N/A,N/A,N/A
+42,Ed Davis,FG_MISS,None,8:06,2,Nets,Celtics,35 - 37,0, ,2,Jumper
+43,Al Horford,DEFENSIVE_REBOUND,None,8:05,2,Celtics,Nets,35 - 37,1,N/A,N/A,N/A
+44,D'Angelo Russell,FOUL_ON_FLOOR,None,8:05,2,Nets,Celtics,35 - 37,0,N/A,N/A,N/A
+45,Terry Rozier,SUBSTITUTION,Wanamaker Brad,8:05,2,Celtics,Nets,35 - 37,1,N/A,N/A,N/A
+46,Marcus Smart,FG_UNASSISTED,None,7:50,2,Celtics,Nets,35 - 39,1,19,2,Jumper
+47,Theo Pinson's,FG_MISS,Al Horford,7:30,2,Celtics,Nets,35 - 39,0,0,2,Layup
+48,Terry Rozier,DEFENSIVE_REBOUND,None,7:28,2,Celtics,Nets,35 - 39,1,N/A,N/A,N/A
+49,Terry Rozier,TURNOVER,D'Angelo Russell,7:26,2,Celtics,Nets,35 - 39,1,N/A,N/A,N/A
+50,D'Angelo Russell,FG_UNASSISTED,None,7:22,2,Nets,Celtics,37 - 39,0,0,2,Layup
+51,Marcus Smart,FG_ASSISTED,Jaylen Brown,7:11,2,Celtics,Nets,37 - 42,1,23,3,Jumper
+52,D'Angelo Russell,FG_UNASSISTED,None,6:53,2,Nets,Celtics,39 - 42,0,19,2,Jumper
+53,Marcus Smart,TURNOVER,D'Angelo Russell,6:31,2,Celtics,Nets,39 - 42,1,N/A,N/A,N/A
+54,D'Angelo Russell,FG_MISS,Marcus Smart,6:27,2,Celtics,Nets,39 - 42,0,2,2,Jumper
+55,Team,OFFENSIVE_REBOUND,None,6:27,2,Nets,Celtics,39 - 42,0,N/A,N/A,N/A
+56,Joe Harris,SUBSTITUTION,Carroll DeMarre,6:27,2,Nets,Celtics,39 - 42,0,N/A,N/A,N/A
+57,D'Angelo Russell,FG_ASSISTED,Ed Davis,6:23,2,Nets,Celtics,42 - 42,0,25,3,Jumper
+58,Terry Rozier,FG_MISS,None,6:05,2,Celtics,Nets,42 - 42,1, ,2,Jumper
+59,Ed Davis,DEFENSIVE_REBOUND,None,6:03,2,Nets,Celtics,42 - 42,0,N/A,N/A,N/A
+60,Rodions Kurucs,FG_MISS,Al Horford,5:58,2,Celtics,Nets,42 - 42,0,2,2,Jumper
+61,Team,OFFENSIVE_REBOUND,None,5:58,2,Nets,Celtics,42 - 42,0,N/A,N/A,N/A
+62,Joe Harris,FG_MISS,None,5:49,2,Nets,Celtics,42 - 42,0, ,2,Jumper
+63,Terry Rozier,DEFENSIVE_REBOUND,None,5:48,2,Celtics,Nets,42 - 42,1,N/A,N/A,N/A
+64,Al Horford,FG_ASSISTED,Terry Rozier,5:42,2,Celtics,Nets,42 - 44,1,0,2,Dunk
+65,Rodions Kurucs,FG_MISS,None,5:27,2,Nets,Celtics,42 - 44,0,0,2,Dunk
+66,Ed Davis,OFFENSIVE_REBOUND,None,5:24,2,Nets,Celtics,42 - 44,0,N/A,N/A,N/A
+67,Marcus Morris,FOUL_ON_FLOOR,None,5:24,2,Celtics,Nets,42 - 44,1,N/A,N/A,N/A
+68,Ed Davis,FT,None,5:24,2,Nets,Celtics,43 - 44,0,N/A,1,N/A
+69,Jayson Tatum,SUBSTITUTION,Morris Marcus,5:24,2,Celtics,Nets,43 - 44,1,N/A,N/A,N/A
+70,Ed Davis,FT,None,5:24,2,Nets,Celtics,44 - 44,0,N/A,1,N/A
+71,Marcus Morris,SUBSTITUTION,Smart Marcus,5:24,2,Celtics,Nets,44 - 44,1,N/A,N/A,N/A
+72,Jarrett Allen,SUBSTITUTION,Davis Ed,5:24,2,Nets,Celtics,44 - 44,0,N/A,N/A,N/A
+73,Jaylen Brown,FG_ASSISTED,Terry Rozier,5:10,2,Celtics,Nets,44 - 47,1,26,3,Jumper
+74,Al Horford,Unknown,None,4:58,2,Celtics,Nets,44 - 47,1,N/A,N/A,N/A
+75,Shabazz Napier,SUBSTITUTION,Kurucs Rodions,4:58,2,Nets,Celtics,44 - 47,0,N/A,N/A,N/A
+76,Rondae Hollis-Jefferson,SUBSTITUTION,Pinson Theo,4:58,2,Nets,Celtics,44 - 47,0,N/A,N/A,N/A
+77,D'Angelo Russell,FG_MISS,None,4:51,2,Nets,Celtics,44 - 47,0,27,3,Jumper
+78,Jaylen Brown,DEFENSIVE_REBOUND,None,4:49,2,Celtics,Nets,44 - 47,1,N/A,N/A,N/A
+79,Jaylen Brown,FG_ASSISTED,Al Horford,4:36,2,Celtics,Nets,44 - 49,1,14,2,Jumper
+80,Jarrett Allen,FG_ASSISTED,Shabazz Napier,4:23,2,Nets,Celtics,46 - 49,0,0,2,Dunk
+81,Marcus Morris,TURNOVER,None,4:03,2,Celtics,Nets,46 - 49,1,N/A,N/A,N/A
+82,Gordon Hayward,SUBSTITUTION,Morris Marcus,4:03,2,Celtics,Nets,46 - 49,1,N/A,N/A,N/A
+83,Shabazz Napier,FG_MISS,None,3:55,2,Nets,Celtics,46 - 49,0,25,3,Jumper
+84,Team,OFFENSIVE_REBOUND,None,3:54,2,Nets,Celtics,46 - 49,0,N/A,N/A,N/A
+85,Aron Baynes,SUBSTITUTION,Horford Al,3:51,2,Celtics,Nets,46 - 49,1,N/A,N/A,N/A
+86,Joe Harris,FG_MISS,None,3:46,2,Nets,Celtics,46 - 49,0,26,3,Jumper
+87,Terry Rozier,DEFENSIVE_REBOUND,None,3:44,2,Celtics,Nets,46 - 49,1,N/A,N/A,N/A
+88,Aron Baynes,FG_ASSISTED,Terry Rozier,3:37,2,Celtics,Nets,46 - 52,1,27,3,Jumper
+89,Team,Unknown,None,3:34,2,Nets,Celtics,46 - 52,0,N/A,N/A,N/A
+90,D'Angelo Russell,FG_MISS,None,3:22,2,Nets,Celtics,46 - 52,0,26,3,Jumper
+91,Jaylen Brown,DEFENSIVE_REBOUND,None,3:20,2,Celtics,Nets,46 - 52,1,N/A,N/A,N/A
+92,Jaylen Brown,FG_MISS,None,3:12,2,Celtics,Nets,46 - 52,1,25,3,Jumper
+93,Gordon Hayward,OFFENSIVE_REBOUND,None,3:08,2,Celtics,Nets,46 - 52,1,N/A,N/A,N/A
+94,Aron Baynes,FG_MISS,Rondae Hollis-Jefferson,3:00,2,Nets,Celtics,46 - 52,1,0,2,Layup
+95,Jayson Tatum,OFFENSIVE_REBOUND,None,2:59,2,Celtics,Nets,46 - 52,1,N/A,N/A,N/A
+96,Jayson Tatum,FG_MISS,None,2:58,2,Celtics,Nets,46 - 52,1,0,2,Layup
+97,Aron Baynes,OFFENSIVE_REBOUND,None,2:57,2,Celtics,Nets,46 - 52,1,N/A,N/A,N/A
+98,Joe Harris,FOUL_ON_FLOOR,None,2:57,2,Nets,Celtics,46 - 52,0,N/A,N/A,N/A
+99,Aron Baynes,FT,None,2:57,2,Celtics,Nets,46 - 53,1,N/A,1,N/A
+100,Aron Baynes,FT,None,2:57,2,Celtics,Nets,46 - 54,1,N/A,1,N/A
+101,DeMarre Carroll,SUBSTITUTION,Russell D'Angelo,2:57,2,Nets,Celtics,46 - 54,0,N/A,N/A,N/A
+102,Terry Rozier,FOUL_ON_FLOOR,None,2:45,2,Celtics,Nets,46 - 53,1,N/A,N/A,N/A
+103,Shabazz Napier,FG_MISS,Aron Baynes,2:40,2,Celtics,Nets,46 - 54,0,0,2,Layup
+104,Aron Baynes,DEFENSIVE_REBOUND,None,2:38,2,Celtics,Nets,46 - 54,1,N/A,N/A,N/A
+105,Jaylen Brown,FG_ASSISTED,Gordon Hayward,2:34,2,Celtics,Nets,46 - 56,1,0,2,Dunk
+106,Shabazz Napier,TURNOVER,Gordon Hayward,2:18,2,Nets,Celtics,46 - 56,0,N/A,N/A,N/A
+107,Jayson Tatum,FG_ASSISTED,Gordon Hayward,2:13,2,Celtics,Nets,46 - 58,1, ,2,Jumper
+108,DeMarre Carroll,FG_MISS,None,1:58,2,Nets,Celtics,46 - 58,0,24,3,Jumper
+109,Gordon Hayward,DEFENSIVE_REBOUND,None,1:52,2,Celtics,Nets,46 - 58,1,N/A,N/A,N/A
+110,Gordon Hayward,TURNOVER,Shabazz Napier,1:52,2,Celtics,Nets,46 - 58,1,N/A,N/A,N/A
+111,Gordon Hayward,FOUL_ON_FLOOR,None,1:52,2,Celtics,Nets,46 - 58,1,N/A,N/A,N/A
+112,Shabazz Napier,FT_MISS,None,1:52,2,Nets,Celtics,46 - 58,0,N/A,1,N/A
+113,Team,OFFENSIVE_REBOUND,None,1:52,2,Nets,Celtics,46 - 58,0,N/A,N/A,N/A
+114,Mitchell Creek,SUBSTITUTION,Hollis-Jefferson Rondae,1:52,2,Nets,Celtics,46 - 58,0,N/A,N/A,N/A
+115,Shabazz Napier,FT,None,1:52,2,Nets,Celtics,47 - 58,0,N/A,1,N/A
+116,Aron Baynes,FG_MISS,None,1:36,2,Celtics,Nets,47 - 58,1,27,3,Jumper
+117,Shabazz Napier,DEFENSIVE_REBOUND,None,1:34,2,Nets,Celtics,47 - 58,0,N/A,N/A,N/A
+118,Joe Harris,FG_MISS,None,1:24,2,Nets,Celtics,47 - 58,0,25,3,Jumper
+119,Jaylen Brown,DEFENSIVE_REBOUND,None,1:22,2,Celtics,Nets,47 - 58,1,N/A,N/A,N/A
+120,Jaylen Brown,FG_MISS,None,1:16,2,Celtics,Nets,47 - 58,1, ,2,Jumper
+121,Team,OFFENSIVE_REBOUND,None,1:14,2,Celtics,Nets,47 - 58,1,N/A,N/A,N/A
+122,Gordon Hayward,TURNOVER,Mitchell Creek,1:12,2,Celtics,Nets,47 - 58,1,N/A,N/A,N/A
+123,Joe Harris,FG_MISS,Jayson Tatum,1:08,2,Celtics,Nets,47 - 58,0,2,2,Jumper
+124,Jarrett Allen,OFFENSIVE_REBOUND,None,1:04,2,Nets,Celtics,47 - 58,0,N/A,N/A,N/A
+125,Shabazz Napier,FG_ASSISTED,Jarrett Allen,1:03,2,Nets,Celtics,50 - 58,0,26,3,Jumper
+126,Aron Baynes,FOUL_ON_FLOOR,None,47.9,2,Celtics,Nets,50 - 58,1,N/A,N/A,N/A
+127,Aron Baynes,TURNOVER,None,47.9,2,Celtics,Nets,50 - 58,1,N/A,N/A,N/A
+128,Theo Pinson,SUBSTITUTION,Harris Joe,47.9,2,Nets,Celtics,50 - 58,0,N/A,N/A,N/A
+129,Shabazz Napier,FG_MISS,Gordon Hayward,32.5,2,Celtics,Nets,50 - 58,0,0,2,Layup
+130,Aron Baynes,DEFENSIVE_REBOUND,None,31.1,2,Celtics,Nets,50 - 58,1,N/A,N/A,N/A
+131,Terry Rozier,FG_MISS,None,25.8,2,Celtics,Nets,50 - 58,1,24,3,Jumper
+132,Aron Baynes,OFFENSIVE_REBOUND,None,24.8,2,Celtics,Nets,50 - 58,1,N/A,N/A,N/A
+133,Aron Baynes,FG_UNASSISTED,None,24.0,2,Celtics,Nets,50 - 60,1, ,2,Jumper
+134,Mitchell Creek,FG_MISS,None,3.7,2,Nets,Celtics,50 - 60,0,0,2,Layup
+135,Mitchell Creek,OFFENSIVE_REBOUND,None,2.7,2,Nets,Celtics,50 - 60,0,N/A,N/A,N/A
+136,Mitchell Creek,FG_MISS,None,2.0,2,Nets,Celtics,50 - 60,0,3,2,Jumper
+137,Jarrett Allen,OFFENSIVE_REBOUND,None,1.0,2,Nets,Celtics,50 - 60,0,N/A,N/A,N/A
+138,Jarrett Allen,FG_MISS,None,1.0,2,Nets,Celtics,50 - 60,0,0,2,Dunk
+139,Team,OFFENSIVE_REBOUND,None,0.1,2,Nets,Celtics,50 - 60,0,N/A,N/A,N/A
+140,End of,Unknown,None,0.0,2,Celtics,Nets,50 - 60,1,N/A,N/A,N/A
+0,Marcus Morris,SUBSTITUTION,Brown Jaylen,12:00,3,Celtics,Nets,50 - 60,1,N/A,N/A,N/A
+1,Marcus Smart,SUBSTITUTION,Hayward Gordon,12:00,3,Celtics,Nets,50 - 60,1,N/A,N/A,N/A
+2,Al Horford,SUBSTITUTION,Baynes Aron,12:00,3,Celtics,Nets,50 - 60,1,N/A,N/A,N/A
+3,Joe Harris,SUBSTITUTION,Napier Shabazz,12:00,3,Nets,Celtics,50 - 60,0,N/A,N/A,N/A
+4,Rodions Kurucs,SUBSTITUTION,Carroll DeMarre,12:00,3,Nets,Celtics,50 - 60,0,N/A,N/A,N/A
+5,Rondae Hollis-Jefferson,SUBSTITUTION,Creek Mitchell,12:00,3,Nets,Celtics,50 - 60,0,N/A,N/A,N/A
+6,D'Angelo Russell,SUBSTITUTION,Pinson Theo,12:00,3,Nets,Celtics,50 - 60,0,N/A,N/A,N/A
+7,Terry Rozier,FG_UNASSISTED,None,11:51,3,Celtics,Nets,50 - 62,1, ,2,Jumper
+8,D'Angelo Russell,FG_UNASSISTED,None,11:41,3,Nets,Celtics,52 - 62,0,21,2,Jumper
+9,Rodions Kurucs,Unknown,None,11:25,3,Nets,Celtics,52 - 62,0,N/A,N/A,N/A
+10,Marcus Smart,FG_MISS,None,11:11,3,Celtics,Nets,52 - 62,1,15,2,Jumper
+11,Jarrett Allen,DEFENSIVE_REBOUND,None,11:09,3,Nets,Celtics,52 - 62,0,N/A,N/A,N/A
+12,Rondae Hollis-Jefferson,FG_MISS,None,10:49,3,Nets,Celtics,52 - 62,0,0,2,Layup
+13,Rondae Hollis-Jefferson,OFFENSIVE_REBOUND,None,10:48,3,Nets,Celtics,52 - 62,0,N/A,N/A,N/A
+14,Rondae Hollis-Jefferson,FG_UNASSISTED,None,10:47,3,Nets,Celtics,54 - 62,0, ,2,Jumper
+15,Marcus Morris,FG_ASSISTED,Marcus Smart,10:32,3,Celtics,Nets,54 - 64,1,0,2,Dunk
+16,Rondae Hollis-Jefferson,FG_MISS,None,10:17,3,Nets,Celtics,54 - 64,0,0,2,Layup
+17,Rondae Hollis-Jefferson,OFFENSIVE_REBOUND,None,10:16,3,Nets,Celtics,54 - 64,0,N/A,N/A,N/A
+18,Rondae Hollis-Jefferson,FG_MISS,Al Horford,10:08,3,Celtics,Nets,54 - 64,0,11,2,Jumper
+19,Jayson Tatum,DEFENSIVE_REBOUND,None,10:07,3,Celtics,Nets,54 - 64,1,N/A,N/A,N/A
+20,Jayson Tatum,FG_UNASSISTED,None,10:02,3,Celtics,Nets,54 - 66,1, ,2,Jumper
+21,Rondae Hollis-Jefferson,FG_ASSISTED,D'Angelo Russell,9:45,3,Nets,Celtics,56 - 66,0,0,2,Layup
+22,Al Horford,FG_MISS,None,9:34,3,Celtics,Nets,56 - 66,1,23,2,Jumper
+23,Rondae Hollis-Jefferson,DEFENSIVE_REBOUND,None,9:31,3,Nets,Celtics,56 - 66,0,N/A,N/A,N/A
+24,Jarrett Allen,FG_MISS,None,9:27,3,Nets,Celtics,56 - 66,0, ,2,Jumper
+25,Al Horford,DEFENSIVE_REBOUND,None,9:25,3,Celtics,Nets,56 - 66,1,N/A,N/A,N/A
+26,Al Horford,TURNOVER,Rodions Kurucs,9:24,3,Celtics,Nets,56 - 66,1,N/A,N/A,N/A
+27,Jayson Tatum,FOUL_ON_FLOOR,None,9:23,3,Celtics,Nets,56 - 66,1,N/A,N/A,N/A
+28,Rodions Kurucs,FT,None,9:23,3,Nets,Celtics,57 - 66,0,N/A,1,N/A
+29,Rodions Kurucs,FT,None,9:23,3,Nets,Celtics,58 - 66,0,N/A,1,N/A
+30,Marcus Morris,FG_MISS,None,9:08,3,Celtics,Nets,58 - 66,1,2,2,Jumper
+31,Al Horford,OFFENSIVE_REBOUND,None,9:06,3,Celtics,Nets,58 - 66,1,N/A,N/A,N/A
+32,Al Horford,FG_MISS,None,9:04,3,Celtics,Nets,58 - 66,1, ,2,Jumper
+33,Jarrett Allen,DEFENSIVE_REBOUND,None,9:02,3,Nets,Celtics,58 - 66,0,N/A,N/A,N/A
+34,Rondae Hollis-Jefferson,FG_MISS,None,8:56,3,Nets,Celtics,58 - 66,0,0,2,Layup
+35,Team,OFFENSIVE_REBOUND,None,8:56,3,Nets,Celtics,58 - 66,0,N/A,N/A,N/A
+36,D'Angelo Russell,FG_UNASSISTED,None,8:48,3,Nets,Celtics,60 - 66,0,12,2,Jumper
+37,Joe Harris,FOUL_ON_FLOOR,None,8:32,3,Nets,Celtics,60 - 66,0,N/A,N/A,N/A
+38,Marcus Morris,FG_MISS,Joe Harris,8:28,3,Nets,Celtics,60 - 66,1,0,2,Layup
+39,Team,OFFENSIVE_REBOUND,None,8:27,3,Celtics,Nets,60 - 66,1,N/A,N/A,N/A
+40,Al Horford,FG_ASSISTED,Marcus Smart,8:22,3,Celtics,Nets,60 - 68,1, ,2,Jumper
+41,Rondae Hollis-Jefferson,FG_MISS,None,8:05,3,Nets,Celtics,60 - 68,0, ,2,Jumper
+42,Rondae Hollis-Jefferson,OFFENSIVE_REBOUND,None,8:03,3,Nets,Celtics,60 - 68,0,N/A,N/A,N/A
+43,Rondae Hollis-Jefferson,FG_UNASSISTED,None,8:00,3,Nets,Celtics,62 - 68,0,0,2,Layup
+44,Jayson Tatum,TURNOVER,Jarrett Allen,7:44,3,Celtics,Nets,62 - 68,1,N/A,N/A,N/A
+45,D'Angelo Russell,FG_ASSISTED,Rondae Hollis-Jefferson,7:40,3,Nets,Celtics,65 - 68,0,26,3,Jumper
+46,Team,Unknown,None,7:39,3,Celtics,Nets,65 - 68,1,N/A,N/A,N/A
+47,Terry Rozier,FG_MISS,None,7:27,3,Celtics,Nets,65 - 68,1,23,3,Jumper
+48,Rodions Kurucs,DEFENSIVE_REBOUND,None,7:25,3,Nets,Celtics,65 - 68,0,N/A,N/A,N/A
+49,D'Angelo Russell,FG_UNASSISTED,None,7:20,3,Nets,Celtics,68 - 68,0,26,3,Jumper
+50,Marcus Smart,FG_MISS,None,7:03,3,Celtics,Nets,68 - 68,1,25,3,Jumper
+51,Jarrett Allen,DEFENSIVE_REBOUND,None,7:01,3,Nets,Celtics,68 - 68,0,N/A,N/A,N/A
+52,D'Angelo Russell,FG_UNASSISTED,None,6:56,3,Nets,Celtics,71 - 68,0,28,3,Jumper
+53,Marcus Smart,FG_MISS,None,6:41,3,Celtics,Nets,71 - 68,1, ,2,Jumper
+54,Joe Harris,DEFENSIVE_REBOUND,None,6:39,3,Nets,Celtics,71 - 68,0,N/A,N/A,N/A
+55,D'Angelo Russell,FG_MISS,None,6:34,3,Nets,Celtics,71 - 68,0,26,2,Jumper
+56,Marcus Morris,DEFENSIVE_REBOUND,None,6:32,3,Celtics,Nets,71 - 68,1,N/A,N/A,N/A
+57,Terry Rozier,FG_ASSISTED,Marcus Smart,6:25,3,Celtics,Nets,71 - 70,1,0,2,Layup
+58,Joe Harris,FG_MISS,None,6:13,3,Nets,Celtics,71 - 70,0,26,3,Jumper
+59,D'Angelo Russell,OFFENSIVE_REBOUND,None,6:11,3,Nets,Celtics,71 - 70,0,N/A,N/A,N/A
+60,Jarrett Allen,FG_MISS,None,6:01,3,Nets,Celtics,71 - 70,0,23,3,Jumper
+61,Terry Rozier,DEFENSIVE_REBOUND,None,5:59,3,Celtics,Nets,71 - 70,1,N/A,N/A,N/A
+62,Al Horford's,FG_MISS,Jarrett Allen,5:49,3,Nets,Celtics,71 - 70,1,0,2,Layup
+63,Al Horford,OFFENSIVE_REBOUND,None,5:48,3,Celtics,Nets,71 - 70,1,N/A,N/A,N/A
+64,Al Horford,FG_UNASSISTED,None,5:46,3,Celtics,Nets,71 - 72,1, ,2,Jumper
+65,Joe Harris,FG_ASSISTED,D'Angelo Russell,5:35,3,Nets,Celtics,73 - 72,0, ,2,Jumper
+66,Rodions Kurucs,FOUL_ON_FLOOR,None,5:24,3,Nets,Celtics,73 - 72,0,N/A,N/A,N/A
+67,Al Horford,FOUL_TECHNICAL,None,5:24,3,Celtics,Nets,73 - 72,1,N/A,N/A,N/A
+68,D'Angelo Russell,FT,None,5:24,3,Nets,Celtics,74 - 72,0,N/A,1,N/A
+69,Al Horford,FT,None,5:24,3,Celtics,Nets,74 - 73,1,N/A,1,N/A
+70,Aron Baynes,SUBSTITUTION,Tatum Jayson,5:24,3,Celtics,Nets,74 - 73,1,N/A,N/A,N/A
+71,Gordon Hayward,SUBSTITUTION,Morris Marcus,5:24,3,Celtics,Nets,74 - 73,1,N/A,N/A,N/A
+72,Al Horford,FT,None,5:24,3,Celtics,Nets,74 - 74,1,N/A,1,N/A
+73,D'Angelo Russell,TURNOVER,Marcus Smart,5:17,3,Nets,Celtics,74 - 74,0,N/A,N/A,N/A
+74,D'Angelo Russell,FOUL_ON_FLOOR,None,5:15,3,Nets,Celtics,74 - 74,0,N/A,N/A,N/A
+75,DeMarre Carroll,SUBSTITUTION,Harris Joe,5:15,3,Nets,Celtics,74 - 74,0,N/A,N/A,N/A
+76,Rondae Hollis-Jefferson,FOUL_ON_FLOOR,None,5:03,3,Nets,Celtics,74 - 74,0,N/A,N/A,N/A
+77,Shabazz Napier,SUBSTITUTION,Russell D'Angelo,5:03,3,Nets,Celtics,74 - 74,0,N/A,N/A,N/A
+78,Gordon Hayward,FG_MISS,None,5:01,3,Celtics,Nets,74 - 74,1,23,3,Jumper
+79,Rondae Hollis-Jefferson,DEFENSIVE_REBOUND,None,4:59,3,Nets,Celtics,74 - 74,0,N/A,N/A,N/A
+80,Rondae Hollis-Jefferson,FG_MISS,None,4:51,3,Nets,Celtics,74 - 74,0,16,2,Jumper
+81,Gordon Hayward,DEFENSIVE_REBOUND,None,4:49,3,Celtics,Nets,74 - 74,1,N/A,N/A,N/A
+82,Al Horford,FG_ASSISTED,Marcus Smart,4:35,3,Celtics,Nets,74 - 76,1,0,2,Dunk
+83,Team,Unknown,None,4:35,3,Nets,Celtics,74 - 76,0,N/A,N/A,N/A
+84,Jaylen Brown,SUBSTITUTION,Smart Marcus,4:35,3,Celtics,Nets,74 - 76,1,N/A,N/A,N/A
+85,Rodions Kurucs,FG_MISS,Aron Baynes,4:24,3,Celtics,Nets,74 - 76,0,0,2,Layup
+86,Team,OFFENSIVE_REBOUND,None,4:24,3,Nets,Celtics,74 - 76,0,N/A,N/A,N/A
+87,DeMarre Carroll,TURNOVER,Terry Rozier,4:14,3,Nets,Celtics,74 - 76,0,N/A,N/A,N/A
+88,Terry Rozier,FG_UNASSISTED,None,4:11,3,Celtics,Nets,74 - 78,1,0,2,Dunk
+89,Shabazz Napier,FG_MISS,None,4:01,3,Nets,Celtics,74 - 78,0,0,2,Layup
+90,Team,OFFENSIVE_REBOUND,None,4:00,3,Nets,Celtics,74 - 78,0,N/A,N/A,N/A
+91,Terry Rozier,FOUL_ON_FLOOR,None,4:00,3,Celtics,Nets,74 - 78,1,N/A,N/A,N/A
+92,Mitchell Creek,SUBSTITUTION,Hollis-Jefferson Rondae,4:00,3,Nets,Celtics,74 - 78,0,N/A,N/A,N/A
+93,Ed Davis,SUBSTITUTION,Allen Jarrett,4:00,3,Nets,Celtics,74 - 78,0,N/A,N/A,N/A
+94,Ed Davis,FG_MISS,None,3:53,3,Nets,Celtics,74 - 78,0,0,2,Layup
+95,Al Horford,DEFENSIVE_REBOUND,None,3:51,3,Celtics,Nets,74 - 78,1,N/A,N/A,N/A
+96,Terry Rozier,FG_MISS,None,3:36,3,Celtics,Nets,74 - 78,1,0,2,Layup
+97,Mitchell Creek,DEFENSIVE_REBOUND,None,3:31,3,Nets,Celtics,74 - 78,0,N/A,N/A,N/A
+98,Mitchell Creek,FG_UNASSISTED,None,3:28,3,Nets,Celtics,76 - 78,0, ,2,Jumper
+99,Jaylen Brown,FG_ASSISTED,Al Horford,3:08,3,Celtics,Nets,76 - 80,1, ,2,Jumper
+100,Shabazz Napier,FG_MISS,None,2:52,3,Nets,Celtics,76 - 80,0,28,3,Jumper
+101,Ed Davis,OFFENSIVE_REBOUND,None,2:50,3,Nets,Celtics,76 - 80,0,N/A,N/A,N/A
+102,Jaylen Brown,FOUL_ON_FLOOR,None,2:43,3,Celtics,Nets,76 - 80,1,N/A,N/A,N/A
+103,Shabazz Napier,FT,None,2:43,3,Nets,Celtics,77 - 80,0,N/A,1,N/A
+104,Marcus Morris,SUBSTITUTION,Horford Al,2:43,3,Celtics,Nets,77 - 80,1,N/A,N/A,N/A
+105,Theo Pinson,SUBSTITUTION,Kurucs Rodions,2:43,3,Nets,Celtics,77 - 80,0,N/A,N/A,N/A
+106,Shabazz Napier,FT,None,2:43,3,Nets,Celtics,78 - 80,0,N/A,1,N/A
+107,Jaylen Brown,FG_ASSISTED,Marcus Morris,2:23,3,Celtics,Nets,78 - 83,1,26,3,Jumper
+108,Shabazz Napier,FG_MISS,Aron Baynes,2:11,3,Celtics,Nets,78 - 83,0,3,2,Jumper
+109,Ed Davis,OFFENSIVE_REBOUND,None,2:09,3,Nets,Celtics,78 - 83,0,N/A,N/A,N/A
+110,Ed Davis,FG_UNASSISTED,None,2:08,3,Nets,Celtics,80 - 83,0, ,2,Jumper
+111,Jaylen Brown,FG_UNASSISTED,None,1:48,3,Celtics,Nets,80 - 85,1,15,2,Jumper
+112,DeMarre Carroll,FG_ASSISTED,Ed Davis,1:35,3,Nets,Celtics,83 - 85,0,27,3,Jumper
+113,Marcus Morris,FOUL_ON_FLOOR,None,1:35,3,Celtics,Nets,83 - 85,1,N/A,N/A,N/A
+114,DeMarre Carroll,FT,None,1:35,3,Nets,Celtics,84 - 85,0,N/A,1,N/A
+115,Terry Rozier,FG_MISS,None,1:15,3,Celtics,Nets,84 - 85,1,19,2,Jumper
+116,Marcus Morris,OFFENSIVE_REBOUND,None,1:13,3,Celtics,Nets,84 - 85,1,N/A,N/A,N/A
+117,Ed Davis,FOUL_ON_FLOOR,None,1:11,3,Nets,Celtics,84 - 85,0,N/A,N/A,N/A
+118,Marcus Morris,FT,None,1:11,3,Celtics,Nets,84 - 86,1,N/A,1,N/A
+119,Marcus Morris,FT,None,1:11,3,Celtics,Nets,84 - 87,1,N/A,1,N/A
+120,Shabazz Napier,FG_MISS,None,59.4,3,Nets,Celtics,84 - 87,0,27,3,Jumper
+121,Marcus Morris,DEFENSIVE_REBOUND,None,57.9,3,Celtics,Nets,84 - 87,1,N/A,N/A,N/A
+122,Marcus Morris,TURNOVER,DeMarre Carroll,55.4,3,Celtics,Nets,84 - 87,1,N/A,N/A,N/A
+123,DeMarre Carroll,FG_MISS,None,51.2,3,Nets,Celtics,84 - 87,0,0,2,Layup
+124,Ed Davis,OFFENSIVE_REBOUND,None,50.4,3,Nets,Celtics,84 - 87,0,N/A,N/A,N/A
+125,Ed Davis,FG_UNASSISTED,None,50.4,3,Nets,Celtics,86 - 87,0,0,2,Dunk
+126,Marcus Morris,TURNOVER,DeMarre Carroll,32.2,3,Celtics,Nets,86 - 87,1,N/A,N/A,N/A
+127,Aron Baynes,FOUL_ON_FLOOR,None,27.3,3,Celtics,Nets,86 - 87,1,N/A,N/A,N/A
+128,Mitchell Creek,FT,None,27.3,3,Nets,Celtics,87 - 87,0,N/A,1,N/A
+129,Mitchell Creek,FT,None,27.3,3,Nets,Celtics,88 - 87,0,N/A,1,N/A
+130,Terry Rozier,FG_UNASSISTED,None,7.2,3,Celtics,Nets,88 - 89,1,17,2,Jumper
+131,Theo Pinson,FG_MISS,None,1.0,3,Nets,Celtics,88 - 89,0,27,3,Jumper
+132,Marcus Morris,DEFENSIVE_REBOUND,None,1.0,3,Celtics,Nets,88 - 89,1,N/A,N/A,N/A
+133,End of,Unknown,None,0.0,3,Celtics,Nets,88 - 89,1,N/A,N/A,N/A
+0,Marcus Smart,SUBSTITUTION,Rozier Terry,12:00,4,Celtics,Nets,88 - 89,1,N/A,N/A,N/A
+1,D'Angelo Russell,SUBSTITUTION,Napier Shabazz,12:00,4,Nets,Celtics,88 - 89,0,N/A,N/A,N/A
+2,Theo Pinson,TURNOVER,None,11:48,4,Nets,Celtics,88 - 89,0,N/A,N/A,N/A
+3,Theo Pinson,TURNOVER,None,11:48,4,Nets,Celtics,88 - 89,0,N/A,N/A,N/A
+4,Gordon Hayward,FG_MISS,None,11:33,4,Celtics,Nets,88 - 89,1,26,3,Jumper
+5,Mitchell Creek,DEFENSIVE_REBOUND,None,11:31,4,Nets,Celtics,88 - 89,0,N/A,N/A,N/A
+6,Aron Baynes,FOUL_ON_FLOOR,None,11:23,4,Celtics,Nets,88 - 89,1,N/A,N/A,N/A
+7,D'Angelo Russell,FG_MISS,None,11:18,4,Nets,Celtics,88 - 89,0,13,2,Jumper
+8,Marcus Morris,DEFENSIVE_REBOUND,None,11:17,4,Celtics,Nets,88 - 89,1,N/A,N/A,N/A
+9,Jaylen Brown,FG_UNASSISTED,None,11:08,4,Celtics,Nets,88 - 91,1,2,2,Jumper
+10,D'Angelo Russell,FG_ASSISTED,DeMarre Carroll,10:47,4,Nets,Celtics,90 - 91,0, ,2,Jumper
+11,Aron Baynes,FG_ASSISTED,Jaylen Brown,10:29,4,Celtics,Nets,90 - 93,1,2,2,Jumper
+12,DeMarre Carroll,FG_MISS,None,10:04,4,Nets,Celtics,90 - 93,0,16,2,Jumper
+13,Team,DEFENSIVE_REBOUND,None,10:04,4,Celtics,Nets,90 - 93,1,N/A,N/A,N/A
+14,Ed Davis,FOUL_ON_FLOOR,None,10:04,4,Nets,Celtics,90 - 93,0,N/A,N/A,N/A
+15,Marcus Morris,FG_ASSISTED,Marcus Smart,9:54,4,Celtics,Nets,90 - 95,1,15,2,Jumper
+16,D'Angelo Russell,TURNOVER,Marcus Smart,9:36,4,Nets,Celtics,90 - 95,0,N/A,N/A,N/A
+17,Marcus Smart,FG_MISS,None,9:31,4,Celtics,Nets,90 - 95,1, ,3,Jumper
+18,DeMarre Carroll,DEFENSIVE_REBOUND,None,9:29,4,Nets,Celtics,90 - 95,0,N/A,N/A,N/A
+19,Jaylen Brown,FOUL_ON_FLOOR,None,9:28,4,Celtics,Nets,90 - 95,1,N/A,N/A,N/A
+20,Ed Davis,TURNOVER,None,9:23,4,Nets,Celtics,90 - 95,0,N/A,N/A,N/A
+21,Gordon Hayward,FG_MISS,None,9:14,4,Celtics,Nets,90 - 95,1,23,3,Jumper
+22,Jaylen Brown,OFFENSIVE_REBOUND,None,9:12,4,Celtics,Nets,90 - 95,1,N/A,N/A,N/A
+23,Marcus Morris,FG_MISS,None,9:08,4,Celtics,Nets,90 - 95,1,25,3,Jumper
+24,Jaylen Brown,OFFENSIVE_REBOUND,None,9:06,4,Celtics,Nets,90 - 95,1,N/A,N/A,N/A
+25,Jaylen Brown,FG_MISS,None,9:04,4,Celtics,Nets,90 - 95,1,0,2,Layup
+26,Marcus Morris,OFFENSIVE_REBOUND,None,9:02,4,Celtics,Nets,90 - 95,1,N/A,N/A,N/A
+27,Marcus Morris,FG_UNASSISTED,None,9:00,4,Celtics,Nets,90 - 97,1, ,2,Jumper
+28,D'Angelo Russell,FOUL_ON_FLOOR,None,8:42,4,Nets,Celtics,90 - 97,0,N/A,N/A,N/A
+29,D'Angelo Russell,TURNOVER,None,8:42,4,Nets,Celtics,90 - 97,0,N/A,N/A,N/A
+30,Shabazz Napier,SUBSTITUTION,Russell D'Angelo,8:42,4,Nets,Celtics,90 - 97,0,N/A,N/A,N/A
+31,DeMarre Carroll,FOUL_ON_FLOOR,None,8:33,4,Nets,Celtics,90 - 97,0,N/A,N/A,N/A
+32,Rodions Kurucs,SUBSTITUTION,Creek Mitchell,8:33,4,Nets,Celtics,90 - 97,0,N/A,N/A,N/A
+33,Gordon Hayward,FG_MISS,None,8:18,4,Celtics,Nets,90 - 97,1,20,2,Jumper
+34,Theo Pinson,DEFENSIVE_REBOUND,None,8:16,4,Nets,Celtics,90 - 97,0,N/A,N/A,N/A
+35,Rodions Kurucs,FG_MISS,None,8:11,4,Nets,Celtics,90 - 97,0, ,3,Jumper
+36,Marcus Morris,DEFENSIVE_REBOUND,None,8:09,4,Celtics,Nets,90 - 97,1,N/A,N/A,N/A
+37,Gordon Hayward,TURNOVER,None,8:01,4,Celtics,Nets,90 - 97,1,N/A,N/A,N/A
+38,Shabazz Napier,TURNOVER,Marcus Smart,7:48,4,Nets,Celtics,90 - 97,0,N/A,N/A,N/A
+39,Gordon Hayward,FG_ASSISTED,Marcus Morris,7:44,4,Celtics,Nets,90 - 99,1,0,2,Dunk
+40,Theo Pinson,TURNOVER,None,7:32,4,Nets,Celtics,90 - 99,0,N/A,N/A,N/A
+41,Jaylen Brown,FG_ASSISTED,Marcus Morris,7:13,4,Celtics,Nets,90 - 102,1,24,3,Jumper
+42,Team,Unknown,None,7:12,4,Nets,Celtics,90 - 102,0,N/A,N/A,N/A
+43,Rondae Hollis-Jefferson,SUBSTITUTION,Davis Ed,7:12,4,Nets,Celtics,90 - 102,0,N/A,N/A,N/A
+44,Marcus Morris,FOUL_ON_FLOOR,None,7:02,4,Celtics,Nets,90 - 102,1,N/A,N/A,N/A
+45,Rondae Hollis-Jefferson,FG_ASSISTED,Shabazz Napier,6:52,4,Nets,Celtics,92 - 102,0,0,2,Layup
+46,DeMarre Carroll,FOUL_ON_FLOOR,None,6:47,4,Nets,Celtics,92 - 102,0,N/A,N/A,N/A
+47,Aron Baynes,TURNOVER,None,6:38,4,Celtics,Nets,92 - 102,1,N/A,N/A,N/A
+48,Rondae Hollis-Jefferson,FG_ASSISTED,DeMarre Carroll,6:25,4,Nets,Celtics,94 - 102,0,0,2,Layup
+49,Rondae Hollis-Jefferson,FOUL_ON_FLOOR,None,6:05,4,Nets,Celtics,94 - 102,0,N/A,N/A,N/A
+50,Al Horford,SUBSTITUTION,Hayward Gordon,6:05,4,Celtics,Nets,94 - 102,1,N/A,N/A,N/A
+51,Terry Rozier,SUBSTITUTION,Baynes Aron,6:05,4,Celtics,Nets,94 - 102,1,N/A,N/A,N/A
+52,Marcus Morris's,FG_MISS,Rondae Hollis-Jefferson,5:53,4,Nets,Celtics,94 - 102,1,0,2,Layup
+53,DeMarre Carroll,DEFENSIVE_REBOUND,None,5:51,4,Nets,Celtics,94 - 102,0,N/A,N/A,N/A
+54,Rodions Kurucs,FG_MISS,Marcus Morris,5:38,4,Celtics,Nets,94 - 102,0,0,2,Layup
+55,Al Horford,DEFENSIVE_REBOUND,None,5:34,4,Celtics,Nets,94 - 102,1,N/A,N/A,N/A
+56,Team,Unknown,None,5:21,4,Celtics,Nets,94 - 102,1,N/A,N/A,N/A
+57,Jayson Tatum,SUBSTITUTION,Morris Marcus,5:21,4,Celtics,Nets,94 - 102,1,N/A,N/A,N/A
+58,Terry Rozier,FG_ASSISTED,Jayson Tatum,5:19,4,Celtics,Nets,94 - 105,1,1,3,Jumper
+59,DeMarre Carroll,FG_MISS,Marcus Smart,5:07,4,Celtics,Nets,94 - 105,0,2,2,Jumper
+60,Al Horford,DEFENSIVE_REBOUND,None,5:05,4,Celtics,Nets,94 - 105,1,N/A,N/A,N/A
+61,Marcus Smart,FG_MISS,None,4:44,4,Celtics,Nets,94 - 105,1,27,3,Jumper
+62,Shabazz Napier,DEFENSIVE_REBOUND,None,4:42,4,Nets,Celtics,94 - 105,0,N/A,N/A,N/A
+63,Shabazz Napier,FG_MISS,None,4:37,4,Nets,Celtics,94 - 105,0,26,3,Jumper
+64,Terry Rozier,DEFENSIVE_REBOUND,None,4:35,4,Celtics,Nets,94 - 105,1,N/A,N/A,N/A
+65,Jaylen Brown,FG_MISS,None,4:29,4,Celtics,Nets,94 - 105,1,25,3,Jumper
+66,DeMarre Carroll,DEFENSIVE_REBOUND,None,4:27,4,Nets,Celtics,94 - 105,0,N/A,N/A,N/A
+67,DeMarre Carroll,TURNOVER,None,4:23,4,Nets,Celtics,94 - 105,0,N/A,N/A,N/A
+68,DeMarre Carroll,FOUL_ON_FLOOR,None,4:22,4,Nets,Celtics,94 - 105,0,N/A,N/A,N/A
+69,Marcus Smart,FT,None,4:22,4,Celtics,Nets,94 - 106,1,N/A,1,N/A
+70,Ed Davis,SUBSTITUTION,Kurucs Rodions,4:22,4,Nets,Celtics,94 - 106,0,N/A,N/A,N/A
+71,Marcus Smart,FT,None,4:22,4,Celtics,Nets,94 - 107,1,N/A,1,N/A
+72,Rondae Hollis-Jefferson,FG_MISS,None,4:06,4,Nets,Celtics,94 - 107,0,13,2,Jumper
+73,Jayson Tatum,DEFENSIVE_REBOUND,None,4:04,4,Celtics,Nets,94 - 107,1,N/A,N/A,N/A
+74,Marcus Smart,FG_ASSISTED,Al Horford,3:48,4,Celtics,Nets,94 - 109,1,0,2,Layup
+75,Terry Rozier,FOUL_ON_FLOOR,None,3:33,4,Celtics,Nets,94 - 109,1,N/A,N/A,N/A
+76,Shabazz Napier,FG_MISS,None,3:19,4,Nets,Celtics,94 - 109,0,1,2,Jumper
+77,Terry Rozier,DEFENSIVE_REBOUND,None,3:18,4,Celtics,Nets,94 - 109,1,N/A,N/A,N/A
+78,Marcus Smart,FG_MISS,None,3:14,4,Celtics,Nets,94 - 109,1,27,3,Jumper
+79,Jaylen Brown,OFFENSIVE_REBOUND,None,3:10,4,Celtics,Nets,94 - 109,1,N/A,N/A,N/A
+80,Team,Unknown,None,3:05,4,Celtics,Nets,94 - 109,1,N/A,N/A,N/A
+81,Mitchell Creek,SUBSTITUTION,Carroll DeMarre,3:05,4,Nets,Celtics,94 - 109,0,N/A,N/A,N/A
+82,Marcus Smart,TURNOVER,Shabazz Napier,2:59,4,Celtics,Nets,94 - 109,1,N/A,N/A,N/A
+83,Theo Pinson,FG_ASSISTED,Rondae Hollis-Jefferson,2:55,4,Nets,Celtics,97 - 109,0,25,3,Jumper
+84,Al Horford,FG_MISS,None,2:37,4,Celtics,Nets,97 - 109,1,6,2,Jumper
+85,Ed Davis,DEFENSIVE_REBOUND,None,2:35,4,Nets,Celtics,97 - 109,0,N/A,N/A,N/A
+86,Theo Pinson,TURNOVER,Al Horford,2:27,4,Nets,Celtics,97 - 109,0,N/A,N/A,N/A
+87,Jaylen Brown,FG_ASSISTED,Al Horford,2:23,4,Celtics,Nets,97 - 111,1,1,2,Jumper
+88,Theo Pinson,FG_MISS,None,2:10,4,Nets,Celtics,97 - 111,0,28,3,Jumper
+89,Terry Rozier,DEFENSIVE_REBOUND,None,2:08,4,Celtics,Nets,97 - 111,1,N/A,N/A,N/A
+90,Jaylen Brown,FG_MISS,None,1:47,4,Celtics,Nets,97 - 111,1,0,2,Dunk
+91,Ed Davis,DEFENSIVE_REBOUND,None,1:45,4,Nets,Celtics,97 - 111,0,N/A,N/A,N/A
+92,Rondae Hollis-Jefferson,FG_ASSISTED,Shabazz Napier,1:32,4,Nets,Celtics,99 - 111,0,0,2,Dunk
+93,Al Horford,FG_MISS,None,1:13,4,Celtics,Nets,99 - 111,1,26,3,Jumper
+94,Mitchell Creek,DEFENSIVE_REBOUND,None,1:11,4,Nets,Celtics,99 - 111,0,N/A,N/A,N/A
+95,Shabazz Napier,FG_ASSISTED,Mitchell Creek,1:04,4,Nets,Celtics,102 - 111,0,26,3,Jumper
+96,Jaylen Brown,FG_MISS,None,42.5,4,Celtics,Nets,102 - 111,1,1,2,Jumper
+97,Team,OFFENSIVE_REBOUND,None,41.0,4,Celtics,Nets,102 - 111,1,N/A,N/A,N/A
+98,Shabazz Napier,FOUL_ON_FLOOR,None,41.0,4,Nets,Celtics,102 - 111,0,N/A,N/A,N/A
+99,Marcus Smart,FT,None,41.0,4,Celtics,Nets,102 - 112,1,N/A,1,N/A
+100,Marcus Smart,FT_MISS,None,41.0,4,Celtics,Nets,102 - 112,1,N/A,1,N/A
+101,Rondae Hollis-Jefferson,DEFENSIVE_REBOUND,None,41.0,4,Nets,Celtics,102 - 112,0,N/A,N/A,N/A
+102,Rondae Hollis-Jefferson,FG_UNASSISTED,None,34.5,4,Nets,Celtics,104 - 112,0,1,2,Jumper
+103,Terry Rozier,FG_MISS,None,11.9,4,Celtics,Nets,104 - 112,1,26,3,Jumper
+104,Ed Davis,DEFENSIVE_REBOUND,None,9.8,4,Nets,Celtics,104 - 112,0,N/A,N/A,N/A
+105,Mitchell Creek,FG_MISS,None,2.0,4,Nets,Celtics,104 - 112,0,19,2,Jumper
+106,Al Horford,DEFENSIVE_REBOUND,None,1.0,4,Celtics,Nets,104 - 112,1,N/A,N/A,N/A
+107,End of,Unknown,None,0.0,4,Celtics,Nets,104 - 112,1,N/A,N/A,N/A
+108,End of,Unknown,None,0.0,4,Celtics,Nets,104 - 112,1,N/A,N/A,N/A

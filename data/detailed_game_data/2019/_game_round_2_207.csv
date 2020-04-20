@@ -1,0 +1,460 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Al Horford,JUMP_BALL,None,12:00,1,Mavericks,Celtics,0 - 0,1,N/A,N/A,N/A
+1,Wesley Matthews,FG_ASSISTED,Luka Doncic,11:44,1,Mavericks,Celtics,0 - 3,1,25,3,Jumper
+2,Jaylen Brown,FG_MISS,None,11:30,1,Celtics,Mavericks,0 - 3,0,0,2,Dunk
+3,DeAndre Jordan,DEFENSIVE_REBOUND,None,11:28,1,Mavericks,Celtics,0 - 3,1,N/A,N/A,N/A
+4,Jayson Tatum,FOUL_ON_FLOOR,None,11:21,1,Celtics,Mavericks,0 - 3,0,N/A,N/A,N/A
+5,Dorian Finney-Smith,FT,None,11:21,1,Mavericks,Celtics,0 - 4,1,N/A,1,N/A
+6,Dorian Finney-Smith,FT_MISS,None,11:21,1,Mavericks,Celtics,0 - 4,1,N/A,1,N/A
+7,Marcus Morris,DEFENSIVE_REBOUND,None,11:18,1,Celtics,Mavericks,0 - 4,0,N/A,N/A,N/A
+8,Marcus Morris,FG_ASSISTED,Kyrie Irving,11:10,1,Celtics,Mavericks,2 - 4,0,-,2,Jumper
+9,Harrison Barnes,FG_ASSISTED,Luka Doncic,10:57,1,Mavericks,Celtics,2 - 7,1,25,3,Jumper
+10,Jayson Tatum,FG_ASSISTED,Marcus Morris,10:35,1,Celtics,Mavericks,5 - 7,0,26,3,Jumper
+11,Dorian Finney-Smith,TURNOVER,None,10:18,1,Mavericks,Celtics,5 - 7,1,N/A,N/A,N/A
+12,Jayson Tatum,FG_ASSISTED,Kyrie Irving,10:16,1,Celtics,Mavericks,7 - 7,0,21,2,Jumper
+13,Luka Doncic,FG_MISS,None,9:58,1,Mavericks,Celtics,7 - 7,1,21,2,Jumper
+14,Jayson Tatum,DEFENSIVE_REBOUND,None,9:55,1,Celtics,Mavericks,7 - 7,0,N/A,N/A,N/A
+15,Kyrie Irving,TURNOVER,None,9:49,1,Celtics,Mavericks,7 - 7,0,N/A,N/A,N/A
+16,Luka Doncic,FG_MISS,None,9:33,1,Mavericks,Celtics,7 - 7,1,-,2,Jumper
+17,Marcus Morris,DEFENSIVE_REBOUND,None,9:31,1,Celtics,Mavericks,7 - 7,0,N/A,N/A,N/A
+18,Marcus Morris,FG_MISS,None,9:22,1,Celtics,Mavericks,7 - 7,0,23,3,Jumper
+19,Harrison Barnes,DEFENSIVE_REBOUND,None,9:19,1,Mavericks,Celtics,7 - 7,1,N/A,N/A,N/A
+20,Wesley Matthews,FG_MISS,None,9:05,1,Mavericks,Celtics,7 - 7,1,-,2,Jumper
+21,DeAndre Jordan,OFFENSIVE_REBOUND,None,9:01,1,Mavericks,Celtics,7 - 7,1,N/A,N/A,N/A
+22,Luka Doncic,FG_ASSISTED,Harrison Barnes,8:58,1,Mavericks,Celtics,7 - 10,1,25,3,Jumper
+23,Kyrie Irving,TURNOVER,Harrison Barnes,8:51,1,Celtics,Mavericks,7 - 10,0,N/A,N/A,N/A
+24,DeAndre Jordan,FG_MISS,Jaylen Brown,8:45,1,Celtics,Mavericks,7 - 10,1,3,2,Jumper
+25,Team,OFFENSIVE_REBOUND,None,8:45,1,Mavericks,Celtics,7 - 10,1,N/A,N/A,N/A
+26,Harrison Barnes,FG_ASSISTED,Luka Doncic,8:33,1,Mavericks,Celtics,7 - 13,1,23,3,Jumper
+27,Kyrie Irving,FG_MISS,None,8:16,1,Celtics,Mavericks,7 - 13,0,20,2,Jumper
+28,Marcus Morris,OFFENSIVE_REBOUND,None,8:14,1,Celtics,Mavericks,7 - 13,0,N/A,N/A,N/A
+29,Harrison Barnes,FOUL_ON_FLOOR,None,8:14,1,Mavericks,Celtics,7 - 13,1,N/A,N/A,N/A
+30,Al Horford,FG_ASSISTED,Kyrie Irving,8:08,1,Celtics,Mavericks,9 - 13,0,21,2,Jumper
+31,Luka Doncic,TURNOVER,Marcus Morris,7:47,1,Mavericks,Celtics,9 - 13,1,N/A,N/A,N/A
+32,Jayson Tatum,FG_UNASSISTED,None,7:43,1,Celtics,Mavericks,12 - 13,0,25,3,Jumper
+33,Team,Unknown,None,7:42,1,Mavericks,Celtics,12 - 13,1,N/A,N/A,N/A
+34,Dorian Finney-Smith,FG_ASSISTED,Wesley Matthews,7:35,1,Mavericks,Celtics,12 - 15,1,1,2,Jumper
+35,Al Horford,FOUL_ON_FLOOR,None,7:35,1,Celtics,Mavericks,12 - 15,0,N/A,N/A,N/A
+36,Dorian Finney-Smith,FT_MISS,None,7:35,1,Mavericks,Celtics,12 - 15,1,N/A,1,N/A
+37,Jayson Tatum,DEFENSIVE_REBOUND,None,7:35,1,Celtics,Mavericks,12 - 15,0,N/A,N/A,N/A
+38,Marcus Morris,FG_MISS,None,7:18,1,Celtics,Mavericks,12 - 15,0,6,2,Jumper
+39,DeAndre Jordan,DEFENSIVE_REBOUND,None,7:16,1,Mavericks,Celtics,12 - 15,1,N/A,N/A,N/A
+40,Dorian Finney-Smith,TURNOVER,Kyrie Irving,7:06,1,Mavericks,Celtics,12 - 15,1,N/A,N/A,N/A
+41,Jaylen Brown,FG_UNASSISTED,None,6:59,1,Celtics,Mavericks,14 - 15,0,12,2,Jumper
+42,Wesley Matthews,FG_UNASSISTED,None,6:45,1,Mavericks,Celtics,14 - 17,1,5,2,Jumper
+43,Jayson Tatum,FG_MISS,None,6:27,1,Celtics,Mavericks,14 - 17,0,0,2,Layup
+44,DeAndre Jordan,DEFENSIVE_REBOUND,None,6:25,1,Mavericks,Celtics,14 - 17,1,N/A,N/A,N/A
+45,Harrison Barnes,FG_MISS,None,6:11,1,Mavericks,Celtics,14 - 17,1,7,2,Jumper
+46,Al Horford,DEFENSIVE_REBOUND,None,6:09,1,Celtics,Mavericks,14 - 17,0,N/A,N/A,N/A
+47,Jaylen Brown,FOUL_ON_FLOOR,None,6:07,1,Celtics,Mavericks,14 - 17,0,N/A,N/A,N/A
+48,Jaylen Brown,TURNOVER,None,6:07,1,Celtics,Mavericks,14 - 17,0,N/A,N/A,N/A
+49,Devin Harris,SUBSTITUTION,Matthews Wesley,6:07,1,Mavericks,Celtics,14 - 17,1,N/A,N/A,N/A
+50,Marcus Smart,SUBSTITUTION,Tatum Jayson,6:07,1,Celtics,Mavericks,14 - 17,0,N/A,N/A,N/A
+51,Aron Baynes,SUBSTITUTION,Horford Al,6:07,1,Celtics,Mavericks,14 - 17,0,N/A,N/A,N/A
+52,DeAndre Jordan,FG_ASSISTED,Luka Doncic,5:56,1,Mavericks,Celtics,14 - 19,1,0,2,Dunk
+53,Aron Baynes,TURNOVER,Devin Harris,5:38,1,Celtics,Mavericks,14 - 19,0,N/A,N/A,N/A
+54,Luka Doncic,FG_ASSISTED,Dorian Finney-Smith,5:32,1,Mavericks,Celtics,14 - 22,1,27,3,Jumper
+55,Marcus Smart,FG_MISS,None,5:13,1,Celtics,Mavericks,14 - 22,0,13,2,Jumper
+56,Harrison Barnes,DEFENSIVE_REBOUND,None,5:08,1,Mavericks,Celtics,14 - 22,1,N/A,N/A,N/A
+57,Luka Doncic,FG_UNASSISTED,None,4:46,1,Mavericks,Celtics,14 - 25,1,27,3,Jumper
+58,Team,Unknown,None,4:44,1,Celtics,Mavericks,14 - 25,0,N/A,N/A,N/A
+59,Jaylen Brown,FG_ASSISTED,Aron Baynes,4:29,1,Celtics,Mavericks,16 - 25,0,19,2,Jumper
+60,Luka Doncic,TURNOVER,Kyrie Irving,4:18,1,Mavericks,Celtics,16 - 25,1,N/A,N/A,N/A
+61,Kyrie Irving,FG_UNASSISTED,None,4:13,1,Celtics,Mavericks,18 - 25,0, ,2,Jumper
+62,Harrison Barnes,FG_ASSISTED,Luka Doncic,3:49,1,Mavericks,Celtics,18 - 28,1,24,3,Jumper
+63,Kyrie Irving,TURNOVER,Dorian Finney-Smith,3:27,1,Celtics,Mavericks,18 - 28,0,N/A,N/A,N/A
+64,DeAndre Jordan,FG_ASSISTED,Devin Harris,3:21,1,Mavericks,Celtics,18 - 30,1,0,2,Dunk
+65,Marcus Smart,TURNOVER,DeAndre Jordan,3:05,1,Celtics,Mavericks,18 - 30,0,N/A,N/A,N/A
+66,DeAndre Jordan,TURNOVER,Jaylen Brown,3:02,1,Mavericks,Celtics,18 - 30,1,N/A,N/A,N/A
+67,Kyrie Irving,FG_MISS,None,2:59,1,Celtics,Mavericks,18 - 30,0, ,3,Jumper
+68,Aron Baynes,OFFENSIVE_REBOUND,None,2:58,1,Celtics,Mavericks,18 - 30,0,N/A,N/A,N/A
+69,Kyrie Irving,FG_MISS,None,2:56,1,Celtics,Mavericks,18 - 30,0,23,3,Jumper
+70,DeAndre Jordan,DEFENSIVE_REBOUND,None,2:54,1,Mavericks,Celtics,18 - 30,1,N/A,N/A,N/A
+71,Marcus Morris,FOUL_ON_FLOOR,None,2:48,1,Celtics,Mavericks,18 - 30,0,N/A,N/A,N/A
+72,J.J. Barea,SUBSTITUTION,Jordan DeAndre,2:48,1,Mavericks,Celtics,18 - 30,1,N/A,N/A,N/A
+73,Salah Mejri,SUBSTITUTION,Doncic Luka,2:48,1,Mavericks,Celtics,18 - 30,1,N/A,N/A,N/A
+74,Semi Ojeleye,SUBSTITUTION,Brown Jaylen,2:48,1,Celtics,Mavericks,18 - 30,0,N/A,N/A,N/A
+75,Terry Rozier,SUBSTITUTION,Irving Kyrie,2:48,1,Celtics,Mavericks,18 - 30,0,N/A,N/A,N/A
+76,Jayson Tatum,SUBSTITUTION,Morris Marcus,2:48,1,Celtics,Mavericks,18 - 30,0,N/A,N/A,N/A
+77,Devin Harris,FG_MISS,None,2:41,1,Mavericks,Celtics,18 - 30,1,24,3,Jumper
+78,Aron Baynes,DEFENSIVE_REBOUND,None,2:38,1,Celtics,Mavericks,18 - 30,0,N/A,N/A,N/A
+79,Marcus Smart,FG_ASSISTED,Semi Ojeleye,2:24,1,Celtics,Mavericks,21 - 30,0,24,3,Jumper
+80,Harrison Barnes,FG_MISS,None,2:06,1,Mavericks,Celtics,21 - 30,1, ,2,Jumper
+81,Salah Mejri,OFFENSIVE_REBOUND,None,2:04,1,Mavericks,Celtics,21 - 30,1,N/A,N/A,N/A
+82,Salah Mejri,FG_ASSISTED,J.J. Barea,1:55,1,Mavericks,Celtics,21 - 32,1,7,2,Jumper
+83,Marcus Smart,FG_UNASSISTED,None,1:34,1,Celtics,Mavericks,24 - 32,0,26,3,Jumper
+84,Harrison Barnes,TURNOVER,None,1:15,1,Mavericks,Celtics,24 - 32,1,N/A,N/A,N/A
+85,Wesley Matthews,SUBSTITUTION,Finney-Smith Dorian,1:15,1,Mavericks,Celtics,24 - 32,1,N/A,N/A,N/A
+86,Jayson Tatum,FG_UNASSISTED,None,52.6,1,Celtics,Mavericks,26 - 32,0,17,2,Jumper
+87,Devin Harris,FG_MISS,None,33.5,1,Mavericks,Celtics,26 - 32,1,23,3,Jumper
+88,Semi Ojeleye,DEFENSIVE_REBOUND,None,29.6,1,Celtics,Mavericks,26 - 32,0,N/A,N/A,N/A
+89,Aron Baynes,FG_MISS,None,13.8,1,Celtics,Mavericks,26 - 32,0,26,3,Jumper
+90,Devin Harris,DEFENSIVE_REBOUND,None,11.4,1,Mavericks,Celtics,26 - 32,1,N/A,N/A,N/A
+91,Aron Baynes,FOUL_ON_FLOOR,None,10.9,1,Celtics,Mavericks,26 - 32,0,N/A,N/A,N/A
+92,Wesley Matthews,FG_MISS,None,2.9,1,Mavericks,Celtics,26 - 32,1,28,3,Jumper
+93,Aron Baynes,DEFENSIVE_REBOUND,None,2.9,1,Celtics,Mavericks,26 - 32,0,N/A,N/A,N/A
+94,End of,Unknown,None,0.0,1,Mavericks,Celtics,26 - 32,1,N/A,N/A,N/A
+0,Maximilian Kleber,SUBSTITUTION,Barnes Harrison,12:00,2,Mavericks,Celtics,26 - 32,1,N/A,N/A,N/A
+1,Al Horford,SUBSTITUTION,Baynes Aron,12:00,2,Celtics,Mavericks,26 - 32,0,N/A,N/A,N/A
+2,Dorian Finney-Smith,SUBSTITUTION,Mejri Salah,12:00,2,Mavericks,Celtics,26 - 32,1,N/A,N/A,N/A
+3,Marcus Smart,FG_MISS,None,11:41,2,Celtics,Mavericks,26 - 32,0, ,2,Jumper
+4,Devin Harris,DEFENSIVE_REBOUND,None,11:39,2,Mavericks,Celtics,26 - 32,1,N/A,N/A,N/A
+5,Devin Harris,FG_MISS,None,11:24,2,Mavericks,Celtics,26 - 32,1,27,3,Jumper
+6,Dorian Finney-Smith,OFFENSIVE_REBOUND,None,11:15,2,Mavericks,Celtics,26 - 32,1,N/A,N/A,N/A
+7,Dorian Finney-Smith,FG_UNASSISTED,None,11:15,2,Mavericks,Celtics,26 - 34,1, ,2,Jumper
+8,Al Horford,FG_MISS,None,11:05,2,Celtics,Mavericks,26 - 34,0, ,2,Jumper
+9,J.J. Barea,DEFENSIVE_REBOUND,None,11:03,2,Mavericks,Celtics,26 - 34,1,N/A,N/A,N/A
+10,J.J. Barea,FG_UNASSISTED,None,10:54,2,Mavericks,Celtics,26 - 36,1,11,2,Jumper
+11,Al Horford,FG_ASSISTED,Terry Rozier,10:35,2,Celtics,Mavericks,29 - 36,0, ,3,Jumper
+12,J.J. Barea,FG_MISS,None,10:14,2,Mavericks,Celtics,29 - 36,1,12,2,Jumper
+13,Al Horford,DEFENSIVE_REBOUND,None,10:10,2,Celtics,Mavericks,29 - 36,0,N/A,N/A,N/A
+14,Terry Rozier,FG_MISS,None,10:06,2,Celtics,Mavericks,29 - 36,0,26,3,Jumper
+15,Dorian Finney-Smith,DEFENSIVE_REBOUND,None,10:02,2,Mavericks,Celtics,29 - 36,1,N/A,N/A,N/A
+16,Marcus Smart,FOUL_ON_FLOOR,None,9:50,2,Celtics,Mavericks,29 - 36,0,N/A,N/A,N/A
+17,Wesley Matthews,FT,None,9:50,2,Mavericks,Celtics,29 - 37,1,N/A,1,N/A
+18,Jalen Brunson,SUBSTITUTION,Harris Devin,9:50,2,Mavericks,Celtics,29 - 37,1,N/A,N/A,N/A
+19,Wesley Matthews,FT,None,9:50,2,Mavericks,Celtics,29 - 38,1,N/A,1,N/A
+20,Marcus Smart,TURNOVER,Maximilian Kleber,9:38,2,Celtics,Mavericks,29 - 38,0,N/A,N/A,N/A
+21,Dorian Finney-Smith,FG_ASSISTED,J.J. Barea,9:33,2,Mavericks,Celtics,29 - 40,1,0,2,Dunk
+22,Marcus Smart,FG_ASSISTED,Terry Rozier,9:20,2,Celtics,Mavericks,32 - 40,0,26,3,Jumper
+23,J.J. Barea,TURNOVER,None,9:09,2,Mavericks,Celtics,32 - 40,1,N/A,N/A,N/A
+24,Al Horford,FG_MISS,None,8:50,2,Celtics,Mavericks,32 - 40,0,6,2,Jumper
+25,Dorian Finney-Smith,DEFENSIVE_REBOUND,None,8:48,2,Mavericks,Celtics,32 - 40,1,N/A,N/A,N/A
+26,Dorian Finney-Smith,FG_MISS,None,8:40,2,Mavericks,Celtics,32 - 40,1,25,3,Jumper
+27,Al Horford,DEFENSIVE_REBOUND,None,8:35,2,Celtics,Mavericks,32 - 40,0,N/A,N/A,N/A
+28,Jayson Tatum,FG_MISS,None,8:18,2,Celtics,Mavericks,32 - 40,0,25,3,Jumper
+29,Al Horford,OFFENSIVE_REBOUND,None,8:16,2,Celtics,Mavericks,32 - 40,0,N/A,N/A,N/A
+30,Marcus Smart,FG_MISS,None,8:14,2,Celtics,Mavericks,32 - 40,0,29,3,Jumper
+31,Maximilian Kleber,DEFENSIVE_REBOUND,None,8:11,2,Mavericks,Celtics,32 - 40,1,N/A,N/A,N/A
+32,J.J. Barea,FG_UNASSISTED,None,7:58,2,Mavericks,Celtics,32 - 43,1,25,3,Jumper
+33,Dorian Finney-Smith,FOUL_ON_FLOOR,None,7:41,2,Mavericks,Celtics,32 - 43,1,N/A,N/A,N/A
+34,Harrison Barnes,SUBSTITUTION,Finney-Smith Dorian,7:41,2,Mavericks,Celtics,32 - 43,1,N/A,N/A,N/A
+35,Terry Rozier,FG_ASSISTED,Marcus Smart,7:34,2,Celtics,Mavericks,35 - 43,0,27,3,Jumper
+36,J.J. Barea,FG_MISS,None,7:24,2,Mavericks,Celtics,35 - 43,1, ,3,Jumper
+37,Al Horford,DEFENSIVE_REBOUND,None,7:20,2,Celtics,Mavericks,35 - 43,0,N/A,N/A,N/A
+38,Al Horford,FG_MISS,None,7:03,2,Celtics,Mavericks,35 - 43,0,11,2,Jumper
+39,Team,DEFENSIVE_REBOUND,None,7:02,2,Mavericks,Celtics,35 - 43,1,N/A,N/A,N/A
+40,Team,Unknown,None,7:02,2,Mavericks,Celtics,35 - 43,1,N/A,N/A,N/A
+41,Dorian Finney-Smith,SUBSTITUTION,Matthews Wesley,7:02,2,Mavericks,Celtics,35 - 43,1,N/A,N/A,N/A
+42,Jaylen Brown,SUBSTITUTION,Tatum Jayson,7:02,2,Celtics,Mavericks,35 - 43,0,N/A,N/A,N/A
+43,Harrison Barnes,FG_MISS,None,6:46,2,Mavericks,Celtics,35 - 43,1,25,3,Jumper
+44,Jaylen Brown,DEFENSIVE_REBOUND,None,6:42,2,Celtics,Mavericks,35 - 43,0,N/A,N/A,N/A
+45,Maximilian Kleber,FOUL_ON_FLOOR,None,6:31,2,Mavericks,Celtics,35 - 43,1,N/A,N/A,N/A
+46,Terry Rozier,FT,None,6:31,2,Celtics,Mavericks,36 - 43,0,N/A,1,N/A
+47,Luka Doncic,SUBSTITUTION,Brunson Jalen,6:31,2,Mavericks,Celtics,36 - 43,1,N/A,N/A,N/A
+48,DeAndre Jordan,SUBSTITUTION,Kleber Maximilian,6:31,2,Mavericks,Celtics,36 - 43,1,N/A,N/A,N/A
+49,Kyrie Irving,SUBSTITUTION,Smart Marcus,6:31,2,Celtics,Mavericks,36 - 43,0,N/A,N/A,N/A
+50,Terry Rozier,FT_MISS,None,6:31,2,Celtics,Mavericks,36 - 43,0,N/A,1,N/A
+51,Dorian Finney-Smith,DEFENSIVE_REBOUND,None,6:29,2,Mavericks,Celtics,36 - 43,1,N/A,N/A,N/A
+52,Jaylen Brown,FOUL_ON_FLOOR,None,6:16,2,Celtics,Mavericks,36 - 43,0,N/A,N/A,N/A
+53,Maximilian Kleber,SUBSTITUTION,Finney-Smith Dorian,6:16,2,Mavericks,Celtics,36 - 43,1,N/A,N/A,N/A
+54,Maximilian Kleber,TURNOVER,Al Horford,6:08,2,Mavericks,Celtics,36 - 43,1,N/A,N/A,N/A
+55,Terry Rozier,FG_MISS,None,5:57,2,Celtics,Mavericks,36 - 43,0,20,2,Jumper
+56,Kyrie Irving,OFFENSIVE_REBOUND,None,5:53,2,Celtics,Mavericks,36 - 43,0,N/A,N/A,N/A
+57,Kyrie Irving,FG_UNASSISTED,None,5:53,2,Celtics,Mavericks,38 - 43,0, ,2,Jumper
+58,Harrison Barnes,FG_ASSISTED,J.J. Barea,5:34,2,Mavericks,Celtics,38 - 46,1,24,3,Jumper
+59,Kyrie Irving,FG_UNASSISTED,None,5:12,2,Celtics,Mavericks,40 - 46,0,2,2,Jumper
+60,J.J. Barea,FG_UNASSISTED,None,4:55,2,Mavericks,Celtics,40 - 48,1,11,2,Jumper
+61,Al Horford,FG_ASSISTED,Terry Rozier,4:40,2,Celtics,Mavericks,43 - 48,0,26,3,Jumper
+62,J.J. Barea,FG_ASSISTED,Harrison Barnes,4:26,2,Mavericks,Celtics,43 - 50,1,15,2,Jumper
+63,Terry Rozier,FG_MISS,None,4:17,2,Celtics,Mavericks,43 - 50,0,21,2,Jumper
+64,Maximilian Kleber,DEFENSIVE_REBOUND,None,4:14,2,Mavericks,Celtics,43 - 50,1,N/A,N/A,N/A
+65,J.J. Barea,FG_MISS,None,4:06,2,Mavericks,Celtics,43 - 50,1,25,3,Jumper
+66,Team,DEFENSIVE_REBOUND,None,4:05,2,Celtics,Mavericks,43 - 50,0,N/A,N/A,N/A
+67,Wesley Matthews,SUBSTITUTION,Kleber Maximilian,4:05,2,Mavericks,Celtics,43 - 50,1,N/A,N/A,N/A
+68,DeAndre Jordan,FOUL_TECHNICAL,None,4:00,2,Mavericks,Celtics,43 - 50,1,N/A,N/A,N/A
+69,Kyrie Irving,FT,None,4:00,2,Celtics,Mavericks,44 - 50,0,N/A,1,N/A
+70,Al Horford,FG_MISS,None,3:54,2,Celtics,Mavericks,44 - 50,0,25,3,Jumper
+71,Semi Ojeleye,OFFENSIVE_REBOUND,None,3:51,2,Celtics,Mavericks,44 - 50,0,N/A,N/A,N/A
+72,Harrison Barnes,FOUL_ON_FLOOR,None,3:45,2,Mavericks,Celtics,44 - 50,1,N/A,N/A,N/A
+73,Jaylen Brown,FT,None,3:45,2,Celtics,Mavericks,45 - 50,0,N/A,1,N/A
+74,Dorian Finney-Smith,SUBSTITUTION,Barnes Harrison,3:45,2,Mavericks,Celtics,45 - 50,1,N/A,N/A,N/A
+75,Marcus Morris,SUBSTITUTION,Ojeleye Semi,3:45,2,Celtics,Mavericks,45 - 50,0,N/A,N/A,N/A
+76,Jaylen Brown,FT,None,3:45,2,Celtics,Mavericks,46 - 50,0,N/A,1,N/A
+77,Luka Doncic,FG_UNASSISTED,None,3:30,2,Mavericks,Celtics,46 - 52,1,12,2,Jumper
+78,Jaylen Brown,FG_UNASSISTED,None,3:11,2,Celtics,Mavericks,48 - 52,0,10,2,Jumper
+79,Luka Doncic,FG_ASSISTED,DeAndre Jordan,2:52,2,Mavericks,Celtics,48 - 54,1,4,2,Jumper
+80,Jaylen Brown,TURNOVER,Dorian Finney-Smith,2:50,2,Celtics,Mavericks,48 - 54,0,N/A,N/A,N/A
+81,Dorian Finney-Smith,FG_MISS,None,2:49,2,Mavericks,Celtics,48 - 54,1,27,3,Jumper
+82,Kyrie Irving,DEFENSIVE_REBOUND,None,2:47,2,Celtics,Mavericks,48 - 54,0,N/A,N/A,N/A
+83,Team,Unknown,None,2:42,2,Celtics,Mavericks,48 - 54,0,N/A,N/A,N/A
+84,Harrison Barnes,SUBSTITUTION,Barea J.J.,2:42,2,Mavericks,Celtics,48 - 54,1,N/A,N/A,N/A
+85,Aron Baynes,SUBSTITUTION,Rozier Terry,2:42,2,Celtics,Mavericks,48 - 54,0,N/A,N/A,N/A
+86,Jayson Tatum,SUBSTITUTION,Horford Al,2:42,2,Celtics,Mavericks,48 - 54,0,N/A,N/A,N/A
+87,Kyrie Irving,FG_ASSISTED,Marcus Morris,2:28,2,Celtics,Mavericks,50 - 54,0,19,2,Jumper
+88,Harrison Barnes,FG_UNASSISTED,None,2:03,2,Mavericks,Celtics,50 - 57,1,26,2,Jumper
+89,Kyrie Irving,FG_MISS,None,1:47,2,Celtics,Mavericks,50 - 57,0,26,3,Jumper
+90,Team,OFFENSIVE_REBOUND,None,1:47,2,Celtics,Mavericks,50 - 57,0,N/A,N/A,N/A
+91,DeAndre Jordan,FOUL_ON_FLOOR,None,1:47,2,Mavericks,Celtics,50 - 57,1,N/A,N/A,N/A
+92,Jayson Tatum,TURNOVER,Luka Doncic,1:39,2,Celtics,Mavericks,50 - 57,0,N/A,N/A,N/A
+93,Jayson Tatum,FOUL_ON_FLOOR,None,1:39,2,Celtics,Mavericks,50 - 57,0,N/A,N/A,N/A
+94,Dorian Finney-Smith,FG_MISS,None,1:22,2,Mavericks,Celtics,50 - 57,1,25,3,Jumper
+95,Aron Baynes,DEFENSIVE_REBOUND,None,1:19,2,Celtics,Mavericks,50 - 57,0,N/A,N/A,N/A
+96,Marcus Morris,FG_ASSISTED,Kyrie Irving,1:10,2,Celtics,Mavericks,52 - 57,0,0,2,Layup
+97,Wesley Matthews,FG_MISS,None,57.7,2,Mavericks,Celtics,52 - 57,1,26,3,Jumper
+98,Dorian Finney-Smith,OFFENSIVE_REBOUND,None,55.8,2,Mavericks,Celtics,52 - 57,1,N/A,N/A,N/A
+99,Dorian Finney-Smith,FG_UNASSISTED,None,55.8,2,Mavericks,Celtics,52 - 59,1, ,2,Jumper
+100,Kyrie Irving,FG_UNASSISTED,None,43.6,2,Celtics,Mavericks,54 - 59,0,16,2,Jumper
+101,Harrison Barnes,FG_MISS,None,29.3,2,Mavericks,Celtics,54 - 59,1,25,2,Jumper
+102,Aron Baynes,DEFENSIVE_REBOUND,None,26.0,2,Celtics,Mavericks,54 - 59,0,N/A,N/A,N/A
+103,Marcus Morris,FG_UNASSISTED,None,2.8,2,Celtics,Mavericks,56 - 59,0, ,2,Jumper
+104,Dorian Finney-Smith,FG_MISS,None,0.8,2,Mavericks,Celtics,56 - 59,1,48,3,Jumper
+105,Team,OFFENSIVE_REBOUND,None,0.8,2,Mavericks,Celtics,56 - 59,1,N/A,N/A,N/A
+106,End of,Unknown,None,0.0,2,Mavericks,Celtics,56 - 59,1,N/A,N/A,N/A
+0,Al Horford,SUBSTITUTION,Baynes Aron,12:00,3,Celtics,Mavericks,56 - 59,0,N/A,N/A,N/A
+1,Marcus Morris,FG_MISS,None,11:47,3,Celtics,Mavericks,56 - 59,0,25,3,Jumper
+2,DeAndre Jordan,DEFENSIVE_REBOUND,None,11:44,3,Mavericks,Celtics,56 - 59,1,N/A,N/A,N/A
+3,DeAndre Jordan,FG_ASSISTED,Harrison Barnes,11:31,3,Mavericks,Celtics,56 - 61,1,0,2,Dunk
+4,Al Horford,FG_MISS,None,11:16,3,Celtics,Mavericks,56 - 61,0,14,2,Jumper
+5,DeAndre Jordan,DEFENSIVE_REBOUND,None,11:13,3,Mavericks,Celtics,56 - 61,1,N/A,N/A,N/A
+6,Wesley Matthews,FG_MISS,None,11:06,3,Mavericks,Celtics,56 - 61,1,26,3,Jumper
+7,Jaylen Brown,DEFENSIVE_REBOUND,None,11:03,3,Celtics,Mavericks,56 - 61,0,N/A,N/A,N/A
+8,Al Horford,FG_MISS,None,10:54,3,Celtics,Mavericks,56 - 61,0,15,2,Jumper
+9,Harrison Barnes,DEFENSIVE_REBOUND,None,10:51,3,Mavericks,Celtics,56 - 61,1,N/A,N/A,N/A
+10,Harrison Barnes,FG_ASSISTED,DeAndre Jordan,10:42,3,Mavericks,Celtics,56 - 63,1,0,2,Layup
+11,Marcus Morris,FOUL_ON_FLOOR,None,10:42,3,Celtics,Mavericks,56 - 63,0,N/A,N/A,N/A
+12,Harrison Barnes,FT,None,10:42,3,Mavericks,Celtics,56 - 64,1,N/A,1,N/A
+13,Kyrie Irving,FG_MISS,Wesley Matthews,10:18,3,Mavericks,Celtics,56 - 64,0,10,2,Jumper
+14,Team,OFFENSIVE_REBOUND,None,10:17,3,Celtics,Mavericks,56 - 64,0,N/A,N/A,N/A
+15,shot clock,TURNOVER,None,10:17,3,Celtics,Mavericks,56 - 64,0,N/A,N/A,N/A
+16,Luka Doncic,FG_MISS,None,10:04,3,Mavericks,Celtics,56 - 64,1,0,2,Layup
+17,Jaylen Brown,DEFENSIVE_REBOUND,None,10:02,3,Celtics,Mavericks,56 - 64,0,N/A,N/A,N/A
+18,Jaylen Brown,FG_UNASSISTED,None,9:58,3,Celtics,Mavericks,58 - 64,0, ,2,Jumper
+19,Dorian Finney-Smith,FOUL_ON_FLOOR,None,9:40,3,Mavericks,Celtics,58 - 64,1,N/A,N/A,N/A
+20,Dorian Finney-Smith,TURNOVER,None,9:40,3,Mavericks,Celtics,58 - 64,1,N/A,N/A,N/A
+21,Kyrie Irving,FG_MISS,None,9:31,3,Celtics,Mavericks,58 - 64,0,25,3,Jumper
+22,DeAndre Jordan,DEFENSIVE_REBOUND,None,9:27,3,Mavericks,Celtics,58 - 64,1,N/A,N/A,N/A
+23,DeAndre Jordan's,FG_MISS,Kyrie Irving,9:20,3,Celtics,Mavericks,58 - 64,1,0,2,Layup
+24,Jayson Tatum,DEFENSIVE_REBOUND,None,9:17,3,Celtics,Mavericks,58 - 64,0,N/A,N/A,N/A
+25,Jayson Tatum,FG_UNASSISTED,None,9:15,3,Celtics,Mavericks,60 - 64,0, ,2,Jumper
+26,Team,Unknown,None,9:15,3,Mavericks,Celtics,60 - 64,1,N/A,N/A,N/A
+27,Wesley Matthews,TURNOVER,Jayson Tatum,8:55,3,Mavericks,Celtics,60 - 64,1,N/A,N/A,N/A
+28,Al Horford,TURNOVER,Luka Doncic,8:50,3,Celtics,Mavericks,60 - 64,0,N/A,N/A,N/A
+29,DeAndre Jordan,FG_ASSISTED,Luka Doncic,8:49,3,Mavericks,Celtics,60 - 66,1,0,2,Dunk
+30,Double technical,FOUL_TECHNICAL,None,8:49,3,Mavericks,Celtics,60 - 66,1,N/A,N/A,N/A
+31,Jaylen Brown,FOUL_TECHNICAL,None,8:49,3,Celtics,Mavericks,60 - 66,0,N/A,N/A,N/A
+32,Kyrie Irving,JUMP_BALL,None,8:34,3,Mavericks,Celtics,60 - 66,1,N/A,N/A,N/A
+33,Kyrie Irving,TURNOVER,Luka Doncic,8:34,3,Celtics,Mavericks,60 - 66,0,N/A,N/A,N/A
+34,Harrison Barnes,FG_UNASSISTED,None,8:29,3,Mavericks,Celtics,60 - 68,1,2,2,Jumper
+35,Kyrie Irving,FG_UNASSISTED,None,8:12,3,Celtics,Mavericks,62 - 68,0,4,2,Jumper
+36,Jayson Tatum,FOUL_ON_FLOOR,None,8:03,3,Celtics,Mavericks,62 - 68,0,N/A,N/A,N/A
+37,DeAndre Jordan,FT,None,8:03,3,Mavericks,Celtics,62 - 69,1,N/A,1,N/A
+38,DeAndre Jordan,FT_MISS,None,8:03,3,Mavericks,Celtics,62 - 69,1,N/A,1,N/A
+39,Marcus Morris,DEFENSIVE_REBOUND,None,8:01,3,Celtics,Mavericks,62 - 69,0,N/A,N/A,N/A
+40,Kyrie Irving,FG_UNASSISTED,None,7:49,3,Celtics,Mavericks,64 - 69,0,20,2,Jumper
+41,DeAndre Jordan,TURNOVER,Jayson Tatum,7:31,3,Mavericks,Celtics,64 - 69,1,N/A,N/A,N/A
+42,Jayson Tatum,FG_UNASSISTED,None,7:28,3,Celtics,Mavericks,66 - 69,0,0,2,Dunk
+43,Al Horford,FOUL_ON_FLOOR,None,7:10,3,Celtics,Mavericks,66 - 69,0,N/A,N/A,N/A
+44,Wesley Matthews,FT,None,7:10,3,Mavericks,Celtics,66 - 70,1,N/A,1,N/A
+45,Wesley Matthews,FT,None,7:10,3,Mavericks,Celtics,66 - 71,1,N/A,1,N/A
+46,Jaylen Brown,FG_ASSISTED,Jayson Tatum,6:53,3,Celtics,Mavericks,68 - 71,0, ,2,Jumper
+47,Marcus Morris,FOUL_ON_FLOOR,None,6:40,3,Celtics,Mavericks,68 - 71,0,N/A,N/A,N/A
+48,Luka Doncic,FT,None,6:40,3,Mavericks,Celtics,68 - 72,1,N/A,1,N/A
+49,Luka Doncic,FT,None,6:40,3,Mavericks,Celtics,68 - 73,1,N/A,1,N/A
+50,Kyrie Irving,FG_UNASSISTED,None,6:30,3,Celtics,Mavericks,70 - 73,0, ,2,Jumper
+51,Harrison Barnes,FG_MISS,None,6:12,3,Mavericks,Celtics,70 - 73,1,12,2,Jumper
+52,Jaylen Brown,DEFENSIVE_REBOUND,None,6:09,3,Celtics,Mavericks,70 - 73,0,N/A,N/A,N/A
+53,Jaylen Brown,FG_UNASSISTED,None,6:05,3,Celtics,Mavericks,72 - 73,0, ,2,Jumper
+54,Luka Doncic,FG_MISS,None,5:44,3,Mavericks,Celtics,72 - 73,1,28,3,Jumper
+55,Dorian Finney-Smith,OFFENSIVE_REBOUND,None,5:42,3,Mavericks,Celtics,72 - 73,1,N/A,N/A,N/A
+56,Dorian Finney-Smith,FG_MISS,None,5:41,3,Mavericks,Celtics,72 - 73,1, ,2,Jumper
+57,Dorian Finney-Smith,OFFENSIVE_REBOUND,None,5:39,3,Mavericks,Celtics,72 - 73,1,N/A,N/A,N/A
+58,Dorian Finney-Smith,FG_MISS,None,5:36,3,Mavericks,Celtics,72 - 73,1,23,3,Jumper
+59,Al Horford,DEFENSIVE_REBOUND,None,5:34,3,Celtics,Mavericks,72 - 73,0,N/A,N/A,N/A
+60,Jayson Tatum,FG_ASSISTED,Kyrie Irving,5:26,3,Celtics,Mavericks,74 - 73,0,0,2,Dunk
+61,Team,Unknown,None,5:26,3,Mavericks,Celtics,72 - 73,1,N/A,N/A,N/A
+62,Devin Harris,SUBSTITUTION,Matthews Wesley,5:26,3,Mavericks,Celtics,74 - 73,1,N/A,N/A,N/A
+63,Aron Baynes,SUBSTITUTION,Tatum Jayson,5:26,3,Celtics,Mavericks,74 - 73,0,N/A,N/A,N/A
+64,Marcus Smart,SUBSTITUTION,Horford Al,5:26,3,Celtics,Mavericks,74 - 73,0,N/A,N/A,N/A
+65,Marcus Morris,FOUL_ON_FLOOR,None,5:21,3,Celtics,Mavericks,74 - 73,0,N/A,N/A,N/A
+66,Devin Harris,FT_MISS,None,5:21,3,Mavericks,Celtics,74 - 73,1,N/A,1,N/A
+67,Team,OFFENSIVE_REBOUND,None,5:21,3,Mavericks,Celtics,74 - 73,1,N/A,N/A,N/A
+68,Devin Harris,FT,None,5:21,3,Mavericks,Celtics,74 - 74,1,N/A,1,N/A
+69,Kyrie Irving,FG_MISS,None,5:07,3,Celtics,Mavericks,74 - 74,0,19,2,Jumper
+70,Devin Harris,DEFENSIVE_REBOUND,None,5:03,3,Mavericks,Celtics,74 - 74,1,N/A,N/A,N/A
+71,Luka Doncic,FG_MISS,None,4:39,3,Mavericks,Celtics,74 - 74,1,22,2,Jumper
+72,Aron Baynes,DEFENSIVE_REBOUND,None,4:36,3,Celtics,Mavericks,74 - 74,0,N/A,N/A,N/A
+73,Devin Harris,FOUL_ON_FLOOR,None,4:36,3,Mavericks,Celtics,74 - 74,1,N/A,N/A,N/A
+74,J.J. Barea,SUBSTITUTION,Doncic Luka,4:36,3,Mavericks,Celtics,74 - 74,1,N/A,N/A,N/A
+75,Kyrie Irving,FG_MISS,None,4:24,3,Celtics,Mavericks,74 - 74,0,16,2,Jumper
+76,DeAndre Jordan,DEFENSIVE_REBOUND,None,4:21,3,Mavericks,Celtics,74 - 74,1,N/A,N/A,N/A
+77,Semi Ojeleye,SUBSTITUTION,Morris Marcus,4:09,3,Celtics,Mavericks,74 - 74,0,N/A,N/A,N/A
+78,Devin Harris,FG_MISS,None,4:05,3,Mavericks,Celtics,74 - 74,1,0,2,Layup
+79,Kyrie Irving,DEFENSIVE_REBOUND,None,4:02,3,Celtics,Mavericks,74 - 74,0,N/A,N/A,N/A
+80,Kyrie Irving's,FG_MISS,Harrison Barnes,3:59,3,Mavericks,Celtics,74 - 74,0, ,2,Jumper
+81,Team,OFFENSIVE_REBOUND,None,3:58,3,Celtics,Mavericks,74 - 74,0,N/A,N/A,N/A
+82,Kyrie Irving,TURNOVER,None,3:56,3,Celtics,Mavericks,74 - 74,0,N/A,N/A,N/A
+83,Marcus Smart,FOUL_ON_FLOOR,None,3:45,3,Celtics,Mavericks,74 - 74,0,N/A,N/A,N/A
+84,DeAndre Jordan,FT_MISS,None,3:45,3,Mavericks,Celtics,74 - 74,1,N/A,1,N/A
+85,Team,OFFENSIVE_REBOUND,None,3:45,3,Mavericks,Celtics,74 - 74,1,N/A,N/A,N/A
+86,DeAndre Jordan,FT,None,3:45,3,Mavericks,Celtics,74 - 75,1,N/A,1,N/A
+87,Devin Harris,FOUL_ON_FLOOR,None,3:32,3,Mavericks,Celtics,74 - 75,1,N/A,N/A,N/A
+88,Aron Baynes,FG_MISS,None,3:26,3,Celtics,Mavericks,74 - 75,0, ,3,Jumper
+89,DeAndre Jordan,DEFENSIVE_REBOUND,None,3:23,3,Mavericks,Celtics,74 - 75,1,N/A,N/A,N/A
+90,Devin Harris,FG_ASSISTED,J.J. Barea,3:14,3,Mavericks,Celtics,74 - 78,1, ,3,Jumper
+91,Dorian Finney-Smith,FOUL_ON_FLOOR,None,2:59,3,Mavericks,Celtics,74 - 78,1,N/A,N/A,N/A
+92,Marcus Smart,FT,None,2:59,3,Celtics,Mavericks,75 - 78,0,N/A,1,N/A
+93,Marcus Smart,FT,None,2:59,3,Celtics,Mavericks,76 - 78,0,N/A,1,N/A
+94,Maximilian Kleber,SUBSTITUTION,Finney-Smith Dorian,2:59,3,Mavericks,Celtics,76 - 78,1,N/A,N/A,N/A
+95,Terry Rozier,SUBSTITUTION,Brown Jaylen,2:59,3,Celtics,Mavericks,76 - 78,0,N/A,N/A,N/A
+96,Jayson Tatum,SUBSTITUTION,Irving Kyrie,2:59,3,Celtics,Mavericks,76 - 78,0,N/A,N/A,N/A
+97,Marcus Smart,FT,None,2:59,3,Celtics,Mavericks,77 - 78,0,N/A,1,N/A
+98,Maximilian Kleber,FG_MISS,None,2:49,3,Mavericks,Celtics,77 - 78,1,25,3,Jumper
+99,DeAndre Jordan,OFFENSIVE_REBOUND,None,2:49,3,Mavericks,Celtics,77 - 78,1,N/A,N/A,N/A
+100,Aron Baynes,FOUL_ON_FLOOR,None,2:49,3,Celtics,Mavericks,77 - 78,0,N/A,N/A,N/A
+101,DeAndre Jordan,FT,None,2:49,3,Mavericks,Celtics,77 - 79,1,N/A,1,N/A
+102,DeAndre Jordan,FT,None,2:49,3,Mavericks,Celtics,77 - 80,1,N/A,1,N/A
+103,Marcus Smart,TURNOVER,J.J. Barea,2:29,3,Celtics,Mavericks,77 - 80,0,N/A,N/A,N/A
+104,Maximilian Kleber,FG_ASSISTED,J.J. Barea,2:22,3,Mavericks,Celtics,77 - 83,1,25,3,Jumper
+105,Jayson Tatum,FG_MISS,None,2:02,3,Celtics,Mavericks,77 - 83,0,25,3,Jumper
+106,Maximilian Kleber,DEFENSIVE_REBOUND,None,2:00,3,Mavericks,Celtics,77 - 83,1,N/A,N/A,N/A
+107,J.J. Barea,TURNOVER,Marcus Smart,1:49,3,Mavericks,Celtics,77 - 83,1,N/A,N/A,N/A
+108,Jayson Tatum,FG_MISS,None,1:43,3,Celtics,Mavericks,77 - 83,0, ,2,Jumper
+109,Aron Baynes,OFFENSIVE_REBOUND,None,1:41,3,Celtics,Mavericks,77 - 83,0,N/A,N/A,N/A
+110,Aron Baynes,FG_MISS,None,1:40,3,Celtics,Mavericks,77 - 83,0, ,2,Jumper
+111,Aron Baynes,OFFENSIVE_REBOUND,None,1:38,3,Celtics,Mavericks,77 - 83,0,N/A,N/A,N/A
+112,Aron Baynes,FG_UNASSISTED,None,1:37,3,Celtics,Mavericks,79 - 83,0, ,2,Jumper
+113,J.J. Barea,FG_ASSISTED,Maximilian Kleber,1:30,3,Mavericks,Celtics,79 - 85,1,0,2,Layup
+114,Terry Rozier,FOUL_ON_FLOOR,None,1:30,3,Celtics,Mavericks,79 - 85,0,N/A,N/A,N/A
+115,Dorian Finney-Smith,SUBSTITUTION,Jordan DeAndre,1:30,3,Mavericks,Celtics,79 - 85,1,N/A,N/A,N/A
+116,Al Horford,SUBSTITUTION,Baynes Aron,1:30,3,Celtics,Mavericks,79 - 85,0,N/A,N/A,N/A
+117,J.J. Barea,FT_MISS,None,1:30,3,Mavericks,Celtics,79 - 85,1,N/A,1,N/A
+118,Semi Ojeleye,DEFENSIVE_REBOUND,None,1:30,3,Celtics,Mavericks,79 - 85,0,N/A,N/A,N/A
+119,Team,Unknown,None,1:30,3,Celtics,Mavericks,79 - 85,0,N/A,N/A,N/A
+120,Terry Rozier,FG_MISS,None,1:07,3,Celtics,Mavericks,79 - 85,0,5,2,Jumper
+121,Devin Harris,DEFENSIVE_REBOUND,None,1:05,3,Mavericks,Celtics,79 - 85,1,N/A,N/A,N/A
+122,Devin Harris,FG_MISS,None,1:01,3,Mavericks,Celtics,79 - 85,1,25,3,Jumper
+123,Terry Rozier,DEFENSIVE_REBOUND,None,59.4,3,Celtics,Mavericks,79 - 85,0,N/A,N/A,N/A
+124,Terry Rozier,TURNOVER,None,56.4,3,Celtics,Mavericks,79 - 85,0,N/A,N/A,N/A
+125,Terry Rozier,TURNOVER,None,56.4,3,Celtics,Mavericks,79 - 85,0,N/A,N/A,N/A
+126,J.J. Barea,FG_MISS,None,34.9,3,Mavericks,Celtics,79 - 85,1,19,2,Jumper
+127,Dorian Finney-Smith,OFFENSIVE_REBOUND,None,31.1,3,Mavericks,Celtics,79 - 85,1,N/A,N/A,N/A
+128,Dorian Finney-Smith,FG_MISS,None,31.1,3,Mavericks,Celtics,79 - 85,1, ,2,Jumper
+129,Al Horford,DEFENSIVE_REBOUND,None,30.3,3,Celtics,Mavericks,79 - 85,0,N/A,N/A,N/A
+130,Marcus Smart,FG_ASSISTED,Al Horford,13.8,3,Celtics,Mavericks,81 - 85,0,0,2,Layup
+131,Dorian Finney-Smith,FOUL_ON_FLOOR,None,13.8,3,Mavericks,Celtics,81 - 85,1,N/A,N/A,N/A
+132,Wesley Matthews,SUBSTITUTION,Barnes Harrison,13.8,3,Mavericks,Celtics,81 - 85,1,N/A,N/A,N/A
+133,Salah Mejri,SUBSTITUTION,Finney-Smith Dorian,13.8,3,Mavericks,Celtics,81 - 85,1,N/A,N/A,N/A
+134,Marcus Smart,FT,None,13.8,3,Celtics,Mavericks,82 - 85,0,N/A,1,N/A
+135,J.J. Barea,FG_UNASSISTED,None,1.6,3,Mavericks,Celtics,82 - 87,1, ,2,Jumper
+136,Team,Unknown,None,1.6,3,Celtics,Mavericks,82 - 87,0,N/A,N/A,N/A
+137,Harrison Barnes,SUBSTITUTION,Barea J.J.,1.6,3,Mavericks,Celtics,82 - 87,1,N/A,N/A,N/A
+138,Kyrie Irving,SUBSTITUTION,Ojeleye Semi,1.6,3,Celtics,Mavericks,82 - 87,0,N/A,N/A,N/A
+139,End of,Unknown,None,0.0,3,Mavericks,Celtics,82 - 87,1,N/A,N/A,N/A
+0,J.J. Barea,SUBSTITUTION,Barnes Harrison,12:00,4,Mavericks,Celtics,82 - 87,1,N/A,N/A,N/A
+1,Semi Ojeleye,SUBSTITUTION,Irving Kyrie,12:00,4,Celtics,Mavericks,82 - 87,0,N/A,N/A,N/A
+2,J.J. Barea,FG_MISS,None,11:46,4,Mavericks,Celtics,82 - 87,1,15,2,Jumper
+3,Jayson Tatum,DEFENSIVE_REBOUND,None,11:42,4,Celtics,Mavericks,82 - 87,0,N/A,N/A,N/A
+4,Jayson Tatum,FG_ASSISTED,Marcus Smart,11:22,4,Celtics,Mavericks,84 - 87,0, ,2,Jumper
+5,Devin Harris,FG_ASSISTED,J.J. Barea,11:06,4,Mavericks,Celtics,84 - 89,1,3,2,Jumper
+6,Terry Rozier,FG_MISS,None,10:53,4,Celtics,Mavericks,84 - 89,0,26,3,Jumper
+7,Maximilian Kleber,DEFENSIVE_REBOUND,None,10:49,4,Mavericks,Celtics,84 - 89,1,N/A,N/A,N/A
+8,Wesley Matthews,FG_MISS,None,10:44,4,Mavericks,Celtics,84 - 89,1, ,2,Jumper
+9,Wesley Matthews,OFFENSIVE_REBOUND,None,10:42,4,Mavericks,Celtics,84 - 89,1,N/A,N/A,N/A
+10,Wesley Matthews,FG_MISS,None,10:39,4,Mavericks,Celtics,84 - 89,1,23,3,Jumper
+11,Salah Mejri,OFFENSIVE_REBOUND,None,10:35,4,Mavericks,Celtics,84 - 89,1,N/A,N/A,N/A
+12,Devin Harris,FG_ASSISTED,Salah Mejri,10:32,4,Mavericks,Celtics,84 - 92,1,26,3,Jumper
+13,Team,Unknown,None,10:31,4,Celtics,Mavericks,84 - 92,0,N/A,N/A,N/A
+14,Jayson Tatum,TURNOVER,None,10:17,4,Celtics,Mavericks,84 - 92,0,N/A,N/A,N/A
+15,Devin Harris,TURNOVER,None,10:05,4,Mavericks,Celtics,84 - 92,1,N/A,N/A,N/A
+16,Devin Harris,TURNOVER,None,10:05,4,Mavericks,Celtics,84 - 92,1,N/A,N/A,N/A
+17,Kyrie Irving,SUBSTITUTION,Rozier Terry,10:05,4,Celtics,Mavericks,84 - 92,0,N/A,N/A,N/A
+18,Al Horford,TURNOVER,Devin Harris,9:50,4,Celtics,Mavericks,84 - 92,0,N/A,N/A,N/A
+19,Maximilian Kleber's,FG_MISS,Jayson Tatum,9:36,4,Celtics,Mavericks,84 - 92,1, ,3,Jumper
+20,Team,OFFENSIVE_REBOUND,None,9:36,4,Mavericks,Celtics,84 - 92,1,N/A,N/A,N/A
+21,Aron Baynes,SUBSTITUTION,Horford Al,9:36,4,Celtics,Mavericks,84 - 92,0,N/A,N/A,N/A
+22,Wesley Matthews,FG_MISS,None,9:26,4,Mavericks,Celtics,84 - 92,1,27,2,Jumper
+23,Maximilian Kleber,OFFENSIVE_REBOUND,None,9:24,4,Mavericks,Celtics,84 - 92,1,N/A,N/A,N/A
+24,J.J. Barea,FG_MISS,None,9:23,4,Mavericks,Celtics,84 - 92,1,26,3,Jumper
+25,Aron Baynes,DEFENSIVE_REBOUND,None,9:19,4,Celtics,Mavericks,84 - 92,0,N/A,N/A,N/A
+26,Kyrie Irving,FG_MISS,None,9:10,4,Celtics,Mavericks,84 - 92,0, ,2,Jumper
+27,Team,DEFENSIVE_REBOUND,None,9:10,4,Mavericks,Celtics,84 - 92,1,N/A,N/A,N/A
+28,Maximilian Kleber,TURNOVER,None,8:50,4,Mavericks,Celtics,84 - 92,1,N/A,N/A,N/A
+29,Maximilian Kleber,TURNOVER,None,8:50,4,Mavericks,Celtics,84 - 92,1,N/A,N/A,N/A
+30,Marcus Morris,SUBSTITUTION,Ojeleye Semi,8:50,4,Celtics,Mavericks,84 - 92,0,N/A,N/A,N/A
+31,Devin Harris,FOUL_ON_FLOOR,None,8:38,4,Mavericks,Celtics,84 - 92,1,N/A,N/A,N/A
+32,Jalen Brunson,SUBSTITUTION,Harris Devin,8:38,4,Mavericks,Celtics,84 - 92,1,N/A,N/A,N/A
+33,Jalen Brunson,FOUL_ON_FLOOR,None,8:34,4,Mavericks,Celtics,84 - 92,1,N/A,N/A,N/A
+34,Marcus Smart,FT,None,8:34,4,Celtics,Mavericks,85 - 92,0,N/A,1,N/A
+35,Marcus Smart,FT,None,8:34,4,Celtics,Mavericks,86 - 92,0,N/A,1,N/A
+36,Wesley Matthews,TURNOVER,None,8:17,4,Mavericks,Celtics,86 - 92,1,N/A,N/A,N/A
+37,Aron Baynes,TURNOVER,J.J. Barea,8:03,4,Celtics,Mavericks,86 - 92,0,N/A,N/A,N/A
+38,Maximilian Kleber,FG_ASSISTED,J.J. Barea,7:57,4,Mavericks,Celtics,86 - 94,1, ,2,Jumper
+39,Maximilian Kleber,FOUL_ON_FLOOR,None,7:45,4,Mavericks,Celtics,86 - 94,1,N/A,N/A,N/A
+40,Luka Doncic,SUBSTITUTION,Matthews Wesley,7:45,4,Mavericks,Celtics,86 - 94,1,N/A,N/A,N/A
+41,Aron Baynes,FT,None,7:45,4,Celtics,Mavericks,87 - 94,0,N/A,1,N/A
+42,Aron Baynes,FT,None,7:45,4,Celtics,Mavericks,88 - 94,0,N/A,1,N/A
+43,J.J. Barea,FG_UNASSISTED,None,7:29,4,Mavericks,Celtics,88 - 96,1, ,2,Jumper
+44,Kyrie Irving,FG_MISS,None,7:21,4,Celtics,Mavericks,88 - 96,0,26,3,Jumper
+45,Salah Mejri,DEFENSIVE_REBOUND,None,7:16,4,Mavericks,Celtics,88 - 96,1,N/A,N/A,N/A
+46,Jalen Brunson,FG_UNASSISTED,None,7:13,4,Mavericks,Celtics,88 - 98,1, ,2,Jumper
+47,Marcus Smart,FOUL_ON_FLOOR,None,7:13,4,Celtics,Mavericks,88 - 98,0,N/A,N/A,N/A
+48,DeAndre Jordan,SUBSTITUTION,Mejri Salah,7:13,4,Mavericks,Celtics,88 - 98,1,N/A,N/A,N/A
+49,Jaylen Brown,SUBSTITUTION,Tatum Jayson,7:13,4,Celtics,Mavericks,88 - 98,0,N/A,N/A,N/A
+50,Jalen Brunson,FT_MISS,None,7:13,4,Mavericks,Celtics,88 - 98,1,N/A,1,N/A
+51,Kyrie Irving,DEFENSIVE_REBOUND,None,7:13,4,Celtics,Mavericks,88 - 98,0,N/A,N/A,N/A
+52,Jalen Brunson,FOUL_ON_FLOOR,None,6:53,4,Mavericks,Celtics,88 - 98,1,N/A,N/A,N/A
+53,Kyrie Irving,FG_UNASSISTED,None,6:41,4,Celtics,Mavericks,90 - 98,0,13,2,Jumper
+54,J.J. Barea,FG_UNASSISTED,None,6:24,4,Mavericks,Celtics,90 - 100,1,14,2,Jumper
+55,Jaylen Brown,FG_MISS,None,6:03,4,Celtics,Mavericks,90 - 100,0,21,2,Jumper
+56,J.J. Barea,DEFENSIVE_REBOUND,None,6:01,4,Mavericks,Celtics,90 - 100,1,N/A,N/A,N/A
+57,J.J. Barea,FG_ASSISTED,Luka Doncic,5:44,4,Mavericks,Celtics,90 - 103,1,27,3,Jumper
+58,Team,Unknown,None,5:43,4,Celtics,Mavericks,90 - 103,0,N/A,N/A,N/A
+59,Wesley Matthews,SUBSTITUTION,Barea J.J.,5:43,4,Mavericks,Celtics,90 - 103,1,N/A,N/A,N/A
+60,Al Horford,SUBSTITUTION,Smart Marcus,5:43,4,Celtics,Mavericks,90 - 103,0,N/A,N/A,N/A
+61,Jayson Tatum,SUBSTITUTION,Baynes Aron,5:43,4,Celtics,Mavericks,90 - 103,0,N/A,N/A,N/A
+62,Kyrie Irving,FG_MISS,None,5:24,4,Celtics,Mavericks,90 - 103,0,12,2,Jumper
+63,DeAndre Jordan,DEFENSIVE_REBOUND,None,5:21,4,Mavericks,Celtics,90 - 103,1,N/A,N/A,N/A
+64,Kyrie Irving,FOUL_ON_FLOOR,None,5:08,4,Celtics,Mavericks,90 - 103,0,N/A,N/A,N/A
+65,Wesley Matthews,FG_MISS,None,5:04,4,Mavericks,Celtics,90 - 103,1,25,3,Jumper
+66,Jaylen Brown,DEFENSIVE_REBOUND,None,5:01,4,Celtics,Mavericks,90 - 103,0,N/A,N/A,N/A
+67,Al Horford,FG_MISS,None,4:55,4,Celtics,Mavericks,90 - 103,0,25,3,Jumper
+68,Team,OFFENSIVE_REBOUND,None,4:54,4,Celtics,Mavericks,90 - 103,0,N/A,N/A,N/A
+69,Kyrie Irving,FG_MISS,None,4:50,4,Celtics,Mavericks,90 - 103,0,15,2,Jumper
+70,Wesley Matthews,DEFENSIVE_REBOUND,None,4:47,4,Mavericks,Celtics,90 - 103,1,N/A,N/A,N/A
+71,Wesley Matthews,FG_ASSISTED,DeAndre Jordan,4:28,4,Mavericks,Celtics,90 - 106,1,23,3,Jumper
+72,Jayson Tatum,FG_ASSISTED,Kyrie Irving,4:09,4,Celtics,Mavericks,93 - 106,0,25,3,Jumper
+73,Maximilian Kleber,FG_MISS,None,3:48,4,Mavericks,Celtics,93 - 106,1,23,3,Jumper
+74,Maximilian Kleber,OFFENSIVE_REBOUND,None,3:46,4,Mavericks,Celtics,93 - 106,1,N/A,N/A,N/A
+75,Maximilian Kleber,FG_MISS,None,3:45,4,Mavericks,Celtics,93 - 106,1,0,2,Layup
+76,Al Horford,DEFENSIVE_REBOUND,None,3:43,4,Celtics,Mavericks,93 - 106,0,N/A,N/A,N/A
+77,Jaylen Brown,FG_UNASSISTED,None,3:39,4,Celtics,Mavericks,95 - 106,0,1,2,Jumper
+78,Team,Unknown,None,3:38,4,Mavericks,Celtics,95 - 106,1,N/A,N/A,N/A
+79,J.J. Barea,SUBSTITUTION,Brunson Jalen,3:38,4,Mavericks,Celtics,95 - 106,1,N/A,N/A,N/A
+80,Wesley Matthews,FG_ASSISTED,J.J. Barea,3:26,4,Mavericks,Celtics,95 - 109,1,26,3,Jumper
+81,Kyrie Irving,FG_MISS,None,3:11,4,Celtics,Mavericks,95 - 109,0,0,2,Layup
+82,Kyrie Irving,OFFENSIVE_REBOUND,None,3:08,4,Celtics,Mavericks,95 - 109,0,N/A,N/A,N/A
+83,Kyrie Irving,FG_MISS,None,3:08,4,Celtics,Mavericks,95 - 109,0,1,2,Jumper
+84,J.J. Barea,DEFENSIVE_REBOUND,None,3:08,4,Mavericks,Celtics,95 - 109,1,N/A,N/A,N/A
+85,DeAndre Jordan,FG_ASSISTED,Luka Doncic,2:50,4,Mavericks,Celtics,95 - 111,1,0,2,Dunk
+86,Marcus Morris,FG_ASSISTED,Jayson Tatum,2:33,4,Celtics,Mavericks,97 - 111,0,0,2,Layup
+87,Jaylen Brown,FOUL_ON_FLOOR,None,2:19,4,Celtics,Mavericks,97 - 111,0,N/A,N/A,N/A
+88,Maximilian Kleber,FG_MISS,None,2:07,4,Mavericks,Celtics,97 - 111,1,0,2,Layup
+89,Maximilian Kleber,OFFENSIVE_REBOUND,None,2:05,4,Mavericks,Celtics,97 - 111,1,N/A,N/A,N/A
+90,Maximilian Kleber,FG_UNASSISTED,None,2:05,4,Mavericks,Celtics,97 - 113,1,1,2,Jumper
+91,Team,Unknown,None,2:04,4,Celtics,Mavericks,97 - 113,0,N/A,N/A,N/A
+92,Marcus Smart,SUBSTITUTION,Brown Jaylen,2:04,4,Celtics,Mavericks,97 - 113,0,N/A,N/A,N/A
+93,Marcus Smart,FG_UNASSISTED,None,1:51,4,Celtics,Mavericks,99 - 113,0,8,2,Jumper
+94,Luka Doncic,TURNOVER,None,1:40,4,Mavericks,Celtics,99 - 113,1,N/A,N/A,N/A
+95,Marcus Morris,FG_MISS,Luka Doncic,1:32,4,Mavericks,Celtics,99 - 113,0,0,2,Layup
+96,Team,OFFENSIVE_REBOUND,None,1:32,4,Celtics,Mavericks,99 - 113,0,N/A,N/A,N/A
+97,Marcus Morris,FG_UNASSISTED,None,1:21,4,Celtics,Mavericks,101 - 113,0,6,2,Jumper
+98,Kyrie Irving,FOUL_ON_FLOOR,None,1:11,4,Celtics,Mavericks,101 - 113,0,N/A,N/A,N/A
+99,J.J. Barea,FG_MISS,None,59.7,4,Mavericks,Celtics,101 - 113,1,26,3,Jumper
+100,Marcus Morris,DEFENSIVE_REBOUND,None,57.5,4,Celtics,Mavericks,101 - 113,0,N/A,N/A,N/A
+101,Al Horford,FG_MISS,None,50.8,4,Celtics,Mavericks,101 - 113,0,25,3,Jumper
+102,DeAndre Jordan,DEFENSIVE_REBOUND,None,47.8,4,Mavericks,Celtics,101 - 113,1,N/A,N/A,N/A
+103,Luka Doncic,FG_MISS,None,26.0,4,Mavericks,Celtics,101 - 113,1,13,2,Jumper
+104,Marcus Smart,DEFENSIVE_REBOUND,None,23.3,4,Celtics,Mavericks,101 - 113,0,N/A,N/A,N/A
+105,Jayson Tatum,FG_MISS,None,20.0,4,Celtics,Mavericks,101 - 113,0,25,3,Jumper
+106,Marcus Smart,OFFENSIVE_REBOUND,None,17.2,4,Celtics,Mavericks,101 - 113,0,N/A,N/A,N/A
+107,Jalen Brunson,SUBSTITUTION,Barea J.J.,17.2,4,Mavericks,Celtics,101 - 113,1,N/A,N/A,N/A
+108,Terry Rozier,SUBSTITUTION,Irving Kyrie,17.2,4,Celtics,Mavericks,101 - 113,0,N/A,N/A,N/A
+109,Marcus Smart,JUMP_BALL,None,17.2,4,Celtics,Mavericks,101 - 113,0,N/A,N/A,N/A
+110,Marcus Morris,FG_ASSISTED,Jayson Tatum,12.7,4,Celtics,Mavericks,104 - 113,0,25,3,Jumper
+111,Marcus Smart,FOUL_TECHNICAL,None,12.7,4,Celtics,Mavericks,104 - 113,0,N/A,N/A,N/A
+112,DeAndre Jordan,FT_MISS,None,12.7,4,Mavericks,Celtics,104 - 113,1,N/A,1,N/A
+113,Team,OFFENSIVE_REBOUND,None,12.7,4,Mavericks,Celtics,104 - 113,1,N/A,N/A,N/A
+114,Semi Ojeleye,SUBSTITUTION,Smart Marcus,12.0,4,Celtics,Mavericks,104 - 113,0,N/A,N/A,N/A
+115,End of,Unknown,None,0.0,4,Mavericks,Celtics,104 - 113,1,N/A,N/A,N/A
+116,End of,Unknown,None,0.0,4,Mavericks,Celtics,104 - 113,1,N/A,N/A,N/A

@@ -1,0 +1,354 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Ivica Zubac,JUMP_BALL,None,12:00,1,Lakers,Warriors,0 - 0,0,N/A,N/A,N/A
+1,Lonzo Ball,TURNOVER,Draymond Green,11:42,1,Lakers,Warriors,0 - 0,0,N/A,N/A,N/A
+2,Kevin Durant,FG_ASSISTED,Draymond Green,11:37,1,Warriors,Lakers,0 - 3,1,27,3,Jumper
+3,Kyle Kuzma,FG_ASSISTED,LeBron James,11:18,1,Lakers,Warriors,3 - 3,0,26,3,Jumper
+4,Stephen Curry,FG_MISS,None,11:00,1,Warriors,Lakers,3 - 3,1,19,2,Jumper
+5,LeBron James,DEFENSIVE_REBOUND,None,10:58,1,Lakers,Warriors,3 - 3,0,N/A,N/A,N/A
+6,Brandon Ingram,FG_UNASSISTED,None,10:45,1,Lakers,Warriors,5 - 3,0,10,2,Jumper
+7,Kevon Looney,FG_ASSISTED,Klay Thompson,10:28,1,Warriors,Lakers,5 - 5,1,0,2,Dunk
+8,Lonzo Ball,FG_MISS,None,10:05,1,Lakers,Warriors,5 - 5,0,-,2,Jumper
+9,Ivica Zubac,OFFENSIVE_REBOUND,None,10:04,1,Lakers,Warriors,5 - 5,0,N/A,N/A,N/A
+10,Ivica Zubac,FG_UNASSISTED,None,10:03,1,Lakers,Warriors,7 - 5,0,-,2,Jumper
+11,Kevon Looney,FG_MISS,None,9:46,1,Warriors,Lakers,7 - 5,1,23,3,Jumper
+12,Kyle Kuzma,DEFENSIVE_REBOUND,None,9:44,1,Lakers,Warriors,7 - 5,0,N/A,N/A,N/A
+13,Lonzo Ball,FG_MISS,None,9:33,1,Lakers,Warriors,7 - 5,0,23,2,Jumper
+14,Draymond Green,DEFENSIVE_REBOUND,None,9:31,1,Warriors,Lakers,7 - 5,1,N/A,N/A,N/A
+15,Ivica Zubac,FOUL_ON_FLOOR,None,9:25,1,Lakers,Warriors,7 - 5,0,N/A,N/A,N/A
+16,Kevin Durant,FT,None,9:25,1,Warriors,Lakers,7 - 6,1,N/A,1,N/A
+17,Kevin Durant,FT,None,9:25,1,Warriors,Lakers,7 - 7,1,N/A,1,N/A
+18,Stephen Curry,FOUL_ON_FLOOR,None,9:19,1,Warriors,Lakers,7 - 7,1,N/A,N/A,N/A
+19,LeBron James,FT,None,9:19,1,Lakers,Warriors,8 - 7,0,N/A,1,N/A
+20,LeBron James,FT,None,9:19,1,Lakers,Warriors,9 - 7,0,N/A,1,N/A
+21,Draymond Green,FG_MISS,None,9:05,1,Warriors,Lakers,9 - 7,1,28,3,Jumper
+22,LeBron James,DEFENSIVE_REBOUND,None,9:03,1,Lakers,Warriors,9 - 7,0,N/A,N/A,N/A
+23,LeBron James,FG_MISS,None,8:57,1,Lakers,Warriors,9 - 7,0,11,2,Jumper
+24,Draymond Green,DEFENSIVE_REBOUND,None,8:56,1,Warriors,Lakers,9 - 7,1,N/A,N/A,N/A
+25,Klay Thompson,FG_MISS,None,8:46,1,Warriors,Lakers,9 - 7,1,-,2,Jumper
+26,Kevon Looney,OFFENSIVE_REBOUND,None,8:45,1,Warriors,Lakers,9 - 7,1,N/A,N/A,N/A
+27,Klay Thompson,FG_MISS,None,8:38,1,Warriors,Lakers,9 - 7,1,18,2,Jumper
+28,Kyle Kuzma,DEFENSIVE_REBOUND,None,8:36,1,Lakers,Warriors,9 - 7,0,N/A,N/A,N/A
+29,LeBron James,TURNOVER,Draymond Green,8:34,1,Lakers,Warriors,9 - 7,0,N/A,N/A,N/A
+30,Klay Thompson,FG_MISS,None,8:29,1,Warriors,Lakers,9 - 7,1,23,3,Jumper
+31,Brandon Ingram,DEFENSIVE_REBOUND,None,8:27,1,Lakers,Warriors,9 - 7,0,N/A,N/A,N/A
+32,Brandon Ingram's,FG_MISS,Kevon Looney,8:15,1,Warriors,Lakers,9 - 7,0,0,2,Layup
+33,Kevin Durant,DEFENSIVE_REBOUND,None,8:14,1,Warriors,Lakers,9 - 7,1,N/A,N/A,N/A
+34,Kevin Durant,TURNOVER,LeBron James,8:09,1,Warriors,Lakers,9 - 7,1,N/A,N/A,N/A
+35,Kevin Durant,FOUL_ON_FLOOR,None,8:06,1,Warriors,Lakers,9 - 7,1,N/A,N/A,N/A
+36,LeBron James,FT,None,8:06,1,Lakers,Warriors,10 - 7,0,N/A,1,N/A
+37,LeBron James,FT_MISS,None,8:06,1,Lakers,Warriors,10 - 7,0,N/A,1,N/A
+38,Kevin Durant,DEFENSIVE_REBOUND,None,8:04,1,Warriors,Lakers,10 - 7,1,N/A,N/A,N/A
+39,Kevon Looney,FG_ASSISTED,Klay Thompson,7:50,1,Warriors,Lakers,10 - 9,1,0,2,Layup
+40,Brandon Ingram,TURNOVER,Kevin Durant,7:33,1,Lakers,Warriors,10 - 9,0,N/A,N/A,N/A
+41,Kevin Durant,FG_ASSISTED,Draymond Green,7:27,1,Warriors,Lakers,10 - 12,1,24,3,Jumper
+42,Kyle Kuzma,FG_MISS,None,7:07,1,Lakers,Warriors,10 - 12,0,10,2,Jumper
+43,Team,DEFENSIVE_REBOUND,None,7:06,1,Warriors,Lakers,10 - 12,1,N/A,N/A,N/A
+44,Stephen Curry,FG_MISS,None,6:59,1,Warriors,Lakers,10 - 12,1,30,3,Jumper
+45,Ivica Zubac,DEFENSIVE_REBOUND,None,6:57,1,Lakers,Warriors,10 - 12,0,N/A,N/A,N/A
+46,Brandon Ingram,FG_ASSISTED,LeBron James,6:35,1,Lakers,Warriors,13 - 12,0,22,3,Jumper
+47,Stephen Curry,FG_ASSISTED,Kevin Durant,6:10,1,Warriors,Lakers,13 - 14,1,4,2,Jumper
+48,Draymond Green,FOUL_ON_FLOOR,None,5:59,1,Warriors,Lakers,13 - 14,1,N/A,N/A,N/A
+49,Team,Unknown,None,5:59,1,Warriors,Lakers,13 - 14,1,N/A,N/A,N/A
+50,Andre Iguodala,SUBSTITUTION,Looney Kevon,5:59,1,Warriors,Lakers,13 - 14,1,N/A,N/A,N/A
+51,Ivica Zubac,FG_ASSISTED,Brandon Ingram,5:55,1,Lakers,Warriors,15 - 14,0,0,2,Layup
+52,Stephen Curry,FG_UNASSISTED,None,5:40,1,Warriors,Lakers,15 - 16,1,20,2,Jumper
+53,Draymond Green,FOUL_ON_FLOOR,None,5:31,1,Warriors,Lakers,15 - 16,1,N/A,N/A,N/A
+54,LeBron James,FT_MISS,None,5:31,1,Lakers,Warriors,15 - 16,0,N/A,1,N/A
+55,Team,OFFENSIVE_REBOUND,None,5:31,1,Lakers,Warriors,15 - 16,0,N/A,N/A,N/A
+56,Kevon Looney,SUBSTITUTION,Green Draymond,5:31,1,Warriors,Lakers,15 - 16,1,N/A,N/A,N/A
+57,Tyson Chandler,SUBSTITUTION,Zubac Ivica,5:31,1,Lakers,Warriors,15 - 16,0,N/A,N/A,N/A
+58,LeBron James,FT,None,5:31,1,Lakers,Warriors,16 - 16,0,N/A,1,N/A
+59,Andre Iguodala,FG_ASSISTED,Stephen Curry,5:16,1,Warriors,Lakers,16 - 18,1,0,2,Dunk
+60,Brandon Ingram,FG_MISS,None,5:01,1,Lakers,Warriors,16 - 18,0,25,3,Jumper
+61,Tyson Chandler,OFFENSIVE_REBOUND,None,4:59,1,Lakers,Warriors,16 - 18,0,N/A,N/A,N/A
+62,Lonzo Ball,FG_ASSISTED,LeBron James,4:55,1,Lakers,Warriors,19 - 18,0, ,3,Jumper
+63,Kevon Looney,FG_ASSISTED,Kevin Durant,4:37,1,Warriors,Lakers,19 - 20,1,0,2,Layup
+64,Stephen Curry,FOUL_ON_FLOOR,None,4:28,1,Warriors,Lakers,19 - 20,1,N/A,N/A,N/A
+65,Lonzo Ball,FT,None,4:28,1,Lakers,Warriors,20 - 20,0,N/A,1,N/A
+66,Jonas Jerebko,SUBSTITUTION,Curry Stephen,4:28,1,Warriors,Lakers,20 - 20,1,N/A,N/A,N/A
+67,Lonzo Ball,FT_MISS,None,4:28,1,Lakers,Warriors,20 - 20,0,N/A,1,N/A
+68,Andre Iguodala,DEFENSIVE_REBOUND,None,4:26,1,Warriors,Lakers,20 - 20,1,N/A,N/A,N/A
+69,Andre Iguodala,FG_ASSISTED,Kevon Looney,4:13,1,Warriors,Lakers,20 - 23,1,27,3,Jumper
+70,Lonzo Ball,FG_MISS,None,3:54,1,Lakers,Warriors,20 - 23,0,28,3,Jumper
+71,Kevin Durant,DEFENSIVE_REBOUND,None,3:52,1,Warriors,Lakers,20 - 23,1,N/A,N/A,N/A
+72,Kevon Looney,FG_MISS,None,3:47,1,Warriors,Lakers,20 - 23,1,0,2,Layup
+73,LeBron James,DEFENSIVE_REBOUND,None,3:46,1,Lakers,Warriors,20 - 23,0,N/A,N/A,N/A
+74,Kyle Kuzma,FG_ASSISTED,LeBron James,3:41,1,Lakers,Warriors,23 - 23,0,26,3,Jumper
+75,Klay Thompson,FG_MISS,None,3:25,1,Warriors,Lakers,23 - 23,1,26,3,Jumper
+76,LeBron James,DEFENSIVE_REBOUND,None,3:23,1,Lakers,Warriors,23 - 23,0,N/A,N/A,N/A
+77,LeBron James,FG_UNASSISTED,None,3:14,1,Lakers,Warriors,25 - 23,0,7,2,Jumper
+78,Brandon Ingram,FOUL_ON_FLOOR,None,2:56,1,Lakers,Warriors,25 - 23,0,N/A,N/A,N/A
+79,Team,Unknown,None,2:56,1,Lakers,Warriors,25 - 23,0,N/A,N/A,N/A
+80,Shaun Livingston,SUBSTITUTION,Thompson Klay,2:56,1,Warriors,Lakers,25 - 23,1,N/A,N/A,N/A
+81,Josh Hart,SUBSTITUTION,Ball Lonzo,2:56,1,Lakers,Warriors,25 - 23,0,N/A,N/A,N/A
+82,Rajon Rondo,SUBSTITUTION,Ingram Brandon,2:56,1,Lakers,Warriors,25 - 23,0,N/A,N/A,N/A
+83,Jonas Jerebko,FG_MISS,None,2:49,1,Warriors,Lakers,25 - 23,1,29,3,Jumper
+84,LeBron James,DEFENSIVE_REBOUND,None,2:47,1,Lakers,Warriors,25 - 23,0,N/A,N/A,N/A
+85,LeBron James,FG_UNASSISTED,None,2:29,1,Lakers,Warriors,27 - 23,0,16,2,Jumper
+86,Jonas Jerebko,FG_MISS,None,2:14,1,Warriors,Lakers,27 - 23,1,21,2,Jumper
+87,Kyle Kuzma,DEFENSIVE_REBOUND,None,2:13,1,Lakers,Warriors,27 - 23,0,N/A,N/A,N/A
+88,LeBron James,FG_MISS,None,2:05,1,Lakers,Warriors,27 - 23,0,26,3,Jumper
+89,Kevin Durant,DEFENSIVE_REBOUND,None,2:03,1,Warriors,Lakers,27 - 23,1,N/A,N/A,N/A
+90,Shaun Livingston,FG_UNASSISTED,None,1:57,1,Warriors,Lakers,27 - 25,1,8,2,Jumper
+91,Kyle Kuzma,FG_MISS,None,1:36,1,Lakers,Warriors,27 - 25,0, ,3,Jumper
+92,Jonas Jerebko,DEFENSIVE_REBOUND,None,1:34,1,Warriors,Lakers,27 - 25,1,N/A,N/A,N/A
+93,Shaun Livingston,FG_MISS,None,1:27,1,Warriors,Lakers,27 - 25,1,16,2,Jumper
+94,Rajon Rondo,DEFENSIVE_REBOUND,None,1:26,1,Lakers,Warriors,27 - 25,0,N/A,N/A,N/A
+95,Rajon Rondo,FG_MISS,None,1:16,1,Lakers,Warriors,27 - 25,0, ,2,Jumper
+96,Team,DEFENSIVE_REBOUND,None,1:15,1,Warriors,Lakers,27 - 25,1,N/A,N/A,N/A
+97,Tyson Chandler,FOUL_ON_FLOOR,None,1:15,1,Lakers,Warriors,27 - 25,0,N/A,N/A,N/A
+98,Kentavious Caldwell-Pope,SUBSTITUTION,James LeBron,1:15,1,Lakers,Warriors,27 - 25,0,N/A,N/A,N/A
+99,Jonas Jerebko,FG_MISS,None,52.1,1,Warriors,Lakers,27 - 25,1,27,3,Jumper
+100,Team,OFFENSIVE_REBOUND,None,51.8,1,Warriors,Lakers,27 - 25,1,N/A,N/A,N/A
+101,shot clock,TURNOVER,None,51.8,1,Warriors,Lakers,27 - 25,1,N/A,N/A,N/A
+102,Josh Hart,FG_ASSISTED,Rajon Rondo,40.6,1,Lakers,Warriors,30 - 25,0,25,3,Jumper
+103,Jonas Jerebko,FG_MISS,None,31.8,1,Warriors,Lakers,30 - 25,1,25,3,Jumper
+104,Tyson Chandler,DEFENSIVE_REBOUND,None,29.3,1,Lakers,Warriors,30 - 25,0,N/A,N/A,N/A
+105,Rajon Rondo,FG_UNASSISTED,None,6.9,1,Lakers,Warriors,32 - 25,0,11,2,Jumper
+106,Kevin Durant,FG_MISS,None,1.5,1,Warriors,Lakers,32 - 25,1,32,3,Jumper
+107,Team,OFFENSIVE_REBOUND,None,0.1,1,Warriors,Lakers,32 - 25,1,N/A,N/A,N/A
+108,End of,Unknown,None,0.0,1,Warriors,Lakers,32 - 25,1,N/A,N/A,N/A
+0,Kevon Looney,SUBSTITUTION,Iguodala Andre,12:00,3,Warriors,Lakers,65 - 50,1,N/A,N/A,N/A
+1,Brandon Ingram,SUBSTITUTION,Hart Josh,12:00,3,Lakers,Warriors,65 - 50,0,N/A,N/A,N/A
+2,Draymond Green,TURNOVER,None,11:48,3,Warriors,Lakers,65 - 50,1,N/A,N/A,N/A
+3,Draymond Green,FOUL_ON_FLOOR,None,11:33,3,Warriors,Lakers,65 - 50,1,N/A,N/A,N/A
+4,Brandon Ingram,FT,None,11:33,3,Lakers,Warriors,66 - 50,0,N/A,1,N/A
+5,Brandon Ingram,FT,None,11:33,3,Lakers,Warriors,67 - 50,0,N/A,1,N/A
+6,Kevon Looney,TURNOVER,None,11:20,3,Warriors,Lakers,67 - 50,1,N/A,N/A,N/A
+7,Klay Thompson,FOUL_ON_FLOOR,None,11:03,3,Warriors,Lakers,67 - 50,1,N/A,N/A,N/A
+8,Kyle Kuzma,FT,None,11:03,3,Lakers,Warriors,68 - 50,0,N/A,1,N/A
+9,Kyle Kuzma,FT_MISS,None,11:03,3,Lakers,Warriors,68 - 50,0,N/A,1,N/A
+10,Team,OFFENSIVE_REBOUND,None,11:03,3,Lakers,Warriors,68 - 50,0,N/A,N/A,N/A
+11,Kyle Kuzma,FT,None,11:03,3,Lakers,Warriors,69 - 50,0,N/A,1,N/A
+12,Draymond Green,FG_ASSISTED,Klay Thompson,10:53,3,Warriors,Lakers,69 - 52,1,0,2,Layup
+13,LeBron James,FOUL_ON_FLOOR,None,10:53,3,Lakers,Warriors,69 - 52,0,N/A,N/A,N/A
+14,Draymond Green,FT_MISS,None,10:53,3,Warriors,Lakers,69 - 52,1,N/A,1,N/A
+15,LeBron James,DEFENSIVE_REBOUND,None,10:51,3,Lakers,Warriors,69 - 52,0,N/A,N/A,N/A
+16,Draymond Green,Unknown,None,10:41,3,Warriors,Lakers,69 - 52,1,N/A,N/A,N/A
+17,Brandon Ingram,FG_MISS,None,10:31,3,Lakers,Warriors,69 - 52,0,27,3,Jumper
+18,Kevon Looney,DEFENSIVE_REBOUND,None,10:29,3,Warriors,Lakers,69 - 52,1,N/A,N/A,N/A
+19,Kevin Durant,FG_UNASSISTED,None,10:21,3,Warriors,Lakers,69 - 55,1,28,3,Jumper
+20,Stephen Curry,FOUL_ON_FLOOR,None,10:11,3,Warriors,Lakers,69 - 55,1,N/A,N/A,N/A
+21,LeBron James,FG_MISS,None,9:58,3,Lakers,Warriors,69 - 55,0,27,2,Jumper
+22,Team,DEFENSIVE_REBOUND,None,9:56,3,Warriors,Lakers,69 - 55,1,N/A,N/A,N/A
+23,Stephen Curry,FG_MISS,None,9:50,3,Warriors,Lakers,69 - 55,1,23,3,Jumper
+24,LeBron James,DEFENSIVE_REBOUND,None,9:48,3,Lakers,Warriors,69 - 55,0,N/A,N/A,N/A
+25,Ivica Zubac,FG_ASSISTED,Lonzo Ball,9:30,3,Lakers,Warriors,71 - 55,0, ,2,Jumper
+26,Draymond Green,TURNOVER,None,9:20,3,Warriors,Lakers,71 - 55,1,N/A,N/A,N/A
+27,Brandon Ingram,TURNOVER,None,9:05,3,Lakers,Warriors,71 - 55,0,N/A,N/A,N/A
+28,Kevon Looney,FG_ASSISTED,Kevin Durant,8:59,3,Warriors,Lakers,71 - 57,1,0,2,Dunk
+29,Team,Unknown,None,8:59,3,Lakers,Warriors,71 - 57,0,N/A,N/A,N/A
+30,Brandon Ingram,FG_MISS,None,8:45,3,Lakers,Warriors,71 - 57,0, ,2,Jumper
+31,Draymond Green,DEFENSIVE_REBOUND,None,8:44,3,Warriors,Lakers,71 - 57,1,N/A,N/A,N/A
+32,Brandon Ingram,FOUL_ON_FLOOR,None,8:35,3,Lakers,Warriors,71 - 57,0,N/A,N/A,N/A
+33,Josh Hart,SUBSTITUTION,Ingram Brandon,8:35,3,Lakers,Warriors,71 - 57,0,N/A,N/A,N/A
+34,Kevon Looney,FG_MISS,None,8:23,3,Warriors,Lakers,71 - 57,1,2,2,Jumper
+35,LeBron James,DEFENSIVE_REBOUND,None,8:22,3,Lakers,Warriors,71 - 57,0,N/A,N/A,N/A
+36,Kyle Kuzma,FG_MISS,None,8:13,3,Lakers,Warriors,71 - 57,0,27,3,Jumper
+37,Draymond Green,DEFENSIVE_REBOUND,None,8:11,3,Warriors,Lakers,71 - 57,1,N/A,N/A,N/A
+38,Draymond Green,FG_MISS,None,7:57,3,Warriors,Lakers,71 - 57,1, ,2,Jumper
+39,Ivica Zubac,DEFENSIVE_REBOUND,None,7:56,3,Lakers,Warriors,71 - 57,0,N/A,N/A,N/A
+40,Team,Unknown,None,7:51,3,Lakers,Warriors,71 - 57,0,N/A,N/A,N/A
+41,Kentavious Caldwell-Pope,SUBSTITUTION,James LeBron,7:51,3,Lakers,Warriors,71 - 57,0,N/A,N/A,N/A
+42,Kyle Kuzma,FG_ASSISTED,Lonzo Ball,7:42,3,Lakers,Warriors,73 - 57,0, ,2,Jumper
+43,Klay Thompson,FG_MISS,None,7:25,3,Warriors,Lakers,73 - 57,1,17,2,Jumper
+44,Lonzo Ball,DEFENSIVE_REBOUND,None,7:24,3,Lakers,Warriors,73 - 57,0,N/A,N/A,N/A
+45,Kyle Kuzma,FG_MISS,None,7:18,3,Lakers,Warriors,73 - 57,0,24,3,Jumper
+46,Draymond Green,DEFENSIVE_REBOUND,None,7:16,3,Warriors,Lakers,73 - 57,1,N/A,N/A,N/A
+47,Kevin Durant,FG_MISS,None,7:08,3,Warriors,Lakers,73 - 57,1,28,3,Jumper
+48,Ivica Zubac,DEFENSIVE_REBOUND,None,7:06,3,Lakers,Warriors,73 - 57,0,N/A,N/A,N/A
+49,Draymond Green,FOUL_ON_FLOOR,None,7:03,3,Warriors,Lakers,73 - 57,1,N/A,N/A,N/A
+50,Andre Iguodala,SUBSTITUTION,Green Draymond,7:03,3,Warriors,Lakers,73 - 57,1,N/A,N/A,N/A
+51,Kyle Kuzma,FG_MISS,None,6:51,3,Lakers,Warriors,73 - 57,0, ,2,Jumper
+52,Kevin Durant,DEFENSIVE_REBOUND,None,6:51,3,Warriors,Lakers,73 - 57,1,N/A,N/A,N/A
+53,Andre Iguodala,FG_ASSISTED,Kevin Durant,6:35,3,Warriors,Lakers,73 - 59,1,13,2,Jumper
+54,Lonzo Ball,FG_UNASSISTED,None,6:21,3,Lakers,Warriors,75 - 59,0, ,2,Jumper
+55,Team,Unknown,None,6:19,3,Warriors,Lakers,75 - 59,1,N/A,N/A,N/A
+56,Tyson Chandler,SUBSTITUTION,Zubac Ivica,6:19,3,Lakers,Warriors,75 - 59,0,N/A,N/A,N/A
+57,Kevin Durant,FG_UNASSISTED,None,6:05,3,Warriors,Lakers,75 - 61,1, ,2,Jumper
+58,Tyson Chandler,FOUL_ON_FLOOR,None,6:05,3,Lakers,Warriors,75 - 61,0,N/A,N/A,N/A
+59,Kevin Durant,FT,None,6:05,3,Warriors,Lakers,75 - 62,1,N/A,1,N/A
+60,Josh Hart,FG_MISS,None,5:55,3,Lakers,Warriors,75 - 62,0,27,3,Jumper
+61,Kevon Looney,DEFENSIVE_REBOUND,None,5:53,3,Warriors,Lakers,75 - 62,1,N/A,N/A,N/A
+62,Andre Iguodala,FG_MISS,None,5:43,3,Warriors,Lakers,75 - 62,1,25,3,Jumper
+63,Team,DEFENSIVE_REBOUND,None,5:40,3,Lakers,Warriors,75 - 62,0,N/A,N/A,N/A
+64,Klay Thompson,FOUL_ON_FLOOR,None,5:24,3,Warriors,Lakers,75 - 62,1,N/A,N/A,N/A
+65,Kyle Kuzma,FT_MISS,None,5:24,3,Lakers,Warriors,75 - 62,0,N/A,1,N/A
+66,Team,OFFENSIVE_REBOUND,None,5:24,3,Lakers,Warriors,75 - 62,0,N/A,N/A,N/A
+67,Kyle Kuzma,FT,None,5:24,3,Lakers,Warriors,76 - 62,0,N/A,1,N/A
+68,Stephen Curry,FG_MISS,None,5:13,3,Warriors,Lakers,76 - 62,1, ,2,Jumper
+69,Lonzo Ball,DEFENSIVE_REBOUND,None,5:12,3,Lakers,Warriors,76 - 62,0,N/A,N/A,N/A
+70,Kyle Kuzma,TURNOVER,None,5:08,3,Lakers,Warriors,76 - 62,0,N/A,N/A,N/A
+71,Stephen Curry,FG_MISS,None,4:59,3,Warriors,Lakers,76 - 62,1,0,2,Layup
+72,Kevon Looney,OFFENSIVE_REBOUND,None,4:55,3,Warriors,Lakers,76 - 62,1,N/A,N/A,N/A
+73,Kevon Looney,FG_MISS,None,4:55,3,Warriors,Lakers,76 - 62,1,0,2,Dunk
+74,Tyson Chandler,DEFENSIVE_REBOUND,None,4:55,3,Lakers,Warriors,76 - 62,0,N/A,N/A,N/A
+75,Josh Hart,TURNOVER,None,4:55,3,Lakers,Warriors,76 - 62,0,N/A,N/A,N/A
+76,Stephen Curry,FG_UNASSISTED,None,4:48,3,Warriors,Lakers,76 - 65,1,27,3,Jumper
+77,Kyle Kuzma,FG_MISS,None,4:26,3,Lakers,Warriors,76 - 65,0,31,3,Jumper
+78,Stephen Curry,DEFENSIVE_REBOUND,None,4:24,3,Warriors,Lakers,76 - 65,1,N/A,N/A,N/A
+79,Stephen Curry,FG_ASSISTED,Kevon Looney,4:17,3,Warriors,Lakers,76 - 68,1,23,3,Jumper
+80,Team,Unknown,None,4:15,3,Lakers,Warriors,76 - 68,0,N/A,N/A,N/A
+81,Rajon Rondo,SUBSTITUTION,Ball Lonzo,4:15,3,Lakers,Warriors,76 - 68,0,N/A,N/A,N/A
+82,Josh Hart,FG_MISS,None,4:00,3,Lakers,Warriors,76 - 68,0, ,2,Jumper
+83,Klay Thompson,DEFENSIVE_REBOUND,None,3:59,3,Warriors,Lakers,76 - 68,1,N/A,N/A,N/A
+84,Andre Iguodala,FG_ASSISTED,Stephen Curry,3:51,3,Warriors,Lakers,76 - 71,1, ,3,Jumper
+85,Kyle Kuzma,FG_MISS,None,3:28,3,Lakers,Warriors,76 - 71,0,0,2,Layup
+86,Andre Iguodala,DEFENSIVE_REBOUND,None,3:26,3,Warriors,Lakers,76 - 71,1,N/A,N/A,N/A
+87,Kevin Durant,FG_ASSISTED,Andre Iguodala,3:22,3,Warriors,Lakers,76 - 73,1,0,2,Dunk
+88,Kevon Looney,FOUL_ON_FLOOR,None,3:00,3,Warriors,Lakers,76 - 73,1,N/A,N/A,N/A
+89,Kyle Kuzma,FT,None,3:00,3,Lakers,Warriors,77 - 73,0,N/A,1,N/A
+90,Jordan Bell,SUBSTITUTION,Looney Kevon,3:00,3,Warriors,Lakers,77 - 73,1,N/A,N/A,N/A
+91,Shaun Livingston,SUBSTITUTION,Thompson Klay,3:00,3,Warriors,Lakers,77 - 73,1,N/A,N/A,N/A
+92,Lance Stephenson,SUBSTITUTION,Hart Josh,3:00,3,Lakers,Warriors,77 - 73,0,N/A,N/A,N/A
+93,Kyle Kuzma,FT,None,3:00,3,Lakers,Warriors,78 - 73,0,N/A,1,N/A
+94,Kyle Kuzma,FOUL_ON_FLOOR,None,2:48,3,Lakers,Warriors,78 - 73,0,N/A,N/A,N/A
+95,Stephen Curry,FT,None,2:48,3,Warriors,Lakers,78 - 74,1,N/A,1,N/A
+96,Stephen Curry,FT,None,2:48,3,Warriors,Lakers,78 - 75,1,N/A,1,N/A
+97,Brandon Ingram,SUBSTITUTION,Kuzma Kyle,2:48,3,Lakers,Warriors,78 - 75,0,N/A,N/A,N/A
+98,Stephen Curry,FT,None,2:48,3,Warriors,Lakers,78 - 76,1,N/A,1,N/A
+99,Rajon Rondo,FG_UNASSISTED,None,2:27,3,Lakers,Warriors,80 - 76,0,2,2,Jumper
+100,Stephen Curry,FG_MISS,None,2:17,3,Warriors,Lakers,80 - 76,1,29,3,Jumper
+101,Kentavious Caldwell-Pope,DEFENSIVE_REBOUND,None,2:15,3,Lakers,Warriors,80 - 76,0,N/A,N/A,N/A
+102,Stephen Curry,FOUL_ON_FLOOR,None,2:10,3,Warriors,Lakers,80 - 76,1,N/A,N/A,N/A
+103,Brandon Ingram,FT,None,2:10,3,Lakers,Warriors,81 - 76,0,N/A,1,N/A
+104,Jonas Jerebko,SUBSTITUTION,Curry Stephen,2:10,3,Warriors,Lakers,81 - 76,1,N/A,N/A,N/A
+105,Brandon Ingram,FT,None,2:10,3,Lakers,Warriors,82 - 76,0,N/A,1,N/A
+106,Jonas Jerebko,TURNOVER,Tyson Chandler,1:52,3,Warriors,Lakers,82 - 76,1,N/A,N/A,N/A
+107,Tyson Chandler,FG_MISS,None,1:43,3,Lakers,Warriors,82 - 76,0,0,2,Layup
+108,Andre Iguodala,DEFENSIVE_REBOUND,None,1:42,3,Warriors,Lakers,82 - 76,1,N/A,N/A,N/A
+109,Kentavious Caldwell-Pope,FOUL_ON_FLOOR,None,1:38,3,Lakers,Warriors,82 - 76,0,N/A,N/A,N/A
+110,Andre Iguodala,FT,None,1:38,3,Warriors,Lakers,82 - 77,1,N/A,1,N/A
+111,Andre Iguodala,FT,None,1:38,3,Warriors,Lakers,82 - 78,1,N/A,1,N/A
+112,Brandon Ingram,FG_UNASSISTED,None,1:20,3,Lakers,Warriors,84 - 78,0,17,2,Jumper
+113,Jonas Jerebko,FG_UNASSISTED,None,1:19,3,Warriors,Lakers,84 - 80,1,19,2,Jumper
+114,Kentavious Caldwell-Pope,FG_ASSISTED,Rajon Rondo,51.7,3,Lakers,Warriors,86 - 80,0,11,2,Jumper
+115,Jordan Bell,FG_ASSISTED,Kevin Durant,40.2,3,Warriors,Lakers,86 - 82,1,0,2,Layup
+116,Rajon Rondo,FG_UNASSISTED,None,27.6,3,Lakers,Warriors,88 - 82,0,8,2,Jumper
+117,Jonas Jerebko,FG_MISS,None,9.7,3,Warriors,Lakers,88 - 82,1,25,3,Jumper
+118,Tyson Chandler,DEFENSIVE_REBOUND,None,7.1,3,Lakers,Warriors,88 - 82,0,N/A,N/A,N/A
+119,Lance Stephenson,FG_ASSISTED,Rajon Rondo,2.9,3,Lakers,Warriors,91 - 82,0,29,2,Jumper
+120,End of,Unknown,None,0.0,3,Warriors,Lakers,91 - 82,1,N/A,N/A,N/A
+0,Draymond Green,SUBSTITUTION,Bell Jordan,12:00,4,Warriors,Lakers,91 - 82,1,N/A,N/A,N/A
+1,Stephen Curry,SUBSTITUTION,Durant Kevin,12:00,4,Warriors,Lakers,91 - 82,1,N/A,N/A,N/A
+2,Ivica Zubac,SUBSTITUTION,Chandler Tyson,12:00,4,Lakers,Warriors,91 - 82,0,N/A,N/A,N/A
+3,Rajon Rondo,FG_ASSISTED,Ivica Zubac,11:42,4,Lakers,Warriors,93 - 82,0,6,2,Jumper
+4,Stephen Curry,FG_MISS,None,11:27,4,Warriors,Lakers,93 - 82,1,27,3,Jumper
+5,Lance Stephenson,DEFENSIVE_REBOUND,None,11:25,4,Lakers,Warriors,93 - 82,0,N/A,N/A,N/A
+6,Lance Stephenson,FG_MISS,None,11:07,4,Lakers,Warriors,93 - 82,0,26,3,Jumper
+7,Ivica Zubac,OFFENSIVE_REBOUND,None,11:05,4,Lakers,Warriors,93 - 82,0,N/A,N/A,N/A
+8,Ivica Zubac,FG_UNASSISTED,None,11:02,4,Lakers,Warriors,95 - 82,0,0,2,Layup
+9,Shaun Livingston,TURNOVER,Kentavious Caldwell-Pope,10:42,4,Warriors,Lakers,95 - 82,1,N/A,N/A,N/A
+10,Brandon Ingram,FG_MISS,None,10:31,4,Lakers,Warriors,95 - 82,0,0,2,Layup
+11,Jonas Jerebko,DEFENSIVE_REBOUND,None,10:29,4,Warriors,Lakers,95 - 82,1,N/A,N/A,N/A
+12,Shaun Livingston,FG_MISS,None,10:22,4,Warriors,Lakers,95 - 82,1,4,2,Jumper
+13,Shaun Livingston,OFFENSIVE_REBOUND,None,10:21,4,Warriors,Lakers,95 - 82,1,N/A,N/A,N/A
+14,Shaun Livingston,FG_MISS,None,10:21,4,Warriors,Lakers,95 - 82,1,0,2,Layup
+15,Shaun Livingston,OFFENSIVE_REBOUND,None,10:20,4,Warriors,Lakers,95 - 82,1,N/A,N/A,N/A
+16,Ivica Zubac,FOUL_ON_FLOOR,None,10:19,4,Lakers,Warriors,95 - 82,0,N/A,N/A,N/A
+17,Shaun Livingston,FT_MISS,None,10:19,4,Warriors,Lakers,95 - 82,1,N/A,1,N/A
+18,Team,OFFENSIVE_REBOUND,None,10:19,4,Warriors,Lakers,95 - 82,1,N/A,N/A,N/A
+19,Klay Thompson,SUBSTITUTION,Jerebko Jonas,10:19,4,Warriors,Lakers,95 - 82,1,N/A,N/A,N/A
+20,Josh Hart,SUBSTITUTION,Stephenson Lance,10:19,4,Lakers,Warriors,95 - 82,0,N/A,N/A,N/A
+21,Shaun Livingston,FT,None,10:19,4,Warriors,Lakers,95 - 83,1,N/A,1,N/A
+22,Rajon Rondo,FG_ASSISTED,Ivica Zubac,9:58,4,Lakers,Warriors,98 - 83,0,28,3,Jumper
+23,Draymond Green,FG_MISS,Ivica Zubac,9:44,4,Lakers,Warriors,98 - 83,1,3,2,Jumper
+24,Team,OFFENSIVE_REBOUND,None,9:43,4,Warriors,Lakers,98 - 83,1,N/A,N/A,N/A
+25,Rajon Rondo,JUMP_BALL,None,9:40,4,Warriors,Lakers,98 - 83,1,N/A,N/A,N/A
+26,Ivica Zubac,Unknown,None,9:40,4,Lakers,Warriors,98 - 83,0,N/A,N/A,N/A
+27,Klay Thompson,TURNOVER,None,9:33,4,Warriors,Lakers,98 - 83,1,N/A,N/A,N/A
+28,Draymond Green,FOUL_ON_FLOOR,None,9:21,4,Warriors,Lakers,98 - 83,1,N/A,N/A,N/A
+29,Rajon Rondo,FT,None,9:21,4,Lakers,Warriors,99 - 83,0,N/A,1,N/A
+30,Kevin Durant,SUBSTITUTION,Iguodala Andre,9:21,4,Warriors,Lakers,99 - 83,1,N/A,N/A,N/A
+31,Kevon Looney,SUBSTITUTION,Green Draymond,9:21,4,Warriors,Lakers,99 - 83,1,N/A,N/A,N/A
+32,Rajon Rondo,FT,None,9:21,4,Lakers,Warriors,100 - 83,0,N/A,1,N/A
+33,Shaun Livingston,FG_ASSISTED,Stephen Curry,9:10,4,Warriors,Lakers,100 - 85,1,0,2,Dunk
+34,Kentavious Caldwell-Pope,FG_MISS,None,8:58,4,Lakers,Warriors,100 - 85,0,26,3,Jumper
+35,Klay Thompson,DEFENSIVE_REBOUND,None,8:56,4,Warriors,Lakers,100 - 85,1,N/A,N/A,N/A
+36,Kevin Durant,FG_MISS,None,8:45,4,Warriors,Lakers,100 - 85,1,27,3,Jumper
+37,Kentavious Caldwell-Pope,DEFENSIVE_REBOUND,None,8:43,4,Lakers,Warriors,100 - 85,0,N/A,N/A,N/A
+38,Rajon Rondo,FG_MISS,None,8:21,4,Lakers,Warriors,100 - 85,0,24,3,Jumper
+39,Kevin Durant,DEFENSIVE_REBOUND,None,8:19,4,Warriors,Lakers,100 - 85,1,N/A,N/A,N/A
+40,Kevin Durant,FG_MISS,None,8:10,4,Warriors,Lakers,100 - 85,1,0,2,Layup
+41,Rajon Rondo,DEFENSIVE_REBOUND,None,8:09,4,Lakers,Warriors,100 - 85,0,N/A,N/A,N/A
+42,Ivica Zubac,FG_ASSISTED,Kentavious Caldwell-Pope,8:04,4,Lakers,Warriors,102 - 85,0,0,2,Dunk
+43,Team,Unknown,None,8:03,4,Warriors,Lakers,102 - 85,1,N/A,N/A,N/A
+44,Kevin Durant,FG_MISS,None,7:51,4,Warriors,Lakers,102 - 85,1,26,3,Jumper
+45,Rajon Rondo,DEFENSIVE_REBOUND,None,7:47,4,Lakers,Warriors,102 - 85,0,N/A,N/A,N/A
+46,Shaun Livingston,FOUL_ON_FLOOR,None,7:35,4,Warriors,Lakers,102 - 85,1,N/A,N/A,N/A
+47,Brandon Ingram,FT_MISS,None,7:35,4,Lakers,Warriors,102 - 85,0,N/A,1,N/A
+48,Team,OFFENSIVE_REBOUND,None,7:35,4,Lakers,Warriors,102 - 85,0,N/A,N/A,N/A
+49,Alfonzo McKinnie,SUBSTITUTION,Livingston Shaun,7:35,4,Warriors,Lakers,102 - 85,1,N/A,N/A,N/A
+50,Brandon Ingram,FT,None,7:35,4,Lakers,Warriors,103 - 85,0,N/A,1,N/A
+51,Klay Thompson,FG_ASSISTED,Alfonzo McKinnie,7:24,4,Warriors,Lakers,103 - 87,1,15,2,Jumper
+52,Ivica Zubac,FG_ASSISTED,Rajon Rondo,7:03,4,Lakers,Warriors,105 - 87,0,0,2,Dunk
+53,Rajon Rondo,FOUL_ON_FLOOR,None,6:56,4,Lakers,Warriors,105 - 87,0,N/A,N/A,N/A
+54,Rajon Rondo,FOUL_ON_FLOOR,None,6:42,4,Lakers,Warriors,105 - 89,0,N/A,N/A,N/A
+55,Kevin Durant,FT,None,6:42,4,Warriors,Lakers,105 - 90,1,N/A,1,N/A
+56,Kevin Durant,FT,None,6:42,4,Warriors,Lakers,105 - 91,1,N/A,1,N/A
+57,Kyle Kuzma,SUBSTITUTION,Ingram Brandon,6:42,4,Lakers,Warriors,105 - 89,0,N/A,N/A,N/A
+58,Team,Unknown,None,6:42,4,Lakers,Warriors,105 - 89,0,N/A,N/A,N/A
+59,Rajon Rondo,FG_MISS,None,6:15,4,Lakers,Warriors,105 - 89,0, ,2,Jumper
+60,Ivica Zubac,OFFENSIVE_REBOUND,None,6:14,4,Lakers,Warriors,105 - 89,0,N/A,N/A,N/A
+61,Ivica Zubac,FG_UNASSISTED,None,6:11,4,Lakers,Warriors,107 - 89,0, ,2,Jumper
+62,Ivica Zubac,FOUL_ON_FLOOR,None,6:06,4,Lakers,Warriors,107 - 89,0,N/A,N/A,N/A
+63,Alfonzo McKinnie,FT,None,6:06,4,Warriors,Lakers,107 - 90,1,N/A,1,N/A
+64,Alfonzo McKinnie,FT_MISS,None,6:06,4,Warriors,Lakers,107 - 90,1,N/A,1,N/A
+65,Kyle Kuzma,DEFENSIVE_REBOUND,None,6:04,4,Lakers,Warriors,107 - 90,0,N/A,N/A,N/A
+66,Stephen Curry,FOUL_ON_FLOOR,None,5:51,4,Warriors,Lakers,107 - 90,1,N/A,N/A,N/A
+67,Draymond Green,SUBSTITUTION,McKinnie Alfonzo,5:51,4,Warriors,Lakers,107 - 90,1,N/A,N/A,N/A
+68,Rajon Rondo,FG_UNASSISTED,None,5:45,4,Lakers,Warriors,109 - 90,0, ,2,Jumper
+69,Draymond Green,FOUL_ON_FLOOR,None,5:36,4,Warriors,Lakers,109 - 90,1,N/A,N/A,N/A
+70,Draymond Green,TURNOVER,None,5:36,4,Warriors,Lakers,109 - 90,1,N/A,N/A,N/A
+71,Andre Iguodala,SUBSTITUTION,Green Draymond,5:36,4,Warriors,Lakers,109 - 90,1,N/A,N/A,N/A
+72,Kentavious Caldwell-Pope,FG_ASSISTED,Rajon Rondo,5:16,4,Lakers,Warriors,112 - 90,0,24,3,Jumper
+73,Kyle Kuzma,FOUL_ON_FLOOR,None,5:03,4,Lakers,Warriors,112 - 90,0,N/A,N/A,N/A
+74,Kevin Durant,FT,None,5:03,4,Warriors,Lakers,112 - 91,1,N/A,1,N/A
+75,Kevin Durant,FT,None,5:03,4,Warriors,Lakers,112 - 92,1,N/A,1,N/A
+76,Kyle Kuzma,FG_UNASSISTED,None,4:38,4,Lakers,Warriors,114 - 92,0,21,2,Jumper
+77,Kevon Looney,FG_ASSISTED,Andre Iguodala,4:16,4,Warriors,Lakers,114 - 94,1,0,2,Dunk
+78,Rajon Rondo,FG_MISS,None,3:54,4,Lakers,Warriors,114 - 94,0,26,2,Jumper
+79,Kevon Looney,DEFENSIVE_REBOUND,None,3:52,4,Warriors,Lakers,114 - 94,1,N/A,N/A,N/A
+80,Stephen Curry,FG_MISS,None,3:45,4,Warriors,Lakers,114 - 94,1,11,2,Jumper
+81,Ivica Zubac,DEFENSIVE_REBOUND,None,3:44,4,Lakers,Warriors,114 - 94,0,N/A,N/A,N/A
+82,Josh Hart,FG_ASSISTED,Rajon Rondo,3:36,4,Lakers,Warriors,117 - 94,0,27,3,Jumper
+83,Team,Unknown,None,3:34,4,Warriors,Lakers,117 - 94,1,N/A,N/A,N/A
+84,Quinn Cook,SUBSTITUTION,Looney Kevon,3:34,4,Warriors,Lakers,117 - 94,1,N/A,N/A,N/A
+85,Alfonzo McKinnie,SUBSTITUTION,Thompson Klay,3:34,4,Warriors,Lakers,117 - 94,1,N/A,N/A,N/A
+86,Damion Lee,SUBSTITUTION,Curry Stephen,3:34,4,Warriors,Lakers,117 - 94,1,N/A,N/A,N/A
+87,Jonas Jerebko,SUBSTITUTION,Durant Kevin,3:34,4,Warriors,Lakers,117 - 94,1,N/A,N/A,N/A
+88,Jordan Bell,SUBSTITUTION,Iguodala Andre,3:34,4,Warriors,Lakers,117 - 94,1,N/A,N/A,N/A
+89,Damion Lee,FG_ASSISTED,Jordan Bell,3:17,4,Warriors,Lakers,117 - 96,1,20,2,Jumper
+90,Jordan Bell,FOUL_ON_FLOOR,None,2:58,4,Warriors,Lakers,117 - 96,1,N/A,N/A,N/A
+91,Josh Hart,FG_MISS,None,2:44,4,Lakers,Warriors,117 - 96,0,28,3,Jumper
+92,Quinn Cook,DEFENSIVE_REBOUND,None,2:42,4,Warriors,Lakers,117 - 96,1,N/A,N/A,N/A
+93,Alfonzo McKinnie,FG_MISS,None,2:31,4,Warriors,Lakers,117 - 96,1, ,2,Jumper
+94,Kyle Kuzma,DEFENSIVE_REBOUND,None,2:30,4,Lakers,Warriors,117 - 96,0,N/A,N/A,N/A
+95,Kyle Kuzma,FG_MISS,None,2:10,4,Lakers,Warriors,117 - 96,0,11,2,Jumper
+96,Alfonzo McKinnie,DEFENSIVE_REBOUND,None,2:09,4,Warriors,Lakers,117 - 96,1,N/A,N/A,N/A
+97,Damion Lee,FG_MISS,None,2:03,4,Warriors,Lakers,117 - 96,1,23,3,Jumper
+98,Kyle Kuzma,DEFENSIVE_REBOUND,None,2:01,4,Lakers,Warriors,117 - 96,0,N/A,N/A,N/A
+99,Kyle Kuzma,FG_UNASSISTED,None,1:56,4,Lakers,Warriors,119 - 96,0,0,2,Layup
+100,Kentavious Caldwell-Pope,FOUL_ON_FLOOR,None,1:50,4,Lakers,Warriors,119 - 96,0,N/A,N/A,N/A
+101,Sviatoslav Mykhailiuk,SUBSTITUTION,Rondo Rajon,1:50,4,Lakers,Warriors,119 - 96,0,N/A,N/A,N/A
+102,Moritz Wagner,SUBSTITUTION,Zubac Ivica,1:50,4,Lakers,Warriors,119 - 96,0,N/A,N/A,N/A
+103,Quinn Cook,FT_MISS,None,1:50,4,Warriors,Lakers,119 - 96,1,N/A,1,N/A
+104,Team,OFFENSIVE_REBOUND,None,1:50,4,Warriors,Lakers,119 - 96,1,N/A,N/A,N/A
+105,Lonzo Ball,SUBSTITUTION,Kuzma Kyle,1:50,4,Lakers,Warriors,119 - 96,0,N/A,N/A,N/A
+106,Lance Stephenson,SUBSTITUTION,Caldwell-Pope Kentavious,1:50,4,Lakers,Warriors,119 - 96,0,N/A,N/A,N/A
+107,Quinn Cook,FT_MISS,None,1:50,4,Warriors,Lakers,119 - 96,1,N/A,1,N/A
+108,Josh Hart,DEFENSIVE_REBOUND,None,1:49,4,Lakers,Warriors,119 - 96,0,N/A,N/A,N/A
+109,Josh Hart,FG_ASSISTED,Moritz Wagner,1:32,4,Lakers,Warriors,121 - 96,0,0,2,Dunk
+110,Jordan Bell,TURNOVER,None,1:24,4,Warriors,Lakers,121 - 96,1,N/A,N/A,N/A
+111,Sviatoslav Mykhailiuk,FG_ASSISTED,Moritz Wagner,1:08,4,Lakers,Warriors,124 - 96,0,26,3,Jumper
+112,Quinn Cook,FG_MISS,None,1:01,4,Warriors,Lakers,124 - 96,1,26,3,Jumper
+113,Lonzo Ball,DEFENSIVE_REBOUND,None,59.8,4,Lakers,Warriors,124 - 96,0,N/A,N/A,N/A
+114,Sviatoslav Mykhailiuk,FG_ASSISTED,Lonzo Ball,47.5,4,Lakers,Warriors,127 - 96,0,27,3,Jumper
+115,Quinn Cook,FG_UNASSISTED,None,39.6,4,Warriors,Lakers,127 - 98,1,5,2,Jumper
+116,Lonzo Ball,FG_MISS,None,26.1,4,Lakers,Warriors,127 - 98,0,23,3,Jumper
+117,Team,DEFENSIVE_REBOUND,None,24.6,4,Warriors,Lakers,127 - 98,1,N/A,N/A,N/A
+118,Damion Lee,FG_UNASSISTED,None,4.3,4,Warriors,Lakers,127 - 100,1,0,2,Layup
+119,Lonzo Ball,FOUL_ON_FLOOR,None,4.3,4,Lakers,Warriors,127 - 100,0,N/A,N/A,N/A
+120,Damion Lee,FT,None,4.3,4,Warriors,Lakers,127 - 101,1,N/A,1,N/A
+121,End of,Unknown,None,0.0,4,Warriors,Lakers,127 - 101,1,N/A,N/A,N/A
+122,End of,Unknown,None,0.0,4,Warriors,Lakers,127 - 101,1,N/A,N/A,N/A

@@ -1,0 +1,480 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Jusuf Nurkic,JUMP_BALL,None,12:00,1,Jazz,Trail Blazers,0 - 0,1,N/A,N/A,N/A
+1,CJ McCollum,FOUL_ON_FLOOR,None,11:48,1,Trail Blazers,Jazz,0 - 0,0,N/A,N/A,N/A
+2,Royce O'Neale,FT,None,11:48,1,Jazz,Trail Blazers,0 - 1,1,N/A,1,N/A
+3,Royce O'Neale,FT,None,11:48,1,Jazz,Trail Blazers,0 - 2,1,N/A,1,N/A
+4,Rudy Gobert,SUBSTITUTION,Crowder Jae,11:48,1,Jazz,Trail Blazers,0 - 2,1,N/A,N/A,N/A
+5,Al-Farouq Aminu,FG_ASSISTED,Jusuf Nurkic,11:36,1,Trail Blazers,Jazz,2 - 2,0,0,2,Dunk
+6,Donovan Mitchell,TURNOVER,None,11:24,1,Jazz,Trail Blazers,2 - 2,1,N/A,N/A,N/A
+7,Maurice Harkless,FG_ASSISTED,Damian Lillard,11:10,1,Trail Blazers,Jazz,4 - 2,0,0,2,Layup
+8,Derrick Favors,FG_MISS,None,10:43,1,Jazz,Trail Blazers,4 - 2,1,26,3,Jumper
+9,Team,DEFENSIVE_REBOUND,None,10:39,1,Trail Blazers,Jazz,4 - 2,0,N/A,N/A,N/A
+10,Al-Farouq Aminu,FG_MISS,None,10:23,1,Trail Blazers,Jazz,4 - 2,0,25,3,Jumper
+11,Derrick Favors,DEFENSIVE_REBOUND,None,10:18,1,Jazz,Trail Blazers,4 - 2,1,N/A,N/A,N/A
+12,Rudy Gobert,FG_ASSISTED,Donovan Mitchell,10:04,1,Jazz,Trail Blazers,4 - 4,1,0,2,Dunk
+13,Jusuf Nurkic,FG_ASSISTED,Damian Lillard,9:53,1,Trail Blazers,Jazz,6 - 4,0,0,2,Layup
+14,CJ McCollum,FOUL_ON_FLOOR,None,9:44,1,Trail Blazers,Jazz,6 - 4,0,N/A,N/A,N/A
+15,Donovan Mitchell,FG_UNASSISTED,None,9:31,1,Jazz,Trail Blazers,6 - 6,1,0,2,Layup
+16,Maurice Harkless,FG_ASSISTED,Jusuf Nurkic,9:18,1,Trail Blazers,Jazz,8 - 6,0,0,2,Dunk
+17,Maurice Harkless,FOUL_ON_FLOOR,None,9:07,1,Trail Blazers,Jazz,8 - 6,0,N/A,N/A,N/A
+18,Rudy Gobert,FT,None,9:07,1,Jazz,Trail Blazers,8 - 7,1,N/A,1,N/A
+19,Rudy Gobert,FT_MISS,None,9:07,1,Jazz,Trail Blazers,8 - 7,1,N/A,1,N/A
+20,Al-Farouq Aminu,DEFENSIVE_REBOUND,None,9:06,1,Trail Blazers,Jazz,8 - 7,0,N/A,N/A,N/A
+21,Derrick Favors,FOUL_ON_FLOOR,None,8:56,1,Jazz,Trail Blazers,8 - 7,1,N/A,N/A,N/A
+22,Jusuf Nurkic,FT_MISS,None,8:56,1,Trail Blazers,Jazz,8 - 7,0,N/A,1,N/A
+23,Team,OFFENSIVE_REBOUND,None,8:56,1,Trail Blazers,Jazz,8 - 7,0,N/A,N/A,N/A
+24,Jusuf Nurkic,FT,None,8:56,1,Trail Blazers,Jazz,9 - 7,0,N/A,1,N/A
+25,Damian Lillard,FOUL_ON_FLOOR,None,8:42,1,Trail Blazers,Jazz,9 - 7,0,N/A,N/A,N/A
+26,Joe Ingles,FG_MISS,None,8:36,1,Jazz,Trail Blazers,9 - 7,1,25,3,Jumper
+27,Rudy Gobert,OFFENSIVE_REBOUND,None,8:31,1,Jazz,Trail Blazers,9 - 7,1,N/A,N/A,N/A
+28,Rudy Gobert,FG_UNASSISTED,None,8:31,1,Jazz,Trail Blazers,9 - 9,1,-,2,Jumper
+29,Jusuf Nurkic,FG_UNASSISTED,None,8:14,1,Trail Blazers,Jazz,11 - 9,0,9,2,Jumper
+30,Donovan Mitchell,FG_UNASSISTED,None,8:03,1,Jazz,Trail Blazers,11 - 12,1,25,2,Jumper
+31,CJ McCollum,FG_MISS,None,7:47,1,Trail Blazers,Jazz,11 - 12,0, ,2,Jumper
+32,Derrick Favors,DEFENSIVE_REBOUND,None,7:44,1,Jazz,Trail Blazers,11 - 12,1,N/A,N/A,N/A
+33,Derrick Favors,FG_MISS,None,7:30,1,Jazz,Trail Blazers,11 - 12,1,0,2,Layup
+34,Donovan Mitchell,OFFENSIVE_REBOUND,None,7:27,1,Jazz,Trail Blazers,11 - 12,1,N/A,N/A,N/A
+35,Joe Ingles,FG_UNASSISTED,None,7:21,1,Jazz,Trail Blazers,11 - 14,1,0,2,Layup
+36,Team,Unknown,None,7:20,1,Trail Blazers,Jazz,11 - 14,0,N/A,N/A,N/A
+37,Jake Layman,SUBSTITUTION,McCollum CJ,7:20,1,Trail Blazers,Jazz,11 - 14,0,N/A,N/A,N/A
+38,Jusuf Nurkic,FG_MISS,None,7:00,1,Trail Blazers,Jazz,11 - 14,0, ,2,Jumper
+39,Maurice Harkless,OFFENSIVE_REBOUND,None,6:57,1,Trail Blazers,Jazz,11 - 14,0,N/A,N/A,N/A
+40,Jake Layman,FG_MISS,None,6:56,1,Trail Blazers,Jazz,11 - 14,0,23,2,Jumper
+41,Team,OFFENSIVE_REBOUND,None,6:56,1,Trail Blazers,Jazz,11 - 14,0,N/A,N/A,N/A
+42,shot clock,TURNOVER,None,6:54,1,Trail Blazers,Jazz,11 - 14,0,N/A,N/A,N/A
+43,Royce O'Neale,FG_MISS,None,6:42,1,Jazz,Trail Blazers,11 - 14,1,0,2,Layup
+44,Team,OFFENSIVE_REBOUND,None,6:41,1,Jazz,Trail Blazers,11 - 14,1,N/A,N/A,N/A
+45,Donovan Mitchell,FOUL_ON_FLOOR,None,6:41,1,Jazz,Trail Blazers,11 - 14,1,N/A,N/A,N/A
+46,Donovan Mitchell,TURNOVER,None,6:41,1,Jazz,Trail Blazers,11 - 14,1,N/A,N/A,N/A
+47,Jae Crowder,SUBSTITUTION,Favors Derrick,6:41,1,Jazz,Trail Blazers,11 - 14,1,N/A,N/A,N/A
+48,Jake Layman,FG_ASSISTED,Damian Lillard,6:30,1,Trail Blazers,Jazz,13 - 14,0,0,2,Layup
+49,Jae Crowder,FG_ASSISTED,Joe Ingles,6:10,1,Jazz,Trail Blazers,13 - 17,1,25,3,Jumper
+50,Damian Lillard,TURNOVER,Royce O'Neale,5:55,1,Trail Blazers,Jazz,13 - 17,0,N/A,N/A,N/A
+51,Jae Crowder,FG_ASSISTED,Joe Ingles,5:50,1,Jazz,Trail Blazers,13 - 19,1, ,2,Jumper
+52,Damian Lillard,FG_UNASSISTED,None,5:29,1,Trail Blazers,Jazz,15 - 19,0,7,2,Jumper
+53,Rudy Gobert,TURNOVER,None,5:17,1,Jazz,Trail Blazers,15 - 19,1,N/A,N/A,N/A
+54,Kyle Korver,SUBSTITUTION,Ingles Joe,5:17,1,Jazz,Trail Blazers,15 - 19,1,N/A,N/A,N/A
+55,Evan Turner,SUBSTITUTION,Harkless Maurice,5:17,1,Trail Blazers,Jazz,15 - 19,0,N/A,N/A,N/A
+56,Jusuf Nurkic,FG_MISS,None,5:03,1,Trail Blazers,Jazz,15 - 19,0,8,2,Jumper
+57,Al-Farouq Aminu,OFFENSIVE_REBOUND,None,4:58,1,Trail Blazers,Jazz,15 - 19,0,N/A,N/A,N/A
+58,Evan Turner,FG_ASSISTED,Al-Farouq Aminu,4:56,1,Trail Blazers,Jazz,17 - 19,0,0,2,Layup
+59,Donovan Mitchell,FG_MISS,None,4:38,1,Jazz,Trail Blazers,17 - 19,1,25,3,Jumper
+60,Jusuf Nurkic,DEFENSIVE_REBOUND,None,4:35,1,Trail Blazers,Jazz,17 - 19,0,N/A,N/A,N/A
+61,Jake Layman,FG_MISS,None,4:26,1,Trail Blazers,Jazz,17 - 19,0,20,2,Jumper
+62,Kyle Korver,DEFENSIVE_REBOUND,None,4:23,1,Jazz,Trail Blazers,17 - 19,1,N/A,N/A,N/A
+63,Donovan Mitchell,TURNOVER,None,4:15,1,Jazz,Trail Blazers,17 - 19,1,N/A,N/A,N/A
+64,Ricky Rubio,SUBSTITUTION,O'Neale Royce,4:15,1,Jazz,Trail Blazers,17 - 19,1,N/A,N/A,N/A
+65,Damian Lillard,FG_MISS,None,4:03,1,Trail Blazers,Jazz,17 - 19,0,19,2,Jumper
+66,Jae Crowder,DEFENSIVE_REBOUND,None,4:00,1,Jazz,Trail Blazers,17 - 19,1,N/A,N/A,N/A
+67,Jae Crowder,FG_MISS,None,3:53,1,Jazz,Trail Blazers,17 - 19,1,11,2,Jumper
+68,Rudy Gobert,OFFENSIVE_REBOUND,None,3:51,1,Jazz,Trail Blazers,17 - 19,1,N/A,N/A,N/A
+69,Evan Turner,FOUL_ON_FLOOR,None,3:51,1,Trail Blazers,Jazz,17 - 19,0,N/A,N/A,N/A
+70,Rudy Gobert,FT,None,3:51,1,Jazz,Trail Blazers,17 - 20,1,N/A,1,N/A
+71,Zach Collins,SUBSTITUTION,Aminu Al-Farouq,3:51,1,Trail Blazers,Jazz,17 - 20,0,N/A,N/A,N/A
+72,Meyers Leonard,SUBSTITUTION,Nurkic Jusuf,3:51,1,Trail Blazers,Jazz,17 - 20,0,N/A,N/A,N/A
+73,Rudy Gobert,FT_MISS,None,3:51,1,Jazz,Trail Blazers,17 - 20,1,N/A,1,N/A
+74,Meyers Leonard,DEFENSIVE_REBOUND,None,3:48,1,Trail Blazers,Jazz,17 - 20,0,N/A,N/A,N/A
+75,Evan Turner,FG_UNASSISTED,None,3:40,1,Trail Blazers,Jazz,19 - 20,0,0,2,Layup
+76,Donovan Mitchell,FG_ASSISTED,Rudy Gobert,3:29,1,Jazz,Trail Blazers,19 - 22,1,4,2,Jumper
+77,Evan Turner,FG_UNASSISTED,None,3:07,1,Trail Blazers,Jazz,21 - 22,0,10,2,Jumper
+78,Donovan Mitchell,FG_UNASSISTED,None,2:52,1,Jazz,Trail Blazers,21 - 24,1,0,2,Layup
+79,Donovan Mitchell,FOUL_ON_FLOOR,None,2:34,1,Jazz,Trail Blazers,21 - 24,1,N/A,N/A,N/A
+80,Team,Unknown,None,2:34,1,Jazz,Trail Blazers,21 - 24,1,N/A,N/A,N/A
+81,Derrick Favors,SUBSTITUTION,Gobert Rudy,2:34,1,Jazz,Trail Blazers,21 - 24,1,N/A,N/A,N/A
+82,Joe Ingles,SUBSTITUTION,Mitchell Donovan,2:34,1,Jazz,Trail Blazers,21 - 24,1,N/A,N/A,N/A
+83,Damian Lillard,FT,None,2:34,1,Trail Blazers,Jazz,22 - 24,0,N/A,1,N/A
+84,Damian Lillard,FT,None,2:34,1,Trail Blazers,Jazz,23 - 24,0,N/A,1,N/A
+85,Kyle Korver,FG_MISS,Jake Layman,2:22,1,Trail Blazers,Jazz,23 - 24,1,25,3,Jumper
+86,Damian Lillard,DEFENSIVE_REBOUND,None,2:19,1,Trail Blazers,Jazz,23 - 24,0,N/A,N/A,N/A
+87,Damian Lillard,FG_UNASSISTED,None,2:14,1,Trail Blazers,Jazz,25 - 24,0,0,2,Layup
+88,Ricky Rubio,FG_MISS,None,2:01,1,Jazz,Trail Blazers,25 - 24,1,25,3,Jumper
+89,Damian Lillard,DEFENSIVE_REBOUND,None,1:57,1,Trail Blazers,Jazz,25 - 24,0,N/A,N/A,N/A
+90,Ricky Rubio,FOUL_ON_FLOOR,None,1:53,1,Jazz,Trail Blazers,25 - 24,1,N/A,N/A,N/A
+91,Meyers Leonard,FG_ASSISTED,Zach Collins,1:40,1,Trail Blazers,Jazz,27 - 24,0,0,2,Dunk
+92,Kyle Korver,FG_ASSISTED,Jae Crowder,1:22,1,Jazz,Trail Blazers,27 - 26,1,22,2,Jumper
+93,Zach Collins,FG_MISS,None,1:03,1,Trail Blazers,Jazz,27 - 26,0,19,2,Jumper
+94,Kyle Korver,DEFENSIVE_REBOUND,None,1:00,1,Jazz,Trail Blazers,27 - 26,1,N/A,N/A,N/A
+95,Ricky Rubio,TURNOVER,None,46.8,1,Jazz,Trail Blazers,27 - 26,1,N/A,N/A,N/A
+96,CJ McCollum,SUBSTITUTION,Leonard Meyers,46.8,1,Trail Blazers,Jazz,27 - 26,0,N/A,N/A,N/A
+97,Damian Lillard,FG_UNASSISTED,None,34.0,1,Trail Blazers,Jazz,29 - 26,0,21,2,Jumper
+98,Derrick Favors,FG_ASSISTED,Joe Ingles,13.8,1,Jazz,Trail Blazers,29 - 28,1,0,2,Layup
+99,Evan Turner,FG_MISS,None,0.0,1,Trail Blazers,Jazz,29 - 28,0,3,2,Jumper
+100,Team,OFFENSIVE_REBOUND,None,0.0,1,Trail Blazers,Jazz,29 - 28,0,N/A,N/A,N/A
+101,End of,Unknown,None,0.0,1,Jazz,Trail Blazers,29 - 28,1,N/A,N/A,N/A
+0,Seth Curry,SUBSTITUTION,Lillard Damian,12:00,2,Trail Blazers,Jazz,29 - 28,0,N/A,N/A,N/A
+1,Meyers Leonard,SUBSTITUTION,Layman Jake,12:00,2,Trail Blazers,Jazz,29 - 28,0,N/A,N/A,N/A
+2,Zach Collins,FG_MISS,None,11:46,2,Trail Blazers,Jazz,29 - 28,0,0,2,Layup
+3,Derrick Favors,DEFENSIVE_REBOUND,None,11:44,2,Jazz,Trail Blazers,29 - 28,1,N/A,N/A,N/A
+4,Ricky Rubio,TURNOVER,None,11:33,2,Jazz,Trail Blazers,29 - 28,1,N/A,N/A,N/A
+5,Zach Collins,FG_MISS,Derrick Favors,11:16,2,Jazz,Trail Blazers,29 - 28,0,2,2,Jumper
+6,Joe Ingles,DEFENSIVE_REBOUND,None,11:14,2,Jazz,Trail Blazers,29 - 28,1,N/A,N/A,N/A
+7,Meyers Leonard,FOUL_ON_FLOOR,None,11:09,2,Trail Blazers,Jazz,29 - 28,0,N/A,N/A,N/A
+8,Ricky Rubio,FT,None,11:09,2,Jazz,Trail Blazers,29 - 29,1,N/A,1,N/A
+9,Ricky Rubio,FT,None,11:09,2,Jazz,Trail Blazers,29 - 30,1,N/A,1,N/A
+10,Meyers Leonard,FG_MISS,None,10:54,2,Trail Blazers,Jazz,29 - 30,0,9,2,Jumper
+11,Derrick Favors,DEFENSIVE_REBOUND,None,10:51,2,Jazz,Trail Blazers,29 - 30,1,N/A,N/A,N/A
+12,Ricky Rubio,FG_ASSISTED,Derrick Favors,10:39,2,Jazz,Trail Blazers,29 - 33,1, ,3,Jumper
+13,Zach Collins,FG_MISS,None,10:25,2,Trail Blazers,Jazz,29 - 33,0, ,3,Jumper
+14,Ricky Rubio,DEFENSIVE_REBOUND,None,10:22,2,Jazz,Trail Blazers,29 - 33,1,N/A,N/A,N/A
+15,Ricky Rubio,TURNOVER,Zach Collins,10:14,2,Jazz,Trail Blazers,29 - 33,1,N/A,N/A,N/A
+16,CJ McCollum,FG_MISS,None,9:58,2,Trail Blazers,Jazz,29 - 33,0,23,2,Jumper
+17,Jae Crowder,DEFENSIVE_REBOUND,None,9:57,2,Jazz,Trail Blazers,29 - 33,1,N/A,N/A,N/A
+18,Derrick Favors,TURNOVER,Meyers Leonard,9:48,2,Jazz,Trail Blazers,29 - 33,1,N/A,N/A,N/A
+19,Ricky Rubio,FOUL_ON_FLOOR,None,9:41,2,Jazz,Trail Blazers,29 - 33,1,N/A,N/A,N/A
+20,Evan Turner,FOUL_TECHNICAL,None,9:41,2,Trail Blazers,Jazz,29 - 33,0,N/A,N/A,N/A
+21,Ricky Rubio,FT,None,9:41,2,Jazz,Trail Blazers,29 - 34,1,N/A,1,N/A
+22,Royce O'Neale,SUBSTITUTION,Rubio Ricky,9:41,2,Jazz,Trail Blazers,29 - 34,1,N/A,N/A,N/A
+23,Donovan Mitchell,SUBSTITUTION,Korver Kyle,9:41,2,Jazz,Trail Blazers,29 - 34,1,N/A,N/A,N/A
+24,Georges Niang,SUBSTITUTION,Crowder Jae,9:41,2,Jazz,Trail Blazers,29 - 34,1,N/A,N/A,N/A
+25,shot clock,TURNOVER,None,9:24,2,Trail Blazers,Jazz,29 - 34,0,N/A,N/A,N/A
+26,Team,Unknown,None,9:24,2,Trail Blazers,Jazz,29 - 34,0,N/A,N/A,N/A
+27,Joe Ingles,FG_MISS,None,9:10,2,Jazz,Trail Blazers,29 - 34,1,24,2,Jumper
+28,Meyers Leonard,DEFENSIVE_REBOUND,None,9:08,2,Trail Blazers,Jazz,29 - 34,0,N/A,N/A,N/A
+29,Evan Turner,FG_MISS,None,9:00,2,Trail Blazers,Jazz,29 - 34,0,20,2,Jumper
+30,Seth Curry,OFFENSIVE_REBOUND,None,8:56,2,Trail Blazers,Jazz,29 - 34,0,N/A,N/A,N/A
+31,Evan Turner,FG_ASSISTED,Seth Curry,8:49,2,Trail Blazers,Jazz,31 - 34,0,19,2,Jumper
+32,Donovan Mitchell,FG_UNASSISTED,None,8:37,2,Jazz,Trail Blazers,31 - 36,1,12,2,Jumper
+33,Seth Curry,FG_ASSISTED,Meyers Leonard,8:19,2,Trail Blazers,Jazz,34 - 36,0,28,3,Jumper
+34,Donovan Mitchell,FG_MISS,None,8:00,2,Jazz,Trail Blazers,34 - 36,1,25,3,Jumper
+35,CJ McCollum,DEFENSIVE_REBOUND,None,7:57,2,Trail Blazers,Jazz,34 - 36,0,N/A,N/A,N/A
+36,CJ McCollum,FG_MISS,None,7:52,2,Trail Blazers,Jazz,34 - 36,0,20,2,Jumper
+37,Donovan Mitchell,DEFENSIVE_REBOUND,None,7:49,2,Jazz,Trail Blazers,34 - 36,1,N/A,N/A,N/A
+38,Royce O'Neale,FG_ASSISTED,Donovan Mitchell,7:44,2,Jazz,Trail Blazers,34 - 38,1, ,2,Jumper
+39,CJ McCollum,FG_MISS,Derrick Favors,7:28,2,Jazz,Trail Blazers,34 - 38,0,0,2,Layup
+40,Royce O'Neale,DEFENSIVE_REBOUND,None,7:25,2,Jazz,Trail Blazers,34 - 38,1,N/A,N/A,N/A
+41,Georges Niang,FG_MISS,None,7:21,2,Jazz,Trail Blazers,34 - 38,1, ,2,Jumper
+42,Evan Turner,DEFENSIVE_REBOUND,None,7:19,2,Trail Blazers,Jazz,34 - 38,0,N/A,N/A,N/A
+43,Seth Curry,FG_MISS,None,7:04,2,Trail Blazers,Jazz,34 - 38,0,21,2,Jumper
+44,Derrick Favors,DEFENSIVE_REBOUND,None,7:02,2,Jazz,Trail Blazers,34 - 38,1,N/A,N/A,N/A
+45,Seth Curry,FOUL_ON_FLOOR,None,6:55,2,Trail Blazers,Jazz,34 - 38,0,N/A,N/A,N/A
+46,Rudy Gobert,SUBSTITUTION,Ingles Joe,6:55,2,Jazz,Trail Blazers,34 - 38,1,N/A,N/A,N/A
+47,Kyle Korver,SUBSTITUTION,Favors Derrick,6:55,2,Jazz,Trail Blazers,34 - 38,1,N/A,N/A,N/A
+48,Jae Crowder,SUBSTITUTION,Niang Georges,6:55,2,Jazz,Trail Blazers,34 - 38,1,N/A,N/A,N/A
+49,Jusuf Nurkic,SUBSTITUTION,Leonard Meyers,6:55,2,Trail Blazers,Jazz,34 - 38,0,N/A,N/A,N/A
+50,Al-Farouq Aminu,SUBSTITUTION,Collins Zach,6:55,2,Trail Blazers,Jazz,34 - 38,0,N/A,N/A,N/A
+51,Donovan Mitchell,FG_MISS,None,6:48,2,Jazz,Trail Blazers,34 - 38,1,14,2,Jumper
+52,Seth Curry,DEFENSIVE_REBOUND,None,6:44,2,Trail Blazers,Jazz,34 - 38,0,N/A,N/A,N/A
+53,Jusuf Nurkic,FG_MISS,None,6:38,2,Trail Blazers,Jazz,34 - 38,0,22,2,Jumper
+54,Rudy Gobert,DEFENSIVE_REBOUND,None,6:35,2,Jazz,Trail Blazers,34 - 38,1,N/A,N/A,N/A
+55,Royce O'Neale,FG_ASSISTED,Donovan Mitchell,6:29,2,Jazz,Trail Blazers,34 - 41,1, ,3,Jumper
+56,Kyle Korver,FOUL_ON_FLOOR,None,6:11,2,Jazz,Trail Blazers,34 - 41,1,N/A,N/A,N/A
+57,Damian Lillard,SUBSTITUTION,Turner Evan,6:11,2,Trail Blazers,Jazz,34 - 41,0,N/A,N/A,N/A
+58,Jusuf Nurkic,FG_MISS,Rudy Gobert,6:03,2,Jazz,Trail Blazers,34 - 41,0,0,2,Layup
+59,Jae Crowder,DEFENSIVE_REBOUND,None,6:01,2,Jazz,Trail Blazers,34 - 41,1,N/A,N/A,N/A
+60,Jae Crowder,FG_MISS,None,5:49,2,Jazz,Trail Blazers,34 - 41,1,25,2,Jumper
+61,Rudy Gobert,OFFENSIVE_REBOUND,None,5:46,2,Jazz,Trail Blazers,34 - 41,1,N/A,N/A,N/A
+62,Donovan Mitchell,FG_MISS,None,5:38,2,Jazz,Trail Blazers,34 - 41,1,15,2,Jumper
+63,Jae Crowder,OFFENSIVE_REBOUND,None,5:35,2,Jazz,Trail Blazers,34 - 41,1,N/A,N/A,N/A
+64,Jae Crowder,FG_UNASSISTED,None,5:35,2,Jazz,Trail Blazers,34 - 43,1,0,2,Dunk
+65,Team,Unknown,None,5:35,2,Trail Blazers,Jazz,34 - 43,0,N/A,N/A,N/A
+66,Maurice Harkless,SUBSTITUTION,Curry Seth,5:35,2,Trail Blazers,Jazz,34 - 43,0,N/A,N/A,N/A
+67,CJ McCollum,FG_MISS,None,5:22,2,Trail Blazers,Jazz,34 - 43,0,20,2,Jumper
+68,Donovan Mitchell,DEFENSIVE_REBOUND,None,5:19,2,Jazz,Trail Blazers,34 - 43,1,N/A,N/A,N/A
+69,Donovan Mitchell's,FG_MISS,Jusuf Nurkic,4:58,2,Trail Blazers,Jazz,34 - 43,1, ,2,Jumper
+70,Team,OFFENSIVE_REBOUND,None,4:58,2,Jazz,Trail Blazers,34 - 43,1,N/A,N/A,N/A
+71,Donovan Mitchell,FG_MISS,None,4:56,2,Jazz,Trail Blazers,34 - 43,1, ,2,Jumper
+72,Jusuf Nurkic,DEFENSIVE_REBOUND,None,4:53,2,Trail Blazers,Jazz,34 - 43,0,N/A,N/A,N/A
+73,Donovan Mitchell,FOUL_ON_FLOOR,None,4:48,2,Jazz,Trail Blazers,34 - 43,1,N/A,N/A,N/A
+74,Joe Ingles,SUBSTITUTION,Mitchell Donovan,4:48,2,Jazz,Trail Blazers,34 - 43,1,N/A,N/A,N/A
+75,Jusuf Nurkic,FG_MISS,Rudy Gobert,4:33,2,Jazz,Trail Blazers,34 - 43,0,2,2,Jumper
+76,Kyle Korver,DEFENSIVE_REBOUND,None,4:30,2,Jazz,Trail Blazers,34 - 43,1,N/A,N/A,N/A
+77,Jae Crowder,FG_ASSISTED,Rudy Gobert,4:21,2,Jazz,Trail Blazers,34 - 45,1,18,2,Jumper
+78,Damian Lillard,FG_MISS,None,4:08,2,Trail Blazers,Jazz,34 - 45,0,27,3,Jumper
+79,Team,OFFENSIVE_REBOUND,None,4:06,2,Trail Blazers,Jazz,34 - 45,0,N/A,N/A,N/A
+80,Damian Lillard,FG_ASSISTED,Jusuf Nurkic,4:01,2,Trail Blazers,Jazz,36 - 45,0,11,2,Jumper
+81,Team,Unknown,None,3:39,2,Jazz,Trail Blazers,36 - 45,1,N/A,N/A,N/A
+82,Jae Crowder,FG_MISS,None,3:37,2,Jazz,Trail Blazers,36 - 45,1, ,3,Jumper
+83,Damian Lillard,DEFENSIVE_REBOUND,None,3:34,2,Trail Blazers,Jazz,36 - 45,0,N/A,N/A,N/A
+84,Damian Lillard,FG_UNASSISTED,None,3:28,2,Trail Blazers,Jazz,38 - 45,0, ,2,Jumper
+85,Jae Crowder,FG_MISS,None,3:16,2,Jazz,Trail Blazers,38 - 45,1,0,2,Layup
+86,Rudy Gobert,OFFENSIVE_REBOUND,None,3:13,2,Jazz,Trail Blazers,38 - 45,1,N/A,N/A,N/A
+87,Rudy Gobert,FG_UNASSISTED,None,3:13,2,Jazz,Trail Blazers,38 - 47,1,0,2,Dunk
+88,Jusuf Nurkic,TURNOVER,Royce O'Neale,3:07,2,Trail Blazers,Jazz,38 - 47,0,N/A,N/A,N/A
+89,Rudy Gobert,FG_MISS,None,3:01,2,Jazz,Trail Blazers,38 - 47,1,0,2,Layup
+90,Al-Farouq Aminu,DEFENSIVE_REBOUND,None,2:57,2,Trail Blazers,Jazz,38 - 47,0,N/A,N/A,N/A
+91,CJ McCollum,FG_ASSISTED,Maurice Harkless,2:48,2,Trail Blazers,Jazz,40 - 47,0,11,2,Jumper
+92,Kyle Korver,FG_ASSISTED,Jae Crowder,2:29,2,Jazz,Trail Blazers,40 - 49,1,21,2,Jumper
+93,Kyle Korver,FOUL_ON_FLOOR,None,2:16,2,Jazz,Trail Blazers,40 - 49,1,N/A,N/A,N/A
+94,CJ McCollum,FG_MISS,None,2:08,2,Trail Blazers,Jazz,40 - 49,0,25,3,Jumper
+95,Jae Crowder,DEFENSIVE_REBOUND,None,2:06,2,Jazz,Trail Blazers,40 - 49,1,N/A,N/A,N/A
+96,Rudy Gobert,FG_MISS,Jusuf Nurkic,1:55,2,Trail Blazers,Jazz,40 - 49,1,0,2,Layup
+97,Team,OFFENSIVE_REBOUND,None,1:55,2,Jazz,Trail Blazers,40 - 49,1,N/A,N/A,N/A
+98,Kyle Korver,FG_ASSISTED,Joe Ingles,1:53,2,Jazz,Trail Blazers,40 - 51,1,21,2,Jumper
+99,Jusuf Nurkic,FG_MISS,None,1:35,2,Trail Blazers,Jazz,40 - 51,0, ,2,Jumper
+100,Rudy Gobert,DEFENSIVE_REBOUND,None,1:32,2,Jazz,Trail Blazers,40 - 51,1,N/A,N/A,N/A
+101,Kyle Korver,FG_MISS,None,1:28,2,Jazz,Trail Blazers,40 - 51,1,24,3,Jumper
+102,CJ McCollum,DEFENSIVE_REBOUND,None,1:24,2,Trail Blazers,Jazz,40 - 51,0,N/A,N/A,N/A
+103,Al-Farouq Aminu,FG_ASSISTED,Jusuf Nurkic,1:15,2,Trail Blazers,Jazz,42 - 51,0,0,2,Layup
+104,Jae Crowder,FG_MISS,None,56.3,2,Jazz,Trail Blazers,42 - 51,1,25,3,Jumper
+105,Damian Lillard,DEFENSIVE_REBOUND,None,52.1,2,Trail Blazers,Jazz,42 - 51,0,N/A,N/A,N/A
+106,Damian Lillard,FG_UNASSISTED,None,34.3,2,Trail Blazers,Jazz,44 - 51,0,21,2,Jumper
+107,Joe Ingles,FG_MISS,Al-Farouq Aminu,15.8,2,Trail Blazers,Jazz,44 - 51,1,0,2,Layup
+108,Team,OFFENSIVE_REBOUND,None,15.8,2,Jazz,Trail Blazers,44 - 51,1,N/A,N/A,N/A
+109,Evan Turner,SUBSTITUTION,McCollum CJ,15.8,2,Trail Blazers,Jazz,44 - 51,0,N/A,N/A,N/A
+110,Kyle Korver,FG_MISS,None,12.3,2,Jazz,Trail Blazers,44 - 51,1,23,3,Jumper
+111,Damian Lillard,DEFENSIVE_REBOUND,None,9.5,2,Trail Blazers,Jazz,44 - 51,0,N/A,N/A,N/A
+112,End of,Unknown,None,0.0,2,Jazz,Trail Blazers,44 - 51,1,N/A,N/A,N/A
+0,Derrick Favors,SUBSTITUTION,Korver Kyle,12:00,3,Jazz,Trail Blazers,44 - 51,1,N/A,N/A,N/A
+1,Donovan Mitchell,SUBSTITUTION,Crowder Jae,12:00,3,Jazz,Trail Blazers,44 - 51,1,N/A,N/A,N/A
+2,CJ McCollum,SUBSTITUTION,Turner Evan,12:00,3,Trail Blazers,Jazz,44 - 51,0,N/A,N/A,N/A
+3,Al-Farouq Aminu,FG_MISS,None,11:46,3,Trail Blazers,Jazz,44 - 51,0,25,3,Jumper
+4,Team,DEFENSIVE_REBOUND,None,11:43,3,Jazz,Trail Blazers,44 - 51,1,N/A,N/A,N/A
+5,Maurice Harkless,FOUL_ON_FLOOR,None,11:32,3,Trail Blazers,Jazz,44 - 51,0,N/A,N/A,N/A
+6,Rudy Gobert,TURNOVER,Maurice Harkless,11:27,3,Jazz,Trail Blazers,44 - 51,1,N/A,N/A,N/A
+7,Royce O'Neale,FOUL_ON_FLOOR,None,11:26,3,Jazz,Trail Blazers,44 - 51,1,N/A,N/A,N/A
+8,CJ McCollum,FG_ASSISTED,Damian Lillard,11:21,3,Trail Blazers,Jazz,47 - 51,0,26,3,Jumper
+9,Damian Lillard,FOUL_ON_FLOOR,None,11:11,3,Trail Blazers,Jazz,47 - 51,0,N/A,N/A,N/A
+10,Donovan Mitchell,FG_ASSISTED,Joe Ingles,11:03,3,Jazz,Trail Blazers,47 - 53,1,9,2,Jumper
+11,Derrick Favors,FOUL_ON_FLOOR,None,10:51,3,Jazz,Trail Blazers,47 - 53,1,N/A,N/A,N/A
+12,Jusuf Nurkic,FT_MISS,None,10:51,3,Trail Blazers,Jazz,47 - 53,0,N/A,1,N/A
+13,Team,OFFENSIVE_REBOUND,None,10:51,3,Trail Blazers,Jazz,47 - 53,0,N/A,N/A,N/A
+14,Jusuf Nurkic,FT,None,10:51,3,Trail Blazers,Jazz,48 - 53,0,N/A,1,N/A
+15,Royce O'Neale,FG_UNASSISTED,None,10:40,3,Jazz,Trail Blazers,48 - 55,1,0,2,Layup
+16,CJ McCollum,FG_ASSISTED,Jusuf Nurkic,10:27,3,Trail Blazers,Jazz,50 - 55,0, ,2,Jumper
+17,Derrick Favors,FG_MISS,None,10:11,3,Jazz,Trail Blazers,50 - 55,1,23,3,Jumper
+18,Jusuf Nurkic,DEFENSIVE_REBOUND,None,10:06,3,Trail Blazers,Jazz,50 - 55,0,N/A,N/A,N/A
+19,Damian Lillard,FG_UNASSISTED,None,9:58,3,Trail Blazers,Jazz,52 - 55,0,20,2,Jumper
+20,Team,Unknown,None,9:56,3,Jazz,Trail Blazers,52 - 55,1,N/A,N/A,N/A
+21,Donovan Mitchell,FG_MISS,None,9:39,3,Jazz,Trail Blazers,52 - 55,1,5,2,Jumper
+22,Jusuf Nurkic,DEFENSIVE_REBOUND,None,9:36,3,Trail Blazers,Jazz,52 - 55,0,N/A,N/A,N/A
+23,CJ McCollum's,FG_MISS,Derrick Favors,9:25,3,Jazz,Trail Blazers,52 - 55,0,0,2,Layup
+24,Donovan Mitchell,DEFENSIVE_REBOUND,None,9:23,3,Jazz,Trail Blazers,52 - 55,1,N/A,N/A,N/A
+25,Royce O'Neale,FG_ASSISTED,Donovan Mitchell,9:21,3,Jazz,Trail Blazers,52 - 57,1, ,2,Jumper
+26,Maurice Harkless,FOUL_ON_FLOOR,None,9:21,3,Trail Blazers,Jazz,52 - 57,0,N/A,N/A,N/A
+27,Royce O'Neale,FT_MISS,None,9:21,3,Jazz,Trail Blazers,52 - 57,1,N/A,1,N/A
+28,Team,OFFENSIVE_REBOUND,None,9:19,3,Jazz,Trail Blazers,52 - 57,1,N/A,N/A,N/A
+29,Rudy Gobert's,FG_MISS,Maurice Harkless,9:11,3,Trail Blazers,Jazz,52 - 57,1,0,2,Layup
+30,Team,OFFENSIVE_REBOUND,None,9:11,3,Jazz,Trail Blazers,52 - 57,1,N/A,N/A,N/A
+31,Donovan Mitchell,FG_MISS,None,9:03,3,Jazz,Trail Blazers,52 - 57,1,25,3,Jumper
+32,CJ McCollum,DEFENSIVE_REBOUND,None,9:01,3,Trail Blazers,Jazz,52 - 57,0,N/A,N/A,N/A
+33,Maurice Harkless,FG_ASSISTED,CJ McCollum,8:54,3,Trail Blazers,Jazz,54 - 57,0,0,2,Dunk
+34,Rudy Gobert,FG_MISS,Jusuf Nurkic,8:46,3,Trail Blazers,Jazz,54 - 57,1,0,2,Layup
+35,Damian Lillard,DEFENSIVE_REBOUND,None,8:43,3,Trail Blazers,Jazz,54 - 57,0,N/A,N/A,N/A
+36,Al-Farouq Aminu,FG_ASSISTED,CJ McCollum,8:38,3,Trail Blazers,Jazz,56 - 57,0,0,2,Dunk
+37,Donovan Mitchell,FG_MISS,None,8:23,3,Jazz,Trail Blazers,56 - 57,1,26,3,Jumper
+38,Jusuf Nurkic,DEFENSIVE_REBOUND,None,8:20,3,Trail Blazers,Jazz,56 - 57,0,N/A,N/A,N/A
+39,Damian Lillard,FG_MISS,None,8:11,3,Trail Blazers,Jazz,56 - 57,0,0,2,Layup
+40,Donovan Mitchell,DEFENSIVE_REBOUND,None,8:08,3,Jazz,Trail Blazers,56 - 57,1,N/A,N/A,N/A
+41,Royce O'Neale,FG_MISS,Jusuf Nurkic,8:01,3,Trail Blazers,Jazz,56 - 57,1,0,2,Layup
+42,Donovan Mitchell,OFFENSIVE_REBOUND,None,8:01,3,Jazz,Trail Blazers,56 - 57,1,N/A,N/A,N/A
+43,Jusuf Nurkic,FOUL_ON_FLOOR,None,7:58,3,Trail Blazers,Jazz,56 - 57,0,N/A,N/A,N/A
+44,Donovan Mitchell,FT,None,7:58,3,Jazz,Trail Blazers,56 - 58,1,N/A,1,N/A
+45,Jae Crowder,SUBSTITUTION,Favors Derrick,7:58,3,Jazz,Trail Blazers,56 - 58,1,N/A,N/A,N/A
+46,Donovan Mitchell,FT,None,7:58,3,Jazz,Trail Blazers,56 - 59,1,N/A,1,N/A
+47,Jusuf Nurkic,FG_MISS,None,7:41,3,Trail Blazers,Jazz,56 - 59,0,11,2,Jumper
+48,Rudy Gobert,DEFENSIVE_REBOUND,None,7:39,3,Jazz,Trail Blazers,56 - 59,1,N/A,N/A,N/A
+49,Joe Ingles,FG_MISS,Jusuf Nurkic,7:33,3,Trail Blazers,Jazz,56 - 59,1,0,2,Layup
+50,Team,OFFENSIVE_REBOUND,None,7:31,3,Jazz,Trail Blazers,56 - 59,1,N/A,N/A,N/A
+51,Donovan Mitchell,FG_ASSISTED,Rudy Gobert,7:25,3,Jazz,Trail Blazers,56 - 61,1,8,2,Jumper
+52,Royce O'Neale,FOUL_ON_FLOOR,None,7:13,3,Jazz,Trail Blazers,56 - 61,1,N/A,N/A,N/A
+53,Damian Lillard,FG_MISS,None,7:07,3,Trail Blazers,Jazz,56 - 61,0,27,3,Jumper
+54,Joe Ingles,DEFENSIVE_REBOUND,None,7:04,3,Jazz,Trail Blazers,56 - 61,1,N/A,N/A,N/A
+55,Jae Crowder,FG_ASSISTED,Royce O'Neale,6:56,3,Jazz,Trail Blazers,56 - 64,1,26,3,Jumper
+56,Al-Farouq Aminu,FG_UNASSISTED,None,6:34,3,Trail Blazers,Jazz,58 - 64,0, ,2,Jumper
+57,Al-Farouq Aminu,FOUL_TECHNICAL,None,6:33,3,Trail Blazers,Jazz,58 - 64,0,N/A,N/A,N/A
+58,Donovan Mitchell,FT_MISS,None,6:33,3,Jazz,Trail Blazers,58 - 64,1,N/A,1,N/A
+59,Team,OFFENSIVE_REBOUND,None,6:33,3,Jazz,Trail Blazers,58 - 64,1,N/A,N/A,N/A
+60,Kyle Korver,SUBSTITUTION,Ingles Joe,6:33,3,Jazz,Trail Blazers,58 - 64,1,N/A,N/A,N/A
+61,Rudy Gobert,FG_ASSISTED,Donovan Mitchell,6:17,3,Jazz,Trail Blazers,58 - 66,1,0,2,Dunk
+62,CJ McCollum,FG_UNASSISTED,None,6:06,3,Trail Blazers,Jazz,60 - 66,0,8,2,Jumper
+63,Jae Crowder,FOUL_TECHNICAL,None,6:01,3,Jazz,Trail Blazers,60 - 66,1,N/A,N/A,N/A
+64,Damian Lillard,FT,None,6:01,3,Trail Blazers,Jazz,61 - 66,0,N/A,1,N/A
+65,Jake Layman,SUBSTITUTION,Harkless Maurice,6:01,3,Trail Blazers,Jazz,61 - 66,0,N/A,N/A,N/A
+66,Rudy Gobert,TURNOVER,Jusuf Nurkic,5:41,3,Jazz,Trail Blazers,61 - 66,1,N/A,N/A,N/A
+67,Jusuf Nurkic,FG_ASSISTED,CJ McCollum,5:35,3,Trail Blazers,Jazz,63 - 66,0,2,2,Jumper
+68,Royce O'Neale,FOUL_ON_FLOOR,None,5:35,3,Jazz,Trail Blazers,63 - 66,1,N/A,N/A,N/A
+69,Jusuf Nurkic,FT,None,5:35,3,Trail Blazers,Jazz,64 - 66,0,N/A,1,N/A
+70,Donovan Mitchell,TURNOVER,None,5:21,3,Jazz,Trail Blazers,64 - 66,1,N/A,N/A,N/A
+71,CJ McCollum,FG_MISS,None,5:09,3,Trail Blazers,Jazz,64 - 66,0,13,2,Jumper
+72,Royce O'Neale,DEFENSIVE_REBOUND,None,5:06,3,Jazz,Trail Blazers,64 - 66,1,N/A,N/A,N/A
+73,Rudy Gobert's,FG_MISS,Jusuf Nurkic,4:59,3,Trail Blazers,Jazz,64 - 66,1,0,2,Layup
+74,Jusuf Nurkic,DEFENSIVE_REBOUND,None,4:57,3,Trail Blazers,Jazz,64 - 66,0,N/A,N/A,N/A
+75,Rudy Gobert,FOUL_ON_FLOOR,None,4:38,3,Jazz,Trail Blazers,64 - 66,1,N/A,N/A,N/A
+76,Rudy Gobert,FOUL_TECHNICAL,None,4:38,3,Jazz,Trail Blazers,64 - 66,1,N/A,N/A,N/A
+77,Damian Lillard,FT,None,4:38,3,Trail Blazers,Jazz,65 - 66,0,N/A,1,N/A
+78,Jusuf Nurkic,FT,None,4:38,3,Trail Blazers,Jazz,66 - 66,0,N/A,1,N/A
+79,Ricky Rubio,SUBSTITUTION,O'Neale Royce,4:38,3,Jazz,Trail Blazers,66 - 66,1,N/A,N/A,N/A
+80,Jusuf Nurkic,FT,None,4:38,3,Trail Blazers,Jazz,67 - 66,0,N/A,1,N/A
+81,CJ McCollum,FOUL_ON_FLOOR,None,4:31,3,Trail Blazers,Jazz,67 - 66,0,N/A,N/A,N/A
+82,Donovan Mitchell,FT,None,4:31,3,Jazz,Trail Blazers,67 - 67,1,N/A,1,N/A
+83,Donovan Mitchell,FT,None,4:31,3,Jazz,Trail Blazers,67 - 68,1,N/A,1,N/A
+84,Jusuf Nurkic,FG_ASSISTED,Damian Lillard,4:22,3,Trail Blazers,Jazz,69 - 68,0,0,2,Dunk
+85,Donovan Mitchell,FG_ASSISTED,Rudy Gobert,4:03,3,Jazz,Trail Blazers,69 - 71,1,25,3,Jumper
+86,CJ McCollum,FG_ASSISTED,Jusuf Nurkic,3:50,3,Trail Blazers,Jazz,71 - 71,0,0,2,Layup
+87,Donovan Mitchell,FOUL_ON_FLOOR,None,3:50,3,Jazz,Trail Blazers,71 - 71,1,N/A,N/A,N/A
+88,Team,Unknown,None,3:50,3,Jazz,Trail Blazers,71 - 71,1,N/A,N/A,N/A
+89,Joe Ingles,SUBSTITUTION,Mitchell Donovan,3:50,3,Jazz,Trail Blazers,71 - 71,1,N/A,N/A,N/A
+90,CJ McCollum,FT_MISS,None,3:50,3,Trail Blazers,Jazz,71 - 71,0,N/A,1,N/A
+91,Rudy Gobert,DEFENSIVE_REBOUND,None,3:48,3,Jazz,Trail Blazers,71 - 71,1,N/A,N/A,N/A
+92,Kyle Korver,FOUL_ON_FLOOR,None,3:40,3,Jazz,Trail Blazers,71 - 71,1,N/A,N/A,N/A
+93,Kyle Korver,TURNOVER,None,3:40,3,Jazz,Trail Blazers,71 - 71,1,N/A,N/A,N/A
+94,Jusuf Nurkic,FG_ASSISTED,Damian Lillard,3:24,3,Trail Blazers,Jazz,73 - 71,0,0,2,Layup
+95,Ricky Rubio,FG_ASSISTED,Joe Ingles,3:07,3,Jazz,Trail Blazers,73 - 73,1,0,2,Layup
+96,Jake Layman,FOUL_ON_FLOOR,None,3:07,3,Trail Blazers,Jazz,73 - 73,0,N/A,N/A,N/A
+97,Evan Turner,SUBSTITUTION,McCollum CJ,3:07,3,Trail Blazers,Jazz,73 - 73,0,N/A,N/A,N/A
+98,Ricky Rubio,FT_MISS,None,3:07,3,Jazz,Trail Blazers,73 - 73,1,N/A,1,N/A
+99,Ricky Rubio,OFFENSIVE_REBOUND,None,3:06,3,Jazz,Trail Blazers,73 - 73,1,N/A,N/A,N/A
+100,Jake Layman,FOUL_ON_FLOOR,None,3:03,3,Trail Blazers,Jazz,73 - 73,0,N/A,N/A,N/A
+101,Ricky Rubio,FT,None,3:03,3,Jazz,Trail Blazers,73 - 74,1,N/A,1,N/A
+102,Ricky Rubio,FT,None,3:03,3,Jazz,Trail Blazers,73 - 75,1,N/A,1,N/A
+103,Jusuf Nurkic,TURNOVER,None,2:56,3,Trail Blazers,Jazz,73 - 75,0,N/A,N/A,N/A
+104,Joe Ingles,FG_MISS,None,2:44,3,Jazz,Trail Blazers,73 - 75,1,26,3,Jumper
+105,Al-Farouq Aminu,DEFENSIVE_REBOUND,None,2:41,3,Trail Blazers,Jazz,73 - 75,0,N/A,N/A,N/A
+106,Jusuf Nurkic,TURNOVER,None,2:29,3,Trail Blazers,Jazz,73 - 75,0,N/A,N/A,N/A
+107,Jusuf Nurkic,TURNOVER,None,2:29,3,Trail Blazers,Jazz,73 - 75,0,N/A,N/A,N/A
+108,Ricky Rubio,FG_MISS,None,2:18,3,Jazz,Trail Blazers,73 - 75,1,26,3,Jumper
+109,Al-Farouq Aminu,DEFENSIVE_REBOUND,None,2:15,3,Trail Blazers,Jazz,73 - 75,0,N/A,N/A,N/A
+110,Jusuf Nurkic,FG_ASSISTED,Damian Lillard,2:08,3,Trail Blazers,Jazz,75 - 75,0,0,2,Layup
+111,Kyle Korver,FOUL_ON_FLOOR,None,2:08,3,Jazz,Trail Blazers,75 - 75,1,N/A,N/A,N/A
+112,Royce O'Neale,SUBSTITUTION,Korver Kyle,2:08,3,Jazz,Trail Blazers,75 - 75,1,N/A,N/A,N/A
+113,Derrick Favors,SUBSTITUTION,Gobert Rudy,2:08,3,Jazz,Trail Blazers,75 - 75,1,N/A,N/A,N/A
+114,Seth Curry,SUBSTITUTION,Aminu Al-Farouq,2:08,3,Trail Blazers,Jazz,75 - 75,0,N/A,N/A,N/A
+115,Jusuf Nurkic,FT,None,2:08,3,Trail Blazers,Jazz,76 - 75,0,N/A,1,N/A
+116,Derrick Favors,FOUL_ON_FLOOR,None,1:47,3,Jazz,Trail Blazers,76 - 75,1,N/A,N/A,N/A
+117,Derrick Favors,TURNOVER,None,1:47,3,Jazz,Trail Blazers,76 - 75,1,N/A,N/A,N/A
+118,Jusuf Nurkic,FG_ASSISTED,Damian Lillard,1:35,3,Trail Blazers,Jazz,78 - 75,0, ,2,Jumper
+119,Ricky Rubio,TURNOVER,Jake Layman,1:30,3,Jazz,Trail Blazers,78 - 75,1,N/A,N/A,N/A
+120,Damian Lillard,FG_MISS,None,1:24,3,Trail Blazers,Jazz,78 - 75,0, ,2,Jumper
+121,Jusuf Nurkic,OFFENSIVE_REBOUND,None,1:21,3,Trail Blazers,Jazz,78 - 75,0,N/A,N/A,N/A
+122,Jusuf Nurkic,FG_UNASSISTED,None,1:21,3,Trail Blazers,Jazz,80 - 75,0, ,2,Jumper
+123,Ricky Rubio,FG_ASSISTED,Derrick Favors,1:00,3,Jazz,Trail Blazers,80 - 77,1,0,2,Layup
+124,Jusuf Nurkic,TURNOVER,Ricky Rubio,46.9,3,Trail Blazers,Jazz,80 - 77,0,N/A,N/A,N/A
+125,Jake Layman,FOUL_ON_FLOOR,None,43.4,3,Trail Blazers,Jazz,80 - 77,0,N/A,N/A,N/A
+126,Derrick Favors,FT,None,43.4,3,Jazz,Trail Blazers,80 - 78,1,N/A,1,N/A
+127,Zach Collins,SUBSTITUTION,Nurkic Jusuf,43.4,3,Trail Blazers,Jazz,80 - 78,0,N/A,N/A,N/A
+128,Derrick Favors,FT,None,43.4,3,Jazz,Trail Blazers,80 - 79,1,N/A,1,N/A
+129,Damian Lillard,TURNOVER,None,32.6,3,Trail Blazers,Jazz,80 - 79,0,N/A,N/A,N/A
+130,Derrick Favors,FG_MISS,None,14.5,3,Jazz,Trail Blazers,80 - 79,1,0,2,Layup
+131,Derrick Favors,OFFENSIVE_REBOUND,None,12.7,3,Jazz,Trail Blazers,80 - 79,1,N/A,N/A,N/A
+132,Jae Crowder,FG_MISS,None,8.4,3,Jazz,Trail Blazers,80 - 79,1,26,3,Jumper
+133,Zach Collins,DEFENSIVE_REBOUND,None,5.0,3,Trail Blazers,Jazz,80 - 79,0,N/A,N/A,N/A
+134,Jake Layman,FG_ASSISTED,Evan Turner,1.5,3,Trail Blazers,Jazz,83 - 79,0,24,2,Jumper
+135,End of,Unknown,None,0.0,3,Jazz,Trail Blazers,83 - 79,1,N/A,N/A,N/A
+0,CJ McCollum,SUBSTITUTION,Lillard Damian,12:00,4,Trail Blazers,Jazz,83 - 79,0,N/A,N/A,N/A
+1,Derrick Favors,FG_ASSISTED,Ricky Rubio,11:41,4,Jazz,Trail Blazers,83 - 81,1,0,2,Dunk
+2,Jake Layman,FG_MISS,None,11:23,4,Trail Blazers,Jazz,83 - 81,0,0,2,Layup
+3,Jae Crowder,DEFENSIVE_REBOUND,None,11:22,4,Jazz,Trail Blazers,83 - 81,1,N/A,N/A,N/A
+4,Ricky Rubio,FG_MISS,None,11:11,4,Jazz,Trail Blazers,83 - 81,1,9,2,Jumper
+5,Derrick Favors,OFFENSIVE_REBOUND,None,11:10,4,Jazz,Trail Blazers,83 - 81,1,N/A,N/A,N/A
+6,Seth Curry,FOUL_ON_FLOOR,None,11:09,4,Trail Blazers,Jazz,83 - 81,0,N/A,N/A,N/A
+7,Derrick Favors,FT,None,11:09,4,Jazz,Trail Blazers,83 - 82,1,N/A,1,N/A
+8,Donovan Mitchell,SUBSTITUTION,O'Neale Royce,11:09,4,Jazz,Trail Blazers,83 - 82,1,N/A,N/A,N/A
+9,Derrick Favors,FT,None,11:09,4,Jazz,Trail Blazers,83 - 83,1,N/A,1,N/A
+10,Evan Turner,TURNOVER,Jae Crowder,10:58,4,Trail Blazers,Jazz,83 - 83,0,N/A,N/A,N/A
+11,Jae Crowder,FG_ASSISTED,Ricky Rubio,10:52,4,Jazz,Trail Blazers,83 - 86,1,25,3,Jumper
+12,Team,Unknown,None,10:49,4,Trail Blazers,Jazz,83 - 86,0,N/A,N/A,N/A
+13,Meyers Leonard,SUBSTITUTION,for game,10:49,4,Trail Blazers,Jazz,83 - 86,0,N/A,N/A,N/A
+14,enters the,SUBSTITUTION,Collins Zach,10:49,4,Trail Blazers,Jazz,83 - 86,0,N/A,N/A,N/A
+15,Jake Layman,FG_ASSISTED,Evan Turner,10:38,4,Trail Blazers,Jazz,86 - 86,0,26,3,Jumper
+16,Donovan Mitchell,FG_MISS,None,10:18,4,Jazz,Trail Blazers,86 - 86,1, ,2,Jumper
+17,Evan Turner,DEFENSIVE_REBOUND,None,10:15,4,Trail Blazers,Jazz,86 - 86,0,N/A,N/A,N/A
+18,CJ McCollum,FG_MISS,None,10:07,4,Trail Blazers,Jazz,86 - 86,0,26,3,Jumper
+19,Team,DEFENSIVE_REBOUND,None,10:07,4,Jazz,Trail Blazers,86 - 86,1,N/A,N/A,N/A
+20,Jae Crowder,FG_MISS,None,9:48,4,Jazz,Trail Blazers,86 - 86,1,25,3,Jumper
+21,Evan Turner,DEFENSIVE_REBOUND,None,9:45,4,Trail Blazers,Jazz,86 - 86,0,N/A,N/A,N/A
+22,Meyers Leonard,FG_ASSISTED,Seth Curry,9:37,4,Trail Blazers,Jazz,89 - 86,0,24,3,Jumper
+23,Team,Unknown,None,9:34,4,Jazz,Trail Blazers,89 - 86,1,N/A,N/A,N/A
+24,Royce O'Neale,SUBSTITUTION,Ingles Joe,9:34,4,Jazz,Trail Blazers,89 - 86,1,N/A,N/A,N/A
+25,Kyle Korver,SUBSTITUTION,Rubio Ricky,9:34,4,Jazz,Trail Blazers,89 - 86,1,N/A,N/A,N/A
+26,Kyle Korver,FG_MISS,None,9:22,4,Jazz,Trail Blazers,89 - 86,1,25,3,Jumper
+27,Evan Turner,DEFENSIVE_REBOUND,None,9:20,4,Trail Blazers,Jazz,89 - 86,0,N/A,N/A,N/A
+28,Evan Turner,FG_ASSISTED,CJ McCollum,9:07,4,Trail Blazers,Jazz,91 - 86,0,7,2,Jumper
+29,Donovan Mitchell,FG_MISS,None,8:53,4,Jazz,Trail Blazers,91 - 86,1, ,2,Jumper
+30,Evan Turner,DEFENSIVE_REBOUND,None,8:51,4,Trail Blazers,Jazz,91 - 86,0,N/A,N/A,N/A
+31,Jake Layman,FG_ASSISTED,Evan Turner,8:45,4,Trail Blazers,Jazz,93 - 86,0,0,2,Layup
+32,Seth Curry,FOUL_ON_FLOOR,None,8:29,4,Trail Blazers,Jazz,93 - 86,0,N/A,N/A,N/A
+33,Derrick Favors,FT,None,8:29,4,Jazz,Trail Blazers,93 - 87,1,N/A,1,N/A
+34,Georges Niang,SUBSTITUTION,Crowder Jae,8:29,4,Jazz,Trail Blazers,93 - 87,1,N/A,N/A,N/A
+35,Derrick Favors,FT,None,8:29,4,Jazz,Trail Blazers,93 - 88,1,N/A,1,N/A
+36,CJ McCollum,FG_MISS,None,8:17,4,Trail Blazers,Jazz,93 - 88,0,12,2,Jumper
+37,Derrick Favors,DEFENSIVE_REBOUND,None,8:15,4,Jazz,Trail Blazers,93 - 88,1,N/A,N/A,N/A
+38,Royce O'Neale,FG_MISS,None,8:09,4,Jazz,Trail Blazers,93 - 88,1,25,3,Jumper
+39,Jake Layman,DEFENSIVE_REBOUND,None,8:06,4,Trail Blazers,Jazz,93 - 88,0,N/A,N/A,N/A
+40,Meyers Leonard,FG_ASSISTED,Evan Turner,7:50,4,Trail Blazers,Jazz,96 - 88,0,24,3,Jumper
+41,Donovan Mitchell,FG_MISS,None,7:35,4,Jazz,Trail Blazers,96 - 88,1,0,2,Layup
+42,Derrick Favors,OFFENSIVE_REBOUND,None,7:32,4,Jazz,Trail Blazers,96 - 88,1,N/A,N/A,N/A
+43,Derrick Favors,FG_UNASSISTED,None,7:32,4,Jazz,Trail Blazers,96 - 90,1,0,2,Dunk
+44,shot clock,TURNOVER,None,7:05,4,Trail Blazers,Jazz,96 - 90,0,N/A,N/A,N/A
+45,Rudy Gobert,SUBSTITUTION,Favors Derrick,7:05,4,Jazz,Trail Blazers,96 - 90,1,N/A,N/A,N/A
+46,Donovan Mitchell,FG_MISS,None,6:46,4,Jazz,Trail Blazers,96 - 90,1,27,3,Jumper
+47,Seth Curry,DEFENSIVE_REBOUND,None,6:42,4,Trail Blazers,Jazz,96 - 90,0,N/A,N/A,N/A
+48,Jake Layman,FG_ASSISTED,Seth Curry,6:34,4,Trail Blazers,Jazz,98 - 90,0,0,2,Dunk
+49,Donovan Mitchell,FG_MISS,None,6:16,4,Jazz,Trail Blazers,98 - 90,1, ,2,Jumper
+50,Team,OFFENSIVE_REBOUND,None,6:15,4,Jazz,Trail Blazers,98 - 90,1,N/A,N/A,N/A
+51,Damian Lillard,SUBSTITUTION,Leonard Meyers,6:15,4,Trail Blazers,Jazz,98 - 90,0,N/A,N/A,N/A
+52,Jusuf Nurkic,SUBSTITUTION,Curry Seth,6:15,4,Trail Blazers,Jazz,98 - 90,0,N/A,N/A,N/A
+53,Kyle Korver,FG_MISS,None,6:13,4,Jazz,Trail Blazers,98 - 90,1,23,3,Jumper
+54,Damian Lillard,DEFENSIVE_REBOUND,None,6:10,4,Trail Blazers,Jazz,98 - 90,0,N/A,N/A,N/A
+55,Jusuf Nurkic,FG_MISS,None,5:58,4,Trail Blazers,Jazz,98 - 90,0,8,2,Jumper
+56,Kyle Korver,DEFENSIVE_REBOUND,None,5:56,4,Jazz,Trail Blazers,98 - 90,1,N/A,N/A,N/A
+57,Georges Niang,FG_MISS,None,5:48,4,Jazz,Trail Blazers,98 - 90,1,24,3,Jumper
+58,CJ McCollum,DEFENSIVE_REBOUND,None,5:44,4,Trail Blazers,Jazz,98 - 90,0,N/A,N/A,N/A
+59,Team,Unknown,None,5:38,4,Trail Blazers,Jazz,98 - 90,0,N/A,N/A,N/A
+60,Joe Ingles,SUBSTITUTION,Korver Kyle,5:38,4,Jazz,Trail Blazers,98 - 90,1,N/A,N/A,N/A
+61,Jae Crowder,SUBSTITUTION,Niang Georges,5:38,4,Jazz,Trail Blazers,98 - 90,1,N/A,N/A,N/A
+62,Jusuf Nurkic,TURNOVER,Donovan Mitchell,5:35,4,Trail Blazers,Jazz,98 - 90,0,N/A,N/A,N/A
+63,Royce O'Neale,FG_MISS,None,5:18,4,Jazz,Trail Blazers,98 - 90,1,5,2,Jumper
+64,Royce O'Neale,OFFENSIVE_REBOUND,None,5:15,4,Jazz,Trail Blazers,98 - 90,1,N/A,N/A,N/A
+65,Royce O'Neale,FG_MISS,None,5:15,4,Jazz,Trail Blazers,98 - 90,1, ,2,Jumper
+66,Evan Turner,DEFENSIVE_REBOUND,None,5:15,4,Trail Blazers,Jazz,98 - 90,0,N/A,N/A,N/A
+67,Damian Lillard,FG_UNASSISTED,None,5:05,4,Trail Blazers,Jazz,101 - 90,0,25,3,Jumper
+68,Jusuf Nurkic,FOUL_ON_FLOOR,None,4:50,4,Trail Blazers,Jazz,101 - 90,0,N/A,N/A,N/A
+69,Donovan Mitchell,FT,None,4:50,4,Jazz,Trail Blazers,101 - 91,1,N/A,1,N/A
+70,Donovan Mitchell,FT,None,4:50,4,Jazz,Trail Blazers,101 - 92,1,N/A,1,N/A
+71,Damian Lillard,FG_MISS,None,4:33,4,Trail Blazers,Jazz,101 - 92,0,29,3,Jumper
+72,Evan Turner,OFFENSIVE_REBOUND,None,4:30,4,Trail Blazers,Jazz,101 - 92,0,N/A,N/A,N/A
+73,Jake Layman,FG_MISS,None,4:21,4,Trail Blazers,Jazz,101 - 92,0,23,3,Jumper
+74,Royce O'Neale,DEFENSIVE_REBOUND,None,4:18,4,Jazz,Trail Blazers,101 - 92,1,N/A,N/A,N/A
+75,Donovan Mitchell,FG_MISS,None,4:10,4,Jazz,Trail Blazers,101 - 92,1, ,2,Jumper
+76,Team,OFFENSIVE_REBOUND,None,4:08,4,Jazz,Trail Blazers,101 - 92,1,N/A,N/A,N/A
+77,Rudy Gobert,TURNOVER,CJ McCollum,4:01,4,Jazz,Trail Blazers,101 - 92,1,N/A,N/A,N/A
+78,Damian Lillard,FG_UNASSISTED,None,3:39,4,Trail Blazers,Jazz,103 - 92,0,8,2,Jumper
+79,Jusuf Nurkic,FOUL_ON_FLOOR,None,3:25,4,Trail Blazers,Jazz,103 - 92,0,N/A,N/A,N/A
+80,Donovan Mitchell,FT,None,3:25,4,Jazz,Trail Blazers,103 - 93,1,N/A,1,N/A
+81,Donovan Mitchell,FT,None,3:25,4,Jazz,Trail Blazers,103 - 94,1,N/A,1,N/A
+82,Evan Turner,FG_MISS,Rudy Gobert,3:01,4,Jazz,Trail Blazers,103 - 94,0,0,2,Layup
+83,Jae Crowder,DEFENSIVE_REBOUND,None,2:59,4,Jazz,Trail Blazers,103 - 94,1,N/A,N/A,N/A
+84,Jae Crowder,FG_MISS,None,2:57,4,Jazz,Trail Blazers,103 - 94,1, ,2,Jumper
+85,Jake Layman,DEFENSIVE_REBOUND,None,2:54,4,Trail Blazers,Jazz,103 - 94,0,N/A,N/A,N/A
+86,CJ McCollum,FG_ASSISTED,Jusuf Nurkic,2:45,4,Trail Blazers,Jazz,106 - 94,0,27,3,Jumper
+87,Donovan Mitchell,FG_UNASSISTED,None,2:30,4,Jazz,Trail Blazers,106 - 96,1,13,2,Jumper
+88,CJ McCollum,FG_MISS,None,2:08,4,Trail Blazers,Jazz,106 - 96,0, ,2,Jumper
+89,Rudy Gobert,DEFENSIVE_REBOUND,None,2:05,4,Jazz,Trail Blazers,106 - 96,1,N/A,N/A,N/A
+90,Donovan Mitchell,FG_UNASSISTED,None,1:58,4,Jazz,Trail Blazers,106 - 98,1,11,2,Jumper
+91,Jusuf Nurkic,FOUL_ON_FLOOR,None,1:58,4,Trail Blazers,Jazz,106 - 98,0,N/A,N/A,N/A
+92,Donovan Mitchell,FT_MISS,None,1:58,4,Jazz,Trail Blazers,106 - 98,1,N/A,1,N/A
+93,Evan Turner,DEFENSIVE_REBOUND,None,1:57,4,Trail Blazers,Jazz,106 - 98,0,N/A,N/A,N/A
+94,Damian Lillard,FG_MISS,None,1:43,4,Trail Blazers,Jazz,106 - 98,0,13,2,Jumper
+95,Rudy Gobert,DEFENSIVE_REBOUND,None,1:41,4,Jazz,Trail Blazers,106 - 98,1,N/A,N/A,N/A
+96,Donovan Mitchell,FG_UNASSISTED,None,1:35,4,Jazz,Trail Blazers,106 - 100,1,0,2,Layup
+97,Team,Unknown,None,1:35,4,Trail Blazers,Jazz,106 - 100,0,N/A,N/A,N/A
+98,Joe Ingles,FOUL_ON_FLOOR,None,1:32,4,Jazz,Trail Blazers,106 - 100,1,N/A,N/A,N/A
+99,Damian Lillard,FG_UNASSISTED,None,1:17,4,Trail Blazers,Jazz,108 - 100,0,18,2,Jumper
+100,Donovan Mitchell,FG_UNASSISTED,None,1:06,4,Jazz,Trail Blazers,108 - 102,1,0,2,Layup
+101,Damian Lillard,FG_MISS,None,44.6,4,Trail Blazers,Jazz,108 - 102,0,0,2,Layup
+102,Jusuf Nurkic,OFFENSIVE_REBOUND,None,41.4,4,Trail Blazers,Jazz,108 - 102,0,N/A,N/A,N/A
+103,Jusuf Nurkic,FOUL_ON_FLOOR,None,41.4,4,Trail Blazers,Jazz,108 - 102,0,N/A,N/A,N/A
+104,Jusuf Nurkic,FG_MISS,Royce O'Neale,41.4,4,Jazz,Trail Blazers,108 - 102,0,0,2,Layup
+105,Donovan Mitchell,DEFENSIVE_REBOUND,None,41.4,4,Jazz,Trail Blazers,108 - 102,1,N/A,N/A,N/A
+106,Meyers Leonard,SUBSTITUTION,Nurkic Jusuf,41.4,4,Trail Blazers,Jazz,108 - 102,0,N/A,N/A,N/A
+107,Donovan Mitchell,FT,None,41.4,4,Jazz,Trail Blazers,108 - 103,1,N/A,1,N/A
+108,Donovan Mitchell,FT,None,41.4,4,Jazz,Trail Blazers,108 - 104,1,N/A,1,N/A
+109,Damian Lillard,FG_MISS,Rudy Gobert,19.0,4,Jazz,Trail Blazers,108 - 104,0,12,2,Jumper
+110,Damian Lillard,OFFENSIVE_REBOUND,None,16.5,4,Trail Blazers,Jazz,108 - 104,0,N/A,N/A,N/A
+111,Damian Lillard,FG_MISS,None,15.5,4,Trail Blazers,Jazz,108 - 104,0,0,2,Layup
+112,Rudy Gobert,DEFENSIVE_REBOUND,None,14.0,4,Jazz,Trail Blazers,108 - 104,1,N/A,N/A,N/A
+113,Joe Ingles,FG_MISS,None,10.5,4,Jazz,Trail Blazers,108 - 104,1,1,3,Jumper
+114,Jake Layman,DEFENSIVE_REBOUND,None,10.5,4,Trail Blazers,Jazz,108 - 104,0,N/A,N/A,N/A
+115,Royce O'Neale,FOUL_ON_FLOOR,None,5.8,4,Jazz,Trail Blazers,108 - 104,1,N/A,N/A,N/A
+116,Damian Lillard,FT,None,5.8,4,Trail Blazers,Jazz,109 - 104,0,N/A,1,N/A
+117,Damian Lillard,FT_MISS,None,5.8,4,Trail Blazers,Jazz,109 - 104,0,N/A,1,N/A
+118,Rudy Gobert,DEFENSIVE_REBOUND,None,5.2,4,Jazz,Trail Blazers,109 - 104,1,N/A,N/A,N/A
+119,Team,Unknown,None,5.2,4,Jazz,Trail Blazers,109 - 104,1,N/A,N/A,N/A
+120,Kyle Korver,SUBSTITUTION,O'Neale Royce,5.2,4,Jazz,Trail Blazers,109 - 104,1,N/A,N/A,N/A
+121,Al-Farouq Aminu,SUBSTITUTION,Leonard Meyers,5.2,4,Trail Blazers,Jazz,109 - 104,0,N/A,N/A,N/A
+122,Donovan Mitchell,FG_MISS,None,4.5,4,Jazz,Trail Blazers,109 - 104,1,36,3,Jumper
+123,Rudy Gobert,OFFENSIVE_REBOUND,None,4.5,4,Jazz,Trail Blazers,109 - 104,1,N/A,N/A,N/A
+124,Rudy Gobert,FG_MISS,None,0.0,4,Jazz,Trail Blazers,109 - 104,1,0,2,Layup
+125,Al-Farouq Aminu,DEFENSIVE_REBOUND,None,0.0,4,Trail Blazers,Jazz,109 - 104,0,N/A,N/A,N/A
+126,End of,Unknown,None,0.0,4,Jazz,Trail Blazers,109 - 104,1,N/A,N/A,N/A
+127,End of,Unknown,None,0.0,4,Jazz,Trail Blazers,109 - 104,1,N/A,N/A,N/A

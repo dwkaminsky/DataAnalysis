@@ -1,0 +1,416 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Khem Birch,JUMP_BALL,None,12:00,1,Hornets,Magic,0 - 0,1,N/A,N/A,N/A
+1,Miles Bridges,FG_MISS,None,11:41,1,Hornets,Magic,0 - 0,1,0,2,Layup
+2,Aaron Gordon,DEFENSIVE_REBOUND,None,11:39,1,Magic,Hornets,0 - 0,0,N/A,N/A,N/A
+3,Aaron Gordon,TURNOVER,Miles Bridges,11:36,1,Magic,Hornets,0 - 0,0,N/A,N/A,N/A
+4,Miles Bridges,FG_ASSISTED,Nicolas Batum,11:29,1,Hornets,Magic,0 - 2,1,0,2,Dunk
+5,Aaron Gordon,FG_MISS,None,11:13,1,Magic,Hornets,0 - 2,0,0,2,Layup
+6,Team,OFFENSIVE_REBOUND,None,11:10,1,Magic,Hornets,0 - 2,0,N/A,N/A,N/A
+7,Aaron Gordon,FG_ASSISTED,Wes Iwundu,11:00,1,Magic,Hornets,2 - 2,0,12,2,Jumper
+8,Dwayne Bacon,TURNOVER,None,10:45,1,Hornets,Magic,2 - 2,1,N/A,N/A,N/A
+9,Aaron Gordon,FG_MISS,None,10:23,1,Magic,Hornets,2 - 2,0,13,2,Jumper
+10,Nicolas Batum,DEFENSIVE_REBOUND,None,10:19,1,Hornets,Magic,2 - 2,1,N/A,N/A,N/A
+11,Kemba Walker,FG_ASSISTED,Nicolas Batum,10:10,1,Hornets,Magic,2 - 4,1,13,2,Jumper
+12,D.J. Augustin,FG_UNASSISTED,None,9:54,1,Magic,Hornets,4 - 4,0,0,2,Layup
+13,Kemba Walker,FG_MISS,None,9:37,1,Hornets,Magic,4 - 4,1,26,3,Jumper
+14,Aaron Gordon,DEFENSIVE_REBOUND,None,9:33,1,Magic,Hornets,4 - 4,0,N/A,N/A,N/A
+15,Wes Iwundu's,FG_MISS,Kemba Walker,9:28,1,Hornets,Magic,4 - 4,0,0,2,Layup
+16,Team,OFFENSIVE_REBOUND,None,9:28,1,Magic,Hornets,4 - 4,0,N/A,N/A,N/A
+17,Evan Fournier,FG_ASSISTED,Wes Iwundu,9:25,1,Magic,Hornets,6 - 4,0,0,2,Layup
+18,Dwayne Bacon,FG_ASSISTED,Nicolas Batum,9:09,1,Hornets,Magic,6 - 6,1,0,2,Layup
+19,D.J. Augustin,FG_MISS,None,8:55,1,Magic,Hornets,6 - 6,0,0,2,Layup
+20,Khem Birch,OFFENSIVE_REBOUND,None,8:53,1,Magic,Hornets,6 - 6,0,N/A,N/A,N/A
+21,Wes Iwundu,FG_MISS,None,8:50,1,Magic,Hornets,6 - 6,0,27,3,Jumper
+22,Nicolas Batum,DEFENSIVE_REBOUND,None,8:47,1,Hornets,Magic,6 - 6,1,N/A,N/A,N/A
+23,Wes Iwundu,FOUL_ON_FLOOR,None,8:43,1,Magic,Hornets,6 - 6,0,N/A,N/A,N/A
+24,Kemba Walker,FG_ASSISTED,Miles Bridges,8:39,1,Hornets,Magic,6 - 9,1,26,3,Jumper
+25,Evan Fournier,FG_MISS,None,8:19,1,Magic,Hornets,6 - 9,0,25,3,Jumper
+26,Kemba Walker,DEFENSIVE_REBOUND,None,8:17,1,Hornets,Magic,6 - 9,1,N/A,N/A,N/A
+27,Dwayne Bacon,FG_MISS,None,8:06,1,Hornets,Magic,6 - 9,1,15,2,Jumper
+28,Bismack Biyombo,OFFENSIVE_REBOUND,None,7:59,1,Hornets,Magic,6 - 9,1,N/A,N/A,N/A
+29,Bismack Biyombo,FG_UNASSISTED,None,7:59,1,Hornets,Magic,6 - 11,1,0,2,Dunk
+30,Evan Fournier,FG_UNASSISTED,None,7:40,1,Magic,Hornets,8 - 11,0,0,2,Layup
+31,Miles Bridges,FG_ASSISTED,Dwayne Bacon,7:16,1,Hornets,Magic,8 - 13,1,5,2,Jumper
+32,D.J. Augustin,FG_MISS,None,6:54,1,Magic,Hornets,8 - 13,0,24,3,Jumper
+33,Dwayne Bacon,DEFENSIVE_REBOUND,None,6:51,1,Hornets,Magic,8 - 13,1,N/A,N/A,N/A
+34,Kemba Walker,FG_MISS,None,6:47,1,Hornets,Magic,8 - 13,1,0,2,Layup
+35,Bismack Biyombo,OFFENSIVE_REBOUND,None,6:47,1,Hornets,Magic,8 - 13,1,N/A,N/A,N/A
+36,Khem Birch,FOUL_ON_FLOOR,None,6:47,1,Magic,Hornets,8 - 13,0,N/A,N/A,N/A
+37,Team,Unknown,None,6:47,1,Hornets,Magic,8 - 13,1,N/A,N/A,N/A
+38,Jeremy Lamb,SUBSTITUTION,Batum Nicolas,6:47,1,Hornets,Magic,8 - 13,1,N/A,N/A,N/A
+39,Bismack Biyombo,FT,None,6:47,1,Hornets,Magic,8 - 14,1,N/A,1,N/A
+40,Bismack Biyombo,FT_MISS,None,6:47,1,Hornets,Magic,8 - 14,1,N/A,1,N/A
+41,Khem Birch,DEFENSIVE_REBOUND,None,6:44,1,Magic,Hornets,8 - 14,0,N/A,N/A,N/A
+42,Jeremy Lamb,FOUL_ON_FLOOR,None,6:32,1,Hornets,Magic,8 - 14,1,N/A,N/A,N/A
+43,Evan Fournier,FG_MISS,None,6:25,1,Magic,Hornets,8 - 14,0,20,2,Jumper
+44,Miles Bridges,DEFENSIVE_REBOUND,None,6:22,1,Hornets,Magic,8 - 14,1,N/A,N/A,N/A
+45,Bismack Biyombo,FG_ASSISTED,Kemba Walker,6:15,1,Hornets,Magic,8 - 16,1,0,2,Layup
+46,Wes Iwundu,FG_ASSISTED,Khem Birch,5:49,1,Magic,Hornets,10 - 16,0,0,2,Dunk
+47,Kemba Walker,FG_MISS,None,5:32,1,Hornets,Magic,10 - 16,1,25,3,Jumper
+48,Aaron Gordon,DEFENSIVE_REBOUND,None,5:28,1,Magic,Hornets,10 - 16,0,N/A,N/A,N/A
+49,Wes Iwundu,FG_UNASSISTED,None,5:20,1,Magic,Hornets,12 - 16,0,18,2,Jumper
+50,Evan Fournier,FOUL_ON_FLOOR,None,4:56,1,Magic,Hornets,12 - 16,0,N/A,N/A,N/A
+51,Jeremy Lamb,FT,None,4:56,1,Hornets,Magic,12 - 17,1,N/A,1,N/A
+52,Terrence Ross,SUBSTITUTION,Fournier Evan,4:56,1,Magic,Hornets,12 - 17,0,N/A,N/A,N/A
+53,Jarell Martin,SUBSTITUTION,Iwundu Wes,4:56,1,Magic,Hornets,12 - 17,0,N/A,N/A,N/A
+54,Jeremy Lamb,FT,None,4:56,1,Hornets,Magic,12 - 18,1,N/A,1,N/A
+55,Bismack Biyombo,FOUL_ON_FLOOR,None,4:44,1,Hornets,Magic,12 - 18,1,N/A,N/A,N/A
+56,Aaron Gordon,FT,None,4:44,1,Magic,Hornets,13 - 18,0,N/A,1,N/A
+57,Frank Kaminsky,SUBSTITUTION,Biyombo Bismack,4:44,1,Hornets,Magic,13 - 18,1,N/A,N/A,N/A
+58,Aaron Gordon,FT,None,4:44,1,Magic,Hornets,14 - 18,0,N/A,1,N/A
+59,Frank Kaminsky,FG_MISS,None,4:27,1,Hornets,Magic,14 - 18,1,4,2,Jumper
+60,Aaron Gordon,DEFENSIVE_REBOUND,None,4:25,1,Magic,Hornets,14 - 18,0,N/A,N/A,N/A
+61,D.J. Augustin,FG_UNASSISTED,None,4:08,1,Magic,Hornets,16 - 18,0,0,2,Layup
+62,Frank Kaminsky,FG_MISS,None,3:54,1,Hornets,Magic,16 - 18,1,27,3,Jumper
+63,D.J. Augustin,DEFENSIVE_REBOUND,None,3:51,1,Magic,Hornets,16 - 18,0,N/A,N/A,N/A
+64,Frank Kaminsky,FOUL_ON_FLOOR,None,3:44,1,Hornets,Magic,16 - 18,1,N/A,N/A,N/A
+65,D.J. Augustin,FT_MISS,None,3:44,1,Magic,Hornets,16 - 18,0,N/A,1,N/A
+66,Team,OFFENSIVE_REBOUND,None,3:44,1,Magic,Hornets,16 - 18,0,N/A,N/A,N/A
+67,D.J. Augustin,FT,None,3:44,1,Magic,Hornets,17 - 18,0,N/A,1,N/A
+68,Khem Birch,FOUL_ON_FLOOR,None,3:35,1,Magic,Hornets,17 - 18,0,N/A,N/A,N/A
+69,Michael Carter-Williams,SUBSTITUTION,Augustin D.J.,3:35,1,Magic,Hornets,17 - 18,0,N/A,N/A,N/A
+70,Amile Jefferson,SUBSTITUTION,Birch Khem,3:35,1,Magic,Hornets,17 - 18,0,N/A,N/A,N/A
+71,Kemba Walker,FG_MISS,None,3:26,1,Hornets,Magic,17 - 18,1,18,2,Jumper
+72,Michael Carter-Williams,DEFENSIVE_REBOUND,None,3:23,1,Magic,Hornets,17 - 18,0,N/A,N/A,N/A
+73,Jarell Martin,FG_ASSISTED,Michael Carter-Williams,3:12,1,Magic,Hornets,19 - 18,0,0,2,Layup
+74,Kemba Walker,FG_UNASSISTED,None,2:58,1,Hornets,Magic,19 - 20,1,0,2,Layup
+75,Aaron Gordon,FG_MISS,None,2:36,1,Magic,Hornets,19 - 20,0,25,3,Jumper
+76,Team,DEFENSIVE_REBOUND,None,2:36,1,Hornets,Magic,19 - 20,1,N/A,N/A,N/A
+77,Team,Unknown,None,2:36,1,Magic,Hornets,19 - 20,0,N/A,N/A,N/A
+78,Nicolas Batum,SUBSTITUTION,Bridges Miles,2:36,1,Hornets,Magic,19 - 20,1,N/A,N/A,N/A
+79,Malik Monk,SUBSTITUTION,Bacon Dwayne,2:36,1,Hornets,Magic,19 - 20,1,N/A,N/A,N/A
+80,Devonte' Graham,SUBSTITUTION,Walker Kemba,2:36,1,Hornets,Magic,19 - 20,1,N/A,N/A,N/A
+81,Wes Iwundu,SUBSTITUTION,Gordon Aaron,2:36,1,Magic,Hornets,19 - 20,0,N/A,N/A,N/A
+82,Jeremy Lamb,FG_ASSISTED,Devonte' Graham,2:27,1,Hornets,Magic,19 - 23,1,27,3,Jumper
+83,Terrence Ross,FG_ASSISTED,Jarell Martin,2:10,1,Magic,Hornets,21 - 23,0,0,2,Dunk
+84,Nicolas Batum,FG_MISS,None,1:56,1,Hornets,Magic,21 - 23,1,23,3,Jumper
+85,Michael Carter-Williams,DEFENSIVE_REBOUND,None,1:52,1,Magic,Hornets,21 - 23,0,N/A,N/A,N/A
+86,Terrence Ross,FG_UNASSISTED,None,1:40,1,Magic,Hornets,23 - 23,0,11,2,Jumper
+87,Malik Monk,FG_MISS,None,1:20,1,Hornets,Magic,23 - 23,1,23,3,Jumper
+88,Jarell Martin,DEFENSIVE_REBOUND,None,1:17,1,Magic,Hornets,23 - 23,0,N/A,N/A,N/A
+89,Terrence Ross,FG_UNASSISTED,None,1:04,1,Magic,Hornets,25 - 23,0,22,2,Jumper
+90,Jeremy Lamb,FG_MISS,None,42.5,1,Hornets,Magic,25 - 23,1,29,3,Jumper
+91,Amile Jefferson,DEFENSIVE_REBOUND,None,39.2,1,Magic,Hornets,25 - 23,0,N/A,N/A,N/A
+92,Terrence Ross,FG_ASSISTED,Michael Carter-Williams,31.6,1,Magic,Hornets,28 - 23,0,25,3,Jumper
+93,Amile Jefferson,FOUL_ON_FLOOR,None,16.5,1,Magic,Hornets,28 - 23,0,N/A,N/A,N/A
+94,Frank Kaminsky,FT,None,16.5,1,Hornets,Magic,28 - 24,1,N/A,1,N/A
+95,Michael Kidd-Gilchrist,SUBSTITUTION,Batum Nicolas,16.5,1,Hornets,Magic,28 - 24,1,N/A,N/A,N/A
+96,Frank Kaminsky,FT,None,16.5,1,Hornets,Magic,28 - 25,1,N/A,1,N/A
+97,Jeremy Lamb,FOUL_ON_FLOOR,None,1.6,1,Hornets,Magic,28 - 25,1,N/A,N/A,N/A
+98,Terrence Ross,FT,None,1.6,1,Magic,Hornets,29 - 25,0,N/A,1,N/A
+99,Terrence Ross,FT,None,1.6,1,Magic,Hornets,30 - 25,0,N/A,1,N/A
+100,Devonte' Graham,FG_MISS,None,0.0,1,Hornets,Magic,30 - 25,1,52,3,Jumper
+101,Team,OFFENSIVE_REBOUND,None,0.0,1,Hornets,Magic,30 - 25,1,N/A,N/A,N/A
+102,End of,Unknown,None,0.0,1,Hornets,Magic,30 - 25,1,N/A,N/A,N/A
+0,Evan Fournier,SUBSTITUTION,Iwundu Wes,12:00,2,Magic,Hornets,30 - 25,0,N/A,N/A,N/A
+1,Jarell Martin,FG_MISS,None,11:47,2,Magic,Hornets,30 - 25,0,27,3,Jumper
+2,Jeremy Lamb,DEFENSIVE_REBOUND,None,11:43,2,Hornets,Magic,30 - 25,1,N/A,N/A,N/A
+3,Terrence Ross,FOUL_ON_FLOOR,None,11:31,2,Magic,Hornets,30 - 25,0,N/A,N/A,N/A
+4,Jeremy Lamb,FT,None,11:31,2,Hornets,Magic,30 - 26,1,N/A,1,N/A
+5,Jeremy Lamb,FT,None,11:31,2,Hornets,Magic,30 - 27,1,N/A,1,N/A
+6,Malik Monk,FOUL_ON_FLOOR,None,11:22,2,Hornets,Magic,30 - 27,1,N/A,N/A,N/A
+7,Michael Carter-Williams,FT_MISS,None,11:22,2,Magic,Hornets,30 - 27,0,N/A,1,N/A
+8,Team,OFFENSIVE_REBOUND,None,11:22,2,Magic,Hornets,30 - 27,0,N/A,N/A,N/A
+9,Michael Carter-Williams,FT,None,11:22,2,Magic,Hornets,31 - 27,0,N/A,1,N/A
+10,Frank Kaminsky,FG_MISS,None,10:55,2,Hornets,Magic,31 - 27,1,21,2,Jumper
+11,Amile Jefferson,DEFENSIVE_REBOUND,None,10:52,2,Magic,Hornets,31 - 27,0,N/A,N/A,N/A
+12,Terrence Ross,FG_ASSISTED,Michael Carter-Williams,10:48,2,Magic,Hornets,34 - 27,0,26,3,Jumper
+13,Team,Unknown,None,10:47,2,Hornets,Magic,34 - 27,1,N/A,N/A,N/A
+14,Miles Bridges,SUBSTITUTION,Monk Malik,10:47,2,Hornets,Magic,34 - 27,1,N/A,N/A,N/A
+15,Kemba Walker,SUBSTITUTION,Kidd-Gilchrist Michael,10:47,2,Hornets,Magic,34 - 27,1,N/A,N/A,N/A
+16,Amile Jefferson,FOUL_ON_FLOOR,None,10:34,2,Magic,Hornets,34 - 27,0,N/A,N/A,N/A
+17,Miles Bridges,FG_MISS,None,10:24,2,Hornets,Magic,34 - 27,1,23,3,Jumper
+18,Terrence Ross,DEFENSIVE_REBOUND,None,10:21,2,Magic,Hornets,34 - 27,0,N/A,N/A,N/A
+19,Amile Jefferson,FG_ASSISTED,Michael Carter-Williams,10:10,2,Magic,Hornets,36 - 27,0,4,2,Jumper
+20,Kemba Walker,FG_MISS,None,9:58,2,Hornets,Magic,36 - 27,1,25,3,Jumper
+21,Jarell Martin,DEFENSIVE_REBOUND,None,9:55,2,Magic,Hornets,36 - 27,0,N/A,N/A,N/A
+22,Frank Kaminsky,FOUL_ON_FLOOR,None,9:49,2,Hornets,Magic,36 - 27,1,N/A,N/A,N/A
+23,Terrence Ross,FT,None,9:49,2,Magic,Hornets,37 - 27,0,N/A,1,N/A
+24,Terrence Ross,FT,None,9:49,2,Magic,Hornets,38 - 27,0,N/A,1,N/A
+25,Bismack Biyombo,SUBSTITUTION,Kaminsky Frank,9:49,2,Hornets,Magic,38 - 27,1,N/A,N/A,N/A
+26,Terrence Ross,FT,None,9:49,2,Magic,Hornets,39 - 27,0,N/A,1,N/A
+27,Devonte' Graham,FG_MISS,None,9:35,2,Hornets,Magic,39 - 27,1,25,3,Jumper
+28,Evan Fournier,DEFENSIVE_REBOUND,None,9:31,2,Magic,Hornets,39 - 27,0,N/A,N/A,N/A
+29,Evan Fournier,FG_MISS,None,9:29,2,Magic,Hornets,39 - 27,0,26,3,Jumper
+30,Devonte' Graham,DEFENSIVE_REBOUND,None,9:23,2,Hornets,Magic,39 - 27,1,N/A,N/A,N/A
+31,Kemba Walker,FG_ASSISTED,Devonte' Graham,9:18,2,Hornets,Magic,39 - 29,1,0,2,Layup
+32,Evan Fournier,FG_UNASSISTED,None,9:04,2,Magic,Hornets,41 - 29,0,10,2,Jumper
+33,Jeremy Lamb,FG_UNASSISTED,None,8:40,2,Hornets,Magic,41 - 31,1,17,2,Jumper
+34,Evan Fournier's,FG_MISS,Kemba Walker,8:23,2,Hornets,Magic,41 - 31,0, ,2,Jumper
+35,Jeremy Lamb,DEFENSIVE_REBOUND,None,8:19,2,Hornets,Magic,41 - 31,1,N/A,N/A,N/A
+36,Devonte' Graham,TURNOVER,Amile Jefferson,8:11,2,Hornets,Magic,41 - 31,1,N/A,N/A,N/A
+37,Devonte' Graham,FOUL_ON_FLOOR,None,8:07,2,Hornets,Magic,41 - 31,1,N/A,N/A,N/A
+38,Dwayne Bacon,SUBSTITUTION,Graham Devonte',8:07,2,Hornets,Magic,41 - 31,1,N/A,N/A,N/A
+39,Terrence Ross,FG_MISS,None,8:02,2,Magic,Hornets,41 - 31,0,18,2,Jumper
+40,Amile Jefferson,OFFENSIVE_REBOUND,None,7:55,2,Magic,Hornets,41 - 31,0,N/A,N/A,N/A
+41,Amile Jefferson,FG_UNASSISTED,None,7:55,2,Magic,Hornets,43 - 31,0, ,2,Jumper
+42,Jeremy Lamb,FG_MISS,None,7:45,2,Hornets,Magic,43 - 31,1,18,2,Jumper
+43,Jarell Martin,DEFENSIVE_REBOUND,None,7:43,2,Magic,Hornets,43 - 31,0,N/A,N/A,N/A
+44,Michael Carter-Williams,FG_MISS,None,7:36,2,Magic,Hornets,43 - 31,0,0,2,Layup
+45,Miles Bridges,DEFENSIVE_REBOUND,None,7:34,2,Hornets,Magic,43 - 31,1,N/A,N/A,N/A
+46,Jarell Martin,FOUL_ON_FLOOR,None,7:31,2,Magic,Hornets,43 - 31,0,N/A,N/A,N/A
+47,Bismack Biyombo,FT_MISS,None,7:31,2,Hornets,Magic,43 - 31,1,N/A,1,N/A
+48,Team,OFFENSIVE_REBOUND,None,7:31,2,Hornets,Magic,43 - 31,1,N/A,N/A,N/A
+49,Nicolas Batum,SUBSTITUTION,Lamb Jeremy,7:31,2,Hornets,Magic,43 - 31,1,N/A,N/A,N/A
+50,Bismack Biyombo,FT,None,7:31,2,Hornets,Magic,43 - 32,1,N/A,1,N/A
+51,Michael Carter-Williams,FG_MISS,None,7:20,2,Magic,Hornets,43 - 32,0,26,3,Jumper
+52,Terrence Ross,OFFENSIVE_REBOUND,None,7:14,2,Magic,Hornets,43 - 32,0,N/A,N/A,N/A
+53,Terrence Ross,FG_UNASSISTED,None,7:14,2,Magic,Hornets,45 - 32,0, ,2,Jumper
+54,Kemba Walker,FG_UNASSISTED,None,7:03,2,Hornets,Magic,45 - 34,1,0,2,Layup
+55,Evan Fournier,FG_ASSISTED,Michael Carter-Williams,6:54,2,Magic,Hornets,47 - 34,0,0,2,Layup
+56,Jarell Martin,FOUL_ON_FLOOR,None,6:39,2,Magic,Hornets,47 - 34,0,N/A,N/A,N/A
+57,Miles Bridges,FT,None,6:39,2,Hornets,Magic,47 - 35,1,N/A,1,N/A
+58,D.J. Augustin,SUBSTITUTION,Martin Jarell,6:39,2,Magic,Hornets,47 - 35,0,N/A,N/A,N/A
+59,Aaron Gordon,SUBSTITUTION,Fournier Evan,6:39,2,Magic,Hornets,47 - 35,0,N/A,N/A,N/A
+60,Khem Birch,SUBSTITUTION,Jefferson Amile,6:39,2,Magic,Hornets,47 - 35,0,N/A,N/A,N/A
+61,Miles Bridges,FT,None,6:39,2,Hornets,Magic,47 - 36,1,N/A,1,N/A
+62,Bismack Biyombo,FOUL_ON_FLOOR,None,6:23,2,Hornets,Magic,47 - 36,1,N/A,N/A,N/A
+63,Aaron Gordon,FT,None,6:23,2,Magic,Hornets,48 - 36,0,N/A,1,N/A
+64,Aaron Gordon,FT,None,6:23,2,Magic,Hornets,49 - 36,0,N/A,1,N/A
+65,Khem Birch,FOUL_ON_FLOOR,None,6:07,2,Magic,Hornets,49 - 36,0,N/A,N/A,N/A
+66,Kemba Walker,FT,None,6:07,2,Hornets,Magic,49 - 37,1,N/A,1,N/A
+67,Malik Monk,SUBSTITUTION,Batum Nicolas,6:07,2,Hornets,Magic,49 - 37,1,N/A,N/A,N/A
+68,Amile Jefferson,SUBSTITUTION,Birch Khem,6:07,2,Magic,Hornets,49 - 37,0,N/A,N/A,N/A
+69,Kemba Walker,FT,None,6:07,2,Hornets,Magic,49 - 38,1,N/A,1,N/A
+70,Malik Monk,FOUL_ON_FLOOR,None,5:54,2,Hornets,Magic,49 - 38,1,N/A,N/A,N/A
+71,Michael Carter-Williams,FT_MISS,None,5:54,2,Magic,Hornets,49 - 38,0,N/A,1,N/A
+72,Team,OFFENSIVE_REBOUND,None,5:54,2,Magic,Hornets,49 - 38,0,N/A,N/A,N/A
+73,Michael Carter-Williams,FT,None,5:54,2,Magic,Hornets,50 - 38,0,N/A,1,N/A
+74,Dwayne Bacon,FG_MISS,None,5:40,2,Hornets,Magic,50 - 38,1,24,3,Jumper
+75,Amile Jefferson,DEFENSIVE_REBOUND,None,5:35,2,Magic,Hornets,50 - 38,0,N/A,N/A,N/A
+76,Aaron Gordon,FOUL_ON_FLOOR,None,5:23,2,Magic,Hornets,50 - 38,0,N/A,N/A,N/A
+77,Aaron Gordon,TURNOVER,None,5:23,2,Magic,Hornets,50 - 38,0,N/A,N/A,N/A
+78,Wes Iwundu,SUBSTITUTION,Carter-Williams Michael,5:23,2,Magic,Hornets,50 - 38,0,N/A,N/A,N/A
+79,Kemba Walker,FG_MISS,None,5:12,2,Hornets,Magic,50 - 38,1,26,3,Jumper
+80,Terrence Ross,DEFENSIVE_REBOUND,None,5:09,2,Magic,Hornets,50 - 38,0,N/A,N/A,N/A
+81,Terrence Ross,FG_MISS,None,5:04,2,Magic,Hornets,50 - 38,0,25,3,Jumper
+82,Malik Monk,DEFENSIVE_REBOUND,None,5:02,2,Hornets,Magic,50 - 38,1,N/A,N/A,N/A
+83,Malik Monk,FG_UNASSISTED,None,4:58,2,Hornets,Magic,50 - 40,1, ,2,Jumper
+84,D.J. Augustin,FG_UNASSISTED,None,4:29,2,Magic,Hornets,53 - 40,0,25,3,Jumper
+85,D.J. Augustin,FOUL_ON_FLOOR,None,4:17,2,Magic,Hornets,53 - 40,0,N/A,N/A,N/A
+86,Kemba Walker,FT,None,4:17,2,Hornets,Magic,53 - 41,1,N/A,1,N/A
+87,Kemba Walker,FT,None,4:17,2,Hornets,Magic,53 - 42,1,N/A,1,N/A
+88,Wes Iwundu,FG_MISS,None,3:54,2,Magic,Hornets,53 - 42,0,0,2,Layup
+89,Miles Bridges,DEFENSIVE_REBOUND,None,3:51,2,Hornets,Magic,53 - 42,1,N/A,N/A,N/A
+90,Kemba Walker,FG_UNASSISTED,None,3:43,2,Hornets,Magic,53 - 44,1, ,2,Jumper
+91,Team,Unknown,None,3:37,2,Magic,Hornets,53 - 44,0,N/A,N/A,N/A
+92,Jeremy Lamb,SUBSTITUTION,Monk Malik,3:37,2,Hornets,Magic,53 - 44,1,N/A,N/A,N/A
+93,Evan Fournier,SUBSTITUTION,Ross Terrence,3:37,2,Magic,Hornets,53 - 44,0,N/A,N/A,N/A
+94,Aaron Gordon,FG_ASSISTED,Wes Iwundu,3:24,2,Magic,Hornets,55 - 44,0,0,2,Dunk
+95,Jeremy Lamb,FG_UNASSISTED,None,3:05,2,Hornets,Magic,55 - 47,1,26,3,Jumper
+96,Wes Iwundu,FG_ASSISTED,Evan Fournier,2:44,2,Magic,Hornets,58 - 47,0,27,3,Jumper
+97,Jeremy Lamb,FG_UNASSISTED,None,2:22,2,Hornets,Magic,58 - 49,1, ,2,Jumper
+98,Aaron Gordon,FG_MISS,None,2:01,2,Magic,Hornets,58 - 49,0,11,2,Jumper
+99,Amile Jefferson,OFFENSIVE_REBOUND,None,1:57,2,Magic,Hornets,58 - 49,0,N/A,N/A,N/A
+100,D.J. Augustin,FG_MISS,None,1:52,2,Magic,Hornets,58 - 49,0,0,2,Layup
+101,Jeremy Lamb,DEFENSIVE_REBOUND,None,1:50,2,Hornets,Magic,58 - 49,1,N/A,N/A,N/A
+102,Miles Bridges,FG_ASSISTED,Kemba Walker,1:46,2,Hornets,Magic,58 - 51,1,0,2,Dunk
+103,Aaron Gordon,FG_ASSISTED,Evan Fournier,1:20,2,Magic,Hornets,60 - 51,0,15,2,Jumper
+104,Kemba Walker,FG_UNASSISTED,None,1:08,2,Hornets,Magic,60 - 53,1,0,2,Layup
+105,D.J. Augustin,FG_ASSISTED,Wes Iwundu,48.1,2,Magic,Hornets,62 - 53,0,0,2,Layup
+106,Bismack Biyombo,Unknown,None,48.1,2,Hornets,Magic,62 - 53,1,N/A,N/A,N/A
+107,Kemba Walker,FG_UNASSISTED,None,34.5,2,Hornets,Magic,62 - 56,1,27,3,Jumper
+108,D.J. Augustin,FG_MISS,Miles Bridges,26.4,2,Hornets,Magic,62 - 56,0,0,2,Layup
+109,Bismack Biyombo,DEFENSIVE_REBOUND,None,23.5,2,Hornets,Magic,62 - 56,1,N/A,N/A,N/A
+110,Miles Bridges,FG_ASSISTED,Kemba Walker,4.1,2,Hornets,Magic,62 - 58,1,0,2,Dunk
+111,D.J. Augustin,FOUL_ON_FLOOR,None,0.6,2,Magic,Hornets,62 - 58,0,N/A,N/A,N/A
+112,D.J. Augustin,TURNOVER,None,0.6,2,Magic,Hornets,62 - 58,0,N/A,N/A,N/A
+113,Frank Kaminsky,SUBSTITUTION,Biyombo Bismack,0.6,2,Hornets,Magic,62 - 58,1,N/A,N/A,N/A
+114,Miles Bridges,FG_MISS,None,0.0,2,Hornets,Magic,62 - 58,1,30,3,Jumper
+115,Team,OFFENSIVE_REBOUND,None,0.0,2,Hornets,Magic,62 - 58,1,N/A,N/A,N/A
+116,End of,Unknown,None,0.0,2,Hornets,Magic,62 - 58,1,N/A,N/A,N/A
+0,Bismack Biyombo,SUBSTITUTION,Lamb Jeremy,12:00,3,Hornets,Magic,62 - 58,1,N/A,N/A,N/A
+1,Nicolas Batum,SUBSTITUTION,Kaminsky Frank,12:00,3,Hornets,Magic,62 - 58,1,N/A,N/A,N/A
+2,Khem Birch,SUBSTITUTION,Jefferson Amile,12:00,3,Magic,Hornets,62 - 58,0,N/A,N/A,N/A
+3,Aaron Gordon,FG_MISS,None,11:44,3,Magic,Hornets,62 - 58,0,0,2,Layup
+4,Dwayne Bacon,DEFENSIVE_REBOUND,None,11:42,3,Hornets,Magic,62 - 58,1,N/A,N/A,N/A
+5,Dwayne Bacon,FG_UNASSISTED,None,11:39,3,Hornets,Magic,62 - 60,1,0,2,Dunk
+6,Aaron Gordon,FG_ASSISTED,D.J. Augustin,11:22,3,Magic,Hornets,65 - 60,0,27,3,Jumper
+7,Dwayne Bacon,FG_MISS,None,11:04,3,Hornets,Magic,65 - 60,1,0,2,Layup
+8,Evan Fournier,DEFENSIVE_REBOUND,None,11:01,3,Magic,Hornets,65 - 60,0,N/A,N/A,N/A
+9,D.J. Augustin,FG_MISS,None,10:58,3,Magic,Hornets,65 - 60,0,26,3,Jumper
+10,Bismack Biyombo,DEFENSIVE_REBOUND,None,10:54,3,Hornets,Magic,65 - 60,1,N/A,N/A,N/A
+11,Kemba Walker,FG_UNASSISTED,None,10:45,3,Hornets,Magic,65 - 62,1,9,2,Jumper
+12,Aaron Gordon,FG_UNASSISTED,None,10:30,3,Magic,Hornets,67 - 62,0,0,2,Dunk
+13,Miles Bridges,FG_MISS,None,10:03,3,Hornets,Magic,67 - 62,1,25,3,Jumper
+14,Khem Birch,DEFENSIVE_REBOUND,None,10:00,3,Magic,Hornets,67 - 62,0,N/A,N/A,N/A
+15,D.J. Augustin,TURNOVER,Dwayne Bacon,9:51,3,Magic,Hornets,67 - 62,0,N/A,N/A,N/A
+16,Kemba Walker's,FG_MISS,Wes Iwundu,9:45,3,Magic,Hornets,67 - 62,1, ,2,Jumper
+17,Team,OFFENSIVE_REBOUND,None,9:45,3,Hornets,Magic,67 - 62,1,N/A,N/A,N/A
+18,Dwayne Bacon,FG_ASSISTED,Kemba Walker,9:39,3,Hornets,Magic,67 - 64,1,17,2,Jumper
+19,Bismack Biyombo,FOUL_ON_FLOOR,None,9:22,3,Hornets,Magic,67 - 64,1,N/A,N/A,N/A
+20,Khem Birch,FT,None,9:22,3,Magic,Hornets,68 - 64,0,N/A,1,N/A
+21,Khem Birch,FT_MISS,None,9:22,3,Magic,Hornets,68 - 64,0,N/A,1,N/A
+22,Aaron Gordon,OFFENSIVE_REBOUND,None,9:15,3,Magic,Hornets,68 - 64,0,N/A,N/A,N/A
+23,Aaron Gordon,FG_UNASSISTED,None,9:15,3,Magic,Hornets,70 - 64,0,0,2,Dunk
+24,Dwayne Bacon,FG_UNASSISTED,None,8:59,3,Hornets,Magic,70 - 66,1,8,2,Jumper
+25,Khem Birch,FG_MISS,None,8:41,3,Magic,Hornets,70 - 66,0,0,2,Dunk
+26,Team,DEFENSIVE_REBOUND,None,8:40,3,Hornets,Magic,70 - 66,1,N/A,N/A,N/A
+27,Kemba Walker,FG_ASSISTED,Bismack Biyombo,8:23,3,Hornets,Magic,70 - 68,1,9,2,Jumper
+28,Team,Unknown,None,8:23,3,Magic,Hornets,70 - 68,0,N/A,N/A,N/A
+29,Malik Monk,SUBSTITUTION,Batum Nicolas,8:23,3,Hornets,Magic,70 - 68,1,N/A,N/A,N/A
+30,Evan Fournier,FG_MISS,None,8:02,3,Magic,Hornets,70 - 68,0,27,3,Jumper
+31,Bismack Biyombo,DEFENSIVE_REBOUND,None,7:59,3,Hornets,Magic,70 - 68,1,N/A,N/A,N/A
+32,Malik Monk,TURNOVER,Wes Iwundu,7:54,3,Hornets,Magic,70 - 68,1,N/A,N/A,N/A
+33,Dwayne Bacon,FOUL_ON_FLOOR,None,7:52,3,Hornets,Magic,70 - 68,1,N/A,N/A,N/A
+34,Evan Fournier,FT,None,7:52,3,Magic,Hornets,71 - 68,0,N/A,1,N/A
+35,Evan Fournier,FT_MISS,None,7:52,3,Magic,Hornets,71 - 68,0,N/A,1,N/A
+36,Miles Bridges,DEFENSIVE_REBOUND,None,7:48,3,Hornets,Magic,71 - 68,1,N/A,N/A,N/A
+37,Dwayne Bacon,FG_MISS,None,7:36,3,Hornets,Magic,71 - 68,1,7,2,Jumper
+38,Bismack Biyombo,OFFENSIVE_REBOUND,None,7:33,3,Hornets,Magic,71 - 68,1,N/A,N/A,N/A
+39,Kemba Walker,FG_MISS,None,7:31,3,Hornets,Magic,71 - 68,1,25,3,Jumper
+40,Aaron Gordon,DEFENSIVE_REBOUND,None,7:27,3,Magic,Hornets,71 - 68,0,N/A,N/A,N/A
+41,Aaron Gordon,FG_UNASSISTED,None,7:15,3,Magic,Hornets,73 - 68,0,0,2,Layup
+42,Miles Bridges,FG_UNASSISTED,None,7:00,3,Hornets,Magic,73 - 70,1,0,2,Dunk
+43,Evan Fournier,FG_UNASSISTED,None,6:44,3,Magic,Hornets,75 - 70,0,0,2,Layup
+44,Miles Bridges,TURNOVER,Wes Iwundu,6:28,3,Hornets,Magic,75 - 70,1,N/A,N/A,N/A
+45,Evan Fournier,FG_MISS,None,6:16,3,Magic,Hornets,75 - 70,0,23,3,Jumper
+46,Aaron Gordon,OFFENSIVE_REBOUND,None,6:08,3,Magic,Hornets,75 - 70,0,N/A,N/A,N/A
+47,Aaron Gordon,FG_UNASSISTED,None,6:08,3,Magic,Hornets,77 - 70,0,0,2,Dunk
+48,Kemba Walker,FG_UNASSISTED,None,5:58,3,Hornets,Magic,77 - 72,1,21,2,Jumper
+49,Evan Fournier,FG_ASSISTED,Khem Birch,5:44,3,Magic,Hornets,79 - 72,0,16,2,Jumper
+50,Kemba Walker,FOUL_ON_FLOOR,None,5:44,3,Hornets,Magic,79 - 72,1,N/A,N/A,N/A
+51,Jeremy Lamb,SUBSTITUTION,Bacon Dwayne,5:44,3,Hornets,Magic,79 - 72,1,N/A,N/A,N/A
+52,Frank Kaminsky,SUBSTITUTION,Biyombo Bismack,5:44,3,Hornets,Magic,79 - 72,1,N/A,N/A,N/A
+53,Jarell Martin,SUBSTITUTION,Iwundu Wes,5:44,3,Magic,Hornets,79 - 72,0,N/A,N/A,N/A
+54,Evan Fournier,FT,None,5:44,3,Magic,Hornets,80 - 72,0,N/A,1,N/A
+55,Miles Bridges,FG_ASSISTED,Malik Monk,5:24,3,Hornets,Magic,80 - 74,1,0,2,Layup
+56,D.J. Augustin,FG_UNASSISTED,None,4:54,3,Magic,Hornets,82 - 74,0, ,2,Jumper
+57,Terrence Ross,SUBSTITUTION,Fournier Evan,4:32,3,Magic,Hornets,82 - 74,0,N/A,N/A,N/A
+58,Khem Birch,FOUL_ON_FLOOR,None,4:29,3,Magic,Hornets,82 - 74,0,N/A,N/A,N/A
+59,Frank Kaminsky,FT_MISS,None,4:29,3,Hornets,Magic,82 - 74,1,N/A,1,N/A
+60,Team,OFFENSIVE_REBOUND,None,4:29,3,Hornets,Magic,82 - 74,1,N/A,N/A,N/A
+61,Frank Kaminsky,FT,None,4:29,3,Hornets,Magic,82 - 75,1,N/A,1,N/A
+62,Amile Jefferson,SUBSTITUTION,Birch Khem,4:29,3,Magic,Hornets,82 - 75,0,N/A,N/A,N/A
+63,Frank Kaminsky,FT,None,4:29,3,Hornets,Magic,82 - 76,1,N/A,1,N/A
+64,D.J. Augustin,FG_ASSISTED,Terrence Ross,4:10,3,Magic,Hornets,85 - 76,0,28,3,Jumper
+65,Jeremy Lamb,FG_ASSISTED,Miles Bridges,3:54,3,Hornets,Magic,85 - 79,1,24,3,Jumper
+66,D.J. Augustin,FG_ASSISTED,Aaron Gordon,3:34,3,Magic,Hornets,88 - 79,0,24,3,Jumper
+67,Jeremy Lamb,FG_MISS,None,3:19,3,Hornets,Magic,88 - 79,1,25,3,Jumper
+68,Miles Bridges,OFFENSIVE_REBOUND,None,3:16,3,Hornets,Magic,88 - 79,1,N/A,N/A,N/A
+69,Miles Bridges,FG_ASSISTED,Malik Monk,3:11,3,Hornets,Magic,88 - 81,1,0,2,Dunk
+70,Team,Unknown,None,2:56,3,Hornets,Magic,88 - 81,1,N/A,N/A,N/A
+71,Devonte' Graham,SUBSTITUTION,Bridges Miles,2:56,3,Hornets,Magic,88 - 81,1,N/A,N/A,N/A
+72,Dwayne Bacon,SUBSTITUTION,Walker Kemba,2:56,3,Hornets,Magic,88 - 81,1,N/A,N/A,N/A
+73,Wes Iwundu,SUBSTITUTION,Gordon Aaron,2:56,3,Magic,Hornets,88 - 81,0,N/A,N/A,N/A
+74,Michael Carter-Williams,SUBSTITUTION,Augustin D.J.,2:56,3,Magic,Hornets,88 - 81,0,N/A,N/A,N/A
+75,Jarell Martin,FG_MISS,None,2:51,3,Magic,Hornets,88 - 81,0,28,3,Jumper
+76,Jeremy Lamb,DEFENSIVE_REBOUND,None,2:47,3,Hornets,Magic,88 - 81,1,N/A,N/A,N/A
+77,Malik Monk,FG_MISS,Wes Iwundu,2:33,3,Magic,Hornets,88 - 81,1,0,2,Layup
+78,Team,DEFENSIVE_REBOUND,None,2:33,3,Magic,Hornets,88 - 81,0,N/A,N/A,N/A
+79,Terrence Ross,FG_MISS,None,2:20,3,Magic,Hornets,88 - 81,0,0,2,Layup
+80,Devonte' Graham,DEFENSIVE_REBOUND,None,2:18,3,Hornets,Magic,88 - 81,1,N/A,N/A,N/A
+81,Devonte' Graham,FG_MISS,None,2:14,3,Hornets,Magic,88 - 81,1,26,3,Jumper
+82,Terrence Ross,DEFENSIVE_REBOUND,None,2:11,3,Magic,Hornets,88 - 81,0,N/A,N/A,N/A
+83,Terrence Ross,FG_ASSISTED,Amile Jefferson,1:58,3,Magic,Hornets,90 - 81,0, ,2,Jumper
+84,Jeremy Lamb,FG_ASSISTED,Dwayne Bacon,1:37,3,Hornets,Magic,90 - 84,1,25,3,Jumper
+85,Michael Carter-Williams,FG_UNASSISTED,None,1:20,3,Magic,Hornets,92 - 84,0,0,2,Layup
+86,Michael Carter-Williams,FOUL_ON_FLOOR,None,1:11,3,Magic,Hornets,92 - 84,0,N/A,N/A,N/A
+87,Devonte' Graham,FT,None,1:11,3,Hornets,Magic,92 - 85,1,N/A,1,N/A
+88,Devonte' Graham,FT,None,1:11,3,Hornets,Magic,92 - 86,1,N/A,1,N/A
+89,Michael Carter-Williams,FG_UNASSISTED,None,53.3,3,Magic,Hornets,94 - 86,0,0,2,Layup
+90,Dwayne Bacon,FG_MISS,None,39.6,3,Hornets,Magic,94 - 86,1,12,2,Jumper
+91,Amile Jefferson,DEFENSIVE_REBOUND,None,37.5,3,Magic,Hornets,94 - 86,0,N/A,N/A,N/A
+92,Devonte' Graham,FOUL_ON_FLOOR,None,35.3,3,Hornets,Magic,94 - 86,1,N/A,N/A,N/A
+93,Terrence Ross,FG_UNASSISTED,None,24.6,3,Magic,Hornets,97 - 86,0,28,3,Jumper
+94,Frank Kaminsky,FG_ASSISTED,Jeremy Lamb,1.4,3,Hornets,Magic,97 - 88,1, ,2,Jumper
+95,Terrence Ross,FG_MISS,None,0.0,3,Magic,Hornets,97 - 88,0,56,3,Jumper
+96,Team,OFFENSIVE_REBOUND,None,0.0,3,Magic,Hornets,97 - 88,0,N/A,N/A,N/A
+97,End of,Unknown,None,0.0,3,Hornets,Magic,97 - 88,1,N/A,N/A,N/A
+0,Kemba Walker,SUBSTITUTION,Monk Malik,12:00,4,Hornets,Magic,97 - 88,1,N/A,N/A,N/A
+1,Miles Bridges,SUBSTITUTION,Bacon Dwayne,12:00,4,Hornets,Magic,97 - 88,1,N/A,N/A,N/A
+2,Evan Fournier,SUBSTITUTION,Iwundu Wes,12:00,4,Magic,Hornets,97 - 88,0,N/A,N/A,N/A
+3,Frank Kaminsky,FG_MISS,None,11:40,4,Hornets,Magic,97 - 88,1,25,3,Jumper
+4,Amile Jefferson,DEFENSIVE_REBOUND,None,11:36,4,Magic,Hornets,97 - 88,0,N/A,N/A,N/A
+5,Amile Jefferson,FG_ASSISTED,Evan Fournier,11:25,4,Magic,Hornets,99 - 88,0,0,2,Layup
+6,Kemba Walker,FG_UNASSISTED,None,11:11,4,Hornets,Magic,99 - 91,1,26,3,Jumper
+7,Evan Fournier,FG_MISS,None,10:52,4,Magic,Hornets,99 - 91,0,0,2,Layup
+8,Devonte' Graham,DEFENSIVE_REBOUND,None,10:50,4,Hornets,Magic,99 - 91,1,N/A,N/A,N/A
+9,Devonte' Graham,TURNOVER,Terrence Ross,10:42,4,Hornets,Magic,99 - 91,1,N/A,N/A,N/A
+10,Jarell Martin,FG_MISS,None,10:37,4,Magic,Hornets,99 - 91,0,23,3,Jumper
+11,Terrence Ross,OFFENSIVE_REBOUND,None,10:32,4,Magic,Hornets,99 - 91,0,N/A,N/A,N/A
+12,Amile Jefferson,FG_MISS,Miles Bridges,10:27,4,Hornets,Magic,99 - 91,0,0,2,Layup
+13,Devonte' Graham,DEFENSIVE_REBOUND,None,10:24,4,Hornets,Magic,99 - 91,1,N/A,N/A,N/A
+14,Jeremy Lamb,FG_MISS,None,10:09,4,Hornets,Magic,99 - 91,1,26,3,Jumper
+15,Terrence Ross,DEFENSIVE_REBOUND,None,10:05,4,Magic,Hornets,99 - 91,0,N/A,N/A,N/A
+16,Amile Jefferson,TURNOVER,None,9:49,4,Magic,Hornets,99 - 91,0,N/A,N/A,N/A
+17,Kemba Walker,FG_UNASSISTED,None,9:33,4,Hornets,Magic,99 - 93,1,8,2,Jumper
+18,Terrence Ross,FG_MISS,None,9:25,4,Magic,Hornets,99 - 93,0,27,3,Jumper
+19,Jeremy Lamb,DEFENSIVE_REBOUND,None,9:22,4,Hornets,Magic,99 - 93,1,N/A,N/A,N/A
+20,Evan Fournier,Unknown,None,9:16,4,Magic,Hornets,99 - 93,0,N/A,N/A,N/A
+21,Kemba Walker,FG_UNASSISTED,None,9:01,4,Hornets,Magic,99 - 96,1,25,2,Jumper
+22,Evan Fournier,FG_MISS,None,8:40,4,Magic,Hornets,99 - 96,0,5,2,Jumper
+23,Michael Carter-Williams,OFFENSIVE_REBOUND,None,8:39,4,Magic,Hornets,99 - 96,0,N/A,N/A,N/A
+24,Michael Carter-Williams,FG_UNASSISTED,None,8:39,4,Magic,Hornets,101 - 96,0, ,2,Jumper
+25,Team,Unknown,None,8:39,4,Magic,Hornets,101 - 96,0,N/A,N/A,N/A
+26,Michael Carter-Williams,FOUL_ON_FLOOR,None,8:25,4,Magic,Hornets,101 - 96,0,N/A,N/A,N/A
+27,Kemba Walker,FT,None,8:25,4,Hornets,Magic,101 - 97,1,N/A,1,N/A
+28,Kemba Walker,FT,None,8:25,4,Hornets,Magic,101 - 98,1,N/A,1,N/A
+29,Kemba Walker,FT,None,8:25,4,Hornets,Magic,101 - 99,1,N/A,1,N/A
+30,Terrence Ross,FG_UNASSISTED,None,8:10,4,Magic,Hornets,104 - 99,0,26,3,Jumper
+31,Frank Kaminsky,FG_ASSISTED,Kemba Walker,7:49,4,Hornets,Magic,104 - 101,1,0,2,Layup
+32,Amile Jefferson,FOUL_ON_FLOOR,None,7:49,4,Magic,Hornets,104 - 101,0,N/A,N/A,N/A
+33,Dwayne Bacon,SUBSTITUTION,Lamb Jeremy,7:49,4,Hornets,Magic,104 - 101,1,N/A,N/A,N/A
+34,Aaron Gordon,SUBSTITUTION,Martin Jarell,7:49,4,Magic,Hornets,104 - 101,0,N/A,N/A,N/A
+35,Frank Kaminsky,FT,None,7:49,4,Hornets,Magic,104 - 102,1,N/A,1,N/A
+36,Terrence Ross,FG_UNASSISTED,None,7:35,4,Magic,Hornets,106 - 102,0,0,2,Layup
+37,Kemba Walker,TURNOVER,None,7:23,4,Hornets,Magic,106 - 102,1,N/A,N/A,N/A
+38,Terrence Ross,FG_ASSISTED,Michael Carter-Williams,7:05,4,Magic,Hornets,109 - 102,0,26,3,Jumper
+39,Michael Carter-Williams,FOUL_ON_FLOOR,None,6:51,4,Magic,Hornets,109 - 102,0,N/A,N/A,N/A
+40,Team,Unknown,None,6:51,4,Hornets,Magic,109 - 102,1,N/A,N/A,N/A
+41,Jeremy Lamb,SUBSTITUTION,Graham Devonte',6:51,4,Hornets,Magic,109 - 102,1,N/A,N/A,N/A
+42,D.J. Augustin,SUBSTITUTION,Fournier Evan,6:51,4,Magic,Hornets,109 - 102,0,N/A,N/A,N/A
+43,Khem Birch,SUBSTITUTION,Jefferson Amile,6:51,4,Magic,Hornets,109 - 102,0,N/A,N/A,N/A
+44,Kemba Walker,FG_MISS,None,6:37,4,Hornets,Magic,109 - 102,1,0,2,Layup
+45,Michael Carter-Williams,DEFENSIVE_REBOUND,None,6:32,4,Magic,Hornets,109 - 102,0,N/A,N/A,N/A
+46,Terrence Ross,FG_MISS,None,6:28,4,Magic,Hornets,109 - 102,0,11,2,Jumper
+47,Frank Kaminsky,DEFENSIVE_REBOUND,None,6:25,4,Hornets,Magic,109 - 102,1,N/A,N/A,N/A
+48,Jeremy Lamb,FG_MISS,None,6:16,4,Hornets,Magic,109 - 102,1,5,2,Jumper
+49,Khem Birch,DEFENSIVE_REBOUND,None,6:14,4,Magic,Hornets,109 - 102,0,N/A,N/A,N/A
+50,Aaron Gordon,FG_UNASSISTED,None,5:59,4,Magic,Hornets,111 - 102,0,1,2,Jumper
+51,Kemba Walker,TURNOVER,Michael Carter-Williams,5:44,4,Hornets,Magic,111 - 102,1,N/A,N/A,N/A
+52,Terrence Ross,FG_ASSISTED,Michael Carter-Williams,5:35,4,Magic,Hornets,114 - 102,0,27,3,Jumper
+53,Team,Unknown,None,5:35,4,Hornets,Magic,114 - 102,1,N/A,N/A,N/A
+54,Bismack Biyombo,SUBSTITUTION,Kaminsky Frank,5:35,4,Hornets,Magic,114 - 102,1,N/A,N/A,N/A
+55,Bismack Biyombo,FG_MISS,None,5:17,4,Hornets,Magic,114 - 102,1,1,2,Jumper
+56,D.J. Augustin,DEFENSIVE_REBOUND,None,5:14,4,Magic,Hornets,114 - 102,0,N/A,N/A,N/A
+57,Khem Birch,FG_ASSISTED,Aaron Gordon,5:00,4,Magic,Hornets,116 - 102,0,0,2,Dunk
+58,Kemba Walker,FG_UNASSISTED,None,4:46,4,Hornets,Magic,116 - 104,1,0,2,Layup
+59,Terrence Ross,FG_MISS,None,4:27,4,Magic,Hornets,116 - 104,0,26,3,Jumper
+60,Kemba Walker,DEFENSIVE_REBOUND,None,4:25,4,Hornets,Magic,116 - 104,1,N/A,N/A,N/A
+61,Kemba Walker,FG_UNASSISTED,None,4:14,4,Hornets,Magic,116 - 106,1,0,2,Layup
+62,Aaron Gordon,FG_UNASSISTED,None,3:52,4,Magic,Hornets,118 - 106,0,0,2,Dunk
+63,Jeremy Lamb,FG_MISS,None,3:30,4,Hornets,Magic,118 - 106,1,0,2,Layup
+64,Khem Birch,DEFENSIVE_REBOUND,None,3:27,4,Magic,Hornets,118 - 106,0,N/A,N/A,N/A
+65,Aaron Gordon,FG_MISS,None,3:09,4,Magic,Hornets,118 - 106,0,26,2,Jumper
+66,Jeremy Lamb,DEFENSIVE_REBOUND,None,3:06,4,Hornets,Magic,118 - 106,1,N/A,N/A,N/A
+67,Jeremy Lamb,TURNOVER,None,3:04,4,Hornets,Magic,118 - 106,1,N/A,N/A,N/A
+68,Malik Monk,SUBSTITUTION,Biyombo Bismack,3:04,4,Hornets,Magic,118 - 106,1,N/A,N/A,N/A
+69,Evan Fournier,SUBSTITUTION,Carter-Williams Michael,3:04,4,Magic,Hornets,118 - 106,0,N/A,N/A,N/A
+70,Team,Unknown,None,3:04,4,Magic,Hornets,118 - 106,0,N/A,N/A,N/A
+71,Evan Fournier,FG_MISS,None,2:46,4,Magic,Hornets,118 - 106,0,26,3,Jumper
+72,Khem Birch,OFFENSIVE_REBOUND,None,2:40,4,Magic,Hornets,118 - 106,0,N/A,N/A,N/A
+73,Khem Birch,FG_MISS,None,2:40,4,Magic,Hornets,118 - 106,0,1,2,Jumper
+74,Malik Monk,DEFENSIVE_REBOUND,None,2:39,4,Hornets,Magic,118 - 106,1,N/A,N/A,N/A
+75,Dwayne Bacon,FG_ASSISTED,Malik Monk,2:36,4,Hornets,Magic,118 - 108,1,1,2,Jumper
+76,Aaron Gordon,FG_MISS,None,2:10,4,Magic,Hornets,118 - 108,0,10,2,Jumper
+77,Jeremy Lamb,DEFENSIVE_REBOUND,None,2:08,4,Hornets,Magic,118 - 108,1,N/A,N/A,N/A
+78,Khem Birch,FOUL_ON_FLOOR,None,2:03,4,Magic,Hornets,118 - 108,0,N/A,N/A,N/A
+79,Jeremy Lamb,FT,None,2:03,4,Hornets,Magic,118 - 109,1,N/A,1,N/A
+80,Jeremy Lamb,FT,None,2:03,4,Hornets,Magic,118 - 110,1,N/A,1,N/A
+81,Aaron Gordon,FG_ASSISTED,Terrence Ross,1:46,4,Magic,Hornets,120 - 110,0,11,2,Jumper
+82,Miles Bridges,FG_ASSISTED,Jeremy Lamb,1:33,4,Hornets,Magic,120 - 112,1,0,2,Layup
+83,Khem Birch,FG_ASSISTED,Aaron Gordon,1:23,4,Magic,Hornets,122 - 112,0,0,2,Layup
+84,Team,Unknown,None,1:23,4,Hornets,Magic,122 - 112,1,N/A,N/A,N/A
+85,Miles Bridges,FG_MISS,None,1:13,4,Hornets,Magic,122 - 112,1,28,3,Jumper
+86,D.J. Augustin,DEFENSIVE_REBOUND,None,1:09,4,Magic,Hornets,122 - 112,0,N/A,N/A,N/A
+87,Dwayne Bacon,FOUL_ON_FLOOR,None,1:06,4,Hornets,Magic,122 - 112,1,N/A,N/A,N/A
+88,Devonte' Graham,SUBSTITUTION,Walker Kemba,1:06,4,Hornets,Magic,122 - 112,1,N/A,N/A,N/A
+89,Terrence Ross,TURNOVER,Miles Bridges,42.9,4,Magic,Hornets,122 - 112,0,N/A,N/A,N/A
+90,Dwayne Bacon,FG_ASSISTED,Miles Bridges,34.5,4,Hornets,Magic,122 - 114,1,0,2,Dunk
+91,D.J. Augustin,FG_MISS,None,20.7,4,Magic,Hornets,122 - 114,0,30,3,Jumper
+92,Jeremy Lamb,DEFENSIVE_REBOUND,None,17.6,4,Hornets,Magic,122 - 114,1,N/A,N/A,N/A
+93,Malik Monk,FG_MISS,None,10.5,4,Hornets,Magic,122 - 114,1,28,3,Jumper
+94,D.J. Augustin,DEFENSIVE_REBOUND,None,5.1,4,Magic,Hornets,122 - 114,0,N/A,N/A,N/A
+95,End of,Unknown,None,0.0,4,Hornets,Magic,122 - 114,1,N/A,N/A,N/A
+96,End of,Unknown,None,0.0,4,Hornets,Magic,122 - 114,1,N/A,N/A,N/A

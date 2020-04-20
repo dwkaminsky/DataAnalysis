@@ -1,0 +1,431 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Myles Turner,JUMP_BALL,None,12:00,1,Bulls,Pacers,0 - 0,1,N/A,N/A,N/A
+1,Lauri Markkanen,FG_ASSISTED,Kris Dunn,11:41,1,Bulls,Pacers,0 - 3,1,26,3,Jumper
+2,Bojan Bogdanovic,FG_ASSISTED,Myles Turner,11:22,1,Pacers,Bulls,2 - 3,0,0,2,Layup
+3,Victor Oladipo,FOUL_ON_FLOOR,None,11:01,1,Pacers,Bulls,2 - 3,0,N/A,N/A,N/A
+4,Zach LaVine,FT,None,11:01,1,Bulls,Pacers,2 - 4,1,N/A,1,N/A
+5,Zach LaVine,FT,None,11:01,1,Bulls,Pacers,2 - 5,1,N/A,1,N/A
+6,Thaddeus Young,FG_MISS,None,10:37,1,Pacers,Bulls,2 - 5,0,22,2,Jumper
+7,Zach LaVine,DEFENSIVE_REBOUND,None,10:34,1,Bulls,Pacers,2 - 5,1,N/A,N/A,N/A
+8,Lauri Markkanen,FG_ASSISTED,Kris Dunn,10:23,1,Bulls,Pacers,2 - 8,1,26,3,Jumper
+9,Myles Turner,TURNOVER,Wendell Carter,10:02,1,Pacers,Bulls,2 - 8,0,N/A,N/A,N/A
+10,Zach LaVine,FG_ASSISTED,Lauri Markkanen,9:49,1,Bulls,Pacers,2 - 11,1,26,3,Jumper
+11,Team,Unknown,None,9:41,1,Pacers,Bulls,2 - 11,0,N/A,N/A,N/A
+12,Darren Collison,FG_MISS,None,9:23,1,Pacers,Bulls,2 - 11,0,24,2,Jumper
+13,Team,DEFENSIVE_REBOUND,None,9:20,1,Bulls,Pacers,2 - 11,1,N/A,N/A,N/A
+14,Wendell Carter,FG_ASSISTED,Zach LaVine,9:06,1,Bulls,Pacers,2 - 13,1,0,2,Layup
+15,Thaddeus Young,FG_UNASSISTED,None,8:46,1,Pacers,Bulls,4 - 13,0,1,2,Jumper
+16,Zach LaVine,TURNOVER,Victor Oladipo,8:37,1,Bulls,Pacers,4 - 13,1,N/A,N/A,N/A
+17,Victor Oladipo,TURNOVER,Wendell Carter,8:32,1,Pacers,Bulls,4 - 13,0,N/A,N/A,N/A
+18,Zach LaVine,FG_ASSISTED,Kris Dunn,8:23,1,Bulls,Pacers,4 - 15,1,20,2,Jumper
+19,Bojan Bogdanovic,FG_MISS,None,8:08,1,Pacers,Bulls,4 - 15,0,18,2,Jumper
+20,Chandler Hutchison,DEFENSIVE_REBOUND,None,8:05,1,Bulls,Pacers,4 - 15,1,N/A,N/A,N/A
+21,Lauri Markkanen,FG_MISS,None,7:53,1,Bulls,Pacers,4 - 15,1,23,3,Jumper
+22,Victor Oladipo,DEFENSIVE_REBOUND,None,7:50,1,Pacers,Bulls,4 - 15,0,N/A,N/A,N/A
+23,Victor Oladipo,FG_UNASSISTED,None,7:48,1,Pacers,Bulls,6 - 15,0, ,2,Jumper
+24,Zach LaVine,FOUL_ON_FLOOR,None,7:48,1,Bulls,Pacers,6 - 15,1,N/A,N/A,N/A
+25,Victor Oladipo,FT,None,7:48,1,Pacers,Bulls,7 - 15,0,N/A,1,N/A
+26,Wendell Carter,FG_MISS,None,7:33,1,Bulls,Pacers,7 - 15,1,11,2,Jumper
+27,Victor Oladipo,DEFENSIVE_REBOUND,None,7:31,1,Pacers,Bulls,7 - 15,0,N/A,N/A,N/A
+28,Victor Oladipo,FG_MISS,None,7:24,1,Pacers,Bulls,7 - 15,0,0,2,Layup
+29,Lauri Markkanen,DEFENSIVE_REBOUND,None,7:21,1,Bulls,Pacers,7 - 15,1,N/A,N/A,N/A
+30,Lauri Markkanen,TURNOVER,None,7:12,1,Bulls,Pacers,7 - 15,1,N/A,N/A,N/A
+31,Darren Collison,TURNOVER,Zach LaVine,6:59,1,Pacers,Bulls,7 - 15,0,N/A,N/A,N/A
+32,Zach LaVine,FG_UNASSISTED,None,6:56,1,Bulls,Pacers,7 - 17,1,0,2,Dunk
+33,Victor Oladipo,FG_UNASSISTED,None,6:38,1,Pacers,Bulls,9 - 17,0, ,2,Jumper
+34,Chandler Hutchison,FG_MISS,None,6:24,1,Bulls,Pacers,9 - 17,1,0,2,Layup
+35,Victor Oladipo,DEFENSIVE_REBOUND,None,6:22,1,Pacers,Bulls,9 - 17,0,N/A,N/A,N/A
+36,Victor Oladipo,FG_MISS,None,6:17,1,Pacers,Bulls,9 - 17,0,25,3,Jumper
+37,Lauri Markkanen,DEFENSIVE_REBOUND,None,6:15,1,Bulls,Pacers,9 - 17,1,N/A,N/A,N/A
+38,Team,Unknown,None,6:10,1,Bulls,Pacers,9 - 17,1,N/A,N/A,N/A
+39,Zach LaVine,FG_ASSISTED,Wendell Carter,6:04,1,Bulls,Pacers,9 - 20,1,24,3,Jumper
+40,Bojan Bogdanovic,FG_ASSISTED,Darren Collison,5:50,1,Pacers,Bulls,11 - 20,0,0,2,Layup
+41,Chandler Hutchison,FG_ASSISTED,Kris Dunn,5:24,1,Bulls,Pacers,11 - 22,1,18,2,Jumper
+42,Myles Turner,FG_ASSISTED,Thaddeus Young,4:59,1,Pacers,Bulls,13 - 22,0,0,2,Layup
+43,Lauri Markkanen,FOUL_ON_FLOOR,None,4:59,1,Bulls,Pacers,13 - 22,1,N/A,N/A,N/A
+44,Myles Turner,FT_MISS,None,4:59,1,Pacers,Bulls,13 - 22,0,N/A,1,N/A
+45,Lauri Markkanen,DEFENSIVE_REBOUND,None,4:54,1,Bulls,Pacers,13 - 22,1,N/A,N/A,N/A
+46,Zach LaVine,FG_UNASSISTED,None,4:38,1,Bulls,Pacers,13 - 24,1,23,2,Jumper
+47,Victor Oladipo,FG_MISS,None,4:14,1,Pacers,Bulls,13 - 24,0,0,2,Layup
+48,Lauri Markkanen,DEFENSIVE_REBOUND,None,4:12,1,Bulls,Pacers,13 - 24,1,N/A,N/A,N/A
+49,Zach LaVine,FG_MISS,None,4:02,1,Bulls,Pacers,13 - 24,1,23,3,Jumper
+50,Thaddeus Young,DEFENSIVE_REBOUND,None,3:58,1,Pacers,Bulls,13 - 24,0,N/A,N/A,N/A
+51,Thaddeus Young,TURNOVER,Zach LaVine,3:55,1,Pacers,Bulls,13 - 24,0,N/A,N/A,N/A
+52,Lauri Markkanen,TURNOVER,None,3:49,1,Bulls,Pacers,13 - 24,1,N/A,N/A,N/A
+53,Lauri Markkanen,TURNOVER,None,3:49,1,Bulls,Pacers,13 - 24,1,N/A,N/A,N/A
+54,Jabari Parker,SUBSTITUTION,Markkanen Lauri,3:49,1,Bulls,Pacers,13 - 24,1,N/A,N/A,N/A
+55,Cory Joseph,SUBSTITUTION,Young Thaddeus,3:49,1,Pacers,Bulls,13 - 24,0,N/A,N/A,N/A
+56,Domantas Sabonis,SUBSTITUTION,Bogdanovic Bojan,3:49,1,Pacers,Bulls,13 - 24,0,N/A,N/A,N/A
+57,Myles Turner,FG_MISS,None,3:33,1,Pacers,Bulls,13 - 24,0,17,2,Jumper
+58,Team,OFFENSIVE_REBOUND,None,3:33,1,Pacers,Bulls,13 - 24,0,N/A,N/A,N/A
+59,Zach LaVine,FOUL_ON_FLOOR,None,3:33,1,Bulls,Pacers,13 - 24,1,N/A,N/A,N/A
+60,Cory Joseph,FG_UNASSISTED,None,3:17,1,Pacers,Bulls,15 - 24,0,13,2,Jumper
+61,Wendell Carter,FG_ASSISTED,Kris Dunn,3:00,1,Bulls,Pacers,15 - 26,1,5,2,Jumper
+62,Myles Turner,FOUL_ON_FLOOR,None,3:00,1,Pacers,Bulls,15 - 26,0,N/A,N/A,N/A
+63,Tyreke Evans,SUBSTITUTION,Collison Darren,3:00,1,Pacers,Bulls,15 - 26,0,N/A,N/A,N/A
+64,Wendell Carter,FT,None,3:00,1,Bulls,Pacers,15 - 27,1,N/A,1,N/A
+65,Victor Oladipo,FG_MISS,None,2:49,1,Pacers,Bulls,15 - 27,0,22,2,Jumper
+66,Jabari Parker,DEFENSIVE_REBOUND,None,2:45,1,Bulls,Pacers,15 - 27,1,N/A,N/A,N/A
+67,Zach LaVine,FG_UNASSISTED,None,2:35,1,Bulls,Pacers,15 - 30,1,26,3,Jumper
+68,Myles Turner,FG_ASSISTED,Victor Oladipo,2:33,1,Pacers,Bulls,18 - 30,0,26,3,Jumper
+69,Jabari Parker,FG_MISS,None,2:08,1,Bulls,Pacers,18 - 30,1,20,2,Jumper
+70,Victor Oladipo,DEFENSIVE_REBOUND,None,2:05,1,Pacers,Bulls,18 - 30,0,N/A,N/A,N/A
+71,Victor Oladipo,FG_MISS,None,1:57,1,Pacers,Bulls,18 - 30,0,0,2,Layup
+72,Kris Dunn,DEFENSIVE_REBOUND,None,1:55,1,Bulls,Pacers,18 - 30,1,N/A,N/A,N/A
+73,Chandler Hutchison,FG_MISS,Victor Oladipo,1:52,1,Pacers,Bulls,18 - 30,1,0,2,Layup
+74,Cory Joseph,DEFENSIVE_REBOUND,None,1:50,1,Pacers,Bulls,18 - 30,0,N/A,N/A,N/A
+75,Tyreke Evans,TURNOVER,Wendell Carter,1:46,1,Pacers,Bulls,18 - 30,0,N/A,N/A,N/A
+76,Zach LaVine,TURNOVER,Domantas Sabonis,1:23,1,Bulls,Pacers,18 - 30,1,N/A,N/A,N/A
+77,Kris Dunn,FOUL_ON_FLOOR,None,1:19,1,Bulls,Pacers,18 - 30,1,N/A,N/A,N/A
+78,Ryan Arcidiacono,SUBSTITUTION,LaVine Zach,1:19,1,Bulls,Pacers,18 - 30,1,N/A,N/A,N/A
+79,Antonio Blakeney,SUBSTITUTION,Dunn Kris,1:19,1,Bulls,Pacers,18 - 30,1,N/A,N/A,N/A
+80,Thaddeus Young,SUBSTITUTION,Oladipo Victor,1:19,1,Pacers,Bulls,18 - 30,0,N/A,N/A,N/A
+81,Doug McDermott,SUBSTITUTION,Turner Myles,1:19,1,Pacers,Bulls,18 - 30,0,N/A,N/A,N/A
+82,Domantas Sabonis,FG_MISS,None,1:08,1,Pacers,Bulls,18 - 30,0,7,2,Jumper
+83,Team,DEFENSIVE_REBOUND,None,1:08,1,Bulls,Pacers,18 - 30,1,N/A,N/A,N/A
+84,Ryan Arcidiacono,FG_MISS,None,44.9,1,Bulls,Pacers,18 - 30,1,24,3,Jumper
+85,Team,OFFENSIVE_REBOUND,None,44.9,1,Bulls,Pacers,18 - 30,1,N/A,N/A,N/A
+86,shot clock,TURNOVER,None,44.3,1,Bulls,Pacers,18 - 30,1,N/A,N/A,N/A
+87,Tyreke Evans,TURNOVER,None,32.5,1,Pacers,Bulls,18 - 30,0,N/A,N/A,N/A
+88,Jabari Parker,TURNOVER,None,15.8,1,Bulls,Pacers,18 - 30,1,N/A,N/A,N/A
+89,Cory Joseph,FG_MISS,None,8.3,1,Pacers,Bulls,18 - 30,0,14,2,Jumper
+90,Tyreke Evans,OFFENSIVE_REBOUND,None,3.3,1,Pacers,Bulls,18 - 30,0,N/A,N/A,N/A
+91,Tyreke Evans,FG_MISS,None,0.0,1,Pacers,Bulls,18 - 30,0,26,3,Jumper
+92,Team,OFFENSIVE_REBOUND,None,0.0,1,Pacers,Bulls,18 - 30,0,N/A,N/A,N/A
+93,End of,Unknown,None,0.0,1,Bulls,Pacers,18 - 30,1,N/A,N/A,N/A
+0,Shaquille Harrison,SUBSTITUTION,Hutchison Chandler,12:00,2,Bulls,Pacers,18 - 30,1,N/A,N/A,N/A
+1,Robin Lopez,SUBSTITUTION,Carter Wendell,12:00,2,Bulls,Pacers,18 - 30,1,N/A,N/A,N/A
+2,Domantas Sabonis,FG_ASSISTED,Tyreke Evans,11:43,2,Pacers,Bulls,20 - 30,0,0,2,Layup
+3,Robin Lopez,TURNOVER,Tyreke Evans,11:30,2,Bulls,Pacers,20 - 30,1,N/A,N/A,N/A
+4,Tyreke Evans,FG_UNASSISTED,None,11:26,2,Pacers,Bulls,22 - 30,0, ,2,Jumper
+5,Shaquille Harrison,FG_UNASSISTED,None,11:03,2,Bulls,Pacers,22 - 32,1,0,2,Layup
+6,Doug McDermott,FG_MISS,None,10:48,2,Pacers,Bulls,22 - 32,0,23,3,Jumper
+7,Jabari Parker,DEFENSIVE_REBOUND,None,10:44,2,Bulls,Pacers,22 - 32,1,N/A,N/A,N/A
+8,Antonio Blakeney,FG_UNASSISTED,None,10:34,2,Bulls,Pacers,22 - 34,1,13,2,Jumper
+9,Domantas Sabonis,FG_MISS,None,10:19,2,Pacers,Bulls,22 - 34,0,0,2,Layup
+10,Domantas Sabonis,OFFENSIVE_REBOUND,None,10:14,2,Pacers,Bulls,22 - 34,0,N/A,N/A,N/A
+11,Domantas Sabonis,FG_UNASSISTED,None,10:14,2,Pacers,Bulls,24 - 34,0, ,2,Jumper
+12,Jabari Parker,FG_UNASSISTED,None,10:09,2,Bulls,Pacers,24 - 36,1,0,2,Layup
+13,Antonio Blakeney,FOUL_ON_FLOOR,None,9:57,2,Bulls,Pacers,24 - 36,1,N/A,N/A,N/A
+14,Thaddeus Young,FT_MISS,None,9:57,2,Pacers,Bulls,24 - 36,0,N/A,1,N/A
+15,Team,OFFENSIVE_REBOUND,None,9:57,2,Pacers,Bulls,24 - 36,0,N/A,N/A,N/A
+16,Thaddeus Young,FT_MISS,None,9:57,2,Pacers,Bulls,24 - 36,0,N/A,1,N/A
+17,Domantas Sabonis,OFFENSIVE_REBOUND,None,9:54,2,Pacers,Bulls,24 - 36,0,N/A,N/A,N/A
+18,Thaddeus Young,FG_ASSISTED,Domantas Sabonis,9:53,2,Pacers,Bulls,26 - 36,0,0,2,Dunk
+19,Team,Unknown,None,9:53,2,Bulls,Pacers,24 - 36,1,N/A,N/A,N/A
+20,Robin Lopez,TURNOVER,None,9:35,2,Bulls,Pacers,26 - 36,1,N/A,N/A,N/A
+21,Tyreke Evans,FG_MISS,None,9:20,2,Pacers,Bulls,26 - 36,0, ,3,Jumper
+22,Domantas Sabonis,OFFENSIVE_REBOUND,None,9:15,2,Pacers,Bulls,26 - 36,0,N/A,N/A,N/A
+23,Domantas Sabonis,FG_UNASSISTED,None,9:15,2,Pacers,Bulls,28 - 36,0, ,2,Jumper
+24,Robin Lopez,TURNOVER,None,8:59,2,Bulls,Pacers,28 - 36,1,N/A,N/A,N/A
+25,Shaquille Harrison,FOUL_ON_FLOOR,None,8:47,2,Bulls,Pacers,28 - 36,1,N/A,N/A,N/A
+26,Lauri Markkanen,SUBSTITUTION,Lopez Robin,8:47,2,Bulls,Pacers,28 - 36,1,N/A,N/A,N/A
+27,Domantas Sabonis,FG_ASSISTED,Cory Joseph,8:32,2,Pacers,Bulls,30 - 36,0,6,2,Jumper
+28,Shaquille Harrison,FG_MISS,Doug McDermott,8:12,2,Pacers,Bulls,30 - 36,1,0,2,Layup
+29,Domantas Sabonis,DEFENSIVE_REBOUND,None,8:09,2,Pacers,Bulls,30 - 36,0,N/A,N/A,N/A
+30,Cory Joseph,TURNOVER,Antonio Blakeney,8:06,2,Pacers,Bulls,30 - 36,0,N/A,N/A,N/A
+31,Antonio Blakeney,FG_MISS,Thaddeus Young,7:59,2,Pacers,Bulls,30 - 36,1,7,2,Jumper
+32,Bojan Bogdanovic,SUBSTITUTION,Young Thaddeus,7:59,2,Pacers,Bulls,30 - 36,0,N/A,N/A,N/A
+33,Team,OFFENSIVE_REBOUND,None,7:59,2,Bulls,Pacers,30 - 36,1,N/A,N/A,N/A
+34,Jabari Parker,FG_MISS,None,7:47,2,Bulls,Pacers,30 - 36,1, ,2,Jumper
+35,Doug McDermott,DEFENSIVE_REBOUND,None,7:44,2,Pacers,Bulls,30 - 36,0,N/A,N/A,N/A
+36,Tyreke Evans,FG_ASSISTED,Cory Joseph,7:42,2,Pacers,Bulls,32 - 36,0,0,2,Layup
+37,Team,Unknown,None,7:42,2,Bulls,Pacers,32 - 36,1,N/A,N/A,N/A
+38,Wendell Carter,SUBSTITUTION,Parker Jabari,7:42,2,Bulls,Pacers,32 - 36,1,N/A,N/A,N/A
+39,Shaquille Harrison,FG_MISS,None,7:30,2,Bulls,Pacers,32 - 36,1,0,2,Layup
+40,Cory Joseph,DEFENSIVE_REBOUND,None,7:29,2,Pacers,Bulls,32 - 36,0,N/A,N/A,N/A
+41,Tyreke Evans,FG_MISS,None,7:26,2,Pacers,Bulls,32 - 36,0, ,2,Jumper
+42,Lauri Markkanen,DEFENSIVE_REBOUND,None,7:26,2,Bulls,Pacers,32 - 36,1,N/A,N/A,N/A
+43,Antonio Blakeney,FG_UNASSISTED,None,7:08,2,Bulls,Pacers,32 - 38,1,0,2,Layup
+44,Domantas Sabonis,FG_UNASSISTED,None,6:44,2,Pacers,Bulls,34 - 38,0, ,2,Jumper
+45,Lauri Markkanen,FG_ASSISTED,Shaquille Harrison,6:26,2,Bulls,Pacers,34 - 40,1,0,2,Layup
+46,Shaquille Harrison,FOUL_ON_FLOOR,None,6:07,2,Bulls,Pacers,34 - 40,1,N/A,N/A,N/A
+47,Domantas Sabonis,FT,None,6:07,2,Pacers,Bulls,35 - 40,0,N/A,1,N/A
+48,Zach LaVine,SUBSTITUTION,Harrison Shaquille,6:07,2,Bulls,Pacers,35 - 40,1,N/A,N/A,N/A
+49,Kris Dunn,SUBSTITUTION,Arcidiacono Ryan,6:07,2,Bulls,Pacers,35 - 40,1,N/A,N/A,N/A
+50,Victor Oladipo,SUBSTITUTION,McDermott Doug,6:07,2,Pacers,Bulls,35 - 40,0,N/A,N/A,N/A
+51,Domantas Sabonis,FT,None,6:07,2,Pacers,Bulls,36 - 40,0,N/A,1,N/A
+52,Antonio Blakeney,FG_MISS,None,5:46,2,Bulls,Pacers,36 - 40,1,27,3,Jumper
+53,Domantas Sabonis,DEFENSIVE_REBOUND,None,5:43,2,Pacers,Bulls,36 - 40,0,N/A,N/A,N/A
+54,Victor Oladipo,FG_MISS,None,5:35,2,Pacers,Bulls,36 - 40,0,26,3,Jumper
+55,Antonio Blakeney,DEFENSIVE_REBOUND,None,5:32,2,Bulls,Pacers,36 - 40,1,N/A,N/A,N/A
+56,Domantas Sabonis,FOUL_ON_FLOOR,None,5:23,2,Pacers,Bulls,36 - 40,0,N/A,N/A,N/A
+57,Darren Collison,SUBSTITUTION,Evans Tyreke,5:23,2,Pacers,Bulls,36 - 40,0,N/A,N/A,N/A
+58,Lauri Markkanen,FG_ASSISTED,Wendell Carter,5:17,2,Bulls,Pacers,36 - 42,1,0,2,Layup
+59,Domantas Sabonis,FG_ASSISTED,Victor Oladipo,5:05,2,Pacers,Bulls,38 - 42,0,0,2,Dunk
+60,Zach LaVine,FOUL_ON_FLOOR,None,5:05,2,Bulls,Pacers,38 - 42,1,N/A,N/A,N/A
+61,Chandler Hutchison,SUBSTITUTION,LaVine Zach,5:05,2,Bulls,Pacers,38 - 42,1,N/A,N/A,N/A
+62,Domantas Sabonis,FT,None,5:05,2,Pacers,Bulls,39 - 42,0,N/A,1,N/A
+63,Darren Collison,FOUL_ON_FLOOR,None,4:54,2,Pacers,Bulls,39 - 42,0,N/A,N/A,N/A
+64,Antonio Blakeney,FG_ASSISTED,Kris Dunn,4:47,2,Bulls,Pacers,39 - 45,1,22,3,Jumper
+65,Victor Oladipo,FG_ASSISTED,Cory Joseph,4:28,2,Pacers,Bulls,41 - 45,0,0,2,Dunk
+66,Darren Collison,FOUL_ON_FLOOR,None,4:16,2,Pacers,Bulls,41 - 45,0,N/A,N/A,N/A
+67,Kris Dunn,FT_MISS,None,4:16,2,Bulls,Pacers,41 - 45,1,N/A,1,N/A
+68,Team,OFFENSIVE_REBOUND,None,4:16,2,Bulls,Pacers,41 - 45,1,N/A,N/A,N/A
+69,Thaddeus Young,SUBSTITUTION,Joseph Cory,4:16,2,Pacers,Bulls,41 - 45,0,N/A,N/A,N/A
+70,Myles Turner,SUBSTITUTION,Sabonis Domantas,4:16,2,Pacers,Bulls,41 - 45,0,N/A,N/A,N/A
+71,Kris Dunn,FT,None,4:16,2,Bulls,Pacers,41 - 46,1,N/A,1,N/A
+72,Bojan Bogdanovic,FG_MISS,None,4:01,2,Pacers,Bulls,41 - 46,0,26,3,Jumper
+73,Kris Dunn,DEFENSIVE_REBOUND,None,3:59,2,Bulls,Pacers,41 - 46,1,N/A,N/A,N/A
+74,Lauri Markkanen,FG_MISS,None,3:50,2,Bulls,Pacers,41 - 46,1,0,2,Layup
+75,Lauri Markkanen,OFFENSIVE_REBOUND,None,3:46,2,Bulls,Pacers,41 - 46,1,N/A,N/A,N/A
+76,Lauri Markkanen,FG_UNASSISTED,None,3:46,2,Bulls,Pacers,41 - 48,1, ,2,Jumper
+77,Victor Oladipo,FG_UNASSISTED,None,3:33,2,Pacers,Bulls,43 - 48,0,0,2,Layup
+78,Thaddeus Young,FOUL_ON_FLOOR,None,3:22,2,Pacers,Bulls,43 - 48,0,N/A,N/A,N/A
+79,Antonio Blakeney,FG_MISS,None,3:16,2,Bulls,Pacers,43 - 48,1,22,3,Jumper
+80,Thaddeus Young,DEFENSIVE_REBOUND,None,3:12,2,Pacers,Bulls,43 - 48,0,N/A,N/A,N/A
+81,Chandler Hutchison,FOUL_ON_FLOOR,None,3:03,2,Bulls,Pacers,43 - 48,1,N/A,N/A,N/A
+82,Bojan Bogdanovic,FT,None,3:03,2,Pacers,Bulls,44 - 48,0,N/A,1,N/A
+83,Bojan Bogdanovic,FT,None,3:03,2,Pacers,Bulls,45 - 48,0,N/A,1,N/A
+84,Kris Dunn,FG_MISS,None,2:45,2,Bulls,Pacers,45 - 48,1, ,2,Jumper
+85,Wendell Carter,OFFENSIVE_REBOUND,None,2:45,2,Bulls,Pacers,45 - 48,1,N/A,N/A,N/A
+86,Wendell Carter,FG_UNASSISTED,None,2:45,2,Bulls,Pacers,45 - 50,1,0,2,Layup
+87,Myles Turner,FOUL_ON_FLOOR,None,2:45,2,Pacers,Bulls,45 - 50,0,N/A,N/A,N/A
+88,Wendell Carter,FT,None,2:45,2,Bulls,Pacers,45 - 51,1,N/A,1,N/A
+89,Darren Collison,FG_ASSISTED,Bojan Bogdanovic,2:30,2,Pacers,Bulls,48 - 51,0, ,3,Jumper
+90,Kris Dunn,TURNOVER,Victor Oladipo,2:14,2,Bulls,Pacers,48 - 51,1,N/A,N/A,N/A
+91,Darren Collison,TURNOVER,Antonio Blakeney,2:07,2,Pacers,Bulls,48 - 51,0,N/A,N/A,N/A
+92,Lauri Markkanen,FG_ASSISTED,Kris Dunn,2:01,2,Bulls,Pacers,48 - 54,1,27,3,Jumper
+93,Victor Oladipo,FG_MISS,None,1:41,2,Pacers,Bulls,48 - 54,0,26,3,Jumper
+94,Lauri Markkanen,DEFENSIVE_REBOUND,None,1:39,2,Bulls,Pacers,48 - 54,1,N/A,N/A,N/A
+95,Lauri Markkanen,TURNOVER,None,1:32,2,Bulls,Pacers,48 - 54,1,N/A,N/A,N/A
+96,Cory Joseph,SUBSTITUTION,Collison Darren,1:32,2,Pacers,Bulls,48 - 54,0,N/A,N/A,N/A
+97,Domantas Sabonis,SUBSTITUTION,Turner Myles,1:32,2,Pacers,Bulls,48 - 54,0,N/A,N/A,N/A
+98,Bojan Bogdanovic,FG_MISS,None,1:18,2,Pacers,Bulls,48 - 54,0,0,2,Layup
+99,Antonio Blakeney,DEFENSIVE_REBOUND,None,1:18,2,Bulls,Pacers,48 - 54,1,N/A,N/A,N/A
+100,Bojan Bogdanovic,FOUL_TECHNICAL,None,1:18,2,Pacers,Bulls,48 - 54,0,N/A,N/A,N/A
+101,Lauri Markkanen,FT_MISS,None,1:18,2,Bulls,Pacers,48 - 54,1,N/A,1,N/A
+102,Team,OFFENSIVE_REBOUND,None,1:18,2,Bulls,Pacers,48 - 54,1,N/A,N/A,N/A
+103,Wendell Carter,FG_ASSISTED,Kris Dunn,1:07,2,Bulls,Pacers,48 - 56,1,0,2,Layup
+104,Victor Oladipo,FG_UNASSISTED,None,57.4,2,Pacers,Bulls,50 - 56,0,22,2,Jumper
+105,Lauri Markkanen,FG_MISS,None,39.4,2,Bulls,Pacers,50 - 56,1,27,3,Jumper
+106,Bojan Bogdanovic,DEFENSIVE_REBOUND,None,37.4,2,Pacers,Bulls,50 - 56,0,N/A,N/A,N/A
+107,Bojan Bogdanovic,FG_UNASSISTED,None,34.6,2,Pacers,Bulls,52 - 56,0, ,2,Jumper
+108,Kris Dunn,FG_UNASSISTED,None,25.2,2,Bulls,Pacers,52 - 58,1,7,2,Jumper
+109,Victor Oladipo,FG_MISS,None,5.7,2,Pacers,Bulls,52 - 58,0,27,3,Jumper
+110,Bojan Bogdanovic,OFFENSIVE_REBOUND,None,5.7,2,Pacers,Bulls,52 - 58,0,N/A,N/A,N/A
+111,Bojan Bogdanovic,FG_MISS,None,4.0,2,Pacers,Bulls,52 - 58,0, ,2,Jumper
+112,Domantas Sabonis,OFFENSIVE_REBOUND,None,3.5,2,Pacers,Bulls,52 - 58,0,N/A,N/A,N/A
+113,Domantas Sabonis,FG_UNASSISTED,None,2.0,2,Pacers,Bulls,54 - 58,0, ,2,Jumper
+114,Chandler Hutchison,FG_MISS,None,0.4,2,Bulls,Pacers,54 - 58,1,69,3,Jumper
+115,Team,OFFENSIVE_REBOUND,None,0.1,2,Bulls,Pacers,54 - 58,1,N/A,N/A,N/A
+116,End of,Unknown,None,0.0,2,Bulls,Pacers,54 - 58,1,N/A,N/A,N/A
+0,Zach LaVine,SUBSTITUTION,Blakeney Antonio,12:00,3,Bulls,Pacers,54 - 58,1,N/A,N/A,N/A
+1,Myles Turner,SUBSTITUTION,Joseph Cory,12:00,3,Pacers,Bulls,54 - 58,0,N/A,N/A,N/A
+2,Darren Collison,SUBSTITUTION,Sabonis Domantas,12:00,3,Pacers,Bulls,54 - 58,0,N/A,N/A,N/A
+3,Thaddeus Young,TURNOVER,Lauri Markkanen,11:38,3,Pacers,Bulls,54 - 58,0,N/A,N/A,N/A
+4,Lauri Markkanen,FG_MISS,None,11:14,3,Bulls,Pacers,54 - 58,1,16,2,Jumper
+5,Bojan Bogdanovic,DEFENSIVE_REBOUND,None,11:12,3,Pacers,Bulls,54 - 58,0,N/A,N/A,N/A
+6,Chandler Hutchison,FOUL_ON_FLOOR,None,11:04,3,Bulls,Pacers,54 - 58,1,N/A,N/A,N/A
+7,Victor Oladipo,FG_MISS,None,10:57,3,Pacers,Bulls,54 - 58,0,26,3,Jumper
+8,Chandler Hutchison,DEFENSIVE_REBOUND,None,10:55,3,Bulls,Pacers,54 - 58,1,N/A,N/A,N/A
+9,Zach LaVine,FG_MISS,None,10:45,3,Bulls,Pacers,54 - 58,1,26,3,Jumper
+10,Thaddeus Young,DEFENSIVE_REBOUND,None,10:43,3,Pacers,Bulls,54 - 58,0,N/A,N/A,N/A
+11,Darren Collison,FG_UNASSISTED,None,10:37,3,Pacers,Bulls,57 - 58,0,27,3,Jumper
+12,Lauri Markkanen,FG_ASSISTED,Kris Dunn,10:22,3,Bulls,Pacers,57 - 60,1,0,2,Layup
+13,Thaddeus Young,FOUL_ON_FLOOR,None,10:22,3,Pacers,Bulls,57 - 60,0,N/A,N/A,N/A
+14,Lauri Markkanen,FT,None,10:22,3,Bulls,Pacers,57 - 61,1,N/A,1,N/A
+15,Bojan Bogdanovic,FG_MISS,None,10:11,3,Pacers,Bulls,57 - 61,0,0,2,Layup
+16,Kris Dunn,DEFENSIVE_REBOUND,None,10:10,3,Bulls,Pacers,57 - 61,1,N/A,N/A,N/A
+17,Kris Dunn,TURNOVER,None,10:08,3,Bulls,Pacers,57 - 61,1,N/A,N/A,N/A
+18,Victor Oladipo,FG_MISS,None,9:49,3,Pacers,Bulls,57 - 61,0,26,3,Jumper
+19,Bojan Bogdanovic,OFFENSIVE_REBOUND,None,9:41,3,Pacers,Bulls,57 - 61,0,N/A,N/A,N/A
+20,Bojan Bogdanovic,FG_MISS,None,9:41,3,Pacers,Bulls,57 - 61,0, ,2,Jumper
+21,Lauri Markkanen,DEFENSIVE_REBOUND,None,9:41,3,Bulls,Pacers,57 - 61,1,N/A,N/A,N/A
+22,Chandler Hutchison,FG_MISS,None,9:34,3,Bulls,Pacers,57 - 61,1,8,2,Jumper
+23,Darren Collison,DEFENSIVE_REBOUND,None,9:30,3,Pacers,Bulls,57 - 61,0,N/A,N/A,N/A
+24,Victor Oladipo,FG_ASSISTED,Thaddeus Young,9:18,3,Pacers,Bulls,60 - 61,0,26,3,Jumper
+25,Wendell Carter,FG_MISS,None,8:59,3,Bulls,Pacers,60 - 61,1,23,3,Jumper
+26,Victor Oladipo,DEFENSIVE_REBOUND,None,8:56,3,Pacers,Bulls,60 - 61,0,N/A,N/A,N/A
+27,Victor Oladipo,FG_UNASSISTED,None,8:50,3,Pacers,Bulls,62 - 61,0, ,2,Jumper
+28,Team,Unknown,None,8:45,3,Bulls,Pacers,62 - 61,1,N/A,N/A,N/A
+29,Lauri Markkanen,TURNOVER,Victor Oladipo,8:34,3,Bulls,Pacers,62 - 61,1,N/A,N/A,N/A
+30,Victor Oladipo,FG_UNASSISTED,None,8:31,3,Pacers,Bulls,64 - 61,0, ,2,Jumper
+31,Lauri Markkanen,FG_MISS,None,8:08,3,Bulls,Pacers,64 - 61,1,13,2,Jumper
+32,Victor Oladipo,DEFENSIVE_REBOUND,None,8:05,3,Pacers,Bulls,64 - 61,0,N/A,N/A,N/A
+33,Victor Oladipo,FG_UNASSISTED,None,7:52,3,Pacers,Bulls,67 - 61,0,25,3,Jumper
+34,Chandler Hutchison,FG_MISS,None,7:22,3,Bulls,Pacers,67 - 61,1,22,3,Jumper
+35,Myles Turner,DEFENSIVE_REBOUND,None,7:19,3,Pacers,Bulls,67 - 61,0,N/A,N/A,N/A
+36,Victor Oladipo,FG_MISS,None,7:14,3,Pacers,Bulls,67 - 61,0,26,3,Jumper
+37,Wendell Carter,DEFENSIVE_REBOUND,None,7:11,3,Bulls,Pacers,67 - 61,1,N/A,N/A,N/A
+38,Lauri Markkanen,FG_ASSISTED,Kris Dunn,6:57,3,Bulls,Pacers,67 - 63,1,0,2,Layup
+39,Darren Collison,FG_MISS,None,6:41,3,Pacers,Bulls,67 - 63,0,24,3,Jumper
+40,Wendell Carter,DEFENSIVE_REBOUND,None,6:39,3,Bulls,Pacers,67 - 63,1,N/A,N/A,N/A
+41,Zach LaVine,FG_MISS,None,6:24,3,Bulls,Pacers,67 - 63,1,5,2,Jumper
+42,Myles Turner,DEFENSIVE_REBOUND,None,6:21,3,Pacers,Bulls,67 - 63,0,N/A,N/A,N/A
+43,Thaddeus Young,FG_ASSISTED,Darren Collison,6:11,3,Pacers,Bulls,69 - 63,0,0,2,Layup
+44,Kris Dunn,FG_UNASSISTED,None,5:58,3,Bulls,Pacers,69 - 65,1,0,2,Layup
+45,Myles Turner,FOUL_ON_FLOOR,None,5:58,3,Pacers,Bulls,69 - 65,0,N/A,N/A,N/A
+46,Kris Dunn,FT,None,5:58,3,Bulls,Pacers,69 - 66,1,N/A,1,N/A
+47,Bojan Bogdanovic,FG_MISS,None,5:47,3,Pacers,Bulls,69 - 66,0,0,2,Layup
+48,Wendell Carter,DEFENSIVE_REBOUND,None,5:45,3,Bulls,Pacers,69 - 66,1,N/A,N/A,N/A
+49,Chandler Hutchison,FG_MISS,None,5:40,3,Bulls,Pacers,69 - 66,1,0,2,Layup
+50,Wendell Carter,OFFENSIVE_REBOUND,None,5:40,3,Bulls,Pacers,69 - 66,1,N/A,N/A,N/A
+51,Wendell Carter,FG_UNASSISTED,None,5:40,3,Bulls,Pacers,69 - 68,1, ,2,Jumper
+52,Team,Unknown,None,5:40,3,Pacers,Bulls,69 - 68,0,N/A,N/A,N/A
+53,Darren Collison,FG_MISS,None,5:19,3,Pacers,Bulls,69 - 68,0, ,2,Jumper
+54,Zach LaVine,DEFENSIVE_REBOUND,None,5:16,3,Bulls,Pacers,69 - 68,1,N/A,N/A,N/A
+55,Wendell Carter,FG_ASSISTED,Zach LaVine,5:03,3,Bulls,Pacers,69 - 70,1,0,2,Dunk
+56,Victor Oladipo,FG_UNASSISTED,None,4:46,3,Pacers,Bulls,71 - 70,0,0,2,Layup
+57,Myles Turner,Unknown,None,4:34,3,Pacers,Bulls,71 - 70,0,N/A,N/A,N/A
+58,Zach LaVine,FG_MISS,None,4:24,3,Bulls,Pacers,71 - 70,1,0,2,Layup
+59,Team,OFFENSIVE_REBOUND,None,4:24,3,Bulls,Pacers,71 - 70,1,N/A,N/A,N/A
+60,Zach LaVine,TURNOVER,None,4:24,3,Bulls,Pacers,71 - 70,1,N/A,N/A,N/A
+61,Thaddeus Young,FG_ASSISTED,Bojan Bogdanovic,4:11,3,Pacers,Bulls,73 - 70,0,0,2,Dunk
+62,Kris Dunn,FG_UNASSISTED,None,3:54,3,Bulls,Pacers,73 - 72,1,15,2,Jumper
+63,Victor Oladipo,TURNOVER,None,3:37,3,Pacers,Bulls,73 - 72,0,N/A,N/A,N/A
+64,Cory Joseph,SUBSTITUTION,Young Thaddeus,3:37,3,Pacers,Bulls,73 - 72,0,N/A,N/A,N/A
+65,Domantas Sabonis,SUBSTITUTION,Bogdanovic Bojan,3:37,3,Pacers,Bulls,73 - 72,0,N/A,N/A,N/A
+66,Lauri Markkanen,FG_MISS,None,3:24,3,Bulls,Pacers,73 - 72,1,26,3,Jumper
+67,Wendell Carter,OFFENSIVE_REBOUND,None,3:24,3,Bulls,Pacers,73 - 72,1,N/A,N/A,N/A
+68,Darren Collison,FOUL_ON_FLOOR,None,3:24,3,Pacers,Bulls,73 - 72,0,N/A,N/A,N/A
+69,Victor Oladipo,FOUL_ON_FLOOR,None,3:13,3,Pacers,Bulls,73 - 72,0,N/A,N/A,N/A
+70,Antonio Blakeney,SUBSTITUTION,LaVine Zach,3:13,3,Bulls,Pacers,73 - 72,1,N/A,N/A,N/A
+71,Chandler Hutchison,FG_ASSISTED,Kris Dunn,2:59,3,Bulls,Pacers,73 - 74,1,0,2,Dunk
+72,Victor Oladipo,FG_MISS,None,2:45,3,Pacers,Bulls,73 - 74,0,0,2,Layup
+73,Chandler Hutchison,DEFENSIVE_REBOUND,None,2:43,3,Bulls,Pacers,73 - 74,1,N/A,N/A,N/A
+74,Myles Turner,FOUL_ON_FLOOR,None,2:36,3,Pacers,Bulls,73 - 74,0,N/A,N/A,N/A
+75,Antonio Blakeney,FT,None,2:36,3,Bulls,Pacers,73 - 75,1,N/A,1,N/A
+76,Ryan Arcidiacono,SUBSTITUTION,Hutchison Chandler,2:36,3,Bulls,Pacers,73 - 75,1,N/A,N/A,N/A
+77,Tyreke Evans,SUBSTITUTION,Collison Darren,2:36,3,Pacers,Bulls,73 - 75,0,N/A,N/A,N/A
+78,Doug McDermott,SUBSTITUTION,Oladipo Victor,2:36,3,Pacers,Bulls,73 - 75,0,N/A,N/A,N/A
+79,Bojan Bogdanovic,SUBSTITUTION,Turner Myles,2:36,3,Pacers,Bulls,73 - 75,0,N/A,N/A,N/A
+80,Antonio Blakeney,FT,None,2:36,3,Bulls,Pacers,73 - 76,1,N/A,1,N/A
+81,Tyreke Evans,FG_ASSISTED,Bojan Bogdanovic,2:17,3,Pacers,Bulls,75 - 76,0,0,2,Layup
+82,Antonio Blakeney,FG_ASSISTED,Ryan Arcidiacono,1:55,3,Bulls,Pacers,75 - 78,1,0,2,Layup
+83,Cory Joseph,FG_MISS,None,1:34,3,Pacers,Bulls,75 - 78,0,25,3,Jumper
+84,Kris Dunn,DEFENSIVE_REBOUND,None,1:32,3,Bulls,Pacers,75 - 78,1,N/A,N/A,N/A
+85,Kris Dunn,FG_MISS,None,1:19,3,Bulls,Pacers,75 - 78,1,18,2,Jumper
+86,Domantas Sabonis,DEFENSIVE_REBOUND,None,1:17,3,Pacers,Bulls,75 - 78,0,N/A,N/A,N/A
+87,Tyreke Evans,FG_MISS,None,56.9,3,Pacers,Bulls,75 - 78,0,5,2,Jumper
+88,Lauri Markkanen,DEFENSIVE_REBOUND,None,54.2,3,Bulls,Pacers,75 - 78,1,N/A,N/A,N/A
+89,Lauri Markkanen,TURNOVER,None,51.9,3,Bulls,Pacers,75 - 78,1,N/A,N/A,N/A
+90,Lauri Markkanen,TURNOVER,None,51.9,3,Bulls,Pacers,75 - 78,1,N/A,N/A,N/A
+91,Shaquille Harrison,SUBSTITUTION,Dunn Kris,51.9,3,Bulls,Pacers,75 - 78,1,N/A,N/A,N/A
+92,Ryan Arcidiacono,FOUL_ON_FLOOR,None,35.3,3,Bulls,Pacers,75 - 78,1,N/A,N/A,N/A
+93,Domantas Sabonis,TURNOVER,Ryan Arcidiacono,25.2,3,Pacers,Bulls,75 - 78,0,N/A,N/A,N/A
+94,Antonio Blakeney,FG_MISS,None,3.0,3,Bulls,Pacers,75 - 78,1,15,2,Jumper
+95,Bojan Bogdanovic,DEFENSIVE_REBOUND,None,3.0,3,Pacers,Bulls,75 - 78,0,N/A,N/A,N/A
+96,End of,Unknown,None,0.0,3,Bulls,Pacers,75 - 78,1,N/A,N/A,N/A
+0,Robin Lopez,SUBSTITUTION,Markkanen Lauri,12:00,4,Bulls,Pacers,75 - 78,1,N/A,N/A,N/A
+1,Jabari Parker,SUBSTITUTION,Carter Wendell,12:00,4,Bulls,Pacers,75 - 78,1,N/A,N/A,N/A
+2,Jabari Parker,FG_MISS,None,11:48,4,Bulls,Pacers,75 - 78,1,0,2,Layup
+3,Domantas Sabonis,DEFENSIVE_REBOUND,None,11:46,4,Pacers,Bulls,75 - 78,0,N/A,N/A,N/A
+4,Bojan Bogdanovic,FG_ASSISTED,Tyreke Evans,11:32,4,Pacers,Bulls,77 - 78,0,0,2,Layup
+5,Robin Lopez,FG_ASSISTED,Ryan Arcidiacono,11:14,4,Bulls,Pacers,77 - 80,1,8,2,Jumper
+6,Bojan Bogdanovic,FG_MISS,None,10:51,4,Pacers,Bulls,77 - 80,0,23,2,Jumper
+7,Team,OFFENSIVE_REBOUND,None,10:51,4,Pacers,Bulls,77 - 80,0,N/A,N/A,N/A
+8,Robin Lopez,FOUL_ON_FLOOR,None,10:51,4,Bulls,Pacers,77 - 80,1,N/A,N/A,N/A
+9,Tyreke Evans,FG_MISS,None,10:42,4,Pacers,Bulls,77 - 80,0,23,2,Jumper
+10,Antonio Blakeney,DEFENSIVE_REBOUND,None,10:39,4,Bulls,Pacers,77 - 80,1,N/A,N/A,N/A
+11,Antonio Blakeney,FG_UNASSISTED,None,10:18,4,Bulls,Pacers,77 - 82,1,0,2,Layup
+12,Cory Joseph,FOUL_ON_FLOOR,None,10:05,4,Pacers,Bulls,77 - 82,0,N/A,N/A,N/A
+13,Cory Joseph,TURNOVER,None,10:05,4,Pacers,Bulls,77 - 82,0,N/A,N/A,N/A
+14,Thaddeus Young,SUBSTITUTION,Bogdanovic Bojan,10:05,4,Pacers,Bulls,77 - 82,0,N/A,N/A,N/A
+15,Jabari Parker,FG_MISS,None,9:41,4,Bulls,Pacers,77 - 82,1,26,3,Jumper
+16,Domantas Sabonis,DEFENSIVE_REBOUND,None,9:38,4,Pacers,Bulls,77 - 82,0,N/A,N/A,N/A
+17,Tyreke Evans,FG_UNASSISTED,None,9:30,4,Pacers,Bulls,79 - 82,0,0,2,Layup
+18,Robin Lopez,TURNOVER,Thaddeus Young,9:09,4,Bulls,Pacers,79 - 82,1,N/A,N/A,N/A
+19,Tyreke Evans,FG_UNASSISTED,None,9:07,4,Pacers,Bulls,81 - 82,0, ,2,Jumper
+20,Team,Unknown,None,9:07,4,Bulls,Pacers,81 - 82,1,N/A,N/A,N/A
+21,Zach LaVine,SUBSTITUTION,Blakeney Antonio,9:07,4,Bulls,Pacers,81 - 82,1,N/A,N/A,N/A
+22,Jabari Parker,FG_UNASSISTED,None,8:42,4,Bulls,Pacers,81 - 84,1,6,2,Jumper
+23,Robin Lopez,FOUL_ON_FLOOR,None,8:30,4,Bulls,Pacers,81 - 84,1,N/A,N/A,N/A
+24,Tyreke Evans,FG_MISS,None,8:19,4,Pacers,Bulls,81 - 84,0,26,3,Jumper
+25,Zach LaVine,DEFENSIVE_REBOUND,None,8:17,4,Bulls,Pacers,81 - 84,1,N/A,N/A,N/A
+26,Zach LaVine,FG_MISS,None,8:11,4,Bulls,Pacers,81 - 84,1,18,2,Jumper
+27,Domantas Sabonis,DEFENSIVE_REBOUND,None,8:07,4,Pacers,Bulls,81 - 84,0,N/A,N/A,N/A
+28,Domantas Sabonis,FG_MISS,None,7:56,4,Pacers,Bulls,81 - 84,0,23,2,Jumper
+29,Jabari Parker,DEFENSIVE_REBOUND,None,7:54,4,Bulls,Pacers,81 - 84,1,N/A,N/A,N/A
+30,Zach LaVine,FG_ASSISTED,Jabari Parker,7:44,4,Bulls,Pacers,81 - 86,1,0,2,Dunk
+31,Team,Unknown,None,7:44,4,Pacers,Bulls,81 - 84,0,N/A,N/A,N/A
+32,Lauri Markkanen,SUBSTITUTION,Lopez Robin,7:44,4,Bulls,Pacers,81 - 86,1,N/A,N/A,N/A
+33,Doug McDermott,FG_ASSISTED,Tyreke Evans,7:31,4,Pacers,Bulls,84 - 86,0,27,3,Jumper
+34,Kris Dunn,SUBSTITUTION,Arcidiacono Ryan,7:20,4,Bulls,Pacers,84 - 86,1,N/A,N/A,N/A
+35,Doug McDermott,FOUL_ON_FLOOR,None,7:11,4,Pacers,Bulls,84 - 86,0,N/A,N/A,N/A
+36,Zach LaVine,FG_MISS,None,7:02,4,Bulls,Pacers,84 - 86,1,26,3,Jumper
+37,Domantas Sabonis,DEFENSIVE_REBOUND,None,6:59,4,Pacers,Bulls,84 - 86,0,N/A,N/A,N/A
+38,Doug McDermott,FG_ASSISTED,Domantas Sabonis,6:54,4,Pacers,Bulls,86 - 86,0,21,2,Jumper
+39,Jabari Parker,FG_MISS,None,6:35,4,Bulls,Pacers,86 - 86,1,0,2,Layup
+40,Jabari Parker,OFFENSIVE_REBOUND,None,6:32,4,Bulls,Pacers,86 - 86,1,N/A,N/A,N/A
+41,Jabari Parker,FG_MISS,None,6:32,4,Bulls,Pacers,86 - 86,1, ,2,Jumper
+42,Tyreke Evans,DEFENSIVE_REBOUND,None,6:31,4,Pacers,Bulls,86 - 86,0,N/A,N/A,N/A
+43,Tyreke Evans,FG_MISS,Shaquille Harrison,6:30,4,Bulls,Pacers,86 - 86,0,0,2,Layup
+44,Thaddeus Young,OFFENSIVE_REBOUND,None,6:30,4,Pacers,Bulls,86 - 86,0,N/A,N/A,N/A
+45,Thaddeus Young,FG_UNASSISTED,None,6:30,4,Pacers,Bulls,88 - 86,0, ,2,Jumper
+46,Jabari Parker,Unknown,None,6:30,4,Bulls,Pacers,88 - 86,1,N/A,N/A,N/A
+47,Kris Dunn,FG_ASSISTED,Lauri Markkanen,6:10,4,Bulls,Pacers,88 - 89,1,25,3,Jumper
+48,Jabari Parker,FOUL_ON_FLOOR,None,5:48,4,Bulls,Pacers,88 - 89,1,N/A,N/A,N/A
+49,Wendell Carter,SUBSTITUTION,Parker Jabari,5:48,4,Bulls,Pacers,88 - 89,1,N/A,N/A,N/A
+50,Victor Oladipo,SUBSTITUTION,Evans Tyreke,5:48,4,Pacers,Bulls,88 - 89,0,N/A,N/A,N/A
+51,Bojan Bogdanovic,SUBSTITUTION,McDermott Doug,5:48,4,Pacers,Bulls,88 - 89,0,N/A,N/A,N/A
+52,Thaddeus Young,FG_ASSISTED,Cory Joseph,5:36,4,Pacers,Bulls,90 - 89,0, ,2,Jumper
+53,Lauri Markkanen,TURNOVER,Thaddeus Young,5:17,4,Bulls,Pacers,90 - 89,1,N/A,N/A,N/A
+54,Thaddeus Young,FG_ASSISTED,Cory Joseph,5:07,4,Pacers,Bulls,92 - 89,0, ,2,Jumper
+55,Team,Unknown,None,5:07,4,Bulls,Pacers,90 - 89,1,N/A,N/A,N/A
+56,Zach LaVine,FG_MISS,None,4:55,4,Bulls,Pacers,92 - 89,1,0,2,Layup
+57,Wendell Carter,OFFENSIVE_REBOUND,None,4:55,4,Bulls,Pacers,92 - 89,1,N/A,N/A,N/A
+58,Cory Joseph,FOUL_ON_FLOOR,None,4:55,4,Pacers,Bulls,92 - 89,0,N/A,N/A,N/A
+59,Wendell Carter,FT_MISS,None,4:55,4,Bulls,Pacers,92 - 89,1,N/A,1,N/A
+60,Team,OFFENSIVE_REBOUND,None,4:55,4,Bulls,Pacers,92 - 89,1,N/A,N/A,N/A
+61,Wendell Carter,FT,None,4:55,4,Bulls,Pacers,92 - 90,1,N/A,1,N/A
+62,Victor Oladipo,FG_UNASSISTED,None,4:37,4,Pacers,Bulls,94 - 90,0,16,2,Jumper
+63,Wendell Carter,FG_MISS,None,4:18,4,Bulls,Pacers,94 - 90,1,7,2,Jumper
+64,Shaquille Harrison,OFFENSIVE_REBOUND,None,4:17,4,Bulls,Pacers,94 - 90,1,N/A,N/A,N/A
+65,Shaquille Harrison,FG_MISS,None,4:16,4,Bulls,Pacers,94 - 90,1,3,2,Jumper
+66,Domantas Sabonis,DEFENSIVE_REBOUND,None,4:16,4,Pacers,Bulls,94 - 90,0,N/A,N/A,N/A
+67,Cory Joseph,FG_MISS,None,4:07,4,Pacers,Bulls,94 - 90,0,25,3,Jumper
+68,Wendell Carter,DEFENSIVE_REBOUND,None,4:04,4,Bulls,Pacers,94 - 90,1,N/A,N/A,N/A
+69,Lauri Markkanen,FG_MISS,None,3:49,4,Bulls,Pacers,94 - 90,1,26,3,Jumper
+70,Victor Oladipo,DEFENSIVE_REBOUND,None,3:45,4,Pacers,Bulls,94 - 90,0,N/A,N/A,N/A
+71,Team,Unknown,None,3:45,4,Pacers,Bulls,94 - 90,0,N/A,N/A,N/A
+72,Kris Dunn,FOUL_ON_FLOOR,None,3:32,4,Bulls,Pacers,94 - 90,1,N/A,N/A,N/A
+73,Thaddeus Young,FG_ASSISTED,Domantas Sabonis,3:22,4,Pacers,Bulls,96 - 90,0,0,2,Layup
+74,Zach LaVine,FG_UNASSISTED,None,3:05,4,Bulls,Pacers,96 - 92,1, ,2,Jumper
+75,Bojan Bogdanovic,FG_MISS,None,2:48,4,Pacers,Bulls,96 - 92,0,24,3,Jumper
+76,Thaddeus Young,OFFENSIVE_REBOUND,None,2:46,4,Pacers,Bulls,96 - 92,0,N/A,N/A,N/A
+77,Bojan Bogdanovic,FG_MISS,Wendell Carter,2:45,4,Bulls,Pacers,96 - 92,0,7,2,Jumper
+78,Team,OFFENSIVE_REBOUND,None,2:45,4,Pacers,Bulls,96 - 92,0,N/A,N/A,N/A
+79,Domantas Sabonis,FG_ASSISTED,Bojan Bogdanovic,2:35,4,Pacers,Bulls,98 - 92,0,19,2,Jumper
+80,Zach LaVine,FG_MISS,None,2:14,4,Bulls,Pacers,98 - 92,1,26,3,Jumper
+81,Cory Joseph,DEFENSIVE_REBOUND,None,2:11,4,Pacers,Bulls,98 - 92,0,N/A,N/A,N/A
+82,Kris Dunn,Unknown,None,1:58,4,Bulls,Pacers,98 - 92,1,N/A,N/A,N/A
+83,Victor Oladipo,FG_MISS,None,1:48,4,Pacers,Bulls,98 - 92,0,25,3,Jumper
+84,Shaquille Harrison,DEFENSIVE_REBOUND,None,1:45,4,Bulls,Pacers,98 - 92,1,N/A,N/A,N/A
+85,Thaddeus Young,FOUL_ON_FLOOR,None,1:35,4,Pacers,Bulls,98 - 92,0,N/A,N/A,N/A
+86,Shaquille Harrison,FG_UNASSISTED,None,1:28,4,Bulls,Pacers,98 - 94,1,10,2,Jumper
+87,Wendell Carter,FOUL_ON_FLOOR,None,1:12,4,Bulls,Pacers,98 - 94,1,N/A,N/A,N/A
+88,Domantas Sabonis,FT,None,1:12,4,Pacers,Bulls,99 - 94,0,N/A,1,N/A
+89,Domantas Sabonis,FT,None,1:12,4,Pacers,Bulls,100 - 94,0,N/A,1,N/A
+90,Zach LaVine,FG_ASSISTED,Kris Dunn,1:03,4,Bulls,Pacers,100 - 96,1, ,2,Jumper
+91,Domantas Sabonis,FG_ASSISTED,Victor Oladipo,45.9,4,Pacers,Bulls,102 - 96,0,0,2,Dunk
+92,Team,Unknown,None,32.5,4,Bulls,Pacers,102 - 96,1,N/A,N/A,N/A
+93,Antonio Blakeney,SUBSTITUTION,Harrison Shaquille,32.5,4,Bulls,Pacers,102 - 96,1,N/A,N/A,N/A
+94,Myles Turner,SUBSTITUTION,Sabonis Domantas,32.5,4,Pacers,Bulls,102 - 96,0,N/A,N/A,N/A
+95,Kris Dunn,FG_ASSISTED,Wendell Carter,26.8,4,Bulls,Pacers,102 - 99,1,26,2,Jumper
+96,Team,Unknown,None,26.8,4,Pacers,Bulls,102 - 99,0,N/A,N/A,N/A
+97,Shaquille Harrison,SUBSTITUTION,Blakeney Antonio,26.8,4,Bulls,Pacers,102 - 99,1,N/A,N/A,N/A
+98,Darren Collison,SUBSTITUTION,Joseph Cory,26.8,4,Pacers,Bulls,102 - 99,0,N/A,N/A,N/A
+99,Domantas Sabonis,SUBSTITUTION,Turner Myles,26.8,4,Pacers,Bulls,102 - 99,0,N/A,N/A,N/A
+100,Kris Dunn,FOUL_ON_FLOOR,None,25.1,4,Bulls,Pacers,102 - 99,1,N/A,N/A,N/A
+101,Victor Oladipo,FT,None,25.1,4,Pacers,Bulls,103 - 99,0,N/A,1,N/A
+102,Antonio Blakeney,SUBSTITUTION,Harrison Shaquille,25.1,4,Bulls,Pacers,103 - 99,1,N/A,N/A,N/A
+103,Myles Turner,SUBSTITUTION,Collison Darren,25.1,4,Pacers,Bulls,103 - 99,0,N/A,N/A,N/A
+104,Cory Joseph,SUBSTITUTION,Sabonis Domantas,25.1,4,Pacers,Bulls,103 - 99,0,N/A,N/A,N/A
+105,Victor Oladipo,FT,None,25.1,4,Pacers,Bulls,104 - 99,0,N/A,1,N/A
+106,Zach LaVine,FG_ASSISTED,Kris Dunn,17.3,4,Bulls,Pacers,104 - 102,1,29,3,Jumper
+107,Team,Unknown,None,16.8,4,Pacers,Bulls,104 - 102,0,N/A,N/A,N/A
+108,Shaquille Harrison,SUBSTITUTION,Blakeney Antonio,16.8,4,Bulls,Pacers,104 - 102,1,N/A,N/A,N/A
+109,Doug McDermott,SUBSTITUTION,Young Thaddeus,16.8,4,Pacers,Bulls,104 - 102,0,N/A,N/A,N/A
+110,Darren Collison,SUBSTITUTION,Turner Myles,16.8,4,Pacers,Bulls,104 - 102,0,N/A,N/A,N/A
+111,Domantas Sabonis,SUBSTITUTION,Joseph Cory,16.8,4,Pacers,Bulls,104 - 102,0,N/A,N/A,N/A
+112,Shaquille Harrison,FOUL_ON_FLOOR,None,14.3,4,Bulls,Pacers,104 - 102,1,N/A,N/A,N/A
+113,Bojan Bogdanovic,FT_MISS,None,14.3,4,Pacers,Bulls,104 - 102,0,N/A,1,N/A
+114,Team,OFFENSIVE_REBOUND,None,14.3,4,Pacers,Bulls,104 - 102,0,N/A,N/A,N/A
+115,Antonio Blakeney,SUBSTITUTION,Harrison Shaquille,14.3,4,Bulls,Pacers,104 - 102,1,N/A,N/A,N/A
+116,Thaddeus Young,SUBSTITUTION,McDermott Doug,14.3,4,Pacers,Bulls,104 - 102,0,N/A,N/A,N/A
+117,Myles Turner,SUBSTITUTION,Collison Darren,14.3,4,Pacers,Bulls,104 - 102,0,N/A,N/A,N/A
+118,Cory Joseph,SUBSTITUTION,Sabonis Domantas,14.3,4,Pacers,Bulls,104 - 102,0,N/A,N/A,N/A
+119,Bojan Bogdanovic,FT,None,14.3,4,Pacers,Bulls,105 - 102,0,N/A,1,N/A
+120,Zach LaVine,FG_ASSISTED,Kris Dunn,3.9,4,Bulls,Pacers,105 - 105,1,29,3,Jumper
+121,End of,Unknown,None,0.0,4,Bulls,Pacers,105 - 105,1,N/A,N/A,N/A

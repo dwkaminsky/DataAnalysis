@@ -1,0 +1,506 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Ben Simmons,JUMP_BALL,None,12:00,1,Nuggets,76ers,0 - 0,1,N/A,N/A,N/A
+1,Nikola Jokic,FG_MISS,None,11:39,1,Nuggets,76ers,0 - 0,1,0,2,Layup
+2,Nikola Jokic,OFFENSIVE_REBOUND,None,11:37,1,Nuggets,76ers,0 - 0,1,N/A,N/A,N/A
+3,Nikola Jokic,FG_MISS,None,11:37,1,Nuggets,76ers,0 - 0,1,-,2,Jumper
+4,Nikola Jokic,OFFENSIVE_REBOUND,None,11:36,1,Nuggets,76ers,0 - 0,1,N/A,N/A,N/A
+5,Nikola Jokic,FG_ASSISTED,Paul Millsap,11:31,1,Nuggets,76ers,0 - 2,1,-,2,Jumper
+6,Corey Brewer,FG_UNASSISTED,None,11:09,1,76ers,Nuggets,2 - 2,0,0,2,Layup
+7,Will Barton,FG_UNASSISTED,None,10:59,1,Nuggets,76ers,2 - 4,1,2,2,Jumper
+8,Ben Simmons,FG_ASSISTED,T.J. McConnell,10:48,1,76ers,Nuggets,4 - 4,0,0,2,Layup
+9,Corey Brewer,FOUL_ON_FLOOR,None,10:45,1,76ers,Nuggets,4 - 4,0,N/A,N/A,N/A
+10,Will Barton,FT,None,10:45,1,Nuggets,76ers,4 - 5,1,N/A,1,N/A
+11,Nikola Jokic,FG_ASSISTED,Gary Harris,10:32,1,Nuggets,76ers,4 - 7,1,-,2,Jumper
+12,Ben Simmons,FOUL_ON_FLOOR,None,10:32,1,76ers,Nuggets,4 - 7,0,N/A,N/A,N/A
+13,Nikola Jokic,FT,None,10:32,1,Nuggets,76ers,4 - 8,1,N/A,1,N/A
+14,JJ Redick,FG_MISS,None,10:20,1,76ers,Nuggets,4 - 8,0,15,2,Jumper
+15,Nikola Jokic,DEFENSIVE_REBOUND,None,10:18,1,Nuggets,76ers,4 - 8,1,N/A,N/A,N/A
+16,Will Barton,FG_MISS,None,10:14,1,Nuggets,76ers,4 - 8,1,26,3,Jumper
+17,Corey Brewer,DEFENSIVE_REBOUND,None,10:09,1,76ers,Nuggets,4 - 8,0,N/A,N/A,N/A
+18,Paul Millsap,FOUL_ON_FLOOR,None,10:07,1,Nuggets,76ers,4 - 8,1,N/A,N/A,N/A
+19,Corey Brewer,FT,None,10:07,1,76ers,Nuggets,5 - 8,0,N/A,1,N/A
+20,Corey Brewer,FT,None,10:07,1,76ers,Nuggets,6 - 8,0,N/A,1,N/A
+21,Nikola Jokic,FG_ASSISTED,Will Barton,9:53,1,Nuggets,76ers,6 - 11,1,26,3,Jumper
+22,Jonah Bolden,FG_MISS,None,9:31,1,76ers,Nuggets,6 - 11,0,26,3,Jumper
+23,Will Barton,DEFENSIVE_REBOUND,None,9:30,1,Nuggets,76ers,6 - 11,1,N/A,N/A,N/A
+24,Jonah Bolden,FOUL_ON_FLOOR,None,9:27,1,76ers,Nuggets,6 - 11,0,N/A,N/A,N/A
+25,Gary Harris,FG_MISS,None,9:25,1,Nuggets,76ers,6 - 11,1,25,3,Jumper
+26,Ben Simmons,DEFENSIVE_REBOUND,None,9:22,1,76ers,Nuggets,6 - 11,0,N/A,N/A,N/A
+27,JJ Redick,FOUL_ON_FLOOR,None,9:17,1,76ers,Nuggets,6 - 11,0,N/A,N/A,N/A
+28,JJ Redick,TURNOVER,None,9:17,1,76ers,Nuggets,6 - 11,0,N/A,N/A,N/A
+29,Gary Harris,TURNOVER,Corey Brewer,9:05,1,Nuggets,76ers,6 - 11,1,N/A,N/A,N/A
+30,T.J. McConnell,FG_UNASSISTED,None,9:01,1,76ers,Nuggets,8 - 11,0,13,2,Jumper
+31,Gary Harris,FG_MISS,None,8:46,1,Nuggets,76ers,8 - 11,1, ,2,Jumper
+32,Team,DEFENSIVE_REBOUND,None,8:46,1,76ers,Nuggets,8 - 11,0,N/A,N/A,N/A
+33,Torrey Craig,FOUL_ON_FLOOR,None,8:32,1,Nuggets,76ers,8 - 11,1,N/A,N/A,N/A
+34,Jonah Bolden,FT,None,8:32,1,76ers,Nuggets,9 - 11,0,N/A,1,N/A
+35,Jonah Bolden,FT_MISS,None,8:32,1,76ers,Nuggets,9 - 11,0,N/A,1,N/A
+36,Nikola Jokic,DEFENSIVE_REBOUND,None,8:30,1,Nuggets,76ers,9 - 11,1,N/A,N/A,N/A
+37,Torrey Craig,FG_ASSISTED,Nikola Jokic,8:24,1,Nuggets,76ers,9 - 13,1,0,2,Layup
+38,JJ Redick,FG_UNASSISTED,None,8:08,1,76ers,Nuggets,11 - 13,0,21,2,Jumper
+39,Nikola Jokic,FG_MISS,None,7:48,1,Nuggets,76ers,11 - 13,1,5,2,Jumper
+40,Torrey Craig,OFFENSIVE_REBOUND,None,7:46,1,Nuggets,76ers,11 - 13,1,N/A,N/A,N/A
+41,Torrey Craig,FG_MISS,None,7:46,1,Nuggets,76ers,11 - 13,1, ,2,Jumper
+42,Nikola Jokic,OFFENSIVE_REBOUND,None,7:46,1,Nuggets,76ers,11 - 13,1,N/A,N/A,N/A
+43,Nikola Jokic,FG_UNASSISTED,None,7:44,1,Nuggets,76ers,11 - 15,1, ,2,Jumper
+44,Gary Harris,FOUL_ON_FLOOR,None,7:38,1,Nuggets,76ers,11 - 15,1,N/A,N/A,N/A
+45,JJ Redick,FG_MISS,None,7:28,1,76ers,Nuggets,11 - 15,0,26,3,Jumper
+46,Nikola Jokic,DEFENSIVE_REBOUND,None,7:26,1,Nuggets,76ers,11 - 15,1,N/A,N/A,N/A
+47,Will Barton,FG_ASSISTED,Nikola Jokic,7:16,1,Nuggets,76ers,11 - 17,1,2,2,Jumper
+48,Ben Simmons,FG_MISS,None,7:03,1,76ers,Nuggets,11 - 17,0, ,2,Jumper
+49,Will Barton,DEFENSIVE_REBOUND,None,7:01,1,Nuggets,76ers,11 - 17,1,N/A,N/A,N/A
+50,Gary Harris,FG_MISS,None,6:56,1,Nuggets,76ers,11 - 17,1,22,3,Jumper
+51,Jonah Bolden,DEFENSIVE_REBOUND,None,6:52,1,76ers,Nuggets,11 - 17,0,N/A,N/A,N/A
+52,Ben Simmons,TURNOVER,Torrey Craig,6:50,1,76ers,Nuggets,11 - 17,0,N/A,N/A,N/A
+53,Torrey Craig,FG_UNASSISTED,None,6:45,1,Nuggets,76ers,11 - 19,1, ,2,Jumper
+54,Team,Unknown,None,6:45,1,76ers,Nuggets,11 - 19,0,N/A,N/A,N/A
+55,Landry Shamet,SUBSTITUTION,Bolden Jonah,6:45,1,76ers,Nuggets,11 - 19,0,N/A,N/A,N/A
+56,Shake Milton,SUBSTITUTION,Redick JJ,6:45,1,76ers,Nuggets,11 - 19,0,N/A,N/A,N/A
+57,Mike Muscala,SUBSTITUTION,McConnell T.J.,6:45,1,76ers,Nuggets,11 - 19,0,N/A,N/A,N/A
+58,Corey Brewer,FG_ASSISTED,Shake Milton,6:28,1,76ers,Nuggets,13 - 19,0,0,2,Layup
+59,Nikola Jokic,FG_ASSISTED,Gary Harris,6:16,1,Nuggets,76ers,13 - 21,1,0,2,Dunk
+60,Ben Simmons,TURNOVER,Gary Harris,6:04,1,76ers,Nuggets,13 - 21,0,N/A,N/A,N/A
+61,Gary Harris,FG_UNASSISTED,None,6:00,1,Nuggets,76ers,13 - 23,1,0,2,Dunk
+62,Ben Simmons,FG_MISS,Gary Harris,5:50,1,Nuggets,76ers,13 - 23,0,0,2,Layup
+63,Team,DEFENSIVE_REBOUND,None,5:50,1,Nuggets,76ers,13 - 23,1,N/A,N/A,N/A
+64,Monte Morris,SUBSTITUTION,Harris Gary,5:50,1,Nuggets,76ers,13 - 23,1,N/A,N/A,N/A
+65,Paul Millsap,FG_MISS,None,5:29,1,Nuggets,76ers,13 - 23,1,4,2,Jumper
+66,Mike Muscala,DEFENSIVE_REBOUND,None,5:27,1,76ers,Nuggets,13 - 23,0,N/A,N/A,N/A
+67,Corey Brewer,FG_UNASSISTED,None,5:20,1,76ers,Nuggets,15 - 23,0,2,2,Jumper
+68,Will Barton,FG_MISS,None,5:14,1,Nuggets,76ers,15 - 23,1,0,2,Layup
+69,Team,OFFENSIVE_REBOUND,None,5:14,1,Nuggets,76ers,15 - 23,1,N/A,N/A,N/A
+70,Nikola Jokic,FG_MISS,None,5:06,1,Nuggets,76ers,15 - 23,1,6,2,Jumper
+71,Landry Shamet,DEFENSIVE_REBOUND,None,5:03,1,76ers,Nuggets,15 - 23,0,N/A,N/A,N/A
+72,Paul Millsap,FOUL_ON_FLOOR,None,4:57,1,Nuggets,76ers,15 - 23,1,N/A,N/A,N/A
+73,Ben Simmons,FT,None,4:57,1,76ers,Nuggets,16 - 23,0,N/A,1,N/A
+74,Mason Plumlee,SUBSTITUTION,Millsap Paul,4:57,1,Nuggets,76ers,16 - 23,1,N/A,N/A,N/A
+75,Ben Simmons,FT_MISS,None,4:57,1,76ers,Nuggets,16 - 23,0,N/A,1,N/A
+76,Torrey Craig,DEFENSIVE_REBOUND,None,4:55,1,Nuggets,76ers,16 - 23,1,N/A,N/A,N/A
+77,Nikola Jokic,FG_UNASSISTED,None,4:42,1,Nuggets,76ers,16 - 25,1,4,2,Jumper
+78,Corey Brewer,FG_ASSISTED,Landry Shamet,4:35,1,76ers,Nuggets,18 - 25,0,0,2,Dunk
+79,Corey Brewer,FOUL_TECHNICAL,None,4:35,1,76ers,Nuggets,18 - 25,0,N/A,N/A,N/A
+80,Will Barton,FT_MISS,None,4:35,1,Nuggets,76ers,18 - 25,1,N/A,1,N/A
+81,Team,OFFENSIVE_REBOUND,None,4:35,1,Nuggets,76ers,18 - 25,1,N/A,N/A,N/A
+82,Torrey Craig,FG_MISS,None,4:21,1,Nuggets,76ers,18 - 25,1,22,3,Jumper
+83,Torrey Craig,OFFENSIVE_REBOUND,None,4:18,1,Nuggets,76ers,18 - 25,1,N/A,N/A,N/A
+84,Will Barton,FG_MISS,None,4:16,1,Nuggets,76ers,18 - 25,1,22,2,Jumper
+85,Corey Brewer,DEFENSIVE_REBOUND,None,4:16,1,76ers,Nuggets,18 - 25,0,N/A,N/A,N/A
+86,Landry Shamet,FG_MISS,None,4:08,1,76ers,Nuggets,18 - 25,0,22,3,Jumper
+87,Nikola Jokic,DEFENSIVE_REBOUND,None,4:04,1,Nuggets,76ers,18 - 25,1,N/A,N/A,N/A
+88,Monte Morris,FG_MISS,None,3:55,1,Nuggets,76ers,18 - 25,1,21,2,Jumper
+89,Ben Simmons,DEFENSIVE_REBOUND,None,3:52,1,76ers,Nuggets,18 - 25,0,N/A,N/A,N/A
+90,Ben Simmons,FG_MISS,None,3:46,1,76ers,Nuggets,18 - 25,0, ,2,Jumper
+91,Monte Morris,FOUL_ON_FLOOR,None,3:46,1,Nuggets,76ers,18 - 25,1,N/A,N/A,N/A
+92,Corey Brewer,OFFENSIVE_REBOUND,None,3:46,1,76ers,Nuggets,18 - 25,0,N/A,N/A,N/A
+93,Team,Unknown,None,3:46,1,Nuggets,76ers,18 - 25,1,N/A,N/A,N/A
+94,Malik Beasley,SUBSTITUTION,Barton Will,3:46,1,Nuggets,76ers,18 - 25,1,N/A,N/A,N/A
+95,Corey Brewer,FT_MISS,None,3:46,1,76ers,Nuggets,18 - 25,0,N/A,1,N/A
+96,Team,OFFENSIVE_REBOUND,None,3:46,1,76ers,Nuggets,18 - 25,0,N/A,N/A,N/A
+97,Corey Brewer,FT,None,3:46,1,76ers,Nuggets,19 - 25,0,N/A,1,N/A
+98,Nikola Jokic,FG_ASSISTED,Malik Beasley,3:37,1,Nuggets,76ers,19 - 28,1,25,3,Jumper
+99,Mike Muscala,FG_ASSISTED,Landry Shamet,3:23,1,76ers,Nuggets,22 - 28,0,25,3,Jumper
+100,Nikola Jokic,FG_MISS,None,3:02,1,Nuggets,76ers,22 - 28,1,3,2,Jumper
+101,Corey Brewer,DEFENSIVE_REBOUND,None,3:00,1,76ers,Nuggets,22 - 28,0,N/A,N/A,N/A
+102,Mike Muscala,FG_ASSISTED,Ben Simmons,2:56,1,76ers,Nuggets,25 - 28,0,25,3,Jumper
+103,Mason Plumlee,FG_ASSISTED,Nikola Jokic,2:39,1,Nuggets,76ers,25 - 30,1,1,2,Jumper
+104,Landry Shamet,FG_UNASSISTED,None,2:26,1,76ers,Nuggets,28 - 30,0,22,2,Jumper
+105,Malik Beasley,FG_ASSISTED,Mason Plumlee,2:18,1,Nuggets,76ers,28 - 33,1,24,3,Jumper
+106,Mason Plumlee,FOUL_ON_FLOOR,None,1:59,1,Nuggets,76ers,28 - 33,1,N/A,N/A,N/A
+107,Ben Simmons,FT,None,1:59,1,76ers,Nuggets,29 - 33,0,N/A,1,N/A
+108,Trey Lyles,SUBSTITUTION,Jokic Nikola,1:59,1,Nuggets,76ers,29 - 33,1,N/A,N/A,N/A
+109,JJ Redick,SUBSTITUTION,Brewer Corey,1:59,1,76ers,Nuggets,29 - 33,0,N/A,N/A,N/A
+110,T.J. McConnell,SUBSTITUTION,Shamet Landry,1:59,1,76ers,Nuggets,29 - 33,0,N/A,N/A,N/A
+111,Furkan Korkmaz,SUBSTITUTION,Milton Shake,1:59,1,76ers,Nuggets,29 - 33,0,N/A,N/A,N/A
+112,Ben Simmons,FT,None,1:59,1,76ers,Nuggets,30 - 33,0,N/A,1,N/A
+113,Monte Morris,FG_ASSISTED,Mason Plumlee,1:46,1,Nuggets,76ers,30 - 35,1,5,2,Jumper
+114,Ben Simmons,FG_ASSISTED,T.J. McConnell,1:26,1,76ers,Nuggets,32 - 35,0, ,2,Jumper
+115,Malik Beasley,TURNOVER,T.J. McConnell,1:13,1,Nuggets,76ers,32 - 35,1,N/A,N/A,N/A
+116,Mike Muscala,TURNOVER,None,1:12,1,76ers,Nuggets,32 - 35,0,N/A,N/A,N/A
+117,Juan Hernangomez,SUBSTITUTION,Craig Torrey,1:12,1,Nuggets,76ers,32 - 35,1,N/A,N/A,N/A
+118,Amir Johnson,SUBSTITUTION,Simmons Ben,1:12,1,76ers,Nuggets,32 - 35,0,N/A,N/A,N/A
+119,Mason Plumlee,FG_UNASSISTED,None,1:00,1,Nuggets,76ers,32 - 37,1,2,2,Jumper
+120,JJ Redick,FG_ASSISTED,Amir Johnson,49.2,1,76ers,Nuggets,34 - 37,0,21,2,Jumper
+121,Monte Morris,FG_UNASSISTED,None,33.2,1,Nuggets,76ers,34 - 39,1, ,2,Jumper
+122,Mike Muscala,FG_ASSISTED,T.J. McConnell,20.8,1,76ers,Nuggets,37 - 39,0,25,3,Jumper
+123,Furkan Korkmaz,FOUL_ON_FLOOR,None,6.3,1,76ers,Nuggets,37 - 39,0,N/A,N/A,N/A
+124,Trey Lyles,FT,None,6.3,1,Nuggets,76ers,37 - 40,1,N/A,1,N/A
+125,Trey Lyles,FT,None,6.3,1,Nuggets,76ers,37 - 41,1,N/A,1,N/A
+126,End of,Unknown,None,0.0,1,Nuggets,76ers,37 - 41,1,N/A,N/A,N/A
+0,Amir Johnson,FG_ASSISTED,T.J. McConnell,11:44,2,76ers,Nuggets,39 - 41,0,0,2,Layup
+1,Mason Plumlee,FOUL_ON_FLOOR,None,11:44,2,Nuggets,76ers,39 - 41,1,N/A,N/A,N/A
+2,Amir Johnson,FT,None,11:44,2,76ers,Nuggets,40 - 41,0,N/A,1,N/A
+3,Trey Lyles,FG_MISS,None,11:25,2,Nuggets,76ers,40 - 41,1,6,2,Jumper
+4,T.J. McConnell,DEFENSIVE_REBOUND,None,11:25,2,76ers,Nuggets,40 - 41,0,N/A,N/A,N/A
+5,Trey Lyles,FOUL_ON_FLOOR,None,11:21,2,Nuggets,76ers,40 - 41,1,N/A,N/A,N/A
+6,Mike Muscala,FT_MISS,None,11:21,2,76ers,Nuggets,40 - 41,0,N/A,1,N/A
+7,Team,OFFENSIVE_REBOUND,None,11:21,2,76ers,Nuggets,40 - 41,0,N/A,N/A,N/A
+8,Mike Muscala,FT,None,11:21,2,76ers,Nuggets,41 - 41,0,N/A,1,N/A
+9,T.J. McConnell,FOUL_ON_FLOOR,None,11:09,2,76ers,Nuggets,41 - 41,0,N/A,N/A,N/A
+10,Mason Plumlee,FT_MISS,None,11:09,2,Nuggets,76ers,41 - 41,1,N/A,1,N/A
+11,Team,OFFENSIVE_REBOUND,None,11:09,2,Nuggets,76ers,41 - 41,1,N/A,N/A,N/A
+12,Mason Plumlee,FT,None,11:09,2,Nuggets,76ers,41 - 42,1,N/A,1,N/A
+13,JJ Redick,FG_MISS,None,10:59,2,76ers,Nuggets,41 - 42,0,25,3,Jumper
+14,Mason Plumlee,DEFENSIVE_REBOUND,None,10:56,2,Nuggets,76ers,41 - 42,1,N/A,N/A,N/A
+15,JJ Redick,FOUL_ON_FLOOR,None,10:46,2,76ers,Nuggets,41 - 42,0,N/A,N/A,N/A
+16,Trey Lyles,FG_ASSISTED,Juan Hernangomez,10:42,2,Nuggets,76ers,41 - 45,1,25,3,Jumper
+17,Furkan Korkmaz,FG_ASSISTED,Amir Johnson,10:28,2,76ers,Nuggets,44 - 45,0,23,3,Jumper
+18,Amir Johnson,FOUL_ON_FLOOR,None,10:13,2,76ers,Nuggets,44 - 45,0,N/A,N/A,N/A
+19,Mason Plumlee,FT,None,10:13,2,Nuggets,76ers,44 - 46,1,N/A,1,N/A
+20,Mason Plumlee,FT,None,10:13,2,Nuggets,76ers,44 - 47,1,N/A,1,N/A
+21,JJ Redick,FG_ASSISTED,Amir Johnson,9:57,2,76ers,Nuggets,46 - 47,0,0,2,Layup
+22,Mason Plumlee,FG_ASSISTED,Monte Morris,9:43,2,Nuggets,76ers,46 - 49,1,0,2,Dunk
+23,Mike Muscala,FG_MISS,None,9:31,2,76ers,Nuggets,46 - 49,0,25,3,Jumper
+24,Trey Lyles,DEFENSIVE_REBOUND,None,9:29,2,Nuggets,76ers,46 - 49,1,N/A,N/A,N/A
+25,Trey Lyles,FG_UNASSISTED,None,9:15,2,Nuggets,76ers,46 - 51,1,4,2,Jumper
+26,Mike Muscala,FG_MISS,None,9:01,2,76ers,Nuggets,46 - 51,0,5,2,Jumper
+27,Mason Plumlee,DEFENSIVE_REBOUND,None,8:59,2,Nuggets,76ers,46 - 51,1,N/A,N/A,N/A
+28,Monte Morris,FG_UNASSISTED,None,8:49,2,Nuggets,76ers,46 - 53,1,9,2,Jumper
+29,Team,Unknown,None,8:47,2,76ers,Nuggets,46 - 53,0,N/A,N/A,N/A
+30,Mike Muscala,TURNOVER,Malik Beasley,8:39,2,76ers,Nuggets,46 - 53,0,N/A,N/A,N/A
+31,Malik Beasley,FG_MISS,None,8:30,2,Nuggets,76ers,46 - 53,1,24,3,Jumper
+32,Mike Muscala,DEFENSIVE_REBOUND,None,8:26,2,76ers,Nuggets,46 - 53,0,N/A,N/A,N/A
+33,Malik Beasley,FOUL_ON_FLOOR,None,8:17,2,Nuggets,76ers,46 - 53,1,N/A,N/A,N/A
+34,JJ Redick,FG_ASSISTED,Mike Muscala,8:04,2,76ers,Nuggets,49 - 53,0,26,3,Jumper
+35,Monte Morris,FG_MISS,None,7:49,2,Nuggets,76ers,49 - 53,1, ,2,Jumper
+36,Team,OFFENSIVE_REBOUND,None,7:49,2,Nuggets,76ers,49 - 53,1,N/A,N/A,N/A
+37,Amir Johnson,FOUL_ON_FLOOR,None,7:49,2,76ers,Nuggets,49 - 53,0,N/A,N/A,N/A
+38,Landry Shamet,SUBSTITUTION,McConnell T.J.,7:49,2,76ers,Nuggets,49 - 53,0,N/A,N/A,N/A
+39,Corey Brewer,SUBSTITUTION,Redick JJ,7:49,2,76ers,Nuggets,49 - 53,0,N/A,N/A,N/A
+40,Shake Milton,SUBSTITUTION,Korkmaz Furkan,7:49,2,76ers,Nuggets,49 - 53,0,N/A,N/A,N/A
+41,Ben Simmons,SUBSTITUTION,Johnson Amir,7:49,2,76ers,Nuggets,49 - 53,0,N/A,N/A,N/A
+42,Malik Beasley,FG_MISS,None,7:44,2,Nuggets,76ers,49 - 53,1, ,2,Jumper
+43,Ben Simmons,DEFENSIVE_REBOUND,None,7:41,2,76ers,Nuggets,49 - 53,0,N/A,N/A,N/A
+44,Ben Simmons,FG_MISS,None,7:38,2,76ers,Nuggets,49 - 53,0, ,2,Jumper
+45,Juan Hernangomez,DEFENSIVE_REBOUND,None,7:36,2,Nuggets,76ers,49 - 53,1,N/A,N/A,N/A
+46,Juan Hernangomez,TURNOVER,Corey Brewer,7:31,2,Nuggets,76ers,49 - 53,1,N/A,N/A,N/A
+47,Ben Simmons,FG_ASSISTED,Corey Brewer,7:28,2,76ers,Nuggets,51 - 53,0,0,2,Dunk
+48,Team,Unknown,None,7:27,2,Nuggets,76ers,51 - 53,1,N/A,N/A,N/A
+49,Torrey Craig,SUBSTITUTION,Lyles Trey,7:27,2,Nuggets,76ers,51 - 53,1,N/A,N/A,N/A
+50,Nikola Jokic,SUBSTITUTION,Beasley Malik,7:27,2,Nuggets,76ers,51 - 53,1,N/A,N/A,N/A
+51,Gary Harris,SUBSTITUTION,Hernangomez Juan,7:27,2,Nuggets,76ers,51 - 53,1,N/A,N/A,N/A
+52,Torrey Craig,FG_ASSISTED,Monte Morris,7:07,2,Nuggets,76ers,51 - 56,1,25,3,Jumper
+53,Torrey Craig,FOUL_ON_FLOOR,None,6:57,2,Nuggets,76ers,51 - 56,1,N/A,N/A,N/A
+54,Mike Muscala,FG_MISS,None,6:54,2,76ers,Nuggets,51 - 56,0,24,3,Jumper
+55,Torrey Craig,DEFENSIVE_REBOUND,None,6:51,2,Nuggets,76ers,51 - 56,1,N/A,N/A,N/A
+56,Torrey Craig,FG_MISS,None,6:32,2,Nuggets,76ers,51 - 56,1,26,3,Jumper
+57,Ben Simmons,DEFENSIVE_REBOUND,None,6:29,2,76ers,Nuggets,51 - 56,0,N/A,N/A,N/A
+58,Shake Milton,FG_ASSISTED,Landry Shamet,6:22,2,76ers,Nuggets,54 - 56,0,22,3,Jumper
+59,Torrey Craig,FG_ASSISTED,Gary Harris,6:01,2,Nuggets,76ers,54 - 58,1,9,2,Jumper
+60,Ben Simmons,FG_MISS,None,5:41,2,76ers,Nuggets,54 - 58,0, ,2,Jumper
+61,Nikola Jokic,DEFENSIVE_REBOUND,None,5:38,2,Nuggets,76ers,54 - 58,1,N/A,N/A,N/A
+62,Torrey Craig,TURNOVER,Shake Milton,5:34,2,Nuggets,76ers,54 - 58,1,N/A,N/A,N/A
+63,Paul Millsap,SUBSTITUTION,Morris Monte,5:30,2,Nuggets,76ers,54 - 58,1,N/A,N/A,N/A
+64,Will Barton,SUBSTITUTION,Plumlee Mason,5:30,2,Nuggets,76ers,54 - 58,1,N/A,N/A,N/A
+65,Ben Simmons,FG_ASSISTED,Landry Shamet,5:22,2,76ers,Nuggets,56 - 58,0,0,2,Dunk
+66,Corey Brewer,FOUL_ON_FLOOR,None,5:15,2,76ers,Nuggets,56 - 58,0,N/A,N/A,N/A
+67,Nikola Jokic,FT_MISS,None,5:15,2,Nuggets,76ers,56 - 58,1,N/A,1,N/A
+68,Team,OFFENSIVE_REBOUND,None,5:15,2,Nuggets,76ers,56 - 58,1,N/A,N/A,N/A
+69,Nikola Jokic,FT,None,5:15,2,Nuggets,76ers,56 - 59,1,N/A,1,N/A
+70,Mike Muscala,FG_MISS,None,5:00,2,76ers,Nuggets,56 - 59,0,25,3,Jumper
+71,Corey Brewer,OFFENSIVE_REBOUND,None,4:56,2,76ers,Nuggets,56 - 59,0,N/A,N/A,N/A
+72,Shake Milton,FG_MISS,None,4:52,2,76ers,Nuggets,56 - 59,0,7,2,Jumper
+73,Shake Milton,OFFENSIVE_REBOUND,None,4:49,2,76ers,Nuggets,56 - 59,0,N/A,N/A,N/A
+74,Landry Shamet,TURNOVER,None,4:45,2,76ers,Nuggets,56 - 59,0,N/A,N/A,N/A
+75,Nikola Jokic,TURNOVER,Corey Brewer,4:25,2,Nuggets,76ers,56 - 59,1,N/A,N/A,N/A
+76,Shake Milton,FG_MISS,None,4:19,2,76ers,Nuggets,56 - 59,0,23,3,Jumper
+77,Paul Millsap,DEFENSIVE_REBOUND,None,4:15,2,Nuggets,76ers,56 - 59,1,N/A,N/A,N/A
+78,Ben Simmons,FOUL_ON_FLOOR,None,4:07,2,76ers,Nuggets,56 - 59,0,N/A,N/A,N/A
+79,Nikola Jokic,FT,None,4:07,2,Nuggets,76ers,56 - 60,1,N/A,1,N/A
+80,JJ Redick,SUBSTITUTION,Brewer Corey,4:07,2,76ers,Nuggets,56 - 60,0,N/A,N/A,N/A
+81,T.J. McConnell,SUBSTITUTION,Milton Shake,4:07,2,76ers,Nuggets,56 - 60,0,N/A,N/A,N/A
+82,Jonah Bolden,SUBSTITUTION,Muscala Mike,4:07,2,76ers,Nuggets,56 - 60,0,N/A,N/A,N/A
+83,Nikola Jokic,FT,None,4:07,2,Nuggets,76ers,56 - 61,1,N/A,1,N/A
+84,Ben Simmons,FG_MISS,None,3:56,2,76ers,Nuggets,56 - 61,0, ,2,Jumper
+85,Nikola Jokic,DEFENSIVE_REBOUND,None,3:54,2,Nuggets,76ers,56 - 61,1,N/A,N/A,N/A
+86,Jonah Bolden,FOUL_ON_FLOOR,None,3:51,2,76ers,Nuggets,56 - 61,0,N/A,N/A,N/A
+87,Paul Millsap,FT,None,3:51,2,Nuggets,76ers,56 - 62,1,N/A,1,N/A
+88,Paul Millsap,FT,None,3:51,2,Nuggets,76ers,56 - 63,1,N/A,1,N/A
+89,Will Barton,FOUL_ON_FLOOR,None,3:39,2,Nuggets,76ers,56 - 63,1,N/A,N/A,N/A
+90,Landry Shamet,FT,None,3:39,2,76ers,Nuggets,57 - 63,0,N/A,1,N/A
+91,Landry Shamet,FT,None,3:39,2,76ers,Nuggets,58 - 63,0,N/A,1,N/A
+92,Landry Shamet,FT,None,3:39,2,76ers,Nuggets,59 - 63,0,N/A,1,N/A
+93,Gary Harris,FG_ASSISTED,Nikola Jokic,3:24,2,Nuggets,76ers,59 - 65,1,0,2,Dunk
+94,T.J. McConnell,FG_MISS,None,3:08,2,76ers,Nuggets,59 - 65,0,7,2,Jumper
+95,Will Barton,DEFENSIVE_REBOUND,None,3:06,2,Nuggets,76ers,59 - 65,1,N/A,N/A,N/A
+96,Will Barton,FG_UNASSISTED,None,3:00,2,Nuggets,76ers,59 - 67,1, ,2,Jumper
+97,Paul Millsap,FOUL_ON_FLOOR,None,2:56,2,Nuggets,76ers,59 - 67,1,N/A,N/A,N/A
+98,Ben Simmons,FT,None,2:56,2,76ers,Nuggets,60 - 67,0,N/A,1,N/A
+99,Mason Plumlee,SUBSTITUTION,Millsap Paul,2:56,2,Nuggets,76ers,60 - 67,1,N/A,N/A,N/A
+100,Ben Simmons,FT_MISS,None,2:56,2,76ers,Nuggets,60 - 67,0,N/A,1,N/A
+101,Nikola Jokic,DEFENSIVE_REBOUND,None,2:53,2,Nuggets,76ers,60 - 67,1,N/A,N/A,N/A
+102,Jonah Bolden,FOUL_ON_FLOOR,None,2:42,2,76ers,Nuggets,60 - 67,0,N/A,N/A,N/A
+103,Will Barton,FT_MISS,None,2:42,2,Nuggets,76ers,60 - 67,1,N/A,1,N/A
+104,Team,OFFENSIVE_REBOUND,None,2:42,2,Nuggets,76ers,60 - 67,1,N/A,N/A,N/A
+105,Mike Muscala,SUBSTITUTION,Bolden Jonah,2:42,2,76ers,Nuggets,60 - 67,0,N/A,N/A,N/A
+106,Will Barton,FT,None,2:42,2,Nuggets,76ers,60 - 68,1,N/A,1,N/A
+107,T.J. McConnell,FG_MISS,None,2:33,2,76ers,Nuggets,60 - 68,0,18,2,Jumper
+108,Mason Plumlee,DEFENSIVE_REBOUND,None,2:31,2,Nuggets,76ers,60 - 68,1,N/A,N/A,N/A
+109,Gary Harris,FG_ASSISTED,Mason Plumlee,2:26,2,Nuggets,76ers,60 - 70,1,23,2,Jumper
+110,Ben Simmons,FG_ASSISTED,JJ Redick,2:04,2,76ers,Nuggets,62 - 71,0,0,2,Dunk
+111,Will Barton,FG_UNASSISTED,None,1:45,2,Nuggets,76ers,62 - 73,1,13,2,Jumper
+112,Mike Muscala,FG_MISS,None,1:30,2,76ers,Nuggets,62 - 73,0,24,3,Jumper
+113,Mason Plumlee,DEFENSIVE_REBOUND,None,1:27,2,Nuggets,76ers,62 - 73,1,N/A,N/A,N/A
+114,Torrey Craig,FG_MISS,None,1:20,2,Nuggets,76ers,62 - 73,1,25,3,Jumper
+115,Ben Simmons,DEFENSIVE_REBOUND,None,1:18,2,76ers,Nuggets,62 - 73,0,N/A,N/A,N/A
+116,JJ Redick,FG_MISS,None,1:11,2,76ers,Nuggets,62 - 73,0,24,2,Jumper
+117,Nikola Jokic,DEFENSIVE_REBOUND,None,1:09,2,Nuggets,76ers,62 - 72,1,N/A,N/A,N/A
+118,Ben Simmons,FOUL_ON_FLOOR,None,1:09,2,76ers,Nuggets,62 - 73,0,N/A,N/A,N/A
+119,Torrey Craig,FT,None,1:09,2,Nuggets,76ers,62 - 74,1,N/A,1,N/A
+120,Amir Johnson,SUBSTITUTION,Simmons Ben,1:09,2,76ers,Nuggets,62 - 74,0,N/A,N/A,N/A
+121,Torrey Craig,FT,None,1:09,2,Nuggets,76ers,62 - 75,1,N/A,1,N/A
+122,JJ Redick,FG_ASSISTED,T.J. McConnell,54.2,2,76ers,Nuggets,65 - 75,0,22,3,Jumper
+123,Will Barton,FG_UNASSISTED,None,49.5,2,Nuggets,76ers,65 - 78,1,25,3,Jumper
+124,T.J. McConnell,FG_ASSISTED,Amir Johnson,33.2,2,76ers,Nuggets,68 - 78,0,23,3,Jumper
+125,Torrey Craig,FG_MISS,Amir Johnson,24.6,2,76ers,Nuggets,68 - 78,1,0,2,Dunk
+126,T.J. McConnell,DEFENSIVE_REBOUND,None,22.2,2,76ers,Nuggets,68 - 78,0,N/A,N/A,N/A
+127,Amir Johnson,FG_MISS,None,1.5,2,76ers,Nuggets,68 - 78,0,0,2,Layup
+128,Nikola Jokic,DEFENSIVE_REBOUND,None,1.5,2,Nuggets,76ers,68 - 78,1,N/A,N/A,N/A
+129,Nikola Jokic,FG_MISS,None,0.2,2,Nuggets,76ers,68 - 77,1,65,3,Jumper
+130,Team,OFFENSIVE_REBOUND,None,0.1,2,Nuggets,76ers,68 - 77,1,N/A,N/A,N/A
+131,End of,Unknown,None,0.0,2,Nuggets,76ers,68 - 77,1,N/A,N/A,N/A
+0,Paul Millsap,SUBSTITUTION,Plumlee Mason,12:00,3,Nuggets,76ers,68 - 77,1,N/A,N/A,N/A
+1,Ben Simmons,SUBSTITUTION,Shamet Landry,12:00,3,76ers,Nuggets,68 - 77,0,N/A,N/A,N/A
+2,Corey Brewer,SUBSTITUTION,Muscala Mike,12:00,3,76ers,Nuggets,68 - 77,0,N/A,N/A,N/A
+3,Corey Brewer,FG_ASSISTED,JJ Redick,11:47,3,76ers,Nuggets,71 - 77,0,25,3,Jumper
+4,Amir Johnson,FOUL_ON_FLOOR,None,11:33,3,76ers,Nuggets,71 - 77,0,N/A,N/A,N/A
+5,Gary Harris,FG_MISS,None,11:27,3,Nuggets,76ers,71 - 77,1,7,2,Jumper
+6,Amir Johnson,DEFENSIVE_REBOUND,None,11:24,3,76ers,Nuggets,71 - 77,0,N/A,N/A,N/A
+7,JJ Redick,FG_MISS,None,11:13,3,76ers,Nuggets,71 - 77,0,25,3,Jumper
+8,JJ Redick,OFFENSIVE_REBOUND,None,11:11,3,76ers,Nuggets,71 - 77,0,N/A,N/A,N/A
+9,JJ Redick,FG_UNASSISTED,None,11:11,3,76ers,Nuggets,73 - 77,0, ,2,Jumper
+10,Team,Unknown,None,11:11,3,Nuggets,76ers,73 - 77,1,N/A,N/A,N/A
+11,Gary Harris,TURNOVER,Amir Johnson,11:01,3,Nuggets,76ers,73 - 77,1,N/A,N/A,N/A
+12,JJ Redick,FG_ASSISTED,T.J. McConnell,10:52,3,76ers,Nuggets,75 - 77,0,23,2,Jumper
+13,Gary Harris,FG_ASSISTED,Nikola Jokic,10:33,3,Nuggets,76ers,75 - 80,1,24,2,Jumper
+14,Corey Brewer,FG_MISS,None,10:15,3,76ers,Nuggets,75 - 80,0,15,2,Jumper
+15,Nikola Jokic,DEFENSIVE_REBOUND,None,10:13,3,Nuggets,76ers,75 - 80,1,N/A,N/A,N/A
+16,Torrey Craig,TURNOVER,None,10:06,3,Nuggets,76ers,75 - 80,1,N/A,N/A,N/A
+17,Torrey Craig,TURNOVER,None,10:06,3,Nuggets,76ers,75 - 80,1,N/A,N/A,N/A
+18,Ben Simmons,FG_MISS,None,9:52,3,76ers,Nuggets,75 - 80,0,4,2,Jumper
+19,Paul Millsap,DEFENSIVE_REBOUND,None,9:49,3,Nuggets,76ers,75 - 80,1,N/A,N/A,N/A
+20,Will Barton,FG_UNASSISTED,None,9:45,3,Nuggets,76ers,75 - 82,1,21,2,Jumper
+21,T.J. McConnell,FG_MISS,None,9:24,3,76ers,Nuggets,75 - 82,0, ,2,Jumper
+22,Torrey Craig,DEFENSIVE_REBOUND,None,9:21,3,Nuggets,76ers,75 - 82,1,N/A,N/A,N/A
+23,Nikola Jokic,FG_UNASSISTED,None,9:12,3,Nuggets,76ers,75 - 84,1, ,2,Jumper
+24,Team,Unknown,None,9:10,3,76ers,Nuggets,75 - 84,0,N/A,N/A,N/A
+25,Gary Harris,FOUL_ON_FLOOR,None,9:00,3,Nuggets,76ers,75 - 84,1,N/A,N/A,N/A
+26,Amir Johnson,FG_ASSISTED,JJ Redick,8:54,3,76ers,Nuggets,77 - 84,0,0,2,Layup
+27,Gary Harris,FG_MISS,None,8:39,3,Nuggets,76ers,77 - 84,1,14,2,Jumper
+28,Ben Simmons,DEFENSIVE_REBOUND,None,8:37,3,76ers,Nuggets,77 - 84,0,N/A,N/A,N/A
+29,JJ Redick,FG_MISS,None,8:34,3,76ers,Nuggets,77 - 84,0,24,3,Jumper
+30,JJ Redick,OFFENSIVE_REBOUND,None,8:31,3,76ers,Nuggets,77 - 84,0,N/A,N/A,N/A
+31,Corey Brewer,TURNOVER,None,8:30,3,76ers,Nuggets,77 - 84,0,N/A,N/A,N/A
+32,Torrey Craig,FG_MISS,None,8:20,3,Nuggets,76ers,77 - 84,1,23,3,Jumper
+33,Paul Millsap,OFFENSIVE_REBOUND,None,8:19,3,Nuggets,76ers,77 - 84,1,N/A,N/A,N/A
+34,Amir Johnson,FOUL_ON_FLOOR,None,8:17,3,76ers,Nuggets,77 - 84,0,N/A,N/A,N/A
+35,Paul Millsap,FG_ASSISTED,Torrey Craig,8:12,3,Nuggets,76ers,77 - 86,1,0,2,Dunk
+36,Ben Simmons,FG_MISS,None,8:01,3,76ers,Nuggets,77 - 86,0,0,2,Dunk
+37,Paul Millsap,DEFENSIVE_REBOUND,None,7:59,3,Nuggets,76ers,77 - 86,1,N/A,N/A,N/A
+38,Mike Muscala,SUBSTITUTION,Johnson Amir,7:57,3,76ers,Nuggets,77 - 86,0,N/A,N/A,N/A
+39,Torrey Craig,TURNOVER,None,7:48,3,Nuggets,76ers,77 - 86,1,N/A,N/A,N/A
+40,Gary Harris,FOUL_ON_FLOOR,None,7:37,3,Nuggets,76ers,77 - 86,1,N/A,N/A,N/A
+41,Ben Simmons,FG_MISS,None,7:22,3,76ers,Nuggets,77 - 86,0,3,2,Jumper
+42,Nikola Jokic,DEFENSIVE_REBOUND,None,7:20,3,Nuggets,76ers,77 - 86,1,N/A,N/A,N/A
+43,Torrey Craig,FG_ASSISTED,Nikola Jokic,7:15,3,Nuggets,76ers,77 - 88,1,0,2,Dunk
+44,Team,Unknown,None,7:14,3,76ers,Nuggets,77 - 88,0,N/A,N/A,N/A
+45,Landry Shamet,SUBSTITUTION,McConnell T.J.,7:14,3,76ers,Nuggets,77 - 88,0,N/A,N/A,N/A
+46,Shake Milton,SUBSTITUTION,Redick JJ,7:02,3,76ers,Nuggets,77 - 88,0,N/A,N/A,N/A
+47,Corey Brewer,FG_MISS,None,6:53,3,76ers,Nuggets,77 - 88,0,26,3,Jumper
+48,Landry Shamet,OFFENSIVE_REBOUND,None,6:49,3,76ers,Nuggets,77 - 88,0,N/A,N/A,N/A
+49,Shake Milton,FG_ASSISTED,Landry Shamet,6:46,3,76ers,Nuggets,80 - 88,0,25,3,Jumper
+50,Will Barton,FG_MISS,None,6:28,3,Nuggets,76ers,80 - 88,1,12,2,Jumper
+51,Nikola Jokic,OFFENSIVE_REBOUND,None,6:25,3,Nuggets,76ers,80 - 88,1,N/A,N/A,N/A
+52,Torrey Craig,FG_MISS,None,6:17,3,Nuggets,76ers,80 - 88,1, ,3,Jumper
+53,Mike Muscala,DEFENSIVE_REBOUND,None,6:14,3,76ers,Nuggets,80 - 88,0,N/A,N/A,N/A
+54,Corey Brewer,FG_ASSISTED,Landry Shamet,6:05,3,76ers,Nuggets,82 - 88,0, ,2,Jumper
+55,Landry Shamet,FOUL_ON_FLOOR,None,5:49,3,76ers,Nuggets,82 - 88,0,N/A,N/A,N/A
+56,Monte Morris,SUBSTITUTION,Harris Gary,5:49,3,Nuggets,76ers,82 - 88,1,N/A,N/A,N/A
+57,Torrey Craig,FG_ASSISTED,Nikola Jokic,5:37,3,Nuggets,76ers,82 - 90,1,0,2,Layup
+58,Corey Brewer,FG_MISS,None,5:18,3,76ers,Nuggets,82 - 90,0, ,2,Jumper
+59,Nikola Jokic,DEFENSIVE_REBOUND,None,5:17,3,Nuggets,76ers,82 - 90,1,N/A,N/A,N/A
+60,Will Barton,FG_MISS,None,4:57,3,Nuggets,76ers,82 - 90,1, ,2,Jumper
+61,Nikola Jokic,OFFENSIVE_REBOUND,None,4:56,3,Nuggets,76ers,82 - 90,1,N/A,N/A,N/A
+62,Nikola Jokic,FG_UNASSISTED,None,4:56,3,Nuggets,76ers,82 - 92,1, ,2,Jumper
+63,Team,Unknown,None,4:56,3,Nuggets,76ers,82 - 92,1,N/A,N/A,N/A
+64,Landry Shamet,FG_UNASSISTED,None,4:38,3,76ers,Nuggets,84 - 92,0, ,2,Jumper
+65,Shake Milton,FOUL_ON_FLOOR,None,4:27,3,76ers,Nuggets,84 - 92,0,N/A,N/A,N/A
+66,Will Barton,FT_MISS,None,4:27,3,Nuggets,76ers,84 - 92,1,N/A,1,N/A
+67,Team,OFFENSIVE_REBOUND,None,4:27,3,Nuggets,76ers,84 - 92,1,N/A,N/A,N/A
+68,Mason Plumlee,SUBSTITUTION,Millsap Paul,4:27,3,Nuggets,76ers,84 - 92,1,N/A,N/A,N/A
+69,Will Barton,FT,None,4:27,3,Nuggets,76ers,84 - 93,1,N/A,1,N/A
+70,Will Barton,FOUL_ON_FLOOR,None,4:18,3,Nuggets,76ers,84 - 93,1,N/A,N/A,N/A
+71,Landry Shamet,FG_MISS,None,4:14,3,76ers,Nuggets,84 - 93,0,24,3,Jumper
+72,Monte Morris,DEFENSIVE_REBOUND,None,4:11,3,Nuggets,76ers,84 - 93,1,N/A,N/A,N/A
+73,Monte Morris,FG_ASSISTED,Nikola Jokic,4:00,3,Nuggets,76ers,84 - 95,1,12,2,Jumper
+74,Shake Milton,FG_ASSISTED,Ben Simmons,3:46,3,76ers,Nuggets,87 - 95,0,25,3,Jumper
+75,Nikola Jokic,FG_ASSISTED,Monte Morris,3:29,3,Nuggets,76ers,87 - 97,1,0,2,Layup
+76,Mason Plumlee,FOUL_ON_FLOOR,None,3:22,3,Nuggets,76ers,87 - 97,1,N/A,N/A,N/A
+77,Corey Brewer,FT,None,3:22,3,76ers,Nuggets,88 - 97,0,N/A,1,N/A
+78,Malik Beasley,SUBSTITUTION,Barton Will,3:22,3,Nuggets,76ers,88 - 97,1,N/A,N/A,N/A
+79,Corey Brewer,FT,None,3:22,3,76ers,Nuggets,89 - 97,0,N/A,1,N/A
+80,Shake Milton,FOUL_ON_FLOOR,None,3:15,3,76ers,Nuggets,89 - 97,0,N/A,N/A,N/A
+81,Mason Plumlee,FT_MISS,None,3:15,3,Nuggets,76ers,89 - 97,1,N/A,1,N/A
+82,Team,OFFENSIVE_REBOUND,None,3:15,3,Nuggets,76ers,89 - 97,1,N/A,N/A,N/A
+83,Mason Plumlee,FT,None,3:15,3,Nuggets,76ers,89 - 98,1,N/A,1,N/A
+84,Corey Brewer,FG_MISS,None,2:59,3,76ers,Nuggets,89 - 98,0,23,3,Jumper
+85,Malik Beasley,DEFENSIVE_REBOUND,None,2:56,3,Nuggets,76ers,89 - 98,1,N/A,N/A,N/A
+86,Landry Shamet,FOUL_ON_FLOOR,None,2:44,3,76ers,Nuggets,89 - 98,0,N/A,N/A,N/A
+87,Mason Plumlee,FT_MISS,None,2:44,3,Nuggets,76ers,89 - 98,1,N/A,1,N/A
+88,Team,OFFENSIVE_REBOUND,None,2:44,3,Nuggets,76ers,89 - 98,1,N/A,N/A,N/A
+89,T.J. McConnell,SUBSTITUTION,Brewer Corey,2:44,3,76ers,Nuggets,89 - 98,0,N/A,N/A,N/A
+90,JJ Redick,SUBSTITUTION,Milton Shake,2:44,3,76ers,Nuggets,89 - 98,0,N/A,N/A,N/A
+91,Mason Plumlee,FT,None,2:44,3,Nuggets,76ers,89 - 99,1,N/A,1,N/A
+92,Ben Simmons,FG_MISS,None,2:36,3,76ers,Nuggets,89 - 99,0,0,2,Layup
+93,Team,DEFENSIVE_REBOUND,None,2:36,3,Nuggets,76ers,89 - 99,1,N/A,N/A,N/A
+94,Mike Muscala,FOUL_ON_FLOOR,None,2:36,3,76ers,Nuggets,89 - 99,0,N/A,N/A,N/A
+95,Mason Plumlee,FT,None,2:36,3,Nuggets,76ers,89 - 100,1,N/A,1,N/A
+96,Mason Plumlee,FT,None,2:36,3,Nuggets,76ers,89 - 101,1,N/A,1,N/A
+97,Mason Plumlee,FOUL_ON_FLOOR,None,2:24,3,Nuggets,76ers,89 - 101,1,N/A,N/A,N/A
+98,Ben Simmons,FT_MISS,None,2:24,3,76ers,Nuggets,89 - 101,0,N/A,1,N/A
+99,Team,OFFENSIVE_REBOUND,None,2:24,3,76ers,Nuggets,89 - 101,0,N/A,N/A,N/A
+100,Amir Johnson,SUBSTITUTION,Muscala Mike,2:24,3,76ers,Nuggets,89 - 101,0,N/A,N/A,N/A
+101,Ben Simmons,FT,None,2:24,3,76ers,Nuggets,90 - 101,0,N/A,1,N/A
+102,Mason Plumlee,FG_ASSISTED,Nikola Jokic,2:05,3,Nuggets,76ers,90 - 103,1,3,2,Jumper
+103,T.J. McConnell,FG_MISS,None,1:48,3,76ers,Nuggets,90 - 103,0,18,2,Jumper
+104,Torrey Craig,DEFENSIVE_REBOUND,None,1:45,3,Nuggets,76ers,90 - 103,1,N/A,N/A,N/A
+105,Amir Johnson,FOUL_ON_FLOOR,None,1:35,3,76ers,Nuggets,90 - 103,0,N/A,N/A,N/A
+106,Nikola Jokic,FT,None,1:35,3,Nuggets,76ers,90 - 104,1,N/A,1,N/A
+107,Trey Lyles,SUBSTITUTION,Plumlee Mason,1:35,3,Nuggets,76ers,90 - 104,1,N/A,N/A,N/A
+108,Jonah Bolden,SUBSTITUTION,Johnson Amir,1:35,3,76ers,Nuggets,90 - 104,0,N/A,N/A,N/A
+109,Nikola Jokic,FT,None,1:35,3,Nuggets,76ers,90 - 105,1,N/A,1,N/A
+110,JJ Redick,FG_ASSISTED,Landry Shamet,1:24,3,76ers,Nuggets,93 - 105,0,25,3,Jumper
+111,Monte Morris,FG_MISS,None,1:04,3,Nuggets,76ers,93 - 105,1,25,3,Jumper
+112,Ben Simmons,DEFENSIVE_REBOUND,None,1:02,3,76ers,Nuggets,93 - 105,0,N/A,N/A,N/A
+113,JJ Redick,FG_ASSISTED,Ben Simmons,47.7,3,76ers,Nuggets,96 - 105,0,25,3,Jumper
+114,Trey Lyles,FG_MISS,None,36.0,3,Nuggets,76ers,96 - 105,1,22,3,Jumper
+115,Jonah Bolden,DEFENSIVE_REBOUND,None,30.1,3,76ers,Nuggets,96 - 105,0,N/A,N/A,N/A
+116,JJ Redick,TURNOVER,None,26.3,3,76ers,Nuggets,96 - 105,0,N/A,N/A,N/A
+117,Gary Harris,SUBSTITUTION,Craig Torrey,26.3,3,Nuggets,76ers,96 - 105,1,N/A,N/A,N/A
+118,Team,Unknown,None,17.2,3,Nuggets,76ers,96 - 105,1,N/A,N/A,N/A
+119,Monte Morris,FG_UNASSISTED,None,3.7,3,Nuggets,76ers,96 - 107,1,18,2,Jumper
+120,Ben Simmons,FG_MISS,None,0.1,3,76ers,Nuggets,96 - 107,0,32,3,Jumper
+121,Team,OFFENSIVE_REBOUND,None,0.1,3,76ers,Nuggets,96 - 107,0,N/A,N/A,N/A
+122,End of,Unknown,None,0.0,3,Nuggets,76ers,96 - 107,1,N/A,N/A,N/A
+0,Mason Plumlee,SUBSTITUTION,Jokic Nikola,12:00,4,Nuggets,76ers,96 - 107,1,N/A,N/A,N/A
+1,Juan Hernangomez,SUBSTITUTION,Harris Gary,12:00,4,Nuggets,76ers,96 - 107,1,N/A,N/A,N/A
+2,Corey Brewer,SUBSTITUTION,Shamet Landry,12:00,4,76ers,Nuggets,96 - 107,0,N/A,N/A,N/A
+3,Mike Muscala,SUBSTITUTION,Simmons Ben,12:00,4,76ers,Nuggets,96 - 107,0,N/A,N/A,N/A
+4,Corey Brewer,FOUL_ON_FLOOR,None,11:48,4,76ers,Nuggets,96 - 107,0,N/A,N/A,N/A
+5,Monte Morris,TURNOVER,None,11:41,4,Nuggets,76ers,96 - 107,1,N/A,N/A,N/A
+6,JJ Redick,FG_MISS,None,11:28,4,76ers,Nuggets,96 - 107,0,4,2,Jumper
+7,Juan Hernangomez,DEFENSIVE_REBOUND,None,11:25,4,Nuggets,76ers,96 - 107,1,N/A,N/A,N/A
+8,Malik Beasley,FG_UNASSISTED,None,11:15,4,Nuggets,76ers,96 - 109,1,3,2,Jumper
+9,Mike Muscala,TURNOVER,None,11:05,4,76ers,Nuggets,96 - 109,0,N/A,N/A,N/A
+10,Malik Beasley,FG_ASSISTED,Trey Lyles,10:53,4,Nuggets,76ers,96 - 111,1,10,2,Jumper
+11,Team,Unknown,None,10:53,4,76ers,Nuggets,96 - 111,0,N/A,N/A,N/A
+12,Corey Brewer,FG_MISS,None,10:35,4,76ers,Nuggets,96 - 111,0,1,2,Jumper
+13,Mike Muscala,OFFENSIVE_REBOUND,None,10:32,4,76ers,Nuggets,96 - 111,0,N/A,N/A,N/A
+14,Mike Muscala,FG_MISS,None,10:32,4,76ers,Nuggets,96 - 111,0,1,2,Jumper
+15,Mike Muscala,OFFENSIVE_REBOUND,None,10:32,4,76ers,Nuggets,96 - 111,0,N/A,N/A,N/A
+16,Jonah Bolden,FG_MISS,Trey Lyles,10:31,4,Nuggets,76ers,96 - 111,0,0,2,Layup
+17,Mason Plumlee,DEFENSIVE_REBOUND,None,10:27,4,Nuggets,76ers,96 - 111,1,N/A,N/A,N/A
+18,Mason Plumlee,TURNOVER,Corey Brewer,10:25,4,Nuggets,76ers,96 - 111,1,N/A,N/A,N/A
+19,JJ Redick,FG_MISS,None,10:20,4,76ers,Nuggets,96 - 111,0,1,2,Jumper
+20,Jonah Bolden,OFFENSIVE_REBOUND,None,10:17,4,76ers,Nuggets,96 - 111,0,N/A,N/A,N/A
+21,Jonah Bolden,FG_UNASSISTED,None,10:17,4,76ers,Nuggets,98 - 111,0,1,2,Jumper
+22,Malik Beasley,FG_ASSISTED,Mason Plumlee,10:02,4,Nuggets,76ers,98 - 114,1,26,3,Jumper
+23,T.J. McConnell's,FG_MISS,Mason Plumlee,9:46,4,Nuggets,76ers,98 - 114,0,1,2,Jumper
+24,Trey Lyles,DEFENSIVE_REBOUND,None,9:42,4,Nuggets,76ers,98 - 114,1,N/A,N/A,N/A
+25,Monte Morris,FG_MISS,None,9:30,4,Nuggets,76ers,98 - 114,1,0,2,Layup
+26,T.J. McConnell,DEFENSIVE_REBOUND,None,9:29,4,76ers,Nuggets,98 - 114,0,N/A,N/A,N/A
+27,JJ Redick,FG_MISS,None,9:25,4,76ers,Nuggets,98 - 114,0,26,3,Jumper
+28,Trey Lyles,DEFENSIVE_REBOUND,None,9:21,4,Nuggets,76ers,98 - 114,1,N/A,N/A,N/A
+29,Corey Brewer,FOUL_ON_FLOOR,None,9:20,4,76ers,Nuggets,98 - 114,0,N/A,N/A,N/A
+30,Ben Simmons,SUBSTITUTION,Bolden Jonah,9:20,4,76ers,Nuggets,98 - 114,0,N/A,N/A,N/A
+31,Malik Beasley,FG_MISS,None,9:03,4,Nuggets,76ers,98 - 114,1,0,2,Layup
+32,Mason Plumlee,OFFENSIVE_REBOUND,None,9:01,4,Nuggets,76ers,98 - 114,1,N/A,N/A,N/A
+33,Juan Hernangomez,FG_MISS,T.J. McConnell,8:58,4,76ers,Nuggets,98 - 114,1,3,2,Jumper
+34,Mike Muscala,DEFENSIVE_REBOUND,None,8:55,4,76ers,Nuggets,98 - 114,0,N/A,N/A,N/A
+35,Corey Brewer,FG_ASSISTED,Ben Simmons,8:45,4,76ers,Nuggets,100 - 114,0,0,2,Layup
+36,Mason Plumlee,FG_UNASSISTED,None,8:20,4,Nuggets,76ers,100 - 116,1,0,2,Dunk
+37,JJ Redick,FG_MISS,None,7:58,4,76ers,Nuggets,100 - 116,0,25,3,Jumper
+38,Juan Hernangomez,DEFENSIVE_REBOUND,None,7:55,4,Nuggets,76ers,100 - 116,1,N/A,N/A,N/A
+39,Monte Morris,FG_MISS,None,7:49,4,Nuggets,76ers,100 - 116,1,15,2,Jumper
+40,Ben Simmons,DEFENSIVE_REBOUND,None,7:46,4,76ers,Nuggets,100 - 116,0,N/A,N/A,N/A
+41,Trey Lyles,FOUL_ON_FLOOR,None,7:43,4,Nuggets,76ers,100 - 116,1,N/A,N/A,N/A
+42,Ben Simmons,FT,None,7:43,4,76ers,Nuggets,101 - 116,0,N/A,1,N/A
+43,Torrey Craig,SUBSTITUTION,Hernangomez Juan,7:43,4,Nuggets,76ers,101 - 116,1,N/A,N/A,N/A
+44,Landry Shamet,SUBSTITUTION,McConnell T.J.,7:43,4,76ers,Nuggets,101 - 116,0,N/A,N/A,N/A
+45,Amir Johnson,SUBSTITUTION,Redick JJ,7:43,4,76ers,Nuggets,101 - 116,0,N/A,N/A,N/A
+46,Shake Milton,SUBSTITUTION,Muscala Mike,7:43,4,76ers,Nuggets,101 - 116,0,N/A,N/A,N/A
+47,Ben Simmons,FT,None,7:43,4,76ers,Nuggets,102 - 116,0,N/A,1,N/A
+48,Monte Morris,FG_MISS,None,7:25,4,Nuggets,76ers,102 - 116,1,1,2,Jumper
+49,Ben Simmons,DEFENSIVE_REBOUND,None,7:22,4,76ers,Nuggets,102 - 116,0,N/A,N/A,N/A
+50,Shake Milton,FG_ASSISTED,Corey Brewer,7:14,4,76ers,Nuggets,104 - 116,0,14,2,Jumper
+51,Team,Unknown,None,7:13,4,Nuggets,76ers,104 - 116,1,N/A,N/A,N/A
+52,Gary Harris,SUBSTITUTION,Lyles Trey,7:13,4,Nuggets,76ers,104 - 116,1,N/A,N/A,N/A
+53,Nikola Jokic,SUBSTITUTION,Plumlee Mason,7:13,4,Nuggets,76ers,104 - 116,1,N/A,N/A,N/A
+54,Malik Beasley,FG_MISS,None,7:02,4,Nuggets,76ers,104 - 116,1,24,3,Jumper
+55,Amir Johnson,DEFENSIVE_REBOUND,None,7:00,4,76ers,Nuggets,104 - 116,0,N/A,N/A,N/A
+56,Amir Johnson,TURNOVER,None,6:55,4,76ers,Nuggets,104 - 116,0,N/A,N/A,N/A
+57,Malik Beasley,FG_MISS,None,6:50,4,Nuggets,76ers,104 - 116,1,1,2,Jumper
+58,Team,DEFENSIVE_REBOUND,None,6:50,4,76ers,Nuggets,104 - 116,0,N/A,N/A,N/A
+59,Ben Simmons,JUMP_BALL,None,6:46,4,76ers,Nuggets,104 - 116,0,N/A,N/A,N/A
+60,Amir Johnson,TURNOVER,Nikola Jokic,6:31,4,76ers,Nuggets,104 - 116,0,N/A,N/A,N/A
+61,Malik Beasley,FG_ASSISTED,Nikola Jokic,6:26,4,Nuggets,76ers,104 - 118,1,0,2,Dunk
+62,Will Barton,SUBSTITUTION,Beasley Malik,6:20,4,Nuggets,76ers,104 - 118,1,N/A,N/A,N/A
+63,Landry Shamet,FG_MISS,None,6:10,4,76ers,Nuggets,104 - 118,0,19,2,Jumper
+64,Team,DEFENSIVE_REBOUND,None,6:08,4,Nuggets,76ers,104 - 118,1,N/A,N/A,N/A
+65,Nikola Jokic,FG_UNASSISTED,None,5:48,4,Nuggets,76ers,104 - 120,1,0,2,Layup
+66,Team,Unknown,None,5:46,4,76ers,Nuggets,104 - 120,0,N/A,N/A,N/A
+67,Corey Brewer,FG_MISS,None,5:38,4,76ers,Nuggets,104 - 120,0,23,3,Jumper
+68,Ben Simmons,OFFENSIVE_REBOUND,None,5:35,4,76ers,Nuggets,104 - 120,0,N/A,N/A,N/A
+69,Ben Simmons,FG_UNASSISTED,None,5:33,4,76ers,Nuggets,106 - 120,0,4,2,Jumper
+70,Gary Harris,FG_MISS,None,5:12,4,Nuggets,76ers,106 - 120,1,25,3,Jumper
+71,Corey Brewer,DEFENSIVE_REBOUND,None,5:09,4,76ers,Nuggets,106 - 120,0,N/A,N/A,N/A
+72,Corey Brewer,FG_MISS,Gary Harris,5:04,4,Nuggets,76ers,106 - 120,0,0,2,Layup
+73,Team,DEFENSIVE_REBOUND,None,5:04,4,Nuggets,76ers,106 - 120,1,N/A,N/A,N/A
+74,Nikola Jokic,FG_MISS,None,4:40,4,Nuggets,76ers,106 - 120,1,1,2,Jumper
+75,Ben Simmons,DEFENSIVE_REBOUND,None,4:40,4,76ers,Nuggets,106 - 120,0,N/A,N/A,N/A
+76,Ben Simmons,TURNOVER,None,4:40,4,76ers,Nuggets,106 - 120,0,N/A,N/A,N/A
+77,Nikola Jokic,FG_MISS,None,4:22,4,Nuggets,76ers,106 - 120,1,6,2,Jumper
+78,Amir Johnson,DEFENSIVE_REBOUND,None,4:20,4,76ers,Nuggets,106 - 120,0,N/A,N/A,N/A
+79,Landry Shamet,FG_MISS,None,4:05,4,76ers,Nuggets,106 - 120,0,24,2,Jumper
+80,Gary Harris,DEFENSIVE_REBOUND,None,4:02,4,Nuggets,76ers,106 - 120,1,N/A,N/A,N/A
+81,Nikola Jokic,FG_MISS,None,3:39,4,Nuggets,76ers,106 - 120,1,1,2,Jumper
+82,Ben Simmons,DEFENSIVE_REBOUND,None,3:37,4,76ers,Nuggets,106 - 120,0,N/A,N/A,N/A
+83,Nikola Jokic,FOUL_ON_FLOOR,None,3:36,4,Nuggets,76ers,106 - 120,1,N/A,N/A,N/A
+84,Haywood Highsmith,SUBSTITUTION,Simmons Ben,3:36,4,76ers,Nuggets,106 - 120,0,N/A,N/A,N/A
+85,Shake Milton,FG_MISS,None,3:28,4,76ers,Nuggets,106 - 120,0,1,3,Jumper
+86,Amir Johnson,OFFENSIVE_REBOUND,None,3:25,4,76ers,Nuggets,106 - 120,0,N/A,N/A,N/A
+87,Corey Brewer,FG_MISS,None,3:24,4,76ers,Nuggets,106 - 120,0,1,2,Jumper
+88,Will Barton,DEFENSIVE_REBOUND,None,3:20,4,Nuggets,76ers,106 - 120,1,N/A,N/A,N/A
+89,Nikola Jokic,FG_MISS,None,3:08,4,Nuggets,76ers,106 - 120,1,1,2,Jumper
+90,Nikola Jokic,OFFENSIVE_REBOUND,None,3:04,4,Nuggets,76ers,106 - 120,1,N/A,N/A,N/A
+91,Nikola Jokic,FG_UNASSISTED,None,3:04,4,Nuggets,76ers,106 - 122,1,1,2,Jumper
+92,Team,Unknown,None,2:57,4,76ers,Nuggets,106 - 122,0,N/A,N/A,N/A
+93,Tyler Lydon,SUBSTITUTION,Craig Torrey,2:57,4,Nuggets,76ers,106 - 122,1,N/A,N/A,N/A
+94,Malik Beasley,SUBSTITUTION,Barton Will,2:57,4,Nuggets,76ers,106 - 122,1,N/A,N/A,N/A
+95,Brandon Goodwin,SUBSTITUTION,Morris Monte,2:57,4,Nuggets,76ers,106 - 122,1,N/A,N/A,N/A
+96,Trey Lyles,SUBSTITUTION,Harris Gary,2:57,4,Nuggets,76ers,106 - 122,1,N/A,N/A,N/A
+97,Juan Hernangomez,SUBSTITUTION,Jokic Nikola,2:57,4,Nuggets,76ers,106 - 122,1,N/A,N/A,N/A
+98,Furkan Korkmaz,SUBSTITUTION,Brewer Corey,2:57,4,76ers,Nuggets,106 - 122,0,N/A,N/A,N/A
+99,Team,Unknown,None,2:57,4,76ers,Nuggets,106 - 122,0,N/A,N/A,N/A
+100,Amir Johnson,FG_MISS,None,2:47,4,76ers,Nuggets,106 - 122,0,7,2,Jumper
+101,Tyler Lydon,DEFENSIVE_REBOUND,None,2:44,4,Nuggets,76ers,106 - 122,1,N/A,N/A,N/A
+102,Malik Beasley,FG_ASSISTED,Trey Lyles,2:33,4,Nuggets,76ers,106 - 124,1,0,2,Layup
+103,Amir Johnson,FG_MISS,None,2:09,4,76ers,Nuggets,106 - 124,0,25,3,Jumper
+104,Juan Hernangomez,DEFENSIVE_REBOUND,None,2:07,4,Nuggets,76ers,106 - 124,1,N/A,N/A,N/A
+105,Trey Lyles,FG_MISS,None,1:49,4,Nuggets,76ers,106 - 124,1,21,2,Jumper
+106,Haywood Highsmith,DEFENSIVE_REBOUND,None,1:46,4,76ers,Nuggets,106 - 124,0,N/A,N/A,N/A
+107,Furkan Korkmaz,FG_ASSISTED,Haywood Highsmith,1:42,4,76ers,Nuggets,108 - 124,0,0,2,Dunk
+108,Juan Hernangomez,FG_MISS,None,1:26,4,Nuggets,76ers,108 - 124,1,0,2,Layup
+109,Furkan Korkmaz,DEFENSIVE_REBOUND,None,1:25,4,76ers,Nuggets,108 - 124,0,N/A,N/A,N/A
+110,Furkan Korkmaz,FG_MISS,None,1:11,4,76ers,Nuggets,108 - 124,0,25,3,Jumper
+111,Juan Hernangomez,DEFENSIVE_REBOUND,None,1:09,4,Nuggets,76ers,108 - 124,1,N/A,N/A,N/A
+112,Malik Beasley,FG_MISS,None,49.8,4,Nuggets,76ers,108 - 124,1,25,3,Jumper
+113,Brandon Goodwin,OFFENSIVE_REBOUND,None,47.2,4,Nuggets,76ers,108 - 124,1,N/A,N/A,N/A
+114,Brandon Goodwin,FG_UNASSISTED,None,46.4,4,Nuggets,76ers,108 - 126,1,1,2,Jumper
+115,Malik Beasley,FOUL_ON_FLOOR,None,24.5,4,Nuggets,76ers,108 - 126,1,N/A,N/A,N/A
+116,Furkan Korkmaz,FT_MISS,None,24.5,4,76ers,Nuggets,108 - 126,0,N/A,1,N/A
+117,Team,OFFENSIVE_REBOUND,None,24.5,4,76ers,Nuggets,108 - 126,0,N/A,N/A,N/A
+118,Furkan Korkmaz,FT,None,24.5,4,76ers,Nuggets,109 - 126,0,N/A,1,N/A
+119,Furkan Korkmaz,FT,None,24.5,4,76ers,Nuggets,110 - 126,0,N/A,1,N/A
+120,shot clock,TURNOVER,None,0.0,4,Nuggets,76ers,110 - 126,1,N/A,N/A,N/A
+121,End of,Unknown,None,0.0,4,Nuggets,76ers,110 - 126,1,N/A,N/A,N/A
+122,End of,Unknown,None,0.0,4,Nuggets,76ers,110 - 126,1,N/A,N/A,N/A

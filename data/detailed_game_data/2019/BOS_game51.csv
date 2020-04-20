@@ -1,0 +1,434 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Al Horford,JUMP_BALL,None,12:00,1,Knicks,Celtics,0 - 0,1,N/A,N/A,N/A
+1,Damyean Dotson,FG_ASSISTED,Kadeem Allen,11:44,1,Knicks,Celtics,0 - 2,1,0,2,Layup
+2,Kyrie Irving,FG_MISS,None,11:24,1,Celtics,Knicks,0 - 2,0,21,3,Jumper
+3,Kadeem Allen,DEFENSIVE_REBOUND,None,11:23,1,Knicks,Celtics,0 - 2,1,N/A,N/A,N/A
+4,Noah Vonleh,FG_ASSISTED,Kadeem Allen,11:11,1,Knicks,Celtics,0 - 4,1,0,2,Layup
+5,Jayson Tatum,FOUL_ON_FLOOR,None,11:11,1,Celtics,Knicks,0 - 4,0,N/A,N/A,N/A
+6,Noah Vonleh,FT,None,11:11,1,Knicks,Celtics,0 - 5,1,N/A,1,N/A
+7,Jayson Tatum,FG_MISS,None,10:56,1,Celtics,Knicks,0 - 5,0,17,3,Jumper
+8,Team,DEFENSIVE_REBOUND,None,10:54,1,Knicks,Celtics,0 - 5,1,N/A,N/A,N/A
+9,Kevin Knox,TURNOVER,Kyrie Irving,10:38,1,Knicks,Celtics,0 - 5,1,N/A,N/A,N/A
+10,Kevin Knox,FOUL_ON_FLOOR,None,10:38,1,Knicks,Celtics,0 - 5,1,N/A,N/A,N/A
+11,Marcus Morris,FG_ASSISTED,Al Horford,10:24,1,Celtics,Knicks,2 - 5,0,0,2,Layup
+12,Luke Kornet,TURNOVER,None,10:05,1,Knicks,Celtics,2 - 5,1,N/A,N/A,N/A
+13,Kyrie Irving,FG_UNASSISTED,None,9:56,1,Celtics,Knicks,4 - 5,0,0,2,Layup
+14,Noah Vonleh,Unknown,None,9:56,1,Knicks,Celtics,4 - 5,1,N/A,N/A,N/A
+15,Luke Kornet,FG_ASSISTED,Noah Vonleh,9:38,1,Knicks,Celtics,4 - 7,1,14,3,Jumper
+16,Al Horford,FG_MISS,None,9:28,1,Celtics,Knicks,4 - 7,0,0,2,Layup
+17,Al Horford,OFFENSIVE_REBOUND,None,9:26,1,Celtics,Knicks,4 - 7,0,N/A,N/A,N/A
+18,Al Horford,FG_MISS,None,9:26,1,Celtics,Knicks,4 - 7,0,-,3,Jumper
+19,Kadeem Allen,DEFENSIVE_REBOUND,None,9:24,1,Knicks,Celtics,4 - 7,1,N/A,N/A,N/A
+20,Kadeem Allen,FG_MISS,None,9:18,1,Knicks,Celtics,4 - 7,1,0,2,Layup
+21,Kyrie Irving,DEFENSIVE_REBOUND,None,9:16,1,Celtics,Knicks,4 - 7,0,N/A,N/A,N/A
+22,Marcus Morris,FG_MISS,None,9:12,1,Celtics,Knicks,4 - 7,0,26,3,Jumper
+23,Noah Vonleh,DEFENSIVE_REBOUND,None,9:10,1,Knicks,Celtics,4 - 7,1,N/A,N/A,N/A
+24,Kevin Knox,FG_ASSISTED,Kadeem Allen,8:59,1,Knicks,Celtics,4 - 10,1,27,3,Jumper
+25,Kyrie Irving,FG_MISS,None,8:47,1,Celtics,Knicks,4 - 10,0,26,3,Jumper
+26,Luke Kornet,DEFENSIVE_REBOUND,None,8:46,1,Knicks,Celtics,4 - 10,1,N/A,N/A,N/A
+27,Kyrie Irving,FOUL_ON_FLOOR,None,8:38,1,Celtics,Knicks,4 - 10,0,N/A,N/A,N/A
+28,Luke Kornet,FG_ASSISTED,Noah Vonleh,8:33,1,Knicks,Celtics,4 - 13,1,26,3,Jumper
+29,Al Horford,FG_UNASSISTED,None,8:15,1,Celtics,Knicks,6 - 13,0,22,3,Jumper
+30,Kevin Knox,FG_MISS,Al Horford,7:51,1,Celtics,Knicks,6 - 13,1,2,3,Jumper
+31,Jayson Tatum,DEFENSIVE_REBOUND,None,7:49,1,Celtics,Knicks,6 - 13,0,N/A,N/A,N/A
+32,Jayson Tatum,FG_ASSISTED,Al Horford,7:39,1,Celtics,Knicks,8 - 13,0,0,2,Layup
+33,Noah Vonleh,TURNOVER,Marcus Morris,7:24,1,Knicks,Celtics,8 - 13,1,N/A,N/A,N/A
+34,Jayson Tatum,FG_ASSISTED,Kyrie Irving,7:14,1,Celtics,Knicks,10 - 13,0,16,3,Jumper
+35,Team,Unknown,None,7:12,1,Knicks,Celtics,10 - 13,1,N/A,N/A,N/A
+36,Mitchell Robinson,SUBSTITUTION,Kornet Luke,7:12,1,Knicks,Celtics,10 - 13,1,N/A,N/A,N/A
+37,Damyean Dotson,TURNOVER,Marcus Smart,7:02,1,Knicks,Celtics,10 - 13,1,N/A,N/A,N/A
+38,Jayson Tatum,FG_MISS,None,6:58,1,Celtics,Knicks,10 - 13,0,24,3,Jumper
+39,Kyrie Irving,OFFENSIVE_REBOUND,None,6:56,1,Celtics,Knicks,10 - 13,0,N/A,N/A,N/A
+40,Kyrie Irving,FG_UNASSISTED,None,6:53,1,Celtics,Knicks,12 - 13,0,16,3,Jumper
+41,Marcus Smart,FOUL_ON_FLOOR,None,6:33,1,Celtics,Knicks,12 - 13,0,N/A,N/A,N/A
+42,Noah Vonleh,FT,None,6:33,1,Knicks,Celtics,12 - 14,1,N/A,1,N/A
+43,Noah Vonleh,FT,None,6:33,1,Knicks,Celtics,12 - 15,1,N/A,1,N/A
+44,Kyrie Irving,FG_MISS,None,6:23,1,Celtics,Knicks,12 - 15,0,0,2,Layup
+45,Kyrie Irving,OFFENSIVE_REBOUND,None,6:21,1,Celtics,Knicks,12 - 15,0,N/A,N/A,N/A
+46,Marcus Morris,FG_ASSISTED,Kyrie Irving,6:18,1,Celtics,Knicks,15 - 15,0,26,3,Jumper
+47,Kadeem Allen,FG_MISS,None,6:04,1,Knicks,Celtics,15 - 15,1,14,3,Jumper
+48,Marcus Morris,DEFENSIVE_REBOUND,None,6:02,1,Celtics,Knicks,15 - 15,0,N/A,N/A,N/A
+49,Jayson Tatum,FG_ASSISTED,Kyrie Irving,5:57,1,Celtics,Knicks,17 - 15,0,6,3,Jumper
+50,Kevin Knox,FG_MISS,None,5:33,1,Knicks,Celtics,17 - 15,1,22,3,Jumper
+51,Al Horford,DEFENSIVE_REBOUND,None,5:31,1,Celtics,Knicks,17 - 15,0,N/A,N/A,N/A
+52,Marcus Morris,FG_MISS,None,5:21,1,Celtics,Knicks,17 - 15,0,26,3,Jumper
+53,Damyean Dotson,DEFENSIVE_REBOUND,None,5:19,1,Knicks,Celtics,17 - 15,1,N/A,N/A,N/A
+54,Damyean Dotson,FG_MISS,None,5:12,1,Knicks,Celtics,17 - 15,1,28,3,Jumper
+55,Marcus Smart,DEFENSIVE_REBOUND,None,5:11,1,Celtics,Knicks,17 - 15,0,N/A,N/A,N/A
+56,Kyrie Irving,FG_MISS,None,5:02,1,Celtics,Knicks,17 - 15,0,24,3,Jumper
+57,Mitchell Robinson,DEFENSIVE_REBOUND,None,5:00,1,Knicks,Celtics,17 - 15,1,N/A,N/A,N/A
+58,Marcus Smart,FOUL_ON_FLOOR,None,4:54,1,Celtics,Knicks,17 - 15,0,N/A,N/A,N/A
+59,Allonzo Trier,SUBSTITUTION,Allen Kadeem,4:54,1,Knicks,Celtics,17 - 15,1,N/A,N/A,N/A
+60,Gordon Hayward,SUBSTITUTION,Smart Marcus,4:54,1,Celtics,Knicks,17 - 15,0,N/A,N/A,N/A
+61,Aron Baynes,SUBSTITUTION,Horford Al,4:54,1,Celtics,Knicks,17 - 15,0,N/A,N/A,N/A
+62,Kevin Knox,FG_MISS,None,4:42,1,Knicks,Celtics,17 - 15,1,26,3,Jumper
+63,Marcus Morris,DEFENSIVE_REBOUND,None,4:40,1,Celtics,Knicks,17 - 15,0,N/A,N/A,N/A
+64,Marcus Morris,FG_MISS,None,4:25,1,Celtics,Knicks,17 - 15,0,11,3,Jumper
+65,Noah Vonleh,DEFENSIVE_REBOUND,None,4:23,1,Knicks,Celtics,17 - 15,1,N/A,N/A,N/A
+66,Kevin Knox,FG_MISS,None,4:09,1,Knicks,Celtics,17 - 15,1,22,3,Jumper
+67,Jayson Tatum,DEFENSIVE_REBOUND,None,4:07,1,Celtics,Knicks,17 - 15,0,N/A,N/A,N/A
+68,Jayson Tatum,FG_MISS,None,4:03,1,Celtics,Knicks,17 - 15,0,0,2,Layup
+69,Noah Vonleh,DEFENSIVE_REBOUND,None,4:01,1,Knicks,Celtics,17 - 15,1,N/A,N/A,N/A
+70,Damyean Dotson,FG_ASSISTED,Allonzo Trier,3:52,1,Knicks,Celtics,17 - 18,1,24,3,Jumper
+71,Mitchell Robinson,FOUL_ON_FLOOR,None,3:37,1,Knicks,Celtics,17 - 18,1,N/A,N/A,N/A
+72,Terry Rozier,SUBSTITUTION,Tatum Jayson,3:37,1,Celtics,Knicks,17 - 18,0,N/A,N/A,N/A
+73,Jaylen Brown,SUBSTITUTION,Morris Marcus,3:37,1,Celtics,Knicks,17 - 18,0,N/A,N/A,N/A
+74,Mario Hezonja,SUBSTITUTION,Knox Kevin,3:37,1,Knicks,Celtics,17 - 18,1,N/A,N/A,N/A
+75,Jaylen Brown,FG_MISS,None,3:28,1,Celtics,Knicks,17 - 18,0,9,3,Jumper
+76,Allonzo Trier,DEFENSIVE_REBOUND,None,3:26,1,Knicks,Celtics,17 - 18,1,N/A,N/A,N/A
+77,Noah Vonleh,FG_MISS,None,3:15,1,Knicks,Celtics,17 - 18,1,0,2,Layup
+78,Kyrie Irving,DEFENSIVE_REBOUND,None,3:13,1,Celtics,Knicks,17 - 18,0,N/A,N/A,N/A
+79,Kyrie Irving,FG_MISS,None,3:08,1,Celtics,Knicks,17 - 18,0,0,2,Layup
+80,Mitchell Robinson,DEFENSIVE_REBOUND,None,3:07,1,Knicks,Celtics,17 - 18,1,N/A,N/A,N/A
+81,Mitchell Robinson,FG_ASSISTED,Allonzo Trier,2:45,1,Knicks,Celtics,17 - 20,1,0,2,Dunk
+82,Aron Baynes,FG_MISS,None,2:27,1,Celtics,Knicks,17 - 20,0,5,3,Jumper
+83,Mario Hezonja,DEFENSIVE_REBOUND,None,2:25,1,Knicks,Celtics,17 - 20,1,N/A,N/A,N/A
+84,Noah Vonleh,FG_MISS,None,2:03,1,Knicks,Celtics,17 - 20,1,24,3,Jumper
+85,Jaylen Brown,DEFENSIVE_REBOUND,None,2:02,1,Celtics,Knicks,17 - 20,0,N/A,N/A,N/A
+86,Team,Unknown,None,2:02,1,Celtics,Knicks,17 - 20,0,N/A,N/A,N/A
+87,Kyrie Irving,FG_UNASSISTED,None,1:46,1,Celtics,Knicks,19 - 20,0,0,2,Layup
+88,Damyean Dotson,FG_MISS,None,1:27,1,Knicks,Celtics,19 - 20,1,15,3,Jumper
+89,Kyrie Irving,DEFENSIVE_REBOUND,None,1:25,1,Celtics,Knicks,19 - 20,0,N/A,N/A,N/A
+90,Aron Baynes,FG_MISS,None,1:14,1,Celtics,Knicks,19 - 20,0,7,3,Jumper
+91,Gordon Hayward,OFFENSIVE_REBOUND,None,1:12,1,Celtics,Knicks,19 - 20,0,N/A,N/A,N/A
+92,Gordon Hayward,FG_UNASSISTED,None,1:12,1,Celtics,Knicks,21 - 20,0, ,3,Jumper
+93,Mario Hezonja,TURNOVER,Jaylen Brown,1:01,1,Knicks,Celtics,21 - 20,1,N/A,N/A,N/A
+94,Jaylen Brown,FG_UNASSISTED,None,59.4,1,Celtics,Knicks,23 - 20,0,0,2,Dunk
+95,Allonzo Trier,TURNOVER,Terry Rozier,50.3,1,Knicks,Celtics,23 - 20,1,N/A,N/A,N/A
+96,Jaylen Brown,FG_MISS,None,46.2,1,Celtics,Knicks,23 - 20,0,26,3,Jumper
+97,Damyean Dotson,DEFENSIVE_REBOUND,None,43.9,1,Knicks,Celtics,23 - 20,1,N/A,N/A,N/A
+98,Mitchell Robinson,FG_MISS,Aron Baynes,25.6,1,Celtics,Knicks,23 - 20,1,0,2,Layup
+99,Team,DEFENSIVE_REBOUND,None,25.6,1,Celtics,Knicks,23 - 20,0,N/A,N/A,N/A
+100,Aron Baynes,JUMP_BALL,None,25.6,1,Celtics,Knicks,23 - 20,0,N/A,N/A,N/A
+101,Kadeem Allen,SUBSTITUTION,Dotson Damyean,25.6,1,Knicks,Celtics,23 - 20,1,N/A,N/A,N/A
+102,Kevin Knox,SUBSTITUTION,Vonleh Noah,25.6,1,Knicks,Celtics,23 - 20,1,N/A,N/A,N/A
+103,Gordon Hayward,FG_ASSISTED,Terry Rozier,20.9,1,Celtics,Knicks,25 - 20,0,0,2,Dunk
+104,Kevin Knox,FG_MISS,None,0.3,1,Knicks,Celtics,25 - 20,1,23,3,Jumper
+105,Team,OFFENSIVE_REBOUND,None,0.1,1,Knicks,Celtics,25 - 20,1,N/A,N/A,N/A
+106,End of,Unknown,None,0.0,1,Knicks,Celtics,25 - 20,1,N/A,N/A,N/A
+0,Enes Kanter,SUBSTITUTION,Robinson Mitchell,12:00,2,Knicks,Celtics,25 - 20,1,N/A,N/A,N/A
+1,Marcus Smart,SUBSTITUTION,Irving Kyrie,12:00,2,Celtics,Knicks,25 - 20,0,N/A,N/A,N/A
+2,Gordon Hayward,FG_UNASSISTED,None,11:47,2,Celtics,Knicks,27 - 20,0,0,2,Layup
+3,Enes Kanter,FG_MISS,None,11:25,2,Knicks,Celtics,27 - 20,1,6,3,Jumper
+4,Aron Baynes,DEFENSIVE_REBOUND,None,11:23,2,Celtics,Knicks,27 - 20,0,N/A,N/A,N/A
+5,Marcus Smart,FG_MISS,None,11:13,2,Celtics,Knicks,27 - 20,0,10,3,Jumper
+6,Enes Kanter,DEFENSIVE_REBOUND,None,11:11,2,Knicks,Celtics,27 - 20,1,N/A,N/A,N/A
+7,Enes Kanter,FG_MISS,Gordon Hayward,10:54,2,Celtics,Knicks,27 - 20,1,0,2,Layup
+8,Enes Kanter,OFFENSIVE_REBOUND,None,10:52,2,Knicks,Celtics,27 - 20,1,N/A,N/A,N/A
+9,Enes Kanter,FG_UNASSISTED,None,10:51,2,Knicks,Celtics,27 - 22,1, ,3,Jumper
+10,Terry Rozier,FG_MISS,None,10:41,2,Celtics,Knicks,27 - 22,0,11,3,Jumper
+11,Enes Kanter,DEFENSIVE_REBOUND,None,10:39,2,Knicks,Celtics,27 - 22,1,N/A,N/A,N/A
+12,Allonzo Trier,TURNOVER,Jaylen Brown,10:24,2,Knicks,Celtics,27 - 22,1,N/A,N/A,N/A
+13,Jaylen Brown,FG_MISS,None,10:19,2,Celtics,Knicks,27 - 22,0,0,2,Layup
+14,Gordon Hayward,OFFENSIVE_REBOUND,None,10:17,2,Celtics,Knicks,27 - 22,0,N/A,N/A,N/A
+15,Gordon Hayward,FG_MISS,None,10:15,2,Celtics,Knicks,27 - 22,0,0,2,Layup
+16,Kevin Knox,DEFENSIVE_REBOUND,None,10:13,2,Knicks,Celtics,27 - 22,1,N/A,N/A,N/A
+17,Kadeem Allen,FG_UNASSISTED,None,10:04,2,Knicks,Celtics,27 - 24,1,15,3,Jumper
+18,Aron Baynes,FG_ASSISTED,Gordon Hayward,9:50,2,Celtics,Knicks,29 - 24,0,0,2,Dunk
+19,Gordon Hayward,FOUL_ON_FLOOR,None,9:33,2,Celtics,Knicks,29 - 24,0,N/A,N/A,N/A
+20,Allonzo Trier,FG_UNASSISTED,None,9:27,2,Knicks,Celtics,29 - 26,1,15,3,Jumper
+21,Aron Baynes,FG_ASSISTED,Jaylen Brown,9:07,2,Celtics,Knicks,32 - 26,0,24,3,Jumper
+22,Mario Hezonja,FG_ASSISTED,Enes Kanter,8:51,2,Knicks,Celtics,32 - 28,1,0,2,Layup
+23,Gordon Hayward,FG_MISS,None,8:37,2,Celtics,Knicks,32 - 28,0,25,3,Jumper
+24,Enes Kanter,DEFENSIVE_REBOUND,None,8:35,2,Knicks,Celtics,32 - 28,1,N/A,N/A,N/A
+25,Enes Kanter,FG_MISS,None,8:25,2,Knicks,Celtics,32 - 28,1,26,3,Jumper
+26,Jaylen Brown,DEFENSIVE_REBOUND,None,8:23,2,Celtics,Knicks,32 - 28,0,N/A,N/A,N/A
+27,Aron Baynes,FOUL_ON_FLOOR,None,8:11,2,Celtics,Knicks,32 - 28,0,N/A,N/A,N/A
+28,Aron Baynes,TURNOVER,None,8:11,2,Celtics,Knicks,32 - 28,0,N/A,N/A,N/A
+29,Kevin Knox,FG_UNASSISTED,None,7:56,2,Knicks,Celtics,32 - 30,1,9,3,Jumper
+30,Marcus Smart,FG_MISS,None,7:42,2,Celtics,Knicks,32 - 30,0,26,3,Jumper
+31,Kadeem Allen,DEFENSIVE_REBOUND,None,7:40,2,Knicks,Celtics,32 - 30,1,N/A,N/A,N/A
+32,Damyean Dotson,SUBSTITUTION,Trier Allonzo,7:37,2,Knicks,Celtics,32 - 30,1,N/A,N/A,N/A
+33,Al Horford,SUBSTITUTION,Baynes Aron,7:37,2,Celtics,Knicks,32 - 30,0,N/A,N/A,N/A
+34,Damyean Dotson,FG_ASSISTED,Kevin Knox,7:27,2,Knicks,Celtics,32 - 33,1,23,3,Jumper
+35,Kadeem Allen,FOUL_ON_FLOOR,None,7:17,2,Knicks,Celtics,32 - 33,1,N/A,N/A,N/A
+36,Gordon Hayward,FT,None,7:17,2,Celtics,Knicks,33 - 33,0,N/A,1,N/A
+37,Gordon Hayward,FT,None,7:17,2,Celtics,Knicks,34 - 33,0,N/A,1,N/A
+38,Enes Kanter,TURNOVER,None,7:09,2,Knicks,Celtics,34 - 33,1,N/A,N/A,N/A
+39,Al Horford,FG_MISS,None,6:55,2,Celtics,Knicks,34 - 33,0,8,3,Jumper
+40,Kevin Knox,DEFENSIVE_REBOUND,None,6:53,2,Knicks,Celtics,34 - 33,1,N/A,N/A,N/A
+41,Kevin Knox,FG_UNASSISTED,None,6:44,2,Knicks,Celtics,34 - 35,1,0,2,Layup
+42,Marcus Smart,FG_ASSISTED,Al Horford,6:33,2,Celtics,Knicks,37 - 35,0,23,3,Jumper
+43,Kadeem Allen,FG_MISS,None,6:07,2,Knicks,Celtics,37 - 35,1,25,3,Jumper
+44,Team,DEFENSIVE_REBOUND,None,6:05,2,Celtics,Knicks,37 - 35,0,N/A,N/A,N/A
+45,Team,Unknown,None,6:05,2,Knicks,Celtics,37 - 35,1,N/A,N/A,N/A
+46,Noah Vonleh,SUBSTITUTION,Hezonja Mario,6:05,2,Knicks,Celtics,37 - 35,1,N/A,N/A,N/A
+47,Jayson Tatum,SUBSTITUTION,Hayward Gordon,6:05,2,Celtics,Knicks,37 - 35,0,N/A,N/A,N/A
+48,Terry Rozier,FG_MISS,None,5:50,2,Celtics,Knicks,37 - 35,0,26,3,Jumper
+49,Enes Kanter,DEFENSIVE_REBOUND,None,5:48,2,Knicks,Celtics,37 - 35,1,N/A,N/A,N/A
+50,Al Horford,FOUL_ON_FLOOR,None,5:27,2,Celtics,Knicks,37 - 35,0,N/A,N/A,N/A
+51,Kadeem Allen,FT,None,5:27,2,Knicks,Celtics,37 - 36,1,N/A,1,N/A
+52,Marcus Morris,SUBSTITUTION,Brown Jaylen,5:27,2,Celtics,Knicks,37 - 36,0,N/A,N/A,N/A
+53,Kyrie Irving,SUBSTITUTION,Rozier Terry,5:27,2,Celtics,Knicks,37 - 36,0,N/A,N/A,N/A
+54,Kadeem Allen,FT,None,5:27,2,Knicks,Celtics,37 - 37,1,N/A,1,N/A
+55,Kyrie Irving,FG_ASSISTED,Marcus Smart,5:14,2,Celtics,Knicks,39 - 37,0,0,2,Layup
+56,shot clock,TURNOVER,None,4:49,2,Knicks,Celtics,39 - 37,1,N/A,N/A,N/A
+57,Kyrie Irving,FG_ASSISTED,Marcus Smart,4:42,2,Celtics,Knicks,42 - 37,0,27,3,Jumper
+58,Team,Unknown,None,4:33,2,Knicks,Celtics,42 - 37,1,N/A,N/A,N/A
+59,Luke Kornet,SUBSTITUTION,Allen Kadeem,4:33,2,Knicks,Celtics,42 - 37,1,N/A,N/A,N/A
+60,Allonzo Trier,SUBSTITUTION,Kanter Enes,4:33,2,Knicks,Celtics,42 - 37,1,N/A,N/A,N/A
+61,Luke Kornet,FG_MISS,None,4:20,2,Knicks,Celtics,42 - 37,1,0,2,Layup
+62,Al Horford,DEFENSIVE_REBOUND,None,4:18,2,Celtics,Knicks,42 - 37,0,N/A,N/A,N/A
+63,Marcus Morris,FG_ASSISTED,Al Horford,4:09,2,Celtics,Knicks,45 - 37,0,27,3,Jumper
+64,Noah Vonleh,FG_MISS,Jayson Tatum,3:48,2,Celtics,Knicks,45 - 37,1,12,3,Jumper
+65,Noah Vonleh,OFFENSIVE_REBOUND,None,3:46,2,Knicks,Celtics,45 - 37,1,N/A,N/A,N/A
+66,Allonzo Trier,FG_MISS,None,3:43,2,Knicks,Celtics,45 - 37,1, ,3,Jumper
+67,Team,DEFENSIVE_REBOUND,None,3:41,2,Celtics,Knicks,45 - 37,0,N/A,N/A,N/A
+68,Marcus Morris,FG_ASSISTED,Kyrie Irving,3:27,2,Celtics,Knicks,47 - 37,0,0,2,Layup
+69,Luke Kornet,FG_ASSISTED,Kevin Knox,3:04,2,Knicks,Celtics,47 - 39,1,11,3,Jumper
+70,Jayson Tatum,FG_UNASSISTED,None,2:40,2,Celtics,Knicks,49 - 39,0,0,2,Layup
+71,Noah Vonleh,FOUL_ON_FLOOR,None,2:30,2,Knicks,Celtics,49 - 39,1,N/A,N/A,N/A
+72,Noah Vonleh,TURNOVER,None,2:30,2,Knicks,Celtics,49 - 39,1,N/A,N/A,N/A
+73,Mario Hezonja,SUBSTITUTION,Vonleh Noah,2:30,2,Knicks,Celtics,49 - 39,1,N/A,N/A,N/A
+74,Kyrie Irving,TURNOVER,Kevin Knox,2:21,2,Celtics,Knicks,49 - 39,0,N/A,N/A,N/A
+75,Jayson Tatum,FOUL_ON_FLOOR,None,2:20,2,Celtics,Knicks,49 - 39,0,N/A,N/A,N/A
+76,Damyean Dotson,FG_ASSISTED,Allonzo Trier,2:10,2,Knicks,Celtics,49 - 42,1,25,3,Jumper
+77,Kyrie Irving,FG_ASSISTED,Jayson Tatum,1:47,2,Celtics,Knicks,51 - 42,0,0,2,Dunk
+78,Luke Kornet,FG_MISS,None,1:26,2,Knicks,Celtics,51 - 42,1,31,3,Jumper
+79,Jayson Tatum,DEFENSIVE_REBOUND,None,1:24,2,Celtics,Knicks,51 - 42,0,N/A,N/A,N/A
+80,Jayson Tatum,FG_UNASSISTED,None,1:16,2,Celtics,Knicks,53 - 42,0,0,2,Layup
+81,Luke Kornet,FG_ASSISTED,Mario Hezonja,54.8,2,Knicks,Celtics,53 - 44,1,0,2,Layup
+82,Jayson Tatum,FG_UNASSISTED,None,44.8,2,Celtics,Knicks,56 - 44,0,26,3,Jumper
+83,Allonzo Trier,FG_UNASSISTED,None,37.1,2,Knicks,Celtics,56 - 47,1,26,3,Jumper
+84,Kyrie Irving,FG_MISS,None,24.6,2,Celtics,Knicks,56 - 47,0,16,3,Jumper
+85,Luke Kornet,DEFENSIVE_REBOUND,None,22.5,2,Knicks,Celtics,56 - 47,1,N/A,N/A,N/A
+86,Mario Hezonja,FG_MISS,None,0.3,2,Knicks,Celtics,56 - 47,1,29,3,Jumper
+87,Team,OFFENSIVE_REBOUND,None,0.1,2,Knicks,Celtics,56 - 47,1,N/A,N/A,N/A
+88,End of,Unknown,None,0.0,2,Knicks,Celtics,56 - 47,1,N/A,N/A,N/A
+0,Kadeem Allen,SUBSTITUTION,Trier Allonzo,12:00,3,Knicks,Celtics,56 - 47,1,N/A,N/A,N/A
+1,Noah Vonleh,SUBSTITUTION,Hezonja Mario,12:00,3,Knicks,Celtics,56 - 47,1,N/A,N/A,N/A
+2,Kyrie Irving,TURNOVER,None,11:47,3,Celtics,Knicks,56 - 47,0,N/A,N/A,N/A
+3,Kevin Knox,FG_MISS,None,11:35,3,Knicks,Celtics,56 - 47,1,16,3,Jumper
+4,Marcus Morris,DEFENSIVE_REBOUND,None,11:33,3,Celtics,Knicks,56 - 47,0,N/A,N/A,N/A
+5,Al Horford,FG_UNASSISTED,None,11:23,3,Celtics,Knicks,58 - 47,0,4,3,Jumper
+6,Kevin Knox,FG_ASSISTED,Noah Vonleh,11:05,3,Knicks,Celtics,58 - 49,1,0,2,Layup
+7,Al Horford,FG_ASSISTED,Jayson Tatum,10:52,3,Celtics,Knicks,60 - 49,0,20,3,Jumper
+8,Luke Kornet,FG_MISS,None,10:29,3,Knicks,Celtics,60 - 49,1,16,3,Jumper
+9,Al Horford,DEFENSIVE_REBOUND,None,10:27,3,Celtics,Knicks,60 - 49,0,N/A,N/A,N/A
+10,Damyean Dotson,FOUL_ON_FLOOR,None,10:18,3,Knicks,Celtics,60 - 49,1,N/A,N/A,N/A
+11,Marcus Morris,FG_MISS,None,10:04,3,Celtics,Knicks,60 - 49,0,7,3,Jumper
+12,Noah Vonleh,DEFENSIVE_REBOUND,None,10:02,3,Knicks,Celtics,60 - 49,1,N/A,N/A,N/A
+13,Damyean Dotson,FG_ASSISTED,Noah Vonleh,9:58,3,Knicks,Celtics,60 - 52,1,25,3,Jumper
+14,Marcus Morris,FG_MISS,None,9:41,3,Celtics,Knicks,60 - 52,0,22,3,Jumper
+15,Al Horford,OFFENSIVE_REBOUND,None,9:39,3,Celtics,Knicks,60 - 52,0,N/A,N/A,N/A
+16,Marcus Morris,FG_MISS,None,9:38,3,Celtics,Knicks,60 - 52,0, ,3,Jumper
+17,Team,OFFENSIVE_REBOUND,None,9:37,3,Celtics,Knicks,60 - 52,0,N/A,N/A,N/A
+18,Kadeem Allen,FOUL_ON_FLOOR,None,9:37,3,Knicks,Celtics,60 - 52,1,N/A,N/A,N/A
+19,Jayson Tatum,FG_MISS,None,9:25,3,Celtics,Knicks,60 - 52,0,26,3,Jumper
+20,Kevin Knox,DEFENSIVE_REBOUND,None,9:22,3,Knicks,Celtics,60 - 52,1,N/A,N/A,N/A
+21,Kevin Knox,FG_MISS,None,9:08,3,Knicks,Celtics,60 - 52,1,26,3,Jumper
+22,Al Horford,DEFENSIVE_REBOUND,None,9:06,3,Celtics,Knicks,60 - 52,0,N/A,N/A,N/A
+23,Kyrie Irving,FG_UNASSISTED,None,8:59,3,Celtics,Knicks,63 - 52,0,27,3,Jumper
+24,Damyean Dotson,FG_MISS,None,8:43,3,Knicks,Celtics,63 - 52,1,17,3,Jumper
+25,Noah Vonleh,OFFENSIVE_REBOUND,None,8:41,3,Knicks,Celtics,63 - 52,1,N/A,N/A,N/A
+26,Noah Vonleh,FG_MISS,None,8:35,3,Knicks,Celtics,63 - 52,1,26,3,Jumper
+27,Jayson Tatum,DEFENSIVE_REBOUND,None,8:33,3,Celtics,Knicks,63 - 52,0,N/A,N/A,N/A
+28,Al Horford,TURNOVER,Luke Kornet,8:21,3,Celtics,Knicks,63 - 52,0,N/A,N/A,N/A
+29,Kyrie Irving,FOUL_ON_FLOOR,None,8:19,3,Celtics,Knicks,63 - 52,0,N/A,N/A,N/A
+30,Kevin Knox,FG_MISS,None,8:05,3,Knicks,Celtics,63 - 52,1,0,2,Layup
+31,Kyrie Irving,DEFENSIVE_REBOUND,None,8:03,3,Celtics,Knicks,63 - 52,0,N/A,N/A,N/A
+32,Kyrie Irving,FG_MISS,None,7:47,3,Celtics,Knicks,63 - 52,0,0,2,Layup
+33,Noah Vonleh,DEFENSIVE_REBOUND,None,7:45,3,Knicks,Celtics,63 - 52,1,N/A,N/A,N/A
+34,Luke Kornet,FG_MISS,None,7:30,3,Knicks,Celtics,63 - 52,1,26,3,Jumper
+35,Kyrie Irving,DEFENSIVE_REBOUND,None,7:28,3,Celtics,Knicks,63 - 52,0,N/A,N/A,N/A
+36,Marcus Morris,FG_MISS,None,7:24,3,Celtics,Knicks,63 - 52,0,26,3,Jumper
+37,Damyean Dotson,DEFENSIVE_REBOUND,None,7:22,3,Knicks,Celtics,63 - 52,1,N/A,N/A,N/A
+38,Damyean Dotson,FG_UNASSISTED,None,7:18,3,Knicks,Celtics,63 - 54,1,0,2,Layup
+39,Jayson Tatum,FG_MISS,None,7:00,3,Celtics,Knicks,63 - 54,0,12,3,Jumper
+40,Damyean Dotson,DEFENSIVE_REBOUND,None,6:59,3,Knicks,Celtics,63 - 54,1,N/A,N/A,N/A
+41,Luke Kornet,FG_MISS,None,6:53,3,Knicks,Celtics,63 - 54,1,26,3,Jumper
+42,Kyrie Irving,DEFENSIVE_REBOUND,None,6:51,3,Celtics,Knicks,63 - 54,0,N/A,N/A,N/A
+43,Jayson Tatum,FG_MISS,None,6:40,3,Celtics,Knicks,63 - 54,0, ,3,Jumper
+44,Noah Vonleh,DEFENSIVE_REBOUND,None,6:38,3,Knicks,Celtics,63 - 54,1,N/A,N/A,N/A
+45,Damyean Dotson,FG_MISS,None,6:23,3,Knicks,Celtics,63 - 54,1,26,3,Jumper
+46,Marcus Morris,DEFENSIVE_REBOUND,None,6:21,3,Celtics,Knicks,63 - 54,0,N/A,N/A,N/A
+47,Al Horford,FG_ASSISTED,Jayson Tatum,6:14,3,Celtics,Knicks,65 - 54,0,11,3,Jumper
+48,Team,Unknown,None,6:05,3,Knicks,Celtics,65 - 54,1,N/A,N/A,N/A
+49,Mitchell Robinson,SUBSTITUTION,Kornet Luke,6:05,3,Knicks,Celtics,65 - 54,1,N/A,N/A,N/A
+50,Allonzo Trier,SUBSTITUTION,Allen Kadeem,6:05,3,Knicks,Celtics,65 - 54,1,N/A,N/A,N/A
+51,Damyean Dotson,FG_UNASSISTED,None,5:53,3,Knicks,Celtics,65 - 56,1,17,3,Jumper
+52,Kyrie Irving,FOUL_ON_FLOOR,None,5:40,3,Celtics,Knicks,65 - 56,0,N/A,N/A,N/A
+53,Kyrie Irving,TURNOVER,None,5:40,3,Celtics,Knicks,65 - 56,0,N/A,N/A,N/A
+54,Kevin Knox,FG_MISS,None,5:29,3,Knicks,Celtics,65 - 56,1, ,3,Jumper
+55,Al Horford,DEFENSIVE_REBOUND,None,5:27,3,Celtics,Knicks,65 - 56,0,N/A,N/A,N/A
+56,Jayson Tatum,FG_MISS,Mitchell Robinson,5:22,3,Knicks,Celtics,65 - 56,0,26,3,Jumper
+57,Mitchell Robinson,DEFENSIVE_REBOUND,None,5:20,3,Knicks,Celtics,65 - 56,1,N/A,N/A,N/A
+58,Mitchell Robinson,TURNOVER,None,5:18,3,Knicks,Celtics,65 - 56,1,N/A,N/A,N/A
+59,Jayson Tatum,FG_MISS,None,5:01,3,Celtics,Knicks,65 - 56,0,24,3,Jumper
+60,Al Horford,OFFENSIVE_REBOUND,None,4:59,3,Celtics,Knicks,65 - 56,0,N/A,N/A,N/A
+61,Al Horford,FG_UNASSISTED,None,4:56,3,Celtics,Knicks,67 - 56,0, ,3,Jumper
+62,Kevin Knox,FG_MISS,None,4:42,3,Knicks,Celtics,67 - 56,1,26,3,Jumper
+63,Marcus Smart,DEFENSIVE_REBOUND,None,4:40,3,Celtics,Knicks,67 - 56,0,N/A,N/A,N/A
+64,Kyrie Irving,FG_MISS,None,4:33,3,Celtics,Knicks,67 - 56,0,25,3,Jumper
+65,Kevin Knox,DEFENSIVE_REBOUND,None,4:31,3,Knicks,Celtics,67 - 56,1,N/A,N/A,N/A
+66,Marcus Smart,FOUL_ON_FLOOR,None,4:22,3,Celtics,Knicks,67 - 56,0,N/A,N/A,N/A
+67,Kadeem Allen,SUBSTITUTION,Knox Kevin,4:22,3,Knicks,Celtics,67 - 56,1,N/A,N/A,N/A
+68,Mario Hezonja,SUBSTITUTION,Dotson Damyean,4:22,3,Knicks,Celtics,67 - 56,1,N/A,N/A,N/A
+69,Gordon Hayward,SUBSTITUTION,Tatum Jayson,4:22,3,Celtics,Knicks,67 - 56,0,N/A,N/A,N/A
+70,Aron Baynes,SUBSTITUTION,Morris Marcus,4:22,3,Celtics,Knicks,67 - 56,0,N/A,N/A,N/A
+71,Mario Hezonja,FG_MISS,None,4:14,3,Knicks,Celtics,67 - 56,1,23,3,Jumper
+72,Team,DEFENSIVE_REBOUND,None,4:12,3,Celtics,Knicks,67 - 56,0,N/A,N/A,N/A
+73,Gordon Hayward,FG_ASSISTED,Kyrie Irving,4:01,3,Celtics,Knicks,70 - 56,0,22,3,Jumper
+74,Mario Hezonja,FG_ASSISTED,Noah Vonleh,3:46,3,Knicks,Celtics,70 - 58,1,12,3,Jumper
+75,Al Horford,FG_ASSISTED,Kyrie Irving,3:21,3,Celtics,Knicks,72 - 58,0,10,3,Jumper
+76,Mitchell Robinson,FG_ASSISTED,Allonzo Trier,3:02,3,Knicks,Celtics,72 - 60,1,0,2,Dunk
+77,Al Horford,FG_MISS,None,2:52,3,Celtics,Knicks,72 - 60,0,27,3,Jumper
+78,Allonzo Trier,DEFENSIVE_REBOUND,None,2:50,3,Knicks,Celtics,72 - 60,1,N/A,N/A,N/A
+79,Mario Hezonja,FG_UNASSISTED,None,2:36,3,Knicks,Celtics,72 - 62,1,12,3,Jumper
+80,Team,Unknown,None,2:35,3,Celtics,Knicks,72 - 62,0,N/A,N/A,N/A
+81,Kevin Knox,SUBSTITUTION,Vonleh Noah,2:35,3,Knicks,Celtics,72 - 62,1,N/A,N/A,N/A
+82,Jaylen Brown,SUBSTITUTION,Smart Marcus,2:35,3,Celtics,Knicks,72 - 62,0,N/A,N/A,N/A
+83,Terry Rozier,SUBSTITUTION,Horford Al,2:35,3,Celtics,Knicks,72 - 62,0,N/A,N/A,N/A
+84,Kyrie Irving,FG_MISS,None,2:24,3,Celtics,Knicks,72 - 62,0,14,3,Jumper
+85,Mario Hezonja,DEFENSIVE_REBOUND,None,2:22,3,Knicks,Celtics,72 - 62,1,N/A,N/A,N/A
+86,Aron Baynes,FOUL_ON_FLOOR,None,2:17,3,Celtics,Knicks,72 - 62,0,N/A,N/A,N/A
+87,Mario Hezonja,FT,None,2:17,3,Knicks,Celtics,72 - 63,1,N/A,1,N/A
+88,Mario Hezonja,FT,None,2:17,3,Knicks,Celtics,72 - 64,1,N/A,1,N/A
+89,Kyrie Irving,FG_MISS,None,2:02,3,Celtics,Knicks,72 - 64,0,0,2,Layup
+90,Mario Hezonja,DEFENSIVE_REBOUND,None,2:00,3,Knicks,Celtics,72 - 64,1,N/A,N/A,N/A
+91,Kevin Knox,FG_ASSISTED,Mario Hezonja,2:00,3,Knicks,Celtics,72 - 66,1,0,2,Layup
+92,Jaylen Brown,FOUL_ON_FLOOR,None,2:00,3,Celtics,Knicks,72 - 66,0,N/A,N/A,N/A
+93,Kevin Knox,FT,None,2:00,3,Knicks,Celtics,72 - 67,1,N/A,1,N/A
+94,Terry Rozier,FG_MISS,None,1:46,3,Celtics,Knicks,72 - 67,0,0,2,Layup
+95,Mitchell Robinson,DEFENSIVE_REBOUND,None,1:44,3,Knicks,Celtics,72 - 67,1,N/A,N/A,N/A
+96,Mario Hezonja,TURNOVER,Jaylen Brown,1:41,3,Knicks,Celtics,72 - 67,1,N/A,N/A,N/A
+97,Allonzo Trier,FOUL_ON_FLOOR,None,1:40,3,Knicks,Celtics,72 - 67,1,N/A,N/A,N/A
+98,Gordon Hayward,FG_ASSISTED,Terry Rozier,1:26,3,Celtics,Knicks,75 - 67,0,24,3,Jumper
+99,Kevin Knox,FG_UNASSISTED,None,1:11,3,Knicks,Celtics,75 - 69,1,11,3,Jumper
+100,Jaylen Brown,FG_MISS,None,56.8,3,Celtics,Knicks,75 - 69,0,0,2,Layup
+101,Aron Baynes,OFFENSIVE_REBOUND,None,55.5,3,Celtics,Knicks,75 - 69,0,N/A,N/A,N/A
+102,Aron Baynes,FG_UNASSISTED,None,55.5,3,Celtics,Knicks,77 - 69,0, ,3,Jumper
+103,Kevin Knox,FG_UNASSISTED,None,41.0,3,Knicks,Celtics,77 - 71,1,22,3,Jumper
+104,Kyrie Irving,FG_UNASSISTED,None,32.7,3,Celtics,Knicks,79 - 71,0,0,2,Layup
+105,Kadeem Allen,FOUL_ON_FLOOR,None,32.7,3,Knicks,Celtics,79 - 71,1,N/A,N/A,N/A
+106,Kyrie Irving,FT,None,32.7,3,Celtics,Knicks,80 - 71,0,N/A,1,N/A
+107,Aron Baynes,FOUL_ON_FLOOR,None,18.6,3,Celtics,Knicks,80 - 71,0,N/A,N/A,N/A
+108,Kadeem Allen,FT,None,18.6,3,Knicks,Celtics,80 - 72,1,N/A,1,N/A
+109,Marcus Morris,SUBSTITUTION,Baynes Aron,18.6,3,Celtics,Knicks,80 - 72,0,N/A,N/A,N/A
+110,Kadeem Allen,FT,None,18.6,3,Knicks,Celtics,80 - 73,1,N/A,1,N/A
+111,Jaylen Brown,FG_MISS,None,2.9,3,Celtics,Knicks,80 - 73,0,24,3,Jumper
+112,Team,DEFENSIVE_REBOUND,None,1.3,3,Knicks,Celtics,80 - 73,1,N/A,N/A,N/A
+113,Aron Baynes,SUBSTITUTION,Morris Marcus,1.3,3,Celtics,Knicks,80 - 73,0,N/A,N/A,N/A
+114,End of,Unknown,None,0.0,3,Knicks,Celtics,80 - 73,1,N/A,N/A,N/A
+0,Enes Kanter,SUBSTITUTION,Robinson Mitchell,12:00,4,Knicks,Celtics,80 - 73,1,N/A,N/A,N/A
+1,Marcus Morris,SUBSTITUTION,Irving Kyrie,12:00,4,Celtics,Knicks,80 - 73,0,N/A,N/A,N/A
+2,Kevin Knox,FG_MISS,Aron Baynes,11:50,4,Celtics,Knicks,80 - 73,1,0,2,Layup
+3,Team,OFFENSIVE_REBOUND,None,11:48,4,Knicks,Celtics,80 - 73,1,N/A,N/A,N/A
+4,Enes Kanter,TURNOVER,Marcus Morris,11:38,4,Knicks,Celtics,80 - 73,1,N/A,N/A,N/A
+5,Mario Hezonja,FOUL_ON_FLOOR,None,11:20,4,Knicks,Celtics,80 - 73,1,N/A,N/A,N/A
+6,Terry Rozier,FG_ASSISTED,Gordon Hayward,11:14,4,Celtics,Knicks,83 - 73,0, ,3,Jumper
+7,Damyean Dotson,SUBSTITUTION,Allen Kadeem,10:50,4,Knicks,Celtics,83 - 73,1,N/A,N/A,N/A
+8,Damyean Dotson,FG_MISS,Terry Rozier,10:49,4,Celtics,Knicks,83 - 73,1,27,3,Jumper
+9,Terry Rozier,DEFENSIVE_REBOUND,None,10:48,4,Celtics,Knicks,83 - 73,0,N/A,N/A,N/A
+10,Damyean Dotson,FOUL_ON_FLOOR,None,10:47,4,Knicks,Celtics,83 - 73,1,N/A,N/A,N/A
+11,Jaylen Brown,FG_UNASSISTED,None,10:31,4,Celtics,Knicks,85 - 73,0,5,3,Jumper
+12,Allonzo Trier,FG_UNASSISTED,None,10:15,4,Knicks,Celtics,85 - 75,1,0,2,Layup
+13,Jaylen Brown,FG_MISS,None,10:04,4,Celtics,Knicks,85 - 75,0,26,3,Jumper
+14,Kevin Knox,DEFENSIVE_REBOUND,None,10:02,4,Knicks,Celtics,85 - 75,1,N/A,N/A,N/A
+15,Enes Kanter,FG_MISS,None,9:54,4,Knicks,Celtics,85 - 75,1,0,2,Layup
+16,Marcus Morris,DEFENSIVE_REBOUND,None,9:52,4,Celtics,Knicks,85 - 75,0,N/A,N/A,N/A
+17,Kevin Knox,FOUL_ON_FLOOR,None,9:43,4,Knicks,Celtics,85 - 75,1,N/A,N/A,N/A
+18,Aron Baynes,FT_MISS,None,9:43,4,Celtics,Knicks,85 - 75,0,N/A,1,N/A
+19,Team,OFFENSIVE_REBOUND,None,9:43,4,Celtics,Knicks,85 - 75,0,N/A,N/A,N/A
+20,Aron Baynes,FT,None,9:43,4,Celtics,Knicks,86 - 75,0,N/A,1,N/A
+21,Mario Hezonja,FG_MISS,None,9:32,4,Knicks,Celtics,86 - 75,1,28,3,Jumper
+22,Aron Baynes,DEFENSIVE_REBOUND,None,9:30,4,Celtics,Knicks,86 - 75,0,N/A,N/A,N/A
+23,Terry Rozier,FG_MISS,Allonzo Trier,9:23,4,Knicks,Celtics,86 - 75,0,0,2,Layup
+24,Damyean Dotson,DEFENSIVE_REBOUND,None,9:21,4,Knicks,Celtics,86 - 75,1,N/A,N/A,N/A
+25,Damyean Dotson,FG_UNASSISTED,None,9:19,4,Knicks,Celtics,86 - 77,1,0,2,Layup
+26,Jaylen Brown,FG_UNASSISTED,None,9:09,4,Celtics,Knicks,88 - 77,0,0,2,Layup
+27,Allonzo Trier,FOUL_ON_FLOOR,None,8:55,4,Knicks,Celtics,88 - 77,1,N/A,N/A,N/A
+28,Allonzo Trier,TURNOVER,None,8:55,4,Knicks,Celtics,88 - 77,1,N/A,N/A,N/A
+29,Kadeem Allen,SUBSTITUTION,Knox Kevin,8:55,4,Knicks,Celtics,88 - 77,1,N/A,N/A,N/A
+30,Jaylen Brown,TURNOVER,None,8:44,4,Celtics,Knicks,88 - 77,0,N/A,N/A,N/A
+31,Jaylen Brown,TURNOVER,None,8:44,4,Celtics,Knicks,88 - 77,0,N/A,N/A,N/A
+32,Enes Kanter,FG_MISS,Gordon Hayward,8:29,4,Celtics,Knicks,88 - 77,1,0,2,Layup
+33,Terry Rozier,DEFENSIVE_REBOUND,None,8:27,4,Celtics,Knicks,88 - 77,0,N/A,N/A,N/A
+34,Terry Rozier,FG_ASSISTED,Marcus Morris,8:23,4,Celtics,Knicks,91 - 77,0,23,3,Jumper
+35,Team,Unknown,None,8:13,4,Knicks,Celtics,91 - 77,1,N/A,N/A,N/A
+36,Kadeem Allen,TURNOVER,Aron Baynes,8:05,4,Knicks,Celtics,91 - 77,1,N/A,N/A,N/A
+37,Marcus Morris,FG_ASSISTED,Terry Rozier,8:00,4,Celtics,Knicks,94 - 77,0,25,3,Jumper
+38,Mario Hezonja,FG_ASSISTED,Kadeem Allen,7:41,4,Knicks,Celtics,94 - 79,1,0,2,Layup
+39,Marcus Morris,FG_ASSISTED,Terry Rozier,7:27,4,Celtics,Knicks,97 - 79,0,25,3,Jumper
+40,Enes Kanter,FG_UNASSISTED,None,7:06,4,Knicks,Celtics,97 - 81,1,7,3,Jumper
+41,Marcus Morris,FG_ASSISTED,Terry Rozier,6:56,4,Celtics,Knicks,99 - 81,0,3,3,Jumper
+42,Damyean Dotson,FG_MISS,None,6:42,4,Knicks,Celtics,99 - 81,1,9,3,Jumper
+43,Enes Kanter,OFFENSIVE_REBOUND,None,6:40,4,Knicks,Celtics,99 - 81,1,N/A,N/A,N/A
+44,Enes Kanter,FG_UNASSISTED,None,6:38,4,Knicks,Celtics,99 - 83,1, ,3,Jumper
+45,Gordon Hayward,FG_MISS,None,6:28,4,Celtics,Knicks,99 - 83,0,11,3,Jumper
+46,Enes Kanter,DEFENSIVE_REBOUND,None,6:26,4,Knicks,Celtics,99 - 83,1,N/A,N/A,N/A
+47,Mario Hezonja,FG_MISS,None,6:17,4,Knicks,Celtics,99 - 83,1,23,3,Jumper
+48,Gordon Hayward,DEFENSIVE_REBOUND,None,6:14,4,Celtics,Knicks,99 - 83,0,N/A,N/A,N/A
+49,Jaylen Brown,FG_UNASSISTED,None,6:08,4,Celtics,Knicks,101 - 83,0,4,3,Jumper
+50,Allonzo Trier,FOUL_ON_FLOOR,None,6:08,4,Knicks,Celtics,101 - 83,1,N/A,N/A,N/A
+51,Noah Vonleh,SUBSTITUTION,Hezonja Mario,6:08,4,Knicks,Celtics,101 - 83,1,N/A,N/A,N/A
+52,Mitchell Robinson,SUBSTITUTION,Trier Allonzo,6:08,4,Knicks,Celtics,101 - 83,1,N/A,N/A,N/A
+53,Kevin Knox,SUBSTITUTION,Kanter Enes,6:08,4,Knicks,Celtics,101 - 83,1,N/A,N/A,N/A
+54,Kyrie Irving,SUBSTITUTION,Hayward Gordon,6:08,4,Celtics,Knicks,101 - 83,0,N/A,N/A,N/A
+55,Jaylen Brown,FT,None,6:08,4,Celtics,Knicks,102 - 83,0,N/A,1,N/A
+56,Kadeem Allen,TURNOVER,Jaylen Brown,5:58,4,Knicks,Celtics,102 - 83,1,N/A,N/A,N/A
+57,Jaylen Brown,FG_UNASSISTED,None,5:55,4,Celtics,Knicks,104 - 83,0,0,2,Dunk
+58,Team,Unknown,None,5:53,4,Knicks,Celtics,104 - 83,1,N/A,N/A,N/A
+59,Noah Vonleh,FG_UNASSISTED,None,5:37,4,Knicks,Celtics,104 - 85,1,4,3,Jumper
+60,Mitchell Robinson,FOUL_ON_FLOOR,None,5:26,4,Knicks,Celtics,104 - 85,1,N/A,N/A,N/A
+61,Aron Baynes,FT_MISS,None,5:26,4,Celtics,Knicks,104 - 85,0,N/A,1,N/A
+62,Team,OFFENSIVE_REBOUND,None,5:26,4,Celtics,Knicks,104 - 85,0,N/A,N/A,N/A
+63,Aron Baynes,FT,None,5:26,4,Celtics,Knicks,105 - 85,0,N/A,1,N/A
+64,Kadeem Allen,FG_ASSISTED,Noah Vonleh,5:02,4,Knicks,Celtics,105 - 88,1,27,3,Jumper
+65,Terry Rozier,FG_MISS,None,4:50,4,Celtics,Knicks,105 - 88,0,25,3,Jumper
+66,Kadeem Allen,DEFENSIVE_REBOUND,None,4:48,4,Knicks,Celtics,105 - 88,1,N/A,N/A,N/A
+67,Kevin Knox,FG_ASSISTED,Noah Vonleh,4:40,4,Knicks,Celtics,105 - 91,1,25,3,Jumper
+68,Aron Baynes,FG_MISS,None,4:22,4,Celtics,Knicks,105 - 91,0,25,3,Jumper
+69,Noah Vonleh,DEFENSIVE_REBOUND,None,4:20,4,Knicks,Celtics,105 - 91,1,N/A,N/A,N/A
+70,Kadeem Allen,FG_MISS,None,4:08,4,Knicks,Celtics,105 - 91,1, ,3,Jumper
+71,Mitchell Robinson,OFFENSIVE_REBOUND,None,4:06,4,Knicks,Celtics,105 - 91,1,N/A,N/A,N/A
+72,Aron Baynes,FOUL_ON_FLOOR,None,4:06,4,Celtics,Knicks,105 - 91,0,N/A,N/A,N/A
+73,Mitchell Robinson,FT,None,4:06,4,Knicks,Celtics,105 - 92,1,N/A,1,N/A
+74,Al Horford,SUBSTITUTION,Baynes Aron,4:06,4,Celtics,Knicks,105 - 92,0,N/A,N/A,N/A
+75,Semi Ojeleye,SUBSTITUTION,Morris Marcus,4:06,4,Celtics,Knicks,105 - 92,0,N/A,N/A,N/A
+76,Mitchell Robinson,FT,None,4:06,4,Knicks,Celtics,105 - 93,1,N/A,1,N/A
+77,Jaylen Brown,FG_MISS,None,3:56,4,Celtics,Knicks,105 - 93,0,25,3,Jumper
+78,Damyean Dotson,DEFENSIVE_REBOUND,None,3:54,4,Knicks,Celtics,105 - 93,1,N/A,N/A,N/A
+79,Kevin Knox,FG_MISS,None,3:43,4,Knicks,Celtics,105 - 93,1,23,3,Jumper
+80,Mitchell Robinson,OFFENSIVE_REBOUND,None,3:41,4,Knicks,Celtics,105 - 93,1,N/A,N/A,N/A
+81,Damyean Dotson,FG_ASSISTED,Kadeem Allen,3:34,4,Knicks,Celtics,105 - 95,1,0,2,Layup
+82,Team,Unknown,None,3:32,4,Celtics,Knicks,105 - 95,0,N/A,N/A,N/A
+83,Jayson Tatum,SUBSTITUTION,Brown Jaylen,3:32,4,Celtics,Knicks,105 - 95,0,N/A,N/A,N/A
+84,Al Horford,FG_MISS,None,3:22,4,Celtics,Knicks,105 - 95,0,18,3,Jumper
+85,Jayson Tatum,OFFENSIVE_REBOUND,None,3:20,4,Celtics,Knicks,105 - 95,0,N/A,N/A,N/A
+86,Team,Unknown,None,3:15,4,Celtics,Knicks,105 - 95,0,N/A,N/A,N/A
+87,Kyrie Irving,FG_ASSISTED,Terry Rozier,3:08,4,Celtics,Knicks,107 - 95,0,13,3,Jumper
+88,Damyean Dotson,TURNOVER,None,2:52,4,Knicks,Celtics,107 - 95,1,N/A,N/A,N/A
+89,Kyrie Irving,FG_MISS,None,2:40,4,Celtics,Knicks,107 - 95,0,12,3,Jumper
+90,Noah Vonleh,DEFENSIVE_REBOUND,None,2:38,4,Knicks,Celtics,107 - 95,1,N/A,N/A,N/A
+91,Mitchell Robinson,TURNOVER,Kyrie Irving,2:27,4,Knicks,Celtics,107 - 95,1,N/A,N/A,N/A
+92,Jayson Tatum,FG_MISS,None,2:23,4,Celtics,Knicks,107 - 95,0, ,3,Jumper
+93,Al Horford,OFFENSIVE_REBOUND,None,2:21,4,Celtics,Knicks,107 - 95,0,N/A,N/A,N/A
+94,Al Horford,FG_UNASSISTED,None,2:21,4,Celtics,Knicks,109 - 95,0, ,3,Jumper
+95,Jayson Tatum,FOUL_ON_FLOOR,None,2:10,4,Celtics,Knicks,109 - 95,0,N/A,N/A,N/A
+96,Damyean Dotson,FG_MISS,None,2:06,4,Knicks,Celtics,109 - 95,1,26,3,Jumper
+97,Noah Vonleh,OFFENSIVE_REBOUND,None,2:04,4,Knicks,Celtics,109 - 95,1,N/A,N/A,N/A
+98,Noah Vonleh,FG_MISS,None,2:04,4,Knicks,Celtics,109 - 95,1, ,3,Jumper
+99,Kyrie Irving,DEFENSIVE_REBOUND,None,2:02,4,Celtics,Knicks,109 - 95,0,N/A,N/A,N/A
+100,Terry Rozier,FG_MISS,None,1:43,4,Celtics,Knicks,109 - 95,0,23,3,Jumper
+101,Mitchell Robinson,DEFENSIVE_REBOUND,None,1:42,4,Knicks,Celtics,109 - 95,1,N/A,N/A,N/A
+102,Noah Vonleh,FG_MISS,None,1:31,4,Knicks,Celtics,109 - 95,1,4,3,Jumper
+103,Mitchell Robinson,OFFENSIVE_REBOUND,None,1:29,4,Knicks,Celtics,109 - 95,1,N/A,N/A,N/A
+104,Mitchell Robinson,FG_UNASSISTED,None,1:28,4,Knicks,Celtics,109 - 97,1, ,3,Jumper
+105,Damyean Dotson,FOUL_ON_FLOOR,None,1:15,4,Knicks,Celtics,109 - 97,1,N/A,N/A,N/A
+106,Kyrie Irving,FT,None,1:15,4,Celtics,Knicks,110 - 97,0,N/A,1,N/A
+107,Luke Kornet,SUBSTITUTION,Robinson Mitchell,1:15,4,Knicks,Celtics,110 - 97,1,N/A,N/A,N/A
+108,Guerschon Yabusele,SUBSTITUTION,Horford Al,1:15,4,Celtics,Knicks,110 - 97,0,N/A,N/A,N/A
+109,Kyrie Irving,FT,None,1:15,4,Celtics,Knicks,111 - 97,0,N/A,1,N/A
+110,Jayson Tatum,FOUL_ON_FLOOR,None,1:07,4,Celtics,Knicks,111 - 97,0,N/A,N/A,N/A
+111,Kevin Knox,FG_UNASSISTED,None,1:00,4,Knicks,Celtics,111 - 99,1,0,2,Layup
+112,Kyrie Irving,TURNOVER,None,44.4,4,Celtics,Knicks,111 - 99,0,N/A,N/A,N/A
+113,Kadeem Allen,FG_MISS,None,38.0,4,Knicks,Celtics,111 - 99,1,11,3,Jumper
+114,Kyrie Irving,DEFENSIVE_REBOUND,None,36.1,4,Celtics,Knicks,111 - 99,0,N/A,N/A,N/A
+115,Terry Rozier,FG_MISS,None,16.9,4,Celtics,Knicks,111 - 99,0,0,2,Layup
+116,Guerschon Yabusele,OFFENSIVE_REBOUND,None,14.6,4,Celtics,Knicks,111 - 99,0,N/A,N/A,N/A
+117,Guerschon Yabusele,FG_UNASSISTED,None,14.2,4,Celtics,Knicks,113 - 99,0, ,3,Jumper
+118,Noah Vonleh,FG_MISS,None,4.6,4,Knicks,Celtics,113 - 99,1,26,3,Jumper
+119,Terry Rozier,DEFENSIVE_REBOUND,None,2.6,4,Celtics,Knicks,113 - 99,0,N/A,N/A,N/A
+120,End of,Unknown,None,0.0,4,Knicks,Celtics,113 - 99,1,N/A,N/A,N/A
+121,End of,Unknown,None,0.0,4,Knicks,Celtics,113 - 99,1,N/A,N/A,N/A

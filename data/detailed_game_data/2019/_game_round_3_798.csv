@@ -1,0 +1,462 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Enes Kanter,JUMP_BALL,None,12:00,1,Knicks,Nets,0 - 0,0,N/A,N/A,N/A
+1,Tim Hardaway,FG_ASSISTED,Frank Ntilikina,11:44,1,Knicks,Nets,2 - 0,0,0,2,Layup
+2,Jarrett Allen,FG_ASSISTED,D'Angelo Russell,11:25,1,Nets,Knicks,2 - 2,1,0,2,Layup
+3,Tim Hardaway,FG_MISS,None,11:03,1,Knicks,Nets,2 - 2,0,-,2,Jumper
+4,Jarrett Allen,DEFENSIVE_REBOUND,None,10:57,1,Nets,Knicks,2 - 2,1,N/A,N/A,N/A
+5,Jarrett Allen,TURNOVER,Frank Ntilikina,10:57,1,Nets,Knicks,2 - 2,1,N/A,N/A,N/A
+6,Trey Burke,FG_MISS,None,10:48,1,Knicks,Nets,2 - 2,0,15,2,Jumper
+7,Jared Dudley,DEFENSIVE_REBOUND,None,10:48,1,Nets,Knicks,2 - 2,1,N/A,N/A,N/A
+8,Caris LeVert,FG_UNASSISTED,None,10:38,1,Nets,Knicks,2 - 4,1,14,2,Jumper
+9,Enes Kanter,FG_MISS,Jarrett Allen,10:16,1,Nets,Knicks,2 - 4,0,0,2,Layup
+10,Jared Dudley,DEFENSIVE_REBOUND,None,10:13,1,Nets,Knicks,2 - 4,1,N/A,N/A,N/A
+11,Caris LeVert,FG_UNASSISTED,None,10:03,1,Nets,Knicks,2 - 6,1,6,2,Jumper
+12,Jared Dudley,FOUL_ON_FLOOR,None,9:44,1,Nets,Knicks,2 - 6,1,N/A,N/A,N/A
+13,Tim Hardaway,FT,None,9:44,1,Knicks,Nets,3 - 6,0,N/A,1,N/A
+14,Tim Hardaway,FT,None,9:44,1,Knicks,Nets,4 - 6,0,N/A,1,N/A
+15,Enes Kanter,FOUL_ON_FLOOR,None,9:29,1,Knicks,Nets,4 - 6,0,N/A,N/A,N/A
+16,Caris LeVert,FT,None,9:29,1,Nets,Knicks,4 - 7,1,N/A,1,N/A
+17,Caris LeVert,FT,None,9:29,1,Nets,Knicks,4 - 8,1,N/A,1,N/A
+18,Enes Kanter,FG_MISS,None,9:15,1,Knicks,Nets,4 - 8,0,-,2,Jumper
+19,D'Angelo Russell,DEFENSIVE_REBOUND,None,9:13,1,Nets,Knicks,4 - 8,1,N/A,N/A,N/A
+20,Joe Harris,FG_ASSISTED,D'Angelo Russell,9:06,1,Nets,Knicks,4 - 11,1,25,3,Jumper
+21,Enes Kanter,FG_UNASSISTED,None,8:47,1,Knicks,Nets,6 - 11,0,3,2,Jumper
+22,Jared Dudley,FG_ASSISTED,Caris LeVert,8:22,1,Nets,Knicks,6 - 13,1,8,2,Jumper
+23,Enes Kanter,FG_MISS,None,8:07,1,Knicks,Nets,6 - 13,0,26,3,Jumper
+24,Caris LeVert,DEFENSIVE_REBOUND,None,8:04,1,Nets,Knicks,6 - 13,1,N/A,N/A,N/A
+25,Caris LeVert,TURNOVER,Tim Hardaway,7:58,1,Nets,Knicks,6 - 13,1,N/A,N/A,N/A
+26,Lance Thomas,FG_MISS,None,7:39,1,Knicks,Nets,6 - 13,0,13,2,Jumper
+27,Enes Kanter,OFFENSIVE_REBOUND,None,7:37,1,Knicks,Nets,6 - 13,0,N/A,N/A,N/A
+28,Enes Kanter,FG_UNASSISTED,None,7:37,1,Knicks,Nets,8 - 13,0, ,2,Jumper
+29,Joe Harris,FOUL_ON_FLOOR,None,7:37,1,Nets,Knicks,8 - 13,1,N/A,N/A,N/A
+30,Enes Kanter,FT,None,7:37,1,Knicks,Nets,9 - 13,0,N/A,1,N/A
+31,Jarrett Allen,FG_ASSISTED,D'Angelo Russell,7:17,1,Nets,Knicks,9 - 15,1,0,2,Dunk
+32,Frank Ntilikina,FG_MISS,None,7:02,1,Knicks,Nets,9 - 15,0,25,3,Jumper
+33,D'Angelo Russell,DEFENSIVE_REBOUND,None,6:59,1,Nets,Knicks,9 - 15,1,N/A,N/A,N/A
+34,D'Angelo Russell,FG_MISS,None,6:53,1,Nets,Knicks,9 - 15,1, ,2,Jumper
+35,Jarrett Allen,OFFENSIVE_REBOUND,None,6:50,1,Nets,Knicks,9 - 15,1,N/A,N/A,N/A
+36,Jarrett Allen,TURNOVER,Tim Hardaway,6:46,1,Nets,Knicks,9 - 15,1,N/A,N/A,N/A
+37,Tim Hardaway,FG_MISS,None,6:43,1,Knicks,Nets,9 - 15,0,0,2,Layup
+38,Joe Harris,DEFENSIVE_REBOUND,None,6:41,1,Nets,Knicks,9 - 15,1,N/A,N/A,N/A
+39,Jarrett Allen,FG_ASSISTED,Caris LeVert,6:32,1,Nets,Knicks,9 - 17,1,0,2,Dunk
+40,Team,Unknown,None,6:24,1,Knicks,Nets,9 - 17,0,N/A,N/A,N/A
+41,Tim Hardaway,FG_MISS,Jarrett Allen,6:10,1,Nets,Knicks,9 - 17,0,0,2,Layup
+42,Joe Harris,DEFENSIVE_REBOUND,None,6:06,1,Nets,Knicks,9 - 17,1,N/A,N/A,N/A
+43,Joe Harris,TURNOVER,Tim Hardaway,6:04,1,Nets,Knicks,9 - 17,1,N/A,N/A,N/A
+44,Tim Hardaway,TURNOVER,D'Angelo Russell,6:00,1,Knicks,Nets,9 - 17,0,N/A,N/A,N/A
+45,Jared Dudley,FG_ASSISTED,Joe Harris,5:56,1,Nets,Knicks,9 - 19,1,0,2,Layup
+46,Enes Kanter,FG_UNASSISTED,None,5:37,1,Knicks,Nets,11 - 19,0,5,2,Jumper
+47,D'Angelo Russell,TURNOVER,Frank Ntilikina,5:27,1,Nets,Knicks,11 - 19,1,N/A,N/A,N/A
+48,Enes Kanter,FG_ASSISTED,Trey Burke,5:20,1,Knicks,Nets,13 - 19,0,0,2,Layup
+49,Caris LeVert,FOUL_ON_FLOOR,None,5:20,1,Nets,Knicks,13 - 19,1,N/A,N/A,N/A
+50,Team,Unknown,None,5:20,1,Nets,Knicks,13 - 19,1,N/A,N/A,N/A
+51,Spencer Dinwiddie,SUBSTITUTION,Harris Joe,5:20,1,Nets,Knicks,13 - 19,1,N/A,N/A,N/A
+52,Treveon Graham,SUBSTITUTION,Dudley Jared,5:20,1,Nets,Knicks,13 - 19,1,N/A,N/A,N/A
+53,Allonzo Trier,SUBSTITUTION,Ntilikina Frank,5:20,1,Knicks,Nets,13 - 19,0,N/A,N/A,N/A
+54,Enes Kanter,FT,None,5:20,1,Knicks,Nets,14 - 19,0,N/A,1,N/A
+55,Jarrett Allen,FG_ASSISTED,Caris LeVert,5:03,1,Nets,Knicks,14 - 21,1,0,2,Dunk
+56,Tim Hardaway,FG_ASSISTED,Lance Thomas,4:50,1,Knicks,Nets,16 - 21,0,0,2,Layup
+57,Caris LeVert,FOUL_ON_FLOOR,None,4:50,1,Nets,Knicks,16 - 21,1,N/A,N/A,N/A
+58,Ed Davis,SUBSTITUTION,Allen Jarrett,4:50,1,Nets,Knicks,16 - 21,1,N/A,N/A,N/A
+59,Tim Hardaway,FT,None,4:50,1,Knicks,Nets,17 - 21,0,N/A,1,N/A
+60,D'Angelo Russell,FG_MISS,None,4:30,1,Nets,Knicks,17 - 21,1,6,2,Jumper
+61,Ed Davis,OFFENSIVE_REBOUND,None,4:21,1,Nets,Knicks,17 - 21,1,N/A,N/A,N/A
+62,Ed Davis,FG_UNASSISTED,None,4:21,1,Nets,Knicks,17 - 23,1, ,2,Jumper
+63,Trey Burke,FG_UNASSISTED,None,4:15,1,Knicks,Nets,20 - 23,0,26,3,Jumper
+64,Caris LeVert,FG_MISS,None,3:55,1,Nets,Knicks,20 - 23,1,0,2,Layup
+65,Enes Kanter,DEFENSIVE_REBOUND,None,3:51,1,Knicks,Nets,20 - 23,0,N/A,N/A,N/A
+66,Tim Hardaway,FG_MISS,None,3:42,1,Knicks,Nets,20 - 23,0, ,3,Jumper
+67,Ed Davis,DEFENSIVE_REBOUND,None,3:40,1,Nets,Knicks,20 - 23,1,N/A,N/A,N/A
+68,D'Angelo Russell,TURNOVER,None,3:35,1,Nets,Knicks,20 - 23,1,N/A,N/A,N/A
+69,Joe Harris,SUBSTITUTION,Russell D'Angelo,3:35,1,Nets,Knicks,20 - 23,1,N/A,N/A,N/A
+70,Allen Crabbe,SUBSTITUTION,LeVert Caris,3:35,1,Nets,Knicks,20 - 23,1,N/A,N/A,N/A
+71,Ron Baker,SUBSTITUTION,Burke Trey,3:35,1,Knicks,Nets,20 - 23,0,N/A,N/A,N/A
+72,Ron Baker,FG_MISS,None,3:19,1,Knicks,Nets,20 - 23,0,26,3,Jumper
+73,Lance Thomas,OFFENSIVE_REBOUND,None,3:16,1,Knicks,Nets,20 - 23,0,N/A,N/A,N/A
+74,Tim Hardaway,FG_MISS,None,3:06,1,Knicks,Nets,20 - 23,0,21,2,Jumper
+75,Ed Davis,DEFENSIVE_REBOUND,None,3:04,1,Nets,Knicks,20 - 23,1,N/A,N/A,N/A
+76,Allen Crabbe,FG_ASSISTED,Spencer Dinwiddie,2:48,1,Nets,Knicks,20 - 26,1,26,3,Jumper
+77,Allen Crabbe,FOUL_ON_FLOOR,None,2:35,1,Nets,Knicks,20 - 26,1,N/A,N/A,N/A
+78,Allonzo Trier,FT,None,2:35,1,Knicks,Nets,21 - 26,0,N/A,1,N/A
+79,Mario Hezonja,SUBSTITUTION,Hardaway Tim,2:35,1,Knicks,Nets,21 - 26,0,N/A,N/A,N/A
+80,Kevin Knox,SUBSTITUTION,Thomas Lance,2:35,1,Knicks,Nets,21 - 26,0,N/A,N/A,N/A
+81,Allonzo Trier,FT,None,2:35,1,Knicks,Nets,22 - 26,0,N/A,1,N/A
+82,Spencer Dinwiddie,FG_MISS,None,2:24,1,Nets,Knicks,22 - 26,1,18,2,Jumper
+83,Enes Kanter,DEFENSIVE_REBOUND,None,2:20,1,Knicks,Nets,22 - 26,0,N/A,N/A,N/A
+84,Mario Hezonja,FG_MISS,None,2:14,1,Knicks,Nets,22 - 26,0, ,2,Jumper
+85,Ed Davis,DEFENSIVE_REBOUND,None,2:12,1,Nets,Knicks,22 - 26,1,N/A,N/A,N/A
+86,Allen Crabbe,FG_ASSISTED,Ed Davis,2:01,1,Nets,Knicks,22 - 28,1,16,2,Jumper
+87,Enes Kanter,FG_MISS,None,1:42,1,Knicks,Nets,22 - 28,0,19,2,Jumper
+88,Spencer Dinwiddie,DEFENSIVE_REBOUND,None,1:38,1,Nets,Knicks,22 - 28,1,N/A,N/A,N/A
+89,Joe Harris,FG_ASSISTED,Spencer Dinwiddie,1:35,1,Nets,Knicks,22 - 31,1,26,3,Jumper
+90,Team,Unknown,None,1:28,1,Knicks,Nets,22 - 31,0,N/A,N/A,N/A
+91,Noah Vonleh,SUBSTITUTION,Kanter Enes,1:28,1,Knicks,Nets,22 - 31,0,N/A,N/A,N/A
+92,Kevin Knox,FG_UNASSISTED,None,1:25,1,Knicks,Nets,24 - 31,0,0,2,Layup
+93,Treveon Graham,FG_MISS,None,1:08,1,Nets,Knicks,24 - 31,1,9,2,Jumper
+94,Treveon Graham,OFFENSIVE_REBOUND,None,1:05,1,Nets,Knicks,24 - 31,1,N/A,N/A,N/A
+95,Spencer Dinwiddie,FG_UNASSISTED,None,59.6,1,Nets,Knicks,24 - 33,1,2,2,Jumper
+96,Allonzo Trier,FG_MISS,None,42.7,1,Knicks,Nets,24 - 33,0,25,3,Jumper
+97,Joe Harris,DEFENSIVE_REBOUND,None,41.0,1,Nets,Knicks,24 - 33,1,N/A,N/A,N/A
+98,Ron Baker,FOUL_ON_FLOOR,None,33.6,1,Knicks,Nets,24 - 33,0,N/A,N/A,N/A
+99,Ed Davis,FG_MISS,None,25.4,1,Nets,Knicks,24 - 33,1, ,2,Jumper
+100,Noah Vonleh,DEFENSIVE_REBOUND,None,21.5,1,Knicks,Nets,24 - 33,0,N/A,N/A,N/A
+101,Allonzo Trier,FG_MISS,None,5.5,1,Knicks,Nets,24 - 33,0,21,2,Jumper
+102,Ed Davis,DEFENSIVE_REBOUND,None,2.6,1,Nets,Knicks,24 - 33,1,N/A,N/A,N/A
+103,End of,Unknown,None,0.0,1,Nets,Knicks,24 - 33,1,N/A,N/A,N/A
+0,Allen Crabbe,FG_MISS,None,11:43,2,Nets,Knicks,24 - 33,1,25,3,Jumper
+1,Noah Vonleh,DEFENSIVE_REBOUND,None,11:40,2,Knicks,Nets,24 - 33,0,N/A,N/A,N/A
+2,Allen Crabbe,FOUL_ON_FLOOR,None,11:32,2,Nets,Knicks,24 - 33,1,N/A,N/A,N/A
+3,Kevin Knox,FG_MISS,None,11:25,2,Knicks,Nets,24 - 33,0, ,2,Jumper
+4,Treveon Graham,DEFENSIVE_REBOUND,None,11:20,2,Nets,Knicks,24 - 33,1,N/A,N/A,N/A
+5,Kevin Knox,FOUL_ON_FLOOR,None,11:07,2,Knicks,Nets,24 - 33,0,N/A,N/A,N/A
+6,Ed Davis,FT_MISS,None,11:07,2,Nets,Knicks,24 - 33,1,N/A,1,N/A
+7,Team,OFFENSIVE_REBOUND,None,11:07,2,Nets,Knicks,24 - 33,1,N/A,N/A,N/A
+8,Ed Davis,FT,None,11:07,2,Nets,Knicks,24 - 34,1,N/A,1,N/A
+9,Mario Hezonja,FG_UNASSISTED,None,10:48,2,Knicks,Nets,26 - 34,0,14,2,Jumper
+10,Joe Harris,TURNOVER,None,10:39,2,Nets,Knicks,26 - 34,1,N/A,N/A,N/A
+11,Joe Harris,TURNOVER,None,10:39,2,Nets,Knicks,26 - 34,1,N/A,N/A,N/A
+12,Joe Harris,FOUL_ON_FLOOR,None,10:32,2,Nets,Knicks,26 - 34,1,N/A,N/A,N/A
+13,Caris LeVert,SUBSTITUTION,Harris Joe,10:32,2,Nets,Knicks,26 - 34,1,N/A,N/A,N/A
+14,Mario Hezonja,FG_MISS,None,10:28,2,Knicks,Nets,26 - 34,0,25,3,Jumper
+15,Ed Davis,DEFENSIVE_REBOUND,None,10:24,2,Nets,Knicks,26 - 34,1,N/A,N/A,N/A
+16,Ron Baker,FOUL_ON_FLOOR,None,10:20,2,Knicks,Nets,26 - 34,0,N/A,N/A,N/A
+17,Allen Crabbe,FG_MISS,None,10:15,2,Nets,Knicks,26 - 34,1,26,3,Jumper
+18,Noah Vonleh,DEFENSIVE_REBOUND,None,10:12,2,Knicks,Nets,26 - 34,0,N/A,N/A,N/A
+19,Treveon Graham,FOUL_ON_FLOOR,None,10:09,2,Nets,Knicks,26 - 34,1,N/A,N/A,N/A
+20,Allonzo Trier,TURNOVER,None,10:02,2,Knicks,Nets,26 - 34,0,N/A,N/A,N/A
+21,Caris LeVert,FG_UNASSISTED,None,9:48,2,Nets,Knicks,26 - 36,1,0,2,Layup
+22,Noah Vonleh,FOUL_ON_FLOOR,None,9:48,2,Knicks,Nets,26 - 36,0,N/A,N/A,N/A
+23,Caris LeVert,FT,None,9:48,2,Nets,Knicks,26 - 37,1,N/A,1,N/A
+24,Kevin Knox,FG_ASSISTED,Mario Hezonja,9:38,2,Knicks,Nets,28 - 37,0,20,2,Jumper
+25,Mario Hezonja,FOUL_ON_FLOOR,None,9:28,2,Knicks,Nets,28 - 37,0,N/A,N/A,N/A
+26,Treveon Graham,TURNOVER,None,9:18,2,Nets,Knicks,28 - 37,1,N/A,N/A,N/A
+27,Kevin Knox's,FG_MISS,Allen Crabbe,9:05,2,Nets,Knicks,28 - 37,0, ,2,Jumper
+28,Caris LeVert,DEFENSIVE_REBOUND,None,9:00,2,Nets,Knicks,28 - 37,1,N/A,N/A,N/A
+29,Caris LeVert,FG_UNASSISTED,None,8:52,2,Nets,Knicks,28 - 39,1,0,2,Layup
+30,Allonzo Trier,FG_UNASSISTED,None,8:46,2,Knicks,Nets,30 - 39,0,13,2,Jumper
+31,Caris LeVert,FG_MISS,None,8:34,2,Nets,Knicks,30 - 39,1,5,2,Jumper
+32,Kevin Knox,DEFENSIVE_REBOUND,None,8:32,2,Knicks,Nets,30 - 39,0,N/A,N/A,N/A
+33,Kevin Knox,FG_MISS,None,8:26,2,Knicks,Nets,30 - 39,0,0,2,Layup
+34,Ed Davis,DEFENSIVE_REBOUND,None,8:24,2,Nets,Knicks,30 - 39,1,N/A,N/A,N/A
+35,Allen Crabbe,FG_MISS,None,8:19,2,Nets,Knicks,30 - 39,1,24,3,Jumper
+36,Allonzo Trier,DEFENSIVE_REBOUND,None,8:16,2,Knicks,Nets,30 - 39,0,N/A,N/A,N/A
+37,Kevin Knox,FG_UNASSISTED,None,7:58,2,Knicks,Nets,33 - 39,0,26,3,Jumper
+38,Team,Unknown,None,7:58,2,Nets,Knicks,33 - 39,1,N/A,N/A,N/A
+39,Tim Hardaway,SUBSTITUTION,Trier Allonzo,7:58,2,Knicks,Nets,33 - 39,0,N/A,N/A,N/A
+40,Trey Burke,SUBSTITUTION,Baker Ron,7:58,2,Knicks,Nets,33 - 39,0,N/A,N/A,N/A
+41,Enes Kanter,SUBSTITUTION,Vonleh Noah,7:58,2,Knicks,Nets,33 - 39,0,N/A,N/A,N/A
+42,Allen Crabbe,FG_MISS,None,7:43,2,Nets,Knicks,33 - 39,1,16,2,Jumper
+43,Mario Hezonja,DEFENSIVE_REBOUND,None,7:37,2,Knicks,Nets,33 - 39,0,N/A,N/A,N/A
+44,Spencer Dinwiddie,FOUL_ON_FLOOR,None,7:37,2,Nets,Knicks,33 - 39,1,N/A,N/A,N/A
+45,Jared Dudley,SUBSTITUTION,Dinwiddie Spencer,7:37,2,Nets,Knicks,33 - 39,1,N/A,N/A,N/A
+46,D'Angelo Russell,SUBSTITUTION,Davis Ed,7:37,2,Nets,Knicks,33 - 39,1,N/A,N/A,N/A
+47,Jarrett Allen,SUBSTITUTION,Graham Treveon,7:37,2,Nets,Knicks,33 - 39,1,N/A,N/A,N/A
+48,Kevin Knox,FG_MISS,None,7:29,2,Knicks,Nets,33 - 39,0,25,3,Jumper
+49,Jarrett Allen,DEFENSIVE_REBOUND,None,7:25,2,Nets,Knicks,33 - 39,1,N/A,N/A,N/A
+50,Kevin Knox,FOUL_ON_FLOOR,None,7:19,2,Knicks,Nets,33 - 39,0,N/A,N/A,N/A
+51,D'Angelo Russell,FT,None,7:19,2,Nets,Knicks,33 - 40,1,N/A,1,N/A
+52,D'Angelo Russell,FT,None,7:19,2,Nets,Knicks,33 - 41,1,N/A,1,N/A
+53,Trey Burke,FG_MISS,None,7:01,2,Knicks,Nets,33 - 41,0,26,2,Jumper
+54,Allen Crabbe,DEFENSIVE_REBOUND,None,6:58,2,Nets,Knicks,33 - 41,1,N/A,N/A,N/A
+55,D'Angelo Russell,FG_MISS,None,6:50,2,Nets,Knicks,33 - 41,1,23,3,Jumper
+56,Kevin Knox,DEFENSIVE_REBOUND,None,6:46,2,Knicks,Nets,33 - 41,0,N/A,N/A,N/A
+57,Caris LeVert,FOUL_ON_FLOOR,None,6:39,2,Nets,Knicks,33 - 41,1,N/A,N/A,N/A
+58,Caris LeVert,FOUL_TECHNICAL,None,6:39,2,Nets,Knicks,33 - 41,1,N/A,N/A,N/A
+59,Tim Hardaway,FT,None,6:39,2,Knicks,Nets,34 - 41,0,N/A,1,N/A
+60,Enes Kanter,FT,None,6:39,2,Knicks,Nets,35 - 41,0,N/A,1,N/A
+61,Spencer Dinwiddie,SUBSTITUTION,LeVert Caris,6:39,2,Nets,Knicks,35 - 41,1,N/A,N/A,N/A
+62,Rodions Kurucs,SUBSTITUTION,Crabbe Allen,6:39,2,Nets,Knicks,35 - 41,1,N/A,N/A,N/A
+63,Enes Kanter,FT,None,6:39,2,Knicks,Nets,36 - 41,0,N/A,1,N/A
+64,Tim Hardaway,FOUL_TECHNICAL,None,6:28,2,Knicks,Nets,36 - 41,0,N/A,N/A,N/A
+65,D'Angelo Russell,FT,None,6:28,2,Nets,Knicks,36 - 42,1,N/A,1,N/A
+66,Rodions Kurucs,FG_ASSISTED,Spencer Dinwiddie,6:14,2,Nets,Knicks,36 - 45,1,23,3,Jumper
+67,Tim Hardaway,FG_MISS,None,5:52,2,Knicks,Nets,36 - 45,0, ,2,Jumper
+68,D'Angelo Russell,DEFENSIVE_REBOUND,None,5:48,2,Nets,Knicks,36 - 45,1,N/A,N/A,N/A
+69,Spencer Dinwiddie,FG_MISS,None,5:42,2,Nets,Knicks,36 - 45,1,24,3,Jumper
+70,Rodions Kurucs,OFFENSIVE_REBOUND,None,5:38,2,Nets,Knicks,36 - 45,1,N/A,N/A,N/A
+71,Rodions Kurucs,FG_MISS,None,5:37,2,Nets,Knicks,36 - 45,1,6,2,Jumper
+72,D'Angelo Russell,OFFENSIVE_REBOUND,None,5:33,2,Nets,Knicks,36 - 45,1,N/A,N/A,N/A
+73,Jarrett Allen,FG_ASSISTED,D'Angelo Russell,5:28,2,Nets,Knicks,36 - 47,1,6,2,Jumper
+74,Team,Unknown,None,5:20,2,Knicks,Nets,36 - 47,0,N/A,N/A,N/A
+75,Frank Ntilikina,SUBSTITUTION,Hezonja Mario,5:20,2,Knicks,Nets,36 - 47,0,N/A,N/A,N/A
+76,Lance Thomas,SUBSTITUTION,Knox Kevin,5:20,2,Knicks,Nets,36 - 47,0,N/A,N/A,N/A
+77,Lance Thomas,FG_MISS,None,5:10,2,Knicks,Nets,36 - 47,0,0,2,Layup
+78,Jarrett Allen,DEFENSIVE_REBOUND,None,5:08,2,Nets,Knicks,36 - 47,1,N/A,N/A,N/A
+79,Rodions Kurucs,TURNOVER,None,4:53,2,Nets,Knicks,36 - 47,1,N/A,N/A,N/A
+80,Trey Burke,FG_UNASSISTED,None,4:38,2,Knicks,Nets,38 - 47,0,19,2,Jumper
+81,D'Angelo Russell,TURNOVER,Trey Burke,4:25,2,Nets,Knicks,38 - 47,1,N/A,N/A,N/A
+82,Trey Burke,FG_MISS,None,4:22,2,Knicks,Nets,38 - 47,0,15,2,Jumper
+83,Trey Burke,OFFENSIVE_REBOUND,None,4:17,2,Knicks,Nets,38 - 47,0,N/A,N/A,N/A
+84,Trey Burke,FG_MISS,None,4:15,2,Knicks,Nets,38 - 47,0, ,2,Jumper
+85,Rodions Kurucs,DEFENSIVE_REBOUND,None,4:12,2,Nets,Knicks,38 - 47,1,N/A,N/A,N/A
+86,Rodions Kurucs,FG_ASSISTED,Spencer Dinwiddie,3:59,2,Nets,Knicks,38 - 49,1,0,2,Layup
+87,Enes Kanter,FG_MISS,None,3:40,2,Knicks,Nets,38 - 49,0,5,2,Jumper
+88,Rodions Kurucs,DEFENSIVE_REBOUND,None,3:37,2,Nets,Knicks,38 - 49,1,N/A,N/A,N/A
+89,Jarrett Allen,FG_MISS,None,3:34,2,Nets,Knicks,38 - 49,1,24,3,Jumper
+90,Frank Ntilikina,DEFENSIVE_REBOUND,None,3:32,2,Knicks,Nets,38 - 49,0,N/A,N/A,N/A
+91,Tim Hardaway,FG_UNASSISTED,None,3:24,2,Knicks,Nets,40 - 49,0,10,2,Jumper
+92,Frank Ntilikina,FOUL_ON_FLOOR,None,3:10,2,Knicks,Nets,40 - 49,0,N/A,N/A,N/A
+93,Rodions Kurucs,FT,None,3:10,2,Nets,Knicks,40 - 50,1,N/A,1,N/A
+94,Kevin Knox,SUBSTITUTION,Thomas Lance,3:10,2,Knicks,Nets,40 - 50,0,N/A,N/A,N/A
+95,Rodions Kurucs,FT,None,3:10,2,Nets,Knicks,40 - 51,1,N/A,1,N/A
+96,Enes Kanter,FG_UNASSISTED,None,2:54,2,Knicks,Nets,42 - 51,0,7,2,Jumper
+97,Spencer Dinwiddie,FG_ASSISTED,D'Angelo Russell,2:41,2,Nets,Knicks,42 - 54,1,26,3,Jumper
+98,Rodions Kurucs,FOUL_TECHNICAL,None,2:24,2,Nets,Knicks,42 - 54,1,N/A,N/A,N/A
+99,Tim Hardaway,FT_MISS,None,2:24,2,Knicks,Nets,42 - 54,0,N/A,1,N/A
+100,Team,OFFENSIVE_REBOUND,None,2:24,2,Knicks,Nets,42 - 54,0,N/A,N/A,N/A
+101,Trey Burke,FG_ASSISTED,Enes Kanter,2:19,2,Knicks,Nets,45 - 54,0,26,3,Jumper
+102,Spencer Dinwiddie,FG_MISS,None,2:01,2,Nets,Knicks,45 - 54,1,26,3,Jumper
+103,Enes Kanter,DEFENSIVE_REBOUND,None,1:56,2,Knicks,Nets,45 - 54,0,N/A,N/A,N/A
+104,Enes Kanter,FG_ASSISTED,Frank Ntilikina,1:48,2,Knicks,Nets,47 - 54,0,0,2,Layup
+105,Spencer Dinwiddie,FG_ASSISTED,Jared Dudley,1:18,2,Nets,Knicks,47 - 57,1,25,3,Jumper
+106,Frank Ntilikina,FG_MISS,None,58.4,2,Knicks,Nets,47 - 57,0,25,3,Jumper
+107,Spencer Dinwiddie,DEFENSIVE_REBOUND,None,55.8,2,Nets,Knicks,47 - 57,1,N/A,N/A,N/A
+108,Spencer Dinwiddie,TURNOVER,None,50.3,2,Nets,Knicks,47 - 57,1,N/A,N/A,N/A
+109,Tim Hardaway,FG_UNASSISTED,None,42.2,2,Knicks,Nets,50 - 57,0,25,2,Jumper
+110,Spencer Dinwiddie,TURNOVER,None,32.8,2,Nets,Knicks,50 - 57,1,N/A,N/A,N/A
+111,Tim Hardaway,FG_MISS,None,28.1,2,Knicks,Nets,50 - 57,0,32,3,Jumper
+112,Trey Burke,OFFENSIVE_REBOUND,None,23.5,2,Knicks,Nets,50 - 57,0,N/A,N/A,N/A
+113,Trey Burke,FG_MISS,None,22.1,2,Knicks,Nets,50 - 57,0, ,2,Jumper
+114,Jarrett Allen,DEFENSIVE_REBOUND,None,18.1,2,Nets,Knicks,50 - 57,1,N/A,N/A,N/A
+115,Jared Dudley,FG_MISS,None,2.6,2,Nets,Knicks,50 - 57,1,25,3,Jumper
+116,Trey Burke,DEFENSIVE_REBOUND,None,2.6,2,Knicks,Nets,50 - 57,0,N/A,N/A,N/A
+117,End of,Unknown,None,0.0,2,Nets,Knicks,50 - 57,1,N/A,N/A,N/A
+0,Joe Harris,SUBSTITUTION,Kurucs Rodions,12:00,3,Nets,Knicks,50 - 57,1,N/A,N/A,N/A
+1,Caris LeVert,SUBSTITUTION,Dinwiddie Spencer,12:00,3,Nets,Knicks,50 - 57,1,N/A,N/A,N/A
+2,Lance Thomas,SUBSTITUTION,Knox Kevin,12:00,3,Knicks,Nets,50 - 57,0,N/A,N/A,N/A
+3,Lance Thomas,FOUL_ON_FLOOR,None,11:52,3,Knicks,Nets,50 - 57,0,N/A,N/A,N/A
+4,Caris LeVert,FG_ASSISTED,Jared Dudley,11:44,3,Nets,Knicks,50 - 59,1,0,2,Layup
+5,Enes Kanter,FG_MISS,None,11:28,3,Knicks,Nets,50 - 59,0,2,2,Jumper
+6,Caris LeVert,DEFENSIVE_REBOUND,None,11:25,3,Nets,Knicks,50 - 59,1,N/A,N/A,N/A
+7,Joe Harris,FG_UNASSISTED,None,11:13,3,Nets,Knicks,50 - 61,1,0,2,Layup
+8,Team,Unknown,None,11:12,3,Knicks,Nets,50 - 59,0,N/A,N/A,N/A
+9,Tim Hardaway,FG_MISS,Jarrett Allen,10:55,3,Nets,Knicks,50 - 61,0,0,2,Layup
+10,Jarrett Allen,DEFENSIVE_REBOUND,None,10:53,3,Nets,Knicks,50 - 61,1,N/A,N/A,N/A
+11,Trey Burke,FOUL_ON_FLOOR,None,10:50,3,Knicks,Nets,50 - 61,0,N/A,N/A,N/A
+12,Joe Harris,TURNOVER,Lance Thomas,10:35,3,Nets,Knicks,50 - 61,1,N/A,N/A,N/A
+13,Lance Thomas,FG_MISS,None,10:23,3,Knicks,Nets,50 - 61,0, ,2,Jumper
+14,Jared Dudley,DEFENSIVE_REBOUND,None,10:20,3,Nets,Knicks,50 - 61,1,N/A,N/A,N/A
+15,D'Angelo Russell,FG_MISS,None,10:15,3,Nets,Knicks,50 - 61,1,0,2,Layup
+16,Jarrett Allen,OFFENSIVE_REBOUND,None,10:14,3,Nets,Knicks,50 - 61,1,N/A,N/A,N/A
+17,Jarrett Allen,FG_MISS,None,10:13,3,Nets,Knicks,50 - 61,1,1,2,Jumper
+18,Jared Dudley,OFFENSIVE_REBOUND,None,10:13,3,Nets,Knicks,50 - 61,1,N/A,N/A,N/A
+19,Jared Dudley,FG_MISS,None,10:10,3,Nets,Knicks,50 - 61,1, ,2,Jumper
+20,Jarrett Allen,OFFENSIVE_REBOUND,None,10:10,3,Nets,Knicks,50 - 61,1,N/A,N/A,N/A
+21,D'Angelo Russell,FG_MISS,None,10:07,3,Nets,Knicks,50 - 61,1,26,2,Jumper
+22,Tim Hardaway,DEFENSIVE_REBOUND,None,10:05,3,Knicks,Nets,50 - 61,0,N/A,N/A,N/A
+23,Tim Hardaway,FG_UNASSISTED,None,10:02,3,Knicks,Nets,52 - 61,0, ,2,Jumper
+24,Tim Hardaway,FOUL_ON_FLOOR,None,9:48,3,Knicks,Nets,52 - 61,0,N/A,N/A,N/A
+25,Jarrett Allen,FT_MISS,None,9:48,3,Nets,Knicks,52 - 61,1,N/A,1,N/A
+26,Team,OFFENSIVE_REBOUND,None,9:48,3,Nets,Knicks,52 - 61,1,N/A,N/A,N/A
+27,Jarrett Allen,FT,None,9:48,3,Nets,Knicks,52 - 62,1,N/A,1,N/A
+28,Frank Ntilikina,FG_UNASSISTED,None,9:39,3,Knicks,Nets,55 - 62,0,26,3,Jumper
+29,D'Angelo Russell,FG_ASSISTED,Caris LeVert,9:18,3,Nets,Knicks,55 - 65,1,26,3,Jumper
+30,Enes Kanter,FG_UNASSISTED,None,8:55,3,Knicks,Nets,57 - 65,0,3,2,Jumper
+31,Caris LeVert,TURNOVER,None,8:47,3,Nets,Knicks,57 - 65,1,N/A,N/A,N/A
+32,Frank Ntilikina,FG_UNASSISTED,None,8:37,3,Knicks,Nets,59 - 65,0,16,2,Jumper
+33,Caris LeVert,FG_MISS,None,8:18,3,Nets,Knicks,59 - 65,1,27,3,Jumper
+34,Enes Kanter,DEFENSIVE_REBOUND,None,8:15,3,Knicks,Nets,59 - 65,0,N/A,N/A,N/A
+35,Trey Burke,FG_MISS,None,8:06,3,Knicks,Nets,59 - 65,0,11,2,Jumper
+36,Jarrett Allen,DEFENSIVE_REBOUND,None,8:03,3,Nets,Knicks,59 - 65,1,N/A,N/A,N/A
+37,Caris LeVert,FG_MISS,None,7:45,3,Nets,Knicks,59 - 65,1,25,3,Jumper
+38,Lance Thomas,DEFENSIVE_REBOUND,None,7:42,3,Knicks,Nets,59 - 65,0,N/A,N/A,N/A
+39,Frank Ntilikina,FG_UNASSISTED,None,7:34,3,Knicks,Nets,61 - 65,0,11,2,Jumper
+40,Team,Unknown,None,7:33,3,Nets,Knicks,61 - 65,1,N/A,N/A,N/A
+41,Joe Harris,FG_MISS,None,7:19,3,Nets,Knicks,61 - 65,1,25,3,Jumper
+42,Trey Burke,DEFENSIVE_REBOUND,None,7:14,3,Knicks,Nets,61 - 65,0,N/A,N/A,N/A
+43,Lance Thomas,FG_MISS,None,7:02,3,Knicks,Nets,61 - 65,0,25,3,Jumper
+44,Trey Burke,OFFENSIVE_REBOUND,None,6:59,3,Knicks,Nets,61 - 65,0,N/A,N/A,N/A
+45,Tim Hardaway,FG_MISS,None,6:57,3,Knicks,Nets,61 - 65,0,28,3,Jumper
+46,Caris LeVert,DEFENSIVE_REBOUND,None,6:54,3,Nets,Knicks,61 - 65,1,N/A,N/A,N/A
+47,Joe Harris,FG_MISS,None,6:37,3,Nets,Knicks,61 - 65,1, ,2,Jumper
+48,Tim Hardaway,DEFENSIVE_REBOUND,None,6:33,3,Knicks,Nets,61 - 65,0,N/A,N/A,N/A
+49,Trey Burke,FG_MISS,None,6:27,3,Knicks,Nets,61 - 65,0,23,3,Jumper
+50,Caris LeVert,DEFENSIVE_REBOUND,None,6:24,3,Nets,Knicks,61 - 65,1,N/A,N/A,N/A
+51,Caris LeVert,FG_MISS,None,6:17,3,Nets,Knicks,61 - 65,1,26,3,Jumper
+52,Enes Kanter,DEFENSIVE_REBOUND,None,6:14,3,Knicks,Nets,61 - 65,0,N/A,N/A,N/A
+53,Enes Kanter,FG_UNASSISTED,None,5:57,3,Knicks,Nets,63 - 65,0,0,2,Layup
+54,Spencer Dinwiddie,SUBSTITUTION,Dudley Jared,5:49,3,Nets,Knicks,63 - 65,1,N/A,N/A,N/A
+55,Rodions Kurucs,SUBSTITUTION,Harris Joe,5:49,3,Nets,Knicks,63 - 65,1,N/A,N/A,N/A
+56,Caris LeVert,TURNOVER,Frank Ntilikina,5:43,3,Nets,Knicks,63 - 65,1,N/A,N/A,N/A
+57,Tim Hardaway,FG_ASSISTED,Frank Ntilikina,5:38,3,Knicks,Nets,66 - 65,0,24,3,Jumper
+58,Rodions Kurucs,FG_ASSISTED,Spencer Dinwiddie,5:18,3,Nets,Knicks,66 - 67,1, ,2,Jumper
+59,Enes Kanter,FG_ASSISTED,Lance Thomas,5:04,3,Knicks,Nets,68 - 67,0,0,2,Layup
+60,Ed Davis,SUBSTITUTION,Allen Jarrett,4:49,3,Nets,Knicks,68 - 67,1,N/A,N/A,N/A
+61,Ron Baker,SUBSTITUTION,Burke Trey,4:49,3,Knicks,Nets,68 - 67,0,N/A,N/A,N/A
+62,Rodions Kurucs,FG_MISS,None,4:37,3,Nets,Knicks,68 - 67,1,25,3,Jumper
+63,Ed Davis,OFFENSIVE_REBOUND,None,4:32,3,Nets,Knicks,68 - 67,1,N/A,N/A,N/A
+64,Ed Davis,FG_UNASSISTED,None,4:32,3,Nets,Knicks,68 - 69,1, ,2,Jumper
+65,Frank Ntilikina,FG_MISS,None,4:15,3,Knicks,Nets,68 - 69,0,0,2,Layup
+66,Ed Davis,DEFENSIVE_REBOUND,None,4:09,3,Nets,Knicks,68 - 69,1,N/A,N/A,N/A
+67,Caris LeVert,TURNOVER,None,3:56,3,Nets,Knicks,68 - 69,1,N/A,N/A,N/A
+68,Allen Crabbe,SUBSTITUTION,Russell D'Angelo,3:56,3,Nets,Knicks,68 - 69,1,N/A,N/A,N/A
+69,Joe Harris,SUBSTITUTION,LeVert Caris,3:56,3,Nets,Knicks,68 - 69,1,N/A,N/A,N/A
+70,Ed Davis,FOUL_ON_FLOOR,None,3:43,3,Nets,Knicks,68 - 69,1,N/A,N/A,N/A
+71,Kevin Knox,SUBSTITUTION,Thomas Lance,3:43,3,Knicks,Nets,68 - 69,0,N/A,N/A,N/A
+72,Tim Hardaway,FG_MISS,None,3:35,3,Knicks,Nets,68 - 69,0, ,2,Jumper
+73,Allen Crabbe,DEFENSIVE_REBOUND,None,3:32,3,Nets,Knicks,68 - 69,1,N/A,N/A,N/A
+74,Spencer Dinwiddie,FG_MISS,None,3:26,3,Nets,Knicks,68 - 69,1,0,2,Layup
+75,Enes Kanter,DEFENSIVE_REBOUND,None,3:24,3,Knicks,Nets,68 - 69,0,N/A,N/A,N/A
+76,Tim Hardaway,FG_UNASSISTED,None,3:19,3,Knicks,Nets,70 - 69,0, ,2,Jumper
+77,Spencer Dinwiddie,TURNOVER,None,3:05,3,Nets,Knicks,70 - 69,1,N/A,N/A,N/A
+78,Spencer Dinwiddie,FOUL_ON_FLOOR,None,2:51,3,Nets,Knicks,70 - 69,1,N/A,N/A,N/A
+79,Ron Baker,FT_MISS,None,2:51,3,Knicks,Nets,70 - 69,0,N/A,1,N/A
+80,Team,OFFENSIVE_REBOUND,None,2:51,3,Knicks,Nets,70 - 69,0,N/A,N/A,N/A
+81,Ron Baker,FT,None,2:51,3,Knicks,Nets,71 - 69,0,N/A,1,N/A
+82,Joe Harris,FOUL_ON_FLOOR,None,2:41,3,Nets,Knicks,71 - 69,1,N/A,N/A,N/A
+83,Joe Harris,TURNOVER,None,2:41,3,Nets,Knicks,71 - 69,1,N/A,N/A,N/A
+84,Kevin Knox,FG_ASSISTED,Enes Kanter,2:23,3,Knicks,Nets,74 - 69,0,23,3,Jumper
+85,Joe Harris,FG_ASSISTED,Spencer Dinwiddie,1:59,3,Nets,Knicks,74 - 72,1,25,3,Jumper
+86,Frank Ntilikina,FG_MISS,None,1:44,3,Knicks,Nets,74 - 72,0, ,3,Jumper
+87,Joe Harris,DEFENSIVE_REBOUND,None,1:40,3,Nets,Knicks,74 - 72,1,N/A,N/A,N/A
+88,Spencer Dinwiddie,FG_UNASSISTED,None,1:34,3,Nets,Knicks,74 - 74,1,0,2,Layup
+89,Frank Ntilikina,Unknown,None,1:34,3,Knicks,Nets,74 - 74,0,N/A,N/A,N/A
+90,Allen Crabbe,FOUL_ON_FLOOR,None,1:24,3,Nets,Knicks,74 - 74,1,N/A,N/A,N/A
+91,Allonzo Trier,SUBSTITUTION,Hardaway Tim,1:24,3,Knicks,Nets,74 - 74,0,N/A,N/A,N/A
+92,Frank Ntilikina,FG_MISS,None,1:15,3,Knicks,Nets,74 - 74,0,16,2,Jumper
+93,Ed Davis,DEFENSIVE_REBOUND,None,1:12,3,Nets,Knicks,74 - 74,1,N/A,N/A,N/A
+94,Rodions Kurucs,FG_MISS,None,57.8,3,Nets,Knicks,74 - 74,1, ,2,Jumper
+95,Team,DEFENSIVE_REBOUND,None,56.1,3,Knicks,Nets,74 - 74,0,N/A,N/A,N/A
+96,Ron Baker,FG_MISS,None,42.3,3,Knicks,Nets,74 - 74,0, ,3,Jumper
+97,Rodions Kurucs,DEFENSIVE_REBOUND,None,38.9,3,Nets,Knicks,74 - 74,1,N/A,N/A,N/A
+98,Rodions Kurucs,TURNOVER,Allonzo Trier,34.5,3,Nets,Knicks,74 - 74,1,N/A,N/A,N/A
+99,Spencer Dinwiddie,FOUL_ON_FLOOR,None,33.9,3,Nets,Knicks,74 - 74,1,N/A,N/A,N/A
+100,Allonzo Trier,FT,None,33.9,3,Knicks,Nets,75 - 74,0,N/A,1,N/A
+101,Mario Hezonja,SUBSTITUTION,Kanter Enes,33.9,3,Knicks,Nets,75 - 74,0,N/A,N/A,N/A
+102,Noah Vonleh,SUBSTITUTION,Ntilikina Frank,33.9,3,Knicks,Nets,75 - 74,0,N/A,N/A,N/A
+103,Caris LeVert,SUBSTITUTION,Kurucs Rodions,33.9,3,Nets,Knicks,75 - 74,1,N/A,N/A,N/A
+104,Allonzo Trier,FT,None,33.9,3,Knicks,Nets,76 - 74,0,N/A,1,N/A
+105,Spencer Dinwiddie,FG_MISS,Noah Vonleh,13.0,3,Knicks,Nets,76 - 74,1,0,2,Layup
+106,Allonzo Trier,DEFENSIVE_REBOUND,None,9.9,3,Knicks,Nets,76 - 74,0,N/A,N/A,N/A
+107,Allonzo Trier,FG_MISS,None,0.2,3,Knicks,Nets,76 - 74,0,8,2,Jumper
+108,Team,OFFENSIVE_REBOUND,None,0.1,3,Knicks,Nets,76 - 74,0,N/A,N/A,N/A
+109,End of,Unknown,None,0.0,3,Nets,Knicks,76 - 74,1,N/A,N/A,N/A
+0,Rodions Kurucs,SUBSTITUTION,LeVert Caris,12:00,4,Nets,Knicks,76 - 74,1,N/A,N/A,N/A
+1,Ed Davis,FOUL_ON_FLOOR,None,11:48,4,Nets,Knicks,76 - 74,1,N/A,N/A,N/A
+2,Noah Vonleh,FT,None,11:48,4,Knicks,Nets,77 - 74,0,N/A,1,N/A
+3,Jarrett Allen,SUBSTITUTION,Davis Ed,11:48,4,Nets,Knicks,77 - 74,1,N/A,N/A,N/A
+4,Noah Vonleh,FT,None,11:48,4,Knicks,Nets,78 - 74,0,N/A,1,N/A
+5,Allen Crabbe,FG_MISS,None,11:39,4,Nets,Knicks,78 - 74,1,25,3,Jumper
+6,Noah Vonleh,DEFENSIVE_REBOUND,None,11:35,4,Knicks,Nets,78 - 74,0,N/A,N/A,N/A
+7,Joe Harris,FOUL_ON_FLOOR,None,11:28,4,Nets,Knicks,78 - 74,1,N/A,N/A,N/A
+8,Caris LeVert,SUBSTITUTION,Harris Joe,11:28,4,Nets,Knicks,78 - 74,1,N/A,N/A,N/A
+9,Allonzo Trier,FG_UNASSISTED,None,11:15,4,Knicks,Nets,80 - 74,0,20,2,Jumper
+10,Caris LeVert,FG_UNASSISTED,None,10:58,4,Nets,Knicks,80 - 77,1,25,3,Jumper
+11,Noah Vonleh,FG_MISS,None,10:38,4,Knicks,Nets,80 - 77,0,4,2,Jumper
+12,Jarrett Allen,DEFENSIVE_REBOUND,None,10:37,4,Nets,Knicks,80 - 77,1,N/A,N/A,N/A
+13,Ron Baker,FOUL_ON_FLOOR,None,10:31,4,Knicks,Nets,80 - 77,0,N/A,N/A,N/A
+14,Rodions Kurucs,FG_MISS,None,10:22,4,Nets,Knicks,80 - 77,1,27,3,Jumper
+15,Spencer Dinwiddie,OFFENSIVE_REBOUND,None,10:19,4,Nets,Knicks,80 - 77,1,N/A,N/A,N/A
+16,Spencer Dinwiddie,FG_MISS,None,10:09,4,Nets,Knicks,80 - 77,1,0,2,Layup
+17,Noah Vonleh,DEFENSIVE_REBOUND,None,10:05,4,Knicks,Nets,80 - 77,0,N/A,N/A,N/A
+18,Kevin Knox,FG_MISS,None,9:53,4,Knicks,Nets,80 - 77,0,22,2,Jumper
+19,Allen Crabbe,DEFENSIVE_REBOUND,None,9:49,4,Nets,Knicks,80 - 77,1,N/A,N/A,N/A
+20,Ron Baker,FOUL_ON_FLOOR,None,9:41,4,Knicks,Nets,80 - 77,0,N/A,N/A,N/A
+21,Rodions Kurucs,FT,None,9:41,4,Nets,Knicks,80 - 78,1,N/A,1,N/A
+22,D'Angelo Russell,SUBSTITUTION,Dinwiddie Spencer,9:41,4,Nets,Knicks,80 - 78,1,N/A,N/A,N/A
+23,Rodions Kurucs,FT,None,9:41,4,Nets,Knicks,80 - 79,1,N/A,1,N/A
+24,Allonzo Trier,FG_MISS,None,9:25,4,Knicks,Nets,80 - 79,0,16,2,Jumper
+25,Team,DEFENSIVE_REBOUND,None,9:24,4,Nets,Knicks,80 - 79,1,N/A,N/A,N/A
+26,Noah Vonleh,FOUL_ON_FLOOR,None,9:24,4,Knicks,Nets,80 - 79,0,N/A,N/A,N/A
+27,Noah Vonleh,FOUL_ON_FLOOR,None,9:10,4,Knicks,Nets,80 - 79,0,N/A,N/A,N/A
+28,Caris LeVert,FT_MISS,None,9:10,4,Nets,Knicks,80 - 79,1,N/A,1,N/A
+29,Team,OFFENSIVE_REBOUND,None,9:10,4,Nets,Knicks,80 - 79,1,N/A,N/A,N/A
+30,Caris LeVert,FT,None,9:10,4,Nets,Knicks,80 - 80,1,N/A,1,N/A
+31,Kevin Knox,FG_MISS,Jarrett Allen,9:01,4,Nets,Knicks,80 - 80,0,0,2,Layup
+32,D'Angelo Russell,DEFENSIVE_REBOUND,None,8:55,4,Nets,Knicks,80 - 80,1,N/A,N/A,N/A
+33,D'Angelo Russell,FG_UNASSISTED,None,8:48,4,Nets,Knicks,80 - 82,1, ,2,Jumper
+34,Noah Vonleh,FG_MISS,None,8:35,4,Knicks,Nets,80 - 82,0,22,2,Jumper
+35,Allen Crabbe,DEFENSIVE_REBOUND,None,8:33,4,Nets,Knicks,80 - 82,1,N/A,N/A,N/A
+36,D'Angelo Russell,FOUL_ON_FLOOR,None,8:29,4,Nets,Knicks,80 - 82,1,N/A,N/A,N/A
+37,D'Angelo Russell,TURNOVER,None,8:29,4,Nets,Knicks,80 - 82,1,N/A,N/A,N/A
+38,Tim Hardaway,SUBSTITUTION,Hezonja Mario,8:29,4,Knicks,Nets,80 - 82,0,N/A,N/A,N/A
+39,Allonzo Trier,FG_MISS,None,8:15,4,Knicks,Nets,80 - 82,0,14,2,Jumper
+40,Noah Vonleh,OFFENSIVE_REBOUND,None,8:12,4,Knicks,Nets,80 - 82,0,N/A,N/A,N/A
+41,Ron Baker,FG_MISS,None,8:11,4,Knicks,Nets,80 - 82,0,24,3,Jumper
+42,Allonzo Trier,OFFENSIVE_REBOUND,None,8:11,4,Knicks,Nets,80 - 82,0,N/A,N/A,N/A
+43,Allonzo Trier,FG_MISS,D'Angelo Russell,8:05,4,Nets,Knicks,80 - 82,0,0,2,Layup
+44,Kevin Knox,OFFENSIVE_REBOUND,None,8:05,4,Knicks,Nets,80 - 82,0,N/A,N/A,N/A
+45,Kevin Knox,FG_UNASSISTED,None,8:00,4,Knicks,Nets,82 - 82,0, ,2,Jumper
+46,D'Angelo Russell,FG_UNASSISTED,None,7:51,4,Nets,Knicks,82 - 84,1,14,2,Jumper
+47,Kevin Knox,FG_ASSISTED,Ron Baker,7:35,4,Knicks,Nets,84 - 84,0,18,2,Jumper
+48,D'Angelo Russell,FG_MISS,None,7:16,4,Nets,Knicks,84 - 84,1,15,2,Jumper
+49,Team,OFFENSIVE_REBOUND,None,7:15,4,Nets,Knicks,84 - 84,1,N/A,N/A,N/A
+50,Frank Ntilikina,SUBSTITUTION,Trier Allonzo,7:15,4,Knicks,Nets,84 - 84,0,N/A,N/A,N/A
+51,Allen Crabbe,FOUL_ON_FLOOR,None,7:12,4,Nets,Knicks,84 - 84,1,N/A,N/A,N/A
+52,Allen Crabbe,TURNOVER,None,7:12,4,Nets,Knicks,84 - 84,1,N/A,N/A,N/A
+53,Tim Hardaway,FG_UNASSISTED,None,7:01,4,Knicks,Nets,86 - 84,0,15,2,Jumper
+54,D'Angelo Russell,FG_MISS,None,6:42,4,Nets,Knicks,86 - 84,1, ,2,Jumper
+55,Rodions Kurucs,OFFENSIVE_REBOUND,None,6:36,4,Nets,Knicks,86 - 84,1,N/A,N/A,N/A
+56,Rodions Kurucs,FG_MISS,None,6:36,4,Nets,Knicks,86 - 84,1, ,2,Jumper
+57,Caris LeVert,OFFENSIVE_REBOUND,None,6:36,4,Nets,Knicks,86 - 84,1,N/A,N/A,N/A
+58,Ron Baker,FOUL_ON_FLOOR,None,6:36,4,Knicks,Nets,86 - 84,0,N/A,N/A,N/A
+59,Team,Unknown,None,6:36,4,Nets,Knicks,86 - 84,1,N/A,N/A,N/A
+60,Spencer Dinwiddie,SUBSTITUTION,Kurucs Rodions,6:36,4,Nets,Knicks,86 - 84,1,N/A,N/A,N/A
+61,Jared Dudley,SUBSTITUTION,Crabbe Allen,6:36,4,Nets,Knicks,86 - 84,1,N/A,N/A,N/A
+62,Enes Kanter,SUBSTITUTION,Baker Ron,6:36,4,Knicks,Nets,86 - 84,0,N/A,N/A,N/A
+63,Trey Burke,SUBSTITUTION,Vonleh Noah,6:36,4,Knicks,Nets,86 - 84,0,N/A,N/A,N/A
+64,Caris LeVert,FT,None,6:36,4,Nets,Knicks,86 - 85,1,N/A,1,N/A
+65,Caris LeVert,FT,None,6:36,4,Nets,Knicks,86 - 86,1,N/A,1,N/A
+66,Tim Hardaway,FG_MISS,None,6:20,4,Knicks,Nets,86 - 86,0, ,2,Jumper
+67,Jarrett Allen,DEFENSIVE_REBOUND,None,6:16,4,Nets,Knicks,86 - 86,1,N/A,N/A,N/A
+68,Spencer Dinwiddie,FG_MISS,None,5:55,4,Nets,Knicks,86 - 86,1,24,3,Jumper
+69,Enes Kanter,DEFENSIVE_REBOUND,None,5:52,4,Knicks,Nets,86 - 86,0,N/A,N/A,N/A
+70,Tim Hardaway,FG_MISS,None,5:47,4,Knicks,Nets,86 - 86,0,0,2,Layup
+71,Jared Dudley,DEFENSIVE_REBOUND,None,5:45,4,Nets,Knicks,86 - 86,1,N/A,N/A,N/A
+72,Enes Kanter,FOUL_FLAGRANT_1,None,5:44,4,Knicks,Nets,86 - 86,0,N/A,N/A,N/A
+73,Caris LeVert,FT,None,5:44,4,Nets,Knicks,86 - 87,1,N/A,1,N/A
+74,Caris LeVert,FT,None,5:44,4,Nets,Knicks,86 - 88,1,N/A,1,N/A
+75,Jarrett Allen,FG_ASSISTED,D'Angelo Russell,5:36,4,Nets,Knicks,86 - 90,1,0,2,Layup
+76,Frank Ntilikina,FG_UNASSISTED,None,5:18,4,Knicks,Nets,88 - 90,0,15,2,Jumper
+77,Jared Dudley,FG_ASSISTED,Caris LeVert,4:56,4,Nets,Knicks,88 - 93,1,25,3,Jumper
+78,Enes Kanter,FG_ASSISTED,Trey Burke,4:43,4,Knicks,Nets,90 - 93,0,0,2,Layup
+79,Spencer Dinwiddie,TURNOVER,Enes Kanter,4:27,4,Nets,Knicks,90 - 93,1,N/A,N/A,N/A
+80,Kevin Knox,FG_ASSISTED,Trey Burke,4:22,4,Knicks,Nets,93 - 93,0,22,3,Jumper
+81,Team,Unknown,None,4:21,4,Nets,Knicks,93 - 93,1,N/A,N/A,N/A
+82,Kevin Knox,FOUL_ON_FLOOR,None,4:03,4,Knicks,Nets,93 - 93,0,N/A,N/A,N/A
+83,Jarrett Allen,FT,None,4:03,4,Nets,Knicks,93 - 94,1,N/A,1,N/A
+84,Jarrett Allen,FT,None,4:03,4,Nets,Knicks,93 - 95,1,N/A,1,N/A
+85,Tim Hardaway,FG_ASSISTED,Frank Ntilikina,3:48,4,Knicks,Nets,96 - 95,0,26,3,Jumper
+86,D'Angelo Russell,FG_UNASSISTED,None,3:36,4,Nets,Knicks,96 - 97,1,0,2,Layup
+87,Jared Dudley,FOUL_ON_FLOOR,None,3:34,4,Nets,Knicks,96 - 97,1,N/A,N/A,N/A
+88,Tim Hardaway,FG_MISS,None,3:18,4,Knicks,Nets,96 - 97,0,16,2,Jumper
+89,Kevin Knox,OFFENSIVE_REBOUND,None,3:16,4,Knicks,Nets,96 - 97,0,N/A,N/A,N/A
+90,Kevin Knox,FG_MISS,None,3:16,4,Knicks,Nets,96 - 97,0, ,2,Jumper
+91,Enes Kanter,OFFENSIVE_REBOUND,None,3:14,4,Knicks,Nets,96 - 97,0,N/A,N/A,N/A
+92,Team,Unknown,None,3:08,4,Knicks,Nets,96 - 97,0,N/A,N/A,N/A
+93,Tim Hardaway,FG_MISS,None,3:03,4,Knicks,Nets,96 - 97,0,28,3,Jumper
+94,Kevin Knox,OFFENSIVE_REBOUND,None,2:58,4,Knicks,Nets,96 - 97,0,N/A,N/A,N/A
+95,Trey Burke,FG_MISS,None,2:49,4,Knicks,Nets,96 - 97,0,26,3,Jumper
+96,Enes Kanter,OFFENSIVE_REBOUND,None,2:46,4,Knicks,Nets,96 - 97,0,N/A,N/A,N/A
+97,Enes Kanter,FG_UNASSISTED,None,2:43,4,Knicks,Nets,98 - 97,0, ,2,Jumper
+98,D'Angelo Russell,FG_UNASSISTED,None,2:24,4,Nets,Knicks,98 - 100,1,27,3,Jumper
+99,Spencer Dinwiddie,FOUL_ON_FLOOR,None,2:12,4,Nets,Knicks,98 - 100,1,N/A,N/A,N/A
+100,Tim Hardaway,FT,None,2:12,4,Knicks,Nets,99 - 100,0,N/A,1,N/A
+101,Lance Thomas,SUBSTITUTION,Kanter Enes,2:12,4,Knicks,Nets,99 - 100,0,N/A,N/A,N/A
+102,Tim Hardaway,FT,None,2:12,4,Knicks,Nets,100 - 100,0,N/A,1,N/A
+103,Caris LeVert,FG_ASSISTED,Jared Dudley,1:55,4,Nets,Knicks,100 - 103,1,25,3,Jumper
+104,Tim Hardaway,FG_UNASSISTED,None,1:33,4,Knicks,Nets,102 - 103,0,21,2,Jumper
+105,Lance Thomas,FOUL_ON_FLOOR,None,1:13,4,Knicks,Nets,102 - 103,0,N/A,N/A,N/A
+106,Caris LeVert,FT,None,1:13,4,Nets,Knicks,102 - 104,1,N/A,1,N/A
+107,Enes Kanter,SUBSTITUTION,Thomas Lance,1:13,4,Knicks,Nets,102 - 104,0,N/A,N/A,N/A
+108,Caris LeVert,FT,None,1:13,4,Nets,Knicks,102 - 105,1,N/A,1,N/A
+109,Tim Hardaway,TURNOVER,Jared Dudley,55.4,4,Knicks,Nets,102 - 105,0,N/A,N/A,N/A
+110,Spencer Dinwiddie,FG_MISS,None,35.6,4,Nets,Knicks,102 - 105,1,23,3,Jumper
+111,Kevin Knox,DEFENSIVE_REBOUND,None,31.8,4,Knicks,Nets,102 - 105,0,N/A,N/A,N/A
+112,Enes Kanter,FG_ASSISTED,Trey Burke,15.9,4,Knicks,Nets,104 - 105,0,0,2,Layup
+113,D'Angelo Russell,FOUL_ON_FLOOR,None,15.9,4,Nets,Knicks,104 - 105,1,N/A,N/A,N/A
+114,Enes Kanter,FT,None,15.9,4,Knicks,Nets,105 - 105,0,N/A,1,N/A
+115,Team,Unknown,None,15.9,4,Nets,Knicks,105 - 105,1,N/A,N/A,N/A
+116,Joe Harris,SUBSTITUTION,Allen Jarrett,15.9,4,Nets,Knicks,105 - 105,1,N/A,N/A,N/A
+117,Ron Baker,SUBSTITUTION,Burke Trey,15.9,4,Knicks,Nets,105 - 105,0,N/A,N/A,N/A
+118,Lance Thomas,SUBSTITUTION,Kanter Enes,15.9,4,Knicks,Nets,105 - 105,0,N/A,N/A,N/A
+119,Caris LeVert,FG_UNASSISTED,None,1.0,4,Nets,Knicks,105 - 107,1,0,2,Layup
+120,Team,Unknown,None,1.0,4,Knicks,Nets,105 - 107,0,N/A,N/A,N/A
+121,Jarrett Allen,SUBSTITUTION,Russell D'Angelo,1.0,4,Nets,Knicks,105 - 107,1,N/A,N/A,N/A
+122,Trey Burke,SUBSTITUTION,Baker Ron,1.0,4,Knicks,Nets,105 - 107,0,N/A,N/A,N/A
+123,Enes Kanter,SUBSTITUTION,Thomas Lance,1.0,4,Knicks,Nets,105 - 107,0,N/A,N/A,N/A
+124,Team,Unknown,None,1.0,4,Knicks,Nets,105 - 107,0,N/A,N/A,N/A
+125,Tim Hardaway,FG_MISS,None,0.4,4,Knicks,Nets,105 - 107,0,31,3,Jumper
+126,Team,OFFENSIVE_REBOUND,None,0.1,4,Knicks,Nets,105 - 107,0,N/A,N/A,N/A
+127,End of,Unknown,None,0.0,4,Nets,Knicks,105 - 107,1,N/A,N/A,N/A
+128,End of,Unknown,None,0.0,4,Nets,Knicks,105 - 107,1,N/A,N/A,N/A

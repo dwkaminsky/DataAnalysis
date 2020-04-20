@@ -1,0 +1,503 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Larry Nance,JUMP_BALL,None,12:00,1,Cavaliers,Hawks,0 - 0,0,N/A,N/A,N/A
+1,Cedi Osman,FG_UNASSISTED,None,11:35,1,Cavaliers,Hawks,3 - 0,0,26,3,Jumper
+2,Kevin Huerter,FG_MISS,None,11:13,1,Hawks,Cavaliers,3 - 0,1,27,3,Jumper
+3,Alex Len,OFFENSIVE_REBOUND,None,11:08,1,Hawks,Cavaliers,3 - 0,1,N/A,N/A,N/A
+4,Alex Len,FG_MISS,None,11:08,1,Hawks,Cavaliers,3 - 0,1,-,2,Jumper
+5,Alex Len,OFFENSIVE_REBOUND,None,11:08,1,Hawks,Cavaliers,3 - 0,1,N/A,N/A,N/A
+6,Alex Len,FG_MISS,None,11:06,1,Hawks,Cavaliers,3 - 0,1,-,2,Jumper
+7,Larry Nance,DEFENSIVE_REBOUND,None,11:05,1,Cavaliers,Hawks,3 - 0,0,N/A,N/A,N/A
+8,Cedi Osman,FG_UNASSISTED,None,11:00,1,Cavaliers,Hawks,5 - 0,0,18,2,Jumper
+9,Alex Len,FG_ASSISTED,John Collins,10:46,1,Hawks,Cavaliers,5 - 2,1,0,2,Dunk
+10,Collin Sexton,FG_MISS,None,10:33,1,Cavaliers,Hawks,5 - 2,0,-,2,Jumper
+11,Alex Len,DEFENSIVE_REBOUND,None,10:31,1,Hawks,Cavaliers,5 - 2,1,N/A,N/A,N/A
+12,Trae Young,TURNOVER,None,10:26,1,Hawks,Cavaliers,5 - 2,1,N/A,N/A,N/A
+13,Larry Nance,FG_ASSISTED,Alec Burks,10:06,1,Cavaliers,Hawks,7 - 2,0,0,2,Layup
+14,Alec Burks,FOUL_ON_FLOOR,None,9:53,1,Cavaliers,Hawks,7 - 2,0,N/A,N/A,N/A
+15,Trae Young,FG_MISS,None,9:48,1,Hawks,Cavaliers,7 - 2,1,19,2,Jumper
+16,Larry Nance,DEFENSIVE_REBOUND,None,9:44,1,Cavaliers,Hawks,7 - 2,0,N/A,N/A,N/A
+17,John Collins,FOUL_ON_FLOOR,None,9:24,1,Hawks,Cavaliers,7 - 2,1,N/A,N/A,N/A
+18,Collin Sexton,FT,None,9:24,1,Cavaliers,Hawks,8 - 2,0,N/A,1,N/A
+19,Collin Sexton,FT,None,9:24,1,Cavaliers,Hawks,9 - 2,0,N/A,1,N/A
+20,Trae Young,FG_MISS,Larry Nance,9:12,1,Cavaliers,Hawks,9 - 2,1,10,2,Jumper
+21,John Collins,OFFENSIVE_REBOUND,None,9:08,1,Hawks,Cavaliers,9 - 2,1,N/A,N/A,N/A
+22,Alex Len,FG_MISS,None,9:05,1,Hawks,Cavaliers,9 - 2,1,23,3,Jumper
+23,John Collins,OFFENSIVE_REBOUND,None,9:02,1,Hawks,Cavaliers,9 - 2,1,N/A,N/A,N/A
+24,John Collins,FG_UNASSISTED,None,9:01,1,Hawks,Cavaliers,9 - 4,1,10,2,Jumper
+25,Collin Sexton,FG_MISS,None,8:46,1,Cavaliers,Hawks,9 - 4,0,20,2,Jumper
+26,John Collins,DEFENSIVE_REBOUND,None,8:42,1,Hawks,Cavaliers,9 - 4,1,N/A,N/A,N/A
+27,Kent Bazemore,FG_MISS,None,8:35,1,Hawks,Cavaliers,9 - 4,1,0,2,Layup
+28,Team,DEFENSIVE_REBOUND,None,8:34,1,Cavaliers,Hawks,9 - 4,0,N/A,N/A,N/A
+29,Jeremy Lin,SUBSTITUTION,Young Trae,8:34,1,Hawks,Cavaliers,9 - 4,1,N/A,N/A,N/A
+30,Alec Burks,FG_MISS,None,8:16,1,Cavaliers,Hawks,9 - 4,0,20,2,Jumper
+31,Kent Bazemore,DEFENSIVE_REBOUND,None,8:11,1,Hawks,Cavaliers,9 - 4,1,N/A,N/A,N/A
+32,Jeremy Lin,FG_ASSISTED,John Collins,8:08,1,Hawks,Cavaliers,9 - 6,1,-,2,Jumper
+33,Cedi Osman,FG_MISS,None,7:47,1,Cavaliers,Hawks,9 - 6,0,26,3,Jumper
+34,Jeremy Lin,DEFENSIVE_REBOUND,None,7:43,1,Hawks,Cavaliers,9 - 6,1,N/A,N/A,N/A
+35,Kent Bazemore,FG_MISS,None,7:37,1,Hawks,Cavaliers,9 - 6,1,-,3,Jumper
+36,John Collins,OFFENSIVE_REBOUND,None,7:33,1,Hawks,Cavaliers,9 - 6,1,N/A,N/A,N/A
+37,John Collins,FG_MISS,None,7:32,1,Hawks,Cavaliers,9 - 6,1,-,2,Jumper
+38,Larry Nance,DEFENSIVE_REBOUND,None,7:30,1,Cavaliers,Hawks,9 - 6,0,N/A,N/A,N/A
+39,Jaron Blossomgame,FG_MISS,None,7:19,1,Cavaliers,Hawks,9 - 6,0,26,3,Jumper
+40,Team,DEFENSIVE_REBOUND,None,7:18,1,Hawks,Cavaliers,9 - 6,1,N/A,N/A,N/A
+41,John Collins,FG_MISS,None,6:59,1,Hawks,Cavaliers,9 - 6,1,0,2,Layup
+42,Team,DEFENSIVE_REBOUND,None,6:59,1,Cavaliers,Hawks,9 - 6,0,N/A,N/A,N/A
+43,Alex Len,FOUL_ON_FLOOR,None,6:59,1,Hawks,Cavaliers,9 - 6,1,N/A,N/A,N/A
+44,Team,Unknown,None,6:59,1,Hawks,Cavaliers,9 - 6,1,N/A,N/A,N/A
+45,Vince Carter,SUBSTITUTION,Collins John,6:59,1,Hawks,Cavaliers,9 - 6,1,N/A,N/A,N/A
+46,Miles Plumlee,SUBSTITUTION,Bazemore Kent,6:59,1,Hawks,Cavaliers,9 - 6,1,N/A,N/A,N/A
+47,DeAndre' Bembry,SUBSTITUTION,Len Alex,6:59,1,Hawks,Cavaliers,9 - 6,1,N/A,N/A,N/A
+48,Larry Nance,FG_ASSISTED,Alec Burks,6:39,1,Cavaliers,Hawks,11 - 6,0,0,2,Layup
+49,Kevin Huerter,FG_ASSISTED,Miles Plumlee,6:22,1,Hawks,Cavaliers,11 - 8,1,0,2,Layup
+50,Jaron Blossomgame,FG_MISS,None,6:03,1,Cavaliers,Hawks,11 - 8,0,9,2,Jumper
+51,Larry Nance,OFFENSIVE_REBOUND,None,5:57,1,Cavaliers,Hawks,11 - 8,0,N/A,N/A,N/A
+52,Collin Sexton,FG_MISS,None,5:48,1,Cavaliers,Hawks,11 - 8,0,26,3,Jumper
+53,Cedi Osman,OFFENSIVE_REBOUND,None,5:45,1,Cavaliers,Hawks,11 - 8,0,N/A,N/A,N/A
+54,Vince Carter,FOUL_ON_FLOOR,None,5:38,1,Hawks,Cavaliers,11 - 8,1,N/A,N/A,N/A
+55,Larry Nance,FT,None,5:38,1,Cavaliers,Hawks,12 - 8,0,N/A,1,N/A
+56,Jordan Clarkson,SUBSTITUTION,Blossomgame Jaron,5:38,1,Cavaliers,Hawks,12 - 8,0,N/A,N/A,N/A
+57,Larry Nance,FT,None,5:38,1,Cavaliers,Hawks,13 - 8,0,N/A,1,N/A
+58,Kevin Huerter,FG_MISS,None,5:23,1,Hawks,Cavaliers,13 - 8,1,9,2,Jumper
+59,Larry Nance,DEFENSIVE_REBOUND,None,5:19,1,Cavaliers,Hawks,13 - 8,0,N/A,N/A,N/A
+60,Miles Plumlee,Unknown,None,5:15,1,Hawks,Cavaliers,13 - 8,1,N/A,N/A,N/A
+61,Jordan Clarkson,FG_MISS,None,5:07,1,Cavaliers,Hawks,13 - 8,0,0,2,Layup
+62,Miles Plumlee,DEFENSIVE_REBOUND,None,5:04,1,Hawks,Cavaliers,13 - 8,1,N/A,N/A,N/A
+63,Miles Plumlee,TURNOVER,Alec Burks,5:03,1,Hawks,Cavaliers,13 - 8,1,N/A,N/A,N/A
+64,Jordan Clarkson,FG_MISS,None,4:58,1,Cavaliers,Hawks,13 - 8,0,27,3,Jumper
+65,Jeremy Lin,DEFENSIVE_REBOUND,None,4:56,1,Hawks,Cavaliers,13 - 8,1,N/A,N/A,N/A
+66,Vince Carter,FG_MISS,None,4:45,1,Hawks,Cavaliers,13 - 8,1,25,3,Jumper
+67,Larry Nance,DEFENSIVE_REBOUND,None,4:40,1,Cavaliers,Hawks,13 - 8,0,N/A,N/A,N/A
+68,Larry Nance,FG_ASSISTED,Collin Sexton,4:31,1,Cavaliers,Hawks,15 - 8,0,-,2,Jumper
+69,Jeremy Lin,TURNOVER,Larry Nance,4:15,1,Hawks,Cavaliers,15 - 8,1,N/A,N/A,N/A
+70,Vince Carter,FOUL_ON_FLOOR,None,4:14,1,Hawks,Cavaliers,15 - 8,1,N/A,N/A,N/A
+71,Justin Anderson,SUBSTITUTION,Huerter Kevin,4:14,1,Hawks,Cavaliers,15 - 8,1,N/A,N/A,N/A
+72,John Collins,SUBSTITUTION,Plumlee Miles,4:14,1,Hawks,Cavaliers,15 - 8,1,N/A,N/A,N/A
+73,Channing Frye,SUBSTITUTION,Sexton Collin,4:14,1,Cavaliers,Hawks,15 - 8,0,N/A,N/A,N/A
+74,Matthew Dellavedova,SUBSTITUTION,Nance Larry,4:14,1,Cavaliers,Hawks,15 - 8,0,N/A,N/A,N/A
+75,Channing Frye,FG_MISS,None,3:59,1,Cavaliers,Hawks,15 - 8,0,26,3,Jumper
+76,Justin Anderson,DEFENSIVE_REBOUND,None,3:56,1,Hawks,Cavaliers,15 - 8,1,N/A,N/A,N/A
+77,John Collins,TURNOVER,Jordan Clarkson,3:44,1,Hawks,Cavaliers,15 - 8,1,N/A,N/A,N/A
+78,Alec Burks,FG_UNASSISTED,None,3:40,1,Cavaliers,Hawks,17 - 8,0,0,2,Layup
+79,Team,Unknown,None,3:40,1,Hawks,Cavaliers,17 - 8,1,N/A,N/A,N/A
+80,Trae Young,SUBSTITUTION,Lin Jeremy,3:40,1,Hawks,Cavaliers,17 - 8,1,N/A,N/A,N/A
+81,Jalen Jones,SUBSTITUTION,Burks Alec,3:40,1,Cavaliers,Hawks,17 - 8,0,N/A,N/A,N/A
+82,Jordan Clarkson,FOUL_ON_FLOOR,None,3:26,1,Cavaliers,Hawks,17 - 8,0,N/A,N/A,N/A
+83,John Collins,FT,None,3:26,1,Hawks,Cavaliers,17 - 9,1,N/A,1,N/A
+84,John Collins,FT_MISS,None,3:26,1,Hawks,Cavaliers,17 - 9,1,N/A,1,N/A
+85,Jalen Jones,DEFENSIVE_REBOUND,None,3:24,1,Cavaliers,Hawks,17 - 9,0,N/A,N/A,N/A
+86,Jordan Clarkson,FG_MISS,None,3:06,1,Cavaliers,Hawks,17 - 9,0,7,2,Jumper
+87,John Collins,DEFENSIVE_REBOUND,None,3:02,1,Hawks,Cavaliers,17 - 9,1,N/A,N/A,N/A
+88,John Collins,FG_ASSISTED,DeAndre' Bembry,2:58,1,Hawks,Cavaliers,17 - 11,1,0,2,Layup
+89,Jalen Jones,FOUL_ON_FLOOR,None,2:58,1,Cavaliers,Hawks,17 - 11,0,N/A,N/A,N/A
+90,John Collins,FT,None,2:58,1,Hawks,Cavaliers,17 - 12,1,N/A,1,N/A
+91,Cedi Osman,FG_ASSISTED,Jordan Clarkson,2:37,1,Cavaliers,Hawks,19 - 12,0,0,2,Layup
+92,DeAndre' Bembry,FG_MISS,None,2:26,1,Hawks,Cavaliers,19 - 12,1,23,3,Jumper
+93,Channing Frye,DEFENSIVE_REBOUND,None,2:23,1,Cavaliers,Hawks,19 - 12,0,N/A,N/A,N/A
+94,Matthew Dellavedova,FG_UNASSISTED,None,2:17,1,Cavaliers,Hawks,22 - 12,0,25,3,Jumper
+95,Vince Carter,FG_ASSISTED,Trae Young,2:00,1,Hawks,Cavaliers,22 - 14,1,0,2,Layup
+96,Matthew Dellavedova,FG_MISS,None,1:45,1,Cavaliers,Hawks,22 - 14,0,26,3,Jumper
+97,Cedi Osman,OFFENSIVE_REBOUND,None,1:42,1,Cavaliers,Hawks,22 - 14,0,N/A,N/A,N/A
+98,Jordan Clarkson,FG_MISS,DeAndre' Bembry,1:33,1,Hawks,Cavaliers,22 - 14,0,3,2,Jumper
+99,Jordan Clarkson,OFFENSIVE_REBOUND,None,1:28,1,Cavaliers,Hawks,22 - 14,0,N/A,N/A,N/A
+100,Jordan Clarkson,FG_MISS,None,1:27,1,Cavaliers,Hawks,22 - 14,0,12,2,Jumper
+101,Jalen Jones,OFFENSIVE_REBOUND,None,1:24,1,Cavaliers,Hawks,22 - 14,0,N/A,N/A,N/A
+102,Jalen Jones,FG_UNASSISTED,None,1:23,1,Cavaliers,Hawks,24 - 14,0, ,2,Jumper
+103,Justin Anderson,TURNOVER,None,1:14,1,Hawks,Cavaliers,24 - 14,1,N/A,N/A,N/A
+104,Alex Len,SUBSTITUTION,Carter Vince,1:14,1,Hawks,Cavaliers,24 - 14,1,N/A,N/A,N/A
+105,Jaron Blossomgame,SUBSTITUTION,Osman Cedi,1:14,1,Cavaliers,Hawks,24 - 14,0,N/A,N/A,N/A
+106,Channing Frye,FG_MISS,DeAndre' Bembry,53.3,1,Hawks,Cavaliers,24 - 14,0,9,2,Jumper
+107,Trae Young,DEFENSIVE_REBOUND,None,48.6,1,Hawks,Cavaliers,24 - 14,1,N/A,N/A,N/A
+108,Trae Young,FG_UNASSISTED,None,48.6,1,Hawks,Cavaliers,24 - 16,1,20,2,Jumper
+109,Channing Frye,FG_MISS,None,39.1,1,Cavaliers,Hawks,24 - 16,0,26,3,Jumper
+110,Trae Young,DEFENSIVE_REBOUND,None,35.7,1,Hawks,Cavaliers,24 - 16,1,N/A,N/A,N/A
+111,Trae Young,FG_UNASSISTED,None,31.9,1,Hawks,Cavaliers,24 - 18,1, ,2,Jumper
+112,DeAndre' Bembry,FOUL_ON_FLOOR,None,17.5,1,Hawks,Cavaliers,24 - 18,1,N/A,N/A,N/A
+113,Jordan Clarkson,FT,None,17.5,1,Cavaliers,Hawks,25 - 18,0,N/A,1,N/A
+114,Jordan Clarkson,FT,None,17.5,1,Cavaliers,Hawks,26 - 18,0,N/A,1,N/A
+115,Justin Anderson,FG_MISS,None,4.2,1,Hawks,Cavaliers,26 - 18,1,23,3,Jumper
+116,John Collins,OFFENSIVE_REBOUND,None,1.8,1,Hawks,Cavaliers,26 - 18,1,N/A,N/A,N/A
+117,John Collins,FG_UNASSISTED,None,1.8,1,Hawks,Cavaliers,26 - 20,1,0,2,Dunk
+118,Jaron Blossomgame,TURNOVER,DeAndre' Bembry,0.0,1,Cavaliers,Hawks,26 - 20,0,N/A,N/A,N/A
+119,DeAndre' Bembry,FG_UNASSISTED,None,0.0,1,Hawks,Cavaliers,26 - 23,1,24,3,Jumper
+120,End of,Unknown,None,0.0,1,Hawks,Cavaliers,26 - 23,1,N/A,N/A,N/A
+0,Kent Bazemore,SUBSTITUTION,Anderson Justin,12:00,2,Hawks,Cavaliers,26 - 23,1,N/A,N/A,N/A
+1,Alec Burks,SUBSTITUTION,Jones Jalen,12:00,2,Cavaliers,Hawks,26 - 23,0,N/A,N/A,N/A
+2,Alex Len,FG_ASSISTED,Trae Young,11:49,2,Hawks,Cavaliers,26 - 25,1,0,2,Dunk
+3,Jordan Clarkson,FG_UNASSISTED,None,11:32,2,Cavaliers,Hawks,28 - 25,0,8,2,Jumper
+4,Trae Young,FG_ASSISTED,Alex Len,11:19,2,Hawks,Cavaliers,28 - 28,1,32,3,Jumper
+5,Channing Frye,FG_MISS,None,10:57,2,Cavaliers,Hawks,28 - 28,0, ,2,Jumper
+6,John Collins,DEFENSIVE_REBOUND,None,10:54,2,Hawks,Cavaliers,28 - 28,1,N/A,N/A,N/A
+7,Alex Len,FG_ASSISTED,Trae Young,10:49,2,Hawks,Cavaliers,28 - 30,1,0,2,Layup
+8,Team,Unknown,None,10:44,2,Cavaliers,Hawks,28 - 30,0,N/A,N/A,N/A
+9,Cedi Osman,SUBSTITUTION,Blossomgame Jaron,10:44,2,Cavaliers,Hawks,28 - 30,0,N/A,N/A,N/A
+10,Larry Nance,SUBSTITUTION,Frye Channing,10:44,2,Cavaliers,Hawks,28 - 30,0,N/A,N/A,N/A
+11,Cedi Osman,FG_ASSISTED,Larry Nance,10:22,2,Cavaliers,Hawks,30 - 30,0,17,2,Jumper
+12,Kent Bazemore,FG_MISS,None,10:02,2,Hawks,Cavaliers,30 - 30,1,23,3,Jumper
+13,DeAndre' Bembry,OFFENSIVE_REBOUND,None,10:00,2,Hawks,Cavaliers,30 - 30,1,N/A,N/A,N/A
+14,Kent Bazemore,FG_ASSISTED,DeAndre' Bembry,9:53,2,Hawks,Cavaliers,30 - 32,1,0,2,Layup
+15,John Collins,FOUL_ON_FLOOR,None,9:41,2,Hawks,Cavaliers,30 - 32,1,N/A,N/A,N/A
+16,Larry Nance,FT,None,9:41,2,Cavaliers,Hawks,31 - 32,0,N/A,1,N/A
+17,Alex Poythress,SUBSTITUTION,Collins John,9:41,2,Hawks,Cavaliers,31 - 32,1,N/A,N/A,N/A
+18,Larry Nance,FT,None,9:41,2,Cavaliers,Hawks,32 - 32,0,N/A,1,N/A
+19,DeAndre' Bembry,FG_MISS,None,9:28,2,Hawks,Cavaliers,32 - 32,1,0,2,Layup
+20,Alex Poythress,OFFENSIVE_REBOUND,None,9:21,2,Hawks,Cavaliers,32 - 32,1,N/A,N/A,N/A
+21,Alex Poythress,FG_UNASSISTED,None,9:21,2,Hawks,Cavaliers,32 - 34,1, ,2,Jumper
+22,Matthew Dellavedova,TURNOVER,None,9:13,2,Cavaliers,Hawks,32 - 34,0,N/A,N/A,N/A
+23,Matthew Dellavedova,FOUL_ON_FLOOR,None,9:08,2,Cavaliers,Hawks,32 - 34,0,N/A,N/A,N/A
+24,Kent Bazemore,FG_MISS,None,9:03,2,Hawks,Cavaliers,32 - 34,1,13,2,Jumper
+25,Larry Nance,DEFENSIVE_REBOUND,None,9:01,2,Cavaliers,Hawks,32 - 34,0,N/A,N/A,N/A
+26,Jordan Clarkson,FG_UNASSISTED,None,8:54,2,Cavaliers,Hawks,34 - 34,0,0,2,Layup
+27,Alex Poythress,FG_MISS,None,8:31,2,Hawks,Cavaliers,34 - 34,1,0,2,Layup
+28,Team,OFFENSIVE_REBOUND,None,8:30,2,Hawks,Cavaliers,34 - 34,1,N/A,N/A,N/A
+29,Collin Sexton,SUBSTITUTION,Dellavedova Matthew,8:30,2,Cavaliers,Hawks,34 - 34,0,N/A,N/A,N/A
+30,DeAndre' Bembry,FG_ASSISTED,Kent Bazemore,8:28,2,Hawks,Cavaliers,34 - 36,1,0,2,Layup
+31,Jordan Clarkson,TURNOVER,Kent Bazemore,8:10,2,Cavaliers,Hawks,34 - 36,0,N/A,N/A,N/A
+32,DeAndre' Bembry,FG_MISS,None,8:04,2,Hawks,Cavaliers,34 - 36,1,24,3,Jumper
+33,Alex Poythress,OFFENSIVE_REBOUND,None,7:59,2,Hawks,Cavaliers,34 - 36,1,N/A,N/A,N/A
+34,DeAndre' Bembry,FG_MISS,None,7:58,2,Hawks,Cavaliers,34 - 36,1,24,3,Jumper
+35,Collin Sexton,DEFENSIVE_REBOUND,None,7:55,2,Cavaliers,Hawks,34 - 36,0,N/A,N/A,N/A
+36,Alec Burks,FG_ASSISTED,Collin Sexton,7:50,2,Cavaliers,Hawks,37 - 36,0,26,3,Jumper
+37,Kent Bazemore,FG_UNASSISTED,None,7:33,2,Hawks,Cavaliers,37 - 38,1,0,2,Layup
+38,Larry Nance,FG_MISS,None,7:22,2,Cavaliers,Hawks,37 - 38,0,23,3,Jumper
+39,DeAndre' Bembry,DEFENSIVE_REBOUND,None,7:19,2,Hawks,Cavaliers,37 - 38,1,N/A,N/A,N/A
+40,Alex Len,FG_MISS,None,7:13,2,Hawks,Cavaliers,37 - 38,1,4,2,Jumper
+41,DeAndre' Bembry,OFFENSIVE_REBOUND,None,7:09,2,Hawks,Cavaliers,37 - 38,1,N/A,N/A,N/A
+42,DeAndre' Bembry,FG_UNASSISTED,None,7:09,2,Hawks,Cavaliers,37 - 40,1,0,2,Layup
+43,Collin Sexton,FG_ASSISTED,Cedi Osman,6:41,2,Cavaliers,Hawks,39 - 40,0,20,2,Jumper
+44,Alex Poythress,FG_ASSISTED,DeAndre' Bembry,6:15,2,Hawks,Cavaliers,39 - 43,1,23,3,Jumper
+45,Collin Sexton,FG_UNASSISTED,None,5:52,2,Cavaliers,Hawks,41 - 43,0,17,2,Jumper
+46,Alex Len,FG_ASSISTED,Kent Bazemore,5:32,2,Hawks,Cavaliers,41 - 45,1,0,2,Layup
+47,Jordan Clarkson,FG_MISS,Alex Len,5:17,2,Hawks,Cavaliers,41 - 45,0,13,2,Jumper
+48,Kent Bazemore,DEFENSIVE_REBOUND,None,5:12,2,Hawks,Cavaliers,41 - 45,1,N/A,N/A,N/A
+49,Alex Len,FG_ASSISTED,Trae Young,5:04,2,Hawks,Cavaliers,41 - 47,1,0,2,Dunk
+50,Team,Unknown,None,5:04,2,Cavaliers,Hawks,41 - 47,0,N/A,N/A,N/A
+51,Kevin Huerter,SUBSTITUTION,Young Trae,5:04,2,Hawks,Cavaliers,41 - 47,1,N/A,N/A,N/A
+52,Jeremy Lin,SUBSTITUTION,Len Alex,5:04,2,Hawks,Cavaliers,41 - 47,1,N/A,N/A,N/A
+53,Miles Plumlee,SUBSTITUTION,Bembry DeAndre',5:04,2,Hawks,Cavaliers,41 - 47,1,N/A,N/A,N/A
+54,Jaron Blossomgame,SUBSTITUTION,Clarkson Jordan,5:04,2,Cavaliers,Hawks,41 - 47,0,N/A,N/A,N/A
+55,Cedi Osman,TURNOVER,None,4:45,2,Cavaliers,Hawks,41 - 47,0,N/A,N/A,N/A
+56,Alec Burks,FOUL_ON_FLOOR,None,4:26,2,Cavaliers,Hawks,41 - 47,0,N/A,N/A,N/A
+57,Miles Plumlee,FT_MISS,None,4:26,2,Hawks,Cavaliers,41 - 47,1,N/A,1,N/A
+58,Team,OFFENSIVE_REBOUND,None,4:26,2,Hawks,Cavaliers,41 - 47,1,N/A,N/A,N/A
+59,Miles Plumlee,FT_MISS,None,4:26,2,Hawks,Cavaliers,41 - 47,1,N/A,1,N/A
+60,Cedi Osman,DEFENSIVE_REBOUND,None,4:23,2,Cavaliers,Hawks,41 - 47,0,N/A,N/A,N/A
+61,Collin Sexton,FG_MISS,None,4:06,2,Cavaliers,Hawks,41 - 47,0,16,2,Jumper
+62,Kent Bazemore,DEFENSIVE_REBOUND,None,4:04,2,Hawks,Cavaliers,41 - 47,1,N/A,N/A,N/A
+63,Kent Bazemore,FG_MISS,None,3:48,2,Hawks,Cavaliers,41 - 47,1,26,3,Jumper
+64,Larry Nance,DEFENSIVE_REBOUND,None,3:46,2,Cavaliers,Hawks,41 - 47,0,N/A,N/A,N/A
+65,Cedi Osman,FG_MISS,None,3:35,2,Cavaliers,Hawks,41 - 47,0,0,2,Layup
+66,Kevin Huerter,DEFENSIVE_REBOUND,None,3:31,2,Hawks,Cavaliers,41 - 47,1,N/A,N/A,N/A
+67,Cedi Osman,FOUL_ON_FLOOR,None,3:30,2,Cavaliers,Hawks,41 - 47,0,N/A,N/A,N/A
+68,Jeremy Lin,FG_ASSISTED,Kevin Huerter,3:18,2,Hawks,Cavaliers,41 - 50,1,25,3,Jumper
+69,Alec Burks,TURNOVER,None,3:01,2,Cavaliers,Hawks,41 - 50,0,N/A,N/A,N/A
+70,Kevin Huerter,FG_UNASSISTED,None,2:52,2,Hawks,Cavaliers,41 - 53,1,26,2,Jumper
+71,Collin Sexton,FG_MISS,Jeremy Lin,2:24,2,Hawks,Cavaliers,41 - 53,0,10,2,Jumper
+72,Kent Bazemore,DEFENSIVE_REBOUND,None,2:21,2,Hawks,Cavaliers,41 - 53,1,N/A,N/A,N/A
+73,Kent Bazemore,FG_MISS,None,2:19,2,Hawks,Cavaliers,41 - 53,1,0,2,Layup
+74,Larry Nance,DEFENSIVE_REBOUND,None,2:16,2,Cavaliers,Hawks,41 - 53,0,N/A,N/A,N/A
+75,Miles Plumlee,FOUL_ON_FLOOR,None,2:12,2,Hawks,Cavaliers,41 - 53,1,N/A,N/A,N/A
+76,Cedi Osman,FT,None,2:12,2,Cavaliers,Hawks,42 - 53,0,N/A,1,N/A
+77,Alex Len,SUBSTITUTION,Poythress Alex,2:12,2,Hawks,Cavaliers,42 - 53,1,N/A,N/A,N/A
+78,Vince Carter,SUBSTITUTION,Plumlee Miles,2:12,2,Hawks,Cavaliers,42 - 53,1,N/A,N/A,N/A
+79,Jalen Jones,SUBSTITUTION,Burks Alec,2:12,2,Cavaliers,Hawks,42 - 53,0,N/A,N/A,N/A
+80,Cedi Osman,FT,None,2:12,2,Cavaliers,Hawks,43 - 53,0,N/A,1,N/A
+81,Kevin Huerter,FG_MISS,None,2:03,2,Hawks,Cavaliers,43 - 53,1,26,3,Jumper
+82,Jalen Jones,DEFENSIVE_REBOUND,None,1:59,2,Cavaliers,Hawks,43 - 53,0,N/A,N/A,N/A
+83,Collin Sexton,FG_ASSISTED,Cedi Osman,1:48,2,Cavaliers,Hawks,45 - 53,0,17,2,Jumper
+84,Kevin Huerter,TURNOVER,None,1:33,2,Hawks,Cavaliers,45 - 53,1,N/A,N/A,N/A
+85,Kevin Huerter,FOUL_ON_FLOOR,None,1:28,2,Hawks,Cavaliers,45 - 53,1,N/A,N/A,N/A
+86,Cedi Osman,FG_MISS,None,1:19,2,Cavaliers,Hawks,45 - 53,0,26,3,Jumper
+87,Jalen Jones,OFFENSIVE_REBOUND,None,1:17,2,Cavaliers,Hawks,45 - 53,0,N/A,N/A,N/A
+88,Jalen Jones,FG_UNASSISTED,None,1:17,2,Cavaliers,Hawks,47 - 53,0, ,2,Jumper
+89,Alex Len,FOUL_ON_FLOOR,None,1:17,2,Hawks,Cavaliers,47 - 53,1,N/A,N/A,N/A
+90,Jalen Jones,FT,None,1:17,2,Cavaliers,Hawks,48 - 53,0,N/A,1,N/A
+91,Vince Carter,FG_UNASSISTED,None,1:10,2,Hawks,Cavaliers,48 - 55,1, ,2,Jumper
+92,Jalen Jones,FG_MISS,None,58.7,2,Cavaliers,Hawks,48 - 55,0, ,2,Jumper
+93,Vince Carter,DEFENSIVE_REBOUND,None,54.3,2,Hawks,Cavaliers,48 - 55,1,N/A,N/A,N/A
+94,Jalen Jones,FOUL_ON_FLOOR,None,50.1,2,Cavaliers,Hawks,48 - 55,0,N/A,N/A,N/A
+95,Alex Len,FT,None,50.1,2,Hawks,Cavaliers,48 - 56,1,N/A,1,N/A
+96,Alex Len,FT,None,50.1,2,Hawks,Cavaliers,48 - 57,1,N/A,1,N/A
+97,Kent Bazemore,FOUL_ON_FLOOR,None,39.3,2,Hawks,Cavaliers,48 - 57,1,N/A,N/A,N/A
+98,Collin Sexton,FT,None,39.3,2,Cavaliers,Hawks,49 - 57,0,N/A,1,N/A
+99,Collin Sexton,FT,None,39.3,2,Cavaliers,Hawks,50 - 57,0,N/A,1,N/A
+100,Collin Sexton,FOUL_ON_FLOOR,None,27.5,2,Cavaliers,Hawks,50 - 57,0,N/A,N/A,N/A
+101,Jeremy Lin,FT_MISS,None,27.5,2,Hawks,Cavaliers,50 - 57,1,N/A,1,N/A
+102,Team,OFFENSIVE_REBOUND,None,27.5,2,Hawks,Cavaliers,50 - 57,1,N/A,N/A,N/A
+103,DeAndre' Bembry,SUBSTITUTION,Carter Vince,27.5,2,Hawks,Cavaliers,50 - 57,1,N/A,N/A,N/A
+104,Jeremy Lin,FT_MISS,None,27.5,2,Hawks,Cavaliers,50 - 57,1,N/A,1,N/A
+105,Larry Nance,DEFENSIVE_REBOUND,None,25.7,2,Cavaliers,Hawks,50 - 57,0,N/A,N/A,N/A
+106,Kent Bazemore,FOUL_ON_FLOOR,None,6.0,2,Hawks,Cavaliers,50 - 57,1,N/A,N/A,N/A
+107,Collin Sexton,FT,None,6.0,2,Cavaliers,Hawks,51 - 57,0,N/A,1,N/A
+108,Collin Sexton,FT_MISS,None,6.0,2,Cavaliers,Hawks,51 - 57,0,N/A,1,N/A
+109,Jeremy Lin,DEFENSIVE_REBOUND,None,1.7,2,Hawks,Cavaliers,51 - 57,1,N/A,N/A,N/A
+110,Kent Bazemore,FG_MISS,None,0.0,2,Hawks,Cavaliers,51 - 57,1,18,2,Jumper
+111,Team,OFFENSIVE_REBOUND,None,0.0,2,Hawks,Cavaliers,51 - 57,1,N/A,N/A,N/A
+112,End of,Unknown,None,0.0,2,Hawks,Cavaliers,51 - 57,1,N/A,N/A,N/A
+0,John Collins,SUBSTITUTION,Lin Jeremy,12:00,3,Hawks,Cavaliers,51 - 57,1,N/A,N/A,N/A
+1,Trae Young,SUBSTITUTION,Bembry DeAndre',12:00,3,Hawks,Cavaliers,51 - 57,1,N/A,N/A,N/A
+2,Alec Burks,SUBSTITUTION,Jones Jalen,12:00,3,Cavaliers,Hawks,51 - 57,0,N/A,N/A,N/A
+3,Alex Len,TURNOVER,Alec Burks,11:39,3,Hawks,Cavaliers,51 - 57,1,N/A,N/A,N/A
+4,Collin Sexton,FG_ASSISTED,Alec Burks,11:33,3,Cavaliers,Hawks,53 - 57,0, ,2,Jumper
+5,Kevin Huerter,FOUL_ON_FLOOR,None,11:24,3,Hawks,Cavaliers,53 - 57,1,N/A,N/A,N/A
+6,Kevin Huerter,TURNOVER,None,11:24,3,Hawks,Cavaliers,53 - 57,1,N/A,N/A,N/A
+7,Jaron Blossomgame,TURNOVER,None,11:09,3,Cavaliers,Hawks,53 - 57,0,N/A,N/A,N/A
+8,Alex Len,FG_MISS,None,10:57,3,Hawks,Cavaliers,53 - 57,1,23,3,Jumper
+9,Kevin Huerter,OFFENSIVE_REBOUND,None,10:53,3,Hawks,Cavaliers,53 - 57,1,N/A,N/A,N/A
+10,Kevin Huerter,FG_MISS,None,10:51,3,Hawks,Cavaliers,53 - 57,1,9,2,Jumper
+11,Larry Nance,DEFENSIVE_REBOUND,None,10:50,3,Cavaliers,Hawks,53 - 57,0,N/A,N/A,N/A
+12,John Collins,FOUL_ON_FLOOR,None,10:50,3,Hawks,Cavaliers,53 - 57,1,N/A,N/A,N/A
+13,Alec Burks,FG_MISS,None,10:31,3,Cavaliers,Hawks,53 - 57,0,26,2,Jumper
+14,Larry Nance,OFFENSIVE_REBOUND,None,10:25,3,Cavaliers,Hawks,53 - 57,0,N/A,N/A,N/A
+15,Larry Nance,FG_UNASSISTED,None,10:25,3,Cavaliers,Hawks,55 - 57,0,0,2,Dunk
+16,Trae Young,TURNOVER,Larry Nance,10:19,3,Hawks,Cavaliers,55 - 57,1,N/A,N/A,N/A
+17,Alec Burks,FG_MISS,None,10:12,3,Cavaliers,Hawks,55 - 57,0,25,3,Jumper
+18,Kent Bazemore,DEFENSIVE_REBOUND,None,10:09,3,Hawks,Cavaliers,55 - 57,1,N/A,N/A,N/A
+19,John Collins,FG_ASSISTED,Kevin Huerter,10:06,3,Hawks,Cavaliers,55 - 59,1,0,2,Dunk
+20,Kent Bazemore,FOUL_ON_FLOOR,None,9:43,3,Hawks,Cavaliers,55 - 59,1,N/A,N/A,N/A
+21,Alec Burks,FG_MISS,None,9:36,3,Cavaliers,Hawks,55 - 59,0,27,3,Jumper
+22,Alex Len,DEFENSIVE_REBOUND,None,9:33,3,Hawks,Cavaliers,55 - 59,1,N/A,N/A,N/A
+23,Trae Young,FG_UNASSISTED,None,9:28,3,Hawks,Cavaliers,55 - 61,1,0,2,Layup
+24,Cedi Osman,FG_ASSISTED,Collin Sexton,9:12,3,Cavaliers,Hawks,57 - 61,0,0,2,Layup
+25,Alex Len,FOUL_ON_FLOOR,None,9:12,3,Hawks,Cavaliers,57 - 61,1,N/A,N/A,N/A
+26,Cedi Osman,FT,None,9:12,3,Cavaliers,Hawks,58 - 61,0,N/A,1,N/A
+27,Cedi Osman,FOUL_ON_FLOOR,None,9:01,3,Cavaliers,Hawks,58 - 61,0,N/A,N/A,N/A
+28,Kent Bazemore,FT_MISS,None,9:01,3,Hawks,Cavaliers,58 - 61,1,N/A,1,N/A
+29,Team,OFFENSIVE_REBOUND,None,9:01,3,Hawks,Cavaliers,58 - 61,1,N/A,N/A,N/A
+30,Kent Bazemore,FT,None,9:01,3,Hawks,Cavaliers,58 - 62,1,N/A,1,N/A
+31,Trae Young,FOUL_ON_FLOOR,None,9:00,3,Hawks,Cavaliers,58 - 62,1,N/A,N/A,N/A
+32,DeAndre' Bembry,SUBSTITUTION,Bazemore Kent,9:00,3,Hawks,Cavaliers,58 - 62,1,N/A,N/A,N/A
+33,Cedi Osman,FG_ASSISTED,Collin Sexton,8:49,3,Cavaliers,Hawks,60 - 62,0,0,2,Layup
+34,Alex Len,FG_MISS,None,8:37,3,Hawks,Cavaliers,60 - 62,1,23,3,Jumper
+35,Cedi Osman,DEFENSIVE_REBOUND,None,8:33,3,Cavaliers,Hawks,60 - 62,0,N/A,N/A,N/A
+36,Cedi Osman,FG_UNASSISTED,None,8:27,3,Cavaliers,Hawks,63 - 62,0,25,3,Jumper
+37,Team,Unknown,None,8:25,3,Hawks,Cavaliers,63 - 62,1,N/A,N/A,N/A
+38,Vince Carter,SUBSTITUTION,Len Alex,8:25,3,Hawks,Cavaliers,63 - 62,1,N/A,N/A,N/A
+39,Trae Young,TURNOVER,Larry Nance,8:18,3,Hawks,Cavaliers,63 - 62,1,N/A,N/A,N/A
+40,Jaron Blossomgame,FG_ASSISTED,Larry Nance,8:14,3,Cavaliers,Hawks,65 - 62,0,0,2,Dunk
+41,Vince Carter,FG_ASSISTED,Trae Young,8:03,3,Hawks,Cavaliers,65 - 65,1,26,3,Jumper
+42,Cedi Osman,FG_MISS,None,7:46,3,Cavaliers,Hawks,65 - 65,0,2,2,Jumper
+43,John Collins,DEFENSIVE_REBOUND,None,7:43,3,Hawks,Cavaliers,65 - 65,1,N/A,N/A,N/A
+44,DeAndre' Bembry,FG_MISS,None,7:39,3,Hawks,Cavaliers,65 - 65,1, ,2,Jumper
+45,Collin Sexton,DEFENSIVE_REBOUND,None,7:36,3,Cavaliers,Hawks,65 - 65,0,N/A,N/A,N/A
+46,Team,Unknown,None,7:30,3,Cavaliers,Hawks,65 - 65,0,N/A,N/A,N/A
+47,Collin Sexton,FG_MISS,None,7:20,3,Cavaliers,Hawks,65 - 65,0,17,2,Jumper
+48,DeAndre' Bembry,DEFENSIVE_REBOUND,None,7:17,3,Hawks,Cavaliers,65 - 65,1,N/A,N/A,N/A
+49,DeAndre' Bembry,FG_MISS,None,7:05,3,Hawks,Cavaliers,65 - 65,1,26,3,Jumper
+50,Kevin Huerter,OFFENSIVE_REBOUND,None,7:01,3,Hawks,Cavaliers,65 - 65,1,N/A,N/A,N/A
+51,Trae Young,FG_ASSISTED,Kevin Huerter,6:54,3,Hawks,Cavaliers,65 - 67,1, ,2,Jumper
+52,Collin Sexton,FG_ASSISTED,Larry Nance,6:41,3,Cavaliers,Hawks,67 - 67,0,10,2,Jumper
+53,Trae Young,FG_MISS,None,6:32,3,Hawks,Cavaliers,67 - 67,1,28,3,Jumper
+54,Jaron Blossomgame,DEFENSIVE_REBOUND,None,6:28,3,Cavaliers,Hawks,67 - 67,0,N/A,N/A,N/A
+55,Cedi Osman,TURNOVER,Vince Carter,6:12,3,Cavaliers,Hawks,67 - 67,0,N/A,N/A,N/A
+56,Collin Sexton,FOUL_ON_FLOOR,None,6:10,3,Cavaliers,Hawks,67 - 67,0,N/A,N/A,N/A
+57,Justin Anderson,SUBSTITUTION,Young Trae,6:10,3,Hawks,Cavaliers,67 - 67,1,N/A,N/A,N/A
+58,Jeremy Lin,SUBSTITUTION,Bembry DeAndre',6:10,3,Hawks,Cavaliers,67 - 67,1,N/A,N/A,N/A
+59,Collin Sexton,FOUL_ON_FLOOR,None,6:03,3,Cavaliers,Hawks,67 - 67,0,N/A,N/A,N/A
+60,Channing Frye,SUBSTITUTION,Nance Larry,6:03,3,Cavaliers,Hawks,67 - 67,0,N/A,N/A,N/A
+61,Vince Carter,FG_ASSISTED,Jeremy Lin,5:57,3,Hawks,Cavaliers,67 - 70,1,24,3,Jumper
+62,Collin Sexton,FG_MISS,None,5:35,3,Cavaliers,Hawks,67 - 70,0,19,2,Jumper
+63,Vince Carter,DEFENSIVE_REBOUND,None,5:31,3,Hawks,Cavaliers,67 - 70,1,N/A,N/A,N/A
+64,Cedi Osman,FOUL_ON_FLOOR,None,5:28,3,Cavaliers,Hawks,67 - 70,0,N/A,N/A,N/A
+65,John Collins,FG_MISS,None,5:20,3,Hawks,Cavaliers,67 - 70,1,16,2,Jumper
+66,Alec Burks,DEFENSIVE_REBOUND,None,5:17,3,Cavaliers,Hawks,67 - 70,0,N/A,N/A,N/A
+67,Alec Burks,FG_MISS,None,5:08,3,Cavaliers,Hawks,67 - 70,0,10,2,Jumper
+68,Jaron Blossomgame,OFFENSIVE_REBOUND,None,5:03,3,Cavaliers,Hawks,67 - 70,0,N/A,N/A,N/A
+69,Jaron Blossomgame,FG_MISS,None,5:03,3,Cavaliers,Hawks,67 - 70,0, ,2,Jumper
+70,Justin Anderson,DEFENSIVE_REBOUND,None,5:02,3,Hawks,Cavaliers,67 - 70,1,N/A,N/A,N/A
+71,Jeremy Lin,FG_MISS,None,4:58,3,Hawks,Cavaliers,67 - 70,1,27,3,Jumper
+72,Kevin Huerter,OFFENSIVE_REBOUND,None,4:54,3,Hawks,Cavaliers,67 - 70,1,N/A,N/A,N/A
+73,Kevin Huerter,FG_UNASSISTED,None,4:53,3,Hawks,Cavaliers,67 - 72,1, ,2,Jumper
+74,Collin Sexton,FG_MISS,None,4:26,3,Cavaliers,Hawks,67 - 72,0,21,2,Jumper
+75,Kevin Huerter,DEFENSIVE_REBOUND,None,4:22,3,Hawks,Cavaliers,67 - 72,1,N/A,N/A,N/A
+76,Kevin Huerter,FG_MISS,None,4:17,3,Hawks,Cavaliers,67 - 72,1,0,2,Layup
+77,Team,OFFENSIVE_REBOUND,None,4:16,3,Hawks,Cavaliers,67 - 72,1,N/A,N/A,N/A
+78,Matthew Dellavedova,SUBSTITUTION,Sexton Collin,4:16,3,Cavaliers,Hawks,67 - 72,0,N/A,N/A,N/A
+79,Jordan Clarkson,SUBSTITUTION,Burks Alec,4:16,3,Cavaliers,Hawks,67 - 72,0,N/A,N/A,N/A
+80,John Collins,FG_MISS,Channing Frye,4:11,3,Cavaliers,Hawks,67 - 72,1,0,2,Layup
+81,Justin Anderson,OFFENSIVE_REBOUND,None,4:08,3,Hawks,Cavaliers,67 - 72,1,N/A,N/A,N/A
+82,Vince Carter,FG_MISS,None,4:07,3,Hawks,Cavaliers,67 - 72,1,26,3,Jumper
+83,Cedi Osman,DEFENSIVE_REBOUND,None,4:04,3,Cavaliers,Hawks,67 - 72,0,N/A,N/A,N/A
+84,Jaron Blossomgame,FG_MISS,None,3:51,3,Cavaliers,Hawks,67 - 72,0,26,3,Jumper
+85,Jeremy Lin,DEFENSIVE_REBOUND,None,3:48,3,Hawks,Cavaliers,67 - 72,1,N/A,N/A,N/A
+86,John Collins,FG_MISS,None,3:39,3,Hawks,Cavaliers,67 - 72,1,26,3,Jumper
+87,Jeremy Lin,OFFENSIVE_REBOUND,None,3:36,3,Hawks,Cavaliers,67 - 72,1,N/A,N/A,N/A
+88,Channing Frye,FOUL_ON_FLOOR,None,3:30,3,Cavaliers,Hawks,67 - 72,0,N/A,N/A,N/A
+89,Jeremy Lin,FT,None,3:30,3,Hawks,Cavaliers,67 - 73,1,N/A,1,N/A
+90,Alex Poythress,SUBSTITUTION,Collins John,3:30,3,Hawks,Cavaliers,67 - 73,1,N/A,N/A,N/A
+91,Jalen Jones,SUBSTITUTION,Blossomgame Jaron,3:30,3,Cavaliers,Hawks,67 - 73,0,N/A,N/A,N/A
+92,Jeremy Lin,FT,None,3:30,3,Hawks,Cavaliers,67 - 74,1,N/A,1,N/A
+93,Jordan Clarkson,FG_ASSISTED,Matthew Dellavedova,3:21,3,Cavaliers,Hawks,69 - 74,0,0,2,Dunk
+94,Justin Anderson,FG_MISS,None,3:08,3,Hawks,Cavaliers,69 - 74,1,23,3,Jumper
+95,Matthew Dellavedova,DEFENSIVE_REBOUND,None,3:05,3,Cavaliers,Hawks,69 - 74,0,N/A,N/A,N/A
+96,Channing Frye,FG_MISS,None,2:59,3,Cavaliers,Hawks,69 - 74,0,27,3,Jumper
+97,Team,DEFENSIVE_REBOUND,None,2:56,3,Hawks,Cavaliers,69 - 74,1,N/A,N/A,N/A
+98,Alex Poythress,FG_ASSISTED,Jeremy Lin,2:46,3,Hawks,Cavaliers,69 - 76,1, ,2,Jumper
+99,Matthew Dellavedova,FG_MISS,None,2:32,3,Cavaliers,Hawks,69 - 76,0, ,2,Jumper
+100,Alex Poythress,DEFENSIVE_REBOUND,None,2:28,3,Hawks,Cavaliers,69 - 76,1,N/A,N/A,N/A
+101,Vince Carter,FG_MISS,None,2:14,3,Hawks,Cavaliers,69 - 76,1,5,2,Jumper
+102,Cedi Osman,DEFENSIVE_REBOUND,None,2:11,3,Cavaliers,Hawks,69 - 76,0,N/A,N/A,N/A
+103,Cedi Osman,TURNOVER,None,2:09,3,Cavaliers,Hawks,69 - 76,0,N/A,N/A,N/A
+104,Cedi Osman,TURNOVER,None,2:09,3,Cavaliers,Hawks,69 - 76,0,N/A,N/A,N/A
+105,Alec Burks,SUBSTITUTION,Osman Cedi,2:09,3,Cavaliers,Hawks,69 - 76,0,N/A,N/A,N/A
+106,Trae Young,SUBSTITUTION,Huerter Kevin,2:09,3,Hawks,Cavaliers,69 - 76,1,N/A,N/A,N/A
+107,Trae Young,FG_UNASSISTED,None,2:00,3,Hawks,Cavaliers,69 - 78,1,14,2,Jumper
+108,Matthew Dellavedova,FOUL_ON_FLOOR,None,2:00,3,Cavaliers,Hawks,69 - 78,0,N/A,N/A,N/A
+109,Trae Young,FT_MISS,None,2:00,3,Hawks,Cavaliers,69 - 78,1,N/A,1,N/A
+110,Alec Burks,DEFENSIVE_REBOUND,None,1:56,3,Cavaliers,Hawks,69 - 78,0,N/A,N/A,N/A
+111,Vince Carter,FOUL_ON_FLOOR,None,1:48,3,Hawks,Cavaliers,69 - 78,1,N/A,N/A,N/A
+112,Jalen Jones,FT,None,1:48,3,Cavaliers,Hawks,70 - 78,0,N/A,1,N/A
+113,Jalen Jones,FT_MISS,None,1:48,3,Cavaliers,Hawks,70 - 78,0,N/A,1,N/A
+114,Trae Young,DEFENSIVE_REBOUND,None,1:46,3,Hawks,Cavaliers,70 - 78,1,N/A,N/A,N/A
+115,Alec Burks,FOUL_ON_FLOOR,None,1:31,3,Cavaliers,Hawks,70 - 78,0,N/A,N/A,N/A
+116,Vince Carter,FT_MISS,None,1:31,3,Hawks,Cavaliers,70 - 78,1,N/A,1,N/A
+117,Team,OFFENSIVE_REBOUND,None,1:31,3,Hawks,Cavaliers,70 - 78,1,N/A,N/A,N/A
+118,Vince Carter,FT,None,1:31,3,Hawks,Cavaliers,70 - 79,1,N/A,1,N/A
+119,Channing Frye,FG_MISS,None,1:18,3,Cavaliers,Hawks,70 - 79,0,16,2,Jumper
+120,Alec Burks,OFFENSIVE_REBOUND,None,1:14,3,Cavaliers,Hawks,70 - 79,0,N/A,N/A,N/A
+121,Alec Burks,FG_UNASSISTED,None,1:14,3,Cavaliers,Hawks,72 - 79,0, ,2,Jumper
+122,Vince Carter,FG_UNASSISTED,None,1:05,3,Hawks,Cavaliers,72 - 82,1,26,3,Jumper
+123,Matthew Dellavedova,FG_MISS,None,45.1,3,Cavaliers,Hawks,72 - 82,0,25,3,Jumper
+124,Jeremy Lin,DEFENSIVE_REBOUND,None,42.6,3,Hawks,Cavaliers,72 - 82,1,N/A,N/A,N/A
+125,Trae Young,FG_ASSISTED,Jeremy Lin,39.7,3,Hawks,Cavaliers,72 - 84,1, ,2,Jumper
+126,Jordan Clarkson,Unknown,None,39.7,3,Cavaliers,Hawks,72 - 84,0,N/A,N/A,N/A
+127,Channing Frye,FG_ASSISTED,Matthew Dellavedova,34.4,3,Cavaliers,Hawks,74 - 84,0,0,2,Layup
+128,Alex Poythress,Unknown,None,34.4,3,Hawks,Cavaliers,74 - 84,1,N/A,N/A,N/A
+129,Trae Young,FG_MISS,None,23.0,3,Hawks,Cavaliers,74 - 84,1,30,3,Jumper
+130,Jalen Jones,DEFENSIVE_REBOUND,None,20.1,3,Cavaliers,Hawks,74 - 84,0,N/A,N/A,N/A
+131,Channing Frye,FG_MISS,None,2.9,3,Cavaliers,Hawks,74 - 84,0,25,3,Jumper
+132,Justin Anderson,DEFENSIVE_REBOUND,None,2.9,3,Hawks,Cavaliers,74 - 84,1,N/A,N/A,N/A
+133,End of,Unknown,None,0.0,3,Hawks,Cavaliers,74 - 84,1,N/A,N/A,N/A
+0,Alex Len,SUBSTITUTION,Lin Jeremy,12:00,4,Hawks,Cavaliers,74 - 84,1,N/A,N/A,N/A
+1,DeAndre' Bembry,SUBSTITUTION,Carter Vince,12:00,4,Hawks,Cavaliers,74 - 84,1,N/A,N/A,N/A
+2,Larry Nance,SUBSTITUTION,Frye Channing,12:00,4,Cavaliers,Hawks,74 - 84,0,N/A,N/A,N/A
+3,Alec Burks,FG_MISS,None,11:47,4,Cavaliers,Hawks,74 - 84,0,0,2,Layup
+4,Justin Anderson,DEFENSIVE_REBOUND,None,11:43,4,Hawks,Cavaliers,74 - 84,1,N/A,N/A,N/A
+5,Jalen Jones,FOUL_ON_FLOOR,None,11:34,4,Cavaliers,Hawks,74 - 84,0,N/A,N/A,N/A
+6,Trae Young,FG_MISS,None,11:21,4,Hawks,Cavaliers,74 - 84,1,30,2,Jumper
+7,Team,OFFENSIVE_REBOUND,None,11:21,4,Hawks,Cavaliers,74 - 84,1,N/A,N/A,N/A
+8,Alec Burks,FOUL_ON_FLOOR,None,11:21,4,Cavaliers,Hawks,74 - 84,0,N/A,N/A,N/A
+9,Alex Poythress,FG_MISS,None,11:14,4,Hawks,Cavaliers,74 - 84,1,23,3,Jumper
+10,Alec Burks,DEFENSIVE_REBOUND,None,11:10,4,Cavaliers,Hawks,74 - 84,0,N/A,N/A,N/A
+11,Larry Nance,FG_ASSISTED,Matthew Dellavedova,11:00,4,Cavaliers,Hawks,76 - 84,0,0,2,Layup
+12,Alex Poythress,FG_ASSISTED,Justin Anderson,10:43,4,Hawks,Cavaliers,76 - 86,1,0,2,Layup
+13,Jordan Clarkson,FG_ASSISTED,Larry Nance,10:23,4,Cavaliers,Hawks,78 - 86,0,5,2,Jumper
+14,Justin Anderson,FG_ASSISTED,Alex Poythress,10:07,4,Hawks,Cavaliers,78 - 88,1,0,2,Layup
+15,Matthew Dellavedova,FG_UNASSISTED,None,9:54,4,Cavaliers,Hawks,80 - 88,0,0,2,Layup
+16,DeAndre' Bembry,FG_ASSISTED,Trae Young,9:37,4,Hawks,Cavaliers,80 - 90,1,0,2,Layup
+17,Matthew Dellavedova,TURNOVER,Justin Anderson,9:23,4,Cavaliers,Hawks,80 - 90,0,N/A,N/A,N/A
+18,Matthew Dellavedova,FOUL_ON_FLOOR,None,9:19,4,Cavaliers,Hawks,80 - 90,0,N/A,N/A,N/A
+19,DeAndre' Bembry,FT,None,9:19,4,Hawks,Cavaliers,80 - 91,1,N/A,1,N/A
+20,DeAndre' Bembry,FT_MISS,None,9:19,4,Hawks,Cavaliers,80 - 91,1,N/A,1,N/A
+21,Larry Nance,DEFENSIVE_REBOUND,None,9:14,4,Cavaliers,Hawks,80 - 91,0,N/A,N/A,N/A
+22,Alec Burks,FG_ASSISTED,Larry Nance,9:11,4,Cavaliers,Hawks,82 - 91,0,0,2,Dunk
+23,Matthew Dellavedova,FOUL_ON_FLOOR,None,9:00,4,Cavaliers,Hawks,82 - 91,0,N/A,N/A,N/A
+24,Alex Poythress,FG_ASSISTED,Trae Young,8:53,4,Hawks,Cavaliers,82 - 93,1,0,2,Layup
+25,Matthew Dellavedova,TURNOVER,DeAndre' Bembry,8:43,4,Cavaliers,Hawks,82 - 93,0,N/A,N/A,N/A
+26,DeAndre' Bembry,TURNOVER,Larry Nance,8:34,4,Hawks,Cavaliers,82 - 93,1,N/A,N/A,N/A
+27,Jordan Clarkson,FG_ASSISTED,Jalen Jones,8:32,4,Cavaliers,Hawks,84 - 93,0,0,2,Dunk
+28,Team,Unknown,None,8:32,4,Hawks,Cavaliers,84 - 93,1,N/A,N/A,N/A
+29,Trae Young,FG_MISS,None,8:18,4,Hawks,Cavaliers,84 - 93,1, ,2,Jumper
+30,Alec Burks,DEFENSIVE_REBOUND,None,8:14,4,Cavaliers,Hawks,84 - 93,0,N/A,N/A,N/A
+31,Alec Burks,FG_ASSISTED,Larry Nance,7:56,4,Cavaliers,Hawks,86 - 93,0,17,2,Jumper
+32,Alex Len,FG_MISS,None,7:33,4,Hawks,Cavaliers,86 - 93,1,0,2,Layup
+33,Team,DEFENSIVE_REBOUND,None,7:33,4,Cavaliers,Hawks,86 - 93,0,N/A,N/A,N/A
+34,Alex Poythress,FOUL_ON_FLOOR,None,7:22,4,Hawks,Cavaliers,86 - 93,1,N/A,N/A,N/A
+35,Kevin Huerter,SUBSTITUTION,Anderson Justin,7:22,4,Hawks,Cavaliers,86 - 93,1,N/A,N/A,N/A
+36,John Collins,SUBSTITUTION,Len Alex,7:22,4,Hawks,Cavaliers,86 - 93,1,N/A,N/A,N/A
+37,DeAndre' Bembry,FOUL_ON_FLOOR,None,7:11,4,Hawks,Cavaliers,86 - 93,1,N/A,N/A,N/A
+38,Matthew Dellavedova,FT,None,7:11,4,Cavaliers,Hawks,87 - 93,0,N/A,1,N/A
+39,Vince Carter,SUBSTITUTION,Poythress Alex,7:11,4,Hawks,Cavaliers,87 - 93,1,N/A,N/A,N/A
+40,Matthew Dellavedova,FT,None,7:11,4,Cavaliers,Hawks,88 - 93,0,N/A,1,N/A
+41,DeAndre' Bembry,FG_MISS,None,6:50,4,Hawks,Cavaliers,88 - 93,1,24,3,Jumper
+42,Team,OFFENSIVE_REBOUND,None,6:48,4,Hawks,Cavaliers,88 - 93,1,N/A,N/A,N/A
+43,Vince Carter,FG_MISS,None,6:38,4,Hawks,Cavaliers,88 - 93,1,25,3,Jumper
+44,Larry Nance,DEFENSIVE_REBOUND,None,6:37,4,Cavaliers,Hawks,88 - 93,0,N/A,N/A,N/A
+45,John Collins,FOUL_ON_FLOOR,None,6:37,4,Hawks,Cavaliers,88 - 93,1,N/A,N/A,N/A
+46,Jordan Clarkson,FG_MISS,None,6:25,4,Cavaliers,Hawks,88 - 93,0,25,3,Jumper
+47,Jalen Jones,OFFENSIVE_REBOUND,None,6:21,4,Cavaliers,Hawks,88 - 93,0,N/A,N/A,N/A
+48,John Collins,FOUL_ON_FLOOR,None,6:20,4,Hawks,Cavaliers,88 - 93,1,N/A,N/A,N/A
+49,Jalen Jones,FT,None,6:20,4,Cavaliers,Hawks,89 - 93,0,N/A,1,N/A
+50,Jalen Jones,FT_MISS,None,6:20,4,Cavaliers,Hawks,89 - 93,0,N/A,1,N/A
+51,John Collins,DEFENSIVE_REBOUND,None,6:17,4,Hawks,Cavaliers,89 - 93,1,N/A,N/A,N/A
+52,Vince Carter,FG_ASSISTED,Kevin Huerter,6:02,4,Hawks,Cavaliers,89 - 95,1,0,2,Dunk
+53,Team,Unknown,None,6:00,4,Cavaliers,Hawks,89 - 95,0,N/A,N/A,N/A
+54,Jalen Jones,FG_MISS,None,5:47,4,Cavaliers,Hawks,89 - 95,0,11,2,Jumper
+55,John Collins,DEFENSIVE_REBOUND,None,5:45,4,Hawks,Cavaliers,89 - 95,1,N/A,N/A,N/A
+56,John Collins,FG_MISS,None,5:24,4,Hawks,Cavaliers,89 - 95,1,13,2,Jumper
+57,Jalen Jones,DEFENSIVE_REBOUND,None,5:20,4,Cavaliers,Hawks,89 - 95,0,N/A,N/A,N/A
+58,Jordan Clarkson,FG_ASSISTED,Larry Nance,5:04,4,Cavaliers,Hawks,92 - 95,0,25,3,Jumper
+59,Vince Carter,TURNOVER,Matthew Dellavedova,4:42,4,Hawks,Cavaliers,92 - 95,1,N/A,N/A,N/A
+60,Matthew Dellavedova,TURNOVER,Trae Young,4:37,4,Cavaliers,Hawks,92 - 95,0,N/A,N/A,N/A
+61,Vince Carter,FG_ASSISTED,Trae Young,4:34,4,Hawks,Cavaliers,92 - 98,1, ,3,Jumper
+62,Team,Unknown,None,4:21,4,Cavaliers,Hawks,92 - 98,0,N/A,N/A,N/A
+63,Collin Sexton,SUBSTITUTION,Dellavedova Matthew,4:21,4,Cavaliers,Hawks,92 - 98,0,N/A,N/A,N/A
+64,Cedi Osman,SUBSTITUTION,Jones Jalen,4:21,4,Cavaliers,Hawks,92 - 98,0,N/A,N/A,N/A
+65,Alec Burks,FG_MISS,None,4:16,4,Cavaliers,Hawks,92 - 98,0,0,2,Layup
+66,Jordan Clarkson,OFFENSIVE_REBOUND,None,4:14,4,Cavaliers,Hawks,92 - 98,0,N/A,N/A,N/A
+67,Alec Burks,FG_ASSISTED,Collin Sexton,3:57,4,Cavaliers,Hawks,94 - 98,0,0,2,Layup
+68,Kevin Huerter,FG_MISS,None,3:46,4,Hawks,Cavaliers,94 - 98,1, ,2,Jumper
+69,Team,OFFENSIVE_REBOUND,None,3:46,4,Hawks,Cavaliers,94 - 98,1,N/A,N/A,N/A
+70,Trae Young,FG_MISS,None,3:37,4,Hawks,Cavaliers,94 - 98,1,0,2,Layup
+71,Larry Nance,DEFENSIVE_REBOUND,None,3:34,4,Cavaliers,Hawks,94 - 98,0,N/A,N/A,N/A
+72,Collin Sexton,FG_ASSISTED,Alec Burks,3:28,4,Cavaliers,Hawks,96 - 98,0,14,2,Jumper
+73,Collin Sexton,FOUL_ON_FLOOR,None,3:15,4,Cavaliers,Hawks,96 - 98,0,N/A,N/A,N/A
+74,Trae Young,FT,None,3:15,4,Hawks,Cavaliers,96 - 99,1,N/A,1,N/A
+75,Trae Young,FT,None,3:15,4,Hawks,Cavaliers,96 - 100,1,N/A,1,N/A
+76,Team,Unknown,None,3:15,4,Hawks,Cavaliers,96 - 98,1,N/A,N/A,N/A
+77,Trae Young,FT,None,3:15,4,Hawks,Cavaliers,96 - 101,1,N/A,1,N/A
+78,Kevin Huerter,FOUL_ON_FLOOR,None,3:08,4,Hawks,Cavaliers,96 - 101,1,N/A,N/A,N/A
+79,Alec Burks,FT,None,3:08,4,Cavaliers,Hawks,97 - 101,0,N/A,1,N/A
+80,Alec Burks,FT,None,3:08,4,Cavaliers,Hawks,98 - 101,0,N/A,1,N/A
+81,Trae Young,FG_UNASSISTED,None,3:00,4,Hawks,Cavaliers,98 - 104,1,28,3,Jumper
+82,Larry Nance,FG_ASSISTED,Alec Burks,2:38,4,Cavaliers,Hawks,100 - 104,0,0,2,Layup
+83,DeAndre' Bembry,FG_MISS,None,2:20,4,Hawks,Cavaliers,100 - 104,1,1,2,Jumper
+84,Cedi Osman,DEFENSIVE_REBOUND,None,2:16,4,Cavaliers,Hawks,100 - 104,0,N/A,N/A,N/A
+85,Trae Young,FOUL_ON_FLOOR,None,2:05,4,Hawks,Cavaliers,100 - 104,1,N/A,N/A,N/A
+86,Cedi Osman,FT_MISS,None,2:05,4,Cavaliers,Hawks,100 - 104,0,N/A,1,N/A
+87,Team,OFFENSIVE_REBOUND,None,2:05,4,Cavaliers,Hawks,100 - 104,0,N/A,N/A,N/A
+88,Cedi Osman,FT,None,2:05,4,Cavaliers,Hawks,101 - 104,0,N/A,1,N/A
+89,John Collins,FG_ASSISTED,Trae Young,1:48,4,Hawks,Cavaliers,101 - 106,1,0,2,Dunk
+90,Larry Nance,FG_ASSISTED,Collin Sexton,1:35,4,Cavaliers,Hawks,103 - 106,0,0,2,Layup
+91,Kevin Huerter,FG_MISS,None,1:24,4,Hawks,Cavaliers,103 - 106,1,24,3,Jumper
+92,Jordan Clarkson,DEFENSIVE_REBOUND,None,1:20,4,Cavaliers,Hawks,103 - 106,0,N/A,N/A,N/A
+93,Cedi Osman,FG_ASSISTED,Jordan Clarkson,1:18,4,Cavaliers,Hawks,105 - 106,0,0,2,Dunk
+94,DeAndre' Bembry,FOUL_ON_FLOOR,None,1:18,4,Hawks,Cavaliers,105 - 106,1,N/A,N/A,N/A
+95,Cedi Osman,FT_MISS,None,1:18,4,Cavaliers,Hawks,105 - 106,0,N/A,1,N/A
+96,Vince Carter,DEFENSIVE_REBOUND,None,1:15,4,Hawks,Cavaliers,105 - 106,1,N/A,N/A,N/A
+97,Kevin Huerter,FG_MISS,None,1:01,4,Hawks,Cavaliers,105 - 106,1,25,3,Jumper
+98,Collin Sexton,DEFENSIVE_REBOUND,None,57.9,4,Cavaliers,Hawks,105 - 106,0,N/A,N/A,N/A
+99,Vince Carter,FOUL_ON_FLOOR,None,57.9,4,Hawks,Cavaliers,105 - 106,1,N/A,N/A,N/A
+100,Collin Sexton,FT_MISS,None,57.9,4,Cavaliers,Hawks,105 - 106,0,N/A,1,N/A
+101,Team,OFFENSIVE_REBOUND,None,57.9,4,Cavaliers,Hawks,105 - 106,0,N/A,N/A,N/A
+102,Collin Sexton,FT,None,57.9,4,Cavaliers,Hawks,106 - 106,0,N/A,1,N/A
+103,Team,Unknown,None,57.9,4,Hawks,Cavaliers,106 - 106,1,N/A,N/A,N/A
+104,Kevin Huerter,FG_MISS,None,50.2,4,Hawks,Cavaliers,106 - 106,1,0,2,Layup
+105,John Collins,OFFENSIVE_REBOUND,None,47.9,4,Hawks,Cavaliers,106 - 106,1,N/A,N/A,N/A
+106,John Collins,FG_MISS,None,47.9,4,Hawks,Cavaliers,106 - 106,1,1,2,Jumper
+107,John Collins,OFFENSIVE_REBOUND,None,47.9,4,Hawks,Cavaliers,106 - 106,1,N/A,N/A,N/A
+108,John Collins,FG_UNASSISTED,None,47.9,4,Hawks,Cavaliers,106 - 108,1,1,2,Jumper
+109,Collin Sexton,FG_MISS,None,37.2,4,Cavaliers,Hawks,106 - 108,0,0,2,Layup
+110,Team,OFFENSIVE_REBOUND,None,36.5,4,Cavaliers,Hawks,106 - 108,0,N/A,N/A,N/A
+111,Justin Anderson,SUBSTITUTION,Young Trae,36.5,4,Hawks,Cavaliers,106 - 108,1,N/A,N/A,N/A
+112,Alec Burks,TURNOVER,Justin Anderson,33.5,4,Cavaliers,Hawks,106 - 108,0,N/A,N/A,N/A
+113,Team,Unknown,None,30.3,4,Hawks,Cavaliers,106 - 108,1,N/A,N/A,N/A
+114,Trae Young,SUBSTITUTION,Anderson Justin,30.3,4,Hawks,Cavaliers,106 - 108,1,N/A,N/A,N/A
+115,Jaron Blossomgame,SUBSTITUTION,Sexton Collin,30.3,4,Cavaliers,Hawks,106 - 108,0,N/A,N/A,N/A
+116,Trae Young,FG_MISS,None,17.7,4,Hawks,Cavaliers,106 - 108,1,32,3,Jumper
+117,Team,OFFENSIVE_REBOUND,None,14.7,4,Hawks,Cavaliers,106 - 108,1,N/A,N/A,N/A
+118,Alec Burks,FOUL_ON_FLOOR,None,14.7,4,Cavaliers,Hawks,106 - 108,0,N/A,N/A,N/A
+119,DeAndre' Bembry,FT,None,14.7,4,Hawks,Cavaliers,106 - 109,1,N/A,1,N/A
+120,DeAndre' Bembry,FT_MISS,None,14.7,4,Hawks,Cavaliers,106 - 109,1,N/A,1,N/A
+121,Cedi Osman,DEFENSIVE_REBOUND,None,12.5,4,Cavaliers,Hawks,106 - 109,0,N/A,N/A,N/A
+122,Team,Unknown,None,12.5,4,Cavaliers,Hawks,106 - 109,0,N/A,N/A,N/A
+123,Justin Anderson,SUBSTITUTION,Young Trae,12.5,4,Hawks,Cavaliers,106 - 109,1,N/A,N/A,N/A
+124,Collin Sexton,SUBSTITUTION,Blossomgame Jaron,12.5,4,Cavaliers,Hawks,106 - 109,0,N/A,N/A,N/A
+125,Jordan Clarkson,FG_MISS,None,8.5,4,Cavaliers,Hawks,106 - 109,0,27,3,Jumper
+126,Vince Carter,DEFENSIVE_REBOUND,None,6.1,4,Hawks,Cavaliers,106 - 109,1,N/A,N/A,N/A
+127,Cedi Osman,FOUL_ON_FLOOR,None,6.1,4,Cavaliers,Hawks,106 - 109,0,N/A,N/A,N/A
+128,Vince Carter,FT,None,6.1,4,Hawks,Cavaliers,106 - 110,1,N/A,1,N/A
+129,Vince Carter,FT,None,6.1,4,Hawks,Cavaliers,106 - 111,1,N/A,1,N/A
+130,Team,Unknown,None,6.1,4,Cavaliers,Hawks,106 - 111,0,N/A,N/A,N/A
+131,Alec Burks,FG_ASSISTED,Cedi Osman,1.4,4,Cavaliers,Hawks,108 - 111,0,0,2,Layup
+132,End of,Unknown,None,0.0,4,Hawks,Cavaliers,108 - 111,1,N/A,N/A,N/A
+133,End of,Unknown,None,0.0,4,Hawks,Cavaliers,108 - 111,1,N/A,N/A,N/A

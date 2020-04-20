@@ -1,0 +1,487 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Marc Gasol,JUMP_BALL,None,12:00,1,Jazz,Grizzlies,0 - 0,1,N/A,N/A,N/A
+1,Donovan Mitchell,TURNOVER,None,11:48,1,Jazz,Grizzlies,0 - 0,1,N/A,N/A,N/A
+2,Marc Gasol,FG_ASSISTED,Mike Conley,11:32,1,Grizzlies,Jazz,2 - 0,0,22,2,Jumper
+3,Joe Ingles,FG_MISS,None,11:05,1,Jazz,Grizzlies,2 - 0,1,29,3,Jumper
+4,Garrett Temple,DEFENSIVE_REBOUND,None,11:02,1,Grizzlies,Jazz,2 - 0,0,N/A,N/A,N/A
+5,Jaren Jackson,FG_ASSISTED,Marc Gasol,10:55,1,Grizzlies,Jazz,4 - 0,0,2,2,Jumper
+6,Derrick Favors,FG_MISS,None,10:42,1,Jazz,Grizzlies,4 - 0,1,-,3,Jumper
+7,Team,OFFENSIVE_REBOUND,None,10:41,1,Jazz,Grizzlies,4 - 0,1,N/A,N/A,N/A
+8,Chandler Parsons,FOUL_ON_FLOOR,None,10:41,1,Grizzlies,Jazz,4 - 0,0,N/A,N/A,N/A
+9,Marc Gasol,Unknown,None,10:35,1,Grizzlies,Jazz,4 - 0,0,N/A,N/A,N/A
+10,Joe Ingles,FG_ASSISTED,Ricky Rubio,10:29,1,Jazz,Grizzlies,4 - 3,1,25,3,Jumper
+11,Jaren Jackson,FG_MISS,None,10:03,1,Grizzlies,Jazz,4 - 3,0,8,2,Jumper
+12,Rudy Gobert,DEFENSIVE_REBOUND,None,10:01,1,Jazz,Grizzlies,4 - 3,1,N/A,N/A,N/A
+13,Ricky Rubio,FG_MISS,None,9:51,1,Jazz,Grizzlies,4 - 3,1,25,3,Jumper
+14,Derrick Favors,OFFENSIVE_REBOUND,None,9:49,1,Jazz,Grizzlies,4 - 3,1,N/A,N/A,N/A
+15,Joe Ingles,FG_MISS,None,9:46,1,Jazz,Grizzlies,4 - 3,1,27,3,Jumper
+16,Chandler Parsons,DEFENSIVE_REBOUND,None,9:42,1,Grizzlies,Jazz,4 - 3,0,N/A,N/A,N/A
+17,Chandler Parsons,FG_MISS,None,9:30,1,Grizzlies,Jazz,4 - 3,0,25,3,Jumper
+18,Garrett Temple,OFFENSIVE_REBOUND,None,9:24,1,Grizzlies,Jazz,4 - 3,0,N/A,N/A,N/A
+19,Garrett Temple,FG_MISS,None,9:17,1,Grizzlies,Jazz,4 - 3,0,23,3,Jumper
+20,Rudy Gobert,DEFENSIVE_REBOUND,None,9:14,1,Jazz,Grizzlies,4 - 3,1,N/A,N/A,N/A
+21,Jaren Jackson,FOUL_ON_FLOOR,None,9:11,1,Grizzlies,Jazz,4 - 3,0,N/A,N/A,N/A
+22,Ricky Rubio,FG_ASSISTED,Derrick Favors,9:04,1,Jazz,Grizzlies,4 - 6,1,26,3,Jumper
+23,Marc Gasol,FG_ASSISTED,Mike Conley,8:40,1,Grizzlies,Jazz,7 - 6,0,-,3,Jumper
+24,Ricky Rubio,FG_MISS,None,8:24,1,Jazz,Grizzlies,7 - 6,1,18,2,Jumper
+25,Marc Gasol,DEFENSIVE_REBOUND,None,8:21,1,Grizzlies,Jazz,7 - 6,0,N/A,N/A,N/A
+26,Chandler Parsons,FG_MISS,None,8:14,1,Grizzlies,Jazz,7 - 6,0,20,2,Jumper
+27,Rudy Gobert,DEFENSIVE_REBOUND,None,8:10,1,Jazz,Grizzlies,7 - 6,1,N/A,N/A,N/A
+28,Donovan Mitchell,FG_UNASSISTED,None,8:03,1,Jazz,Grizzlies,7 - 8,1,21,2,Jumper
+29,Jaren Jackson,FG_MISS,None,7:40,1,Grizzlies,Jazz,7 - 8,0,25,3,Jumper
+30,Rudy Gobert,DEFENSIVE_REBOUND,None,7:38,1,Jazz,Grizzlies,7 - 8,1,N/A,N/A,N/A
+31,Joe Ingles,FG_MISS,None,7:29,1,Jazz,Grizzlies,7 - 8,1,-,2,Jumper
+32,Jaren Jackson,DEFENSIVE_REBOUND,None,7:25,1,Grizzlies,Jazz,7 - 8,0,N/A,N/A,N/A
+33,Team,Unknown,None,7:21,1,Grizzlies,Jazz,7 - 8,0,N/A,N/A,N/A
+34,Jaren Jackson,FG_MISS,None,7:11,1,Grizzlies,Jazz,7 - 8,0,-,3,Jumper
+35,Joe Ingles,DEFENSIVE_REBOUND,None,7:09,1,Jazz,Grizzlies,7 - 8,1,N/A,N/A,N/A
+36,Rudy Gobert,FG_ASSISTED,Joe Ingles,7:02,1,Jazz,Grizzlies,7 - 10,1,0,2,Dunk
+37,Mike Conley,FG_UNASSISTED,None,6:51,1,Grizzlies,Jazz,9 - 10,0,19,2,Jumper
+38,Joe Ingles,FG_ASSISTED,Donovan Mitchell,6:32,1,Jazz,Grizzlies,9 - 12,1,8,2,Jumper
+39,Chandler Parsons,TURNOVER,Joe Ingles,6:14,1,Grizzlies,Jazz,9 - 12,0,N/A,N/A,N/A
+40,Joe Ingles,FG_UNASSISTED,None,6:10,1,Jazz,Grizzlies,9 - 14,1, ,2,Jumper
+41,Mike Conley,FG_MISS,None,5:50,1,Grizzlies,Jazz,9 - 14,0,25,3,Jumper
+42,Rudy Gobert,DEFENSIVE_REBOUND,None,5:49,1,Jazz,Grizzlies,9 - 14,1,N/A,N/A,N/A
+43,Joe Ingles,FG_MISS,None,5:44,1,Jazz,Grizzlies,9 - 14,1,26,3,Jumper
+44,Marc Gasol,DEFENSIVE_REBOUND,None,5:41,1,Grizzlies,Jazz,9 - 14,0,N/A,N/A,N/A
+45,Mike Conley,FG_MISS,None,5:35,1,Grizzlies,Jazz,9 - 14,0,17,2,Jumper
+46,Rudy Gobert,DEFENSIVE_REBOUND,None,5:33,1,Jazz,Grizzlies,9 - 14,1,N/A,N/A,N/A
+47,Rudy Gobert,TURNOVER,None,5:32,1,Jazz,Grizzlies,9 - 14,1,N/A,N/A,N/A
+48,Jae Crowder,SUBSTITUTION,Ingles Joe,5:32,1,Jazz,Grizzlies,9 - 14,1,N/A,N/A,N/A
+49,Royce O'Neale,SUBSTITUTION,Favors Derrick,5:32,1,Jazz,Grizzlies,9 - 14,1,N/A,N/A,N/A
+50,Kyle Anderson,SUBSTITUTION,Parsons Chandler,5:32,1,Grizzlies,Jazz,9 - 14,0,N/A,N/A,N/A
+51,Ricky Rubio,FOUL_ON_FLOOR,None,5:24,1,Jazz,Grizzlies,9 - 14,1,N/A,N/A,N/A
+52,Garrett Temple,FT,None,5:24,1,Grizzlies,Jazz,10 - 14,0,N/A,1,N/A
+53,Garrett Temple,FT_MISS,None,5:24,1,Grizzlies,Jazz,10 - 14,0,N/A,1,N/A
+54,Royce O'Neale,DEFENSIVE_REBOUND,None,5:21,1,Jazz,Grizzlies,10 - 14,1,N/A,N/A,N/A
+55,Donovan Mitchell,FG_MISS,None,5:11,1,Jazz,Grizzlies,10 - 14,1,24,3,Jumper
+56,Kyle Anderson,DEFENSIVE_REBOUND,None,5:07,1,Grizzlies,Jazz,10 - 14,0,N/A,N/A,N/A
+57,Mike Conley,FG_MISS,None,4:48,1,Grizzlies,Jazz,10 - 14,0,25,3,Jumper
+58,Royce O'Neale,DEFENSIVE_REBOUND,None,4:46,1,Jazz,Grizzlies,10 - 14,1,N/A,N/A,N/A
+59,Donovan Mitchell,FG_MISS,None,4:33,1,Jazz,Grizzlies,10 - 14,1,8,2,Jumper
+60,Mike Conley,DEFENSIVE_REBOUND,None,4:30,1,Grizzlies,Jazz,10 - 14,0,N/A,N/A,N/A
+61,Donovan Mitchell,FOUL_ON_FLOOR,None,4:26,1,Jazz,Grizzlies,10 - 14,1,N/A,N/A,N/A
+62,Dante Exum,SUBSTITUTION,Rubio Ricky,4:26,1,Jazz,Grizzlies,10 - 14,1,N/A,N/A,N/A
+63,Shelvin Mack,SUBSTITUTION,Conley Mike,4:26,1,Grizzlies,Jazz,10 - 14,0,N/A,N/A,N/A
+64,Dillon Brooks,SUBSTITUTION,Jackson Jaren,4:26,1,Grizzlies,Jazz,10 - 14,0,N/A,N/A,N/A
+65,Marc Gasol,FG_ASSISTED,Shelvin Mack,4:10,1,Grizzlies,Jazz,12 - 14,0,8,2,Jumper
+66,Dante Exum,FG_MISS,None,3:53,1,Jazz,Grizzlies,12 - 14,1, ,2,Jumper
+67,Team,OFFENSIVE_REBOUND,None,3:52,1,Jazz,Grizzlies,12 - 14,1,N/A,N/A,N/A
+68,Wayne Selden,SUBSTITUTION,Temple Garrett,3:52,1,Grizzlies,Jazz,12 - 14,0,N/A,N/A,N/A
+69,Dante Exum,FG_MISS,None,3:50,1,Jazz,Grizzlies,12 - 14,1,22,3,Jumper
+70,Dillon Brooks,DEFENSIVE_REBOUND,None,3:45,1,Grizzlies,Jazz,12 - 14,0,N/A,N/A,N/A
+71,Kyle Anderson,FG_MISS,None,3:35,1,Grizzlies,Jazz,12 - 14,0,7,2,Jumper
+72,Jae Crowder,DEFENSIVE_REBOUND,None,3:31,1,Jazz,Grizzlies,12 - 14,1,N/A,N/A,N/A
+73,Dillon Brooks,FOUL_ON_FLOOR,None,3:25,1,Grizzlies,Jazz,12 - 14,0,N/A,N/A,N/A
+74,Royce O'Neale,FT,None,3:25,1,Jazz,Grizzlies,12 - 15,1,N/A,1,N/A
+75,Royce O'Neale,FT,None,3:25,1,Jazz,Grizzlies,12 - 16,1,N/A,1,N/A
+76,Rudy Gobert,FOUL_ON_FLOOR,None,3:06,1,Jazz,Grizzlies,12 - 16,1,N/A,N/A,N/A
+77,Dillon Brooks,FG_ASSISTED,Marc Gasol,2:55,1,Grizzlies,Jazz,15 - 16,0,25,3,Jumper
+78,Team,Unknown,None,2:51,1,Jazz,Grizzlies,15 - 16,1,N/A,N/A,N/A
+79,Alec Burks,SUBSTITUTION,O'Neale Royce,2:51,1,Jazz,Grizzlies,15 - 16,1,N/A,N/A,N/A
+80,Joe Ingles,SUBSTITUTION,Gobert Rudy,2:51,1,Jazz,Grizzlies,15 - 16,1,N/A,N/A,N/A
+81,Derrick Favors,SUBSTITUTION,Mitchell Donovan,2:51,1,Jazz,Grizzlies,15 - 16,1,N/A,N/A,N/A
+82,Kyle Anderson,FOUL_ON_FLOOR,None,2:32,1,Grizzlies,Jazz,15 - 16,0,N/A,N/A,N/A
+83,Jae Crowder,FT_MISS,None,2:32,1,Jazz,Grizzlies,15 - 16,1,N/A,1,N/A
+84,Team,OFFENSIVE_REBOUND,None,2:32,1,Jazz,Grizzlies,15 - 16,1,N/A,N/A,N/A
+85,Jae Crowder,FT,None,2:32,1,Jazz,Grizzlies,15 - 17,1,N/A,1,N/A
+86,Jae Crowder,FT,None,2:32,1,Jazz,Grizzlies,15 - 18,1,N/A,1,N/A
+87,Dillon Brooks,FG_MISS,None,2:20,1,Grizzlies,Jazz,15 - 18,0,15,2,Jumper
+88,Dante Exum,DEFENSIVE_REBOUND,None,2:18,1,Jazz,Grizzlies,15 - 18,1,N/A,N/A,N/A
+89,Derrick Favors,FG_MISS,None,2:04,1,Jazz,Grizzlies,15 - 18,1,8,2,Jumper
+90,Marc Gasol,DEFENSIVE_REBOUND,None,2:02,1,Grizzlies,Jazz,15 - 18,0,N/A,N/A,N/A
+91,Dillon Brooks,TURNOVER,Joe Ingles,1:53,1,Grizzlies,Jazz,15 - 18,0,N/A,N/A,N/A
+92,Dante Exum,FG_ASSISTED,Joe Ingles,1:49,1,Jazz,Grizzlies,15 - 20,1,0,2,Dunk
+93,Shelvin Mack,FG_UNASSISTED,None,1:25,1,Grizzlies,Jazz,17 - 20,0,5,2,Jumper
+94,Derrick Favors,FG_ASSISTED,Joe Ingles,1:11,1,Jazz,Grizzlies,17 - 22,1,0,2,Dunk
+95,Marc Gasol,FG_MISS,None,54.9,1,Grizzlies,Jazz,17 - 22,0,19,2,Jumper
+96,Team,OFFENSIVE_REBOUND,None,51.6,1,Grizzlies,Jazz,17 - 22,0,N/A,N/A,N/A
+97,Jaren Jackson,SUBSTITUTION,Gasol Marc,51.6,1,Grizzlies,Jazz,17 - 22,0,N/A,N/A,N/A
+98,Shelvin Mack,FG_ASSISTED,Kyle Anderson,49.3,1,Grizzlies,Jazz,19 - 22,0,0,2,Layup
+99,Jae Crowder,FG_MISS,Kyle Anderson,35.5,1,Grizzlies,Jazz,19 - 22,1,0,2,Layup
+100,Team,DEFENSIVE_REBOUND,None,35.5,1,Grizzlies,Jazz,19 - 22,0,N/A,N/A,N/A
+101,Shelvin Mack,FG_MISS,None,30.2,1,Grizzlies,Jazz,19 - 22,0, ,2,Jumper
+102,Derrick Favors,DEFENSIVE_REBOUND,None,27.2,1,Jazz,Grizzlies,19 - 22,1,N/A,N/A,N/A
+103,Alec Burks,FG_MISS,None,14.6,1,Jazz,Grizzlies,19 - 22,1,0,2,Layup
+104,Wayne Selden,DEFENSIVE_REBOUND,None,10.8,1,Grizzlies,Jazz,19 - 22,0,N/A,N/A,N/A
+105,Wayne Selden,TURNOVER,None,9.7,1,Grizzlies,Jazz,19 - 22,0,N/A,N/A,N/A
+106,Wayne Selden,TURNOVER,None,9.7,1,Grizzlies,Jazz,19 - 22,0,N/A,N/A,N/A
+107,Dante Exum,FG_MISS,None,0.2,1,Jazz,Grizzlies,19 - 22,1,8,2,Jumper
+108,Derrick Favors,OFFENSIVE_REBOUND,None,0.2,1,Jazz,Grizzlies,19 - 22,1,N/A,N/A,N/A
+109,Derrick Favors,FG_MISS,None,0.0,1,Jazz,Grizzlies,19 - 22,1, ,2,Jumper
+110,Team,OFFENSIVE_REBOUND,None,0.0,1,Jazz,Grizzlies,19 - 22,1,N/A,N/A,N/A
+111,End of,Unknown,None,0.0,1,Jazz,Grizzlies,19 - 22,1,N/A,N/A,N/A
+0,Omri Casspi,SUBSTITUTION,Anderson Kyle,12:00,2,Grizzlies,Jazz,19 - 22,0,N/A,N/A,N/A
+1,Mike Conley,SUBSTITUTION,Mack Shelvin,12:00,2,Grizzlies,Jazz,19 - 22,0,N/A,N/A,N/A
+2,Wayne Selden,FG_UNASSISTED,None,11:41,2,Grizzlies,Jazz,21 - 22,0,0,2,Layup
+3,Derrick Favors,FG_MISS,None,11:28,2,Jazz,Grizzlies,21 - 22,1,10,2,Jumper
+4,Derrick Favors,OFFENSIVE_REBOUND,None,11:25,2,Jazz,Grizzlies,21 - 22,1,N/A,N/A,N/A
+5,Derrick Favors,FG_MISS,None,11:21,2,Jazz,Grizzlies,21 - 22,1,0,2,Layup
+6,Jaren Jackson,DEFENSIVE_REBOUND,None,11:18,2,Grizzlies,Jazz,21 - 22,0,N/A,N/A,N/A
+7,Jaren Jackson,FG_ASSISTED,Omri Casspi,11:08,2,Grizzlies,Jazz,23 - 22,0,2,2,Jumper
+8,Derrick Favors,TURNOVER,Omri Casspi,10:49,2,Jazz,Grizzlies,23 - 22,1,N/A,N/A,N/A
+9,Joe Ingles,FOUL_ON_FLOOR,None,10:45,2,Jazz,Grizzlies,23 - 22,1,N/A,N/A,N/A
+10,Omri Casspi,FT,None,10:45,2,Grizzlies,Jazz,24 - 22,0,N/A,1,N/A
+11,Omri Casspi,FT,None,10:45,2,Grizzlies,Jazz,25 - 22,0,N/A,1,N/A
+12,Dante Exum,FG_MISS,None,10:29,2,Jazz,Grizzlies,25 - 22,1,0,2,Layup
+13,Derrick Favors,OFFENSIVE_REBOUND,None,10:28,2,Jazz,Grizzlies,25 - 22,1,N/A,N/A,N/A
+14,Joe Ingles,FG_MISS,None,10:26,2,Jazz,Grizzlies,25 - 22,1,26,3,Jumper
+15,Mike Conley,DEFENSIVE_REBOUND,None,10:26,2,Grizzlies,Jazz,25 - 22,0,N/A,N/A,N/A
+16,Jaren Jackson,FG_MISS,None,10:17,2,Grizzlies,Jazz,25 - 22,0,26,3,Jumper
+17,Dante Exum,DEFENSIVE_REBOUND,None,10:15,2,Jazz,Grizzlies,25 - 22,1,N/A,N/A,N/A
+18,Dante Exum,FG_UNASSISTED,None,10:10,2,Jazz,Grizzlies,25 - 24,1, ,2,Jumper
+19,Dillon Brooks,FG_ASSISTED,Jaren Jackson,9:50,2,Grizzlies,Jazz,27 - 24,0,0,2,Layup
+20,Jae Crowder,FG_MISS,None,9:33,2,Jazz,Grizzlies,27 - 24,1,24,3,Jumper
+21,Jae Crowder,OFFENSIVE_REBOUND,None,9:31,2,Jazz,Grizzlies,27 - 24,1,N/A,N/A,N/A
+22,Jae Crowder,FG_UNASSISTED,None,9:29,2,Jazz,Grizzlies,27 - 26,1,0,2,Layup
+23,Team,Unknown,None,9:26,2,Grizzlies,Jazz,27 - 26,0,N/A,N/A,N/A
+24,Royce O'Neale,SUBSTITUTION,Ingles Joe,9:26,2,Jazz,Grizzlies,27 - 26,1,N/A,N/A,N/A
+25,Georges Niang,SUBSTITUTION,Crowder Jae,9:26,2,Jazz,Grizzlies,27 - 26,1,N/A,N/A,N/A
+26,Jaren Jackson,FG_UNASSISTED,None,9:08,2,Grizzlies,Jazz,29 - 26,0, ,2,Jumper
+27,Derrick Favors,FOUL_ON_FLOOR,None,8:57,2,Jazz,Grizzlies,29 - 26,1,N/A,N/A,N/A
+28,Derrick Favors,TURNOVER,None,8:57,2,Jazz,Grizzlies,29 - 26,1,N/A,N/A,N/A
+29,Donovan Mitchell,SUBSTITUTION,Burks Alec,8:57,2,Jazz,Grizzlies,29 - 26,1,N/A,N/A,N/A
+30,Mike Conley,FG_MISS,Dante Exum,8:37,2,Jazz,Grizzlies,29 - 26,0,14,2,Jumper
+31,Mike Conley,OFFENSIVE_REBOUND,None,8:34,2,Grizzlies,Jazz,29 - 26,0,N/A,N/A,N/A
+32,Dante Exum,FOUL_ON_FLOOR,None,8:33,2,Jazz,Grizzlies,29 - 26,1,N/A,N/A,N/A
+33,Ricky Rubio,SUBSTITUTION,Exum Dante,8:33,2,Jazz,Grizzlies,29 - 26,1,N/A,N/A,N/A
+34,Jaren Jackson,FT_MISS,None,8:33,2,Grizzlies,Jazz,29 - 26,0,N/A,1,N/A
+35,Team,OFFENSIVE_REBOUND,None,8:33,2,Grizzlies,Jazz,29 - 26,0,N/A,N/A,N/A
+36,Rudy Gobert,SUBSTITUTION,Favors Derrick,8:33,2,Jazz,Grizzlies,29 - 26,1,N/A,N/A,N/A
+37,Jaren Jackson,FT,None,8:33,2,Grizzlies,Jazz,30 - 26,0,N/A,1,N/A
+38,Georges Niang,FG_MISS,None,8:10,2,Jazz,Grizzlies,30 - 26,1, ,2,Jumper
+39,Jaren Jackson,DEFENSIVE_REBOUND,None,8:07,2,Grizzlies,Jazz,30 - 26,0,N/A,N/A,N/A
+40,Dillon Brooks,FG_UNASSISTED,None,7:55,2,Grizzlies,Jazz,32 - 26,0,12,2,Jumper
+41,Royce O'Neale,FG_MISS,Dillon Brooks,7:36,2,Grizzlies,Jazz,32 - 26,1,2,2,Jumper
+42,Royce O'Neale,OFFENSIVE_REBOUND,None,7:33,2,Jazz,Grizzlies,32 - 26,1,N/A,N/A,N/A
+43,Royce O'Neale,FG_UNASSISTED,None,7:33,2,Jazz,Grizzlies,32 - 28,1, ,2,Jumper
+44,Jaren Jackson,FG_MISS,None,7:12,2,Grizzlies,Jazz,32 - 28,0,25,3,Jumper
+45,Georges Niang,DEFENSIVE_REBOUND,None,7:08,2,Jazz,Grizzlies,32 - 28,1,N/A,N/A,N/A
+46,Donovan Mitchell,FG_UNASSISTED,None,7:00,2,Jazz,Grizzlies,32 - 31,1,26,3,Jumper
+47,Omri Casspi,FG_ASSISTED,Wayne Selden,6:46,2,Grizzlies,Jazz,34 - 31,0,0,2,Layup
+48,Royce O'Neale,TURNOVER,None,6:41,2,Jazz,Grizzlies,34 - 31,1,N/A,N/A,N/A
+49,Marc Gasol,SUBSTITUTION,Selden Wayne,6:41,2,Grizzlies,Jazz,34 - 31,0,N/A,N/A,N/A
+50,Garrett Temple,SUBSTITUTION,Jackson Jaren,6:41,2,Grizzlies,Jazz,34 - 31,0,N/A,N/A,N/A
+51,Ricky Rubio,FOUL_ON_FLOOR,None,6:23,2,Jazz,Grizzlies,34 - 31,1,N/A,N/A,N/A
+52,Mike Conley,FT,None,6:23,2,Grizzlies,Jazz,35 - 31,0,N/A,1,N/A
+53,Mike Conley,FT,None,6:23,2,Grizzlies,Jazz,36 - 31,0,N/A,1,N/A
+54,Ricky Rubio,TURNOVER,Mike Conley,6:13,2,Jazz,Grizzlies,36 - 31,1,N/A,N/A,N/A
+55,Mike Conley,TURNOVER,Ricky Rubio,6:07,2,Grizzlies,Jazz,36 - 31,0,N/A,N/A,N/A
+56,Mike Conley,FOUL_ON_FLOOR,None,6:07,2,Grizzlies,Jazz,36 - 31,0,N/A,N/A,N/A
+57,Joe Ingles,SUBSTITUTION,O'Neale Royce,6:07,2,Jazz,Grizzlies,36 - 31,1,N/A,N/A,N/A
+58,Georges Niang,FG_ASSISTED,Donovan Mitchell,5:52,2,Jazz,Grizzlies,36 - 34,1,24,3,Jumper
+59,Marc Gasol,FG_ASSISTED,Mike Conley,5:34,2,Grizzlies,Jazz,39 - 34,0,24,3,Jumper
+60,Ricky Rubio,FG_MISS,None,5:20,2,Jazz,Grizzlies,39 - 34,1,20,2,Jumper
+61,Marc Gasol,DEFENSIVE_REBOUND,None,5:17,2,Grizzlies,Jazz,39 - 34,0,N/A,N/A,N/A
+62,Mike Conley,FG_MISS,Ricky Rubio,5:06,2,Jazz,Grizzlies,39 - 34,0,0,2,Layup
+63,Mike Conley,OFFENSIVE_REBOUND,None,5:04,2,Grizzlies,Jazz,39 - 34,0,N/A,N/A,N/A
+64,Georges Niang,FOUL_ON_FLOOR,None,5:03,2,Jazz,Grizzlies,39 - 34,1,N/A,N/A,N/A
+65,Mike Conley,FT_MISS,None,5:03,2,Grizzlies,Jazz,39 - 34,0,N/A,1,N/A
+66,Team,OFFENSIVE_REBOUND,None,5:03,2,Grizzlies,Jazz,39 - 34,0,N/A,N/A,N/A
+67,Jae Crowder,SUBSTITUTION,Niang Georges,5:03,2,Jazz,Grizzlies,39 - 34,1,N/A,N/A,N/A
+68,Kyle Anderson,SUBSTITUTION,Casspi Omri,5:03,2,Grizzlies,Jazz,39 - 34,0,N/A,N/A,N/A
+69,MarShon Brooks,SUBSTITUTION,Brooks Dillon,5:03,2,Grizzlies,Jazz,39 - 34,0,N/A,N/A,N/A
+70,Mike Conley,FT,None,5:03,2,Grizzlies,Jazz,40 - 34,0,N/A,1,N/A
+71,MarShon Brooks,FOUL_ON_FLOOR,None,4:55,2,Grizzlies,Jazz,40 - 34,0,N/A,N/A,N/A
+72,Joe Ingles,FG_UNASSISTED,None,4:50,2,Jazz,Grizzlies,40 - 36,1,0,2,Layup
+73,Marc Gasol,FG_MISS,None,4:29,2,Grizzlies,Jazz,40 - 36,0,18,2,Jumper
+74,Ricky Rubio,DEFENSIVE_REBOUND,None,4:25,2,Jazz,Grizzlies,40 - 36,1,N/A,N/A,N/A
+75,Joe Ingles,FG_MISS,None,4:19,2,Jazz,Grizzlies,40 - 36,1,26,3,Jumper
+76,Marc Gasol,DEFENSIVE_REBOUND,None,4:17,2,Grizzlies,Jazz,40 - 36,0,N/A,N/A,N/A
+77,Garrett Temple,FG_MISS,Rudy Gobert,4:10,2,Jazz,Grizzlies,40 - 36,0,0,2,Layup
+78,Kyle Anderson,OFFENSIVE_REBOUND,None,4:07,2,Grizzlies,Jazz,40 - 36,0,N/A,N/A,N/A
+79,Garrett Temple,FG_MISS,None,4:05,2,Grizzlies,Jazz,40 - 36,0,24,3,Jumper
+80,Donovan Mitchell,DEFENSIVE_REBOUND,None,4:02,2,Jazz,Grizzlies,40 - 36,1,N/A,N/A,N/A
+81,Marc Gasol,FOUL_ON_FLOOR,None,3:52,2,Grizzlies,Jazz,40 - 36,0,N/A,N/A,N/A
+82,Rudy Gobert,FT_MISS,None,3:52,2,Jazz,Grizzlies,40 - 36,1,N/A,1,N/A
+83,Team,OFFENSIVE_REBOUND,None,3:52,2,Jazz,Grizzlies,40 - 36,1,N/A,N/A,N/A
+84,Shelvin Mack,SUBSTITUTION,Conley Mike,3:52,2,Grizzlies,Jazz,40 - 36,0,N/A,N/A,N/A
+85,Rudy Gobert,FT,None,3:52,2,Jazz,Grizzlies,40 - 37,1,N/A,1,N/A
+86,Marc Gasol,FG_MISS,None,3:36,2,Grizzlies,Jazz,40 - 37,0,11,2,Jumper
+87,Rudy Gobert,DEFENSIVE_REBOUND,None,3:32,2,Jazz,Grizzlies,40 - 37,1,N/A,N/A,N/A
+88,Donovan Mitchell,FG_UNASSISTED,None,3:17,2,Jazz,Grizzlies,40 - 39,1,0,2,Layup
+89,Garrett Temple,FG_MISS,None,3:02,2,Grizzlies,Jazz,40 - 39,0,15,2,Jumper
+90,Rudy Gobert,DEFENSIVE_REBOUND,None,3:00,2,Jazz,Grizzlies,40 - 39,1,N/A,N/A,N/A
+91,Donovan Mitchell,FG_ASSISTED,Ricky Rubio,2:43,2,Jazz,Grizzlies,40 - 41,1,15,2,Jumper
+92,Team,Unknown,None,2:41,2,Grizzlies,Jazz,40 - 41,0,N/A,N/A,N/A
+93,MarShon Brooks,TURNOVER,Donovan Mitchell,2:27,2,Grizzlies,Jazz,40 - 41,0,N/A,N/A,N/A
+94,Donovan Mitchell,FG_MISS,None,2:22,2,Jazz,Grizzlies,40 - 41,1, ,2,Jumper
+95,MarShon Brooks,DEFENSIVE_REBOUND,None,2:17,2,Grizzlies,Jazz,40 - 41,0,N/A,N/A,N/A
+96,Kyle Anderson,FG_ASSISTED,Shelvin Mack,2:15,2,Grizzlies,Jazz,42 - 41,0,0,2,Layup
+97,Marc Gasol,FOUL_ON_FLOOR,None,2:01,2,Grizzlies,Jazz,42 - 41,0,N/A,N/A,N/A
+98,Ricky Rubio,FT,None,2:01,2,Jazz,Grizzlies,42 - 42,1,N/A,1,N/A
+99,Ricky Rubio,FT,None,2:01,2,Jazz,Grizzlies,42 - 43,1,N/A,1,N/A
+100,Shelvin Mack,FOUL_ON_FLOOR,None,1:54,2,Grizzlies,Jazz,42 - 43,0,N/A,N/A,N/A
+101,Shelvin Mack,TURNOVER,None,1:54,2,Grizzlies,Jazz,42 - 43,0,N/A,N/A,N/A
+102,Mike Conley,SUBSTITUTION,Mack Shelvin,1:54,2,Grizzlies,Jazz,42 - 43,0,N/A,N/A,N/A
+103,Joe Ingles,FG_MISS,None,1:42,2,Jazz,Grizzlies,42 - 43,1,0,2,Layup
+104,Team,DEFENSIVE_REBOUND,None,1:42,2,Grizzlies,Jazz,42 - 43,0,N/A,N/A,N/A
+105,Rudy Gobert,FOUL_ON_FLOOR,None,1:42,2,Jazz,Grizzlies,42 - 43,1,N/A,N/A,N/A
+106,Marc Gasol,FT,None,1:42,2,Grizzlies,Jazz,43 - 43,0,N/A,1,N/A
+107,Marc Gasol,FT,None,1:42,2,Grizzlies,Jazz,44 - 43,0,N/A,1,N/A
+108,Donovan Mitchell,FOUL_ON_FLOOR,None,1:38,2,Jazz,Grizzlies,44 - 43,1,N/A,N/A,N/A
+109,Donovan Mitchell,TURNOVER,None,1:38,2,Jazz,Grizzlies,44 - 43,1,N/A,N/A,N/A
+110,Kyle Anderson,FG_MISS,None,1:13,2,Grizzlies,Jazz,44 - 43,0,27,3,Jumper
+111,Team,OFFENSIVE_REBOUND,None,1:13,2,Grizzlies,Jazz,44 - 43,0,N/A,N/A,N/A
+112,Kyle Anderson,FOUL_TECHNICAL,None,1:13,2,Grizzlies,Jazz,44 - 43,0,N/A,N/A,N/A
+113,Ricky Rubio,FT,None,1:13,2,Jazz,Grizzlies,44 - 44,1,N/A,1,N/A
+114,Dillon Brooks,SUBSTITUTION,Brooks MarShon,1:13,2,Grizzlies,Jazz,44 - 44,0,N/A,N/A,N/A
+115,shot clock,TURNOVER,None,1:13,2,Grizzlies,Jazz,44 - 44,0,N/A,N/A,N/A
+116,Joe Ingles,TURNOVER,Mike Conley,56.4,2,Jazz,Grizzlies,44 - 44,1,N/A,N/A,N/A
+117,Dillon Brooks,FG_MISS,None,44.3,2,Grizzlies,Jazz,44 - 44,0,10,2,Jumper
+118,Team,OFFENSIVE_REBOUND,None,43.3,2,Grizzlies,Jazz,44 - 44,0,N/A,N/A,N/A
+119,Mike Conley,FG_UNASSISTED,None,37.9,2,Grizzlies,Jazz,46 - 44,0,19,2,Jumper
+120,Donovan Mitchell,FG_UNASSISTED,None,28.4,2,Jazz,Grizzlies,46 - 46,1,0,2,Layup
+121,Jae Crowder,FOUL_ON_FLOOR,None,5.6,2,Jazz,Grizzlies,46 - 46,1,N/A,N/A,N/A
+122,Team,Unknown,None,5.6,2,Jazz,Grizzlies,46 - 46,1,N/A,N/A,N/A
+123,Marc Gasol,FT,None,5.6,2,Grizzlies,Jazz,47 - 46,0,N/A,1,N/A
+124,Marc Gasol,FT_MISS,None,5.6,2,Grizzlies,Jazz,47 - 46,0,N/A,1,N/A
+125,Marc Gasol,OFFENSIVE_REBOUND,None,3.5,2,Grizzlies,Jazz,47 - 46,0,N/A,N/A,N/A
+126,End of,Unknown,None,0.0,2,Jazz,Grizzlies,47 - 46,1,N/A,N/A,N/A
+0,Derrick Favors,SUBSTITUTION,Crowder Jae,12:00,3,Jazz,Grizzlies,47 - 46,1,N/A,N/A,N/A
+1,Jaren Jackson,SUBSTITUTION,Anderson Kyle,12:00,3,Grizzlies,Jazz,47 - 46,0,N/A,N/A,N/A
+2,Mike Conley,FG_MISS,None,11:44,3,Grizzlies,Jazz,47 - 46,0,16,2,Jumper
+3,Joe Ingles,DEFENSIVE_REBOUND,None,11:41,3,Jazz,Grizzlies,47 - 46,1,N/A,N/A,N/A
+4,Rudy Gobert,FG_MISS,None,11:28,3,Jazz,Grizzlies,47 - 46,1,4,2,Jumper
+5,Marc Gasol,DEFENSIVE_REBOUND,None,11:25,3,Grizzlies,Jazz,47 - 46,0,N/A,N/A,N/A
+6,Marc Gasol,FG_MISS,None,11:15,3,Grizzlies,Jazz,47 - 46,0,25,3,Jumper
+7,Joe Ingles,DEFENSIVE_REBOUND,None,11:14,3,Jazz,Grizzlies,47 - 46,1,N/A,N/A,N/A
+8,Joe Ingles,TURNOVER,Jaren Jackson,11:05,3,Jazz,Grizzlies,47 - 46,1,N/A,N/A,N/A
+9,Jaren Jackson,FG_UNASSISTED,None,11:00,3,Grizzlies,Jazz,49 - 46,0, ,2,Jumper
+10,Joe Ingles,FG_MISS,None,10:38,3,Jazz,Grizzlies,49 - 46,1,25,3,Jumper
+11,Rudy Gobert,OFFENSIVE_REBOUND,None,10:34,3,Jazz,Grizzlies,49 - 46,1,N/A,N/A,N/A
+12,Derrick Favors,FG_ASSISTED,Ricky Rubio,10:30,3,Jazz,Grizzlies,49 - 48,1,0,2,Dunk
+13,Dillon Brooks,FG_MISS,None,10:06,3,Grizzlies,Jazz,49 - 48,0,0,2,Layup
+14,Donovan Mitchell,DEFENSIVE_REBOUND,None,10:04,3,Jazz,Grizzlies,49 - 48,1,N/A,N/A,N/A
+15,Derrick Favors,FG_MISS,None,9:58,3,Jazz,Grizzlies,49 - 48,1, ,3,Jumper
+16,Jaren Jackson,DEFENSIVE_REBOUND,None,9:56,3,Grizzlies,Jazz,49 - 48,0,N/A,N/A,N/A
+17,Marc Gasol,FG_ASSISTED,Mike Conley,9:45,3,Grizzlies,Jazz,51 - 48,0,0,2,Layup
+18,Jaren Jackson,FOUL_ON_FLOOR,None,9:38,3,Grizzlies,Jazz,51 - 48,0,N/A,N/A,N/A
+19,Derrick Favors,FT,None,9:38,3,Jazz,Grizzlies,51 - 49,1,N/A,1,N/A
+20,Derrick Favors,FT,None,9:38,3,Jazz,Grizzlies,51 - 50,1,N/A,1,N/A
+21,Marc Gasol,FG_MISS,None,9:18,3,Grizzlies,Jazz,51 - 50,0,10,2,Jumper
+22,Ricky Rubio,DEFENSIVE_REBOUND,None,9:16,3,Jazz,Grizzlies,51 - 50,1,N/A,N/A,N/A
+23,Jaren Jackson,FOUL_ON_FLOOR,None,9:11,3,Grizzlies,Jazz,51 - 50,0,N/A,N/A,N/A
+24,Ricky Rubio,TURNOVER,Marc Gasol,9:10,3,Jazz,Grizzlies,51 - 50,1,N/A,N/A,N/A
+25,Garrett Temple,FG_MISS,None,8:49,3,Grizzlies,Jazz,51 - 50,0,26,3,Jumper
+26,Team,DEFENSIVE_REBOUND,None,8:47,3,Jazz,Grizzlies,51 - 50,1,N/A,N/A,N/A
+27,Rudy Gobert,FG_MISS,None,8:26,3,Jazz,Grizzlies,51 - 50,1,0,2,Layup
+28,Marc Gasol,DEFENSIVE_REBOUND,None,8:23,3,Grizzlies,Jazz,51 - 50,0,N/A,N/A,N/A
+29,Garrett Temple,FG_ASSISTED,Dillon Brooks,8:04,3,Grizzlies,Jazz,54 - 50,0,26,3,Jumper
+30,Ricky Rubio,FG_MISS,None,7:45,3,Jazz,Grizzlies,54 - 50,1,25,3,Jumper
+31,Marc Gasol,DEFENSIVE_REBOUND,None,7:43,3,Grizzlies,Jazz,54 - 50,0,N/A,N/A,N/A
+32,Derrick Favors,FOUL_ON_FLOOR,None,7:35,3,Jazz,Grizzlies,54 - 50,1,N/A,N/A,N/A
+33,Jae Crowder,SUBSTITUTION,Favors Derrick,7:35,3,Jazz,Grizzlies,54 - 50,1,N/A,N/A,N/A
+34,Mike Conley,FG_ASSISTED,Marc Gasol,7:24,3,Grizzlies,Jazz,56 - 50,0,0,2,Layup
+35,Team,Unknown,None,7:24,3,Jazz,Grizzlies,56 - 50,1,N/A,N/A,N/A
+36,Donovan Mitchell,FG_MISS,None,7:10,3,Jazz,Grizzlies,56 - 50,1,27,3,Jumper
+37,Marc Gasol,DEFENSIVE_REBOUND,None,7:07,3,Grizzlies,Jazz,56 - 50,0,N/A,N/A,N/A
+38,Mike Conley,FG_MISS,None,6:46,3,Grizzlies,Jazz,56 - 50,0,0,2,Layup
+39,Jaren Jackson,OFFENSIVE_REBOUND,None,6:43,3,Grizzlies,Jazz,56 - 50,0,N/A,N/A,N/A
+40,Jaren Jackson,FG_UNASSISTED,None,6:43,3,Grizzlies,Jazz,58 - 50,0,0,2,Dunk
+41,Donovan Mitchell,FG_UNASSISTED,None,6:27,3,Jazz,Grizzlies,58 - 52,1,11,2,Jumper
+42,Jaren Jackson,FG_MISS,None,6:02,3,Grizzlies,Jazz,58 - 52,0,6,2,Jumper
+43,Team,OFFENSIVE_REBOUND,None,6:00,3,Grizzlies,Jazz,58 - 52,0,N/A,N/A,N/A
+44,Jae Crowder,FOUL_ON_FLOOR,None,6:00,3,Jazz,Grizzlies,58 - 52,1,N/A,N/A,N/A
+45,Shelvin Mack,SUBSTITUTION,Conley Mike,6:00,3,Grizzlies,Jazz,58 - 52,0,N/A,N/A,N/A
+46,Kyle Anderson,SUBSTITUTION,Jackson Jaren,6:00,3,Grizzlies,Jazz,58 - 52,0,N/A,N/A,N/A
+47,Garrett Temple,TURNOVER,Rudy Gobert,5:52,3,Grizzlies,Jazz,58 - 52,0,N/A,N/A,N/A
+48,Jae Crowder,FG_ASSISTED,Ricky Rubio,5:46,3,Jazz,Grizzlies,58 - 55,1,25,3,Jumper
+49,Marc Gasol,FG_MISS,None,5:18,3,Grizzlies,Jazz,58 - 54,0,27,3,Jumper
+50,Donovan Mitchell,DEFENSIVE_REBOUND,None,5:16,3,Jazz,Grizzlies,58 - 54,1,N/A,N/A,N/A
+51,Donovan Mitchell,TURNOVER,Garrett Temple,5:05,3,Jazz,Grizzlies,58 - 54,1,N/A,N/A,N/A
+52,Ricky Rubio,FOUL_ON_FLOOR,None,5:04,3,Jazz,Grizzlies,58 - 54,1,N/A,N/A,N/A
+53,Royce O'Neale,SUBSTITUTION,Ingles Joe,5:04,3,Jazz,Grizzlies,58 - 54,1,N/A,N/A,N/A
+54,Marc Gasol,FOUL_ON_FLOOR,None,4:51,3,Grizzlies,Jazz,58 - 54,0,N/A,N/A,N/A
+55,Marc Gasol,TURNOVER,None,4:51,3,Grizzlies,Jazz,58 - 54,0,N/A,N/A,N/A
+56,Donovan Mitchell,TURNOVER,Shelvin Mack,4:35,3,Jazz,Grizzlies,58 - 54,1,N/A,N/A,N/A
+57,Marc Gasol,FG_ASSISTED,Kyle Anderson,4:26,3,Grizzlies,Jazz,61 - 54,0,26,3,Jumper
+58,Donovan Mitchell,TURNOVER,Garrett Temple,3:58,3,Jazz,Grizzlies,61 - 54,1,N/A,N/A,N/A
+59,Jae Crowder,FOUL_ON_FLOOR,None,3:58,3,Jazz,Grizzlies,61 - 54,1,N/A,N/A,N/A
+60,Donovan Mitchell,FOUL_TECHNICAL,None,3:58,3,Jazz,Grizzlies,61 - 54,1,N/A,N/A,N/A
+61,Shelvin Mack,FT,None,3:58,3,Grizzlies,Jazz,62 - 54,0,N/A,1,N/A
+62,Dante Exum,SUBSTITUTION,Rubio Ricky,3:58,3,Jazz,Grizzlies,62 - 54,1,N/A,N/A,N/A
+63,Wayne Selden,SUBSTITUTION,Brooks Dillon,3:58,3,Grizzlies,Jazz,62 - 54,0,N/A,N/A,N/A
+64,Marc Gasol,FG_MISS,None,3:43,3,Grizzlies,Jazz,62 - 54,0,22,2,Jumper
+65,Jae Crowder,DEFENSIVE_REBOUND,None,3:41,3,Jazz,Grizzlies,62 - 54,1,N/A,N/A,N/A
+66,Royce O'Neale,FG_MISS,None,3:27,3,Jazz,Grizzlies,62 - 54,1,0,2,Layup
+67,Marc Gasol,DEFENSIVE_REBOUND,None,3:24,3,Grizzlies,Jazz,62 - 54,0,N/A,N/A,N/A
+68,Garrett Temple,FG_MISS,None,3:08,3,Grizzlies,Jazz,62 - 54,0,21,2,Jumper
+69,Royce O'Neale,DEFENSIVE_REBOUND,None,3:07,3,Jazz,Grizzlies,62 - 54,1,N/A,N/A,N/A
+70,Garrett Temple,FOUL_ON_FLOOR,None,2:58,3,Grizzlies,Jazz,62 - 54,0,N/A,N/A,N/A
+71,Team,Unknown,None,2:58,3,Grizzlies,Jazz,62 - 54,0,N/A,N/A,N/A
+72,Grayson Allen,SUBSTITUTION,Gobert Rudy,2:58,3,Jazz,Grizzlies,62 - 54,1,N/A,N/A,N/A
+73,Derrick Favors,SUBSTITUTION,Mitchell Donovan,2:58,3,Jazz,Grizzlies,62 - 54,1,N/A,N/A,N/A
+74,Mike Conley,SUBSTITUTION,Temple Garrett,2:58,3,Grizzlies,Jazz,62 - 54,0,N/A,N/A,N/A
+75,Jaren Jackson,SUBSTITUTION,Gasol Marc,2:58,3,Grizzlies,Jazz,62 - 54,0,N/A,N/A,N/A
+76,Jae Crowder,FT,None,2:58,3,Jazz,Grizzlies,62 - 56,1,N/A,1,N/A
+77,Jae Crowder,FT_MISS,None,2:58,3,Jazz,Grizzlies,62 - 56,1,N/A,1,N/A
+78,Kyle Anderson,DEFENSIVE_REBOUND,None,2:56,3,Grizzlies,Jazz,62 - 56,0,N/A,N/A,N/A
+79,Kyle Anderson,FG_UNASSISTED,None,2:45,3,Grizzlies,Jazz,64 - 56,0,0,2,Layup
+80,Dante Exum,TURNOVER,Mike Conley,2:28,3,Jazz,Grizzlies,64 - 56,1,N/A,N/A,N/A
+81,Grayson Allen,FOUL_ON_FLOOR,None,2:27,3,Jazz,Grizzlies,64 - 56,1,N/A,N/A,N/A
+82,Mike Conley,FT,None,2:27,3,Grizzlies,Jazz,65 - 56,0,N/A,1,N/A
+83,Mike Conley,FT,None,2:27,3,Grizzlies,Jazz,66 - 56,0,N/A,1,N/A
+84,Wayne Selden,FG_MISS,None,2:10,3,Grizzlies,Jazz,66 - 56,0,7,2,Jumper
+85,Royce O'Neale,DEFENSIVE_REBOUND,None,2:07,3,Jazz,Grizzlies,66 - 56,1,N/A,N/A,N/A
+86,Jae Crowder,FG_ASSISTED,Royce O'Neale,2:04,3,Jazz,Grizzlies,66 - 58,1,0,2,Layup
+87,Kyle Anderson,FOUL_ON_FLOOR,None,2:00,3,Grizzlies,Jazz,66 - 58,0,N/A,N/A,N/A
+88,Kyle Anderson,TURNOVER,None,2:00,3,Grizzlies,Jazz,66 - 58,0,N/A,N/A,N/A
+89,Dante Exum,FG_MISS,None,1:50,3,Jazz,Grizzlies,66 - 58,1,25,3,Jumper
+90,Mike Conley,DEFENSIVE_REBOUND,None,1:45,3,Grizzlies,Jazz,66 - 58,0,N/A,N/A,N/A
+91,Mike Conley,FG_MISS,None,1:34,3,Grizzlies,Jazz,66 - 58,0,0,2,Layup
+92,Jae Crowder,DEFENSIVE_REBOUND,None,1:32,3,Jazz,Grizzlies,66 - 58,1,N/A,N/A,N/A
+93,Dante Exum,FG_MISS,None,1:26,3,Jazz,Grizzlies,66 - 58,1,0,2,Layup
+94,Jaren Jackson,DEFENSIVE_REBOUND,None,1:24,3,Grizzlies,Jazz,66 - 58,0,N/A,N/A,N/A
+95,Wayne Selden,FG_MISS,None,1:04,3,Grizzlies,Jazz,66 - 58,0,0,2,Layup
+96,Dante Exum,DEFENSIVE_REBOUND,None,1:02,3,Jazz,Grizzlies,66 - 58,1,N/A,N/A,N/A
+97,Royce O'Neale,FG_ASSISTED,Dante Exum,53.9,3,Jazz,Grizzlies,66 - 61,1,25,3,Jumper
+98,Grayson Allen,FOUL_ON_FLOOR,None,31.7,3,Jazz,Grizzlies,66 - 61,1,N/A,N/A,N/A
+99,Shelvin Mack,FT_MISS,None,31.7,3,Grizzlies,Jazz,66 - 61,0,N/A,1,N/A
+100,Team,OFFENSIVE_REBOUND,None,31.7,3,Grizzlies,Jazz,66 - 61,0,N/A,N/A,N/A
+101,Dillon Brooks,SUBSTITUTION,Conley Mike,31.7,3,Grizzlies,Jazz,66 - 61,0,N/A,N/A,N/A
+102,Shelvin Mack,FT,None,31.7,3,Grizzlies,Jazz,67 - 61,0,N/A,1,N/A
+103,Team,Unknown,None,15.9,3,Jazz,Grizzlies,67 - 61,1,N/A,N/A,N/A
+104,Jaren Jackson,FOUL_ON_FLOOR,None,12.5,3,Grizzlies,Jazz,67 - 61,0,N/A,N/A,N/A
+105,Grayson Allen,FT,None,12.5,3,Jazz,Grizzlies,67 - 62,1,N/A,1,N/A
+106,Mike Conley,SUBSTITUTION,Anderson Kyle,12.5,3,Grizzlies,Jazz,67 - 62,0,N/A,N/A,N/A
+107,Grayson Allen,FT,None,12.5,3,Jazz,Grizzlies,67 - 63,1,N/A,1,N/A
+108,Mike Conley,FG_UNASSISTED,None,1.1,3,Grizzlies,Jazz,70 - 63,0,25,3,Jumper
+109,End of,Unknown,None,0.0,3,Jazz,Grizzlies,70 - 63,1,N/A,N/A,N/A
+0,Joe Ingles,SUBSTITUTION,O'Neale Royce,12:00,4,Jazz,Grizzlies,70 - 63,1,N/A,N/A,N/A
+1,Omri Casspi,SUBSTITUTION,Selden Wayne,12:00,4,Grizzlies,Jazz,70 - 63,0,N/A,N/A,N/A
+2,Garrett Temple,SUBSTITUTION,Brooks Dillon,12:00,4,Grizzlies,Jazz,70 - 63,0,N/A,N/A,N/A
+3,Dante Exum,FG_MISS,None,11:44,4,Jazz,Grizzlies,70 - 63,1,0,2,Dunk
+4,Joe Ingles,OFFENSIVE_REBOUND,None,11:41,4,Jazz,Grizzlies,70 - 63,1,N/A,N/A,N/A
+5,Dante Exum,FG_MISS,None,11:34,4,Jazz,Grizzlies,70 - 63,1,25,3,Jumper
+6,Garrett Temple,DEFENSIVE_REBOUND,None,11:32,4,Grizzlies,Jazz,70 - 63,0,N/A,N/A,N/A
+7,Jaren Jackson,FG_MISS,Derrick Favors,11:11,4,Jazz,Grizzlies,70 - 63,0,4,2,Jumper
+8,Derrick Favors,DEFENSIVE_REBOUND,None,11:08,4,Jazz,Grizzlies,70 - 63,1,N/A,N/A,N/A
+9,Dante Exum,FG_MISS,None,10:53,4,Jazz,Grizzlies,70 - 63,1,24,3,Jumper
+10,Mike Conley,DEFENSIVE_REBOUND,None,10:49,4,Grizzlies,Jazz,70 - 63,0,N/A,N/A,N/A
+11,Mike Conley,FG_MISS,None,10:33,4,Grizzlies,Jazz,70 - 63,0,12,2,Jumper
+12,Jae Crowder,DEFENSIVE_REBOUND,None,10:32,4,Jazz,Grizzlies,70 - 63,1,N/A,N/A,N/A
+13,Mike Conley,FOUL_ON_FLOOR,None,10:20,4,Grizzlies,Jazz,70 - 63,0,N/A,N/A,N/A
+14,Ricky Rubio,SUBSTITUTION,Exum Dante,10:20,4,Jazz,Grizzlies,70 - 63,1,N/A,N/A,N/A
+15,Georges Niang,SUBSTITUTION,Crowder Jae,10:20,4,Jazz,Grizzlies,70 - 63,1,N/A,N/A,N/A
+16,Marc Gasol,SUBSTITUTION,Jackson Jaren,10:20,4,Grizzlies,Jazz,70 - 63,0,N/A,N/A,N/A
+17,Kyle Anderson,SUBSTITUTION,Conley Mike,10:20,4,Grizzlies,Jazz,70 - 63,0,N/A,N/A,N/A
+18,Derrick Favors,FG_MISS,None,10:14,4,Jazz,Grizzlies,70 - 63,1,11,2,Jumper
+19,Joe Ingles,OFFENSIVE_REBOUND,None,10:11,4,Jazz,Grizzlies,70 - 63,1,N/A,N/A,N/A
+20,Derrick Favors,FG_MISS,None,10:03,4,Jazz,Grizzlies,70 - 63,1,6,2,Jumper
+21,Omri Casspi,DEFENSIVE_REBOUND,None,10:01,4,Grizzlies,Jazz,70 - 63,0,N/A,N/A,N/A
+22,Omri Casspi,FG_MISS,None,9:52,4,Grizzlies,Jazz,70 - 63,0,26,3,Jumper
+23,Team,DEFENSIVE_REBOUND,None,9:50,4,Jazz,Grizzlies,70 - 63,1,N/A,N/A,N/A
+24,Donovan Mitchell,SUBSTITUTION,Allen Grayson,9:50,4,Jazz,Grizzlies,70 - 63,1,N/A,N/A,N/A
+25,Derrick Favors,FG_ASSISTED,Ricky Rubio,9:31,4,Jazz,Grizzlies,70 - 65,1,0,2,Layup
+26,Shelvin Mack,FG_MISS,Derrick Favors,9:11,4,Jazz,Grizzlies,70 - 65,0,0,2,Layup
+27,Team,OFFENSIVE_REBOUND,None,9:11,4,Grizzlies,Jazz,70 - 65,0,N/A,N/A,N/A
+28,Marc Gasol,FG_MISS,None,9:09,4,Grizzlies,Jazz,70 - 65,0, ,2,Jumper
+29,Ricky Rubio,DEFENSIVE_REBOUND,None,9:06,4,Jazz,Grizzlies,70 - 65,1,N/A,N/A,N/A
+30,Donovan Mitchell,FG_MISS,None,8:59,4,Jazz,Grizzlies,70 - 65,1,24,3,Jumper
+31,Team,OFFENSIVE_REBOUND,None,8:57,4,Jazz,Grizzlies,70 - 65,1,N/A,N/A,N/A
+32,Joe Ingles,FG_MISS,None,8:48,4,Jazz,Grizzlies,70 - 65,1,0,2,Layup
+33,Marc Gasol,DEFENSIVE_REBOUND,None,8:46,4,Grizzlies,Jazz,70 - 65,0,N/A,N/A,N/A
+34,Team,Unknown,None,8:42,4,Grizzlies,Jazz,70 - 65,0,N/A,N/A,N/A
+35,Wayne Selden,SUBSTITUTION,Casspi Omri,8:42,4,Grizzlies,Jazz,70 - 65,0,N/A,N/A,N/A
+36,Marc Gasol,FG_MISS,None,8:25,4,Grizzlies,Jazz,70 - 65,0,10,2,Jumper
+37,Derrick Favors,DEFENSIVE_REBOUND,None,8:22,4,Jazz,Grizzlies,70 - 65,1,N/A,N/A,N/A
+38,Marc Gasol,FOUL_ON_FLOOR,None,8:14,4,Grizzlies,Jazz,70 - 65,0,N/A,N/A,N/A
+39,Donovan Mitchell,FT_MISS,None,8:14,4,Jazz,Grizzlies,70 - 65,1,N/A,1,N/A
+40,Team,OFFENSIVE_REBOUND,None,8:14,4,Jazz,Grizzlies,70 - 65,1,N/A,N/A,N/A
+41,Donovan Mitchell,FT,None,8:14,4,Jazz,Grizzlies,70 - 66,1,N/A,1,N/A
+42,Shelvin Mack,FG_UNASSISTED,None,7:52,4,Grizzlies,Jazz,73 - 66,0,25,3,Jumper
+43,Donovan Mitchell,FG_MISS,None,7:38,4,Jazz,Grizzlies,73 - 66,1, ,2,Jumper
+44,Kyle Anderson,DEFENSIVE_REBOUND,None,7:35,4,Grizzlies,Jazz,73 - 66,0,N/A,N/A,N/A
+45,Shelvin Mack,TURNOVER,Donovan Mitchell,7:26,4,Grizzlies,Jazz,73 - 66,0,N/A,N/A,N/A
+46,Ricky Rubio,FG_MISS,None,7:20,4,Jazz,Grizzlies,73 - 66,1,23,3,Jumper
+47,Shelvin Mack,DEFENSIVE_REBOUND,None,7:17,4,Grizzlies,Jazz,73 - 66,0,N/A,N/A,N/A
+48,Kyle Anderson,FG_MISS,None,7:12,4,Grizzlies,Jazz,73 - 66,0, ,2,Jumper
+49,Joe Ingles,DEFENSIVE_REBOUND,None,7:10,4,Jazz,Grizzlies,73 - 66,1,N/A,N/A,N/A
+50,Ricky Rubio,FG_MISS,None,7:02,4,Jazz,Grizzlies,73 - 66,1,25,3,Jumper
+51,Marc Gasol,DEFENSIVE_REBOUND,None,6:59,4,Grizzlies,Jazz,73 - 66,0,N/A,N/A,N/A
+52,Derrick Favors,FOUL_ON_FLOOR,None,6:45,4,Jazz,Grizzlies,73 - 66,1,N/A,N/A,N/A
+53,Jae Crowder,SUBSTITUTION,Favors Derrick,6:45,4,Jazz,Grizzlies,73 - 66,1,N/A,N/A,N/A
+54,Rudy Gobert,SUBSTITUTION,Niang Georges,6:45,4,Jazz,Grizzlies,73 - 66,1,N/A,N/A,N/A
+55,Mike Conley,SUBSTITUTION,Anderson Kyle,6:45,4,Grizzlies,Jazz,73 - 66,0,N/A,N/A,N/A
+56,Shelvin Mack,FG_ASSISTED,Marc Gasol,6:33,4,Grizzlies,Jazz,76 - 66,0,25,3,Jumper
+57,Ricky Rubio,FG_MISS,None,6:18,4,Jazz,Grizzlies,76 - 66,1, ,2,Jumper
+58,Mike Conley,DEFENSIVE_REBOUND,None,6:16,4,Grizzlies,Jazz,76 - 66,0,N/A,N/A,N/A
+59,Mike Conley,FG_MISS,None,6:04,4,Grizzlies,Jazz,76 - 66,0,26,3,Jumper
+60,Jae Crowder,DEFENSIVE_REBOUND,None,6:02,4,Jazz,Grizzlies,76 - 66,1,N/A,N/A,N/A
+61,Donovan Mitchell,FG_MISS,None,5:58,4,Jazz,Grizzlies,76 - 66,1,0,2,Layup
+62,Shelvin Mack,DEFENSIVE_REBOUND,None,5:56,4,Grizzlies,Jazz,76 - 66,0,N/A,N/A,N/A
+63,Wayne Selden,FG_ASSISTED,Shelvin Mack,5:48,4,Grizzlies,Jazz,79 - 66,0,23,3,Jumper
+64,Team,Unknown,None,5:48,4,Jazz,Grizzlies,79 - 66,1,N/A,N/A,N/A
+65,Grayson Allen,SUBSTITUTION,Rubio Ricky,5:48,4,Jazz,Grizzlies,79 - 66,1,N/A,N/A,N/A
+66,Marc Gasol,FOUL_ON_FLOOR,None,5:35,4,Grizzlies,Jazz,79 - 66,0,N/A,N/A,N/A
+67,Grayson Allen,FG_ASSISTED,Donovan Mitchell,5:23,4,Jazz,Grizzlies,79 - 69,1,22,3,Jumper
+68,Mike Conley,FG_MISS,None,5:01,4,Grizzlies,Jazz,79 - 69,0,25,3,Jumper
+69,Joe Ingles,DEFENSIVE_REBOUND,None,4:59,4,Jazz,Grizzlies,79 - 69,1,N/A,N/A,N/A
+70,Wayne Selden,FOUL_ON_FLOOR,None,4:51,4,Grizzlies,Jazz,79 - 69,0,N/A,N/A,N/A
+71,Rudy Gobert,FT,None,4:51,4,Jazz,Grizzlies,79 - 70,1,N/A,1,N/A
+72,Rudy Gobert,FT_MISS,None,4:51,4,Jazz,Grizzlies,79 - 70,1,N/A,1,N/A
+73,Wayne Selden,DEFENSIVE_REBOUND,None,4:49,4,Grizzlies,Jazz,79 - 70,0,N/A,N/A,N/A
+74,Mike Conley,FG_UNASSISTED,None,4:32,4,Grizzlies,Jazz,81 - 70,0,0,2,Layup
+75,Jae Crowder,FG_MISS,None,4:25,4,Jazz,Grizzlies,81 - 70,1,25,3,Jumper
+76,Team,DEFENSIVE_REBOUND,None,4:23,4,Grizzlies,Jazz,81 - 70,0,N/A,N/A,N/A
+77,Joe Ingles,FOUL_ON_FLOOR,None,4:12,4,Jazz,Grizzlies,81 - 70,1,N/A,N/A,N/A
+78,Mike Conley,FT,None,4:12,4,Grizzlies,Jazz,82 - 70,0,N/A,1,N/A
+79,Mike Conley,FT,None,4:12,4,Grizzlies,Jazz,83 - 70,0,N/A,1,N/A
+80,Mike Conley,FT,None,4:12,4,Grizzlies,Jazz,84 - 70,0,N/A,1,N/A
+81,Donovan Mitchell,TURNOVER,Wayne Selden,3:51,4,Jazz,Grizzlies,84 - 70,1,N/A,N/A,N/A
+82,Garrett Temple,FG_ASSISTED,Wayne Selden,3:49,4,Grizzlies,Jazz,86 - 70,0,0,2,Layup
+83,Team,Unknown,None,3:49,4,Jazz,Grizzlies,86 - 70,1,N/A,N/A,N/A
+84,Marc Gasol,FOUL_ON_FLOOR,None,3:41,4,Grizzlies,Jazz,86 - 70,0,N/A,N/A,N/A
+85,Jaren Jackson,SUBSTITUTION,Gasol Marc,3:41,4,Grizzlies,Jazz,86 - 70,0,N/A,N/A,N/A
+86,Jae Crowder,FT,None,3:41,4,Jazz,Grizzlies,86 - 71,1,N/A,1,N/A
+87,Jae Crowder,FT,None,3:41,4,Jazz,Grizzlies,86 - 72,1,N/A,1,N/A
+88,Mike Conley,FG_MISS,None,3:29,4,Grizzlies,Jazz,86 - 72,0,22,2,Jumper
+89,Jae Crowder,DEFENSIVE_REBOUND,None,3:27,4,Jazz,Grizzlies,86 - 72,1,N/A,N/A,N/A
+90,Jae Crowder,FG_ASSISTED,Joe Ingles,3:22,4,Jazz,Grizzlies,86 - 75,1,25,3,Jumper
+91,Shelvin Mack,FG_MISS,None,2:58,4,Grizzlies,Jazz,86 - 75,0,21,2,Jumper
+92,Jae Crowder,DEFENSIVE_REBOUND,None,2:56,4,Jazz,Grizzlies,86 - 75,1,N/A,N/A,N/A
+93,Rudy Gobert,FG_ASSISTED,Joe Ingles,2:43,4,Jazz,Grizzlies,86 - 77,1,0,2,Dunk
+94,Team,Unknown,None,2:43,4,Grizzlies,Jazz,86 - 77,0,N/A,N/A,N/A
+95,Wayne Selden,FG_MISS,None,2:18,4,Grizzlies,Jazz,86 - 77,0,0,2,Layup
+96,Wayne Selden,OFFENSIVE_REBOUND,None,2:18,4,Grizzlies,Jazz,86 - 77,0,N/A,N/A,N/A
+97,Mike Conley,FG_UNASSISTED,None,2:05,4,Grizzlies,Jazz,88 - 77,0,8,2,Jumper
+98,Donovan Mitchell,FG_MISS,None,1:53,4,Jazz,Grizzlies,88 - 77,1,0,2,Layup
+99,Jaren Jackson,DEFENSIVE_REBOUND,None,1:52,4,Grizzlies,Jazz,88 - 77,0,N/A,N/A,N/A
+100,foul 88,FOUL_ON_FLOOR,None,1:52,4,Jazz,Grizzlies,88 - 77,1,N/A,N/A,N/A
+101,Rudy Gobert,FOUL_ON_FLOOR,None,1:52,4,Jazz,Grizzlies,88 - 77,1,N/A,N/A,N/A
+102,Mike Conley,FG_MISS,None,1:36,4,Grizzlies,Jazz,88 - 77,0,25,3,Jumper
+103,Joe Ingles,DEFENSIVE_REBOUND,None,1:33,4,Jazz,Grizzlies,88 - 77,1,N/A,N/A,N/A
+104,Grayson Allen,FG_ASSISTED,Rudy Gobert,1:20,4,Jazz,Grizzlies,88 - 79,1,0,2,Dunk
+105,Jae Crowder,Unknown,None,1:12,4,Jazz,Grizzlies,88 - 79,1,N/A,N/A,N/A
+106,Wayne Selden,FG_MISS,None,1:00,4,Grizzlies,Jazz,88 - 79,0,25,3,Jumper
+107,Rudy Gobert,DEFENSIVE_REBOUND,None,58.0,4,Jazz,Grizzlies,88 - 79,1,N/A,N/A,N/A
+108,Rudy Gobert,FG_ASSISTED,Donovan Mitchell,50.9,4,Jazz,Grizzlies,88 - 81,1,0,2,Layup
+109,Wayne Selden,FOUL_ON_FLOOR,None,50.9,4,Grizzlies,Jazz,88 - 81,0,N/A,N/A,N/A
+110,Kyle Anderson,SUBSTITUTION,Jackson Jaren,50.9,4,Grizzlies,Jazz,88 - 81,0,N/A,N/A,N/A
+111,Rudy Gobert,FT,None,50.9,4,Jazz,Grizzlies,88 - 82,1,N/A,1,N/A
+112,Mike Conley,FG_MISS,Rudy Gobert,30.1,4,Jazz,Grizzlies,88 - 82,0,0,2,Layup
+113,Team,OFFENSIVE_REBOUND,None,30.1,4,Grizzlies,Jazz,88 - 82,0,N/A,N/A,N/A
+114,Team,Unknown,None,30.1,4,Grizzlies,Jazz,88 - 82,0,N/A,N/A,N/A
+115,Wayne Selden,FG_MISS,None,26.8,4,Grizzlies,Jazz,88 - 82,0,25,2,Jumper
+116,Rudy Gobert,DEFENSIVE_REBOUND,None,24.1,4,Jazz,Grizzlies,88 - 82,1,N/A,N/A,N/A
+117,Team,Unknown,None,24.1,4,Jazz,Grizzlies,88 - 82,1,N/A,N/A,N/A
+118,Ricky Rubio,SUBSTITUTION,Allen Grayson,24.1,4,Jazz,Grizzlies,88 - 82,1,N/A,N/A,N/A
+119,Donovan Mitchell,FG_MISS,None,22.4,4,Jazz,Grizzlies,88 - 82,1,26,3,Jumper
+120,Team,DEFENSIVE_REBOUND,None,19.6,4,Grizzlies,Jazz,88 - 82,0,N/A,N/A,N/A
+121,Rudy Gobert,FOUL_ON_FLOOR,None,18.8,4,Jazz,Grizzlies,88 - 82,1,N/A,N/A,N/A
+122,Mike Conley,FT,None,18.8,4,Grizzlies,Jazz,89 - 82,0,N/A,1,N/A
+123,Derrick Favors,SUBSTITUTION,Rubio Ricky,18.8,4,Jazz,Grizzlies,89 - 82,1,N/A,N/A,N/A
+124,Mike Conley,FT,None,18.8,4,Grizzlies,Jazz,90 - 82,0,N/A,1,N/A
+125,Team,Unknown,None,18.8,4,Jazz,Grizzlies,90 - 82,1,N/A,N/A,N/A
+126,Ricky Rubio,SUBSTITUTION,Favors Derrick,18.8,4,Jazz,Grizzlies,90 - 82,1,N/A,N/A,N/A
+127,Donovan Mitchell,FG_MISS,None,17.4,4,Jazz,Grizzlies,90 - 82,1,27,3,Jumper
+128,Rudy Gobert,OFFENSIVE_REBOUND,None,15.4,4,Jazz,Grizzlies,90 - 82,1,N/A,N/A,N/A
+129,Rudy Gobert,FG_UNASSISTED,None,15.4,4,Jazz,Grizzlies,90 - 84,1,0,2,Dunk
+130,Jae Crowder,FOUL_ON_FLOOR,None,14.4,4,Jazz,Grizzlies,90 - 84,1,N/A,N/A,N/A
+131,Wayne Selden,FT,None,14.4,4,Grizzlies,Jazz,91 - 84,0,N/A,1,N/A
+132,Wayne Selden,FT,None,14.4,4,Grizzlies,Jazz,92 - 84,0,N/A,1,N/A
+133,Donovan Mitchell,FG_MISS,None,9.7,4,Jazz,Grizzlies,92 - 84,1,25,3,Jumper
+134,Team,DEFENSIVE_REBOUND,None,8.1,4,Grizzlies,Jazz,92 - 84,0,N/A,N/A,N/A
+135,End of,Unknown,None,0.0,4,Jazz,Grizzlies,92 - 84,1,N/A,N/A,N/A
+136,End of,Unknown,None,0.0,4,Jazz,Grizzlies,92 - 84,1,N/A,N/A,N/A

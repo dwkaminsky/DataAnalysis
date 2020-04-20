@@ -1,0 +1,524 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Deandre Ayton,JUMP_BALL,None,12:00,1,Suns,Kings,0 - 0,0,N/A,N/A,N/A
+1,Devin Booker,FG_MISS,None,11:38,1,Suns,Kings,0 - 0,0,18,2,Jumper
+2,De'Aaron Fox,DEFENSIVE_REBOUND,None,11:36,1,Kings,Suns,0 - 0,1,N/A,N/A,N/A
+3,Nemanja Bjelica,FG_ASSISTED,Willie Cauley-Stein,11:19,1,Kings,Suns,0 - 2,1,0,2,Layup
+4,Tyler Johnson,TURNOVER,None,11:03,1,Suns,Kings,0 - 2,0,N/A,N/A,N/A
+5,Willie Cauley-Stein,FG_ASSISTED,De'Aaron Fox,10:56,1,Kings,Suns,0 - 4,1,0,2,Dunk
+6,Deandre Ayton,FG_UNASSISTED,None,10:34,1,Suns,Kings,2 - 4,0,7,2,Jumper
+7,Nemanja Bjelica,FG_MISS,None,10:26,1,Kings,Suns,2 - 4,1,25,3,Jumper
+8,Mikal Bridges,DEFENSIVE_REBOUND,None,10:22,1,Suns,Kings,2 - 4,0,N/A,N/A,N/A
+9,Devin Booker,TURNOVER,Buddy Hield,10:13,1,Suns,Kings,2 - 4,0,N/A,N/A,N/A
+10,Mikal Bridges,FOUL_ON_FLOOR,None,10:11,1,Suns,Kings,2 - 4,0,N/A,N/A,N/A
+11,Harrison Barnes,FG_ASSISTED,Nemanja Bjelica,10:02,1,Kings,Suns,2 - 6,1,0,2,Layup
+12,Devin Booker,TURNOVER,De'Aaron Fox,9:43,1,Suns,Kings,2 - 6,0,N/A,N/A,N/A
+13,Buddy Hield,FG_ASSISTED,De'Aaron Fox,9:39,1,Kings,Suns,2 - 8,1,-,2,Jumper
+14,Team,Unknown,None,9:39,1,Suns,Kings,2 - 6,0,N/A,N/A,N/A
+15,Devin Booker,FG_MISS,None,9:21,1,Suns,Kings,2 - 8,0,26,3,Jumper
+16,Buddy Hield,DEFENSIVE_REBOUND,None,9:17,1,Kings,Suns,2 - 8,1,N/A,N/A,N/A
+17,Nemanja Bjelica,FG_ASSISTED,Harrison Barnes,9:00,1,Kings,Suns,2 - 10,1,9,2,Jumper
+18,Tyler Johnson,FG_UNASSISTED,None,8:46,1,Suns,Kings,4 - 10,0,19,2,Jumper
+19,Nemanja Bjelica,FG_MISS,Josh Jackson,8:28,1,Suns,Kings,4 - 10,1,4,2,Jumper
+20,Devin Booker,DEFENSIVE_REBOUND,None,8:25,1,Suns,Kings,4 - 10,0,N/A,N/A,N/A
+21,Josh Jackson,FG_MISS,Willie Cauley-Stein,8:17,1,Kings,Suns,4 - 10,0,0,2,Layup
+22,Team,DEFENSIVE_REBOUND,None,8:17,1,Kings,Suns,4 - 10,1,N/A,N/A,N/A
+23,Tyler Johnson,FOUL_ON_FLOOR,None,8:11,1,Suns,Kings,4 - 10,0,N/A,N/A,N/A
+24,De'Aaron Fox,FT,None,8:11,1,Kings,Suns,4 - 11,1,N/A,1,N/A
+25,De'Aaron Fox,FT,None,8:11,1,Kings,Suns,4 - 12,1,N/A,1,N/A
+26,Mikal Bridges,FG_MISS,None,7:55,1,Suns,Kings,4 - 12,0,25,3,Jumper
+27,Buddy Hield,DEFENSIVE_REBOUND,None,7:52,1,Kings,Suns,4 - 12,1,N/A,N/A,N/A
+28,Buddy Hield,FG_MISS,None,7:46,1,Kings,Suns,4 - 12,1,0,2,Layup
+29,Tyler Johnson,DEFENSIVE_REBOUND,None,7:43,1,Suns,Kings,4 - 12,0,N/A,N/A,N/A
+30,De'Aaron Fox,FOUL_ON_FLOOR,None,7:32,1,Kings,Suns,4 - 12,1,N/A,N/A,N/A
+31,Devin Booker,FT,None,7:32,1,Suns,Kings,5 - 12,0,N/A,1,N/A
+32,Devin Booker,FT,None,7:32,1,Suns,Kings,6 - 12,0,N/A,1,N/A
+33,De'Aaron Fox,FG_UNASSISTED,None,7:23,1,Kings,Suns,6 - 15,1,26,3,Jumper
+34,Josh Jackson,FG_MISS,None,7:09,1,Suns,Kings,6 - 15,0,8,2,Jumper
+35,Harrison Barnes,DEFENSIVE_REBOUND,None,7:06,1,Kings,Suns,6 - 15,1,N/A,N/A,N/A
+36,Harrison Barnes,FG_MISS,None,7:01,1,Kings,Suns,6 - 15,1,30,3,Jumper
+37,Willie Cauley-Stein,OFFENSIVE_REBOUND,None,6:58,1,Kings,Suns,6 - 15,1,N/A,N/A,N/A
+38,Willie Cauley-Stein,FG_MISS,None,6:57,1,Kings,Suns,6 - 15,1,7,2,Jumper
+39,Nemanja Bjelica,OFFENSIVE_REBOUND,None,6:57,1,Kings,Suns,6 - 15,1,N/A,N/A,N/A
+40,Harrison Barnes,TURNOVER,Mikal Bridges,6:46,1,Kings,Suns,6 - 15,1,N/A,N/A,N/A
+41,Mikal Bridges,FG_UNASSISTED,None,6:43,1,Suns,Kings,8 - 15,0, ,2,Jumper
+42,Buddy Hield,FG_MISS,None,6:25,1,Kings,Suns,8 - 15,1,15,2,Jumper
+43,Nemanja Bjelica,OFFENSIVE_REBOUND,None,6:25,1,Kings,Suns,8 - 15,1,N/A,N/A,N/A
+44,Nemanja Bjelica,FG_UNASSISTED,None,6:21,1,Kings,Suns,8 - 17,1, ,2,Jumper
+45,Deandre Ayton,FG_ASSISTED,Mikal Bridges,6:05,1,Suns,Kings,10 - 17,0,0,2,Layup
+46,Nemanja Bjelica,FG_MISS,Deandre Ayton,5:55,1,Suns,Kings,10 - 17,1,3,2,Jumper
+47,Deandre Ayton,DEFENSIVE_REBOUND,None,5:52,1,Suns,Kings,10 - 17,0,N/A,N/A,N/A
+48,Tyler Johnson,FG_MISS,None,5:48,1,Suns,Kings,10 - 17,0,24,3,Jumper
+49,Deandre Ayton,OFFENSIVE_REBOUND,None,5:44,1,Suns,Kings,10 - 17,0,N/A,N/A,N/A
+50,Tyler Johnson,FG_ASSISTED,Devin Booker,5:41,1,Suns,Kings,13 - 17,0,25,3,Jumper
+51,De'Aaron Fox,FG_MISS,None,5:31,1,Kings,Suns,13 - 17,1,24,2,Jumper
+52,Devin Booker,DEFENSIVE_REBOUND,None,5:28,1,Suns,Kings,13 - 17,0,N/A,N/A,N/A
+53,Devin Booker,FG_UNASSISTED,None,5:22,1,Suns,Kings,15 - 17,0,9,2,Jumper
+54,De'Aaron Fox,FOUL_ON_FLOOR,None,5:22,1,Kings,Suns,15 - 17,1,N/A,N/A,N/A
+55,Marvin Bagley,SUBSTITUTION,Cauley-Stein Willie,5:22,1,Kings,Suns,15 - 17,1,N/A,N/A,N/A
+56,Kelly Oubre,SUBSTITUTION,Jackson Josh,5:22,1,Suns,Kings,15 - 17,0,N/A,N/A,N/A
+57,Devin Booker,FT_MISS,None,5:22,1,Suns,Kings,15 - 17,0,N/A,1,N/A
+58,Nemanja Bjelica,DEFENSIVE_REBOUND,None,5:19,1,Kings,Suns,15 - 17,1,N/A,N/A,N/A
+59,Team,Unknown,None,5:09,1,Kings,Suns,15 - 17,1,N/A,N/A,N/A
+60,Bogdan Bogdanovic,SUBSTITUTION,Fox De'Aaron,5:09,1,Kings,Suns,15 - 17,1,N/A,N/A,N/A
+61,Buddy Hield,FG_MISS,None,5:02,1,Kings,Suns,15 - 17,1,26,3,Jumper
+62,Buddy Hield,OFFENSIVE_REBOUND,None,4:58,1,Kings,Suns,15 - 17,1,N/A,N/A,N/A
+63,Harrison Barnes,FG_MISS,None,4:48,1,Kings,Suns,15 - 17,1,27,3,Jumper
+64,Nemanja Bjelica,OFFENSIVE_REBOUND,None,4:44,1,Kings,Suns,15 - 17,1,N/A,N/A,N/A
+65,Nemanja Bjelica,FG_MISS,None,4:43,1,Kings,Suns,15 - 17,1,5,2,Jumper
+66,Deandre Ayton,DEFENSIVE_REBOUND,None,4:38,1,Suns,Kings,15 - 17,0,N/A,N/A,N/A
+67,Tyler Johnson,FG_MISS,None,4:26,1,Suns,Kings,15 - 17,0,26,3,Jumper
+68,Bogdan Bogdanovic,DEFENSIVE_REBOUND,None,4:24,1,Kings,Suns,15 - 17,1,N/A,N/A,N/A
+69,Marvin Bagley,FG_ASSISTED,Bogdan Bogdanovic,4:21,1,Kings,Suns,15 - 19,1,0,2,Dunk
+70,Devin Booker,FG_UNASSISTED,None,4:03,1,Suns,Kings,17 - 19,0,10,2,Jumper
+71,Mikal Bridges,FOUL_ON_FLOOR,None,3:46,1,Suns,Kings,17 - 19,0,N/A,N/A,N/A
+72,Nemanja Bjelica,FT,None,3:46,1,Kings,Suns,17 - 20,1,N/A,1,N/A
+73,Yogi Ferrell,SUBSTITUTION,Hield Buddy,3:46,1,Kings,Suns,17 - 20,1,N/A,N/A,N/A
+74,Richaun Holmes,SUBSTITUTION,Johnson Tyler,3:46,1,Suns,Kings,17 - 20,0,N/A,N/A,N/A
+75,Elie Okobo,SUBSTITUTION,Ayton Deandre,3:46,1,Suns,Kings,17 - 20,0,N/A,N/A,N/A
+76,Nemanja Bjelica,FT,None,3:46,1,Kings,Suns,17 - 21,1,N/A,1,N/A
+77,Devin Booker,TURNOVER,Bogdan Bogdanovic,3:29,1,Suns,Kings,17 - 21,0,N/A,N/A,N/A
+78,Yogi Ferrell,FG_ASSISTED,Bogdan Bogdanovic,3:25,1,Kings,Suns,17 - 24,1,25,3,Jumper
+79,Kelly Oubre,FG_MISS,None,3:02,1,Suns,Kings,17 - 24,0,0,2,Layup
+80,Marvin Bagley,DEFENSIVE_REBOUND,None,3:00,1,Kings,Suns,17 - 24,1,N/A,N/A,N/A
+81,Harrison Barnes,FG_ASSISTED,Bogdan Bogdanovic,2:55,1,Kings,Suns,17 - 26,1, ,2,Jumper
+82,Team,Unknown,None,2:55,1,Suns,Kings,17 - 26,0,N/A,N/A,N/A
+83,Team,Unknown,None,2:55,1,Suns,Kings,17 - 26,0,N/A,N/A,N/A
+84,Alec Burks,SUBSTITUTION,Barnes Harrison,2:55,1,Kings,Suns,17 - 26,1,N/A,N/A,N/A
+85,Harry Giles,SUBSTITUTION,Bjelica Nemanja,2:55,1,Kings,Suns,17 - 26,1,N/A,N/A,N/A
+86,Bogdan Bogdanovic,FOUL_ON_FLOOR,None,2:44,1,Kings,Suns,17 - 26,1,N/A,N/A,N/A
+87,Kelly Oubre,FG_ASSISTED,Devin Booker,2:35,1,Suns,Kings,19 - 26,0,0,2,Layup
+88,Elie Okobo,FOUL_ON_FLOOR,None,2:20,1,Suns,Kings,19 - 26,0,N/A,N/A,N/A
+89,Dragan Bender,SUBSTITUTION,Bridges Mikal,2:20,1,Suns,Kings,19 - 26,0,N/A,N/A,N/A
+90,Devin Booker,FOUL_ON_FLOOR,None,2:17,1,Suns,Kings,19 - 26,0,N/A,N/A,N/A
+91,Bogdan Bogdanovic,FT_MISS,None,2:17,1,Kings,Suns,19 - 26,1,N/A,1,N/A
+92,Team,OFFENSIVE_REBOUND,None,2:17,1,Kings,Suns,19 - 26,1,N/A,N/A,N/A
+93,Bogdan Bogdanovic,FT,None,2:17,1,Kings,Suns,19 - 27,1,N/A,1,N/A
+94,Devin Booker,FG_ASSISTED,Richaun Holmes,2:04,1,Suns,Kings,21 - 27,0,0,2,Layup
+95,Marvin Bagley,FG_ASSISTED,Yogi Ferrell,1:54,1,Kings,Suns,21 - 29,1, ,2,Jumper
+96,Richaun Holmes,TURNOVER,None,1:44,1,Suns,Kings,21 - 29,0,N/A,N/A,N/A
+97,Richaun Holmes,FOUL_ON_FLOOR,None,1:36,1,Suns,Kings,21 - 29,0,N/A,N/A,N/A
+98,Marvin Bagley,FT,None,1:36,1,Kings,Suns,21 - 30,1,N/A,1,N/A
+99,Marvin Bagley,FT_MISS,None,1:36,1,Kings,Suns,21 - 30,1,N/A,1,N/A
+100,Richaun Holmes,DEFENSIVE_REBOUND,None,1:33,1,Suns,Kings,21 - 30,0,N/A,N/A,N/A
+101,Devin Booker,TURNOVER,agley III,1:20,1,Suns,Kings,21 - 30,0,N/A,N/A,N/A
+102,Marvin Bagley,TURNOVER,Kelly Oubre,1:15,1,Kings,Suns,21 - 30,1,N/A,N/A,N/A
+103,Kelly Oubre,FG_MISS,None,1:10,1,Suns,Kings,21 - 30,0, ,2,Jumper
+104,Dragan Bender,OFFENSIVE_REBOUND,None,1:05,1,Suns,Kings,21 - 30,0,N/A,N/A,N/A
+105,Dragan Bender,FG_UNASSISTED,None,1:04,1,Suns,Kings,23 - 30,0, ,2,Jumper
+106,Marvin Bagley,FG_ASSISTED,Yogi Ferrell,57.1,1,Kings,Suns,23 - 33,1,26,3,Jumper
+107,Elie Okobo,FG_MISS,None,35.2,1,Suns,Kings,23 - 33,0,23,3,Jumper
+108,Marvin Bagley,DEFENSIVE_REBOUND,None,32.8,1,Kings,Suns,23 - 33,1,N/A,N/A,N/A
+109,Bogdan Bogdanovic,FG_MISS,None,25.1,1,Kings,Suns,23 - 33,1,0,2,Layup
+110,Dragan Bender,DEFENSIVE_REBOUND,None,24.7,1,Suns,Kings,23 - 33,0,N/A,N/A,N/A
+111,Devin Booker,FG_MISS,None,3.4,1,Suns,Kings,23 - 33,0, ,2,Jumper
+112,Yogi Ferrell,DEFENSIVE_REBOUND,None,3.4,1,Kings,Suns,23 - 33,1,N/A,N/A,N/A
+113,Yogi Ferrell,FG_MISS,None,0.0,1,Kings,Suns,23 - 33,1,69,3,Jumper
+114,Team,OFFENSIVE_REBOUND,None,0.0,1,Kings,Suns,23 - 33,1,N/A,N/A,N/A
+115,End of,Unknown,None,0.0,1,Kings,Suns,23 - 33,1,N/A,N/A,N/A
+0,Jamal Crawford,SUBSTITUTION,Booker Devin,12:00,2,Suns,Kings,23 - 33,0,N/A,N/A,N/A
+1,Marvin Bagley,FG_MISS,None,11:39,2,Kings,Suns,23 - 33,1,9,2,Jumper
+2,Richaun Holmes,DEFENSIVE_REBOUND,None,11:37,2,Suns,Kings,23 - 33,0,N/A,N/A,N/A
+3,Kelly Oubre,TURNOVER,Yogi Ferrell,11:26,2,Suns,Kings,23 - 33,0,N/A,N/A,N/A
+4,Marvin Bagley,FG_ASSISTED,Yogi Ferrell,11:20,2,Kings,Suns,23 - 35,1,0,2,Dunk
+5,Richaun Holmes,FG_ASSISTED,Elie Okobo,11:01,2,Suns,Kings,25 - 35,0,0,2,Dunk
+6,Yogi Ferrell,FG_ASSISTED,Bogdan Bogdanovic,10:47,2,Kings,Suns,25 - 38,1,25,3,Jumper
+7,Elie Okobo,FG_MISS,None,10:27,2,Suns,Kings,25 - 38,0,26,3,Jumper
+8,Yogi Ferrell,DEFENSIVE_REBOUND,None,10:24,2,Kings,Suns,25 - 38,1,N/A,N/A,N/A
+9,Bogdan Bogdanovic,FG_UNASSISTED,None,10:12,2,Kings,Suns,25 - 40,1,14,2,Jumper
+10,Kelly Oubre,FG_MISS,None,9:50,2,Suns,Kings,25 - 40,0,24,3,Jumper
+11,Bogdan Bogdanovic,DEFENSIVE_REBOUND,None,9:48,2,Kings,Suns,25 - 40,1,N/A,N/A,N/A
+12,Richaun Holmes,FOUL_ON_FLOOR,None,9:43,2,Suns,Kings,25 - 40,0,N/A,N/A,N/A
+13,Marvin Bagley,FG_MISS,None,9:37,2,Kings,Suns,25 - 40,1,17,2,Jumper
+14,Dragan Bender,DEFENSIVE_REBOUND,None,9:34,2,Suns,Kings,25 - 40,0,N/A,N/A,N/A
+15,Kelly Oubre,FG_ASSISTED,Dragan Bender,9:24,2,Suns,Kings,27 - 40,0,8,2,Jumper
+16,Harry Giles,FG_MISS,None,9:14,2,Kings,Suns,27 - 40,1,0,2,Layup
+17,Dragan Bender,DEFENSIVE_REBOUND,None,9:11,2,Suns,Kings,27 - 40,0,N/A,N/A,N/A
+18,Richaun Holmes,FG_ASSISTED,Elie Okobo,8:57,2,Suns,Kings,29 - 40,0,0,2,Layup
+19,Team,Unknown,None,8:41,2,Kings,Suns,29 - 40,1,N/A,N/A,N/A
+20,Willie Cauley-Stein,SUBSTITUTION,Giles Harry,8:41,2,Kings,Suns,29 - 40,1,N/A,N/A,N/A
+21,De'Aaron Fox,SUBSTITUTION,III Bagley,8:41,2,Kings,Suns,29 - 40,1,N/A,N/A,N/A
+22,Marvin Bagley,SUBSTITUTION,Fox De'Aaron,8:41,2,Kings,Suns,29 - 40,1,N/A,N/A,N/A
+23,Yogi Ferrell,FG_MISS,None,8:32,2,Kings,Suns,29 - 40,1,25,3,Jumper
+24,Kelly Oubre,DEFENSIVE_REBOUND,None,8:29,2,Suns,Kings,29 - 40,0,N/A,N/A,N/A
+25,Elie Okobo,FG_MISS,None,8:12,2,Suns,Kings,29 - 40,0,0,2,Layup
+26,Alec Burks,DEFENSIVE_REBOUND,None,8:09,2,Kings,Suns,29 - 40,1,N/A,N/A,N/A
+27,Marvin Bagley,FG_MISS,None,7:59,2,Kings,Suns,29 - 40,1,6,2,Jumper
+28,Elie Okobo,DEFENSIVE_REBOUND,None,7:55,2,Suns,Kings,29 - 40,0,N/A,N/A,N/A
+29,Yogi Ferrell,Unknown,None,7:47,2,Kings,Suns,29 - 40,1,N/A,N/A,N/A
+30,De'Aaron Fox,SUBSTITUTION,Ferrell Yogi,7:47,2,Kings,Suns,29 - 40,1,N/A,N/A,N/A
+31,Josh Jackson,SUBSTITUTION,Okobo Elie,7:47,2,Suns,Kings,29 - 40,0,N/A,N/A,N/A
+32,Tyler Johnson,SUBSTITUTION,Crawford Jamal,7:47,2,Suns,Kings,29 - 40,0,N/A,N/A,N/A
+33,Tyler Johnson,FG_MISS,None,7:41,2,Suns,Kings,29 - 40,0,14,2,Jumper
+34,Tyler Johnson,OFFENSIVE_REBOUND,None,7:39,2,Suns,Kings,29 - 40,0,N/A,N/A,N/A
+35,Dragan Bender,FG_MISS,None,7:36,2,Suns,Kings,29 - 40,0,25,3,Jumper
+36,Richaun Holmes,OFFENSIVE_REBOUND,None,7:34,2,Suns,Kings,29 - 40,0,N/A,N/A,N/A
+37,Richaun Holmes,FG_MISS,None,7:31,2,Suns,Kings,29 - 40,0,10,2,Jumper
+38,Richaun Holmes,OFFENSIVE_REBOUND,None,7:31,2,Suns,Kings,29 - 40,0,N/A,N/A,N/A
+39,Richaun Holmes,FG_MISS,None,7:28,2,Suns,Kings,29 - 40,0,9,2,Jumper
+40,Willie Cauley-Stein,DEFENSIVE_REBOUND,None,7:25,2,Kings,Suns,29 - 40,1,N/A,N/A,N/A
+41,Bogdan Bogdanovic,FG_ASSISTED,Willie Cauley-Stein,7:06,2,Kings,Suns,29 - 42,1, ,2,Jumper
+42,Kelly Oubre,FG_MISS,None,6:51,2,Suns,Kings,29 - 42,0,26,3,Jumper
+43,Alec Burks,DEFENSIVE_REBOUND,None,6:48,2,Kings,Suns,29 - 42,1,N/A,N/A,N/A
+44,Tyler Johnson,FOUL_ON_FLOOR,None,6:43,2,Suns,Kings,29 - 42,0,N/A,N/A,N/A
+45,Bogdan Bogdanovic,FT,None,6:43,2,Kings,Suns,29 - 43,1,N/A,1,N/A
+46,Devin Booker,SUBSTITUTION,Oubre Kelly,6:43,2,Suns,Kings,29 - 43,0,N/A,N/A,N/A
+47,Deandre Ayton,SUBSTITUTION,Holmes Richaun,6:43,2,Suns,Kings,29 - 43,0,N/A,N/A,N/A
+48,Bogdan Bogdanovic,FT,None,6:43,2,Kings,Suns,29 - 44,1,N/A,1,N/A
+49,Dragan Bender,FG_MISS,None,6:29,2,Suns,Kings,29 - 44,0,25,3,Jumper
+50,Bogdan Bogdanovic,DEFENSIVE_REBOUND,None,6:25,2,Kings,Suns,29 - 44,1,N/A,N/A,N/A
+51,Willie Cauley-Stein,FG_ASSISTED,agley III,6:20,2,Kings,Suns,29 - 46,1,0,2,Layup
+52,Deandre Ayton,FOUL_ON_FLOOR,None,6:20,2,Suns,Kings,29 - 46,0,N/A,N/A,N/A
+53,Team,Unknown,None,6:20,2,Suns,Kings,29 - 46,0,N/A,N/A,N/A
+54,Willie Cauley-Stein,FT_MISS,None,6:20,2,Kings,Suns,29 - 46,1,N/A,1,N/A
+55,Dragan Bender,DEFENSIVE_REBOUND,None,6:17,2,Suns,Kings,29 - 46,0,N/A,N/A,N/A
+56,Tyler Johnson,FG_MISS,None,5:53,2,Suns,Kings,29 - 46,0,11,2,Jumper
+57,Team,OFFENSIVE_REBOUND,None,5:51,2,Suns,Kings,29 - 46,0,N/A,N/A,N/A
+58,Josh Jackson,FG_ASSISTED,Devin Booker,5:47,2,Suns,Kings,31 - 46,0,12,2,Jumper
+59,Marvin Bagley,FG_ASSISTED,De'Aaron Fox,5:21,2,Kings,Suns,31 - 48,1, ,2,Jumper
+60,Buddy Hield,SUBSTITUTION,Bogdanovic Bogdan,5:11,2,Kings,Suns,31 - 48,1,N/A,N/A,N/A
+61,Harrison Barnes,SUBSTITUTION,III Bagley,5:11,2,Kings,Suns,31 - 48,1,N/A,N/A,N/A
+62,Mikal Bridges,SUBSTITUTION,Bender Dragan,5:11,2,Suns,Kings,31 - 48,0,N/A,N/A,N/A
+63,Deandre Ayton,FG_MISS,Willie Cauley-Stein,5:01,2,Kings,Suns,31 - 48,0,0,2,Layup
+64,Team,DEFENSIVE_REBOUND,None,5:00,2,Kings,Suns,31 - 48,1,N/A,N/A,N/A
+65,Buddy Hield,FG_ASSISTED,De'Aaron Fox,4:50,2,Kings,Suns,31 - 50,1,0,2,Layup
+66,Deandre Ayton,FG_ASSISTED,Tyler Johnson,4:34,2,Suns,Kings,33 - 50,0,0,2,Layup
+67,De'Aaron Fox,FG_MISS,None,4:22,2,Kings,Suns,33 - 50,1,17,2,Jumper
+68,Deandre Ayton,DEFENSIVE_REBOUND,None,4:19,2,Suns,Kings,33 - 50,0,N/A,N/A,N/A
+69,Josh Jackson,FG_MISS,Willie Cauley-Stein,4:14,2,Kings,Suns,33 - 50,0,3,2,Jumper
+70,Mikal Bridges,OFFENSIVE_REBOUND,None,4:10,2,Suns,Kings,33 - 50,0,N/A,N/A,N/A
+71,Devin Booker,FG_ASSISTED,Tyler Johnson,4:09,2,Suns,Kings,36 - 50,0,25,3,Jumper
+72,Buddy Hield,FG_UNASSISTED,None,3:53,2,Kings,Suns,36 - 52,1,13,2,Jumper
+73,Devin Booker,FG_MISS,None,3:34,2,Suns,Kings,36 - 52,0,21,2,Jumper
+74,Willie Cauley-Stein,DEFENSIVE_REBOUND,None,3:31,2,Kings,Suns,36 - 52,1,N/A,N/A,N/A
+75,Buddy Hield,FG_MISS,None,3:29,2,Kings,Suns,36 - 52,1,27,3,Jumper
+76,Devin Booker,DEFENSIVE_REBOUND,None,3:26,2,Suns,Kings,36 - 52,0,N/A,N/A,N/A
+77,Mikal Bridges,FG_MISS,None,3:22,2,Suns,Kings,36 - 52,0,25,3,Jumper
+78,Josh Jackson,OFFENSIVE_REBOUND,None,3:22,2,Suns,Kings,36 - 52,0,N/A,N/A,N/A
+79,Harrison Barnes,FOUL_ON_FLOOR,None,3:22,2,Kings,Suns,36 - 52,1,N/A,N/A,N/A
+80,Deandre Ayton,FG_MISS,None,3:11,2,Suns,Kings,36 - 52,0,7,2,Jumper
+81,Harrison Barnes,DEFENSIVE_REBOUND,None,3:07,2,Kings,Suns,36 - 52,1,N/A,N/A,N/A
+82,De'Aaron Fox,FG_ASSISTED,Harrison Barnes,3:02,2,Kings,Suns,36 - 55,1,26,3,Jumper
+83,Tyler Johnson,FG_MISS,None,2:40,2,Suns,Kings,36 - 55,0,26,3,Jumper
+84,Josh Jackson,OFFENSIVE_REBOUND,None,2:37,2,Suns,Kings,36 - 55,0,N/A,N/A,N/A
+85,Josh Jackson,FG_UNASSISTED,None,2:35,2,Suns,Kings,38 - 55,0,4,2,Jumper
+86,De'Aaron Fox,FG_UNASSISTED,None,2:29,2,Kings,Suns,38 - 57,1,0,2,Dunk
+87,Devin Booker,TURNOVER,None,2:16,2,Suns,Kings,38 - 57,0,N/A,N/A,N/A
+88,Devin Booker,FOUL_ON_FLOOR,None,2:06,2,Suns,Kings,38 - 57,0,N/A,N/A,N/A
+89,Kelly Oubre,SUBSTITUTION,Jackson Josh,2:06,2,Suns,Kings,38 - 57,0,N/A,N/A,N/A
+90,Alec Burks,FG_MISS,None,1:58,2,Kings,Suns,38 - 57,1,16,2,Jumper
+91,Tyler Johnson,DEFENSIVE_REBOUND,None,1:55,2,Suns,Kings,38 - 57,0,N/A,N/A,N/A
+92,Willie Cauley-Stein,FOUL_ON_FLOOR,None,1:51,2,Kings,Suns,38 - 57,1,N/A,N/A,N/A
+93,Mikal Bridges,FT_MISS,None,1:51,2,Suns,Kings,38 - 57,0,N/A,1,N/A
+94,Team,OFFENSIVE_REBOUND,None,1:51,2,Suns,Kings,38 - 57,0,N/A,N/A,N/A
+95,Marvin Bagley,SUBSTITUTION,Burks Alec,1:51,2,Kings,Suns,38 - 57,1,N/A,N/A,N/A
+96,Mikal Bridges,FT,None,1:51,2,Suns,Kings,39 - 57,0,N/A,1,N/A
+97,De'Aaron Fox,FG_MISS,None,1:43,2,Kings,Suns,39 - 57,1,17,2,Jumper
+98,Devin Booker,DEFENSIVE_REBOUND,None,1:41,2,Suns,Kings,39 - 57,0,N/A,N/A,N/A
+99,Harrison Barnes,FOUL_ON_FLOOR,None,1:33,2,Kings,Suns,39 - 57,1,N/A,N/A,N/A
+100,Kelly Oubre,FT,None,1:33,2,Suns,Kings,40 - 57,0,N/A,1,N/A
+101,Kelly Oubre,FT_MISS,None,1:33,2,Suns,Kings,40 - 57,0,N/A,1,N/A
+102,Team,OFFENSIVE_REBOUND,None,1:33,2,Suns,Kings,40 - 57,0,N/A,N/A,N/A
+103,Kelly Oubre,FT_MISS,None,1:33,2,Suns,Kings,40 - 57,0,N/A,1,N/A
+104,Marvin Bagley,DEFENSIVE_REBOUND,None,1:30,2,Kings,Suns,40 - 57,1,N/A,N/A,N/A
+105,Kelly Oubre,FOUL_ON_FLOOR,None,1:16,2,Suns,Kings,40 - 57,0,N/A,N/A,N/A
+106,Buddy Hield,FT,None,1:16,2,Kings,Suns,40 - 58,1,N/A,1,N/A
+107,Buddy Hield,FT_MISS,None,1:16,2,Kings,Suns,40 - 58,1,N/A,1,N/A
+108,Buddy Hield,OFFENSIVE_REBOUND,None,1:12,2,Kings,Suns,40 - 58,1,N/A,N/A,N/A
+109,Buddy Hield,FG_UNASSISTED,None,1:10,2,Kings,Suns,40 - 61,1,24,3,Jumper
+110,Devin Booker,FG_UNASSISTED,None,50.3,2,Suns,Kings,42 - 61,0,13,2,Jumper
+111,Buddy Hield,FG_MISS,None,34.0,2,Kings,Suns,42 - 61,1,25,3,Jumper
+112,Deandre Ayton,DEFENSIVE_REBOUND,None,30.5,2,Suns,Kings,42 - 61,0,N/A,N/A,N/A
+113,Marvin Bagley,FOUL_ON_FLOOR,None,12.2,2,Kings,Suns,42 - 61,1,N/A,N/A,N/A
+114,Devin Booker,FT,None,12.2,2,Suns,Kings,43 - 61,0,N/A,1,N/A
+115,Devin Booker,FT,None,12.2,2,Suns,Kings,44 - 61,0,N/A,1,N/A
+116,Willie Cauley-Stein,FG_ASSISTED,De'Aaron Fox,2.0,2,Kings,Suns,44 - 63,1,0,2,Layup
+117,Mikal Bridges,FOUL_ON_FLOOR,None,2.0,2,Suns,Kings,44 - 63,0,N/A,N/A,N/A
+118,Yogi Ferrell,SUBSTITUTION,Fox De'Aaron,2.0,2,Kings,Suns,44 - 63,1,N/A,N/A,N/A
+119,Willie Cauley-Stein,FT_MISS,None,2.0,2,Kings,Suns,44 - 63,1,N/A,1,N/A
+120,Team,DEFENSIVE_REBOUND,None,1.2,2,Suns,Kings,44 - 63,0,N/A,N/A,N/A
+121,End of,Unknown,None,0.0,2,Kings,Suns,44 - 63,1,N/A,N/A,N/A
+0,De'Aaron Fox,SUBSTITUTION,III Bagley,12:00,3,Kings,Suns,44 - 63,1,N/A,N/A,N/A
+1,Nemanja Bjelica,SUBSTITUTION,Ferrell Yogi,12:00,3,Kings,Suns,44 - 63,1,N/A,N/A,N/A
+2,Josh Jackson,SUBSTITUTION,Oubre Kelly,12:00,3,Suns,Kings,44 - 63,0,N/A,N/A,N/A
+3,Buddy Hield,FG_ASSISTED,Harrison Barnes,11:42,3,Kings,Suns,44 - 66,1,25,3,Jumper
+4,Deandre Ayton,FG_UNASSISTED,None,11:15,3,Suns,Kings,46 - 66,0,8,2,Jumper
+5,Nemanja Bjelica,FG_MISS,None,11:06,3,Kings,Suns,46 - 66,1, ,3,Jumper
+6,Deandre Ayton,DEFENSIVE_REBOUND,None,11:03,3,Suns,Kings,46 - 66,0,N/A,N/A,N/A
+7,Josh Jackson,FG_MISS,None,10:59,3,Suns,Kings,46 - 66,0,0,2,Layup
+8,Willie Cauley-Stein,DEFENSIVE_REBOUND,None,10:56,3,Kings,Suns,46 - 66,1,N/A,N/A,N/A
+9,De'Aaron Fox,FG_MISS,None,10:48,3,Kings,Suns,46 - 66,1,11,2,Jumper
+10,Mikal Bridges,DEFENSIVE_REBOUND,None,10:44,3,Suns,Kings,46 - 66,0,N/A,N/A,N/A
+11,Nemanja Bjelica,FOUL_ON_FLOOR,None,10:41,3,Kings,Suns,46 - 66,1,N/A,N/A,N/A
+12,Josh Jackson,FT,None,10:41,3,Suns,Kings,47 - 66,0,N/A,1,N/A
+13,Josh Jackson,FT_MISS,None,10:41,3,Suns,Kings,47 - 66,0,N/A,1,N/A
+14,Team,OFFENSIVE_REBOUND,None,10:40,3,Suns,Kings,47 - 66,0,N/A,N/A,N/A
+15,Josh Jackson,TURNOVER,Willie Cauley-Stein,10:32,3,Suns,Kings,47 - 66,0,N/A,N/A,N/A
+16,Harrison Barnes,FG_ASSISTED,De'Aaron Fox,10:24,3,Kings,Suns,47 - 69,1,26,3,Jumper
+17,Devin Booker's,FG_MISS,Nemanja Bjelica,10:02,3,Kings,Suns,47 - 69,0, ,2,Jumper
+18,Willie Cauley-Stein,DEFENSIVE_REBOUND,None,9:59,3,Kings,Suns,47 - 69,1,N/A,N/A,N/A
+19,Buddy Hield,FG_MISS,None,9:55,3,Kings,Suns,47 - 69,1,25,3,Jumper
+20,Nemanja Bjelica,OFFENSIVE_REBOUND,None,9:51,3,Kings,Suns,47 - 69,1,N/A,N/A,N/A
+21,Nemanja Bjelica,FG_MISS,None,9:51,3,Kings,Suns,47 - 69,1, ,2,Jumper
+22,Josh Jackson,DEFENSIVE_REBOUND,None,9:50,3,Suns,Kings,47 - 69,0,N/A,N/A,N/A
+23,Deandre Ayton,FG_ASSISTED,Josh Jackson,9:44,3,Suns,Kings,49 - 69,0,0,2,Dunk
+24,Nemanja Bjelica,FG_MISS,None,9:35,3,Kings,Suns,49 - 69,1,28,3,Jumper
+25,Team,DEFENSIVE_REBOUND,None,9:33,3,Suns,Kings,49 - 69,0,N/A,N/A,N/A
+26,Tyler Johnson,FG_MISS,None,9:20,3,Suns,Kings,49 - 69,0,0,2,Layup
+27,De'Aaron Fox,DEFENSIVE_REBOUND,None,9:18,3,Kings,Suns,49 - 69,1,N/A,N/A,N/A
+28,Nemanja Bjelica,FG_ASSISTED,De'Aaron Fox,9:15,3,Kings,Suns,49 - 71,1,0,2,Layup
+29,Buddy Hield,FOUL_ON_FLOOR,None,9:03,3,Kings,Suns,49 - 71,1,N/A,N/A,N/A
+30,Devin Booker,FG_MISS,None,8:56,3,Suns,Kings,49 - 71,0, ,2,Jumper
+31,Nemanja Bjelica,DEFENSIVE_REBOUND,None,8:55,3,Kings,Suns,49 - 71,1,N/A,N/A,N/A
+32,Devin Booker,FOUL_ON_FLOOR,None,8:55,3,Suns,Kings,49 - 71,0,N/A,N/A,N/A
+33,Harrison Barnes,TURNOVER,None,8:45,3,Kings,Suns,49 - 71,1,N/A,N/A,N/A
+34,Josh Jackson,TURNOVER,None,8:28,3,Suns,Kings,49 - 71,0,N/A,N/A,N/A
+35,Buddy Hield,FG_MISS,None,8:19,3,Kings,Suns,49 - 71,1,26,2,Jumper
+36,Devin Booker,DEFENSIVE_REBOUND,None,8:17,3,Suns,Kings,49 - 71,0,N/A,N/A,N/A
+37,Nemanja Bjelica,FOUL_ON_FLOOR,None,8:17,3,Kings,Suns,49 - 71,1,N/A,N/A,N/A
+38,Josh Jackson,FG_MISS,Nemanja Bjelica,8:09,3,Kings,Suns,49 - 71,0,0,2,Layup
+39,Harrison Barnes,DEFENSIVE_REBOUND,None,8:05,3,Kings,Suns,49 - 71,1,N/A,N/A,N/A
+40,Devin Booker,FOUL_ON_FLOOR,None,7:58,3,Suns,Kings,49 - 71,0,N/A,N/A,N/A
+41,Willie Cauley-Stein,FT,None,7:58,3,Kings,Suns,49 - 72,1,N/A,1,N/A
+42,Willie Cauley-Stein,FT_MISS,None,7:58,3,Kings,Suns,49 - 72,1,N/A,1,N/A
+43,Deandre Ayton,DEFENSIVE_REBOUND,None,7:56,3,Suns,Kings,49 - 72,0,N/A,N/A,N/A
+44,Josh Jackson,FG_MISS,Willie Cauley-Stein,7:37,3,Kings,Suns,49 - 72,0,0,2,Layup
+45,Nemanja Bjelica,DEFENSIVE_REBOUND,None,7:33,3,Kings,Suns,49 - 72,1,N/A,N/A,N/A
+46,Harrison Barnes,FG_MISS,None,7:31,3,Kings,Suns,49 - 72,1, ,2,Jumper
+47,Willie Cauley-Stein,OFFENSIVE_REBOUND,None,7:26,3,Kings,Suns,49 - 72,1,N/A,N/A,N/A
+48,Buddy Hield,TURNOVER,None,7:24,3,Kings,Suns,49 - 72,1,N/A,N/A,N/A
+49,Team,Unknown,None,7:24,3,Suns,Kings,49 - 72,0,N/A,N/A,N/A
+50,Kelly Oubre,SUBSTITUTION,Booker Devin,7:24,3,Suns,Kings,49 - 72,0,N/A,N/A,N/A
+51,Elie Okobo,SUBSTITUTION,Johnson Tyler,7:24,3,Suns,Kings,49 - 72,0,N/A,N/A,N/A
+52,Elie Okobo,TURNOVER,Harrison Barnes,7:06,3,Suns,Kings,49 - 72,0,N/A,N/A,N/A
+53,Kelly Oubre,FOUL_ON_FLOOR,None,7:03,3,Suns,Kings,49 - 72,0,N/A,N/A,N/A
+54,Buddy Hield,FT,None,7:03,3,Kings,Suns,49 - 73,1,N/A,1,N/A
+55,Buddy Hield,FT,None,7:03,3,Kings,Suns,49 - 74,1,N/A,1,N/A
+56,Kelly Oubre,TURNOVER,Nemanja Bjelica,6:42,3,Suns,Kings,49 - 74,0,N/A,N/A,N/A
+57,Harrison Barnes,TURNOVER,Mikal Bridges,6:30,3,Kings,Suns,49 - 74,1,N/A,N/A,N/A
+58,Nemanja Bjelica,FOUL_ON_FLOOR,None,6:21,3,Kings,Suns,49 - 74,1,N/A,N/A,N/A
+59,Josh Jackson,FT_MISS,None,6:21,3,Suns,Kings,49 - 74,0,N/A,1,N/A
+60,Team,OFFENSIVE_REBOUND,None,6:21,3,Suns,Kings,49 - 74,0,N/A,N/A,N/A
+61,Josh Jackson,FT,None,6:21,3,Suns,Kings,50 - 74,0,N/A,1,N/A
+62,De'Aaron Fox,TURNOVER,Mikal Bridges,6:10,3,Kings,Suns,50 - 74,1,N/A,N/A,N/A
+63,Josh Jackson,FG_ASSISTED,Mikal Bridges,6:05,3,Suns,Kings,52 - 74,0,0,2,Dunk
+64,Buddy Hield,FG_MISS,None,5:49,3,Kings,Suns,52 - 74,1,24,3,Jumper
+65,Josh Jackson,DEFENSIVE_REBOUND,None,5:45,3,Suns,Kings,52 - 74,0,N/A,N/A,N/A
+66,Deandre Ayton,FOUL_ON_FLOOR,None,5:39,3,Suns,Kings,52 - 74,0,N/A,N/A,N/A
+67,Deandre Ayton,TURNOVER,None,5:39,3,Suns,Kings,52 - 74,0,N/A,N/A,N/A
+68,Bogdan Bogdanovic,SUBSTITUTION,Hield Buddy,5:39,3,Kings,Suns,52 - 74,1,N/A,N/A,N/A
+69,Marvin Bagley,SUBSTITUTION,Bjelica Nemanja,5:39,3,Kings,Suns,52 - 74,1,N/A,N/A,N/A
+70,Dragan Bender,SUBSTITUTION,Bridges Mikal,5:39,3,Suns,Kings,52 - 74,0,N/A,N/A,N/A
+71,De'Aaron Fox,FG_MISS,None,5:17,3,Kings,Suns,52 - 74,1,23,2,Jumper
+72,Willie Cauley-Stein,OFFENSIVE_REBOUND,None,5:15,3,Kings,Suns,52 - 74,1,N/A,N/A,N/A
+73,Willie Cauley-Stein,FG_MISS,None,5:15,3,Kings,Suns,52 - 74,1,0,2,Dunk
+74,Dragan Bender,DEFENSIVE_REBOUND,None,5:14,3,Suns,Kings,52 - 74,0,N/A,N/A,N/A
+75,Josh Jackson,FG_ASSISTED,Dragan Bender,5:11,3,Suns,Kings,55 - 74,0,25,3,Jumper
+76,Team,Unknown,None,5:11,3,Kings,Suns,55 - 74,1,N/A,N/A,N/A
+77,Kelly Oubre,FOUL_ON_FLOOR,None,5:10,3,Suns,Kings,55 - 74,0,N/A,N/A,N/A
+78,Dragan Bender,FOUL_ON_FLOOR,None,4:57,3,Suns,Kings,55 - 74,0,N/A,N/A,N/A
+79,Marvin Bagley,FT,None,4:57,3,Kings,Suns,55 - 75,1,N/A,1,N/A
+80,Marvin Bagley,FT,None,4:57,3,Kings,Suns,55 - 76,1,N/A,1,N/A
+81,Willie Cauley-Stein,FOUL_ON_FLOOR,None,4:36,3,Kings,Suns,55 - 76,1,N/A,N/A,N/A
+82,Elie Okobo,FT,None,4:36,3,Suns,Kings,56 - 76,0,N/A,1,N/A
+83,Elie Okobo,FT,None,4:36,3,Suns,Kings,57 - 76,0,N/A,1,N/A
+84,Bogdan Bogdanovic,TURNOVER,None,4:25,3,Kings,Suns,57 - 76,1,N/A,N/A,N/A
+85,Josh Jackson,TURNOVER,De'Aaron Fox,4:14,3,Suns,Kings,57 - 76,0,N/A,N/A,N/A
+86,De'Aaron Fox,TURNOVER,None,4:11,3,Kings,Suns,57 - 76,1,N/A,N/A,N/A
+87,Kelly Oubre,FG_MISS,None,4:01,3,Suns,Kings,57 - 76,0,27,3,Jumper
+88,Bogdan Bogdanovic,DEFENSIVE_REBOUND,None,3:58,3,Kings,Suns,57 - 76,1,N/A,N/A,N/A
+89,Marvin Bagley,FG_MISS,None,3:46,3,Kings,Suns,57 - 76,1,7,2,Jumper
+90,Elie Okobo,DEFENSIVE_REBOUND,None,3:44,3,Suns,Kings,57 - 76,0,N/A,N/A,N/A
+91,Josh Jackson,FG_MISS,None,3:39,3,Suns,Kings,57 - 76,0,26,3,Jumper
+92,De'Aaron Fox,DEFENSIVE_REBOUND,None,3:36,3,Kings,Suns,57 - 76,1,N/A,N/A,N/A
+93,Elie Okobo,FOUL_ON_FLOOR,None,3:35,3,Suns,Kings,57 - 76,0,N/A,N/A,N/A
+94,De'Aaron Fox,FT,None,3:35,3,Kings,Suns,57 - 77,1,N/A,1,N/A
+95,Harry Giles,SUBSTITUTION,III Bagley,3:35,3,Kings,Suns,57 - 77,1,N/A,N/A,N/A
+96,Richaun Holmes,SUBSTITUTION,for game,3:35,3,Suns,Kings,57 - 77,0,N/A,N/A,N/A
+97,Richaun Holmes,SUBSTITUTION,Ayton Deandre,3:35,3,Suns,Kings,57 - 77,0,N/A,N/A,N/A
+98,De'Aaron Fox,FT_MISS,None,3:35,3,Kings,Suns,57 - 77,1,N/A,1,N/A
+99,Marvin Bagley,SUBSTITUTION,Cauley-Stein Willie,3:35,3,Kings,Suns,57 - 77,1,N/A,N/A,N/A
+100,enters the,SUBSTITUTION,Jackson Josh,3:35,3,Suns,Kings,57 - 77,0,N/A,N/A,N/A
+101,Richaun Holmes,DEFENSIVE_REBOUND,None,3:29,3,Suns,Kings,57 - 77,0,N/A,N/A,N/A
+102,Elie Okobo,TURNOVER,Bogdan Bogdanovic,3:24,3,Suns,Kings,57 - 77,0,N/A,N/A,N/A
+103,Marvin Bagley,FG_ASSISTED,Bogdan Bogdanovic,3:12,3,Kings,Suns,57 - 79,1, ,2,Jumper
+104,Kelly Oubre,FG_MISS,None,2:58,3,Suns,Kings,57 - 79,0, ,2,Jumper
+105,Harrison Barnes,DEFENSIVE_REBOUND,None,2:53,3,Kings,Suns,57 - 79,1,N/A,N/A,N/A
+106,Elie Okobo,FOUL_ON_FLOOR,None,2:53,3,Suns,Kings,57 - 79,0,N/A,N/A,N/A
+107,Harrison Barnes,FT,None,2:53,3,Kings,Suns,57 - 80,1,N/A,1,N/A
+108,Harrison Barnes,FT,None,2:53,3,Kings,Suns,57 - 81,1,N/A,1,N/A
+109,Yogi Ferrell,SUBSTITUTION,Fox De'Aaron,2:53,3,Kings,Suns,57 - 81,1,N/A,N/A,N/A
+110,Kelly Oubre,FG_MISS,None,2:40,3,Suns,Kings,57 - 81,0,0,2,Layup
+111,Richaun Holmes,OFFENSIVE_REBOUND,None,2:40,3,Suns,Kings,57 - 81,0,N/A,N/A,N/A
+112,Bogdan Bogdanovic,FOUL_ON_FLOOR,None,2:40,3,Kings,Suns,57 - 81,1,N/A,N/A,N/A
+113,Richaun Holmes,FT,None,2:40,3,Suns,Kings,58 - 81,0,N/A,1,N/A
+114,Richaun Holmes,FT,None,2:40,3,Suns,Kings,59 - 81,0,N/A,1,N/A
+115,Bogdan Bogdanovic,TURNOVER,None,2:26,3,Kings,Suns,59 - 81,1,N/A,N/A,N/A
+116,Harry Giles,FOUL_ON_FLOOR,None,2:10,3,Kings,Suns,59 - 81,1,N/A,N/A,N/A
+117,Richaun Holmes,FT,None,2:10,3,Suns,Kings,60 - 81,0,N/A,1,N/A
+118,Alec Burks,SUBSTITUTION,Barnes Harrison,2:10,3,Kings,Suns,60 - 81,1,N/A,N/A,N/A
+119,Richaun Holmes,FT,None,2:10,3,Suns,Kings,61 - 81,0,N/A,1,N/A
+120,Bogdan Bogdanovic,FG_UNASSISTED,None,2:00,3,Kings,Suns,61 - 83,1,17,2,Jumper
+121,Elie Okobo,FG_UNASSISTED,None,1:50,3,Suns,Kings,63 - 83,0,0,2,Layup
+122,Bogdan Bogdanovic,FOUL_ON_FLOOR,None,1:32,3,Kings,Suns,63 - 83,1,N/A,N/A,N/A
+123,Bogdan Bogdanovic,TURNOVER,None,1:32,3,Kings,Suns,63 - 83,1,N/A,N/A,N/A
+124,Team,Unknown,None,1:32,3,Suns,Kings,63 - 83,0,N/A,N/A,N/A
+125,Mikal Bridges,SUBSTITUTION,Booker Devin,1:32,3,Suns,Kings,63 - 83,0,N/A,N/A,N/A
+126,Harry Giles,FOUL_ON_FLOOR,None,1:23,3,Kings,Suns,63 - 83,1,N/A,N/A,N/A
+127,Richaun Holmes,FT,None,1:23,3,Suns,Kings,64 - 83,0,N/A,1,N/A
+128,Richaun Holmes,FT,None,1:23,3,Suns,Kings,65 - 83,0,N/A,1,N/A
+129,Marvin Bagley,FG_MISS,None,1:13,3,Kings,Suns,65 - 83,1,23,3,Jumper
+130,Kelly Oubre,DEFENSIVE_REBOUND,None,1:09,3,Suns,Kings,65 - 83,0,N/A,N/A,N/A
+131,Kelly Oubre,FG_UNASSISTED,None,1:02,3,Suns,Kings,67 - 83,0,7,2,Jumper
+132,Bogdan Bogdanovic,FG_MISS,None,52.9,3,Kings,Suns,67 - 83,1, ,2,Jumper
+133,Kelly Oubre,DEFENSIVE_REBOUND,None,50.4,3,Suns,Kings,67 - 83,0,N/A,N/A,N/A
+134,Elie Okobo,FG_ASSISTED,Kelly Oubre,47.7,3,Suns,Kings,69 - 83,0, ,2,Jumper
+135,Team,Unknown,None,47.7,3,Kings,Suns,69 - 83,1,N/A,N/A,N/A
+136,Josh Jackson,FOUL_TECHNICAL,None,47.7,3,Suns,Kings,69 - 83,0,N/A,N/A,N/A
+137,Yogi Ferrell,FT,None,47.7,3,Kings,Suns,69 - 84,1,N/A,1,N/A
+138,Mikal Bridges,FOUL_ON_FLOOR,None,37.7,3,Suns,Kings,69 - 84,0,N/A,N/A,N/A
+139,Bogdan Bogdanovic,FT_MISS,None,37.7,3,Kings,Suns,69 - 84,1,N/A,1,N/A
+140,Team,OFFENSIVE_REBOUND,None,37.7,3,Kings,Suns,69 - 84,1,N/A,N/A,N/A
+141,Bogdan Bogdanovic,FT,None,37.7,3,Kings,Suns,69 - 85,1,N/A,1,N/A
+142,Harry Giles,FOUL_ON_FLOOR,None,20.6,3,Kings,Suns,69 - 85,1,N/A,N/A,N/A
+143,Mikal Bridges,FT,None,20.6,3,Suns,Kings,70 - 85,0,N/A,1,N/A
+144,Nemanja Bjelica,SUBSTITUTION,Giles Harry,20.6,3,Kings,Suns,70 - 85,1,N/A,N/A,N/A
+145,Josh Jackson,SUBSTITUTION,Bender Dragan,20.6,3,Suns,Kings,70 - 85,0,N/A,N/A,N/A
+146,Mikal Bridges,FT_MISS,None,20.6,3,Suns,Kings,70 - 85,0,N/A,1,N/A
+147,Marvin Bagley,DEFENSIVE_REBOUND,None,17.6,3,Kings,Suns,70 - 85,1,N/A,N/A,N/A
+148,Bogdan Bogdanovic,FG_MISS,Josh Jackson,1.7,3,Suns,Kings,70 - 85,1,0,2,Layup
+149,Marvin Bagley,OFFENSIVE_REBOUND,None,1.3,3,Kings,Suns,70 - 85,1,N/A,N/A,N/A
+150,Marvin Bagley,FG_UNASSISTED,None,1.3,3,Kings,Suns,70 - 87,1, ,2,Jumper
+151,Yogi Ferrell,FOUL_ON_FLOOR,None,0.8,3,Kings,Suns,70 - 87,1,N/A,N/A,N/A
+152,Mikal Bridges,FT,None,0.8,3,Suns,Kings,71 - 87,0,N/A,1,N/A
+153,Mikal Bridges,FT,None,0.8,3,Suns,Kings,72 - 87,0,N/A,1,N/A
+154,End of,Unknown,None,0.0,3,Kings,Suns,72 - 87,1,N/A,N/A,N/A
+0,Dragan Bender,SUBSTITUTION,Oubre Kelly,12:00,4,Suns,Kings,72 - 87,0,N/A,N/A,N/A
+1,Devin Booker,SUBSTITUTION,Jackson Josh,12:00,4,Suns,Kings,72 - 87,0,N/A,N/A,N/A
+2,Richaun Holmes,FG_MISS,Nemanja Bjelica,11:45,4,Kings,Suns,72 - 87,0,0,2,Layup
+3,Richaun Holmes,OFFENSIVE_REBOUND,None,11:43,4,Suns,Kings,72 - 87,0,N/A,N/A,N/A
+4,Devin Booker,FG_ASSISTED,Dragan Bender,11:36,4,Suns,Kings,75 - 87,0,24,3,Jumper
+5,Devin Booker,FOUL_ON_FLOOR,None,11:26,4,Suns,Kings,75 - 87,0,N/A,N/A,N/A
+6,Josh Jackson,SUBSTITUTION,Bender Dragan,11:26,4,Suns,Kings,75 - 87,0,N/A,N/A,N/A
+7,Richaun Holmes,FOUL_ON_FLOOR,None,11:16,4,Suns,Kings,75 - 87,0,N/A,N/A,N/A
+8,Marvin Bagley,FT,None,11:16,4,Kings,Suns,75 - 88,1,N/A,1,N/A
+9,Marvin Bagley,FT,None,11:16,4,Kings,Suns,75 - 89,1,N/A,1,N/A
+10,Devin Booker,FG_MISS,None,11:04,4,Suns,Kings,75 - 89,0,14,2,Jumper
+11,Alec Burks,DEFENSIVE_REBOUND,None,11:01,4,Kings,Suns,75 - 89,1,N/A,N/A,N/A
+12,Richaun Holmes,FOUL_ON_FLOOR,None,10:54,4,Suns,Kings,75 - 89,0,N/A,N/A,N/A
+13,Marvin Bagley,FT,None,10:54,4,Kings,Suns,75 - 90,1,N/A,1,N/A
+14,Tyler Johnson,SUBSTITUTION,Booker Devin,10:54,4,Suns,Kings,75 - 90,0,N/A,N/A,N/A
+15,Marvin Bagley,FT,None,10:54,4,Kings,Suns,75 - 91,1,N/A,1,N/A
+16,Mikal Bridges,FG_UNASSISTED,None,10:41,4,Suns,Kings,77 - 91,0,0,2,Layup
+17,Marvin Bagley,FG_ASSISTED,Yogi Ferrell,10:29,4,Kings,Suns,77 - 93,1,13,2,Jumper
+18,Elie Okobo,FG_MISS,None,10:04,4,Suns,Kings,77 - 93,0,25,2,Jumper
+19,Richaun Holmes,OFFENSIVE_REBOUND,None,9:58,4,Suns,Kings,77 - 93,0,N/A,N/A,N/A
+20,blocks Richaun,FG_MISS,Marvin Bagley,9:58,4,Kings,Suns,77 - 93,0,0,2,Layup
+21,Nemanja Bjelica,DEFENSIVE_REBOUND,None,9:55,4,Kings,Suns,77 - 93,1,N/A,N/A,N/A
+22,Marvin Bagley,FG_UNASSISTED,None,9:51,4,Kings,Suns,77 - 95,1, ,2,Jumper
+23,Richaun Holmes,FOUL_ON_FLOOR,None,9:51,4,Suns,Kings,77 - 95,0,N/A,N/A,N/A
+24,Marvin Bagley,FT,None,9:51,4,Kings,Suns,77 - 96,1,N/A,1,N/A
+25,Tyler Johnson,TURNOVER,Bogdan Bogdanovic,9:34,4,Suns,Kings,77 - 96,0,N/A,N/A,N/A
+26,Yogi Ferrell,FG_MISS,None,9:28,4,Kings,Suns,77 - 96,1,26,3,Jumper
+27,Elie Okobo,DEFENSIVE_REBOUND,None,9:25,4,Suns,Kings,77 - 96,0,N/A,N/A,N/A
+28,Josh Jackson,FG_ASSISTED,Elie Okobo,9:20,4,Suns,Kings,79 - 96,0, ,2,Jumper
+29,Bogdan Bogdanovic,FG_MISS,None,9:14,4,Kings,Suns,79 - 96,1,26,3,Jumper
+30,Richaun Holmes,DEFENSIVE_REBOUND,None,9:09,4,Suns,Kings,79 - 96,0,N/A,N/A,N/A
+31,Elie Okobo,FG_MISS,None,8:56,4,Suns,Kings,79 - 96,0,25,3,Jumper
+32,Marvin Bagley,DEFENSIVE_REBOUND,None,8:54,4,Kings,Suns,79 - 96,1,N/A,N/A,N/A
+33,Team,Unknown,None,8:54,4,Kings,Suns,79 - 96,1,N/A,N/A,N/A
+34,Deandre Ayton,SUBSTITUTION,Okobo Elie,8:54,4,Suns,Kings,79 - 96,0,N/A,N/A,N/A
+35,Devin Booker,SUBSTITUTION,Holmes Richaun,8:54,4,Suns,Kings,79 - 96,0,N/A,N/A,N/A
+36,Marvin Bagley,FG_UNASSISTED,None,8:36,4,Kings,Suns,79 - 98,1,0,2,Layup
+37,Mikal Bridges,FG_MISS,None,8:20,4,Suns,Kings,79 - 98,0,25,3,Jumper
+38,Tyler Johnson,OFFENSIVE_REBOUND,None,8:17,4,Suns,Kings,79 - 98,0,N/A,N/A,N/A
+39,Josh Jackson,FG_ASSISTED,Tyler Johnson,8:14,4,Suns,Kings,81 - 98,0,5,2,Jumper
+40,Deandre Ayton,FOUL_ON_FLOOR,None,8:06,4,Suns,Kings,81 - 98,0,N/A,N/A,N/A
+41,Marvin Bagley,FT_MISS,None,8:06,4,Kings,Suns,81 - 98,1,N/A,1,N/A
+42,Team,OFFENSIVE_REBOUND,None,8:06,4,Kings,Suns,81 - 98,1,N/A,N/A,N/A
+43,De'Aaron Fox,SUBSTITUTION,Ferrell Yogi,8:06,4,Kings,Suns,81 - 98,1,N/A,N/A,N/A
+44,Marvin Bagley,FT,None,8:06,4,Kings,Suns,81 - 99,1,N/A,1,N/A
+45,Deandre Ayton,FG_ASSISTED,Mikal Bridges,7:53,4,Suns,Kings,83 - 99,0,0,2,Dunk
+46,Bogdan Bogdanovic,FG_ASSISTED,Nemanja Bjelica,7:38,4,Kings,Suns,83 - 101,1,0,2,Layup
+47,Nemanja Bjelica,FOUL_ON_FLOOR,None,7:15,4,Kings,Suns,83 - 101,1,N/A,N/A,N/A
+48,Devin Booker,FG_MISS,None,7:10,4,Suns,Kings,83 - 101,0,25,3,Jumper
+49,De'Aaron Fox,DEFENSIVE_REBOUND,None,7:06,4,Kings,Suns,83 - 101,1,N/A,N/A,N/A
+50,Bogdan Bogdanovic,FG_ASSISTED,De'Aaron Fox,7:00,4,Kings,Suns,83 - 103,1,23,2,Jumper
+51,Deandre Ayton,FG_ASSISTED,Mikal Bridges,6:39,4,Suns,Kings,85 - 103,0,0,2,Layup
+52,Nemanja Bjelica,FG_MISS,Josh Jackson,6:22,4,Suns,Kings,85 - 103,1,0,2,Layup
+53,Devin Booker,DEFENSIVE_REBOUND,None,6:18,4,Suns,Kings,85 - 103,0,N/A,N/A,N/A
+54,Tyler Johnson,FG_ASSISTED,Devin Booker,6:16,4,Suns,Kings,87 - 103,0,1,2,Jumper
+55,Buddy Hield,SUBSTITUTION,Burks Alec,6:06,4,Kings,Suns,87 - 103,1,N/A,N/A,N/A
+56,Harrison Barnes,SUBSTITUTION,Bjelica Nemanja,6:06,4,Kings,Suns,87 - 103,1,N/A,N/A,N/A
+57,Harrison Barnes,FG_MISS,None,5:58,4,Kings,Suns,87 - 103,1,23,3,Jumper
+58,Josh Jackson,DEFENSIVE_REBOUND,None,5:54,4,Suns,Kings,87 - 103,0,N/A,N/A,N/A
+59,Mikal Bridges,FG_MISS,None,5:51,4,Suns,Kings,87 - 103,0,23,3,Jumper
+60,Tyler Johnson,OFFENSIVE_REBOUND,None,5:45,4,Suns,Kings,87 - 103,0,N/A,N/A,N/A
+61,Tyler Johnson,FG_UNASSISTED,None,5:45,4,Suns,Kings,89 - 103,0,1,2,Jumper
+62,Bogdan Bogdanovic,FG_MISS,None,5:31,4,Kings,Suns,89 - 103,1,0,2,Layup
+63,Buddy Hield,OFFENSIVE_REBOUND,None,5:28,4,Kings,Suns,89 - 103,1,N/A,N/A,N/A
+64,Buddy Hield,FG_MISS,None,5:28,4,Kings,Suns,89 - 103,1,1,2,Jumper
+65,Mikal Bridges,DEFENSIVE_REBOUND,None,5:28,4,Suns,Kings,89 - 103,0,N/A,N/A,N/A
+66,Deandre Ayton,FG_ASSISTED,Devin Booker,5:13,4,Suns,Kings,91 - 103,0,12,2,Jumper
+67,Buddy Hield,FG_ASSISTED,De'Aaron Fox,5:04,4,Kings,Suns,91 - 106,1,25,3,Jumper
+68,Buddy Hield,FOUL_ON_FLOOR,None,4:53,4,Kings,Suns,91 - 106,1,N/A,N/A,N/A
+69,Devin Booker,FT,None,4:53,4,Suns,Kings,92 - 106,0,N/A,1,N/A
+70,Devin Booker,FT,None,4:53,4,Suns,Kings,93 - 106,0,N/A,1,N/A
+71,Josh Jackson,FOUL_ON_FLOOR,None,4:34,4,Suns,Kings,93 - 106,0,N/A,N/A,N/A
+72,De'Aaron Fox,FT,None,4:34,4,Kings,Suns,93 - 107,1,N/A,1,N/A
+73,Willie Cauley-Stein,SUBSTITUTION,Bogdanovic Bogdan,4:34,4,Kings,Suns,93 - 107,1,N/A,N/A,N/A
+74,De'Aaron Fox,FT,None,4:34,4,Kings,Suns,93 - 108,1,N/A,1,N/A
+75,Josh Jackson,FG_MISS,None,4:17,4,Suns,Kings,93 - 108,0,16,2,Jumper
+76,De'Aaron Fox,DEFENSIVE_REBOUND,None,4:15,4,Kings,Suns,93 - 108,1,N/A,N/A,N/A
+77,Harrison Barnes,FG_MISS,None,4:11,4,Kings,Suns,93 - 108,1,25,3,Jumper
+78,Devin Booker,DEFENSIVE_REBOUND,None,4:06,4,Suns,Kings,93 - 108,0,N/A,N/A,N/A
+79,Devin Booker,FG_UNASSISTED,None,4:02,4,Suns,Kings,95 - 108,0,10,2,Jumper
+80,Mikal Bridges,FOUL_ON_FLOOR,None,3:54,4,Suns,Kings,95 - 108,0,N/A,N/A,N/A
+81,Marvin Bagley,FT,None,3:54,4,Kings,Suns,95 - 109,1,N/A,1,N/A
+82,Marvin Bagley,FT,None,3:54,4,Kings,Suns,95 - 110,1,N/A,1,N/A
+83,Josh Jackson,FG_ASSISTED,Devin Booker,3:40,4,Suns,Kings,98 - 110,0,26,3,Jumper
+84,De'Aaron Fox,FG_MISS,None,3:21,4,Kings,Suns,98 - 110,1,18,2,Jumper
+85,Deandre Ayton,DEFENSIVE_REBOUND,None,3:17,4,Suns,Kings,98 - 110,0,N/A,N/A,N/A
+86,Devin Booker,FG_MISS,Willie Cauley-Stein,3:10,4,Kings,Suns,98 - 110,0,0,2,Layup
+87,Buddy Hield,DEFENSIVE_REBOUND,None,3:07,4,Kings,Suns,98 - 110,1,N/A,N/A,N/A
+88,Tyler Johnson,FOUL_ON_FLOOR,None,3:05,4,Suns,Kings,98 - 110,0,N/A,N/A,N/A
+89,Willie Cauley-Stein,FT,None,3:05,4,Kings,Suns,98 - 111,1,N/A,1,N/A
+90,Willie Cauley-Stein,FT,None,3:05,4,Kings,Suns,98 - 112,1,N/A,1,N/A
+91,Marvin Bagley,FOUL_ON_FLOOR,None,2:55,4,Kings,Suns,98 - 112,1,N/A,N/A,N/A
+92,Team,Unknown,None,2:55,4,Suns,Kings,98 - 112,0,N/A,N/A,N/A
+93,Mikal Bridges,FT_MISS,None,2:55,4,Suns,Kings,98 - 112,0,N/A,1,N/A
+94,Team,OFFENSIVE_REBOUND,None,2:55,4,Suns,Kings,98 - 112,0,N/A,N/A,N/A
+95,Mikal Bridges,FT,None,2:55,4,Suns,Kings,99 - 112,0,N/A,1,N/A
+96,Josh Jackson,FOUL_ON_FLOOR,None,2:50,4,Suns,Kings,99 - 112,0,N/A,N/A,N/A
+97,Willie Cauley-Stein,FT_MISS,None,2:50,4,Kings,Suns,99 - 112,1,N/A,1,N/A
+98,Team,OFFENSIVE_REBOUND,None,2:50,4,Kings,Suns,99 - 112,1,N/A,N/A,N/A
+99,Willie Cauley-Stein,FT,None,2:50,4,Kings,Suns,99 - 113,1,N/A,1,N/A
+100,Mikal Bridges,FG_MISS,None,2:38,4,Suns,Kings,99 - 113,0,23,3,Jumper
+101,De'Aaron Fox,DEFENSIVE_REBOUND,None,2:34,4,Kings,Suns,99 - 113,1,N/A,N/A,N/A
+102,Josh Jackson,FOUL_ON_FLOOR,None,2:29,4,Suns,Kings,99 - 113,0,N/A,N/A,N/A
+103,Willie Cauley-Stein,FT_MISS,None,2:29,4,Kings,Suns,99 - 113,1,N/A,1,N/A
+104,Team,OFFENSIVE_REBOUND,None,2:29,4,Kings,Suns,99 - 113,1,N/A,N/A,N/A
+105,Willie Cauley-Stein,FT_MISS,None,2:29,4,Kings,Suns,99 - 113,1,N/A,1,N/A
+106,Deandre Ayton,DEFENSIVE_REBOUND,None,2:27,4,Suns,Kings,99 - 113,0,N/A,N/A,N/A
+107,Deandre Ayton,TURNOVER,Harrison Barnes,2:25,4,Suns,Kings,99 - 113,0,N/A,N/A,N/A
+108,Deandre Ayton,JUMP_BALL,None,2:18,4,Kings,Suns,99 - 113,1,N/A,N/A,N/A
+109,De'Aaron Fox,FG_UNASSISTED,None,2:10,4,Kings,Suns,99 - 115,1,0,2,Dunk
+110,Josh Jackson,FG_MISS,None,1:49,4,Suns,Kings,99 - 115,0,12,2,Jumper
+111,Willie Cauley-Stein,DEFENSIVE_REBOUND,None,1:45,4,Kings,Suns,99 - 115,1,N/A,N/A,N/A
+112,Willie Cauley-Stein,TURNOVER,None,1:32,4,Kings,Suns,99 - 115,1,N/A,N/A,N/A
+113,Bogdan Bogdanovic,SUBSTITUTION,Cauley-Stein Willie,1:32,4,Kings,Suns,99 - 115,1,N/A,N/A,N/A
+114,Devin Booker,FG_UNASSISTED,None,1:14,4,Suns,Kings,102 - 115,0,26,3,Jumper
+115,De'Aaron Fox,FG_UNASSISTED,None,59.6,4,Kings,Suns,102 - 117,1,0,2,Layup
+116,Tyler Johnson's,FG_MISS,Bogdan Bogdanovic,53.8,4,Kings,Suns,102 - 117,0,0,2,Layup
+117,Bogdan Bogdanovic,DEFENSIVE_REBOUND,None,50.3,4,Kings,Suns,102 - 117,1,N/A,N/A,N/A
+118,Harrison Barnes,FG_MISS,None,36.3,4,Kings,Suns,102 - 117,1,23,3,Jumper
+119,Mikal Bridges,DEFENSIVE_REBOUND,None,32.1,4,Suns,Kings,102 - 117,0,N/A,N/A,N/A
+120,Devin Booker,FG_MISS,None,26.7,4,Suns,Kings,102 - 117,0,1,2,Jumper
+121,Devin Booker,OFFENSIVE_REBOUND,None,23.7,4,Suns,Kings,102 - 117,0,N/A,N/A,N/A
+122,Devin Booker,FG_UNASSISTED,None,22.6,4,Suns,Kings,104 - 117,0,4,2,Jumper
+123,Bogdan Bogdanovic,TURNOVER,Tyler Johnson,16.5,4,Kings,Suns,104 - 117,1,N/A,N/A,N/A
+124,Mikal Bridges's,FG_MISS,Buddy Hield,13.1,4,Kings,Suns,104 - 117,0,0,2,Layup
+125,Mikal Bridges,OFFENSIVE_REBOUND,None,9.8,4,Suns,Kings,104 - 117,0,N/A,N/A,N/A
+126,Tyler Johnson,FG_MISS,None,8.0,4,Suns,Kings,104 - 117,0,23,3,Jumper
+127,Marvin Bagley,DEFENSIVE_REBOUND,None,4.8,4,Kings,Suns,104 - 117,1,N/A,N/A,N/A
+128,End of,Unknown,None,0.0,4,Kings,Suns,104 - 117,1,N/A,N/A,N/A
+129,End of,Unknown,None,0.0,4,Kings,Suns,104 - 117,1,N/A,N/A,N/A

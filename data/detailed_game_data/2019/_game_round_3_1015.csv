@@ -1,0 +1,520 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Karl-Anthony Towns,JUMP_BALL,None,12:00,1,Timberwolves,Kings,0 - 0,0,N/A,N/A,N/A
+1,Derrick Rose,FG_MISS,None,11:42,1,Timberwolves,Kings,0 - 0,0,5,2,Jumper
+2,Karl-Anthony Towns,OFFENSIVE_REBOUND,None,11:40,1,Timberwolves,Kings,0 - 0,0,N/A,N/A,N/A
+3,Karl-Anthony Towns,FG_UNASSISTED,None,11:38,1,Timberwolves,Kings,2 - 0,0,4,2,Jumper
+4,Nemanja Bjelica,FG_MISS,None,11:26,1,Kings,Timberwolves,2 - 0,1,25,3,Jumper
+5,Josh Okogie,DEFENSIVE_REBOUND,None,11:26,1,Timberwolves,Kings,2 - 0,0,N/A,N/A,N/A
+6,Jimmy Butler,FG_MISS,None,11:02,1,Timberwolves,Kings,2 - 0,0,20,2,Jumper
+7,Buddy Hield,DEFENSIVE_REBOUND,None,10:59,1,Kings,Timberwolves,2 - 0,1,N/A,N/A,N/A
+8,Buddy Hield,FG_MISS,None,10:53,1,Kings,Timberwolves,2 - 0,1,20,2,Jumper
+9,De'Aaron Fox,OFFENSIVE_REBOUND,None,10:47,1,Kings,Timberwolves,2 - 0,1,N/A,N/A,N/A
+10,Iman Shumpert,FG_MISS,None,10:43,1,Kings,Timberwolves,2 - 0,1,25,3,Jumper
+11,Karl-Anthony Towns,DEFENSIVE_REBOUND,None,10:39,1,Timberwolves,Kings,2 - 0,0,N/A,N/A,N/A
+12,Taj Gibson,FG_ASSISTED,Jimmy Butler,10:31,1,Timberwolves,Kings,4 - 0,0,-,2,Jumper
+13,Buddy Hield,FG_MISS,None,10:22,1,Kings,Timberwolves,4 - 0,1,25,3,Jumper
+14,Jimmy Butler,DEFENSIVE_REBOUND,None,10:19,1,Timberwolves,Kings,4 - 0,0,N/A,N/A,N/A
+15,Derrick Rose,FG_ASSISTED,Jimmy Butler,10:15,1,Timberwolves,Kings,7 - 0,0,25,3,Jumper
+16,Derrick Rose,FOUL_ON_FLOOR,None,10:05,1,Timberwolves,Kings,7 - 0,0,N/A,N/A,N/A
+17,De'Aaron Fox,FT,None,10:05,1,Kings,Timberwolves,7 - 1,1,N/A,1,N/A
+18,De'Aaron Fox,FT_MISS,None,10:05,1,Kings,Timberwolves,7 - 1,1,N/A,1,N/A
+19,Taj Gibson,DEFENSIVE_REBOUND,None,10:05,1,Timberwolves,Kings,7 - 1,0,N/A,N/A,N/A
+20,Derrick Rose,FG_MISS,None,9:57,1,Timberwolves,Kings,7 - 1,0,-,2,Jumper
+21,Nemanja Bjelica,DEFENSIVE_REBOUND,None,9:57,1,Kings,Timberwolves,7 - 1,1,N/A,N/A,N/A
+22,Nemanja Bjelica,TURNOVER,None,9:53,1,Kings,Timberwolves,7 - 1,1,N/A,N/A,N/A
+23,Karl-Anthony Towns,FG_UNASSISTED,None,9:29,1,Timberwolves,Kings,9 - 1,0,3,2,Jumper
+24,Nemanja Bjelica,FG_MISS,None,9:22,1,Kings,Timberwolves,9 - 1,1,23,3,Jumper
+25,Josh Okogie,DEFENSIVE_REBOUND,None,9:22,1,Timberwolves,Kings,9 - 1,0,N/A,N/A,N/A
+26,Jimmy Butler,FG_MISS,None,9:10,1,Timberwolves,Kings,9 - 1,0,-,2,Jumper
+27,Team,DEFENSIVE_REBOUND,None,9:09,1,Kings,Timberwolves,9 - 1,1,N/A,N/A,N/A
+28,Team,Unknown,None,9:09,1,Kings,Timberwolves,9 - 1,1,N/A,N/A,N/A
+29,Marvin Bagley,SUBSTITUTION,Bjelica Nemanja,9:09,1,Kings,Timberwolves,9 - 1,1,N/A,N/A,N/A
+30,Marvin Bagley,FG_MISS,None,8:48,1,Kings,Timberwolves,9 - 1,1,12,2,Jumper
+31,Team,OFFENSIVE_REBOUND,None,8:48,1,Kings,Timberwolves,9 - 1,1,N/A,N/A,N/A
+32,Karl-Anthony Towns,FOUL_ON_FLOOR,None,8:48,1,Timberwolves,Kings,9 - 1,0,N/A,N/A,N/A
+33,Willie Cauley-Stein,FG_ASSISTED,Buddy Hield,8:39,1,Kings,Timberwolves,9 - 3,1,0,2,Dunk
+34,Taj Gibson,FG_UNASSISTED,None,8:22,1,Timberwolves,Kings,11 - 3,0,0,2,Layup
+35,Iman Shumpert,FG_MISS,None,8:13,1,Kings,Timberwolves,11 - 3,1,18,2,Jumper
+36,Marvin Bagley,OFFENSIVE_REBOUND,None,8:09,1,Kings,Timberwolves,11 - 3,1,N/A,N/A,N/A
+37,Marvin Bagley,FG_MISS,None,8:08,1,Kings,Timberwolves,11 - 3,1,8,2,Jumper
+38,Taj Gibson,DEFENSIVE_REBOUND,None,8:08,1,Timberwolves,Kings,11 - 3,0,N/A,N/A,N/A
+39,Karl-Anthony Towns,FG_ASSISTED,Jimmy Butler,7:52,1,Timberwolves,Kings,13 - 3,0,7,2,Jumper
+40,Iman Shumpert's,FG_MISS,Karl-Anthony Towns,7:31,1,Timberwolves,Kings,13 - 3,1,0,2,Layup
+41,Willie Cauley-Stein,OFFENSIVE_REBOUND,None,7:28,1,Kings,Timberwolves,13 - 3,1,N/A,N/A,N/A
+42,Willie Cauley-Stein,FG_UNASSISTED,None,7:26,1,Kings,Timberwolves,13 - 5,1,13,2,Jumper
+43,Buddy Hield,FOUL_ON_FLOOR,None,7:20,1,Kings,Timberwolves,13 - 5,1,N/A,N/A,N/A
+44,Derrick Rose,FT,None,7:20,1,Timberwolves,Kings,14 - 5,0,N/A,1,N/A
+45,Derrick Rose,FT,None,7:20,1,Timberwolves,Kings,15 - 5,0,N/A,1,N/A
+46,Marvin Bagley,FG_MISS,None,7:04,1,Kings,Timberwolves,15 - 5,1,25,3,Jumper
+47,Jimmy Butler,DEFENSIVE_REBOUND,None,6:58,1,Timberwolves,Kings,15 - 5,0,N/A,N/A,N/A
+48,blocks Jimmy,FG_MISS,Marvin Bagley,6:55,1,Kings,Timberwolves,15 - 5,0,0,2,Layup
+49,Jimmy Butler,OFFENSIVE_REBOUND,None,6:55,1,Timberwolves,Kings,15 - 5,0,N/A,N/A,N/A
+50,Jimmy Butler,FG_MISS,None,6:50,1,Timberwolves,Kings,15 - 5,0,11,2,Jumper
+51,Taj Gibson,OFFENSIVE_REBOUND,None,6:50,1,Timberwolves,Kings,15 - 5,0,N/A,N/A,N/A
+52,Taj Gibson,FG_MISS,None,6:46,1,Timberwolves,Kings,15 - 5,0,0,2,Layup
+53,Karl-Anthony Towns,OFFENSIVE_REBOUND,None,6:46,1,Timberwolves,Kings,15 - 5,0,N/A,N/A,N/A
+54,Karl-Anthony Towns,FG_UNASSISTED,None,6:44,1,Timberwolves,Kings,17 - 5,0,6,2,Jumper
+55,Willie Cauley-Stein,FG_MISS,None,6:30,1,Kings,Timberwolves,17 - 5,1,3,2,Jumper
+56,Buddy Hield,OFFENSIVE_REBOUND,None,6:30,1,Kings,Timberwolves,17 - 5,1,N/A,N/A,N/A
+57,Buddy Hield,FG_UNASSISTED,None,6:24,1,Kings,Timberwolves,17 - 7,1,0,2,Dunk
+58,Karl-Anthony Towns,FG_UNASSISTED,None,6:10,1,Timberwolves,Kings,19 - 7,0,0,2,Layup
+59,Marvin Bagley,Unknown,None,6:10,1,Kings,Timberwolves,19 - 7,1,N/A,N/A,N/A
+60,Iman Shumpert,FG_MISS,None,5:50,1,Kings,Timberwolves,19 - 7,1,26,3,Jumper
+61,Derrick Rose,DEFENSIVE_REBOUND,None,5:49,1,Timberwolves,Kings,19 - 7,0,N/A,N/A,N/A
+62,Derrick Rose,TURNOVER,None,5:48,1,Timberwolves,Kings,19 - 7,0,N/A,N/A,N/A
+63,Willie Cauley-Stein,FG_ASSISTED,De'Aaron Fox,5:40,1,Kings,Timberwolves,19 - 9,1,15,2,Jumper
+64,Buddy Hield,FOUL_ON_FLOOR,None,5:24,1,Kings,Timberwolves,19 - 9,1,N/A,N/A,N/A
+65,Derrick Rose,FG_UNASSISTED,None,5:11,1,Timberwolves,Kings,21 - 9,0,18,2,Jumper
+66,Buddy Hield,FG_UNASSISTED,None,4:57,1,Kings,Timberwolves,21 - 11,1,10,2,Jumper
+67,blocks Taj,FG_MISS,Marvin Bagley,4:45,1,Kings,Timberwolves,21 - 11,0,0,2,Layup
+68,Team,DEFENSIVE_REBOUND,None,4:44,1,Kings,Timberwolves,21 - 11,1,N/A,N/A,N/A
+69,Josh Okogie,FOUL_ON_FLOOR,None,4:43,1,Timberwolves,Kings,21 - 11,0,N/A,N/A,N/A
+70,Marvin Bagley,FG_ASSISTED,De'Aaron Fox,4:35,1,Kings,Timberwolves,21 - 13,1,0,2,Dunk
+71,Josh Okogie,FG_MISS,None,4:13,1,Timberwolves,Kings,21 - 13,0,23,3,Jumper
+72,Taj Gibson,OFFENSIVE_REBOUND,None,4:10,1,Timberwolves,Kings,21 - 13,0,N/A,N/A,N/A
+73,Taj Gibson,FG_ASSISTED,Josh Okogie,3:59,1,Timberwolves,Kings,23 - 13,0,23,2,Jumper
+74,Willie Cauley-Stein,FG_ASSISTED,De'Aaron Fox,3:48,1,Kings,Timberwolves,23 - 16,1,26,3,Jumper
+75,Karl-Anthony Towns,FG_ASSISTED,Derrick Rose,3:28,1,Timberwolves,Kings,25 - 15,0,0,2,Dunk
+76,Buddy Hield,FG_MISS,None,3:20,1,Kings,Timberwolves,25 - 15,1,25,3,Jumper
+77,Taj Gibson,DEFENSIVE_REBOUND,None,3:20,1,Timberwolves,Kings,25 - 15,0,N/A,N/A,N/A
+78,Jimmy Butler,FG_MISS,None,3:02,1,Timberwolves,Kings,25 - 15,0,23,3,Jumper
+79,Karl-Anthony Towns,OFFENSIVE_REBOUND,None,2:59,1,Timberwolves,Kings,25 - 15,0,N/A,N/A,N/A
+80,Karl-Anthony Towns,FG_MISS,None,2:57,1,Timberwolves,Kings,25 - 15,0,14,2,Jumper
+81,Buddy Hield,DEFENSIVE_REBOUND,None,2:57,1,Kings,Timberwolves,25 - 15,1,N/A,N/A,N/A
+82,Iman Shumpert,FG_ASSISTED,Buddy Hield,2:53,1,Kings,Timberwolves,25 - 18,1,25,3,Jumper
+83,Team,Unknown,None,2:46,1,Timberwolves,Kings,25 - 18,0,N/A,N/A,N/A
+84,Kosta Koufos,SUBSTITUTION,Cauley-Stein Willie,2:46,1,Kings,Timberwolves,25 - 19,1,N/A,N/A,N/A
+85,C.J. Williams,SUBSTITUTION,Butler Jimmy,2:46,1,Timberwolves,Kings,25 - 19,0,N/A,N/A,N/A
+86,Derrick Rose,FG_MISS,None,2:37,1,Timberwolves,Kings,25 - 19,0,21,2,Jumper
+87,Marvin Bagley,DEFENSIVE_REBOUND,None,2:35,1,Kings,Timberwolves,25 - 19,1,N/A,N/A,N/A
+88,Iman Shumpert,FG_MISS,None,2:14,1,Kings,Timberwolves,25 - 19,1,20,2,Jumper
+89,Team,OFFENSIVE_REBOUND,None,2:12,1,Kings,Timberwolves,25 - 19,1,N/A,N/A,N/A
+90,Tyus Jones,SUBSTITUTION,Rose Derrick,2:12,1,Timberwolves,Kings,25 - 19,0,N/A,N/A,N/A
+91,shot clock,TURNOVER,None,2:11,1,Kings,Timberwolves,25 - 19,1,N/A,N/A,N/A
+92,Karl-Anthony Towns,FG_MISS,None,2:07,1,Timberwolves,Kings,25 - 19,0,26,3,Jumper
+93,Kosta Koufos,DEFENSIVE_REBOUND,None,2:03,1,Kings,Timberwolves,25 - 19,1,N/A,N/A,N/A
+94,Josh Okogie,FOUL_ON_FLOOR,None,1:56,1,Timberwolves,Kings,25 - 19,0,N/A,N/A,N/A
+95,Iman Shumpert,FT,None,1:56,1,Kings,Timberwolves,25 - 20,1,N/A,1,N/A
+96,Iman Shumpert,FT,None,1:56,1,Kings,Timberwolves,25 - 21,1,N/A,1,N/A
+97,Frank Mason,SUBSTITUTION,Fox De'Aaron,1:56,1,Kings,Timberwolves,25 - 21,1,N/A,N/A,N/A
+98,Justin Jackson,SUBSTITUTION,Hield Buddy,1:56,1,Kings,Timberwolves,25 - 21,1,N/A,N/A,N/A
+99,Iman Shumpert,FT,None,1:56,1,Kings,Timberwolves,25 - 22,1,N/A,1,N/A
+100,James Nunnally,SUBSTITUTION,Okogie Josh,1:56,1,Timberwolves,Kings,25 - 22,0,N/A,N/A,N/A
+101,C.J. Williams,FG_UNASSISTED,None,1:36,1,Timberwolves,Kings,27 - 21,0,21,2,Jumper
+102,Iman Shumpert,FG_ASSISTED,Kosta Koufos,1:19,1,Kings,Timberwolves,27 - 24,1,23,3,Jumper
+103,James Nunnally,FG_MISS,None,1:06,1,Timberwolves,Kings,27 - 25,0,20,2,Jumper
+104,Karl-Anthony Towns,OFFENSIVE_REBOUND,None,1:06,1,Timberwolves,Kings,27 - 25,0,N/A,N/A,N/A
+105,Karl-Anthony Towns,FG_UNASSISTED,None,1:02,1,Timberwolves,Kings,29 - 25,0,0,2,Layup
+106,Taj Gibson,FOUL_ON_FLOOR,None,50.2,1,Timberwolves,Kings,29 - 25,0,N/A,N/A,N/A
+107,Marvin Bagley,FT,None,50.2,1,Kings,Timberwolves,29 - 26,1,N/A,1,N/A
+108,Gorgui Dieng,SUBSTITUTION,Towns Karl-Anthony,50.2,1,Timberwolves,Kings,29 - 26,0,N/A,N/A,N/A
+109,Anthony Tolliver,SUBSTITUTION,Gibson Taj,50.2,1,Timberwolves,Kings,29 - 26,0,N/A,N/A,N/A
+110,Troy Williams,SUBSTITUTION,Shumpert Iman,50.2,1,Kings,Timberwolves,29 - 26,1,N/A,N/A,N/A
+111,Marvin Bagley,FT,None,50.2,1,Kings,Timberwolves,29 - 27,1,N/A,1,N/A
+112,James Nunnally,FG_UNASSISTED,None,32.8,1,Timberwolves,Kings,31 - 27,0,0,2,Layup
+113,Frank Mason,FG_MISS,None,15.8,1,Kings,Timberwolves,31 - 27,1, ,2,Jumper
+114,Gorgui Dieng,DEFENSIVE_REBOUND,None,13.9,1,Timberwolves,Kings,31 - 27,0,N/A,N/A,N/A
+115,Tyus Jones,TURNOVER,None,3.3,1,Timberwolves,Kings,31 - 27,0,N/A,N/A,N/A
+116,Yogi Ferrell,SUBSTITUTION,Williams Troy,3.3,1,Kings,Timberwolves,31 - 27,1,N/A,N/A,N/A
+117,Kosta Koufos,FG_ASSISTED,Justin Jackson,0.0,1,Kings,Timberwolves,31 - 29,1,19,2,Jumper
+118,End of,Unknown,None,0.0,1,Kings,Timberwolves,31 - 29,1,N/A,N/A,N/A
+0,Troy Williams,SUBSTITUTION,III Bagley,12:00,2,Kings,Timberwolves,31 - 29,1,N/A,N/A,N/A
+1,James Nunnally,FOUL_ON_FLOOR,None,11:52,2,Timberwolves,Kings,31 - 29,0,N/A,N/A,N/A
+2,Kosta Koufos,FG_ASSISTED,ason III,11:37,2,Kings,Timberwolves,31 - 31,1, ,2,Jumper
+3,Tyus Jones,FG_MISS,None,11:18,2,Timberwolves,Kings,31 - 31,0,20,2,Jumper
+4,Team,OFFENSIVE_REBOUND,None,11:17,2,Timberwolves,Kings,31 - 31,0,N/A,N/A,N/A
+5,Anthony Tolliver,FG_MISS,None,11:05,2,Timberwolves,Kings,31 - 31,0,23,3,Jumper
+6,Kosta Koufos,DEFENSIVE_REBOUND,None,11:02,2,Kings,Timberwolves,31 - 31,1,N/A,N/A,N/A
+7,Yogi Ferrell,FG_MISS,None,10:59,2,Kings,Timberwolves,31 - 31,1, ,2,Jumper
+8,Gorgui Dieng,DEFENSIVE_REBOUND,None,10:57,2,Timberwolves,Kings,31 - 31,0,N/A,N/A,N/A
+9,C.J. Williams,FG_UNASSISTED,None,10:40,2,Timberwolves,Kings,33 - 31,0,0,2,Layup
+10,Justin Jackson,FG_MISS,None,10:21,2,Kings,Timberwolves,33 - 31,1,18,2,Jumper
+11,Tyus Jones,DEFENSIVE_REBOUND,None,10:18,2,Timberwolves,Kings,33 - 31,0,N/A,N/A,N/A
+12,Kosta Koufos,FOUL_ON_FLOOR,None,10:09,2,Kings,Timberwolves,33 - 31,1,N/A,N/A,N/A
+13,Gorgui Dieng,FT,None,10:09,2,Timberwolves,Kings,34 - 31,0,N/A,1,N/A
+14,Gorgui Dieng,FT_MISS,None,10:09,2,Timberwolves,Kings,34 - 31,0,N/A,1,N/A
+15,Kosta Koufos,DEFENSIVE_REBOUND,None,10:06,2,Kings,Timberwolves,34 - 31,1,N/A,N/A,N/A
+16,Frank Mason,TURNOVER,None,9:58,2,Kings,Timberwolves,34 - 31,1,N/A,N/A,N/A
+17,Gorgui Dieng,FG_ASSISTED,Tyus Jones,9:47,2,Timberwolves,Kings,36 - 31,0,16,2,Jumper
+18,Anthony Tolliver,FOUL_ON_FLOOR,None,9:39,2,Timberwolves,Kings,36 - 31,0,N/A,N/A,N/A
+19,Troy Williams,FT_MISS,None,9:39,2,Kings,Timberwolves,36 - 31,1,N/A,1,N/A
+20,Team,OFFENSIVE_REBOUND,None,9:39,2,Kings,Timberwolves,36 - 31,1,N/A,N/A,N/A
+21,Troy Williams,FT,None,9:39,2,Kings,Timberwolves,36 - 32,1,N/A,1,N/A
+22,Jimmy Butler,SUBSTITUTION,Nunnally James,9:39,2,Timberwolves,Kings,36 - 32,0,N/A,N/A,N/A
+23,Troy Williams,FT,None,9:39,2,Kings,Timberwolves,36 - 33,1,N/A,1,N/A
+24,Jimmy Butler,FG_MISS,None,9:23,2,Timberwolves,Kings,36 - 33,0,0,2,Layup
+25,Justin Jackson,DEFENSIVE_REBOUND,None,9:20,2,Kings,Timberwolves,36 - 33,1,N/A,N/A,N/A
+26,Yogi Ferrell,FG_ASSISTED,Justin Jackson,9:18,2,Kings,Timberwolves,36 - 36,1,25,3,Jumper
+27,Gorgui Dieng,FG_MISS,None,8:50,2,Timberwolves,Kings,36 - 36,0,17,2,Jumper
+28,Troy Williams,DEFENSIVE_REBOUND,None,8:46,2,Kings,Timberwolves,36 - 36,1,N/A,N/A,N/A
+29,Gorgui Dieng,FOUL_ON_FLOOR,None,8:46,2,Timberwolves,Kings,36 - 36,0,N/A,N/A,N/A
+30,Derrick Rose,SUBSTITUTION,Jones Tyus,8:46,2,Timberwolves,Kings,36 - 36,0,N/A,N/A,N/A
+31,Karl-Anthony Towns,SUBSTITUTION,Dieng Gorgui,8:46,2,Timberwolves,Kings,36 - 36,0,N/A,N/A,N/A
+32,Yogi Ferrell,FG_UNASSISTED,None,8:42,2,Kings,Timberwolves,36 - 38,1,8,2,Jumper
+33,C.J. Williams,FOUL_ON_FLOOR,None,8:42,2,Timberwolves,Kings,36 - 38,0,N/A,N/A,N/A
+34,Yogi Ferrell,FT,None,8:42,2,Kings,Timberwolves,36 - 39,1,N/A,1,N/A
+35,Troy Williams,FOUL_ON_FLOOR,None,8:31,2,Kings,Timberwolves,36 - 39,1,N/A,N/A,N/A
+36,C.J. Williams,TURNOVER,None,8:23,2,Timberwolves,Kings,36 - 39,0,N/A,N/A,N/A
+37,Justin Jackson,FG_MISS,None,8:14,2,Kings,Timberwolves,36 - 39,1,25,3,Jumper
+38,Karl-Anthony Towns,DEFENSIVE_REBOUND,None,8:11,2,Timberwolves,Kings,36 - 39,0,N/A,N/A,N/A
+39,Jimmy Butler,FG_ASSISTED,Derrick Rose,8:08,2,Timberwolves,Kings,38 - 39,0,0,2,Layup
+40,Justin Jackson,FOUL_ON_FLOOR,None,8:08,2,Kings,Timberwolves,38 - 39,1,N/A,N/A,N/A
+41,Taj Gibson,SUBSTITUTION,Williams C.J.,8:08,2,Timberwolves,Kings,38 - 39,0,N/A,N/A,N/A
+42,Josh Okogie,SUBSTITUTION,Tolliver Anthony,8:08,2,Timberwolves,Kings,38 - 39,0,N/A,N/A,N/A
+43,Jimmy Butler,FT_MISS,None,8:08,2,Timberwolves,Kings,38 - 39,0,N/A,1,N/A
+44,Kosta Koufos,DEFENSIVE_REBOUND,None,8:08,2,Kings,Timberwolves,38 - 39,1,N/A,N/A,N/A
+45,Kosta Koufos,FG_MISS,None,7:47,2,Kings,Timberwolves,38 - 39,1,4,2,Jumper
+46,Troy Williams,OFFENSIVE_REBOUND,None,7:46,2,Kings,Timberwolves,38 - 39,1,N/A,N/A,N/A
+47,Troy Williams,FG_MISS,None,7:45,2,Kings,Timberwolves,38 - 39,1, ,2,Jumper
+48,Karl-Anthony Towns,DEFENSIVE_REBOUND,None,7:45,2,Timberwolves,Kings,38 - 39,0,N/A,N/A,N/A
+49,Yogi Ferrell,FOUL_ON_FLOOR,None,7:41,2,Kings,Timberwolves,38 - 39,1,N/A,N/A,N/A
+50,Willie Cauley-Stein,SUBSTITUTION,Jackson Justin,7:41,2,Kings,Timberwolves,38 - 39,1,N/A,N/A,N/A
+51,Nemanja Bjelica,SUBSTITUTION,Koufos Kosta,7:41,2,Kings,Timberwolves,38 - 39,1,N/A,N/A,N/A
+52,Yogi Ferrell,FOUL_ON_FLOOR,None,7:38,2,Kings,Timberwolves,38 - 39,1,N/A,N/A,N/A
+53,Karl-Anthony Towns,FT,None,7:38,2,Timberwolves,Kings,39 - 39,0,N/A,1,N/A
+54,Karl-Anthony Towns,FT,None,7:38,2,Timberwolves,Kings,40 - 39,0,N/A,1,N/A
+55,Troy Williams,FG_MISS,None,7:20,2,Kings,Timberwolves,40 - 39,1,25,3,Jumper
+56,Jimmy Butler,DEFENSIVE_REBOUND,None,7:16,2,Timberwolves,Kings,40 - 39,0,N/A,N/A,N/A
+57,Karl-Anthony Towns,FG_ASSISTED,Jimmy Butler,7:09,2,Timberwolves,Kings,43 - 39,0,26,3,Jumper
+58,Willie Cauley-Stein,FG_MISS,None,6:54,2,Kings,Timberwolves,43 - 39,1,0,2,Dunk
+59,Frank Mason,OFFENSIVE_REBOUND,None,6:52,2,Kings,Timberwolves,43 - 39,1,N/A,N/A,N/A
+60,Nemanja Bjelica,FG_MISS,None,6:49,2,Kings,Timberwolves,43 - 39,1,23,3,Jumper
+61,Derrick Rose,DEFENSIVE_REBOUND,None,6:43,2,Timberwolves,Kings,43 - 39,0,N/A,N/A,N/A
+62,Karl-Anthony Towns,FG_MISS,Nemanja Bjelica,6:40,2,Kings,Timberwolves,43 - 39,0,0,2,Layup
+63,Nemanja Bjelica,DEFENSIVE_REBOUND,None,6:40,2,Kings,Timberwolves,43 - 39,1,N/A,N/A,N/A
+64,Willie Cauley-Stein,FG_ASSISTED,Nemanja Bjelica,6:33,2,Kings,Timberwolves,43 - 41,1,0,2,Dunk
+65,Willie Cauley-Stein,FOUL_ON_FLOOR,None,6:22,2,Kings,Timberwolves,43 - 41,1,N/A,N/A,N/A
+66,Team,Unknown,None,6:22,2,Kings,Timberwolves,43 - 41,1,N/A,N/A,N/A
+67,De'Aaron Fox,SUBSTITUTION,Ferrell Yogi,6:22,2,Kings,Timberwolves,43 - 41,1,N/A,N/A,N/A
+68,Buddy Hield,SUBSTITUTION,III Mason,6:22,2,Kings,Timberwolves,43 - 41,1,N/A,N/A,N/A
+69,Karl-Anthony Towns,FT,None,6:22,2,Timberwolves,Kings,44 - 41,0,N/A,1,N/A
+70,Karl-Anthony Towns,FT,None,6:22,2,Timberwolves,Kings,45 - 41,0,N/A,1,N/A
+71,Willie Cauley-Stein,FG_MISS,None,6:10,2,Kings,Timberwolves,45 - 41,1,17,2,Jumper
+72,Derrick Rose,DEFENSIVE_REBOUND,None,6:07,2,Timberwolves,Kings,45 - 41,0,N/A,N/A,N/A
+73,Karl-Anthony Towns,FG_UNASSISTED,None,5:57,2,Timberwolves,Kings,48 - 41,0,23,3,Jumper
+74,De'Aaron Fox,FG_UNASSISTED,None,5:51,2,Kings,Timberwolves,48 - 43,1,17,2,Jumper
+75,Nemanja Bjelica,FOUL_ON_FLOOR,None,5:41,2,Kings,Timberwolves,48 - 43,1,N/A,N/A,N/A
+76,Taj Gibson,FT_MISS,None,5:41,2,Timberwolves,Kings,48 - 43,0,N/A,1,N/A
+77,Team,OFFENSIVE_REBOUND,None,5:41,2,Timberwolves,Kings,48 - 43,0,N/A,N/A,N/A
+78,Taj Gibson,FT,None,5:41,2,Timberwolves,Kings,49 - 43,0,N/A,1,N/A
+79,Willie Cauley-Stein,FG_ASSISTED,De'Aaron Fox,5:29,2,Kings,Timberwolves,49 - 45,1,0,2,Dunk
+80,Derrick Rose,FG_MISS,None,5:12,2,Timberwolves,Kings,49 - 45,0,24,3,Jumper
+81,Buddy Hield,DEFENSIVE_REBOUND,None,5:10,2,Kings,Timberwolves,49 - 45,1,N/A,N/A,N/A
+82,Troy Williams,FG_MISS,None,5:06,2,Kings,Timberwolves,49 - 45,1,0,2,Layup
+83,Taj Gibson,DEFENSIVE_REBOUND,None,5:03,2,Timberwolves,Kings,49 - 45,0,N/A,N/A,N/A
+84,Josh Okogie,FG_MISS,None,4:54,2,Timberwolves,Kings,49 - 45,0,19,2,Jumper
+85,Buddy Hield,DEFENSIVE_REBOUND,None,4:54,2,Kings,Timberwolves,49 - 45,1,N/A,N/A,N/A
+86,Troy Williams,FG_UNASSISTED,None,4:47,2,Kings,Timberwolves,49 - 47,1, ,2,Jumper
+87,Jimmy Butler,FG_ASSISTED,Taj Gibson,4:26,2,Timberwolves,Kings,51 - 47,0,0,2,Layup
+88,Buddy Hield,FOUL_ON_FLOOR,None,4:18,2,Kings,Timberwolves,51 - 47,1,N/A,N/A,N/A
+89,Buddy Hield,TURNOVER,None,4:18,2,Kings,Timberwolves,51 - 47,1,N/A,N/A,N/A
+90,Iman Shumpert,SUBSTITUTION,Williams Troy,4:18,2,Kings,Timberwolves,51 - 47,1,N/A,N/A,N/A
+91,Tyus Jones,SUBSTITUTION,Okogie Josh,4:18,2,Timberwolves,Kings,51 - 47,0,N/A,N/A,N/A
+92,Taj Gibson,FG_ASSISTED,Karl-Anthony Towns,3:56,2,Timberwolves,Kings,53 - 47,0,0,2,Dunk
+93,Nemanja Bjelica,FG_ASSISTED,De'Aaron Fox,3:38,2,Kings,Timberwolves,53 - 49,1,0,2,Layup
+94,Derrick Rose,FG_MISS,De'Aaron Fox,3:29,2,Kings,Timberwolves,53 - 49,0,0,2,Layup
+95,Willie Cauley-Stein,DEFENSIVE_REBOUND,None,3:26,2,Kings,Timberwolves,53 - 49,1,N/A,N/A,N/A
+96,Jimmy Butler,FOUL_ON_FLOOR,None,3:25,2,Timberwolves,Kings,53 - 49,0,N/A,N/A,N/A
+97,De'Aaron Fox,FT,None,3:25,2,Kings,Timberwolves,53 - 50,1,N/A,1,N/A
+98,Yogi Ferrell,SUBSTITUTION,Hield Buddy,3:25,2,Kings,Timberwolves,53 - 50,1,N/A,N/A,N/A
+99,De'Aaron Fox,FT_MISS,None,3:25,2,Kings,Timberwolves,53 - 50,1,N/A,1,N/A
+100,Willie Cauley-Stein,OFFENSIVE_REBOUND,None,3:22,2,Kings,Timberwolves,53 - 50,1,N/A,N/A,N/A
+101,Nemanja Bjelica,FG_UNASSISTED,None,3:13,2,Kings,Timberwolves,53 - 52,1, ,2,Jumper
+102,Taj Gibson,FG_MISS,None,2:46,2,Timberwolves,Kings,53 - 52,0,26,3,Jumper
+103,De'Aaron Fox,DEFENSIVE_REBOUND,None,2:43,2,Kings,Timberwolves,53 - 52,1,N/A,N/A,N/A
+104,Iman Shumpert,FG_MISS,None,2:39,2,Kings,Timberwolves,53 - 52,1,25,3,Jumper
+105,Karl-Anthony Towns,DEFENSIVE_REBOUND,None,2:36,2,Timberwolves,Kings,53 - 52,0,N/A,N/A,N/A
+106,Karl-Anthony Towns,FG_MISS,None,2:30,2,Timberwolves,Kings,53 - 52,0,25,3,Jumper
+107,Yogi Ferrell,DEFENSIVE_REBOUND,None,2:27,2,Kings,Timberwolves,53 - 52,1,N/A,N/A,N/A
+108,Willie Cauley-Stein,FG_UNASSISTED,None,2:18,2,Kings,Timberwolves,53 - 54,1,6,2,Jumper
+109,Tyus Jones,FG_ASSISTED,Jimmy Butler,2:00,2,Timberwolves,Kings,55 - 54,0,0,2,Layup
+110,Yogi Ferrell,FG_ASSISTED,De'Aaron Fox,1:53,2,Kings,Timberwolves,55 - 56,1, ,2,Jumper
+111,Karl-Anthony Towns,FG_MISS,None,1:38,2,Timberwolves,Kings,55 - 56,0,19,2,Jumper
+112,Taj Gibson,OFFENSIVE_REBOUND,None,1:36,2,Timberwolves,Kings,55 - 56,0,N/A,N/A,N/A
+113,Karl-Anthony Towns,FG_ASSISTED,Taj Gibson,1:34,2,Timberwolves,Kings,57 - 56,0,0,2,Layup
+114,Derrick Rose,FOUL_ON_FLOOR,None,1:29,2,Timberwolves,Kings,57 - 56,0,N/A,N/A,N/A
+115,Team,Unknown,None,1:29,2,Timberwolves,Kings,57 - 56,0,N/A,N/A,N/A
+116,De'Aaron Fox,FT,None,1:29,2,Kings,Timberwolves,57 - 57,1,N/A,1,N/A
+117,De'Aaron Fox,FT,None,1:29,2,Kings,Timberwolves,57 - 58,1,N/A,1,N/A
+118,Nemanja Bjelica,FOUL_TECHNICAL,None,1:14,2,Kings,Timberwolves,57 - 58,1,N/A,N/A,N/A
+119,Jimmy Butler,FT,None,1:14,2,Timberwolves,Kings,58 - 58,0,N/A,1,N/A
+120,Derrick Rose,TURNOVER,Yogi Ferrell,1:01,2,Timberwolves,Kings,58 - 58,0,N/A,N/A,N/A
+121,Iman Shumpert,FG_ASSISTED,De'Aaron Fox,56.2,2,Kings,Timberwolves,58 - 61,1,25,3,Jumper
+122,Karl-Anthony Towns,FG_ASSISTED,Jimmy Butler,51.2,2,Timberwolves,Kings,60 - 61,0,0,2,Layup
+123,Taj Gibson,FOUL_ON_FLOOR,None,45.8,2,Timberwolves,Kings,60 - 61,0,N/A,N/A,N/A
+124,Willie Cauley-Stein,FT,None,45.8,2,Kings,Timberwolves,60 - 62,1,N/A,1,N/A
+125,Willie Cauley-Stein,FT,None,45.8,2,Kings,Timberwolves,60 - 63,1,N/A,1,N/A
+126,Karl-Anthony Towns,FG_MISS,None,30.5,2,Timberwolves,Kings,60 - 63,0,0,2,Layup
+127,Yogi Ferrell,DEFENSIVE_REBOUND,None,27.6,2,Kings,Timberwolves,60 - 63,1,N/A,N/A,N/A
+128,Iman Shumpert,FG_MISS,None,24.8,2,Kings,Timberwolves,60 - 63,1,25,3,Jumper
+129,Team,DEFENSIVE_REBOUND,None,24.8,2,Timberwolves,Kings,60 - 63,0,N/A,N/A,N/A
+130,Derrick Rose,FG_MISS,De'Aaron Fox,0.6,2,Kings,Timberwolves,60 - 63,0,0,2,Layup
+131,Team,OFFENSIVE_REBOUND,None,0.6,2,Timberwolves,Kings,60 - 63,0,N/A,N/A,N/A
+132,Willie Cauley-Stein,FOUL_ON_FLOOR,None,0.6,2,Kings,Timberwolves,60 - 63,1,N/A,N/A,N/A
+133,Karl-Anthony Towns,FT,None,0.6,2,Timberwolves,Kings,61 - 63,0,N/A,1,N/A
+134,Yogi Ferrell,FOUL_ON_FLOOR,None,0.6,2,Kings,Timberwolves,61 - 63,1,N/A,N/A,N/A
+135,Tyus Jones,FT_MISS,None,0.6,2,Timberwolves,Kings,61 - 63,0,N/A,1,N/A
+136,Team,OFFENSIVE_REBOUND,None,0.6,2,Timberwolves,Kings,61 - 63,0,N/A,N/A,N/A
+137,Taj Gibson,FG_MISS,None,0.0,2,Timberwolves,Kings,61 - 63,0,21,2,Jumper
+138,Team,OFFENSIVE_REBOUND,None,0.0,2,Timberwolves,Kings,61 - 63,0,N/A,N/A,N/A
+139,End of,Unknown,None,0.0,2,Kings,Timberwolves,61 - 63,1,N/A,N/A,N/A
+0,Buddy Hield,SUBSTITUTION,Ferrell Yogi,12:00,3,Kings,Timberwolves,61 - 63,1,N/A,N/A,N/A
+1,Josh Okogie,SUBSTITUTION,Jones Tyus,12:00,3,Timberwolves,Kings,61 - 63,0,N/A,N/A,N/A
+2,Buddy Hield,FG_MISS,None,11:44,3,Kings,Timberwolves,61 - 63,1, ,2,Jumper
+3,Taj Gibson,DEFENSIVE_REBOUND,None,11:38,3,Timberwolves,Kings,61 - 63,0,N/A,N/A,N/A
+4,Derrick Rose,FG_MISS,None,11:26,3,Timberwolves,Kings,61 - 63,0,25,3,Jumper
+5,Iman Shumpert,DEFENSIVE_REBOUND,None,11:24,3,Kings,Timberwolves,61 - 63,1,N/A,N/A,N/A
+6,Buddy Hield,FG_MISS,None,11:20,3,Kings,Timberwolves,61 - 63,1,24,3,Jumper
+7,Derrick Rose,DEFENSIVE_REBOUND,None,11:17,3,Timberwolves,Kings,61 - 63,0,N/A,N/A,N/A
+8,De'Aaron Fox,FOUL_ON_FLOOR,None,11:16,3,Kings,Timberwolves,61 - 63,1,N/A,N/A,N/A
+9,Josh Okogie,FG_ASSISTED,Derrick Rose,11:02,3,Timberwolves,Kings,63 - 63,0,6,2,Jumper
+10,Iman Shumpert,FG_ASSISTED,Willie Cauley-Stein,10:54,3,Kings,Timberwolves,63 - 66,1,23,3,Jumper
+11,Karl-Anthony Towns,FG_MISS,None,10:40,3,Timberwolves,Kings,63 - 66,0,25,3,Jumper
+12,Nemanja Bjelica,DEFENSIVE_REBOUND,None,10:35,3,Kings,Timberwolves,63 - 66,1,N/A,N/A,N/A
+13,Nemanja Bjelica,FG_MISS,None,10:34,3,Kings,Timberwolves,63 - 66,1, ,2,Jumper
+14,Team,DEFENSIVE_REBOUND,None,10:34,3,Timberwolves,Kings,63 - 66,0,N/A,N/A,N/A
+15,Taj Gibson,FG_MISS,None,10:17,3,Timberwolves,Kings,63 - 66,0,0,2,Layup
+16,Buddy Hield,DEFENSIVE_REBOUND,None,10:14,3,Kings,Timberwolves,63 - 66,1,N/A,N/A,N/A
+17,Iman Shumpert,FG_MISS,None,10:11,3,Kings,Timberwolves,63 - 66,1,25,3,Jumper
+18,Jimmy Butler,DEFENSIVE_REBOUND,None,10:07,3,Timberwolves,Kings,63 - 66,0,N/A,N/A,N/A
+19,Josh Okogie,FG_ASSISTED,Jimmy Butler,10:01,3,Timberwolves,Kings,65 - 66,0, ,2,Jumper
+20,Willie Cauley-Stein,FG_ASSISTED,Iman Shumpert,9:49,3,Kings,Timberwolves,65 - 68,1,0,2,Dunk
+21,Taj Gibson,FOUL_ON_FLOOR,None,9:34,3,Timberwolves,Kings,65 - 68,0,N/A,N/A,N/A
+22,Taj Gibson,TURNOVER,None,9:34,3,Timberwolves,Kings,65 - 68,0,N/A,N/A,N/A
+23,Iman Shumpert,FG_MISS,None,9:18,3,Kings,Timberwolves,65 - 68,1, ,2,Jumper
+24,Nemanja Bjelica,OFFENSIVE_REBOUND,None,9:13,3,Kings,Timberwolves,65 - 68,1,N/A,N/A,N/A
+25,Nemanja Bjelica,FG_UNASSISTED,None,9:13,3,Kings,Timberwolves,65 - 70,1, ,2,Jumper
+26,Jimmy Butler,FG_MISS,None,9:04,3,Timberwolves,Kings,65 - 70,0,0,2,Layup
+27,Willie Cauley-Stein,DEFENSIVE_REBOUND,None,9:01,3,Kings,Timberwolves,65 - 70,1,N/A,N/A,N/A
+28,Buddy Hield,FG_MISS,None,8:57,3,Kings,Timberwolves,65 - 70,1,25,3,Jumper
+29,Karl-Anthony Towns,DEFENSIVE_REBOUND,None,8:53,3,Timberwolves,Kings,65 - 70,0,N/A,N/A,N/A
+30,Taj Gibson,FG_MISS,None,8:36,3,Timberwolves,Kings,65 - 70,0,0,2,Layup
+31,Karl-Anthony Towns,OFFENSIVE_REBOUND,None,8:33,3,Timberwolves,Kings,65 - 70,0,N/A,N/A,N/A
+32,Karl-Anthony Towns,FG_MISS,Nemanja Bjelica,8:32,3,Kings,Timberwolves,65 - 70,0,0,2,Layup
+33,Nemanja Bjelica,DEFENSIVE_REBOUND,None,8:30,3,Kings,Timberwolves,65 - 70,1,N/A,N/A,N/A
+34,De'Aaron Fox,FG_UNASSISTED,None,8:27,3,Kings,Timberwolves,65 - 73,1,26,3,Jumper
+35,Team,Unknown,None,8:26,3,Timberwolves,Kings,65 - 73,0,N/A,N/A,N/A
+36,Iman Shumpert,FOUL_ON_FLOOR,None,8:13,3,Kings,Timberwolves,65 - 73,1,N/A,N/A,N/A
+37,Josh Okogie,TURNOVER,None,8:04,3,Timberwolves,Kings,65 - 73,0,N/A,N/A,N/A
+38,Iman Shumpert,FG_MISS,None,7:56,3,Kings,Timberwolves,65 - 73,1,26,3,Jumper
+39,Willie Cauley-Stein,OFFENSIVE_REBOUND,None,7:54,3,Kings,Timberwolves,65 - 73,1,N/A,N/A,N/A
+40,Willie Cauley-Stein,FG_MISS,None,7:54,3,Kings,Timberwolves,65 - 73,1, ,2,Jumper
+41,Team,OFFENSIVE_REBOUND,None,7:54,3,Kings,Timberwolves,65 - 73,1,N/A,N/A,N/A
+42,De'Aaron Fox,FG_MISS,None,7:45,3,Kings,Timberwolves,65 - 73,1,13,2,Jumper
+43,Team,DEFENSIVE_REBOUND,None,7:45,3,Timberwolves,Kings,65 - 73,0,N/A,N/A,N/A
+44,Willie Cauley-Stein,FOUL_ON_FLOOR,None,7:45,3,Kings,Timberwolves,65 - 73,1,N/A,N/A,N/A
+45,Taj Gibson,FG_MISS,None,7:27,3,Timberwolves,Kings,65 - 73,0,0,2,Layup
+46,Nemanja Bjelica,DEFENSIVE_REBOUND,None,7:24,3,Kings,Timberwolves,65 - 73,1,N/A,N/A,N/A
+47,Willie Cauley-Stein,TURNOVER,Derrick Rose,7:13,3,Kings,Timberwolves,65 - 73,1,N/A,N/A,N/A
+48,Derrick Rose,FG_UNASSISTED,None,7:08,3,Timberwolves,Kings,67 - 73,0, ,2,Jumper
+49,Josh Okogie,FOUL_ON_FLOOR,None,7:01,3,Timberwolves,Kings,67 - 73,0,N/A,N/A,N/A
+50,Willie Cauley-Stein,FG_UNASSISTED,None,6:52,3,Kings,Timberwolves,67 - 75,1,0,2,Layup
+51,Karl-Anthony Towns,FG_MISS,None,6:39,3,Timberwolves,Kings,67 - 75,0, ,2,Jumper
+52,De'Aaron Fox,DEFENSIVE_REBOUND,None,6:35,3,Kings,Timberwolves,67 - 75,1,N/A,N/A,N/A
+53,Karl-Anthony Towns,FOUL_ON_FLOOR,None,6:32,3,Timberwolves,Kings,67 - 75,0,N/A,N/A,N/A
+54,Willie Cauley-Stein,FT_MISS,None,6:32,3,Kings,Timberwolves,67 - 75,1,N/A,1,N/A
+55,Team,OFFENSIVE_REBOUND,None,6:32,3,Kings,Timberwolves,67 - 75,1,N/A,N/A,N/A
+56,Willie Cauley-Stein,FT_MISS,None,6:32,3,Kings,Timberwolves,67 - 75,1,N/A,1,N/A
+57,Derrick Rose,DEFENSIVE_REBOUND,None,6:27,3,Timberwolves,Kings,67 - 75,0,N/A,N/A,N/A
+58,Derrick Rose,FG_UNASSISTED,None,6:20,3,Timberwolves,Kings,69 - 75,0,0,2,Layup
+59,Nemanja Bjelica,FOUL_ON_FLOOR,None,6:11,3,Kings,Timberwolves,69 - 75,1,N/A,N/A,N/A
+60,Nemanja Bjelica,TURNOVER,None,6:11,3,Kings,Timberwolves,69 - 75,1,N/A,N/A,N/A
+61,Kosta Koufos,SUBSTITUTION,Cauley-Stein Willie,6:11,3,Kings,Timberwolves,69 - 75,1,N/A,N/A,N/A
+62,Derrick Rose,FG_MISS,None,6:02,3,Timberwolves,Kings,69 - 75,0,0,2,Layup
+63,Karl-Anthony Towns,OFFENSIVE_REBOUND,None,5:58,3,Timberwolves,Kings,69 - 75,0,N/A,N/A,N/A
+64,Karl-Anthony Towns,FG_MISS,None,5:58,3,Timberwolves,Kings,69 - 75,0, ,2,Jumper
+65,Taj Gibson,OFFENSIVE_REBOUND,None,5:56,3,Timberwolves,Kings,69 - 75,0,N/A,N/A,N/A
+66,Buddy Hield,FOUL_ON_FLOOR,None,5:55,3,Kings,Timberwolves,69 - 75,1,N/A,N/A,N/A
+67,Jimmy Butler,FT,None,5:55,3,Timberwolves,Kings,70 - 75,0,N/A,1,N/A
+68,Jimmy Butler,FT,None,5:55,3,Timberwolves,Kings,71 - 75,0,N/A,1,N/A
+69,Iman Shumpert,FG_ASSISTED,De'Aaron Fox,5:39,3,Kings,Timberwolves,71 - 77,1,0,2,Layup
+70,Jimmy Butler,FG_MISS,None,5:25,3,Timberwolves,Kings,71 - 77,0,14,2,Jumper
+71,Karl-Anthony Towns,OFFENSIVE_REBOUND,None,5:23,3,Timberwolves,Kings,71 - 77,0,N/A,N/A,N/A
+72,Karl-Anthony Towns,FOUL_ON_FLOOR,None,5:22,3,Timberwolves,Kings,71 - 77,0,N/A,N/A,N/A
+73,Karl-Anthony Towns,TURNOVER,None,5:22,3,Timberwolves,Kings,71 - 77,0,N/A,N/A,N/A
+74,Troy Williams,SUBSTITUTION,Hield Buddy,5:22,3,Kings,Timberwolves,71 - 77,1,N/A,N/A,N/A
+75,Derrick Rose,FOUL_ON_FLOOR,None,5:10,3,Timberwolves,Kings,71 - 77,0,N/A,N/A,N/A
+76,Team,Unknown,None,5:10,3,Timberwolves,Kings,71 - 77,0,N/A,N/A,N/A
+77,De'Aaron Fox,FT,None,5:10,3,Kings,Timberwolves,71 - 78,1,N/A,1,N/A
+78,De'Aaron Fox,FT_MISS,None,5:10,3,Kings,Timberwolves,71 - 78,1,N/A,1,N/A
+79,Karl-Anthony Towns,DEFENSIVE_REBOUND,None,5:08,3,Timberwolves,Kings,71 - 78,0,N/A,N/A,N/A
+80,Kosta Koufos,FOUL_ON_FLOOR,None,4:58,3,Kings,Timberwolves,71 - 78,1,N/A,N/A,N/A
+81,Jimmy Butler,FT,None,4:58,3,Timberwolves,Kings,72 - 78,0,N/A,1,N/A
+82,Jimmy Butler,FT,None,4:58,3,Timberwolves,Kings,73 - 78,0,N/A,1,N/A
+83,Troy Williams,FG_MISS,None,4:40,3,Kings,Timberwolves,73 - 78,1,8,2,Jumper
+84,Karl-Anthony Towns,DEFENSIVE_REBOUND,None,4:38,3,Timberwolves,Kings,73 - 78,0,N/A,N/A,N/A
+85,Nemanja Bjelica,FOUL_ON_FLOOR,None,4:36,3,Kings,Timberwolves,73 - 78,1,N/A,N/A,N/A
+86,Derrick Rose,FT,None,4:36,3,Timberwolves,Kings,74 - 78,0,N/A,1,N/A
+87,Derrick Rose,FT,None,4:36,3,Timberwolves,Kings,75 - 78,0,N/A,1,N/A
+88,Iman Shumpert,TURNOVER,Jimmy Butler,4:27,3,Kings,Timberwolves,75 - 78,1,N/A,N/A,N/A
+89,Jimmy Butler,TURNOVER,De'Aaron Fox,4:23,3,Timberwolves,Kings,75 - 78,0,N/A,N/A,N/A
+90,Troy Williams,FG_ASSISTED,De'Aaron Fox,4:20,3,Kings,Timberwolves,75 - 80,1,0,2,Dunk
+91,Derrick Rose,FG_UNASSISTED,None,4:01,3,Timberwolves,Kings,77 - 80,0,17,2,Jumper
+92,Derrick Rose,FOUL_ON_FLOOR,None,3:52,3,Timberwolves,Kings,77 - 80,0,N/A,N/A,N/A
+93,Tyus Jones,SUBSTITUTION,Rose Derrick,3:52,3,Timberwolves,Kings,77 - 80,0,N/A,N/A,N/A
+94,De'Aaron Fox,FG_MISS,None,3:47,3,Kings,Timberwolves,77 - 80,1,20,2,Jumper
+95,Kosta Koufos,OFFENSIVE_REBOUND,None,3:44,3,Kings,Timberwolves,77 - 80,1,N/A,N/A,N/A
+96,Nemanja Bjelica,FG_ASSISTED,Troy Williams,3:42,3,Kings,Timberwolves,77 - 83,1,29,3,Jumper
+97,Karl-Anthony Towns,FG_MISS,None,3:23,3,Timberwolves,Kings,77 - 83,0,7,2,Jumper
+98,Nemanja Bjelica,DEFENSIVE_REBOUND,None,3:20,3,Kings,Timberwolves,77 - 83,1,N/A,N/A,N/A
+99,Nemanja Bjelica,FG_UNASSISTED,None,3:16,3,Kings,Timberwolves,77 - 86,1,27,3,Jumper
+100,Tyus Jones,FG_MISS,None,2:51,3,Timberwolves,Kings,77 - 86,0,25,3,Jumper
+101,Karl-Anthony Towns,OFFENSIVE_REBOUND,None,2:48,3,Timberwolves,Kings,77 - 86,0,N/A,N/A,N/A
+102,Karl-Anthony Towns,TURNOVER,Kosta Koufos,2:47,3,Timberwolves,Kings,77 - 86,0,N/A,N/A,N/A
+103,Troy Williams,FG_MISS,None,2:40,3,Kings,Timberwolves,77 - 86,1,24,3,Jumper
+104,Karl-Anthony Towns,DEFENSIVE_REBOUND,None,2:40,3,Timberwolves,Kings,77 - 86,0,N/A,N/A,N/A
+105,Karl-Anthony Towns,FG_UNASSISTED,None,2:30,3,Timberwolves,Kings,79 - 86,0, ,2,Jumper
+106,Nemanja Bjelica,FG_UNASSISTED,None,2:13,3,Kings,Timberwolves,79 - 88,1,0,2,Layup
+107,Josh Okogie,FG_MISS,None,1:58,3,Timberwolves,Kings,79 - 88,0,23,3,Jumper
+108,Kosta Koufos,DEFENSIVE_REBOUND,None,1:56,3,Kings,Timberwolves,79 - 88,1,N/A,N/A,N/A
+109,Nemanja Bjelica,TURNOVER,Tyus Jones,1:45,3,Kings,Timberwolves,79 - 88,1,N/A,N/A,N/A
+110,Tyus Jones,FG_MISS,None,1:42,3,Timberwolves,Kings,79 - 88,0, ,2,Jumper
+111,Team,DEFENSIVE_REBOUND,None,1:41,3,Kings,Timberwolves,79 - 88,1,N/A,N/A,N/A
+112,Team,Unknown,None,1:41,3,Kings,Timberwolves,79 - 88,1,N/A,N/A,N/A
+113,Buddy Hield,SUBSTITUTION,Shumpert Iman,1:41,3,Kings,Timberwolves,79 - 88,1,N/A,N/A,N/A
+114,Anthony Tolliver,SUBSTITUTION,Butler Jimmy,1:41,3,Timberwolves,Kings,79 - 88,0,N/A,N/A,N/A
+115,C.J. Williams,SUBSTITUTION,Towns Karl-Anthony,1:41,3,Timberwolves,Kings,79 - 88,0,N/A,N/A,N/A
+116,Gorgui Dieng,SUBSTITUTION,Gibson Taj,1:41,3,Timberwolves,Kings,79 - 88,0,N/A,N/A,N/A
+117,Troy Williams,FG_MISS,None,1:24,3,Kings,Timberwolves,79 - 88,1,23,3,Jumper
+118,Tyus Jones,DEFENSIVE_REBOUND,None,1:19,3,Timberwolves,Kings,79 - 88,0,N/A,N/A,N/A
+119,Gorgui Dieng,TURNOVER,None,1:11,3,Timberwolves,Kings,79 - 88,0,N/A,N/A,N/A
+120,Frank Mason,SUBSTITUTION,for game,1:11,3,Kings,Timberwolves,79 - 88,1,N/A,N/A,N/A
+121,Frank Mason,SUBSTITUTION,Bjelica Nemanja,1:11,3,Kings,Timberwolves,79 - 88,1,N/A,N/A,N/A
+122,enters the,SUBSTITUTION,Fox De'Aaron,1:11,3,Kings,Timberwolves,79 - 88,1,N/A,N/A,N/A
+123,Marvin Bagley,FG_MISS,None,1:02,3,Kings,Timberwolves,79 - 88,1,9,2,Jumper
+124,C.J. Williams,DEFENSIVE_REBOUND,None,59.3,3,Timberwolves,Kings,79 - 88,0,N/A,N/A,N/A
+125,C.J. Williams,FG_MISS,None,45.7,3,Timberwolves,Kings,79 - 88,0,0,2,Layup
+126,Frank Mason,DEFENSIVE_REBOUND,None,45.1,3,Kings,Timberwolves,79 - 88,1,N/A,N/A,N/A
+127,C.J. Williams,FOUL_ON_FLOOR,None,45.1,3,Timberwolves,Kings,79 - 88,0,N/A,N/A,N/A
+128,Frank Mason,FT,None,45.1,3,Kings,Timberwolves,79 - 89,1,N/A,1,N/A
+129,Frank Mason,FT,None,45.1,3,Kings,Timberwolves,79 - 90,1,N/A,1,N/A
+130,Frank Mason,FOUL_ON_FLOOR,None,36.1,3,Kings,Timberwolves,79 - 90,1,N/A,N/A,N/A
+131,Tyus Jones,FT,None,36.1,3,Timberwolves,Kings,80 - 90,0,N/A,1,N/A
+132,Tyus Jones,FT,None,36.1,3,Timberwolves,Kings,81 - 90,0,N/A,1,N/A
+133,Marvin Bagley,FG_UNASSISTED,None,25.2,3,Kings,Timberwolves,81 - 92,1,0,2,Layup
+134,Josh Okogie,FG_MISS,None,6.3,3,Timberwolves,Kings,81 - 92,0,0,2,Layup
+135,Kosta Koufos,DEFENSIVE_REBOUND,None,3.7,3,Kings,Timberwolves,81 - 92,1,N/A,N/A,N/A
+136,Troy Williams,FG_MISS,None,0.0,3,Kings,Timberwolves,81 - 92,1,22,2,Jumper
+137,Gorgui Dieng,DEFENSIVE_REBOUND,None,0.0,3,Timberwolves,Kings,81 - 92,0,N/A,N/A,N/A
+138,End of,Unknown,None,0.0,3,Kings,Timberwolves,81 - 92,1,N/A,N/A,N/A
+0,Jimmy Butler,SUBSTITUTION,Okogie Josh,12:00,4,Timberwolves,Kings,81 - 92,0,N/A,N/A,N/A
+1,Jimmy Butler,FG_UNASSISTED,None,11:42,4,Timberwolves,Kings,83 - 92,0,7,2,Jumper
+2,Troy Williams,FG_ASSISTED,Kosta Koufos,11:22,4,Kings,Timberwolves,83 - 94,1,4,2,Jumper
+3,Troy Williams,FOUL_ON_FLOOR,None,11:12,4,Kings,Timberwolves,83 - 94,1,N/A,N/A,N/A
+4,Jimmy Butler,FT,None,11:12,4,Timberwolves,Kings,84 - 94,0,N/A,1,N/A
+5,Jimmy Butler,FT,None,11:12,4,Timberwolves,Kings,85 - 94,0,N/A,1,N/A
+6,Frank Mason,TURNOVER,Jimmy Butler,11:04,4,Kings,Timberwolves,85 - 94,1,N/A,N/A,N/A
+7,Tyus Jones,FG_MISS,None,10:46,4,Timberwolves,Kings,85 - 94,0,0,2,Layup
+8,Kosta Koufos,DEFENSIVE_REBOUND,None,10:44,4,Kings,Timberwolves,85 - 94,1,N/A,N/A,N/A
+9,C.J. Williams,FOUL_ON_FLOOR,None,10:41,4,Timberwolves,Kings,85 - 94,0,N/A,N/A,N/A
+10,Frank Mason,FT,None,10:41,4,Kings,Timberwolves,85 - 95,1,N/A,1,N/A
+11,Willie Cauley-Stein,SUBSTITUTION,Koufos Kosta,10:41,4,Kings,Timberwolves,85 - 95,1,N/A,N/A,N/A
+12,Frank Mason,FT,None,10:41,4,Kings,Timberwolves,85 - 96,1,N/A,1,N/A
+13,Troy Williams,FOUL_ON_FLOOR,None,10:32,4,Kings,Timberwolves,85 - 96,1,N/A,N/A,N/A
+14,Gorgui Dieng,TURNOVER,None,10:23,4,Timberwolves,Kings,85 - 96,0,N/A,N/A,N/A
+15,Frank Mason,FG_UNASSISTED,None,10:05,4,Kings,Timberwolves,85 - 98,1,4,2,Jumper
+16,Anthony Tolliver,FG_MISS,None,9:53,4,Timberwolves,Kings,85 - 98,0,25,3,Jumper
+17,Buddy Hield,DEFENSIVE_REBOUND,None,9:49,4,Kings,Timberwolves,85 - 98,1,N/A,N/A,N/A
+18,Marvin Bagley,FG_MISS,None,9:46,4,Kings,Timberwolves,85 - 98,1,0,2,Layup
+19,Jimmy Butler,DEFENSIVE_REBOUND,None,9:44,4,Timberwolves,Kings,85 - 98,0,N/A,N/A,N/A
+20,Tyus Jones,FG_MISS,None,9:38,4,Timberwolves,Kings,85 - 98,0, ,3,Jumper
+21,Buddy Hield,DEFENSIVE_REBOUND,None,9:36,4,Kings,Timberwolves,85 - 98,1,N/A,N/A,N/A
+22,Marvin Bagley,TURNOVER,C.J. Williams,9:32,4,Kings,Timberwolves,85 - 98,1,N/A,N/A,N/A
+23,C.J. Williams,FG_MISS,None,9:23,4,Timberwolves,Kings,85 - 98,0,25,3,Jumper
+24,Troy Williams,DEFENSIVE_REBOUND,None,9:21,4,Kings,Timberwolves,85 - 98,1,N/A,N/A,N/A
+25,Team,Unknown,None,9:21,4,Kings,Timberwolves,85 - 98,1,N/A,N/A,N/A
+26,Karl-Anthony Towns,SUBSTITUTION,Dieng Gorgui,9:21,4,Timberwolves,Kings,85 - 98,0,N/A,N/A,N/A
+27,Derrick Rose,SUBSTITUTION,Williams C.J.,9:21,4,Timberwolves,Kings,85 - 98,0,N/A,N/A,N/A
+28,Buddy Hield,FG_ASSISTED,ason III,9:06,4,Kings,Timberwolves,85 - 100,1,0,2,Dunk
+29,Anthony Tolliver,FG_ASSISTED,Tyus Jones,8:39,4,Timberwolves,Kings,88 - 100,0,1,3,Jumper
+30,Willie Cauley-Stein,FG_ASSISTED,ason III,8:23,4,Kings,Timberwolves,88 - 102,1,0,2,Dunk
+31,Willie Cauley-Stein,FOUL_ON_FLOOR,None,8:11,4,Kings,Timberwolves,88 - 102,1,N/A,N/A,N/A
+32,Jimmy Butler,FG_MISS,None,7:57,4,Timberwolves,Kings,88 - 102,0,23,3,Jumper
+33,Frank Mason,DEFENSIVE_REBOUND,None,7:54,4,Kings,Timberwolves,88 - 102,1,N/A,N/A,N/A
+34,Frank Mason,TURNOVER,None,7:53,4,Kings,Timberwolves,88 - 102,1,N/A,N/A,N/A
+35,Frank Mason,TURNOVER,None,7:53,4,Kings,Timberwolves,88 - 102,1,N/A,N/A,N/A
+36,Jimmy Butler,TURNOVER,None,7:35,4,Timberwolves,Kings,88 - 102,0,N/A,N/A,N/A
+37,Willie Cauley-Stein,FG_MISS,None,7:18,4,Kings,Timberwolves,88 - 102,1,17,2,Jumper
+38,Karl-Anthony Towns,DEFENSIVE_REBOUND,None,7:14,4,Timberwolves,Kings,88 - 102,0,N/A,N/A,N/A
+39,Karl-Anthony Towns,FG_UNASSISTED,None,7:13,4,Timberwolves,Kings,90 - 102,0,1,2,Jumper
+40,Willie Cauley-Stein,FOUL_ON_FLOOR,None,7:13,4,Kings,Timberwolves,90 - 102,1,N/A,N/A,N/A
+41,David Joerger,FOUL_TECHNICAL,None,7:13,4,Kings,Timberwolves,90 - 102,1,N/A,N/A,N/A
+42,Karl-Anthony Towns,FT,None,7:13,4,Timberwolves,Kings,91 - 102,0,N/A,1,N/A
+43,Karl-Anthony Towns,FT,None,7:13,4,Timberwolves,Kings,92 - 102,0,N/A,1,N/A
+44,Buddy Hield,FG_UNASSISTED,None,6:55,4,Kings,Timberwolves,92 - 105,1,1,3,Jumper
+45,Karl-Anthony Towns,FG_ASSISTED,Derrick Rose,6:44,4,Timberwolves,Kings,94 - 105,0,0,2,Layup
+46,Buddy Hield,FG_UNASSISTED,None,6:27,4,Kings,Timberwolves,94 - 108,1,26,3,Jumper
+47,Derrick Rose,FG_UNASSISTED,None,6:15,4,Timberwolves,Kings,97 - 108,0,26,3,Jumper
+48,Buddy Hield,FOUL_ON_FLOOR,None,6:02,4,Kings,Timberwolves,97 - 108,1,N/A,N/A,N/A
+49,Buddy Hield,TURNOVER,None,6:02,4,Kings,Timberwolves,97 - 108,1,N/A,N/A,N/A
+50,Iman Shumpert,SUBSTITUTION,Williams Troy,6:02,4,Kings,Timberwolves,97 - 108,1,N/A,N/A,N/A
+51,Nemanja Bjelica,SUBSTITUTION,III Bagley,6:02,4,Kings,Timberwolves,97 - 108,1,N/A,N/A,N/A
+52,Derrick Rose,FG_UNASSISTED,None,5:55,4,Timberwolves,Kings,100 - 108,0,27,3,Jumper
+53,Team,Unknown,None,5:55,4,Kings,Timberwolves,99 - 108,1,N/A,N/A,N/A
+54,De'Aaron Fox,SUBSTITUTION,Cauley-Stein Willie,5:55,4,Kings,Timberwolves,100 - 108,1,N/A,N/A,N/A
+55,Kosta Koufos,SUBSTITUTION,III Mason,5:55,4,Kings,Timberwolves,100 - 108,1,N/A,N/A,N/A
+56,De'Aaron Fox,FG_MISS,None,5:45,4,Kings,Timberwolves,100 - 108,1,7,2,Jumper
+57,Jimmy Butler,DEFENSIVE_REBOUND,None,5:42,4,Timberwolves,Kings,100 - 108,0,N/A,N/A,N/A
+58,Tyus Jones,FG_ASSISTED,Jimmy Butler,5:38,4,Timberwolves,Kings,102 - 108,0,0,2,Layup
+59,Nemanja Bjelica,FOUL_ON_FLOOR,None,5:38,4,Kings,Timberwolves,102 - 108,1,N/A,N/A,N/A
+60,Tyus Jones,FT,None,5:38,4,Timberwolves,Kings,103 - 108,0,N/A,1,N/A
+61,Iman Shumpert,FG_MISS,None,5:23,4,Kings,Timberwolves,103 - 108,1,25,3,Jumper
+62,Karl-Anthony Towns,DEFENSIVE_REBOUND,None,5:18,4,Timberwolves,Kings,103 - 108,0,N/A,N/A,N/A
+63,Tyus Jones,FG_MISS,None,5:08,4,Timberwolves,Kings,103 - 108,0,25,3,Jumper
+64,Karl-Anthony Towns,OFFENSIVE_REBOUND,None,5:05,4,Timberwolves,Kings,103 - 108,0,N/A,N/A,N/A
+65,Karl-Anthony Towns,FG_MISS,None,5:03,4,Timberwolves,Kings,103 - 108,0,1,2,Jumper
+66,Kosta Koufos,DEFENSIVE_REBOUND,None,5:01,4,Kings,Timberwolves,103 - 108,1,N/A,N/A,N/A
+67,De'Aaron Fox,FG_MISS,None,4:58,4,Kings,Timberwolves,103 - 108,1,1,2,Jumper
+68,Buddy Hield,OFFENSIVE_REBOUND,None,4:55,4,Kings,Timberwolves,103 - 108,1,N/A,N/A,N/A
+69,Nemanja Bjelica,FG_MISS,None,4:53,4,Kings,Timberwolves,103 - 108,1,26,3,Jumper
+70,Tyus Jones,DEFENSIVE_REBOUND,None,4:49,4,Timberwolves,Kings,103 - 108,0,N/A,N/A,N/A
+71,Derrick Rose,TURNOVER,Nemanja Bjelica,4:42,4,Timberwolves,Kings,103 - 108,0,N/A,N/A,N/A
+72,Nemanja Bjelica,FG_MISS,None,4:37,4,Kings,Timberwolves,103 - 108,1,1,2,Jumper
+73,Derrick Rose,DEFENSIVE_REBOUND,None,4:33,4,Timberwolves,Kings,103 - 108,0,N/A,N/A,N/A
+74,Anthony Tolliver,FG_ASSISTED,Derrick Rose,4:31,4,Timberwolves,Kings,106 - 108,0,25,3,Jumper
+75,Buddy Hield,FG_MISS,None,4:09,4,Kings,Timberwolves,106 - 108,1,15,2,Jumper
+76,Iman Shumpert,OFFENSIVE_REBOUND,None,4:07,4,Kings,Timberwolves,106 - 108,1,N/A,N/A,N/A
+77,Karl-Anthony Towns,FOUL_ON_FLOOR,None,4:01,4,Timberwolves,Kings,106 - 108,0,N/A,N/A,N/A
+78,Nemanja Bjelica,FG_MISS,None,3:46,4,Kings,Timberwolves,106 - 108,1,1,2,Jumper
+79,Team,DEFENSIVE_REBOUND,None,3:46,4,Timberwolves,Kings,106 - 108,0,N/A,N/A,N/A
+80,Derrick Rose,FG_MISS,None,3:23,4,Timberwolves,Kings,106 - 108,0,26,3,Jumper
+81,Jimmy Butler,OFFENSIVE_REBOUND,None,3:19,4,Timberwolves,Kings,106 - 108,0,N/A,N/A,N/A
+82,Iman Shumpert,FOUL_ON_FLOOR,None,3:19,4,Kings,Timberwolves,106 - 108,1,N/A,N/A,N/A
+83,Jimmy Butler,FT_MISS,None,3:19,4,Timberwolves,Kings,106 - 108,0,N/A,1,N/A
+84,Team,OFFENSIVE_REBOUND,None,3:19,4,Timberwolves,Kings,106 - 108,0,N/A,N/A,N/A
+85,Jimmy Butler,FT_MISS,None,3:19,4,Timberwolves,Kings,106 - 108,0,N/A,1,N/A
+86,Nemanja Bjelica,DEFENSIVE_REBOUND,None,3:16,4,Kings,Timberwolves,106 - 108,1,N/A,N/A,N/A
+87,Kosta Koufos,FG_ASSISTED,Buddy Hield,2:56,4,Kings,Timberwolves,106 - 110,1,0,2,Dunk
+88,Karl-Anthony Towns,TURNOVER,Kosta Koufos,2:32,4,Timberwolves,Kings,106 - 110,0,N/A,N/A,N/A
+89,De'Aaron Fox,FG_UNASSISTED,None,2:26,4,Kings,Timberwolves,106 - 112,1,1,2,Jumper
+90,Jimmy Butler,TURNOVER,Iman Shumpert,2:06,4,Timberwolves,Kings,106 - 112,0,N/A,N/A,N/A
+91,Buddy Hield,FG_ASSISTED,Iman Shumpert,2:01,4,Kings,Timberwolves,106 - 115,1,23,3,Jumper
+92,Team,Unknown,None,2:00,4,Timberwolves,Kings,106 - 115,0,N/A,N/A,N/A
+93,Karl-Anthony Towns,FG_ASSISTED,Tyus Jones,1:50,4,Timberwolves,Kings,108 - 115,0,7,2,Jumper
+94,Nemanja Bjelica,TURNOVER,Anthony Tolliver,1:27,4,Kings,Timberwolves,108 - 115,1,N/A,N/A,N/A
+95,Josh Okogie,SUBSTITUTION,Rose Derrick,1:27,4,Timberwolves,Kings,108 - 115,0,N/A,N/A,N/A
+96,Anthony Tolliver,JUMP_BALL,None,1:27,4,Timberwolves,Kings,108 - 115,0,N/A,N/A,N/A
+97,Karl-Anthony Towns,TURNOVER,Kosta Koufos,1:17,4,Timberwolves,Kings,108 - 115,0,N/A,N/A,N/A
+98,Tyus Jones,FOUL_ON_FLOOR,None,1:15,4,Timberwolves,Kings,108 - 115,0,N/A,N/A,N/A
+99,De'Aaron Fox,FT,None,1:15,4,Kings,Timberwolves,108 - 116,1,N/A,1,N/A
+100,De'Aaron Fox,FT,None,1:15,4,Kings,Timberwolves,108 - 117,1,N/A,1,N/A
+101,Nemanja Bjelica,FOUL_ON_FLOOR,None,1:06,4,Kings,Timberwolves,108 - 117,1,N/A,N/A,N/A
+102,Josh Okogie,FT,None,1:06,4,Timberwolves,Kings,109 - 117,0,N/A,1,N/A
+103,Willie Cauley-Stein,SUBSTITUTION,Koufos Kosta,1:06,4,Kings,Timberwolves,109 - 117,1,N/A,N/A,N/A
+104,Josh Okogie,FT,None,1:06,4,Timberwolves,Kings,110 - 117,0,N/A,1,N/A
+105,Team,Unknown,None,1:01,4,Kings,Timberwolves,110 - 117,1,N/A,N/A,N/A
+106,Team,Unknown,None,1:01,4,Kings,Timberwolves,110 - 117,1,N/A,N/A,N/A
+107,Buddy Hield,FG_MISS,None,47.4,4,Kings,Timberwolves,110 - 117,1,0,2,Layup
+108,Anthony Tolliver,DEFENSIVE_REBOUND,None,45.3,4,Timberwolves,Kings,110 - 117,0,N/A,N/A,N/A
+109,Josh Okogie,TURNOVER,None,41.8,4,Timberwolves,Kings,110 - 117,0,N/A,N/A,N/A
+110,Willie Cauley-Stein,FG_ASSISTED,De'Aaron Fox,35.8,4,Kings,Timberwolves,110 - 119,1,0,2,Dunk
+111,Team,Unknown,None,35.8,4,Timberwolves,Kings,110 - 119,0,N/A,N/A,N/A
+112,Anthony Tolliver,FG_MISS,None,30.9,4,Timberwolves,Kings,110 - 119,0,25,3,Jumper
+113,De'Aaron Fox,DEFENSIVE_REBOUND,None,28.6,4,Kings,Timberwolves,110 - 119,1,N/A,N/A,N/A
+114,Anthony Tolliver,FOUL_ON_FLOOR,None,28.6,4,Timberwolves,Kings,110 - 119,0,N/A,N/A,N/A
+115,De'Aaron Fox,FT,None,28.6,4,Kings,Timberwolves,110 - 120,1,N/A,1,N/A
+116,De'Aaron Fox,FT,None,28.6,4,Kings,Timberwolves,110 - 121,1,N/A,1,N/A
+117,Josh Okogie,FG_MISS,None,22.3,4,Timberwolves,Kings,110 - 121,0,0,2,Layup
+118,Buddy Hield,DEFENSIVE_REBOUND,None,19.2,4,Kings,Timberwolves,110 - 121,1,N/A,N/A,N/A
+119,End of,Unknown,None,0.0,4,Kings,Timberwolves,110 - 121,1,N/A,N/A,N/A
+120,End of,Unknown,None,0.0,4,Kings,Timberwolves,110 - 121,1,N/A,N/A,N/A

@@ -1,0 +1,476 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,JaVale McGee,JUMP_BALL,None,12:00,1,Grizzlies,Lakers,0 - 0,1,N/A,N/A,N/A
+1,Garrett Temple,FG_MISS,None,11:38,1,Grizzlies,Lakers,0 - 0,1,27,3,Jumper
+2,JaVale McGee,DEFENSIVE_REBOUND,None,11:34,1,Lakers,Grizzlies,0 - 0,0,N/A,N/A,N/A
+3,LeBron James,TURNOVER,Marc Gasol,11:24,1,Lakers,Grizzlies,0 - 0,0,N/A,N/A,N/A
+4,Jaren Jackson,FG_ASSISTED,Garrett Temple,11:07,1,Grizzlies,Lakers,0 - 3,1,26,3,Jumper
+5,JaVale McGee,FG_MISS,Marc Gasol,10:50,1,Grizzlies,Lakers,0 - 3,0,0,2,Layup
+6,Team,OFFENSIVE_REBOUND,None,10:50,1,Lakers,Grizzlies,0 - 3,0,N/A,N/A,N/A
+7,Kyle Kuzma,FG_ASSISTED,LeBron James,10:47,1,Lakers,Grizzlies,2 - 3,0,-,2,Jumper
+8,Mike Conley,FG_MISS,None,10:29,1,Grizzlies,Lakers,2 - 3,1,25,3,Jumper
+9,JaVale McGee,DEFENSIVE_REBOUND,None,10:27,1,Lakers,Grizzlies,2 - 3,0,N/A,N/A,N/A
+10,LeBron James,FG_UNASSISTED,None,10:17,1,Lakers,Grizzlies,4 - 3,0,18,2,Jumper
+11,Garrett Temple,FG_ASSISTED,Marc Gasol,10:03,1,Grizzlies,Lakers,4 - 5,1,0,2,Dunk
+12,Lonzo Ball's,FG_MISS,Marc Gasol,9:49,1,Grizzlies,Lakers,4 - 5,0,0,2,Layup
+13,Jaren Jackson,DEFENSIVE_REBOUND,None,9:46,1,Grizzlies,Lakers,4 - 5,1,N/A,N/A,N/A
+14,Marc Gasol,FG_MISS,None,9:33,1,Grizzlies,Lakers,4 - 5,1,13,2,Jumper
+15,JaVale McGee,DEFENSIVE_REBOUND,None,9:28,1,Lakers,Grizzlies,4 - 5,0,N/A,N/A,N/A
+16,Kyle Kuzma,FG_MISS,None,9:23,1,Lakers,Grizzlies,4 - 5,0,26,3,Jumper
+17,Kyle Anderson,DEFENSIVE_REBOUND,None,9:20,1,Grizzlies,Lakers,4 - 5,1,N/A,N/A,N/A
+18,Kyle Anderson's,FG_MISS,Josh Hart,9:16,1,Lakers,Grizzlies,4 - 5,1,-,2,Jumper
+19,Kyle Anderson,OFFENSIVE_REBOUND,None,9:16,1,Grizzlies,Lakers,4 - 5,1,N/A,N/A,N/A
+20,Garrett Temple,FG_MISS,None,9:12,1,Grizzlies,Lakers,4 - 5,1,23,3,Jumper
+21,LeBron James,DEFENSIVE_REBOUND,None,9:10,1,Lakers,Grizzlies,4 - 5,0,N/A,N/A,N/A
+22,Lonzo Ball,FG_MISS,None,9:03,1,Lakers,Grizzlies,4 - 5,0,26,3,Jumper
+23,Team,DEFENSIVE_REBOUND,None,9:00,1,Grizzlies,Lakers,4 - 5,1,N/A,N/A,N/A
+24,Garrett Temple,FG_MISS,None,8:47,1,Grizzlies,Lakers,4 - 5,1,-,3,Jumper
+25,Kyle Kuzma,DEFENSIVE_REBOUND,None,8:43,1,Lakers,Grizzlies,4 - 5,0,N/A,N/A,N/A
+26,Lonzo Ball,FG_MISS,None,8:28,1,Lakers,Grizzlies,4 - 5,0,25,3,Jumper
+27,Marc Gasol,DEFENSIVE_REBOUND,None,8:25,1,Grizzlies,Lakers,4 - 5,1,N/A,N/A,N/A
+28,Josh Hart,FOUL_ON_FLOOR,None,8:23,1,Lakers,Grizzlies,4 - 5,0,N/A,N/A,N/A
+29,Jaren Jackson,TURNOVER,None,8:16,1,Grizzlies,Lakers,4 - 5,1,N/A,N/A,N/A
+30,Kyle Kuzma,TURNOVER,None,8:01,1,Lakers,Grizzlies,4 - 5,0,N/A,N/A,N/A
+31,Kyle Kuzma,TURNOVER,None,8:01,1,Lakers,Grizzlies,4 - 5,0,N/A,N/A,N/A
+32,Marc Gasol,FG_UNASSISTED,None,7:47,1,Grizzlies,Lakers,4 - 7,1,10,2,Jumper
+33,LeBron James,FG_UNASSISTED,None,7:31,1,Lakers,Grizzlies,6 - 7,0,0,2,Layup
+34,Garrett Temple,FG_MISS,None,7:19,1,Grizzlies,Lakers,6 - 7,1,-,3,Jumper
+35,LeBron James,DEFENSIVE_REBOUND,None,7:17,1,Lakers,Grizzlies,6 - 7,0,N/A,N/A,N/A
+36,JaVale McGee,FG_ASSISTED,LeBron James,7:09,1,Lakers,Grizzlies,8 - 7,0,18,2,Jumper
+37,Mike Conley,FG_MISS,None,6:42,1,Grizzlies,Lakers,8 - 7,1,-,2,Jumper
+38,JaVale McGee,DEFENSIVE_REBOUND,None,6:39,1,Lakers,Grizzlies,8 - 7,0,N/A,N/A,N/A
+39,Kyle Anderson,FOUL_ON_FLOOR,None,6:35,1,Grizzlies,Lakers,8 - 7,1,N/A,N/A,N/A
+40,Team,Unknown,None,6:35,1,Grizzlies,Lakers,8 - 7,1,N/A,N/A,N/A
+41,Shelvin Mack,SUBSTITUTION,Conley Mike,6:35,1,Grizzlies,Lakers,8 - 7,1,N/A,N/A,N/A
+42,Lonzo Ball,FG_MISS,None,6:23,1,Lakers,Grizzlies,8 - 7,0,26,2,Jumper
+43,JaVale McGee,OFFENSIVE_REBOUND,None,6:18,1,Lakers,Grizzlies,8 - 7,0,N/A,N/A,N/A
+44,LeBron James,FG_MISS,None,6:17,1,Lakers,Grizzlies,8 - 7,0,27,3,Jumper
+45,JaVale McGee,OFFENSIVE_REBOUND,None,6:13,1,Lakers,Grizzlies,8 - 7,0,N/A,N/A,N/A
+46,JaVale McGee,FG_MISS,None,6:13,1,Lakers,Grizzlies,8 - 7,0,-,2,Jumper
+47,Jaren Jackson,DEFENSIVE_REBOUND,None,6:12,1,Grizzlies,Lakers,8 - 7,1,N/A,N/A,N/A
+48,Kyle Anderson,FG_UNASSISTED,None,6:05,1,Grizzlies,Lakers,8 - 9,1,0,2,Layup
+49,Josh Hart,FG_UNASSISTED,None,5:49,1,Lakers,Grizzlies,10 - 9,0,13,2,Jumper
+50,Kyle Anderson,TURNOVER,Kyle Kuzma,5:30,1,Grizzlies,Lakers,10 - 9,1,N/A,N/A,N/A
+51,LeBron James,FG_ASSISTED,Josh Hart,5:25,1,Lakers,Grizzlies,12 - 9,0,-,2,Jumper
+52,Shelvin Mack,FG_UNASSISTED,None,5:00,1,Grizzlies,Lakers,12 - 12,1,25,3,Jumper
+53,Kyle Kuzma,FG_ASSISTED,LeBron James,4:52,1,Lakers,Grizzlies,14 - 12,0, ,2,Jumper
+54,Jaren Jackson,FG_MISS,None,4:41,1,Grizzlies,Lakers,14 - 12,1,26,3,Jumper
+55,Kyle Kuzma,DEFENSIVE_REBOUND,None,4:39,1,Lakers,Grizzlies,14 - 12,0,N/A,N/A,N/A
+56,Shelvin Mack,FOUL_ON_FLOOR,None,4:32,1,Grizzlies,Lakers,14 - 12,1,N/A,N/A,N/A
+57,JaMychal Green,SUBSTITUTION,Jackson Jaren,4:32,1,Grizzlies,Lakers,14 - 12,1,N/A,N/A,N/A
+58,MarShon Brooks,SUBSTITUTION,Temple Garrett,4:32,1,Grizzlies,Lakers,14 - 12,1,N/A,N/A,N/A
+59,Tyson Chandler,SUBSTITUTION,Ball Lonzo,4:32,1,Lakers,Grizzlies,14 - 12,0,N/A,N/A,N/A
+60,Lance Stephenson,SUBSTITUTION,Hart Josh,4:32,1,Lakers,Grizzlies,14 - 12,0,N/A,N/A,N/A
+61,Sviatoslav Mykhailiuk,SUBSTITUTION,McGee JaVale,4:32,1,Lakers,Grizzlies,14 - 12,0,N/A,N/A,N/A
+62,Lance Stephenson,TURNOVER,MarShon Brooks,4:25,1,Lakers,Grizzlies,14 - 12,0,N/A,N/A,N/A
+63,MarShon Brooks,FG_MISS,None,4:19,1,Grizzlies,Lakers,14 - 12,1,26,3,Jumper
+64,LeBron James,DEFENSIVE_REBOUND,None,4:15,1,Lakers,Grizzlies,14 - 12,0,N/A,N/A,N/A
+65,LeBron James,TURNOVER,None,4:10,1,Lakers,Grizzlies,14 - 12,0,N/A,N/A,N/A
+66,Marc Gasol,FG_MISS,None,4:01,1,Grizzlies,Lakers,14 - 12,1,25,3,Jumper
+67,Sviatoslav Mykhailiuk,DEFENSIVE_REBOUND,None,3:58,1,Lakers,Grizzlies,14 - 12,0,N/A,N/A,N/A
+68,LeBron James,FG_ASSISTED,Lance Stephenson,3:53,1,Lakers,Grizzlies,16 - 12,0,0,2,Dunk
+69,JaMychal Green,FG_MISS,Kyle Kuzma,3:38,1,Lakers,Grizzlies,16 - 12,1,0,2,Layup
+70,Sviatoslav Mykhailiuk,DEFENSIVE_REBOUND,None,3:34,1,Lakers,Grizzlies,16 - 12,0,N/A,N/A,N/A
+71,MarShon Brooks,FOUL_ON_FLOOR,None,3:32,1,Grizzlies,Lakers,16 - 12,1,N/A,N/A,N/A
+72,Tyson Chandler,FT,None,3:32,1,Lakers,Grizzlies,17 - 12,0,N/A,1,N/A
+73,Joakim Noah,SUBSTITUTION,Gasol Marc,3:32,1,Grizzlies,Lakers,17 - 12,1,N/A,N/A,N/A
+74,Kentavious Caldwell-Pope,SUBSTITUTION,James LeBron,3:32,1,Lakers,Grizzlies,17 - 12,0,N/A,N/A,N/A
+75,Tyson Chandler,FT,None,3:32,1,Lakers,Grizzlies,18 - 12,0,N/A,1,N/A
+76,Shelvin Mack,FG_MISS,None,3:20,1,Grizzlies,Lakers,18 - 12,1,25,3,Jumper
+77,Joakim Noah,OFFENSIVE_REBOUND,None,3:15,1,Grizzlies,Lakers,18 - 12,1,N/A,N/A,N/A
+78,Joakim Noah,TURNOVER,Kentavious Caldwell-Pope,3:15,1,Grizzlies,Lakers,18 - 12,1,N/A,N/A,N/A
+79,Kyle Kuzma,FG_MISS,None,3:07,1,Lakers,Grizzlies,18 - 12,0,0,2,Layup
+80,JaMychal Green,DEFENSIVE_REBOUND,None,3:03,1,Grizzlies,Lakers,18 - 12,1,N/A,N/A,N/A
+81,Shelvin Mack,FG_MISS,None,2:57,1,Grizzlies,Lakers,18 - 12,1,25,3,Jumper
+82,Tyson Chandler,DEFENSIVE_REBOUND,None,2:55,1,Lakers,Grizzlies,18 - 12,0,N/A,N/A,N/A
+83,Kentavious Caldwell-Pope,FG_UNASSISTED,None,2:48,1,Lakers,Grizzlies,21 - 12,0,26,3,Jumper
+84,Team,Unknown,None,2:46,1,Grizzlies,Lakers,21 - 12,1,N/A,N/A,N/A
+85,Mike Conley,SUBSTITUTION,Anderson Kyle,2:46,1,Grizzlies,Lakers,21 - 12,1,N/A,N/A,N/A
+86,Omri Casspi,SUBSTITUTION,Mack Shelvin,2:46,1,Grizzlies,Lakers,21 - 12,1,N/A,N/A,N/A
+87,Sviatoslav Mykhailiuk,FOUL_ON_FLOOR,None,2:28,1,Lakers,Grizzlies,21 - 12,0,N/A,N/A,N/A
+88,JaMychal Green,FG_MISS,None,2:22,1,Grizzlies,Lakers,21 - 12,1,26,3,Jumper
+89,Tyson Chandler,DEFENSIVE_REBOUND,None,2:19,1,Lakers,Grizzlies,21 - 12,0,N/A,N/A,N/A
+90,Lance Stephenson,FG_MISS,None,2:05,1,Lakers,Grizzlies,21 - 12,0,18,2,Jumper
+91,Joakim Noah,DEFENSIVE_REBOUND,None,2:03,1,Grizzlies,Lakers,21 - 12,1,N/A,N/A,N/A
+92,MarShon Brooks,FG_UNASSISTED,None,1:54,1,Grizzlies,Lakers,21 - 14,1,11,2,Jumper
+93,Kyle Kuzma,FG_UNASSISTED,None,1:30,1,Lakers,Grizzlies,23 - 14,0, ,2,Jumper
+94,Mike Conley,FG_MISS,None,1:12,1,Grizzlies,Lakers,23 - 14,1, ,2,Jumper
+95,Lance Stephenson,DEFENSIVE_REBOUND,None,1:09,1,Lakers,Grizzlies,23 - 14,0,N/A,N/A,N/A
+96,Kentavious Caldwell-Pope,FG_MISS,None,1:06,1,Lakers,Grizzlies,23 - 14,0,23,3,Jumper
+97,Tyson Chandler,OFFENSIVE_REBOUND,None,1:01,1,Lakers,Grizzlies,23 - 14,0,N/A,N/A,N/A
+98,Sviatoslav Mykhailiuk,FG_ASSISTED,Kyle Kuzma,53.6,1,Lakers,Grizzlies,25 - 14,0,0,2,Layup
+99,Joakim Noah,FG_MISS,None,35.8,1,Grizzlies,Lakers,25 - 14,1,0,2,Layup
+100,Tyson Chandler,DEFENSIVE_REBOUND,None,32.0,1,Lakers,Grizzlies,25 - 14,0,N/A,N/A,N/A
+101,Sviatoslav Mykhailiuk,FG_MISS,JaMychal Green,29.4,1,Grizzlies,Lakers,25 - 14,0,1,2,Jumper
+102,Sviatoslav Mykhailiuk,OFFENSIVE_REBOUND,None,25.5,1,Lakers,Grizzlies,25 - 14,0,N/A,N/A,N/A
+103,Lance Stephenson,FG_ASSISTED,Kyle Kuzma,14.3,1,Lakers,Grizzlies,27 - 14,0,11,2,Jumper
+104,Lance Stephenson,FOUL_ON_FLOOR,None,5.7,1,Lakers,Grizzlies,27 - 14,0,N/A,N/A,N/A
+105,Josh Hart,SUBSTITUTION,Chandler Tyson,5.7,1,Lakers,Grizzlies,27 - 14,0,N/A,N/A,N/A
+106,Joakim Noah,FG_ASSISTED,Omri Casspi,1.7,1,Grizzlies,Lakers,27 - 16,1,3,2,Jumper
+107,Josh Hart,FG_MISS,None,0.0,1,Lakers,Grizzlies,27 - 16,0,39,3,Jumper
+108,Team,OFFENSIVE_REBOUND,None,0.0,1,Lakers,Grizzlies,27 - 16,0,N/A,N/A,N/A
+109,End of,Unknown,None,0.0,1,Grizzlies,Lakers,27 - 16,1,N/A,N/A,N/A
+0,Jaren Jackson,SUBSTITUTION,Noah Joakim,12:00,2,Grizzlies,Lakers,27 - 16,1,N/A,N/A,N/A
+1,Tyson Chandler,SUBSTITUTION,Kuzma Kyle,12:00,2,Lakers,Grizzlies,27 - 16,0,N/A,N/A,N/A
+2,Josh Hart,FG_MISS,None,11:35,2,Lakers,Grizzlies,27 - 16,0, ,2,Jumper
+3,Tyson Chandler,OFFENSIVE_REBOUND,None,11:29,2,Lakers,Grizzlies,27 - 16,0,N/A,N/A,N/A
+4,Lance Stephenson,FG_MISS,None,11:24,2,Lakers,Grizzlies,27 - 16,0,16,2,Jumper
+5,Lance Stephenson,OFFENSIVE_REBOUND,None,11:21,2,Lakers,Grizzlies,27 - 16,0,N/A,N/A,N/A
+6,Lance Stephenson,FG_UNASSISTED,None,11:20,2,Lakers,Grizzlies,29 - 16,0,0,2,Layup
+7,Mike Conley,FG_UNASSISTED,None,11:00,2,Grizzlies,Lakers,29 - 18,1, ,2,Jumper
+8,Kentavious Caldwell-Pope,FG_ASSISTED,Lance Stephenson,10:45,2,Lakers,Grizzlies,31 - 18,0, ,2,Jumper
+9,MarShon Brooks,FG_MISS,None,10:28,2,Grizzlies,Lakers,31 - 18,1,25,3,Jumper
+10,Josh Hart,DEFENSIVE_REBOUND,None,10:25,2,Lakers,Grizzlies,31 - 18,0,N/A,N/A,N/A
+11,Lance Stephenson,FG_MISS,None,10:11,2,Lakers,Grizzlies,31 - 18,0, ,2,Jumper
+12,Tyson Chandler,OFFENSIVE_REBOUND,None,10:09,2,Lakers,Grizzlies,31 - 18,0,N/A,N/A,N/A
+13,Tyson Chandler's,FG_MISS,Omri Casspi,10:09,2,Grizzlies,Lakers,31 - 18,0, ,2,Jumper
+14,Josh Hart,OFFENSIVE_REBOUND,None,10:09,2,Lakers,Grizzlies,31 - 18,0,N/A,N/A,N/A
+15,Sviatoslav Mykhailiuk,FG_MISS,None,10:06,2,Lakers,Grizzlies,31 - 18,0,24,3,Jumper
+16,JaMychal Green,DEFENSIVE_REBOUND,None,10:04,2,Grizzlies,Lakers,31 - 18,1,N/A,N/A,N/A
+17,Jaren Jackson,FG_MISS,None,9:51,2,Grizzlies,Lakers,31 - 18,1,23,3,Jumper
+18,Tyson Chandler,DEFENSIVE_REBOUND,None,9:48,2,Lakers,Grizzlies,31 - 18,0,N/A,N/A,N/A
+19,MarShon Brooks,FOUL_ON_FLOOR,None,9:44,2,Grizzlies,Lakers,31 - 18,1,N/A,N/A,N/A
+20,Team,Unknown,None,9:44,2,Grizzlies,Lakers,31 - 18,1,N/A,N/A,N/A
+21,Garrett Temple,SUBSTITUTION,Green JaMychal,9:44,2,Grizzlies,Lakers,31 - 18,1,N/A,N/A,N/A
+22,Joakim Noah,SUBSTITUTION,Brooks MarShon,9:44,2,Grizzlies,Lakers,31 - 18,1,N/A,N/A,N/A
+23,Sviatoslav Mykhailiuk,FG_UNASSISTED,None,9:33,2,Lakers,Grizzlies,34 - 18,0,25,3,Jumper
+24,Jaren Jackson,FG_ASSISTED,Mike Conley,9:16,2,Grizzlies,Lakers,34 - 20,1,0,2,Dunk
+25,Josh Hart,FG_MISS,None,9:00,2,Lakers,Grizzlies,34 - 20,0,27,3,Jumper
+26,Tyson Chandler,OFFENSIVE_REBOUND,None,8:57,2,Lakers,Grizzlies,34 - 20,0,N/A,N/A,N/A
+27,Tyson Chandler,FG_UNASSISTED,None,8:57,2,Lakers,Grizzlies,36 - 20,0, ,2,Jumper
+28,Josh Hart,FOUL_ON_FLOOR,None,8:45,2,Lakers,Grizzlies,36 - 20,0,N/A,N/A,N/A
+29,Joakim Noah,FT_MISS,None,8:45,2,Grizzlies,Lakers,36 - 20,1,N/A,1,N/A
+30,Team,OFFENSIVE_REBOUND,None,8:45,2,Grizzlies,Lakers,36 - 20,1,N/A,N/A,N/A
+31,Kyle Anderson,SUBSTITUTION,Jackson Jaren,8:45,2,Grizzlies,Lakers,36 - 20,1,N/A,N/A,N/A
+32,Wayne Selden,SUBSTITUTION,Casspi Omri,8:45,2,Grizzlies,Lakers,36 - 20,1,N/A,N/A,N/A
+33,LeBron James,SUBSTITUTION,Stephenson Lance,8:45,2,Lakers,Grizzlies,36 - 20,0,N/A,N/A,N/A
+34,Joakim Noah,FT_MISS,None,8:45,2,Grizzlies,Lakers,36 - 20,1,N/A,1,N/A
+35,Tyson Chandler,DEFENSIVE_REBOUND,None,8:43,2,Lakers,Grizzlies,36 - 20,0,N/A,N/A,N/A
+36,Kentavious Caldwell-Pope,FG_ASSISTED,Tyson Chandler,8:31,2,Lakers,Grizzlies,38 - 20,0,20,2,Jumper
+37,Mike Conley,FG_MISS,None,8:15,2,Grizzlies,Lakers,38 - 20,1,26,3,Jumper
+38,Tyson Chandler,DEFENSIVE_REBOUND,None,8:11,2,Lakers,Grizzlies,38 - 20,0,N/A,N/A,N/A
+39,Kentavious Caldwell-Pope,TURNOVER,Mike Conley,8:09,2,Lakers,Grizzlies,38 - 20,0,N/A,N/A,N/A
+40,Mike Conley,FG_MISS,None,8:04,2,Grizzlies,Lakers,38 - 20,1, ,2,Jumper
+41,Josh Hart,DEFENSIVE_REBOUND,None,8:02,2,Lakers,Grizzlies,38 - 20,0,N/A,N/A,N/A
+42,LeBron James,FG_MISS,None,7:57,2,Lakers,Grizzlies,38 - 20,0,0,2,Layup
+43,LeBron James,OFFENSIVE_REBOUND,None,7:55,2,Lakers,Grizzlies,38 - 20,0,N/A,N/A,N/A
+44,LeBron James,FG_MISS,None,7:55,2,Lakers,Grizzlies,38 - 20,0, ,2,Jumper
+45,Josh Hart,OFFENSIVE_REBOUND,None,7:55,2,Lakers,Grizzlies,38 - 20,0,N/A,N/A,N/A
+46,Kyle Anderson,FOUL_ON_FLOOR,None,7:55,2,Grizzlies,Lakers,38 - 20,1,N/A,N/A,N/A
+47,JaVale McGee,SUBSTITUTION,Chandler Tyson,7:55,2,Lakers,Grizzlies,38 - 20,0,N/A,N/A,N/A
+48,LeBron James,FG_MISS,None,7:40,2,Lakers,Grizzlies,38 - 20,0,18,2,Jumper
+49,Kentavious Caldwell-Pope,OFFENSIVE_REBOUND,None,7:37,2,Lakers,Grizzlies,38 - 20,0,N/A,N/A,N/A
+50,Josh Hart,FG_ASSISTED,Kentavious Caldwell-Pope,7:35,2,Lakers,Grizzlies,41 - 20,0,27,3,Jumper
+51,Garrett Temple,FG_UNASSISTED,None,7:06,2,Grizzlies,Lakers,41 - 22,1,0,2,Layup
+52,Josh Hart,FG_ASSISTED,LeBron James,6:51,2,Lakers,Grizzlies,44 - 22,0,26,3,Jumper
+53,Wayne Selden,FG_UNASSISTED,None,6:35,2,Grizzlies,Lakers,44 - 24,1,17,2,Jumper
+54,Josh Hart,FG_UNASSISTED,None,6:18,2,Lakers,Grizzlies,47 - 24,0,26,3,Jumper
+55,Team,Unknown,None,6:16,2,Grizzlies,Lakers,47 - 24,1,N/A,N/A,N/A
+56,Shelvin Mack,SUBSTITUTION,Conley Mike,6:16,2,Grizzlies,Lakers,47 - 24,1,N/A,N/A,N/A
+57,JaMychal Green,SUBSTITUTION,Temple Garrett,6:16,2,Grizzlies,Lakers,47 - 24,1,N/A,N/A,N/A
+58,Marc Gasol,SUBSTITUTION,Noah Joakim,6:16,2,Grizzlies,Lakers,47 - 24,1,N/A,N/A,N/A
+59,JaVale McGee,FOUL_ON_FLOOR,None,6:00,2,Lakers,Grizzlies,47 - 24,0,N/A,N/A,N/A
+60,Wayne Selden,FG_UNASSISTED,None,5:49,2,Grizzlies,Lakers,47 - 26,1,0,2,Layup
+61,Shelvin Mack,FOUL_ON_FLOOR,None,5:37,2,Grizzlies,Lakers,47 - 26,1,N/A,N/A,N/A
+62,Josh Hart,FG_MISS,None,5:29,2,Lakers,Grizzlies,47 - 26,0,25,3,Jumper
+63,Shelvin Mack,DEFENSIVE_REBOUND,None,5:26,2,Grizzlies,Lakers,47 - 26,1,N/A,N/A,N/A
+64,JaMychal Green,FG_ASSISTED,Kyle Anderson,5:16,2,Grizzlies,Lakers,47 - 29,1,25,3,Jumper
+65,LeBron James,FG_UNASSISTED,None,5:05,2,Lakers,Grizzlies,49 - 29,0, ,2,Jumper
+66,Marc Gasol,FG_ASSISTED,Kyle Anderson,4:50,2,Grizzlies,Lakers,49 - 32,1,24,3,Jumper
+67,Kentavious Caldwell-Pope,FG_ASSISTED,LeBron James,4:31,2,Lakers,Grizzlies,52 - 32,0,29,3,Jumper
+68,Marc Gasol,TURNOVER,Josh Hart,4:20,2,Grizzlies,Lakers,52 - 32,1,N/A,N/A,N/A
+69,LeBron James,TURNOVER,None,4:16,2,Lakers,Grizzlies,52 - 32,0,N/A,N/A,N/A
+70,Kyle Kuzma,SUBSTITUTION,Caldwell-Pope Kentavious,4:16,2,Lakers,Grizzlies,52 - 32,0,N/A,N/A,N/A
+71,Lonzo Ball,SUBSTITUTION,Mykhailiuk Sviatoslav,4:16,2,Lakers,Grizzlies,52 - 32,0,N/A,N/A,N/A
+72,Wayne Selden,TURNOVER,Josh Hart,3:58,2,Grizzlies,Lakers,52 - 32,1,N/A,N/A,N/A
+73,Josh Hart,FG_MISS,Wayne Selden,3:53,2,Grizzlies,Lakers,52 - 32,0,3,2,Jumper
+74,JaVale McGee,OFFENSIVE_REBOUND,None,3:50,2,Lakers,Grizzlies,52 - 32,0,N/A,N/A,N/A
+75,JaVale McGee,FG_MISS,None,3:50,2,Lakers,Grizzlies,52 - 32,0, ,2,Jumper
+76,JaVale McGee,OFFENSIVE_REBOUND,None,3:50,2,Lakers,Grizzlies,52 - 32,0,N/A,N/A,N/A
+77,Marc Gasol,FOUL_ON_FLOOR,None,3:50,2,Grizzlies,Lakers,52 - 32,1,N/A,N/A,N/A
+78,Josh Hart,FT,None,3:50,2,Lakers,Grizzlies,53 - 32,0,N/A,1,N/A
+79,Mike Conley,SUBSTITUTION,Selden Wayne,3:50,2,Grizzlies,Lakers,53 - 32,1,N/A,N/A,N/A
+80,Josh Hart,FT,None,3:50,2,Lakers,Grizzlies,54 - 32,0,N/A,1,N/A
+81,Marc Gasol,TURNOVER,None,3:33,2,Grizzlies,Lakers,54 - 32,1,N/A,N/A,N/A
+82,JaVale McGee,FOUL_ON_FLOOR,None,3:25,2,Lakers,Grizzlies,54 - 32,0,N/A,N/A,N/A
+83,JaVale McGee,TURNOVER,None,3:25,2,Lakers,Grizzlies,54 - 32,0,N/A,N/A,N/A
+84,JaVale McGee,FOUL_ON_FLOOR,None,3:17,2,Lakers,Grizzlies,54 - 32,0,N/A,N/A,N/A
+85,Tyson Chandler,SUBSTITUTION,McGee JaVale,3:17,2,Lakers,Grizzlies,54 - 32,0,N/A,N/A,N/A
+86,Lonzo Ball,FOUL_ON_FLOOR,None,3:08,2,Lakers,Grizzlies,54 - 32,0,N/A,N/A,N/A
+87,Jaren Jackson,SUBSTITUTION,Green JaMychal,3:08,2,Grizzlies,Lakers,54 - 32,1,N/A,N/A,N/A
+88,Marc Gasol,FG_ASSISTED,Mike Conley,3:04,2,Grizzlies,Lakers,54 - 34,1,0,2,Dunk
+89,LeBron James,FG_UNASSISTED,None,2:43,2,Lakers,Grizzlies,56 - 34,0,10,2,Jumper
+90,Mike Conley,FG_ASSISTED,Kyle Anderson,2:28,2,Grizzlies,Lakers,56 - 37,1,26,3,Jumper
+91,Team,Unknown,None,2:26,2,Lakers,Grizzlies,56 - 37,0,N/A,N/A,N/A
+92,Kyle Anderson,FOUL_ON_FLOOR,None,2:15,2,Grizzlies,Lakers,56 - 37,1,N/A,N/A,N/A
+93,LeBron James,FT_MISS,None,2:15,2,Lakers,Grizzlies,56 - 37,0,N/A,1,N/A
+94,Team,OFFENSIVE_REBOUND,None,2:15,2,Lakers,Grizzlies,56 - 37,0,N/A,N/A,N/A
+95,JaMychal Green,SUBSTITUTION,Anderson Kyle,2:15,2,Grizzlies,Lakers,56 - 37,1,N/A,N/A,N/A
+96,LeBron James,FT,None,2:15,2,Lakers,Grizzlies,57 - 37,0,N/A,1,N/A
+97,Marc Gasol,FG_UNASSISTED,None,2:00,2,Grizzlies,Lakers,57 - 39,1,10,2,Jumper
+98,Josh Hart,FG_ASSISTED,LeBron James,1:40,2,Lakers,Grizzlies,60 - 39,0,24,3,Jumper
+99,Marc Gasol,FG_MISS,None,1:26,2,Grizzlies,Lakers,60 - 39,1,7,2,Jumper
+100,Kyle Kuzma,DEFENSIVE_REBOUND,None,1:23,2,Lakers,Grizzlies,60 - 39,0,N/A,N/A,N/A
+101,Kyle Kuzma,FG_ASSISTED,Lonzo Ball,1:16,2,Lakers,Grizzlies,63 - 39,0,26,3,Jumper
+102,Lonzo Ball,FOUL_ON_FLOOR,None,53.0,2,Lakers,Grizzlies,63 - 39,0,N/A,N/A,N/A
+103,JaMychal Green,FT_MISS,None,53.0,2,Grizzlies,Lakers,63 - 39,1,N/A,1,N/A
+104,Team,OFFENSIVE_REBOUND,None,53.0,2,Grizzlies,Lakers,63 - 39,1,N/A,N/A,N/A
+105,JaMychal Green,FT,None,53.0,2,Grizzlies,Lakers,63 - 40,1,N/A,1,N/A
+106,Kyle Kuzma,FG_MISS,None,36.9,2,Lakers,Grizzlies,63 - 40,0,28,3,Jumper
+107,Jaren Jackson,DEFENSIVE_REBOUND,None,33.1,2,Grizzlies,Lakers,63 - 40,1,N/A,N/A,N/A
+108,Jaren Jackson,FG_MISS,None,19.2,2,Grizzlies,Lakers,63 - 40,1,5,2,Jumper
+109,LeBron James,DEFENSIVE_REBOUND,None,16.6,2,Lakers,Grizzlies,63 - 40,0,N/A,N/A,N/A
+110,LeBron James,FG_MISS,None,1.1,2,Lakers,Grizzlies,63 - 40,0,27,2,Jumper
+111,Team,OFFENSIVE_REBOUND,None,1.1,2,Lakers,Grizzlies,63 - 40,0,N/A,N/A,N/A
+112,End of,Unknown,None,0.0,2,Grizzlies,Lakers,63 - 40,1,N/A,N/A,N/A
+0,Garrett Temple,SUBSTITUTION,Mack Shelvin,12:00,3,Grizzlies,Lakers,63 - 40,1,N/A,N/A,N/A
+1,Kyle Anderson,SUBSTITUTION,Green JaMychal,12:00,3,Grizzlies,Lakers,63 - 40,1,N/A,N/A,N/A
+2,JaVale McGee,SUBSTITUTION,Chandler Tyson,12:00,3,Lakers,Grizzlies,63 - 40,0,N/A,N/A,N/A
+3,Kyle Kuzma,FG_ASSISTED,JaVale McGee,11:40,3,Lakers,Grizzlies,66 - 40,0,26,3,Jumper
+4,Marc Gasol,TURNOVER,LeBron James,11:18,3,Grizzlies,Lakers,66 - 40,1,N/A,N/A,N/A
+5,Lonzo Ball,FG_ASSISTED,LeBron James,11:14,3,Lakers,Grizzlies,68 - 40,0,0,2,Dunk
+6,Kyle Anderson,FG_ASSISTED,Mike Conley,10:49,3,Grizzlies,Lakers,68 - 42,1,1,2,Jumper
+7,Kyle Kuzma,FG_MISS,None,10:31,3,Lakers,Grizzlies,68 - 42,0, ,2,Jumper
+8,Kyle Anderson,DEFENSIVE_REBOUND,None,10:28,3,Grizzlies,Lakers,68 - 42,1,N/A,N/A,N/A
+9,Garrett Temple,FG_ASSISTED,Kyle Anderson,10:27,3,Grizzlies,Lakers,68 - 44,1, ,2,Jumper
+10,LeBron James,FOUL_ON_FLOOR,None,10:27,3,Lakers,Grizzlies,68 - 44,0,N/A,N/A,N/A
+11,Garrett Temple,FT,None,10:27,3,Grizzlies,Lakers,68 - 45,1,N/A,1,N/A
+12,JaVale McGee,FG_MISS,None,10:16,3,Lakers,Grizzlies,68 - 45,0,0,2,Layup
+13,Jaren Jackson,DEFENSIVE_REBOUND,None,10:12,3,Grizzlies,Lakers,68 - 45,1,N/A,N/A,N/A
+14,Jaren Jackson,TURNOVER,Lonzo Ball,10:12,3,Grizzlies,Lakers,68 - 45,1,N/A,N/A,N/A
+15,LeBron James,FG_MISS,None,10:06,3,Lakers,Grizzlies,68 - 45,0, ,2,Jumper
+16,Marc Gasol,DEFENSIVE_REBOUND,None,10:03,3,Grizzlies,Lakers,68 - 45,1,N/A,N/A,N/A
+17,Jaren Jackson,FG_ASSISTED,Marc Gasol,9:57,3,Grizzlies,Lakers,68 - 47,1,0,2,Dunk
+18,LeBron James,FG_MISS,None,9:42,3,Lakers,Grizzlies,68 - 47,0,0,2,Layup
+19,Kyle Kuzma,OFFENSIVE_REBOUND,None,9:39,3,Lakers,Grizzlies,68 - 47,0,N/A,N/A,N/A
+20,Kyle Kuzma,FG_MISS,None,9:38,3,Lakers,Grizzlies,68 - 47,0,26,3,Jumper
+21,Mike Conley,DEFENSIVE_REBOUND,None,9:35,3,Grizzlies,Lakers,68 - 47,1,N/A,N/A,N/A
+22,LeBron James,FOUL_ON_FLOOR,None,9:23,3,Lakers,Grizzlies,68 - 47,0,N/A,N/A,N/A
+23,Jaren Jackson,FT,None,9:23,3,Grizzlies,Lakers,68 - 48,1,N/A,1,N/A
+24,Jaren Jackson,FT,None,9:23,3,Grizzlies,Lakers,68 - 49,1,N/A,1,N/A
+25,Kyle Kuzma,FG_MISS,None,9:01,3,Lakers,Grizzlies,68 - 49,0,10,2,Jumper
+26,Jaren Jackson,DEFENSIVE_REBOUND,None,8:58,3,Grizzlies,Lakers,68 - 49,1,N/A,N/A,N/A
+27,Mike Conley,FG_UNASSISTED,None,8:40,3,Grizzlies,Lakers,68 - 51,1,10,2,Jumper
+28,Team,Unknown,None,8:39,3,Lakers,Grizzlies,68 - 51,0,N/A,N/A,N/A
+29,JaVale McGee,FOUL_TECHNICAL,None,8:39,3,Lakers,Grizzlies,68 - 51,0,N/A,N/A,N/A
+30,Mike Conley,FT,None,8:39,3,Grizzlies,Lakers,68 - 52,1,N/A,1,N/A
+31,Lonzo Ball,TURNOVER,Mike Conley,8:21,3,Lakers,Grizzlies,68 - 52,0,N/A,N/A,N/A
+32,Mike Conley,FG_MISS,None,8:10,3,Grizzlies,Lakers,68 - 52,1, ,2,Jumper
+33,Team,DEFENSIVE_REBOUND,None,8:09,3,Lakers,Grizzlies,68 - 52,0,N/A,N/A,N/A
+34,Lonzo Ball,FG_MISS,None,7:54,3,Lakers,Grizzlies,68 - 52,0,26,3,Jumper
+35,Kyle Anderson,DEFENSIVE_REBOUND,None,7:50,3,Grizzlies,Lakers,68 - 52,1,N/A,N/A,N/A
+36,JaVale McGee,FOUL_ON_FLOOR,None,7:46,3,Lakers,Grizzlies,68 - 52,0,N/A,N/A,N/A
+37,Tyson Chandler,SUBSTITUTION,McGee JaVale,7:46,3,Lakers,Grizzlies,68 - 52,0,N/A,N/A,N/A
+38,Kyle Anderson,FG_MISS,None,7:39,3,Grizzlies,Lakers,68 - 52,1, ,3,Jumper
+39,Kyle Kuzma,DEFENSIVE_REBOUND,None,7:37,3,Lakers,Grizzlies,68 - 52,0,N/A,N/A,N/A
+40,LeBron James,FG_MISS,None,7:27,3,Lakers,Grizzlies,68 - 52,0,15,2,Jumper
+41,Jaren Jackson,DEFENSIVE_REBOUND,None,7:24,3,Grizzlies,Lakers,68 - 52,1,N/A,N/A,N/A
+42,Kyle Kuzma,FOUL_ON_FLOOR,None,7:21,3,Lakers,Grizzlies,68 - 52,0,N/A,N/A,N/A
+43,Kentavious Caldwell-Pope,SUBSTITUTION,Ball Lonzo,7:21,3,Lakers,Grizzlies,68 - 52,0,N/A,N/A,N/A
+44,Mike Conley,FG_MISS,None,7:07,3,Grizzlies,Lakers,68 - 52,1,4,2,Jumper
+45,Tyson Chandler,DEFENSIVE_REBOUND,None,7:05,3,Lakers,Grizzlies,68 - 52,0,N/A,N/A,N/A
+46,Kentavious Caldwell-Pope,FG_ASSISTED,Kyle Kuzma,7:01,3,Lakers,Grizzlies,71 - 52,0, ,3,Jumper
+47,Jaren Jackson,FG_MISS,None,6:41,3,Grizzlies,Lakers,71 - 52,1,23,3,Jumper
+48,Kyle Kuzma,DEFENSIVE_REBOUND,None,6:39,3,Lakers,Grizzlies,71 - 52,0,N/A,N/A,N/A
+49,Kyle Anderson,FOUL_ON_FLOOR,None,6:35,3,Grizzlies,Lakers,71 - 52,1,N/A,N/A,N/A
+50,JaMychal Green,SUBSTITUTION,Anderson Kyle,6:35,3,Grizzlies,Lakers,71 - 52,1,N/A,N/A,N/A
+51,LeBron James,TURNOVER,Jaren Jackson,6:29,3,Lakers,Grizzlies,71 - 52,0,N/A,N/A,N/A
+52,JaMychal Green,FG_MISS,None,6:24,3,Grizzlies,Lakers,71 - 52,1,23,3,Jumper
+53,LeBron James,DEFENSIVE_REBOUND,None,6:21,3,Lakers,Grizzlies,71 - 52,0,N/A,N/A,N/A
+54,Kentavious Caldwell-Pope,FG_MISS,None,6:18,3,Lakers,Grizzlies,71 - 52,0,23,3,Jumper
+55,Team,OFFENSIVE_REBOUND,None,6:15,3,Lakers,Grizzlies,71 - 52,0,N/A,N/A,N/A
+56,LeBron James,TURNOVER,Mike Conley,6:03,3,Lakers,Grizzlies,71 - 52,0,N/A,N/A,N/A
+57,Josh Hart,FOUL_ON_FLOOR,None,6:03,3,Lakers,Grizzlies,71 - 52,0,N/A,N/A,N/A
+58,Mike Conley,FT,None,6:03,3,Grizzlies,Lakers,71 - 53,1,N/A,1,N/A
+59,Mike Conley,FT,None,6:03,3,Grizzlies,Lakers,71 - 54,1,N/A,1,N/A
+60,Mike Conley,FG_MISS,None,5:42,3,Grizzlies,Lakers,71 - 54,1, ,2,Jumper
+61,LeBron James,DEFENSIVE_REBOUND,None,5:39,3,Lakers,Grizzlies,71 - 54,0,N/A,N/A,N/A
+62,LeBron James,FG_UNASSISTED,None,5:34,3,Lakers,Grizzlies,73 - 54,0,1,2,Jumper
+63,Tyson Chandler,FOUL_ON_FLOOR,None,5:18,3,Lakers,Grizzlies,73 - 54,0,N/A,N/A,N/A
+64,Garrett Temple,FT,None,5:18,3,Grizzlies,Lakers,73 - 55,1,N/A,1,N/A
+65,Shelvin Mack,SUBSTITUTION,Conley Mike,5:18,3,Grizzlies,Lakers,73 - 55,1,N/A,N/A,N/A
+66,Sviatoslav Mykhailiuk,SUBSTITUTION,Hart Josh,5:18,3,Lakers,Grizzlies,73 - 55,0,N/A,N/A,N/A
+67,Garrett Temple,FT,None,5:18,3,Grizzlies,Lakers,73 - 56,1,N/A,1,N/A
+68,Kentavious Caldwell-Pope,FG_ASSISTED,Kyle Kuzma,5:05,3,Lakers,Grizzlies,76 - 56,0,23,3,Jumper
+69,Jaren Jackson,FG_MISS,Kyle Kuzma,4:44,3,Lakers,Grizzlies,76 - 56,1,0,2,Layup
+70,Team,DEFENSIVE_REBOUND,None,4:44,3,Lakers,Grizzlies,76 - 56,0,N/A,N/A,N/A
+71,MarShon Brooks,SUBSTITUTION,Temple Garrett,4:44,3,Grizzlies,Lakers,76 - 56,1,N/A,N/A,N/A
+72,Kentavious Caldwell-Pope,FG_MISS,None,4:30,3,Lakers,Grizzlies,76 - 56,0,25,3,Jumper
+73,Kyle Kuzma,OFFENSIVE_REBOUND,None,4:27,3,Lakers,Grizzlies,76 - 56,0,N/A,N/A,N/A
+74,LeBron James,FG_ASSISTED,Kyle Kuzma,4:25,3,Lakers,Grizzlies,78 - 56,0,0,2,Dunk
+75,Marc Gasol,FOUL_ON_FLOOR,None,4:25,3,Grizzlies,Lakers,78 - 56,1,N/A,N/A,N/A
+76,Joakim Noah,SUBSTITUTION,Jackson Jaren,4:25,3,Grizzlies,Lakers,78 - 56,1,N/A,N/A,N/A
+77,LeBron James,FT,None,4:25,3,Lakers,Grizzlies,79 - 56,0,N/A,1,N/A
+78,Joakim Noah,FOUL_ON_FLOOR,None,4:10,3,Grizzlies,Lakers,79 - 56,1,N/A,N/A,N/A
+79,Joakim Noah,TURNOVER,None,4:10,3,Grizzlies,Lakers,79 - 56,1,N/A,N/A,N/A
+80,Kyle Kuzma,FG_ASSISTED,LeBron James,3:59,3,Lakers,Grizzlies,82 - 56,0,25,3,Jumper
+81,Team,Unknown,None,3:58,3,Grizzlies,Lakers,82 - 56,1,N/A,N/A,N/A
+82,Team,Unknown,None,3:58,3,Lakers,Grizzlies,82 - 56,0,N/A,N/A,N/A
+83,Wayne Selden,SUBSTITUTION,Gasol Marc,3:58,3,Grizzlies,Lakers,82 - 56,1,N/A,N/A,N/A
+84,Shelvin Mack,TURNOVER,LeBron James,3:36,3,Grizzlies,Lakers,82 - 56,1,N/A,N/A,N/A
+85,LeBron James,FG_UNASSISTED,None,3:30,3,Lakers,Grizzlies,84 - 56,0, ,2,Jumper
+86,JaMychal Green,FG_MISS,None,3:12,3,Grizzlies,Lakers,84 - 56,1,19,2,Jumper
+87,Tyson Chandler,DEFENSIVE_REBOUND,None,3:11,3,Lakers,Grizzlies,84 - 56,0,N/A,N/A,N/A
+88,Sviatoslav Mykhailiuk,FG_MISS,None,2:50,3,Lakers,Grizzlies,84 - 56,0,26,3,Jumper
+89,Joakim Noah,DEFENSIVE_REBOUND,None,2:46,3,Grizzlies,Lakers,84 - 56,1,N/A,N/A,N/A
+90,Joakim Noah,FG_ASSISTED,Wayne Selden,2:35,3,Grizzlies,Lakers,84 - 58,1,0,2,Layup
+91,LeBron James,FG_MISS,None,2:19,3,Lakers,Grizzlies,84 - 58,0,28,3,Jumper
+92,Team,OFFENSIVE_REBOUND,None,2:18,3,Lakers,Grizzlies,84 - 58,0,N/A,N/A,N/A
+93,Wayne Selden,FOUL_ON_FLOOR,None,2:18,3,Grizzlies,Lakers,84 - 58,1,N/A,N/A,N/A
+94,Lance Stephenson,SUBSTITUTION,James LeBron,2:18,3,Lakers,Grizzlies,84 - 58,0,N/A,N/A,N/A
+95,Kentavious Caldwell-Pope,FG_MISS,None,2:05,3,Lakers,Grizzlies,84 - 58,0,27,3,Jumper
+96,Joakim Noah,DEFENSIVE_REBOUND,None,2:02,3,Grizzlies,Lakers,84 - 58,1,N/A,N/A,N/A
+97,MarShon Brooks,FG_MISS,None,1:53,3,Grizzlies,Lakers,84 - 58,1,20,2,Jumper
+98,JaMychal Green,OFFENSIVE_REBOUND,None,1:47,3,Grizzlies,Lakers,84 - 58,1,N/A,N/A,N/A
+99,JaMychal Green,FG_UNASSISTED,None,1:47,3,Grizzlies,Lakers,84 - 60,1, ,2,Jumper
+100,Lance Stephenson,FG_ASSISTED,Kyle Kuzma,1:28,3,Lakers,Grizzlies,87 - 60,0,23,3,Jumper
+101,Wayne Selden,FG_ASSISTED,Joakim Noah,1:11,3,Grizzlies,Lakers,87 - 62,1,12,2,Jumper
+102,Lance Stephenson,FG_UNASSISTED,None,58.7,3,Lakers,Grizzlies,89 - 62,0,0,2,Layup
+103,Joakim Noah,FG_MISS,None,49.1,3,Grizzlies,Lakers,89 - 62,1,21,2,Jumper
+104,Tyson Chandler,DEFENSIVE_REBOUND,None,46.3,3,Lakers,Grizzlies,89 - 62,0,N/A,N/A,N/A
+105,Kyle Kuzma,FG_UNASSISTED,None,34.9,3,Lakers,Grizzlies,91 - 62,0,0,2,Layup
+106,Kentavious Caldwell-Pope,FOUL_ON_FLOOR,None,29.7,3,Lakers,Grizzlies,91 - 62,0,N/A,N/A,N/A
+107,Shelvin Mack,FT_MISS,None,29.7,3,Grizzlies,Lakers,91 - 62,1,N/A,1,N/A
+108,Team,OFFENSIVE_REBOUND,None,29.7,3,Grizzlies,Lakers,91 - 62,1,N/A,N/A,N/A
+109,Shelvin Mack,FT,None,29.7,3,Grizzlies,Lakers,91 - 63,1,N/A,1,N/A
+110,Kyle Kuzma,FG_MISS,None,11.4,3,Lakers,Grizzlies,91 - 63,0,26,3,Jumper
+111,Team,DEFENSIVE_REBOUND,None,8.6,3,Grizzlies,Lakers,91 - 63,1,N/A,N/A,N/A
+112,Wayne Selden,FG_UNASSISTED,None,2.3,3,Grizzlies,Lakers,91 - 66,1,26,3,Jumper
+113,Kentavious Caldwell-Pope,FG_MISS,None,0.0,3,Lakers,Grizzlies,91 - 66,0,60,3,Jumper
+114,Team,OFFENSIVE_REBOUND,None,0.0,3,Lakers,Grizzlies,91 - 66,0,N/A,N/A,N/A
+115,End of,Unknown,None,0.0,3,Grizzlies,Lakers,91 - 66,1,N/A,N/A,N/A
+0,Mike Conley,SUBSTITUTION,Green JaMychal,12:00,4,Grizzlies,Lakers,91 - 66,1,N/A,N/A,N/A
+1,Marc Gasol,SUBSTITUTION,Mack Shelvin,12:00,4,Grizzlies,Lakers,91 - 66,1,N/A,N/A,N/A
+2,Jaren Jackson,SUBSTITUTION,Brooks MarShon,12:00,4,Grizzlies,Lakers,91 - 66,1,N/A,N/A,N/A
+3,Kyle Anderson,SUBSTITUTION,Noah Joakim,12:00,4,Grizzlies,Lakers,91 - 66,1,N/A,N/A,N/A
+4,Josh Hart,SUBSTITUTION,Kuzma Kyle,12:00,4,Lakers,Grizzlies,91 - 66,0,N/A,N/A,N/A
+5,Josh Hart,FOUL_ON_FLOOR,None,11:37,4,Lakers,Grizzlies,91 - 66,0,N/A,N/A,N/A
+6,Wayne Selden,FG_MISS,None,11:33,4,Grizzlies,Lakers,91 - 66,1,23,3,Jumper
+7,Lance Stephenson,DEFENSIVE_REBOUND,None,11:30,4,Lakers,Grizzlies,91 - 66,0,N/A,N/A,N/A
+8,Lance Stephenson,FG_MISS,None,11:15,4,Lakers,Grizzlies,91 - 66,0,26,3,Jumper
+9,Marc Gasol,DEFENSIVE_REBOUND,None,11:11,4,Grizzlies,Lakers,91 - 66,1,N/A,N/A,N/A
+10,Marc Gasol,FG_MISS,None,11:00,4,Grizzlies,Lakers,91 - 66,1, ,3,Jumper
+11,Tyson Chandler,DEFENSIVE_REBOUND,None,10:57,4,Lakers,Grizzlies,91 - 66,0,N/A,N/A,N/A
+12,Sviatoslav Mykhailiuk,FG_MISS,None,10:47,4,Lakers,Grizzlies,91 - 66,0,23,3,Jumper
+13,Marc Gasol,DEFENSIVE_REBOUND,None,10:44,4,Grizzlies,Lakers,91 - 66,1,N/A,N/A,N/A
+14,Kyle Anderson,FG_MISS,Kentavious Caldwell-Pope,10:40,4,Lakers,Grizzlies,91 - 66,1,0,2,Layup
+15,Team,DEFENSIVE_REBOUND,None,10:40,4,Lakers,Grizzlies,91 - 66,0,N/A,N/A,N/A
+16,Kyle Anderson,FOUL_ON_FLOOR,None,10:33,4,Grizzlies,Lakers,91 - 66,1,N/A,N/A,N/A
+17,Sviatoslav Mykhailiuk,TURNOVER,Mike Conley,10:27,4,Lakers,Grizzlies,91 - 66,0,N/A,N/A,N/A
+18,Kentavious Caldwell-Pope,FOUL_ON_FLOOR,None,10:23,4,Lakers,Grizzlies,91 - 66,0,N/A,N/A,N/A
+19,Wayne Selden,FT,None,10:23,4,Grizzlies,Lakers,91 - 67,1,N/A,1,N/A
+20,Lonzo Ball,SUBSTITUTION,Mykhailiuk Sviatoslav,10:23,4,Lakers,Grizzlies,91 - 67,0,N/A,N/A,N/A
+21,Wayne Selden,FT,None,10:23,4,Grizzlies,Lakers,91 - 68,1,N/A,1,N/A
+22,Lonzo Ball,FG_MISS,None,10:07,4,Lakers,Grizzlies,91 - 68,0,16,2,Jumper
+23,Wayne Selden,DEFENSIVE_REBOUND,None,10:02,4,Grizzlies,Lakers,91 - 68,1,N/A,N/A,N/A
+24,Wayne Selden,TURNOVER,Tyson Chandler,10:00,4,Grizzlies,Lakers,91 - 68,1,N/A,N/A,N/A
+25,Lance Stephenson,FG_MISS,None,9:57,4,Lakers,Grizzlies,91 - 68,0, ,2,Jumper
+26,Team,OFFENSIVE_REBOUND,None,9:56,4,Lakers,Grizzlies,91 - 68,0,N/A,N/A,N/A
+27,Wayne Selden,FOUL_ON_FLOOR,None,9:56,4,Grizzlies,Lakers,91 - 68,1,N/A,N/A,N/A
+28,Jaren Jackson,FOUL_ON_FLOOR,None,9:54,4,Grizzlies,Lakers,91 - 68,1,N/A,N/A,N/A
+29,Kentavious Caldwell-Pope,TURNOVER,Jaren Jackson,9:49,4,Lakers,Grizzlies,91 - 68,0,N/A,N/A,N/A
+30,Wayne Selden,FG_MISS,None,9:40,4,Grizzlies,Lakers,91 - 68,1,12,2,Jumper
+31,Marc Gasol,OFFENSIVE_REBOUND,None,9:35,4,Grizzlies,Lakers,91 - 68,1,N/A,N/A,N/A
+32,Marc Gasol,FG_UNASSISTED,None,9:35,4,Grizzlies,Lakers,91 - 70,1, ,2,Jumper
+33,Lance Stephenson,FG_MISS,None,9:16,4,Lakers,Grizzlies,91 - 70,0,18,2,Jumper
+34,Marc Gasol,DEFENSIVE_REBOUND,None,9:13,4,Grizzlies,Lakers,91 - 70,1,N/A,N/A,N/A
+35,Wayne Selden,FG_ASSISTED,Marc Gasol,9:08,4,Grizzlies,Lakers,91 - 72,1, ,2,Jumper
+36,Team,Unknown,None,9:08,4,Lakers,Grizzlies,91 - 72,0,N/A,N/A,N/A
+37,Kyle Kuzma,SUBSTITUTION,Caldwell-Pope Kentavious,9:08,4,Lakers,Grizzlies,91 - 72,0,N/A,N/A,N/A
+38,JaVale McGee,SUBSTITUTION,Chandler Tyson,9:08,4,Lakers,Grizzlies,91 - 72,0,N/A,N/A,N/A
+39,LeBron James,SUBSTITUTION,Stephenson Lance,9:08,4,Lakers,Grizzlies,91 - 72,0,N/A,N/A,N/A
+40,Kyle Kuzma,FG_MISS,None,8:45,4,Lakers,Grizzlies,91 - 72,0,10,2,Jumper
+41,Kyle Kuzma,OFFENSIVE_REBOUND,None,8:43,4,Lakers,Grizzlies,91 - 72,0,N/A,N/A,N/A
+42,Lonzo Ball,FG_MISS,None,8:39,4,Lakers,Grizzlies,91 - 72,0,25,3,Jumper
+43,Jaren Jackson,DEFENSIVE_REBOUND,None,8:35,4,Grizzlies,Lakers,91 - 72,1,N/A,N/A,N/A
+44,Marc Gasol,TURNOVER,Josh Hart,8:25,4,Grizzlies,Lakers,91 - 72,1,N/A,N/A,N/A
+45,Kyle Kuzma,FG_ASSISTED,Lonzo Ball,8:18,4,Lakers,Grizzlies,94 - 72,0,25,3,Jumper
+46,Mike Conley,FG_UNASSISTED,None,7:58,4,Grizzlies,Lakers,94 - 74,1, ,2,Jumper
+47,JaVale McGee,FG_MISS,None,7:32,4,Lakers,Grizzlies,94 - 74,0,0,2,Layup
+48,Jaren Jackson,DEFENSIVE_REBOUND,None,7:29,4,Grizzlies,Lakers,94 - 74,1,N/A,N/A,N/A
+49,Jaren Jackson,FG_ASSISTED,Wayne Selden,7:17,4,Grizzlies,Lakers,94 - 76,1, ,2,Jumper
+50,JaVale McGee,FG_ASSISTED,Josh Hart,6:55,4,Lakers,Grizzlies,96 - 76,0,0,2,Dunk
+51,Team,Unknown,None,6:44,4,Grizzlies,Lakers,96 - 76,1,N/A,N/A,N/A
+52,Omri Casspi,SUBSTITUTION,Anderson Kyle,6:44,4,Grizzlies,Lakers,96 - 76,1,N/A,N/A,N/A
+53,Joakim Noah,SUBSTITUTION,Conley Mike,6:44,4,Grizzlies,Lakers,96 - 76,1,N/A,N/A,N/A
+54,Shelvin Mack,SUBSTITUTION,Jackson Jaren,6:44,4,Grizzlies,Lakers,96 - 76,1,N/A,N/A,N/A
+55,DJ Stephens,SUBSTITUTION,Gasol Marc,6:44,4,Grizzlies,Lakers,96 - 76,1,N/A,N/A,N/A
+56,Wayne Selden,FG_MISS,None,6:39,4,Grizzlies,Lakers,96 - 76,1,12,2,Jumper
+57,LeBron James,DEFENSIVE_REBOUND,None,6:34,4,Lakers,Grizzlies,96 - 76,0,N/A,N/A,N/A
+58,Joakim Noah,FOUL_ON_FLOOR,None,6:31,4,Grizzlies,Lakers,96 - 76,1,N/A,N/A,N/A
+59,Lonzo Ball,TURNOVER,Omri Casspi,6:25,4,Lakers,Grizzlies,96 - 76,0,N/A,N/A,N/A
+60,Omri Casspi,FG_ASSISTED,Wayne Selden,6:22,4,Grizzlies,Lakers,96 - 78,1,0,2,Dunk
+61,Wayne Selden,FOUL_ON_FLOOR,None,6:02,4,Grizzlies,Lakers,96 - 78,1,N/A,N/A,N/A
+62,JaVale McGee,FT,None,6:02,4,Lakers,Grizzlies,97 - 78,0,N/A,1,N/A
+63,JaVale McGee,FT,None,6:02,4,Lakers,Grizzlies,98 - 78,0,N/A,1,N/A
+64,Wayne Selden,FG_MISS,None,5:47,4,Grizzlies,Lakers,98 - 78,1,26,3,Jumper
+65,JaVale McGee,DEFENSIVE_REBOUND,None,5:44,4,Lakers,Grizzlies,98 - 78,0,N/A,N/A,N/A
+66,Lonzo Ball,FG_ASSISTED,JaVale McGee,5:29,4,Lakers,Grizzlies,100 - 78,0,0,2,Dunk
+67,DJ Stephens,FG_ASSISTED,Wayne Selden,5:14,4,Grizzlies,Lakers,100 - 80,1,0,2,Dunk
+68,JaVale McGee,FG_ASSISTED,LeBron James,5:01,4,Lakers,Grizzlies,102 - 80,0,0,2,Dunk
+69,DJ Stephens's,FG_MISS,Josh Hart,4:40,4,Lakers,Grizzlies,102 - 80,1,0,2,Dunk
+70,Kyle Kuzma,DEFENSIVE_REBOUND,None,4:36,4,Lakers,Grizzlies,102 - 80,0,N/A,N/A,N/A
+71,JaVale McGee,FG_MISS,None,4:33,4,Lakers,Grizzlies,102 - 80,0, ,2,Jumper
+72,JaVale McGee,OFFENSIVE_REBOUND,None,4:30,4,Lakers,Grizzlies,102 - 80,0,N/A,N/A,N/A
+73,JaVale McGee,FG_UNASSISTED,None,4:30,4,Lakers,Grizzlies,104 - 80,0, ,2,Jumper
+74,Lonzo Ball,FOUL_ON_FLOOR,None,4:25,4,Lakers,Grizzlies,104 - 80,0,N/A,N/A,N/A
+75,Isaac Bonga,SUBSTITUTION,James LeBron,4:25,4,Lakers,Grizzlies,104 - 80,0,N/A,N/A,N/A
+76,Shelvin Mack,FG_MISS,None,4:18,4,Grizzlies,Lakers,104 - 80,1,0,2,Layup
+77,Joakim Noah,OFFENSIVE_REBOUND,None,4:14,4,Grizzlies,Lakers,104 - 80,1,N/A,N/A,N/A
+78,Joakim Noah,FG_MISS,None,4:14,4,Grizzlies,Lakers,104 - 80,1, ,2,Jumper
+79,Shelvin Mack,OFFENSIVE_REBOUND,None,4:14,4,Grizzlies,Lakers,104 - 80,1,N/A,N/A,N/A
+80,Shelvin Mack,TURNOVER,Lonzo Ball,4:08,4,Grizzlies,Lakers,104 - 80,1,N/A,N/A,N/A
+81,JaVale McGee,TURNOVER,Wayne Selden,4:07,4,Lakers,Grizzlies,104 - 80,0,N/A,N/A,N/A
+82,Wayne Selden,FG_UNASSISTED,None,4:02,4,Grizzlies,Lakers,104 - 82,1,0,2,Layup
+83,Lonzo Ball,TURNOVER,DJ Stephens,3:51,4,Lakers,Grizzlies,104 - 82,0,N/A,N/A,N/A
+84,Moritz Wagner,SUBSTITUTION,Ball Lonzo,3:50,4,Lakers,Grizzlies,104 - 82,0,N/A,N/A,N/A
+85,Sviatoslav Mykhailiuk,SUBSTITUTION,McGee JaVale,3:50,4,Lakers,Grizzlies,104 - 82,0,N/A,N/A,N/A
+86,Joakim Noah,FG_MISS,None,3:42,4,Grizzlies,Lakers,104 - 82,1, ,2,Jumper
+87,Wayne Selden,OFFENSIVE_REBOUND,None,3:38,4,Grizzlies,Lakers,104 - 82,1,N/A,N/A,N/A
+88,Wayne Selden,FG_MISS,None,3:38,4,Grizzlies,Lakers,104 - 82,1, ,2,Jumper
+89,Wayne Selden,OFFENSIVE_REBOUND,None,3:36,4,Grizzlies,Lakers,104 - 82,1,N/A,N/A,N/A
+90,Wayne Selden,FG_UNASSISTED,None,3:36,4,Grizzlies,Lakers,104 - 84,1, ,2,Jumper
+91,Moritz Wagner,FG_MISS,None,3:17,4,Lakers,Grizzlies,104 - 84,0,10,2,Jumper
+92,Wayne Selden,DEFENSIVE_REBOUND,None,3:15,4,Grizzlies,Lakers,104 - 84,1,N/A,N/A,N/A
+93,Isaac Bonga,FOUL_ON_FLOOR,None,3:11,4,Lakers,Grizzlies,104 - 84,0,N/A,N/A,N/A
+94,Ivica Zubac,SUBSTITUTION,Kuzma Kyle,3:11,4,Lakers,Grizzlies,104 - 84,0,N/A,N/A,N/A
+95,DJ Stephens,TURNOVER,Isaac Bonga,3:07,4,Grizzlies,Lakers,104 - 84,1,N/A,N/A,N/A
+96,Isaac Bonga,TURNOVER,None,3:07,4,Lakers,Grizzlies,104 - 84,0,N/A,N/A,N/A
+97,Omri Casspi,FG_MISS,None,2:52,4,Grizzlies,Lakers,104 - 84,1,27,2,Jumper
+98,Isaac Bonga,DEFENSIVE_REBOUND,None,2:50,4,Lakers,Grizzlies,104 - 84,0,N/A,N/A,N/A
+99,Isaac Bonga,FG_MISS,Joakim Noah,2:46,4,Grizzlies,Lakers,104 - 84,0,4,2,Jumper
+100,Team,DEFENSIVE_REBOUND,None,2:46,4,Grizzlies,Lakers,104 - 84,1,N/A,N/A,N/A
+101,Moritz Wagner,Unknown,None,2:34,4,Lakers,Grizzlies,104 - 84,0,N/A,N/A,N/A
+102,Joakim Noah,FOUL_ON_FLOOR,None,2:32,4,Grizzlies,Lakers,104 - 84,1,N/A,N/A,N/A
+103,Joakim Noah,TURNOVER,None,2:32,4,Grizzlies,Lakers,104 - 84,1,N/A,N/A,N/A
+104,Joakim Noah,FOUL_TECHNICAL,None,2:32,4,Grizzlies,Lakers,104 - 84,1,N/A,N/A,N/A
+105,Isaac Bonga,FT,None,2:32,4,Lakers,Grizzlies,105 - 84,0,N/A,1,N/A
+106,Lance Stephenson,SUBSTITUTION,Hart Josh,2:32,4,Lakers,Grizzlies,105 - 84,0,N/A,N/A,N/A
+107,Moritz Wagner,FG_MISS,Joakim Noah,2:16,4,Grizzlies,Lakers,105 - 84,0,0,2,Layup
+108,Omri Casspi,DEFENSIVE_REBOUND,None,2:11,4,Grizzlies,Lakers,105 - 84,1,N/A,N/A,N/A
+109,Shelvin Mack,FG_UNASSISTED,None,2:09,4,Grizzlies,Lakers,105 - 86,1, ,2,Jumper
+110,Sviatoslav Mykhailiuk,FG_ASSISTED,Isaac Bonga,1:55,4,Lakers,Grizzlies,108 - 86,0,27,3,Jumper
+111,Isaac Bonga,FOUL_ON_FLOOR,None,1:46,4,Lakers,Grizzlies,108 - 86,0,N/A,N/A,N/A
+112,Joakim Noah,FT,None,1:46,4,Grizzlies,Lakers,108 - 87,1,N/A,1,N/A
+113,Joakim Noah,FT,None,1:46,4,Grizzlies,Lakers,108 - 88,1,N/A,1,N/A
+114,Isaac Bonga,TURNOVER,Wayne Selden,1:27,4,Lakers,Grizzlies,108 - 88,0,N/A,N/A,N/A
+115,Joakim Noah,FG_MISS,Ivica Zubac,1:22,4,Lakers,Grizzlies,108 - 88,1,2,2,Jumper
+116,Ivica Zubac,DEFENSIVE_REBOUND,None,1:18,4,Lakers,Grizzlies,108 - 88,0,N/A,N/A,N/A
+117,Lance Stephenson,TURNOVER,Omri Casspi,1:10,4,Lakers,Grizzlies,108 - 88,0,N/A,N/A,N/A
+118,Joakim Noah,FG_MISS,None,1:02,4,Grizzlies,Lakers,108 - 88,1, ,2,Jumper
+119,Lance Stephenson,DEFENSIVE_REBOUND,None,59.9,4,Lakers,Grizzlies,108 - 88,0,N/A,N/A,N/A
+120,Sviatoslav Mykhailiuk,FG_ASSISTED,Moritz Wagner,52.9,4,Lakers,Grizzlies,111 - 88,0,26,3,Jumper
+121,Omri Casspi,FG_MISS,None,35.6,4,Grizzlies,Lakers,111 - 88,1,26,3,Jumper
+122,Lance Stephenson,DEFENSIVE_REBOUND,None,32.6,4,Lakers,Grizzlies,111 - 88,0,N/A,N/A,N/A
+123,Omri Casspi,FOUL_ON_FLOOR,None,30.3,4,Grizzlies,Lakers,111 - 88,1,N/A,N/A,N/A
+124,Moritz Wagner,FT_MISS,None,30.3,4,Lakers,Grizzlies,111 - 88,0,N/A,1,N/A
+125,Team,OFFENSIVE_REBOUND,None,30.3,4,Lakers,Grizzlies,111 - 88,0,N/A,N/A,N/A
+126,Moritz Wagner,FT_MISS,None,30.3,4,Lakers,Grizzlies,111 - 88,0,N/A,1,N/A
+127,Isaac Bonga,OFFENSIVE_REBOUND,None,26.4,4,Lakers,Grizzlies,111 - 88,0,N/A,N/A,N/A
+128,Isaac Bonga,FG_MISS,None,14.3,4,Lakers,Grizzlies,111 - 88,0,26,3,Jumper
+129,Shelvin Mack,DEFENSIVE_REBOUND,None,11.7,4,Grizzlies,Lakers,111 - 88,1,N/A,N/A,N/A
+130,Shelvin Mack,FG_MISS,None,6.9,4,Grizzlies,Lakers,111 - 88,1,26,3,Jumper
+131,Team,OFFENSIVE_REBOUND,None,4.1,4,Grizzlies,Lakers,111 - 88,1,N/A,N/A,N/A
+132,Omri Casspi,FG_MISS,None,2.7,4,Grizzlies,Lakers,111 - 88,1,26,3,Jumper
+133,Wayne Selden,OFFENSIVE_REBOUND,None,2.7,4,Grizzlies,Lakers,111 - 88,1,N/A,N/A,N/A
+134,End of,Unknown,None,0.0,4,Grizzlies,Lakers,111 - 88,1,N/A,N/A,N/A
+135,End of,Unknown,None,0.0,4,Grizzlies,Lakers,111 - 88,1,N/A,N/A,N/A

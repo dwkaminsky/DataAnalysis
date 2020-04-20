@@ -1,0 +1,441 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Steven Adams,JUMP_BALL,None,12:00,1,Thunder,Raptors,0 - 0,0,N/A,N/A,N/A
+1,Jerami Grant,FG_MISS,None,11:43,1,Thunder,Raptors,0 - 0,0,18,2,Jumper
+2,Kawhi Leonard,DEFENSIVE_REBOUND,None,11:39,1,Raptors,Thunder,0 - 0,1,N/A,N/A,N/A
+3,Paul George,FOUL_ON_FLOOR,None,11:23,1,Thunder,Raptors,0 - 0,0,N/A,N/A,N/A
+4,Pascal Siakam,TURNOVER,Paul George,11:13,1,Raptors,Thunder,0 - 0,1,N/A,N/A,N/A
+5,Jerami Grant's,FG_MISS,Marc Gasol,10:59,1,Raptors,Thunder,0 - 0,0,0,2,Layup
+6,Marc Gasol,DEFENSIVE_REBOUND,None,10:55,1,Raptors,Thunder,0 - 0,1,N/A,N/A,N/A
+7,Pascal Siakam,FG_ASSISTED,Marc Gasol,10:41,1,Raptors,Thunder,0 - 3,1,23,3,Jumper
+8,Kawhi Leonard,FOUL_ON_FLOOR,None,10:23,1,Raptors,Thunder,0 - 3,1,N/A,N/A,N/A
+9,Russell Westbrook,FG_MISS,None,10:12,1,Thunder,Raptors,0 - 3,0,-,3,Jumper
+10,Marc Gasol,DEFENSIVE_REBOUND,None,10:09,1,Raptors,Thunder,0 - 3,1,N/A,N/A,N/A
+11,Marc Gasol,TURNOVER,None,10:03,1,Raptors,Thunder,0 - 3,1,N/A,N/A,N/A
+12,Paul George,FG_UNASSISTED,None,9:49,1,Thunder,Raptors,2 - 3,0,-,2,Jumper
+13,Danny Green,FOUL_ON_FLOOR,None,9:49,1,Raptors,Thunder,2 - 3,1,N/A,N/A,N/A
+14,Paul George,FT,None,9:49,1,Thunder,Raptors,3 - 3,0,N/A,1,N/A
+15,Kawhi Leonard,FG_MISS,None,9:37,1,Raptors,Thunder,3 - 3,1,17,2,Jumper
+16,Terrance Ferguson,DEFENSIVE_REBOUND,None,9:34,1,Thunder,Raptors,3 - 3,0,N/A,N/A,N/A
+17,Russell Westbrook,FG_MISS,None,9:27,1,Thunder,Raptors,3 - 3,0,-,2,Jumper
+18,Russell Westbrook,OFFENSIVE_REBOUND,None,9:23,1,Thunder,Raptors,3 - 3,0,N/A,N/A,N/A
+19,Russell Westbrook,FG_UNASSISTED,None,9:23,1,Thunder,Raptors,5 - 3,0,-,2,Jumper
+20,Steven Adams,FOUL_ON_FLOOR,None,9:06,1,Thunder,Raptors,5 - 3,0,N/A,N/A,N/A
+21,Kawhi Leonard,FG_ASSISTED,Marc Gasol,8:53,1,Raptors,Thunder,5 - 6,1,27,3,Jumper
+22,Steven Adams,TURNOVER,None,8:33,1,Thunder,Raptors,5 - 6,0,N/A,N/A,N/A
+23,Kawhi Leonard,FG_ASSISTED,Pascal Siakam,8:12,1,Raptors,Thunder,5 - 8,1,0,2,Layup
+24,Jerami Grant,FG_MISS,None,7:59,1,Thunder,Raptors,5 - 8,0,24,3,Jumper
+25,Paul George,OFFENSIVE_REBOUND,None,7:56,1,Thunder,Raptors,5 - 8,0,N/A,N/A,N/A
+26,Paul George,FG_MISS,None,7:47,1,Thunder,Raptors,5 - 8,0,0,2,Layup
+27,Steven Adams,OFFENSIVE_REBOUND,None,7:43,1,Thunder,Raptors,5 - 8,0,N/A,N/A,N/A
+28,Steven Adams,FG_MISS,None,7:41,1,Thunder,Raptors,5 - 8,0,-,2,Jumper
+29,Danny Green,DEFENSIVE_REBOUND,None,7:41,1,Raptors,Thunder,5 - 8,1,N/A,N/A,N/A
+30,Danny Green,FG_ASSISTED,Marc Gasol,7:35,1,Raptors,Thunder,5 - 11,1,24,3,Jumper
+31,Jerami Grant,FG_ASSISTED,Russell Westbrook,7:24,1,Thunder,Raptors,8 - 11,0,26,3,Jumper
+32,Kawhi Leonard,TURNOVER,Paul George,6:57,1,Raptors,Thunder,8 - 11,1,N/A,N/A,N/A
+33,Kawhi Leonard,FOUL_ON_FLOOR,None,6:57,1,Raptors,Thunder,8 - 11,1,N/A,N/A,N/A
+34,Team,Unknown,None,6:57,1,Raptors,Thunder,8 - 11,1,N/A,N/A,N/A
+35,Terrance Ferguson,FG_MISS,None,6:38,1,Thunder,Raptors,8 - 11,0,24,3,Jumper
+36,Kawhi Leonard,DEFENSIVE_REBOUND,None,6:35,1,Raptors,Thunder,8 - 11,1,N/A,N/A,N/A
+37,Kawhi Leonard,TURNOVER,Russell Westbrook,6:33,1,Raptors,Thunder,8 - 11,1,N/A,N/A,N/A
+38,Jerami Grant,FG_ASSISTED,Russell Westbrook,6:25,1,Thunder,Raptors,10 - 11,0,0,2,Layup
+39,Kawhi Leonard,FG_MISS,None,6:09,1,Raptors,Thunder,10 - 11,1,27,3,Jumper
+40,Russell Westbrook,DEFENSIVE_REBOUND,None,6:07,1,Thunder,Raptors,10 - 11,0,N/A,N/A,N/A
+41,Russell Westbrook,TURNOVER,Kawhi Leonard,6:04,1,Thunder,Raptors,10 - 11,0,N/A,N/A,N/A
+42,Danny Green,FG_ASSISTED,Kawhi Leonard,5:51,1,Raptors,Thunder,10 - 14,1,27,3,Jumper
+43,Jerami Grant,FG_ASSISTED,Paul George,5:39,1,Thunder,Raptors,13 - 14,0,25,3,Jumper
+44,Russell Westbrook,FOUL_ON_FLOOR,None,5:14,1,Thunder,Raptors,13 - 14,0,N/A,N/A,N/A
+45,Fred VanVleet,FT,None,5:14,1,Raptors,Thunder,13 - 15,1,N/A,1,N/A
+46,Norman Powell,SUBSTITUTION,Leonard Kawhi,5:14,1,Raptors,Thunder,13 - 15,1,N/A,N/A,N/A
+47,Dennis Schroder,SUBSTITUTION,George Paul,5:14,1,Thunder,Raptors,13 - 15,0,N/A,N/A,N/A
+48,Fred VanVleet,FT,None,5:14,1,Raptors,Thunder,13 - 16,1,N/A,1,N/A
+49,Russell Westbrook,FG_UNASSISTED,None,5:05,1,Thunder,Raptors,16 - 16,0,25,3,Jumper
+50,Pascal Siakam,TURNOVER,None,4:51,1,Raptors,Thunder,16 - 16,1,N/A,N/A,N/A
+51,Pascal Siakam,TURNOVER,None,4:51,1,Raptors,Thunder,16 - 16,1,N/A,N/A,N/A
+52,Russell Westbrook,TURNOVER,Marc Gasol,4:33,1,Thunder,Raptors,16 - 16,0,N/A,N/A,N/A
+53,Norman Powell,TURNOVER,Steven Adams,4:28,1,Raptors,Thunder,16 - 16,1,N/A,N/A,N/A
+54,Dennis Schroder,TURNOVER,None,4:15,1,Thunder,Raptors,16 - 16,0,N/A,N/A,N/A
+55,Danny Green,FG_ASSISTED,Marc Gasol,4:04,1,Raptors,Thunder,16 - 19,1,23,3,Jumper
+56,Marc Gasol,FOUL_ON_FLOOR,None,3:54,1,Raptors,Thunder,16 - 19,1,N/A,N/A,N/A
+57,Russell Westbrook,FG_MISS,None,3:46,1,Thunder,Raptors,16 - 19,0,20,2,Jumper
+58,Norman Powell,DEFENSIVE_REBOUND,None,3:44,1,Raptors,Thunder,16 - 19,1,N/A,N/A,N/A
+59,Norman Powell,FG_MISS,Steven Adams,3:37,1,Thunder,Raptors,16 - 19,1,0,2,Layup
+60,Norman Powell,OFFENSIVE_REBOUND,None,3:34,1,Raptors,Thunder,16 - 19,1,N/A,N/A,N/A
+61,Pascal Siakam,TURNOVER,None,3:27,1,Raptors,Thunder,16 - 19,1,N/A,N/A,N/A
+62,Serge Ibaka,SUBSTITUTION,Gasol Marc,3:27,1,Raptors,Thunder,16 - 19,1,N/A,N/A,N/A
+63,Markieff Morris,SUBSTITUTION,Adams Steven,3:27,1,Thunder,Raptors,16 - 19,0,N/A,N/A,N/A
+64,Jerami Grant,FG_MISS,None,3:21,1,Thunder,Raptors,16 - 19,0,25,3,Jumper
+65,Norman Powell,DEFENSIVE_REBOUND,None,3:20,1,Raptors,Thunder,16 - 19,1,N/A,N/A,N/A
+66,Norman Powell,FG_MISS,None,2:59,1,Raptors,Thunder,16 - 19,1,0,2,Layup
+67,Serge Ibaka,OFFENSIVE_REBOUND,None,2:57,1,Raptors,Thunder,16 - 19,1,N/A,N/A,N/A
+68,shot clock,TURNOVER,None,2:57,1,Raptors,Thunder,16 - 19,1,N/A,N/A,N/A
+69,Team,Unknown,None,2:57,1,Thunder,Raptors,16 - 19,0,N/A,N/A,N/A
+70,OG Anunoby,SUBSTITUTION,Green Danny,2:57,1,Raptors,Thunder,16 - 19,1,N/A,N/A,N/A
+71,Paul George,SUBSTITUTION,Westbrook Russell,2:57,1,Thunder,Raptors,16 - 19,0,N/A,N/A,N/A
+72,Abdel Nader,SUBSTITUTION,Ferguson Terrance,2:57,1,Thunder,Raptors,16 - 19,0,N/A,N/A,N/A
+73,Markieff Morris,FG_MISS,None,2:43,1,Thunder,Raptors,16 - 19,0,13,2,Jumper
+74,Norman Powell,DEFENSIVE_REBOUND,None,2:41,1,Raptors,Thunder,16 - 19,1,N/A,N/A,N/A
+75,Serge Ibaka,FG_MISS,None,2:17,1,Raptors,Thunder,16 - 19,1,9,2,Jumper
+76,Pascal Siakam,OFFENSIVE_REBOUND,None,2:12,1,Raptors,Thunder,16 - 19,1,N/A,N/A,N/A
+77,Pascal Siakam,FG_UNASSISTED,None,2:12,1,Raptors,Thunder,16 - 21,1, ,2,Jumper
+78,Paul George,FG_ASSISTED,Jerami Grant,1:54,1,Thunder,Raptors,19 - 21,0,25,3,Jumper
+79,Pascal Siakam,FG_UNASSISTED,None,1:32,1,Raptors,Thunder,19 - 23,1,5,2,Jumper
+80,Dennis Schroder,FG_MISS,None,1:12,1,Thunder,Raptors,19 - 23,0, ,2,Jumper
+81,Dennis Schroder,OFFENSIVE_REBOUND,None,1:10,1,Thunder,Raptors,19 - 23,0,N/A,N/A,N/A
+82,Paul George,FG_MISS,None,1:07,1,Thunder,Raptors,19 - 23,0,26,2,Jumper
+83,Serge Ibaka,DEFENSIVE_REBOUND,None,1:04,1,Raptors,Thunder,19 - 23,1,N/A,N/A,N/A
+84,Fred VanVleet,FG_UNASSISTED,None,55.6,1,Raptors,Thunder,19 - 25,1, ,2,Jumper
+85,Abdel Nader,FG_MISS,None,42.0,1,Thunder,Raptors,19 - 25,0, ,2,Jumper
+86,Serge Ibaka,DEFENSIVE_REBOUND,None,40.3,1,Raptors,Thunder,19 - 25,1,N/A,N/A,N/A
+87,Pascal Siakam,FG_ASSISTED,Fred VanVleet,24.6,1,Raptors,Thunder,19 - 27,1,0,2,Layup
+88,Dennis Schroder,FG_ASSISTED,Jerami Grant,6.4,1,Thunder,Raptors,22 - 27,0, ,3,Jumper
+89,Fred VanVleet,FG_UNASSISTED,None,0.3,1,Raptors,Thunder,22 - 29,1, ,2,Jumper
+90,End of,Unknown,None,0.0,1,Raptors,Thunder,22 - 29,1,N/A,N/A,N/A
+0,Kawhi Leonard,SUBSTITUTION,VanVleet Fred,12:00,2,Raptors,Thunder,22 - 29,1,N/A,N/A,N/A
+1,Jeremy Lin,SUBSTITUTION,Siakam Pascal,12:00,2,Raptors,Thunder,22 - 29,1,N/A,N/A,N/A
+2,Nerlens Noel,SUBSTITUTION,Grant Jerami,12:00,2,Thunder,Raptors,22 - 29,0,N/A,N/A,N/A
+3,Jeremy Lin,FG_UNASSISTED,None,11:43,2,Raptors,Thunder,22 - 31,1,2,2,Jumper
+4,Team,Unknown,None,11:42,2,Thunder,Raptors,22 - 31,0,N/A,N/A,N/A
+5,Markieff Morris,FG_MISS,None,11:27,2,Thunder,Raptors,22 - 31,0,9,2,Jumper
+6,Norman Powell,DEFENSIVE_REBOUND,None,11:25,2,Raptors,Thunder,22 - 31,1,N/A,N/A,N/A
+7,Kawhi Leonard,FG_MISS,None,11:15,2,Raptors,Thunder,22 - 31,1,9,2,Jumper
+8,Nerlens Noel,DEFENSIVE_REBOUND,None,11:12,2,Thunder,Raptors,22 - 31,0,N/A,N/A,N/A
+9,Dennis Schroder,FG_MISS,None,11:06,2,Thunder,Raptors,22 - 31,0, ,2,Jumper
+10,Norman Powell,DEFENSIVE_REBOUND,None,11:04,2,Raptors,Thunder,22 - 31,1,N/A,N/A,N/A
+11,Norman Powell,FG_MISS,None,10:55,2,Raptors,Thunder,22 - 31,1, ,2,Jumper
+12,Nerlens Noel,DEFENSIVE_REBOUND,None,10:54,2,Thunder,Raptors,22 - 31,0,N/A,N/A,N/A
+13,Jeremy Lin,FOUL_ON_FLOOR,None,10:50,2,Raptors,Thunder,22 - 31,1,N/A,N/A,N/A
+14,OG Anunoby,FOUL_ON_FLOOR,None,10:45,2,Raptors,Thunder,22 - 31,1,N/A,N/A,N/A
+15,Paul George,FT,None,10:45,2,Thunder,Raptors,23 - 31,0,N/A,1,N/A
+16,Paul George,FT,None,10:45,2,Thunder,Raptors,24 - 31,0,N/A,1,N/A
+17,Paul George,FOUL_ON_FLOOR,None,10:33,2,Thunder,Raptors,24 - 31,0,N/A,N/A,N/A
+18,Nerlens Noel,FOUL_ON_FLOOR,None,10:26,2,Thunder,Raptors,24 - 31,0,N/A,N/A,N/A
+19,Kawhi Leonard,TURNOVER,None,10:20,2,Raptors,Thunder,24 - 31,1,N/A,N/A,N/A
+20,Dennis Schroder,FG_UNASSISTED,None,10:09,2,Thunder,Raptors,26 - 31,0,9,2,Jumper
+21,Jeremy Lin,FOUL_ON_FLOOR,None,10:09,2,Raptors,Thunder,26 - 31,1,N/A,N/A,N/A
+22,Dennis Schroder,FT,None,10:09,2,Thunder,Raptors,27 - 31,0,N/A,1,N/A
+23,OG Anunoby,FG_MISS,None,9:52,2,Raptors,Thunder,27 - 31,1,0,2,Layup
+24,Nerlens Noel,DEFENSIVE_REBOUND,None,9:51,2,Thunder,Raptors,27 - 31,0,N/A,N/A,N/A
+25,Markieff Morris,FG_MISS,Serge Ibaka,9:46,2,Raptors,Thunder,27 - 31,0,0,2,Layup
+26,Norman Powell,DEFENSIVE_REBOUND,None,9:44,2,Raptors,Thunder,27 - 31,1,N/A,N/A,N/A
+27,Jeremy Lin,FG_MISS,None,9:41,2,Raptors,Thunder,27 - 31,1,23,3,Jumper
+28,OG Anunoby,OFFENSIVE_REBOUND,None,9:38,2,Raptors,Thunder,27 - 31,1,N/A,N/A,N/A
+29,OG Anunoby,FG_UNASSISTED,None,9:38,2,Raptors,Thunder,27 - 33,1, ,2,Jumper
+30,Abdel Nader,FG_MISS,None,9:24,2,Thunder,Raptors,27 - 33,0,24,3,Jumper
+31,Team,DEFENSIVE_REBOUND,None,9:22,2,Raptors,Thunder,27 - 33,1,N/A,N/A,N/A
+32,Danny Green,SUBSTITUTION,Powell Norman,9:22,2,Raptors,Thunder,27 - 33,1,N/A,N/A,N/A
+33,Danny Green,FG_ASSISTED,Jeremy Lin,9:10,2,Raptors,Thunder,27 - 36,1,23,3,Jumper
+34,Paul George,FG_UNASSISTED,None,9:00,2,Thunder,Raptors,30 - 36,0,27,3,Jumper
+35,Kawhi Leonard,FG_MISS,None,8:45,2,Raptors,Thunder,30 - 36,1,11,2,Jumper
+36,Nerlens Noel,DEFENSIVE_REBOUND,None,8:43,2,Thunder,Raptors,30 - 36,0,N/A,N/A,N/A
+37,Dennis Schroder,FG_MISS,None,8:38,2,Thunder,Raptors,30 - 36,0, ,3,Jumper
+38,Jeremy Lin,DEFENSIVE_REBOUND,None,8:34,2,Raptors,Thunder,30 - 36,1,N/A,N/A,N/A
+39,Jeremy Lin,FG_ASSISTED,Kawhi Leonard,8:28,2,Raptors,Thunder,30 - 39,1,26,3,Jumper
+40,Nerlens Noel,FG_ASSISTED,Dennis Schroder,8:14,2,Thunder,Raptors,32 - 39,0,0,2,Dunk
+41,Kawhi Leonard,FG_UNASSISTED,None,7:55,2,Raptors,Thunder,32 - 41,1,0,2,Dunk
+42,Dennis Schroder,FG_UNASSISTED,None,7:27,2,Thunder,Raptors,34 - 41,0,0,2,Layup
+43,Serge Ibaka,FG_UNASSISTED,None,7:05,2,Raptors,Thunder,34 - 43,1,19,2,Jumper
+44,Nerlens Noel,TURNOVER,Kawhi Leonard,6:49,2,Thunder,Raptors,34 - 43,0,N/A,N/A,N/A
+45,Serge Ibaka,FG_ASSISTED,Danny Green,6:43,2,Raptors,Thunder,34 - 45,1, ,2,Jumper
+46,Team,Unknown,None,6:43,2,Thunder,Raptors,34 - 45,0,N/A,N/A,N/A
+47,Pascal Siakam,SUBSTITUTION,Leonard Kawhi,6:43,2,Raptors,Thunder,34 - 45,1,N/A,N/A,N/A
+48,Russell Westbrook,SUBSTITUTION,Noel Nerlens,6:43,2,Thunder,Raptors,34 - 45,0,N/A,N/A,N/A
+49,Jerami Grant,SUBSTITUTION,Morris Markieff,6:43,2,Thunder,Raptors,34 - 45,0,N/A,N/A,N/A
+50,Steven Adams,SUBSTITUTION,Nader Abdel,6:43,2,Thunder,Raptors,34 - 45,0,N/A,N/A,N/A
+51,Terrance Ferguson,SUBSTITUTION,George Paul,6:43,2,Thunder,Raptors,34 - 45,0,N/A,N/A,N/A
+52,Dennis Schroder,FG_ASSISTED,Russell Westbrook,6:33,2,Thunder,Raptors,37 - 45,0,26,3,Jumper
+53,Serge Ibaka,FOUL_ON_FLOOR,None,6:20,2,Raptors,Thunder,37 - 45,1,N/A,N/A,N/A
+54,Serge Ibaka,TURNOVER,None,6:20,2,Raptors,Thunder,37 - 45,1,N/A,N/A,N/A
+55,Steven Adams,FG_ASSISTED,Russell Westbrook,6:10,2,Thunder,Raptors,39 - 45,0,11,2,Jumper
+56,Pascal Siakam,FG_UNASSISTED,None,5:53,2,Raptors,Thunder,39 - 47,1,4,2,Jumper
+57,Steven Adams,FG_ASSISTED,Russell Westbrook,5:40,2,Thunder,Raptors,41 - 47,0,9,2,Jumper
+58,OG Anunoby,FG_MISS,None,5:22,2,Raptors,Thunder,41 - 47,1,22,3,Jumper
+59,Jerami Grant,DEFENSIVE_REBOUND,None,5:19,2,Thunder,Raptors,41 - 47,0,N/A,N/A,N/A
+60,Russell Westbrook,FG_ASSISTED,Terrance Ferguson,5:07,2,Thunder,Raptors,43 - 47,0, ,2,Jumper
+61,Team,Unknown,None,4:57,2,Raptors,Thunder,43 - 47,1,N/A,N/A,N/A
+62,Fred VanVleet,SUBSTITUTION,Anunoby OG,4:57,2,Raptors,Thunder,43 - 47,1,N/A,N/A,N/A
+63,Marc Gasol,SUBSTITUTION,Ibaka Serge,4:57,2,Raptors,Thunder,43 - 47,1,N/A,N/A,N/A
+64,Kawhi Leonard,SUBSTITUTION,Lin Jeremy,4:57,2,Raptors,Thunder,43 - 47,1,N/A,N/A,N/A
+65,Pascal Siakam,FG_UNASSISTED,None,4:40,2,Raptors,Thunder,43 - 49,1, ,2,Jumper
+66,Terrance Ferguson,FG_MISS,None,4:27,2,Thunder,Raptors,43 - 49,0,20,2,Jumper
+67,Jerami Grant,OFFENSIVE_REBOUND,None,4:25,2,Thunder,Raptors,43 - 49,0,N/A,N/A,N/A
+68,Terrance Ferguson,FG_ASSISTED,Russell Westbrook,4:23,2,Thunder,Raptors,46 - 49,0,24,3,Jumper
+69,Pascal Siakam,TURNOVER,Russell Westbrook,4:17,2,Raptors,Thunder,46 - 49,1,N/A,N/A,N/A
+70,Dennis Schroder,TURNOVER,Marc Gasol,4:10,2,Thunder,Raptors,46 - 49,0,N/A,N/A,N/A
+71,Danny Green,FG_MISS,None,3:57,2,Raptors,Thunder,46 - 49,1,23,3,Jumper
+72,Fred VanVleet,OFFENSIVE_REBOUND,None,3:54,2,Raptors,Thunder,46 - 49,1,N/A,N/A,N/A
+73,Danny Green,FG_MISS,None,3:51,2,Raptors,Thunder,46 - 49,1,23,3,Jumper
+74,Steven Adams,DEFENSIVE_REBOUND,None,3:47,2,Thunder,Raptors,46 - 49,0,N/A,N/A,N/A
+75,Steven Adams,FG_MISS,None,3:30,2,Thunder,Raptors,46 - 49,0,5,2,Jumper
+76,Marc Gasol,DEFENSIVE_REBOUND,None,3:28,2,Raptors,Thunder,46 - 49,1,N/A,N/A,N/A
+77,Terrance Ferguson,FOUL_ON_FLOOR,None,3:22,2,Thunder,Raptors,46 - 49,0,N/A,N/A,N/A
+78,Paul George,SUBSTITUTION,Schroder Dennis,3:22,2,Thunder,Raptors,46 - 49,0,N/A,N/A,N/A
+79,Jerami Grant,FOUL_ON_FLOOR,None,3:20,2,Thunder,Raptors,46 - 49,0,N/A,N/A,N/A
+80,Fred VanVleet,FG_MISS,None,3:09,2,Raptors,Thunder,46 - 49,1,10,2,Jumper
+81,Jerami Grant,DEFENSIVE_REBOUND,None,3:06,2,Thunder,Raptors,46 - 49,0,N/A,N/A,N/A
+82,Terrance Ferguson,FG_MISS,None,2:56,2,Thunder,Raptors,46 - 49,0,23,3,Jumper
+83,Marc Gasol,DEFENSIVE_REBOUND,None,2:53,2,Raptors,Thunder,46 - 49,1,N/A,N/A,N/A
+84,Kawhi Leonard,TURNOVER,None,2:51,2,Raptors,Thunder,46 - 49,1,N/A,N/A,N/A
+85,Russell Westbrook,FG_MISS,None,2:43,2,Thunder,Raptors,46 - 49,0,19,2,Jumper
+86,Danny Green,DEFENSIVE_REBOUND,None,2:40,2,Raptors,Thunder,46 - 49,1,N/A,N/A,N/A
+87,Fred VanVleet,FG_MISS,Steven Adams,2:36,2,Thunder,Raptors,46 - 49,1,2,2,Jumper
+88,Team,OFFENSIVE_REBOUND,None,2:36,2,Raptors,Thunder,46 - 49,1,N/A,N/A,N/A
+89,Pascal Siakam,FG_MISS,None,2:20,2,Raptors,Thunder,46 - 49,1,24,3,Jumper
+90,Paul George,DEFENSIVE_REBOUND,None,2:17,2,Thunder,Raptors,46 - 49,0,N/A,N/A,N/A
+91,Paul George,FG_UNASSISTED,None,2:08,2,Thunder,Raptors,48 - 49,0,9,2,Jumper
+92,Kawhi Leonard,FG_ASSISTED,Fred VanVleet,1:58,2,Raptors,Thunder,48 - 51,1,3,2,Jumper
+93,Jerami Grant,FG_MISS,None,1:43,2,Thunder,Raptors,48 - 51,0,0,2,Layup
+94,Kawhi Leonard,DEFENSIVE_REBOUND,None,1:41,2,Raptors,Thunder,48 - 51,1,N/A,N/A,N/A
+95,Jerami Grant,FOUL_ON_FLOOR,None,1:27,2,Thunder,Raptors,48 - 51,0,N/A,N/A,N/A
+96,Kawhi Leonard,FT,None,1:27,2,Raptors,Thunder,48 - 52,1,N/A,1,N/A
+97,Kawhi Leonard,FT,None,1:27,2,Raptors,Thunder,48 - 53,1,N/A,1,N/A
+98,Russell Westbrook,FG_MISS,Pascal Siakam,1:18,2,Raptors,Thunder,48 - 53,0,0,2,Layup
+99,Pascal Siakam,DEFENSIVE_REBOUND,None,1:15,2,Raptors,Thunder,48 - 53,1,N/A,N/A,N/A
+100,Danny Green,FG_ASSISTED,Pascal Siakam,1:12,2,Raptors,Thunder,48 - 56,1,26,3,Jumper
+101,Terrance Ferguson,FG_MISS,None,59.7,2,Thunder,Raptors,48 - 56,0,24,3,Jumper
+102,Steven Adams,OFFENSIVE_REBOUND,None,56.7,2,Thunder,Raptors,48 - 56,0,N/A,N/A,N/A
+103,Russell Westbrook,FG_MISS,None,47.5,2,Thunder,Raptors,48 - 56,0,26,3,Jumper
+104,Fred VanVleet,DEFENSIVE_REBOUND,None,45.3,2,Raptors,Thunder,48 - 56,1,N/A,N/A,N/A
+105,Kawhi Leonard,FG_UNASSISTED,None,22.4,2,Raptors,Thunder,48 - 58,1,12,2,Jumper
+106,Russell Westbrook,FG_MISS,None,2.9,2,Thunder,Raptors,48 - 58,0,0,2,Layup
+107,Danny Green,DEFENSIVE_REBOUND,None,0.2,2,Raptors,Thunder,48 - 58,1,N/A,N/A,N/A
+108,End of,Unknown,None,0.0,2,Raptors,Thunder,48 - 58,1,N/A,N/A,N/A
+0,Pascal Siakam,FG_MISS,None,11:50,3,Raptors,Thunder,48 - 58,1,2,2,Jumper
+1,Russell Westbrook,DEFENSIVE_REBOUND,None,11:49,3,Thunder,Raptors,48 - 58,0,N/A,N/A,N/A
+2,Steven Adams,FG_ASSISTED,Russell Westbrook,11:44,3,Thunder,Raptors,50 - 58,0,2,2,Jumper
+3,Russell Westbrook,FOUL_ON_FLOOR,None,11:25,3,Thunder,Raptors,50 - 58,0,N/A,N/A,N/A
+4,Marc Gasol,TURNOVER,Russell Westbrook,11:15,3,Raptors,Thunder,50 - 58,1,N/A,N/A,N/A
+5,Russell Westbrook,FG_MISS,None,11:11,3,Thunder,Raptors,50 - 58,0, ,2,Jumper
+6,Danny Green,DEFENSIVE_REBOUND,None,11:08,3,Raptors,Thunder,50 - 58,1,N/A,N/A,N/A
+7,Pascal Siakam,FG_ASSISTED,Fred VanVleet,10:53,3,Raptors,Thunder,50 - 61,1,23,3,Jumper
+8,Terrance Ferguson,FG_MISS,Marc Gasol,10:32,3,Raptors,Thunder,50 - 61,0,0,2,Layup
+9,Steven Adams,OFFENSIVE_REBOUND,None,10:29,3,Thunder,Raptors,50 - 61,0,N/A,N/A,N/A
+10,Steven Adams,FG_MISS,None,10:27,3,Thunder,Raptors,50 - 61,0, ,2,Jumper
+11,Steven Adams,OFFENSIVE_REBOUND,None,10:26,3,Thunder,Raptors,50 - 61,0,N/A,N/A,N/A
+12,Jerami Grant,FG_ASSISTED,Steven Adams,10:24,3,Thunder,Raptors,53 - 61,0,24,3,Jumper
+13,Kawhi Leonard,FG_MISS,None,10:00,3,Raptors,Thunder,53 - 61,1,11,2,Jumper
+14,Paul George,DEFENSIVE_REBOUND,None,9:58,3,Thunder,Raptors,53 - 61,0,N/A,N/A,N/A
+15,Paul George,FG_UNASSISTED,None,9:53,3,Thunder,Raptors,55 - 61,0,10,2,Jumper
+16,Pascal Siakam,FOUL_ON_FLOOR,None,9:41,3,Raptors,Thunder,55 - 61,1,N/A,N/A,N/A
+17,Pascal Siakam,TURNOVER,None,9:41,3,Raptors,Thunder,55 - 61,1,N/A,N/A,N/A
+18,Steven Adams,FG_MISS,None,9:31,3,Thunder,Raptors,55 - 61,0,14,2,Jumper
+19,Danny Green,DEFENSIVE_REBOUND,None,9:28,3,Raptors,Thunder,55 - 61,1,N/A,N/A,N/A
+20,Russell Westbrook,FOUL_ON_FLOOR,None,9:18,3,Thunder,Raptors,55 - 61,0,N/A,N/A,N/A
+21,Pascal Siakam,FT,None,9:18,3,Raptors,Thunder,55 - 62,1,N/A,1,N/A
+22,Pascal Siakam,FT,None,9:18,3,Raptors,Thunder,55 - 63,1,N/A,1,N/A
+23,Russell Westbrook,TURNOVER,Pascal Siakam,9:11,3,Thunder,Raptors,55 - 63,0,N/A,N/A,N/A
+24,Danny Green,FG_MISS,None,9:01,3,Raptors,Thunder,55 - 63,1, ,3,Jumper
+25,Kawhi Leonard,OFFENSIVE_REBOUND,None,8:59,3,Raptors,Thunder,55 - 63,1,N/A,N/A,N/A
+26,Kawhi Leonard,FG_UNASSISTED,None,8:58,3,Raptors,Thunder,55 - 65,1,0,2,Dunk
+27,Paul George,FG_MISS,None,8:45,3,Thunder,Raptors,55 - 65,0,26,3,Jumper
+28,Danny Green,DEFENSIVE_REBOUND,None,8:42,3,Raptors,Thunder,55 - 65,1,N/A,N/A,N/A
+29,Kawhi Leonard,FG_MISS,None,8:28,3,Raptors,Thunder,55 - 65,1,3,2,Jumper
+30,Team,OFFENSIVE_REBOUND,None,8:28,3,Raptors,Thunder,55 - 65,1,N/A,N/A,N/A
+31,Fred VanVleet,FG_UNASSISTED,None,8:14,3,Raptors,Thunder,55 - 67,1,2,2,Jumper
+32,Russell Westbrook,FG_ASSISTED,Paul George,8:04,3,Thunder,Raptors,58 - 67,0,26,3,Jumper
+33,Pascal Siakam,FG_UNASSISTED,None,7:51,3,Raptors,Thunder,58 - 69,1,8,2,Jumper
+34,Jerami Grant,FG_ASSISTED,Russell Westbrook,7:25,3,Thunder,Raptors,61 - 69,0,27,3,Jumper
+35,Jerami Grant,FOUL_ON_FLOOR,None,7:10,3,Thunder,Raptors,61 - 69,0,N/A,N/A,N/A
+36,Pascal Siakam,FT,None,7:10,3,Raptors,Thunder,61 - 70,1,N/A,1,N/A
+37,Team,Unknown,None,7:10,3,Thunder,Raptors,61 - 70,0,N/A,N/A,N/A
+38,Pascal Siakam,FT,None,7:10,3,Raptors,Thunder,61 - 71,1,N/A,1,N/A
+39,Terrance Ferguson,FG_ASSISTED,Russell Westbrook,6:51,3,Thunder,Raptors,63 - 71,0,7,2,Jumper
+40,Kawhi Leonard,TURNOVER,None,6:39,3,Raptors,Thunder,63 - 71,1,N/A,N/A,N/A
+41,Kawhi Leonard,TURNOVER,None,6:39,3,Raptors,Thunder,63 - 71,1,N/A,N/A,N/A
+42,Paul George,FG_MISS,None,6:29,3,Thunder,Raptors,63 - 71,0,26,3,Jumper
+43,Pascal Siakam,DEFENSIVE_REBOUND,None,6:27,3,Raptors,Thunder,63 - 71,1,N/A,N/A,N/A
+44,Pascal Siakam,TURNOVER,Russell Westbrook,6:16,3,Raptors,Thunder,63 - 71,1,N/A,N/A,N/A
+45,Steven Adams,FG_MISS,None,5:56,3,Thunder,Raptors,63 - 71,0,6,2,Jumper
+46,Team,DEFENSIVE_REBOUND,None,5:55,3,Raptors,Thunder,63 - 71,1,N/A,N/A,N/A
+47,Steven Adams,FOUL_ON_FLOOR,None,5:37,3,Thunder,Raptors,63 - 71,0,N/A,N/A,N/A
+48,Kawhi Leonard,FT,None,5:37,3,Raptors,Thunder,63 - 72,1,N/A,1,N/A
+49,Dennis Schroder,SUBSTITUTION,Ferguson Terrance,5:37,3,Thunder,Raptors,63 - 72,0,N/A,N/A,N/A
+50,Kawhi Leonard,FT,None,5:37,3,Raptors,Thunder,63 - 73,1,N/A,1,N/A
+51,Paul George,TURNOVER,Pascal Siakam,5:26,3,Thunder,Raptors,63 - 73,0,N/A,N/A,N/A
+52,Pascal Siakam,FG_UNASSISTED,None,5:23,3,Raptors,Thunder,63 - 75,1, ,2,Jumper
+53,Dennis Schroder,FOUL_ON_FLOOR,None,5:23,3,Thunder,Raptors,63 - 75,0,N/A,N/A,N/A
+54,Norman Powell,SUBSTITUTION,Leonard Kawhi,5:23,3,Raptors,Thunder,63 - 75,1,N/A,N/A,N/A
+55,Pascal Siakam,FT,None,5:23,3,Raptors,Thunder,63 - 76,1,N/A,1,N/A
+56,Paul George,FG_UNASSISTED,None,5:13,3,Thunder,Raptors,66 - 76,0,27,3,Jumper
+57,Fred VanVleet,FG_MISS,None,4:53,3,Raptors,Thunder,66 - 76,1, ,2,Jumper
+58,Dennis Schroder,DEFENSIVE_REBOUND,None,4:51,3,Thunder,Raptors,66 - 76,0,N/A,N/A,N/A
+59,Russell Westbrook,FG_ASSISTED,Dennis Schroder,4:49,3,Thunder,Raptors,68 - 76,0,2,2,Jumper
+60,Fred VanVleet,FOUL_ON_FLOOR,None,4:49,3,Raptors,Thunder,68 - 76,1,N/A,N/A,N/A
+61,Russell Westbrook,FT_MISS,None,4:49,3,Thunder,Raptors,68 - 76,0,N/A,1,N/A
+62,Team,OFFENSIVE_REBOUND,None,4:48,3,Thunder,Raptors,68 - 76,0,N/A,N/A,N/A
+63,Danny Green,FOUL_ON_FLOOR,None,4:48,3,Raptors,Thunder,68 - 76,1,N/A,N/A,N/A
+64,Russell Westbrook,FG_MISS,None,4:44,3,Thunder,Raptors,68 - 76,0,18,2,Jumper
+65,Norman Powell,DEFENSIVE_REBOUND,None,4:42,3,Raptors,Thunder,68 - 76,1,N/A,N/A,N/A
+66,Pascal Siakam,FG_MISS,None,4:32,3,Raptors,Thunder,68 - 76,1,5,2,Jumper
+67,Pascal Siakam,OFFENSIVE_REBOUND,None,4:25,3,Raptors,Thunder,68 - 76,1,N/A,N/A,N/A
+68,Pascal Siakam,FG_MISS,None,4:25,3,Raptors,Thunder,68 - 76,1, ,2,Jumper
+69,Paul George,DEFENSIVE_REBOUND,None,4:24,3,Thunder,Raptors,68 - 76,0,N/A,N/A,N/A
+70,Danny Green,FOUL_ON_FLOOR,None,4:20,3,Raptors,Thunder,68 - 76,1,N/A,N/A,N/A
+71,Steven Adams,FT_MISS,None,4:20,3,Thunder,Raptors,68 - 76,0,N/A,1,N/A
+72,Team,OFFENSIVE_REBOUND,None,4:20,3,Thunder,Raptors,68 - 76,0,N/A,N/A,N/A
+73,Terrance Ferguson,SUBSTITUTION,George Paul,4:20,3,Thunder,Raptors,68 - 76,0,N/A,N/A,N/A
+74,Steven Adams,FT,None,4:20,3,Thunder,Raptors,69 - 76,0,N/A,1,N/A
+75,Fred VanVleet,FG_MISS,None,4:03,3,Raptors,Thunder,69 - 76,1, ,3,Jumper
+76,Russell Westbrook,DEFENSIVE_REBOUND,None,4:01,3,Thunder,Raptors,69 - 76,0,N/A,N/A,N/A
+77,Terrance Ferguson,FG_ASSISTED,Dennis Schroder,3:51,3,Thunder,Raptors,72 - 76,0,27,3,Jumper
+78,Dennis Schroder,FOUL_ON_FLOOR,None,3:40,3,Thunder,Raptors,72 - 76,0,N/A,N/A,N/A
+79,Danny Green,FT_MISS,None,3:40,3,Raptors,Thunder,72 - 76,1,N/A,1,N/A
+80,Team,OFFENSIVE_REBOUND,None,3:40,3,Raptors,Thunder,72 - 76,1,N/A,N/A,N/A
+81,Serge Ibaka,SUBSTITUTION,Gasol Marc,3:40,3,Raptors,Thunder,72 - 76,1,N/A,N/A,N/A
+82,Danny Green,FT,None,3:40,3,Raptors,Thunder,72 - 77,1,N/A,1,N/A
+83,Markieff Morris,SUBSTITUTION,Adams Steven,3:40,3,Thunder,Raptors,72 - 77,0,N/A,N/A,N/A
+84,Dennis Schroder,FG_MISS,None,3:28,3,Thunder,Raptors,72 - 77,0,27,3,Jumper
+85,Serge Ibaka,DEFENSIVE_REBOUND,None,3:25,3,Raptors,Thunder,72 - 77,1,N/A,N/A,N/A
+86,Serge Ibaka,FG_ASSISTED,Fred VanVleet,3:16,3,Raptors,Thunder,72 - 79,1,14,2,Jumper
+87,Markieff Morris,FG_MISS,None,2:58,3,Thunder,Raptors,72 - 79,0,8,2,Jumper
+88,Danny Green,DEFENSIVE_REBOUND,None,2:55,3,Raptors,Thunder,72 - 79,1,N/A,N/A,N/A
+89,Danny Green,FG_MISS,None,2:50,3,Raptors,Thunder,72 - 79,1,28,3,Jumper
+90,Dennis Schroder,DEFENSIVE_REBOUND,None,2:45,3,Thunder,Raptors,72 - 79,0,N/A,N/A,N/A
+91,Jerami Grant,TURNOVER,None,2:39,3,Thunder,Raptors,72 - 79,0,N/A,N/A,N/A
+92,Jerami Grant,TURNOVER,None,2:39,3,Thunder,Raptors,72 - 79,0,N/A,N/A,N/A
+93,Team,Unknown,None,2:39,3,Raptors,Thunder,72 - 79,1,N/A,N/A,N/A
+94,Jeremy Lin,SUBSTITUTION,Green Danny,2:39,3,Raptors,Thunder,72 - 79,1,N/A,N/A,N/A
+95,Paul George,SUBSTITUTION,Grant Jerami,2:39,3,Thunder,Raptors,72 - 79,0,N/A,N/A,N/A
+96,Serge Ibaka,FOUL_ON_FLOOR,None,2:33,3,Raptors,Thunder,72 - 79,1,N/A,N/A,N/A
+97,Serge Ibaka,TURNOVER,None,2:33,3,Raptors,Thunder,72 - 79,1,N/A,N/A,N/A
+98,Dennis Schroder,FG_ASSISTED,Terrance Ferguson,2:22,3,Thunder,Raptors,75 - 79,0,26,3,Jumper
+99,Pascal Siakam,FOUL_ON_FLOOR,None,2:04,3,Raptors,Thunder,75 - 79,1,N/A,N/A,N/A
+100,Pascal Siakam,TURNOVER,None,2:04,3,Raptors,Thunder,75 - 79,1,N/A,N/A,N/A
+101,Markieff Morris,FG_ASSISTED,Russell Westbrook,1:56,3,Thunder,Raptors,78 - 79,0,26,3,Jumper
+102,Fred VanVleet,FG_MISS,None,1:35,3,Raptors,Thunder,78 - 79,1,23,2,Jumper
+103,Markieff Morris,DEFENSIVE_REBOUND,None,1:30,3,Thunder,Raptors,78 - 79,0,N/A,N/A,N/A
+104,Russell Westbrook,FG_ASSISTED,Dennis Schroder,1:18,3,Thunder,Raptors,80 - 79,0,0,2,Layup
+105,Fred VanVleet,FG_MISS,None,55.5,3,Raptors,Thunder,80 - 79,1, ,2,Jumper
+106,Russell Westbrook,DEFENSIVE_REBOUND,None,53.6,3,Thunder,Raptors,80 - 79,0,N/A,N/A,N/A
+107,Terrance Ferguson,FG_ASSISTED,Russell Westbrook,49.3,3,Thunder,Raptors,83 - 79,0,24,3,Jumper
+108,Markieff Morris,FOUL_ON_FLOOR,None,32.9,3,Thunder,Raptors,83 - 79,0,N/A,N/A,N/A
+109,Serge Ibaka,FT,None,32.9,3,Raptors,Thunder,83 - 80,1,N/A,1,N/A
+110,OG Anunoby,SUBSTITUTION,VanVleet Fred,32.9,3,Raptors,Thunder,83 - 80,1,N/A,N/A,N/A
+111,Abdel Nader,SUBSTITUTION,Westbrook Russell,32.9,3,Thunder,Raptors,83 - 80,0,N/A,N/A,N/A
+112,Serge Ibaka,FT_MISS,None,32.9,3,Raptors,Thunder,83 - 80,1,N/A,1,N/A
+113,Markieff Morris,DEFENSIVE_REBOUND,None,31.2,3,Thunder,Raptors,83 - 80,0,N/A,N/A,N/A
+114,Terrance Ferguson,FG_MISS,None,12.4,3,Thunder,Raptors,83 - 80,0,23,3,Jumper
+115,Jeremy Lin,DEFENSIVE_REBOUND,None,9.5,3,Raptors,Thunder,83 - 80,1,N/A,N/A,N/A
+116,End of,Unknown,None,0.0,3,Raptors,Thunder,83 - 80,1,N/A,N/A,N/A
+0,Kawhi Leonard,SUBSTITUTION,Siakam Pascal,12:00,4,Raptors,Thunder,83 - 80,1,N/A,N/A,N/A
+1,Jerami Grant,SUBSTITUTION,Nader Abdel,12:00,4,Thunder,Raptors,83 - 80,0,N/A,N/A,N/A
+2,Paul George,FG_MISS,None,11:51,4,Thunder,Raptors,83 - 80,0,17,2,Jumper
+3,Serge Ibaka,DEFENSIVE_REBOUND,None,11:48,4,Raptors,Thunder,83 - 80,1,N/A,N/A,N/A
+4,Markieff Morris,FOUL_ON_FLOOR,None,11:34,4,Thunder,Raptors,83 - 80,0,N/A,N/A,N/A
+5,Kawhi Leonard,FT,None,11:34,4,Raptors,Thunder,83 - 81,1,N/A,1,N/A
+6,Kawhi Leonard,FT,None,11:34,4,Raptors,Thunder,83 - 82,1,N/A,1,N/A
+7,Jerami Grant,FG_MISS,OG Anunoby,11:23,4,Raptors,Thunder,83 - 82,0,0,2,Layup
+8,Team,OFFENSIVE_REBOUND,None,11:23,4,Thunder,Raptors,83 - 82,0,N/A,N/A,N/A
+9,Jerami Grant,FG_ASSISTED,Dennis Schroder,11:13,4,Thunder,Raptors,86 - 82,0,23,3,Jumper
+10,Markieff Morris,FOUL_ON_FLOOR,None,10:52,4,Thunder,Raptors,86 - 82,0,N/A,N/A,N/A
+11,Kawhi Leonard,FT_MISS,None,10:52,4,Raptors,Thunder,86 - 82,1,N/A,1,N/A
+12,Team,OFFENSIVE_REBOUND,None,10:52,4,Raptors,Thunder,86 - 82,1,N/A,N/A,N/A
+13,Kawhi Leonard,FT,None,10:52,4,Raptors,Thunder,86 - 83,1,N/A,1,N/A
+14,Dennis Schroder,FG_UNASSISTED,None,10:42,4,Thunder,Raptors,88 - 83,0,12,2,Jumper
+15,Serge Ibaka,FG_ASSISTED,Kawhi Leonard,10:27,4,Raptors,Thunder,88 - 85,1,0,2,Layup
+16,Paul George,FG_MISS,None,10:17,4,Thunder,Raptors,88 - 85,0,23,3,Jumper
+17,Norman Powell,DEFENSIVE_REBOUND,None,10:15,4,Raptors,Thunder,88 - 85,1,N/A,N/A,N/A
+18,Kawhi Leonard,FG_ASSISTED,Norman Powell,10:08,4,Raptors,Thunder,88 - 88,1,23,3,Jumper
+19,Markieff Morris,TURNOVER,OG Anunoby,9:51,4,Thunder,Raptors,88 - 88,0,N/A,N/A,N/A
+20,Jeremy Lin,FG_MISS,Dennis Schroder,9:46,4,Thunder,Raptors,88 - 88,1,2,2,Jumper
+21,Jeremy Lin,OFFENSIVE_REBOUND,None,9:43,4,Raptors,Thunder,88 - 88,1,N/A,N/A,N/A
+22,Kawhi Leonard,TURNOVER,Markieff Morris,9:36,4,Raptors,Thunder,88 - 88,1,N/A,N/A,N/A
+23,Paul George,TURNOVER,None,9:32,4,Thunder,Raptors,88 - 88,0,N/A,N/A,N/A
+24,Paul George,TURNOVER,None,9:32,4,Thunder,Raptors,88 - 88,0,N/A,N/A,N/A
+25,Steven Adams,SUBSTITUTION,Morris Markieff,9:32,4,Thunder,Raptors,88 - 88,0,N/A,N/A,N/A
+26,Russell Westbrook,SUBSTITUTION,Ferguson Terrance,9:32,4,Thunder,Raptors,88 - 88,0,N/A,N/A,N/A
+27,Kawhi Leonard,FG_MISS,None,9:20,4,Raptors,Thunder,88 - 88,1,0,2,Layup
+28,Serge Ibaka,OFFENSIVE_REBOUND,None,9:19,4,Raptors,Thunder,88 - 88,1,N/A,N/A,N/A
+29,Serge Ibaka,FG_UNASSISTED,None,9:19,4,Raptors,Thunder,88 - 90,1, ,2,Jumper
+30,Dennis Schroder,FG_UNASSISTED,None,9:03,4,Thunder,Raptors,90 - 90,0,19,2,Jumper
+31,Serge Ibaka,FOUL_FLAGRANT_1,None,9:03,4,Raptors,Thunder,88 - 90,1,N/A,N/A,N/A
+32,Dennis Schroder,FT,None,9:03,4,Thunder,Raptors,89 - 90,0,N/A,1,N/A
+33,Russell Westbrook,FG_MISS,None,8:50,4,Thunder,Raptors,91 - 90,0,26,3,Jumper
+34,Norman Powell,DEFENSIVE_REBOUND,None,8:47,4,Raptors,Thunder,91 - 90,1,N/A,N/A,N/A
+35,OG Anunoby,TURNOVER,None,8:30,4,Raptors,Thunder,91 - 90,1,N/A,N/A,N/A
+36,OG Anunoby,TURNOVER,None,8:30,4,Raptors,Thunder,91 - 90,1,N/A,N/A,N/A
+37,Steven Adams,FG_ASSISTED,Paul George,8:16,4,Thunder,Raptors,93 - 90,0,0,2,Layup
+38,Serge Ibaka,FG_MISS,None,7:56,4,Raptors,Thunder,93 - 90,1,20,2,Jumper
+39,Norman Powell,OFFENSIVE_REBOUND,None,7:54,4,Raptors,Thunder,93 - 90,1,N/A,N/A,N/A
+40,Kawhi Leonard,FG_MISS,None,7:43,4,Raptors,Thunder,93 - 90,1,18,2,Jumper
+41,Dennis Schroder,DEFENSIVE_REBOUND,None,7:39,4,Thunder,Raptors,93 - 90,0,N/A,N/A,N/A
+42,Dennis Schroder,FG_MISS,Serge Ibaka,7:33,4,Raptors,Thunder,93 - 90,0,3,2,Jumper
+43,Team,DEFENSIVE_REBOUND,None,7:33,4,Raptors,Thunder,93 - 90,1,N/A,N/A,N/A
+44,Dennis Schroder,FOUL_TECHNICAL,None,7:33,4,Thunder,Raptors,93 - 90,0,N/A,N/A,N/A
+45,Kawhi Leonard,FT,None,7:33,4,Raptors,Thunder,93 - 91,1,N/A,1,N/A
+46,Danny Green,SUBSTITUTION,Lin Jeremy,7:33,4,Raptors,Thunder,93 - 91,1,N/A,N/A,N/A
+47,Fred VanVleet,SUBSTITUTION,Powell Norman,7:33,4,Raptors,Thunder,93 - 91,1,N/A,N/A,N/A
+48,Kawhi Leonard,FG_MISS,None,7:23,4,Raptors,Thunder,93 - 91,1, ,2,Jumper
+49,Russell Westbrook,DEFENSIVE_REBOUND,None,7:20,4,Thunder,Raptors,93 - 91,0,N/A,N/A,N/A
+50,Paul George,FG_ASSISTED,Russell Westbrook,7:14,4,Thunder,Raptors,96 - 91,0,27,3,Jumper
+51,Team,Unknown,None,6:50,4,Raptors,Thunder,96 - 91,1,N/A,N/A,N/A
+52,Kawhi Leonard,FG_MISS,Paul George,6:44,4,Thunder,Raptors,96 - 91,1,10,2,Jumper
+53,Paul George,DEFENSIVE_REBOUND,None,6:42,4,Thunder,Raptors,96 - 91,0,N/A,N/A,N/A
+54,Jerami Grant,FG_ASSISTED,Paul George,6:40,4,Thunder,Raptors,98 - 91,0, ,2,Jumper
+55,OG Anunoby's,FG_MISS,Russell Westbrook,6:26,4,Thunder,Raptors,98 - 91,1,0,2,Dunk
+56,Dennis Schroder,DEFENSIVE_REBOUND,None,6:24,4,Thunder,Raptors,98 - 91,0,N/A,N/A,N/A
+57,Paul George,FG_ASSISTED,Dennis Schroder,6:21,4,Thunder,Raptors,101 - 91,0,23,3,Jumper
+58,Kawhi Leonard,FG_UNASSISTED,None,6:04,4,Raptors,Thunder,101 - 94,1,24,3,Jumper
+59,Dennis Schroder,FG_ASSISTED,Paul George,5:42,4,Thunder,Raptors,104 - 94,0,24,3,Jumper
+60,Team,Unknown,None,5:41,4,Raptors,Thunder,104 - 94,1,N/A,N/A,N/A
+61,Marc Gasol,SUBSTITUTION,Anunoby OG,5:41,4,Raptors,Thunder,104 - 94,1,N/A,N/A,N/A
+62,Pascal Siakam,SUBSTITUTION,Ibaka Serge,5:41,4,Raptors,Thunder,104 - 94,1,N/A,N/A,N/A
+63,Fred VanVleet,FG_MISS,None,5:22,4,Raptors,Thunder,104 - 94,1, ,2,Jumper
+64,Russell Westbrook,DEFENSIVE_REBOUND,None,5:20,4,Thunder,Raptors,104 - 94,0,N/A,N/A,N/A
+65,Dennis Schroder,FG_MISS,None,5:15,4,Thunder,Raptors,104 - 94,0,28,3,Jumper
+66,Marc Gasol,DEFENSIVE_REBOUND,None,5:14,4,Raptors,Thunder,104 - 94,1,N/A,N/A,N/A
+67,Danny Green,FG_UNASSISTED,None,5:08,4,Raptors,Thunder,104 - 97,1,28,2,Jumper
+68,Marc Gasol,FOUL_ON_FLOOR,None,4:52,4,Raptors,Thunder,104 - 97,1,N/A,N/A,N/A
+69,Jerami Grant,FG_MISS,None,4:42,4,Thunder,Raptors,104 - 97,0,24,3,Jumper
+70,Russell Westbrook,OFFENSIVE_REBOUND,None,4:39,4,Thunder,Raptors,104 - 97,0,N/A,N/A,N/A
+71,Jerami Grant,TURNOVER,None,4:34,4,Thunder,Raptors,104 - 97,0,N/A,N/A,N/A
+72,Jerami Grant,TURNOVER,None,4:34,4,Thunder,Raptors,104 - 97,0,N/A,N/A,N/A
+73,Kawhi Leonard's,FG_MISS,Steven Adams,4:21,4,Thunder,Raptors,104 - 97,1,0,2,Layup
+74,Dennis Schroder,DEFENSIVE_REBOUND,None,4:19,4,Thunder,Raptors,104 - 97,0,N/A,N/A,N/A
+75,Paul George,FG_ASSISTED,Dennis Schroder,4:16,4,Thunder,Raptors,106 - 97,0, ,2,Jumper
+76,Kawhi Leonard,FG_ASSISTED,Marc Gasol,4:00,4,Raptors,Thunder,106 - 99,1,0,2,Layup
+77,Russell Westbrook,FG_MISS,None,3:44,4,Thunder,Raptors,106 - 99,0,27,3,Jumper
+78,Kawhi Leonard,DEFENSIVE_REBOUND,None,3:42,4,Raptors,Thunder,106 - 99,1,N/A,N/A,N/A
+79,Kawhi Leonard,FG_UNASSISTED,None,3:35,4,Raptors,Thunder,106 - 101,1,7,2,Jumper
+80,Jerami Grant,FOUL_ON_FLOOR,None,3:35,4,Thunder,Raptors,106 - 101,0,N/A,N/A,N/A
+81,Terrance Ferguson,SUBSTITUTION,Grant Jerami,3:35,4,Thunder,Raptors,106 - 101,0,N/A,N/A,N/A
+82,Team,Unknown,None,3:35,4,Thunder,Raptors,106 - 101,0,N/A,N/A,N/A
+83,Kawhi Leonard,FT,None,3:35,4,Raptors,Thunder,106 - 102,1,N/A,1,N/A
+84,Dennis Schroder,FG_ASSISTED,Russell Westbrook,3:18,4,Thunder,Raptors,108 - 102,0,12,2,Jumper
+85,Pascal Siakam,FG_MISS,None,2:54,4,Raptors,Thunder,108 - 102,1,17,2,Jumper
+86,Kawhi Leonard,OFFENSIVE_REBOUND,None,2:53,4,Raptors,Thunder,108 - 102,1,N/A,N/A,N/A
+87,Kawhi Leonard,TURNOVER,Steven Adams,2:49,4,Raptors,Thunder,108 - 102,1,N/A,N/A,N/A
+88,Russell Westbrook,FG_MISS,None,2:46,4,Thunder,Raptors,108 - 102,0,1,2,Jumper
+89,Paul George,OFFENSIVE_REBOUND,None,2:43,4,Thunder,Raptors,108 - 102,0,N/A,N/A,N/A
+90,Paul George,FG_MISS,None,2:42,4,Thunder,Raptors,108 - 102,0,23,3,Jumper
+91,Russell Westbrook,OFFENSIVE_REBOUND,None,2:38,4,Thunder,Raptors,108 - 102,0,N/A,N/A,N/A
+92,Danny Green,FOUL_ON_FLOOR,None,2:38,4,Raptors,Thunder,108 - 102,1,N/A,N/A,N/A
+93,Paul George,FG_MISS,None,2:29,4,Thunder,Raptors,108 - 102,0,16,2,Jumper
+94,Pascal Siakam,DEFENSIVE_REBOUND,None,2:27,4,Raptors,Thunder,108 - 102,1,N/A,N/A,N/A
+95,Kawhi Leonard,FG_ASSISTED,Marc Gasol,2:18,4,Raptors,Thunder,108 - 104,1,0,2,Layup
+96,Kawhi Leonard,FOUL_ON_FLOOR,None,1:53,4,Raptors,Thunder,108 - 104,1,N/A,N/A,N/A
+97,Paul George,FT,None,1:53,4,Thunder,Raptors,109 - 104,0,N/A,1,N/A
+98,Paul George,FT,None,1:53,4,Thunder,Raptors,110 - 104,0,N/A,1,N/A
+99,Marc Gasol,FG_ASSISTED,Kawhi Leonard,1:40,4,Raptors,Thunder,110 - 106,1,0,2,Dunk
+100,Russell Westbrook's,FG_MISS,Fred VanVleet,1:18,4,Raptors,Thunder,110 - 106,0,1,3,Jumper
+101,Russell Westbrook,OFFENSIVE_REBOUND,None,1:17,4,Thunder,Raptors,110 - 106,0,N/A,N/A,N/A
+102,Russell Westbrook,FG_MISS,None,1:16,4,Thunder,Raptors,110 - 106,0,24,3,Jumper
+103,Team,OFFENSIVE_REBOUND,None,1:16,4,Thunder,Raptors,110 - 106,0,N/A,N/A,N/A
+104,shot clock,TURNOVER,None,1:16,4,Thunder,Raptors,110 - 106,0,N/A,N/A,N/A
+105,Kawhi Leonard,TURNOVER,None,1:02,4,Raptors,Thunder,110 - 106,1,N/A,N/A,N/A
+106,Kawhi Leonard,TURNOVER,None,1:02,4,Raptors,Thunder,110 - 106,1,N/A,N/A,N/A
+107,Pascal Siakam,FOUL_ON_FLOOR,None,52.9,4,Raptors,Thunder,110 - 106,1,N/A,N/A,N/A
+108,Russell Westbrook,FT,None,52.9,4,Thunder,Raptors,111 - 106,0,N/A,1,N/A
+109,Russell Westbrook,FT,None,52.9,4,Thunder,Raptors,112 - 106,0,N/A,1,N/A
+110,Team,Unknown,None,52.9,4,Raptors,Thunder,112 - 106,1,N/A,N/A,N/A
+111,Danny Green,FG_MISS,None,48.7,4,Raptors,Thunder,112 - 106,1,1,3,Jumper
+112,Russell Westbrook,DEFENSIVE_REBOUND,None,46.2,4,Thunder,Raptors,112 - 106,0,N/A,N/A,N/A
+113,Dennis Schroder,FG_UNASSISTED,None,29.7,4,Thunder,Raptors,114 - 106,0,2,2,Jumper
+114,Kawhi Leonard,FG_ASSISTED,Fred VanVleet,20.8,4,Raptors,Thunder,114 - 109,1,23,3,Jumper
+115,Pascal Siakam,FOUL_ON_FLOOR,None,19.2,4,Raptors,Thunder,114 - 109,1,N/A,N/A,N/A
+116,Russell Westbrook,FT,None,19.2,4,Thunder,Raptors,115 - 109,0,N/A,1,N/A
+117,Russell Westbrook,FT,None,19.2,4,Thunder,Raptors,116 - 109,0,N/A,1,N/A
+118,Team,Unknown,None,19.2,4,Raptors,Thunder,116 - 109,1,N/A,N/A,N/A
+119,Fred VanVleet,FG_MISS,None,12.5,4,Raptors,Thunder,116 - 109,1,29,3,Jumper
+120,Russell Westbrook,DEFENSIVE_REBOUND,None,10.1,4,Thunder,Raptors,116 - 109,0,N/A,N/A,N/A
+121,End of,Unknown,None,0.0,4,Raptors,Thunder,116 - 109,1,N/A,N/A,N/A
+122,End of,Unknown,None,0.0,4,Raptors,Thunder,116 - 109,1,N/A,N/A,N/A

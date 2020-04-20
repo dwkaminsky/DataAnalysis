@@ -1,0 +1,463 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,LaMarcus Aldridge,JUMP_BALL,None,12:00,1,Grizzlies,Spurs,0 - 0,1,N/A,N/A,N/A
+1,Jaren Jackson,FG_ASSISTED,Avery Bradley,11:40,1,Grizzlies,Spurs,0 - 2,1,11,2,Jumper
+2,Davis Bertans,FG_MISS,None,11:16,1,Spurs,Grizzlies,0 - 2,0,-,2,Jumper
+3,Team,DEFENSIVE_REBOUND,None,11:16,1,Grizzlies,Spurs,0 - 2,1,N/A,N/A,N/A
+4,DeMar DeRozan,FOUL_ON_FLOOR,None,11:01,1,Spurs,Grizzlies,0 - 2,0,N/A,N/A,N/A
+5,Jaren Jackson,FT,None,11:01,1,Grizzlies,Spurs,0 - 3,1,N/A,1,N/A
+6,Jaren Jackson,FT,None,11:01,1,Grizzlies,Spurs,0 - 4,1,N/A,1,N/A
+7,Rudy Gay,FG_UNASSISTED,None,10:44,1,Spurs,Grizzlies,2 - 4,0,0,2,Dunk
+8,Justin Holiday,FG_MISS,None,10:28,1,Grizzlies,Spurs,2 - 4,1,24,3,Jumper
+9,DeMar DeRozan,DEFENSIVE_REBOUND,None,10:25,1,Spurs,Grizzlies,2 - 4,0,N/A,N/A,N/A
+10,LaMarcus Aldridge,FG_ASSISTED,Rudy Gay,10:18,1,Spurs,Grizzlies,4 - 4,0,-,2,Jumper
+11,Avery Bradley,FG_UNASSISTED,None,9:53,1,Grizzlies,Spurs,4 - 6,1,22,2,Jumper
+12,Justin Holiday,FOUL_ON_FLOOR,None,9:44,1,Grizzlies,Spurs,4 - 6,1,N/A,N/A,N/A
+13,LaMarcus Aldridge,FT_MISS,None,9:44,1,Spurs,Grizzlies,4 - 6,0,N/A,1,N/A
+14,Team,OFFENSIVE_REBOUND,None,9:44,1,Spurs,Grizzlies,4 - 6,0,N/A,N/A,N/A
+15,LaMarcus Aldridge,FT,None,9:44,1,Spurs,Grizzlies,5 - 6,0,N/A,1,N/A
+16,Delon Wright,FOUL_ON_FLOOR,None,9:44,1,Grizzlies,Spurs,5 - 6,1,N/A,N/A,N/A
+17,Delon Wright,TURNOVER,None,9:44,1,Grizzlies,Spurs,5 - 6,1,N/A,N/A,N/A
+18,Avery Bradley,FOUL_ON_FLOOR,None,9:38,1,Grizzlies,Spurs,5 - 6,1,N/A,N/A,N/A
+19,DeMar DeRozan,FT_MISS,None,9:38,1,Spurs,Grizzlies,5 - 6,0,N/A,1,N/A
+20,Team,OFFENSIVE_REBOUND,None,9:38,1,Spurs,Grizzlies,5 - 6,0,N/A,N/A,N/A
+21,DeMar DeRozan,FT,None,9:38,1,Spurs,Grizzlies,6 - 6,0,N/A,1,N/A
+22,Ivan Rabb,FG_ASSISTED,Justin Holiday,9:20,1,Grizzlies,Spurs,6 - 8,1,-,2,Jumper
+23,Ivan Rabb,FOUL_ON_FLOOR,None,9:05,1,Grizzlies,Spurs,6 - 8,1,N/A,N/A,N/A
+24,Ivan Rabb,FOUL_ON_FLOOR,None,8:54,1,Grizzlies,Spurs,6 - 8,1,N/A,N/A,N/A
+25,Bryn Forbes,FT,None,8:54,1,Spurs,Grizzlies,7 - 8,0,N/A,1,N/A
+26,Jonas Valanciunas,SUBSTITUTION,Rabb Ivan,8:54,1,Grizzlies,Spurs,7 - 8,1,N/A,N/A,N/A
+27,Bryn Forbes,FT,None,8:54,1,Spurs,Grizzlies,8 - 8,0,N/A,1,N/A
+28,Avery Bradley,FG_ASSISTED,Jonas Valanciunas,8:38,1,Grizzlies,Spurs,8 - 10,1,19,2,Jumper
+29,DeMar DeRozan,FG_MISS,None,8:25,1,Spurs,Grizzlies,8 - 10,0, ,2,Jumper
+30,Jonas Valanciunas,DEFENSIVE_REBOUND,None,8:23,1,Grizzlies,Spurs,8 - 10,1,N/A,N/A,N/A
+31,Delon Wright,FG_MISS,LaMarcus Aldridge,8:04,1,Spurs,Grizzlies,8 - 10,1,0,2,Layup
+32,DeMar DeRozan,DEFENSIVE_REBOUND,None,8:02,1,Spurs,Grizzlies,8 - 10,0,N/A,N/A,N/A
+33,Jaren Jackson,FOUL_ON_FLOOR,None,7:58,1,Grizzlies,Spurs,8 - 10,1,N/A,N/A,N/A
+34,Rudy Gay,FT,None,7:58,1,Spurs,Grizzlies,9 - 10,0,N/A,1,N/A
+35,Rudy Gay,FT,None,7:58,1,Spurs,Grizzlies,10 - 10,0,N/A,1,N/A
+36,Delon Wright,FG_UNASSISTED,None,7:44,1,Grizzlies,Spurs,10 - 12,1,15,2,Jumper
+37,Rudy Gay,FG_MISS,None,7:19,1,Spurs,Grizzlies,10 - 12,0,22,2,Jumper
+38,Jonas Valanciunas,DEFENSIVE_REBOUND,None,7:16,1,Grizzlies,Spurs,10 - 12,1,N/A,N/A,N/A
+39,Jonas Valanciunas,FG_MISS,None,7:10,1,Grizzlies,Spurs,10 - 12,1,26,3,Jumper
+40,Rudy Gay,DEFENSIVE_REBOUND,None,7:06,1,Spurs,Grizzlies,10 - 12,0,N/A,N/A,N/A
+41,DeMar DeRozan,TURNOVER,Delon Wright,6:57,1,Spurs,Grizzlies,10 - 12,0,N/A,N/A,N/A
+42,Jonas Valanciunas,FG_ASSISTED,Avery Bradley,6:46,1,Grizzlies,Spurs,10 - 14,1,0,2,Layup
+43,Team,Unknown,None,6:45,1,Spurs,Grizzlies,10 - 14,0,N/A,N/A,N/A
+44,Rudy Gay,FG_UNASSISTED,None,6:26,1,Spurs,Grizzlies,12 - 14,0,10,2,Jumper
+45,Justin Holiday,FG_MISS,None,6:11,1,Grizzlies,Spurs,12 - 14,1, ,2,Jumper
+46,Rudy Gay,JUMP_BALL,None,6:09,1,Grizzlies,Spurs,12 - 14,1,N/A,N/A,N/A
+47,Team,OFFENSIVE_REBOUND,None,6:09,1,Grizzlies,Spurs,12 - 14,1,N/A,N/A,N/A
+48,Jonas Valanciunas,FG_ASSISTED,Delon Wright,6:03,1,Grizzlies,Spurs,12 - 16,1,4,2,Jumper
+49,Bryn Forbes,FG_MISS,None,5:49,1,Spurs,Grizzlies,12 - 16,0,25,3,Jumper
+50,Jaren Jackson,DEFENSIVE_REBOUND,None,5:46,1,Grizzlies,Spurs,12 - 16,1,N/A,N/A,N/A
+51,Avery Bradley,FG_UNASSISTED,None,5:40,1,Grizzlies,Spurs,12 - 18,1,21,2,Jumper
+52,DeMar DeRozan,FG_MISS,None,5:18,1,Spurs,Grizzlies,12 - 18,0,14,2,Jumper
+53,Jonas Valanciunas,DEFENSIVE_REBOUND,None,5:15,1,Grizzlies,Spurs,12 - 18,1,N/A,N/A,N/A
+54,Justin Holiday,TURNOVER,Bryn Forbes,5:00,1,Grizzlies,Spurs,12 - 18,1,N/A,N/A,N/A
+55,Davis Bertans,FG_ASSISTED,Bryn Forbes,4:54,1,Spurs,Grizzlies,15 - 18,0,27,3,Jumper
+56,Avery Bradley,TURNOVER,Bryn Forbes,4:35,1,Grizzlies,Spurs,15 - 18,1,N/A,N/A,N/A
+57,LaMarcus Aldridge,FG_MISS,None,4:20,1,Spurs,Grizzlies,15 - 18,0,9,2,Jumper
+58,Delon Wright,DEFENSIVE_REBOUND,None,4:18,1,Grizzlies,Spurs,15 - 18,1,N/A,N/A,N/A
+59,Bryn Forbes,FOUL_ON_FLOOR,None,4:05,1,Spurs,Grizzlies,15 - 18,0,N/A,N/A,N/A
+60,Jonas Valanciunas,FT,None,4:05,1,Grizzlies,Spurs,15 - 19,1,N/A,1,N/A
+61,CJ Miles,SUBSTITUTION,Wright Delon,4:05,1,Grizzlies,Spurs,15 - 19,1,N/A,N/A,N/A
+62,Jakob Poeltl,SUBSTITUTION,Forbes Bryn,4:05,1,Spurs,Grizzlies,15 - 19,0,N/A,N/A,N/A
+63,Dante Cunningham,SUBSTITUTION,Aldridge LaMarcus,4:05,1,Spurs,Grizzlies,15 - 19,0,N/A,N/A,N/A
+64,Patty Mills,SUBSTITUTION,Gay Rudy,4:05,1,Spurs,Grizzlies,15 - 19,0,N/A,N/A,N/A
+65,Jonas Valanciunas,FT_MISS,None,4:05,1,Grizzlies,Spurs,15 - 19,1,N/A,1,N/A
+66,Jevon Carter,SUBSTITUTION,Holiday Justin,4:05,1,Grizzlies,Spurs,15 - 19,1,N/A,N/A,N/A
+67,Davis Bertans,DEFENSIVE_REBOUND,None,4:03,1,Spurs,Grizzlies,15 - 19,0,N/A,N/A,N/A
+68,DeMar DeRozan,FG_MISS,None,3:52,1,Spurs,Grizzlies,15 - 19,0,0,2,Layup
+69,Jonas Valanciunas,DEFENSIVE_REBOUND,None,3:48,1,Grizzlies,Spurs,15 - 19,1,N/A,N/A,N/A
+70,Davis Bertans,FOUL_ON_FLOOR,None,3:45,1,Spurs,Grizzlies,15 - 19,0,N/A,N/A,N/A
+71,CJ Miles,FT,None,3:45,1,Grizzlies,Spurs,15 - 20,1,N/A,1,N/A
+72,Marco Belinelli,SUBSTITUTION,Bertans Davis,3:45,1,Spurs,Grizzlies,15 - 20,0,N/A,N/A,N/A
+73,CJ Miles,FT,None,3:45,1,Grizzlies,Spurs,15 - 21,1,N/A,1,N/A
+74,DeMar DeRozan,FG_MISS,None,3:32,1,Spurs,Grizzlies,15 - 21,0, ,2,Jumper
+75,DeMar DeRozan,OFFENSIVE_REBOUND,None,3:29,1,Spurs,Grizzlies,15 - 21,0,N/A,N/A,N/A
+76,Marco Belinelli,FG_MISS,None,3:22,1,Spurs,Grizzlies,15 - 21,0,26,3,Jumper
+77,Avery Bradley,DEFENSIVE_REBOUND,None,3:19,1,Grizzlies,Spurs,15 - 21,1,N/A,N/A,N/A
+78,Avery Bradley,FG_UNASSISTED,None,3:12,1,Grizzlies,Spurs,15 - 23,1,21,2,Jumper
+79,Jakob Poeltl,FG_MISS,None,3:01,1,Spurs,Grizzlies,15 - 23,0,12,2,Jumper
+80,Jaren Jackson,DEFENSIVE_REBOUND,None,2:59,1,Grizzlies,Spurs,15 - 23,1,N/A,N/A,N/A
+81,Jaren Jackson,TURNOVER,Patty Mills,2:57,1,Grizzlies,Spurs,15 - 23,1,N/A,N/A,N/A
+82,Patty Mills,FG_MISS,None,2:53,1,Spurs,Grizzlies,15 - 23,0,0,2,Layup
+83,Jonas Valanciunas,DEFENSIVE_REBOUND,None,2:51,1,Grizzlies,Spurs,15 - 23,1,N/A,N/A,N/A
+84,Avery Bradley,TURNOVER,Jakob Poeltl,2:44,1,Grizzlies,Spurs,15 - 23,1,N/A,N/A,N/A
+85,DeMar DeRozan,FG_MISS,Jevon Carter,2:39,1,Grizzlies,Spurs,15 - 23,0,2,2,Jumper
+86,Team,DEFENSIVE_REBOUND,None,2:39,1,Grizzlies,Spurs,15 - 23,1,N/A,N/A,N/A
+87,Team,Unknown,None,2:39,1,Grizzlies,Spurs,15 - 23,1,N/A,N/A,N/A
+88,Bruno Caboclo,SUBSTITUTION,Jackson Jaren,2:39,1,Grizzlies,Spurs,15 - 23,1,N/A,N/A,N/A
+89,Joakim Noah,SUBSTITUTION,Valanciunas Jonas,2:39,1,Grizzlies,Spurs,15 - 23,1,N/A,N/A,N/A
+90,Bryn Forbes,SUBSTITUTION,DeRozan DeMar,2:39,1,Spurs,Grizzlies,15 - 23,0,N/A,N/A,N/A
+91,Jevon Carter,FG_MISS,None,2:16,1,Grizzlies,Spurs,15 - 23,1,30,3,Jumper
+92,Team,OFFENSIVE_REBOUND,None,2:15,1,Grizzlies,Spurs,15 - 23,1,N/A,N/A,N/A
+93,shot clock,TURNOVER,None,2:15,1,Grizzlies,Spurs,15 - 23,1,N/A,N/A,N/A
+94,Dante Cunningham,TURNOVER,Jevon Carter,1:58,1,Spurs,Grizzlies,15 - 23,0,N/A,N/A,N/A
+95,Avery Bradley,FG_ASSISTED,CJ Miles,1:53,1,Grizzlies,Spurs,15 - 26,1,23,3,Jumper
+96,Bryn Forbes,FOUL_ON_FLOOR,None,1:41,1,Spurs,Grizzlies,15 - 26,0,N/A,N/A,N/A
+97,Bryn Forbes,TURNOVER,None,1:41,1,Spurs,Grizzlies,15 - 26,0,N/A,N/A,N/A
+98,Joakim Noah,FG_ASSISTED,Avery Bradley,1:25,1,Grizzlies,Spurs,15 - 28,1,4,2,Jumper
+99,Joakim Noah,FOUL_ON_FLOOR,None,1:14,1,Grizzlies,Spurs,15 - 28,1,N/A,N/A,N/A
+100,Patty Mills,FT,None,1:14,1,Spurs,Grizzlies,16 - 28,0,N/A,1,N/A
+101,Rudy Gay,SUBSTITUTION,Forbes Bryn,1:14,1,Spurs,Grizzlies,16 - 28,0,N/A,N/A,N/A
+102,Patty Mills,FT,None,1:14,1,Spurs,Grizzlies,17 - 28,0,N/A,1,N/A
+103,Avery Bradley,FG_UNASSISTED,None,1:03,1,Grizzlies,Spurs,17 - 30,1,21,2,Jumper
+104,Patty Mills,FG_ASSISTED,Rudy Gay,51.8,1,Spurs,Grizzlies,20 - 30,0,25,3,Jumper
+105,CJ Miles,FG_MISS,None,42.6,1,Grizzlies,Spurs,20 - 30,1, ,2,Jumper
+106,Dante Cunningham,DEFENSIVE_REBOUND,None,39.8,1,Spurs,Grizzlies,20 - 30,0,N/A,N/A,N/A
+107,Rudy Gay,TURNOVER,Avery Bradley,24.1,1,Spurs,Grizzlies,20 - 30,0,N/A,N/A,N/A
+108,Avery Bradley,FG_UNASSISTED,None,20.1,1,Grizzlies,Spurs,20 - 33,1,23,3,Jumper
+109,Rudy Gay's,FG_MISS,Bruno Caboclo,4.6,1,Grizzlies,Spurs,20 - 33,0, ,2,Jumper
+110,Joakim Noah,DEFENSIVE_REBOUND,None,0.9,1,Grizzlies,Spurs,20 - 33,1,N/A,N/A,N/A
+111,Jevon Carter,FG_MISS,None,0.0,1,Grizzlies,Spurs,20 - 33,1, ,2,Jumper
+112,Team,OFFENSIVE_REBOUND,None,0.0,1,Grizzlies,Spurs,20 - 33,1,N/A,N/A,N/A
+113,End of,Unknown,None,0.0,1,Grizzlies,Spurs,20 - 33,1,N/A,N/A,N/A
+0,Delon Wright,SUBSTITUTION,Bradley Avery,12:00,2,Grizzlies,Spurs,20 - 33,1,N/A,N/A,N/A
+1,DeMar DeRozan,SUBSTITUTION,Poeltl Jakob,12:00,2,Spurs,Grizzlies,20 - 33,0,N/A,N/A,N/A
+2,LaMarcus Aldridge,SUBSTITUTION,Cunningham Dante,12:00,2,Spurs,Grizzlies,20 - 33,0,N/A,N/A,N/A
+3,Jevon Carter,FOUL_ON_FLOOR,None,11:50,2,Grizzlies,Spurs,20 - 33,1,N/A,N/A,N/A
+4,DeMar DeRozan,FG_UNASSISTED,None,11:35,2,Spurs,Grizzlies,22 - 33,0,12,2,Jumper
+5,Bruno Caboclo,FG_MISS,None,11:15,2,Grizzlies,Spurs,22 - 33,1,6,2,Jumper
+6,Joakim Noah,OFFENSIVE_REBOUND,None,11:10,2,Grizzlies,Spurs,22 - 33,1,N/A,N/A,N/A
+7,Joakim Noah,FG_UNASSISTED,None,11:10,2,Grizzlies,Spurs,22 - 35,1, ,2,Jumper
+8,Patty Mills,FG_ASSISTED,DeMar DeRozan,10:57,2,Spurs,Grizzlies,25 - 35,0,28,3,Jumper
+9,CJ Miles,FG_ASSISTED,Joakim Noah,10:43,2,Grizzlies,Spurs,25 - 38,1,25,3,Jumper
+10,Patty Mills,FG_ASSISTED,DeMar DeRozan,10:31,2,Spurs,Grizzlies,28 - 38,0,26,3,Jumper
+11,Bruno Caboclo,FG_MISS,None,10:14,2,Grizzlies,Spurs,28 - 38,1,25,3,Jumper
+12,LaMarcus Aldridge,DEFENSIVE_REBOUND,None,10:11,2,Spurs,Grizzlies,28 - 38,0,N/A,N/A,N/A
+13,Marco Belinelli,FG_ASSISTED,Patty Mills,10:05,2,Spurs,Grizzlies,31 - 38,0,23,3,Jumper
+14,Team,Unknown,None,10:04,2,Grizzlies,Spurs,31 - 38,1,N/A,N/A,N/A
+15,CJ Miles,FG_MISS,None,9:50,2,Grizzlies,Spurs,31 - 38,1,26,3,Jumper
+16,Rudy Gay,DEFENSIVE_REBOUND,None,9:48,2,Spurs,Grizzlies,31 - 38,0,N/A,N/A,N/A
+17,DeMar DeRozan,FG_UNASSISTED,None,9:42,2,Spurs,Grizzlies,33 - 38,0, ,2,Jumper
+18,Joakim Noah,FG_ASSISTED,Delon Wright,9:24,2,Grizzlies,Spurs,33 - 40,1,0,2,Dunk
+19,Patty Mills,FG_MISS,None,9:13,2,Spurs,Grizzlies,33 - 40,0,25,3,Jumper
+20,Delon Wright,DEFENSIVE_REBOUND,None,9:09,2,Grizzlies,Spurs,33 - 40,1,N/A,N/A,N/A
+21,Delon Wright,FG_UNASSISTED,None,9:03,2,Grizzlies,Spurs,33 - 42,1, ,2,Jumper
+22,Marco Belinelli,FG_ASSISTED,DeMar DeRozan,8:45,2,Spurs,Grizzlies,35 - 42,0,0,2,Layup
+23,CJ Miles,FOUL_ON_FLOOR,None,8:39,2,Grizzlies,Spurs,35 - 42,1,N/A,N/A,N/A
+24,CJ Miles,TURNOVER,None,8:39,2,Grizzlies,Spurs,35 - 42,1,N/A,N/A,N/A
+25,Justin Holiday,SUBSTITUTION,Carter Jevon,8:39,2,Grizzlies,Spurs,35 - 42,1,N/A,N/A,N/A
+26,Bryn Forbes,SUBSTITUTION,Mills Patty,8:39,2,Spurs,Grizzlies,35 - 42,0,N/A,N/A,N/A
+27,LaMarcus Aldridge's,FG_MISS,Bruno Caboclo,8:25,2,Grizzlies,Spurs,35 - 42,0,0,2,Dunk
+28,CJ Miles,DEFENSIVE_REBOUND,None,8:21,2,Grizzlies,Spurs,35 - 42,1,N/A,N/A,N/A
+29,Rudy Gay,FOUL_ON_FLOOR,None,8:19,2,Spurs,Grizzlies,35 - 42,0,N/A,N/A,N/A
+30,DeMar DeRozan,FOUL_ON_FLOOR,None,8:15,2,Spurs,Grizzlies,35 - 42,0,N/A,N/A,N/A
+31,CJ Miles,FG_ASSISTED,Delon Wright,8:02,2,Grizzlies,Spurs,35 - 44,1,0,2,Layup
+32,DeMar DeRozan,FG_MISS,Bruno Caboclo,7:44,2,Grizzlies,Spurs,35 - 44,0,0,2,Layup
+33,CJ Miles,DEFENSIVE_REBOUND,None,7:39,2,Grizzlies,Spurs,35 - 44,1,N/A,N/A,N/A
+34,Bruno Caboclo,FG_MISS,None,7:37,2,Grizzlies,Spurs,35 - 44,1, ,2,Jumper
+35,LaMarcus Aldridge,DEFENSIVE_REBOUND,None,7:34,2,Spurs,Grizzlies,35 - 44,0,N/A,N/A,N/A
+36,LaMarcus Aldridge,FG_MISS,None,7:26,2,Spurs,Grizzlies,35 - 44,0,19,2,Jumper
+37,CJ Miles,DEFENSIVE_REBOUND,None,7:23,2,Grizzlies,Spurs,35 - 44,1,N/A,N/A,N/A
+38,Delon Wright,FG_MISS,None,7:17,2,Grizzlies,Spurs,35 - 44,1,25,3,Jumper
+39,Marco Belinelli,DEFENSIVE_REBOUND,None,7:14,2,Spurs,Grizzlies,35 - 44,0,N/A,N/A,N/A
+40,Marco Belinelli,FG_ASSISTED,Bryn Forbes,6:55,2,Spurs,Grizzlies,37 - 44,0,14,2,Jumper
+41,Justin Holiday,FG_ASSISTED,Joakim Noah,6:44,2,Grizzlies,Spurs,37 - 46,1,0,2,Layup
+42,Team,Unknown,None,6:44,2,Spurs,Grizzlies,37 - 46,0,N/A,N/A,N/A
+43,Avery Bradley,SUBSTITUTION,Miles CJ,6:44,2,Grizzlies,Spurs,37 - 46,1,N/A,N/A,N/A
+44,Davis Bertans,SUBSTITUTION,Belinelli Marco,6:44,2,Spurs,Grizzlies,37 - 46,0,N/A,N/A,N/A
+45,Davis Bertans,FG_ASSISTED,DeMar DeRozan,6:30,2,Spurs,Grizzlies,39 - 46,0,13,2,Jumper
+46,Joakim Noah,FG_MISS,None,6:08,2,Grizzlies,Spurs,39 - 46,1,5,2,Jumper
+47,LaMarcus Aldridge,DEFENSIVE_REBOUND,None,6:04,2,Spurs,Grizzlies,39 - 46,0,N/A,N/A,N/A
+48,Justin Holiday,FOUL_ON_FLOOR,None,5:58,2,Grizzlies,Spurs,39 - 46,1,N/A,N/A,N/A
+49,Rudy Gay,FT,None,5:58,2,Spurs,Grizzlies,40 - 46,0,N/A,1,N/A
+50,Jaren Jackson,SUBSTITUTION,Caboclo Bruno,5:58,2,Grizzlies,Spurs,40 - 46,1,N/A,N/A,N/A
+51,Rudy Gay,FT,None,5:58,2,Spurs,Grizzlies,41 - 46,0,N/A,1,N/A
+52,Jaren Jackson,FOUL_ON_FLOOR,None,5:45,2,Grizzlies,Spurs,41 - 46,1,N/A,N/A,N/A
+53,Jaren Jackson,TURNOVER,None,5:45,2,Grizzlies,Spurs,41 - 46,1,N/A,N/A,N/A
+54,Joakim Noah,FOUL_ON_FLOOR,None,5:33,2,Grizzlies,Spurs,41 - 46,1,N/A,N/A,N/A
+55,Bryn Forbes,FG_MISS,None,5:29,2,Spurs,Grizzlies,41 - 46,0,23,2,Jumper
+56,LaMarcus Aldridge,OFFENSIVE_REBOUND,None,5:27,2,Spurs,Grizzlies,41 - 46,0,N/A,N/A,N/A
+57,LaMarcus Aldridge,FG_MISS,None,5:20,2,Spurs,Grizzlies,41 - 46,0,13,2,Jumper
+58,Delon Wright,DEFENSIVE_REBOUND,None,5:15,2,Grizzlies,Spurs,41 - 46,1,N/A,N/A,N/A
+59,Avery Bradley,FG_MISS,None,5:09,2,Grizzlies,Spurs,41 - 46,1,18,2,Jumper
+60,Rudy Gay,DEFENSIVE_REBOUND,None,5:06,2,Spurs,Grizzlies,41 - 46,0,N/A,N/A,N/A
+61,Davis Bertans,FG_ASSISTED,Rudy Gay,5:02,2,Spurs,Grizzlies,44 - 46,0,26,3,Jumper
+62,Justin Holiday,FG_MISS,Davis Bertans,4:46,2,Spurs,Grizzlies,44 - 46,1,26,3,Jumper
+63,LaMarcus Aldridge,DEFENSIVE_REBOUND,None,4:43,2,Spurs,Grizzlies,44 - 46,0,N/A,N/A,N/A
+64,Jonas Valanciunas,SUBSTITUTION,Noah Joakim,4:27,2,Grizzlies,Spurs,44 - 46,1,N/A,N/A,N/A
+65,Rudy Gay,FG_ASSISTED,LaMarcus Aldridge,4:24,2,Spurs,Grizzlies,47 - 46,0,26,3,Jumper
+66,Justin Holiday,TURNOVER,Bryn Forbes,4:09,2,Grizzlies,Spurs,47 - 46,1,N/A,N/A,N/A
+67,Bryn Forbes,FG_UNASSISTED,None,4:03,2,Spurs,Grizzlies,49 - 46,0,23,2,Jumper
+68,Team,Unknown,None,3:55,2,Grizzlies,Spurs,49 - 46,1,N/A,N/A,N/A
+69,Joakim Noah,FOUL_TECHNICAL,None,3:55,2,Grizzlies,Spurs,49 - 46,1,N/A,N/A,N/A
+70,Marco Belinelli,SUBSTITUTION,DeRozan DeMar,3:55,2,Spurs,Grizzlies,49 - 46,0,N/A,N/A,N/A
+71,Patty Mills,SUBSTITUTION,Gay Rudy,3:55,2,Spurs,Grizzlies,49 - 46,0,N/A,N/A,N/A
+72,Bryn Forbes,FT,None,3:55,2,Spurs,Grizzlies,50 - 46,0,N/A,1,N/A
+73,Davis Bertans,FOUL_ON_FLOOR,None,3:46,2,Spurs,Grizzlies,50 - 46,0,N/A,N/A,N/A
+74,Jaren Jackson,FOUL_ON_FLOOR,None,3:46,2,Grizzlies,Spurs,50 - 46,1,N/A,N/A,N/A
+75,Jaren Jackson,TURNOVER,None,3:46,2,Grizzlies,Spurs,50 - 46,1,N/A,N/A,N/A
+76,Ivan Rabb,SUBSTITUTION,Jackson Jaren,3:46,2,Grizzlies,Spurs,50 - 46,1,N/A,N/A,N/A
+77,Patty Mills,FG_ASSISTED,LaMarcus Aldridge,3:31,2,Spurs,Grizzlies,52 - 46,0,10,2,Jumper
+78,Justin Holiday,FG_ASSISTED,Delon Wright,3:21,2,Grizzlies,Spurs,52 - 49,1,22,3,Jumper
+79,Davis Bertans,FG_ASSISTED,Marco Belinelli,3:06,2,Spurs,Grizzlies,55 - 49,0,27,3,Jumper
+80,LaMarcus Aldridge,FOUL_ON_FLOOR,None,2:53,2,Spurs,Grizzlies,55 - 49,0,N/A,N/A,N/A
+81,Jonas Valanciunas,FT,None,2:53,2,Grizzlies,Spurs,55 - 50,1,N/A,1,N/A
+82,Jonas Valanciunas,FT,None,2:53,2,Grizzlies,Spurs,55 - 51,1,N/A,1,N/A
+83,LaMarcus Aldridge,FG_ASSISTED,Patty Mills,2:38,2,Spurs,Grizzlies,57 - 51,0,11,2,Jumper
+84,Justin Holiday,FG_UNASSISTED,None,2:25,2,Grizzlies,Spurs,57 - 53,1,9,2,Jumper
+85,Bryn Forbes,FG_MISS,None,2:16,2,Spurs,Grizzlies,57 - 53,0,17,2,Jumper
+86,Delon Wright,DEFENSIVE_REBOUND,None,2:13,2,Grizzlies,Spurs,57 - 53,1,N/A,N/A,N/A
+87,DeMar DeRozan,SUBSTITUTION,Forbes Bryn,2:09,2,Spurs,Grizzlies,57 - 53,0,N/A,N/A,N/A
+88,Jakob Poeltl,SUBSTITUTION,Aldridge LaMarcus,2:09,2,Spurs,Grizzlies,57 - 53,0,N/A,N/A,N/A
+89,Justin Holiday,FG_MISS,None,2:00,2,Grizzlies,Spurs,57 - 53,1,6,2,Jumper
+90,Jakob Poeltl,DEFENSIVE_REBOUND,None,1:55,2,Spurs,Grizzlies,57 - 53,0,N/A,N/A,N/A
+91,Jakob Poeltl,FG_MISS,None,1:44,2,Spurs,Grizzlies,57 - 53,0,0,2,Layup
+92,Ivan Rabb,DEFENSIVE_REBOUND,None,1:41,2,Grizzlies,Spurs,57 - 53,1,N/A,N/A,N/A
+93,Delon Wright,FG_MISS,None,1:34,2,Grizzlies,Spurs,57 - 53,1,16,2,Jumper
+94,Ivan Rabb,OFFENSIVE_REBOUND,None,1:32,2,Grizzlies,Spurs,57 - 53,1,N/A,N/A,N/A
+95,Justin Holiday,TURNOVER,None,1:26,2,Grizzlies,Spurs,57 - 53,1,N/A,N/A,N/A
+96,Patty Mills,FG_MISS,Delon Wright,1:15,2,Grizzlies,Spurs,57 - 53,0,20,2,Jumper
+97,Delon Wright,DEFENSIVE_REBOUND,None,1:11,2,Grizzlies,Spurs,57 - 53,1,N/A,N/A,N/A
+98,Jonas Valanciunas,FG_ASSISTED,Justin Holiday,59.3,2,Grizzlies,Spurs,57 - 55,1,0,2,Dunk
+99,DeMar DeRozan,FG_MISS,None,47.9,2,Spurs,Grizzlies,57 - 55,0,12,2,Jumper
+100,Jakob Poeltl,OFFENSIVE_REBOUND,None,45.5,2,Spurs,Grizzlies,57 - 55,0,N/A,N/A,N/A
+101,Patty Mills,FG_MISS,None,43.3,2,Spurs,Grizzlies,57 - 55,0, ,2,Jumper
+102,Avery Bradley,DEFENSIVE_REBOUND,None,43.3,2,Grizzlies,Spurs,57 - 55,1,N/A,N/A,N/A
+103,Avery Bradley,FG_ASSISTED,Delon Wright,33.9,2,Grizzlies,Spurs,57 - 58,1,26,3,Jumper
+104,DeMar DeRozan,FG_MISS,None,19.3,2,Spurs,Grizzlies,57 - 58,0,0,2,Layup
+105,Avery Bradley,DEFENSIVE_REBOUND,None,16.2,2,Grizzlies,Spurs,57 - 58,1,N/A,N/A,N/A
+106,Ivan Rabb,FG_MISS,None,0.0,2,Grizzlies,Spurs,57 - 58,1,23,3,Jumper
+107,Team,OFFENSIVE_REBOUND,None,0.0,2,Grizzlies,Spurs,57 - 58,1,N/A,N/A,N/A
+108,End of,Unknown,None,0.0,2,Grizzlies,Spurs,57 - 58,1,N/A,N/A,N/A
+0,Jaren Jackson,SUBSTITUTION,Valanciunas Jonas,12:00,3,Grizzlies,Spurs,57 - 58,1,N/A,N/A,N/A
+1,LaMarcus Aldridge,SUBSTITUTION,Mills Patty,12:00,3,Spurs,Grizzlies,57 - 58,0,N/A,N/A,N/A
+2,Bryn Forbes,SUBSTITUTION,Belinelli Marco,12:00,3,Spurs,Grizzlies,57 - 58,0,N/A,N/A,N/A
+3,Rudy Gay,SUBSTITUTION,Poeltl Jakob,12:00,3,Spurs,Grizzlies,57 - 58,0,N/A,N/A,N/A
+4,LaMarcus Aldridge,FG_MISS,None,11:34,3,Spurs,Grizzlies,57 - 58,0,15,2,Jumper
+5,Avery Bradley,DEFENSIVE_REBOUND,None,11:31,3,Grizzlies,Spurs,57 - 58,1,N/A,N/A,N/A
+6,Jaren Jackson,FG_MISS,None,11:21,3,Grizzlies,Spurs,57 - 58,1, ,2,Jumper
+7,DeMar DeRozan,DEFENSIVE_REBOUND,None,11:19,3,Spurs,Grizzlies,57 - 58,0,N/A,N/A,N/A
+8,DeMar DeRozan,FG_MISS,Jaren Jackson,11:10,3,Grizzlies,Spurs,57 - 58,0,0,2,Layup
+9,Team,OFFENSIVE_REBOUND,None,11:09,3,Spurs,Grizzlies,57 - 58,0,N/A,N/A,N/A
+10,DeMar DeRozan,FG_MISS,None,10:56,3,Spurs,Grizzlies,57 - 58,0,16,2,Jumper
+11,Jaren Jackson,DEFENSIVE_REBOUND,None,10:53,3,Grizzlies,Spurs,57 - 58,1,N/A,N/A,N/A
+12,Avery Bradley,FG_MISS,None,10:31,3,Grizzlies,Spurs,57 - 58,1,15,2,Jumper
+13,Rudy Gay,DEFENSIVE_REBOUND,None,10:27,3,Spurs,Grizzlies,57 - 58,0,N/A,N/A,N/A
+14,Davis Bertans,FG_ASSISTED,Rudy Gay,10:23,3,Spurs,Grizzlies,60 - 58,0,23,3,Jumper
+15,Davis Bertans,FOUL_ON_FLOOR,None,10:08,3,Spurs,Grizzlies,60 - 58,0,N/A,N/A,N/A
+16,Delon Wright,FG_MISS,None,9:52,3,Grizzlies,Spurs,60 - 58,1,25,3,Jumper
+17,DeMar DeRozan,DEFENSIVE_REBOUND,None,9:50,3,Spurs,Grizzlies,60 - 58,0,N/A,N/A,N/A
+18,LaMarcus Aldridge,FG_ASSISTED,DeMar DeRozan,9:45,3,Spurs,Grizzlies,62 - 58,0, ,2,Jumper
+19,Justin Holiday,FG_MISS,LaMarcus Aldridge,9:19,3,Spurs,Grizzlies,62 - 58,1,7,2,Jumper
+20,Justin Holiday,OFFENSIVE_REBOUND,None,9:15,3,Grizzlies,Spurs,62 - 58,1,N/A,N/A,N/A
+21,Justin Holiday,FG_MISS,None,9:14,3,Grizzlies,Spurs,62 - 58,1,3,2,Jumper
+22,Ivan Rabb,OFFENSIVE_REBOUND,None,9:10,3,Grizzlies,Spurs,62 - 58,1,N/A,N/A,N/A
+23,Avery Bradley,FG_MISS,None,9:09,3,Grizzlies,Spurs,62 - 58,1,27,3,Jumper
+24,Bryn Forbes,DEFENSIVE_REBOUND,None,9:06,3,Spurs,Grizzlies,62 - 58,0,N/A,N/A,N/A
+25,LaMarcus Aldridge,FOUL_ON_FLOOR,None,9:05,3,Spurs,Grizzlies,62 - 58,0,N/A,N/A,N/A
+26,LaMarcus Aldridge,TURNOVER,None,9:05,3,Spurs,Grizzlies,62 - 58,0,N/A,N/A,N/A
+27,Marco Belinelli,SUBSTITUTION,Bertans Davis,9:05,3,Spurs,Grizzlies,62 - 58,0,N/A,N/A,N/A
+28,LaMarcus Aldridge,FOUL_ON_FLOOR,None,8:55,3,Spurs,Grizzlies,62 - 58,0,N/A,N/A,N/A
+29,Jaren Jackson,FT_MISS,None,8:55,3,Grizzlies,Spurs,62 - 58,1,N/A,1,N/A
+30,Team,OFFENSIVE_REBOUND,None,8:55,3,Grizzlies,Spurs,62 - 58,1,N/A,N/A,N/A
+31,Jaren Jackson,FT,None,8:55,3,Grizzlies,Spurs,62 - 59,1,N/A,1,N/A
+32,Rudy Gay,FG_ASSISTED,Bryn Forbes,8:32,3,Spurs,Grizzlies,65 - 59,0,27,3,Jumper
+33,Ivan Rabb,FG_MISS,None,8:00,3,Grizzlies,Spurs,65 - 59,1,10,2,Jumper
+34,Rudy Gay,DEFENSIVE_REBOUND,None,7:57,3,Spurs,Grizzlies,65 - 59,0,N/A,N/A,N/A
+35,LaMarcus Aldridge,FG_ASSISTED,Rudy Gay,7:52,3,Spurs,Grizzlies,67 - 59,0,3,2,Jumper
+36,Jaren Jackson,Unknown,None,7:52,3,Grizzlies,Spurs,67 - 59,1,N/A,N/A,N/A
+37,Avery Bradley,FG_ASSISTED,Ivan Rabb,7:40,3,Grizzlies,Spurs,67 - 61,1,0,2,Layup
+38,Ivan Rabb,FOUL_ON_FLOOR,None,7:24,3,Grizzlies,Spurs,67 - 61,1,N/A,N/A,N/A
+39,Jonas Valanciunas,SUBSTITUTION,Rabb Ivan,7:24,3,Grizzlies,Spurs,67 - 61,1,N/A,N/A,N/A
+40,Bryn Forbes,FG_MISS,None,7:17,3,Spurs,Grizzlies,67 - 61,0, ,2,Jumper
+41,Rudy Gay,OFFENSIVE_REBOUND,None,7:13,3,Spurs,Grizzlies,67 - 61,0,N/A,N/A,N/A
+42,Rudy Gay,FG_MISS,None,7:09,3,Spurs,Grizzlies,67 - 61,0,15,2,Jumper
+43,LaMarcus Aldridge,OFFENSIVE_REBOUND,None,7:06,3,Spurs,Grizzlies,67 - 61,0,N/A,N/A,N/A
+44,LaMarcus Aldridge,FG_MISS,None,7:05,3,Spurs,Grizzlies,67 - 61,0,6,2,Jumper
+45,LaMarcus Aldridge,OFFENSIVE_REBOUND,None,7:03,3,Spurs,Grizzlies,67 - 61,0,N/A,N/A,N/A
+46,Jaren Jackson,FOUL_ON_FLOOR,None,7:03,3,Grizzlies,Spurs,67 - 61,1,N/A,N/A,N/A
+47,LaMarcus Aldridge,FT,None,7:03,3,Spurs,Grizzlies,68 - 61,0,N/A,1,N/A
+48,Bruno Caboclo,SUBSTITUTION,Jackson Jaren,7:03,3,Grizzlies,Spurs,68 - 61,1,N/A,N/A,N/A
+49,LaMarcus Aldridge,FT,None,7:03,3,Spurs,Grizzlies,69 - 61,0,N/A,1,N/A
+50,DeMar DeRozan,FOUL_ON_FLOOR,None,6:54,3,Spurs,Grizzlies,69 - 61,0,N/A,N/A,N/A
+51,Team,Unknown,None,6:54,3,Grizzlies,Spurs,69 - 61,1,N/A,N/A,N/A
+52,Jonas Valanciunas,FT,None,6:54,3,Grizzlies,Spurs,69 - 62,1,N/A,1,N/A
+53,Jonas Valanciunas,FT_MISS,None,6:54,3,Grizzlies,Spurs,69 - 62,1,N/A,1,N/A
+54,DeMar DeRozan,DEFENSIVE_REBOUND,None,6:51,3,Spurs,Grizzlies,69 - 62,0,N/A,N/A,N/A
+55,LaMarcus Aldridge,FG_ASSISTED,Rudy Gay,6:36,3,Spurs,Grizzlies,71 - 62,0,13,2,Jumper
+56,Delon Wright,TURNOVER,DeMar DeRozan,6:26,3,Grizzlies,Spurs,71 - 62,1,N/A,N/A,N/A
+57,DeMar DeRozan,FG_UNASSISTED,None,6:24,3,Spurs,Grizzlies,73 - 62,0, ,2,Jumper
+58,Delon Wright,FOUL_ON_FLOOR,None,6:24,3,Grizzlies,Spurs,73 - 62,1,N/A,N/A,N/A
+59,Patty Mills,SUBSTITUTION,Forbes Bryn,6:24,3,Spurs,Grizzlies,73 - 62,0,N/A,N/A,N/A
+60,DeMar DeRozan,FT,None,6:24,3,Spurs,Grizzlies,74 - 62,0,N/A,1,N/A
+61,Jonas Valanciunas,FG_UNASSISTED,None,6:08,3,Grizzlies,Spurs,74 - 64,1,6,2,Jumper
+62,LaMarcus Aldridge,FG_MISS,None,5:43,3,Spurs,Grizzlies,74 - 64,0,0,2,Layup
+63,Bruno Caboclo,DEFENSIVE_REBOUND,None,5:41,3,Grizzlies,Spurs,74 - 64,1,N/A,N/A,N/A
+64,Avery Bradley,FG_UNASSISTED,None,5:37,3,Grizzlies,Spurs,74 - 66,1, ,2,Jumper
+65,Team,Unknown,None,5:34,3,Spurs,Grizzlies,74 - 66,0,N/A,N/A,N/A
+66,Jevon Carter,SUBSTITUTION,Wright Delon,5:34,3,Grizzlies,Spurs,74 - 66,1,N/A,N/A,N/A
+67,5 second,Unknown,None,5:34,3,Spurs,Grizzlies,74 - 66,0,N/A,N/A,N/A
+68,Bruno Caboclo,FG_ASSISTED,Avery Bradley,5:25,3,Grizzlies,Spurs,74 - 68,1,0,2,Dunk
+69,Rudy Gay,FG_MISS,None,5:06,3,Spurs,Grizzlies,74 - 68,0,0,2,Layup
+70,Jonas Valanciunas,DEFENSIVE_REBOUND,None,5:03,3,Grizzlies,Spurs,74 - 68,1,N/A,N/A,N/A
+71,Avery Bradley,FG_UNASSISTED,None,4:59,3,Grizzlies,Spurs,74 - 70,1,20,2,Jumper
+72,Marco Belinelli,FG_MISS,None,4:45,3,Spurs,Grizzlies,74 - 70,0, ,2,Jumper
+73,Bruno Caboclo,DEFENSIVE_REBOUND,None,4:43,3,Grizzlies,Spurs,74 - 70,1,N/A,N/A,N/A
+74,Bruno Caboclo,FG_ASSISTED,Jevon Carter,4:24,3,Grizzlies,Spurs,74 - 72,1,20,2,Jumper
+75,Jonas Valanciunas,FOUL_ON_FLOOR,None,4:09,3,Grizzlies,Spurs,74 - 72,1,N/A,N/A,N/A
+76,LaMarcus Aldridge,FT,None,4:09,3,Spurs,Grizzlies,75 - 72,0,N/A,1,N/A
+77,Davis Bertans,SUBSTITUTION,Gay Rudy,4:09,3,Spurs,Grizzlies,75 - 72,0,N/A,N/A,N/A
+78,CJ Miles,SUBSTITUTION,Holiday Justin,4:09,3,Grizzlies,Spurs,75 - 72,1,N/A,N/A,N/A
+79,LaMarcus Aldridge,FT_MISS,None,4:09,3,Spurs,Grizzlies,75 - 72,0,N/A,1,N/A
+80,Jonas Valanciunas,DEFENSIVE_REBOUND,None,4:07,3,Grizzlies,Spurs,75 - 72,1,N/A,N/A,N/A
+81,Avery Bradley,FG_UNASSISTED,None,3:58,3,Grizzlies,Spurs,75 - 74,1,20,2,Jumper
+82,DeMar DeRozan,FG_UNASSISTED,None,3:42,3,Spurs,Grizzlies,77 - 74,0,0,2,Layup
+83,Bruno Caboclo,FG_MISS,None,3:25,3,Grizzlies,Spurs,77 - 74,1,9,2,Jumper
+84,Marco Belinelli,DEFENSIVE_REBOUND,None,3:23,3,Spurs,Grizzlies,77 - 74,0,N/A,N/A,N/A
+85,Patty Mills,FG_ASSISTED,Marco Belinelli,3:20,3,Spurs,Grizzlies,80 - 74,0,25,3,Jumper
+86,CJ Miles,FG_MISS,None,2:53,3,Grizzlies,Spurs,80 - 74,1, ,2,Jumper
+87,Jonas Valanciunas,OFFENSIVE_REBOUND,None,2:49,3,Grizzlies,Spurs,80 - 74,1,N/A,N/A,N/A
+88,Jonas Valanciunas,FG_UNASSISTED,None,2:49,3,Grizzlies,Spurs,80 - 76,1, ,2,Jumper
+89,Jonas Valanciunas,FOUL_ON_FLOOR,None,2:32,3,Grizzlies,Spurs,80 - 76,1,N/A,N/A,N/A
+90,LaMarcus Aldridge,FT,None,2:32,3,Spurs,Grizzlies,81 - 76,0,N/A,1,N/A
+91,Bryn Forbes,SUBSTITUTION,DeRozan DeMar,2:32,3,Spurs,Grizzlies,81 - 76,0,N/A,N/A,N/A
+92,LaMarcus Aldridge,FT_MISS,None,2:32,3,Spurs,Grizzlies,81 - 76,0,N/A,1,N/A
+93,CJ Miles,DEFENSIVE_REBOUND,None,2:30,3,Grizzlies,Spurs,81 - 76,1,N/A,N/A,N/A
+94,Avery Bradley,FG_ASSISTED,Jonas Valanciunas,2:21,3,Grizzlies,Spurs,81 - 78,1,22,2,Jumper
+95,Patty Mills,FG_UNASSISTED,None,2:03,3,Spurs,Grizzlies,84 - 78,0,27,3,Jumper
+96,LaMarcus Aldridge,FOUL_ON_FLOOR,None,1:49,3,Spurs,Grizzlies,84 - 78,0,N/A,N/A,N/A
+97,Jonas Valanciunas,FT_MISS,None,1:49,3,Grizzlies,Spurs,84 - 78,1,N/A,1,N/A
+98,Team,OFFENSIVE_REBOUND,None,1:49,3,Grizzlies,Spurs,84 - 78,1,N/A,N/A,N/A
+99,Jakob Poeltl,SUBSTITUTION,Aldridge LaMarcus,1:49,3,Spurs,Grizzlies,84 - 78,0,N/A,N/A,N/A
+100,Jonas Valanciunas,FT,None,1:49,3,Grizzlies,Spurs,84 - 79,1,N/A,1,N/A
+101,CJ Miles,FOUL_ON_FLOOR,None,1:36,3,Grizzlies,Spurs,84 - 79,1,N/A,N/A,N/A
+102,Marco Belinelli,FT,None,1:36,3,Spurs,Grizzlies,85 - 79,0,N/A,1,N/A
+103,Marco Belinelli,FT,None,1:36,3,Spurs,Grizzlies,86 - 79,0,N/A,1,N/A
+104,Jonas Valanciunas,TURNOVER,None,1:25,3,Grizzlies,Spurs,86 - 79,1,N/A,N/A,N/A
+105,Bruno Caboclo,FOUL_ON_FLOOR,None,1:12,3,Grizzlies,Spurs,86 - 79,1,N/A,N/A,N/A
+106,Davis Bertans,FT,None,1:12,3,Spurs,Grizzlies,87 - 79,0,N/A,1,N/A
+107,Davis Bertans,FT,None,1:12,3,Spurs,Grizzlies,88 - 79,0,N/A,1,N/A
+108,Davis Bertans,FT,None,1:12,3,Spurs,Grizzlies,89 - 79,0,N/A,1,N/A
+109,Jonas Valanciunas,FG_UNASSISTED,None,52.8,3,Grizzlies,Spurs,89 - 81,1,4,2,Jumper
+110,Bryn Forbes,FG_UNASSISTED,None,46.0,3,Spurs,Grizzlies,91 - 81,0,14,2,Jumper
+111,Avery Bradley,FG_MISS,None,39.3,3,Grizzlies,Spurs,91 - 81,1,26,3,Jumper
+112,Bruno Caboclo,OFFENSIVE_REBOUND,None,34.2,3,Grizzlies,Spurs,91 - 81,1,N/A,N/A,N/A
+113,Jevon Carter,FG_ASSISTED,Bruno Caboclo,32.7,3,Grizzlies,Spurs,91 - 84,1,23,3,Jumper
+114,Patty Mills,FG_UNASSISTED,None,15.3,3,Spurs,Grizzlies,94 - 84,0,26,3,Jumper
+115,Jevon Carter,FG_MISS,None,2.4,3,Grizzlies,Spurs,94 - 84,1,0,2,Layup
+116,Jonas Valanciunas,OFFENSIVE_REBOUND,None,1.5,3,Grizzlies,Spurs,94 - 84,1,N/A,N/A,N/A
+117,Jonas Valanciunas,FG_UNASSISTED,None,1.5,3,Grizzlies,Spurs,94 - 86,1, ,2,Jumper
+118,End of,Unknown,None,0.0,3,Grizzlies,Spurs,94 - 86,1,N/A,N/A,N/A
+0,Joakim Noah,SUBSTITUTION,Bradley Avery,12:00,4,Grizzlies,Spurs,94 - 86,1,N/A,N/A,N/A
+1,Delon Wright,SUBSTITUTION,Valanciunas Jonas,12:00,4,Grizzlies,Spurs,94 - 86,1,N/A,N/A,N/A
+2,DeMar DeRozan,SUBSTITUTION,Belinelli Marco,12:00,4,Spurs,Grizzlies,94 - 86,0,N/A,N/A,N/A
+3,Jevon Carter,FG_MISS,None,11:40,4,Grizzlies,Spurs,94 - 86,1, ,2,Jumper
+4,Bryn Forbes,DEFENSIVE_REBOUND,None,11:38,4,Spurs,Grizzlies,94 - 86,0,N/A,N/A,N/A
+5,DeMar DeRozan,FG_MISS,None,11:28,4,Spurs,Grizzlies,94 - 86,0, ,2,Jumper
+6,Delon Wright,DEFENSIVE_REBOUND,None,11:24,4,Grizzlies,Spurs,94 - 86,1,N/A,N/A,N/A
+7,Jevon Carter,FG_MISS,None,11:20,4,Grizzlies,Spurs,94 - 86,1,23,2,Jumper
+8,Davis Bertans,DEFENSIVE_REBOUND,None,11:16,4,Spurs,Grizzlies,94 - 86,0,N/A,N/A,N/A
+9,Jakob Poeltl,TURNOVER,Joakim Noah,11:10,4,Spurs,Grizzlies,94 - 86,0,N/A,N/A,N/A
+10,CJ Miles,FG_MISS,None,11:01,4,Grizzlies,Spurs,94 - 86,1,27,3,Jumper
+11,Team,OFFENSIVE_REBOUND,None,10:59,4,Grizzlies,Spurs,94 - 86,1,N/A,N/A,N/A
+12,Justin Holiday,SUBSTITUTION,Carter Jevon,10:59,4,Grizzlies,Spurs,94 - 86,1,N/A,N/A,N/A
+13,Bruno Caboclo,FG_MISS,None,10:52,4,Grizzlies,Spurs,94 - 86,1,7,2,Jumper
+14,Jakob Poeltl,DEFENSIVE_REBOUND,None,10:49,4,Spurs,Grizzlies,94 - 86,0,N/A,N/A,N/A
+15,Bryn Forbes,FG_MISS,None,10:43,4,Spurs,Grizzlies,94 - 86,0, ,2,Jumper
+16,Jakob Poeltl,OFFENSIVE_REBOUND,None,10:41,4,Spurs,Grizzlies,94 - 86,0,N/A,N/A,N/A
+17,DeMar DeRozan,FG_UNASSISTED,None,10:30,4,Spurs,Grizzlies,96 - 86,0,15,2,Jumper
+18,Justin Holiday,FG_UNASSISTED,None,10:09,4,Grizzlies,Spurs,96 - 88,1,15,2,Jumper
+19,Patty Mills,FG_MISS,None,9:44,4,Spurs,Grizzlies,96 - 88,0,25,3,Jumper
+20,Justin Holiday,DEFENSIVE_REBOUND,None,9:43,4,Grizzlies,Spurs,96 - 88,1,N/A,N/A,N/A
+21,Joakim Noah,FG_ASSISTED,Delon Wright,9:32,4,Grizzlies,Spurs,96 - 90,1,0,2,Dunk
+22,Team,Unknown,None,9:30,4,Spurs,Grizzlies,96 - 90,0,N/A,N/A,N/A
+23,Rudy Gay,SUBSTITUTION,Mills Patty,9:30,4,Spurs,Grizzlies,96 - 90,0,N/A,N/A,N/A
+24,Marco Belinelli,SUBSTITUTION,Bertans Davis,9:30,4,Spurs,Grizzlies,96 - 90,0,N/A,N/A,N/A
+25,Marco Belinelli,TURNOVER,Joakim Noah,9:07,4,Spurs,Grizzlies,96 - 90,0,N/A,N/A,N/A
+26,Justin Holiday,FG_UNASSISTED,None,9:03,4,Grizzlies,Spurs,96 - 92,1,0,2,Dunk
+27,Bryn Forbes,FG_MISS,None,8:50,4,Spurs,Grizzlies,96 - 92,0,17,2,Jumper
+28,Bruno Caboclo,DEFENSIVE_REBOUND,None,8:48,4,Grizzlies,Spurs,96 - 92,1,N/A,N/A,N/A
+29,CJ Miles,FG_ASSISTED,Joakim Noah,8:37,4,Grizzlies,Spurs,96 - 95,1,25,3,Jumper
+30,Bryn Forbes,FG_UNASSISTED,None,8:14,4,Spurs,Grizzlies,98 - 95,0,22,2,Jumper
+31,Delon Wright,FG_MISS,None,7:53,4,Grizzlies,Spurs,98 - 95,1,16,2,Jumper
+32,Jakob Poeltl,DEFENSIVE_REBOUND,None,7:51,4,Spurs,Grizzlies,98 - 95,0,N/A,N/A,N/A
+33,Bryn Forbes,FG_MISS,None,7:36,4,Spurs,Grizzlies,98 - 95,0, ,2,Jumper
+34,Joakim Noah,DEFENSIVE_REBOUND,None,7:33,4,Grizzlies,Spurs,98 - 95,1,N/A,N/A,N/A
+35,Delon Wright,FG_MISS,None,7:30,4,Grizzlies,Spurs,98 - 95,1,25,3,Jumper
+36,Rudy Gay,DEFENSIVE_REBOUND,None,7:27,4,Spurs,Grizzlies,98 - 95,0,N/A,N/A,N/A
+37,Bruno Caboclo,FOUL_ON_FLOOR,None,7:10,4,Grizzlies,Spurs,98 - 95,1,N/A,N/A,N/A
+38,Rudy Gay,FT_MISS,None,7:10,4,Spurs,Grizzlies,98 - 95,0,N/A,1,N/A
+39,Team,OFFENSIVE_REBOUND,None,7:10,4,Spurs,Grizzlies,98 - 95,0,N/A,N/A,N/A
+40,Jaren Jackson,SUBSTITUTION,Caboclo Bruno,7:10,4,Grizzlies,Spurs,98 - 95,1,N/A,N/A,N/A
+41,Avery Bradley,SUBSTITUTION,Wright Delon,7:10,4,Grizzlies,Spurs,98 - 95,1,N/A,N/A,N/A
+42,LaMarcus Aldridge,SUBSTITUTION,Forbes Bryn,7:10,4,Spurs,Grizzlies,98 - 95,0,N/A,N/A,N/A
+43,Patty Mills,SUBSTITUTION,Poeltl Jakob,7:10,4,Spurs,Grizzlies,98 - 95,0,N/A,N/A,N/A
+44,Rudy Gay,FT,None,7:10,4,Spurs,Grizzlies,99 - 95,0,N/A,1,N/A
+45,CJ Miles,FG_MISS,None,7:00,4,Grizzlies,Spurs,99 - 95,1,25,3,Jumper
+46,LaMarcus Aldridge,DEFENSIVE_REBOUND,None,6:56,4,Spurs,Grizzlies,99 - 95,0,N/A,N/A,N/A
+47,Rudy Gay,FG_MISS,None,6:46,4,Spurs,Grizzlies,99 - 95,0,27,3,Jumper
+48,Patty Mills,OFFENSIVE_REBOUND,None,6:42,4,Spurs,Grizzlies,99 - 95,0,N/A,N/A,N/A
+49,Marco Belinelli,FG_MISS,None,6:40,4,Spurs,Grizzlies,99 - 95,0,12,2,Jumper
+50,Rudy Gay,OFFENSIVE_REBOUND,None,6:36,4,Spurs,Grizzlies,99 - 95,0,N/A,N/A,N/A
+51,Rudy Gay,FG_MISS,None,6:36,4,Spurs,Grizzlies,99 - 95,0, ,2,Jumper
+52,Jaren Jackson,DEFENSIVE_REBOUND,None,6:36,4,Grizzlies,Spurs,99 - 95,1,N/A,N/A,N/A
+53,Jaren Jackson,FG_ASSISTED,Avery Bradley,6:26,4,Grizzlies,Spurs,99 - 98,1,28,3,Jumper
+54,Rudy Gay,FG_MISS,None,6:05,4,Spurs,Grizzlies,99 - 98,0, ,2,Jumper
+55,Justin Holiday,DEFENSIVE_REBOUND,None,6:02,4,Grizzlies,Spurs,99 - 98,1,N/A,N/A,N/A
+56,Avery Bradley,FG_MISS,None,5:47,4,Grizzlies,Spurs,99 - 98,1,21,2,Jumper
+57,LaMarcus Aldridge,DEFENSIVE_REBOUND,None,5:45,4,Spurs,Grizzlies,99 - 98,0,N/A,N/A,N/A
+58,Marco Belinelli,FG_MISS,None,5:34,4,Spurs,Grizzlies,99 - 98,0,26,3,Jumper
+59,Joakim Noah,DEFENSIVE_REBOUND,None,5:31,4,Grizzlies,Spurs,99 - 98,1,N/A,N/A,N/A
+60,Team,Unknown,None,5:26,4,Grizzlies,Spurs,99 - 98,1,N/A,N/A,N/A
+61,Jaren Jackson,FG_MISS,LaMarcus Aldridge,5:12,4,Spurs,Grizzlies,99 - 98,1,3,2,Jumper
+62,LaMarcus Aldridge,DEFENSIVE_REBOUND,None,5:09,4,Spurs,Grizzlies,99 - 98,0,N/A,N/A,N/A
+63,Marco Belinelli,FG_ASSISTED,Patty Mills,5:07,4,Spurs,Grizzlies,101 - 98,0, ,2,Jumper
+64,Avery Bradley,FG_ASSISTED,Joakim Noah,4:50,4,Grizzlies,Spurs,101 - 100,1,22,2,Jumper
+65,Marco Belinelli,FG_MISS,None,4:31,4,Spurs,Grizzlies,101 - 100,0,1,3,Jumper
+66,Avery Bradley,DEFENSIVE_REBOUND,None,4:28,4,Grizzlies,Spurs,101 - 100,1,N/A,N/A,N/A
+67,Avery Bradley,FG_MISS,None,4:21,4,Grizzlies,Spurs,101 - 100,1,0,2,Layup
+68,Team,OFFENSIVE_REBOUND,None,4:21,4,Grizzlies,Spurs,101 - 100,1,N/A,N/A,N/A
+69,Joakim Noah,FG_MISS,None,4:17,4,Grizzlies,Spurs,101 - 100,1,0,2,Layup
+70,Jaren Jackson,OFFENSIVE_REBOUND,None,4:13,4,Grizzlies,Spurs,101 - 100,1,N/A,N/A,N/A
+71,Jaren Jackson,FG_MISS,None,4:13,4,Grizzlies,Spurs,101 - 100,1,1,2,Jumper
+72,Rudy Gay,DEFENSIVE_REBOUND,None,4:12,4,Spurs,Grizzlies,101 - 100,0,N/A,N/A,N/A
+73,Joakim Noah,FOUL_ON_FLOOR,None,4:05,4,Grizzlies,Spurs,101 - 100,1,N/A,N/A,N/A
+74,Jonas Valanciunas,SUBSTITUTION,Noah Joakim,4:05,4,Grizzlies,Spurs,101 - 100,1,N/A,N/A,N/A
+75,Marco Belinelli,FG_MISS,None,3:59,4,Spurs,Grizzlies,101 - 100,0,26,3,Jumper
+76,Jonas Valanciunas,DEFENSIVE_REBOUND,None,3:57,4,Grizzlies,Spurs,101 - 100,1,N/A,N/A,N/A
+77,Avery Bradley,FG_UNASSISTED,None,3:50,4,Grizzlies,Spurs,101 - 102,1,15,2,Jumper
+78,DeMar DeRozan,FG_MISS,None,3:35,4,Spurs,Grizzlies,101 - 102,0,14,2,Jumper
+79,LaMarcus Aldridge,OFFENSIVE_REBOUND,None,3:31,4,Spurs,Grizzlies,101 - 102,0,N/A,N/A,N/A
+80,LaMarcus Aldridge,FG_UNASSISTED,None,3:31,4,Spurs,Grizzlies,103 - 102,0,1,2,Jumper
+81,Jonas Valanciunas,FG_ASSISTED,CJ Miles,3:21,4,Grizzlies,Spurs,103 - 104,1,0,2,Layup
+82,Team,Unknown,None,3:19,4,Spurs,Grizzlies,103 - 104,0,N/A,N/A,N/A
+83,Delon Wright,SUBSTITUTION,Miles CJ,3:19,4,Grizzlies,Spurs,103 - 104,1,N/A,N/A,N/A
+84,Davis Bertans,SUBSTITUTION,Belinelli Marco,3:19,4,Spurs,Grizzlies,103 - 104,0,N/A,N/A,N/A
+85,LaMarcus Aldridge,FG_ASSISTED,Rudy Gay,3:02,4,Spurs,Grizzlies,105 - 104,0,1,2,Jumper
+86,Jaren Jackson,FG_MISS,Rudy Gay,2:44,4,Spurs,Grizzlies,105 - 104,1,8,2,Jumper
+87,Rudy Gay,DEFENSIVE_REBOUND,None,2:40,4,Spurs,Grizzlies,105 - 104,0,N/A,N/A,N/A
+88,LaMarcus Aldridge,FG_ASSISTED,Rudy Gay,2:26,4,Spurs,Grizzlies,107 - 104,0,1,2,Jumper
+89,Jonas Valanciunas,FG_MISS,None,2:01,4,Grizzlies,Spurs,107 - 104,1,1,2,Jumper
+90,Rudy Gay,DEFENSIVE_REBOUND,None,1:59,4,Spurs,Grizzlies,107 - 104,0,N/A,N/A,N/A
+91,Davis Bertans,FG_MISS,None,1:45,4,Spurs,Grizzlies,107 - 104,0,17,2,Jumper
+92,Delon Wright,DEFENSIVE_REBOUND,None,1:40,4,Grizzlies,Spurs,107 - 104,1,N/A,N/A,N/A
+93,Delon Wright,FG_MISS,None,1:33,4,Grizzlies,Spurs,107 - 104,1,15,2,Jumper
+94,Rudy Gay,DEFENSIVE_REBOUND,None,1:31,4,Spurs,Grizzlies,107 - 104,0,N/A,N/A,N/A
+95,DeMar DeRozan,FG_MISS,None,1:19,4,Spurs,Grizzlies,107 - 104,0,22,2,Jumper
+96,Delon Wright,DEFENSIVE_REBOUND,None,1:16,4,Grizzlies,Spurs,107 - 104,1,N/A,N/A,N/A
+97,Jonas Valanciunas,FG_ASSISTED,Avery Bradley,1:07,4,Grizzlies,Spurs,107 - 106,1,0,2,Layup
+98,Jonas Valanciunas,FOUL_ON_FLOOR,None,51.1,4,Grizzlies,Spurs,107 - 106,1,N/A,N/A,N/A
+99,CJ Miles,SUBSTITUTION,Valanciunas Jonas,51.1,4,Grizzlies,Spurs,107 - 106,1,N/A,N/A,N/A
+100,LaMarcus Aldridge,FT,None,51.1,4,Spurs,Grizzlies,108 - 106,0,N/A,1,N/A
+101,LaMarcus Aldridge,FT_MISS,None,51.1,4,Spurs,Grizzlies,108 - 106,0,N/A,1,N/A
+102,Justin Holiday,DEFENSIVE_REBOUND,None,49.7,4,Grizzlies,Spurs,108 - 106,1,N/A,N/A,N/A
+103,Jaren Jackson,FG_MISS,None,39.4,4,Grizzlies,Spurs,108 - 106,1,27,3,Jumper
+104,Davis Bertans,DEFENSIVE_REBOUND,None,36.4,4,Spurs,Grizzlies,108 - 106,0,N/A,N/A,N/A
+105,DeMar DeRozan,FG_MISS,None,16.3,4,Spurs,Grizzlies,108 - 106,0,13,2,Jumper
+106,Avery Bradley,DEFENSIVE_REBOUND,None,12.4,4,Grizzlies,Spurs,108 - 106,1,N/A,N/A,N/A
+107,LaMarcus Aldridge,FOUL_ON_FLOOR,None,1.0,4,Spurs,Grizzlies,108 - 106,0,N/A,N/A,N/A
+108,Jaren Jackson,FT_MISS,None,1.0,4,Grizzlies,Spurs,108 - 106,1,N/A,1,N/A
+109,Team,OFFENSIVE_REBOUND,None,1.0,4,Grizzlies,Spurs,108 - 106,1,N/A,N/A,N/A
+110,Jonas Valanciunas,SUBSTITUTION,Holiday Justin,1.0,4,Grizzlies,Spurs,108 - 106,1,N/A,N/A,N/A
+111,Joakim Noah,SUBSTITUTION,Wright Delon,1.0,4,Grizzlies,Spurs,108 - 106,1,N/A,N/A,N/A
+112,Jakob Poeltl,SUBSTITUTION,Bertans Davis,1.0,4,Spurs,Grizzlies,108 - 106,0,N/A,N/A,N/A
+113,Jaren Jackson,FT,None,1.0,4,Grizzlies,Spurs,108 - 107,1,N/A,1,N/A
+114,Team,Unknown,None,1.0,4,Spurs,Grizzlies,108 - 107,0,N/A,N/A,N/A
+115,Justin Holiday,SUBSTITUTION,Miles CJ,1.0,4,Grizzlies,Spurs,108 - 107,1,N/A,N/A,N/A
+116,Bruno Caboclo,SUBSTITUTION,Valanciunas Jonas,1.0,4,Grizzlies,Spurs,108 - 107,1,N/A,N/A,N/A
+117,Davis Bertans,SUBSTITUTION,Poeltl Jakob,1.0,4,Spurs,Grizzlies,108 - 107,0,N/A,N/A,N/A
+118,End of,Unknown,None,0.0,4,Grizzlies,Spurs,108 - 107,1,N/A,N/A,N/A
+119,End of,Unknown,None,0.0,4,Grizzlies,Spurs,108 - 107,1,N/A,N/A,N/A

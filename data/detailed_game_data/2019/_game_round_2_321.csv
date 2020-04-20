@@ -1,0 +1,438 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,DeAndre Jordan,JUMP_BALL,None,12:00,1,Mavericks,Suns,0 - 0,0,N/A,N/A,N/A
+1,Wesley Matthews,FG_MISS,None,11:43,1,Mavericks,Suns,0 - 0,0,-,3,Jumper
+2,Deandre Ayton,DEFENSIVE_REBOUND,None,11:39,1,Suns,Mavericks,0 - 0,1,N/A,N/A,N/A
+3,Devin Booker,FG_MISS,None,11:26,1,Suns,Mavericks,0 - 0,1,26,3,Jumper
+4,Luka Doncic,DEFENSIVE_REBOUND,None,11:23,1,Mavericks,Suns,0 - 0,0,N/A,N/A,N/A
+5,DeAndre Jordan,FG_ASSISTED,Luka Doncic,11:16,1,Mavericks,Suns,2 - 0,0,0,2,Dunk
+6,Deandre Ayton,FG_ASSISTED,Ryan Anderson,11:04,1,Suns,Mavericks,2 - 2,1,0,2,Layup
+7,Luka Doncic,FOUL_ON_FLOOR,None,11:04,1,Mavericks,Suns,2 - 2,0,N/A,N/A,N/A
+8,Deandre Ayton,FT,None,11:04,1,Suns,Mavericks,2 - 3,1,N/A,1,N/A
+9,Isaiah Canaan,FOUL_ON_FLOOR,None,10:48,1,Suns,Mavericks,2 - 3,1,N/A,N/A,N/A
+10,Luka Doncic,FG_MISS,None,10:39,1,Mavericks,Suns,2 - 3,0,21,2,Jumper
+11,Deandre Ayton,DEFENSIVE_REBOUND,None,10:38,1,Suns,Mavericks,2 - 3,1,N/A,N/A,N/A
+12,Deandre Ayton,FG_ASSISTED,Devin Booker,10:24,1,Suns,Mavericks,2 - 5,1,18,2,Jumper
+13,Wesley Matthews,FG_MISS,None,10:06,1,Mavericks,Suns,2 - 5,0,25,3,Jumper
+14,Deandre Ayton,DEFENSIVE_REBOUND,None,10:03,1,Suns,Mavericks,2 - 5,1,N/A,N/A,N/A
+15,Devin Booker,TURNOVER,DeAndre Jordan,9:56,1,Suns,Mavericks,2 - 5,1,N/A,N/A,N/A
+16,Luka Doncic,FG_ASSISTED,Wesley Matthews,9:49,1,Mavericks,Suns,4 - 5,0,0,2,Dunk
+17,Isaiah Canaan,FG_ASSISTED,Devin Booker,9:36,1,Suns,Mavericks,4 - 8,1,26,3,Jumper
+18,DeAndre Jordan,FOUL_ON_FLOOR,None,9:36,1,Mavericks,Suns,4 - 8,0,N/A,N/A,N/A
+19,Deandre Ayton,FT,None,9:36,1,Suns,Mavericks,4 - 9,1,N/A,1,N/A
+20,Luka Doncic,FG_MISS,None,9:21,1,Mavericks,Suns,4 - 8,0,26,3,Jumper
+21,Ryan Anderson,DEFENSIVE_REBOUND,None,9:16,1,Suns,Mavericks,4 - 8,1,N/A,N/A,N/A
+22,Devin Booker,FG_ASSISTED,Isaiah Canaan,9:07,1,Suns,Mavericks,4 - 10,1,0,2,Layup
+23,Team,Unknown,None,9:07,1,Mavericks,Suns,4 - 10,0,N/A,N/A,N/A
+24,Devin Booker,FOUL_ON_FLOOR,None,8:58,1,Suns,Mavericks,4 - 11,1,N/A,N/A,N/A
+25,Luka Doncic,FG_ASSISTED,DeAndre Jordan,8:52,1,Mavericks,Suns,6 - 11,0,0,2,Layup
+26,Devin Booker,FG_ASSISTED,Deandre Ayton,8:32,1,Suns,Mavericks,6 - 13,1,0,2,Layup
+27,Dorian Finney-Smith,FG_MISS,None,8:20,1,Mavericks,Suns,6 - 13,0,26,3,Jumper
+28,Isaiah Canaan,DEFENSIVE_REBOUND,None,8:19,1,Suns,Mavericks,6 - 13,1,N/A,N/A,N/A
+29,Trevor Ariza,FG_MISS,None,8:00,1,Suns,Mavericks,6 - 13,1,27,3,Jumper
+30,Luka Doncic,DEFENSIVE_REBOUND,None,7:56,1,Mavericks,Suns,6 - 13,0,N/A,N/A,N/A
+31,DeAndre Jordan,FG_ASSISTED,Luka Doncic,7:50,1,Mavericks,Suns,8 - 13,0,0,2,Layup
+32,Ryan Anderson,TURNOVER,Dennis Smith,7:39,1,Suns,Mavericks,8 - 13,1,N/A,N/A,N/A
+33,Dennis Smith,FG_UNASSISTED,None,7:36,1,Mavericks,Suns,10 - 13,0,0,2,Dunk
+34,Isaiah Canaan,FG_MISS,None,7:21,1,Suns,Mavericks,10 - 13,1, ,3,Jumper
+35,DeAndre Jordan,DEFENSIVE_REBOUND,None,7:18,1,Mavericks,Suns,10 - 13,0,N/A,N/A,N/A
+36,Trevor Ariza,FOUL_ON_FLOOR,None,7:13,1,Suns,Mavericks,10 - 13,1,N/A,N/A,N/A
+37,DeAndre Jordan,FG_ASSISTED,Luka Doncic,7:06,1,Mavericks,Suns,12 - 13,0,0,2,Dunk
+38,Deandre Ayton,FG_ASSISTED,Isaiah Canaan,6:43,1,Suns,Mavericks,12 - 15,1,20,2,Jumper
+39,DeAndre Jordan,FG_MISS,None,6:21,1,Mavericks,Suns,12 - 15,0,1,2,Jumper
+40,Trevor Ariza,DEFENSIVE_REBOUND,None,6:19,1,Suns,Mavericks,12 - 15,1,N/A,N/A,N/A
+41,Trevor Ariza,FG_ASSISTED,Devin Booker,6:14,1,Suns,Mavericks,12 - 18,1,26,3,Jumper
+42,DeAndre Jordan,FG_MISS,None,5:47,1,Mavericks,Suns,12 - 18,0,1,2,Jumper
+43,DeAndre Jordan,OFFENSIVE_REBOUND,None,5:46,1,Mavericks,Suns,12 - 18,0,N/A,N/A,N/A
+44,DeAndre Jordan,FG_MISS,None,5:46,1,Mavericks,Suns,12 - 18,0, ,2,Jumper
+45,Ryan Anderson,DEFENSIVE_REBOUND,None,5:46,1,Suns,Mavericks,12 - 18,1,N/A,N/A,N/A
+46,Devin Booker,FG_UNASSISTED,None,5:38,1,Suns,Mavericks,12 - 20,1, ,2,Jumper
+47,DeAndre Jordan,FG_ASSISTED,Dennis Smith,5:23,1,Mavericks,Suns,14 - 20,0,0,2,Dunk
+48,Trevor Ariza,FG_MISS,None,5:07,1,Suns,Mavericks,14 - 20,1,0,2,Layup
+49,DeAndre Jordan,DEFENSIVE_REBOUND,None,5:05,1,Mavericks,Suns,14 - 20,0,N/A,N/A,N/A
+50,Dennis Smith,FG_MISS,None,4:59,1,Mavericks,Suns,14 - 20,0,25,3,Jumper
+51,Wesley Matthews,OFFENSIVE_REBOUND,None,4:57,1,Mavericks,Suns,14 - 20,0,N/A,N/A,N/A
+52,Luka Doncic,FG_ASSISTED,Wesley Matthews,4:48,1,Mavericks,Suns,16 - 20,0, ,2,Jumper
+53,Team,Unknown,None,4:47,1,Suns,Mavericks,16 - 20,1,N/A,N/A,N/A
+54,TJ Warren,SUBSTITUTION,Anderson Ryan,4:47,1,Suns,Mavericks,16 - 20,1,N/A,N/A,N/A
+55,Josh Jackson,SUBSTITUTION,Booker Devin,4:47,1,Suns,Mavericks,16 - 20,1,N/A,N/A,N/A
+56,Devin Harris,SUBSTITUTION,for game,4:47,1,Mavericks,Suns,16 - 20,0,N/A,N/A,N/A
+57,enters the,SUBSTITUTION,Matthews Wesley,4:47,1,Mavericks,Suns,16 - 20,0,N/A,N/A,N/A
+58,Trevor Ariza,FG_ASSISTED,TJ Warren,4:32,1,Suns,Mavericks,16 - 23,1,26,3,Jumper
+59,Dennis Smith,FG_MISS,None,4:15,1,Mavericks,Suns,16 - 23,0,0,2,Layup
+60,Josh Jackson,DEFENSIVE_REBOUND,None,4:15,1,Suns,Mavericks,16 - 23,1,N/A,N/A,N/A
+61,Luka Doncic,FOUL_ON_FLOOR,None,4:11,1,Mavericks,Suns,16 - 23,0,N/A,N/A,N/A
+62,Josh Jackson,FT_MISS,None,4:11,1,Suns,Mavericks,16 - 23,1,N/A,1,N/A
+63,Team,OFFENSIVE_REBOUND,None,4:11,1,Suns,Mavericks,16 - 23,1,N/A,N/A,N/A
+64,Tyson Chandler,SUBSTITUTION,Ayton Deandre,4:11,1,Suns,Mavericks,16 - 23,1,N/A,N/A,N/A
+65,Josh Jackson,FT,None,4:11,1,Suns,Mavericks,16 - 24,1,N/A,1,N/A
+66,J.J. Barea,SUBSTITUTION,Doncic Luka,4:11,1,Mavericks,Suns,16 - 24,0,N/A,N/A,N/A
+67,J.J. Barea,FG_UNASSISTED,None,3:56,1,Mavericks,Suns,18 - 24,0,0,2,Layup
+68,Isaiah Canaan,FG_MISS,None,3:40,1,Suns,Mavericks,18 - 24,1,26,3,Jumper
+69,Dorian Finney-Smith,DEFENSIVE_REBOUND,None,3:40,1,Mavericks,Suns,18 - 24,0,N/A,N/A,N/A
+70,Dennis Smith,FG_MISS,None,3:29,1,Mavericks,Suns,18 - 24,0,12,2,Jumper
+71,Dennis Smith,OFFENSIVE_REBOUND,None,3:28,1,Mavericks,Suns,18 - 24,0,N/A,N/A,N/A
+72,Devin Harris,FG_MISS,None,3:20,1,Mavericks,Suns,18 - 24,0,26,3,Jumper
+73,Tyson Chandler,DEFENSIVE_REBOUND,None,3:16,1,Suns,Mavericks,18 - 24,1,N/A,N/A,N/A
+74,TJ Warren,FG_ASSISTED,Trevor Ariza,3:08,1,Suns,Mavericks,18 - 27,1, ,3,Jumper
+75,DeAndre Jordan,FG_ASSISTED,J.J. Barea,2:57,1,Mavericks,Suns,20 - 27,0,0,2,Layup
+76,Tyson Chandler,FOUL_ON_FLOOR,None,2:57,1,Suns,Mavericks,20 - 27,1,N/A,N/A,N/A
+77,Maximilian Kleber,SUBSTITUTION,Finney-Smith Dorian,2:57,1,Mavericks,Suns,20 - 27,0,N/A,N/A,N/A
+78,Ryan Broekhoff,SUBSTITUTION,Smith Dennis,2:57,1,Mavericks,Suns,20 - 27,0,N/A,N/A,N/A
+79,DeAndre Jordan,FT,None,2:57,1,Mavericks,Suns,21 - 27,0,N/A,1,N/A
+80,Elie Okobo,SUBSTITUTION,Canaan Isaiah,2:57,1,Suns,Mavericks,21 - 27,1,N/A,N/A,N/A
+81,TJ Warren,FG_MISS,None,2:33,1,Suns,Mavericks,21 - 27,1,13,2,Jumper
+82,DeAndre Jordan,DEFENSIVE_REBOUND,None,2:31,1,Mavericks,Suns,21 - 27,0,N/A,N/A,N/A
+83,Ryan Broekhoff,FG_MISS,None,2:23,1,Mavericks,Suns,21 - 27,0,23,3,Jumper
+84,DeAndre Jordan,OFFENSIVE_REBOUND,None,2:20,1,Mavericks,Suns,21 - 27,0,N/A,N/A,N/A
+85,Ryan Broekhoff,FG_ASSISTED,Devin Harris,2:10,1,Mavericks,Suns,24 - 27,0,23,3,Jumper
+86,Josh Jackson,FG_UNASSISTED,None,1:51,1,Suns,Mavericks,24 - 29,1,5,2,Jumper
+87,J.J. Barea,FG_MISS,None,1:38,1,Mavericks,Suns,24 - 29,0, ,2,Jumper
+88,Tyson Chandler,DEFENSIVE_REBOUND,None,1:36,1,Suns,Mavericks,24 - 29,1,N/A,N/A,N/A
+89,TJ Warren,FG_ASSISTED,Elie Okobo,1:28,1,Suns,Mavericks,24 - 32,1,25,3,Jumper
+90,J.J. Barea,FG_MISS,None,1:12,1,Mavericks,Suns,24 - 32,0,25,3,Jumper
+91,Trevor Ariza,DEFENSIVE_REBOUND,None,1:09,1,Suns,Mavericks,24 - 32,1,N/A,N/A,N/A
+92,Trevor Ariza,FG_UNASSISTED,None,1:01,1,Suns,Mavericks,24 - 34,1,0,2,Layup
+93,Team,Unknown,None,1:01,1,Mavericks,Suns,24 - 34,0,N/A,N/A,N/A
+94,Devin Booker,SUBSTITUTION,Ariza Trevor,1:01,1,Suns,Mavericks,24 - 34,1,N/A,N/A,N/A
+95,Dwight Powell,SUBSTITUTION,Jordan DeAndre,1:01,1,Mavericks,Suns,24 - 34,0,N/A,N/A,N/A
+96,Maximilian Kleber,TURNOVER,Tyson Chandler,47.9,1,Mavericks,Suns,24 - 34,0,N/A,N/A,N/A
+97,Josh Jackson,TURNOVER,J.J. Barea,42.0,1,Suns,Mavericks,24 - 34,1,N/A,N/A,N/A
+98,Ryan Broekhoff,FG_MISS,None,35.8,1,Mavericks,Suns,24 - 34,0,23,3,Jumper
+99,Team,OFFENSIVE_REBOUND,None,34.4,1,Mavericks,Suns,24 - 34,0,N/A,N/A,N/A
+100,Tyson Chandler,FOUL_ON_FLOOR,None,34.4,1,Suns,Mavericks,24 - 34,1,N/A,N/A,N/A
+101,Dwight Powell,FT_MISS,None,34.4,1,Mavericks,Suns,24 - 34,0,N/A,1,N/A
+102,Team,OFFENSIVE_REBOUND,None,34.4,1,Mavericks,Suns,24 - 34,0,N/A,N/A,N/A
+103,Wesley Matthews,SUBSTITUTION,Broekhoff Ryan,34.4,1,Mavericks,Suns,24 - 34,0,N/A,N/A,N/A
+104,Dwight Powell,FT_MISS,None,34.4,1,Mavericks,Suns,24 - 34,0,N/A,1,N/A
+105,Tyson Chandler,DEFENSIVE_REBOUND,None,31.3,1,Suns,Mavericks,24 - 34,1,N/A,N/A,N/A
+106,Devin Booker,FG_ASSISTED,Josh Jackson,19.7,1,Suns,Mavericks,24 - 37,1,25,3,Jumper
+107,J.J. Barea,FG_MISS,None,2.3,1,Mavericks,Suns,24 - 37,0, ,2,Jumper
+108,Devin Booker,DEFENSIVE_REBOUND,None,0.7,1,Suns,Mavericks,24 - 37,1,N/A,N/A,N/A
+109,Devin Booker,TURNOVER,None,0.2,1,Suns,Mavericks,24 - 37,1,N/A,N/A,N/A
+110,DeAndre Jordan,SUBSTITUTION,Powell Dwight,0.2,1,Mavericks,Suns,24 - 37,0,N/A,N/A,N/A
+111,Wesley Matthews,TURNOVER,None,0.2,1,Mavericks,Suns,24 - 37,0,N/A,N/A,N/A
+112,End of,Unknown,None,0.0,1,Suns,Mavericks,24 - 37,1,N/A,N/A,N/A
+0,Deandre Ayton,SUBSTITUTION,Chandler Tyson,12:00,2,Suns,Mavericks,24 - 37,1,N/A,N/A,N/A
+1,Dwight Powell,SUBSTITUTION,Jordan DeAndre,12:00,2,Mavericks,Suns,24 - 37,0,N/A,N/A,N/A
+2,TJ Warren,FG_MISS,None,11:48,2,Suns,Mavericks,24 - 37,1, ,2,Jumper
+3,Dwight Powell,DEFENSIVE_REBOUND,None,11:45,2,Mavericks,Suns,24 - 37,0,N/A,N/A,N/A
+4,Dwight Powell,FG_ASSISTED,J.J. Barea,11:34,2,Mavericks,Suns,26 - 37,0,0,2,Dunk
+5,Devin Booker,FG_MISS,None,11:16,2,Suns,Mavericks,26 - 37,1,26,3,Jumper
+6,J.J. Barea,DEFENSIVE_REBOUND,None,11:11,2,Mavericks,Suns,26 - 37,0,N/A,N/A,N/A
+7,Devin Harris,FG_MISS,None,11:06,2,Mavericks,Suns,26 - 37,0,0,2,Layup
+8,Dwight Powell,OFFENSIVE_REBOUND,None,11:03,2,Mavericks,Suns,26 - 37,0,N/A,N/A,N/A
+9,Maximilian Kleber,FG_ASSISTED,J.J. Barea,11:01,2,Mavericks,Suns,29 - 37,0,24,3,Jumper
+10,Josh Jackson,FG_MISS,None,10:47,2,Suns,Mavericks,29 - 37,1,18,2,Jumper
+11,Wesley Matthews,DEFENSIVE_REBOUND,None,10:44,2,Mavericks,Suns,29 - 37,0,N/A,N/A,N/A
+12,Elie Okobo,FOUL_ON_FLOOR,None,10:35,2,Suns,Mavericks,29 - 37,1,N/A,N/A,N/A
+13,J.J. Barea,FT,None,10:35,2,Mavericks,Suns,30 - 37,0,N/A,1,N/A
+14,J.J. Barea,FT,None,10:35,2,Mavericks,Suns,31 - 37,0,N/A,1,N/A
+15,Ryan Broekhoff,SUBSTITUTION,for game,10:35,2,Mavericks,Suns,31 - 37,0,N/A,N/A,N/A
+16,enters the,SUBSTITUTION,Harris Devin,10:35,2,Mavericks,Suns,31 - 37,0,N/A,N/A,N/A
+17,Elie Okobo,FG_UNASSISTED,None,10:15,2,Suns,Mavericks,31 - 39,1, ,2,Jumper
+18,Elie Okobo,FOUL_ON_FLOOR,None,10:04,2,Suns,Mavericks,31 - 39,1,N/A,N/A,N/A
+19,Wesley Matthews,TURNOVER,TJ Warren,9:54,2,Mavericks,Suns,31 - 39,0,N/A,N/A,N/A
+20,J.J. Barea,FOUL_ON_FLOOR,None,9:53,2,Mavericks,Suns,31 - 39,0,N/A,N/A,N/A
+21,Jalen Brunson,SUBSTITUTION,Broekhoff Ryan,9:53,2,Mavericks,Suns,31 - 39,0,N/A,N/A,N/A
+22,Deandre Ayton,FG_MISS,Dwight Powell,9:39,2,Mavericks,Suns,31 - 39,1,11,2,Jumper
+23,J.J. Barea,DEFENSIVE_REBOUND,None,9:37,2,Mavericks,Suns,31 - 39,0,N/A,N/A,N/A
+24,Maximilian Kleber,FG_ASSISTED,J.J. Barea,9:31,2,Mavericks,Suns,34 - 39,0,25,3,Jumper
+25,Elie Okobo,FG_MISS,None,9:09,2,Suns,Mavericks,34 - 39,1,23,3,Jumper
+26,Maximilian Kleber,DEFENSIVE_REBOUND,None,9:04,2,Mavericks,Suns,34 - 39,0,N/A,N/A,N/A
+27,Dwight Powell,FG_ASSISTED,J.J. Barea,8:55,2,Mavericks,Suns,36 - 39,0,0,2,Layup
+28,Deandre Ayton,FG_UNASSISTED,None,8:33,2,Suns,Mavericks,36 - 41,1, ,2,Jumper
+29,J.J. Barea,TURNOVER,None,8:21,2,Mavericks,Suns,36 - 41,0,N/A,N/A,N/A
+30,Isaiah Canaan,SUBSTITUTION,Okobo Elie,8:21,2,Suns,Mavericks,36 - 41,1,N/A,N/A,N/A
+31,Josh Jackson,FG_ASSISTED,Deandre Ayton,8:07,2,Suns,Mavericks,36 - 43,1,14,2,Jumper
+32,Wesley Matthews,FG_UNASSISTED,None,7:51,2,Mavericks,Suns,38 - 43,0, ,2,Jumper
+33,Devin Booker,FG_MISS,None,7:34,2,Suns,Mavericks,38 - 43,1,26,3,Jumper
+34,J.J. Barea,DEFENSIVE_REBOUND,None,7:31,2,Mavericks,Suns,38 - 43,0,N/A,N/A,N/A
+35,Dwight Powell,FG_MISS,None,7:22,2,Mavericks,Suns,38 - 43,0,26,3,Jumper
+36,Josh Jackson,DEFENSIVE_REBOUND,None,7:19,2,Suns,Mavericks,38 - 43,1,N/A,N/A,N/A
+37,Josh Jackson,FG_MISS,None,7:06,2,Suns,Mavericks,38 - 43,1,26,3,Jumper
+38,Maximilian Kleber,DEFENSIVE_REBOUND,None,7:02,2,Mavericks,Suns,38 - 43,0,N/A,N/A,N/A
+39,Wesley Matthews,FG_MISS,None,6:53,2,Mavericks,Suns,38 - 43,0,0,2,Layup
+40,Deandre Ayton,DEFENSIVE_REBOUND,None,6:51,2,Suns,Mavericks,38 - 43,1,N/A,N/A,N/A
+41,TJ Warren,FG_ASSISTED,Josh Jackson,6:46,2,Suns,Mavericks,38 - 46,1,25,3,Jumper
+42,Team,Unknown,None,6:44,2,Mavericks,Suns,38 - 46,0,N/A,N/A,N/A
+43,Trevor Ariza,SUBSTITUTION,Jackson Josh,6:44,2,Suns,Mavericks,38 - 46,1,N/A,N/A,N/A
+44,Tyson Chandler,SUBSTITUTION,Ayton Deandre,6:44,2,Suns,Mavericks,38 - 46,1,N/A,N/A,N/A
+45,Dennis Smith,SUBSTITUTION,Barea J.J.,6:44,2,Mavericks,Suns,38 - 46,0,N/A,N/A,N/A
+46,Wesley Matthews,FG_MISS,None,6:22,2,Mavericks,Suns,38 - 46,0,25,3,Jumper
+47,Tyson Chandler,DEFENSIVE_REBOUND,None,6:20,2,Suns,Mavericks,38 - 46,1,N/A,N/A,N/A
+48,Trevor Ariza,FG_ASSISTED,Isaiah Canaan,6:14,2,Suns,Mavericks,38 - 49,1,26,3,Jumper
+49,Dennis Smith,FG_MISS,None,5:48,2,Mavericks,Suns,38 - 49,0,18,2,Jumper
+50,Trevor Ariza,DEFENSIVE_REBOUND,None,5:44,2,Suns,Mavericks,38 - 49,1,N/A,N/A,N/A
+51,Maximilian Kleber,FOUL_ON_FLOOR,None,5:38,2,Mavericks,Suns,38 - 49,0,N/A,N/A,N/A
+52,Luka Doncic,SUBSTITUTION,Powell Dwight,5:38,2,Mavericks,Suns,38 - 49,0,N/A,N/A,N/A
+53,Dorian Finney-Smith,SUBSTITUTION,Matthews Wesley,5:38,2,Mavericks,Suns,38 - 49,0,N/A,N/A,N/A
+54,DeAndre Jordan,SUBSTITUTION,Kleber Maximilian,5:38,2,Mavericks,Suns,38 - 49,0,N/A,N/A,N/A
+55,Devin Booker,FG_MISS,Dorian Finney-Smith,5:27,2,Mavericks,Suns,38 - 49,1,12,2,Jumper
+56,DeAndre Jordan,DEFENSIVE_REBOUND,None,5:25,2,Mavericks,Suns,38 - 49,0,N/A,N/A,N/A
+57,Dennis Smith,FG_MISS,None,5:12,2,Mavericks,Suns,38 - 49,0, ,2,Jumper
+58,Isaiah Canaan,DEFENSIVE_REBOUND,None,5:11,2,Suns,Mavericks,38 - 49,1,N/A,N/A,N/A
+59,TJ Warren,TURNOVER,None,5:07,2,Suns,Mavericks,38 - 49,1,N/A,N/A,N/A
+60,TJ Warren,TURNOVER,None,5:07,2,Suns,Mavericks,38 - 49,1,N/A,N/A,N/A
+61,Ryan Anderson,SUBSTITUTION,Warren TJ,5:07,2,Suns,Mavericks,38 - 49,1,N/A,N/A,N/A
+62,Josh Jackson,SUBSTITUTION,Booker Devin,5:07,2,Suns,Mavericks,38 - 49,1,N/A,N/A,N/A
+63,Dennis Smith,FG_MISS,None,4:50,2,Mavericks,Suns,38 - 49,0, ,2,Jumper
+64,Tyson Chandler,DEFENSIVE_REBOUND,None,4:49,2,Suns,Mavericks,38 - 49,1,N/A,N/A,N/A
+65,Josh Jackson,TURNOVER,Dennis Smith,4:38,2,Suns,Mavericks,38 - 49,1,N/A,N/A,N/A
+66,Dennis Smith,FG_ASSISTED,Dorian Finney-Smith,4:34,2,Mavericks,Suns,40 - 49,0,0,2,Dunk
+67,Trevor Ariza,FG_MISS,None,4:16,2,Suns,Mavericks,40 - 49,1,23,3,Jumper
+68,Team,DEFENSIVE_REBOUND,None,4:15,2,Mavericks,Suns,40 - 49,0,N/A,N/A,N/A
+69,Luka Doncic,FG_MISS,None,4:01,2,Mavericks,Suns,40 - 49,0, ,2,Jumper
+70,Isaiah Canaan,DEFENSIVE_REBOUND,None,3:58,2,Suns,Mavericks,40 - 49,1,N/A,N/A,N/A
+71,Team,Unknown,None,3:51,2,Suns,Mavericks,40 - 49,1,N/A,N/A,N/A
+72,Josh Jackson,FG_MISS,None,3:38,2,Suns,Mavericks,40 - 49,1, ,2,Jumper
+73,Ryan Anderson,OFFENSIVE_REBOUND,None,3:35,2,Suns,Mavericks,40 - 49,1,N/A,N/A,N/A
+74,shot clock,TURNOVER,None,3:35,2,Suns,Mavericks,40 - 49,1,N/A,N/A,N/A
+75,Trevor Ariza,FOUL_ON_FLOOR,None,3:28,2,Suns,Mavericks,40 - 49,1,N/A,N/A,N/A
+76,Luka Doncic,FG_MISS,None,3:22,2,Mavericks,Suns,40 - 49,0,25,2,Jumper
+77,Ryan Anderson,DEFENSIVE_REBOUND,None,3:19,2,Suns,Mavericks,40 - 49,1,N/A,N/A,N/A
+78,Ryan Anderson,FG_MISS,None,3:06,2,Suns,Mavericks,40 - 49,1, ,3,Jumper
+79,Dorian Finney-Smith,DEFENSIVE_REBOUND,None,3:04,2,Mavericks,Suns,40 - 49,0,N/A,N/A,N/A
+80,Tyson Chandler,FOUL_ON_FLOOR,None,2:56,2,Suns,Mavericks,40 - 49,1,N/A,N/A,N/A
+81,Dorian Finney-Smith,FT,None,2:56,2,Mavericks,Suns,41 - 49,0,N/A,1,N/A
+82,Deandre Ayton,SUBSTITUTION,Chandler Tyson,2:56,2,Suns,Mavericks,41 - 49,1,N/A,N/A,N/A
+83,Devin Booker,SUBSTITUTION,Jackson Josh,2:56,2,Suns,Mavericks,41 - 49,1,N/A,N/A,N/A
+84,Wesley Matthews,SUBSTITUTION,Brunson Jalen,2:56,2,Mavericks,Suns,41 - 49,0,N/A,N/A,N/A
+85,Dorian Finney-Smith,FT,None,2:56,2,Mavericks,Suns,42 - 49,0,N/A,1,N/A
+86,Ryan Anderson,FG_MISS,Dorian Finney-Smith,2:38,2,Mavericks,Suns,42 - 49,1,18,2,Jumper
+87,DeAndre Jordan,DEFENSIVE_REBOUND,None,2:33,2,Mavericks,Suns,42 - 49,0,N/A,N/A,N/A
+88,Dennis Smith,TURNOVER,Deandre Ayton,2:28,2,Mavericks,Suns,42 - 49,0,N/A,N/A,N/A
+89,Devin Booker,FG_ASSISTED,Trevor Ariza,2:24,2,Suns,Mavericks,42 - 51,1, ,2,Jumper
+90,Luka Doncic,TURNOVER,Trevor Ariza,2:08,2,Mavericks,Suns,42 - 51,0,N/A,N/A,N/A
+91,Trevor Ariza,FG_ASSISTED,Isaiah Canaan,2:03,2,Suns,Mavericks,42 - 54,1,26,3,Jumper
+92,Team,Unknown,None,2:02,2,Mavericks,Suns,42 - 54,0,N/A,N/A,N/A
+93,Wesley Matthews,FG_UNASSISTED,None,1:47,2,Mavericks,Suns,44 - 54,0,10,2,Jumper
+94,Luka Doncic,FOUL_ON_FLOOR,None,1:30,2,Mavericks,Suns,44 - 54,0,N/A,N/A,N/A
+95,Jalen Brunson,SUBSTITUTION,Doncic Luka,1:30,2,Mavericks,Suns,44 - 54,0,N/A,N/A,N/A
+96,Isaiah Canaan,FG_MISS,None,1:20,2,Suns,Mavericks,44 - 54,1,0,2,Layup
+97,Jalen Brunson,DEFENSIVE_REBOUND,None,1:18,2,Mavericks,Suns,44 - 54,0,N/A,N/A,N/A
+98,Jalen Brunson,FG_MISS,None,1:05,2,Mavericks,Suns,44 - 54,0,23,3,Jumper
+99,Devin Booker,DEFENSIVE_REBOUND,None,1:02,2,Suns,Mavericks,44 - 54,1,N/A,N/A,N/A
+100,Isaiah Canaan,FG_MISS,None,57.9,2,Suns,Mavericks,44 - 54,1, ,2,Jumper
+101,Deandre Ayton,OFFENSIVE_REBOUND,None,56.3,2,Suns,Mavericks,44 - 54,1,N/A,N/A,N/A
+102,Deandre Ayton,FG_MISS,None,54.9,2,Suns,Mavericks,44 - 54,1, ,2,Jumper
+103,DeAndre Jordan,DEFENSIVE_REBOUND,None,53.2,2,Mavericks,Suns,44 - 54,0,N/A,N/A,N/A
+104,Dennis Smith,FG_UNASSISTED,None,33.8,2,Mavericks,Suns,46 - 54,0,0,2,Layup
+105,DeAndre Jordan,FOUL_ON_FLOOR,None,14.1,2,Mavericks,Suns,46 - 54,0,N/A,N/A,N/A
+106,Devin Booker,FT,None,14.1,2,Suns,Mavericks,46 - 55,1,N/A,1,N/A
+107,Josh Jackson,SUBSTITUTION,Anderson Ryan,14.1,2,Suns,Mavericks,46 - 55,1,N/A,N/A,N/A
+108,J.J. Barea,SUBSTITUTION,Brunson Jalen,14.1,2,Mavericks,Suns,46 - 55,0,N/A,N/A,N/A
+109,Devin Booker,FT,None,14.1,2,Suns,Mavericks,46 - 56,1,N/A,1,N/A
+110,Dennis Smith,FG_MISS,None,0.6,2,Mavericks,Suns,46 - 56,0,3,2,Jumper
+111,Team,OFFENSIVE_REBOUND,None,0.1,2,Mavericks,Suns,46 - 56,0,N/A,N/A,N/A
+112,End of,Unknown,None,0.0,2,Suns,Mavericks,46 - 56,1,N/A,N/A,N/A
+0,Ryan Anderson,SUBSTITUTION,Jackson Josh,12:00,3,Suns,Mavericks,46 - 56,1,N/A,N/A,N/A
+1,Luka Doncic,SUBSTITUTION,Barea J.J.,12:00,3,Mavericks,Suns,46 - 56,0,N/A,N/A,N/A
+2,Devin Booker,FG_ASSISTED,Ryan Anderson,11:50,3,Suns,Mavericks,46 - 59,1,25,3,Jumper
+3,Wesley Matthews,FG_MISS,None,11:36,3,Mavericks,Suns,46 - 59,0,25,3,Jumper
+4,Deandre Ayton,DEFENSIVE_REBOUND,None,11:33,3,Suns,Mavericks,46 - 59,1,N/A,N/A,N/A
+5,Devin Booker,FG_MISS,None,11:15,3,Suns,Mavericks,46 - 59,1,27,3,Jumper
+6,Luka Doncic,DEFENSIVE_REBOUND,None,11:12,3,Mavericks,Suns,46 - 59,0,N/A,N/A,N/A
+7,Deandre Ayton,FOUL_ON_FLOOR,None,10:53,3,Suns,Mavericks,46 - 59,1,N/A,N/A,N/A
+8,Luka Doncic,FT_MISS,None,10:53,3,Mavericks,Suns,46 - 59,0,N/A,1,N/A
+9,Team,OFFENSIVE_REBOUND,None,10:53,3,Mavericks,Suns,46 - 59,0,N/A,N/A,N/A
+10,Luka Doncic,FT_MISS,None,10:53,3,Mavericks,Suns,46 - 59,0,N/A,1,N/A
+11,Isaiah Canaan,DEFENSIVE_REBOUND,None,10:53,3,Suns,Mavericks,46 - 59,1,N/A,N/A,N/A
+12,Devin Booker,FG_MISS,None,10:42,3,Suns,Mavericks,46 - 59,1,0,2,Layup
+13,DeAndre Jordan,DEFENSIVE_REBOUND,None,10:40,3,Mavericks,Suns,46 - 59,0,N/A,N/A,N/A
+14,Isaiah Canaan,FOUL_ON_FLOOR,None,10:34,3,Suns,Mavericks,46 - 59,1,N/A,N/A,N/A
+15,Dennis Smith,FG_UNASSISTED,None,10:21,3,Mavericks,Suns,48 - 59,0,8,2,Jumper
+16,Trevor Ariza,FG_ASSISTED,Devin Booker,10:04,3,Suns,Mavericks,48 - 62,1,25,3,Jumper
+17,Luka Doncic,TURNOVER,None,9:56,3,Mavericks,Suns,48 - 62,0,N/A,N/A,N/A
+18,Trevor Ariza,FG_ASSISTED,Devin Booker,9:42,3,Suns,Mavericks,48 - 64,1,0,2,Layup
+19,Dennis Smith,FG_ASSISTED,Wesley Matthews,9:18,3,Mavericks,Suns,50 - 64,0,0,2,Dunk
+20,Isaiah Canaan,TURNOVER,Wesley Matthews,9:10,3,Suns,Mavericks,50 - 64,1,N/A,N/A,N/A
+21,Dorian Finney-Smith,FG_ASSISTED,Dennis Smith,9:06,3,Mavericks,Suns,52 - 64,0,0,2,Dunk
+22,Isaiah Canaan's,FG_MISS,DeAndre Jordan,8:45,3,Mavericks,Suns,52 - 64,1,0,2,Layup
+23,Dennis Smith,DEFENSIVE_REBOUND,None,8:44,3,Mavericks,Suns,52 - 64,0,N/A,N/A,N/A
+24,Dennis Smith,FG_MISS,None,8:38,3,Mavericks,Suns,52 - 64,0, ,2,Jumper
+25,DeAndre Jordan,OFFENSIVE_REBOUND,None,8:36,3,Mavericks,Suns,52 - 64,0,N/A,N/A,N/A
+26,Dorian Finney-Smith,FG_MISS,None,8:35,3,Mavericks,Suns,52 - 64,0,23,3,Jumper
+27,Trevor Ariza,DEFENSIVE_REBOUND,None,8:31,3,Suns,Mavericks,52 - 64,1,N/A,N/A,N/A
+28,Ryan Anderson,FG_ASSISTED,Trevor Ariza,8:24,3,Suns,Mavericks,52 - 66,1,19,2,Jumper
+29,Devin Booker,FOUL_ON_FLOOR,None,8:05,3,Suns,Mavericks,52 - 66,1,N/A,N/A,N/A
+30,Wesley Matthews,FT,None,8:05,3,Mavericks,Suns,53 - 66,0,N/A,1,N/A
+31,Josh Jackson,SUBSTITUTION,Canaan Isaiah,8:05,3,Suns,Mavericks,53 - 66,1,N/A,N/A,N/A
+32,Wesley Matthews,FT,None,8:05,3,Mavericks,Suns,54 - 66,0,N/A,1,N/A
+33,Devin Booker,FG_MISS,None,7:44,3,Suns,Mavericks,54 - 66,1,17,2,Jumper
+34,Ryan Anderson,OFFENSIVE_REBOUND,None,7:37,3,Suns,Mavericks,54 - 66,1,N/A,N/A,N/A
+35,Ryan Anderson,FG_MISS,None,7:37,3,Suns,Mavericks,54 - 66,1, ,2,Jumper
+36,Luka Doncic,DEFENSIVE_REBOUND,None,7:35,3,Mavericks,Suns,54 - 66,0,N/A,N/A,N/A
+37,Dorian Finney-Smith,FG_ASSISTED,Dennis Smith,7:20,3,Mavericks,Suns,56 - 66,0, ,2,Jumper
+38,DeAndre Jordan,FOUL_ON_FLOOR,None,7:05,3,Mavericks,Suns,56 - 66,0,N/A,N/A,N/A
+39,Trevor Ariza,FT,None,7:05,3,Suns,Mavericks,56 - 67,1,N/A,1,N/A
+40,TJ Warren,SUBSTITUTION,Anderson Ryan,7:05,3,Suns,Mavericks,56 - 67,1,N/A,N/A,N/A
+41,Trevor Ariza,FT,None,7:05,3,Suns,Mavericks,56 - 68,1,N/A,1,N/A
+42,Luka Doncic,FG_MISS,None,6:50,3,Mavericks,Suns,56 - 68,0, ,2,Jumper
+43,DeAndre Jordan,OFFENSIVE_REBOUND,None,6:49,3,Mavericks,Suns,56 - 68,0,N/A,N/A,N/A
+44,DeAndre Jordan,FG_MISS,None,6:48,3,Mavericks,Suns,56 - 68,0,0,2,Dunk
+45,Trevor Ariza,DEFENSIVE_REBOUND,None,6:48,3,Suns,Mavericks,56 - 68,1,N/A,N/A,N/A
+46,Josh Jackson,FG_ASSISTED,Deandre Ayton,6:32,3,Suns,Mavericks,56 - 70,1,18,2,Jumper
+47,Dennis Smith,FG_MISS,None,6:17,3,Mavericks,Suns,56 - 70,0, ,2,Jumper
+48,Devin Booker,DEFENSIVE_REBOUND,None,6:14,3,Suns,Mavericks,56 - 70,1,N/A,N/A,N/A
+49,TJ Warren,FG_MISS,Dorian Finney-Smith,6:04,3,Mavericks,Suns,56 - 70,1,7,2,Jumper
+50,TJ Warren,OFFENSIVE_REBOUND,None,6:03,3,Suns,Mavericks,56 - 70,1,N/A,N/A,N/A
+51,Dorian Finney-Smith,FOUL_ON_FLOOR,None,6:03,3,Mavericks,Suns,56 - 70,0,N/A,N/A,N/A
+52,Team,Unknown,None,6:03,3,Suns,Mavericks,56 - 70,1,N/A,N/A,N/A
+53,TJ Warren,FT,None,6:03,3,Suns,Mavericks,56 - 71,1,N/A,1,N/A
+54,TJ Warren,FT,None,6:03,3,Suns,Mavericks,56 - 72,1,N/A,1,N/A
+55,Devin Booker,FOUL_ON_FLOOR,None,5:52,3,Suns,Mavericks,56 - 72,1,N/A,N/A,N/A
+56,Wesley Matthews,FT_MISS,None,5:52,3,Mavericks,Suns,56 - 72,0,N/A,1,N/A
+57,Team,OFFENSIVE_REBOUND,None,5:52,3,Mavericks,Suns,56 - 72,0,N/A,N/A,N/A
+58,Wesley Matthews,FT,None,5:52,3,Mavericks,Suns,57 - 72,0,N/A,1,N/A
+59,Josh Jackson,TURNOVER,Dennis Smith,5:45,3,Suns,Mavericks,57 - 72,1,N/A,N/A,N/A
+60,Dennis Smith,FG_MISS,Josh Jackson,5:42,3,Suns,Mavericks,57 - 72,0, ,2,Jumper
+61,Luka Doncic,OFFENSIVE_REBOUND,None,5:40,3,Mavericks,Suns,57 - 72,0,N/A,N/A,N/A
+62,Luka Doncic,FG_UNASSISTED,None,5:39,3,Mavericks,Suns,59 - 72,0, ,2,Jumper
+63,Dennis Smith,FOUL_ON_FLOOR,None,5:29,3,Mavericks,Suns,59 - 72,0,N/A,N/A,N/A
+64,TJ Warren,FG_MISS,None,5:19,3,Suns,Mavericks,59 - 72,1,26,3,Jumper
+65,DeAndre Jordan,DEFENSIVE_REBOUND,None,5:16,3,Mavericks,Suns,59 - 72,0,N/A,N/A,N/A
+66,Devin Booker,FOUL_ON_FLOOR,None,5:09,3,Suns,Mavericks,59 - 72,1,N/A,N/A,N/A
+67,Wesley Matthews,FT,None,5:09,3,Mavericks,Suns,60 - 72,0,N/A,1,N/A
+68,Isaiah Canaan,SUBSTITUTION,Booker Devin,5:09,3,Suns,Mavericks,60 - 72,1,N/A,N/A,N/A
+69,Wesley Matthews,FT,None,5:09,3,Mavericks,Suns,61 - 72,0,N/A,1,N/A
+70,Josh Jackson,FG_ASSISTED,Trevor Ariza,4:55,3,Suns,Mavericks,61 - 74,1,4,2,Jumper
+71,Dennis Smith,FG_ASSISTED,Wesley Matthews,4:29,3,Mavericks,Suns,64 - 74,0,26,2,Jumper
+72,Deandre Ayton,FG_ASSISTED,Isaiah Canaan,4:13,3,Suns,Mavericks,64 - 76,1,0,2,Dunk
+73,Dennis Smith,FG_MISS,None,3:59,3,Mavericks,Suns,64 - 76,0,26,3,Jumper
+74,Trevor Ariza,DEFENSIVE_REBOUND,None,3:57,3,Suns,Mavericks,64 - 76,1,N/A,N/A,N/A
+75,Deandre Ayton,FG_MISS,None,3:39,3,Suns,Mavericks,64 - 76,1,18,2,Jumper
+76,Luka Doncic,DEFENSIVE_REBOUND,None,3:37,3,Mavericks,Suns,64 - 76,0,N/A,N/A,N/A
+77,Luka Doncic,FG_UNASSISTED,None,3:32,3,Mavericks,Suns,66 - 76,0, ,2,Jumper
+78,Team,Unknown,None,3:32,3,Suns,Mavericks,66 - 76,1,N/A,N/A,N/A
+79,Tyson Chandler,SUBSTITUTION,Ayton Deandre,3:32,3,Suns,Mavericks,66 - 76,1,N/A,N/A,N/A
+80,J.J. Barea,SUBSTITUTION,Smith Dennis,3:32,3,Mavericks,Suns,66 - 76,0,N/A,N/A,N/A
+81,Isaiah Canaan,FG_MISS,None,3:15,3,Suns,Mavericks,66 - 76,1,0,2,Layup
+82,Team,DEFENSIVE_REBOUND,None,3:14,3,Mavericks,Suns,66 - 76,0,N/A,N/A,N/A
+83,Luka Doncic,FG_MISS,None,2:58,3,Mavericks,Suns,66 - 76,0, ,2,Jumper
+84,Isaiah Canaan,DEFENSIVE_REBOUND,None,2:55,3,Suns,Mavericks,66 - 76,1,N/A,N/A,N/A
+85,TJ Warren,FOUL_ON_FLOOR,None,2:47,3,Suns,Mavericks,66 - 76,1,N/A,N/A,N/A
+86,TJ Warren,TURNOVER,None,2:47,3,Suns,Mavericks,66 - 76,1,N/A,N/A,N/A
+87,Luka Doncic,TURNOVER,TJ Warren,2:30,3,Mavericks,Suns,66 - 76,0,N/A,N/A,N/A
+88,TJ Warren,FG_UNASSISTED,None,2:26,3,Suns,Mavericks,66 - 78,1, ,2,Jumper
+89,Luka Doncic,FG_MISS,None,2:13,3,Mavericks,Suns,66 - 78,0, ,2,Jumper
+90,Luka Doncic,OFFENSIVE_REBOUND,None,2:10,3,Mavericks,Suns,66 - 78,0,N/A,N/A,N/A
+91,Dorian Finney-Smith,FG_ASSISTED,Luka Doncic,2:08,3,Mavericks,Suns,69 - 78,0, ,3,Jumper
+92,Dorian Finney-Smith,FOUL_ON_FLOOR,None,1:46,3,Mavericks,Suns,69 - 78,0,N/A,N/A,N/A
+93,TJ Warren,FT,None,1:46,3,Suns,Mavericks,69 - 79,1,N/A,1,N/A
+94,Jalen Brunson,SUBSTITUTION,Jordan DeAndre,1:46,3,Mavericks,Suns,69 - 79,0,N/A,N/A,N/A
+95,Dwight Powell,SUBSTITUTION,Matthews Wesley,1:46,3,Mavericks,Suns,69 - 79,0,N/A,N/A,N/A
+96,TJ Warren,FT,None,1:46,3,Suns,Mavericks,69 - 80,1,N/A,1,N/A
+97,Dwight Powell,FG_ASSISTED,J.J. Barea,1:38,3,Mavericks,Suns,71 - 80,0,0,2,Layup
+98,Isaiah Canaan,FG_ASSISTED,Trevor Ariza,1:14,3,Suns,Mavericks,71 - 83,1,26,3,Jumper
+99,Tyson Chandler,FOUL_ON_FLOOR,None,52.2,3,Suns,Mavericks,71 - 83,1,N/A,N/A,N/A
+100,Dwight Powell,FT,None,52.2,3,Mavericks,Suns,72 - 83,0,N/A,1,N/A
+101,Troy Daniels,SUBSTITUTION,Ariza Trevor,52.2,3,Suns,Mavericks,72 - 83,1,N/A,N/A,N/A
+102,Dwight Powell,FT,None,52.2,3,Mavericks,Suns,73 - 83,0,N/A,1,N/A
+103,TJ Warren,FG_MISS,None,41.0,3,Suns,Mavericks,73 - 83,1, ,2,Jumper
+104,Team,DEFENSIVE_REBOUND,None,40.3,3,Mavericks,Suns,73 - 83,0,N/A,N/A,N/A
+105,J.J. Barea,FG_MISS,None,30.4,3,Mavericks,Suns,73 - 83,0,16,2,Jumper
+106,Dwight Powell,OFFENSIVE_REBOUND,None,27.1,3,Mavericks,Suns,73 - 83,0,N/A,N/A,N/A
+107,Dwight Powell,FG_MISS,None,16.7,3,Mavericks,Suns,73 - 83,0,0,2,Layup
+108,Isaiah Canaan,DEFENSIVE_REBOUND,None,14.7,3,Suns,Mavericks,73 - 83,1,N/A,N/A,N/A
+109,Isaiah Canaan,FG_MISS,None,2.9,3,Suns,Mavericks,73 - 83,1,27,3,Jumper
+110,Dorian Finney-Smith,DEFENSIVE_REBOUND,None,2.9,3,Mavericks,Suns,73 - 83,0,N/A,N/A,N/A
+111,Dorian Finney-Smith,FG_MISS,None,0.1,3,Mavericks,Suns,73 - 83,0,46,3,Jumper
+112,Team,OFFENSIVE_REBOUND,None,0.1,3,Mavericks,Suns,73 - 83,0,N/A,N/A,N/A
+113,End of,Unknown,None,0.0,3,Suns,Mavericks,73 - 83,1,N/A,N/A,N/A
+0,Deandre Ayton,SUBSTITUTION,Chandler Tyson,12:00,4,Suns,Mavericks,73 - 83,1,N/A,N/A,N/A
+1,Maximilian Kleber,SUBSTITUTION,Finney-Smith Dorian,12:00,4,Mavericks,Suns,73 - 83,0,N/A,N/A,N/A
+2,Maximilian Kleber,FG_ASSISTED,J.J. Barea,11:49,4,Mavericks,Suns,75 - 83,0,0,2,Dunk
+3,Isaiah Canaan,FG_ASSISTED,Josh Jackson,11:27,4,Suns,Mavericks,75 - 85,1,17,2,Jumper
+4,Luka Doncic,FG_MISS,None,11:09,4,Mavericks,Suns,75 - 85,0,27,2,Jumper
+5,Deandre Ayton,DEFENSIVE_REBOUND,None,11:05,4,Suns,Mavericks,75 - 85,1,N/A,N/A,N/A
+6,TJ Warren,FG_ASSISTED,Isaiah Canaan,10:52,4,Suns,Mavericks,75 - 87,1,13,2,Jumper
+7,Isaiah Canaan,FOUL_ON_FLOOR,None,10:42,4,Suns,Mavericks,75 - 87,1,N/A,N/A,N/A
+8,Dwight Powell,FG_ASSISTED,J.J. Barea,10:31,4,Mavericks,Suns,77 - 87,0,0,2,Layup
+9,TJ Warren,FG_MISS,None,10:12,4,Suns,Mavericks,77 - 87,1,13,2,Jumper
+10,Dwight Powell,DEFENSIVE_REBOUND,None,10:10,4,Mavericks,Suns,77 - 87,0,N/A,N/A,N/A
+11,Dwight Powell,FG_ASSISTED,Jalen Brunson,9:54,4,Mavericks,Suns,79 - 87,0, ,2,Jumper
+12,Josh Jackson,FG_ASSISTED,Deandre Ayton,9:32,4,Suns,Mavericks,79 - 90,1,25,3,Jumper
+13,J.J. Barea,FG_UNASSISTED,None,9:20,4,Mavericks,Suns,82 - 90,0,26,3,Jumper
+14,Josh Jackson,FG_MISS,None,9:01,4,Suns,Mavericks,82 - 90,1, ,2,Jumper
+15,Troy Daniels,OFFENSIVE_REBOUND,None,8:58,4,Suns,Mavericks,82 - 90,1,N/A,N/A,N/A
+16,TJ Warren,FG_MISS,None,8:56,4,Suns,Mavericks,82 - 90,1,21,2,Jumper
+17,Dwight Powell,DEFENSIVE_REBOUND,None,8:52,4,Mavericks,Suns,82 - 90,0,N/A,N/A,N/A
+18,Luka Doncic,FG_MISS,None,8:46,4,Mavericks,Suns,82 - 90,0,26,3,Jumper
+19,Team,DEFENSIVE_REBOUND,None,8:44,4,Suns,Mavericks,82 - 90,1,N/A,N/A,N/A
+20,Devin Booker,SUBSTITUTION,Daniels Troy,8:44,4,Suns,Mavericks,82 - 90,1,N/A,N/A,N/A
+21,Wesley Matthews,SUBSTITUTION,Doncic Luka,8:44,4,Mavericks,Suns,82 - 90,0,N/A,N/A,N/A
+22,Deandre Ayton,FG_ASSISTED,Devin Booker,8:23,4,Suns,Mavericks,82 - 92,1,2,2,Jumper
+23,Deandre Ayton,FOUL_ON_FLOOR,None,8:10,4,Suns,Mavericks,82 - 92,1,N/A,N/A,N/A
+24,Dwight Powell,FT,None,8:10,4,Mavericks,Suns,83 - 92,0,N/A,1,N/A
+25,Trevor Ariza,SUBSTITUTION,Jackson Josh,8:10,4,Suns,Mavericks,83 - 92,1,N/A,N/A,N/A
+26,Dwight Powell,FT,None,8:10,4,Mavericks,Suns,84 - 92,0,N/A,1,N/A
+27,Deandre Ayton,FG_ASSISTED,Isaiah Canaan,7:54,4,Suns,Mavericks,84 - 94,1,11,2,Jumper
+28,Wesley Matthews,FG_ASSISTED,J.J. Barea,7:39,4,Mavericks,Suns,87 - 94,0,26,3,Jumper
+29,TJ Warren,TURNOVER,None,7:14,4,Suns,Mavericks,87 - 94,1,N/A,N/A,N/A
+30,TJ Warren,TURNOVER,None,7:14,4,Suns,Mavericks,87 - 94,1,N/A,N/A,N/A
+31,Jalen Brunson,FG_ASSISTED,Wesley Matthews,7:02,4,Mavericks,Suns,90 - 94,0,26,3,Jumper
+32,Team,Unknown,None,7:00,4,Suns,Mavericks,90 - 94,1,N/A,N/A,N/A
+33,Ryan Anderson,SUBSTITUTION,Warren TJ,7:00,4,Suns,Mavericks,90 - 94,1,N/A,N/A,N/A
+34,Devin Booker,FG_ASSISTED,Trevor Ariza,6:44,4,Suns,Mavericks,90 - 96,1,9,2,Jumper
+35,Dwight Powell,FG_ASSISTED,J.J. Barea,6:30,4,Mavericks,Suns,92 - 96,0,0,2,Dunk
+36,Devin Booker,TURNOVER,Dwight Powell,6:01,4,Suns,Mavericks,92 - 96,1,N/A,N/A,N/A
+37,J.J. Barea,FG_MISS,None,5:44,4,Mavericks,Suns,92 - 96,0, ,2,Jumper
+38,Deandre Ayton,DEFENSIVE_REBOUND,None,5:42,4,Suns,Mavericks,92 - 96,1,N/A,N/A,N/A
+39,Trevor Ariza,FG_MISS,None,5:30,4,Suns,Mavericks,92 - 96,1,25,3,Jumper
+40,Ryan Anderson,OFFENSIVE_REBOUND,None,5:28,4,Suns,Mavericks,92 - 96,1,N/A,N/A,N/A
+41,Dwight Powell,FOUL_ON_FLOOR,None,5:28,4,Mavericks,Suns,92 - 96,0,N/A,N/A,N/A
+42,Devin Booker,FG_ASSISTED,Deandre Ayton,5:14,4,Suns,Mavericks,92 - 99,1,25,2,Jumper
+43,J.J. Barea,FG_UNASSISTED,None,4:54,4,Mavericks,Suns,94 - 99,0,0,2,Layup
+44,Isaiah Canaan,FOUL_ON_FLOOR,None,4:54,4,Suns,Mavericks,94 - 99,1,N/A,N/A,N/A
+45,Josh Jackson,SUBSTITUTION,Canaan Isaiah,4:54,4,Suns,Mavericks,94 - 99,1,N/A,N/A,N/A
+46,J.J. Barea,FT_MISS,None,4:54,4,Mavericks,Suns,94 - 99,0,N/A,1,N/A
+47,Deandre Ayton,DEFENSIVE_REBOUND,None,4:54,4,Suns,Mavericks,94 - 99,1,N/A,N/A,N/A
+48,Devin Booker,FG_UNASSISTED,None,4:34,4,Suns,Mavericks,94 - 101,1,1,2,Jumper
+49,Jalen Brunson,FOUL_ON_FLOOR,None,4:34,4,Mavericks,Suns,94 - 101,0,N/A,N/A,N/A
+50,Team,Unknown,None,4:34,4,Mavericks,Suns,94 - 101,0,N/A,N/A,N/A
+51,Luka Doncic,SUBSTITUTION,Barea J.J.,4:34,4,Mavericks,Suns,94 - 101,0,N/A,N/A,N/A
+52,Dorian Finney-Smith,SUBSTITUTION,Powell Dwight,4:34,4,Mavericks,Suns,94 - 101,0,N/A,N/A,N/A
+53,DeAndre Jordan,SUBSTITUTION,Brunson Jalen,4:34,4,Mavericks,Suns,94 - 101,0,N/A,N/A,N/A
+54,Dennis Smith,SUBSTITUTION,Kleber Maximilian,4:34,4,Mavericks,Suns,94 - 101,0,N/A,N/A,N/A
+55,Devin Booker,FT,None,4:34,4,Suns,Mavericks,94 - 102,1,N/A,1,N/A
+56,Wesley Matthews,FG_ASSISTED,Dennis Smith,4:27,4,Mavericks,Suns,97 - 102,0,25,3,Jumper
+57,Trevor Ariza,FG_MISS,None,3:58,4,Suns,Mavericks,97 - 102,1,1,3,Jumper
+58,Luka Doncic,DEFENSIVE_REBOUND,None,3:56,4,Mavericks,Suns,97 - 102,0,N/A,N/A,N/A
+59,Wesley Matthews,FG_MISS,None,3:48,4,Mavericks,Suns,97 - 102,0,26,2,Jumper
+60,Team,DEFENSIVE_REBOUND,None,3:47,4,Suns,Mavericks,97 - 102,1,N/A,N/A,N/A
+61,DeAndre Jordan,FOUL_ON_FLOOR,None,3:47,4,Mavericks,Suns,97 - 102,0,N/A,N/A,N/A
+62,Devin Booker,FG_ASSISTED,Deandre Ayton,3:32,4,Suns,Mavericks,97 - 105,1,26,3,Jumper
+63,Josh Jackson,FOUL_ON_FLOOR,None,3:14,4,Suns,Mavericks,97 - 105,1,N/A,N/A,N/A
+64,Dennis Smith,FG_MISS,None,3:08,4,Mavericks,Suns,97 - 105,0,26,3,Jumper
+65,Trevor Ariza,DEFENSIVE_REBOUND,None,3:04,4,Suns,Mavericks,97 - 105,1,N/A,N/A,N/A
+66,Devin Booker,FG_UNASSISTED,None,2:52,4,Suns,Mavericks,97 - 108,1,25,3,Jumper
+67,Team,Unknown,None,2:51,4,Mavericks,Suns,97 - 108,0,N/A,N/A,N/A
+68,Luka Doncic,TURNOVER,None,2:36,4,Mavericks,Suns,97 - 108,0,N/A,N/A,N/A
+69,DeAndre Jordan,FOUL_ON_FLOOR,None,2:27,4,Mavericks,Suns,97 - 108,0,N/A,N/A,N/A
+70,Josh Jackson,FG_ASSISTED,Ryan Anderson,2:17,4,Suns,Mavericks,97 - 111,1,23,3,Jumper
+71,Dorian Finney-Smith,FG_ASSISTED,Dennis Smith,2:03,4,Mavericks,Suns,100 - 111,0,24,3,Jumper
+72,Josh Jackson,FG_ASSISTED,Trevor Ariza,1:42,4,Suns,Mavericks,100 - 114,1,25,3,Jumper
+73,Team,Unknown,None,1:42,4,Mavericks,Suns,100 - 114,0,N/A,N/A,N/A
+74,Jalen Brunson,SUBSTITUTION,Matthews Wesley,1:42,4,Mavericks,Suns,100 - 114,0,N/A,N/A,N/A
+75,Luka Doncic,FG_MISS,None,1:33,4,Mavericks,Suns,100 - 114,0,26,2,Jumper
+76,Trevor Ariza,DEFENSIVE_REBOUND,None,1:30,4,Suns,Mavericks,100 - 114,1,N/A,N/A,N/A
+77,Devin Booker,FG_UNASSISTED,None,1:17,4,Suns,Mavericks,100 - 117,1,25,2,Jumper
+78,Dennis Smith,FG_MISS,Deandre Ayton,1:07,4,Suns,Mavericks,100 - 117,0,1,2,Jumper
+79,Devin Booker,DEFENSIVE_REBOUND,None,1:05,4,Suns,Mavericks,100 - 117,1,N/A,N/A,N/A
+80,Dennis Smith,FOUL_ON_FLOOR,None,54.8,4,Mavericks,Suns,100 - 117,0,N/A,N/A,N/A
+81,Devin Booker,FT_MISS,None,54.8,4,Suns,Mavericks,100 - 117,1,N/A,1,N/A
+82,Team,OFFENSIVE_REBOUND,None,54.8,4,Suns,Mavericks,100 - 117,1,N/A,N/A,N/A
+83,Devin Booker,FT,None,54.8,4,Suns,Mavericks,100 - 118,1,N/A,1,N/A
+84,Elie Okobo,SUBSTITUTION,Jackson Josh,54.8,4,Suns,Mavericks,100 - 118,1,N/A,N/A,N/A
+85,Dwight Powell,SUBSTITUTION,Smith Dennis,54.8,4,Mavericks,Suns,100 - 118,0,N/A,N/A,N/A
+86,Ray Spalding,SUBSTITUTION,Jordan DeAndre,54.8,4,Mavericks,Suns,100 - 118,0,N/A,N/A,N/A
+87,Ryan Broekhoff,SUBSTITUTION,Finney-Smith Dorian,54.8,4,Mavericks,Suns,100 - 118,0,N/A,N/A,N/A
+88,Devin Booker,FT,None,54.8,4,Suns,Mavericks,100 - 119,1,N/A,1,N/A
+89,Luka Doncic,FG_MISS,None,42.1,4,Mavericks,Suns,100 - 119,0,0,2,Layup
+90,Ryan Anderson,DEFENSIVE_REBOUND,None,40.4,4,Suns,Mavericks,100 - 119,1,N/A,N/A,N/A
+91,Deandre Ayton,FG_ASSISTED,Devin Booker,23.3,4,Suns,Mavericks,100 - 121,1,0,2,Dunk
+92,Jalen Brunson,FG_MISS,None,13.5,4,Mavericks,Suns,100 - 121,0,26,3,Jumper
+93,Deandre Ayton,DEFENSIVE_REBOUND,None,11.5,4,Suns,Mavericks,100 - 121,1,N/A,N/A,N/A
+94,Mikal Bridges,SUBSTITUTION,Booker Devin,11.5,4,Suns,Mavericks,100 - 121,1,N/A,N/A,N/A
+95,End of,Unknown,None,0.0,4,Suns,Mavericks,100 - 121,1,N/A,N/A,N/A
+96,End of,Unknown,None,0.0,4,Suns,Mavericks,100 - 121,1,N/A,N/A,N/A

@@ -1,0 +1,451 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Damian Jones,JUMP_BALL,None,12:00,1,Nets,Warriors,0 - 0,1,N/A,N/A,N/A
+1,Jarrett Allen,FG_MISS,None,11:41,1,Nets,Warriors,0 - 0,1,0,2,Layup
+2,Draymond Green,DEFENSIVE_REBOUND,None,11:38,1,Warriors,Nets,0 - 0,0,N/A,N/A,N/A
+3,Damian Jones's,FG_MISS,Jarrett Allen,11:29,1,Nets,Warriors,0 - 0,0,0,2,Layup
+4,Jared Dudley,DEFENSIVE_REBOUND,None,11:26,1,Nets,Warriors,0 - 0,1,N/A,N/A,N/A
+5,Jarrett Allen,FG_ASSISTED,D'Angelo Russell,11:18,1,Nets,Warriors,0 - 2,1,0,2,Dunk
+6,Kevin Durant,FG_ASSISTED,Draymond Green,10:57,1,Warriors,Nets,2 - 2,0,5,2,Jumper
+7,Klay Thompson,FOUL_ON_FLOOR,None,10:47,1,Warriors,Nets,2 - 2,0,N/A,N/A,N/A
+8,Joe Harris,FT_MISS,None,10:47,1,Nets,Warriors,2 - 2,1,N/A,1,N/A
+9,Team,OFFENSIVE_REBOUND,None,10:47,1,Nets,Warriors,2 - 2,1,N/A,N/A,N/A
+10,Joe Harris,FT,None,10:47,1,Nets,Warriors,2 - 3,1,N/A,1,N/A
+11,Draymond Green,FG_MISS,None,10:39,1,Warriors,Nets,2 - 3,0,25,3,Jumper
+12,Jarrett Allen,DEFENSIVE_REBOUND,None,10:36,1,Nets,Warriors,2 - 3,1,N/A,N/A,N/A
+13,Caris LeVert,FG_UNASSISTED,None,10:17,1,Nets,Warriors,2 - 5,1,0,2,Layup
+14,Damian Jones,TURNOVER,None,10:11,1,Warriors,Nets,2 - 5,0,N/A,N/A,N/A
+15,Jared Dudley,FG_MISS,None,10:05,1,Nets,Warriors,2 - 5,1,25,3,Jumper
+16,Draymond Green,DEFENSIVE_REBOUND,None,10:01,1,Warriors,Nets,2 - 5,0,N/A,N/A,N/A
+17,Stephen Curry,FG_ASSISTED,Draymond Green,9:55,1,Warriors,Nets,5 - 5,0,25,3,Jumper
+18,Caris LeVert,FG_MISS,None,9:30,1,Nets,Warriors,5 - 5,1,-,2,Jumper
+19,Team,OFFENSIVE_REBOUND,None,9:27,1,Nets,Warriors,5 - 5,1,N/A,N/A,N/A
+20,D'Angelo Russell,TURNOVER,Damian Jones,9:19,1,Nets,Warriors,5 - 5,1,N/A,N/A,N/A
+21,Klay Thompson,FG_ASSISTED,Draymond Green,9:14,1,Warriors,Nets,7 - 5,0,-,2,Jumper
+22,Caris LeVert,FG_MISS,Damian Jones,8:56,1,Warriors,Nets,7 - 5,1,0,2,Layup
+23,Joe Harris,OFFENSIVE_REBOUND,None,8:53,1,Nets,Warriors,7 - 5,1,N/A,N/A,N/A
+24,Joe Harris,FG_ASSISTED,Caris LeVert,8:50,1,Nets,Warriors,7 - 8,1,25,3,Jumper
+25,Stephen Curry,FG_ASSISTED,Damian Jones,8:38,1,Warriors,Nets,10 - 8,0,23,3,Jumper
+26,D'Angelo Russell,FG_ASSISTED,Jarrett Allen,8:22,1,Nets,Warriors,10 - 11,1,25,3,Jumper
+27,Stephen Curry,FG_MISS,None,8:13,1,Warriors,Nets,10 - 11,0, ,2,Jumper
+28,Damian Jones,OFFENSIVE_REBOUND,None,8:09,1,Warriors,Nets,10 - 11,0,N/A,N/A,N/A
+29,Klay Thompson,FG_MISS,None,8:01,1,Warriors,Nets,10 - 11,0, ,3,Jumper
+30,D'Angelo Russell,DEFENSIVE_REBOUND,None,7:58,1,Nets,Warriors,10 - 11,1,N/A,N/A,N/A
+31,D'Angelo Russell,FG_MISS,None,7:50,1,Nets,Warriors,10 - 11,1,27,3,Jumper
+32,Kevin Durant,DEFENSIVE_REBOUND,None,7:46,1,Warriors,Nets,10 - 11,0,N/A,N/A,N/A
+33,Kevin Durant,TURNOVER,Jared Dudley,7:45,1,Warriors,Nets,10 - 11,0,N/A,N/A,N/A
+34,Klay Thompson,FOUL_ON_FLOOR,None,7:36,1,Warriors,Nets,10 - 11,0,N/A,N/A,N/A
+35,Caris LeVert,FG_ASSISTED,Jarrett Allen,7:32,1,Nets,Warriors,10 - 14,1,25,3,Jumper
+36,Team,Unknown,None,7:28,1,Warriors,Nets,10 - 14,0,N/A,N/A,N/A
+37,Kevon Looney,SUBSTITUTION,Jones Damian,7:28,1,Warriors,Nets,10 - 14,0,N/A,N/A,N/A
+38,Jacob Evans,SUBSTITUTION,Thompson Klay,7:28,1,Warriors,Nets,10 - 14,0,N/A,N/A,N/A
+39,Draymond Green,FG_ASSISTED,Stephen Curry,7:16,1,Warriors,Nets,12 - 14,0,7,2,Jumper
+40,Jarrett Allen,FG_ASSISTED,D'Angelo Russell,7:05,1,Nets,Warriors,12 - 16,1,0,2,Layup
+41,Stephen Curry,TURNOVER,Jarrett Allen,6:48,1,Warriors,Nets,12 - 16,0,N/A,N/A,N/A
+42,Caris LeVert,TURNOVER,None,6:36,1,Nets,Warriors,12 - 16,1,N/A,N/A,N/A
+43,Kevin Durant,FG_UNASSISTED,None,6:25,1,Warriors,Nets,14 - 16,0, ,2,Jumper
+44,D'Angelo Russell,FG_ASSISTED,Caris LeVert,6:11,1,Nets,Warriors,14 - 19,1,25,3,Jumper
+45,Kevon Looney,TURNOVER,Jared Dudley,5:54,1,Warriors,Nets,14 - 19,0,N/A,N/A,N/A
+46,Caris LeVert,FG_MISS,None,5:49,1,Nets,Warriors,14 - 19,1, ,2,Jumper
+47,Stephen Curry,DEFENSIVE_REBOUND,None,5:46,1,Warriors,Nets,14 - 19,0,N/A,N/A,N/A
+48,Kevin Durant,FG_MISS,None,5:42,1,Warriors,Nets,14 - 19,0, ,2,Jumper
+49,D'Angelo Russell,DEFENSIVE_REBOUND,None,5:38,1,Nets,Warriors,14 - 19,1,N/A,N/A,N/A
+50,Jarrett Allen,FG_ASSISTED,Jared Dudley,5:32,1,Nets,Warriors,14 - 21,1,0,2,Layup
+51,Draymond Green,FG_ASSISTED,Kevin Durant,5:15,1,Warriors,Nets,16 - 21,0,16,2,Jumper
+52,Caris LeVert,FG_UNASSISTED,None,4:51,1,Nets,Warriors,16 - 23,1,0,2,Layup
+53,Stephen Curry,FG_ASSISTED,Draymond Green,4:42,1,Warriors,Nets,19 - 23,0,25,3,Jumper
+54,Team,Unknown,None,4:41,1,Nets,Warriors,19 - 23,1,N/A,N/A,N/A
+55,Spencer Dinwiddie,SUBSTITUTION,Russell D'Angelo,4:41,1,Nets,Warriors,19 - 23,1,N/A,N/A,N/A
+56,Allen Crabbe,SUBSTITUTION,Dudley Jared,4:41,1,Nets,Warriors,19 - 23,1,N/A,N/A,N/A
+57,Rondae Hollis-Jefferson,SUBSTITUTION,Harris Joe,4:41,1,Nets,Warriors,19 - 23,1,N/A,N/A,N/A
+58,Jonas Jerebko,SUBSTITUTION,Green Draymond,4:41,1,Warriors,Nets,19 - 23,0,N/A,N/A,N/A
+59,Caris LeVert,FG_UNASSISTED,None,4:26,1,Nets,Warriors,19 - 26,1,25,2,Jumper
+60,Kevon Looney,TURNOVER,Rondae Hollis-Jefferson,4:08,1,Warriors,Nets,19 - 26,0,N/A,N/A,N/A
+61,Caris LeVert,FG_MISS,None,4:03,1,Nets,Warriors,19 - 26,1,22,3,Jumper
+62,Jonas Jerebko,DEFENSIVE_REBOUND,None,3:59,1,Warriors,Nets,19 - 26,0,N/A,N/A,N/A
+63,Jonas Jerebko,FG_MISS,None,3:54,1,Warriors,Nets,19 - 26,0, ,2,Jumper
+64,Kevon Looney,OFFENSIVE_REBOUND,None,3:52,1,Warriors,Nets,19 - 26,0,N/A,N/A,N/A
+65,Kevon Looney,FG_UNASSISTED,None,3:51,1,Warriors,Nets,21 - 26,0, ,2,Jumper
+66,Kevon Looney,FOUL_ON_FLOOR,None,3:34,1,Warriors,Nets,21 - 26,0,N/A,N/A,N/A
+67,Ed Davis,SUBSTITUTION,LeVert Caris,3:34,1,Nets,Warriors,21 - 26,1,N/A,N/A,N/A
+68,Shabazz Napier,SUBSTITUTION,Allen Jarrett,3:34,1,Nets,Warriors,21 - 26,1,N/A,N/A,N/A
+69,Rondae Hollis-Jefferson,FG_MISS,None,3:24,1,Nets,Warriors,21 - 26,1, ,2,Jumper
+70,Stephen Curry,DEFENSIVE_REBOUND,None,3:22,1,Warriors,Nets,21 - 26,0,N/A,N/A,N/A
+71,Spencer Dinwiddie,FOUL_ON_FLOOR,None,3:19,1,Nets,Warriors,21 - 26,1,N/A,N/A,N/A
+72,Stephen Curry,FT,None,3:19,1,Warriors,Nets,22 - 26,0,N/A,1,N/A
+73,Stephen Curry,FT,None,3:19,1,Warriors,Nets,23 - 26,0,N/A,1,N/A
+74,Stephen Curry,FT,None,3:19,1,Warriors,Nets,24 - 26,0,N/A,1,N/A
+75,Rondae Hollis-Jefferson,FG_MISS,None,3:06,1,Nets,Warriors,24 - 26,1,13,2,Jumper
+76,Jonas Jerebko,DEFENSIVE_REBOUND,None,3:03,1,Warriors,Nets,24 - 26,0,N/A,N/A,N/A
+77,Stephen Curry,FG_MISS,None,2:58,1,Warriors,Nets,24 - 26,0,19,2,Jumper
+78,Allen Crabbe,DEFENSIVE_REBOUND,None,2:54,1,Nets,Warriors,24 - 26,1,N/A,N/A,N/A
+79,Shabazz Napier,FG_MISS,None,2:42,1,Nets,Warriors,24 - 26,1,26,3,Jumper
+80,Jonas Jerebko,DEFENSIVE_REBOUND,None,2:38,1,Warriors,Nets,24 - 26,0,N/A,N/A,N/A
+81,Allen Crabbe,FOUL_ON_FLOOR,None,2:34,1,Nets,Warriors,24 - 26,1,N/A,N/A,N/A
+82,Kevin Durant,FT_MISS,None,2:34,1,Warriors,Nets,24 - 26,0,N/A,1,N/A
+83,Team,OFFENSIVE_REBOUND,None,2:34,1,Warriors,Nets,24 - 26,0,N/A,N/A,N/A
+84,Kevin Durant,FT,None,2:34,1,Warriors,Nets,25 - 26,0,N/A,1,N/A
+85,Andre Iguodala,SUBSTITUTION,Evans Jacob,2:34,1,Warriors,Nets,25 - 26,0,N/A,N/A,N/A
+86,Kevin Durant,FT,None,2:34,1,Warriors,Nets,26 - 26,0,N/A,1,N/A
+87,Spencer Dinwiddie,FG_MISS,None,2:17,1,Nets,Warriors,26 - 26,1,26,3,Jumper
+88,Jonas Jerebko,DEFENSIVE_REBOUND,None,2:13,1,Warriors,Nets,26 - 26,0,N/A,N/A,N/A
+89,Kevin Durant,FG_UNASSISTED,None,2:08,1,Warriors,Nets,28 - 26,0, ,2,Jumper
+90,Shabazz Napier,FG_MISS,Andre Iguodala,1:43,1,Warriors,Nets,28 - 26,1,0,2,Layup
+91,Kevin Durant,DEFENSIVE_REBOUND,None,1:39,1,Warriors,Nets,28 - 26,0,N/A,N/A,N/A
+92,Kevin Durant,FG_MISS,None,1:37,1,Warriors,Nets,28 - 26,0,0,2,Layup
+93,Andre Iguodala,OFFENSIVE_REBOUND,None,1:37,1,Warriors,Nets,28 - 26,0,N/A,N/A,N/A
+94,Ed Davis,FOUL_ON_FLOOR,None,1:33,1,Nets,Warriors,28 - 26,1,N/A,N/A,N/A
+95,Jacob Evans,SUBSTITUTION,Durant Kevin,1:33,1,Warriors,Nets,28 - 26,0,N/A,N/A,N/A
+96,Stephen Curry,FG_UNASSISTED,None,1:27,1,Warriors,Nets,30 - 26,0,0,2,Layup
+97,Shabazz Napier,FG_UNASSISTED,None,1:07,1,Nets,Warriors,30 - 29,1,25,2,Jumper
+98,Stephen Curry,FG_MISS,None,53.7,1,Warriors,Nets,30 - 29,0,26,3,Jumper
+99,Shabazz Napier,DEFENSIVE_REBOUND,None,51.0,1,Nets,Warriors,30 - 29,1,N/A,N/A,N/A
+100,Jacob Evans,FOUL_ON_FLOOR,None,47.1,1,Warriors,Nets,30 - 29,0,N/A,N/A,N/A
+101,Allen Crabbe,FG_MISS,None,28.5,1,Nets,Warriors,30 - 29,1,18,2,Jumper
+102,Jonas Jerebko,DEFENSIVE_REBOUND,None,25.6,1,Warriors,Nets,30 - 29,0,N/A,N/A,N/A
+103,Stephen Curry,FG_ASSISTED,Andre Iguodala,6.7,1,Warriors,Nets,32 - 29,0, ,2,Jumper
+104,Allen Crabbe,FG_MISS,None,1.0,1,Nets,Warriors,32 - 29,1, ,3,Jumper
+105,Team,OFFENSIVE_REBOUND,None,0.0,1,Nets,Warriors,32 - 29,1,N/A,N/A,N/A
+106,End of,Unknown,None,0.0,1,Nets,Warriors,32 - 29,1,N/A,N/A,N/A
+0,Joe Harris,SUBSTITUTION,Hollis-Jefferson Rondae,12:00,2,Nets,Warriors,32 - 29,1,N/A,N/A,N/A
+1,Alfonzo McKinnie,SUBSTITUTION,Looney Kevon,12:00,2,Warriors,Nets,32 - 29,0,N/A,N/A,N/A
+2,Klay Thompson,SUBSTITUTION,Curry Stephen,12:00,2,Warriors,Nets,32 - 29,0,N/A,N/A,N/A
+3,Draymond Green,SUBSTITUTION,Evans Jacob,12:00,2,Warriors,Nets,32 - 29,0,N/A,N/A,N/A
+4,Draymond Green,FG_UNASSISTED,None,11:38,2,Warriors,Nets,34 - 29,0,6,2,Jumper
+5,Ed Davis,FG_ASSISTED,Shabazz Napier,11:13,2,Nets,Warriors,34 - 31,1,0,2,Layup
+6,Andre Iguodala,FG_ASSISTED,Jonas Jerebko,10:59,2,Warriors,Nets,36 - 31,0,18,2,Jumper
+7,Joe Harris,TURNOVER,Alfonzo McKinnie,10:36,2,Nets,Warriors,36 - 31,1,N/A,N/A,N/A
+8,Klay Thompson,FG_ASSISTED,Draymond Green,10:27,2,Warriors,Nets,38 - 31,0,19,2,Jumper
+9,Shabazz Napier,TURNOVER,None,10:09,2,Nets,Warriors,38 - 31,1,N/A,N/A,N/A
+10,Spencer Dinwiddie,FOUL_ON_FLOOR,None,9:59,2,Nets,Warriors,38 - 31,1,N/A,N/A,N/A
+11,Klay Thompson,FG_ASSISTED,Jonas Jerebko,9:52,2,Warriors,Nets,40 - 31,0,18,2,Jumper
+12,Shabazz Napier,FG_MISS,None,9:41,2,Nets,Warriors,40 - 31,1,25,3,Jumper
+13,Jonas Jerebko,DEFENSIVE_REBOUND,None,9:39,2,Warriors,Nets,40 - 31,0,N/A,N/A,N/A
+14,Klay Thompson,FG_MISS,None,9:32,2,Warriors,Nets,40 - 31,0,18,2,Jumper
+15,Ed Davis,DEFENSIVE_REBOUND,None,9:30,2,Nets,Warriors,40 - 31,1,N/A,N/A,N/A
+16,Allen Crabbe,FG_MISS,None,9:15,2,Nets,Warriors,40 - 31,1,25,3,Jumper
+17,Alfonzo McKinnie,DEFENSIVE_REBOUND,None,9:12,2,Warriors,Nets,40 - 31,0,N/A,N/A,N/A
+18,Alfonzo McKinnie,TURNOVER,None,9:06,2,Warriors,Nets,40 - 31,0,N/A,N/A,N/A
+19,Alfonzo McKinnie,TURNOVER,None,9:06,2,Warriors,Nets,40 - 31,0,N/A,N/A,N/A
+20,Spencer Dinwiddie,FG_MISS,None,8:51,2,Nets,Warriors,40 - 31,1, ,2,Jumper
+21,Spencer Dinwiddie,OFFENSIVE_REBOUND,None,8:49,2,Nets,Warriors,40 - 31,1,N/A,N/A,N/A
+22,Joe Harris,FG_ASSISTED,Allen Crabbe,8:46,2,Nets,Warriors,40 - 34,1,25,3,Jumper
+23,Allen Crabbe,FOUL_ON_FLOOR,None,8:35,2,Nets,Warriors,40 - 34,1,N/A,N/A,N/A
+24,Klay Thompson,FG_ASSISTED,Draymond Green,8:25,2,Warriors,Nets,42 - 34,0,0,2,Layup
+25,Team,Unknown,None,8:25,2,Nets,Warriors,42 - 34,1,N/A,N/A,N/A
+26,Jared Dudley,SUBSTITUTION,Napier Shabazz,8:25,2,Nets,Warriors,42 - 34,1,N/A,N/A,N/A
+27,Allen Crabbe,FG_ASSISTED,Joe Harris,8:12,2,Nets,Warriors,42 - 37,1, ,3,Jumper
+28,Klay Thompson,FG_MISS,None,7:58,2,Warriors,Nets,42 - 37,0,22,2,Jumper
+29,Ed Davis,DEFENSIVE_REBOUND,None,7:54,2,Nets,Warriors,42 - 37,1,N/A,N/A,N/A
+30,Jared Dudley,TURNOVER,Draymond Green,7:39,2,Nets,Warriors,42 - 37,1,N/A,N/A,N/A
+31,Alfonzo McKinnie,FG_ASSISTED,Draymond Green,7:34,2,Warriors,Nets,44 - 37,0,0,2,Dunk
+32,Allen Crabbe,TURNOVER,None,7:12,2,Nets,Warriors,44 - 37,1,N/A,N/A,N/A
+33,Jordan Bell,SUBSTITUTION,Jerebko Jonas,7:12,2,Warriors,Nets,44 - 37,0,N/A,N/A,N/A
+34,Kevin Durant,SUBSTITUTION,McKinnie Alfonzo,7:12,2,Warriors,Nets,44 - 37,0,N/A,N/A,N/A
+35,Klay Thompson,FG_MISS,None,7:00,2,Warriors,Nets,44 - 37,0,18,2,Jumper
+36,Allen Crabbe,DEFENSIVE_REBOUND,None,6:57,2,Nets,Warriors,44 - 37,1,N/A,N/A,N/A
+37,Spencer Dinwiddie,FG_MISS,None,6:41,2,Nets,Warriors,44 - 37,1,25,3,Jumper
+38,Jared Dudley,OFFENSIVE_REBOUND,None,6:36,2,Nets,Warriors,44 - 37,1,N/A,N/A,N/A
+39,Joe Harris,FG_MISS,None,6:35,2,Nets,Warriors,44 - 37,1,25,3,Jumper
+40,Kevin Durant,DEFENSIVE_REBOUND,None,6:33,2,Warriors,Nets,44 - 37,0,N/A,N/A,N/A
+41,Andre Iguodala,FG_MISS,None,6:27,2,Warriors,Nets,44 - 37,0,23,3,Jumper
+42,Allen Crabbe,DEFENSIVE_REBOUND,None,6:25,2,Nets,Warriors,44 - 37,1,N/A,N/A,N/A
+43,Andre Iguodala,FOUL_ON_FLOOR,None,6:16,2,Warriors,Nets,44 - 37,0,N/A,N/A,N/A
+44,Allen Crabbe,FT_MISS,None,6:16,2,Nets,Warriors,44 - 37,1,N/A,1,N/A
+45,Team,OFFENSIVE_REBOUND,None,6:16,2,Nets,Warriors,44 - 37,1,N/A,N/A,N/A
+46,Allen Crabbe,FT,None,6:16,2,Nets,Warriors,44 - 38,1,N/A,1,N/A
+47,Rondae Hollis-Jefferson,SUBSTITUTION,Davis Ed,6:16,2,Nets,Warriors,44 - 38,1,N/A,N/A,N/A
+48,Alfonzo McKinnie,SUBSTITUTION,Iguodala Andre,6:16,2,Warriors,Nets,44 - 38,0,N/A,N/A,N/A
+49,Stephen Curry,SUBSTITUTION,Green Draymond,6:16,2,Warriors,Nets,44 - 38,0,N/A,N/A,N/A
+50,Allen Crabbe,FT,None,6:16,2,Nets,Warriors,44 - 39,1,N/A,1,N/A
+51,Joe Harris,FOUL_ON_FLOOR,None,5:55,2,Nets,Warriors,44 - 39,1,N/A,N/A,N/A
+52,Klay Thompson,FT,None,5:55,2,Warriors,Nets,45 - 39,0,N/A,1,N/A
+53,Caris LeVert,SUBSTITUTION,Crabbe Allen,5:55,2,Nets,Warriors,45 - 39,1,N/A,N/A,N/A
+54,Klay Thompson,FT_MISS,None,5:55,2,Warriors,Nets,45 - 39,0,N/A,1,N/A
+55,Jared Dudley,DEFENSIVE_REBOUND,None,5:53,2,Nets,Warriors,45 - 39,1,N/A,N/A,N/A
+56,Rondae Hollis-Jefferson's,FG_MISS,Klay Thompson,5:36,2,Warriors,Nets,45 - 39,1, ,2,Jumper
+57,Jordan Bell,DEFENSIVE_REBOUND,None,5:34,2,Warriors,Nets,45 - 39,0,N/A,N/A,N/A
+58,Kevin Durant,FG_UNASSISTED,None,5:27,2,Warriors,Nets,48 - 39,0,25,3,Jumper
+59,Rondae Hollis-Jefferson,FG_MISS,None,5:08,2,Nets,Warriors,48 - 39,1,0,2,Layup
+60,Stephen Curry,DEFENSIVE_REBOUND,None,5:08,2,Warriors,Nets,48 - 39,0,N/A,N/A,N/A
+61,Stephen Curry,FG_UNASSISTED,None,5:02,2,Warriors,Nets,50 - 39,0, ,2,Jumper
+62,Team,Unknown,None,5:02,2,Nets,Warriors,50 - 39,1,N/A,N/A,N/A
+63,D'Angelo Russell,SUBSTITUTION,Dudley Jared,5:02,2,Nets,Warriors,50 - 39,1,N/A,N/A,N/A
+64,Jarrett Allen,SUBSTITUTION,Dinwiddie Spencer,5:02,2,Nets,Warriors,50 - 39,1,N/A,N/A,N/A
+65,Caris LeVert,FG_UNASSISTED,None,4:50,2,Nets,Warriors,50 - 41,1, ,2,Jumper
+66,Kevin Durant,FG_MISS,None,4:37,2,Warriors,Nets,50 - 41,0, ,2,Jumper
+67,Team,DEFENSIVE_REBOUND,None,4:30,2,Nets,Warriors,50 - 41,1,N/A,N/A,N/A
+68,D'Angelo Russell,FG_MISS,Kevin Durant,4:16,2,Warriors,Nets,50 - 41,1,6,2,Jumper
+69,Kevin Durant,DEFENSIVE_REBOUND,None,4:13,2,Warriors,Nets,50 - 41,0,N/A,N/A,N/A
+70,Jordan Bell,FG_ASSISTED,Kevin Durant,3:55,2,Warriors,Nets,52 - 41,0,0,2,Layup
+71,Alfonzo McKinnie,FOUL_ON_FLOOR,None,3:40,2,Warriors,Nets,52 - 41,0,N/A,N/A,N/A
+72,Rondae Hollis-Jefferson,FT_MISS,None,3:40,2,Nets,Warriors,52 - 41,1,N/A,1,N/A
+73,Team,OFFENSIVE_REBOUND,None,3:40,2,Nets,Warriors,52 - 41,1,N/A,N/A,N/A
+74,Draymond Green,SUBSTITUTION,McKinnie Alfonzo,3:40,2,Warriors,Nets,52 - 41,0,N/A,N/A,N/A
+75,Spencer Dinwiddie,SUBSTITUTION,Harris Joe,3:40,2,Nets,Warriors,52 - 41,1,N/A,N/A,N/A
+76,Rondae Hollis-Jefferson,FT,None,3:40,2,Nets,Warriors,52 - 42,1,N/A,1,N/A
+77,Stephen Curry,FG_MISS,None,3:26,2,Warriors,Nets,52 - 42,0, ,2,Jumper
+78,Stephen Curry,OFFENSIVE_REBOUND,None,3:25,2,Warriors,Nets,52 - 42,0,N/A,N/A,N/A
+79,Stephen Curry,FG_ASSISTED,Draymond Green,3:19,2,Warriors,Nets,55 - 42,0,23,3,Jumper
+80,Caris LeVert,TURNOVER,Kevin Durant,2:59,2,Nets,Warriors,55 - 42,1,N/A,N/A,N/A
+81,Draymond Green,FG_ASSISTED,Kevin Durant,2:55,2,Warriors,Nets,57 - 42,0, ,2,Jumper
+82,D'Angelo Russell,TURNOVER,Klay Thompson,2:29,2,Nets,Warriors,57 - 42,1,N/A,N/A,N/A
+83,Kevin Durant,TURNOVER,None,2:25,2,Warriors,Nets,57 - 42,0,N/A,N/A,N/A
+84,D'Angelo Russell,TURNOVER,Draymond Green,2:15,2,Nets,Warriors,57 - 42,1,N/A,N/A,N/A
+85,Stephen Curry,TURNOVER,None,2:11,2,Warriors,Nets,57 - 42,0,N/A,N/A,N/A
+86,Rondae Hollis-Jefferson,FG_ASSISTED,D'Angelo Russell,2:03,2,Nets,Warriors,57 - 44,1,5,2,Jumper
+87,Draymond Green,FG_MISS,None,1:50,2,Warriors,Nets,57 - 44,0,25,3,Jumper
+88,Jordan Bell,OFFENSIVE_REBOUND,None,1:47,2,Warriors,Nets,57 - 44,0,N/A,N/A,N/A
+89,Kevin Durant,FG_ASSISTED,Jordan Bell,1:45,2,Warriors,Nets,60 - 44,0,25,3,Jumper
+90,Rondae Hollis-Jefferson,FG_MISS,None,1:24,2,Nets,Warriors,60 - 44,1,24,3,Jumper
+91,Draymond Green,DEFENSIVE_REBOUND,None,1:22,2,Warriors,Nets,60 - 44,0,N/A,N/A,N/A
+92,Stephen Curry,FG_UNASSISTED,None,1:16,2,Warriors,Nets,63 - 44,0,27,3,Jumper
+93,D'Angelo Russell,FG_UNASSISTED,None,1:03,2,Nets,Warriors,63 - 47,1,27,3,Jumper
+94,Kevin Durant,FG_MISS,None,52.8,2,Warriors,Nets,63 - 47,0,24,3,Jumper
+95,D'Angelo Russell,DEFENSIVE_REBOUND,None,49.7,2,Nets,Warriors,63 - 47,1,N/A,N/A,N/A
+96,Rondae Hollis-Jefferson,FG_ASSISTED,D'Angelo Russell,44.4,2,Nets,Warriors,63 - 49,1,0,2,Layup
+97,Stephen Curry,FG_MISS,None,27.0,2,Warriors,Nets,63 - 49,0,24,3,Jumper
+98,Rondae Hollis-Jefferson,DEFENSIVE_REBOUND,None,24.1,2,Nets,Warriors,63 - 49,1,N/A,N/A,N/A
+99,Caris LeVert,FG_MISS,None,5.8,2,Nets,Warriors,63 - 49,1,19,2,Jumper
+100,Kevin Durant,DEFENSIVE_REBOUND,None,3.2,2,Warriors,Nets,63 - 49,0,N/A,N/A,N/A
+101,Stephen Curry,FG_MISS,None,0.7,2,Warriors,Nets,63 - 49,0,46,3,Jumper
+102,Team,OFFENSIVE_REBOUND,None,0.7,2,Warriors,Nets,63 - 49,0,N/A,N/A,N/A
+103,End of,Unknown,None,0.0,2,Nets,Warriors,63 - 49,1,N/A,N/A,N/A
+0,Joe Harris,SUBSTITUTION,Hollis-Jefferson Rondae,12:00,3,Nets,Warriors,63 - 49,1,N/A,N/A,N/A
+1,Jared Dudley,SUBSTITUTION,Dinwiddie Spencer,12:00,3,Nets,Warriors,63 - 49,1,N/A,N/A,N/A
+2,Damian Jones,SUBSTITUTION,Bell Jordan,12:00,3,Warriors,Nets,63 - 49,0,N/A,N/A,N/A
+3,Klay Thompson,FG_MISS,None,11:45,3,Warriors,Nets,63 - 49,0,12,2,Jumper
+4,Jared Dudley,DEFENSIVE_REBOUND,None,11:41,3,Nets,Warriors,63 - 49,1,N/A,N/A,N/A
+5,foul 63,FOUL_ON_FLOOR,None,11:29,3,Nets,Warriors,63 - 49,1,N/A,N/A,N/A
+6,Damian Jones,FOUL_ON_FLOOR,None,11:29,3,Warriors,Nets,63 - 49,0,N/A,N/A,N/A
+7,Jarrett Allen,FT_MISS,None,11:29,3,Nets,Warriors,63 - 49,1,N/A,1,N/A
+8,Team,OFFENSIVE_REBOUND,None,11:29,3,Nets,Warriors,63 - 49,1,N/A,N/A,N/A
+9,Jarrett Allen,FT,None,11:29,3,Nets,Warriors,63 - 50,1,N/A,1,N/A
+10,Caris LeVert,FOUL_ON_FLOOR,None,11:18,3,Nets,Warriors,63 - 50,1,N/A,N/A,N/A
+11,Kevin Durant,FOUL_TECHNICAL,None,11:18,3,Warriors,Nets,63 - 50,0,N/A,N/A,N/A
+12,D'Angelo Russell,FT,None,11:18,3,Nets,Warriors,63 - 51,1,N/A,1,N/A
+13,Stephen Curry,FG_MISS,None,11:10,3,Warriors,Nets,63 - 51,0,21,2,Jumper
+14,Draymond Green,OFFENSIVE_REBOUND,None,11:06,3,Warriors,Nets,63 - 51,0,N/A,N/A,N/A
+15,Damian Jones,TURNOVER,None,11:01,3,Warriors,Nets,63 - 51,0,N/A,N/A,N/A
+16,Caris LeVert,FG_MISS,Damian Jones,10:41,3,Warriors,Nets,63 - 51,1,0,2,Layup
+17,Kevin Durant,DEFENSIVE_REBOUND,None,10:38,3,Warriors,Nets,63 - 51,0,N/A,N/A,N/A
+18,Jared Dudley,FOUL_ON_FLOOR,None,10:37,3,Nets,Warriors,63 - 51,1,N/A,N/A,N/A
+19,Kevin Durant,FT,None,10:37,3,Warriors,Nets,64 - 51,0,N/A,1,N/A
+20,Kevin Durant,FT,None,10:37,3,Warriors,Nets,65 - 51,0,N/A,1,N/A
+21,Jared Dudley,FG_ASSISTED,Caris LeVert,10:22,3,Nets,Warriors,65 - 53,1,0,2,Layup
+22,Damian Jones,Unknown,None,10:22,3,Warriors,Nets,65 - 53,0,N/A,N/A,N/A
+23,Stephen Curry,FG_MISS,None,10:00,3,Warriors,Nets,65 - 53,0,27,3,Jumper
+24,Jarrett Allen,DEFENSIVE_REBOUND,None,9:57,3,Nets,Warriors,65 - 53,1,N/A,N/A,N/A
+25,Jared Dudley,FG_MISS,None,9:51,3,Nets,Warriors,65 - 53,1,26,3,Jumper
+26,Klay Thompson,DEFENSIVE_REBOUND,None,9:48,3,Warriors,Nets,65 - 53,0,N/A,N/A,N/A
+27,D'Angelo Russell,FOUL_ON_FLOOR,None,9:43,3,Nets,Warriors,65 - 53,1,N/A,N/A,N/A
+28,Kevin Durant,FG_ASSISTED,Stephen Curry,9:36,3,Warriors,Nets,67 - 53,0,18,2,Jumper
+29,Jared Dudley,FG_ASSISTED,Caris LeVert,9:12,3,Nets,Warriors,67 - 55,1,13,2,Jumper
+30,Klay Thompson,FOUL_ON_FLOOR,None,8:57,3,Warriors,Nets,67 - 55,0,N/A,N/A,N/A
+31,Klay Thompson,TURNOVER,None,8:57,3,Warriors,Nets,67 - 55,0,N/A,N/A,N/A
+32,Damian Jones,FOUL_ON_FLOOR,None,8:49,3,Warriors,Nets,67 - 55,0,N/A,N/A,N/A
+33,D'Angelo Russell,TURNOVER,Draymond Green,8:33,3,Nets,Warriors,67 - 55,1,N/A,N/A,N/A
+34,Stephen Curry,FG_ASSISTED,Draymond Green,8:28,3,Warriors,Nets,69 - 55,0, ,2,Jumper
+35,Jarrett Allen,TURNOVER,Draymond Green,8:14,3,Nets,Warriors,69 - 55,1,N/A,N/A,N/A
+36,Joe Harris,FOUL_ON_FLOOR,None,8:12,3,Nets,Warriors,69 - 55,1,N/A,N/A,N/A
+37,Damian Jones,FG_ASSISTED,Draymond Green,7:50,3,Warriors,Nets,71 - 55,0,0,2,Dunk
+38,Caris LeVert,FG_ASSISTED,Jared Dudley,7:37,3,Nets,Warriors,71 - 58,1,24,3,Jumper
+39,Caris LeVert,FOUL_ON_FLOOR,None,7:23,3,Nets,Warriors,71 - 58,1,N/A,N/A,N/A
+40,Kevin Durant,FT,None,7:23,3,Warriors,Nets,72 - 58,0,N/A,1,N/A
+41,Kevin Durant,FT,None,7:23,3,Warriors,Nets,73 - 58,0,N/A,1,N/A
+42,D'Angelo Russell,FG_ASSISTED,Caris LeVert,7:11,3,Nets,Warriors,73 - 60,1,13,2,Jumper
+43,Damian Jones,FG_MISS,D'Angelo Russell,6:59,3,Nets,Warriors,73 - 60,0,0,2,Layup
+44,Jared Dudley,DEFENSIVE_REBOUND,None,6:57,3,Nets,Warriors,73 - 60,1,N/A,N/A,N/A
+45,D'Angelo Russell,TURNOVER,Stephen Curry,6:50,3,Nets,Warriors,73 - 60,1,N/A,N/A,N/A
+46,Stephen Curry,FG_ASSISTED,Kevin Durant,6:43,3,Warriors,Nets,76 - 60,0,29,3,Jumper
+47,Team,Unknown,None,6:42,3,Nets,Warriors,76 - 60,1,N/A,N/A,N/A
+48,D'Angelo Russell,FG_MISS,None,6:25,3,Nets,Warriors,76 - 60,1,26,3,Jumper
+49,Jared Dudley,OFFENSIVE_REBOUND,None,6:21,3,Nets,Warriors,76 - 60,1,N/A,N/A,N/A
+50,Caris LeVert,FG_UNASSISTED,None,6:14,3,Nets,Warriors,76 - 62,1,0,2,Layup
+51,Damian Jones,FOUL_ON_FLOOR,None,6:14,3,Warriors,Nets,76 - 62,0,N/A,N/A,N/A
+52,Rondae Hollis-Jefferson,SUBSTITUTION,Dudley Jared,6:14,3,Nets,Warriors,76 - 62,1,N/A,N/A,N/A
+53,Caris LeVert,FT,None,6:14,3,Nets,Warriors,76 - 63,1,N/A,1,N/A
+54,Klay Thompson,FG_ASSISTED,Draymond Green,6:03,3,Warriors,Nets,78 - 63,0,17,2,Jumper
+55,Rondae Hollis-Jefferson,FG_ASSISTED,Joe Harris,5:48,3,Nets,Warriors,78 - 65,1, ,2,Jumper
+56,Klay Thompson,FG_MISS,None,5:40,3,Warriors,Nets,78 - 65,0,26,3,Jumper
+57,Caris LeVert,DEFENSIVE_REBOUND,None,5:38,3,Nets,Warriors,78 - 65,1,N/A,N/A,N/A
+58,Joe Harris,FG_MISS,None,5:28,3,Nets,Warriors,78 - 65,1,24,3,Jumper
+59,Klay Thompson,DEFENSIVE_REBOUND,None,5:25,3,Warriors,Nets,78 - 65,0,N/A,N/A,N/A
+60,Klay Thompson,FG_MISS,None,5:13,3,Warriors,Nets,78 - 65,0,21,2,Jumper
+61,D'Angelo Russell,DEFENSIVE_REBOUND,None,5:10,3,Nets,Warriors,78 - 65,1,N/A,N/A,N/A
+62,Damian Jones,FOUL_ON_FLOOR,None,4:57,3,Warriors,Nets,78 - 65,0,N/A,N/A,N/A
+63,D'Angelo Russell,FT_MISS,None,4:57,3,Nets,Warriors,78 - 65,1,N/A,1,N/A
+64,Team,OFFENSIVE_REBOUND,None,4:57,3,Nets,Warriors,78 - 65,1,N/A,N/A,N/A
+65,Allen Crabbe,SUBSTITUTION,LeVert Caris,4:57,3,Nets,Warriors,78 - 65,1,N/A,N/A,N/A
+66,Spencer Dinwiddie,SUBSTITUTION,Allen Jarrett,4:57,3,Nets,Warriors,78 - 65,1,N/A,N/A,N/A
+67,Ed Davis,SUBSTITUTION,Harris Joe,4:57,3,Nets,Warriors,78 - 65,1,N/A,N/A,N/A
+68,Alfonzo McKinnie,SUBSTITUTION,Thompson Klay,4:57,3,Warriors,Nets,78 - 65,0,N/A,N/A,N/A
+69,Kevon Looney,SUBSTITUTION,Jones Damian,4:57,3,Warriors,Nets,78 - 65,0,N/A,N/A,N/A
+70,D'Angelo Russell,FT,None,4:57,3,Nets,Warriors,78 - 66,1,N/A,1,N/A
+71,Stephen Curry,FG_MISS,None,4:47,3,Warriors,Nets,78 - 66,0,26,3,Jumper
+72,Ed Davis,DEFENSIVE_REBOUND,None,4:46,3,Nets,Warriors,78 - 66,1,N/A,N/A,N/A
+73,D'Angelo Russell,FG_MISS,None,4:32,3,Nets,Warriors,78 - 66,1,13,2,Jumper
+74,Alfonzo McKinnie,DEFENSIVE_REBOUND,None,4:26,3,Warriors,Nets,78 - 66,0,N/A,N/A,N/A
+75,Rondae Hollis-Jefferson,FOUL_ON_FLOOR,None,4:24,3,Nets,Warriors,78 - 66,1,N/A,N/A,N/A
+76,Kevin Durant,FT,None,4:24,3,Warriors,Nets,79 - 66,0,N/A,1,N/A
+77,Jonas Jerebko,SUBSTITUTION,Green Draymond,4:24,3,Warriors,Nets,79 - 66,0,N/A,N/A,N/A
+78,Kevin Durant,FT,None,4:24,3,Warriors,Nets,80 - 66,0,N/A,1,N/A
+79,Spencer Dinwiddie's,FG_MISS,Alfonzo McKinnie,4:05,3,Warriors,Nets,80 - 66,1,0,2,Layup
+80,Kevon Looney,DEFENSIVE_REBOUND,None,4:01,3,Warriors,Nets,80 - 66,0,N/A,N/A,N/A
+81,Alfonzo McKinnie,FG_ASSISTED,Kevin Durant,3:58,3,Warriors,Nets,82 - 66,0, ,2,Jumper
+82,Allen Crabbe,FG_MISS,None,3:39,3,Nets,Warriors,82 - 66,1,20,2,Jumper
+83,Team,DEFENSIVE_REBOUND,None,3:37,3,Warriors,Nets,82 - 66,0,N/A,N/A,N/A
+84,Ed Davis,FOUL_ON_FLOOR,None,3:37,3,Nets,Warriors,82 - 66,1,N/A,N/A,N/A
+85,Jonas Jerebko,FT,None,3:37,3,Warriors,Nets,83 - 66,0,N/A,1,N/A
+86,Shabazz Napier,SUBSTITUTION,Russell D'Angelo,3:37,3,Nets,Warriors,83 - 66,1,N/A,N/A,N/A
+87,Jonas Jerebko,FT,None,3:37,3,Warriors,Nets,84 - 66,0,N/A,1,N/A
+88,Allen Crabbe,FG_MISS,None,3:27,3,Nets,Warriors,84 - 66,1,13,2,Jumper
+89,Stephen Curry,DEFENSIVE_REBOUND,None,3:24,3,Warriors,Nets,84 - 66,0,N/A,N/A,N/A
+90,Stephen Curry,FG_MISS,None,3:21,3,Warriors,Nets,84 - 66,0, ,2,Jumper
+91,Rondae Hollis-Jefferson,DEFENSIVE_REBOUND,None,3:17,3,Nets,Warriors,84 - 66,1,N/A,N/A,N/A
+92,Spencer Dinwiddie,FG_ASSISTED,Shabazz Napier,3:11,3,Nets,Warriors,84 - 69,1,22,3,Jumper
+93,Kevin Durant,FG_MISS,None,2:47,3,Warriors,Nets,84 - 69,0, ,2,Jumper
+94,Ed Davis,DEFENSIVE_REBOUND,None,2:44,3,Nets,Warriors,84 - 69,1,N/A,N/A,N/A
+95,Shabazz Napier,FG_MISS,None,2:36,3,Nets,Warriors,84 - 69,1,0,2,Layup
+96,Ed Davis,OFFENSIVE_REBOUND,None,2:34,3,Nets,Warriors,84 - 69,1,N/A,N/A,N/A
+97,Ed Davis,FG_UNASSISTED,None,2:32,3,Nets,Warriors,84 - 71,1, ,2,Jumper
+98,Team,Unknown,None,2:31,3,Warriors,Nets,84 - 71,0,N/A,N/A,N/A
+99,Andre Iguodala,SUBSTITUTION,Durant Kevin,2:31,3,Warriors,Nets,84 - 71,0,N/A,N/A,N/A
+100,Allen Crabbe,FOUL_ON_FLOOR,None,2:19,3,Nets,Warriors,84 - 71,1,N/A,N/A,N/A
+101,Jonas Jerebko,FT,None,2:19,3,Warriors,Nets,85 - 71,0,N/A,1,N/A
+102,Jonas Jerebko,FT,None,2:19,3,Warriors,Nets,86 - 71,0,N/A,1,N/A
+103,Shabazz Napier,FG_MISS,None,2:00,3,Nets,Warriors,86 - 71,1, ,2,Jumper
+104,Andre Iguodala,DEFENSIVE_REBOUND,None,1:58,3,Warriors,Nets,86 - 71,0,N/A,N/A,N/A
+105,Stephen Curry,FG_MISS,None,1:55,3,Warriors,Nets,86 - 71,0,27,3,Jumper
+106,Kevon Looney,OFFENSIVE_REBOUND,None,1:52,3,Warriors,Nets,86 - 71,0,N/A,N/A,N/A
+107,Kevon Looney,FG_UNASSISTED,None,1:51,3,Warriors,Nets,88 - 71,0, ,2,Jumper
+108,Spencer Dinwiddie,FG_UNASSISTED,None,1:38,3,Nets,Warriors,88 - 74,1,28,2,Jumper
+109,Stephen Curry,FG_MISS,None,1:22,3,Warriors,Nets,88 - 74,0,23,3,Jumper
+110,Andre Iguodala,OFFENSIVE_REBOUND,None,1:19,3,Warriors,Nets,88 - 74,0,N/A,N/A,N/A
+111,Alfonzo McKinnie,FG_ASSISTED,Andre Iguodala,1:16,3,Warriors,Nets,91 - 74,0,24,3,Jumper
+112,Spencer Dinwiddie,TURNOVER,Andre Iguodala,1:05,3,Nets,Warriors,91 - 74,1,N/A,N/A,N/A
+113,Alfonzo McKinnie,FG_MISS,None,59.1,3,Warriors,Nets,91 - 74,0, ,3,Jumper
+114,Andre Iguodala,OFFENSIVE_REBOUND,None,55.2,3,Warriors,Nets,91 - 74,0,N/A,N/A,N/A
+115,Jonas Jerebko,FG_MISS,None,52.8,3,Warriors,Nets,91 - 74,0, ,3,Jumper
+116,Alfonzo McKinnie,OFFENSIVE_REBOUND,None,51.9,3,Warriors,Nets,91 - 74,0,N/A,N/A,N/A
+117,Alfonzo McKinnie,FG_UNASSISTED,None,51.9,3,Warriors,Nets,93 - 74,0, ,2,Jumper
+118,Team,Unknown,None,51.9,3,Nets,Warriors,93 - 74,1,N/A,N/A,N/A
+119,Rondae Hollis-Jefferson,FG_MISS,None,42.5,3,Nets,Warriors,93 - 74,1,16,2,Jumper
+120,Stephen Curry,DEFENSIVE_REBOUND,None,39.1,3,Warriors,Nets,93 - 74,0,N/A,N/A,N/A
+121,Kevon Looney,FG_MISS,None,21.5,3,Warriors,Nets,93 - 74,0,18,2,Jumper
+122,Ed Davis,DEFENSIVE_REBOUND,None,17.3,3,Nets,Warriors,93 - 74,1,N/A,N/A,N/A
+123,Spencer Dinwiddie,FG_ASSISTED,Shabazz Napier,0.2,3,Nets,Warriors,93 - 77,1,24,3,Jumper
+124,End of,Unknown,None,0.0,3,Nets,Warriors,93 - 77,1,N/A,N/A,N/A
+0,Joe Harris,SUBSTITUTION,Hollis-Jefferson Rondae,12:00,4,Nets,Warriors,93 - 77,1,N/A,N/A,N/A
+1,Klay Thompson,SUBSTITUTION,Looney Kevon,12:00,4,Warriors,Nets,93 - 77,0,N/A,N/A,N/A
+2,Kevin Durant,SUBSTITUTION,McKinnie Alfonzo,12:00,4,Warriors,Nets,93 - 77,0,N/A,N/A,N/A
+3,Draymond Green,SUBSTITUTION,Curry Stephen,12:00,4,Warriors,Nets,93 - 77,0,N/A,N/A,N/A
+4,Spencer Dinwiddie,FG_ASSISTED,Allen Crabbe,11:40,4,Nets,Warriors,93 - 80,1,23,3,Jumper
+5,Klay Thompson,FG_ASSISTED,Kevin Durant,11:19,4,Warriors,Nets,95 - 80,0, ,2,Jumper
+6,Allen Crabbe,FG_ASSISTED,Ed Davis,11:03,4,Nets,Warriors,95 - 83,1,25,3,Jumper
+7,Kevin Durant,FG_MISS,None,10:53,4,Warriors,Nets,95 - 83,0,26,3,Jumper
+8,Allen Crabbe,DEFENSIVE_REBOUND,None,10:49,4,Nets,Warriors,95 - 83,1,N/A,N/A,N/A
+9,Draymond Green,FOUL_ON_FLOOR,None,10:32,4,Warriors,Nets,95 - 83,0,N/A,N/A,N/A
+10,Shabazz Napier,FT,None,10:32,4,Nets,Warriors,95 - 84,1,N/A,1,N/A
+11,Alfonzo McKinnie,SUBSTITUTION,Jerebko Jonas,10:32,4,Warriors,Nets,95 - 84,0,N/A,N/A,N/A
+12,Shabazz Napier,FT,None,10:32,4,Nets,Warriors,95 - 85,1,N/A,1,N/A
+13,Kevin Durant,FG_MISS,None,10:18,4,Warriors,Nets,95 - 85,0, ,2,Jumper
+14,Ed Davis,DEFENSIVE_REBOUND,None,10:14,4,Nets,Warriors,95 - 85,1,N/A,N/A,N/A
+15,Spencer Dinwiddie,FG_MISS,None,9:57,4,Nets,Warriors,95 - 85,1,26,3,Jumper
+16,Alfonzo McKinnie,DEFENSIVE_REBOUND,None,9:54,4,Warriors,Nets,95 - 85,0,N/A,N/A,N/A
+17,Joe Harris,FOUL_ON_FLOOR,None,9:48,4,Nets,Warriors,95 - 85,1,N/A,N/A,N/A
+18,Kevin Durant,FG_UNASSISTED,None,9:41,4,Warriors,Nets,97 - 85,0,16,2,Jumper
+19,Shabazz Napier,FG_MISS,None,9:25,4,Nets,Warriors,97 - 85,1,25,2,Jumper
+20,Klay Thompson,DEFENSIVE_REBOUND,None,9:23,4,Warriors,Nets,97 - 85,0,N/A,N/A,N/A
+21,Klay Thompson,FG_UNASSISTED,None,9:17,4,Warriors,Nets,99 - 85,0,20,2,Jumper
+22,Joe Harris,TURNOVER,None,9:00,4,Nets,Warriors,99 - 85,1,N/A,N/A,N/A
+23,Kevin Durant,FG_UNASSISTED,None,8:47,4,Warriors,Nets,101 - 85,0,18,2,Jumper
+24,Team,Unknown,None,8:46,4,Nets,Warriors,101 - 85,1,N/A,N/A,N/A
+25,D'Angelo Russell,SUBSTITUTION,Dinwiddie Spencer,8:46,4,Nets,Warriors,101 - 85,1,N/A,N/A,N/A
+26,Caris LeVert,SUBSTITUTION,Harris Joe,8:46,4,Nets,Warriors,101 - 85,1,N/A,N/A,N/A
+27,Jarrett Allen,SUBSTITUTION,Napier Shabazz,8:46,4,Nets,Warriors,101 - 85,1,N/A,N/A,N/A
+28,Jared Dudley,SUBSTITUTION,Davis Ed,8:46,4,Nets,Warriors,101 - 85,1,N/A,N/A,N/A
+29,Allen Crabbe,FG_ASSISTED,D'Angelo Russell,8:33,4,Nets,Warriors,101 - 88,1,25,3,Jumper
+30,Kevin Durant,FG_UNASSISTED,None,8:19,4,Warriors,Nets,103 - 88,0,18,2,Jumper
+31,Jared Dudley,FG_ASSISTED,Jarrett Allen,8:02,4,Nets,Warriors,103 - 90,1,0,2,Layup
+32,Kevin Durant,Unknown,None,8:02,4,Warriors,Nets,103 - 90,0,N/A,N/A,N/A
+33,Andre Iguodala,FG_ASSISTED,Draymond Green,7:51,4,Warriors,Nets,105 - 90,0,0,2,Dunk
+34,Andre Iguodala,FOUL_ON_FLOOR,None,7:40,4,Warriors,Nets,105 - 90,0,N/A,N/A,N/A
+35,Allen Crabbe,FG_ASSISTED,Jarrett Allen,7:36,4,Nets,Warriors,105 - 93,1,27,3,Jumper
+36,Kevin Durant,TURNOVER,None,7:17,4,Warriors,Nets,105 - 93,0,N/A,N/A,N/A
+37,Allen Crabbe,FG_MISS,None,7:04,4,Nets,Warriors,105 - 93,1, ,2,Jumper
+38,Alfonzo McKinnie,DEFENSIVE_REBOUND,None,7:02,4,Warriors,Nets,105 - 93,0,N/A,N/A,N/A
+39,Klay Thompson,FG_ASSISTED,Draymond Green,6:52,4,Warriors,Nets,108 - 93,0,25,3,Jumper
+40,D'Angelo Russell,FG_ASSISTED,Caris LeVert,6:29,4,Nets,Warriors,108 - 96,1,23,3,Jumper
+41,Klay Thompson,FG_MISS,None,6:20,4,Warriors,Nets,108 - 96,0,28,3,Jumper
+42,D'Angelo Russell,DEFENSIVE_REBOUND,None,6:16,4,Nets,Warriors,108 - 96,1,N/A,N/A,N/A
+43,D'Angelo Russell,FG_UNASSISTED,None,6:01,4,Nets,Warriors,108 - 99,1,26,3,Jumper
+44,Team,Unknown,None,6:00,4,Warriors,Nets,108 - 99,0,N/A,N/A,N/A
+45,Stephen Curry,SUBSTITUTION,Iguodala Andre,6:00,4,Warriors,Nets,108 - 99,0,N/A,N/A,N/A
+46,Jordan Bell,SUBSTITUTION,McKinnie Alfonzo,6:00,4,Warriors,Nets,108 - 99,0,N/A,N/A,N/A
+47,Kevin Durant,FG_UNASSISTED,None,5:43,4,Warriors,Nets,110 - 99,0,12,2,Jumper
+48,Caris LeVert,FG_UNASSISTED,None,5:28,4,Nets,Warriors,110 - 102,1,1,3,Jumper
+49,Stephen Curry,FG_MISS,None,5:11,4,Warriors,Nets,110 - 102,0,23,3,Jumper
+50,Klay Thompson,OFFENSIVE_REBOUND,None,5:08,4,Warriors,Nets,110 - 102,0,N/A,N/A,N/A
+51,Draymond Green,FG_MISS,None,5:04,4,Warriors,Nets,110 - 102,0,1,2,Jumper
+52,Allen Crabbe,DEFENSIVE_REBOUND,None,5:01,4,Nets,Warriors,110 - 102,1,N/A,N/A,N/A
+53,Caris LeVert,FG_MISS,None,4:56,4,Nets,Warriors,110 - 102,1,25,2,Jumper
+54,Stephen Curry,DEFENSIVE_REBOUND,None,4:52,4,Warriors,Nets,110 - 102,0,N/A,N/A,N/A
+55,Draymond Green,FG_MISS,None,4:38,4,Warriors,Nets,110 - 102,0,10,2,Jumper
+56,Jarrett Allen,DEFENSIVE_REBOUND,None,4:36,4,Nets,Warriors,110 - 102,1,N/A,N/A,N/A
+57,Allen Crabbe,FG_MISS,None,4:26,4,Nets,Warriors,110 - 102,1,25,3,Jumper
+58,Jordan Bell,DEFENSIVE_REBOUND,None,4:23,4,Warriors,Nets,110 - 102,0,N/A,N/A,N/A
+59,Kevin Durant,FG_MISS,None,4:08,4,Warriors,Nets,110 - 102,0,26,3,Jumper
+60,Klay Thompson,OFFENSIVE_REBOUND,None,4:05,4,Warriors,Nets,110 - 102,0,N/A,N/A,N/A
+61,Klay Thompson,FG_MISS,None,4:01,4,Warriors,Nets,110 - 102,0,23,3,Jumper
+62,Caris LeVert,DEFENSIVE_REBOUND,None,3:58,4,Nets,Warriors,110 - 102,1,N/A,N/A,N/A
+63,Caris LeVert's,FG_MISS,Jordan Bell,3:44,4,Warriors,Nets,110 - 102,1,0,2,Layup
+64,Team,OFFENSIVE_REBOUND,None,3:44,4,Nets,Warriors,110 - 102,1,N/A,N/A,N/A
+65,Joe Harris,SUBSTITUTION,Dudley Jared,3:44,4,Nets,Warriors,110 - 102,1,N/A,N/A,N/A
+66,Jarrett Allen,FG_ASSISTED,Caris LeVert,3:38,4,Nets,Warriors,110 - 104,1,0,2,Layup
+67,Draymond Green,FG_MISS,None,3:14,4,Warriors,Nets,110 - 104,0,25,3,Jumper
+68,D'Angelo Russell,DEFENSIVE_REBOUND,None,3:11,4,Nets,Warriors,110 - 104,1,N/A,N/A,N/A
+69,Caris LeVert,FG_ASSISTED,D'Angelo Russell,3:05,4,Nets,Warriors,110 - 106,1,0,2,Dunk
+70,Team,Unknown,None,3:03,4,Warriors,Nets,110 - 106,0,N/A,N/A,N/A
+71,Andre Iguodala,SUBSTITUTION,Bell Jordan,3:03,4,Warriors,Nets,110 - 106,0,N/A,N/A,N/A
+72,D'Angelo Russell,FOUL_ON_FLOOR,None,2:55,4,Nets,Warriors,110 - 106,1,N/A,N/A,N/A
+73,Kevin Durant,FG_MISS,None,2:47,4,Warriors,Nets,110 - 106,0,25,3,Jumper
+74,Joe Harris,DEFENSIVE_REBOUND,None,2:43,4,Nets,Warriors,110 - 106,1,N/A,N/A,N/A
+75,Stephen Curry,FOUL_ON_FLOOR,None,2:25,4,Warriors,Nets,110 - 106,0,N/A,N/A,N/A
+76,Caris LeVert,TURNOVER,Draymond Green,2:24,4,Nets,Warriors,110 - 106,1,N/A,N/A,N/A
+77,Stephen Curry,FG_MISS,None,2:10,4,Warriors,Nets,110 - 106,0,19,2,Jumper
+78,Joe Harris,DEFENSIVE_REBOUND,None,2:07,4,Nets,Warriors,110 - 106,1,N/A,N/A,N/A
+79,Klay Thompson,FOUL_ON_FLOOR,None,2:01,4,Warriors,Nets,110 - 106,0,N/A,N/A,N/A
+80,D'Angelo Russell,FG_UNASSISTED,None,1:55,4,Nets,Warriors,110 - 108,1,0,2,Layup
+81,Kevin Durant,FG_ASSISTED,Stephen Curry,1:44,4,Warriors,Nets,112 - 108,0,16,2,Jumper
+82,Joe Harris,FG_MISS,None,1:23,4,Nets,Warriors,112 - 108,1,25,3,Jumper
+83,Andre Iguodala,DEFENSIVE_REBOUND,None,1:21,4,Warriors,Nets,112 - 108,0,N/A,N/A,N/A
+84,Stephen Curry,FG_UNASSISTED,None,1:08,4,Warriors,Nets,115 - 108,0,25,3,Jumper
+85,Caris LeVert,FG_MISS,None,1:01,4,Nets,Warriors,115 - 108,1,26,3,Jumper
+86,Kevin Durant,DEFENSIVE_REBOUND,None,58.5,4,Warriors,Nets,115 - 108,0,N/A,N/A,N/A
+87,Stephen Curry's,FG_MISS,Jarrett Allen,46.7,4,Nets,Warriors,115 - 108,0,0,2,Layup
+88,Caris LeVert,DEFENSIVE_REBOUND,None,45.0,4,Nets,Warriors,115 - 108,1,N/A,N/A,N/A
+89,Jarrett Allen,FG_ASSISTED,Joe Harris,35.9,4,Nets,Warriors,115 - 110,1,6,2,Jumper
+90,Allen Crabbe,FOUL_ON_FLOOR,None,31.9,4,Nets,Warriors,115 - 110,1,N/A,N/A,N/A
+91,D'Angelo Russell,FOUL_ON_FLOOR,None,26.9,4,Nets,Warriors,115 - 110,1,N/A,N/A,N/A
+92,Stephen Curry,FT_MISS,None,26.9,4,Warriors,Nets,115 - 110,0,N/A,1,N/A
+93,Team,OFFENSIVE_REBOUND,None,26.9,4,Warriors,Nets,115 - 110,0,N/A,N/A,N/A
+94,Ed Davis,SUBSTITUTION,Russell D'Angelo,26.9,4,Nets,Warriors,115 - 110,1,N/A,N/A,N/A
+95,Stephen Curry,FT,None,26.9,4,Warriors,Nets,116 - 110,0,N/A,1,N/A
+96,Team,Unknown,None,26.9,4,Nets,Warriors,116 - 110,1,N/A,N/A,N/A
+97,D'Angelo Russell,SUBSTITUTION,Allen Jarrett,26.9,4,Nets,Warriors,116 - 110,1,N/A,N/A,N/A
+98,Jared Dudley,SUBSTITUTION,Davis Ed,26.9,4,Nets,Warriors,116 - 110,1,N/A,N/A,N/A
+99,D'Angelo Russell,FG_UNASSISTED,None,19.6,4,Nets,Warriors,116 - 112,1,0,2,Layup
+100,Draymond Green,TURNOVER,Jared Dudley,19.2,4,Warriors,Nets,116 - 112,0,N/A,N/A,N/A
+101,Joe Harris,FG_MISS,None,16.2,4,Nets,Warriors,116 - 112,1,23,3,Jumper
+102,Kevin Durant,DEFENSIVE_REBOUND,None,15.0,4,Warriors,Nets,116 - 112,0,N/A,N/A,N/A
+103,Allen Crabbe,FOUL_ON_FLOOR,None,13.9,4,Nets,Warriors,116 - 112,1,N/A,N/A,N/A
+104,Kevin Durant,FT,None,13.9,4,Warriors,Nets,117 - 112,0,N/A,1,N/A
+105,Kevin Durant,FT,None,13.9,4,Warriors,Nets,118 - 112,0,N/A,1,N/A
+106,D'Angelo Russell,FG_UNASSISTED,None,4.0,4,Nets,Warriors,117 - 114,1,0,2,Layup
+107,Joe Harris,FOUL_ON_FLOOR,None,2.0,4,Nets,Warriors,118 - 114,1,N/A,N/A,N/A
+108,Stephen Curry,FT,None,2.0,4,Warriors,Nets,119 - 114,0,N/A,1,N/A
+109,Stephen Curry,FT,None,2.0,4,Warriors,Nets,120 - 114,0,N/A,1,N/A
+110,D'Angelo Russell,FG_MISS,None,0.3,4,Nets,Warriors,120 - 114,1,53,3,Jumper
+111,Team,OFFENSIVE_REBOUND,None,0.3,4,Nets,Warriors,120 - 114,1,N/A,N/A,N/A
+112,End of,Unknown,None,0.0,4,Nets,Warriors,120 - 114,1,N/A,N/A,N/A
+113,End of,Unknown,None,0.0,4,Nets,Warriors,120 - 114,1,N/A,N/A,N/A

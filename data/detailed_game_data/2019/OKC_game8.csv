@@ -1,0 +1,494 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Anthony Davis,JUMP_BALL,None,12:00,1,Pelicans,Thunder,0 - 0,0,N/A,N/A,N/A
+1,Wesley Johnson,FG_MISS,None,11:43,1,Pelicans,Thunder,0 - 0,0,23,3,Jumper
+2,Jerami Grant,DEFENSIVE_REBOUND,None,11:35,1,Thunder,Pelicans,0 - 0,1,N/A,N/A,N/A
+3,Steven Adams,FG_ASSISTED,Russell Westbrook,11:28,1,Thunder,Pelicans,0 - 2,1,2,3,Jumper
+4,Nikola Mirotic,FG_ASSISTED,Anthony Davis,11:17,1,Pelicans,Thunder,3 - 2,0,27,3,Jumper
+5,Steven Adams,FG_ASSISTED,Russell Westbrook,10:53,1,Thunder,Pelicans,3 - 4,1,0,2,Layup
+6,Anthony Davis,FG_MISS,None,10:42,1,Pelicans,Thunder,3 - 4,0,14,3,Jumper
+7,Russell Westbrook,DEFENSIVE_REBOUND,None,10:41,1,Thunder,Pelicans,3 - 4,1,N/A,N/A,N/A
+8,Russell Westbrook,FG_UNASSISTED,None,10:36,1,Thunder,Pelicans,3 - 6,1,-,3,Jumper
+9,Russell Westbrook,FOUL_ON_FLOOR,None,10:24,1,Thunder,Pelicans,3 - 6,1,N/A,N/A,N/A
+10,Jrue Holiday,FG_MISS,None,10:16,1,Pelicans,Thunder,3 - 6,0,-,3,Jumper
+11,Team,OFFENSIVE_REBOUND,None,10:14,1,Pelicans,Thunder,3 - 6,0,N/A,N/A,N/A
+12,Nikola Mirotic,FG_MISS,None,10:09,1,Pelicans,Thunder,3 - 6,0,26,3,Jumper
+13,Nikola Mirotic,OFFENSIVE_REBOUND,None,10:04,1,Pelicans,Thunder,3 - 6,0,N/A,N/A,N/A
+14,Terrance Ferguson,FOUL_ON_FLOOR,None,10:03,1,Thunder,Pelicans,3 - 6,1,N/A,N/A,N/A
+15,Wesley Johnson,FT,None,10:03,1,Pelicans,Thunder,4 - 6,0,N/A,1,N/A
+16,Wesley Johnson,FT,None,10:03,1,Pelicans,Thunder,5 - 6,0,N/A,1,N/A
+17,Wesley Johnson,FOUL_ON_FLOOR,None,9:51,1,Pelicans,Thunder,5 - 6,0,N/A,N/A,N/A
+18,Steven Adams,FG_ASSISTED,Russell Westbrook,9:43,1,Thunder,Pelicans,5 - 8,1,0,2,Dunk
+19,Anthony Davis,FG_ASSISTED,Jrue Holiday,9:33,1,Pelicans,Thunder,7 - 8,0,0,2,Layup
+20,Russell Westbrook,TURNOVER,Nikola Mirotic,9:26,1,Thunder,Pelicans,7 - 8,1,N/A,N/A,N/A
+21,Nikola Mirotic,FG_MISS,None,9:14,1,Pelicans,Thunder,7 - 8,0,0,2,Layup
+22,Paul George,DEFENSIVE_REBOUND,None,9:12,1,Thunder,Pelicans,7 - 8,1,N/A,N/A,N/A
+23,Jerami Grant,FG_MISS,None,8:58,1,Thunder,Pelicans,7 - 8,1,-,3,Jumper
+24,Nikola Mirotic,DEFENSIVE_REBOUND,None,8:56,1,Pelicans,Thunder,7 - 8,0,N/A,N/A,N/A
+25,Jrue Holiday,TURNOVER,Paul George,8:51,1,Pelicans,Thunder,7 - 8,0,N/A,N/A,N/A
+26,Jerami Grant,FG_ASSISTED,Paul George,8:47,1,Thunder,Pelicans,7 - 10,1,0,2,Dunk
+27,E'Twaun Moore,FG_ASSISTED,Jrue Holiday,8:27,1,Pelicans,Thunder,9 - 10,0,13,3,Jumper
+28,Paul George,FG_ASSISTED,Russell Westbrook,8:14,1,Thunder,Pelicans,9 - 12,1,0,2,Layup
+29,Anthony Davis,FG_MISS,None,8:02,1,Pelicans,Thunder,9 - 12,0,22,3,Jumper
+30,Wesley Johnson,OFFENSIVE_REBOUND,None,7:59,1,Pelicans,Thunder,9 - 12,0,N/A,N/A,N/A
+31,Nikola Mirotic,FG_UNASSISTED,None,7:55,1,Pelicans,Thunder,11 - 12,0,13,3,Jumper
+32,Team,Unknown,None,7:54,1,Thunder,Pelicans,11 - 12,1,N/A,N/A,N/A
+33,Alex Abrines,SUBSTITUTION,Ferguson Terrance,7:54,1,Thunder,Pelicans,11 - 12,1,N/A,N/A,N/A
+34,Jerami Grant,FG_ASSISTED,Russell Westbrook,7:42,1,Thunder,Pelicans,11 - 14,1,4,3,Jumper
+35,Nikola Mirotic,TURNOVER,Paul George,7:25,1,Pelicans,Thunder,11 - 14,0,N/A,N/A,N/A
+36,Russell Westbrook,FG_UNASSISTED,None,7:21,1,Thunder,Pelicans,11 - 16,1, ,3,Jumper
+37,E'Twaun Moore,FG_ASSISTED,Jrue Holiday,7:07,1,Pelicans,Thunder,13 - 16,0,8,3,Jumper
+38,Jerami Grant,FG_ASSISTED,Russell Westbrook,6:52,1,Thunder,Pelicans,13 - 18,1,15,3,Jumper
+39,Wesley Johnson,FG_MISS,None,6:45,1,Pelicans,Thunder,13 - 18,0,0,2,Layup
+40,Nikola Mirotic,OFFENSIVE_REBOUND,None,6:22,1,Pelicans,Thunder,13 - 18,0,N/A,N/A,N/A
+41,shot clock,TURNOVER,None,6:20,1,Pelicans,Thunder,13 - 18,0,N/A,N/A,N/A
+42,Paul George,FG_MISS,None,6:08,1,Thunder,Pelicans,13 - 18,1,25,3,Jumper
+43,Jrue Holiday,DEFENSIVE_REBOUND,None,6:05,1,Pelicans,Thunder,13 - 18,0,N/A,N/A,N/A
+44,Jerami Grant,FOUL_ON_FLOOR,None,5:55,1,Thunder,Pelicans,13 - 18,1,N/A,N/A,N/A
+45,Jrue Holiday,FT,None,5:55,1,Pelicans,Thunder,14 - 18,0,N/A,1,N/A
+46,Julius Randle,SUBSTITUTION,Mirotic Nikola,5:55,1,Pelicans,Thunder,14 - 18,0,N/A,N/A,N/A
+47,Jrue Holiday,FT_MISS,None,5:55,1,Pelicans,Thunder,14 - 18,0,N/A,1,N/A
+48,Russell Westbrook,DEFENSIVE_REBOUND,None,5:54,1,Thunder,Pelicans,14 - 18,1,N/A,N/A,N/A
+49,Russell Westbrook,FG_MISS,None,5:40,1,Thunder,Pelicans,14 - 18,1,0,2,Layup
+50,Julius Randle,DEFENSIVE_REBOUND,None,5:38,1,Pelicans,Thunder,14 - 18,0,N/A,N/A,N/A
+51,Anthony Davis,FG_ASSISTED,Jrue Holiday,5:29,1,Pelicans,Thunder,16 - 18,0,0,2,Layup
+52,Alex Abrines,FOUL_ON_FLOOR,None,5:29,1,Thunder,Pelicans,16 - 18,1,N/A,N/A,N/A
+53,Anthony Davis,FT,None,5:29,1,Pelicans,Thunder,17 - 18,0,N/A,1,N/A
+54,Jerami Grant,FG_MISS,None,5:13,1,Thunder,Pelicans,17 - 18,1, ,3,Jumper
+55,Steven Adams,OFFENSIVE_REBOUND,None,5:09,1,Thunder,Pelicans,17 - 18,1,N/A,N/A,N/A
+56,Paul George,FG_ASSISTED,Jerami Grant,5:06,1,Thunder,Pelicans,17 - 21,1,26,3,Jumper
+57,Anthony Davis,FG_MISS,None,4:53,1,Pelicans,Thunder,17 - 21,0,4,3,Jumper
+58,Anthony Davis,OFFENSIVE_REBOUND,None,4:51,1,Pelicans,Thunder,17 - 21,0,N/A,N/A,N/A
+59,Anthony Davis,FG_MISS,None,4:51,1,Pelicans,Thunder,17 - 21,0, ,3,Jumper
+60,Russell Westbrook,DEFENSIVE_REBOUND,None,4:51,1,Thunder,Pelicans,17 - 21,1,N/A,N/A,N/A
+61,Russell Westbrook,FG_UNASSISTED,None,4:47,1,Thunder,Pelicans,17 - 23,1, ,3,Jumper
+62,Wesley Johnson,FG_ASSISTED,E'Twaun Moore,4:32,1,Pelicans,Thunder,20 - 23,0,23,3,Jumper
+63,Anthony Davis,FOUL_ON_FLOOR,None,4:07,1,Pelicans,Thunder,20 - 23,0,N/A,N/A,N/A
+64,Jerami Grant,FT,None,4:07,1,Thunder,Pelicans,20 - 24,1,N/A,1,N/A
+65,Jerami Grant,FT,None,4:07,1,Thunder,Pelicans,20 - 25,1,N/A,1,N/A
+66,Jrue Holiday,FG_MISS,None,3:56,1,Pelicans,Thunder,20 - 25,0,26,3,Jumper
+67,Steven Adams,DEFENSIVE_REBOUND,None,3:53,1,Thunder,Pelicans,20 - 25,1,N/A,N/A,N/A
+68,Russell Westbrook,FG_MISS,None,3:45,1,Thunder,Pelicans,20 - 25,1,8,3,Jumper
+69,Jrue Holiday,DEFENSIVE_REBOUND,None,3:40,1,Pelicans,Thunder,20 - 25,0,N/A,N/A,N/A
+70,Wesley Johnson,FG_MISS,None,3:37,1,Pelicans,Thunder,20 - 25,0,23,3,Jumper
+71,Alex Abrines,DEFENSIVE_REBOUND,None,3:37,1,Thunder,Pelicans,20 - 25,1,N/A,N/A,N/A
+72,Paul George,FG_UNASSISTED,None,3:27,1,Thunder,Pelicans,20 - 28,1,24,3,Jumper
+73,Jrue Holiday,TURNOVER,Steven Adams,3:10,1,Pelicans,Thunder,20 - 28,0,N/A,N/A,N/A
+74,Wesley Johnson,FOUL_ON_FLOOR,None,3:06,1,Pelicans,Thunder,20 - 28,0,N/A,N/A,N/A
+75,Russell Westbrook,FT_MISS,None,3:06,1,Thunder,Pelicans,20 - 28,1,N/A,1,N/A
+76,Team,OFFENSIVE_REBOUND,None,3:06,1,Thunder,Pelicans,20 - 28,1,N/A,N/A,N/A
+77,Patrick Patterson,SUBSTITUTION,Grant Jerami,3:06,1,Thunder,Pelicans,20 - 28,1,N/A,N/A,N/A
+78,Russell Westbrook,FT,None,3:06,1,Thunder,Pelicans,20 - 29,1,N/A,1,N/A
+79,Team,Unknown,None,3:04,1,Pelicans,Thunder,20 - 29,0,N/A,N/A,N/A
+80,Dennis Schroder,SUBSTITUTION,Westbrook Russell,3:04,1,Thunder,Pelicans,20 - 29,1,N/A,N/A,N/A
+81,Ian Clark,SUBSTITUTION,Moore E'Twaun,3:04,1,Pelicans,Thunder,20 - 29,0,N/A,N/A,N/A
+82,Ian Clark,FG_MISS,None,2:47,1,Pelicans,Thunder,20 - 29,0,25,3,Jumper
+83,Anthony Davis,OFFENSIVE_REBOUND,None,2:44,1,Pelicans,Thunder,20 - 29,0,N/A,N/A,N/A
+84,Anthony Davis,FG_MISS,None,2:43,1,Pelicans,Thunder,20 - 29,0, ,3,Jumper
+85,Steven Adams,DEFENSIVE_REBOUND,None,2:41,1,Thunder,Pelicans,20 - 29,1,N/A,N/A,N/A
+86,Alex Abrines,TURNOVER,None,2:38,1,Thunder,Pelicans,20 - 29,1,N/A,N/A,N/A
+87,Julius Randle,FG_ASSISTED,Wesley Johnson,2:23,1,Pelicans,Thunder,22 - 29,0,0,2,Dunk
+88,Steven Adams,FG_ASSISTED,Paul George,2:08,1,Thunder,Pelicans,22 - 31,1,0,2,Layup
+89,Ian Clark,FG_MISS,None,1:49,1,Pelicans,Thunder,22 - 31,0, ,3,Jumper
+90,Ian Clark,OFFENSIVE_REBOUND,None,1:48,1,Pelicans,Thunder,22 - 31,0,N/A,N/A,N/A
+91,Ian Clark,FG_MISS,None,1:47,1,Pelicans,Thunder,22 - 31,0, ,3,Jumper
+92,Julius Randle,OFFENSIVE_REBOUND,None,1:47,1,Pelicans,Thunder,22 - 31,0,N/A,N/A,N/A
+93,Anthony Davis,FG_ASSISTED,Julius Randle,1:32,1,Pelicans,Thunder,24 - 31,0,0,2,Layup
+94,Alex Abrines,FG_ASSISTED,Paul George,1:18,1,Thunder,Pelicans,24 - 34,1,25,3,Jumper
+95,Julius Randle,FG_ASSISTED,Jrue Holiday,1:02,1,Pelicans,Thunder,26 - 34,0,0,2,Layup
+96,Dennis Schroder,FG_UNASSISTED,None,48.1,1,Thunder,Pelicans,26 - 36,1,0,2,Layup
+97,Wesley Johnson,FG_MISS,None,35.9,1,Pelicans,Thunder,26 - 36,0,23,3,Jumper
+98,Patrick Patterson,DEFENSIVE_REBOUND,None,32.7,1,Thunder,Pelicans,26 - 36,1,N/A,N/A,N/A
+99,Nerlens Noel,SUBSTITUTION,Adams Steven,15.7,1,Thunder,Pelicans,26 - 36,1,N/A,N/A,N/A
+100,Cheick Diallo,SUBSTITUTION,Davis Anthony,15.7,1,Pelicans,Thunder,26 - 36,0,N/A,N/A,N/A
+101,Paul George,FG_MISS,None,14.4,1,Thunder,Pelicans,26 - 36,1,15,3,Jumper
+102,Cheick Diallo,DEFENSIVE_REBOUND,None,11.7,1,Pelicans,Thunder,26 - 36,0,N/A,N/A,N/A
+103,Ian Clark,FG_ASSISTED,Jrue Holiday,0.9,1,Pelicans,Thunder,28 - 36,0,0,2,Layup
+104,End of,Unknown,None,0.0,1,Thunder,Pelicans,28 - 36,1,N/A,N/A,N/A
+0,Hamidou Diallo,SUBSTITUTION,George Paul,12:00,2,Thunder,Pelicans,28 - 36,1,N/A,N/A,N/A
+1,Darius Miller,SUBSTITUTION,Holiday Jrue,12:00,2,Pelicans,Thunder,28 - 36,0,N/A,N/A,N/A
+2,Tim Frazier,SUBSTITUTION,Johnson Wesley,12:00,2,Pelicans,Thunder,28 - 36,0,N/A,N/A,N/A
+3,Dennis Schroder,FG_MISS,None,11:51,2,Thunder,Pelicans,28 - 36,1,0,2,Layup
+4,Julius Randle,DEFENSIVE_REBOUND,None,11:49,2,Pelicans,Thunder,28 - 36,0,N/A,N/A,N/A
+5,Ian Clark,FG_ASSISTED,Darius Miller,11:44,2,Pelicans,Thunder,31 - 36,0,23,3,Jumper
+6,Tim Frazier,FOUL_ON_FLOOR,None,11:25,2,Pelicans,Thunder,31 - 36,0,N/A,N/A,N/A
+7,Dennis Schroder,FG_MISS,None,11:20,2,Thunder,Pelicans,31 - 36,1,25,3,Jumper
+8,Cheick Diallo,DEFENSIVE_REBOUND,None,11:17,2,Pelicans,Thunder,31 - 36,0,N/A,N/A,N/A
+9,Patrick Patterson,FOUL_ON_FLOOR,None,11:12,2,Thunder,Pelicans,31 - 36,1,N/A,N/A,N/A
+10,Julius Randle,FG_ASSISTED,Ian Clark,11:07,2,Pelicans,Thunder,33 - 36,0,0,2,Layup
+11,Patrick Patterson,FG_ASSISTED,Alex Abrines,10:50,2,Thunder,Pelicans,33 - 39,1,26,3,Jumper
+12,Ian Clark,FG_UNASSISTED,None,10:30,2,Pelicans,Thunder,35 - 39,0, ,3,Jumper
+13,Dennis Schroder,FG_UNASSISTED,None,10:18,2,Thunder,Pelicans,35 - 41,1,6,3,Jumper
+14,Julius Randle,FG_ASSISTED,Tim Frazier,9:59,2,Pelicans,Thunder,38 - 41,0,27,3,Jumper
+15,Hamidou Diallo,FG_MISS,None,9:40,2,Thunder,Pelicans,38 - 41,1,0,2,Layup
+16,Nerlens Noel,OFFENSIVE_REBOUND,None,9:39,2,Thunder,Pelicans,38 - 41,1,N/A,N/A,N/A
+17,Patrick Patterson,FG_MISS,None,9:37,2,Thunder,Pelicans,38 - 41,1,13,3,Jumper
+18,Julius Randle,DEFENSIVE_REBOUND,None,9:33,2,Pelicans,Thunder,38 - 41,0,N/A,N/A,N/A
+19,Darius Miller,FG_MISS,None,9:21,2,Pelicans,Thunder,38 - 41,0,25,3,Jumper
+20,Nerlens Noel,DEFENSIVE_REBOUND,None,9:19,2,Thunder,Pelicans,38 - 41,1,N/A,N/A,N/A
+21,Patrick Patterson,FG_ASSISTED,Dennis Schroder,9:11,2,Thunder,Pelicans,38 - 44,1,25,3,Jumper
+22,Tim Frazier,FG_MISS,None,8:51,2,Pelicans,Thunder,38 - 44,0,0,2,Layup
+23,Cheick Diallo,OFFENSIVE_REBOUND,None,8:50,2,Pelicans,Thunder,38 - 44,0,N/A,N/A,N/A
+24,Patrick Patterson,FOUL_ON_FLOOR,None,8:50,2,Thunder,Pelicans,38 - 44,1,N/A,N/A,N/A
+25,Cheick Diallo,FT,None,8:50,2,Pelicans,Thunder,39 - 44,0,N/A,1,N/A
+26,Cheick Diallo,FT,None,8:50,2,Pelicans,Thunder,40 - 44,0,N/A,1,N/A
+27,Cheick Diallo,FOUL_ON_FLOOR,None,8:40,2,Pelicans,Thunder,40 - 44,0,N/A,N/A,N/A
+28,Nerlens Noel,FT_MISS,None,8:40,2,Thunder,Pelicans,40 - 44,1,N/A,1,N/A
+29,Team,OFFENSIVE_REBOUND,None,8:40,2,Thunder,Pelicans,40 - 44,1,N/A,N/A,N/A
+30,Russell Westbrook,SUBSTITUTION,Abrines Alex,8:40,2,Thunder,Pelicans,40 - 44,1,N/A,N/A,N/A
+31,Nerlens Noel,FT,None,8:40,2,Thunder,Pelicans,40 - 45,1,N/A,1,N/A
+32,Darius Miller,FG_ASSISTED,Tim Frazier,8:31,2,Pelicans,Thunder,43 - 45,0,25,3,Jumper
+33,Dennis Schroder,TURNOVER,Cheick Diallo,8:17,2,Thunder,Pelicans,43 - 45,1,N/A,N/A,N/A
+34,Dennis Schroder,FOUL_ON_FLOOR,None,8:01,2,Thunder,Pelicans,43 - 45,1,N/A,N/A,N/A
+35,Tim Frazier,FG_MISS,None,7:58,2,Pelicans,Thunder,43 - 45,0,26,3,Jumper
+36,Patrick Patterson,DEFENSIVE_REBOUND,None,7:56,2,Thunder,Pelicans,43 - 45,1,N/A,N/A,N/A
+37,Tim Frazier,FOUL_ON_FLOOR,None,7:49,2,Pelicans,Thunder,43 - 45,0,N/A,N/A,N/A
+38,Russell Westbrook,FT,None,7:49,2,Thunder,Pelicans,43 - 46,1,N/A,1,N/A
+39,Russell Westbrook,FT,None,7:49,2,Thunder,Pelicans,43 - 47,1,N/A,1,N/A
+40,Hamidou Diallo,FOUL_ON_FLOOR,None,7:35,2,Thunder,Pelicans,43 - 47,1,N/A,N/A,N/A
+41,Julius Randle,FG_UNASSISTED,None,7:22,2,Pelicans,Thunder,45 - 47,0,6,3,Jumper
+42,Ian Clark,FOUL_ON_FLOOR,None,7:04,2,Pelicans,Thunder,45 - 47,0,N/A,N/A,N/A
+43,Russell Westbrook,FG_MISS,Cheick Diallo,7:00,2,Pelicans,Thunder,45 - 47,1,0,2,Layup
+44,Julius Randle,DEFENSIVE_REBOUND,None,6:57,2,Pelicans,Thunder,45 - 47,0,N/A,N/A,N/A
+45,Ian Clark's,FG_MISS,Nerlens Noel,6:48,2,Thunder,Pelicans,45 - 47,0,0,2,Layup
+46,Darius Miller,OFFENSIVE_REBOUND,None,6:46,2,Pelicans,Thunder,45 - 47,0,N/A,N/A,N/A
+47,Julius Randle,TURNOVER,None,6:42,2,Pelicans,Thunder,45 - 47,0,N/A,N/A,N/A
+48,Julius Randle,TURNOVER,None,6:42,2,Pelicans,Thunder,45 - 47,0,N/A,N/A,N/A
+49,Team,Unknown,None,6:42,2,Thunder,Pelicans,45 - 47,1,N/A,N/A,N/A
+50,Steven Adams,SUBSTITUTION,Noel Nerlens,6:42,2,Thunder,Pelicans,45 - 47,1,N/A,N/A,N/A
+51,Paul George,SUBSTITUTION,Diallo Hamidou,6:42,2,Thunder,Pelicans,45 - 47,1,N/A,N/A,N/A
+52,Jerami Grant,SUBSTITUTION,Patterson Patrick,6:42,2,Thunder,Pelicans,45 - 47,1,N/A,N/A,N/A
+53,Nikola Mirotic,SUBSTITUTION,Frazier Tim,6:42,2,Pelicans,Thunder,45 - 47,0,N/A,N/A,N/A
+54,Jrue Holiday,SUBSTITUTION,Diallo Cheick,6:42,2,Pelicans,Thunder,45 - 47,0,N/A,N/A,N/A
+55,Anthony Davis,SUBSTITUTION,Randle Julius,6:42,2,Pelicans,Thunder,45 - 47,0,N/A,N/A,N/A
+56,Dennis Schroder,FG_ASSISTED,Paul George,6:22,2,Thunder,Pelicans,45 - 49,1,0,2,Layup
+57,Anthony Davis,FG_ASSISTED,Jrue Holiday,6:07,2,Pelicans,Thunder,47 - 49,0,0,2,Layup
+58,Jerami Grant,FG_MISS,None,5:53,2,Thunder,Pelicans,47 - 49,1,0,2,Layup
+59,Team,OFFENSIVE_REBOUND,None,5:53,2,Thunder,Pelicans,47 - 49,1,N/A,N/A,N/A
+60,Paul George,FG_MISS,None,5:50,2,Thunder,Pelicans,47 - 49,1,26,3,Jumper
+61,Nikola Mirotic,DEFENSIVE_REBOUND,None,5:46,2,Pelicans,Thunder,47 - 49,0,N/A,N/A,N/A
+62,Nikola Mirotic,FG_MISS,None,5:27,2,Pelicans,Thunder,47 - 49,0,19,3,Jumper
+63,Anthony Davis,OFFENSIVE_REBOUND,None,5:21,2,Pelicans,Thunder,47 - 49,0,N/A,N/A,N/A
+64,Ian Clark,FG_MISS,None,5:15,2,Pelicans,Thunder,47 - 49,0,12,3,Jumper
+65,Steven Adams,DEFENSIVE_REBOUND,None,5:12,2,Thunder,Pelicans,47 - 49,1,N/A,N/A,N/A
+66,Darius Miller,FOUL_ON_FLOOR,None,5:11,2,Pelicans,Thunder,47 - 49,0,N/A,N/A,N/A
+67,Russell Westbrook,FT_MISS,None,5:11,2,Thunder,Pelicans,47 - 49,1,N/A,1,N/A
+68,Team,OFFENSIVE_REBOUND,None,5:11,2,Thunder,Pelicans,47 - 49,1,N/A,N/A,N/A
+69,Russell Westbrook,FT,None,5:11,2,Thunder,Pelicans,47 - 50,1,N/A,1,N/A
+70,Ian Clark,FG_MISS,None,4:58,2,Pelicans,Thunder,47 - 50,0,6,3,Jumper
+71,Team,OFFENSIVE_REBOUND,None,4:57,2,Pelicans,Thunder,47 - 50,0,N/A,N/A,N/A
+72,Alex Abrines,SUBSTITUTION,Schroder Dennis,4:57,2,Thunder,Pelicans,47 - 50,1,N/A,N/A,N/A
+73,E'Twaun Moore,SUBSTITUTION,Clark Ian,4:57,2,Pelicans,Thunder,47 - 50,0,N/A,N/A,N/A
+74,Darius Miller,FG_ASSISTED,Jrue Holiday,4:50,2,Pelicans,Thunder,50 - 50,0,25,3,Jumper
+75,Paul George,FG_MISS,None,4:34,2,Thunder,Pelicans,50 - 50,1,26,3,Jumper
+76,Nikola Mirotic,DEFENSIVE_REBOUND,None,4:32,2,Pelicans,Thunder,50 - 50,0,N/A,N/A,N/A
+77,Anthony Davis,TURNOVER,Jerami Grant,4:25,2,Pelicans,Thunder,50 - 50,0,N/A,N/A,N/A
+78,Russell Westbrook,FG_MISS,None,4:13,2,Thunder,Pelicans,50 - 50,1,16,3,Jumper
+79,E'Twaun Moore,DEFENSIVE_REBOUND,None,4:10,2,Pelicans,Thunder,50 - 50,0,N/A,N/A,N/A
+80,Jrue Holiday,FG_UNASSISTED,None,4:02,2,Pelicans,Thunder,52 - 50,0,0,2,Layup
+81,Russell Westbrook,FG_MISS,None,3:50,2,Thunder,Pelicans,52 - 50,1,0,2,Layup
+82,Steven Adams,OFFENSIVE_REBOUND,None,3:49,2,Thunder,Pelicans,52 - 50,1,N/A,N/A,N/A
+83,Steven Adams,FG_UNASSISTED,None,3:48,2,Thunder,Pelicans,52 - 52,1, ,3,Jumper
+84,E'Twaun Moore,TURNOVER,Paul George,3:40,2,Pelicans,Thunder,52 - 52,0,N/A,N/A,N/A
+85,Russell Westbrook,FG_ASSISTED,Paul George,3:37,2,Thunder,Pelicans,52 - 54,1,0,2,Dunk
+86,Team,Unknown,None,3:21,2,Pelicans,Thunder,52 - 54,0,N/A,N/A,N/A
+87,Ian Clark,SUBSTITUTION,Moore E'Twaun,3:21,2,Pelicans,Thunder,52 - 54,0,N/A,N/A,N/A
+88,Darius Miller,FG_ASSISTED,Jrue Holiday,3:11,2,Pelicans,Thunder,55 - 54,0,26,3,Jumper
+89,Russell Westbrook,FG_MISS,None,3:01,2,Thunder,Pelicans,55 - 54,1,15,3,Jumper
+90,Anthony Davis,DEFENSIVE_REBOUND,None,2:59,2,Pelicans,Thunder,55 - 54,0,N/A,N/A,N/A
+91,Jrue Holiday,FG_UNASSISTED,None,2:53,2,Pelicans,Thunder,57 - 54,0, ,3,Jumper
+92,Russell Westbrook,FG_MISS,None,2:32,2,Thunder,Pelicans,57 - 54,1,25,3,Jumper
+93,Nikola Mirotic,DEFENSIVE_REBOUND,None,2:31,2,Pelicans,Thunder,57 - 54,0,N/A,N/A,N/A
+94,Anthony Davis,FG_MISS,None,2:11,2,Pelicans,Thunder,57 - 54,0, ,3,Jumper
+95,Steven Adams,DEFENSIVE_REBOUND,None,2:07,2,Thunder,Pelicans,57 - 54,1,N/A,N/A,N/A
+96,Russell Westbrook,FG_MISS,None,2:02,2,Thunder,Pelicans,57 - 54,1, ,3,Jumper
+97,Nikola Mirotic,DEFENSIVE_REBOUND,None,2:00,2,Pelicans,Thunder,57 - 54,0,N/A,N/A,N/A
+98,Nikola Mirotic,FG_ASSISTED,Ian Clark,1:47,2,Pelicans,Thunder,59 - 54,0,17,3,Jumper
+99,Jrue Holiday,FOUL_ON_FLOOR,None,1:36,2,Pelicans,Thunder,59 - 54,0,N/A,N/A,N/A
+100,Paul George,FT,None,1:36,2,Thunder,Pelicans,59 - 55,1,N/A,1,N/A
+101,Paul George,FT,None,1:36,2,Thunder,Pelicans,59 - 56,1,N/A,1,N/A
+102,Ian Clark,FG_MISS,None,1:26,2,Pelicans,Thunder,59 - 56,0,23,3,Jumper
+103,Anthony Davis,OFFENSIVE_REBOUND,None,1:24,2,Pelicans,Thunder,59 - 56,0,N/A,N/A,N/A
+104,Anthony Davis,FG_MISS,None,1:24,2,Pelicans,Thunder,59 - 56,0,0,2,Dunk
+105,Russell Westbrook,DEFENSIVE_REBOUND,None,1:23,2,Thunder,Pelicans,59 - 56,1,N/A,N/A,N/A
+106,Russell Westbrook,FG_UNASSISTED,None,1:18,2,Thunder,Pelicans,59 - 58,1, ,3,Jumper
+107,Jerami Grant,FOUL_ON_FLOOR,None,1:12,2,Thunder,Pelicans,59 - 58,1,N/A,N/A,N/A
+108,Anthony Davis,FT,None,1:12,2,Pelicans,Thunder,60 - 58,0,N/A,1,N/A
+109,Anthony Davis,FT,None,1:12,2,Pelicans,Thunder,61 - 58,0,N/A,1,N/A
+110,Jerami Grant,FG_MISS,None,1:03,2,Thunder,Pelicans,61 - 58,1,24,3,Jumper
+111,Steven Adams,OFFENSIVE_REBOUND,None,1:00,2,Thunder,Pelicans,61 - 58,1,N/A,N/A,N/A
+112,Team,Unknown,None,58.9,2,Thunder,Pelicans,61 - 58,1,N/A,N/A,N/A
+113,Russell Westbrook,FG_ASSISTED,Steven Adams,56.8,2,Thunder,Pelicans,61 - 60,1,0,2,Dunk
+114,Anthony Davis,TURNOVER,Russell Westbrook,41.1,2,Pelicans,Thunder,61 - 60,0,N/A,N/A,N/A
+115,Russell Westbrook,TURNOVER,Ian Clark,38.8,2,Thunder,Pelicans,61 - 60,1,N/A,N/A,N/A
+116,Nikola Mirotic,FG_MISS,None,35.5,2,Pelicans,Thunder,61 - 60,0,24,3,Jumper
+117,Alex Abrines,DEFENSIVE_REBOUND,None,33.2,2,Thunder,Pelicans,61 - 60,1,N/A,N/A,N/A
+118,Russell Westbrook,TURNOVER,None,29.5,2,Thunder,Pelicans,61 - 60,1,N/A,N/A,N/A
+119,Jrue Holiday,FG_UNASSISTED,None,9.7,2,Pelicans,Thunder,63 - 60,0,13,3,Jumper
+120,Anthony Davis,FOUL_ON_FLOOR,None,1.9,2,Pelicans,Thunder,63 - 60,0,N/A,N/A,N/A
+121,Paul George,FT,None,1.9,2,Thunder,Pelicans,63 - 61,1,N/A,1,N/A
+122,Cheick Diallo,SUBSTITUTION,Davis Anthony,1.9,2,Pelicans,Thunder,63 - 61,0,N/A,N/A,N/A
+123,Paul George,FT,None,1.9,2,Thunder,Pelicans,63 - 62,1,N/A,1,N/A
+124,End of,Unknown,None,0.0,2,Thunder,Pelicans,63 - 62,1,N/A,N/A,N/A
+0,Terrance Ferguson,SUBSTITUTION,Abrines Alex,12:00,3,Thunder,Pelicans,63 - 62,1,N/A,N/A,N/A
+1,E'Twaun Moore,SUBSTITUTION,Clark Ian,12:00,3,Pelicans,Thunder,63 - 62,0,N/A,N/A,N/A
+2,Anthony Davis,SUBSTITUTION,Miller Darius,12:00,3,Pelicans,Thunder,63 - 62,0,N/A,N/A,N/A
+3,Wesley Johnson,SUBSTITUTION,Diallo Cheick,12:00,3,Pelicans,Thunder,63 - 62,0,N/A,N/A,N/A
+4,Russell Westbrook,TURNOVER,Nikola Mirotic,11:50,3,Thunder,Pelicans,63 - 62,1,N/A,N/A,N/A
+5,E'Twaun Moore,FG_MISS,None,11:28,3,Pelicans,Thunder,63 - 62,0,25,3,Jumper
+6,Steven Adams,DEFENSIVE_REBOUND,None,11:23,3,Thunder,Pelicans,63 - 62,1,N/A,N/A,N/A
+7,Paul George,FG_MISS,None,11:21,3,Thunder,Pelicans,63 - 62,1,22,3,Jumper
+8,Nikola Mirotic,DEFENSIVE_REBOUND,None,11:18,3,Pelicans,Thunder,63 - 62,0,N/A,N/A,N/A
+9,Wesley Johnson,TURNOVER,None,11:10,3,Pelicans,Thunder,63 - 62,0,N/A,N/A,N/A
+10,Jerami Grant,FG_ASSISTED,Paul George,10:57,3,Thunder,Pelicans,63 - 64,1, ,3,Jumper
+11,Jrue Holiday,FG_ASSISTED,E'Twaun Moore,10:41,3,Pelicans,Thunder,65 - 64,0,0,2,Layup
+12,Steven Adams,FG_UNASSISTED,None,10:18,3,Thunder,Pelicans,65 - 66,1,3,3,Jumper
+13,Anthony Davis,FG_MISS,None,10:04,3,Pelicans,Thunder,65 - 66,0,20,3,Jumper
+14,Russell Westbrook,DEFENSIVE_REBOUND,None,10:01,3,Thunder,Pelicans,65 - 66,1,N/A,N/A,N/A
+15,Steven Adams,FG_ASSISTED,Russell Westbrook,9:55,3,Thunder,Pelicans,65 - 68,1,0,2,Layup
+16,Nikola Mirotic,FG_ASSISTED,E'Twaun Moore,9:40,3,Pelicans,Thunder,67 - 68,0,15,3,Jumper
+17,Russell Westbrook,TURNOVER,None,9:36,3,Thunder,Pelicans,67 - 68,1,N/A,N/A,N/A
+18,Jrue Holiday,FG_UNASSISTED,None,9:24,3,Pelicans,Thunder,69 - 68,0,0,2,Layup
+19,Steven Adams,FG_MISS,None,9:15,3,Thunder,Pelicans,69 - 68,1,6,3,Jumper
+20,Nikola Mirotic,DEFENSIVE_REBOUND,None,9:13,3,Pelicans,Thunder,69 - 68,0,N/A,N/A,N/A
+21,Russell Westbrook,FOUL_ON_FLOOR,None,9:02,3,Thunder,Pelicans,69 - 68,1,N/A,N/A,N/A
+22,Nikola Mirotic,FT,None,9:02,3,Pelicans,Thunder,70 - 68,0,N/A,1,N/A
+23,Team,Unknown,None,9:02,3,Thunder,Pelicans,69 - 68,1,N/A,N/A,N/A
+24,Nikola Mirotic,FT,None,9:02,3,Pelicans,Thunder,71 - 68,0,N/A,1,N/A
+25,Paul George,FG_MISS,None,8:53,3,Thunder,Pelicans,71 - 68,1,26,3,Jumper
+26,Jerami Grant,OFFENSIVE_REBOUND,None,8:49,3,Thunder,Pelicans,71 - 68,1,N/A,N/A,N/A
+27,Jerami Grant,FG_UNASSISTED,None,8:48,3,Thunder,Pelicans,71 - 70,1, ,3,Jumper
+28,E'Twaun Moore,TURNOVER,Terrance Ferguson,8:34,3,Pelicans,Thunder,71 - 70,0,N/A,N/A,N/A
+29,Russell Westbrook,TURNOVER,Wesley Johnson,8:30,3,Thunder,Pelicans,71 - 70,1,N/A,N/A,N/A
+30,Anthony Davis,FG_ASSISTED,E'Twaun Moore,8:22,3,Pelicans,Thunder,73 - 70,0,8,3,Jumper
+31,E'Twaun Moore,FOUL_ON_FLOOR,None,8:03,3,Pelicans,Thunder,73 - 70,0,N/A,N/A,N/A
+32,Russell Westbrook,FT_MISS,None,8:03,3,Thunder,Pelicans,73 - 70,1,N/A,1,N/A
+33,Team,OFFENSIVE_REBOUND,None,8:03,3,Thunder,Pelicans,73 - 70,1,N/A,N/A,N/A
+34,Russell Westbrook,FT,None,8:03,3,Thunder,Pelicans,73 - 71,1,N/A,1,N/A
+35,Nikola Mirotic,FG_MISS,None,7:52,3,Pelicans,Thunder,73 - 71,0,26,3,Jumper
+36,Russell Westbrook,DEFENSIVE_REBOUND,None,7:49,3,Thunder,Pelicans,73 - 71,1,N/A,N/A,N/A
+37,Terrance Ferguson,FG_MISS,None,7:45,3,Thunder,Pelicans,73 - 71,1,26,3,Jumper
+38,Team,DEFENSIVE_REBOUND,None,7:42,3,Pelicans,Thunder,73 - 71,0,N/A,N/A,N/A
+39,Steven Adams,FOUL_ON_FLOOR,None,7:42,3,Thunder,Pelicans,73 - 71,1,N/A,N/A,N/A
+40,Anthony Davis,FG_MISS,None,7:18,3,Pelicans,Thunder,73 - 71,0,23,3,Jumper
+41,Russell Westbrook,DEFENSIVE_REBOUND,None,7:15,3,Thunder,Pelicans,73 - 71,1,N/A,N/A,N/A
+42,Russell Westbrook,FG_MISS,None,7:10,3,Thunder,Pelicans,73 - 71,1, ,3,Jumper
+43,Paul George,OFFENSIVE_REBOUND,None,7:09,3,Thunder,Pelicans,73 - 71,1,N/A,N/A,N/A
+44,Terrance Ferguson,FG_ASSISTED,Paul George,7:06,3,Thunder,Pelicans,73 - 74,1,24,3,Jumper
+45,Russell Westbrook,FOUL_ON_FLOOR,None,6:55,3,Thunder,Pelicans,73 - 74,1,N/A,N/A,N/A
+46,E'Twaun Moore,TURNOVER,Paul George,6:47,3,Pelicans,Thunder,73 - 74,0,N/A,N/A,N/A
+47,Terrance Ferguson,FG_ASSISTED,Russell Westbrook,6:43,3,Thunder,Pelicans,73 - 76,1,0,2,Dunk
+48,Jrue Holiday,FG_UNASSISTED,None,6:31,3,Pelicans,Thunder,75 - 76,0,17,3,Jumper
+49,Russell Westbrook,FG_MISS,None,6:16,3,Thunder,Pelicans,75 - 76,1,26,3,Jumper
+50,Anthony Davis,DEFENSIVE_REBOUND,None,6:16,3,Pelicans,Thunder,75 - 76,0,N/A,N/A,N/A
+51,Jrue Holiday,TURNOVER,None,6:08,3,Pelicans,Thunder,75 - 76,0,N/A,N/A,N/A
+52,Ian Clark,SUBSTITUTION,Moore E'Twaun,6:08,3,Pelicans,Thunder,75 - 76,0,N/A,N/A,N/A
+53,Paul George,FG_ASSISTED,Russell Westbrook,5:56,3,Thunder,Pelicans,75 - 79,1,26,3,Jumper
+54,Team,Unknown,None,5:54,3,Pelicans,Thunder,75 - 79,0,N/A,N/A,N/A
+55,Wesley Johnson,FG_MISS,None,5:38,3,Pelicans,Thunder,75 - 79,0,23,3,Jumper
+56,Jerami Grant,DEFENSIVE_REBOUND,None,5:35,3,Thunder,Pelicans,75 - 79,1,N/A,N/A,N/A
+57,Steven Adams,FG_UNASSISTED,None,5:22,3,Thunder,Pelicans,75 - 81,1,8,3,Jumper
+58,Jrue Holiday,TURNOVER,Jerami Grant,5:08,3,Pelicans,Thunder,75 - 81,0,N/A,N/A,N/A
+59,Wesley Johnson,FOUL_ON_FLOOR,None,5:01,3,Pelicans,Thunder,75 - 81,0,N/A,N/A,N/A
+60,Darius Miller,SUBSTITUTION,Mirotic Nikola,5:01,3,Pelicans,Thunder,75 - 81,0,N/A,N/A,N/A
+61,Julius Randle,SUBSTITUTION,Johnson Wesley,5:01,3,Pelicans,Thunder,75 - 81,0,N/A,N/A,N/A
+62,Paul George,FG_MISS,None,4:55,3,Thunder,Pelicans,75 - 81,1,16,3,Jumper
+63,Julius Randle,DEFENSIVE_REBOUND,None,4:52,3,Pelicans,Thunder,75 - 81,0,N/A,N/A,N/A
+64,Darius Miller,TURNOVER,Terrance Ferguson,4:44,3,Pelicans,Thunder,75 - 81,0,N/A,N/A,N/A
+65,Paul George,FG_UNASSISTED,None,4:38,3,Thunder,Pelicans,75 - 83,1,3,3,Jumper
+66,Darius Miller,FOUL_ON_FLOOR,None,4:38,3,Pelicans,Thunder,75 - 83,0,N/A,N/A,N/A
+67,Paul George,FT,None,4:38,3,Thunder,Pelicans,75 - 84,1,N/A,1,N/A
+68,Anthony Davis,FG_ASSISTED,Ian Clark,4:31,3,Pelicans,Thunder,77 - 84,0,7,3,Jumper
+69,Team,Unknown,None,4:25,3,Thunder,Pelicans,77 - 84,1,N/A,N/A,N/A
+70,Dennis Schroder,SUBSTITUTION,Westbrook Russell,4:25,3,Thunder,Pelicans,77 - 84,1,N/A,N/A,N/A
+71,Steven Adams's,FG_MISS,Julius Randle,4:12,3,Pelicans,Thunder,77 - 84,1,0,2,Layup
+72,Team,OFFENSIVE_REBOUND,None,4:10,3,Thunder,Pelicans,77 - 84,1,N/A,N/A,N/A
+73,Paul George,FG_MISS,None,4:05,3,Thunder,Pelicans,77 - 84,1,26,3,Jumper
+74,Julius Randle,DEFENSIVE_REBOUND,None,4:03,3,Pelicans,Thunder,77 - 84,0,N/A,N/A,N/A
+75,Anthony Davis,FG_ASSISTED,Jrue Holiday,3:42,3,Pelicans,Thunder,79 - 84,0,0,2,Dunk
+76,Jrue Holiday,FOUL_ON_FLOOR,None,3:29,3,Pelicans,Thunder,79 - 84,0,N/A,N/A,N/A
+77,Jerami Grant,FG_MISS,None,3:20,3,Thunder,Pelicans,79 - 84,1,22,3,Jumper
+78,Jrue Holiday,DEFENSIVE_REBOUND,None,3:17,3,Pelicans,Thunder,79 - 84,0,N/A,N/A,N/A
+79,Jrue Holiday,FG_UNASSISTED,None,3:12,3,Pelicans,Thunder,82 - 84,0,25,3,Jumper
+80,Dennis Schroder,FG_MISS,None,2:59,3,Thunder,Pelicans,82 - 84,1,0,2,Layup
+81,Paul George,OFFENSIVE_REBOUND,None,2:58,3,Thunder,Pelicans,82 - 84,1,N/A,N/A,N/A
+82,Paul George,TURNOVER,Ian Clark,2:55,3,Thunder,Pelicans,82 - 84,1,N/A,N/A,N/A
+83,Terrance Ferguson,FOUL_ON_FLOOR,None,2:45,3,Thunder,Pelicans,82 - 84,1,N/A,N/A,N/A
+84,Alex Abrines,SUBSTITUTION,Grant Jerami,2:45,3,Thunder,Pelicans,82 - 84,1,N/A,N/A,N/A
+85,Patrick Patterson,SUBSTITUTION,George Paul,2:45,3,Thunder,Pelicans,82 - 84,1,N/A,N/A,N/A
+86,Hamidou Diallo,SUBSTITUTION,Ferguson Terrance,2:45,3,Thunder,Pelicans,82 - 84,1,N/A,N/A,N/A
+87,Tim Frazier,SUBSTITUTION,Holiday Jrue,2:45,3,Pelicans,Thunder,82 - 84,0,N/A,N/A,N/A
+88,Anthony Davis,FG_MISS,None,2:39,3,Pelicans,Thunder,82 - 84,0,19,3,Jumper
+89,Dennis Schroder,DEFENSIVE_REBOUND,None,2:37,3,Thunder,Pelicans,82 - 84,1,N/A,N/A,N/A
+90,Patrick Patterson,FG_ASSISTED,Alex Abrines,2:30,3,Thunder,Pelicans,82 - 87,1,26,3,Jumper
+91,Julius Randle,FG_UNASSISTED,None,2:09,3,Pelicans,Thunder,84 - 87,0,6,3,Jumper
+92,Alex Abrines,FG_ASSISTED,Patrick Patterson,1:51,3,Thunder,Pelicans,84 - 89,1,3,3,Jumper
+93,Darius Miller,FOUL_ON_FLOOR,None,1:42,3,Pelicans,Thunder,84 - 89,0,N/A,N/A,N/A
+94,Darius Miller,TURNOVER,None,1:42,3,Pelicans,Thunder,84 - 89,0,N/A,N/A,N/A
+95,Dennis Schroder,FG_UNASSISTED,None,1:25,3,Thunder,Pelicans,84 - 91,1,12,3,Jumper
+96,Ian Clark,TURNOVER,Hamidou Diallo,1:12,3,Pelicans,Thunder,84 - 91,0,N/A,N/A,N/A
+97,Hamidou Diallo,FG_UNASSISTED,None,1:09,3,Thunder,Pelicans,84 - 93,1,0,2,Dunk
+98,Team,Unknown,None,1:07,3,Thunder,Pelicans,84 - 93,1,N/A,N/A,N/A
+99,Anthony Davis,TURNOVER,Hamidou Diallo,56.8,3,Pelicans,Thunder,84 - 93,0,N/A,N/A,N/A
+100,Hamidou Diallo,FG_UNASSISTED,None,54.2,3,Thunder,Pelicans,84 - 95,1,0,2,Dunk
+101,Ian Clark,FOUL_ON_FLOOR,None,54.2,3,Pelicans,Thunder,84 - 95,0,N/A,N/A,N/A
+102,Hamidou Diallo,FT_MISS,None,54.2,3,Thunder,Pelicans,84 - 95,1,N/A,1,N/A
+103,Team,OFFENSIVE_REBOUND,None,54.1,3,Thunder,Pelicans,84 - 95,1,N/A,N/A,N/A
+104,Darius Miller,FOUL_ON_FLOOR,None,54.1,3,Pelicans,Thunder,84 - 95,0,N/A,N/A,N/A
+105,Steven Adams,FT_MISS,None,54.1,3,Thunder,Pelicans,84 - 95,1,N/A,1,N/A
+106,Team,OFFENSIVE_REBOUND,None,54.1,3,Thunder,Pelicans,84 - 95,1,N/A,N/A,N/A
+107,Steven Adams,FT_MISS,None,54.1,3,Thunder,Pelicans,84 - 95,1,N/A,1,N/A
+108,Anthony Davis,DEFENSIVE_REBOUND,None,53.0,3,Pelicans,Thunder,84 - 95,0,N/A,N/A,N/A
+109,Anthony Davis,TURNOVER,None,42.4,3,Pelicans,Thunder,84 - 95,0,N/A,N/A,N/A
+110,Dennis Schroder,FG_UNASSISTED,None,35.9,3,Thunder,Pelicans,84 - 97,1,0,2,Layup
+111,Tim Frazier,FOUL_ON_FLOOR,None,35.9,3,Pelicans,Thunder,84 - 97,0,N/A,N/A,N/A
+112,Dennis Schroder,FT,None,35.9,3,Thunder,Pelicans,84 - 98,1,N/A,1,N/A
+113,Hamidou Diallo,FOUL_ON_FLOOR,None,25.5,3,Thunder,Pelicans,84 - 98,1,N/A,N/A,N/A
+114,Julius Randle,FT,None,25.5,3,Pelicans,Thunder,85 - 98,0,N/A,1,N/A
+115,Julius Randle,FT,None,25.5,3,Pelicans,Thunder,86 - 98,0,N/A,1,N/A
+116,Steven Adams,FG_ASSISTED,Dennis Schroder,6.9,3,Thunder,Pelicans,86 - 100,1,2,3,Jumper
+117,Tim Frazier,FG_MISS,Steven Adams,0.5,3,Thunder,Pelicans,86 - 100,0,13,3,Jumper
+118,Team,OFFENSIVE_REBOUND,None,0.1,3,Pelicans,Thunder,86 - 100,0,N/A,N/A,N/A
+119,End of,Unknown,None,0.0,3,Thunder,Pelicans,86 - 100,1,N/A,N/A,N/A
+0,Nerlens Noel,SUBSTITUTION,Adams Steven,12:00,4,Thunder,Pelicans,86 - 100,1,N/A,N/A,N/A
+1,Cheick Diallo,SUBSTITUTION,Miller Darius,12:00,4,Pelicans,Thunder,86 - 100,0,N/A,N/A,N/A
+2,Nikola Mirotic,SUBSTITUTION,for game,12:00,4,Pelicans,Thunder,86 - 100,0,N/A,N/A,N/A
+3,Nikola Mirotic,SUBSTITUTION,Frazier Tim,12:00,4,Pelicans,Thunder,86 - 100,0,N/A,N/A,N/A
+4,enters the,SUBSTITUTION,Davis Anthony,12:00,4,Pelicans,Thunder,86 - 100,0,N/A,N/A,N/A
+5,Jrue Holiday,FG_MISS,None,11:41,4,Pelicans,Thunder,86 - 100,0,25,3,Jumper
+6,Dennis Schroder,DEFENSIVE_REBOUND,None,11:38,4,Thunder,Pelicans,86 - 100,1,N/A,N/A,N/A
+7,Dennis Schroder,TURNOVER,Cheick Diallo,11:22,4,Thunder,Pelicans,86 - 100,1,N/A,N/A,N/A
+8,Jrue Holiday,FG_UNASSISTED,None,11:14,4,Pelicans,Thunder,88 - 100,0,0,2,Layup
+9,Dennis Schroder,FG_MISS,None,11:06,4,Thunder,Pelicans,88 - 100,1,1,3,Jumper
+10,Nerlens Noel,OFFENSIVE_REBOUND,None,11:05,4,Thunder,Pelicans,88 - 100,1,N/A,N/A,N/A
+11,Nerlens Noel,FG_MISS,None,11:05,4,Thunder,Pelicans,88 - 100,1,1,3,Jumper
+12,Team,DEFENSIVE_REBOUND,None,11:05,4,Pelicans,Thunder,88 - 100,0,N/A,N/A,N/A
+13,Nikola Mirotic,FG_UNASSISTED,None,10:39,4,Pelicans,Thunder,90 - 100,0,1,3,Jumper
+14,Hamidou Diallo,FG_MISS,None,10:17,4,Thunder,Pelicans,90 - 100,1,26,3,Jumper
+15,Nerlens Noel,OFFENSIVE_REBOUND,None,10:14,4,Thunder,Pelicans,90 - 100,1,N/A,N/A,N/A
+16,Alex Abrines,FG_MISS,None,10:13,4,Thunder,Pelicans,90 - 100,1,28,3,Jumper
+17,Julius Randle,DEFENSIVE_REBOUND,None,10:10,4,Pelicans,Thunder,90 - 100,0,N/A,N/A,N/A
+18,Jrue Holiday,TURNOVER,Nerlens Noel,9:49,4,Pelicans,Thunder,90 - 100,0,N/A,N/A,N/A
+19,Jrue Holiday,FOUL_ON_FLOOR,None,9:47,4,Pelicans,Thunder,90 - 100,0,N/A,N/A,N/A
+20,Dennis Schroder,FG_MISS,None,9:39,4,Thunder,Pelicans,90 - 100,1,26,3,Jumper
+21,Nikola Mirotic,DEFENSIVE_REBOUND,None,9:35,4,Pelicans,Thunder,90 - 100,0,N/A,N/A,N/A
+22,Julius Randle,FG_UNASSISTED,None,9:29,4,Pelicans,Thunder,92 - 100,0,6,3,Jumper
+23,Nikola Mirotic,FOUL_ON_FLOOR,None,9:15,4,Pelicans,Thunder,92 - 100,0,N/A,N/A,N/A
+24,Alex Abrines,FT,None,9:15,4,Thunder,Pelicans,92 - 101,1,N/A,1,N/A
+25,Paul George,SUBSTITUTION,Diallo Hamidou,9:15,4,Thunder,Pelicans,92 - 101,1,N/A,N/A,N/A
+26,Alex Abrines,FT,None,9:15,4,Thunder,Pelicans,92 - 102,1,N/A,1,N/A
+27,Patrick Patterson,FOUL_ON_FLOOR,None,9:09,4,Thunder,Pelicans,92 - 102,1,N/A,N/A,N/A
+28,Julius Randle,FT,None,9:09,4,Pelicans,Thunder,93 - 102,0,N/A,1,N/A
+29,Raymond Felton,SUBSTITUTION,Schroder Dennis,9:09,4,Thunder,Pelicans,93 - 102,1,N/A,N/A,N/A
+30,Julius Randle,FT,None,9:09,4,Pelicans,Thunder,94 - 102,0,N/A,1,N/A
+31,Paul George,FG_ASSISTED,Nerlens Noel,8:56,4,Thunder,Pelicans,94 - 105,1,25,3,Jumper
+32,Ian Clark,FG_ASSISTED,Jrue Holiday,8:32,4,Pelicans,Thunder,96 - 105,0,7,3,Jumper
+33,Raymond Felton,FG_UNASSISTED,None,8:17,4,Thunder,Pelicans,96 - 107,1,22,3,Jumper
+34,Cheick Diallo,FG_ASSISTED,Jrue Holiday,8:05,4,Pelicans,Thunder,98 - 107,0,2,3,Jumper
+35,Nerlens Noel,FG_MISS,Julius Randle,7:51,4,Pelicans,Thunder,98 - 107,1,3,3,Jumper
+36,Cheick Diallo,DEFENSIVE_REBOUND,None,7:48,4,Pelicans,Thunder,98 - 107,0,N/A,N/A,N/A
+37,Ian Clark,FG_MISS,None,7:42,4,Pelicans,Thunder,98 - 107,0,23,3,Jumper
+38,Nerlens Noel,DEFENSIVE_REBOUND,None,7:36,4,Thunder,Pelicans,98 - 107,1,N/A,N/A,N/A
+39,Jrue Holiday,FOUL_ON_FLOOR,None,7:30,4,Pelicans,Thunder,98 - 107,0,N/A,N/A,N/A
+40,Patrick Patterson,FT_MISS,None,7:30,4,Thunder,Pelicans,98 - 107,1,N/A,1,N/A
+41,Team,OFFENSIVE_REBOUND,None,7:30,4,Thunder,Pelicans,98 - 107,1,N/A,N/A,N/A
+42,Anthony Davis,SUBSTITUTION,Diallo Cheick,7:30,4,Pelicans,Thunder,98 - 107,0,N/A,N/A,N/A
+43,Patrick Patterson,FT,None,7:30,4,Thunder,Pelicans,98 - 108,1,N/A,1,N/A
+44,Julius Randle,FG_ASSISTED,Jrue Holiday,7:19,4,Pelicans,Thunder,100 - 108,0,0,2,Dunk
+45,Raymond Felton,FG_MISS,None,7:02,4,Thunder,Pelicans,100 - 108,1,26,3,Jumper
+46,Nikola Mirotic,DEFENSIVE_REBOUND,None,6:59,4,Pelicans,Thunder,100 - 108,0,N/A,N/A,N/A
+47,Jrue Holiday,TURNOVER,Raymond Felton,6:49,4,Pelicans,Thunder,100 - 108,0,N/A,N/A,N/A
+48,Raymond Felton,FG_MISS,None,6:33,4,Thunder,Pelicans,100 - 108,1,17,3,Jumper
+49,Nikola Mirotic,DEFENSIVE_REBOUND,None,6:30,4,Pelicans,Thunder,100 - 108,0,N/A,N/A,N/A
+50,Raymond Felton,FOUL_ON_FLOOR,None,6:26,4,Thunder,Pelicans,100 - 108,1,N/A,N/A,N/A
+51,Team,Unknown,None,6:26,4,Thunder,Pelicans,100 - 108,1,N/A,N/A,N/A
+52,Jerami Grant,SUBSTITUTION,Noel Nerlens,6:26,4,Thunder,Pelicans,100 - 108,1,N/A,N/A,N/A
+53,Steven Adams,SUBSTITUTION,Patterson Patrick,6:26,4,Thunder,Pelicans,100 - 108,1,N/A,N/A,N/A
+54,Nikola Mirotic,FT,None,6:26,4,Pelicans,Thunder,101 - 108,0,N/A,1,N/A
+55,Nikola Mirotic,FT,None,6:26,4,Pelicans,Thunder,102 - 108,0,N/A,1,N/A
+56,Paul George,FG_MISS,None,6:11,4,Thunder,Pelicans,102 - 108,1,0,2,Layup
+57,Team,OFFENSIVE_REBOUND,None,6:11,4,Thunder,Pelicans,102 - 108,1,N/A,N/A,N/A
+58,Julius Randle,FOUL_ON_FLOOR,None,6:11,4,Pelicans,Thunder,102 - 108,0,N/A,N/A,N/A
+59,Dennis Schroder,SUBSTITUTION,Felton Raymond,6:11,4,Thunder,Pelicans,102 - 108,1,N/A,N/A,N/A
+60,Jerami Grant,FG_MISS,None,6:03,4,Thunder,Pelicans,102 - 108,1,6,3,Jumper
+61,Anthony Davis,DEFENSIVE_REBOUND,None,6:00,4,Pelicans,Thunder,102 - 108,0,N/A,N/A,N/A
+62,Jerami Grant,FOUL_ON_FLOOR,None,5:53,4,Thunder,Pelicans,102 - 108,1,N/A,N/A,N/A
+63,Nikola Mirotic,FG_MISS,Jerami Grant,5:40,4,Thunder,Pelicans,102 - 108,0,0,2,Layup
+64,Alex Abrines,DEFENSIVE_REBOUND,None,5:37,4,Thunder,Pelicans,102 - 108,1,N/A,N/A,N/A
+65,Dennis Schroder,FG_ASSISTED,Alex Abrines,5:31,4,Thunder,Pelicans,102 - 110,1,0,2,Layup
+66,Julius Randle,Unknown,None,5:31,4,Pelicans,Thunder,102 - 110,0,N/A,N/A,N/A
+67,Nikola Mirotic,FG_MISS,None,5:20,4,Pelicans,Thunder,102 - 110,0,26,3,Jumper
+68,Jerami Grant,DEFENSIVE_REBOUND,None,5:18,4,Thunder,Pelicans,102 - 110,1,N/A,N/A,N/A
+69,Dennis Schroder,FG_UNASSISTED,None,5:12,4,Thunder,Pelicans,102 - 112,1,2,3,Jumper
+70,Team,Unknown,None,5:11,4,Pelicans,Thunder,102 - 112,0,N/A,N/A,N/A
+71,Jerami Grant,FOUL_ON_FLOOR,None,5:04,4,Thunder,Pelicans,102 - 112,1,N/A,N/A,N/A
+72,Anthony Davis,FT,None,5:04,4,Pelicans,Thunder,103 - 112,0,N/A,1,N/A
+73,Anthony Davis,FT,None,5:04,4,Pelicans,Thunder,104 - 112,0,N/A,1,N/A
+74,Dennis Schroder,FG_MISS,None,4:52,4,Thunder,Pelicans,104 - 112,1,15,3,Jumper
+75,Ian Clark,DEFENSIVE_REBOUND,None,4:48,4,Pelicans,Thunder,104 - 112,0,N/A,N/A,N/A
+76,Anthony Davis,FG_MISS,None,4:34,4,Pelicans,Thunder,104 - 112,0,12,3,Jumper
+77,Dennis Schroder,DEFENSIVE_REBOUND,None,4:31,4,Thunder,Pelicans,104 - 112,1,N/A,N/A,N/A
+78,Dennis Schroder,FG_ASSISTED,Paul George,4:21,4,Thunder,Pelicans,104 - 115,1,26,3,Jumper
+79,Anthony Davis,FG_MISS,None,4:03,4,Pelicans,Thunder,104 - 115,0,21,3,Jumper
+80,Paul George,DEFENSIVE_REBOUND,None,4:01,4,Thunder,Pelicans,104 - 115,1,N/A,N/A,N/A
+81,Jerami Grant,FG_MISS,None,3:49,4,Thunder,Pelicans,104 - 115,1,15,3,Jumper
+82,Nikola Mirotic,DEFENSIVE_REBOUND,None,3:47,4,Pelicans,Thunder,104 - 115,0,N/A,N/A,N/A
+83,Team,Unknown,None,3:43,4,Pelicans,Thunder,104 - 115,0,N/A,N/A,N/A
+84,Paul George,FOUL_ON_FLOOR,None,3:38,4,Thunder,Pelicans,104 - 115,1,N/A,N/A,N/A
+85,Jrue Holiday,FT,None,3:38,4,Pelicans,Thunder,105 - 115,0,N/A,1,N/A
+86,Jrue Holiday,FT_MISS,None,3:38,4,Pelicans,Thunder,105 - 115,0,N/A,1,N/A
+87,Paul George,DEFENSIVE_REBOUND,None,3:36,4,Thunder,Pelicans,105 - 115,1,N/A,N/A,N/A
+88,Paul George,FG_MISS,Jrue Holiday,3:24,4,Pelicans,Thunder,105 - 115,1,15,3,Jumper
+89,Team,OFFENSIVE_REBOUND,None,3:24,4,Thunder,Pelicans,105 - 115,1,N/A,N/A,N/A
+90,Steven Adams,FOUL_ON_FLOOR,None,3:24,4,Thunder,Pelicans,105 - 115,1,N/A,N/A,N/A
+91,Steven Adams,TURNOVER,None,3:24,4,Thunder,Pelicans,105 - 115,1,N/A,N/A,N/A
+92,Anthony Davis,FT,None,3:24,4,Pelicans,Thunder,106 - 115,0,N/A,1,N/A
+93,Anthony Davis,FT_MISS,None,3:24,4,Pelicans,Thunder,106 - 115,0,N/A,1,N/A
+94,Jerami Grant,DEFENSIVE_REBOUND,None,3:22,4,Thunder,Pelicans,106 - 115,1,N/A,N/A,N/A
+95,Steven Adams,FG_MISS,None,3:06,4,Thunder,Pelicans,106 - 115,1,6,3,Jumper
+96,Nikola Mirotic,DEFENSIVE_REBOUND,None,3:04,4,Pelicans,Thunder,106 - 115,0,N/A,N/A,N/A
+97,Dennis Schroder,FOUL_ON_FLOOR,None,2:56,4,Thunder,Pelicans,106 - 115,1,N/A,N/A,N/A
+98,Nikola Mirotic,FT_MISS,None,2:56,4,Pelicans,Thunder,106 - 115,0,N/A,1,N/A
+99,Team,OFFENSIVE_REBOUND,None,2:56,4,Pelicans,Thunder,106 - 115,0,N/A,N/A,N/A
+100,Nikola Mirotic,FT,None,2:56,4,Pelicans,Thunder,107 - 115,0,N/A,1,N/A
+101,Dennis Schroder,FG_UNASSISTED,None,2:44,4,Thunder,Pelicans,107 - 117,1,9,3,Jumper
+102,Anthony Davis,FG_MISS,None,2:30,4,Pelicans,Thunder,107 - 117,0,8,3,Jumper
+103,Jerami Grant,DEFENSIVE_REBOUND,None,2:27,4,Thunder,Pelicans,107 - 117,1,N/A,N/A,N/A
+104,Dennis Schroder,FG_MISS,None,2:12,4,Thunder,Pelicans,107 - 117,1,16,3,Jumper
+105,Nikola Mirotic,DEFENSIVE_REBOUND,None,2:09,4,Pelicans,Thunder,107 - 117,0,N/A,N/A,N/A
+106,Jrue Holiday,FG_MISS,None,1:58,4,Pelicans,Thunder,107 - 117,0,25,3,Jumper
+107,Alex Abrines,DEFENSIVE_REBOUND,None,1:56,4,Thunder,Pelicans,107 - 117,1,N/A,N/A,N/A
+108,Alex Abrines,FG_MISS,Anthony Davis,1:36,4,Pelicans,Thunder,107 - 117,1,7,3,Jumper
+109,Jrue Holiday,DEFENSIVE_REBOUND,None,1:34,4,Pelicans,Thunder,107 - 117,0,N/A,N/A,N/A
+110,Dennis Schroder,FOUL_ON_FLOOR,None,1:32,4,Thunder,Pelicans,107 - 117,1,N/A,N/A,N/A
+111,Ian Clark,FT_MISS,None,1:32,4,Pelicans,Thunder,107 - 117,0,N/A,1,N/A
+112,Team,OFFENSIVE_REBOUND,None,1:32,4,Pelicans,Thunder,107 - 117,0,N/A,N/A,N/A
+113,Ian Clark,FT,None,1:32,4,Pelicans,Thunder,108 - 117,0,N/A,1,N/A
+114,Steven Adams,TURNOVER,Julius Randle,1:10,4,Thunder,Pelicans,108 - 117,1,N/A,N/A,N/A
+115,Julius Randle,FG_UNASSISTED,None,1:04,4,Pelicans,Thunder,110 - 117,0,1,3,Jumper
+116,Paul George,FG_MISS,None,45.2,4,Thunder,Pelicans,110 - 117,1,21,3,Jumper
+117,Nikola Mirotic,DEFENSIVE_REBOUND,None,43.4,4,Pelicans,Thunder,110 - 117,0,N/A,N/A,N/A
+118,Team,Unknown,None,43.4,4,Pelicans,Thunder,110 - 117,0,N/A,N/A,N/A
+119,Terrance Ferguson,SUBSTITUTION,Abrines Alex,43.4,4,Thunder,Pelicans,110 - 117,1,N/A,N/A,N/A
+120,Dennis Schroder,FOUL_ON_FLOOR,None,35.7,4,Thunder,Pelicans,110 - 117,1,N/A,N/A,N/A
+121,Jrue Holiday,FT,None,35.7,4,Pelicans,Thunder,111 - 117,0,N/A,1,N/A
+122,Jrue Holiday,FT,None,35.7,4,Pelicans,Thunder,112 - 117,0,N/A,1,N/A
+123,Alex Abrines,SUBSTITUTION,Ferguson Terrance,35.7,4,Thunder,Pelicans,112 - 117,1,N/A,N/A,N/A
+124,Jrue Holiday,FT,None,35.7,4,Pelicans,Thunder,113 - 117,0,N/A,1,N/A
+125,Nikola Mirotic,FOUL_ON_FLOOR,None,32.6,4,Pelicans,Thunder,113 - 117,0,N/A,N/A,N/A
+126,Jerami Grant,FT_MISS,None,32.6,4,Thunder,Pelicans,113 - 117,1,N/A,1,N/A
+127,Team,OFFENSIVE_REBOUND,None,32.6,4,Thunder,Pelicans,113 - 117,1,N/A,N/A,N/A
+128,Terrance Ferguson,SUBSTITUTION,Abrines Alex,32.6,4,Thunder,Pelicans,113 - 117,1,N/A,N/A,N/A
+129,Jerami Grant,FT,None,32.6,4,Thunder,Pelicans,113 - 118,1,N/A,1,N/A
+130,Julius Randle,FG_ASSISTED,Jrue Holiday,23.3,4,Pelicans,Thunder,116 - 118,0,23,3,Jumper
+131,Julius Randle,FOUL_ON_FLOOR,None,20.5,4,Pelicans,Thunder,116 - 118,0,N/A,N/A,N/A
+132,Dennis Schroder,FT,None,20.5,4,Thunder,Pelicans,116 - 119,1,N/A,1,N/A
+133,Dennis Schroder,FT,None,20.5,4,Thunder,Pelicans,116 - 120,1,N/A,1,N/A
+134,Jrue Holiday,FG_MISS,None,14.4,4,Pelicans,Thunder,116 - 120,0,25,3,Jumper
+135,Paul George,DEFENSIVE_REBOUND,None,11.9,4,Thunder,Pelicans,116 - 120,1,N/A,N/A,N/A
+136,Nikola Mirotic,FOUL_ON_FLOOR,None,11.8,4,Pelicans,Thunder,116 - 120,0,N/A,N/A,N/A
+137,Paul George,FT,None,11.8,4,Thunder,Pelicans,116 - 121,1,N/A,1,N/A
+138,Paul George,FT,None,11.8,4,Thunder,Pelicans,116 - 122,1,N/A,1,N/A
+139,Team,Unknown,None,11.8,4,Pelicans,Thunder,116 - 122,0,N/A,N/A,N/A
+140,Anthony Davis,TURNOVER,Dennis Schroder,10.4,4,Pelicans,Thunder,116 - 122,0,N/A,N/A,N/A
+141,End of,Unknown,None,0.0,4,Thunder,Pelicans,116 - 122,1,N/A,N/A,N/A
+142,End of,Unknown,None,0.0,4,Thunder,Pelicans,116 - 122,1,N/A,N/A,N/A

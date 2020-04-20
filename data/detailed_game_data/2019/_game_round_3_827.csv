@@ -1,0 +1,504 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Nikola Vucevic,JUMP_BALL,None,12:00,1,Nets,Magic,0 - 0,1,N/A,N/A,N/A
+1,D'Angelo Russell,TURNOVER,D.J. Augustin,11:47,1,Nets,Magic,0 - 0,1,N/A,N/A,N/A
+2,Jonathan Isaac,FG_ASSISTED,Aaron Gordon,11:33,1,Magic,Nets,3 - 0,0,23,3,Jumper
+3,Joe Harris,FG_MISS,None,11:24,1,Nets,Magic,3 - 0,1,27,3,Jumper
+4,Nikola Vucevic,DEFENSIVE_REBOUND,None,11:20,1,Magic,Nets,3 - 0,0,N/A,N/A,N/A
+5,D.J. Augustin,FG_UNASSISTED,None,11:14,1,Magic,Nets,5 - 0,0,-,2,Jumper
+6,Rodions Kurucs,FG_MISS,None,10:58,1,Nets,Magic,5 - 0,1,26,3,Jumper
+7,Aaron Gordon,DEFENSIVE_REBOUND,None,10:55,1,Magic,Nets,5 - 0,0,N/A,N/A,N/A
+8,Aaron Gordon,FG_MISS,None,10:49,1,Magic,Nets,5 - 0,0,10,2,Jumper
+9,Jarrett Allen,DEFENSIVE_REBOUND,None,10:43,1,Nets,Magic,5 - 0,1,N/A,N/A,N/A
+10,D'Angelo Russell,FG_MISS,None,10:38,1,Nets,Magic,5 - 0,1,12,2,Jumper
+11,Nikola Vucevic,DEFENSIVE_REBOUND,None,10:36,1,Magic,Nets,5 - 0,0,N/A,N/A,N/A
+12,Evan Fournier,FG_UNASSISTED,None,10:25,1,Magic,Nets,7 - 0,0,0,2,Layup
+13,Rodions Kurucs,FOUL_ON_FLOOR,None,10:25,1,Nets,Magic,7 - 0,1,N/A,N/A,N/A
+14,Evan Fournier,FT,None,10:25,1,Magic,Nets,8 - 0,0,N/A,1,N/A
+15,Joe Harris,FG_ASSISTED,D'Angelo Russell,10:14,1,Nets,Magic,8 - 2,1,0,2,Layup
+16,Nikola Vucevic,FG_MISS,None,9:58,1,Magic,Nets,8 - 2,0,0,2,Dunk
+17,Rodions Kurucs,DEFENSIVE_REBOUND,None,9:56,1,Nets,Magic,8 - 2,1,N/A,N/A,N/A
+18,Aaron Gordon,FOUL_ON_FLOOR,None,9:48,1,Magic,Nets,8 - 2,0,N/A,N/A,N/A
+19,D'Angelo Russell,FG_MISS,Nikola Vucevic,9:44,1,Magic,Nets,8 - 2,1,0,2,Layup
+20,Team,OFFENSIVE_REBOUND,None,9:44,1,Nets,Magic,8 - 2,1,N/A,N/A,N/A
+21,Evan Fournier,FOUL_ON_FLOOR,None,9:37,1,Magic,Nets,8 - 2,0,N/A,N/A,N/A
+22,D'Angelo Russell,FT_MISS,None,9:37,1,Nets,Magic,8 - 2,1,N/A,1,N/A
+23,Team,OFFENSIVE_REBOUND,None,9:37,1,Nets,Magic,8 - 2,1,N/A,N/A,N/A
+24,D'Angelo Russell,FT,None,9:37,1,Nets,Magic,8 - 3,1,N/A,1,N/A
+25,D'Angelo Russell,FT,None,9:37,1,Nets,Magic,8 - 4,1,N/A,1,N/A
+26,Jonathan Isaac,FG_MISS,None,9:24,1,Magic,Nets,8 - 4,0,-,2,Jumper
+27,Jarrett Allen,DEFENSIVE_REBOUND,None,9:22,1,Nets,Magic,8 - 4,1,N/A,N/A,N/A
+28,D'Angelo Russell,TURNOVER,None,9:19,1,Nets,Magic,8 - 4,1,N/A,N/A,N/A
+29,Nikola Vucevic,FG_MISS,None,9:11,1,Magic,Nets,8 - 4,0,14,2,Jumper
+30,Aaron Gordon,OFFENSIVE_REBOUND,None,9:08,1,Magic,Nets,8 - 4,0,N/A,N/A,N/A
+31,Aaron Gordon,TURNOVER,None,9:08,1,Magic,Nets,8 - 4,0,N/A,N/A,N/A
+32,Joe Harris,FG_ASSISTED,Jarrett Allen,8:58,1,Nets,Magic,8 - 7,1,26,3,Jumper
+33,Aaron Gordon,FG_MISS,None,8:41,1,Magic,Nets,8 - 7,0,26,3,Jumper
+34,D'Angelo Russell,DEFENSIVE_REBOUND,None,8:37,1,Nets,Magic,8 - 7,1,N/A,N/A,N/A
+35,D'Angelo Russell,FG_UNASSISTED,None,8:35,1,Nets,Magic,8 - 10,1,25,3,Jumper
+36,Nikola Vucevic,FG_ASSISTED,Jonathan Isaac,8:13,1,Magic,Nets,10 - 10,0,0,2,Layup
+37,Treveon Graham,FG_ASSISTED,Jarrett Allen,7:54,1,Nets,Magic,10 - 13,1,26,3,Jumper
+38,D.J. Augustin,FG_UNASSISTED,None,7:41,1,Magic,Nets,12 - 13,0,10,2,Jumper
+39,Rodions Kurucs,FG_ASSISTED,D'Angelo Russell,7:35,1,Nets,Magic,12 - 15,1,0,2,Dunk
+40,Team,Unknown,None,7:35,1,Magic,Nets,12 - 15,0,N/A,N/A,N/A
+41,Evan Fournier,FG_MISS,None,7:25,1,Magic,Nets,12 - 15,0, ,2,Jumper
+42,Rodions Kurucs,DEFENSIVE_REBOUND,None,7:21,1,Nets,Magic,12 - 15,1,N/A,N/A,N/A
+43,Rodions Kurucs,FG_MISS,None,7:17,1,Nets,Magic,12 - 15,1, ,2,Jumper
+44,Jarrett Allen,OFFENSIVE_REBOUND,None,7:13,1,Nets,Magic,12 - 15,1,N/A,N/A,N/A
+45,Jarrett Allen,FG_UNASSISTED,None,7:13,1,Nets,Magic,12 - 17,1,0,2,Dunk
+46,Aaron Gordon,FG_UNASSISTED,None,7:00,1,Magic,Nets,14 - 17,0,23,2,Jumper
+47,Joe Harris,FG_MISS,Aaron Gordon,6:48,1,Magic,Nets,14 - 17,1,0,2,Layup
+48,D.J. Augustin,DEFENSIVE_REBOUND,None,6:44,1,Magic,Nets,14 - 17,0,N/A,N/A,N/A
+49,D.J. Augustin,FG_MISS,None,6:39,1,Magic,Nets,14 - 17,0, ,2,Jumper
+50,D.J. Augustin,OFFENSIVE_REBOUND,None,6:37,1,Magic,Nets,14 - 17,0,N/A,N/A,N/A
+51,Nikola Vucevic,FG_ASSISTED,D.J. Augustin,6:33,1,Magic,Nets,16 - 17,0,0,2,Layup
+52,D'Angelo Russell,FG_MISS,None,6:19,1,Nets,Magic,16 - 17,1, ,2,Jumper
+53,Evan Fournier,DEFENSIVE_REBOUND,None,6:19,1,Magic,Nets,16 - 17,0,N/A,N/A,N/A
+54,D'Angelo Russell,FOUL_ON_FLOOR,None,6:12,1,Nets,Magic,16 - 17,1,N/A,N/A,N/A
+55,Evan Fournier,FT_MISS,None,6:12,1,Magic,Nets,16 - 17,0,N/A,1,N/A
+56,Team,OFFENSIVE_REBOUND,None,6:12,1,Magic,Nets,16 - 17,0,N/A,N/A,N/A
+57,Jonathon Simmons,SUBSTITUTION,Gordon Aaron,6:12,1,Magic,Nets,16 - 17,0,N/A,N/A,N/A
+58,Evan Fournier,FT_MISS,None,6:12,1,Magic,Nets,16 - 17,0,N/A,1,N/A
+59,Jarrett Allen,DEFENSIVE_REBOUND,None,6:10,1,Nets,Magic,16 - 17,1,N/A,N/A,N/A
+60,Rodions Kurucs,TURNOVER,None,6:02,1,Nets,Magic,16 - 17,1,N/A,N/A,N/A
+61,Rodions Kurucs,TURNOVER,None,6:02,1,Nets,Magic,16 - 17,1,N/A,N/A,N/A
+62,Spencer Dinwiddie,SUBSTITUTION,Kurucs Rodions,6:02,1,Nets,Magic,16 - 17,1,N/A,N/A,N/A
+63,DeMarre Carroll,SUBSTITUTION,Russell D'Angelo,6:02,1,Nets,Magic,16 - 17,1,N/A,N/A,N/A
+64,Evan Fournier,FG_MISS,None,5:49,1,Magic,Nets,16 - 17,0,19,2,Jumper
+65,Jarrett Allen,DEFENSIVE_REBOUND,None,5:47,1,Nets,Magic,16 - 17,1,N/A,N/A,N/A
+66,Treveon Graham,FG_ASSISTED,Spencer Dinwiddie,5:37,1,Nets,Magic,16 - 19,1,13,2,Jumper
+67,Jonathan Isaac,FG_MISS,None,5:22,1,Magic,Nets,16 - 19,0,24,3,Jumper
+68,Jarrett Allen,DEFENSIVE_REBOUND,None,5:19,1,Nets,Magic,16 - 19,1,N/A,N/A,N/A
+69,Jarrett Allen,FG_MISS,Jonathan Isaac,5:06,1,Magic,Nets,16 - 19,1,0,2,Layup
+70,Treveon Graham,OFFENSIVE_REBOUND,None,5:01,1,Nets,Magic,16 - 19,1,N/A,N/A,N/A
+71,shot clock,TURNOVER,None,4:57,1,Nets,Magic,16 - 19,1,N/A,N/A,N/A
+72,Isaiah Briscoe,SUBSTITUTION,Augustin D.J.,4:57,1,Magic,Nets,16 - 19,0,N/A,N/A,N/A
+73,Jonathan Isaac,FG_MISS,None,4:44,1,Magic,Nets,16 - 19,0,23,3,Jumper
+74,Treveon Graham,DEFENSIVE_REBOUND,None,4:41,1,Nets,Magic,16 - 19,1,N/A,N/A,N/A
+75,Spencer Dinwiddie,FG_MISS,None,4:18,1,Nets,Magic,16 - 19,1,26,3,Jumper
+76,Jarrett Allen,OFFENSIVE_REBOUND,None,4:16,1,Nets,Magic,16 - 19,1,N/A,N/A,N/A
+77,Joe Harris,FG_MISS,Nikola Vucevic,4:12,1,Magic,Nets,16 - 19,1,0,2,Layup
+78,Nikola Vucevic,DEFENSIVE_REBOUND,None,4:09,1,Magic,Nets,16 - 19,0,N/A,N/A,N/A
+79,Jonathon Simmons,TURNOVER,Spencer Dinwiddie,4:04,1,Magic,Nets,16 - 19,0,N/A,N/A,N/A
+80,Joe Harris,FG_ASSISTED,Spencer Dinwiddie,4:00,1,Nets,Magic,16 - 21,1, ,2,Jumper
+81,Team,Unknown,None,4:00,1,Magic,Nets,16 - 21,0,N/A,N/A,N/A
+82,Ed Davis,SUBSTITUTION,Graham Treveon,4:00,1,Nets,Magic,16 - 21,1,N/A,N/A,N/A
+83,Rondae Hollis-Jefferson,SUBSTITUTION,Allen Jarrett,4:00,1,Nets,Magic,16 - 21,1,N/A,N/A,N/A
+84,Terrence Ross,SUBSTITUTION,Fournier Evan,4:00,1,Magic,Nets,16 - 21,0,N/A,N/A,N/A
+85,Jerian Grant,SUBSTITUTION,Briscoe Isaiah,4:00,1,Magic,Nets,16 - 21,0,N/A,N/A,N/A
+86,Nikola Vucevic,FG_ASSISTED,Jerian Grant,3:40,1,Magic,Nets,18 - 21,0,16,2,Jumper
+87,DeMarre Carroll,FG_MISS,None,3:21,1,Nets,Magic,18 - 21,1,12,2,Jumper
+88,Nikola Vucevic,DEFENSIVE_REBOUND,None,3:19,1,Magic,Nets,18 - 21,0,N/A,N/A,N/A
+89,Jonathan Isaac,FG_ASSISTED,Nikola Vucevic,3:11,1,Magic,Nets,20 - 21,0,0,2,Layup
+90,Ed Davis's,FG_MISS,Jonathan Isaac,2:56,1,Magic,Nets,20 - 21,1,0,2,Dunk
+91,Jonathon Simmons,DEFENSIVE_REBOUND,None,2:54,1,Magic,Nets,20 - 21,0,N/A,N/A,N/A
+92,Joe Harris,FOUL_ON_FLOOR,None,2:49,1,Nets,Magic,20 - 21,1,N/A,N/A,N/A
+93,Jonathon Simmons,FT_MISS,None,2:49,1,Magic,Nets,20 - 21,0,N/A,1,N/A
+94,Team,OFFENSIVE_REBOUND,None,2:49,1,Magic,Nets,20 - 21,0,N/A,N/A,N/A
+95,D'Angelo Russell,SUBSTITUTION,Harris Joe,2:49,1,Nets,Magic,20 - 21,1,N/A,N/A,N/A
+96,Mo Bamba,SUBSTITUTION,Vucevic Nikola,2:49,1,Magic,Nets,20 - 21,0,N/A,N/A,N/A
+97,Jonathon Simmons,FT,None,2:49,1,Magic,Nets,21 - 21,0,N/A,1,N/A
+98,D'Angelo Russell,FG_MISS,None,2:31,1,Nets,Magic,21 - 21,1,0,2,Layup
+99,Jonathan Isaac,DEFENSIVE_REBOUND,None,2:29,1,Magic,Nets,21 - 21,0,N/A,N/A,N/A
+100,Jerian Grant,FG_MISS,None,2:19,1,Magic,Nets,21 - 21,0,25,3,Jumper
+101,Ed Davis,DEFENSIVE_REBOUND,None,2:15,1,Nets,Magic,21 - 21,1,N/A,N/A,N/A
+102,D'Angelo Russell,FG_UNASSISTED,None,2:08,1,Nets,Magic,21 - 23,1,14,2,Jumper
+103,Terrence Ross,FG_MISS,None,1:56,1,Magic,Nets,21 - 23,0,25,3,Jumper
+104,Ed Davis,DEFENSIVE_REBOUND,None,1:53,1,Nets,Magic,21 - 23,1,N/A,N/A,N/A
+105,DeMarre Carroll,FG_MISS,None,1:46,1,Nets,Magic,21 - 23,1,25,3,Jumper
+106,Jerian Grant,DEFENSIVE_REBOUND,None,1:44,1,Magic,Nets,21 - 23,0,N/A,N/A,N/A
+107,Jonathon Simmons,FG_UNASSISTED,None,1:38,1,Magic,Nets,23 - 23,0,0,2,Layup
+108,Rondae Hollis-Jefferson,FG_ASSISTED,D'Angelo Russell,1:24,1,Nets,Magic,23 - 25,1,0,2,Layup
+109,Terrence Ross,FG_UNASSISTED,None,1:05,1,Magic,Nets,25 - 25,0,10,2,Jumper
+110,Jerian Grant,FOUL_ON_FLOOR,None,57.2,1,Magic,Nets,25 - 25,0,N/A,N/A,N/A
+111,Aaron Gordon,SUBSTITUTION,Isaac Jonathan,57.2,1,Magic,Nets,25 - 25,0,N/A,N/A,N/A
+112,Terrence Ross,FOUL_ON_FLOOR,None,49.9,1,Magic,Nets,25 - 25,0,N/A,N/A,N/A
+113,DeMarre Carroll,FT,None,49.9,1,Nets,Magic,25 - 26,1,N/A,1,N/A
+114,DeMarre Carroll,FT_MISS,None,49.9,1,Nets,Magic,25 - 26,1,N/A,1,N/A
+115,Aaron Gordon,DEFENSIVE_REBOUND,None,47.2,1,Magic,Nets,25 - 26,0,N/A,N/A,N/A
+116,Jerian Grant,FG_MISS,None,30.4,1,Magic,Nets,25 - 26,0, ,2,Jumper
+117,Rondae Hollis-Jefferson,DEFENSIVE_REBOUND,None,25.9,1,Nets,Magic,25 - 26,1,N/A,N/A,N/A
+118,Spencer Dinwiddie,FG_MISS,None,8.3,1,Nets,Magic,25 - 26,1,26,3,Jumper
+119,Aaron Gordon,DEFENSIVE_REBOUND,None,3.1,1,Magic,Nets,25 - 26,0,N/A,N/A,N/A
+120,End of,Unknown,None,0.0,1,Nets,Magic,25 - 26,1,N/A,N/A,N/A
+0,Shabazz Napier,SUBSTITUTION,Dinwiddie Spencer,12:00,2,Nets,Magic,25 - 26,1,N/A,N/A,N/A
+1,Rodions Kurucs,SUBSTITUTION,Hollis-Jefferson Rondae,12:00,2,Nets,Magic,25 - 26,1,N/A,N/A,N/A
+2,Evan Fournier,SUBSTITUTION,Simmons Jonathon,12:00,2,Magic,Nets,25 - 26,0,N/A,N/A,N/A
+3,Aaron Gordon,FG_MISS,None,11:40,2,Magic,Nets,25 - 26,0,14,2,Jumper
+4,D'Angelo Russell,DEFENSIVE_REBOUND,None,11:34,2,Nets,Magic,25 - 26,1,N/A,N/A,N/A
+5,Rodions Kurucs,FG_UNASSISTED,None,11:28,2,Nets,Magic,25 - 28,1,0,2,Layup
+6,Terrence Ross,FG_MISS,None,11:11,2,Magic,Nets,25 - 28,0,24,3,Jumper
+7,DeMarre Carroll,DEFENSIVE_REBOUND,None,11:11,2,Nets,Magic,25 - 28,1,N/A,N/A,N/A
+8,DeMarre Carroll,FG_UNASSISTED,None,11:02,2,Nets,Magic,25 - 31,1,24,2,Jumper
+9,Shabazz Napier,FOUL_ON_FLOOR,None,10:41,2,Nets,Magic,25 - 31,1,N/A,N/A,N/A
+10,Jerian Grant,FT_MISS,None,10:41,2,Magic,Nets,25 - 31,0,N/A,1,N/A
+11,Team,OFFENSIVE_REBOUND,None,10:41,2,Magic,Nets,25 - 31,0,N/A,N/A,N/A
+12,Jerian Grant,FT,None,10:41,2,Magic,Nets,26 - 31,0,N/A,1,N/A
+13,D'Angelo Russell,FG_UNASSISTED,None,10:33,2,Nets,Magic,26 - 34,1,27,3,Jumper
+14,Mo Bamba,FG_MISS,None,10:16,2,Magic,Nets,26 - 34,0,23,3,Jumper
+15,D'Angelo Russell,DEFENSIVE_REBOUND,None,10:13,2,Nets,Magic,26 - 34,1,N/A,N/A,N/A
+16,Ed Davis,FOUL_ON_FLOOR,None,10:08,2,Nets,Magic,26 - 34,1,N/A,N/A,N/A
+17,Ed Davis,TURNOVER,None,10:08,2,Nets,Magic,26 - 34,1,N/A,N/A,N/A
+18,Terrence Ross,FG_ASSISTED,Aaron Gordon,9:49,2,Magic,Nets,28 - 34,0,18,2,Jumper
+19,D'Angelo Russell,FG_MISS,None,9:46,2,Nets,Magic,28 - 34,1,25,3,Jumper
+20,Mo Bamba,DEFENSIVE_REBOUND,None,9:35,2,Magic,Nets,28 - 34,0,N/A,N/A,N/A
+21,Terrence Ross,FG_MISS,None,9:31,2,Magic,Nets,28 - 34,0,23,3,Jumper
+22,Rodions Kurucs,DEFENSIVE_REBOUND,None,9:28,2,Nets,Magic,28 - 34,1,N/A,N/A,N/A
+23,Rodions Kurucs,FG_UNASSISTED,None,9:23,2,Nets,Magic,28 - 36,1, ,2,Jumper
+24,Rodions Kurucs,FOUL_ON_FLOOR,None,9:09,2,Nets,Magic,28 - 36,1,N/A,N/A,N/A
+25,Spencer Dinwiddie,SUBSTITUTION,Carroll DeMarre,9:09,2,Nets,Magic,28 - 36,1,N/A,N/A,N/A
+26,Aaron Gordon,FG_UNASSISTED,None,8:57,2,Magic,Nets,30 - 36,0,0,2,Layup
+27,Rodions Kurucs,FG_ASSISTED,D'Angelo Russell,8:47,2,Nets,Magic,30 - 38,1,0,2,Dunk
+28,Mo Bamba's,FG_MISS,Ed Davis,8:28,2,Nets,Magic,30 - 38,0,0,2,Layup
+29,Ed Davis,DEFENSIVE_REBOUND,None,8:25,2,Nets,Magic,30 - 38,1,N/A,N/A,N/A
+30,Ed Davis,FOUL_ON_FLOOR,None,8:23,2,Nets,Magic,30 - 38,1,N/A,N/A,N/A
+31,Ed Davis,TURNOVER,None,8:23,2,Nets,Magic,30 - 38,1,N/A,N/A,N/A
+32,Treveon Graham,SUBSTITUTION,Kurucs Rodions,8:23,2,Nets,Magic,30 - 38,1,N/A,N/A,N/A
+33,Terrence Ross,FG_MISS,None,8:09,2,Magic,Nets,30 - 38,0,26,3,Jumper
+34,Aaron Gordon,OFFENSIVE_REBOUND,None,8:05,2,Magic,Nets,30 - 38,0,N/A,N/A,N/A
+35,Mo Bamba,FG_ASSISTED,Jerian Grant,7:54,2,Magic,Nets,32 - 38,0,0,2,Dunk
+36,Spencer Dinwiddie,FG_UNASSISTED,None,7:35,2,Nets,Magic,32 - 40,1, ,2,Jumper
+37,Jonathon Simmons,SUBSTITUTION,Fournier Evan,7:32,2,Magic,Nets,32 - 40,0,N/A,N/A,N/A
+38,Aaron Gordon,FG_MISS,None,7:15,2,Magic,Nets,32 - 40,0,21,2,Jumper
+39,D'Angelo Russell,DEFENSIVE_REBOUND,None,7:12,2,Nets,Magic,32 - 40,1,N/A,N/A,N/A
+40,Spencer Dinwiddie,FG_UNASSISTED,None,7:07,2,Nets,Magic,32 - 42,1,0,2,Dunk
+41,Team,Unknown,None,6:57,2,Magic,Nets,32 - 42,0,N/A,N/A,N/A
+42,Jonathan Isaac,SUBSTITUTION,Gordon Aaron,6:57,2,Magic,Nets,32 - 42,0,N/A,N/A,N/A
+43,D.J. Augustin,SUBSTITUTION,Bamba Mo,6:57,2,Magic,Nets,32 - 42,0,N/A,N/A,N/A
+44,Nikola Vucevic,SUBSTITUTION,Grant Jerian,6:57,2,Magic,Nets,32 - 42,0,N/A,N/A,N/A
+45,Terrence Ross,TURNOVER,Ed Davis,6:46,2,Magic,Nets,32 - 42,0,N/A,N/A,N/A
+46,D'Angelo Russell,FG_MISS,None,6:33,2,Nets,Magic,32 - 42,1, ,3,Jumper
+47,Nikola Vucevic,DEFENSIVE_REBOUND,None,6:28,2,Magic,Nets,32 - 42,0,N/A,N/A,N/A
+48,Jonathon Simmons,FG_ASSISTED,D.J. Augustin,6:18,2,Magic,Nets,34 - 42,0,0,2,Layup
+49,Shabazz Napier,FG_UNASSISTED,None,6:04,2,Nets,Magic,34 - 44,1,20,2,Jumper
+50,Nikola Vucevic,FG_MISS,None,5:45,2,Magic,Nets,34 - 44,0,11,2,Jumper
+51,Shabazz Napier,DEFENSIVE_REBOUND,None,5:42,2,Nets,Magic,34 - 44,1,N/A,N/A,N/A
+52,Treveon Graham,FG_MISS,None,5:35,2,Nets,Magic,34 - 44,1,25,3,Jumper
+53,Ed Davis,OFFENSIVE_REBOUND,None,5:33,2,Nets,Magic,34 - 44,1,N/A,N/A,N/A
+54,Treveon Graham,FG_MISS,Nikola Vucevic,5:24,2,Magic,Nets,34 - 44,1,0,2,Layup
+55,Nikola Vucevic,DEFENSIVE_REBOUND,None,5:20,2,Magic,Nets,34 - 44,0,N/A,N/A,N/A
+56,Nikola Vucevic,FG_UNASSISTED,None,5:09,2,Magic,Nets,36 - 44,0, ,2,Jumper
+57,D'Angelo Russell,FG_MISS,None,4:46,2,Nets,Magic,36 - 44,1,15,2,Jumper
+58,Terrence Ross,DEFENSIVE_REBOUND,None,4:44,2,Magic,Nets,36 - 44,0,N/A,N/A,N/A
+59,Ed Davis,FOUL_ON_FLOOR,None,4:38,2,Nets,Magic,36 - 44,1,N/A,N/A,N/A
+60,Team,Unknown,None,4:38,2,Nets,Magic,36 - 44,1,N/A,N/A,N/A
+61,Joe Harris,SUBSTITUTION,Russell D'Angelo,4:38,2,Nets,Magic,36 - 44,1,N/A,N/A,N/A
+62,Jarrett Allen,SUBSTITUTION,Davis Ed,4:38,2,Nets,Magic,36 - 44,1,N/A,N/A,N/A
+63,Evan Fournier,SUBSTITUTION,Ross Terrence,4:38,2,Magic,Nets,36 - 44,0,N/A,N/A,N/A
+64,Jonathon Simmons,FT,None,4:38,2,Magic,Nets,37 - 44,0,N/A,1,N/A
+65,Jonathon Simmons,FT,None,4:38,2,Magic,Nets,38 - 44,0,N/A,1,N/A
+66,Shabazz Napier,FG_MISS,None,4:18,2,Nets,Magic,38 - 44,1,14,2,Jumper
+67,Jonathan Isaac,DEFENSIVE_REBOUND,None,4:14,2,Magic,Nets,38 - 44,0,N/A,N/A,N/A
+68,Joe Harris,FOUL_ON_FLOOR,None,4:00,2,Nets,Magic,38 - 44,1,N/A,N/A,N/A
+69,Jonathon Simmons,FT_MISS,None,4:00,2,Magic,Nets,38 - 44,0,N/A,1,N/A
+70,Team,OFFENSIVE_REBOUND,None,4:00,2,Magic,Nets,38 - 44,0,N/A,N/A,N/A
+71,DeMarre Carroll,SUBSTITUTION,Napier Shabazz,4:00,2,Nets,Magic,38 - 44,1,N/A,N/A,N/A
+72,Jonathon Simmons,FT,None,4:00,2,Magic,Nets,39 - 44,0,N/A,1,N/A
+73,Jonathon Simmons,FOUL_ON_FLOOR,None,3:39,2,Magic,Nets,39 - 44,0,N/A,N/A,N/A
+74,Joe Harris,FT,None,3:39,2,Nets,Magic,39 - 45,1,N/A,1,N/A
+75,Joe Harris,FT,None,3:39,2,Nets,Magic,39 - 46,1,N/A,1,N/A
+76,Nikola Vucevic,FG_UNASSISTED,None,3:26,2,Magic,Nets,41 - 46,0, ,2,Jumper
+77,Treveon Graham,TURNOVER,Jonathan Isaac,3:15,2,Nets,Magic,41 - 46,1,N/A,N/A,N/A
+78,DeMarre Carroll,FOUL_ON_FLOOR,None,3:06,2,Nets,Magic,41 - 46,1,N/A,N/A,N/A
+79,D.J. Augustin,FT,None,3:06,2,Magic,Nets,42 - 46,0,N/A,1,N/A
+80,D.J. Augustin,FT,None,3:06,2,Magic,Nets,43 - 46,0,N/A,1,N/A
+81,D.J. Augustin,FT,None,3:06,2,Magic,Nets,44 - 46,0,N/A,1,N/A
+82,Treveon Graham,TURNOVER,None,2:58,2,Nets,Magic,44 - 46,1,N/A,N/A,N/A
+83,Evan Fournier,FG_ASSISTED,Jonathan Isaac,2:44,2,Magic,Nets,46 - 46,0,12,2,Jumper
+84,Spencer Dinwiddie,FG_ASSISTED,Joe Harris,2:37,2,Nets,Magic,46 - 48,1,0,2,Layup
+85,Nikola Vucevic,FOUL_ON_FLOOR,None,2:37,2,Magic,Nets,46 - 48,0,N/A,N/A,N/A
+86,Spencer Dinwiddie,FT,None,2:37,2,Nets,Magic,46 - 49,1,N/A,1,N/A
+87,Treveon Graham,FOUL_ON_FLOOR,None,2:23,2,Nets,Magic,46 - 49,1,N/A,N/A,N/A
+88,Jonathan Isaac,FT,None,2:23,2,Magic,Nets,47 - 49,0,N/A,1,N/A
+89,Jonathan Isaac,FT,None,2:23,2,Magic,Nets,48 - 49,0,N/A,1,N/A
+90,Treveon Graham,FG_MISS,None,2:09,2,Nets,Magic,48 - 49,1,24,3,Jumper
+91,Spencer Dinwiddie,OFFENSIVE_REBOUND,None,2:04,2,Nets,Magic,48 - 49,1,N/A,N/A,N/A
+92,Spencer Dinwiddie,FG_UNASSISTED,None,2:02,2,Nets,Magic,48 - 51,1,7,2,Jumper
+93,Evan Fournier,FG_MISS,None,1:42,2,Magic,Nets,48 - 51,0,25,2,Jumper
+94,Nikola Vucevic,OFFENSIVE_REBOUND,None,1:41,2,Magic,Nets,48 - 51,0,N/A,N/A,N/A
+95,DeMarre Carroll,FOUL_ON_FLOOR,None,1:41,2,Nets,Magic,48 - 51,1,N/A,N/A,N/A
+96,Nikola Vucevic,FT,None,1:41,2,Magic,Nets,49 - 51,0,N/A,1,N/A
+97,Nikola Vucevic,FT,None,1:41,2,Magic,Nets,50 - 51,0,N/A,1,N/A
+98,Spencer Dinwiddie,FG_UNASSISTED,None,1:31,2,Nets,Magic,50 - 53,1,0,2,Layup
+99,Evan Fournier,FOUL_ON_FLOOR,None,1:31,2,Magic,Nets,50 - 53,0,N/A,N/A,N/A
+100,Spencer Dinwiddie,FT,None,1:31,2,Nets,Magic,50 - 54,1,N/A,1,N/A
+101,D.J. Augustin,FG_ASSISTED,Nikola Vucevic,1:15,2,Magic,Nets,53 - 54,0,23,3,Jumper
+102,DeMarre Carroll,FG_MISS,None,1:06,2,Nets,Magic,53 - 54,1,23,3,Jumper
+103,Jonathan Isaac,DEFENSIVE_REBOUND,None,1:02,2,Magic,Nets,53 - 54,0,N/A,N/A,N/A
+104,D.J. Augustin,FG_MISS,None,59.6,2,Magic,Nets,53 - 54,0,25,3,Jumper
+105,Treveon Graham,DEFENSIVE_REBOUND,None,56.1,2,Nets,Magic,53 - 54,1,N/A,N/A,N/A
+106,Spencer Dinwiddie,FG_MISS,None,49.1,2,Nets,Magic,53 - 54,1,26,3,Jumper
+107,DeMarre Carroll,OFFENSIVE_REBOUND,None,45.0,2,Nets,Magic,53 - 54,1,N/A,N/A,N/A
+108,Joe Harris,FG_MISS,None,44.7,2,Nets,Magic,53 - 54,1,26,3,Jumper
+109,Team,DEFENSIVE_REBOUND,None,41.4,2,Magic,Nets,53 - 54,0,N/A,N/A,N/A
+110,Terrence Ross,SUBSTITUTION,Fournier Evan,40.4,2,Magic,Nets,53 - 54,0,N/A,N/A,N/A
+111,D.J. Augustin,FG_MISS,None,34.2,2,Magic,Nets,53 - 54,0, ,2,Jumper
+112,Team,DEFENSIVE_REBOUND,None,32.6,2,Nets,Magic,53 - 54,1,N/A,N/A,N/A
+113,Nikola Vucevic,FOUL_ON_FLOOR,None,15.9,2,Magic,Nets,53 - 54,0,N/A,N/A,N/A
+114,Spencer Dinwiddie,FT,None,15.9,2,Nets,Magic,53 - 55,1,N/A,1,N/A
+115,Spencer Dinwiddie,FT,None,15.9,2,Nets,Magic,53 - 56,1,N/A,1,N/A
+116,Jonathan Isaac,FG_ASSISTED,D.J. Augustin,2.4,2,Magic,Nets,56 - 56,0,23,3,Jumper
+117,Spencer Dinwiddie,FG_MISS,None,0.0,2,Nets,Magic,56 - 56,1,35,3,Jumper
+118,Team,OFFENSIVE_REBOUND,None,0.0,2,Nets,Magic,56 - 56,1,N/A,N/A,N/A
+119,End of,Unknown,None,0.0,2,Nets,Magic,56 - 56,1,N/A,N/A,N/A
+0,D'Angelo Russell,SUBSTITUTION,Dinwiddie Spencer,12:00,3,Nets,Magic,56 - 56,1,N/A,N/A,N/A
+1,Rodions Kurucs,SUBSTITUTION,Carroll DeMarre,12:00,3,Nets,Magic,56 - 56,1,N/A,N/A,N/A
+2,Evan Fournier,SUBSTITUTION,Simmons Jonathon,12:00,3,Magic,Nets,56 - 56,0,N/A,N/A,N/A
+3,Aaron Gordon,SUBSTITUTION,Ross Terrence,12:00,3,Magic,Nets,56 - 56,0,N/A,N/A,N/A
+4,D.J. Augustin,FG_MISS,None,11:38,3,Magic,Nets,56 - 56,0, ,2,Jumper
+5,Treveon Graham,DEFENSIVE_REBOUND,None,11:35,3,Nets,Magic,56 - 56,1,N/A,N/A,N/A
+6,Rodions Kurucs,TURNOVER,None,11:33,3,Nets,Magic,56 - 56,1,N/A,N/A,N/A
+7,Nikola Vucevic,FG_MISS,None,11:16,3,Magic,Nets,56 - 56,0, ,2,Jumper
+8,Team,DEFENSIVE_REBOUND,None,11:15,3,Nets,Magic,56 - 56,1,N/A,N/A,N/A
+9,Aaron Gordon,FOUL_ON_FLOOR,None,11:15,3,Magic,Nets,56 - 56,0,N/A,N/A,N/A
+10,Joe Harris,FG_ASSISTED,D'Angelo Russell,11:04,3,Nets,Magic,56 - 58,1,0,2,Layup
+11,Rodions Kurucs,FOUL_ON_FLOOR,None,10:57,3,Nets,Magic,56 - 58,1,N/A,N/A,N/A
+12,D.J. Augustin,FT,None,10:57,3,Magic,Nets,57 - 58,0,N/A,1,N/A
+13,D.J. Augustin,FT,None,10:57,3,Magic,Nets,58 - 58,0,N/A,1,N/A
+14,D'Angelo Russell,FG_UNASSISTED,None,10:46,3,Nets,Magic,58 - 60,1,9,2,Jumper
+15,Jonathan Isaac,FG_ASSISTED,D.J. Augustin,10:30,3,Magic,Nets,61 - 60,0, ,3,Jumper
+16,Rodions Kurucs,FG_ASSISTED,D'Angelo Russell,10:18,3,Nets,Magic,61 - 62,1,7,2,Jumper
+17,D'Angelo Russell,FOUL_ON_FLOOR,None,9:59,3,Nets,Magic,61 - 62,1,N/A,N/A,N/A
+18,DeMarre Carroll,SUBSTITUTION,Kurucs Rodions,9:59,3,Nets,Magic,61 - 62,1,N/A,N/A,N/A
+19,Aaron Gordon,FG_UNASSISTED,None,9:51,3,Magic,Nets,63 - 62,0,0,2,Layup
+20,Jarrett Allen,FG_ASSISTED,Joe Harris,9:31,3,Nets,Magic,63 - 64,1,0,2,Layup
+21,Nikola Vucevic,FG_ASSISTED,D.J. Augustin,9:21,3,Magic,Nets,66 - 64,0,26,3,Jumper
+22,Joe Harris,FG_ASSISTED,D'Angelo Russell,9:07,3,Nets,Magic,66 - 66,1,9,2,Jumper
+23,D.J. Augustin,FG_MISS,None,8:42,3,Magic,Nets,66 - 66,0,25,2,Jumper
+24,DeMarre Carroll,DEFENSIVE_REBOUND,None,8:39,3,Nets,Magic,66 - 66,1,N/A,N/A,N/A
+25,Joe Harris,FG_MISS,None,8:31,3,Nets,Magic,66 - 66,1,25,3,Jumper
+26,Team,OFFENSIVE_REBOUND,None,8:30,3,Nets,Magic,66 - 66,1,N/A,N/A,N/A
+27,D'Angelo Russell,FG_UNASSISTED,None,8:22,3,Nets,Magic,66 - 68,1,14,2,Jumper
+28,Team,Unknown,None,8:20,3,Magic,Nets,66 - 68,0,N/A,N/A,N/A
+29,D.J. Augustin,TURNOVER,D'Angelo Russell,8:19,3,Magic,Nets,66 - 68,0,N/A,N/A,N/A
+30,D'Angelo Russell,FG_UNASSISTED,None,8:17,3,Nets,Magic,66 - 70,1,0,2,Layup
+31,Treveon Graham,FOUL_ON_FLOOR,None,8:09,3,Nets,Magic,66 - 70,1,N/A,N/A,N/A
+32,Evan Fournier,FG_UNASSISTED,None,7:55,3,Magic,Nets,68 - 70,0,0,2,Layup
+33,Jarrett Allen,FG_MISS,None,7:40,3,Nets,Magic,68 - 70,1,23,3,Jumper
+34,Joe Harris,OFFENSIVE_REBOUND,None,7:40,3,Nets,Magic,68 - 70,1,N/A,N/A,N/A
+35,DeMarre Carroll,FG_MISS,None,7:34,3,Nets,Magic,68 - 70,1,25,3,Jumper
+36,Jarrett Allen,OFFENSIVE_REBOUND,None,7:32,3,Nets,Magic,68 - 70,1,N/A,N/A,N/A
+37,Jonathan Isaac,FOUL_ON_FLOOR,None,7:31,3,Magic,Nets,68 - 70,0,N/A,N/A,N/A
+38,DeMarre Carroll,FT,None,7:31,3,Nets,Magic,68 - 71,1,N/A,1,N/A
+39,DeMarre Carroll,FT,None,7:31,3,Nets,Magic,68 - 72,1,N/A,1,N/A
+40,D.J. Augustin,FG_MISS,None,7:19,3,Magic,Nets,68 - 72,0,26,3,Jumper
+41,Aaron Gordon,OFFENSIVE_REBOUND,None,7:16,3,Magic,Nets,68 - 72,0,N/A,N/A,N/A
+42,Jonathan Isaac,FG_MISS,None,7:13,3,Magic,Nets,68 - 72,0,19,2,Jumper
+43,Treveon Graham,DEFENSIVE_REBOUND,None,7:11,3,Nets,Magic,68 - 72,1,N/A,N/A,N/A
+44,DeMarre Carroll,FG_ASSISTED,D'Angelo Russell,6:57,3,Nets,Magic,68 - 74,1,12,2,Jumper
+45,D'Angelo Russell,FOUL_ON_FLOOR,None,6:41,3,Nets,Magic,68 - 74,1,N/A,N/A,N/A
+46,D.J. Augustin,FT,None,6:41,3,Magic,Nets,69 - 74,0,N/A,1,N/A
+47,D.J. Augustin,FT,None,6:41,3,Magic,Nets,70 - 74,0,N/A,1,N/A
+48,D'Angelo Russell,FG_MISS,None,6:19,3,Nets,Magic,70 - 74,1,15,2,Jumper
+49,Nikola Vucevic,DEFENSIVE_REBOUND,None,6:16,3,Magic,Nets,70 - 74,0,N/A,N/A,N/A
+50,Jonathan Isaac,FG_MISS,None,6:02,3,Magic,Nets,70 - 74,0,26,3,Jumper
+51,D'Angelo Russell,DEFENSIVE_REBOUND,None,5:58,3,Nets,Magic,70 - 74,1,N/A,N/A,N/A
+52,Jonathan Isaac,Unknown,None,5:56,3,Magic,Nets,70 - 74,0,N/A,N/A,N/A
+53,Spencer Dinwiddie,SUBSTITUTION,Russell D'Angelo,5:56,3,Nets,Magic,70 - 74,1,N/A,N/A,N/A
+54,Jonathon Simmons,SUBSTITUTION,Gordon Aaron,5:56,3,Magic,Nets,70 - 74,0,N/A,N/A,N/A
+55,DeMarre Carroll,TURNOVER,D.J. Augustin,5:48,3,Nets,Magic,70 - 74,1,N/A,N/A,N/A
+56,D.J. Augustin,FG_ASSISTED,Nikola Vucevic,5:43,3,Magic,Nets,73 - 74,0,25,2,Jumper
+57,Team,Unknown,None,5:42,3,Nets,Magic,73 - 74,1,N/A,N/A,N/A
+58,Joe Harris,TURNOVER,Nikola Vucevic,5:27,3,Nets,Magic,73 - 74,1,N/A,N/A,N/A
+59,Jonathon Simmons,FG_ASSISTED,Nikola Vucevic,5:16,3,Magic,Nets,76 - 74,0,26,3,Jumper
+60,Evan Fournier,FOUL_ON_FLOOR,None,5:03,3,Magic,Nets,76 - 74,0,N/A,N/A,N/A
+61,Spencer Dinwiddie,FT,None,5:03,3,Nets,Magic,76 - 75,1,N/A,1,N/A
+62,Rondae Hollis-Jefferson,SUBSTITUTION,Graham Treveon,5:03,3,Nets,Magic,76 - 75,1,N/A,N/A,N/A
+63,Spencer Dinwiddie,FT,None,5:03,3,Nets,Magic,76 - 76,1,N/A,1,N/A
+64,Nikola Vucevic,FG_ASSISTED,D.J. Augustin,4:49,3,Magic,Nets,78 - 76,0,4,2,Jumper
+65,Rondae Hollis-Jefferson's,FG_MISS,Jonathan Isaac,4:36,3,Magic,Nets,78 - 76,1,0,2,Layup
+66,Jerian Grant,SUBSTITUTION,Augustin D.J.,4:36,3,Magic,Nets,78 - 76,0,N/A,N/A,N/A
+67,Team,DEFENSIVE_REBOUND,None,4:36,3,Magic,Nets,78 - 76,0,N/A,N/A,N/A
+68,Evan Fournier,FG_MISS,None,4:24,3,Magic,Nets,78 - 76,0,21,2,Jumper
+69,Joe Harris,DEFENSIVE_REBOUND,None,4:24,3,Nets,Magic,78 - 76,1,N/A,N/A,N/A
+70,DeMarre Carroll,FG_MISS,None,4:13,3,Nets,Magic,78 - 76,1,26,3,Jumper
+71,Nikola Vucevic,DEFENSIVE_REBOUND,None,4:10,3,Magic,Nets,78 - 76,0,N/A,N/A,N/A
+72,Nikola Vucevic,FG_MISS,None,4:00,3,Magic,Nets,78 - 76,0,26,3,Jumper
+73,Jarrett Allen,DEFENSIVE_REBOUND,None,3:56,3,Nets,Magic,78 - 76,1,N/A,N/A,N/A
+74,Spencer Dinwiddie,FG_UNASSISTED,None,3:49,3,Nets,Magic,78 - 78,1,8,2,Jumper
+75,Nikola Vucevic,TURNOVER,Rondae Hollis-Jefferson,3:28,3,Magic,Nets,78 - 78,0,N/A,N/A,N/A
+76,Rondae Hollis-Jefferson,FG_MISS,None,3:24,3,Nets,Magic,78 - 78,1, ,2,Jumper
+77,Jarrett Allen,OFFENSIVE_REBOUND,None,3:21,3,Nets,Magic,78 - 78,1,N/A,N/A,N/A
+78,Jarrett Allen,FG_MISS,None,3:18,3,Nets,Magic,78 - 78,1, ,2,Jumper
+79,Jonathon Simmons,DEFENSIVE_REBOUND,None,3:15,3,Magic,Nets,78 - 78,0,N/A,N/A,N/A
+80,Evan Fournier,FG_MISS,None,3:12,3,Magic,Nets,78 - 78,0,25,3,Jumper
+81,Team,DEFENSIVE_REBOUND,None,3:11,3,Nets,Magic,78 - 78,1,N/A,N/A,N/A
+82,Ed Davis,SUBSTITUTION,Allen Jarrett,3:11,3,Nets,Magic,78 - 78,1,N/A,N/A,N/A
+83,Terrence Ross,SUBSTITUTION,Fournier Evan,3:11,3,Magic,Nets,78 - 78,0,N/A,N/A,N/A
+84,Team,Unknown,None,3:11,3,Nets,Magic,78 - 78,1,N/A,N/A,N/A
+85,Rodions Kurucs,SUBSTITUTION,Hollis-Jefferson Rondae,3:11,3,Nets,Magic,78 - 78,1,N/A,N/A,N/A
+86,Ed Davis,FG_MISS,None,2:57,3,Nets,Magic,78 - 78,1,8,2,Jumper
+87,Nikola Vucevic,DEFENSIVE_REBOUND,None,2:54,3,Magic,Nets,78 - 78,0,N/A,N/A,N/A
+88,Nikola Vucevic,FG_MISS,None,2:46,3,Magic,Nets,78 - 78,0,26,3,Jumper
+89,Joe Harris,DEFENSIVE_REBOUND,None,2:43,3,Nets,Magic,78 - 78,1,N/A,N/A,N/A
+90,Spencer Dinwiddie,FG_MISS,None,2:39,3,Nets,Magic,78 - 78,1,25,3,Jumper
+91,Jerian Grant,DEFENSIVE_REBOUND,None,2:35,3,Magic,Nets,78 - 78,0,N/A,N/A,N/A
+92,Jerian Grant,FG_MISS,None,2:29,3,Magic,Nets,78 - 78,0,25,3,Jumper
+93,Team,DEFENSIVE_REBOUND,None,2:29,3,Nets,Magic,78 - 78,1,N/A,N/A,N/A
+94,Mo Bamba,SUBSTITUTION,Vucevic Nikola,2:29,3,Magic,Nets,78 - 78,0,N/A,N/A,N/A
+95,DeMarre Carroll,FG_ASSISTED,Spencer Dinwiddie,2:10,3,Nets,Magic,78 - 80,1,0,2,Layup
+96,Jonathan Isaac,FG_ASSISTED,Jonathon Simmons,1:49,3,Magic,Nets,81 - 80,0,26,3,Jumper
+97,Mo Bamba,FOUL_ON_FLOOR,None,1:37,3,Magic,Nets,81 - 80,0,N/A,N/A,N/A
+98,DeMarre Carroll,FT_MISS,None,1:37,3,Nets,Magic,81 - 80,1,N/A,1,N/A
+99,Team,OFFENSIVE_REBOUND,None,1:37,3,Nets,Magic,81 - 80,1,N/A,N/A,N/A
+100,D'Angelo Russell,SUBSTITUTION,Harris Joe,1:37,3,Nets,Magic,81 - 80,1,N/A,N/A,N/A
+101,Aaron Gordon,SUBSTITUTION,Isaac Jonathan,1:37,3,Magic,Nets,81 - 80,0,N/A,N/A,N/A
+102,DeMarre Carroll,FT,None,1:37,3,Nets,Magic,81 - 81,1,N/A,1,N/A
+103,Aaron Gordon,FG_ASSISTED,Jonathon Simmons,1:13,3,Magic,Nets,83 - 81,0,0,2,Dunk
+104,Rodions Kurucs,FG_MISS,Jerian Grant,1:02,3,Magic,Nets,83 - 81,1,0,2,Layup
+105,Rodions Kurucs,OFFENSIVE_REBOUND,None,1:00,3,Nets,Magic,83 - 81,1,N/A,N/A,N/A
+106,Spencer Dinwiddie,FG_ASSISTED,DeMarre Carroll,58.9,3,Nets,Magic,83 - 84,1,23,3,Jumper
+107,Jonathon Simmons,FG_MISS,None,42.6,3,Magic,Nets,83 - 84,0, ,2,Jumper
+108,Mo Bamba,OFFENSIVE_REBOUND,None,38.7,3,Magic,Nets,83 - 84,0,N/A,N/A,N/A
+109,Mo Bamba,TURNOVER,Rodions Kurucs,38.0,3,Magic,Nets,83 - 84,0,N/A,N/A,N/A
+110,D'Angelo Russell,FG_UNASSISTED,None,29.6,3,Nets,Magic,83 - 87,1,25,3,Jumper
+111,Jerian Grant,FG_ASSISTED,Jonathon Simmons,9.0,3,Magic,Nets,86 - 87,0,26,3,Jumper
+112,Spencer Dinwiddie,FG_UNASSISTED,None,2.3,3,Nets,Magic,86 - 89,1,0,2,Layup
+113,Terrence Ross,FG_MISS,None,1.0,3,Magic,Nets,86 - 89,0,77,3,Jumper
+114,Team,OFFENSIVE_REBOUND,None,1.0,3,Magic,Nets,86 - 89,0,N/A,N/A,N/A
+115,End of,Unknown,None,0.0,3,Nets,Magic,86 - 89,1,N/A,N/A,N/A
+0,DeMarre Carroll,FG_MISS,None,11:44,4,Nets,Magic,86 - 89,1,0,2,Layup
+1,Ed Davis,OFFENSIVE_REBOUND,None,11:39,4,Nets,Magic,86 - 89,1,N/A,N/A,N/A
+2,Ed Davis's,FG_MISS,Mo Bamba,11:38,4,Magic,Nets,86 - 89,1, ,2,Jumper
+3,Jerian Grant,DEFENSIVE_REBOUND,None,11:35,4,Magic,Nets,86 - 89,0,N/A,N/A,N/A
+4,Jerian Grant,TURNOVER,None,11:33,4,Magic,Nets,86 - 89,0,N/A,N/A,N/A
+5,D'Angelo Russell,FG_MISS,None,11:26,4,Nets,Magic,86 - 89,1,25,3,Jumper
+6,Mo Bamba,DEFENSIVE_REBOUND,None,11:22,4,Magic,Nets,86 - 89,0,N/A,N/A,N/A
+7,Jonathon Simmons,FG_UNASSISTED,None,11:16,4,Magic,Nets,88 - 89,0,18,2,Jumper
+8,Spencer Dinwiddie,FG_MISS,None,10:54,4,Nets,Magic,88 - 89,1,27,3,Jumper
+9,Mo Bamba,DEFENSIVE_REBOUND,None,10:51,4,Magic,Nets,88 - 89,0,N/A,N/A,N/A
+10,Ed Davis,FOUL_ON_FLOOR,None,10:44,4,Nets,Magic,88 - 89,1,N/A,N/A,N/A
+11,Mo Bamba,FT,None,10:44,4,Magic,Nets,89 - 89,0,N/A,1,N/A
+12,Mo Bamba,FT,None,10:44,4,Magic,Nets,90 - 89,0,N/A,1,N/A
+13,Jonathon Simmons,FOUL_ON_FLOOR,None,10:30,4,Magic,Nets,90 - 89,0,N/A,N/A,N/A
+14,D'Angelo Russell,FG_MISS,Mo Bamba,10:21,4,Magic,Nets,90 - 89,1,9,2,Jumper
+15,Jerian Grant,DEFENSIVE_REBOUND,None,10:18,4,Magic,Nets,90 - 89,0,N/A,N/A,N/A
+16,Mo Bamba,FG_ASSISTED,Jerian Grant,10:09,4,Magic,Nets,93 - 89,0,25,3,Jumper
+17,Spencer Dinwiddie,FG_ASSISTED,Ed Davis,9:49,4,Nets,Magic,93 - 91,1,0,2,Layup
+18,Spencer Dinwiddie,FOUL_ON_FLOOR,None,9:33,4,Nets,Magic,93 - 91,1,N/A,N/A,N/A
+19,Shabazz Napier,SUBSTITUTION,Dinwiddie Spencer,9:33,4,Nets,Magic,93 - 91,1,N/A,N/A,N/A
+20,Aaron Gordon,TURNOVER,None,9:32,4,Magic,Nets,93 - 91,0,N/A,N/A,N/A
+21,Aaron Gordon,FOUL_ON_FLOOR,None,9:31,4,Magic,Nets,93 - 91,0,N/A,N/A,N/A
+22,D'Angelo Russell,FG_UNASSISTED,None,9:18,4,Nets,Magic,93 - 93,1,15,2,Jumper
+23,Terrence Ross,FG_UNASSISTED,None,9:02,4,Magic,Nets,96 - 93,0,26,3,Jumper
+24,DeMarre Carroll,FG_ASSISTED,D'Angelo Russell,8:51,4,Nets,Magic,96 - 96,1,25,3,Jumper
+25,Ed Davis,FOUL_ON_FLOOR,None,8:35,4,Nets,Magic,96 - 96,1,N/A,N/A,N/A
+26,Jerian Grant,FT,None,8:35,4,Magic,Nets,97 - 96,0,N/A,1,N/A
+27,Jerian Grant,FT,None,8:35,4,Magic,Nets,98 - 96,0,N/A,1,N/A
+28,Rodions Kurucs,FG_UNASSISTED,None,8:22,4,Nets,Magic,98 - 98,1,0,2,Layup
+29,Terrence Ross,FG_MISS,None,8:04,4,Magic,Nets,98 - 98,0,26,3,Jumper
+30,Mo Bamba,OFFENSIVE_REBOUND,None,8:00,4,Magic,Nets,98 - 98,0,N/A,N/A,N/A
+31,Jerian Grant,FG_MISS,None,7:58,4,Magic,Nets,98 - 98,0,26,3,Jumper
+32,D'Angelo Russell,DEFENSIVE_REBOUND,None,7:55,4,Nets,Magic,98 - 98,1,N/A,N/A,N/A
+33,D'Angelo Russell,FG_MISS,None,7:50,4,Nets,Magic,98 - 98,1,26,3,Jumper
+34,Jerian Grant,DEFENSIVE_REBOUND,None,7:44,4,Magic,Nets,98 - 98,0,N/A,N/A,N/A
+35,Terrence Ross,FG_MISS,Shabazz Napier,7:39,4,Nets,Magic,98 - 98,0,11,2,Jumper
+36,Team,DEFENSIVE_REBOUND,None,7:39,4,Nets,Magic,98 - 98,1,N/A,N/A,N/A
+37,Team,Unknown,None,7:39,4,Nets,Magic,98 - 98,1,N/A,N/A,N/A
+38,Jarrett Allen,SUBSTITUTION,Davis Ed,7:39,4,Nets,Magic,98 - 98,1,N/A,N/A,N/A
+39,Evan Fournier,SUBSTITUTION,Bamba Mo,7:39,4,Magic,Nets,98 - 98,0,N/A,N/A,N/A
+40,Nikola Vucevic,SUBSTITUTION,Simmons Jonathon,7:39,4,Magic,Nets,98 - 98,0,N/A,N/A,N/A
+41,Shabazz Napier,TURNOVER,None,7:25,4,Nets,Magic,98 - 98,1,N/A,N/A,N/A
+42,Nikola Vucevic,TURNOVER,D'Angelo Russell,7:09,4,Magic,Nets,98 - 98,0,N/A,N/A,N/A
+43,D'Angelo Russell,TURNOVER,Jerian Grant,7:05,4,Nets,Magic,98 - 98,1,N/A,N/A,N/A
+44,Aaron Gordon,FG_ASSISTED,Evan Fournier,7:01,4,Magic,Nets,100 - 98,0,0,2,Dunk
+45,Spencer Dinwiddie,SUBSTITUTION,Russell D'Angelo,6:48,4,Nets,Magic,100 - 98,1,N/A,N/A,N/A
+46,Joe Harris,SUBSTITUTION,Carroll DeMarre,6:48,4,Nets,Magic,100 - 98,1,N/A,N/A,N/A
+47,Jonathan Isaac,SUBSTITUTION,Gordon Aaron,6:48,4,Magic,Nets,100 - 98,0,N/A,N/A,N/A
+48,D.J. Augustin,SUBSTITUTION,Grant Jerian,6:48,4,Magic,Nets,100 - 98,0,N/A,N/A,N/A
+49,Spencer Dinwiddie,FG_UNASSISTED,None,6:32,4,Nets,Magic,100 - 101,1,25,3,Jumper
+50,Nikola Vucevic,FG_MISS,None,6:14,4,Magic,Nets,100 - 101,0,6,2,Jumper
+51,Nikola Vucevic,OFFENSIVE_REBOUND,None,6:10,4,Magic,Nets,100 - 101,0,N/A,N/A,N/A
+52,Nikola Vucevic,FG_UNASSISTED,None,6:10,4,Magic,Nets,102 - 101,0,1,2,Jumper
+53,Shabazz Napier,TURNOVER,Terrence Ross,5:57,4,Nets,Magic,102 - 101,1,N/A,N/A,N/A
+54,Terrence Ross,FG_MISS,None,5:53,4,Magic,Nets,102 - 101,0,1,2,Jumper
+55,Spencer Dinwiddie,DEFENSIVE_REBOUND,None,5:51,4,Nets,Magic,102 - 101,1,N/A,N/A,N/A
+56,Terrence Ross,FOUL_ON_FLOOR,None,5:47,4,Magic,Nets,102 - 101,0,N/A,N/A,N/A
+57,Spencer Dinwiddie,FT_MISS,None,5:47,4,Nets,Magic,102 - 101,1,N/A,1,N/A
+58,Team,OFFENSIVE_REBOUND,None,5:47,4,Nets,Magic,102 - 101,1,N/A,N/A,N/A
+59,Spencer Dinwiddie,FT,None,5:47,4,Nets,Magic,102 - 102,1,N/A,1,N/A
+60,Evan Fournier,FG_MISS,None,5:35,4,Magic,Nets,102 - 102,0,20,2,Jumper
+61,Joe Harris,DEFENSIVE_REBOUND,None,5:32,4,Nets,Magic,102 - 102,1,N/A,N/A,N/A
+62,Spencer Dinwiddie,TURNOVER,None,5:13,4,Nets,Magic,102 - 102,1,N/A,N/A,N/A
+63,D'Angelo Russell,SUBSTITUTION,Napier Shabazz,5:13,4,Nets,Magic,102 - 102,1,N/A,N/A,N/A
+64,Jonathan Isaac,FG_MISS,None,4:55,4,Magic,Nets,102 - 102,0,14,2,Jumper
+65,D.J. Augustin,OFFENSIVE_REBOUND,None,4:50,4,Magic,Nets,102 - 102,0,N/A,N/A,N/A
+66,Terrence Ross,FG_MISS,None,4:49,4,Magic,Nets,102 - 102,0,26,3,Jumper
+67,Jonathan Isaac,OFFENSIVE_REBOUND,None,4:47,4,Magic,Nets,102 - 102,0,N/A,N/A,N/A
+68,Jonathan Isaac's,FG_MISS,Rodions Kurucs,4:46,4,Nets,Magic,102 - 102,0,1,2,Jumper
+69,Team,OFFENSIVE_REBOUND,None,4:45,4,Magic,Nets,102 - 102,0,N/A,N/A,N/A
+70,Treveon Graham,SUBSTITUTION,Kurucs Rodions,4:45,4,Nets,Magic,102 - 102,1,N/A,N/A,N/A
+71,Evan Fournier,FG_UNASSISTED,None,4:36,4,Magic,Nets,104 - 102,0,14,2,Jumper
+72,Jarrett Allen,FG_MISS,Nikola Vucevic,4:22,4,Magic,Nets,104 - 102,1,0,2,Layup
+73,Nikola Vucevic,DEFENSIVE_REBOUND,None,4:18,4,Magic,Nets,104 - 102,0,N/A,N/A,N/A
+74,Jonathan Isaac,TURNOVER,None,4:15,4,Magic,Nets,104 - 102,0,N/A,N/A,N/A
+75,Team,Unknown,None,4:15,4,Nets,Magic,104 - 102,1,N/A,N/A,N/A
+76,DeMarre Carroll,SUBSTITUTION,Graham Treveon,4:15,4,Nets,Magic,104 - 102,1,N/A,N/A,N/A
+77,Jarrett Allen,FG_ASSISTED,D'Angelo Russell,4:02,4,Nets,Magic,104 - 104,1,0,2,Layup
+78,Nikola Vucevic,FG_MISS,None,3:45,4,Magic,Nets,104 - 104,0,16,2,Jumper
+79,D'Angelo Russell,DEFENSIVE_REBOUND,None,3:43,4,Nets,Magic,104 - 104,1,N/A,N/A,N/A
+80,D'Angelo Russell,FG_UNASSISTED,None,3:37,4,Nets,Magic,104 - 106,1,15,2,Jumper
+81,Nikola Vucevic,FG_MISS,None,3:10,4,Magic,Nets,104 - 106,0,10,2,Jumper
+82,Team,OFFENSIVE_REBOUND,None,3:10,4,Magic,Nets,104 - 106,0,N/A,N/A,N/A
+83,D'Angelo Russell,FOUL_ON_FLOOR,None,3:10,4,Nets,Magic,104 - 106,1,N/A,N/A,N/A
+84,D.J. Augustin,TURNOVER,Jarrett Allen,2:56,4,Magic,Nets,104 - 106,0,N/A,N/A,N/A
+85,DeMarre Carroll,FG_ASSISTED,Joe Harris,2:52,4,Nets,Magic,104 - 109,1,23,3,Jumper
+86,D.J. Augustin,FG_ASSISTED,Nikola Vucevic,2:29,4,Magic,Nets,106 - 109,0,0,2,Layup
+87,D'Angelo Russell,FG_MISS,None,2:12,4,Nets,Magic,106 - 109,1,26,2,Jumper
+88,Team,DEFENSIVE_REBOUND,None,2:09,4,Magic,Nets,106 - 109,0,N/A,N/A,N/A
+89,Nikola Vucevic,FG_MISS,None,1:52,4,Magic,Nets,106 - 109,0,10,2,Jumper
+90,Jarrett Allen,DEFENSIVE_REBOUND,None,1:49,4,Nets,Magic,106 - 109,1,N/A,N/A,N/A
+91,Jarrett Allen,TURNOVER,Nikola Vucevic,1:41,4,Nets,Magic,106 - 109,1,N/A,N/A,N/A
+92,Nikola Vucevic,TURNOVER,None,1:25,4,Magic,Nets,106 - 109,0,N/A,N/A,N/A
+93,Nikola Vucevic,TURNOVER,None,1:25,4,Magic,Nets,106 - 109,0,N/A,N/A,N/A
+94,Team,Unknown,None,1:25,4,Magic,Nets,106 - 109,0,N/A,N/A,N/A
+95,Spencer Dinwiddie,FG_MISS,None,1:08,4,Nets,Magic,106 - 109,1,1,2,Jumper
+96,Nikola Vucevic,DEFENSIVE_REBOUND,None,1:05,4,Magic,Nets,106 - 109,0,N/A,N/A,N/A
+97,Evan Fournier,FG_MISS,None,1:03,4,Magic,Nets,106 - 109,0,26,3,Jumper
+98,Spencer Dinwiddie,DEFENSIVE_REBOUND,None,1:01,4,Nets,Magic,106 - 109,1,N/A,N/A,N/A
+99,DeMarre Carroll,FG_MISS,None,41.0,4,Nets,Magic,106 - 109,1,0,2,Layup
+100,DeMarre Carroll,OFFENSIVE_REBOUND,None,40.7,4,Nets,Magic,106 - 109,1,N/A,N/A,N/A
+101,DeMarre Carroll,FG_UNASSISTED,None,40.7,4,Nets,Magic,106 - 111,1,1,2,Jumper
+102,Team,Unknown,None,40.7,4,Magic,Nets,106 - 111,0,N/A,N/A,N/A
+103,Treveon Graham,SUBSTITUTION,Russell D'Angelo,40.7,4,Nets,Magic,106 - 111,1,N/A,N/A,N/A
+104,Nikola Vucevic,FG_MISS,None,30.7,4,Magic,Nets,106 - 111,0,5,2,Jumper
+105,Nikola Vucevic,OFFENSIVE_REBOUND,None,30.5,4,Magic,Nets,106 - 111,0,N/A,N/A,N/A
+106,Nikola Vucevic,FG_UNASSISTED,None,30.5,4,Magic,Nets,108 - 111,0,1,2,Jumper
+107,Treveon Graham,TURNOVER,None,21.7,4,Nets,Magic,108 - 111,1,N/A,N/A,N/A
+108,Joe Harris,FOUL_ON_FLOOR,None,21.7,4,Nets,Magic,108 - 111,1,N/A,N/A,N/A
+109,Terrence Ross,FT,None,21.7,4,Magic,Nets,109 - 111,0,N/A,1,N/A
+110,Ed Davis,SUBSTITUTION,Graham Treveon,21.7,4,Nets,Magic,109 - 111,1,N/A,N/A,N/A
+111,Terrence Ross,FT,None,21.7,4,Magic,Nets,110 - 111,0,N/A,1,N/A
+112,Team,Unknown,None,21.7,4,Nets,Magic,110 - 111,1,N/A,N/A,N/A
+113,Rodions Kurucs,SUBSTITUTION,Allen Jarrett,21.7,4,Nets,Magic,110 - 111,1,N/A,N/A,N/A
+114,D'Angelo Russell,SUBSTITUTION,Davis Ed,21.7,4,Nets,Magic,110 - 111,1,N/A,N/A,N/A
+115,Mo Bamba,SUBSTITUTION,Vucevic Nikola,21.7,4,Magic,Nets,110 - 111,0,N/A,N/A,N/A
+116,Aaron Gordon,SUBSTITUTION,Augustin D.J.,21.7,4,Magic,Nets,110 - 111,0,N/A,N/A,N/A
+117,Jonathon Simmons,SUBSTITUTION,Ross Terrence,21.7,4,Magic,Nets,110 - 111,0,N/A,N/A,N/A
+118,Mo Bamba,FOUL_ON_FLOOR,None,21.0,4,Magic,Nets,110 - 111,0,N/A,N/A,N/A
+119,Jonathan Isaac,FOUL_ON_FLOOR,None,15.9,4,Magic,Nets,110 - 111,0,N/A,N/A,N/A
+120,Rodions Kurucs,FT,None,15.9,4,Nets,Magic,110 - 112,1,N/A,1,N/A
+121,Nikola Vucevic,SUBSTITUTION,Bamba Mo,15.9,4,Magic,Nets,110 - 112,0,N/A,N/A,N/A
+122,Treveon Graham,SUBSTITUTION,Russell D'Angelo,15.9,4,Nets,Magic,110 - 112,1,N/A,N/A,N/A
+123,Jarrett Allen,SUBSTITUTION,Carroll DeMarre,15.9,4,Nets,Magic,110 - 112,1,N/A,N/A,N/A
+124,Rodions Kurucs,FT_MISS,None,15.9,4,Nets,Magic,110 - 112,1,N/A,1,N/A
+125,Evan Fournier,DEFENSIVE_REBOUND,None,15.2,4,Magic,Nets,110 - 112,0,N/A,N/A,N/A
+126,Team,Unknown,None,15.2,4,Magic,Nets,110 - 112,0,N/A,N/A,N/A
+127,DeMarre Carroll,SUBSTITUTION,Kurucs Rodions,15.2,4,Nets,Magic,110 - 112,1,N/A,N/A,N/A
+128,D.J. Augustin,SUBSTITUTION,Gordon Aaron,15.2,4,Magic,Nets,110 - 112,0,N/A,N/A,N/A
+129,Terrence Ross,SUBSTITUTION,Simmons Jonathon,15.2,4,Magic,Nets,110 - 112,0,N/A,N/A,N/A
+130,Nikola Vucevic,TURNOVER,None,3.1,4,Magic,Nets,110 - 112,0,N/A,N/A,N/A
+131,Team,Unknown,None,3.1,4,Nets,Magic,110 - 112,1,N/A,N/A,N/A
+132,D'Angelo Russell,SUBSTITUTION,Graham Treveon,3.1,4,Nets,Magic,110 - 112,1,N/A,N/A,N/A
+133,Rodions Kurucs,SUBSTITUTION,Allen Jarrett,3.1,4,Nets,Magic,110 - 112,1,N/A,N/A,N/A
+134,Aaron Gordon,SUBSTITUTION,Vucevic Nikola,3.1,4,Magic,Nets,110 - 112,0,N/A,N/A,N/A
+135,Jonathon Simmons,SUBSTITUTION,Augustin D.J.,3.1,4,Magic,Nets,110 - 112,0,N/A,N/A,N/A
+136,Mo Bamba,SUBSTITUTION,Ross Terrence,3.1,4,Magic,Nets,110 - 112,0,N/A,N/A,N/A
+137,Evan Fournier,FOUL_ON_FLOOR,None,2.4,4,Magic,Nets,110 - 112,0,N/A,N/A,N/A
+138,D'Angelo Russell,FT,None,2.4,4,Nets,Magic,110 - 113,1,N/A,1,N/A
+139,Jarrett Allen,SUBSTITUTION,Harris Joe,2.4,4,Nets,Magic,110 - 113,1,N/A,N/A,N/A
+140,Nikola Vucevic,SUBSTITUTION,Isaac Jonathan,2.4,4,Magic,Nets,110 - 113,0,N/A,N/A,N/A
+141,Terrence Ross,SUBSTITUTION,Simmons Jonathon,2.4,4,Magic,Nets,110 - 113,0,N/A,N/A,N/A
+142,D.J. Augustin,SUBSTITUTION,Bamba Mo,2.4,4,Magic,Nets,110 - 113,0,N/A,N/A,N/A
+143,D'Angelo Russell,FT,None,2.4,4,Nets,Magic,110 - 114,1,N/A,1,N/A
+144,End of,Unknown,None,0.0,4,Nets,Magic,110 - 114,1,N/A,N/A,N/A
+145,End of,Unknown,None,0.0,4,Nets,Magic,110 - 114,1,N/A,N/A,N/A

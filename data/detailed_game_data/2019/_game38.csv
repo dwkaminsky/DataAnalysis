@@ -1,0 +1,526 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Noah Vonleh,JUMP_BALL,None,12:00,1,Lakers,Knicks,0 - 0,1,N/A,N/A,N/A
+1,Lonzo Ball,TURNOVER,Noah Vonleh,11:49,1,Lakers,Knicks,0 - 0,1,N/A,N/A,N/A
+2,Noah Vonleh,FG_MISS,None,11:44,1,Knicks,Lakers,0 - 0,0,26,3,Jumper
+3,Brandon Ingram,DEFENSIVE_REBOUND,None,11:40,1,Lakers,Knicks,0 - 0,1,N/A,N/A,N/A
+4,Brandon Ingram,FG_MISS,None,11:20,1,Lakers,Knicks,0 - 0,1,27,3,Jumper
+5,Tim Hardaway,DEFENSIVE_REBOUND,None,11:16,1,Knicks,Lakers,0 - 0,0,N/A,N/A,N/A
+6,Luke Kornet,FG_MISS,None,10:59,1,Knicks,Lakers,0 - 0,0,14,2,Jumper
+7,Noah Vonleh,OFFENSIVE_REBOUND,None,10:56,1,Knicks,Lakers,0 - 0,0,N/A,N/A,N/A
+8,Tim Hardaway,FG_ASSISTED,Noah Vonleh,10:53,1,Knicks,Lakers,3 - 0,0,30,3,Jumper
+9,Lonzo Ball,FG_ASSISTED,JaVale McGee,10:41,1,Lakers,Knicks,3 - 3,1,28,3,Jumper
+10,Noah Vonleh,FG_ASSISTED,Emmanuel Mudiay,10:17,1,Knicks,Lakers,6 - 3,0,26,3,Jumper
+11,Noah Vonleh,FOUL_ON_FLOOR,None,10:03,1,Knicks,Lakers,6 - 3,0,N/A,N/A,N/A
+12,Lonzo Ball,TURNOVER,Luke Kornet,9:54,1,Lakers,Knicks,6 - 3,1,N/A,N/A,N/A
+13,Lonzo Ball,FOUL_ON_FLOOR,None,9:36,1,Lakers,Knicks,6 - 3,1,N/A,N/A,N/A
+14,Emmanuel Mudiay,FG_MISS,None,9:30,1,Knicks,Lakers,6 - 3,0,26,3,Jumper
+15,Brandon Ingram,DEFENSIVE_REBOUND,None,9:27,1,Lakers,Knicks,6 - 3,1,N/A,N/A,N/A
+16,Brandon Ingram,TURNOVER,Noah Vonleh,9:25,1,Lakers,Knicks,6 - 3,1,N/A,N/A,N/A
+17,Kevin Knox,FG_ASSISTED,Emmanuel Mudiay,9:20,1,Knicks,Lakers,9 - 3,0,23,3,Jumper
+18,Brandon Ingram,FG_UNASSISTED,None,9:07,1,Lakers,Knicks,9 - 5,1,0,2,Layup
+19,Noah Vonleh,FG_MISS,None,8:54,1,Knicks,Lakers,9 - 5,0,25,3,Jumper
+20,Kentavious Caldwell-Pope,DEFENSIVE_REBOUND,None,8:50,1,Lakers,Knicks,9 - 5,1,N/A,N/A,N/A
+21,JaVale McGee,FG_MISS,None,8:43,1,Lakers,Knicks,9 - 5,1,11,2,Jumper
+22,Noah Vonleh,DEFENSIVE_REBOUND,None,8:40,1,Knicks,Lakers,9 - 5,0,N/A,N/A,N/A
+23,Kevin Knox,FG_ASSISTED,Emmanuel Mudiay,8:28,1,Knicks,Lakers,12 - 5,0,24,3,Jumper
+24,Lonzo Ball,FG_MISS,None,8:10,1,Lakers,Knicks,12 - 5,1,26,3,Jumper
+25,Noah Vonleh,DEFENSIVE_REBOUND,None,8:08,1,Knicks,Lakers,12 - 5,0,N/A,N/A,N/A
+26,Emmanuel Mudiay,FG_MISS,Josh Hart,8:00,1,Lakers,Knicks,12 - 5,0,0,2,Layup
+27,Josh Hart,DEFENSIVE_REBOUND,None,7:57,1,Lakers,Knicks,12 - 5,1,N/A,N/A,N/A
+28,Kentavious Caldwell-Pope,FG_MISS,None,7:50,1,Lakers,Knicks,12 - 5,1,0,2,Layup
+29,Luke Kornet,DEFENSIVE_REBOUND,None,7:47,1,Knicks,Lakers,12 - 5,0,N/A,N/A,N/A
+30,Tim Hardaway,FG_UNASSISTED,None,7:44,1,Knicks,Lakers,15 - 5,0,26,2,Jumper
+31,Team,Unknown,None,7:43,1,Lakers,Knicks,15 - 5,1,N/A,N/A,N/A
+32,Josh Hart,FG_MISS,None,7:30,1,Lakers,Knicks,15 - 5,1,23,3,Jumper
+33,Noah Vonleh,DEFENSIVE_REBOUND,None,7:27,1,Knicks,Lakers,15 - 5,0,N/A,N/A,N/A
+34,Tim Hardaway,FG_MISS,None,7:15,1,Knicks,Lakers,15 - 5,0,27,3,Jumper
+35,Lonzo Ball,DEFENSIVE_REBOUND,None,7:13,1,Lakers,Knicks,15 - 5,1,N/A,N/A,N/A
+36,Lonzo Ball,FG_MISS,None,7:08,1,Lakers,Knicks,15 - 5,1,4,2,Jumper
+37,Emmanuel Mudiay,DEFENSIVE_REBOUND,None,7:05,1,Knicks,Lakers,15 - 5,0,N/A,N/A,N/A
+38,Tim Hardaway,FG_ASSISTED,Emmanuel Mudiay,6:57,1,Knicks,Lakers,18 - 5,0,23,3,Jumper
+39,Brandon Ingram,FG_MISS,None,6:42,1,Lakers,Knicks,18 - 5,1,20,2,Jumper
+40,Kevin Knox,DEFENSIVE_REBOUND,None,6:40,1,Knicks,Lakers,18 - 5,0,N/A,N/A,N/A
+41,Tim Hardaway,FG_MISS,None,6:38,1,Knicks,Lakers,18 - 5,0,28,3,Jumper
+42,Noah Vonleh,OFFENSIVE_REBOUND,None,6:35,1,Knicks,Lakers,18 - 5,0,N/A,N/A,N/A
+43,Josh Hart,FOUL_ON_FLOOR,None,6:35,1,Lakers,Knicks,18 - 5,1,N/A,N/A,N/A
+44,Noah Vonleh,FT,None,6:35,1,Knicks,Lakers,19 - 5,0,N/A,1,N/A
+45,Ivica Zubac,SUBSTITUTION,McGee JaVale,6:35,1,Lakers,Knicks,19 - 5,1,N/A,N/A,N/A
+46,Noah Vonleh,FT,None,6:35,1,Knicks,Lakers,20 - 5,0,N/A,1,N/A
+47,Brandon Ingram,TURNOVER,Noah Vonleh,6:26,1,Lakers,Knicks,20 - 5,1,N/A,N/A,N/A
+48,Emmanuel Mudiay,FG_MISS,None,6:19,1,Knicks,Lakers,20 - 5,0,-,2,Jumper
+49,Ivica Zubac,DEFENSIVE_REBOUND,None,6:17,1,Lakers,Knicks,20 - 5,1,N/A,N/A,N/A
+50,Brandon Ingram,FG_MISS,None,6:14,1,Lakers,Knicks,20 - 5,1,-,2,Jumper
+51,Ivica Zubac,OFFENSIVE_REBOUND,None,6:08,1,Lakers,Knicks,20 - 5,1,N/A,N/A,N/A
+52,Ivica Zubac,FG_MISS,None,6:08,1,Lakers,Knicks,20 - 5,1,-,2,Jumper
+53,Kevin Knox,DEFENSIVE_REBOUND,None,6:08,1,Knicks,Lakers,20 - 5,0,N/A,N/A,N/A
+54,Kevin Knox,FG_ASSISTED,Luke Kornet,6:00,1,Knicks,Lakers,22 - 5,0,0,2,Dunk
+55,Kentavious Caldwell-Pope,FG_ASSISTED,Ivica Zubac,5:38,1,Lakers,Knicks,22 - 8,1,27,3,Jumper
+56,Noah Vonleh,FG_UNASSISTED,None,5:21,1,Knicks,Lakers,24 - 8,0,0,2,Layup
+57,Lonzo Ball,FG_UNASSISTED,None,5:10,1,Lakers,Knicks,24 - 11,1,27,2,Jumper
+58,Kevin Knox,FG_MISS,None,4:58,1,Knicks,Lakers,24 - 11,0, ,2,Jumper
+59,Lonzo Ball,DEFENSIVE_REBOUND,None,4:56,1,Lakers,Knicks,24 - 11,1,N/A,N/A,N/A
+60,Emmanuel Mudiay,FOUL_ON_FLOOR,None,4:54,1,Knicks,Lakers,24 - 11,0,N/A,N/A,N/A
+61,Lonzo Ball,FT_MISS,None,4:54,1,Lakers,Knicks,24 - 11,1,N/A,1,N/A
+62,Team,OFFENSIVE_REBOUND,None,4:54,1,Lakers,Knicks,24 - 11,1,N/A,N/A,N/A
+63,Lance Stephenson,SUBSTITUTION,Ingram Brandon,4:54,1,Lakers,Knicks,24 - 11,1,N/A,N/A,N/A
+64,Frank Ntilikina,SUBSTITUTION,Mudiay Emmanuel,4:54,1,Knicks,Lakers,24 - 11,0,N/A,N/A,N/A
+65,Damyean Dotson,SUBSTITUTION,Knox Kevin,4:54,1,Knicks,Lakers,24 - 11,0,N/A,N/A,N/A
+66,Lonzo Ball,FT_MISS,None,4:54,1,Lakers,Knicks,24 - 11,1,N/A,1,N/A
+67,Frank Ntilikina,DEFENSIVE_REBOUND,None,4:49,1,Knicks,Lakers,24 - 11,0,N/A,N/A,N/A
+68,Luke Kornet,FG_MISS,None,4:36,1,Knicks,Lakers,24 - 11,0,12,2,Jumper
+69,Noah Vonleh,OFFENSIVE_REBOUND,None,4:32,1,Knicks,Lakers,24 - 11,0,N/A,N/A,N/A
+70,Noah Vonleh,FG_MISS,None,4:31,1,Knicks,Lakers,24 - 11,0, ,2,Jumper
+71,Luke Kornet,OFFENSIVE_REBOUND,None,4:31,1,Knicks,Lakers,24 - 11,0,N/A,N/A,N/A
+72,Luke Kornet,FG_MISS,None,4:27,1,Knicks,Lakers,24 - 11,0, ,2,Jumper
+73,Ivica Zubac,DEFENSIVE_REBOUND,None,4:27,1,Lakers,Knicks,24 - 11,1,N/A,N/A,N/A
+74,Josh Hart,FG_UNASSISTED,None,4:27,1,Lakers,Knicks,24 - 13,1, ,2,Jumper
+75,Frank Ntilikina,FOUL_ON_FLOOR,None,4:27,1,Knicks,Lakers,24 - 13,0,N/A,N/A,N/A
+76,Enes Kanter,SUBSTITUTION,Kornet Luke,4:27,1,Knicks,Lakers,24 - 13,0,N/A,N/A,N/A
+77,Josh Hart,FT,None,4:27,1,Lakers,Knicks,24 - 14,1,N/A,1,N/A
+78,Frank Ntilikina,TURNOVER,Lonzo Ball,4:10,1,Knicks,Lakers,24 - 14,0,N/A,N/A,N/A
+79,Lonzo Ball,FG_UNASSISTED,None,4:05,1,Lakers,Knicks,24 - 16,1, ,2,Jumper
+80,Team,Unknown,None,3:58,1,Knicks,Lakers,24 - 16,0,N/A,N/A,N/A
+81,Trey Burke,SUBSTITUTION,Ntilikina Frank,3:58,1,Knicks,Lakers,24 - 16,0,N/A,N/A,N/A
+82,Tim Hardaway,FG_MISS,None,3:53,1,Knicks,Lakers,24 - 16,0,26,3,Jumper
+83,Lance Stephenson,DEFENSIVE_REBOUND,None,3:49,1,Lakers,Knicks,24 - 16,1,N/A,N/A,N/A
+84,Lance Stephenson,FG_MISS,None,3:33,1,Lakers,Knicks,24 - 16,1,25,3,Jumper
+85,Enes Kanter,DEFENSIVE_REBOUND,None,3:29,1,Knicks,Lakers,24 - 16,0,N/A,N/A,N/A
+86,Enes Kanter,FG_MISS,Lance Stephenson,3:16,1,Lakers,Knicks,24 - 16,0,0,2,Layup
+87,Lance Stephenson,DEFENSIVE_REBOUND,None,3:13,1,Lakers,Knicks,24 - 16,1,N/A,N/A,N/A
+88,Kentavious Caldwell-Pope,FG_MISS,None,3:10,1,Lakers,Knicks,24 - 16,1,25,3,Jumper
+89,Noah Vonleh,DEFENSIVE_REBOUND,None,3:07,1,Knicks,Lakers,24 - 16,0,N/A,N/A,N/A
+90,Damyean Dotson,FG_MISS,None,3:00,1,Knicks,Lakers,24 - 16,0,27,3,Jumper
+91,Ivica Zubac,DEFENSIVE_REBOUND,None,2:58,1,Lakers,Knicks,24 - 16,1,N/A,N/A,N/A
+92,Josh Hart,FG_MISS,None,2:53,1,Lakers,Knicks,24 - 16,1,28,3,Jumper
+93,Enes Kanter,DEFENSIVE_REBOUND,None,2:50,1,Knicks,Lakers,24 - 16,0,N/A,N/A,N/A
+94,Trey Burke,FG_MISS,None,2:42,1,Knicks,Lakers,24 - 16,0, ,2,Jumper
+95,Ivica Zubac,DEFENSIVE_REBOUND,None,2:38,1,Lakers,Knicks,24 - 16,1,N/A,N/A,N/A
+96,Lonzo Ball,TURNOVER,Damyean Dotson,2:36,1,Lakers,Knicks,24 - 16,1,N/A,N/A,N/A
+97,Tim Hardaway,FG_ASSISTED,Damyean Dotson,2:31,1,Knicks,Lakers,26 - 16,0,0,2,Dunk
+98,Noah Vonleh,FOUL_ON_FLOOR,None,2:26,1,Knicks,Lakers,26 - 16,0,N/A,N/A,N/A
+99,Kevin Knox,SUBSTITUTION,Vonleh Noah,2:26,1,Knicks,Lakers,26 - 16,0,N/A,N/A,N/A
+100,Ivica Zubac,FG_ASSISTED,Kentavious Caldwell-Pope,2:19,1,Lakers,Knicks,26 - 18,1,0,2,Dunk
+101,Enes Kanter,FG_ASSISTED,Damyean Dotson,2:02,1,Knicks,Lakers,28 - 18,0, ,2,Jumper
+102,Lonzo Ball,FOUL_ON_FLOOR,None,2:02,1,Lakers,Knicks,28 - 18,1,N/A,N/A,N/A
+103,Sviatoslav Mykhailiuk,SUBSTITUTION,Ball Lonzo,2:02,1,Lakers,Knicks,28 - 18,1,N/A,N/A,N/A
+104,Enes Kanter,FT,None,2:02,1,Knicks,Lakers,29 - 18,0,N/A,1,N/A
+105,Kentavious Caldwell-Pope,FG_MISS,None,1:45,1,Lakers,Knicks,29 - 18,1,25,3,Jumper
+106,Enes Kanter,DEFENSIVE_REBOUND,None,1:43,1,Knicks,Lakers,29 - 18,0,N/A,N/A,N/A
+107,Enes Kanter,FG_ASSISTED,Tim Hardaway,1:38,1,Knicks,Lakers,32 - 18,0, ,3,Jumper
+108,Damyean Dotson,FOUL_ON_FLOOR,None,1:24,1,Knicks,Lakers,32 - 18,0,N/A,N/A,N/A
+109,Ivica Zubac,FT,None,1:24,1,Lakers,Knicks,32 - 19,1,N/A,1,N/A
+110,Allonzo Trier,SUBSTITUTION,Hardaway Tim,1:24,1,Knicks,Lakers,32 - 19,0,N/A,N/A,N/A
+111,Ivica Zubac,FT,None,1:24,1,Lakers,Knicks,32 - 20,1,N/A,1,N/A
+112,Ivica Zubac,FOUL_ON_FLOOR,None,1:16,1,Lakers,Knicks,32 - 20,1,N/A,N/A,N/A
+113,Enes Kanter,FT_MISS,None,1:16,1,Knicks,Lakers,32 - 20,0,N/A,1,N/A
+114,Team,OFFENSIVE_REBOUND,None,1:16,1,Knicks,Lakers,32 - 20,0,N/A,N/A,N/A
+115,Enes Kanter,FT,None,1:16,1,Knicks,Lakers,33 - 20,0,N/A,1,N/A
+116,Kentavious Caldwell-Pope,FG_ASSISTED,Ivica Zubac,1:04,1,Lakers,Knicks,33 - 22,1,15,2,Jumper
+117,Allonzo Trier,FOUL_ON_FLOOR,None,1:04,1,Knicks,Lakers,33 - 22,0,N/A,N/A,N/A
+118,Kentavious Caldwell-Pope,FT,None,1:04,1,Lakers,Knicks,33 - 23,1,N/A,1,N/A
+119,Trey Burke,FG_UNASSISTED,None,55.5,1,Knicks,Lakers,35 - 23,0, ,2,Jumper
+120,Sviatoslav Mykhailiuk,TURNOVER,Kevin Knox,41.1,1,Lakers,Knicks,35 - 23,1,N/A,N/A,N/A
+121,Trey Burke's,FG_MISS,Lance Stephenson,38.0,1,Lakers,Knicks,35 - 23,0, ,2,Jumper
+122,Team,OFFENSIVE_REBOUND,None,38.0,1,Knicks,Lakers,35 - 23,0,N/A,N/A,N/A
+123,Damyean Dotson,FG_ASSISTED,Allonzo Trier,31.1,1,Knicks,Lakers,37 - 23,0,20,2,Jumper
+124,Ivica Zubac,FG_MISS,Enes Kanter,18.7,1,Knicks,Lakers,37 - 23,1,10,2,Jumper
+125,Ivica Zubac,OFFENSIVE_REBOUND,None,17.4,1,Lakers,Knicks,37 - 23,1,N/A,N/A,N/A
+126,Ivica Zubac,FG_UNASSISTED,None,17.4,1,Lakers,Knicks,37 - 25,1, ,2,Jumper
+127,Trey Burke,FG_UNASSISTED,None,1.7,1,Knicks,Lakers,39 - 25,0,3,2,Jumper
+128,End of,Unknown,None,0.0,1,Lakers,Knicks,39 - 25,1,N/A,N/A,N/A
+0,Tyson Chandler,SUBSTITUTION,Caldwell-Pope Kentavious,12:00,2,Lakers,Knicks,39 - 25,1,N/A,N/A,N/A
+1,Brandon Ingram,SUBSTITUTION,Hart Josh,12:00,2,Lakers,Knicks,39 - 25,1,N/A,N/A,N/A
+2,Michael Beasley,SUBSTITUTION,Zubac Ivica,12:00,2,Lakers,Knicks,39 - 25,1,N/A,N/A,N/A
+3,Kevin Knox,FG_MISS,None,11:50,2,Knicks,Lakers,39 - 25,0,0,2,Layup
+4,Team,DEFENSIVE_REBOUND,None,11:50,2,Lakers,Knicks,39 - 25,1,N/A,N/A,N/A
+5,Brandon Ingram,FG_MISS,None,11:37,2,Lakers,Knicks,39 - 25,1,0,2,Layup
+6,Kevin Knox,DEFENSIVE_REBOUND,None,11:34,2,Knicks,Lakers,39 - 25,0,N/A,N/A,N/A
+7,Trey Burke,FG_MISS,None,11:25,2,Knicks,Lakers,39 - 25,0,18,2,Jumper
+8,Michael Beasley,DEFENSIVE_REBOUND,None,11:24,2,Lakers,Knicks,39 - 25,1,N/A,N/A,N/A
+9,Kevin Knox,FOUL_ON_FLOOR,None,11:22,2,Knicks,Lakers,39 - 25,0,N/A,N/A,N/A
+10,Tyson Chandler,FT,None,11:22,2,Lakers,Knicks,39 - 26,1,N/A,1,N/A
+11,Tyson Chandler,FT,None,11:22,2,Lakers,Knicks,39 - 27,1,N/A,1,N/A
+12,Allonzo Trier,TURNOVER,Sviatoslav Mykhailiuk,11:11,2,Knicks,Lakers,39 - 27,0,N/A,N/A,N/A
+13,Enes Kanter,FOUL_ON_FLOOR,None,11:09,2,Knicks,Lakers,39 - 27,0,N/A,N/A,N/A
+14,Michael Beasley,FT_MISS,None,11:09,2,Lakers,Knicks,39 - 27,1,N/A,1,N/A
+15,Team,OFFENSIVE_REBOUND,None,11:09,2,Lakers,Knicks,39 - 27,1,N/A,N/A,N/A
+16,Michael Beasley,FT_MISS,None,11:09,2,Lakers,Knicks,39 - 27,1,N/A,1,N/A
+17,Damyean Dotson,DEFENSIVE_REBOUND,None,11:06,2,Knicks,Lakers,39 - 27,0,N/A,N/A,N/A
+18,Kevin Knox,FG_MISS,None,10:54,2,Knicks,Lakers,39 - 27,0,0,2,Layup
+19,Team,OFFENSIVE_REBOUND,None,10:54,2,Knicks,Lakers,39 - 27,0,N/A,N/A,N/A
+20,Damyean Dotson,FG_ASSISTED,Trey Burke,10:46,2,Knicks,Lakers,42 - 27,0,28,3,Jumper
+21,Michael Beasley,FG_ASSISTED,Brandon Ingram,10:26,2,Lakers,Knicks,42 - 29,1, ,2,Jumper
+22,Kevin Knox,FG_MISS,None,10:11,2,Knicks,Lakers,42 - 29,0,26,3,Jumper
+23,Brandon Ingram,DEFENSIVE_REBOUND,None,10:10,2,Lakers,Knicks,42 - 29,1,N/A,N/A,N/A
+24,Brandon Ingram,FG_UNASSISTED,None,10:08,2,Lakers,Knicks,42 - 31,1, ,2,Jumper
+25,Allonzo Trier,FOUL_ON_FLOOR,None,10:08,2,Knicks,Lakers,42 - 31,0,N/A,N/A,N/A
+26,Brandon Ingram,FT,None,10:08,2,Lakers,Knicks,42 - 32,1,N/A,1,N/A
+27,Team,Unknown,None,10:02,2,Knicks,Lakers,42 - 32,0,N/A,N/A,N/A
+28,Brandon Ingram,FOUL_ON_FLOOR,None,9:48,2,Lakers,Knicks,42 - 32,1,N/A,N/A,N/A
+29,Allonzo Trier,FT,None,9:48,2,Knicks,Lakers,43 - 32,0,N/A,1,N/A
+30,Allonzo Trier,FT,None,9:48,2,Knicks,Lakers,44 - 32,0,N/A,1,N/A
+31,Tyson Chandler,FG_ASSISTED,Michael Beasley,9:35,2,Lakers,Knicks,44 - 34,1,0,2,Dunk
+32,Enes Kanter,FG_MISS,None,9:22,2,Knicks,Lakers,44 - 34,0, ,3,Jumper
+33,Tyson Chandler,DEFENSIVE_REBOUND,None,9:18,2,Lakers,Knicks,44 - 34,1,N/A,N/A,N/A
+34,Lance Stephenson,FG_UNASSISTED,None,9:13,2,Lakers,Knicks,44 - 36,1, ,2,Jumper
+35,Allonzo Trier,FG_MISS,None,8:57,2,Knicks,Lakers,44 - 36,0,18,2,Jumper
+36,Michael Beasley,DEFENSIVE_REBOUND,None,8:54,2,Lakers,Knicks,44 - 36,1,N/A,N/A,N/A
+37,Lance Stephenson,TURNOVER,Damyean Dotson,8:46,2,Lakers,Knicks,44 - 36,1,N/A,N/A,N/A
+38,Trey Burke,FG_UNASSISTED,None,8:40,2,Knicks,Lakers,46 - 36,0, ,2,Jumper
+39,Brandon Ingram,FG_MISS,None,8:32,2,Lakers,Knicks,46 - 36,1, ,2,Jumper
+40,Enes Kanter,DEFENSIVE_REBOUND,None,8:32,2,Knicks,Lakers,46 - 36,0,N/A,N/A,N/A
+41,Allonzo Trier,TURNOVER,Brandon Ingram,8:24,2,Knicks,Lakers,46 - 36,0,N/A,N/A,N/A
+42,Brandon Ingram,FG_ASSISTED,Lance Stephenson,8:21,2,Lakers,Knicks,46 - 38,1,0,2,Dunk
+43,Trey Burke,FG_UNASSISTED,None,8:06,2,Knicks,Lakers,48 - 38,0,14,2,Jumper
+44,Team,Unknown,None,8:04,2,Lakers,Knicks,48 - 38,1,N/A,N/A,N/A
+45,Kentavious Caldwell-Pope,SUBSTITUTION,Mykhailiuk Sviatoslav,8:04,2,Lakers,Knicks,48 - 38,1,N/A,N/A,N/A
+46,Noah Vonleh,SUBSTITUTION,Trier Allonzo,8:04,2,Knicks,Lakers,48 - 38,0,N/A,N/A,N/A
+47,Tim Hardaway,SUBSTITUTION,Knox Kevin,8:04,2,Knicks,Lakers,48 - 38,0,N/A,N/A,N/A
+48,Brandon Ingram,TURNOVER,Noah Vonleh,7:51,2,Lakers,Knicks,48 - 38,1,N/A,N/A,N/A
+49,Damyean Dotson,FG_UNASSISTED,None,7:48,2,Knicks,Lakers,50 - 38,0, ,2,Jumper
+50,Michael Beasley,FG_UNASSISTED,None,7:25,2,Lakers,Knicks,50 - 40,1,2,2,Jumper
+51,Tim Hardaway,FG_MISS,None,7:09,2,Knicks,Lakers,50 - 40,0,26,3,Jumper
+52,Brandon Ingram,DEFENSIVE_REBOUND,None,7:07,2,Lakers,Knicks,50 - 40,1,N/A,N/A,N/A
+53,Brandon Ingram,FG_MISS,None,7:03,2,Lakers,Knicks,50 - 40,1,18,2,Jumper
+54,Tim Hardaway,DEFENSIVE_REBOUND,None,6:58,2,Knicks,Lakers,50 - 40,0,N/A,N/A,N/A
+55,Enes Kanter,FG_MISS,None,6:47,2,Knicks,Lakers,50 - 40,0,8,2,Jumper
+56,Lance Stephenson,DEFENSIVE_REBOUND,None,6:46,2,Lakers,Knicks,50 - 40,1,N/A,N/A,N/A
+57,Noah Vonleh,FOUL_ON_FLOOR,None,6:46,2,Knicks,Lakers,50 - 40,0,N/A,N/A,N/A
+58,Lonzo Ball,SUBSTITUTION,Ingram Brandon,6:46,2,Lakers,Knicks,50 - 40,1,N/A,N/A,N/A
+59,Kevin Knox,SUBSTITUTION,Vonleh Noah,6:46,2,Knicks,Lakers,50 - 40,0,N/A,N/A,N/A
+60,Kentavious Caldwell-Pope,FG_MISS,None,6:27,2,Lakers,Knicks,50 - 40,1,0,2,Layup
+61,Tyson Chandler,OFFENSIVE_REBOUND,None,6:25,2,Lakers,Knicks,50 - 40,1,N/A,N/A,N/A
+62,Lonzo Ball,TURNOVER,Trey Burke,6:24,2,Lakers,Knicks,50 - 40,1,N/A,N/A,N/A
+63,Trey Burke,FG_UNASSISTED,None,6:20,2,Knicks,Lakers,52 - 40,0, ,2,Jumper
+64,Lonzo Ball,FG_MISS,None,5:58,2,Lakers,Knicks,52 - 40,1,24,2,Jumper
+65,Enes Kanter,DEFENSIVE_REBOUND,None,5:54,2,Knicks,Lakers,52 - 40,0,N/A,N/A,N/A
+66,Trey Burke,FG_MISS,None,5:47,2,Knicks,Lakers,52 - 40,0,10,2,Jumper
+67,Michael Beasley,DEFENSIVE_REBOUND,None,5:45,2,Lakers,Knicks,52 - 40,1,N/A,N/A,N/A
+68,Enes Kanter,FOUL_ON_FLOOR,None,5:35,2,Knicks,Lakers,52 - 40,0,N/A,N/A,N/A
+69,Team,Unknown,None,5:35,2,Lakers,Knicks,52 - 40,1,N/A,N/A,N/A
+70,JaVale McGee,SUBSTITUTION,Chandler Tyson,5:35,2,Lakers,Knicks,52 - 40,1,N/A,N/A,N/A
+71,Josh Hart,SUBSTITUTION,Stephenson Lance,5:35,2,Lakers,Knicks,52 - 40,1,N/A,N/A,N/A
+72,Luke Kornet,SUBSTITUTION,Kanter Enes,5:35,2,Knicks,Lakers,52 - 40,0,N/A,N/A,N/A
+73,Emmanuel Mudiay,SUBSTITUTION,Burke Trey,5:35,2,Knicks,Lakers,52 - 40,0,N/A,N/A,N/A
+74,Michael Beasley,FT,None,5:35,2,Lakers,Knicks,52 - 41,1,N/A,1,N/A
+75,Michael Beasley,FT,None,5:35,2,Lakers,Knicks,52 - 42,1,N/A,1,N/A
+76,Damyean Dotson,FG_MISS,None,5:16,2,Knicks,Lakers,52 - 42,0,20,2,Jumper
+77,JaVale McGee,DEFENSIVE_REBOUND,None,5:12,2,Lakers,Knicks,52 - 42,1,N/A,N/A,N/A
+78,JaVale McGee,FG_MISS,None,4:58,2,Lakers,Knicks,52 - 42,1,0,2,Layup
+79,JaVale McGee,OFFENSIVE_REBOUND,None,4:54,2,Lakers,Knicks,52 - 42,1,N/A,N/A,N/A
+80,JaVale McGee,FG_UNASSISTED,None,4:54,2,Lakers,Knicks,52 - 44,1, ,2,Jumper
+81,JaVale McGee,FOUL_ON_FLOOR,None,4:38,2,Lakers,Knicks,52 - 44,1,N/A,N/A,N/A
+82,Brandon Ingram,SUBSTITUTION,Beasley Michael,4:38,2,Lakers,Knicks,52 - 44,1,N/A,N/A,N/A
+83,Tim Hardaway,FG_MISS,None,4:29,2,Knicks,Lakers,52 - 44,0,29,3,Jumper
+84,Kentavious Caldwell-Pope,DEFENSIVE_REBOUND,None,4:27,2,Lakers,Knicks,52 - 44,1,N/A,N/A,N/A
+85,Brandon Ingram,TURNOVER,Damyean Dotson,4:22,2,Lakers,Knicks,52 - 44,1,N/A,N/A,N/A
+86,Damyean Dotson,FG_MISS,None,4:17,2,Knicks,Lakers,52 - 44,0, ,2,Jumper
+87,Kevin Knox,OFFENSIVE_REBOUND,None,4:17,2,Knicks,Lakers,52 - 44,0,N/A,N/A,N/A
+88,Brandon Ingram,FOUL_ON_FLOOR,None,4:17,2,Lakers,Knicks,52 - 44,1,N/A,N/A,N/A
+89,Kevin Knox,FT,None,4:17,2,Knicks,Lakers,53 - 44,0,N/A,1,N/A
+90,Trey Burke,SUBSTITUTION,Dotson Damyean,4:17,2,Knicks,Lakers,53 - 44,0,N/A,N/A,N/A
+91,Kevin Knox,FT,None,4:17,2,Knicks,Lakers,54 - 44,0,N/A,1,N/A
+92,Lonzo Ball,FG_ASSISTED,Josh Hart,3:57,2,Lakers,Knicks,54 - 47,1,25,2,Jumper
+93,Trey Burke,FG_MISS,None,3:33,2,Knicks,Lakers,54 - 47,0,27,2,Jumper
+94,Kentavious Caldwell-Pope,DEFENSIVE_REBOUND,None,3:29,2,Lakers,Knicks,54 - 47,1,N/A,N/A,N/A
+95,Josh Hart,FG_MISS,None,3:24,2,Lakers,Knicks,54 - 47,1, ,2,Jumper
+96,Luke Kornet,DEFENSIVE_REBOUND,None,3:22,2,Knicks,Lakers,54 - 47,0,N/A,N/A,N/A
+97,Emmanuel Mudiay,FG_MISS,None,3:17,2,Knicks,Lakers,54 - 47,0,0,2,Layup
+98,Josh Hart,DEFENSIVE_REBOUND,None,3:14,2,Lakers,Knicks,54 - 47,1,N/A,N/A,N/A
+99,Kentavious Caldwell-Pope,FG_ASSISTED,Josh Hart,3:10,2,Lakers,Knicks,54 - 50,1,25,3,Jumper
+100,Team,Unknown,None,3:09,2,Knicks,Lakers,54 - 50,0,N/A,N/A,N/A
+101,Luke Kornet,FG_UNASSISTED,None,2:48,2,Knicks,Lakers,56 - 50,0,2,2,Jumper
+102,JaVale McGee,FG_MISS,None,2:29,2,Lakers,Knicks,56 - 50,1,6,2,Jumper
+103,Tim Hardaway,DEFENSIVE_REBOUND,None,2:27,2,Knicks,Lakers,56 - 50,0,N/A,N/A,N/A
+104,Tim Hardaway,FG_UNASSISTED,None,2:24,2,Knicks,Lakers,58 - 50,0, ,2,Jumper
+105,Josh Hart,FOUL_ON_FLOOR,None,2:24,2,Lakers,Knicks,58 - 50,1,N/A,N/A,N/A
+106,Tim Hardaway,FT,None,2:24,2,Knicks,Lakers,59 - 50,0,N/A,1,N/A
+107,Brandon Ingram,FG_MISS,None,2:12,2,Lakers,Knicks,59 - 50,1,0,2,Layup
+108,JaVale McGee,OFFENSIVE_REBOUND,None,2:09,2,Lakers,Knicks,59 - 50,1,N/A,N/A,N/A
+109,JaVale McGee,FG_UNASSISTED,None,2:08,2,Lakers,Knicks,59 - 52,1, ,2,Jumper
+110,Trey Burke,FG_MISS,Josh Hart,1:50,2,Lakers,Knicks,59 - 52,0,3,2,Jumper
+111,Team,OFFENSIVE_REBOUND,None,1:50,2,Knicks,Lakers,59 - 52,0,N/A,N/A,N/A
+112,Luke Kornet,FG_MISS,None,1:48,2,Knicks,Lakers,59 - 52,0,26,3,Jumper
+113,Emmanuel Mudiay,OFFENSIVE_REBOUND,None,1:43,2,Knicks,Lakers,59 - 52,0,N/A,N/A,N/A
+114,Emmanuel Mudiay,TURNOVER,Lonzo Ball,1:42,2,Knicks,Lakers,59 - 52,0,N/A,N/A,N/A
+115,Kentavious Caldwell-Pope,FG_MISS,None,1:36,2,Lakers,Knicks,59 - 52,1,27,3,Jumper
+116,Tim Hardaway,DEFENSIVE_REBOUND,None,1:34,2,Knicks,Lakers,59 - 52,0,N/A,N/A,N/A
+117,Emmanuel Mudiay,FG_MISS,None,1:32,2,Knicks,Lakers,59 - 52,0, ,2,Jumper
+118,Lonzo Ball,DEFENSIVE_REBOUND,None,1:32,2,Lakers,Knicks,59 - 52,1,N/A,N/A,N/A
+119,Luke Kornet,FOUL_ON_FLOOR,None,1:23,2,Knicks,Lakers,59 - 52,0,N/A,N/A,N/A
+120,Kentavious Caldwell-Pope,FT,None,1:23,2,Lakers,Knicks,59 - 53,1,N/A,1,N/A
+121,Lance Stephenson,SUBSTITUTION,Hart Josh,1:23,2,Lakers,Knicks,59 - 53,1,N/A,N/A,N/A
+122,Kentavious Caldwell-Pope,FT,None,1:23,2,Lakers,Knicks,59 - 54,1,N/A,1,N/A
+123,Tim Hardaway,FG_UNASSISTED,None,1:08,2,Knicks,Lakers,61 - 54,0,0,2,Dunk
+124,Lance Stephenson,FG_MISS,None,51.4,2,Lakers,Knicks,61 - 54,1,24,3,Jumper
+125,Trey Burke,DEFENSIVE_REBOUND,None,47.2,2,Knicks,Lakers,61 - 54,0,N/A,N/A,N/A
+126,Lance Stephenson,FOUL_ON_FLOOR,None,44.6,2,Lakers,Knicks,61 - 54,1,N/A,N/A,N/A
+127,Trey Burke,FT,None,44.6,2,Knicks,Lakers,62 - 54,0,N/A,1,N/A
+128,Trey Burke,FT,None,44.6,2,Knicks,Lakers,63 - 54,0,N/A,1,N/A
+129,Kentavious Caldwell-Pope,FG_ASSISTED,Lance Stephenson,32.7,2,Lakers,Knicks,63 - 57,1,25,3,Jumper
+130,Emmanuel Mudiay,FG_MISS,Lonzo Ball,16.6,2,Lakers,Knicks,63 - 57,0,0,2,Layup
+131,JaVale McGee,DEFENSIVE_REBOUND,None,13.9,2,Lakers,Knicks,63 - 57,1,N/A,N/A,N/A
+132,Brandon Ingram,FG_UNASSISTED,None,0.2,2,Lakers,Knicks,63 - 59,1,0,2,Layup
+133,End of,Unknown,None,0.0,2,Lakers,Knicks,63 - 59,1,N/A,N/A,N/A
+0,Michael Beasley,SUBSTITUTION,Stephenson Lance,12:00,3,Lakers,Knicks,63 - 59,1,N/A,N/A,N/A
+1,Noah Vonleh,SUBSTITUTION,Burke Trey,12:00,3,Knicks,Lakers,63 - 59,0,N/A,N/A,N/A
+2,Tim Hardaway,FG_MISS,None,11:40,3,Knicks,Lakers,63 - 59,0, ,2,Jumper
+3,Tim Hardaway,OFFENSIVE_REBOUND,None,11:36,3,Knicks,Lakers,63 - 59,0,N/A,N/A,N/A
+4,Tim Hardaway,FG_UNASSISTED,None,11:36,3,Knicks,Lakers,65 - 59,0, ,2,Jumper
+5,Lonzo Ball,FG_MISS,None,11:22,3,Lakers,Knicks,65 - 59,1,13,2,Jumper
+6,Emmanuel Mudiay,DEFENSIVE_REBOUND,None,11:19,3,Knicks,Lakers,65 - 59,0,N/A,N/A,N/A
+7,Emmanuel Mudiay,FG_UNASSISTED,None,11:13,3,Knicks,Lakers,67 - 59,0, ,2,Jumper
+8,Kentavious Caldwell-Pope,FG_UNASSISTED,None,10:51,3,Lakers,Knicks,67 - 61,1,20,2,Jumper
+9,Kevin Knox,FG_MISS,None,10:27,3,Knicks,Lakers,67 - 61,0,25,3,Jumper
+10,Kentavious Caldwell-Pope,DEFENSIVE_REBOUND,None,10:23,3,Lakers,Knicks,67 - 61,1,N/A,N/A,N/A
+11,Kentavious Caldwell-Pope,FG_MISS,None,10:17,3,Lakers,Knicks,67 - 61,1,26,3,Jumper
+12,Emmanuel Mudiay,DEFENSIVE_REBOUND,None,10:14,3,Knicks,Lakers,67 - 61,0,N/A,N/A,N/A
+13,Emmanuel Mudiay,FG_ASSISTED,Tim Hardaway,10:10,3,Knicks,Lakers,70 - 61,0,24,3,Jumper
+14,JaVale McGee,FG_UNASSISTED,None,9:43,3,Lakers,Knicks,70 - 63,1,0,2,Layup
+15,Luke Kornet,FG_MISS,None,9:28,3,Knicks,Lakers,70 - 63,0,27,3,Jumper
+16,Kentavious Caldwell-Pope,DEFENSIVE_REBOUND,None,9:25,3,Lakers,Knicks,70 - 63,1,N/A,N/A,N/A
+17,Lonzo Ball,TURNOVER,None,9:16,3,Lakers,Knicks,70 - 63,1,N/A,N/A,N/A
+18,Lonzo Ball,FG_MISS,None,9:16,3,Lakers,Knicks,70 - 63,1,9,2,Jumper
+19,Kentavious Caldwell-Pope,FOUL_ON_FLOOR,None,9:13,3,Lakers,Knicks,70 - 63,1,N/A,N/A,N/A
+20,Emmanuel Mudiay,FG_MISS,JaVale McGee,9:05,3,Lakers,Knicks,70 - 63,0,0,2,Layup
+21,Michael Beasley,DEFENSIVE_REBOUND,None,9:02,3,Lakers,Knicks,70 - 63,1,N/A,N/A,N/A
+22,JaVale McGee,FG_ASSISTED,Brandon Ingram,8:49,3,Lakers,Knicks,70 - 65,1,0,2,Dunk
+23,Michael Beasley,FOUL_ON_FLOOR,None,8:34,3,Lakers,Knicks,70 - 65,1,N/A,N/A,N/A
+24,Luke Kornet,FT,None,8:34,3,Knicks,Lakers,71 - 65,0,N/A,1,N/A
+25,Luke Kornet,FT_MISS,None,8:34,3,Knicks,Lakers,71 - 65,0,N/A,1,N/A
+26,Lonzo Ball,DEFENSIVE_REBOUND,None,8:31,3,Lakers,Knicks,71 - 65,1,N/A,N/A,N/A
+27,Brandon Ingram,FG_UNASSISTED,None,8:24,3,Lakers,Knicks,71 - 67,1,0,2,Layup
+28,Kevin Knox,FOUL_ON_FLOOR,None,8:24,3,Knicks,Lakers,71 - 67,0,N/A,N/A,N/A
+29,Brandon Ingram,FT,None,8:24,3,Lakers,Knicks,71 - 68,1,N/A,1,N/A
+30,Emmanuel Mudiay,FG_UNASSISTED,None,8:16,3,Knicks,Lakers,73 - 68,0,0,2,Layup
+31,Brandon Ingram,FOUL_ON_FLOOR,None,8:16,3,Lakers,Knicks,73 - 68,1,N/A,N/A,N/A
+32,Emmanuel Mudiay,FT,None,8:16,3,Knicks,Lakers,74 - 68,0,N/A,1,N/A
+33,Brandon Ingram,FG_MISS,None,8:02,3,Lakers,Knicks,74 - 68,1,25,3,Jumper
+34,JaVale McGee,OFFENSIVE_REBOUND,None,7:58,3,Lakers,Knicks,74 - 68,1,N/A,N/A,N/A
+35,Michael Beasley,FG_MISS,None,7:53,3,Lakers,Knicks,74 - 68,1,2,2,Jumper
+36,JaVale McGee,OFFENSIVE_REBOUND,None,7:49,3,Lakers,Knicks,74 - 68,1,N/A,N/A,N/A
+37,JaVale McGee,FG_MISS,None,7:49,3,Lakers,Knicks,74 - 68,1, ,2,Jumper
+38,Luke Kornet,DEFENSIVE_REBOUND,None,7:47,3,Knicks,Lakers,74 - 68,0,N/A,N/A,N/A
+39,Lonzo Ball,FOUL_ON_FLOOR,None,7:45,3,Lakers,Knicks,74 - 68,1,N/A,N/A,N/A
+40,Emmanuel Mudiay,FT,None,7:45,3,Knicks,Lakers,75 - 68,0,N/A,1,N/A
+41,Josh Hart,SUBSTITUTION,Beasley Michael,7:45,3,Lakers,Knicks,75 - 68,1,N/A,N/A,N/A
+42,Emmanuel Mudiay,FT,None,7:45,3,Knicks,Lakers,76 - 68,0,N/A,1,N/A
+43,Kentavious Caldwell-Pope,FG_ASSISTED,Brandon Ingram,7:35,3,Lakers,Knicks,76 - 71,1,26,3,Jumper
+44,Tim Hardaway,FG_MISS,None,7:16,3,Knicks,Lakers,76 - 71,0,26,3,Jumper
+45,Noah Vonleh,OFFENSIVE_REBOUND,None,7:14,3,Knicks,Lakers,76 - 71,0,N/A,N/A,N/A
+46,Kevin Knox,FG_MISS,None,7:10,3,Knicks,Lakers,76 - 71,0,0,2,Layup
+47,Josh Hart,DEFENSIVE_REBOUND,None,7:08,3,Lakers,Knicks,76 - 71,1,N/A,N/A,N/A
+48,Noah Vonleh,FOUL_ON_FLOOR,None,7:01,3,Knicks,Lakers,76 - 71,0,N/A,N/A,N/A
+49,Brandon Ingram,FT,None,7:01,3,Lakers,Knicks,76 - 72,1,N/A,1,N/A
+50,Lance Stephenson,SUBSTITUTION,Ball Lonzo,7:01,3,Lakers,Knicks,76 - 72,1,N/A,N/A,N/A
+51,Brandon Ingram,FT,None,7:01,3,Lakers,Knicks,76 - 73,1,N/A,1,N/A
+52,Luke Kornet,FG_ASSISTED,Kevin Knox,6:49,3,Knicks,Lakers,79 - 73,0,26,3,Jumper
+53,Brandon Ingram,FG_MISS,None,6:41,3,Lakers,Knicks,79 - 73,1, ,2,Jumper
+54,JaVale McGee,OFFENSIVE_REBOUND,None,6:37,3,Lakers,Knicks,79 - 73,1,N/A,N/A,N/A
+55,Josh Hart,FG_MISS,None,6:33,3,Lakers,Knicks,79 - 73,1,26,3,Jumper
+56,Noah Vonleh,DEFENSIVE_REBOUND,None,6:31,3,Knicks,Lakers,79 - 73,0,N/A,N/A,N/A
+57,Noah Vonleh,FG_MISS,None,6:23,3,Knicks,Lakers,79 - 73,0,0,2,Layup
+58,Noah Vonleh,OFFENSIVE_REBOUND,None,6:20,3,Knicks,Lakers,79 - 73,0,N/A,N/A,N/A
+59,Kevin Knox,FG_MISS,None,6:18,3,Knicks,Lakers,79 - 73,0,27,3,Jumper
+60,Josh Hart,DEFENSIVE_REBOUND,None,6:15,3,Lakers,Knicks,79 - 73,1,N/A,N/A,N/A
+61,JaVale McGee,FG_ASSISTED,Lance Stephenson,5:57,3,Lakers,Knicks,79 - 75,1,2,2,Jumper
+62,Lance Stephenson,FOUL_ON_FLOOR,None,5:49,3,Lakers,Knicks,79 - 75,1,N/A,N/A,N/A
+63,Team,Unknown,None,5:49,3,Lakers,Knicks,79 - 75,1,N/A,N/A,N/A
+64,Damyean Dotson,SUBSTITUTION,Vonleh Noah,5:49,3,Knicks,Lakers,79 - 75,0,N/A,N/A,N/A
+65,Emmanuel Mudiay,FT,None,5:49,3,Knicks,Lakers,80 - 75,0,N/A,1,N/A
+66,Emmanuel Mudiay,FT,None,5:49,3,Knicks,Lakers,81 - 75,0,N/A,1,N/A
+67,JaVale McGee,FG_ASSISTED,Kentavious Caldwell-Pope,5:25,3,Lakers,Knicks,81 - 77,1,4,2,Jumper
+68,Luke Kornet,FG_MISS,None,5:10,3,Knicks,Lakers,81 - 77,0,27,3,Jumper
+69,JaVale McGee,DEFENSIVE_REBOUND,None,5:08,3,Lakers,Knicks,81 - 77,1,N/A,N/A,N/A
+70,Kentavious Caldwell-Pope,FG_MISS,None,4:58,3,Lakers,Knicks,81 - 77,1,27,3,Jumper
+71,Luke Kornet,DEFENSIVE_REBOUND,None,4:56,3,Knicks,Lakers,81 - 77,0,N/A,N/A,N/A
+72,Damyean Dotson,FG_ASSISTED,Emmanuel Mudiay,4:49,3,Knicks,Lakers,83 - 77,0,2,2,Jumper
+73,JaVale McGee,FG_ASSISTED,Lance Stephenson,4:36,3,Lakers,Knicks,83 - 79,1, ,2,Jumper
+74,Damyean Dotson,FG_MISS,None,4:17,3,Knicks,Lakers,83 - 79,0,26,3,Jumper
+75,Kentavious Caldwell-Pope,DEFENSIVE_REBOUND,None,4:13,3,Lakers,Knicks,83 - 79,1,N/A,N/A,N/A
+76,JaVale McGee,FG_ASSISTED,Lance Stephenson,4:03,3,Lakers,Knicks,83 - 81,1, ,2,Jumper
+77,Team,Unknown,None,3:57,3,Knicks,Lakers,83 - 81,0,N/A,N/A,N/A
+78,Sviatoslav Mykhailiuk,SUBSTITUTION,Caldwell-Pope Kentavious,3:57,3,Lakers,Knicks,83 - 81,1,N/A,N/A,N/A
+79,Ivica Zubac,SUBSTITUTION,McGee JaVale,3:57,3,Lakers,Knicks,83 - 81,1,N/A,N/A,N/A
+80,Enes Kanter,SUBSTITUTION,Kornet Luke,3:57,3,Knicks,Lakers,83 - 81,0,N/A,N/A,N/A
+81,Josh Hart,FOUL_ON_FLOOR,None,3:46,3,Lakers,Knicks,83 - 81,1,N/A,N/A,N/A
+82,Enes Kanter,FT_MISS,None,3:46,3,Knicks,Lakers,83 - 81,0,N/A,1,N/A
+83,Team,OFFENSIVE_REBOUND,None,3:46,3,Knicks,Lakers,83 - 81,0,N/A,N/A,N/A
+84,Enes Kanter,FT,None,3:46,3,Knicks,Lakers,84 - 81,0,N/A,1,N/A
+85,Ivica Zubac,FG_ASSISTED,Lance Stephenson,3:33,3,Lakers,Knicks,84 - 83,1,0,2,Layup
+86,Tim Hardaway,FG_MISS,Ivica Zubac,3:20,3,Lakers,Knicks,84 - 83,0,0,2,Layup
+87,Brandon Ingram,DEFENSIVE_REBOUND,None,3:17,3,Lakers,Knicks,84 - 83,1,N/A,N/A,N/A
+88,Brandon Ingram,FG_UNASSISTED,None,3:15,3,Lakers,Knicks,84 - 85,1, ,2,Jumper
+89,Emmanuel Mudiay,FG_MISS,None,2:48,3,Knicks,Lakers,84 - 85,0,28,3,Jumper
+90,Josh Hart,DEFENSIVE_REBOUND,None,2:44,3,Lakers,Knicks,84 - 85,1,N/A,N/A,N/A
+91,Sviatoslav Mykhailiuk,FG_ASSISTED,Josh Hart,2:40,3,Lakers,Knicks,84 - 88,1,26,3,Jumper
+92,Team,Unknown,None,2:39,3,Knicks,Lakers,84 - 88,0,N/A,N/A,N/A
+93,Kevin Knox,FG_MISS,None,2:29,3,Knicks,Lakers,84 - 88,0,9,2,Jumper
+94,Team,DEFENSIVE_REBOUND,None,2:28,3,Lakers,Knicks,84 - 88,1,N/A,N/A,N/A
+95,Kevin Knox,FOUL_ON_FLOOR,None,2:28,3,Knicks,Lakers,84 - 88,0,N/A,N/A,N/A
+96,Lance Stephenson,FG_MISS,None,2:16,3,Lakers,Knicks,84 - 88,1,25,3,Jumper
+97,Emmanuel Mudiay,DEFENSIVE_REBOUND,None,2:12,3,Knicks,Lakers,84 - 88,0,N/A,N/A,N/A
+98,Emmanuel Mudiay,FG_UNASSISTED,None,2:09,3,Knicks,Lakers,86 - 88,0, ,2,Jumper
+99,Ivica Zubac,TURNOVER,None,1:47,3,Lakers,Knicks,86 - 88,1,N/A,N/A,N/A
+100,Emmanuel Mudiay,FG_MISS,None,1:30,3,Knicks,Lakers,86 - 88,0,26,3,Jumper
+101,Team,DEFENSIVE_REBOUND,None,1:30,3,Lakers,Knicks,86 - 88,1,N/A,N/A,N/A
+102,Kevin Knox,FOUL_ON_FLOOR,None,1:30,3,Knicks,Lakers,86 - 88,0,N/A,N/A,N/A
+103,Mario Hezonja,SUBSTITUTION,Knox Kevin,1:30,3,Knicks,Lakers,86 - 88,0,N/A,N/A,N/A
+104,Ivica Zubac,FG_ASSISTED,Lance Stephenson,1:15,3,Lakers,Knicks,86 - 90,1,0,2,Dunk
+105,Enes Kanter,FG_MISS,None,47.3,3,Knicks,Lakers,86 - 90,0,11,2,Jumper
+106,Brandon Ingram,DEFENSIVE_REBOUND,None,44.4,3,Lakers,Knicks,86 - 90,1,N/A,N/A,N/A
+107,Lance Stephenson,FG_MISS,Enes Kanter,38.3,3,Knicks,Lakers,86 - 90,1,0,2,Layup
+108,Enes Kanter,DEFENSIVE_REBOUND,None,34.9,3,Knicks,Lakers,86 - 90,0,N/A,N/A,N/A
+109,Damyean Dotson,FG_MISS,None,22.6,3,Knicks,Lakers,86 - 90,0,26,3,Jumper
+110,Enes Kanter,OFFENSIVE_REBOUND,None,15.5,3,Knicks,Lakers,86 - 90,0,N/A,N/A,N/A
+111,Enes Kanter,FG_MISS,None,15.5,3,Knicks,Lakers,86 - 90,0, ,2,Jumper
+112,Lance Stephenson,DEFENSIVE_REBOUND,None,15.1,3,Lakers,Knicks,86 - 90,1,N/A,N/A,N/A
+113,Brandon Ingram,FG_UNASSISTED,None,2.6,3,Lakers,Knicks,86 - 92,1,19,2,Jumper
+114,End of,Unknown,None,0.0,3,Lakers,Knicks,86 - 92,1,N/A,N/A,N/A
+0,Lonzo Ball,SUBSTITUTION,Ingram Brandon,12:00,4,Lakers,Knicks,86 - 92,1,N/A,N/A,N/A
+1,Trey Burke,SUBSTITUTION,Mudiay Emmanuel,12:00,4,Knicks,Lakers,86 - 92,0,N/A,N/A,N/A
+2,Allonzo Trier,SUBSTITUTION,Hardaway Tim,12:00,4,Knicks,Lakers,86 - 92,0,N/A,N/A,N/A
+3,Sviatoslav Mykhailiuk,FG_MISS,None,11:39,4,Lakers,Knicks,86 - 92,1,27,3,Jumper
+4,Enes Kanter,DEFENSIVE_REBOUND,None,11:35,4,Knicks,Lakers,86 - 92,0,N/A,N/A,N/A
+5,Josh Hart,FOUL_ON_FLOOR,None,11:21,4,Lakers,Knicks,86 - 92,1,N/A,N/A,N/A
+6,Trey Burke,FT,None,11:21,4,Knicks,Lakers,87 - 92,0,N/A,1,N/A
+7,Trey Burke,FT,None,11:21,4,Knicks,Lakers,88 - 92,0,N/A,1,N/A
+8,Lance Stephenson,FG_MISS,None,11:06,4,Lakers,Knicks,88 - 92,1,0,2,Layup
+9,Enes Kanter,DEFENSIVE_REBOUND,None,11:03,4,Knicks,Lakers,88 - 92,0,N/A,N/A,N/A
+10,Mario Hezonja,FG_ASSISTED,Enes Kanter,10:59,4,Knicks,Lakers,90 - 92,0, ,2,Jumper
+11,Team,Unknown,None,10:59,4,Lakers,Knicks,88 - 92,1,N/A,N/A,N/A
+12,Tyson Chandler,SUBSTITUTION,Zubac Ivica,10:59,4,Lakers,Knicks,90 - 92,1,N/A,N/A,N/A
+13,Sviatoslav Mykhailiuk,FG_MISS,None,10:47,4,Lakers,Knicks,90 - 92,1,28,3,Jumper
+14,Tyson Chandler,OFFENSIVE_REBOUND,None,10:45,4,Lakers,Knicks,90 - 92,1,N/A,N/A,N/A
+15,Sviatoslav Mykhailiuk,FG_MISS,None,10:43,4,Lakers,Knicks,90 - 92,1,26,3,Jumper
+16,Mario Hezonja,DEFENSIVE_REBOUND,None,10:40,4,Knicks,Lakers,90 - 92,0,N/A,N/A,N/A
+17,Lonzo Ball,FOUL_ON_FLOOR,None,10:30,4,Lakers,Knicks,90 - 92,1,N/A,N/A,N/A
+18,Mario Hezonja,FT_MISS,None,10:30,4,Knicks,Lakers,90 - 92,0,N/A,1,N/A
+19,Team,OFFENSIVE_REBOUND,None,10:30,4,Knicks,Lakers,90 - 92,0,N/A,N/A,N/A
+20,Kentavious Caldwell-Pope,SUBSTITUTION,Mykhailiuk Sviatoslav,10:30,4,Lakers,Knicks,90 - 92,1,N/A,N/A,N/A
+21,Mario Hezonja,FT,None,10:30,4,Knicks,Lakers,91 - 92,0,N/A,1,N/A
+22,Josh Hart,FG_ASSISTED,Lonzo Ball,10:12,4,Lakers,Knicks,91 - 95,1,28,3,Jumper
+23,Lance Stephenson,FOUL_ON_FLOOR,None,9:56,4,Lakers,Knicks,91 - 95,1,N/A,N/A,N/A
+24,Mario Hezonja,FG_ASSISTED,Damyean Dotson,9:50,4,Knicks,Lakers,94 - 95,0,27,3,Jumper
+25,Lance Stephenson,FG_UNASSISTED,None,9:36,4,Lakers,Knicks,94 - 97,1,0,2,Layup
+26,Allonzo Trier,FOUL_ON_FLOOR,None,9:36,4,Knicks,Lakers,94 - 97,0,N/A,N/A,N/A
+27,Lance Stephenson,FT_MISS,None,9:36,4,Lakers,Knicks,94 - 97,1,N/A,1,N/A
+28,Damyean Dotson,DEFENSIVE_REBOUND,None,9:33,4,Knicks,Lakers,94 - 97,0,N/A,N/A,N/A
+29,Trey Burke,FG_ASSISTED,Enes Kanter,9:19,4,Knicks,Lakers,96 - 97,0,15,2,Jumper
+30,Josh Hart,FG_MISS,None,9:06,4,Lakers,Knicks,96 - 97,1,25,3,Jumper
+31,Allonzo Trier,DEFENSIVE_REBOUND,None,9:02,4,Knicks,Lakers,96 - 97,0,N/A,N/A,N/A
+32,Enes Kanter,FG_MISS,None,8:56,4,Knicks,Lakers,96 - 97,0,14,2,Jumper
+33,Tyson Chandler,DEFENSIVE_REBOUND,None,8:54,4,Lakers,Knicks,96 - 97,1,N/A,N/A,N/A
+34,Josh Hart,FG_MISS,None,8:47,4,Lakers,Knicks,96 - 97,1, ,3,Jumper
+35,Enes Kanter,JUMP_BALL,None,8:42,4,Lakers,Knicks,96 - 97,1,N/A,N/A,N/A
+36,Team,OFFENSIVE_REBOUND,None,8:42,4,Lakers,Knicks,96 - 97,1,N/A,N/A,N/A
+37,Kentavious Caldwell-Pope,FG_MISS,None,8:38,4,Lakers,Knicks,96 - 97,1,27,3,Jumper
+38,Allonzo Trier,DEFENSIVE_REBOUND,None,8:35,4,Knicks,Lakers,96 - 97,0,N/A,N/A,N/A
+39,Lance Stephenson,FOUL_ON_FLOOR,None,8:31,4,Lakers,Knicks,96 - 97,1,N/A,N/A,N/A
+40,Mario Hezonja,FT_MISS,None,8:31,4,Knicks,Lakers,96 - 97,0,N/A,1,N/A
+41,Team,OFFENSIVE_REBOUND,None,8:31,4,Knicks,Lakers,96 - 97,0,N/A,N/A,N/A
+42,Emmanuel Mudiay,SUBSTITUTION,Trier Allonzo,8:31,4,Knicks,Lakers,96 - 97,0,N/A,N/A,N/A
+43,Mario Hezonja,FT,None,8:31,4,Knicks,Lakers,97 - 97,0,N/A,1,N/A
+44,Lance Stephenson,FG_UNASSISTED,None,8:15,4,Lakers,Knicks,97 - 99,1,0,2,Layup
+45,Trey Burke,FG_MISS,None,7:59,4,Knicks,Lakers,97 - 99,0,21,2,Jumper
+46,Josh Hart,DEFENSIVE_REBOUND,None,7:57,4,Lakers,Knicks,97 - 99,1,N/A,N/A,N/A
+47,Kentavious Caldwell-Pope,FG_MISS,None,7:48,4,Lakers,Knicks,97 - 99,1,26,3,Jumper
+48,Enes Kanter,DEFENSIVE_REBOUND,None,7:46,4,Knicks,Lakers,97 - 99,0,N/A,N/A,N/A
+49,Kentavious Caldwell-Pope,FOUL_ON_FLOOR,None,7:42,4,Lakers,Knicks,97 - 99,1,N/A,N/A,N/A
+50,Damyean Dotson,FT,None,7:42,4,Knicks,Lakers,98 - 99,0,N/A,1,N/A
+51,Brandon Ingram,SUBSTITUTION,Hart Josh,7:42,4,Lakers,Knicks,98 - 99,1,N/A,N/A,N/A
+52,Tim Hardaway,SUBSTITUTION,Burke Trey,7:42,4,Knicks,Lakers,98 - 99,0,N/A,N/A,N/A
+53,Damyean Dotson,FT,None,7:42,4,Knicks,Lakers,99 - 99,0,N/A,1,N/A
+54,Lance Stephenson,TURNOVER,Damyean Dotson,7:23,4,Lakers,Knicks,99 - 99,1,N/A,N/A,N/A
+55,Tyson Chandler,FOUL_ON_FLOOR,None,7:14,4,Lakers,Knicks,99 - 99,1,N/A,N/A,N/A
+56,Enes Kanter,FT,None,7:14,4,Knicks,Lakers,100 - 99,0,N/A,1,N/A
+57,Enes Kanter,FT,None,7:14,4,Knicks,Lakers,101 - 99,0,N/A,1,N/A
+58,Lonzo Ball,FG_ASSISTED,Kentavious Caldwell-Pope,6:56,4,Lakers,Knicks,101 - 102,1,25,2,Jumper
+59,Mario Hezonja,FG_MISS,None,6:41,4,Knicks,Lakers,101 - 102,0,27,3,Jumper
+60,Enes Kanter,OFFENSIVE_REBOUND,None,6:36,4,Knicks,Lakers,101 - 102,0,N/A,N/A,N/A
+61,Damyean Dotson,FG_MISS,None,6:27,4,Knicks,Lakers,101 - 102,0,26,3,Jumper
+62,Team,OFFENSIVE_REBOUND,None,6:27,4,Knicks,Lakers,101 - 102,0,N/A,N/A,N/A
+63,JaVale McGee,SUBSTITUTION,Chandler Tyson,6:27,4,Lakers,Knicks,101 - 102,1,N/A,N/A,N/A
+64,Kentavious Caldwell-Pope,FOUL_ON_FLOOR,None,6:16,4,Lakers,Knicks,101 - 102,1,N/A,N/A,N/A
+65,Team,Unknown,None,6:16,4,Lakers,Knicks,101 - 102,1,N/A,N/A,N/A
+66,Emmanuel Mudiay,FT_MISS,None,6:16,4,Knicks,Lakers,101 - 102,0,N/A,1,N/A
+67,Team,OFFENSIVE_REBOUND,None,6:16,4,Knicks,Lakers,101 - 102,0,N/A,N/A,N/A
+68,Team,Unknown,None,6:16,4,Knicks,Lakers,101 - 102,0,N/A,N/A,N/A
+69,Kevin Knox,SUBSTITUTION,Dotson Damyean,6:16,4,Knicks,Lakers,101 - 102,0,N/A,N/A,N/A
+70,Emmanuel Mudiay,FT,None,6:16,4,Knicks,Lakers,102 - 102,0,N/A,1,N/A
+71,Brandon Ingram,FG_MISS,Mario Hezonja,6:03,4,Knicks,Lakers,102 - 102,1,6,2,Jumper
+72,Tim Hardaway,DEFENSIVE_REBOUND,None,6:00,4,Knicks,Lakers,102 - 102,0,N/A,N/A,N/A
+73,Tim Hardaway,FG_MISS,None,5:56,4,Knicks,Lakers,102 - 102,0,1,2,Jumper
+74,Enes Kanter,OFFENSIVE_REBOUND,None,5:56,4,Knicks,Lakers,102 - 102,0,N/A,N/A,N/A
+75,Enes Kanter,FG_UNASSISTED,None,5:53,4,Knicks,Lakers,104 - 102,0,1,2,Jumper
+76,JaVale McGee,TURNOVER,None,5:42,4,Lakers,Knicks,104 - 102,1,N/A,N/A,N/A
+77,JaVale McGee,TURNOVER,None,5:42,4,Lakers,Knicks,104 - 102,1,N/A,N/A,N/A
+78,Enes Kanter,FOUL_ON_FLOOR,None,5:34,4,Knicks,Lakers,104 - 102,0,N/A,N/A,N/A
+79,Enes Kanter,TURNOVER,None,5:34,4,Knicks,Lakers,104 - 102,0,N/A,N/A,N/A
+80,Brandon Ingram,FG_UNASSISTED,None,5:18,4,Lakers,Knicks,104 - 104,1,0,2,Layup
+81,Enes Kanter,FOUL_ON_FLOOR,None,5:18,4,Knicks,Lakers,104 - 104,0,N/A,N/A,N/A
+82,Brandon Ingram,FT,None,5:18,4,Lakers,Knicks,104 - 105,1,N/A,1,N/A
+83,Kentavious Caldwell-Pope,FOUL_ON_FLOOR,None,5:06,4,Lakers,Knicks,104 - 105,1,N/A,N/A,N/A
+84,Tim Hardaway,FT,None,5:06,4,Knicks,Lakers,105 - 105,0,N/A,1,N/A
+85,Tim Hardaway,FT,None,5:06,4,Knicks,Lakers,106 - 105,0,N/A,1,N/A
+86,Mario Hezonja,FOUL_ON_FLOOR,None,4:56,4,Knicks,Lakers,106 - 105,0,N/A,N/A,N/A
+87,Josh Hart,SUBSTITUTION,Caldwell-Pope Kentavious,4:56,4,Lakers,Knicks,106 - 105,1,N/A,N/A,N/A
+88,Lance Stephenson,FG_UNASSISTED,None,4:47,4,Lakers,Knicks,106 - 107,1,0,2,Layup
+89,Tim Hardaway,FG_MISS,None,4:34,4,Knicks,Lakers,106 - 107,0,18,2,Jumper
+90,Brandon Ingram,DEFENSIVE_REBOUND,None,4:31,4,Lakers,Knicks,106 - 107,1,N/A,N/A,N/A
+91,Brandon Ingram,FG_MISS,None,4:20,4,Lakers,Knicks,106 - 107,1,5,2,Jumper
+92,Emmanuel Mudiay,DEFENSIVE_REBOUND,None,4:17,4,Knicks,Lakers,106 - 107,0,N/A,N/A,N/A
+93,Mario Hezonja,FG_ASSISTED,Emmanuel Mudiay,4:13,4,Knicks,Lakers,108 - 107,0,1,2,Jumper
+94,JaVale McGee,FG_ASSISTED,Lonzo Ball,4:00,4,Lakers,Knicks,108 - 109,1,0,2,Layup
+95,JaVale McGee,FOUL_ON_FLOOR,None,3:45,4,Lakers,Knicks,108 - 109,1,N/A,N/A,N/A
+96,Kevin Knox,FT,None,3:45,4,Knicks,Lakers,109 - 109,0,N/A,1,N/A
+97,Kevin Knox,FT,None,3:45,4,Knicks,Lakers,110 - 109,0,N/A,1,N/A
+98,Brandon Ingram's,FG_MISS,Enes Kanter,3:31,4,Knicks,Lakers,110 - 109,1,0,2,Layup
+99,Kevin Knox,DEFENSIVE_REBOUND,None,3:28,4,Knicks,Lakers,110 - 109,0,N/A,N/A,N/A
+100,Lance Stephenson,FOUL_ON_FLOOR,None,3:28,4,Lakers,Knicks,110 - 109,1,N/A,N/A,N/A
+101,Tim Hardaway,FT,None,3:28,4,Knicks,Lakers,111 - 109,0,N/A,1,N/A
+102,Tim Hardaway,FT,None,3:28,4,Knicks,Lakers,112 - 109,0,N/A,1,N/A
+103,Josh Hart,FG_MISS,None,3:12,4,Lakers,Knicks,112 - 109,1,26,3,Jumper
+104,Enes Kanter,DEFENSIVE_REBOUND,None,3:08,4,Knicks,Lakers,112 - 109,0,N/A,N/A,N/A
+105,Tim Hardaway,FG_MISS,None,2:53,4,Knicks,Lakers,112 - 109,0,27,3,Jumper
+106,JaVale McGee,DEFENSIVE_REBOUND,None,2:51,4,Lakers,Knicks,112 - 109,1,N/A,N/A,N/A
+107,Lonzo Ball,FG_MISS,None,2:42,4,Lakers,Knicks,112 - 109,1,0,2,Layup
+108,Lonzo Ball,OFFENSIVE_REBOUND,None,2:38,4,Lakers,Knicks,112 - 109,1,N/A,N/A,N/A
+109,Lonzo Ball,FG_MISS,None,2:38,4,Lakers,Knicks,112 - 109,1,1,2,Jumper
+110,Emmanuel Mudiay,DEFENSIVE_REBOUND,None,2:37,4,Knicks,Lakers,112 - 109,0,N/A,N/A,N/A
+111,Emmanuel Mudiay,FG_MISS,None,2:34,4,Knicks,Lakers,112 - 109,0,1,2,Jumper
+112,Brandon Ingram,DEFENSIVE_REBOUND,None,2:32,4,Lakers,Knicks,112 - 109,1,N/A,N/A,N/A
+113,Brandon Ingram,TURNOVER,None,2:28,4,Lakers,Knicks,112 - 109,1,N/A,N/A,N/A
+114,Team,Unknown,None,2:28,4,Knicks,Lakers,112 - 109,0,N/A,N/A,N/A
+115,Kentavious Caldwell-Pope,SUBSTITUTION,Stephenson Lance,2:28,4,Lakers,Knicks,112 - 109,1,N/A,N/A,N/A
+116,Emmanuel Mudiay,FG_MISS,None,2:12,4,Knicks,Lakers,112 - 109,0,27,2,Jumper
+117,Brandon Ingram,DEFENSIVE_REBOUND,None,2:10,4,Lakers,Knicks,112 - 109,1,N/A,N/A,N/A
+118,Brandon Ingram,FG_MISS,None,1:56,4,Lakers,Knicks,112 - 109,1,4,2,Jumper
+119,Team,DEFENSIVE_REBOUND,None,1:56,4,Knicks,Lakers,112 - 109,0,N/A,N/A,N/A
+120,Kevin Knox,FG_ASSISTED,Enes Kanter,1:40,4,Knicks,Lakers,114 - 109,0,1,2,Jumper
+121,Team,Unknown,None,1:40,4,Lakers,Knicks,114 - 109,1,N/A,N/A,N/A
+122,5 second,Unknown,None,1:40,4,Lakers,Knicks,114 - 109,1,N/A,N/A,N/A
+123,Mario Hezonja,TURNOVER,None,1:29,4,Knicks,Lakers,114 - 109,0,N/A,N/A,N/A
+124,JaVale McGee,FG_MISS,None,1:17,4,Lakers,Knicks,114 - 109,1,4,2,Jumper
+125,Josh Hart,OFFENSIVE_REBOUND,None,1:14,4,Lakers,Knicks,114 - 109,1,N/A,N/A,N/A
+126,Lonzo Ball,FG_ASSISTED,Josh Hart,1:13,4,Lakers,Knicks,114 - 112,1,27,3,Jumper
+127,Enes Kanter,FG_ASSISTED,Mario Hezonja,55.5,4,Knicks,Lakers,116 - 112,0,0,2,Layup
+128,JaVale McGee,Unknown,None,55.5,4,Lakers,Knicks,116 - 112,1,N/A,N/A,N/A
+129,Lonzo Ball,TURNOVER,Mario Hezonja,47.6,4,Lakers,Knicks,116 - 112,1,N/A,N/A,N/A
+130,Emmanuel Mudiay,FG_MISS,None,33.6,4,Knicks,Lakers,116 - 112,0,1,2,Jumper
+131,Enes Kanter,OFFENSIVE_REBOUND,None,33.6,4,Knicks,Lakers,116 - 112,0,N/A,N/A,N/A
+132,Enes Kanter,FG_UNASSISTED,None,33.6,4,Knicks,Lakers,118 - 112,0,1,2,Jumper
+133,Team,Unknown,None,33.6,4,Lakers,Knicks,118 - 112,1,N/A,N/A,N/A
+134,Tyson Chandler,SUBSTITUTION,McGee JaVale,33.6,4,Lakers,Knicks,118 - 112,1,N/A,N/A,N/A
+135,Josh Hart,FG_MISS,None,31.0,4,Lakers,Knicks,118 - 112,1,27,3,Jumper
+136,Lonzo Ball,OFFENSIVE_REBOUND,None,26.8,4,Lakers,Knicks,118 - 112,1,N/A,N/A,N/A
+137,Josh Hart,FG_MISS,None,24.6,4,Lakers,Knicks,118 - 112,1,28,3,Jumper
+138,Mario Hezonja,DEFENSIVE_REBOUND,None,22.4,4,Knicks,Lakers,118 - 112,0,N/A,N/A,N/A
+139,Josh Hart,FOUL_ON_FLOOR,None,20.6,4,Lakers,Knicks,118 - 112,1,N/A,N/A,N/A
+140,Mario Hezonja,FT_MISS,None,20.6,4,Knicks,Lakers,118 - 112,0,N/A,1,N/A
+141,Team,OFFENSIVE_REBOUND,None,20.6,4,Knicks,Lakers,118 - 112,0,N/A,N/A,N/A
+142,Mario Hezonja,FT,None,20.6,4,Knicks,Lakers,119 - 112,0,N/A,1,N/A
+143,Kentavious Caldwell-Pope,FG_MISS,None,17.3,4,Lakers,Knicks,119 - 112,1,26,3,Jumper
+144,Enes Kanter,DEFENSIVE_REBOUND,None,13.2,4,Knicks,Lakers,119 - 112,0,N/A,N/A,N/A
+145,End of,Unknown,None,0.0,4,Lakers,Knicks,119 - 112,1,N/A,N/A,N/A
+146,End of,Unknown,None,0.0,4,Lakers,Knicks,119 - 112,1,N/A,N/A,N/A

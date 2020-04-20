@@ -1,0 +1,471 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Al Horford,JUMP_BALL,None,12:00,1,Celtics,Magic,0 - 0,0,N/A,N/A,N/A
+1,Jayson Tatum,FG_MISS,Aaron Gordon,11:45,1,Magic,Celtics,0 - 0,0,0,2,Layup
+2,Jayson Tatum,OFFENSIVE_REBOUND,None,11:43,1,Celtics,Magic,0 - 0,0,N/A,N/A,N/A
+3,Aaron Gordon,FOUL_ON_FLOOR,None,11:43,1,Magic,Celtics,0 - 0,1,N/A,N/A,N/A
+4,Jayson Tatum,FT,None,11:43,1,Celtics,Magic,1 - 0,0,N/A,1,N/A
+5,Jayson Tatum,FT,None,11:43,1,Celtics,Magic,2 - 0,0,N/A,1,N/A
+6,Aaron Gordon,FG_MISS,None,11:24,1,Magic,Celtics,2 - 0,1,19,2,Jumper
+7,Kyrie Irving,DEFENSIVE_REBOUND,None,11:21,1,Celtics,Magic,2 - 0,0,N/A,N/A,N/A
+8,Kyrie Irving,FG_MISS,None,11:16,1,Celtics,Magic,2 - 0,0,26,3,Jumper
+9,Al Horford,OFFENSIVE_REBOUND,None,11:14,1,Celtics,Magic,2 - 0,0,N/A,N/A,N/A
+10,Marcus Morris,FG_ASSISTED,Al Horford,11:12,1,Celtics,Magic,5 - 0,0,27,3,Jumper
+11,Aaron Gordon,FOUL_ON_FLOOR,None,10:52,1,Magic,Celtics,5 - 0,1,N/A,N/A,N/A
+12,Aaron Gordon,TURNOVER,None,10:52,1,Magic,Celtics,5 - 0,1,N/A,N/A,N/A
+13,Jonathan Isaac,FOUL_ON_FLOOR,None,10:38,1,Magic,Celtics,5 - 0,1,N/A,N/A,N/A
+14,Marcus Morris,FT_MISS,None,10:38,1,Celtics,Magic,5 - 0,0,N/A,1,N/A
+15,Team,OFFENSIVE_REBOUND,None,10:38,1,Celtics,Magic,5 - 0,0,N/A,N/A,N/A
+16,Marcus Morris,FT_MISS,None,10:38,1,Celtics,Magic,5 - 0,0,N/A,1,N/A
+17,Jonathan Isaac,DEFENSIVE_REBOUND,None,10:36,1,Magic,Celtics,5 - 0,1,N/A,N/A,N/A
+18,Evan Fournier,FG_MISS,None,10:21,1,Magic,Celtics,5 - 0,1,24,3,Jumper
+19,Aaron Gordon,OFFENSIVE_REBOUND,None,10:16,1,Magic,Celtics,5 - 0,1,N/A,N/A,N/A
+20,Aaron Gordon,FG_UNASSISTED,None,10:16,1,Magic,Celtics,5 - 2,1,-,2,Jumper
+21,Jayson Tatum,FOUL_ON_FLOOR,None,10:05,1,Celtics,Magic,5 - 2,0,N/A,N/A,N/A
+22,Jayson Tatum,TURNOVER,None,10:05,1,Celtics,Magic,5 - 2,0,N/A,N/A,N/A
+23,Team,Unknown,None,10:05,1,Celtics,Magic,5 - 2,0,N/A,N/A,N/A
+24,Nikola Vucevic,FG_MISS,None,9:52,1,Magic,Celtics,5 - 2,1,-,2,Jumper
+25,Marcus Morris,DEFENSIVE_REBOUND,None,9:50,1,Celtics,Magic,5 - 2,0,N/A,N/A,N/A
+26,Kyrie Irving,FG_MISS,None,9:46,1,Celtics,Magic,5 - 2,0,12,2,Jumper
+27,Team,OFFENSIVE_REBOUND,None,9:43,1,Celtics,Magic,5 - 2,0,N/A,N/A,N/A
+28,Kyrie Irving,FG_MISS,None,9:36,1,Celtics,Magic,5 - 2,0,-,2,Jumper
+29,Nikola Vucevic,DEFENSIVE_REBOUND,None,9:33,1,Magic,Celtics,5 - 2,1,N/A,N/A,N/A
+30,Nikola Vucevic,FG_MISS,None,9:23,1,Magic,Celtics,5 - 2,1,11,2,Jumper
+31,Kyrie Irving,DEFENSIVE_REBOUND,None,9:20,1,Celtics,Magic,5 - 2,0,N/A,N/A,N/A
+32,Marcus Smart,FG_ASSISTED,Kyrie Irving,9:15,1,Celtics,Magic,8 - 2,0,-,3,Jumper
+33,Evan Fournier,FG_MISS,None,9:01,1,Magic,Celtics,8 - 2,1,26,3,Jumper
+34,Marcus Morris,DEFENSIVE_REBOUND,None,8:58,1,Celtics,Magic,8 - 2,0,N/A,N/A,N/A
+35,Jayson Tatum,FG_MISS,None,8:44,1,Celtics,Magic,8 - 2,0,26,3,Jumper
+36,Nikola Vucevic,DEFENSIVE_REBOUND,None,8:41,1,Magic,Celtics,8 - 2,1,N/A,N/A,N/A
+37,Jonathan Isaac,FG_ASSISTED,Nikola Vucevic,8:34,1,Magic,Celtics,8 - 5,1,26,3,Jumper
+38,Nikola Vucevic,Unknown,None,8:15,1,Magic,Celtics,8 - 5,1,N/A,N/A,N/A
+39,Al Horford,FG_ASSISTED,Marcus Smart,8:09,1,Celtics,Magic,10 - 5,0,17,2,Jumper
+40,Aaron Gordon,FG_MISS,None,7:55,1,Magic,Celtics,10 - 5,1,24,3,Jumper
+41,Team,OFFENSIVE_REBOUND,None,7:53,1,Magic,Celtics,10 - 5,1,N/A,N/A,N/A
+42,Nikola Vucevic,TURNOVER,Kyrie Irving,7:49,1,Magic,Celtics,10 - 5,1,N/A,N/A,N/A
+43,Jayson Tatum,FG_MISS,None,7:40,1,Celtics,Magic,10 - 5,0,26,3,Jumper
+44,Evan Fournier,DEFENSIVE_REBOUND,None,7:40,1,Magic,Celtics,10 - 5,1,N/A,N/A,N/A
+45,Evan Fournier,FG_MISS,None,7:14,1,Magic,Celtics,10 - 5,1,25,3,Jumper
+46,Marcus Smart,DEFENSIVE_REBOUND,None,7:09,1,Celtics,Magic,10 - 5,0,N/A,N/A,N/A
+47,Kyrie Irving,FG_UNASSISTED,None,7:04,1,Celtics,Magic,12 - 5,0,10,2,Jumper
+48,D.J. Augustin,FG_MISS,Jayson Tatum,6:52,1,Celtics,Magic,12 - 5,1,0,2,Layup
+49,Kyrie Irving,DEFENSIVE_REBOUND,None,6:49,1,Celtics,Magic,12 - 5,0,N/A,N/A,N/A
+50,Marcus Morris,FG_MISS,None,6:44,1,Celtics,Magic,12 - 5,0,25,3,Jumper
+51,Nikola Vucevic,DEFENSIVE_REBOUND,None,6:43,1,Magic,Celtics,12 - 5,1,N/A,N/A,N/A
+52,Aaron Gordon,FG_MISS,None,6:35,1,Magic,Celtics,12 - 5,1,26,3,Jumper
+53,Al Horford,DEFENSIVE_REBOUND,None,6:33,1,Celtics,Magic,12 - 5,0,N/A,N/A,N/A
+54,Jayson Tatum,FG_MISS,None,6:20,1,Celtics,Magic,12 - 5,0,17,2,Jumper
+55,Team,DEFENSIVE_REBOUND,None,6:19,1,Magic,Celtics,12 - 5,1,N/A,N/A,N/A
+56,Team,Unknown,None,6:19,1,Magic,Celtics,12 - 5,1,N/A,N/A,N/A
+57,Gordon Hayward,SUBSTITUTION,Tatum Jayson,6:19,1,Celtics,Magic,12 - 5,0,N/A,N/A,N/A
+58,Aaron Gordon,TURNOVER,None,6:06,1,Magic,Celtics,12 - 5,1,N/A,N/A,N/A
+59,Wesley Iwundu,SUBSTITUTION,Gordon Aaron,6:06,1,Magic,Celtics,12 - 5,1,N/A,N/A,N/A
+60,Kyrie Irving,FG_ASSISTED,Al Horford,5:53,1,Celtics,Magic,14 - 5,0,20,2,Jumper
+61,D.J. Augustin,FG_ASSISTED,Evan Fournier,5:34,1,Magic,Celtics,14 - 8,1,25,2,Jumper
+62,Al Horford,TURNOVER,None,5:18,1,Celtics,Magic,14 - 8,0,N/A,N/A,N/A
+63,D.J. Augustin,FG_MISS,None,5:03,1,Magic,Celtics,14 - 8,1,24,3,Jumper
+64,Jonathan Isaac,OFFENSIVE_REBOUND,None,5:02,1,Magic,Celtics,14 - 8,1,N/A,N/A,N/A
+65,Marcus Morris,FOUL_ON_FLOOR,None,5:02,1,Celtics,Magic,14 - 8,0,N/A,N/A,N/A
+66,Jonathan Isaac,FT,None,5:02,1,Magic,Celtics,14 - 9,1,N/A,1,N/A
+67,Jonathan Isaac,FT,None,5:02,1,Magic,Celtics,14 - 10,1,N/A,1,N/A
+68,Wesley Iwundu,FOUL_ON_FLOOR,None,4:46,1,Magic,Celtics,14 - 10,1,N/A,N/A,N/A
+69,Isaiah Briscoe,SUBSTITUTION,Augustin D.J.,4:46,1,Magic,Celtics,14 - 10,1,N/A,N/A,N/A
+70,Marcus Morris,FG_UNASSISTED,None,4:32,1,Celtics,Magic,16 - 10,0,9,2,Jumper
+71,Evan Fournier,FG_MISS,None,4:13,1,Magic,Celtics,16 - 10,1,26,3,Jumper
+72,Al Horford,DEFENSIVE_REBOUND,None,4:09,1,Celtics,Magic,16 - 10,0,N/A,N/A,N/A
+73,Marcus Smart,FG_UNASSISTED,None,4:05,1,Celtics,Magic,18 - 10,0, ,2,Jumper
+74,Wesley Iwundu,FG_MISS,None,3:47,1,Magic,Celtics,18 - 10,1,0,2,Layup
+75,Al Horford,DEFENSIVE_REBOUND,None,3:47,1,Celtics,Magic,18 - 10,0,N/A,N/A,N/A
+76,Marcus Morris,FG_MISS,None,3:41,1,Celtics,Magic,18 - 10,0,23,3,Jumper
+77,Nikola Vucevic,DEFENSIVE_REBOUND,None,3:38,1,Magic,Celtics,18 - 10,1,N/A,N/A,N/A
+78,Jonathan Isaac,FG_MISS,None,3:32,1,Magic,Celtics,18 - 10,1,26,3,Jumper
+79,Al Horford,DEFENSIVE_REBOUND,None,3:30,1,Celtics,Magic,18 - 10,0,N/A,N/A,N/A
+80,Isaiah Briscoe,FOUL_ON_FLOOR,None,3:16,1,Magic,Celtics,18 - 10,1,N/A,N/A,N/A
+81,Gordon Hayward,FT_MISS,None,3:16,1,Celtics,Magic,18 - 10,0,N/A,1,N/A
+82,Team,OFFENSIVE_REBOUND,None,3:16,1,Celtics,Magic,18 - 10,0,N/A,N/A,N/A
+83,Terrence Ross,SUBSTITUTION,Fournier Evan,3:16,1,Magic,Celtics,18 - 10,1,N/A,N/A,N/A
+84,Robert Williams,SUBSTITUTION,Irving Kyrie,3:16,1,Celtics,Magic,18 - 10,0,N/A,N/A,N/A
+85,Jaylen Brown,SUBSTITUTION,Smart Marcus,3:16,1,Celtics,Magic,18 - 10,0,N/A,N/A,N/A
+86,Terry Rozier,SUBSTITUTION,Horford Al,3:16,1,Celtics,Magic,18 - 10,0,N/A,N/A,N/A
+87,Gordon Hayward,FT_MISS,None,3:16,1,Celtics,Magic,18 - 10,0,N/A,1,N/A
+88,Jonathan Isaac,DEFENSIVE_REBOUND,None,3:14,1,Magic,Celtics,18 - 10,1,N/A,N/A,N/A
+89,Nikola Vucevic,FG_MISS,None,2:59,1,Magic,Celtics,18 - 10,1,0,2,Layup
+90,Team,DEFENSIVE_REBOUND,None,2:58,1,Celtics,Magic,18 - 10,0,N/A,N/A,N/A
+91,Team,Unknown,None,2:58,1,Celtics,Magic,18 - 10,0,N/A,N/A,N/A
+92,Aaron Gordon,SUBSTITUTION,Isaac Jonathan,2:58,1,Magic,Celtics,18 - 10,1,N/A,N/A,N/A
+93,Khem Birch,SUBSTITUTION,Vucevic Nikola,2:58,1,Magic,Celtics,18 - 10,1,N/A,N/A,N/A
+94,Terry Rozier,FG_MISS,None,2:41,1,Celtics,Magic,18 - 10,0,24,3,Jumper
+95,Terrence Ross,DEFENSIVE_REBOUND,None,2:38,1,Magic,Celtics,18 - 10,1,N/A,N/A,N/A
+96,Terrence Ross,FG_MISS,None,2:32,1,Magic,Celtics,18 - 10,1,19,2,Jumper
+97,Terry Rozier,DEFENSIVE_REBOUND,None,2:29,1,Celtics,Magic,18 - 10,0,N/A,N/A,N/A
+98,Jaylen Brown,FG_MISS,None,2:25,1,Celtics,Magic,18 - 10,0, ,2,Jumper
+99,Wesley Iwundu,DEFENSIVE_REBOUND,None,2:21,1,Magic,Celtics,18 - 10,1,N/A,N/A,N/A
+100,Aaron Gordon,FG_UNASSISTED,None,2:03,1,Magic,Celtics,18 - 12,1, ,2,Jumper
+101,Terry Rozier,FG_MISS,None,1:40,1,Celtics,Magic,18 - 12,0,22,2,Jumper
+102,Aaron Gordon,DEFENSIVE_REBOUND,None,1:37,1,Magic,Celtics,18 - 12,1,N/A,N/A,N/A
+103,Aaron Gordon,FG_UNASSISTED,None,1:32,1,Magic,Celtics,18 - 14,1,0,2,Layup
+104,Robert Williams,FOUL_ON_FLOOR,None,1:32,1,Celtics,Magic,18 - 14,0,N/A,N/A,N/A
+105,Jayson Tatum,SUBSTITUTION,Morris Marcus,1:32,1,Celtics,Magic,18 - 14,0,N/A,N/A,N/A
+106,Aaron Gordon,FT,None,1:32,1,Magic,Celtics,18 - 15,1,N/A,1,N/A
+107,Gordon Hayward,FG_MISS,None,1:16,1,Celtics,Magic,18 - 15,0,26,3,Jumper
+108,Khem Birch,DEFENSIVE_REBOUND,None,1:16,1,Magic,Celtics,18 - 15,1,N/A,N/A,N/A
+109,Robert Williams,FOUL_ON_FLOOR,None,1:09,1,Celtics,Magic,18 - 15,0,N/A,N/A,N/A
+110,Aaron Gordon,FT,None,1:09,1,Magic,Celtics,18 - 16,1,N/A,1,N/A
+111,Daniel Theis,SUBSTITUTION,Williams Robert,1:09,1,Celtics,Magic,18 - 16,0,N/A,N/A,N/A
+112,Aaron Gordon,FT,None,1:09,1,Magic,Celtics,18 - 17,1,N/A,1,N/A
+113,Wesley Iwundu,FOUL_ON_FLOOR,None,58.1,1,Magic,Celtics,18 - 17,1,N/A,N/A,N/A
+114,Jayson Tatum,FT_MISS,None,58.1,1,Celtics,Magic,18 - 17,0,N/A,1,N/A
+115,Team,OFFENSIVE_REBOUND,None,58.1,1,Celtics,Magic,18 - 17,0,N/A,N/A,N/A
+116,Jayson Tatum,FT,None,58.1,1,Celtics,Magic,19 - 17,0,N/A,1,N/A
+117,Jayson Tatum,FOUL_ON_FLOOR,None,50.1,1,Celtics,Magic,19 - 17,0,N/A,N/A,N/A
+118,Aaron Gordon,FT,None,50.1,1,Magic,Celtics,19 - 18,1,N/A,1,N/A
+119,Aaron Gordon,FT,None,50.1,1,Magic,Celtics,19 - 19,1,N/A,1,N/A
+120,Jayson Tatum,FG_MISS,None,32.6,1,Celtics,Magic,19 - 19,0,10,2,Jumper
+121,Khem Birch,DEFENSIVE_REBOUND,None,29.8,1,Magic,Celtics,19 - 19,1,N/A,N/A,N/A
+122,Wesley Iwundu,TURNOVER,None,15.0,1,Magic,Celtics,19 - 19,1,N/A,N/A,N/A
+123,Gordon Hayward,FG_MISS,None,4.8,1,Celtics,Magic,19 - 19,0,27,3,Jumper
+124,Aaron Gordon,DEFENSIVE_REBOUND,None,1.6,1,Magic,Celtics,19 - 19,1,N/A,N/A,N/A
+125,Aaron Gordon,FG_MISS,None,0.0,1,Magic,Celtics,19 - 19,1,55,3,Jumper
+126,Team,OFFENSIVE_REBOUND,None,0.0,1,Magic,Celtics,19 - 19,1,N/A,N/A,N/A
+127,End of,Unknown,None,0.0,1,Magic,Celtics,19 - 19,1,N/A,N/A,N/A
+0,Evan Fournier,SUBSTITUTION,Iwundu Wesley,12:00,2,Magic,Celtics,19 - 19,1,N/A,N/A,N/A
+1,Jaylen Brown,FOUL_ON_FLOOR,None,11:48,2,Celtics,Magic,19 - 19,0,N/A,N/A,N/A
+2,Aaron Gordon,FG_UNASSISTED,None,11:35,2,Magic,Celtics,19 - 21,1,13,2,Jumper
+3,Jaylen Brown,FG_MISS,None,11:13,2,Celtics,Magic,19 - 21,0,12,2,Jumper
+4,Khem Birch,DEFENSIVE_REBOUND,None,11:10,2,Magic,Celtics,19 - 21,1,N/A,N/A,N/A
+5,Terrence Ross,FG_ASSISTED,Evan Fournier,10:58,2,Magic,Celtics,19 - 24,1,26,3,Jumper
+6,Daniel Theis,FOUL_ON_FLOOR,None,10:58,2,Celtics,Magic,19 - 24,0,N/A,N/A,N/A
+7,Terrence Ross,FT,None,10:58,2,Magic,Celtics,19 - 25,1,N/A,1,N/A
+8,Terry Rozier,FG_MISS,None,10:46,2,Celtics,Magic,19 - 25,0,12,2,Jumper
+9,Evan Fournier,DEFENSIVE_REBOUND,None,10:43,2,Magic,Celtics,19 - 25,1,N/A,N/A,N/A
+10,Aaron Gordon,FG_MISS,None,10:36,2,Magic,Celtics,19 - 25,1, ,2,Jumper
+11,Khem Birch,OFFENSIVE_REBOUND,None,10:36,2,Magic,Celtics,19 - 25,1,N/A,N/A,N/A
+12,Khem Birch,FG_UNASSISTED,None,10:36,2,Magic,Celtics,19 - 27,1,0,2,Dunk
+13,Team,Unknown,None,10:36,2,Celtics,Magic,19 - 27,0,N/A,N/A,N/A
+14,Jayson Tatum,FG_ASSISTED,Daniel Theis,10:21,2,Celtics,Magic,21 - 27,0,16,2,Jumper
+15,Khem Birch,FG_UNASSISTED,None,9:59,2,Magic,Celtics,21 - 29,1,8,2,Jumper
+16,Gordon Hayward,FG_MISS,None,9:49,2,Celtics,Magic,21 - 29,0,0,2,Layup
+17,Gordon Hayward,OFFENSIVE_REBOUND,None,9:47,2,Celtics,Magic,21 - 29,0,N/A,N/A,N/A
+18,Gordon Hayward,FG_UNASSISTED,None,9:46,2,Celtics,Magic,23 - 29,0,3,2,Jumper
+19,Aaron Gordon,TURNOVER,Jayson Tatum,9:34,2,Magic,Celtics,23 - 29,1,N/A,N/A,N/A
+20,Terrence Ross,Unknown,None,9:33,2,Magic,Celtics,23 - 29,1,N/A,N/A,N/A
+21,Daniel Theis,FG_MISS,None,9:27,2,Celtics,Magic,23 - 29,0,25,3,Jumper
+22,Aaron Gordon,DEFENSIVE_REBOUND,None,9:22,2,Magic,Celtics,23 - 29,1,N/A,N/A,N/A
+23,Aaron Gordon,TURNOVER,None,9:14,2,Magic,Celtics,23 - 29,1,N/A,N/A,N/A
+24,Daniel Theis,FG_MISS,Khem Birch,9:00,2,Magic,Celtics,23 - 29,0,0,2,Layup
+25,Khem Birch,DEFENSIVE_REBOUND,None,8:57,2,Magic,Celtics,23 - 29,1,N/A,N/A,N/A
+26,Isaiah Briscoe,FG_MISS,None,8:45,2,Magic,Celtics,23 - 29,1,0,2,Layup
+27,Terry Rozier,DEFENSIVE_REBOUND,None,8:42,2,Celtics,Magic,23 - 29,0,N/A,N/A,N/A
+28,Khem Birch,FOUL_ON_FLOOR,None,8:38,2,Magic,Celtics,23 - 29,1,N/A,N/A,N/A
+29,Gordon Hayward,FT_MISS,None,8:38,2,Celtics,Magic,23 - 29,0,N/A,1,N/A
+30,Team,OFFENSIVE_REBOUND,None,8:38,2,Celtics,Magic,23 - 29,0,N/A,N/A,N/A
+31,Gordon Hayward,FT,None,8:38,2,Celtics,Magic,24 - 29,0,N/A,1,N/A
+32,Terrence Ross,FG_MISS,None,8:21,2,Magic,Celtics,24 - 29,1,27,3,Jumper
+33,Jaylen Brown,DEFENSIVE_REBOUND,None,8:17,2,Celtics,Magic,24 - 29,0,N/A,N/A,N/A
+34,Jayson Tatum,FG_ASSISTED,Terry Rozier,8:13,2,Celtics,Magic,27 - 29,0,24,3,Jumper
+35,Team,Unknown,None,8:12,2,Magic,Celtics,27 - 29,1,N/A,N/A,N/A
+36,Marcus Smart,SUBSTITUTION,Hayward Gordon,8:12,2,Celtics,Magic,27 - 29,0,N/A,N/A,N/A
+37,Aaron Gordon,TURNOVER,None,7:49,2,Magic,Celtics,27 - 29,1,N/A,N/A,N/A
+38,Marcus Smart,FG_ASSISTED,Terry Rozier,7:31,2,Celtics,Magic,30 - 29,0,26,3,Jumper
+39,Aaron Gordon,FG_MISS,None,7:16,2,Magic,Celtics,30 - 29,1,0,2,Layup
+40,Jayson Tatum,DEFENSIVE_REBOUND,None,7:13,2,Celtics,Magic,30 - 29,0,N/A,N/A,N/A
+41,Jaylen Brown,FG_ASSISTED,Jayson Tatum,7:05,2,Celtics,Magic,33 - 29,0,27,3,Jumper
+42,Terrence Ross,FG_MISS,None,6:48,2,Magic,Celtics,33 - 29,1,26,3,Jumper
+43,Daniel Theis,DEFENSIVE_REBOUND,None,6:45,2,Celtics,Magic,33 - 29,0,N/A,N/A,N/A
+44,Marcus Smart,FG_MISS,None,6:26,2,Celtics,Magic,33 - 29,0,26,3,Jumper
+45,Khem Birch,DEFENSIVE_REBOUND,None,6:22,2,Magic,Celtics,33 - 29,1,N/A,N/A,N/A
+46,Evan Fournier,FG_ASSISTED,Isaiah Briscoe,6:17,2,Magic,Celtics,33 - 32,1,26,3,Jumper
+47,Jayson Tatum,FG_MISS,Khem Birch,6:01,2,Magic,Celtics,33 - 32,0,0,2,Layup
+48,Team,OFFENSIVE_REBOUND,None,6:01,2,Celtics,Magic,33 - 32,0,N/A,N/A,N/A
+49,Jonathan Isaac,SUBSTITUTION,Gordon Aaron,6:01,2,Magic,Celtics,33 - 32,1,N/A,N/A,N/A
+50,Nikola Vucevic,SUBSTITUTION,Fournier Evan,6:01,2,Magic,Celtics,33 - 32,1,N/A,N/A,N/A
+51,D.J. Augustin,SUBSTITUTION,Briscoe Isaiah,6:01,2,Magic,Celtics,33 - 32,1,N/A,N/A,N/A
+52,Wesley Iwundu,SUBSTITUTION,Birch Khem,6:01,2,Magic,Celtics,33 - 32,1,N/A,N/A,N/A
+53,Al Horford,SUBSTITUTION,Rozier Terry,6:01,2,Celtics,Magic,33 - 32,0,N/A,N/A,N/A
+54,Kyrie Irving,SUBSTITUTION,Theis Daniel,6:01,2,Celtics,Magic,33 - 32,0,N/A,N/A,N/A
+55,Jayson Tatum,FG_UNASSISTED,None,5:53,2,Celtics,Magic,35 - 32,0,3,2,Jumper
+56,Terrence Ross,TURNOVER,Al Horford,5:35,2,Magic,Celtics,35 - 32,1,N/A,N/A,N/A
+57,Jaylen Brown,FG_ASSISTED,Al Horford,5:28,2,Celtics,Magic,38 - 32,0,23,3,Jumper
+58,Team,Unknown,None,5:26,2,Magic,Celtics,38 - 32,1,N/A,N/A,N/A
+59,Marcus Morris,SUBSTITUTION,Tatum Jayson,5:26,2,Celtics,Magic,38 - 32,0,N/A,N/A,N/A
+60,Nikola Vucevic,FG_ASSISTED,Terrence Ross,5:13,2,Magic,Celtics,38 - 34,1,0,2,Dunk
+61,Marcus Smart,FG_ASSISTED,Kyrie Irving,5:00,2,Celtics,Magic,40 - 34,0,13,2,Jumper
+62,Terrence Ross,FG_MISS,None,4:44,2,Magic,Celtics,40 - 34,1,24,3,Jumper
+63,Al Horford,DEFENSIVE_REBOUND,None,4:41,2,Celtics,Magic,40 - 34,0,N/A,N/A,N/A
+64,Jaylen Brown,FG_ASSISTED,Kyrie Irving,4:38,2,Celtics,Magic,42 - 34,0, ,2,Jumper
+65,Nikola Vucevic,FG_MISS,None,4:17,2,Magic,Celtics,42 - 34,1,10,2,Jumper
+66,Kyrie Irving,DEFENSIVE_REBOUND,None,4:14,2,Celtics,Magic,42 - 34,0,N/A,N/A,N/A
+67,Kyrie Irving,FG_UNASSISTED,None,4:06,2,Celtics,Magic,44 - 34,0, ,2,Jumper
+68,Nikola Vucevic,FG_MISS,None,3:54,2,Magic,Celtics,44 - 34,1,26,3,Jumper
+69,Jaylen Brown,DEFENSIVE_REBOUND,None,3:51,2,Celtics,Magic,44 - 34,0,N/A,N/A,N/A
+70,Jaylen Brown,TURNOVER,None,3:39,2,Celtics,Magic,44 - 34,0,N/A,N/A,N/A
+71,Evan Fournier,SUBSTITUTION,Iwundu Wesley,3:39,2,Magic,Celtics,44 - 34,1,N/A,N/A,N/A
+72,D.J. Augustin,FG_MISS,None,3:30,2,Magic,Celtics,44 - 34,1,26,3,Jumper
+73,Nikola Vucevic,OFFENSIVE_REBOUND,None,3:24,2,Magic,Celtics,44 - 34,1,N/A,N/A,N/A
+74,Nikola Vucevic,FG_UNASSISTED,None,3:24,2,Magic,Celtics,44 - 36,1, ,2,Jumper
+75,Al Horford,FG_MISS,None,3:10,2,Celtics,Magic,44 - 36,0,12,2,Jumper
+76,Terrence Ross,DEFENSIVE_REBOUND,None,3:07,2,Magic,Celtics,44 - 36,1,N/A,N/A,N/A
+77,D.J. Augustin,FG_MISS,None,2:45,2,Magic,Celtics,44 - 36,1,0,2,Layup
+78,Evan Fournier,OFFENSIVE_REBOUND,None,2:40,2,Magic,Celtics,44 - 36,1,N/A,N/A,N/A
+79,Evan Fournier,FG_UNASSISTED,None,2:40,2,Magic,Celtics,44 - 38,1, ,2,Jumper
+80,Marcus Morris,FG_ASSISTED,Al Horford,2:18,2,Celtics,Magic,47 - 38,0,25,2,Jumper
+81,Terrence Ross,FG_ASSISTED,Nikola Vucevic,1:56,2,Magic,Celtics,47 - 41,1,26,3,Jumper
+82,Jaylen Brown,FG_MISS,None,1:40,2,Celtics,Magic,47 - 41,0,23,3,Jumper
+83,Nikola Vucevic,DEFENSIVE_REBOUND,None,1:36,2,Magic,Celtics,47 - 41,1,N/A,N/A,N/A
+84,Nikola Vucevic,FG_MISS,None,1:30,2,Magic,Celtics,47 - 41,1,26,3,Jumper
+85,Marcus Morris,DEFENSIVE_REBOUND,None,1:27,2,Celtics,Magic,47 - 41,0,N/A,N/A,N/A
+86,Marcus Morris,FG_ASSISTED,Kyrie Irving,1:13,2,Celtics,Magic,49 - 41,0,10,2,Jumper
+87,D.J. Augustin,TURNOVER,None,57.6,2,Magic,Celtics,49 - 41,1,N/A,N/A,N/A
+88,Jayson Tatum,SUBSTITUTION,Brown Jaylen,57.6,2,Celtics,Magic,49 - 41,0,N/A,N/A,N/A
+89,Al Horford,FG_MISS,None,38.5,2,Celtics,Magic,49 - 41,0,7,2,Jumper
+90,Team,OFFENSIVE_REBOUND,None,38.2,2,Celtics,Magic,49 - 41,0,N/A,N/A,N/A
+91,D.J. Augustin,FOUL_ON_FLOOR,None,38.2,2,Magic,Celtics,49 - 41,1,N/A,N/A,N/A
+92,Kyrie Irving,FG_UNASSISTED,None,30.7,2,Celtics,Magic,51 - 41,0,7,2,Jumper
+93,Terrence Ross,FG_MISS,None,16.4,2,Magic,Celtics,51 - 41,1,26,3,Jumper
+94,Jonathan Isaac,OFFENSIVE_REBOUND,None,13.8,2,Magic,Celtics,51 - 41,1,N/A,N/A,N/A
+95,Jonathan Isaac,FG_MISS,Kyrie Irving,1.4,2,Celtics,Magic,51 - 41,1,17,3,Jumper
+96,Jayson Tatum,DEFENSIVE_REBOUND,None,0.7,2,Celtics,Magic,51 - 41,0,N/A,N/A,N/A
+97,End of,Unknown,None,0.0,2,Magic,Celtics,51 - 41,1,N/A,N/A,N/A
+0,Aaron Gordon,SUBSTITUTION,Ross Terrence,12:00,3,Magic,Celtics,51 - 41,1,N/A,N/A,N/A
+1,Nikola Vucevic,FG_ASSISTED,Evan Fournier,11:43,3,Magic,Celtics,51 - 43,1,21,2,Jumper
+2,Al Horford,FG_UNASSISTED,None,11:26,3,Celtics,Magic,53 - 43,0,10,2,Jumper
+3,Marcus Morris,FOUL_ON_FLOOR,None,11:09,3,Celtics,Magic,53 - 43,0,N/A,N/A,N/A
+4,Aaron Gordon,FT,None,11:09,3,Magic,Celtics,53 - 44,1,N/A,1,N/A
+5,Aaron Gordon,FT,None,11:09,3,Magic,Celtics,53 - 45,1,N/A,1,N/A
+6,Kyrie Irving,TURNOVER,D.J. Augustin,10:55,3,Celtics,Magic,53 - 45,0,N/A,N/A,N/A
+7,Nikola Vucevic,FG_MISS,None,10:37,3,Magic,Celtics,53 - 45,1,0,2,Layup
+8,Al Horford,DEFENSIVE_REBOUND,None,10:34,3,Celtics,Magic,53 - 45,0,N/A,N/A,N/A
+9,Al Horford,FG_MISS,None,10:28,3,Celtics,Magic,53 - 45,0,26,3,Jumper
+10,Aaron Gordon,DEFENSIVE_REBOUND,None,10:26,3,Magic,Celtics,53 - 45,1,N/A,N/A,N/A
+11,Jayson Tatum,FOUL_ON_FLOOR,None,10:15,3,Celtics,Magic,53 - 45,0,N/A,N/A,N/A
+12,Evan Fournier,FG_ASSISTED,Nikola Vucevic,10:07,3,Magic,Celtics,53 - 47,1,14,2,Jumper
+13,Al Horford,FG_ASSISTED,Kyrie Irving,9:51,3,Celtics,Magic,55 - 47,0, ,2,Jumper
+14,Jonathan Isaac,FG_MISS,None,9:30,3,Magic,Celtics,55 - 47,1,18,2,Jumper
+15,Jayson Tatum,DEFENSIVE_REBOUND,None,9:27,3,Celtics,Magic,55 - 47,0,N/A,N/A,N/A
+16,Jayson Tatum,FG_UNASSISTED,None,9:20,3,Celtics,Magic,57 - 47,0,11,2,Jumper
+17,Nikola Vucevic,FG_MISS,None,9:00,3,Magic,Celtics,57 - 47,1,25,3,Jumper
+18,Jayson Tatum,DEFENSIVE_REBOUND,None,8:57,3,Celtics,Magic,57 - 47,0,N/A,N/A,N/A
+19,Kyrie Irving,FG_MISS,None,8:51,3,Celtics,Magic,57 - 47,0,17,2,Jumper
+20,Nikola Vucevic,DEFENSIVE_REBOUND,None,8:49,3,Magic,Celtics,57 - 47,1,N/A,N/A,N/A
+21,Evan Fournier,FG_ASSISTED,D.J. Augustin,8:37,3,Magic,Celtics,57 - 49,1,2,2,Jumper
+22,Al Horford,FG_ASSISTED,Kyrie Irving,8:24,3,Celtics,Magic,59 - 49,0,19,2,Jumper
+23,Jonathan Isaac,FG_MISS,None,8:10,3,Magic,Celtics,59 - 49,1,25,3,Jumper
+24,Al Horford,DEFENSIVE_REBOUND,None,8:07,3,Celtics,Magic,59 - 49,0,N/A,N/A,N/A
+25,Jayson Tatum,FG_UNASSISTED,None,7:56,3,Celtics,Magic,61 - 49,0,13,2,Jumper
+26,Team,Unknown,None,7:49,3,Magic,Celtics,61 - 49,1,N/A,N/A,N/A
+27,Nikola Vucevic,FG_ASSISTED,Aaron Gordon,7:36,3,Magic,Celtics,61 - 51,1,12,2,Jumper
+28,Al Horford,FG_MISS,None,7:19,3,Celtics,Magic,61 - 51,0,20,2,Jumper
+29,Jonathan Isaac,DEFENSIVE_REBOUND,None,7:16,3,Magic,Celtics,61 - 51,1,N/A,N/A,N/A
+30,Evan Fournier,FG_UNASSISTED,None,7:04,3,Magic,Celtics,61 - 53,1,0,2,Layup
+31,Jayson Tatum,FOUL_ON_FLOOR,None,6:56,3,Celtics,Magic,61 - 53,0,N/A,N/A,N/A
+32,Jayson Tatum,TURNOVER,None,6:56,3,Celtics,Magic,61 - 53,0,N/A,N/A,N/A
+33,Gordon Hayward,SUBSTITUTION,Tatum Jayson,6:56,3,Celtics,Magic,61 - 53,0,N/A,N/A,N/A
+34,Aaron Gordon,TURNOVER,Al Horford,6:43,3,Magic,Celtics,61 - 53,1,N/A,N/A,N/A
+35,Marcus Morris,FG_ASSISTED,Gordon Hayward,6:39,3,Celtics,Magic,64 - 53,0,26,3,Jumper
+36,Nikola Vucevic,FG_ASSISTED,Jonathan Isaac,6:20,3,Magic,Celtics,64 - 55,1,8,2,Jumper
+37,Al Horford,FG_MISS,None,6:08,3,Celtics,Magic,64 - 55,0,26,3,Jumper
+38,Jonathan Isaac,DEFENSIVE_REBOUND,None,6:05,3,Magic,Celtics,64 - 55,1,N/A,N/A,N/A
+39,Jonathan Isaac,FG_MISS,None,5:52,3,Magic,Celtics,64 - 55,1,0,2,Layup
+40,Al Horford,DEFENSIVE_REBOUND,None,5:50,3,Celtics,Magic,64 - 55,0,N/A,N/A,N/A
+41,Kyrie Irving,FG_UNASSISTED,None,5:43,3,Celtics,Magic,66 - 55,0,17,2,Jumper
+42,Nikola Vucevic,FG_UNASSISTED,None,5:22,3,Magic,Celtics,66 - 57,1,8,2,Jumper
+43,Marcus Morris,FG_MISS,None,5:06,3,Celtics,Magic,66 - 57,0,12,2,Jumper
+44,Aaron Gordon,DEFENSIVE_REBOUND,None,5:03,3,Magic,Celtics,66 - 57,1,N/A,N/A,N/A
+45,Nikola Vucevic,TURNOVER,Kyrie Irving,4:53,3,Magic,Celtics,66 - 57,1,N/A,N/A,N/A
+46,Al Horford,FG_ASSISTED,Gordon Hayward,4:46,3,Celtics,Magic,68 - 57,0,0,2,Layup
+47,Nikola Vucevic,FG_MISS,None,4:30,3,Magic,Celtics,68 - 57,1,26,3,Jumper
+48,Kyrie Irving,DEFENSIVE_REBOUND,None,4:28,3,Celtics,Magic,68 - 57,0,N/A,N/A,N/A
+49,Kyrie Irving,FG_MISS,None,4:23,3,Celtics,Magic,68 - 57,0,26,3,Jumper
+50,Nikola Vucevic,DEFENSIVE_REBOUND,None,4:23,3,Magic,Celtics,68 - 57,1,N/A,N/A,N/A
+51,Kyrie Irving,FOUL_TECHNICAL,None,4:20,3,Celtics,Magic,68 - 57,0,N/A,N/A,N/A
+52,D.J. Augustin,FT,None,4:20,3,Magic,Celtics,68 - 58,1,N/A,1,N/A
+53,Isaiah Briscoe,SUBSTITUTION,Gordon Aaron,4:20,3,Magic,Celtics,68 - 58,1,N/A,N/A,N/A
+54,Wesley Iwundu,SUBSTITUTION,Augustin D.J.,4:20,3,Magic,Celtics,68 - 58,1,N/A,N/A,N/A
+55,Evan Fournier,FG_MISS,None,4:12,3,Magic,Celtics,68 - 58,1,21,2,Jumper
+56,Marcus Morris,DEFENSIVE_REBOUND,None,4:09,3,Celtics,Magic,68 - 58,0,N/A,N/A,N/A
+57,Gordon Hayward,FG_ASSISTED,Marcus Morris,3:58,3,Celtics,Magic,70 - 58,0,3,2,Jumper
+58,Al Horford,FOUL_ON_FLOOR,None,3:36,3,Celtics,Magic,70 - 58,0,N/A,N/A,N/A
+59,Nikola Vucevic,FT_MISS,None,3:36,3,Magic,Celtics,70 - 58,1,N/A,1,N/A
+60,Team,OFFENSIVE_REBOUND,None,3:36,3,Magic,Celtics,70 - 58,1,N/A,N/A,N/A
+61,Terrence Ross,SUBSTITUTION,Fournier Evan,3:36,3,Magic,Celtics,70 - 58,1,N/A,N/A,N/A
+62,Jaylen Brown,SUBSTITUTION,Morris Marcus,3:36,3,Celtics,Magic,70 - 58,0,N/A,N/A,N/A
+63,Terry Rozier,SUBSTITUTION,Smart Marcus,3:36,3,Celtics,Magic,70 - 58,0,N/A,N/A,N/A
+64,Nikola Vucevic,FT,None,3:36,3,Magic,Celtics,70 - 59,1,N/A,1,N/A
+65,Al Horford,TURNOVER,None,3:17,3,Celtics,Magic,70 - 59,0,N/A,N/A,N/A
+66,Al Horford,TURNOVER,None,3:17,3,Celtics,Magic,70 - 59,0,N/A,N/A,N/A
+67,Nikola Vucevic,TURNOVER,Al Horford,2:53,3,Magic,Celtics,70 - 59,1,N/A,N/A,N/A
+68,Kyrie Irving,FG_MISS,None,2:50,3,Celtics,Magic,70 - 59,0,26,3,Jumper
+69,Nikola Vucevic,DEFENSIVE_REBOUND,None,2:46,3,Magic,Celtics,70 - 59,1,N/A,N/A,N/A
+70,Jonathan Isaac,FG_ASSISTED,Nikola Vucevic,2:34,3,Magic,Celtics,70 - 61,1,0,2,Dunk
+71,Jaylen Brown,TURNOVER,None,2:29,3,Celtics,Magic,70 - 61,0,N/A,N/A,N/A
+72,Team,Unknown,None,2:29,3,Celtics,Magic,70 - 61,0,N/A,N/A,N/A
+73,Aaron Gordon,SUBSTITUTION,Isaac Jonathan,2:29,3,Magic,Celtics,70 - 61,1,N/A,N/A,N/A
+74,Khem Birch,SUBSTITUTION,Vucevic Nikola,2:29,3,Magic,Celtics,70 - 61,1,N/A,N/A,N/A
+75,Daniel Theis,SUBSTITUTION,Horford Al,2:29,3,Celtics,Magic,70 - 61,0,N/A,N/A,N/A
+76,Jaylen Brown,FOUL_ON_FLOOR,None,2:12,3,Celtics,Magic,70 - 61,0,N/A,N/A,N/A
+77,Aaron Gordon,FT,None,2:12,3,Magic,Celtics,70 - 62,1,N/A,1,N/A
+78,Aaron Gordon,FT,None,2:12,3,Magic,Celtics,70 - 63,1,N/A,1,N/A
+79,Daniel Theis,FG_ASSISTED,Gordon Hayward,1:59,3,Celtics,Magic,72 - 63,0,0,2,Layup
+80,Terrence Ross,FG_ASSISTED,Isaiah Briscoe,1:48,3,Magic,Celtics,72 - 66,1,25,3,Jumper
+81,Isaiah Briscoe,FOUL_ON_FLOOR,None,1:39,3,Magic,Celtics,72 - 66,1,N/A,N/A,N/A
+82,Marcus Morris,SUBSTITUTION,Irving Kyrie,1:39,3,Celtics,Magic,72 - 66,0,N/A,N/A,N/A
+83,Aaron Gordon,FOUL_ON_FLOOR,None,1:35,3,Magic,Celtics,72 - 66,1,N/A,N/A,N/A
+84,Marcus Morris,FT,None,1:35,3,Celtics,Magic,73 - 66,0,N/A,1,N/A
+85,Marcus Morris,FT,None,1:35,3,Celtics,Magic,74 - 66,0,N/A,1,N/A
+86,Jaylen Brown,FOUL_ON_FLOOR,None,1:21,3,Celtics,Magic,74 - 66,0,N/A,N/A,N/A
+87,Terrence Ross,FT,None,1:21,3,Magic,Celtics,74 - 67,1,N/A,1,N/A
+88,Terrence Ross,FT,None,1:21,3,Magic,Celtics,74 - 68,1,N/A,1,N/A
+89,Terrence Ross,FT,None,1:21,3,Magic,Celtics,74 - 69,1,N/A,1,N/A
+90,Terrence Ross,FOUL_ON_FLOOR,None,1:12,3,Magic,Celtics,74 - 69,1,N/A,N/A,N/A
+91,Jaylen Brown,FT,None,1:12,3,Celtics,Magic,75 - 69,0,N/A,1,N/A
+92,Jaylen Brown,FT_MISS,None,1:12,3,Celtics,Magic,75 - 69,0,N/A,1,N/A
+93,Jaylen Brown,OFFENSIVE_REBOUND,None,1:08,3,Celtics,Magic,75 - 69,0,N/A,N/A,N/A
+94,Jaylen Brown,FG_UNASSISTED,None,1:06,3,Celtics,Magic,77 - 69,0, ,2,Jumper
+95,Terrence Ross,FG_MISS,None,53.7,3,Magic,Celtics,77 - 69,1,26,3,Jumper
+96,Daniel Theis,DEFENSIVE_REBOUND,None,49.1,3,Celtics,Magic,77 - 69,0,N/A,N/A,N/A
+97,Marcus Morris,FG_MISS,None,34.7,3,Celtics,Magic,77 - 69,0,0,2,Layup
+98,Daniel Theis,OFFENSIVE_REBOUND,None,31.1,3,Celtics,Magic,77 - 69,0,N/A,N/A,N/A
+99,Daniel Theis,FG_MISS,None,31.1,3,Celtics,Magic,77 - 69,0, ,2,Jumper
+100,Marcus Morris,OFFENSIVE_REBOUND,None,30.1,3,Celtics,Magic,77 - 69,0,N/A,N/A,N/A
+101,Marcus Morris,FG_MISS,None,17.9,3,Celtics,Magic,77 - 69,0,26,3,Jumper
+102,Khem Birch,DEFENSIVE_REBOUND,None,17.9,3,Magic,Celtics,77 - 69,1,N/A,N/A,N/A
+103,Terrence Ross,FG_UNASSISTED,None,1.3,3,Magic,Celtics,77 - 72,1,27,3,Jumper
+104,End of,Unknown,None,0.0,3,Magic,Celtics,77 - 72,1,N/A,N/A,N/A
+0,Evan Fournier,SUBSTITUTION,Iwundu Wesley,12:00,4,Magic,Celtics,77 - 72,1,N/A,N/A,N/A
+1,Gordon Hayward,FG_UNASSISTED,None,11:48,4,Celtics,Magic,79 - 72,0,0,2,Layup
+2,Isaiah Briscoe,FOUL_ON_FLOOR,None,11:48,4,Magic,Celtics,79 - 72,1,N/A,N/A,N/A
+3,Gordon Hayward,FT,None,11:48,4,Celtics,Magic,80 - 72,0,N/A,1,N/A
+4,Terrence Ross,FG_UNASSISTED,None,11:28,4,Magic,Celtics,80 - 74,1,22,2,Jumper
+5,Gordon Hayward,FG_MISS,None,11:12,4,Celtics,Magic,80 - 74,0,19,2,Jumper
+6,Khem Birch,DEFENSIVE_REBOUND,None,11:09,4,Magic,Celtics,80 - 74,1,N/A,N/A,N/A
+7,Terrence Ross,FG_MISS,None,11:04,4,Magic,Celtics,80 - 74,1,25,3,Jumper
+8,Marcus Morris,DEFENSIVE_REBOUND,None,11:00,4,Celtics,Magic,80 - 74,0,N/A,N/A,N/A
+9,Khem Birch,FOUL_ON_FLOOR,None,10:57,4,Magic,Celtics,80 - 74,1,N/A,N/A,N/A
+10,Gordon Hayward,FG_MISS,Khem Birch,10:51,4,Magic,Celtics,80 - 74,0,0,2,Layup
+11,Khem Birch,DEFENSIVE_REBOUND,None,10:47,4,Magic,Celtics,80 - 74,1,N/A,N/A,N/A
+12,Aaron Gordon,FG_ASSISTED,Terrence Ross,10:41,4,Magic,Celtics,80 - 77,1,23,3,Jumper
+13,Isaiah Briscoe,FOUL_ON_FLOOR,None,10:26,4,Magic,Celtics,80 - 77,1,N/A,N/A,N/A
+14,Daniel Theis,FG_UNASSISTED,None,10:14,4,Celtics,Magic,82 - 77,0,11,2,Jumper
+15,Terrence Ross,FG_ASSISTED,Isaiah Briscoe,10:03,4,Magic,Celtics,82 - 80,1, ,3,Jumper
+16,Terry Rozier,FG_MISS,None,9:49,4,Celtics,Magic,82 - 80,0,27,3,Jumper
+17,Aaron Gordon,DEFENSIVE_REBOUND,None,9:49,4,Magic,Celtics,82 - 80,1,N/A,N/A,N/A
+18,Aaron Gordon,FG_MISS,None,9:38,4,Magic,Celtics,82 - 80,1,26,3,Jumper
+19,Gordon Hayward,DEFENSIVE_REBOUND,None,9:33,4,Celtics,Magic,82 - 80,0,N/A,N/A,N/A
+20,Marcus Morris,FG_MISS,None,9:20,4,Celtics,Magic,82 - 80,0,0,2,Layup
+21,Aaron Gordon,DEFENSIVE_REBOUND,None,9:18,4,Magic,Celtics,82 - 80,1,N/A,N/A,N/A
+22,Daniel Theis,FOUL_ON_FLOOR,None,9:17,4,Celtics,Magic,82 - 80,0,N/A,N/A,N/A
+23,Marcus Smart,SUBSTITUTION,Hayward Gordon,9:17,4,Celtics,Magic,82 - 80,0,N/A,N/A,N/A
+24,Terrence Ross,FG_MISS,None,9:03,4,Magic,Celtics,82 - 80,1,26,3,Jumper
+25,Khem Birch,OFFENSIVE_REBOUND,None,9:01,4,Magic,Celtics,82 - 80,1,N/A,N/A,N/A
+26,Terrence Ross,FG_MISS,None,8:55,4,Magic,Celtics,82 - 80,1,13,2,Jumper
+27,Marcus Morris,DEFENSIVE_REBOUND,None,8:53,4,Celtics,Magic,82 - 80,0,N/A,N/A,N/A
+28,Terry Rozier,FG_MISS,None,8:46,4,Celtics,Magic,82 - 80,0,25,3,Jumper
+29,Aaron Gordon,DEFENSIVE_REBOUND,None,8:41,4,Magic,Celtics,82 - 80,1,N/A,N/A,N/A
+30,Evan Fournier,FG_MISS,None,8:35,4,Magic,Celtics,82 - 80,1,27,3,Jumper
+31,Terry Rozier,DEFENSIVE_REBOUND,None,8:32,4,Celtics,Magic,82 - 80,0,N/A,N/A,N/A
+32,Terry Rozier,TURNOVER,Terrence Ross,8:29,4,Celtics,Magic,82 - 80,0,N/A,N/A,N/A
+33,Aaron Gordon,FG_ASSISTED,Evan Fournier,8:25,4,Magic,Celtics,82 - 82,1,0,2,Dunk
+34,Team,Unknown,None,8:15,4,Celtics,Magic,82 - 82,0,N/A,N/A,N/A
+35,Jayson Tatum,SUBSTITUTION,Morris Marcus,8:15,4,Celtics,Magic,82 - 82,0,N/A,N/A,N/A
+36,Daniel Theis,FG_MISS,None,8:08,4,Celtics,Magic,82 - 82,0,25,3,Jumper
+37,Aaron Gordon,DEFENSIVE_REBOUND,None,8:05,4,Magic,Celtics,82 - 82,1,N/A,N/A,N/A
+38,Jaylen Brown,FOUL_ON_FLOOR,None,7:48,4,Celtics,Magic,82 - 82,0,N/A,N/A,N/A
+39,Aaron Gordon,FT,None,7:48,4,Magic,Celtics,82 - 83,1,N/A,1,N/A
+40,Kyrie Irving,SUBSTITUTION,Rozier Terry,7:48,4,Celtics,Magic,82 - 83,0,N/A,N/A,N/A
+41,Aaron Gordon,FT,None,7:48,4,Magic,Celtics,82 - 84,1,N/A,1,N/A
+42,Marcus Smart,FG_MISS,None,7:33,4,Celtics,Magic,82 - 84,0,26,3,Jumper
+43,Isaiah Briscoe,DEFENSIVE_REBOUND,None,7:29,4,Magic,Celtics,82 - 84,1,N/A,N/A,N/A
+44,Evan Fournier,FG_ASSISTED,Isaiah Briscoe,7:27,4,Magic,Celtics,82 - 86,1, ,2,Jumper
+45,Jaylen Brown,FG_MISS,Khem Birch,7:06,4,Magic,Celtics,82 - 86,0,0,2,Layup
+46,Jaylen Brown,OFFENSIVE_REBOUND,None,7:04,4,Celtics,Magic,82 - 86,0,N/A,N/A,N/A
+47,Jaylen Brown,FG_UNASSISTED,None,7:02,4,Celtics,Magic,84 - 86,0, ,2,Jumper
+48,Evan Fournier,FG_MISS,None,6:43,4,Magic,Celtics,84 - 86,1, ,2,Jumper
+49,Marcus Smart,DEFENSIVE_REBOUND,None,6:40,4,Celtics,Magic,84 - 86,0,N/A,N/A,N/A
+50,Marcus Smart,FG_MISS,None,6:35,4,Celtics,Magic,84 - 86,0,19,2,Jumper
+51,Terrence Ross,DEFENSIVE_REBOUND,None,6:31,4,Magic,Celtics,84 - 86,1,N/A,N/A,N/A
+52,Terrence Ross,FG_UNASSISTED,None,6:24,4,Magic,Celtics,84 - 88,1,22,2,Jumper
+53,Kyrie Irving,FG_MISS,None,6:12,4,Celtics,Magic,84 - 88,0,18,2,Jumper
+54,Terrence Ross,DEFENSIVE_REBOUND,None,6:09,4,Magic,Celtics,84 - 88,1,N/A,N/A,N/A
+55,Evan Fournier,FG_ASSISTED,Khem Birch,5:58,4,Magic,Celtics,84 - 91,1,25,2,Jumper
+56,Team,Unknown,None,5:57,4,Celtics,Magic,84 - 91,0,N/A,N/A,N/A
+57,Nikola Vucevic,SUBSTITUTION,Briscoe Isaiah,5:57,4,Magic,Celtics,84 - 91,1,N/A,N/A,N/A
+58,D.J. Augustin,SUBSTITUTION,Birch Khem,5:57,4,Magic,Celtics,84 - 91,1,N/A,N/A,N/A
+59,Al Horford,SUBSTITUTION,Brown Jaylen,5:57,4,Celtics,Magic,84 - 91,0,N/A,N/A,N/A
+60,Gordon Hayward,SUBSTITUTION,Theis Daniel,5:57,4,Celtics,Magic,84 - 91,0,N/A,N/A,N/A
+61,Evan Fournier,FOUL_ON_FLOOR,None,5:50,4,Magic,Celtics,84 - 91,1,N/A,N/A,N/A
+62,Kyrie Irving,FT_MISS,None,5:50,4,Celtics,Magic,84 - 91,0,N/A,1,N/A
+63,Team,OFFENSIVE_REBOUND,None,5:50,4,Celtics,Magic,84 - 91,0,N/A,N/A,N/A
+64,Kyrie Irving,FT,None,5:50,4,Celtics,Magic,85 - 91,0,N/A,1,N/A
+65,Terrence Ross,FG_MISS,None,5:38,4,Magic,Celtics,85 - 91,1,21,2,Jumper
+66,Team,OFFENSIVE_REBOUND,None,5:36,4,Magic,Celtics,85 - 91,1,N/A,N/A,N/A
+67,Nikola Vucevic,FG_MISS,None,5:30,4,Magic,Celtics,85 - 91,1,11,2,Jumper
+68,Al Horford,DEFENSIVE_REBOUND,None,5:27,4,Celtics,Magic,85 - 91,0,N/A,N/A,N/A
+69,Jayson Tatum,FG_UNASSISTED,None,5:08,4,Celtics,Magic,87 - 91,0,0,2,Dunk
+70,Aaron Gordon,FG_ASSISTED,Evan Fournier,4:42,4,Magic,Celtics,87 - 93,1,0,2,Dunk
+71,Evan Fournier,FOUL_ON_FLOOR,None,4:31,4,Magic,Celtics,87 - 93,1,N/A,N/A,N/A
+72,Kyrie Irving,FT,None,4:31,4,Celtics,Magic,88 - 93,0,N/A,1,N/A
+73,Kyrie Irving,FT,None,4:31,4,Celtics,Magic,89 - 93,0,N/A,1,N/A
+74,Kyrie Irving,FT_MISS,None,4:31,4,Celtics,Magic,89 - 93,0,N/A,1,N/A
+75,Nikola Vucevic,DEFENSIVE_REBOUND,None,4:29,4,Magic,Celtics,89 - 93,1,N/A,N/A,N/A
+76,Evan Fournier,FG_UNASSISTED,None,4:11,4,Magic,Celtics,89 - 95,1,19,2,Jumper
+77,Kyrie Irving,FG_UNASSISTED,None,4:01,4,Celtics,Magic,91 - 95,0,11,2,Jumper
+78,Terrence Ross,FG_MISS,None,3:45,4,Magic,Celtics,91 - 95,1,28,3,Jumper
+79,Nikola Vucevic,OFFENSIVE_REBOUND,None,3:42,4,Magic,Celtics,91 - 95,1,N/A,N/A,N/A
+80,Nikola Vucevic's,FG_MISS,Al Horford,3:39,4,Celtics,Magic,91 - 95,1, ,2,Jumper
+81,Marcus Smart,DEFENSIVE_REBOUND,None,3:39,4,Celtics,Magic,91 - 95,0,N/A,N/A,N/A
+82,Kyrie Irving,FG_MISS,None,3:34,4,Celtics,Magic,91 - 95,0,27,3,Jumper
+83,Aaron Gordon,DEFENSIVE_REBOUND,None,3:31,4,Magic,Celtics,91 - 95,1,N/A,N/A,N/A
+84,Terrence Ross,FG_ASSISTED,Aaron Gordon,3:16,4,Magic,Celtics,91 - 97,1,18,2,Jumper
+85,Jayson Tatum,FG_MISS,None,2:57,4,Celtics,Magic,91 - 97,0,25,3,Jumper
+86,Nikola Vucevic,DEFENSIVE_REBOUND,None,2:53,4,Magic,Celtics,91 - 97,1,N/A,N/A,N/A
+87,Terrence Ross,FG_MISS,None,2:38,4,Magic,Celtics,91 - 97,1,26,3,Jumper
+88,Aaron Gordon,OFFENSIVE_REBOUND,None,2:34,4,Magic,Celtics,91 - 97,1,N/A,N/A,N/A
+89,D.J. Augustin,FG_ASSISTED,Nikola Vucevic,2:31,4,Magic,Celtics,91 - 100,1,26,3,Jumper
+90,Kyrie Irving,FG_UNASSISTED,None,2:06,4,Celtics,Magic,93 - 100,0,3,2,Jumper
+91,Gordon Hayward,FOUL_ON_FLOOR,None,1:48,4,Celtics,Magic,93 - 100,0,N/A,N/A,N/A
+92,Aaron Gordon,FT,None,1:48,4,Magic,Celtics,93 - 101,1,N/A,1,N/A
+93,Marcus Morris,SUBSTITUTION,Smart Marcus,1:48,4,Celtics,Magic,93 - 101,0,N/A,N/A,N/A
+94,Aaron Gordon,FT,None,1:48,4,Magic,Celtics,93 - 102,1,N/A,1,N/A
+95,D.J. Augustin,FOUL_ON_FLOOR,None,1:43,4,Magic,Celtics,93 - 102,1,N/A,N/A,N/A
+96,Kyrie Irving,FT,None,1:43,4,Celtics,Magic,94 - 102,0,N/A,1,N/A
+97,Kyrie Irving,FT,None,1:43,4,Celtics,Magic,95 - 102,0,N/A,1,N/A
+98,Kyrie Irving,FT,None,1:43,4,Celtics,Magic,96 - 102,0,N/A,1,N/A
+99,D.J. Augustin,TURNOVER,Marcus Morris,1:27,4,Magic,Celtics,96 - 102,1,N/A,N/A,N/A
+100,Gordon Hayward,FG_MISS,None,1:22,4,Celtics,Magic,96 - 102,0,24,3,Jumper
+101,Al Horford,OFFENSIVE_REBOUND,None,1:16,4,Celtics,Magic,96 - 102,0,N/A,N/A,N/A
+102,Jayson Tatum,FG_MISS,None,1:09,4,Celtics,Magic,96 - 102,0,1,2,Jumper
+103,Jayson Tatum,OFFENSIVE_REBOUND,None,1:06,4,Celtics,Magic,96 - 102,0,N/A,N/A,N/A
+104,Jayson Tatum,FG_MISS,None,1:06,4,Celtics,Magic,96 - 102,0,1,2,Jumper
+105,Nikola Vucevic,DEFENSIVE_REBOUND,None,1:06,4,Magic,Celtics,96 - 102,1,N/A,N/A,N/A
+106,Nikola Vucevic,TURNOVER,None,1:06,4,Magic,Celtics,96 - 102,1,N/A,N/A,N/A
+107,Terrence Ross,FOUL_ON_FLOOR,None,1:06,4,Magic,Celtics,96 - 102,1,N/A,N/A,N/A
+108,Kyrie Irving,FT,None,1:06,4,Celtics,Magic,97 - 102,0,N/A,1,N/A
+109,Team,Unknown,None,1:06,4,Celtics,Magic,97 - 102,0,N/A,N/A,N/A
+110,Kyrie Irving,FG_MISS,None,59.9,4,Celtics,Magic,97 - 102,0,23,2,Jumper
+111,Marcus Morris,OFFENSIVE_REBOUND,None,59.0,4,Celtics,Magic,97 - 102,0,N/A,N/A,N/A
+112,Marcus Morris,FG_UNASSISTED,None,58.4,4,Celtics,Magic,99 - 102,0,1,2,Jumper
+113,Nikola Vucevic,FG_UNASSISTED,None,39.0,4,Magic,Celtics,99 - 104,1,0,2,Layup
+114,D.J. Augustin,FOUL_ON_FLOOR,None,33.5,4,Magic,Celtics,99 - 104,1,N/A,N/A,N/A
+115,Kyrie Irving,FT,None,33.5,4,Celtics,Magic,100 - 104,0,N/A,1,N/A
+116,Marcus Smart,SUBSTITUTION,Hayward Gordon,33.5,4,Celtics,Magic,100 - 104,0,N/A,N/A,N/A
+117,Kyrie Irving,FT,None,33.5,4,Celtics,Magic,101 - 104,0,N/A,1,N/A
+118,D.J. Augustin,TURNOVER,None,13.6,4,Magic,Celtics,101 - 104,1,N/A,N/A,N/A
+119,D.J. Augustin,FOUL_ON_FLOOR,None,10.2,4,Magic,Celtics,101 - 104,1,N/A,N/A,N/A
+120,Kyrie Irving,FT,None,10.2,4,Celtics,Magic,102 - 104,0,N/A,1,N/A
+121,Kyrie Irving,FT,None,10.2,4,Celtics,Magic,103 - 104,0,N/A,1,N/A
+122,Team,Unknown,None,10.2,4,Magic,Celtics,103 - 104,1,N/A,N/A,N/A
+123,Robert Williams,SUBSTITUTION,Morris Marcus,10.2,4,Celtics,Magic,103 - 104,0,N/A,N/A,N/A
+124,Marcus Smart,FOUL_ON_FLOOR,None,3.2,4,Celtics,Magic,103 - 104,0,N/A,N/A,N/A
+125,Nikola Vucevic,FT,None,3.2,4,Magic,Celtics,103 - 105,1,N/A,1,N/A
+126,Wesley Iwundu,SUBSTITUTION,Augustin D.J.,3.2,4,Magic,Celtics,103 - 105,1,N/A,N/A,N/A
+127,Jonathan Isaac,SUBSTITUTION,Ross Terrence,3.2,4,Magic,Celtics,103 - 105,1,N/A,N/A,N/A
+128,Marcus Morris,SUBSTITUTION,Irving Kyrie,3.2,4,Celtics,Magic,103 - 105,0,N/A,N/A,N/A
+129,Nikola Vucevic,FT_MISS,None,3.2,4,Magic,Celtics,103 - 105,1,N/A,1,N/A
+130,Robert Williams,DEFENSIVE_REBOUND,None,2.9,4,Celtics,Magic,103 - 105,0,N/A,N/A,N/A
+131,Khem Birch,SUBSTITUTION,Vucevic Nikola,2.9,4,Magic,Celtics,103 - 105,1,N/A,N/A,N/A
+132,Gordon Hayward,SUBSTITUTION,Smart Marcus,2.9,4,Celtics,Magic,103 - 105,0,N/A,N/A,N/A
+133,Kyrie Irving,SUBSTITUTION,Williams Robert,2.9,4,Celtics,Magic,103 - 105,0,N/A,N/A,N/A
+134,Team,Unknown,None,2.7,4,Celtics,Magic,103 - 105,0,N/A,N/A,N/A
+135,Jayson Tatum,FG_MISS,None,0.0,4,Celtics,Magic,103 - 105,0,21,2,Jumper
+136,Team,OFFENSIVE_REBOUND,None,0.0,4,Celtics,Magic,103 - 105,0,N/A,N/A,N/A
+137,End of,Unknown,None,0.0,4,Magic,Celtics,103 - 105,1,N/A,N/A,N/A
+138,End of,Unknown,None,0.0,4,Magic,Celtics,103 - 105,1,N/A,N/A,N/A

@@ -1,0 +1,516 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,LaMarcus Aldridge,JUMP_BALL,None,12:00,1,Spurs,Clippers,0 - 0,0,N/A,N/A,N/A
+1,Bryn Forbes,FG_MISS,None,11:45,1,Spurs,Clippers,0 - 0,0,25,3,Jumper
+2,Marcin Gortat,DEFENSIVE_REBOUND,None,11:40,1,Clippers,Spurs,0 - 0,1,N/A,N/A,N/A
+3,Tobias Harris,FG_ASSISTED,Marcin Gortat,11:29,1,Clippers,Spurs,0 - 2,1,0,2,Layup
+4,LaMarcus Aldridge,FG_ASSISTED,DeMar DeRozan,11:16,1,Spurs,Clippers,2 - 2,0,11,2,Jumper
+5,Tobias Harris,FG_MISS,None,11:02,1,Clippers,Spurs,2 - 2,1,17,2,Jumper
+6,Team,OFFENSIVE_REBOUND,None,11:02,1,Clippers,Spurs,2 - 2,1,N/A,N/A,N/A
+7,Tobias Harris,FG_MISS,None,10:53,1,Clippers,Spurs,2 - 2,1,23,3,Jumper
+8,Derrick White,DEFENSIVE_REBOUND,None,10:49,1,Spurs,Clippers,2 - 2,0,N/A,N/A,N/A
+9,Bryn Forbes,FG_ASSISTED,Dante Cunningham,10:37,1,Spurs,Clippers,5 - 2,0,26,3,Jumper
+10,Danilo Gallinari,FG_MISS,None,10:28,1,Clippers,Spurs,5 - 2,1,26,3,Jumper
+11,DeMar DeRozan,DEFENSIVE_REBOUND,None,10:23,1,Spurs,Clippers,5 - 2,0,N/A,N/A,N/A
+12,Dante Cunningham,FG_MISS,None,10:17,1,Spurs,Clippers,5 - 2,0,25,3,Jumper
+13,Tobias Harris,DEFENSIVE_REBOUND,None,10:12,1,Clippers,Spurs,5 - 2,1,N/A,N/A,N/A
+14,Danilo Gallinari,FG_UNASSISTED,None,10:06,1,Clippers,Spurs,5 - 4,1,2,2,Jumper
+15,LaMarcus Aldridge,FG_UNASSISTED,None,9:47,1,Spurs,Clippers,7 - 4,0,9,2,Jumper
+16,Derrick White,FOUL_ON_FLOOR,None,9:37,1,Spurs,Clippers,7 - 4,0,N/A,N/A,N/A
+17,Dante Cunningham,FOUL_ON_FLOOR,None,9:29,1,Spurs,Clippers,7 - 4,0,N/A,N/A,N/A
+18,Danilo Gallinari,FT,None,9:29,1,Clippers,Spurs,7 - 5,1,N/A,1,N/A
+19,Danilo Gallinari,FT_MISS,None,9:29,1,Clippers,Spurs,7 - 5,1,N/A,1,N/A
+20,Dante Cunningham,DEFENSIVE_REBOUND,None,9:27,1,Spurs,Clippers,7 - 5,0,N/A,N/A,N/A
+21,LaMarcus Aldridge,FG_MISS,None,9:08,1,Spurs,Clippers,7 - 5,0,11,2,Jumper
+22,Patrick Beverley,DEFENSIVE_REBOUND,None,9:04,1,Clippers,Spurs,7 - 5,1,N/A,N/A,N/A
+23,Patrick Beverley,FG_UNASSISTED,None,8:58,1,Clippers,Spurs,7 - 7,1,10,2,Jumper
+24,Shai Gilgeous-Alexander,FOUL_ON_FLOOR,None,8:45,1,Clippers,Spurs,7 - 7,1,N/A,N/A,N/A
+25,Bryn Forbes,FT_MISS,None,8:45,1,Spurs,Clippers,7 - 7,0,N/A,1,N/A
+26,Team,OFFENSIVE_REBOUND,None,8:45,1,Spurs,Clippers,7 - 7,0,N/A,N/A,N/A
+27,Bryn Forbes,FT,None,8:45,1,Spurs,Clippers,8 - 7,0,N/A,1,N/A
+28,Shai Gilgeous-Alexander,FG_MISS,None,8:35,1,Clippers,Spurs,8 - 7,1,9,2,Jumper
+29,DeMar DeRozan,DEFENSIVE_REBOUND,None,8:31,1,Spurs,Clippers,8 - 7,0,N/A,N/A,N/A
+30,DeMar DeRozan,FG_MISS,None,8:22,1,Spurs,Clippers,8 - 7,0,6,2,Jumper
+31,Marcin Gortat,DEFENSIVE_REBOUND,None,8:20,1,Clippers,Spurs,8 - 7,1,N/A,N/A,N/A
+32,Danilo Gallinari,FG_ASSISTED,Marcin Gortat,8:14,1,Clippers,Spurs,8 - 9,1,20,2,Jumper
+33,LaMarcus Aldridge,FG_MISS,None,7:53,1,Spurs,Clippers,8 - 9,0,17,2,Jumper
+34,Patrick Beverley,DEFENSIVE_REBOUND,None,7:51,1,Clippers,Spurs,8 - 9,1,N/A,N/A,N/A
+35,Tobias Harris,FG_MISS,None,7:37,1,Clippers,Spurs,8 - 9,1,26,3,Jumper
+36,Patrick Beverley,OFFENSIVE_REBOUND,None,7:33,1,Clippers,Spurs,8 - 9,1,N/A,N/A,N/A
+37,Tobias Harris,FG_ASSISTED,Patrick Beverley,7:30,1,Clippers,Spurs,8 - 12,1,26,3,Jumper
+38,LaMarcus Aldridge,TURNOVER,None,7:16,1,Spurs,Clippers,8 - 12,0,N/A,N/A,N/A
+39,Rudy Gay,SUBSTITUTION,Cunningham Dante,7:16,1,Spurs,Clippers,8 - 12,0,N/A,N/A,N/A
+40,Patrick Beverley,FG_UNASSISTED,None,7:02,1,Clippers,Spurs,8 - 14,1,5,2,Jumper
+41,Team,Unknown,None,7:02,1,Spurs,Clippers,8 - 14,0,N/A,N/A,N/A
+42,Patty Mills,SUBSTITUTION,White Derrick,7:02,1,Spurs,Clippers,8 - 14,0,N/A,N/A,N/A
+43,DeMar DeRozan,FG_MISS,None,6:49,1,Spurs,Clippers,8 - 14,0,16,2,Jumper
+44,Marcin Gortat,DEFENSIVE_REBOUND,None,6:47,1,Clippers,Spurs,8 - 14,1,N/A,N/A,N/A
+45,Danilo Gallinari,FG_ASSISTED,Patrick Beverley,6:39,1,Clippers,Spurs,8 - 17,1,25,3,Jumper
+46,LaMarcus Aldridge,FG_ASSISTED,Bryn Forbes,6:19,1,Spurs,Clippers,10 - 17,0,10,2,Jumper
+47,Tobias Harris,FG_MISS,None,5:58,1,Clippers,Spurs,10 - 17,1,0,2,Layup
+48,Rudy Gay,DEFENSIVE_REBOUND,None,5:55,1,Spurs,Clippers,10 - 17,0,N/A,N/A,N/A
+49,Rudy Gay,FG_MISS,None,5:49,1,Spurs,Clippers,10 - 17,0,26,3,Jumper
+50,LaMarcus Aldridge,OFFENSIVE_REBOUND,None,5:44,1,Spurs,Clippers,10 - 17,0,N/A,N/A,N/A
+51,LaMarcus Aldridge,FG_MISS,None,5:41,1,Spurs,Clippers,10 - 17,0,12,2,Jumper
+52,Rudy Gay,OFFENSIVE_REBOUND,None,5:37,1,Spurs,Clippers,10 - 17,0,N/A,N/A,N/A
+53,Rudy Gay,FG_UNASSISTED,None,5:32,1,Spurs,Clippers,12 - 17,0,18,2,Jumper
+54,Patrick Beverley,TURNOVER,None,5:22,1,Clippers,Spurs,12 - 17,1,N/A,N/A,N/A
+55,Lou Williams,SUBSTITUTION,Beverley Patrick,5:22,1,Clippers,Spurs,12 - 17,1,N/A,N/A,N/A
+56,Rudy Gay,FG_UNASSISTED,None,4:59,1,Spurs,Clippers,14 - 17,0,15,2,Jumper
+57,Tobias Harris,FG_MISS,None,4:43,1,Clippers,Spurs,14 - 17,1,18,2,Jumper
+58,DeMar DeRozan,DEFENSIVE_REBOUND,None,4:39,1,Spurs,Clippers,14 - 17,0,N/A,N/A,N/A
+59,DeMar DeRozan,FG_MISS,None,4:27,1,Spurs,Clippers,14 - 17,0,22,3,Jumper
+60,Marcin Gortat,DEFENSIVE_REBOUND,None,4:24,1,Clippers,Spurs,14 - 17,1,N/A,N/A,N/A
+61,Marcin Gortat,FG_MISS,None,4:15,1,Clippers,Spurs,14 - 17,1,11,2,Jumper
+62,Patty Mills,DEFENSIVE_REBOUND,None,4:11,1,Spurs,Clippers,14 - 17,0,N/A,N/A,N/A
+63,DeMar DeRozan,FG_UNASSISTED,None,4:06,1,Spurs,Clippers,16 - 17,0,9,2,Jumper
+64,Team,Unknown,None,4:05,1,Clippers,Spurs,16 - 17,1,N/A,N/A,N/A
+65,Montrezl Harrell,SUBSTITUTION,Gallinari Danilo,4:05,1,Clippers,Spurs,16 - 17,1,N/A,N/A,N/A
+66,Mike Scott,SUBSTITUTION,Gortat Marcin,4:05,1,Clippers,Spurs,16 - 17,1,N/A,N/A,N/A
+67,Jakob Poeltl,SUBSTITUTION,Forbes Bryn,4:05,1,Spurs,Clippers,16 - 17,0,N/A,N/A,N/A
+68,Marco Belinelli,SUBSTITUTION,Aldridge LaMarcus,4:05,1,Spurs,Clippers,16 - 17,0,N/A,N/A,N/A
+69,Shai Gilgeous-Alexander,FG_MISS,None,3:56,1,Clippers,Spurs,16 - 17,1,3,2,Jumper
+70,Jakob Poeltl,DEFENSIVE_REBOUND,None,3:52,1,Spurs,Clippers,16 - 17,0,N/A,N/A,N/A
+71,Patty Mills,FG_MISS,None,3:35,1,Spurs,Clippers,16 - 17,0,15,2,Jumper
+72,Mike Scott,DEFENSIVE_REBOUND,None,3:32,1,Clippers,Spurs,16 - 17,1,N/A,N/A,N/A
+73,Lou Williams,TURNOVER,None,3:28,1,Clippers,Spurs,16 - 17,1,N/A,N/A,N/A
+74,DeMar DeRozan,FG_ASSISTED,Rudy Gay,3:17,1,Spurs,Clippers,18 - 17,0,13,2,Jumper
+75,Lou Williams,FG_ASSISTED,Montrezl Harrell,3:03,1,Clippers,Spurs,18 - 19,1,0,2,Layup
+76,Patty Mills,FG_UNASSISTED,None,2:51,1,Spurs,Clippers,21 - 19,0,26,2,Jumper
+77,Mike Scott,FG_ASSISTED,Montrezl Harrell,2:37,1,Clippers,Spurs,21 - 21,1,18,2,Jumper
+78,Lou Williams,FOUL_ON_FLOOR,None,2:30,1,Clippers,Spurs,21 - 21,1,N/A,N/A,N/A
+79,DeMar DeRozan,FG_MISS,None,2:22,1,Spurs,Clippers,21 - 21,0,19,2,Jumper
+80,Team,OFFENSIVE_REBOUND,None,2:20,1,Spurs,Clippers,21 - 21,0,N/A,N/A,N/A
+81,Shai Gilgeous-Alexander,FOUL_ON_FLOOR,None,2:20,1,Clippers,Spurs,21 - 21,1,N/A,N/A,N/A
+82,Tyrone Wallace,SUBSTITUTION,Harris Tobias,2:20,1,Clippers,Spurs,21 - 21,1,N/A,N/A,N/A
+83,Sindarius Thornwell,SUBSTITUTION,Gilgeous-Alexander Shai,2:20,1,Clippers,Spurs,21 - 21,1,N/A,N/A,N/A
+84,Rudy Gay,FG_UNASSISTED,None,2:09,1,Spurs,Clippers,23 - 21,0,15,2,Jumper
+85,Montrezl Harrell,FG_MISS,None,1:55,1,Clippers,Spurs,23 - 21,1,0,2,Layup
+86,DeMar DeRozan,DEFENSIVE_REBOUND,None,1:52,1,Spurs,Clippers,23 - 21,0,N/A,N/A,N/A
+87,Mike Scott,FOUL_ON_FLOOR,None,1:50,1,Clippers,Spurs,23 - 21,1,N/A,N/A,N/A
+88,Jakob Poeltl,FT,None,1:50,1,Spurs,Clippers,24 - 21,0,N/A,1,N/A
+89,Derrick White,SUBSTITUTION,DeRozan DeMar,1:50,1,Spurs,Clippers,24 - 21,0,N/A,N/A,N/A
+90,Jakob Poeltl,FT_MISS,None,1:50,1,Spurs,Clippers,24 - 21,0,N/A,1,N/A
+91,Sindarius Thornwell,DEFENSIVE_REBOUND,None,1:48,1,Clippers,Spurs,24 - 21,1,N/A,N/A,N/A
+92,Marco Belinelli,FOUL_ON_FLOOR,None,1:36,1,Spurs,Clippers,24 - 21,0,N/A,N/A,N/A
+93,Lou Williams,FT,None,1:36,1,Clippers,Spurs,24 - 22,1,N/A,1,N/A
+94,Lou Williams,FT,None,1:36,1,Clippers,Spurs,24 - 23,1,N/A,1,N/A
+95,Patty Mills,FG_UNASSISTED,None,1:23,1,Spurs,Clippers,26 - 23,0,0,2,Layup
+96,Lou Williams,FG_MISS,Jakob Poeltl,1:15,1,Spurs,Clippers,26 - 23,1,0,2,Layup
+97,Montrezl Harrell,OFFENSIVE_REBOUND,None,1:11,1,Clippers,Spurs,26 - 23,1,N/A,N/A,N/A
+98,Mike Scott,FG_ASSISTED,Montrezl Harrell,1:08,1,Clippers,Spurs,26 - 26,1,28,3,Jumper
+99,Derrick White,FG_MISS,None,59.3,1,Spurs,Clippers,26 - 26,0,3,2,Jumper
+100,Lou Williams,DEFENSIVE_REBOUND,None,56.7,1,Clippers,Spurs,26 - 26,1,N/A,N/A,N/A
+101,Patty Mills,FOUL_ON_FLOOR,None,47.7,1,Spurs,Clippers,26 - 26,0,N/A,N/A,N/A
+102,Tyrone Wallace,FT,None,47.7,1,Clippers,Spurs,26 - 27,1,N/A,1,N/A
+103,Tyrone Wallace,FT_MISS,None,47.7,1,Clippers,Spurs,26 - 27,1,N/A,1,N/A
+104,Mike Scott,OFFENSIVE_REBOUND,None,47.7,1,Clippers,Spurs,26 - 27,1,N/A,N/A,N/A
+105,Mike Scott's,FG_MISS,Marco Belinelli,47.7,1,Spurs,Clippers,26 - 27,1,0,2,Layup
+106,Team,OFFENSIVE_REBOUND,None,47.7,1,Clippers,Spurs,26 - 27,1,N/A,N/A,N/A
+107,Montrezl Harrell,TURNOVER,Marco Belinelli,37.1,1,Clippers,Spurs,26 - 27,1,N/A,N/A,N/A
+108,Jakob Poeltl,FG_MISS,None,14.7,1,Spurs,Clippers,26 - 27,0,11,2,Jumper
+109,Jakob Poeltl,OFFENSIVE_REBOUND,None,13.0,1,Spurs,Clippers,26 - 27,0,N/A,N/A,N/A
+110,Jakob Poeltl,FG_UNASSISTED,None,13.0,1,Spurs,Clippers,28 - 27,0, ,2,Jumper
+111,Lou Williams,FG_UNASSISTED,None,4.4,1,Clippers,Spurs,28 - 29,1,9,2,Jumper
+112,Patty Mills,FG_MISS,None,0.9,1,Spurs,Clippers,28 - 29,0, ,3,Jumper
+113,Team,OFFENSIVE_REBOUND,None,0.5,1,Spurs,Clippers,28 - 29,0,N/A,N/A,N/A
+114,End of,Unknown,None,0.0,1,Clippers,Spurs,28 - 29,1,N/A,N/A,N/A
+0,Bryn Forbes,SUBSTITUTION,Mills Patty,12:00,2,Spurs,Clippers,28 - 29,0,N/A,N/A,N/A
+1,Davis Bertans,SUBSTITUTION,Gay Rudy,12:00,2,Spurs,Clippers,28 - 29,0,N/A,N/A,N/A
+2,Jakob Poeltl,FOUL_ON_FLOOR,None,11:49,2,Spurs,Clippers,28 - 29,0,N/A,N/A,N/A
+3,Tyrone Wallace,FT,None,11:49,2,Clippers,Spurs,28 - 30,1,N/A,1,N/A
+4,Tyrone Wallace,FT,None,11:49,2,Clippers,Spurs,28 - 31,1,N/A,1,N/A
+5,Davis Bertans,FG_MISS,None,11:30,2,Spurs,Clippers,28 - 31,0,26,3,Jumper
+6,Sindarius Thornwell,DEFENSIVE_REBOUND,None,11:26,2,Clippers,Spurs,28 - 31,1,N/A,N/A,N/A
+7,Lou Williams,FG_ASSISTED,Sindarius Thornwell,11:22,2,Clippers,Spurs,28 - 33,1,12,2,Jumper
+8,Jakob Poeltl,FG_ASSISTED,Bryn Forbes,11:02,2,Spurs,Clippers,30 - 33,0,7,2,Jumper
+9,Tyrone Wallace,FG_MISS,None,10:47,2,Clippers,Spurs,30 - 33,1,27,3,Jumper
+10,Marco Belinelli,DEFENSIVE_REBOUND,None,10:44,2,Spurs,Clippers,30 - 33,0,N/A,N/A,N/A
+11,Bryn Forbes,FG_MISS,None,10:35,2,Spurs,Clippers,30 - 33,0,15,2,Jumper
+12,Montrezl Harrell,DEFENSIVE_REBOUND,None,10:31,2,Clippers,Spurs,30 - 33,1,N/A,N/A,N/A
+13,Jakob Poeltl,FOUL_ON_FLOOR,None,10:20,2,Spurs,Clippers,30 - 33,0,N/A,N/A,N/A
+14,Montrezl Harrell,FT,None,10:20,2,Clippers,Spurs,30 - 34,1,N/A,1,N/A
+15,LaMarcus Aldridge,SUBSTITUTION,Poeltl Jakob,10:20,2,Spurs,Clippers,30 - 34,0,N/A,N/A,N/A
+16,Montrezl Harrell,FT,None,10:20,2,Clippers,Spurs,30 - 35,1,N/A,1,N/A
+17,Mike Scott,FOUL_ON_FLOOR,None,10:11,2,Clippers,Spurs,30 - 35,1,N/A,N/A,N/A
+18,Marco Belinelli,FG_MISS,None,10:00,2,Spurs,Clippers,30 - 35,0,21,2,Jumper
+19,LaMarcus Aldridge,OFFENSIVE_REBOUND,None,9:56,2,Spurs,Clippers,30 - 35,0,N/A,N/A,N/A
+20,Davis Bertans,FG_MISS,None,9:54,2,Spurs,Clippers,30 - 35,0,27,3,Jumper
+21,Team,OFFENSIVE_REBOUND,None,9:53,2,Spurs,Clippers,30 - 35,0,N/A,N/A,N/A
+22,Mike Scott,FOUL_ON_FLOOR,None,9:53,2,Clippers,Spurs,30 - 35,1,N/A,N/A,N/A
+23,Tobias Harris,SUBSTITUTION,Scott Mike,9:53,2,Clippers,Spurs,30 - 35,1,N/A,N/A,N/A
+24,LaMarcus Aldridge,FG_MISS,None,9:43,2,Spurs,Clippers,30 - 35,0,10,2,Jumper
+25,Sindarius Thornwell,DEFENSIVE_REBOUND,None,9:39,2,Clippers,Spurs,30 - 35,1,N/A,N/A,N/A
+26,Montrezl Harrell,FG_UNASSISTED,None,9:33,2,Clippers,Spurs,30 - 37,1,0,2,Layup
+27,Davis Bertans,FOUL_ON_FLOOR,None,9:33,2,Spurs,Clippers,30 - 37,0,N/A,N/A,N/A
+28,Team,Unknown,None,9:33,2,Spurs,Clippers,30 - 37,0,N/A,N/A,N/A
+29,DeMar DeRozan,SUBSTITUTION,Forbes Bryn,9:33,2,Spurs,Clippers,30 - 37,0,N/A,N/A,N/A
+30,Dante Cunningham,SUBSTITUTION,Bertans Davis,9:33,2,Spurs,Clippers,30 - 37,0,N/A,N/A,N/A
+31,Montrezl Harrell,FT,None,9:33,2,Clippers,Spurs,30 - 38,1,N/A,1,N/A
+32,Derrick White,FG_MISS,Sindarius Thornwell,9:20,2,Clippers,Spurs,30 - 38,0,0,2,Layup
+33,Team,DEFENSIVE_REBOUND,None,9:20,2,Clippers,Spurs,30 - 38,1,N/A,N/A,N/A
+34,Montrezl Harrell,FG_ASSISTED,Lou Williams,9:10,2,Clippers,Spurs,30 - 40,1,0,2,Dunk
+35,Marco Belinelli,FG_MISS,None,8:58,2,Spurs,Clippers,30 - 40,0,19,2,Jumper
+36,Sindarius Thornwell,DEFENSIVE_REBOUND,None,8:55,2,Clippers,Spurs,30 - 40,1,N/A,N/A,N/A
+37,Derrick White,FOUL_ON_FLOOR,None,8:52,2,Spurs,Clippers,30 - 40,0,N/A,N/A,N/A
+38,Sindarius Thornwell,FT,None,8:52,2,Clippers,Spurs,30 - 41,1,N/A,1,N/A
+39,Sindarius Thornwell,FT,None,8:52,2,Clippers,Spurs,30 - 42,1,N/A,1,N/A
+40,Tobias Harris,Unknown,None,8:33,2,Clippers,Spurs,30 - 42,1,N/A,N/A,N/A
+41,LaMarcus Aldridge,FG_MISS,None,8:27,2,Spurs,Clippers,30 - 42,0,19,2,Jumper
+42,Lou Williams,DEFENSIVE_REBOUND,None,8:24,2,Clippers,Spurs,30 - 42,1,N/A,N/A,N/A
+43,Lou Williams,FG_MISS,None,8:17,2,Clippers,Spurs,30 - 42,1, ,2,Jumper
+44,DeMar DeRozan,DEFENSIVE_REBOUND,None,8:15,2,Spurs,Clippers,30 - 42,0,N/A,N/A,N/A
+45,DeMar DeRozan,FG_MISS,None,8:11,2,Spurs,Clippers,30 - 42,0,16,2,Jumper
+46,Tobias Harris,DEFENSIVE_REBOUND,None,8:07,2,Clippers,Spurs,30 - 42,1,N/A,N/A,N/A
+47,Tobias Harris,FG_MISS,None,8:01,2,Clippers,Spurs,30 - 42,1, ,2,Jumper
+48,LaMarcus Aldridge,DEFENSIVE_REBOUND,None,7:58,2,Spurs,Clippers,30 - 42,0,N/A,N/A,N/A
+49,LaMarcus Aldridge,TURNOVER,None,7:49,2,Spurs,Clippers,30 - 42,0,N/A,N/A,N/A
+50,Tyrone Wallace,FG_UNASSISTED,None,7:37,2,Clippers,Spurs,30 - 44,1,0,2,Layup
+51,Sindarius Thornwell,FOUL_ON_FLOOR,None,7:27,2,Clippers,Spurs,30 - 44,1,N/A,N/A,N/A
+52,DeMar DeRozan,FT,None,7:27,2,Spurs,Clippers,31 - 44,0,N/A,1,N/A
+53,Patty Mills,SUBSTITUTION,White Derrick,7:27,2,Spurs,Clippers,31 - 44,0,N/A,N/A,N/A
+54,Bryn Forbes,SUBSTITUTION,Belinelli Marco,7:27,2,Spurs,Clippers,31 - 44,0,N/A,N/A,N/A
+55,DeMar DeRozan,FT,None,7:27,2,Spurs,Clippers,32 - 44,0,N/A,1,N/A
+56,Lou Williams,TURNOVER,Dante Cunningham,7:17,2,Clippers,Spurs,32 - 44,1,N/A,N/A,N/A
+57,Dante Cunningham,FG_UNASSISTED,None,7:14,2,Spurs,Clippers,34 - 44,0,0,2,Dunk
+58,Montrezl Harrell,TURNOVER,DeMar DeRozan,7:03,2,Clippers,Spurs,34 - 44,1,N/A,N/A,N/A
+59,DeMar DeRozan,FG_UNASSISTED,None,6:54,2,Spurs,Clippers,36 - 44,0, ,2,Jumper
+60,Lou Williams,FG_MISS,None,6:38,2,Clippers,Spurs,36 - 44,1, ,2,Jumper
+61,Team,DEFENSIVE_REBOUND,None,6:37,2,Spurs,Clippers,36 - 44,0,N/A,N/A,N/A
+62,Montrezl Harrell,FOUL_ON_FLOOR,None,6:37,2,Clippers,Spurs,36 - 44,1,N/A,N/A,N/A
+63,Danilo Gallinari,SUBSTITUTION,Thornwell Sindarius,6:37,2,Clippers,Spurs,36 - 44,1,N/A,N/A,N/A
+64,Patrick Beverley,SUBSTITUTION,Wallace Tyrone,6:37,2,Clippers,Spurs,36 - 44,1,N/A,N/A,N/A
+65,Shai Gilgeous-Alexander,SUBSTITUTION,Williams Lou,6:37,2,Clippers,Spurs,36 - 44,1,N/A,N/A,N/A
+66,DeMar DeRozan,FG_MISS,None,6:27,2,Spurs,Clippers,36 - 44,0,19,2,Jumper
+67,Danilo Gallinari,DEFENSIVE_REBOUND,None,6:23,2,Clippers,Spurs,36 - 44,1,N/A,N/A,N/A
+68,Shai Gilgeous-Alexander,TURNOVER,LaMarcus Aldridge,6:16,2,Clippers,Spurs,36 - 44,1,N/A,N/A,N/A
+69,Patty Mills,FG_UNASSISTED,None,6:10,2,Spurs,Clippers,38 - 44,0, ,2,Jumper
+70,Team,Unknown,None,6:10,2,Clippers,Spurs,38 - 44,1,N/A,N/A,N/A
+71,Rudy Gay,SUBSTITUTION,Cunningham Dante,6:10,2,Spurs,Clippers,38 - 44,0,N/A,N/A,N/A
+72,Tobias Harris,FG_UNASSISTED,None,5:57,2,Clippers,Spurs,38 - 46,1,17,2,Jumper
+73,DeMar DeRozan,FG_MISS,None,5:40,2,Spurs,Clippers,38 - 46,0, ,2,Jumper
+74,Danilo Gallinari,DEFENSIVE_REBOUND,None,5:38,2,Clippers,Spurs,38 - 46,1,N/A,N/A,N/A
+75,Montrezl Harrell,FG_MISS,None,5:28,2,Clippers,Spurs,38 - 46,1,4,2,Jumper
+76,Rudy Gay,DEFENSIVE_REBOUND,None,5:24,2,Spurs,Clippers,38 - 46,0,N/A,N/A,N/A
+77,Rudy Gay,FG_ASSISTED,Patty Mills,5:15,2,Spurs,Clippers,41 - 46,0,25,3,Jumper
+78,Shai Gilgeous-Alexander,FG_MISS,None,4:59,2,Clippers,Spurs,41 - 46,1,23,3,Jumper
+79,LaMarcus Aldridge,DEFENSIVE_REBOUND,None,4:56,2,Spurs,Clippers,41 - 46,0,N/A,N/A,N/A
+80,DeMar DeRozan,FG_MISS,None,4:49,2,Spurs,Clippers,41 - 46,0,12,2,Jumper
+81,Danilo Gallinari,DEFENSIVE_REBOUND,None,4:45,2,Clippers,Spurs,41 - 46,1,N/A,N/A,N/A
+82,Patrick Beverley,FG_MISS,None,4:42,2,Clippers,Spurs,41 - 46,1,25,3,Jumper
+83,Rudy Gay,DEFENSIVE_REBOUND,None,4:37,2,Spurs,Clippers,41 - 46,0,N/A,N/A,N/A
+84,Patrick Beverley,FOUL_ON_FLOOR,None,4:27,2,Clippers,Spurs,41 - 46,1,N/A,N/A,N/A
+85,DeMar DeRozan,FT,None,4:27,2,Spurs,Clippers,42 - 46,0,N/A,1,N/A
+86,Marcin Gortat,SUBSTITUTION,Harrell Montrezl,4:27,2,Clippers,Spurs,42 - 46,1,N/A,N/A,N/A
+87,DeMar DeRozan,FT,None,4:27,2,Spurs,Clippers,43 - 46,0,N/A,1,N/A
+88,Tobias Harris,FG_UNASSISTED,None,4:16,2,Clippers,Spurs,43 - 48,1,17,2,Jumper
+89,Bryn Forbes,FG_ASSISTED,Rudy Gay,4:03,2,Spurs,Clippers,46 - 48,0,28,3,Jumper
+90,Shai Gilgeous-Alexander,FOUL_ON_FLOOR,None,4:03,2,Clippers,Spurs,46 - 48,1,N/A,N/A,N/A
+91,Bryn Forbes,FT,None,4:03,2,Spurs,Clippers,47 - 48,0,N/A,1,N/A
+92,Rudy Gay,FOUL_ON_FLOOR,None,3:51,2,Spurs,Clippers,47 - 48,0,N/A,N/A,N/A
+93,Danilo Gallinari,FT,None,3:51,2,Clippers,Spurs,47 - 49,1,N/A,1,N/A
+94,Lou Williams,SUBSTITUTION,Gilgeous-Alexander Shai,3:51,2,Clippers,Spurs,47 - 49,1,N/A,N/A,N/A
+95,Danilo Gallinari,FT,None,3:51,2,Clippers,Spurs,47 - 50,1,N/A,1,N/A
+96,DeMar DeRozan,FG_ASSISTED,LaMarcus Aldridge,3:34,2,Spurs,Clippers,49 - 50,0,22,2,Jumper
+97,Tobias Harris,FG_UNASSISTED,None,3:15,2,Clippers,Spurs,49 - 52,1,19,2,Jumper
+98,DeMar DeRozan,FG_UNASSISTED,None,3:02,2,Spurs,Clippers,51 - 52,0,0,2,Layup
+99,Team,Unknown,None,3:01,2,Spurs,Clippers,51 - 52,0,N/A,N/A,N/A
+100,Patrick Beverley,FG_MISS,None,2:48,2,Clippers,Spurs,51 - 52,1,25,3,Jumper
+101,Lou Williams,OFFENSIVE_REBOUND,None,2:44,2,Clippers,Spurs,51 - 52,1,N/A,N/A,N/A
+102,Lou Williams,FG_MISS,None,2:43,2,Clippers,Spurs,51 - 52,1,8,2,Jumper
+103,Team,DEFENSIVE_REBOUND,None,2:43,2,Spurs,Clippers,51 - 52,0,N/A,N/A,N/A
+104,Marcin Gortat,FOUL_ON_FLOOR,None,2:43,2,Clippers,Spurs,51 - 52,1,N/A,N/A,N/A
+105,Rudy Gay,FT,None,2:43,2,Spurs,Clippers,52 - 52,0,N/A,1,N/A
+106,Rudy Gay,FT,None,2:43,2,Spurs,Clippers,53 - 52,0,N/A,1,N/A
+107,Tobias Harris,FG_ASSISTED,Marcin Gortat,2:29,2,Clippers,Spurs,53 - 55,1,26,2,Jumper
+108,Rudy Gay,FG_ASSISTED,Patty Mills,2:12,2,Spurs,Clippers,55 - 55,0,4,2,Jumper
+109,Rudy Gay,FOUL_ON_FLOOR,None,2:07,2,Spurs,Clippers,55 - 55,0,N/A,N/A,N/A
+110,Marcin Gortat,FT,None,2:07,2,Clippers,Spurs,55 - 56,1,N/A,1,N/A
+111,Marcin Gortat,FT,None,2:07,2,Clippers,Spurs,55 - 57,1,N/A,1,N/A
+112,DeMar DeRozan,FG_MISS,None,1:55,2,Spurs,Clippers,55 - 57,0, ,2,Jumper
+113,Patty Mills,OFFENSIVE_REBOUND,None,1:51,2,Spurs,Clippers,55 - 57,0,N/A,N/A,N/A
+114,Bryn Forbes,FG_ASSISTED,Patty Mills,1:49,2,Spurs,Clippers,58 - 57,0,26,3,Jumper
+115,Danilo Gallinari,FG_MISS,None,1:34,2,Clippers,Spurs,58 - 57,1,21,2,Jumper
+116,Patty Mills,DEFENSIVE_REBOUND,None,1:32,2,Spurs,Clippers,58 - 57,0,N/A,N/A,N/A
+117,Patty Mills,FG_MISS,None,1:29,2,Spurs,Clippers,58 - 57,0, ,2,Jumper
+118,Rudy Gay,OFFENSIVE_REBOUND,None,1:24,2,Spurs,Clippers,58 - 57,0,N/A,N/A,N/A
+119,Rudy Gay,FG_MISS,None,1:23,2,Spurs,Clippers,58 - 57,0,4,2,Jumper
+120,Tobias Harris,DEFENSIVE_REBOUND,None,1:21,2,Clippers,Spurs,58 - 57,1,N/A,N/A,N/A
+121,Lou Williams,FG_MISS,DeMar DeRozan,1:13,2,Spurs,Clippers,58 - 57,1,0,2,Layup
+122,Team,OFFENSIVE_REBOUND,None,1:13,2,Clippers,Spurs,58 - 57,1,N/A,N/A,N/A
+123,Patrick Beverley,FG_MISS,None,1:04,2,Clippers,Spurs,58 - 57,1,26,3,Jumper
+124,LaMarcus Aldridge,DEFENSIVE_REBOUND,None,1:01,2,Spurs,Clippers,58 - 57,0,N/A,N/A,N/A
+125,DeMar DeRozan,FG_UNASSISTED,None,51.9,2,Spurs,Clippers,60 - 57,0,9,2,Jumper
+126,Lou Williams,FG_ASSISTED,Tobias Harris,37.1,2,Clippers,Spurs,60 - 59,1,4,2,Jumper
+127,DeMar DeRozan,FG_MISS,None,30.2,2,Spurs,Clippers,60 - 59,0,25,3,Jumper
+128,Danilo Gallinari,DEFENSIVE_REBOUND,None,26.1,2,Clippers,Spurs,60 - 59,1,N/A,N/A,N/A
+129,DeMar DeRozan,FOUL_ON_FLOOR,None,7.3,2,Spurs,Clippers,60 - 59,0,N/A,N/A,N/A
+130,Danilo Gallinari,FT,None,7.3,2,Clippers,Spurs,60 - 60,1,N/A,1,N/A
+131,Sindarius Thornwell,SUBSTITUTION,Williams Lou,7.3,2,Clippers,Spurs,60 - 60,1,N/A,N/A,N/A
+132,Danilo Gallinari,FT,None,7.3,2,Clippers,Spurs,60 - 61,1,N/A,1,N/A
+133,LaMarcus Aldridge,FG_MISS,None,3.8,2,Spurs,Clippers,60 - 61,0,12,2,Jumper
+134,Patrick Beverley,DEFENSIVE_REBOUND,None,0.9,2,Clippers,Spurs,60 - 61,1,N/A,N/A,N/A
+135,End of,Unknown,None,0.0,2,Clippers,Spurs,60 - 61,1,N/A,N/A,N/A
+0,Shai Gilgeous-Alexander,SUBSTITUTION,Thornwell Sindarius,12:00,3,Clippers,Spurs,60 - 61,1,N/A,N/A,N/A
+1,Dante Cunningham,SUBSTITUTION,Mills Patty,12:00,3,Spurs,Clippers,60 - 61,0,N/A,N/A,N/A
+2,Derrick White,SUBSTITUTION,Gay Rudy,12:00,3,Spurs,Clippers,60 - 61,0,N/A,N/A,N/A
+3,Shai Gilgeous-Alexander,FG_ASSISTED,Danilo Gallinari,11:49,3,Clippers,Spurs,60 - 63,1,13,2,Jumper
+4,Tobias Harris,FOUL_ON_FLOOR,None,11:35,3,Clippers,Spurs,60 - 63,1,N/A,N/A,N/A
+5,DeMar DeRozan,FG_MISS,None,11:30,3,Spurs,Clippers,60 - 63,0,17,2,Jumper
+6,Marcin Gortat,DEFENSIVE_REBOUND,None,11:26,3,Clippers,Spurs,60 - 63,1,N/A,N/A,N/A
+7,Patrick Beverley,FG_ASSISTED,Tobias Harris,11:21,3,Clippers,Spurs,60 - 66,1,24,3,Jumper
+8,LaMarcus Aldridge,FG_MISS,None,11:07,3,Spurs,Clippers,60 - 66,0,20,2,Jumper
+9,Patrick Beverley,DEFENSIVE_REBOUND,None,11:04,3,Clippers,Spurs,60 - 66,1,N/A,N/A,N/A
+10,Patrick Beverley,FG_MISS,None,10:43,3,Clippers,Spurs,60 - 66,1,5,2,Jumper
+11,LaMarcus Aldridge,DEFENSIVE_REBOUND,None,10:39,3,Spurs,Clippers,60 - 66,0,N/A,N/A,N/A
+12,Derrick White,FG_MISS,None,10:35,3,Spurs,Clippers,60 - 66,0,26,3,Jumper
+13,Marcin Gortat,DEFENSIVE_REBOUND,None,10:30,3,Clippers,Spurs,60 - 66,1,N/A,N/A,N/A
+14,Shai Gilgeous-Alexander,TURNOVER,None,10:29,3,Clippers,Spurs,60 - 66,1,N/A,N/A,N/A
+15,Shai Gilgeous-Alexander,TURNOVER,None,10:29,3,Clippers,Spurs,60 - 66,1,N/A,N/A,N/A
+16,Bryn Forbes,FG_ASSISTED,DeMar DeRozan,10:13,3,Spurs,Clippers,63 - 66,0,26,3,Jumper
+17,Tobias Harris,TURNOVER,DeMar DeRozan,9:51,3,Clippers,Spurs,63 - 66,1,N/A,N/A,N/A
+18,Dante Cunningham,FG_ASSISTED,DeMar DeRozan,9:41,3,Spurs,Clippers,65 - 66,0, ,2,Jumper
+19,Marcin Gortat,FG_ASSISTED,Patrick Beverley,9:19,3,Clippers,Spurs,65 - 68,1,0,2,Layup
+20,Patrick Beverley,FOUL_ON_FLOOR,None,9:13,3,Clippers,Spurs,65 - 68,1,N/A,N/A,N/A
+21,LaMarcus Aldridge,FG_MISS,None,9:00,3,Spurs,Clippers,65 - 68,0,3,2,Jumper
+22,Tobias Harris,DEFENSIVE_REBOUND,None,8:57,3,Clippers,Spurs,65 - 68,1,N/A,N/A,N/A
+23,Tobias Harris,FOUL_ON_FLOOR,None,8:54,3,Clippers,Spurs,65 - 68,1,N/A,N/A,N/A
+24,Tobias Harris,TURNOVER,None,8:54,3,Clippers,Spurs,65 - 68,1,N/A,N/A,N/A
+25,Derrick White,TURNOVER,Patrick Beverley,8:47,3,Spurs,Clippers,65 - 68,0,N/A,N/A,N/A
+26,Patrick Beverley,FG_MISS,Dante Cunningham,8:42,3,Spurs,Clippers,65 - 68,1,3,2,Jumper
+27,Derrick White,DEFENSIVE_REBOUND,None,8:37,3,Spurs,Clippers,65 - 68,0,N/A,N/A,N/A
+28,DeMar DeRozan,FG_ASSISTED,Derrick White,8:35,3,Spurs,Clippers,67 - 68,0, ,2,Jumper
+29,Danilo Gallinari,FG_MISS,None,8:22,3,Clippers,Spurs,67 - 68,1,18,2,Jumper
+30,Bryn Forbes,DEFENSIVE_REBOUND,None,8:18,3,Spurs,Clippers,67 - 68,0,N/A,N/A,N/A
+31,LaMarcus Aldridge,FG_MISS,None,7:55,3,Spurs,Clippers,67 - 68,0,9,2,Jumper
+32,Patrick Beverley,DEFENSIVE_REBOUND,None,7:52,3,Clippers,Spurs,67 - 68,1,N/A,N/A,N/A
+33,Patrick Beverley,FG_ASSISTED,Tobias Harris,7:42,3,Clippers,Spurs,67 - 71,1,26,3,Jumper
+34,Team,Unknown,None,7:41,3,Spurs,Clippers,67 - 71,0,N/A,N/A,N/A
+35,Derrick White,FG_MISS,None,7:16,3,Spurs,Clippers,67 - 71,0,14,2,Jumper
+36,Tobias Harris,DEFENSIVE_REBOUND,None,7:15,3,Clippers,Spurs,67 - 71,1,N/A,N/A,N/A
+37,Shai Gilgeous-Alexander,FG_UNASSISTED,None,7:06,3,Clippers,Spurs,67 - 73,1,18,2,Jumper
+38,Derrick White,FG_MISS,None,6:54,3,Spurs,Clippers,67 - 73,0, ,2,Jumper
+39,Marcin Gortat,DEFENSIVE_REBOUND,None,6:51,3,Clippers,Spurs,67 - 73,1,N/A,N/A,N/A
+40,Marcin Gortat,FG_ASSISTED,Tobias Harris,6:47,3,Clippers,Spurs,67 - 75,1,0,2,Layup
+41,Team,Unknown,None,6:46,3,Spurs,Clippers,67 - 75,0,N/A,N/A,N/A
+42,Rudy Gay,SUBSTITUTION,Cunningham Dante,6:46,3,Spurs,Clippers,67 - 75,0,N/A,N/A,N/A
+43,Patty Mills,SUBSTITUTION,White Derrick,6:46,3,Spurs,Clippers,67 - 75,0,N/A,N/A,N/A
+44,DeMar DeRozan,FG_UNASSISTED,None,6:34,3,Spurs,Clippers,69 - 75,0,3,2,Jumper
+45,DeMar DeRozan,FOUL_ON_FLOOR,None,6:16,3,Spurs,Clippers,69 - 75,0,N/A,N/A,N/A
+46,Marcin Gortat,FT_MISS,None,6:16,3,Clippers,Spurs,69 - 75,1,N/A,1,N/A
+47,Team,OFFENSIVE_REBOUND,None,6:16,3,Clippers,Spurs,69 - 75,1,N/A,N/A,N/A
+48,Marcin Gortat,FT,None,6:16,3,Clippers,Spurs,69 - 76,1,N/A,1,N/A
+49,DeMar DeRozan,FG_MISS,None,6:06,3,Spurs,Clippers,69 - 76,0,12,2,Jumper
+50,Rudy Gay,OFFENSIVE_REBOUND,None,5:57,3,Spurs,Clippers,69 - 76,0,N/A,N/A,N/A
+51,Rudy Gay,FG_UNASSISTED,None,5:57,3,Spurs,Clippers,71 - 76,0, ,2,Jumper
+52,Rudy Gay,FOUL_ON_FLOOR,None,5:50,3,Spurs,Clippers,71 - 76,0,N/A,N/A,N/A
+53,Patrick Beverley,FG_MISS,None,5:36,3,Clippers,Spurs,71 - 76,1, ,2,Jumper
+54,Patty Mills,DEFENSIVE_REBOUND,None,5:34,3,Spurs,Clippers,71 - 76,0,N/A,N/A,N/A
+55,Bryn Forbes,FG_MISS,None,5:32,3,Spurs,Clippers,71 - 76,0, ,2,Jumper
+56,Patrick Beverley,DEFENSIVE_REBOUND,None,5:27,3,Clippers,Spurs,71 - 76,1,N/A,N/A,N/A
+57,Tobias Harris,FG_ASSISTED,Marcin Gortat,5:16,3,Clippers,Spurs,71 - 78,1,0,2,Dunk
+58,Patty Mills,FG_MISS,None,5:01,3,Spurs,Clippers,71 - 78,0,19,2,Jumper
+59,Shai Gilgeous-Alexander,DEFENSIVE_REBOUND,None,4:55,3,Clippers,Spurs,71 - 78,1,N/A,N/A,N/A
+60,LaMarcus Aldridge,FOUL_ON_FLOOR,None,4:49,3,Spurs,Clippers,71 - 78,0,N/A,N/A,N/A
+61,Shai Gilgeous-Alexander,FT_MISS,None,4:49,3,Clippers,Spurs,71 - 78,1,N/A,1,N/A
+62,Team,OFFENSIVE_REBOUND,None,4:49,3,Clippers,Spurs,71 - 78,1,N/A,N/A,N/A
+63,Mike Scott,SUBSTITUTION,Gallinari Danilo,4:49,3,Clippers,Spurs,71 - 78,1,N/A,N/A,N/A
+64,Lou Williams,SUBSTITUTION,Beverley Patrick,4:49,3,Clippers,Spurs,71 - 78,1,N/A,N/A,N/A
+65,Shai Gilgeous-Alexander,FT,None,4:49,3,Clippers,Spurs,71 - 79,1,N/A,1,N/A
+66,Patty Mills,FG_UNASSISTED,None,4:40,3,Spurs,Clippers,73 - 79,0,0,2,Layup
+67,Shai Gilgeous-Alexander,FG_MISS,None,4:29,3,Clippers,Spurs,73 - 79,1,12,2,Jumper
+68,Team,DEFENSIVE_REBOUND,None,4:28,3,Spurs,Clippers,73 - 79,0,N/A,N/A,N/A
+69,Tyrone Wallace,SUBSTITUTION,Gilgeous-Alexander Shai,4:28,3,Clippers,Spurs,73 - 79,1,N/A,N/A,N/A
+70,DeMar DeRozan,FG_UNASSISTED,None,4:14,3,Spurs,Clippers,75 - 79,0, ,2,Jumper
+71,Tobias Harris,FG_MISS,None,3:53,3,Clippers,Spurs,75 - 79,1,13,2,Jumper
+72,LaMarcus Aldridge,DEFENSIVE_REBOUND,None,3:51,3,Spurs,Clippers,75 - 79,0,N/A,N/A,N/A
+73,Bryn Forbes,FG_MISS,None,3:43,3,Spurs,Clippers,75 - 79,0,14,2,Jumper
+74,Mike Scott,DEFENSIVE_REBOUND,None,3:37,3,Clippers,Spurs,75 - 79,1,N/A,N/A,N/A
+75,Mike Scott,TURNOVER,DeMar DeRozan,3:37,3,Clippers,Spurs,75 - 79,1,N/A,N/A,N/A
+76,Tyrone Wallace,FOUL_ON_FLOOR,None,3:37,3,Clippers,Spurs,75 - 79,1,N/A,N/A,N/A
+77,DeMar DeRozan,FT,None,3:37,3,Spurs,Clippers,76 - 79,0,N/A,1,N/A
+78,DeMar DeRozan,FT,None,3:37,3,Spurs,Clippers,77 - 79,0,N/A,1,N/A
+79,Mike Scott,FG_MISS,None,3:26,3,Clippers,Spurs,77 - 79,1,25,3,Jumper
+80,Team,OFFENSIVE_REBOUND,None,3:24,3,Clippers,Spurs,77 - 79,1,N/A,N/A,N/A
+81,Montrezl Harrell,SUBSTITUTION,Gortat Marcin,3:24,3,Clippers,Spurs,77 - 79,1,N/A,N/A,N/A
+82,Jakob Poeltl,SUBSTITUTION,Forbes Bryn,3:24,3,Spurs,Clippers,77 - 79,0,N/A,N/A,N/A
+83,Marco Belinelli,SUBSTITUTION,Aldridge LaMarcus,3:24,3,Spurs,Clippers,77 - 79,0,N/A,N/A,N/A
+84,Tyrone Wallace,FG_ASSISTED,Tobias Harris,3:13,3,Clippers,Spurs,77 - 81,1,0,2,Layup
+85,Rudy Gay,FG_UNASSISTED,None,2:47,3,Spurs,Clippers,79 - 81,0,11,2,Jumper
+86,Lou Williams,FG_MISS,None,2:28,3,Clippers,Spurs,79 - 81,1,0,2,Layup
+87,Jakob Poeltl,DEFENSIVE_REBOUND,None,2:25,3,Spurs,Clippers,79 - 81,0,N/A,N/A,N/A
+88,Rudy Gay,FG_MISS,None,2:18,3,Spurs,Clippers,79 - 81,0,11,2,Jumper
+89,Montrezl Harrell,DEFENSIVE_REBOUND,None,2:14,3,Clippers,Spurs,79 - 81,1,N/A,N/A,N/A
+90,Tyrone Wallace,FG_UNASSISTED,None,2:07,3,Clippers,Spurs,79 - 83,1,12,2,Jumper
+91,DeMar DeRozan,FG_UNASSISTED,None,1:48,3,Spurs,Clippers,81 - 83,0,7,2,Jumper
+92,Lou Williams,FG_ASSISTED,Montrezl Harrell,1:34,3,Clippers,Spurs,81 - 85,1,0,2,Layup
+93,DeMar DeRozan,FG_MISS,Tobias Harris,1:19,3,Clippers,Spurs,81 - 85,0,11,2,Jumper
+94,Tobias Harris,DEFENSIVE_REBOUND,None,1:17,3,Clippers,Spurs,81 - 85,1,N/A,N/A,N/A
+95,Lou Williams,FG_MISS,None,1:15,3,Clippers,Spurs,81 - 85,1, ,2,Jumper
+96,Tobias Harris,OFFENSIVE_REBOUND,None,1:06,3,Clippers,Spurs,81 - 85,1,N/A,N/A,N/A
+97,Tobias Harris,FG_UNASSISTED,None,1:06,3,Clippers,Spurs,81 - 87,1, ,2,Jumper
+98,DeMar DeRozan,FG_UNASSISTED,None,52.1,3,Spurs,Clippers,83 - 87,0,9,2,Jumper
+99,Lou Williams,FG_UNASSISTED,None,40.6,3,Clippers,Spurs,83 - 89,1,10,2,Jumper
+100,Tyrone Wallace,FOUL_ON_FLOOR,None,39.4,3,Clippers,Spurs,83 - 89,1,N/A,N/A,N/A
+101,Sindarius Thornwell,SUBSTITUTION,Harris Tobias,39.4,3,Clippers,Spurs,83 - 89,1,N/A,N/A,N/A
+102,Patty Mills,FG_MISS,None,22.6,3,Spurs,Clippers,83 - 89,0,26,3,Jumper
+103,Jakob Poeltl,OFFENSIVE_REBOUND,None,17.1,3,Spurs,Clippers,83 - 89,0,N/A,N/A,N/A
+104,Sindarius Thornwell,FOUL_ON_FLOOR,None,17.1,3,Clippers,Spurs,83 - 89,1,N/A,N/A,N/A
+105,Team,Unknown,None,17.1,3,Clippers,Spurs,83 - 89,1,N/A,N/A,N/A
+106,Dante Cunningham,SUBSTITUTION,DeRozan DeMar,17.1,3,Spurs,Clippers,83 - 89,0,N/A,N/A,N/A
+107,Jakob Poeltl,FT_MISS,None,17.1,3,Spurs,Clippers,83 - 89,0,N/A,1,N/A
+108,Team,OFFENSIVE_REBOUND,None,17.1,3,Spurs,Clippers,83 - 89,0,N/A,N/A,N/A
+109,Jakob Poeltl,FT,None,17.1,3,Spurs,Clippers,84 - 89,0,N/A,1,N/A
+110,Jakob Poeltl,FOUL_ON_FLOOR,None,3.2,3,Spurs,Clippers,84 - 89,0,N/A,N/A,N/A
+111,Montrezl Harrell,FT,None,3.2,3,Clippers,Spurs,84 - 90,1,N/A,1,N/A
+112,Montrezl Harrell,FT,None,3.2,3,Clippers,Spurs,84 - 91,1,N/A,1,N/A
+113,Patty Mills,FG_MISS,None,0.4,3,Spurs,Clippers,84 - 91,0,35,3,Jumper
+114,Team,OFFENSIVE_REBOUND,None,0.1,3,Spurs,Clippers,84 - 91,0,N/A,N/A,N/A
+115,End of,Unknown,None,0.0,3,Clippers,Spurs,84 - 91,1,N/A,N/A,N/A
+0,Bryn Forbes,SUBSTITUTION,Cunningham Dante,12:00,4,Spurs,Clippers,84 - 91,0,N/A,N/A,N/A
+1,Mike Scott,FOUL_ON_FLOOR,None,11:49,4,Clippers,Spurs,84 - 91,1,N/A,N/A,N/A
+2,Jakob Poeltl,FG_MISS,None,11:35,4,Spurs,Clippers,84 - 91,0,4,2,Jumper
+3,Montrezl Harrell,DEFENSIVE_REBOUND,None,11:30,4,Clippers,Spurs,84 - 91,1,N/A,N/A,N/A
+4,Montrezl Harrell,FG_ASSISTED,Sindarius Thornwell,11:25,4,Clippers,Spurs,84 - 93,1,0,2,Dunk
+5,LaMarcus Aldridge,SUBSTITUTION,Gay Rudy,11:11,4,Spurs,Clippers,84 - 93,0,N/A,N/A,N/A
+6,Dante Cunningham,SUBSTITUTION,Poeltl Jakob,11:11,4,Spurs,Clippers,84 - 93,0,N/A,N/A,N/A
+7,Patty Mills,FG_MISS,None,10:59,4,Spurs,Clippers,84 - 93,0,23,2,Jumper
+8,Tyrone Wallace,DEFENSIVE_REBOUND,None,10:57,4,Clippers,Spurs,84 - 93,1,N/A,N/A,N/A
+9,Tyrone Wallace,FG_MISS,LaMarcus Aldridge,10:52,4,Spurs,Clippers,84 - 93,1,3,2,Jumper
+10,Team,OFFENSIVE_REBOUND,None,10:52,4,Clippers,Spurs,84 - 93,1,N/A,N/A,N/A
+11,Mike Scott,FOUL_ON_FLOOR,None,10:48,4,Clippers,Spurs,84 - 93,1,N/A,N/A,N/A
+12,Mike Scott,TURNOVER,None,10:48,4,Clippers,Spurs,84 - 93,1,N/A,N/A,N/A
+13,LaMarcus Aldridge,FOUL_ON_FLOOR,None,10:35,4,Spurs,Clippers,84 - 93,0,N/A,N/A,N/A
+14,LaMarcus Aldridge,TURNOVER,None,10:35,4,Spurs,Clippers,84 - 93,0,N/A,N/A,N/A
+15,Lou Williams,FG_MISS,None,10:23,4,Clippers,Spurs,84 - 93,1,10,2,Jumper
+16,LaMarcus Aldridge,DEFENSIVE_REBOUND,None,10:19,4,Spurs,Clippers,84 - 93,0,N/A,N/A,N/A
+17,Marco Belinelli,FG_MISS,None,10:14,4,Spurs,Clippers,84 - 93,0, ,3,Jumper
+18,Team,DEFENSIVE_REBOUND,None,10:14,4,Clippers,Spurs,84 - 93,1,N/A,N/A,N/A
+19,Lou Williams,FG_MISS,None,10:04,4,Clippers,Spurs,84 - 93,1,19,2,Jumper
+20,Montrezl Harrell,OFFENSIVE_REBOUND,None,10:01,4,Clippers,Spurs,84 - 93,1,N/A,N/A,N/A
+21,Dante Cunningham,FOUL_ON_FLOOR,None,10:01,4,Spurs,Clippers,84 - 93,0,N/A,N/A,N/A
+22,Montrezl Harrell,FT,None,10:01,4,Clippers,Spurs,84 - 94,1,N/A,1,N/A
+23,Montrezl Harrell,FT_MISS,None,10:01,4,Clippers,Spurs,84 - 94,1,N/A,1,N/A
+24,LaMarcus Aldridge,DEFENSIVE_REBOUND,None,9:59,4,Spurs,Clippers,84 - 94,0,N/A,N/A,N/A
+25,Marco Belinelli,FG_ASSISTED,Patty Mills,9:38,4,Spurs,Clippers,86 - 94,0,19,2,Jumper
+26,Montrezl Harrell,FG_ASSISTED,Lou Williams,9:27,4,Clippers,Spurs,86 - 96,1,0,2,Dunk
+27,Team,Unknown,None,9:25,4,Spurs,Clippers,86 - 96,0,N/A,N/A,N/A
+28,DeMar DeRozan,SUBSTITUTION,Forbes Bryn,9:25,4,Spurs,Clippers,86 - 96,0,N/A,N/A,N/A
+29,LaMarcus Aldridge,FG_MISS,None,9:07,4,Spurs,Clippers,86 - 96,0,7,2,Jumper
+30,Dante Cunningham,OFFENSIVE_REBOUND,None,9:03,4,Spurs,Clippers,86 - 96,0,N/A,N/A,N/A
+31,Dante Cunningham's,FG_MISS,Montrezl Harrell,9:03,4,Clippers,Spurs,86 - 96,0, ,2,Jumper
+32,Dante Cunningham,OFFENSIVE_REBOUND,None,9:03,4,Spurs,Clippers,86 - 96,0,N/A,N/A,N/A
+33,Mike Scott,FOUL_ON_FLOOR,None,9:03,4,Clippers,Spurs,86 - 96,1,N/A,N/A,N/A
+34,Danilo Gallinari,SUBSTITUTION,Scott Mike,9:03,4,Clippers,Spurs,86 - 96,1,N/A,N/A,N/A
+35,Dante Cunningham,FT,None,9:03,4,Spurs,Clippers,87 - 96,0,N/A,1,N/A
+36,Dante Cunningham,FT,None,9:03,4,Spurs,Clippers,88 - 96,0,N/A,1,N/A
+37,Lou Williams,FG_MISS,None,8:46,4,Clippers,Spurs,88 - 96,1, ,2,Jumper
+38,LaMarcus Aldridge,DEFENSIVE_REBOUND,None,8:43,4,Spurs,Clippers,88 - 96,0,N/A,N/A,N/A
+39,Tyrone Wallace,FOUL_ON_FLOOR,None,8:40,4,Clippers,Spurs,88 - 96,1,N/A,N/A,N/A
+40,DeMar DeRozan,FT_MISS,None,8:40,4,Spurs,Clippers,88 - 96,0,N/A,1,N/A
+41,Team,OFFENSIVE_REBOUND,None,8:40,4,Spurs,Clippers,88 - 96,0,N/A,N/A,N/A
+42,Patrick Beverley,SUBSTITUTION,Wallace Tyrone,8:40,4,Clippers,Spurs,88 - 96,1,N/A,N/A,N/A
+43,DeMar DeRozan,FT_MISS,None,8:40,4,Spurs,Clippers,88 - 96,0,N/A,1,N/A
+44,LaMarcus Aldridge,OFFENSIVE_REBOUND,None,8:35,4,Spurs,Clippers,88 - 96,0,N/A,N/A,N/A
+45,DeMar DeRozan,FG_MISS,None,8:32,4,Spurs,Clippers,88 - 96,0,23,3,Jumper
+46,LaMarcus Aldridge,OFFENSIVE_REBOUND,None,8:28,4,Spurs,Clippers,88 - 96,0,N/A,N/A,N/A
+47,LaMarcus Aldridge,FG_MISS,None,8:22,4,Spurs,Clippers,88 - 96,0,6,2,Jumper
+48,Danilo Gallinari,DEFENSIVE_REBOUND,None,8:20,4,Clippers,Spurs,88 - 96,1,N/A,N/A,N/A
+49,Tobias Harris,SUBSTITUTION,Thornwell Sindarius,8:08,4,Clippers,Spurs,88 - 96,1,N/A,N/A,N/A
+50,DeMar DeRozan,FOUL_ON_FLOOR,None,8:03,4,Spurs,Clippers,88 - 96,0,N/A,N/A,N/A
+51,Rudy Gay,SUBSTITUTION,Cunningham Dante,8:03,4,Spurs,Clippers,88 - 96,0,N/A,N/A,N/A
+52,Tobias Harris,FG_MISS,None,7:56,4,Clippers,Spurs,88 - 96,1,28,3,Jumper
+53,DeMar DeRozan,DEFENSIVE_REBOUND,None,7:52,4,Spurs,Clippers,88 - 96,0,N/A,N/A,N/A
+54,Patty Mills,FG_ASSISTED,DeMar DeRozan,7:44,4,Spurs,Clippers,91 - 96,0,25,3,Jumper
+55,Patrick Beverley,FG_MISS,None,7:18,4,Clippers,Spurs,91 - 96,1,25,3,Jumper
+56,LaMarcus Aldridge,DEFENSIVE_REBOUND,None,7:13,4,Spurs,Clippers,91 - 96,0,N/A,N/A,N/A
+57,Marco Belinelli,FG_ASSISTED,Patty Mills,7:08,4,Spurs,Clippers,94 - 96,0,25,3,Jumper
+58,Team,Unknown,None,7:07,4,Clippers,Spurs,94 - 96,1,N/A,N/A,N/A
+59,Shai Gilgeous-Alexander,SUBSTITUTION,Williams Lou,7:07,4,Clippers,Spurs,94 - 96,1,N/A,N/A,N/A
+60,Danilo Gallinari,FG_MISS,None,6:44,4,Clippers,Spurs,94 - 96,1, ,2,Jumper
+61,Team,DEFENSIVE_REBOUND,None,6:44,4,Spurs,Clippers,94 - 96,0,N/A,N/A,N/A
+62,Patty Mills,FG_MISS,None,6:32,4,Spurs,Clippers,94 - 96,0,23,3,Jumper
+63,Montrezl Harrell,DEFENSIVE_REBOUND,None,6:29,4,Clippers,Spurs,94 - 96,1,N/A,N/A,N/A
+64,Rudy Gay,FOUL_ON_FLOOR,None,6:21,4,Spurs,Clippers,94 - 96,0,N/A,N/A,N/A
+65,Danilo Gallinari,FG_ASSISTED,Patrick Beverley,6:13,4,Clippers,Spurs,94 - 99,1,26,3,Jumper
+66,Rudy Gay,FG_ASSISTED,DeMar DeRozan,5:51,4,Spurs,Clippers,96 - 99,0,0,2,Layup
+67,Montrezl Harrell,FG_MISS,None,5:39,4,Clippers,Spurs,96 - 99,1,0,2,Layup
+68,Shai Gilgeous-Alexander,OFFENSIVE_REBOUND,None,5:37,4,Clippers,Spurs,96 - 99,1,N/A,N/A,N/A
+69,DeMar DeRozan,FOUL_ON_FLOOR,None,5:37,4,Spurs,Clippers,96 - 99,0,N/A,N/A,N/A
+70,Danilo Gallinari,FG_MISS,None,5:31,4,Clippers,Spurs,96 - 99,1,25,3,Jumper
+71,LaMarcus Aldridge,DEFENSIVE_REBOUND,None,5:28,4,Spurs,Clippers,96 - 99,0,N/A,N/A,N/A
+72,Rudy Gay,FG_MISS,None,5:18,4,Spurs,Clippers,96 - 99,0,24,3,Jumper
+73,LaMarcus Aldridge,OFFENSIVE_REBOUND,None,5:17,4,Spurs,Clippers,96 - 99,0,N/A,N/A,N/A
+74,Tobias Harris,FOUL_ON_FLOOR,None,5:08,4,Clippers,Spurs,96 - 99,1,N/A,N/A,N/A
+75,LaMarcus Aldridge,FT,None,5:08,4,Spurs,Clippers,97 - 99,0,N/A,1,N/A
+76,LaMarcus Aldridge,FT,None,5:08,4,Spurs,Clippers,98 - 99,0,N/A,1,N/A
+77,Shai Gilgeous-Alexander,FG_UNASSISTED,None,4:49,4,Clippers,Spurs,98 - 101,1,9,2,Jumper
+78,DeMar DeRozan,FG_MISS,None,4:35,4,Spurs,Clippers,98 - 101,0,13,2,Jumper
+79,Shai Gilgeous-Alexander,DEFENSIVE_REBOUND,None,4:31,4,Clippers,Spurs,98 - 101,1,N/A,N/A,N/A
+80,Montrezl Harrell's,FG_MISS,LaMarcus Aldridge,4:19,4,Spurs,Clippers,98 - 101,1,1,2,Jumper
+81,Team,DEFENSIVE_REBOUND,None,4:17,4,Spurs,Clippers,98 - 101,0,N/A,N/A,N/A
+82,Montrezl Harrell,FOUL_ON_FLOOR,None,4:17,4,Clippers,Spurs,98 - 101,1,N/A,N/A,N/A
+83,Marco Belinelli,FT,None,4:17,4,Spurs,Clippers,99 - 101,0,N/A,1,N/A
+84,Lou Williams,SUBSTITUTION,Beverley Patrick,4:17,4,Clippers,Spurs,99 - 101,1,N/A,N/A,N/A
+85,Bryn Forbes,SUBSTITUTION,Gay Rudy,4:17,4,Spurs,Clippers,99 - 101,0,N/A,N/A,N/A
+86,Marco Belinelli,FT,None,4:17,4,Spurs,Clippers,100 - 101,0,N/A,1,N/A
+87,Lou Williams,FG_ASSISTED,Montrezl Harrell,4:00,4,Clippers,Spurs,100 - 103,1,14,2,Jumper
+88,DeMar DeRozan,FG_MISS,None,3:38,4,Spurs,Clippers,100 - 103,0,15,2,Jumper
+89,Danilo Gallinari,DEFENSIVE_REBOUND,None,3:36,4,Clippers,Spurs,100 - 103,1,N/A,N/A,N/A
+90,Danilo Gallinari,TURNOVER,LaMarcus Aldridge,3:29,4,Clippers,Spurs,100 - 103,1,N/A,N/A,N/A
+91,Marco Belinelli,FG_MISS,None,3:25,4,Spurs,Clippers,100 - 103,0,1,2,Jumper
+92,Marco Belinelli,OFFENSIVE_REBOUND,None,3:21,4,Spurs,Clippers,100 - 103,0,N/A,N/A,N/A
+93,DeMar DeRozan,FG_ASSISTED,Marco Belinelli,3:19,4,Spurs,Clippers,102 - 103,0,0,2,Layup
+94,Team,Unknown,None,3:18,4,Clippers,Spurs,102 - 103,1,N/A,N/A,N/A
+95,Shai Gilgeous-Alexander,FG_UNASSISTED,None,3:00,4,Clippers,Spurs,102 - 105,1,14,2,Jumper
+96,LaMarcus Aldridge,FG_MISS,None,2:40,4,Spurs,Clippers,102 - 105,0,6,2,Jumper
+97,Team,OFFENSIVE_REBOUND,None,2:39,4,Spurs,Clippers,102 - 105,0,N/A,N/A,N/A
+98,Patty Mills,FG_MISS,None,2:31,4,Spurs,Clippers,102 - 105,0,23,3,Jumper
+99,Shai Gilgeous-Alexander,DEFENSIVE_REBOUND,None,2:25,4,Clippers,Spurs,102 - 105,1,N/A,N/A,N/A
+100,Lou Williams,FG_UNASSISTED,None,2:14,4,Clippers,Spurs,102 - 107,1,17,2,Jumper
+101,Bryn Forbes,FG_ASSISTED,Marco Belinelli,1:54,4,Spurs,Clippers,105 - 107,0,25,3,Jumper
+102,Lou Williams,FG_MISS,None,1:35,4,Clippers,Spurs,105 - 107,1,25,3,Jumper
+103,Shai Gilgeous-Alexander,OFFENSIVE_REBOUND,None,1:32,4,Clippers,Spurs,105 - 107,1,N/A,N/A,N/A
+104,Marco Belinelli,FOUL_ON_FLOOR,None,1:30,4,Spurs,Clippers,105 - 107,0,N/A,N/A,N/A
+105,Montrezl Harrell,FT_MISS,None,1:30,4,Clippers,Spurs,105 - 107,1,N/A,1,N/A
+106,Team,OFFENSIVE_REBOUND,None,1:30,4,Clippers,Spurs,105 - 107,1,N/A,N/A,N/A
+107,Montrezl Harrell,FT_MISS,None,1:30,4,Clippers,Spurs,105 - 107,1,N/A,1,N/A
+108,Marco Belinelli,DEFENSIVE_REBOUND,None,1:27,4,Spurs,Clippers,105 - 107,0,N/A,N/A,N/A
+109,Danilo Gallinari,FOUL_ON_FLOOR,None,1:13,4,Clippers,Spurs,105 - 107,1,N/A,N/A,N/A
+110,LaMarcus Aldridge,FT,None,1:13,4,Spurs,Clippers,106 - 107,0,N/A,1,N/A
+111,LaMarcus Aldridge,FT,None,1:13,4,Spurs,Clippers,107 - 107,0,N/A,1,N/A
+112,Shai Gilgeous-Alexander,FG_MISS,None,52.4,4,Clippers,Spurs,107 - 107,1,23,3,Jumper
+113,Tobias Harris,OFFENSIVE_REBOUND,None,48.5,4,Clippers,Spurs,107 - 107,1,N/A,N/A,N/A
+114,Lou Williams,FG_UNASSISTED,None,41.4,4,Clippers,Spurs,107 - 110,1,29,3,Jumper
+115,Team,Unknown,None,40.7,4,Spurs,Clippers,107 - 110,0,N/A,N/A,N/A
+116,Patrick Beverley,SUBSTITUTION,Williams Lou,40.7,4,Clippers,Spurs,107 - 110,1,N/A,N/A,N/A
+117,DeMar DeRozan,FG_UNASSISTED,None,36.0,4,Spurs,Clippers,109 - 110,0,0,2,Layup
+118,Team,Unknown,None,36.0,4,Clippers,Spurs,109 - 110,1,N/A,N/A,N/A
+119,Lou Williams,SUBSTITUTION,Beverley Patrick,36.0,4,Clippers,Spurs,109 - 110,1,N/A,N/A,N/A
+120,Dante Cunningham,SUBSTITUTION,Belinelli Marco,36.0,4,Spurs,Clippers,109 - 110,0,N/A,N/A,N/A
+121,Dante Cunningham,FOUL_ON_FLOOR,None,27.2,4,Spurs,Clippers,109 - 110,0,N/A,N/A,N/A
+122,Danilo Gallinari,FT,None,27.2,4,Clippers,Spurs,109 - 111,1,N/A,1,N/A
+123,Patrick Beverley,SUBSTITUTION,Williams Lou,27.2,4,Clippers,Spurs,109 - 111,1,N/A,N/A,N/A
+124,Danilo Gallinari,FT,None,27.2,4,Clippers,Spurs,109 - 112,1,N/A,1,N/A
+125,Team,Unknown,None,27.2,4,Spurs,Clippers,109 - 112,0,N/A,N/A,N/A
+126,Marco Belinelli,SUBSTITUTION,Cunningham Dante,27.2,4,Spurs,Clippers,109 - 112,0,N/A,N/A,N/A
+127,DeMar DeRozan,TURNOVER,Montrezl Harrell,19.3,4,Spurs,Clippers,109 - 112,0,N/A,N/A,N/A
+128,Marco Belinelli,FOUL_ON_FLOOR,None,15.9,4,Spurs,Clippers,109 - 112,0,N/A,N/A,N/A
+129,Danilo Gallinari,FT,None,15.9,4,Clippers,Spurs,109 - 113,1,N/A,1,N/A
+130,Danilo Gallinari,FT,None,15.9,4,Clippers,Spurs,109 - 114,1,N/A,1,N/A
+131,DeMar DeRozan,FG_UNASSISTED,None,8.7,4,Spurs,Clippers,111 - 114,0,0,2,Dunk
+132,Team,Unknown,None,8.7,4,Clippers,Spurs,111 - 114,1,N/A,N/A,N/A
+133,Lou Williams,SUBSTITUTION,Harrell Montrezl,8.7,4,Clippers,Spurs,111 - 114,1,N/A,N/A,N/A
+134,Dante Cunningham,SUBSTITUTION,Aldridge LaMarcus,8.7,4,Spurs,Clippers,111 - 114,0,N/A,N/A,N/A
+135,Quincy Pondexter,SUBSTITUTION,Belinelli Marco,8.7,4,Spurs,Clippers,111 - 114,0,N/A,N/A,N/A
+136,Patty Mills,FOUL_ON_FLOOR,None,7.7,4,Spurs,Clippers,111 - 114,0,N/A,N/A,N/A
+137,Lou Williams,FT,None,7.7,4,Clippers,Spurs,111 - 115,1,N/A,1,N/A
+138,Montrezl Harrell,SUBSTITUTION,Harris Tobias,7.7,4,Clippers,Spurs,111 - 115,1,N/A,N/A,N/A
+139,LaMarcus Aldridge,SUBSTITUTION,Cunningham Dante,7.7,4,Spurs,Clippers,111 - 115,0,N/A,N/A,N/A
+140,Marco Belinelli,SUBSTITUTION,Pondexter Quincy,7.7,4,Spurs,Clippers,111 - 115,0,N/A,N/A,N/A
+141,Lou Williams,FT,None,7.7,4,Clippers,Spurs,111 - 116,1,N/A,1,N/A
+142,Bryn Forbes,FG_MISS,None,3.9,4,Spurs,Clippers,111 - 116,0,27,3,Jumper
+143,LaMarcus Aldridge,OFFENSIVE_REBOUND,None,2.7,4,Spurs,Clippers,111 - 116,0,N/A,N/A,N/A
+144,Bryn Forbes,FG_MISS,None,0.1,4,Spurs,Clippers,111 - 116,0,20,2,Jumper
+145,Team,OFFENSIVE_REBOUND,None,0.1,4,Spurs,Clippers,111 - 116,0,N/A,N/A,N/A
+146,End of,Unknown,None,0.0,4,Clippers,Spurs,111 - 116,1,N/A,N/A,N/A
+147,End of,Unknown,None,0.0,4,Clippers,Spurs,111 - 116,1,N/A,N/A,N/A

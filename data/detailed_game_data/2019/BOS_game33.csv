@@ -1,0 +1,476 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Al Horford,JUMP_BALL,None,12:00,1,Celtics,Rockets,0 - 0,0,N/A,N/A,N/A
+1,Jayson Tatum,FG_MISS,None,11:41,1,Celtics,Rockets,0 - 0,0,13,3,Jumper
+2,PJ Tucker,DEFENSIVE_REBOUND,None,11:39,1,Rockets,Celtics,0 - 0,1,N/A,N/A,N/A
+3,James Harden,TURNOVER,Al Horford,11:32,1,Rockets,Celtics,0 - 0,1,N/A,N/A,N/A
+4,Kyrie Irving,FG_UNASSISTED,None,11:25,1,Celtics,Rockets,2 - 0,0,0,2,Layup
+5,Eric Gordon,FG_MISS,None,11:07,1,Rockets,Celtics,2 - 0,1,29,3,Jumper
+6,Clint Capela,OFFENSIVE_REBOUND,None,11:03,1,Rockets,Celtics,2 - 0,1,N/A,N/A,N/A
+7,Clint Capela,FG_UNASSISTED,None,11:02,1,Rockets,Celtics,2 - 2,1,3,3,Jumper
+8,Kyrie Irving,FG_MISS,None,10:46,1,Celtics,Rockets,2 - 2,0,29,3,Jumper
+9,Danuel House,DEFENSIVE_REBOUND,None,10:44,1,Rockets,Celtics,2 - 2,1,N/A,N/A,N/A
+10,Clint Capela,FG_MISS,None,10:39,1,Rockets,Celtics,2 - 2,1,0,2,Layup
+11,Marcus Morris,DEFENSIVE_REBOUND,None,10:37,1,Celtics,Rockets,2 - 2,0,N/A,N/A,N/A
+12,Al Horford,TURNOVER,PJ Tucker,10:25,1,Celtics,Rockets,2 - 2,0,N/A,N/A,N/A
+13,James Harden,FG_UNASSISTED,None,10:13,1,Rockets,Celtics,2 - 5,1,27,3,Jumper
+14,Al Horford,FG_MISS,None,9:50,1,Celtics,Rockets,2 - 5,0,4,3,Jumper
+15,PJ Tucker,DEFENSIVE_REBOUND,None,9:47,1,Rockets,Celtics,2 - 5,1,N/A,N/A,N/A
+16,Al Horford,FOUL_ON_FLOOR,None,9:41,1,Celtics,Rockets,2 - 5,0,N/A,N/A,N/A
+17,Clint Capela,FT,None,9:41,1,Rockets,Celtics,2 - 6,1,N/A,1,N/A
+18,Clint Capela,FT_MISS,None,9:41,1,Rockets,Celtics,2 - 6,1,N/A,1,N/A
+19,Al Horford,DEFENSIVE_REBOUND,None,9:41,1,Celtics,Rockets,2 - 6,0,N/A,N/A,N/A
+20,Jayson Tatum,FG_ASSISTED,Al Horford,9:23,1,Celtics,Rockets,4 - 6,0,19,3,Jumper
+21,Eric Gordon,FG_UNASSISTED,None,9:14,1,Rockets,Celtics,4 - 8,1,0,2,Layup
+22,Marcus Morris,FG_ASSISTED,Kyrie Irving,9:02,1,Celtics,Rockets,7 - 8,0,27,3,Jumper
+23,James Harden,FG_MISS,None,8:37,1,Rockets,Celtics,7 - 8,1,26,3,Jumper
+24,Kyrie Irving,DEFENSIVE_REBOUND,None,8:34,1,Celtics,Rockets,7 - 8,0,N/A,N/A,N/A
+25,James Harden,FOUL_ON_FLOOR,None,8:27,1,Rockets,Celtics,7 - 8,1,N/A,N/A,N/A
+26,Danuel House,FOUL_ON_FLOOR,None,8:20,1,Rockets,Celtics,7 - 8,1,N/A,N/A,N/A
+27,Marcus Morris,FT,None,8:20,1,Celtics,Rockets,8 - 8,0,N/A,1,N/A
+28,Marcus Morris,FT,None,8:20,1,Celtics,Rockets,9 - 8,0,N/A,1,N/A
+29,Marcus Morris,FT,None,8:20,1,Celtics,Rockets,10 - 8,0,N/A,1,N/A
+30,Eric Gordon,FG_MISS,None,8:14,1,Rockets,Celtics,10 - 8,1,29,3,Jumper
+31,Kyrie Irving,DEFENSIVE_REBOUND,None,8:10,1,Celtics,Rockets,10 - 8,0,N/A,N/A,N/A
+32,Kyrie Irving,FG_MISS,None,8:03,1,Celtics,Rockets,10 - 8,0,0,2,Layup
+33,Danuel House,DEFENSIVE_REBOUND,None,8:02,1,Rockets,Celtics,10 - 8,1,N/A,N/A,N/A
+34,James Harden,FG_UNASSISTED,None,7:48,1,Rockets,Celtics,10 - 10,1,2,3,Jumper
+35,Al Horford,TURNOVER,None,7:29,1,Celtics,Rockets,10 - 10,0,N/A,N/A,N/A
+36,Eric Gordon,FG_ASSISTED,James Harden,7:18,1,Rockets,Celtics,10 - 12,1,2,3,Jumper
+37,Marcus Smart,FG_MISS,None,7:01,1,Celtics,Rockets,10 - 12,0,23,3,Jumper
+38,Eric Gordon,DEFENSIVE_REBOUND,None,6:57,1,Rockets,Celtics,10 - 12,1,N/A,N/A,N/A
+39,PJ Tucker,FG_MISS,None,6:52,1,Rockets,Celtics,10 - 12,1,24,3,Jumper
+40,Clint Capela,OFFENSIVE_REBOUND,None,6:50,1,Rockets,Celtics,10 - 12,1,N/A,N/A,N/A
+41,Clint Capela,FG_UNASSISTED,None,6:49,1,Rockets,Celtics,10 - 14,1, ,3,Jumper
+42,Kyrie Irving,FG_ASSISTED,Marcus Smart,6:40,1,Celtics,Rockets,13 - 14,0,26,3,Jumper
+43,James Harden,FG_UNASSISTED,None,6:25,1,Rockets,Celtics,13 - 17,1,25,3,Jumper
+44,Marcus Morris,FG_MISS,None,6:06,1,Celtics,Rockets,13 - 17,0,5,3,Jumper
+45,Clint Capela,DEFENSIVE_REBOUND,None,6:04,1,Rockets,Celtics,13 - 17,1,N/A,N/A,N/A
+46,James Harden,FG_MISS,None,5:58,1,Rockets,Celtics,13 - 17,1,26,3,Jumper
+47,Kyrie Irving,DEFENSIVE_REBOUND,None,5:54,1,Celtics,Rockets,13 - 17,0,N/A,N/A,N/A
+48,Marcus Smart,FG_ASSISTED,Kyrie Irving,5:52,1,Celtics,Rockets,15 - 17,0,0,2,Dunk
+49,Team,Unknown,None,5:51,1,Rockets,Celtics,15 - 17,1,N/A,N/A,N/A
+50,Austin Rivers,SUBSTITUTION,House Danuel,5:51,1,Rockets,Celtics,15 - 17,1,N/A,N/A,N/A
+51,Gerald Green,SUBSTITUTION,Gordon Eric,5:51,1,Rockets,Celtics,15 - 17,1,N/A,N/A,N/A
+52,Daniel Theis,SUBSTITUTION,Morris Marcus,5:51,1,Celtics,Rockets,15 - 17,0,N/A,N/A,N/A
+53,Gordon Hayward,SUBSTITUTION,Horford Al,5:51,1,Celtics,Rockets,15 - 17,0,N/A,N/A,N/A
+54,Jayson Tatum,FOUL_ON_FLOOR,None,5:39,1,Celtics,Rockets,15 - 17,0,N/A,N/A,N/A
+55,James Harden,FG_UNASSISTED,None,5:26,1,Rockets,Celtics,15 - 20,1,27,3,Jumper
+56,Austin Rivers,FOUL_ON_FLOOR,None,5:06,1,Rockets,Celtics,15 - 20,1,N/A,N/A,N/A
+57,Marcus Smart,FT,None,5:06,1,Celtics,Rockets,16 - 20,0,N/A,1,N/A
+58,Marcus Smart,FT_MISS,None,5:06,1,Celtics,Rockets,16 - 20,0,N/A,1,N/A
+59,James Harden,DEFENSIVE_REBOUND,None,5:06,1,Rockets,Celtics,16 - 20,1,N/A,N/A,N/A
+60,Clint Capela,TURNOVER,Jayson Tatum,4:55,1,Rockets,Celtics,16 - 20,1,N/A,N/A,N/A
+61,Jayson Tatum,FG_MISS,None,4:46,1,Celtics,Rockets,16 - 20,0,0,2,Layup
+62,PJ Tucker,DEFENSIVE_REBOUND,None,4:44,1,Rockets,Celtics,16 - 20,1,N/A,N/A,N/A
+63,Clint Capela,FG_MISS,None,4:21,1,Rockets,Celtics,16 - 20,1,0,2,Layup
+64,Gordon Hayward,DEFENSIVE_REBOUND,None,4:19,1,Celtics,Rockets,16 - 20,0,N/A,N/A,N/A
+65,Gordon Hayward,FG_ASSISTED,Kyrie Irving,4:11,1,Celtics,Rockets,19 - 20,0,23,3,Jumper
+66,Clint Capela,FG_ASSISTED,Gerald Green,3:54,1,Rockets,Celtics,19 - 22,1,7,3,Jumper
+67,Marcus Smart,FG_MISS,None,3:37,1,Celtics,Rockets,19 - 22,0,23,3,Jumper
+68,Austin Rivers,DEFENSIVE_REBOUND,None,3:34,1,Rockets,Celtics,19 - 22,1,N/A,N/A,N/A
+69,Gerald Green,FG_MISS,None,3:20,1,Rockets,Celtics,19 - 22,1,26,3,Jumper
+70,Jayson Tatum,DEFENSIVE_REBOUND,None,3:17,1,Celtics,Rockets,19 - 22,0,N/A,N/A,N/A
+71,Jayson Tatum,TURNOVER,None,3:00,1,Celtics,Rockets,19 - 22,0,N/A,N/A,N/A
+72,Jayson Tatum,TURNOVER,None,3:00,1,Celtics,Rockets,19 - 22,0,N/A,N/A,N/A
+73,Nene Hilario,SUBSTITUTION,Capela Clint,3:00,1,Rockets,Celtics,19 - 22,1,N/A,N/A,N/A
+74,Jaylen Brown,SUBSTITUTION,for game,3:00,1,Celtics,Rockets,19 - 22,0,N/A,N/A,N/A
+75,Jaylen Brown,SUBSTITUTION,Smart Marcus,3:00,1,Celtics,Rockets,19 - 22,0,N/A,N/A,N/A
+76,enters the,SUBSTITUTION,Irving Kyrie,3:00,1,Celtics,Rockets,19 - 22,0,N/A,N/A,N/A
+77,James Harden,FG_UNASSISTED,None,2:40,1,Rockets,Celtics,19 - 25,1,26,3,Jumper
+78,Team,Unknown,None,2:31,1,Celtics,Rockets,19 - 25,0,N/A,N/A,N/A
+79,Eric Gordon,SUBSTITUTION,Tucker PJ,2:31,1,Rockets,Celtics,19 - 25,1,N/A,N/A,N/A
+80,Nene Hilario,FOUL_ON_FLOOR,None,2:23,1,Rockets,Celtics,19 - 25,1,N/A,N/A,N/A
+81,Daniel Theis,FT,None,2:23,1,Celtics,Rockets,20 - 25,0,N/A,1,N/A
+82,Daniel Theis,FT_MISS,None,2:23,1,Celtics,Rockets,20 - 25,0,N/A,1,N/A
+83,Nene Hilario,DEFENSIVE_REBOUND,None,2:23,1,Rockets,Celtics,20 - 25,1,N/A,N/A,N/A
+84,Gordon Hayward,FOUL_ON_FLOOR,None,2:11,1,Celtics,Rockets,20 - 25,0,N/A,N/A,N/A
+85,James Harden,FG_UNASSISTED,None,1:57,1,Rockets,Celtics,20 - 28,1,27,3,Jumper
+86,Gordon Hayward,FG_MISS,None,1:39,1,Celtics,Rockets,20 - 28,0,26,3,Jumper
+87,Nene Hilario,DEFENSIVE_REBOUND,None,1:37,1,Rockets,Celtics,20 - 28,1,N/A,N/A,N/A
+88,Eric Gordon,FG_ASSISTED,James Harden,1:25,1,Rockets,Celtics,20 - 31,1,23,3,Jumper
+89,Daniel Theis,FG_MISS,None,1:03,1,Celtics,Rockets,20 - 31,0, ,3,Jumper
+90,Nene Hilario,DEFENSIVE_REBOUND,None,1:00,1,Rockets,Celtics,20 - 31,1,N/A,N/A,N/A
+91,Austin Rivers,FG_ASSISTED,James Harden,54.5,1,Rockets,Celtics,20 - 33,1,0,2,Layup
+92,Terry Rozier,FG_UNASSISTED,None,39.0,1,Celtics,Rockets,22 - 33,0,23,3,Jumper
+93,James Harden,FG_MISS,None,27.0,1,Rockets,Celtics,22 - 33,1,30,3,Jumper
+94,Gordon Hayward,DEFENSIVE_REBOUND,None,21.7,1,Celtics,Rockets,22 - 33,0,N/A,N/A,N/A
+95,Jaylen Brown,FG_ASSISTED,Gordon Hayward,19.0,1,Celtics,Rockets,24 - 33,0,0,2,Layup
+96,Nene Hilario,FG_ASSISTED,James Harden,2.2,1,Rockets,Celtics,24 - 35,1,0,2,Dunk
+97,End of,Unknown,None,0.0,1,Rockets,Celtics,24 - 35,1,N/A,N/A,N/A
+0,Danuel House,SUBSTITUTION,Harden James,12:00,2,Rockets,Celtics,24 - 35,1,N/A,N/A,N/A
+1,Marcus Morris,SUBSTITUTION,Tatum Jayson,12:00,2,Celtics,Rockets,24 - 35,0,N/A,N/A,N/A
+2,Austin Rivers,FG_UNASSISTED,None,11:47,2,Rockets,Celtics,24 - 38,1,27,3,Jumper
+3,Terry Rozier,FG_MISS,None,11:28,2,Celtics,Rockets,24 - 38,0,25,3,Jumper
+4,Team,DEFENSIVE_REBOUND,None,11:26,2,Rockets,Celtics,24 - 38,1,N/A,N/A,N/A
+5,Danuel House,FG_ASSISTED,Eric Gordon,11:14,2,Rockets,Celtics,24 - 41,1,23,3,Jumper
+6,Jaylen Brown,FG_ASSISTED,Gordon Hayward,10:56,2,Celtics,Rockets,27 - 41,0,27,3,Jumper
+7,Eric Gordon,FG_UNASSISTED,None,10:41,2,Rockets,Celtics,27 - 43,1,0,2,Layup
+8,Daniel Theis,FOUL_ON_FLOOR,None,10:41,2,Celtics,Rockets,27 - 43,0,N/A,N/A,N/A
+9,Clint Capela,SUBSTITUTION,Hilario Nene,10:41,2,Rockets,Celtics,27 - 43,1,N/A,N/A,N/A
+10,Eric Gordon,FT,None,10:41,2,Rockets,Celtics,27 - 44,1,N/A,1,N/A
+11,Gerald Green,FOUL_ON_FLOOR,None,10:32,2,Rockets,Celtics,27 - 44,1,N/A,N/A,N/A
+12,Al Horford,SUBSTITUTION,Theis Daniel,10:32,2,Celtics,Rockets,27 - 44,0,N/A,N/A,N/A
+13,Marcus Morris,FG_MISS,None,10:23,2,Celtics,Rockets,27 - 44,0,12,3,Jumper
+14,Team,OFFENSIVE_REBOUND,None,10:21,2,Celtics,Rockets,27 - 44,0,N/A,N/A,N/A
+15,Jaylen Brown,FG_ASSISTED,Gordon Hayward,10:08,2,Celtics,Rockets,29 - 44,0,0,2,Dunk
+16,Eric Gordon,FG_MISS,None,9:48,2,Rockets,Celtics,29 - 44,1,27,3,Jumper
+17,Jaylen Brown,DEFENSIVE_REBOUND,None,9:46,2,Celtics,Rockets,29 - 44,0,N/A,N/A,N/A
+18,Marcus Morris,FG_MISS,None,9:34,2,Celtics,Rockets,29 - 44,0,26,3,Jumper
+19,Terry Rozier,OFFENSIVE_REBOUND,None,9:31,2,Celtics,Rockets,29 - 44,0,N/A,N/A,N/A
+20,Jaylen Brown,FG_MISS,None,9:29,2,Celtics,Rockets,29 - 44,0,27,3,Jumper
+21,Clint Capela,DEFENSIVE_REBOUND,None,9:27,2,Rockets,Celtics,29 - 44,1,N/A,N/A,N/A
+22,Eric Gordon,FG_UNASSISTED,None,9:18,2,Rockets,Celtics,29 - 46,1, ,3,Jumper
+23,Al Horford,FG_ASSISTED,Terry Rozier,9:06,2,Celtics,Rockets,32 - 46,0,27,3,Jumper
+24,Austin Rivers,FG_UNASSISTED,None,8:45,2,Rockets,Celtics,32 - 48,1,2,3,Jumper
+25,Eric Gordon,FOUL_ON_FLOOR,None,8:35,2,Rockets,Celtics,32 - 48,1,N/A,N/A,N/A
+26,Jaylen Brown,FT,None,8:35,2,Celtics,Rockets,33 - 48,0,N/A,1,N/A
+27,Kyrie Irving,SUBSTITUTION,Hayward Gordon,8:35,2,Celtics,Rockets,33 - 48,0,N/A,N/A,N/A
+28,Jaylen Brown,FT_MISS,None,8:35,2,Celtics,Rockets,33 - 48,0,N/A,1,N/A
+29,Gerald Green,DEFENSIVE_REBOUND,None,8:35,2,Rockets,Celtics,33 - 48,1,N/A,N/A,N/A
+30,Danuel House,FG_MISS,None,8:23,2,Rockets,Celtics,33 - 48,1,23,3,Jumper
+31,Clint Capela,OFFENSIVE_REBOUND,None,8:19,2,Rockets,Celtics,33 - 48,1,N/A,N/A,N/A
+32,Gerald Green,FG_MISS,None,8:15,2,Rockets,Celtics,33 - 48,1, ,3,Jumper
+33,Danuel House,OFFENSIVE_REBOUND,None,8:15,2,Rockets,Celtics,33 - 48,1,N/A,N/A,N/A
+34,Danuel House,FG_UNASSISTED,None,8:14,2,Rockets,Celtics,33 - 50,1, ,3,Jumper
+35,Team,Unknown,None,8:13,2,Celtics,Rockets,33 - 50,0,N/A,N/A,N/A
+36,Clint Capela,FOUL_ON_FLOOR,None,8:04,2,Rockets,Celtics,33 - 50,1,N/A,N/A,N/A
+37,Kyrie Irving,FT,None,8:04,2,Celtics,Rockets,34 - 50,0,N/A,1,N/A
+38,Kyrie Irving,FT,None,8:04,2,Celtics,Rockets,35 - 50,0,N/A,1,N/A
+39,Jaylen Brown,FOUL_ON_FLOOR,None,7:55,2,Celtics,Rockets,35 - 50,0,N/A,N/A,N/A
+40,Eric Gordon,FT,None,7:55,2,Rockets,Celtics,35 - 51,1,N/A,1,N/A
+41,James Harden,SUBSTITUTION,House Danuel,7:55,2,Rockets,Celtics,35 - 51,1,N/A,N/A,N/A
+42,PJ Tucker,SUBSTITUTION,Green Gerald,7:55,2,Rockets,Celtics,35 - 51,1,N/A,N/A,N/A
+43,Eric Gordon,FT_MISS,None,7:55,2,Rockets,Celtics,35 - 51,1,N/A,1,N/A
+44,Jaylen Brown,DEFENSIVE_REBOUND,None,7:55,2,Celtics,Rockets,35 - 51,0,N/A,N/A,N/A
+45,Al Horford,FG_ASSISTED,Marcus Morris,7:43,2,Celtics,Rockets,37 - 51,0,0,2,Dunk
+46,Austin Rivers,FG_MISS,None,7:23,2,Rockets,Celtics,37 - 51,1,24,3,Jumper
+47,Marcus Morris,DEFENSIVE_REBOUND,None,7:21,2,Celtics,Rockets,37 - 51,0,N/A,N/A,N/A
+48,Al Horford,FG_ASSISTED,Marcus Morris,7:13,2,Celtics,Rockets,39 - 51,0,10,3,Jumper
+49,Eric Gordon,FG_MISS,None,6:53,2,Rockets,Celtics,39 - 51,1,0,2,Layup
+50,Marcus Morris,DEFENSIVE_REBOUND,None,6:51,2,Celtics,Rockets,39 - 51,0,N/A,N/A,N/A
+51,Terry Rozier,FG_MISS,None,6:47,2,Celtics,Rockets,39 - 51,0,24,3,Jumper
+52,Austin Rivers,DEFENSIVE_REBOUND,None,6:44,2,Rockets,Celtics,39 - 51,1,N/A,N/A,N/A
+53,James Harden,FG_MISS,None,6:26,2,Rockets,Celtics,39 - 51,1,28,3,Jumper
+54,Marcus Morris,DEFENSIVE_REBOUND,None,6:21,2,Celtics,Rockets,39 - 51,0,N/A,N/A,N/A
+55,Kyrie Irving,FG_UNASSISTED,None,6:09,2,Celtics,Rockets,41 - 51,0,10,3,Jumper
+56,Jaylen Brown,FOUL_ON_FLOOR,None,5:43,2,Celtics,Rockets,41 - 51,0,N/A,N/A,N/A
+57,Danuel House,SUBSTITUTION,Gordon Eric,5:43,2,Rockets,Celtics,41 - 51,1,N/A,N/A,N/A
+58,Clint Capela,FG_ASSISTED,James Harden,5:33,2,Rockets,Celtics,41 - 53,1,7,3,Jumper
+59,Al Horford,TURNOVER,None,5:15,2,Celtics,Rockets,41 - 53,0,N/A,N/A,N/A
+60,James Harden,TURNOVER,None,4:53,2,Rockets,Celtics,41 - 53,1,N/A,N/A,N/A
+61,James Harden,TURNOVER,None,4:53,2,Rockets,Celtics,41 - 53,1,N/A,N/A,N/A
+62,Jayson Tatum,SUBSTITUTION,Brown Jaylen,4:53,2,Celtics,Rockets,41 - 53,0,N/A,N/A,N/A
+63,Marcus Smart,SUBSTITUTION,Rozier Terry,4:53,2,Celtics,Rockets,41 - 53,0,N/A,N/A,N/A
+64,Marcus Morris,FG_ASSISTED,Al Horford,4:33,2,Celtics,Rockets,44 - 53,0,27,3,Jumper
+65,James Harden,FG_MISS,None,4:07,2,Rockets,Celtics,44 - 53,1,30,3,Jumper
+66,Jayson Tatum,DEFENSIVE_REBOUND,None,4:05,2,Celtics,Rockets,44 - 53,0,N/A,N/A,N/A
+67,Marcus Morris,FG_ASSISTED,Kyrie Irving,3:57,2,Celtics,Rockets,47 - 53,0,28,3,Jumper
+68,Team,Unknown,None,3:56,2,Rockets,Celtics,47 - 53,1,N/A,N/A,N/A
+69,Guerschon Yabusele,SUBSTITUTION,Horford Al,3:56,2,Celtics,Rockets,47 - 53,0,N/A,N/A,N/A
+70,James Harden,FG_MISS,Marcus Morris,3:34,2,Celtics,Rockets,47 - 53,1,0,2,Layup
+71,Marcus Smart,DEFENSIVE_REBOUND,None,3:31,2,Celtics,Rockets,47 - 53,0,N/A,N/A,N/A
+72,Jayson Tatum,FG_MISS,Danuel House,3:30,2,Rockets,Celtics,47 - 53,0,3,3,Jumper
+73,Team,OFFENSIVE_REBOUND,None,3:30,2,Celtics,Rockets,47 - 53,0,N/A,N/A,N/A
+74,Chris Paul,FOUL_TECHNICAL,None,3:29,2,Rockets,Celtics,47 - 53,1,N/A,N/A,N/A
+75,Kyrie Irving,FT,None,3:29,2,Celtics,Rockets,48 - 53,0,N/A,1,N/A
+76,Eric Gordon,SUBSTITUTION,Rivers Austin,3:29,2,Rockets,Celtics,48 - 53,1,N/A,N/A,N/A
+77,Guerschon Yabusele,FG_MISS,None,3:24,2,Celtics,Rockets,48 - 53,0,4,3,Jumper
+78,Eric Gordon,DEFENSIVE_REBOUND,None,3:23,2,Rockets,Celtics,48 - 53,1,N/A,N/A,N/A
+79,Eric Gordon,FG_MISS,None,3:06,2,Rockets,Celtics,48 - 53,1, ,3,Jumper
+80,Clint Capela,OFFENSIVE_REBOUND,None,3:05,2,Rockets,Celtics,48 - 53,1,N/A,N/A,N/A
+81,PJ Tucker,FG_MISS,None,3:03,2,Rockets,Celtics,48 - 53,1,23,3,Jumper
+82,Guerschon Yabusele,DEFENSIVE_REBOUND,None,2:59,2,Celtics,Rockets,48 - 53,0,N/A,N/A,N/A
+83,Marcus Smart,FG_MISS,None,2:44,2,Celtics,Rockets,48 - 53,0,28,3,Jumper
+84,Clint Capela,DEFENSIVE_REBOUND,None,2:42,2,Rockets,Celtics,48 - 53,1,N/A,N/A,N/A
+85,Gordon Hayward,SUBSTITUTION,Morris Marcus,2:30,2,Celtics,Rockets,48 - 53,0,N/A,N/A,N/A
+86,Mike D'Antoni,FOUL_TECHNICAL,None,2:30,2,Rockets,Celtics,48 - 53,1,N/A,N/A,N/A
+87,Kyrie Irving,FT,None,2:30,2,Celtics,Rockets,49 - 53,0,N/A,1,N/A
+88,Clint Capela,FG_ASSISTED,Danuel House,2:28,2,Rockets,Celtics,49 - 55,1,0,2,Dunk
+89,Clint Capela,FOUL_ON_FLOOR,None,2:28,2,Rockets,Celtics,49 - 55,1,N/A,N/A,N/A
+90,Kyrie Irving,FT,None,2:28,2,Celtics,Rockets,50 - 55,0,N/A,1,N/A
+91,Kyrie Irving,FG_MISS,None,2:12,2,Celtics,Rockets,50 - 55,0,11,3,Jumper
+92,Danuel House,DEFENSIVE_REBOUND,None,2:10,2,Rockets,Celtics,50 - 55,1,N/A,N/A,N/A
+93,James Harden,TURNOVER,Guerschon Yabusele,2:01,2,Rockets,Celtics,50 - 55,1,N/A,N/A,N/A
+94,Kyrie Irving,FG_MISS,None,1:52,2,Celtics,Rockets,50 - 55,0,25,3,Jumper
+95,Danuel House,DEFENSIVE_REBOUND,None,1:50,2,Rockets,Celtics,50 - 55,1,N/A,N/A,N/A
+96,James Harden,FG_MISS,Kyrie Irving,1:40,2,Celtics,Rockets,50 - 55,1,0,2,Layup
+97,Team,DEFENSIVE_REBOUND,None,1:40,2,Celtics,Rockets,50 - 55,0,N/A,N/A,N/A
+98,Marcus Smart,FG_ASSISTED,Gordon Hayward,1:23,2,Celtics,Rockets,52 - 55,0,0,2,Layup
+99,James Harden,FG_MISS,None,1:05,2,Rockets,Celtics,52 - 55,1,0,2,Layup
+100,Clint Capela,OFFENSIVE_REBOUND,None,1:04,2,Rockets,Celtics,52 - 55,1,N/A,N/A,N/A
+101,Clint Capela,FG_UNASSISTED,None,1:03,2,Rockets,Celtics,52 - 57,1, ,3,Jumper
+102,Marcus Smart,FG_ASSISTED,Gordon Hayward,49.0,2,Celtics,Rockets,55 - 57,0,25,3,Jumper
+103,PJ Tucker,FG_MISS,None,34.0,2,Rockets,Celtics,55 - 57,1,0,2,Layup
+104,Gordon Hayward,DEFENSIVE_REBOUND,None,30.6,2,Celtics,Rockets,55 - 57,0,N/A,N/A,N/A
+105,Marcus Smart,FOUL_ON_FLOOR,None,16.4,2,Celtics,Rockets,55 - 57,0,N/A,N/A,N/A
+106,Marcus Smart,TURNOVER,None,16.4,2,Celtics,Rockets,55 - 57,0,N/A,N/A,N/A
+107,Jaylen Brown,SUBSTITUTION,Irving Kyrie,16.4,2,Celtics,Rockets,55 - 57,0,N/A,N/A,N/A
+108,James Harden,FG_MISS,None,2.0,2,Rockets,Celtics,55 - 57,1,0,2,Layup
+109,Eric Gordon,OFFENSIVE_REBOUND,None,2.0,2,Rockets,Celtics,55 - 57,1,N/A,N/A,N/A
+110,End of,Unknown,None,0.0,2,Rockets,Celtics,55 - 57,1,N/A,N/A,N/A
+0,Al Horford,SUBSTITUTION,Hayward Gordon,12:00,3,Celtics,Rockets,55 - 57,0,N/A,N/A,N/A
+1,Marcus Morris,SUBSTITUTION,Yabusele Guerschon,12:00,3,Celtics,Rockets,55 - 57,0,N/A,N/A,N/A
+2,Kyrie Irving,SUBSTITUTION,Brown Jaylen,12:00,3,Celtics,Rockets,55 - 57,0,N/A,N/A,N/A
+3,Marcus Morris,FOUL_ON_FLOOR,None,11:43,3,Celtics,Rockets,55 - 57,0,N/A,N/A,N/A
+4,Clint Capela,FT_MISS,None,11:43,3,Rockets,Celtics,55 - 57,1,N/A,1,N/A
+5,Team,OFFENSIVE_REBOUND,None,11:43,3,Rockets,Celtics,55 - 57,1,N/A,N/A,N/A
+6,Clint Capela,FT,None,11:43,3,Rockets,Celtics,55 - 58,1,N/A,1,N/A
+7,Marcus Morris,TURNOVER,Danuel House,11:33,3,Celtics,Rockets,55 - 58,0,N/A,N/A,N/A
+8,Danuel House,FG_UNASSISTED,None,11:30,3,Rockets,Celtics,55 - 60,1,0,2,Dunk
+9,Marcus Smart,FG_MISS,None,11:23,3,Celtics,Rockets,55 - 60,0,24,3,Jumper
+10,Clint Capela,DEFENSIVE_REBOUND,None,11:20,3,Rockets,Celtics,55 - 60,1,N/A,N/A,N/A
+11,James Harden,TURNOVER,Marcus Smart,11:06,3,Rockets,Celtics,55 - 60,1,N/A,N/A,N/A
+12,Marcus Smart,TURNOVER,None,11:05,3,Celtics,Rockets,55 - 60,0,N/A,N/A,N/A
+13,James Harden,FG_MISS,None,10:59,3,Rockets,Celtics,55 - 60,1,23,3,Jumper
+14,Kyrie Irving,DEFENSIVE_REBOUND,None,10:57,3,Celtics,Rockets,55 - 60,0,N/A,N/A,N/A
+15,Al Horford,FG_MISS,None,10:50,3,Celtics,Rockets,55 - 60,0,0,2,Layup
+16,Al Horford,OFFENSIVE_REBOUND,None,10:50,3,Celtics,Rockets,55 - 60,0,N/A,N/A,N/A
+17,Al Horford's,FG_MISS,Clint Capela,10:49,3,Rockets,Celtics,55 - 60,0, ,3,Jumper
+18,Al Horford,OFFENSIVE_REBOUND,None,10:47,3,Celtics,Rockets,55 - 60,0,N/A,N/A,N/A
+19,Al Horford,FG_MISS,None,10:45,3,Celtics,Rockets,55 - 60,0, ,3,Jumper
+20,Clint Capela,DEFENSIVE_REBOUND,None,10:44,3,Rockets,Celtics,55 - 60,1,N/A,N/A,N/A
+21,Clint Capela,FG_MISS,None,10:30,3,Rockets,Celtics,55 - 60,1,0,2,Layup
+22,Team,DEFENSIVE_REBOUND,None,10:30,3,Celtics,Rockets,55 - 60,0,N/A,N/A,N/A
+23,Marcus Morris,FG_ASSISTED,Kyrie Irving,10:20,3,Celtics,Rockets,57 - 60,0,0,2,Layup
+24,Danuel House,TURNOVER,Marcus Morris,10:06,3,Rockets,Celtics,57 - 60,1,N/A,N/A,N/A
+25,Marcus Smart,FG_ASSISTED,Al Horford,9:59,3,Celtics,Rockets,59 - 60,0,0,2,Layup
+26,Kyrie Irving,FOUL_ON_FLOOR,None,9:48,3,Celtics,Rockets,59 - 60,0,N/A,N/A,N/A
+27,James Harden,FT,None,9:48,3,Rockets,Celtics,59 - 61,1,N/A,1,N/A
+28,James Harden,FT,None,9:48,3,Rockets,Celtics,59 - 62,1,N/A,1,N/A
+29,PJ Tucker,FOUL_ON_FLOOR,None,9:37,3,Rockets,Celtics,59 - 62,1,N/A,N/A,N/A
+30,Marcus Smart,FT,None,9:37,3,Celtics,Rockets,60 - 62,0,N/A,1,N/A
+31,Marcus Smart,FT_MISS,None,9:37,3,Celtics,Rockets,60 - 62,0,N/A,1,N/A
+32,Clint Capela,DEFENSIVE_REBOUND,None,9:37,3,Rockets,Celtics,60 - 62,1,N/A,N/A,N/A
+33,James Harden,FG_MISS,None,9:28,3,Rockets,Celtics,60 - 62,1,26,3,Jumper
+34,Jayson Tatum,DEFENSIVE_REBOUND,None,9:24,3,Celtics,Rockets,60 - 62,0,N/A,N/A,N/A
+35,Al Horford,FG_ASSISTED,Jayson Tatum,9:16,3,Celtics,Rockets,62 - 62,0,0,2,Dunk
+36,Clint Capela,FG_MISS,None,9:03,3,Rockets,Celtics,62 - 62,1,0,2,Layup
+37,Clint Capela,OFFENSIVE_REBOUND,None,9:02,3,Rockets,Celtics,62 - 62,1,N/A,N/A,N/A
+38,Marcus Morris,FOUL_ON_FLOOR,None,9:02,3,Celtics,Rockets,62 - 62,0,N/A,N/A,N/A
+39,Marcus Morris,FOUL_TECHNICAL,None,9:02,3,Celtics,Rockets,62 - 62,0,N/A,N/A,N/A
+40,James Harden,FT_MISS,None,9:02,3,Rockets,Celtics,62 - 62,1,N/A,1,N/A
+41,Team,OFFENSIVE_REBOUND,None,9:02,3,Rockets,Celtics,62 - 62,1,N/A,N/A,N/A
+42,Clint Capela,FT,None,9:02,3,Rockets,Celtics,62 - 63,1,N/A,1,N/A
+43,Clint Capela,FT,None,9:02,3,Rockets,Celtics,62 - 64,1,N/A,1,N/A
+44,Eric Gordon,FOUL_ON_FLOOR,None,8:55,3,Rockets,Celtics,62 - 64,1,N/A,N/A,N/A
+45,Al Horford,FG_UNASSISTED,None,8:38,3,Celtics,Rockets,64 - 64,0,0,2,Layup
+46,PJ Tucker,FG_MISS,None,8:22,3,Rockets,Celtics,64 - 64,1,23,3,Jumper
+47,Danuel House,OFFENSIVE_REBOUND,None,8:19,3,Rockets,Celtics,64 - 64,1,N/A,N/A,N/A
+48,Eric Gordon,FG_ASSISTED,PJ Tucker,8:16,3,Rockets,Celtics,64 - 67,1,30,3,Jumper
+49,Jayson Tatum,FG_MISS,None,8:01,3,Celtics,Rockets,64 - 67,0,27,3,Jumper
+50,PJ Tucker,DEFENSIVE_REBOUND,None,7:59,3,Rockets,Celtics,64 - 67,1,N/A,N/A,N/A
+51,James Harden,FG_MISS,None,7:39,3,Rockets,Celtics,64 - 67,1,28,3,Jumper
+52,PJ Tucker,OFFENSIVE_REBOUND,None,7:35,3,Rockets,Celtics,64 - 67,1,N/A,N/A,N/A
+53,James Harden,FG_MISS,None,7:22,3,Rockets,Celtics,64 - 67,1,0,2,Layup
+54,Al Horford,DEFENSIVE_REBOUND,None,7:20,3,Celtics,Rockets,64 - 67,0,N/A,N/A,N/A
+55,Jayson Tatum,FG_ASSISTED,Kyrie Irving,7:17,3,Celtics,Rockets,66 - 67,0,0,2,Dunk
+56,Danuel House,FG_MISS,None,7:01,3,Rockets,Celtics,66 - 67,1,23,3,Jumper
+57,Clint Capela,OFFENSIVE_REBOUND,None,6:59,3,Rockets,Celtics,66 - 67,1,N/A,N/A,N/A
+58,Clint Capela,FG_UNASSISTED,None,6:58,3,Rockets,Celtics,66 - 69,1,0,2,Dunk
+59,Team,Unknown,None,6:58,3,Celtics,Rockets,66 - 69,0,N/A,N/A,N/A
+60,Austin Rivers,SUBSTITUTION,House Danuel,6:58,3,Rockets,Celtics,66 - 69,1,N/A,N/A,N/A
+61,Gerald Green,SUBSTITUTION,Gordon Eric,6:58,3,Rockets,Celtics,66 - 69,1,N/A,N/A,N/A
+62,Al Horford,FG_MISS,James Harden,6:42,3,Rockets,Celtics,66 - 69,0,8,3,Jumper
+63,Clint Capela,DEFENSIVE_REBOUND,None,6:39,3,Rockets,Celtics,66 - 69,1,N/A,N/A,N/A
+64,Kyrie Irving,Unknown,None,6:29,3,Celtics,Rockets,66 - 69,0,N/A,N/A,N/A
+65,Daniel Theis,SUBSTITUTION,Horford Al,6:29,3,Celtics,Rockets,66 - 69,0,N/A,N/A,N/A
+66,James Harden,TURNOVER,None,6:19,3,Rockets,Celtics,66 - 69,1,N/A,N/A,N/A
+67,Daniel Theis,FG_MISS,None,6:14,3,Celtics,Rockets,66 - 69,0,4,3,Jumper
+68,Gerald Green,DEFENSIVE_REBOUND,None,6:10,3,Rockets,Celtics,66 - 69,1,N/A,N/A,N/A
+69,PJ Tucker,FG_ASSISTED,Austin Rivers,6:05,3,Rockets,Celtics,66 - 72,1,23,3,Jumper
+70,Marcus Morris,FG_ASSISTED,Jayson Tatum,5:47,3,Celtics,Rockets,68 - 72,0,0,2,Layup
+71,Clint Capela,FOUL_ON_FLOOR,None,5:47,3,Rockets,Celtics,68 - 72,1,N/A,N/A,N/A
+72,Gordon Hayward,SUBSTITUTION,Tatum Jayson,5:47,3,Celtics,Rockets,68 - 72,0,N/A,N/A,N/A
+73,Marcus Morris,FT,None,5:47,3,Celtics,Rockets,69 - 72,0,N/A,1,N/A
+74,Kyrie Irving,FOUL_ON_FLOOR,None,5:28,3,Celtics,Rockets,69 - 72,0,N/A,N/A,N/A
+75,James Harden,FT,None,5:28,3,Rockets,Celtics,69 - 73,1,N/A,1,N/A
+76,James Harden,FT_MISS,None,5:28,3,Rockets,Celtics,69 - 73,1,N/A,1,N/A
+77,Gordon Hayward,DEFENSIVE_REBOUND,None,5:28,3,Celtics,Rockets,69 - 73,0,N/A,N/A,N/A
+78,Kyrie Irving,FG_ASSISTED,Marcus Smart,5:21,3,Celtics,Rockets,72 - 73,0,28,3,Jumper
+79,James Harden,FG_UNASSISTED,None,4:57,3,Rockets,Celtics,72 - 76,1, ,3,Jumper
+80,Gordon Hayward,FG_ASSISTED,Kyrie Irving,4:48,3,Celtics,Rockets,75 - 76,0,27,3,Jumper
+81,Austin Rivers,TURNOVER,Daniel Theis,4:29,3,Rockets,Celtics,75 - 76,1,N/A,N/A,N/A
+82,Kyrie Irving,FG_UNASSISTED,None,4:22,3,Celtics,Rockets,77 - 76,0,0,2,Layup
+83,James Harden,FG_UNASSISTED,None,4:03,3,Rockets,Celtics,77 - 79,1,28,3,Jumper
+84,Marcus Morris,FG_ASSISTED,Kyrie Irving,3:47,3,Celtics,Rockets,79 - 79,0,7,3,Jumper
+85,Marcus Smart,FOUL_ON_FLOOR,None,3:40,3,Celtics,Rockets,79 - 79,0,N/A,N/A,N/A
+86,PJ Tucker,FT_MISS,None,3:40,3,Rockets,Celtics,79 - 79,1,N/A,1,N/A
+87,Team,OFFENSIVE_REBOUND,None,3:40,3,Rockets,Celtics,79 - 79,1,N/A,N/A,N/A
+88,Nene Hilario,SUBSTITUTION,Capela Clint,3:40,3,Rockets,Celtics,79 - 79,1,N/A,N/A,N/A
+89,Jaylen Brown,SUBSTITUTION,Smart Marcus,3:40,3,Celtics,Rockets,79 - 79,0,N/A,N/A,N/A
+90,PJ Tucker,FT,None,3:40,3,Rockets,Celtics,79 - 80,1,N/A,1,N/A
+91,Daniel Theis,FG_MISS,None,3:22,3,Celtics,Rockets,79 - 80,0,10,3,Jumper
+92,James Harden,DEFENSIVE_REBOUND,None,3:19,3,Rockets,Celtics,79 - 80,1,N/A,N/A,N/A
+93,James Harden,FG_UNASSISTED,None,3:09,3,Rockets,Celtics,79 - 83,1,26,3,Jumper
+94,Kyrie Irving,FG_UNASSISTED,None,2:50,3,Celtics,Rockets,81 - 83,0,21,3,Jumper
+95,Nene Hilario,FG_ASSISTED,James Harden,2:28,3,Rockets,Celtics,81 - 85,1,4,3,Jumper
+96,Marcus Morris,FG_MISS,None,1:58,3,Celtics,Rockets,81 - 85,0,20,3,Jumper
+97,Daniel Theis,OFFENSIVE_REBOUND,None,1:56,3,Celtics,Rockets,81 - 85,0,N/A,N/A,N/A
+98,Austin Rivers,FOUL_ON_FLOOR,None,1:48,3,Rockets,Celtics,81 - 85,1,N/A,N/A,N/A
+99,Team,Unknown,None,1:48,3,Rockets,Celtics,81 - 85,1,N/A,N/A,N/A
+100,Eric Gordon,SUBSTITUTION,Harden James,1:48,3,Rockets,Celtics,81 - 85,1,N/A,N/A,N/A
+101,Danuel House,SUBSTITUTION,Tucker PJ,1:48,3,Rockets,Celtics,81 - 85,1,N/A,N/A,N/A
+102,Terry Rozier,SUBSTITUTION,Irving Kyrie,1:48,3,Celtics,Rockets,81 - 85,0,N/A,N/A,N/A
+103,Jayson Tatum,SUBSTITUTION,Morris Marcus,1:48,3,Celtics,Rockets,81 - 85,0,N/A,N/A,N/A
+104,Eric Gordon,FOUL_ON_FLOOR,None,1:35,3,Rockets,Celtics,81 - 85,1,N/A,N/A,N/A
+105,Jaylen Brown,FT,None,1:35,3,Celtics,Rockets,82 - 85,0,N/A,1,N/A
+106,Jaylen Brown,FT_MISS,None,1:35,3,Celtics,Rockets,82 - 85,0,N/A,1,N/A
+107,Gerald Green,DEFENSIVE_REBOUND,None,1:35,3,Rockets,Celtics,82 - 85,1,N/A,N/A,N/A
+108,Gerald Green,FG_ASSISTED,Austin Rivers,1:23,3,Rockets,Celtics,82 - 88,1,26,3,Jumper
+109,Gordon Hayward,FG_MISS,None,1:08,3,Celtics,Rockets,82 - 88,0,19,3,Jumper
+110,Austin Rivers,DEFENSIVE_REBOUND,None,1:07,3,Rockets,Celtics,82 - 88,1,N/A,N/A,N/A
+111,Eric Gordon,FG_MISS,Daniel Theis,55.0,3,Celtics,Rockets,82 - 88,1,0,2,Layup
+112,Nene Hilario,OFFENSIVE_REBOUND,None,52.6,3,Rockets,Celtics,82 - 88,1,N/A,N/A,N/A
+113,Gerald Green,FG_MISS,None,51.0,3,Rockets,Celtics,82 - 88,1,23,3,Jumper
+114,Team,DEFENSIVE_REBOUND,None,50.3,3,Celtics,Rockets,82 - 88,0,N/A,N/A,N/A
+115,Nene Hilario,FOUL_ON_FLOOR,None,36.0,3,Rockets,Celtics,82 - 88,1,N/A,N/A,N/A
+116,Daniel Theis,FT_MISS,None,36.0,3,Celtics,Rockets,82 - 88,0,N/A,1,N/A
+117,Team,OFFENSIVE_REBOUND,None,36.0,3,Celtics,Rockets,82 - 88,0,N/A,N/A,N/A
+118,Daniel Theis,FT,None,36.0,3,Celtics,Rockets,83 - 88,0,N/A,1,N/A
+119,Austin Rivers,FG_MISS,None,29.9,3,Rockets,Celtics,83 - 88,1,31,3,Jumper
+120,Gerald Green,OFFENSIVE_REBOUND,None,25.6,3,Rockets,Celtics,83 - 88,1,N/A,N/A,N/A
+121,Jayson Tatum,FOUL_ON_FLOOR,None,22.8,3,Celtics,Rockets,83 - 88,0,N/A,N/A,N/A
+122,Gerald Green,FT,None,22.8,3,Rockets,Celtics,83 - 89,1,N/A,1,N/A
+123,Gerald Green,FT_MISS,None,22.8,3,Rockets,Celtics,83 - 89,1,N/A,1,N/A
+124,Daniel Theis,DEFENSIVE_REBOUND,None,22.8,3,Celtics,Rockets,83 - 89,0,N/A,N/A,N/A
+125,Terry Rozier,FG_UNASSISTED,None,2.4,3,Celtics,Rockets,86 - 89,0,28,3,Jumper
+126,Austin Rivers,FG_ASSISTED,Eric Gordon,0.0,3,Rockets,Celtics,86 - 92,1,27,3,Jumper
+127,End of,Unknown,None,0.0,3,Rockets,Celtics,86 - 92,1,N/A,N/A,N/A
+0,Terry Rozier,FG_MISS,None,11:42,4,Celtics,Rockets,86 - 92,0, ,3,Jumper
+1,Danuel House,DEFENSIVE_REBOUND,None,11:40,4,Rockets,Celtics,86 - 92,1,N/A,N/A,N/A
+2,Nene Hilario,FG_ASSISTED,Austin Rivers,11:34,4,Rockets,Celtics,86 - 94,1,0,2,Layup
+3,Daniel Theis,FOUL_ON_FLOOR,None,11:34,4,Celtics,Rockets,86 - 94,0,N/A,N/A,N/A
+4,Marcus Smart,SUBSTITUTION,Tatum Jayson,11:34,4,Celtics,Rockets,86 - 94,0,N/A,N/A,N/A
+5,Nene Hilario,FT,None,11:34,4,Rockets,Celtics,86 - 95,1,N/A,1,N/A
+6,Terry Rozier,FG_MISS,None,11:24,4,Celtics,Rockets,86 - 95,0,27,3,Jumper
+7,Danuel House,DEFENSIVE_REBOUND,None,11:21,4,Rockets,Celtics,86 - 95,1,N/A,N/A,N/A
+8,Austin Rivers,FG_MISS,None,11:05,4,Rockets,Celtics,86 - 95,1,28,3,Jumper
+9,Terry Rozier,DEFENSIVE_REBOUND,None,11:02,4,Celtics,Rockets,86 - 95,0,N/A,N/A,N/A
+10,Jaylen Brown,FG_ASSISTED,Marcus Smart,10:55,4,Celtics,Rockets,88 - 95,0,10,3,Jumper
+11,Daniel Theis,FOUL_ON_FLOOR,None,10:40,4,Celtics,Rockets,88 - 95,0,N/A,N/A,N/A
+12,Eric Gordon,FT,None,10:40,4,Rockets,Celtics,88 - 96,1,N/A,1,N/A
+13,Eric Gordon,FT,None,10:40,4,Rockets,Celtics,88 - 97,1,N/A,1,N/A
+14,Jaylen Brown,FG_MISS,None,10:19,4,Celtics,Rockets,88 - 97,0,19,3,Jumper
+15,Nene Hilario,DEFENSIVE_REBOUND,None,10:16,4,Rockets,Celtics,88 - 97,1,N/A,N/A,N/A
+16,Gerald Green,FG_ASSISTED,Danuel House,10:03,4,Rockets,Celtics,88 - 100,1,23,3,Jumper
+17,Marcus Smart,FG_MISS,Nene Hilario,9:52,4,Rockets,Celtics,88 - 100,0,0,2,Layup
+18,Nene Hilario,DEFENSIVE_REBOUND,None,9:49,4,Rockets,Celtics,88 - 100,1,N/A,N/A,N/A
+19,Gerald Green,FG_MISS,None,9:45,4,Rockets,Celtics,88 - 100,1,25,3,Jumper
+20,Gordon Hayward,DEFENSIVE_REBOUND,None,9:42,4,Celtics,Rockets,88 - 100,0,N/A,N/A,N/A
+21,Gerald Green,FOUL_ON_FLOOR,None,9:39,4,Rockets,Celtics,88 - 100,1,N/A,N/A,N/A
+22,Clint Capela,SUBSTITUTION,Hilario Nene,9:39,4,Rockets,Celtics,88 - 100,1,N/A,N/A,N/A
+23,Danuel House,FOUL_ON_FLOOR,None,9:34,4,Rockets,Celtics,88 - 100,1,N/A,N/A,N/A
+24,Daniel Theis,FT,None,9:34,4,Celtics,Rockets,89 - 100,0,N/A,1,N/A
+25,Daniel Theis,FT,None,9:34,4,Celtics,Rockets,90 - 100,0,N/A,1,N/A
+26,Gerald Green,FG_ASSISTED,Eric Gordon,9:19,4,Rockets,Celtics,90 - 103,1,23,3,Jumper
+27,Marcus Smart,FG_MISS,None,8:54,4,Celtics,Rockets,90 - 103,0,9,3,Jumper
+28,Daniel Theis,OFFENSIVE_REBOUND,None,8:53,4,Celtics,Rockets,90 - 103,0,N/A,N/A,N/A
+29,Eric Gordon,FOUL_ON_FLOOR,None,8:53,4,Rockets,Celtics,90 - 103,1,N/A,N/A,N/A
+30,Daniel Theis,FT,None,8:53,4,Celtics,Rockets,91 - 103,0,N/A,1,N/A
+31,Kyrie Irving,SUBSTITUTION,Rozier Terry,8:53,4,Celtics,Rockets,91 - 103,0,N/A,N/A,N/A
+32,Jayson Tatum,SUBSTITUTION,Hayward Gordon,8:53,4,Celtics,Rockets,91 - 103,0,N/A,N/A,N/A
+33,Daniel Theis,FT,None,8:53,4,Celtics,Rockets,92 - 103,0,N/A,1,N/A
+34,Eric Gordon,FG_UNASSISTED,None,8:42,4,Rockets,Celtics,92 - 105,1,0,2,Layup
+35,Jaylen Brown,FG_MISS,None,8:31,4,Celtics,Rockets,92 - 105,0,26,3,Jumper
+36,Daniel Theis,OFFENSIVE_REBOUND,None,8:28,4,Celtics,Rockets,92 - 105,0,N/A,N/A,N/A
+37,Jaylen Brown,FG_UNASSISTED,None,8:24,4,Celtics,Rockets,94 - 105,0,5,3,Jumper
+38,Danuel House,FOUL_ON_FLOOR,None,8:24,4,Rockets,Celtics,94 - 105,1,N/A,N/A,N/A
+39,James Harden,SUBSTITUTION,House Danuel,8:24,4,Rockets,Celtics,94 - 105,1,N/A,N/A,N/A
+40,Jaylen Brown,FT,None,8:24,4,Celtics,Rockets,95 - 105,0,N/A,1,N/A
+41,Eric Gordon,FG_MISS,None,8:06,4,Rockets,Celtics,95 - 105,1,0,2,Layup
+42,Clint Capela,OFFENSIVE_REBOUND,None,8:04,4,Rockets,Celtics,95 - 105,1,N/A,N/A,N/A
+43,Clint Capela,FG_UNASSISTED,None,8:04,4,Rockets,Celtics,95 - 107,1,0,2,Dunk
+44,Jaylen Brown,FG_MISS,None,7:54,4,Celtics,Rockets,95 - 107,0,26,3,Jumper
+45,Eric Gordon,DEFENSIVE_REBOUND,None,7:52,4,Rockets,Celtics,95 - 107,1,N/A,N/A,N/A
+46,James Harden,FG_UNASSISTED,None,7:45,4,Rockets,Celtics,95 - 110,1,27,3,Jumper
+47,Team,Unknown,None,7:44,4,Celtics,Rockets,95 - 110,0,N/A,N/A,N/A
+48,PJ Tucker,SUBSTITUTION,Gordon Eric,7:44,4,Rockets,Celtics,95 - 110,1,N/A,N/A,N/A
+49,Al Horford,SUBSTITUTION,Theis Daniel,7:44,4,Celtics,Rockets,95 - 110,0,N/A,N/A,N/A
+50,Marcus Morris,SUBSTITUTION,Smart Marcus,7:44,4,Celtics,Rockets,95 - 110,0,N/A,N/A,N/A
+51,Austin Rivers,FOUL_ON_FLOOR,None,7:35,4,Rockets,Celtics,95 - 110,1,N/A,N/A,N/A
+52,Kyrie Irving,FT,None,7:35,4,Celtics,Rockets,96 - 110,0,N/A,1,N/A
+53,Kyrie Irving,FT,None,7:35,4,Celtics,Rockets,97 - 110,0,N/A,1,N/A
+54,Gerald Green,FG_MISS,None,7:24,4,Rockets,Celtics,97 - 110,1,26,3,Jumper
+55,Jaylen Brown,DEFENSIVE_REBOUND,None,7:20,4,Celtics,Rockets,97 - 110,0,N/A,N/A,N/A
+56,Jaylen Brown,FG_ASSISTED,Kyrie Irving,7:11,4,Celtics,Rockets,99 - 110,0,3,3,Jumper
+57,James Harden,FG_MISS,None,6:44,4,Rockets,Celtics,99 - 110,1,0,2,Layup
+58,Jaylen Brown,DEFENSIVE_REBOUND,None,6:41,4,Celtics,Rockets,99 - 110,0,N/A,N/A,N/A
+59,Jayson Tatum,FG_MISS,None,6:36,4,Celtics,Rockets,99 - 110,0,1,3,Jumper
+60,Gerald Green,DEFENSIVE_REBOUND,None,6:34,4,Rockets,Celtics,99 - 110,1,N/A,N/A,N/A
+61,James Harden,TURNOVER,None,6:25,4,Rockets,Celtics,99 - 110,1,N/A,N/A,N/A
+62,Kyrie Irving,FG_MISS,None,6:16,4,Celtics,Rockets,99 - 110,0,26,3,Jumper
+63,PJ Tucker,DEFENSIVE_REBOUND,None,6:13,4,Rockets,Celtics,99 - 110,1,N/A,N/A,N/A
+64,Al Horford,FOUL_ON_FLOOR,None,5:55,4,Celtics,Rockets,99 - 110,0,N/A,N/A,N/A
+65,James Harden,FT,None,5:55,4,Rockets,Celtics,99 - 111,1,N/A,1,N/A
+66,James Harden,FT,None,5:55,4,Rockets,Celtics,99 - 112,1,N/A,1,N/A
+67,Eric Gordon,SUBSTITUTION,Green Gerald,5:55,4,Rockets,Celtics,99 - 112,1,N/A,N/A,N/A
+68,James Harden,FT_MISS,None,5:55,4,Rockets,Celtics,99 - 112,1,N/A,1,N/A
+69,Marcus Morris,DEFENSIVE_REBOUND,None,5:55,4,Celtics,Rockets,99 - 112,0,N/A,N/A,N/A
+70,Marcus Morris,FG_MISS,None,5:34,4,Celtics,Rockets,99 - 112,0,27,3,Jumper
+71,PJ Tucker,DEFENSIVE_REBOUND,None,5:30,4,Rockets,Celtics,99 - 112,1,N/A,N/A,N/A
+72,James Harden,FG_UNASSISTED,None,5:19,4,Rockets,Celtics,99 - 114,1,0,2,Layup
+73,Kyrie Irving,FOUL_ON_FLOOR,None,5:19,4,Celtics,Rockets,99 - 114,0,N/A,N/A,N/A
+74,Marcus Smart,SUBSTITUTION,Tatum Jayson,5:19,4,Celtics,Rockets,99 - 114,0,N/A,N/A,N/A
+75,James Harden,FT,None,5:19,4,Rockets,Celtics,99 - 115,1,N/A,1,N/A
+76,Al Horford,FG_ASSISTED,Kyrie Irving,5:03,4,Celtics,Rockets,101 - 115,0,0,2,Layup
+77,Eric Gordon,FG_MISS,None,4:43,4,Rockets,Celtics,101 - 115,1,25,3,Jumper
+78,Marcus Morris,DEFENSIVE_REBOUND,None,4:41,4,Celtics,Rockets,101 - 115,0,N/A,N/A,N/A
+79,Marcus Morris,FOUL_ON_FLOOR,None,4:38,4,Celtics,Rockets,101 - 115,0,N/A,N/A,N/A
+80,Marcus Morris,TURNOVER,None,4:38,4,Celtics,Rockets,101 - 115,0,N/A,N/A,N/A
+81,Marcus Morris,FOUL_TECHNICAL,None,4:38,4,Celtics,Rockets,101 - 115,0,N/A,N/A,N/A
+82,Marcus Morris,Unknown,None,4:38,4,Celtics,Rockets,101 - 115,0,N/A,N/A,N/A
+83,Semi Ojeleye,SUBSTITUTION,Morris Marcus,4:38,4,Celtics,Rockets,101 - 115,0,N/A,N/A,N/A
+84,James Harden,FT,None,4:38,4,Rockets,Celtics,101 - 116,1,N/A,1,N/A
+85,Austin Rivers,FG_MISS,None,4:27,4,Rockets,Celtics,101 - 116,1,24,3,Jumper
+86,Kyrie Irving,DEFENSIVE_REBOUND,None,4:24,4,Celtics,Rockets,101 - 116,0,N/A,N/A,N/A
+87,Al Horford,FG_ASSISTED,Kyrie Irving,4:12,4,Celtics,Rockets,103 - 116,0,0,2,Layup
+88,James Harden,FG_MISS,None,3:48,4,Rockets,Celtics,103 - 116,1,27,3,Jumper
+89,Austin Rivers,OFFENSIVE_REBOUND,None,3:43,4,Rockets,Celtics,103 - 116,1,N/A,N/A,N/A
+90,Eric Gordon,FOUL_ON_FLOOR,None,3:32,4,Rockets,Celtics,103 - 116,1,N/A,N/A,N/A
+91,Eric Gordon,TURNOVER,None,3:32,4,Rockets,Celtics,103 - 116,1,N/A,N/A,N/A
+92,Gordon Hayward,SUBSTITUTION,Brown Jaylen,3:32,4,Celtics,Rockets,103 - 116,0,N/A,N/A,N/A
+93,Semi Ojeleye,FG_ASSISTED,Al Horford,3:19,4,Celtics,Rockets,106 - 116,0,23,3,Jumper
+94,Eric Gordon,FG_MISS,None,3:06,4,Rockets,Celtics,106 - 116,1,23,3,Jumper
+95,Marcus Smart,DEFENSIVE_REBOUND,None,3:03,4,Celtics,Rockets,106 - 116,0,N/A,N/A,N/A
+96,Marcus Smart,TURNOVER,None,2:56,4,Celtics,Rockets,106 - 116,0,N/A,N/A,N/A
+97,Team,Unknown,None,2:56,4,Rockets,Celtics,106 - 116,1,N/A,N/A,N/A
+98,Clint Capela,TURNOVER,Kyrie Irving,2:35,4,Rockets,Celtics,106 - 116,1,N/A,N/A,N/A
+99,Kyrie Irving,TURNOVER,Eric Gordon,2:33,4,Celtics,Rockets,106 - 116,0,N/A,N/A,N/A
+100,Clint Capela,FG_ASSISTED,Eric Gordon,2:29,4,Rockets,Celtics,106 - 118,1,0,2,Dunk
+101,Kyrie Irving,FG_UNASSISTED,None,2:10,4,Celtics,Rockets,108 - 118,0,1,3,Jumper
+102,Semi Ojeleye,FOUL_ON_FLOOR,None,1:45,4,Celtics,Rockets,108 - 118,0,N/A,N/A,N/A
+103,James Harden,FT,None,1:45,4,Rockets,Celtics,108 - 119,1,N/A,1,N/A
+104,James Harden,FT,None,1:45,4,Rockets,Celtics,108 - 120,1,N/A,1,N/A
+105,Jaylen Brown,SUBSTITUTION,Horford Al,1:45,4,Celtics,Rockets,108 - 120,0,N/A,N/A,N/A
+106,James Harden,FT,None,1:45,4,Rockets,Celtics,108 - 121,1,N/A,1,N/A
+107,PJ Tucker,FOUL_ON_FLOOR,None,1:36,4,Rockets,Celtics,108 - 121,1,N/A,N/A,N/A
+108,Gordon Hayward,FT,None,1:36,4,Celtics,Rockets,109 - 121,0,N/A,1,N/A
+109,Gordon Hayward,FT,None,1:36,4,Celtics,Rockets,110 - 121,0,N/A,1,N/A
+110,PJ Tucker,FG_MISS,None,1:23,4,Rockets,Celtics,110 - 121,1,0,2,Layup
+111,Clint Capela,OFFENSIVE_REBOUND,None,1:22,4,Rockets,Celtics,110 - 121,1,N/A,N/A,N/A
+112,Clint Capela,FG_MISS,None,1:19,4,Rockets,Celtics,110 - 121,1,0,2,Layup
+113,Jaylen Brown,DEFENSIVE_REBOUND,None,1:19,4,Celtics,Rockets,110 - 121,0,N/A,N/A,N/A
+114,Eric Gordon,FOUL_ON_FLOOR,None,1:13,4,Rockets,Celtics,110 - 121,1,N/A,N/A,N/A
+115,Danuel House,SUBSTITUTION,Gordon Eric,1:13,4,Rockets,Celtics,110 - 121,1,N/A,N/A,N/A
+116,Gordon Hayward,FT,None,1:13,4,Celtics,Rockets,111 - 121,0,N/A,1,N/A
+117,Kyrie Irving,FG_MISS,None,1:07,4,Celtics,Rockets,111 - 121,0,23,3,Jumper
+118,Gordon Hayward,OFFENSIVE_REBOUND,None,1:03,4,Celtics,Rockets,111 - 121,0,N/A,N/A,N/A
+119,Gordon Hayward,TURNOVER,Austin Rivers,1:01,4,Celtics,Rockets,111 - 121,0,N/A,N/A,N/A
+120,Austin Rivers,TURNOVER,Gordon Hayward,59.4,4,Rockets,Celtics,111 - 121,1,N/A,N/A,N/A
+121,Jaylen Brown,FG_MISS,None,58.4,4,Celtics,Rockets,111 - 121,0,0,2,Layup
+122,Clint Capela,DEFENSIVE_REBOUND,None,57.6,4,Rockets,Celtics,111 - 121,1,N/A,N/A,N/A
+123,Marcus Smart,FOUL_ON_FLOOR,None,38.3,4,Celtics,Rockets,111 - 121,0,N/A,N/A,N/A
+124,James Harden,FT,None,38.3,4,Rockets,Celtics,111 - 122,1,N/A,1,N/A
+125,James Harden,FT,None,38.3,4,Rockets,Celtics,111 - 123,1,N/A,1,N/A
+126,Guerschon Yabusele,SUBSTITUTION,Irving Kyrie,38.3,4,Celtics,Rockets,111 - 123,0,N/A,N/A,N/A
+127,James Harden,FT,None,38.3,4,Rockets,Celtics,111 - 124,1,N/A,1,N/A
+128,Gordon Hayward,FG_MISS,None,35.0,4,Celtics,Rockets,111 - 124,0,28,3,Jumper
+129,Clint Capela,DEFENSIVE_REBOUND,None,31.3,4,Rockets,Celtics,111 - 124,1,N/A,N/A,N/A
+130,Gordon Hayward,FOUL_ON_FLOOR,None,29.8,4,Celtics,Rockets,111 - 124,0,N/A,N/A,N/A
+131,Clint Capela,FT,None,29.8,4,Rockets,Celtics,111 - 125,1,N/A,1,N/A
+132,Clint Capela,FT,None,29.8,4,Rockets,Celtics,111 - 126,1,N/A,1,N/A
+133,Marcus Smart,FOUL_TECHNICAL,None,24.0,4,Celtics,Rockets,111 - 126,0,N/A,N/A,N/A
+134,James Harden,FT,None,24.0,4,Rockets,Celtics,111 - 127,1,N/A,1,N/A
+135,Jaylen Brown,FG_UNASSISTED,None,18.3,4,Celtics,Rockets,113 - 127,0,11,3,Jumper
+136,End of,Unknown,None,0.0,4,Rockets,Celtics,113 - 127,1,N/A,N/A,N/A
+137,End of,Unknown,None,0.0,4,Rockets,Celtics,113 - 127,1,N/A,N/A,N/A

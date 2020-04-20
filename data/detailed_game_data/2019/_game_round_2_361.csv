@@ -1,0 +1,464 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Maximilian Kleber,JUMP_BALL,None,12:00,1,Mavericks,Cavaliers,0 - 0,0,N/A,N/A,N/A
+1,Luka Doncic,FG_MISS,None,11:39,1,Mavericks,Cavaliers,0 - 0,0,20,2,Jumper
+2,Maximilian Kleber,OFFENSIVE_REBOUND,None,11:38,1,Mavericks,Cavaliers,0 - 0,0,N/A,N/A,N/A
+3,Harrison Barnes,FOUL_ON_FLOOR,None,11:32,1,Mavericks,Cavaliers,0 - 0,0,N/A,N/A,N/A
+4,Harrison Barnes,TURNOVER,None,11:32,1,Mavericks,Cavaliers,0 - 0,0,N/A,N/A,N/A
+5,Collin Sexton,FG_MISS,None,11:17,1,Cavaliers,Mavericks,0 - 0,1,0,2,Layup
+6,Team,DEFENSIVE_REBOUND,None,11:17,1,Mavericks,Cavaliers,0 - 0,0,N/A,N/A,N/A
+7,Maximilian Kleber,FG_MISS,None,10:57,1,Mavericks,Cavaliers,0 - 0,0,8,2,Jumper
+8,Alec Burks,DEFENSIVE_REBOUND,None,10:55,1,Cavaliers,Mavericks,0 - 0,1,N/A,N/A,N/A
+9,Rodney Hood,FG_MISS,None,10:46,1,Cavaliers,Mavericks,0 - 0,1,-,2,Jumper
+10,Ante Zizic,OFFENSIVE_REBOUND,None,10:41,1,Cavaliers,Mavericks,0 - 0,1,N/A,N/A,N/A
+11,Ante Zizic,FG_MISS,None,10:41,1,Cavaliers,Mavericks,0 - 0,1,-,2,Jumper
+12,Dorian Finney-Smith,DEFENSIVE_REBOUND,None,10:40,1,Mavericks,Cavaliers,0 - 0,0,N/A,N/A,N/A
+13,Jalen Brunson,FG_UNASSISTED,None,10:34,1,Mavericks,Cavaliers,2 - 0,0,10,2,Jumper
+14,Rodney Hood,FG_ASSISTED,Collin Sexton,10:10,1,Cavaliers,Mavericks,2 - 3,1,28,3,Jumper
+15,Jalen Brunson,FG_MISS,None,9:56,1,Mavericks,Cavaliers,2 - 3,0,24,3,Jumper
+16,Jalen Brunson,OFFENSIVE_REBOUND,None,9:55,1,Mavericks,Cavaliers,2 - 3,0,N/A,N/A,N/A
+17,Ante Zizic,FOUL_ON_FLOOR,None,9:49,1,Cavaliers,Mavericks,2 - 3,1,N/A,N/A,N/A
+18,Jalen Brunson,FT_MISS,None,9:49,1,Mavericks,Cavaliers,2 - 3,0,N/A,1,N/A
+19,Team,OFFENSIVE_REBOUND,None,9:49,1,Mavericks,Cavaliers,2 - 3,0,N/A,N/A,N/A
+20,Jalen Brunson,FT,None,9:49,1,Mavericks,Cavaliers,3 - 3,0,N/A,1,N/A
+21,Ante Zizic,FG_ASSISTED,Cedi Osman,9:38,1,Cavaliers,Mavericks,3 - 5,1,0,2,Dunk
+22,Luka Doncic,TURNOVER,Cedi Osman,9:27,1,Mavericks,Cavaliers,3 - 5,0,N/A,N/A,N/A
+23,Collin Sexton,FG_ASSISTED,Cedi Osman,9:22,1,Cavaliers,Mavericks,3 - 7,1,0,2,Layup
+24,Luka Doncic,FG_UNASSISTED,None,9:08,1,Mavericks,Cavaliers,5 - 7,0,2,2,Jumper
+25,Ante Zizic,FG_ASSISTED,Cedi Osman,8:56,1,Cavaliers,Mavericks,5 - 9,1,0,2,Layup
+26,Dorian Finney-Smith,FG_ASSISTED,Luka Doncic,8:40,1,Mavericks,Cavaliers,8 - 9,0,26,3,Jumper
+27,Cedi Osman,FG_UNASSISTED,None,8:27,1,Cavaliers,Mavericks,8 - 11,1,0,2,Layup
+28,Luka Doncic,FG_UNASSISTED,None,8:17,1,Mavericks,Cavaliers,11 - 11,0,28,2,Jumper
+29,Collin Sexton,FG_MISS,None,8:02,1,Cavaliers,Mavericks,11 - 11,1,11,2,Jumper
+30,Harrison Barnes,DEFENSIVE_REBOUND,None,7:59,1,Mavericks,Cavaliers,11 - 11,0,N/A,N/A,N/A
+31,Dorian Finney-Smith,FG_MISS,None,7:55,1,Mavericks,Cavaliers,11 - 11,0,0,2,Layup
+32,Maximilian Kleber,OFFENSIVE_REBOUND,None,7:49,1,Mavericks,Cavaliers,11 - 11,0,N/A,N/A,N/A
+33,Maximilian Kleber,FG_MISS,None,7:47,1,Mavericks,Cavaliers,11 - 11,0,0,2,Layup
+34,Alec Burks,DEFENSIVE_REBOUND,None,7:47,1,Cavaliers,Mavericks,11 - 11,1,N/A,N/A,N/A
+35,Rodney Hood,FG_MISS,None,7:41,1,Cavaliers,Mavericks,11 - 11,1,25,3,Jumper
+36,Luka Doncic,DEFENSIVE_REBOUND,None,7:39,1,Mavericks,Cavaliers,11 - 11,0,N/A,N/A,N/A
+37,Luka Doncic,FG_UNASSISTED,None,7:30,1,Mavericks,Cavaliers,13 - 11,0, ,2,Jumper
+38,Dorian Finney-Smith,FOUL_ON_FLOOR,None,7:27,1,Mavericks,Cavaliers,13 - 11,0,N/A,N/A,N/A
+39,Ante Zizic,TURNOVER,Luka Doncic,7:08,1,Cavaliers,Mavericks,13 - 11,1,N/A,N/A,N/A
+40,Alec Burks,FOUL_ON_FLOOR,None,7:08,1,Cavaliers,Mavericks,13 - 11,1,N/A,N/A,N/A
+41,Harrison Barnes,FG_MISS,None,6:50,1,Mavericks,Cavaliers,13 - 11,0,2,2,Jumper
+42,Alec Burks,DEFENSIVE_REBOUND,None,6:47,1,Cavaliers,Mavericks,13 - 11,1,N/A,N/A,N/A
+43,Luka Doncic,FOUL_ON_FLOOR,None,6:47,1,Mavericks,Cavaliers,13 - 11,0,N/A,N/A,N/A
+44,Team,Unknown,None,6:47,1,Cavaliers,Mavericks,13 - 11,1,N/A,N/A,N/A
+45,Ryan Broekhoff,SUBSTITUTION,Doncic Luka,6:47,1,Mavericks,Cavaliers,13 - 11,0,N/A,N/A,N/A
+46,Alec Burks,FT,None,6:47,1,Cavaliers,Mavericks,13 - 12,1,N/A,1,N/A
+47,Alec Burks,FT,None,6:47,1,Cavaliers,Mavericks,13 - 13,1,N/A,1,N/A
+48,Jalen Brunson,FG_MISS,None,6:23,1,Mavericks,Cavaliers,13 - 13,0,23,3,Jumper
+49,Ante Zizic,DEFENSIVE_REBOUND,None,6:18,1,Cavaliers,Mavericks,13 - 13,1,N/A,N/A,N/A
+50,Cedi Osman,FG_MISS,None,6:10,1,Cavaliers,Mavericks,13 - 13,1,26,3,Jumper
+51,Jalen Brunson,DEFENSIVE_REBOUND,None,6:07,1,Mavericks,Cavaliers,13 - 13,0,N/A,N/A,N/A
+52,Maximilian Kleber,FG_ASSISTED,Jalen Brunson,6:02,1,Mavericks,Cavaliers,16 - 13,0,23,3,Jumper
+53,Cedi Osman,FG_UNASSISTED,None,5:44,1,Cavaliers,Mavericks,16 - 15,1,0,2,Layup
+54,Maximilian Kleber,FG_ASSISTED,Dorian Finney-Smith,5:34,1,Mavericks,Cavaliers,19 - 15,0,26,3,Jumper
+55,Alec Burks,FG_MISS,None,5:15,1,Cavaliers,Mavericks,19 - 15,1,16,2,Jumper
+56,Harrison Barnes,DEFENSIVE_REBOUND,None,5:12,1,Mavericks,Cavaliers,19 - 15,0,N/A,N/A,N/A
+57,Harrison Barnes,FG_MISS,None,5:02,1,Mavericks,Cavaliers,19 - 15,0,25,3,Jumper
+58,Collin Sexton,DEFENSIVE_REBOUND,None,4:58,1,Cavaliers,Mavericks,19 - 15,1,N/A,N/A,N/A
+59,Ante Zizic,FG_MISS,None,4:47,1,Cavaliers,Mavericks,19 - 15,1,7,2,Jumper
+60,Maximilian Kleber,DEFENSIVE_REBOUND,None,4:45,1,Mavericks,Cavaliers,19 - 15,0,N/A,N/A,N/A
+61,Dorian Finney-Smith,TURNOVER,Collin Sexton,4:38,1,Mavericks,Cavaliers,19 - 15,0,N/A,N/A,N/A
+62,Cedi Osman's,FG_MISS,Maximilian Kleber,4:33,1,Mavericks,Cavaliers,19 - 15,1, ,2,Jumper
+63,Dorian Finney-Smith,DEFENSIVE_REBOUND,None,4:29,1,Mavericks,Cavaliers,19 - 15,0,N/A,N/A,N/A
+64,Ryan Broekhoff,FG_MISS,None,4:26,1,Mavericks,Cavaliers,19 - 15,0, ,3,Jumper
+65,Dorian Finney-Smith,OFFENSIVE_REBOUND,None,4:21,1,Mavericks,Cavaliers,19 - 15,0,N/A,N/A,N/A
+66,Cedi Osman,FOUL_ON_FLOOR,None,4:21,1,Cavaliers,Mavericks,19 - 15,1,N/A,N/A,N/A
+67,David Nwaba,SUBSTITUTION,Hood Rodney,4:21,1,Cavaliers,Mavericks,19 - 15,1,N/A,N/A,N/A
+68,Larry Nance,SUBSTITUTION,Osman Cedi,4:21,1,Cavaliers,Mavericks,19 - 15,1,N/A,N/A,N/A
+69,Jordan Clarkson,SUBSTITUTION,Zizic Ante,4:21,1,Cavaliers,Mavericks,19 - 15,1,N/A,N/A,N/A
+70,Harrison Barnes,FG_MISS,None,4:14,1,Mavericks,Cavaliers,19 - 15,0,0,2,Layup
+71,Larry Nance,DEFENSIVE_REBOUND,None,4:11,1,Cavaliers,Mavericks,19 - 15,1,N/A,N/A,N/A
+72,Jordan Clarkson,FG_ASSISTED,Larry Nance,4:06,1,Cavaliers,Mavericks,19 - 17,1, ,2,Jumper
+73,Maximilian Kleber,FOUL_ON_FLOOR,None,4:06,1,Mavericks,Cavaliers,19 - 17,0,N/A,N/A,N/A
+74,Dirk Nowitzki,SUBSTITUTION,Finney-Smith Dorian,4:06,1,Mavericks,Cavaliers,19 - 17,0,N/A,N/A,N/A
+75,Dwight Powell,SUBSTITUTION,Brunson Jalen,4:06,1,Mavericks,Cavaliers,19 - 17,0,N/A,N/A,N/A
+76,Devin Harris,SUBSTITUTION,Barnes Harrison,4:06,1,Mavericks,Cavaliers,19 - 17,0,N/A,N/A,N/A
+77,Luka Doncic,SUBSTITUTION,Kleber Maximilian,4:06,1,Mavericks,Cavaliers,19 - 17,0,N/A,N/A,N/A
+78,Jordan Clarkson,FT,None,4:06,1,Cavaliers,Mavericks,19 - 18,1,N/A,1,N/A
+79,Luka Doncic,FG_UNASSISTED,None,3:57,1,Mavericks,Cavaliers,21 - 18,0,0,2,Layup
+80,Alec Burks,FG_ASSISTED,Jordan Clarkson,3:46,1,Cavaliers,Mavericks,21 - 20,1,0,2,Layup
+81,Ryan Broekhoff,FG_ASSISTED,Dwight Powell,3:26,1,Mavericks,Cavaliers,24 - 20,0,23,3,Jumper
+82,Larry Nance,FG_ASSISTED,Alec Burks,3:11,1,Cavaliers,Mavericks,24 - 22,1,0,2,Layup
+83,Dirk Nowitzki,FOUL_ON_FLOOR,None,3:11,1,Mavericks,Cavaliers,24 - 22,0,N/A,N/A,N/A
+84,Matthew Dellavedova,SUBSTITUTION,Sexton Collin,3:11,1,Cavaliers,Mavericks,24 - 22,1,N/A,N/A,N/A
+85,Cedi Osman,SUBSTITUTION,Burks Alec,3:11,1,Cavaliers,Mavericks,24 - 22,1,N/A,N/A,N/A
+86,Larry Nance,FT,None,3:11,1,Cavaliers,Mavericks,24 - 23,1,N/A,1,N/A
+87,Dwight Powell,FG_ASSISTED,Luka Doncic,3:00,1,Mavericks,Cavaliers,26 - 23,0,0,2,Dunk
+88,Larry Nance,FG_MISS,None,2:38,1,Cavaliers,Mavericks,26 - 23,1,0,2,Layup
+89,Dwight Powell,DEFENSIVE_REBOUND,None,2:33,1,Mavericks,Cavaliers,26 - 23,0,N/A,N/A,N/A
+90,Jordan Clarkson,FOUL_ON_FLOOR,None,2:30,1,Cavaliers,Mavericks,26 - 23,1,N/A,N/A,N/A
+91,Team,Unknown,None,2:30,1,Mavericks,Cavaliers,26 - 23,0,N/A,N/A,N/A
+92,Luka Doncic,FG_UNASSISTED,None,2:16,1,Mavericks,Cavaliers,29 - 23,0,26,2,Jumper
+93,Dirk Nowitzki,FOUL_ON_FLOOR,None,2:03,1,Mavericks,Cavaliers,29 - 23,0,N/A,N/A,N/A
+94,Jordan Clarkson,FT_MISS,None,2:03,1,Cavaliers,Mavericks,29 - 23,1,N/A,1,N/A
+95,Team,OFFENSIVE_REBOUND,None,2:03,1,Cavaliers,Mavericks,29 - 23,1,N/A,N/A,N/A
+96,Jordan Clarkson,FT_MISS,None,2:03,1,Cavaliers,Mavericks,29 - 23,1,N/A,1,N/A
+97,Dirk Nowitzki,DEFENSIVE_REBOUND,None,2:01,1,Mavericks,Cavaliers,29 - 23,0,N/A,N/A,N/A
+98,Dwight Powell,FG_ASSISTED,Devin Harris,1:44,1,Mavericks,Cavaliers,31 - 23,0,0,2,Dunk
+99,Cedi Osman,FG_ASSISTED,Larry Nance,1:27,1,Cavaliers,Mavericks,31 - 25,1,19,2,Jumper
+100,Ryan Broekhoff,FG_ASSISTED,Luka Doncic,1:13,1,Mavericks,Cavaliers,34 - 25,0,24,3,Jumper
+101,Devin Harris,FOUL_ON_FLOOR,None,1:11,1,Mavericks,Cavaliers,34 - 25,0,N/A,N/A,N/A
+102,Matthew Dellavedova,FT,None,1:11,1,Cavaliers,Mavericks,34 - 26,1,N/A,1,N/A
+103,Harrison Barnes,SUBSTITUTION,Nowitzki Dirk,1:11,1,Mavericks,Cavaliers,34 - 26,0,N/A,N/A,N/A
+104,Matthew Dellavedova,FT,None,1:11,1,Cavaliers,Mavericks,34 - 27,1,N/A,1,N/A
+105,Luka Doncic,FG_ASSISTED,Devin Harris,55.7,1,Mavericks,Cavaliers,37 - 27,0,27,3,Jumper
+106,Jordan Clarkson,FG_ASSISTED,Matthew Dellavedova,48.3,1,Cavaliers,Mavericks,37 - 29,1,0,2,Dunk
+107,Luka Doncic,FG_UNASSISTED,None,34.0,1,Mavericks,Cavaliers,40 - 29,0,30,2,Jumper
+108,Jordan Clarkson,FG_ASSISTED,Matthew Dellavedova,14.5,1,Cavaliers,Mavericks,40 - 31,1, ,2,Jumper
+109,Luka Doncic,FG_MISS,None,1.1,1,Mavericks,Cavaliers,40 - 31,0,27,2,Jumper
+110,Larry Nance,DEFENSIVE_REBOUND,None,0.3,1,Cavaliers,Mavericks,40 - 31,1,N/A,N/A,N/A
+111,End of,Unknown,None,0.0,1,Cavaliers,Mavericks,40 - 31,1,N/A,N/A,N/A
+0,Rodney Hood,SUBSTITUTION,Nwaba David,12:00,2,Cavaliers,Mavericks,40 - 31,1,N/A,N/A,N/A
+1,Jordan Clarkson,FG_ASSISTED,Larry Nance,11:38,2,Cavaliers,Mavericks,40 - 34,1, ,3,Jumper
+2,Ryan Broekhoff,FG_MISS,None,11:19,2,Mavericks,Cavaliers,40 - 34,0,24,3,Jumper
+3,Luka Doncic,OFFENSIVE_REBOUND,None,11:16,2,Mavericks,Cavaliers,40 - 34,0,N/A,N/A,N/A
+4,Ryan Broekhoff,FG_ASSISTED,Luka Doncic,11:09,2,Mavericks,Cavaliers,43 - 34,0, ,3,Jumper
+5,Dwight Powell,FOUL_ON_FLOOR,None,10:54,2,Mavericks,Cavaliers,43 - 34,0,N/A,N/A,N/A
+6,Rodney Hood,FT,None,10:54,2,Cavaliers,Mavericks,43 - 35,1,N/A,1,N/A
+7,Rodney Hood,FT_MISS,None,10:54,2,Cavaliers,Mavericks,43 - 35,1,N/A,1,N/A
+8,Luka Doncic,DEFENSIVE_REBOUND,None,10:51,2,Mavericks,Cavaliers,43 - 35,0,N/A,N/A,N/A
+9,Luka Doncic,FG_MISS,None,10:41,2,Mavericks,Cavaliers,43 - 35,0,17,2,Jumper
+10,Larry Nance,DEFENSIVE_REBOUND,None,10:39,2,Cavaliers,Mavericks,43 - 35,1,N/A,N/A,N/A
+11,Larry Nance,FG_ASSISTED,Rodney Hood,10:30,2,Cavaliers,Mavericks,43 - 37,1,0,2,Dunk
+12,Ryan Broekhoff,FG_ASSISTED,Luka Doncic,10:04,2,Mavericks,Cavaliers,46 - 37,0,26,3,Jumper
+13,Cedi Osman,FG_UNASSISTED,None,9:45,2,Cavaliers,Mavericks,46 - 39,1,5,2,Jumper
+14,Cedi Osman,FOUL_ON_FLOOR,None,9:35,2,Cavaliers,Mavericks,46 - 39,1,N/A,N/A,N/A
+15,Matthew Dellavedova,FOUL_ON_FLOOR,None,9:28,2,Cavaliers,Mavericks,46 - 39,1,N/A,N/A,N/A
+16,Ryan Broekhoff,FG_MISS,None,9:23,2,Mavericks,Cavaliers,46 - 39,0,28,3,Jumper
+17,Cedi Osman,DEFENSIVE_REBOUND,None,9:19,2,Cavaliers,Mavericks,46 - 39,1,N/A,N/A,N/A
+18,Cedi Osman,FG_MISS,None,9:10,2,Cavaliers,Mavericks,46 - 39,1,0,2,Layup
+19,Cedi Osman,OFFENSIVE_REBOUND,None,9:07,2,Cavaliers,Mavericks,46 - 39,1,N/A,N/A,N/A
+20,Cedi Osman,FG_UNASSISTED,None,9:06,2,Cavaliers,Mavericks,46 - 41,1, ,2,Jumper
+21,Team,Unknown,None,9:06,2,Mavericks,Cavaliers,46 - 41,0,N/A,N/A,N/A
+22,Dwight Powell,FG_MISS,None,8:51,2,Mavericks,Cavaliers,46 - 41,0,0,2,Layup
+23,Larry Nance,DEFENSIVE_REBOUND,None,8:48,2,Cavaliers,Mavericks,46 - 41,1,N/A,N/A,N/A
+24,Cedi Osman,FG_MISS,None,8:31,2,Cavaliers,Mavericks,46 - 41,1,28,3,Jumper
+25,Luka Doncic,DEFENSIVE_REBOUND,None,8:30,2,Mavericks,Cavaliers,46 - 41,0,N/A,N/A,N/A
+26,Luka Doncic,TURNOVER,Rodney Hood,8:23,2,Mavericks,Cavaliers,46 - 41,0,N/A,N/A,N/A
+27,Devin Harris,FOUL_ON_FLOOR,None,8:21,2,Mavericks,Cavaliers,46 - 41,0,N/A,N/A,N/A
+28,Rodney Hood,FT,None,8:21,2,Cavaliers,Mavericks,46 - 42,1,N/A,1,N/A
+29,Alec Burks,SUBSTITUTION,Osman Cedi,8:21,2,Cavaliers,Mavericks,46 - 42,1,N/A,N/A,N/A
+30,Dorian Finney-Smith,SUBSTITUTION,Powell Dwight,8:21,2,Mavericks,Cavaliers,46 - 42,0,N/A,N/A,N/A
+31,Maximilian Kleber,SUBSTITUTION,Harris Devin,8:21,2,Mavericks,Cavaliers,46 - 42,0,N/A,N/A,N/A
+32,Jalen Brunson,SUBSTITUTION,Doncic Luka,8:21,2,Mavericks,Cavaliers,46 - 42,0,N/A,N/A,N/A
+33,Rodney Hood,FT,None,8:21,2,Cavaliers,Mavericks,46 - 43,1,N/A,1,N/A
+34,Jalen Brunson,TURNOVER,Larry Nance,8:08,2,Mavericks,Cavaliers,46 - 43,0,N/A,N/A,N/A
+35,Jordan Clarkson,FG_MISS,None,7:55,2,Cavaliers,Mavericks,46 - 43,1,24,3,Jumper
+36,Maximilian Kleber,DEFENSIVE_REBOUND,None,7:53,2,Mavericks,Cavaliers,46 - 43,0,N/A,N/A,N/A
+37,Maximilian Kleber,FG_MISS,None,7:47,2,Mavericks,Cavaliers,46 - 43,0,26,3,Jumper
+38,Alec Burks,DEFENSIVE_REBOUND,None,7:45,2,Cavaliers,Mavericks,46 - 43,1,N/A,N/A,N/A
+39,Alec Burks,TURNOVER,Maximilian Kleber,7:42,2,Cavaliers,Mavericks,46 - 43,1,N/A,N/A,N/A
+40,Ryan Broekhoff,FG_MISS,Jordan Clarkson,7:32,2,Cavaliers,Mavericks,46 - 43,0,0,2,Layup
+41,Team,OFFENSIVE_REBOUND,None,7:32,2,Mavericks,Cavaliers,46 - 43,0,N/A,N/A,N/A
+42,Jalen Brunson,FG_MISS,None,7:24,2,Mavericks,Cavaliers,46 - 43,0,20,2,Jumper
+43,Alec Burks,DEFENSIVE_REBOUND,None,7:20,2,Cavaliers,Mavericks,46 - 43,1,N/A,N/A,N/A
+44,Matthew Dellavedova,FG_MISS,None,7:09,2,Cavaliers,Mavericks,46 - 43,1,26,3,Jumper
+45,Jalen Brunson,DEFENSIVE_REBOUND,None,7:05,2,Mavericks,Cavaliers,46 - 43,0,N/A,N/A,N/A
+46,Collin Sexton,SUBSTITUTION,Dellavedova Matthew,6:57,2,Cavaliers,Mavericks,46 - 43,1,N/A,N/A,N/A
+47,Harrison Barnes,FG_MISS,None,6:42,2,Mavericks,Cavaliers,46 - 43,0,12,2,Jumper
+48,Larry Nance,DEFENSIVE_REBOUND,None,6:40,2,Cavaliers,Mavericks,46 - 43,1,N/A,N/A,N/A
+49,Jordan Clarkson,FG_MISS,None,6:27,2,Cavaliers,Mavericks,46 - 43,1, ,2,Jumper
+50,Team,DEFENSIVE_REBOUND,None,6:27,2,Mavericks,Cavaliers,46 - 43,0,N/A,N/A,N/A
+51,Maximilian Kleber,FG_MISS,None,6:12,2,Mavericks,Cavaliers,46 - 43,0,28,3,Jumper
+52,Jordan Clarkson,DEFENSIVE_REBOUND,None,6:08,2,Cavaliers,Mavericks,46 - 43,1,N/A,N/A,N/A
+53,Collin Sexton,FG_ASSISTED,Jordan Clarkson,6:00,2,Cavaliers,Mavericks,46 - 45,1,5,2,Jumper
+54,Jalen Brunson,FOUL_ON_FLOOR,None,5:50,2,Mavericks,Cavaliers,46 - 45,0,N/A,N/A,N/A
+55,Jalen Brunson,TURNOVER,None,5:50,2,Mavericks,Cavaliers,46 - 45,0,N/A,N/A,N/A
+56,David Nwaba,SUBSTITUTION,Hood Rodney,5:50,2,Cavaliers,Mavericks,46 - 45,1,N/A,N/A,N/A
+57,Collin Sexton,FG_MISS,None,5:41,2,Cavaliers,Mavericks,46 - 45,1,25,3,Jumper
+58,Jordan Clarkson,OFFENSIVE_REBOUND,None,5:37,2,Cavaliers,Mavericks,46 - 45,1,N/A,N/A,N/A
+59,David Nwaba,FG_MISS,None,5:35,2,Cavaliers,Mavericks,46 - 45,1,0,2,Layup
+60,David Nwaba,OFFENSIVE_REBOUND,None,5:33,2,Cavaliers,Mavericks,46 - 45,1,N/A,N/A,N/A
+61,David Nwaba,FG_UNASSISTED,None,5:30,2,Cavaliers,Mavericks,46 - 47,1, ,2,Jumper
+62,Harrison Barnes,FG_MISS,None,5:16,2,Mavericks,Cavaliers,46 - 47,0, ,3,Jumper
+63,Larry Nance,DEFENSIVE_REBOUND,None,5:13,2,Cavaliers,Mavericks,46 - 47,1,N/A,N/A,N/A
+64,Jordan Clarkson,FG_MISS,None,4:53,2,Cavaliers,Mavericks,46 - 47,1, ,2,Jumper
+65,David Nwaba,OFFENSIVE_REBOUND,None,4:50,2,Cavaliers,Mavericks,46 - 47,1,N/A,N/A,N/A
+66,David Nwaba,FG_UNASSISTED,None,4:50,2,Cavaliers,Mavericks,46 - 49,1, ,2,Jumper
+67,Team,Unknown,None,4:50,2,Mavericks,Cavaliers,46 - 49,0,N/A,N/A,N/A
+68,Dwight Powell,SUBSTITUTION,Barnes Harrison,4:50,2,Mavericks,Cavaliers,46 - 49,0,N/A,N/A,N/A
+69,Luka Doncic,SUBSTITUTION,Broekhoff Ryan,4:50,2,Mavericks,Cavaliers,46 - 49,0,N/A,N/A,N/A
+70,Dorian Finney-Smith,FG_MISS,None,4:33,2,Mavericks,Cavaliers,46 - 49,0,28,3,Jumper
+71,Maximilian Kleber,OFFENSIVE_REBOUND,None,4:29,2,Mavericks,Cavaliers,46 - 49,0,N/A,N/A,N/A
+72,Luka Doncic,FG_MISS,None,4:27,2,Mavericks,Cavaliers,46 - 49,0,27,2,Jumper
+73,Dorian Finney-Smith,OFFENSIVE_REBOUND,None,4:25,2,Mavericks,Cavaliers,46 - 49,0,N/A,N/A,N/A
+74,Dorian Finney-Smith,TURNOVER,None,4:25,2,Mavericks,Cavaliers,46 - 49,0,N/A,N/A,N/A
+75,Larry Nance,FG_ASSISTED,Alec Burks,4:12,2,Cavaliers,Mavericks,46 - 51,1,0,2,Dunk
+76,Luka Doncic,FG_UNASSISTED,None,3:56,2,Mavericks,Cavaliers,48 - 51,0,11,2,Jumper
+77,Alec Burks,FOUL_ON_FLOOR,None,3:56,2,Cavaliers,Mavericks,48 - 51,1,N/A,N/A,N/A
+78,Luka Doncic,FT,None,3:56,2,Mavericks,Cavaliers,49 - 51,0,N/A,1,N/A
+79,Jalen Brunson,FOUL_ON_FLOOR,None,3:46,2,Mavericks,Cavaliers,49 - 51,0,N/A,N/A,N/A
+80,Ante Zizic,SUBSTITUTION,Nance Larry,3:46,2,Cavaliers,Mavericks,49 - 51,1,N/A,N/A,N/A
+81,David Nwaba,FG_UNASSISTED,None,3:34,2,Cavaliers,Mavericks,49 - 53,1,0,2,Layup
+82,Luka Doncic,FG_MISS,None,3:07,2,Mavericks,Cavaliers,49 - 53,0,27,3,Jumper
+83,David Nwaba,DEFENSIVE_REBOUND,None,3:05,2,Cavaliers,Mavericks,49 - 53,1,N/A,N/A,N/A
+84,Jordan Clarkson,FG_MISS,Maximilian Kleber,2:40,2,Mavericks,Cavaliers,49 - 53,1,9,2,Jumper
+85,Maximilian Kleber,DEFENSIVE_REBOUND,None,2:37,2,Mavericks,Cavaliers,49 - 53,0,N/A,N/A,N/A
+86,Luka Doncic,FG_UNASSISTED,None,2:34,2,Mavericks,Cavaliers,51 - 53,0, ,2,Jumper
+87,Collin Sexton,FG_MISS,None,2:14,2,Cavaliers,Mavericks,51 - 53,1, ,2,Jumper
+88,Maximilian Kleber,DEFENSIVE_REBOUND,None,2:11,2,Mavericks,Cavaliers,51 - 53,0,N/A,N/A,N/A
+89,Ante Zizic,FOUL_ON_FLOOR,None,1:55,2,Cavaliers,Mavericks,51 - 53,1,N/A,N/A,N/A
+90,Luka Doncic,FT_MISS,None,1:55,2,Mavericks,Cavaliers,51 - 53,0,N/A,1,N/A
+91,Team,OFFENSIVE_REBOUND,None,1:55,2,Mavericks,Cavaliers,51 - 53,0,N/A,N/A,N/A
+92,Rodney Hood,SUBSTITUTION,Clarkson Jordan,1:55,2,Cavaliers,Mavericks,51 - 53,1,N/A,N/A,N/A
+93,Harrison Barnes,SUBSTITUTION,Powell Dwight,1:55,2,Mavericks,Cavaliers,51 - 53,0,N/A,N/A,N/A
+94,Luka Doncic,FT,None,1:55,2,Mavericks,Cavaliers,52 - 53,0,N/A,1,N/A
+95,Collin Sexton,FG_MISS,Harrison Barnes,1:32,2,Mavericks,Cavaliers,52 - 53,1,0,2,Layup
+96,Harrison Barnes,DEFENSIVE_REBOUND,None,1:28,2,Mavericks,Cavaliers,52 - 53,0,N/A,N/A,N/A
+97,Harrison Barnes,FG_UNASSISTED,None,1:20,2,Mavericks,Cavaliers,54 - 53,0,0,2,Layup
+98,Ante Zizic,FG_MISS,None,1:09,2,Cavaliers,Mavericks,54 - 53,1, ,2,Jumper
+99,Luka Doncic,DEFENSIVE_REBOUND,None,1:07,2,Mavericks,Cavaliers,54 - 53,0,N/A,N/A,N/A
+100,Harrison Barnes,FG_MISS,None,55.0,2,Mavericks,Cavaliers,54 - 53,0,22,2,Jumper
+101,Alec Burks,DEFENSIVE_REBOUND,None,53.1,2,Cavaliers,Mavericks,54 - 53,1,N/A,N/A,N/A
+102,Collin Sexton,FG_ASSISTED,Alec Burks,50.1,2,Cavaliers,Mavericks,54 - 55,1, ,2,Jumper
+103,Luka Doncic,FG_UNASSISTED,None,28.9,2,Mavericks,Cavaliers,56 - 55,0,11,2,Jumper
+104,Collin Sexton,FG_MISS,None,7.2,2,Cavaliers,Mavericks,56 - 55,1, ,2,Jumper
+105,Dorian Finney-Smith,DEFENSIVE_REBOUND,None,3.9,2,Mavericks,Cavaliers,56 - 55,0,N/A,N/A,N/A
+106,Luka Doncic,FG_UNASSISTED,None,0.4,2,Mavericks,Cavaliers,58 - 55,0,0,2,Layup
+107,End of,Unknown,None,0.0,2,Cavaliers,Mavericks,58 - 55,1,N/A,N/A,N/A
+0,Collin Sexton,FG_MISS,None,11:47,3,Cavaliers,Mavericks,58 - 55,1,26,3,Jumper
+1,Luka Doncic,DEFENSIVE_REBOUND,None,11:40,3,Mavericks,Cavaliers,58 - 55,0,N/A,N/A,N/A
+2,Luka Doncic,FG_MISS,None,11:35,3,Mavericks,Cavaliers,58 - 55,0,27,3,Jumper
+3,Ante Zizic,DEFENSIVE_REBOUND,None,11:33,3,Cavaliers,Mavericks,58 - 55,1,N/A,N/A,N/A
+4,David Nwaba,FG_UNASSISTED,None,11:26,3,Cavaliers,Mavericks,58 - 57,1,11,2,Jumper
+5,Harrison Barnes,FG_MISS,None,11:11,3,Mavericks,Cavaliers,58 - 57,0,31,3,Jumper
+6,Rodney Hood,DEFENSIVE_REBOUND,None,11:08,3,Cavaliers,Mavericks,58 - 57,1,N/A,N/A,N/A
+7,Rodney Hood,FG_MISS,None,11:00,3,Cavaliers,Mavericks,58 - 57,1, ,2,Jumper
+8,Ante Zizic,OFFENSIVE_REBOUND,None,10:55,3,Cavaliers,Mavericks,58 - 57,1,N/A,N/A,N/A
+9,Ante Zizic,FG_MISS,None,10:55,3,Cavaliers,Mavericks,58 - 57,1, ,2,Jumper
+10,Luka Doncic,DEFENSIVE_REBOUND,None,10:55,3,Mavericks,Cavaliers,58 - 57,0,N/A,N/A,N/A
+11,Rodney Hood,FOUL_ON_FLOOR,None,10:54,3,Cavaliers,Mavericks,58 - 57,1,N/A,N/A,N/A
+12,Maximilian Kleber,FT,None,10:54,3,Mavericks,Cavaliers,59 - 57,0,N/A,1,N/A
+13,Maximilian Kleber,FT,None,10:54,3,Mavericks,Cavaliers,60 - 57,0,N/A,1,N/A
+14,Alec Burks,FG_MISS,None,10:44,3,Cavaliers,Mavericks,60 - 57,1,27,3,Jumper
+15,Dorian Finney-Smith,DEFENSIVE_REBOUND,None,10:39,3,Mavericks,Cavaliers,60 - 57,0,N/A,N/A,N/A
+16,Dorian Finney-Smith,FG_MISS,None,10:34,3,Mavericks,Cavaliers,60 - 57,0,26,3,Jumper
+17,Alec Burks,DEFENSIVE_REBOUND,None,10:32,3,Cavaliers,Mavericks,60 - 57,1,N/A,N/A,N/A
+18,David Nwaba,FG_ASSISTED,Alec Burks,10:22,3,Cavaliers,Mavericks,60 - 59,1, ,2,Jumper
+19,Harrison Barnes,FG_MISS,None,10:06,3,Mavericks,Cavaliers,60 - 59,0, ,2,Jumper
+20,Maximilian Kleber,OFFENSIVE_REBOUND,None,10:01,3,Mavericks,Cavaliers,60 - 59,0,N/A,N/A,N/A
+21,Maximilian Kleber,TURNOVER,David Nwaba,9:59,3,Mavericks,Cavaliers,60 - 59,0,N/A,N/A,N/A
+22,Maximilian Kleber,FOUL_ON_FLOOR,None,9:59,3,Mavericks,Cavaliers,60 - 59,0,N/A,N/A,N/A
+23,Luka Doncic,FOUL_ON_FLOOR,None,9:45,3,Mavericks,Cavaliers,60 - 59,0,N/A,N/A,N/A
+24,David Nwaba,FT,None,9:45,3,Cavaliers,Mavericks,60 - 60,1,N/A,1,N/A
+25,David Nwaba,FT,None,9:45,3,Cavaliers,Mavericks,60 - 61,1,N/A,1,N/A
+26,Maximilian Kleber,FG_ASSISTED,Luka Doncic,9:33,3,Mavericks,Cavaliers,62 - 61,0,0,2,Dunk
+27,Collin Sexton,FG_MISS,None,9:20,3,Cavaliers,Mavericks,62 - 61,1,0,2,Layup
+28,Collin Sexton,OFFENSIVE_REBOUND,None,9:17,3,Cavaliers,Mavericks,62 - 61,1,N/A,N/A,N/A
+29,Collin Sexton,FG_MISS,None,9:16,3,Cavaliers,Mavericks,62 - 61,1, ,2,Jumper
+30,Ante Zizic,OFFENSIVE_REBOUND,None,9:13,3,Cavaliers,Mavericks,62 - 61,1,N/A,N/A,N/A
+31,Ante Zizic,FG_MISS,None,9:13,3,Cavaliers,Mavericks,62 - 61,1, ,2,Jumper
+32,Luka Doncic,DEFENSIVE_REBOUND,None,9:13,3,Mavericks,Cavaliers,62 - 61,0,N/A,N/A,N/A
+33,David Nwaba,FOUL_ON_FLOOR,None,9:13,3,Cavaliers,Mavericks,62 - 61,1,N/A,N/A,N/A
+34,Luka Doncic,FG_UNASSISTED,None,9:04,3,Mavericks,Cavaliers,64 - 61,0,0,2,Layup
+35,Team,Unknown,None,9:03,3,Cavaliers,Mavericks,64 - 61,1,N/A,N/A,N/A
+36,Jalen Brunson,FOUL_ON_FLOOR,None,8:54,3,Mavericks,Cavaliers,64 - 61,0,N/A,N/A,N/A
+37,Ante Zizic,FOUL_ON_FLOOR,None,8:44,3,Cavaliers,Mavericks,64 - 61,1,N/A,N/A,N/A
+38,Ante Zizic,TURNOVER,None,8:44,3,Cavaliers,Mavericks,64 - 61,1,N/A,N/A,N/A
+39,Maximilian Kleber,FG_MISS,None,8:34,3,Mavericks,Cavaliers,64 - 61,0,0,2,Layup
+40,David Nwaba,DEFENSIVE_REBOUND,None,8:31,3,Cavaliers,Mavericks,64 - 61,1,N/A,N/A,N/A
+41,Dorian Finney-Smith,FOUL_ON_FLOOR,None,8:30,3,Mavericks,Cavaliers,64 - 61,0,N/A,N/A,N/A
+42,Collin Sexton,FT,None,8:30,3,Cavaliers,Mavericks,64 - 62,1,N/A,1,N/A
+43,Collin Sexton,FT,None,8:30,3,Cavaliers,Mavericks,64 - 63,1,N/A,1,N/A
+44,Jalen Brunson,FG_MISS,None,8:20,3,Mavericks,Cavaliers,64 - 63,0,22,2,Jumper
+45,Alec Burks,DEFENSIVE_REBOUND,None,8:16,3,Cavaliers,Mavericks,64 - 63,1,N/A,N/A,N/A
+46,Luka Doncic,FOUL_ON_FLOOR,None,8:09,3,Mavericks,Cavaliers,64 - 63,0,N/A,N/A,N/A
+47,David Nwaba,FT_MISS,None,8:09,3,Cavaliers,Mavericks,64 - 63,1,N/A,1,N/A
+48,Team,OFFENSIVE_REBOUND,None,8:09,3,Cavaliers,Mavericks,64 - 63,1,N/A,N/A,N/A
+49,David Nwaba,FT_MISS,None,8:09,3,Cavaliers,Mavericks,64 - 63,1,N/A,1,N/A
+50,Maximilian Kleber,DEFENSIVE_REBOUND,None,8:06,3,Mavericks,Cavaliers,64 - 63,0,N/A,N/A,N/A
+51,David Nwaba,FOUL_ON_FLOOR,None,8:01,3,Cavaliers,Mavericks,64 - 63,1,N/A,N/A,N/A
+52,Jalen Brunson,FG_MISS,None,7:50,3,Mavericks,Cavaliers,64 - 63,0,31,3,Jumper
+53,Ante Zizic,DEFENSIVE_REBOUND,None,7:47,3,Cavaliers,Mavericks,64 - 63,1,N/A,N/A,N/A
+54,Rodney Hood,FG_MISS,None,7:36,3,Cavaliers,Mavericks,64 - 63,1,15,2,Jumper
+55,Dorian Finney-Smith,DEFENSIVE_REBOUND,None,7:33,3,Mavericks,Cavaliers,64 - 63,0,N/A,N/A,N/A
+56,Jalen Brunson,FG_UNASSISTED,None,7:29,3,Mavericks,Cavaliers,66 - 63,0,0,2,Layup
+57,Ante Zizic,FOUL_ON_FLOOR,None,7:29,3,Cavaliers,Mavericks,66 - 63,1,N/A,N/A,N/A
+58,Jalen Brunson,FT,None,7:29,3,Mavericks,Cavaliers,67 - 63,0,N/A,1,N/A
+59,Alec Burks,FG_ASSISTED,David Nwaba,7:12,3,Cavaliers,Mavericks,67 - 66,1,26,3,Jumper
+60,David Nwaba,FOUL_ON_FLOOR,None,7:00,3,Cavaliers,Mavericks,67 - 66,1,N/A,N/A,N/A
+61,Luka Doncic,FT,None,7:00,3,Mavericks,Cavaliers,68 - 66,0,N/A,1,N/A
+62,Deng Adel,SUBSTITUTION,Nwaba David,7:00,3,Cavaliers,Mavericks,68 - 66,1,N/A,N/A,N/A
+63,Luka Doncic,FT,None,7:00,3,Mavericks,Cavaliers,69 - 66,0,N/A,1,N/A
+64,Ante Zizic,FG_ASSISTED,Collin Sexton,6:52,3,Cavaliers,Mavericks,69 - 68,1,0,2,Layup
+65,Dorian Finney-Smith,FG_MISS,None,6:39,3,Mavericks,Cavaliers,69 - 68,0,24,3,Jumper
+66,Rodney Hood,DEFENSIVE_REBOUND,None,6:39,3,Cavaliers,Mavericks,69 - 68,1,N/A,N/A,N/A
+67,Alec Burks,FG_MISS,None,6:23,3,Cavaliers,Mavericks,69 - 68,1,26,3,Jumper
+68,Jalen Brunson,DEFENSIVE_REBOUND,None,6:21,3,Mavericks,Cavaliers,69 - 68,0,N/A,N/A,N/A
+69,Harrison Barnes,FG_MISS,None,6:10,3,Mavericks,Cavaliers,69 - 68,0,15,2,Jumper
+70,Deng Adel,DEFENSIVE_REBOUND,None,6:06,3,Cavaliers,Mavericks,69 - 68,1,N/A,N/A,N/A
+71,Collin Sexton,TURNOVER,None,6:03,3,Cavaliers,Mavericks,69 - 68,1,N/A,N/A,N/A
+72,Collin Sexton,TURNOVER,None,6:03,3,Cavaliers,Mavericks,69 - 68,1,N/A,N/A,N/A
+73,Jordan Clarkson,SUBSTITUTION,Hood Rodney,6:03,3,Cavaliers,Mavericks,69 - 68,1,N/A,N/A,N/A
+74,Ryan Broekhoff,SUBSTITUTION,Finney-Smith Dorian,6:03,3,Mavericks,Cavaliers,69 - 68,0,N/A,N/A,N/A
+75,Devin Harris,SUBSTITUTION,Doncic Luka,6:03,3,Mavericks,Cavaliers,69 - 68,0,N/A,N/A,N/A
+76,Devin Harris,FG_ASSISTED,Jalen Brunson,5:48,3,Mavericks,Cavaliers,71 - 68,0,5,2,Jumper
+77,Collin Sexton,FG_ASSISTED,Alec Burks,5:36,3,Cavaliers,Mavericks,71 - 71,1,26,3,Jumper
+78,Harrison Barnes,FG_ASSISTED,Maximilian Kleber,5:23,3,Mavericks,Cavaliers,73 - 71,0,0,2,Dunk
+79,Maximilian Kleber,FOUL_ON_FLOOR,None,5:09,3,Mavericks,Cavaliers,73 - 71,0,N/A,N/A,N/A
+80,Deng Adel,FT,None,5:09,3,Cavaliers,Mavericks,73 - 72,1,N/A,1,N/A
+81,Larry Nance,SUBSTITUTION,Zizic Ante,5:09,3,Cavaliers,Mavericks,73 - 72,1,N/A,N/A,N/A
+82,Dwight Powell,SUBSTITUTION,Kleber Maximilian,5:09,3,Mavericks,Cavaliers,73 - 72,0,N/A,N/A,N/A
+83,Deng Adel,FT,None,5:09,3,Cavaliers,Mavericks,73 - 73,1,N/A,1,N/A
+84,Devin Harris,FG_ASSISTED,Harrison Barnes,4:50,3,Mavericks,Cavaliers,76 - 73,0,23,3,Jumper
+85,Collin Sexton,FG_MISS,None,4:29,3,Cavaliers,Mavericks,76 - 73,1,4,2,Jumper
+86,Jalen Brunson,DEFENSIVE_REBOUND,None,4:27,3,Mavericks,Cavaliers,76 - 73,0,N/A,N/A,N/A
+87,Jalen Brunson,FG_UNASSISTED,None,4:19,3,Mavericks,Cavaliers,78 - 73,0,8,2,Jumper
+88,Larry Nance,FG_UNASSISTED,None,3:53,3,Cavaliers,Mavericks,78 - 75,1,18,2,Jumper
+89,Jalen Brunson,FG_UNASSISTED,None,3:37,3,Mavericks,Cavaliers,80 - 75,0,0,2,Layup
+90,Jordan Clarkson,FG_MISS,None,3:15,3,Cavaliers,Mavericks,80 - 75,1,29,3,Jumper
+91,Dwight Powell,DEFENSIVE_REBOUND,None,3:11,3,Mavericks,Cavaliers,80 - 75,0,N/A,N/A,N/A
+92,Alec Burks,FOUL_ON_FLOOR,None,3:08,3,Cavaliers,Mavericks,80 - 75,1,N/A,N/A,N/A
+93,Devin Harris,FT,None,3:08,3,Mavericks,Cavaliers,81 - 75,0,N/A,1,N/A
+94,Matthew Dellavedova,SUBSTITUTION,Sexton Collin,3:08,3,Cavaliers,Mavericks,81 - 75,1,N/A,N/A,N/A
+95,Dirk Nowitzki,SUBSTITUTION,Brunson Jalen,3:08,3,Mavericks,Cavaliers,81 - 75,0,N/A,N/A,N/A
+96,Luka Doncic,SUBSTITUTION,Barnes Harrison,3:08,3,Mavericks,Cavaliers,81 - 75,0,N/A,N/A,N/A
+97,Devin Harris,FT,None,3:08,3,Mavericks,Cavaliers,82 - 75,0,N/A,1,N/A
+98,Luka Doncic,Unknown,None,3:02,3,Mavericks,Cavaliers,82 - 75,0,N/A,N/A,N/A
+99,Matthew Dellavedova,TURNOVER,None,2:56,3,Cavaliers,Mavericks,82 - 75,1,N/A,N/A,N/A
+100,Team,Unknown,None,2:56,3,Mavericks,Cavaliers,82 - 75,0,N/A,N/A,N/A
+101,Rodney Hood,SUBSTITUTION,Burks Alec,2:56,3,Cavaliers,Mavericks,82 - 75,1,N/A,N/A,N/A
+102,Luka Doncic,FG_UNASSISTED,None,2:42,3,Mavericks,Cavaliers,84 - 75,0,7,2,Jumper
+103,Larry Nance,Unknown,None,2:42,3,Cavaliers,Mavericks,84 - 75,1,N/A,N/A,N/A
+104,Jordan Clarkson,FG_MISS,None,2:30,3,Cavaliers,Mavericks,84 - 75,1,26,3,Jumper
+105,Devin Harris,DEFENSIVE_REBOUND,None,2:27,3,Mavericks,Cavaliers,84 - 75,0,N/A,N/A,N/A
+106,Luka Doncic,FG_MISS,None,2:05,3,Mavericks,Cavaliers,84 - 75,0,27,3,Jumper
+107,Matthew Dellavedova,DEFENSIVE_REBOUND,None,2:02,3,Cavaliers,Mavericks,84 - 75,1,N/A,N/A,N/A
+108,Devin Harris,FOUL_ON_FLOOR,None,1:54,3,Mavericks,Cavaliers,84 - 75,0,N/A,N/A,N/A
+109,Larry Nance,FT,None,1:54,3,Cavaliers,Mavericks,84 - 76,1,N/A,1,N/A
+110,Larry Nance,FT_MISS,None,1:54,3,Cavaliers,Mavericks,84 - 76,1,N/A,1,N/A
+111,Dirk Nowitzki,DEFENSIVE_REBOUND,None,1:52,3,Mavericks,Cavaliers,84 - 76,0,N/A,N/A,N/A
+112,Deng Adel,FOUL_ON_FLOOR,None,1:36,3,Cavaliers,Mavericks,84 - 76,1,N/A,N/A,N/A
+113,Dwight Powell,FT,None,1:36,3,Mavericks,Cavaliers,85 - 76,0,N/A,1,N/A
+114,Dwight Powell,FT,None,1:36,3,Mavericks,Cavaliers,86 - 76,0,N/A,1,N/A
+115,Luka Doncic,FOUL_ON_FLOOR,None,1:24,3,Mavericks,Cavaliers,86 - 76,0,N/A,N/A,N/A
+116,Matthew Dellavedova,FT,None,1:24,3,Cavaliers,Mavericks,86 - 77,1,N/A,1,N/A
+117,Matthew Dellavedova,FT,None,1:24,3,Cavaliers,Mavericks,86 - 78,1,N/A,1,N/A
+118,Devin Harris,TURNOVER,None,1:02,3,Mavericks,Cavaliers,86 - 78,0,N/A,N/A,N/A
+119,Ryan Broekhoff,FOUL_ON_FLOOR,None,48.3,3,Mavericks,Cavaliers,86 - 78,0,N/A,N/A,N/A
+120,Jordan Clarkson,FT,None,48.3,3,Cavaliers,Mavericks,86 - 79,1,N/A,1,N/A
+121,Jordan Clarkson,FT,None,48.3,3,Cavaliers,Mavericks,86 - 80,1,N/A,1,N/A
+122,Luka Doncic,FG_MISS,None,27.8,3,Mavericks,Cavaliers,86 - 80,0,0,2,Layup
+123,Larry Nance,DEFENSIVE_REBOUND,None,25.3,3,Cavaliers,Mavericks,86 - 80,1,N/A,N/A,N/A
+124,Jordan Clarkson,FG_MISS,None,7.2,3,Cavaliers,Mavericks,86 - 80,1, ,2,Jumper
+125,Dwight Powell,DEFENSIVE_REBOUND,None,5.2,3,Mavericks,Cavaliers,86 - 80,0,N/A,N/A,N/A
+126,Luka Doncic,FG_MISS,None,1.2,3,Mavericks,Cavaliers,86 - 80,0,34,3,Jumper
+127,Team,OFFENSIVE_REBOUND,None,1.2,3,Mavericks,Cavaliers,86 - 80,0,N/A,N/A,N/A
+128,End of,Unknown,None,0.0,3,Cavaliers,Mavericks,86 - 80,1,N/A,N/A,N/A
+0,Ryan Broekhoff,FG_MISS,None,11:46,4,Mavericks,Cavaliers,86 - 80,0,26,3,Jumper
+1,Rodney Hood,DEFENSIVE_REBOUND,None,11:43,4,Cavaliers,Mavericks,86 - 80,1,N/A,N/A,N/A
+2,Rodney Hood,FG_MISS,None,11:27,4,Cavaliers,Mavericks,86 - 80,1,21,2,Jumper
+3,Luka Doncic,DEFENSIVE_REBOUND,None,11:25,4,Mavericks,Cavaliers,86 - 80,0,N/A,N/A,N/A
+4,Luka Doncic,FG_MISS,None,11:15,4,Mavericks,Cavaliers,86 - 80,0,0,2,Layup
+5,Larry Nance,DEFENSIVE_REBOUND,None,11:11,4,Cavaliers,Mavericks,86 - 80,1,N/A,N/A,N/A
+6,Deng Adel,FG_MISS,None,10:55,4,Cavaliers,Mavericks,86 - 80,1,25,3,Jumper
+7,Dirk Nowitzki,DEFENSIVE_REBOUND,None,10:52,4,Mavericks,Cavaliers,86 - 80,0,N/A,N/A,N/A
+8,Dwight Powell,TURNOVER,None,10:43,4,Mavericks,Cavaliers,86 - 80,0,N/A,N/A,N/A
+9,Matthew Dellavedova,FG_MISS,None,10:37,4,Cavaliers,Mavericks,86 - 80,1,27,3,Jumper
+10,Dirk Nowitzki,DEFENSIVE_REBOUND,None,10:34,4,Mavericks,Cavaliers,86 - 80,0,N/A,N/A,N/A
+11,Dwight Powell's,FG_MISS,Larry Nance,10:15,4,Cavaliers,Mavericks,86 - 80,0,0,2,Layup
+12,Larry Nance,DEFENSIVE_REBOUND,None,10:12,4,Cavaliers,Mavericks,86 - 80,1,N/A,N/A,N/A
+13,Devin Harris,FOUL_ON_FLOOR,None,10:12,4,Mavericks,Cavaliers,86 - 80,0,N/A,N/A,N/A
+14,Deng Adel,FG_MISS,None,10:00,4,Cavaliers,Mavericks,86 - 80,1,27,3,Jumper
+15,Dirk Nowitzki,DEFENSIVE_REBOUND,None,9:57,4,Mavericks,Cavaliers,86 - 80,0,N/A,N/A,N/A
+16,Larry Nance,FOUL_ON_FLOOR,None,9:49,4,Cavaliers,Mavericks,86 - 80,1,N/A,N/A,N/A
+17,Luka Doncic,FG_MISS,None,9:33,4,Mavericks,Cavaliers,86 - 80,0,14,2,Jumper
+18,Jordan Clarkson,DEFENSIVE_REBOUND,None,9:29,4,Cavaliers,Mavericks,86 - 80,1,N/A,N/A,N/A
+19,Matthew Dellavedova,FG_MISS,None,9:14,4,Cavaliers,Mavericks,86 - 80,1, ,2,Jumper
+20,Luka Doncic,DEFENSIVE_REBOUND,None,9:12,4,Mavericks,Cavaliers,86 - 80,0,N/A,N/A,N/A
+21,Alec Burks,SUBSTITUTION,Adel Deng,9:05,4,Cavaliers,Mavericks,86 - 80,1,N/A,N/A,N/A
+22,Jalen Brunson,SUBSTITUTION,Doncic Luka,9:05,4,Mavericks,Cavaliers,86 - 80,0,N/A,N/A,N/A
+23,Harrison Barnes,SUBSTITUTION,Nowitzki Dirk,9:05,4,Mavericks,Cavaliers,86 - 80,0,N/A,N/A,N/A
+24,Jalen Brunson,FG_UNASSISTED,None,8:56,4,Mavericks,Cavaliers,89 - 80,0,27,3,Jumper
+25,Larry Nance,FOUL_ON_FLOOR,None,8:56,4,Cavaliers,Mavericks,89 - 80,1,N/A,N/A,N/A
+26,Jalen Brunson,FT,None,8:56,4,Mavericks,Cavaliers,90 - 80,0,N/A,1,N/A
+27,Team,Unknown,None,8:56,4,Cavaliers,Mavericks,90 - 80,1,N/A,N/A,N/A
+28,Jordan Clarkson,FG_MISS,None,8:43,4,Cavaliers,Mavericks,90 - 80,1,25,3,Jumper
+29,Larry Nance,OFFENSIVE_REBOUND,None,8:38,4,Cavaliers,Mavericks,90 - 80,1,N/A,N/A,N/A
+30,Larry Nance,FG_MISS,Dwight Powell,8:36,4,Mavericks,Cavaliers,90 - 80,1, ,2,Jumper
+31,Jalen Brunson,DEFENSIVE_REBOUND,None,8:31,4,Mavericks,Cavaliers,90 - 80,0,N/A,N/A,N/A
+32,Dwight Powell,TURNOVER,Larry Nance,8:28,4,Mavericks,Cavaliers,90 - 80,0,N/A,N/A,N/A
+33,Jordan Clarkson,FG_UNASSISTED,None,8:26,4,Cavaliers,Mavericks,90 - 82,1, ,2,Jumper
+34,Dwight Powell,FOUL_ON_FLOOR,None,8:26,4,Mavericks,Cavaliers,90 - 82,0,N/A,N/A,N/A
+35,Jordan Clarkson,FT,None,8:26,4,Cavaliers,Mavericks,90 - 83,1,N/A,1,N/A
+36,Harrison Barnes,FG_ASSISTED,Devin Harris,8:09,4,Mavericks,Cavaliers,93 - 83,0,26,3,Jumper
+37,Alec Burks,FG_MISS,None,7:43,4,Cavaliers,Mavericks,93 - 83,1,26,3,Jumper
+38,Larry Nance,OFFENSIVE_REBOUND,None,7:41,4,Cavaliers,Mavericks,93 - 83,1,N/A,N/A,N/A
+39,Larry Nance,FOUL_ON_FLOOR,None,7:41,4,Cavaliers,Mavericks,93 - 83,1,N/A,N/A,N/A
+40,Larry Nance,TURNOVER,None,7:41,4,Cavaliers,Mavericks,93 - 83,1,N/A,N/A,N/A
+41,Dwight Powell,FG_ASSISTED,Harrison Barnes,7:26,4,Mavericks,Cavaliers,95 - 83,0,0,2,Layup
+42,Jordan Clarkson,FG_UNASSISTED,None,7:11,4,Cavaliers,Mavericks,95 - 85,1,9,2,Jumper
+43,Team,Unknown,None,7:09,4,Cavaliers,Mavericks,95 - 85,1,N/A,N/A,N/A
+44,Harrison Barnes,FG_ASSISTED,Jalen Brunson,6:53,4,Mavericks,Cavaliers,97 - 85,0,0,2,Layup
+45,Jordan Clarkson,FG_ASSISTED,Matthew Dellavedova,6:41,4,Cavaliers,Mavericks,97 - 87,1,2,2,Jumper
+46,Dwight Powell,Unknown,None,6:41,4,Mavericks,Cavaliers,97 - 87,0,N/A,N/A,N/A
+47,Harrison Barnes,FG_ASSISTED,Ryan Broekhoff,6:27,4,Mavericks,Cavaliers,100 - 87,0,27,3,Jumper
+48,Team,Unknown,None,6:26,4,Cavaliers,Mavericks,100 - 87,1,N/A,N/A,N/A
+49,Collin Sexton,SUBSTITUTION,Hood Rodney,6:26,4,Cavaliers,Mavericks,100 - 87,1,N/A,N/A,N/A
+50,Deng Adel,SUBSTITUTION,Dellavedova Matthew,6:26,4,Cavaliers,Mavericks,100 - 87,1,N/A,N/A,N/A
+51,Ryan Broekhoff,FOUL_ON_FLOOR,None,6:09,4,Mavericks,Cavaliers,100 - 87,0,N/A,N/A,N/A
+52,Deng Adel,FG_UNASSISTED,None,5:55,4,Cavaliers,Mavericks,100 - 89,1,14,2,Jumper
+53,Deng Adel,FOUL_ON_FLOOR,None,5:41,4,Cavaliers,Mavericks,100 - 89,1,N/A,N/A,N/A
+54,Jalen Brunson,FT_MISS,None,5:41,4,Mavericks,Cavaliers,100 - 89,0,N/A,1,N/A
+55,Team,OFFENSIVE_REBOUND,None,5:41,4,Mavericks,Cavaliers,100 - 89,0,N/A,N/A,N/A
+56,Jalen Brunson,FT,None,5:41,4,Mavericks,Cavaliers,101 - 89,0,N/A,1,N/A
+57,Devin Harris,FOUL_ON_FLOOR,None,5:24,4,Mavericks,Cavaliers,101 - 89,0,N/A,N/A,N/A
+58,Alec Burks,FT,None,5:24,4,Cavaliers,Mavericks,101 - 90,1,N/A,1,N/A
+59,Dorian Finney-Smith,SUBSTITUTION,Harris Devin,5:24,4,Mavericks,Cavaliers,101 - 90,0,N/A,N/A,N/A
+60,Alec Burks,FT,None,5:24,4,Cavaliers,Mavericks,101 - 91,1,N/A,1,N/A
+61,Harrison Barnes,FG_UNASSISTED,None,5:07,4,Mavericks,Cavaliers,103 - 91,0,8,2,Jumper
+62,Collin Sexton,FG_MISS,None,4:46,4,Cavaliers,Mavericks,103 - 91,1,19,2,Jumper
+63,Harrison Barnes,DEFENSIVE_REBOUND,None,4:44,4,Mavericks,Cavaliers,103 - 91,0,N/A,N/A,N/A
+64,Harrison Barnes,FG_ASSISTED,Jalen Brunson,4:34,4,Mavericks,Cavaliers,106 - 91,0,25,3,Jumper
+65,Team,Unknown,None,4:32,4,Cavaliers,Mavericks,106 - 91,1,N/A,N/A,N/A
+66,Alec Burks,FG_UNASSISTED,None,4:08,4,Cavaliers,Mavericks,106 - 93,1,1,2,Jumper
+67,Harrison Barnes,TURNOVER,None,3:53,4,Mavericks,Cavaliers,106 - 93,0,N/A,N/A,N/A
+68,Ryan Broekhoff,FOUL_ON_FLOOR,None,3:39,4,Mavericks,Cavaliers,106 - 93,0,N/A,N/A,N/A
+69,Larry Nance,FT,None,3:39,4,Cavaliers,Mavericks,106 - 94,1,N/A,1,N/A
+70,Team,Unknown,None,3:39,4,Mavericks,Cavaliers,106 - 94,0,N/A,N/A,N/A
+71,Matthew Dellavedova,SUBSTITUTION,Adel Deng,3:39,4,Cavaliers,Mavericks,106 - 94,1,N/A,N/A,N/A
+72,Luka Doncic,SUBSTITUTION,Powell Dwight,3:39,4,Mavericks,Cavaliers,106 - 94,0,N/A,N/A,N/A
+73,Maximilian Kleber,SUBSTITUTION,Broekhoff Ryan,3:39,4,Mavericks,Cavaliers,106 - 94,0,N/A,N/A,N/A
+74,Larry Nance,FT_MISS,None,3:39,4,Cavaliers,Mavericks,106 - 94,1,N/A,1,N/A
+75,Harrison Barnes,DEFENSIVE_REBOUND,None,3:36,4,Mavericks,Cavaliers,106 - 94,0,N/A,N/A,N/A
+76,Harrison Barnes,FG_MISS,None,3:15,4,Mavericks,Cavaliers,106 - 94,0,21,2,Jumper
+77,Collin Sexton,DEFENSIVE_REBOUND,None,3:11,4,Cavaliers,Mavericks,106 - 94,1,N/A,N/A,N/A
+78,Alec Burks,FG_MISS,None,2:57,4,Cavaliers,Mavericks,106 - 94,1,24,2,Jumper
+79,Larry Nance,OFFENSIVE_REBOUND,None,2:55,4,Cavaliers,Mavericks,106 - 94,1,N/A,N/A,N/A
+80,Matthew Dellavedova,FG_MISS,None,2:53,4,Cavaliers,Mavericks,106 - 94,1,26,3,Jumper
+81,Dorian Finney-Smith,DEFENSIVE_REBOUND,None,2:53,4,Mavericks,Cavaliers,106 - 94,0,N/A,N/A,N/A
+82,Dorian Finney-Smith,FG_ASSISTED,Maximilian Kleber,2:28,4,Mavericks,Cavaliers,108 - 94,0,0,2,Dunk
+83,Jordan Clarkson,FG_MISS,None,2:12,4,Cavaliers,Mavericks,108 - 94,1,29,3,Jumper
+84,Dorian Finney-Smith,DEFENSIVE_REBOUND,None,2:10,4,Mavericks,Cavaliers,108 - 94,0,N/A,N/A,N/A
+85,Luka Doncic,FG_MISS,None,1:49,4,Mavericks,Cavaliers,108 - 94,0,32,2,Jumper
+86,Dorian Finney-Smith,OFFENSIVE_REBOUND,None,1:48,4,Mavericks,Cavaliers,108 - 94,0,N/A,N/A,N/A
+87,Dorian Finney-Smith,FG_UNASSISTED,None,1:48,4,Mavericks,Cavaliers,110 - 94,0,0,2,Dunk
+88,Team,Unknown,None,1:48,4,Cavaliers,Mavericks,110 - 94,1,N/A,N/A,N/A
+89,Ante Zizic,SUBSTITUTION,Clarkson Jordan,1:48,4,Cavaliers,Mavericks,110 - 94,1,N/A,N/A,N/A
+90,Kobi Simmons,SUBSTITUTION,Nance Larry,1:48,4,Cavaliers,Mavericks,110 - 94,1,N/A,N/A,N/A
+91,Jaron Blossomgame,SUBSTITUTION,Dellavedova Matthew,1:48,4,Cavaliers,Mavericks,110 - 94,1,N/A,N/A,N/A
+92,Jalen Brunson,FOUL_ON_FLOOR,None,1:42,4,Mavericks,Cavaliers,110 - 94,0,N/A,N/A,N/A
+93,Collin Sexton,FT,None,1:42,4,Cavaliers,Mavericks,110 - 95,1,N/A,1,N/A
+94,Deng Adel,SUBSTITUTION,Burks Alec,1:42,4,Cavaliers,Mavericks,110 - 95,1,N/A,N/A,N/A
+95,Collin Sexton,FT,None,1:42,4,Cavaliers,Mavericks,110 - 96,1,N/A,1,N/A
+96,Deng Adel,FOUL_ON_FLOOR,None,1:29,4,Cavaliers,Mavericks,110 - 96,1,N/A,N/A,N/A
+97,Luka Doncic,FT_MISS,None,1:29,4,Mavericks,Cavaliers,110 - 96,0,N/A,1,N/A
+98,Team,OFFENSIVE_REBOUND,None,1:29,4,Mavericks,Cavaliers,110 - 96,0,N/A,N/A,N/A
+99,Daryl Macon,SUBSTITUTION,Brunson Jalen,1:29,4,Mavericks,Cavaliers,110 - 96,0,N/A,N/A,N/A
+100,Luka Doncic,FT,None,1:29,4,Mavericks,Cavaliers,111 - 96,0,N/A,1,N/A
+101,Collin Sexton,FG_MISS,None,1:13,4,Cavaliers,Mavericks,111 - 96,1,14,2,Jumper
+102,Luka Doncic,DEFENSIVE_REBOUND,None,1:10,4,Mavericks,Cavaliers,111 - 96,0,N/A,N/A,N/A
+103,Harrison Barnes,FG_MISS,None,56.6,4,Mavericks,Cavaliers,111 - 96,0,27,2,Jumper
+104,Jaron Blossomgame,DEFENSIVE_REBOUND,None,53.8,4,Cavaliers,Mavericks,111 - 96,1,N/A,N/A,N/A
+105,Collin Sexton,FG_MISS,None,44.1,4,Cavaliers,Mavericks,111 - 96,1,0,2,Layup
+106,Team,OFFENSIVE_REBOUND,None,43.9,4,Cavaliers,Mavericks,111 - 96,1,N/A,N/A,N/A
+107,Ryan Broekhoff,SUBSTITUTION,Doncic Luka,43.9,4,Mavericks,Cavaliers,111 - 96,0,N/A,N/A,N/A
+108,Ante Zizic,FG_UNASSISTED,None,29.6,4,Cavaliers,Mavericks,111 - 98,1,13,2,Jumper
+109,Daryl Macon,TURNOVER,Ante Zizic,5.1,4,Mavericks,Cavaliers,111 - 98,0,N/A,N/A,N/A
+110,Jaron Blossomgame,FG_MISS,None,0.0,4,Cavaliers,Mavericks,111 - 98,1, ,2,Jumper
+111,Team,OFFENSIVE_REBOUND,None,0.0,4,Cavaliers,Mavericks,111 - 98,1,N/A,N/A,N/A
+112,End of,Unknown,None,0.0,4,Cavaliers,Mavericks,111 - 98,1,N/A,N/A,N/A
+113,End of,Unknown,None,0.0,4,Cavaliers,Mavericks,111 - 98,1,N/A,N/A,N/A

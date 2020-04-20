@@ -1,0 +1,508 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Jarrett Allen,JUMP_BALL,None,12:00,1,Pelicans,Nets,0 - 0,1,N/A,N/A,N/A
+1,Jrue Holiday,FG_UNASSISTED,None,11:42,1,Pelicans,Nets,0 - 3,1,25,3,Jumper
+2,Jared Dudley,FG_MISS,None,11:23,1,Nets,Pelicans,0 - 3,0,25,3,Jumper
+3,Joe Harris,OFFENSIVE_REBOUND,None,11:16,1,Nets,Pelicans,0 - 3,0,N/A,N/A,N/A
+4,Joe Harris,TURNOVER,Anthony Davis,11:14,1,Nets,Pelicans,0 - 3,0,N/A,N/A,N/A
+5,Anthony Davis,FG_ASSISTED,Jrue Holiday,11:07,1,Pelicans,Nets,0 - 5,1,0,2,Layup
+6,Caris LeVert,FOUL_ON_FLOOR,None,11:07,1,Nets,Pelicans,0 - 5,0,N/A,N/A,N/A
+7,Anthony Davis,FT,None,11:07,1,Pelicans,Nets,0 - 6,1,N/A,1,N/A
+8,Joe Harris,FG_MISS,None,10:55,1,Nets,Pelicans,0 - 6,0,-,2,Jumper
+9,Jarrett Allen,OFFENSIVE_REBOUND,None,10:53,1,Nets,Pelicans,0 - 6,0,N/A,N/A,N/A
+10,D'Angelo Russell,TURNOVER,Jrue Holiday,10:51,1,Nets,Pelicans,0 - 6,0,N/A,N/A,N/A
+11,Jrue Holiday,FG_ASSISTED,Nikola Mirotic,10:43,1,Pelicans,Nets,0 - 8,1,0,2,Layup
+12,Team,Unknown,None,10:43,1,Nets,Pelicans,0 - 8,0,N/A,N/A,N/A
+13,Joe Harris,FG_ASSISTED,Jarrett Allen,10:29,1,Nets,Pelicans,2 - 8,0,0,2,Layup
+14,Anthony Davis,FOUL_ON_FLOOR,None,10:16,1,Pelicans,Nets,2 - 8,1,N/A,N/A,N/A
+15,Anthony Davis,TURNOVER,None,10:16,1,Pelicans,Nets,2 - 8,1,N/A,N/A,N/A
+16,Joe Harris,TURNOVER,None,10:00,1,Nets,Pelicans,2 - 8,0,N/A,N/A,N/A
+17,Elfrid Payton's,FG_MISS,Jarrett Allen,9:43,1,Nets,Pelicans,2 - 8,1,0,2,Layup
+18,Joe Harris,DEFENSIVE_REBOUND,None,9:39,1,Nets,Pelicans,2 - 8,0,N/A,N/A,N/A
+19,Jarrett Allen,FG_ASSISTED,D'Angelo Russell,9:35,1,Nets,Pelicans,4 - 8,0,0,2,Dunk
+20,Jrue Holiday,FG_MISS,None,9:26,1,Pelicans,Nets,4 - 8,1,-,2,Jumper
+21,Elfrid Payton,OFFENSIVE_REBOUND,None,9:24,1,Pelicans,Nets,4 - 8,1,N/A,N/A,N/A
+22,Elfrid Payton,FG_UNASSISTED,None,9:21,1,Pelicans,Nets,4 - 10,1,0,2,Layup
+23,D'Angelo Russell,FG_UNASSISTED,None,9:03,1,Nets,Pelicans,6 - 10,0,18,2,Jumper
+24,Elfrid Payton,FG_MISS,Jarrett Allen,8:47,1,Nets,Pelicans,6 - 10,1,0,2,Layup
+25,Caris LeVert,DEFENSIVE_REBOUND,None,8:43,1,Nets,Pelicans,6 - 10,0,N/A,N/A,N/A
+26,Caris LeVert,FG_MISS,None,8:36,1,Nets,Pelicans,6 - 10,0,0,2,Layup
+27,Caris LeVert,OFFENSIVE_REBOUND,None,8:34,1,Nets,Pelicans,6 - 10,0,N/A,N/A,N/A
+28,Jarrett Allen,FG_MISS,None,8:31,1,Nets,Pelicans,6 - 10,0,2,2,Jumper
+29,Team,OFFENSIVE_REBOUND,None,8:30,1,Nets,Pelicans,6 - 10,0,N/A,N/A,N/A
+30,D'Angelo Russell,FG_MISS,None,8:18,1,Nets,Pelicans,6 - 10,0,21,2,Jumper
+31,Anthony Davis,DEFENSIVE_REBOUND,None,8:15,1,Pelicans,Nets,6 - 10,1,N/A,N/A,N/A
+32,Caris LeVert,FOUL_ON_FLOOR,None,8:11,1,Nets,Pelicans,6 - 10,0,N/A,N/A,N/A
+33,Anthony Davis,FT,None,8:11,1,Pelicans,Nets,6 - 11,1,N/A,1,N/A
+34,Anthony Davis,FT_MISS,None,8:11,1,Pelicans,Nets,6 - 11,1,N/A,1,N/A
+35,Nikola Mirotic,OFFENSIVE_REBOUND,None,8:07,1,Pelicans,Nets,6 - 11,1,N/A,N/A,N/A
+36,Anthony Davis,FG_MISS,None,7:56,1,Pelicans,Nets,6 - 11,1,9,2,Jumper
+37,Jared Dudley,DEFENSIVE_REBOUND,None,7:53,1,Nets,Pelicans,6 - 11,0,N/A,N/A,N/A
+38,Joe Harris,FG_ASSISTED,D'Angelo Russell,7:39,1,Nets,Pelicans,9 - 11,0,23,3,Jumper
+39,Jrue Holiday,FG_UNASSISTED,None,7:28,1,Pelicans,Nets,9 - 13,1,0,2,Layup
+40,D'Angelo Russell,FG_ASSISTED,Joe Harris,7:17,1,Nets,Pelicans,12 - 13,0,27,3,Jumper
+41,Nikola Mirotic,TURNOVER,None,7:05,1,Pelicans,Nets,12 - 13,1,N/A,N/A,N/A
+42,Nikola Mirotic,TURNOVER,None,7:05,1,Pelicans,Nets,12 - 13,1,N/A,N/A,N/A
+43,Jared Dudley,TURNOVER,None,6:49,1,Nets,Pelicans,12 - 13,0,N/A,N/A,N/A
+44,Elfrid Payton,TURNOVER,Jarrett Allen,6:34,1,Pelicans,Nets,12 - 13,1,N/A,N/A,N/A
+45,Jared Dudley,FG_MISS,None,6:28,1,Nets,Pelicans,12 - 13,0,25,3,Jumper
+46,Jrue Holiday,DEFENSIVE_REBOUND,None,6:25,1,Pelicans,Nets,12 - 13,1,N/A,N/A,N/A
+47,E'Twaun Moore,FG_MISS,None,6:21,1,Pelicans,Nets,12 - 13,1,0,2,Layup
+48,E'Twaun Moore,OFFENSIVE_REBOUND,None,6:21,1,Pelicans,Nets,12 - 13,1,N/A,N/A,N/A
+49,D'Angelo Russell,FOUL_ON_FLOOR,None,6:21,1,Nets,Pelicans,12 - 13,0,N/A,N/A,N/A
+50,E'Twaun Moore,FT,None,6:21,1,Pelicans,Nets,12 - 14,1,N/A,1,N/A
+51,Julius Randle,SUBSTITUTION,Mirotic Nikola,6:21,1,Pelicans,Nets,12 - 14,1,N/A,N/A,N/A
+52,Allen Crabbe,SUBSTITUTION,Dudley Jared,6:21,1,Nets,Pelicans,12 - 14,0,N/A,N/A,N/A
+53,Rondae Hollis-Jefferson,SUBSTITUTION,Harris Joe,6:21,1,Nets,Pelicans,12 - 14,0,N/A,N/A,N/A
+54,E'Twaun Moore,FT_MISS,None,6:21,1,Pelicans,Nets,12 - 14,1,N/A,1,N/A
+55,Allen Crabbe,DEFENSIVE_REBOUND,None,6:18,1,Nets,Pelicans,12 - 14,0,N/A,N/A,N/A
+56,Caris LeVert,FG_UNASSISTED,None,6:09,1,Nets,Pelicans,14 - 14,0,10,2,Jumper
+57,E'Twaun Moore,FG_MISS,None,5:55,1,Pelicans,Nets,14 - 14,1,0,2,Layup
+58,Rondae Hollis-Jefferson,DEFENSIVE_REBOUND,None,5:52,1,Nets,Pelicans,14 - 14,0,N/A,N/A,N/A
+59,Caris LeVert,FG_ASSISTED,Rondae Hollis-Jefferson,5:51,1,Nets,Pelicans,16 - 14,0,0,2,Layup
+60,Julius Randle,FOUL_ON_FLOOR,None,5:51,1,Pelicans,Nets,16 - 14,1,N/A,N/A,N/A
+61,Team,Unknown,None,5:51,1,Pelicans,Nets,16 - 14,1,N/A,N/A,N/A
+62,Caris LeVert,FT_MISS,None,5:51,1,Nets,Pelicans,16 - 14,0,N/A,1,N/A
+63,Julius Randle,DEFENSIVE_REBOUND,None,5:51,1,Pelicans,Nets,16 - 14,1,N/A,N/A,N/A
+64,Jrue Holiday,FG_UNASSISTED,None,5:31,1,Pelicans,Nets,16 - 16,1,0,2,Layup
+65,Anthony Davis,FOUL_ON_FLOOR,None,5:23,1,Pelicans,Nets,16 - 16,1,N/A,N/A,N/A
+66,Caris LeVert,FT,None,5:23,1,Nets,Pelicans,17 - 16,0,N/A,1,N/A
+67,Spencer Dinwiddie,SUBSTITUTION,Russell D'Angelo,5:23,1,Nets,Pelicans,17 - 16,0,N/A,N/A,N/A
+68,Ed Davis,SUBSTITUTION,Allen Jarrett,5:23,1,Nets,Pelicans,17 - 16,0,N/A,N/A,N/A
+69,Caris LeVert,FT,None,5:23,1,Nets,Pelicans,18 - 16,0,N/A,1,N/A
+70,Rondae Hollis-Jefferson,FOUL_ON_FLOOR,None,5:09,1,Nets,Pelicans,18 - 16,0,N/A,N/A,N/A
+71,Jrue Holiday,FG_ASSISTED,Anthony Davis,5:06,1,Pelicans,Nets,18 - 18,1,0,2,Dunk
+72,Caris LeVert,FG_MISS,None,4:41,1,Nets,Pelicans,18 - 18,0,0,2,Layup
+73,Team,OFFENSIVE_REBOUND,None,4:40,1,Nets,Pelicans,18 - 18,0,N/A,N/A,N/A
+74,shot clock,TURNOVER,None,4:40,1,Nets,Pelicans,18 - 18,0,N/A,N/A,N/A
+75,Ian Clark,SUBSTITUTION,Payton Elfrid,4:40,1,Pelicans,Nets,18 - 18,1,N/A,N/A,N/A
+76,Julius Randle,FG_MISS,None,4:24,1,Pelicans,Nets,18 - 18,1, ,2,Jumper
+77,Allen Crabbe,DEFENSIVE_REBOUND,None,4:21,1,Nets,Pelicans,18 - 18,0,N/A,N/A,N/A
+78,Rondae Hollis-Jefferson,FG_ASSISTED,Caris LeVert,4:19,1,Nets,Pelicans,20 - 18,0,16,2,Jumper
+79,Jrue Holiday,TURNOVER,Spencer Dinwiddie,4:05,1,Pelicans,Nets,20 - 18,1,N/A,N/A,N/A
+80,Caris LeVert,FG_ASSISTED,Allen Crabbe,3:58,1,Nets,Pelicans,22 - 18,0,0,2,Layup
+81,E'Twaun Moore,FG_ASSISTED,Jrue Holiday,3:49,1,Pelicans,Nets,22 - 21,1,24,3,Jumper
+82,Rondae Hollis-Jefferson,FG_ASSISTED,Spencer Dinwiddie,3:35,1,Nets,Pelicans,24 - 21,0,0,2,Layup
+83,Ed Davis,FOUL_ON_FLOOR,None,3:24,1,Nets,Pelicans,24 - 21,0,N/A,N/A,N/A
+84,Jrue Holiday,FT,None,3:24,1,Pelicans,Nets,24 - 22,1,N/A,1,N/A
+85,Nikola Mirotic,SUBSTITUTION,Davis Anthony,3:24,1,Pelicans,Nets,24 - 22,1,N/A,N/A,N/A
+86,Jrue Holiday,FT,None,3:24,1,Pelicans,Nets,24 - 23,1,N/A,1,N/A
+87,Ian Clark,FOUL_ON_FLOOR,None,3:18,1,Pelicans,Nets,24 - 23,1,N/A,N/A,N/A
+88,Allen Crabbe,FT,None,3:18,1,Nets,Pelicans,25 - 23,0,N/A,1,N/A
+89,Allen Crabbe,FT,None,3:18,1,Nets,Pelicans,26 - 23,0,N/A,1,N/A
+90,Shabazz Napier,SUBSTITUTION,LeVert Caris,3:18,1,Nets,Pelicans,26 - 23,0,N/A,N/A,N/A
+91,Allen Crabbe,FT,None,3:18,1,Nets,Pelicans,27 - 23,0,N/A,1,N/A
+92,Nikola Mirotic,FG_MISS,None,3:07,1,Pelicans,Nets,27 - 23,1,0,2,Layup
+93,Rondae Hollis-Jefferson,DEFENSIVE_REBOUND,None,3:04,1,Nets,Pelicans,27 - 23,0,N/A,N/A,N/A
+94,Shabazz Napier,FG_MISS,None,3:00,1,Nets,Pelicans,27 - 23,0,25,3,Jumper
+95,Jrue Holiday,DEFENSIVE_REBOUND,None,2:56,1,Pelicans,Nets,27 - 23,1,N/A,N/A,N/A
+96,Jrue Holiday,FG_MISS,None,2:51,1,Pelicans,Nets,27 - 23,1,26,3,Jumper
+97,Ed Davis,DEFENSIVE_REBOUND,None,2:48,1,Nets,Pelicans,27 - 23,0,N/A,N/A,N/A
+98,Allen Crabbe,FG_MISS,None,2:40,1,Nets,Pelicans,27 - 23,0,25,3,Jumper
+99,Ian Clark,DEFENSIVE_REBOUND,None,2:37,1,Pelicans,Nets,27 - 23,1,N/A,N/A,N/A
+100,Allen Crabbe,FOUL_ON_FLOOR,None,2:33,1,Nets,Pelicans,27 - 23,0,N/A,N/A,N/A
+101,Nikola Mirotic,FT,None,2:33,1,Pelicans,Nets,27 - 24,1,N/A,1,N/A
+102,Darius Miller,SUBSTITUTION,Holiday Jrue,2:33,1,Pelicans,Nets,27 - 24,1,N/A,N/A,N/A
+103,Solomon Hill,SUBSTITUTION,Moore E'Twaun,2:33,1,Pelicans,Nets,27 - 24,1,N/A,N/A,N/A
+104,Nikola Mirotic,FT,None,2:33,1,Pelicans,Nets,27 - 25,1,N/A,1,N/A
+105,Rondae Hollis-Jefferson,FG_MISS,None,2:19,1,Nets,Pelicans,27 - 25,0,17,2,Jumper
+106,Team,DEFENSIVE_REBOUND,None,2:16,1,Pelicans,Nets,27 - 25,1,N/A,N/A,N/A
+107,Darius Miller,FG_ASSISTED,Julius Randle,2:06,1,Pelicans,Nets,27 - 28,1,25,3,Jumper
+108,Spencer Dinwiddie,FG_MISS,None,1:50,1,Nets,Pelicans,27 - 28,0,27,3,Jumper
+109,Nikola Mirotic,DEFENSIVE_REBOUND,None,1:45,1,Pelicans,Nets,27 - 28,1,N/A,N/A,N/A
+110,Julius Randle,FG_MISS,None,1:40,1,Pelicans,Nets,27 - 28,1,25,3,Jumper
+111,Shabazz Napier,DEFENSIVE_REBOUND,None,1:34,1,Nets,Pelicans,27 - 28,0,N/A,N/A,N/A
+112,Shabazz Napier,FG_UNASSISTED,None,1:33,1,Nets,Pelicans,30 - 28,0,26,3,Jumper
+113,Ian Clark,FG_ASSISTED,Darius Miller,1:17,1,Pelicans,Nets,30 - 30,1,21,2,Jumper
+114,Spencer Dinwiddie,TURNOVER,Nikola Mirotic,1:00,1,Nets,Pelicans,30 - 30,0,N/A,N/A,N/A
+115,Julius Randle,FG_MISS,None,52.0,1,Pelicans,Nets,30 - 30,1,0,2,Layup
+116,Ed Davis,DEFENSIVE_REBOUND,None,50.0,1,Nets,Pelicans,30 - 30,0,N/A,N/A,N/A
+117,Rondae Hollis-Jefferson,FG_MISS,None,39.6,1,Nets,Pelicans,30 - 30,0,0,2,Layup
+118,Ed Davis,OFFENSIVE_REBOUND,None,33.5,1,Nets,Pelicans,30 - 30,0,N/A,N/A,N/A
+119,Ed Davis,FG_MISS,None,33.5,1,Nets,Pelicans,30 - 30,0, ,2,Jumper
+120,Ian Clark,DEFENSIVE_REBOUND,None,32.7,1,Pelicans,Nets,30 - 30,1,N/A,N/A,N/A
+121,Darius Miller,FG_MISS,Spencer Dinwiddie,29.7,1,Nets,Pelicans,30 - 30,1,25,3,Jumper
+122,Team,OFFENSIVE_REBOUND,None,29.7,1,Pelicans,Nets,30 - 30,1,N/A,N/A,N/A
+123,Ed Davis,Unknown,None,29.7,1,Nets,Pelicans,30 - 30,0,N/A,N/A,N/A
+124,Julius Randle,FG_ASSISTED,Darius Miller,23.3,1,Pelicans,Nets,30 - 32,1,0,2,Layup
+125,Spencer Dinwiddie,FG_MISS,None,2.0,1,Nets,Pelicans,30 - 32,0,23,3,Jumper
+126,Julius Randle,DEFENSIVE_REBOUND,None,2.0,1,Pelicans,Nets,30 - 32,1,N/A,N/A,N/A
+127,End of,Unknown,None,0.0,1,Pelicans,Nets,30 - 32,1,N/A,N/A,N/A
+0,Joe Harris,SUBSTITUTION,Hollis-Jefferson Rondae,12:00,2,Nets,Pelicans,30 - 32,0,N/A,N/A,N/A
+1,Spencer Dinwiddie,FG_ASSISTED,Joe Harris,11:42,2,Nets,Pelicans,33 - 32,0,23,3,Jumper
+2,Darius Miller,FG_MISS,None,11:27,2,Pelicans,Nets,33 - 32,1,23,2,Jumper
+3,Joe Harris,DEFENSIVE_REBOUND,None,11:24,2,Nets,Pelicans,33 - 32,0,N/A,N/A,N/A
+4,Darius Miller,FOUL_ON_FLOOR,None,11:18,2,Pelicans,Nets,33 - 32,1,N/A,N/A,N/A
+5,Joe Harris,FG_ASSISTED,Allen Crabbe,11:08,2,Nets,Pelicans,35 - 32,0,0,2,Layup
+6,Nikola Mirotic,FG_MISS,None,10:52,2,Pelicans,Nets,35 - 32,1,12,2,Jumper
+7,Shabazz Napier,DEFENSIVE_REBOUND,None,10:49,2,Nets,Pelicans,35 - 32,0,N/A,N/A,N/A
+8,Allen Crabbe,FG_MISS,None,10:41,2,Nets,Pelicans,35 - 32,0,26,3,Jumper
+9,Darius Miller,DEFENSIVE_REBOUND,None,10:35,2,Pelicans,Nets,35 - 32,1,N/A,N/A,N/A
+10,Ian Clark,FG_ASSISTED,Julius Randle,10:23,2,Pelicans,Nets,35 - 34,1,0,2,Layup
+11,Ed Davis,FG_MISS,Nikola Mirotic,10:07,2,Pelicans,Nets,35 - 34,0,0,2,Layup
+12,Team,OFFENSIVE_REBOUND,None,10:07,2,Nets,Pelicans,35 - 34,0,N/A,N/A,N/A
+13,Elfrid Payton,SUBSTITUTION,Miller Darius,10:07,2,Pelicans,Nets,35 - 34,1,N/A,N/A,N/A
+14,Allen Crabbe,FG_ASSISTED,Spencer Dinwiddie,10:00,2,Nets,Pelicans,37 - 34,0,6,2,Jumper
+15,Solomon Hill,FG_MISS,None,9:47,2,Pelicans,Nets,37 - 34,1, ,3,Jumper
+16,Ed Davis,DEFENSIVE_REBOUND,None,9:44,2,Nets,Pelicans,37 - 34,0,N/A,N/A,N/A
+17,Spencer Dinwiddie,FG_UNASSISTED,None,9:34,2,Nets,Pelicans,40 - 34,0,27,3,Jumper
+18,Julius Randle,FG_UNASSISTED,None,9:11,2,Pelicans,Nets,40 - 36,1,0,2,Layup
+19,Elfrid Payton,FOUL_ON_FLOOR,None,8:57,2,Pelicans,Nets,40 - 36,1,N/A,N/A,N/A
+20,Anthony Davis,SUBSTITUTION,Randle Julius,8:57,2,Pelicans,Nets,40 - 36,1,N/A,N/A,N/A
+21,Shabazz Napier,FG_ASSISTED,Ed Davis,8:52,2,Nets,Pelicans,43 - 36,0,27,3,Jumper
+22,Elfrid Payton,FG_UNASSISTED,None,8:40,2,Pelicans,Nets,43 - 38,1,0,2,Layup
+23,Spencer Dinwiddie,FG_ASSISTED,Shabazz Napier,8:34,2,Nets,Pelicans,45 - 38,0,0,2,Dunk
+24,Team,Unknown,None,8:34,2,Pelicans,Nets,45 - 38,1,N/A,N/A,N/A
+25,Wesley Johnson,SUBSTITUTION,Mirotic Nikola,8:34,2,Pelicans,Nets,45 - 38,1,N/A,N/A,N/A
+26,Wesley Johnson,FG_MISS,None,8:21,2,Pelicans,Nets,45 - 38,1,16,2,Jumper
+27,Allen Crabbe,DEFENSIVE_REBOUND,None,8:18,2,Nets,Pelicans,45 - 38,0,N/A,N/A,N/A
+28,Ian Clark,FOUL_ON_FLOOR,None,8:13,2,Pelicans,Nets,45 - 38,1,N/A,N/A,N/A
+29,Allen Crabbe,FG_MISS,None,8:04,2,Nets,Pelicans,45 - 38,0, ,2,Jumper
+30,Ed Davis,OFFENSIVE_REBOUND,None,8:02,2,Nets,Pelicans,45 - 38,0,N/A,N/A,N/A
+31,Ed Davis,FG_UNASSISTED,None,8:00,2,Nets,Pelicans,47 - 38,0,0,2,Layup
+32,Elfrid Payton,FG_MISS,None,7:53,2,Pelicans,Nets,47 - 38,1,0,2,Layup
+33,Spencer Dinwiddie,DEFENSIVE_REBOUND,None,7:53,2,Nets,Pelicans,47 - 38,0,N/A,N/A,N/A
+34,Spencer Dinwiddie,TURNOVER,Anthony Davis,7:43,2,Nets,Pelicans,47 - 38,0,N/A,N/A,N/A
+35,Solomon Hill,FG_UNASSISTED,None,7:38,2,Pelicans,Nets,47 - 40,1,0,2,Layup
+36,Wesley Johnson,FOUL_ON_FLOOR,None,7:14,2,Pelicans,Nets,47 - 40,1,N/A,N/A,N/A
+37,Jrue Holiday,SUBSTITUTION,Clark Ian,7:14,2,Pelicans,Nets,47 - 40,1,N/A,N/A,N/A
+38,Jared Dudley,SUBSTITUTION,Dinwiddie Spencer,7:14,2,Nets,Pelicans,47 - 40,0,N/A,N/A,N/A
+39,D'Angelo Russell,SUBSTITUTION,Napier Shabazz,7:14,2,Nets,Pelicans,47 - 40,0,N/A,N/A,N/A
+40,Jarrett Allen,SUBSTITUTION,Davis Ed,7:14,2,Nets,Pelicans,47 - 40,0,N/A,N/A,N/A
+41,Caris LeVert,SUBSTITUTION,Crabbe Allen,7:14,2,Nets,Pelicans,47 - 40,0,N/A,N/A,N/A
+42,shot clock,TURNOVER,None,7:00,2,Nets,Pelicans,47 - 40,0,N/A,N/A,N/A
+43,Elfrid Payton,FG_MISS,None,6:41,2,Pelicans,Nets,47 - 40,1,25,3,Jumper
+44,Team,OFFENSIVE_REBOUND,None,6:40,2,Pelicans,Nets,47 - 40,1,N/A,N/A,N/A
+45,Anthony Davis,FG_MISS,None,6:34,2,Pelicans,Nets,47 - 40,1,3,2,Jumper
+46,D'Angelo Russell,DEFENSIVE_REBOUND,None,6:30,2,Nets,Pelicans,47 - 40,0,N/A,N/A,N/A
+47,Caris LeVert,TURNOVER,Wesley Johnson,6:19,2,Nets,Pelicans,47 - 40,0,N/A,N/A,N/A
+48,Wesley Johnson,TURNOVER,D'Angelo Russell,6:16,2,Pelicans,Nets,47 - 40,1,N/A,N/A,N/A
+49,D'Angelo Russell,FG_UNASSISTED,None,6:07,2,Nets,Pelicans,49 - 40,0,15,2,Jumper
+50,Anthony Davis,FG_ASSISTED,Elfrid Payton,5:54,2,Pelicans,Nets,49 - 43,1,24,3,Jumper
+51,D'Angelo Russell,TURNOVER,Wesley Johnson,5:43,2,Nets,Pelicans,49 - 43,0,N/A,N/A,N/A
+52,Anthony Davis,FG_ASSISTED,Solomon Hill,5:36,2,Pelicans,Nets,49 - 45,1,0,2,Layup
+53,Team,Unknown,None,5:36,2,Nets,Pelicans,49 - 45,0,N/A,N/A,N/A
+54,D'Angelo Russell,FG_MISS,None,5:11,2,Nets,Pelicans,49 - 45,0,19,2,Jumper
+55,Anthony Davis,DEFENSIVE_REBOUND,None,5:09,2,Pelicans,Nets,49 - 45,1,N/A,N/A,N/A
+56,Wesley Johnson,TURNOVER,None,5:01,2,Pelicans,Nets,49 - 45,1,N/A,N/A,N/A
+57,Wesley Johnson,TURNOVER,None,5:01,2,Pelicans,Nets,49 - 45,1,N/A,N/A,N/A
+58,Caris LeVert,FG_MISS,None,4:42,2,Nets,Pelicans,49 - 45,0,26,3,Jumper
+59,Jarrett Allen,OFFENSIVE_REBOUND,None,4:39,2,Nets,Pelicans,49 - 45,0,N/A,N/A,N/A
+60,Jared Dudley,FG_ASSISTED,Jarrett Allen,4:38,2,Nets,Pelicans,52 - 45,0,26,3,Jumper
+61,Wesley Johnson,FG_ASSISTED,Elfrid Payton,4:20,2,Pelicans,Nets,52 - 47,1,13,2,Jumper
+62,Caris LeVert,FG_MISS,Jrue Holiday,4:09,2,Pelicans,Nets,52 - 47,0,0,2,Layup
+63,Caris LeVert,OFFENSIVE_REBOUND,None,4:09,2,Nets,Pelicans,52 - 47,0,N/A,N/A,N/A
+64,Caris LeVert's,FG_MISS,Anthony Davis,4:09,2,Pelicans,Nets,52 - 47,0,0,2,Layup
+65,Jarrett Allen,OFFENSIVE_REBOUND,None,4:09,2,Nets,Pelicans,52 - 47,0,N/A,N/A,N/A
+66,Jarrett Allen,FG_MISS,Wesley Johnson,4:08,2,Pelicans,Nets,52 - 47,0,0,2,Layup
+67,Team,OFFENSIVE_REBOUND,None,4:08,2,Nets,Pelicans,52 - 47,0,N/A,N/A,N/A
+68,Rondae Hollis-Jefferson,SUBSTITUTION,Harris Joe,4:06,2,Nets,Pelicans,52 - 47,0,N/A,N/A,N/A
+69,Spencer Dinwiddie,SUBSTITUTION,Dudley Jared,4:06,2,Nets,Pelicans,52 - 47,0,N/A,N/A,N/A
+70,E'Twaun Moore,SUBSTITUTION,Hill Solomon,4:06,2,Pelicans,Nets,52 - 47,1,N/A,N/A,N/A
+71,Caris LeVert,FG_MISS,None,3:57,2,Nets,Pelicans,52 - 47,0,25,3,Jumper
+72,Elfrid Payton,DEFENSIVE_REBOUND,None,3:54,2,Pelicans,Nets,52 - 47,1,N/A,N/A,N/A
+73,Anthony Davis,FG_MISS,None,3:52,2,Pelicans,Nets,52 - 47,1, ,2,Jumper
+74,Spencer Dinwiddie,DEFENSIVE_REBOUND,None,3:50,2,Nets,Pelicans,52 - 47,0,N/A,N/A,N/A
+75,D'Angelo Russell,FG_ASSISTED,Caris LeVert,3:44,2,Nets,Pelicans,55 - 47,0,22,3,Jumper
+76,Elfrid Payton,FG_MISS,None,3:23,2,Pelicans,Nets,55 - 47,1,0,2,Layup
+77,Jarrett Allen,DEFENSIVE_REBOUND,None,3:21,2,Nets,Pelicans,55 - 47,0,N/A,N/A,N/A
+78,Jarrett Allen,TURNOVER,E'Twaun Moore,3:18,2,Nets,Pelicans,55 - 47,0,N/A,N/A,N/A
+79,Anthony Davis,FG_MISS,None,3:11,2,Pelicans,Nets,55 - 47,1,26,3,Jumper
+80,D'Angelo Russell,DEFENSIVE_REBOUND,None,3:09,2,Nets,Pelicans,55 - 47,0,N/A,N/A,N/A
+81,D'Angelo Russell,FG_UNASSISTED,None,2:59,2,Nets,Pelicans,57 - 47,0,17,2,Jumper
+82,Jrue Holiday,FG_ASSISTED,Elfrid Payton,2:42,2,Pelicans,Nets,57 - 50,1,25,3,Jumper
+83,D'Angelo Russell,FG_ASSISTED,Caris LeVert,2:21,2,Nets,Pelicans,60 - 50,0,23,3,Jumper
+84,Anthony Davis,FG_MISS,None,2:06,2,Pelicans,Nets,60 - 50,1,17,2,Jumper
+85,D'Angelo Russell,DEFENSIVE_REBOUND,None,2:06,2,Nets,Pelicans,60 - 50,0,N/A,N/A,N/A
+86,Rondae Hollis-Jefferson,FG_MISS,None,1:57,2,Nets,Pelicans,60 - 50,0,0,2,Layup
+87,E'Twaun Moore,DEFENSIVE_REBOUND,None,1:53,2,Pelicans,Nets,60 - 50,1,N/A,N/A,N/A
+88,Spencer Dinwiddie,FOUL_ON_FLOOR,None,1:51,2,Nets,Pelicans,60 - 50,0,N/A,N/A,N/A
+89,Wesley Johnson,FT,None,1:51,2,Pelicans,Nets,60 - 51,1,N/A,1,N/A
+90,Wesley Johnson,FT_MISS,None,1:51,2,Pelicans,Nets,60 - 51,1,N/A,1,N/A
+91,Jarrett Allen,DEFENSIVE_REBOUND,None,1:49,2,Nets,Pelicans,60 - 51,0,N/A,N/A,N/A
+92,D'Angelo Russell,FG_UNASSISTED,None,1:42,2,Nets,Pelicans,63 - 51,0,27,3,Jumper
+93,Anthony Davis's,FG_MISS,Rondae Hollis-Jefferson,1:32,2,Nets,Pelicans,63 - 51,1,0,2,Layup
+94,Anthony Davis,OFFENSIVE_REBOUND,None,1:32,2,Pelicans,Nets,63 - 51,1,N/A,N/A,N/A
+95,D'Angelo Russell,FOUL_ON_FLOOR,None,1:32,2,Nets,Pelicans,63 - 51,0,N/A,N/A,N/A
+96,Anthony Davis,FT,None,1:32,2,Pelicans,Nets,63 - 52,1,N/A,1,N/A
+97,Anthony Davis,FT,None,1:32,2,Pelicans,Nets,63 - 53,1,N/A,1,N/A
+98,Caris LeVert,FG_UNASSISTED,None,1:20,2,Nets,Pelicans,65 - 53,0,0,2,Layup
+99,Jrue Holiday,FOUL_ON_FLOOR,None,1:20,2,Pelicans,Nets,65 - 53,1,N/A,N/A,N/A
+100,Caris LeVert,FT,None,1:20,2,Nets,Pelicans,66 - 53,0,N/A,1,N/A
+101,Anthony Davis,FG_ASSISTED,Elfrid Payton,1:13,2,Pelicans,Nets,66 - 55,1,0,2,Dunk
+102,Jarrett Allen,FG_MISS,Anthony Davis,48.1,2,Pelicans,Nets,66 - 55,0,0,2,Layup
+103,shot clock,TURNOVER,None,48.1,2,Nets,Pelicans,66 - 55,0,N/A,N/A,N/A
+104,Team,OFFENSIVE_REBOUND,None,48.1,2,Nets,Pelicans,66 - 55,0,N/A,N/A,N/A
+105,E'Twaun Moore,FG_UNASSISTED,None,29.5,2,Pelicans,Nets,66 - 57,1,17,2,Jumper
+106,D'Angelo Russell,TURNOVER,Anthony Davis,9.3,2,Nets,Pelicans,66 - 57,0,N/A,N/A,N/A
+107,E'Twaun Moore,FG_MISS,None,3.6,2,Pelicans,Nets,66 - 57,1,26,3,Jumper
+108,Anthony Davis,OFFENSIVE_REBOUND,None,1.7,2,Pelicans,Nets,66 - 57,1,N/A,N/A,N/A
+109,Anthony Davis,FG_MISS,None,1.0,2,Pelicans,Nets,66 - 57,1,6,2,Jumper
+110,Rondae Hollis-Jefferson,DEFENSIVE_REBOUND,None,0.6,2,Nets,Pelicans,66 - 57,0,N/A,N/A,N/A
+111,End of,Unknown,None,0.0,2,Pelicans,Nets,66 - 57,1,N/A,N/A,N/A
+0,Nikola Mirotic,SUBSTITUTION,Johnson Wesley,12:00,3,Pelicans,Nets,66 - 57,1,N/A,N/A,N/A
+1,Jared Dudley,SUBSTITUTION,Hollis-Jefferson Rondae,12:00,3,Nets,Pelicans,66 - 57,0,N/A,N/A,N/A
+2,Joe Harris,SUBSTITUTION,Dinwiddie Spencer,12:00,3,Nets,Pelicans,66 - 57,0,N/A,N/A,N/A
+3,Jarrett Allen,FG_ASSISTED,D'Angelo Russell,11:36,3,Nets,Pelicans,68 - 57,0,8,2,Jumper
+4,Nikola Mirotic,FG_ASSISTED,E'Twaun Moore,11:19,3,Pelicans,Nets,68 - 59,1,20,2,Jumper
+5,D'Angelo Russell,FG_UNASSISTED,None,11:03,3,Nets,Pelicans,71 - 59,0,25,2,Jumper
+6,Anthony Davis,FG_MISS,None,10:42,3,Pelicans,Nets,71 - 59,1,15,2,Jumper
+7,Nikola Mirotic,OFFENSIVE_REBOUND,None,10:41,3,Pelicans,Nets,71 - 59,1,N/A,N/A,N/A
+8,Nikola Mirotic,FG_UNASSISTED,None,10:40,3,Pelicans,Nets,71 - 61,1,0,2,Layup
+9,Joe Harris,FG_MISS,Anthony Davis,10:24,3,Pelicans,Nets,71 - 61,0,13,2,Jumper
+10,Nikola Mirotic,DEFENSIVE_REBOUND,None,10:20,3,Pelicans,Nets,71 - 61,1,N/A,N/A,N/A
+11,Nikola Mirotic,FG_MISS,None,10:18,3,Pelicans,Nets,71 - 61,1,29,3,Jumper
+12,Jarrett Allen,DEFENSIVE_REBOUND,None,10:13,3,Nets,Pelicans,71 - 61,0,N/A,N/A,N/A
+13,Caris LeVert,FG_MISS,None,10:08,3,Nets,Pelicans,71 - 61,0, ,2,Jumper
+14,Caris LeVert,OFFENSIVE_REBOUND,None,10:04,3,Nets,Pelicans,71 - 61,0,N/A,N/A,N/A
+15,Joe Harris,FG_MISS,None,10:03,3,Nets,Pelicans,71 - 61,0,23,3,Jumper
+16,Jarrett Allen,OFFENSIVE_REBOUND,None,10:03,3,Nets,Pelicans,71 - 61,0,N/A,N/A,N/A
+17,D'Angelo Russell,FG_MISS,None,9:57,3,Nets,Pelicans,71 - 61,0,25,3,Jumper
+18,Anthony Davis,DEFENSIVE_REBOUND,None,9:55,3,Pelicans,Nets,71 - 61,1,N/A,N/A,N/A
+19,Elfrid Payton,FG_MISS,None,9:49,3,Pelicans,Nets,71 - 61,1,0,2,Layup
+20,Nikola Mirotic,OFFENSIVE_REBOUND,None,9:47,3,Pelicans,Nets,71 - 61,1,N/A,N/A,N/A
+21,Jrue Holiday,FG_ASSISTED,Anthony Davis,9:44,3,Pelicans,Nets,71 - 64,1,26,3,Jumper
+22,Caris LeVert,FG_MISS,None,9:18,3,Nets,Pelicans,71 - 64,0,13,2,Jumper
+23,Nikola Mirotic,DEFENSIVE_REBOUND,None,9:16,3,Pelicans,Nets,71 - 64,1,N/A,N/A,N/A
+24,Anthony Davis,FG_ASSISTED,Jrue Holiday,9:07,3,Pelicans,Nets,71 - 66,1,0,2,Dunk
+25,Team,Unknown,None,9:07,3,Nets,Pelicans,71 - 66,0,N/A,N/A,N/A
+26,Jared Dudley,FOUL_ON_FLOOR,None,8:57,3,Nets,Pelicans,71 - 66,0,N/A,N/A,N/A
+27,Jared Dudley,TURNOVER,None,8:57,3,Nets,Pelicans,71 - 66,0,N/A,N/A,N/A
+28,Elfrid Payton,FG_MISS,None,8:47,3,Pelicans,Nets,71 - 66,1,0,2,Layup
+29,Anthony Davis,OFFENSIVE_REBOUND,None,8:42,3,Pelicans,Nets,71 - 66,1,N/A,N/A,N/A
+30,Anthony Davis,FG_MISS,None,8:42,3,Pelicans,Nets,71 - 66,1, ,2,Jumper
+31,Jarrett Allen,DEFENSIVE_REBOUND,None,8:41,3,Nets,Pelicans,71 - 66,0,N/A,N/A,N/A
+32,Caris LeVert,FG_MISS,None,8:26,3,Nets,Pelicans,71 - 66,0,0,2,Layup
+33,Elfrid Payton,DEFENSIVE_REBOUND,None,8:24,3,Pelicans,Nets,71 - 66,1,N/A,N/A,N/A
+34,Elfrid Payton,TURNOVER,None,8:21,3,Pelicans,Nets,71 - 66,1,N/A,N/A,N/A
+35,D'Angelo Russell,FG_MISS,None,8:06,3,Nets,Pelicans,71 - 66,0, ,2,Jumper
+36,Anthony Davis,DEFENSIVE_REBOUND,None,8:04,3,Pelicans,Nets,71 - 66,1,N/A,N/A,N/A
+37,Nikola Mirotic,FG_ASSISTED,Elfrid Payton,7:49,3,Pelicans,Nets,71 - 68,1, ,2,Jumper
+38,Jarrett Allen,FG_ASSISTED,Caris LeVert,7:30,3,Nets,Pelicans,73 - 68,0,0,2,Dunk
+39,Jrue Holiday,FG_MISS,None,7:15,3,Pelicans,Nets,73 - 68,1,26,3,Jumper
+40,Team,DEFENSIVE_REBOUND,None,7:13,3,Nets,Pelicans,73 - 68,0,N/A,N/A,N/A
+41,Caris LeVert,FG_MISS,None,7:03,3,Nets,Pelicans,73 - 68,0,25,3,Jumper
+42,Nikola Mirotic,DEFENSIVE_REBOUND,None,7:01,3,Pelicans,Nets,73 - 68,1,N/A,N/A,N/A
+43,Elfrid Payton,FG_UNASSISTED,None,6:56,3,Pelicans,Nets,73 - 70,1,0,2,Layup
+44,Jarrett Allen,FOUL_ON_FLOOR,None,6:56,3,Nets,Pelicans,73 - 70,0,N/A,N/A,N/A
+45,Elfrid Payton,FT,None,6:56,3,Pelicans,Nets,73 - 71,1,N/A,1,N/A
+46,Jared Dudley,FG_ASSISTED,D'Angelo Russell,6:45,3,Nets,Pelicans,76 - 71,0,25,3,Jumper
+47,Elfrid Payton,FG_ASSISTED,Anthony Davis,6:31,3,Pelicans,Nets,76 - 74,1,27,3,Jumper
+48,Caris LeVert,FG_MISS,None,6:19,3,Nets,Pelicans,76 - 74,0,0,2,Layup
+49,D'Angelo Russell,OFFENSIVE_REBOUND,None,6:15,3,Nets,Pelicans,76 - 74,0,N/A,N/A,N/A
+50,D'Angelo Russell,FG_MISS,None,6:06,3,Nets,Pelicans,76 - 74,0,26,3,Jumper
+51,Anthony Davis,DEFENSIVE_REBOUND,None,6:02,3,Pelicans,Nets,76 - 74,1,N/A,N/A,N/A
+52,Elfrid Payton,TURNOVER,None,5:58,3,Pelicans,Nets,76 - 74,1,N/A,N/A,N/A
+53,Elfrid Payton,TURNOVER,None,5:58,3,Pelicans,Nets,76 - 74,1,N/A,N/A,N/A
+54,Julius Randle,SUBSTITUTION,Mirotic Nikola,5:58,3,Pelicans,Nets,76 - 74,1,N/A,N/A,N/A
+55,Rondae Hollis-Jefferson,SUBSTITUTION,Dudley Jared,5:58,3,Nets,Pelicans,76 - 74,0,N/A,N/A,N/A
+56,Allen Crabbe,SUBSTITUTION,Harris Joe,5:58,3,Nets,Pelicans,76 - 74,0,N/A,N/A,N/A
+57,D'Angelo Russell,FG_MISS,None,5:42,3,Nets,Pelicans,76 - 74,0, ,2,Jumper
+58,Elfrid Payton,DEFENSIVE_REBOUND,None,5:40,3,Pelicans,Nets,76 - 74,1,N/A,N/A,N/A
+59,E'Twaun Moore,FG_MISS,None,5:35,3,Pelicans,Nets,76 - 74,1,0,2,Layup
+60,E'Twaun Moore,OFFENSIVE_REBOUND,None,5:35,3,Pelicans,Nets,76 - 74,1,N/A,N/A,N/A
+61,E'Twaun Moore,FG_UNASSISTED,None,5:30,3,Pelicans,Nets,76 - 76,1, ,2,Jumper
+62,Caris LeVert,FG_UNASSISTED,None,5:18,3,Nets,Pelicans,79 - 76,0,26,3,Jumper
+63,Anthony Davis,FG_MISS,None,5:08,3,Pelicans,Nets,79 - 76,1,0,2,Layup
+64,Julius Randle,OFFENSIVE_REBOUND,None,5:08,3,Pelicans,Nets,79 - 76,1,N/A,N/A,N/A
+65,Julius Randle,TURNOVER,Allen Crabbe,5:04,3,Pelicans,Nets,79 - 76,1,N/A,N/A,N/A
+66,Elfrid Payton,FOUL_ON_FLOOR,None,4:54,3,Pelicans,Nets,79 - 76,1,N/A,N/A,N/A
+67,Ian Clark,SUBSTITUTION,Payton Elfrid,4:54,3,Pelicans,Nets,79 - 76,1,N/A,N/A,N/A
+68,Ed Davis,SUBSTITUTION,Russell D'Angelo,4:54,3,Nets,Pelicans,79 - 76,0,N/A,N/A,N/A
+69,Spencer Dinwiddie,SUBSTITUTION,Allen Jarrett,4:54,3,Nets,Pelicans,79 - 76,0,N/A,N/A,N/A
+70,Caris LeVert,FG_MISS,None,4:47,3,Nets,Pelicans,79 - 76,0,0,2,Layup
+71,Jrue Holiday,DEFENSIVE_REBOUND,None,4:45,3,Pelicans,Nets,79 - 76,1,N/A,N/A,N/A
+72,Jrue Holiday,FG_MISS,Spencer Dinwiddie,4:40,3,Nets,Pelicans,79 - 76,1,14,2,Jumper
+73,Rondae Hollis-Jefferson,DEFENSIVE_REBOUND,None,4:40,3,Nets,Pelicans,79 - 76,0,N/A,N/A,N/A
+74,Caris LeVert,TURNOVER,None,4:36,3,Nets,Pelicans,79 - 76,0,N/A,N/A,N/A
+75,Jrue Holiday,FG_MISS,None,4:27,3,Pelicans,Nets,79 - 76,1,8,2,Jumper
+76,Ed Davis,DEFENSIVE_REBOUND,None,4:25,3,Nets,Pelicans,79 - 76,0,N/A,N/A,N/A
+77,Ed Davis,FG_MISS,Julius Randle,4:14,3,Pelicans,Nets,79 - 76,0,0,2,Layup
+78,Ed Davis,OFFENSIVE_REBOUND,None,4:13,3,Nets,Pelicans,79 - 76,0,N/A,N/A,N/A
+79,Ed Davis,FG_MISS,None,4:13,3,Nets,Pelicans,79 - 76,0,0,2,Layup
+80,Team,DEFENSIVE_REBOUND,None,4:13,3,Pelicans,Nets,79 - 76,1,N/A,N/A,N/A
+81,Ed Davis,FOUL_ON_FLOOR,None,4:13,3,Nets,Pelicans,79 - 76,0,N/A,N/A,N/A
+82,Solomon Hill,SUBSTITUTION,Holiday Jrue,4:13,3,Pelicans,Nets,79 - 76,1,N/A,N/A,N/A
+83,Julius Randle,FG_MISS,None,3:51,3,Pelicans,Nets,79 - 76,1,0,2,Layup
+84,Team,DEFENSIVE_REBOUND,None,3:51,3,Nets,Pelicans,79 - 76,0,N/A,N/A,N/A
+85,Allen Crabbe,FG_ASSISTED,Spencer Dinwiddie,3:40,3,Nets,Pelicans,82 - 76,0,26,3,Jumper
+86,E'Twaun Moore,FG_UNASSISTED,None,3:30,3,Pelicans,Nets,82 - 78,1,0,2,Layup
+87,Allen Crabbe,FOUL_ON_FLOOR,None,3:30,3,Nets,Pelicans,82 - 78,0,N/A,N/A,N/A
+88,Shabazz Napier,SUBSTITUTION,LeVert Caris,3:30,3,Nets,Pelicans,82 - 78,0,N/A,N/A,N/A
+89,E'Twaun Moore,FT,None,3:30,3,Pelicans,Nets,82 - 79,1,N/A,1,N/A
+90,Allen Crabbe,FG_MISS,Anthony Davis,3:18,3,Pelicans,Nets,82 - 79,0,0,2,Layup
+91,Ed Davis,OFFENSIVE_REBOUND,None,3:17,3,Nets,Pelicans,82 - 79,0,N/A,N/A,N/A
+92,Anthony Davis,FOUL_ON_FLOOR,None,3:17,3,Pelicans,Nets,82 - 79,1,N/A,N/A,N/A
+93,Ed Davis,FT_MISS,None,3:17,3,Nets,Pelicans,82 - 79,0,N/A,1,N/A
+94,Team,OFFENSIVE_REBOUND,None,3:17,3,Nets,Pelicans,82 - 79,0,N/A,N/A,N/A
+95,Ed Davis,FT,None,3:17,3,Nets,Pelicans,83 - 79,0,N/A,1,N/A
+96,Ian Clark,FG_MISS,None,3:07,3,Pelicans,Nets,83 - 79,1,0,2,Layup
+97,Julius Randle,OFFENSIVE_REBOUND,None,3:05,3,Pelicans,Nets,83 - 79,1,N/A,N/A,N/A
+98,Julius Randle,FG_UNASSISTED,None,3:04,3,Pelicans,Nets,83 - 81,1, ,2,Jumper
+99,Rondae Hollis-Jefferson,FG_MISS,Anthony Davis,2:46,3,Pelicans,Nets,83 - 81,0,0,2,Layup
+100,Ed Davis,OFFENSIVE_REBOUND,None,2:42,3,Nets,Pelicans,83 - 81,0,N/A,N/A,N/A
+101,Ed Davis,FG_UNASSISTED,None,2:41,3,Nets,Pelicans,85 - 81,0,0,2,Layup
+102,Julius Randle,FG_UNASSISTED,None,2:31,3,Pelicans,Nets,85 - 83,1,0,2,Layup
+103,Allen Crabbe,FG_MISS,None,2:21,3,Nets,Pelicans,85 - 83,0,28,3,Jumper
+104,Anthony Davis,DEFENSIVE_REBOUND,None,2:18,3,Pelicans,Nets,85 - 83,1,N/A,N/A,N/A
+105,Rondae Hollis-Jefferson,FOUL_ON_FLOOR,None,2:12,3,Nets,Pelicans,85 - 83,0,N/A,N/A,N/A
+106,Team,Unknown,None,2:12,3,Pelicans,Nets,85 - 83,1,N/A,N/A,N/A
+107,Jrue Holiday,SUBSTITUTION,Davis Anthony,2:12,3,Pelicans,Nets,85 - 83,1,N/A,N/A,N/A
+108,Nikola Mirotic,SUBSTITUTION,Moore E'Twaun,2:12,3,Pelicans,Nets,85 - 83,1,N/A,N/A,N/A
+109,Ian Clark,FG_ASSISTED,Jrue Holiday,2:05,3,Pelicans,Nets,85 - 86,1,26,3,Jumper
+110,Ian Clark,FOUL_ON_FLOOR,None,1:52,3,Pelicans,Nets,85 - 86,1,N/A,N/A,N/A
+111,Shabazz Napier,FT_MISS,None,1:52,3,Nets,Pelicans,85 - 86,0,N/A,1,N/A
+112,Team,OFFENSIVE_REBOUND,None,1:52,3,Nets,Pelicans,85 - 86,0,N/A,N/A,N/A
+113,Shabazz Napier,FT_MISS,None,1:52,3,Nets,Pelicans,85 - 86,0,N/A,1,N/A
+114,Team,OFFENSIVE_REBOUND,None,1:52,3,Nets,Pelicans,85 - 86,0,N/A,N/A,N/A
+115,Shabazz Napier,FT,None,1:52,3,Nets,Pelicans,86 - 86,0,N/A,1,N/A
+116,Julius Randle,FG_MISS,None,1:36,3,Pelicans,Nets,86 - 86,1,6,2,Jumper
+117,Rondae Hollis-Jefferson,DEFENSIVE_REBOUND,None,1:33,3,Nets,Pelicans,86 - 86,0,N/A,N/A,N/A
+118,Shabazz Napier,FG_ASSISTED,Rondae Hollis-Jefferson,1:26,3,Nets,Pelicans,88 - 86,0,0,2,Layup
+119,Ian Clark,FG_ASSISTED,Julius Randle,1:11,3,Pelicans,Nets,88 - 88,1,8,2,Jumper
+120,Rondae Hollis-Jefferson,FG_MISS,None,49.9,3,Nets,Pelicans,88 - 88,0,6,2,Jumper
+121,Julius Randle,DEFENSIVE_REBOUND,None,47.6,3,Pelicans,Nets,88 - 88,1,N/A,N/A,N/A
+122,Nikola Mirotic,FG_MISS,None,34.0,3,Pelicans,Nets,88 - 88,1,10,2,Jumper
+123,Rondae Hollis-Jefferson,DEFENSIVE_REBOUND,None,30.1,3,Nets,Pelicans,88 - 88,0,N/A,N/A,N/A
+124,Shabazz Napier,FG_MISS,None,24.6,3,Nets,Pelicans,88 - 88,0,0,2,Layup
+125,Nikola Mirotic,DEFENSIVE_REBOUND,None,22.6,3,Pelicans,Nets,88 - 88,1,N/A,N/A,N/A
+126,Jrue Holiday,FG_MISS,None,14.6,3,Pelicans,Nets,88 - 88,1,0,2,Layup
+127,Ed Davis,DEFENSIVE_REBOUND,None,11.4,3,Nets,Pelicans,88 - 88,0,N/A,N/A,N/A
+128,Spencer Dinwiddie,FG_UNASSISTED,None,0.7,3,Nets,Pelicans,91 - 88,0,26,2,Jumper
+129,End of,Unknown,None,0.0,3,Pelicans,Nets,91 - 88,1,N/A,N/A,N/A
+0,Joe Harris,SUBSTITUTION,Hollis-Jefferson Rondae,12:00,4,Nets,Pelicans,91 - 88,0,N/A,N/A,N/A
+1,Julius Randle,FG_MISS,Ed Davis,11:43,4,Nets,Pelicans,91 - 88,1,0,2,Layup
+2,Julius Randle,OFFENSIVE_REBOUND,None,11:43,4,Pelicans,Nets,91 - 88,1,N/A,N/A,N/A
+3,Julius Randle,FG_UNASSISTED,None,11:43,4,Pelicans,Nets,91 - 90,1,0,2,Layup
+4,Ed Davis,FOUL_ON_FLOOR,None,11:43,4,Nets,Pelicans,91 - 90,0,N/A,N/A,N/A
+5,Elfrid Payton,SUBSTITUTION,Mirotic Nikola,11:43,4,Pelicans,Nets,91 - 90,1,N/A,N/A,N/A
+6,Julius Randle,FT_MISS,None,11:43,4,Pelicans,Nets,91 - 90,1,N/A,1,N/A
+7,Joe Harris,DEFENSIVE_REBOUND,None,11:43,4,Nets,Pelicans,91 - 90,0,N/A,N/A,N/A
+8,Shabazz Napier,FG_UNASSISTED,None,11:23,4,Nets,Pelicans,93 - 91,0,0,2,Layup
+9,Jrue Holiday,FG_MISS,None,11:13,4,Pelicans,Nets,93 - 91,1,26,2,Jumper
+10,Ed Davis,DEFENSIVE_REBOUND,None,11:11,4,Nets,Pelicans,93 - 91,0,N/A,N/A,N/A
+11,Shabazz Napier,FG_MISS,Julius Randle,10:53,4,Pelicans,Nets,93 - 90,0,0,2,Layup
+12,Julius Randle,DEFENSIVE_REBOUND,None,10:50,4,Pelicans,Nets,93 - 91,1,N/A,N/A,N/A
+13,Julius Randle,FG_MISS,Allen Crabbe,10:50,4,Nets,Pelicans,93 - 90,1,0,2,Layup
+14,Solomon Hill,OFFENSIVE_REBOUND,None,10:47,4,Pelicans,Nets,93 - 90,1,N/A,N/A,N/A
+15,Solomon Hill,FG_MISS,None,10:45,4,Pelicans,Nets,93 - 90,1, ,2,Jumper
+16,Spencer Dinwiddie,DEFENSIVE_REBOUND,None,10:44,4,Nets,Pelicans,93 - 90,0,N/A,N/A,N/A
+17,Shabazz Napier,FG_ASSISTED,Spencer Dinwiddie,10:37,4,Nets,Pelicans,95 - 90,0,1,2,Jumper
+18,Elfrid Payton,FG_UNASSISTED,None,10:18,4,Pelicans,Nets,95 - 92,1,8,2,Jumper
+19,Shabazz Napier,FOUL_ON_FLOOR,None,10:18,4,Nets,Pelicans,95 - 92,0,N/A,N/A,N/A
+20,Anthony Davis,SUBSTITUTION,Randle Julius,10:18,4,Pelicans,Nets,95 - 92,1,N/A,N/A,N/A
+21,Elfrid Payton,FT,None,10:18,4,Pelicans,Nets,95 - 93,1,N/A,1,N/A
+22,Spencer Dinwiddie,FG_MISS,None,9:59,4,Nets,Pelicans,95 - 93,0,17,2,Jumper
+23,Team,OFFENSIVE_REBOUND,None,9:58,4,Nets,Pelicans,95 - 93,0,N/A,N/A,N/A
+24,Anthony Davis,FOUL_ON_FLOOR,None,9:58,4,Pelicans,Nets,95 - 93,1,N/A,N/A,N/A
+25,Allen Crabbe,FOUL_ON_FLOOR,None,9:55,4,Nets,Pelicans,95 - 93,0,N/A,N/A,N/A
+26,Allen Crabbe,TURNOVER,None,9:55,4,Nets,Pelicans,95 - 93,0,N/A,N/A,N/A
+27,Elfrid Payton,FG_MISS,None,9:48,4,Pelicans,Nets,95 - 93,1,26,3,Jumper
+28,Allen Crabbe,DEFENSIVE_REBOUND,None,9:43,4,Nets,Pelicans,95 - 93,0,N/A,N/A,N/A
+29,Shabazz Napier,FG_UNASSISTED,None,9:34,4,Nets,Pelicans,98 - 93,0,25,2,Jumper
+30,Elfrid Payton,TURNOVER,Shabazz Napier,9:23,4,Pelicans,Nets,98 - 93,1,N/A,N/A,N/A
+31,Shabazz Napier,FG_MISS,None,9:19,4,Nets,Pelicans,98 - 93,0,26,3,Jumper
+32,Team,DEFENSIVE_REBOUND,None,9:17,4,Pelicans,Nets,98 - 93,1,N/A,N/A,N/A
+33,Anthony Davis,FG_UNASSISTED,None,9:06,4,Pelicans,Nets,98 - 95,1,9,2,Jumper
+34,Shabazz Napier,FG_MISS,None,8:39,4,Nets,Pelicans,98 - 95,0,26,3,Jumper
+35,Anthony Davis,DEFENSIVE_REBOUND,None,8:36,4,Pelicans,Nets,98 - 95,1,N/A,N/A,N/A
+36,Jrue Holiday,FG_MISS,None,8:22,4,Pelicans,Nets,98 - 95,1,0,2,Layup
+37,Joe Harris,DEFENSIVE_REBOUND,None,8:19,4,Nets,Pelicans,98 - 95,0,N/A,N/A,N/A
+38,Ed Davis,TURNOVER,Solomon Hill,8:14,4,Nets,Pelicans,98 - 95,0,N/A,N/A,N/A
+39,Elfrid Payton,FG_ASSISTED,Solomon Hill,8:09,4,Pelicans,Nets,98 - 97,1,0,2,Layup
+40,Team,Unknown,None,8:09,4,Nets,Pelicans,98 - 97,0,N/A,N/A,N/A
+41,E'Twaun Moore,SUBSTITUTION,Clark Ian,8:09,4,Pelicans,Nets,98 - 97,1,N/A,N/A,N/A
+42,Julius Randle,SUBSTITUTION,Holiday Jrue,8:09,4,Pelicans,Nets,98 - 97,1,N/A,N/A,N/A
+43,Jared Dudley,SUBSTITUTION,for game,8:09,4,Nets,Pelicans,98 - 97,0,N/A,N/A,N/A
+44,enters the,SUBSTITUTION,Napier Shabazz,8:09,4,Nets,Pelicans,98 - 97,0,N/A,N/A,N/A
+45,Allen Crabbe,FG_ASSISTED,Spencer Dinwiddie,7:56,4,Nets,Pelicans,101 - 97,0,25,3,Jumper
+46,Spencer Dinwiddie,FOUL_ON_FLOOR,None,7:34,4,Nets,Pelicans,101 - 97,0,N/A,N/A,N/A
+47,Anthony Davis,FT_MISS,None,7:34,4,Pelicans,Nets,101 - 97,1,N/A,1,N/A
+48,Team,OFFENSIVE_REBOUND,None,7:34,4,Pelicans,Nets,101 - 97,1,N/A,N/A,N/A
+49,Anthony Davis,FT,None,7:34,4,Pelicans,Nets,101 - 98,1,N/A,1,N/A
+50,Allen Crabbe,FG_MISS,None,7:21,4,Nets,Pelicans,101 - 98,0,26,3,Jumper
+51,Elfrid Payton,DEFENSIVE_REBOUND,None,7:16,4,Pelicans,Nets,101 - 98,1,N/A,N/A,N/A
+52,Elfrid Payton,FG_MISS,None,7:05,4,Pelicans,Nets,101 - 98,1, ,2,Jumper
+53,Allen Crabbe,DEFENSIVE_REBOUND,None,7:03,4,Nets,Pelicans,101 - 98,0,N/A,N/A,N/A
+54,Solomon Hill,FOUL_ON_FLOOR,None,6:59,4,Pelicans,Nets,101 - 98,1,N/A,N/A,N/A
+55,Jrue Holiday,SUBSTITUTION,Payton Elfrid,6:59,4,Pelicans,Nets,101 - 98,1,N/A,N/A,N/A
+56,Caris LeVert,SUBSTITUTION,Dinwiddie Spencer,6:59,4,Nets,Pelicans,101 - 98,0,N/A,N/A,N/A
+57,D'Angelo Russell,SUBSTITUTION,Davis Ed,6:59,4,Nets,Pelicans,101 - 98,0,N/A,N/A,N/A
+58,Jarrett Allen,SUBSTITUTION,Crabbe Allen,6:59,4,Nets,Pelicans,101 - 98,0,N/A,N/A,N/A
+59,Jared Dudley,FG_MISS,None,6:42,4,Nets,Pelicans,101 - 98,0,25,3,Jumper
+60,Caris LeVert,OFFENSIVE_REBOUND,None,6:35,4,Nets,Pelicans,101 - 98,0,N/A,N/A,N/A
+61,Caris LeVert,FG_MISS,None,6:26,4,Nets,Pelicans,101 - 98,0,26,3,Jumper
+62,Jarrett Allen,OFFENSIVE_REBOUND,None,6:22,4,Nets,Pelicans,101 - 98,0,N/A,N/A,N/A
+63,Caris LeVert,FG_MISS,None,6:09,4,Nets,Pelicans,101 - 98,0,9,2,Jumper
+64,Anthony Davis,DEFENSIVE_REBOUND,None,6:05,4,Pelicans,Nets,101 - 98,1,N/A,N/A,N/A
+65,Caris LeVert,FOUL_ON_FLOOR,None,6:03,4,Nets,Pelicans,101 - 98,0,N/A,N/A,N/A
+66,Julius Randle,TURNOVER,Jarrett Allen,5:57,4,Pelicans,Nets,101 - 98,1,N/A,N/A,N/A
+67,Jared Dudley,FG_MISS,Solomon Hill,5:49,4,Pelicans,Nets,101 - 98,0,0,2,Layup
+68,Solomon Hill,DEFENSIVE_REBOUND,None,5:46,4,Pelicans,Nets,101 - 98,1,N/A,N/A,N/A
+69,E'Twaun Moore,FG_ASSISTED,Jrue Holiday,5:41,4,Pelicans,Nets,101 - 101,1,26,3,Jumper
+70,D'Angelo Russell,FG_ASSISTED,Jared Dudley,5:18,4,Nets,Pelicans,104 - 101,0,26,3,Jumper
+71,Jrue Holiday,FG_MISS,None,4:58,4,Pelicans,Nets,104 - 101,1,26,3,Jumper
+72,Joe Harris,DEFENSIVE_REBOUND,None,4:55,4,Nets,Pelicans,104 - 101,0,N/A,N/A,N/A
+73,E'Twaun Moore,FOUL_ON_FLOOR,None,4:44,4,Pelicans,Nets,104 - 101,1,N/A,N/A,N/A
+74,Spencer Dinwiddie,SUBSTITUTION,Harris Joe,4:44,4,Nets,Pelicans,104 - 101,0,N/A,N/A,N/A
+75,Caris LeVert,FG_ASSISTED,Jarrett Allen,4:42,4,Nets,Pelicans,106 - 101,0,0,2,Dunk
+76,Solomon Hill,FOUL_ON_FLOOR,None,4:42,4,Pelicans,Nets,106 - 101,1,N/A,N/A,N/A
+77,Caris LeVert,FT,None,4:42,4,Nets,Pelicans,107 - 101,0,N/A,1,N/A
+78,E'Twaun Moore,FG_MISS,None,4:31,4,Pelicans,Nets,107 - 101,1,26,3,Jumper
+79,Anthony Davis,OFFENSIVE_REBOUND,None,4:27,4,Pelicans,Nets,107 - 101,1,N/A,N/A,N/A
+80,Anthony Davis,FG_MISS,None,4:22,4,Pelicans,Nets,107 - 101,1,0,2,Layup
+81,E'Twaun Moore,OFFENSIVE_REBOUND,None,4:19,4,Pelicans,Nets,107 - 101,1,N/A,N/A,N/A
+82,Jared Dudley,FOUL_ON_FLOOR,None,4:19,4,Nets,Pelicans,107 - 101,0,N/A,N/A,N/A
+83,E'Twaun Moore,FT_MISS,None,4:19,4,Pelicans,Nets,107 - 101,1,N/A,1,N/A
+84,Team,OFFENSIVE_REBOUND,None,4:19,4,Pelicans,Nets,107 - 101,1,N/A,N/A,N/A
+85,E'Twaun Moore,FT,None,4:19,4,Pelicans,Nets,107 - 102,1,N/A,1,N/A
+86,E'Twaun Moore,FOUL_ON_FLOOR,None,4:08,4,Pelicans,Nets,107 - 102,1,N/A,N/A,N/A
+87,Jarrett Allen,FT_MISS,None,4:08,4,Nets,Pelicans,107 - 102,0,N/A,1,N/A
+88,Team,OFFENSIVE_REBOUND,None,4:08,4,Nets,Pelicans,107 - 102,0,N/A,N/A,N/A
+89,Jarrett Allen,FT,None,4:08,4,Nets,Pelicans,108 - 102,0,N/A,1,N/A
+90,Team,Unknown,None,4:05,4,Pelicans,Nets,108 - 102,1,N/A,N/A,N/A
+91,Elfrid Payton,SUBSTITUTION,Hill Solomon,4:05,4,Pelicans,Nets,108 - 102,1,N/A,N/A,N/A
+92,Julius Randle,FG_UNASSISTED,None,3:47,4,Pelicans,Nets,108 - 104,1,7,2,Jumper
+93,Jared Dudley,FG_ASSISTED,Jarrett Allen,3:31,4,Nets,Pelicans,111 - 104,0,24,3,Jumper
+94,Julius Randle,FG_ASSISTED,Elfrid Payton,3:13,4,Pelicans,Nets,111 - 106,1,0,2,Layup
+95,Team,Unknown,None,3:13,4,Nets,Pelicans,111 - 106,0,N/A,N/A,N/A
+96,Team,Unknown,None,3:13,4,Pelicans,Nets,111 - 106,1,N/A,N/A,N/A
+97,D'Angelo Russell,TURNOVER,Julius Randle,3:01,4,Nets,Pelicans,111 - 106,0,N/A,N/A,N/A
+98,Jrue Holiday,FG_MISS,Jared Dudley,2:58,4,Nets,Pelicans,111 - 106,1,0,2,Layup
+99,D'Angelo Russell,DEFENSIVE_REBOUND,None,2:58,4,Nets,Pelicans,111 - 106,0,N/A,N/A,N/A
+100,Team,Unknown,None,2:58,4,Nets,Pelicans,111 - 106,0,N/A,N/A,N/A
+101,Caris LeVert,FG_UNASSISTED,None,2:40,4,Nets,Pelicans,113 - 106,0,4,2,Jumper
+102,Elfrid Payton,FG_UNASSISTED,None,2:26,4,Pelicans,Nets,113 - 108,1,6,2,Jumper
+103,Caris LeVert,FG_UNASSISTED,None,2:04,4,Nets,Pelicans,115 - 108,0,1,2,Jumper
+104,Team,Unknown,None,1:57,4,Pelicans,Nets,115 - 108,1,N/A,N/A,N/A
+105,Nikola Mirotic,SUBSTITUTION,Payton Elfrid,1:57,4,Pelicans,Nets,115 - 108,1,N/A,N/A,N/A
+106,Solomon Hill,SUBSTITUTION,Randle Julius,1:57,4,Pelicans,Nets,115 - 108,1,N/A,N/A,N/A
+107,Jrue Holiday,FG_UNASSISTED,None,1:49,4,Pelicans,Nets,115 - 110,1,15,2,Jumper
+108,D'Angelo Russell,FG_MISS,None,1:28,4,Nets,Pelicans,115 - 110,0,25,3,Jumper
+109,Anthony Davis,DEFENSIVE_REBOUND,None,1:25,4,Pelicans,Nets,115 - 110,1,N/A,N/A,N/A
+110,Anthony Davis,FG_MISS,None,1:17,4,Pelicans,Nets,115 - 110,1,0,2,Layup
+111,Caris LeVert,DEFENSIVE_REBOUND,None,1:15,4,Nets,Pelicans,115 - 110,0,N/A,N/A,N/A
+112,Jarrett Allen,TURNOVER,None,56.5,4,Nets,Pelicans,115 - 110,0,N/A,N/A,N/A
+113,Jarrett Allen,TURNOVER,None,56.5,4,Nets,Pelicans,115 - 110,0,N/A,N/A,N/A
+114,Anthony Davis,FG_MISS,None,49.9,4,Pelicans,Nets,115 - 110,1,26,3,Jumper
+115,Team,OFFENSIVE_REBOUND,None,48.6,4,Pelicans,Nets,115 - 110,1,N/A,N/A,N/A
+116,Jared Dudley,FOUL_ON_FLOOR,None,48.6,4,Nets,Pelicans,115 - 110,0,N/A,N/A,N/A
+117,Nikola Mirotic,FT,None,48.6,4,Pelicans,Nets,115 - 111,1,N/A,1,N/A
+118,Nikola Mirotic,FT,None,48.6,4,Pelicans,Nets,115 - 112,1,N/A,1,N/A
+119,Caris LeVert,FG_MISS,None,26.7,4,Nets,Pelicans,115 - 112,0,26,3,Jumper
+120,Anthony Davis,DEFENSIVE_REBOUND,None,23.7,4,Pelicans,Nets,115 - 112,1,N/A,N/A,N/A
+121,Team,Unknown,None,23.7,4,Pelicans,Nets,115 - 112,1,N/A,N/A,N/A
+122,Joe Harris,SUBSTITUTION,Russell D'Angelo,23.7,4,Nets,Pelicans,115 - 112,0,N/A,N/A,N/A
+123,Jared Dudley,FOUL_ON_FLOOR,None,21.9,4,Nets,Pelicans,115 - 112,0,N/A,N/A,N/A
+124,Jrue Holiday,FT,None,21.9,4,Pelicans,Nets,115 - 113,1,N/A,1,N/A
+125,D'Angelo Russell,SUBSTITUTION,Harris Joe,21.9,4,Nets,Pelicans,115 - 113,0,N/A,N/A,N/A
+126,Jrue Holiday,FT,None,21.9,4,Pelicans,Nets,115 - 114,1,N/A,1,N/A
+127,D'Angelo Russell,TURNOVER,None,7.5,4,Nets,Pelicans,115 - 114,0,N/A,N/A,N/A
+128,Jrue Holiday,FG_UNASSISTED,None,2.0,4,Pelicans,Nets,115 - 116,1,17,2,Jumper
+129,Team,Unknown,None,2.0,4,Nets,Pelicans,115 - 116,0,N/A,N/A,N/A
+130,Wesley Johnson,SUBSTITUTION,Mirotic Nikola,2.0,4,Pelicans,Nets,115 - 116,1,N/A,N/A,N/A
+131,Ed Davis,FOUL_TECHNICAL,None,2.0,4,Nets,Pelicans,115 - 116,0,N/A,N/A,N/A
+132,Jrue Holiday,FT,None,2.0,4,Pelicans,Nets,115 - 117,1,N/A,1,N/A
+133,Joe Harris,SUBSTITUTION,Allen Jarrett,2.0,4,Nets,Pelicans,115 - 117,0,N/A,N/A,N/A
+134,Joe Harris,TURNOVER,Anthony Davis,0.0,4,Nets,Pelicans,115 - 117,0,N/A,N/A,N/A
+135,End of,Unknown,None,0.0,4,Pelicans,Nets,115 - 117,1,N/A,N/A,N/A
+136,End of,Unknown,None,0.0,4,Pelicans,Nets,115 - 117,1,N/A,N/A,N/A

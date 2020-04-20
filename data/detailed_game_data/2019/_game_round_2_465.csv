@@ -1,0 +1,517 @@
+,Player,Play Type,Secondary Player,Clock,Quarter,Team,Opponent,Score,Home?,Distance,Points,Shot Type
+0,Rudy Gobert,JUMP_BALL,None,12:00,1,Jazz,Kings,0 - 0,0,N/A,N/A,N/A
+1,Royce O'Neale,FG_MISS,None,11:35,1,Jazz,Kings,0 - 0,0,26,3,Jumper
+2,Nemanja Bjelica,DEFENSIVE_REBOUND,None,11:32,1,Kings,Jazz,0 - 0,1,N/A,N/A,N/A
+3,Nemanja Bjelica,FG_ASSISTED,De'Aaron Fox,11:25,1,Kings,Jazz,0 - 3,1,25,3,Jumper
+4,Bogdan Bogdanovic,FOUL_ON_FLOOR,None,11:16,1,Kings,Jazz,0 - 3,1,N/A,N/A,N/A
+5,Jae Crowder,FG_MISS,None,11:09,1,Jazz,Kings,0 - 3,0,25,3,Jumper
+6,Bogdan Bogdanovic,DEFENSIVE_REBOUND,None,11:06,1,Kings,Jazz,0 - 3,1,N/A,N/A,N/A
+7,Bogdan Bogdanovic,FG_UNASSISTED,None,11:01,1,Kings,Jazz,0 - 5,1,14,2,Jumper
+8,Royce O'Neale,TURNOVER,None,10:48,1,Jazz,Kings,0 - 5,0,N/A,N/A,N/A
+9,Bogdan Bogdanovic,FG_UNASSISTED,None,10:36,1,Kings,Jazz,0 - 7,1,18,2,Jumper
+10,shot clock,TURNOVER,None,10:08,1,Jazz,Kings,0 - 7,0,N/A,N/A,N/A
+11,De'Aaron Fox,TURNOVER,None,10:03,1,Kings,Jazz,0 - 7,1,N/A,N/A,N/A
+12,Ricky Rubio,TURNOVER,None,9:52,1,Jazz,Kings,0 - 7,0,N/A,N/A,N/A
+13,De'Aaron Fox,FG_MISS,None,9:43,1,Kings,Jazz,0 - 7,1,-,2,Jumper
+14,Buddy Hield,OFFENSIVE_REBOUND,None,9:40,1,Kings,Jazz,0 - 7,1,N/A,N/A,N/A
+15,Buddy Hield,FG_MISS,None,9:40,1,Kings,Jazz,0 - 7,1,-,2,Jumper
+16,Ricky Rubio,DEFENSIVE_REBOUND,None,9:39,1,Jazz,Kings,0 - 7,0,N/A,N/A,N/A
+17,Jae Crowder,FG_ASSISTED,Joe Ingles,9:35,1,Jazz,Kings,2 - 7,0,0,2,Layup
+18,Bogdan Bogdanovic,FG_MISS,None,9:23,1,Kings,Jazz,2 - 7,1,11,2,Jumper
+19,Rudy Gobert,DEFENSIVE_REBOUND,None,9:19,1,Jazz,Kings,2 - 7,0,N/A,N/A,N/A
+20,Ricky Rubio,FG_ASSISTED,Jae Crowder,9:14,1,Jazz,Kings,4 - 7,0,-,2,Jumper
+21,Nemanja Bjelica,FG_UNASSISTED,None,8:52,1,Kings,Jazz,4 - 9,1,-,2,Jumper
+22,Ricky Rubio,FG_UNASSISTED,None,8:29,1,Jazz,Kings,6 - 9,0,0,2,Layup
+23,Buddy Hield,FG_ASSISTED,Bogdan Bogdanovic,8:13,1,Kings,Jazz,6 - 11,1,0,2,Dunk
+24,Ricky Rubio,FG_ASSISTED,Rudy Gobert,7:48,1,Jazz,Kings,9 - 11,0,26,3,Jumper
+25,Willie Cauley-Stein,FG_MISS,None,7:32,1,Kings,Jazz,9 - 11,1,10,2,Jumper
+26,Rudy Gobert,DEFENSIVE_REBOUND,None,7:29,1,Jazz,Kings,9 - 11,0,N/A,N/A,N/A
+27,Ricky Rubio,FG_UNASSISTED,None,7:21,1,Jazz,Kings,11 - 11,0, ,2,Jumper
+28,Nemanja Bjelica,TURNOVER,None,7:20,1,Kings,Jazz,11 - 11,1,N/A,N/A,N/A
+29,Alec Burks,SUBSTITUTION,O'Neale Royce,7:20,1,Jazz,Kings,11 - 11,0,N/A,N/A,N/A
+30,Ricky Rubio,FG_MISS,None,7:03,1,Jazz,Kings,11 - 11,0, ,3,Jumper
+31,Willie Cauley-Stein,DEFENSIVE_REBOUND,None,7:01,1,Kings,Jazz,11 - 11,1,N/A,N/A,N/A
+32,Alec Burks,FOUL_ON_FLOOR,None,6:56,1,Jazz,Kings,11 - 11,0,N/A,N/A,N/A
+33,Team,Unknown,None,6:56,1,Kings,Jazz,11 - 11,1,N/A,N/A,N/A
+34,Frank Mason,SUBSTITUTION,Fox De'Aaron,6:56,1,Kings,Jazz,11 - 11,1,N/A,N/A,N/A
+35,Marvin Bagley,SUBSTITUTION,Bjelica Nemanja,6:56,1,Kings,Jazz,11 - 11,1,N/A,N/A,N/A
+36,Dante Exum,SUBSTITUTION,Ingles Joe,6:56,1,Jazz,Kings,11 - 11,0,N/A,N/A,N/A
+37,Derrick Favors,SUBSTITUTION,Crowder Jae,6:56,1,Jazz,Kings,11 - 11,0,N/A,N/A,N/A
+38,Buddy Hield,FG_UNASSISTED,None,6:43,1,Kings,Jazz,11 - 13,1,16,2,Jumper
+39,Buddy Hield,FOUL_ON_FLOOR,None,6:33,1,Kings,Jazz,11 - 13,1,N/A,N/A,N/A
+40,Dante Exum,FG_ASSISTED,Rudy Gobert,6:23,1,Jazz,Kings,13 - 13,0,0,2,Dunk
+41,Rudy Gobert,FOUL_ON_FLOOR,None,6:05,1,Jazz,Kings,13 - 13,0,N/A,N/A,N/A
+42,Bogdan Bogdanovic,FT,None,6:05,1,Kings,Jazz,13 - 14,1,N/A,1,N/A
+43,Bogdan Bogdanovic,FT,None,6:05,1,Kings,Jazz,13 - 15,1,N/A,1,N/A
+44,Alec Burks,FG_MISS,None,5:49,1,Jazz,Kings,13 - 15,0,25,3,Jumper
+45,Rudy Gobert,OFFENSIVE_REBOUND,None,5:47,1,Jazz,Kings,13 - 15,0,N/A,N/A,N/A
+46,Rudy Gobert,FG_MISS,None,5:46,1,Jazz,Kings,13 - 15,0,0,2,Layup
+47,Derrick Favors,OFFENSIVE_REBOUND,None,5:46,1,Jazz,Kings,13 - 15,0,N/A,N/A,N/A
+48,Derrick Favors,FG_MISS,None,5:46,1,Jazz,Kings,13 - 15,0, ,2,Jumper
+49,Rudy Gobert,OFFENSIVE_REBOUND,None,5:46,1,Jazz,Kings,13 - 15,0,N/A,N/A,N/A
+50,Willie Cauley-Stein,FOUL_ON_FLOOR,None,5:46,1,Kings,Jazz,13 - 15,1,N/A,N/A,N/A
+51,Rudy Gobert,FT,None,5:46,1,Jazz,Kings,14 - 15,0,N/A,1,N/A
+52,Rudy Gobert,FT_MISS,None,5:46,1,Jazz,Kings,14 - 15,0,N/A,1,N/A
+53,Willie Cauley-Stein,DEFENSIVE_REBOUND,None,5:41,1,Kings,Jazz,14 - 15,1,N/A,N/A,N/A
+54,Willie Cauley-Stein,FG_ASSISTED,ason III,5:29,1,Kings,Jazz,14 - 17,1,6,2,Jumper
+55,Ricky Rubio,FG_ASSISTED,Rudy Gobert,5:17,1,Jazz,Kings,17 - 17,0,25,3,Jumper
+56,Bogdan Bogdanovic,FG_UNASSISTED,None,5:04,1,Kings,Jazz,17 - 19,1,3,2,Jumper
+57,Rudy Gobert,FG_ASSISTED,Derrick Favors,4:46,1,Jazz,Kings,19 - 19,0,0,2,Dunk
+58,Willie Cauley-Stein,TURNOVER,None,4:27,1,Kings,Jazz,19 - 19,1,N/A,N/A,N/A
+59,Harry Giles,SUBSTITUTION,Cauley-Stein Willie,4:27,1,Kings,Jazz,19 - 19,1,N/A,N/A,N/A
+60,Jae Crowder,SUBSTITUTION,Gobert Rudy,4:27,1,Jazz,Kings,19 - 19,0,N/A,N/A,N/A
+61,Ricky Rubio,FG_UNASSISTED,None,4:15,1,Jazz,Kings,21 - 19,0,0,2,Layup
+62,Team,Unknown,None,4:15,1,Kings,Jazz,19 - 19,1,N/A,N/A,N/A
+63,Buddy Hield,FG_ASSISTED,ason III,4:01,1,Kings,Jazz,21 - 22,1,25,3,Jumper
+64,Ricky Rubio,FG_UNASSISTED,None,3:45,1,Jazz,Kings,23 - 22,0,15,2,Jumper
+65,Buddy Hield,TURNOVER,Derrick Favors,3:32,1,Kings,Jazz,23 - 22,1,N/A,N/A,N/A
+66,Alec Burks,TURNOVER,Harry Giles,3:27,1,Jazz,Kings,23 - 22,0,N/A,N/A,N/A
+67,Buddy Hield,FG_ASSISTED,Bogdan Bogdanovic,3:23,1,Kings,Jazz,23 - 25,1,25,3,Jumper
+68,Team,Unknown,None,3:21,1,Jazz,Kings,23 - 25,0,N/A,N/A,N/A
+69,De'Aaron Fox,SUBSTITUTION,Bogdanovic Bogdan,3:21,1,Kings,Jazz,23 - 25,1,N/A,N/A,N/A
+70,Justin Jackson,SUBSTITUTION,III Mason,3:21,1,Kings,Jazz,23 - 25,1,N/A,N/A,N/A
+71,Joe Ingles,SUBSTITUTION,Rubio Ricky,3:21,1,Jazz,Kings,23 - 25,0,N/A,N/A,N/A
+72,Raul Neto,SUBSTITUTION,Burks Alec,3:21,1,Jazz,Kings,23 - 25,0,N/A,N/A,N/A
+73,Jae Crowder,FG_MISS,None,2:58,1,Jazz,Kings,23 - 25,0,25,3,Jumper
+74,Justin Jackson,DEFENSIVE_REBOUND,None,2:56,1,Kings,Jazz,23 - 25,1,N/A,N/A,N/A
+75,Harry Giles,FG_MISS,None,2:45,1,Kings,Jazz,23 - 25,1, ,2,Jumper
+76,Jae Crowder,DEFENSIVE_REBOUND,None,2:43,1,Jazz,Kings,23 - 25,0,N/A,N/A,N/A
+77,Derrick Favors,TURNOVER,De'Aaron Fox,2:33,1,Jazz,Kings,23 - 25,0,N/A,N/A,N/A
+78,Harry Giles,TURNOVER,Joe Ingles,2:30,1,Kings,Jazz,23 - 25,1,N/A,N/A,N/A
+79,Jae Crowder,FG_ASSISTED,Joe Ingles,2:26,1,Jazz,Kings,25 - 25,0,0,2,Layup
+80,Harry Giles,FOUL_ON_FLOOR,None,2:26,1,Kings,Jazz,25 - 25,1,N/A,N/A,N/A
+81,Jae Crowder,FT,None,2:26,1,Jazz,Kings,26 - 25,0,N/A,1,N/A
+82,Derrick Favors,FOUL_ON_FLOOR,None,2:10,1,Jazz,Kings,26 - 25,0,N/A,N/A,N/A
+83,Harry Giles,FG_MISS,Derrick Favors,2:04,1,Jazz,Kings,26 - 25,1,0,2,Dunk
+84,Raul Neto,DEFENSIVE_REBOUND,None,2:01,1,Jazz,Kings,26 - 25,0,N/A,N/A,N/A
+85,Dante Exum,FG_ASSISTED,Jae Crowder,1:55,1,Jazz,Kings,28 - 25,0,0,2,Layup
+86,Marvin Bagley,FG_MISS,None,1:41,1,Kings,Jazz,28 - 25,1,26,3,Jumper
+87,Harry Giles,OFFENSIVE_REBOUND,None,1:36,1,Kings,Jazz,28 - 25,1,N/A,N/A,N/A
+88,Harry Giles,FG_MISS,None,1:36,1,Kings,Jazz,28 - 25,1, ,2,Jumper
+89,Raul Neto,DEFENSIVE_REBOUND,None,1:36,1,Jazz,Kings,28 - 25,0,N/A,N/A,N/A
+90,Raul Neto,TURNOVER,Harry Giles,1:18,1,Jazz,Kings,28 - 25,0,N/A,N/A,N/A
+91,Raul Neto,FOUL_ON_FLOOR,None,1:01,1,Jazz,Kings,28 - 25,0,N/A,N/A,N/A
+92,Willie Cauley-Stein,SUBSTITUTION,Giles Harry,1:01,1,Kings,Jazz,28 - 25,1,N/A,N/A,N/A
+93,Royce O'Neale,SUBSTITUTION,Exum Dante,1:01,1,Jazz,Kings,28 - 25,0,N/A,N/A,N/A
+94,Willie Cauley-Stein,FG_MISS,Derrick Favors,55.4,1,Jazz,Kings,28 - 25,1,0,2,Layup
+95,Team,DEFENSIVE_REBOUND,None,55.4,1,Jazz,Kings,28 - 25,0,N/A,N/A,N/A
+96,Dante Exum,SUBSTITUTION,Neto Raul,55.4,1,Jazz,Kings,28 - 25,0,N/A,N/A,N/A
+97,Derrick Favors,JUMP_BALL,None,52.7,1,Jazz,Kings,28 - 25,0,N/A,N/A,N/A
+98,Jae Crowder,FG_ASSISTED,Joe Ingles,39.6,1,Jazz,Kings,30 - 25,0,7,2,Jumper
+99,Royce O'Neale,FOUL_ON_FLOOR,None,31.9,1,Jazz,Kings,30 - 25,0,N/A,N/A,N/A
+100,Marvin Bagley,FT_MISS,None,31.9,1,Kings,Jazz,30 - 25,1,N/A,1,N/A
+101,Team,OFFENSIVE_REBOUND,None,31.9,1,Kings,Jazz,30 - 25,1,N/A,N/A,N/A
+102,Marvin Bagley,FT,None,31.9,1,Kings,Jazz,30 - 26,1,N/A,1,N/A
+103,Royce O'Neale,FG_MISS,None,18.0,1,Jazz,Kings,30 - 26,0,0,2,Layup
+104,Royce O'Neale,OFFENSIVE_REBOUND,None,15.5,1,Jazz,Kings,30 - 26,0,N/A,N/A,N/A
+105,Dante Exum,FG_MISS,None,11.3,1,Jazz,Kings,30 - 26,0,0,2,Layup
+106,Willie Cauley-Stein,DEFENSIVE_REBOUND,None,8.6,1,Kings,Jazz,30 - 26,1,N/A,N/A,N/A
+107,De'Aaron Fox,TURNOVER,Derrick Favors,3.8,1,Kings,Jazz,30 - 26,1,N/A,N/A,N/A
+108,Joe Ingles,TURNOVER,None,1.0,1,Jazz,Kings,30 - 26,0,N/A,N/A,N/A
+109,End of,Unknown,None,0.0,1,Kings,Jazz,30 - 26,1,N/A,N/A,N/A
+0,Bogdan Bogdanovic,SUBSTITUTION,Hield Buddy,12:00,2,Kings,Jazz,30 - 26,1,N/A,N/A,N/A
+1,Raul Neto,SUBSTITUTION,O'Neale Royce,12:00,2,Jazz,Kings,30 - 26,0,N/A,N/A,N/A
+2,De'Aaron Fox,FG_UNASSISTED,None,11:46,2,Kings,Jazz,30 - 28,1,0,2,Layup
+3,Dante Exum,FG_MISS,None,11:37,2,Jazz,Kings,30 - 28,0,0,2,Layup
+4,Marvin Bagley,DEFENSIVE_REBOUND,None,11:35,2,Kings,Jazz,30 - 28,1,N/A,N/A,N/A
+5,Dante Exum,FOUL_ON_FLOOR,None,11:32,2,Jazz,Kings,30 - 28,0,N/A,N/A,N/A
+6,Bogdan Bogdanovic,TURNOVER,Dante Exum,11:26,2,Kings,Jazz,30 - 28,1,N/A,N/A,N/A
+7,Jae Crowder,FG_ASSISTED,Dante Exum,11:17,2,Jazz,Kings,32 - 28,0,21,2,Jumper
+8,Bogdan Bogdanovic,FG_MISS,None,11:01,2,Kings,Jazz,32 - 28,1,0,2,Layup
+9,Bogdan Bogdanovic,OFFENSIVE_REBOUND,None,11:00,2,Kings,Jazz,32 - 28,1,N/A,N/A,N/A
+10,Joe Ingles,FOUL_ON_FLOOR,None,11:00,2,Jazz,Kings,32 - 28,0,N/A,N/A,N/A
+11,Marvin Bagley,FT_MISS,None,11:00,2,Kings,Jazz,32 - 28,1,N/A,1,N/A
+12,Team,OFFENSIVE_REBOUND,None,11:00,2,Kings,Jazz,32 - 28,1,N/A,N/A,N/A
+13,Marvin Bagley,FT,None,11:00,2,Kings,Jazz,32 - 29,1,N/A,1,N/A
+14,Derrick Favors,TURNOVER,Bogdan Bogdanovic,10:43,2,Jazz,Kings,32 - 29,0,N/A,N/A,N/A
+15,Dante Exum,FOUL_ON_FLOOR,None,10:41,2,Jazz,Kings,32 - 29,0,N/A,N/A,N/A
+16,Nemanja Bjelica,SUBSTITUTION,III Bagley,10:41,2,Kings,Jazz,32 - 29,1,N/A,N/A,N/A
+17,Thabo Sefolosha,SUBSTITUTION,Exum Dante,10:41,2,Jazz,Kings,32 - 29,0,N/A,N/A,N/A
+18,Alec Burks,SUBSTITUTION,Crowder Jae,10:41,2,Jazz,Kings,32 - 29,0,N/A,N/A,N/A
+19,De'Aaron Fox,FG_MISS,None,10:27,2,Kings,Jazz,32 - 29,1,12,2,Jumper
+20,Derrick Favors,DEFENSIVE_REBOUND,None,10:24,2,Jazz,Kings,32 - 29,0,N/A,N/A,N/A
+21,Alec Burks,TURNOVER,None,10:13,2,Jazz,Kings,32 - 29,0,N/A,N/A,N/A
+22,Bogdan Bogdanovic,FG_ASSISTED,De'Aaron Fox,10:02,2,Kings,Jazz,32 - 32,1,25,3,Jumper
+23,Raul Neto,FG_MISS,De'Aaron Fox,9:54,2,Kings,Jazz,32 - 32,0,0,2,Layup
+24,Derrick Favors,OFFENSIVE_REBOUND,None,9:50,2,Jazz,Kings,32 - 32,0,N/A,N/A,N/A
+25,Alec Burks,FG_ASSISTED,Derrick Favors,9:48,2,Jazz,Kings,34 - 32,0,0,2,Layup
+26,Bogdan Bogdanovic,FG_MISS,None,9:36,2,Kings,Jazz,34 - 32,1,27,3,Jumper
+27,Derrick Favors,DEFENSIVE_REBOUND,None,9:34,2,Jazz,Kings,34 - 32,0,N/A,N/A,N/A
+28,Joe Ingles,FG_UNASSISTED,None,9:26,2,Jazz,Kings,36 - 32,0,0,2,Layup
+29,Nemanja Bjelica,TURNOVER,None,9:16,2,Kings,Jazz,36 - 32,1,N/A,N/A,N/A
+30,Joe Ingles,FG_UNASSISTED,None,8:57,2,Jazz,Kings,38 - 32,0,2,2,Jumper
+31,Team,Unknown,None,8:57,2,Kings,Jazz,38 - 32,1,N/A,N/A,N/A
+32,Ricky Rubio,SUBSTITUTION,Ingles Joe,8:57,2,Jazz,Kings,38 - 32,0,N/A,N/A,N/A
+33,Royce O'Neale,SUBSTITUTION,Neto Raul,8:57,2,Jazz,Kings,38 - 32,0,N/A,N/A,N/A
+34,Nemanja Bjelica,FG_ASSISTED,Willie Cauley-Stein,8:47,2,Kings,Jazz,38 - 34,1,0,2,Layup
+35,Royce O'Neale,FG_MISS,None,8:26,2,Jazz,Kings,38 - 34,0,22,3,Jumper
+36,Justin Jackson,DEFENSIVE_REBOUND,None,8:22,2,Kings,Jazz,38 - 34,1,N/A,N/A,N/A
+37,De'Aaron Fox,FG_UNASSISTED,None,8:07,2,Kings,Jazz,38 - 37,1,26,3,Jumper
+38,Derrick Favors,FG_MISS,None,7:44,2,Jazz,Kings,38 - 37,0,4,2,Jumper
+39,Derrick Favors,OFFENSIVE_REBOUND,None,7:42,2,Jazz,Kings,38 - 37,0,N/A,N/A,N/A
+40,Alec Burks,FG_MISS,None,7:39,2,Jazz,Kings,38 - 37,0, ,3,Jumper
+41,Nemanja Bjelica,DEFENSIVE_REBOUND,None,7:37,2,Kings,Jazz,38 - 37,1,N/A,N/A,N/A
+42,Nemanja Bjelica,FG_UNASSISTED,None,7:29,2,Kings,Jazz,38 - 39,1,0,2,Layup
+43,Thabo Sefolosha,FOUL_ON_FLOOR,None,7:29,2,Jazz,Kings,38 - 39,0,N/A,N/A,N/A
+44,Nemanja Bjelica,FOUL_TECHNICAL,None,7:29,2,Kings,Jazz,38 - 39,1,N/A,N/A,N/A
+45,Ricky Rubio,FT,None,7:29,2,Jazz,Kings,39 - 39,0,N/A,1,N/A
+46,Nemanja Bjelica,FT,None,7:29,2,Kings,Jazz,39 - 40,1,N/A,1,N/A
+47,Rudy Gobert,SUBSTITUTION,Favors Derrick,7:29,2,Jazz,Kings,39 - 40,0,N/A,N/A,N/A
+48,Royce O'Neale,FG_ASSISTED,Alec Burks,7:12,2,Jazz,Kings,41 - 40,0,0,2,Dunk
+49,Grayson Allen,SUBSTITUTION,Burks Alec,6:54,2,Jazz,Kings,41 - 40,0,N/A,N/A,N/A
+50,De'Aaron Fox,FG_MISS,None,6:50,2,Kings,Jazz,41 - 40,1,23,3,Jumper
+51,Rudy Gobert,DEFENSIVE_REBOUND,None,6:44,2,Jazz,Kings,41 - 40,0,N/A,N/A,N/A
+52,Buddy Hield,SUBSTITUTION,Jackson Justin,6:33,2,Kings,Jazz,41 - 40,1,N/A,N/A,N/A
+53,Ricky Rubio,FG_ASSISTED,Rudy Gobert,6:25,2,Jazz,Kings,43 - 40,0,21,2,Jumper
+54,Ricky Rubio,FOUL_ON_FLOOR,None,6:15,2,Jazz,Kings,43 - 40,0,N/A,N/A,N/A
+55,Bogdan Bogdanovic,FT,None,6:15,2,Kings,Jazz,43 - 41,1,N/A,1,N/A
+56,Marvin Bagley,SUBSTITUTION,Bjelica Nemanja,6:15,2,Kings,Jazz,43 - 41,1,N/A,N/A,N/A
+57,Bogdan Bogdanovic,FT,None,6:15,2,Kings,Jazz,43 - 42,1,N/A,1,N/A
+58,Ricky Rubio,FG_UNASSISTED,None,6:08,2,Jazz,Kings,45 - 42,0,0,2,Layup
+59,Marvin Bagley,FOUL_ON_FLOOR,None,6:00,2,Kings,Jazz,45 - 42,1,N/A,N/A,N/A
+60,Marvin Bagley,TURNOVER,None,6:00,2,Kings,Jazz,45 - 42,1,N/A,N/A,N/A
+61,Frank Mason,SUBSTITUTION,Fox De'Aaron,6:00,2,Kings,Jazz,45 - 42,1,N/A,N/A,N/A
+62,Jae Crowder,SUBSTITUTION,for game,6:00,2,Jazz,Kings,45 - 42,0,N/A,N/A,N/A
+63,enters the,SUBSTITUTION,Sefolosha Thabo,6:00,2,Jazz,Kings,45 - 42,0,N/A,N/A,N/A
+64,Ricky Rubio,FG_MISS,None,5:49,2,Jazz,Kings,45 - 42,0,20,2,Jumper
+65,Marvin Bagley,DEFENSIVE_REBOUND,None,5:46,2,Kings,Jazz,45 - 42,1,N/A,N/A,N/A
+66,Buddy Hield,FG_MISS,None,5:42,2,Kings,Jazz,45 - 42,1,26,3,Jumper
+67,Rudy Gobert,DEFENSIVE_REBOUND,None,5:37,2,Jazz,Kings,45 - 42,0,N/A,N/A,N/A
+68,Grayson Allen,FG_MISS,None,5:31,2,Jazz,Kings,45 - 42,0,26,3,Jumper
+69,Bogdan Bogdanovic,DEFENSIVE_REBOUND,None,5:31,2,Kings,Jazz,45 - 42,1,N/A,N/A,N/A
+70,Willie Cauley-Stein,FG_MISS,None,5:16,2,Kings,Jazz,45 - 42,1,0,2,Layup
+71,Team,OFFENSIVE_REBOUND,None,5:16,2,Kings,Jazz,45 - 42,1,N/A,N/A,N/A
+72,Jae Crowder,FOUL_ON_FLOOR,None,5:16,2,Jazz,Kings,45 - 42,0,N/A,N/A,N/A
+73,Marvin Bagley,FT,None,5:16,2,Kings,Jazz,45 - 43,1,N/A,1,N/A
+74,Marvin Bagley,FT,None,5:16,2,Kings,Jazz,45 - 44,1,N/A,1,N/A
+75,Jae Crowder,FG_ASSISTED,Ricky Rubio,5:03,2,Jazz,Kings,48 - 44,0, ,3,Jumper
+76,Willie Cauley-Stein,FG_MISS,None,4:45,2,Kings,Jazz,48 - 44,1,9,2,Jumper
+77,Rudy Gobert,DEFENSIVE_REBOUND,None,4:42,2,Jazz,Kings,48 - 44,0,N/A,N/A,N/A
+78,Grayson Allen,FG_ASSISTED,Ricky Rubio,4:34,2,Jazz,Kings,51 - 44,0, ,3,Jumper
+79,Buddy Hield,TURNOVER,Rudy Gobert,4:23,2,Kings,Jazz,51 - 44,1,N/A,N/A,N/A
+80,Royce O'Neale,FG_MISS,None,4:19,2,Jazz,Kings,51 - 44,0, ,2,Jumper
+81,Rudy Gobert,OFFENSIVE_REBOUND,None,4:18,2,Jazz,Kings,51 - 44,0,N/A,N/A,N/A
+82,Rudy Gobert,FG_UNASSISTED,None,4:18,2,Jazz,Kings,53 - 44,0,0,2,Dunk
+83,Team,Unknown,None,4:18,2,Kings,Jazz,53 - 44,1,N/A,N/A,N/A
+84,Bogdan Bogdanovic,FG_ASSISTED,Willie Cauley-Stein,4:06,2,Kings,Jazz,53 - 46,1,0,2,Layup
+85,Willie Cauley-Stein,FOUL_ON_FLOOR,None,3:54,2,Kings,Jazz,53 - 46,1,N/A,N/A,N/A
+86,Buddy Hield,FOUL_ON_FLOOR,None,3:46,2,Kings,Jazz,53 - 46,1,N/A,N/A,N/A
+87,Grayson Allen,FT_MISS,None,3:46,2,Jazz,Kings,53 - 46,0,N/A,1,N/A
+88,Team,OFFENSIVE_REBOUND,None,3:46,2,Jazz,Kings,53 - 46,0,N/A,N/A,N/A
+89,Nemanja Bjelica,SUBSTITUTION,Cauley-Stein Willie,3:46,2,Kings,Jazz,53 - 46,1,N/A,N/A,N/A
+90,Joe Ingles,SUBSTITUTION,O'Neale Royce,3:46,2,Jazz,Kings,53 - 46,0,N/A,N/A,N/A
+91,Grayson Allen,FT_MISS,None,3:46,2,Jazz,Kings,53 - 46,0,N/A,1,N/A
+92,Marvin Bagley,DEFENSIVE_REBOUND,None,3:42,2,Kings,Jazz,53 - 46,1,N/A,N/A,N/A
+93,Bogdan Bogdanovic,FG_MISS,None,3:26,2,Kings,Jazz,53 - 46,1,23,3,Jumper
+94,Jae Crowder,DEFENSIVE_REBOUND,None,3:23,2,Jazz,Kings,53 - 46,0,N/A,N/A,N/A
+95,Jae Crowder,FG_MISS,None,3:07,2,Jazz,Kings,53 - 46,0,26,3,Jumper
+96,Team,OFFENSIVE_REBOUND,None,3:07,2,Jazz,Kings,53 - 46,0,N/A,N/A,N/A
+97,Nemanja Bjelica,FOUL_ON_FLOOR,None,3:07,2,Kings,Jazz,53 - 46,1,N/A,N/A,N/A
+98,Dante Exum,SUBSTITUTION,Allen Grayson,3:07,2,Jazz,Kings,53 - 46,0,N/A,N/A,N/A
+99,Ricky Rubio,TURNOVER,None,3:00,2,Jazz,Kings,53 - 46,0,N/A,N/A,N/A
+100,Bogdan Bogdanovic,FG_MISS,None,2:43,2,Kings,Jazz,53 - 46,1,17,2,Jumper
+101,Jae Crowder,DEFENSIVE_REBOUND,None,2:38,2,Jazz,Kings,53 - 46,0,N/A,N/A,N/A
+102,Dante Exum,FG_MISS,None,2:24,2,Jazz,Kings,53 - 46,0,0,2,Layup
+103,Nemanja Bjelica,DEFENSIVE_REBOUND,None,2:21,2,Kings,Jazz,53 - 46,1,N/A,N/A,N/A
+104,Nemanja Bjelica,TURNOVER,Joe Ingles,2:14,2,Kings,Jazz,53 - 46,1,N/A,N/A,N/A
+105,Rudy Gobert,FOUL_ON_FLOOR,None,2:05,2,Jazz,Kings,53 - 46,0,N/A,N/A,N/A
+106,Rudy Gobert,TURNOVER,None,2:05,2,Jazz,Kings,53 - 46,0,N/A,N/A,N/A
+107,Marvin Bagley,FG_UNASSISTED,None,1:49,2,Kings,Jazz,53 - 48,1,0,2,Layup
+108,Rudy Gobert,FG_ASSISTED,Ricky Rubio,1:37,2,Jazz,Kings,55 - 48,0,0,2,Dunk
+109,Frank Mason,FG_UNASSISTED,None,1:21,2,Kings,Jazz,55 - 50,1,6,2,Jumper
+110,Ricky Rubio,FG_UNASSISTED,None,1:15,2,Jazz,Kings,57 - 50,0,0,2,Layup
+111,Buddy Hield,TURNOVER,None,1:00,2,Kings,Jazz,57 - 50,1,N/A,N/A,N/A
+112,blocks Jae,FG_MISS,Marvin Bagley,44.8,2,Kings,Jazz,57 - 50,0,10,2,Jumper
+113,Nemanja Bjelica,DEFENSIVE_REBOUND,None,42.2,2,Kings,Jazz,57 - 50,1,N/A,N/A,N/A
+114,Frank Mason,FG_MISS,None,39.8,2,Kings,Jazz,57 - 50,1,26,3,Jumper
+115,Ricky Rubio,DEFENSIVE_REBOUND,None,36.6,2,Jazz,Kings,57 - 50,0,N/A,N/A,N/A
+116,Buddy Hield,FOUL_ON_FLOOR,None,36.6,2,Kings,Jazz,57 - 50,1,N/A,N/A,N/A
+117,Bogdan Bogdanovic,FOUL_ON_FLOOR,None,33.2,2,Kings,Jazz,57 - 50,1,N/A,N/A,N/A
+118,Joe Ingles,FT,None,33.2,2,Jazz,Kings,58 - 50,0,N/A,1,N/A
+119,Derrick Favors,SUBSTITUTION,Gobert Rudy,33.2,2,Jazz,Kings,58 - 50,0,N/A,N/A,N/A
+120,Joe Ingles,FT,None,33.2,2,Jazz,Kings,59 - 50,0,N/A,1,N/A
+121,Buddy Hield,FG_MISS,None,27.0,2,Kings,Jazz,59 - 50,1,26,3,Jumper
+122,Jae Crowder,DEFENSIVE_REBOUND,None,25.5,2,Jazz,Kings,59 - 50,0,N/A,N/A,N/A
+123,Joe Ingles,FG_MISS,None,2.9,2,Jazz,Kings,59 - 50,0,26,3,Jumper
+124,Buddy Hield,DEFENSIVE_REBOUND,None,2.9,2,Kings,Jazz,59 - 50,1,N/A,N/A,N/A
+125,End of,Unknown,None,0.0,2,Kings,Jazz,59 - 50,1,N/A,N/A,N/A
+0,Willie Cauley-Stein,SUBSTITUTION,III Mason,12:00,3,Kings,Jazz,59 - 50,1,N/A,N/A,N/A
+1,De'Aaron Fox,SUBSTITUTION,III Bagley,12:00,3,Kings,Jazz,59 - 50,1,N/A,N/A,N/A
+2,Rudy Gobert,SUBSTITUTION,Exum Dante,12:00,3,Jazz,Kings,59 - 50,0,N/A,N/A,N/A
+3,Royce O'Neale,SUBSTITUTION,Favors Derrick,12:00,3,Jazz,Kings,59 - 50,0,N/A,N/A,N/A
+4,Bogdan Bogdanovic,FG_MISS,None,11:44,3,Kings,Jazz,59 - 50,1,22,2,Jumper
+5,Rudy Gobert,DEFENSIVE_REBOUND,None,11:41,3,Jazz,Kings,59 - 50,0,N/A,N/A,N/A
+6,Jae Crowder,FG_MISS,None,11:29,3,Jazz,Kings,59 - 50,0,26,3,Jumper
+7,Willie Cauley-Stein,DEFENSIVE_REBOUND,None,11:25,3,Kings,Jazz,59 - 50,1,N/A,N/A,N/A
+8,De'Aaron Fox,FG_MISS,None,11:22,3,Kings,Jazz,59 - 50,1,22,2,Jumper
+9,Ricky Rubio,DEFENSIVE_REBOUND,None,11:19,3,Jazz,Kings,59 - 50,0,N/A,N/A,N/A
+10,Jae Crowder,FG_MISS,None,11:15,3,Jazz,Kings,59 - 50,0,0,2,Layup
+11,Rudy Gobert,OFFENSIVE_REBOUND,None,11:15,3,Jazz,Kings,59 - 50,0,N/A,N/A,N/A
+12,Rudy Gobert,FG_MISS,None,11:13,3,Jazz,Kings,59 - 50,0, ,2,Jumper
+13,Rudy Gobert,OFFENSIVE_REBOUND,None,11:13,3,Jazz,Kings,59 - 50,0,N/A,N/A,N/A
+14,Nemanja Bjelica,FOUL_ON_FLOOR,None,11:13,3,Kings,Jazz,59 - 50,1,N/A,N/A,N/A
+15,Rudy Gobert,FT_MISS,None,11:13,3,Jazz,Kings,59 - 50,0,N/A,1,N/A
+16,Team,OFFENSIVE_REBOUND,None,11:13,3,Jazz,Kings,59 - 50,0,N/A,N/A,N/A
+17,Rudy Gobert,FT,None,11:13,3,Jazz,Kings,60 - 50,0,N/A,1,N/A
+18,Bogdan Bogdanovic,FG_MISS,None,11:00,3,Kings,Jazz,60 - 50,1, ,3,Jumper
+19,Joe Ingles,DEFENSIVE_REBOUND,None,10:54,3,Jazz,Kings,60 - 50,0,N/A,N/A,N/A
+20,Ricky Rubio,FG_MISS,Willie Cauley-Stein,10:49,3,Kings,Jazz,60 - 50,0,12,2,Jumper
+21,De'Aaron Fox,DEFENSIVE_REBOUND,None,10:47,3,Kings,Jazz,60 - 50,1,N/A,N/A,N/A
+22,Ricky Rubio,FOUL_ON_FLOOR,None,10:39,3,Jazz,Kings,60 - 50,0,N/A,N/A,N/A
+23,De'Aaron Fox,FT_MISS,None,10:39,3,Kings,Jazz,60 - 50,1,N/A,1,N/A
+24,Team,OFFENSIVE_REBOUND,None,10:39,3,Kings,Jazz,60 - 50,1,N/A,N/A,N/A
+25,De'Aaron Fox,FT,None,10:39,3,Kings,Jazz,60 - 51,1,N/A,1,N/A
+26,Jae Crowder,FG_ASSISTED,Joe Ingles,10:22,3,Jazz,Kings,62 - 51,0,0,2,Layup
+27,Joe Ingles,FOUL_ON_FLOOR,None,10:13,3,Jazz,Kings,62 - 51,0,N/A,N/A,N/A
+28,Nemanja Bjelica,FT,None,10:13,3,Kings,Jazz,62 - 52,1,N/A,1,N/A
+29,Nemanja Bjelica,FT,None,10:13,3,Kings,Jazz,62 - 53,1,N/A,1,N/A
+30,Willie Cauley-Stein,FOUL_ON_FLOOR,None,9:58,3,Kings,Jazz,62 - 53,1,N/A,N/A,N/A
+31,Rudy Gobert,FT,None,9:58,3,Jazz,Kings,63 - 53,0,N/A,1,N/A
+32,Rudy Gobert,FT,None,9:58,3,Jazz,Kings,64 - 53,0,N/A,1,N/A
+33,Rudy Gobert,FOUL_ON_FLOOR,None,9:50,3,Jazz,Kings,64 - 53,0,N/A,N/A,N/A
+34,Willie Cauley-Stein,FT,None,9:50,3,Kings,Jazz,64 - 54,1,N/A,1,N/A
+35,Willie Cauley-Stein,FT,None,9:50,3,Kings,Jazz,64 - 55,1,N/A,1,N/A
+36,Ricky Rubio,TURNOVER,Nemanja Bjelica,9:43,3,Jazz,Kings,64 - 55,0,N/A,N/A,N/A
+37,De'Aaron Fox,FG_UNASSISTED,None,9:38,3,Kings,Jazz,64 - 57,1, ,2,Jumper
+38,Team,Unknown,None,9:37,3,Jazz,Kings,64 - 57,0,N/A,N/A,N/A
+39,Jae Crowder,FG_MISS,None,9:16,3,Jazz,Kings,64 - 57,0,25,3,Jumper
+40,De'Aaron Fox,DEFENSIVE_REBOUND,None,9:12,3,Kings,Jazz,64 - 57,1,N/A,N/A,N/A
+41,De'Aaron Fox,FG_MISS,None,8:59,3,Kings,Jazz,64 - 57,1,10,2,Jumper
+42,Rudy Gobert,DEFENSIVE_REBOUND,None,8:56,3,Jazz,Kings,64 - 57,0,N/A,N/A,N/A
+43,Rudy Gobert,FG_ASSISTED,Ricky Rubio,8:46,3,Jazz,Kings,66 - 57,0,0,2,Dunk
+44,Joe Ingles,FOUL_ON_FLOOR,None,8:37,3,Jazz,Kings,66 - 57,0,N/A,N/A,N/A
+45,Dante Exum,SUBSTITUTION,O'Neale Royce,8:37,3,Jazz,Kings,66 - 57,0,N/A,N/A,N/A
+46,Willie Cauley-Stein,FG_ASSISTED,Bogdan Bogdanovic,8:24,3,Kings,Jazz,66 - 59,1,0,2,Dunk
+47,Bogdan Bogdanovic,FOUL_ON_FLOOR,None,8:09,3,Kings,Jazz,66 - 59,1,N/A,N/A,N/A
+48,Ricky Rubio,FG_MISS,None,8:01,3,Jazz,Kings,66 - 59,0,18,2,Jumper
+49,Nemanja Bjelica,DEFENSIVE_REBOUND,None,8:01,3,Kings,Jazz,66 - 59,1,N/A,N/A,N/A
+50,Ricky Rubio,FOUL_ON_FLOOR,None,7:55,3,Jazz,Kings,66 - 59,0,N/A,N/A,N/A
+51,De'Aaron Fox,FT_MISS,None,7:55,3,Kings,Jazz,66 - 59,1,N/A,1,N/A
+52,Team,OFFENSIVE_REBOUND,None,7:55,3,Kings,Jazz,66 - 59,1,N/A,N/A,N/A
+53,De'Aaron Fox,FT,None,7:55,3,Kings,Jazz,66 - 60,1,N/A,1,N/A
+54,Justin Jackson,SUBSTITUTION,Hield Buddy,7:36,3,Kings,Jazz,66 - 60,1,N/A,N/A,N/A
+55,Marvin Bagley,SUBSTITUTION,Bjelica Nemanja,7:36,3,Kings,Jazz,66 - 60,1,N/A,N/A,N/A
+56,Derrick Favors,SUBSTITUTION,Crowder Jae,7:36,3,Jazz,Kings,66 - 60,0,N/A,N/A,N/A
+57,Rudy Gobert,FG_ASSISTED,Ricky Rubio,7:31,3,Jazz,Kings,68 - 60,0,0,2,Dunk
+58,Bogdan Bogdanovic,FG_MISS,Dante Exum,7:21,3,Jazz,Kings,68 - 60,1,0,2,Layup
+59,Rudy Gobert,DEFENSIVE_REBOUND,None,7:17,3,Jazz,Kings,68 - 60,0,N/A,N/A,N/A
+60,Rudy Gobert,TURNOVER,De'Aaron Fox,7:16,3,Jazz,Kings,68 - 60,0,N/A,N/A,N/A
+61,Ricky Rubio,FOUL_ON_FLOOR,None,7:13,3,Jazz,Kings,68 - 60,0,N/A,N/A,N/A
+62,Bogdan Bogdanovic,FT,None,7:13,3,Kings,Jazz,68 - 61,1,N/A,1,N/A
+63,Alec Burks,SUBSTITUTION,Rubio Ricky,7:13,3,Jazz,Kings,68 - 61,0,N/A,N/A,N/A
+64,Bogdan Bogdanovic,FT,None,7:13,3,Kings,Jazz,68 - 62,1,N/A,1,N/A
+65,Joe Ingles,FG_MISS,None,7:02,3,Jazz,Kings,68 - 62,0,26,3,Jumper
+66,Rudy Gobert,OFFENSIVE_REBOUND,None,6:58,3,Jazz,Kings,68 - 62,0,N/A,N/A,N/A
+67,Rudy Gobert,FG_MISS,None,6:57,3,Jazz,Kings,68 - 62,0,0,2,Layup
+68,Rudy Gobert,OFFENSIVE_REBOUND,None,6:57,3,Jazz,Kings,68 - 62,0,N/A,N/A,N/A
+69,Rudy Gobert,FG_UNASSISTED,None,6:53,3,Jazz,Kings,70 - 62,0, ,2,Jumper
+70,Bogdan Bogdanovic,TURNOVER,Dante Exum,6:40,3,Kings,Jazz,70 - 62,1,N/A,N/A,N/A
+71,Rudy Gobert,FG_ASSISTED,Joe Ingles,6:35,3,Jazz,Kings,72 - 62,0,0,2,Dunk
+72,De'Aaron Fox,FG_MISS,None,6:21,3,Kings,Jazz,72 - 62,1,15,2,Jumper
+73,Alec Burks,DEFENSIVE_REBOUND,None,6:18,3,Jazz,Kings,72 - 62,0,N/A,N/A,N/A
+74,Alec Burks,FG_MISS,None,5:56,3,Jazz,Kings,72 - 62,0,26,3,Jumper
+75,Marvin Bagley,DEFENSIVE_REBOUND,None,5:54,3,Kings,Jazz,72 - 62,1,N/A,N/A,N/A
+76,Bogdan Bogdanovic,FG_ASSISTED,De'Aaron Fox,5:47,3,Kings,Jazz,72 - 65,1,25,3,Jumper
+77,Team,Unknown,None,5:43,3,Jazz,Kings,72 - 65,0,N/A,N/A,N/A
+78,Harry Giles,SUBSTITUTION,Cauley-Stein Willie,5:43,3,Kings,Jazz,72 - 65,1,N/A,N/A,N/A
+79,Raul Neto,SUBSTITUTION,Ingles Joe,5:43,3,Jazz,Kings,72 - 65,0,N/A,N/A,N/A
+80,Derrick Favors,FG_ASSISTED,Raul Neto,5:30,3,Jazz,Kings,74 - 65,0, ,2,Jumper
+81,Harry Giles,FG_MISS,None,5:10,3,Kings,Jazz,74 - 65,1, ,2,Jumper
+82,Harry Giles,OFFENSIVE_REBOUND,None,5:05,3,Kings,Jazz,74 - 65,1,N/A,N/A,N/A
+83,Harry Giles,FG_UNASSISTED,None,5:05,3,Kings,Jazz,74 - 67,1, ,2,Jumper
+84,Alec Burks,FG_UNASSISTED,None,4:55,3,Jazz,Kings,76 - 67,0,0,2,Layup
+85,De'Aaron Fox,FG_UNASSISTED,None,4:46,3,Kings,Jazz,76 - 69,1,0,2,Layup
+86,Derrick Favors,FOUL_ON_FLOOR,None,4:46,3,Jazz,Kings,76 - 69,0,N/A,N/A,N/A
+87,De'Aaron Fox,FT_MISS,None,4:46,3,Kings,Jazz,76 - 69,1,N/A,1,N/A
+88,Alec Burks,DEFENSIVE_REBOUND,None,4:46,3,Jazz,Kings,76 - 69,0,N/A,N/A,N/A
+89,Alec Burks,FG_UNASSISTED,None,4:37,3,Jazz,Kings,78 - 69,0,0,2,Layup
+90,Harry Giles,FOUL_ON_FLOOR,None,4:37,3,Kings,Jazz,78 - 69,1,N/A,N/A,N/A
+91,Alec Burks,FT,None,4:37,3,Jazz,Kings,79 - 69,0,N/A,1,N/A
+92,De'Aaron Fox,FG_UNASSISTED,None,4:26,3,Kings,Jazz,79 - 71,1,13,2,Jumper
+93,Alec Burks,FG_UNASSISTED,None,4:07,3,Jazz,Kings,81 - 71,0,0,2,Layup
+94,Marvin Bagley,FG_ASSISTED,Harry Giles,3:56,3,Kings,Jazz,81 - 73,1,0,2,Layup
+95,Raul Neto,TURNOVER,Harry Giles,3:43,3,Jazz,Kings,81 - 73,0,N/A,N/A,N/A
+96,Derrick Favors,FOUL_ON_FLOOR,None,3:40,3,Jazz,Kings,81 - 73,0,N/A,N/A,N/A
+97,Marvin Bagley,FT,None,3:40,3,Kings,Jazz,81 - 74,1,N/A,1,N/A
+98,Royce O'Neale,SUBSTITUTION,Exum Dante,3:40,3,Jazz,Kings,81 - 74,0,N/A,N/A,N/A
+99,Marvin Bagley,FT,None,3:40,3,Kings,Jazz,81 - 75,1,N/A,1,N/A
+100,Royce O'Neale,TURNOVER,De'Aaron Fox,3:25,3,Jazz,Kings,81 - 75,0,N/A,N/A,N/A
+101,Harry Giles,FG_UNASSISTED,None,3:19,3,Kings,Jazz,81 - 77,1, ,2,Jumper
+102,Alec Burks,FG_MISS,None,3:03,3,Jazz,Kings,81 - 77,0,10,2,Jumper
+103,Marvin Bagley,DEFENSIVE_REBOUND,None,2:59,3,Kings,Jazz,81 - 77,1,N/A,N/A,N/A
+104,Harry Giles,FG_MISS,None,2:51,3,Kings,Jazz,81 - 77,1,25,3,Jumper
+105,Alec Burks,DEFENSIVE_REBOUND,None,2:47,3,Jazz,Kings,81 - 77,0,N/A,N/A,N/A
+106,Justin Jackson,FOUL_ON_FLOOR,None,2:31,3,Kings,Jazz,81 - 77,1,N/A,N/A,N/A
+107,Raul Neto,FT,None,2:31,3,Jazz,Kings,82 - 77,0,N/A,1,N/A
+108,Grayson Allen,SUBSTITUTION,Burks Alec,2:31,3,Jazz,Kings,82 - 77,0,N/A,N/A,N/A
+109,Joe Ingles,SUBSTITUTION,Gobert Rudy,2:31,3,Jazz,Kings,82 - 77,0,N/A,N/A,N/A
+110,Thabo Sefolosha,SUBSTITUTION,O'Neale Royce,2:31,3,Jazz,Kings,82 - 77,0,N/A,N/A,N/A
+111,Raul Neto,FT,None,2:31,3,Jazz,Kings,83 - 77,0,N/A,1,N/A
+112,De'Aaron Fox,TURNOVER,Derrick Favors,2:23,3,Kings,Jazz,83 - 77,1,N/A,N/A,N/A
+113,Joe Ingles,FG_ASSISTED,Raul Neto,2:17,3,Jazz,Kings,86 - 77,0,25,3,Jumper
+114,Marvin Bagley,FG_MISS,None,1:57,3,Kings,Jazz,86 - 77,1,0,2,Layup
+115,Thabo Sefolosha,DEFENSIVE_REBOUND,None,1:54,3,Jazz,Kings,86 - 77,0,N/A,N/A,N/A
+116,Grayson Allen,TURNOVER,None,1:52,3,Jazz,Kings,86 - 77,0,N/A,N/A,N/A
+117,Buddy Hield,SUBSTITUTION,Bogdanovic Bogdan,1:52,3,Kings,Jazz,86 - 77,1,N/A,N/A,N/A
+118,Harry Giles,FG_MISS,None,1:36,3,Kings,Jazz,86 - 77,1,9,2,Jumper
+119,Harry Giles,OFFENSIVE_REBOUND,None,1:34,3,Kings,Jazz,86 - 77,1,N/A,N/A,N/A
+120,Harry Giles,TURNOVER,Thabo Sefolosha,1:31,3,Kings,Jazz,86 - 77,1,N/A,N/A,N/A
+121,Grayson Allen,FG_ASSISTED,Raul Neto,1:26,3,Jazz,Kings,89 - 77,0,23,3,Jumper
+122,Marvin Bagley,FG_ASSISTED,Harry Giles,1:14,3,Kings,Jazz,89 - 79,1,0,2,Layup
+123,Raul Neto,FG_MISS,Harry Giles,1:01,3,Kings,Jazz,89 - 79,0,0,2,Layup
+124,Team,OFFENSIVE_REBOUND,None,1:01,3,Jazz,Kings,89 - 79,0,N/A,N/A,N/A
+125,Derrick Favors,FG_ASSISTED,Joe Ingles,57.8,3,Jazz,Kings,91 - 79,0,20,2,Jumper
+126,Justin Jackson,FG_MISS,None,46.9,3,Kings,Jazz,91 - 79,1,23,3,Jumper
+127,Thabo Sefolosha,DEFENSIVE_REBOUND,None,43.1,3,Jazz,Kings,91 - 79,0,N/A,N/A,N/A
+128,Derrick Favors,TURNOVER,None,35.8,3,Jazz,Kings,91 - 79,0,N/A,N/A,N/A
+129,Frank Mason,SUBSTITUTION,Fox De'Aaron,35.8,3,Kings,Jazz,91 - 79,1,N/A,N/A,N/A
+130,Thabo Sefolosha,FOUL_ON_FLOOR,None,31.3,3,Jazz,Kings,91 - 79,0,N/A,N/A,N/A
+131,Frank Mason,FT_MISS,None,31.3,3,Kings,Jazz,91 - 79,1,N/A,1,N/A
+132,Team,OFFENSIVE_REBOUND,None,31.3,3,Kings,Jazz,91 - 79,1,N/A,N/A,N/A
+133,Frank Mason,FT,None,31.3,3,Kings,Jazz,91 - 80,1,N/A,1,N/A
+134,blocks Derrick,FG_MISS,Marvin Bagley,11.4,3,Kings,Jazz,91 - 80,0,0,2,Layup
+135,Harry Giles,DEFENSIVE_REBOUND,None,11.4,3,Kings,Jazz,91 - 80,1,N/A,N/A,N/A
+136,Marvin Bagley,FG_MISS,Derrick Favors,4.1,3,Jazz,Kings,91 - 80,1,0,2,Layup
+137,Team,DEFENSIVE_REBOUND,None,3.9,3,Jazz,Kings,91 - 80,0,N/A,N/A,N/A
+138,Raul Neto,FG_MISS,None,0.0,3,Jazz,Kings,91 - 80,0,20,2,Jumper
+139,Team,OFFENSIVE_REBOUND,None,0.0,3,Jazz,Kings,91 - 80,0,N/A,N/A,N/A
+140,End of,Unknown,None,0.0,3,Kings,Jazz,91 - 80,1,N/A,N/A,N/A
+0,Derrick Favors,FG_ASSISTED,Raul Neto,11:48,4,Jazz,Kings,93 - 80,0,0,2,Dunk
+1,Harry Giles,FOUL_ON_FLOOR,None,11:48,4,Kings,Jazz,93 - 80,1,N/A,N/A,N/A
+2,Derrick Favors,FT,None,11:48,4,Jazz,Kings,94 - 80,0,N/A,1,N/A
+3,Buddy Hield,TURNOVER,Raul Neto,11:42,4,Kings,Jazz,94 - 80,1,N/A,N/A,N/A
+4,Joe Ingles,FG_ASSISTED,Raul Neto,11:39,4,Jazz,Kings,97 - 80,0,25,3,Jumper
+5,Buddy Hield,FG_ASSISTED,Harry Giles,11:26,4,Kings,Jazz,97 - 82,1,0,2,Layup
+6,Grayson Allen,FG_MISS,None,11:11,4,Jazz,Kings,97 - 82,0,23,3,Jumper
+7,Justin Jackson,DEFENSIVE_REBOUND,None,11:07,4,Kings,Jazz,97 - 82,1,N/A,N/A,N/A
+8,Joe Ingles,FOUL_ON_FLOOR,None,11:07,4,Jazz,Kings,97 - 82,0,N/A,N/A,N/A
+9,Buddy Hield,FG_MISS,None,10:53,4,Kings,Jazz,97 - 82,1, ,3,Jumper
+10,Derrick Favors,DEFENSIVE_REBOUND,None,10:48,4,Jazz,Kings,97 - 82,0,N/A,N/A,N/A
+11,Grayson Allen,FG_MISS,None,10:42,4,Jazz,Kings,97 - 82,0,23,3,Jumper
+12,Harry Giles,DEFENSIVE_REBOUND,None,10:38,4,Kings,Jazz,97 - 82,1,N/A,N/A,N/A
+13,Raul Neto,FOUL_ON_FLOOR,None,10:35,4,Jazz,Kings,97 - 82,0,N/A,N/A,N/A
+14,Justin Jackson,FT_MISS,None,10:35,4,Kings,Jazz,97 - 82,1,N/A,1,N/A
+15,Team,OFFENSIVE_REBOUND,None,10:35,4,Kings,Jazz,97 - 82,1,N/A,N/A,N/A
+16,Justin Jackson,FT,None,10:35,4,Kings,Jazz,97 - 83,1,N/A,1,N/A
+17,Derrick Favors,FG_ASSISTED,Grayson Allen,10:19,4,Jazz,Kings,99 - 83,0,7,2,Jumper
+18,Thabo Sefolosha,FOUL_ON_FLOOR,None,10:13,4,Jazz,Kings,99 - 83,0,N/A,N/A,N/A
+19,Buddy Hield,TURNOVER,Thabo Sefolosha,10:10,4,Kings,Jazz,99 - 83,1,N/A,N/A,N/A
+20,Marvin Bagley,FOUL_ON_FLOOR,None,10:06,4,Kings,Jazz,99 - 83,1,N/A,N/A,N/A
+21,Derrick Favors,FT,None,10:06,4,Jazz,Kings,100 - 83,0,N/A,1,N/A
+22,Derrick Favors,FT_MISS,None,10:06,4,Jazz,Kings,100 - 83,0,N/A,1,N/A
+23,Harry Giles,DEFENSIVE_REBOUND,None,10:04,4,Kings,Jazz,100 - 83,1,N/A,N/A,N/A
+24,Marvin Bagley,FG_MISS,None,9:54,4,Kings,Jazz,100 - 83,1,0,2,Layup
+25,Harry Giles,OFFENSIVE_REBOUND,None,9:48,4,Kings,Jazz,100 - 83,1,N/A,N/A,N/A
+26,Harry Giles,FG_UNASSISTED,None,9:48,4,Kings,Jazz,100 - 85,1,0,2,Dunk
+27,Joe Ingles,FG_UNASSISTED,None,9:37,4,Jazz,Kings,102 - 85,0,6,2,Jumper
+28,Justin Jackson,FG_ASSISTED,Harry Giles,9:22,4,Kings,Jazz,102 - 87,1,0,2,Layup
+29,Thabo Sefolosha,FG_MISS,None,9:03,4,Jazz,Kings,102 - 87,0,26,3,Jumper
+30,Derrick Favors,OFFENSIVE_REBOUND,None,9:03,4,Jazz,Kings,102 - 87,0,N/A,N/A,N/A
+31,Marvin Bagley,FOUL_ON_FLOOR,None,9:01,4,Kings,Jazz,102 - 87,1,N/A,N/A,N/A
+32,Derrick Favors,FT_MISS,None,9:01,4,Jazz,Kings,102 - 87,0,N/A,1,N/A
+33,Team,OFFENSIVE_REBOUND,None,9:01,4,Jazz,Kings,102 - 87,0,N/A,N/A,N/A
+34,Ricky Rubio,SUBSTITUTION,Ingles Joe,9:01,4,Jazz,Kings,102 - 87,0,N/A,N/A,N/A
+35,Dante Exum,SUBSTITUTION,Allen Grayson,9:01,4,Jazz,Kings,102 - 87,0,N/A,N/A,N/A
+36,Alec Burks,SUBSTITUTION,Neto Raul,9:01,4,Jazz,Kings,102 - 87,0,N/A,N/A,N/A
+37,Derrick Favors,FT,None,9:01,4,Jazz,Kings,103 - 87,0,N/A,1,N/A
+38,Marvin Bagley,FG_MISS,None,8:50,4,Kings,Jazz,103 - 87,1,23,3,Jumper
+39,Thabo Sefolosha,DEFENSIVE_REBOUND,None,8:44,4,Jazz,Kings,103 - 87,0,N/A,N/A,N/A
+40,Ricky Rubio,FG_MISS,None,8:33,4,Jazz,Kings,103 - 87,0,19,2,Jumper
+41,Harry Giles,DEFENSIVE_REBOUND,None,8:29,4,Kings,Jazz,103 - 87,1,N/A,N/A,N/A
+42,Marvin Bagley,FG_UNASSISTED,None,8:23,4,Kings,Jazz,103 - 89,1,6,2,Jumper
+43,Alec Burks,FG_UNASSISTED,None,8:03,4,Jazz,Kings,105 - 89,0,0,2,Layup
+44,Marvin Bagley,FG_MISS,None,7:50,4,Kings,Jazz,105 - 89,1,26,3,Jumper
+45,Dante Exum,DEFENSIVE_REBOUND,None,7:47,4,Jazz,Kings,105 - 89,0,N/A,N/A,N/A
+46,Harry Giles,FOUL_ON_FLOOR,None,7:44,4,Kings,Jazz,105 - 89,1,N/A,N/A,N/A
+47,Thabo Sefolosha,FT,None,7:44,4,Jazz,Kings,106 - 89,0,N/A,1,N/A
+48,Rudy Gobert,SUBSTITUTION,Favors Derrick,7:44,4,Jazz,Kings,106 - 89,0,N/A,N/A,N/A
+49,Bogdan Bogdanovic,SUBSTITUTION,Jackson Justin,7:44,4,Kings,Jazz,106 - 89,1,N/A,N/A,N/A
+50,Thabo Sefolosha,FT,None,7:44,4,Jazz,Kings,107 - 89,0,N/A,1,N/A
+51,Frank Mason,FG_MISS,None,7:35,4,Kings,Jazz,107 - 89,1,0,2,Layup
+52,Ricky Rubio,DEFENSIVE_REBOUND,None,7:31,4,Jazz,Kings,107 - 89,0,N/A,N/A,N/A
+53,Thabo Sefolosha,FG_MISS,None,7:28,4,Jazz,Kings,107 - 89,0,25,3,Jumper
+54,Buddy Hield,DEFENSIVE_REBOUND,None,7:22,4,Kings,Jazz,107 - 89,1,N/A,N/A,N/A
+55,Harry Giles,FG_ASSISTED,Buddy Hield,7:20,4,Kings,Jazz,107 - 91,1,0,2,Dunk
+56,Team,Unknown,None,7:19,4,Jazz,Kings,107 - 91,0,N/A,N/A,N/A
+57,Jae Crowder,SUBSTITUTION,Sefolosha Thabo,7:19,4,Jazz,Kings,107 - 91,0,N/A,N/A,N/A
+58,Rudy Gobert,FG_MISS,Harry Giles,7:00,4,Kings,Jazz,107 - 91,0,0,2,Layup
+59,Team,OFFENSIVE_REBOUND,None,7:00,4,Jazz,Kings,107 - 91,0,N/A,N/A,N/A
+60,Buddy Hield,FOUL_ON_FLOOR,None,7:00,4,Kings,Jazz,107 - 91,1,N/A,N/A,N/A
+61,Ricky Rubio,FT_MISS,None,7:00,4,Jazz,Kings,107 - 91,0,N/A,1,N/A
+62,Team,OFFENSIVE_REBOUND,None,7:00,4,Jazz,Kings,107 - 91,0,N/A,N/A,N/A
+63,Alec Burks,FG_UNASSISTED,None,6:55,4,Jazz,Kings,111 - 91,0,26,3,Jumper
+64,Dante Exum,FOUL_ON_FLOOR,None,6:43,4,Jazz,Kings,110 - 91,0,N/A,N/A,N/A
+65,Harry Giles,FG_MISS,None,6:34,4,Kings,Jazz,110 - 91,1,9,2,Jumper
+66,Ricky Rubio,DEFENSIVE_REBOUND,None,6:30,4,Jazz,Kings,111 - 91,0,N/A,N/A,N/A
+67,Alec Burks,TURNOVER,Harry Giles,6:21,4,Jazz,Kings,110 - 91,0,N/A,N/A,N/A
+68,Marvin Bagley,FG_ASSISTED,Harry Giles,6:02,4,Kings,Jazz,110 - 93,1,0,2,Dunk
+69,Ricky Rubio,FG_UNASSISTED,None,5:47,4,Jazz,Kings,112 - 93,0,0,2,Layup
+70,Harry Giles,FG_MISS,None,5:35,4,Kings,Jazz,112 - 93,1,8,2,Jumper
+71,Ricky Rubio,DEFENSIVE_REBOUND,None,5:32,4,Jazz,Kings,112 - 93,0,N/A,N/A,N/A
+72,Alec Burks,FG_MISS,None,5:22,4,Jazz,Kings,112 - 93,0,27,3,Jumper
+73,Buddy Hield,DEFENSIVE_REBOUND,None,5:19,4,Kings,Jazz,112 - 93,1,N/A,N/A,N/A
+74,Buddy Hield,FG_MISS,None,5:14,4,Kings,Jazz,112 - 93,1, ,2,Jumper
+75,Ricky Rubio,DEFENSIVE_REBOUND,None,5:11,4,Jazz,Kings,112 - 93,0,N/A,N/A,N/A
+76,Buddy Hield,FOUL_ON_FLOOR,None,5:11,4,Kings,Jazz,112 - 93,1,N/A,N/A,N/A
+77,Ricky Rubio,FT,None,5:11,4,Jazz,Kings,113 - 93,0,N/A,1,N/A
+78,Skal Labissiere,SUBSTITUTION,Giles Harry,5:11,4,Kings,Jazz,113 - 93,1,N/A,N/A,N/A
+79,Ben McLemore,SUBSTITUTION,Hield Buddy,5:11,4,Kings,Jazz,113 - 93,1,N/A,N/A,N/A
+80,Joe Ingles,SUBSTITUTION,Exum Dante,5:11,4,Jazz,Kings,113 - 93,0,N/A,N/A,N/A
+81,Ricky Rubio,FT,None,5:11,4,Jazz,Kings,114 - 93,0,N/A,1,N/A
+82,Frank Mason,FG_MISS,None,4:54,4,Kings,Jazz,114 - 93,1, ,2,Jumper
+83,Jae Crowder,DEFENSIVE_REBOUND,None,4:51,4,Jazz,Kings,114 - 93,0,N/A,N/A,N/A
+84,Skal Labissiere,FOUL_ON_FLOOR,None,4:40,4,Kings,Jazz,114 - 93,1,N/A,N/A,N/A
+85,Joe Ingles,FT,None,4:40,4,Jazz,Kings,115 - 93,0,N/A,1,N/A
+86,Troy Williams,SUBSTITUTION,Bogdanovic Bogdan,4:40,4,Kings,Jazz,115 - 93,1,N/A,N/A,N/A
+87,Yogi Ferrell,SUBSTITUTION,III Mason,4:40,4,Kings,Jazz,115 - 93,1,N/A,N/A,N/A
+88,Raul Neto,SUBSTITUTION,Rubio Ricky,4:40,4,Jazz,Kings,115 - 93,0,N/A,N/A,N/A
+89,Joe Ingles,FT,None,4:40,4,Jazz,Kings,116 - 93,0,N/A,1,N/A
+90,Troy Williams,FG_MISS,None,4:22,4,Kings,Jazz,116 - 93,1, ,2,Jumper
+91,Marvin Bagley,OFFENSIVE_REBOUND,None,4:18,4,Kings,Jazz,116 - 93,1,N/A,N/A,N/A
+92,Marvin Bagley,FG_UNASSISTED,None,4:18,4,Kings,Jazz,116 - 95,1, ,2,Jumper
+93,Joe Ingles,FG_ASSISTED,Rudy Gobert,4:05,4,Jazz,Kings,118 - 95,0,0,2,Layup
+94,Rudy Gobert,FOUL_TECHNICAL,None,3:55,4,Jazz,Kings,118 - 95,0,N/A,N/A,N/A
+95,Skal Labissiere,FT_MISS,None,3:55,4,Kings,Jazz,118 - 95,1,N/A,1,N/A
+96,Team,OFFENSIVE_REBOUND,None,3:55,4,Kings,Jazz,118 - 95,1,N/A,N/A,N/A
+97,Harry Giles,SUBSTITUTION,III Bagley,3:55,4,Kings,Jazz,118 - 95,1,N/A,N/A,N/A
+98,Grayson Allen,SUBSTITUTION,Ingles Joe,3:55,4,Jazz,Kings,118 - 95,0,N/A,N/A,N/A
+99,Skal Labissiere,FG_ASSISTED,Yogi Ferrell,3:47,4,Kings,Jazz,118 - 97,1, ,2,Jumper
+100,Jae Crowder,TURNOVER,Troy Williams,3:32,4,Jazz,Kings,118 - 97,0,N/A,N/A,N/A
+101,Troy Williams,FG_UNASSISTED,None,3:27,4,Kings,Jazz,118 - 99,1, ,2,Jumper
+102,Raul Neto,FG_UNASSISTED,None,3:14,4,Jazz,Kings,120 - 99,0,0,2,Layup
+103,Harry Giles,Unknown,None,3:14,4,Kings,Jazz,120 - 99,1,N/A,N/A,N/A
+104,Harry Giles,FG_MISS,Rudy Gobert,3:06,4,Jazz,Kings,120 - 99,1,0,2,Layup
+105,Raul Neto,DEFENSIVE_REBOUND,None,3:03,4,Jazz,Kings,120 - 99,0,N/A,N/A,N/A
+106,Skal Labissiere,FOUL_ON_FLOOR,None,2:57,4,Kings,Jazz,120 - 99,1,N/A,N/A,N/A
+107,Team,Unknown,None,2:57,4,Kings,Jazz,120 - 99,1,N/A,N/A,N/A
+108,Georges Niang,SUBSTITUTION,Gobert Rudy,2:57,4,Jazz,Kings,120 - 99,0,N/A,N/A,N/A
+109,Ekpe Udoh,SUBSTITUTION,Crowder Jae,2:57,4,Jazz,Kings,120 - 99,0,N/A,N/A,N/A
+110,Raul Neto,FT,None,2:57,4,Jazz,Kings,121 - 99,0,N/A,1,N/A
+111,Raul Neto,FT,None,2:57,4,Jazz,Kings,122 - 99,0,N/A,1,N/A
+112,Ben McLemore,FG_MISS,None,2:47,4,Kings,Jazz,122 - 99,1,22,2,Jumper
+113,Alec Burks,DEFENSIVE_REBOUND,None,2:43,4,Jazz,Kings,122 - 99,0,N/A,N/A,N/A
+114,Raul Neto,FG_ASSISTED,Alec Burks,2:33,4,Jazz,Kings,125 - 99,0,24,3,Jumper
+115,Harry Giles,FG_ASSISTED,Yogi Ferrell,2:20,4,Kings,Jazz,125 - 101,1,0,2,Layup
+116,Skal Labissiere,FOUL_ON_FLOOR,None,2:06,4,Kings,Jazz,125 - 101,1,N/A,N/A,N/A
+117,Grayson Allen,FT,None,2:06,4,Jazz,Kings,126 - 101,0,N/A,1,N/A
+118,Grayson Allen,FT,None,2:06,4,Jazz,Kings,127 - 101,0,N/A,1,N/A
+119,Ben McLemore,FG_MISS,None,1:56,4,Kings,Jazz,127 - 101,1,28,3,Jumper
+120,Georges Niang,DEFENSIVE_REBOUND,None,1:51,4,Jazz,Kings,127 - 101,0,N/A,N/A,N/A
+121,Georges Niang,FG_UNASSISTED,None,1:43,4,Jazz,Kings,129 - 101,0,0,2,Layup
+122,Troy Williams,FG_ASSISTED,Ben McLemore,1:32,4,Kings,Jazz,129 - 104,1,25,3,Jumper
+123,Raul Neto,FG_MISS,Troy Williams,1:17,4,Kings,Jazz,129 - 104,0,0,2,Layup
+124,Skal Labissiere,DEFENSIVE_REBOUND,None,1:13,4,Kings,Jazz,129 - 104,1,N/A,N/A,N/A
+125,Grayson Allen,FOUL_ON_FLOOR,None,1:13,4,Jazz,Kings,129 - 104,0,N/A,N/A,N/A
+126,Yogi Ferrell,FT,None,1:13,4,Kings,Jazz,129 - 105,1,N/A,1,N/A
+127,Yogi Ferrell,FT,None,1:13,4,Kings,Jazz,129 - 106,1,N/A,1,N/A
+128,Ben McLemore,FOUL_ON_FLOOR,None,1:02,4,Kings,Jazz,129 - 106,1,N/A,N/A,N/A
+129,Grayson Allen,FT_MISS,None,1:02,4,Jazz,Kings,129 - 106,0,N/A,1,N/A
+130,Team,OFFENSIVE_REBOUND,None,1:02,4,Jazz,Kings,129 - 106,0,N/A,N/A,N/A
+131,Grayson Allen,FT,None,1:02,4,Jazz,Kings,130 - 106,0,N/A,1,N/A
+132,Troy Williams,FG_ASSISTED,Harry Giles,48.3,4,Kings,Jazz,130 - 109,1,25,3,Jumper
+133,Alec Burks,FG_MISS,None,35.8,4,Jazz,Kings,130 - 109,0,26,3,Jumper
+134,Grayson Allen,OFFENSIVE_REBOUND,None,29.6,4,Jazz,Kings,130 - 109,0,N/A,N/A,N/A
+135,Georges Niang,FG_ASSISTED,Alec Burks,27.0,4,Jazz,Kings,133 - 109,0,23,3,Jumper
+136,Yogi Ferrell,FG_UNASSISTED,None,16.4,4,Kings,Jazz,133 - 112,1,26,3,Jumper
+137,End of,Unknown,None,0.0,4,Kings,Jazz,133 - 112,1,N/A,N/A,N/A
+138,End of,Unknown,None,0.0,4,Kings,Jazz,133 - 112,1,N/A,N/A,N/A
