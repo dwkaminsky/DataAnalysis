@@ -68,7 +68,7 @@ def run_neural_net(X_TRAIN, X_TEST, Y_TRAIN, Y_TEST):
         else:
             prediction_average = prediction_average + prediction
     prediction_average = prediction_average / 5
-    return prediction_average, Y_TEST
+    return prediction_average[:, 1], Y_TEST
 
 
 def run_SVC():
