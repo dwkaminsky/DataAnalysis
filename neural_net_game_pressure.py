@@ -57,16 +57,16 @@ def run_neural_net(X_TRAIN, X_TEST, Y_TRAIN, Y_TEST):
     scaler.fit(X_TRAIN)
     X_TRAIN = scaler.transform(X_TRAIN)
     X_TEST = scaler.transform(X_TEST)
-    prediction_average = []
+    prediction_average = 0
     for random_state in range(5):
         clf = MLPClassifier(solver='lbfgs', alpha=1e-5,
                             hidden_layer_sizes=(5,), random_state=1)
         clf = clf.fit(X_TRAIN, Y_TRAIN)
         prediction = clf.predict_proba(X_TEST)
         if random_state == 0:
-            prediction_average = prediction
+            prediction_average = np.mean(prediction)
         else:
-            prediction_average = prediction_average + prediction
+            prediction_average = prediction_average + np.mean(prediction)
     prediction_average = prediction_average / 5
     return prediction_average, Y_TEST
 
@@ -130,5 +130,5 @@ def main():
     plt.show()
 
 
-main()
+# main()
 

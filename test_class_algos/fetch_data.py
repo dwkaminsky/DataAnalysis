@@ -39,7 +39,7 @@ def get_clean_game_data(file_path):
         return df
     except:
         play_types.append('Won?')
-        return pd.DataFrame(columns = play_types)
+        return pd.DataFrame(columns=play_types)
 
 
 def get_test_df():
