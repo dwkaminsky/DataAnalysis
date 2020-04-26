@@ -31,10 +31,11 @@ def get_player_score(player_name, team_name, cutoff_time, cutoff_score):
     Y_TEST = focus_player_df['Made?']
     Y_TRAIN = train_df['Made?']
     prediction_average, Y_TEST = run_neural_net(X_TRAIN, X_TEST, Y_TRAIN, Y_TEST)
-    print(np.mean(Y_TEST))
-    print(prediction_average)
+    return Y_TEST, prediction_average
 
 
 # For Luka Doncic, when he was playing for the Mavericks, analyze plays with <=300 seconds with
 # the game within 5 points
-get_player_score('Luka Doncic', 'Mavericks', 300, 5)
+actual_makes, predicted_makes = get_player_score('Luka Doncic', 'Mavericks', 300, 5)
+print(actual_makes)
+print(predicted_makes)

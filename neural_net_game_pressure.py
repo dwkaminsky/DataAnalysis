@@ -64,9 +64,9 @@ def run_neural_net(X_TRAIN, X_TEST, Y_TRAIN, Y_TEST):
         clf = clf.fit(X_TRAIN, Y_TRAIN)
         prediction = clf.predict_proba(X_TEST)
         if random_state == 0:
-            prediction_average = np.mean(prediction)
+            prediction_average = prediction
         else:
-            prediction_average = prediction_average + np.mean(prediction)
+            prediction_average = prediction_average + prediction
     prediction_average = prediction_average / 5
     return prediction_average, Y_TEST
 
