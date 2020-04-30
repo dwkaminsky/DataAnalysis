@@ -1,5 +1,6 @@
 import pandas as pd
 import numpy as np
+import matplotlib.pyplot as plt
 from test_class_algos.fetch_data import get_clean_game_data
 from config import base_path
 from neural_net_game_pressure import run_neural_net
@@ -39,3 +40,30 @@ def get_player_score(player_name, team_name, cutoff_time, cutoff_score):
 actual_makes, predicted_makes = get_player_score('Luka Doncic', 'Mavericks', 300, 5)
 print(np.mean(actual_makes))
 print(np.mean(predicted_makes))
+
+roster = ['Jordan Bell', 'Quinn Cook', 'DeMarcus Cousins', 'Stephen Curry', 
+'Kevin Durant', 'Draymond Green', 'Andre Iguodala', 'Jonas Jerebko', 
+'Shaun Livingston', 'Kevon Looney', 'Alfonzo McKinnie', 'Klay Thompson']
+class Player:
+    def __init__ (self, name, actual_makes, predicted_makes):
+        self.name = name
+        self.actual_makes = actual_makes
+        self.predicted_makes = predicted_makes
+players = [None] * 12
+for i in range(12):
+    p = Player(roster[i], np.mean(get_player_score(roster[i], 'Warriors', 300, 5)[0]), np.mean(get_player_score(roster[i], 'Warriors', 300, 5)[1]))
+    players[i] = p
+    print(players[i].name, players[i].actual_makes, players[i].predicted_makes)
+actual = [p.actual_makes for p in players]
+predicted = [p.predicted_makes for p in players]    
+
+width = 0.25
+x = np.arange(12)
+x2 = [i + width for i in x]
+plt.bar(x, predicted, color='#0000FF', width = width, label='Predicted Makes')
+plt.bar(x2, actual, color='#FF0000', width = width, label='Actual Makes')
+plt.xticks(x, roster, rotation = 70)
+plt.ylabel('Shooting Percentage')
+plt.title('Golden State Warriors')
+plt.legend(loc = "best")
+plt.show()
