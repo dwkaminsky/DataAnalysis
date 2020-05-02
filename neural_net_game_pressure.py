@@ -60,7 +60,7 @@ def run_neural_net(X_TRAIN, X_TEST, Y_TRAIN, Y_TEST):
     prediction_average = 0
     for random_state in range(5):
         clf = MLPClassifier(solver='lbfgs', alpha=1e-5,
-                            hidden_layer_sizes=(5,), random_state=1)
+                            hidden_layer_sizes=(5,), random_state=random_state)
         clf = clf.fit(X_TRAIN, Y_TRAIN)
         prediction = clf.predict_proba(X_TEST)
         if random_state == 0:

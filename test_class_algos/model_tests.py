@@ -25,26 +25,26 @@ def test_all_models():
     scaler_1.fit(X_TEST)
     X_TEST = scaler_1.transform(X_TEST)
     #    ADA
-    ada_clf = AdaBoostClassifier(n_estimators=200, random_state=0, learning_rate=0.5)
-    ada_clf.fit(X_TRAIN, Y_TRAIN)
-    test_output = ada_clf.predict(X_TEST)
-    print(np.mean(abs(test_output - Y_TEST)))
-    gbm_clf = GradientBoostingClassifier()
-    gbm_clf.fit(X_TRAIN, Y_TRAIN)
-    test_output = gbm_clf.predict(X_TEST)
-    print(np.mean(abs(test_output - Y_TEST)))
-    #    LOGREG
-    logreg_clf = LogisticRegression(random_state=0, max_iter=1000)
-    logreg_clf.fit(X_TRAIN, Y_TRAIN)
-    test_output = logreg_clf.predict_proba(X_TEST)[:, 1]
-    print(np.mean(abs(test_output - Y_TEST)))
-    #    Nonlin SVC
-    nonlin_svc_clf = GaussianNB()
-    print('Started fit')
-    nonlin_svc_clf.fit(X_TRAIN, Y_TRAIN)
-    print('Started predict')
-    test_output = nonlin_svc_clf.predict_proba(X_TEST)[:, 1]
-    print(np.mean(abs(test_output - Y_TEST)))
+    # ada_clf = AdaBoostClassifier(n_estimators=200, random_state=0, learning_rate=0.5)
+    # ada_clf.fit(X_TRAIN, Y_TRAIN)
+    # test_output = ada_clf.predict(X_TEST)
+    # print(np.mean(abs(test_output - Y_TEST)))
+    # gbm_clf = GradientBoostingClassifier()
+    # gbm_clf.fit(X_TRAIN, Y_TRAIN)
+    # test_output = gbm_clf.predict(X_TEST)
+    # print(np.mean(abs(test_output - Y_TEST)))
+    # #    LOGREG
+    # logreg_clf = LogisticRegression(random_state=0, max_iter=1000)
+    # logreg_clf.fit(X_TRAIN, Y_TRAIN)
+    # test_output = logreg_clf.predict_proba(X_TEST)[:, 1]
+    # print(np.mean(abs(test_output - Y_TEST)))
+    # #    Nonlin SVC
+    # nonlin_svc_clf = GaussianNB()
+    # print('Started fit')
+    # nonlin_svc_clf.fit(X_TRAIN, Y_TRAIN)
+    # print('Started predict')
+    # test_output = nonlin_svc_clf.predict_proba(X_TEST)[:, 1]
+    # print(np.mean(abs(test_output - Y_TEST)))
     #    NN
     nn_clf = MLPClassifier(alpha=1, max_iter=1000, hidden_layer_sizes=(20, 10, 5, 2))
     nn_clf.fit(X_TRAIN, Y_TRAIN)

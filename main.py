@@ -37,7 +37,15 @@ def get_player_score(player_name, team_name, cutoff_time, cutoff_score):
 
 # For Luka Doncic, when he was playing for the Mavericks, analyze plays with <=300 seconds with
 # the game within 5 points
-actual_makes, predicted_makes = get_player_score('Luka Doncic', 'Mavericks', 300, 5)
+actual_makes, predicted_makes = get_player_score('Rudy Gobert', 'Jazz', 300, 5)
+print(np.mean(actual_makes))
+print(np.mean(predicted_makes))
+
+actual_makes, predicted_makes = get_player_score('Klay Thompson', 'Warriors', 300, 5)
+print(np.mean(actual_makes))
+print(np.mean(predicted_makes))
+
+actual_makes, predicted_makes = get_player_score('Trae Young', 'Hawks', 300, 5)
 print(np.mean(actual_makes))
 print(np.mean(predicted_makes))
 
